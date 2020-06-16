@@ -1,5 +1,5 @@
 ---
-title: File Format Wiki
+title: Farooq File Format Wiki
 linktitle: File Format Wiki
 description: FileFormat Wiki provides detailed format specifications, information about tools &amp; apps that can handle specific file types, and how developers can use this info in developing better applications.
 date: 2017-02-01
