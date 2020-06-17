@@ -5,7 +5,7 @@
     "display_name" : "Kashif Iqbal"
   },
   "draft" : "false",
-  "description" : "Farooq-Learn about 3D file formats such as GLB, FBX, GLTF, OBJ, PLY, JT, 3DS, and other popular 3D file types.",
+  "description" : "FarooqTest-Learn about 3D file formats such as GLB, FBX, GLTF, OBJ, PLY, JT, 3DS, and other popular 3D file types.",
   "categories" : [ "fundamentals" ],
   "title" : "Learn about 3D File Formats and APIs that can open and create 3D files",
   "linktitle" : "3D File Formats",
