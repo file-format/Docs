@@ -49,7 +49,7 @@ A typical 3MF document looks as follow:
 The payload includes the full set of parts required for processing the 3D Model part. All content to be used to manufacture an object described in the 3D payload MUST be contained in the 3MF Document. The description of each document part along with its status as required or option is as given in the following table.
 
 
-|#**Name**|#**Description**|#**Relationship Source**|#**Required/Optional**
+|**Name**|**Description**|**Relationship Source**|**Required/Optional**
 --- | --- | --- | ---
 |3D Model|Contains the description of one or more 3D objects for manufacturing.|Package|REQUIRED
 |Core Properties|The OPC part that contains various document properties.|Package|OPTIONAL
