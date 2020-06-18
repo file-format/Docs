@@ -16,19 +16,5 @@
   "lastmod" : "2019-10-28"
 }
 
-# Page Layout File Formats #
-
-
-|#File Extension|#File Format
-|[CGM](/page-description-language/cgm/)| 
-|[EPS](/page-description-language/eps/)| 
-|[PCL](/page-description-language/pcl/)| 
-|[PS](/page-description-language/ps/)| 
-|[SVG](/page-description-language/svg/)| 
-|[SWF](/page-description-language/swf/)| 
-|[TEX](/page-description-language/tex/)| 
-|[XPS](/page-description-language/xps/)|XML Paper Specifications Fixed Layout Files
-|[XSLFO](/page-description-language/xslfo/)| 
-|PUB|Microsoft Publisher File Format
-
- 
+# List of Page Layout File Extensions and Associated File Formats #
+Following is a list of common Page Layout formats along with their file extensions.
