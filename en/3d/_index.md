@@ -25,17 +25,3 @@ Got queries related to 3D file formats? Head on to our community [forums](https:
 # What are 3D File Formats? #
 
 Following is a list of popular 3D file formats that find their use in almost all daily work related to 3D.
-
-
-|#File Extension|#File Format
-|[3DS](/3d/3ds/)|3D Studio Mesh File Format
-|[3MF](/3d/3mf/)|3D Manufacturing File Format
-|[FBX](/3d/fbx/)|Filmbox Interchange File
-|[GLB](/3d/glb/)|Binary GL Transmission Format
-|[GLTF](/3d/gltf/)|GL Transmisison Format
-|[JT](/3d/jt/)|JT CAD File
-|[OBJ](/3d/obj/)|WaveFront 3D Object File
-|[PLY](/3d/ply/)|Polygon 3D File Format
-|[U3D](/3d/u3d/)|Universal 3D File Format
-|[VRML](/3d/vrml/)|Virtual Reality Modeling File Format
-|[X3D](/3d/x3d/)|3D Image File
