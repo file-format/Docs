@@ -23,7 +23,7 @@ The technical specifications of VDW file format are available online by [Microso
 
 
 |![Possible Implementation of a File](https://i-msdn.sec.s-msft.com/dynimg/IC873138.png "Possible Implementation of a File")
-|Possible implementation of a File
+Possible implementation of a File
 
 ## References ##
 

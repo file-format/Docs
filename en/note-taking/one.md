@@ -37,7 +37,7 @@ A section is the top-most container in a OneNote file that further contains diff
 * Metadata
 * Properties
 
-Metadata and properties include the section name, identification of the pages that are contained in the section, and the order in which those pages appear. The term "section" refers to all of the pages that are in a section and the representation of that data in a OneNote® revision store file, which has a .one file name extension. 
+Metadata and properties include the section name, identification of the pages that are contained in the section, and the order in which those pages appear. The term "section" refers to all of the pages that are in a section and the representation of that data in a OneNote® revision store file, which has a .one file name extension.
 
 #### Page ####
 
@@ -61,122 +61,117 @@ All structures are aligned on 1-byte boundaries. All integers are signed unless 
 
 The Header of .ONE file comprises of chunks that contain different unique ids and fields for representation of file information as follow:
 
-**guidFileType (16 bytes): **A GUID that specifies the type of the revision store file. MUST be one of the values from the following table.
+**guidFileType (16 bytes):** A GUID that specifies the type of the revision store file. MUST be one of the values from the following table.
 
 
-|#File Format|#Value
+|File Format|Value
+--- | --- |
 |.one|{7B5C52E4-D88C-4DA7-AEB1-5378D02996D3}
 |.onetoc2|{43FF2FA1-EFD9-4C76-9EE2-10EA5722765F}
 
-**guidFile (16 bytes): **A GUID that specifies the identity of this revision store file. SHOULD be globally unique.
+**guidFile (16 bytes):** A GUID that specifies the identity of this revision store file. SHOULD be globally unique.
 
-**guidLegacyFileVersion (16 bytes): **MUST be "{00000000-0000-0000-0000-000000000000}" and MUST be ignored.
+**guidLegacyFileVersion (16 bytes):** MUST be "{00000000-0000-0000-0000-000000000000}" and MUST be ignored.
 
-**guidFileFormat (16 bytes): **A GUID that specifies that the file is a revision store file. MUST be "{109ADD3F-911B-49F5-A5D0-1791EDC8AED8}".
+**guidFileFormat (16 bytes):** A GUID that specifies that the file is a revision store file. MUST be "{109ADD3F-911B-49F5-A5D0-1791EDC8AED8}".
 
-**ffvLastCodeThatWroteToThisFile (4 bytes): **An unsigned integer. MUST be one of the values in the following table, depending on the file type.
+**ffvLastCodeThatWroteToThisFile (4 bytes):** An unsigned integer. MUST be one of the values in the following table, depending on the file type.
 
-
-|#File Format|#Value
+|File Format|Value
+--- | --- |
 |.one|0x0000002A
 |.onetoc2|0x0000001B
 
-**ffvOldestCodeThatHasWrittenToThisFile (4 bytes): **An unsigned integer. MUST be one of the values in the following table, depending on the file format of this file.
+**ffvOldestCodeThatHasWrittenToThisFile (4 bytes):** An unsigned integer. MUST be one of the values in the following table, depending on the file format of this file.
 
 
-|#File Format|#Value
+|File Format|Value
 |.one|0x0000002A
 |.onetoc2|0x0000001B
 
-: **ffvNewestCodeThatHasWrittenToThisFile (4 bytes): **An unsigned integer. MUST be one of the values in the following table, depending on the file format of this file.
+**ffvNewestCodeThatHasWrittenToThisFile (4 bytes):** An unsigned integer. MUST be one of the values in the following table, depending on the file format of this file.
 :  
 
-(((
 
-|#File Format|#Value
+|File Format|Value
+--- | --- |
 |.one|0x0000002A
 |.onetoc2|0x0000001B
-)))
 
-**ffvOldestCodeThatMayReadThisFile (4 bytes): **An unsigned integer. MUST be one of the values in the following table, depending on the file format of this file.
+**ffvOldestCodeThatMayReadThisFile (4 bytes):** An unsigned integer. MUST be one of the values in the following table, depending on the file format of this file.
 
-(((
-
-|#File Format|#Value
+|File Format|Value
+--- | --- |
 |.one|0x0000002A
 |.onetoc2|0x0000001B
-)))
 
-**fcrLegacyFreeChunkList (8 bytes): **A **FileChunkReference32** structure  that MUST have a value of "fcrZero".
+**fcrLegacyFreeChunkList (8 bytes):** A **FileChunkReference32** structure  that MUST have a value of "fcrZero".
 
-**fcrLegacyTransactionLog (8 bytes): **A **FileChunkReference32** structure that MUST be "fcrNil".
+**fcrLegacyTransactionLog (8 bytes):** A **FileChunkReference32** structure that MUST be "fcrNil".
 
-**cTransactionsInLog (4 bytes): **An unsigned integer that specifies the number of transactions in the transaction log. MUST NOT be zero.
+**cTransactionsInLog (4 bytes):** An unsigned integer that specifies the number of transactions in the transaction log. MUST NOT be zero.
 
-**cbLegacyExpectedFileLength (4 bytes): **An unsigned integer that MUST be zero, and MUST be ignored.
+**cbLegacyExpectedFileLength (4 bytes):** An unsigned integer that MUST be zero, and MUST be ignored.
 
-**rgbPlaceholder (8 bytes): **An unsigned integer that MUST be zero, and MUST be ignored.
+**rgbPlaceholder (8 bytes):** An unsigned integer that MUST be zero, and MUST be ignored.
 
-**fcrLegacyFileNodeListRoot (8 bytes): **A **FileChunkReference32** structure that MUST be "fcrNil".
+**fcrLegacyFileNodeListRoot (8 bytes):** A **FileChunkReference32** structure that MUST be "fcrNil".
 
-**cbLegacyFreeSpaceInFreeChunkList (4 bytes): **An unsigned integer that MUST be zero, and MUST be ignored.
+**cbLegacyFreeSpaceInFreeChunkList (4 bytes):** An unsigned integer that MUST be zero, and MUST be ignored.
 
-**fNeedsDefrag (1 byte): **MUST be ignored.
+**fNeedsDefrag (1 byte):** MUST be ignored.
 
-**fRepairedFile (1 byte): **MUST be ignored.
+**fRepairedFile (1 byte):** MUST be ignored.
 
-**fNeedsGarbageCollect (1 byte): **MUST be ignored.
+**fNeedsGarbageCollect (1 byte):** MUST be ignored.
 
-**fHasNoEmbeddedFileObjects (1 byte): **An unsigned integer that MUST be zero, and MUST be ignored.
+**fHasNoEmbeddedFileObjects (1 byte):** An unsigned integer that MUST be zero, and MUST be ignored.
 
-**guidAncestor (16 bytes): **A GUID that specifies the **Header.guidFile** field of the table of contents file, given by the following table:
+**guidAncestor (16 bytes):** A GUID that specifies the **Header.guidFile** field of the table of contents file, given by the following table:
 
 
-|#Table of Contents File Format|#Location of Table of Contents File
-|Section File - .One|(((
-Table of contents file is located in the same directory as this file.
-)))
-|Table of Contents File - .onetoc2|(((
-Table of contents file is located in the parent directory of this file.
-)))
+|Table of Contents File Format|Location of Table of Contents File
+--- | --- |
+|Section File - .One|Table of contents file is located in the same directory as this file.
+|Table of Contents File - .onetoc2|Table of contents file is located in the parent directory of this file.
 
  If the GUID is {00000000-0000-0000-0000-000000000000}, this field does not reference a table of contents file.
 
-**crcName (4 bytes): **An unsigned integer that specifies the CRC value of the name of this revision store file. The name is the Unicode representation of the file name with its extension and an additional null character at the end. This CRC is always calculated using the CRC algorithm for the .one file, regardless of this revision store file format.
+**crcName (4 bytes):** An unsigned integer that specifies the CRC value of the name of this revision store file. The name is the Unicode representation of the file name with its extension and an additional null character at the end. This CRC is always calculated using the CRC algorithm for the .one file, regardless of this revision store file format.
 
-**fcrHashedChunkList (12 bytes): **A **FileChunkReference64x32** structure that specifies a reference to the first **FileNodeListFragment** in a hashed chunk list. If the value of the **FileChunkReference64x32** structure is "fcrZero" or "fcrNil", the hashed chunk list does not exist.
+**fcrHashedChunkList (12 bytes):** A **FileChunkReference64x32** structure that specifies a reference to the first **FileNodeListFragment** in a hashed chunk list. If the value of the **FileChunkReference64x32** structure is "fcrZero" or "fcrNil", the hashed chunk list does not exist.
 
-**fcrTransactionLog (12 bytes): **A **FileChunkReference64x32** structure that specifies a reference to the first **TransactionLogFragment** structure in a transaction log. The value of the **fcrTransactionLog **field MUST NOT be "fcrZero" and MUST NOT be "fcrNil".
+**fcrTransactionLog (12 bytes):** A **FileChunkReference64x32** structure that specifies a reference to the first **TransactionLogFragment** structure in a transaction log. The value of the **fcrTransactionLog** field MUST NOT be "fcrZero" and MUST NOT be "fcrNil".
 
-**fcrFileNodeListRoot (12 bytes): **A **FileChunkReference64x32** structure that specifies a reference to a root file node list. The value of the **fcrFileNodeListRoot** field MUST NOT be "fcrZero" and MUST NOT be "fcrNil".
+**fcrFileNodeListRoot (12 bytes):** A **FileChunkReference64x32** structure that specifies a reference to a root file node list. The value of the **fcrFileNodeListRoot** field MUST NOT be "fcrZero" and MUST NOT be "fcrNil".
 
-**fcrFreeChunkList (12 bytes): **A **FileChunkReference64x32** structure that specifies a reference to the first **FreeChunkListFragment** structure. If the value of the **FileChunkReference64x32** structure is "fcrZero" or "fcrNil", then the free chunk list does not exist.
+**fcrFreeChunkList (12 bytes):** A **FileChunkReference64x32** structure that specifies a reference to the first **FreeChunkListFragment** structure. If the value of the **FileChunkReference64x32** structure is "fcrZero" or "fcrNil", then the free chunk list does not exist.
 
-**cbExpectedFileLength (8 bytes): **An unsigned integer that specifies the size, in bytes, of this revision store file.
+**cbExpectedFileLength (8 bytes):** An unsigned integer that specifies the size, in bytes, of this revision store file.
 
-**cbFreeSpaceInFreeChunkList (8 bytes): **An unsigned integer that SHOULD specify the size, in bytes, of the free space specified by the free chunk list.
+**cbFreeSpaceInFreeChunkList (8 bytes):** An unsigned integer that SHOULD specify the size, in bytes, of the free space specified by the free chunk list.
 
-**guidFileVersion (16 bytes): **A GUID. When either the value of **cTransactionsInLog** field or the **guidDenyReadFileVersion** field is being changed, **guidFileVersion **MUST be changed to a new GUID.
+**guidFileVersion (16 bytes):** A GUID. When either the value of **cTransactionsInLog** field or the **guidDenyReadFileVersion** field is being changed, **guidFileVersion** MUST be changed to a new GUID.
 
-**nFileVersionGeneration (8 bytes): **An unsigned integer that specifies the number of times the file has changed. MUST be incremented when the **guidFileVersion **field** **changes.
+**nFileVersionGeneration (8 bytes):** An unsigned integer that specifies the number of times the file has changed. MUST be incremented when the **guidFileVersion** field changes.
 
-**guidDenyReadFileVersion (16 bytes): **A GUID. When the existing contents of the file are being changed, excluding the **Header** structure of the file and unused storage blocks, **guidDenyReadFileVersion** MUST be changed to a new GUID.
+**guidDenyReadFileVersion (16 bytes):** A GUID. When the existing contents of the file are being changed, excluding the **Header** structure of the file and unused storage blocks, **guidDenyReadFileVersion** MUST be changed to a new GUID.
 
-**grfDebugLogFlags (4 bytes): **MUST be zero. MUST be ignored.
+**grfDebugLogFlags (4 bytes):** MUST be zero. MUST be ignored.
 
-**fcrDebugLog (12 bytes): **A **FileChunkReference64x32** structure that MUST have a value "fcrZero". MUST be ignored.
+**fcrDebugLog (12 bytes):** A **FileChunkReference64x32** structure that MUST have a value "fcrZero". MUST be ignored.
 
-**fcrAllocVerificationFreeChunkList (12 bytes): **A **FileChunkReference64x32** structure that MUST be "fcrZero". MUST be ignored.
+**fcrAllocVerificationFreeChunkList (12 bytes):** A **FileChunkReference64x32** structure that MUST be "fcrZero". MUST be ignored.
 
-**bnCreated (4 bytes): **An unsigned integer that specifies the build number of the application that created this revision store file. SHOULD be ignored.
+**bnCreated (4 bytes):** An unsigned integer that specifies the build number of the application that created this revision store file. SHOULD be ignored.
 
-**bnLastWroteToThisFile (4 bytes): **An unsigned integer that specifies the build number of the application that last wrote to this revision store file. SHOULD be ignored.
+**bnLastWroteToThisFile (4 bytes):** An unsigned integer that specifies the build number of the application that last wrote to this revision store file. SHOULD be ignored.
 
-**bnOldestWritten (4 bytes): **An unsigned integer that specifies the build number of the oldest application that wrote to this revision store file. SHOULD be ignored.
+**bnOldestWritten (4 bytes):** An unsigned integer that specifies the build number of the oldest application that wrote to this revision store file. SHOULD be ignored.
 
-**bnNewestWritten (4 bytes): **An unsigned integer that specifies the build number of the newest application that wrote to this revision store file. SHOULD be ignored.
+**bnNewestWritten (4 bytes):** An unsigned integer that specifies the build number of the newest application that wrote to this revision store file. SHOULD be ignored.
 
-**rgbReserved (728 bytes): **MUST be zero. MUST be ignored.
+**rgbReserved (728 bytes):** MUST be zero. MUST be ignored.
 
 ## References ##
 

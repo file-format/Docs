@@ -25,8 +25,6 @@ When you create a notebook in OneNote 2016, it’s automatically saved in the ne
 
 The .onetoc2 file format is represented as OneNote Revision Store File Format and is a collection of of structures that specify a revision store organized into cross-referenced object spaces, containing objects with property sets, and containing a transaction log to ensure file integrity across asynchronous writes. Complete specifications for the .onetoc2 file format are available [online](https://msdn.microsoft.com/en-us/library/dd951288(v#office.12).aspx) and can be referred to for development of applications.
 
-![.ONETOC2 File Format](https://site-cdn.onenote.net/161152531550_Images/home/new/Create_4x3_v2.png ".ONETOC2 File Format")
-
 ### File Structure ###
 
 A revision store file MUST begin with a **Header** structure. The remainder of the file is partitioned into blocks of bytes, where the size and structure of each block is specified by the field that references it. A block is reachable if it is referenced by the **Header** structure, or if it is referenced by a field in another reachable block. Data outside the **Header** structure and any reachable blocks MUST be ignored.
@@ -37,43 +35,48 @@ All structures are aligned on 1-byte boundaries. All integers are signed unless 
 
 The Header of .ONE file comprises of chunks that contain different unique ids and fields for representation of file information as follow:
 
-**guidFileType (16 bytes): **A GUID that specifies the type of the revision store file. MUST be one of the values from the following table.
+**guidFileType (16 bytes):** A GUID that specifies the type of the revision store file. MUST be one of the values from the following table.
 
-|#File Format|#Value
+|File Format|Value
+--- | --- |
 |.one|{7B5C52E4-D88C-4DA7-AEB1-5378D02996D3}
 |.onetoc2|{43FF2FA1-EFD9-4C76-9EE2-10EA5722765F}
 
-**guidFile (16 bytes): **A GUID that specifies the identity of this revision store file. SHOULD be globally unique.
+**guidFile (16 bytes):** A GUID that specifies the identity of this revision store file. SHOULD be globally unique.
 
-**guidLegacyFileVersion (16 bytes): **MUST be "{00000000-0000-0000-0000-000000000000}" and MUST be ignored.
+**guidLegacyFileVersion (16 bytes):** MUST be "{00000000-0000-0000-0000-000000000000}" and MUST be ignored.
 
-**guidFileFormat (16 bytes): **A GUID that specifies that the file is a revision store file. MUST be "{109ADD3F-911B-49F5-A5D0-1791EDC8AED8}".
+**guidFileFormat (16 bytes):** A GUID that specifies that the file is a revision store file. MUST be "{109ADD3F-911B-49F5-A5D0-1791EDC8AED8}".
 
-**ffvLastCodeThatWroteToThisFile (4 bytes): **An unsigned integer. MUST be one of the values in the following table, depending on the file type.
+**ffvLastCodeThatWroteToThisFile (4 bytes):** An unsigned integer. MUST be one of the values in the following table, depending on the file type.
 
-|#File Format|#Value
+|File Format|Value
+--- | --- |
 |.one|0x0000002A
 |.onetoc2|0x0000001B
 
-**ffvOldestCodeThatHasWrittenToThisFile (4 bytes): **An unsigned integer. MUST be one of the values in the following table, depending on the file format of this file.
+**ffvOldestCodeThatHasWrittenToThisFile (4 bytes):** An unsigned integer. MUST be one of the values in the following table, depending on the file format of this file.
 
 
 |#File Format|#Value
+--- | --- |
 |.one|0x0000002A
 |.onetoc2|0x0000001B
 
-: **ffvNewestCodeThatHasWrittenToThisFile (4 bytes): **An unsigned integer. MUST be one of the values in the following table, depending on the file format of this file.
+**ffvNewestCodeThatHasWrittenToThisFile (4 bytes):** An unsigned integer. MUST be one of the values in the following table, depending on the file format of this file.
 :  
 
 
-|#File Format|#Value
+|File Format|Value
+--- | --- |
 |.one|0x0000002A
 |.onetoc2|0x0000001B
 
-**ffvOldestCodeThatMayReadThisFile (4 bytes): **An unsigned integer. MUST be one of the values in the following table, depending on the file format of this file.
+**ffvOldestCodeThatMayReadThisFile (4 bytes):** An unsigned integer. MUST be one of the values in the following table, depending on the file format of this file.
 
 
-|#File Format|#Value
+|File Format|Value
+--- | --- |
 |.one|0x0000002A
 |.onetoc2|0x0000001B
 

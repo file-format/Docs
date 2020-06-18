@@ -15,7 +15,7 @@
   "lastmod" : "2019-09-10"
 }
 
-XAML, Extensible Application Markup Language, extension files describe the user interface elements for software applications based on Windows Presentation Foundation (WPF). Though a language, it doesn't require to be programmed as it is based on standard format of [XML](/web/xml/) which is easy to use and understand. XAML (pronounced as "zammel") was developed by Microsoft with specific aim for creating user interfaces. Its acronym original stood for Extensible Avalon Markup Language, where Avalon was the code-name for WPF. XAML files are sometimes saved with XOML extension as well.
+XAML, Extensible Application Markup Language, extension files describe the user interface elements for software applications based on Windows Presentation Foundation (WPF). Though a language, it doesn't require to be programmed as it is based on standard format of **[XML](/web/xml/)** which is easy to use and understand. XAML (pronounced as "zammel") was developed by Microsoft with specific aim for creating user interfaces. Its acronym original stood for Extensible Avalon Markup Language, where Avalon was the code-name for WPF. XAML files are sometimes saved with XOML extension as well.
 
 ## How to open XAML files? ##
 

@@ -15,9 +15,7 @@
   "lastmod" : "2019-09-16"
 }
 
-The Advanced Systems Format (ASF) is a digital multimedia container designed primarily for storing and transmitting media streams. Microsoft Windows Media Video (WMV) is the compressed video format and Microsoft Windows Media Audio (WMA) is the compressed audio format along with additional metadata in the ASF container developed by Microsoft. Once the wmv or wma files are encoded with Windows Media Video and Windows Media Audio codecs then they are represented with .ASF extension. WMV compresses large files for better transmission rate over a network while maintaining the quality of the video. WMV is specifically designed to run on all Windows devices. After the standardization by Society of Motion Picture and Television Engineer (SMPTE), WMV is now considered to be an open standard format. A simple depiction of ASF container is shown below:
-
-![](1568620287256-678.png)
+The Advanced Systems Format (ASF) is a digital multimedia container designed primarily for storing and transmitting media streams. Microsoft Windows Media Video (WMV) is the compressed video format and Microsoft Windows Media Audio (WMA) is the compressed audio format along with additional metadata in the ASF container developed by Microsoft. Once the wmv or wma files are encoded with Windows Media Video and Windows Media Audio codecs then they are represented with .ASF extension. WMV compresses large files for better transmission rate over a network while maintaining the quality of the video. WMV is specifically designed to run on all Windows devices. After the standardization by Society of Motion Picture and Television Engineer (SMPTE), WMV is now considered to be an open standard format.
 
 ## History ##
 
@@ -39,15 +37,13 @@ WMV-9 has 8 bit 4:2:0 internal color format. Like all other popular video compre
 
 Quantized transform coefficients are entropy decoded, dequantized and inverse transformed to produce an approximation of the residual error on the decoder side, which is then added to the motion-compensated prediction to generate the reconstruction. The high-level description of the codec is shown in the following image.
 
-![](1568620431462-443.png)
-
 Rest of the section will discuss the new improvements in WMV-9 which differentiate it from the rest of the video coding solutions like MPEG standards. WMV-9 has intra (I), predicted (P) and bi-directionally predicted (B) frames. Intra frames are those which are coded independently and have no dependence on other frames. Predicted frames are frames that depend on one frame in the past. Decoding of a predicted frame can occur only after all reference frames prior to the current frame starting from the most-recent (I) frame have been decoded. B frames are frames that have two references—one in the temporal past and one in the temporal future. B frames are transmitted subsequent to their references, which mean that B frames are sent out of order to ensure that their references are available at the time of decoding. B frames in WMV-9 are not used as a reference for subsequent frames. This places B frames outside of the decoding loop, allowing shortcuts to be taken during the decoding of B frames without drift or long-term visual artifacts. The above definition of I, P and B frames holds for both progressive and interlaced sequences.
 
 The performance of video codecs is compared to their rate-distortion (R-D) plot. It’s a 2-D curve which shows the distortion produced by the compression at a certain bitrate.
 
 WMV-9 has addressed this problem with the introduction of a variety of techniques listed below:
 
-~1. Adaptive block size transform
+1. Adaptive block size transform
 
 2. Limited precision transform-set
 
@@ -67,10 +63,10 @@ WMV-9 has addressed this problem with the introduction of a variety of technique
 
 10. Low-rate tools
 
-~11. Fading compensation
+11. Fading compensation
 
 ## References ##
 
-* [https:~~/~~/bytescout.com/blog/2014/10/windows-media-video-format.html](https://bytescout.com/blog/2014/10/windows-media-video-format.html)
-* [https:~~/~~/en.wikipedia.org/wiki/Windows_Media_Video](https://en.wikipedia.org/wiki/Windows_Media_Video)
-* [http:~~/~~/citeseerx.ist.psu.edu/viewdoc/download?doi#10.1.1.101.488&rep#rep1&type#pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi#10.1.1.101.488&rep#rep1&type#pdf)
+* [https://bytescout.com/blog/2014/10/windows-media-video-format.html](https://bytescout.com/blog/2014/10/windows-media-video-format.html)
+* [https://en.wikipedia.org/wiki/Windows_Media_Video](https://en.wikipedia.org/wiki/Windows_Media_Video)
+* [http://citeseerx.ist.psu.edu/viewdoc/download?doi#10.1.1.101.488&rep#rep1&type#pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi#10.1.1.101.488&rep#rep1&type#pdf)

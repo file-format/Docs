@@ -5,6 +5,7 @@
   },
   "draft" : "true",
   "toc" : true,
+  "description" : "Your file format guide to learn what is an ASPX file and APIs that can create and open them.",
   "title" : "ASPX",
   "linktitle" : "ASPX",
   "menu" : {
@@ -15,7 +16,7 @@
   "lastmod" : "2019-09-10"
 }
 
- 
+
 
 A [file](https://www.lifewire.com/what-is-a-file-2625878) with the ASPX [file extension](https://www.lifewire.com/what-is-a-file-extension-2625879) is an Active Server Page Extended file that's designed for Microsoft's ASP.NET framework.
 
