@@ -15,7 +15,7 @@
   "lastmod" : "2019-09-10"
 }
 
-The XHTML is a text based file format with markup in the XML, using a reformulation of HTML 4.0. These files are well suited to be open or viewed in a web browser. XHTML was designed to be more structured, less scripting, generic; using all the existing facilities of XML and more device independent. XHTML provides a generally worthwhile set of elements and attributes, with extension options in combination with style sheets. The attributes are used from the metadata attributes collection. XHTML provides flexibility and accessibility by subordinating all [HTML](/web/html/) presentation elements to style sheets. Style sheets are more versatile than these presentational elements.  Specifications for HTML 4.01, HTML5 and XHTML are being dynamically developed by the World Wide Web Consortium (W3C).
+The XHTML is a text based file format with markup in the XML, using a reformulation of HTML 4.0. These files are well suited to be open or viewed in a web browser. XHTML was designed to be more structured, less scripting, generic; using all the existing facilities of XML and more device independent. XHTML provides a generally worthwhile set of elements and attributes, with extension options in combination with style sheets. The attributes are used from the metadata attributes collection. XHTML provides flexibility and accessibility by subordinating all **[HTML](/web/html/)** presentation elements to style sheets. Style sheets are more versatile than these presentational elements.  Specifications for HTML 4.01, HTML5 and XHTML are being dynamically developed by the World Wide Web Consortium (W3C).
 
 ## History ##
 
@@ -29,9 +29,7 @@ A set of related elements build a module in XHTML. A forms or table module may c
 
 ## Document Conformance ##
 
-XHTML2 offer specifications conforming XHTML 1.0 documents, which uses the namespaces elements and attributes from the XML and XHTML 1.0. Document Conformance is of two types
-
-![](web.xhtml.WebHome@image-20190111175542-1.png)
+XHTML2 offer specifications conforming XHTML 1.0 documents, which uses the namespaces elements and attributes from the XML and XHTML 1.0. Document Conformance is of two types.
 
 A Strictly Conforming Document is XML based that needs only mandatory services defined in this specification. Following criteria needs to be fulfilled for XHTML files:
 
@@ -62,7 +60,7 @@ Earlier than the base element, a DOCTYPE must be declared, whose public identifi
 In XML documents, it’s unnecessary to specify XML declarations in all documents; however content developers are enticed to use XML declarations in all their XHTML documents. These declaration are mandatory either when the character encoding of the document are different from UTF-8 /16 or no encoding was specified by a governing protocol. Following example of an XHTML document defines the XML declarations
 
 ```
-<!DOCTYPE html 
+<!DOCTYPE html
      PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns#"http://www.w3.org/1999/xhtml" xml:lang#"en" lang#"en">

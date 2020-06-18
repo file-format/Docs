@@ -5,7 +5,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "CHM",
+  "title" : "CHM File Format",
+  "description" : "Your file format guide to learn what is an CHM file and APIs that can create and open them.",
   "linktitle" : "CHM",
   "menu" : {
     "docs" : {
@@ -15,7 +16,7 @@
   "lastmod" : "2019-09-10"
 }
 
-The CHM file format represents Microsoft [HTML](/web/html/) help file that consists of a collection of HTML pages. It provides an index for quick accessing the topics and navigation to different parts of the help document. The CHM file can be searched for contents via the provided search option. CHM is Microsoft Proprietary online help file format that is often used for software documentation. In addition, it is used in several other applications like training guides, interactive books, and electronic newsletters. Most of the modern Microsoft Development environments support generating CHM documentation from information available in the application. 
+The CHM file format represents Microsoft **[HTML](/web/html/)** help file that consists of a collection of HTML pages. It provides an index for quick accessing the topics and navigation to different parts of the help document. The CHM file can be searched for contents via the provided search option. CHM is Microsoft Proprietary online help file format that is often used for software documentation. In addition, it is used in several other applications like training guides, interactive books, and electronic newsletters. Most of the modern Microsoft Development environments support generating CHM documentation from information available in the application.
 
 The unique ability of CHM file format to implement a combined table of contents and index makes it distinct over other standard HTML pages. The generated CHM file is relatively small in size and, hence, can easily be distributed with software packages. The help authoring tool, HTML Help Workshop, provides an easy-to-use system for creating and managing help projects and their related files. CHM files may include text, images, and hyperlinks; viewable in a Web browser; used by Windows and other programs as an online help solution.
 
@@ -30,11 +31,9 @@ Whether you are creating help topics for distribution with a program, or on the 
 Although each help topic or Web page you author appears to be a document with text, graphics, or animated images on it, .htm files are actually text documents that have special HTML formatting codes. These codes, called tags, tell a browser how to display each page. Only the text that appears in a topic or Web page is actually in the .htm file. Any graphics, sounds, animated images, or other elements that appear are separate files that your HTML file points to. The browser copies or downloads the graphics, sounds, or other elements when it sees the tags telling it to do so.
 
 ### Table of contents ###
-
 The help table of contents (.hhc) file is an HTML file that contains the topic titles for your table of contents. When a user opens the table of contents in a compiled help file (or on a Web page) and clicks a topic title, the HTML file associated with that title will open.
 
-### Index file ###
-
+### Index File ###
 The index (.hhk) file is an HTML file that contains the index entries (keywords) for your index. When a user opens the index in a compiled help file, or on a Web page, and clicks a keyword, the HTML file associated with the keyword will open.
 
 ## HTML Help Components ##

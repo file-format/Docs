@@ -15,7 +15,7 @@
   "lastmod" : "2019-09-10"
 }
 
-HTML (Hyper Text Markup Language) is the extension for web pages created for display in browsers. Known as language of the web, HTML has evolved with requirements of new information requirements to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from server, where these are hosted, or can be loaded from local system as well. Each HTML page is made up of HTML elements such as forms, text, images, animations, links, etc. These elements are represented by tags such as <img>, <a>, <p> and several others where each tag has start and end. It can also embed applications written in scripting languages such as JavaScript and Style Sheets (CSS) for overall layout representation.
+HTML (Hyper Text Markup Language) is the extension for web pages created for display in browsers. Known as language of the web, HTML has evolved with requirements of new information requirements to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from server, where these are hosted, or can be loaded from local system as well. Each HTML page is made up of HTML elements such as forms, text, images, animations, links, etc. These elements are represented by tags and several others where each tag has start and end. It can also embed applications written in scripting languages such as JavaScript and Style Sheets (CSS) for overall layout representation.
 
 ## Brief History ##
 
@@ -48,15 +48,9 @@ Each section can be lead or followed by white spaces, newlines, tabs and comment
 
 The first line of code, <!DOCTYPE html>, is called a doctype declaration and tells the browser which version of HTML the page is written in. Depending upon the version of HTML, there are a number of different doctype declarations that names the document type definition (DTD) in use for the document. Each DTD differs from other in the elements it supports and differ as follow:
 
-* (((
-HTML 4.01 Strict - includes all elements and attributes that have not been [deprecated](https://www.w3.org/TR/html401/conform.html#deprecated) or do not appear in frameset documents
-)))
-* (((
-HTML 4.01 Transitional - includes everything in the strict DTD plus deprecated elements and attributes (most of which concern visual presentation)
-)))
-* (((
-HTML 4.01 Frameset -  includes everything in the transitional DTD plus frames as well
-)))
+* HTML 4.01 Strict - includes all elements and attributes that have not been [deprecated](https://www.w3.org/TR/html401/conform.html#deprecated) or do not appear in frameset documents
+* HTML 4.01 Transitional - includes everything in the strict DTD plus deprecated elements and attributes (most of which concern visual presentation
+* HTML 4.01 Frameset -  includes everything in the transitional DTD plus frames as well
 
 For **HTML5**, the version information is simply as mentioned below.
 
@@ -66,9 +60,9 @@ For **HTML5**, the version information is simply as mentioned below.
 
 ### Header Information ###
 
-Header of an HTML document can include a number of HTML elements that are not rendered by the browser. Such elements are either metadata that describe information about the page or includes sections that are used to fetch information from external resources like CSS stylesheets or JavaScript files. Header of a page is represented by <head> tag and ends with </head> tag.
+Header of an HTML document can include a number of HTML elements that are not rendered by the browser. Such elements are either metadata that describe information about the page or includes sections that are used to fetch information from external resources like CSS stylesheets or JavaScript files. Header of a page is represented by the head tag.
 
-For setting page title, the <title> element is the only one that is required within the <head> tags. The same is used by Search engines to identify the title of a page.
+For setting page title, the **title** element is the only one that is required within the <head> tags. The same is used by Search engines to identify the title of a page.
 
 ### Body Information ###
 

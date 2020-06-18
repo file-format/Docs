@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "ASP",
+  "description" : "Your file format guide to learn what is an ASP file and APIs that can create and open them.",
   "linktitle" : "ASP",
   "menu" : {
     "docs" : {
@@ -15,10 +16,9 @@
   "lastmod" : "2019-09-10"
 }
 
-ASP stands for Active Server Pages which is a development framework for creating web pages. It enables computer code to be executed by an internal server to serve the web requests. When a request is generated for an ASP file by web browser, the server reads the the file and executes any code/script inside it to generate the [HTML](/web/html/) result which is returned to the browser for display. Unlike HTML pages, which are static pages served by the server, ASP files generate dynamic contents at runtime that may involve requests to data from a database. ASP pages typically use the .asp extension rather .html. Since code/script inside an ASP file is executed on the server side, requesting browser can't see the code used to build the served page. All modern browsers are capable of displaying pages generated as result. Being built on Microsoft technology, pages built with ASP are hosted on Microsoft Internet Information Services (IIS) servers.
+ASP stands for Active Server Pages which is a development framework for creating web pages. It enables computer code to be executed by an internal server to serve the web requests. When a request is generated for an ASP file by web browser, the server reads the the file and executes any code/script inside it to generate the **[HTML](/web/html/)** result which is returned to the browser for display. Unlike HTML pages, which are static pages served by the server, ASP files generate dynamic contents at runtime that may involve requests to data from a database. ASP pages typically use the .asp extension rather .html. Since code/script inside an ASP file is executed on the server side, requesting browser can't see the code used to build the served page. All modern browsers are capable of displaying pages generated as result. Being built on Microsoft technology, pages built with ASP are hosted on Microsoft Internet Information Services (IIS) servers.
 
 ## Brief History ##
-
 ASP has gone through just few revisions util it was superseded by ASP.NET which is a more modern and more efficient way of developing and managing server side pages. Support for ASP is included by default along with Internet Information Services (IIS). ASP was published in three different versions with improvements in each one.
 
 * ASP 1.0 was released on December 1996 as part of IIS 3.0

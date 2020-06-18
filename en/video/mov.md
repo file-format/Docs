@@ -21,15 +21,13 @@ Mov or QuickTime File format is multimedia container which is developed by Apple
 
 MPEG-4 file format has evolved from QuickTime format specification in 2001, which has also been approved by the International Organization for Standardization. MPEG-4 Part 1 systems specification was published in 1999 but in 2001 a revision file format MP4 was published. MP4 first version was revised in 2003 as MPEG-4 Part 14 (ISO/IEC 14496-14:2003). In 2004 MP4 was generalized to define a general structure for all time-based media files. Therefore, now it is used as a basis for various other multimedia file formats.
 
-## **QuickTime File Format   ** ##
+## QuickTime File Format##
 
-In order to work with digital multimedia, QTFF can hold many kinds of data. As it can describe any kind of media structure so QTFF is an ideal format for the exchange of digital media. The file format consists of a flexible collection of object-oriented objects. For the storage of movies on disks, QuickTime uses two structures i.e. atoms and QT atoms.   
+In order to work with digital multimedia, QTFF can hold many kinds of data. As it can describe any kind of media structure so QTFF is an ideal format for the exchange of digital media. The file format consists of a flexible collection of object-oriented objects. For the storage of movies on disks, QuickTime uses two structures i.e. atoms and QT atoms.  
 
 ### Atoms  ###
 
 Atom is the basic unit of QuickTime file. There are two major fields in any atom before any other field: Size and Type fields. Size field shows the size of the atom while the type field indicates the type of data stored in the atom. By nature, atoms are hierarchical which means that one atom can contain other atoms which can still contain others. The layout of a sample atom is shown in the following image.
-
-![](1568614237251-719.png)
 
 Each atom has two parts, header and data. The header contains the size and type fields and data part contains the actual data. Further each field is explained below:
 
@@ -45,8 +43,6 @@ Type of the atom is also shown by a 32-bit integer, which is mostly treated as a
 
 QT atoms provide a general-purpose storage format and have an extended header consisting of Size, Type, Atom ID and Count of Child atoms fields. QT atoms are wrapped in atom container, a unique data structure having a header with a lock count. There is one root atom in each atom container which is the QT atom. The layout of QT atom is shown in the figure below.
 
-![](image-20190916110836-2.png)
-
 QT atom container header has the following data:
 
 Reserved: A 10-byte element with a value of 0.
@@ -55,17 +51,17 @@ Lock Count: 16-bit integer with a value of 0.
 
 QT atom headers have the following data:
 
-**Size - **QT atom header and contents are indicated in bytes by a 32-bit integer. In case of a leaf atom, then this field contains the size of a single atom.
+**Size -** QT atom header and contents are indicated in bytes by a 32-bit integer. In case of a leaf atom, then this field contains the size of a single atom.
 
-**Type -**Type of the atom is indicated by a 32-bit integer. In case it is the root atom, then the value is set to ‘sean’.
+**Type -** Type of the atom is indicated by a 32-bit integer. In case it is the root atom, then the value is set to ‘sean’.
 
-**Atom ID - **It’s a 32-bit integer which shows the atom ID and must be unique for all siblings. Root atom always the value of atom ID as 1.
+**Atom ID -** It’s a 32-bit integer which shows the atom ID and must be unique for all siblings. Root atom always the value of atom ID as 1.
 
-**Reserved - **A 16-bit integer that must be set to 0.
+**Reserved -** A 16-bit integer that must be set to 0.
 
-**Child count - **A 16-bit integer that indicates the number of child atoms of an atom.
+**Child count -** A 16-bit integer that indicates the number of child atoms of an atom.
 
-**Reserved - **A 32-bit integer that must be set to 0.
+**Reserved -** A 32-bit integer that must be set to 0.
 
 ## File Structure ##
 
@@ -75,9 +71,7 @@ Here is a sample example: Inspecting a sample mov file’s binary data it is evi
 
 The next chunk is located at offset 32+8#40 (hex: 28) and has a size 3,263,028 (hex: 00 31 CA 34) and type **mdat** (hex: 6D 64 61 74) at offset 44 (hex: 2C). The next chunk is located at offset 40 + 3,263,028#3,263,068 (hex: 00 31 CA 5C) and has a size 21,189 (hex: 00 00 52 C5) and type **moov** (hex: 6D 6F 6F 76) at offset 1,836,019,574 (hex: 00 31 CA 60). This is the last chunk, so total file size is 3,263,068+21,189#3,284,257 bytes.
 
-![](image-20190916110836-3.png)
-
 ## References ##
 
-* [https:~~/~~/wikileaks.org/sony/docs/05/docs/Apple/qtff.pdf](https://wikileaks.org/sony/docs/05/docs/Apple/qtff.pdf)
-* [https:~~/~~/en.wikipedia.org/wiki/QuickTime_File_Format](https://en.wikipedia.org/wiki/QuickTime_File_Format)
+* [https://wikileaks.org/sony/docs/05/docs/Apple/qtff.pdf](https://wikileaks.org/sony/docs/05/docs/Apple/qtff.pdf)
+* [https://en.wikipedia.org/wiki/QuickTime_File_Format](https://en.wikipedia.org/wiki/QuickTime_File_Format)

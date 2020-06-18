@@ -5,7 +5,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "HTM - Hypertext Markup Language File",
+  "title" : "HTM (Hypertext Markup Language) File Format",
+  "description" : "Your file format guide to learn what is an HTM file and APIs that can create and open them.",
   "linktitle" : "HTM - Hypertext Markup Language File",
   "menu" : {
     "docs" : {
@@ -15,7 +16,7 @@
   "lastmod" : "2019-09-10"
 }
 
-Files with HTM extension represent Hypertext Markup Language for creating web pages for display in web browsers such as Google Chrome, Internet Explorer, Firefox and a number of others. It defines the markups for creating static pages to be published on World Wide Web (WWW) for access by others. These markups tell the browsers how to display a web page's contents. Such pages can contain plain text, images, hyperlinks to other pages, videos and other media information. When a web page is published, you can have a look at the markup code behind it by viewing its page source. Modern browsers allow to inspect each section of a web page where each sub-division or markup element in the HTM source is elaborated.
+Files with **.htm** extension represent Hypertext Markup Language for creating web pages for display in web browsers such as Google Chrome, Internet Explorer, Firefox and a number of others. It defines the markups for creating static pages to be published on World Wide Web (WWW) for access by others. These markups tell the browsers how to display a web page's contents. Such pages can contain plain text, images, hyperlinks to other pages, videos and other media information. When a web page is published, you can have a look at the markup code behind it by viewing its page source. Modern browsers allow to inspect each section of a web page where each sub-division or markup element in the HTM source is elaborated.
 
 ## Brief History ##
 
@@ -28,8 +29,6 @@ An HTML 4 document is composed of three parts:
 1. a line containing HTML version information
 1. a declarative header section
 1. a body, which contains the document's actual content. The body may be implemented by the BODY element or the FRAMESET element to contain the body in frames
-
-![HTML File Format](/web/htm/HTM File Format.png "HTML File Format")
 
 Each section can be lead or followed by white spaces, newlines, tabs and comments. An example of a simple HTML document is as shown below:
 
@@ -50,15 +49,9 @@ Each section can be lead or followed by white spaces, newlines, tabs and comment
 
 The first line of code, <!DOCTYPE html>, is called a doctype declaration and tells the browser which version of HTML the page is written in. Depending upon the version of HTML, there are a number of different doctype declarations that names the document type definition (DTD) in use for the document. Each DTD differs from other in the elements it supports and differ as follow:
 
-* (((
-HTML 4.01 Strict - includes all elements and attributes that have not been [deprecated](https://www.w3.org/TR/html401/conform.html#deprecated) or do not appear in frameset documents
-)))
-* (((
-HTML 4.01 Transitional - includes everything in the strict DTD plus deprecated elements and attributes (most of which concern visual presentation)
-)))
-* (((
-HTML 4.01 Frameset -  includes everything in the transitional DTD plus frames as well
-)))
+* HTML 4.01 Strict - includes all elements and attributes that have not been [deprecated](https://www.w3.org/TR/html401/conform.html#deprecated) or do not appear in frameset documents
+* HTML 4.01 Transitional - includes everything in the strict DTD plus deprecated elements and attributes (most of which concern visual presentation
+* HTML 4.01 Frameset -  includes everything in the transitional DTD plus frames as well
 
 For **HTML5**, the version information is simply as mentioned below.
 
