@@ -1,4 +1,4 @@
-{
+ {
   "date" : "2020-01-12",
   "keywords" : [ "DGN", "File", "Format", "Open", "Read", "API", "MicroStation", "Intergraph Interactive Graphics Design System" ],
   "author" : {
@@ -8,6 +8,7 @@
   "toc" : true,
   "description" : "Your file format guide to learn what is an DGN file and APIs that can create and open them.",
   "title" : "What is DGN file? Learn from File Format Experts!",
+  "description" :What is DGN file? DGN file format., 
   "linktitle" : "DGN",
   "menu" : {
     "docs" : {

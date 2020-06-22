@@ -25,9 +25,6 @@ Conceptually, GIF files have a fixed-sized graphical area filled by zero or more
 
 Currently, two versions of GIF: 87a and 89a are available. The former is the original GIF format while the latter is the new GIF format. In this file format, the characteristics of the blocks and pixel dimensions are mentioned in a fixed-length Logical Screen Descriptor.  The existence and size of a Global Colour Table may be specified by the screen descriptor, which tracks further details if present. The trailer is the last byte of the file that holds a single byte of  an ASCII semicolon. A typical GIF87a file layout is as follow:
 
-
-![GIF File Format](/image/gif/1541798277383-941.png "GIF File Format")
-
 ### Header ###
 
 The Header holds six bytes and is used to specify the type of file as GIF. Though the Logical Screen Descriptor is separated from actual header yet sometimes it is considered as the second header. Same structure which is used to store the header may store the Logical Screen Descriptor. All GIF files start with the 3-byte signature and uses the characters” GIF” as an identifier. The version is also three bytes in size and declares the version of the GIF file.
@@ -37,7 +34,8 @@ The Header holds six bytes and is used to specify the type of file as GIF. Thoug
  A fixed-length Image Descriptor specifies the screen and colour information necessary to create the GIF image. The Height and Width fields enclose the smallest value of screen resolution, obligatory to show the image data. If the display device is incapable of displaying the specified resolution, scaling will be needed to suitably display the image. Screen and Colour Map Information is displayed by the four subfields of the table below (whereas bit 0 is the least significant bit):
 
 
-|#Bits|# Subfields
+|Bits|Subfields
+---|---|
 |0-2|Size of the Global Colour Table
 |3|Colour Table Sort Flag
 |4-6|Colour Resolution

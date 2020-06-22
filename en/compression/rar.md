@@ -31,15 +31,15 @@ Files with RAR extension represent archive files that are created for storing in
 
 RAR has been in the field for quite long time and has been one of the favourite archiving file formats. Key features about the RAR format are:
 
-**High compression ratio:** Superior as compared to [ZIP](/compression/zip/), comparable with 7z and zipx format. 
+`High compression ratio:` Superior as compared to [ZIP](/compression/zip/), comparable with 7z and zipx format.
 
-**Strong file encryption by design: **Encrypted RAR4 archives rely on AES-128 based encryption while encrypted RAR5 archives rely on AES-256 encryption with improved key scheduling
+`Strong file encryption by design:` Encrypted RAR4 archives rely on AES-128 based encryption while encrypted RAR5 archives rely on AES-256 encryption with improved key scheduling
 
-**Advanced error correction and data recovery capabilities:** optional recovery records during archive creation
+`Advanced error correction and data recovery capabilities:` optional recovery records during archive creation
 
-**File Size:** Minimum 20 bytes and maximum 2^63 bytes in size (8 exabytes of total size of the archive)
+`File Size:` Minimum 20 bytes and maximum 2^63 bytes in size (8 exabytes of total size of the archive)
 
-**Multi-volume RAR Archives:** Possibility to split large archives into several smaller files to facilitate transfer over the network. In such case, the the file extensions are incremented by 1 to represent split volumes
+`Multi-volume RAR Archives:` Possibility to split large archives into several smaller files to facilitate transfer over the network. In such case, the the file extensions are incremented by 1 to represent split volumes
 
 ## RAR File Format ##
 
@@ -49,15 +49,14 @@ Complete specifications of RAR format are not available publicly and that is why
 
 The general layout of a RAR file format introduced in version 5.0 is as follow:
 
-
+|File Format
+---|
 |Self-extracting module (optional)
 |RAR 5.0 Signature
 |Archive Encryption Header (optional)
 |Main Archive Header
 |Archive comment service header (optional)
-|(((
 File Header 1
-)))
 |Service Headers (NTFS ACL, streams, etc.) for preceding file (optional)
 |...
 |File Header N
@@ -91,5 +90,3 @@ where
 
 * [RAR 5.0 Archive Format](https://www.rarlab.com/technote.htm)
 * [RAR - By Wikipedia](https://en.wikipedia.org/wiki/RAR_(file_format))
-
- 

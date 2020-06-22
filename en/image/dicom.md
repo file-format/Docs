@@ -19,7 +19,7 @@
 
 DICOM is the acronym for Digital Imaging and Communications in Medicine and pertains to the field of Medical Informatics. DICOM is the combination of file format definition and a network communications protocol. DICOM uses the .DCM extension. .DCM exist in two different formats i.e. format 1.x and format 2.x. DCM Format 1.x is further available in two versions normal and extended.
 
-DICOM is used for the integration of medical imaging devices like printers, servers, scanners etc from various vendors and also contains identification data of each patient for uniqueness. DICOM files can be shared between two parties if they are capable of receiving image data in DICOM format. The communication part of DICOM is application layer protocol and uses TCP/IP to communicate between entities. HTTP and HTTPS protocols are used for the web services of DICOM. Versions supported by web services are 1.0, 1.1, 2 or later. 
+DICOM is used for the integration of medical imaging devices like printers, servers, scanners etc from various vendors and also contains identification data of each patient for uniqueness. DICOM files can be shared between two parties if they are capable of receiving image data in DICOM format. The communication part of DICOM is application layer protocol and uses TCP/IP to communicate between entities. HTTP and HTTPS protocols are used for the web services of DICOM. Versions supported by web services are 1.0, 1.1, 2 or later.
 
 ## History ##
 
@@ -27,20 +27,15 @@ DICOM was developed jointly by American College of Radiology (ACR) and Nation
 
 ## DICOM File Structure ##
 
-DICOM basic file structure is as below:
-
-![DICOM File Format](/image/dicom/1546001240707-745.png "DICOM File Format")
-
 ### File Header ###
 
 The file header contains 128 byte File Preamble, and 4 byte DICOM prefix.
 
-
-|**Preamble # 128 Bytes**|**Prefix # 4 Bytes   “D, I, C, M**
+**Preamble # 128 Bytes**|**Prefix # 4 Bytes   “D, I, C, M**
 
 **Preamble** is used to access the images and other data in DICOM file providing compatibility with commonly used image file formats.
 
-**Prefix **contains the string "DICM" as uppercase characters.
+**Prefix** contains the string "DICM" as uppercase characters.
 
 ### Data Set ###
 
@@ -50,28 +45,29 @@ Each file must contain a single data set representing SOP instance and SOP Class
 
 Data element consists data element Tag, Value length and value for the Data Element. There are 5 types of Data elements namely Type 1 Required Data elements, Type 1C Conditional Data Elements, Type 2 Required Data Elements, Type 2C Conditional Data Elements and Type 3 optional Data Elements. Basic Three types of data element structures are as follow.
 
-__Data Element with an Explicit VR__
+**Data Element with an Explicit VR**
 
-
-|#Group Number|#Element Number|#Value Representation|#Reserved|#Value Length|#Value Field
+|Group Number|Element Number|Value Representation|Reserved|Value Length|Value Field
+---|---|---|---|---|---|
 |2 Bytes|2 Bytes|2 Bytes|2 Bytes # 0x00, 0x00|4 Bytes|"Value Length Bytes"
 
-__Data Element with an Explicit VR__
+**Data Element with an Explicit VR**
 
-
-|#Group Number|#Element Number|#Value Representation|#Value Length|#Value Field
+|Group Number|Element Number|Value Representation|Value Length|Value Field
+---|---|---|---|---|
 |2 Bytes|2 Bytes|2 Bytes|2 Bytes|"Value Length Bytes"
 
-__Data Element with an Implicit VR__
+**Data Element with an Implicit VR**
 
 
-|#Group Number|#Element Number|#Value Length|#Value Field
+|Group Number|Element Number|Value Length|Value Field
+---|---|---|---|
 |2 Bytes|2 Bytes|4 Bytes|"Value Length Bytes"
 
 1. **Data Element Tag**: An ordered integer which represents the group number and element number
 1. **Value Representation VR**: VR is a character string which represents the VR of the data Element.
 1. **Value Length**: is he unsigned integer represent the explicit length of the value field.
-1. **Value Field**: Describes the values of the data elements. 
+1. **Value Field**: Describes the values of the data elements.
 
 ## Transfer Syntax ##
 
@@ -111,7 +107,7 @@ DICOM uses the following TCP and UDP ports :
 
 ## References ##
 
-* [https:~~/~~/en.wikipedia.org/wiki/DICOM](https://en.wikipedia.org/wiki/DICOM)
-* [https:~~/~~/www.leadtools.com/sdk/medical/dicom-spec](https://www.leadtools.com/sdk/medical/dicom-spec)
-* [https:~~/~~/www.dicomstandard.org/concepts/](https://www.dicomstandard.org/concepts/)
-* [https:~~/~~/www.dicomlibrary.com/dicom/](https://www.dicomlibrary.com/dicom/) 
+* [https://en.wikipedia.org/wiki/DICOM](https://en.wikipedia.org/wiki/DICOM)
+* [https://www.leadtools.com/sdk/medical/dicom-spec](https://www.leadtools.com/sdk/medical/dicom-spec)
+* [https://www.dicomstandard.org/concepts/](https://www.dicomstandard.org/concepts/)
+* [https://www.dicomlibrary.com/dicom/](https://www.dicomlibrary.com/dicom/)

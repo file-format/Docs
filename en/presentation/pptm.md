@@ -23,9 +23,7 @@ PPTM file format was introduced in 2007 and uses the Open XML standard adapted b
 
 ## File Format Specifications ##
 
-Files generated with office Open XML file format is a collection of XML files along with other files that provide links between all the constituent files. This collection is actually a compressed archive that can be extracted to view its contents. To do so, just rename the PPTM file extension with zip and extract it for observing its contents. Contents of a blank presentation file, when extracted, look as follow:
-
-![Blank PPTX.png](https://wiki.fileformat.com/download/Presentation/PPTX/WebHome/Blank%20PPTX.png "Blank PPTX.png")
+Files generated with office Open XML file format is a collection of XML files along with other files that provide links between all the constituent files. This collection is actually a compressed archive that can be extracted to view its contents. To do so, just rename the PPTM file extension with zip and extract it for observing its contents.
 
 Following sections shed some light on each one of these.
 

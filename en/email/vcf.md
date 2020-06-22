@@ -23,10 +23,6 @@ VCF files are textual by nature and are human readable. These can be opened in t
 
 [Microsoft Outlook](https://support.office.com/en-us/article/send-and-save-contacts-as-vcards-vcf-files-94a17a6f-105f-46c7-9308-33658c1c2690) provides support for opening VCF files as well as convert to a number of other formats such as the popular [MSG](/email/msg/) format. VCF file format enhanced with time from version 2.1 to 4.0 adding detailed information to the file format. The format is also used to export phone contacts and later import in another device.
 
-![](email.vcf.WebHome@1556642854590-174.png)
-
-**VCF File opened in MS Outlook**
-
 ### VCF 2.1 ###
 
 Following is an exmaple of version 2.1.

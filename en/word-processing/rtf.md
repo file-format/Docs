@@ -44,7 +44,7 @@ These represent specially formatted command used to mark characters for display 
 Each control word is case sensitive and starts with a backslash. The ASCII Letter Sequence can contain ASCII Alphabets (a through z and A through Z). The <Delimite> marks the end of the control word's name and can be one of the following:
 
 * A space. This serves only to delimit a control word and is ignored in subsequent processing.
-* A numeric digit or an ASCII minus sign ![delete](https://wiki.fileformat.com/resources/icons/silk/delete.png "delete"), which indicates that a numeric parameter is associated with the control word. The subsequent digital sequence is then delimited by any character other than an ASCII digit (commonly another control word that begins with a backslash). The parameter can be a positive or negative decimal number. The range of the values for the number is nominally –32768 through 32767, i.e., a signed 16-bit integer. A small number of control words take values in the range‌ −2,147,483,648 to 2,147,483,647 (32-bit signed integer). These control words include **\bin//N//**, **\revdttm//N//**, **\rsid//N//** related control words and some picture properties like **\bliptag//N//**. Here **//N //**stands for the numeric parameter. An RTF parser must allow for up to 10 digits optionally preceded by a minus sign. If the delimiter is a space, it is discarded, that is, it’s not included in subsequent processing.
+* A numeric digit or an ASCII minus sign ![delete](https://wiki.fileformat.com/resources/icons/silk/delete.png "delete"), which indicates that a numeric parameter is associated with the control word. The subsequent digital sequence is then delimited by any character other than an ASCII digit (commonly another control word that begins with a backslash). The parameter can be a positive or negative decimal number. The range of the values for the number is nominally –32768 through 32767, i.e., a signed 16-bit integer. A small number of control words take values in the range‌ −2,147,483,648 to 2,147,483,647 (32-bit signed integer). These control words include **\binN**, **\revdttmN//**, **\rsidN** related control words and some picture properties like **\bliptagN**. Here **N** stands for the numeric parameter. An RTF parser must allow for up to 10 digits optionally preceded by a minus sign. If the delimiter is a space, it is discarded, that is, it’s not included in subsequent processing.
 * Any character other than a letter or a digit. In this case, the delimiting character terminates the control word and is not part of the control word. Such as a backslash “\”, which means a new control word or a control symbol follows.
 
 #### Control Symbol ####
@@ -59,7 +59,6 @@ A group can consist of text, control words, or control symbols enclosed in brac
 
 An RTF file has the following Standard syntax:
 
-|(((
 Introduced and documented by Microsoft, the Rich Text Format (**RTF**) represents a method of encoding formatted text and graphics for use within applications. The format facilitates cross-platform document exchange with other Microsoft Products, thus serving the purpose of interoperability. This capability makes it a standard of data transfer between word processing software and, hence, contents can be transferred from one operating system to another without losing document formatting. The file format specifications are available by Microsoft for public [download](https://www.microsoft.com/en-us/download/details.aspx?id#10725) and can be referred to from developer's perspective.
 
 ## Brief History ##
@@ -89,7 +88,7 @@ These represent specially formatted command used to mark characters for display 
 Each control word is case sensitive and starts with a backslash. The ASCII Letter Sequence can contain ASCII Alphabets (a through z and A through Z). The <Delimite> marks the end of the control word's name and can be one of the following:
 
 * A space. This serves only to delimit a control word and is ignored in subsequent processing.
-* A numeric digit or an ASCII minus sign (-), which indicates that a numeric parameter is associated with the control word. The subsequent digital sequence is then delimited by any character other than an ASCII digit (commonly another control word that begins with a backslash). The parameter can be a positive or negative decimal number. The range of the values for the number is nominally –32768 through 32767, i.e., a signed 16-bit integer. A small number of control words take values in the range‌ −2,147,483,648 to 2,147,483,647 (32-bit signed integer). These control words include **\bin//N//**, **\revdttm//N//**, **\rsid//N//** related control words and some picture properties like **\bliptag//N//**. Here **//N //**stands for the numeric parameter. An RTF parser must allow for up to 10 digits optionally preceded by a minus sign. If the delimiter is a space, it is discarded, that is, it’s not included in subsequent processing.
+* A numeric digit or an ASCII minus sign (-), which indicates that a numeric parameter is associated with the control word. The subsequent digital sequence is then delimited by any character other than an ASCII digit (commonly another control word that begins with a backslash). The parameter can be a positive or negative decimal number. The range of the values for the number is nominally –32768 through 32767, i.e., a signed 16-bit integer. A small number of control words take values in the range‌ −2,147,483,648 to 2,147,483,647 (32-bit signed integer). These control words include **\binN//**, **\revdttmN**, **\rsidN** related control words and some picture properties like **\bliptagN**. Here **N** stands for the numeric parameter. An RTF parser must allow for up to 10 digits optionally preceded by a minus sign. If the delimiter is a space, it is discarded, that is, it’s not included in subsequent processing.
 * Any character other than a letter or a digit. In this case, the delimiting character terminates the control word and is not part of the control word. Such as a backslash “\”, which means a new control word or a control symbol follows.
 
 #### Control Symbol ####
@@ -104,7 +103,9 @@ A group can consist of text, control words, or control symbols enclosed in brac
 
 An RTF file has the following Standard syntax:
 
-|<File>|'{' <header><document> '}'
+|Field|Description
+---|---|
+|\<File>|{\<header>\<document>}
 
 By standard, we mean that any RTF reader must be able to correctly read the RTF written to this syntax, provided that they should be able to ignore the unknown or unused control words. This also implies that the RTF readers should be robust enough to handle some variations that are generated by RTF writers without conforming to this syntax.
 
@@ -112,35 +113,38 @@ By standard, we mean that any RTF reader must be able to correctly read the RTF 
 
 An RTF Header has the following representation.
 
-|<header>|**//\//rtf1** **\fbidis**? <character set> <from>? <deffont> <deflang> <fonttbl>? <filetbl>? <colortbl>? <stylesheet>? <stylerestrictions>? <listtables>? <revtbl>? <rsidtable>? <mathprops>? <generator>?
+|Field|Description
+---|---|
+|\<header>|**\rtf1\fbidis**? \<character set> \<from>? \<deffont> \<deflang> \<fonttbl>? \<filetbl>? \<colortbl>? \<stylesheet>? \<stylerestrictions>? \<listtables>? \<revtbl>? \<rsidtable>? \<mathprops>? \<generator>?
 
 Header tables must appear in this order if they exist. The RTF file can include groups for fonts, styles, screen color, pictures, footnotes, comments (annotations), headers and footers, summary information, fields, bookmarks, document-, section-, paragraph- and character-formatting properties, mathematics, images, and objects. If the font, file, style, color, revision mark, and summary-information groups and document-formatting properties are included in the file, they must appear in the RTF header, which precedes the RTF body. If the content of any group is not used, the group can be omitted. Any group that uses the properties defined in another group must appear after the group that defines those properties. For example, colour and font properties must precede the style group.
 
 #### RTF Version ####
 
-An RTF document must start out with these six characters: 
+An RTF document must start out with these six characters:
 
+```
 {\rtf1
-
-where the 1 shows the RTF version number. 
+```
+where the 1 shows the RTF version number.
 
 #### Character Set ####
 
 After the {\rtf1, the document should declare what character set it uses. The way to declare a character set is with one of these commands:
 
-**\ansi** - The document is in the ANSI character set, also known as Code Page 1252, the usual MSWindows character set.
+`\ansi` - The document is in the ANSI character set, also known as Code Page 1252, the usual MSWindows character set.
 
-**\mac** - The document is in the MacAscii character set, the usual character set under old (pre-10) versions of Mac OS.
+`\mac` - The document is in the MacAscii character set, the usual character set under old (pre-10) versions of Mac OS.
 
-**\pc** - The document is in DOS Code Page 437, the default character set for MS-DOS. Typists with good muscle-memory will note that this is the character set that is still used for interpreting “Alt numeric” codes—i.e., when you hold down Alt and type “130” on the numeric keypad, it produces a é, because character 130 in CP437 is an é. That is about the only use that CP437 sees these days.
+`\pc` - The document is in DOS Code Page 437, the default character set for MS-DOS. Typists with good muscle-memory will note that this is the character set that is still used for interpreting “Alt numeric” codes—i.e., when you hold down Alt and type “130” on the numeric keypad, it produces a é, because character 130 in CP437 is an é. That is about the only use that CP437 sees these days.
 
-**\pca** - The document is in DOS Code Page 850, also known as the MS-DOS Multilingual Code Page.
+`\pca` - The document is in DOS Code Page 850, also known as the MS-DOS Multilingual Code Page.
 
 #### Font Command ####
 
-The Character set definition is followed by the \deffN command. This defines that the font number N is the default font for this document. The font number N is referred from the font table. The comand \deffN is technically optional, but it should be there to be on the safe side as a common prolog like following picks font 0 as the default font. 
+The Character set definition is followed by the `\deffN` command. This defines that the font number N is the default font for this document. The font number N is referred from the font table. The command `\deffN` is technically optional, but it should be there to be on the safe side as a common prolog like following picks font 0 as the default font.
 
-{{{{\rtf1\ansi\deff0}}}
+`{\rtf1\ansi\deff0`
 
 #### Font Table ####
 
@@ -148,7 +152,7 @@ All the fonts that can be used in a document are listed in a font table where ea
 
 The syntax for a font table is {\fonttbl //...declarations//...}, in which each declaration has this basic syntax:
 
-##{\fnumber\familycommand Fontname;##}
+`{\fnumber\familycommand Fontname;}`
 
 A font table with four declarations is as follow:
 
@@ -160,7 +164,7 @@ A font table with four declarations is as follow:
 }
 ```
 
-{{{In a document with that font table, {\f2 stuff} would print “stuff” in Courier New. A font can't be used in a document until it is listed in the font table.}}}
+In a document with that font table, `{\f2 stuff}` would print “stuff” in Courier New. A font can't be used in a document until it is listed in the font table.
 
 ### End of Document ###
 
@@ -170,4 +174,3 @@ Every RTF document must end with a }, to close the group opened by the { that is
 
 * [RTF 1.9.1 Specifications](https://www.microsoft.com/en-us/download/details.aspx?id#10725)
 * [Rich Text Format](https://en.wikipedia.org/wiki/Rich_Text_Format)
-)))| 

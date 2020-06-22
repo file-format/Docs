@@ -17,7 +17,7 @@
 
 # What is an EMLX file? #
 
-The EMLX file format is implemented and developed by Apple. The Apple Mail application uses the EMLX file format for exporting the emails. There are other applications as well that can open the EMLX files and convert these to other file formats. 
+The EMLX file format is implemented and developed by Apple. The Apple Mail application uses the EMLX file format for exporting the emails. There are other applications as well that can open the EMLX files and convert these to other file formats.
 
 ## Brief History ##
 
@@ -36,7 +36,7 @@ These can be better explained with the help of following sample email extracted 
 ```
 875       
 X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on ******.*********.***
-X-Spam-Level: 
+X-Spam-Level:
 X-Spam-Status: No, score#-3.2 required#4.2 tests#BAYES_00,RP_MATCHES_RCVD,
         SPF_PASS,TVD_SPACE_RATIO autolearn#ham version#3.3.2
 Received: from [127.0.0.1] (******.*********.*** [***.**.**.**])
@@ -54,7 +54,7 @@ Mime-Version: 1.0 (Apple Message framework v1283)
 X-Mailer: Apple Mail (2.1283)
 
 message Foo
--- 
+--
 Sender
 http://www.la-grange.net/karl/
 
@@ -77,7 +77,8 @@ http://www.la-grange.net/karl/
 
 In this example, the 875 shows the total length of message. The message metadata is enclosed in the <plist> tags and the flags are as described as follow:
 
-
+|Field|Description|Value
+---|---|---|
 |0|read|1 << 0
 |1|deleted|1 << 1
 |2|answered|1 << 2
@@ -96,7 +97,7 @@ In this example, the 875 shows the total length of message. The message metadata
 |26-28|font size delta|7 << 26 (3 bits)
 |29|junk mail level recorded|1 << 29
 |30|highlight text in toc|1 << 30
-|31|(unused)| 
+|31|(unused)|
 
 ## See Also ##
 

@@ -31,7 +31,7 @@ EPS, in combination with the Open Structuring Conventions extension mechanism de
 
 ## Document Structuring Convention (DSC) ##
 
-The DSC is a special file format for PostScript documents by Adobe. The DSC defines the set of rules that define how to organize PostScript data. EPS is a DSC conforming file format and adheres to all the rules established by the DSC. Any application that claims to be able to read EPS files should be DSC-compliant. 
+The DSC is a special file format for PostScript documents by Adobe. The DSC defines the set of rules that define how to organize PostScript data. EPS is a DSC conforming file format and adheres to all the rules established by the DSC. Any application that claims to be able to read EPS files should be DSC-compliant.
 
 Every DSC-compliant document is indicated by having the comment %!PS-Adobe-3.0 as the first line. This comment is a flag to indicate that the document is compliant. You should never use this comment unless your document really is DSC compliant. There are many other parts to proper DSC. A document which follows the DSC can be manipulated in many ways. In particular, post-processors can shuffle the pages, print two or more pages on a side, and so on. The printer drivers from some notable companies do not follow the DSC, and their PostScript documents are, therefore, impossible to work with once they’ve been generated.
 
@@ -53,7 +53,7 @@ PICT and Windows Metafile can incorporate both bitmap data and vector graphics. 
 
 At a minimum, the EPS file format must include the following:
 
-* a header comment, //%!PS-Adobe-3.0 EPSF-3.0//
+* a header comment, %!PS-Adobe-3.0 EPSF-3.0
 * and a bounding box comment, %%BoundingBox: llx lly urx ury, that describes the bounds of the illustration. These four arguments correspond to the lower-left (llx, lly) and upper-right (urx, ury) corners of the bounding box.
 
 An EPS file can not use any of the following operators:
@@ -68,7 +68,7 @@ An EPS file can not use any of the following operators:
 * initclip
 * initgraphics
 * initmatrix
-* quit 
+* quit
 * renderbands
 * setglobal
 * setpagedevice

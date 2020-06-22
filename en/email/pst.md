@@ -21,7 +21,7 @@ Files with .PST extension represent Outlook Personal Storage Files (also called 
 
 ### PST File Format Specifications ###
 
-PST File format [specifications](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) are available from Microsoft as free and irrevocable free patent licensing through the Open Specification Promise. 
+PST File format [specifications](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) are available from Microsoft as free and irrevocable free patent licensing through the Open Specification Promise.
 
 #### Type of Formats ####
 
@@ -33,14 +33,14 @@ At the base of PST file format lies B-Tree that keeps data sorted and allows sea
 
 ![Logical layers of a PST file](https://i-msdn.sec.s-msft.com/dynimg/IC868907.png "Logical layers of a PST file")
 
-**Node Database (NDB) Layer** - Node database layer lies at the lower level of a PST file and include database of nodes. These nodes actually represent lower-level storage facilities of the PST file format. NDB layer comprises of header, file allocation information, blocks, and BTrees (Node BTree and Block BTree) from storage point of view. Nodes and Blocks of NDB Layer are linked via Data BID which is one of the four properties of Node reference i.e. NID (Node ID), Parent NID, Data BID (Block BID) and SubNode BID.
+`Node Database (NDB) Layer` - Node database layer lies at the lower level of a PST file and include database of nodes. These nodes actually represent lower-level storage facilities of the PST file format. NDB layer comprises of header, file allocation information, blocks, and BTrees (Node BTree and Block BTree) from storage point of view. Nodes and Blocks of NDB Layer are linked via Data BID which is one of the four properties of Node reference i.e. NID (Node ID), Parent NID, Data BID (Block BID) and SubNode BID.
 
-**Lists, Tables and Properties Layer - **LTP layer provides the logical understanding of higher-level concepts on top of NDB. Besides other elements, LTP layer mainly comprises of Property Context (PC) and Table Context (TC). PC is a collection of properties, while TC represents a two-dimensional matrix of collection of properties vs. the presence of these. Efficient implementation of PCs and TCs, the LTP layer uses following two types of data structures atop NDB Node:
+`Lists, Tables and Properties Layer -` LTP layer provides the logical understanding of higher-level concepts on top of NDB. Besides other elements, LTP layer mainly comprises of Property Context (PC) and Table Context (TC). PC is a collection of properties, while TC represents a two-dimensional matrix of collection of properties vs. the presence of these. Efficient implementation of PCs and TCs, the LTP layer uses following two types of data structures atop NDB Node:
 
-* Heap On Node (HN) - enables sub-allocating the data stream of a node into small, variable-sized fragments. 
+* Heap On Node (HN) - enables sub-allocating the data stream of a node into small, variable-sized fragments.
 * BTree on Heap (BTH) - BTH provides a convenient and practical way of searching through data PCs, described above, are implemented as BTHs and that is why it is implemented by building inside of an HN structure.
 
-**Messaging Layer -** Higher level rules and business logic for working with PST files is implemented at this layer. The logical output of this layer results as Folder objects, Message objects, Attachment objects and Properties which is made possible by combining LTP and NDB layers. Rules and requirements, which need to be followed when modifying the PST contents, are also defined at this layer.
+`Messaging Layer -` Higher level rules and business logic for working with PST files is implemented at this layer. The logical output of this layer results as Folder objects, Message objects, Attachment objects and Properties which is made possible by combining LTP and NDB layers. Rules and requirements, which need to be followed when modifying the PST contents, are also defined at this layer.
 
 #### Physical Organization of PST File Format ####
 
@@ -55,7 +55,8 @@ The HEADER structure of PST file is located at the very beginning of the file at
 
 The header starts with a 4-bytes magic word **!BDN** represented by bytes (0x21, 0x42, 0x44, 0x4E). Another 2-bytes magic number, **SM** (0x53, 0x4D),  is located at offset 8 from the start of file. Version information (ANSI or Unicode) lies at an offset of 10 from start of file. Hex value (0x17) specifies Unicode PST file while 0x0E or 0x0F represents ANSI file format.
 
-
+|Field|Description
+---|---|
 |dwMagic      (4 bytes)|MUST be "{ 0x21, 0x42, 0x44, 0x4E } ("!BDN")"
 |dwCRCPartial (4 bytes)|The 32-bit CRC  value of the 471 bytes of data starting from wMagicClient (0ffset 0x0008)
 |wMagicClient (2 bytes)|MUST be "{ 0x53, 0x4D }".
@@ -63,7 +64,7 @@ The header starts with a 4-bytes magic word **!BDN** represented by bytes (0x21
 |wVerClient   (2 bytes)|Client file format version. The version that corresponds to the format described in this document is 19. Creators of a new PST file based on this document SHOULD initialize this value to 19.
 |bPlatformCreate (1 byte)|This value MUST be set to 0x01.
 |bPlatformAccess (1 byte)|This value MUST be set to 0x01.
-|dwReserved   (8 bytes)| 
+|dwReserved   (8 bytes)|
 |bidUnused    (8 bytes Unicode only)|Unused padding added when the Unicode PST file format was created.
 |bidNextP     (Unicode: 8 bytes; ANSI: 4 bytes)|Next page BID. Pages have a special counter for allocating bidIndex values. The value of bidIndex for BIDs for pages is allocated from this counter.
 |bidNextB     (4 bytes ANSI only): |Next BID. This value is the monotonic counter that indicates the BID to be assigned for the next allocated block. BID values advance in increments of 4. For more details, see section 2.2.2.2.
@@ -82,9 +83,9 @@ The header starts with a 4-bytes magic word **!BDN** represented by bytes (0x21
 |dwCRCFull    (4 bytes)|The 32-bit CRC value of the 516 bytes of data starting from wMagicClient to bidNextB, inclusive. Unicode PST file format only.
 |ullReserved  (8 bytes)|Reserved; MUST be set to zero. ANSI PST file format only.
 |dwReserved   (4 bytes)|Reserved; MUST be set to zero. ANSI PST file format only.
-|rgbReserved2 (3 bytes)| 
-|bReserved    (1 byte) | 
-|rgbReserved3 (32 bytes) | 
+|rgbReserved2 (3 bytes)|
+|bReserved    (1 byte) |
+|rgbReserved3 (32 bytes) |
 
 ### Data Protection ###
 
@@ -92,9 +93,5 @@ For security, PST files can also be password protected which requires the loadin
 
 ### References ###
 
-* (((
-[Outlook Personal Folders (.pst) File Format](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-)))
-* (((
-[Personal Folder File Format Specifications](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
-)))
+* [Outlook Personal Folders (.pst) File Format](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
+* [Personal Folder File Format Specifications](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)

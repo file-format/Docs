@@ -45,21 +45,18 @@ The JPEG decoder uses the steps in reverse to generate the original image from t
 
 A JPEG image is represented as a sequence of segments where each segment begins with a marker. Each marker starts with 0xFF byte followed by marker flag to represent the type of marker. The payload followed by marker is different as per marker type. Common JPEG marker types are as listed below:
 
-|#Short Name|#Bytes|#Payload|#Name|#Comments
-|SOI|0xFF, 0xD8|none|Start of Image| 
-|S0F0|0xFF, 0xC0|variable size|Start of Frame| 
-|S0F2|0xFF, 0xC2|variable size|Start fo Frame| 
-|DHT|0xFF, 0xC4|variable size|Define Huffman Tables| 
-|DQT|0xFF, 0xDB|variable size|Define Quantization Table(s)| 
-|DRI|0xFF, 0xDD|4 bytes|Define Restart Interval| 
-|SOS|0xFF, 0xDA|variable size|Start Of Scan| 
-|RSTn|0xFF, 0xD//n//(//n//#0..7)|none|Restart| 
-|APPn|0xFF, 0xE//n//|variable size|Application specific| 
-|COM|0xFF, 0xFE|variable size|Comment| 
-|EOI|0xFF, 0xD9|none|End Of Image| 
+|Short Name|Bytes|Payload|Name|Comments
+---|---|---|---|---|
+|SOI|0xFF, 0xD8|none|Start of Image|
+|S0F0|0xFF, 0xC0|variable size|Start of Frame|
+|S0F2|0xFF, 0xC2|variable size|Start fo Frame|
+|DHT|0xFF, 0xC4|variable size|Define Huffman Tables|
+|DQT|0xFF, 0xDB|variable size|Define Quantization Table(s)|
+|DRI|0xFF, 0xDD|4 bytes|Define Restart Interval|
+|SOS|0xFF, 0xDA|variable size|Start Of Scan|
+|RSTn|0xFF, 0xD//n//(//n//#0..7)|none|Restart|
+|APPn|0xFF, 0xE//n//|variable size|Application specific|
+|COM|0xFF, 0xFE|variable size|Comment|
+|EOI|0xFF, 0xD9|none|End Of Image|
 
 Within the entropy-coded data, after any 0xFF byte, a 0x00 byte is inserted by the encoder before the next byte, so that there does not appear to be a marker where none is intended, preventing framing errors. Decoders must skip this 0x00 byte. This technique, called [byte stuffing](https://en.wikipedia.org/wiki/Byte_stuffing) (see JPEG specification section F.1.2.3), is only applied to the entropy-coded data, not to marker payload data. Note however that entropy-coded data has a few markers of its own; specifically the Reset markers (0xD0 through 0xD7), which are used to isolate independent chunks of entropy-coded data to allow parallel decoding, and encoders are free to insert these Reset markers at regular intervals (although not all encoders do this).
-
-###   ###
-
- 

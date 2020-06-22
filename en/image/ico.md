@@ -25,19 +25,21 @@ Icons were introduced with the launch of Microsoft Windows 1.0. These were 32x32
 
 A single ICO file consists of one or more than one small images of multiple sizes and colour depths. The presence of images of multiple sizes is for appropriate scaling at different screen resolutions. All values in ICO/CUR files are represented in [little-endian](https://en.wikipedia.org/wiki/Little-endian) byte order.
 
-The ICO file consists of an Icon header, an Icon Directory, 
+The ICO file consists of an Icon header, an Icon Directory,
 
-
-|**Icon Header**|Stores general information about the ICO file.
-|**Directory[1..n]**|Stores general information about every image in the file.
-|**Icon #1**|The actual "data" for the first image in old AND/XOR DIB format or newer PNG
-|**...**| 
-|**Icon #n**|Data for the last icon image
+|Field|Description
+---|---|
+|Icon Header|Stores general information about the ICO file.
+|Directory[1..n]|Stores general information about every image in the file.
+|Icon #1|The actual "data" for the first image in old AND/XOR DIB format or newer PNG
+|...|
+|Icon #n|Data for the last icon image
 
 ### Header ###
 
 
-|#Offset#|#Size (in bytes)|#Purpose
+|Offset|Size (in bytes)|Purpose
+---|---|---|
 |0|2|Reserved. Must always be 0.
 |2|2|Specifies image type: 1 for icon (.ICO) image, 2 for cursor (.CUR) image. Other values are invalid.
 |4|2|Specifies number of images in the file.
@@ -47,7 +49,8 @@ The ICO file consists of an Icon header, an Icon Directory,
 The directory contained in an ICO file, represented as ICONDIR structure, contains an ICONDIRECTORY structure for each image in the file. The same is followed by a contiguous block of all image bitmap data. This is as shown below.
 
 
-|#Offset|#Size|#Description
+|Offset|Size|Description
+---|---|---|
 |0 (0)|1|Width, should be 0 if 256 pixels
 |1 (1)|1|Height, should be 0 if 256 pixels
 |2 (2)|1|Color count, should be 0 if more than 256 colors

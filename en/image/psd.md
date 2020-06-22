@@ -38,7 +38,8 @@ For conformance, data should be written to all these fields in the section, as P
 
 The file header contains the basic properties of the image.
 
-|#Length|#Description
+|Length|Description
+---|---|
 |4|Signature: always equal to '8BPS' . Do not try to read the file if the signature does not match this value.
 |2|Version: always equal to 1. Do not try to read the file if the version does not match this value. (~*~*PSB~*~* version is 2.)
 |6|Reserved: must be zero.
@@ -53,7 +54,8 @@ The file header contains the basic properties of the image.
 The color mode data section is structured as follows:
 
 
-|#Length|#Description
+|Length|Description
+---|---|
 |4|The length of the following Color data
 |variable|The color data
 
@@ -64,16 +66,16 @@ Color mode data is available only for indexed color and duotone as defined by th
 The third section of the file contains image resources. It starts with a length field, followed by a series of resource blocks.
 
 
-|#Length|#Description
-|4|(((
-Length of image resource section. The length may be zero.
-)))
+|Length|Description
+---|---|
+|4|Length of image resource section. The length may be zero.
 |Variable|Image Resources (Image Resource Blocks)
 
 Image resources are used to store non-pixel data associated with images such as pen tool paths. They are referred to as resource blocks because they hold data that was stored in the Macintosh's resource in early versions of Photoshop.The basic structure of image resource blocks is as shown below:
 
 
-|#Length|#Description
+|Length|Description
+---|---|
 |4|Signature: '8BIM'
 |2|Unique identifier for the resource. Image resource IDs contains a list of resource IDs used by Photoshop.
 |Variable|Name: Pascal string, padded to make the size even (a null name consists of two bytes of 0)
@@ -87,8 +89,9 @@ Image resources use several standard ID numbers.
 The fourth section of a Photoshop file contains information about layers and masks such as number of layers, channels in the layers, blending ranges, adjustment layer keys, effects layers, and mask parameters. If there are no layers or masks, this section is represented by zeroed 4-byte field. Special attention needs to be paid to the length of sections while reading this section due to the zeroed values. The arrangement of Layer and Mask section is as follow:
 
 
-|#Length|#Description
-|4|Length of the layer and mask information section. (~*~*PSB~*~* length is 8 bytes.)
+|Length|Description
+---|---|
+|4|Length of the layer and mask information section. (PSB length is 8 bytes.)
 |Variable|Layer info
 |Variable|Global layer mask info
 |Variable|Series of tagged blocks containing various types of data.
@@ -98,31 +101,21 @@ The fourth section of a Photoshop file contains information about layers and mas
 The following table shows the high-level organization of the layer information.
 
 
-|#Length|#Description
-|4|Length of the layers info section, rounded up to a multiple of 2. (~*~*PSB~*~* length is 8 bytes.)
+|Length|Description
+---|---|
+|4|Length of the layers info section, rounded up to a multiple of 2. (PSB length is 8 bytes.)
 |2|Layer count. If it is a negative number, its absolute value is the number of layers and the first alpha channel contains the transparency data for the merged result.
 |Variable|Information about each layer. See Layer records describes the structure of this information for each layer.
-|Variable|Channel image data. Contains one or more image data records for each layer. The layers are in the same order as in the layer information 
+|Variable|Channel image data. Contains one or more image data records for each layer. The layers are in the same order as in the layer information
 
 ### Image Data ###
 
 The image pixel data is contained in the Image Data section of the file. Arrangement of data in Image Data section is in planar order i.e. first all the red data, then all the green data, etc. Each plane is stored in scan-line order, with no pad bytes, The image data section is arrange in a format as shown in the following table.
 
-|#Length|#Description
-|2|(((
-Compression method:
-
-0 # Raw image data
-
-1 # RLE compressed the image data starts with the byte counts for all the scan lines (rows * channels), with each count stored as a two-byte value. The RLE compressed data follows, with each scan line compressed separately. The RLE compression is the same compression algorithm used by the Macintosh ROM routine PackBits , and the TIFF standard.
-
-2 # ZIP without prediction
-
-3 # ZIP with prediction.
-)))
-|Variable|(((
-The image data. Planar order # RRR GGG BBB, etc.
-)))
+|Length|Description
+---|---|
+|2|Compression method: *0 = Raw image data * 1 = RLE compressed the image data starts with the byte counts for all the scan lines (rows * channels), with each count stored as a two-byte value. The RLE compressed data follows, with each scan line compressed separately. The RLE compression is the same compression algorithm used by the Macintosh ROM routine PackBits , and the TIFF standard. *2 = ZIP without prediction *3 = ZIP with prediction.
+|Variable|The image data. Planar order = RRR GGG BBB, etc.
 
 ## References ##
 

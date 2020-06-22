@@ -23,7 +23,8 @@ Photoshop can convert PSB file to [PSD](/image/psd/), [JPG](/image/jpeg/), [PNG]
 
 Photoshop file format is divided into five major portions with many length markers to move between sections.
 
-
+|File format
+---|
 |File Header
 |Colour Mode Data
 | Image Resources
@@ -55,7 +56,8 @@ WORD Mode [2] – Colour Mode of the file.
 #### Mode Description ####
 
 
-|**Mode**|**Description**
+|Mode|Description
+---|---|
 |0|Bitmap (monochrome)
 |1|Gray-scale
 |2|Indexed
@@ -93,17 +95,17 @@ BYTE Data [Variable} – Resource data. It is padded to make the even size.
 
 Some of the resource formats are briefly explained below:
 
-**Grid and Guides Resource Format: **Grid and Guides information is stored in resource block. These resource blocks contain 16 byte grid and guide header followed by 5 byte blocks of guide information.
+**Grid and Guides Resource Format:** Grid and Guides information is stored in resource block. These resource blocks contain 16 byte grid and guide header followed by 5 byte blocks of guide information.
 
-**Thumbnail Resource Format: **Thumbnail information is stored in image resource block for preview display which consists of 28 byte header and JFIF thumbnail in RGB.
+**Thumbnail Resource Format:** Thumbnail information is stored in image resource block for preview display which consists of 28 byte header and JFIF thumbnail in RGB.
 
-**Colour samplers Resource Format: **Colour samplers information is stored in image resource block with an 8 byte header followed by a variable length block of colour samplers information.
+**Colour samplers Resource Format:** Colour samplers information is stored in image resource block with an 8 byte header followed by a variable length block of colour samplers information.
 
 ### Layer and Mask Information ###
 
 The forth block is layer and mask information block and contains information about the layers and masks. Layer information is stored first and then mask information.
 
-**Layer Information: **Layer information starts with a LONG value which shows the length of the layer information. After that there is WORD value count which shows the number of layer records to follow.
+**Layer Information:** Layer information starts with a LONG value which shows the length of the layer information. After that there is WORD value count which shows the number of layer records to follow.
 
 [8] – length of the layers
 
@@ -113,10 +115,11 @@ The forth block is layer and mask information block and contains information abo
 
 [Variable] – Channel image data.**          **
 
-**Mask Information: **Mask structure has the following format:
+**Mask Information:** Mask structure has the following format:
 
 
-|**Data Structure**|**    Field Name**|**       Description**
+|Data Structure|Field Name| Description
+---|---|---|
 |WORD|    Overlay Colour Space|     (Not documented)
 |BYTE[8]|    Color Components|     4x2 byte color components
 |WORD|    Opacity|     0#transparent, 1#opaque
@@ -141,7 +144,7 @@ Compression Methods:
 
 3 – Zip with prediction
 
-## **Reference                                          ** ##
+## Reference ##
 
 * [PSB File Format - By Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 * [PSB - Wikipedia](https://en.wikipedia.org/wiki/Adobe_Photoshop#File_format)

@@ -19,10 +19,11 @@ A file with .SLN extension represents a Visual Studio solution file that keeps i
 
 ## **SLN Versions History** ##
 
-The solution format version has evolved with each Microsoft Visual Studio solution with the passage of time. The details about these are as follow. 
+The solution format version has evolved with each Microsoft Visual Studio solution with the passage of time. The details about these are as follow.
 
 
-|**Visual Studio Version**|**Solution Format Version**
+|Visual Studio Version|Solution Format Version
+---|---|
 |2003|8.00
 |2005|9.00
 |2008|10.00
@@ -68,11 +69,11 @@ A solution file can contain more than one projects declaration and that too of d
 Project("{Project-Type-GUID}") # "Project-Name", "Project-Path.extension", "{Project-GUID}"
 ```
 
-**Project-Type-GUID: **The Project-Type-GUID is unique for different project types and is used by the solution reader to identify the type of project. In this case, F184B08F-C81C-45F6-A57F-5ABD9991F28F shows that it is a VB.NET project. 
+`Project-Type-GUID:` The Project-Type-GUID is unique for different project types and is used by the solution reader to identify the type of project. In this case, F184B08F-C81C-45F6-A57F-5ABD9991F28F shows that it is a VB.NET project.
 
-**Project GUID: **The unique GUID of the project that differentiates it from other projects in the solution. The unique ID of a project in the solution makes it possible for other projects in the solution to access it. 
+`Project GUID:` The unique GUID of the project that differentiates it from other projects in the solution. The unique ID of a project in the solution makes it possible for other projects in the solution to access it.
 
-Based on the information contained in the project section of the .sln file, the environment loads each project file. The project itself is then responsible for populating the project hierarchy and loading any nested projects. Any changes made to the solution are saved back to the solution file upon saving or closing the project. 
+Based on the information contained in the project section of the .sln file, the environment loads each project file. The project itself is then responsible for populating the project hierarchy and loading any nested projects. Any changes made to the solution are saved back to the solution file upon saving or closing the project.
 
 ### **References** ###
 

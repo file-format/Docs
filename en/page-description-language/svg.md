@@ -57,19 +57,17 @@ Based on these shapes and specifications, functional areas of SVG are as follow.
 
 **Filter Effects** - Its actually a series of graphics operations that are applied to given source vector graphic to produce modified result.
 
-**Interactivity **- Users can interact with SVG files by changing focus, mouse clicks, scrolling or zooming the image. The Interactivity lets SVG images interact with users in many different ways as aforementioned.
+**Interactivity** - Users can interact with SVG files by changing focus, mouse clicks, scrolling or zooming the image. The Interactivity lets SVG images interact with users in many different ways as aforementioned.
 
-**Linking **- It is possible for SVG images to have hyperlinks to other documents. This is achieved via the XML Linking Language or XLink. This allows for creating specific view states that are used to zoom in/out of a specific area or to limit the view to a specific element.
+**Linking** - It is possible for SVG images to have hyperlinks to other documents. This is achieved via the XML Linking Language or XLink. This allows for creating specific view states that are used to zoom in/out of a specific area or to limit the view to a specific element.
 
-**Scripting **- Similar to HTML, all aspects of an SVG document are accessible for manipulation using scripts. The SVG DOM objects provides the guidance for achieving this using SVG element and attribute. Scripts are enclosed in <script> elements and can run in response to pointer, keyboard or document events as required.
+**Scripting** - Similar to HTML, all aspects of an SVG document are accessible for manipulation using scripts. The SVG DOM objects provides the guidance for achieving this using SVG element and attribute. Scripts are enclosed in `script` tag elements and can run in response to pointer, keyboard or document events as required.
 
-**Animation **- The DOM elements <animate>, <animateMotion> and <animateColor> lets you to including animation for SVG contents. Of course, this is not achievable without using scripts and built-in timers. These animations can be continuous and can be put on loop as well as repeats while at the same time responding to user events.
+**Animation** - The DOM elements <animate>, <animateMotion> and <animateColor> lets you to including animation for SVG contents. Of course, this is not achievable without using scripts and built-in timers. These animations can be continuous and can be put on loop as well as repeats while at the same time responding to user events.
 
 **Fonts** - Text in SVG can reference external font files such as system fonts. In absence of such fonts, text in SVG will not be rendered to the output. This can be overcome by incorporating the required glyphs in such a file as a font that is then rendered using the <text> element.
 
 ## Examples ##
-
-
 The following lines show how a Circle is represented using the SVG script.
 
 ```

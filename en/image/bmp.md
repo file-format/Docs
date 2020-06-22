@@ -17,7 +17,7 @@
 
 # What is a BMP file? #
 
-Files having extension .BMP represent Bitmap Image files that are used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. This independency serves the purpose of opening the file on multiple platforms such as Microsoft Windows and Mac. The BMP file format can store data as two-dimensional digital images  in both monochrome as well as color format with various colour depths. 
+Files having extension .BMP represent Bitmap Image files that are used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. This independency serves the purpose of opening the file on multiple platforms such as Microsoft Windows and Mac. The BMP file format can store data as two-dimensional digital images  in both monochrome as well as color format with various colour depths.
 
 ## BMP File Format Specifications ##
 
@@ -26,7 +26,8 @@ Device Independent Bitmaps act as an aid to exchanging bitmaps between devices a
 Structures in a Bitmap file are arranged in the following order:
 
 
-|#Structure|#Optional|#Size|#Purpose
+|Structure|Optional|Size|Purpose
+---|---|---|---|
 |File Header|No|14|To store general information about the bitmap image file
 |DIB Header|No|Fixed-Size|To store detailed information about the bitmap image and define the pixel format
 |Extra Bit Masks|Yes|12 or 16 bytes|To define the pixel format
@@ -40,17 +41,11 @@ When a bitmap image is loaded into memory, it becomes a DIB structure, used by W
 
 ### Bitmap File Header ###
 
-A Bitmap File Header is similar to other file headers used to identify the file. Since there are different variants to BMP file format, the first 2 bytes of the BMP file format are character "B" and then character "M" in ASCII encoding. All integer values are stored in little-endian format. 
+A Bitmap File Header is similar to other file headers used to identify the file. Since there are different variants to BMP file format, the first 2 bytes of the BMP file format are character "B" and then character "M" in ASCII encoding. All integer values are stored in little-endian format.
 
-|#Offset hex|#Offset dec|#Size|#Purpose
-|00|0|2 bytes|The header field used to identify the BMP and DIB file is 0x42 0x4D in hexadecimal, same as BM in ASCII. It can following possible values.(((
-* **BM** – Windows 3.1x, 95, NT, ... etc.
-* **BA** – OS/2 struct bitmap array
-* **CI** – OS/2 struct color icon
-* **CP** – OS/2 const color pointer
-* **IC** – OS/2 struct icon
-* **PT** – OS/2 pointer
-)))
+|Offset hex|Offset dec|Size|Purpose
+---|---|---|---|
+|00|0|2 bytes|The header field used to identify the BMP and DIB file is 0x42 0x4D in hexadecimal, same as BM in ASCII. It can following possible values.* **BM** – Windows 3.1x, 95, NT, ... etc. * **BA** – OS/2 struct bitmap array * **CI** – OS/2 struct color icon * **CP** – OS/2 const color pointer * **IC** – OS/2 struct icon * **PT** – OS/2 pointer
 |02|2|4 bytes|The size of the BMP file in bytes
 |06|6|2 bytes|Reserved; actual value depends on the application that creates the image
 |08|8|2 bytes|Reserved; actual value depends on the application that creates the image
@@ -74,7 +69,7 @@ Bitmap pixels are stored as bits packed in rows where  the size of each row is 
 
 The image is actually described by the 32-bit DWORDs representation of the pixel array. Usually pixels are stored "bottom-up", starting in the lower left corner, going from left to right, and then row by row from the bottom to the top of the image. Pixel formats and their implications are as listed below:
 
-* The 1-bit per pixel (1bpp) format supports 2 distinct colours, (for example: black and white). 
+* The 1-bit per pixel (1bpp) format supports 2 distinct colours, (for example: black and white).
 * The 2-bit per pixel (2bpp) format supports 4 distinct colours and stores 4 pixels per 1 byte, the left-most pixel being in the two most significant bits. Each pixel value is a 2-bit index into a table of up to 4 colours.
 * The 4-bit per pixel (4bpp) format supports 16 distinct colours and stores 2 pixels per 1 byte, the left-most pixel being in the more significant nibble. Each pixel value is a 4-bit index into a table of up to 16 colours.
 * The 8-bit per pixel (8bpp) format supports 256 distinct colours and stores 1 pixel per 1 byte. Each byte is an index into a table of up to 256 colours.

@@ -44,45 +44,41 @@ DNG Version 1.4 October 2012 has the following advanced features.
 In this section we will describe the DNG format as an extension of TIFF 6.0.
 
 * **File Extensions**: DNG uses “.DNG” or “.TIF” extensions.
-* **SubIFD Trees: **DNG does not support SubIFD chains, instead DNG recommends the use of SubIFD trees as mentioned in TIFF-EP specifications. Highest quality and resolution may use NewSubFileType of 0, while the reduced quality thumbnails should use NewSubFileType equal to 1. It is also recommended though not required that the first IFD must have a low quality or resolution thumbnail.
-* **Byte Order: **Byte order must be supported by DNG readers, also for files from a particular camera model.
-* **Masked Pixels:**  Most of the camera sensors calculate fully masked pixels at the edge of the sensor through black encoding. These pixels can be either included or trimmed before the image is stored in DNG format. If the masked pixels are not trimmed, then the area of these pixels must be mentioned in the ActiveArea tag. The information gathered from these pixels about black encoding level should be used for either before the raw data is stored or may be included in DNG file specifying the level of black.
-* **Defective Pixels:** Before storing raw data as DNG, defective pixels should be excluded.
-* **Metadata: **Metadata may be included in DNG in any of the following ways:  
+* **SubIFD Trees**: DNG does not support SubIFD chains, instead DNG recommends the use of SubIFD trees as mentioned in TIFF-EP specifications. Highest quality and resolution may use NewSubFileType of 0, while the reduced quality thumbnails should use NewSubFileType equal to 1. It is also recommended though not required that the first IFD must have a low quality or resolution thumbnail.
+* **Byte Order**: Byte order must be supported by DNG readers, also for files from a particular camera model.
+* **Masked Pixels**:  Most of the camera sensors calculate fully masked pixels at the edge of the sensor through black encoding. These pixels can be either included or trimmed before the image is stored in DNG format. If the masked pixels are not trimmed, then the area of these pixels must be mentioned in the ActiveArea tag. The information gathered from these pixels about black encoding level should be used for either before the raw data is stored or may be included in DNG file specifying the level of black.
+* **Defective Pixels**: Before storing raw data as DNG, defective pixels should be excluded.
+* **Metadata**: Metadata may be included in DNG in any of the following ways:  
 ** By using TIFF-EP or EXIF metadata tags
 ** Through the IPTC metadata tag (33723)
 ** Using the XMP metadata tag (700)
-* **__Proprietary Data__**     Normally vendors include proprietary data in raw file to be used by their own converters. DNG stores their proprietary data in private tags, private IFDs, and in a private MakerNote. Vendors must use the DNGPrivateData and MakerNoteSafety tags to make sure applications that edit DNG files preserve this proprietary data.
+* **Proprietary Data**: Normally vendors include proprietary data in raw file to be used by their own converters. DNG stores their proprietary data in private tags, private IFDs, and in a private MakerNote. Vendors must use the DNGPrivateData and MakerNoteSafety tags to make sure applications that edit DNG files preserve this proprietary data.
 
 Following are some important restrictions and extensions TIFF tags.
 
-**BitsPerSample**       
+**BitsPerSample**      
 
 8 to 32 bits/sample are supported. There must be same depth for each sample when SamplesPerPixel is not equal to 1.But if BitsPerSample is not equal to 8 or 16 or 32, then bits must be packed into bytes using the TIFF default FillOrder of 1 (big-endian).
 
-**Compression         **
+**Compression**
 
 Two Compression tag values are supported:
 
-•    Value # 1: Uncompressed data.
+* Value # 1: Uncompressed data.
+* Value # 7: JPEG compressed data, either baseline DCT JPEG, or lossless JPEG compression.
 
-•    Value # 7: JPEG compressed data, either baseline DCT JPEG, or lossless JPEG compression.
-
-**PhotometricInterpretation          **
+**PhotometricInterpretation**
 
 The following values are supported for thumbnail and preview IFDs only:
 
-•    1 # BlackIsZero. Assumed to be in a gamma 2.2 color space.
-
-•    2 # RGB. Assumed to be in the sRGB color space.
-
-•    6 # YCbCr. Used for JPEG encoded preview images.
+* 1 = BlackIsZero. Assumed to be in a gamma 2.2 color space.
+* 2 = RGB. Assumed to be in the sRGB color space.
+* 6 = YCbCr. Used for JPEG encoded preview images.
 
 The following values are supported for the raw IFD, and are assumed to be the camera's native color space:
 
-•    32803 # CFA (Color Filter Array).
-
-•    34892 # LinearRaw.
+* 32803 # CFA (Color Filter Array).
+* 34892 # LinearRaw.
 
 **Orientation**
 

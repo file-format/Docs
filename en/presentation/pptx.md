@@ -17,7 +17,7 @@
   "lastmod" : "2019-09-10"
 }
 
-Files with PPTX extension are presentation files created with popular Microsoft PowerPoint application. Unlike the previous version of presentation file format PPT which was binary, the PPTX format is based on the Microsoft PowerPoint open XML presentation file format. A presentation file is a collection of slides where each slide can comprise of text, images, formatting, animations, and other media. These slides are presented to audience in the form of slideshows with custom presentation settings. 
+Files with PPTX extension are presentation files created with popular Microsoft PowerPoint application. Unlike the previous version of presentation file format PPT which was binary, the PPTX format is based on the Microsoft PowerPoint open XML presentation file format. A presentation file is a collection of slides where each slide can comprise of text, images, formatting, animations, and other media. These slides are presented to audience in the form of slideshows with custom presentation settings.
 
 ## Brief History ##
 
@@ -25,9 +25,7 @@ PPTX file format was introduced in 2007 and uses the Open XML standard adapted b
 
 ## File Format Specifications ##
 
-Files generated with office Open XML file format is a collection of XML files along with other files that provide links between all the constituent files. This collection is actually a compressed archive that can be extracted to view its contents. To do so, just rename the PPTX file extension with zip and extract it for observing its contents. Contents of a blank presentation file, when extracted, look as follow:
-
-![](presentation.pptx.WebHome@Blank PPTX.png)
+Files generated with office Open XML file format is a collection of XML files along with other files that provide links between all the constituent files. This collection is actually a compressed archive that can be extracted to view its contents. To do so, just rename the PPTX file extension with zip and extract it for observing its contents.
 
 Following sections shed some light on each one of these.
 

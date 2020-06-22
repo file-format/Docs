@@ -27,11 +27,10 @@ VB files are text based file formats that can be opened in any text editor for e
 
 ## Example ##
 
-
 ```
 Imports System
 Module Module1
-   'This program will display Hello World 
+   'This program will display Hello World
    Sub Main()
       Console.WriteLine("Hello World")
       Console.ReadKey()

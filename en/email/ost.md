@@ -43,7 +43,8 @@ The HEADER structure of OST file is located at the very beginning of the file at
 
 The header starts with a 4-bytes magic word **!BDN** represented by bytes (0x21, 0x42, 0x44, 0x4E). Another 2-bytes magic number, **SM** (0x53, 0x4D),  is located at offset 8 from the start of file. Version information (ANSI or Unicode) lies at an offset of 10 from start of file. Hex value (0x17) specifies Unicode OST file while 0x0E or 0x0F represents ANSI file format.
 
-
+|Field|Description
+---|---|
 |dwMagic      (4 bytes)|MUST be "{ 0x21, 0x42, 0x44, 0x4E } ("!BDN")"
 |dwCRCPartial (4 bytes)|The 32-bit CRC  value of the 471 bytes of data starting from wMagicClient (0ffset 0x0008)
 |wMagicClient (2 bytes)|MUST be "{ 0x53, 0x4D }".
@@ -51,7 +52,7 @@ The header starts with a 4-bytes magic word **!BDN** represented by bytes (0x2
 |wVerClient   (2 bytes)|Client file format version. The version that corresponds to the format described in this document is 19. Creators of a new PST file based on this document SHOULD initialize this value to 19.
 |bPlatformCreate (1 byte)|This value MUST be set to 0x01.
 |bPlatformAccess (1 byte)|This value MUST be set to 0x01.
-|dwReserved   (8 bytes)| 
+|dwReserved   (8 bytes)|
 |bidUnused    (8 bytes Unicode only)|Unused padding added when the Unicode PST file format was created.
 |bidNextP     (Unicode: 8 bytes; ANSI: 4 bytes)|Next page BID. Pages have a special counter for allocating bidIndex values. The value of bidIndex for BIDs for pages is allocated from this counter.
 |bidNextB     (4 bytes ANSI only): |Next BID. This value is the monotonic counter that indicates the BID to be assigned for the next allocated block. BID values advance in increments of 4. For more details, see section 2.2.2.2.
@@ -70,15 +71,13 @@ The header starts with a 4-bytes magic word **!BDN** represented by bytes (0x2
 |dwCRCFull    (4 bytes)|The 32-bit CRC value of the 516 bytes of data starting from wMagicClient to bidNextB, inclusive. Unicode PST file format only.
 |ullReserved  (8 bytes)|Reserved; MUST be set to zero. ANSI PST file format only.
 |dwReserved   (4 bytes)|Reserved; MUST be set to zero. ANSI PST file format only.
-|rgbReserved2 (3 bytes)| 
-|bReserved    (1 byte) | 
-|rgbReserved3 (32 bytes) | 
+|rgbReserved2 (3 bytes)|
+|bReserved    (1 byte) |
+|rgbReserved3 (32 bytes) |
 
 ### References ###
 
-* (((
+*
 [Outlook Personal Folders (.ost) File Format](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-)))
-* (((
+*
 [Personal Folder File Format Specifications](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
-)))

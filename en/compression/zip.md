@@ -17,7 +17,7 @@
 
 ## What is a ZIP file? ##
 
-ZIP file extension represents archives that can hold one or more files or directories. The archive can have compression applied to the included files in order to reduce the ZIP file size. ZIP file format was made public back in February 1989 by Phil Katz for achieving archiving of files and folders. The format was made part of [PKZIP](https://www.pkware.com/pkzip) utility, created by PKWARE, Inc. Right after the availability of [available specifications](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT), many companies made ZIP file format part of their software utilities including Microsoft (since Windows 7), Apple (Mac OS X ) and many others. 
+ZIP file extension represents archives that can hold one or more files or directories. The archive can have compression applied to the included files in order to reduce the ZIP file size. ZIP file format was made public back in February 1989 by Phil Katz for achieving archiving of files and folders. The format was made part of [PKZIP](https://www.pkware.com/pkzip) utility, created by PKWARE, Inc. Right after the availability of [available specifications](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT), many companies made ZIP file format part of their software utilities including Microsoft (since Windows 7), Apple (Mac OS X ) and many others.
 
 ## Brief History ##
 
@@ -44,13 +44,15 @@ DEFLATE is the commonly used compression method which is a lossless date compres
 
 ## ZIP File Format Specifications ##
 
-ZIP files have capability to store multiple files using different compression techniques while at the same time supports storing a file without any compression. Each file is stored/compressed individually which helps to extract them, or add new ones, without applying compression or decompression to the entire archive. 
+ZIP files have capability to store multiple files using different compression techniques while at the same time supports storing a file without any compression. Each file is stored/compressed individually which helps to extract them, or add new ones, without applying compression or decompression to the entire archive.
 
 ### Overall ZIP File Format ###
 
 Each Zip file is structured in the following manner:
 
 
+|ZIP File format
+---|
 |Local File Header 1
 |File Data 1
 |Data Descriptor 1
@@ -87,7 +89,8 @@ The Local File Header of each entry represents information about the file such a
 The Local File Header has specific field structure consisting of multi-byte values. All the values are stored in little-endian byte order where the field length counts the length in bytes. All the structures in a ZIP file use 4-byte signatures  for each file entry. The end of central directory signature is 0x06054b50 and can be distinguished using its own unique signature. Following is the order of information stored in Local File Header.
 
 
-|#Offset|#Bytes|#Description
+|Offset|Bytes|Description
+---|---|---|
 |0|4|Local file header signature # 0x04034b50 (read as a little-endian number)
 |4|2|Version needed to extract (minimum)
 |6|2|General purpose bit flag
@@ -95,19 +98,18 @@ The Local File Header has specific field structure consisting of multi-byte valu
 |10|2|File last modification time
 |12|2|File last modification date
 |14|4|CRC-32
-|18|(((
-4
-)))|Compressed size
+|18|4|Compressed size
 |22|4|Uncompressed size
-|26|2|File name length (//n//)
-|28|2|Extra field length (//m//)
+|26|2|File name length (n)
+|28|2|Extra field length (m)
 |30|n|File Name
 |30+n|m|Extra Field
 
 #### Central Directory File Header ####
 
 
-|#Offset|#Bytes|#Description
+|Offset|Bytes|Description
+---|---|---|
 |0|4|Central directory file header signature # 0x02014b50
 |4|2|Version made by
 |6|2|Version needed to extract (minimum)
@@ -118,21 +120,22 @@ The Local File Header has specific field structure consisting of multi-byte valu
 |16|4|CRC-32
 |20|4|Compressed size
 |24|4|Uncompressed size
-|28|2|File name length (//n//)
-|30|2|Extra field length (//m//)
-|32|2|File comment length (//k//)
+|28|2|File name length (n)
+|30|2|Extra field length (m)
+|32|2|File comment length (k)
 |34|2|Disk number where file starts
 |36|2|Internal file attributes
 |38|4|External file attributes
 |42|4|Relative offset of local file header. This is the number of bytes between the start of the first disk on which the file occurs, and the start of the local file header. This allows software reading the central directory to locate the position of the file inside the ZIP file.
-|46|//n//|File name
-|46+//n//|//m//|Extra field
-|46+//n//+//m//|//k//|File comment
+|46|n|File name
+|46+n|m|Extra field
+|46+n+m|k|File comment
 
 #### End of Central Directory Record ####
 
 
-|#Offset|#Bytes|#Description
+|Offset|Bytes|Description
+---|---|---|
 |0|4|End of central directory signature # 0x06054b50
 |4|2|Number of this disk
 |6|2|Disk where central directory starts
@@ -140,8 +143,8 @@ The Local File Header has specific field structure consisting of multi-byte valu
 |10|2|Total number of central directory records
 |12|4|Size of central directory (bytes)
 |16|4|Offset of start of central directory, relative to start of archive
-|20|2|Comment length (//n//)
-|22|//n//|Comment
+|20|2|Comment length (n)
+|22|n|Comment
 
 ## References ##
 

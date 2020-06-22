@@ -21,11 +21,10 @@ Files with ODP extension represent presentation file format used by OpenOffice.o
 
 ODP file format specifications are based on the standard developed as ODF specifications. These specifications have evolved over past in the form of three versions developed and published by OASIS as follow:
 
-**2005: **Version 1.0 was published in May 2005
+`2005` - Version 1.0 was published in May 2005
+`2007` - Version 1.1 was published in Feb 2007
 
-**2007: **Version 1.1 was published in Feb 2007
-
-**2011: **Version 1.2 was published in Sep 2011
+`2011` - Version 1.2 was published in Sep 2011
 
 There were pretty minor changes in transition from ODF 1.0 to 1.1 versions. The [ODF 1.2 version](https://www.oasis-open.org/standards#opendocumentv1.2) is the latest version for ODF specifications and should be consulted by developers for development of applications related to ODS reading/writing.
 
@@ -40,7 +39,7 @@ OpenDocument format supports document representation as a single XML document as
 
 Besides these, in package can be many other subdocuments like document thumbnail, images, etc.
 
-Spreadsheet document files are the subset of ODF files where the content (sheets) is stored in //content.xml// subdocument.
+Spreadsheet document files are the subset of ODF files where the content (sheets) is stored in content.xml subdocument.
 
 ## References ##
 

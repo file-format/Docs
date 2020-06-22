@@ -19,26 +19,15 @@ Transport Neutral Encapsulation Format (TNEF) is a Microsoft proprietary, for en
 
 
 |**Message**|**OLE objects**|**Outlook features**
-|(((
-* Original  message attachments
-* Original formatted version
-* fonts, text sizes, and text colors
-)))|(((
-* embedded pictures
-* embedded Office documents
-)))|(((
-* custom forms
-* voting buttons
-* meeting requests
-)))
+---|---|---|
+|* Original  message attachments * Original formatted version * fonts, text sizes, and text colors |* embedded pictures * embedded Office documents |* custom forms * voting buttons * meeting requests
+
 
 Other email services who are not TNEF supportive, present plain text for TNEF formatted messages. Outlook embed a rich format of the message in TNEF files (OLE) or particular Outlook features (forms, polling buttons, and conference requests). Sanctioning explicit TNEF encoding within the Outlook e-mail client is not possible, however, Opting RTF format for dispatching an e-mail implicitly facilitates TNEF encoding.
 
 ## TNEF File Format ##
 
-The TNEF data algorithm establishes a flattened structure from rich hierarchical message properties. These flattened structures then use to represent a serial data stream composed of particular properties. A distinctive format of a property with in this data stream is represented by following:
-
-![](email.tnef.WebHome@1556643610904-928.png)
+The TNEF data algorithm establishes a flattened structure from rich hierarchical message properties. These flattened structures then use to represent a serial data stream composed of particular properties.
 
 In some situations, where properties occur in groups or have multiple-values, stream might include counts and paddings to enforce a specific data alignments. A distinctive situation where the use of this algorithm is advantageous is in an unsupportive messaging environment. In such environments, a rich message property is encoded into a serial data stream by a TNEF Writer. Further, the properties that do not belongs to the underlying TNEF can be encapsulated during transmission. These encapsulated properties then made available by decoding through a TNEF to ensure the availability of all properties of the original message to the client application.
 

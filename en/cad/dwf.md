@@ -35,7 +35,7 @@ DWF is an open, secure format designed specifically for sharing rich engineerin
 
 ### File Format Details ###
 
-DWF// //files are organized into three main sections as shown below.
+DWF files are organized into three main sections as shown below.
 
 * File identification header
 * File data block
@@ -47,6 +47,7 @@ The file identifier header allows for identification of DWF files by application
 
 
 |**Byte**|**0**|**1**|**2**|**3**|**4**|**5**|**6**|**7**|**8**|**9**|**10**|**11**
+--- | --- |--- | --- |--- | --- |--- | --- |--- | --- |--- | --- |--- |
 |Character|(|D|W|F|(space)|V|0|0|.|3|0|)
 
 Here is a summary of this table:
@@ -54,16 +55,17 @@ Here is a summary of this table:
 * The first six bytes of the header always represent ASCII characters "(DWF V"
 * The following 5 bytes contain information about the version number e.g. "00.30" with the major and minor version value of the format
 
-Applications creating a DWF file should specify the lowest possible version number that a reader application need to support in order to properly use the data. 
+Applications creating a DWF file should specify the lowest possible version number that a reader application need to support in order to properly use the data.
 
 #### File Data Block ####
 
 The file data block starts at the 13th byte of a DWF file, and is a series of opcode and operand pairs, as in following table.
 
+|Field 1|Field 2|Field 3|Field 4|Field 5|Field 5
+--- | --- |--- | --- |--- | --- |
+|opcode|operand|opcode|operand|opcode|operand
 
-|<opcode>|<operand>|<opcode>|<operand>|<opcode>|<operand>
-
-A DWF file can contain opcode-operand pairs as readable ASCII as well as code binary or a mix of both of these. All DWF operations have a readable ASCII opcode/operand form, and most operations also have a coded binary opcode/operand form. Opcodes are in single byte allowing for over 200 operations. Extended ASCII and extended binary are exceptional cases. The values of Opcodes can range from 0-255 with some exceptions. Except for the two special types of opcodes extended ASCII and extended binary, a file reader //must// know how to compute the operand length.
+A DWF file can contain opcode-operand pairs as readable ASCII as well as code binary or a mix of both of these. All DWF operations have a readable ASCII opcode/operand form, and most operations also have a coded binary opcode/operand form. Opcodes are in single byte allowing for over 200 operations. Extended ASCII and extended binary are exceptional cases. The values of Opcodes can range from 0-255 with some exceptions. Except for the two special types of opcodes extended ASCII and extended binary, a file reader must know how to compute the operand length.
 
 ##### Forbidden Opcodes #####
 
@@ -91,10 +93,11 @@ The file termination trailer for DWF is simply a special opcode indicating the e
 
 
 |**Byte**|**0**|**1**|**2**|**3**|**4**|**5**|**6**|**7**|**8**|**9**
+---|---|---|---|---|---|---|---|---|---|---|
 |Character|(|E|n|d|0|f|D|W|F|)
 
 ## References ##
 
 * [DWF - By Wikipedia](https://en.wikipedia.org/wiki/Design_Web_Format)
 * [WHIP Data Format](http://paulbourke.net/dataformats/whip/)
-* [http:~~/~~/blogs.msdn.com/opc/archive/2009/05/18/adventures-in-packaging-episode-1.aspx](http://blogs.msdn.com/opc/archive/2009/05/18/adventures-in-packaging-episode-1.aspx)
+* [http://blogs.msdn.com/opc/archive/2009/05/18/adventures-in-packaging-episode-1.aspx](http://blogs.msdn.com/opc/archive/2009/05/18/adventures-in-packaging-episode-1.aspx)

@@ -37,13 +37,12 @@ Lossless WebP compression uses already seen image fragments in order to exactly 
 The WebP file format is based on the RIFF (resource interchange file format) document format. The WebP container provides support for over and above features than only containing a single image encoded as a VP8 key frame. The basic element of a RIFF file is a chunk which consists of:
 
 
-|#Field|#Description
+|Field|Description
+---|---|
 |Chunk FourCC: 32 bits|ASCII four-character code used for chunk identifcation
 |Chunk Size: 32 bits (uint32)|The size of the chunk not including this field, the chunk identifier or padding
 |Chunk Payload: Chunk Size bytes|The data payload. If Chunk Size is odd, a single padding byte ~-~- that should be 0 ~-~- is added
-|ChunkHeader ('ABCD')|(((
-Used to describe the FourCC and Chunk Size header of individual chunks, where 'ABCD' is the FourCC for the chunk. This element's size is 8 bytes.
-)))
+|ChunkHeader ('ABCD')|Used to describe the FourCC and Chunk Size header of individual chunks, where 'ABCD' is the FourCC for the chunk. This element's size is 8 bytes.
 
 ### WebP Header ###
 
@@ -57,12 +56,12 @@ A WebP file header is as follow:
 
 WebP images use the lossy file format if the image is based on lossy encoding and does not require any advanced/extended features such as transparency, animate, alpha, etc. Lossy images are smaller and are supported by the older applications as well.
 
-{{{The WebP file, in this case, consists of:}}}
+The WebP file, in this case, consists of:
 
 * 12 bytes WebP file header
 * VP8 Chunk
 
-The [VP8 Data Format and Decoding Guide](https://tools.ietf.org/html/rfc6386) illustrates the VP8 bitstream format specifications. 
+The [VP8 Data Format and Decoding Guide](https://tools.ietf.org/html/rfc6386) illustrates the VP8 bitstream format specifications.
 
 ### Lossless File Format ###
 

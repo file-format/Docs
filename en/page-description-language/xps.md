@@ -27,7 +27,7 @@ Microsoft submitted the XPS specification to Ecma International. In June 2007, E
 
 The XPS format consists of XML markup that defines the composition of a document and visual appearance of each page along with rendering rules for displaying or printing the document. It retains all the information to re-create a document on any system which makes it independent of the resources available on that system. The format is essentially a ZIP archive and if you rename the file extension to ZIP, you will see the constituent files that contain the document data. These documents include:
 
-* document page files (.fpage) - The fpage file contains document content and document format settings. Every page in XPS document has one FPAGE file. 
+* document page files (.fpage) - The fpage file contains document content and document format settings. Every page in XPS document has one FPAGE file.
 * document settings file (.fdoc) - Stores settings included in XPS archive.
 * document fragment files (.frag) - Defines the settings for the actual .XPS file and every page in the document has its own .frag file.
 
@@ -42,13 +42,8 @@ These files retain the document contents in such a way that if, for example, som
 
 The XPS Document format includes a well-defined set of parts and relationships, each fulfilling a particular purpose in the document. The format also extends the package features, including digital signatures, thumbnails, and interleaving.
 
-
-[[image:1568687962029-244.png||alt#"XPS-Document-Format" height#"191" width#"301"]]
-
 A typical XPS document looks as follows and can be analyzed in light of XPS file format [specifications](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf).
 
-
-[[image:1568685373337-934.png||alt#"XPS-File-Extension" height#"539" width#"397"]]
 
 ## References ##
 

@@ -36,17 +36,18 @@ EXIF uses the following file formats with the addition of specific metadata.
 
 1. [JPEG](/image/jpeg/) - discrete cosine transform (DCT) for compressed image files.
 1. [TIFF](/image/tiff/) Rev. 6.0 (RGB or YCbCr) for uncompressed image files.
-1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) for audio files (Linear [PCM](https://en.wikipedia.org/wiki/Pulse-code_modulation) or ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM for uncompressed audio data, and [IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) for compressed audio data).  
+1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) for audio files (Linear [PCM](https://en.wikipedia.org/wiki/Pulse-code_modulation) or ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM for uncompressed audio data, and [IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) for compressed audio data). 
 
 ### Marker used by EXIF ###
 
 The marker 0xFFE0~~0xFFEF is "Application Marker", used by user application. For example, older digi cams use JFIF (JPEG File Interchange Format) for storing images. JFIF uses APP0 (0xFFE0) Marker for inserting digi cam configuration data and thumbnail image. Furthermore, EXIF also uses an Application Marker for inserting data, but EXIF uses APP1 (0xFFE1) Marker to avoid a conflict with JFIF format. Every EXIF file formats starts from this format.
 
 
-|**SOI Marker**|**APP1 Marker**|**APP1 Data**|**Other Marker**
+|SOI Marker|APP1 Marker|APP1 Data|Other Marker
+---|---|---|---|
 |FFD8|FFE1|SSSS 457869660000 TTTT......|FFXX SSSS DDDD......
 
-It starts from SOI (0xFFD8) Marker, so it's a JPEG file. Then APP1 Marker follows immediately. All the data of EXIF are stored in this APP1 data area. The part of "SSSS" on upper table means the size of APP1 data area (EXIF data area). Please notice that the size "SSSS" includes the size of descriptor itself also. After the "SSSS", APP1 data starts. The first part is a special data for the identification whether EXIF or not, ASCII character "EXIF" and 2 bytes of 0x00 are used. After the APP1 Marker area, the other JPEG Markers follows. 
+It starts from SOI (0xFFD8) Marker, so it's a JPEG file. Then APP1 Marker follows immediately. All the data of EXIF are stored in this APP1 data area. The part of "SSSS" on upper table means the size of APP1 data area (EXIF data area). Please notice that the size "SSSS" includes the size of descriptor itself also. After the "SSSS", APP1 data starts. The first part is a special data for the identification whether EXIF or not, ASCII character "EXIF" and 2 bytes of 0x00 are used. After the APP1 Marker area, the other JPEG Markers follows.
 
 ### Exif Data Structure ###
 
@@ -54,6 +55,7 @@ A Rough structure of EXIF data (APP1) is shown as below. As discussed above, EXI
 
 
 |FFE1|APP1 Marker
+---|---|
 |SSSS|APP1 Data|APP1 Data Size
 |45786966 0000|Exif Header
 |49492A00 08000000|TIFF Header
@@ -72,13 +74,13 @@ A Rough structure of EXIF data (APP1) is shown as below. As discussed above, EXI
 
 he 8-byte [TIFF](/image/tiff/) file header contains the following information:
 
-**Bytes 0-1:**  The byte order used within the file. Legal values are:“II”(4949.H)“MM”  (4D4D.H).
+`Bytes 0-1:`  The byte order used within the file. Legal values are:“II”(4949.H)“MM”  (4D4D.H).
 
 In the “II” format, byte order is always from the least significant byte to the most significant byte, for both 16-bit and 32-bit integers This is called little-endian byte order. In the “MM” format, byte order is always from most significant to least significant, for both 16-bit and 32-bit integers. This is called big-endian byte order.
 
-**Bytes 2-3:**    An arbitrary but carefully chosen number (42) that further identifies the file as a TIFF file.The byte order depends on the value of Bytes 0-1.
+`Bytes 2-3:`   An arbitrary but carefully chosen number (42) that further identifies the file as a TIFF file.The byte order depends on the value of Bytes 0-1.
 
-**Bytes 4-7:**    The offset (in bytes) of the first IFD. The directory may be at any location in the file after the header but must begin on a word boundary. In particular, an Image File Directory may follow the image data it describes. Readers must follow the pointers wherever they may lead.The term byte offset is always used in this document to refer to a location with respect to the beginning of the TIFF file. The first byte of the file has an offset of 0.
+`Bytes 4-7:`    The offset (in bytes) of the first IFD. The directory may be at any location in the file after the header but must begin on a word boundary. In particular, an Image File Directory may follow the image data it describes. Readers must follow the pointers wherever they may lead.The term byte offset is always used in this document to refer to a location with respect to the beginning of the TIFF file. The first byte of the file has an offset of 0.
 
 #### Image File Directory ####
 
@@ -89,7 +91,8 @@ An IFD contains information about the image as well as pointers to the actual im
 Each 12-byte IFD Entry is in the following format.
 
 
-|#Bytes|#Description
+|Bytes|Description
+---|---|
 |0-1|The Tag that identifies the field
 |2-3|The field type
 |4-7|Count of the indicated type
@@ -113,5 +116,3 @@ If the value of Compression(0x0103) Tag in IFD1 is '1', thumbnail image format
 
 * [EXIF - By Wikipedia](https://en.wikipedia.org/wiki/Exif)
 * [EXIF File Format](https://www.media.mit.edu/pia/Research/deepview/exif.html)
-
- 

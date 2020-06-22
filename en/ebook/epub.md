@@ -17,7 +17,7 @@
   "lastmod" : "2019-12-12"
 }
 
-Files with .EPUB extension are an e-book file format that provide a standard digital publication format for publishers and consumers. The format has been so common by now that it is supported by many e-readers and software applications. For example, on Mac OS, the pre-installed **//Books//** software provides the support for opening such files. In addition, there are a lot of compatible software available for smartphones, tablets and computers. EPUB file standards are maintained by the [International Digital Publishing Forum ](http://idpf.org/)(IDPF). The version EPUB 3 is also endorsed by the [Book Industry Study Group](https://bisg.org/) (BISG), a leading book trade association for standardized best practices, research, information and events, for packaging of content.
+Files with .EPUB extension are an e-book file format that provide a standard digital publication format for publishers and consumers. The format has been so common by now that it is supported by many e-readers and software applications. For example, on Mac OS, the pre-installed **Books** software provides the support for opening such files. In addition, there are a lot of compatible software available for smartphones, tablets and computers. EPUB file standards are maintained by the [International Digital Publishing Forum ](http://idpf.org/)(IDPF). The version EPUB 3 is also endorsed by the [Book Industry Study Group](https://bisg.org/) (BISG), a leading book trade association for standardized best practices, research, information and events, for packaging of content.
 
 ## History ##
 
@@ -30,8 +30,6 @@ Files with .EPUB extension are an e-book file format that provide a standard dig
 ## EPUB File Format ##
 
 EPUB file format is an archive that can be renamed to [ZIP](/compression/zip/) extension and its contents can be viewed by extracting the archive with any archive extractor like WinZIP or WinRAR. It is an open XML-based format and consists of HTML files, images, CSS style sheets, and other elements. It can also be converted to PDF, Mobi and several other file formats through a number of software applications and APIs.
-
-[[image:1576164817154-714.png||alt#"epub file format" height#"527" width#"369"]]
 
 **EPUB E-Book opened with Mac OS Books Application**
 
@@ -47,7 +45,7 @@ This part of the specs deals with structural information such as metadata (who i
 
 ### Open Container Format (OCF) ###
 
-As the above descriptions should have made it clear an EPUB document consists of a series of files. The OCF specs define how all those files end up being packaged in one single container file. ZIP compression is used for this. 
+As the above descriptions should have made it clear an EPUB document consists of a series of files. The OCF specs define how all those files end up being packaged in one single container file. ZIP compression is used for this.
 
 ## Supported Image File Formats ##
 

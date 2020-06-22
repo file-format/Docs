@@ -43,19 +43,23 @@ An EML file consists of Headers information and optionally message body. Each he
 
 **Example Header**
 
-//From: <John@bmw.eml.light.com>
+From: <John@bmw.eml.light.com>
+
 To: <Andy@fileformat.com>
+
 Date: Thu, 8 Mar 2018 10:43:37 +0100
+
 Subject: bmw eml light//
 
 ### Message Body ###
 
 EML message body contains the primary information of email in the form of text, hyperlinks and attachments. Email body can contain plain readable text but its not necessary. In this case, the message body can be empty or contain encoded attachments data.
 
-Contents of the message body are described by its Content-Type which enables the reading applications to read the information in respective formats. It actually represents the nature and format of a document. The structure of a MIME type or content-type is very simple; it consists of a type and a subtype, two strings, separated by a '/'. No space is allowed. The //type// represents the category and can be a //discrete// or a //multipart// type. The //subtype// is specific to each type. The list of types, that fall in the category of Content-Type, is long but some important content-types are as follow:
+Contents of the message body are described by its Content-Type which enables the reading applications to read the information in respective formats. It actually represents the nature and format of a document. The structure of a MIME type or content-type is very simple; it consists of a type and a subtype, two strings, separated by a '/'. No space is allowed. The `type` represents the category and can be a discrete or a multipart type. The `subtype` is specific to each type. The list of types, that fall in the category of Content-Type, is long but some important content-types are as follow:
 
 
 |**Type**|**Description**|**Example of Subtypes**
+---|---|---|
 |text|Represents format which is human-readable|text/plain, text/html, text/css, text/javascript
 |image|Represents image of any type excluding videos|image/bmp, image/png, image/jpg, image/gif
 |audio|Represents any audio file format|audio/mdi, audio/wav

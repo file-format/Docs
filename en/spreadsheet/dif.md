@@ -27,7 +27,7 @@ The DIF file format was developed by Software Arts, Inc. in the early 1980s. The
 
 ## DIF File Format ##
 
-DIF store spreadsheet contents in ASCII text file that allows it to be viewed and edited with a text editor. The format owns its place in data serialization formats list for its characteristics of data interchange. A DIF file consists of 2 sections; a header and data. 
+DIF store spreadsheet contents in ASCII text file that allows it to be viewed and edited with a text editor. The format owns its place in data serialization formats list for its characteristics of data interchange. A DIF file consists of 2 sections; a header and data.
 
 Everything in DIF is represented by a 2- or 3-line chunk. Headers get a 3-line chunk; data, 2.
 
@@ -63,7 +63,8 @@ The header chunk of a DIF file comprises of an identifier line followed by the t
 Following example shows the contents of a simple worksheet and its equivalent DIF representation.
 
 
-|#Name|#Age
+|Name|Age
+---|---|
 |Bob|34
 |Sheetal|22
 
