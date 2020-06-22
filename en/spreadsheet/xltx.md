@@ -25,7 +25,7 @@ It was in the early 2000 when Microsoft decided to go for the change to accommod
 
 ## XLTX File Format Specifications ##
 
-XLTX files are based on the Office OpenXML file format and use XML and [ZIP](/compression/zip/) to reduce file size. It was created with the release of Microsoft Office 2007 to replace the binary XLT file format. Similar to XLTX, the XLT file format can be used to create [XLS](/spreadsheet/xls/) files using Microsoft Excel 2003 and 2007.  These can be opened with Microsoft Excel by double clicking the file. The files organization in an XLTX file format can be observed by renaming the  file to ZIP and then extracting its contents to disc. 
+XLTX files are based on the Office OpenXML file format and use XML and [ZIP](/compression/zip/) to reduce file size. It was created with the release of Microsoft Office 2007 to replace the binary XLT file format. Similar to XLTX, the XLT file format can be used to create [XLS](/spreadsheet/xls/) files using Microsoft Excel 2003 and 2007.  These can be opened with Microsoft Excel by double clicking the file. The files organization in an XLTX file format can be observed by renaming the  file to ZIP and then extracting its contents to disc.
 
 ### [Content_Types].xml ###
 
@@ -54,11 +54,5 @@ and following xml files:
 
 ## References ##
 
-* (((
-[[MS-XLSX] - .Xlsx File Format](https://msdn.microsoft.com/en-us/library/dd922181(v#office.12).aspx)
-)))
-* (((
-[Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
-)))
-
- 
+* [[MS-XLSX] - .Xlsx File Format](https://msdn.microsoft.com/en-us/library/dd922181(v#office.12).aspx)
+*[Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)

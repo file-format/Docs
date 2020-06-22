@@ -21,7 +21,7 @@ The initial version of Microsoft Project 4.0 started the support for creating an
 
 ## MPX File Format ##
 
-The information in this section gives a brief introduction to the MPX file format specifications. Complete specifications can be found in this [Knowledge Base](https://support.microsoft.com/en-us/help/270139/prj-description-of-the-mpx-project-file-exchange-format) article and can be referred for details. 
+The information in this section gives a brief introduction to the MPX file format specifications. Complete specifications can be found in this [Knowledge Base](https://support.microsoft.com/en-us/help/270139/prj-description-of-the-mpx-project-file-exchange-format) article and can be referred for details.
 
 ### Records ###
 
@@ -29,7 +29,8 @@ A Record of MPX file consists of information for the project. There are differen
 
 
 
-|#Record Name|#Record Number|#Maximum number of Records
+|Record Name|Record Number|Maximum number of Records
+---|---|---|
 |File Creation (required)|none|1
 |Currency Settings|10|1
 |Default Settings|11|1
@@ -65,7 +66,7 @@ An MPX file consists of records mentioned above that are arranged in pre-set man
 * File format (MPX)
 * List separator character used in the file
 * Program and version number used to create the file
-* Version number of the MPX file format used in the file 
+* Version number of the MPX file format used in the file
 * Code page used to create the file
 
 This must be the first record in the file. When exporting from Microsoft Project, the list separator character is specified in the Regional Settings item in the Windows Control Panel. A FCR Record includes the following fields:
@@ -77,8 +78,8 @@ This must be the first record in the file. When exporting from Microsoft Project
 
 For example, the record can contain information **MPX, Microsoft Project, 3.0** which specifies that a comma is used as the list separator character in this MPX file and the version of the MPX format used in the file is exported from Microsoft Project version 3.0.
 
-**Currency Settings: **This record, having record number 10, specifies settings for the currency options in the Options dialog box. If this record is not included, the current settings in the Options dialog box are used. The Thousands and Decimal separators are specified in the Regional Settings item in the Windows Control Panel.
-\\The fields included in this record are:
+**Currency Settings** This record, having record number 10, specifies settings for the currency options in the Options dialog box. If this record is not included, the current settings in the Options dialog box are used. The Thousands and Decimal separators are specified in the Regional Settings item in the Windows Control Panel.
+The fields included in this record are:
 
 * Currency Symbol
 * Symbol Position (0 # after, 1 # before, 2 # after with a space, 3 # before with a space)
@@ -87,10 +88,10 @@ For example, the record can contain information **MPX, Microsoft Project, 3.0** 
 * Decimal Separator
 
 **Example:** 10,$,1,2,",",.
-\\This example specifies that currency values include a dollar sign ($) before them, that two digits are included after the decimal point, that a comma is used to separate thousands, and that a period is used as the decimal point. Because the list separator character is included in the Thousands Separator field, the field is surrounded by quotation marks.
+This example specifies that currency values include a dollar sign ($) before them, that two digits are included after the decimal point, that a comma is used to separate thousands, and that a period is used as the decimal point. Because the list separator character is included in the Thousands Separator field, the field is surrounded by quotation marks.
 
 **Default Settings:** This record, having record number 11, specifies settings for the default options in the Options dialog box. If a duration is not specified, the Default Duration Unit needs to be set for correct duration units calculations. If this record is not included, the current settings in the Options dialog box are used. 
-\\The fields included in this record are:
+The fields included in this record are:
 
 * Default Duration Units (0 # minutes, 1 # hours, 2 # days, 3 # weeks)
 * Default Duration Type (0 # not fixed, 1 # fixed)
@@ -116,7 +117,7 @@ For example, the record can contain information **MPX, Microsoft Project, 3.0** 
 * Bar Text Date Format (0 -194)*
 
 **Base Calendar Definition:**  These records, having record number 20, define base calendars and their working and nonworking days of the week. The default settings are used if there is no entry for a day. The default settings are Monday through Friday for working days, and Saturday and Sunday for nonworking days. In this record, the Name field is required. For each of the days, an entry of 0 indicates that the day is a nonworking day, and an entry of 1 indicates that the day is a working day.
-\\The fields included in this record are:
+The fields included in this record are:
 
 * Name
 * Sunday
@@ -137,8 +138,8 @@ For example, the record can contain information **MPX, Microsoft Project, 3.0** 
 * From Time 3
 * To Time 3
 
-**Base Calendar Exception: **These records, having record number 26, define the exceptions to the days and hours specified in the previous two record types. Up to 250 of these records can follow each Base Calendar Definition record. These records must be listed in chronological order. If an exception is one day, you can leave the To Date field empty. If no times are indicated, the default times of 8:00 A.M. to 12:00 P.M. and 1:00 P.M. to 5:00 P.M. are used.
-\\The fields included in this record are:
+**Base Calendar Exception:** These records, having record number 26, define the exceptions to the days and hours specified in the previous two record types. Up to 250 of these records can follow each Base Calendar Definition record. These records must be listed in chronological order. If an exception is one day, you can leave the To Date field empty. If no times are indicated, the default times of 8:00 A.M. to 12:00 P.M. and 1:00 P.M. to 5:00 P.M. are used.
+The fields included in this record are:
 
 * From Date
 * To Date
@@ -151,39 +152,39 @@ For example, the record can contain information **MPX, Microsoft Project, 3.0** 
 * To Time 3
 
 **Project Header:** This record, having record value 30,  sets global project fields, such as the project start date and project finish date. The fields in this record correspond to the information in the Project Info and Statistics dialog boxes.
-\\The fields and tabs included in this record are:
+The fields and tabs included in this record are:
 
-* - Project tab
-* - Company
-* - Manager
+* Project tab
+* Company
+* Manager
 * Calendar (Standard used if no entry)
 * Start Date (either this field or the next field is calculated for an imported file, depending on the Schedule From setting)
-* Finish Date 
+* Finish Date
 * Schedule From (0 # start, 1 # finish)
 * Current Date*
 * Comments
-* Cost*
-* Baseline Cost*
-* Actual Cost*
-* Work*
-* Baseline Work*
-* Actual Work*
-* Work*
+* Cost
+* Baseline Cost
+* Actual Cost
+* Work
+* Baseline Work
+* Actual Work
+* Work
 * Duration*
 * Baseline Duration*
-* Actual Duration*
-* Percent Complete*
-* Baseline Start*
-* Baseline Finish*
-* Actual Start*
-* Actual Finish*
-* Start Variance*
-* Finish Variance*
+* Actual Duration
+* Percent Complete
+* Baseline Start
+* Baseline Finish
+* Actual Start
+* Actual Finish
+* Start Variance
+* Finish Variance
 * Subject
 * Author
 * Keywords
 
-**Text Resource Table Definition**: This record lists the resource fields, in order, that are being imported or exported. For imported files, the names must match the field names used in Microsoft Project. For exported files, this record comes from the resource Export table. Either this record or the Numeric Resource Table Definition record must be used. When exporting from Microsoft Project, both of these records are included. 
+**Text Resource Table Definition**: This record lists the resource fields, in order, that are being imported or exported. For imported files, the names must match the field names used in Microsoft Project. For exported files, this record comes from the resource Export table. Either this record or the Numeric Resource Table Definition record must be used. When exporting from Microsoft Project, both of these records are included.
 
 **Numeric Resource Table Definition: **Using numbers rather than names, this record lists the resource fields, in order, that are being imported or exported. This is an alternate method for identifying the resource fields included in each Resource record, and is useful when defining an MPX file created by a foreign language product.
 
@@ -191,7 +192,7 @@ For example, the record can contain information **MPX, Microsoft Project, 3.0** 
 
 **Resource Notes:** These records contain notes about the immediately preceding Resource record. For a new line within the note, ASCII character 127 is used. If the note includes the list separator character, enclose the note in quotation marks.
 
-**Resource Calendar Definition:** These records define the working days for the resource specified in the immediately preceding Resource record. For imported files, if there is no entry for the Base Calendar Name field, Standard is used. No entry for the specific day indicates that the day is set to the default (2). If there are no Resource Calendar Definition records, Standard is used as the base calendar for the resource, with default used for the days. For each of the days, an entry of 0 indicates that the day is a nonworking day, 1 indicates that the day is a working day, and 2 specifies that the default is used. 
+**Resource Calendar Definition:** These records define the working days for the resource specified in the immediately preceding Resource record. For imported files, if there is no entry for the Base Calendar Name field, Standard is used. No entry for the specific day indicates that the day is set to the default (2). If there are no Resource Calendar Definition records, Standard is used as the base calendar for the resource, with default used for the days. For each of the days, an entry of 0 indicates that the day is a nonworking day, 1 indicates that the day is a working day, and 2 specifies that the default is used.
 
 **Resource Calendar Hours:** These records define the working hours for the resource that differ from the base calendar used by the resource. These records apply to the Resource Calendar Definition record immediately preceding this record. Up to seven of these records can follow each Resource Calendar Definition record.
 
@@ -199,21 +200,21 @@ For example, the record can contain information **MPX, Microsoft Project, 3.0** 
 
 **Text Task Table Definition:** This record lists the task fields, in order, that are being imported or exported. For imported files, the names must match the field names used in Microsoft Project. If the file is being exported, this record comes from the task Export table. When exporting from Microsoft Project, both of these records are included. Fields that are calculated by Microsoft Project, such as Scheduled Start and Scheduled Finish, are ignored if imported. If you have task start or finish dates that are fixed, use the Constraint Type and Constraint Date fields.
 
-**Numeric Task Table Definition : **Using numbers rather than names, this record lists the task fields, in order, that are being imported or exported. This is an alternate method for identifying the task fields included in each Task record, and is useful when defining an MPX file created by a foreign language product.
+**Numeric Task Table Definition :** Using numbers rather than names, this record lists the task fields, in order, that are being imported or exported. This is an alternate method for identifying the task fields included in each Task record, and is useful when defining an MPX file created by a foreign language product.
 
-**Task: **These records contain the information for each task being imported or exported. Each Task record describes one task. When you import information, the fields that are included are defined by the Text Task Table Definition record or the Numeric Task Table Definition record. When you export information, the fields that are included are those listed in the task Export table.
+**Task:** These records contain the information for each task being imported or exported. Each Task record describes one task. When you import information, the fields that are included are defined by the Text Task Table Definition record or the Numeric Task Table Definition record. When you export information, the fields that are included are those listed in the task Export table.
 
-**Task Notes: **These records contain notes about the immediately preceding Task record. Use ASCII character 127 to indicate a new line within the note. If the note includes the list separator character, enclose the note in quotation marks.
+**Task Notes:** These records contain notes about the immediately preceding Task record. Use ASCII character 127 to indicate a new line within the note. If the note includes the list separator character, enclose the note in quotation marks.
 
 **Resource Assignment**: These records list information about the resources assigned to the task that was defined in the preceding Task record. If you are merging files, and you want resource assignment information retained, you need to include the information in the MPX file. If you merge, all existing assignments on merged tasks will be deleted. If you are merging files based on Unique IDs, resources are assigned using the Resource Unique IDs, rather than IDs.
 
-**Resource Assignment Workgroup Fields: **These records list the information that is stored with each assignment for the Workgroup features of Microsoft Project 4.0 and 4.1. If you are using the Workgroup features you need to include this record to insure that none of the information is lost.
+**Resource Assignment Workgroup Fields:** These records list the information that is stored with each assignment for the Workgroup features of Microsoft Project 4.0 and 4.1. If you are using the Workgroup features you need to include this record to insure that none of the information is lost.
 
 **Project Names:** These records list all of the DDE link names that are stored in the project.
 
-**DDE and OLE Client Links: **These records list all of the DDE links into the project.
+**DDE and OLE Client Links:** These records list all of the DDE links into the project.
 
-**Comments: **These records can be used to add comments to the file and can appear in any position in the file. Each Comments record must begin with a "0."
+**Comments:** These records can be used to add comments to the file and can appear in any position in the file. Each Comments record must begin with a "0."
 
 ## References ##
 

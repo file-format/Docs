@@ -15,7 +15,7 @@
   "lastmod" : "2019-09-10"
 }
 
-Files with CPP file extension are source code files for applications written in C++ programming language. A single C++ project may contain more than one CPP files as application source code. Such a project consists of different file types, of which the CPP files are known as implementation files as they contain all the definitions of the methods declared in the header (.h) file. The C++ project as a whole results in an executable application when compiled as a whole. 
+Files with CPP file extension are source code files for applications written in C++ programming language. A single C++ project may contain more than one CPP files as application source code. Such a project consists of different file types, of which the CPP files are known as implementation files as they contain all the definitions of the methods declared in the header (.h) file. The C++ project as a whole results in an executable application when compiled as a whole.
 
 ## **CPP File Structure** ##
 
@@ -66,14 +66,16 @@ private:
 
 ### **CPP Implementation File** ###
 
-**```#include "MyClass.h"
+```
+#include "MyClass.h"
 
 MyClass::MyClass(){
    ...
 }
 void MyClass::add(int i, int j) {
    int result # i + j;
-}```**
+}
+```
 
 ## **References** ##
 

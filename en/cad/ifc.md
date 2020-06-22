@@ -56,9 +56,15 @@ the data item names for types, entities, rules and functions start with the pref
 
 The data schema architecture of IFC defines four conceptual layers, each individual schema is assigned to exactly one conceptual layer.
 
-**Resource layer** — the lowest layer includes all individual schemas containing resource definitions, those definitions do not include an globally unique identifier and shall not be used independently of a definition declared at a higher layer;**Core layer** — the next layer includes the kernel schema and the core extenstion schemas, containing the most general entity definitions, all entities defined at the core layer, or above carry a globally unique id and optionally owner and history information;**Interoperability layer** — the next layer includes schemas containing entity definitions that are specific to a general product, process or resource specialization used across several disciplines, those definitions are typically utilized for inter-domain exchange and sharing of construction information;**Domain layer** — the highest layer includes schemas containing entity definitions that are specializations of products, processes or resources specific to a certain discipline, those definitions are typically utilized for intra-domain exchange and sharing of information.
+**Resource layer** — the lowest layer includes all individual schemas containing resource definitions, those definitions do not include an globally unique identifier and shall not be used independently of a definition declared at a higher layer;
+
+**Core layer** — the next layer includes the kernel schema and the core extenstion schemas, containing the most general entity definitions, all entities defined at the core layer, or above carry a globally unique id and optionally owner and history information;
+
+**Interoperability layer** — the next layer includes schemas containing entity definitions that are specific to a general product, process or resource specialization used across several disciplines, those definitions are typically utilized for inter-domain exchange and sharing of construction information;
+
+**Domain layer** — the highest layer includes schemas containing entity definitions that are specializations of products, processes or resources specific to a certain discipline, those definitions are typically utilized for intra-domain exchange and sharing of information.
 
 ## References ##
 
-* [IFC Specifications - By buildSmart](http://www.buildingsmart-tech.org/specifications) 
+* [IFC Specifications - By buildSmart](http://www.buildingsmart-tech.org/specifications)
 * [Industry Foundation Classes - By Wikipedia](https://en.wikipedia.org/wiki/Industry_Foundation_Classes)

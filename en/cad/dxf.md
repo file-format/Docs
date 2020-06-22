@@ -39,21 +39,10 @@ DXF file format considers objects different from entities. Objects have no graph
 Sections in a DXF file are arranged in the following order:
 
 |**Section**|**Basic description**
+---|---|
 |Header|This section contains general information about the drawing. It’s like the Settings functionality in your phone, which contains the different variables associated with the drawing and its associated values. For example, the Header section will define which AutoCAD version the DXF file uses (the $ACADVER variable) or the unit used to measure angles in the file (the $AUNITS variable)
 |Classes|The CLASSES section holds the information for application-defined classes whose instances appear in the BLOCKS, ENTITIES, and OBJECTS sections of the database.
-|Tables|(((
-This section contains definitions for several different tables, each of which contains a number of different symbol entries. For example the [line type](https://knowledge.autodesk.com/support/autocad/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/AutoCAD-Core/files/GUID-20B4D4B3-1220-426A-847B-5BBE36EC6FDF-htm.html) table (LTYPE) defines the pattern of dashes, dots, text and symbols in the DXF file and how they’re scaled. Here is a complete list of tables found in this section:
-
-* Application ID (APPID) table
-* Block Record (BLOCK_RECORD) table
-* Dimension Style (DIMSTYPE) table
-* Layer (LAYER) table
-* Linetype (LTYPE) table
-* Text style (STYLE) table
-* User Coordinate System (UCS) table
-* View (VIEW) table
-* Viewport configuration (VPORT) table
-)))
+|Tables|This section contains definitions for several different tables, each of which contains a number of different symbol entries. For example the [line type](https://knowledge.autodesk.com/support/autocad/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/AutoCAD-Core/files/GUID-20B4D4B3-1220-426A-847B-5BBE36EC6FDF-htm.html) table (LTYPE) defines the pattern of dashes, dots, text and symbols in the DXF file and how they’re scaled. Here is a complete list of tables found in this section: **Application ID (APPID) table**, **Block Record (BLOCK_RECORD) table**, **Dimension Style (DIMSTYPE) table**, **Layer (LAYER) table**, **Linetype (LTYPE) table**, **Text style (STYLE) table**, **User Coordinate System (UCS) table, **View (VIEW) table**, **Viewport configuration (VPORT) table**
 |Blocks|This section contains the graphical objects and drawing entities that make up each block reference in the drawing.
 |Entities|This section contains the actual object data and graphical entities of the drawing. This can include raw data – for example, a circle entity is defined by its thickness, the center point, its radius and extrusion direction.
 |Objects|Here, you’ll find the the non-graphical parts of the drawing. For example, AutoCAD dictionaries are stored here.

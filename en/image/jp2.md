@@ -30,99 +30,21 @@ In 2000, the Joint Photographic Experts Group committee designed JP2 with the ob
 Following are the main parts that constitute the complete suite of standards for JPEG 2000.
 
 
-|**Part**|**Title**|**Description**|**Number**
-|Part 1|Core coding system|(((
-* Define syntax of code stream
-* Different stages involved in decoding JPEG 2000 images
-* Explains basic file format JP2, metadata, and IP rights to be provided.
-)))|ISO/IEC 15444-1
-|Part 2|(((
-Extensions
-)))|(((
-* defines extensions for file format code stream
-*  Allow HDR sample demonstrations, color space specification, cropping, geometric transforms; diverse animations, metadata, and multiple code stream.
-)))|ISO/IEC 15444-2
-|Part 3|(((
-Motion JPEG 2000 (MJ2 or MJP2)
-)))|(((
-* Introduce a file format for motion sequences, encoding images in an independent code stream.
-)))|(((
-ISO/IEC 15444-3
-
- 
-)))
-|Part 4|(((
-Conformance
-)))|(((
-* States test techniques for encoding and decoding.
-* Check files for both bare code streams and JP2 files.
-)))|ISO/IEC 15444-4
-|Part 5|(((
-Reference software
-)))|(((
-* Comprises of two source code packages (Java, C) that implement Core coding system and available under open-source licenses.
-)))|ISO/IEC 15444-5
-|Part 6|(((
-Compound image file format
-)))|(((
-* Defines the JPM file format
-* Allows multi-page document imaging for fax-like applications.
-* Supports the use of JBIG2 and JPEG.
-)))|ISO/IEC 15444-6
-|Part 8|(((
-JPEG 2000 Secured (JPSEC)
-)))|(((
-* ensures the security of transaction, contents, and technologies
-* Allows secured JPEG 2000 bit streams.
-)))|(((
-ISO/IEC 15444-8
-
- 
-)))
-|Part 9|(((
-JPIP
-)))|(((
-* Defines tools in a networked environment to access to metadata and imagery.
-* States Interactive and  efficient protocols
-)))|(((
-ISO/IEC 15444-9
-)))
-|Part 10|(((
-JP3D
-)))|(((
-* Volumetric extension of Part 1.
-* Introduces the Z dimension
-* Extends the concept of tiles, code-blocks, precincts, and 3D region-of-interest accessibility features.
-)))|ISO/IEC 15444-10
-|Part 11|(((
-JPWL
-)))|(((
-* Deals with well-organized transmission over an error-prone wireless network
-* This extension is compatible with decoders
-)))|ISO/IEC 15444-11
-|Part 13|(((
-Entry-level Encoder
-
- 
-)))|(((
-* Defines an entry level encoder implementation of Core coding system.
-)))|ISO/IEC 15444-13
-|Part 14|(((
-JPXML
-
- 
-)))|(((
-* A representation in XML
-* Explains marker segments and methods for accessing the internal data of imagery.
-)))|ISO/IEC 15444-14
-|Part 15|(((
-HTJ2K
-
-(Under-development)
-)))|(((
-* Specifies an alternate block coding algorithm.
-* Algorithm offers a ten-fold increased throughput and lossless coding/decoding.
-)))| 
+|Part|Title|Description|Number
+---|---|---|---|
+|Part 1|Core coding system|* Define syntax of code stream * Different stages involved in decoding JPEG 2000 images* Explains basic file format JP2, metadata, and IP rights to be provided.|ISO/IEC 15444-1
+|Part 2|Extensions| * defines extensions for file format code stream * Allow HDR sample demonstrations, color space specification, cropping, geometric transforms; diverse animations, metadata, and multiple code stream.|ISO/IEC 15444-2
+|Part 3|Motion JPEG 2000 (MJ2 or MJP2)|* Introduce a file format for motion sequences, encoding images in an independent code stream.|ISO/IEC 15444-3
+|Part 4|Conformance|* States test techniques for encoding and decoding.* Check files for both bare code streams and JP2 files.|ISO/IEC 15444-4
+|Part 5|Reference software| * Comprises of two source code packages (Java, C) that implement Core coding system and available under open-source licenses.|ISO/IEC 15444-5
+|Part 6|Compound image file format|* Defines the JPM file format * Allows multi-page document imaging for fax-like applications.* Supports the use of JBIG2 and JPEG.|ISO/IEC 15444-6
+|Part 8|JPEG 2000 Secured (JPSEC)|* ensures the security of transaction, contents, and technologies * Allows secured JPEG 2000 bit streams.|ISO/IEC 15444-8
+|Part 9|JPIP|* Defines tools in a networked environment to access to metadata and imagery. * States Interactive and  efficient protocols|ISO/IEC 15444-9
+|Part 10|JP3D|* Volumetric extension of Part 1.* Introduces the Z dimension* Extends the concept of tiles, code-blocks, precincts, and 3D region-of-interest accessibility features.|ISO/IEC 15444-10
+|Part 11|JPWL|* Deals with well-organized transmission over an error-prone wireless network * This extension is compatible with decoders|ISO/IEC 15444-11
+|Part 13|Entry-level Encoder|* Defines an entry level encoder implementation of Core coding system.|ISO/IEC 15444-13
+|Part 14|JPXML|* A representation in XML* Explains marker segments and methods for accessing the internal data of imagery.|ISO/IEC 15444-14
+|Part 15|HTJ2K (Under-development)| * Specifies an alternate block coding algorithm.* Algorithm offers a ten-fold increased throughput and lossless coding/decoding.|
 
 ## JP2 File Format ##
 
@@ -156,6 +78,3 @@ Depending upon the physical characteristics of an image, a compression gain of 2
 
 * [Overview of JPEG 2000](https://jpeg.org/jpeg2000)
 * [JPEG 2000 image coding system](https://en.wikipedia.org/wiki/JPEG_2000#JPEG_2000_image_coding_system_-_Parts)
-
-
- 

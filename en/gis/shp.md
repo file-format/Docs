@@ -48,7 +48,8 @@ Open specifications of shapefile are available online from ESRI in the form of [
 The main File Header starts from the beginning of the file and is 100 bytes in length.  Organization of this main file header along with byte position, value, type and byte order is as shown in the following table.
 
 
-|#Bytes|#Field|#Value|#Type|#Byte Order
+|Bytes|Field|Value|Type|Byte Order
+---|---|---|---|---|
 |0-3|File Code|9994|Integer|Big Endian
 |4-23|Unused|0|Integer|Big Endian
 |24-27|File Length|File Length|Integer|Big Endian
@@ -56,7 +57,7 @@ The main File Header starts from the beginning of the file and is 100 bytes in l
 |32-35|Shape Type|Shape Type|Integer|Little Endian
 |36-67|Minimum Bounding Rectangle|Xmin, Ymin, Xmax and Ymax|double|Little Endian
 |68-83|Bounding Box|Zmin, Zmax|double|Little Endian
-|84-99|Bounding Box|Mmin, Mmax|double| 
+|84-99|Bounding Box|Mmin, Mmax|double|
 
 It is to be noted that the value of file length is the total length of the file in 16-bit words which also includes the fifty 16-bit words making up the header.
 
@@ -65,7 +66,8 @@ It is to be noted that the value of file length is the total length of the file 
 The values of shape types field in above table are as follow:
 
 
-|#Value|#Shape Type
+|Value|Shape Type
+---|---|
 |0|Null Shape
 |1|Point
 |3|Polyline
@@ -90,7 +92,8 @@ The main file header is followed by variable length records where each record co
 Record header contains information about the record number and content length of the record in a fixed length of 8 bytes. The organization of record header is as shown follow:
 
 
-|#Bytes|#Field|#Value|#Type|#Byte Order
+|Bytes|Field|Value|Type|Byte Order
+---|---|---|---|---|
 |0-3|Record Number|Record Number|Integer|Big
 |4-7|Record Length|Record Length|Integer|Big
 
@@ -101,7 +104,8 @@ A shapefile record contents consist of a shape type followed by the geometric da
 A point represents a certain geographic location in the order X,Y where each coordinate is represented by a double-precision value. Following table shows the arrangement of a Point shape type.
 
 
-|#Bytes|#Shape Type|#Value|#Type|#Number|#Byte Order
+|Bytes|Shape Type|Value|Type|Number|Byte Order
+---|---|---|---|---|---|
 |0-3|Shape Type|1|Integer|1|Little
 |4-11|X|X|double|1|Little
 |12-19|Y|Y|double|1|Little

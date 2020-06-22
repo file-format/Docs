@@ -19,9 +19,7 @@ Files with PPSM extension represent Macro-enabled Slide Show file format created
 
 ## File Format ##
 
-PPSM file format was introduced with PowerPoint 2007 and is based on the OpenXML file format that use a combination of XML and [ZIP](/compression/zip/) to store its contents. Files generated with office Open XML file format is a collection of XML files along with other files that provide links between all the constituent files. This collection is actually a compressed archive that can be extracted to view its contents. To do so, just rename the PPSM file extension with zip and extract it for observing its contents. Contents of a such presentation file, when extracted, look as follow:
-
-![Blank PPTX.png](https://wiki.fileformat.com/download/Presentation/PPTX/WebHome/Blank%20PPTX.png "Blank PPTX.png")
+PPSM file format was introduced with PowerPoint 2007 and is based on the OpenXML file format that use a combination of XML and [ZIP](/compression/zip/) to store its contents. Files generated with office Open XML file format is a collection of XML files along with other files that provide links between all the constituent files. This collection is actually a compressed archive that can be extracted to view its contents. To do so, just rename the PPSM file extension with zip and extract it for observing its contents.
 
 Following sections shed some light on each one of these.
 

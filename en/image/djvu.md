@@ -26,7 +26,8 @@ DjVu can be graded superior alternative to [PDF](/pdf/).  File extensions asso
 The DjVu technology was developed in AT&T labs by [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3%A9on_Bottou), Patrick Haffner, and Paul G from 1996 to 2001. The DjVu file format has passed through various revisions, the most recent being from 2005.
 
 
-|**Version**|**Release date**|**Notes**
+|Version|Release date|Notes
+---|---|---|
 |1–19|1996–1999|These are the developmental versions.
 |20|April 1999|Single page was changed to Multipage format.
 |23|July 2002|CID chunk
@@ -41,7 +42,8 @@ The DjVu technology was developed in AT&T labs by [Yann LeCun](https://en.wikip
 DjVu documents are IFF85 files. The structure provides a hierarchy of containers which holds information in a DjVu file. These containers are also called “Chunks”. Chunk type and Chunk ID describes how the chunk is used. There is a 4byte header followed by IFF structure. The first four bytes of a DjVu file are 0x41 0x54 0x26 0x54. This section discusses the various kinds of DjVu documents and the corresponding chunks of which they consist.
 
 
-|**Chunk ID**|**Usage**
+|Chunk ID|Usage
+---|---|
 |FORM|The composite chunk having first four data bytes of the FORM chunk which are secondary identifier.
 |FORM:DJVM|A multipage DjVu document. Composite chunk that contains the DIRM chunk.
 |FORM:DJVU|Single page DjVu document. Composite chunk that contains the chunks which make up a page in a djvu document.

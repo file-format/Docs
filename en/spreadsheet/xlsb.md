@@ -41,7 +41,7 @@ A source and a target resource are connected by a relationship. A relationships 
 
 **Package relationship:** where the target is a part and the source is the package as a whole
 
-**Part-to-part relationship: **where the target is a part and the source is a part in the package
+**Part-to-part relationship:** where the target is a part and the source is a part in the package
 
 **Explicit relationship:** where a resource is referenced from the contents of a source part by referencing the ID attribute value of a relationship element
 
@@ -59,7 +59,7 @@ A record is the basic building block used to store information about features in
 * a record size, and
 * the record data that is specific to that record type.
 
-**Record Type:** The record type shows the type of record specified by the record. It also specifies the structure of record data specific to this record. The valid record types are listed in the [Record Enumeration](https://msdn.microsoft.com/en-us/library/dd953057(v#office.12).aspx) section of specifications document. The record type must be one or two bytes and must be greater than or equal to 128 and less than 16384. 
+**Record Type:** The record type shows the type of record specified by the record. It also specifies the structure of record data specific to this record. The valid record types are listed in the [Record Enumeration](https://msdn.microsoft.com/en-us/library/dd953057(v#office.12).aspx) section of specifications document. The record type must be one or two bytes and must be greater than or equal to 128 and less than 16384.
 
 **Record Size:** The record size specifies the count of bytes that specifies the total size of the record data. This value MUST be one to four bytes. This value MUST be one byte if the high bit in the low byte is equal to 0; otherwise, this value MUST be greater than one byte. If the count of bytes is greater than one byte, the high bit in each successive byte specifies whether an additional byte is used. If the high bit of the second byte is equal to 1, then this value MUST use an additional third byte. If the high bit of the third byte is equal to 1, then this value MUST use an additional fourth byte. The high bit of the fourth byte MUST be ignored. The value consists of the seven low bits of each byte combined. The low, least significant bits are contained within the first byte, and each successive byte contains higher order bits than the previous byte.
 
@@ -71,7 +71,7 @@ The following record type and record size specify a **BrtCommentText** record 
 
 11111101 00000100 11001000 00000001 [Record Fields]
 
-The first byte is 11111101, specifying a low value of 125 and that the record type requires a second byte. The second byte is 00000100, specifying a high value of 4 * 128, which equals 512. The record type value is 125 + 512, or 637, which corresponds to a **BrtCommentText** record type. The next byte is 11001000, specifying a low value of 72 and that the record size requires a second byte. The second byte is 00000001, specifying a higher value of 1 * 128 and that the record size does not require an additional byte. The record size is 72 + 128, or 200, which specifies the total size, in bytes, of the record** **data component. The fields in the record data component are specified by **BrtCommentText**.
+The first byte is 11111101, specifying a low value of 125 and that the record type requires a second byte. The second byte is 00000100, specifying a high value of 4 * 128, which equals 512. The record type value is 125 + 512, or 637, which corresponds to a **BrtCommentText** record type. The next byte is 11001000, specifying a low value of 72 and that the record size requires a second byte. The second byte is 00000001, specifying a higher value of 1 * 128 and that the record size does not require an additional byte. The record size is 72 + 128, or 200, which specifies the total size, in bytes, of the record** data component. The fields in the record data component are specified by **BrtCommentText**.
 
 ## References ##
 

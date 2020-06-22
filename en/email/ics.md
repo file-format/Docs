@@ -39,10 +39,10 @@ Properties and parameters specify list of values that are separated by a COMMA c
 
 In a value list, a SEMICOLON isolate property parameters and a COMMA separate property values. Example is given below:
 
-{{{ATTENDEE;RSVP#TRUE;ROLE#REQ- contestant:mailto:
+ATTENDEE;RSVP#TRUE;ROLE#REQ- contestant:mailto:
 name@example.com
-RDATE;VALUE#DATE:20170304,20180504,2015704,201270904
-}}}
+DATE;VALUE#DATE:20170304,20180504,2015704,201270904
+
 
 ### Multiple Values ###
 
@@ -52,7 +52,7 @@ Some properties can have multiple values. Simply generating a new content line w
 
 Within an iCalendar object, property value can reference a binary content data placed in an external MIME entity using a URI. Inline binary content can be used in special situations with "ENCODING" parameter, where application need to express an iCalendar object as a sole entity. The following example explain an "ATTACH" property with a URI reference:
 
-{{{ATTACH:http://pattern.com/reports/monthly-ledger.doc}}}
+ATTACH: http://pattern.com/reports/monthly-ledger.doc}}}
 
 ### Character Set ###
 
@@ -63,5 +63,3 @@ Though default charset scheme for an iCalendar is UTF-8 yet no property paramete
 * [Internet Calendaring and Scheduling Core Object Specification](https://www.ietf.org/rfc/rfc5545.txt)
 * [iCalendar (RFC 5545)](https://icalendar.org/RFC-Specifications/iCalendar-RFC-5545/)
 * [iCalendar](https://en.wikipedia.org/wiki/ICalendar#History_and_design)
-
- 

@@ -57,11 +57,7 @@ and following xml files:
 
 For each Excel worksheet contained in a workbook, there is one XML file. You can find these XML files in xl/worksheets folder. All the information contained in a worksheet is organized in different sections in the XML file. Let's examine a sample worksheet from a workbook which is shown in the following image.
 
-![XLSX File Format.png](/spreadsheet/xlsx/XLSX file format.png "XLSX File Format.png")
-
 As can be seen, this worksheet contains contents in cells A1 through B2 and an image. In addition, cell G13 is currently the active cell in the worksheet. Now, let's examine the xl/worksheets/sheet1.xml file to see how this information is represented in the XML file. Contents of this XML file are as shown below.
-
-![XLSX XML Details.png](/spreadsheet/xlsx/XLSX File Format Details.png "XLSX XML Details.png")
 
 1. The tab has theme color applied to it. Its mentioned in the XML file with tag <tabColor> following the theme id.
 1. The tabSelected value is set to 1 which shows that this is the selected sheet
@@ -71,11 +67,5 @@ As can be seen, this worksheet contains contents in cells A1 through B2 and an i
 
 ## References ##
 
-* (((
-
-[[MS-XLSX] - .Xlsx File Format](https://msdn.microsoft.com/en-us/library/dd922181(v#office.12).aspx)
-)))
-* (((
-
-[Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
-)))
+* [[MS-XLSX] - .Xlsx File Format](https://msdn.microsoft.com/en-us/library/dd922181(v#office.12).aspx)
+* [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)

@@ -15,17 +15,15 @@
   "lastmod" : "2019-09-10"
 }
 
-Files with POTM extension are Microsoft PowerPoint template files with support for Macros. POTM files are created with PowerPoint 2007 or above and contains default settings that can be used to create further presentation files. These settings can include styles, backgrounds, colour palette, fonts and defaults along with macros that consist of custom functions for doing particular task. They may also be opened by a previous version of PowerPoint with Open XML document support installed. POTM files can be opened in Microsoft PowerPoint for editing like any other PowerPoint file. 
+Files with POTM extension are Microsoft PowerPoint template files with support for Macros. POTM files are created with PowerPoint 2007 or above and contains default settings that can be used to create further presentation files. These settings can include styles, backgrounds, colour palette, fonts and defaults along with macros that consist of custom functions for doing particular task. They may also be opened by a previous version of PowerPoint with Open XML document support installed. POTM files can be opened in Microsoft PowerPoint for editing like any other PowerPoint file.
 
 ## File Format Specifications ##
 
-POTM file format is based on Office OpenXML specifications and resembles the structure of [PPTX](/presentation/pptx/) file which is a compressed [ZIP](/compression/zip/) archive. 
+POTM file format is based on Office OpenXML specifications and resembles the structure of [PPTX](/presentation/pptx/) file which is a compressed [ZIP](/compression/zip/) archive.
 
 Slides inside a POTM file may contain text, pictures, videos, graphics and other objects that can be arranged freely within the page. POTM templates are then used to create multiple files which inherit all the formatting options of the file. Macros contained in POTM file are, hence, inherited by other presentations as well. Embedding them into the document's structure is done via the Macro Recorder included in MS Office which can save command sequences and create macros to replicate them automatically.
 
-Files generated with office Open XML file format is a collection of XML files along with other files that provide links between all the constituent files. This collection is actually a compressed archive that can be extracted to view its contents. To do so, just rename the POTM file extension with zip and extract it for observing its contents. Contents of a blank presentation file, when extracted, look as follow:
-
-![Blank PPTX.png](https://wiki.fileformat.com/download/Presentation/PPTX/WebHome/Blank%20PPTX.png "Blank PPTX.png")
+Files generated with office Open XML file format is a collection of XML files along with other files that provide links between all the constituent files. This collection is actually a compressed archive that can be extracted to view its contents. To do so, just rename the POTM file extension with zip and extract it for observing its contents.
 
 Following sections shed some light on each one of these.
 

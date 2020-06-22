@@ -48,7 +48,7 @@ Properties represent the necessary information required to build a project. Such
 </PropertyGroup>
 ```
 
-Conditions can be specified via elements in order to specify the criteria for evaluating the element. This is specified by //Condition// word while defining the property as shown below:
+Conditions can be specified via elements in order to specify the criteria for evaluating the element. This is specified by Condition word while defining the property as shown below:
 
 ```
 <PropertyGroup>

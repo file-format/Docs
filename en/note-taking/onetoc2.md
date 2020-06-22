@@ -35,27 +35,27 @@ All structures are aligned on 1-byte boundaries. All integers are signed unless 
 
 The Header of .ONE file comprises of chunks that contain different unique ids and fields for representation of file information as follow:
 
-**guidFileType (16 bytes):** A GUID that specifies the type of the revision store file. MUST be one of the values from the following table.
+`guidFileType (16 bytes):` A GUID that specifies the type of the revision store file. MUST be one of the values from the following table.
 
 |File Format|Value
 --- | --- |
 |.one|{7B5C52E4-D88C-4DA7-AEB1-5378D02996D3}
 |.onetoc2|{43FF2FA1-EFD9-4C76-9EE2-10EA5722765F}
 
-**guidFile (16 bytes):** A GUID that specifies the identity of this revision store file. SHOULD be globally unique.
+`guidFile (16 bytes):` A GUID that specifies the identity of this revision store file. SHOULD be globally unique.
 
-**guidLegacyFileVersion (16 bytes):** MUST be "{00000000-0000-0000-0000-000000000000}" and MUST be ignored.
+`guidLegacyFileVersion (16 bytes):` MUST be "{00000000-0000-0000-0000-000000000000}" and MUST be ignored.
 
-**guidFileFormat (16 bytes):** A GUID that specifies that the file is a revision store file. MUST be "{109ADD3F-911B-49F5-A5D0-1791EDC8AED8}".
+`guidFileFormat (16 bytes):` A GUID that specifies that the file is a revision store file. MUST be "{109ADD3F-911B-49F5-A5D0-1791EDC8AED8}".
 
-**ffvLastCodeThatWroteToThisFile (4 bytes):** An unsigned integer. MUST be one of the values in the following table, depending on the file type.
+`ffvLastCodeThatWroteToThisFile (4 bytes):` An unsigned integer. MUST be one of the values in the following table, depending on the file type.
 
 |File Format|Value
 --- | --- |
 |.one|0x0000002A
 |.onetoc2|0x0000001B
 
-**ffvOldestCodeThatHasWrittenToThisFile (4 bytes):** An unsigned integer. MUST be one of the values in the following table, depending on the file format of this file.
+`ffvOldestCodeThatHasWrittenToThisFile (4 bytes):` An unsigned integer. MUST be one of the values in the following table, depending on the file format of this file.
 
 
 |#File Format|#Value
@@ -63,7 +63,7 @@ The Header of .ONE file comprises of chunks that contain different unique ids a
 |.one|0x0000002A
 |.onetoc2|0x0000001B
 
-**ffvNewestCodeThatHasWrittenToThisFile (4 bytes):** An unsigned integer. MUST be one of the values in the following table, depending on the file format of this file.
+`ffvNewestCodeThatHasWrittenToThisFile (4 bytes):` An unsigned integer. MUST be one of the values in the following table, depending on the file format of this file.
 :  
 
 
@@ -72,7 +72,7 @@ The Header of .ONE file comprises of chunks that contain different unique ids a
 |.one|0x0000002A
 |.onetoc2|0x0000001B
 
-**ffvOldestCodeThatMayReadThisFile (4 bytes):** An unsigned integer. MUST be one of the values in the following table, depending on the file format of this file.
+`ffvOldestCodeThatMayReadThisFile (4 bytes):` An unsigned integer. MUST be one of the values in the following table, depending on the file format of this file.
 
 
 |File Format|Value

@@ -31,9 +31,9 @@ The Document Part Metadata (DPM) is associated with each node in the document pa
 
 PDF/VT is conferred upon the following three conformance levels. These are all based on [PDF](/pdf/) 1.6.
 
-* **PDF/VT-1 -** It is based on PDF/X-4 and contains all the resources required for rendering a PDF document. 
-* **PDF/VT-2 -** Designed for multi-file exchange, PDF/VT-2 documents can reference external output intents, external contents or both. A PDF/VT document and all its referenced PDF files and external output intents are collectively called a PDF/VT-2 file set. Acrobat 9 and support this feature.
-* **PDF/VT-2s -**  Supports PDF/VT-2 live streaming. This allows segmented sections of data to be processed.
+* `PDF/VT-1` - It is based on PDF/X-4 and contains all the resources required for rendering a PDF document.
+* `PDF/VT-2` -  Designed for multi-file exchange, PDF/VT-2 documents can reference external output intents, external contents or both. A PDF/VT document and all its referenced PDF files and external output intents are collectively called a PDF/VT-2 file set. Acrobat 9 and support this feature.
+* `PDF/VT-2s` -  Supports PDF/VT-2 live streaming. This allows segmented sections of data to be processed.
 
 ## References ##
 

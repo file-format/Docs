@@ -25,10 +25,8 @@ Any drawing or chart created in Microsoft Visio, but saved in XML format have .V
 Initially Visio was produced as a standalone product by Shapeware Corporation in 1992 by its version 1.0. Shapeware Corporation changed the name to Visio Corporation in 1995 to take advantage of the market recognition. Microsoft re-brands Vision in 2000 as Microsoft Office application. Visio for Enterprise Architects was introduced with Visual Studio .NET in 2003 and 2005. Visio 2007 was released on November 30, 2006. Ribbons were introduced in user interface by Microsoft Visio in 2010.
 
 ## Versions ##
-
-
-
-|**Version No**|**Features**
+|Version No|Features
+---|---|
 |1.0|Standard, Lite, Home
 |4.0, 4.1|Standard, Technical
 |4.5, 5.0|Standard, Professional, Technical
@@ -60,9 +58,9 @@ Microsoft Visio also supports Unified Modeling Language (UML) 2.4, Business Proc
 
 ## Microsoft Visio Editions ##
 
-1. **__Microsoft Visio Standard__**: Standard edition is designed for individuals who wants strong diagramming platform which have populous set of in built stencils or templates. Individuals can simplify complex information into easy and simple diagrams. Microsoft Visio Standard contains templates for business, network diagrams, charts, flowcharts and various other multipurpose diagrams.
-1. **__Microsoft Visio Professional__**: Professional edition is built for individuals and teams who can simplify complex information through professional and versatile diagrams. Basic functionality includes Visio Standard 2013 but with additional and updated shapes, templates and styles with higher support for team work which includes working of various people working on the same diagram at the same time. Furthermore, Visio Professional 2016 has further added additional templates for business and engineering diagrams, process diagrams, maps and floor plans etc.
-1. **__Visio Pro for Office 365__**: This is a special edition of Visio 2016 and can be accessed through Office 365. It has the same functionalities as of MS Visio 2016 Professional.
+1. **Microsoft Visio Standard**: Standard edition is designed for individuals who wants strong diagramming platform which have populous set of in built stencils or templates. Individuals can simplify complex information into easy and simple diagrams. Microsoft Visio Standard contains templates for business, network diagrams, charts, flowcharts and various other multipurpose diagrams.
+1. **Microsoft Visio Professional**: Professional edition is built for individuals and teams who can simplify complex information through professional and versatile diagrams. Basic functionality includes Visio Standard 2013 but with additional and updated shapes, templates and styles with higher support for team work which includes working of various people working on the same diagram at the same time. Furthermore, Visio Professional 2016 has further added additional templates for business and engineering diagrams, process diagrams, maps and floor plans etc.
+1. **Visio Pro for Office 365**: This is a special edition of Visio 2016 and can be accessed through Office 365. It has the same functionalities as of MS Visio 2016 Professional.
 
 Following are some basic features / benefits of MS Visio:
 

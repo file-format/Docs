@@ -27,27 +27,27 @@ The Internet Engineering Task Force (IETF), in association with the format autho
 
 ### Coordinate ###
 
-Coordinate** **is the basic element of any geographic data. This is a single dimension (Longitude, latitude) representing a single number (decimal format) and sometimes record a coordinate for elevation too. Time is a dimension too but its complexity makes it difficult to record it as coordinate. Coordinates in both JSON GeoJSON are formatted like numbers.
+Coordinate is the basic element of any geographic data. This is a single dimension (Longitude, latitude) representing a single number (decimal format) and sometimes record a coordinate for elevation too. Time is a dimension too but its complexity makes it difficult to record it as coordinate. Coordinates in both JSON GeoJSON are formatted like numbers.
 
 ### Position ###
 
 An ordered array of coordinates represent the [position](http://geojson.org/geojson-spec.html#positions).  This is the smallest unit that can indicate a point on earth.
 
-//[Longitude, latitude, elevation]//
+`[Longitude, latitude, elevation]`
 
-{{{Before the release of the current specification, GeoJSON allowed to record three coordinates per position but is not allowed by the new specification.}}}
+Before the release of the current specification, GeoJSON allowed to record three coordinates per position but is not allowed by the new specification.
 
 ### Geometry ###
 
-Geometries are simple shapes (points, curves, and surfaces) in GeoJSON which consist of a type and a collection of coordinates. Point is the simplest geometry that** **represents a single position
+Geometries are simple shapes (points, curves, and surfaces) in GeoJSON which consist of a type and a collection of coordinates. Point is the simplest geometry that represents a single position
 
-//{ "type": "Point", "coordinates": [0, 0] }//
+`{ "type": "Point", "coordinates": [0, 0] }`
 
 ### LineStrings ###
 
-At least two connected places are used to represent a line**.**
+At least two connected places are used to represent a line.
 
-//{{{{ "type": "LineString", "coordinates": [[10, 30], [10, 10]] }}}}//
+`{ "type": "LineString", "coordinates": [[10, 30], [10, 10]] }`
 
 Point and line strings are the two simplest categories of geometry. Both types of geometry don’t bother many geometric rules. A point can be represented in a place anywhere, and a line can have more than one points, even if the points are self-crossing.
 
@@ -70,9 +70,7 @@ As compare to LineStrings, in polygons, the list of coordinate is one more lev
 
 ### Coordinate Level ###
 
-In GeoJSON format, for the coordinate property, there are four ‘levels of depth’.
-
-![](gis.geojson.WebHome@1556643359194-196.png)
+In GeoJSON format, for the coordinate property, there are four levels of depth.
 
 ### Features ###
 
@@ -92,11 +90,11 @@ Geometries are the central part of GeoJSON, therefore, the real world data is mo
 
 ```
 
-A feature properties can be a type of [JSON](http://json.org/) object contain single-depth key⇢ value mappings.
+A feature properties can be a type of [JSON](http://json.org/) object contain single-depth key value mappings.
 
 ### FeatureCollection ###
 
-At the top level of GeoJSON files, FeatureCollectionis the most common thing that  looks like: 
+At the top level of GeoJSON files, FeatureCollectionis the most common thing that  looks like:
 
 ```
 {

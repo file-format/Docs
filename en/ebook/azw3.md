@@ -27,13 +27,9 @@ KF8 files are binary in nature and retain the structure of a MOBI file format as
 
 You can create KF8 files using the command-line software tool, KindleGen, provided by Amazon. The files thus generate comprise of both the older as well as new file format database for backward compatibility so that old Amazon Kindle readers should be able to open these files.
 
-Kindle Preview is another application software that can be used to create KF8 files by compiling a source [ePub](/ebook/epub/) file which is essentially a [zip](/compression/zip/) archive comprising of human-readable files. 
+Kindle Preview is another application software that can be used to create KF8 files by compiling a source [ePub](/ebook/epub/) file which is essentially a [zip](/compression/zip/) archive comprising of human-readable files.
 
 ## References ##
 
-(((
 * [KF8 - By Wikipedia](https://en.wikipedia.org/wiki/Kindle_File_Format)
 * [Kindle Unpack](https://github.com/kevinhendricks/KindleUnpack)
-)))
-
- 

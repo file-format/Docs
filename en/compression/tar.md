@@ -15,7 +15,7 @@
   "lastmod" : "2019-09-10"
 }
 
-Files with TAR extension are archives created with Unix-based utility for collecting one or more files. Multiple files are stored in an uncompressed format with the support of adding files as well as folders to the archive. TAR utility on Unix is Command based, but files hence created are supported by most file archiving systems on almost all operating systems. It was first created in 1979 by the AT&T Bell Laboratories and subsequent versions were published with the passage of time. 
+Files with TAR extension are archives created with Unix-based utility for collecting one or more files. Multiple files are stored in an uncompressed format with the support of adding files as well as folders to the archive. TAR utility on Unix is Command based, but files hence created are supported by most file archiving systems on almost all operating systems. It was first created in 1979 by the AT&T Bell Laboratories and subsequent versions were published with the passage of time.
 
 # TAR File Format #
 
@@ -31,14 +31,15 @@ A Tar file doesn't have any magic number. It contains a series of blocks where e
 
 Each file archived is represented by a header block which describes the file, followed by zero or more blocks which give the contents of the file. At the end of the archive file there are two 512-byte blocks filled with binary zeros as an end-of-file marker. A reasonable system should write such end-of-file marker at the end of an archive, but must not assume that such a block exists when reading an archive. In particular GNU tar always issues a warning if it does not encounter it.
 
-The blocks may be //blocked// for physical I/O operations. Each record of n blocks (where n is set by the `~-~-blocking-factor#512-size' (`-b 512-size') option to tar) is written with a single `write ()' operation. On magnetic tapes, the result of such a write is a single record. When writing an archive, the last record of blocks should be written at the full size, with blocks after the zero block containing all zeros. When reading an archive, a reasonable system should properly handle an archive whose last record is shorter than the rest, or which contains garbage records after a zero block.
+The blocks may be blockedfor physical I/O operations. Each record of n blocks (where n is set by the blocking-factor = 512-size option to tar) is written with a single "write()" operation. On magnetic tapes, the result of such a write is a single record. When writing an archive, the last record of blocks should be written at the full size, with blocks after the zero block containing all zeros. When reading an archive, a reasonable system should properly handle an archive whose last record is shorter than the rest, or which contains garbage records after a zero block.
 
 ## Header ##
 
-Like any other file headers, the tar file header record contains metadata about a file and is shown in the following table. 
+Like any other file headers, the tar file header record contains metadata about a file and is shown in the following table.
 
 
-|#Field offset|#Field size (Bytes)|#Field
+|Field offset|Field size (Bytes)|Field
+---|---|---|
 |0|100|File name
 |100|8|File mode
 |108|8|Owner's numeric user ID

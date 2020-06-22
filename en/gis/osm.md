@@ -29,24 +29,13 @@ There are lot of ways and file formats to store geographic data but **OSM** file
 
 
 |**Nodes**|**Ways**|**Relations**|**Tags**
-|(((
-* Represents geographic position stored as pairs of a latitude and a longitude.
-*  Used to represent map features without a size, such as mountain peaks.
-)))|(((
-* Sorted lists of //nodes//, signifying a polyline, or a polygon
-* Represent linear features such as roads and rivers, and zones, like parking areas jungles, and parks.
-)))|(((
-* Sorted lists of nodes and ways represent their relation like barriers and u turns on roads, motorways span different existing ways and areas with holes.
-)))|(((
-* Store metadata about the map objects.
-*  Always attached to any node, way or a relation
-)))
+---|---|---|---|
+|* Represents geographic position stored as pairs of a latitude and a longitude. *  Used to represent map features without a size, such as mountain peaks.|* Sorted lists of nodes, signifying a polyline, or a polygon * Represent linear features such as roads and rivers, and zones, like parking areas jungles, and parks.|* Sorted lists of nodes and ways represent their relation like barriers and u turns on roads, motorways span different existing ways and areas with holes.|* Store metadata about the map objects.*  Always attached to any node, way or a relation
+
 
 Tags are used to characterize on ground physical features (buildings and roads etc.) in OpenStreetMap. Each tag relates a geographic characteristic of the feature represented by that specific node or relation. In this free tagging system, to describe a feature, unlimited number of attributes can be included in a map. Specific key and value combinations indorsed by registered users act as informal standards for the frequent used tags. However, new tags can be created whenever new aspects require to analyze previously unmapped attributes of the features. Most features use only a small number of tags for description.
 
-Three types of files are used by OSM to store its main data:
-
-![OSM File Format](/gis/osm/1556643498142-873.png "OSM File Format")
+Three types of files are used by OSM to store its main data.
 
 OSM handles all these files with the information about their formatting details. But same internal objects are produced by these files. For data files the visible flag on OSM objects is always true which is not the case for history and change files.
 
@@ -78,7 +67,7 @@ A dummy format that dispose of all data. The OSM can write this format but canno
 
 ## Data storage                                                                                                     ##
 
-OSM's main** **PostgreSQL** **database keeps the main copy of the OSM data with PostGIS extension. For each data primitive, main database maintains a table whose rows store individual objects. All edits update this database and all other formats are formed using this database. Numerous downloadable database pools are created to transfer data from one place to another. Two formats, one using XML and other using Protocol Buffer Binary Format (PBF) define these pools. The complete data is stored in a file called planet.osm
+OSM's main **PostgreSQL** database keeps the main copy of the OSM data with PostGIS extension. For each data primitive, main database maintains a table whose rows store individual objects. All edits update this database and all other formats are formed using this database. Numerous downloadable database pools are created to transfer data from one place to another. Two formats, one using XML and other using Protocol Buffer Binary Format (PBF) define these pools. The complete data is stored in a file called planet.osm
 
 ## Compression ##
 

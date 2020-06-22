@@ -29,11 +29,9 @@ CGM turned out to be an international standard in 1987 (ISO 8632-1987) and was a
 
 Computer graphics metafiles are basically database for graphical information and provide the means for the capture, storage and transmission of graphical data.  Consequently, there must be a graphical system component for creating the database simultaneously along with the execution of an application in a metafile format. In most cases this component is the Metafile generator. Alongside, there is a need for another component that can fetch, interpret and render graphical data in a metafile. This need is fulfilled by the presence of metafile interpreter. Following figure represents the graphical metafile working environment.
 
-![CGM File Format](/page-description-language/cgm/1548160527942-598.png "CGM File Format")
-
 The relationship of CGM with other components of a typical graphics system is illustrated in above figure. It is also evident from the figure that the functionality of metafile is not dependent on the final device output.
 
-Generally, there are two categories of metafile: **section captur**e and **picture capture**. Primary functionality of picture capture metafile is the capturing of device independent, multiple picture definitions. While session capture metafiles use the system interface to capture the output dialogue in a graphical system. CGM belongs to the category of static picture capture metafiles. CGM provides a well-organized arrangement of components with a two level structure.
+Generally, there are two categories of metafile: **section capture** and **picture capture**. Primary functionality of picture capture metafile is the capturing of device independent, multiple picture definitions. While session capture metafiles use the system interface to capture the output dialogue in a graphical system. CGM belongs to the category of static picture capture metafiles. CGM provides a well-organized arrangement of components with a two level structure.
 
 1. Metafile descriptor
 1. A pool of logically independent images
