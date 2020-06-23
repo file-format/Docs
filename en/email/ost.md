@@ -77,7 +77,5 @@ The header starts with a 4-bytes magic word **!BDN** represented by bytes (0x2
 
 ### References ###
 
-*
-[Outlook Personal Folders (.ost) File Format](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-*
-[Personal Folder File Format Specifications](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Outlook Personal Folders (.ost) File Format](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
+* [Personal Folder File Format Specifications](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)

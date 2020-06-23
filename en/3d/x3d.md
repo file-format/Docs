@@ -15,7 +15,7 @@
   "lastmod" : "2019-09-10"
 }
 
-X3D is an [XML](/web/xml/) based 3D graphics file format for presentation of 3D information. It is a modular standard and is defined through several ISO specifications. The format supports vector and raster graphics, transparency, lighting effects, and animation settings including rotations, fades, and swings. It became successor of [VRML](/3d/vrml/) file format in 2001. X3D has the advantage of encoding colour information (unlike [STL](/cad/stl/)) that is used during printing the model on a colour 3D printer. The format features extensions to VRML, providing the capability to encode the scene using an XML syntax as well as the Open Inventor-like syntax of VRML97 or binary formatting. 
+X3D is an [XML](/web/xml/) based 3D graphics file format for presentation of 3D information. It is a modular standard and is defined through several ISO specifications. The format supports vector and raster graphics, transparency, lighting effects, and animation settings including rotations, fades, and swings. It became successor of [VRML](/3d/vrml/) file format in 2001. X3D has the advantage of encoding colour information (unlike [STL](/cad/stl/)) that is used during printing the model on a colour 3D printer. The format features extensions to VRML, providing the capability to encode the scene using an XML syntax as well as the Open Inventor-like syntax of VRML97 or binary formatting.
 
 The abstract specification for X3D (ISO/IEC 19775) was first approved by the ISO in 2004. The XML and ClassicVRML encodings for X3D (ISO/IEC 19776) were first approved in 2005.
 
@@ -24,20 +24,18 @@ The abstract specification for X3D (ISO/IEC 19775) was first approved by the ISO
 X3D scene files have a common file structure:
 
 * File header (either XML, ClassicVRML, or Compressed Binary)
-* Start of the //X3D root node// including //version// and //profile// attributes
-* A //head// section with //Component// and //Meta// statements (both optional)
-* The X3D //Scene// graph and its child nodes
+* Start of the X3D root node including version and profile attributes
+* A head section with Component and Meta statements (both optional)
+* The X3D Scene graph and its child nodes
 * End of the X3D root node
 
 ## Example ##
 
 ```
-
-
 <!-- -------------------- X3D header and X3D root node with profile declaration -->
 <!DOCTYPE X3D PUBLIC "ISO//Web3D//DTD X3D 3.2//EN"
                      "http://www.web3d.org/specifications/x3d-3.2.dtd">
-<X3D profile#'Immersive' version#'3.2' 
+<X3D profile#'Immersive' version#'3.2'
      xmlns:xsd#'http://www.w3.org/2001/XMLSchema-instance'
      xsd:noNamespaceSchemaLocation#'http://www.web3d.org/specifications/x3d-3.2.xsd'>
 
@@ -66,7 +64,7 @@ X3D scene files have a common file structure:
           <Sphere/>
           <Appearance>
             <Material diffuseColor#'0 0.5 1'/>
-            <ImageTexture url#'"earth-topo.png" "earth-topo.jpg" "earth-topo-small.gif" 
+            <ImageTexture url#'"earth-topo.png" "earth-topo.jpg" "earth-topo-small.gif"
      "http://www.web3d.org/x3d/content/examples/Basic/earth-topo.png"
      "http://www.web3d.org/x3d/content/examples/Basic/earth-topo.jpg"
      "http://www.web3d.org/x3d/content/examples/Basic/earth-topo-small.gif"'/>

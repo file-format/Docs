@@ -61,9 +61,9 @@ For **HTML5**, the version information is simply as mentioned below.
 
 ### Header Information ###
 
-Header of an HTML document can include a number of HTML elements that are not rendered by the browser. Such elements are either metadata that describe information about the page or includes sections that are used to fetch information from external resources like CSS stylesheets or JavaScript files. Header of a page is represented by <head> tag and ends with </head> tag.
+Header of an HTML document can include a number of HTML elements that are not rendered by the browser. Such elements are either metadata that describe information about the page or includes sections that are used to fetch information from external resources like CSS stylesheets or JavaScript files. Header of a page is represented by \<head> tag and ends with \</head> tag.
 
-For setting page title, the <title> element is the only one that is required within the <head> tags. The same is used by Search engines to identify the title of a page.
+For setting page title, the \<title> element is the only one that is required within the \<head> tags. The same is used by Search engines to identify the title of a page.
 
 ### Body Information ###
 
@@ -107,7 +107,11 @@ Inline style sheets are easy to embed and for quick applications to the visual e
 
 ### HTML Elements ###
 
-As mentioned earlier, contents inside HTML Body are represented by tags, also known as Html Elements. Each tag can have additional information in the form of attributes which are written as <tag attribute1#"value1" attribute2#"value2">, though it is not necessary to have attributes with every tag. If attributes are not mentioned, default values are used in each case. Following are some of the Element examples:
+As mentioned earlier, contents inside HTML Body are represented by tags, also known as Html Elements. Each tag can have additional information in the form of attributes which are written as 
+```
+<tag attribute1#"value1" attribute2#"value2">
+```
+though it is not necessary to have attributes with every tag. If attributes are not mentioned, default values are used in each case. Following are some of the Element examples:
 
 #### Header ####
 

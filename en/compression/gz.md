@@ -88,7 +88,7 @@ This section contains the compressed data using the DEFLATE compression algorith
 The file footer is 8 bytes in size and contains following information.
 
 
-|#Offset|#Size|#Description
+|Offset|Size|Description
 ---|---|---|
 |0|4|Checksum (CRC-32)
 |4|4|Uncompressed data size value in bytes

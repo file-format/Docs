@@ -23,15 +23,15 @@ Files with CSV (Comma Separated Values) extension represent plain text files tha
 
 Following are some quick facts about the origin and history of CSV file format.
 
-1972 - IBM Fortran (level H extended) compiler supported them under OS/360
+* 1972 - IBM Fortran (level H extended) compiler supported them under OS/360
 
-1978 - List-directed input/output was supported by FORTRAN 77 that used commas and spaces for delimiters
+* 1978 - List-directed input/output was supported by FORTRAN 77 that used commas and spaces for delimiters
 
-2005 - CSV was standardized with [RFC4180](https://tools.ietf.org/html/rfc4180) as a MIME Content Type.
+* 2005 - CSV was standardized with [RFC4180](https://tools.ietf.org/html/rfc4180) as a MIME Content Type.
 
-2013 - RFC4180's deficiencies were handled by a W3C recommendation
+* 2013 - RFC4180's deficiencies were handled by a W3C recommendation
 
-2015 - W3C made the first drafts of recommendations for CSV-metadata standards, that began as recommendation in December 2015
+* 2015 - W3C made the first drafts of recommendations for CSV-metadata standards, that began as recommendation in December 2015
 
 ## Conversion of CSV Files ##
 
@@ -70,5 +70,3 @@ However, in light of modern usage, the delimiter is not limited to comma only an
 * [RFC 4180](https://tools.ietf.org/html/rfc4180)
 * [RFC 2048](https://tools.ietf.org/html/rfc2048)
 * [CSV - Wikipedia](https://en.wikipedia.org/wiki/Comma-separated_values)
-
- 

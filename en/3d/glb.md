@@ -17,11 +17,11 @@
 
 # What is a GLB file? #
 
-GLB is the binary file format representation of 3D models saved in the GL Transmission Format ([glTF](/3d/gltf/)). Information about 3D models such as node hierarchy, cameras, materials, animations and meshes in binary format. This binary format stores the glTF asset (JSON, .bin and images) in a binary blob. It also avoids the issue of increase in file size which happens in case of glTF. GLB file format results in compact file sizes, fast loading, complete 3D scene representation, and extensibility for further development. The format uses model/gltf-binary as MIME type. 
+GLB is the binary file format representation of 3D models saved in the GL Transmission Format ([glTF](/3d/gltf/)). Information about 3D models such as node hierarchy, cameras, materials, animations and meshes in binary format. This binary format stores the glTF asset (JSON, .bin and images) in a binary blob. It also avoids the issue of increase in file size which happens in case of glTF. GLB file format results in compact file sizes, fast loading, complete 3D scene representation, and extensibility for further development. The format uses model/gltf-binary as MIME type.
 
 # GLB File Format #
 
-The content delivery methods used by glTF result in extra processing to decode the base-64 encoded binary data and also increases the file size by ~~33%. These delivery methods, which contributed to the formation of GLB file format, include:
+The content delivery methods used by glTF result in extra processing to decode the base-64 encoded binary data and also increases the file size by 33%. These delivery methods, which contributed to the formation of GLB file format, include:
 
 * glTF JSON points to external binary data (geometry, key frames, skins), and images.
 * glTF JSON embeds base64-encoded binary data, and images inline using data URIs.
@@ -52,17 +52,19 @@ The GLB file format header consists of three 4-byte entries:
 Each chunk in a GLB file has the following structure:
 
 
-|#uint32|#uint32|#ubyte[]
+|uint32|uint32|ubyte[]
+---|---|---|
 |chunkLength|chunkType|chunkData
 
-* **chunkLength** - length of chunkData in bytes
-* **chunkType** - indicates indicates the type of chunk
-* **chunkData** - binary payload of chunk
+* `chunkLength` - length of chunkData in bytes
+* `chunkType` - indicates indicates the type of chunk
+* `chunkData` - binary payload of chunk
 
 where the chunk types are:
 
 
 |# |#Chunk Type|#ASCII|#Description|#Occurrences
+---|---|---|---|---|
 |1.|0x4E4F534A|JSON|Structured JSON content|1
 |2.|0x004E4942|BIN|Binary buffer|0 or 1
 

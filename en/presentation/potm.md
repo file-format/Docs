@@ -30,40 +30,40 @@ Following sections shed some light on each one of these.
 ### [Content_Types].xml ###
 
 This is the only file that is found at the base level when the zip is extracted. It lists the content types for parts within the package. All references to the XML files included in the package are referenced in this XML file. Following is a content type for a slide part:
-
+```
 <Override PartName#"/ppt/slides/slide1.xml" ContentType#"application/vnd.openxmlformats-officedocument.presentationml.slide+xml"/>
-
+```
 If new parts need to be added to the package, it can be done by adding the new part and update any relationships within the .rels files. It has to be kept in mind that for such a change, the Content_Types.xml must also be updated.
 
-### _rels (Folder) ###
+### \_rels (Folder) ###
 
 Relationships between the other parts and resources outside of the package are maintained by the relationships part. The Relationships folder contains a single XML file that stores the package-level relationships. Links to the key parts of the presentation files are contained in this file as URIs. These URIs identify the type of relationship of each key part to the package. This includes the relationship to primary office document located as ppt/presentation.xml and other parts within docProps as core and extended properties.
-
+```
 <Relationship Id#"rId1" Type#"http:~/~/schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument" Target#"ppt/presentation.xml"/>.
-
-Each part of document that is the source of one or more relationships will have its own relationships part where each such relationship part is found within a _rels sub-folder of the part and is named by appending '.rels' to the name of the part. The main content part (presentation.xml) has its own relationships part (presentation.xml.rels). It contains relationships to other other parts of the content such as slideMaster1.xml, notesMaster1.xml, handoutMaster1.xml, slide1.xml, presProps.xml, tableStyles.xml, theme1.xml, as well as the URIs for external links.
+```
+Each part of document that is the source of one or more relationships will have its own relationships part where each such relationship part is found within a \_rels sub-folder of the part and is named by appending '.rels' to the name of the part. The main content part (presentation.xml) has its own relationships part (presentation.xml.rels). It contains relationships to other other parts of the content such as slideMaster1.xml, notesMaster1.xml, handoutMaster1.xml, slide1.xml, presProps.xml, tableStyles.xml, theme1.xml, as well as the URIs for external links.
 
 #### Explicit Relationship ####
 
 For an explicit relationship, a resource is referenced using the Id attribute of a <Relationship> element. That is, the Id in the source maps directly to an Id of a relationship item, with an explicit reference to the target.
 
 For example, a slide might contain a hyperlink such as this:
-
+```
 <a:hlinkClick r:id#"rId2">
-
+```
 The r:id#"rId2" references the following relationship within the relationships part for the slide (slide1.xml.rels).
-
+```
 <Relationship Id#"rId2" Type#"http:~/~/. . ./hyperlink" Target#"http:~/~/www.google.com/" TargetMode#"External"/>
-
+```
 #### Implicit Relationship ####
 
-For an implicit relationship, there is no such direct reference to a **<Relationship> Id**. Instead, the reference is understood.
+For an implicit relationship, there is no such direct reference to a `<Relationship> Id`. Instead, the reference is understood.
 
 ### ppt Folder ###
 
 This is the main folder that contains all the details about the contents of the Presentation. By default, it has following folders:
 
-* _rels
+* \_rels
 * theme
 * slides
 * slideLayouts
