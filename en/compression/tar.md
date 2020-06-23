@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "TAR - Unix File Archive",
-  "linktitle" : "TAR - Unix File Archive",
+  "linktitle" : "TAR",
   "menu" : {
     "docs" : {
       "parent" : "compression"

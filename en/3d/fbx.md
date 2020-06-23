@@ -123,7 +123,7 @@ Each Node Record Format is named and has the following memory layout.
 |4|UInt32|PropertyListLen
 |1|UInt8|NameLen
 |NameLength|char|Name
-|?|?|Property[n], where n # 0:PropertyListLen
+|?|?|Property[n], where n = 0:PropertyListLen
 |Optional| |
 |?|?|NestedList
 |13|uint8[]|Null-Record

@@ -17,11 +17,11 @@
 
 ## What is a DOCX file? ##
 
-DOCX is a well-known format for Microsoft Word documents. Introduced from 2007 with the release of Microsoft Office 2007, the structure of this new Document format was changed from plain binary to a combination of XML and binary files. Docx files can be opened with Word 2007 and lateral versions but not with the earlier versions of MS Word which support DOC file extensions. 
+DOCX is a well-known format for Microsoft Word documents. Introduced from 2007 with the release of Microsoft Office 2007, the structure of this new Document format was changed from plain binary to a combination of XML and binary files. Docx files can be opened with Word 2007 and lateral versions but not with the earlier versions of MS Word which support DOC file extensions.
 
 ## Brief History ##
 
-After Microsoft opened the specifications for the DOC file format, it was easy for its competitors to reverse engineer the format and provide the same support in their own applications. In addition, the competition from Open Office in the form of its Open Document Format, compelled Microsoft to adopt more open and wide standards. It was in early 2000 when Microsoft decided to go for the change to accommodate the standard for **Office Open XML**. Documents under this new Standard were given .docx extension, the "X" being for XML. By 2007, this new file format became part of Office 2007 and is carried on in the new versions of Microsoft Office as well. The new file type has added advantages of small file sizes, fewer changes of corruption and well-formatted images representation. 
+After Microsoft opened the specifications for the DOC file format, it was easy for its competitors to reverse engineer the format and provide the same support in their own applications. In addition, the competition from Open Office in the form of its Open Document Format, compelled Microsoft to adopt more open and wide standards. It was in early 2000 when Microsoft decided to go for the change to accommodate the standard for **Office Open XML**. Documents under this new Standard were given .docx extension, the "X" being for XML. By 2007, this new file format became part of Office 2007 and is carried on in the new versions of Microsoft Office as well. The new file type has added advantages of small file sizes, fewer changes of corruption and well-formatted images representation.
 
 ## File Format Specifications ##
 
@@ -34,7 +34,7 @@ A Docx file comprises of a collection of XML files that are contained inside a 
 
 Microsoft Word uses these files to find the relationship between files and to locate the document contents. When a Word document archive is extracted, it contains a number of such files as detailed below.
 
-#### Relationships - _rels/.rels ####
+#### Relationships - \_rels/.rels ####
 
 This file contains information that tells MS Word where to look for the document contents and other references. Each relationship is identified by a unique relationship id and specifies the referenced XML file as target. A sample relationship file is shown as follow:
 
@@ -50,7 +50,7 @@ A document can contain several media types inside like images, themes, word art,
 <Override PartName#"/word/document.xml" ContentType#"application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"/>
 ```
 
-#### References To Resources - _rels/document.xml.rels ####
+#### References To Resources - \_rels/document.xml.rels ####
 
 Information about resources, such as images embedded in the document, are referenced in this XML file.
 
@@ -81,9 +81,9 @@ The main document.xml file is a collection of nodes for representation of the ov
 
 Following is the information about some of the nodes contained in a DOCX file for representation of contents.
 
-**<w:document> -** Represents the root element of the main content of the file.
+`<w:document>` - Represents the root element of the main content of the file.
 
-**<w:body> -** Represents the body of the document which can comprise of many other element nodes such as paragraphs, tables and sections.
+`<w:body>` -  Represents the body of the document which can comprise of many other element nodes such as paragraphs, tables and sections.
 
 #### Paragraphs ####
 
@@ -103,5 +103,5 @@ A paragraph is the main content holder within a document. It is represented by *
 
 ## References ##
 
-* [[MS-DOCX] - .Docx File Format](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx) 
+* [[MS-DOCX] - .docx File Format](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx)
 * [Office Open XML](http://officeopenxml.com/)
