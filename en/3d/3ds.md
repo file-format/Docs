@@ -37,15 +37,14 @@ The hierarchical structure of a simple chunk is as shown below:
 
 **A Chunk**
 
-
-|**start**|**end**|**size**|**name**
+|start|end|size|name
 --- | --- | --- | ---
 |0|1|2|Chunk ID
 |2|5|4|Next Chunk
 
 Chunks have a hierarchy imposed on them that is identified by its ID. A 3ds file has the Primary chunk ID 4D4Dh. This is always the first chunk of the file. With in the primary chunk are the main chunks.
 
-** Main Chunks**
+**Main Chunks**
 
 |id|Description
 --- | ---
@@ -56,7 +55,7 @@ The Next Chunk pointer after the ID block points to the next Main chunk.
 Directly after a Main chunk is another chunk. This could be any other type of chunk allowable within its main chunks scope.
 For the Mesh description (3D3D) they could be any multiples of.
 
-** Subchunks of 3D3D - Mesh Block**
+**Subchunks of 3D3D - Mesh Block**
 
 
 |id|Description
