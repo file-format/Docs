@@ -46,7 +46,7 @@ DWF files are organized into three main sections as shown below.
 The file identifier header allows for identification of DWF files by applications. It also identifies which version of DWF specifications was used for encoding the file. It is a 12 byte header that is arranged as follow:
 
 
-|**Byte**|**0**|**1**|**2**|**3**|**4**|**5**|**6**|**7**|**8**|**9**|**10**|**11**
+|Byte|0|1|2|3|4|5|6|7|8|9|10|11
 --- | --- |--- | --- |--- | --- |--- | --- |--- | --- |--- | --- |--- |
 |Character|(|D|W|F|(space)|V|0|0|.|3|0|)
 
@@ -92,7 +92,7 @@ Following ASCII representations can not be used as opcodes:
 The file termination trailer for DWF is simply a special opcode indicating the end of the file. Some applications can store non-DWF data following the termination opcode.The trailer is as shown below:
 
 
-|**Byte**|**0**|**1**|**2**|**3**|**4**|**5**|**6**|**7**|**8**|**9**
+|Byte|0|1|2|3|4|5|6|7|8|9
 ---|---|---|---|---|---|---|---|---|---|---|
 |Character|(|E|n|d|0|f|D|W|F|)
 

@@ -36,7 +36,7 @@ The specifications of STL file format can be examined from following two aspects
 Orientation of a facet is determined by the direction of the unit normal and the order in which the vertices are listed. The orientation of the facets is specified in two ways as follow:
 
 * The direction of the normal is outward
-* The vertices are listed in counter-colock-wise order from outside, obeying the right-hand rule. 
+* The vertices are listed in counter-colock-wise order from outside, obeying the right-hand rule.
 
 ### Vertex to Vertex Rule ###
 
@@ -49,8 +49,8 @@ STL is available in ASCII as well as Binary representations for compact file for
 ### STL ASCII Format ###
 
 The ASCII version of STL file format is written in plain ASCII. However, due to its large size, the file format is not selected as preferable format for usage. The syntax of an ASCII STL file is as follow:
-
-{{{solid name
+```
+solid name
      facet normal ni nj nk
          outer loop
              vertex v1x v1y v1z
@@ -58,10 +58,8 @@ The ASCII version of STL file format is written in plain ASCII. However, due to 
              vertex v3x v3y v3z
          endloop
      endfacet
-}}}
-
-**endsolid** name
-
+endsolid name
+```
 The bold face words represent keywords that should always be lowercase. Symbols in italics are variables which are to be replaced with user-specified values.  The numerical data in the **facet normal** and **vertex** lines are single precision floats, for example, 1.23456E+789. A **facet normal** coordinate may have a leading minus sign; a **vertex** coordinate may not.
 
 ### STL Binary Format ###

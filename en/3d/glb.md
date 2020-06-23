@@ -63,7 +63,7 @@ Each chunk in a GLB file has the following structure:
 where the chunk types are:
 
 
-|# |#Chunk Type|#ASCII|#Description|#Occurrences
+|# |Chunk Type|ASCII|Description|Occurrences
 ---|---|---|---|---|
 |1.|0x4E4F534A|JSON|Structured JSON content|1
 |2.|0x004E4942|BIN|Binary buffer|0 or 1
