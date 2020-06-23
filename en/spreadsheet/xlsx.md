@@ -31,9 +31,9 @@ In order to see what is inside the XLSX file, just rename it to [ZIP](/compressi
 
 This is the only file that is found at the base level when the zip is extracted. It lists the content types for parts within the package. All references to the XML files included in the package are referenced in this XML file.
 
-### _rels (Folder) ###
+### \_rels (Folder) ###
 
-This is the Relationships folder that contains a single XML file that stores the package-level relationships. Links to the key parts of the Xlsx files are contained in this file as URIs. These URIs identify the type of relationship of each key part to the package. This includes the relationship to primary office document located as xl/workbook.xml and other parts within docProps as core adn extended properties.
+This is the Relationships folder that contains a single XML file that stores the package-level relationships. Links to the key parts of the Xlsx files are contained in this file as URIs. These URIs identify the type of relationship of each key part to the package. This includes the relationship to primary office document located as xl/workbook.xml and other parts within docProps as core and extended properties.
 
 ### docProps ###
 
@@ -43,7 +43,7 @@ This folder contains the overall document properties. These include a set of cor
 
 This is the main folder that contains all the details about the contents of the workbook. By default, it has following folders:
 
-* _rels
+* \_rels
 * theme
 * worksheets
 

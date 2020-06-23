@@ -58,7 +58,7 @@ The Header of .ONE file comprises of chunks that contain different unique ids a
 `ffvOldestCodeThatHasWrittenToThisFile (4 bytes):` An unsigned integer. MUST be one of the values in the following table, depending on the file format of this file.
 
 
-|#File Format|#Value
+|File Format|Value
 --- | --- |
 |.one|0x0000002A
 |.onetoc2|0x0000001B

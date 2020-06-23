@@ -40,14 +40,14 @@ The index (.hhk) file is an HTML file that contains the index entries (keywords)
 
 HTML Help is made up of several components. These include the following:
 
-* HTML Help Workshop: a help authoring tool with an easy-to-use graphical interface for creating project files, HTML topic files, contents files, index files, and everything else you need to put together an online help system or Web site.
-* HTML Help ActiveX control: a small, modular program used to insert help navigation and secondary window functionality into an HTML file.
-* The HTML Help Viewer: a fully-functional and customizable three-paned window in which online help topics can appear.
-* Microsoft HTML Help Image Editor: an online graphics tool for creating screen shots; and for converting, editing, and viewing image files.
-* The HTML Help Java Applet: a small, Java-based program that can be used instead of an ActiveX control to insert help navigation into an HTML file.
-* The HTML Help executable program: the program that displays and runs help when you click a compiled help file.
-* The HTML Help compiler: the program that compiles project, contents, index, topic, and other files into a compiled help file.
-* The HTML Help Authoring Guide: an online guide designed to assist help authors in using HTML Help to design a help system. The guide also contains a complete HTML Help reference for developers and an HTML tag reference for authors.
+* `HTML Help Workshop`: a help authoring tool with an easy-to-use graphical interface for creating project files, HTML topic files, contents files, index files, and everything else you need to put together an online help system or Web site.
+* `HTML Help ActiveX control`: a small, modular program used to insert help navigation and secondary window functionality into an HTML file.
+* `The HTML Help Viewer`: a fully-functional and customizable three-paned window in which online help topics can appear.
+* `Microsoft HTML Help Image Editor`: an online graphics tool for creating screen shots; and for converting, editing, and viewing image files.
+* `The HTML Help Java Applet`: a small, Java-based program that can be used instead of an ActiveX control to insert help navigation into an HTML file.
+* `The HTML Help executable program`: the program that displays and runs help when you click a compiled help file.
+* `The HTML Help compiler`: the program that compiles project, contents, index, topic, and other files into a compiled help file.
+* `The HTML Help Authoring Guide`: an online guide designed to assist help authors in using HTML Help to design a help system. The guide also contains a complete HTML Help reference for developers and an HTML tag reference for authors.
 
 ## References ##
 

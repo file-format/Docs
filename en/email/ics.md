@@ -52,7 +52,7 @@ Some properties can have multiple values. Simply generating a new content line w
 
 Within an iCalendar object, property value can reference a binary content data placed in an external MIME entity using a URI. Inline binary content can be used in special situations with "ENCODING" parameter, where application need to express an iCalendar object as a sole entity. The following example explain an "ATTACH" property with a URI reference:
 
-ATTACH: http://pattern.com/reports/monthly-ledger.doc}}}
+ATTACH: http://pattern.com/reports/monthly-ledger.doc
 
 ### Character Set ###
 

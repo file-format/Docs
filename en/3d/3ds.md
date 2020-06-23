@@ -29,13 +29,13 @@ Each chunk in a 3DS file is a block of data that contains an ID, length of the b
 
 **Length of the chunk:** The Chunk ID is followed by a 4-bytes integer (in little-endian) that stands for the length of the chunk. This length also includes the length of the data, the length of its sub-blocks and the 6-bytes header.
 
-**Payload: **The length of chunk is followed by actual bytes of data for the chunk, followed by its sub-chunks in the same hierarchical structure that can be extended to several levels deep.
+**Payload:** The length of chunk is followed by actual bytes of data for the chunk, followed by its sub-chunks in the same hierarchical structure that can be extended to several levels deep.
 
 #### Structure ####
 
 The hierarchical structure of a simple chunk is as shown below:
 
-**~* A Chunk.**
+**A Chunk**
 
 
 |**start**|**end**|**size**|**name**
@@ -44,22 +44,22 @@ The hierarchical structure of a simple chunk is as shown below:
 |2|5|4|Next Chunk
 
 Chunks have a hierarchy imposed on them that is identified by its ID. A 3ds file has the Primary chunk ID 4D4Dh. This is always the first chunk of the file. With in the primary chunk are the main chunks.
-\\*** Main Chunks**
 
+** Main Chunks**
 
-|**id**|**Description**
+|id|Description
 --- | ---
 |3D3D|Start of object mesh data.
 |B000|Start of keyframer data.
 
 The Next Chunk pointer after the ID block points to the next Main chunk.
 Directly after a Main chunk is another chunk. This could be any other type of chunk allowable within its main chunks scope.
-\\For the Mesh description (3D3D) they could be any multiples of.
+For the Mesh description (3D3D) they could be any multiples of.
 
-**~* Subchunks of 3D3D. - Mesh Block**
+** Subchunks of 3D3D - Mesh Block**
 
 
-|**id**|**Description**
+|id|Description
 --- | ---
 |1100|unknown
 |1200|Background Colour.
@@ -79,12 +79,11 @@ Directly after a Main chunk is another chunk. This could be any other type of ch
 |7001|unknown
 |AFFF|unknown
 
-**~* Subchunks of 4000 - Object Description Block**
-\\- first item of Subchunk 4000 is an ASCIIZ string of the objects name.
+**Subchunks of 4000 - Object Description Block**
+The first item of Subchunk 4000 is an ASCIIZ string of the objects name.
 Remember an object can be a mesh, a light or a camera.
 
-
-|**id**|**Description**
+|id|Description
 --- | ---
 |4010|unknown
 |4012|shadow?

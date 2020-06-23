@@ -28,12 +28,12 @@ Inspired by the success of Wikipedia, in 2004, Steve Coast a British entrepreneu
 There are lot of ways and file formats to store geographic data but **OSM** file format is restricted to OpenStreetMap. OSM is especially designed standard format intended to be transported easily across the internet. A structured ordered format, coded in XML constitute .osm file. In OpenStreetMap there are four pivot elements to store topological data structure:
 
 
-|**Nodes**|**Ways**|**Relations**|**Tags**
+|Nodes|Ways|Relations|Tags
 ---|---|---|---|
-|* Represents geographic position stored as pairs of a latitude and a longitude. *  Used to represent map features without a size, such as mountain peaks.|* Sorted lists of nodes, signifying a polyline, or a polygon * Represent linear features such as roads and rivers, and zones, like parking areas jungles, and parks.|* Sorted lists of nodes and ways represent their relation like barriers and u turns on roads, motorways span different existing ways and areas with holes.|* Store metadata about the map objects.*  Always attached to any node, way or a relation
+|<ul><li> Represents geographic position stored as pairs of a latitude and a longitude.</li> <li> Used to represent map features without a size, such as mountain peaks.</li></ul>|<ul><li> Sorted lists of nodes, signifying a polyline, or a polygon</li> <li>Represent linear features such as roads and rivers, and zones, like parking areas jungles, and parks.</li></ul>|<ul><li> Sorted lists of nodes and ways represent their relation like barriers and u turns on roads, motorways span different existing ways and areas with holes.</li></ul>|<ul><li> Store metadata about the map objects.*  Always attached to any node, way or a relation</li></ul>
 
 
-Tags are used to characterize on ground physical features (buildings and roads etc.) in OpenStreetMap. Each tag relates a geographic characteristic of the feature represented by that specific node or relation. In this free tagging system, to describe a feature, unlimited number of attributes can be included in a map. Specific key and value combinations indorsed by registered users act as informal standards for the frequent used tags. However, new tags can be created whenever new aspects require to analyze previously unmapped attributes of the features. Most features use only a small number of tags for description.
+Tags are used to characterize on ground physical features (buildings and roads etc.) in OpenStreetMap. Each tag relates a geographic characteristic of the feature represented by that specific node or relation. In this free tagging system, to describe a feature, unlimited number of attributes can be included in a map. Specific key and value combinations endorsed by registered users act as informal standards for the frequent used tags. However, new tags can be created whenever new aspects require to analyze previously unmapped attributes of the features. Most features use only a small number of tags for description.
 
 Three types of files are used by OSM to store its main data.
 
@@ -65,7 +65,7 @@ A text-based format intended to create for debugging. The OSM can write this for
 
 A dummy format that dispose of all data. The OSM can write this format but cannot read.
 
-## Data storage                                                                                                     ##
+## Data Storage ##
 
 OSM's main **PostgreSQL** database keeps the main copy of the OSM data with PostGIS extension. For each data primitive, main database maintains a table whose rows store individual objects. All edits update this database and all other formats are formed using this database. Numerous downloadable database pools are created to transfer data from one place to another. Two formats, one using XML and other using Protocol Buffer Binary Format (PBF) define these pools. The complete data is stored in a file called planet.osm
 

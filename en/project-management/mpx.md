@@ -186,7 +186,7 @@ The fields and tabs included in this record are:
 
 **Text Resource Table Definition**: This record lists the resource fields, in order, that are being imported or exported. For imported files, the names must match the field names used in Microsoft Project. For exported files, this record comes from the resource Export table. Either this record or the Numeric Resource Table Definition record must be used. When exporting from Microsoft Project, both of these records are included.
 
-**Numeric Resource Table Definition: **Using numbers rather than names, this record lists the resource fields, in order, that are being imported or exported. This is an alternate method for identifying the resource fields included in each Resource record, and is useful when defining an MPX file created by a foreign language product.
+**Numeric Resource Table Definition:** Using numbers rather than names, this record lists the resource fields, in order, that are being imported or exported. This is an alternate method for identifying the resource fields included in each Resource record, and is useful when defining an MPX file created by a foreign language product.
 
 **Resource:** These records contain the information for each resource being imported or exported. Each Resource record describes one resource. When you import information, the fields that are included are defined by the Text Resource Table Definition record or the Numeric Resource Table Definition record. When you export information, the fields that are included are those listed in the resource Export table.
 

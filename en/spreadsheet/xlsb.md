@@ -71,7 +71,7 @@ The following record type and record size specify a **BrtCommentText** record 
 
 11111101 00000100 11001000 00000001 [Record Fields]
 
-The first byte is 11111101, specifying a low value of 125 and that the record type requires a second byte. The second byte is 00000100, specifying a high value of 4 * 128, which equals 512. The record type value is 125 + 512, or 637, which corresponds to a **BrtCommentText** record type. The next byte is 11001000, specifying a low value of 72 and that the record size requires a second byte. The second byte is 00000001, specifying a higher value of 1 * 128 and that the record size does not require an additional byte. The record size is 72 + 128, or 200, which specifies the total size, in bytes, of the record** data component. The fields in the record data component are specified by **BrtCommentText**.
+The first byte is 11111101, specifying a low value of 125 and that the record type requires a second byte. The second byte is 00000100, specifying a high value of 4 * 128, which equals 512. The record type value is 125 + 512, or 637, which corresponds to a **BrtCommentText** record type. The next byte is 11001000, specifying a low value of 72 and that the record size requires a second byte. The second byte is 00000001, specifying a higher value of 1 * 128 and that the record size does not require an additional byte. The record size is 72 + 128, or 200, which specifies the total size, in bytes, of the record data component. The fields in the record data component are specified by **BrtCommentText**.
 
 ## References ##
 

@@ -29,11 +29,11 @@ Objects in a PLY format are described by a collection of vertices, faces and oth
 * range data confidence
 * properties for the front and back of a polygon
 
-An object represented by PLY format can be the result of various sources such as hand-digitized objects, polygon objects from modelling applications, range data, triangles from marching cubes, terain data and radiosity models. 
+An object represented by PLY format can be the result of various sources such as hand-digitized objects, polygon objects from modelling applications, range data, triangles from marching cubes, terain data and radiosity models.
 
 ## Brief History ##
 
-The PLY format was developed in in 1990's by Greg Turk and others in the Stanford graphics lab and that is why it is also known as Stanford Triangle Format. The file format has version 1.0 since then and no further modifications were done. 
+The PLY format was developed in in 1990's by Greg Turk and others in the Stanford graphics lab and that is why it is also known as Stanford Triangle Format. The file format has version 1.0 since then and no further modifications were done.
 
 ## PLY File Format ##
 
@@ -43,7 +43,8 @@ A simple PLY object consists of collection of elements for representation of the
 
 The file structure of a PLY file format is as follow:
 
-
+|Field
+---|
 |File Header
 |Vertex List
 |Face List
@@ -102,7 +103,7 @@ In this particular example, the specific vertex element has 3 properties of type
 
 There are two type of data types that a property may have.
 
-**Scalar:** The scalar data types are as shown below:
+`Scalar`: The scalar data types are as shown below:
 
 
 |#Name|#Type|#Number of Bytes
@@ -115,10 +116,9 @@ There are two type of data types that a property may have.
 |float|single-precision float|4
 |double|double precision float|8
 
-**List:** There is a special form of property definitions that uses the list data type. An example of this is from the cube file above:
+`List`: There is a special form of property definitions that uses the list data type. An example of this is from the cube file above:
 
-{{{  property list uchar int vertex_index
-}}}
+`property list uchar int vertex_index`
 
 This means that the property "vertex_index" contains first an unsigned char telling how many indices the property contains, followed by a list containing that many integers. Each integer in this variable-length list is an index to a vertex.
 

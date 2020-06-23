@@ -31,7 +31,7 @@ XLTX files are based on the Office OpenXML file format and use XML and [ZIP](/co
 
 This is the only file that is found at the base level when the zip is extracted. It lists the content types for parts within the package. All references to the XML files included in the package are referenced in this XML file.
 
-### _rels (Folder) ###
+### \_rels (Folder) ###
 
 This is the Relationships folder that contains a single XML file that stores the package-level relationships. Links to the key parts of the Xltx files are contained in this file as URIs. These URIs identify the type of relationship of each key part to the package. This includes the relationship to primary office document located as xl/workbook.xml and other parts within docProps as core adn extended properties.
 
@@ -43,7 +43,7 @@ This folder contains the overall document properties. These include a set of cor
 
 This is the main folder that contains all the details about the contents of the workbook. By default, it has following folders:
 
-* _rels
+* \_rels
 * theme
 * worksheets
 
@@ -55,4 +55,4 @@ and following xml files:
 ## References ##
 
 * [[MS-XLSX] - .Xlsx File Format](https://msdn.microsoft.com/en-us/library/dd922181(v#office.12).aspx)
-*[Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
+* [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)

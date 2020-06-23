@@ -23,15 +23,15 @@ Files with ODS extension stand for OpenDocument Spreadsheet Document format that
 
 ODS file format specifications are based on the standard developed as ODF specifications. These specifications have evolved over past in the form of three versions developed and published by OASIS as follow:
 
-**2005:** Version 1.0 was published in May 2005
+`2005`- Version 1.0 was published in May 2005
 
-**2007:** Version 1.1 was published in Feb 2007
+`2007` - Version 1.1 was published in Feb 2007
 
-**2011:** Version 1.2 was published in Sep 2011
+`2011` - Version 1.2 was published in Sep 2011
 
 There were pretty minor changes in transition from ODF 1.0 to 1.1 versions. The [ODF 1.2 version](https://www.oasis-open.org/standards#opendocumentv1.2) is the latest version for ODF specifications and should be consulted by developers for development of applications related to ODS reading/writing.
 
-ODS File Format
+## ODS File Format ##
 
 OpenDocument format supports document representation as a single XML document as well as a collection of several subdocuments within a package as [ZIP](/compression/zip/) archive.  Each of the files from the ZIP archive stores part of the complete document. Each subdocument stores a particular aspect of the document. For example, one subdocument contains the style information and another subdocument contains the content of the document. A typical ODF document has the following components:
 

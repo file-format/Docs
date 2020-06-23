@@ -24,4 +24,4 @@ The power of XML makes it a universal language for data communication over the n
 ## References ##
 
 * [XML - By Wikipedia](https://en.wikipedia.org/wiki/XML)
-* [XML - W3Schools.com](https://www.w3schools.com/xml/xml_whatis.aspXML - W3Schools.com)
+* [XML - W3Schools.com](https://www.w3schools.com/xml/xml_whatis.asp)

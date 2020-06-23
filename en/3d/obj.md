@@ -21,7 +21,7 @@
 
 ## History ##
 
-Wavefront Technologies created OBJ file format for its Advanced Visualizer application to store geometric objects and 3D data. Its version 2.11 is superseded by a newly documented version 3. The file format is open and has been implemented by other vendors for their 3D graphics application. Wavefront Technologies kept this file format open source and neutral. 
+Wavefront Technologies created OBJ file format for its Advanced Visualizer application to store geometric objects and 3D data. Its version 2.11 is superseded by a newly documented version 3. The file format is open and has been implemented by other vendors for their 3D graphics application. Wavefront Technologies kept this file format open source and neutral.
 
 ## OBJ File Format ##
 
@@ -42,7 +42,8 @@ OBJ file format also specifies the tiling of surface geometry with free-form sur
 The following keywords are arranged by data type to define surface geometry.
 
 
-|**Elements**|**Free-form curve/surface body statements**|**Free-form curve/surface attributes**
+|Elements|Free-form curve/surface body statements|Free-form curve/surface attributes
+---|---|---|
 |p|Point|parm|Parameter values|deg|Degree
 |l|Line|trim|Outer trimming loop|bmat|Basis matrix
 |f|Face|hole|Inner trimming loop|step|Step size
@@ -53,11 +54,11 @@ The following keywords are arranged by data type to define surface geometry.
 |bevel|Bevel interpolation|shadow_obj|Shadow casting|s|Smoothing group
 |lod|Level of detail|trace_obj|Ray tracing|mg|Merging group
 |d_interp|Dissolve interpolation|ctech|Curve approximation technique|o|Object name
-|c_interp|Color interpolation|stech|Surface approximation technique| 
-|usemtl|Material name|mtllib|Material library| 
-|**Geometric vertices**| 
-|v|Geometric vertices|vn|Vertex normals| 
-|vt|Texture vertices|vp|Parameter space vertices| 
+|c_interp|Color interpolation|stech|Surface approximation technique|
+|usemtl|Material name|mtllib|Material library|
+|**Geometric vertices**|
+|v|Geometric vertices|vn|Vertex normals|
+|vt|Texture vertices|vp|Parameter space vertices|
 
 ### Color and Texture ###
 
@@ -68,5 +69,3 @@ OBJ file allows color and texture information to store in an associated file for
 * Object Files (.obj)
 * OBJ File Format – Simply Explained for CAD and 3D Printing
 * [Wavefront .obj file](https://en.wikipedia.org/wiki/Wavefront_.obj_file)
-
- 

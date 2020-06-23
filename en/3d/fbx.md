@@ -92,9 +92,9 @@ The binary files structure  follows the following order:
 
 The file header information is comprised of 27 bytes.
 
-* Bytes ##0 - 20##: ##Kaydara FBX Binary  \x00## (file-magic, with 2 spaces at the end, then a NULL terminator).
-* Bytes ##21 - 22##: ##[0x1A, 0x00]## (unknown but all observed files show these bytes).
-* Bytes ##23 - 26##: unsigned int, the version number. //7300 for version 7.3 for example//.
+* Bytes 0 - 20: Kaydara FBX Binary  \x00 (file-magic, with 2 spaces at the end, then a NULL terminator).
+* Bytes 21 - 22: [0x1A, 0x00]## (unknown but all observed files show these bytes).
+* Bytes 23 - 26: unsigned int, the version number. 7300 for version 7.3 for example.
 
 ### Object Record ###
 
@@ -116,8 +116,8 @@ Records in an FBX file are categorized as:
 Each Node Record Format is named and has the following memory layout.
 
 
-|#Size (Bytes)|#Date Type|#Name
---- | ---
+|Size (Bytes)|Date Type|Name
+--- | ---|---|
 |4|UInt32|EndOffset
 |4|UInt32|NumProperties
 |4|UInt32|PropertyListLen
@@ -130,13 +130,13 @@ Each Node Record Format is named and has the following memory layout.
 
 where:
 
-* ##EndOffset## is the distance from the beginning of the file to the end of the node record (i.e. the first byte of whatever comes next). This can be used to easily skip over unknown or not required records.
-* ##NumProperties## is the number of properties in the value tuple associated with the node. A nested list as last element is //not// counted as property.
-* ##PropertyListLen## is the length of the property list. This is the size required for storing ##NumProperties## properties, which depends on the data type of the properties.
-* ##NameLen## is the length of the object name, in characters. The only case where this is 0 seems to be the lists top-level.
-* ##Name## is the name of the object. There is no zero-termination.
-* ##Property[n]## is the ##n##th property. For the format, see section //Property Record Format//. Properties are written sequentially and with no padding.
-* ##NestedList## is the nested list, presence of which is indicated by a ##NULL##–//record// at the very end.
+* `EndOffset` is the distance from the beginning of the file to the end of the node record (i.e. the first byte of whatever comes next). This can be used to easily skip over unknown or not required records.
+* `NumProperties` is the number of properties in the value tuple associated with the node. A nested list as last element is not counted as property.
+* `PropertyListLen` is the length of the property list. This is the size required for storing ##NumProperties## properties, which depends on the data type of the properties.
+* `NameLen` is the length of the object name, in characters. The only case where this is 0 seems to be the lists top-level.
+* `Name` is the name of the object. There is no zero-termination.
+* `Property[n]` is the nth property. For the format, see section property Record Format. Properties are written sequentially and with no padding.
+* `NestedList` is the nested list, presence of which is indicated by a NULL–record at the very end.
 
 The existence of a nested list entry can be determined by checking if there are bytes left until the EndOffset is reached. If so, the next object record should be read directly following the last property. The object record then follows 13 zero bytes, which then combine with the EndOffset. The purpose or requirement of the NULL entry is not known and may point at some format feature.
 
@@ -145,7 +145,7 @@ The existence of a nested list entry can be determined by checking if there are 
 A property Record contains details about properties that are part of Node. A property record has the following memory layout:
 
 
-|**Size (Bytes)**|**Data Type**|**Name**
+|Size (Bytes)|Data Type|Name
 --- | --- | ---
 |1|char|TypeCode
 |?|?|Data
@@ -178,7 +178,7 @@ b: Array of 1 byte Booleans (always 0 or 1)
 The Data for Array Type is more complex and is in the following structure.
 
 
-|#Size (Bytes)|#Data Type|#Name
+|Size (Bytes)|Data Type|Name
 --- | --- | ---
 |4|Uint32|ArrayLength
 |4|Uint32|Encoding
@@ -197,7 +197,7 @@ R: raw binary data
 Both of these TypeCodes are represented as follow:
 
 
-|#Size (Bytes)|#Data Type|#Name
+|Size (Bytes)|Data Type|Name
 --- | --- | ---
 |4|Uin32|Length
 |Length| |
