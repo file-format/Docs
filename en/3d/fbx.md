@@ -86,7 +86,7 @@ The binary files structure  follows the following order:
 
 * Header
 * Object Record
-* Fotter
+* Footer
 
 ### Header ###
 
@@ -202,7 +202,7 @@ Both of these TypeCodes are represented as follow:
 |4|Uin32|Length
 |Length| |
 
-The string is not zero-terminated, and may well contain ##\0## characters (this is actually used in some FBX properties).
+The string is not zero-terminated, and may well contain \0 characters (this is actually used in some FBX properties).
 
 ## References ##
 

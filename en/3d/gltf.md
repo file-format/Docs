@@ -56,7 +56,7 @@ glTF imposes following additional restrictions on JSON file format
 To simplify client-side implementation, glTF has additional restrictions on JSON format and encoding.
 
 1. JSON must use UTF-8 encoding without BOM.
-1. All strings defined in this spec (properties names, enums) use only ASCII charset and must be written as plain text, e.g., "buffer" instead of "\u0062\u0075\u0066\u0066\u0065\u0072".
+1. All strings defined in this spec (properties names, enums) use only ASCII charset and must be written as plain text, e.g., "buffer" instead of `"\u0062\u0075\u0066\u0066\u0065\u0072"`.
 1. Names (keys) within JSON objects must be unique, i.e., duplicate keys aren't allowed.
 
 ### URIs ###

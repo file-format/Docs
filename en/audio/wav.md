@@ -31,7 +31,7 @@ The WAVE file format, being a subset of Microsoft's RIFF specification, starts w
 The header of a WAV (RIFF) file is 44 bytes long and has the following format:
 
 
-|Positions|Sample Value|Description**
+|Positions|Sample Value|Description
 ---|---|---|
 |1 - 4|"RIFF"|Marks the file as a riff file. Characters are each 1 byte long.
 |5 - 8|File size (integer)|Size of the overall file - 8 bytes, in bytes (32-bit integer). Typically, you'd fill this in after creation.
@@ -40,7 +40,7 @@ The header of a WAV (RIFF) file is 44 bytes long and has the following format:
 |17-20|16|Length of format data as listed above
 |21-22|1|Type of format (1 is PCM) - 2 byte integer
 |23-24|2|Number of Channels - 2 byte integer
-|25-28|44100|Sample Rate - 32 byte integer. Common values are 44100 (CD), 48000 (DAT). Sample Rate # Number of Samples per second, or Hertz.
+|25-28|44100|Sample Rate - 32 byte integer. Common values are 44100 (CD), 48000 (DAT). Sample Rate = Number of Samples per second, or Hertz.
 |29-32|176400|(Sample Rate * BitsPerSample * Channels) / 8.
 |33-34|4|(BitsPerSample * Channels) / 8.1 - 8 bit mono2 - 8 bit stereo/16 bit mono4 - 16 bit stereo
 |35-36|16|Bits per sample
