@@ -36,7 +36,7 @@ The specifications of STL file format can be examined from following two aspects
 Orientation of a facet is determined by the direction of the unit normal and the order in which the vertices are listed. The orientation of the facets is specified in two ways as follow:
 
 * The direction of the normal is outward
-* The vertices are listed in counter-colock-wise order from outside, obeying the right-hand rule.
+* The vertices are listed in counter-clock-wise order from outside, obeying the right-hand rule.
 
 ### Vertex to Vertex Rule ###
 
