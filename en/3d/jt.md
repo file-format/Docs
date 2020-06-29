@@ -35,6 +35,9 @@ All objects in the JT format are represented through an object identifier and re
 
 A JT file is arranged as a series of blocks and Header block is always the first block of data in the file. A series of data segment and a TOC segment immediately follow the header block. The one Data segment (6 LSG Segment) possesses a reference compliant JT file always exists. TOC Segment contains the location information of all other Data Segments of that file.
 
+![alt text](JT-1.png "JT File Format")
+
+
 ### File Header ###
 
 File Header is the first block in the JT file’s data hierarchy. Versioning information and TOC location information is enclosed within the header which facilitates loaders in file reading. The file header contents are arranged as follows.
@@ -47,6 +50,7 @@ The TOC Segment must exist within a file and contains identification and locatio
 
 JT file defines all stored data within a Data Segment. Some Data Segment can compress all the data bytes of information remained within the segment. Data segments have the following structure:
 
+![alt text](JT-2.png "JT Data Segment")
 
 Following table describes different types of data segments:
 
