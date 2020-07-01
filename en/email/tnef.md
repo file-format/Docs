@@ -18,9 +18,9 @@
 Transport Neutral Encapsulation Format (TNEF) is a Microsoft proprietary, for encapsulating email attachments based on Messaging Application Programming Interface (**MAPI**). Microsoft Outlook and Microsoft Exchange Server, entirely support TNEF while later decodes TNEF into MAPI and displays the formatted mails. An email attachment with TNEF encoding has a MIME type of MS-TNEF and stores as winmail/win.dat. The attachment in winmail .dat encapsulates the following information:
 
 
-|**Message**|**OLE objects**|**Outlook features**
+|Message|OLE objects|Outlook features
 ---|---|---|
-|* Original  message attachments * Original formatted version * fonts, text sizes, and text colors |* embedded pictures * embedded Office documents |* custom forms * voting buttons * meeting requests
+|<ul><li>Original  message attachments</li><li>Original formatted version</li><li>fonts, text sizes, and text colors</li></ul>|<ul><li>embedded pictures</li><li>embedded Office documents</li></ul>|<ul><li>custom forms</li><li>voting buttons</li><li>meeting requests</li></ul>
 
 
 Other email services who are not TNEF supportive, present plain text for TNEF formatted messages. Outlook embed a rich format of the message in TNEF files (OLE) or particular Outlook features (forms, polling buttons, and conference requests). Sanctioning explicit TNEF encoding within the Outlook e-mail client is not possible, however, Opting RTF format for dispatching an e-mail implicitly facilitates TNEF encoding.
@@ -32,6 +32,8 @@ The TNEF data algorithm establishes a flattened structure from rich hierarchical
 In some situations, where properties occur in groups or have multiple-values, stream might include counts and paddings to enforce a specific data alignments. A distinctive situation where the use of this algorithm is advantageous is in an unsupportive messaging environment. In such environments, a rich message property is encoded into a serial data stream by a TNEF Writer. Further, the properties that do not belongs to the underlying TNEF can be encapsulated during transmission. These encapsulated properties then made available by decoding through a TNEF to ensure the availability of all properties of the original message to the client application.
 
 In TNEF all numeric data types are little-endian and their size are greater than one byte. Handling of these numeric values on non-little-endian platforms require to accomplish the appropriate transformations to get correct values. String values are represented in Augmented Backus-Naur Form (ABNF) format according to [RFC5234] specifications. When the string terminates with null character, it is also included as well; for example, "worker@specimen.com" %x00.
+
+{{< figure src="../TNEF.png" alt="TNEF File Format" >}}
 
 ## Attributes and Processing rules ##
 
