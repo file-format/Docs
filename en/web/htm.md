@@ -7,7 +7,7 @@
   "toc" : true,
   "title" : "HTM (Hypertext Markup Language) File Format",
   "description" : "Your file format guide to learn what is an HTM file and APIs that can create and open them.",
-  "linktitle" : "HTM - Hypertext Markup Language File",
+  "linktitle" : "HTM",
   "menu" : {
     "docs" : {
       "parent" : "web"
