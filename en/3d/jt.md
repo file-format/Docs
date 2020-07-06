@@ -35,7 +35,7 @@ All objects in the JT format are represented through an object identifier and re
 
 A JT file is arranged as a series of blocks and Header block is always the first block of data in the file. A series of data segment and a TOC segment immediately follow the header block. The one Data segment (6 LSG Segment) possesses a reference compliant JT file always exists. TOC Segment contains the location information of all other Data Segments of that file.
 
-{{< figure src="../JT-1.png" alt="The File Format" >}}
+{{< figure src="../JT-1.png" alt="XPS File Format" >}}
 
 ### File Header ###
 

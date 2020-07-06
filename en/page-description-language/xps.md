@@ -31,6 +31,8 @@ The XPS format consists of XML markup that defines the composition of a document
 * document settings file (.fdoc) - Stores settings included in XPS archive.
 * document fragment files (.frag) - Defines the settings for the actual .XPS file and every page in the document has its own .frag file.
 
+{{< figure src="../XPS-1.png" alt="XPS File Format" >}}
+
 These files retain the document contents in such a way that if, for example, someone doesn't have the same fonts installed on their machine, the XPS viewer will still render those original fonts. This implies the inclusion of XML markup file for each:
 
 * Page
@@ -43,6 +45,8 @@ These files retain the document contents in such a way that if, for example, som
 The XPS Document format includes a well-defined set of parts and relationships, each fulfilling a particular purpose in the document. The format also extends the package features, including digital signatures, thumbnails, and interleaving.
 
 A typical XPS document looks as follows and can be analyzed in light of XPS file format [specifications](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf).
+
+{{< figure src="../XPS-2.png" alt="XPS File Format" >}}
 
 
 ## References ##

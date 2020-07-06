@@ -57,7 +57,11 @@ and following xml files:
 
 For each Excel worksheet contained in a workbook, there is one XML file. You can find these XML files in xl/worksheets folder. All the information contained in a worksheet is organized in different sections in the XML file. Let's examine a sample worksheet from a workbook which is shown in the following image.
 
+{{< figure src="../XLSX file format.png" alt="XLSX File Format" >}}
+
 As can be seen, this worksheet contains contents in cells A1 through B2 and an image. In addition, cell G13 is currently the active cell in the worksheet. Now, let's examine the xl/worksheets/sheet1.xml file to see how this information is represented in the XML file. Contents of this XML file are as shown below.
+
+{{< figure src="../XLSX File Format Details.png" alt="XPS File Format" >}}
 
 1. The tab has theme color applied to it. Its mentioned in the XML file with tag <tabColor> following the theme id.
 1. The tabSelected value is set to 1 which shows that this is the selected sheet

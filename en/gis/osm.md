@@ -27,6 +27,8 @@ Inspired by the success of Wikipedia, in 2004, Steve Coast a British entrepreneu
 
 There are lot of ways and file formats to store geographic data but **OSM** file format is restricted to OpenStreetMap. OSM is especially designed standard format intended to be transported easily across the internet. A structured ordered format, coded in XML constitute .osm file. In OpenStreetMap there are four pivot elements to store topological data structure:
 
+{{< figure src="../OSM.png" alt="OSM File Format" >}}
+
 
 |Nodes|Ways|Relations|Tags
 ---|---|---|---|

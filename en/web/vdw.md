@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "VDW - Visio Graphics Service File Format",
-  "linktitle" : "VDW - Visio Graphics Service File Format",
+  "linktitle" : "VDW",
   "menu" : {
     "docs" : {
       "parent" : "web"

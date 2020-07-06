@@ -19,9 +19,13 @@
 
 A Tab-Separated Values (TSV) file format represents data separated with tabs in plain text format. The file format, similar to [CSV](/spreadsheet/csv/), is used for organization of data in a structured manner in order to import and export between different applications. The format is primarily used for data import/export and exchange in Spreadsheet applications and databases. Each record in a TSV file is contained in a single line of text file where each field value is separated by a tab character. Media type for TSV file format is text/tab-separated-values.
 
+{{< figure src="../TSV.png" alt="TSV File Format" >}}
+
 ## Example TSV File Format ##
 
 The following example shows data arranged in a TSV file separated by tabs.
+
+{{< figure src="../TSV-2.png" alt="TSV Example" >}}
 
 When such data is imported in Spreadsheet applications, like Microsoft Excel, it looks as follow:
 
