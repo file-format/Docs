@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "BMP - Image File Format",
-  "linktitle" : "BMP - Image File Format",
+  "linktitle" : "BMP",
   "menu" : {
     "docs" : {
       "parent" : "image"
