@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "ICO - Image File Format",
-  "linktitle" : "ICO - Image File Format",
+  "linktitle" : "ICO",
   "menu" : {
     "docs" : {
       "parent" : "image"
@@ -37,7 +37,6 @@ The ICO file consists of an Icon header, an Icon Directory,
 
 ### Header ###
 
-
 |Offset|Size (in bytes)|Purpose
 ---|---|---|
 |0|2|Reserved. Must always be 0.
@@ -47,7 +46,6 @@ The ICO file consists of an Icon header, an Icon Directory,
 ### Directory ###
 
 The directory contained in an ICO file, represented as ICONDIR structure, contains an ICONDIRECTORY structure for each image in the file. The same is followed by a contiguous block of all image bitmap data. This is as shown below.
-
 
 |Offset|Size|Description
 ---|---|---|

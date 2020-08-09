@@ -88,7 +88,7 @@ DICOM provides various services, mostly related to communication of data. Each o
 **Storage commitment:** Storage commitment service is used for confirmation that an image has been permanently stored b a device on any type of media.
 
 
-**Query/retrieve: **This service enables a workstation to find the lists of images or other objects and then retrieve them from PACS.
+**Query/retrieve:** This service enables a workstation to find the lists of images or other objects and then retrieve them from PACS.
 
 
 **Modality worklist:** The modality worklist service gives a list of imaging procedures that have been scheduled for performance by an image acquisition device.

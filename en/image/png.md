@@ -15,7 +15,7 @@
   "lastmod" : "2019-09-10"
 }
 
-**PNG**, Portable Network Graphics, refers to a type of raster image file format that use loseless compression. This file format was created as a replacement of Graphics Interchange Format ([GIF](/image/gif/)) and has no copyright limitations. However, PNG file format does not support animations. PNG file format supports loseless image compression that makes it popular among its users. With the passage of time, PNG has evolved as one of the mostly used image file format. Almost all Operating Systems have support for opening PNG files. For example, Microsoft Windows viewer has the capability to open PNG files as the OS has by default the support available as part of installation. 
+**PNG**, Portable Network Graphics, refers to a type of raster image file format that use loseless compression. This file format was created as a replacement of Graphics Interchange Format ([GIF](/image/gif/)) and has no copyright limitations. However, PNG file format does not support animations. PNG file format supports loseless image compression that makes it popular among its users. With the passage of time, PNG has evolved as one of the mostly used image file format. Almost all Operating Systems have support for opening PNG files. For example, Microsoft Windows viewer has the capability to open PNG files as the OS has by default the support available as part of installation.
 
 ## Brief History ##
 
@@ -97,12 +97,10 @@ Pre-compression filters are applied to prepare the image data for optimum compre
 |3|Average|The Average() filter uses the average of the two neighboring pixels (left and above) to predict the value of a pixel.
 |4|Paeth|The Paeth() filter computes a simple linear function of the three neighboring pixels (left, above, upper left), then chooses as predictor the neighboring pixel closest to the computed value.
 
-Filtering algorithms are applied to **bytes**, not to pixels, regardless of the bit depth or color type of the image. The filtering algorithms work on the byte sequence formed by a scanline. If the image includes an alpha channel, the alpha data is filtered in the same way as the image data.
+Filtering algorithms are applied to `bytes`, not to pixels, regardless of the bit depth or color type of the image. The filtering algorithms work on the byte sequence formed by a scanline. If the image includes an alpha channel, the alpha data is filtered in the same way as the image data.
 
 When the image is interlaced, each pass of the interlace pattern is treated as an independent image for filtering purposes. The filters work on the byte sequences formed by the pixels actually transmitted during a pass, and the "previous scanline" is the one previously transmitted in the same pass, not the one adjacent in the complete image. Note that the subimage transmitted in any one pass is always rectangular, but is of smaller width and/or height than the complete image. Filtering is not applied when this subimage is empty.
 
 ## References ##
 
 * [PNG - Home Page](http://www.libpng.org/pub/png/)
-
- 

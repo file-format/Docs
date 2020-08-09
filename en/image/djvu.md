@@ -37,7 +37,7 @@ The DjVu technology was developed in AT&T labs by [Yann LeCun](https://en.wikip
 |25|May 2003|NAVM chunk. Support for DjVu bookmarks was added.
 |26|April 2005|Text/line annotations
 
-## File Format ##
+## DjVu File Format ##
 
 DjVu documents are IFF85 files. The structure provides a hierarchy of containers which holds information in a DjVu file. These containers are also called “Chunks”. Chunk type and Chunk ID describes how the chunk is used. There is a 4byte header followed by IFF structure. The first four bytes of a DjVu file are 0x41 0x54 0x26 0x54. This section discusses the various kinds of DjVu documents and the corresponding chunks of which they consist.
 
