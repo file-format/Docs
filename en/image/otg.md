@@ -15,7 +15,7 @@
   "lastmod" : "2020-01-10"
 }
 
-An OTG file is a drawing template that is created using the OpenDocument standard that follows the OASIS Office Applications [1.0 specification](http://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0-os.pdf). It represents the default organization of drawing elements for a vector image that can be used to further enhance the contents of the file. OTF files are like any other OpenDocument format based files that are based on XML format to represent contents of the document. 
+An OTG file is a drawing template that is created using the OpenDocument standard that follows the OASIS Office Applications [1.0 specification](http://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0-os.pdf). It represents the default organization of drawing elements for a vector image that can be used to further enhance the contents of the file. OTF files are like any other OpenDocument format based files that are based on XML format to represent the contents of the document. OTF files can be viewed by opening them in any text or standard XML editor.
 
 ## OTG File Format Specifications ##
 OTG file format is based on the OpenDocument XML format that has well-established schema. The structure of each component of an OpenDocument format is represented by an element that has associated attributes and is common for all the document types such as text document, spreadsheet, or a drawing file. OTG, being a drawing template, extensively utilizes the Graphics Content specifications that includes:
