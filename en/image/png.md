@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "PNG - Image File Format",
-  "linktitle" : "PNG - Image File Format",
+  "linktitle" : "PNG",
   "menu" : {
     "docs" : {
       "parent" : "image"
@@ -15,7 +15,7 @@
   "lastmod" : "2019-09-10"
 }
 
-**PNG**, Portable Network Graphics, refers to a type of raster image file format that use loseless compression. This file format was created as a replacement of Graphics Interchange Format ([GIF](/image/gif/)) and has no copyright limitations. However, PNG file format does not support animations. PNG file format supports loseless image compression that makes it popular among its users. With the passage of time, PNG has evolved as one of the mostly used image file format. Almost all Operating Systems have support for opening PNG files. For example, Microsoft Windows viewer has the capability to open PNG files as the OS has by default the support available as part of installation.
+**PNG**, Portable Network Graphics, refers to a type of raster image file format that use loseless compression. This file format was created as a replacement of Graphics Interchange Format ([GIF](/image/gif/)) and has no copyright limitations. However, PNG file format does not support animations. PNG file format supports loseless image compression that makes it popular among its users. With the passage of time, PNG has evolved as one of the mostly used image file format.
 
 ## Brief History ##
 
@@ -50,7 +50,7 @@ PNG file format was designed to be simple and portable, legally unencumbered, i
 
 ## PNG File Structure ##
 
-A PNG file consists of a PNG //signature// followed by a series of //chunks//.
+Almost all Operating Systems have support for opening PNG files. For example, Microsoft Windows viewer has the capability to open PNG files as the OS has by default the support available as part of installation. A PNG file consists of a PNG `signature` followed by a series of //chunks//.
 
 ### File Header ###
 

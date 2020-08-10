@@ -19,9 +19,9 @@
 
 DNG is a digital camera image format used for the storage of raw files. It has been developed by Adobe in September 2004. It was basically developed for digital photography. DNG is an extension of [TIFF](/image/tiff/)/EP standard format and uses metadata significantly. In order to manipulate raw data from digital cameras with ease of flexibility and artistic control, photographers opt camera raw files. JPEG and TIFF formats store images that are processed by the camera, therefore not much room for alteration is available in such formats.
 
-Whereas camera raw files capture unprocessed or low processed data directly from the sensor. As they are similar to film negatives therefore camera raw formats are also known as “Digital Negatives”. Benefit of raw formats is the increased artistic control for the end user. The user can adjust various parameter ranges according to the requirements such as white balance, tone mapping, noise reduction, sharpening and so on. On the other hand camera raw file has to be processed for any use through any software or through a converter.
-
 ## DNG Standard Format ##
+
+Whereas camera raw files capture unprocessed or low processed data directly from the sensor. As they are similar to film negatives therefore camera raw formats are also known as “Digital Negatives”. Benefit of raw formats is the increased artistic control for the end user. The user can adjust various parameter ranges according to the requirements such as white balance, tone mapping, noise reduction, sharpening and so on. On the other hand camera raw file has to be processed for any use through any software or through a converter.
 
 As there was no standard format available for camera raw files therefore, it created multiple problems for the end user. These problems were addressed by Adobe and defined a non-proprietary format for camera raw files. The format is known as Digital Negative or DNG. DNG can be used by a wide range of hardware and software for the processing of raw files. Furthermore, DNG can also be used as an intermediate format for storing images which were captured originally by camera’s having their own proprietary raw formats.
 

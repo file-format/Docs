@@ -6,22 +6,22 @@
   "draft" : "false",
   "toc" : true,
   "title" : "JPEG - Image File Format",
-  "linktitle" : "JPEG - Image File Format",
+  "linktitle" : "JPEG",
   "menu" : {
     "docs" : {
       "parent" : "image"
     }
   },
-  "lastmod" : "2019-11-25"
+  "lastmod" : "2020-08-08"
 }
 
 ## What is a JPEG file? ##
 
-A JPEG is a type of image format that is saved using the method of lossy compression. The output image, as result of compression, is a trade-off between storage size and image quality. Users can adjust the compression level to achieve the desired quality level while at the same time reduce the storage size. Image quality is negligibly affected if 10:1 compression is applied to the image.  The higher the compression value, the higher the degradation in image quality. JPEG image file format was standardized by the Joint Photographic Experts Group and, hence, the name JPEG. The format has been the choice of storing and transmitting photographic images on the web. Almost all Operating systems now have viewers that support visualization of JPEG images, which are often stored with JPG extension as well. Even the web browsers support visualization of JPEG images.
+A JPEG is a type of image format that is saved using the method of lossy compression. The output image, as result of compression, is a trade-off between storage size and image quality. Users can adjust the compression level to achieve the desired quality level while at the same time reduce the storage size. Image quality is negligibly affected if 10:1 compression is applied to the image.  The higher the compression value, the higher the degradation in image quality.
 
 ## File Format Specifications ##
 
-Before going into the JPEG file format specifications, the overall process of steps involved in JPEG creation need to be mentioned.
+JPEG image file format was standardized by the Joint Photographic Experts Group and, hence, the name JPEG. The format has been the choice of storing and transmitting photographic images on the web. Almost all Operating systems now have viewers that support visualization of JPEG images, which are often stored with JPG extension as well. Even the web browsers support visualization of JPEG images. Before going into the JPEG file format specifications, the overall process of steps involved in JPEG creation need to be mentioned.
 
 ### JPEG Compression Steps ###
 

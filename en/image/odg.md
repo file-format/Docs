@@ -18,7 +18,7 @@
 The ODG file format is used by Apache OpenOffice's Draw application to store drawing elements as a vector image. It follows the XML based file format specifications outlined by Advancement of Structural Information Standards (OASIS). ODG represents drawings as vector images using points, lines and curves. Besides OpenOffice, LibreOffice and other applications also provide support for working with ODG file format. Other formats supported by OpenOffice, for example, include [ODT](/word-processing/odt/), ODF, [ODP](/presentation/odp/) and [ODS](/spreadsheet/ods/).
 
 
-### ODG File Format Specifications###
+### ODG File Format Specifications ###
 
 ODG file format is based on OpenDocument format that is structured XML document format with well defined schema.
 Each structural component of an OpenDocument format is represented by an element that has associated attributes. The XML based structure is common for all document types such as text document, spreadsheet or a drawing file. A document can contain different styles. An OpenDocument file strucutre consists of the following elements.

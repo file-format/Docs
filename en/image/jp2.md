@@ -6,20 +6,20 @@
   "draft" : "false",
   "toc" : true,
   "title" : "JP2 - Image File Format",
-  "linktitle" : "JP2 - Image File Format",
+  "linktitle" : "JP2",
   "menu" : {
     "docs" : {
       "parent" : "image"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod" : "2020-08-10"
 }
 
 ## What is a JP2 file? ##
 
-JPEG 2000 (**JP2**) is an image coding system and state-of-the-art image compression standard. It use wavelet technology to code lossless content in any quality at once. Moreover, without any substantial penalty in coding efficiency, JPEG 2000  have the capability to access and decode the same content efficaciously into a variety of other resolutions and qualities. The code streams in JPEG 2000 is significantly scalable having regions of interest that provide the facility for spatial random access. Possessing Up to 16384 diverse components with the dimensions in terapixels, and precision that can be high as 38 bits/sample.
+JPEG 2000 (**JP2**) is an image coding system and state-of-the-art image compression standard. It use wavelet technology to code lossless content in any quality at once. Moreover, without any substantial penalty in coding efficiency, JPEG 2000  have the capability to access and decode the same content efficaciously into a variety of other resolutions and qualities. The code streams in JPEG 2000 is significantly scalable having regions of interest that provide the facility for spatial random access.
 
-JPEG 2000 stands out to be one of the most scalable standard.  Different parts of an image can be stored using diverse qualities. A noteworthy performance escalation can be achieved by ordering the code stream in a variety of ways. Nevertheless, JP2 requires complex and computationally challenging encoders/decoders, as an outcome of this flexibility. In comparison with JPEG, JPEG 2000  only produce ringing artifacts that makes rings near the image edge and can be blurry, while JPEG uses 8×8 visual artifacts blocks which can be both ringing and blocking artifacts.
+JPEG 2000 stands out to be one of the most scalable standard.  Different parts of an image can be stored using diverse qualities. A noteworthy performance escalation can be achieved by ordering the code stream in a variety of ways. Nevertheless, JP2 requires complex and computationally challenging encoders/decoders, as an outcome of this flexibility. In comparison with JPEG, JPEG 2000  only produce ringing artifacts that makes rings near the image edge and can be blurry, while JPEG uses 8×8 visual artifacts blocks which can be both ringing and blocking artifacts. Possessing Up to 16384 diverse components with the dimensions in terapixels, and precision that can be high as 38 bits/sample.
 
 ## History ##
 
