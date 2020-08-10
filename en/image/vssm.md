@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "VSSM - Microsoft Visio Macro Enabled File Format",
-  "linktitle" : "VSSM - Microsoft Visio Macro Enabled File Format",
+  "linktitle" : "VSSM",
   "menu" : {
     "docs" : {
       "parent" : "image"
@@ -27,10 +27,10 @@ The VSSM file format was introduced with Microsoft Visio 2013 which is based on 
 * .vstx (Visio template)
 * .vstm (Visio macro-enabled template)
 
-Under the hood, the Visio 2013 file format uses a structured means to store application data together with related resources in an archive such as [ZIP](https://wiki.fileformat.com/Compression/ZIP/). The ZIP file can be extracted using any standard extraction utility where it contains other types of files as well. 
+Under the hood, the Visio 2013 file format uses a structured means to store application data together with related resources in an archive such as [ZIP](https://wiki.fileformat.com/Compression/ZIP/). The ZIP file can be extracted using any standard extraction utility where it contains other types of files as well.
 
-Each Visio file is termed as package that holds other files or parts. A package part can be an XML file, an image or even a VBA solution.The parts within the package can be devided into "document" and "relationship" parts. 
+Each Visio file is termed as package that holds other files or parts. A package part can be an XML file, an image or even a VBA solution.The parts within the package can be devided into "document" and "relationship" parts.
 
 ## References ##
 
-* [Introduction to Visio File Format](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx) 
+* [Introduction to Visio File Format](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
