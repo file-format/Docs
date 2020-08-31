@@ -5,7 +5,7 @@
     "display_name" : "Kashif Iqbal"
   },
   "draft" : "false",
-  "description" : "Learn about common Audio file formats such as MP3, WAV, WMV, PCM, AAC, WMA, and other popular Audio file types.",
+  "description" : "Audio files store digital audio data on a computer system. Popular audio file formats include MP3, WAV, WMV, PCM, AAC, WMA, and other popular Audio file types.",
   "categories" : [ "fundamentals" ],
   "title" : "Learn about Audio File Formats and APIs that open and create Audio files",
   "linktitle" : "Audio File Formats",

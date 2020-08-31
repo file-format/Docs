@@ -5,7 +5,7 @@
     "display_name" : "Kashif Iqbal"
   },
   "draft" : "false",
-  "description" : "Learn about 3D file formats such as GLB, FBX, GLTF, OBJ, PLY, JT, 3DS, and other popular 3D file types.",
+  "description" : "3D files are a digital representation of three-dimensional objects. Popular 3D file formats include  GLB, FBX, GLTF, OBJ, PLY, JT, 3DS, and other popular 3D file types.",
   "categories" : [ "fundamentals" ],
   "title" : "Learn about 3D File Formats and APIs that can open and create 3D files",
   "linktitle" : "3D File Formats",
@@ -15,7 +15,7 @@
       "weight" : "01"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod" : "2020-09-01"
 }
 
 The electronic representation of a three-dimensional object is known as 3D file. A 3D file format is used to store information about 3D models. It usually store information about 3D models as plain text or binary data. There are literally hundreds of 3D file formats and are widely used in 3D games, printing, computer-aided design, manufacturing, academia, engineering and more. Each industry has its own 3D file formats for several reasons. Below we are going to discuss about the most popular 3D file formats and the most recommended software that uses it.

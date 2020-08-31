@@ -5,7 +5,7 @@
     "display_name" : "Kashif Iqbal"
   },
   "draft" : "false",
-  "description" : "Learn about Raster and Vector Image file formats such as BMP, PNG, JPEG, GIF, and other popular image file types.",
+  "description" : "Image files store images as digital media on storage devices. Popular Raster and Vector Image file formats include BMP, PNG, JPEG, GIF, and other popular image file types.",
   "categories" : [ "fundamentals" ],
   "title" : "Learn about Image File Formats and APIs that can open and create image files",
   "linktitle" : "Image File Formats",

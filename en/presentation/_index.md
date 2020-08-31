@@ -5,7 +5,7 @@
     "display_name" : "Kashif Iqbal"
   },
   "draft" : "false",
-  "description" : "PowerPoint supports different Presentation file formats such as PPTX, PPT, PPTM and several others.",
+  "description" : "Presentation files contain slides that include data such as text, images, shapes, animations, video, and audio. Popular presentation file formats include PPTX, PPT, PPTM and several others.",
   "categories" : [ "fundamentals" ],
   "title" : "PowerPoint Presentation File Formats - Learn from File Format Experts",
   "linktitle" : "Presentation File Formats",
