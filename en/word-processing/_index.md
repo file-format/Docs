@@ -5,6 +5,7 @@
   },
   "draft" : "false",
   "categories" : [ "fundamentals" ],
+  "description":"Word processing files contain user information in plain text or rich text format. Learn to open popular document formats such as TXT, RTF, CSV, DOC, and DOCX.",
   "title" : "Word Processing File Formats",
   "linktitle" : "Word Processing File Formats",
   "menu" : {

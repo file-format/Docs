@@ -5,6 +5,7 @@
   },
   "draft" : "false",
   "categories" : [ "fundamentals" ],
+  "description":"Project files contain a set of tasks and activities that need to be performed to complete a project. Learn about common Project file formats such as MPP, XER, MPT, and MPX.",
   "title" : "Project Management File Formats",
   "linktitle" : "Project Management File Formats",
   "menu" : {
@@ -13,7 +14,7 @@
       "weight" : "01"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod" : "2020-09-01"
 }
 
 Have you ever come across and wondered what is an MPP file or how to open it? MPP and other similar files are Project file formats that are created by Project Management software such as Microsoft Project. A project file is a collection of tasks, resources, and their scheduling to get a measurable output in the form or a product or a service. Gantt charts are used to establish a visual flow of activities against time for the identified tasks that can also be exported to PDF or image formats for documentation. Primavera P6 is another Project Management Software by Oracle that provides complete project planning.

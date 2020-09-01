@@ -5,6 +5,7 @@
   },
   "draft" : "false",
   "categories" : [ "fundamentals" ],
+  "description":"Web files contain data for creating web pages that combine to generate a website. Learn to work and open different web file formats such as ASP, CHM, HTM, HTML, MHTML, and XHTML.",
   "title" : "Web File Formats",
   "linktitle" : "Web File Formats",
   "menu" : {

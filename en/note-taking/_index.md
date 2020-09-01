@@ -5,6 +5,7 @@
   },
   "draft" : "false",
   "categories" : [ "fundamentals" ],
+  "description" : "Note files contain free forms user data such as snaps, uploaded files, drawings, and notes. Common note-taking file formats include Microsoft OneNote's ONE and ONETOC2.",
   "title" : "Note Taking File Formats",
   "linktitle" : "Note Taking File Formats",
   "menu" : {
@@ -13,7 +14,7 @@
       "weight" : "01"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod" : "2020-09-01"
 }
 
 Note-taking programs such as Microsoft OneNote lets you create, open and edit notes files that contain sections and pages for storing notes. A note document can be as simple as a text document as well as more detailed consisting of digital images, audio/video clips, and hand sketch drawings. A OneNote notebook, for example, organizes notes in multiple pages and can contain more than one files for each section. Microsoft OneNote online lets you create note documents online and sync with .ONE documents on local computer.

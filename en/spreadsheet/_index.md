@@ -5,7 +5,7 @@
     "display_name" : "Kashif Iqbal"
   },
   "draft" : "false",
-  "description" : "Learn about popular Spreadsheet file formats such as XLSX, XLS, CSV, XLSB, XLSM, XLT, XLTX and others.",
+  "description" : "Spreadsheet files contain data in rows and columns and can be opened in spreadsheet applications such as Microsoft Excel. Spreadsheet file formats include XLSX, XLS, CSV, XLSB, XLSM, XLT, XLTX, and others.",
   "categories" : [ "fundamentals" ],
   "title" : "Learn about Spreadsheet Files and APIs to open and create them.",
   "linktitle" : "Spreadsheet File Formats",
@@ -15,7 +15,7 @@
       "weight" : "01"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod" : "2020-09-01"
 }
 
 A **spreadsheet** file contains data in the form of rows and columns. You can open, view and edit such files using spreadsheet software applications such as Microsoft Excel that is now available for both Windows and MacOS operating system. Similarly, Google sheets is a free online spreadsheet creating and editing tool that works from any web browser. A spreadsheet file can be saved in several different file formats, each having a different file extension for unique representation. Data is stored in cells either in plain form such as text string, numbers, date, currency, etc. or as formulas that change a cell's value when referenced cell values change.

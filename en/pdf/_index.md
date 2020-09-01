@@ -5,6 +5,7 @@
   },
   "draft" : "false",
   "categories" : [ "fundamentals" ],
+  "description": "Portable Document Format (PDF) is a standard representation of documents independent of software, hardware, and OS. PDF standards include PDF/A, PDF/E, PDF/UA, PDF/VT and PDF/X.",
   "title" : "PDF",
   "linktitle" : "PDF",
   "menu" : {
@@ -26,7 +27,7 @@ A quick go-through the timeline about the PDF file formation in terms of timelin
 
 **1993** - Adobe Systems made the PDF specifications available free of charge
 
-**2008** - PDF was released as an open standard on July 1, 2008 and was published by the International Organization for Standardization as **ISO 32000-1:2008**. 
+**2008** - PDF was released as an open standard on July 1, 2008 and was published by the International Organization for Standardization as **ISO 32000-1:2008**.
 
 **2008** - Adobe published a Public Patent License to ISO 32000-1 format royalty-free rights for all patents owned by Adobe that are necessary to make, use, sell and distribute PDF compliant implementations.
 
@@ -48,7 +49,7 @@ PDF file contents are arranged in the following sequence inside the file.
 
 #### File Header ####
 
-Irrespective of the PDF version, a PDF file starts with a header containing unique identifier for PDF and the version of the format such as %PDF-1.x where x ranges from 1-7. 
+Irrespective of the PDF version, a PDF file starts with a header containing unique identifier for PDF and the version of the format such as %PDF-1.x where x ranges from 1-7.
 
 #### File Body ####
 
@@ -67,10 +68,10 @@ The trailer of a PDF file enables a conforming reader to quickly find the cross-
 A PDF file includes several different type of objects that are of following types
 
 * Boolean values - representing conditional true or false
-* Numbers - Integer and Real values 
+* Numbers - Integer and Real values
 * Strings - contains characters within parentheses
 * Names - start with a forward / character e.g. /ASomewhatLongerName results in ASomewhatLongerName
-* Arrays - PDF supports one dimensional arrays. Arrays of higher dimensions can be constructed by using arrays as nested elements 
+* Arrays - PDF supports one dimensional arrays. Arrays of higher dimensions can be constructed by using arrays as nested elements
 * Dictionaries - collection of objects as key-value pairs. It can have zero entries.
 * Streams - represents sequence of bytes which can be of unlimited length as well
 * Null Object - represents a null value
@@ -79,7 +80,7 @@ There can be other other objects like comments which are introduced with the % s
 
 ### Indirect Objects ###
 
-Any object in a PDF file may be labelled as an indirect object. Indirect objects are given unique object identifier by which other objects can refer to it. Cross-referencing to these are maintained in an index table and marked with the xref keyword which follows the main body and gives the byte offset of each indirect object from the start of file. 
+Any object in a PDF file may be labelled as an indirect object. Indirect objects are given unique object identifier by which other objects can refer to it. Cross-referencing to these are maintained in an index table and marked with the xref keyword which follows the main body and gives the byte offset of each indirect object from the start of file.
 
 ### Linear and Non-Linear PDF Layouts ###
 
@@ -95,7 +96,7 @@ As mentioned, PDF body is a collection of objects mentioned above. PDF is largel
 
 #### Text ####
 
-Text in PDF is represented by text elements which are actually displayed with glyphs from fonts.   A  glyph  is  a  graphical  shape  and  is  subject  to  all  graphical  manipulations,  such  as  coordinate transformation. Because of the importance of text in most page descriptions, PDF provides higher-level facilities to describe, select, and render glyphs conveniently and efficiently. 
+Text in PDF is represented by text elements which are actually displayed with glyphs from fonts.   A  glyph  is  a  graphical  shape  and  is  subject  to  all  graphical  manipulations,  such  as  coordinate transformation. Because of the importance of text in most page descriptions, PDF provides higher-level facilities to describe, select, and render glyphs conveniently and efficiently.
 
 #### Graphics ####
 

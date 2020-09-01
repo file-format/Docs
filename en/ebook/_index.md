@@ -5,6 +5,7 @@
   },
   "draft" : "false",
   "categories" : [ "fundamentals" ],
+  "description" : "Ebook files are electronic files that can be opened and read on digital devices known as eReaders. Common ebook file extensions and their file formats include EPUB, FB2, and Mobi.",
   "title" : "EBook File Formats",
   "linktitle" : "EBook File Formats",
   "menu" : {
@@ -13,7 +14,7 @@
       "weight" : "01"
     }
   },
-  "lastmod" : "2019-11-22"
+  "lastmod" : "2020-09-01"
 }
 
 Ebook files are electronic files that can be opened on digital devices known as eReaders. An eReader can be any device such as a computer, a tablet or a smartphone. The most popular ebook file format is the XML based ePub that can easily be read by several applications. Some popular eReaders include [Amazon Kindle](https://www.amazon.com/Kindle-eBooks), Sony Reader, Hanlin and IRIX. An ebook can contain different types of contents such as text, image, and video. Some providers also make the digital content available for free download or view online from ebook library. With the popularity of ebooks, several publishers have provided step-by-step guide on how to publish an ebook online.

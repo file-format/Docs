@@ -5,6 +5,7 @@
   },
   "draft" : "false",
   "categories" : [ "fundamentals" ],
+  "description":"Video files store digital video data on a computer system and is a sequence of images in reality. Learn to open common video file formats such as AVI, M4V, MOV, and WMV.",
   "title" : "Video File Formats",
   "linktitle" : "Video File Formats",
   "menu" : {

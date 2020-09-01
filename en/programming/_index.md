@@ -6,6 +6,7 @@
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "title" : "Programming",
+  "description":"Programming files contain source code for writing applications. Popular programming file formats include C++, CS (CSharp), VB (Visual Basic), CSPROJ, and SLN (Solution).",
   "linktitle" : "Programming",
   "menu" : {
     "docs" : {
