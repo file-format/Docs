@@ -6,7 +6,8 @@
   "draft" : "false",
   "toc" : true,
   "title" : "X3D - 3D Image File",
-  "linktitle" : "X3D - 3D Image File",
+  "description":"Learn about X3D file format and APIs that can open and create X3D files.",
+  "linktitle" : "X3D",
   "menu" : {
     "docs" : {
       "parent" : "3d"

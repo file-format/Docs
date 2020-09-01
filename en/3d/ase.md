@@ -5,6 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
+  "description":"Learn about ASE file format and APIs that can open and create ASE files.",
   "title" : "ASE",
   "linktitle" : "ASE",
   "menu" : {
@@ -12,7 +13,7 @@
       "parent" : "3d"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod" : "2020-09-01"
 }
 
-An ASE file is a 2D animation or graphics that contain layers, frames, palettes, tags, and settings. 
+An ASE file is a 2D animation or graphics that contain layers, frames, palettes, tags, and settings.

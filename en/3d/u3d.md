@@ -6,7 +6,8 @@
   "draft" : "false",
   "toc" : true,
   "title" : "U3D - Universal 3D File Format",
-  "linktitle" : "U3D - Universal 3D File Format",
+  "description":"Learn about U3D file format and APIs that can open and create U3D files.",
+  "linktitle" : "U3D",
   "menu" : {
     "docs" : {
       "parent" : "3d"

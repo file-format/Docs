@@ -5,8 +5,9 @@
   },
   "draft" : "false",
   "toc" : true,
+  "description":"Learn about DAE file format and APIs that can open and create DAE files.",
   "title" : "DAE - Digital Asset Exchange File Format",
-  "linktitle" : "DAE - Digital Asset Exchange File Format",
+  "linktitle" : "DAE",
   "menu" : {
     "docs" : {
       "parent" : "3d"

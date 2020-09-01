@@ -5,6 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
+  "description":"Learn about DRC file format and APIs that can open and create DRC files.",
   "title" : "DRC",
   "linktitle" : "DRC",
   "menu" : {

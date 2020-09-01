@@ -5,8 +5,9 @@
   },
   "draft" : "false",
   "toc" : true,
+  "description":"Learn about AMF file format and APIs that can open and create AMF files.",
   "title" : "AMF - Additive Manufacturing File",
-  "linktitle" : "AMF - Additive Manufacturing File",
+  "linktitle" : "AMF",
   "menu" : {
     "docs" : {
       "parent" : "3d"

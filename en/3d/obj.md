@@ -5,7 +5,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "OBJ",
+  "title" : "OBJ File Format",
+  "description":"Learn about OBJ file format and APIs that can open and create OBJ files.",
   "linktitle" : "OBJ",
   "menu" : {
     "docs" : {

@@ -5,7 +5,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "VRML",
+  "title" : "VRML File Format",
+  "description":"Learn about VRML file format and APIs that can open and create VRML files.",
   "linktitle" : "VRML",
   "menu" : {
     "docs" : {

@@ -6,13 +6,14 @@
   "draft" : "false",
   "toc" : true,
   "title" : "GLB",
+  "description":"Learn about GLB file format and APIs that can open and create GLB files.",
   "linktitle" : "GLB",
   "menu" : {
     "docs" : {
       "parent" : "3d"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod" : "2020-09-01"
 }
 
 # What is a GLB file? #

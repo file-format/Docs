@@ -5,6 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
+  "description":"Learn about JRXML file format and APIs that can open and create JRXML files.",
   "title" : "JRXML - JasperReports Layout File",
   "linktitle" : "JRXML - JasperReports Layout File",
   "menu" : {

@@ -5,6 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
+  "description":"Learn about 3DS file format and APIs that can open and create 3DS files.",
   "title" : "3DS",
   "linktitle" : "3DS",
   "menu" : {

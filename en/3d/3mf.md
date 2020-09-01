@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "3MF",
+  "description":"Learn about 3MF file format and APIs that can open and create 3MF files.",
   "linktitle" : "3MF",
   "menu" : {
     "docs" : {

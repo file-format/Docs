@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "RVM",
+  "description":"Learn about RVM file format and APIs that can open and create RVM files.",
   "linktitle" : "RVM",
   "menu" : {
     "docs" : {
