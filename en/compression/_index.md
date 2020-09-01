@@ -6,7 +6,7 @@
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "description" : "Compressed files are digital archives that store files by reducing file size. Popular compressed file formats include ZIP, 7Z, BZ2, GZ, RAR and TAR.",
-  "title" : "Compression File Formats",
+  "title" : "Learn about Compression File Formats and APIs that can open and create archive files",
   "linktitle" : "Compression File Formats",
   "menu" : {
     "docs" : {

@@ -7,7 +7,7 @@
   "draft" : "false",
   "description" : "CAD file formats are digital representation of Computer Aided Design files. Different formats are used for this purpose such as DXF, DWG, IFC, STL, PLT and others.",
   "categories" : [ "fundamentals" ],
-  "title" : "Learn about CAD File Formats and APIs that open and create CAD files",
+  "title" : "Learn about CAD File Formats and APIs that can open and create CAD files",
   "linktitle" : "CAD File Formats",
   "menu" : {
     "docs" : {

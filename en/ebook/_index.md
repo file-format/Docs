@@ -6,7 +6,7 @@
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "description" : "Ebook files are electronic files that can be opened and read on digital devices known as eReaders. Common ebook file extensions and their file formats include EPUB, FB2, and Mobi.",
-  "title" : "EBook File Formats",
+  "title" : "Learn about EBook File Formats and APIs that can open and create eBook files",
   "linktitle" : "EBook File Formats",
   "menu" : {
     "docs" : {

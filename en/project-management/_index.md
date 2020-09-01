@@ -6,7 +6,7 @@
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "description":"Project files contain a set of tasks and activities that need to be performed to complete a project. Learn about common Project file formats such as MPP, XER, MPT, and MPX.",
-  "title" : "Project Management File Formats",
+  "title" : "Learn about Project Management File Formats and APIs that can open and create Project files",
   "linktitle" : "Project Management File Formats",
   "menu" : {
     "docs" : {

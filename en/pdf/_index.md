@@ -6,7 +6,7 @@
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "description": "Portable Document Format (PDF) is a standard representation of documents independent of software, hardware, and OS. PDF standards include PDF/A, PDF/E, PDF/UA, PDF/VT and PDF/X.",
-  "title" : "PDF",
+  "title" : "Learn about PDF File Formats and APIs that can open and create PDF files",
   "linktitle" : "PDF",
   "menu" : {
     "docs" : {

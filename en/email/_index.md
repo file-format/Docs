@@ -6,7 +6,7 @@
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "description" : "Email files are digital containers that contain text, attachments, sender, and recipients' information. Common email file formats include EML, MSG, EMLX, TNEF, ICS, OFT, PST, and OST.",
-  "title" : "Email File Formats",
+  "title" : "Learn about Email File Formats and APIs that can open and create Email files",
   "linktitle" : "Email File Formats",
   "menu" : {
     "docs" : {

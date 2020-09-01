@@ -6,7 +6,7 @@
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "description" : "Note files contain free forms user data such as snaps, uploaded files, drawings, and notes. Common note-taking file formats include Microsoft OneNote's ONE and ONETOC2.",
-  "title" : "Note Taking File Formats",
+  "title" : "Learn about Note Taking File Formats and APIs that can open and create Notebook files",
   "linktitle" : "Note Taking File Formats",
   "menu" : {
     "docs" : {

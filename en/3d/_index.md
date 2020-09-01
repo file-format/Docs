@@ -5,7 +5,7 @@
     "display_name" : "Kashif Iqbal"
   },
   "draft" : "false",
-  "description" : "3D files are a digital representation of three-dimensional objects. Popular 3D file formats include  GLB, FBX, GLTF, OBJ, PLY, JT, 3DS, and other popular 3D file types.",
+  "description" : "3D files are a digital representation of three-dimensional objects. Learn to open 3D file formats including  GLB, FBX, GLTF, OBJ, PLY, JT, 3DS, and others.",
   "categories" : [ "fundamentals" ],
   "title" : "Learn about 3D File Formats and APIs that can open and create 3D files",
   "linktitle" : "3D File Formats",

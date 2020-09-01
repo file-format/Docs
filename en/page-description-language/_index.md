@@ -6,7 +6,7 @@
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "description" : "Page Description Language describes the appearance of a printed page in a higher level language. Common PDL file formats include XPS, CGM, EPS, SVG, PS, XSLFO, and PCL.",
-  "title" : "Page Description Language",
+  "title" : "Learn about Page Description Language and APIs that can open and create PDL files",
   "linktitle" : "Page Description Language",
   "menu" : {
     "docs" : {

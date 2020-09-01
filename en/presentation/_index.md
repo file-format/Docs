@@ -5,9 +5,9 @@
     "display_name" : "Kashif Iqbal"
   },
   "draft" : "false",
-  "description" : "Presentation files contain slides that include data such as text, images, shapes, animations, video, and audio. Popular presentation file formats include PPTX, PPT, PPTM and several others.",
+  "description" : "Presentation files contain slides that include data such as text, images, shapes, animations, video, and audio. Learn to open presentation file formats include PPTX, PPT, PPTM and several others.",
   "categories" : [ "fundamentals" ],
-  "title" : "PowerPoint Presentation File Formats - Learn from File Format Experts",
+  "title" : "Learn about Presentation File Formats and APIs that can open and create Presentation files",
   "linktitle" : "Presentation File Formats",
   "menu" : {
     "docs" : {

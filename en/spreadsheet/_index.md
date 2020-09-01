@@ -7,7 +7,7 @@
   "draft" : "false",
   "description" : "Spreadsheet files contain data in rows and columns and can be opened in spreadsheet applications such as Microsoft Excel. Spreadsheet file formats include XLSX, XLS, CSV, XLSB, XLSM, XLT, XLTX, and others.",
   "categories" : [ "fundamentals" ],
-  "title" : "Learn about Spreadsheet Files and APIs to open and create them.",
+  "title" : "Learn about Spreadsheet Files and APIs to open and create Spreadsheet files",
   "linktitle" : "Spreadsheet File Formats",
   "menu" : {
     "docs" : {

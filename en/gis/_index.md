@@ -5,9 +5,9 @@
     "display_name" : "Kashif Iqbal"
   },
   "draft" : "false",
-  "description" : "GIS files contain information about geographical data that includes spatial information. GIS file formats such as SHP, KML, KMZ, GeoJSON, FileGDB, and OpenStreetMap files.",
+  "description" : "GIS files contain information about geographical data that includes spatial information. GIS file formats include SHP, KML, KMZ, GeoJSON, FileGDB, and OpenStreetMap files.",
   "categories" : [ "fundamentals" ],
-  "title" : "Learn about GIS File Formats and APIs that can open and create GIS files.",
+  "title" : "Learn about GIS File Formats and APIs that can open and create GIS files",
   "linktitle" : "GIS File Formats",
   "menu" : {
     "docs" : {
