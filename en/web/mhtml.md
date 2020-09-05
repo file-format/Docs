@@ -6,7 +6,8 @@
   "draft" : "false",
   "toc" : true,
   "title" : "MHTML - MIME HTML File",
-  "linktitle" : "MHTML - MIME HTML File",
+  "description":"Learn about MHTML file format and APIs that can create and open MHTML files.",
+  "linktitle" : "MHTML",
   "menu" : {
     "docs" : {
       "parent" : "web"

@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "CMX - Corel Metafile Exchange Image",
+  "description":"Learn about CMX file format and APIs that can create and open CMX files.",
   "linktitle" : "CMX",
   "menu" : {
     "docs" : {

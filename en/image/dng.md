@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "DNG",
+  "description":"Learn about DNG file format and APIs that can create and open DNG files.",
   "linktitle" : "DNG",
   "menu" : {
     "docs" : {

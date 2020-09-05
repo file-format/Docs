@@ -6,7 +6,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to know what is an AZW3 file and APIs that can create and open them.",
+  "description":"Learn about AZW3 file format and APIs that can create and open AZW3 files.",
   "title" : "What is an AZW3 file?",
   "linktitle" : "AZW3",
   "menu" : {

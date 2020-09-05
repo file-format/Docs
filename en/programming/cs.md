@@ -6,7 +6,8 @@
   "draft" : "false",
   "toc" : true,
   "title" : "CS - CSharp Code File",
-  "linktitle" : "CS - CSharp Code File",
+  "description":"Learn about CS file format and APIs that can create and open CS files.",
+  "linktitle" : "CS",
   "menu" : {
     "docs" : {
       "parent" : "programming"

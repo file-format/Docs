@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "VSDM",
+  "description":"Learn about VSDM file format and APIs that can create and open VSDM files.",
   "linktitle" : "VSDM",
   "menu" : {
     "docs" : {
@@ -21,7 +22,7 @@ Files with VSDM extension are drawing files created with Microsoft Visio applica
 
 VSDM files are based on the Open Packaging Conventions and XML and developers can benefit from this format by learning how to work with these file programmatically. The format inherits many of the same XML structures as its parts from the Visio XML Drawing file format (.vdx). Interoperability with Visio files is greatly increased since third-party software can manipulate Visio files at a file format level.
 
-Each Visio file is termed as package that holds other files or parts. A package part can be an XML file, an image or even a VBA solution.The parts within the package can be devided into "document" and "relationship" parts. 
+Each Visio file is termed as package that holds other files or parts. A package part can be an XML file, an image or even a VBA solution.The parts within the package can be devided into "document" and "relationship" parts.
 
 ### Document ###
 

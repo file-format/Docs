@@ -6,8 +6,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to learn what is a STL file and APIs that can create and open them.",
-  "title" : "STL File Format - Learn from File Format Experts!",
+  "description" : "Learn about STL file format and APIs that can create and open STL files.",
+  "title" : "STL File Format",
   "linktitle" : "STL",
   "menu" : {
     "docs" : {

@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "ODT",
+  "description":"Learn about ODT file format and APIs that can create and open ODT files.",
   "linktitle" : "ODT",
   "menu" : {
     "docs" : {

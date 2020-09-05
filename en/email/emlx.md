@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "EMLX",
+  "description":"Learn about EMLX file format and APIs that can create and open EMLX files.",
   "linktitle" : "EMLX",
   "menu" : {
     "docs" : {

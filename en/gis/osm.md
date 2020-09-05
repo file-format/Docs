@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "OSM",
+  "description":"Learn about OSM file format and APIs that can create and open OSM files.",
   "linktitle" : "OSM",
   "menu" : {
     "docs" : {

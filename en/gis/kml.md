@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "KML",
+  "description":"Learn about KML file format and APIs that can create and open KML files.",
   "linktitle" : "KML",
   "menu" : {
     "docs" : {
@@ -40,7 +41,7 @@ In addition to these, an advanced version of KML file can have:
 * Screen Overlays
 * Network Links
 
-Each of the KML element has lat-long information that geo-locates the information present in the file. However, there can be additional parameters as well like heading, altitude and tilt. 
+Each of the KML element has lat-long information that geo-locates the information present in the file. However, there can be additional parameters as well like heading, altitude and tilt.
 
 ### PlaceMarks ###
 
@@ -51,7 +52,7 @@ It is used to represent a position on Earth's surface and is identified by the <
 <kml xmlns#"http://www.opengis.net/kml/2.2">
   <Placemark>
     <name>Simple placemark</name>
-    <description>Attached to the ground. Intelligently places itself 
+    <description>Attached to the ground. Intelligently places itself
        at the height of the underlying terrain.</description>
     <Point>
       <coordinates>-122.0822035425683,37.42228990140251,0</coordinates>
@@ -73,8 +74,8 @@ Additional information can be associated with a placemark that further enhances 
       <description>
         <![CDATA[
           <h1>CDATA Tags are useful!</h1>
-          <p><font color#"red">Text is <i>more readable</i> and 
-          <b>easier to write</b> when you can avoid using entity 
+          <p><font color#"red">Text is <i>more readable</i> and
+          <b>easier to write</b> when you can avoid using entity
           references.</font></p>
         ]]>
       </description>
@@ -88,7 +89,7 @@ Additional information can be associated with a placemark that further enhances 
 
 ### Ground Overlays ###
 
-These represent the layering of an image onto the Earth's surface. The <icon> elment contains the link to the overlay image file. 
+These represent the layering of an image onto the Earth's surface. The <icon> elment contains the link to the overlay image file.
 
 ```
 
@@ -98,7 +99,7 @@ These represent the layering of an image onto the Earth's surface. The <icon> el
     <description>Examples of ground overlays</description>
     <GroundOverlay>
       <name>Large-scale overlay on terrain</name>
-      <description>Overlay shows Mount Etna erupting 
+      <description>Overlay shows Mount Etna erupting
           on July 13th, 2001.</description>
       <Icon>
         <href>https://developers.google.com/kml/documentation/images/etna.jpg</href>
@@ -154,7 +155,7 @@ Paths are represented by <LineString> element that is a collection of lat-long p
           -112.262073428656,36.08626019085147,2357
           -112.2633204928495,36.08621519860091,2357
           -112.2644963846444,36.08627897945274,2357
-          -112.2656969554589,36.08649599090644,2357 
+          -112.2656969554589,36.08649599090644,2357
         </coordinates>
       </LineString>
     </Placemark>
@@ -164,7 +165,7 @@ Paths are represented by <LineString> element that is a collection of lat-long p
 
 ## Spatial Referencing in KML File ##
 
- Information contained in any Geospatial file about Geo-Locations can have different meanings without spatial referencing information. By default, the spatial referencing of KML file are defined by the World Geodetic System of 1984, WGS84. 
+ Information contained in any Geospatial file about Geo-Locations can have different meanings without spatial referencing information. By default, the spatial referencing of KML file are defined by the World Geodetic System of 1984, WGS84.
 
 ## References ##
 

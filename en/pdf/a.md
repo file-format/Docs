@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "PDF/A",
+  "description":"Learn about PDF/A file format and APIs that can create and open PDF/A files.",
   "linktitle" : "PDF/A",
   "menu" : {
     "docs" : {
@@ -29,7 +30,7 @@ PDF/A was accepted as ISO Standard in October 2005. Since then, it has been unde
 
 ## PDF/A-1 ##
 
-The PDF/A-1 standard was based on the original PDF 1.4 version. The PDF/A-1 standard defines two levels of conformance for PDF files. 
+The PDF/A-1 standard was based on the original PDF 1.4 version. The PDF/A-1 standard defines two levels of conformance for PDF files.
 
 ### PDF/A-1a ###
 
@@ -46,13 +47,13 @@ PDF/A-2 was released by ISO Standard in July 2011 as a new standard known as ISO
 * PDF/A-2 comes with the support of [JPEG2000](/image/jp2/) that is helpful in case of scanned documents.
 * It supports embedding of PDF/A collections that can be used to created a container PDF having other similar files
 * It supports transparency feature of PDF files in totality as compared to PDF/A-1 where it was partially supported.
-* PDF/A-2 provides the support for optional content that is useful for mapping applications and engineering drawings. These are also known as layers that can be made visible or hidden as per the requirements of viewing person. 
-* It specifies the requirements for custom XMP metadata 
+* PDF/A-2 provides the support for optional content that is useful for mapping applications and engineering drawings. These are also known as layers that can be made visible or hidden as per the requirements of viewing person.
+* It specifies the requirements for custom XMP metadata
 * Adds some of the newer comment types to the list of prohibited annotation types. In addition, some of the newer comment types such as  text editing comments were added to the list of acceptable items.
 
 ## PDF/A-3 ##
 
- PDF/A-3 includes all the conformance requirements of Level 2 and allows embedding of additional file formats (such as XML, [CSV](/spreadsheet/csv/), [CAD](/cad/), [word-processing](/word-processing/) , [spreadsheet](/spreadsheet/) and others) into the PDF/A conforming documents. 
+ PDF/A-3 includes all the conformance requirements of Level 2 and allows embedding of additional file formats (such as XML, [CSV](/spreadsheet/csv/), [CAD](/cad/), [word-processing](/word-processing/) , [spreadsheet](/spreadsheet/) and others) into the PDF/A conforming documents.
 
 ## References ##
 

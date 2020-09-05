@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "VSSM - Microsoft Visio Macro Enabled File Format",
+  "description":"Learn about VSSM file format and APIs that can create and open VSSM files.",
   "linktitle" : "VSSM",
   "menu" : {
     "docs" : {

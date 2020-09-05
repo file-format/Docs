@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "SHP",
+  "description":"Learn about SHP file format and APIs that can create and open SHP files.",
   "linktitle" : "SHP",
   "menu" : {
     "docs" : {

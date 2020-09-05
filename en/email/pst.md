@@ -6,7 +6,8 @@
   "draft" : "false",
   "toc" : true,
   "title" : "PST - Outlook Personal Information Store File",
-  "linktitle" : "PST - Outlook Personal Information Store File",
+  "description":"Learn about PST file format and APIs that can create and open PST files.",
+  "linktitle" : "PST",
   "menu" : {
     "docs" : {
       "parent" : "email"

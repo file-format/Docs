@@ -6,8 +6,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to learn what is an IGES file and APIs that can create and open them.",
-  "title" : "IGES File Format - Learn from File Format Experts!",
+  "description" : "Learn about IGES file format and APIs that can create and open IGES files.",
+  "title" : "IGES File Format",
   "linktitle" : "IGES",
   "menu" : {
     "docs" : {

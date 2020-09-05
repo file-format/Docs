@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "SWF",
+  "description":"Learn about SWF file format and APIs that can create and open SWF files.",
   "linktitle" : "SWF",
   "menu" : {
     "docs" : {

@@ -6,8 +6,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to learn what is an DXF file and APIs that can create and open them.",
-  "title" : "DXF File Format - Learn from File Format Experts!",
+  "description" : "Learn about DXF file format and APIs that can create and open DXF files.",
+  "title" : "DXF File Format",
   "linktitle" : "DXF",
   "menu" : {
     "docs" : {

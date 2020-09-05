@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "WMF",
+  "description":"Learn about WMF file format and APIs that can create and open WMF files.",
   "linktitle" : "WMF",
   "menu" : {
     "docs" : {

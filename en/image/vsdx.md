@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "VSDX",
+  "description":"Learn about VSDX file format and APIs that can create and open VSDX files.",
   "linktitle" : "VSDX",
   "menu" : {
     "docs" : {
@@ -31,7 +32,7 @@ Certain other file types that comprise the Visio 2013 file format include:
 
 Under the hood, the Visio 2013 file format uses a structured means to store application data together with related resources in an archive such as [ZIP](/compression/zip/). The ZIP file can be extracted using any standard extraction utility where it contains other types of files as well. You can just replace the .vsdx file extension with .zip in windows explore to see the contents inside the VSDX file.
 
-Each Visio file is termed as package that holds other files or parts. A package part can be an XML file, an image or even a VBA solution.The parts within the package can be devided into "document" and "relationship" parts. 
+Each Visio file is termed as package that holds other files or parts. A package part can be an XML file, an image or even a VBA solution.The parts within the package can be devided into "document" and "relationship" parts.
 
 ### Document ###
 

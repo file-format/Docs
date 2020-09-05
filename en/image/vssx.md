@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "VSSX - Visio Stencil File Format",
+  "description":"Learn about VSSX file format and APIs that can create and open VSSX files.",
   "linktitle" : "VSSX",
   "menu" : {
     "docs" : {

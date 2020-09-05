@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "MOV",
+  "description":"Learn about MOV file format and APIs that can create and open MOV files.",
   "linktitle" : "MOV",
   "menu" : {
     "docs" : {

@@ -6,7 +6,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to learn what is an PPT file and APIs that can create and open them.",
+  "description":"Learn about PPT file format and APIs that can create and open PPT files.",
   "title" : "PPT File Format - What is a PPT file?",
   "linktitle" : "PPT",
   "menu" : {

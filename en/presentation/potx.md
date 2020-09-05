@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "POTX",
+  "description":"Learn about POTX file format and APIs that can create and open POTX files.",
   "linktitle" : "POTX",
   "menu" : {
     "docs" : {

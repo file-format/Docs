@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "PDF/X",
+  "description":"Learn about PDF/X file format and APIs that can create and open PDF/X files.",
   "linktitle" : "PDF/X",
   "menu" : {
     "docs" : {

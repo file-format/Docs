@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "AVI - Audio Video Interleave File",
-  "linktitle" : "AVI - Audio Video Interleave File",
+  "linktitle" : "AVI",
   "menu" : {
     "docs" : {
       "parent" : "video"

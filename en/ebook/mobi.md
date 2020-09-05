@@ -6,7 +6,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to know what is an MOBI file and APIs that can create and open them.",
+  "description":"Learn about MOBI file format and APIs that can create and open MOBI files.",
   "title" : "What is a Mobi file?",
   "linktitle" : "MOBI",
   "menu" : {
@@ -21,7 +21,7 @@ The MOBI file format is one of the most widely used ebook file format. The forma
 
 ## Brief History ##
 
-[Amazon](https://www.amazon.com) bought the company behind MOBI file format back in 2005. It was in 2011 when support for the MOBI file format was officially discontinued. Amazon's current Kindle formats (AZW3, KF8 and KFX) are based on MOBI but have a different DRM scheme. 
+[Amazon](https://www.amazon.com) bought the company behind MOBI file format back in 2005. It was in 2011 when support for the MOBI file format was officially discontinued. Amazon's current Kindle formats (AZW3, KF8 and KFX) are based on MOBI but have a different DRM scheme.
 
 Features have been added to the format from time to time and new files may have problems if you try to read them with a down level reader. Open eBook format is the present source to be followed by source files anyways.
 

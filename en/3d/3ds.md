@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "description":"Learn about 3DS file format and APIs that can open and create 3DS files.",
-  "title" : "3DS",
+  "title" : "3DS File Format",
   "linktitle" : "3DS",
   "menu" : {
     "docs" : {
@@ -16,7 +16,7 @@
   "lastmod" : "2019-09-10"
 }
 
-A file with 3DS extension represents 3D Sudio (DOS) mesh file format used by Autodesk 3D Studio. Autodesk 3D Studio has been in 3D file format market since 1990s and has now evolved to 3D Studio MAX for working with 3D modeling, animation and rendering. A 3DS file contains data for 3D representation of scenes and images and is one of the popular file formats for 3D data import and export. It considers information like camera locations, Mesh data, lighting information, viewport configurations, smoothing group data, bitmap references and attributes to create vertices and polygons for rendering a scene.
+A file with .3ds extension represents 3D Sudio (DOS) mesh file format used by Autodesk 3D Studio. Autodesk 3D Studio has been in 3D file format market since 1990s and has now evolved to 3D Studio MAX for working with 3D modeling, animation and rendering. A 3DS file contains data for 3D representation of scenes and images and is one of the popular file formats for 3D data import and export. It considers information like camera locations, Mesh data, lighting information, viewport configurations, smoothing group data, bitmap references and attributes to create vertices and polygons for rendering a scene.
 
 # What is 3DS file? #
 

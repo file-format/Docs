@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "What is DGN file? Learn from File Format Experts!",
-  "description" : "What is DGN file? DGN file format.",
+  "description" : "Learn about DGN file format and APIs that can create and open DGN files.",
   "linktitle" : "DGN",
   "menu" : {
     "docs" : {

@@ -6,8 +6,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to learn what is an DWFX file and APIs that can create and open them.",
-  "title" : "DWFX File Format - Learn from File Format Experts!",
+  "description" : "Learn about DWFX file format and APIs that can create and open DWFX files.",
+  "title" : "DWFX File Format",
   "linktitle" : "DWFX",
   "menu" : {
     "docs" : {
@@ -19,4 +19,4 @@
 
 # What is a DWFX file? #
 
-A DWFX (Design Web Format XPS) is a a formatted representation of 2D/3D drawing as XPS document. It contains graphcis and text as part of design data.
+A DWFX (Design Web Format XPS) is a a formatted representation of 2D/3D drawing as XPS document. It contains graphics and text as part of design data.

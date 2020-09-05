@@ -6,7 +6,8 @@
   "draft" : "false",
   "toc" : true,
   "title" : "ONE - Microsoft OneNote File Format",
-  "linktitle" : "ONE - Microsoft OneNote File Format",
+  "description":"Learn about ONE file format and APIs that can create and open ONE files.",
+  "linktitle" : "ONE",
   "menu" : {
     "docs" : {
       "parent" : "note-taking"

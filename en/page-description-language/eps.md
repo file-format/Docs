@@ -6,7 +6,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to know what is an EPS file and APIs that can create and open them.",
+  "description":"Learn about EPS file format and APIs that can create and open EPS files.",
   "title" : "What is an EPS file?",
   "linktitle" : "EPS",
   "menu" : {

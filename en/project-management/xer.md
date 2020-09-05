@@ -6,7 +6,8 @@
   "draft" : "false",
   "toc" : true,
   "title" : "XER - Primavera P6 Project",
-  "linktitle" : "XER - Primavera P6 Project",
+  "description":"Learn about XER file format and APIs that can create and open XER files.",
+  "linktitle" : "XER",
   "menu" : {
     "docs" : {
       "parent" : "project-management"
@@ -20,5 +21,3 @@ The XER file format is a proprietary project file format used by Primavera P6 pr
 ## XER File Format ##
 
 An XER file is a text file and can be opened with a text editor. Though project related data can be viewed by opening it in text editor, it is hard for one to understand it by manually establishing the links. The format offers low level of data control that is being imported from other formats. It the most used format to exchange data with other P6 databases. Certain advantages that XER have on equivalent XML format include the ability to move global codes and calendars to project level and map codes, UDFs, resources and calendars to existing values.
-
- 

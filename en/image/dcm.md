@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "DCM",
+  "description":"Learn about DCM file format and APIs that can create and open DCM files.",
   "linktitle" : "DCM",
   "menu" : {
     "docs" : {

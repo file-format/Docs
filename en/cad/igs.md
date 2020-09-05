@@ -6,8 +6,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to learn what is an IGS file and APIs that can create and open them.",
-  "title" : "IGS File Format - Learn from File Format Experts!",
+  "description" : "Learn about IGS file format and APIs that can create and open IGS files.",
+  "title" : "IGS File Format",
   "linktitle" : "IGS",
   "menu" : {
     "docs" : {

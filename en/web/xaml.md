@@ -6,7 +6,8 @@
   "draft" : "false",
   "toc" : true,
   "title" : "XAML - XML Based Markup Language",
-  "linktitle" : "XAML - XML Based Markup Language",
+  "description":"Learn about XAML file format and APIs that can create and open XAML files.",
+  "linktitle" : "XAML ",
   "menu" : {
     "docs" : {
       "parent" : "web"
@@ -36,7 +37,7 @@ XAML is totally based on the XML format. The initial specifications of [XAML Obj
 * XAML Schema Information Set Model
 * XAML Information Set Model
 
-The Xaml Information Set ('Xaml Infoset' for short) defines the structure of information that a Xaml instance can represent. The Xaml Schema Information Set allows specific Xaml vocabularies to be defined. This specification also defines a set of rules for transforming an XML document into a Xaml Information Set. XML is a common format for Xaml. (The term "Xaml Document" refers to an XML document that represents a Xaml Information Set.) But while this specification does not define any other representations, any physical representation may be used as long as it can represent the information in the Xaml Information Set. 
+The Xaml Information Set ('Xaml Infoset' for short) defines the structure of information that a Xaml instance can represent. The Xaml Schema Information Set allows specific Xaml vocabularies to be defined. This specification also defines a set of rules for transforming an XML document into a Xaml Information Set. XML is a common format for Xaml. (The term "Xaml Document" refers to an XML document that represents a Xaml Information Set.) But while this specification does not define any other representations, any physical representation may be used as long as it can represent the information in the Xaml Information Set.
 
 ## References ##
 

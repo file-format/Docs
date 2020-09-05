@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "XSLFO",
+  "description":"Learn about XSLFO file format and APIs that can create and open XSLFO files.",
   "linktitle" : "XSLFO",
   "menu" : {
     "docs" : {

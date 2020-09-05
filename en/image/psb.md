@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "PSB",
+  "description":"Learn about PSB file format and APIs that can create and open PSB files.",
   "linktitle" : "PSB",
   "menu" : {
     "docs" : {

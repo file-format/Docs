@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "PDF/VT",
+  "description":"Learn about PDF/VT file format and APIs that can create and open PDF/VT files.",
   "linktitle" : "PDF/VT",
   "menu" : {
     "docs" : {

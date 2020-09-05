@@ -6,8 +6,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to learn what is a PLT file and APIs that can create and open them.",
-  "title" : "PLT File Format - Learn from File Format Experts!",
+  "description" : "Learn about PLT file format and APIs that can create and open PLT files.",
+  "title" : "PLT File Format",
   "linktitle" : "PLT",
   "menu" : {
     "docs" : {

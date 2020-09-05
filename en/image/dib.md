@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "DIB",
+  "description":"Learn about DIB file format and APIs that can create and open DIB files.",
   "linktitle" : "DIB",
   "menu" : {
     "docs" : {

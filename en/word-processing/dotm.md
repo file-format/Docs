@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "DOTM",
+  "description":"Learn about DOTM file format and APIs that can create and open DOTM files.",
   "linktitle" : "DOTM",
   "menu" : {
     "docs" : {
@@ -28,5 +29,5 @@ The DOTM file format follows the same DOCX structure based on Office OpenXML fil
 
 ## References ##
 
-* [[MS-DOCX] - .Docx File Format](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx) 
+* [[MS-DOCX] - .Docx File Format](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx)
 * [Office Open XML](http://officeopenxml.com/)

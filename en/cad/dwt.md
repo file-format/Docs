@@ -6,15 +6,15 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to learn what is an DWG file and APIs that can create and open them.",
-  "title" : "DWT File Format - Learn from File Format Experts!",
+  "description" : "Learn about DWT file format and APIs that can create and open DWT files.",
+  "title" : "DWT File Format",
   "linktitle" : "DWT",
   "menu" : {
     "docs" : {
       "parent" : "cad"
     }
   },
-  "lastmod" : "2020-01-11"
+  "lastmod" : "2020-09-04"
 }
 
 A DWT file is an [AutoCAD](https://www.autodesk.com/) drawing template file that is used as starter for creating drawings that can be saved as [DWG](/cad/dwg/) files. Such template files provide initial settings such as unit types, precision required, title blocks, layer names, line types and other similar information for lateral conversion to proper drawing files. Both AutoCAD and CoreCAD can be used to read the template files and utilize them further. In simple words, a DWT is a DWG with pre-defined read-only attributes in the same way as a MSWord [DOT](/word-processing/dot/) file is to a [DOC](/word-processing/doc/) file.

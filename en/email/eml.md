@@ -6,7 +6,8 @@
   "draft" : "false",
   "toc" : true,
   "title" : "EML - EMail Message",
-  "linktitle" : "EML - EMail Message",
+  "description":"Learn about EML file format and APIs that can create and open EML files.",
+  "linktitle" : "EML",
   "menu" : {
     "docs" : {
       "parent" : "email"

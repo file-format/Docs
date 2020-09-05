@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "PSD",
+  "description":"Learn about PSD file format and APIs that can create and open PSD files.",
   "linktitle" : "PSD",
   "menu" : {
     "docs" : {

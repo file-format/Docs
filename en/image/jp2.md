@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "JP2 - Image File Format",
+  "description":"Learn about JP2 file format and APIs that can create and open JP2 files.",
   "linktitle" : "JP2",
   "menu" : {
     "docs" : {

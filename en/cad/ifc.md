@@ -6,8 +6,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to learn what is an IFC file and APIs that can create and open them.",
-  "title" : "IFC File Format - Learn from File Format Experts",
+  "description" : "Learn about IFC file format and APIs that can create and open IFC files.",
+  "title" : "IFC File Format",
   "linktitle" : "IFC",
   "menu" : {
     "docs" : {

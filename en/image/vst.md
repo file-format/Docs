@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "VST",
+  "description":"Learn about VST file format and APIs that can create and open VST files.",
   "linktitle" : "VST",
   "menu" : {
     "docs" : {
@@ -27,6 +28,4 @@ Certain other file types that comprise the Visio 2013 file format include:
 
 ## References ##
 
-* [Introduction to Visio File Format](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx) 
-
- 
+* [Introduction to Visio File Format](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)

@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "EMF",
+  "description":"Learn about EMF file format and APIs that can create and open EMF files.",
   "linktitle" : "EMF",
   "menu" : {
     "docs" : {

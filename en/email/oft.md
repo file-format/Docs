@@ -6,7 +6,8 @@
   "draft" : "false",
   "toc" : true,
   "title" : "OFT - Microsoft Outlook Email Template",
-  "linktitle" : "OFT - Microsoft Outlook Email Template",
+  "description":"Learn about OFT file format and APIs that can create and open OFT files.",
+  "linktitle" : "OFT",
   "menu" : {
     "docs" : {
       "parent" : "email"

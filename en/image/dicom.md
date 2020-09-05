@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "DICOM",
+  "description":"Learn about DICOM file format and APIs that can create and open DICOM files.",
   "linktitle" : "DICOM",
   "menu" : {
     "docs" : {

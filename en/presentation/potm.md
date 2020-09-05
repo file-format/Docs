@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "POTM",
+  "description":"Learn about POTM file format and APIs that can create and open POTM files.",
   "linktitle" : "POTM",
   "menu" : {
     "docs" : {

@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "EXIF",
+  "description":"Learn about EXIF file format and APIs that can create and open EXIF files.",
   "linktitle" : "EXIF",
   "menu" : {
     "docs" : {

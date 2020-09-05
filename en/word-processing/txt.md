@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "TXT",
+  "description":"Learn about TXT file format and APIs that can create and open TXT files.",
   "linktitle" : "TXT",
   "menu" : {
     "docs" : {
@@ -15,7 +16,7 @@
   "lastmod" : "2019-09-10"
 }
 
-A file with .TXT extension represents a text document that contains plain text in the form of lines. Paragraphs in a text document are recognized by carriage returns and are used for better arrangement of file contents. A standard text document can be opened in any text editor or word processing application on different operating systems. All the text contained in such a file is in human-readable format and represented by sequence of characters. 
+A file with .TXT extension represents a text document that contains plain text in the form of lines. Paragraphs in a text document are recognized by carriage returns and are used for better arrangement of file contents. A standard text document can be opened in any text editor or word processing application on different operating systems. All the text contained in such a file is in human-readable format and represented by sequence of characters.
 
 Text files can store large amount of data as there is no limitation on the size of contents. However, text editors opening such large files need to be smart for loading and displaying these. Almost all operating systems come with text editors that allow you to create and edit text files. For example, Windows OS comes with Notepad and Wordpad for this purpose. Similarly, MacOS comes with TextEdit for creating and editing Text Documents. There are, however, other free text editors available as well over the internet that provide you the capability to work with Text Documents like Notepad++ which is far more advanced in terms of functionality.
 
@@ -29,7 +30,7 @@ Text files on Windows OS consists of several lines where each line is made up of
 
 ### Unix Text File Format ###
 
-All such systems fine a text file as a file whose characters are organized into zero or more lines. Each line is a sequence of zero or more non-newline characters and a terminating newline character, normally LF. 
+All such systems fine a text file as a file whose characters are organized into zero or more lines. Each line is a sequence of zero or more non-newline characters and a terminating newline character, normally LF.
 
 ## References ##
 

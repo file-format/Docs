@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "GPX",
+  "description":"Learn about GPX file format and APIs that can create and open GPX files.",
   "linktitle" : "GPX",
   "menu" : {
     "docs" : {
@@ -17,7 +18,7 @@
 
 # What is a GPX file? #
 
-Files with GPX extension represent GPS Exchange format for interchange of GPS data between applications and web services on the internet. It is a light-weight XML file format that contains GPS data i.e. waypoints, routes and tracks to be imported and red by multiple programs. GPX file format is open and is supported by variety of applications and GPS devices. GPS data from such files can be loaded for display on mapping applications for geo-spatial purposes. 
+Files with GPX extension represent GPS Exchange format for interchange of GPS data between applications and web services on the internet. It is a light-weight XML file format that contains GPS data i.e. waypoints, routes and tracks to be imported and red by multiple programs. GPX file format is open and is supported by variety of applications and GPS devices. GPS data from such files can be loaded for display on mapping applications for geo-spatial purposes.
 
 ## GPX File Format ##
 
@@ -36,7 +37,7 @@ Following is essential data that is part of a GPX file for representation of GPS
 
 * **Waypoints**:  A waypoint is a WGS84 (GPS) coordinates of a point and represent layer of features of OGR type wkbPoint
 * **Routes**: Represent a layer of features of OGR type wkbLineString. It includes a list of track points, which are waypoints showing a turn or stage points which lead to a destination
-* **Tracks**: Tracks represent layer of features of OGR type wkbMultiLineString. It is made of at least one segment containing waypoints in an ordered list of points describing a path. It consists of a list of track points which represent a continuous GPS track. 
+* **Tracks**: Tracks represent layer of features of OGR type wkbMultiLineString. It is made of at least one segment containing waypoints in an ordered list of points describing a path. It consists of a list of track points which represent a continuous GPS track.
 
 ### GPX Example File ###
 

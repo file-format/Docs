@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "VDW - Visio Graphics Service File Format",
+  "description":"Learn about VDW file format and APIs that can create and open VDW files.",
   "linktitle" : "VDW",
   "menu" : {
     "docs" : {

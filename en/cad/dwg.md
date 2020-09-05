@@ -6,8 +6,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to learn what is an DWG file and APIs that can create and open them.",
-  "title" : "DWG File Format - Learn from File Format Experts!",
+  "description" : "Learn about DWG file format and APIs that can create and open DWG files.",
+  "title" : "DWG File Format",
   "linktitle" : "DWG",
   "menu" : {
     "docs" : {

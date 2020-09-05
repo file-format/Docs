@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "OTG",
+  "description":"Learn about OTG file format and APIs that can create and open OTG files.",
   "linktitle" : "OTG",
   "menu" : {
     "docs" : {

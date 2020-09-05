@@ -6,7 +6,8 @@
   "draft" : "false",
   "toc" : true,
   "title" : "MBOX - Email Mailbox File",
-  "linktitle" : "MBOX - Email Mailbox File",
+  "description":"Learn about MBOX file format and APIs that can create and open MBOX files.",
+  "linktitle" : "MBOX",
   "menu" : {
     "docs" : {
       "parent" : "email"

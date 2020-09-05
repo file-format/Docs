@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "GIF - Image File Format",
+  "description":"Learn about GIF file format and APIs that can create and open GIF files.",
   "linktitle" : "GIF",
   "menu" : {
     "docs" : {

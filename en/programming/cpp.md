@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "CPP",
+  "description":"Learn about CPP file format and APIs that can create and open CPP files.",
   "linktitle" : "CPP",
   "menu" : {
     "docs" : {

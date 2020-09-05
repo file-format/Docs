@@ -6,7 +6,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to learn what is an HPGL file and APIs that can create and open them.",
+  "description" : "Learn about HPGL file format and APIs that can create and open HPGL files.",
   "title" : "HPGL File Format - Learn from File Format Experts!",
   "linktitle" : "HPGL",
   "menu" : {

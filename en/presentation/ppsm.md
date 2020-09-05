@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "PPSM",
+  "description":"Learn about PPSM file format and APIs that can create and open PPSM files.",
   "linktitle" : "PPSM",
   "menu" : {
     "docs" : {

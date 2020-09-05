@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "WMV",
+  "description":"Learn about WMV file format and APIs that can create and open WMV files.",
   "linktitle" : "WMV",
   "menu" : {
     "docs" : {

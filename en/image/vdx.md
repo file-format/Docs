@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "VDX",
+  "description":"Learn about VDX file format and APIs that can create and open VDX files.",
   "linktitle" : "VDX",
   "menu" : {
     "docs" : {

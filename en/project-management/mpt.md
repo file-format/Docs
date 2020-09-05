@@ -6,7 +6,8 @@
   "draft" : "false",
   "toc" : true,
   "title" : "MPT - Microsoft Project Template",
-  "linktitle" : "MPT - Microsoft Project Template",
+  "description":"Learn about MPT file format and APIs that can create and open MPT files.",
+  "linktitle" : "MPT",
   "menu" : {
     "docs" : {
       "parent" : "project-management"

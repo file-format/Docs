@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "DOCX",
+  "description":"Learn about DOCX file format and APIs that can create and open DOCX files.",
   "linktitle" : "DOCX",
   "menu" : {
     "docs" : {

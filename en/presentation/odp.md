@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "ODP",
+  "description":"Learn about PDF/A file format and APIs that can create and open PDF/A files.",
   "linktitle" : "ODP",
   "menu" : {
     "docs" : {

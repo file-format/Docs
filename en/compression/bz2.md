@@ -6,13 +6,14 @@
   "draft" : "false",
   "toc" : true,
   "title" : "BZ2 - Compressed File Format",
+  "description":"Learn about BZ2 file format and APIs that can create and open BZ2 files.",
   "linktitle" : "BZ2 - Compressed File Format",
   "menu" : {
     "docs" : {
       "parent" : "compression"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod" : "2020-09-05"
 }
 
 BZ2 are compressed files generated using the [BZIP2](http://www.bzip.org/) open source compression method, mostly on UNIX or Linux system. It is used for compression of a single file and is not meant for archiving of multiple files. This is in contrast to the TAR file format on the same platforms that archives multiple files into a single file but without compression. Files compressed as BZ2 can be decompressed with applications like [WinZip](https://www.winzip.com/win/en/). BZIP2 uses Run-Length Encoding (RLE) or [Burrows-Wheeler](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform) compression algorithm to achieve high levels of compression.

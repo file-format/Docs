@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "KMZ",
+  "description":"Learn about KMZ file format and APIs that can create and open KMZ files.",
   "linktitle" : "KMZ",
   "menu" : {
     "docs" : {

@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "TNEF",
+  "description":"Learn about TNEF file format and APIs that can create and open TNEF files.",
   "linktitle" : "TNEF",
   "menu" : {
     "docs" : {

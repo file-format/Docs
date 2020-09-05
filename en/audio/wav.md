@@ -6,7 +6,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to know what is a WAV file and APIs that can create and open them.",
+  "description" : "Learn about WAV file format and APIs that can create and open WAV files.",
   "title" : "What is a WAV file?",
   "linktitle" : "WAV",
   "menu" : {

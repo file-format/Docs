@@ -6,7 +6,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to know what is a PPTX file and APIs that can create and open them.",
+  "description":"Learn about PPTX file format and APIs that can create and open PPTX files.",
   "title" : "PPTX File Format - What is a PPTX file?",
   "linktitle" : "PPTX",
   "menu" : {

@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "VSTX - Microsoft Visio File Format",
+  "description":"Learn about VSTX file format and APIs that can create and open VSTX files.",
   "linktitle" : "VSTX",
   "menu" : {
     "docs" : {

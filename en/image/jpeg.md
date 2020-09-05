@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "JPEG - Image File Format",
+  "description":"Learn about JPEG file format and APIs that can create and open JPEG files.",
   "linktitle" : "JPEG",
   "menu" : {
     "docs" : {

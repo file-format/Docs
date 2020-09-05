@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "MPX",
+  "description":"Learn about MPX file format and APIs that can create and open MPX files.",
   "linktitle" : "MPX",
   "menu" : {
     "docs" : {

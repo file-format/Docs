@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "CGM",
+  "description":"Learn about CGM file format and APIs that can create and open CGM files.",
   "linktitle" : "CGM",
   "menu" : {
     "docs" : {

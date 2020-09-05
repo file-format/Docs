@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "PS",
+  "description":"Learn about PS file format and APIs that can create and open PS files.",
   "linktitle" : "PS",
   "menu" : {
     "docs" : {

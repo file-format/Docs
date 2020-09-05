@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "GeoJSON",
+  "description":"Learn about GeoJSON file format and APIs that can create and open GeoJSON files.",
   "linktitle" : "GeoJSON",
   "menu" : {
     "docs" : {

@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "CDR",
+  "description":"Learn about CDR file format and APIs that can create and open CDR files.",
   "linktitle" : "CDR",
   "menu" : {
     "docs" : {

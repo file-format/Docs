@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "MD",
+  "description":"Learn about MD file format and APIs that can create and open MD files.",
   "linktitle" : "MD",
   "menu" : {
     "docs" : {

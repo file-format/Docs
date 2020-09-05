@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "PDF/E",
+  "description":"Learn about PDF/E file format and APIs that can create and open PDF/E files.",
   "linktitle" : "PDF/E",
   "menu" : {
     "docs" : {
@@ -17,7 +18,7 @@
 
 # What is PDF/E? #
 
-The "E" in PDF/E stands for Engineering. PDF/E was published as ISO 24517 in 2008 as a standard for creating PDF based Engineering documents to be used in a variety of application areas. Key areas making use of PDF/E file format include geospatial, construction and manufacturing workflows. The PDF/E standard provides a mechanism for the exchange and archiving of engineering documents based on the PDF format. PDF/E comes with the support of interactive media, including animations and 3D engineering model data. 
+The "E" in PDF/E stands for Engineering. PDF/E was published as ISO 24517 in 2008 as a standard for creating PDF based Engineering documents to be used in a variety of application areas. Key areas making use of PDF/E file format include geospatial, construction and manufacturing workflows. The PDF/E standard provides a mechanism for the exchange and archiving of engineering documents based on the PDF format. PDF/E comes with the support of interactive media, including animations and 3D engineering model data.
 
 ## Brief History ##
 

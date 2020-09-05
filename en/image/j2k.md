@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "J2K",
+  "description":"Learn about J2K file format and APIs that can create and open J2K files.",
   "linktitle" : "J2K",
   "menu" : {
     "docs" : {

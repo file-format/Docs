@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "WEBP",
+  "description":"Learn about WEBP file format and APIs that can create and open WEBP files.",
   "linktitle" : "WEBP",
   "menu" : {
     "docs" : {

@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "GML",
+  "description":"Learn about GML file format and APIs that can create and open GML files.",
   "linktitle" : "GML",
   "menu" : {
     "docs" : {
@@ -32,7 +33,7 @@ GML represents spatial data using features which is a list of properties and geo
 * points
 * lines
 * curves
-* sufraces and 
+* sufraces and
 * polygons
 
 The future versions of GML are planned to support 3D geometry as well as topological relationships between features.

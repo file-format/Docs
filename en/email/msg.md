@@ -6,7 +6,8 @@
   "draft" : "false",
   "toc" : true,
   "title" : "MSG - Microsoft Outlook Email Format",
-  "linktitle" : "MSG - Microsoft Outlook Email Format",
+  "description":"Learn about MSG file format and APIs that can create and open MSG files.",
+  "linktitle" : "MSG",
   "menu" : {
     "docs" : {
       "parent" : "email"

@@ -6,8 +6,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to learn what is an DWF file and APIs that can create and open them.",
-  "title" : "DWF File Format - Learn from File Format Experts!",
+  "description" : "Learn about DWF file format and APIs that can create and open DWF files.",
+  "title" : "DWF File Format",
   "linktitle" : "DWF",
   "menu" : {
     "docs" : {

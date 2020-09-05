@@ -6,7 +6,8 @@
   "draft" : "false",
   "toc" : true,
   "title" : "XPS - Page Layout File Format",
-  "linktitle" : "XPS - Page Layout File Format",
+  "description":"Learn about XPS file format and APIs that can create and open XPS files.",
+  "linktitle" : "XPS",
   "menu" : {
     "docs" : {
       "parent" : "page-description-language"

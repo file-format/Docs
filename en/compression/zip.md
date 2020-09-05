@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "ZIP",
+  "description":"Learn about ZIP file format and APIs that can create and open ZIP files.",
   "linktitle" : "ZIP",
   "menu" : {
     "docs" : {

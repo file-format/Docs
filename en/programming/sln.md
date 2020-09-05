@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "SLN",
+  "description":"Learn about SLN file format and APIs that can create and open SLN files.",
   "linktitle" : "SLN",
   "menu" : {
     "docs" : {

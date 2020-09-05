@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "VSX",
+  "description":"Learn about VSX file format and APIs that can create and open VSX files.",
   "linktitle" : "VSX",
   "menu" : {
     "docs" : {

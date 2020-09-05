@@ -6,6 +6,7 @@
   "draft" : "true",
   "toc" : true,
   "title" : "",
+  "description":"Learn about EPS file format and APIs that can create and open EPS files.",
   "linktitle" : "",
   "menu" : {
     "docs" : {
@@ -14,4 +15,3 @@
   },
   "lastmod" : "2019-09-10"
 }
-

@@ -6,7 +6,8 @@
   "draft" : "false",
   "toc" : true,
   "title" : "VB - Visual Basic Code File",
-  "linktitle" : "VB - Visual Basic Code File",
+  "description":"Learn about VB file format and APIs that can create and open VB files.",
+  "linktitle" : "VB",
   "menu" : {
     "docs" : {
       "parent" : "programming"

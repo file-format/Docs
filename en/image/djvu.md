@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "DJVU",
+  "description":"Learn about DJVU file format and APIs that can create and open DJVU files.",
   "linktitle" : "DJVU",
   "menu" : {
     "docs" : {

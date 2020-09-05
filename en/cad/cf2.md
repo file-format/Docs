@@ -6,8 +6,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to learn what is an CF2 file and APIs that can create and open them.",
-  "title" : "CF2 File Format - Learn from File Format Experts!",
+  "description" : "Learn about CF2 file format and APIs that can create and open CF2 files.",
+  "title" : "CF2 File Format",
   "linktitle" : "CF2",
   "menu" : {
     "docs" : {
@@ -18,4 +18,4 @@
 }
 
 # What is a CF2 file? #
-A CF2 (Common File Format 2) file contains 3D package designs or other model data. 
+A CF2 (Common File Format 2) file contains 3D package designs or other model data.

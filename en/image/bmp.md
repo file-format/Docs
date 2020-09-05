@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "BMP - Image File Format",
+  "description":"Learn about BMP file format and APIs that can create and open BMP files.",
   "linktitle" : "BMP",
   "menu" : {
     "docs" : {

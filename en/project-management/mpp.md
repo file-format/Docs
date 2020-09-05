@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "MPP",
+  "description":"Learn about MPP file format and APIs that can create and open MPP files.",
   "linktitle" : "MPP",
   "menu" : {
     "docs" : {

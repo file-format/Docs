@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "TEX",
+  "description":"Learn about TEX file format and APIs that can create and open TEX files.",
   "linktitle" : "TEX",
   "menu" : {
     "docs" : {
@@ -33,7 +34,7 @@ An Input file to TEX can be prepared with a text editor using ordinary text. Unl
 
 ## Typesetting System ##
 
-About 300 primitives (commands) can be understand by the base TeX system. Primitives are low-level commands, therefore a common user rarely used them directly and most functionality is performed by format files. These format file are preloaded memory images of TeX which are followed by the loading of large macro collections. The original default format of the language i.e plain TeX adds about 600 commands. A backslash grouped with curly braces denotes the starting of TeX commands. Since TeX is a macro and token based language, almost all of TeX's syntactic characteristic can be changed at run time, including user-defined ones except unexpandable tokens which are then executed. Expansion itself is practically trouble free. Some commands need to come after an arguments that help to explain the function of a command. For instance, the \vskip command directs TEX to skip down/up the page followed by an argument determining how much space to skip. 
+About 300 primitives (commands) can be understand by the base TeX system. Primitives are low-level commands, therefore a common user rarely used them directly and most functionality is performed by format files. These format file are preloaded memory images of TeX which are followed by the loading of large macro collections. The original default format of the language i.e plain TeX adds about 600 commands. A backslash grouped with curly braces denotes the starting of TeX commands. Since TeX is a macro and token based language, almost all of TeX's syntactic characteristic can be changed at run time, including user-defined ones except unexpandable tokens which are then executed. Expansion itself is practically trouble free. Some commands need to come after an arguments that help to explain the function of a command. For instance, the \vskip command directs TEX to skip down/up the page followed by an argument determining how much space to skip.
 
 ## Versions ##
 

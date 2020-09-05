@@ -6,7 +6,8 @@
   "draft" : "false",
   "toc" : true,
   "title" : "OST - Outlook Storage File Format",
-  "linktitle" : "OST - Outlook Storage File Format",
+  "description":"Learn about OST file format and APIs that can create and open OST files.",
+  "linktitle" : "OST",
   "menu" : {
     "docs" : {
       "parent" : "email"

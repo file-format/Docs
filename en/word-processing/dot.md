@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "DOT",
+  "description":"Learn about DOT file format and APIs that can create and open DOT files.",
   "linktitle" : "DOT",
   "menu" : {
     "docs" : {

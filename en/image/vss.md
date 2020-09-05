@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "VSS - Microsoft Visio Stencil File Format",
+  "description":"Learn about VSS file format and APIs that can create and open VSS files.",
   "linktitle" : "VSS",
   "menu" : {
     "docs" : {

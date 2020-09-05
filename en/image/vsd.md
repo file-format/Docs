@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "VSD - Visio Drawing File Format",
+  "description":"Learn about VSD file format and APIs that can create and open VSD files.",
   "linktitle" : "VSD",
   "menu" : {
     "docs" : {

@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "ICO - Image File Format",
+  "description":"Learn about ICO file format and APIs that can create and open ICO files.",
   "linktitle" : "ICO",
   "menu" : {
     "docs" : {

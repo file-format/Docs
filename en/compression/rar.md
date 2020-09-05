@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "RAR",
+  "description":"Learn about RAR file format and APIs that can create and open RAR files.",
   "linktitle" : "RAR",
   "menu" : {
     "docs" : {
@@ -17,7 +18,7 @@
 
 # What is a RAR file? #
 
-Files with RAR extension represent archive files that are created for storing information in compressed or normal form. RAR, Roshal ARchive file format, is a proprietary file format created by Eugene Roshal in 1995 who was a Russian software engineer. The format is used to archive files with different methods including various compression techniques. There are several application software available for Windows, Linux and MacOS for extraction of RAR files. WinRAR software, by RARLab, is the shareware file archiving utility (free for 40 days) for Microsoft Windows platform; the software was ported to Linux (only as extractor) by the same Author, Eugene Roshal.
+Files with .rar extension represent archive files that are created for storing information in compressed or normal form. RAR, Roshal ARchive file format, is a proprietary file format created by Eugene Roshal in 1995 who was a Russian software engineer. The format is used to archive files with different methods including various compression techniques. There are several application software available for Windows, Linux and MacOS for extraction of RAR files. WinRAR software, by RARLab, is the shareware file archiving utility (free for 40 days) for Microsoft Windows platform; the software was ported to Linux (only as extractor) by the same Author, Eugene Roshal.
 
 ## Versions History ##
 

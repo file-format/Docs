@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "XML",
+  "description":"Learn about XML file format and APIs that can create and open XML files.",
   "linktitle" : "XML",
   "menu" : {
     "docs" : {

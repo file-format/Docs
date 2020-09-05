@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "CSPROJ",
+  "description":"Learn about CSPROJ file format and APIs that can create and open CSPROJ files.",
   "linktitle" : "CSPROJ",
   "menu" : {
     "docs" : {

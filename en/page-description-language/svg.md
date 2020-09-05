@@ -6,7 +6,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to know what is an SVG file and APIs that can create and open them.",
+  "description":"Learn about SVG file format and APIs that can create and open SVG files.",
   "title" : "What is an SVG file?",
   "linktitle" : "SVG",
   "menu" : {

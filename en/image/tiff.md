@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "TIFF - Image File Format",
+  "description":"Learn about TIFF file format and APIs that can create and open TIFF files.",
   "linktitle" : "TIFF",
   "menu" : {
     "docs" : {

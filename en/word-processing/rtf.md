@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "RTF",
+  "description":"Learn about RTF file format and APIs that can create and open RTF files.",
   "linktitle" : "RTF",
   "menu" : {
     "docs" : {

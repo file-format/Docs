@@ -6,7 +6,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to know what is an KFX file and APIs that can create and open them.",
+  "description":"Learn about KFX file format and APIs that can create and open KFX files.",
   "title" : "What is a KFX file?",
   "linktitle" : "KFX",
   "menu" : {
@@ -21,7 +21,7 @@ A KFX file is an eBook that is created in the Amazon Kindle File Format 10 (KF10
 
 ## KFX File Format ##
 
-KFX is a complex format as it combines several different features of Kindle File Formats, yet the internal details about its file structure are not known. Amazon has added its DRM scheme to protect digital rights and save the KFX format from anti-piracy. 
+KFX is a complex format as it combines several different features of Kindle File Formats, yet the internal details about its file structure are not known. Amazon has added its DRM scheme to protect digital rights and save the KFX format from anti-piracy.
 
 ## References ##
 

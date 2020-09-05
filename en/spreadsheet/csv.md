@@ -6,7 +6,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to know what is a CSV file and APIs that can create and read them.",
+  "description":"Learn about CSV file format and APIs that can create and open CSV files.",
   "title" : "What is a CSV file?",
   "linktitle" : "CSV",
   "menu" : {

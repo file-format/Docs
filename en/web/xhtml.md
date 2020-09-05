@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "XHTML",
+  "description":"Learn about XHTML file format and APIs that can create and open XHTML files.",
   "linktitle" : "XHTML",
   "menu" : {
     "docs" : {
