@@ -21,7 +21,7 @@ A file with .edb file extension is mailbox database created by Microsoft Exchang
 
 ## EDB File Format
 
-There is no official/open EDB file format specifications available that can be referenced. Some progress has been made for reverse engineering the file format, resulting in partial specifications decoding<sup>1</sup>. As per these, an EDB file consists of:
+There is no official/open EDB file format specifications available that can be referenced. Some progress has been made for reverse engineering the file format, resulting in partial specifications decoding. As per these, an EDB file consists of:
  * File Header - Contains database file header information
  * Fixed Size Pages - Contains the database which consits of tables and indexes
 
@@ -79,4 +79,4 @@ Based on these, the state of the database can be assessed as follow.
 
 
 ## References
- * [1 - Extensible Storage Engine (ESE) Database File (EDB) Specifications](https://github.com/libyal/libesedb/tree/master/documentation)
+ * [Extensible Storage Engine (ESE) Database File (EDB) Specifications](https://github.com/libyal/libesedb/tree/master/documentation)
