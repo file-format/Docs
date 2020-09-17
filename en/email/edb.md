@@ -17,7 +17,7 @@
 }
 
 # What is an EDB file? #
-A file with .edb file extension is mailbox database created by Microsoft Exchange Server to store mail-related data. EDB, Exchange Database, stores messages that are in-process and non-SMTP. EDB are also known as Extensible Storage Engine (ESE) Database files and store files using b-tree structure. Being storage files, EDB files can be converted into other mail storage file formats such as [PST](/email/pst/) and [OST]()/email/ost/).
+A file with .edb file extension is mailbox database created by Microsoft Exchange Server to store mail-related data. EDB, Exchange Database, stores messages that are in-process and non-SMTP. EDB are also known as Extensible Storage Engine (ESE) Database files and store files using b-tree structure. Being storage files, EDB files can be converted into other mail storage file formats such as [PST](/email/pst/) and [OST](/email/ost/).
 
 ## EDB File Format
 
