@@ -4,13 +4,15 @@
     "display_name" : "Kashif Iqbal"
   },
   "draft" : "false",
+  "categories" : [ "fundamentals" ],
   "toc" : true,
   "title" : "TTF - True Type Font File Format",
-  "description":"TrueType is a digital font technology designed by Apple Computer, and now used by both Apple and Microsoft in their operating systems. Microsoft has distributed millions of quality TrueType fonts in hundreds of different styles, including them in its range of products and the popular TrueType Font Packs.",
+  "description":"TrueType fonts (TTF)are based on digital font technology specifications initially designed by Apple, Inc. Both Apple and Microsoft used TTF on Mac and Windows Operating systems.",
   "linktitle" : "TTF",
   "menu" : {
     "docs" : {
       "parent" : "font"
+      "weight" : "01"
     }
   },
   "lastmod" : "2020-09-18"
