@@ -4,7 +4,6 @@
     "display_name" : "Kashif Iqbal"
   },
   "draft" : "false",
-  "categories" : [ "fundamentals" ],
   "toc" : true,
   "title" : "TTF - True Type Font File Format",
   "description":"TrueType fonts (TTF)are based on digital font technology specifications initially designed by Apple, Inc. Both Apple and Microsoft used TTF on Mac and Windows Operating systems.",
@@ -20,8 +19,42 @@
 
 A file with .ttf extension represents font files based on the TrueType specifications font technology. It was initially designed and launched by Apple Computer, Inc for Mac OS and was later adopted by Microsoft for Windows OS. TrueType fonts provide highest quality display on computer screens and printers without any dependency on resolution. All modern applications using fonts are able to work with TTF files. TTF font files are freely available over the internet and can also be converted to other font file formats such as OTF and WOFF.
 
-## **Brief history**
+## Brief History
 
 Designed by Apply Computer, Inc in 1980s for MacOS, the TTF font format was aimed at resolving some technical limitations by Adobe's Type 1 format. Apple included support for TrueType fonts in Mac in 1991. The design objective behind TTF fonts was efficiency in storage and processing, and extensibility. Based on this extensibility, existing fonts can be converted to TrueType format.
 
 Microsoft first used the TrueType fonts in Windows 3.1 in April 1992 after Apple agreed to license TrueType to Microsoft. It improved the rasterization mechanism, and improved its efficiency and performance.
+
+## True Type File Format Specifications
+
+A TrueType font file is a binary file that consists of a sequence of concatenated tables. Each table is a sequence of words and has a name known as  `Tag`. Each tag is of uint32 data type and consists of four characters. The first table in the file is font directory that gives access to other tables in the font file. Font data is contained in other tables followed after the font directory table.  Since each table is accessible by its tag, the tables can appear in any order in the file.
+
+The required tables and their tag names are shown in the following table.
+
+|**Tag**|**Table**|
+---|---|
+|'cmap'|	character to glyph mapping|
+|'glyf'|	glyph data|
+|'head'|	font header|
+|'hhea'|	horizontal header|
+|'hmtx'|	horizontal metrics|
+|'loca'|	index to location|
+|'maxp'|	maximum profile|
+|'name'|	naming|
+|'post'|	PostScript|
+
+### Data Types
+TrueType fonts use the standard integer and additional data types as listed in the following table.
+
+|**Data Type** | **Description** |
+---|---|
+|shortFrac|	16-bit signed fraction|
+|Fixed|	16.16-bit signed fixed-point number|
+|FWord|	16-bit signed integer that describes a quantity in FUnits, the smallest measurable distance in em space.|
+|uFWord|	16-bit unsigned integer that describes a quantity in FUnits, the smallest measurable distance in em space.|
+|F2Dot14|	16-bit signed fixed number with the low 14 bits representing fraction.|
+|longDateTime|	The long internal format of a date in seconds since 12:00 midnight, January 1, 1904. It is represented as a signed 64-bit integer.|
+
+## References
+ * [TrueType Font Reference Manual](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
+ * [TrueType Overview](https://docs.microsoft.com/en-us/typography/truetype/)
