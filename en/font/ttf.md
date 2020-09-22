@@ -1,5 +1,5 @@
 {
-  "date" : "2020-10-11",
+  "date" : "2020-08-20",
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -11,7 +11,6 @@
   "menu" : {
     "docs" : {
       "parent" : "font"
-      "weight" : "01"
     }
   },
   "lastmod" : "2020-09-21"
