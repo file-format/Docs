@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "TTF - True Type Font File Format",
+  "title" : "TTF - TrueType Font File Format",
   "description":"TrueType fonts (TTF)are based on digital font technology specifications initially designed by Apple, Inc. Both Apple and Microsoft used TTF on Mac and Windows Operating systems.",
   "linktitle" : "TTF",
   "menu" : {
@@ -14,7 +14,7 @@
       "weight" : "01"
     }
   },
-  "lastmod" : "2020-09-18"
+  "lastmod" : "2020-09-21"
 }
 
 A file with .ttf extension represents font files based on the TrueType specifications font technology. It was initially designed and launched by Apple Computer, Inc for Mac OS and was later adopted by Microsoft for Windows OS. TrueType fonts provide highest quality display on computer screens and printers without any dependency on resolution. All modern applications using fonts are able to work with TTF files. TTF font files are freely available over the internet and can also be converted to other font file formats such as OTF and WOFF.
@@ -54,6 +54,16 @@ TrueType fonts use the standard integer and additional data types as listed in t
 |uFWord|	16-bit unsigned integer that describes a quantity in FUnits, the smallest measurable distance in em space.|
 |F2Dot14|	16-bit signed fixed number with the low 14 bits representing fraction.|
 |longDateTime|	The long internal format of a date in seconds since 12:00 midnight, January 1, 1904. It is represented as a signed 64-bit integer.|
+
+### Font Directory
+
+The first table in the TrueType font is the font directory that provides access to the information required for accessing data in other tables. It further consists of:
+
+ * `Offset subtable` - keeps record of the tables in the font and provides offset information to access each table in the directory
+ * `Table Directory` - Contains entries for each table in the font
+
+#### Offset SubTable
+
 
 ## References
  * [TrueType Font Reference Manual](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
