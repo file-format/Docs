@@ -62,6 +62,27 @@ The first table in the TrueType font is the font directory that provides access 
  * `Table Directory` - Contains entries for each table in the font
 
 #### Offset SubTable
+The offset subtable is shown below.
+
+|**Type**|**Name**|**Description**|
+---|---|---|
+|uint32|	scaler type|	A tag to indicate the OFA scaler to be used to rasterize this font; see the note on the scaler type below for more information.|
+|uint16|	numTables|	number of tables|
+|uint16|	searchRange|	(maximum power of 2 <= numTables)*16|
+|uint16|	entrySelector|	log2(maximum power of 2 <= numTables)|
+|uint16|	rangeShift|	numTables*16-searchRange|
+
+#### Table directory
+The table directory comes right after the offset subtable. Its structure is as shown in the following table.
+
+|**Type**|**Name**|**Description**|
+---|---|---|
+|uint32|	tag|	4-byte identifier|
+|uint32|	checkSum|	checksum for this table|
+|uint32|	offset|	offset from beginning of sfnt|
+|uint32|	length|	length of this table in byte (actual length not padded length)|
+
+Each table in a font file must have its own table directory entry. Entries in a table must be sorted in ascending order by tag.
 
 
 ## References
