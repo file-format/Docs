@@ -17,7 +17,7 @@
   "lastmod" : "2019-09-10"
 }
 
-# What is a DWG file? #
+## What is a DWG file?
 
 Files with DWG extension represent proprietary binary files used for containing 2D and 3D design data. Like DXF, which are ASCII files, DWG represent the binary file format for CAD (Computer Aided Design) drawings. It contains vector image and metadata for representation of contents of CAD files. There are free viewers available for viewing DWG files on Windows Operating System such as the Autodesk's free DWG TrueView. There are other third party applications as well that support reaching DWG files. DWG files contain user created information and includes:
 
