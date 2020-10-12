@@ -17,5 +17,6 @@
   "lastmod" : "2020-07-28"
 }
 
-# What is an IGS file? #
+## What is an IGS file?
+
 IGS, Initial Grahics Exchange, is a vendor-neutral file format that allows the digital exchange of information among computer-aided design (CAD) systems.
