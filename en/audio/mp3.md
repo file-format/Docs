@@ -17,6 +17,8 @@
   "lastmod" : "2020-09-04"
 }
 
+## What is a MP3 file?
+
 Files with .mp3 extension are digitally encoded file formats for audio files that are formally based on the MPEG-1 Audio Layer III or MPEG-2 Audio Layer III. It was developed by the Moving Picture Experts Group (MPEG) that uses Layer 3 audio compression. Compression achieved by MP3 file format is 1/10th the size of .WAV or .AIF files. The format gives advantages of streaming such audio files over the internet for listening online that was previously not possible due to the large file sizes of audio files. Sound quality of an MP3 audio file can be controlled by parameter settings such as bit rate, sample rate, joint or normal stereo.
 
 ## Brief History of MP3 ##

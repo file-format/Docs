@@ -17,6 +17,8 @@
   "lastmod" : "2019-12-13"
 }
 
+## What is a WAV file?
+
 WAV, known for WAVE (Waveform Audio File Format), is a subset of Microsoft's Resource Interchange File Format (RIFF) specification for storing digital audio files. The format doesn't apply any compression to the bitstream and stores the audio recordings with different sampling rates and bitrates. It has been and is one of the standard format for audio CDs. Wave files are larger in size as compared to new audio file formats such as [MP3](/audio/mp3/) which uses lossy compression to reduce the file size while maintaining the same audio quality. However, WAV files can be compressed using Audio Compression Manager (ACM) codecs. There are several APIs and applications available that can convert WAV files to other popular audio file formats.
 
 ## WAV File Format ##

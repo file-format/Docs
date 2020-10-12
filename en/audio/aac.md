@@ -17,6 +17,8 @@
   "lastmod" : "2019-12-13"
 }
 
+## What is an AAC file?
+
 AAC (Advanced Audio Coding) refers to digital audio coding standard that represent audio files based on lossy audio compression. It was launched as successor of **[MP3](/audio/mp3/)** file format keeping in view that the lateral faced issues for the implementation of new ideas in the encoding process based on the development of methods for data compression. AAC achieves better sound quality as compared to MP3 at the same bit rate. It was defined in MPEG-2 Part 7 (ISO/IEC 13818-7), and in an updated form in MPEG-4 Part 3 (ISO/IEC 14496-3). The format was adopted as default media format by YouTube, iPhone, iPod, iPad, Apple iTunes and several other platforms. Several applications and APIs are available for conversion of AAC file format to other formats such as MP3, WMA, M4A, **[WAV](/audio/wav/)** and others.
 
 ## Brief History ##
