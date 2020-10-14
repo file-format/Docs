@@ -18,4 +18,8 @@
 }
 
 ## What is an IGES file?
-IGES, Initial Grahics Exchange Specifications, is a vendor-neutral file format that allows the digital exchange of information among computer-aided design (CAD) systems.
+
+A file with .iges extension is used to exchange design information between computer-aided design (CAD) applications. Information exchanged using IGES includes circuit diagram, wireframe, freeform surface or solid modeling representations. IGES finds its applications in traditional engineering drawings, models analysis, and manufacturing fuctions. The format can exchange both 2D or 3D design information between CAD programs.
+
+## References
+ * [IGES by WikiPedia](https://en.wikipedia.org/wiki/IGES)
