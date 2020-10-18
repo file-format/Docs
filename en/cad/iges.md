@@ -44,6 +44,7 @@ As can be seen, the start field contains human readable descriptions of the file
 
 ### Data Entry (DE) and Parameter Data (PD) Section
 
+#### Data Entry Section
 An IGES file consists of several entities that contains the information on the basic data of the IGES file format. An entity contains information about different elements of an IGES data format and is used for drawing.  More commonly used entities include:
  * Circular Arc
  * Composite Curve
@@ -55,7 +56,7 @@ These are just a few and there are around 150 different entities in in IGES. Eac
  * CIRCULAR ARC(Type 100)
  * LINE (Type 110)
 
-#### Entity Properties
+##### Entity Properties
 
 Each declared entity has the following properties.
 
@@ -81,6 +82,9 @@ Each declared entity has the following properties.
 |Entity Label| Application specified identifier- right justified|
 |Subscript Number| Numeric qualifier for the entity label. Both together form a unique identifier for the entity|
 |Sequence Number See above. |This will be D#+1, as each entity is specified on two lines.|
+
+### Parameter Dßata Section
+The Data Entries section is followed by the Parameter Data section. It lists the data for each respective entry and lists parameters for the entity based on the delimiters specified in the Global section (usually commas to separate parameters and a semi-colon to end the listing).
 
 
 ## References
