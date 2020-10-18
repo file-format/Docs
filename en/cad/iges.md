@@ -83,7 +83,7 @@ Each declared entity has the following properties.
 |Subscript Number| Numeric qualifier for the entity label. Both together form a unique identifier for the entity|
 |Sequence Number See above. |This will be D#+1, as each entity is specified on two lines.|
 
-### Parameter Dßata Section
+#### Parameter Data Section
 The Data Entries section is followed by the Parameter Data section. It lists the data for each respective entry and lists parameters for the entity based on the delimiters specified in the Global section (usually commas to separate parameters and a semi-colon to end the listing).
 
 
