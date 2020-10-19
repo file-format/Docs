@@ -66,10 +66,11 @@ The bold face words represent keywords that should always be lowercase. Symbols 
 
 The binary format uses the IEEE integer and floating point numerical representation. The file format is represented as follow:
 
-
-|Header|80 characters
-|Number of Triangles|4-byte little endian unsigned integer
-|Data for each triangle|12 32-bit floating point numbers
+|Field|Info|
+---|---|
+|Header|80 characters|
+|Number of Triangles|4-byte little endian unsigned integer|
+|Data for each triangle|12 32-bit floating point numbers|
 
 A more elaborated view of the file format is as shown below.
 
@@ -86,11 +87,6 @@ REAL32[3] – Vertex 3
 UINT16 – Attribute byte count
 end
 ```
-
-## See Also ##
-
-* [DWG](/cad/dwg/)
-* [DXF](/cad/dxf/)
 
 ## References ##
 
