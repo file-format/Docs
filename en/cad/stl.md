@@ -90,6 +90,6 @@ end
 
 ## References ##
 
-* [The StL Format](http://www.fabbers.com/tech/STL_Format)
+* [The STL Format](http://www.fabbers.com/tech/STL_Format)
 * [STL File Format for 3D Printing](https://all3dp.com/what-is-stl-file-format-extension-3d-printing/)
 * [STL - by Wikipedia](https://en.wikipedia.org/wiki/STL_(file_format))
