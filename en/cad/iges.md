@@ -19,11 +19,11 @@
 
 ## What is an IGES file?
 
-A file with .iges extension is used to exchange design information between computer-aided design (CAD) applications. IGES stands for Initial Graphics Exchange Specifications. Information exchanged using IGES includes circuit diagram, wireframe, freeform surface or solid modeling representations. IGES finds its applications in traditional engineering drawings, models analysis, and manufacturing functions. The format can exchange both 2D or 3D design information between CAD programs. IGES files can be opened with several CAD applications such as Autodesk and CADSoftTools ABViewer. There are also several APIs available to open and convert IGES files programatically.
+A file with .iges extension is used to exchange design information between computer-aided design (CAD) applications. IGES stands for Initial Graphics Exchange Specifications. Information exchanged using IGES includes circuit diagram, wireframe, freeform surface, or solid modeling representations. IGES finds its applications in traditional engineering drawings, models analysis, and manufacturing functions. The format can exchange both 2D or 3D design information between CAD programs. IGES files can be opened with several CAD applications such as Autodesk and CADSoftTools ABViewer. There are also several APIs available to open and convert IGES files programmatically.
 
 ## File Format
 
-IGES files are in ASCII text format and can be opened in any text editor to view the contents of the file. Textual information in an IGES file is represnted in "Hollerith" format. A common IGES file can contain thousands of lines to represent the 2D or 3D information that can be exchanged as per this format. An IGES file is split into five sections, denoted by the specific upper case letter in the 73rd column. Those sections are `Start` (S), `Global` (G), `Data Entry` (D), `Parameter Data` (P), and `Terminate` (T) sections. The Data Entry and Parameter Data sections are commonly abbreviated DE and PD, respectively.
+IGES files are in ASCII text format and can be opened in any text editor to view the contents of the file. Textual information in an IGES file is represented in "Hollerith" format. A common IGES file can contain thousands of lines to represent the 2D or 3D information that can be exchanged as per this format. An IGES file is split into five sections, denoted by the specific upper case letter in the 73rd column. Those sections are `Start` (S), `Global` (G), `Data Entry` (D), `Parameter Data` (P), and `Terminate` (T) sections. The Data Entry and Parameter Data sections are commonly abbreviated DE and PD, respectively.
 
 ### File Header
 
