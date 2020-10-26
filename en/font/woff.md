@@ -16,6 +16,8 @@
   "lastmod" : "2020-09-30"
 }
 
+## What is a WOFF file?
+
 A file with .woff extension is a web font file based on the Web Open Font Format (WOFF). It has format-specific compressed container based on either TrueType (.TTF) or OpenType (.OTT) font types. WOFF was introduced with the aim to differ web fonts from fonts files used in desktop applications. In addition, the format targeted to reduce the latency of fonts transfer from server to client's computer over the network. Several tools are available that can convert WOFF files to TTF and other font file formats.
 
 ## **WOFF File Format**

@@ -16,6 +16,8 @@
   "lastmod" : "2020-09-24"
 }
 
+## What is a SFD file?
+
 A file with .sfd (Spline Font Database) extension is native ASCII font format for font editing software - FontForge. The software supports supports many other common font formats and is freely available. The software can be used for almost all modern operating systems including Linux, Windows, and MacOS.
 
 ## **SFD File Format**

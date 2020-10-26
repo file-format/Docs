@@ -16,4 +16,6 @@
   "lastmod" : "2020-09-30"
 }
 
+## What is a PFM file?
+
 A file with .pfm extension is a Printer Font Metrics file that contains character measurements included in the font file. It is must to have the PFM file alongside the associated .pfb(/font/pfb/) file in the same folder while installing the later. PFM files are binary encoded and are not in human readable.

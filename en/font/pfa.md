@@ -16,4 +16,6 @@
   "lastmod" : "2020-09-30"
 }
 
+## What is a PFA file?
+
 A file with .pfa extension is a Printer Font ASCII version of Adobe's Type 1 font and contains font's glyph data. The file is in human readable format and can be opened in any text editor. PostScript interpreter can use this type of font as a whole for its working. Printer Font Binary (PFB) version of Adobe's Type 1 font contains the same information. However, unline PFA, it is in binary file format and is not human readable. PFA files can be incorporated into the system by copying into the system's Fonts folder.
