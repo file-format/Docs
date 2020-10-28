@@ -5,9 +5,9 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "TTF - TrueType Font File Format",
-  "description":"TrueType fonts (TTF)are based on digital font technology specifications initially designed by Apple, Inc. Both Apple and Microsoft used TTF on Mac and Windows Operating systems.",
-  "linktitle" : "TTF",
+  "title" : "EOT - TrueType Font File Format",
+  "description":"Learn about EOT File Format and APIs to create and open EOT files.",
+  "linktitle" : "EOT",
   "menu" : {
     "docs" : {
       "parent" : "font"
