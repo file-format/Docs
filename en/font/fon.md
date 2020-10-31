@@ -18,17 +18,17 @@
 
 ## What is a FON file?
 
-A file with .fon extension is a Microsoft Windows 3.x font library that is actually an executable file but renamed to .fon. It is a collection of .fnt files in itself and applications reference it while accessing system font. That is why it acts as a resource file. It can be opened on Windows OS using Microsoft Windows Font View application.
+A file with .fon extension is a Microsoft Windows 3.x font library that is actually an executable file but renamed to .fon. It is a collection of [.fnt](/font/fnt/) files in itself and applications reference it while accessing system font. That is why it acts as a resource file. It can be opened on Windows OS using Microsoft Windows Font View application.
 
 ## FON File Format
 
-A FON file contains font resources and has Resource (.res) file format. The .res file format specifies the file header as well as data section specifications. A .fnt is also a resource data file that is included with a resource file.
+A FON file contains font resources and has Resource (.res) file format. The .res file format specifies the file header as well as data section specifications. A .fnt is also a resource data file that is included with a resource file. FON files have binary file format and have application/octet-stream MIME type.
 
 Font resources, unlike other type of resources, are not added to the resources of an application. Instead they are added to the EXE files and renamed to .fon files, resulting in library files instead of applications. Multiple Individual fonts constitute components of a font group where each group follows a resource group structure. Font resources use these resource group structures. The group header has all the information that is required to access a specific font from the group. A font component resource has the following format.
 ```
     [Normal resource header (type = 8)]
 
-    [Complete contents of the .FNT file follow as the resource body (see .fnt file)
+    [Complete contents of the .FNT file follow as the resource body (see [.fnt](/font/fnt/) file)
 ```
 A single .rc resource file can have mixed resource declarations. Font groups can be anywhere in the resource file and needs not to be contigous. It is must for programs creating .RES files to add manual entry of FONTDIR. Following is the structure of group header.
 
