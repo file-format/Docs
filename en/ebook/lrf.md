@@ -17,6 +17,8 @@
   "lastmod" : "2019-12-12"
 }
 
+## What is a LRF file?
+
 A file with .lrf extension is a BroadBand(BBeB) eBook file. Other programs may use the same file extension for other file types, but this is actually the most common option. This file type contains data for a Sony BBeB, including text, images and pagination data. The file is saved in a compressed binary format which contains a header, a specified number of objects, and an object index. LRF and LRX files enclose the two BBeB book formats available. The LRF files are not encrypted and can be compiled from LRX files. The LRF files can be converted from several other file types including .PDF and .HTML. If your computer cannot open the LRF file, then you probably do not have the software installed to open or edit the LRF files. Programs that can open LRF files are Caliber, BookDesigner, Makelrf and Canon Book Creator for Windows, Caliber for Linux,  Caliber and  Sony Reader for Macintosh.
 
 ## Brief History ##
