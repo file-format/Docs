@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description" : "Your file format guide to learn what is an MID file and APIs that can create and open MID file.",
-  "title" : "What is an MID file?",
+  "title" : "What is a MID file?",
   "linktitle" : "MID",
   "menu" : {
     "docs" : {
@@ -17,7 +17,7 @@
   "lastmod" : "2020-11-102"
 }
 
-## What is an MID file?
+## What is a MID file?
 
 A file having .MID or.MIDI file extension is the Musical Instrument Digital (MID) Interface file. It is the difference from ordinary audio files such as [WAVs](/audio/wav/) or [MP3s](/audio/mp3/) in that it doesn't carry the actual audio content; hence, is quite smaller in size. The content includes the notes played, their timing, duration, and desired loudness for each note. The MID file fundamentally consists of information explaining how should the sound be heard when linked with the playback device or loaded into a specific software that interprets audio data. This makes it an ideal tool for sharing musical data between compatible apps and over a low-bandwidth connection. The smaller size enables easy storage for which even floppy disks can be used.
 
@@ -27,10 +27,10 @@ The first instrument, the Roland Jupiter-6 and the Prophet 600, were introduced 
 
 ## MID File Specifications
 
-•	Small in size – often as small as 10 KB for a one-minute playback
-•	Can adjust note, tempo, and pitch for desired performance
-•	It consists of three parts – the physical connector, message format, and storage format
-•	Can be converted into MP3, WAV, WMA, FLAC, OGG, [AAC](/audio/aac/), MPC on Windows via Total Audio Converter.
+ * Small in size – often as small as 10 KB for a one-minute playback
+ * Can adjust note, tempo, and pitch for desired performance
+ * It consists of three parts – the physical connector, message format, and storage format
+ * Can be converted into MP3, WAV, WMA, FLAC, OGG, [AAC](/audio/aac/), MPC on Windows via Total Audio Converter.
 
 ## References
 
