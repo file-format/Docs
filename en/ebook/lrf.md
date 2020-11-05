@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description":"Learn about LRF file format and APIs that can create and open LRF files.",
-  "title" : "What is an LRF file?",
+  "title" : LRF - Sony Portable Reader File,
   "linktitle" : "LRF",
   "menu" : {
     "docs" : {
@@ -25,6 +25,41 @@ A file with .lrf extension is a Broad Band eBook (BBeB)file that contains data f
 
 LRF file type is first and foremost associated with Line Rider by [inXile entertainment](https://en.wikipedia.org/wiki/InXile_Entertainment). The Line Rider is an internet physics toy and was invented on September 2006 by a Slovenian university student, Boštjan Čadež. Sony brand eBook eReaders (such as Sony PRS-500 readers and Sony Librie) utilize the LRF file extension for their documents and texts. This proprietary file type is now obsolete, as well as the related LRS and LRX files. Those three file types made up the BroadBand eBook (BBeB) which was discontinued in 2010 when Sony began selling their ebooks in the EPUB format.
 
+## LRF File Format
+
+Detailed specifications of LRF file format are available at [web archive](https://web.archive.org/web/20110809071744/http://www.sven.de/librie/Librie/LrfFormat). A LRF file consists of:
+* a header
+* a number of objects
+* an object index.
+
+All these values are in Intel (LSB first) order.
+
+### LRF header
+
+|Offset (hex)	|Size(bytes)	|Name/meaning|	Example value|
+---|---|---|---|
+|0	|8|	LRF Signature|	4C 00 52 00 46 00 00 00 = "LRF" in Unicode|
+|8	|2|	version?|	999 in most files|
+|A	|2|	"Psuedo-Encryption" |key byte	48|
+|0C	|4|	RootObjectID|	0x0044|
+|10	|8|	NumberOfObjects	|342|
+|18	|8|	ObjectIndexOffset|	0x00093440|
+|20	|4|	unknown|	0|
+|24	|1|	Flags| (16 - back to front, 1 = front to back)	16|
+|25	|1|	unknown |(padding?)	0|
+|26	|2|	unknown|	1600|
+|28	|2|	unknown| (padding?)	0|
+|2A	|2|	Height?|	600|
+|2C	|2|	Width?|	800|
+|2E	|1|	unknown|	24|
+|2F	|1|	unknown |(padding?)	0|
+|30	|0x14|	unknown|	zeroes|
+|44	|4|	Object ID of only PlaneStream (0x1E) object|	0x0042|
+|48	|4|	unknown	|0x1536|
+|4C	|2|	XMLCompSize|	0x035C|
+
+
 ## References
 
+* [LRF File Format](https://web.archive.org/web/20110809071744/http://www.sven.de/librie/Librie/LrfFormat)
 * [BBeB - By Wikipedia](https://en.wikipedia.org/wiki/BBeB)
