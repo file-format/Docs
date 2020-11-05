@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description":"Learn about LRX file format and APIs that can create and open LRX files.",
-  "title" : "LRS - Librie Reader Source File Format",
+  "title" : "LRX - Librie Reader Source File Format",
   "linktitle" : "LRX",
   "menu" : {
     "docs" : {
