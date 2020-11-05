@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description":"Learn about LRF file format and APIs that can create and open LRF files.",
-  "title" : LRF - Sony Portable Reader File,
+  "title" : "LRF - Sony Portable Reader File",
   "linktitle" : "LRF",
   "menu" : {
     "docs" : {
