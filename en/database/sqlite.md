@@ -51,7 +51,7 @@ The main SQLite database file comprises of one or more pages. At any point in ti
  * A payload overflow page
  * A pointer map page
 
-In common use, SQLite databases tend to range in size from a few kilobytes to a few gigabytes, though terabyte-size SQLite databases are known to exist in production.
+The size of SQLite database files can range from few kilobytes to few gigabytes.
 
 ### SQLite Header
 
