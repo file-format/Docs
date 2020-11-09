@@ -41,13 +41,13 @@ The main SQLite database file comprises of one or more pages. At any point in ti
 
  * The lock-byte page
  * A freelist page
-  * A freelist trunk page
-  * A freelist leaf page
+   * A freelist trunk page
+   * A freelist leaf page
  * A b-tree page
-  * A table b-tree interior page
-  * A table b-tree leaf page
-  * An index b-tree interior page
-  * An index b-tree leaf page
+   * A table b-tree interior page
+   * A table b-tree leaf page
+   * An index b-tree interior page
+   * An index b-tree leaf page
  * A payload overflow page
  * A pointer map page
 
