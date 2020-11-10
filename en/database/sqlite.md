@@ -87,3 +87,4 @@ The SQLite database header is located in the first 100 bytes of the database fil
 
 * [SQLite File Format - SQLite](https://www.sqlite.org/fileformat2.html)
 * [SQLite - Wikipedia](https://en.wikipedia.org/wiki/SQLite)
+* [SQLite - C Language Specs](https://www.sqlite.org/c3ref/intro.html)
