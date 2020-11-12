@@ -1,5 +1,5 @@
 {
-  "date" : "2020-12-12",
+  "date" : "2020-11-11",
   "keywords" : [ "MDB", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
@@ -23,7 +23,7 @@ A file with .mdb extension is a Microsoft Access database file which is a Relati
 
 ## MDB File Format
 
-There are public specifications available for MDB format and it remains Microsoft's proprietary file format. Microsoft, however, provides connectivity access to the MDB file using Open Database Connectivity (ODBC) standard and Visual Basic for Applications (VBA). The unofficial MDB guide provides brief informal description of the MDB format based on the reverse engineering and can be consulted for knowing about the specifications. 
+There are public specifications available for MDB format and it remains Microsoft's proprietary file format. Microsoft, however, provides connectivity access to the MDB file using Open Database Connectivity (ODBC) standard and Visual Basic for Applications (VBA). The unofficial MDB guide provides brief informal description of the MDB format based on the reverse engineering and can be consulted for knowing about the specifications.
 
 ## References ##
 
