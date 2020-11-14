@@ -42,6 +42,10 @@ PDB files consist of multiple streams where each stream acts as a virtual indivi
 
 Each stream in a PDB file comprises of several pages which are not necessarily consecutively numbered.
 
+## PDB header
+
+A PDB file beings with a Header that consists of a signature for identifying and validating the specific format. The length of the signature depends on the PDB format. The header may be longer than a single page.
+
 ## References
  * [PDB - Wikipedia](https://en.wikipedia.org/wiki/Program_database)
  * [Microsoft PDB](https://github.com/Microsoft/microsoft-pdb)
