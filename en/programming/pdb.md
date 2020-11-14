@@ -40,6 +40,8 @@ PDB files consist of multiple streams where each stream acts as a virtual indivi
 |n+6|	Symbol records|	Actual symbol records of global and public symbols|
 |n+7|	Type hash|	Hash used by the TPI stream.|
 
+Each stream in a PDB file comprises of several pages which are not necessarily consecutively numbered.
+
 ## References
  * [PDB - Wikipedia](https://en.wikipedia.org/wiki/Program_database)
  * [Microsoft PDB](https://github.com/Microsoft/microsoft-pdb)
