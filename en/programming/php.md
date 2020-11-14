@@ -20,7 +20,7 @@ A file with .php extension refers to open source programming language that is us
 
 ## PHP File Format ##
 
-A single PHP can contain text, CSS,HTML, JavaScript, and PHP code. PHP code is executed on the server, and the result is returned to the browser as plain HTML. PHP files can be opened with any text editor and edited in place, though applications like Adobe Dreamweaver, Eclipse PHP Development tools offer a convenient way to write and modify PHP code.
+A single PHP can contain text, CSS, [HTML](/web/html/), JavaScript, and PHP code. PHP code is executed on the server, and the result is returned to the browser as plain HTML. PHP files can be opened with any text editor and edited in place, though applications like Adobe Dreamweaver, Eclipse PHP Development tools offer a convenient way to write and modify PHP code.
 
 ### Syntax ###
 
