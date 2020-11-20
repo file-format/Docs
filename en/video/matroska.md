@@ -19,7 +19,7 @@
 
 ## What is a Matroska Format? ##
 
-Matroska is a multimedia container format that is based on EBML (Extensible Binary Meta Language), a binary derivative of XML. Due to EMBL, Matroska gains significant advantages in terms of future format extensibility along with backward compatibility.
+Matroska is a multimedia container format that is based on EBML (Extensible Binary Meta Language), a binary derivative of [XML](/web/xml/). Due to EMBL, Matroska gains significant advantages in terms of future format extensibility along with backward compatibility.
 
 ## Brief History ##
 
