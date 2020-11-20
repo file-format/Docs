@@ -13,7 +13,7 @@
       "parent" : "image"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod" : "2020-09-10"
 }
 
 ## What is a APNG file?
