@@ -13,7 +13,7 @@
       "parent" : "image"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod" : "2020-09-10"
 }
 
 ## What is a APNG file?
@@ -37,7 +37,7 @@ APNG files are stored as binary files on disc and use the extended specification
 
 `Frame Data Chunk` - Stores frame's contents and starts with a sequence number. This sequence number has the same structure as the default image's IDAT chunk.
 
-![Animated PNG - APNG](APNG.png)
+{{< figure src="../APNG.png" alt="Animated PNG - APNG File Format" >}}
 
 APNG is backward compatible with PNG as the lateral's specifications were designed in such a way that an application reading a PNG file is supposed to simply ignore the chunks which it does not understand. Specifications regarding bit depth, color type, compression, filters, interlace methods, and palette information are used the same as that of default PNG format.
 
