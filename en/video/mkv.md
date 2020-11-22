@@ -14,7 +14,10 @@
       "parent" : "video"
     }
   },
-  "lastmod" : "2020-17-11"
+  "lastmod" : "2020-17-11",
+  "aliases": [
+      "/video/matroska/"
+   ],
 }
 
 ## What Are MKV Files? ##
@@ -31,8 +34,6 @@ MKV (Matroska Video) is a multimedia container similar to [MOV](/video/mov/) and
 ## Brief History ##
 
 MKV file originated in 2002 in Russia. The lead developer was Lasse Kärkkäinen who worked with the founder of Matroska, Steve Lhomme, and a team of programmers. MKV was developed as an open standards project, which means that it is open source and free to use. As time went on, the format was improved and became the basis of WebM multimedia format in 2010.
-
-For additional detail, please visit the [Matroska](/video/matroska/) page.
 
 ## How to Play MKV Files ##
 
