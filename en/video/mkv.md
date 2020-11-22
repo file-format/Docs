@@ -14,7 +14,9 @@
       "parent" : "video"
     }
   },
-  "lastmod" : "2020-17-11"
+  "lastmod" : "2020-17-11",
+  aliases:
+    - /video/matroska/
 }
 
 ## What Are MKV Files? ##
