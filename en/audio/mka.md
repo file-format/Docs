@@ -11,9 +11,8 @@ linktitle: MKA
 menu:
   docs:
     parent: "audio"
-aliases: [
+aliases:
   - /video/matroska/
-]
 lastmod: 2020-23-11
 ---
 
@@ -38,7 +37,7 @@ MKA format audio files can be opened using a variety of audio players including 
 Here are some of the advantages of using MKA format over the original audio formats:
 
 - Support for embedding lyrics in SRT format.
-- Complete album can be stored in a single file.
+- A complete album can be stored in a single file.
 - By using compression headers the resultant MKA file might be smaller in size as compared to the original raw file.
 - It is easier to delete portions of audio without reencoding as only the blocks are deleted.
 
