@@ -12,7 +12,7 @@ menu:
   docs:
     parent: "audio"
 aliases:
-  - /video/matroska/
+    - /video/matroska/
 lastmod: 2020-23-11
 ---
 
