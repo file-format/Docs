@@ -5,7 +5,7 @@ author:
   display_name: Muhammad Ahmad Chishti
 draft: false
 toc: true
-description: Your file format guide to learn what is an MID file and APIs that can create and open MID file.
+description: MKA (Matroska Audio) is the Matroska multimedia container format used for Audio. It is saved with the .mka extension.
 title: What is a MKA file?
 linktitle: MKA
 menu:
@@ -23,6 +23,8 @@ MKA (Matroska Audio) is the Matroska multimedia container format used for Audio.
 ## Brief History ##
 
 The project originated in 2002 in Russia with Lasse Kärkkäinen as the lead developer. He worked with Steve Lhomme (founder of Matroska), and a team of programmers. Matroska Multimedia Container was developed as an open standards project, which means that it is open source and free to use. With the passage of time, the format was improved and in 2010, it became the basis of WebM multimedia format.
+
+For information regarding the design and structure of Matroska multimedia container, please see the Matroska Design and Matroska Structure section of [MKV](/video/mkv/).
 
 ## How to Play MKA Files ##
 
