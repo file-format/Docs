@@ -16,7 +16,7 @@ aliases:
 lastmod: 2020-23-11
 ---
 
-## What is a MKA file? ##
+## What Are MKA files? ##
 
 MKA (Matroska Audio) is the Matroska multimedia container format used for Audio. It is saved with the .mka extension. The MKA format supports several different kinds of audio compression algorithms such as [MP3](/audio/mp3/), [AAC](/audio/aac/) and Vobis. MKA files are usually used to store songs and may also store complete albums. MKA allows audio tracks to be divided into chapters and also supports embedding lyrics in SRT format.
 
