@@ -22,7 +22,7 @@ CSS (Cascading Style Sheets) are files that describe how HTML elements are displ
 
 CSS1 was released in 1996 with Bert Bos as the co-author. The CSS Working Group started working on the issues that were not addressed in CSS1. This resulted in the creation of CSS2 in November 1997 that was published as a W3C recommendation on 12th May 1998. This version added support for media-specific devices like printers, downloadable fonts, tables, and element positioning. In June 1999, CSS3 became the recommendation of W3C. This divided the documentation into modules where each module had extension features defined in CSS2.
 
-## How to open Python files ##
+## How to open CSS files ##
 
 CSS files are stored in plain text format so these can be opened in any text editor including the following:
 
