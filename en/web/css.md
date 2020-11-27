@@ -130,7 +130,7 @@ ul li{
 
 The left side of the image displays the HTML document without the styles applied and the right side displays the HTML document with the styles applied.
 
-![Example image](CssExample.jpg)
+{{< figure src="../CssExample.jpg" alt="Example image" >}}
 
 ## References ##
 
