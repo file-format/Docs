@@ -10,7 +10,7 @@ linktitle: CSS
 description: CSS (Cascading Style Sheets) are files that describe how HTML elements are displayed on screen, paper, etc.
 menu:
   docs:
-    parent: "programming"
+    parent: "web"
 lastmod: 2020-26-11
 ---
 
