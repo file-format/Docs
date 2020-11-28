@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description" : "Learn about ACCDT file format and APIs that can create and open ACCDT files.",
-  "title" : "ACCDB - Microsoft Access 2007 Database File",
+  "title" : "ACCDT - Microsoft Access 2007 Template Database File",
   "linktitle" : "ACCDT",
   "menu" : {
     "docs" : {
