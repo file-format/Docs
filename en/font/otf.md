@@ -26,12 +26,12 @@ The requirement of OpenType fonts originated as a requirement for a more express
 
 Adobe, in 1996, joined Microsoft in its efforts to supersede both Apple's TrueType and its own Type 1 font formats. This resulted in combination of both underlying font formats to overcome the limitations and  add new extensions. This new technology was introduced the same year with the name **OpenType**.
 
-## OFT File Format Specifications
+## OTF File Format Specifications
 
 OTF specifications are available publicly by Microsoft and can be referred to from developer's perspective. Like TTF, it uses the same 'sfnt' container structure and is compatible with the TrueType specifications. Data inside an OpenType font file is used for different purposes such as calculating the text layout, defining glyphs as TrueType or Compact Font Format (CFF) outlines, providing monochromatic or color bitmaps or SVG documents as alternate glyph descriptions, and meta-data information.
 
-### OFT Data Types
-OFT files use the following data types which are all in Big Endian.
+### OTF Data Types
+OTF files use the following data types which are all in Big Endian.
 
 |Data Type|	Description|
 ---|---|
@@ -52,9 +52,9 @@ OFT files use the following data types which are all in Big Endian.
 |Offset32|	Long offset to a table, same as uint32, NULL offset = 0x00000000|
 |Version16Dot16|	Packed 32-bit value with major and minor version numbers. (See Table Version Numbers.)|
 
-### OFT Tables Directory
+### OTF Tables Directory
 
-An OFT file starts with a table directory. This directory is the top-level collection of the tables in the font file. Depending on the number of fonts in a file, the table directory may be located at different location in the file. For example, in case the font file has only one font, the table directory starts at the byte 0 of the file. In case of multiple OpenType Fonts collection,
+An OTF file starts with a table directory. This directory is the top-level collection of the tables in the font file. Depending on the number of fonts in a file, the table directory may be located at different location in the file. For example, in case the font file has only one font, the table directory starts at the byte 0 of the file. In case of multiple OpenType Fonts collection,
 the table directory beginning is indicated in the TTCHeader.
 
 |Type	|Name	|Description|
