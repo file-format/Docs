@@ -37,7 +37,7 @@ CSS files are stored in plain text format so these can be opened in any text edi
 
 To use a CSS file, you include it in the head section of the HTML document. You use the link tag to include the file as shown below.
 
-```
+```html
 <link rel="stylesheet" type="text/css" href="main.css"/>
 ```
 
@@ -47,7 +47,7 @@ the *href* attribute of the link tag contains the path to the CSS file. By doing
 
 A CSS rule comprises of two components, a selector and a declaration. A selector points to an element in the HTML document. It can either be an element tag, class name, id name, multiple tags showing the hierarchy, etc. A declaration contains the style definition comprising of property and value. The property identifies the property of the element that you want to change and the value defines its new value. Each CSS rule can have multiple declarations. The following is an example of a CSS rule.
 
-```
+```css
 h1{
     font-weight: 700;
     color: forestgreen;
@@ -62,7 +62,7 @@ The following shows the example HTML document and the stylesheet used to style i
 
 ### HTML Document ###
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -97,7 +97,7 @@ The following shows the example HTML document and the stylesheet used to style i
 
 ### CSS Stylesheet ###
 
-```
+```css
 body{
     background-color: lightblue;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
