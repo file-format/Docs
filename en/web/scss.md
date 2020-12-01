@@ -83,7 +83,7 @@ h1 {
 }
 ```
 
-**Converted CSS**
+**Generated CSS**
 
 ```css
 .highlight {
