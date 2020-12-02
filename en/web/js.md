@@ -96,6 +96,8 @@ The following shows a simple usage example JavaScript file.
 </html>
 ```
 
+### JS Code ###
+
 ```js
 function showAlert() {
     alert("Alert from JS file");
