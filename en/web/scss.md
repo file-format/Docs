@@ -7,7 +7,7 @@ draft: false
 toc: true
 title: What are SCSS files?
 linktitle: SCSS
-description: .
+description: SCSS is the second syntax of SASS (Syntactically Awesome Stylesheet) that uses brackets instead of indentations.
 menu:
   docs:
     parent: "web"

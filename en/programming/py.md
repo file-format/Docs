@@ -40,13 +40,13 @@ To open Python files, you can use the following:
 
 To check the version of Python installed, you can use the following command:
 
-```
+```cmd
 python --version
 ```
 
 This will output the version on the console like
 
-```
+```cmd
 Python 3.7.4
 ```
 
@@ -54,19 +54,19 @@ If Python is not installed on your machine, you can go to [python.org](https://w
 
 To execute a Python script, you can use the following command:
 
-```
+```cmd
 python helloworld.py
 ```
 
 *helloworld.py* is a script file that contains the following code
 
-```
+```py
 print("Hello World from Python")
 ```
 
 This will print the following on the console window.
 
-```
+```cmd
 Hello World from Python
 ```
 
@@ -80,7 +80,7 @@ Python was designed for readability and has similarities to English and Math. Py
 
 The following is an example of Python syntax.
 
-```
+```py
 print("Hello World")
 
 #Variables
