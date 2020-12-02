@@ -5,7 +5,7 @@ author:
   display_name: Muhammad Ahmad Chishti
 draft: false
 toc: true
-title: What are CSS files?
+title: CSS File Format
 linktitle: CSS
 description: CSS (Cascading Style Sheets) are files that describe how HTML elements are displayed on screen, paper, etc.
 menu:
@@ -14,7 +14,7 @@ menu:
 lastmod: 2020-26-11
 ---
 
-## What are CSS files? ##
+## What is a CSS file? ##
 
 CSS (Cascading Style Sheets) are files that describe how HTML elements are displayed on the screen, paper, etc. With HTML, you can have either embedded styles or styles can be defined in an external stylesheet. For embedding the styles, the \<style>\</style> tags are used. The external stylesheets are stored in files with the .css extension. With the external CSS, you can include it on multiple HTML pages to update the style of those pages. Even a single CSS file can be used to style a complete website.
 

@@ -5,7 +5,7 @@ author:
   display_name: Muhammad Ahmad Chishti
 draft: false
 toc: true
-title: What are SCSS files?
+title: SCSS File Format
 linktitle: SCSS
 description: SCSS is the second syntax of SASS (Syntactically Awesome Stylesheet) that uses brackets instead of indentations.
 menu:
@@ -14,7 +14,7 @@ menu:
 lastmod: 2020-26-11
 ---
 
-## What are SCSS files ##
+## What is an SCSS file? ##
 
 SCSS is the second syntax of SASS (Syntactically Awesome Stylesheet) that uses brackets instead of indentations. SCSS was designed in such a way that a valid CSS3 file is also a valid SCSS file. SCSS files are stored with the .scss extension.
 

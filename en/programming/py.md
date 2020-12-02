@@ -5,7 +5,7 @@ author:
   display_name: Muhammad Ahmad Chishti
 draft: false
 toc: true
-title: What are PY files?
+title: PY File Format
 linktitle: PY
 description: .py files contain the Python source code that can be executed on multiple platforms.
 menu:
@@ -14,7 +14,7 @@ menu:
 lastmod: 2020-25-11
 ---
 
-## What are PY files? ##
+## What is a PY file? ##
 
 Files with the .py extension contain the python source code. It is a very popular language that can be used for web development, software development, mathematics, and system scripting. Python is a cross-platform language that can work on different platforms like Windows, MAC, Linux, Raspberry Pi, etc. Python provides a simple syntax that is similar to the English language and is easier to read. Pythons syntax allows programs to be written with fewer lines of code. Python runs on an interpreter system so the code can be executed as soon as it is written which makes it very good for prototyping.
 

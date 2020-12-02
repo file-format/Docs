@@ -6,7 +6,7 @@ author:
 draft: false
 toc: true
 description: MP4(short for MPEG-4 Part 14) is a file format based on ISO/IEC 14496-12:2004 that is based on QuickTime File Format. It is saved with the .mp4 extension.
-title: What Are MP4 files?
+title: MP4 File Format
 linktitle: MP4
 menu:
   docs:
@@ -14,7 +14,7 @@ menu:
 lastmod: 2020-24-11
 ---
 
-## What Are MP4 files? ##
+## What is an MP4 file? ##
 
 MP4(short for MPEG-4 Part 14) is a file format based on ISO/IEC 14496-12:2004 that is based on QuickTime File Format but formally specifies support for Initial Object Descriptors (IOD) and other MPEG features. It is mostly used to store video and audio but can also be used to store subtitles and still images. MP4 files are stored with the .mp4 extension. MP4 is an international audio-visual coding standard. Similar to most modern container formats, MP4 supports streaming over the internet. Due to the high compression used in MP4, the resultant files are smaller in size with almost all the original quality retained.
 
