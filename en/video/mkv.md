@@ -151,7 +151,7 @@ The following table shows the structure of the Matroska document with most of th
 | | | | | TagBinary |
 | | | | | SimpleTag |
 
-## How to Play MKV Files ##
+## How to play MKV files ##
 
 Even though the support for the MKV format has grown rapidly, it is still not an industry standard and not all media players support it. There are two options to play MKV files, downloading a compatible media player, or downloading the codecs for the media player of your preference.
 

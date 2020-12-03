@@ -45,7 +45,7 @@ Here is a list of second-level atoms used in MP4:
 - **udta**: The container with the user and track information.
 - **iods**: MP4 file descriptor
 
-## How to Play MP4 Files ##
+## How to play MP4 files ##
 
 As MP4 is a standardized video format, almost all the video players out there support it. Given below is a list of some of the video player that can play MP4 files.
 
