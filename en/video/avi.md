@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "AVI - Audio Video Interleave File",
+  "title" : "AVI File Format",
   "linktitle" : "AVI",
   "menu" : {
     "docs" : {

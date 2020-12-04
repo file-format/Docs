@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "HTML",
+  "title" : "HTML File Format",
   "description":"Learn about HTML file format and APIs that can create and open HTML files.",
   "linktitle" : "HTML",
   "menu" : {
