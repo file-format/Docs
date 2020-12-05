@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "PDF/E",
+  "title" : "PDF/E File Format",
   "description":"Learn about PDF/E file format and APIs that can create and open PDF/E files.",
   "linktitle" : "PDF/E",
   "menu" : {

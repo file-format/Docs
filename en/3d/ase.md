@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "description":"Learn about ASE file format and APIs that can open and create ASE files.",
-  "title" : "ASE",
+  "title" : "ASE File Format",
   "linktitle" : "ASE",
   "menu" : {
     "docs" : {

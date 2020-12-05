@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "POT",
+  "title" : "POT File Format",
   "description":"Learn about POT file format and APIs that can create and open POT files.",
   "linktitle" : "POT",
   "menu" : {

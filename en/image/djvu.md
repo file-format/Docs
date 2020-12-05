@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "DJVU",
+  "title" : "DJVU File Format",
   "description":"Learn about DJVU file format and APIs that can create and open DJVU files.",
   "linktitle" : "DJVU",
   "menu" : {

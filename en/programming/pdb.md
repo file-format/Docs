@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "PDB - Program Database File Format",
+  "title" : "PDB File Format - A Program Database File",
   "description":"Learn about PDB file format and APIs that can create and open PDB files.",
   "linktitle" : "PDB",
   "menu" : {

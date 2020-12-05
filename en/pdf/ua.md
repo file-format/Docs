@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "PDF/UA",
+  "title" : "PDF/UA File Format",
   "description":"Learn about PDF/UA file format and APIs that can create and open PDF/UA files.",
   "linktitle" : "PDF/UA",
   "menu" : {

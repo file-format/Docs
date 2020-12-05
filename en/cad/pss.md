@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description" : "Learn about PSS file format and APIs that can create and open PSS files.",
-  "title" : "PSS - AutoCAD Plot Stamp Settings File",
+  "title" : "PSS File Format - AutoCAD Plot Stamp Settings File",
   "linktitle" : "PSS",
   "menu" : {
     "docs" : {

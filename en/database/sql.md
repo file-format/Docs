@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description" : "Learn about SQL file format and APIs that can create and open SQL files.",
-  "title" : "SQL - Structured Query Language Data File",
+  "title" : "SQL File Format - A Structured Query Language Data File",
   "linktitle" : "SQL",
   "menu" : {
     "docs" : {

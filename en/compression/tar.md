@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "TAR - Unix File Archive",
+  "title" : "TAR - Unix Archive File Format",
   "description":"Learn about TAR file format and APIs that can create and open TAR files.",
   "linktitle" : "TAR",
   "menu" : {

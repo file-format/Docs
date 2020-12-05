@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "WMZ - Compressed Windows Metafile",
+  "title" : "WMZ File Format - Compressed Windows Metafile",
   "description":"Learn about WMZ file format and APIs that can create and open WMZ files.",
   "linktitle" : "WMZ",
   "menu" : {

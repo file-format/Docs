@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "APNG - Animated Portable Network Graphic",
+  "title" : "APNG File Format - Animated Portable Network Graphic File",
   "description":"Learn about APNG file format and APIs that can create and open APNG files.",
   "linktitle" : "APNG",
   "menu" : {

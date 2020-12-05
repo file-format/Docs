@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description" : "Your file format guide to learn what is an MID file and APIs that can create and open MID file.",
-  "title" : "What is a MID file?",
+  "title" : "MIDI File Format",
   "linktitle" : "MID",
   "menu" : {
     "docs" : {

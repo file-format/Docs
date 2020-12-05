@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description":"Learn about CSV file format and APIs that can create and open CSV files.",
-  "title" : "What is a CSV file?",
+  "title" : "CSV File Format",
   "linktitle" : "CSV",
   "menu" : {
     "docs" : {

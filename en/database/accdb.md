@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description" : "Learn about ACCDB file format and APIs that can create and open ACCDB files.",
-  "title" : "ACCDB - Microsoft Access 2007 Database File",
+  "title" : "ACCDB File Format - Microsoft Access 2007 Database File",
   "linktitle" : "ACCDB",
   "menu" : {
     "docs" : {

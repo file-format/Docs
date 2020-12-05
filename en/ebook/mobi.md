@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description":"Learn about MOBI file format and APIs that can create and open MOBI files.",
-  "title" : "What is a Mobi file?",
+  "title" : "MOBI File Format",
   "linktitle" : "MOBI",
   "menu" : {
     "docs" : {

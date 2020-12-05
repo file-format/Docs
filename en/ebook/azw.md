@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description" : "Learn about AZW file format and APIs that can create and open AZW files.",
-  "title" : "What is an AZW file?",
+  "title" : "AZW File Format",
   "linktitle" : "AZW",
   "menu" : {
     "docs" : {

@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "DNG",
+  "title" : "DNG File Format",
   "description":"Learn about DNG file format and APIs that can create and open DNG files.",
   "linktitle" : "DNG",
   "menu" : {

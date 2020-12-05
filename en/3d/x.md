@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "X - DirectX Model File",
+  "title" : "X File Format",
   "description":"Learn about DirectX file format and APIs that can open and create DirectX files.",
   "linktitle" : "X",
   "menu" : {

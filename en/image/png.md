@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "PNG - Image File Format",
+  "title" : "PNG File Format - Raster Image File",
   "description":"Learn about PNG file format and APIs that can create and open PNG files.",
   "linktitle" : "PNG",
   "menu" : {

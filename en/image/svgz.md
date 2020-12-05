@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "SVGZ - Windows Compressed Enhanced Metafile",
+  "title" : "SVGZ File Format - A Windows Compressed Enhanced Metafile",
   "description":"Learn about EMZ file format and APIs that can create and open SVGZ files.",
   "linktitle" : "SVGZ",
   "menu" : {

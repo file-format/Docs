@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "EMZ - Windows Compressed Enhanced Metafile",
+  "title" : "EMZ File Format - A Windows Compressed Enhanced Meta file",
   "description":"Learn about EMZ file format and APIs that can create and open EMZ files.",
   "linktitle" : "EMZ",
   "menu" : {

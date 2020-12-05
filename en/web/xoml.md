@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "XOML - Windows Workflow File",
+  "title" : "XOML File Format - Windows Workflow File",
   "description":"Learn about XOML file format and APIs that can create and open XOML files.",
   "linktitle" : "XOML",
   "menu" : {

@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "TEX",
+  "title" : "TEX File Format",
   "description":"Learn about TEX file format and APIs that can create and open TEX files.",
   "linktitle" : "TEX",
   "menu" : {

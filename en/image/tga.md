@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "TGA - TARGA Graphic Image File Format",
+  "title" : "TGA File Format - A TARGA Graphic Image File",
   "description":"Learn about TGA file format and APIs that can create and open TGA files.",
   "linktitle" : "TGA",
   "menu" : {

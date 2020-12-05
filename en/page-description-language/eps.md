@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description":"Learn about EPS file format and APIs that can create and open EPS files.",
-  "title" : "What is an EPS file?",
+  "title" : "EPS File Format - Encapsulated PostScript File",
   "linktitle" : "EPS",
   "menu" : {
     "docs" : {
@@ -17,7 +17,7 @@
   "lastmod" : "2019-09-10"
 }
 
-FIles with EPS extension essentially describe an Encapsulated PostScript language program that describes the appearance of a single page. The name "Encapsulated" because it can be included or encapsulated in another PostScript language page description. This script based file format may contain any combination of text, graphics and images. EPS files may include a bitmap preview image encapsulated inside for display by applications that can open such files. EPS files can be converted to standard image formats such as [JPG](/image/jpeg/), [PNG](/image/png/), [TIFF](/image/tiff/) and [PDF](/pdf/) using different applications e.g. Adobe Illustrator, Photoshop and PaintShop Pro. Because of a [security vulnerability](https://support.office.com/en-us/article/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e-a1b5-cbb0c334a840) in EPS files, Office 2016, Office 2013, Office 2010, and Office 365 have turned off the ability to insert EPS files into Office documents.
+Files with EPS extension essentially describe an Encapsulated PostScript language program that describes the appearance of a single page. The name "Encapsulated" because it can be included or encapsulated in another PostScript language page description. This script based file format may contain any combination of text, graphics and images. EPS files may include a bitmap preview image encapsulated inside for display by applications that can open such files. EPS files can be converted to standard image formats such as [JPG](/image/jpeg/), [PNG](/image/png/), [TIFF](/image/tiff/) and [PDF](/pdf/) using different applications e.g. Adobe Illustrator, Photoshop and PaintShop Pro. Because of a [security vulnerability](https://support.office.com/en-us/article/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e-a1b5-cbb0c334a840) in EPS files, Office 2016, Office 2013, Office 2010, and Office 365 have turned off the ability to insert EPS files into Office documents.
 
 ## Brief History ##
 

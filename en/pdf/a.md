@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "PDF/A",
+  "title" : "PDF/A File Format",
   "description":"Learn about PDF/A file format and APIs that can create and open PDF/A files.",
   "linktitle" : "PDF/A",
   "menu" : {

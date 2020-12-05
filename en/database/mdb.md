@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description" : "Learn about MDB file format and APIs that can create and open MDB files.",
-  "title" : "MDB - Microsoft Access Database File",
+  "title" : "MDB File Format - A Microsoft Access Database File",
   "linktitle" : "MDB",
   "menu" : {
     "docs" : {

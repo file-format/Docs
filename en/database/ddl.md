@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description" : "Learn about DDL file format and APIs that can create and open DDL files.",
-  "title" : "DDL - Data Definition Language File",
+  "title" : "DDL File Format - A Data Definition Language File",
   "linktitle" : "DDL",
   "menu" : {
     "docs" : {

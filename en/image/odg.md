@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "ODG",
+  "title" : "ODG File Format",
   "description":"Learn about ODG file format and APIs that can create and open ODG files.",
   "linktitle" : "ODG",
   "menu" : {

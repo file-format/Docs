@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description":"Learn about TR file format and APIs that can create and open TR files.",
-  "title" : "TR - TomeRaider EBook File Format",
+  "title" : "TR File Format - A TomeRaider EBook File",
   "linktitle" : "TR",
   "menu" : {
     "docs" : {
@@ -20,7 +20,6 @@
 ## What is a TR file?
 
 A file with a .tr extension is TomeRaider 2 e-book file that is created with TomeRaider eReader software. These files can be opened on both Windows and Handheld devices such as Android, Palm OS, and EPOC, and are categorized as text files. The TomeRaider software developed by [Yadabyte](http://www.yadabyte.com/index.php) website and the official website provides more information about the TR files. The TR2 file format was replaced by TR3 (TomeRaider 3) format. TR files offer fast searching and high compression levels.
-
 
 ## Brief History
 

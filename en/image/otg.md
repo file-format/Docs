@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "OTG",
+  "title" : "OTG File Format",
   "description":"Learn about OTG file format and APIs that can create and open OTG files.",
   "linktitle" : "OTG",
   "menu" : {

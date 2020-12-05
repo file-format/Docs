@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description" : "Learn about IGS file format and APIs that can create and open IGS files.",
-  "title" : "IGS File Format",
+  "title" : "IGS File Format: 2D-3D Design Exchange File",
   "linktitle" : "IGS",
   "menu" : {
     "docs" : {

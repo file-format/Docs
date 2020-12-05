@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description" : "Learn about SDT file format and APIs that can create and open SDT files.",
-  "title" : "What is a SDT file?",
+  "title" : "SDT File Format",
   "linktitle" : "SDT",
   "menu" : {
     "docs" : {

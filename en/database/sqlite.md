@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description" : "Learn about SQLITE file format and APIs that can create and open SQLITE files.",
-  "title" : "SQLite - Database File Format",
+  "title" : "SQLite File Format",
   "linktitle" : "SQLITE",
   "menu" : {
     "docs" : {

@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "CDR",
+  "title" : "CDR File Format - Vector Drawing Image File",
   "description":"Learn about CDR file format and APIs that can create and open CDR files.",
   "linktitle" : "CDR",
   "menu" : {

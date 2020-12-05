@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "PHP - PHP: Hypertext Preprocessor File Format",
+  "title" : "PHP File Format - Hypertext Preprocessor File Format",
   "description":"Learn about PHP file format and APIs that can create and open PHP files.",
   "linktitle" : "PHP",
   "menu" : {

@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "GZ - Gnu Zipped Archive",
+  "title" : "GZ - Gnu Zipped Archive File Format",
   "description":"Learn about GZ file format and APIs that can create and open GZ files.",
   "linktitle" : "GZ - Gnu Zipped Archive",
   "menu" : {

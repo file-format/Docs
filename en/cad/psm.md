@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description" : "Learn about PSM file format and APIs that can create and open PSM files.",
-  "title" : "PSM - Solid Edge Sheet Meta File Format",
+  "title" : "PSM File Format - Solid Edge Sheet Meta File",
   "linktitle" : "PSM",
   "menu" : {
     "docs" : {
