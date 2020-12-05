@@ -6,7 +6,7 @@
   "draft" : "true",
   "toc" : true,
   "description" : "Your file format guide to learn what is an ASPX file and APIs that can create and open them.",
-  "title" : "ASPX",
+  "title" : "ASPX File Format",
   "linktitle" : "ASPX",
   "menu" : {
     "docs" : {

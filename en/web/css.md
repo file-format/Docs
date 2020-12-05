@@ -5,7 +5,7 @@ author:
   display_name: Muhammad Ahmad Chishti
 draft: false
 toc: true
-title: What are CSS files?
+title: CSS File Format
 linktitle: CSS
 description: CSS (Cascading Style Sheets) are files that describe how HTML elements are displayed on screen, paper, etc.
 menu:
@@ -14,7 +14,7 @@ menu:
 lastmod: 2020-26-11
 ---
 
-## What are CSS files? ##
+## What is a CSS file? ##
 
 CSS (Cascading Style Sheets) are files that describe how HTML elements are displayed on the screen, paper, etc. With HTML, you can have either embedded styles or styles can be defined in an external stylesheet. For embedding the styles, the \<style>\</style> tags are used. The external stylesheets are stored in files with the .css extension. With the external CSS, you can include it on multiple HTML pages to update the style of those pages. Even a single CSS file can be used to style a complete website.
 
@@ -37,7 +37,7 @@ CSS files are stored in plain text format so these can be opened in any text edi
 
 To use a CSS file, you include it in the head section of the HTML document. You use the link tag to include the file as shown below.
 
-```
+```html
 <link rel="stylesheet" type="text/css" href="main.css"/>
 ```
 
@@ -47,7 +47,7 @@ the *href* attribute of the link tag contains the path to the CSS file. By doing
 
 A CSS rule comprises of two components, a selector and a declaration. A selector points to an element in the HTML document. It can either be an element tag, class name, id name, multiple tags showing the hierarchy, etc. A declaration contains the style definition comprising of property and value. The property identifies the property of the element that you want to change and the value defines its new value. Each CSS rule can have multiple declarations. The following is an example of a CSS rule.
 
-```
+```css
 h1{
     font-weight: 700;
     color: forestgreen;
@@ -62,7 +62,7 @@ The following shows the example HTML document and the stylesheet used to style i
 
 ### HTML Document ###
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -97,7 +97,7 @@ The following shows the example HTML document and the stylesheet used to style i
 
 ### CSS Stylesheet ###
 
-```
+```css
 body{
     background-color: lightblue;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;

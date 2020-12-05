@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "WMV",
+  "title" : "WMV File Format",
   "description":"Learn about WMV file format and APIs that can create and open WMV files.",
   "linktitle" : "WMV",
   "menu" : {

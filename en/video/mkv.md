@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "MKV",
+  "title" : "MKV File Format",
   "keywords" : [ "mkv", "matroska video", "mkv format", "how to play mkv files" ],
   "description":"MKV (Matroska video File) is a multimedia container similar to MOV and AVI format but it supports more than one audio and subtitle tracks in the same file.",
   "linktitle" : "MKV",
@@ -17,7 +17,7 @@
   "lastmod" : "2020-17-11"
 }
 
-## What Are MKV Files? ##
+## What is an MKV File? ##
 
 MKV (Matroska Video) is a multimedia container similar to [MOV](/video/mov/) and [AVI](/video/avi/) format but it supports more than one audio and subtitle tracks in the same file. An MKV file is the Matroska multimedia container format used for video. MKV is based on Extensible Binary Meta Language and it supports several video and audio compression formats. The major difference between MKV and other video formats is that MKV is a container and not a codec. MKV files are saved with the .mkv file extension. MKV can incorporate audio, video, and subtitles in a single file even if those elements use different types of encoding. For example, you could have an MKV file that contains H.264 video and MP3 or AAC for audio. MKV also supports descriptions, ratings, cover art, and even chapter points. There are several key features that MKV future proof. These features include:
 
@@ -151,7 +151,7 @@ The following table shows the structure of the Matroska document with most of th
 | | | | | TagBinary |
 | | | | | SimpleTag |
 
-## How to Play MKV Files ##
+## How to play MKV files ##
 
 Even though the support for the MKV format has grown rapidly, it is still not an industry standard and not all media players support it. There are two options to play MKV files, downloading a compatible media player, or downloading the codecs for the media player of your preference.
 
