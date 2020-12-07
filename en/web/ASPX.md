@@ -3,17 +3,17 @@
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
-  "draft" : "true",
+  "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to learn what is an ASPX file and APIs that can create and open them.",
   "title" : "ASPX File Format",
+  "description" : "Your file format guide to learn what is an ASPX file and APIs that can create and open ASPX files.",
   "linktitle" : "ASPX",
   "menu" : {
     "docs" : {
       "parent" : "web"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod" : "2020-09-10"
 }
 
 ## What is an ASPX file?
