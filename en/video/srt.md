@@ -1,5 +1,5 @@
 ---
-date: 2020-10-12
+date: 2019-10-11
 keywords: srt, .srt, srt file format, .srt file format, .srt extension, srt extension
 author:
   display_name: Muhammad Ahmad Chishti
