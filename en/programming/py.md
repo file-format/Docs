@@ -1,5 +1,5 @@
 ---
-date: 2020-24-11
+date: 2019-10-11
 keywords: py, python, .py, py file format, how to open py files, how to run py files, how to run python files, how to run python
 author:
   display_name: Muhammad Ahmad Chishti
