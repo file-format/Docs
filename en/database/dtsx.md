@@ -17,7 +17,7 @@
   "lastmod" : "2020-08-12"
 }
 
-## What is an DTSX file?
+## What is a DTSX file?
 
 A file with .dtsx (Data Transformation Services Package XML) extension is a Data Transformation Services (DTS) file that is used by Microsoft SQL for referring to data migration steps/rules for transfer of data from one database to another. This includes the transformations and any optional processing steps that may be required during the data transfer between the originating and destination points. SQL Server Integration Services (SSIS), a  component of Microsoft SQL Server, uses the DTSX files to identify the steps for processing of data between database servers. DTSX files can be opened with Microsoft SQL Server 2019.
 
