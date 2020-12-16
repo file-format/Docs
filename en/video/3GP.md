@@ -5,7 +5,7 @@ author:
   display_name: Muhammad Ahmad Chishti
 draft: false
 toc: true
-description: 3GP(3GPP File Format) is a multimedia container format that can be used on 3G mobile phones. 3GP files are stored with the .3gp extension.
+description: Learn about 3GP file format and APIs that can create and open 3GP files.
 title: 3GP File Format
 linktitle: 3GP
 menu:
