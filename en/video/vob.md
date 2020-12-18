@@ -5,7 +5,7 @@ author:
   display_name: Muhammad Ahmad Chishti
 draft: false
 toc: true
-description: VOB files are stored typically in the VIDEO_TS directory on a DVD with a .vob extension.
+description: Learn about VOB file format and APIs that can create and open VOB files.
 title: VOB File Format
 linktitle: VOB
 menu:

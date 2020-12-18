@@ -7,7 +7,7 @@
   "toc" : true,
   "title" : "MKV File Format",
   "keywords" : [ "mkv", "matroska video", "mkv format", "how to play mkv files" ],
-  "description":"MKV (Matroska video File) is a multimedia container similar to MOV and AVI format but it supports more than one audio and subtitle tracks in the same file.",
+  "description":"Learn about MKV file format and APIs that can create and open MKV files.",
   "linktitle" : "MKV",
   "menu" : {
     "docs" : {
