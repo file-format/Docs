@@ -5,7 +5,7 @@ author:
   display_name: Muhammad Ahmad Chishti
 draft: false
 toc: true
-description: FLV (Flash Video) is a container file format for video content with the .flv extension.
+description: Learn about FLV file format and APIs that can create and open FLV files.
 title: FLV File Format
 linktitle: FLV
 menu:

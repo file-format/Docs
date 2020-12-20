@@ -5,7 +5,7 @@ author:
   display_name: Muhammad Ahmad Chishti
 draft: false
 toc: true
-description: SRT(SubRip file format) is a simple subtitle file saved in the SubRip file format with the .srt extension.
+description: Learn about SRT file format and APIs that can create and open SRT files.
 title: SRT File Format
 linktitle: SRT
 menu:

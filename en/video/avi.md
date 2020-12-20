@@ -6,6 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "AVI File Format - An Audio Video Interleave File",
+  "description":"Learn about AVI file format and APIs that can create and open AVI files.",
   "linktitle" : "AVI",
   "menu" : {
     "docs" : {

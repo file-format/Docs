@@ -7,7 +7,7 @@ draft: false
 toc: true
 title: Java File Format
 linktitle: Java
-description: Java is a general-purpose object oriented language that can run on multiple platforms. The Java source code is contained in files with the .java extension.
+description: Learn about Java file format and APIs that can create and open Java files.
 menu:
   docs:
     parent: "programming"

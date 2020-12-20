@@ -7,7 +7,7 @@ draft: false
 toc: true
 title: PY File Format
 linktitle: PY
-description: .py files contain the Python source code that can be executed on multiple platforms.
+description: Learn about PY file format and APIs that can create and open PY files.
 menu:
   docs:
     parent: "programming"

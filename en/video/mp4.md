@@ -5,7 +5,7 @@ author:
   display_name: Muhammad Ahmad Chishti
 draft: false
 toc: true
-description: MP4(short for MPEG-4 Part 14) is a file format based on ISO/IEC 14496-12:2004 that is based on QuickTime File Format. It is saved with the .mp4 extension.
+description: Learn about MP4 file format and APIs that can create and open MP4 files.
 title: MP4 File Format
 linktitle: MP4
 menu:
