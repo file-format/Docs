@@ -25,9 +25,9 @@ A file with .ldf extension is a log file maintained by Microsoft SQL Server whic
 
 An SQL log file records the following operations:
 
- * The start and end of each transaction.
+ * The beginning and end of each transaction.
 
- * Every data modification (insert, update, or delete). This includes changes by system stored procedures or data definition language (DDL) statements to any table, including system tables.
+ * Each data data modification (insert, update, or delete). This also includes changes by system stored procedures or data definition language (DDL) statements to any table, including system tables.
 
  * Every extent and page allocation or deallocation.
 
@@ -41,4 +41,4 @@ The LDF file consists of SQL Server transaction records that are arranged as str
 ## References
 
  * [Database Files and Filegroups](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
- * [Database Detach and Attach - SQL Server](https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql-server-ver15)
+ * [Transaction Log Architecture and Management Guide](https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql-server-ver15)
