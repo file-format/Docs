@@ -22,7 +22,7 @@ A file with .jar extension is a Java ARchive file that contains many different a
 
 ## JAR File Format
 
-JAR files are based on the popular [ZIP file format](/compression/zip/) that archives its individual content files in a single file. JAR file format supports compressions, resulting in a smaller file size for downloading and hence further improves the download time. The JAR file specifications artilce by Oracle gives complete details about the internal specifications of JAR files.
+JAR files are based on the popular [ZIP file format](/compression/zip/) that archives its individual content files in a single file. JAR file format supports compressions, resulting in a smaller file size for downloading and hence further improves the download time. The [JAR file specifications](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html) artilce by Oracle gives complete details about the internal specifications of JAR files.
 
 ### The Manifest File
 
