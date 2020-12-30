@@ -32,7 +32,7 @@ To stream RealAudio files, the majority of pages link to the RAM (Real Audio Met
 
 ## RealAudio Audio Codecs ##
 
-Here is a list of audio codecs along with the version of RealAudio that introduced it.
+Here is a list of audio codecs each identified by a four character code along with the version of RealAudio that introduced it.
 
 |Codec|RealAudio Version|
 |---|---|
