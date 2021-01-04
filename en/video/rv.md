@@ -1,6 +1,6 @@
 ---
 date: 2019-10-11
-keywords: rv, .rv, rv file format, .rv file format, .rv extension,  rv video format
+keywords: rv, .rv, rv file format, .rv file format, .rv extension,  rv video format, RealVideo file format
 author:
   display_name: Muhammad Ahmad Chishti
 draft: false
@@ -18,7 +18,7 @@ lastmod: 2020-30-12
 
 RealVideo (RV) is a proprietary video format developed by RealNetworks and released in 1997. The RealVideo files are stored with the .rv extension. RealVideo is supported on multiple platforms like Windows, Mac, Linux, etc.
 
-Usually, RealVideo is paired with [RealAudio (RA)](/audio/ra/) in the RealMedia (RM) container. It is suitable for streaming content over the internet and can be used for streaming live television for example.
+Usually, RealVideo is paired with [RealAudio (RA)](/audio/ra/) in the [RealMedia (RM)](/video/rm/) container. It is suitable for streaming content over the internet and can be used for streaming live television for example.
 
 ## Technology ##
 
@@ -26,7 +26,7 @@ The first version of RealVideo announced in 1997 was based on the H.263 format. 
 
 RealVideo can be played from a RealMedia file or can be streamed over the internet by using the Real Time Streaming Protocol (RSTP). RSTP is used to manage the connection, to send the actual data, the Real Data Transport (RDT) protocol is used.
 
-For real-time streaming, RealVideo uses a constant bit rate encoding. RealNetworks recently introduced a variable bit rate variant of RealMedia as RealMedia Variable Bitrate (RMVB). RMVB allows for the better video quality but is less suited for streaming as network capacity cannot be predicted.
+For real-time streaming, RealVideo uses a constant bit rate encoding. RealNetworks recently introduced a variable bit rate variant of RealMedia as [RealMedia Variable Bitrate (RMVB)](/video/rmvb/). RMVB allows for the better video quality but is less suited for streaming as network capacity cannot be predicted.
 
 ## Video compression formats and codecs ##
 
