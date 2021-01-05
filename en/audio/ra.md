@@ -1,6 +1,6 @@
 ---
 date: 2019-12-13
-keywords: ra, ra file format, .ra extension, real audio file format, ra audio format
+keywords: ra, ra file format, .ra extension, real audio file format, ra audio format, RealAudio file format
 author:
   display_name: Muhammad Ahmad Chishti
 draft: false
@@ -20,7 +20,7 @@ RealAudio (RA) is a proprietary audio format developed by Real Networks, Inc. an
 
 ## File extension by RealNetworks ##
 
-RealNetworks used the RA file format for audio. RealNetworks started offering video format (RealVideo) in 1997 with the .rv extension. RealMedia (RM) was used for the combination of audio and video formats. With the latest release of RealProduce (Real's encoder), RV format is used for video files and RMVB format is used for VBR (Variable bitrate) video files.
+RealNetworks used the RA file format for audio. RealNetworks started offering video format ([RealVideo](/video/rv/)) in 1997 with the .rv extension. [RealMedia (RM)](/video/rm/) was used for the combination of audio and video formats. With the latest release of RealProduce (Real's encoder), RV format is used for video files and [RealMedia Variable Bitrate (RMVB)](/video/rmvb/) format is used for VBR (Variable bitrate) video files.
 
 ## Streaming Audio ##
 
