@@ -40,7 +40,7 @@ YAML file consists of the following data types
 - **Sequences**: Sequences are lists with each item starting with a hyphen (-). Lists can also be nested.
 - **Mappings**: Mapping gives the ability to list keys with values.
 
-## Syntax ##
+### Syntax ###
 
 - **Whitespace**: Whitespace indentation is used to indicate nesting and overall structure.
 
