@@ -1,5 +1,5 @@
 ---
-date: 2020-25-11
+date: 2019-10-11
 keywords: sass, .sass, sass file format, how to open sass files, syntactically awesome stylesheet, css preprocessor, sass
 author:
   display_name: Muhammad Ahmad Chishti
