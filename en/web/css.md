@@ -1,5 +1,5 @@
 ---
-date: 2020-25-11
+date: 2019-10-11
 keywords: css, .css, css file format, how to open css files, cascading style sheets
 author:
   display_name: Muhammad Ahmad Chishti
@@ -7,7 +7,7 @@ draft: false
 toc: true
 title: CSS File Format
 linktitle: CSS
-description: CSS (Cascading Style Sheets) are files that describe how HTML elements are displayed on screen, paper, etc.
+description: Learn about CSS file format and APIs that can create and open CSS files.
 menu:
   docs:
     parent: "web"

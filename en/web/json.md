@@ -1,5 +1,5 @@
 ---
-date: 2020-04-12
+date: 2019-10-11
 keywords: json, .json, json file format, how to open json files, javascript object notation, json data format, .json file format
 author:
   display_name: Muhammad Ahmad Chishti
@@ -7,7 +7,7 @@ draft: false
 toc: true
 title: JSON File Format
 linktitle: JSON
-description: JSON (JavaScript Object Notation) is an open standard file format for sharing data that uses human-readable text to store and transmit data. JSON files are stored with the .json extension.
+description: Learn about JSON file format and APIs that can create and open JSON files.
 menu:
   docs:
     parent: "web"

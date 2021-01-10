@@ -1,5 +1,5 @@
 ---
-date: 2020-02-12
+date: 2019-10-11
 keywords: js, .js, js file format, how to open js files, javascript files
 author:
   display_name: Muhammad Ahmad Chishti
@@ -7,7 +7,7 @@ draft: false
 toc: true
 title: JS File Format
 linktitle: JS
-description: JS (JavaScript) are files that contain JavaScript code for execution on web pages. JavaScript files are stored with the .js extension.
+description: Learn about JS file format and APIs that can create and open JS files.
 menu:
   docs:
     parent: "web"
