@@ -7,7 +7,7 @@ draft: false
 toc: true
 title: CSS File Format
 linktitle: CSS
-description: CSS (Cascading Style Sheets) are files that describe how HTML elements are displayed on screen, paper, etc.
+description: Learn about CSS file format and APIs that can create and open CSS files.
 menu:
   docs:
     parent: "web"

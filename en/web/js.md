@@ -7,7 +7,7 @@ draft: false
 toc: true
 title: JS File Format
 linktitle: JS
-description: JS (JavaScript) are files that contain JavaScript code for execution on web pages. JavaScript files are stored with the .js extension.
+description: Learn about JS file format and APIs that can create and open JS files.
 menu:
   docs:
     parent: "web"

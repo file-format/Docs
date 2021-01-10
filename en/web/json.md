@@ -7,7 +7,7 @@ draft: false
 toc: true
 title: JSON File Format
 linktitle: JSON
-description: JSON (JavaScript Object Notation) is an open standard file format for sharing data that uses human-readable text to store and transmit data. JSON files are stored with the .json extension.
+description: Learn about JSON file format and APIs that can create and open JSON files.
 menu:
   docs:
     parent: "web"
