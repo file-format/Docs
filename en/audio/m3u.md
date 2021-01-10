@@ -14,7 +14,7 @@ menu:
 lastmod: 2020-22-12
 ---
 
-## What is an M3U file? ##
+## What is a M3U file? ##
 
 M3U (MP3 URL) is an audio playlist file stored with the .m3u extension. M3U is not an actual audio file, it just points to audio and sometimes video files. M3U was developed to be used with Winplay3 software by Fraunhofer. It is also supported by various media players and software.
 

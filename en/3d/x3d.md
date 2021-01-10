@@ -16,11 +16,12 @@
   "lastmod" : "2019-09-10"
 }
 
+## What is a X3D file?
 X3D is an [XML](/web/xml/) based 3D graphics file format for presentation of 3D information. It is a modular standard and is defined through several ISO specifications. The format supports vector and raster graphics, transparency, lighting effects, and animation settings including rotations, fades, and swings. It became successor of [VRML](/3d/vrml/) file format in 2001. X3D has the advantage of encoding colour information (unlike [STL](/cad/stl/)) that is used during printing the model on a colour 3D printer. The format features extensions to VRML, providing the capability to encode the scene using an XML syntax as well as the Open Inventor-like syntax of VRML97 or binary formatting.
 
 The abstract specification for X3D (ISO/IEC 19775) was first approved by the ISO in 2004. The XML and ClassicVRML encodings for X3D (ISO/IEC 19776) were first approved in 2005.
 
-## X3D File Structure ##
+## X3D File Format
 
 X3D scene files have a common file structure:
 

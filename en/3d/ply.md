@@ -17,7 +17,7 @@
   "lastmod" : "2019-09-10"
 }
 
-# What is a PLY file? #
+## What is a PLY file?
 
 PLY, Polygon File Format, represents 3D file format that stores graphical objects described as a collection of polygons. The purpose of this file format was to establish a simple and easy file type that is general enough to be useful for a wide range of models. PLY file format comes as ASCII as well as Binary format for compact storage and for rapid saving and loading. The file format is used by different applications that provide support for 3D files reading.
 
@@ -31,15 +31,15 @@ Objects in a PLY format are described by a collection of vertices, faces and oth
 
 An object represented by PLY format can be the result of various sources such as hand-digitized objects, polygon objects from modelling applications, range data, triangles from marching cubes, terain data and radiosity models.
 
-## Brief History ##
+## Brief History
 
 The PLY format was developed in in 1990's by Greg Turk and others in the Stanford graphics lab and that is why it is also known as Stanford Triangle Format. The file format has version 1.0 since then and no further modifications were done.
 
-## PLY File Format ##
+## PLY File Format
 
 A simple PLY object consists of collection of elements for representation of the object. It consists of a list of (x,y,z) triples of a vertices and a list of faces that are actually indices into the list of vertices. Vertices and faces are two examples of elements and majority of the PLY file consists of these two elements. New properties can also be created and attached to the elements of an object, but these should be added in such a way that old programs do not break when these new properties are encountered. Such properties can be discarded by reading applications as well. Moreover, new elements can be created and properties can be defined with this element  as well.
 
-### File Structure ###
+### File Structure
 
 The file structure of a PLY file format is as follow:
 
@@ -50,7 +50,7 @@ The file structure of a PLY file format is as follow:
 |Face List
 |List of other elements
 
-#### Example Structure ####
+#### Example Structure
 
 We will use the following example below in our subsequent discussion for various parts of a PLY file format.
 
@@ -82,11 +82,11 @@ end_header                 { delimits the end of the header }
 4 3 7 4 0
 ```
 
-#### File Header ####
+#### File Header
 
 PLY file format header consists of ASCII text for both the ASCII as well as the binary format.  The start and end of header section is identified by ply and end-header keywords. The start of header has the magic word ply which is used for recognition of PLY file format by readers. The next line shows the version number for this file. Comments in a PLY file format start with comment keyword at the start of each comment line.
 
-#### Element Keyword ####
+#### Element Keyword
 
 The element keyword then tells what's inside the file. It is followed by properties for that specific element type where each property has its property type and order specified as shown below:
 
@@ -99,7 +99,7 @@ property float z           { z coordinate, too }
 
 In this particular example, the specific vertex element has 3 properties of type float with their order specified.
 
-#### Types of Data Types ####
+#### Types of Data Types
 
 There are two type of data types that a property may have.
 
