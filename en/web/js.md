@@ -1,5 +1,5 @@
 ---
-date: 2020-02-12
+date: 2019-10-11
 keywords: js, .js, js file format, how to open js files, javascript files
 author:
   display_name: Muhammad Ahmad Chishti
