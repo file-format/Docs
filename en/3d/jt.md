@@ -17,7 +17,7 @@
   "lastmod" : "2019-09-10"
 }
 
-# What is a JT file? #
+## What is a JT file?
 
 **JT** (Jupiter Tessellation) is an efficient, industry-focused and flexible ISO-standardized 3D data format developed by Siemens PLM Software. Mechanical CAD domains of Aerospace, automotive industry, and Heavy Equipment use JT as their most leading 3D visualization format.
 
@@ -25,7 +25,7 @@ JT format is a scene graph that supports the attributes and nodes that are CAD s
 
 As JT supports nearly all important 3D CAD formats its assembly can deal with a variety of combination which is known as "multi-CAD". This multi-CAD assembly is always well managed and up-to-date because synchronization among native CAD product description files with their associated JT files takes place automatically. JT files are originally lightweight, so considered to be suitable for internet collaborations. Companies Collaborate through sending 3D visualizations over the media much more easily as compared to “heavy" original CAD files. In addition, JT files ensures many security feature that make intellectual property sharing more secure.
 
-## History ##
+## History
 
 Engineering Animation, Inc. and Hewlett Packard were the original designers of JT, who developed that format as the Direct Model toolkit. After EAI was acquired by UGS Corp. JT became a part of UGS’s suite. Early in 2007, UGS announced JT as their master 3D format. In the same year, Siemens AG purchased UGS and turn out to be Siemens PLM Software. Siemens uses JT as the common interoperability format and data archival format. In 2009, ISO accepted JT specification for publication as an ISO Publicly Available Specification (PAS).In the middle of 2010, ProSTEP iViP announced that at industrial level, JT and STEP AP 242 XML can be used together to achieve the maximum advantage in data exchange scenarios. In 2012, JT has been officially declared as an ISO-standardized (ISO 14306:2012 (ISO JT V1)) 3D visualization format.
 
