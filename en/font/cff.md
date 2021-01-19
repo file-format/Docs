@@ -18,10 +18,11 @@
 
 ## What is a CFF file?
 
-A file with .cff extension is a Compact Font Format and is also known as a PostScript Type 1, or CIDFont. CFF acts as a container to store multiple fonts together in a single unit known as a FontSet. The design of CFF fonts allow embedding PostScript language code that permits additional flexibility and extensibility of the format for usage with printer environments.
-
+A file with .cff extension is a Compact Font Format and is also known as a PostScript Type 1, or CIDFont. CFF acts as a container to store multiple fonts together in a single unit known as a FontSet. The design of CFF fonts allow embedding PostScript language code that permits additional flexibility and extensibility of the format for usage with printer environments. CFF font files can be opened and converted using APIs such as [Aspose.Font](https://products.aspose.com/font).
 
 ## CFF File Format
+
+CFF files are binary files that contain a structured data layout, has defined data types, a header, glyph organization and table dictionaries. More details about these can be found in the [compact font format specifications](http://wwwimages.adobe.com/content/dam/Adobe/en/devnet/font/pdfs/5176.CFF.pdf).
 
 ### Data Layout
 The data layout of CFF file format is as shown below.
