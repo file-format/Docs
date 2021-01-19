@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "CFF - TrueType Font File Format",
+  "title" : "CFF - Compact Font File Format",
   "description":"Learn about CFF File Format and APIs to create and open CFF files.",
   "linktitle" : "CFF",
   "menu" : {
