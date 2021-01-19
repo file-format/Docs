@@ -27,7 +27,7 @@ A PRC file has one main header section followed by one or more file structures f
 - **Globals**: It contains the referenced file structures and colors, line styles, and coordinate systems for each tree entity of the file structure.
 - **Tree**: It contains a description of the tree of items like product occurrences, part definitions, representation items, and markup.
 - **Tessellation**: It contains all the tessellated(triangulated) data in the leaf entities of the tree(representation items and markups).
-- **Geometry**: Ite contains all exact geometry and topology data of the leaf entities of the tree(representation items).
+- **Geometry**: It contains all exact geometry and topology data of the leaf entities of the tree(representation items).
 - **Extra geometry**: It contains the summary data of the geometry. This allows the file to be partially loaded without loading the entire geometry.
 
 The following is the structure of a typical PRC file.
