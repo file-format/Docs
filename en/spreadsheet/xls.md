@@ -17,9 +17,11 @@
   "lastmod" : "2019-12-16"
 }
 
+## What is an XLS file?
+
 Files with XLS extension represent Excel Binary File Format. Such files can be created by Microsoft Excel as well as other similar spreadsheet programs such as OpenOffice Calc or Apple Numbers. File saved by Excel is known as Workbook where each workbook can have one or more worksheets. Data is stored and displayed to users in table format in worksheet and can span numeric values, text data, formulas, external data connections, images, and charts. Applications like Microsoft Excel lets you export workbook data to several different formats including [PDF](/pdf/), [CSV](/spreadsheet/csv/), [XLSX](/spreadsheet/xlsx/), [TXT](/word-processing/txt/), [HTML](/web/html/), [XPS](/page-description-language/xps/), and several others. The XLS file format was replaced with a more open and structured format, XLSX, with the release of Microsoft Excel 2007. The latest versions still provide support for creating and reading XLS files, though XLSX is the first choice of use now.
 
-## Brief History ##
+## Brief History
 
 XLS was created by Microsoft for use with Microsoft Excel and is also known as Binary Interchange File Format (BIFF). This file type was introduced for the first time by making it part of Excel for Windows in 1987. XLS file format specifications were made public for the first in June 2008 as Revision 1. After that, the specifications were continuously updated and the latest revision available is as of August 2018 that is marked as Revision 8.0. A brief history of different versions of XLS file format is as follow:
 
@@ -35,7 +37,7 @@ Data is arranged in an XLS file as binary streams in the form of a compound file
 
 #### Stream and Substream ####
 
-A workbook is represented by the workbook stream. Each worksheet in a workbook is represented by Substreams. In addition, it has Chart Sheet Substream, Macro Sheet Substream, or Dialog Sheet Substream that follows the Global Substream. Each binary stream or substream that contains workbook data MUST be written as a series of binary records. 
+A workbook is represented by the workbook stream. Each worksheet in a workbook is represented by Substreams. In addition, it has Chart Sheet Substream, Macro Sheet Substream, or Dialog Sheet Substream that follows the Global Substream. Each binary stream or substream that contains workbook data MUST be written as a series of binary records.
 
 #### Record ####
 
