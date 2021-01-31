@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "TXT",
+  "title" : "TXT - Text Document File",
   "description":"Learn about TXT file format and APIs that can create and open TXT files.",
   "linktitle" : "TXT",
   "menu" : {
@@ -15,6 +15,8 @@
   },
   "lastmod" : "2019-09-10"
 }
+
+## What is a TXT file?
 
 A file with .TXT extension represents a text document that contains plain text in the form of lines. Paragraphs in a text document are recognized by carriage returns and are used for better arrangement of file contents. A standard text document can be opened in any text editor or word processing application on different operating systems. All the text contained in such a file is in human-readable format and represented by sequence of characters.
 

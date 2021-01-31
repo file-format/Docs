@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "PPS",
+  "title" : "PPS - PowerPoint Slide Show File",
   "description":"Learn about PPS file format and APIs that can create and open PPS files.",
   "linktitle" : "PPS",
   "menu" : {
@@ -15,6 +15,8 @@
   },
   "lastmod" : "2019-09-10"
 }
+
+## What is a PPS file?
 
 PPS, PowerPoint Slide Show, files are created using Microsoft PowerPoint for Slide Show purpose. PPS file reading and creation is supported by Microsoft PowerPoint 97-2003. The more latest version of this file format is [PPSX ](/presentation/ppsx/)which is based on Office OpenXML standards. PPS files can still be read by latest versions of Microsoft PowerPoint, but newly created files can only be saved in PPSX file format. When a PPS file is shared with another user and opened, it starts as Powerpoint show unlike [PPT](/presentation/ppt/) file which opens in editable mode.
 

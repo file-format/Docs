@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description":"Learn about PPT file format and APIs that can create and open PPT files.",
-  "title" : "PPT File Format",
+  "title" : "PPT - PowerPoint File Format",
   "linktitle" : "PPT",
   "menu" : {
     "docs" : {
@@ -16,6 +16,8 @@
   },
   "lastmod" : "2019-09-10"
 }
+
+## What is a PPT file?
 
 A file with PPT extension represents PowerPoint file that consists of a collection of slides for displaying as SlideShow. It specifies the Binary File Format used by Microsoft PowerPoint 97-2003. A PPT file can contain several different types of information such as text, bulleted points, images, multimedia and other embedded OLE objects. Microsoft came up with newer file format for PowerPoint, known as [PPTX](/presentation/pptx/), from 2007 onwards that is based on Office OpenXML and is different from this binary file format. Several other application programs such as OpenOffice Impress and Apple Keynote can also create PPT files.
 

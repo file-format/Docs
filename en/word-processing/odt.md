@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "ODT",
+  "title" : "ODT - OpenDocument Text File",
   "description":"Learn about ODT file format and APIs that can create and open ODT files.",
   "linktitle" : "ODT",
   "menu" : {
@@ -15,6 +15,8 @@
   },
   "lastmod" : "2019-09-10"
 }
+
+## What is an ODT file?
 
 ODT files are type of documents created with word processing applications that are based on OpenDocument Text File format. These are created with word processor applications such as free OpenOffice Writer and can hold content such as text, images, objects and styles. The ODT file is to Writer word processor what the [DOCX](https://wiki.fileformat.com/create/word-processing/docx/WebHome?parent#Word+Processing.ODT.WebHome) is to Microsoft Word. Several applications including Google Docs and Google's web-based word processor included with Google Drive can open the ODT files for editing. Microsoft Word can also open ODT files and save it in to other formats such as [DOC](https://wiki.fileformat.com/create/word-processing/doc/WebHome?parent#Word+Processing.ODT.WebHome) and DOCX.
 

@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "PPTM",
+  "title" : "PPTM - Macro-Enabled PowerPoint Presentation File Format",
   "description":"Learn about PPTM file format and APIs that can create and open PPTM files.",
   "linktitle" : "PPTM",
   "menu" : {

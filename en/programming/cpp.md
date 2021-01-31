@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "CPP",
+  "title" : "CPP - C++ Source Code File",
   "description":"Learn about CPP file format and APIs that can create and open CPP files.",
   "linktitle" : "CPP",
   "menu" : {
@@ -15,6 +15,8 @@
   },
   "lastmod" : "2019-09-10"
 }
+
+## What is a C++ file?
 
 Files with CPP file extension are source code files for applications written in C++ programming language. A single C++ project may contain more than one CPP files as application source code. Such a project consists of different file types, of which the CPP files are known as implementation files as they contain all the definitions of the methods declared in the header (.h) file. The C++ project as a whole results in an executable application when compiled as a whole.
 

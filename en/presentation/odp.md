@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "ODP",
+  "title" : "ODP -  OpenOffice Presentation File Format",
   "description":"Learn about ODP file format and APIs that can create and open ODP files.",
   "linktitle" : "ODP",
   "menu" : {

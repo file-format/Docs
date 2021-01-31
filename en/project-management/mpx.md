@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "MPX",
+  "title" : "MPX - Microsoft Project Exchange File Format",
   "description":"Learn about MPX file format and APIs that can create and open MPX files.",
   "linktitle" : "MPX",
   "menu" : {
@@ -16,19 +16,19 @@
   "lastmod" : "2019-09-10"
 }
 
+## What is a MPX file?
+
 MPX, Microsoft Exchange File Format, is an ASCII file format for transferring of project information between Microsoft Project (MSP) and other applications that support the MPX file format such as Primavera Project Planner, Sciforma and Timerline Precision Estimating. The MPX file format allows you to transfer project information that cannot appear in a table, such as detailed resource assignment information, calendar information, or information in the Project Info dialog box.
 
 The initial version of Microsoft Project 4.0 started the support for creating and reading MPX file formats that continued till Microsoft Project 98. However, support for creating MPX files was discontinued with the release of Microsoft Project 2000 and the versions till Microsoft Project 2010 support only MPX reading. Versions later than MSP 2010 do not support reading of MPX file format.
 
-## MPX File Format ##
+## MPX File Format
 
 The information in this section gives a brief introduction to the MPX file format specifications. Complete specifications can be found in this [Knowledge Base](https://support.microsoft.com/en-us/help/270139/prj-description-of-the-mpx-project-file-exchange-format) article and can be referred for details.
 
-### Records ###
+### Records
 
 A Record of MPX file consists of information for the project. There are different types of records where each record has its own order. Each record type is identified by its record number. For an MPX file, it is necessary to contain File Creation record type. Other type of records are not mandatory. The following table shows all the record types, record number used to identify each record type and the number of records of each type that can be included in the MPX file. Any records included in the MPX file must be in the order shown in the table, except that Comment records can be inserted anywhere in the file.
-
-
 
 |Record Name|Record Number|Maximum number of Records
 ---|---|---|

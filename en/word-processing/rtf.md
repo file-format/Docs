@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "RTF",
+  "title" : "RTF - Rich Text Format",
   "description":"Learn about RTF file format and APIs that can create and open RTF files.",
   "linktitle" : "RTF",
   "menu" : {
@@ -15,6 +15,8 @@
   },
   "lastmod" : "2019-09-10"
 }
+
+## What is a RTF file?
 
 Introduced and documented by Microsoft, the Rich Text Format (**RTF**) represents a method of encoding formatted text and graphics for use within applications. The format facilitates cross-platform document exchange with other Microsoft Products, thus serving the purpose of interoperability. This capability makes it a standard of data transfer between word processing software and, hence, contents can be transferred from one operating system to another without losing document formatting. The file format specifications are available by Microsoft for public [download](https://www.microsoft.com/en-us/download/details.aspx?id#10725) and can be referred to from developer's perspective.
 

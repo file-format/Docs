@@ -16,6 +16,8 @@
   "lastmod" : "2019-09-10"
 }
 
+## What is a TAR file?
+
 Files with .tar extension are archives created with Unix-based utility for collecting one or more files. Multiple files are stored in an uncompressed format with the support of adding files as well as folders to the archive. TAR utility on Unix is Command based, but files hence created are supported by most file archiving systems on almost all operating systems. It was first created in 1979 by the AT&T Bell Laboratories and subsequent versions were published with the passage of time.
 
 # TAR File Format #

@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description":"Learn about PPTX file format and APIs that can create and open PPTX files.",
-  "title" : "PPTX File Format - What is a PPTX file?",
+  "title" : "PPTX - PowerPoint Presentation File Format",
   "linktitle" : "PPTX",
   "menu" : {
     "docs" : {
@@ -17,19 +17,21 @@
   "lastmod" : "2019-09-10"
 }
 
+## What is a PPTX file?
+
 Files with PPTX extension are presentation files created with popular Microsoft PowerPoint application. Unlike the previous version of presentation file format PPT which was binary, the PPTX format is based on the Microsoft PowerPoint open XML presentation file format. A presentation file is a collection of slides where each slide can comprise of text, images, formatting, animations, and other media. These slides are presented to audience in the form of slideshows with custom presentation settings.
 
-## Brief History ##
+## Brief History
 
 PPTX file format was introduced in 2007 and uses the Open XML standard adapted by Microsoft back in 2000. Previous to PPTX, the common file format used was PPT that was pure binary file format. The new file type has added advantages of small file sizes, less changes of corruption and well formatted images representation. It was in the early 2000 when Microsoft decided to go for the change to accommodate the standard for **Office Open XML**. By 2007, this new file format became part of Office 2007 and is carried on in the new versions of Microsoft Office as well.
 
-## File Format Specifications ##
+## File Format Specifications
 
 Files generated with office Open XML file format is a collection of XML files along with other files that provide links between all the constituent files. This collection is actually a compressed archive that can be extracted to view its contents. To do so, just rename the PPTX file extension with zip and extract it for observing its contents.
 
 Following sections shed some light on each one of these.
 
-### [Content_Types].xml ###
+### [Content_Types].xml
 
 This is the only file that is found at the base level when the zip is extracted. It lists the content types for parts within the package. All references to the XML files included in the package are referenced in this XML file. Following is a content type for a slide part:
 
