@@ -22,6 +22,6 @@ The electronic representation of a three-dimensional object is known as 3D file.
 
 Got queries related to 3D file formats? Head on to our community [forums](https://forum.fileformat.com/c/3d) to benefit from the knowledge shared by File Format experts.
 
-## List of 3D File Formats
+## List of 3D File Extensions and Associated File Formats
 
 Following is a list of popular 3D file formats that find their use in almost all daily work related to 3D.

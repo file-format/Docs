@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description" : "Learn about MP3 file format and APIs that can open and create MP3 files.",
-  "title" : "What is a MP3 file?",
+  "title" : "MP3 - Audio File Format",
   "linktitle" : "MP3",
   "menu" : {
     "docs" : {

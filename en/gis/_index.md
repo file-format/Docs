@@ -24,5 +24,5 @@ Common GIS file extensions and their file formats include **[GPX](/gis/gpx/)**
 
 Got queries related to GIS file formats? Head on to our community [forums](https://forum.fileformat.com/c/gis) to benefit from the knowledge shared by File Format experts.
 
-# List of GIS File Extensions and Associated File Formats #
+## List of GIS File Extensions and Associated File Formats
 Following is a list of common GIS file formats along with their file extensions.

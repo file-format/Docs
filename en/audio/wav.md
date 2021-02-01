@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description" : "Learn about WAV file format and APIs that can create and open WAV files.",
-  "title" : "What is a WAV file?",
+  "title" : "WAV - Waveform Audio File Format",
   "linktitle" : "WAV",
   "menu" : {
     "docs" : {

@@ -17,6 +17,6 @@
   "lastmod" : "2019-09-10"
 }
 
-# What are Video File Formats? #
+## List of Video File Extensions and Associated File Formats
 
 Following is a list of popular Video file formats that find their use in almost all daily work related to videos.

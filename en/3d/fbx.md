@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description" : "Your file format guide to know what is an FBX file and APIs that can create and open them.",
-  "title" : "What is FBX file?",
+  "title" : "FBX - FilmBox 3D File Format",
   "linktitle" : "FBX",
   "menu" : {
     "docs" : {

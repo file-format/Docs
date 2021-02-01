@@ -23,6 +23,6 @@ Common developer or programming file extensions and their associated file format
 
 Got queries related to Project Management file formats? Head on to our community [forums](https://forum.fileformat.com/c/programming) to benefit from the knowledge shared by File Format experts.
 
-# List of Programming File Extensions and Associated File Formats #
+## List of Programming File Extensions and Associated File Formats
 
 Following is a lit of Programming File Formats along with their file extensions.

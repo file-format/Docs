@@ -22,6 +22,6 @@ CAD stands for Computer Aided Design. The term CADD (for Computer Aided Design a
 
 Got queries related to CAD file formats? Head on to our community [forums](https://forum.fileformat.com/c/cad) to benefit from the knowledge shared by File Format experts.
 
-# What are CAD File Formats? #
+## List of CAD File Extensions and Associated File Formats
 
 Following is a list of common CAD file formats along with their file extensions.

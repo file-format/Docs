@@ -21,6 +21,6 @@ Have you ever come across Email file formats and failed to open it? You have com
 
 Got queries related to Email file formats? Head on to our community [forums](https://forum.fileformat.com/c/email) to benefit from the knowledge shared by File Format experts.
 
-# List of Email File Extensions and Associated File Formats #
+## List of Email File Extensions and Associated File Formats 
 
 Following is a list of popular email file types along with their associated extensions.

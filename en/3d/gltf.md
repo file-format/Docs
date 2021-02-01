@@ -6,8 +6,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to learn what is an GLTF file and APIs that can create and open them.",
-  "title" : "What is a GLTF file?",
+  "description" : "Learn about GLTF files and APIs that can create and open GLTF files.",
+  "title" : "GLTF - GL Transmission File Format",
   "linktitle" : "GLTF",
   "menu" : {
     "docs" : {

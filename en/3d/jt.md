@@ -6,8 +6,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to know what is a JT file and APIs that can create and open them.",
-  "title" : "What is a JT file?",
+  "description" : "Learn about JT file format and APIs that can create and open JT files.",
+  "title" : "JT - Jupiter Tessellation File Format",
   "linktitle" : "JT",
   "menu" : {
     "docs" : {

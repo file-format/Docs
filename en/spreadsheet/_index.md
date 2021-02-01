@@ -33,6 +33,6 @@ Several applications are available to open, edit and view these formats includin
 * LibreOffice
 * Google Sheets
 
-# Supported Formats of Spreadsheets #
+## List of Spreadsheet File Extensions and Associated File Formats
 
 Following is a list of common spreadsheet file formats along with their file extensions.

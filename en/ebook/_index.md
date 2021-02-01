@@ -23,6 +23,6 @@ Common ebook file extensions and their file formats include **[EPUB](/ebook/epu
 
 Got queries related to Ebook file formats? Head on to our community [forums](https://forum.fileformat.com/c/ebook) to benefit from the knowledge shared by File Format experts.
 
-# List of EBook File Extensions and Associated File Formats #
+## List of EBook File Extensions and Associated File Formats
 
 Following is a list of common EBook file formats along with their file extensions.

@@ -5,8 +5,8 @@ author:
   display_name: Muhammad Ahmad Chishti
 draft: false
 toc: true
-description: MKA (Matroska Audio) is the Matroska multimedia container format used for Audio. It is saved with the .mka extension.
-title: What is a MKA file?
+description: Learn about MKA (file format and APIs that can open and create MKA files.
+title: MKA - Matroska Multimedia Container File Format
 linktitle: MKA
 menu:
   docs:

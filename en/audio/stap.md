@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description" : "Learn about STAP file format and APIs that can open and create STAP files.",
-  "title" : "What is a STAP file?",
+  "title" : "STAP - Soundtrack Pro File Format",
   "linktitle" : "STAP",
   "menu" : {
     "docs" : {

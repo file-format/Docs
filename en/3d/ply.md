@@ -6,8 +6,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to know what is a PLY file and APIs that can create and open them.",
-  "title" : "What is a PLY file?",
+  "description" : "Learn about PLY file format and APIs that can create and open PLY files.",
+  "title" : "PLY - Polygon 3D File Format",
   "linktitle" : "PLY",
   "menu" : {
     "docs" : {

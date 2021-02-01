@@ -30,5 +30,5 @@ An image file format is a standard method for organizing and storing images on 
 
 Got queries related to Image file formats? Head on to our community [forums](https://forum.fileformat.com/c/image) to benefit from the knowledge shared by File Format experts.
 
-# List of Image File Extensions and Associated File Formats #
+## List of Image File Extensions and Associated File Formats
 Following is a list of common Image file formats along with their file extensions.

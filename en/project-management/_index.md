@@ -23,6 +23,6 @@ Common Project Management file extensions and their associated file formats incl
 
 Got queries related to Project Management file formats? Head on to our community [forums](https://forum.fileformat.com/c/project-management) to benefit from the knowledge shared by File Format experts.
 
-# List of Project File Extensions and Associated File Formats #
+## List of Project File Extensions and Associated File Formats
 
 Following is a list of Project File Formats along with their file extensions.

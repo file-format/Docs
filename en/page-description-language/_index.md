@@ -17,5 +17,5 @@
   "lastmod" : "2020-09-01"
 }
 
-# List of Page Layout File Extensions and Associated File Formats #
+## List of Page Layout File Extensions and Associated File Formats
 Following is a list of common Page Layout formats along with their file extensions.

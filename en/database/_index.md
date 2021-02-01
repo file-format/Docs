@@ -21,6 +21,6 @@ A database is a collection of data that is organized in tables and maintained on
 
 Popular database file extensions and their file formats include **SQLite**, **.DB**, **.ACCDB**, and **.MDB**.
 
-# List of Database File Extensions and Associated File Formats #
+## List of Database File Extensions and Associated File Formats
 
 Following is a list of common Database file formats along with their file extensions.

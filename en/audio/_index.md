@@ -21,6 +21,6 @@
 
 The audio file format is a category of digital file formats for representation of audio information along with its meta-data. A number of Audio file formats exist based on the nature of data contained within the audio file. Such files can be stored in compressed as well as uncompressed audio file formats. Popular audio file formats include [MP3](/audio/mp3/), [WAV](/audio/wav/), PCM and WMA.
 
-# List of Audio File Extensions and Associated File Formats #
+## List of Audio File Extensions and Associated File Formats
 
 Following is a list of common audio file formats along with their file extensions.

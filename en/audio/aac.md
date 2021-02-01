@@ -6,8 +6,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to learn what is an AAC file and APIs that can create and open them.",
-  "title" : "What is an AAC file?",
+  "description" : "Learn about AAC file format and APIs that can create and open AAC files.",
+  "title" : "AAC - Advanced Audio Coding File",
   "linktitle" : "AAC",
   "menu" : {
     "docs" : {
