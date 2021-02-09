@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "WMF",
+  "title" : "WMF - Microsoft Windows Metafile Format",
   "description":"Learn about WMF file format and APIs that can create and open WMF files.",
   "linktitle" : "WMF",
   "menu" : {
@@ -15,6 +15,8 @@
   },
   "lastmod" : "2019-09-10"
 }
+
+## What is a WMF file?
 
 Files with WMF extension represent Microsoft Windows Metafile (WMF) for storing vector as well as bitmap-format images data. To be more accurate, WMF belongs to the vector file format category of Graphics file formats that is device independent. Windows Graphical Device Interface (GDI) uses the functions stored in a WMF file to display an image on the screen. A more enhanced version of WMF, known as Enhanced Meta Files (EMF), was published later that makes the format more feature rich. Practically, WMF are similar to SVG.
 

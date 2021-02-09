@@ -46,6 +46,6 @@ Object tags are used to attach custom information to an Adobe Illustrator art ob
  * Tag type
  * Data
 
-## References ##
+## References
 * [Adobe Illustrator File Format Specifications](https://web.archive.org/web/20150906044646/http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf)
 * [AI File Format by PaintShopPro](https://www.paintshoppro.com/en/pages/ai-file/)

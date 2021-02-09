@@ -16,13 +16,15 @@
   "lastmod" : "2020-08-03"
 }
 
-Files with .DCM extension represent digital image which stores medical information of patients such as MRIs, CT scans and ultrasound images. DCM files use [DICOM](/image/dicom) (Digital Imaging and Communications in Medicine) image file format and can include patient’s information for reference. It was developed by the [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) and was meant to standardize the imaging file format for distribution and viewing of medical images.
+## What is a DCM file?
 
-# DCM File Format #
+Files with .dcm extension represent digital image which stores medical information of patients such as MRIs, CT scans and ultrasound images. DCM files use [DICOM](/image/dicom) (Digital Imaging and Communications in Medicine) image file format and can include patient’s information for reference. It was developed by the [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) and was meant to standardize the imaging file format for distribution and viewing of medical images.
+
+## DCM File Format
 
 DCM files store information in DICOM image format. These files store the Data Set, which is real world information, which represents a SOP instance related to a DICOM IOD. DICOM File Meta Information is stored in the file followed by the byte stream of the actual data set.
 
-## DICOM File Meta Information ##
+### DICOM File Meta Information ##
 
 Every DICOM file includes an identification information header for the encapsulated data set which consists of:
    * A 128-byte File Preamble

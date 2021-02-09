@@ -22,7 +22,7 @@ A file with .tga extension is a raster graphic format and was created by Truevis
 
 ## Brief History
 
-Formation of TGA file format came into being in 1984 by AT&T EPICenter (later extracted and formed as an independent entity known as Truevision) that was working on marketing of new technologies developd by AT&T for color frame buffers. EPICenter was already working on its first two cards, the VDA (Video Display Adapter) and ICB (image capture board) for which work on two file types, .vda and .icb, was already in process. These file formats were codified and less broad specific file format TGA was introduced. TGA was an extension to what was already in use, and provided information such as width, height, pixel depth, associated color map and image origin.
+Formation of TGA file format came into being in 1984 by AT&T EPICenter (later extracted and formed as an independent entity known as Truevision) that was working on marketing of new technologies developed by AT&T for color frame buffers. EPICenter was already working on its first two cards, the VDA (Video Display Adapter) and ICB (image capture board) for which work on two file types, .vda and .icb, was already in process. These file formats were codified and less broad specific file format TGA was introduced. TGA was an extension to what was already in use, and provided information such as width, height, pixel depth, associated color map and image origin.
 
 TGA's 2.0 version, published in 1989, incorporated several enhanced features such as:
 

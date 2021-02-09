@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "WEBP",
+  "title" : "WEBP - Google Raster Image File Format",
   "description":"Learn about WEBP file format and APIs that can create and open WEBP files.",
   "linktitle" : "WEBP",
   "menu" : {
@@ -15,6 +15,8 @@
   },
   "lastmod" : "2019-09-10"
 }
+
+## What is a WEBP file?
 
 WebP, introduced by Google, is a modern raster web image file format that is based on lossless and lossy compression. It provides same image quality while considerably reducing the image size. Since most of the web pages use images as effective representation of data, the use of WebP images in web pages results in faster loading of web pages. As per Google, WebP lossless images are 26% smaller in size compared to [PNGs](/image/png/), while WebP lossy images are 25-34% smaller than comparable [JPEG](/image/jpeg/) images. Images are compared based on the Structural Similarity (SSIM) index between WebP and other image file formats. WebP is a sister project of [WebM](https://en.wikipedia.org/wiki/WebM) multimedia container format.
 

@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "VSTM",
+  "title" : "VSTM - Microsoft Visio Template File Format",
   "description":"Learn about VSTM file format and APIs that can create and open VSTM files.",
   "linktitle" : "VSTM",
   "menu" : {
@@ -15,6 +15,8 @@
   },
   "lastmod" : "2019-09-10"
 }
+
+## What is a VSTM file?
 
 Files with VSTM extension are template files created with Microsoft Visio that support macros. Unlike VSDX files, files created from VSTM templates can run macros that are developed in Visual Basic for Applications (VBA)  code. A template file can be created in order to provide basic settings of the document that can be utilized to generate further documents with these settings. Visio files are used to create drawings that contain visual objects, flow charts, UML diagram, information flow, organizational charts, software diagrams, network layout, database models, objects mapping and other similar information. Files generated using Visio can also be exported to different file formats such as PNG, BMP, PDF and others.
 

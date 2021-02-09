@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "VSX",
+  "title" : "VSX - Microsoft Visio Stencil File Format",
   "description":"Learn about VSX file format and APIs that can create and open VSX files.",
   "linktitle" : "VSX",
   "menu" : {
@@ -16,7 +16,9 @@
   "lastmod" : "2020-08-03"
 }
 
-Files with .VSX extension refer to stencils that consist of drawings and shapes that are used for creating diagrams in Microsoft Visio. VSX files are saved in XML file format and was supported till Visio 2013. These are different than the primary [VSDX](/image/vsdx/) file format that was introduced with Microsoft Visio 2013. VSX files can be opened in any text editor to view the contents. VSX files can be converted to several different file formats such as PDF and HTML.
+## What is a VSX file?
+
+Files with .vsx extension refer to stencils that consist of drawings and shapes that are used for creating diagrams in Microsoft Visio. VSX files are saved in XML file format and was supported till Visio 2013. These are different than the primary [VSDX](/image/vsdx/) file format that was introduced with Microsoft Visio 2013. VSX files can be opened in any text editor to view the contents. VSX files can be converted to several different file formats such as PDF and HTML.
 
 ## VSX File Format ##
 

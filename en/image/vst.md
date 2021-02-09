@@ -16,7 +16,9 @@
   "lastmod" : "2019-09-10"
 }
 
-Files with VST extension are vector image files created with Microsoft Visio and act as template for creating further files. These template files are in binary file format and contain the default layout and settings that are utilized for creation of new Visio drawings. When a VST file is opened in Microsoft Visio, it contains the existing settings to continue working with the document. In general, Visio files are used to create drawings that contain visual objects, flow charts, UML diagram, information flow, organizational charts, software diagrams, network layout, database models, objects mapping and other similar information. Files generated using Visio can also be exported to different file formats such as [PNG](/image/png/), [BMP](/image/bmp/), [PDF](/pdf/) and others.
+## What is a VST file?
+
+Files with .vst extension are vector image files created with Microsoft Visio and act as template for creating further files. These template files are in binary file format and contain the default layout and settings that are utilized for creation of new Visio drawings. When a VST file is opened in Microsoft Visio, it contains the existing settings to continue working with the document. In general, Visio files are used to create drawings that contain visual objects, flow charts, UML diagram, information flow, organizational charts, software diagrams, network layout, database models, objects mapping and other similar information. Files generated using Visio can also be exported to different file formats such as [PNG](/image/png/), [BMP](/image/bmp/), [PDF](/pdf/) and others.
 
 Certain other file types that comprise the Visio 2013 file format include:
 

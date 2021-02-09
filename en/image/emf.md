@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "EMF",
+  "title" : "EMF - Enhanced Metafile Format",
   "description":"Learn about EMF file format and APIs that can create and open EMF files.",
   "linktitle" : "EMF",
   "menu" : {
@@ -16,7 +16,7 @@
   "lastmod" : "2019-09-10"
 }
 
-# What is an EMF file? #
+## What is an EMF file?
 
 **Enhanced metafile format (EMF)** stores graphical images device-independently. Metafiles of EMF comprises of variable-length records in chronological order that can render the stored image after parsing on any output device. These variable-length records can be definitions of enclosed objects, commands for drawing, and graphics properties critical to render the image accurately. When a device opens an EMF metafile using its own graphics environment, the proportions, dimensions, colors and other graphic properties of original image remains same regardless of the opening device platform.
 
@@ -24,7 +24,7 @@
 
 In 1990, Microsoft designed an image file format Windows Metafile ([WMF](/image/wmf/)) for Microsoft Windows. Windows Metafiles are 16-bit format that may contain some bitmap components.WMF may consist of vector graphics and is intended to keep portable among different applications. In 1993, Win32/GDI announced the Enhanced Metafile (EMF), a newer version with enhanced flexibility and scalability. EMF also used as the graphics language commands to run the printer drivers. Microsoft now recommends the enhanced metafile format (EMF) over Windows-format (WMF). When the Windows XP was introduced, the Enhanced Metafile Format Plus (EMF+) version was released. This newer version finds its way by serializing GDI+ API calls likewise WMF/EMF records calls to GDI. There exists a gzip compressed version of EMF known as EMZ.
 
-## Metafile Structure ##
+## EMF Metafile Format ##
 
 Following are the essential elements of the enhanced metafile-format:
 

@@ -16,7 +16,7 @@
   "lastmod" : "2019-09-10"
 }
 
-# What is a DJVU file? #
+## What is a DJVU file?
 
 DjVu, pronounced as “déjà vu”, is a graphics file format intended for scanned documents and books especially those which contain the combination of text, drawings, images and photographs. It was developed by AT&T Labs. It uses multiple techniques like image layer separation of text and background images, progressive loading, arithmetic coding and lossy compression for bitonal images. Since DJVU file can contain compressed yet high-quality colour images, photographs, text, and drawings and can be saved in less space therefore, it's used on web as eBooks, manuals, newspapers, ancient documents, etc.
 
@@ -67,7 +67,7 @@ DjVu documents are IFF85 files. The structure provides a hierarchy of containers
 |FGjp|JPEG encoded foreground
 |Smmr|G4 encoded mask
 
-# DJVU Compression #
+### DJVU Compression
 
 Single image is divided into many different images, and then every image is compressed separately. For the creation of a DjVu file the image is first separated into three images, a background, foreground and a mask image. Typically the background and foreground images are lower-resolution color images; but the mask image is a higher-resolution image and typically the text is stored there. After the separation the foreground and background images are compressed through a wavelet based compression algorithm IW44, while the mask image is compressed using another method called JB2.
 

@@ -16,7 +16,9 @@
   "lastmod" : "2019-09-10"
 }
 
-Files with .VSSM extension are Microsoft Visio Stencil files that support provide support for macros. A VSSM file when opened allows to run the macros to achieve desired formatting and placement of shapes in a diagram. In general, Microsoft Visio is drawing software that allows to create files that can contain and represent user defined information in different shapes. The most common of these include, but not limited to, UML diagrams, flow charts, visual objects, information flow, organizational charts, software diagrams, network layout, database models, objects mapping and other similar information. Files generated using Visio can also be converted to different file formats such as [PNG](https://wiki.fileformat.com/Image/PNG/), [BMP](https://wiki.fileformat.com/Image/BMP/), [PDF](https://wiki.fileformat.com/page-description-language/pdf/) and others.
+## What is a VSSM file?
+
+Files with .vssm extension are Microsoft Visio Stencil files that support provide support for macros. A VSSM file when opened allows to run the macros to achieve desired formatting and placement of shapes in a diagram. In general, Microsoft Visio is drawing software that allows to create files that can contain and represent user defined information in different shapes. The most common of these include, but not limited to, UML diagrams, flow charts, visual objects, information flow, organizational charts, software diagrams, network layout, database models, objects mapping and other similar information. Files generated using Visio can also be converted to different file formats such as [PNG](https://wiki.fileformat.com/Image/PNG/), [BMP](https://wiki.fileformat.com/Image/BMP/), [PDF](https://wiki.fileformat.com/page-description-language/pdf/) and others.
 
 # VSSM File Format #
 

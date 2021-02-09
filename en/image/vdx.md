@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "VDX",
+  "title" : "VDX - Microsoft Visio Drawing File",
   "description":"Learn about VDX file format and APIs that can create and open VDX files.",
   "linktitle" : "VDX",
   "menu" : {
@@ -15,6 +15,8 @@
   },
   "lastmod" : "2019-09-10"
 }
+
+## What is a VDX file?
 
 Any drawing or chart created in Microsoft Visio, but saved in XML format have .VDX extension. A Visio drawing XML file is created in Visio software, which is developed by Microsoft. Microsoft Visio has the capability to generate visual documents that can be used in presentations and documents. The Visio drawing XML file contains the visual objects and metadata details of the visual elements. Text can also be added to these visual elements Vision drawing XML file. These Visio drawing XML files are integrated with XML-based formatting standards and image data encoding specifications that allow its content to be rendered and stored by the Microsoft Visio software in the VDX file format. These Visio drawing XML files are appended with the .vdx extension. Following are the applications that can open VDX file format.
 

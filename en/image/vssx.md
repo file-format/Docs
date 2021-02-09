@@ -16,9 +16,11 @@
   "lastmod" : "2019-09-10"
 }
 
-Files with .VSSX extension are drawing stencils created with [Microsoft Visio](https://products.office.com/en/visio/flowchart-software) 2013 and above. The VSSX file format can be opened with Visio 2013 and above. Visio files are known for representation of a variety of drawing elements such as collection of shapes, connectors, flowcharts, network layout, UML diagrams, software diagrams, database models, objects mapping and other similar information. Microsoft Visio also provides the capability to convert Visio files to different file formats such as [PNG](/image/png/), [BMP](/image/bmp/), [PDF](/pdf/) and others. It is available for both Windows and Mac OS.
+## What is a VSSX file?
 
-# VSSX File Format #
+Files with .vssx extension are drawing stencils created with [Microsoft Visio](https://products.office.com/en/visio/flowchart-software) 2013 and above. The VSSX file format can be opened with Visio 2013 and above. Visio files are known for representation of a variety of drawing elements such as collection of shapes, connectors, flowcharts, network layout, UML diagrams, software diagrams, database models, objects mapping and other similar information. Microsoft Visio also provides the capability to convert Visio files to different file formats such as [PNG](/image/png/), [BMP](/image/bmp/), [PDF](/pdf/) and others. It is available for both Windows and Mac OS.
+
+## VSSX File Format
 
 The VSSX file format is based on the OpenOffice format adopted by Microsoft since 2007. It is based on the [ZIP](/compression/zip/) archive that represent the overall file format based on XML file format specifications. The binary file format equivalent of VSSX was VSS that was supported till Visio 2007. You can view the contents of VSSX file format by replacing its extension with .ZIP and open in any archiving file format such as WinZIP.
 

@@ -16,8 +16,7 @@
   "lastmod" : "2019-09-10"
 }
 
-# What is an EXIF file? #
-
+## What is an EXIF file?
 EXIF stands for “Exchangeable Image File Format”, the definition first given by [Japan Camera Industry Association](https://en.wikipedia.org/wiki/Japan_Electronic_Industries_Development_Association) (JCIA) in 1985. The standard is managed by Japan Electronics and Information Technology Industries Association (JEITA) as of today.  EXIF is a standard for the specifications of image and sound formats mainly used by digital cameras and scanners.
 
 EXIF standard includes the tagging and metadata information with the image file. Metadata can contain information like camera model, shutter speed, Date and time, aperture, manufacturer, exposure time, X resolution, Y resolution etc. Normally the EXIF data is hidden by default. In order to view the EXIF data, one has to select the view properties within image viewing application. Exif metadata may also include thumbnails along with technical and primary image data in a single image file.
@@ -31,7 +30,7 @@ EXIF standard includes the tagging and metadata information with the image file.
 * February 2002, Version 2.2, improved version 2.1 with the addition of print finishing.
 * September 2003, Version 2.21 with optional colour space known as adobe RGB.
 
-## File Format Information ##
+## EXIF File Format
 
 EXIF uses the following file formats with the addition of specific metadata.
 

@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "DICOM",
+  "title" : "DICOM - Digital Imaging and Communications File Format",
   "description":"Learn about DICOM file format and APIs that can create and open DICOM files.",
   "linktitle" : "DICOM",
   "menu" : {
@@ -16,7 +16,7 @@
   "lastmod" : "2019-09-10"
 }
 
-# What is a DICOM file? #
+## What is a DICOM file?
 
 DICOM is the acronym for Digital Imaging and Communications in Medicine and pertains to the field of Medical Informatics. DICOM is used for the integration of medical imaging devices like printers, servers, scanners etc from various vendors and also contains identification data of each patient for uniqueness. DICOM files can be shared between two parties if they are capable of receiving image data in DICOM format. The communication part of DICOM is application layer protocol and uses TCP/IP to communicate between entities. Versions supported by web services are 1.0, 1.1, 2 or later.
 
@@ -24,7 +24,7 @@ DICOM is the acronym for Digital Imaging and Communications in Medicine and pert
 
 DICOM was developed jointly by American College of Radiology (ACR) and National Electrical Manufacturers Association (NEMA) for the exchange and viewing of medical images like MRIs, CT scans and ultrasound images. Initially, it was hard to decode the images that the machines produced. Therefore, ACR and NEMA together formed a team in 1983 which released its first standard, ACR/NEMA 300 in 1985. The second version was released in 1988 which was more popular among vendors, but soon it was realized that second version also needs improvement. The 3rd version of the standard was released in 1993 as "DICOM". 3.0 is still the latest version but it has been continuously updated since 1993.
 
-## DICOM File Structure ##
+## DICOM File Format ##
 
 DICOM is the combination of file format definition and a network communications protocol. DICOM uses the .DCM extension. .DCM exist in two different formats i.e. format 1.x and format 2.x. DCM Format 1.x is further available in two versions normal and extended. HTTP and HTTPS protocols are used for the web services of DICOM.
 

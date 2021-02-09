@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "PSD",
+  "title" : "PSD - Photoshop Image File Format",
   "description":"Learn about PSD file format and APIs that can create and open PSD files.",
   "linktitle" : "PSD",
   "menu" : {
@@ -16,9 +16,11 @@
   "lastmod" : "2019-09-10"
 }
 
+## What is a PSD file?
+
 PSD, Photoshop Document, represents Adobe Photoshop's native file format used for graphics designing and development. PSD files may include image layers, adjustment layers, layer masks, annotations, file information, keywords and other Photoshop-specific elements. Photoshop files have default extension as .PSD and has a maximum height and width of 30,000 pixels, and a length limit of two gigabytes.
 
-## File Format Specifications ##
+## PSD File Format Specifications ##
 
 Data in a PSD file is stored in big endian byte order. This implies swapping the short and long integers when reading or writing on Windows platform. The Photoshop file format is divided into five major parts. It has many length markers that can be used to move from one section to the next. The length markers are usually padded with bytes to round to the nearest 2 or 4 byte interval. The five major parts are:
 
