@@ -7,7 +7,7 @@
   "toc" : true,
   "title" : "FODG - OpenDocument Drawing File Format",
   "description":"Learn about FODG file format and APIs that can create and open FODG files.",
-  "linktitle" : "ODG",
+  "linktitle" : "FODG",
   "menu" : {
     "docs" : {
       "parent" : "image"
