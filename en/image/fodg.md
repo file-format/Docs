@@ -16,11 +16,11 @@
   "lastmod" : "2019-09-10"
 }
 
-## What is an FODG file?
+## What is a FODG file?
 
 A file with .fodg extension is an Apache OpenOffice Drawing file format for storing drawing elements. It is based on the file format specifications outlined by Advancement of Structural Information Standards (OASIS). Another similar file format for OpenOffice graphics is [ODG](/image/odg/) that stores drawing elements as a vector image. FODG files can be opened with OpenOffice as well as LibreOffice. Other file formats supported by OpenOffice, for example, include [ODT](/word-processing/odt/), ODF, [ODP](/presentation/odp/) and [ODS](/spreadsheet/ods/).
 
-## FODG File Format Specifications
+## FODG File Format
 
 FODG is based on the OpenDocument's XML file format that conforms to OASIS OpenDocument Format ISO/IEC 26300. It has Internet Media Type application/vnd.oasis.opendocument.graphics and also conforms to org.oasis-open.opendocument public.composite-content.  The XML structure is common for all document types such as spreadsheet, drawing files, and text documents. OpenOffice documents take advantage of separation of concerns by separating the content, styles, metadata, and application settings into four separate XML files.
 
