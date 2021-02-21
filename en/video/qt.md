@@ -42,7 +42,7 @@ The atom’s header and contents are indicated by a 32 bit integer known as the 
 
 Type of the atom is also shown by a 32-bit integer, which is mostly treated as a four-character field with knemonic value, such as ‘moov’ (0x6D6F6F76) for a movie atom, or ‘trak’ (0x7472616B) for a track atom. Once atom type is known, it allows interpreting its data.
 
-![A Sample Atom](../QT Sample Atom.png "QT File Format")
+![A Sample Atom](https://github.com/file-format/Docs/blob/master/en/video/QT_Sample_Atom.png "QT File Format")
 
 ## File Structure ##
 
