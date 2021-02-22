@@ -1,6 +1,5 @@
 {
-  "date" : "2021-02-20
-  ",
+  "date" : "2021-02-20",
   "keywords" : [ "WMA", "file", "extension", "format", "audio interchange file format", "music" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
