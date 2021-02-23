@@ -16,23 +16,25 @@
   "lastmod" : "2019-09-16"
 }
 
+## What is a WMV file?
+
 The Advanced Systems Format (ASF) is a digital multimedia container designed primarily for storing and transmitting media streams. Microsoft Windows Media Video (WMV) is the compressed video format and Microsoft Windows Media Audio (WMA) is the compressed audio format along with additional metadata in the ASF container developed by Microsoft. Once the wmv or wma files are encoded with Windows Media Video and Windows Media Audio codecs then they are represented with .ASF extension. WMV compresses large files for better transmission rate over a network while maintaining the quality of the video. WMV is specifically designed to run on all Windows devices. After the standardization by Society of Motion Picture and Television Engineer (SMPTE), WMV is now considered to be an open standard format.
 
 ## History ##
 
 With the help of Microsoft proprietary codecs new compressed video format was developed in 1999 known as WMV7 which was based on MPEG-4 Part 2. Improvements were added in further two versions i.e. WMV8 and 9. Microsoft submitted 9^^th^^ version of WMV to SMPTE for standardization in 2003 which was eventually standardized in 2006 as SMPTE 421M also known as VC-1. The idea behind the WMV was to develop a media format which could be supported by all the Microsoft supported hardware and software. Furthermore, another major purpose was to transmit video streams over the internet in an optimal scenario. After the standardization from SMPTE, WMV also became a video format for Blu-ray discs.
 
-## File Format Specifications ##
+## File Format Specifications
 
-### Container  ###
+### Container
 
 Generally WMV is packed into ASF container but in addition Matroska or AVI container can also support it with extensions of .mkv and .avi respectively.
 
-### Windows Media Video 9 ###
+### Windows Media Video 9
 
 Though there are various audio and video codecs available in Windows Media Video 9 series for authoring and playback of digital media, but WMV-9 codec is the latest and best video codec as it can achieve the optimum compression from very low bit rates i.e. 160 x 120 at 10 Kbps to 1920 x 1080 at 4-8 Mbps for a variety of HD videos.
 
-### Structure of Codec ###
+### Structure of Codec
 
 WMV-9 has 8 bit 4:2:0 internal color format. Like all other popular video compression standards MPEG-1 and H.261, WMV-9 uses a block-based motion compensation and spatial transform scheme. In general, we can say that these standards perform block by block motion compensation from the previous reconstructed frame with the help of a 2-D quantity called the motion vector (MV) to signal spatial displacement. The current block is formed with the help of predicting the values from the same size previous reconstructed frame which is displaced from the current position by the motion vector. Eventually, the residual error is calculated as the difference between the motion-compensated predicted block and the actual block. This residual error is transformed using a linear energy-compacting transform then quantized and entropy coded.
 

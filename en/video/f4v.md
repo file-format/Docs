@@ -14,7 +14,7 @@ menu:
 lastmod: 2020-10-12
 ---
 
-## What is an F4V file? ##
+## What is a F4V file? ##
 
 F4V (Flash MP4 Video File) is a video file saved with the .f4v extension. It is based on the ISO base media file format (MPEG-4 Part 12). It is very similar to [MP4](/video/mp4/) which is why it is also referred to as the Flash MP4 informally. [FLV](/video/flv/) had limitations when streaming H.264/ACC contents which resulted in Adobe Systems to create the new F4V format. Flash Player can play F4V files since the release of Flash Player 9 Update 3.
 

@@ -34,7 +34,6 @@ Following are the summarized specifications for the WebM file format.
 |Video Codec Name|	VP8 or VP9|
 |Audio Codec Name|	Vorbis or Opus|
 
-
 ### WebM Elements
 
 WebM, being a subset of the Matroska specifications, provides support for some of the Matroska functionality. Following is a description of the supported elements.

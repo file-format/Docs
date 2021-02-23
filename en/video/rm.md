@@ -14,7 +14,7 @@ menu:
 lastmod: 2020-28-12
 ---
 
-## What is an RM file? ##
+## What is a RM file? ##
 
 RealMedia is a proprietary multimedia container format developed by RealNetworks that uses the .rm extension. It is used with the combination of [RealAudio (RA)](/audio/ra/) and [RealVideo(RV)](/video/rv/) for streaming over the internet. These streams are of constant bitrate. For variable bitrate, RealNetworks developed the RealMedia Variable Bitrate (RMVB) format. RealMedia is suitable for streaming content over the internet and can be used for streaming live television for example.
 

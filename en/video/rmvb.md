@@ -14,11 +14,11 @@ menu:
 lastmod: 2020-31-12
 ---
 
-## What is an RMVB file? ##
+## What is a RMVB file?
 
 RealMedia Variable Bitrate (RMVB) is an extension of the [RealMedia (RM)](/video/rm/) container format. The RMVB files use the .rmvb file extension. RealMedia (RM) holds streaming media encoded at constant bitrate whereas RealMedia Variable Bitrate (RMVB) has variable bitrate. RMVB is typically used for the files stored locally.
 
-## Details ##
+## Technical Details
 
 The compression used in RealMedia is similar to MPEG-4 Part 10. In RMVB files, the amount of output data per time segment varies. This results in files with a better quality-to-space ratio, as the bits are used more flexibly in encoding. The structure of RMVB files is similar to RM files. For details, please view the [RealMedia (RM)](/video/rm/) article.
 

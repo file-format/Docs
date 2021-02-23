@@ -16,6 +16,8 @@
   "lastmod" : "2019-09-14"
 }
 
+## What is a M4V file?
+
 **M4V** file format, developed by Apple, is a video container optionally protected with Digital Rights Management (DRM) copy protection aiming to protect privacy or copy. Videos and audio tracks are wrapped around by container files to achieve indexing and organizing the streams for playback. In addition, containers also provide the feature of chapters similar to those on DVDs. M4V is used by Apple to encode videos in its iTunes Store. It protects unauthorized reproduction through Apple’s FairPlay copy protection by allowing M4V files to be played on only authorized computers having the accounts used for the purchase of the video. However, if DRM-protection is removed from M4V files, then these files can be played in other video players by just changing the extension from .m4v to .mp4 and that’s the reason that M4V files are associated with MPEG-4. M4V uses H.264 for video and **[AAC](/audio/aac/)** and Dolby Digital for audio encoding and decoding.
 
 ## M4V File Structure ##

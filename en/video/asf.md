@@ -16,7 +16,7 @@
   "lastmod" : "2021-02-16"
 }
 
-## What is a ASF file?
+## What is an ASF file?
 
 A file with .asf extension is a multimedia file format for storing and playing digital media streams over the network. It is a container file format that can have both video and audio content for streaming online. You will rarely find ASF files, and more probably come across the Windows Media Audio ([WMA](/audio/wma/)) and Windows Media Video ([WMV](/audio/wmv/)) files that both specify ASF files having content encoded with respective codecs. Windows media files can be created and read using the Windows Media Format SDK.
 
