@@ -1,20 +1,18 @@
-{
-  "date" : "2021-02-21,
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-  },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WEBM - WebM Video File Format",
-  "description":"Learn about WEBM file format and APIs that can create and open WEBM files.",
-  "linktitle" : "WEBM",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-    }
-  },
-  "lastmod" : "2021-02-21"
-}
+---
+date: 2019-10-11
+keywords: WEBM
+author:
+  display_name: Kashif Iqbal
+draft: false
+toc: true
+description: Learn about WEBM file format and APIs that can create and open WEBM files.
+title: WEBM - WebM Video File Format
+linktitle: WEBM
+menu:
+  docs:
+    parent: "video"
+lastmod: 2020-09-12
+---
 
 ## What is a WEBM file?
 
