@@ -1,18 +1,20 @@
----
-date: 2019-10-11
-keywords: MJPEG, file, extension, format, video format, Motion-JPEG, M-JPEG
-author:
-  display_name: Kashif Iqbal
-draft: false
-toc: true
-description: Learn about MJPEG file format and APIs that can create and open MJPEG files.
-title: MJPEG - Motion JPEG File Format
-linktitle: MJPEG
-menu:
-  docs:
-    parent: "video"
-lastmod: 2021-02-23
----
+{
+  "date" : "2021-02-15",
+  "author" : {
+    "display_name" : "Kashif Iqbal"
+  },
+  "draft" : "false",
+  "toc" : true,
+  "title" : "MJPEG - Motion JPEG File Format",
+  "description":"Learn about MJPEG file format and APIs that can create and open MJPEG files.",
+  "linktitle" : "MJPEG",
+  "menu" : {
+    "docs" : {
+      "parent" : "video"
+    }
+  },
+  "lastmod" : "2021-02-16"
+}
 
 ## What is a MJPEG file?
 
