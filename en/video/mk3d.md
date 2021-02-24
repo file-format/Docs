@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "MK3D File Format",
-  "keywords" : [ "mk3d", "matroska video", "mkv format", "stereoscopic 3d", StereoMode ],
+  "keywords" : [ "mk3d", "matroska video", "mkv format", "stereoscopic 3d", "StereoMode" ],
   "description":"Learn about MK3D file format for stereoscopic 3d videos created by Matroska and APIs that can create and open MK3D files.",
   "linktitle" : "MKV",
   "menu" : {
@@ -19,7 +19,7 @@
 
 ## What is an MK3D file? ##
 
-The MK3D files belong to the Matroska video formats family. These files are actually **stereoscopic 3d** videos created using Matroska 3D format. The MKV file Container uses a StereoMode field's value to define the type of stereoscopic 3D video stuff. A StereoMode value is also available to display the old stereo 3D videos by separating cyan and red colours (AnaGlyph) 
+The MK3D files belong to the Matroska video formats family. These files are actually **stereoscopic 3d** videos created using Matroska 3D format. The MKV file Container uses a StereoMode field's value to define the type of stereoscopic 3D video stuff. A StereoMode value is also available to display the old stereo 3D videos by separating cyan and red colours (AnaGlyph)
 
 ## Technical Details ##
 The 3D videos can be compressed in the following two ways:
@@ -56,4 +56,3 @@ For the multiple tracks the MKV container needs to decide the functionlaity of e
 
 - [Matroska Specification Notes](https://www.matroska.org/technical/notes.html)
 - [MKV File Container Support for Stereo 3D Video and the MK3D Files](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d-files/)
-
