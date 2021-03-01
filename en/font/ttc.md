@@ -41,6 +41,7 @@ Here are the TTC Header tables of both versions:
 |Offset32|tableDirectoryOffsets[numFonts]|Array of offsets to the TableDirectory for each font from the beginning of the file|
 
 **TTC Header Version 2.0:**
+
 |Type|Name|Description|
 ---|---|---|
 |TAG|ttcTag	|Font Collection ID string: 'ttcf'|
