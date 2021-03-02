@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "RDL - Report Definition Language File",
-  "keywords" : [ "rdl", "report definition language", "mkv format", "XSD", ""],
+  "keywords" : [ "rdl", "report definition language", "XmlTextWriter", "XSD", "RDL element"],
   "description":"Learn about RDL file format which is an XML representation of a SQL Server Reporting Services report definition.",
   "linktitle" : "RDL",
   "menu" : {
