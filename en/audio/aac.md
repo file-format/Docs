@@ -14,7 +14,7 @@
       "parent" : "audio"
     }
   },
-  "lastmod" : "2019-12-13"
+  "lastmod" : "2021-03-03"
 }
 
 ## What is an AAC file?
@@ -57,6 +57,6 @@ Despite being MP3 more popular as predecessor of AAC, the lateral enjoys almost 
 * JetAudio
 * MediaPlayer Classic
 
-References
+## References ##
 
 * [AAC - By Wikipedia](https://en.wikipedia.org/wiki/Advanced_Audio_Coding)
