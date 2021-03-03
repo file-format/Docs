@@ -1,25 +1,25 @@
 {
-  "date" : "2019-12-13",
-  "keywords" : [ "AAC", "file", "extension", "format", "Audio Coding", "MPEG" ],
+  "date" : "2021-02-26",
+  "keywords" : [ "OPUS", "file", "extension", "format", "Audio Coding" ],
   "author" : {
-    "display_name" : "Kashif Iqbal"
+    "display_name" : "Sami Cheema"
   },
   "draft" : "false",
   "toc" : true,
   "description" : "Learn about AAC file format and APIs that can create and open AAC files.",
   "title" : "AAC - Advanced Audio Coding File",
-  "linktitle" : "AAC",
+  "linktitle" : "OPUS",
   "menu" : {
     "docs" : {
       "parent" : "audio"
     }
   },
-  "lastmod" : "2019-12-13"
+  "lastmod" : "2021-02-26"
 }
 
-## What is an AAC file?
+## What is an OPUS file?
 
-AAC (Advanced Audio Coding) refers to digital audio coding standard that represent audio files based on lossy audio compression. It was launched as successor of **[MP3](/audio/mp3/)** file format keeping in view that the lateral faced issues for the implementation of new ideas in the encoding process based on the development of methods for data compression. AAC achieves better sound quality as compared to MP3 at the same bit rate. It was defined in MPEG-2 Part 7 (ISO/IEC 13818-7), and in an updated form in MPEG-4 Part 3 (ISO/IEC 14496-3). The format was adopted as default media format by YouTube, iPhone, iPod, iPad, Apple iTunes and several other platforms. Several applications and APIs are available for conversion of AAC file format to other formats such as MP3, WMA, M4A, **[WAV](/audio/wav/)** and others.
+Opus is an audio file format created by Xiph.Org Foundation and later being standardized by IETS (Internet Engineering Task Force). It has been developed mainly for internet streaming, Voice over IP (VOIP), video conferencing and in-game chat that is why it is designed to retain low-latency while maintaining a real time interactive communication. Keeping the sound quality of an Opus file, many bling listening tests have marked Opus as high quality audio format than any other audio format at any given bitrate.
 
 ## Brief History ##
 
