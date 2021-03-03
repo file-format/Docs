@@ -19,7 +19,7 @@
 
 ## What is an OPUS file?
 
-Opus is an audio file format created by Xiph.Org Foundation and later being standardized by IETF (Internet Engineering Task Force). It has been developed mainly for internet streaming, Voice over IP (VOIP), video conferencing and in-game chat that is why it is designed to retain low-latency while maintaining a real time interactive communication. Keeping the sound quality of an Opus file, many bling listening tests have marked Opus as high quality audio format than any other audio format at any given bitrate.
+Opus is an audio file format created by Xiph.Org foundation and later being standardized by IETF (Internet Engineering Task Force). It has been developed mainly for internet streaming, Voice over IP (VOIP), video conferencing and in-game chat that is why it is designed to retain low-latency while maintaining a real time interactive communication. Keeping the sound quality of an Opus file, many blind listening tests have marked Opus as high quality audio format than any other audio format at any given bitrate.
 
 
 ## OPUS File Format Specifications ##
