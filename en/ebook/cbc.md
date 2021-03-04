@@ -42,7 +42,6 @@ where the comics.txt file lists the contetns as follow.
 
 Readers process the comics.txt file and generate table of contents based on the provided data.
 
-## References ##
+## References
 
-* [Calibre - ](https://calibre-ebook.com/)
-*
+* [Calibre](https://calibre-ebook.com/)
