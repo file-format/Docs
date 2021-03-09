@@ -39,13 +39,32 @@ The PDB files contain:
 
 The PDB header is located at the start of the file and contains meta information on the file:
 
-
+| Offset |        Name         |             Type             |   Size   |
+--------|---------------------|------------------------------|----------|
+|  0x00  |        name         |  char (Modified ISO-8859-1)  | 32 Bytes |
+|  0x20  |   file attributes   |           integer            | 2 Bytes  |
+|  0x22  |       version       |           integer            | 2 Bytes  |
+|  0x24  |    creation time    | 32bit integer - PDB Datetime | 4 Bytes  |
+|  0x28  |  modification time  | 32bit integer - PDB Datetime | 4 Bytes  |
+|  0x2c  |     backup time     | 32bit integer - PDB Datetime | 4 Bytes  |
+|  0x30  | modification number |           integer            | 4 Bytes  |
+|  0x34  |      app_info       |           integer            | 4 Bytes  |
+|  0x38  |      sort_info      |           integer            | 4 Bytes  |
+|  0x3c  |        type         |           integer            | 4 Bytes  |
+|  0x40  |       creator       |           integer            | 4 Bytes  |
+|  0x44  |   unique_id_seed    |           integer            | 4 Bytes  |
+|  0x48  |  next_record_list   |           integer            | 4 Bytes  |
+|  0x4c  |     num_records     |           integer            | 2 Bytes  |
 
 ### PDB Record Header
 
 For each record, there is an 8-byte record header, containing:
 
-
+|    name    |  type   |  size   |                                     notes                                     |
+------------|---------|---------|-------------------------------------------------------------------------------|
+|   offset   | integer | 4 bytes | Byte number in the PDB file (counting from zero), where the record is located |
+| attributes |  byte   | 1 byte  |         Attributes of the record (delete/dirty/busy/secret/category)          |
+|  UniqueID  | integer | 3 bytes |                                   Always 0                                    |
 
 ### PDB Records
 
