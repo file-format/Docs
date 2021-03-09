@@ -40,7 +40,7 @@ The PDB files contain:
 The PDB header is located at the start of the file and contains meta information on the file:
 
 | Offset |        Name         |             Type             |   Size   |
-|--------|---------------------|------------------------------|----------|
+--------|---------------------|------------------------------|----------|
 |  0x00  |        name         |  char (Modified ISO-8859-1)  | 32 Bytes |
 |  0x20  |   file attributes   |           integer            | 2 Bytes  |
 |  0x22  |       version       |           integer            | 2 Bytes  |
@@ -61,7 +61,7 @@ The PDB header is located at the start of the file and contains meta information
 For each record, there is an 8-byte record header, containing:
 
 |    name    |  type   |  size   |                                     notes                                     |
-|------------|---------|---------|-------------------------------------------------------------------------------|
+------------|---------|---------|-------------------------------------------------------------------------------|
 |   offset   | integer | 4 bytes | Byte number in the PDB file (counting from zero), where the record is located |
 | attributes |  byte   | 1 byte  |         Attributes of the record (delete/dirty/busy/secret/category)          |
 |  UniqueID  | integer | 3 bytes |                                   Always 0                                    |
