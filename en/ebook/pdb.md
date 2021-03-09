@@ -18,15 +18,15 @@
 }
 
 ## What is a PDB file?
-The PDB Stands for Palm database. This is a format introduced by Palm Digital Media and it is widely used for smartphones and Palm devices. A version of The PDB format is known as PalmDOC eBook file is also available. The advancements of e-books has left this format behind due to the lack of support for DRM protection. It means that only royalty free text is typically available.The eReader is a freeware program in the market for viewing e-books using PDB files.
+The PDB Stands for Palm database. This is a format introduced by Palm Digital Media and it is widely used for smartphones and Palm devices. A version of The PDB format is known as PalmDOC eBook file is also available. The advancements of e-books has left this format behind due to the lack of support for DRM protection. Hence, only royalty free text is typically available.The eReader is a freeware program available for viewing e-books using PDB files.
 
 ## PDB Viewing Software
 
-The eReader is a software availble free of cost for viewing Palm Digital Media electronic books by using the pdb format. The versions are available for Palm OS, macOS, Android, IOS, Symbians, and windows smartphones. The reader displays the text of one page at a time, as paper books do. eReader supports embedded hyperlinks and images. Moreover, the Stanza application for the iPhone and iPod touch can read both encrypted and unencrypted eReader files.
+The eReader is a software availble free of cost for viewing Palm Digital Media electronic books by using the pdb format. The versions are available for Palm OS, macOS, Android, IOS, Symbians, and windows smartphones. The reader displays the text of one page at a time, as paper books do. eReader supports embedded hyperlinks and images. Moreover, the Stanza application for the iPhone and iPod can read both encrypted and un-encrypted eReader stuff.
 
-The software supports bookmarks and footnotes to enable the users to mark any page with a bookmark and any part of the text with a footnote. Footnotes can later be exported as a Memo document.
+The software supports bookmarks and footnotes to enable the users to mark any page with a bookmark and any part of the text with a footnote. Later on the footnotes can be exported as a Memo document.
 
-On July, 2009, Barnes & Noble announced that eReader would be the preferred format to deliver e-books. Three months later, in a press release by Adobe, it was revealed Barnes & Noble would be joining forces with the software company to regulate the EPUB and PDF eBook formats. Barnes & Noble e-books are now sold mostly in EPUB format.
+On July, 2009, Barnes & Noble declared that eReader would be the preferred format to deliver e-books. Three months later, in a press release by Adobe, it was revealed Barnes & Noble would be joining forces with the software company to regulate the EPUB and PDF eBook formats. Now A days, the Barnes & Noble e-books are usually sold in EPUB format.
 
 ## Structure of PDB file
 
