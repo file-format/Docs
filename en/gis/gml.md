@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "GML",
+  "title" : "GML - Geography Markup Language File Format",
   "description":"Learn about GML file format and APIs that can create and open GML files.",
   "linktitle" : "GML",
   "menu" : {
@@ -16,7 +16,7 @@
   "lastmod" : "2019-09-10"
 }
 
-# What is a GML file? #
+## What is a GML file?
 
 GML stands for Geography Markup Language that is based on XML specifications developed by the Open Geospatial Consortium (OGC). The format is used to store geographic data features for interchange among different file formats. It serves as a modeling language for geographic systems as well as an open interchange format for geographic transactions on the internet.
 

@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "OSM",
+  "title" : "OSM - OpenStreetMap File Format",
   "description":"Learn about OSM file format and APIs that can create and open OSM files.",
   "linktitle" : "OSM",
   "menu" : {
@@ -16,7 +16,7 @@
   "lastmod" : "2019-09-10"
 }
 
-# What is an OSM file? #
+## What is an OSM file?
 
 OpenStreetMap (OSM) is a huge collection of volunteered geographic information stores in different types of files, using different encoding schemes to convert this data into bits and bytes. OSM is a collaborative effort toward the creation of a free editable map of the world.  The primary output of this collaborative effort is geographic data rather than the map itself. The constraints on the use or availability of geographic information across much of the world triggers the need to create an OSM.  The data available from OSM is ready to replace Google Maps for classical applications (Facebook, Craigslist etc.) and default data for GPS receiver’s applications.^^ ^^Although data quality is diverse across the world yet OpenStreetMap data can be conveniently compared with patent data sources.
 
