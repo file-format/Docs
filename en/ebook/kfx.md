@@ -17,6 +17,8 @@
   "lastmod" : "2019-11-22"
 }
 
+## What is a KFX file?
+
 A KFX file is an eBook that is created in the Amazon Kindle File Format 10 (KF10) for Kindle devices. Older versions of KIndle devices use [AZW](/ebook/azw/) and [AZW3](/ebook/azw3/) (KF8) file formats. KFX is an enhancement to previous versions with additional features specifically in terms of content layout presentation. It introduces new features like support for soft-hyphens using a new enhanced typesetting engine. It also introduces a new image file format called JXR, that has a higher compression ratio, and the new Bookerly font which is Kindle-exclusive font providing improved readability on digital devices. The format comes with enhanced capabilities such as multi-page thumbnails, contents auto-adjustment around images and videos at fixed locations resulting in improved page layout and DRM. To open and view such files, you can use Amazon Kinde app that is available for Windows, macOS, Android and iOS. Calibre is another eBook reader software application that can be used to read several different eBook file formats.
 
 ## KFX File Format ##
