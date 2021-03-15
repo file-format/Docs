@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "GPX",
+  "title" : "GPX - GPX Exchange File Format",
   "description":"Learn about GPX file format and APIs that can create and open GPX files.",
   "linktitle" : "GPX",
   "menu" : {
@@ -16,7 +16,7 @@
   "lastmod" : "2019-09-10"
 }
 
-# What is a GPX file? #
+## What is a GPX file?
 
 Files with GPX extension represent GPS Exchange format for interchange of GPS data between applications and web services on the internet. It is a light-weight XML file format that contains GPS data i.e. waypoints, routes and tracks to be imported and red by multiple programs. GPX file format is open and is supported by variety of applications and GPS devices. GPS data from such files can be loaded for display on mapping applications for geo-spatial purposes.
 

@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "KMZ",
+  "title" : "KMZ - KML Zipped File Format",
   "description":"Learn about KMZ file format and APIs that can create and open KMZ files.",
   "linktitle" : "KMZ",
   "menu" : {
@@ -16,7 +16,7 @@
   "lastmod" : "2019-09-10"
 }
 
-# What is a KMZ file? #
+## What is a KMZ file?
 
 KMZ (KML Zipped) file is a representation of zipped [KML](/gis/kml/) file that contains geospatial information viewable in GIS applications like Google Earth. Information about placemarks is represented in the file as latitude and longitude along with a custom name. The single packaged KMZ file can be shared with other users easily. KMZ files can include 3D model data as well for geo-representation of the model. A KMZ file can be opened in Google Maps by saving the file to an online location and then typing the URL in the Google Maps Search box.
 

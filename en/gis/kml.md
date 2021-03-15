@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "KML",
+  "title" : "KML - Keyhole Markup Language",
   "description":"Learn about KML file format and APIs that can create and open KML files.",
   "linktitle" : "KML",
   "menu" : {
@@ -16,7 +16,7 @@
   "lastmod" : "2019-09-10"
 }
 
-# What is a KML file? #
+## What is a KML file?
 
 KML, Keyhole Markup Language) contains geospatial information in XML notation. Files saved as KML can be opened in Geographic Information System (GIS) applications provided they support it. Many applications have started providing support for KML file format after it has been adopted as international standard. KML uses a tag-based structure with nested elements and attributes. All the tags are case-sensitive and the order of these tags, as per [KML](https://developers.google.com/kml/documentation/kmlreference) Reference, is important to follow.
 
