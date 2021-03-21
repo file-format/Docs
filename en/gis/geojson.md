@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "GeoJSON",
+  "title" : "GeoJSON - JSON based Geographic File Format",
   "description":"Learn about GeoJSON file format and APIs that can create and open GeoJSON files.",
   "linktitle" : "GeoJSON",
   "menu" : {
@@ -16,7 +16,7 @@
   "lastmod" : "2019-09-10"
 }
 
-# What is a GeoJSON file? #
+## What is a GeoJSON file?
 
 GeoJSON is a JSON based format designed to represent the geographical features with their non-spatial attributes. This format defines different JSON (JavaScript Object Notation) objects and their joining fashion. JSON format represents a collective information about the Geographical features, their spatial extents, and properties. An object of this file may indicate a geometry (Point, LineString, Polygon), a feature or collection of features. The features reflect addresses and places as point’s streets, main roads and borders as line strings and countries, provinces, and land regions as polygons. Using the GeoJSON, different mobile routing and navigation applications can indicate the coverage of their services. An extension of GeoJSON is TopoJSON that is smaller in size and encodes geospatial topology.
 

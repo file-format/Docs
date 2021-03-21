@@ -26,8 +26,9 @@ The structure of PML files consist of tags for creating e-book setup, including 
 
 ### Palm Markup Language
 The following table specifies the PML commands:
-|Command 						| Description																																|
-|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+|Command|Description|
+---|---|
 |             \p              |                                                                                                                              New page                                                                                                                               |
 |             \x              |                                                                                New chapter; also causes a new page break. Enclose chapter title (and any style codes) with \x and \x                                                                                |
 |             \Xn             |                                            New chapter, indented n levels (n between 0 and 4 inclusive) in the Chapter dialog; doesn't cause a page break. Enclose chapter title (and any style codes) with \Xn and \Xn                                             |

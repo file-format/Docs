@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "SHP",
+  "title" : "SHP - ESRI Shapefile",
   "description":"Learn about SHP file format and APIs that can create and open SHP files.",
   "linktitle" : "SHP",
   "menu" : {
@@ -16,7 +16,7 @@
   "lastmod" : "2019-09-10"
 }
 
-# What is a SHP file? #
+## What is a SHP file?
 
 SHP is the file extension for one of the primary file types used for representation of ESRI Shapefile. It represents Geospatial information in the form of vector data to be used by Geographic Information Systems (GIS) applications. The format has been developed as open specifications in order to facilitate interoperability between ESRI and other software products.
 
