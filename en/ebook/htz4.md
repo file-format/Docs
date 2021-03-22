@@ -45,4 +45,4 @@ Here are some of the common issues that also lead to finding it difficult to man
 
 ## References ##
 
-* [File-Extension](https://www.file-extension.org/extensions/htz4)
+* [FileExtension](https://www.file-extension.org/extensions/htz4)
