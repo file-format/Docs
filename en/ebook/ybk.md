@@ -45,6 +45,6 @@ Sometimes when it is difficult to open and function the YBK file, here is the li
 
 ## References ##
 
-* [StackExchange](https://apple.stackexchange.com/questions/2587/what-ebook-formats-does-ibooks-support)
-* [ReviverSoft](https://www.reviversoft.com/file-extensions/ibooks?ncr=1&lang=en)
-* [File-Extension.org/](https://www.file-extension.org/extensions/ybk)
+* [File - YBK](https://file.org/extension/ybk)
+* [FILExt](https://filext.com/file-extension/YBK)
+* [FileExtension](https://www.file-extension.org/extensions/ybk)
