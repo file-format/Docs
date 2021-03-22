@@ -55,5 +55,5 @@ If it is difficult to open this file format, it doesn’t mean that it is relate
 ## References ##
 
 * [Whatext - HTZ5](https://whatext.com/htz5)
-* [File-Extension.org/](http://www.fileextension.org/HTZ5)
-* [File.org](https://file.org/extension/htz4)
+* [File-Extension](http://www.fileextension.org/HTZ5)
+* [File - HTZ5](https://file.org/extension/htz5)
