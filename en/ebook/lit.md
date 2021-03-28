@@ -1,12 +1,12 @@
 {
   "date" : "2021-03-04",
-  "keywords" : [ "lit", "Microsoft Reader", "extension", "format", "E-Book", "Digital book" ],
+  "keywords" : [ "lit", "Microsoft Reader", "extension", "format", "E-Book", "Literature" ],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
   "draft" : "false",
   "toc" : true,
-  "description":"Learn about LIT file format and APIs that can create and open LIT files.",
+  "description":"Learn about LIT file format which belongs to the ancient Microsoft Reader and APIs that can create and open LIT files.",
   "title" : "LIT (Litrature) - Microsoft Reader e-books File Format",
   "linktitle" : "LIT",
   "menu" : {
@@ -19,7 +19,7 @@
 
 ## What is a LIT file?
 
-The LIT files belong to the ancient Microsoft Reader which was used to read e-books. The e-books which are displayed by Microsoft Reader have the extension **.lit** which is shortened of **Literature**. The LIT file format consists of a Microsoft ITOL/ITLS HTML Help 2.0 file, which gives all sorts of amazing features like LZX compression, binary representation of markup material, and arbitrary optional auxiliary data associated with each stream. Book text is an arbitrary number of OEBPS 1.0 markup streams and a subset of OEBPS 1.0 CSS. Images are GIF, JPEG, and PNG.  
+The LIT files belong to the ancient **Microsoft Reader** which was used to read e-books. The e-books which are displayed by Microsoft Reader have the extension **.lit** which is shortened of **Literature**. The LIT file format consists of a Microsoft ITOL/ITLS HTML Help 2.0 file, which gives all sorts of amazing features like LZX compression, binary representation of markup material, and arbitrary optional auxiliary data associated with each stream. Book text is an arbitrary number of OEBPS 1.0 markup streams and a subset of OEBPS 1.0 CSS. Images are GIF, JPEG, and PNG.  
 
 ## How much time Microsoft Reader displayed the LIT files
 
