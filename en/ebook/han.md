@@ -25,8 +25,8 @@ A HAN file comes under the eBook data file category. Its developer is Amazon hav
 ## How to open a HAN file? ##
 
  *  Find the HAN file icon and double-click it. The accurate program on the computer will help open the file
- *	In case if just double click the file and it’s still not opening, you will not have the right program to support this file. Although many programs can be used, the most common and widely used program is **Viewpoint Headline Studio**, so try to use it for easy operations
- *	If the above-mentioned programs are not helping to open the file, then it’s time to check the file type to make sure you have a program that can open that type of file. Usually, HAN files are rare Files, but they may be of another type so please for further proceedings
+ *	In case if just double click the file and it’s still not opening, you will not have the right program to support this file. Although many programs can be used, the most common and widely used program is **Viewpoint Headline Studio**, try to use it for easy operations
+ *	If the above-mentioned programs are not helping to open the file, then its time to check the file type to make sure you have a program that can open that type of file
  *	On a Windows computer to find the file properties just right-click the file and click properties to check the file type. For a Mac computer, right-click the file and in the more information section, check the file type
 
 
