@@ -1,6 +1,6 @@
 {
   "date" : "2021-03-28",
-  "keywords" : [ "ORB", "orb reader", "File" ,"extension", "format", "E-Book", "Original eBook Reader File", "Original Book Reader"],
+  "keywords" : [ "ORB", "orb reader", "File" ,"extension", "format", "E-Book", "Original eBook Reader File", "file type"],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
@@ -19,7 +19,7 @@
 
 ## What is an ORB file?
 
-The ORB files are the ebooks which can be read by using ORB Reader, an ancient software which was particularly used to read or edit the ebook files with .orb extension. Please note that the ORB stands for Original Book Reader and the format was developed by the Original Ebook. Therefore, no or very little information is available about the developers ORB on the internet which is a sign that the ORB Reader might have been discontinued or no more available in the current internet market. Hence, some people might feel sad if they have larger size data, but they don't have sufficient options to do something with it. 
+The ORB file format belongs to the ebooks file type which can be read by using ORB Reader, an ancient software which was particularly used to read or edit the ebook files with .orb extension. Please note that the ORB stands for Original Book Reader and the format was developed by the Original Ebook. Therefore, no or very little information is available about the developers ORB on the internet which is a sign that the ORB Reader might have been discontinued or no more available in the current internet market. Hence, some people might feel sad if they have larger size data, but they don't have sufficient options to do something with it. 
 
 ## Structure of ORB File
 
