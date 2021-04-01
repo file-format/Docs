@@ -43,9 +43,9 @@ If you are not being able to open and run the QMK file; it doesn't mean that you
 - Wrong links to the QMK file in registry entries.
 - Deleted description of the QMK from the Windows registry
 - Corrupted installation of an application that supports the QMK format
-- An infected POBI file with an undesirable malware.
-- The computer does not have sufficient hardware resources to operate the POBI file.
-- Drivers used by the computer to open a POBI file are out dated.
+- An infected QMK file with an undesirable malware.
+- The computer does not have sufficient hardware resources to operate the QMK file.
+- Drivers used by the computer to open a QMK file are out dated.
 
 
 
