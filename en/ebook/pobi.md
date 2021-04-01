@@ -6,7 +6,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description":"Learn about POBI file format for orb reader and APIs that can create and open POBI files.",
+  "description":"Learn about POBI file format and APIs that can create and open POBI files.",
   "title" : "POBI - Kindle Touch Periodical File",
   "linktitle" : "POBI",
   "menu" : {

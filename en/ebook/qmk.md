@@ -6,7 +6,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description":"Learn about QMK file format for orb reader and APIs that can create and open QMK files.",
+  "description":"Learn about QMK file format and APIs that can create and open QMK files.",
   "title" : "QMK - YanceyDesktop Quickmarks File",
   "linktitle" : "QMK",
   "menu" : {
