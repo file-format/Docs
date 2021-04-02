@@ -1,13 +1,13 @@
 {
   "date" : "2021-03-03",
-  "keywords" : [ "Apple iWork", ".numbers", "extension", "file format", ".xlsx", "Spreadsheet" ],
+  "keywords" : [ "Apple iWork", ".numbers", "File", "extension", "file format", ".xlsx", "Spreadsheet" , "Convert Numbers to XLSX"],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "File format knowledge about Numbers file and APIs that can create and open them.",
-  "title" : "NUMBERS - Files created by using Apple iWork Numbers spreadsheet ",
+  "description" : "File format knowledge about Numbers file and APIs that can create, open and convert Numbers to XLSX or other spreadsheets.",
+  "title" : "NUMBERS - Apple iWork Numbers spreadsheet ",
   "linktitle" : "NUMBERS",
   "menu" : {
     "docs" : {
@@ -19,7 +19,7 @@
 
 ## What is a NUMBERS file?
 
-The files with **.numbers** extenssion are similar to the **.xlsx** files. The Numbers files are created by using Apple iWork Numbers spreadsheet software. The Apple iWork Numbers is a unit software of the iWork Productivity Suite. The iWork Productivity Suite is equivalent to the Microsoft Office Suite that is used on Windows PCs.
+The files with **.numbers** extension are classified as spreadsheet file type, that's why they are similar to the **.xlsx** files; but the Numbers files are created by using Apple iWork Numbers spreadsheet software. The Apple iWork Numbers is a unit software of the iWork Productivity Suite. The iWork Productivity Suite is equivalent to the Microsoft Office Suite that is used on Windows PCs. Hence, we can say the Numbers which is available for MacOS is also a competitor of Microsoft Excel. Likewise, Microsoft Excel, the Numbers file may also contain the tables, charts and formulas. You can find various softwares to convert Numbers to XLSX or other spreadsheets. The [Aspose APIs](https://www.aspose.com/) and [free apps](https://www.aspose.app/) are available to perform the conversion and other operations with best quality results in easier ways. 
 
 
 ## Brief History of Numbers
