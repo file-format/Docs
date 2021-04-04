@@ -44,5 +44,5 @@ $ head -c 200 animated-sticker
 ```
 ## References ##
 
-# [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/animated_stickers)
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
