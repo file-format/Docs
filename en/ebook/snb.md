@@ -17,10 +17,10 @@
   "lastmod" : "2021-04-05"
 }
 
-## What is a RZS file?
+## What is an SNB file?
 The file with .snb extension; belongs to the Samsung mobile devices. When Galaxy S Note phones create a note by using a typical software (advanced note-taking application developed by Samsung), that note is actually saved as a file with .snb extension in the memory of the smart phones (e.g. Galaxy S and Galaxy Note). A note file may contain sketches, text, video, audio, and images. The SNB files have been discontinued by the Samsung and these files have been replaced by .SPD files. Hence, you may not find a lot of information about this typical file type over the internet.
 
-## How to open a SNB file?
+## How to open an SNB file?
 The SNB files can be synced across PCs, smart phones or tablet devices. These files can be exported to [JPG](https://docs.fileformat.com/image/jpeg/) or [PDF](https://docs.fileformat.com/pdf/) file formats by using the S Note app. You can sync the SNB files to Google Drive by using the Google Drive app on your PC or Android phone.
 
 If you are not being able to open the SNB file on your computer; there may be many causes. The most important cause is that SNB supported softwwares are not installed on your device. In this case you need to see the following points as a guideline:
