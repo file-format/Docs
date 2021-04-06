@@ -17,10 +17,10 @@
   "lastmod" : "2021-04-01"
 }
 
-## What is a RZB file?
+## What is an RZB file?
 The file with .rzb extension is also known as Red Zion Book File which was created by **Red Zion**. This file format is basically associated with a Slovenian e-reading application known as **Red Zion E-book** or "Red Zion E-knjiga" that can be used by any E-book software. This typical file type basically contains text based content that any text editor can easily modify or edit. If you are unable to open a RZB file on your computer, there could be various reasons; it could be either the file association with the RZB file has corrupted by the Windows Registry, or Windows does not have an application installed that is able to open, read and render the content of the RZB file. In order to fix such issues, you can also try to run an optimizing software scan.
 
-## How to open a RZB file?
+## How to open an RZB file?
 If you are not being able to open the RZB file on your computer; there may be many causes. The most important cause is that RZB supported softwwares are not installed on your device. In this case you need to see the following points as a guideline:
 
 - Install the well suited software to run the file.
