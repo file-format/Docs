@@ -55,6 +55,6 @@ If you are not being able to open and run the RZB file; it doesn't mean that you
 
 ## References
 
-* [YanCEyDesktop by Remington](https://en.freedownloadmanager.org/Windows-PC/YanCEyDesktop-FREE.html)
+* [Red Zion E-book ](https://submitfile.com/download/red-zion-e-book)
 
 

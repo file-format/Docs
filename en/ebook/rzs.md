@@ -1,6 +1,6 @@
 {
   "date" : "2021-04-01",
-  "keywords" : [ "RZB", "Red Zion Book File", "File" ,"extension", "format", "E-Book", "file type"],
+  "keywords" : [ "RZB", "Red Zion Security File", "File" ,"extension", "format", "E-Book", "file type"],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
@@ -55,6 +55,6 @@ If you are not being able to open and run the RZS file; it doesn't mean that you
 
 ## References
 
-* [YanCEyDesktop by Remington](https://en.freedownloadmanager.org/Windows-PC/YanCEyDesktop-FREE.html)
+* [Red Zion E-book ](https://submitfile.com/download/red-zion-e-book)
 
 
