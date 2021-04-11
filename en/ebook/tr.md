@@ -59,5 +59,5 @@ There may be some common problems due to which you can’t be able to open the f
 
 ## References ##
 
-* [TR Tags - Yadabyte](http://www.yadabyte.com/TR3Tutorial/TR3_tag.htm)
+* [File.org](https://file.org/extension/tr)
 * [FILExt](https://filext.com/file-extension/TR)
