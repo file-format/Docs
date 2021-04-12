@@ -24,6 +24,15 @@ A file with .rvt extension is Autodesk's proprietary format for Revit files. Rev
 ## RVT File Format
 
 RVT files are based on Autodesk's proprietary file format and its format information is not available publicly. However, you can extract its database as OLE Compound File that can be opened using applications such as 7Zip.
-## References ##
+
+## How to open RVT file?
+
+Some of the software applications that can open RVT files include:
+
+ * Autodesk Revit
+ * Autodesk’s AutoCAD Architecture
+ * [Autodesk Viewer Online](https://viewer.autodesk.com/)
+
+## References
 
  * [Autodesk Revit](https://en.wikipedia.org/wiki/Autodesk_Revit)
