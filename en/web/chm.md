@@ -20,7 +20,7 @@ The CHM file format represents Microsoft **[HTML](/web/html/)** help file that c
 
 The unique ability of CHM file format to implement a combined table of contents and index makes it distinct over other standard HTML pages. The generated CHM file is relatively small in size and, hence, can easily be distributed with software packages. The help authoring tool, HTML Help Workshop, provides an easy-to-use system for creating and managing help projects and their related files. CHM files may include text, images, and hyperlinks; viewable in a Web browser; used by Windows and other programs as an online help solution.
 
-## File Format ##
+## CHM File Format ##
 
 The final form of generated CHM file depends on how the help system is designed and whether it is destined for an application or a web site. A CHM file supports data compression with LZX compression to generate the compressed HTML files. It has the built-in search engine for quick searching of contents along with the capability to merge multiple .CHM files. A CHM file consists of a set of HTML files, a linked Table of contents and an index file.
 
