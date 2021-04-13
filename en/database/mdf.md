@@ -56,6 +56,13 @@ PFS identifies the allocation status and determines the amount of free space.
    * 3: The page is 81–95% full
    * 4: The page is 96–100% full
 
+## How to open MDF file?
+
+Some of the applications that can open MDF files are as follow.
+
+ * Microsoft SQL Server 2019
+ * Microsoft Visual Studio 2019
+
 ## References
 
  * [Database Files and Filegroups](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
