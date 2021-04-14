@@ -44,7 +44,7 @@ Some of the features of DAR file format are as follow.
 
 ## How to open DAR file?
 
-DAR files can be opened on Linux Operating System. Some of the software applications that can open RVT files include:
+DAR files can be opened on Linux Operating System. Some of the software applications that can open DAR files include:
 
  * DAR (Disk Archive)
  * KDar - the KDE Disk Archiver
