@@ -33,13 +33,15 @@ There currently are several MPEG standards.
 ## Program stream of MPG file format ##
 Program stream is a container for multiplexing digital audio, video and more. The Program Stream format is specified in the 1st part of MPEG-1 (ISO/IEC 11172-1) and 1st part of MPEG-2 , Systems (ISO/IEC standard 13818-1/ITU-T H.222.0). The MPEG-2 Program Stream is analog based and similar to ISO/IEC 11172 Systems layer and forward compatible.
 ### Coding details ###
-Here is the coding details of partial MPEG-2 Program Stream pack header format
+Here is the coding details of partial MPEG-2 Program Stream pack header format:
+
 |           Name           |  Number of bits   |                                         Description                                         |
 ---|---|---|
 |        sync bytes        |        32         |                                         0x000001BA                                          |
 
 
-The following table shows the partial system header format
+The following table shows the partial system header format"
+
 |                   Name                    | Number of bytes | Description |
 ---|---|---|
 |                sync bytes                 |        4        | 0x000001BB  |
