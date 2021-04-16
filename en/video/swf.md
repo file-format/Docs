@@ -70,9 +70,9 @@ If you are not being able to open the SWF file on your computer; there may be ma
 - After installing the appropriate verion of software make sure that it is set as the default application to open SWF files.
 
 ### Softwares that can open the SWF files ###
-The SWF files can be opened in the following softwares:
+The SWF files can be open in the following software:
 
-|Operating System| Software|
+|Operating System| Sofware|
 ---|---|
 |Microsoft Windows|Adobe Flash Player, Eltima SWF & FLV Player, Eltima Flash Decompiler Trillix, Xilisoft Video Converter Ultimate, GRETECH GOM Player, Media Player Classic, SWF File Player, Newgrounds Flash Player|
 |MacOS|Adobe Flash Player, Eltima Elmedia Player, Eltima Flash Decompiler Trillix, Eltima Flash Optimizer|

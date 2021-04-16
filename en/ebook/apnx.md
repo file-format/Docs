@@ -18,7 +18,7 @@
 }
 
 ## What is an APNX file?
-The Amazon Page Number Index files use the .APNX extension are e-book file types that are being used by Amazon Kindle. These files are actually pagination files used by Kindle devices. The APNX files are files typically created to mark the pages of Kindle e-books. 
+The Amazon Page Number Index file which uses the .apnx extension is an e-book file type; used by Amazon Kindle. These files are actually known as pagination files used by Kindle devices. So the APNX files are files typically created to mark the pages of Kindle e-books. The pagination feature has been started on Amazon Kindle devices since its 3.1 firmware. It looks into the APNX file for page indexes and then maps it with the page numbers in the orginal print book. These files are saved into Kindle devices along with Amazon eBooks files. You can't open or edit the APNX files
 
 ## Specifications of APNX
 

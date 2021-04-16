@@ -1,6 +1,6 @@
 {
   "date" : "2021-03-03",
-  "keywords" : [ "Apple iWork", ".numbers", "File", "extension", "file format", ".xlsx", "Spreadsheet" , "Convert Numbers to XLSX"],
+  "keywords" : [ "Apple iWork", ".numbers", "File", "extension", "file format", ".xlsx", "Spreadsheet" , "Convert Numbers to XLSX", "convert numbers file to excel"],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
@@ -17,12 +17,15 @@
   "lastmod" : "2021-03-03"
 }
 
-## What is a NUMBERS file?
+## What is a NUMBERS file? ##
 
-The files with **.numbers** extension are classified as spreadsheet file type, that's why they are similar to the **.xlsx** files; but the Numbers files are created by using Apple iWork Numbers spreadsheet software. The Apple iWork Numbers is a unit software of the iWork Productivity Suite. The iWork Productivity Suite is equivalent to the Microsoft Office Suite that is used on Windows PCs. Hence, we can say the Numbers which is available for MacOS is also a competitor of Microsoft Excel. Likewise, Microsoft Excel, the Numbers file may also contain the tables, charts and formulas. You can find various softwares to convert Numbers to XLSX or other spreadsheets. The [Aspose APIs](https://www.aspose.com/) and [free apps](https://www.aspose.app/) are available to perform the conversion and other operations with best quality results in easier ways. 
+The files with **.numbers** extension are classified as spreadsheet file type, that's why they are similar to the **.xlsx** files; but the Numbers files are created by using Apple iWork Numbers spreadsheet software. The Apple iWork Numbers is a unit software of the iWork Productivity Suite. The iWork Productivity Suite is equivalent to the Microsoft Office Suite that is used on Windows PCs. Hence, we can say the Numbers which is available for MacOS is also a competitor of Microsoft Excel. Likewise, Microsoft Excel, the NUMBERS file may also contain the tables, charts and formulas. You can find various softwares to convert NUMBERS file to Excel or other spreadsheets. The [Aspose APIs](https://www.aspose.com/) and [free apps](https://www.aspose.app/) are available to perform the conversion and other operations with best quality results in easier ways. 
+
+## How to convert NUMBERS file to Excel ##
+Convert NUMBERS file to Excel is a big problem around the world; for the people who want their NUMBERS spreadsheets (created by using iWork Numbers spreadsheet software) to the Microsoft Excel spreadsheets. Therefore, you can convert it by using various tools available over the internet. You can also look at the [free online Excel converter](https://products.aspose.app/cells/conversion) by [Aspose](https://www.aspose.com/).
 
 
-## Brief History of Numbers
+## Brief History of Numbers ##
 
 The first version of Numbers 1.0 on OS X was announced on 7 August 2007 and incorporated as the newest application in the iWork suite. The iPad version of this app was released on 27 January 2010.The application was later updated to support iPhone and iPod Touch.
 
@@ -30,7 +33,7 @@ Numbers uses a free-form "canvas" approach that downgrades the tables to one of 
 
 Numbers also includes several modish enhancements in an effort to refine the visual appearance of spreadsheets. Steve Jobs showed a more usable interface and better control over the appearance and presentation of tables of data, at the time of its initial demonstration.
 
-## Available Features with Numbers
+## Available Features with Numbers ##
 Here is the list of some salient features offered by IWork Numbers:
 
 - Turn handwriting into text

@@ -6,7 +6,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "DGN - CAD File Format",
+  "title" : "DGN - MicroStation CAD Design File Format",
   "description" : "Learn about DGN file format and APIs that can create and open DGN files.",
   "linktitle" : "DGN",
   "menu" : {
@@ -40,6 +40,12 @@ A MicroStation V8 DGN file is composed of one or more models. A model is a conta
  * There is no limit to the number of text nodes in a DGN file.
  * Each element has a unique 64-bit identifier that does not change through the life-cycle of the element.
  * Each element has a time stamp that indicates the time of the most recent change.
+
+## How to open DGN file?
+
+ * Autodesk AutoCAD 2020
+ * IMSI TurboCAD Deluxe
+ * Corel PaintShop Pro
 
 ## References
 

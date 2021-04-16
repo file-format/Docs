@@ -20,7 +20,7 @@
 
 Files with .gz extension are compressed files created with gzip compression application. It can contain multiple compressed files and is commonly used on UNIX and Linux systems. GZIP was introduced as a free utility for replacing the Compress program used in Unix systems. Such files can be opened and extracted with a several applications such as WinZip which is available on both Windows and MacOS. While the format is similar to [.ZIP](https://wiki.fileformat.com/Compression/ZIP/) compression in archiving, it differs in terms of compression applied to the archive instead of individual file.
 
-# GZ File Format #
+## GZ File Format
 
 Gzip uses the [DEFLATE](https://en.wikipedia.org/wiki/DEFLATE) algorithm for compression of archive and differs from the .ZIP archive format in applying the compression algorithm on complete archive rather than individual files. The GZIP file format specifications version 4.3 published by Internet Engineering Task Force (IETF) contains detailed information about the file format. The file format consists of:
 
@@ -78,7 +78,7 @@ The file header consists of 10 bytes as follow:
 |13|Acorn RISCOS
 |255|unknown
 
-## Optional Headers ##
+## GZ Optional Headers ##
 
 The optional extra headers are those as denoted by the file flags and include information such as the original filename, extra fields, comments and header checksum.
 
@@ -86,7 +86,7 @@ The optional extra headers are those as denoted by the file flags and include in
 
 This section contains the compressed data using the DEFLATE compression algorithm.
 
-## File Footer ##
+## GZ File Footer ##
 
 The file footer is 8 bytes in size and contains following information.
 
