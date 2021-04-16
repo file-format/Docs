@@ -38,9 +38,23 @@ Here is the coding details of partial MPEG-2 Program Stream pack header format:
 |           Name           |  Number of bits   |                                         Description                                         |
 ---|---|---|
 |        sync bytes        |        32         |                                         0x000001BA                                          |
+|       marker bits        |         2         | 01b for MPEG-2 version. The marker bits for the MPEG-1 version are 4 bits with value 0010b. |
+|  System clock [32..30]   |         3         |                         System Clock Reference (SCR) bits 32 to 30                          |
+|        marker bit        |         1         |                                      1 Bit always set.                                      |
+|  System clock [29..15]   |        15         |                                 System clock bits 29 to 15                                  |
+|        marker bit        |         1         |                                      1 Bit always set.                                      |
+|   System clock [14..0]   |        15         |                                  System clock bits 14 to 0                                  |
+|        marker bit        |         1         |                                      1 Bit always set.                                      |
+|      SCR extension       |         9         |                                                                                             |
+|        marker bit        |         1         |                                      1 Bit always set.                                      |
+|         bit rate         |        22         |                              In units of 50 bytes per second.                               |
+|       marker bits        |         2         |                                     11 Bits always set.                                     |
+|         reserved         |         5         |                                   reserved for future use                                   |
+|     stuffing length      |         3         |                                                                                             |
+|      stuffing bytes      | 8*stuffing length |                                                                                             |
+| system header (optional) |     0 or more     |                       if system header start code follows: 0x000001BB                       |
 
-
-The following table shows the partial system header format"
+The following table shows the partial system header format:
 
 |                   Name                    | Number of bytes | Description |
 ---|---|---|
