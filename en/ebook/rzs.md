@@ -28,7 +28,7 @@ If you are not being able to open the RZS file on your computer; there may be ma
 - After installing the appropriate verion of e-reading software make sure that it is set as the default application to open RZS files.
 
 ## Softwares that can open the RZS files
-The RZS files can be open in the following software:
+The RZS files can be opened in the following software:
 
 |Operating System| Sofware|
 ---|---|

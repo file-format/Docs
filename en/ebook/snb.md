@@ -26,11 +26,11 @@ The SNB files can be synced across PCs, smart phones or tablet devices. These fi
 If you are not being able to open the SNB file on your computer; there may be many causes. The most important cause is that SNB supported softwwares are not installed on your device. In this case you need to see the following points as a guideline:
 
 - Install the well suited software to run the file.
-- If still you are facing difficulty to open the .rzs file; you must check the version of the software and see either that is supporting .rzs files or not. Some files can be supported by the old version and some by the latest one so, must check the details.
+- If still you are facing difficulty to open the .snb file; you must check the version of the software and see either that is supporting .snb files or not. Some files can be supported by the old version and some by the latest one so, must check the details.
 - After installing the appropriate verion of e-reading software make sure that it is set as the default application to open SNB files.
 
 ## Softwares that can open the SNB files
-The SNB files can be open in the following software:
+The SNB files can be opened in the following softwares:
 
 |Operating System| Sofware|
 ---|---|

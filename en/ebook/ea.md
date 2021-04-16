@@ -1,6 +1,6 @@
 {
   "date" : "2021-03-16",
-  "keywords" : [ "EA", "Kindle End Actions File", "extension", "format", "E-Book", "Amazon Kindle e-reading device", "ASIN"],
+  "keywords" : [ "EA", "Kindle End Actions File", "extension", "format", "E-Book", "Amazon Kindle e-reading device", "ASIN","Kindle file format"],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
@@ -17,15 +17,33 @@
   "lastmod" : "2021-03-16"
 }
 
-## What is an EA file?
-The .ea extension is used for the **Kindle End Action** files. These files are created by the **Amazon Kindle e-reading device** to show something which an author wants to display at the end of an ebook. An EA file contains the information in [XML](https://docs.fileformat.com/web/xml/) format. 
+## What is an EA file? ##
+The .ea extension is used for the **Kindle End Action** file which is one of the Kindle file formats. These files are created by the **Amazon Kindle e-reading device** to show something which an author wants to display at the end of an ebook. An EA file contains the information in [XML](https://docs.fileformat.com/web/xml/) format. So this file can be opened or view by using any text editor. This file can be found where the Kindle e-reading devices save the e-books. The content in it might be empty XML tags if the customer hadn't set the information to display at the end of an e-book.  
 
-## Little more about EA file format
+## Little more about EA file format ##
 A file with .ea extension is an xml file that contains the data for the customers who bought the book and also bought a feature to show more about the author after the last page of the e-book; including **ASIN** or **ISBN** so it can jump to the title's Kindle Store page. 
 
-## What is an ASIN/ISBN? 
+### What is an ASIN/ISBN?  ###
 The ASIN stands for **Amazon Standard Identification Number** which is actually a a ten digit alphanumeric code to uniquely identify the products on Amazon. The ASIN is a unique identifier for each product and is assigned when you create an Amazon product. Each and every product on Amazon has an ASIN with the exception of books. The Amazon uses the ISBN (International Standard Book Number) in place of an ASIN. This Amazon identifier for your products is necessary to get before you sell them on Amazon.
 
+## How to open EA files? ##
+If you are not being able to open the EA file on your computer; there may be many causes. The most important cause is that EA supported softwares are not installed on your device. In this case you need to see the following points as a guideline:
+
+- Install the well suited software to run the file.
+- If still you are facing difficulty to open the .ea file; you must check the version of the software and see either that is supporting .ea files or not. Some files can be supported by the old version and some by the latest one so, must check the details.
+- After installing the appropriate verion of software make sure that it is set as the default application to open EA files.
+
+## Possible problems while opening the file
+
+If you are not being able to open and run the EA file; it doesn't mean that you do not have a suitable software installed on your device. There might be some other issues which prevent the file to work properly. The possible problems might be one of the following:
+
+- Corruption of a EA file.
+- Wrong links to the EA file in registry entries.
+- Deleted description of the EA from the Windows registry
+- Corrupted installation of an application that supports the EA format
+- An infected EA file with an undesirable malware.
+- The computer does not have sufficient hardware resources to operate the EA file.
+- Drivers used by the computer to open a EA file are out dated.
 
 
 ## References
