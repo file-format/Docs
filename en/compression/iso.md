@@ -16,7 +16,7 @@
   "lastmod" : "2021-04-19"
 }
 
-## What is a ISO file?
+## What is an ISO file?
 
 A file with .iso extension is an uncompressed archive disk image file that represents the contents of entire data on an optical disc such as CD or DVD. Based on the [ISO-9660](https://www.iso.org/standard/17505.html) standard, the ISO image file format contains the disc data along with the filesystem information that is stored in it. The capability of ISO files to contain an exact replica of the content makes it the perfect file type for creating copies of CDs/DVDs and are mostly used to store bootable data for installation. Most of the times, ISO files are burnt to USB/CD/DVD as bootable content for booting the machine for installation. ISO files have MIME type application/x-iso9660-image.
 
@@ -28,8 +28,8 @@ ISO file format is not like other container file file formats although it archiv
 
 The overall structure of the file consists of:
 
- * System Area - 32,768 bytes and is unused by ISO_9660
- * Data Area - consists of Volume descriptor set and Path tables, directories and files
+ * `System Area` - 32,768 bytes and is unused by ISO_9660
+ * `Data Area` - consists of Volume descriptor set and Path tables, directories and files
 
 ### Volume Descriptor Set
 
