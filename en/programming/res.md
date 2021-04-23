@@ -18,7 +18,7 @@
 }
 
 ## What is a RES file?
-The files with .res suffix or extension belongs to many file format categories. Here we are discussing the RES file format which is a C++ Compiled Resource Script; A binary file created by the Microsoft Resource Compiler (rc) that contains resource data respective to its parent software project. The resource compiler is a tool that compiles resources such as cursors, icons, menus, and dialog boxes, that your application uses. The resource files usually have a .res extension; contains resources, such as cursors, images, and version information. An RES file could be a 16 or 32-bit resource file.
+The file with .res suffix or extension can belong to many file format categories. Here we are discussing the RES file format which is a C++ Compiled Resource Script; A binary file created by the Microsoft Resource Compiler (rc) that contains resource data; relevant to its parent software project. The resource compiler is a tool that compiles resources such as cursors, icons, menus, and dialog boxes, that your application uses. The resource files usually have a .res extension; contains resources, such as cursors, images, and version information. An RES file could be a 16 or 32-bit resource file.
 
 
 ## how to open RES file? ##
