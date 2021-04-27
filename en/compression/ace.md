@@ -16,11 +16,11 @@ lastmod: 2021-04-21
 
 ## What is an ACE file?
 
-A file with .ace extension is an ACE compressed file format that was developed by Marcel Lemke. It is the primary file format used by the WinAce compression application which was developed and available for Microsoft Windows platform only. The format was developed as an alternative to the ZIP file format but with discontinuation of the WinAce, the format couldn't be carried out for long.
+A file with .ace extension is an ACE compressed file format that was developed by Marcel Lemke. It is the primary file format used by the WinAce compression application which was developed and available for Microsoft Windows platform only. The format was developed as an alternative to the [ZIP](/compression/zip/) file format but with discontinuation of the WinAce, the format couldn't be carried out for long.
 
 ## ACE File Format
 
-ACE is a proprietary file format and its technical details are not available publicly. It offered higher compression ration than ZIP and RAR, along with fast compression speed. It also supports robust 160bit Blowfish encryption.
+ACE is a proprietary file format and its technical details are not available publicly. It offered higher compression ration than ZIP and [RAR](/compression/rar/), along with fast compression speed. It also supports robust 160bit Blowfish encryption.
 
 ## How to open ACE file?
 
