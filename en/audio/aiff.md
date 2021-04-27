@@ -23,7 +23,8 @@ The AIFF (Audio Interchange File Format) is an uncompressed audio file format de
 
 
 ## AIFF vs WAV
-The AIFF and WAV are the almost same in term of quality. Both of them use same PCM (pulse-code modulation) encoding, which makes them larger in size as compared to other lossy formats, such as, MP3, M4A. Some of the general differences are written in the table below:
+The AIFF and WAV are the almost same in term of quality. Both of them use same PCM (pulse-code modulation) encoding, which makes them larger in size as compared to other lossy formats, such as, [MP3](https://docs.fileformat.com/audio/mp3/), [M4A](). Some of the general differences are written in the table below:
+
 |AIFF|WAV|
 ---|---|
 |Being used mostly for MAC|Mostly used for PCs|
