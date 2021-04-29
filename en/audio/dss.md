@@ -43,5 +43,5 @@ The DSS files can be opened in the following softwares:
 
 ## References ##
 
-* [MPEG-4 Part 14 - By Wikipedia](https://en.wikipedia.org/wiki/MPEG-4_Part_14)
-* [MPEG-4 Part 14 Audio (M4A,M4B,M4P) Format & Recovery Example](https://www.file-recovery.com/m4a-signature-format.htm)
+* [Digital Speech Standard - Wikipedia](https://en.wikipedia.org/wiki/Digital_Speech_Standard)
+* [Digital Speech Standard (.dss / .ds 2) - Olympus Europa](https://www.olympus-europa.com/site/en/a/audio_support/audio_support_help/digital_speech_standard/index.html)
