@@ -53,12 +53,12 @@ Frame size of AMR modes in bytes (including the header byte) are given below:
 
 |CMR |MODE |FRAME SIZE( in bytes )|
 ---|---|---|
-|0 |AMR 4.75 13|
-|1 |AMR 5.15 14|
-|2 |AMR 5.9 16|
-|3 |AMR 6.7 18|
-|4 |AMR 7.4 20|
-|5 |AMR 7.95 21|
+|0 |AMR 4.75 |13|
+|1 |AMR 5.15 |14|
+|2 |AMR 5.9 |16|
+|3 |AMR 6.7 |18|
+|4 |AMR 7.4 |20|
+|5 |AMR 7.95 |21|
 
 
 ## How to play AMR files? ##
