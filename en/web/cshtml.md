@@ -67,6 +67,5 @@ End Code
 As mentioned earlier, CSHTML are text files that can be opened in any text editor. Microsoft Visual Studio provides users with suitable programming environment with syntax highlighting and Intellisense while coding CSHTML files.
 
 ## References
-
-* [DHTML - By w3schools](https://w3schools.sinsixx.com/dhtml/dhtml_intro.asp.htm)
-* [Dynamic HTML - Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
+* [Razor Syntax Reference - Microsoft](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0)
+* [CSHTML - By w3schools](https://www.w3schools.com/asp/razor_syntax.asp)
