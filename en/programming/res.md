@@ -41,6 +41,6 @@ The RES files can be opened in the following softwares:
 
 ## References
 
- * []()
+ * [Resource File Formats](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
  

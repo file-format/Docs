@@ -16,13 +16,15 @@
   "lastmod" : "2019-09-10"
 }
 
+## What is an HTML file?
+
 HTML (Hyper Text Markup Language) is the extension for web pages created for display in browsers. Known as language of the web, HTML has evolved with requirements of new information requirements to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from server, where these are hosted, or can be loaded from local system as well. Each HTML page is made up of HTML elements such as forms, text, images, animations, links, etc. These elements are represented by tags and several others where each tag has start and end. It can also embed applications written in scripting languages such as JavaScript and Style Sheets (CSS) for overall layout representation.
 
 ## Brief History ##
 
 Since its inception and first role out, the HTML specifications have been maintained by World Wide Web Consortium (W3C) since 1996. In 2000, it also became an international standard (ISO/IEC 15445:2000). In 1999, HTML 4.01 was published. In 2004, the Web Hypertext Application Technology Working Group (WHATWG) started working on the HTML5 version which became a joint deliverable with the W3C in 2008. It was completed and standardized on 28 Oct 2014.
 
-## File Format Structure ##
+## HTML File Format Structure ##
 
 An HTML 4 document is composed of three parts:
 
@@ -59,13 +61,13 @@ For **HTML5**, the version information is simply as mentioned below.
 <!DOCTYPE html>
 ```
 
-### Header Information ###
+### HTML Header Information ###
 
 Header of an HTML document can include a number of HTML elements that are not rendered by the browser. Such elements are either metadata that describe information about the page or includes sections that are used to fetch information from external resources like CSS stylesheets or JavaScript files. Header of a page is represented by the head tag.
 
 For setting page title, the **title** element is the only one that is required within the <head> tags. The same is used by Search engines to identify the title of a page.
 
-### Body Information ###
+### HTML Body Information ###
 
 This is the main section in the file that contains all the contents of the file that are rendered by browsers. Html body can contain markups that can refer to various building blocks in the shape of tags. It can contain several different types of information like text, images, colors, graphics, etc. In addition, audio and video elements can also be embedded in html body for rendering by browsers. In presence of modern style sheets application for visual representation, the presentation attributes of BODY such as background color, link color, text color, etc. have been deprecated. Thus, the same effects can be achieved using stylesheets as shown below:
 

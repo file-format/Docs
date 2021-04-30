@@ -22,7 +22,7 @@ An APS File is created by Visual C++, a software development application by Micr
 
 
 
-## how to open APS file? ##
+## How to open APS file? ##
 
 If you are not being able to open the APS file on your computer; there may be many causes. The most important cause is that APS supported softwares are not installed on your device. In this case you need to see the following points as a guideline:
 

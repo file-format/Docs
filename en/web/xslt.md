@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "XML File Format",
+  "title" : "XSLT File Format",
   "description":"Learn about XSLT file format and APIs that can create and open XSLT files.",
   "linktitle" : "XSLT",
   "menu" : {
