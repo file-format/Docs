@@ -39,17 +39,17 @@ The DMG file extension was developed by Apple and is mostly used on Macintosh co
 
 ## How to Open a DMG file? ##
 
--  Windows
-  - 7-Zip
-  - PeaZip
-- Mac OS X
-  - Apple Disk Utility
-  - Incredible Bee Archiver
-  - Roxio Toast 14
-  - Catacombae HFSExplorer
--  Linux OS
-  - Catacombae HFSExplorer
-  - PeaZip
+	- Windows
+		- 7-Zip
+		- PeaZip
+	- Mac OS X
+		- Apple Disk Utility
+		- Incredible Bee Archiver
+		- Roxio Toast 14
+		- Catacombae HFSExplorer
+	- Linux OS
+		- Catacombae HFSExplorer
+		- PeaZip
   
 If you want to open the file without downloading any tools, then what you need is a DMG file opener online. It is very easy to convert the files into the format that your OS supports. Then you can easily open the file format in this way. You can access these tools very easily online.
 
