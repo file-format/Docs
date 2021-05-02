@@ -27,30 +27,25 @@ The DMG file extension was developed by Apple and is mostly used on Macintosh co
 
 ## Technical Specifications ##
 
-  *  Specially generated for Macintosh computers 
-  *  Developed by Apple
-  *	 File format is Binary
-  *	 File Category is Disk Image File
-  *	 Supported Program is MacOS
-  *  Can contain a partition table
-  *  May contain any kind of filesystem like HFS+
-  *  Functionality to compress the images
+   *  Specially generated for Macintosh computers 
+   *  Developed by Apple
+   *  File format is Binary
+   *  File Category is Disk Image File
+   *  Supported Program is MacOS
+   *  Can contain a partition table
+   *  May contain any kind of filesystem like HFS+
+   *  Functionality to compress the images
 
 
 ## How to Open a DMG file? ##
 
-	- Windows
-		- 7-Zip
-		- PeaZip
-	- Mac OS X
-		- Apple Disk Utility
-		- Incredible Bee Archiver
-		- Roxio Toast 14
-		- Catacombae HFSExplorer
-	- Linux OS
-		- Catacombae HFSExplorer
-		- PeaZip
-  
+   *  7-Zip
+   *  PeaZip
+   *  Apple Disk Utility
+   *  Incredible Bee Archiver
+   *  Roxio Toast 14
+   *  Catacombae HFSExplorer
+	
 If you want to open the file without downloading any tools, then what you need is a DMG file opener online. It is very easy to convert the files into the format that your OS supports. Then you can easily open the file format in this way. You can access these tools very easily online.
 
 ## References ##
