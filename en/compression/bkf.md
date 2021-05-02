@@ -30,7 +30,8 @@ The BKF file extension is a kind of Windows Backup Utility File established for 
   *  Developed by Microsoft Corporation
   *  Primary association with WindowsXP
   *  Supported by Windows NT Backup application
-  *  Format type, Binary
+  *  Application Category is Archive files
+  *  Format type is Binary
   *  Belongs to Backup files category
   *  Associated with BKF Viewer
 
