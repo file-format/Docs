@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description" : "Learn about ACCDT file format and APIs that can create and open ACCDT files.",
-  "title" : "ACCDT File Format - Microsoft Access 2007 Template Database File",
+  "title" : "ACCDT - Microsoft Access 2007 Template Database File Format",
   "linktitle" : "ACCDT",
   "menu" : {
     "docs" : {
@@ -54,6 +54,10 @@ A part is a stream of bytes that has an associated type for specifying the natur
 `Internal relationship` - where the target is a part in the package.
 
 `External relationship` - where the target is an external resource not in the package.
+
+## How to open ACCDT file?
+
+ACCDT file can be opened using Microsoft Access 365.
 
 ## References ##
 

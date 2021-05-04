@@ -43,7 +43,7 @@ A MDF file has the following data structure.
  * Page 6: First DCM
  * Page 7: First BCM
 
-#### File Header
+#### NDF File Header
 
 The page number 0 of all the files contains a header that stores metadata about the file.
 
@@ -68,6 +68,10 @@ Pages in a SQL Server data file start from zero (0) and increment sequentially. 
 {{< figure src="../ndf.png" alt="NDF Database File Format" >}}
 
 This example shows page numbers in a database that has a 4-MB primary data file and 1-MB secondary data file.
+
+## How to open NDF file?
+
+NDF files can be opened using Microsoft Visual Studio 2019 on Windows Operating System.
 
 ## References
 

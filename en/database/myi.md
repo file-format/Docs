@@ -22,7 +22,7 @@ MYI is also known as the MySQL MyISAM Index file. It is used to store indexes fo
 
 MYI file has two parts, the header, and the key values.
 
-### Header ###
+### MYI Header ###
 
 The header contains information about options, file sizes, and keys. The keys in MySQL are created with a command like
 
@@ -59,4 +59,3 @@ The MYI files can be opened by using the following programs.
 ## References ##
 
 - [The .MYI File](https://dev.mysql.com/doc/internals/en/the-myi-file.html)
-- [.MYI](https://www.reviversoft.com/file-extensions/myi)

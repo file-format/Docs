@@ -63,6 +63,16 @@ INSERT INTO STATS VALUES (78, 1, 6.7, 2.10);
 INSERT INTO STATS VALUES (88, 7, 65.8, 4.52);
 ```
 
+### How to open SQL file?
+
+SQL files are text files that can be opened using the following software programs.
+
+|Operating System| Application|
+---|---|
+|Windows|MySQL, Notepad++, Notepad, Navicat|
+|Linux|MySQL, Text Editors|
+|MacOS|MySQL, Apple TextEdit|
+
 ## References ##
 
 * [SQL by Wikipedia](https://en.wikipedia.org/wiki/SQL)
