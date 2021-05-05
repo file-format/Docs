@@ -18,10 +18,10 @@
 }
 
 ## What is an AMR file?
-The file with .amr extension is an audio data format relevant to **Adaptive Multi-Rate** audio codec; consists of a multi-rate narrowband speech codec which encodes narrowband signals at 4.75-12.2 kbit/s bit rate with toll quality speech starting at 7.4 kbit/s; uses link adaptation to select from one of eight different bit rates based. AMR files use many coding techniques, the ACELP (Algebraic Code Excited Linear Prediction) algorithm one of the best technique; designed for compressing human spoken audio in a more efficient way. The AMR was set as the standard voice or speech codec by 3GPP in 1999. The AMR file format is also used to store the spoken audio by using **Adaptive Multi-Rate** audio codec which is used by many smart phones to store recorded speeches.
+The file with .amr extension is an audio data format relevant to **Adaptive Multi-Rate** audio codec; consists of a multi-rate narrowband speech codec which encodes narrowband signals at 4.75-12.2 kbit/s bit rate with toll quality speech starting at 7.4 kbit/s; uses link adaptation to select from one of eight different bit rates based. AMR files use many coding techniques, the ACELP (Algebraic Code Excited Linear Prediction) algorithm one of the best technique; designed for compressing human spoken audio in a more efficient way. 
 
 ## AMR file format structure
-The AMR( Adaptive Multi-Rate ) is an audio format; widely used in various mobile applications and devices, typically in audio player/recorder or in VoIP kind of applications. AMR can be further classified as:
+The AMR file format is used to store the spoken audio by using **Adaptive Multi-Rate** audio codec which is used by many smart phones to store recorded speeches. This audio format is widely used in various mobile applications and devices, typically in audio player/recorder or in VoIP kind of applications. AMR can be further classified as:
 
 1. AMR-NB( NarrowBand )
 2. AMR-WB( WideBand )
