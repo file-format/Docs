@@ -1,36 +1,30 @@
----
-date: 2019-10-11
-keywords: yaml, .yaml, yaml file format, how to open yaml files, .yaml extension, yaml extension
-author:
-  display_name: Muhammad Ahmad Chishti
-draft: false
-toc: true
-title: YAML File Format
-linktitle: YAML
-description: Learn about YAML file format and APIs that can create and open YAML files.
-menu:
-  docs:
-    parent: "programming"
-lastmod: 2020-25-11
----
+{
+  "date" : "2019-10-11",
+  "keywords" : [ "yaml", ".yaml","what is a yaml file","how to open yaml file", "extension", "file", "yaml file","yaml file format",  ".yaml extension", "yaml vs json" ],
+  "author" : {
+    "display_name" : "Muhammad Ahmad Chishti"
+  },
+  "draft" : "false",
+  "toc" : true,
+  "description" : " Learn about YAML file format and APIs that can create and open a YAML file.",
+  "title" : "YAML File Format",
+  "linktitle" : "YAML",
+  "menu" : {
+    "docs" : {
+      "parent" : "programming"
+    }
+  },
+  "lastmod" : "2021-05-05"
+}
 
 ## What is a YAML file? ##
 
-YAML (YAML Ain't Markup Language) is a Unicode based data-serialization language that is used for configuration files, internet messaging, object persistence, etc. YAML uses the .yaml extension for its files. YAML was designed to work well with modern programming languages.
+**YAML file** consists of a language YAML (YAML Ain't Markup Language) which is a Unicode based data-serialization language; used for configuration files, internet messaging, object persistence, etc. YAML uses the .yaml extension for its files. Its syntax is independent of a specific programming language. Basically, the YAML is designed for human interaction and to work well with modern programming languages. Support for serializing arbitrary native data structures increased the readability of the YAML files, but it has made the parsing and file generation process complicated a little.
 
 ## Brief History ##
 
 YAML was first proposed in 2001 and was developed by Clark Evans, Ingy döt Net, and Oren Ben-Kiki. YAML was first said to mean "Yet Another Markup Language" to indicate its purpose as a markup language. It was later repurposed as "YAML Aint Markup Language" to indicate its purpose as data-oriented.
 
-## How to open YAML files ##
-
-To open YAML files, you can use the following:
-
-- Notepad
-- Notepad++
-- VS Code
-- Atom
-- IntelliJ IDEA
 
 ## YAML File Format ##
 
@@ -144,6 +138,45 @@ YAML file consists of the following data types
   ---
   Document content
   ```
+## YAML vs JSON
+Basically, both JSON and YAML are developed to provide a human-readable data interchange format. The YAML is realized as a superset of JSON format. It means that we can parse JSON using a YAML parser. Although the practical implementation of this theory is little tricky. Therefore, some basic differences between YAML and JSON are given below:
+
+|YAML| JSON|
+---|---|
+|Complex and time consuming process of parsing Serialized data |Quickly and easily parse JSON serialized data with its simpler design|
+|Less community support| Larger community support and popularity|
+|Supports comments| Doesn't support comments|
+|Ability to use reference of other data objects| Impossible to serialize complex structures with object references|
+|Hierarchy is denoted by using double space characters. Tab characters are not allowed|Objects and Arrays are denoted in braces and brackets.|
+|String quotes are optional but it supports single and double quotes.|Strings must be in double quotes.|
+|Root node can be any of the valid data types|Root node must either be an array or an object.|
+
+## How to open YAML file ##
+
+If you are not being able to open the YAML file on your computer; there may be many causes. The most important cause is that YAML supported softwares are not installed on your device. In this case you need to see the following points as a guideline:
+
+- Install the well suited software to run the file.
+- If still you are facing difficulty to open the .yaml file; you must check the version of the software and see either that is supporting .yaml files or not. Some files can be supported by the old version and some by the latest one so, must check the details.
+- After installing the appropriate verion of software make sure that it is set as the default application to open YAML files.
+
+### Softwares that can open the YAML files ###
+The YAML files can be opened in the following softwares:
+
+|Software| Operating System|
+---|---|
+|File Viewer Plus|Microsoft Windows|
+|Microsoft Notepad|Microsoft Windows|
+|Notepad++|Microsoft Windows|
+|Microsoft Visual Studio Code|Microsoft Windows, MacOS, Linux|
+|GitHub Atom|Microsoft Windows, MacOS, Linux|
+|gVim|Microsoft Windows, Linux|
+|Apple TextEdit| MacOS|
+|MacroMates TextMate| MacOS|
+|Alexander Blach Textastic Code Editor|iOS|
+|File Viewer for Android|Android|
+
+
+
 
 ## References ##
 

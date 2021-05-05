@@ -25,7 +25,7 @@ The DNL files are classified as e-book files were introduced by **DNAML** which 
 If you are not being able to open the DNL file on your computer; there may be many causes. The most important cause is that DNL supported softwares are not installed on your device. In this case you need to see the following points as a guideline:
 
 - Install the well suited software to run the file.
-- If still you are facing difficulty to open the .DNL file; you must check the version of the software and see either that is supporting .DNL files or not. Some files can be supported by the old version and some by the latest one so, must check the details.
+- If still you are facing difficulty to open the .dnl file; you must check the version of the software and see either that is supporting .dnl files or not. Some files can be supported by the old version and some by the latest one so, must check the details.
 - After installing the appropriate verion of software make sure that it is set as the default application to open DNL files.
 
 ### Softwares that can open the DNL files ###
