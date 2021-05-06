@@ -1,12 +1,13 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "JAR", ".jar","what is a jar file","how to open a jar file", "extension", "file", "jar file","jar file format",  ".jar extension" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
   "draft" : "false",
   "toc" : true,
   "title" : "JAR - Java Archive File Format",
-  "description":"Learn about JAR file format and APIs that can create and open JAR files.",
+  "description":"Learn about JAR file format and APIs that can create and open JAR file.",
   "linktitle" : "JAR",
   "menu" : {
     "docs" : {
@@ -18,7 +19,7 @@
 
 ## What is a JAR file?
 
-A file with .jar extension is a Java ARchive file that contains many different application related files as a single file. This file format was created to reduce the speed of loading a downloaded Java Applet in browser via HTTP transaction, by avoiding to create multiple HTTP connections. A single JAR file can contain Java class files (.class), images, and sounds. Individual items inside a JAR file can be digitally signed by the application developer to authenticate their origin. JAR files are regularly used to create functional APIs that contain specific functionality related to that API. JAR files can be opened with archiving applications such as WinZip, WinRAR, 7-ZIP, and Oracle Java Runtime.
+A file with .jar extension is a Java Archive file that contains many different application related files as a single file. This file format was created to reduce the speed of loading a downloaded Java Applet in browser via HTTP transaction, by avoiding to create multiple HTTP connections. A single JAR file can contain Java class files ([.class](/programming/class/)), [images](/image/), and [sounds](/audio/). Individual items inside a JAR file can be digitally signed by the application developer to authenticate their origin. JAR files are regularly used to create functional APIs that contain specific functionality related to that API.
 
 ## JAR File Format
 
@@ -67,6 +68,21 @@ JAR files can also comprise of an application that can be executed by Java Virtu
 ```
 Main-Class: com.example.MyClassName
 ```
+## How to open a JAR file?
+In order to open a JAR file, the Java Runtime Environment must be installed. Alternatively, the JAR files can be opened with archiving applications such as WinZip, WinRAR and 7-ZIP.
+### Softwares that can open the JAR files ###
+The JAR files can be opened in the following softwares:
+
+|Software| Operating System|
+---|---|
+|Oracle Java Runtime Environment|Microsoft Windows, MacOS, Linux|
+|Oracle Java SE Development Kit|Microsoft Windows, MacOS, Linux|
+|Corel WinZip|Microsoft Windows, MacOS|
+|7-Zip|Microsoft Windows|
+|RARLAB WinRAR|Microsoft Windows|
+
+
+
 ## References
 
  * [JAR File Overview](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jarGuide.html)
