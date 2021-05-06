@@ -20,7 +20,7 @@
 
 VCF (Virtual Card Format) or vCard is a digital file format for storing contact information. The format is widely used for data interchange among popular information exchange applications. Most operating systems such as Windows and MacOS come with default applications to create and open these files. A single VCF file can contain contact information for one or multiple contacts. A VCF file usually contains information such as contact's name, address, phone number, email, birthday, photographs and audio in addition to a number of other fields. Being supported by email clients and services, there is no loss of data during the transfer of contacts via using the vCard format. The media type for VCF file format is text/vcard.
 
-## VCF File Format ##
+## VCF File Format
 
 VCF files are textual by nature and are human readable. These can be opened in text editors such as Notepad on Microsoft Windows and TextEdit on MacOS. If there is an image in the file, however, it won't show in the text editor.
 
@@ -28,7 +28,7 @@ VCF files are textual by nature and are human readable. These can be opened in t
 
 {{< figure src="../VCF.png" alt="VCF File Format" >}}
 
-### VCF 2.1 ###
+### VCF 2.1 Example
 
 Following is an exmaple of version 2.1.
 
@@ -53,7 +53,7 @@ REV:20080424T195243Z
 END:VCARD
 ```
 
-### VCF 3.0 ###
+### VCF 3.0 Example
 
 Following is an example of version 3.0.
 
@@ -76,7 +76,7 @@ REV:2008-04-24T19:52:43Z
 END:VCARD
 ```
 
-### VCF 4.0 ###
+### VCF 4.0 Example
 
 Following is an example of version 4.0.
 
@@ -98,6 +98,6 @@ x-qq:21588891
 END:VCARD
 ```
 
-## References ##
+## References
 
 * [VCF - By Wikipedia](https://en.wikipedia.org/wiki/VCard)

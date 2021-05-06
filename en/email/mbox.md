@@ -16,7 +16,7 @@
   "lastmod" : "2019-09-10"
 }
 
-# What is an MBOX file? #
+## What is an MBOX file?
 
 MBox file format is a generic term that represents a container for collection of electronic mail messages. The messages are stored inside the container along with their attachments. Messages from an entire folder are saved in a single database file and new messages are appended to the end of the file. Numerous applications and API provide support for MBox file format such as Apple Mail and Mozilla Thunderbird.
 
@@ -31,6 +31,17 @@ A reader scans through an mbox file looking for From_ lines. Any From_ line mark
 ## Encoding Considerations ##
 
 The contents of an MBox file can become irreversibly intermingled when an email received contains an Mbox file as attachment and is saved in another Mbox file. To avoid this, messaging systems must encode an mbox database with non-transparent transfer encoding (such as BASE64 or Quoted-Printable) whenever such an object is transferred via messaging protocols.  Implementers should also be prepared to encode mbox data locally if non-compliant data is received.
+
+## How to open MBOX file?
+
+MBOX files can be opened using the following programs.
+
+ |Operating System|Program that opens MBOX file|
+ ---|---|
+ |Windows|Mozilla Thunderbird, Microsoft Outlook 365|
+ |Linux| Mozilla Thunderbird|
+ |MacOS|Mozilla Thunderbird, Apple Mail, Microsoft Outlook 365|
+
 
 ## References ##
 

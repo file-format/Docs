@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "PST - Outlook Personal Information Store File",
+  "title" : "PST - Outlook Personal Information Store File Format",
   "description":"Learn about PST file format and APIs that can create and open PST files.",
   "linktitle" : "PST",
   "menu" : {
@@ -16,19 +16,19 @@
   "lastmod" : "2019-09-10"
 }
 
-# What is a PST file? #
+## What is a PST file?
 
 Files with .pst extension represent Outlook Personal Storage Files (also called Personal Storage Table) that store variety of user information. User information is stored in folders of different types that include emails, calendar items, notes, contacts, and several other file formats. PST files are used for archiving emailing data offline that can be later loaded and viewed in various applications.
 
-### PST File Format Specifications ###
+## PST File Format Specifications
 
 PST File format [specifications](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) are available from Microsoft as free and irrevocable free patent licensing through the Open Specification Promise.
 
-#### Type of Formats ####
+### Type of PST Formats
 
 PST file formats are categorised in two types based on the encoding of file type. ANSI encoded PST files are older file formats and are supported by Outlook 2002 and earlier versions only. Such files have a maximum size limit of 2 GB (2^^31^^ Bytes) and do not support Unicode. A more modern file format type, based on Unicode encoding, removes the file size limitation and can reach maximum data size of 50GB.
 
-#### Logical Organization of PST File Format ####
+### Logical Organization of PST File Format
 
 At the base of PST file format lies B-Tree that keeps data sorted and allows searches, sequential access, insertions, deletions etc. in logarithmic time. The overall structure of a PST file is organized in three layers.
 
@@ -43,14 +43,14 @@ At the base of PST file format lies B-Tree that keeps data sorted and allows sea
 
 `Messaging Layer -` Higher level rules and business logic for working with PST files is implemented at this layer. The logical output of this layer results as Folder objects, Message objects, Attachment objects and Properties which is made possible by combining LTP and NDB layers. Rules and requirements, which need to be followed when modifying the PST contents, are also defined at this layer.
 
-#### Physical Organization of PST File Format ####
+### Physical Organization of PST File Format
 
 High level of file organization of PST file is as shown in the figure below. This is just an overview of different concepts from logical elements of PST file.
 
 ![Physical organization of the PST file format](https://i-msdn.sec.s-msft.com/dynimg/IC868902.png "Physical organization of the PST file format")
 
 
-### Header Information ###
+#### PST Header Information
 
 The HEADER structure of PST file is located at the very beginning of the file at 0 offset. It contains metadata information about the PST file and the ROOT information to access the NDB Layer data structures described above. The HEADER structure differs for the Unicode and ANSI versions of PST File Format.
 
@@ -92,7 +92,7 @@ The header starts with a 4-bytes magic word **!BDN** represented by bytes (0x21
 
 For security, PST files can also be password protected which requires the loading application to apply password before it can be viewed. Password applied to the PST file is stored in message store. However, this does not provide strong data protection as the password can be removed by available tools. Also, user specified password is not used as part of key for encoding and decoding cipher algorithms. Thus, there is no benefit of protecting data to be accessed by un-authorized parties. Storage of password as CRC-32 hash of the original string also makes it a weak method for data security against brute-force approach.
 
-### References ###
+## References ##
 
 * [Outlook Personal Folders (.pst) File Format](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
 * [Personal Folder File Format Specifications](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)

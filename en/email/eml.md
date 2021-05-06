@@ -16,17 +16,17 @@
   "lastmod" : "2019-09-16"
 }
 
-# What is an EML file? #
+## What is an EML file?
 
 EML file format represents email messages saved using Outlook and other relevant applications. Almost all emailing clients support this file format for its compliance with RFC-822 Internet Message Format Standard. Microsoft Outlook is the default software for opening EML message types. EML files can be used for saving to disc as well as sending out to recipients using communication protocols.
 
-## Brief History ##
+## Brief History of EML
 
 EML file format specifications are available as per [RFC 822](http://www.ietf.org/rfc/rfc0822.txt) Standard Format. Prior to RFC-822, RFC-733 governed the rules of network messages exchange until in 1982, the former was created as an improvement to lateral by establishing ARPA standards. At the same time, Microsoft created its own COM modules for the development of its own email client i.e. Outlook Express. RFC-822 took the path to be established as a proprietary format when Microsoft deviated from the open standard and created [PST](https://wiki.fileformat.com/xwiki/bin/view/Main/Emailing/PST%20File%20Format/) file format where emails are saved in a highly structured database format. This resulted in problems for users of non-Microsoft email clients when emails were forwarded from Microsoft Outlook.
 
 It was in 2001 when the 822 standard was enhanced to 2822 - Internet Message Format which is currently in use for creating, reading and sending EML messages in MIME RFC-822 format.
 
-## EML File Format Specifications ##
+## EML File Format Specifications
 
 EML files comprise of two distinguished sections:
 
@@ -84,6 +84,7 @@ Content-Disposition: attachment; filename#"english_spodr.xlsx"
 Content-Transfer-Encoding: base64
 X-Attachment-Id: f_jkhztmd43
 
+
 ## See Also ##
 
 You may also be interested in:
@@ -92,6 +93,6 @@ You may also be interested in:
 * [EMLx](/email/emlx/)
 * [OFT](/email/oft/)
 
-#### References ####
+## References
 
 * [RFC 822](http://www.ietf.org/rfc/rfc0822.txt)
