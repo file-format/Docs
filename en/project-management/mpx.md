@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "MPX", "File", "Extension", "File Format", "Project", "Management", "Microsoft Project Exchange"],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -13,22 +14,22 @@
       "parent" : "project-management"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod" : "2021-05-07"
 }
 
-## What is a MPX file?
+## What is an MPX file? ##
 
-MPX, Microsoft Exchange File Format, is an ASCII file format for transferring of project information between Microsoft Project (MSP) and other applications that support the MPX file format such as Primavera Project Planner, Sciforma and Timerline Precision Estimating. The MPX file format allows you to transfer project information that cannot appear in a table, such as detailed resource assignment information, calendar information, or information in the Project Info dialog box.
+A file with extension .mpx is a Microsoft Exchange File Format. An MPX file format was developed by Microsoft Project (MSP) to facilitate project information exchange between MSP and other applications supporting the MPX file format, including Primavera Project Planner, Sciforma, and Timerline Precision Estimating. Using the MPX files, you can transfer all kinds of information from a project to a different system, such as detailed resource assignment information, calendar information, or info from the Project Info dialog box.
 
-The initial version of Microsoft Project 4.0 started the support for creating and reading MPX file formats that continued till Microsoft Project 98. However, support for creating MPX files was discontinued with the release of Microsoft Project 2000 and the versions till Microsoft Project 2010 support only MPX reading. Versions later than MSP 2010 do not support reading of MPX file format.
+Microsoft Project 4.0 introduced support for creating and reading MPX file formats that continued to be used through Microsoft Project 98. However, support for creating MPX files has discontinued the release of Microsoft Project 2000, and the versions till Microsoft Project 2010 support only MPX reading. MPX file format is not supported in versions later than MSP 2010.
 
-## MPX File Format
+## MPX File Format ##
 
-The information in this section gives a brief introduction to the MPX file format specifications. Complete specifications can be found in this [Knowledge Base](https://support.microsoft.com/en-us/help/270139/prj-description-of-the-mpx-project-file-exchange-format) article and can be referred for details.
+An overview of the MPX file specifications is given in this section. Complete specifications can be found in this [Knowledge Base](https://support.microsoft.com/en-us/help/270139/prj-description-of-the-mpx-project-file-exchange-format) article and can be referred for details.
 
-### Records
+### Records ###
 
-A Record of MPX file consists of information for the project. There are different types of records where each record has its own order. Each record type is identified by its record number. For an MPX file, it is necessary to contain File Creation record type. Other type of records are not mandatory. The following table shows all the record types, record number used to identify each record type and the number of records of each type that can be included in the MPX file. Any records included in the MPX file must be in the order shown in the table, except that Comment records can be inserted anywhere in the file.
+A Record of the MPX file consists of information for the project. There are different types of records where each record has its own order. Each record type is identified by its record number. For an MPX file, it is necessary to contain the File Creation record type. Other types of records are not mandatory. The following table shows all the record types, their record numbers, and the number of records each type may contain in the MPX file. Record inclusion in the MPX file must follow the table order, with comments inserted anywhere.
 
 |Record Name|Record Number|Maximum number of Records
 ---|---|---|
@@ -62,7 +63,7 @@ A Record of MPX file consists of information for the project. There are differen
 
 An MPX file consists of records mentioned above that are arranged in pre-set manner inside the file. Details about these record types are discussed as follow:
 
-**File Creation Record (FCR):** This is a mandatory record whose purpose is to identity the:
+**File Creation Record (FCR):** This is a mandatory record whose purpose is to identify the:
 
 * File format (MPX)
 * List separator character used in the file
@@ -70,7 +71,7 @@ An MPX file consists of records mentioned above that are arranged in pre-set man
 * Version number of the MPX file format used in the file
 * Code page used to create the file
 
-This must be the first record in the file. When exporting from Microsoft Project, the list separator character is specified in the Regional Settings item in the Windows Control Panel. A FCR Record includes the following fields:
+This must be the first record in the file. When exporting from Microsoft Project, the list separator character is specified in the Regional Settings item in the Windows Control Panel. An FCR Record includes the following fields:
 
 * MPX followed immediately by the list separator character
 * Program Name/Identifier
@@ -91,7 +92,7 @@ The fields included in this record are:
 **Example:** 10,$,1,2,",",.
 This example specifies that currency values include a dollar sign ($) before them, that two digits are included after the decimal point, that a comma is used to separate thousands, and that a period is used as the decimal point. Because the list separator character is included in the Thousands Separator field, the field is surrounded by quotation marks.
 
-**Default Settings:** This record, having record number 11, specifies settings for the default options in the Options dialog box. If a duration is not specified, the Default Duration Unit needs to be set for correct duration units calculations. If this record is not included, the current settings in the Options dialog box are used. 
+**Default Settings:** This record, having record number 11, specifies settings for the default options in the Options dialog box. If a duration is not specified, the Default Duration Unit needs to be set for correct duration unit calculations. If this record is not included, the current settings in the Options dialog box are used. 
 The fields included in this record are:
 
 * Default Duration Units (0 # minutes, 1 # hours, 2 # days, 3 # weeks)
@@ -104,7 +105,7 @@ The fields included in this record are:
 * Updating Task Status Updates Resource Status (0 # no, 1 # yes)
 * Split In-Progress Tasks (0 # no, 1 # yes)
 
-**Date and Time Settings:** This record, having record number 12, specifies settings for the date and time options in the Options dialog box, and the Bar Text Date Format option in the Layout dialog box. If this record is not included, the current settings in the Options dialog box are used.
+**Date and Time Settings:** This record, having record number 12, specify settings for the date and time options in the Options dialog box, and the Bar Text Date Format option in the Layout dialog box. If this record is not included, the current settings in the Options dialog box are used.
 \\The fields included in this record are:
 
 * Date Order (0 # month/day/year, 1 # day/month/year, 2 # year/month/day)
@@ -117,7 +118,7 @@ The fields included in this record are:
 * Date Format (0 -14)*
 * Bar Text Date Format (0 -194)*
 
-**Base Calendar Definition:**  These records, having record number 20, define base calendars and their working and nonworking days of the week. The default settings are used if there is no entry for a day. The default settings are Monday through Friday for working days, and Saturday and Sunday for nonworking days. In this record, the Name field is required. For each of the days, an entry of 0 indicates that the day is a nonworking day, and an entry of 1 indicates that the day is a working day.
+**Base Calendar Definition:**  These records, having record number 20, define base calendars and their working and non-working days of the week. The default settings are used if there is no entry for a day. The default settings are Monday through Friday for working days and Saturday and Sunday for non-working days. In this record, the Name field is required. For each of the days, an entry of 0 indicates that the day is a non-working day, and an entry of 1 indicates that the day is a working day.
 The fields included in this record are:
 
 * Name
@@ -129,7 +130,7 @@ The fields included in this record are:
 * Friday
 * Saturday
 
-**Base Calendar Hours:** These records, having record number 25, specify the working hours for the days of the week, if they differ from the default settings. The default working hours are 8:00 A.M. to 12:00 P.M. and 1:00 P.M. to 5:00 P.M. Each Base Calendar Hours record refers to the preceding Base Calendar Definition record. Up to seven of these records can follow each Base Calendar Definition record.
+**Base Calendar Hours:** These records, having record number 25, specify the working hours for the days of the week if they differ from the default settings. The default working hours are 8:00 A.M. to 12:00 P.M. and 1:00 P.M. to 5:00 P.M. Each Base Calendar Hours record refers to the preceding Base Calendar Definition record. Up to seven of these records can follow each Base Calendar Definition record.
 
 * Day of the Week (1 - 7, where 1 # Sunday and 7 # Saturday)
 * From Time 1
@@ -187,21 +188,21 @@ The fields and tabs included in this record are:
 
 **Text Resource Table Definition**: This record lists the resource fields, in order, that are being imported or exported. For imported files, the names must match the field names used in Microsoft Project. For exported files, this record comes from the resource Export table. Either this record or the Numeric Resource Table Definition record must be used. When exporting from Microsoft Project, both of these records are included.
 
-**Numeric Resource Table Definition:** Using numbers rather than names, this record lists the resource fields, in order, that are being imported or exported. This is an alternate method for identifying the resource fields included in each Resource record, and is useful when defining an MPX file created by a foreign language product.
+**Numeric Resource Table Definition:** Using numbers rather than names, this record lists the resource fields, in order, that are being imported or exported. This is an alternate method for identifying the resource fields included in each Resource record and is useful when defining an MPX file created by a foreign language product.
 
 **Resource:** These records contain the information for each resource being imported or exported. Each Resource record describes one resource. When you import information, the fields that are included are defined by the Text Resource Table Definition record or the Numeric Resource Table Definition record. When you export information, the fields that are included are those listed in the resource Export table.
 
 **Resource Notes:** These records contain notes about the immediately preceding Resource record. For a new line within the note, ASCII character 127 is used. If the note includes the list separator character, enclose the note in quotation marks.
 
-**Resource Calendar Definition:** These records define the working days for the resource specified in the immediately preceding Resource record. For imported files, if there is no entry for the Base Calendar Name field, Standard is used. No entry for the specific day indicates that the day is set to the default (2). If there are no Resource Calendar Definition records, Standard is used as the base calendar for the resource, with default used for the days. For each of the days, an entry of 0 indicates that the day is a nonworking day, 1 indicates that the day is a working day, and 2 specifies that the default is used.
+**Resource Calendar Definition:** These records define the working days for the resource specified in the immediately preceding Resource record. For imported files, if there is no entry for the Base Calendar Name field, Standard is used. No entry for the specific day indicates that the day is set to the default (2). If there are no Resource Calendar Definition records, Standard is used as the base calendar for the resource, with default used for the days. For each of the days, an entry of 0 indicates that the day is a non-working day, 1 indicates that the day is a working day, and 2 specifies that the default is used.
 
-**Resource Calendar Hours:** These records define the working hours for the resource that differ from the base calendar used by the resource. These records apply to the Resource Calendar Definition record immediately preceding this record. Up to seven of these records can follow each Resource Calendar Definition record.
+**Resource Calendar Hours:** These records define the working hours for the resource that differs from the base calendar used by the resource. These records apply to the Resource Calendar Definition record immediately preceding this record. Up to seven of these records can follow each Resource Calendar Definition record.
 
 **Resource Calendar Exception:**  These records define the exceptions to the days and hours specified in the previous two record types. Up to 250 of these records can follow each Resource Calendar Definition record. These records must be listed in chronological order. If the exception is only one day, you can leave the To Date field empty. If no times are indicated, the default times of 8:00 A.M. to 12:00 P.M. and 1:00 P.M. to 5:00 P.M. are used.
 
 **Text Task Table Definition:** This record lists the task fields, in order, that are being imported or exported. For imported files, the names must match the field names used in Microsoft Project. If the file is being exported, this record comes from the task Export table. When exporting from Microsoft Project, both of these records are included. Fields that are calculated by Microsoft Project, such as Scheduled Start and Scheduled Finish, are ignored if imported. If you have task start or finish dates that are fixed, use the Constraint Type and Constraint Date fields.
 
-**Numeric Task Table Definition :** Using numbers rather than names, this record lists the task fields, in order, that are being imported or exported. This is an alternate method for identifying the task fields included in each Task record, and is useful when defining an MPX file created by a foreign language product.
+**Numeric Task Table Definition:** Using numbers rather than names, this record lists the task fields, in order, that are being imported or exported. This is an alternate method for identifying the task fields included in each Task record and is useful when defining an MPX file created by a foreign language product.
 
 **Task:** These records contain the information for each task being imported or exported. Each Task record describes one task. When you import information, the fields that are included are defined by the Text Task Table Definition record or the Numeric Task Table Definition record. When you export information, the fields that are included are those listed in the task Export table.
 
@@ -209,13 +210,40 @@ The fields and tabs included in this record are:
 
 **Resource Assignment**: These records list information about the resources assigned to the task that was defined in the preceding Task record. If you are merging files, and you want resource assignment information retained, you need to include the information in the MPX file. If you merge, all existing assignments on merged tasks will be deleted. If you are merging files based on Unique IDs, resources are assigned using the Resource Unique IDs, rather than IDs.
 
-**Resource Assignment Workgroup Fields:** These records list the information that is stored with each assignment for the Workgroup features of Microsoft Project 4.0 and 4.1. If you are using the Workgroup features you need to include this record to insure that none of the information is lost.
+**Resource Assignment Workgroup Fields:** These records list the information that is stored with each assignment for the Workgroup features of Microsoft Project 4.0 and 4.1. If you are using the Workgroup features you need to include this record to ensure that none of the information is lost.
 
 **Project Names:** These records list all of the DDE link names that are stored in the project.
 
 **DDE and OLE Client Links:** These records list all of the DDE links into the project.
 
 **Comments:** These records can be used to add comments to the file and can appear in any position in the file. Each Comments record must begin with a "0."
+
+## How to Open an MPX file ##
+
+An MPX file can be opened using the accurate program on the computer by double-clicking it. In case if just double-click not works, you need to see the following points as a guideline:
+
+ *   Download the supporting software
+ *   Make sure it’s an updated one. A file won't work correctly with outdated software
+ *   Associate a file with correct application/program
+ *   Drive has enough space to open the file
+ *   Stop all the irrelevant applications in the system for the files proper functioning
+
+Here is the list of some common issues which may arise and cause misfunctioning of the MPX format:
+
+ *   Absence of supporting software
+ *   Corrupt file
+ *   Infected file due to virus
+ *   No access right in the system to open the files
+ *   Outdated drive in your system
+ *   Extension of the file is renamed
+
+## Softwares to Open an MPX file ##
+
+ *   Microsoft Project 2010
+ *   Seavus Project Viewer
+ *   ProjectWizards Merlin
+ *   KaDonk LiveProject Viewer
+ *   MPXJ
 
 ## References ##
 
