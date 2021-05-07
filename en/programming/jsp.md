@@ -14,11 +14,11 @@
       "parent" : "programming"
     }
   },
-  "lastmod" : "2021-04-21"
+  "lastmod" : "2021-05-07"
 }
 
 ## What is a JSP file?
-The JSP files are realized as the dynamic, data-driven pages for your Java web applications. The JSP means Java server Pages; can be thought of as an extension to Servlet because it enables more functionality than servlet such as expression language. The JSP and Servlet particularly work together in older Java web applications. From a programming perspective, the most clear difference between them is that with servlets you write Java program and then embed static markup (like HTML) into that code, whereas, JSP starts with the client-side script or markup, then embed JSP tags to connect your page to the Java backend.
+The JSP files are realized as the dynamic, data-driven pages for your Java web applications. The JSP means Java Server Pages; can be realized as an extension to Servlet because it enables more functionality than servlet such as expression language. The JSP and Servlet do the same job together in older Java web applications. From a programming perspective, the most clear difference between them is that with servlets you write Java program and then embed static markup (like HTML) into that code, whereas, JSP starts with the client-side script or markup, then embed JSP tags to connect your page to the Java backend.
 
 ## JSP File Format
 A file saved with **jsp file extension** contains the following sections in the order they are listed:

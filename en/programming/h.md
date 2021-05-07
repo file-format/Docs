@@ -14,7 +14,7 @@
       "parent" : "programming"
     }
   },
-  "lastmod" : "2020-09-10"
+  "lastmod" : "2021-05-07"
 }
 
 ## What is an H file?
@@ -116,7 +116,8 @@ namespace N  // namespace declaration
 }
 ```
 ## How to open H file?
-To open the H file in the Windows operating system you can use the general Notepad editor that is part of the Windows operating system. The Linux operating systems typically come with various text editors you can use one of them. The .h files are just “plain text” files.
+To open the H file in the Windows operating system you can use the general Notepad editor that is the part of Windows operating system. The Linux operating systems typically come with various text editors you can use one of them. The .h files are just plain text files.
+
 ### Softwares that can open the H files ###
 The H files can be opened in the following softwares:
 
