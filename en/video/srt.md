@@ -16,7 +16,7 @@ lastmod: 2020-10-12
 
 ## What is an SRT file? ##
 
-SRT(SubRip file format) is a simple subtitle file saved in the SubRip file format with the .srt extension. It contains a sequential number of subtitles, start and end timestamps, and subtitle text. SRT files make it possible to add subtitles to video content after it is produced.
+SRT (SubRip file format) is a simple subtitle file saved in the SubRip file format with the .srt extension. It contains a sequential number of subtitles, start and end timestamps, and subtitle text. SRT files make it possible to add subtitles to video content after it is produced.
 
 ## SRT file Structure ##
 
@@ -55,7 +55,7 @@ The formatting of SRT files is derived from HTML tags. The formatting tags for t
 |Font Color|**\<font color="white">...\</font>**|
 |Line Position|**{\a3}** (indicates that the text should start appearing on line 3)
 
-## How to open SRT files ##
+## How to open SRT files?
 
 SRT files are plain text files and can be opened with any text editor to view its contents like Notepad. But the main purpose for someone to open SRT files is so that the subtitles would play along with the video. SRT files are supported by most of the video players. Some of the video players that support SRT files are listed below.
 
