@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "php", ".php","what is a php file","how to open php file", "extension", "file", "php file","php file format",  "php file extension","php example"],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -13,10 +14,10 @@
       "parent" : "programming"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod" : "2021-05-07"
 }
-
-A file with .php extension refers to open source programming language that is used to write server side scripts to be executed on the server. It is the most popular and powerful web-scripting language that is widely used for development of large-scale web applications. PHP is at the core of the biggest blogging system on the web i.e. WordPress and runs the largest social network Facebook. It runs on various platforms such as Windows, Linux, Unix, Mac OS X, etc. and is compatible with almost all servers used today i.e. Apache, IIS, etc. PHP supports wide range of databases including MySQL.
+## What is a PHP file?
+A file with .php extension refers to open source programming language, used to write server side scripts, to be executed on a web server. It is the most widely used web-scripting language that is typically used for development of large-scale web applications. The biggest blogging system on the web i.e. WordPress and the largest social network Facebook are based on PHP language. It is compatible with various platforms such as Windows, Linux, Unix, Mac OS X, etc. Also it successfully runs on almost all servers used today i.e. Apache, IIS, etc. PHP supports wide range of databases including MySQL.
 
 ## PHP File Format ##
 
@@ -26,7 +27,7 @@ A single PHP can contain text, CSS, [HTML](/web/html/), JavaScript, and PHP code
 
 A PHP script is executed on the server, and the plain HTML result is sent back to the browser. A PHP script starts with <?php and ends with ?>
 
-### Example ###
+### PHP Example ###
 
 ```
 <!DOCTYPE html>
@@ -42,6 +43,26 @@ echo "Hello World!";
 </body>
 </html>
 ```
+## How to open PHP file?
+Since a PHP file is simply a plain text file, so it can be opened in any text editor like Notepad, Wordpad or Sublime Text. 
+### Softwares that can open the PY files ###
+The PY files can be opened in the following softwares:
+
+|Software| Operating System|
+---|---|
+|File Viewer Plus|Microsoft Windows|
+|Microsoft Visual Studio 2019|Microsoft Windows|
+|Notepad|Microsoft Windows|
+|Notepad++|Microsoft Windows|
+|Blumentals WeBuilder|Microsoft Windows|
+|MPSoftware phpDesigner|Microsoft Windows|
+|Bare Bones BBEdit|MacOS|
+|Adobe Dreamweaver |Microsoft Windows, MacOS, Linux|
+|Sublime Text|Microsoft Windows, MacOS, Linux|
+|Zend Studio|Microsoft Windows, MacOS, Linux|
+|MacroMates TextMate|MacOS|
+|GNU Emacs|Linux|
+
 
 ## References
  * [Introduction to PHP - W3](https://www.w3schools.com/php/default.asp)
