@@ -1,6 +1,6 @@
 {
   "date" : "2021-04-21",
-  "keywords": [ "what is a jsp", "tutorials on jsp","jsp means","jsp", "jsp files", "extension", "format", "jsp tutorial", ".jsp", "jsp example" ],
+  "keywords": [ "what is a jsp file", "tutorials on jsp","jsp means","jsp", "jsp files", "extension", "format", "jsp tutorial", ".jsp", "jsp example","jsp file extension" ,"how to open a jsp file"],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
@@ -18,10 +18,10 @@
 }
 
 ## What is a JSP file?
-The JSP files are realized as the dynamic, data-driven pages for your Java web applications. The JSP means Java server Pages; can be thought of as an extension to Servlet because it enables more functionality than servlet such as expression language. The JSP and Servlet particularly work together in older Java web applications. From a programming perspective, the most clear difference between them is that with servlets you write Java program and then embed static markup (like HTML) into that code, whereas, JSP starts with the client-side script or markup, then embed JSP tags to connect your page to the Java backend. Learning about the JSP technologies are very easy now a days because a lot of JSP tutorials are available over the internet
+The JSP files are realized as the dynamic, data-driven pages for your Java web applications. The JSP means Java server Pages; can be thought of as an extension to Servlet because it enables more functionality than servlet such as expression language. The JSP and Servlet particularly work together in older Java web applications. From a programming perspective, the most clear difference between them is that with servlets you write Java program and then embed static markup (like HTML) into that code, whereas, JSP starts with the client-side script or markup, then embed JSP tags to connect your page to the Java backend.
 
-## JSP File Organization
-A JSP file contains the following sections in the order they are listed:
+## JSP File Format
+A file saved with **jsp file extension** contains the following sections in the order they are listed:
 
 1. Opening comments
 2. JSP page directive(s)
@@ -112,7 +112,7 @@ The phase wise JSP page flow is given here:
 
 ## JSP Example
 
-The following JSP example is for processing the order, by updating the appropriate records in the database.
+Learning about the JSP technologies is very easy now a days because a lot of JSP tutorials are available over the internet. The following JSP example is for processing the order, by updating the appropriate records in the database.
 ```
 <html>
 <head>
@@ -173,8 +173,23 @@ The following JSP example is for processing the order, by updating the appropria
 </body>
 </html>
 ```
+## How to open a JSP file
+The JSP files can be opened simply in any text editor such as Notepad, Textpad or Notepad++. But if you want other features such as, intellisence, formatters, syntax checker, etc. You may need to use typical IDEs like Eclipse.
 
+### Softwares that can open the JSP files ###
+The JSP files can be opened in the following softwares:
 
+|Software| Operating System|
+---|---|
+|Microsoft Internet Explorer|Microsoft Windows|
+|Mozilla Firefox|Microsoft Windows, MacOS, Linux|
+|Google Chrome|Microsoft Windows, MacOS, Linux|
+|Eclipse IDE for Java Developers|Microsoft Windows, MacOS, Linux|
+|ES-Computing EditPlus|Microsoft Windows, Linux|
+|Adobe Dreamweaver 2020|Microsoft Windows, MacOS|
+|Richardson EditRocket| Microsoft Windows, MacOS, Linux|
+
+ 
 
 ## References
 
