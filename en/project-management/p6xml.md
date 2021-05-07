@@ -14,7 +14,7 @@
       "parent" : "project-management"
     }
   },
-  "lastmod" : "2021-04-16"
+  "lastmod" : "2021-05-07"
 }
 
 ## What is a P6XML file? ##
@@ -49,6 +49,32 @@ Here are some steps describing the export process:
   *	 It's convenient to export numerous projects to one XML file
   *	 Global data that is allocated to the project is exported
   *	 It's convenient to export XML files without having admittance to all resources
+  
+## How to Open a P6XML file? ##
+
+A P6XML file can be opened using the accurate program on the computer by double-clicking it. In case if just double-click not works, you need to see the following points as a guideline:
+
+ *   Download the supporting software
+ *   Make sure it’s an updated one. A file won't work correctly with outdated software
+ *   Import the P6XML file in the software
+ *   Drive has enough space to open the file
+ *   Stop all the irrelevant applications in the system for the files proper functioning
+
+Some common issues which may arise and cause misfunctioning of the P6XML format, are as follow:
+
+ *   Absence of supporting software
+ *   Corrupt file
+ *   Infected File due to virus
+ *   P6XML description accidentally deleted from the Windows registry
+ *   No access right in the system to open the files
+ *   Outdated drive in your system
+ *   Extension of the file is renamed
+
+## Softwares to Open a P6XML file ##
+
+ *   Oracle Primavera
+ *   ScheduleReader
+ *   MPXJ
  
 ## References ##
 
