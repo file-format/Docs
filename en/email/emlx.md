@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "EMLX",
+  "title" : "EMLX - Apple Mail File Format",
   "description":"Learn about EMLX file format and APIs that can create and open EMLX files.",
   "linktitle" : "EMLX",
   "menu" : {
@@ -16,7 +16,7 @@
   "lastmod" : "2019-09-10"
 }
 
-# What is an EMLX file? #
+## What is an EMLX file?
 
 The EMLX file format is implemented and developed by Apple. The Apple Mail application uses the EMLX file format for exporting the emails. There are other applications as well that can open the EMLX files and convert these to other file formats.
 
@@ -33,6 +33,8 @@ EMLx files are simple text based files that can be opened in any text editor lik
 * Message Metadata in the form of XML plist
 
 These can be better explained with the help of following sample email extracted from Apple Mail as EMLX and opening in a text editor.
+
+### EMLX Example
 
 ```
 875       
@@ -99,6 +101,13 @@ In this example, the 875 shows the total length of message. The message metadata
 |29|junk mail level recorded|1 << 29
 |30|highlight text in toc|1 << 30
 |31|(unused)|
+
+## How to open EMLX file?
+
+EMLX files can be opened using following programs.
+
+ * Apple Mail
+ * Text Editor such as Apple TextEdit and Notepad++
 
 ## See Also ##
 

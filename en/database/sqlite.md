@@ -19,7 +19,7 @@
 
 ## What is a SQLite File?
 
-A file with .sqlite extension is a lightweight SQL database file created with the SQLite software. It is a database in a file itself and is used for storing data and implements a self-contained, full-featured, highly-reliable SQL database engine. SQLite database files can be used to share rich contents between systems by simple exchanging these files over the network. Almost all mobiles and computers use SQLite for storing and sharing of data, and is the choice of file format for cross-platform applications. Due to its compact use and easy usability, it comes bundled inside other applications. SQLite bindings exist for programming languages such as C, [C#](/programming/cs), [C++](/programming/cpp), Java, PHP, and many others.
+A file with .sqlite extension is a lightweight SQL database file created with the [SQLite](https://www.sqlite.org/index.html) software. It is a database in a file itself and implements a self-contained, full-featured, highly-reliable [SQL](/database/sql/) database engine. SQLite database files can be used to share rich contents between systems by simple exchanging these files over the network. Almost all mobiles and computers use SQLite for storing and sharing of data, and is the choice of file format for cross-platform applications. Due to its compact use and easy usability, it comes bundled inside other applications. SQLite bindings exist for programming languages such as C, [C#](/programming/cs), [C++](/programming/cpp), [Java](/programming/java/), [PHP](/programming/php/), and many others.
 
 ## SQLite File Format
 
@@ -82,6 +82,10 @@ The SQLite database header is located in the first 100 bytes of the database fil
 |72|20|Reserved for expansion. Must be zero.|
 |92|4|The version-valid-for number.|
 |96|4|SQLITE_VERSION_NUMBER|
+
+## How to open SQLite file?
+
+SQLite files can be opened with [SQLite](https://www.sqlite.org/index.html) on Microsoft Windows, Linux and MacOS.
 
 ## References ##
 

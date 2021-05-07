@@ -22,16 +22,22 @@
 A file with .ddl extension is a Data Definition Language file that is used to define the schema of a database. It contains statements/commands for working with database structures such as tables, columns, records, and other fields. Commands in a DDL file are written in [SQL](/database/sql/) and can perform operations such as create table in database, drop and update. A database schema is owned by its created and all the CRUD operations can be performed on it. Popular applications that can create and open DDL files are Windows Text Editor, Jetbrains Intellij Idea, and EclipseLink.
 
 ## DDL commands
+
 A single DDL file can contain several commands that, owing to correct syntax, will execute in sequence and make changes to the schema such as creating character sets and tables, dropping tables, renaming and altering tables. Following DDL commands are commonly used while working with database schema.
 
 `CREATE` - Used to create the database or its objects (like table, index, function, views, store procedure and triggers).
+
 `DROP` –  Used to delete objects from the database.
+
 `ALTER` - Used to alter the structure of the database.
+
 `TRUNCATE` – Used to remove all records from a table, including all spaces allocated for the records are removed.
+
 `COMMENT` – Adds comments to the data dictionary.
+
 `RENAME` – Renames an existing object in the database.
 
-## Example
+## DDL Example
 
 The following example shows DDL statement for CREATE command which creates a table and defines its fields.
 
@@ -44,6 +50,13 @@ CREATE TABLE employees (
     dateofbirth   DATE          not null
 );
 ```
+## How to open DDL file?
+
+|Operating System|Application Program|
+---|---|
+|Windows| Jetbrains Intellij Idea, EclipseLink, Notepad++|
+|Linux| Jetbrains Intellij Idea, EclipseLink, Text Editor|
+|MacOS| Jetbrains Intellij Idea, EclipseLink, Apple TextEdit|
 
 ## References ##
 

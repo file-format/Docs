@@ -16,15 +16,15 @@
   "lastmod" : "2019-09-10"
 }
 
-# What is an ICS file? #
+## What is an ICS file?
 
 The Internet Calendaring and Scheduling Core Object Specification (iCalendar) is an internet standard(RFC 2445) for exchanging and deploying the calendaring events and scheduling.  The iCalendar format is interoperable, thereby ensuring the exchange of calendar information among the users having different email applications. iCalendar formats the input data as a Multipurpose Internet Mail Extensions (MIME) and facilitates the object exchanged via different transport protocols. These transport protocols can be SMTP, HTTP, point-to-point asynchronous communication, and physical media based-network transport. iCalendar allows users to share events, date/time dependent tasks, and free/busy information via emails to other users who can respond back. iCalendar files store using suffixes  ".ics" ".iCalendar" or ".ifb" with a MIME type of "text/calendar".
 
 iCalendar is kept to be self-reliant without any transport protocol dependency. Web servers (with HTTP protocol) can transport iCalendar information and web pages can contain iCalendar data in embedded form using iCalendar.
 
-## History ##
+## Brief History of ICS File Format
 
-In 1998 the Internet Engineering Task Force (IETF) defined iCalendar as a standard (RFC 2445). The standard was documented by Frank Dawson(Lotus Notes Corporation) and Derik Stenerson ( Microsoft). In 2009, the standard was again refined by Bernard Desruisseaux (Oracle) as RFC 5545. This time some new features were added and some out dated features were deprecated. In 2016, RFC 7986 was released and augmented to original iCalendar RFC. RFC 7986 added new characteristics to the main VCALENDAR object and new supportive features were also introduced for conferencing systems.
+In 1998, the Internet Engineering Task Force (IETF) defined iCalendar as a standard (RFC 2445). The standard was documented by Frank Dawson(Lotus Notes Corporation) and Derik Stenerson ( Microsoft). In 2009, the standard was again refined by Bernard Desruisseaux (Oracle) as RFC 5545. This time some new features were added and some out dated features were deprecated. In 2016, RFC 7986 was released and augmented to original iCalendar RFC. RFC 7986 added new characteristics to the main VCALENDAR object and new supportive features were also introduced for conferencing systems.
 
 ## ICS File Format ##
 
@@ -40,10 +40,11 @@ Properties and parameters specify list of values that are separated by a COMMA c
 
 In a value list, a SEMICOLON isolate property parameters and a COMMA separate property values. Example is given below:
 
+```
 ATTENDEE;RSVP#TRUE;ROLE#REQ- contestant:mailto:
 name@example.com
 DATE;VALUE#DATE:20170304,20180504,2015704,201270904
-
+```
 
 ### Multiple Values ###
 
@@ -59,7 +60,15 @@ ATTACH: http://pattern.com/reports/monthly-ledger.doc
 
 Though default charset scheme for an iCalendar is UTF-8 yet no property parameter is specified to define the charset of a property value. in MIME transfers "charset" parameter MUST be used for existing charset.
 
-## References ##
+## How to open ICS file?
+
+ICS files can be opened using following programs.
+
+ * Microsoft Outlook 365
+ * Mozilla Thunderbird Lightning Calendar
+ * Text editor such as Apple TextEdit or Notepad++
+
+## References
 
 * [Internet Calendaring and Scheduling Core Object Specification](https://www.ietf.org/rfc/rfc5545.txt)
 * [iCalendar (RFC 5545)](https://icalendar.org/RFC-Specifications/iCalendar-RFC-5545/)

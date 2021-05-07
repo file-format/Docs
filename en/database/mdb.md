@@ -19,7 +19,7 @@
 
 ## What is a MDB file?
 
-A file with .mdb extension is a Microsoft Access database file which is a Relational Database Management System (RDBMS). It stores data in database tables that are linked to each other via primary and foreign keys. The MDB file contains complete structure of the database tables, queries, stored procedures. MDB is the default file format for Microsoft Access 2003. The lateral versions of Microsoft Access use the ACCDB file formats which is the latest file format to date. MDB files can be opened with applications like Microsoft Access, MDB Viewer, MDBOpener, and can be converted to ACCDB, [CSV](/spreadsheet/csv/), Excel formats, etc.
+A file with .mdb extension is a Microsoft Access database file which is a Relational Database Management System (RDBMS). It stores data in database tables that are linked to each other via primary and foreign keys. The MDB file contains complete structure of the database tables, queries, stored procedures. MDB is the default file format for Microsoft Access 2003. The lateral versions of Microsoft Access use the [ACCDB](/database/accdb/) file formats which is the latest file format to date. MDB files can be opened with applications like Microsoft Access, MDB Viewer, MDBOpener, and can be converted to ACCDB, [CSV](/spreadsheet/csv/), Excel formats, etc.
 
 ## MDB File Format
 
@@ -36,6 +36,13 @@ As per the unofficial MDB guide, an MDB file consists of fixed-size pages (2048 
 `Data pages:` The data pages are the actual data containers where data is stored by rows. It uses subsidiary pages to store long data values.
 
 A single Microsoft Access database may comprise of multiple files that allow to exceed file and table size limitations. This facilitates to put forms and code in a front-end MDB file on user's desktop and data in another backend MDB files on servers connected to network.
+
+## How to open MDB file?
+
+MDB files can be opened using the following programs.
+
+ * Microsoft Access 365
+ * Microsoft Visual Studio 2019
 
 ## References ##
 

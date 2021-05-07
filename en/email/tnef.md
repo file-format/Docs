@@ -16,6 +16,8 @@
   "lastmod" : "2019-09-10"
 }
 
+## What is a TNEF file?
+
 Transport Neutral Encapsulation Format (TNEF) is a Microsoft proprietary, for encapsulating email attachments based on Messaging Application Programming Interface (**MAPI**). Microsoft Outlook and Microsoft Exchange Server, entirely support TNEF while later decodes TNEF into MAPI and displays the formatted mails. An email attachment with TNEF encoding has a MIME type of MS-TNEF and stores as winmail/win.dat. The attachment in winmail .dat encapsulates the following information:
 
 
@@ -26,7 +28,7 @@ Transport Neutral Encapsulation Format (TNEF) is a Microsoft proprietary, for en
 
 Other email services who are not TNEF supportive, present plain text for TNEF formatted messages. Outlook embed a rich format of the message in TNEF files (OLE) or particular Outlook features (forms, polling buttons, and conference requests). Sanctioning explicit TNEF encoding within the Outlook e-mail client is not possible, however, Opting RTF format for dispatching an e-mail implicitly facilitates TNEF encoding.
 
-## TNEF File Format ##
+## TNEF File Format
 
 The TNEF data algorithm establishes a flattened structure from rich hierarchical message properties. These flattened structures then use to represent a serial data stream composed of particular properties.
 
@@ -36,7 +38,7 @@ In TNEF all numeric data types are little-endian and their size are greater than
 
 {{< figure src="../TNEF.png" alt="TNEF File Format" >}}
 
-## Attributes and Processing rules ##
+## TNEF Attributes and Processing rules ##
 
 The data stream in TNEF begins with a legacy version number, a signature, a primitive key value, and an attribute represent code page. This code page is generated when encoder records ANSI attributes and properties. After that, the stream became a series of attributes in which message attributes lined first and then followed by attachment attributes. Different message and attachment characteristics are contained in special attributes like attMsgProps, attAttachment, and attRecipTable. The attributes that appear in the TNEF stream, contain the structure, message properties and conversions necessary to engage them with message properties. Each attribute consist of an ID, size and data of the attribute, a checksum and a level according to its application.
 
@@ -48,7 +50,7 @@ The systems that have poor mechanism to display rich message format natively nee
 
 In addition to simple message transmission, the original application of TNEF was to be created to use message classes and support additional features that have no original support in transport protocol. This application was further refined for the transmission of rich message properties and named properties that modern messaging clients use now a days. For compliance with original implementation, original attribute syntax is maintained and a special attribute holds the new message properties separately.
 
-## References ##
+## References
 
 * [Transport Neutral Encapsulation Format](https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
 * [Email addresses and address books in Exchange Server](https://docs.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view#exchserver-2019)
