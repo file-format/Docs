@@ -1,12 +1,13 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "h", ".h","what is a h file","how to open h file", "extension", "file", "h file","h file format",  "h file extension","H File Example"],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
   "draft" : "false",
   "toc" : true,
-  "title" : ".H - C/C++ Header File Format",
-  "description":"Learn about .H file format and APIs that can create and open .H files.",
+  "title" : "H - C/C++ Header File Format",
+  "description":"Learn about H file format and APIs that can create and open H file.",
   "linktitle" : "H",
   "menu" : {
     "docs" : {
@@ -16,9 +17,9 @@
   "lastmod" : "2020-09-10"
 }
 
-## What is a .H file?
+## What is an H file?
 
-A file with .h extension is a header file used in C/C++ files to include the declaration of variables, constants, and functions. These are referred by the [C++](/programming/cpp/) implementation files that contain the actual implementation of these functions. A .h header file can also include additional information such as Macro definitions. These header files are referenced in the C/C++ files using the `#include` directive. A new C++ project usually contains a special header file by the name stdafx.h file that is the starting point for all compilation chains and all the header files can be included in this single file. A .h file can be opened with any text editor, Eclipse IDE, Microsoft Visual Studio IDE, Borland C++ compiler and a lot other applications.
+A file saved with **h file extension** is a header file used in C/C++ files to include the declaration of variables, constants, and functions. These are referred by the [C++](/programming/cpp/) implementation files that contain the actual implementation of these functions. A .h header file can also include additional information such as Macro definitions. These header files are referenced in the C/C++ files using the `#include` directive. A new C++ project usually contains a special header file by the name stdafx.h file that is the starting point for all compilation chains and all the header files can be included in this single file. A .h file can be opened with any text editor, Eclipse IDE, Microsoft Visual Studio IDE, Borland C++ compiler and a lot other applications.
 
 ## .H File Format
 
@@ -44,7 +45,7 @@ Header files can raise to complex errors where multiple declarations are include
 ```
 With this header, the preprocessor checks whether the `ANY_UNIQUE_NAME_HERE` has already been defined. If the header is repeatedly included into the same file, the contents of the header will be ignored.
 
-## .H File Example
+## H File Example
 
 ```
 // sample.h
@@ -114,6 +115,23 @@ namespace N  // namespace declaration
     class value_widget;
 }
 ```
+## How to open H file?
+To open the H file in the Windows operating system you can use the general Notepad editor that is part of the Windows operating system. The Linux operating systems typically come with various text editors you can use one of them. The .h files are just “plain text” files.
+### Softwares that can open the H files ###
+The H files can be opened in the following softwares:
+
+|Software| Operating System|
+---|---|
+|File Viewer Plus|Microsoft Windows|
+|Microsoft Visual Studio 2019|Microsoft Windows|
+|Embarcadero C++Builder|Microsoft Windows|
+|Borland C++ Compiler|Microsoft Windows|
+|gVim|Microsoft Windows|
+|Code::Blocks|Microsoft Windows, MacOS, Linux|
+|Eclipse IDE for C Developers|Microsoft Windows, MacOS, Linux|
+|GNU Compiler Collection (GCC)|MacOS, Linux|
+|MacroMates TextMate|MacOS|
+|GNU Emacs|Linux|
 ## References
 
 * [Header Filers - Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
