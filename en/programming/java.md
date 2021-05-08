@@ -1,6 +1,6 @@
 ---
 date: 2019-10-11
-keywords: java, .java, java file format, how to open java files, how to run java files
+keywords: java, .java, java file format, how to open java files, how to run java files, java file, java sample code
 author:
   display_name: Muhammad Ahmad Chishti
 draft: false
@@ -11,12 +11,11 @@ description: Learn about Java file format and APIs that can create and open Java
 menu:
   docs:
     parent: "programming"
-lastmod: 2020-07-12
+lastmod: 2021-05-07
 ---
 
 ## What is a Java file? ##
-
-Java is a general-purpose object-oriented language that can run on multiple platforms. The Java source code is contained in a file with the .java extension. Java is used for the development of mobile applications, web applications, desktop applications, games, etc. Java works on multiple platforms including Windows, Mac, Linux, Raspberry Pi, etc. Java is very similar to C# and C++ so it is easier to switch between these languages.
+A file containing Java source code and saved with .java file extension is known as Java file. The Java is one of the most widely used technology for the development of games, mobile, web and desktop applications. Since the Java is platform independent, it works flawlessly on Windows, Mac, Linux, Raspberry Pi, etc. The Java is very similar to C# and C++ so it is easier to switch between these languages.
 
 ## Brief History ##
 
@@ -30,12 +29,23 @@ On November 19, 2006, Java Virtual Machine (JVM) was released by Sun as free and
 
 ## How to open Java files ##
 
-You can use any text editor to view the text in Java files. Some of the options are given below.
+You can use any text editor to view or edit the content written in Java files. In Microsoft Windows you can use Notepad or Wordpad and similarly you can choose any basic text editor in the case of MacOS and Linux.
 
-- Notepad (this will not execute the script)
-- VS Code
-- Visual Studio
-- IntelliJ Idea
+### Softwares that can open the JAVA files ###
+The JAVA files can be opened in the following softwares:
+
+|Software| Operating System|
+---|---|
+|File Viewer Plus|Microsoft Windows|
+|Xinox JCreator|Microsoft Windows|
+|Notepad|Microsoft Windows|
+|ES-Computing EditPlus|Microsoft Windows|
+|gVim|Microsoft Windows|
+|Oracle Java Virtual Machine|Microsoft Windows, MacOS, Linux|
+|Google Android Studio|Microsoft Windows, MacOS, Linux|
+|Oracle NetBeans|Microsoft Windows, MacOS, Linux|
+|MacroMates TextMate|MacOS|
+|GNU Emacs|Linux|
 
 ## How to run/execute Java files ##
 
@@ -45,7 +55,7 @@ To execute the Java code, it needs to be compiled first. For that, the Java SDK 
 
 The syntax of Java was highly influenced by C and C++ but unlike C++, Java was built almost exclusively as an object-oriented language. In Java, all the code is written inside classes and every data item is an object. In contrast to C++, Java does not support operator overloading or multiple inheritance.
 
-### Syntax ###
+### Java sample code ###
 
 The following is an example of Java syntax.
 

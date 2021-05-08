@@ -24,7 +24,7 @@ HTXT format was first designed by Hanvon and categorized in the text file type. 
 
 ## How to open an HTXT file? ##
 
-The problem with the Hanvon eBook format that is usually being faced is that HTXT is not related to the correct program file. By double click in the file icon, open it if there will be a suitable application to support its functioning. Here are some tips to easily open this file format:
+The problem with the Hanvon eBook format that is usually being faced is that HTXT is not related to the correct program file. Open the file by double-clicking, if it can be open using a suitable application. Here are some tips to easily open this file format:
 
  *  Check either some program has been installed, to transfer the HTXT file to the device via USB. If the program is not available, then first install it because it will help to subordinate the HTXT file
  *  If the application to transfer the HTXT file to the device via USB connection does not start. Must create a file link with the application/program

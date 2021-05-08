@@ -1,5 +1,6 @@
 {
   "date" : "2020-01-10",
+  "keywords" : [ "c", ".c","what is a c file","how to open c file", "extension", "file", "c file","c file format",  "c file extension"],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -18,7 +19,7 @@
 
 ## What is a C file?
 
-A file with .c extension is a source code file for writing software applications in C programming language. C files include all the implementation of application's functionality in the form of source code. The declaration of the source code is written in the header files that are saved with [.h](/programming/h/) extension. C++ is the modern form of C language and is used to develop most of the software nowadays. C files can be opened with applications such as Notepad++, [Eclipse IDE](https://www.eclipse.org/downloads/packages/release/2020-06/r/eclipse-ide-cc-developers), [Microsoft Visual Studio](https://fileinfo.com/software/microsoft/visual_studio), and [Borland C++ Builder](https://www.embarcadero.com/products/cbuilder).
+A file saved with c file extension is a source code file written in C programming language. The **C file** include all the implementation of application's functionality in the form of source code. The declaration of the source code is written in the header files that are saved with [.h](/programming/h/) extension. C++ is the modern form of C language and is used to develop most of the software nowadays. 
 
 ## Brief History
 
@@ -43,7 +44,8 @@ The header files, with .h extension, contain necessary include statements for in
 
 The actual implementation of the functional requirements are coded as methods in the C file. Each method in a C file has a return type, method name and may have some input parameters. If the return type is not void, the method may be returning some value.
 
-### C Source Code Example
+### C Code Example
+Here is a c example program:
 
 ```
 long some_function();
@@ -62,6 +64,26 @@ long some_function();
     return test2;
 }
 ```
+
+## How to open C file
+The C files can be opened with any text editor such as Notepad in Windows and Vi/Vim in Linux.
+
+### Softwares that can open the C files ###
+The C files can be opened in the following softwares:
+
+|Software| Operating System|
+---|---|
+|File Viewer Plus|Microsoft Windows|
+|Microsoft Visual Studio 2019|Microsoft Windows|
+|Embarcadero C++Builder|Microsoft Windows|
+|Borland C++ Compiler|Microsoft Windows|
+|gVim|Microsoft Windows|
+|Code::Blocks|Microsoft Windows, MacOS, Linux|
+|Eclipse IDE for C Developers|Microsoft Windows, MacOS, Linux|
+|GNU Compiler Collection (GCC)|MacOS, Linux|
+|MacroMates TextMate|MacOS|
+|GNU Emacs|Linux|
+
 ## **References** ##
 
 * [Class Implementation - By Wikipedia](https://en.wikipedia.org/wiki/Class_implementation_file)

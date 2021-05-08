@@ -1,6 +1,6 @@
 ---
 date: 2019-10-11
-keywords: py, python, .py, py file format, how to open py files, how to run py files, how to run python files, how to run python
+keywords: py, python, .py, py file format, how to open py file, how to run py files, how to run python files, how to run python
 author:
   display_name: Muhammad Ahmad Chishti
 draft: false
@@ -16,7 +16,7 @@ lastmod: 2020-25-11
 
 ## What is a PY file? ##
 
-Files with the .py extension contain the python source code. It is a very popular language that can be used for web development, software development, mathematics, and system scripting. Python is a cross-platform language that can work on different platforms like Windows, MAC, Linux, Raspberry Pi, etc. Python provides a simple syntax that is similar to the English language and is easier to read. Pythons syntax allows programs to be written with fewer lines of code. Python runs on an interpreter system so the code can be executed as soon as it is written which makes it very good for prototyping.
+The Files with the .py extension contain the Python source code. The Python language has become very famous language now a days. It can be used for system scripting, web and software development and mathematics. Python supports cross-platform compatibility; means that the developed applications in Python can work on different platforms like Windows, MAC, Linux, Raspberry Pi, etc. Python provides a simple and easy to read syntax which is similar to the English language. Developers can write a reasonable software application by writing a few lines of Python code. Since the Python runs on an interpreter system, so the code can be executed as soon as it is written which makes it very good for prototyping.
 
 ## Brief History ##
 
@@ -27,16 +27,28 @@ Python was conceived in the late 1980s by Guido van Rossum as a successor to ABC
 - Python 2.0 was released on 16 October 2000.
 - Python 3.0 was released on 3 December 2008.
 
-## How to open Python files ##
+## How to open PY file ##
 
-To open Python files, you can use the following:
+The py files can be open and edit by using any text editor. Therefore to use language specific features like run a file, intellisense or syntax checker, you need to use various other softwares.
 
-- Notepad (this will not execute the script)
-- VS Code
-- Visual Studio
-- PyCharm
+### Softwares that can open the PY files ###
+The PY files can be opened in the following softwares:
 
-## How to run/execute Python files ##
+|Software| Operating System|
+---|---|
+|File Viewer Plus|Microsoft Windows|
+|Microsoft Visual Studio 2019|Microsoft Windows|
+|Notepad|Microsoft Windows|
+|Notepad++|Microsoft Windows|
+|Gedit|Linux|
+|Python Software Foundation Python|Microsoft Windows, MacOS, Linux|
+|Sublime Text|Microsoft Windows, MacOS, Linux|
+|JetBrains PyCharm)|Microsoft Windows, MacOS, Linux|
+|MacroMates TextMate|MacOS|
+|GNU Emacs|Linux|
+
+
+## How to run py file ##
 
 To check the version of Python installed, you can use the following command:
 

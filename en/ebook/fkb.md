@@ -46,7 +46,7 @@ The following operating systems supports FKB files:
 
 ## How to open an FKB file? ##
 
-In the first step install an appropriate application that supports FKB files installed on the system. Sometimes installation of proper software doesn’t solve the problem. It is due to an outdated version of the software. For proper functioning, it's very important to install the updated version. In the next step of installation of the updated version of the software, set it as the default application to open file extension. Sometimes still problems can’t be fixed then check the possible errors related to file extension.
+In the first step install an appropriate application that supports FKB files installed on the system. Sometimes installation of proper software doesn’t solve the problem. It is due to an outdated version of the software, it's very important to install the updated version. In the next step set it as the default application to open file extension. Sometimes still problems can’t be fixed then check the possible errors related to file extension.
 
 ## Problems to open an FKB file ##
 

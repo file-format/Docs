@@ -34,8 +34,8 @@ ETD files are compatible with the following programs:
 ## How to open an ETD file? ##
 
  *  First, install a proper application that supports ETD files installed on the system. It can easily be done on the Adobe Reader developer website and you can install the related program very securely
- *	Sometimes installation of proper software doesn’t solve the problem. It is due to an outdated version of the software. For proper functioning, it's very important to install the updated version
- *	In the next step of installation of the updated version of Adobe Reader, set it as the default application to open ETD files
+ *	Sometimes installation of proper software doesn’t solve the problem. It is due to an outdated version of the software, it's very important to install the updated version
+ *	In the next step, set software as the default application to open ETD files
  
 
 ## Problems to open an ETD file ##

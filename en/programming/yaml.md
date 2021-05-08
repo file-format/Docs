@@ -1,6 +1,6 @@
 {
   "date" : "2019-10-11",
-  "keywords" : [ "yaml", ".yaml","what is a yaml file","how to open yaml file", "extension", "file", "yaml file","yaml file format",  ".yaml extension", "yaml vs json" ],
+  "keywords" : [ "yaml", ".yaml","what is a yaml file","how to open yaml file", "extension", "file", "yaml file","yaml file format",  ".yaml extension", "yaml vs json" ,"YAML file example", "docker yaml file example"],
   "author" : {
     "display_name" : "Muhammad Ahmad Chishti"
   },
@@ -138,6 +138,18 @@ YAML file consists of the following data types
   ---
   Document content
   ```
+## YAML file example
+Here you can see a **docker yaml file example** below:
+
+```
+topology:
+database_node_name: docker_controller
+docker_controller_node_name: docker_controller
+self_service_portal_node_name: docker_controller
+kvm_compute_node_names: kvm_compute1
+docker_compute_node_names: docker_compute1
+```
+
 ## YAML vs JSON
 Basically, both JSON and YAML are developed to provide a human-readable data interchange format. The YAML is realized as a superset of JSON format. It means that we can parse JSON using a YAML parser. Although the practical implementation of this theory is little tricky. Therefore, some basic differences between YAML and JSON are given below:
 
