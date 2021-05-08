@@ -14,10 +14,9 @@ menu:
 lastmod: 2020-13-01
 ---
 
-## What is an ARC file? ##
+## What is an ARC file?
 
-ARC is a lossless data compression and archival format developed by System Enhancement Associates (SEA). The file format and the application that creates it both are called ARC.
-ARC was very popular during the early days of the dial-up BBS as it combined the features of compression and archiving multiple files in the same file. ARC was later replaced by [ZIP](/compression/zip/) that offered better compression ratios.
+ARC is a lossless data compression and archival format developed by System Enhancement Associates (SEA). The file format and the application that creates it both are called ARC. ARC was very popular during the early days of the dial-up BBS as it combined the features of compression and archiving multiple files in the same file. ARC was later replaced by [ZIP](/compression/zip/) that offered better compression ratios.
 
 The .arc file extension is used by several other non-related archive file types like the ARC format used by the Internet Archive to store multiple web resources, a different ARC format used by FreeArc archiver, a different format used by Nintendo for resources, etc.
 
@@ -31,9 +30,7 @@ After the lawsuit between SEA and Katz, SEA withdrew from the shareware market a
 
 ## ARC File Format ##
 
-The ARC file consists of a sequence of file header and file followed by the end-of-archive marker as shown below
-
-### File Format ###
+The ARC file consists of a sequence of file header and file followed by the end-of-archive marker as shown below.
 
 ```console
   file header 1
@@ -47,7 +44,7 @@ The ARC file consists of a sequence of file header and file followed by the end-
 EOF
 ```
 
-### File Header ###
+### ARC File Header ###
 
 |Offset|Label|Type|Value|Description|
 |---|---|---|---|---|
@@ -78,7 +75,7 @@ The compression method byte indicates the compression method used. The following
 |7|Crushed|Packing, then LZW 8K buffer, 2-13 bits (PAK 1.0)|
 |8|Distill|Dynamic Huffman with 8K buffer (PAK 2.0)|
 
-## How to open/extract ARC files ##
+## How to open/extract an ARC file? ##
 
 The ARC files can be extracted by using the following programs.
 
@@ -87,7 +84,7 @@ The ARC files can be extracted by using the following programs.
 - WinZip
 - FreeArc
 
-## References ##
+## References
 
 - [ARC (file format) - Wikipedia](https://en.wikipedia.org/wiki/ARC_(file_format))
 - [ARCHIVE FORMATS AND DATA](https://apple2.org.za/gswv/a2zine/GS.WorldView/Resources/The.MacShrinkIt.Project/ARCHIVES.TXT)

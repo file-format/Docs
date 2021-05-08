@@ -24,7 +24,7 @@ A file with .iso extension is an uncompressed archive disk image file that repre
 
 ISO file format is not like other container file file formats although it archives the specified contents of data. The archive is created as a binary file with the exact structure of the content and filesystem information. The ISO file format is described by the [ISO-9660](https://en.wikipedia.org/wiki/ISO_9660) as follow.
 
-### Top Level
+### Top Level Structure
 
 The overall structure of the file consists of:
 
