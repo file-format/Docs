@@ -43,7 +43,7 @@ The PY files can be opened in the following softwares:
 |Gedit|Linux|
 |Python Software Foundation Python|Microsoft Windows, MacOS, Linux|
 |Sublime Text|Microsoft Windows, MacOS, Linux|
-|JetBrains PyCharm)|Microsoft Windows, MacOS, Linux|
+|JetBrains PyCharm|Microsoft Windows, MacOS, Linux|
 |MacroMates TextMate|MacOS|
 |GNU Emacs|Linux|
 
