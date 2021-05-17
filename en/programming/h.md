@@ -115,24 +115,7 @@ namespace N  // namespace declaration
     class value_widget;
 }
 ```
-## How to open H file?
-To open the H file in the Windows operating system you can use the general Notepad editor that is the part of Windows operating system. The Linux operating systems typically come with various text editors you can use one of them. The .h files are just plain text files.
 
-### Softwares that can open the H files ###
-The H files can be opened in the following softwares:
-
-|Software| Operating System|
----|---|
-|File Viewer Plus|Microsoft Windows|
-|Microsoft Visual Studio 2019|Microsoft Windows|
-|Embarcadero C++Builder|Microsoft Windows|
-|Borland C++ Compiler|Microsoft Windows|
-|gVim|Microsoft Windows|
-|Code::Blocks|Microsoft Windows, MacOS, Linux|
-|Eclipse IDE for C Developers|Microsoft Windows, MacOS, Linux|
-|GNU Compiler Collection (GCC)|MacOS, Linux|
-|MacroMates TextMate|MacOS|
-|GNU Emacs|Linux|
 ## References
 
 * [Header Filers - Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)

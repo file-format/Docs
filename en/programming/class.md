@@ -72,21 +72,7 @@ Details of the .class file structure as well explained in the Oracle [class file
 * `attributes_count` - The value of the attributes_count item gives the number of attributes (§4.7) in the attributes table of this class.
 * `attributes[]` - Each value of the attributes table must be an attribute_info structure.
 
-## How to open a Class file?
 
-Since a Class file is a binary format, it can be open by using any text editor such as Notepad in Windows. However, to get the Java code from a class file, you can either use a decompiler like Java Decompiler or an IDE like Intelli-j with built-in decompiler.
-
-### Softwares that can open the JAR files ###
-The JAR files can be opened in the following softwares:
-
-|Software| Operating System|
----|---|
-|Oracle Java Runtime Environment|Microsoft Windows, MacOS, Linux|
-|Eclipse IDE for Java Developers|Microsoft Windows, MacOS, Linux|
-|JD-GUI|Microsoft Windows, MacOS, Linux|
-|Jetbrains IntelliJ IDEA|Microsoft Windows, MacOS, Linux|
-|dirtyJOE|Microsoft Windows|
-|DJ Java Decompiler|Microsoft Windows|
 
 
 ## References

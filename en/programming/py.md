@@ -27,27 +27,6 @@ Python was conceived in the late 1980s by Guido van Rossum as a successor to ABC
 - Python 2.0 was released on 16 October 2000.
 - Python 3.0 was released on 3 December 2008.
 
-## How to open PY file ##
-
-The py files can be open and edit by using any text editor. Therefore to use language specific features like run a file, intellisense or syntax checker, you need to use various other softwares.
-
-### Softwares that can open the PY files ###
-The PY files can be opened in the following softwares:
-
-|Software| Operating System|
----|---|
-|File Viewer Plus|Microsoft Windows|
-|Microsoft Visual Studio 2019|Microsoft Windows|
-|Notepad|Microsoft Windows|
-|Notepad++|Microsoft Windows|
-|Gedit|Linux|
-|Python Software Foundation Python|Microsoft Windows, MacOS, Linux|
-|Sublime Text|Microsoft Windows, MacOS, Linux|
-|JetBrains PyCharm|Microsoft Windows, MacOS, Linux|
-|MacroMates TextMate|MacOS|
-|GNU Emacs|Linux|
-
-
 ## How to run py file ##
 
 To check the version of Python installed, you can use the following command:

@@ -43,25 +43,8 @@ echo "Hello World!";
 </body>
 </html>
 ```
-## How to open PHP file?
-Since a PHP file is simply a plain text file, so it can be opened in any text editor like Notepad, Wordpad or Sublime Text. 
-### Softwares that can open the PY files ###
-The PY files can be opened in the following softwares:
+ 
 
-|Software| Operating System|
----|---|
-|File Viewer Plus|Microsoft Windows|
-|Microsoft Visual Studio 2019|Microsoft Windows|
-|Notepad|Microsoft Windows|
-|Notepad++|Microsoft Windows|
-|Blumentals WeBuilder|Microsoft Windows|
-|MPSoftware phpDesigner|Microsoft Windows|
-|Bare Bones BBEdit|MacOS|
-|Adobe Dreamweaver |Microsoft Windows, MacOS, Linux|
-|Sublime Text|Microsoft Windows, MacOS, Linux|
-|Zend Studio|Microsoft Windows, MacOS, Linux|
-|MacroMates TextMate|MacOS|
-|GNU Emacs|Linux|
 
 
 ## References

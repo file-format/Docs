@@ -68,18 +68,6 @@ JAR files can also comprise of an application that can be executed by Java Virtu
 ```
 Main-Class: com.example.MyClassName
 ```
-## How to open a JAR file?
-In order to open a JAR file, the Java Runtime Environment must be installed. Alternatively, the JAR files can be opened with archiving applications such as WinZip, WinRAR and 7-ZIP.
-### Softwares that can open the JAR files ###
-The JAR files can be opened in the following softwares:
-
-|Software| Operating System|
----|---|
-|Oracle Java Runtime Environment|Microsoft Windows, MacOS, Linux|
-|Oracle Java SE Development Kit|Microsoft Windows, MacOS, Linux|
-|Corel WinZip|Microsoft Windows, MacOS|
-|7-Zip|Microsoft Windows|
-|RARLAB WinRAR|Microsoft Windows|
 
 
 

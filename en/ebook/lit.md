@@ -39,4 +39,4 @@ The **Microsoft Reader** is an application for reading e-books which has been di
 ## References
 
 * [Microsoft Reader - By Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Reader)
-* [LIT - By MobileRead](https://wiki.mobileread.com/wiki/LIT)
+
