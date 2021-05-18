@@ -27,12 +27,7 @@ An RPM file is a binary that can contain a set of files. Most of the times, RPM 
  * Lead - It identifies the file as an RPM file
  * Signature - It can be used to ensure integrity and/or authenticity
  * Header - Contains metadata including package name, version, architecture, file list, etc.
- * File Archive - Also known as payload, which usually is in cpio format, compressed with [GZIP](/compression/gz/).
-
-## How to open RPM file?
-
- * Red Hat Package Manager
- * Alien
+ * File Archive - Also known as payload, which usually is in cpio format, compressed with [GZIP](/compression/gz/)
 
 ## References
 

@@ -25,10 +25,6 @@ AZW is a digital ebook file format developed by Amazon for its Kindle devices. 
 
 AZW is a close file format and its specifications are not available publicly.
 
-## Creating AZW Files ##
-
-Amazon [KindleGen](https://www.amazon.com/gp/feature.html?ie#UTF8&docId#1000765211) lets you create AZW files. It is a command-line tool that enables publishers to create AZW files from source content including HTML, XHTML or EPUB. The AZW file, hence, generated supports both KF8 and Mobi format. KindleGen is the recommended content generator for Kindle devices by Amazon and is available for all popular platforms including Windows, Mac OS, and Linux.
-
 ## References ##
 
 * [Kindle File Format - Wikipedia](https://en.wikipedia.org/wiki/Kindle_File_Format)

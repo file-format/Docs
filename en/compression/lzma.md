@@ -51,14 +51,6 @@ This is stored as an unsigned 32-bit little endian integer with values ranging f
 #### Uncompressed Size
 The Uncompressed Size is stored as unsigned 64-bit little endian integer. A special value of 0xFFFF_FFFF_FFFF_FFFF indicates that Uncompressed Size is unknown. The value is represented by  End of Payload Marker (\*) if and only if Uncompressed Size is unknown.
 
-## How to open LZMA file?
-
-Some of the software applications that can open PKG files include:
-
- * [7-Zip](https://www.7-zip.org/)
- * [LZMA SDK](https://www.7-zip.org/sdk.html)
- * [p7zip](http://p7zip.sourceforge.net/)
-
 ## References
 
 * [LZMA File Format](https://svn.python.org/projects/external/xz-5.0.3/doc/lzma-file-format.txt)

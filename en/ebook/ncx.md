@@ -60,9 +60,6 @@ including those that conform to the relaxed constraints of OPS 2.0 -->
 </ncx>
 ```
 
-
-
-
 ## References
 
 * [EPUB From Wikipedia](https://en.wikipedia.org/wiki/EPUB)

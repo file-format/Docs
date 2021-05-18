@@ -42,13 +42,6 @@ Some of the features of DAR file format are as follow.
  * Hash file (MD5, SHA1 or SHA-512) generated on-fly for each slice, the resulting file is compatible with md5sum or sha1sum, to be able to quickly check each slice's integrity
  * Filesystem independent: it may be used to restore a system to a partition of a different size and/or to a partition with a different filesystem[5]
 
-## How to open DAR file?
-
-DAR files can be opened on Linux Operating System. Some of the software applications that can open DAR files include:
-
- * DAR (Disk Archive)
- * KDar - the KDE Disk Archiver
-
 ## References
 
 * [DAR](http://dar.linux.free.fr/)

@@ -59,10 +59,6 @@ The following table specifies the PML commands:
 |  \Sd="sidebar1"Sidebar\Sd   |                                                        Link the "Sidebar" text to a sidebar whose name is sidebar1, tagged at the end of the PML document. See the section on Footnotes and Sidebars below.                                                         |
 |             \I              |                                                              Mark as a reference index item. Enclose index item (and any style codes) with \I and \I.|
 
-## How to Open PMLZ files
-
-The PMLZ files can be read or open with Calibre and eReader softwares. These softwares are available for Microsoft Windows, MacOS, and Ubuntu.                                                             
- 
 
 ## References
 

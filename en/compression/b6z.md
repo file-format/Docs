@@ -34,10 +34,6 @@ The B6Z file format is based on open architecture and provides solid compression
 
 The B6Zip utility supports all these compression standards and is highly optimized resulting in high speed. It supports working with [ZIP](/compression/zip/), [TAR](/compression/tar/) and [RAR](/compression/rar/) file formats. B6Z files have MIME type application/x-b6z-compressed.
 
-## How to open B6Z file?
-
-B6Z files can be opened using the [B6Zip](http://b6zip.com) software on MacOS.
-
 ## References
 
 * [B6Zip](http://b6zip.com)

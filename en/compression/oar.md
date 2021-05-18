@@ -96,9 +96,6 @@ The archive control file contains a major version number for defining compatibil
   </regions>
 </archive>
 ```
-## How to open OAR file?
-
- * [OpenSimulator](http://opensimulator.org/wiki/Main_Page)
 
 ## References
 

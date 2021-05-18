@@ -48,12 +48,6 @@ The archive header is 10 bytes and is structured as follow.
 |1 | Declaring CPU type (encoded in 7 bit) and endianness (in msb)|
 |1 | Reserved for future use|
 
-## How to open PEA file?
-
-Some of the software applications that can open PEA files include:
-
- * PeaZip
-
 ## References
 
 * [PEA File Format Specifications](https://peazip.github.io/pea_help.pdf)

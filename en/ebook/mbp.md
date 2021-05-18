@@ -23,9 +23,6 @@ An MBP file is known as **Mobipocket Notes** File but it doesn't contain the e-b
 ## Brief explaination about Mobipocket Notes file
 The above paragraph shows that Mobipocket Notes facilitate the users to add some notes where necessary and these notes saved in an MBP file. Since these files are entirely associated with an e-book file as they are contained within an e-book, they are usually saved with the e-book too and are located in the similar location where the e-book file is saved. These files are usually produced by the **MBP Reader** or **Mobipocket Reader Desktop** program, which is an application useful for reading books electronically. The MBP files are saved in binary format and can be opened using an MBP reader utility.
 
-
-
-
 ## References
 
 * [MBP Reader](https://www.angelfire.com/ego2/idleloop/mbp_reader.html)

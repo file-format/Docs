@@ -45,10 +45,6 @@ bits 4 to 7  CINFO  Compression info
   bits 6 to 7  FLEVEL  (compression level)
 ````
 
-## How to open ZL file?
-
- * [Zlib](http://www.zlib.net/)
-
 ## References ##
 
 * [Zlib File Format Specifications](https://tools.ietf.org/html/rfc1950)

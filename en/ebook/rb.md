@@ -32,18 +32,6 @@ Following programs can generate RB content:
 | eBook Librarian by Gemstar (supplied with REB 1100) | check the 'REB1100 Install CD' link which contains eBook Librarian (v.2.0.241).|
 | rbmake |windows/Unix - hosted on SourceForge (also rbinfo, rbdump). RBMake can also disassemble RB files.|
 
-## How to Read RB 
-
-Following Programs can read and convert unencrypted RB books:
-
-|Program|Description|
-|----|----|
-|rbburst | windows/Unix - (from rbmake hosted on SourceForge)|
-|unrb.exe | windows (from RB2Project)|
-|RbDisintegrator.exe | windows (from Book Designer)|
-
-
-
 ## References
 
 * [Palm Markup Language - By MobileRead](https://wiki.mobileread.com/wiki/EReader)

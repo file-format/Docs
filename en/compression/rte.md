@@ -23,7 +23,3 @@ A file with .rte extension is an encoded file used to exchange copyrighted files
 ## RTE File Format
 
 RTE are compressed files whose file format is not publicly available.
-
-## How to open RTE file?
-
- * RTEncoder

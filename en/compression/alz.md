@@ -25,16 +25,6 @@ A file with extension .alz is a compressed file, mainly related to ALZip by ESTs
 
 The ALZ file format was released in 1999. ALZip and the ALZ file format do not generally impose any limit on file size and expansion limit. This software permits the Windows System to dictate the size limitations for its output files.
 
-## How to Open an ALZ file?
-
-  *	 ALZip by ESTsoft
-  *  The Unarchiver by DagArgen, Circlesoft
-  *  WinRAR
-  *  Corel WinZip 16 Pro
-  *  Corel WinZip Mac Edition
-
-An ALZ file can be opened using the accurate program on the computer by double-clicking it, if find difficult to open it then install the related software or app. Still, if there is any problem, then there may be a possibility that you have an outdated version. In this case, install the updated one. Sometimes you find it problematic to open the file due to corrupt or infected file format. In this situation, download the file again and scan it properly.
-
 ## References ##
 
   *  [ReviverSoft - ALZ](https://www.reviversoft.com/en/file-extensions/ALZ)

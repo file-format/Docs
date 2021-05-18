@@ -20,24 +20,7 @@
 ## What is a BPNUEB file?
 The BPNUEB files are actually belong to an Iranian e-book reading software known as **PNUEB Reader**. The  Payam-e-Noor university is very famous accross all Iranian cities. This university has an online ebook library; having thousands of e-books containing academic resources and most of the e-books are particularly localized in Persian. Although they offer PDF books but most of the ebooks are in BPNUEB file formats; which is an e-book format used for PNUEB Reader; a software availble for Microsoft Windows operating system. This software can be downloaded from Payam-e-Noor website.
 
-## How to open a BPNUEB file?
-
-If you are not being able to open the BPNUEB file on your computer; there may be many causes. The most important cause is that BPNUEB supported softwares are not installed on your device. In this case you need to see the following points as a guideline:
-
-- Install the well suited software to run the file.
-- If still you are facing difficulty to open the .bpnueb file; you must check the version of the software and see either that is supporting .bpnueb files or not. Some files can be supported by the old version and some by the latest one so, must check the details.
-- After installing the appropriate verion of e-reading software make sure that it is set as the default application to open BPNUEB files.
-
-## Softwares that can open the BPNUEB files
-The BPNUEB files can be opened in the following software:
-
-|Operating System| Software|
----|---|
-|Microsoft Windows|PNUEB Reader|
-
-
-
-## Possible problems while opening the file
+## Problem to open a BPNUEB file? ##
 
 If you are not being able to open and run the BPNUEB file; it doesn't mean that you do not have a suitable software installed on your device. There might be some other issues which prevent the file to work properly. The possible problems might be one of the following:
 

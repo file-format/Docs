@@ -30,18 +30,10 @@ As an eBook file format, the iBooks file format was established on different dev
  *	Still, nowadays it is used for generating all kinds of digital books, not only educational ones
  *  It supports EPUB and PDF formats, and the iBooks app on an iOS device or a Mac running OS 10.9 or earlier can be used to read them
  *  Apple offers the iBooks Author platform for creating iBooks. iBooks Author permits users to create iBooks using the unique Apple-only multi-touch EPUB standard
- 
-
 
 ## Brief History ##
 
 On January 19, 2012, Apple announced iBooks Author at an education-related special event in New York City. Then at the same time, Apple also released iBooks 2 and a new iBooks Bookstore group for textbooks. Though Apple makes it accessible for free download in the Mac App Store, it was exclusive and only available for macOS before its holdup in 2020. Generally, the documents are created in Pages and then taken into iBooks Author to finish the layout. This all process can easily take place on a laptop or desktop.
-
-
-## How to open an IBOOKS file? ##
-
-Any iBooks file, or the other file on your PC, by double-clicking it. If your file associations are finding out appropriately, the application that is needed to open an iBooks file will open it. It can be possible that you got to download or buy the right application. It’s also conceivable that you have the right application on your PC, but iBooks files aren't yet related to it. In this situation, when you want to open an iBooks file, you can tell Windows which application is the accurate one for that file. 
-
 
 
 ## References ##

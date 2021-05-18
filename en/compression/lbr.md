@@ -24,12 +24,6 @@ A file with .lbr extension is an archive file created with LU program and used o
 
 LBR file format was designed by Gary P. Novosielski and has no technical details available publicly. LBR files start with a 0x00 byte, followed by 11 spaces (0x20), then two 0x00 bytes, then two bytes that are not both 0x00. Being container file format, it can be extracted using the LU.COM and NULU.COM.
 
-## How to open LBR file?
-
-Some of the software applications that can open LBR files include:
-
- * LU File Archiver
-
 ## References
 
 * [LBR - Wikipedia](https://en.wikipedia.org/wiki/LBR_(file_format))
