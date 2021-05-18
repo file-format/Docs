@@ -24,7 +24,7 @@ ACE is a proprietary file format and its technical details are not available pub
 
 ## How to open ACE file?
 
-|Operating System| Software|
+|Operating System| Programs that can open ACE files|
 ---|---|
 |Mac|Zip File Unarchiver|
 |Windows|PeaZip, ESTsoft ALZip, E-merge WinAce|

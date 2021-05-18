@@ -18,7 +18,15 @@
 
 ## What is a GZ file?
 
-Files with .gz extension are compressed files created with gzip compression application. It can contain multiple compressed files and is commonly used on UNIX and Linux systems. GZIP was introduced as a free utility for replacing the Compress program used in Unix systems. Such files can be opened and extracted with a several applications such as WinZip which is available on both Windows and MacOS. While the format is similar to [.ZIP](https://wiki.fileformat.com/Compression/ZIP/) compression in archiving, it differs in terms of compression applied to the archive instead of individual file.
+Files with .gz extension are compressed files created with gzip compression application. It can contain multiple compressed files and is commonly used on UNIX and Linux systems. GZIP was introduced as a free utility for replacing the Compress program used in Unix systems. Such files can be opened and extracted with a several applications such as WinZip which is available on both Windows and MacOS. While the format is similar to [ZIP](https://wiki.fileformat.com/Compression/ZIP/) compression in archiving, it differs in terms of compression applied to the archive instead of individual file.
+
+## How to open GZ file?
+
+|Operating System|Programs that can open GZ files|
+---|---|
+|Windows|Corel WinZip, RARLAB WinRAR, 7-Zip, PeaZip|
+|MacOS|Corel WinZip Mac|Apple Archive Utility|
+|Linux|gzip, Xarchive, PeaZip|
 
 ## GZ File Format
 
@@ -29,10 +37,9 @@ Gzip uses the [DEFLATE](https://en.wikipedia.org/wiki/DEFLATE) algorithm for com
 * Compressed Data
 * File Footer
 
-## File Header ##
+## GZ File Header ##
 
-The file header consists of 10 bytes as follow:
-
+The GZ file header consists of 10 bytes as follow:
 
 |Offset|Size|Value|Description
 ---|---|---|---|
@@ -44,7 +51,6 @@ The file header consists of 10 bytes as follow:
 |9|1| |Operating system ID
 
 ### File Flags ###
-
 
 |Value|Identifier|Description
 ---|---|---|
@@ -58,7 +64,6 @@ The file header consists of 10 bytes as follow:
 |0x80| |Reserved
 
 ### Operating System ###
-
 
 |Value|Description
 ---|---|
@@ -89,7 +94,6 @@ This section contains the compressed data using the DEFLATE compression algorith
 ## GZ File Footer ##
 
 The file footer is 8 bytes in size and contains following information.
-
 
 |Offset|Size|Description
 ---|---|---|

@@ -65,24 +65,7 @@ long some_function();
 }
 ```
 
-## How to open C file
-The C files can be opened with any text editor such as Notepad in Windows and Vi/Vim in Linux.
 
-### Softwares that can open the C files ###
-The C files can be opened in the following softwares:
-
-|Software| Operating System|
----|---|
-|File Viewer Plus|Microsoft Windows|
-|Microsoft Visual Studio 2019|Microsoft Windows|
-|Embarcadero C++Builder|Microsoft Windows|
-|Borland C++ Compiler|Microsoft Windows|
-|gVim|Microsoft Windows|
-|Code::Blocks|Microsoft Windows, MacOS, Linux|
-|Eclipse IDE for C Developers|Microsoft Windows, MacOS, Linux|
-|GNU Compiler Collection (GCC)|MacOS, Linux|
-|MacroMates TextMate|MacOS|
-|GNU Emacs|Linux|
 
 ## **References** ##
 

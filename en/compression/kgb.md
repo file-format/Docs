@@ -26,7 +26,7 @@ There are no technical implementation details available about the KGB file forma
 
 ## How to open KGB file?
 
-Some of the software applications that can open PKG files include:
+Some of the software applications that can open KGB files include:
 
  * [KGB Archiver](https://sourceforge.net/projects/kgbarchiver/)
 

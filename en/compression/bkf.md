@@ -39,7 +39,7 @@ The BKF file extension is a kind of Windows Backup Utility File established for 
 
   *	 NTBackup
   *	 Motor Racer Archive
-  
+
 Windows 7/8 or 8.1 or 10 are not integrated with the NTBackup. So, you would need suitable software like NTBackup to open a BKF file. If you don’t have the proper software installed in your system, then you can’t open it. Also, try to install the updated version for better functioning and results. 
 
 ## References ##

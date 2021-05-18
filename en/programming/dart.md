@@ -1,6 +1,6 @@
 ---
 date: 2019-10-11
-keywords: dart, .dart, dart file format, how to open dart files, how to run dart files, .dart extension
+keywords: dart, .dart, dart file format, dart file, how to run dart files, .dart extension
 author:
   display_name: Muhammad Ahmad Chishti
 draft: false
@@ -11,12 +11,12 @@ description: Learn about Dart file format and APIs that can create and open Dart
 menu:
   docs:
     parent: "programming"
-lastmod: 2021-05-01
+lastmod: 2021-05-18
 ---
 
 ## What is a Dart file? ##
 
-Dart is a client-optimized programming language developed by Google that is used to build apps for mobile, desktop, web, etc. Dart is an object-oriented language with a syntax similar to C. Dart can be compiled to either JavaScript or native code.
+A Dart file contains the source code of Dart programming language which is a client-optimized programming language developed by Google that is used to build apps for mobile, desktop, web, Iot (Internet of things) etc. Dart is an object-oriented language with a syntax similar to C. Dart can be compiled to either JavaScript or native code. You can run the Dart files in famous web browser just like as you can run a javascript file. A command line tool known as Dart virtual machine which comes with Dart SDK can is also used to compile and run the Dart files.
 
 ## Brief History ##
 
@@ -26,21 +26,6 @@ Dart 2.0 was released in August 2018 with a sound type system. With the release 
 
 ECMA standardized Dart with the first edition in July 2014 and the second edition in December 2014.
 
-## How to open Dart files ##
-
-To open Dart files, you can use any text editor. For additional support like code highlighting and code completion, the following can be used:
-
-- Dart Editor
-- Eclipse with the plugin for Dart
-- IntelliJ IDEA with Dart plugin
-- PyCharm with Dart plugin
-- PhpStorm with Dart plugin
-- WebStorm with Dart plugin
-- Visual Studio with Dart plugin
-- Sublime Text with Dart plugin
-- Atom with Dart plugin
-- Emacs with Dart plugin
-- Vim with Dart plugin
 
 ## How to run/execute Dart files ##
 

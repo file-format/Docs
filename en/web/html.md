@@ -49,7 +49,7 @@ Each section can be lead or followed by white spaces, newlines, tabs and comment
 
 ### Version Information ###
 
-The first line of code, <!DOCTYPE html>, is called a doctype declaration and tells the browser which version of HTML the page is written in. Depending upon the version of HTML, there are a number of different doctype declarations that names the document type definition (DTD) in use for the document. Each DTD differs from other in the elements it supports and differ as follow:
+The first line of code, \<!DOCTYPE html>, is called a doctype declaration and tells the browser which version of HTML the page is written in. Depending upon the version of HTML, there are a number of different doctype declarations that names the document type definition (DTD) in use for the document. Each DTD differs from other in the elements it supports and differ as follow:
 
 * HTML 4.01 Strict - includes all elements and attributes that have not been [deprecated](https://www.w3.org/TR/html401/conform.html#deprecated) or do not appear in frameset documents
 * HTML 4.01 Transitional - includes everything in the strict DTD plus deprecated elements and attributes (most of which concern visual presentation

@@ -22,7 +22,7 @@ A file with .apk extension is a Google Android app file that is used to install 
 
 ## APK File Format
 
-APK files are packaged as compressed in [ZIP](/compression/zip/) file format that can be opened with any ZIP file opening software. An APK file can be renamed to a .zip and open the file in any Zip application or extract its contents.
+APK files are packaged as compressed in [ZIP](/compression/zip/) file format that can be opened with any ZIP file opening software. The .apk extension of such a file can be renamed to .zip and open the file in any ZIP application or extract its contents.
 
 ## APK Package Contents
 
@@ -35,6 +35,16 @@ A single APK file contains all the necessary files that are required for its ins
  * `androidManifest.xml`: Contains the name, versioning information and contents of the APK file
  * `classes.dex`: These are compiled Java classes that can be run on Dalvik virtual machine and by the Android Runtime
  * `resources.arsc`: Compiled resources file such as strings
+
+## How to open an APK file?
+
+If you have an APK file, you can open it using the following programs.
+
+|Operating System|Programs that can open APK files|
+---|---|
+|Windows| Google Android Studio, Corel WinZip, 7-Zip, RARLAB WinRAR, Google Android SDK|
+|Mac|Google Android Studio, Apple Archive Utility|
+|Linux| Google Android SDK|
 
 ## References
 

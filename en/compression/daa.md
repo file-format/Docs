@@ -5,7 +5,7 @@ author:
   display_name: Muhammad Ahmad Chishti
 draft: false
 toc: true
-title: DAA File Format
+title: DAA - Direct Access Archive File Format
 linktitle: DAA
 description: Learn about DAA file format and APIs that can create and open DAA files.
 menu:
@@ -18,10 +18,6 @@ lastmod: 2020-13-01
 
 DAA (Direct Access Archive) is a proprietary file format for disk image files developed by PowerISO Computing. DAA supports features like compression, password protection, and splitting into multiple volumes. The advantage of using DAA instead of ISO is that DAA files are smaller in size and can be split into multiple files. DAA is also secure to transfer as it can be encrypted and password-protected.
 
-## DAA File Format ##
-
-Although is no information published about the format, DAA image files are chunk by chunk zlib or lzma-compressed ISO images.
-
 ## How to open DAA files ##
 
 The DAA files can be opened by using the following programs.
@@ -29,6 +25,10 @@ The DAA files can be opened by using the following programs.
 - MagicISO
 - UltraISO
 - PowerISO
+
+## DAA File Format ##
+
+Although is no information published about the format, DAA image files are chunk by chunk zlib or lzma-compressed ISO images.
 
 ## References ##
 
