@@ -218,15 +218,7 @@ The fields and tabs included in this record are:
 
 **Comments:** These records can be used to add comments to the file and can appear in any position in the file. Each Comments record must begin with a "0."
 
-## How to Open an MPX file ##
-
-An MPX file can be opened using the accurate program on the computer by double-clicking it. In case if just double-click not works, you need to see the following points as a guideline:
-
- *   Download the supporting software
- *   Make sure it’s an updated one. A file won't work correctly with outdated software
- *   Associate a file with correct application/program
- *   Drive has enough space to open the file
- *   Stop all the irrelevant applications in the system for the files proper functioning
+## Problems to Open an MPX file ##
 
 Here is the list of some common issues which may arise and cause misfunctioning of the MPX format:
 
@@ -236,14 +228,6 @@ Here is the list of some common issues which may arise and cause misfunctioning 
  *   No access right in the system to open the files
  *   Outdated drive in your system
  *   Extension of the file is renamed
-
-## Softwares to Open an MPX file ##
-
- *   Microsoft Project 2010
- *   Seavus Project Viewer
- *   ProjectWizards Merlin
- *   KaDonk LiveProject Viewer
- *   MPXJ
 
 ## References ##
 

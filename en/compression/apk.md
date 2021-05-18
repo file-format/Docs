@@ -36,16 +36,6 @@ A single APK file contains all the necessary files that are required for its ins
  * `classes.dex`: These are compiled Java classes that can be run on Dalvik virtual machine and by the Android Runtime
  * `resources.arsc`: Compiled resources file such as strings
 
-## How to open an APK file?
-
-If you have an APK file, you can open it using the following programs.
-
-|Operating System|Programs that can open APK files|
----|---|
-|Windows| Google Android Studio, Corel WinZip, 7-Zip, RARLAB WinRAR, Google Android SDK|
-|Mac|Google Android Studio, Apple Archive Utility|
-|Linux| Google Android SDK|
-
 ## References
 
 * [APK File Format](https://en.wikipedia.org/wiki/Android_application_package)

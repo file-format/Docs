@@ -52,22 +52,6 @@ Each volume descriptor is 2048 bytes in size and has the following structure:
 ---|---|---|---|---|
 |Size	|1 byte	|5 bytes (always 'CD001')	|1 byte (always 0x01)	|2,041 bytes|
 
-## How to mount ISO file?
-
-There are several applications that can mount ISO files and creating virtual discs of these to be accessible by computer as any other disk drive. Applications such as:
-
- * PowerISO
- * Nero 2019
- * Deamon Tools Lite
-
-## How to open ISO file?
-
- * PowerISO
- * ISO Magic
- * WinZIP
- * 7-Zip
- * WinRAR
-
 ## References
 
 * [Optical Disk Image - Wikipedia](https://en.wikipedia.org/wiki/Optical_disc_image)

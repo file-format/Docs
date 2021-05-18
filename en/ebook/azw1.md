@@ -23,9 +23,6 @@ The AZW1 is an e-book file format which is also known as **Amazon Kindle Topaz e
 ## What AZW1 files are doing?
 The Amazon Kindle book reader devices and software use files appended with the .azw1 extension. These files are also known as Amazon Topaz ebook files, these AZW1 files are used to assemble and manage downloaded parts of Amazon Kindle ebook files from the **3G Whispernet** network of Amazon. The Amazon Kindle software can be installed on a **Microsoft Windows** based system to execute support for these AZW1 files and the relevant features which are integrated into the application. The versions of this program for Mac environments are also available. These softwares are usually used to start downloading and viewing the content of these Amazon Kindle books. Since the Amazon Kindle application provides support for AZW1 files and can also be installed in these two well known systems, the creators can easily create and properly share Kindle books.
 
-
-
-
 ## References
 
 * [Kindle_User's_Guide_English.pdf](https://kindle.s3.amazonaws.com/Kindle_User%27s_Guide_English.pdf)

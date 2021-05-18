@@ -33,8 +33,6 @@ LRX files are in binary file format and all the contents in the file are encrypt
 * Direction flag binding
 * Size of the data after deflation
 
-and others. The LRX format remains proprietary and its public details are not available for developer's community.
-
 ## References
 
 * [BBeB - By Wikipedia](https://en.wikipedia.org/wiki/BBeB)

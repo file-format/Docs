@@ -25,16 +25,7 @@ A file with MPP extension is a Microsoft Project data file that stores informati
 
 Microsoft developed and published MPP as binary file format and its specifications have not been made public by Microsoft to date. The internal file structure and details are, hence, not available for developers. There are several APIs available online that support reading/writing to MPP files, but 100% accuracy is never achieved. Microsoft has introduced several features to its project management application over time, and so has the features of the MPP file format.
 
-## How to Open an MPP file? ##
-
-An MPP file can be opened using the accurate program on the computer by double-clicking it. In case if just double-click not works, you need to see the following points as a guideline:
-
- *   Download the supporting software
- *   Make sure it’s an updated one. Because the file will not function properly if the software is outdated
- *   Associate a file with the correct application/program
- *   Import the MPP file in the software
- *   Drive has enough space to open the file
- *   Stop all the irrelevant applications in the system for the files proper functioning
+## Problems to Open an MPP file? ##
 
 Here is the list of some common issues which may arise and cause misfunctioning of the MPP format:
 
@@ -44,16 +35,6 @@ Here is the list of some common issues which may arise and cause misfunctioning 
  *   No access right in the system to open the files
  *   Outdated drive in your system
  *   Extension of the file is renamed
-
-## Softwares to Open an MPP file ##
-
- *   Microsoft Project
- *   Steelray Project Viewer
- *   Seavus Project Viewer
- *   Housatonic Project Viewer
- *   MOOS Project Viewer
- *   KaDonk LiveProject Viewer
- *   MPXJ
  
 
 ## References ##

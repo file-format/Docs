@@ -60,10 +60,6 @@ The flow of blocks ends when the last data block is followed by the 32-bit value
 
 The Content_Checksum verifies the validity of the content being decoded correctly and is carried out using the result of xxHash-32 algorithm. It validates the results of successful transmission of all blocks in the correct order and without any error.
 
-## How to open LZ4 file?
-
-LZ4 files can be opened using the [LZ4](http://lz4.github.io/lz4/) utility that is available as open source for developer's reference.
-
 ## References
 
 * [LZ4 Frame Format](https://github.com/lz4/lz4/blob/dev/doc/lz4_Frame_format.md)

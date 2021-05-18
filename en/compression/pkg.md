@@ -28,12 +28,6 @@ PKR are binary files that are compressed to reduce the overall file size. Since 
  * Table of Contents - An XML document that is (and must) be encoded as UTF-8 and is stored in the beginning of the file, making it easy to scan through the archive to extract individual file
  * Heap - unstructured heap of data referenced by the TOC
 
-## How to open PKG file?
-
-Some of the software applications that can open PKG files include:
-
- * Apple Installer
-
 ## References
 
 * [Flat Package File Format](http://s.sudre.free.fr/Stuff/Ivanhoe/FLAT.html)

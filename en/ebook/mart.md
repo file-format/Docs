@@ -27,7 +27,6 @@ The Martview is an e-book reader for the Windows operating system which is avail
 The MART files may be well suited for single files working, but if you many ebooks in different formats, then you surely do not want to spend time to convert all of them into a single format just to be able to read them in the ebook reader.
 
 
-
 ## References
 
 * [MART File Overview](https://www.reviversoft.com/file-extensions/mart#:~:text=MART%20files%20are%20MartView%20eBook,as%20they%20are%20e%2Dpublications.)

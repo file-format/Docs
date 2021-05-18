@@ -36,12 +36,6 @@ The seven types of packets are as follow ([Wikipedia](https://en.wikipedia.org/w
 |1+1+1+1+0 + len|	LONGREP[2]|	An LZ77 sequence. Distance is equal to the third last used LZ77 distance.|
 |1+1+1+1+1 + len|	LONGREP[3]|	An LZ77 sequence. Distance is equal to the fourth last used LZ77 distance.|
 
-## How to open LZ file?
-
-|Operating System| Application|
----|---|
-|Windows|[Lzip](http://lzip.nongnu.org/lzip.html)|
-|Linux|[Lzip](http://lzip.nongnu.org/lzip.html)|
 
 ## References
 

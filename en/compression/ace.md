@@ -22,13 +22,6 @@ A file with .ace extension is an ACE compressed file format that was developed b
 
 ACE is a proprietary file format and its technical details are not available publicly. It offered higher compression ration than ZIP and [RAR](/compression/rar/), along with fast compression speed. It also supports robust 160bit Blowfish encryption.
 
-## How to open ACE file?
-
-|Operating System| Programs that can open ACE files|
----|---|
-|Mac|Zip File Unarchiver|
-|Windows|PeaZip, ESTsoft ALZip, E-merge WinAce|
-
 ## References
 
 - [ACE File Format - Wikipedia](https://en.wikipedia.org/wiki/ACE_(compressed_file_format))

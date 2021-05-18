@@ -28,10 +28,6 @@ The NVA Reader is lightweight and smoothly running, and though it's optimized fo
 
 Conclusively, the NVA Reader is a superb tool that makes reading NVA e-books an easy, simple and wonderful experience.
 
-
-
-
-
 ## References
 
 * [NVA Reader is an eBook reader that opens NVA files](https://nva-reader.informer.com/1.0/)

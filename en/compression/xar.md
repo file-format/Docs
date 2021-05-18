@@ -106,13 +106,6 @@ The table of contents is an XML document that is (and must) be encoded as UTF-8.
 
 The heap starts immediately after the compressed toc. It is an unstructured heap of data referenced by the TOC. The Offset values listed in TOC start from the beginning of the heap. The length values in the toc refer to the actual number of bytes stored in the heap (compressed or not) whereas the size value refers to the extracted size of the item (after decompressing if necessary).
 
-## How to open XAR file?
-
-Some of the software applications that can open XAR files include:
-
- * 7-Zip
- * XAR (Linux)
-
 ## References
 
 * [XAR](https://github.com/mackyle/xar/wiki/xarformat)

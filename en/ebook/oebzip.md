@@ -28,10 +28,6 @@ The OEB file format consists of a set of files, including a compulsory package f
   
 The OEB bundle of files was used primarily as a mid-state format, with publication to end-users managed through publishers or aggregators who provided ebooks in forms suitable for different ebook viewers. Its successor version, EPUB_2, is more likely to reach end-users as a final-state format, as well as serving as a mid-state format.
 
-
-
-
-
 ## References
 
 * [OEBPS (Open Ebook Forum Publication Structure) 1.2](https://www.loc.gov/preservation/digital/formats/fdd/fdd000171.shtml)

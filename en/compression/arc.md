@@ -75,15 +75,6 @@ The compression method byte indicates the compression method used. The following
 |7|Crushed|Packing, then LZW 8K buffer, 2-13 bits (PAK 1.0)|
 |8|Distill|Dynamic Huffman with 8K buffer (PAK 2.0)|
 
-## How to open/extract an ARC file? ##
-
-The ARC files can be extracted by using the following programs.
-
-- IZArc
-- PeaZip
-- WinZip
-- FreeArc
-
 ## References
 
 - [ARC (file format) - Wikipedia](https://en.wikipedia.org/wiki/ARC_(file_format))

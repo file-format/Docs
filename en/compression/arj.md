@@ -50,15 +50,6 @@ An ARJ file contains two types of headers:
 |????h+"SIZ"+2|dword|1|CRC-32 of the extended header|
 |????h+"SIZ"+6|byte|?|Compressed file|
 
-## How to open ARJ files ##
-
-ARJ files can be opened with any of the popular compression/decompression software. Some of these programs are listed below.
-
-- ARJ
-- 7-Zip
-- PeaZip
-- RAR
-
 ## References ##
 
 - [ARJ - Wikipedia](https://en.wikipedia.org/wiki/ARJ)

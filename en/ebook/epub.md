@@ -31,7 +31,7 @@ Files with .epub extension are an e-book file format that provide a standard dig
 
 ## EPUB File Format ##
 
-EPUB file format is an archive that can be renamed to [ZIP](/compression/zip/) extension and its contents can be viewed by extracting the archive with any archive extractor like WinZIP or WinRAR. It is an open XML-based format and consists of HTML files, images, CSS style sheets, and other elements. It can also be converted to PDF, Mobi and several other file formats through a number of software applications and APIs.
+EPUB file format is an archive that can be renamed to [ZIP](/compression/zip/) extension and its contents can be viewed by extracting the archive with any archive extractor. It is an open XML-based format and consists of HTML files, images, CSS style sheets, and other elements. It can also be converted to PDF, Mobi and several other file formats through a number of software applications and APIs.
 
 {{< figure src="../epub.png" alt="EPUB File Format" >}}
 

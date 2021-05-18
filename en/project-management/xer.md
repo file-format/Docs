@@ -26,15 +26,7 @@ The XER file format is a proprietary project file format used by the Primavera P
 An XER file is a text file, and can easily be opened with a text editor. Opening project-related data in a text editor could be useful, but it is not easy to comprehend it by manually establishing links. This format is the most used one for exchanging data with other P6 databases. It has a relatively low level of control over data that has been imported from another format. Certain advantages that XER has on equivalent XML format include the ability to move global codes and calendars to project level and map codes, UDFs, resources, and calendars to existing values.
 
 
-## How to Open an XER file? ##
-
-An XER file can be opened using the accurate program on the computer by double-clicking it. In case if just double-click not works, you need to see the following points as a guideline:
-
- *   Download the supporting software
- *   Make sure it’s an updated one. A file won't work correctly with outdated software
- *   Import the XER file in the software
- *   Drive has enough space to open the file
- *   Stop all the irrelevant applications in the system for the files proper functioning
+## Problems to Open an XER file? ##
 
 Some common issues which may arise and cause misfunctioning of the XER format, are as follow:
 
@@ -46,13 +38,6 @@ Some common issues which may arise and cause misfunctioning of the XER format, a
  *   Outdated drive in your system
  *   Extension of the file is renamed
 
-## Softwares to Open an XER file ##
-
- *   Oracle Primavera
- *   ScheduleReader
- *   XER Manager Professional
- *   MPXJ
-  
 ## References ##
  
  * [Oracle - P6 XER](https://docs.oracle.com/cd/E90748_01/English/admin/p6_pro_importing_exporting/p6_pro_importing_exporting.pdf)

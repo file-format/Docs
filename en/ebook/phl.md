@@ -23,11 +23,6 @@ The PHL files are actually known as **Amazon Kindle Popular Highlights File**; u
 ## Details of Kindle Popular Highlights 
 By using the Amazon Kindle e-reading device, the readers can highlight passages, sections or phrases. When the highlights sync with Amazon Kindle account they get shared with Amazon. The Amazon aggregates those highlights into Popular Highlights. The Popular Highlights display the most highlighted passages or sections that readers have added to the remotely available Kindle e-books. These appear as underlined text in a Kindle book when more than ten people have highlighted that same passage or section. It sounds like a nice feature theory, but in practice, it may look weird to some people. The Popular Highlights appear in many of Kindle e-books. A reader will come across underlined text while reading, along with a little annotation saying that there are “120 Highlighters” or however many there are.
 
-## How to open a PHL file?
-
-Since the PHL files are based on XML format, it is very easy to edit them anywhere. You can edit or view it by using just Microsoft Windows Notepad. Therefore, the editors like Notepad++, VSCode and Atom will be a good choice because they support the intellisence, auto indentation and auto formatting to keep the XML tags neat and clean.
-
-
 ## References
 
 * [Viewing Popular Highlights on Kindles](https://en.wikipedia.org/wiki/Orb_Books)

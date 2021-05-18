@@ -20,14 +20,6 @@
 
 Files with .gz extension are compressed files created with gzip compression application. It can contain multiple compressed files and is commonly used on UNIX and Linux systems. GZIP was introduced as a free utility for replacing the Compress program used in Unix systems. Such files can be opened and extracted with a several applications such as WinZip which is available on both Windows and MacOS. While the format is similar to [ZIP](https://wiki.fileformat.com/Compression/ZIP/) compression in archiving, it differs in terms of compression applied to the archive instead of individual file.
 
-## How to open GZ file?
-
-|Operating System|Programs that can open GZ files|
----|---|
-|Windows|Corel WinZip, RARLAB WinRAR, 7-Zip, PeaZip|
-|MacOS|Corel WinZip Mac|Apple Archive Utility|
-|Linux|gzip, Xarchive, PeaZip|
-
 ## GZ File Format
 
 Gzip uses the [DEFLATE](https://en.wikipedia.org/wiki/DEFLATE) algorithm for compression of archive and differs from the .ZIP archive format in applying the compression algorithm on complete archive rather than individual files. The GZIP file format specifications version 4.3 published by Internet Engineering Task Force (IETF) contains detailed information about the file format. The file format consists of:

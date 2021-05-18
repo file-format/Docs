@@ -37,26 +37,9 @@ The following operating systems supports FKB files:
   *	 NetBSD
   *	 OpenBSD
 
-
-## Applications for FKB file ##
-
-  *  Microsoft Notepad
-  *  Notepad++
-  *  Flipkart 
-
-## How to open an FKB file? ##
-
-In the first step install an appropriate application that supports FKB files installed on the system. Sometimes installation of proper software doesn’t solve the problem. It is due to an outdated version of the software, it's very important to install the updated version. In the next step set it as the default application to open file extension. Sometimes still problems can’t be fixed then check the possible errors related to file extension.
-
 ## Problems to open an FKB file ##
 
   *	 Improper installation of supporting programs. Make sure it is downloaded properly with an updated version
   *	 Low hardware space
   *	 Corrupt or infected files. This problem can easily be solved through an antivirus installed in your system
   *	 Broken Links
-
-## References ##
-
- * [FileProInfo](https://fileproinfo.com/file-type/fkb)
- * [FileDesc.com](https://www.filedesc.com/en/file/fkb)
- * [FileLook](https://filelook.net/file-extension/fkb.html)
