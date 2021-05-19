@@ -1,6 +1,6 @@
 {
   "date" : "2021-04-23",
-  "keywords": [ "RES File", "how to open a res file", "what is a res file", "extension", "format", RES file format ],
+  "keywords": [ "RES File", "how to open a res file", "what is a res file", "extension", "format", "RES file format" ],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
