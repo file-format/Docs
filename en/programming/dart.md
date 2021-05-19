@@ -20,9 +20,9 @@ A Dart file contains the source code of Dart programming language which is a cli
 
 ## Brief History ##
 
-The Dart project was founded by Lars Bak and Kasper Lund and the first version was released on 14th November 2013. Dart was initially criticized for fragmenting the web due to the plans for including a Dart VM in Google Chrome. Those plans were dropped and Dart focused on compiling to JavaScript with the release of version 1.9 in 2015.
+The Dart project was founded by Lars Bak and Kasper Lund and the first version was released on 14th November 2013. I the begining the Dart was criticized for the web fragmentation due to the plans for including a Dart VM in Google Chrome. Those plans were dropped and Dart focused on compiling to JavaScript with the release of version 1.9 in 2015.
 
-Dart 2.0 was released in August 2018 with a sound type system. With the release of Dart 2.0, the dart2native extension was introduced that compiled Dart code to native Linux, Windows, macOS platforms. This extension enabled self-contained executables due to which the Dart SDK was not required to run Dart apps om those platforms. This extension also integrated with Flutter making it possible to create cross-platform apps.
+Dart 2.0 was released in August 2018 in which the dart2native extension was introduced that compiled Dart code to native Linux, Windows, macOS platforms. This extension enabled self-contained executables due to which the Dart SDK was not required to run Dart apps om those platforms. This extension also integrated with Flutter making it possible to create cross-platform apps.
 
 ECMA standardized Dart with the first edition in July 2014 and the second edition in December 2014.
 

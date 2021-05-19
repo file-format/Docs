@@ -1,6 +1,6 @@
 {
   "date" : "2021-04-20",
-  "keywords": [ "JSPF file", "jspf", "JSPF example", "extension", "format", "jspf tutorial", "jsp fragment" ],
+  "keywords": [ "JSPF file", "jspf", "JSPF example", "extension", "format", "jspf tutorial", "jsp fragment", "JSPF file format" ],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
@@ -18,7 +18,10 @@
 }
 
 ## What is a JSPF file?
-The file with .jspf extension is called JSP fragment; a static file included in another JSP file. The JSPF files are not compiled on their own, however, they are compiled along side the page in which they included. Its syntax is similar to the Java Server Pages (JSP) code. It contains just a fragment of JSP; not included all the entire JSP document. Moreover, the term "JSP segment" is used instead as the term "JSP fragment" is overloaded in the JSP 2.0 Specification. The JSP fragments can use either .jsp or .jspf extensions and should be placed either in **/WEB-INF/jspf** or with the rest of the static files. The JSP fragments that are not complete pages must use the .jspf extension and must be placed in **/WEB-INF/jspf** 
+The file with .jspf extension is called JSP fragment; a static file included in another JSP file. The JSPF files are not compiled on their own, however, they are compiled along side the page in which they included. Its syntax is similar to the Java Server Pages (JSP) code. It contains just a fragment of JSP; not included all the entire JSP document. 
+
+## JSPF file format
+The term "JSP segment" is used instead as the term "JSP fragment" is overloaded in the JSP 2.0 Specification. The JSP fragments can use either .jsp or .jspf extensions and should be placed either in **/WEB-INF/jspf** or with the rest of the static files. The JSP fragments that are not complete pages must use the .jspf extension and must be placed in **/WEB-INF/jspf** 
 
 ## JSP or JSP Fragment File Organization
 A JSP file contains the following sections in the order they are listed:
