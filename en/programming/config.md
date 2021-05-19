@@ -18,10 +18,7 @@
 }
 
 ## What is a CONFIG file?
-A CONFIG file is known as configuration file; used to configure the parameters and primary settings for several computer softwares. Some softwares only read their **configuration files** at their startup. Others check the configuration files for changes periodically. 
-
-## CONFIG File format
-The **CONFIG File format** is used for server processes, software applications, and operating system settings. A programmer can write code to instruct a software to read the configuration files again and again after certain time of period and apply the changes to the current process. There are no definitive standards or strong conventions for CONFIG file sysntax. For example, Microsoft's Web.config file belongs to the CONFIG file format, which consists of an [XML](https://docs.fileformat.com/web/xml/) based tagsets; can be edited with Microsoft Visual Studio or any other text editor.
+A CONFIG file is known as configuration file; used to configure the parameters and primary settings for several computer softwares. The **config File format** is used for server processes, software applications, and operating system settings. Some softwares only read their **configuration files** at their startup. Others check the configuration files for changes periodically. A programmer can write code to instruct a software to read the configuration files again and again after certain time of period and apply the changes to the current process. There are no definitive standards or strong conventions for CONFIG file sysntax. For example, Microsoft's Web.config file is belongs to CONFIG file format, which consists of an [XML](https://docs.fileformat.com/web/xml/) based tagsets; can be edited with Microsoft Visual Studio or any other text editor.
 
 ## Examples of configuration files:
 Since, the configuration files are not created by following any rules, standrads or conventions, these files might have written by using different formats. A .config file might be based on XML, [JSON](https://docs.fileformat.com/web/json/) or any other format. Following are the examples of configuration files for well known operating systems and softwares:
@@ -90,6 +87,13 @@ use_anonymous = True
 ```
 
 
+## Softwares that can open the CONFIG files ###
+The CONFIG files can be opened in the following softwares:
+
+|Operating System| Software|
+---|---|
+|Microsoft Windows|Microsoft Visual Studio 2019, File Viewer Plus, Adobe Dreamweaver 2020, Microsoft Notepad, Microsoft WordPad |
+|MacOS|Adobe Dreamweaver 2020, Apple TextEdit, MacroMates TextMate|
 
 ## References
 

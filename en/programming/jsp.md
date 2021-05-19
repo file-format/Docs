@@ -173,7 +173,21 @@ Learning about the JSP technologies is very easy now a days because a lot of JSP
 </body>
 </html>
 ```
+## How to open a JSP file
+The JSP files can be opened simply in any text editor such as Notepad, Textpad or Notepad++. But if you want other features such as, intellisence, formatters, syntax checker, etc. You may need to use typical IDEs like Eclipse.
 
+### Softwares that can open the JSP files ###
+The JSP files can be opened in the following softwares:
+
+|Software| Operating System|
+---|---|
+|Microsoft Internet Explorer|Microsoft Windows|
+|Mozilla Firefox|Microsoft Windows, MacOS, Linux|
+|Google Chrome|Microsoft Windows, MacOS, Linux|
+|Eclipse IDE for Java Developers|Microsoft Windows, MacOS, Linux|
+|ES-Computing EditPlus|Microsoft Windows, Linux|
+|Adobe Dreamweaver 2020|Microsoft Windows, MacOS|
+|Richardson EditRocket| Microsoft Windows, MacOS, Linux|
 
  
 
