@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+   "keywords": [ "sln file", "sln", "extension", "format", "What is sln file", "sln file format", "Visual Studio Solution", "Visual Studio solution VS project" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -16,7 +17,8 @@
   "lastmod" : "2019-09-10"
 }
 
-A file with .SLN extension represents a Visual Studio solution file that keeps information about the organization of projects in a solution file. The contents of such a solution file are written in plain text inside the file and can be observed/edited by opening the file in any text editor. The information contained in a solution file remains persistent and is used to load the information associated with the solution such as [projects ](/programming/csproj/)and any other required information. The project files referenced by the solution file contain additional information to enable the environment for populating the hierarchy with that project's items. No data is stored in the .sln file, although project information can be written to the .sln file if required.
+## What is SLN file?
+A file with .SLN extension represents a **Visual Studio solution** file that keeps information about the organization of projects in a solution file. The contents of such a solution file are written in plain text inside the file and can be observed/edited by opening the file in any text editor. The information contained in a solution file remains persistent and is used to load the information associated with the solution such as [projects ](/programming/csproj/)and any other required information. The project files referenced by the solution file contain additional information to enable the environment for populating the hierarchy with that project's items. No data is stored in the .sln file, although project information can be written to the .sln file if required.
 
 ## **SLN Versions History** ##
 
@@ -75,6 +77,12 @@ Project("{Project-Type-GUID}") # "Project-Name", "Project-Path.extension", "{Pro
 `Project GUID:` The unique GUID of the project that differentiates it from other projects in the solution. The unique ID of a project in the solution makes it possible for other projects in the solution to access it.
 
 Based on the information contained in the project section of the .sln file, the environment loads each project file. The project itself is then responsible for populating the project hierarchy and loading any nested projects. Any changes made to the solution are saved back to the solution file upon saving or closing the project.
+
+## Visual Studio solution VS project
+
+**Project:** Logically, when you start to create an app or software by using Visual Studio, you start a new project. A project contains all necessary files such as source code, icons, images, data files, and more, that will be compiled into an executable app, website or a library.
+
+**Solution:** A solution contains one or more projects. So the solution is just like a container for Visual Studio projects. Logically, we can say someone wants to get a complete solution for his business including a website, desktop app, restful service and mobile app.
 
 ### **References** ###
 
