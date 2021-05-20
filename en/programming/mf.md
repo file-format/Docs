@@ -1,6 +1,5 @@
 {
   "date" : "2019-10-11",
-  "keywords": [ "mf file", "mf", "extension", "format", "mf file format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -17,7 +16,7 @@
   "lastmod" : "2020-09-10"
 }
 
-## What is an MF file?
+## What is a MF file?
 
 A file with .mf extension is a Java Manifest file that contains information about the individual [JAR](/programming/jar/) file entries. The MF file itself is contained inside the JAR file and provides all the extension and package-related definition. JAR files can be produced to be used as an executable file. In such case, the mainfest file specifies the main class of the application that contains **`public static void main`** statement. Manifest files are named as MANIFEST.MF and can be opened with any text editor on Windows, MacOS and Linux Operating Systems.
 
