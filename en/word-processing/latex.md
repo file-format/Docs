@@ -18,7 +18,7 @@
 
 ## What is a LATEX file?
 
-A file with .tex extension is a text-based markup language file created with the typesetting system known as LaTex. In most of the cases, it is used to define the typesettings for publications, letters, books, and other similar cataloging in various fields. Latex file format enhances the document using specialized algorithms, commands for formatting of the document, and the tiniest details. Latex processors such as TeXworks, Texmaker, LaTeX Editor, proTeXt, and Notepad++ can be used to open and edit Tex files.
+A file with .latex extension is a text-based markup language file created with the typesetting system known as LaTex. In most of the cases, it is used to define the typesettings for publications, letters, books, and other similar cataloging in various fields. Latex file format enhances the document using specialized algorithms, commands for formatting of the document, and the tiniest details. Latex processors such as TeXworks, Texmaker, LaTeX Editor, proTeXt, and Notepad++ can be used to open and edit Tex files.
 
 ## LATEX File Format
 
