@@ -1,6 +1,6 @@
 ---
 date: 2019-10-11
-keywords: kt, .kt, kotlin file format, how to open kotlin files, how to run kotlin files, .kt file format, kt file format, kt extension, .kt extention
+keywords: kt, .kt, kotlin file format, how to open kotlin files, how to run kotlin files, .kt file format, kt file , kotlin file extension, .kt extention, kotlin vs java
 author:
   display_name: Muhammad Ahmad Chishti
 draft: false
@@ -11,12 +11,12 @@ description: Learn about KT file format and APIs that can create and open KT fil
 menu:
   docs:
     parent: "programming"
-lastmod: 2020-17-12
+lastmod: 2021-05-20
 ---
 
 ## What is a KT file? ##
 
-Kotlin is a general-purpose cross-platform programming language developed by JetBrains to be fully interoperable with [Java](/programming/java/). The Kotlin source code is contained in a file with the .kt extension. The Kotlin trademark is protected by the Kotlin Foundation.
+A source code written in Kotlin is saved with .kt extension which is commonly known as **Kotlin file extension**. The Kotlin is a general-purpose cross-platform programming language developed by JetBrains to be fully interoperable with [Java](/programming/java/). The Kotlin trademark is protected by the Kotlin Foundation.
 
 Kotlin was announced as the preferred programming language for Android App development by Google on 7th May 2019. Android Studio 3.0 started supporting Kotlin as an alternative for Android App development in October 2017.
 
@@ -54,14 +54,23 @@ The following is an example of Kotlin syntax.
 
 In the above code, the **fun** keyword defines the function named main. Inside the function, a read-only variable 'audience' is declared with the **val** keyword. By using the **println** method, "Hello World from Kotlin" is printed on the console. The value of the variable audience is injected into the string with the **$** sign.
 
-## How to open KT files ##
+## Kotlin VS Java
+The Kotlin is an official language to write Android apps with offering many advanced features, but many expert Java developers still don't interested to switch to Kotlin. They think that they can do all with Java only. So following is the comparison between two technology which may convince the java developers to switch:
 
-Kotlin files can be opened by using the following programs.
+|     Parameter      |   Java    |     Kotlin      |
+|--------------------|-----------|-----------------|
+| Singletons Objects |     √     |        √        |
+|   Wildcard Types   |     √     |        Χ        |
+|    Compilation     | Bytecodes | Virtual Machine |
+| Lambda Expression  |     Χ     |        √        |
+|  Invariant Array   |     Χ     |        √        |
+| Non-private Fields |     √     |        Χ        |
+|    Smart Casts     |     Χ     |        √        |
+|    Null Safety     |     Χ     |        √        |
+|   Static Members   |     √     |        Χ        |
 
-- IntelliJ Idea
-- Google Android Studio
-- NetBeans
-- Eclipse
+
+
 
 ## References ##
 
