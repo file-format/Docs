@@ -22,18 +22,6 @@ JSON (JavaScript Object Notation) is an open standard file format for sharing da
 
 There was a need for real-time server to client communication that lead to the creation of JSON. The JSON format was first specified by Douglas Crockford in March 2001. JSON was based on Standard ECMA-262 3rd Edition—December 1999 which is a subset of JavaScript. The first edition of JSON standard ECMA-404 was published in October 2013 by Ecma International. RFC 7159 became the main reference for JSON's Internet uses in 2014. In November 2017, ISO/IEC 21778:2017 was published as an international standard. RFC 8259 was published on 13 December 2017 by The Internet Engineering Task Force which is the current version of the Internet Standard STD 90.
 
-## How to open JSON files ##
-
-JSON files are stored in plain text format so these can be opened in any text editor including the following:
-
-- Notepad
-- Notepad ++
-- VS Code
-- Edge Code CC
-- Visual Studio
-- PhpStorm
-- Adobe Dreamweaver
-
 ## JSON Syntax ##
 
 JSON data is written in key/value pairs. The key and value are separated by a colon(:) in the middle with the key on the left and the value on the right. Different key/value pairs are separated by a comma(,). The key is a string surrounded by double quotation marks for example "name". The values can be of the following types.

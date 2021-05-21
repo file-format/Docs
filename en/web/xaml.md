@@ -18,14 +18,6 @@
 
 XAML, Extensible Application Markup Language, extension files describe the user interface elements for software applications based on Windows Presentation Foundation (WPF). Though a language, it doesn't require to be programmed as it is based on standard format of **[XML](/web/xml/)** which is easy to use and understand. XAML (pronounced as "zammel") was developed by Microsoft with specific aim for creating user interfaces. Its acronym original stood for Extensible Avalon Markup Language, where Avalon was the code-name for WPF. XAML files are sometimes saved with XOML extension as well.
 
-## How to open XAML files? ##
-
-XAML files are text based and can be opened in any text editor or software application development IDE such as:
-
-* [Microsoft Visual Studio](https://visualstudio.microsoft.com/)
-* [Liquid XML Studio](https://www.liquid-technologies.com/xml-studio) by Liquid Technologies.
-* [Vector Architect](https://vectorarchitect.com/)
-
 ## XAML Applications ##
 
 XAML is choice of use in .NET Framework 3.0 and .NET Framework 4.0 technologies such as WPF, Silverlight, Windows Workflow Foundation (WF) and few others. UI elements, data bindings, events and other features are are defined by XAML forms in WPF. Similarly, workflows in WF can be defined using XAML. It is easily processed by tools for the reason that it is based on XML. Since it is a declarative language and doesn't need compilation, a lot of products are emerging that are based on the XAML-based applications. Anything that is created or implemented in XAML can be expressed using a more traditional .NET language, such as C# or Visual Basic .NET.

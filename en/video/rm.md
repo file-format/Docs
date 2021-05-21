@@ -62,19 +62,6 @@ The following are the types of chunks present in the RealMedia file:
 - RV40: H.264 precursor, RV40
 - RVTR: H.263+ (RV20)
 
-## How to play RM files ##
-
-RealPlayer by RealNetworks is the official player for RealMedia files. There are other players as well that support the playback of RealMedia files. Given below is a list of some of the players that can play RM files.
-
-- RealPlayer
-- VLC Player
-- GRETECH GOM Player
-- Zoom Player
-- KMPlayer
-- PotPlayer
-- Media Player Classic - Homecinema
-- Microsoft Windows Media Player
-
 ## References ##
 
 - [RealMedia - Wikipedia](https://en.wikipedia.org/wiki/RealMedia)

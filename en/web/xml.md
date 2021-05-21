@@ -80,13 +80,6 @@ The following is a simplified example of a CD catalog where each record contains
 </CATALOG>
 ```
 
-## How to open XML file?
-
-|Operating System| Software|
----|---|
-|Windows| Internet Explorer, Adobe Dreamweaver 2020, Notepad++, Microsoft Visual Studio 2019|
-|Mac| TextEdit, Microsoft Visual Studio 2019, Adobe Dreamweaver 2020|
-
 ## References
 
 * [XML - By Wikipedia](https://en.wikipedia.org/wiki/XML)

@@ -22,17 +22,6 @@ SCSS is the second syntax of Sass (Syntactically Awesome Stylesheet) that uses b
 
 As the designs of websites are becoming complex resulting in large [CSS](/web/css/) files. Such files are harder to maintain. This is where SCSS comes in. SCSS introduces variables, nesting, mixins, imports, and selector inheritance in CSS development. These additions make working with design a lot more fun.
 
-## How to open SCSS files ##
-
-SCSS files are stored in plain text format so these can be opened in any text editor including the following:
-
-- Notepad
-- Notepad ++
-- VS Code
-- Visual Studio
-- PhpStorm
-- Adobe Dreamweaver
-
 ## How to use SCSS files ##
 
 SCSS files are not included directly in the [HTML](/web/html/) document like CSS. Instead, SCSS files are converted to CSS files that are included in HTML files. To install SCSS on your system, follow the instructions given on the [Official Sass Site](https://sass-lang.com/install).

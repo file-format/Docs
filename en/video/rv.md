@@ -40,19 +40,6 @@ RealVideo is comprised of different video compression formats each identified by
 |RV40|9,10|
 |RV60|11|
 
-## How to play RV files ##
-
-The official player for RealVideo is RealPlayer developed by RealNetworks. As the format is not open source, other players rely on dynamically linked libraries (DLLs) from the official RealPlayer to play the files. That means that the RealPlayer should be installed on the user's machine for many of these third party players. RealNetworks also developed the open-source Helix player that can play some of the RealVideo files. The programs supporting FFmpeg can also play RealVideo files.
-
-Here a is list of some of the players that can play RV files.
-
-- RealPlayer
-- RealOne Player
-- KMPlayer
-- Zoom Player
-- Media Player Classic (with Real Alternative component)
-- Microsoft Windows Media Player (with Real Alternative component)
-
 ## References ##
 
 - [RealVideo - Wikipedia](https://en.wikipedia.org/wiki/RealVideo)

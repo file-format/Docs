@@ -36,17 +36,6 @@ The 3GP format is based on the ISO base media file format defined in ISO/IEC 144
 
 The 3GP file Format allowed the usage of H.263 and AMR codecs and defined new boxes to which the codecs refer. These code-points were registered in ISO base media file format for the storage of MPEG-4 media-specific information.
 
-## How to play 3GP files ##
-
-3GP files can be played on most 3G mobile phones without the need for any additional software. On computers, you may use the following media players to play 3GP files.
-
-- VLC Media Player
-- Windows Media Player
-- Apple QuickTime Player
-- MPlayer
-- RealPlayer
-- Media Player Classic
-- Totem
 
 ## References ##
 

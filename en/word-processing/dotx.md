@@ -32,5 +32,5 @@ The DOTX file format follows the same DOCX structure based on Office OpenXML fil
 
 ## References ##
 
-* [[MS-DOCX] - .Docx File Format](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx)
+* [MS - Docx File Format](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx)
 * [Office Open XML](http://officeopenxml.com/)

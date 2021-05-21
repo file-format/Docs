@@ -31,21 +31,6 @@ In the first sub-chunk, the header of the file is identified by the "hdrl" tag; 
 
 AVI was introduced by Microsoft in 1992 with the aim to provide a more robust and advanced audio and video file format. The format quickly became popular with the usage of the internet, allowing individuals to share video files directly and indirectly via cloud-based media storage.
 
-## How to Open/Play AVI files? ##
-
-The following is the list of programs that support AVI files:
-
- *  Windows Media Player
- *  VLC Media Player
- *  Adobe Premiere Pro
- *  Nullsoft Winamp
- *  CyberLink PowerDirector 365
- *  Xilisoft Video Converter Ultimate
- *  Apple QuickTime Player
- *  Eltima Elmedia Player
- *  olimsoft OPlayer
- *  BIT LABS Simple MP4 Video Player
-
 ## References ##
 
 * [AVI - By Wikipedia](https://en.wikipedia.org/wiki/Audio_Video_Interleave)

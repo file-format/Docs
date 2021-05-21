@@ -104,5 +104,5 @@ A paragraph is the main content holder within a document. It is represented by *
 
 ## References ##
 
-* [[MS-DOCX] - .docx File Format](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx)
+* [MS - DOCX File Format](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx)
 * [Office Open XML](http://officeopenxml.com/)

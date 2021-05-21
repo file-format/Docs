@@ -151,20 +151,6 @@ The following table shows the structure of the Matroska document with most of th
 | | | | | TagBinary |
 | | | | | SimpleTag |
 
-## How to play MKV files ##
-
-Even though the support for the MKV format has grown rapidly, it is still not an industry standard and not all media players support it. There are two options to play MKV files, downloading a compatible media player, or downloading the codecs for the media player of your preference.
-
-### Compatible video players ###
-
-While the MKV video format is not as common as the MP4, [MOV](/video/mov/), and [AVI](/video/avi/) formats, many media players still support opening and playing MKV files, including:
-
-- VLC
-- MPlayer
-- KMPlayer
-- DivX Player
-- MKV File Player
-- The Core Media Player
 
 ### Using Codecs ###
 
