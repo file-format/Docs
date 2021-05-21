@@ -22,17 +22,6 @@ Sass (syntactically awesome style sheets) is a preprocessor scripting language. 
 
 Sass is really helpful in maintaining styles as Sass provides many features like introduces variables, nesting, mixins, imports, and selector inheritance that make working with styles fun.
 
-## How to open Sass files ##
-
-Sass files are plain text files so these can be opened in any text editor. Given below is a list of some the programs that you can use to open Sass files.
-
-- Notepad
-- Notepad ++
-- VS Code
-- Visual Studio
-- PhpStorm
-- Adobe Dreamweaver
-
 ## How to use Sass files ##
 
 Sass files are not included directly in the [HTML](/web/html/) document but are rather converted to CSS files that are included in HTML files. You may istall Sass of your system by following the instructions given on the [Official Sass Site](https://sass-lang.com/install).

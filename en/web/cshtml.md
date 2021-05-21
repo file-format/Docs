@@ -62,9 +62,6 @@ End Code
 
 <p>The greeting is: @greetingMessage</p>
 ```
-## How to open CSHTML file?
-
-As mentioned earlier, CSHTML are text files that can be opened in any text editor. Microsoft Visual Studio provides users with suitable programming environment with syntax highlighting and Intellisense while coding CSHTML files.
 
 ## References
 * [Razor Syntax Reference - Microsoft](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0)

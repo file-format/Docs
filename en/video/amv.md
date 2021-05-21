@@ -25,29 +25,6 @@ As a variant of AVI files; the AMV files are commonly used by some Chinese media
 
 The AMV format was designed to allow low cost and easily available chinese media players to store and play many videos in low resolution. AMV videos are usually not highly compressed, but their file size is so low because of their low resolution and frame rate. This thing helps inexpensive media players to run the AMV file format without any trouble.
 
-## How to open AMV file? ##
-
-You can convert the AMV file format to any other modern video format by using converting softwares such as FFmpeg or AVS Video Converter. It will help you to open video in commonly used media players.
-
-If you are not being able to open the AMV file on your computer; there may be many causes. The most important cause is that AMV supported softwares are not installed on your device. In this case you need to see the following points as a guideline:
-
-- Install the well suited software to run the file.
-- If still you are facing difficulty to open the .amv file; you must check the version of the software and see either that is supporting .amv files or not. Some files can be supported by the old version and some by the latest one so, must check the details.
-- After installing the appropriate verion of software make sure that it is set as the default application to open AMV files.
-
-### Softwares that can open the AMV files ###
-The AMV files can be opened in the following softwares:
-
-|Operating System| Software|
----|---|
-|Microsoft Windows|File Viewer Plus, Online Media Technologies AVS Video Converter, FFmpeg|
-|MacOS|FFmpeg|
-|Linux|FFmpeg|
-
-
-
-
-
 ## References ##
 
 - [AMV video format - Wikipedia](https://en.wikipedia.org/wiki/AMV_video_format)

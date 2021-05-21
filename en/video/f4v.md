@@ -41,16 +41,7 @@ F4V file format is based on the ISO base media file format (MPEG-4 Part 12) and 
   - **Text Box box**: Defines the coordinates for the text box.
   - **Blinking box**: Specifies blinking for a range of text.
   - **Text Wrap box**: Sets the text wrap flag for the text.
-
-## How to play F4V files ##
-
-F4V is a popular format and many programs can open it. Given below is a list of some of the programs that can open F4V files.
-
-- Flash Player (as of version 9 update 3)
-- VLC Media Player
-- F4V Player
-- KM Player
-- Pot Player
+  - **Text Wrap box**: Sets the text wrap flag for the text.
 
 ## References ##
 

@@ -32,15 +32,6 @@ When a DVD is opened on a computer, VIDEO_TS is the top level directory with AUD
 
 Many video DVDs are encrypted and prevent the copying of data from the DVD. Authentication and decryptions keys are needed to play the files which are located in the inaccessible lead-in area of the DVD. These keys are used by the CSS decryption software that is present in the DVD player or the software player. Without the keys, the video files cannot be played as the keys will be requested when the files are opened.
 
-## How to play VOB files ##
-
-Any video player that supports MPEG-2 files can usually play unencrypted VOB files. Some of these applications are listed below.
-
-- VLC Media Player
-- Media Player Classic
-- GOM Player
-- KMPlayer
-
 ## References ##
 
 - [VOB - Wikipedia](https://en.wikipedia.org/wiki/VOB)

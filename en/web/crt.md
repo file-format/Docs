@@ -50,10 +50,6 @@ MIICUDCCAdoCBDaM1tYwDQYJKoZIhvcNAQEEBQAwgY8xCzAJBgNVBAYTAlVTMRMwMIICCDAaBgkqhkiG
 ----END CERTIFICATE----
 ```
 
-## How to open CRT file?
-
-CRT files can be opened on Windows, Linux, and MacOS with almost all latest web browsers such as Google Chrome, FireFox, and Internet Explorer.
-
 ## References ##
 
 * [The Global Structure of HTML document](https://www.w3.org/TR/html401/struct/global.html#h-7.5.4)

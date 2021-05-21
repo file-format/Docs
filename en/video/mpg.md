@@ -66,21 +66,6 @@ The following table shows the partial system header format:
 | Packet rate restriction and reserved byte |        1        |             |
 
 
-## How to open MPG files? ##
-Since MPEG compression is commonly-supported, an MPG file can be opened in most media players, including:
-- Microsoft Windows Media Player (Windows)
-- Apple QuickTime Player (Mac)
-- VideoLAN VLC Media Player (cross-platform)
-
-If you are not being able to open the MPG file on your computer; there may be many causes. The most important cause is that MPG supported softwares are not installed on your device. In this case you need to see the following points as a guideline:
-
-- Install the well suited software to run the file.
-- If still you are facing difficulty to open the .mpg file; you must check the version of the software and see either that is supporting .mpg files or not. Some files can be supported by the old version and some by the latest one so, must check the details.
-- After installing the appropriate verion of software make sure that it is set as the default application to open MPG files.
-
-
-
-
 ## References ##
 
 - [MPEG-1 - Wikipedia](https://en.wikipedia.org/wiki/MPEG-1)

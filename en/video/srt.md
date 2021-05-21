@@ -55,16 +55,6 @@ The formatting of SRT files is derived from HTML tags. The formatting tags for t
 |Font Color|**\<font color="white">...\</font>**|
 |Line Position|**{\a3}** (indicates that the text should start appearing on line 3)
 
-## How to open SRT files?
-
-SRT files are plain text files and can be opened with any text editor to view its contents like Notepad. But the main purpose for someone to open SRT files is so that the subtitles would play along with the video. SRT files are supported by most of the video players. Some of the video players that support SRT files are listed below.
-
-- VLC Media Player
-- Media Player Classic
-- MPlayer
-KMPlayer
-- Microsoft Windows Media Player with VobSub plugin
-
 ## SubRip Software ##
 
 SubRip is a free software program that runs on Windows. It extracts subtitles and their timings from different video formats and saves the subtitles in SRT format. SubRip uses optical character recognition to extract subtitles from live video, other video files, and DVDs.

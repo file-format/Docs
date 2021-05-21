@@ -24,19 +24,6 @@ The Xvid software is used to compress and decompress video data to MPEG-4 ASP. D
 
 DivXNetworks founded the OpenDivX in January 2001 as a part of Project Mayo. It was intended to be the home for open source multimedia projects. However, the source code was soon placed under a restrictive license and DivX 4 codec emerged as a closed-source commercial product. After this, the OpenDivX was forked and all the code of OpenDivx was replaced and Xvid was published under GNU General Public License.
 
-## How to play Xvid files ##
-
-Xvid is not a video format, it is a program to compress and decompress video data from MPEG-4 ASP format. The encoded video is MPEG-4 ASP video and not Xvid video therefore it can be decoded with all decoders that are ASP compliant. The following are some of the players that can play Xvid files.
-
-- VLC Media Player
-- Windows Media Player
-- BS Player
-- DivX Player
-- Perian
-- MPlayer
-
-CD's and DVD's written with Xvid content can be played in some DivX compatible DVD Players. DivX compatible DVD Players cannot play Xvid content encoded with advanced MPEG-4 features.
-
 ## References ##
 
 - [Xvid - Wikipedia](https://en.wikipedia.org/wiki/Xvid)

@@ -24,20 +24,6 @@ The compression used in RealMedia is similar to MPEG-4 Part 10. In RMVB files, t
 
 RMVB has become a popular format for the distribution of Anime and Asian movies and tv shows because of the smaller size and better quality as compared to DivX.
 
-## How to play RMVB files ##
-
-RealPlayer by RealNetworks is the official player for RMVB files. Other third-party players support the playback of RMVB files as well. Given below is a list of some of the players that can play RMVB files.
-
-- RealPlayer
-- VLC Player
-- GRETECH GOM Player
-- Zoom Player
-- KMPlayer
-- BSPlayer
-- PotPlayer
-- Media Player Classic - Homecinema
-- Microsoft Windows Media Player
-
 ## References ##
 
 - [RMVB - Wikipedia](https://en.wikipedia.org/wiki/RMVB)

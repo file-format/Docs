@@ -47,19 +47,6 @@ After the header comes the Packets. The FLV file is split into multiple packets 
 - **Stream ID**: This is set to NULL for the first stream.
 - **Payload Data**: This is the data based on the packet type.
 
-## How to play FLV files ##
-
-Here is list of players that can play FLV files.
-
-- Adobe Animate
-- Flash Player
-- VLC Media Player
-- Winamp
-- MPC-HC
-- AnvSoft Web FLV Player
-
-FLV was used by many streaming services like Youtube, Netflix, Hulu, etc but are eliminating flash files in the favor of the new HTML5 format. Adobe will also no longer support Flash after 2020.
-
 ## References ##
 
 - [Flash Video - Wikipedia](https://en.wikipedia.org/wiki/Flash_Video)

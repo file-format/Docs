@@ -28,17 +28,6 @@ Jesse James Garrett in 2005 released a white paper where he coined the term *Aja
 
 Google released the Chrome browser with the V8 JavaScript engine in 2008. In early 2009, an agreement was made to combine all relevant work and to drive JavaScript forward. This resulted in the release of the ECMAScript 5 Standard in December 2009.
 
-## How to open JS files ##
-
-JS files are stored in plain text format so these can be opened in any text editor including the following:
-
-- Notepad
-- Notepad ++
-- VS Code
-- Visual Studio
-- PhpStorm
-- Adobe Dreamweaver
-
 ## How to use JS files ##
 
 To use a JS file, you include it in the HTML document. You use the link tag to include the file as shown below.
