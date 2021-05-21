@@ -77,12 +77,6 @@ Based on these, the state of the database can be assessed as follow.
 |3|JET_dbstateCleanShutdown|The database is in a clean state. The database can be attached without any log files.|
 |4|JET_dbstateBeingConverted|The database is being upgraded.|
 |5|JET_dbstateForceDetachInternal|This value is introduced in WindowsXP|
-
-## How to open EDB file?
-
-EDB files can be opened using the following programs.
-
- * Microsoft Exchange Server
  
 ## References
  * [Extensible Storage Engine (ESE) Database File (EDB) Specifications](https://github.com/libyal/libesedb/tree/master/documentation)

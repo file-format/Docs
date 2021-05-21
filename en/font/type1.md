@@ -37,16 +37,11 @@ Some of the known limitations of Type 1 are as given below:
 - Type 1 fonts are not cross-platform. A complex conversion is required while converting one platform fonts to others.
 - Sticking of the font names to the 8 character limit of the old DOS days, which make it difficult to determine which typeface is stored in a file.
 
-
-
 ## Type 1 Fonts on a Windows machince
 The Type 1 font data consists of two separate files in windows:
 
 1. The file with extension “.PFB” consists of outline data.
 2. The file with extension “.PFM” contains the metrics data .
-
-
-
 
 ## References
  * [Type 1 fonts](https://www.prepressure.com/fonts/basics/type1)

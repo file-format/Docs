@@ -53,10 +53,6 @@ Here are the TTC Header tables of both versions:
 |uint32|	dsigLength	|The length (in bytes) of the DSIG table (null if no signature)|
 |uint32|	dsigOffset	|The offset (in bytes) of the DSIG table from the beginning of the TTC file (null if no signature)|
 
-
-
-
-
 ## References
  * [The OpenType Font File](https://docs.microsoft.com/en-us/typography/opentype/spec/otff)
  * [TrueType (Wikipedia)](https://en.wikipedia.org/wiki/TrueType)
