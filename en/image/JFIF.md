@@ -73,14 +73,6 @@ This is an optional section that if defined, must immediately follow the JFIF AP
 |Thumbnail format|1|Specifies what data format is used for the following embedded thumbnail:</br>10 : JPEG format</br>11 : 1 byte per pixel palettized format</br>13 : 3 byte per pixel RGB format|
 |Thumbnail data|variable||
 
-## How to open JFIF files ##
-
-JFIF files can be opened by the majority of the image software including the following:
-
-- Microsoft Photos
-- Photoshop
-- XnViewMP
-
 ## References ##
 
 - [JFIF - Wikipedia](https://en.wikipedia.org/wiki/JPEG_File_Interchange_Format#History)

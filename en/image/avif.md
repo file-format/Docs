@@ -28,15 +28,6 @@ A big gain that AVIF has over JPEG is the smaller file size. This means that usi
 
 The two biggest problems with AVIF at the moment are encoding speed and the lack of progressive rendering. So unlike JPEG images, nothing is shown on the screen until AVIF images are fully downloaded.
 
-## How to open AVIF files ##
-
-You may use the following programs to open AVIF files.
-
-- Google Chrome
-- nomacs
-- Microsoft Paint
-- libavif
-
 ## References ##
 
 - [AVIF - Wikipedia](https://en.wikipedia.org/wiki/AV1#AV1_Image_File_Format_(AVIF))

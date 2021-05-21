@@ -124,13 +124,6 @@ In this method, zoomlevels are defined. Zoomlevel 0 is used for the full image, 
 
 In this method, the encoding of the MANIAC trees begins immediately followed by the encoding of the pixels.
 
-## How to open FLIF files ##
-
-You may use the following programs to open FLIF files.
-
-- ImageMagick
-- XnView
-
 ## References ##
 
 - [FLIF - Wikipedia](https://en.wikipedia.org/wiki/Free_Lossless_Image_Format)

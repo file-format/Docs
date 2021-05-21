@@ -20,15 +20,6 @@ CPC (Cartesian Perceptual Compression) is a proprietary image file format that u
 
 [JSTOR](https://www.jstor.org/) converted its online archives to CPC in 1997. JSTOR converts CPC on their servers to GIF for display and to PDF for printing. CPC files are used to reduce the amount of storage used by the online collection.
 
-## How to open CPC files?
-
-CPC files are supported by the following programs.
-
-- Cartesian Products CPC Tool
-- Mozilla Firefox with CPC Lite pi plugin
-- Microsoft Internet Explorer with Cartesian Products CPC View ax plugin
-- LizardTech Document Express
-
 ## References
 
 - [Cartesian Perceptual Compression - Wikipedia](https://en.wikipedia.org/wiki/Cartesian_Perceptual_Compression)
