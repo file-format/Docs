@@ -83,10 +83,6 @@ The SQLite database header is located in the first 100 bytes of the database fil
 |92|4|The version-valid-for number.|
 |96|4|SQLITE_VERSION_NUMBER|
 
-## How to open SQLite file?
-
-SQLite files can be opened with [SQLite](https://www.sqlite.org/index.html) on Microsoft Windows, Linux and MacOS.
-
 ## References ##
 
 * [SQLite File Format - SQLite](https://www.sqlite.org/fileformat2.html)

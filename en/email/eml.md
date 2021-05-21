@@ -84,15 +84,6 @@ Content-Disposition: attachment; filename#"english_spodr.xlsx"
 Content-Transfer-Encoding: base64
 X-Attachment-Id: f_jkhztmd43
 
-
-## See Also ##
-
-You may also be interested in:
-
-* [MSG](/email/msg/)
-* [EMLx](/email/emlx/)
-* [OFT](/email/oft/)
-
 ## References
 
 * [RFC 822](http://www.ietf.org/rfc/rfc0822.txt)

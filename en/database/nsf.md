@@ -69,10 +69,6 @@ The NSD Database header contains the following confirmed values.
  * Database instance identifier (DBIID)
  * Replication history
 
-## How to open NSF file?
-
-NSF files can be opened with [IBM Lotus Notes](https://en.wikipedia.org/wiki/HCL_Domino) on Microsoft Windows.
-
 ## References
 
  * [NSF Format - Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc)

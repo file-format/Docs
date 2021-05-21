@@ -102,13 +102,6 @@ In this example, the 875 shows the total length of message. The message metadata
 |30|highlight text in toc|1 << 30
 |31|(unused)|
 
-## How to open EMLX file?
-
-EMLX files can be opened using following programs.
-
- * Apple Mail
- * Text Editor such as Apple TextEdit and Notepad++
-
 ## See Also ##
 
 * [EML](/email/eml/)

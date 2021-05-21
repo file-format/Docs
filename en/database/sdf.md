@@ -24,22 +24,6 @@ A file with .sdf extension contains the Microsoft SQL Server Compact (SQL CE) da
 An SDF file contains a database which is usually called compact relational database. An SDF file contains all the database related information and the SQL Server Compact is a light weight and free database engine which is used to manage the .sdf files. The .sdf file size shouldn't exceed the limit of 4 GB of size. The SDF files don't store the information about stored procedures, triggers or views. Applications using an SQL CE database need not specify the path to an SDF file in the ADO.NET connection string, instead it can be mentioned as |DataDirectory|\database_name.sdf, defining the data directory being defined in the assembly manifest for the application
 The .sdf naming convention is optional, and any extension can be used to save the file. Setting up a password for the database file is an optional step. To compress or repair the database the file should be saved with the option of the **compacted/repaired database**.
 
-## How to open an SDF file?
- The SQL Server Management Studio or SQL Server Data Tools (the SQL Server Object Explorer window in Visual Studio) are not capable to manage SQL Server Compact databases, but other options like following are available:
- - Server Explorer in Microsoft Visual Studio offers limited database manipulation functionality.
- - The Databases tab in WebMatrix has more features than Server Explorer.
- - Relatively full-featured third-party or open source tools are available
-
-### Softwares that can open the SDF files ###
-The SDF files can be opened in the following softwares:
-
-|Software| Operating System|
----|---|
-|Microsoft SQL Server 2019|Microsoft Windows|
-|Microsoft Visual Studio 2019|Microsoft Windows|
-|LINQPad|Microsoft Windows|
-
-
 ## References
 
  * [SQL Server Compact - Wikipedia](https://en.wikipedia.org/wiki/SQL_Server_Compact)

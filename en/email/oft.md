@@ -51,14 +51,6 @@ The MSG/OFT file format has the following relationships to other structures:
 * The base of .msg is Compound File Binary File Format.
 * The properties used by Message and Attachment Object Protocol is used by this format.
 
-## How to open OFT file?
-
-You can open an OFT file on Windows Operating System by double clicking the file. If Microsoft Outlook is installed on the system, the file will open in it for viewing.
-
-|Operating System|Programs that can open OFT files|
----|---|
-|Microsoft Windows| Microsoft Outlook 365|
-
 ## References
 
 * [[MS-OXMSG]: Outlook MSG File Format](https://msdn.microsoft.com/en-us/library/cc463912(v#exchg.80).aspx)

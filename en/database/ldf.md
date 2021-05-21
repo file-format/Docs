@@ -36,12 +36,6 @@ An SQL log file records the following operations:
 ## LDF File Format
 
 The LDF file consists of SQL Server transaction records that are arranged as string of log records. Each log record has a log sequence number (LSN) that is higher than the LSN of the previous record. The strings are concatenated after each other in the file. Due to the modern high speed computers, records can be inserted where the LSN2 exists in the log file before LSN1. Since the operations are recorded in a serial, the change described by LSN2 was performed after the log record LSN1. The records for a particular transaction are linked backward using pointers that are used and speed the rollback of the transaction.
-
-## How to open LDF file?
-
-LDF files can be opened using the following programs.
-
- * Microsoft SQL Server 2019
  
 ## References
 

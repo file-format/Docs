@@ -37,13 +37,6 @@ As per the unofficial MDB guide, an MDB file consists of fixed-size pages (2048 
 
 A single Microsoft Access database may comprise of multiple files that allow to exceed file and table size limitations. This facilitates to put forms and code in a front-end MDB file on user's desktop and data in another backend MDB files on servers connected to network.
 
-## How to open MDB file?
-
-MDB files can be opened using the following programs.
-
- * Microsoft Access 365
- * Microsoft Visual Studio 2019
-
 ## References ##
 
 * [Access Specifications](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)

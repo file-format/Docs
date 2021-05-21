@@ -60,15 +60,6 @@ Message object can be shared between clients or message stores that use the .msg
 
 To get an idea of how a MSG file looks like, you can download a [sample MSG file](https://products.conholdate.app/viewer/view/AKMF7z0zyPcQ692Py/sample-msg-file.msg?preview=true.pdf) and open on your computer to view its contents.
 
-## How to open MSG file?
-
-On Windows Operating System, you can open a MSG file by double clicking the file. This will open the file in default email client Microsoft Outlook if it is installed on the system. Following is a list of programs that can open MSG files.
-
-|Operating System|Programs that can open MSG files|
----|---|
-|Windows|Microsoft Outlook 365, MFCMapi|
-|Mac|Microsoft Outlook 365|
-
 ## References
 
 * [[MS-OXMSG]: Outlook MSG File Format](https://msdn.microsoft.com/en-us/library/cc463912(v#exchg.80).aspx)

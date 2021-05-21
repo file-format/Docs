@@ -24,7 +24,3 @@ A file with .accft extension is a Microsoft Access template file that holds defi
 ## ACCFT File Format
 
 ACCFT files are binary files whose file format specifications are not available publicly. Its internal details like header information, file structure, footers, etc. are not available at the moment.
-
-## How to open ACCFT file?
-
-ACCFT files can be opened using Microsoft Access 365.

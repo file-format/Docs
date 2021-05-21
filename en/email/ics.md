@@ -60,14 +60,6 @@ ATTACH: http://pattern.com/reports/monthly-ledger.doc
 
 Though default charset scheme for an iCalendar is UTF-8 yet no property parameter is specified to define the charset of a property value. in MIME transfers "charset" parameter MUST be used for existing charset.
 
-## How to open ICS file?
-
-ICS files can be opened using following programs.
-
- * Microsoft Outlook 365
- * Mozilla Thunderbird Lightning Calendar
- * Text editor such as Apple TextEdit or Notepad++
-
 ## References
 
 * [Internet Calendaring and Scheduling Core Object Specification](https://www.ietf.org/rfc/rfc5545.txt)

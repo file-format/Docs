@@ -50,13 +50,6 @@ CREATE TABLE employees (
     dateofbirth   DATE          not null
 );
 ```
-## How to open DDL file?
-
-|Operating System|Application Program|
----|---|
-|Windows| Jetbrains Intellij Idea, EclipseLink, Notepad++|
-|Linux| Jetbrains Intellij Idea, EclipseLink, Text Editor|
-|MacOS| Jetbrains Intellij Idea, EclipseLink, Apple TextEdit|
 
 ## References ##
 

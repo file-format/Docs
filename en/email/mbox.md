@@ -32,17 +32,6 @@ A reader scans through an mbox file looking for From_ lines. Any From_ line mark
 
 The contents of an MBox file can become irreversibly intermingled when an email received contains an Mbox file as attachment and is saved in another Mbox file. To avoid this, messaging systems must encode an mbox database with non-transparent transfer encoding (such as BASE64 or Quoted-Printable) whenever such an object is transferred via messaging protocols.  Implementers should also be prepared to encode mbox data locally if non-compliant data is received.
 
-## How to open MBOX file?
-
-MBOX files can be opened using the following programs.
-
- |Operating System|Program that opens MBOX file|
- ---|---|
- |Windows|Mozilla Thunderbird, Microsoft Outlook 365|
- |Linux| Mozilla Thunderbird|
- |MacOS|Mozilla Thunderbird, Apple Mail, Microsoft Outlook 365|
-
-
 ## References ##
 
 * [MBox - RFC4155](https://tools.ietf.org/rfc/rfc4155.txt)

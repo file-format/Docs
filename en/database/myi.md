@@ -49,13 +49,6 @@ Pages in MySQL are called blocks. Key values are in blocks. A block contains inf
 
 The myisamdef.h file contains the following information expressed in constants. The maximum number of keys is 32 (MI_MAX_KEY) and the maximum number of segments in a key is 16 (MI_MAX_KEY_SEG). The maximum length of the key is 500 (MI_MAX_KEY_LENGTH). The maximum length of the block is 16384 (MI_MAX_KEY_BLOCK_LENGTH).
 
-## How to open MYI files ##
-
-The MYI files can be opened by using the following programs.
-
-- SQLite
-- Microsoft SQL Server
-
 ## References ##
 
 - [The .MYI File](https://dev.mysql.com/doc/internals/en/the-myi-file.html)
