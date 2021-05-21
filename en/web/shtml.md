@@ -18,7 +18,7 @@
 
 ## What is an SHTML file?
 
-A file with .shtml extension is a webpage that is written in HTML and includes server instructions. It may also contain server-side includes similar to ASP files for faster loading. The server side files can also contain executable code that can make the server to load slower than usual. SHTML are similar to HTML but they also allow the use of simple server commands. These server commands are performed in a simple computer programming language called Server Side Includes (SSI). SHTML has been largely superseded by other server side programming languages such as PHP includes.
+A file with .shtml extension is a webpage that is written in [HTML](/web/html/) and includes server instructions. It may also contain server-side includes similar to ASP files for faster loading. The server side files can also contain executable code that can make the server to load slower than usual. SHTML files are similar to HTML but they also allow the use of simple server commands. These server commands are performed in a simple computer programming language called Server Side Includes (SSI). SHTML has been largely superseded by other server side programming languages such as [PHP](/programming/php/) includes.
 
 ## SHTML File Format
 
