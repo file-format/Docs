@@ -46,20 +46,6 @@ JPEG XR image data can be stored in TIFF-like container format by using a table 
 
 As it is based on TIFF format, it inherits all of the TIFF format limitations like the 4 GB file size limit.
 
-## How to open JXR files ##
-
-JXR files are supported by the following programs.
-
-- Paint.NET
-- Internet Explorer 9
-- ImageMagick
-- Windows Photo Gallery
-- Windows Photo Viewer
-- Quick Look
-- Adobe Photoshop (CS2,CS5-CS6)
-- Adobe Flash Player 11.3
-- Fast Picture Viewer
-
 ## References ##
 
 - [JPEG XR - Wikipedia](https://en.wikipedia.org/wiki/JPEG_XR)

@@ -61,24 +61,6 @@ One type of encoded integer is supported by SWF 9 and later with variable number
 
 Several versions of SWF format have been evolved so far. Newer version from SWF 5, were made to the SWF tag set. After version 6, additional new changes are made at the ActionScript level. ActionScript 3.0 language is used through the version 9, which works with the ActionScript Virtual Machine 2 (AVM2). The user who plans to use latest versions, should aware to the use of ActionScript object model that Flash Player depicts.
 
-## How to open SWF file? ##
-
-If you are not being able to open the SWF file on your computer; there may be many causes. The most important cause is that SWF supported softwares are not installed on your device. In this case you need to see the following points as a guideline:
-
-- Install the well suited software to run the file.
-- If still you are facing difficulty to open the .swf file; you must check the version of the software and see either that is supporting .swf files or not. Some files can be supported by the old version and some by the latest one so, must check the details.
-- After installing the appropriate verion of software make sure that it is set as the default application to open SWF files.
-
-### Softwares that can open the SWF files ###
-The SWF files can be opened in the following softwares:
-
-|Operating System| Software|
----|---|
-|Microsoft Windows|Adobe Flash Player, Eltima SWF & FLV Player, Eltima Flash Decompiler Trillix, Xilisoft Video Converter Ultimate, GRETECH GOM Player, Media Player Classic, SWF File Player, Newgrounds Flash Player|
-|MacOS|Adobe Flash Player, Eltima Elmedia Player, Eltima Flash Decompiler Trillix, Eltima Flash Optimizer|
-|Linux|Adobe Flash Player|
-|Android|BIT LABS SWF Player|
-
 ## References ##
 
 * [SWF file-format specification](https://www.adobe.com/content/dam/acom/en/devnet/pdf/swf-file-format-spec.pdf)

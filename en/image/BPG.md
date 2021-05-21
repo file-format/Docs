@@ -24,14 +24,6 @@ BPG is designed as a portable memory-efficient format to work on handheld and Io
 
 The BPG container format is a generic image format rather than the raw bitstream used in HEVC. BPG supports 4:4:4, 4:2:2, and 4:2:0 color formats. Alpha channel is also supported with a separately coded extra channel or the fourth channel of CMYK image. BPG provides metadata support for Exif, ICC profiles, and XMP. BPG supports YCbCr (ITU-R BT.601, BT.709, and BT.2020 (non-constant luminance)), YCgCo, RGB, CMYK, and grayscale color space. BGP also supports animation and lossy and lossless HEVC data compression.
 
-## How to open BPG files ##
-
-BPG files are supported by the following programs.
-
-- BPGviewer
-- Simple BPG Image viewer
-- ImageMagick
-
 ## References ##
 
 - [Better Portable Graphics - Wikipedia](https://en.wikipedia.org/wiki/Better_Portable_Graphics)

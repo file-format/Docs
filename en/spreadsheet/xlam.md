@@ -30,12 +30,6 @@ End Function
 
 After this, save the file with the .xlam extension.
 
-## How to open XLAM files ##
-
-To add the function from the XLAM file, open Excel. Go to *File > Options > Add-ins* and click the **Go** button with "Excel Add-ins" selected in the manage dropdown. Click Browse and select the XLAM file. After that, click OK.
-
-Now you can use the newly added function in your excel files.
-
 ## References ##
 
 - [File format reference for Word, Excel, and PowerPoint](https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
