@@ -66,9 +66,7 @@ The MobiPocket PRC file format is based on the Open eBook standard using XHTML a
 
 The Mobipocket Reader has a home page library. Readers can insert blank pages in any part of a book and add variable drawings. The objects like Annotations, bookmarks, corrections, notes, and drawings are manageable from a single location. Images are converted to GIF format and have a maximum size of 64K which is sufficient for mobile phones with small screens. Mobipocket Reader has the electronic bookmarks, and a built-in dictionary.
 
-The reader has a full screen mode for reading and support for many PDAs, Communicators, and Smartphones. The Mobipocket products support most Palm operating systems, Windows, Symbian, BlackBerry, but not the Android. The reader works under Linux or Mac OS X using WINE. the applications like Okular and FBReader can also be used under Linux or Mac OS X, but they work only with un-encrypted files.
-
-The Amazon Kindle can read un-protected .mobi files, as can Amazon's Kindle application for Windows and MacOS. Amazon KindleGen is an .epub to .mobi converter, and it supports IDPF 1.0 and IDPF 2.0 EPUB formats.
+The reader has a full screen mode for reading and support for many PDAs, Communicators, and Smartphones. The Mobipocket products support most Palm operating systems, Windows, Symbian, BlackBerry, but not the Android. The reader works under Linux or Mac OS X using WINE.
 
 ## References
 

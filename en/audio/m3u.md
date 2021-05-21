@@ -91,18 +91,6 @@ C:\Music\SampleMusic.mp3
 #EXTINF:222,Example Artist name - Example track title
 C:\Music\ExampleMusic.mp3
 ```
-
-## How to Open M3U Files ##
-
-M3U files can be opened using the following applications:
-
-- VLC media player
-- MPlayer
-- Microsoft Windows Media Player
-- Media Player Classic
-- iTunes
-- QuickTime Player
-
 ## References ##
 
 - [M3U - Wikipedia](https://en.wikipedia.org/wiki/M3U)

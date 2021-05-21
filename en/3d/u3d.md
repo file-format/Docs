@@ -63,10 +63,6 @@ The declaration blocks contain information about the objects in the file. The ob
 Additional information for objects declared in a Declaration block are provided in the continuation block. Each Continuation Block must be associated with a Declaration Block.
 
 
-## Programs for Opening U3D files
-
-* [Adobe Acrobat](https://acrobat.adobe.com/us/en/acrobat.html) (version 7 and above)
-
 ## References ##
 
 * [U3D File Format - Wikipedia](https://en.wikipedia.org/wiki/Universal_3D)

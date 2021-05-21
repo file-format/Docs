@@ -50,16 +50,6 @@ The OGG format consists of chunks of data. Each chunk is called an Ogg page. Eac
   - Ogg Skeleton
   - Continuous Media Markup Language
 
-## How to Open OGG Files ##
-
-OGG files can be opened using the following applications:
-
-- VLC media player
-- MPlayer
-- Microsoft Windows Media Player
-- Xion Audio Player
-- Apple QuickTime Player with the XiphQT plugin
-
 ## References ##
 
 - [OGG - Wikipedia](https://en.wikipedia.org/wiki/Ogg)

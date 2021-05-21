@@ -60,30 +60,6 @@ Frame size of AMR modes in bytes (including the header byte) are given below:
 |4 |AMR 7.4 |20|
 |5 |AMR 7.95 |21|
 
-
-## How to play AMR files? ##
-
-If you are not being able to open the AMR file on your computer; there may be many causes. The most important cause is that AMR supported softwares are not installed on your device. In this case you need to see the following points as a guideline:
-
-- Install the well suited software to run the file.
-- If still you are facing difficulty to open the .amr file; you must check the version of the software and see either that is supporting .amr files or not. Some files can be supported by the old version and some by the latest one so, must check the details.
-- After installing the appropriate verion of software make sure that it is set as the default application to open AMR files.
-
-### Softwares that can play the AMR files ###
-The AMR files can be opened in the following softwares:
-
-|Software|Operating System|
----|---|
-|File Viewer Plus| Microsoft Windows| 
-|Apple QuickTime Player| Microsoft Windows, MacOS| 
-|VideoLAN VLC media player| Microsoft Windows, MacOS, Linux| 
-|RealNetworks RealPlayer 20/20| Microsoft Windows| 
-|Audacity| Microsoft Windows, MacOS, Linux| 
-|AMR Player| Microsoft Windows| 
-|ShedWorx Smart Converter| MacOS| 
-
-
-
 ## References ##
 
 * [Adaptive Multi-Rate audio codec - By Wikipedia](https://en.wikipedia.org/wiki/Adaptive_Multi-Rate_audio_codec)

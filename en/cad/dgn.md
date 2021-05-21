@@ -41,12 +41,6 @@ A MicroStation V8 DGN file is composed of one or more models. A model is a conta
  * Each element has a unique 64-bit identifier that does not change through the life-cycle of the element.
  * Each element has a time stamp that indicates the time of the most recent change.
 
-## How to open DGN file?
-
- * Autodesk AutoCAD 2020
- * IMSI TurboCAD Deluxe
- * Corel PaintShop Pro
-
 ## References
 
 * [DNG - By Wikipedia](https://en.wikipedia.org/wiki/DGN)
