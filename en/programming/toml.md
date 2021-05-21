@@ -18,15 +18,6 @@ lastmod: 2020-12-01
 
 TOML (Tom's Obvious Minimal Language) is a minimal configuration file format that uses the .toml extension. TOML aims to be easy to read, to map unambiguously to dictionaries, and to be easy to parse to different data structures. TOML has an open-source specification that received community contributions. TOML is supported by many programming languages like C, C#, Dart, Elixir, Erlang, Go, Java, PHP, Python, Ruby, Swift, etc. The MIME type for TOML files is *application/toml*.
 
-## How to open TOML files ##
-
-To open TOML files, you can use the following:
-
-- Notepad
-- Notepad++
-- VS Code
-- Atom
-- IntelliJ IDEA
 
 ## TOML File Format ##
 

@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords": [ "csproj file", "csproj", "extension", "format", "What is a csproj file", "csproj file format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -13,7 +14,7 @@
       "parent" : "programming"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod" : "2021-05-21"
 }
 
 ## What is a CSProj file?

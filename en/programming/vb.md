@@ -39,11 +39,4 @@ Module Module1
 End Module
 ```
 
-## How to open VB files? ##
 
-Following applications can be used to open .VB files.
-
-* Microsoft Visual Studio
-* Microsoft Notepad
-* Notepad++
-* MonoDevelop
