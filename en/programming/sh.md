@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords": [ "sh file", ".sh file", "extension", "format", "sh file example", "sh file format", "how to run sh file" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -13,7 +14,7 @@
       "parent" : "programming"
     }
   },
-  "lastmod" : "2020-09-10"
+  "lastmod" : "2021-05-21"
 }
 
 ## What is a SH file?
@@ -29,7 +30,7 @@ SH files are written in plain text following the defined syntax. These script fi
  * `Batch Jobs` - Several commands can be be executed automatically that would otherwise need to be entered manually. This removes the need to wait for a user to trigger each stage of the sequence.
  * `Generalization` - Using simple loops, much more generalization is achieved for operations such as conversion of images from one fromat to another.
 
-## SH Script Example
+## SH file example
 
 ```
 $ echo '#!/bin/sh' > my-script.sh
@@ -41,6 +42,16 @@ $ chmod 755 my-script.sh
 $ ./my-script.sh
 Hello World
 ```
+## How to run SH file?
+The SH files usually run on Linux, even in Windows you need to connect with a Linux terminal using softwares such as Putty to run the sh files. Following are the steps to run an SH file on a Linux terminal.
+
+1. Open the Linux terminal and go to the directory where the SH file is located.
+2. By Using `chmod` command, set execute permission on your script (if not set already).
+3. Run script using one of the following
+	1. `./filename.sh`
+	2.  `sh filename.sh`
+	3.  `bash script-name-here.sh`
+
 ## References
 
 * [Bashscripting for Beginners](https://help.ubuntu.com/community/Beginners/BashScripting)
