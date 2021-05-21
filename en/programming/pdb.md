@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords": [ "pdb file", "pdb", "extension", "format", "What is a pdb file", "pdb file format", "PDB metadata" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -42,9 +43,12 @@ PDB files consist of multiple streams where each stream acts as a virtual indivi
 
 Each stream in a PDB file comprises of several pages which are not necessarily consecutively numbered.
 
-## PDB header
+### PDB header
 
 A PDB file beings with a Header that consists of a signature for identifying and validating the specific format. The length of the signature depends on the PDB format. The header may be longer than a single page.
+
+### PDB Metadata
+The PDB metadata is responsible to recognize all of the component streams, giving the length, and sequence of pages for each stream. Orders are given to streams consecutively; starting with 0. There is also a an un-ordered root stream, which contains some of the metadata.
 
 ## References
  * [PDB - Wikipedia](https://en.wikipedia.org/wiki/Program_database)
