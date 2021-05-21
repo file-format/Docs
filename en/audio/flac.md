@@ -75,16 +75,6 @@ This is an overview of the FLAC bitstream.
   - **SUBFRAME**: To decrease the complexity, individual subframes are coded separately within a frame (one frame per channel).
   - **FRAME_FOOTER**: Contains the CRC of the complete frame.
 
-## How to Open FLAC Files ##
-
-FLAC files can be opened using the following applications:
-
-- VLC media player
-- Microsoft Windows Media Player
-- jetAudio
-- GoldWave
-- VUPlayer
-
 ## References ##
 
 - [FLAC - Wikipedia](https://en.wikipedia.org/wiki/FLAC)

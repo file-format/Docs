@@ -49,16 +49,6 @@ The MP3 format was invented and developed by a German Company, Fraunhofer-Gesell
 
 An MP3 file consists of MP3 frames where each frame consists of a header and a data block. The frames are not independent and cannot usually be extracted at arbitrary frame boundaries. The data blocks of file contains information about the audio in terms of frequencies and amplitudes. The sync word in the header identifies the beginning of a valid frame. This is followed by 3 bits where the frist bit shows that it is an MPEG standard and remaining 2 bits show that layer 3 is used; hence MPEG-1 Audio Layer 3 or MP3. After this, the values will differ, depending on the MP3 file.[ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization)/[IEC](https://en.wikipedia.org/wiki/International_Electrotechnical_Commission) 11172-3 defines the range of values for each section of the header along with the specification of the header. Most MP3 files today contain [ID3](https://en.wikipedia.org/wiki/ID3) [metadata](https://en.wikipedia.org/wiki/Metadata), which precedes or follows the MP3 frames, as noted in the diagram. The data stream can contain an optional checksum.
 
-## How to open MP3 file? ##
-
-A number of media players support playing MP3 files. Some of these are as follow:
-
-* Microsoft Windows Media Player
-* VLC Player
-* JetAudio
-* Apple iTunes
-* QuickTime Player
-
 ## References ##
 
 * [MP3 - By Wikipedia](https://en.wikipedia.org/wiki/MP3)

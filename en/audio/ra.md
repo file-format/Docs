@@ -46,19 +46,6 @@ Here is a list of audio codecs each identified by a four character code along wi
 |racp|10|
 |ralf|10|
 
-## How to Open RA Files ##
-
-The official player for RealMedia is the RealPlayer. RealNetwork discouraged the development of alternate players but in recent years, it made an effort to be more open and founded the Helix Community. Even though the Helix player is open source, RealNetworks has kept some of the codecs proprietary hence Helix player can not play all RealAudio files.
-
-Even though RealNetworks did not disclose the technical details regarding RA, it was noticed that some codecs resembled those used in cellular telephones and digital televisions. As those formats were documented in detail, other players were created using that information.
-
-RA files can be opened using the following applications:
-
-- RealPlayer
-- VLC media player
-- KMPlayer
-- MPlayer
-
 ## References ##
 
 - [RealAudio - Wikipedia](https://en.wikipedia.org/wiki/RealAudio)

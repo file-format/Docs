@@ -21,22 +21,9 @@
 
 Opus is an audio file format created by Xiph.Org foundation and later being standardized by IETF (Internet Engineering Task Force). It has been developed mainly for internet streaming, Voice over IP (VOIP), video conferencing and in-game chat that is why it is designed to retain low-latency while maintaining a real time interactive communication. Keeping the sound quality of an Opus file, many blind listening tests have marked Opus as high quality audio format than any other audio format at any given bitrate.
 
-
 ## OPUS File Format Specifications ##
 
-Opus format uses both SILK (used by Skype) and Xiph.Org codecs and supports variable bit rates from 6 kb/s to 510 kb/s. Opus extension uses the speech oriented LPC-based SILK algorithm and the lower-latency MDCT-based CELT algorithm, sometimes switching between both or sometimes by combining both algorithms to provide maximum efficiency. Files in Opus format have extension .opus. Unlike Vorbis file format, large codebooks are not required by Opus for each individual file, that is the reason why this format is comparatively efficient. 
-
-
-## How to Open/Play OPUS files? ##
-
-The compatibility rate of Opus file is high, as it can be opened with many shareware media players such as:
-
-* VLC
-* Window Media Player
-* SMPlayer
-* Winamp
-* Xmplay
-
+Opus format uses both SILK (used by Skype) and Xiph.Org codecs and supports variable bit rates from 6 kb/s to 510 kb/s. Opus extension uses the speech oriented LPC-based SILK algorithm and the lower-latency MDCT-based CELT algorithm, sometimes switching between both or sometimes by combining both algorithms to provide maximum efficiency. Files in Opus format have extension .opus. Unlike Vorbis file format, large codebooks are not required by Opus for each individual file, that is the reason why this format is comparatively efficient.
 
 ## References ##
 

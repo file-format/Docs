@@ -48,15 +48,6 @@ The main differences between AAC and MP3 in terms of improvements are as follow:
 * Supports enhanced effectiveness of compression usingTemporal Noise Shaping (TNS), the prediction coefficients of MDCT-time (long term prediction), parametric stereo, perceptual noise substitution, spectral band replication (SBR).
 * more flexible joint stereo (different methods can be used in different frequency ranges);
 
-## How to Open/Play AAC files? ##
-
-Despite being MP3 more popular as predecessor of AAC, the lateral enjoys almost equal attention for the reason that it is being used as default audio format for a number of popular video/audio streaming agencies as well as audio hardware. Some popular programs that can open or play such files include:
-
-* Apple iTunes
-* VideoLAN VLC media player
-* JetAudio
-* MediaPlayer Classic
-
 ## References ##
 
 * [AAC - By Wikipedia](https://en.wikipedia.org/wiki/Advanced_Audio_Coding)

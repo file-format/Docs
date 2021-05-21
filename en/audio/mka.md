@@ -26,14 +26,6 @@ The project originated in 2002 in Russia with Lasse Kärkkäinen as the lead dev
 
 For information regarding the design and structure of Matroska multimedia container, please see the Matroska Design and Matroska Structure section of [MKV](/video/mkv/).
 
-## How to Play MKA Files ##
-
-MKA format audio files can be opened using a variety of audio players including the following:
-
-- VLC media player
-- MPlayer
-- Microsoft Windows Media Player
-
 ## Advantages of using MKA format instead of the original audio formats like MP3 ##
 
 Here are some of the advantages of using MKA format over the original audio formats:

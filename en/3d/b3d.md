@@ -23,23 +23,6 @@ A file with .b3d extension is a model file used by Blitz3D which may contain vid
 ## Brief history of Blitz3D
 The Blitz3D was basically released for Microsoft Windows operating system in September 2001, to compete with other similar game-development languages. Blitz3D was an upgraded version over the earlier 2D engine BlitzBasic, which extended its command-set with the addition of an API for a DirectX 7-based 3D engine. The Blitz3D users should also compare BlitzMax, which is a later engine by BlitzBasic. The BlitzMax is a complex but more powerful version of Blitz3D, which supports object-oriented programming languages. It is an updated graphics API to better suit Unicode characters, OpenGL, and exporting to OSX and Linux instead of only Windows.
 
-## How to open B3D file? ##
-
-If you are not being able to open the B3D file on your computer; there may be many causes. The most important cause is that B3D supported softwares are not installed on your device. In this case you need to see the following points as a guideline:
-
-- Install the well suited software to run the file.
-- If still you are facing difficulty to open the .b3d file; you must check the version of the software and see either that is supporting .b3d files or not. Some files can be supported by the old version and some by the latest one so, must check the details.
-- After installing the appropriate verion of software make sure that it is set as the default application to open B3D files.
-
-### Softwares that can open the B3D files ###
-The B3D files can be opened in the following softwares:
-
-|Operating System| Software|
----|---|
-|Microsoft Windows|Blitz Research Blitz3D, Ultimate Unwrap 3D with Blitz3D plug-in, Irrlicht, Blender|
-|MacOS|Irrlicht, Blender|
-|Linux|Irrlicht, Blender|
-
 ## B3D Example
 A b3d file which contain 1 TEXS chunk, 1 BRUS chunk and 1 NODE chunk, will look like this:
 

@@ -35,10 +35,6 @@ Not much details can be found about the RVM file format other than that it can b
  * Translucency (via RVS file)
  * PDMS origin points
 
-## How to open RVM file?
-
- * [AVEVA E3D Design](https://www.aveva.com/en/products/e3d-design/)
-
 ## References
 
  * [RVM Parser](https://github.com/cdyk/rvmparser)

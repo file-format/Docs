@@ -41,4 +41,3 @@ struct WMA_TYPE_SPECIFIC_DATA
 ## References
 
 * [ASF Overview - Microsoft](https://docs.microsoft.com/en-us/windows/win32/wmformat/overview-of-the-asf-format?redirectedfrom=MSDN)
-*

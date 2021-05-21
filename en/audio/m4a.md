@@ -41,11 +41,6 @@ First chunk will be of type "ftype" and has a sub-type at offset 8. The M4A defi
 
 Iterating chunks, until chunk of unknown type is detected, It will compose M4A (MPEG-4 Audio) file.
 
-
-
-
-
-
 ## References ##
 
 * [MPEG-4 Part 14 - By Wikipedia](https://en.wikipedia.org/wiki/MPEG-4_Part_14)
