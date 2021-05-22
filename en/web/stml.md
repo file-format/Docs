@@ -18,11 +18,11 @@
 
 ## What is an STML file?
 
-A file with .shtml extension is a webpage that is written in HTML and includes server instructions. It may also contain server-side includes similar to ASP files for faster loading. The server side files can also contain executable code that can make the server to load slower than usual. SHTML are similar to HTML but they also allow the use of simple server commands. These server commands are performed in a simple computer programming language called Server Side Includes (SSI). SHTML has been largely superseded by other server side programming languages such as PHP includes.
+A file with .stml extension is a webpage with server side instructions that are executed when a user loads the page in web browser. STML pages contains server side code that contains server side includes to perform tasks that are not possible to achieve with plain HTML. Though similar to [HTML](/web/html/), STML offers more power by running the commands on server, also called Server Side Includes (SSI). With the introduction of new programming languages with server side scripting such as PHP, the use of STML is reduced though it is still supported by all server side technologies. STML files can be opened in any text editor and edited for updating the commands.
 
 ## STML File Format
 
-SHTML files are written in plain text and use the [SSI commands](https://www.w3.org/Jigsaw/Doc/User/SSI.html) that are executed on server side. These server side commands can be used to even connect to database using the database drivers and fetch users data from tables.
+STML is based on plain ascii text file format that is human readable. However,it follows the syntax as defined and exercised using the [SSI commands](https://www.w3.org/Jigsaw/Doc/User/SSI.html) that are executed on server side. Like any other server side scripting language, STML can use the server side commands to perform tasks such as page visitor counter, web page calendar, retrieve records from database, and similar others.
 
 ## STML Example
 
