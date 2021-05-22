@@ -7,7 +7,7 @@
   "toc" : true,
   "title" : "STML - SSI HTML File",
   "description":"Learn about STML file format and APIs that can create and open STML files.",
-  "linktitle" : "SHTML",
+  "linktitle" : "STML",
   "menu" : {
     "docs" : {
       "parent" : "web"
