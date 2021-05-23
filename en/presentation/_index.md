@@ -18,7 +18,7 @@
   "lastmod" : "2019-09-10"
 }
 
-You must be familiar with **PPTX** and **PPT** extension files while working with Microsoft PowerPoint. These are Presentation file formats that store collection of records to accommodate presentation data such as slides, shapes, text, animations, video, audio and embedded objects. A presentation can be saved/converted into other file formats as well such as PDF, BMP, PNG, JPEG, and XPS. PowerPoint Viewer lets you a number of supported Presentation file formats and is available for free.
+You must be familiar with **PPTX** and **PPT** extension files, these are Presentation file formats that store collection of records to accommodate presentation data such as: slides, shapes, text, animations, video, audio and embedded objects. A presentation can be saved/converted into other file formats as well such as PDF, BMP, PNG, JPEG, and XPS.
 
 Common Presentation file extensions and their associated file formats include **[PPTX](/presentation/pptx/)**, **[PPT](/presentation/ppt/)** and **[ODP](/presentation/odp/)**.
 

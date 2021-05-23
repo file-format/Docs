@@ -18,7 +18,7 @@
   "lastmod" : "2019-09-10"
 }
 
-A GIS (Geographic Information System) map file consists of spatial or geographic information about certain location or area. A GIS mapping software is a program or set of programs that present the spatial or geographical data to viewers for visualization, analysis and management. A GIS file can be created manually, extracted from a GPS device or recorded through remote sensing devices and applications. GIS finds it usage in almost all fields of life; from agriculture to town planning, resources analysis, urban planning and for creation of strategies to solve problems. Google maps is one well-known GIS system that displays geographic and imagery data over an interactive map.
+A GIS (Geographic Information System) map file consists of spatial or geographic information about certain location or area. A GIS mapping software is a program or set of programs that present the spatial or geographical data to viewers for visualization, analysis and management. A GIS file can be created manually, extracted from a GPS device or recorded through remote sensing devices and applications. GIS finds it usage in almost all fields of life; from agriculture to town planning, resources analysis, urban planning and for creation of strategies to solve problems.
 
 Common GIS file extensions and their file formats include **[GPX](/gis/gpx/)** (GPS Exchange File Format), **[KML](/gis/kml/)** (Keyhole Markup Language File) and **[SHP](/gis/shp/)** (ESRI Shapefile).
 

@@ -14,7 +14,7 @@ slug:
 aliases: []
 toc: false
 ---
-A file format describes the structure of data in a file that applications follow to read or create such files. For example, a Microsoft Excel Spreadsheet saved with .xls extension can be opened in Microsoft Excel as well as other programs. However, other programs may not be able to read all features of XLS since it is a Microsoft proprietary file format.
+A file format describes the structure of data in a file that applications follow to read or create such files.
 
 File types can be grouped into categories such as vector file formats, spreadsheet file formats, video file formats, image file formats, 3D file formats, and a number of others. A file can also be converted into another file format such as BMP to PNG.
 
