@@ -24,14 +24,6 @@ Common spreadsheet file extensions and their file formats include **[XLSX](/spre
 
 Got queries related to Spreadsheet file formats? Head on to our community [forums](https://forum.fileformat.com/c/spreadsheet) to benefit from the knowledge shared by File Format experts.
 
-## List of Spreadsheet Software ##
-
-Several applications are available to open, edit and view these formats including:
-
-* Microsoft Excel
-* NeoOffice
-* LibreOffice
-* Google Sheets
 
 ## List of Spreadsheet File Extensions and Associated File Formats
 
