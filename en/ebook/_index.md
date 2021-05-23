@@ -17,7 +17,7 @@
   "lastmod" : "2020-09-01"
 }
 
-Ebook files are electronic files that can be opened on digital devices known as eReaders. An eReader can be any device such as a computer, a tablet or a smartphone. The most popular ebook file format is the XML based ePub that can easily be read by the application. An ebook can contain different types of contents such as text, image, and video.
+Ebook files are electronic files that can be opened on digital devices known as eReaders. An eReader can be any device such as a computer, a tablet or a smartphone. The most popular ebook file format is the XML based ePub. An ebook can contain different types of contents such as text, image, and video.
 
 Common ebook file extensions and their file formats include **[EPUB](/ebook/epub/)** (electronic publication), **[FB2](/ebook/fb2/)** (FictionBook 2.0) and **[Mobi](/ebook/mobi/)** (MobiPocket eBook File).
 
