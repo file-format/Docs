@@ -17,9 +17,9 @@
   "lastmod" : "2019-09-10"
 }
 
-Portable Document Format (PDF) is a type of document created by Adobe back in 1990s. The purpose of this file format was to introduce a standard for representation of documents and other reference material in a format that is independent of application software, hardware as well as Operating System. PDF files can be opened in Adobe Acrobat Reader/Writer as well in most modern browsers like Chrome, Safari, Firefox via extensions/plug-ins. Most of the commercially available software suites also offer conversion of their documents to PDF file format without the requirement of any additional software component. Thus, PDF file format has full capability to contain information like text, images, hyperlinks, form-fields, rich media, digital signatures, attachments, metadata, Geospatial features and 3D objects in it that can become as part of source document.
+Portable Document Format (PDF) is a type of document created by Adobe back in 1990s. The purpose of this file format was to introduce a standard for representation of documents and other reference material in a format that is independent of application software, hardware as well as Operating System. The PDF file format has full capability to contain information like text, images, hyperlinks, form-fields, rich media, digital signatures, attachments, metadata, Geospatial features and 3D objects in it that can become as part of source document.
 
-In most of the cases, existing documents are converted to PDF rather than creating a new PDF from scratch. But that doesn't mean there are no software for creation or manipulation of PDF files. Adobe Writer is one of Adobe's own software application for creating PDF files. In addition, there are APIs available Aspose.PDF that lets you generate PDF files from scratch.
+In most of the cases, existing documents are converted to PDF rather than creating a new PDF from scratch. But that doesn't mean there are no software for creation or manipulation of PDF files.
 
 # PDF Brief History #
 

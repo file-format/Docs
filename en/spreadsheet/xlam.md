@@ -16,11 +16,9 @@ lastmod: 2021-06-01
 
 ## What is an XLAM file? ##
 
-XLAM is an Excel Macro-Enabled Add-In file that is used to add new functions to Excel. An Add-In is a supplemental program that runs additional code and provides additional functionality for Excel spreadsheets. XLAM files are stored with the .xlam extension. XLAM files are XML-based files similar to [XLSM](/spreadsheet/xlsm/) and [XLSX](/spreadsheet/xlsx/) file formats and are saved with ZIP compression to reduce the overall file size.
+XLAM is an Macro-Enabled Add-In file that is used to add new functions to spreadsheets. An Add-In is a supplemental program that runs additional code and provides additional functionality for spreadsheets. XLAM files are stored with the .xlam extension. XLAM files are XML-based files similar to [XLSM](/spreadsheet/xlsm/) and [XLSX](/spreadsheet/xlsx/) file formats and are saved with ZIP compression to reduce the overall file size.
 
-## How to create XLAM files ##
-
-Inside Excel, use the Alt + F11 shortcut to open VB Editor. Add the code that you want to add. A simple example can be an Add function as shown below.
+### Example ###
 
 ```cmd
 Public Function Add(num1 As Double, num2 As Double)
@@ -32,6 +30,4 @@ After this, save the file with the .xlam extension.
 
 ## References ##
 
-- [File format reference for Word, Excel, and PowerPoint](https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
-- [How to Create and Use an Excel Add-in](https://trumpexcel.com/excel-add-in/)
-- [XLAM](https://filext.com/file-extension/XLAM)
+- [File format reference - ](https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
