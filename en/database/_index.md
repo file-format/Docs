@@ -19,7 +19,7 @@
 
 A database is a collection of data that is organized in tables and maintained on a computer storage device and accessed electronically. Relational databases store data in database tables that are linked to each other via formal design and modeling techniques. Data in a database is analyzed using Database Management System (DBMS) that is the main source of interaction with end users, applications and the database itself.
 
-Popular database file extensions and their file formats include **SQLite**, **.DB**, **.ACCDB**, and **.MDB**.
+Popular database file extensions and their file formats include [SQLite](/database/sqlite/), [DDL](/database/ddl/), [ACCDB](/database/accdb/), and [MDB](/database/mdb/).
 
 ## List of Database File Extensions and Associated File Formats
 
