@@ -1,5 +1,6 @@
 {
   "date" : "2021-05-23",
+  "keywords": [ "report file", "reporting software", "extension", "format" ],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
@@ -17,11 +18,10 @@
   "lastmod" : "2021-05-23"
 }
 
-Reporting files belong to certain reporting softwares contain the design structure to render the data from a typical data source. A reporting software provides particular elements to create the sections of the reports for the different business purposes. These elements might be tables, charts, visual presentations, and other styles to make the information easier to parse. 
+Reporting files belong to certain reporting softwares containing the design structure to render the data from one or multiple data sources. A reporting software provides particular elements to create the different sections of a report for the different business purposes. These reporting elements might be tables, charts, visual presentations, and other styles to make the information easier to parse. 
 
 Some popular reporting file formats are [RDL](/reporting/rdl/), [RDLC](/reporting/rdlc) and [RPL](/reporting/rpl/)
 
-Got queries related to Project Management file formats? Head on to our community [forums](https://forum.fileformat.com/c/Reporting) to benefit from the knowledge shared by File Format experts.
 
 ## List of Reporting File Extensions and Associated File Formats
 
