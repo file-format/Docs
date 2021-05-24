@@ -24,8 +24,3 @@ A file with extension .alz is a compressed file, mainly related to ALZip by ESTs
 ## Brief History ##
 
 The ALZ file format was released in 1999. ALZip and the ALZ file format do not generally impose any limit on file size and expansion limit. This software permits the Windows System to dictate the size limitations for its output files.
-
-## References ##
-
-  *  [ReviverSoft - ALZ](https://www.reviversoft.com/en/file-extensions/ALZ)
-  *  [FileViewPro - ALZ](https://www.fileviewpro.com/en/file-extension-alz/)
