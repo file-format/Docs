@@ -11,14 +11,14 @@
   "linktitle" : "Reporting File Formats",
   "menu" : {
     "docs" : {
-      "parent" : "Reporting",
+      "parent" : "reporting",
       "weight" : "01"
     }
   },
   "lastmod" : "2021-05-23"
 }
 
-Reporting files belong to certain reporting softwares containing the design structure to render the data from one or multiple data sources. A reporting software provides particular elements to create the different sections of a report for the different business purposes. These reporting elements might be tables, charts, visual presentations, and other styles to make the information easier to parse. 
+Reporting files belong to certain reporting softwares containing the design structure to render the data from one or multiple data sources. A reporting software provides particular elements to create the different sections of a report for the different business purposes. These reporting elements might be tables, charts, visual presentations, and other styles to make the information easier to parse.
 
 Some popular reporting file formats are [RDL](/reporting/rdl/), [RDLC](/reporting/rdlc) and [RPL](/reporting/rpl/)
 

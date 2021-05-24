@@ -11,7 +11,7 @@
   "linktitle" : "RDL",
   "menu" : {
     "docs" : {
-      "parent" : "Reporting"
+      "parent" : "reporting"
     }
   },
   "lastmod" : "2021-03-01"
@@ -25,7 +25,7 @@ The RDL (Report Definition Language) is a benchmark set by the Microsoft for def
 An XML Schema Definition (XSD) file validates the RDL file. The schema defines the rules for where RDL elements can occur in an .rdl file. An RDL element can be simple or complex. A simple element does not have child elements or attributes and a complex element does have children and optionally, attributes.
 
 ## Creating RDL
-Since RDL is open and extensible in nature, many of application and tools can be built that generate RDL files based on its XML schema. One of the simplest ways to create RDL from an application is to use the Microsoft .NET Framework classes of the **System.Xml** namespace and System.Linq namespace. Particularly, the **XmlTextWriter** class, can be used to write RDL.You can generate a complete report definition from start to finish in any .NET Framework application by using **XmlTextWriter**. Developers can also add custom report items with custom properties to extend the RDL. 
+Since RDL is open and extensible in nature, many of application and tools can be built that generate RDL files based on its XML schema. One of the simplest ways to create RDL from an application is to use the Microsoft .NET Framework classes of the **System.Xml** namespace and System.Linq namespace. Particularly, the **XmlTextWriter** class, can be used to write RDL.You can generate a complete report definition from start to finish in any .NET Framework application by using **XmlTextWriter**. Developers can also add custom report items with custom properties to extend the RDL.
 
 ## RDL Types
 The following table lists the types and attributes used in RDL elements.
@@ -62,4 +62,3 @@ In RDL, the DataType Enumeration defines the data type of an attribute, expressi
 
 - [Report Definition Language (Wikipedia)](https://en.wikipedia.org/wiki/Report_Definition_Language)
 - [Report Definition Language (SSRS)](https://docs.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
-
