@@ -28,4 +28,3 @@ Opus format uses both SILK (used by Skype) and Xiph.Org codecs and supports vari
 ## References ##
 
 * [OPUS - By Wikipedia](https://en.wikipedia.org/wiki/Opus_(audio_format))
-* [Video Converter Formats](https://www.videoconverter.com/file-formats/opus/)

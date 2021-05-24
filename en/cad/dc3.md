@@ -24,6 +24,3 @@ A file with .DC3 extension is a 3D drawing created with DesignCAD 3D MAX which i
 ## DC3 File Format
 
 A DC3 file contains 3D drawing information in ASCII text format that can be opened in any text editor. However, the meaning of its contents can only be understood by applications that understand the underlying file format.
-
-## References
- * [DesignCAD 3D MAX]()

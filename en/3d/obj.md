@@ -67,6 +67,4 @@ OBJ file allows color and texture information to store in an associated file for
 
 ## References
 
-* Object Files (.obj)
-* OBJ File Format – Simply Explained for CAD and 3D Printing
 * [Wavefront .obj file](https://en.wikipedia.org/wiki/Wavefront_.obj_file)
