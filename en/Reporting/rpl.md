@@ -11,7 +11,7 @@
   "linktitle" : "RPL",
   "menu" : {
     "docs" : {
-      "parent" : "Reporting"
+      "parent" : "reporting"
     }
   },
   "lastmod" : "2021-03-02"
@@ -42,8 +42,8 @@ The stream structure consists of a series of records. A record contains zero or 
 The RPL stream must have just one Report record and the stream must be a series of binary records that keep the report hierarchy.
 
 #### Record
-The record is a basic building block used to keep the information about a report. A record consists of a varying-length sequence of bytes. A record consists of two components: 
-- A record type 
+The record is a basic building block used to keep the information about a report. A record consists of a varying-length sequence of bytes. A record consists of two components:
+- A record type
 - The record data that is specific to that record type.
 The record type is one byte that defines what type of information is specified by the record and how the structure of the record data concerning to the record is ordered and structured. The record value is dependent on the type of data that is particular to that record.
 
@@ -68,9 +68,9 @@ The following table defines the data types in an RPL stream.
 
 ### Report Structures
  The report structures include the definitions and sizes of their relevant structures and elements.
- 
+
  Following list specifies the report structures:
- 
+
 - Report
 - Version
 - Report Properties
@@ -300,7 +300,7 @@ Following list shows the enumerations that can be used in the RPL stream:
 - TablixMemberStateValues
 - TablixMemberDefStateValues
 - RPLSize
- 
+
 
 
 
@@ -308,4 +308,3 @@ Following list shows the enumerations that can be used in the RPL stream:
 ## References ##
 
 - [Report Page Layout (RPL) Binary Stream Format](https://docs.microsoft.com/en-us/openspecs/sql_server_protocols/ms-rpl/9c4ff7ba-f6da-4092-9670-aa0e54e73887)
-

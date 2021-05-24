@@ -11,7 +11,7 @@
   "linktitle" : "RDLC",
   "menu" : {
     "docs" : {
-      "parent" : "Reporting"
+      "parent" : "reporting"
     }
   },
   "lastmod" : "2021-03-02"
@@ -44,5 +44,3 @@ You can only preview a report by running it in a **ReportViewer** control. Pleas
 ## References ##
 
 - [Creating Client Report Definition (.rdlc) Files](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
-- [What is RDLC File?](https://cybarlab.com/rdlc)
-
