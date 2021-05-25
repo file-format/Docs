@@ -69,5 +69,5 @@ The following table shows the partial system header format:
 ## References ##
 
 - [MPEG-1 - Wikipedia](https://en.wikipedia.org/wiki/MPEG-1)
-
+- [MPEG (Moving Picture Experts Group) Definition - TechTerms](https://techterms.com/definition/mpeg)
 

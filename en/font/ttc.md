@@ -1,6 +1,5 @@
 {
   "date" : "2021-02-25",
-  "keywords": [ "ttc file", "ttc file format", "extension", "format" ],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
@@ -18,7 +17,7 @@
 }
 
 ## What is a TTC file?
-The TTC is abbreviated as TrueType Collection is an extension of True Type format. A TTC file can combine the multiple font files into it. These files are beneficial for combining multiple fonts that share many glyphs in common. Before Windows 2000, the TTC files were used in Chinese, Japanese, and Korean versions of windows but later on the support were available for all regions.  
+The TTC is abbreviated as TrueType Collection. A TTC file can combine the multiple font files into it. These files are beneficial for combining multiple fonts that share many glyphs in common. Before Windows 2000, the TTC files were used in Chinese, Japanese, and Korean versions of windows but later on the support were available for all regions.  
 
 
 ## The Structure of Font Collection File 
