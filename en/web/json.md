@@ -69,6 +69,5 @@ JSON objects can also be nested to represent the structure of the data. Given be
 
 ## References ##
 
-- [JSON Introduction - W3schools](https://www.w3schools.com/js/js_json_intro.asp)
 - [JSON - Wikipedia](https://en.wikipedia.org/wiki/CSS)
 - [An Introduction to JSON](https://www.digitalocean.com/community/tutorials/an-introduction-to-json)

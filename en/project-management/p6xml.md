@@ -65,4 +65,3 @@ Some common issues which may arise and cause misfunctioning of the P6XML format,
 ## References ##
 
 * [Oracle - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_eppm_xml_import_guide/190894.htm)
-* [ProjectManager](https://www.projectmanager.com/blog/what-is-primavera-p6)

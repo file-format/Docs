@@ -252,6 +252,5 @@ The output CSS will have the styles from all the imported files.
 
 ## References ##
 
-- [SCSS Introduction - W3schools](https://www.w3schools.com/sass/default.php)
 - [SCSS - Wikipedia](https://en.wikipedia.org/wiki/Sass_(stylesheet_language))
 - [Sass](https://sass-lang.com/)

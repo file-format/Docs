@@ -103,5 +103,4 @@ The Windows Printing System for most HP LaserJet printers provides two separate 
 
 ## References ##
 
-* [PCL - HP Page Descriptive Language](http://www.undocprint.org/formats/page_description_languages/pcl)
 * [PCL - By Wikipedia](https://en.wikipedia.org/wiki/Printer_Command_Language) 

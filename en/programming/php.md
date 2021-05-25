@@ -43,9 +43,4 @@ echo "Hello World!";
 </body>
 </html>
 ```
- 
 
-
-
-## References
- * [Introduction to PHP - W3](https://www.w3schools.com/php/default.asp)

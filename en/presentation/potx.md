@@ -81,7 +81,5 @@ and following xml files:
 
 ## References ##
 
-[Edit](https://wiki.fileformat.com/edit/Presentation/PPTX/WebHome?section#3)
-
 * [[MS-PPTX] - PPTX File Format](https://msdn.microsoft.com/en-us/library/dd926741(v#office.12).aspx)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)

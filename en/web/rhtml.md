@@ -36,4 +36,4 @@ The following example uses the simplest combination of HTML and Ruby on Rails to
 ```
 ## References
 
-* [W3C - HTML with Ruby on Rails](https://www.tutorialspoint.com/ruby-on-rails/rails-and-rhtml.htm)
+* [TutorialsPoint - Ruby on Rails](https://www.tutorialspoint.com/ruby-on-rails/rails-and-rhtml.htm)

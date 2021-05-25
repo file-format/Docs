@@ -62,4 +62,3 @@ SubRip is a free software program that runs on Windows. It extracts subtitles an
 ## References ##
 
 - [SRT - Wikipedia](https://en.wikipedia.org/wiki/SubRip)
-- [What is an SRT File? How to Create & Use SRT Files](https://www.rev.com/blog/resources/what-is-an-srt-file-format-create-use-srt-files)

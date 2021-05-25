@@ -56,5 +56,4 @@ The file name of the Java files should be the same as the class name. So the Jav
 
 ## References ##
 
-- [Java Introduction - W3schools](https://www.w3schools.com/java/default.asp)
 - [Java (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))

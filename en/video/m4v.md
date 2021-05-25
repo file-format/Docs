@@ -42,6 +42,5 @@ Advanced Audio Coding (AAC) is an audio codec for lossy digital audio compressio
 
 ### References ###
 
-* [https:~~/~~/en.wikipedia.org/wiki/M4V](https://en.wikipedia.org/wiki/M4V)
-* [https:~~/~~/en.wikipedia.org/wiki/H.264/MPEG-4_AVC](https://en.wikipedia.org/wiki/H.264/MPEG-4_AVC)
-* [https:~~/~~/www.vcodex.com/an-overview-of-h264-advanced-video-coding/](https://www.vcodex.com/an-overview-of-h264-advanced-video-coding/)
+* [Wikipedia - M4V](https://en.wikipedia.org/wiki/M4V)
+* [Wikipedia - MPEG-4_AVC](https://en.wikipedia.org/wiki/H.264/MPEG-4_AVC)

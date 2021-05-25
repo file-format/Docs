@@ -67,5 +67,4 @@ The frame header of a VP6 is as shown below that follows the big-endian bit pack
 
 ## References
 
-* [VP6 File Format ](https://wiki.multimedia.cx/index.php?title=On2_VP6)
 * [VP6 Wikipedia](https://en.wikipedia.org/wiki/VP6#:~:text=On2%20TrueMotion%20VP6%20is%20a,Video%2C%20and%20JavaFX%20media%20files.)

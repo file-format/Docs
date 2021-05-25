@@ -87,4 +87,3 @@ EPS files have become a standard format for importing and exporting PostScript l
 
 * [EPS File Format - Adobe](http://www.adobe.com/content/dam/acom/en/devnet/actionscript/articles/5002.EPSF_Spec.pdf)
 * [Encapsulated PostScript - By Wikipedia](https://en.wikipedia.org/wiki/Encapsulated_PostScript)
-* [The EPS file format | Prepressure.com](https://www.prepressure.com/library/file-formats/eps)

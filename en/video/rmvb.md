@@ -27,4 +27,3 @@ RMVB has become a popular format for the distribution of Anime and Asian movies 
 ## References ##
 
 - [RMVB - Wikipedia](https://en.wikipedia.org/wiki/RMVB)
-- [RMVB Extension](https://extension.nirsoft.net/rmvb)

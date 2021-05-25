@@ -55,6 +55,3 @@ The ASPError object was implemented in ASP 3.0 and is available in IIS5 and late
 
 **Note:** The ASPError object is created when Server.GetLastError is called, so the error information can only be accessed by using the Server.GetLastError method.
 
-## References ##
-
-* [ASP - By W3C](https://www.w3schools.com/asp/default.asp)

@@ -65,5 +65,3 @@ The following are the types of chunks present in the RealMedia file:
 ## References ##
 
 - [RealMedia - Wikipedia](https://en.wikipedia.org/wiki/RealMedia)
-- [RealMedia](https://wiki.multimedia.cx/index.php/RealMedia)
-- [RM Extension](https://extension.nirsoft.net/rm)

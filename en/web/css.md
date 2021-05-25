@@ -123,5 +123,4 @@ The left side of the image displays the HTML document without the styles applied
 
 ## References ##
 
-- [CSS Introduction - W3schools](https://www.w3schools.com/css/default.asp)
 - [CSS - Wikipedia](https://en.wikipedia.org/wiki/CSS)

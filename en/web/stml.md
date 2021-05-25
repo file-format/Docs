@@ -65,4 +65,3 @@ Server side instructions are used in applications such as for page visitor count
 ## References
 
 * [Server Side Includes](https://en.wikipedia.org/wiki/Server_Side_Includes)
-* [W3C - Server Side Include Commands](https://www.w3.org/Jigsaw/Doc/User/SSI.html)

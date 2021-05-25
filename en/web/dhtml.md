@@ -76,5 +76,4 @@ This code writes the text "Hello World" to output in browser.
 
 ## References
 
-* [DHTML - By w3schools](https://w3schools.sinsixx.com/dhtml/dhtml_intro.asp.htm)
 * [Dynamic HTML - Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)

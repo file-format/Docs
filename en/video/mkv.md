@@ -158,7 +158,5 @@ If you do not want a new media player and prefer to use your existing player, yo
 
 ## References ##
 
-- [What Is an MKV File?](https://www.lifewire.com/mkv-file-4135396)
-- [What Is an MKV File and How Do You Play Them?](https://www.howtogeek.com/200736/what-is-an-mkv-file-and-how-do-you-play-them/)
 - [Matroska by Wikipedia](https://en.wikipedia.org/wiki/Matroska)
 - [Extensible Binary Meta Language](https://tools.ietf.org/id/draft-ietf-cellar-ebml-03.html#:~:text=EBML%20uses%20a%20system%20of,other%20EBML%20Elements%20%2C%20or%20both.)
