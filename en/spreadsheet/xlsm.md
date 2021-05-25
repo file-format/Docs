@@ -27,5 +27,5 @@ Excel provides easy to use steps for recording a macro. It requires you have Dev
 
 ## References ##
 
-* [[MS-XLSX] - .Xlsx File Format](https://msdn.microsoft.com/en-us/library/dd922181(v#office.12).aspx)
+* [MS-XLSX File Format](https://msdn.microsoft.com/en-us/library/dd922181(v#office.12).aspx)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)

@@ -34,4 +34,3 @@ AVI was introduced by Microsoft in 1992 with the aim to provide a more robust an
 ## References ##
 
 * [AVI - By Wikipedia](https://en.wikipedia.org/wiki/Audio_Video_Interleave)
-* [FileInfo](https://fileinfo.com/extension/avi)

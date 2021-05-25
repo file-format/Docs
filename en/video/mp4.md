@@ -48,6 +48,3 @@ Here is a list of second-level atoms used in MP4:
 ## References ##
 
 - [MP4 - Wikipedia](https://en.wikipedia.org/wiki/MPEG-4_Part_14)
-- [What Is an MP4 File (and How Do I Open One)?](https://www.howtogeek.com/365037/what-is-an-mp4-file-and-how-do-i-open-one/)
-- [MP4 File Format](https://openmp4file.com/format.html)
-- [MP4 File Format Specification](https://www.filefix.org/format/mp4.html)

@@ -96,4 +96,3 @@ The following lines show how a Circle is represented using the SVG script.
 
 * [W3C SVG Specifications](https://www.w3.org/TR/SVG2/Overview.html)
 * [SVG - Wikipedia](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
-* [W3C - An introduction to SVG](https://www.w3schools.com/graphics/svg_intro.asp)

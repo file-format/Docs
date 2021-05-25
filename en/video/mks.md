@@ -60,6 +60,3 @@ The DVB subtitle format was introduced for regulating the transmission and displ
 ## References ##
 
 - [Matroska Subtitles](https://www.matroska.org/technical/subtitles.html)
-- [The Web Video Text Tracks Format](https://w3c.github.io/webvtt/)
-- [How to Convert PGS to SRT](https://www.videoconverterfactory.com/tips/pgs-to-srt.html)
-- [DVB Bitmap Subtitling](https://www.edgeware.tv/dvb-subtitling)

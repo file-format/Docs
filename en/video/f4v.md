@@ -46,4 +46,3 @@ F4V file format is based on the ISO base media file format (MPEG-4 Part 12) and 
 ## References ##
 
 - [Flash Video - Wikipedia](https://en.wikipedia.org/wiki/Flash_Video)
-- [Adobe Flash Video File Format Specification Version 10.1](http://download.macromedia.com/f4v/video_file_format_spec_v10_1.pdf)

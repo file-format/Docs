@@ -54,5 +54,5 @@ and following xml files:
 
 ## References ##
 
-* [[MS-XLSX] - .xlsx File Format](https://msdn.microsoft.com/en-us/library/dd922181(v#office.12).aspx)
+* [MS-XLSX File Format](https://msdn.microsoft.com/en-us/library/dd922181(v#office.12).aspx)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)

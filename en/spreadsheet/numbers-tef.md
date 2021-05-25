@@ -28,5 +28,4 @@ The Mac OS or iOS versions of Numbers open the **.numbers-tef** without any issu
 ## References ##
 
 * [Why is it when I save in Numbers, the file extension is .numbers-tef](https://ifelix.co.uk/tech/iwork/numbers/numbers001.html)
-* [How to work with iWork's new file formats](https://www.macworld.com/article/2063353/how-to-work-with-iworks-new-file-formats.html)
 

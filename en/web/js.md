@@ -99,5 +99,4 @@ function updateHeading() {
 
 ## References ##
 
-- [JS Introduction - W3schools](https://www.w3schools.com/js/default.asp)
 - [JS - Wikipedia](https://en.wikipedia.org/wiki/JavaScript)

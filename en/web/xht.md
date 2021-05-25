@@ -44,6 +44,4 @@ The following example of an XHT document defines the XML declarations.
 
 ## References ##
 
-* [XHTML<sup>TM</sup> 1.0 The Extensible HyperText Markup Language (Second Edition)](https://www.w3.org/TR/xhtml1/#xhtml)
-* [W3C Working Group Note 16 December 2010](https://www.w3.org/TR/2010/NOTE-xhtml2-20101216/introduction.html#s_intro_whatisxhtml2)
 * [A History of XHTML: From the 1990s to Today](https://www.brighthub.com/internet/web-development/articles/109224.aspx)

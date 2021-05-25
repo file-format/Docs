@@ -94,5 +94,4 @@ for name in names:
 
 ## References ##
 
-- [Python Introduction - W3schools](https://www.w3schools.com/python/default.asp)
 - [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))

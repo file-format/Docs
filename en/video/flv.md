@@ -50,4 +50,3 @@ After the header comes the Packets. The FLV file is split into multiple packets 
 ## References ##
 
 - [Flash Video - Wikipedia](https://en.wikipedia.org/wiki/Flash_Video)
-- [Adobe Flash Video File Format Specification Version 10.1](http://download.macromedia.com/f4v/video_file_format_spec_v10_1.pdf)

@@ -70,4 +70,3 @@ long some_function();
 ## **References** ##
 
 * [Class Implementation - By Wikipedia](https://en.wikipedia.org/wiki/Class_implementation_file)
-* [Introduction to C++ - W3 Schools](https://www.w3schools.in/cplusplus-tutorial/intro/)

@@ -76,5 +76,4 @@ The next chunk is located at offset 32+8#40 (hex: 28) and has a size 3,263,028 (
 
 ## References
 
-* [https://wikileaks.org/sony/docs/05/docs/Apple/qtff.pdf](https://wikileaks.org/sony/docs/05/docs/Apple/qtff.pdf)
 * [https://en.wikipedia.org/wiki/QuickTime_File_Format](https://en.wikipedia.org/wiki/QuickTime_File_Format)

@@ -83,4 +83,3 @@ The following is a simplified example of a CD catalog where each record contains
 ## References
 
 * [XML - By Wikipedia](https://en.wikipedia.org/wiki/XML)
-* [XML - W3Schools.com](https://www.w3schools.com/xml/xml_whatis.asp)
