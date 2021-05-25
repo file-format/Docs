@@ -33,7 +33,7 @@ Sometimes you might face a problem opening Amazon Kindle eBook data files even i
  *	Outdated device drivers 
  *	Doesn't have the acceptable system resources to open the file format
  
-## How to fix problems in HAN Files ##
+## Fix problems in HAN Files ##
 
  *	Install any antivirus to scan all files on the computer. In case of any virus in the file, the antivirus will help to sort out the problem conveniently
  *	A fault in software installation. Due to this problem, the file can’t associate with the right program properly. In this case, reinstallation of the related program can easily solve the problem

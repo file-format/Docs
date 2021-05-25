@@ -29,5 +29,4 @@ The MART files may be well suited for single files working, but if you many eboo
 
 ## References
 
-* [MART File Overview](https://www.reviversoft.com/file-extensions/mart#:~:text=MART%20files%20are%20MartView%20eBook,as%20they%20are%20e%2Dpublications.)
 * [Martview, Best Ebook Reader For PDF E-Books](https://www.ghacks.net/2011/04/15/martview-best-ebook-reader-for-pdf-e-books/)

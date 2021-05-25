@@ -27,4 +27,3 @@ LBR file format was designed by Gary P. Novosielski and has no technical details
 ## References
 
 * [LBR - Wikipedia](https://en.wikipedia.org/wiki/LBR_(file_format))
-* [LBR](http://fileformats.archiveteam.org/wiki/LBR)
