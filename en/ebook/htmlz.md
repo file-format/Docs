@@ -33,7 +33,3 @@ The common issue that arises when it is difficult to open and function the HTMLZ
  *	The file may be infected. For this, must install proper and authentic antivirus software
  *	The processer does not have enough hardware properties to give help in the opening of the HTMLZ file
  
-
-## References ##
-
-* [DataTypes.net](https://datatypes.net/open-htmlz-files)

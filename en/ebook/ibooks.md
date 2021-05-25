@@ -39,4 +39,3 @@ On January 19, 2012, Apple announced iBooks Author at an education-related speci
 ## References ##
 
 * [StackExchange](https://apple.stackexchange.com/questions/2587/what-ebook-formats-does-ibooks-support)
-* [ReviverSoft](https://www.reviversoft.com/file-extensions/ibooks?ncr=1&lang=en)

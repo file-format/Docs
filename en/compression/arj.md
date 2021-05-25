@@ -53,4 +53,3 @@ An ARJ file contains two types of headers:
 ## References ##
 
 - [ARJ - Wikipedia](https://en.wikipedia.org/wiki/ARJ)
-- [The ARJ Archive File Format](https://www.fileformat.info/format/arj/corion.htm)

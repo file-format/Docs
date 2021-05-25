@@ -35,7 +35,3 @@ The DMG file extension was developed by Apple and is mostly used on Macintosh co
    *  Can contain a partition table
    *  May contain any kind of filesystem like HFS+
    *  Functionality to compress the images
-
-## References ##
-
-  *  [ReviverSoft - DMG](https://www.reviversoft.com/en/file-extensions/dmg)

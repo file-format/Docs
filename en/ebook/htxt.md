@@ -30,6 +30,3 @@ Here is the list of some relevant issues that may arise, and found difficult to 
  *	The file may be corrupt or virus in it. The best option is the use of an up-to-date antivirus program to clear up any uncertainties
  *	A distinctive linkage fault. The program does not provide the outdated version of the HTXT file. The easiest solution to this error is in the form of an adaptation program or an older version of the program
 
-## References ##
-
-* [DataTypes.net](https://datatypes.net/open-htxt-files)
