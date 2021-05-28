@@ -27,11 +27,11 @@ The MPQ file format was first developed by Mike O'Brien for storing game data. S
 
 ## Supported Compression Algorithms ##
 
-* PKZIP
-* Huffman
-* zlib
-* bzip2
-* LZMA
+ *  PKZIP
+ *  Huffman
+ *  zlib
+ *  bzip2
+ *  LZMA
 
 ## References
 
