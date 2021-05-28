@@ -24,7 +24,7 @@ The files with the .acsm extension are called Adobe Content Server Message files
 ## How an ACSM file works?
 Since the Adobe Content Server is responsible to protect eBooks and other digital stuff. After purchase, the content is automatically linked to the buyer’s Adobe ID. The ID is private and can't be transferred to others. A user must set it up before purchasing any document with Adobe copy protection. The customers can't get access to their copy-protected docs without passing their Adobe ID to the Adobe server application running in the background.
 
-When the customers make their purchase, the ACSM is the only file they can download at first. The customer must have installed the Adobe Digital Editions software on their system and linked it to their Adobe ID to open the ACSM file. The Adobe Digital Editions will verify the ID for the authorization to convert the ACSM file. If authenticated, the user can download their eBook in ePUB or PDF format. Adobe Digital Editions also uses the ACSM file to recognize the download directory.
+When the customers make their purchase, the ACSM is the only file they can download at first. The customer must have installed the Adobe Digital Editions software on their system and linked it to their Adobe ID to open the ACSM file. The Adobe Digital Editions will verify the ID for the authorization to convert the ACSM file. If authenticated, the user can download their eBook in [EPUB](/ebook/epub/) or [PDF](/pdf/) format. Adobe Digital Editions also uses the ACSM file to recognize the download directory.
 
 ## References
 

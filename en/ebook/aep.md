@@ -19,7 +19,7 @@
 
 ## What is an AEP file? ##
 
-The file with .aep extension (which stands for **Activ E-Book Project**) is classified as an electronic book (eBook). The AEP files are created by using the same engine as that of Internet Explorer to ensure 100% compatibility. It contains the pages like a person can read a physical book. The pages of AEP files usually include the text, images, animations, and hyperlinks. Also, it supports HTML, DHTML, JPEG and PNG graphics, animations, JavaScript, VBScript, and many of the Internet Explorer plug-ins. An AEP file can be saved as a Windows executable file (EXE) so that it can be opened on Windows95 or later versions of Microsoft Windows.
+The file with .aep extension (which stands for **Activ E-Book Project**) is classified as an electronic book (eBook). The AEP files are created by using the same engine as that of Internet Explorer to ensure 100% compatibility. It contains the pages like a person can read a physical book. The pages of AEP files usually include the text, images, animations, and hyperlinks. Also, it supports [HTML](/web/html/), [DHTML](/web/dhtml/), [JPEG](/image/jpeg/) and [PNG](/image/png/) graphics, animations, [JavaScript](/web/js/), VBScript, and many of the Internet Explorer plug-ins. An AEP file can be saved as a Windows executable file (EXE) so that it can be opened on Windows95 or later versions of Microsoft Windows.
  
 
 ## AEP File Format ##
@@ -30,13 +30,13 @@ The AEP format files are created by using an AEC (Active E-Book Compiler) softwa
 
 If you are not being able to open and run the AEP file; it doesn't mean that you do not have a suitable software installed on your device. There might be some other issues which prevent the file to work properly. The possible problems might be one of the following:
 
-- Corruption of a AEP file.
-- Wrong links to the AEP file in registry entries.
+- Corruption of a AEP file
+- Wrong links to the AEP file in registry entries
 - Deleted description of the AEP from the Windows registry
 - Corrupted installation of an application that supports the AEP format
-- An infected AEP file with an undesirable malware.
-- The computer does not have sufficient hardware resources to operate the AEP file.
-- Drivers used by the computer to open a AEP file are out dated.
+- An infected AEP file with an undesirable malware
+- The computer does not have sufficient hardware resources to operate the AEP file
+- Drivers used by the computer to open a AEP file are outdated
 
 ## References
 
