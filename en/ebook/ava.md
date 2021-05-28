@@ -1,6 +1,6 @@
 {
   "date" : "2021-04-05",
-  "keywords" : [ "AVA", "AvaaBook eBook File", "File" ,"extension", "format", "E-Book", "file type"],
+  "keywords" : [ "AVA", "AvaaBook eBook File", "file" ,"extension", "format", "eBook", "file type"],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
@@ -14,23 +14,23 @@
       "parent" : "ebook"
     }
   },
-  "lastmod" : "2021-04-05"
+  "lastmod" : "2021-05-28"
 }
 
 ## What is an AVA file?
-The AVA files are actually belong to a persian e-book reading software known as AvaaPlayer. It seems a discontinued software; as we don't have any copy or information available on the internet. The Adobe Systems Incorporated the .ava file extension in their e-book reading software, but later on they stopped to provide services for Iranians. The data analysis shows that the AvaaPlayer users are mostly using Windows operating system; and they opened the software mostly in Google Chrome browser. Here are also many advanced Iranian e-book reading softwares available on app stores. Fidibo, Taaghche and Ketab-Rah are the most popular e-book service providers in the persian e-book market.
+
+The AVA files are actually belonging to a Persian eBook reading software known as AvaaPlayer. It seems a discontinued software; as we don't have any copy or information available on the internet. Adobe Systems Incorporated the .ava file extension in their eBook reading software, but later on, they stopped providing service to Iranians. The data analysis shows that the AvaaPlayer users mostly use Windows operating system, and they mostly opened the software in the Google Chrome browser.
 
 ## Possible problems while opening the file
 
 If you are not being able to open and run the AVA file; it doesn't mean that you do not have a suitable software installed on your device. There might be some other issues which prevent the file to work properly. The possible problems might be one of the following:
 
-- Corruption of a AVA file.
-- Wrong links to the AVA file in registry entries.
+- Corruption of a AVA file
+- Wrong links to the AVA file in registry entries
 - Deleted description of the AVA from the Windows registry
-- Corrupted installation of an application that supports the AVA format
-- An infected AVA file with an undesirable malware.
-- The computer does not have sufficient hardware resources to operate the AVA file.
-- Drivers used by the computer to open a AVA file are out dated.
+- An infected AVA file with an undesirable malware
+- The computer does not have sufficient hardware resources to operate the AVA file
+- Drivers used by the computer to open a AVA file are outdated
 
 
 ## References
