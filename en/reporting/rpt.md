@@ -7,7 +7,7 @@
   "toc" : true,
   "title" : "RPT - Crystal Reports File",
   "keywords" : [ "rpt", "rpt file", "rpt file format", "Crystal Reports File", "reporting"],
-  "description":"Learn about RPT stream format which is an internal binary format used by Microsoft SQL Server Reporting Services when contacting with viewer controls.",
+  "description":"Learn about RPT stream format used by the Crystal Reports software to save the design or pattern for fetching data from a source into a file along with or without data.",
   "linktitle" : "RPT",
   "menu" : {
     "docs" : {
@@ -34,7 +34,7 @@ The Crystal Reports allows report developers to deliver reports in native langua
 Design reports as statements, invoices, sales and operations reports, letters, shipping documents , marketing materials, compliance documents, performance indicators, and many more.
 
 ### Compatibility
-The output can be Exported to formats such as Excel, CSV, PDF, Word, text, or print with pixel-perfect precision of design.
+The output can be Exported to formats such as [XLS](/spreadsheet/xlsx/), [CSV](/spreadsheet/csv/), [PDF](/pdf/), [DOCX](/word-processing/docx/), text, or print with pixel-perfect precision of design.
 
 
 
