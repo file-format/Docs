@@ -16,7 +16,7 @@
   "lastmod" : "2021-05-24"
 }
 
-## What is an ZUL file?
+## What is a ZUL file?
 
 A file with .zul extension is a web file created with the User Interface Markup Language (ZUML) and contains definitions for user interface elements. Ajax and Java classes support using the [XML](/web/xml/)-based ZUML for developing server side files. ZUL file format was developed by ZK, a UI framework that enables you to build web and mobile applications without the knowledge of JavaScript or AJAX.
 
