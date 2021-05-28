@@ -1,6 +1,6 @@
 {
   "date" : "2021-03-11",
-  "keywords" : [ "APNX", "Amazon Page Number Index", "extension", "format", "E-Book", "Amazon Kindle" ],
+  "keywords" : [ "APNX", "Amazon Page Number Index", "extension", "file", "format", "eBook", "Amazon Kindle" ],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
@@ -14,13 +14,14 @@
       "parent" : "ebook"
     }
   },
-  "lastmod" : "2021-03-11"
+  "lastmod" : "2021-05-28"
 }
 
-## What is an APNX file?
-The Amazon Page Number Index file which uses the .apnx extension is an e-book file type; used by Amazon Kindle. These files are actually known as pagination files used by Kindle devices. So the APNX files are files typically created to mark the pages of Kindle e-books. The pagination feature has been started on Amazon Kindle devices since its 3.1 firmware. It looks into the APNX file for page indexes and then maps it with the page numbers in the orginal print book. These files are saved into Kindle devices along with Amazon eBooks files. You can't open or edit the APNX files
+## What is an APNX file? ##
 
-## Specifications of APNX
+The Amazon Page Number Index file which uses the .apnx extension is an eBook file type; used by Amazon Kindle. These files are actually known as pagination files used by Kindle devices. So the APNX files are typically created to mark the pages of Kindle eBooks. The pagination feature has been started on Amazon Kindle devices since its 3.1 firmware. It looks into the APNX file for page indexes and then maps it with the page numbers in the original print book. These files are saved into Kindle devices along with Amazon eBooks files. You can't open or edit the APNX files.
+
+## APNX File Format Specifications ##
 
 ### Layout
 
@@ -69,6 +70,7 @@ The page mapping header consists of a string enclosed in {} containing key, valu
 ```
 
 ### Page List
+
 The page list is a sequence of offsets in the raw HTML. Each
 value is the start of a new page. Every entry is a 4 byte big endian
 int. 
