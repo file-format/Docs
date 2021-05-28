@@ -1,6 +1,6 @@
 ---
 date: 2019-12-13
-keywords: flac, flac file format, .flac extension
+keywords: flac, flac file format, .flac extension, flac file, flac vs mp3
 author:
   display_name: Muhammad Ahmad Chishti
 draft: false
@@ -11,12 +11,30 @@ linktitle: FLAC
 menu:
   docs:
     parent: "audio"
-lastmod: 2020-24-12
+lastmod: 2021-28-05
 ---
 
 ## What is a FLAC file? ##
 
 FLAC(Free Lossless Audio Codec) is a lossless compression audio coding format developed by Xiph.Org Foundation. FLAC is a royalty-free open format that is saved with the .flac extension. Digital audio compressed using the FLAC algorithm is typically reduced to 50 to 70 percent in size. FLAC files can be decompressed to an identical copy of the original audio files.
+
+## FLAC file format ##
+
+This is an overview of the FLAC bitstream.
+
+- **fLaC marker**: This marker is added to the beginning of the stream. It is followed by one or more metadata blocks.
+- **Metadata Blocks**: 128 kinds of metadata blocks are supported by FLAC; currently the following are defined.
+  - **STREAMINFO**: Contains the information about the whole stream.
+  - **APPLICATION**: This is used by third-party applications for identification.
+  - **PADDING**: It is used to reserve space for metadata if the metadata will be edited after encoding. When the metadata is edited, the padding is replaced by the actual metadata.
+  - **SEEKTABLE**: An optional table to store seek points.
+  - **VORBIS_COMMENT**: Used to store human-readable key/value pairs.
+  - **CUESHEET**: Used to store cue sheet information.
+  - **PICTURE**: Used to store pictures.
+- **FRAME**: The audio data is composed of one or more audio frames.
+  - **FRAME_HEADER**: Contains the basic information about the stream.
+  - **SUBFRAME**: To decrease the complexity, individual subframes are coded separately within a frame (one frame per channel).
+  - **FRAME_FOOTER**: Contains the CRC of the complete frame.
 
 ## Brief History ##
 
@@ -57,23 +75,20 @@ Depending on the density and amplitude of the music, the size of the compressed 
 
 libFLAC uses compression levels from 0 to 8 where 0 is the fastest and 8 is the slowest compression level. The compressed files are always lossless although the tradeoff is between speed and size.
 
-## FLAC Format ##
+## FLAC vs MP3
+The MP3 is a lossy compression format mean it may cut some part of the audio to reduce its size after applying compression. Whereas, FLAC is a lossless file format which means that you are able to hear the audio in its purest form. Earlier the lossless file formats were CDA or WAV which were not much space efficient as FLAC. The following table will show the comparison between these two formats for some important terms:
 
-This is an overview of the FLAC bitstream.
+|Term|FLAC|MP3|
+---|---|---|
+|**Data Quality**|No any loss of audio data| Some data may be lost when compressing audio data|
+|**Size**|Larger file size as compared to lossy formats. So need larger storage capacity| Smaller file size, suitable to play on compact audio devices with little storage space |
+|**Hardware requirements**| Need high-quality audio gear and huge storage capacity |Huge audio libraries can be saved in a smaller storage space. Suitable for handheld devices, such as audio players or mobile phones|
+|**Distribution over the internet**|Can't be distributed easily over the internet because of massive file size |Compact file size makes it easy to distribute over the internet|
+|**Compatibility**|The most popular music and audio listening codec that pretty much compatible with every device on the planetCompatible with new generation PCs, phones, AV receivers, blu-ray players, streaming devices like Roku or Fire TV|
 
-- **fLaC marker**: This marker is added to the beginning of the stream. It is followed by one or more metadata blocks.
-- **Metadata Blocks**: 128 kinds of metadata blocks are supported by FLAC; currently the following are defined.
-  - **STREAMINFO**: Contains the information about the whole stream.
-  - **APPLICATION**: This is used by third-party applications for identification.
-  - **PADDING**: It is used to reserve space for metadata if the metadata will be edited after encoding. When the metadata is edited, the padding is replaced by the actual metadata.
-  - **SEEKTABLE**: An optional table to store seek points.
-  - **VORBIS_COMMENT**: Used to store human-readable key/value pairs.
-  - **CUESHEET**: Used to store cue sheet information.
-  - **PICTURE**: Used to store pictures.
-- **FRAME**: The audio data is composed of one or more audio frames.
-  - **FRAME_HEADER**: Contains the basic information about the stream.
-  - **SUBFRAME**: To decrease the complexity, individual subframes are coded separately within a frame (one frame per channel).
-  - **FRAME_FOOTER**: Contains the CRC of the complete frame.
+
+
+
 
 ## References ##
 
