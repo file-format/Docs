@@ -33,7 +33,7 @@ An Autodesk **IPT file extension** used to save a file which comprises of sketch
 ## IPT file download
 It is bit hard to find and download the IPT file of a 3d model. Therefore, you can download a sample IPT file from here:
 
-[Sample.ipt](../sample.ipt)
+- [Sample.ipt](../sample.ipt)
 
 ## References
 
