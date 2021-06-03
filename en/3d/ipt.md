@@ -1,6 +1,6 @@
 {
   "date" : "2019-10-11",
-  "keywords" : [ "IPT", "IPT file", "IPT file format", "file format", "3d"],
+  "keywords" : [ "IPT", "IPT file", "IPT file format", "file format", "3d","ipt file download"],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -29,6 +29,11 @@ An Autodesk **IPT file extension** used to save a file which comprises of sketch
 ![IPT File Format](../ipt.jpg "IPT File Format")
 
 **Note:** IPT file format specifications are not available publicly.
+
+## IPT file download
+It is bit hard to find and download the IPT file of a 3d model. Therefore, you can download a sample IPT file from here:
+
+[Sample.ipt](../sample.ipt)
 
 ## References
 
