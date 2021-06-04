@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "jrxml", "jrxml file", "jrxml file format", "file format", "programming","jrxml file download", ".jrxml file", ".jrxml"],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -10,7 +11,7 @@
   "linktitle" : "JRXML",
   "menu" : {
     "docs" : {
-      "parent" : "3d"
+      "parent" : "programming"
     }
   },
   "lastmod" : "2019-09-10"
@@ -24,7 +25,7 @@ A JRXML file is created by JasperReports and contains design definition in popul
 
 JRXML files are plain text files that are created based on the XML file format. JasperReport framework can handle different kinds of data sources. When a .jrxml file is compiled, it results in .jasper file as output. A jrxml file consists of a set of sections. Some sections contain information related to the physical characteristics of the page such as dimension of page, positioning of the fields, and the height of the bands, while some concern the logical characteristics such as declaration of the parameters and variables and the definition of a query for data selection.
 
-### JRXML Example
+### JRXML file example
 
 A simple JRXML file example is shown below.
 ```

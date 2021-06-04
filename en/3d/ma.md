@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "ma", "ma file", "ma file format", "file format", "3d","ma file download", ".ma file", ".ma"],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -13,12 +14,12 @@
       "parent" : "3d"
     }
   },
-  "lastmod" : "2021-03-04"
+  "lastmod" : "2021-06-04"
 }
 
 ## What is an MA file?
 
-A file with .ma extension is a 3D project file created with Autodesk Maya application. It contains large list of textual commands to specify information about the file. MA files can be opened and edited in any text editor to fix any issues with the commands in case a file gets corrupt. These files contain information for defining the 3D Scene information such as geometry, lighting, animation, and rendering. Applications that can open .ma files include Autodesk Maya 2020 and text editors.
+A file with .ma extension is a 3D project file created with Autodesk Maya application. It contains large list of textual commands to specify information about the file. A **.ma file** can be opened and edited in any text editor to fix any issues with the commands in case a file gets corrupt. These files contain information for defining the 3D Scene information such as geometry, lighting, animation, and rendering. 
 
 ## MA File Format
 
@@ -26,7 +27,7 @@ MA files are saved to disc in ASCII text format unlike the MB files that are sav
 
 ### MA File Header
 
-The file header starts with a section of comments that gives the creation information of the file and the date modified. Maya file readers ignore this block as it is just used for information purpose only. A header must start with first six characters as "//Maya" though.
+The MA file header starts with a section of comments that gives the creation information of the file and the date modified. Maya file readers ignore this block as it is just used for information purpose only. A header must start with first six characters as "//Maya" though.
 
 ASCII file header looks like as follow.
 
@@ -65,6 +66,11 @@ requires specialPlugIn "1.2";
 
 
 The next section specifies the requirements. This consists of a series of requires commands. This section of the file tells Maya what software is needed to load the file properly. Specifically, what version of Maya, and what plug-ins.
+
+## MA file download
+It is bit hard to find and download the MA file of a 3d model. Therefore, you can download a sample MA file from here:
+
+- [Sample.ma](../sample.ma)
 
 
 ## References
