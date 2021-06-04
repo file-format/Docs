@@ -1,5 +1,6 @@
 {
   "date" : "2021-02-01",
+  "keywords" : [ "usdz", "usdz file", "usdz file format", "file format", "3d","usdz file download"],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -18,7 +19,7 @@
 
 ## What is a USDZ file?
 
-A file with .usdz is a ZIP archive for the [USD](/3d/usd/) (Universal Scene Description) file format that contains and proxies for files of other formats embedded within the archive. USDZ files are packages whose design is based on the new Ar-level abstraction of a package. Usdz was registered with IANA and has media type name of model and a subtype name of vnd.usd+zip and its details can be found as on [IANA registration page](https://www.iana.org/assignments/media-types/model/vnd.usdz+zip).
+A file with .usdz is an uncompressed and unencrypetd ZIP archive for the [USD](/3d/usd/) (Universal Scene Description) file format that contains and proxies for files of other formats (such as textures, and animations) embedded within the archive and runs them directly with the USD run-time without any need of unpacking. USDZ files are packages whose design is based on the new Ar-level abstraction of a package. Usdz was registered with IANA and has media type name of model and a subtype name of vnd.usd+zip and its details can be found as on [IANA registration page](https://www.iana.org/assignments/media-types/model/vnd.usdz+zip).
 
 ## USDZ File Format
 
@@ -36,6 +37,11 @@ With USDZ, both these requirements are met as most of the image formats themselv
 ### Layout Requirements
 
 USDZ packages require the layout of files within the package is that the data for each file should begin at a multiple of 64 bytes from the beginning of the package. However, the package should start with a native [USD](/3d/usd/) file in case of targeting the package with a simple reference. In such a case, this first USD file is referred as the Default Layer. Clients wishing to deliver "streamable content" may wish to consider other layout constraints, as well.
+
+## USDZ file download
+Since the usdz files are packed with other high quality images and usd files, they can occupy greater disk storage. Here you can find a simple and smaller USDZ example file for download:
+
+- [Sample.usdz](../sample.usdz)
 
 ## References
 
