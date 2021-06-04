@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "TAR - Unix Archive File Format",
-  "description":"Learn about TAR file format and APIs that can create and open TAR files.",
+  "description":"Learn about what is a Tar file and APIs that can create and open TAR files.",
   "linktitle" : "TAR",
   "menu" : {
     "docs" : {
@@ -20,7 +20,7 @@
 
 Files with .tar extension are archives created with Unix-based utility for collecting one or more files. Multiple files are stored in an uncompressed format with the support of adding files as well as folders to the archive. TAR utility on Unix is Command based, but files hence created are supported by most file archiving systems on almost all operating systems. It was first created in 1979 by the AT&T Bell Laboratories and subsequent versions were published with the passage of time.
 
-# TAR File Format #
+## TAR File Format
 
 TAR is an open file format with full specifications available for developer's reference. Its file structure was standardized in POSIX.1-1988 and later in POSIX.1-2001. The data sets created by tar retain information about file system parameters such as:
 
@@ -36,7 +36,7 @@ Each file archived is represented by a header block which describes the file, fo
 
 The blocks may be blockedfor physical I/O operations. Each record of n blocks (where n is set by the blocking-factor = 512-size option to tar) is written with a single "write()" operation. On magnetic tapes, the result of such a write is a single record. When writing an archive, the last record of blocks should be written at the full size, with blocks after the zero block containing all zeros. When reading an archive, a reasonable system should properly handle an archive whose last record is shorter than the rest, or which contains garbage records after a zero block.
 
-## Header ##
+### Tar Header
 
 Like any other file headers, the tar file header record contains metadata about a file and is shown in the following table.
 
