@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "APK - Android Package File Format",
-  "description":"Learn about APK file format and APIs that can create and open APK files.",
+  "description":"Learn to know what is an APK file and APIs that can create and open APK files.",
   "linktitle" : "APK",
   "menu" : {
     "docs" : {
@@ -35,6 +35,16 @@ A single APK file contains all the necessary files that are required for its ins
  * `androidManifest.xml`: Contains the name, versioning information and contents of the APK file
  * `classes.dex`: These are compiled Java classes that can be run on Dalvik virtual machine and by the Android Runtime
  * `resources.arsc`: Compiled resources file such as strings
+
+## How to install APK file on Android Device?
+
+In order to install an APK file on your Android devices, the following steps can be used.
+
+ 1. Download the APK using web browser
+ 2. Tap it – you should then be able to see it downloading on the top bar of your device
+ 3. Once it's downloaded, open Downloads, tap on the APK file, and tap Yes when prompted.
+
+The app will begin installing on your device.
 
 ## References
 

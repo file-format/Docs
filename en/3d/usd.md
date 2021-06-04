@@ -1,5 +1,6 @@
 {
   "date" : "2021-02-01",
+  "keywords" : [ "usd", "usd file", "usd file format", "file format", "file","extension", "3d"],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -18,11 +19,11 @@
 
 ## What is a USD file?
 
-A file with .usd extension is a Universal Scene Description file format that encodes data for the purpose of data interchanging and augmenting between digital content creation applications. Developed by Pixar, [USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html) provides the ability to interchange elemental assets (such as models) or animation. USD enables assembly and organization of any number of 3D scene elements such as virtual sets, scenes, and shots to transmit them from application to application. Some of the applciations that can be open USD files include [Pixar Animation Studios USD](https://github.com/PixarAnimationStudios/USD) and NVIDIA Omniverse.
+A file with .usd extension is a Universal Scene Description file format that encodes data for the purpose of data interchanging and augmenting between digital content creation applications. Developed by Pixar, [USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html) provides the ability to interchange elemental assets (such as models) or animation.
 
 ## USD File Format
 
-USD files can have binary format (also known as Crate files) or ASCII-backed files. Both these file formats are interchangeable where the references can be linked to .usd assets without changing the sources. USD consists of a set of C++ libraries with Python bindings for scripting.
+USD files can have binary format (also known as Crate files) or ASCII-backed files. Both these file formats are interchangeable where the references can be linked to .usd assets without changing the sources. USD file format consists of a set of C++ libraries with Python bindings for scripting. It enables assembly and organization of any number of 3D scene elements such as virtual sets, scenes, and shots to transmit them from application to application.
 
 ### USD Data Types
 

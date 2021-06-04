@@ -1,5 +1,6 @@
 {
   "date" : "2021-03-07",
+  "keywords" : [ "MB", "mb file", "mb file format", "file format", "3d","maya binary files free download"],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -23,6 +24,11 @@ A file with .mb extension is a binary project file created with Autodesk Maya ap
 ## MB File Format
 
 MB files are in binary file format, which is a compressed file format, and can only be opened by supporting application. The internal details of MB file format are not available and can be processed only by some kind of script to uncompress these.
+
+## Maya Binary files free download
+It is bit hard to find and download the MB file of a 3d model. Therefore, you can download a sample MB file from here:
+
+- [Sample.mb](../sample.mb)
 
 ## References
 
