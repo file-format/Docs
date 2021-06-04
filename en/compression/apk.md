@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "APK - Android Package File Format",
-  "description":"Learn about APK file format and APIs that can create and open APK files.",
+  "description":"Learn to know what is an APK file and APIs that can create and open APK files.",
   "linktitle" : "APK",
   "menu" : {
     "docs" : {
