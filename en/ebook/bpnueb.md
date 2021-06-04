@@ -1,6 +1,6 @@
 {
   "date" : "2021-04-05",
-  "keywords" : [ "BPNUEB", "PNU eBook File", "File" ,"extension", "format", "E-Book", "file type"],
+  "keywords" : [ "BPNUEB", "PNU eBook File", "File" ,"extension", "format", "eBook", "file type"],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
@@ -18,25 +18,20 @@
 }
 
 ## What is a BPNUEB file?
-The BPNUEB files are actually belong to an Iranian e-book reading software known as **PNUEB Reader**. The  Payam-e-Noor university is very famous accross all Iranian cities. This university has an online ebook library; having thousands of e-books containing academic resources and most of the e-books are particularly localized in Persian. Although they offer PDF books but most of the ebooks are in BPNUEB file formats; which is an e-book format used for PNUEB Reader; a software availble for Microsoft Windows operating system. This software can be downloaded from Payam-e-Noor website.
+
+The BPNUEB files are actually belonging to an Iranian e-book reading software known as **PNUEB Reader**. The  Payam-e-Noor university is very famous across all Iranian cities. This university has an online ebook library; having thousands of eBooks containing academic resources and most of the eBooks are particularly localized in Persian. Although they offer PDF books but most of the eBooks are in BPNUEB file formats.
 
 ## Problem to open a BPNUEB file? ##
 
-If you are not being able to open and run the BPNUEB file; it doesn't mean that you do not have a suitable software installed on your device. There might be some other issues which prevent the file to work properly. The possible problems might be one of the following:
+If you are not being able to open and run the BPNUEB file; it doesn't mean that you do not have suitable software installed on your device. There might be some other issues that prevent the file to work properly. The possible problems might be one of the following:
 
-- Corruption of a BPNUEB file.
-- Wrong links to the BPNUEB file in registry entries.
+- Corruption of a BPNUEB file
+- Wrong links to the BPNUEB file in registry entries
 - Deleted description of the BPNUEB from the Windows registry
 - Corrupted installation of an application that supports the BPNUEB format
-- An infected BPNUEB file with an undesirable malware.
-- The computer does not have sufficient hardware resources to operate the BPNUEB file.
-- Drivers used by the computer to open a BPNUEB file are out dated.
-
-
-
-
-
-
+- An infected BPNUEB file with an undesirable malware
+- The computer does not have sufficient hardware resources to operate the BPNUEB file
+- Drivers used by the computer to open a BPNUEB file are outdated
 
 ## References
 
