@@ -20,13 +20,13 @@
 
 A file with .zip extension is an archive that can hold one or more files or directories. The archive can have compression applied to the included files in order to reduce the ZIP file size. ZIP file format was made public back in February 1989 by Phil Katz for achieving archiving of files and folders. The format was made part of [PKZIP](https://www.pkware.com/pkzip) utility, created by PKWARE, Inc. Right after the availability of [available specifications](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT), many companies made ZIP file format part of their software utilities including Microsoft (since Windows 7), Apple (Mac OS X ) and many others.
 
-## Brief History of ZIP File Format##
+## Brief History of ZIP File Format
 
 The history fo ZIP file format dates back to the event of lawsuite fielded by System Enhancement Associates (SEA) against PKWARE for using its ARC utility without permissions for its trademark and the copyrights of product's appearance and user interface. Prior to this, Phil Katz, had rewritten SEA's source code and released PKXARC, an ARC extractor, and PKARC, a file compressor, as freeware for MS-DOS based systems. Losing to the lawsuit, PKWARE couldn't use the anything related to ARC anymore. This is where the creation of a new file compression came into being, named as ZIP which was made part of PKZIP utility at PKWARE, Inc.
 
 Katz released the ZIP file format specifications into the public domain, while retaining the proprietary rights over his compression and extraction utility i.e. PKZIP. The ZIP compression system was (and is) able to archive files in a folder by means of a 32-bit cyclic redundancy check ([CRC](http://en.wikipedia.org/wiki/Cyclic_redundancy_check)) algorithm to compress file sizes. Unlike ARC, .ZIP folders included a directory file that played the role of a cryptographer's code book, holding the information necessary to render the compressed files.
 
-## Supported Compression Methods in ZIP ##
+## Supported Compression Methods in ZIP
 
 As per .ZIP File Format specifications, the following compression methods are supported.
 
@@ -43,11 +43,11 @@ As per .ZIP File Format specifications, the following compression methods are su
 
 DEFLATE is the commonly used compression method which is a lossless date compression algorithm that uses a combination of the LZ77 and Huffman coding and is detailed in [RFC 1951](https://tools.ietf.org/html/rfc1951).
 
-## ZIP File Format Specifications ##
+## ZIP File Format Specifications
 
 ZIP files have capability to store multiple files using different compression techniques while at the same time supports storing a file without any compression. Each file is stored/compressed individually which helps to extract them, or add new ones, without applying compression or decompression to the entire archive.
 
-### Overall ZIP File Format ###
+### Overall ZIP File Format
 
 Each Zip file is structured in the following manner:
 
@@ -75,7 +75,7 @@ Each file in a ZIP archive is represented as an individual entry where each entr
 
 The order of the file entries in the central directory need not coincide with the order of file entries in the archive.
 
-### ZIP File Entries ###
+### ZIP File Entries
 
 Entries in ZIP file are arranged one after another where each entry consists of:
 
@@ -85,7 +85,7 @@ Entries in ZIP file are arranged one after another where each entry consists of
 
 The Local File Header of each entry represents information about the file such as comment, file size and file name.  The extra data fields (optional) can accommodate information for extensibility options of the ZIP format.
 
-#### Local File Header ####
+#### Local File Header
 
 The Local File Header has specific field structure consisting of multi-byte values. All the values are stored in little-endian byte order where the field length counts the length in bytes. All the structures in a ZIP file use 4-byte signatures  for each file entry. The end of central directory signature is 0x06054b50 and can be distinguished using its own unique signature. Following is the order of information stored in Local File Header.
 
@@ -106,7 +106,7 @@ The Local File Header has specific field structure consisting of multi-byte valu
 |30|n|File Name
 |30+n|m|Extra Field
 
-#### Central Directory File Header ####
+#### Central Directory File Header
 
 
 |Offset|Bytes|Description
@@ -132,7 +132,7 @@ The Local File Header has specific field structure consisting of multi-byte valu
 |46+n|m|Extra field
 |46+n+m|k|File comment
 
-#### End of Central Directory Record ####
+#### End of Central Directory Record
 
 
 |Offset|Bytes|Description
@@ -147,7 +147,7 @@ The Local File Header has specific field structure consisting of multi-byte valu
 |20|2|Comment length (n)
 |22|n|Comment
 
-## References ##
+## References
 
 * [PKWARE ZIP File Format Specifications](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
 * [Structure of PKZip File](https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip-printable.html)
