@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "ISO - Disk Image File Format",
-  "description":"Learn about ISO file format and APIs that can create and open ISO files.",
+  "description":"What is an ISO file and APIs that can create and open ISO files.",
   "linktitle" : "ISO",
   "menu" : {
     "docs" : {
@@ -24,7 +24,7 @@ A file with .iso extension is an uncompressed archive disk image file that repre
 
 ISO file format is not like other container file file formats although it archives the specified contents of data. The archive is created as a binary file with the exact structure of the content and filesystem information. The ISO file format is described by the [ISO-9660](https://en.wikipedia.org/wiki/ISO_9660) as follow.
 
-### Top Level Structure
+### Top Level Structure of ISO File
 
 The overall structure of the file consists of:
 
