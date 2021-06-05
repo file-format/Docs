@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "ZIP",
-  "description":"Learn about ZIP file format and APIs that can create and open ZIP files.",
+  "description":"What is a ZIP file and APIs that can create and open ZIP files.",
   "linktitle" : "ZIP",
   "menu" : {
     "docs" : {
@@ -18,15 +18,15 @@
 
 ## What is a ZIP file? ##
 
-ZIP file extension represents archives that can hold one or more files or directories. The archive can have compression applied to the included files in order to reduce the ZIP file size. ZIP file format was made public back in February 1989 by Phil Katz for achieving archiving of files and folders. The format was made part of [PKZIP](https://www.pkware.com/pkzip) utility, created by PKWARE, Inc. Right after the availability of [available specifications](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT), many companies made ZIP file format part of their software utilities including Microsoft (since Windows 7), Apple (Mac OS X ) and many others.
+A file with .zip extension is an archive that can hold one or more files or directories. The archive can have compression applied to the included files in order to reduce the ZIP file size. ZIP file format was made public back in February 1989 by Phil Katz for achieving archiving of files and folders. The format was made part of [PKZIP](https://www.pkware.com/pkzip) utility, created by PKWARE, Inc. Right after the availability of [available specifications](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT), many companies made ZIP file format part of their software utilities including Microsoft (since Windows 7), Apple (Mac OS X ) and many others.
 
-## Brief History ##
+## Brief History of ZIP File Format##
 
 The history fo ZIP file format dates back to the event of lawsuite fielded by System Enhancement Associates (SEA) against PKWARE for using its ARC utility without permissions for its trademark and the copyrights of product's appearance and user interface. Prior to this, Phil Katz, had rewritten SEA's source code and released PKXARC, an ARC extractor, and PKARC, a file compressor, as freeware for MS-DOS based systems. Losing to the lawsuit, PKWARE couldn't use the anything related to ARC anymore. This is where the creation of a new file compression came into being, named as ZIP which was made part of PKZIP utility at PKWARE, Inc.
 
 Katz released the ZIP file format specifications into the public domain, while retaining the proprietary rights over his compression and extraction utility i.e. PKZIP. The ZIP compression system was (and is) able to archive files in a folder by means of a 32-bit cyclic redundancy check ([CRC](http://en.wikipedia.org/wiki/Cyclic_redundancy_check)) algorithm to compress file sizes. Unlike ARC, .ZIP folders included a directory file that played the role of a cryptographer's code book, holding the information necessary to render the compressed files.
 
-## Supported Compression Methods ##
+## Supported Compression Methods in ZIP ##
 
 As per .ZIP File Format specifications, the following compression methods are supported.
 
