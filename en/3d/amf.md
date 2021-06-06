@@ -42,7 +42,7 @@ The five top level elements defined with the <AMF> tags are as detailed below. T
 
 ## AMF Example
 
-Following is an example of AMF file that can be copied to a [text](word-processing/txt/) file and saved as compressed [zip](/compression/zip/) file for opening.
+Following is an example of AMF file that can be copied to a [text](/word-processing/txt/) file and saved as compressed [zip](/compression/zip/) file for opening.
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <amf unit="inch" version="1.1">
