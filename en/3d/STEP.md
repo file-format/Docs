@@ -44,4 +44,3 @@ The STEP file is divided into sections and their names are reserved terms. All s
 ## References
 
 - [ISO 10303-21 - Wikipedia](https://en.wikipedia.org/wiki/ISO_10303-21)
-- [STEP-file, ISO 10303-21](https://www.loc.gov/preservation/digital/formats/fdd/fdd000448.shtml)
