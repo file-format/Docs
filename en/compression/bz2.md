@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "BZ2 - Compressed File Format",
-  "description":"Learn about BZ2 file format and APIs that can create and open BZ2 files.",
+  "description":"Learn to know what is a BZ2 file and APIs that can create and open BZ2 files.",
   "linktitle" : "BZ2",
   "menu" : {
     "docs" : {
@@ -24,6 +24,14 @@ BZ2 are compressed files generated using the [BZIP2](http://www.bzip.org/) open 
 
 There are no formal specifications available for this file format. However, an unofficial [reverse engineered specifications](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) show that a .bz2 stream consists of a 4-byte header which is followed by zero or more compressed blocks. It is immediately followed by an end-of-stream marker containing a 32-bit CRC for the plain text whole stream processed. There is no padding between the compressed blocks and all the blocks are bit-aligned.
 
-## References ##
+## Unzip/Extract BZ2 File
+
+You can unzip a BZ2 file on Windows and Mac OS using software such as WinZip. On linux, the following command in terminal.
+
+```
+bzip2 -d filename.bz2
+```
+
+## References
 
 * [BZIP2 Format Specifications](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf)

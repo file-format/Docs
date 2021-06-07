@@ -48,12 +48,3 @@ class Program
     }
 }
 ```
-
-## How to open CS files? ##
-
-Following applications can be used to open .CS files.
-
-* Microsoft Visual Studio
-* Microsoft Notepad
-* Notepad++
-* MonoDevelop

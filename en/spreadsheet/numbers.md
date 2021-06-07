@@ -19,10 +19,7 @@
 
 ## What is a NUMBERS file? ##
 
-The files with **.numbers** extension are classified as spreadsheet file type, that's why they are similar to the **.xlsx** files; but the Numbers files are created by using Apple iWork Numbers spreadsheet software. The Apple iWork Numbers is a unit software of the iWork Productivity Suite. The iWork Productivity Suite is equivalent to the Microsoft Office Suite that is used on Windows PCs. Hence, we can say the Numbers which is available for MacOS is also a competitor of Microsoft Excel. Likewise, Microsoft Excel, the NUMBERS file may also contain the tables, charts and formulas. You can find various softwares to convert NUMBERS file to Excel or other spreadsheets. The [Aspose APIs](https://www.aspose.com/) and [free apps](https://www.aspose.app/) are available to perform the conversion and other operations with best quality results in easier ways. 
-
-## How to convert NUMBERS file to Excel ##
-Convert NUMBERS file to Excel is a big problem around the world; for the people who want their NUMBERS spreadsheets (created by using iWork Numbers spreadsheet software) to the Microsoft Excel spreadsheets. Therefore, you can convert it by using various tools available over the internet. You can also look at the [free online Excel converter](https://products.aspose.app/cells/conversion) by [Aspose](https://www.aspose.com/).
+The files with **.numbers** extension are classified as spreadsheet file type, that's why they are similar to the **.xlsx** files; but the Numbers files are created by using Apple iWork Numbers spreadsheet software. The Apple iWork Numbers is a unit software of the iWork Productivity Suite. The iWork Productivity Suite is equivalent to the Microsoft Office Suite that is used on Windows PCs. Hence, we can say the Numbers which is available for MacOS is also a competitor of Microsoft Excel. Likewise, Microsoft Excel, the NUMBERS file may also contain the tables, charts and formulas. You can find various softwares to convert NUMBERS file to Excel or other spreadsheets. 
 
 
 ## Brief History of Numbers ##

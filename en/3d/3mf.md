@@ -66,6 +66,5 @@ The payload includes the full set of parts required for processing the 3D Model 
 
 ## References ##
 
-* [3MF File Format](https://3mf.io/what-is-3mf/)
 * [3MF File Format Specifications](https://github.com/3MFConsortium/spec_core)
 * [3MF - By Wikipedia](https://en.wikipedia.org/wiki/3D_Manufacturing_Format)

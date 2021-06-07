@@ -27,7 +27,7 @@ Dart 2.0 was released in August 2018 in which the dart2native extension was intr
 ECMA standardized Dart with the first edition in July 2014 and the second edition in December 2014.
 
 
-## How to run/execute Dart files ##
+## How to run/execute Dart code ##
 
 Dart code can run in the following ways:
 

@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "LZMA - LZMA Compressed File Format",
-  "description":"Learn about LZMA file format and APIs that can create and open LZMA files.",
+  "description":"What is an LZMA file and APIs that can create and open LZMA files.",
   "linktitle" : "LZMA",
   "menu" : {
     "docs" : {

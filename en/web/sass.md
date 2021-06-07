@@ -14,23 +14,23 @@ menu:
 lastmod: 2021-06-01
 ---
 
-## What is a Sass file? ##
+## What is a SASS file? ##
 
-Sass (syntactically awesome style sheets) is a preprocessor scripting language. Sass is compiled into [CSS](/web/css/) and is stored with the .sass extension. Sass consists of two syntaxes, the original based on indentations that uses the .sass extension and the newer [SCSS](/web/scss/) with block formatting like CSS that uses the .scss extension.
+Sass (syntactically awesome style sheets) is a preprocessor scripting language. It is compiled into [CSS](/web/css/) and is stored with the .sass extension. Sass consists of two syntaxes, the original based on indentations that uses the .sass extension and the newer SCSS with block formatting like CSS that uses the .scss extension.
 
 ## Why use Sass ##
 
-Sass is really helpful in maintaining styles as Sass provides many features like introduces variables, nesting, mixins, imports, and selector inheritance that make working with styles fun.
+Sass is really helpful in maintaining styles as it provides many features like introduces variables, nesting, mixins, imports, and selector inheritance that make working with styles fun.
 
-## How to use Sass files ##
+## How to use SASS files ##
 
-Sass files are not included directly in the [HTML](/web/html/) document but are rather converted to CSS files that are included in HTML files. You may istall Sass of your system by following the instructions given on the [Official Sass Site](https://sass-lang.com/install).
+SASS files are not included directly in the [HTML](/web/html/) document but are rather converted to CSS files that are included in HTML files. You may istall Sass of your system by following the instructions given on the [Official Sass Site](https://sass-lang.com/install).
 
-Sass may be converted to CSS by either converting an already saved Sass file or by watching for changes and converting as the file is saved. The commands for both are given below.
+Sass may be converted to CSS by either converting an already saved SASS file or by watching for changes and converting as the file is saved. The commands for both are given below.
 
 ### Convert Once ###
 
-The first parameter of the command is the source Sass file and the second parameter is the output CSS file.
+The first parameter of the command is the source SASS file and the second parameter is the output CSS file.
 
 ```cmd
 sass main.sass main.css
@@ -224,7 +224,7 @@ Extend/Inheritance can prove to be useful in cases where the properties of one s
 
 ### Import ###
 
-Importing can be useful if you structure your styles into different files based on functionality or any other structure that you follow. You may import all these files in a primary Sass file that is later converted to CSS. While importing, you do not need to specify the file extension in the import instruction. Sass compiles all Sass files directly. To avoid import files to be compiled directly, you can make them partials by adding underscore(_) at the start of their name. Partials are imported similar to normal Sass files.
+Importing can be useful if you structure your styles into different files based on functionality or any other structure that you follow. You may import all these files in a primary SASS file that is later converted to CSS. While importing, you do not need to specify the file extension in the import instruction. Sass compiles all SASS files directly. To avoid import files to be compiled directly, you can make them partials by adding underscore(_) at the start of their name. Partials are imported similar to normal Sass files.
 
 **Sass**
 
