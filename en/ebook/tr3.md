@@ -36,28 +36,14 @@ TR3 specific [HTML tags](http://www.yadabyte.com/TR3Tutorial/TR3_tag.htm) are as
 |\<catset>. \</catset>| Used to assign category names for each subject.|
 
 
-## Application for TR3 file ##
-
-The TR3 file can be open in **TomeRaider** eBook reader.
-
-## How to open a TR3 file? ##
-
- *  Download the supporting software 
- *  Make sure it's an updated one. Because the file will not function properly if the software is outdated
- *  Drive has enough space to open the file
- *  Stop all the irrelevant applications in the system for the files proper functioning
+## Problems to open a TR3 file ##
 
 Here is the list of some common issues which may arise and cause misfunctioning of the file format:
 
  *	Corrupt file
  *	Infected File due to virus
- *	Improper links to the TR file in archive accesses
+ *	Improper links to the TR3 file in archive accesses
  *	No access right in the system to open the files
  *	Outdated drive in your system
- *	Removal of  the report of the TR from the Windows archive
+ *	Removal of  the report of the TR3 from the Windows archive
  *	Contacting the developer may be a better option for better output
-
-## References ##
-
-* [FileInfo](https://fileinfo.com/extension/tr3)
-* [DRIVERSOL](https://driversol.com/file-extensions/tr3-7832)
