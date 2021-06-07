@@ -33,11 +33,6 @@ If you are not being able to open and run the QMK file; it doesn't mean that you
 - Drivers used by the computer to open a QMK file are out dated.
 
 
-
-
-
-
-
 ## References
 
 * [YanCEyDesktop by Remington](https://en.freedownloadmanager.org/Windows-PC/YanCEyDesktop-FREE.html)

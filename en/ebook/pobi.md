@@ -33,11 +33,6 @@ If you are not being able to open and run the POBI file; it doesn't mean that yo
 - Drivers used by the computer to open a POBI file are out dated.
 
 
-
-
-
-
-
 ## References
 
 * [Friendly File Formats for Your Kindle Paperwhite](https://www.dummies.com/consumer-electronics/tablets/kindle/friendly-file-formats-for-your-kindle-paperwhite/)

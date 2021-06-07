@@ -29,18 +29,6 @@ TomeRaider was developed by a UK-based software and web development company Yada
 
 The latest release of TR file format is version 3 that provides support for fast searching and compression. It compresses text files to 45-60% of the original size. This enables TomeRaider ebook readers to perform fast searching, indexing, and compression. The TR file format is suitable for large reference documents and most documents require a DRM key for being encrypted.
 
-## Application for TR file ##
-
-The TR file can be open in **TomeRaider** eBook reader **Turbo Debugger**.
-
-## How to open a TR file? ##
-
- *  Download the supporting software 
- *  Make sure the software is updated. Because the file will not function properly if the software is outdated
- *  Drive has enough space to open the file
- *  File is not corrupt
- *  Stop all the irrelevant applications in the system for the files proper functioning
-
 ## Problems to open a TR file ##
 
 There may be some common problems due to which you can’t be able to open the file:
@@ -55,9 +43,3 @@ There may be some common problems due to which you can’t be able to open the f
  *	Partial installation of an application that supports the TR format
  *	Infected TR file
  *	Insufficient space for hardware resources to help the opening of the TR file
-
-
-## References ##
-
-* [File.org](https://file.org/extension/tr)
-* [FILExt](https://filext.com/file-extension/TR)
