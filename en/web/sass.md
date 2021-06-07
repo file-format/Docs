@@ -18,7 +18,7 @@ lastmod: 2021-06-01
 
 Sass (syntactically awesome style sheets) is a preprocessor scripting language. It is compiled into [CSS](/web/css/) and is stored with the .sass extension. Sass consists of two syntaxes, the original based on indentations that uses the .sass extension and the newer SCSS with block formatting like CSS that uses the .scss extension.
 
-## Why use SASS ##
+## Why use Sass ##
 
 Sass is really helpful in maintaining styles as it provides many features like introduces variables, nesting, mixins, imports, and selector inheritance that make working with styles fun.
 
