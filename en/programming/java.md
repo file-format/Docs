@@ -27,7 +27,7 @@ The Java project was initiated in June 1991 by James Gosling, Mike Sheridan, and
 
 On November 19, 2006, Java Virtual Machine (JVM) was released by Sun as free and open-source software. After Oracle Corporation acquired Sun Microsystems in 2009–2010, James Gosling resigned from Oracle on April 2, 2010.
 
-## How to run/execute Java files ##
+## How to run/execute Java code ##
 
 To execute the Java code, it needs to be compiled first. For that, the Java SDK is required. The Java SDK compiles the Java code to a bytecode class file. There are IDE's like Eclipse and IntelliJ Idea that makes it easier to work with Java files by providing code completion and easy to use interface to compile and execute the Java code.
 
