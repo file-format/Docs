@@ -28,12 +28,12 @@ ASAX files are written in plain text file format and are human readable. The mos
 
 A single ASAX file consists of multiple sections that are written to handle the application-level events. These are as follow.
 
- * `**Application Directives**` - Application directives are tags that are used to define optional application-specific settings to be used by the ASP.NET parser when processing the Global.asax file. These directives are located in the start of the Global.asax file and are defined as follow.
+ * **Application Directives** - Application directives are tags that are used to define optional application-specific settings to be used by the ASP.NET parser when processing the Global.asax file. These directives are located in the start of the Global.asax file and are defined as follow.
 
  ```
  <%@ directive attribute=value [attribute=value … ]%>
  ```
- * `**Code Declaration Blocks**` - Code-declaration blocks are used to define sections of server code that are embedded in ASP.NET application files within the \<script> blocks marked with a runat="server" attribute. The following example shows how you can define event-handling logic for the EnterBtn_Click event.
+ * **Code Declaration Blocks** - Code-declaration blocks are used to define sections of server code that are embedded in ASP.NET application files within the \<script> blocks marked with a runat="server" attribute. The following example shows how you can define event-handling logic for the EnterBtn_Click event.
 
 ```
 <html>
@@ -53,7 +53,7 @@ A single ASAX file consists of multiple sections that are written to handle the 
   </body>
 </html>
 ```
- * `**Code Render Blocks**` - These define the inline code or expressions that execute when the page is rendered. The two styles of code render blocks include inline code and inline expressions. The former is used to define self-contained lines or blocks of code, while the lateral is used as a shortcut for calling the Write method.
+ * **Code Render Blocks** - These define the inline code or expressions that execute when the page is rendered. The two styles of code render blocks include inline code and inline expressions. The former is used to define self-contained lines or blocks of code, while the lateral is used as a shortcut for calling the Write method.
 
 ## References
 
