@@ -1,7 +1,7 @@
 {
   "date" : "2021-06-08",
-  "tags": [ "3d", "ebook"],
-  "keywords" : [ "AAX", "file", "extension", "format", "AAX file", "audio", "AAX file format", "what is an aax file" ],
+  "tags": [ "audio"],
+  "keywords" : [ "AAX", "file", "extension", "format", "AAX file", "audio", "AAX file format", "what is an aax file", "AAX file format specifications" ],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
@@ -25,7 +25,7 @@ The files with .aax extension are audiobooks developed by [Audible](https://www.
 ## AAX file format
 AAX is an Audiobook file format, which is a M4B file with high quality due to its variable-bitrate and encrypted with DRM (Digital Rights Management) encryption algorithm. Majority of ebooks are encoded at 64 kbit/s, 22.050 kHz, stereo, some are as low as 32k, mono and radio plays are usually encoded at 128kbit/s and 44.1 kHz. The audio of AAX file format is encoded in AAC format (variable quality). 
 
-### Specifications
+### AAX file format specifications
 The detail about AAX file format quality specs available at audible is shown below:
 
 - **Bitrate:** 32 - 128 kbit/s
