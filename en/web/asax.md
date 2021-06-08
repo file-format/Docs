@@ -24,7 +24,7 @@ A file with .asax extension is a file used by ASP.NET applications that resides 
 
 ASAX files are written in plain text file format and are human readable. The most commonly used ASAX file is Global.asax that resides in the root directory of an ASP.NET application. Web Servers are configured to reject any incoming calls to this file to forbid users from downloading or viewing the code of this file.
 
-## Global.ASAX - An Example of ASAX File Format
+### Global.ASAX - An Example of ASAX File Format
 
 A single ASAX file consists of multiple sections that are written to handle the application-level events. These are as follow.
 
