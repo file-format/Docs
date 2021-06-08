@@ -1,6 +1,5 @@
 {
   "date" : "2021-06-08",
-  "tags": [ "audio"],
   "keywords" : [ "AAX", "file", "extension", "format", "AAX file", "audio", "AAX file format", "what is an aax file", "AAX file format specifications" ],
   "author" : {
     "display_name" : "Muhammad Umar"
@@ -23,13 +22,13 @@ The files with .aax extension are audiobooks developed by [Audible](https://www.
 
 
 ## AAX file format
-AAX is an Audiobook file format, which is a M4B file with high quality due to its variable-bitrate and encrypted with DRM (Digital Rights Management) encryption algorithm. Majority of ebooks are encoded at 64 kbit/s, 22.050 kHz, stereo, some are as low as 32k, mono and radio plays are usually encoded at 128kbit/s and 44.1 kHz. The audio of AAX file format is encoded in AAC format (variable quality). 
+AAX is an Audiobook file format, which is a M4B file with high quality due to its variable-bitrate and encrypted with DRM (Digital Rights Management) encryption algorithm. Majority of ebooks are encoded at 64 kbit/s, 22.050 kHz, stereo, some are as low as 32k, mono and radio plays are usually encoded at 128kbit/s and 44.1 kHz. The audio of AAX file format is encoded in AAC format (variable quality).
 
 ### AAX file format specifications
 The detail about AAX file format quality specs available at audible is shown below:
 
 - **Bitrate:** 32 - 128 kbit/s
-- **Sample rate:** 22.050 - 44.10 kHz	
+- **Sample rate:** 22.050 - 44.10 kHz
 - **Bit Depth:** Un­known
 - **Channel:** Mono or stereo
 - **MBytes/hour:** 28.8
@@ -39,7 +38,7 @@ The detail about AAX file format quality specs available at audible is shown bel
 ### Digital rights management (DRM)
 Audible file formats encapsulate the encoded sounds but they also include the prevention for un-authorized playbacks by means of an Audible username and password, which can be used by-default on up to four computers and three smartphones at a time. Schools and libraries may be offered different types of licenses. The DRM is responsible to control:
 - The un-authorized user access
-- Burn a limited number of CDs for unrestricted playback 
+- Burn a limited number of CDs for unrestricted playback
 - Enable Audible content for limited number of devices
 But you can still find many other software tools which can easily bypass the DRM control of Audible. Audible is now offering DRM-free titles for content writers. The FFmpeg 2.8.1 or greater versions can play .aax file formats natively.
 
