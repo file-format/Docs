@@ -7,6 +7,7 @@
   "draft" : "false",
   "description" : "Audio files store digital audio data on a computer system. Learn to open audio file formats such as MP3, WAV, WMV, PCM, AAC, WMA, and other popular Audio file types.",
   "categories" : [ "fundamentals" ],
+  "tags": [ "Audio"],
   "title" : "Learn about Audio File Formats and APIs that can open and create Audio files",
   "linktitle" : "Audio File Formats",
   "menu" : {

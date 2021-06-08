@@ -7,6 +7,7 @@
   "draft" : "false",
   "description" : "3D files are a digital representation of three-dimensional objects. Learn to open 3D file formats including  GLB, FBX, GLTF, OBJ, PLY, JT, 3DS, and others.",
   "categories" : [ "fundamentals" ],
+  "tags": [ "3D", "GLB" ],
   "title" : "Learn about 3D File Formats and APIs that can open and create 3D files",
   "linktitle" : "3D File Formats",
   "menu" : {
