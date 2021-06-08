@@ -28,13 +28,13 @@ AAX is an Audiobook file format, which is a M4B file with high quality due to it
 ### Quality
 The detail about AAX file format quality available at audible is shown below:
 
-- **Bitrate: ** 32 - 128 kbit/s
-- **Sample rate: ** 22.050 - 44.10 kHz	
-- **Bit Depth: ** Un­known
-- **Channel: ** Mono or stereo
-- **MBytes/hour: ** 28.8
-- **Container: ** MPEG-4 Part 14
-- **Quality description: ** AAC sound
+- **Bitrate:** 32 - 128 kbit/s
+- **Sample rate:** 22.050 - 44.10 kHz	
+- **Bit Depth:** Un­known
+- **Channel:** Mono or stereo
+- **MBytes/hour:** 28.8
+- **Container:** MPEG-4 Part 14
+- **Quality description:** AAC sound
 
 ### Digital rights management (DRM)
 Audible file formats encapsulate the encoded sounds but they also include the prevention for un-authorized playbacks by means of an Audible username and password, which can be used by-default on up to four computers and three smartphones at a time. Schools and libraries may be offered different types of licenses. The DRM is responsible to control:
