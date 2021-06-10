@@ -25,26 +25,26 @@ The CDA file format is used to tell a computer that which audio file to play on 
 
 ### Organization of a CDA file
 The following table shows the information about typical offsets:
-| offset | length |                                       content                                       |
-|--------|--------|-------------------------------------------------------------------------------------|
-|  0x00  |   4    |                            the 4 ASCII characters "RIFF"                            |
-|  0x04  |   4    |    the size of the following chunk: always 36 (44 - 8), on 4 bytes (Intel order)    |
-|  0x08  |   4    |                   chunk identifier: the 4 ASCII characters "CDDA"                   |
-|  0x0C  |   4    |                  the 3 ASCII characters "fmt" followed by a space                   |
-|  0x10  |   4    |              length of the chunk: always 24, on 4 bytes (Intel order)               |
-|  0x14  |   2    | version of the CD format, on 2 bytes (Intel order). In May 2006, always equal to 1. |
-| 0x016  |   2    |  number of the range, on 2 bytes (Intel order). The first track has the number 1.   |
-|  0x18  |   4    |                 identifier calculated by Windows for cdplayer.exe.                  |
-|  0x1c  |   4    |                   range offset, in number of frames (Intel order)                   |
-|  0x20  |   4    |             duration of the track, total number of frames (Intel order)             |
-|  0x24  |   1    |                               range position: frames                                |
-|  0x25  |   1    |                               range position: seconds                               |
-|  0x26  |   1    |                               range position: minutes                               |
-|  0x27  |   1    |                            a null byte (binary value 0)                             |
-|  0x28  |   1    |                            duration of the track: frames                            |
-|  0x29  |   1    |                           duration of the track: seconds                            |
-|  0x2a  |   1    |                           duration of the track: minutes                            |
-|  0x2b  |   1    |                            a null byte (binary value 0)                             |
+| offset | length | content |
+---|---|---|
+| 0x00 | 4 | the 4 ASCII characters "RIFF" |
+| 0x04 | 4 | the size of the following chunk: always 36 (44 - 8), on 4 bytes (Intel order) |
+| 0x08 | 4 | chunk identifier: the 4 ASCII characters "CDDA" |
+| 0x0C | 4 | the 3 ASCII characters "fmt" followed by a space |
+| 0x10 | 4 | length of the chunk: always 24, on 4 bytes (Intel order) |
+| 0x14 | 2 | version of the CD format, on 2 bytes (Intel order). In May 2006, always equal to 1. |
+| 0x016 | 2 | number of the range, on 2 bytes (Intel order). The first track has the number 1. |
+| 0x18 | 4 | identifier calculated by Windows for cdplayer.exe. |
+| 0x1c | 4 | range offset, in number of frames (Intel order) |
+| 0x20 | 4 | duration of the track, total number of frames (Intel order) |
+| 0x24 | 1 | range position: frames |
+| 0x25 | 1 | range position: seconds |
+| 0x26 | 1 | range position: minutes |
+| 0x27 | 1 | a null byte (binary value 0) |
+| 0x28 | 1 | duration of the track: frames |
+| 0x29 | 1 | duration of the track: seconds |
+| 0x2a | 1 | duration of the track: minutes |
+| 0x2b | 1 | a null byte (binary value 0) |
 
 ## References ##
 
