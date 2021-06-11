@@ -24,7 +24,6 @@ The technical specifications of VDW file format are available online by [Microso
 
 
 |![Possible Implementation of a File](https://github.com/file-format/Docs/blob/master/en/web/vdw.png "Possible Implementation of a File")
-Possible implementation of a File
 
 ## References ##
 
