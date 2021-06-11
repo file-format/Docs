@@ -18,7 +18,7 @@
 }
 
 ## What is an MP2 file?
-An MP2 file which is also called as MPA file is an Audio file compressed with Layer II of MPEG-1 or MPEG-2; a lossy audio compression format defined by ISO/IEC 11172-3 alongside MPEG-1 Audio Layer I and MPEG-1 Audio Layer III (MP3), to reduce the audio file size. Whereas, MP3 is more popular than MP2 because of its smaller size and availability over the internet. Therefore MP2 is still a vital standard for audio broadcasting.
+An MP2 file which is also called as MPA file is an Audio file compressed with Layer II of MPEG-1 or MPEG-2; a lossy audio compression format defined by ISO/IEC 11172-3 alongside MPEG-1 Audio Layer I and MPEG-1 Audio Layer III ([MP3](/audio/mp3/)), to reduce the audio file size. Whereas, MP3 is more popular than MP2 because of its smaller size and availability over the internet. Therefore MP2 is still a vital standard for audio broadcasting.
 
 ## MP2 File Format
 MPEG Audio Layer II (MP2) is the core algorithm of the MP3 standards. MPEG-1 Audio Layer 2 encoding was obtained from the MUSICAM audio codec. It started as the Digital Audio Broadcast (DAB) project in Germany as a part of the EUREKA research program. The Eureka 147 contained three main elements: Transmission Coding & Multiplexing, COFDM Modulation and MUSICAM Audio Coding (Masking pattern Universal Sub-band Integrated Coding And Multiplexing). The MUSICAM was one of the few encodings which was able to achieve high audio quality at bit rates in the range of 64 to 192 kbit/s per monophonic channel. The goal was to provide low delay, low complexity, error robustness, short access units and fulfill the technical requirements of broadcasting, telecommunication and recording on digital storage media.

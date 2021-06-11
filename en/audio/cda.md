@@ -1,6 +1,6 @@
 {
   "date" : "2021-06-09",
-  "keywords" : [ "cda", "file", "extension", "format", "what is a cda file", "music", "cda file format", "M4b vs MP3", "cda file format specification"],
+  "keywords" : [ "cda", "file", "extension", "format", "what is a cda file", "music", "cda file format", "cda file format specification"],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
