@@ -65,7 +65,7 @@ Frame size of AMR modes in bytes (including the header byte) are given below:
 |4 |AMR 7.4 |20|
 |5 |AMR 7.95 |21|
 
-## References ##
+## References
 
 * [Adaptive Multi-Rate audio codec - By Wikipedia](https://en.wikipedia.org/wiki/Adaptive_Multi-Rate_audio_codec)
 * [RTP Payload Format and File Storage Format for AMR and AMR-WB Audio  codecs](https://tools.ietf.org/html/rfc4867#page-35)
