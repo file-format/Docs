@@ -34,7 +34,7 @@ Certain other file types that comprise the Visio 2013 file format include:
 * .vstx (Visio template)
 * .vstm (Visio macro-enabled template)
 
-Under the hood, the Visio 2013 file format uses a structured means to store application data together with related resources in an archive such as [ZIP](https://wiki.fileformat.com/Compression/ZIP/). The ZIP file can be extracted using any standard extraction utility where it contains other types of files as well. You can just replace the .VSTX file extension with .ZIP in windows explore to see the contents inside the VSTX file.
+Under the hood, the Visio 2013 file format uses a structured means to store application data together with related resources in an archive such as [ZIP](/Compression/ZIP/). The ZIP file can be extracted using any standard extraction utility where it contains other types of files as well. You can just replace the .VSTX file extension with .ZIP in windows explore to see the contents inside the VSTX file.
 
 Each Visio file is termed as package that holds other files or parts. A package part can be an XML file, an image or even a VBA solution.The parts within the package can be devided into "document" and "relationship" parts.
 
