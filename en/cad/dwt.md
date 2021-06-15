@@ -23,7 +23,7 @@ A DWT file is an [AutoCAD](https://www.autodesk.com/) drawing template file that
 
 ## DWT File Format
 
-DWT can be considered a DWG with predefined values that can be readily used. DWG has been one of the widely used file format by a range of applications and has a robust file structure. Since DWG is a binary file format, it is not human-readable like the plain ASCII [DXF](https://wiki.fileformat.com/cad/dxf/) file format. DWG files usually include information about the image coordinates and any metadata associated with it. Complete [specifications](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf) of DWG file format are available for download by OpenDesign.
+DWT can be considered a DWG with predefined values that can be readily used. DWG has been one of the widely used file format by a range of applications and has a robust file structure. Since DWG is a binary file format, it is not human-readable like the plain ASCII [DXF](/cad/dxf/) file format. DWG files usually include information about the image coordinates and any metadata associated with it. Complete [specifications](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf) of DWG file format are available for download by OpenDesign.
 
 ### References
 
