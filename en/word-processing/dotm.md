@@ -18,7 +18,7 @@
 
 ## What is a DOTM file?
 
-A file with DOTM extension represents template file created with Microsoft Word 2007 or higher. It is similar to the popular [DOCX](https://wiki.fileformat.com/create/word-processing/docx/WebHome?parent#Word+Processing.DOTM.WebHome) file format other than it retains the user defined settings for reuse in case of creating new documents. Such documents are more often used in offices where a standard template file is generated with settings like page information, margins, default layout and macros, and is used to create new documents from it when required. DOTM files, however, save macros, that are a series of commands in the form of recorded actions for automatic completion of a task. This helps save time in carrying out actions that are repeated in completion of a task.
+A file with DOTM extension represents template file created with Microsoft Word 2007 or higher. It is similar to the popular [DOCX](/word-processing/docx/WebHome?parent#Word+Processing.DOTM.WebHome) file format other than it retains the user defined settings for reuse in case of creating new documents. Such documents are more often used in offices where a standard template file is generated with settings like page information, margins, default layout and macros, and is used to create new documents from it when required. DOTM files, however, save macros, that are a series of commands in the form of recorded actions for automatic completion of a task. This helps save time in carrying out actions that are repeated in completion of a task.
 
 ## Brief History
 
