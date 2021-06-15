@@ -23,4 +23,4 @@ The LQR file type is mainly related to a compressed archive file that covers one
 
 ## Brief History ##
 
-In the early 1980s, the [LBR](/compression/lbr/) file format was an archive file format used on CP/M and MS-DOS operating systems [LBR](/compression/lbr/) files characteristically confined files handled by SQ, or the archive itself was compressed with SQ. A compressed [LBR](/compression/lbr/) archive file was given the extension LQR or LZR.
+In the early 1980s, the [LBR](/compression/lbr/) file format was an archive file format used on CP/M and MS-DOS operating systems LBR files characteristically confined files handled by SQ, or the archive itself was compressed with SQ. A compressed LBR archive file was given the extension LQR or LZR.
