@@ -91,4 +91,4 @@ Each record starts with a deletion (1-byte) flag. Fields are wrapped into record
 
 ## References ##
 
-* [Data Files - Wikipedia](https://en.wikipedia.org/wiki/Data_file)
+* [.dbf - Wikipedia](https://en.wikipedia.org/wiki/.dbf)
