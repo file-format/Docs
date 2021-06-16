@@ -28,11 +28,11 @@ It Records events occur in the execution of a system in order to track and under
 Almost all database systems maintain the transaction log, which are not usually intended as an audit trail for later analysis, and are not human-readable. These logs only keep the record of changes to the existing data to enable the database to recover from crashes or other data errors and keep the data in a consistent state. Hence, database systems usually have both general event logs and transactional logs.
 ### Message logs
 The textual communication saved by Internet Relay Chat (IRC), instant messaging (IM) programs, peer-to-peer file sharing clients with chat functions, and multiplayer games (especially MMORPGs)are called message logs. These logs are generally saved in plain text files, but IM and VoIP clients (e.g. Skype) might save them in HTML files to ease reading or enable encryption.
-### Server log
+### Server logs
 Server log is actually a log file containing the a list of activities that performed and created or maintained automatically by the server itself.  Usually these files are not accessible to general Internet users, only to the webmaster or other administrative person of an Internet service.
 
 
 
 ## References ##
 
-* [Data Files - Wikipedia](https://en.wikipedia.org/wiki/Data_file)
+* [Log file - Wikipedia](https://en.wikipedia.org/wiki/Log_file)
