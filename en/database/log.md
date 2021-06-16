@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description" : "Learn about LOG file format and APIs that can create and open LOG files.",
-  "title" : "LOG - General Data File Format",
+  "title" : "LOG - Log File Format",
   "linktitle" : "LOG",
   "menu" : {
     "docs" : {
