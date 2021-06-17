@@ -1,6 +1,6 @@
 {
   "date" : "2021-06-17",
-  "keywords" : [ "DBC", "extension", "cdb file", "cdb file format", "Database File Type", "Database File Format", "what is a cdb file" ],
+  "keywords" : [ "DBC", "extension", "dbc file", "dbc file format", "Database File Type", "Database File Format", "what is a dbc file" ],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
