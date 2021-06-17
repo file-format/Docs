@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description" : "Learn about CDB file format and APIs that can create and open CDB files.",
-  "title" : "CDB - SPSS Data File",
+  "title" : "CDB - Constant Database File",
   "linktitle" : "CDB",
   "menu" : {
     "docs" : {
@@ -28,6 +28,7 @@ CDB database consists of an entire dataset in a single computer file. It contain
 - A fixed-size header 
 - Data
 - A set of hash tables. 
+
 Lookups are available for exact keys only. Lookups act using the following algorithm:
 
 - Hash the key.
