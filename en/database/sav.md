@@ -18,10 +18,10 @@
 }
 
 ## What is a SAV file?
-SAV file is a data file created by Statistical Package for the Social Sciences(SPSS), which is an application widely used by market researchers, health researchers, survey companies, government, education researchers, marketing organizations, data miners for statistical analysis. The SAV saved in a proprietary binary format and consists of a dataset as well as a dictionary that represent the dataset, saves data by rows and columns.
+SAV file is a data file created by the Statistical Package for the Social Sciences(SPSS), which is an application widely used by market researchers, health researchers, survey companies, government, education researchers, marketing organizations, data miners for statistical analysis. The SAV saved in a proprietary binary format and consists of a dataset as well as a dictionary that represent the dataset, saves data in rows and columns.
 
 ## SAV File Format
-The SAV file format has become relatively stable but we can't say it static. Backwards and forwards compatibility is optionaly available where necessary, but not maintained properly. The data in an SAV file is categorized into following sections: 
+The SAV file format has become relatively stable, but we can't say it static. Backwards and forwards compatibility is optionally available where necessary, but not maintained properly. The data in an SAV file is categorized into following sections: 
 
 ### File header
 It consists of 176 bytes. The first 4 bytes indicate the string **$FL2** or **$FL3** in the character encoding used for the file. The last three bytes represent that the data in the file is compressed using **ZLIB**. The next 60-byte string begins **@(#) SPSS DATA FILE** and also determines the operating system and SPSS version that created the file. The header then continues with six digit fields, containing the number of variables per observation and a digit code for compression, and ends with character data indicating creation date and time and a file label.
