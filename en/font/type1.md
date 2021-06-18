@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "Type1 - PostScript Type 1 fonts",
+  "title" : "Type 1 - PostScript Type 1 fonts",
   "description":"Type 1 font is a deprecated Adobe product which was widely used in the desktop based publishing softwares and printers that could use PostScript",
   "linktitle" : "Type1",
   "menu" : {
