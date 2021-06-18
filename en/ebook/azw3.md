@@ -19,11 +19,11 @@
 
 ## What is an AZW3 file?
 
-AZW3, also known as Kindle Format 8 (**KF8**), is the modified version of the [AZW](/ebook/azw/) ebook digital file format developed for Amazon Kindle devices. The format is an enhancement to older AZW files and is used on Kindle Fire devices only with backward compatibility for the ancestor file format i.e. [MOBI](/ebook/mobi/) and [AZW](/ebook/azw/). Amazon introduced KFX (KF version 10) format after KF8 that is used on the latest Kindle devices. AZW3 files have internet media type application/vnd.amazon.mobi8-ebook. AZW3 files can be converted to a number of other file formats such as [PDF](/pdf/), [EPUB](/ebook/epub/), [AZW](/ebook/azw/), [DOCX](/word-processing/docx/), and [RTF](/word-processing/rtf/).
+AZW3, also known as Kindle Format 8 (**KF8**), is the modified version of the [AZW](/ebook/azw/) ebook digital file format developed for Amazon Kindle devices. The format is an enhancement to older AZW files and is used on Kindle Fire devices only with backward compatibility for the ancestor file format i.e. [MOBI](/ebook/mobi/) and AZW. Amazon introduced KFX (KF version 10) format after KF8 that is used on the latest Kindle devices. AZW3 files have internet media type application/vnd.amazon.mobi8-ebook. AZW3 files can be converted to a number of other file formats such as [PDF](/pdf/), [EPUB](/ebook/epub/), [AZW](/ebook/azw/), [DOCX](/word-processing/docx/), and [RTF](/word-processing/rtf/).
 
 ## AZ3/KF8 File Format ##
 
-KF8 files are binary in nature and retain the structure of a [MOBI](/ebook/mobi/) file format as PDB file. As mentioned earlier, a KF8 file may consist of both a [MOBI]/ebook/mobi/) as well a newer KF8 version of ePub later. The internal details of the format have been decoded by [Kindle Unpack](https://github.com/kevinhendricks/KindleUnpack), which is a Python script that parses the final compiled database and extracts [MOBI](/ebook/mobi/) or [AZW](/ebook/azw/) source files from it. AZW3 (KF8) files target ePub3 version with the backward compatibility for ePub as well. KF8 compiles the ePub files and generates a binary structure based on the PDB file format.
+KF8 files are binary in nature and retain the structure of a MOBI file format as PDB file. As mentioned earlier, a KF8 file may consist of both a MOBI as well a newer KF8 version of EPUB later. The internal details of the format have been decoded by [Kindle Unpack](https://github.com/kevinhendricks/KindleUnpack), which is a Python script that parses the final compiled database and extracts MOBI or AZW source files from it. AZW3 (KF8) files target EPUB3 version with the backward compatibility for EPUB as well. KF8 compiles the EPUB files and generates a binary structure based on the PDB file format.
 
 ## References ##
 

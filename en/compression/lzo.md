@@ -21,7 +21,7 @@
 
 A file with .lzo extension is combined with file archiving features that can decrease all files size in the compressed file. All the compressed files may comprise one or more files or even groups of binders with several files of different kinds and dimensions. The size of a compressed file is smaller as compared to the joint size of all files and folders stored in an LZO compressed file. All the LZO compressed files are stored in the LZO format and are explicitly executed with compression features used by the LZOP file compression and decompression software. All the compression specifications are combined into this file compression and decompression program that is originated from the Lempel-Ziv-Oberhume file compression library. Faster decompression speed and developed compression ratios are also combined into these LZO files.
 
-## Specification of the file ##
+## LZO Specification ##
 
 Markus Franz Xaver Johannes Oberhumer developed the original "lzop" algorithm, based on earlier algorithms by Abraham Lempel and Jacob Ziv, in 1996. This library implements a variety of algorithms with the following characteristics:
 

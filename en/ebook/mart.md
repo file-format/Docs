@@ -1,6 +1,6 @@
 {
   "date" : "2021-03-22",
-  "keywords" : [ "MART", "MartView eBook File", "extension", "format", "E-Book", "e-publication", "martview reader"],
+  "keywords" : [ "MART", "MartView eBook File", "extension", "format", "eBook", "e-publication", "martview reader"],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
@@ -17,15 +17,13 @@
   "lastmod" : "2021-03-22"
 }
 
-## What is a MART file?
+## What is a MART file? ##
+
 The MART files are known as e-publication files used by the MartView software. These files can be extracted pages from a magazine or book and contain page information. The MART files are used to download and render the e-publications using the **MartView reader** program.
 
-## MartView files in depth
+## MART File Format ##
 
-The Martview is an e-book reader for the Windows operating system which is available at free of cost. It supports the pdf document format and its own  files with .mart extension. The developers should focus on the format support aspects and they need to add as many as possible formats support. They should at least add support for commonly used ebook formats like [.epub](/ebook/epub/), [.docx](/word-processing/docx/), [.txt](/word-processing/txt/) and [.azw](/ebook/azw/). The MART files can be created from [PDF](https://docs.fileformat.com/pdf/) files, [zips](/compression/zip/), comic book archives, [JPG](/image/jpeg/), [GIF](https://docs.fileformat.com/image/gif/), [PNG](/image/png/) and [BMP](/image/bmp/). 
-
-The MART files may be well suited for single files working, but if you many ebooks in different formats, then you surely do not want to spend time to convert all of them into a single format just to be able to read them in the ebook reader.
-
+Martview's eBook format is proprietary and works as a container for images. Open source converters enable eBook readers to convert [PDF](/pdf/), [GIF](/image/gif/), [GIF](/image/gif/), [PNG](/image/png/), [RAR](/compression/rar/) and [ZIP](/compression/zip/) documents to Martview's format. Note that the RAR and ZIP files must contain images. The MART files may be well suited for single files working, but if you have many ebooks in different formats, then you surely do not want to spend time converting all of them into a single format just to be able to read them in the ebook reader.
 
 ## References
 

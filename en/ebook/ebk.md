@@ -1,6 +1,6 @@
 {
   "date" : "2021-03-17",
-  "keywords" : [ "EBK", "eBook Pro eBook File", "extension", "format", "E-Book", "Ebook Pro Viewer"],
+  "keywords" : [ "EBK", "eBook Pro eBook File", "extension", "format", "eBook", "Ebook Pro Viewer"],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
@@ -18,7 +18,7 @@
 }
 
 ## What is an EBK file?
-An EBK extension is used by the software **eBook Pro Viewer** when it saves an e-book file. The eBook Pro is a software which can create eBooks and protect copyrighted information. An EBK file contains the encrypted and compressed version of an e-book which can be read using **eBook Pro Viewer**; after providing appropriate credentials for authentication.
+An EBK extension is used by the software **eBook Pro Viewer** when it saves an eBook file. The eBook Pro is a software which can create eBooks and protect copyrighted information. An EBK file contains the encrypted and compressed version of an e-book which can be read using **eBook Pro Viewer**; after providing appropriate credentials for authentication.
 
 ## References
 

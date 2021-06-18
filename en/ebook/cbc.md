@@ -24,11 +24,11 @@ A file with .cbc extension is a compressed collection of Comic Book files for eB
 
 ## CBC File Format
 
-CBC files are compressed archives that contain [CBZ](/ebooks/cbz/), [CBR](/ebooks/cbr/), and a text file for listing the contents. The text file, comics.txt is UTF8 encoded and contains a list of the CBC files to be used by readers for organizing their collections. A CBC file has usually several attributes that allow the organization of this collection such as Comic, Category, Publisher, Series, Edition, and Artist.
+CBC files are compressed archives that contain CBZ, CBR, and a text file for listing the contents. The text file, comics.txt is UTF8 encoded and contains a list of the CBC files to be used by readers for organizing their collections. A CBC file has usually several attributes that allow the organization of this collection such as Comic, Category, Publisher, Series, Edition, and Artist.
 
 Contents of a sample CBC file are listed as follows:
 
- * comics.txt - Text file that contains list of [CBR](/ebooks/cbr/) and [CBZ](/ebooks/cbz/) files
+ * comics.txt - Text file that contains list of CBR and CBZ files
  * 1.cbz
  * 2.cbz
  * 3.cbz

@@ -28,7 +28,7 @@ As an eBook file format, the iBooks file format was established on different dev
  *	Books kept as iBooks files can then be available on iTunes for users of all kinds of Apple devices to download and read 
  *	Primarily, the iBooks format utilizes the "iBooks 2" format and was only being used for creating textbooks
  *	Still, nowadays it is used for generating all kinds of digital books, not only educational ones
- *  It supports EPUB and PDF formats, and the iBooks app on an iOS device or a Mac running OS 10.9 or earlier can be used to read them
+ *  It supports [EPUB](/ebook/epub/) and [PDF](/pdf/) formats, and the iBooks app on an iOS device or a Mac running OS 10.9 or earlier can be used to read them
  *  Apple offers the iBooks Author platform for creating iBooks. iBooks Author permits users to create iBooks using the unique Apple-only multi-touch EPUB standard
 
 ## Brief History ##
