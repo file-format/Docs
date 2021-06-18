@@ -7,7 +7,7 @@
   "toc" : true,
   "title" : "RJS - Ruby Javascript File",
   "description":"Learn about what is RJS file format and APIs that can create and open RJS files.",
-  "linktitle" : "RHTML",
+  "linktitle" : "RJS",
   "menu" : {
     "docs" : {
       "parent" : "web"
