@@ -81,7 +81,7 @@ BO_ 200 SENSOR_SONARS: 8 SENSOR
 
 ## DBC Example
 
-Here is the complete example of a dbc file:
+Here is a complete example of a dbc file:
 
 ```
 VERSION ""

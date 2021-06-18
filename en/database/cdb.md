@@ -1,5 +1,5 @@
 {
-  "date" : "2021-06-14",
+  "date" : "2021-06-16",
   "keywords" : [ "CDB", "extension", "cdb file", "cdb file format", "Database File Type", "Database File Format", "what is a cdb file" ],
   "author" : {
     "display_name" : "Muhammad Umar"
@@ -14,7 +14,7 @@
       "parent" : "database"
     }
   },
-  "lastmod" : "2021-06-14"
+  "lastmod" : "2021-06-16"
 }
 
 ## What is a CDB file?
@@ -51,13 +51,6 @@ CDB can manage any database up to 4 gigabytes. Since there are no other restrict
 The command **cdbmake** can re-write an entire database into two orders of magnitude, faster than other hashing packages.
 ##### Fast database dumps
 **cdbdump** can prints the contents of a database in cdbmake-compatible format.
-
-
-
-
-
-
-
 
 
 ## References ##
