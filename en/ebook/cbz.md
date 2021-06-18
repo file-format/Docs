@@ -19,11 +19,11 @@
 
 ## What is a CBZ file?
 
-A file with .cbz extension is a comic book [ZIP](/compression/zip/) archive file that is a collection of images, representing the pages of a comic book. CBZ is different from other ebook files that are not compressed. Most of the ebook and comic book readers support viewing these files. [CBR](/compression/cbr/) is another comic book archive file format that uses [RAR](/compression/rar/) compression instead of [ZIP](/compression/zip/). CBZ and [CBR](/compression/cbr/) files can be contained inside comic book collection files such as [CBC](/ebook/cbc/). Applications that can open and read CBZ files include software apps such as Calibre and Comic Book Reader.
+A file with .cbz extension is a comic book [ZIP](/compression/zip/) archive file that is a collection of images, representing the pages of a comic book. CBZ is different from other ebook files that are not compressed. Most of the ebook and comic book readers support viewing these files. [CBR](/compression/cbr/) is another comic book archive file format that uses [RAR](/compression/rar/) compression instead of ZIP. CBZ and CBR files can be contained inside comic book collection files such as [CBC](/ebook/cbc/). Applications that can open and read CBZ files include software apps such as Calibre and Comic Book Reader.
 
 ## CBZ File Format
 
-A CBZ file is a ZIP archive that contains ebook pages as images in [PNG](/image/png/), [JPEG](/image/jpeg/), or [GIF](/image/gif/) file formats. It can be decompressed and its contents can be extracted using any decompression software that supports [ZIP](/compression/zip/) file format. Images extracted using decompression software are not in the same order as they appear in the CBZ file as information about the order of images lies inside the CBZ file.
+A CBZ file is a ZIP archive that contains ebook pages as images in [PNG](/image/png/), [JPEG](/image/jpeg/), or [GIF](/image/gif/) file formats. It can be decompressed and its contents can be extracted using any decompression software that supports ZIP file format. Images extracted using decompression software are not in the same order as they appear in the CBZ file as information about the order of images lies inside the CBZ file.
 
 ## References
 

@@ -19,13 +19,13 @@
 
 ## What is a MOBI file?
 
-The MOBI file format is one of the most widely used ebook file format. The format is an enhancement to the old OEB (Open Ebook Format) format and was used as proprietary format for Mobipocket Reader. Like [EPUB](/ebook/epub/), it is supported by almost all modern e-readers specifically by mobile devices with low bandwidth. The format can be converted to several other formats such as PDF, EPUB and several other formats using publicly available software applications such as the [Kindle app](https://www.amazon.com/kindle-dbs/fd/kcp). There are several companies that offer free MOBI books such as [Project Gutenberg](http://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/), and [Open Library](https://openlibrary.org/).
+The MOBI file format is one of the most widely used ebook file formats. The format is an enhancement to the old OEB (Open Ebook Format) format and was used as the proprietary format for Mobipocket Reader. Like [EPUB](/ebook/epub/), it is supported by almost all modern e-readers specifically by mobile devices with low bandwidth. The format can be converted to several other formats such as [PDF](/pdf/), EPUB, and several other formats using publicly available software applications such as the [Kindle app](https://www.amazon.com/kindle-dbs/fd/kcp). There are several companies that offer free MOBI books such as [Project Gutenberg](http://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/), and [Open Library](https://openlibrary.org/).
 
 ## Brief History ##
 
-[Amazon](https://www.amazon.com) bought the company behind MOBI file format back in 2005. It was in 2011 when support for the MOBI file format was officially discontinued. Amazon's current Kindle formats (AZW3, KF8 and KFX) are based on MOBI but have a different DRM scheme.
+[Amazon](https://www.amazon.com) bought the company behind MOBI file format back in 2005. It was in 2011 when support for the [MOBI](/ebook/mobi/) file format was officially discontinued. Amazon's current Kindle formats ([AZW3](/ebook/azw3/), KF8 and KFX) are based on MOBI but have a different DRM scheme.
 
-Features have been added to the format from time to time and new files may have problems if you try to read them with a down level reader. Open eBook format is the present source to be followed by source files anyways.
+Features have been added to the format from time to time and new files may have problems if you try to read them with a down-level reader. The open eBook format is the present source to be followed by source files anyways.
 
 ## MOBI File Format ##
 
