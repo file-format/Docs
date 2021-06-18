@@ -68,5 +68,4 @@ function FindProxyForURL(url, host) {
 ```
 ## References
 
-* [RJS](https://github.com/makevoid/rjs)
-* [RJS Resources](http://www.rubyinside.com/16-rjs-resources-and-tutorials-for-rails-programmers-5.html)
+* [What is PAC file?](http://findproxyforurl.com/pac-file-introduction/)
