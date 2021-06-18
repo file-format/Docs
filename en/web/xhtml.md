@@ -5,8 +5,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "XHTML",
-  "description":"Learn about XHTML file format and APIs that can create and open XHTML files.",
+  "title" : "XHTML - Extensible Hypertext Markup Language File Format",
+  "description":"Learn about what is XHTML file format and APIs that can create and open XHTML files.",
   "linktitle" : "XHTML",
   "menu" : {
     "docs" : {
@@ -16,19 +16,21 @@
   "lastmod" : "2019-09-10"
 }
 
+## What is an XHTML file?
+
 The XHTML is a text based file format with markup in the XML, using a reformulation of HTML 4.0. These files are well suited to be open or viewed in a web browser. XHTML was designed to be more structured, less scripting, generic; using all the existing facilities of XML and more device independent. XHTML provides a generally worthwhile set of elements and attributes, with extension options in combination with style sheets. The attributes are used from the metadata attributes collection. XHTML provides flexibility and accessibility by subordinating all **[HTML](/web/html/)** presentation elements to style sheets. Style sheets are more versatile than these presentational elements.  Specifications for HTML 4.01, HTML5 and XHTML are being dynamically developed by the World Wide Web Consortium (W3C).
 
-## History ##
+## Brief History of XHTML File Format
 
 The history of XHTML starts with a draft document released in December 1998 by the World Wide Web Consortium. This document refers the "Reformulating HTML in XML", a specification called XHTML 1.0.This new specification reformulated HTML in XML using the existing elements or attributes. In May 1999, W3 Consortium declared that HTML 4.0 had been re-formed as an XML application. i.e. XHTML. In January 26, 2000, the first specification that defines XHTML 1.0 was released by W3C. Further in May 31, 2001, the W3C announced XHTML as an independent language and started working on development of HTML 5.0. However, in 2005, a working group (WHATWG) was formed that aimed to improve ordinary HTML independent of XHTML. The WHATWG eventually started working on HTML5 in parallel to XHTML 2.
 
-## File Format ##
+## XHTML File Format
 
 XHTML is a format, which is a collection of different document types and modules that mimic, categorize, and extend HTML 4. The files in XHTML are XML based, and aimed to work with the user agents based on XML. XHTML files are XML conforming. Standard XML tools are used to view, edit and validated XHTML files. HTML Document Object Model or the XML Document Object Model [DOM] dependent applications can operate through XHTML documents. Opting XHTML today, content developers can enjoy all associated benefits of XML without worrying about their content's forward or backward compatibility.
 
 A set of related elements build a module in XHTML. A forms or table module may contain various form or table elements that can be displayed on a webpage. The modularization aimed to isolate HTML elements into sets of numerous linked elements. So that content developers can take the advantage of module selection for different types of devices. Furthermore, modules allow user agents to select elements without losing consistency with the XHTML standard. Parsing requirements of XHTML is same as XML while HTML practices its own.
 
-## Document Conformance ##
+### Document Conformance
 
 XHTML2 offer specifications conforming XHTML 1.0 documents, which uses the namespaces elements and attributes from the XML and XHTML 1.0. Document Conformance is of two types.
 
@@ -87,10 +89,10 @@ If a user agent bumps into an unrecognized element, following are the mandatory 
 
 When user agent come across an entity reference declaration has not been processed earlier then it should be processed as the characters (starting with the “&” sign and ending with the semi-colon).  During content processing, characters or character entity references that are predictable by the user agent but not renderable may use any alternative rendering that yields the similar meaning. In such case, the document must be displayed in a manner that make the user obvious about the fact that rendering process has not been normal. For processing whitespace, user agent need to look definition from CSS characters [CSS2].
 
-## Backward compatibility ##
+## XHTML Backward compatibility
 
 The back ward compatibility of XHTML 1.  documents is well versed with HTML 4 user agents, if the proper rules are followed. XHTML 1.1 is fully compatible except ruby annotations, even though they are generally ignored by the HTML 4 browsers. XHTML 2.0 is comparatively less compatible, nevertheless the problem has been addressed to some extent through the usage of scripting.
 
-## References ##
+## References
 
 * [A History of XHTML: From the 1990s to Today](https://www.brighthub.com/internet/web-development/articles/109224.aspx)

@@ -18,7 +18,7 @@
 
 ## What is an ODT file?
 
-ODT files are type of documents created with word processing applications that are based on OpenDocument Text File format. These are created with word processor applications such as free OpenOffice Writer and can hold content such as text, images, objects and styles. The ODT file is to Writer word processor what the [DOCX](https://wiki.fileformat.com/create/word-processing/docx/WebHome?parent#Word+Processing.ODT.WebHome) is to Microsoft Word. Several applications including Google Docs and Google's web-based word processor included with Google Drive can open the ODT files for editing. Microsoft Word can also open ODT files and save it in to other formats such as [DOC](https://wiki.fileformat.com/create/word-processing/doc/WebHome?parent#Word+Processing.ODT.WebHome) and DOCX.
+ODT files are type of documents created with word processing applications that are based on OpenDocument Text File format. These are created with word processor applications such as free OpenOffice Writer and can hold content such as text, images, objects and styles. The ODT file is to Writer word processor what the [DOCX](/word-processing/docx/) is to Microsoft Word. Several applications including Google Docs and Google's web-based word processor included with Google Drive can open the ODT files for editing. Microsoft Word can also open ODT files and save it in to other formats such as [DOC](/word-processing/doc/) and DOCX.
 
 ## Brief History ##
 
@@ -34,7 +34,7 @@ There were pretty minor changes in transition from ODF 1.0 to 1.1 versions. The�
 
 ## File Format Specifications ##
 
-OpenDocument format supports document representation as a single XML document as well as a collection of several subdocuments within a package as [ZIP](https://wiki.fileformat.com/Compression/ZIP/) archive.  Each of the files from the ZIP archive stores part of the complete document. Each subdocument stores a particular aspect of the document. For example, one subdocument contains the style information and another subdocument contains the content of the document. A typical ODF document has the following components:
+OpenDocument format supports document representation as a single XML document as well as a collection of several subdocuments within a package as [ZIP](/Compression/ZIP/) archive.  Each of the files from the ZIP archive stores part of the complete document. Each subdocument stores a particular aspect of the document. For example, one subdocument contains the style information and another subdocument contains the content of the document. A typical ODF document has the following components:
 
 * content.xml – Document content and automatic styles used in the content.
 * styles.xml – Styles used in the document content and automatic styles used in the styles themselves.

@@ -7,7 +7,7 @@
   "toc" : true,
   "title" : "VCF - Virtual Contact File",
   "description":"Learn about VCF file format and APIs that can create and open VCF files.",
-  "linktitle" : "VCF - Virtual Contact File",
+  "linktitle" : "VCF",
   "menu" : {
     "docs" : {
       "parent" : "email"

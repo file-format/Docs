@@ -23,7 +23,7 @@ The file with .jspf extension is called JSP fragment; a static file included in 
 ## JSPF file format
 The term "JSP segment" is used instead as the term "JSP fragment" is overloaded in the JSP 2.0 Specification. The JSP fragments can use either .jsp or .jspf extensions and should be placed either in **/WEB-INF/jspf** or with the rest of the static files. The JSP fragments that are not complete pages must use the .jspf extension and must be placed in **/WEB-INF/jspf** 
 
-## JSP or JSP Fragment File Organization
+### JSP or JSP Fragment File Organization
 A JSP file contains the following sections in the order they are listed:
 
 1. Opening comments

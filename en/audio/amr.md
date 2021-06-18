@@ -18,9 +18,12 @@
 }
 
 ## What is an AMR file?
-The file with .amr extension is an audio data format relevant to **Adaptive Multi-Rate** audio codec; consists of a multi-rate narrowband speech codec which encodes narrowband signals at 4.75-12.2 kbit/s bit rate with toll quality speech starting at 7.4 kbit/s; uses link adaptation to select from one of eight different bit rates based. AMR files use many coding techniques, the ACELP (Algebraic Code Excited Linear Prediction) algorithm one of the best technique; designed for compressing human spoken audio in a more efficient way. The AMR was set as the standard voice or speech codec by 3GPP in 1999. The AMR file format is also used to store the spoken audio by using **Adaptive Multi-Rate** audio codec which is used by many smart phones to store recorded speeches.
+The file with .amr extension is an audio data format relevant to **Adaptive Multi-Rate** audio codec; consists of a multi-rate narrowband speech codec which encodes narrowband signals at 4.75-12.2 kbit/s bit rate with toll quality speech starting at 7.4 kbit/s; uses link adaptation to select from one of eight different bit rates based. 
 
-## AMR file format structure
+## AMR File Format
+AMR file format uses many coding techniques, the ACELP (Algebraic Code Excited Linear Prediction) algorithm one of the best technique; designed for compressing human spoken audio in a more efficient way. The AMR was set as the standard voice or speech codec by 3GPP in 1999. The AMR file format is also used to store the spoken audio by using **Adaptive Multi-Rate** audio codec which is used by many smart phones to store recorded speeches.
+
+### File format structure
 The AMR( Adaptive Multi-Rate ) is an audio format; widely used in various mobile applications and devices, typically in audio player/recorder or in VoIP kind of applications. AMR can be further classified as:
 
 1. AMR-NB( NarrowBand )
@@ -36,7 +39,9 @@ Each AMR file contains a 6-byte header that recognize the file as an AMR audio. 
 - 0x52
 - 0x0A
 
-This is usually simialr across all AMR-NB files. If the header following a standard, it is likely that the file is corrupted and should not be used. the AMR file consists of a whole number of packed frames of audio. These frames each compose 20ms of audio. Each frame can be encoded using any of the valid AMR-NB modes (0-7, 8 SID in DTX mode). Since, the frames can be encoded at different bit rates, this typical method is called Adaptive Multi-Rate(AMR). Following are the different AMR modes and their corresponding bitrates:
+This is usually simialr across all AMR-NB files. If the header following a standard, it is likely that the file is corrupted and should not be used. the AMR file consists of a whole number of packed frames of audio. These frames each compose 20ms of audio. Each frame can be encoded using any of the valid AMR-NB modes (0-7, 8 SID in DTX mode). Since, the frames can be encoded at different bit rates, this typical method is called Adaptive Multi-Rate(AMR). 
+#### AMR modes
+Following are the different AMR modes and their corresponding bitrates:
 
 |MODE| BIT RATES|
 ---|---|
