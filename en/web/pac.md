@@ -16,7 +16,7 @@
   "lastmod" : "2021-06-17"
 }
 
-## What is an PAC file?
+## What is a PAC file?
 
 A file with .pac (Proxy Auto-Configuration) extension is a configuration file that contains rules sending web requests directly to internet or route these via a proxy server. It contains a [JavaScript](/web/js/) function that routes the web requests via some web proxy server instead of sending these directly to the destination. A proxy server is like a man-in-the-middle that accepts requests from multiple clients and serves these by forwarding to destinations. These are used to control the load on internet traffic. PAC files can be opened with any text editor such as Microsoft Notepad.
 
