@@ -20,11 +20,11 @@
 
 Files with **.htm** extension represent Hypertext Markup Language for creating web pages for display in web browsers such as Google Chrome, Internet Explorer, Firefox and a number of others. It defines the markups for creating static pages to be published on World Wide Web (WWW) for access by others. These markups tell the browsers how to display a web page's contents. Such pages can contain plain text, images, hyperlinks to other pages, videos and other media information. When a web page is published, you can have a look at the markup code behind it by viewing its page source. Modern browsers allow to inspect each section of a web page where each sub-division or markup element in the HTM source is elaborated.
 
-## Brief History of HTM##
+## Brief History of HTM
 
 Since its inception and first role out, the HTML specifications have been maintained by World Wide Web Consortium (W3C) since 1996. In 2000, it also became an international standard (ISO/IEC 15445:2000). In 1999, HTML 4.01 was published. In 2004, the Web Hypertext Application Technology Working Group (WHATWG) started working on the HTML5 version which became a joint deliverable with the W3C in 2008. It was completed and standardized on 28 Oct 2014.
 
-## HTML File Format ##
+## HTML File Format
 
 An HTML 4 document is composed of three parts:
 
@@ -47,7 +47,7 @@ Each section can be lead or followed by white spaces, newlines, tabs and comment
 </HTML>
 ```
 
-### Version Information ###
+### Version Information
 
 The first line of code, <!DOCTYPE html>, is called a doctype declaration and tells the browser which version of HTML the page is written in. Depending upon the version of HTML, there are a number of different doctype declarations that names the document type definition (DTD) in use for the document. Each DTD differs from other in the elements it supports and differ as follow:
 
@@ -61,13 +61,13 @@ For **HTML5**, the version information is simply as mentioned below.
 <!DOCTYPE html>
 ```
 
-### Header Information ###
+### Header Information 
 
 Header of an HTML document can include a number of HTML elements that are not rendered by the browser. Such elements are either metadata that describe information about the page or includes sections that are used to fetch information from external resources like CSS stylesheets or JavaScript files. Header of a page is represented by \<head> tag and ends with \</head> tag.
 
 For setting page title, the \<title> element is the only one that is required within the \<head> tags. The same is used by Search engines to identify the title of a page.
 
-### Body Information ###
+### Body Information 
 
 This is the main section in the file that contains all the contents of the file that are rendered by browsers. Html body can contain markups that can refer to various building blocks in the shape of tags. It can contain several different types of information like text, images, colors, graphics, etc. In addition, audio and video elements can also be embedded in html body for rendering by browsers. In presence of modern style sheets application for visual representation, the presentation attributes of BODY such as background color, link color, text color, etc. have been deprecated. Thus, the same effects can be achieved using stylesheets as shown below:
 
@@ -107,7 +107,7 @@ Inline style sheets are easy to embed and for quick applications to the visual e
 
 ```
 
-### HTML Elements ###
+### HTML Elements 
 
 As mentioned earlier, contents inside HTML Body are represented by tags, also known as Html Elements. Each tag can have additional information in the form of attributes which are written as 
 ```
@@ -115,7 +115,7 @@ As mentioned earlier, contents inside HTML Body are represented by tags, also kn
 ```
 though it is not necessary to have attributes with every tag. If attributes are not mentioned, default values are used in each case. Following are some of the Element examples:
 
-#### Header ####
+#### Header 
 
 ```
 <head>
@@ -123,7 +123,7 @@ though it is not necessary to have attributes with every tag. If attributes are 
 </head>
 ```
 
-#### Headings ####
+#### Headings 
 
 ```
 <h1>Heading level 1</h1>
@@ -134,12 +134,12 @@ though it is not necessary to have attributes with every tag. If attributes are 
 <h6>Heading level 6</h6>
 ```
 
-#### Paragraphs ####
+#### Paragraphs 
 
 ```
 <p>Paragraph 1</p> <p>Paragraph 2</p>
 ```
 
-## References ##
+## References
 
 * [The Global Structure of HTML document](https://www.w3.org/TR/html401/struct/global.html#h-7.5.4)
