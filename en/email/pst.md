@@ -47,7 +47,7 @@ At the base of PST file format lies B-Tree that keeps data sorted and allows sea
 
 High level of file organization of PST file is as shown in the figure below. This is just an overview of different concepts from logical elements of PST file.
 
-![Physical organization of the PST file format](/email/PST-2.png.png "Physical organization of the PST file format")
+![Physical organization of the PST file format](/email/PST-2.png "Physical organization of the PST file format")
 
 
 #### PST Header Information
