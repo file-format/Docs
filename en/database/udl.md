@@ -41,7 +41,7 @@ Following properties can be set in a UDL to ensure the proper connectivity:
 - **Allow saving password**: Allows the password to be saved with the connection string.
 - **Use strong encryption for data**: data that is passed through the connection will be encrypted.
 - **Trust server certificate**: The server's certificate will be validated.
-- **Database**: Database name that you want to access.\
+- **Database**: Database name that you want to access.
 - **Attach a database file as a database name**: Specifies the name of the primary file for an attachable database.
 
 ## References ##
