@@ -6,8 +6,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "C",
-  "description":"Learn about CD file format and APIs that can create and open C files.",
+  "title" : "CD - Visual Studio Class Diagram File",
+  "description":"Learn about CD file format and APIs that can create and open CD files.",
   "linktitle" : "CD",
   "menu" : {
     "docs" : {
