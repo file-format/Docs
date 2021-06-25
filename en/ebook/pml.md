@@ -1,6 +1,6 @@
 {
   "date" : "2021-03-08",
-  "keywords" : [ "PML", "eReader", "extension", "format", "E-Book", "Palm Markup Language" ],
+  "keywords" : [ "PML", "eReader", "extension", "format", "eBook", "Palm Markup Language" ],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
@@ -19,10 +19,11 @@
 
 ## What is a PML file?
 
-Palm Inc introduced the PML file format which stands for Palm Markup Language File. Its purpose is to create docs for eReader which is an ebook reading device similar to the tablet computer. The PML file gives the layout to a PDB file (containing various data files) to display on a Palm Device.
+Palm Inc introduced the PML file format which stands for Palm Markup Language File. Its purpose is to create docs for eReader which is an eBook reading device similar to the tablet computer. The PML file gives the layout to a [PDB](/ebook/pdb/) file (containing various data files) to display on a Palm Device.
 
 ## Technical details of PML Files
-The structure of PML files consist of tags for creating e-book setup, including paragraphs, headings, indentions and references. It also allows the formatting tags such as Bold, Small Caps and Superscript. Developers can also add the images to the e-books.
+
+The structure of PML files consists of tags for creating an eBook setup, including paragraphs, headings, indentations, and references. It also allows the formatting tags such as Bold, Small Caps, and Superscript. Developers can also add images to the eBooks.
 
 ### Palm Markup Language
 The following table specifies the PML commands:

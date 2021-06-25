@@ -19,7 +19,7 @@
 
 ## What is a TPZ file? ##
 
-The .tpz file extension is also known as Kindle Topaz eBook Format by Amazon. Linux, Mac OS, and Windows are some of the platforms in which files with .tpz file extension may be distributed. These files come under text files. Amazon Kindle and Caliber are the most common related software that can easily manage this type of file extension. Innovative implanted font provision is executed into these files plus supporting particulars like remarks and bookmarks can also be added into it. This file can also be categorized as the data file.
+The .tpz file extension is also known as Kindle Topaz eBook Format by Amazon. Linux, Mac OS, and Windows are some of the platforms in which files with .tpz file extension may be distributed. As Kindle Topaz eBook file, TPZ file is formatted to look like traditional ebooks, and contains proprietary data compilation standards from Amazon for the TPZ format. This file have advanced embedded font support, and additional details such as annotations and bookmarks can also be included in the Kindle Topaz eBook files, although these metadata details are stored separately. TPZ file can also be categorized as a data file that can be downloaded from Amazon's online database of Kindle ebooks.
 
 ## Problems to open a TPZ file? ##
 
