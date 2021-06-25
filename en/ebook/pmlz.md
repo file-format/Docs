@@ -1,6 +1,6 @@
 {
   "date" : "2021-03-30",
-  "keywords" : [ "PMLZ", "Zipped Palm Markup Language File", "extension", "File", "format", "E-Book", "Palm Markup Language" ],
+  "keywords" : [ "PMLZ", "Zipped Palm Markup Language File", "extension", "File", "format", "eBook", "Palm Markup Language" ],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
@@ -19,7 +19,7 @@
 
 ## What is a PMLZ file?
 
-Palm Inc introduced an ebook file type; known as the PMLZ file format which a compressed version of [PML](https://docs.fileformat.com/ebook/pml/) file format that's why the files with .pmlz extensions are known as **Zipped Palm Markup Language File**. The PMLZ file is just a zip container of a file which compiles [PDB]() files to create docs for **eReader** (Known as an ebook reading device such as tablet computer). The PML file gives the layout to a PDB file (containing various data files) to display on a Palm Device. Whereas, a PDB file is a database file, which is used by various applications, including Quicken, Pegasus, Microsoft Visual Studio, and Palm Pilot. In short, a PMLZ is a compressed container of PML and PDB files.  
+Palm Inc introduced an eBook file type; known as the PMLZ file format which a compressed version of [PML](/ebook/pml/) file format that's why the files with .pmlz extensions are known as **Zipped Palm Markup Language File**. The PMLZ file is just a zip container of a file that compiles [PDB](/ebook/pdb/) files to create docs for **eReader** (Known as an ebook reading device such as a tablet computer). The PML file gives the layout to a PDB file (containing various data files) to display on a Palm Device. Whereas, a PDB file is a database file, which is used by various applications, including Quicken, Pegasus, Microsoft Visual Studio, and Palm Pilot. In short, a PMLZ is a compressed container of PML and PDB files.  
 
 
 ## Knowledge about Palm Markup Language
