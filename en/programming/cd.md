@@ -25,7 +25,7 @@ A file with .cd extension is a Visual Studio class diagram file that provides in
 
 A class diagram file is saved in standard XML file format that represents classes in a project as XML nodes. If Visual Studio is not available, these class diagram files can be opened in any application program that supports opening XML files.
 
-## How to Add Class Diagrams to Visual Studio Project
+### How to Add Class Diagrams to Visual Studio Project
 
 In Visual Studio, open the Solution/Project for which you want to add the class diagram. Then, right-click the project node and then choose Add > New Item. Or, press Ctrl+Shift+A.
 
@@ -33,9 +33,9 @@ In Visual Studio, open the Solution/Project for which you want to add the class 
 
  * Expand Common Items > General, and then select Class Diagram from the template list. For Visual C++ projects, look in the Utility category to find the Class Diagram template.
 
-## Export Class Diagrams (CD) to Images
+### Export Class Diagrams (CD) to Images
 
-Visual Studio allows to convert/export class diagrams to images. These exported class diagram files can be used for documentation and technical data pack (TDP) record keeping purpose. To convert a class diagram to image, the following steps can be used from within the Microsoft Visual Studio.
+Visual Studio allows to convert/export class diagrams to images such as [PNG](/image/png/), [JPEG](/image/jpeg/), and [BMP](/image/bmp/). These exported class diagram files can be used for documentation and technical data pack (TDP) record keeping purpose. To convert a class diagram to image, the following steps can be used from within the Microsoft Visual Studio.
 
 1. Open your class diagram (.cd) file.
 1. From the Class Diagram menu or the diagram surface shortcut menu, choose Export Diagram as Image.
@@ -43,6 +43,6 @@ Visual Studio allows to convert/export class diagrams to images. These exported 
 1. Select the format that you want.
 1. Choose Export to finish exporting.
 
-## **References**
+## References
 
 * [Design Classes in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
