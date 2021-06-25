@@ -8,7 +8,7 @@
   "categories" : [ "fundamentals" ],
   "title" : "Learn about Executable File Formats and APIs that can open and create executable files",
   "description":"Executable files are used to instruct a computer to perform specific operations as the encoded set of instructions; written in those files",
-  "linktitle" : "Executable",
+  "linktitle" : "Executable File Formats",
   "menu" : {
     "docs" : {
       "parent" : "executable",

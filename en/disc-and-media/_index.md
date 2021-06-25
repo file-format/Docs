@@ -8,7 +8,7 @@
   "categories" : [ "fundamentals" ],
   "title" : "Learn about Disc and Media File Formats and APIs that can open and create Disc and Media files",
   "description":"Disc image file or media file is a computer file which contains the contents and structure of a disc volume",
-  "linktitle" : "Disc and Media",
+  "linktitle" : "Disc and Media File Formats",
   "menu" : {
     "docs" : {
       "parent" : "disc-and-media",
