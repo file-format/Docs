@@ -6,7 +6,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "C",
+  "title" : "C - C Language Programming File",
   "description":"Learn about C file format and APIs that can create and open C files.",
   "linktitle" : "C",
   "menu" : {
