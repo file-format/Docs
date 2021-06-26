@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "RDLC - Report Definition Language Client-side",
-  "keywords" : [ "rdlc", "report definition language", "mkv format", "XSD", "report definition language client side"],
+  "keywords" : [ "rdlc", "report definition language", "how to open rdlc file", "report definition language client side"],
   "description":"Learn about RDLC file format which is an XML representation of a SQL Server Reporting Services report definition.",
   "linktitle" : "RDLC",
   "menu" : {
