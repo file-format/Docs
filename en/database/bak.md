@@ -1,6 +1,6 @@
 {
   "date" : "2020-11-11",
-  "keywords" : [ "BAK", "extension", "file", "file format", "BAK File Type", "Database File Type", "Database File Format", "Database Files" ],
+  "keywords" : [ "BAK", "extension", "file", "file format", "BAK File Type", "BAK File Extension", "Database File Type", "Database File Format", "Database Files" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
