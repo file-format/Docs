@@ -1,6 +1,6 @@
 ---
 date: 2021-03-21
-keywords: flac, flac file format, .flac extension
+keywords: alac, alac file format, .alac extension
 author:
   display_name: Kashif Iqbal
 draft: false
