@@ -26,7 +26,7 @@ ZIM file format was developed on top of [Zeno file format](https://openzim.org/w
 
 ZIM file format uses LZMA2 compression to make the content compact.
 
-{{< figure src="../ZIM_File_Format.png" alt="ZIM File Format" >}}
+{{< figure src="../ZIM_File_Format.jpeg" alt="ZIM File Format" >}}
 
 
 ### ZIM Header
