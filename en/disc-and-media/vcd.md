@@ -5,13 +5,13 @@
     "display_name" : "Muhammad Umar"
   },
   "draft" : "false",
+   "toc" : true,
   "description" : "Learn about VCD file format and APIs that can create and open VCD files.",
   "title" : "VCD - Virtual CD File",
   "linktitle" : "VCD",
   "menu" : {
     "docs" : {
-      "parent" : "disc-and-media",
-      "weight" : "04"
+      "parent" : "disc-and-media"
     }
   },
   "lastmod" : "2021-06-24"
