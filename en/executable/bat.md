@@ -6,6 +6,7 @@
   },
   "draft" : "false",
   "title" : "BAT - Batch File Format",
+  "toc" : true,
   "description":"Learn about BAT file format and APIs that can create and open BAT files.",
   "linktitle" : "BAT",
   "menu" : {
