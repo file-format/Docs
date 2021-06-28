@@ -5,7 +5,6 @@
     "display_name" : "Muhammad Umar"
   },
   "draft" : "false",
-  "categories" : [ "fundamentals" ],
   "title" : "BAT - Batch File Format",
   "description":"Learn about BAT file format and APIs that can create and open BAT files.",
   "linktitle" : "BAT",
