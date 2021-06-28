@@ -61,5 +61,5 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 ```
 ## References ##
 
-* [XSLT - By Wikipedia](https://en.wikipedia.org/wiki/XSLT#:~:text=XSLT%20(Extensible%20Stylesheet%20Language%20Transformations,as%20PDF%2C%20PostScript%20and%20PNG.)
+* [XSLT - By Wikipedia](https://en.wikipedia.org/wiki/XSLT#:~:text=XSLT%20(Extensible%20Stylesheet%20Language%20Transformations,as%20PDF%2C%20PostScript%20and%20PNG)
 * [XSLT Elements](https://en.wikipedia.org/wiki/XSLT_elements)
