@@ -1,18 +1,18 @@
 {
   "date" : "2021-06-24",
-  "keywords": [ "bat file", "what is a bat file", "file", "bat file example", "extension", "format" ],
+  "keywords" : [ "bat file", "what is a bat file", "file", "bat file example", "extension", "format" ],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
   "draft" : "false",
-  "title" : "BAT - Batch File Format",
   "toc" : true,
   "description":"Learn about BAT file format and APIs that can create and open BAT files.",
+  "title" : "BAT - Batch File Format",
   "linktitle" : "BAT",
   "menu" : {
     "docs" : {
-      "parent" : "executable",
-     }
+      "parent" : "executable"
+    }
   },
   "lastmod" : "2021-06-24"
 }
