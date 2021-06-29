@@ -23,7 +23,7 @@ The COM files are simply used for executing a set of commands or instructions. A
 ## COM file format
 The COM file format is a binary executable format used in Microsoft Windows or MS-DOS. Its structure consists of just a set of instructions; it has no header and contains no standard metadata. It stores all of its data and code in one segment only and its binary has maximum 64KB in size. This file format doesn't relocate itself when try to re-run. So the operating system loads it at a pre-set address. Moreover, it is possible to make a COM file to execute under both operating systems in the form of a **fat binary**. There is not any actual compatibility at the instruction level. The instructions at the entry point are selected to be equal in functionality but different in both operating systems, and make program running, jump to the section of the operating system in use. It is basically two different programs with the same procedure in a single file, preceded by code selecting the one to use.
 ### COM file example
-When executing a COM file, the instructions are read from the first byte and are followed consecutively until the last instructions are found. Here is a ASM code example:
+When executing a COM file, the instructions are read from the first byte and are followed consecutively until the last instructions are found. Here is an ASM code example:
 
 ```
 [BITS 16]		;Set code generation to 16 bit mode
