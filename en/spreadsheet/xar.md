@@ -11,6 +11,7 @@
   "linktitle" : "XAR",
   "menu" : {
     "docs" : {
+      "identifier": "spreadsheet-xar",
       "parent" : "spreadsheet"
     }
   },
