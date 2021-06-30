@@ -10,6 +10,7 @@
   "linktitle" : "ISO",
   "menu" : {
     "docs" : {
+     "identifier": "compression-iso",
       "parent" : "compression"
     }
   },
