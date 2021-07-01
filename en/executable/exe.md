@@ -1,6 +1,6 @@
 {
   "date" : "2021-06-30",
-  "keywords" : [ "exe file", "exe file format" "what is a exe file", "file", "exe example", "exe file extension","extension", "format" ],
+  "keywords" : [ "exe file", "exe file format", "what is a exe file", "file", "exe example", "exe file extension","extension", "format" ],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
