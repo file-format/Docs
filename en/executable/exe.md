@@ -18,7 +18,7 @@
 }
 
 ## What is an EXE file?
-The word EXE is short for **executable**, an EXE file consists of an executable program which can be run on Microsoft Windows operating system Whereas the executable file has no extension when on UNIX operating system. The **.exe** is a standard file extension used by software languages to deliver the output of the program for Microsoft Windows. **Setup.exe**, **Install.exe** and **cmd.exe** are some common and well familiar names of EXE files.
+The word EXE is short for **executable**, an EXE file consists of an executable program which can be run on Microsoft Windows operating system. Whereas the executable file has no extension on UNIX operating system. The **.exe** is a standard file extension used by software languages to deliver the output of the program for Microsoft Windows. **Setup.exe**, **Install.exe** and **cmd.exe** are some common and well familiar names of EXE files.
 ## EXE file format
 MS-DOS compilers was introduced with the memory models having the 64K memory limitation. The general concept is to set different segment registers in the x86 CPU (CS, DS, ES, SS) to point to the different or same segments, therefore allowing various degrees of access to memory. Some specific memory models were:
 
