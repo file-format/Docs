@@ -2,7 +2,7 @@
   "date" : "2021-06-09",
   "keywords" : [ "cue", "file", "extension", "format", "what is a cue file", "music", "cue file format", "cue file format specification"],
   "author" : {
-    "display_name" : "Muhammad Umar"
+    "display_name" : "Kashif Iqbal"
   },
   "draft" : "false",
   "toc" : true,
@@ -11,7 +11,7 @@
   "linktitle" : "CUE",
   "menu" : {
     "docs" : {
-      "parent" : "audio"
+      "parent" : "disc-and-media"
     }
   },
   "lastmod" : "2021-07-01"
