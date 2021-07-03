@@ -78,7 +78,7 @@ This must be the first record in the file. When exporting from Microsoft Project
 * Version Number of the file
 * Code Page (850, 437, MAC, ANSI)
 
-For example, the record can contain information **MPX, Microsoft Project, 3.0** which specifies that a comma is used as the list separator character in this MPX file and the version of the MPX format used in the file is exported from Microsoft Project version 3.0.
+For example, the record can contain information **MPX, Microsoft Project, 3.0**, which specifies that a comma is used as the list separator character in this MPX file. The version of the MPX format used in the file is exported from Microsoft Project version 3.0.
 
 **Currency Settings** This record, having record number 10, specifies settings for the currency options in the Options dialog box. If this record is not included, the current settings in the Options dialog box are used. The Thousands and Decimal separators are specified in the Regional Settings item in the Windows Control Panel.
 The fields included in this record are:
@@ -145,7 +145,7 @@ The fields included in this record are:
 
 * From Date
 * To Date
-* Nonworking/Working (0 # nonworking, 1 # working)
+* Nonworking/Working (0 # non-working, 1 # working)
 * From Time 1
 * To Time 1
 * From Time 2
@@ -208,13 +208,13 @@ The fields and tabs included in this record are:
 
 **Task Notes:** These records contain notes about the immediately preceding Task record. Use ASCII character 127 to indicate a new line within the note. If the note includes the list separator character, enclose the note in quotation marks.
 
-**Resource Assignment**: These records list information about the resources assigned to the task that was defined in the preceding Task record. If you are merging files, and you want resource assignment information retained, you need to include the information in the MPX file. If you merge, all existing assignments on merged tasks will be deleted. If you are merging files based on Unique IDs, resources are assigned using the Resource Unique IDs, rather than IDs.
+**Resource Assignment**: These records list information about the resources assigned to the task that was defined in the preceding Task record. If you are merging files, and you want resource assignment information retained, you need to include the information in the MPX file. If you merge, all existing assignments on merged tasks will be deleted. If you are merging files based on Unique IDs, resources are assigned using the Resource Unique IDs rather than IDs.
 
-**Resource Assignment Workgroup Fields:** These records list the information that is stored with each assignment for the Workgroup features of Microsoft Project 4.0 and 4.1. If you are using the Workgroup features you need to include this record to ensure that none of the information is lost.
+**Resource Assignment Workgroup Fields:** These records list the information that is stored with each assignment for the Workgroup features of Microsoft Project 4.0 and 4.1. If you are use the Workgroup features, you need to include this record to ensure that none of the information is lost.
 
-**Project Names:** These records list all of the DDE link names that are stored in the project.
+**Project Names:** These records list all of the DDE link names stored in the project.
 
-**DDE and OLE Client Links:** These records list all of the DDE links into the project.
+**DDE and OLE Client Links:** These records list the DDE links into the project.
 
 **Comments:** These records can be used to add comments to the file and can appear in any position in the file. Each Comments record must begin with a "0."
 

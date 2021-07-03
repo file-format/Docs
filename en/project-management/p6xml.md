@@ -19,7 +19,7 @@
 
 ## What is a P6XML file? ##
 
-The P6XML file extension has features of great readability, adaptability, and wide usage that make it the ideal format. Primavera P6 Professional has the functionality to export and import both XER files and XML files. XML stands for **Extensible Markup Language**. This general format permits users to share project information between Primavera P6 databases. The project data can easily be stored in a text file through the XML file, this makes things simpler for numerous software programs to exchange the data. Such data can be easily shared and managed by the Primavera P6 user.
+The P6XML file extension has excellent readability, adaptability, and wide usage that make it the ideal format. Primavera P6 Professional has the functionality to export and import both [XER](/project-management/xer) files and XML files. XML stands for **Extensible Markup Language**. This general format permits users to share project information between Primavera P6 databases. The project data can easily be stored in a text file through the XML file; this makes things simpler for numerous software programs to exchange the data. Such data can be easily shared and managed by the Primavera P6 user.
 
 ## Advantages of a P6XML File Format ##
 
@@ -35,13 +35,13 @@ For Exporting  P6 Professional projects and project data to a P6XML file, use Or
 Here are some steps describing the export process:
 
   *  Open desires  Primavera P6 project
-  *	 After that select Export on the File tab
-  *	 Select "Primavera P6 – (XML)". After that click Next
+  *	 After that, select Export on the File tab
+  *	 Select "Primavera P6 – (XML)". After that, click Next
   *	 Double click the project that you will export
-  *	 Select the truncations for the path where you want to put the exported file and select "Finish"
+  *	 Select the truncations for the path where you want to put the exported file and select "Finish."
   *  Select the option that how you want to save the file
-  *	 If project-level layouts are not needed with the export file then it's essential to clear the selection to "Export all project-level layouts" 
-  *	 Select finish and then you will receive a confirmation of the XML export
+  *	 If project-level layouts are not needed with the export file, it's essential to clear the selection to "Export all project-level layouts." 
+  *	 Select finish, and then you will receive a confirmation of the XML export
 
 ### Important Tips ###
 
@@ -52,7 +52,7 @@ Here are some steps describing the export process:
   
 ## Problems to Open a P6XML file? ##
 
-Some common issues which may arise and cause misfunctioning of the P6XML format, are as follow:
+Some common issues which may arise and cause misfunctioning of the P6XML format are as follow:
 
  *   Absence of supporting software
  *   Corrupt file
