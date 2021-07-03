@@ -19,7 +19,7 @@
 
 ## What is a CUR file? ##
 
-A CUR file is a static Microsoft Windows cursor file format. Basically, they are stationary images identical to ICO (icon) files in every way except the extension. Both CUR and [ICO](/image/ico/) are established on the basis of the Device-Independent Bitmap (DIB) specification. Default, as well as custom cursor such as Windows mouse pointer for Windows operating system, are stored in CUR files. It can be an arrow for normal use, a spinning hourglass to demonstrate waiting periods, or an I-bar for text editing. CUR files come along with the installation pack of the custom desktop themes to ensure that the Windows cursor matches the custom desktop theme.
+A CUR file is a static Microsoft Windows cursor file format. Basically, they are stationary images identical to ICO (icon) files in every way except the extension. Both CUR and [ICO](/image/ico/) are established on the basis of the Device-Independent Bitmap [DIB](/image/dib/)(Device-Independent Bitmap) specification. Default, as well as custom cursor such as Windows mouse pointer for Windows operating system, are stored in CUR files. It can be an arrow for normal use, a spinning hourglass to demonstrate waiting periods, or an I-bar for text editing. CUR files come along with the installation pack of the custom desktop themes to ensure that the Windows cursor matches the custom desktop theme.
 
 ## Technical Specification ##
 
