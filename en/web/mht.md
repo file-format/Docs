@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "mht","mht file", "mht file format", "mht file type", "file", "type", "what is an mht file" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

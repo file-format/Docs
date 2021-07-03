@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "html","html file", "html file format", "html file type", "file", "type", "what is an html file" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

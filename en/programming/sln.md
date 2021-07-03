@@ -1,6 +1,6 @@
 {
   "date" : "2019-10-11",
-   "keywords": [ "sln file", "sln", "extension", "format", "What is sln file", "sln file format", "Visual Studio Solution", "Visual Studio solution VS project" ],
+   "keywords": [ "sln file", "how to run a sln file", "sln", "extension", "format", "What is sln file", "sln file format", "Visual Studio Solution", "Visual Studio solution VS project" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

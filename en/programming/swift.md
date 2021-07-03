@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ ".swf", "SWF", "Apple swift", "file", "extension", "file format", "apple swift tutorial", "programming guide" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -34,7 +35,7 @@ A file with .swift extension refers to SWIFT programming language introduced by 
 * Swift language was open-sourced on Dec 3, 2015 along with its supporting libraries, debugger, and package manager under the Apache 2.0 license. The project was hosted at [Swift.org](https://swift.org/) and its source code is hosted on [GitHub](https://github.com/apple/swift).
 * During WWDC 2019, Apple announced SwiftUI framework for UI structure design across all Apple platforms
 
-## Swift File Format
+## Swift File Format - More Information
 
 Swift files are plain text files that can be opened with any text editor. The primary text editor used to open and edit swift files is Apple’s Xcode. Many parts of Swift are familiar with application developing using C and Objective-C. The Swift documentation provides detailed [application development guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) for writing code using Swift.
 

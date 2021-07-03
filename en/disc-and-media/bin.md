@@ -5,14 +5,14 @@
     "display_name" : "Muhammad Umar"
   },
   "draft" : "false",
+ "toc" : true,	
   "description" : "Learn about BIN file format and APIs that can create and open BIN files.",
   "title" : "BIN - Binary Disc Image File",
   "linktitle" : "BIN",
   "menu" : {
     "docs" : {
-      "parent" : "disc-and-media",
-      "weight" : "02"
-    }
+      "parent" : "disc-and-media"
+     }
   },
   "lastmod" : "2021-06-23"
 }

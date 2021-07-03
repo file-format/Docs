@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "drawio","drawio file", "drawio file format", "drawio file type", "file", "type", "what is a drawio file" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
