@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "vbproj", "file", "extension", "file format", "VB Project File", "Programming Guide" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -20,7 +21,7 @@
 
 A file with .vbproj extension is a Microsoft Visual Basic project file that is used by Microsoft's MSBuild engine to build the projects within a Visual Studio solution. It is similar to [CSPROJ](/programming/csproj/) file for .NET projects written in [C#](/programming/cs/). The MSBuild engine reads information contained in different groups from the VBPROJ files and generates the output file. A VBPROJ file can contain information related to global identifiers, classes, and properties that define the project. VBPROJ files can be opened and edited using Microsoft Visual Studio and any common text editor such as Notepad on Windows and MacOS Operating Systems.
 
-## VBPROJ File Format
+## VBPROJ File Format - More Information
 
 VBPROJ files are textual files that are written in [XML](/web/xml/) file format based on the [MSBuild XML Schema](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019). A VBPROJ file contains information in the form of XML tags that define information related to that particular group of settings. It is highly recommended to open and edit these setting files in Microsoft Visual Studio IDE.
 
