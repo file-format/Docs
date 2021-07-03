@@ -208,7 +208,7 @@ The fields and tabs included in this record are:
 
 **Task Notes:** These records contain notes about the immediately preceding Task record. Use ASCII character 127 to indicate a new line within the note. If the note includes the list separator character, enclose the note in quotation marks.
 
-**Resource Assignment**: These records list information about the resources assigned to the task that was defined in the preceding Task record. If you are merging files, and you want resource assignment information retained, you need to include the information in the MPX file. If you merge, all existing assignments on merged tasks will be deleted. If you are merging files based on Unique IDs, resources are assigned using the Resource Unique IDs rather than IDs.
+**Resource Assignment**: These records list information about the resources assigned to the task that was defined in the preceding Task record. If you are merging files and you want resource assignment information retained, you need to include the information in the MPX file. If you merge, all existing assignments on merged tasks will be deleted. If you are merging files based on Unique IDs, resources are assigned using the Resource Unique IDs rather than IDs.
 
 **Resource Assignment Workgroup Fields:** These records list the information that is stored with each assignment for the Workgroup features of Microsoft Project 4.0 and 4.1. If you are use the Workgroup features, you need to include this record to ensure that none of the information is lost.
 
