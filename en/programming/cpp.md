@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "c++", "file", "extension", "file format", "C++", "Programming Language" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
