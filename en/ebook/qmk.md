@@ -19,7 +19,7 @@
 
 ## What is a QMK file?
 
-A file with the .qmk extension is generally known as the **YanCEyDesktop Quickmarks file** format. The YanCEyWare introduced the YanCEyDesktop Quickmarks file format. QMK file is related to the YBK file and supported by a Program that is available for the machines running Windows operating system. A file with a QMK extension is classified as a text-type file that allows users to easily navigate to saved locations within eBooks. YanCEyDesktop is the recommended software for managing QMK files. The **YanCEyDesktop** software was made by **D Remington**. 
+A file with the .qmk extension is generally known as the **YanCEyDesktop Quickmarks file** format. The YanCEyWare introduced the YanCEyDesktop Quickmarks file format. QMK file is related to the [YBK](/ebook/ybk/) file and supported by a Program that is available for the machines running Windows operating system. A file with a QMK extension is classified as a text-type file that allows users to easily navigate to saved locations within eBooks. YanCEyDesktop is the recommended software for managing QMK files. The **YanCEyDesktop** software was made by **D Remington**. 
 
 ## Problems to open a QMK file
 
