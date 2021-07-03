@@ -5,13 +5,13 @@
     "display_name" : "Muhammad Umar"
   },
   "draft" : "false",
+ "toc" : true,
   "description" : "Learn about Toast file format and APIs that can create and open Toast files.",
   "title" : "Toast - Toast Disc Image File",
   "linktitle" : "Toast",
   "menu" : {
     "docs" : {
-      "parent" : "disc-and-media",
-      "weight" : "03"
+      "parent" : "disc-and-media"
     }
   },
   "lastmod" : "2021-06-23"

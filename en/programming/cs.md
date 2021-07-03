@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "cs", "file", "extension", "file format", "CSharp", "Programming Language" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -18,7 +19,7 @@
 
 ## What is a CS file?
 
-Files with .CS extension are source code files for C# programming language. Introduced by Microsoft for use with the .NET Framework, the file format provides the low-level programming language for writing code that is compiled to generate the final output file in the form of EXE or a DLL. These can be created and compiled with Microsoft Visual Studio. Microsoft Visual Studio Express can also be used to create and update such files which is a free IDE. CS files are used for application development that can range from simple desktop applications to more complex programs. A simple Visual Studio project [solution](/programming/sln/) created with C# language can comprise of one or more such files. Files marked for inclusion in compilation are listed in the [CSPROJ](/programming/csproj/) file which is part of the project and tells compiler to use the marked files.
+Files with .cs extension are source code files for C# programming language. Introduced by Microsoft for use with the .NET Framework, the file format provides the low-level programming language for writing code that is compiled to generate the final output file in the form of EXE or a DLL. These can be created and compiled with Microsoft Visual Studio. Microsoft Visual Studio Express can also be used to create and update such files which is a free IDE. CS files are used for application development that can range from simple desktop applications to more complex programs. A simple Visual Studio project [solution](/programming/sln/) created with C# language can comprise of one or more such files. Files marked for inclusion in compilation are listed in the [CSPROJ](/programming/csproj/) file which is part of the project and tells compiler to use the marked files.
 
 ## CS File Format ##
 

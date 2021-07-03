@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "vcxproj", "file", "extension", "file format", "Visual C++ Project", "Programming Guide" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -21,7 +22,7 @@
 A file with .vcxproj extension is a Microsoft Visual C++ project file that stores the [C++](programming/cpp/) project information. It contains information that is used by the MSBuild project system to compile and build the final output. VCXPROJ of Visual C++ projects is the same as that of [CSPROJ](/programming/csproj/) for .NET projects. VCXPROJ files do not contain any code but refers to all the classes, targets and properties defined for the project to build the project. These can be opened in plain text editors or preferably in Microsoft Visual Studio IDE.
 
 
-## VCXPROJ File Format
+## VCXPROJ File Format - More Information
 
 VCXPROJ files are text files that are created in [XML](/web/xml/) file format. These can be opened in any text editor but it is highly recommended to use Microsoft Visual Studio IDE for opening and editing these files. These weren't designed for manual editing. Mistakes can cause the IDE to crash or behave in unexpected ways.
 

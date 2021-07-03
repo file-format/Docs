@@ -10,6 +10,7 @@
   "linktitle" : "XAR",
   "menu" : {
     "docs" : {
+    "identifier": "compression-xar",
       "parent" : "compression"
     }
   },

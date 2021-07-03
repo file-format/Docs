@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+   "keywords" : [ "apkg","apkg file", "apkg file format", "apkg file type", "file", "type", "What is an APKG file" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

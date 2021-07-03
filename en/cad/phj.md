@@ -21,8 +21,8 @@
 
 A file with .phj extension is a project file created with PhCNC software used for Printed Circuit Board (PCB) prototyping. It contains the PCB projec file information such as tabs positions, tool tables, and other settings. PHJ files are smaller in size due to the compressed file format. The PhCNC application operates in CAM and CNC modes. Both these modes support load/save/import of PHJ files for incorporation in the machine.
 
-{{< figure src="../PHJ.png" alt="PhCNC File Format" >}}
+{{< figure src="../phj.jpeg" alt="PhCNC File Format" >}}
 
-## References ##
+## References
 
  * [PhCNC](http://www.accuratecnc.com/PhCNC.php)

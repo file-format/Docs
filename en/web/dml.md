@@ -1,5 +1,6 @@
 {
   "date" : "2021-05-25",
+  "keywords" : [ "DML","DML file", "DML file format", "DML file type", "file", "type", "what is a DML file" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
