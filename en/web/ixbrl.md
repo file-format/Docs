@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "ixbrl","ixbrl file", "ixbrl file format", "ixbrl file type", "file", "type", "what is an ixbrl file" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

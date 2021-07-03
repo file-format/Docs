@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "chm","chm file", "chm file format", "chm file type", "file", "type", "what is a chm file" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

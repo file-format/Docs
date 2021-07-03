@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "crt","crt file", "crt file format", "crt file type", "file", "type", "what is an crt file" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

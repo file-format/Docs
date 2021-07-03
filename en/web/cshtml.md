@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "cshtml","cshtml file", "cshtml file format", "cshtml file type", "file", "type", "what is a cshtml file" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "jhtml","jhtml file", "jhtml file format", "jhtml file type", "file", "type", "what is a jhtml file" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

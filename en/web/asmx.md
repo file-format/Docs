@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "asmx","asmx file", "asmx file format", "asmx file type", "file", "type", "what is an asmx file" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

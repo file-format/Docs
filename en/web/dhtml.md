@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "dhtml","dhtml file", "dhtml file format", "dhtml file type", "file", "type", "what is a dhtml file" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

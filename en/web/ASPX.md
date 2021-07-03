@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "aspx","aspx file", "aspx file format", "aspx file type", "file", "type", "what is an aspx file" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
