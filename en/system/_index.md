@@ -20,7 +20,7 @@
 
 The System Files are an integral type of files found in the Microsoft Windows, Mac, and Linux operating systems. System files are one of the most important files stored in the device operating system as they contain all system-related information of the device, and without it, a device is bound to malfunction or not operate at all. For this reason system files are highly protected with permissions mechanisms due to which they cannot be accidentally or even intentionally deleted from the computer easily. For easy specification and identification, these files are always stored in specific system folders. 
 
-The system files are found in various file extension types, and each operating system has its unique system file extension type for different purposes. The most common system files extensions are; CAB, SYS, DLL, and DRV.
+The system files are found in various file extension types, and each operating system has its unique system file extension type for different purposes. The most common system files extensions are; [CAB](/system/cab/), SYS, [DLL](/system/dll/), and DRV.
 
 
 ## List of System File Extensions and Associated File Formats

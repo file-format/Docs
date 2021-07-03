@@ -19,7 +19,7 @@
 
 ## What is a CAB file? ##
 
-A file with a .cab extension belongs to a windows cabinet file that belongs to the category of system files. It is a file that is saved in the archive file format in the versions of Microsoft Windows that support compressed data algorithms, such as the LZX, Quantum, and. ZIP. The file comes in vital use when a user or developer wants to contain and share software installation data and files. The features of lossless data compression and the digital certification included in these files make this file perfect for storing and sharing such files. It supports different Microsoft installers such as Device Installer, SetUp API, and AdvPak.
+A file with a .cab extension belongs to a windows cabinet file that belongs to the category of system files. It is a file that is saved in the archive file format in the versions of Microsoft Windows that support compressed data algorithms, such as the [LZX](/compression/lzx/), Quantum, and [ZIP](/compression/zip/). The file comes in vital use when a user or developer wants to contain and share software installation data and files. The features of lossless data compression and the digital certification included in these files make this file perfect for storing and sharing such files. It supports different Microsoft installers such as Device Installer, SetUp API, and AdvPak.
 
 ## Brief History ##
 

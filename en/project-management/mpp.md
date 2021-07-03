@@ -19,11 +19,22 @@
 
 ## What is an MPP file?
 
-A file with MPP extension is a Microsoft Project data file that stores information related to project management in an integrated manner. Microsoft has developed this proprietary file format make it compatible with Microsoft Project (MSP), their project management software product. Other than MPP, MSP can work with project XML schema. Many applications and APIs allow MPPs to be converted to other file formats. Microsoft now has an online Project Server where project management files can be uploaded for collaboration by multiple users.
+A file with a .mpp extension is a Microsoft Project data file that stores information related to project management in an integrated manner. Microsoft has developed this proprietary file format to make it compatible with Microsoft Project (MSP), their project management software product. Other than MPP, MSP can work with project XML schema. Many applications and APIs allow MPPs to be converted to other file formats. Microsoft now has an online Project Server where project management files can be uploaded for collaboration by multiple users.
 
 ## MPP File Format ##
 
-Microsoft developed and published MPP as binary file format and its specifications have not been made public by Microsoft to date. The internal file structure and details are, hence, not available for developers. There are several APIs available online that support reading/writing to MPP files, but 100% accuracy is never achieved. Microsoft has introduced several features to its project management application over time, and so has the features of the MPP file format.
+Microsoft developed and published MPP as binary file format and its specifications have not been made public by Microsoft to date. The internal file structure and details are, hence, not available for developers. There are several APIs available online that support reading/writing to MPP files, but 100% accuracy is never achieved. Microsoft has introduced several features to its project management application over time, and so have the features of the MPP file format.
+
+MPP file uses the following MIME types:
+
+* application/vnd.ms-project
+* application/msproj
+* application/msproject
+* application/x-msproject
+* application/x-ms-project
+* application/x-dos_ms_project
+* application/mpp
+* zz-application/zz-winassoc-mpp
 
 ## Problems to Open an MPP file? ##
 
