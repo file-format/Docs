@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ ".mel", "Maya Embedded language","file", "extension", "file format", "Maya 3D", "Programming Guide" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -20,7 +21,7 @@
 
 A file with .mel (Maya Embedded Language) extension is a scripting language that is used by Autodesk Maya to create graphical interfaces. It lets you automate the creation of graphical elements using executable scripts in addition to Maya's graphical interface. MEL empowers you to create graphical interfaces without learning programming. This is achieved by creating Macros and custom actions that speed up repetitive tasks. These procedures and scripts let you create custom modelling, animations, dynamics and tasks rendering. Autodesk Maya 2020 can be used to open and view contents of an EML file.
 
-## MEL File Format
+## MEL File Format - More Information
 
 A programmer's [reference manual](https://download.autodesk.com/us/maya/2009help/index.html?url=Glossary_M_.mb_file_format.htm,topicNumber=d0e193865) is available for developers on Maya's documentation section. MEL is based on shell scripting commands, similar to UINX, to achieve things. The scripting based commands makes it irrelevant to conventional and object oriented programming (OOP), resulting in no usage of data structures, calling functions, or using OOP as in other languages.
 
