@@ -18,7 +18,7 @@
   "lastmod" : "2021-07-05"
 }
 
-## What is an MAR file?
+## What is a MAR file?
 
 A file with .mar extension is a spreadsheet file, created with Mariner Calc application for Mac OSX. It is used to organize data in rows and columns, similar to other spreadsheet file formats such as [.xls](/spreadsheet/xls/) and [.xlsx](/spreadsheet/xlsx/), and also provides different functions (including Mathematical, Trigonometric, Financial, Date and Time, Logical, Worksheet, Statistical, and Text calculations) to be performed on the data. Mariner Calc supports operations on the spreadsheet data such as creating charts, creating named ranges, data sorting, auto-summation on range, and exporting to [.pdf](/pdf/) file format for sharing with others.
 
