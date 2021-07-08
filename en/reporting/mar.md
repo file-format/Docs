@@ -11,6 +11,7 @@
   "linktitle" : "MAR",
   "menu" : {
     "docs" : {
+    "identifier": "reporting-mar",
       "parent" : "reporting"
     }
   },
