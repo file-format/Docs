@@ -22,7 +22,7 @@ A file with .asf extension is a multimedia file format for storing and playing d
 
 ## ASF File Format
 
-An ASF file can comprise of multiple independent or dependent streams. This can include multiple audio streams for multichannel audio, or multiple bitrate video streams. The multiple bitrate lets the streams suitable for transmission over different bandwidths. Moreover, the streams in an ASF file can be in compressed or uncompressed format. The best compression is achieved with the Microsoft Windows Media Audio and Video 9 Series codecs. Complete specifications of ASF file format are available on [Microsoft Website](https://download.microsoft.com/download/7/9/0/790fecaa-f64a-4a5e-a430-0bccdab3f1b4/ASF_Specification.doc).
+An ASF file can comprise multiple independent or dependent streams. This can include multiple audio streams for multichannel audio or multiple bitrate video streams. The multiple bitrates make the streams suitable for transmission over different bandwidths. Moreover, the streams in an ASF file can be in compressed or uncompressed format. The best compression is achieved with the Microsoft Windows Media Audio and Video 9 Series codecs. Complete specifications of ASF file format are available on [Microsoft Website](https://download.microsoft.com/download/7/9/0/790fecaa-f64a-4a5e-a430-0bccdab3f1b4/ASF_Specification.doc).
 
 ### ASF Top-Level File Structure
 
@@ -38,7 +38,7 @@ The following image shows the top-level file structure of ASF files.
 
 #### ASF Top-Level Header Object
 
-The Header object provides a well-known byte sequence at the beginning of the ASF files and can optionally contain metadata such as bibliographic information. It contains all the information that is required to properly interpret the information within the data object. The Header Object may include a number of standard objects including, but not limited to:
+The Header object provides a well-known byte sequence at the beginning of the ASF files and can optionally contain metadata such as bibliographic information. It contains all the information that is required to interpret the information within the data object properly. The Header Object may include several standard objects including, but not limited to:
 
  * File Properties Object - Contains global file attributes.
  * Stream Properties Object - Defines a digital media stream and its characteristics.
@@ -47,7 +47,7 @@ The Header object provides a well-known byte sequence at the beginning of the AS
  * Script Command Object - Contains commands that can be executed on the playback timeline.
  * Marker Object - Provides named jump points within a file.
 
-The Header Object is represented using the following structure.
+The Header Object is represented using the following structure:
 
 |Field name	|Field type	|Size (bits)|
 ---|---|---|
@@ -63,10 +63,10 @@ All the digital media data for an ASF file is contained in the data object and i
 
 #### ASF Top-Level Index Objects
 
-ASF top-level index objects has the following two types:
+ASF top-level index objects have the following two types:
 
  * `Simple Index Object` - Contains a time-based index of the video data in an ASF file. The time interval between index entries is constant and is stored in the Simple Index Object.
- * `Index Object` - Refers to the Index Object, the Media Object Index Object, and the Timecode Index Object, whose formats are all similar. The Index Object, like the Simple Index Object, indexes by time with a fixed time interval, but is not limited to video streams.
+ * `Index Object` - Refers to the Index Object, the Media Object Index Object, and the Timecode Index Object, whose formats are similar. Like the Simple Index Object, the Index Object indexes by time with a fixed time interval but is not limited to video streams.
 
 ## References
 

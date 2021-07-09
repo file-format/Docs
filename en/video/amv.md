@@ -18,12 +18,14 @@
 }
 
 ## What is an AMV file? ##
-The AMV acronym as Actions Media Video is classified as video file format which was produced for Chinese portable [MP4]() media players, as well as S1 MP3 players with video playback. The AMV video basically have two different formats: The earlier one for the Actions chip, and a latest one for ALi’s M5661 chip; a format for ALi one was ALIAVI. The video format is a variant of Motion JPEG, with fixed rather than variable division tables. The audio format is a variant of IMA ADPCM, where the first 8 bytes of each frame are origin, index and number of encoded 16-bit samples; usually the AMV files play sound at 22050 samples/second. The AMV video is a compressed but low resolution (96x96 to 320x240 pixel); which can be played on the desktop by using any media player softwares.
+
+The AMV acronym as Actions Media Video is classified as a video file format produced for Chinese portable [MP4](/video/mp4/) media players and S1 MP3 players with video playback. The AMV video basically has two different formats: The earlier one for the Actions chip and the latest one for ALi’s M5661 chip; the format for ALi one was ALIAVI. The video format is a variant of Motion JPEG, with fixed rather than variable division tables. The audio format is a variant of IMA ADPCM. The first 8 bytes of each frame are origin, index, and several encoded 16-bit samples; usually, the AMV files play sound at 22050 samples/second. The AMV video is a compressed but low resolution (96x96 to 320x240 pixel), which can be played on the desktop using any media player software.
 
 ## AMV file Format ##
-As a variant of AVI files; the AMV files are commonly used by some Chinese media players. Remarkably, AMV files contain the typical AMV and amvh text in their headers; whereas AVI files would contain the AMI and avih text.
 
-The AMV format was designed to allow low cost and easily available chinese media players to store and play many videos in low resolution. AMV videos are usually not highly compressed, but their file size is so low because of their low resolution and frame rate. This thing helps inexpensive media players to run the AMV file format without any trouble.
+As a variant of AVI files, some Chinese media players commonly use AMV files. Remarkably, AMV files contain the typical AMV and amvh text in their headers; whereas AVI files contain AMI and avih text.
+
+The AMV format was designed to allow low-cost and easily available Chinese media players to store and play many low-resolution videos. AMV videos are usually not highly compressed, but their file size is small because of their low resolution and frame rate. This thing helps inexpensive media players to run the AMV file format without any trouble.
 
 ## References ##
 
