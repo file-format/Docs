@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "CUR - Cursor File Format",
-  "description":"Learn about CPL file format and APIs that can create and open CUR files.",
+  "description":"Learn about CUR file format and APIs that can create and open CUR files.",
   "linktitle" : "CUR",
   "menu" : {
     "docs" : {
