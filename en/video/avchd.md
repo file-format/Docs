@@ -18,17 +18,20 @@
 }
 
 ## What is an AVCHD file? ##
-An AVCHD file is a recording file format introduced for saving high-definition(HD) videos to DVDs, hard disk drives, and memory cards. AVCHD videos, recorded onto DVD and Blu-ray can be played on easily on most Blu-ray Disc players. Also, the AVCHD stuff can also be recorded on SD cards and played by many Blu-ray Disc players, television sets and media consoles. The **ffdshow tryouts** and **Libavcodec** are the open source codecs which can decode the AVCHD files.
+
+An AVCHD file is a recording file format introduced for saving high-definition(HD) videos to DVDs, hard disk drives, and memory cards. AVCHD videos, recorded onto DVD and Blu-ray, can be played easily on most Blu-ray Disc players. Also, the AVCHD stuff can also be recorded on SD cards and played by many Blu-ray Disc players, television sets, and media consoles. The **ffdshow tryouts** and **Libavcodec** are the open-source codecs that can decode the AVCHD files.
 
 
 ## AVCHD file format
+
 The AVCHD file format allows the high-definition digital video cameras to record an HD signal; using high-efficiency compression coding technology. To compress video; the [MPEG-4](/video/mp4/) AVC/[H.264](/video/h264/) format has been adopted, and the Dolby Digital® is used to compress the audio data. Whereas, The MPEG-4 AVC/H.264 format is more efficient than the conventional image compressing format. Moreover, the 3D (MVC format) and 1080/60p(1080/50p) video formats have been added as an extension to the AVCHD file format for its version 2.0 (AVCHD 3D, AVCHD Progressive) format. 
 Please note that a device must be compatible with AVCHD V. 2.0 to handle AVCHD V. 2.0 related videos.
 
 ## Comparison between AVCHD and MP4 file formats ##
-The Advanced Video Codec High Definition (AVCHD) file format is well suited for creating Blu-ray Disc® recordings and watching on an HDTV. Whereas, MP4 is much easier to play on portable devices and also simple in moving, copying and saving on the web.
 
-Differences for both formats are given in the table below.
+The Advanced Video Codec High Definition (AVCHD) file format is well suited for creating Blu-ray Disc® recordings and watching an HDTV. In comparison, MP4 is much easier to play on portable devices and also simple in moving, copying, and saving on the web.
+
+Differences for both formats are given in the table below:
 
 |Specifications      |AVCHD|MP4|
 |---------------------|----|----|

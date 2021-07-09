@@ -16,7 +16,7 @@ lastmod: 2020-03-12
 
 ## What is a 3GP file? ##
 
-3GP(3GPP File Format) is a multimedia container format that can be used on 3G mobile phones. It can also be played on some 2G and 4G phones. 3GP is defined by the Third Generation Partnership Project (3GPP) for 3G UMTS (Universal Mobile Telecommunications System) multimedia services. 3GP files are stored with the .3gp extension. 3GP file format was designed for GSM-based (Global System for Mobile Communications) phones and is the standard format for media files sent via MMS (Multimedia Messaging Service).
+3GP(3GPP File Format) is a multimedia container format used on 3G mobile phones. It can also be played on some 2G and 4G phones. 3GP is defined by the Third Generation Partnership Project (3GPP) for 3G UMTS (Universal Mobile Telecommunications System) multimedia services. 3GP files are stored with the .3gp extension. 3GP file format was designed for GSM-based (Global System for Mobile Communications) phones and is the standard format for media files sent via MMS (Multimedia Messaging Service).
 
 ## Technical Details ##
 
@@ -35,6 +35,13 @@ The 3GP format is based on the ISO base media file format defined in ISO/IEC 144
   - HE-AAC v2 (Enhanced aacPlus)
 
 The 3GP file Format allowed the usage of H.263 and AMR codecs and defined new boxes to which the codecs refer. These code-points were registered in ISO base media file format for the storage of MPEG-4 media-specific information.
+
+## Support Devices ##
+
+- Mobile phones with 3G capabilities
+- PlayStation 3 audio imported from a CD
+- The Nintendo 3DS played YouTube videos using 3GP technology
+- Apple's iDevices supported playback of files only as passthrough files
 
 
 ## References ##
