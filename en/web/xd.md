@@ -1,5 +1,6 @@
 {
   "date" : "2021-05-24",
+  "keywords" : ["xd", "File", "Extension", "File Format", "File Extension", "adobe XD document"],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
