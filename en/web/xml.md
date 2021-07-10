@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : ["xml", "File", "Extension", "File Format", "File Extension", "extensible markup language"],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
