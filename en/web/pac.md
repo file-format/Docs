@@ -1,5 +1,6 @@
 {
   "date" : "2021-05-24",
+  "keywords" : ["pac", "File", "Extension", "File Format", "File Extension", "Proxy Auto-Configuration"],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
