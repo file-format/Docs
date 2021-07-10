@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : ["xhtml", "File", "Extension", "File Format", "File Extension", "extensible html"],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
