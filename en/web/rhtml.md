@@ -1,5 +1,6 @@
 {
   "date" : "2021-05-24",
+  "keywords" : [ "rhtml","rhtml file", "rhtml file format", "rhtml file type", "file", "type", "what is an rhtml file" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

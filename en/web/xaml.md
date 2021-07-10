@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "xaml","xaml file", "xaml file format", "xaml file type", "file", "type", "what is an xaml file" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
