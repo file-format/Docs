@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description":"Learn about CMD file format and APIs that can create and open CMD files.",
-  "title" : "CMD - DOS Command File Format",
+  "title" : "CMD - Windows Command File Format",
   "linktitle" : "CMD",
   "menu" : {
     "docs" : {
