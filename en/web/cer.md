@@ -11,7 +11,7 @@
   "linktitle" : "CER",
   "menu" : {
     "docs" : {
-      "parent" : "system"
+      "parent" : "web"
     }
   },
   "lastmod" : "2021-07-13"
