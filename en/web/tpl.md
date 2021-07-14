@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "tpl","tpl file", "tpl file format", "tpl file type", "file", "type", "what is an tpl file" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

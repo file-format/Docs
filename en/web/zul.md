@@ -1,5 +1,6 @@
 {
   "date" : "2021-05-24",
+  "keywords" : ["zul", "File", "Extension", "File Format", "File Extension", "open"],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

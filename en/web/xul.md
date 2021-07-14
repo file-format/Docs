@@ -1,5 +1,6 @@
 {
   "date" : "2021-05-24",
+  "keywords" : ["xul", "File", "Extension", "File Format", "File Extension", "XML User Interface Language"],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

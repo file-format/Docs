@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "mhtml","mhtml file", "mhtml file format", "mhtml file type", "file", "type", "what is an mhtml file" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
