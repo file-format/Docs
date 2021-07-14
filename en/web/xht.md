@@ -1,5 +1,6 @@
 {
   "date" : "2021-05-24",
+  "keywords" : ["xht", "File", "Extension", "File Format", "File Extension", "extended hypertext markup language"],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

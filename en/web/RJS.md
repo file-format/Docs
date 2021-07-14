@@ -1,5 +1,6 @@
 {
   "date" : "2021-05-24",
+  "keywords" : ["rjs", "File", "Extension", "File Format", "File Extension", "RJS", "Ruby Javascript File"],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

@@ -1,6 +1,6 @@
 {
   "date" : "2021-06-24",
-  "keywords": [ "VCD file", "what is a bin file", "extension", "format" ],
+  "keywords": [ "VCD file", "what is a vcd file", "extension", "format" ],
   "author" : {
     "display_name" : "Muhammad Umar"
   },

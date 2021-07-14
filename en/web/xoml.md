@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : ["xoml", "File", "Extension", "File Format", "File Extension", "Extensible Object Markup Language"],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

@@ -1,5 +1,6 @@
 {
   "date" : "2021-05-20",
+  "keywords" : [ "shtml","shtml file", "shtml file format", "shtml file type", "file", "type", "what is an shtml file" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
