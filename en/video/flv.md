@@ -14,13 +14,13 @@ menu:
 lastmod: 2020-14-12
 ---
 
-## What is a FLV file? ##
+## What is an FLV file? ##
 
-FLV (Flash Video) is a container file format with the .flv extension. FLV is used to deliver audio/video content over the internet by using the Adobe Flash Player or Adobe Air. The data in FLV files is encoded in the same way as SWF files. The direct support was added to Flash Player 7 in 2003. Adobe systems created F4V in 2007 due to the restrictions of FLV.
+FLV (Flash Video) is a container file format with the .flv extension. FLV is used to deliver audio/video content over the internet by using the Adobe Flash Player or Adobe Air. The data in FLV files are encoded in the same way as SWF files. The direct support was added to Flash Player 7 in 2003. Adobe systems created F4V in 2007 due to the restrictions of FLV.
 
 ### Encoding ###
 
-FLV files contain video bit streams of Sorenson Spark which are a proprietary variant of H.263 video standard. It is the required compression format for Flash Player 6 and 7. Version 8 of Flash Player support for On2 TrueMotion VP6 video bit streams. It is the recommended compression format for Flash Player 8 and higher. FLV supports audio in MP3, Nellymoser Asao Codec, and the open-source Speex codec. It also supports uncompressed audio or ADPCM format audio. AAC (HE-AAC/AAC SBR, AAC Main Profile, and AAC-LC) are supported by the recent versions of Flash Player 9.
+FLV files contain video bitstreams of Sorenson Spark which are a proprietary variant of the H.263 video standard. It is the required compression format for Flash Player 6 and 7. Version 8 of Flash Player support for On2 TrueMotion VP6 video bitstreams. It is the recommended compression format for Flash Player 8 and higher. FLV supports audio in MP3, Nellymoser Asao Codec, and the open-source Speex codec. It also supports uncompressed audio or ADPCM format audio. AAC (HE-AAC/AAC SBR, AAC Main Profile, and AAC-LC) are supported by the recent versions of Flash Player 9.
 
 ## Structure ##
 
