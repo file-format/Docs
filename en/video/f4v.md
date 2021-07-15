@@ -14,22 +14,22 @@ menu:
 lastmod: 2020-10-12
 ---
 
-## What is a F4V file? ##
+## What is an F4V file? ##
 
-F4V (Flash MP4 Video File) is a video file saved with the .f4v extension. It is based on the ISO base media file format (MPEG-4 Part 12). It is very similar to [MP4](/video/mp4/) which is why it is also referred to as the Flash MP4 informally. [FLV](/video/flv/) had limitations when streaming H.264/ACC contents which resulted in Adobe Systems to create the new F4V format. Flash Player can play F4V files since the release of Flash Player 9 Update 3.
+F4V (Flash MP4 Video File) is a video file saved with the .f4v extension. It is based on the ISO base media file format (MPEG-4 Part 12). It is very similar to [MP4](/video/mp4/) which is why it is also referred to as the Flash MP4 informally. [FLV](/video/flv/) had limitations when streaming H.264/ACC contents which resulted in Adobe Systems creating the new F4V format. Flash Player can play F4V files since the release of Flash Player 9 Update 3.
 
 ## Structure of F4V files ##
 
 F4V file format is based on the ISO base media file format (MPEG-4 Part 12) and is very similar to the MP4 format. For the details regarding the structure, please see the [MP4](/video/mp4/) page. The major difference between F4V and MP4 is the metadata formats that F4V can store. Given below is the list of the metadata formats supported by the F4V format.
 
-- **Tag box**: Additional four optional tag boxes (auth, titl, dscp, cprt) within the Movie (moov) box.
+- **Tag box**: Additional four optional tag boxes (auth, title, dscp, cprt) within the Movie (moov) box.
 - **XMP Metadata box**: This box comes right after the Movie (moov) box. With this, the file can communicate XMP metadata to an SWF movie through ActionScript.
 - **ilst box**: This box occurs inside the Meta (meta) box and can contain a number of metadata tags. The supported data types are given below.
   - **0**: Custom Data.
   - **1**: Text Data.
   - **12, 14**: Binary Data
   - **21**: Generic Data.
-- **Text Track Metadata box**: The text samples (text or tx3g) inside the Media Data box (mdat). It can contain the following metadata boxes.
+- **Text Track Metadata box**: The text samples (text or tx3g) inside the Media Databox (mdat). It can contain the following metadata boxes.
   - **Style box**: Text style specifications.
   - **Highlight box**: Specifies the range of text to be highlighted.
   - **Highlight Color box**: Specifies the highlight color for the text.

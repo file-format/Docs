@@ -27,6 +27,15 @@ A file having a .avi extension is an AVI file. It's a sub-format of the Resource
 
 In the first sub-chunk, the header of the file is identified by the "hdrl" tag; its contents include the video's width, height, and frame rate. In the second sub-chunk, the motion tag represents the video's frame rate. The AVI video is comprised of the actual audio/visual data in this chunk. There is also a third optional subchunk with the "idx1" tag, which indicates the position within the file of the individual data chunks that belong to the file.
 
+### Limitations  ###
+
+* Aspect ratio information cannot be encoded in the original AVI specification, although the later OpenDML specification (AVI 2.0) offers a standardized method
+* Although AVI files are widely used in film and television post-production, various approaches to adding a time code to them are competing, affecting the format's usability.
+* A video file encoded in AVI cannot use a compression technique that requires future frames data beyond the frame being encoded (B-frame)
+* It is problematic to use AVI files with variable bitrates (VBR) (such as MP3 audio at sample rates below 32 kHz)
+* An AVI file encoding standard definition feature films as normally used is likely to incur overhead of about 5 MB per hour, depending on how the file is used
+* Subtitles must be hardcoded into the video stream or distributed in a separate file in case AVI files cannot accommodate attachments such as fonts and subtitles
+
 ## Brief History ##
 
 AVI was introduced by Microsoft in 1992 with the aim to provide a more robust and advanced audio and video file format. The format quickly became popular with the usage of the internet, allowing individuals to share video files directly and indirectly via cloud-based media storage.
