@@ -17,7 +17,7 @@
   "lastmod" : "2021-06-30"
 }
 
-## What is an WSF file?
+## What is a WSF file?
 A WSF file is a script that fall under the executable category and commonly used in Microsoft Windows. The script supports the mixing of multiple languages, it means that in WSF file may include a blend of JScript, VBScript and optionally some XML elements or other scripting languages such as Python, Object REXX, Perl, Kixtart if installed by the user. The WSF files executes themselves in the absence of WScript or CScript. The WSF files can be beneficial in error isolation and exposing constants. 
 
 ## WSF file format

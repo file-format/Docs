@@ -6,7 +6,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "SCR - System File Format",
+  "title" : "SCR - Windows Screensaver File",
   "description":"Learn about SCR file format and APIs that can create and open SCR files.",
   "linktitle" : "SCR",
   "menu" : {
