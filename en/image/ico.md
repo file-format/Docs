@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "ico file", "ico file format", "what is a ico file", "file", "ico example", "ico file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

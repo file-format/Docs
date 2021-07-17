@@ -1,5 +1,6 @@
 {
   "date" : "2021-01-21",
+  "keywords" : [ "ai file", "ai file format", "what is a ai file", "file", "ai example", "ai file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

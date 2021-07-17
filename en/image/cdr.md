@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "cdr file", "cdr file format", "what is a cdr file", "file", "cdr example", "cdr file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

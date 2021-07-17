@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "emf file", "emf file format", "what is a emf file", "file", "emf example", "emf file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

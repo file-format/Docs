@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "cmx file", "cmx file format", "what is a cmx file", "file", "cmx example", "cmx file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

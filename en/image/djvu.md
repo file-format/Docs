@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "djvu file", "djvu file format", "what is a djvu file", "file", "djvu example", "djvu file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

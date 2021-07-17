@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "dcm file", "dcm file format", "what is a dcm file", "file", "dcm example", "dcm file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -13,7 +14,7 @@
       "parent" : "image"
     }
   },
-  "lastmod" : "2020-08-03"
+  "lastmod" : "2021-07-03"
 }
 
 ## What is a DCM file?

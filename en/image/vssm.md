@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "vssm file", "vssm file format", "what is a vssm file", "file", "vssm example", "vssm file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

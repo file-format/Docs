@@ -1,5 +1,6 @@
 {
   "date" : "2020-01-10",
+  "keywords" : [ "dib file", "dib file format", "what is a dib file", "file", "dib example", "dib file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

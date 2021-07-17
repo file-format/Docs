@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "apng file", "apng file format", "what is a apng file", "file", "apng example", "apng file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
