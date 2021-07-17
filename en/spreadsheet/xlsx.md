@@ -17,6 +17,8 @@
   "lastmod" : "2019-12-10"
 }
 
+## What is an XLSX file?
+
 **XLSX** is well-known format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007. Based on structure organized according to the Open Packaging Conventions as outlined in [Part 2](https://www.ecma-international.org/publications/standards/Ecma-376.htm) of the OOXML standard ECMA-376, the new format is a zip package that contains a number of XML files. The underlying structure and files can be examined by simply unzipping the .xlsx file.
 
 ## Brief History ##
