@@ -6,7 +6,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "DOC",
+  "title" : "DOC - Microsoft Word Document File",
   "description":"Learn about DOC file format and APIs that can create and open DOC files.",
   "linktitle" : "DOC",
   "menu" : {
