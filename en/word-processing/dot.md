@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "dot","file", "format", "file type", "extension","what is an DOT file?" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
