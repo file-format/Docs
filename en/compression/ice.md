@@ -1,5 +1,6 @@
 {
   "date" : "2021-04-08",
+  "keywords" : [ "ice file", "ice file format", "what is a ice file", "file", "ice example", "ice file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

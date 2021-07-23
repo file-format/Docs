@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "vdx file", "vdx file format", "what is a vdx file", "file", "vdx example", "vdx file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

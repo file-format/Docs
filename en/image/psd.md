@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "psd file", "psd file format", "what is a psd file", "file", "psd example", "psd file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

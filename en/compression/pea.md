@@ -1,5 +1,6 @@
 {
   "date" : "2021-04-21",
+  "keywords" : [ "pea file", "pea file format", "what is a pea file", "file", "pea example", "pea file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

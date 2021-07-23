@@ -1,5 +1,6 @@
 {
   "date" : "2021-04-08",
+  "keywords" : [ "lz4 file", "lz4 file format", "what is an lz4 file", "file", "lz4 example", "lz4 file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

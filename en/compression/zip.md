@@ -1,5 +1,6 @@
 {
   "date" : "2019-12-09",
+  "keywords" : [ "zip file", "zip file format", "what is a zip file", "file", "zip example", "zip file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

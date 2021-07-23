@@ -1,5 +1,6 @@
 {
   "date" : "2021-04-08",
+  "keywords" : [ "deb file", "deb file format", "what is a deb file", "file", "deb example", "deb file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

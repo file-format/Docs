@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "bz2 file", "bz2 file format", "what is a bz2 file", "file", "bz2 example", "bz2 file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

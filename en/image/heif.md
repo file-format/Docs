@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "heif file", "heif file format", "what is a heif file", "file", "heif example", "heif file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

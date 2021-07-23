@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "gbr file", "gbr file format", "what is a gbr file", "file", "gbr example", "gbr file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

@@ -1,5 +1,6 @@
 {
   "date" : "2021-04-08",
+  "keywords" : [ "lzma file", "lzma file format", "what is an lzma file", "file", "lzma example", "lzma file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

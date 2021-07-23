@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "b6z file", "b6z file format", "what is a b6z file", "file", "b6z example", "b6z file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

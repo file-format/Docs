@@ -1,5 +1,6 @@
 {
   "date" : "2021-04-08",
+  "keywords" : [ "oar file", "oar file format", "what is an oar file", "file", "oar example", "oar file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "jp2 file", "jp2 file format", "what is a jp2 file", "file", "jp2 example", "jp2 file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

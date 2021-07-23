@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "vsd file", "vsd file format", "what is a vsd file", "file", "vsd example", "vsd file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

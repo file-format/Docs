@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "heic file", "heic file format", "what is a heic file", "file", "heic example", "heic file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

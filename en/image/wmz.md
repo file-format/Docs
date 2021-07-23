@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "wmz file", "wmz file format", "what is a wmz file", "file", "wmz example", "wmz file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

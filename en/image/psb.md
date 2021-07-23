@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "psb file", "psb file format", "what is a psb file", "file", "psb example", "psb file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

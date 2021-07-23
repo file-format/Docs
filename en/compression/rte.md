@@ -1,5 +1,6 @@
 {
   "date" : "2021-04-08",
+  "keywords" : [ "rte file", "rte file format", "what is an rte file", "file", "rte example", "rte file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

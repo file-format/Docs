@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "tgs file", "tgs file format", "what is a tgs file", "file", "tgs example", "tgs file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

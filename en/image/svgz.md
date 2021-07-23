@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "svgz file", "svgz file format", "what is an svgz file", "file", "svgz example", "svgz file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

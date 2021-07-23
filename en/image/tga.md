@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "tga file", "tga file format", "what is a tga file", "file", "tga example", "tga file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

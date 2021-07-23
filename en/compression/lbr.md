@@ -1,7 +1,9 @@
 {
   "date" : "2021-04-08",
+  "keywords" : [ "mst file", "mst file format", "what is a mst file", "file", "mst example", "mst file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
+	
   },
   "draft" : "false",
   "toc" : true,

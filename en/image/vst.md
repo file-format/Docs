@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "vst file", "vst file format", "what is a vst file", "file", "vst example", "vst file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

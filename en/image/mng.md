@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "mng file", "mng file format", "what is a mng file", "file", "mng example", "mng file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

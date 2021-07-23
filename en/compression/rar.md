@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "rar file", "rar file format", "what is a rar file", "file", "rar example", "rar file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

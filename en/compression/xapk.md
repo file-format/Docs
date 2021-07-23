@@ -1,5 +1,6 @@
 {
   "date" : "2021-04-11",
+  "keywords" : [ "xapk file", "xapk file format", "what is a xapk file", "file", "xapk example", "xapk file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

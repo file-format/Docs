@@ -1,5 +1,6 @@
 {
   "date" : "2021-02-10",
+  "keywords" : [ "jpx file", "jpx file format", "what is a jpx file", "file", "jpx example", "jpx file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

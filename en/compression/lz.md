@@ -1,5 +1,6 @@
 {
   "date" : "2021-04-08",
+  "keywords" : [ "lz file", "lz file format", "what is a lz file", "file", "lz example", "lz file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

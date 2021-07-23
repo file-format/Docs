@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "tiff file", "tiff file format", "what is a tiff file", "file", "tiff example", "tiff file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

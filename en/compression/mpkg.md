@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "mpkg file", "mpkg file format", "what is a mpkg file", "file", "mpkg example", "mpkg file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

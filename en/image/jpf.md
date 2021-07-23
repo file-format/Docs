@@ -1,5 +1,6 @@
 {
   "date" : "2021-02-10",
+  "keywords" : [ "jpf file", "jpf file format", "what is a jpf file", "file", "jpf example", "jpf file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

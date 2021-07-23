@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "odg file", "odg file format", "what is an odg file", "file", "odg example", "odg file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
