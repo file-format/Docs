@@ -25,7 +25,7 @@ A file with a .dmg extension is an Apple Disk Image file and known as a Mac OS X
 
 The DMG file extension was developed by Apple and is mostly used on Macintosh computers. Mostly the DMG file is used to give the Mac devices the capability to install different types of files and software that initiate from the internet. The DMG file is fundamentally a mountable disc image that displays on your desktop when it is opened. The file comprises raw data that is generally both encrypted and compressed. Mac systems treat DMG in the same way they would treat a disc that was interleaved, and they instantaneously try to open or “track ” the file.
 
-## Technical Specifications ##
+## Technical Specifications of DMG File Format##
 
    *  Specially generated for Macintosh computers 
    *  Developed by Apple
