@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "MKV File Format",
-  "keywords" : [ "mkv", "matroska video", "mkv format", "how to play mkv files" ],
+  "keywords" : [ "mkv", "matroska video", "mkv format", "how to play mkv files", "video", "file", "format" ],
   "description":"Learn about MKV file format and APIs that can create and open MKV files.",
   "linktitle" : "MKV",
   "menu" : {
@@ -17,9 +17,10 @@
   "lastmod" : "2020-17-11"
 }
 
+
 ## What is an MKV File? ##
 
-MKV (Matroska Video) is a multimedia container similar to [MOV](/video/mov/) and [AVI](/video/avi/) format but it supports more than one audio and subtitle tracks in the same file. An MKV file is the Matroska multimedia container format used for video. MKV is based on Extensible Binary Meta Language and it supports several video and audio compression formats. The major difference between MKV and other video formats is that MKV is a container and not a codec. MKV files are saved with the .mkv file extension. MKV can incorporate audio, video, and subtitles in a single file even if those elements use different types of encoding. For example, you could have an MKV file that contains H.264 video and MP3 or AAC for audio. MKV also supports descriptions, ratings, cover art, and even chapter points. There are several key features that MKV future proof. These features include:
+MKV (Matroska Video) is a multimedia container similar to [MOV](/video/mov/) and [AVI](/video/avi/) format but it supports more than one audio and subtitle track in the same file. An MKV file is the Matroska multimedia container format used for video. MKV is based on Extensible Binary Meta Language and it supports several video and audio compression formats. The major difference between MKV and other video formats is that MKV is a container and not a codec. MKV files are saved with the .mkv file extension. MKV can incorporate audio, video, and subtitles in a single file even if those elements use different types of encoding. For example, you could have an MKV file that contains H.264 video and MP3 or AAC for audio. MKV also supports descriptions, ratings, cover art, and even chapter points. There are several key features that MKV is future-proof. These features include:
 
 - Support for Fast seeking.
 - Ability to select different audio and video streams.
@@ -40,7 +41,7 @@ Matroska adds the following constraints to the EBML specification.
 - The **EBML Header**'s **EBMLMaxIDLength** must be 4.
 - The **EBML Header**'s **EBMLMaxSizeLength** must be between 1 and 8 (inclusive).
 
-All the top-level elements are coded on 4 octets.
+All the top-level elements are coded in 4 octets.
 
 - Language codes: Matroska (version 1 through 3) used language codes that can be either the 3 letters bibliographic ISO-639-2 form (like "fre" for french), or additional country code could be used like like "fre-ca" for Canadian French. Starting in Matroska version 4, either ISO 639-2 or BCP 47 MAY be used for language codes, although BCP 47 is recommended.
 - Physical Types: These have different meaning for both audio and video files. For example, ChapterPhysicalEquiv = 60 means (CD / 12" / 10" / 7" / TAPE / MINIDISC / DAT) for audio and (DVD / VHS / LASERDISC) for video.
