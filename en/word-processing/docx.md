@@ -1,5 +1,6 @@
 {
   "date" : "2019-12-03",
+  "keywords" : [ "DOCX","file", "format", "file type", "extension","what is an DOCX file?" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -24,7 +25,7 @@ DOCX is a well-known format for Microsoft Word documents. Introduced from 2007 w
 
 After Microsoft opened the specifications for the DOC file format, it was easy for its competitors to reverse engineer the format and provide the same support in their own applications. In addition, the competition from Open Office in the form of its Open Document Format, compelled Microsoft to adopt more open and wide standards. It was in early 2000 when Microsoft decided to go for the change to accommodate the standard for **Office Open XML**. Documents under this new Standard were given .docx extension, the "X" being for XML. By 2007, this new file format became part of Office 2007 and is carried on in the new versions of Microsoft Office as well. The new file type has added advantages of small file sizes, fewer changes of corruption and well-formatted images representation.
 
-## File Format Specifications ##
+## DOCX File Format Specifications - More Information
 
 A Docx file comprises of a collection of XML files that are contained inside a ZIP archive. The contents of a new Word document can be viewed by unzipping its contents. The collection contains a list of XML files that are categorized as:
 

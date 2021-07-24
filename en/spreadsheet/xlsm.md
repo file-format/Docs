@@ -17,6 +17,8 @@
   "lastmod" : "2019-12-10"
 }
 
+## What is an XLSM file?
+
 Files with XLSM extension is a type of Spreadsheet files that support Macros. From application point of view, a Macro is set of instructions that are used for automating processes. A macro is used to record the steps that are performed repeatedly and facilitates performing the actions by running the macro again. Macros are programmed with Microsoft's Visual Basic for Applications (VBA) from within the Excel Workbook using the Visual Basic Editor and can be run/debug directly from there.
 
 XLSM files are similar to XLM file formats but are based on the Open XML format introduced in Microsoft Office 2007. In other words, XLSM are [XLSX](/spreadsheet/xlsx/) files but with support of macros. By default, Excel itself provides several macros for common use. However, you can also record your own macros with required functions.

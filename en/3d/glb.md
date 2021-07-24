@@ -1,5 +1,6 @@
 {
   "date" : "2019-12-03",
+  "keywords" : [ "GLB","file", "format", "file type", "extension","what is an GLB file?" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -16,11 +17,11 @@
   "lastmod" : "2020-09-01"
 }
 
-# What is a GLB file? #
+## What is a GLB file?
 
 GLB is the binary file format representation of 3D models saved in the GL Transmission Format ([glTF](/3d/gltf/)). Information about 3D models such as node hierarchy, cameras, materials, animations and meshes in binary format. This binary format stores the glTF asset (JSON, .bin and images) in a binary blob. It also avoids the issue of increase in file size which happens in case of glTF. GLB file format results in compact file sizes, fast loading, complete 3D scene representation, and extensibility for further development. The format uses model/gltf-binary as MIME type.
 
-# GLB File Format #
+## GLB File Format - More Information
 
 The content delivery methods used by glTF result in extra processing to decode the base-64 encoded binary data and also increases the file size by 33%. These delivery methods, which contributed to the formation of GLB file format, include:
 
@@ -29,7 +30,7 @@ The content delivery methods used by glTF result in extra processing to decode t
 
 GLB as a container format was introduced as binary file format for representation of glTF asset in a binary blob to avoid the issues caused by glTF. GLB file format [specifications](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0#glb-file-format-specification) should be referred for any reader/writer implementation of the same for applications development.
 
-### File Structure ###
+## GLB File Structure
 
 GLB file format is based on little endian and its structure is as shown below:
 

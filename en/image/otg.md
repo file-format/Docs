@@ -1,5 +1,6 @@
 {
   "date" : "2020-01-10",
+  "keywords" : [ "otg file", "otg file format", "what is a otg file", "file", "otg example", "otg file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "vtx file", "vtx file format", "what is a vtx file", "file", "vtx example", "vtx file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

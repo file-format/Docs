@@ -1,5 +1,6 @@
 {
   "date" : "2021-04-08",
+  "keywords" : [ "kgb file", "kgb file format", "what is a kgb file", "file", "kgb example", "kgb file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

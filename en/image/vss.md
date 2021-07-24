@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "vss file", "vss file format", "what is a vss file", "file", "vss example", "vss file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

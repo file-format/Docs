@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "vssx file", "vssx file format", "what is a vssx file", "file", "vssx example", "vssx file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

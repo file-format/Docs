@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "png file", "png file format", "what is a png file", "file", "png example", "png file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

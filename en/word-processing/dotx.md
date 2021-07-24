@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "DOTX","file", "format", "file type", "extension","what is a DOTX file?" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -26,7 +27,7 @@ The DOTX file format was introduced with the release of Microsoft Office 2007 to
 
 It was in the early 2000 when Microsoft decided to go for the change to accommodate the standard for **Office Open XML**. Documents, of different types, under this new Standard were identified by appending "X" in their extensions, where "X" being for XML. By 2007, this new file format became part of Office 2007 and is carried on in the new versions of Microsoft Office as well. The new file type has added advantages of small file sizes, less changes of corruption and well formatted images representation.
 
-## File Format Specifications ##
+## File Format Specifications - More Information
 
 The DOTX file format follows the same DOCX structure based on Office OpenXML file format. Contents of a DOTX file format can be viewed by renaming it to ZIP and opening the archive using any supporting utility. The [MS-DOCX](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx) specifications define the Office OpenXML file format details for DOCX file format for developers' reference.
 

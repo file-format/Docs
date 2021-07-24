@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "dng file", "dng file format", "what is a dng file", "file", "dng example", "dng file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

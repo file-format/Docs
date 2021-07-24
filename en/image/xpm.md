@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "xpm file", "xpm file format", "what is a xpm file", "file", "xpm example", "xpm file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "gif file", "gif file format", "what is a gif file", "file", "gif example", "gif file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

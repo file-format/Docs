@@ -17,13 +17,15 @@
   "lastmod" : "2019-12-10"
 }
 
-Files with XLTX extension represent Microsoft Excel Template files that are based on the Office OpenXML file format specifications. It is used to create a standard template file that can be utilized to generate [XLSX](/spreadsheet/xlsx/) files that exhibit the same settings as specified in the XLTX file.
+## What is an XLTX file?
 
-## Brief History ##
+Files with .xltx extension represent Microsoft Excel Template files that are based on the Office OpenXML file format specifications. It is used to create a standard template file that can be utilized to generate [XLSX](/spreadsheet/xlsx/) files that exhibit the same settings as specified in the XLTX file.
+
+## Brief History
 
 It was in the early 2000 when Microsoft decided to go for the change to accommodate the standard for **Office Open XML**. Documents, of different types, under this new Standard were identified by appending "X" in their extensions, where "X" being for XML. By 2007, this new file format became part of Office 2007 and is carried on in the new versions of Microsoft Office as well. The new file type has added advantages of small file sizes, less changes of corruption and well formatted images representation.
 
-## XLTX File Format Specifications ##
+## XLTX File Format Specifications
 
 XLTX files are based on the Office OpenXML file format and use XML and [ZIP](/compression/zip/) to reduce file size. It was created with the release of Microsoft Office 2007 to replace the binary XLT file format. Similar to XLTX, the XLT file format can be used to create [XLS](/spreadsheet/xls/) files using Microsoft Excel 2003 and 2007.  These can be opened with Microsoft Excel by double clicking the file. The files organization in an XLTX file format can be observed by renaming the  file to ZIP and then extracting its contents to disc.
 

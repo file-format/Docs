@@ -20,7 +20,7 @@
 ## What is an SDF file?
 A file with .sdf extension contains the Microsoft SQL Server Compact (SQL CE) database which is also known as a compact relational database; produced by Microsoft for the applications made for mobile devices and desktops. It supports both 32 and 64 bits operating system and the complete content of database is included in a single SDF file and can occupy more than 4GB disk space. For the security purpose, a .sdf file can be encrypted with 128-bit encryption. The SQL CE runtime settles parallel multi-user access to the .sdf file. The SDF file can be copied via **QuickOnce** or simply it can be copied to destination for system deployment.
 
-## SDF file format
+## SDF File Format
 An SDF file contains a database which is usually called compact relational database. An SDF file contains all the database related information and the SQL Server Compact is a light weight and free database engine which is used to manage the .sdf files. The .sdf file size shouldn't exceed the limit of 4 GB of size. The SDF files don't store the information about stored procedures, triggers or views. Applications using an SQL CE database need not specify the path to an SDF file in the ADO.NET connection string, instead it can be mentioned as |DataDirectory|\database_name.sdf, defining the data directory being defined in the assembly manifest for the application
 The .sdf naming convention is optional, and any extension can be used to save the file. Setting up a password for the database file is an optional step. To compress or repair the database the file should be saved with the option of the **compacted/repaired database**.
 

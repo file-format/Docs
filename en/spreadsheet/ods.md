@@ -17,7 +17,9 @@
   "lastmod" : "2019-12-10"
 }
 
-Files with ODS extension stand for OpenDocument Spreadsheet Document format that are editable by user. Data is stored inside ODF file into rows and columns. It is XML-based format and is one of the several subtypes in the Open Document Formats (ODF) family. The format is specified as part of the ODF 1.2 specifications published and maintained by OASIS. A number of applications on Windows as well as other operating systems can open ODS files for editing and manipulation including Microsoft Excel, NeoOffice and LibreOffice. ODS files can also be converted into other spreadsheet formats as well like [XLS](/spreadsheet/xls/), [XLSX](/spreadsheet/xlsx/) and others by different applications.
+## What is an ODS file?
+
+Files with .ods extension stand for OpenDocument Spreadsheet Document format that are editable by user. Data is stored inside ODF file into rows and columns. It is XML-based format and is one of the several subtypes in the Open Document Formats (ODF) family. The format is specified as part of the ODF 1.2 specifications published and maintained by OASIS. A number of applications on Windows as well as other operating systems can open ODS files for editing and manipulation including Microsoft Excel, NeoOffice and LibreOffice. ODS files can also be converted into other spreadsheet formats as well like [XLS](/spreadsheet/xls/), [XLSX](/spreadsheet/xlsx/) and others by different applications.
 
 ## Brief History ##
 

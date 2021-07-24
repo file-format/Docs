@@ -1,5 +1,6 @@
 {
   "date" : "2021-04-08",
+  "keywords" : [ "rpm file", "rpm file format", "what is a rpm file", "file", "rpm example", "rpm file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

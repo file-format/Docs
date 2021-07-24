@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "exif file", "exif file format", "what is a exif file", "file", "exif example", "exif file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

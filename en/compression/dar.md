@@ -1,5 +1,6 @@
 {
   "date" : "2021-04-08",
+  "keywords" : [ "dar file", "dar file format", "what is a dar file", "file", "dar example", "dar file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "bmp file", "bmp file format", "what is a bmp file", "file", "bmp example", "bmp file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

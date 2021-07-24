@@ -1,5 +1,6 @@
 {
   "date" : "2019-11-25",
+  "keywords" : [ "jpeg file", "jpeg file format", "what is a jpeg file", "file", "jpeg example", "jpeg file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

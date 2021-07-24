@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "j2k file", "j2k file format", "what is a j2k file", "file", "j2k example", "j2k file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

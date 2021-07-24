@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "emz file", "emz file format", "what is a emz file", "file", "emz example", "emz file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

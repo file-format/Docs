@@ -1,5 +1,6 @@
 {
   "date" : "2021-04-08",
+  "keywords" : [ "pkg file", "pkg file format", "what is a pkg file", "file", "pkg example", "pkg file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

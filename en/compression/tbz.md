@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "tbz file", "tbz file format", "what is a tbz file", "file", "tbz example", "tbz file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

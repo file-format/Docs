@@ -1,5 +1,6 @@
 {
   "date" : "2019-12-09",
+  "keywords" : [ "zl file", "zl file format", "what is a zl file", "file", "zl example", "zl file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

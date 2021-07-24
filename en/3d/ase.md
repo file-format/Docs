@@ -1,5 +1,6 @@
 {
   "date" : "2021-01-22",
+  "keywords" : [ "ASE","file", "format", "file type", "extension","what is an ASE file?" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -20,7 +21,7 @@
 
 A file with a .ase extension is an Autodesk ASCII Scene Export file format that is an ASCII representation of a scene, containing 2D or 3D information while exporting scene data using Autodesk. Autodesk provides options to include scene components while exporting scene data. You can include Mesh definition along with vertex and face information, Material description, transform animation data for the objects, complete mesh definition of every n frames, animation data for cameras and lights and IK joint settings.
 
-## ASE File Format
+## ASE File Format - More Information
 
 ASE files are text files stored in ASCII format that can be opened in any text editor. An ASE file can contain the following types of information provided by Autodesk.
 

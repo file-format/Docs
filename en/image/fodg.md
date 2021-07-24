@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "fodg file", "fodg file format", "what is a fodg file", "file", "fodg example", "fodg file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

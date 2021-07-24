@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "gz file", "gz file format", "what is a gz file", "file", "gz example", "gz file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

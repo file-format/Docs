@@ -17,11 +17,11 @@
   "lastmod" : "2019-09-10"
 }
 
-# What is an FBX file? #
+## What is an FBX file?
 
 FBX, FilmBox, is a popular 3D file format that was originally developed by Kaydara for MotionBuilder. It was acquired by Autodesk Inc in 2006 and is now one of the main 3D exchange formats as used by many 3D tools. FBX is available in both binary and ASCII file format. The format was established to provided interoperability between digital content creation applications. There are many tools available for conversion from/to FBX file format.
 
-# FBX File Format #
+## FBX File Format - More Information
 
 FBX is a proprietary format and specifications about its binary file format are not available officially. A C++ FBX SDK is provided by Autodesk for reading, writing and conversion to/from FBX file. A Python import and export script for FBX is also available in Blender software that doesn't use the FBX SDK.
 

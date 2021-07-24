@@ -1,5 +1,6 @@
 {
   "date" : "2019-11-25",
+  "keywords" : [ "jpm file", "jpm file format", "what is a jpm file", "file", "jpm example", "jpm file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

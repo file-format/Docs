@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "docm","file", "format", "file type", "extension","what is a DOCM file?" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -24,7 +25,7 @@ DOCM files are Microsoft Word 2007 or higher generated documents with the abilit
 
 DOCM file format is based on the Office OpenXML standard. It was in the early 2000 when Microsoft decided to go for the change to accommodate the standard for **Office Open XML**. Documents, of different types, under this new Standard were identified by appending "X" in their extensions, where "X" being for XML. By 2007, this new file format became part of Office 2007 and is carried on in the new versions of Microsoft Office as well. The new file type has added advantages of small file sizes, less changes of corruption and well formatted images representation.
 
-## File Format Specifications
+## DOCM File Format Specifications - More Information
 
 The DOCM file format follows the same DOCX structure based on Office OpenXML file format. Contents of a DOCM file format can be viewed by renaming it to ZIP and opening the archive using any supporting utility. The [MS-DOCX](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx) specifications define the Office OpenXML file format details for DOCX file format for developers' reference and are applicable to DOTM as well. The macros are contained in a binary file named vbaProject.bin, with two supporting files vbaProject.bin.rels and vbaData.xml.
 

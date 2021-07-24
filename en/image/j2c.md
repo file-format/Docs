@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "j2c file", "j2c file format", "what is a j2c file", "file", "j2c example", "j2c file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
