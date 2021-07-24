@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "MK3D File Format",
-  "keywords" : [ "mk3d", "matroska video", "mkv format", "stereoscopic 3d", "StereoMode" ],
+  "keywords" : [ "mk3d", "matroska video", "mkv format", "stereoscopic 3d", "StereoMode", "video", "file", "format" ],
   "description":"Learn about MK3D file format for stereoscopic 3d videos created by Matroska and APIs that can create and open MK3D files.",
   "linktitle" : "MK3D",
   "menu" : {
@@ -19,17 +19,17 @@
 
 ## What is an MK3D file? ##
 
-The MK3D files belong to the Matroska video formats family. These files are actually **stereoscopic 3d** videos created using Matroska 3D format. The MKV file Container uses a StereoMode field's value to define the type of stereoscopic 3D video stuff. A StereoMode value is also available to display the old stereo 3D videos by separating cyan and red colours (AnaGlyph)
+The MK3D files belong to the Matroska video formats family. These files are actually **stereoscopic 3d** videos created using Matroska 3D format. The MKV file Container uses a StereoMode field's value to define the type of stereoscopic 3D video stuff. A StereoMode value is also available to display the old stereo 3D videos by separating cyan and red colors (AnaGlyph)
 
 ## Technical Details ##
 The 3D videos can be compressed in the following two ways:
 
-- Seperate track for each eye.
-- Combine each eye track into a single track.
+- Separate track for each eye.
+- Combine each eye tracking into a single track.
 
-The MKV file container support both of these.
+The MKV file container supports both of these.
 
-For the single track videos which are easier with the 3D material inside it, you have to set the **StereoMode** field which decides either the planes are assembled in the mono or left right combined track. You can use one of the following StereoMode field values:
+For the single-track videos which are easier with the 3D material inside them, you have to set the **StereoMode** field which decides either the planes are assembled in the mono or left right combined track. You can use one of the following StereoMode field values:
 
 |Value	| Description |
 |---|---|
@@ -49,7 +49,7 @@ For the single track videos which are easier with the 3D material inside it, you
 |13| both eyes laced in one Block (left eye is first) (field sequential mode)|
 |14| both eyes laced in one Block (right eye is first) (field sequential mode)|
 
-For the multiple tracks the MKV container needs to decide the functionlaity of each track separately. The **TrackOperation** with **TrackCombinePlanes** are used to do the job.
+For the multiple tracks, the MKV container needs to decide the functionality of each track separately. The **TrackOperation** with **TrackCombinePlanes** are used to do the job.
 
 
 ## References ##
