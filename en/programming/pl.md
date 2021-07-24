@@ -43,7 +43,81 @@ There are some properties or specifications of these programming files, some of 
 *	For Win32, the user may have to install native binary distribution of the language
 *	It requires some scripting tools to become executable in various Windows Resource Kits
 *	Visual Studio .NET is a famous framework for the development of programming languages. The Active State tool known as Visual Perl is used to add Perl into Visual studio
-*	In the files, the first line of the source code describes the information of the interpreter being used. The PL files usually starts with #!/usr/local/bin/perl line that tells your computer to run this script using a Perl interpreter installed in the computer
+*	In the files, the first line of the source code describes the information of the interpreter being used. The PL files usually starts with *#!/usr/bin/perl* line that tells your computer to run this script using a Perl interpreter installed in the computer
+
+## Example ##
+
+```
+
+#!/usr/bin/perl
+print "Hello, world\n";
+
+```
+
+This will print 
+
+```
+
+Hello, World
+
+```
+
+### Single line comment ###
+
+```
+
+#!/usr/bin/perl
+# This is a single line comment
+print "Hello Perl\n";
+
+```
+
+### Multi line comment ###
+
+```
+
+#!/usr/bin/perl
+=begin comment
+This is a multiline comment.
+Line 1
+Line 2
+=cut
+print "Hello Perl\n";
+
+```
+
+### Variable assignment ###
+
+```
+
+#!/usr/bin/perl
+$a = 10;
+print "Variable a = $a\n";
+
+```
+
+### Scalar variable assignment ###
+
+```
+
+#!/usr/bin/perl
+$age = 35; # Assigning an integer
+$name = "Tony Stark"; # Assigning a string
+$pi = 3.14; # Assigning a floating point
+
+```
+
+### Simple scalar operations ###
+
+```
+
+#!/usr/bin/perl
+$constr = "hi" . "perl";# Concatenates two or more strings.
+$add = 40 + 10; # addition of two numbers.
+$prod = 4 * 51;# multiplication of two numbers.
+$connumstr = $constr . $add;# concatenation of string and number.
+
+```
 
 ## References ##
 
