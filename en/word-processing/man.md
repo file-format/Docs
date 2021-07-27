@@ -19,7 +19,7 @@
 
 ## What is a MAN file?
 
-A file with .man extension (stands for man page) is a Unix programming user's manual in software documentation. It is used by the `Man` utility, included in Unix, that is used to view the documentation. The software documentation contains information in sections and pages that can be retrieved using the Man utility from command terminal by issuing commands. Being available in the computer as soft copy of documentation, it doesn't require any printed copy or internet connection to access it.
+A file with .man extension  stands for man page which is a Unix programming user's manual in software documentation form. It is used by the `Man` utility, included in Unix, that is used to view the documentation. The software documentation contains information in sections and pages that can be retrieved using the Man utility from command terminal by issuing commands. Being available in the computer as soft copy of documentation, it doesn't require any printed copy or internet connection to access it.
 
 ## Unix Manual Man File Format - More Information
 
@@ -45,8 +45,42 @@ Following is the information about the section numbers of the manual followed by
 |8|System administration commands (usually only for root)|
 |9|Kernel routines [Non standard]|
 
+## Example - How to Read MAN Pages?
+
+Here is an example how to retrieve informatino about MkDir command using the Man command.
+
+```
+% man mkdir
+
+MKDIR(1)    USER COMMANDS       MKDIR(1)
+
+NAME
+   mkdir - make a directory
+
+SYNOPSIS
+   mkdir [ -p ] dirname...
+
+DESCRIPTION
+   mkdir creates directories. Standard entries,`.',for the
+   directory itself, and `..' for its parent, are made automat-
+   ically.
+
+   The -p flag allows missing parent directories
+   to be created as needed.
+
+   With the exception of the set-gid bit, the
+   current umask(2V) setting determines the mode in which
+   directories are created. The new directory inherits the set-gid
+   bit of the parent directory. Modes may be modified after
+   creation by using chmod(1V).
+
+   mkdir requires write permission in the parent directory.
+
+SEE ALSO
+   chmod(1V), rm(1), mkdir(2v), umask(2V)
+```
+
 ## References
 
 * [OpenDocument Technical Specifications - By Wikipedia](https://en.wikipedia.org/wiki/OpenDocument_technical_specification)
 * [man(1) — Linux manual page](https://man7.org/linux/man-pages/man1/man.1.html)
-  
