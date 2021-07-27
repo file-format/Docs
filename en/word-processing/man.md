@@ -49,3 +49,4 @@ Following is the information about the section numbers of the manual followed by
 
 * [OpenDocument Technical Specifications - By Wikipedia](https://en.wikipedia.org/wiki/OpenDocument_technical_specification)
 * [man(1) — Linux manual page](https://man7.org/linux/man-pages/man1/man.1.html)
+  
