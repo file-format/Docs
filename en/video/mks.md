@@ -17,7 +17,7 @@
   "lastmod" : "2021-25-02"
 }
 
-## What is an MKS file? ##
+## What is an MKS file?
 
 The MKS files are generally known as Matroska files containing subtitles only. Although the Matroska is a general file container, it avoids keeping the information of specific formats. Since subtitles are being used in some of the audio or video containers, Matroska is paying attention to store some common subtitle formats. It helps Matroska to be consistent with the growth rate. You need to follow the points as given below to store the subtitles in Matroska:
 
@@ -26,7 +26,7 @@ The MKS files are generally known as Matroska files containing subtitles only. A
 - Remove the Start and stop timestamps that are used in a timestamp native storage format. Instead, use the Blocks timestamp and Duration.
 - You can use anything with a transparent layer, including a video.  
 
-## Common Subtitle Formats ##
+## Common Subtitle Formats
 
 Here are some brief notes about more common subtitle formats stored in Matroska:
 

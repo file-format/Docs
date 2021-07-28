@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "rtf file", "rtf file format", "what is an rtf file", "file", "rtf example", "rtf file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

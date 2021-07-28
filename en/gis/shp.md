@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "shp file", "shp file format", "what is an shp file", "file", "shp example", "shp file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

@@ -1,5 +1,6 @@
 {
   "date" : "2021-02-15",
+  "keywords" : [ "asf file", "asf file format", "what is an asf file", "file", "asf example", "asf file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

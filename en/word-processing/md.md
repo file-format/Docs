@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "md file", "md file format", "what is an md file", "file", "md example", "md file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

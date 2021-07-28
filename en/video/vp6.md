@@ -1,5 +1,6 @@
 {
   "date" : "2021-02-15",
+  "keywords" : [ "vp6 file", "vp6 file format", "what is an vp6 file", "file", "vp6 example", "vp6 file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

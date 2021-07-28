@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "geojson file", "what is an geojson file", "file", "geojson example", "geojson file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

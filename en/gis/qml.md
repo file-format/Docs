@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "qml file", "qml file format", "what is an qml file", "file", "qml example", "qml file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

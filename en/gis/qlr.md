@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "qlr file", "qlr file format", "what is an qlr file", "file", "qlr example", "qlr file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

@@ -1,5 +1,6 @@
 {
   "date" : "2021-05-20",
+  "keywords" : [ "qpf file", "qpf file format", "what is an qpf file", "file", "qpf example", "qpf file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

@@ -1,5 +1,6 @@
 {
   "date" : "2021-03-18",
+  "keywords" : [ "qgz file", "qgz file format", "what is an qgz file", "file", "qgz example", "qgz file extension","extension", "format" ],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
