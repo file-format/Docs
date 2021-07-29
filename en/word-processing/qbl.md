@@ -20,11 +20,11 @@
 
 A file with .qbl extension is a QuickBooks license file that contains licensing information for the user's purchased copy. It is usually stored in local system with the name `license.qbl` after QuickBooks is installed and user enters the licensing information in the software when software is run for the first time. QBL was the earlier file format used for storing QuickBooks licensing information. This has now been replaced by the QuickBooks `qbregisteration.dat` file and is populated with information from user's confirmation email, purchased DVD, or through other buying means. QBL files can be opened in any text editors such as Windows Notepad, Apple TextEdit, Notepad++, Github Atom editor, and many more.
 
-## QBL File Format
+## QBL File Format - More Information
 
 QBL files are created and stored as plain text files. Information in these files is human readable and can be edited/updated when these files are opened in text editors. Licensing and user registration information can then be copied in this file for getting started with the QuickBooks software. QBL files are usually stored in the Program Files\Intuit\QuickBooks\INET directory on Windows Operating System.
 
-A QBL file contained two type of information.
+A QBL file contains two types of information.
 
 * `QuickBooks Version Information:` Referred to the installed version of QuickBooks and is in format such as xx.x
 * `License Key:` Text in 000-000 0000-0000-0000-000 000073adbf3f format where 000-000 0000-0000-0000-000 is replaced with user's qbregisteration Key
