@@ -1,5 +1,6 @@
 {
   "date" : "2019-12-09",
+  "keywords" : [ "3mf file", "3mf file format", "what is an 3mf file", "file", "3mf example", "3mf file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

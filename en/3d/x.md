@@ -1,5 +1,6 @@
 {
   "date" : "2020-01-11",
+  "keywords" : [ "x file", "x file format", "what is an x file", "file", "x example", "x file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
