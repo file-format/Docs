@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "latex file", "latex file format", "what is an latex file", "file", "latex example", "latex file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

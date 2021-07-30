@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "mov file", "mov file format", "what is an mov file", "file", "mov example", "mov file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

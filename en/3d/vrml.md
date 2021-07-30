@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "vrml file", "vrml file format", "what is an vrml file", "file", "vrml example", "vrml file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

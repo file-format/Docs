@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "pps file", "pps file format", "what is an pps file", "file", "pps example", "pps file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

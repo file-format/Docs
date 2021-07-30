@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "u3d file", "u3d file format", "what is an u3d file", "file", "u3d example", "u3d file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

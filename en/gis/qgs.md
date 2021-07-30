@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "qgs file", "qgs file format", "what is a qgs file", "file", "qgs example", "qgs file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

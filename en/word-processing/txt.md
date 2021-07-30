@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "txt file", "txt file format", "what is an txt file", "file", "txt example", "txt file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

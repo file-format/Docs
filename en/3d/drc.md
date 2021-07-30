@@ -1,5 +1,6 @@
 {
   "date" : "2021-02-01",
+  "keywords" : [ "ins file", "ins file format", "what is an ins file", "file", "ins example", "ins file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

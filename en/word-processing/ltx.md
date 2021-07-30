@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "ltx file", "ltx file format", "what is an ltx file", "file", "ltx example", "ltx file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

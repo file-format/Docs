@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "aba file", "aba file format", "what is an aba file", "file", "aba example", "aba file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

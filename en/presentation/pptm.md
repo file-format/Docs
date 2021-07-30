@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "pptm file", "pptm file format", "what is an pptm file", "file", "pptm example", "pptm file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

@@ -2,7 +2,7 @@
   "date" : "2021-03-18",
   "author" : {
     "display_name" : "Muhammad Umar",
-	"keywords" : [ "QGD", "Sqlite Database of the QGIS Project", "extension", "format", "QGIS", "Auxilary Database"]
+	"keywords" : [ "QGD", "Sqlite Database of the QGIS Project", "extension", "format", "QGIS", "Auxilary Database", "What is a QGD file"]
   },
   "draft" : "false",
   "toc" : true,

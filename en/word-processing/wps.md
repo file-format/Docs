@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "wps file", "wps file format", "what is an wps file", "file", "wps example", "wps file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

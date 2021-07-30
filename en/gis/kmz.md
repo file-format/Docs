@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "kmz file", "what is an kmz file", "file", "kmz example", "kmz file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

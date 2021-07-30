@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "osm file", "what is an osm file", "file", "osm example", "osm file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

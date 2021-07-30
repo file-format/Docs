@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "gml file", "what is an gml file", "file", "gml example", "gml file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

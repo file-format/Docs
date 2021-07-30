@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "odt file", "odt file format", "what is an odt file", "file", "odt example", "odt file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

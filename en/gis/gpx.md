@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "gpx file", "what is an gpx file", "file", "gpx example", "gpx file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

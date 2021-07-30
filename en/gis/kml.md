@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "kml file", "what is an kml file", "file", "kml example", "kml file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "ott file", "ott file format", "what is an ott file", "file", "ott example", "ott file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

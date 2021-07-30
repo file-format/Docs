@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "x3d file", "x3d file format", "what is an x3d file", "file", "x3d example", "x3d file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
