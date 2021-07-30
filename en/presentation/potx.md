@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "potx file", "potx file format", "what is an potx file", "file", "potx example", "potx file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

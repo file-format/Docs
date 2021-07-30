@@ -1,5 +1,6 @@
 {
   "date" : "2021-01-21",
+  "keywords" : [ "otp file", "otp file format", "what is an otp file", "file", "otp example", "otp file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

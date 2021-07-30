@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "ppsm file", "ppsm file format", "what is an ppsm file", "file", "ppsm example", "ppsm file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

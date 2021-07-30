@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "ppsx file", "ppsx file format", "what is an ppsx file", "file", "ppsx example", "ppsx file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
