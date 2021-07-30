@@ -37,7 +37,7 @@ These updates continued to 2021 and there are various and amazing tools and func
 
 ## File Format Specifications ##
 
-This KEY type of file can contain Text, Images, Tables. Notes, Media, files, and XML-related data. In iOS devices an account named iCloud is used. When these types of files are saved to Cloud these are named KEY-TEF.
+This KEY type of file can contain Text, Images, Tables. Notes, Media, files, and XML-related data. In iOS devices, an account named iCloud is used. When these types of files are saved to Cloud these are named KEY-TEF.
 
 KEY files can be opened on macOS or any other iOS device. It can also be converted into other file formats like PDF, HTML, etc. These file types consist of compatibility with Apple Keynote remote applications which are only available in iOS devices.
 
