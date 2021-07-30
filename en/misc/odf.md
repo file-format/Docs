@@ -10,7 +10,7 @@
   "linktitle" : "ODF",
   "menu" : {
     "docs" : {
-      "parent" : "compression"
+      "parent" : "misc"
     }
   },
   "lastmod" : "2021-07-29"
