@@ -33,21 +33,20 @@ A quick go-through the timeline about the PDF file formation in terms of timelin
 
 The first version of PDF designated as PDF 1.0 which later went through revisions up to PDF 1.7. PDF 1.7, which became the ISO 32000-1, include some non-standardized proprietary technologies as well like Adobe XML Forms Architecture (XFA) and JavaScript extension for Acrobat. It was on July 28, 2017 when PDF 2.0, known as ISO 32000-2:2017 was published which doesn't include any non-standardized technologies.
 
-## File Format Specifications ##
+## PDF File Format Specifications
 
 A PDF file is a set of bytes that can be grouped in to tokens according to syntax rules defined by PDF specifications. Once or more tokens are combined to form higher-level syntactic entities, principally objects, which are the basic data values from which a PDF document is constructed.
 
-### File Structure ###
+### File Structure of PDF Files
 
 PDF file contents are arranged in the following sequence inside the file.
-
 
 |Header
 |Body
 |Cross-Reference Table
 |Trailer
 
-#### File Header ####
+#### PDF File Header ####
 
 Irrespective of the PDF version, a PDF file starts with a header containing unique identifier for PDF and the version of the format such as %PDF-1.x where x ranges from 1-7.
 
