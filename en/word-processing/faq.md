@@ -32,8 +32,3 @@ Here are some good FAQ questions guidelines that can be included with a software
  1. Include what's on your competitor page.
  1. Phrase your questions in a way that customers will write or ask them.
  1. Format your FAQs properly
-
-## References
-
-* [MS-DOC File Formation Specifications](https://msdn.microsoft.com/en-us/library/cc313153(v#office.12).aspx)
-* [Doc Computing](https://en.wikipedia.org/wiki/Doc_(computing))
