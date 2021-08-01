@@ -11,7 +11,7 @@ linktitle: MP4
 menu:
   docs:
     parent: "video"
-lastmod: 2020-24-11
+lastmod: 2021-07-26
 ---
 
 ## What is an MP4 file? ##
@@ -24,14 +24,14 @@ MP4 specification was developed by Moving Picture Experts Group (MPEG) and was b
 
 ## Structure of MP4 Files ##
 
-MP4 is an extensible container file, meaning that it does not define a strict structure and allows custom structure and hierarchy for each media type. The data in the MP4 file is divided into two sections, the first containing the media related data and the second containing metadata. The media data contains audio or video and metadata indicate flags for random access, timestamps, etc.
+MP4 is an extensible container file, meaning that it does not define a strict structure and allows custom structure and hierarchy for each media type. The data in the MP4 file is divided into two sections, the first containing the media-related data and the second containing metadata. The media data contains audio or video and metadata indicate flags for random access, timestamps, etc.
 The structures in MP4 are typically referred to as atoms or boxes. The minimum size of an atom is 8 bytes(the first 4 bytes specify size and the next 4 bytes specify type). Here is a list of the root level atoms contained in MP files:
 
-- **ftyp**: Contains the file type, description and the common data structures used.
+- **ftyp**: Contains the file type, description, and the common data structures used.
 - **pdin**: Contains progressive video loading/downloading information.
 - **moov**: Container for all the movie metadata.
 - **moof**: Container with video fragments.
-- **mfra**: The container with random access to video fragment
+- **mfra**: The container with random access to the video fragment
 - **mdat**: Data container for media.
 - **stts**: sample-to-time table.
 - **stsc**: sample-to-chunk table.

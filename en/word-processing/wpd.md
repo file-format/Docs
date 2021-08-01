@@ -19,7 +19,7 @@
 
 ## What is a WPD file?
 
-A file with an extension .wpd referred to as a WordPerfect Document Files (WPD). Corel WordPerfect was used to produce this text document. A word processing program is referred to as WordPerfect. It is used in a variety of computer systems, including Windows. 
+A file with an extension .wpd referred to as a WordPerfect Document Files (WPD). Corel WordPerfect was used to produce this text document. A word processing program is referred to as **WordPerfect**. It is used in a variety of computer systems, including Windows. The WordPerfect is also utilized in business, academic, and home environments for newsletters, resumes, invitations, and letter along with other documents. 
 
 The WPD file contains structured data, and the documents can store various embedded objects such as graphs and graphics developed in other applications. WPD documents also include mail merge elements, which allow information from an external entity, such as a spreadsheet or database, to be inserted into a design. You can double-tap a WPD file and every other document on your PC to open it. If your document associations are accurate, the application designed to open your .wpd document will do so.
 

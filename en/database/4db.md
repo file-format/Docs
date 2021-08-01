@@ -19,7 +19,9 @@
 
 ## What is a 4DB file?
 
-Database structure built using 4th Dimension, a software design program that comprises 4D code, interfaces, and resource information is known as 4DB. It is used in 4D's integrative software design framework only during the development process.
+Database structure built using 4th Dimension, a software design program that comprises 4D code, interfaces, and resource information is known as 4DB. It is used in 4D's integrative software design framework only during the development process. The files of 4DB are found both on desktop and mobile platforms and the operating system of Windows is also an option. The popularity rating of the major 4DB files is "Low" which means the 4DB files are usually present on a typical mobile or desktop device.
+
+The 4DB structure file has all those specifications that are related to the structure of the database such as field properties, fields, and tables, choice lists, passwords, menus, methods, and forms. The file gets the name which you enter in the dialog box of the database creation then followed by the “.4db”.
 
 There are two ways to connect a document with a new application (for example, my-file.4DB). The first and most straightforward method is to right-click on the 4DB file in question. Select "Choose default program" from the fall menu, then click "Browse" to locate the software you want. By clicking OK, you must confirm the entire operation. The next and more complex step is to use the Windows Registry to link the 4DB data type to the appropriate software.
 
