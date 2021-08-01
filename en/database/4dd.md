@@ -23,8 +23,6 @@
 
 * 	The capacity fork is known as 4DR. It contains the real data that a 4D database architecture file refers to, and it can be compressed using the Compress file instruction in 4D Builder or 4D Client.
 
-There are two main approaches to associate a file with a new application (for example, my-file.4DD). The most straightforward method is right-clicking on the 4DD file that you want to edit. Select "Choose default program" from the drop-down list, then select "Browse" to locate the software you want. By clicking OK, you must confirm the entire operation. The second and the harder step is to link the 4DD file extension to the appropriate application in the Windows System.
-
 Many archives are made up entirely of data sets. Opening unfamiliar files (e.g., 4DD) using a basic text writer like Windows Notepad may reveal portions of the information contained in the file. This technique allows the user to set the data of a large number of files, but not in the same way as a tool designed specifically for this purpose would.
 
 ## Brief History ##

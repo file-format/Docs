@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "MXF - Material Exchange Format",
-  "keywords" : [ "MXF", "matroska video", "mkv format", "how to play MXF files" ],
+  "keywords" : [ "MXF", "matroska video", "mkv format", "how to play MXF files", "SMPTE", "multimedia", "video" ],
   "description":"Learn about MXF file format and APIs that can create and open MXF files.",
   "linktitle" : "MXF",
   "menu" : {
@@ -19,14 +19,14 @@
 
 ## What is an MXF File?
 
-A file with .mxf extension is a multimedia container format that contains digital video and audio media along with metadata information about the file. It follows SMPTE (Society of Motion Picture and Television Engineers) standard that is a global association of professionals from engineering, technology, and executives working in the media and entertainment industry. MXF files can be converted to other file formats such as [AVI](/video/avi/) or [MOV](/video/mov/). MXF files can be opened by software such as Apple QuickTime Player, VLC Media Player, and Adobe Premiere Pro 2020.
+A file with .mxf extension is a multimedia container format that contains digital video and audio media along with metadata information about the file. It follows the SMPTE (Society of Motion Picture and Television Engineers) standard that is a global association of professionals from engineering, technology, and executives working in the media and entertainment industry. MXF files can be converted to other file formats such as [AVI](/video/avi/) or [MOV](/video/mov/).
 
 ## MXF File Format
 
-MXF files are in fact binary files that consist of a sequence of bytes in a definite format. Decoding applications must compliant to this format in order to understand it and extract information from it. The format allows adding new items without breaking backward compatibility using the KLV coding which is described below.
+MXF files are in fact binary files that consist of a sequence of bytes in a definite format. Decoding applications must compliant with this format in order to understand it and extract information from it. The format allows adding new items without breaking backward compatibility using the KLV coding which is described below.
 
  * Key – the identifier of the element, an SMPTE Universal Label (UL)
- * Length – the length of the data which is variable-length encoding used in order to reduce the amount of space required for this item
+ * Length – the length of the data which is the variable-length encoding used in order to reduce the amount of space required for this item
  * Value – the actual value of the element.
 
 ### SMPTE Format Specifications
@@ -68,7 +68,7 @@ MXF file format has been defined by the following SMPTE specifications.
 * SMPTE ST 2037:2009. Mapping VC-1 into the MXF Generic Container
 * SMPTE RP 2008:2008. Material Exchange Format — Mapping AVC Streams into the MXF Generic Container
 * SMPTE RP 2057:2011. Text-Based Metadata Carriage in MXF
-* SMPTE EG 41:2004. Material Exchange Format (MXF) — Engineering Guideline. Note: this document was no longer listed at the SMPTE Web site when consulted in January 2012.
+* SMPTE EG 41:2004. Material Exchange Format (MXF) — Engineering Guideline. Note: This document was no longer listed on the SMPTE Web site when consulted in January 2012.
 * SMPTE EG 42:2004. Material Exchange Format (MXF) — MXF Descriptive Metadata
 * SMPTE RDD 3:2008. e-VTR MXF Interoperability Specification
 * SMPTE RDD 9-2009. MXF Interoperability Specification of Sony MPEG Long GOP Products
@@ -76,7 +76,7 @@ MXF file format has been defined by the following SMPTE specifications.
 
 ### MXF Structural Metadata
 
-Structural metadata is fundamental in an MXF file as it contains useful information about the contents of the file. MXF metadata contains information such as frame rate, frame size, file creation date, and custom modification date. The structural metadata describes the structure and capabilities of an MXF file that includes technically describing the various essence components and conveying how the output timeline is composed.
+Structural metadata is fundamental in an MXF file as it contains useful information about the contents of the file. MXF metadata contains information such as frame rate, frame size, file creation date, and custom modification date. The structural metadata describes the structure and capabilities of an MXF file that includes technically describing the various essential components and conveying how the output timeline is composed.
 
 ## References
 
