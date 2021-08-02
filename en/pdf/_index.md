@@ -6,7 +6,7 @@
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "description": "Portable Document Format (PDF) is a standard representation of documents independent of software, hardware, and OS. PDF standards include PDF/A, PDF/E, PDF/UA, PDF/VT and PDF/X.",
-  "title" : "PDF File Format",
+  "title" : "PDF File Format - What is a PDF file?",
   "linktitle" : "PDF",
   "menu" : {
     "docs" : {
@@ -16,8 +16,6 @@
   },
   "lastmod" : "2019-09-10"
 }
-
-## What is a PDF file?
 
 Portable Document Format (PDF) is a type of document created by Adobe back in 1990s. The purpose of this file format was to introduce a standard for representation of documents and other reference material in a format that is independent of application software, hardware as well as Operating System. The PDF file format has full capability to contain information like text, images, hyperlinks, form-fields, rich media, digital signatures, attachments, metadata, Geospatial features and 3D objects in it that can become as part of source document.
 
