@@ -23,9 +23,7 @@ Portable Document Format (PDF) is a type of document created by Adobe back in 19
 
 In most of the cases, existing documents are converted to PDF rather than creating a new PDF from scratch. But that doesn't mean there are no software for creation or manipulation of PDF files.
 
-```console
-Have to share something about PDF file format? You can post your findings in [PDF File Format News](https://news.fileformat.com/t/PDF) section.
-```
+(Have to share something about PDF file format? You can post your findings in [PDF File Format News](https://news.fileformat.com/t/PDF) section.)
 
 ## PDF File Format - Brief History
 
