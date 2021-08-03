@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description":"Learn about REG file format and APIs that can create and open REG files.",
-  "title" : "REG - Windows Script File",
+  "title" : "REG - Windows Registry File",
   "linktitle" : "REG",
   "menu" : {
     "docs" : {
