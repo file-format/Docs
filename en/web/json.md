@@ -14,11 +14,13 @@ menu:
 lastmod: 2020-04-12
 ---
 
-## What is a JSON file? ##
+## What is a JSON file?
 
 JSON (JavaScript Object Notation) is an open standard file format for sharing data that uses human-readable text to store and transmit data. JSON files are stored with the .json extension. JSON requires less formatting and is a good alternative for [XML](/web/xml/). JSON is derived from JavaScript but is a language-independent data format. The generation and parsing of JSON is supported by many modern programming languages. *application/json* is the media type used for JSON.
 
-## Brief History ##
+**(Have to share something about JSON or Web file formats? You can post your findings in [Web File Format News](https://news.fileformat.com/t/Web) section.)**
+
+## JSON - Brief History
 
 There was a need for real-time server to client communication that lead to the creation of JSON. The JSON format was first specified by Douglas Crockford in March 2001. JSON was based on Standard ECMA-262 3rd Edition—December 1999 which is a subset of JavaScript. The first edition of JSON standard ECMA-404 was published in October 2013 by Ecma International. RFC 7159 became the main reference for JSON's Internet uses in 2014. In November 2017, ISO/IEC 21778:2017 was published as an international standard. RFC 8259 was published on 13 December 2017 by The Internet Engineering Task Force which is the current version of the Internet Standard STD 90.
 
