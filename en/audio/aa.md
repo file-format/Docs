@@ -36,7 +36,7 @@ These files can be compatible with various devices. Players for these files are 
 | Format name                     | Bitrater        | Sample rate        | Bit depth | Channel        | MBytes/hour | Container      | Quality description |
 | ------------------------------- | --------------- | ------------------ | --------- | -------------- | ----------- | -------------- | ------------------- |
 |  |
-| Audible Enhanced Audio (.aax)\* | 32 - 128 kbit/s | 22.050 - 44.10 kHz | Un­known  | Mono or stereo | 28.8        | MPEG-4 Part 14 | AAC sound           |
+| Audible Enhanced Audio (.aax)   | 32 - 128 kbit/s | 22.050 - 44.10 kHz | Un­known  | Mono or stereo | 28.8        | MPEG-4 Part 14 | AAC sound           |
 | Format 4 (.aa)                  | 32 kbit/s       | 22.050 kHz         | 16bit     | Mono           | 14.4        | MP3            | MP3 sound           |
 | Format 3 (.aa)                  | 16 kbit/s       | 22.050 kHz         | 16bit     | Mono           | 7.2         | Unknown        | FM radio sound      |
 | Format 2 (.aa)                  | 8 kbit/s        | 22.050 kHz         | 16bit     | Mono           | 3.7         | Unknown		 | AM radio sound      |
