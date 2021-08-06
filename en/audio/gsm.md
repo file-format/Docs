@@ -31,13 +31,13 @@ GSM is an audio file format that was created for internet telephony in Europe. I
 
 GSM work on a structured network which consists of the following sections:
 
-**Modulation**: It is a process of transforming input data into a format that can easily be transmitted. The transmitted data is demodulated at the receiving end
-**Transmission rate**: GSM is a digital system that has an over the bit rate of 270 kbps
-**Uplink Frequency Range**: 933-960 MHz
-**Downlink Frequency Range**: 890 – 915 MHz
-**Channel Spacing**: It means the spacing between adjacent barriers which should be about 200 kHz
-**Duplex Distance**: It is the space between uplink and downlink frequencies which should be 80 MHz 
-**Speech Coding**: GSM uses Linear Predictive Coding (LPC). LPC compresses the bit rate. When the audio signal passes through a filter and mimics the vocal tract. GSM encode speech at 13kbps
+- **Modulation** : It is a process of transforming input data into a format that can easily be transmitted. The transmitted data is demodulated at the receiving end
+- **Transmission rate** : GSM is a digital system that has an over the bit rate of 270 kbps
+- **Uplink Frequency Range** : 933-960 MHz
+- **Downlink Frequency Range**: 890 – 915 MHz
+- **Channel Spacing** : It means the spacing between adjacent barriers which should be about 200 kHz
+- **Duplex Distance** : It is the space between uplink and downlink frequencies which should be 80 MHz 
+- **Speech Coding** : GSM uses Linear Predictive Coding (LPC). LPC compresses the bit rate. When the audio signal passes through a filter and mimics the vocal tract. GSM encode speech at 13kbps
 
 | Audio compression format | Algorithm | Sample rate | Bit rate transform | Latency  | CBR | VBR | Stereo | Multichannel |
 | ------------------------ | --------- | ----------- | ------------------ | -------- | --- | --- | ------ | ------------ |

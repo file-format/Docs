@@ -36,7 +36,7 @@ Many programs are associated with these files on Windows and Mac OS. Many progra
 
 Here is an example of an audio-only 8SVX IFF audio file:
 
-![](../8svx.png){:height="300px" width="200px"}
+![](../8svx.png)
 
 ## References ##
 
