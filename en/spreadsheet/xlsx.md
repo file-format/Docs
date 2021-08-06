@@ -21,7 +21,7 @@
 
 **XLSX** is well-known format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007. Based on structure organized according to the Open Packaging Conventions as outlined in [Part 2](https://www.ecma-international.org/publications/standards/Ecma-376.htm) of the OOXML standard ECMA-376, the new format is a zip package that contains a number of XML files. The underlying structure and files can be examined by simply unzipping the .xlsx file.
 
-## Brief History ##
+## Brief History
 
 XLSX file format was introduced in 2007 and uses the Open XML standard adapted by Microsoft back in 2000. Previous to XLSX, the common file format used was [XLS](/spreadsheet/xls/) that was pure binary file format. The new file type has added advantages of small file sizes, less changes of corruption and well-formatted images representation. It was in the early 2000 when Microsoft decided to go for the change to accommodate the standard for **Office Open XML**. By 2007, this new file format became part of Office 2007 and is carried on in the new versions of Microsoft Office as well.
 
@@ -70,8 +70,12 @@ As can be seen, this worksheet contains contents in cells A1 through B2 and an i
 1. As can be seen in first image above, cell G13 in the worksheet is active cell which is also mentioned in the XML file.
 1. The sheetData tab represents the data contained in the worksheet. However, you can see that the original contents of the worksheet are nowhere in this section. This is because the text is indirectly referred from "sharedStrings" XML sheet. This linking ensures that each text is saved only once and can be referenced again in order to save space.
 1. The image as can be seen is referenced by reference id "rId2"
+  
+## Contribute
+ 
+Have to share something about XLSX or Spreadsheet file formats? You can post your findings in [Spreadsheet File Format News](https://news.fileformat.com/t/Spreadsheet) section.
 
-## References ##
+## References
 
 * [[MS-XLSX] - .Xlsx File Format](https://msdn.microsoft.com/en-us/library/dd922181(v#office.12).aspx)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
