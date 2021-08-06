@@ -1,6 +1,6 @@
 {
   "date" : "2021-08-04",
-  "keywords" : [ "8svx", "file", "extension", "format", "Audio Coding", "Audible AudioBook", "aa extension", "AA files"],
+  "keywords" : [ "8svx", "file", "extension", "format", "Audio Coding", "Audible AudioBook", "8svx extension", "8svx files"],
   "author" : {
     "display_name" : "Sami Cheema"
   },
@@ -36,7 +36,7 @@ Many programs are associated with these files on Windows and Mac OS. Many progra
 
 Here is an example of an audio-only 8SVX IFF audio file:
 
-<img src="../8svx.png"  width="200" height="300">
+![](../8svx.png){:height="300px" width="200px"}
 
 ## References ##
 
