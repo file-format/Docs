@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "rvm file", "rvm file format", "what is an rvm file", "file", "rvm example", "rvm file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
