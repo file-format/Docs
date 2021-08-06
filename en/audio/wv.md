@@ -7,8 +7,8 @@
   "draft" : "false",
   "toc" : true,
   "description" : "Learn about WV file format and APIs that can create and open WV files.",
-  "title" : "WV",
-  "linktitle" : "WV - WavPack Audio File Format",
+  "title" : "WV - WavPack Audio File Format",
+  "linktitle" : "WV",
   "menu" : {
     "docs" : {
       "parent" : "audio"
