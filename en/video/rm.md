@@ -11,10 +11,10 @@ linktitle: RM
 menu:
   docs:
     parent: "video"
-lastmod: 2020-28-12
+lastmod: 2021-04-08
 ---
 
-## What is a RM file? ##
+## What is an RM file? ##
 
 RealMedia is a proprietary multimedia container format developed by RealNetworks that uses the .rm extension. It is used with the combination of [RealAudio (RA)](/audio/ra/) and [RealVideo(RV)](/video/rv/) for streaming over the internet. These streams are of constant bitrate. For variable bitrate, RealNetworks developed the RealMedia Variable Bitrate (RMVB) format. RealMedia is suitable for streaming content over the internet and can be used for streaming live television for example.
 
@@ -31,7 +31,7 @@ byte[] chunk payload
 
 The following are the types of chunks present in the RealMedia file:
 
-- **RealMedia file header (.RMF)**: This must be the first chunk in the RealMedia file. Only one .RMF chunk is present in one file. It contains information about the number of headers.
+- **RealMedia file header (.RMF)**: This must be the first chunk in the RealMedia file. Only one RMF chunk is present in one file. It contains information about the number of headers.
 - **File properties header (PROP)**: This contains information about the general properties of the RealMedia file. There is only one chunk of this type in each RealMedia file.
 - **Media properties header (MDPR)**: This chunk contains information about the stream properties. It contains information about the type of stream and the codec used. There is one MDPR chunk for each stream in the file.
 - **Content description header (CONT)**: This chunk contains text information like the title or author for the content in the RealMedia file. This chunk is for information purposes only.
