@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "dae file", "dae file format", "what is an dae file", "file", "dae example", "dae file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

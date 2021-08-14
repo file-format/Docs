@@ -1,5 +1,6 @@
 {
   "date" : "2019-10-11",
+  "keywords" : [ "obj file", "obj file format", "what is an obj file", "file", "obj example", "obj file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
