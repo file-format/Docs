@@ -35,5 +35,5 @@ The [openNURBS](https://github.com/mcneel/opennurbs) libraries allow anyone to r
 ## References ##
 
 * [Rhinoceros](https://www.rhino3d.com/download/openNURBS)
-* [Rhinoceros](https://en.wikipedia.org/wiki/Rhinoceros_3D)
-* [openNURBS](https://github.com/mcneel/opennurbs)
+* [Rhinoceros - Wikipedia](https://en.wikipedia.org/wiki/Rhinoceros_3D)
+* [openNURBS on GitHub](https://github.com/mcneel/opennurbs)
