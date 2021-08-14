@@ -43,7 +43,7 @@ Google has developed the VP9 codec as a royalty-free, open-source video coding s
  
 ## Working of VP9
 
-Usually, the 4K video upsurges picture quality by making specific pixels smaller, VP9 codec and HEVC make them bigger to scale back the bitrate and file size. While this might seem contradictory, the encoding engine takes the larger pixels and changes them into better resolution productivity. Source video, entailing of video frames, is encoded or compressed to make a compressed video bitstream. Each separate frame is first divided into blocks of pixels. The blocks are then scrutinized for three-dimensional dismissals and sequential connections between frames are evaluated to take advantage of areas that can’t be changed. These are encoded via motion vectors that ensure the qualities of the given block on the next frame. The residual information is encoded using an effectual binary compression.
+Usually, the 4K video upsurges picture quality by making specific pixels smaller, the VP9 codec and HEVC make them bigger to scale back the bitrate and file size. While this might seem contradictory, the encoding engine takes the larger pixels and changes them into better resolution productivity. Source video, entailing of video frames, is encoded or compressed to make a compressed video bitstream. Each separate frame is first divided into blocks of pixels. The blocks are then scrutinized for three-dimensional dismissals and sequential connections between frames are evaluated to take advantage of areas that can’t be changed. These are encoded via motion vectors that ensure the qualities of the given block on the next frame. The residual information is encoded using an effectual binary compression.
 
 ## References
 
