@@ -21,7 +21,7 @@
 
 An ACT or Adobe Color Table format (also known as a Color Lookup Table file) is a type of Adobe Photoshop database that stores a set of predefined colors. You can add or remove colors when saving a picture for online publishing to favor a higher quality image or a smaller file size. You might have an ADPCM Encrypted Audio format rather if it's not utilized with Illustrator. Adaptive Differential Pulse Code Modulation is an audio compression technique utilized by various Music devices and listening devices.
 
-The ACT document format is also used by the Alma CAD/CAM File system. These are the guidelines used by 3D machine tools to figure out how to cut anything. A Genesis3D Player, a DS Games Developer Action, or a FoxPro Detailing Wizard Action Schematic document are all examples of ACT files.
+The ACT file format is also used by the Alma CAD/CAM File system. These are the guidelines used by 3D machine tools to figure out how to cut anything. A Genesis3D Player, a DS Games Developer Action, or a FoxPro Detailing Wizard Action Schematic files are all examples of ACT.
 
 
 ## ACT File Format Specification##
