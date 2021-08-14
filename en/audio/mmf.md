@@ -47,7 +47,7 @@ struct SMAF_Header
 };
 ```
 
-Here is an example of an MMF file:
+Here is an example of MMF file:
 
 ![](../mmf.png)
 
