@@ -7,7 +7,7 @@ draft: false
 toc: true
 description: Learn about Xvid file format and APIs that can create and open Xvid files
 title: Xvid File Format
-linktitle: Xvid
+linktitle: XVID
 menu:
   docs:
     parent: "video"
