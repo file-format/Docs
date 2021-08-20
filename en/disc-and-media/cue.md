@@ -1,6 +1,6 @@
 {
   "date" : "2021-06-09",
-  "keywords" : [ "cue", "file", "extension", "format", "what is a cue file", "music", "cue file format", "cue file format specification"],
+  "keywords" : [ "cue", "file", "extension", "format", "what is a cue file", "music", "cue file format", "cue file format specification", "cue sheet", "CDRWIN"],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -19,7 +19,7 @@
 
 ## What is a CUE file?
 
-A file with .cue extension, also known as cue sheet file, is a metadata file that contains information about the layout of tracks on a CD or DVD. These are supported by media players and optical disc authoring applications. The main audio data stored on the CD is referenced by the cue file, along with the specifications of track lengths, disc titles and performers. Thus if a single audio file contains multiple tracks, the cue file can be used to divide the audio into multiple files or reference various tracks.
+A file with .cue extension, also known as cue sheet file, is a metadata file that contains information about the layout of tracks on a CD or DVD. These are supported by media players and optical disc authoring applications. The main audio data stored on the CD is referenced by the cue file, along with the specifications of track lengths, disc titles, and performers. Thus if a single audio file contains multiple tracks, the cue file can be used to divide the audio into multiple files or reference various tracks.
 
 ## CUE File Format
 
@@ -32,7 +32,7 @@ CUE or cue sheet files are stored in plain text format that is human-readable. I
 |FILE| Refers to the file containing the data and its format such as [MP3](/audio/mp3/), [WAV](/audio/wav/), or plain binary disc image)|
 |TRACK| Defines the track context information such as its number and type or mode.|
 |INDEX| Represents the position as an index within the FILE. The format is mm:ss:ff (minute-second-frame).|
-|PREGAP and POSTGAP|This indicates the pregap or postgap of a track, which is not stored in any data file. The length is specified in the same minute-second-frame format as for INDEX.|
+|PREGAP and POSTGAP|This indicates the pregap or post-gap of a track, which is not stored in any data file. The length is specified in the same minute-second-frame format as for INDEX.|
 
 ### CUE Sheet Example
 
