@@ -1,6 +1,6 @@
 {
   "date" : "2021-06-24",
-  "keywords": [ "GADGET file", "what is a gadget file", "extension", "format" ],
+  "keywords": [ "GADGET file", "what is a gadget file", "extension", "format", "what is a GADGET file", "archive" ],
   "author" : {
     "display_name" : "Muhammad Umar"
   },
@@ -35,10 +35,6 @@ Multiple Instances of a GADGET file can be run simultaneously. For an instance, 
 ### Discontinuation of GADGET
 
 Since the Windows Sidebar platform in Windows 7 has serious vulnerabilities, the Gadgets are no longer available on Microsoft's official website. Later on, Microsoft retired this feature in newer releases of Windows. GADGET could be exploited to access a computer's files, harm a computer, reveal objectionable content, or change their behavior at any time.
-
-
-
-
 
 ## References 
 

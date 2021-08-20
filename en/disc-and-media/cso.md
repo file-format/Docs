@@ -1,6 +1,6 @@
 {
   "date" : "2021-08-09",
-  "keywords" : [ "cso file", "cso file format", "what is an cso file", "file", "cso example", "cso file extension","extension", "format" ],
+  "keywords" : [ "cso file", "cso file format", "what is an cso file", "file", "cso example", "cso file extension","extension", "format", "iso", "DAX compression" ],
   "author" : {
     "display_name" : "Muhammad Umar"
   },

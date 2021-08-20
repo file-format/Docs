@@ -1,6 +1,6 @@
 {
   "date" : "2021-06-23",
-  "keywords": [ "Bin file", "what is a bin file", "extension", "format" ],
+  "keywords": [ "Bin file", "what is a bin file", "extension", "format", "disc image", "what is a bin file", "iso" ],
   "author" : {
     "display_name" : "Muhammad Umar"
   },

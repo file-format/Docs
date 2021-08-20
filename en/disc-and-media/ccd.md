@@ -1,6 +1,6 @@
 {
   "date" : "2021-08-06",
-  "keywords" : [ "ccd file", "ccd file format", "what is an ccd file", "file", "ccd example", "ccd file extension","extension", "format" ],
+  "keywords" : [ "ccd file", "ccd file format", "what is an ccd file", "file", "ccd example", "ccd file extension","extension", "format", "CloneCD Control", "img" ],
   "author" : {
     "display_name" : "Muhammad Umar"
   },

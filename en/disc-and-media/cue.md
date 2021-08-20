@@ -1,6 +1,6 @@
 {
   "date" : "2021-06-09",
-  "keywords" : [ "cue", "file", "extension", "format", "what is a cue file", "music", "cue file format", "cue file format specification"],
+  "keywords" : [ "cue", "file", "extension", "format", "what is a cue file", "music", "cue file format", "cue file format specification", "cue sheet", "CDRWIN"],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
