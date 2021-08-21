@@ -1,5 +1,6 @@
 {
   "date" : "2020-08-20",
+  "keywords" : [ "jfproj file", "jfproj file format", "what is a jfproj file", "file", "jfproj example", "jfproj file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

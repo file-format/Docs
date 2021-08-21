@@ -1,6 +1,6 @@
 {
   "date" : "2019-10-11",
-  "keywords" : [ "MPT", "File", "Extension", "File Format", "Project", "Management", "Microsoft Project Template"],
+  "keywords" : [ "mpt file", "mpt file format", "what is a mpt file", "file", "mpt example", "mpt file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

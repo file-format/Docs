@@ -1,5 +1,6 @@
 {
   "date" : "2020-08-20",
+  "keywords" : [ "ttf file", "ttf file format", "what is a ttf file", "file", "ttf example", "ttf file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

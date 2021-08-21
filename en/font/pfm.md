@@ -1,5 +1,6 @@
 {
   "date" : "2020-08-20",
+  "keywords" : [ "pfm file", "pfm file format", "what is a pfm file", "file", "pfm example", "pfm file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

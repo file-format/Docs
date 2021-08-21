@@ -1,6 +1,6 @@
 {
   "date" : "2019-12-13",
-  "keywords" : [ "PPTX", "file", "extension", "format", "PowerPoint", "Presentation" ],
+  "keywords" : [ "pptx file", "pptx file format", "what is a pptx file", "file", "pptx example", "pptx file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

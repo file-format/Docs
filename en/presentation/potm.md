@@ -1,6 +1,6 @@
 {
   "date" : "2019-10-11",
-  "keywords" : [ "potm file", "potm file format", "what is an potm file", "file", "potm example", "potm file extension","extension", "format" ],
+  "keywords" : [ "potm file", "potm file format", "what is a potm file", "file", "potm example", "potm file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

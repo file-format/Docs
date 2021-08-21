@@ -1,5 +1,6 @@
 {
   "date" : "2020-08-20",
+  "keywords" : [ "woff file", "woff file format", "what is a woff file", "file", "woff example", "woff file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

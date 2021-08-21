@@ -1,5 +1,6 @@
 {
   "date" : "2020-08-20",
+  "keywords" : [ "sdf file", "sdf file format", "what is a sdf file", "file", "sdf example", "sdf file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

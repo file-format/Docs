@@ -1,6 +1,6 @@
 {
   "date" : "2019-10-11",
-  "keywords" : [ "MPP", "File", "Extension", "File Format", "Project", "Management", "Microsoft Project"],
+  "keywords" : [ "mpp file", "mpp file format", "what is a mpp file", "file", "mpp example", "mpp file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

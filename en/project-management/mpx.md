@@ -1,6 +1,6 @@
 {
   "date" : "2019-10-11",
-  "keywords" : [ "MPX", "File", "Extension", "File Format", "Project", "Management", "Microsoft Project Exchange"],
+  "keywords" : [ "mpx file", "mpx file format", "what is a mpx file", "file", "mpx example", "mpx file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

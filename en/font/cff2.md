@@ -1,5 +1,6 @@
 {
   "date" : "2020-08-20",
+  "keywords" : [ "cff2 file", "cff2 file format", "what is a cff2 file", "file", "cff2 example", "cff2 file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

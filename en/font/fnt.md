@@ -1,5 +1,6 @@
 {
   "date" : "2020-08-20",
+  "keywords" : [ "fnt file", "fnt file format", "what is a fnt file", "file", "fnt example", "fnt file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

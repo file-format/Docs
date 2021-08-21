@@ -1,5 +1,6 @@
 {
   "date" : "2020-08-20",
+  "keywords" : [ "pfa file", "pfa file format", "what is a pfa file", "file", "pfa example", "pfa file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

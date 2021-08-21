@@ -1,6 +1,6 @@
 {
   "date" : "2019-10-11",
-  "keywords" : [ "pot file", "pot file format", "what is an pot file", "file", "pot example", "pot file extension","extension", "format" ],
+  "keywords" : [ "pot file", "pot file format", "what is a pot file", "file", "pot example", "pot file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

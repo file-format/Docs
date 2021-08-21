@@ -1,5 +1,6 @@
 {
   "date" : "2020-08-20",
+  "keywords" : [ "otf file", "otf file format", "what is a otf file", "file", "otf example", "otf file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

@@ -1,5 +1,6 @@
 {
   "date" : "2020-08-20",
+  "keywords" : [ "pfb file", "pfb file format", "what is a pfb file", "file", "pfb example", "pfb file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

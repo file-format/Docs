@@ -1,5 +1,6 @@
 {
   "date" : "2020-08-20",
+  "keywords" : [ "fon file", "fon file format", "what is a fon file", "file", "fon example", "fon file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

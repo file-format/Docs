@@ -1,5 +1,6 @@
 {
   "date" : "2021-07-29",
+  "keywords" : [ "odf file", "odf file format", "what is a odf file", "file", "odf example", "odf file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },

@@ -1,5 +1,6 @@
 {
   "date" : "2021-02-26",
+  "keywords" : [ "type1 file", "type1 file format", "what is a type1 file", "file", "type1 example", "type1 file extension","extension", "format" ],
   "author" : {
     "display_name" : "Muhammad Umar"
   },

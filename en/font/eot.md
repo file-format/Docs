@@ -1,5 +1,6 @@
 {
   "date" : "2020-08-20",
+  "keywords" : [ "eot file", "eot file format", "what is a eot file", "file", "eot example", "eot file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
