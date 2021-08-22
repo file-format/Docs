@@ -11,7 +11,7 @@
   "linktitle" : "FWP",
   "menu" : {
     "docs" : {
-      "parent" : "FWP"
+      "parent" : "web"
     }
   },
   "lastmod" : "2021-07-20"
