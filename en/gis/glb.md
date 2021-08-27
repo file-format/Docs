@@ -10,6 +10,7 @@
   "linktitle" : "GLB",
   "menu" : {
     "docs" : {
+      "identifier":"gis-glb",
       "parent" : "gis"
     }
   },
