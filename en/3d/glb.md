@@ -11,6 +11,7 @@
   "linktitle" : "GLB",
   "menu" : {
     "docs" : {
+      "identifier":"3d-glb",
       "parent" : "3d"
     }
   },
