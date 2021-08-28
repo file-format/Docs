@@ -7,7 +7,7 @@
   "toc" : true,
   "title" : "AUX - Auxiliary File",
   "description":"Learn about AUX file format and APIs that can create and open AUX files.",
-  "linktitle" : "AUX",
+  "linktitle" : "AUX-GIS",
   "menu" : {
     "docs" : {
       "parent" : "gis"
