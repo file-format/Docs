@@ -32,7 +32,7 @@ With the progress in technology and web development, many versions of VBScript a
 
 ## Technichal Specification ##
 
-For the web pages at the server-side, the tools such as **Active Server Pages*** are used along with VBScript. This scripting language can also be used in the script component of Windows. The files of this language are stored with a .vbs extension in Windows. 
+For the web pages at the server-side, the tools such as **Active Server Pages** are used along with VBScript. This scripting language can also be used in the script component of Windows. The files of this language are stored with a .vbs extension in Windows. 
 
 There are many control structures such as loops that are used in the code of this language. It also includes arguments that are command line and could be named or unnamed. The files of this language can be stored simply in the folders or on the desktop of a Windows operating system. Although there is no specific integrated development environment for VBScript programs like Microsoft Script Editor provide the facility of development of this language.
 
