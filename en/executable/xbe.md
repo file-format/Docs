@@ -29,14 +29,14 @@ The image header comprises the information that explains where the other compone
 ### TLS Table
 The TLS Table consists of all the information needed by the XBE to properly set up thread-local storage. It is basically unique to the TLS Directory found in PE32 files, and can be directly copied from there. This table may be omitted, if the XBE file does not use any thread-local storage, and the respective field in the image header set to zero.
 
-| Offset |  Size  |         Name         |                                        Description                                         |
---------|--------|----------------------|--------------------------------------------------------------------------------------------|
-| 0x0000 | 0x0004 |    Raw Data Start    | Absolute (i.e. not an RVA) address of start of the TLS variable data in the program image. |
-| 0x0004 | 0x0004 |     Raw Data End     |  Absolute (i.e. not an RVA) address of end of the TLS variable data in the program image.  |
-| 0x0008 | 0x0004 |   Address of Index   |               Absolute (i.e. not an RVA) address of the TLS Index variable.                |
-| 0x000C | 0x0004 | Address of Callbacks |  Absolute (i.e. not an RVA) address of the null-terminated TLS callback functions table.   |
-| 0x0010 | 0x0004 |  Size of Zero Fill   |      The number of bytes following the raw data that should be set to zero in memory.      |
-| 0x0014 | 0x0004 |   Characteristics    |                                    Describes alignment.                                    |
+| Offset | Size | Name | Description |
+--------|--------|--------|------------|
+| 0x0000 | 0x0004 | Raw Data Start | Absolute (i.e. not an RVA) address of start of the TLS variable data in the program image. |
+| 0x0004 | 0x0004 | Raw Data End | Absolute (i.e. not an RVA) address of end of the TLS variable data in the program image. |
+| 0x0008 | 0x0004 | Address of Index | Absolute (i.e. not an RVA) address of the TLS Index variable. |
+| 0x000C | 0x0004 | Address of Callbacks | Absolute (i.e. not an RVA) address of the null-terminated TLS callback functions table. |
+| 0x0010 | 0x0004 | Size of Zero Fill | The number of bytes following the raw data that should be set to zero in memory. |
+| 0x0014 | 0x0004 | Characteristics | Describes alignment. |
 
 ### Certificate
 
@@ -60,21 +60,21 @@ The TLS Table consists of all the information needed by the XBE to properly set 
  
 ### Allowed media types
 Media types which are allowed by the executable to be run from. The following values are known:
-|     Media type      |   Value    |
+| Media type | Value |
 ---------------------|------------|
-|      HARD_DISK      | 0x00000001 |
-|       DVD_X2        | 0x00000002 |
-|       DVD_CD        | 0x00000004 |
-|         CD          | 0x00000008 |
-|      DVD_5_RO       | 0x00000010 |
-|      DVD_9_RO       | 0x00000020 |
-|      DVD_5_RW       | 0x00000040 |
-|      DVD_9_RW       | 0x00000080 |
-|       DONGLE        | 0x00000100 |
-|     MEDIA_BOARD     | 0x00000200 |
+| HARD_DISK | 0x00000001 |
+| DVD_X2 | 0x00000002 |
+| DVD_CD | 0x00000004 |
+| CD | 0x00000008 |
+| DVD_5_RO | 0x00000010 |
+| DVD_9_RO | 0x00000020 |
+| DVD_5_RW | 0x00000040 |
+| DVD_9_RW | 0x00000080 |
+| DONGLE | 0x00000100 |
+| MEDIA_BOARD | 0x00000200 |
 | NONSECURE_HARD_DISK | 0x40000000 |
-|   NONSECURE_MODE    | 0x80000000 |
-|     MEDIA_MASK      | 0x00FFFFFF |
+| NONSECURE_MODE | 0x80000000 |
+| MEDIA_MASK | 0x00FFFFFF |
 
 ### Sections
 The sections are expressed by the section headers. The section headers start right after the certificate and contain information where in the file the actual sections exists. At least two sections are always present in an Xbox executable: 
