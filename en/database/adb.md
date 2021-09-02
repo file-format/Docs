@@ -23,7 +23,7 @@ A file with .adb extension is a database file created with [Alpha Five](https://
 
 ## ADB File Format - More Information
 
-The internal file format information of .adb files are not available for developer's reference. 
+The internal file format information of .adb files is not available for developer's reference. 
 
 ## References
 
