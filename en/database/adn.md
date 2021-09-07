@@ -19,7 +19,7 @@
 
 ## What is an ADN file?
 
-A file with .adn extension is a Microsoft Access blank template file that is utilized for creating Access project files with pre-stored settings. Microsoft Access project files are saved as ADP files and contains information such as Database Connection and project startup settings. ADN files exist for 2007 and 2010 versions of Microsoft Access. Microsoft Access supports other file formats such as MDB, ACCDB, ACCDC, ACCDE, and many more in addition to this ADN files. ADN files can be opened using Office 365 and Microsoft Access.
+A file with .adn extension is a Microsoft Access blank template file that is utilized for creating Access project files with pre-stored settings. Microsoft Access project files are saved as ADP files and contains information such as Database Connection and project startup settings. ADN files exist for 2007 and 2010 versions of Microsoft Access. Microsoft Access supports other file formats such as [MDB](/database/mdb/), [ACCDB](/database/accdb/), [ACCDC](/database/accdc/), [ACCDE](/database/accde/), and many more in addition to this ADN files. ADN files can be opened using Office 365 and Microsoft Access.
 
 ## ADN File Format - More Information
 
