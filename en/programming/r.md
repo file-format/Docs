@@ -21,7 +21,7 @@
 
 A file with extension .r belongs to the programming language R. This language is specified for statistical computing and is popular among the community of statisticians. Data analysis and development of statistical software are two main categories performed by this language in the field of data mining. Another advantage of using this language and software is that it provides the facility of static graphs which are helpful in the production of quality graphs. Some additional packages are used for the dynamic and interactive graphics.
 
-The software of this language contains a General Public License so its availability is free. The code of R is usually written in high-level languages such as [C](/programming/c/) and R itself also. The software involves a command-line interface along with the availability of third-party interfaces such as graphical user interfaces of RStudio and Jupyter (notebook interface). There are statistical techniques used in the implementation of libraries of R . It also includes modeling like linear and nonlinear.
+The software of this language contains a General Public License so its availability is free. The code of R is usually written in high-level languages such as [C](/programming/c/) and R itself also. The software involves a command-line interface along with the availability of third-party interfaces such as graphical user interfaces of RStudio and Jupyter (notebook interface). There are statistical techniques used in the implementation of libraries of R. It also includes modeling like linear and nonlinear.
 
 
 ## Brief History ##

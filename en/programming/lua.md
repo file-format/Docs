@@ -186,6 +186,6 @@ print(vec.y)
 
 ## Reference ##
 
-* [PDE - by Wikipedia](https://en.wikipedia.org/wiki/Processing_(programming_language))
+* [LUA - by Wikipedia](https://en.wikipedia.org/wiki/Lua_(programming_language))
 
 
