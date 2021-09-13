@@ -6,9 +6,9 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Learn about RTF file format and APIs that can create and open RTF files.",
-  "title" : "RTF - Revit Family File",
-  "linktitle" : "RTF",
+  "description" : "Learn about RFT file format and APIs that can create and open RFT files.",
+  "title" : "RFT - Revit Family File",
+  "linktitle" : "RFT",
   "menu" : {
     "docs" : {
       "parent" : "cad"
@@ -17,11 +17,11 @@
   "lastmod" : "2021-09-10"
 }
 
-## What is an RTF file?
-RTF file is a Data file that can be loaded into a Revit project (a project created with Revit). The Revit is a building information modeling program; contains one or multiple 3D models that can be imported into any 3D scene; created and saved using the Revit Family Editor.Models included in RTF are not backwards-compatible. It means that a model created or modified using the current release of the software cannot be opened in using a previous release.
+## What is an RFT file?
+RFT file is a Data file that can be loaded into a Revit project (a project created with Revit). The Revit is a building information modeling program; contains one or multiple 3D models that can be imported into any 3D scene; created and saved using the Revit Family Editor.Models included in RFT are not backwards-compatible. It means that a model created or modified using the current release of the software cannot be opened in using a previous release.
 
 
-## RTF File Format
+## RFT File Format
 Every element that you add to Revit projects are composed with families. For example, the roofs, structural members, windows, walls, and doors that you use to assemble a building model, as well as the fixtures, callouts, tags, and detail components that you use to document it, are created with families. Use the Revit Family Editor to modify existing models or create new ones to meet the typical needs of a project.
 
 
