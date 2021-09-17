@@ -1,14 +1,14 @@
 {
   "date" : "2021-09-16", 
-  "keywords" : [ "htmla", "file", "extension", "file format", "htmla implementation", "Programming Guide", "htmla example", "HTML Application", "Hypertext Markup Language Application", "HTA files", "Microsoft HTML Application"],
+  "keywords" : [ "hta", "file", "extension", "file format", "hta implementation", "Programming Guide", "hta example", "HTML Application", "Hypertext Markup Language Application", "HTA files", "Microsoft HTML Application"],
   "author" : {
     "display_name" : "Sami Cheema"
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "HTMLA - eRuby Language File",
-  "description":"Learn about HTMLA file format and APIs that can create and open HTMLA files.",
-  "linktitle" : "HTMLA",
+  "title" : "HTA - HTML Application Files",
+  "description":"Learn about HTA file format and APIs that can create and open HTA files.",
+  "linktitle" : "HTA",
   "menu" : {
     "docs" : {
       "parent" : "programming"
@@ -17,11 +17,11 @@
   "lastmod" : "2021-09-16"
 }
 
-## What is an HTMLA file?
+## What is an HTA file?
 
 The HTMLA stands for **Hypertext Markup Language Application** is a program that is compatible with Microsoft Windows. The source code of this program includes more than one scripting language such as [HTML](/web/html/) and [JavaScript](/web/js/). For the user interface, an HTML Application is preferred while to fulfill the requirement of program logic any other scripting language is used.
 
-An HTML Application is independent of the security model of the internet browser and runs as a fully trusted application. The extension used for files regarding these applications is .hta. These applications include features of HTML along with the properties of other scripting languages.
+An HTML Application is independent of the security model of the internet browser and runs as a fully trusted application. The extension used for files regarding these applications is HTA. These applications include features of HTML along with the properties of other scripting languages.
 
 
 ## Brief History ##
@@ -36,7 +36,7 @@ HTAs have the same format as any other HTML page comprises of, while some attrib
 The tags are used for the sake of customization of the appearance of these applications. The conversion from Microsoft HTML application to HTA format is easier i.e you only need to change the extension. As we know that these applications are fully trusted so these comprise more features and advantages as compared to simple HTML files. Text editors can be used to create HTA. These editors can be acquired by Microsoft or any other trusted source.
 
 
-## HTMLA File Format Example ##
+## HTA File Format Example ##
 
 ```
 <HTML>
@@ -55,6 +55,6 @@ The tags are used for the sake of customization of the appearance of these appli
 
 ## Reference ##
 
-* [HTMLA - by Wikipedia](https://en.wikipedia.org/wiki/HTML_Application)
+* [HTA - by Wikipedia](https://en.wikipedia.org/wiki/HTML_Application)
 
 
