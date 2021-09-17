@@ -17,7 +17,7 @@
   "lastmod" : "2021-09-06"
 }
 
-## What is an BTR file?
+## What is a BTR file?
 
 A file with .btr extension is a database file created by [Btrieve](https://www.actian.com/) transactional database application. Unlike relational database management systems (RBMS),  Btrieve is based on Indexed Sequential Access Method (ISAM), which is a way of storing data for fast retrieval. The BTR file stores a collection of records and is used to generate reports as per requirements. BTR files can be opened using Pervasive Btrieve Database Manager, Pervasive PSQL Maintenance Utility, and Legend Software BTRIEVE Viewer.
 
