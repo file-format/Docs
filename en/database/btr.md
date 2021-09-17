@@ -38,5 +38,5 @@ Retrieving data from a BTR file is dependent on the associated DDF file with it.
 
 ## References
 
-* [Betrieve - Wikipedia](https://en.wikipedia.org/wiki/Btrieve)
+* [Btrieve - Wikipedia](https://en.wikipedia.org/wiki/Btrieve)
 * [Introduction to Btreive APIs](https://docs.actian.com/psql/PSQLv13/index.html#page/btrieveapi%2Fbtrintro.htm)
