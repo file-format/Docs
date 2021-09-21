@@ -11,6 +11,7 @@
   "linktitle" : "ADF",
   "menu" : {
     "docs" : {
+      "identifier": "database-adf",
       "parent" : "database"
     }
   },
