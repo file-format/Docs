@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description" : "Learn about RFT file format and APIs that can create and open RFT files.",
-  "title" : "RFT - Revit Family File",
+  "title" : "RFT - Revit Family Template File",
   "linktitle" : "RFT",
   "menu" : {
     "docs" : {
@@ -18,13 +18,13 @@
 }
 
 ## What is an RFT file?
-RFT file is a Data file that can be loaded into a Revit project (a project created with Revit). The Revit is a building information modeling program; contains one or multiple 3D models that can be imported into any 3D scene; created and saved using the Revit Family Editor.Models included in RFT are not backwards-compatible. It means that a model created or modified using the current release of the software cannot be opened in using a previous release.
+RFT file is a typical file which is combined with another file format called RVT to form a Revit project. Revit software is referred to as a Building Infrastructure Modeling (BIM) program that integrates 3D objects in projects created by users with this application. Since the RFT is a template file, it may contain several 3D models, layouts and designs for the users to choose when they start a new Revit project. RFT files usually can't be modified. However, you can save a Revit project as RFT to create your own customized template.
 
 
 ## RFT File Format
-Every element that you add to Revit projects are composed with families. For example, the roofs, structural members, windows, walls, and doors that you use to assemble a building model, as well as the fixtures, callouts, tags, and detail components that you use to document it, are created with families. Use the Revit Family Editor to modify existing models or create new ones to meet the typical needs of a project.
+RFT files are family template files that can either be loaded (along with RFA files) into a project or saved externally while standard Revit family files are saved with .rfa extension. The RFT or family template files store data comprised of 3D images and other graphical elements; used to start a new family from scratch and family files are particularly used to exchange families between projects.
 
 
 ## References
 
- * [Revit Sample Family Files](https://knowledge.autodesk.com/support/revit/getting-started/caas/CloudHelp/cloudhelp/2021/ENU/Revit-GetStarted/files/GUID-73E0E508-B9DA-4405-BAB4-C46D803BC1DE-htm.html)
+ * [Revit file types](https://knowledge.autodesk.com/support/revit/learn-explore/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
