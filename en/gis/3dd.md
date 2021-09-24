@@ -10,7 +10,6 @@
   "linktitle" : "3DD",
   "menu" : {
     "docs" : {
-      "identifier": "gis-3d",
       "parent" : "gis"
     }
   },
