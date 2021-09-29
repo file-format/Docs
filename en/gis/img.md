@@ -10,6 +10,7 @@
   "linktitle" : "IMG",
   "menu" : {
     "docs" : {
+      "identifier":"gis-img",
       "parent" : "gis"
     }
   },
