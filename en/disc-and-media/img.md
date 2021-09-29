@@ -11,6 +11,7 @@
   "linktitle" : "IMG",
   "menu" : {
     "docs" : {
+      "identifier":"disc-and-media-img",
       "parent" : "disc-and-media"
     }
   },
