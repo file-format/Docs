@@ -18,7 +18,7 @@
 
 ## What is a P7C file?
 
-A P7C file, like other security certificate files, is a digital certificate that is used to authenticate identity over the network. Applications using certificates authenticate identity using the public key included in these certificate files. Public-key cryptography, or asymmetric cryptography, uses pair of keys of which one is the public key and the other is known as private key. The private key is kept secure for effective security, while the public key can be shared with others. Other common certificate file formats include [crt](/web/crt/), DER, PEM, PKCS \#7,and PEM.
+A P7C file, like other security certificate files, is a digital certificate that is used to authenticate identity over the network. Applications using certificates authenticate identity using the public key included in these certificate files. Public-key cryptography, or asymmetric cryptography, uses pair of keys of which one is the public key and the other is known as private key. The private key is kept secure for effective security, while the public key can be shared with others. Other common certificate file formats include [CRT](/web/crt/), DER, and PEM.
 
 ## P7C File Format - More Information
 
