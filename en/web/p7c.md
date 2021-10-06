@@ -7,7 +7,7 @@
   "toc" : true,
   "title" : "P7C - PKCS \#7 Certificate File",
   "description":"Learn about P7C file format and APIs that can create and open P7C files.",
-  "linktitle" : "CRT",
+  "linktitle" : "P7C",
   "menu" : {
     "docs" : {
       "parent" : "web"
