@@ -11,6 +11,7 @@
   "linktitle" : "PSS",
   "menu" : {
     "docs" : {
+      "identifier":"cad-pss",
       "parent" : "cad"
     }
   },
