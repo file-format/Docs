@@ -19,7 +19,7 @@
 
 ## What is a W3N file?
 
-A file with .w3n extension is a campaign maps file used by [Warcraft III: The Frozen Throne](Warcraft III: The Frozen Throne) game which is an extension of the Warcraft III, an all time famous video game. The W3N file contains campaign maps that is used to create custom campaigns using the series of missions data available in it. The format is oftenly misunderstood as map files and users don't get an idea why their W3N files are not getting loaded in Frozen Throne. W3N files can be opened with Blizzard Warcraft 3: The Frozen Throne.
+A file with .w3n extension is a campaign maps file used by [Warcraft III: The Frozen Throne](https://en.wikipedia.org/wiki/Warcraft_III:_The_Frozen_Throne) game which is an extension of the Warcraft III, an all time famous video game. The W3N file contains campaign maps that is used to create custom campaigns using the series of missions data available in it. The format is oftenly misunderstood as map files and users don't get an idea why their W3N files are not getting loaded in Frozen Throne. W3N files can be opened with Blizzard Warcraft 3: The Frozen Throne.
 
 ## W3N File Format - More Information
 
