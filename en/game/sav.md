@@ -11,6 +11,7 @@
   "linktitle" : "SAV",
   "menu" : {
     "docs" : {
+      "identifier":"game-sav",
       "parent" : "game"
     }
   },
