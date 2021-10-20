@@ -17,7 +17,7 @@
   "lastmod" : "2021-09-08"
 }
 
-## What is a MGX file?
+## What is an MGX file?
 
 A file with .mgx extension is a recorded file for Age of Empires II: The Conquerors game that can be replayed within the Age of Empires II program. It contains complete recording of the campaign played by the user. It can be loaded and played back within in the Age of Empires II program. Once replayed, the game shows all the events and scenarios that the user planned for the campaign and played.
 
