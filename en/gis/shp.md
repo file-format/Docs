@@ -21,7 +21,7 @@
 
 SHP is the file extension for one of the primary file types used for representation of ESRI Shapefile. It represents Geospatial information in the form of vector data to be used by Geographic Information Systems (GIS) applications. The format has been developed as open specifications in order to facilitate interoperability between ESRI and other software products.
 
-## Data Representation ##
+## Data Representation
 
 As mentioned, a shapefile format describes geospatial information of a data set as vector features. These vector features include:
 
@@ -31,7 +31,7 @@ As mentioned, a shapefile format describes geospatial information of a data set 
 
 These features in combination can represent almost any type of shapes like water wells, country boundaries, spatial points, rivers flow, lakes, etc. Each vector feature can have attributes that actually define the purpose of that feature. For example, a shapefile containing cities of Los Angeles can have city name and temperature as attributes which gives meaningful representation to the spatial data.
 
-## Associated Files ##
+## Associated Files
 
 A standalone shp file can not be used by software applications to make meaning of the data it contains. In order to make sense of the information contained in such a file, a shapefile makes use of following additional mandatory files.
 
@@ -41,11 +41,11 @@ A standalone shp file can not be used by software applications to make meaning o
 
 There can be other optional files as well that share the same name as the main file.
 
-## File Format Specifications ##
+## SHP File Format Specifications
 
 Open specifications of shapefile are available online from ESRI in the form of [Technical Description](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) and elaborates the overall structure of the file in detail. Information in main .shp file consists of headers and records. The fixed-length file header is followed by variable-length records where every record is made up of a fixed-length record header followed by variable-length record contents.
 
-### Main File Header ###
+### Main SHP File Header
 
 The main File Header starts from the beginning of the file and is 100 bytes in length.  Organization of this main file header along with byte position, value, type and byte order is as shown in the following table.
 
@@ -63,7 +63,7 @@ The main File Header starts from the beginning of the file and is 100 bytes in l
 
 It is to be noted that the value of file length is the total length of the file in 16-bit words which also includes the fifty 16-bit words making up the header.
 
-#### Shape Types ####
+#### Shape Types
 
 The values of shape types field in above table are as follow:
 
