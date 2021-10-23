@@ -25,7 +25,7 @@ XLSB file format specifies the Excel Binary File Format, which is a collection o
 
 The file format specifications for XLSB file format were made public back in 2008 as version 1.0. Since then, the specifications have revised several times and the latest version of specifications (v 10.0) was published in April 2018. The specifications are available publicly by Microsoft as [[MS-XLSB] - Excel Binary File Format specifications](https://msdn.microsoft.com/en-us/library/cc313133(v#office.12).aspx) and should be consulted by anyone for reading or writing files in XLSB file format.
 
-## File Structure ##
+## XLSB File Structure ##
 
 An XLSB file is a package that consists of a collection of parts. These parts contain information about the contents of a workbook, including workbook data and the structure of the package. Some parts contain information stored using binary records, some as XML, while others contain information stored as a binary stream of bytes. Each binary record contains zero or more structured fields that contain the workbook data.
 
@@ -67,7 +67,7 @@ A record is the basic building block used to store information about features in
 
 **Record Data:** The record data component contains fields that correspond to a particular record type and comprise the remainder of the record. The order and structure of the fields for a given record type listed in Record Enumeration are specified in the corresponding section for that record type in Records. The total size of the record data component MUST be equal to the record size. Fields in the record data component can contain simple values, arrays of values, structures of several fields, arrays of fields, and arrays of structures.
 
-#### Record Example ####
+#### XLSB Record Example ####
 
 The following record type and record size specify a **BrtCommentText** record with a size of 200 bytes:
 
