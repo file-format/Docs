@@ -17,14 +17,13 @@
   "lastmod" : "2021-03-16"
 }
 
-## What is an EAL file? ##
+## What is an EAL File? ##
 
 The **Kindle End Action** files are usually found with .EAL extension. These file consists of an xml which is written to show something about the author after the last page of the eBook. 
 
-## EAL file format ##
+## EAL File Format ##
 
 The .EAL file is an xml file that consists of the data for the customers who bought the book and also bought a feature to show something more about the e-book author after the last page of the book; ASIN is also included to jump to the title's Kindle Store page.
-
 
 ## References ##
 
