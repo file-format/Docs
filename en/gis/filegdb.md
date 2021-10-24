@@ -21,6 +21,8 @@
 
 ESRI file Geodatabase (FileGDB) is a collection of files in a folder on disc that hold related geospatial data such as feature datasets, feature classes and associated tables. It requires certain other files to be kept alongside the .gdb file in the same directory for it to work. Queries can be executed on the .gdb file to manage spatial as well as non-spatial data.
 
+## FileGDB Format
+
 File geodatabases are made up of seven system tables plus user data. User data can be stored in the following types of datasets:
 
 * Feature class
