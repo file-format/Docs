@@ -22,9 +22,9 @@ A file with .dlg extension contains the Digital Line Graph which is a cartograph
 1. **Optional format**: A simple-to-use format that incorporates an 80-byte logical record length, the UTM ground coordinate system, and topology linkages contained in line, node and area elements.
 2. **Spatial Data Transfer Standard (SDTS) format**: a format that facilitates transferring of spatial data between different computer systems.
 
-## DLG file format
+## DLG File Format
 DLG file format is designed for USGS maps and are transmitted in large, intermediate and small scale with up to nine different categories of features. The DLG files come in optional and Spatial Data Transfer Standard (SDTS) formats having topologically structured for use in mapping and GIS applications.
-### Specification
+### Specifications of DLG File Format
 The DLG files are distributed at three different scales: 
 
 1. **Large scale** - normally correspond to:
