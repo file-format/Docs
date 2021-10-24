@@ -21,7 +21,7 @@
 
 The AVA files are actually belonging to a Persian eBook reading software known as AvaaPlayer. It seems a discontinued software; as we don't have any copy or information available on the internet. Adobe Systems Incorporated the .ava file extension in their eBook reading software, but later on, they stopped providing service to Iranians. The data analysis shows that the AvaaPlayer users mostly use Windows operating system, and they mostly opened the software in the Google Chrome browser.
 
-## Possible problems while opening the file
+## Possible Problems while Opening AVA File
 
 If you are not being able to open and run the AVA file; it doesn't mean that you do not have a suitable software installed on your device. There might be some other issues which prevent the file to work properly. The possible problems might be one of the following:
 
