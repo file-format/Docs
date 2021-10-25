@@ -96,4 +96,4 @@ The file footer is 8 bytes in size and contains following information.
 ## References ##
 
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952: GZIP file format specification](http://tools.ietf.org/html/rfc1952), by [IETF](https://forensicswiki.org/index.php?title#IETF&action#edit&redlink#1)
+* [RFC1952: GZIP file format specification](http://tools.ietf.org/html/rfc1952), by IETF.
