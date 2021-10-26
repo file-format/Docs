@@ -44,4 +44,4 @@ The PDF/E standard has following benefits;
 ## References ##
 
 * [PDF/E - By Wikipedia](https://en.wikipedia.org/wiki/PDF/E)
-* [ISO 24517](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber#42274)
+* [ISO 24517](https://www.iso.org/standard/42274.html)
