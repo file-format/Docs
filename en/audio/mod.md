@@ -18,7 +18,7 @@
 }
 
 ## What is an MOD file?
-A file with .mod extension is a music module file created by using the standard music module format, which is based on the **Amiga module format** developed by Karsten Obarski and released with the **Ultimate Soundtracker** software for the Commodore Amiga system. Similar to a [MIDI](/audio/midi) file, it consists of note patterns and sound samples, representing different instruments that are played back according to the notes. MOD files are particularly used in video games as background music and in the **demoscene** computer art subculture.
+A file with .mod extension is a music module file created by using the standard music module format, which is based on the **Amiga module format** developed by Karsten Obarski and released with the **Ultimate Soundtracker** software for the Commodore Amiga system. Similar to a [MIDI](/audio/mid/) file, it consists of note patterns and sound samples, representing different instruments that are played back according to the notes. MOD files are particularly used in video games as background music and in the **demoscene** computer art subculture.
 ## MOD file format
 The MOD is a computer file format used its basic function is to represent music, and it was the first module file format. MOD files use the .mod file extension, except on the **Amiga** which reads a file's header to determine filetype, so it doesn't rely on filename extensions. A MOD file consists of a set of various instruments in the form of samples, a number of patterns specifying how and when the samples are to be played, and a list of what patterns to play in what order.
 ### Specification
