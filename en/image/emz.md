@@ -23,7 +23,7 @@ A file with .emz extension is a compressed container of Enhanced Metafile ([EML]
 
 ## EMZ File Format
 
-EMZ files are [Gzip](/compression/gz/) compressed and contains [EMF](/image/EMF/) inside. Gzip uses the DEFLATE algorithm for compression of the archive and is different in applying compression. An EMZ file can be decompressed by using GZip compression utilities such as GNU Zip. The file format consists of:
+EMZ files are [Gzip](/compression/gz/) compressed and contains [EMF](/image/emf/) inside. Gzip uses the DEFLATE algorithm for compression of the archive and is different in applying compression. An EMZ file can be decompressed by using GZip compression utilities such as GNU Zip. The file format consists of:
 
  * File Header
  * Optional Headers
