@@ -19,7 +19,7 @@
 
 ## What is a LIT file?
 
-The LIT files belong to the ancient **Microsoft Reader** which was used to read e-books. The eBooks which are displayed by Microsoft Reader have the extension **.lit** which is shortened to **Literature**. The LIT file format consists of a Microsoft ITOL/ITLS HTML Help 2.0 file, which gives all sorts of amazing features like [LZX](/ebook/lzx/) compression, the binary representation of markup material, and arbitrary optional auxiliary data associated with each stream. Book text is an arbitrary number of OEBPS 1.0 markup streams and a subset of OEBPS 1.0 CSS. Images are [GIF](/image/gif/), [JPEG](/image/jpeg/), and [PNG](/image/png/).  
+The LIT files belong to the ancient **Microsoft Reader** which was used to read e-books. The eBooks which are displayed by Microsoft Reader have the extension **.lit** which is shortened to **Literature**. The LIT file format consists of a Microsoft ITOL/ITLS HTML Help 2.0 file, which gives all sorts of amazing features like [LZX](/compression/lzx/) compression, the binary representation of markup material, and arbitrary optional auxiliary data associated with each stream. Book text is an arbitrary number of OEBPS 1.0 markup streams and a subset of OEBPS 1.0 CSS. Images are [GIF](/image/gif/), [JPEG](/image/jpeg/), and [PNG](/image/png/).  
 
 ## How much time Microsoft Reader displayed the LIT files
 
