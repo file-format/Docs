@@ -51,5 +51,5 @@ xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
 ## References
 
 * [XUL - By Wikipedia](https://en.wikipedia.org/wiki/XUL)
-* [XUL Archived Documentation - By Mozilla](https://developer.mozilla.org/en-US/docs/Archive/Mozilla/XUL)
+* [XUL Archived Documentation - By Mozilla](https://wiki.mozilla.org/XUL:Home_Page)
 * [XUL Planet](https://www.xulplanet.com/tutorials/xultu/)
