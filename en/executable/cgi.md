@@ -20,10 +20,10 @@
 ## What is a CGI file?
 A CGI file is known as a Common Gateway Interface script that is used by a web server to run an external program to process user requests. The script which saved in a file with .cgi extension is typically written in C or Perl programming languages. The had been introduced since the early days of the Web, when Web developers wanted to connect databases to their Web servers. A server which supported a common gateway between Web server and databases was well suited to execute the CGI code.
 
-## CGI file format
-The CGI scripts are used by the Web server to facilitate the owner to configure how a URL will be handled. The procedure is usually done by marking a new directory (where the documents are mainly located) as containing CGI scripts; its commonly known name is cgi-bin. For example, /usr/local/apache/htdocs/cgi-bin could be picked as a CGI directory on the Web server. When a Web browser requests a URL that points to a file within the CGI directory (e.g., http://example.com/cgi-bin/printenv.pl/with/additional/path?and=a&query=string), then, instead of simply sending that file (/usr/local/apache/htdocs/cgi-bin/printenv.pl) to the Web browser, the HTTP server executes the specified script and return the output of the script to the Web browser. In short, anything that the CGI script is sent to standard output is transferred to the Web client instead of being shown in a terminal of window.
+## CGI File Format
+The CGI scripts are used by the Web server to facilitate the owner to configure how a URL will be handled. The procedure is usually done by marking a new directory (where the documents are mainly located) as containing CGI scripts; its commonly known name is cgi-bin. For example, /usr/local/apache/htdocs/cgi-bin could be picked as a CGI directory on the Web server. When a Web browser requests a URL that points to a file within the CGI directory, then, instead of simply sending that file (/usr/local/apache/htdocs/cgi-bin/printenv.pl) to the Web browser, the HTTP server executes the specified script and return the output of the script to the Web browser. In short, anything that the CGI script is sent to standard output is transferred to the Web client instead of being shown in a terminal of window.
 
-### CGI example
+### CGI Example
 
 Following CGI script written in Perl which shows all the environment variables passed by the Web server:
 ```
