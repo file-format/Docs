@@ -19,7 +19,7 @@
 
 ## What is a ICO file?
 
-Files with ICO extension are image file types used as icon for representation of an application on [Microsoft Windows](https://docs.microsoft.com/en-us/previous-versions/ms997636(v#msdn.10)). These come in different size, colour support and resolution to suit the requirements of the display. Another similar image file format on Microsoft Windows is [CUR](/image/cur/) for cursor representation and defines a hotspot in the image header. On MacOS, ICNS file formats serve the same purpose as ICO files. Several online websites as well as applications provide the feature of creating such files and convert other image formats such as [BMP](/image/bmp/), [PNG](/image/png/), etc. to icon file format. The official IANA registered Internet media type for ICO files is image/vnd.microsoft.icon.
+Files with ICO extension are image file types used as icon for representation of an application on [Microsoft Windows](https://www.microsoft.com/en-us/windows). These come in different size, colour support and resolution to suit the requirements of the display. Another similar image file format on Microsoft Windows is [CUR](/image/cur/) for cursor representation and defines a hotspot in the image header. On MacOS, ICNS file formats serve the same purpose as ICO files. Several online websites as well as applications provide the feature of creating such files and convert other image formats such as [BMP](/image/bmp/), [PNG](/image/png/), etc. to icon file format. The official IANA registered Internet media type for ICO files is image/vnd.microsoft.icon.
 
 ## Brief History ##
 
