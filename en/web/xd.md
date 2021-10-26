@@ -31,4 +31,4 @@ XD files contain graphic elements (image,s shapes, and text) in layers as one or
 
 ## References
 
-* [ADobe XD User Guide](https://helpx.adobe.com/xd/user-guide.html/xd/help/welcome.ug.html)
+* [Adobe XD User Guide](https://helpx.adobe.com/xd/user-guide.html)
