@@ -39,4 +39,4 @@ PDF/VT is conferred upon the following three conformance levels. These are all b
 ## References ##
 
 * [PDF/VT - By Wikipedia](https://en.wikipedia.org/wiki/PDF/VT)
-* [ISO 16612-2 Graphic Technology](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber#46428)
+* [ISO 16612-2 Graphic Technology](https://www.iso.org/standard/46428.html)
