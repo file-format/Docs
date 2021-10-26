@@ -19,7 +19,7 @@
 
 ## What is a CBR file?
 
-A file with a .cbr extension is a collection of images stored as compressed binary files using the RAR compression file format. It contains images in [JPEG](/image/jpeg/), [PNG](/image/png/) or [GIF](/image/gif/) images that represent images in a comic and are shown to user when the file is used in ebook readers such as Calibre. CBR is similar to [CBZ](/compression/cbz/) other than that CBZ is compressed and stored in the [ZIP](/compression/zip/) file format. These files can be contained inside comic book collection files such as [CBC](/ebook/cbc/).
+A file with a .cbr extension is a collection of images stored as compressed binary files using the RAR compression file format. It contains images in [JPEG](/image/jpeg/), [PNG](/image/png/) or [GIF](/image/gif/) images that represent images in a comic and are shown to user when the file is used in ebook readers such as Calibre. CBR is similar to [CBZ](/ebook/cbz/) other than that CBZ is compressed and stored in the [ZIP](/compression/zip/) file format. These files can be contained inside comic book collection files such as [CBC](/ebook/cbc/).
 
 ## CBR File Format
 
