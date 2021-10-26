@@ -19,7 +19,7 @@
 
 ## What is an XLSMHTML file?
 
-A file with .xlsmhtml extension is an [HTML](/web/html/) version of the original XLS file that is exported from within Microsoft Excel to view the data in a browser. The format has long been discontinued by Excel and is no more supported. The exported XLSMHTML file followed the XLS file format and these could be opened and viewed in web browsers. Excel provides exporting the spreadsheet data to [MHT](web/mht/) and [MHTML](/web/mhtml/) file formats, and are widely used now.
+A file with .xlsmhtml extension is an [HTML](/web/html/) version of the original XLS file that is exported from within Microsoft Excel to view the data in a browser. The format has long been discontinued by Excel and is no more supported. The exported XLSMHTML file followed the XLS file format and these could be opened and viewed in web browsers. Excel provides exporting the spreadsheet data to [MHT](/web/mht/) and [MHTML](/web/mhtml/) file formats, and are widely used now.
 
 ## XLSMHTML File Format - More Informaiton
 
