@@ -19,7 +19,7 @@
 
 ## What is an XLTHTML file?
 
-A file with .xlthtml extension is an [HTML](/web/html/) version of [XLT](/spreadsheet/xlt/) template files and were generated using Microsoft Excel in the early days. This format is no more supported by Excel and has been replaced by exporting data to [MHT](web/mht/) and [MHTML](/web/mhtml/) file formats. The basic idea behind the XLTHTML file was to enable users to view the XLT template files in a web browser instead of the need of having Excel installed on the system. Files exported in XLTHTML file format could be opened in browsers.
+A file with .xlthtml extension is an [HTML](/web/html/) version of [XLT](/spreadsheet/xlt/) template files and were generated using Microsoft Excel in the early days. This format is no more supported by Excel and has been replaced by exporting data to [MHT](/web/mht/) and [MHTML](/web/mhtml/) file formats. The basic idea behind the XLTHTML file was to enable users to view the XLT template files in a web browser instead of the need of having Excel installed on the system. Files exported in XLTHTML file format could be opened in browsers.
 
 ## XLTHTML File Format - More Information
 
