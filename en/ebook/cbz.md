@@ -19,7 +19,7 @@
 
 ## What is a CBZ file?
 
-A file with .cbz extension is a comic book [ZIP](/compression/zip/) archive file that is a collection of images, representing the pages of a comic book. CBZ is different from other ebook files that are not compressed. Most of the ebook and comic book readers support viewing these files. [CBR](/compression/cbr/) is another comic book archive file format that uses [RAR](/compression/rar/) compression instead of ZIP. CBZ and CBR files can be contained inside comic book collection files such as [CBC](/ebook/cbc/). Applications that can open and read CBZ files include software apps such as Calibre and Comic Book Reader.
+A file with .cbz extension is a comic book [ZIP](/compression/zip/) archive file that is a collection of images, representing the pages of a comic book. CBZ is different from other ebook files that are not compressed. Most of the ebook and comic book readers support viewing these files. [CBR](/ebook/cbr/) is another comic book archive file format that uses [RAR](/compression/rar/) compression instead of ZIP. CBZ and CBR files can be contained inside comic book collection files such as [CBC](/ebook/cbc/). Applications that can open and read CBZ files include software apps such as Calibre and Comic Book Reader.
 
 ## CBZ File Format
 
