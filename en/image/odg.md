@@ -48,8 +48,8 @@ A single XML document is represented by its own root element. The five different
 `<office:document-meta>` - Document meta information, such as the author or the time of the last save action.
 `<office:document-settings>` - Application-specific settings, such as the window size or printer information.
 
-### Document MetatData ###
-The OpenDocument contains all metadata elements in the <office:meta> element. This general information about a document is contained at the start of the document and applications can update multiple instances of the same elements.
+### ODG Document MetaData ###
+The OpenDocument contains all metadata elements in the \<office:meta> element. This general information about a document is contained at the start of the document and applications can update multiple instances of the same elements.
 
 ### Body Element and Document Types ###
 The document body indicates the type of content contained in the document using the document type element. These document types are:
