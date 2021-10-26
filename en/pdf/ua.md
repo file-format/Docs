@@ -59,5 +59,4 @@ A conforming assistive technology is bound for supporting the PDF/UA features. T
 ## References ##
 
 * [PDF/UA - By Wikipedia](https://en.wikipedia.org/wiki/PDF/UA)
-* [What is a PDF/UA?](http://blogs.adobe.com/accessibility/2013/06/pdf-ua-2.html)
 * [PDF/UA in a Nutshell](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
