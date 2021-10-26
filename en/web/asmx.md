@@ -19,7 +19,7 @@
 
 ## What is an ASMX file?
 
-A file with .asmx extensions is an ASP.NET Web Service file that provides communication between two objects over the internet using the Simple Object Access Protocol (SOAP). It is deployed as a service on the Windows-based Web Server to process incoming request and return the response. Unlike [ASPX](/programming/aspx/) files which contain the code for visual display of ASP.NET webpages, ASMX files run at the server in background and perform different tasks such as connecting to database, retrieving data, and returning it in a format in which the request was made. These are used specifically for XML webs services.
+A file with .asmx extensions is an ASP.NET Web Service file that provides communication between two objects over the internet using the Simple Object Access Protocol (SOAP). It is deployed as a service on the Windows-based Web Server to process incoming request and return the response. Unlike [ASPX](/web/aspx/) files which contain the code for visual display of ASP.NET webpages, ASMX files run at the server in background and perform different tasks such as connecting to database, retrieving data, and returning it in a format in which the request was made. These are used specifically for XML webs services.
 
 ## ASMX File Format
 
