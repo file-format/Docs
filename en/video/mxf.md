@@ -72,7 +72,7 @@ MXF file format has been defined by the following SMPTE specifications.
 * SMPTE EG 42:2004. Material Exchange Format (MXF) — MXF Descriptive Metadata
 * SMPTE RDD 3:2008. e-VTR MXF Interoperability Specification
 * SMPTE RDD 9-2009. MXF Interoperability Specification of Sony MPEG Long GOP Products
-* SMPTE metadata registry spreadsheet menu (http://www.smpte-ra.org/mdd/).
+* SMPTE metadata registry spreadsheet menu.
 
 ### MXF Structural Metadata
 
