@@ -23,7 +23,7 @@ A file with .deb extension is a Debian binary package file format available for 
 
 ## DEB File Format
 
-A DEB file consists of two [TAR](/compressin/tar/) archive files. One archive holds the control information and another contains the installable data.
+A DEB file consists of two [TAR](/compression/tar/) archive files. One archive holds the control information and another contains the installable data.
 
 ### Package Organization
 
