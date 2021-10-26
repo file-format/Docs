@@ -19,7 +19,7 @@
 
 ## What is an EMZ file?
 
-A file with .emz extension is a compressed container of Enhanced Metafile ([EML](/image/emf/) file). These are compressed using the [GZIP](/compression/gz/) compression technique which is the commonly used compression method on UNIX and LINUX operating systems. Unlink ZIP (/compression/zip/), GZIP compresses the archive as a whole instead of compressing individual files. EMZ files are smaller in size as compared to the EMF files and help in fast transfer during online file sharing. Some of the applications that can open EMZ files include Microsoft Visio 2019, Microsoft Office 2019, XnView MP, and File Viewer Plus.
+A file with .emz extension is a compressed container of Enhanced Metafile ([EMF](/image/emf/) file). These are compressed using the [GZIP](/compression/gz/) compression technique which is the commonly used compression method on UNIX and LINUX operating systems. Unlink ZIP (/compression/zip/), GZIP compresses the archive as a whole instead of compressing individual files. EMZ files are smaller in size as compared to the EMF files and help in fast transfer during online file sharing. Some of the applications that can open EMZ files include Microsoft Visio 2019, Microsoft Office 2019, XnView MP, and File Viewer Plus.
 
 ## EMZ File Format
 
