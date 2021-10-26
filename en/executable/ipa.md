@@ -18,7 +18,7 @@
 }
 
 ## What is a IPA file?
-A file with .ipa extension belongs to the iOS and known as application package file. This is an archive (compressed using [Zip](/compressed/zip/) compression) file which stores an iOS application, but that application can only be installed on an iOS or ARM-based MacOS devices, such as an iPad, iPhone or iPod Touch. Mainly, iTunes, Apple Configurator 2, or any third party software can be used to install IPA files.
+A file with .ipa extension belongs to the iOS and known as application package file. This is an archive (compressed using [ZIP](/compression/zip/) compression) file which stores an iOS application, but that application can only be installed on an iOS or ARM-based MacOS devices, such as an iPad, iPhone or iPod Touch. Mainly, iTunes, Apple Configurator 2, or any third party software can be used to install IPA files.
 
 ## IPA file format
 The IOS developers who are developing the apps using the Apple Xcode are well familiar with IPA files because they need to package their developed apps as IPA files either for testing of app store deployment purposes. Although, the IPA files are known to be installed as iOS apps, however, you can also decompress them to view the app data contained. Since an IPA file contains only one binary for the ARM architecture of mobile phones and it does not contain a binary for the x86 architecture, Many .ipa files cannot be installed on the iPhone Simulator.
