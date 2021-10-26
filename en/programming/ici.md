@@ -19,7 +19,7 @@
 
 ## What is an ICI file?
 
-A general-purpose programming language that is interpreted and contains several features such as dynamic typing along with the flexible data types is known as ICI (not an acronym) programming language. It is considered to be similar to the [Perl](/programming/perl) language. This ICI language comprises flow control constructs and also contains some operators of the C language. It is not an object-oriented language but some of the features of OOP can be attained by a specific inheritance method known as superstructures. Similar to [C](/programming/c), this ICI programming language has the same system interface and a standard library for built-in functions.
+A general-purpose programming language that is interpreted and contains several features such as dynamic typing along with the flexible data types is known as ICI (not an acronym) programming language. It is considered to be similar to the [Perl](/programming/pl/) language. This ICI language comprises flow control constructs and also contains some operators of the C language. It is not an object-oriented language but some of the features of OOP can be attained by a specific inheritance method known as superstructures. Similar to [C](/programming/c), this ICI programming language has the same system interface and a standard library for built-in functions.
 
 
 ## Brief History ##
