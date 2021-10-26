@@ -18,7 +18,7 @@
 
 ## What is a DAP file?
 
-A file with .dap extension is a Microsoft Access Data Page file that is created from within Microsoft Access and has access to the data stored in the database. Data stored in such a web file is accessible over the network (intranet and internet) which is different than the Access's [MDB](/datbase/mdb/) files which are developed for desktop applications specifically. Such databases can be created using Access 2010 and Access Services (an optional component of SharePoint). These databases can be used by people having SharePoint accounts using the web address in a web browser.
+A file with .dap extension is a Microsoft Access Data Page file that is created from within Microsoft Access and has access to the data stored in the database. Data stored in such a web file is accessible over the network (intranet and internet) which is different than the Access's [MDB](/database/mdb/) files which are developed for desktop applications specifically. Such databases can be created using Access 2010 and Access Services (an optional component of SharePoint). These databases can be used by people having SharePoint accounts using the web address in a web browser.
 
 ## DAP File Format
 
