@@ -36,10 +36,10 @@ A compressed PCC file comprises of tables and data that is segmented into chunks
 
 UnCompressed PCC files are divided into following five parts.
 
- * Header - contains basic information about the structure of the PCC file.
- * Name Table - contains name found inside the package including import classes, exports, and export properties.
- * Import Table - contains all classes and objects imported by the PCC.
- * Export Table - contains all objects stored in the package. Each export can vary in size.
+ * `Header` - contains basic information about the structure of the PCC file.
+ * `Name Table` - contains name found inside the package including import classes, exports, and export properties.
+ * `Import Table` - contains all classes and objects imported by the PCC.
+ * `Export Table` - contains all objects stored in the package. Each export can vary in size.
 
 ## References
 
