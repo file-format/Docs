@@ -1,7 +1,6 @@
 {
   "date" : "2021-10-20",
-  "keywords" : [ "bmz file", "bmz file format", "what is a bmz file", "file", "bmz example", "
-Portal Bonus Map Zip File","extension", "format" ],
+  "keywords" : [ "bmz file", "bmz file format", "what is a bmz file", "file", "bmz example", "Portal Bonus Map Zip File","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
