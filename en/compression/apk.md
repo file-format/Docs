@@ -19,7 +19,7 @@
 
 ## What is an APK file?
 
-A file with .apk extension is a Google Android app file that is used to install apps (applications) on the Android devices. It is created as an executable file using the official IDE Google Android Studio, and is uploaded to Google Play store to be downloaded and installed by end users. APK files can be generated and made available for manual installation as well prior to publishing to Google Play store. However, in manual case, you need to be sure about the source of such file as to avoid any malware infecting mobile devices.
+A file with .apk extension is a Google Android app file that is used to install apps (applications) on the Android devices. It is created as an executable file using the official IDE Google Android Studio, and is uploaded to Google Play store to be downloaded and installed by end users. APK files can be generated and made available for manual installation as well prior to publishing to Google Play store. This helps in testing the functionality and behaviour of the generated APK package file. Therefore, one needs to be sure that the APK file is from a trusted source and does not contain any malware.
 
 ## APK File Format
 
@@ -27,7 +27,7 @@ APK files are packaged as compressed in [ZIP](/compression/zip/) file format tha
 
 ## APK Package Contents
 
-A single APK file contains all the necessary files that are required for its installation and execution. When such an APK file is opened in a ZIP application, the following mostly used files and folders are found.
+A single APK file contains all the necessary files that are required for its installation and execution. An APK file, when extracted with a ZIP application, contains the following files and folders.
 
  * `META-INF/`: Directory that contains the manifest file, signature, and a list of resources in the archive
  * `lib/`: Directory containing compiled code related to specific platforms such as armeabi-v7a, x86, arm64-v8a, etc.
@@ -45,7 +45,7 @@ In order to install an APK file on your Android devices, the following steps can
  2. Tap it – you should then be able to see it downloading on the top bar of your device
  3. Once it's downloaded, open Downloads, tap on the APK file, and tap Yes when prompted.
 
-The app will begin installing on your device.
+Following these steps will start installation of the app on your device.
 
 ## References
 
