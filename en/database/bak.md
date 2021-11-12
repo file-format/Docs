@@ -23,7 +23,7 @@ A file with .bak extension is usually a backup file that is used by different so
 
 ## BAK File Format
 
-The internal details of a BAK file are not known but it is widely assumed that it is based on the Microsoft Tape Format (MTF). [MTF specifications](https://library.conholdate.app/view/jwAHlkZkKqF6yeqxe/mtf-file-format-specifications.pdf) are available and can be referenced for understanding the structure of the file. The document provides details about MTF storage for anyone who has a general knowledge about storage management operations, tape drives, and file systems.
+The internal details of a BAK file are not known but it is widely assumed that it is based on the Microsoft Tape Format (MTF). [MTF specifications](https://products.conholdate.app/viewer/view/jwAHlkZkKqF6yeqxe/mtf-file-format-specifications.pdf) are available and can be referenced for understanding the structure of the file. The document provides details about MTF storage for anyone who has a general knowledge about storage management operations, tape drives, and file systems.
 
 ### Data Sets
 
@@ -56,4 +56,4 @@ A filemark is used for logical separation and quick access within a media. Filem
 
 ## References ##
 
-* [Microsoft Tape Format](https://library.conholdate.app/view/jwAHlkZkKqF6yeqxe/mtf-file-format-specifications.pdf)
+* [Microsoft Tape Format](https://products.conholdate.app/viewer/view/jwAHlkZkKqF6yeqxe/mtf-file-format-specifications.pdf)
