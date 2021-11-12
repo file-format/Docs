@@ -17,9 +17,9 @@
   "lastmod" : "2021-11-09"
 }
 
-## What is an BKS file? ##
+## What is a BKS file? ##
 
-A BKS file is a Microsoft Works backup file that stores the last working state of a spreadsheet file. This saves the last valid state of the spreadsheet to be reloaded again in case the original document gets corrupted or cannot be opened due to any reason. BKS is similar to [WPS](/word-processing/wps/) file format that contains document content similar to Microsoft Word [DOC](/word-processing/doc/) document. Microsoft Works has been discontinued and BKS files are no more supported.
+A BKS file is a [Microsoft Works](https://en.wikipedia.org/wiki/Microsoft_Works) backup file that stores the last working state of a spreadsheet file. This saves the last valid state of the spreadsheet to be reloaded again in case the original document gets corrupted or cannot be opened due to any reason. BKS is similar to [WPS](/word-processing/wps/) file format that contains document content similar to Microsoft Word [DOC](/word-processing/doc/) document. Microsoft Works has been discontinued and BKS files are no more supported.
 
 ## BKS File Format
 
