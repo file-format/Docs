@@ -27,7 +27,7 @@ XLSX file format was introduced in 2007 and uses the Open XML standard adapted b
 
 ## XLSX File Format Specifications ##
 
-In order to see what is inside the XLSX file, just rename it to [ZIP](/compression/zip/) file by changing its extension and then extract it to view the constituent files of this Excel workbook. A blank workbook, when extracted to its files, has the following constituent files and folders.
+The official [XLSX file format specifications](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) are available online from Microsoft. In order to see what is inside the XLSX file, just rename it to [ZIP](/compression/zip/) file by changing its extension and then extract it to view the constituent files of this Excel workbook. A blank workbook, when extracted to its files, has the following constituent files and folders.
 
 ### [Content_Types].xml ###
 
@@ -77,5 +77,5 @@ Have to share something about XLSX or Spreadsheet file formats? You can post you
 
 ## References
 
-* [[MS-XLSX] - .Xlsx File Format](https://msdn.microsoft.com/en-us/library/dd922181(v#office.12).aspx)
+* [[MS-XLSX] - .Xlsx File Format](https://products.conholdate.app/viewer/view/1VZC8xPx2ZuGLz2wP/ms-xlsx-excel-extensions-to-the-office-open-xml-spreadsheetml-file-format.pdf)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
