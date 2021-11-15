@@ -27,7 +27,7 @@ PPTX file format was introduced in 2007 and uses the Open XML standard adapted b
 
 ## PPTX File Format Specifications
 
-Files generated with office Open XML file format is a collection of XML files along with other files that provide links between all the constituent files. This collection is actually a compressed archive that can be extracted to view its contents. To do so, just rename the PPTX file extension with zip and extract it for observing its contents (See [PPTX file format specifications](https://products.conholdate.app/viewer/view/2d4sKVZVGrfN3w0Lg/ms-pptx-powerpoint-pptx-extensions-to-the-office-open-xml-file-format.pdf?preview=true.pdf) by Microsoft).
+Files generated with office Open XML file format is a collection of XML files along with other files that provide links between all the constituent files. This collection is actually a compressed archive that can be extracted to view its contents. To do so, just rename the PPTX file extension with zip and extract it for observing its contents (See [PPTX file format specifications](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f) by Microsoft).
 
 Following sections shed some light on each one of these.
 
@@ -73,7 +73,6 @@ For an implicit relationship, there is no such direct reference to a `<Relation
 
 ### ppt Folder ###
 
-
 This is the main folder that contains all the details about the contents of the Presentation. By default, it has following folders:
 
 * \_rels
@@ -91,5 +90,5 @@ and following xml files:
 
 ## References ##
 
-* [[MS-PPTX] - PPTX File Format](https://msdn.microsoft.com/en-us/library/dd926741(v#office.12).aspx)
+* [[MS-PPTX] - PPTX File Format](https://products.conholdate.app/viewer/view/2d4sKVZVGrfN3w0Lg/ms-pptx-powerpoint-pptx-extensions-to-the-office-open-xml-file-format.pdf)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
