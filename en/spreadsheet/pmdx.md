@@ -19,7 +19,7 @@
 
 ## What is a PMDX file?
 
-A PMDX file is a spreadsheet document created with the latest version of [PlanMaker](https://www.softmaker.de/softmaker-office-planmaker), a software that comes as part of SoftMaker Office. It replaced the earlier version of PlanMaker PMD file. PMDX file stores data in cells in the form of rows and columns. Each cell can contain string, numbers, formulas, or other formatted data. PMDX files replaced the older version [PMD](/spreadsheet/pmd/) files with the upgrade of PlanMaker. XLSX is the standard file format supported by PlanMaker and doesn't need any conversion while opening these files with Microsoft Excel. PlanMaker also supports working with [XLS](/spreadsheet/xls/) files and convert these to other formats such as [PDF](/pdf/).
+A PMDX file is a spreadsheet document created with the latest version of [PlanMaker](https://www.softmaker.de/softmaker-office-planmaker), a software that comes as part of SoftMaker Office. It stores data in cells in the form of rows and columns. Each cell can contain string, numbers, formulas, or other formatted data. PMDX files replaced the older version [PMD](/spreadsheet/pmd/) files with the upgrade of PlanMaker. XLSX is the standard file format supported by PlanMaker and doesn't need any conversion while opening these files with Microsoft Excel. PlanMaker also supports working with [XLS](/spreadsheet/xls/) files and convert these to other formats such as [PDF](/pdf/).
 
 ## PMDX File Format
 
