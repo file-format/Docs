@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description" : "Your file format guide to know what is an XLS file and APIs that can create and open them.",
-  "title" : "What is XLS file format? Learn from File Format Experts!",
+  "title" : "XL - Microsoft Excel Spreadsheet File Format",
   "linktitle" : "XL",
   "menu" : {
     "docs" : {
@@ -23,7 +23,7 @@ A file with .xl extension is an Excel Spreadsheet file, similar to [XLS](/spread
 
 ## XL File Format
 
-XL files are saved as binary files and their internal file format specifications are not documented anywhere. However, the general binary file format for [XLS File Formation Specifications](https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx) file format may also be considered if someone tries to write a piece of code to reverse engineer these files.
+XL files are saved as binary files and their internal file format specifications are not documented anywhere. However, the general binary file format for [XLS File Format Specifications](https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx) file format may also be considered if someone tries to write a piece of code to reverse engineer these files.
 
 ## References ##
 
