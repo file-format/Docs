@@ -19,7 +19,7 @@
 
 ## What is an SDC file? ##
 
-An SDC file is a spreadsheet file created with Apache OpenOffice Calc spreadsheet program that is also part of StarOffice. Like other spreadsheet applications, data is stored in an SDC file in grid of cells in rows and columns. SDC files have MIME Type application/vnd.stardivision.calc and was planned to be used for StarCalc 5.x spreadsheets. Calc is free spreadsheet program and is used by new comers as well as professionals. It can export data from SDC file to Microsoft Excel XLS and PDF file formats. In addition to Calc, [LibreOffice](https://www.libreoffice.org/) and [Planamesa NeoOffice](https://www.neooffice.org/neojava/en/index.php).
+An SDC file is a spreadsheet file created with [Apache OpenOffice Calc](https://en.wikipedia.org/wiki/LibreOffice_Calc) spreadsheet program that is also part of StarOffice. Like other spreadsheet applications, data is stored in an SDC file in grid of cells in rows and columns. SDC files have MIME Type application/vnd.stardivision.calc and was planned to be used for StarCalc 5.x spreadsheets. Calc is free spreadsheet program and is used by new comers as well as professionals. It can export data from SDC file to Microsoft Excel XLS and PDF file formats. In addition to Calc, [LibreOffice](https://www.libreoffice.org/) and [Planamesa NeoOffice](https://www.neooffice.org/neojava/en/index.php).
 
 ## SDC File Format
 
