@@ -6,8 +6,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to know what is a DIF file and APIs that can create and open them.",
-  "title" : "What is a DIF file?",
+  "description" : "Your file format guide to know what is a DIF file extension and APIs that can create and open DIF files.",
+  "title" : "DIF - Data Interchange File Format",
   "linktitle" : "DIF",
   "menu" : {
     "docs" : {
@@ -17,11 +17,11 @@
   "lastmod" : "2019-12-10"
 }
 
-# What is a DIF file? #
+## What is a DIF file?
 
 DIF stands for Data Interchange Format that is used to import/export spreadsheets data between different applications. These include Microsoft Excel, OpenOffice Calc, StarCalc and many others. It stores data contained in a single spreadsheet which is the only limitation of this file format.
 
-## Brief History ##
+## Brief History of DIF File Format ##
 
 The DIF file format was developed by Software Arts, Inc. in the early 1980s. The file format specifications for DIF were included in VisiCalc which was the first spreadsheet program for personal computers. These specifications were copyrighted in 1981 and was a registered trademark of Software Arts Products Corp.
 
@@ -49,7 +49,7 @@ A value occupies two lines, the first a pair of numbers and the second either a 
 ** FALSE – false boolean value
 * 1 – string type, the second number is ignored, the following line is the string in double quotes
 
-### Header chunk ###
+### DIF Header chunk ###
 
 The header chunk of a DIF file comprises of an identifier line followed by the two lines of a value. The numeric values in header chunks use just an empty string instead of the validity keywords. The details of these header chunks are as follow.
 
@@ -58,7 +58,7 @@ The header chunk of a DIF file comprises of an identifier line followed by the t
 * TUPLES - the number of rows follows as a numeric value
 * DATA - after a dummy 0 numeric value, the data for the table follow, each row preceded by a BOT value, the entire table terminated by an EOD value
 
-### Example ###
+### DIF Example ###
 
 Following example shows the contents of a simple worksheet and its equivalent DIF representation.
 
