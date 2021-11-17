@@ -6,7 +6,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to know what is an XLM file and APIs that can create and open them.",
+  "description" : "Your file format guide to know what is an XLM Macros file and APIs that can create and open XLM files.",
   "title" : "What is an XLM file?",
   "linktitle" : "XLM",
   "menu" : {
