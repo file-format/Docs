@@ -19,7 +19,7 @@
 
 ## What is a DEX file?
 
-A DEX file is a spreadsheet file created with Microsoft Excel. It is similar to the XLSX files but is in binary file format. Data is stored in rows and columns in a DEX file. Though DEX files are also Microsoft Excel, these are less popular. In comparison, XLSX file format is the default choice for saving Excel workbooks. DEX files have been marked as obsolete and are no more supported by Microsoft Excel.
+A DEX file is a spreadsheet file created with Microsoft Excel. It is similar to the [XLSX](/spreadsheet/xlsx/) files but is in binary file format. Data is stored in rows and columns in a DEX file. Though DEX files are also Microsoft Excel, these are less popular. In comparison, XLSX file format is the default choice for saving Excel workbooks. DEX files have been marked as obsolete and are no more supported by Microsoft Excel.
 
 ## References
 
