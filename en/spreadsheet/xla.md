@@ -6,7 +6,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Learn about XLA file format and APIs that can create and open XLA files.",
+  "description" : "Learn about what is an XLA file format and APIs that can create and open XLA files.",
   "title" : "XLA - Excel Add-In File",
   "linktitle" : "XLA",
   "menu" : {
