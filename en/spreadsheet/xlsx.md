@@ -6,7 +6,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to know what is an XLSX file and APIs that can create and open them.",
+  "description" : "Learn about what is an XLSX file and APIs that can create and open XLSX files.",
   "title" : "What is an XLSX file?",
   "linktitle" : "XLSX",
   "menu" : {
