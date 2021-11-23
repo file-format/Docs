@@ -23,11 +23,11 @@ A file with .\_xlsx extension is actually an [XLSX](/spreadsheet/xlsx/) file tha
 
 ## \_XLSX File Format - More information
 
-The \_XLSX files are no difference than the XLSX files and use the Open XML standard adopted by Microsoft back in 2000. Before XLSX, [XLS](/spreadsheet/xls/) was the primary file format used for working with Excel spreadsheets to save documents in binary format. This new XML based file format came with advantages such as small file sizes, resistance to file corruption, and well-formatted images representation. This new XML based file format became part of Office 2007 and is carried out in the new versions of Microsoft as well.
+The \_XLSX files are no different than the XLSX files and use the Open XML standard adopted by Microsoft back in 2000. Before XLSX, [XLS](/spreadsheet/xls/) was the primary file format used for working with Excel spreadsheets to save documents in binary format. This new XML based file format came with advantages such as small file sizes, resistance to file corruption, and well-formatted images representation. This new XML based file format became part of Office 2007 and is carried out in the new versions of Microsoft as well.
 
 ## \_XLSX File Format Specifications
 
-As an \_XLSX file is an XLSX file renamed, it has the same specifications as the original file. It is an archive file that is based on the [ZIP](/compression/zip/) archival file format. If you want to see the contents of this archive, just rename the file to .zip extension and extract it to view the constituent files of this Excel workbook. A blank workbook, when extracted to its files, has the following constituent files and folders.
+As an \_XLSX file is an XLSX file renamed, it has the same specifications as the original file. It is just an archive file that is based on the [ZIP](/compression/zip/) archival file format. If you want to see the contents of this archive, just rename the file to .zip extension and extract it to view the constituent files of this Excel workbook. A blank workbook, when extracted to its files, has the following constituent files and folders.
 
 ### [Content_Types].xml
 
