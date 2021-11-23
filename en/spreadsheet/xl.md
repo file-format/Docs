@@ -6,7 +6,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to know what is an XLS file and APIs that can create and open them.",
+  "description" : "Learn about what is an XL file and APIs that can create and open XL files.",
   "title" : "XL - Microsoft Excel Spreadsheet File Format",
   "linktitle" : "XL",
   "menu" : {
