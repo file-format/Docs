@@ -6,7 +6,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to know what is an XLSX file and APIs that can create and open them.",
+  "description" : "Your file format guide to know what is an _XLSX file and APIs that can create and open _XLSX files.",
   "title" : "What is an _XLSX file?",
   "linktitle" : "_XLSX",
   "menu" : {
@@ -14,7 +14,7 @@
       "parent" : "spreadsheet"
     }
   },
-  "lastmod" : "2019-12-10"
+  "lastmod" : "2021-11-22"
 }
 
 ## What is a \_XLSX file?
