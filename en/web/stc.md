@@ -10,6 +10,7 @@ linktitle: STC
 description: Learn about what is an STC file format and APIs that can create and open STC files.
 menu:
   docs:
+    identifier: "web-stc"
     parent: "web"
 lastmod: 2021-07-05
 ---
