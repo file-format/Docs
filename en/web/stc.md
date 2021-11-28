@@ -11,7 +11,7 @@
   "linktitle" : "STC",
   "menu" : {
     "docs" : {
-      "identifier": "web-stc"
+      "identifier": "web-stc",
       "parent" : "web"
     }
   },
