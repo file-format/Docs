@@ -1,19 +1,22 @@
----
-date: 2021-07-05
-keywords: stc, .stc, stc file format, how to open stc files, Adobe Contribute Connection Key File
-author:
-  display_name: Kashif Iqbal
-draft: false
-toc: true
-title: STC - What is STC File Extension?
-linktitle: STC
-description: Learn about what is an STC file format and APIs that can create and open STC files.
-menu:
-  docs:
-    identifier: "web-stc"
-    parent: "web"
-lastmod: 2021-07-05
----
+{
+  "date" : "2021-02-26",
+  "keywords" : [ "stc", "file", "extension", "file format", "Adobe Contribute Connection Key File" ],
+  "author" : {
+    "display_name" : "Sami Cheema"
+  },
+  "draft" : "false",
+  "toc" : true,
+  "description":"Learn about what is an STC file and APIs that can create and open STC files.",
+  "title" : "What is STC File Extension?",
+  "linktitle" : "STC",
+  "menu" : {
+    "docs" : {
+      "identifier": "web-stc"
+      "parent" : "web"
+    }
+  },
+  "lastmod" : "2021-11-27"
+}
 
 ## What is a STC file?
 
