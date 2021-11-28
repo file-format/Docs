@@ -11,7 +11,7 @@
   "linktitle" : "STC",
   "menu" : {
     "docs" : {
-      "identifier": "spreadsheet-stc"
+      "identifier": "spreadsheet-stc",
       "parent" : "spreadsheet"
     }
   },
