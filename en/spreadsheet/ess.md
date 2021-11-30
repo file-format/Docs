@@ -1,6 +1,6 @@
 {
   "date" : "2021-02-26",
-  "keywords" : [ "ess", "file", "extension", "file format", "EasySpreadsheet, "Spreadsheet" ],
+  "keywords" : [ "ess", "file", "extension", "file format", "EasySpreadsheet", "Spreadsheet" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
