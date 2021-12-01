@@ -19,8 +19,9 @@
 
 ## What is an FCS file?
 
-An FCS file is a spreadsheet file created with PFS:First Choice software that is an office suite comprising of a word processor, spreadsheet, graphics, database, and telecommunications. FCS stands for First Choice Spreadsheet and can be opened with PFS:First Choice suite for DOS by Software Publishing Corporation.
+An FCS file is a spreadsheet file created with PFS:First Choice software that is an office suite comprising of a word processor, spreadsheet, graphics, database, and telecommunications. FCS stands for First Choice Spreadsheet and can be opened with PFS:First Choice suite for DOS by [Software Publishing Corporation](https://en.wikipedia.org/wiki/Software_Publishing_Corporation).
 
 ## References
 
  * [PFD:First Choice](http://justsolve.archiveteam.org/wiki/PFS:First_Choice)
+ * [Software Publishing Corporation](https://en.wikipedia.org/wiki/Software_Publishing_Corporation)
