@@ -17,7 +17,7 @@
   "lastmod" : "2021-12-01"
 }
 
-## What is an GNM file?
+## What is a GNM file?
 
 GNM file is a spreadsheet file created with [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric) that is a spreadsheet program and comes as part of [GNOME](https://gnome.org/) Desktop Software. It stores spreadsheet data in rows and columns, and provides support for charts and other spreadsheet functionality. GNM files are saved to disc in [XML](/web/xml/) file format (similar to XLSX) and are compressed using the [GZIP](/compression/gz/). Gnumeric aim was to provide open source spreadsheet application that will eventually provide alternative to Microsoft Excel.
 
