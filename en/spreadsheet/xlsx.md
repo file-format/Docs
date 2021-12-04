@@ -77,5 +77,5 @@ Have to share something about XLSX or Spreadsheet file formats? You can post you
 
 ## References
 
-* [[MS-XLSX] - XLSX File Format](https://products.conholdate.app/viewer/view/1VZC8xPx2ZuGLz2wP/ms-xlsx-excel-extensions-to-the-office-open-xml-spreadsheetml-file-format.pdf)
+* [[MS-XLSX] - XLSX File Format](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
