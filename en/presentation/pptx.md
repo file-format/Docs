@@ -90,5 +90,5 @@ and following xml files:
 
 ## References ##
 
-* [[MS-PPTX] - PPTX File Format](https://products.conholdate.app/viewer/view/2d4sKVZVGrfN3w0Lg/ms-pptx-powerpoint-pptx-extensions-to-the-office-open-xml-file-format.pdf)
+* [[MS-PPTX] - PPTX File Format](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
