@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"What is a GNUMERIC file and APIs that can create and open .gnumeric files.",
   "title" : "GNUMERIC - Gnumeric Spreadsheet File Format",
-  "linktitle" : "GNM",
+  "linktitle" : "GNUMERIC",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"
