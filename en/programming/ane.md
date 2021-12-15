@@ -29,3 +29,4 @@ ANE files are saved to disc as binary files whose file format specifications are
 ## References
 
  * [Adobe ActionScript](https://en.wikipedia.org/wiki/ActionScript)
+ * [Using native extensions for Adobe AIR](https://help.adobe.com/en_US/air/build/WS597e5dadb9cc1e0253f7d2fc1311b491071-8000.html)
