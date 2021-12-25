@@ -33,7 +33,7 @@ INDD files can be converted to several other file formats. The most common conve
 
 ## How is INDD File Created?
 
-An Indd file is created when you create a new project with InDesign and save it to disc. You can open the Indd project file, make changes to it, and save the updated file for the changes.
+An Indd file is created when you create a new project with [Adobe InDesign](https://www.adobe.com/products/indesign.html) and save it to disc. You can open the Indd project file, make changes to it, and save the updated file for the changes.
 
 ## References
 
