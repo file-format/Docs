@@ -1,4 +1,4 @@
-{
+d{
   "date" : "2019-10-11",
   "keywords" : [ "apk file", "apk file format", "what is a apk file", "file", "apk example", "apk file extension","extension", "format" ],
   "author" : {
@@ -6,7 +6,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "APK - Android Package File Format",
+  "title" : "APK - What is an APK file?",
   "description":"Learn to know what is an APK file and APIs that can create and open APK files.",
   "linktitle" : "APK",
   "menu" : {
