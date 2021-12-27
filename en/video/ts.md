@@ -1,20 +1,20 @@
 {
-  "date" : "2021-12-26",
-  "keywords" : [ "TS", "file", "extension", "format", "MPEG-2", "Transport Stream", "video"],
+  "date" : "2021-12-15",
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "TS File Format - What is a .ts file?",
-  "description":"Learn about TS file format and APIs that can create and open TS files.",
+  "title" : "TS File Format - Video Transport Stream File",
+  "keywords" : [ "ts", "flie", "extension", "extension", ".ts", "format" ],
+  "description":"Learn about what is a TS file and APIs that can create and open TS files.",
   "linktitle" : "TS",
   "menu" : {
     "docs" : {
       "parent" : "video"
     }
   },
-  "lastmod" : "2021-12-26"
+  "lastmod" : "2021-12-16"
 }
 
 ## What is a TS file?
