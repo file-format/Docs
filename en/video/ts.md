@@ -20,7 +20,7 @@
 
 ## What is a TS file?
 
-A file with .ts extension is a video stream that stores the data on DVDs. It compresses videos using standard MEPG-2 ([.mpeg](/video/mpg/)) compression algorithm for maximum efficiency and compatibility across different media types such as internet streaming and broadcasting. TS file format was created so that it can be played on devices with poor internet connections, such as smart TV.
+A file with .ts extension is a video stream that stores the data on DVDs. It uses MPEG-2 ([.mpeg](/video/mpg/)) compression algorithm to achieve maximum efficiency and compatability across different media types such as internet streaming and broadcasting. TS file format was created so that it can be played on devices with poor internet connections, such as smart TV.
 
 ## TS File Format - More Information
 
