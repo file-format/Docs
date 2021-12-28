@@ -23,7 +23,7 @@ A file with .ipynb extension is a Jupyter Notebook file that contains the entire
 
 An IPYNB file serves as a complete computational record of a session and includes information such as computational inputs and outputs, mathematical functions, and rich representation of resulting objects such as images and explanatory text.
 
-## What is IPYNB File Format?
+## IPYNB File Format
 
 IPYNB are saved internally in [JSON](/web/json/) file format which is an open standard file format for sharing data. For this reason, IPYNB files are human-readable and easily understandable. JSON also makes it easy for sharing these files with others.
 
