@@ -19,7 +19,7 @@
 
 ## What is an IPYNB file?
 
-A file with .ipynb extension is a Jupyter Notebook file that contains the entire contents of Notebook created with Jupyter Notebook web application session. Jupyter Notebook is an interactive web application used for creating and sharing computational documents for analysis using Python.
+A file with .ipynb extension is a Jupyter Notebook file that contains the entire contents of Notebook created with Jupyter Notebook web application session. [Jupyter Notebook](https://jupyter.org/) is an interactive web application used for creating and sharing computational documents for analysis using Python.
 
 An IPYNB file serves as a complete computational record of a session and includes information such as computational inputs and outputs, mathematical functions, and rich representation of resulting objects such as images and explanatory text.
 
