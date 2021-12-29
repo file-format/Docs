@@ -19,7 +19,7 @@
 
 ## What is a GZ file?
 
-A .gz file is a compressed archive that is created using the standard [gzip](https://en.wikipedia.org/wiki/Gzip)(GNU zip) compression algorithm. It may contain multiple compressed files, directories and file stubs. This format was initially developed to replace compression formats on UNIX systems.  and is still one of the most common archive types on Linux systems. Applications such as [WinZip](https://www.winzip.com/en/) can open GZ files to view its contents on both Windows and MacOS. 
+A .gz file is a compressed archive that is created using the standard [gzip](https://en.wikipedia.org/wiki/Gzip) (GNU zip) compression algorithm. It may contain multiple compressed files, directories and file stubs. This format was initially developed to replace compression formats on UNIX systems.  and is still one of the most common archive types on Linux systems. Applications such as [WinZip](https://www.winzip.com/en/) can open GZ files to view its contents on both Windows and MacOS. 
 
 ## GZ File Format - More Information
 
