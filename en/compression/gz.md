@@ -6,8 +6,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "GZ - Gnu Zipped Archive File Format",
-  "description":"Learn about GZ file format and APIs that can create and open GZ files.",
+  "title" : "GZ File Format - GNU Zipped Archive File",
+  "description":"Learn about what is a GZ file and APIs that can create and open GZ files.",
   "linktitle" : "GZ",
   "menu" : {
     "docs" : {
@@ -19,9 +19,9 @@
 
 ## What is a GZ file?
 
-Files with .gz extension are compressed files created with gzip compression application. It can contain multiple compressed files and is commonly used on UNIX and Linux systems. GZIP was introduced as a free utility for replacing the Compress program used in Unix systems. Such files can be opened and extracted with a several applications such as WinZip which is available on both Windows and MacOS. While the format is similar to [ZIP](/Compression/ZIP/) compression in archiving, it differs in terms of compression applied to the archive instead of individual file.
+A .gz file is a compressed archive that is created using the standard [gzip](https://en.wikipedia.org/wiki/Gzip)(GNU zip) compression algorithm. It may contain multiple compressed files, directories and file stubs. This format was initially developed to replace compression formats on UNIX systems.  and is still one of the most common archive types on Linux systems. Applications such as [WinZip](https://www.winzip.com/en/) can open GZ files to view its contents on both Windows and MacOS. 
 
-## GZ File Format
+## GZ File Format - More Information
 
 Gzip uses the [DEFLATE](https://en.wikipedia.org/wiki/DEFLATE) algorithm for compression of archive and differs from the .ZIP archive format in applying the compression algorithm on complete archive rather than individual files. The GZIP file format specifications version 4.3 published by Internet Engineering Task Force (IETF) contains detailed information about the file format. The file format consists of:
 
