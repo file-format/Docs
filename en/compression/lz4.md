@@ -23,7 +23,7 @@ A file with .lz4 extension is a compressed archive file created with application
 
 ## LZ4 File Format
 
-The LZ4 file format, based on the LZ4 compression algorithm, is independent of CPU type, operating system, file system and character set. It is suitable for file compression and streaming compression using the LZ4 algorithm. The initial implementation of the LZ4 format was carried out in [C](/programming/C/) language by Yann Collet in 2011 and is available for developer's reference on [Github](https://github.com/lz4/lz4).
+The LZ4 file format, based on the LZ4 compression algorithm, is independent of CPU type, operating system, file system and character set. It is suitable for file compression and streaming compression using the LZ4 algorithm. The initial implementation of the LZ4 format was carried out in [C](/programming/c/) language by Yann Collet in 2011 and is available for developer's reference on [Github](https://github.com/lz4/lz4).
 
 ### LZ4 Frame Format
 
