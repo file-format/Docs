@@ -18,7 +18,7 @@ lastmod: 2021-21-01
 
 JFIF (JPEG File Interchange Format (JFIF)) is an image format file that uses the .jfif extension. JFIF builds over JIF (JPEG Interchange Format) by reducing complexity and solving its limitations.
 
-## Brief History ##
+## Brief History of JFIF File Format ##
 
 JFIF document development was led by Eric Hamilton and an agreement on the first version was established in late 1991. Version 1.02 was published on September 7, 1992. RFC 2046 specified that the JFIF format is used to transmit JPEG images over the internet. JFIF was published by ECMA in 2009 and was standardized by ITU-T in 2011 as its Recommendation T.871 and by ISO/IEC in 2013 as ISO/IEC 10918-5
 
@@ -72,7 +72,9 @@ This is an optional section that if defined, must immediately follow the JFIF AP
 |Identifier|5|JFXX (4A 46 58 58 00) in ASCII terminated by a null byte|
 |Thumbnail format|1|Specifies what data format is used for the following embedded thumbnail:</br>10 : JPEG format</br>11 : 1 byte per pixel palettized format</br>13 : 3 byte per pixel RGB format|
 |Thumbnail data|variable||
+## Conversion of JFIF to Other Image File Formats
 
+JFIF can be converted to popular image file formats such as [PNG](/image/png/), [JPG](/image/jpg/), and [PDF](/pdf/).
 ## References ##
 
 - [JFIF - Wikipedia](https://en.wikipedia.org/wiki/JPEG_File_Interchange_Format#History)
