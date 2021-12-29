@@ -29,7 +29,7 @@ INDD files are perfect for designing engaging print as well as online content. A
 
 ## Can INDD file be Converted to Other Formats?
 
-INDD files can be converted to several other file formats. The most common conversion is INDD to PDF. InDesign lets you save the INDD file to PDF for sharing with other users. It also lets you export INDD file to JPG, [EPS](/page-description-language/eps/), [EPUB](/publisher/epub/), [SWF](/page-description-language/swf/), FLA, [HTML](/web/html/), [XML](/web/xml/), and IDML.
+INDD files can be converted to several other file formats. The most common conversion is INDD to PDF. InDesign lets you save the INDD file to PDF for sharing with other users. It also lets you export INDD file to JPG, [EPS](/page-description-language/eps/), [EPUB](/ebook/epub/), [SWF](/page-description-language/swf/), FLA, [HTML](/web/html/), [XML](/web/xml/), and IDML.
 
 ## How is INDD File Created?
 
