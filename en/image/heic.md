@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "HEIC - High-Efficiency Image File Format",
-  "description":"Learn about HEIC file format and APIs that can create and open HEIC files.",
+  "description":"Learn about .heic file and APIs that can create and open HEIC files.",
   "linktitle" : "HEIC",
   "menu" : {
     "docs" : {
@@ -17,7 +17,7 @@
   "lastmod" : "2021-03-29"
 }
 
-## What is a HEIC file?
+## What is an HEIC file?
 
 An HEIC file is a High-Efficiency Container Image file format that can store multiple images as a collection in a single file. The format was adopted by Apple as variant of the [HEIF](/image/heif/) with the launch of iOS 11. It was adopted as the default file format for storing images in compressed form on mobile devices. HEIC, like HEIF, are compressed using the High Efficiency Video Coding (HEVC) standard and are smaller in size without compromising the quality.
 
@@ -44,6 +44,18 @@ The following operating systems support HEIF content:
  * Apple iOS 11 and newer
  * Apple macOS High Sierra and newer
  * Microsoft Windows 10 April 2018 Update (1803) and newer
+
+## How to convert HEIC file to another image file format?
+
+HEIC files can be converted to other image file formats like JPEG using several applications. Some of these are as follow.
+
+|Application|Operating System|
+---|---|
+|Apple Photos |Mac|
+|Apple Preview |Mac|
+|File Viewer Plus|Windows|
+|HEIC Image Viewer Decoder |Chrome OS|
+|Luma: HEIF Viewer and Converter |Android|
 
 ## References
 
