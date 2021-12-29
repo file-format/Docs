@@ -23,7 +23,7 @@ An MSIX file is a Windows app packaging format that is used to create and distri
 
 ## MSIX File Format - More Information
 
-MSIX files are [Zip](/compressed/zip/)-compressed, with all the files included inside the packaged file. In addition to the app related files, the MSIX file contains [.xml](/web/xml/) configuration files that contain information related to the app installation.
+MSIX files are [ZIP](/compression/zip/)-compressed, with all the files included inside the packaged file. In addition to the app related files, the MSIX file contains [.xml](/web/xml/) configuration files that contain information related to the app installation.
 
 ## What's Inside an MSIX package?
 
