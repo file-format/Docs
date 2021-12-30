@@ -6,7 +6,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description":"Learn about EXE file format and APIs that can create and open EXE files.",
+  "description":"Learn about .exe file format and APIs that can create and open EXE files.",
   "title" : "EXE - Microsoft Windows Executable File",
   "linktitle" : "EXE",
   "menu" : {
