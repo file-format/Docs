@@ -91,6 +91,7 @@ PNG compression method 0 (the only compression method presently defined for PNG)
 Pre-compression filters are applied to prepare the image data for optimum compression. PNG filter method defines five basic filter types as follow:
 
 |Filter Type|Name|Predicted Value|
+---|---|---|
 |0|None|The scanline is transmitted unmodified|
 |1|Sub|Transmits the difference between each byte and the value of the corresponding byte of the prior pixel.|
 |2|Up|The Up() filter is just like the Sub() filter except that the pixel immediately above the current pixel, rather than just to its left, is used as the predictor.|
