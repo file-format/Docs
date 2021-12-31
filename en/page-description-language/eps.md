@@ -33,7 +33,7 @@ EPS, in combination with the Open Structuring Conventions extension mechanism de
 
 ## EPS File Format
 
-EPS is a proprietary but publicly documented format and the file format specifications are available [here](http://www.adobe.com/content/dam/acom/en/devnet/actionscript/articles/5002.EPSF_Spec.pdf). EPS is a [DSC](https://en.wikipedia.org/wiki/Document_Structuring_Conventions) (Document Structuring Convention) conforming file format and adheres to all the rules established by the DSC. The DSC is a special file format for PostScript documents by Adobe. Any application that claims to be able to read EPS files should be DSC-compliant. Any EPS file consists of two main sections as explained below.
+EPS is a proprietary but publicly documented format and [EPS file format specifications](http://www.adobe.com/content/dam/acom/en/devnet/actionscript/articles/5002.EPSF_Spec.pdf) are available publicly for developer's reference. EPS is a [DSC](https://en.wikipedia.org/wiki/Document_Structuring_Conventions) (Document Structuring Convention) conforming file format and adheres to all the rules established by the DSC. The DSC is a special file format for PostScript documents by Adobe. Any application that claims to be able to read EPS files should be DSC-compliant. Any EPS file consists of two main sections as explained below.
 
 ### Preview Image ###
 
@@ -43,7 +43,7 @@ A typical EPS file contains a preview image in a format intended for convenient 
 * for DOS computers, a TIFF bitmap
 * Windows Metafile.
 
-PICT and Windows Metafile can incorporate both bitmap data and vector graphics. In addition, the specification defines a very simple device-independent representation for an embedded bitmapped preview image. This representation is known as Encapsulated PostScript Interchange Format, or EPSI. An EPSI preview is a bitmap represented as ASCII hexadecimal, wrapped between a few PostScript comments for identification and intended to be simple and easily transportable. In order to distinguish EPS files with the different preview formats, different DOS file extensions and Macintosh file types were recommended in the EPS specification.
+PICT and Windows Metafile can incorporate both bitmap data and vector graphics. In addition, the specification defines a very simple device-independent representation for an embedded bitmapped preview image. This representation is known as Encapsulated PostScript Interchange Format (EPSI). An EPSI preview is a bitmap represented as ASCII hexadecimal, wrapped between a few PostScript comments for identification and intended to be simple and easily transportable. In order to distinguish EPS files with the different preview formats, different DOS file extensions and Macintosh file types were recommended in the EPS specification.
 
 ### PostScript Code
 
