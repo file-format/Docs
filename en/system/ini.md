@@ -21,12 +21,12 @@
 
 An INI file is a message configuration document for computer programs that contain public keys for characteristics and sections that organize the attributes in a framework and grammar. These system file format configuration documents get their name from the MS-DOS operating system's directory extension INI, which stands for initiation. It popularised this form of software setup. Many programs on other software applications use various file name additions, such as CONF and [CFG](/system/cfg), although the format has established an unofficial standard in many situations of configuration.
 
-## Brief History ##
+## Brief History of INI Files##
 
 Initially, Windows' principal program configuration technique was a text file format that consisted of lines of text with one crucial pair per line, divided into sections. Device drivers, typefaces, and starting launchers were all stored in this format. Individual settings were also commonly stored in INI files by apps. 
 Up until Windows 3.1x, the format was supported on 16-bit Microsoft Windows platforms. Beginning with Windows 95, Microsoft began to encourage developers to use the Windows Registry instead of INI files for configuration.
 
-## Technichal Specification ##
+## INI File - File Format Specifications
 
 ### Keys/Properties ###
 
