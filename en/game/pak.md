@@ -23,4 +23,4 @@ A PAK file is a package file created by different video games to archive game da
 
 ## PAK File Format - More Information
 
-In most cases, PAK files are saved in ZIP file format. But different applications may use different file format for storing these files.
+In most cases, PAK files are saved in [ZIP file format](/compression/zip/). But different applications may use different file format for storing these files.
