@@ -27,7 +27,7 @@ OVF file format was introduced by DMTF (Distributed Management Task Force) that 
 
 ## OVF File Format - More Information
 
-An OVF package consists of multiple files placed in a single directory. Among these, it ocntains exactly one OVF descriptor (with extension .ovf) file that is stored in XML file format. It describes the packaged virtual machine information and metadata information about the OVF package such as:
+An OVF package consists of multiple files placed in a single directory. Among these, it ocntains exactly one OVF descriptor (with extension .ovf) file that is stored in [XML](/web/xml/) file format. It describes the packaged virtual machine information and metadata information about the OVF package such as:
 
  * name
  * hardware requirements
