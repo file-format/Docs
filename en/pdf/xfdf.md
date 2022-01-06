@@ -31,23 +31,6 @@ XFDF files are saved in XML file format that is a universal format used for impo
 |<field (T)>	|name	|Field name|
 |<value (V)>	|value	|Field value|
 
-## How to create an XFDF file?
-
-Since XFDF is saved in plain XML format, there can be a number of ways once can create an XFDF file. These include:
-
- * Using Adobe Acrobat to export forms data directly to a file.
- * Exporting data from a database and saving it as an XFDF file
- * Writing a program that will build an XFDF file as a plain text file
-
-
-FDF is plain text format and is included as part of the [ISO 32000 standard](https://www.iso.org/standard/51502.html) for Portable Document Format. It was developed by Adobe to allow import and export of data from Acrobat Forms, or AcroForms.
-
-There are two types of FDF files:
-
-• `Classic FDF` – It provides data to fill out an existing static form.
-
-• `Template FDF` – Constructs a new PDF based on templates from inside specified PDF files. Forms inside the new document are filled by supplying data.
-
 ## References
 
 * [FDF Format Support by Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
