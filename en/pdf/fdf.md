@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "FDF File Format -  What is an FDF file?",
-  "description":"Learn about PDF/A file format and APIs that can create and open PDF/A files.",
+  "description":"Learn about FDF file format and APIs that can create and open FDF files.",
   "linktitle" : "FDF",
   "menu" : {
     "docs" : {
