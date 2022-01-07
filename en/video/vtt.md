@@ -10,6 +10,7 @@ title: VTT File Format - Web Video Text Tracks File
 linktitle: VTT
 menu:
   docs:
+    identifier: "video-vtt"
     parent: "video"
 lastmod: 2022-01-06
 ---
