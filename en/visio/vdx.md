@@ -12,7 +12,7 @@
   "menu" : {
     "docs" : {
       "identifier":"visio-vdx",
-      "parent" : "image"
+      "parent" : "visio"
     }
   },
   "lastmod" : "2019-09-10"
