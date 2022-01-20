@@ -34,7 +34,7 @@ The 3GP video format is based on the ISO base media file format defined in ISO/I
   - HE-AAC v1
   - HE-AAC v2 (Enhanced aacPlus)
 
-The 3GP file Format allowed the usage of H.263 and AMR codecs and defined new boxes to which the codecs refer. These code-points were registered in ISO base media file format for the storage of MPEG-4 media-specific information.
+The 3GP file format allowed the usage of H.263 and AMR codecs and defined new boxes to which the codecs refer. These code-points were registered in ISO base media file format for the storage of MPEG-4 media-specific information.
 
 ## Supporting Devices for 3GP Video Files
 
