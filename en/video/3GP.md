@@ -6,7 +6,7 @@ author:
 draft: false
 toc: true
 description: Learn about what is a 3GP file and APIs that can create and open 3GP files.
-title: 3GP - 3GPP Multimedia File Format
+title: 3GP File - 3GPP Multimedia File Format
 linktitle: 3GP
 menu:
   docs:
