@@ -23,7 +23,7 @@ A GZ file is a compressed archive that is created using the standard [gzip](http
 
 ## GZ File Format - More Information
 
-Gzip uses the [DEFLATE](https://en.wikipedia.org/wiki/DEFLATE) algorithm for compression of archive and differs from the .ZIP archive format in applying the compression algorithm on complete archive rather than individual files. The GZIP file format specifications version 4.3 published by Internet Engineering Task Force (IETF) contains detailed information about the file format. The file format consists of:
+Gzip uses the [DEFLATE](https://en.wikipedia.org/wiki/DEFLATE) algorithm for compression of archive and differs from the [ZIP](/compression/zip/) archive format in applying the compression algorithm on complete archive rather than individual files. The GZIP file format specifications version 4.3 published by Internet Engineering Task Force (IETF) contains detailed information about the file format. The file format consists of:
 
 * File Header
 * Optional Headers
