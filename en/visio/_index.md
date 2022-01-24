@@ -20,4 +20,6 @@
 
 Microsfot Visio comes as part of Microsoft Office suite and is used for diagramming and vector drawing applications. It is used to create several different types of diagrams including flow charts, UML diagrams, network diagrams, and alot of others. 
 
-Visio file formats include file types such as VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM file format that is saved to disc when user creates a project in Microsoft Visio and saves it to disc. Following is a list of Publisher File Formats.
+Visio file formats include file types such as **[VSDX](/visio/vsdx/)**, **[VSX](/visio/vsx/)**, VTX, VDX, **[VSSX](/visio/vssx/)**, VSTX, VSDM, VSSM, VSTM file format that is saved to disc when user creates a project in Microsoft Visio and saves it to disc. Following is a list of Publisher File Formats.
+
+Got queries related to Visio file formats? Head on to our community [forums](https://forum.fileformat.com/c/visio/31) to benefit from the knowledge shared by File Format experts.
