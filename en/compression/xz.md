@@ -17,7 +17,7 @@
   "lastmod" : "2022-01-23"
 }
 
-## What is a XZ file?
+## What is an XZ file?
 
 XZ is a compressed file format that utilizes the LZMA2 compression algorithm. It was designed as a replacement for the popular gzip and bzip2 formats, and offers a number of advantages over these older standards. XZ files are well-supported across many platforms, and can be decompressed quickly and easily. While they are not as common as [ZIP](/compression/zip/) or [RAR](/compression/rar/) files, XZ archives can be used to store large amounts of data without sacrificing compression quality. If you need to compress or decompress large files, the XZ file extension is worth considering.
 
