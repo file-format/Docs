@@ -7,7 +7,7 @@
   "toc" : true,
   "title" : "GDOC File - Google Docs Shortcut",
   "description":"Learn about what is a GDOC file and APIs that can create and open GDOC files.",
-  "linktitle" : "URL",
+  "linktitle" : "GDOC",
   "menu" : {
     "docs" : {
       "parent" : "web"
