@@ -16,7 +16,7 @@
   "lastmod" : "2022-01-24"
 }
 
-## What is an GDOCX file?
+## What is a GDOCX file?
 
 A GDOCX file is a type of shortcut file created that points to an online word processing documents stored in Google Drive. It is created with Google Docs and is saved to the user's Google Drive by default. GDOCX files are similar to [GDOC](/web/gdoc/) that are most commonly used. The target file information is stored in GDOCX files in plain text that can be opened with any text editor.
 
