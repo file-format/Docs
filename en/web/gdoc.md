@@ -16,7 +16,7 @@
   "lastmod" : "2022-01-23"
 }
 
-## What is an GDOC file?
+## What is a GDOC file?
 
 A GDOC file is a shortcut file that points to a file located on Google Drive, a cloud-based document storage service. When Google Drive client is installed on a computer and a document is created inside it, the drive creates a document in the online cloud storage and writes the [URL](/web/url/) of this document in the GDOC file in local Google Drive folder. When this shortcut file is double clicked, the default web browser opens the document from the [URL](/web/url/) location. If this shortcut file is moved out of this folder, the link to online document is broken.
 
