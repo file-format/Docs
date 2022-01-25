@@ -25,7 +25,7 @@ ASC files are Autodesk text files that store information about objects in your d
 
 ASC files are stored to disc in plain ASCII text file format. These are human readable.
 
-## ASC File Example
+### ASC File Example
 
 ```
 ncols 200
