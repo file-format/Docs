@@ -26,8 +26,8 @@ jobs:
       uses: andstor/copycat-action@v3
       with:
         personal_token: ${{ secrets.REPO_TOKEN }}
-        src_path: /content/
-        dst_path: /.
+        src_path: /.
+        dst_path: /content/
         dst_owner: file-format
         dst_repo_name: hugo-docs
         dst_branch: stage
