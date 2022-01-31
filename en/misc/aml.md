@@ -11,6 +11,7 @@
   "linktitle" : "AML",
   "menu" : {
     "docs" : {
+      "identifier":"misc-aml",
       "parent" : "misc"
     }
   },
