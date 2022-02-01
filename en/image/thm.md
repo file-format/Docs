@@ -11,6 +11,7 @@
   "linktitle" : "THM",
   "menu" : {
     "docs" : {
+      "identifier":"image-thm",
       "parent" : "image"
     }
   },
