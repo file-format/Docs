@@ -6,7 +6,7 @@ author:
 draft: false
 toc: true
 description: Learn about OGG file format and APIs that can create and open OGG files.
-title: OGG File Format
+title: OGG File - Ogg Vorbis Audio File
 linktitle: OGG
 menu:
   docs:
@@ -38,7 +38,7 @@ The OGG format consists of chunks of data. Each chunk is called an Ogg page. Eac
       | 0 | 0x01 | Indicates that the first packet of the page is the continuation of the previous packet in the logical bitstream. |
       | 1 | 0x02 | Indicates that this page is the first in the logical bitstream. |
       | 2 | 0x04 | Indicates that this page is the last in the logical bitstream. |
-      
+
   - **Granule position(64 bits)**: It is the time marker whose meaning is determined by the codec.
   - **Bitstream serial number(32 bits)**: It is the serial number that identifies the page belonging to a particular logical bitstream.
   - **Page sequence number(32 bits)**: It indicates the sequence of the page with the first page starting at 0.
