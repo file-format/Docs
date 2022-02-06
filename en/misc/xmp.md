@@ -1,5 +1,5 @@
 {
-  "date" : "2022-02-28",
+  "date" : "2022-02-02",
   "keywords" : [ "xmp file", "xmp file format", "what is an xmp file", "file", "xmp example", "xmp file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
@@ -15,7 +15,7 @@
       "parent" : "misc"
     }
   },
-  "lastmod" : "2022-02-28"
+  "lastmod" : "2022-02-02"
 }
 
 ## What is an XMP file?
