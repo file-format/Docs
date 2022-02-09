@@ -1,6 +1,6 @@
 {
   "date" : "2022-02-06",
-  "keywords" : [ "xsd", ".xsd","what is a xsd file","how to open xsd file", "extension", "file", "xsd file","xsd file format",  ".xsd extension ,"xsd file example"],
+  "keywords" : [ "xsd", ".xsd","what is a xsd file","how to open xsd file", "extension", "file", "xsd file","xsd file format",  ".xsd extension" ,"xsd file example"],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
