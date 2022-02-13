@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "description":"Learn about PL file format and APIs that can create and open PL files.",
-  "title" : "PL - Perl File Format",
+  "title" : "PL File - Perl Script File Format",
   "linktitle" : "PL",
   "menu" : {
     "docs" : {
@@ -17,22 +17,18 @@
   "lastmod" : "2021-07-23"
 }
 
-## What is a PL file? ##
+## What is a PL file?
 
-This specific type of file format deals with a programming language known as Perl. These files contain the source code of this language. For compilation and to run the code of the Perl language a specific Perl Interpreter is used. 
+A file with .pl extension is a Perl Script file that is a scripting language. These are compiled and run using Perl Interpreter software. A PL script file contains lines of code, variables, and comments. Scripting languages are comparatively difficult to
+understand to other programming file formats such as [PHP](/programming/php/). PL files can be created and are compatible with Windows, macOS, and Linux.
 
-Perl is a scripting language and lines of code, variables, and comments are included in this file format. There is complexity and difficulty in understanding and reading these files as these contain code of specific syntax of Perl language. These files and this language are compatible with Windows, macOS, and Linux. 
-
-The PL files can be easily accessed by downloading and installing appropriate programs specified for this language and keeping in view the nature of the OS (either the downloaded program is compatible with Windows or macOS).
-
-
-## Brief History ##
+## Brief History of Perl Scripting Language
 
 This language was first kept in use in 1987, so these files got their origin in that year. In 1989 the Perl 2 was released. Later on, it has been updated and has been modified up to the 5.35 version, and the next version is targeted to be released next year.
 
 In every update, there have been added tools about the functionality, performance, and look of the language and files. There have been many revisions about the versions in these years. It was originally a basic scripting language but now it comprises many other modules too. Originally, it was a very simple language, but the scripts of this language were quite difficult to understand as they were compact.
 
-## File Format Specifications ##
+## Perl File Format Extension Specifications
 
 There are some properties or specifications of these programming files, some of them are as follows:
 
@@ -46,14 +42,14 @@ There are some properties or specifications of these programming files, some of 
 *	In the files, the first line of the source code describes the information of the interpreter being used. The PL files usually start with **#!/usr/bin/perl** line that tells your computer to run this script using a Perl interpreter installed in the computer
 
 
-## Examples ##
+## PL Script Examples
 
 ```
 #!/usr/bin/perl
 print "Hello, world\n";
 ```
 
-This will print 
+This will print
 
 ```
 Hello, World
