@@ -22,7 +22,7 @@
 An ASV file is an Adobe Photoshop Selective Color settings file. It contains color settings for CMYK (Cyan, magenta, yellow, and black) values presets that can be applied to raster images such as [PNG](/image/png/) and [BMP](/image/bmp/). ASV files can be exported and saved for sharing with other users over the internet. These can be loaded in Adobe Photoshop through the Selective Color dialog by using the Image->Adjustments->Selective Color option. Once loaded, these presets can be modified as well using Adobe Photoshop. ASV files can be loaded using
 relative or absolute method.
 
-[<img src="../asv.png" width="250"/>](asv.png)
+[<img src="asv.png" width="250"/>](../asv.png)
 
 ## ASV File Format - More Information
 
