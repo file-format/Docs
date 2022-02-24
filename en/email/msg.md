@@ -58,7 +58,7 @@ Message object can be shared between clients or message stores that use the .msg
 
 ## MSG File Example
 
-To get an idea of how a MSG file looks like, you can download a [sample MSG file](https://products.conholdate.app/viewer/view/AKMF7z0zyPcQ692Py/sample-msg-file.msg?preview=true.pdf) and open on your computer to view its contents.
+To get an idea of how a MSG file looks like, you can download a [sample MSG file](https://products.conholdate.app/viewer/view/mL7cmq6qYbcNG329P/sample-msg-file.msg) and open on your computer to view its contents.
 
 ## References
 
