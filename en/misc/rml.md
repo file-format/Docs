@@ -10,6 +10,7 @@
   "linktitle" : "RML",
   "menu" : {
     "docs" : {
+      "identifier":"misc-rml",
       "parent" : "misc"
     }
   },
