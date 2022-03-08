@@ -7,7 +7,7 @@
   "toc" : true,
   "title" : "PPP File - PhotoPad Project File Format",
   "description":"Learn about PSD file format and APIs that can create and open PSD files.",
-  "linktitle" : "PSD",
+  "linktitle" : "PPP",
   "menu" : {
     "docs" : {
       "parent" : "image"
