@@ -6,7 +6,7 @@ draft: false
 toc: true
 description: Learn about MPC file format and APIs that can create and open MPC files.
 title: NSA File Format - NullSoft Audio File
-linktitle: MPC
+linktitle: NSA
 menu:
   docs:
     parent: "audio"
