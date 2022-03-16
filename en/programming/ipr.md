@@ -16,7 +16,7 @@
   "lastmod" : "2021-09-13"
 }
 
-## What is an IPR file?
+## What is an IPR file? 
 
 IPR file is a project file created with the Java IDE **IntelliJ IDEA**. All the information related to project settings such as directory structure, source code files, libraries included in the project, and compiler settings are stored in the IPR files. When a project is opened from within IntelliJ IDEA, the IDE reads the information in the IPR file and loads the corresponding files and settings. IPR files have been replaced by the .IDEA files that contains all the information as Settings Directory.
 
