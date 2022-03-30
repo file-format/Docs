@@ -7,10 +7,11 @@
   "draft" : "false",
   "toc" : true,
   "description":"Learn about KEY file format and APIs that can create and open KEY files.",
-  "title" : "KEY - Keynote File Format",
+  "title" : "KEY File Format - Apple Keynote File Format",
   "linktitle" : "KEY",
   "menu" : {
     "docs" : {
+      "identifier":"presentation-key",
       "parent" : "presentation"
     }
   },
@@ -19,16 +20,16 @@
 
 ## What is a KEY file? ##
 
-The KEY files are used in Apple Keynote and are mostly present in the macOS package structure. This type of file format is used as more popular MS office programs mostly used for the preparation of presentations and assignments. 
+The KEY files are used in Apple Keynote and are mostly present in the macOS package structure. This type of file format is used as more popular MS office programs mostly used for the preparation of presentations and assignments.
 
-These are specified for the Keynote application which is used for designing, presenting, and saving a presentation. There have been some updates of this application released by Apple in recent years. 
+These are specified for the Keynote application which is used for designing, presenting, and saving a presentation. There have been some updates of this application released by Apple in recent years.
 
 While using this application the .key file can be sent through mail or message to other devices or for any other purpose. These can be opened in a Keynote application very quickly. You only have to open a new file, enter all of the information required for a presentation and then save it for later use.
 
 
 ## Brief History ##
 
-It was first launched in 2003 by Apple and was known as  Keynote 1.0. It was made compatible with Microsoft PowerPoint. In 2005, Apple added some tools for word processing and layout design of pages. After that Apple released iWork '06 along with some versions of keynote 3.0 and pages 2.0. These versions included some updates. 
+It was first launched in 2003 by Apple and was known as  Keynote 1.0. It was made compatible with Microsoft PowerPoint. In 2005, Apple added some tools for word processing and layout design of pages. After that Apple released iWork '06 along with some versions of keynote 3.0 and pages 2.0. These versions included some updates.
 
 Later on, in the fall of 2007, Keynote 4.0 was released by Apple along with the Numbers application which was specified for spreadsheets, Apple added various tools into this program and made it complete and free for any iOS device.
 
