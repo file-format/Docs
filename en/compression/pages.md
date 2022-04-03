@@ -1,20 +1,20 @@
-k,{
+{
   "date" : "2022-04-02",
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "PAGES File Format - Apple Pages Document File",
-  "description":"Learn about PAGES file format and APIs that can create and open PAGES files.",
+  "title" : "PAGES File Format - What is an Apple PAGES file?",
+  "description":"Learn to know what is an APPAGESK file and APIs that can create and open PAGES files.",
   "linktitle" : "PAGES",
   "menu" : {
     "docs" : {
-      "identifier":"compression-pages",
+      "identifier" : "compression-pages"
       "parent" : "compression"
     }
   },
-  "lastmod" : "2021-04-13"
+  "lastmod" : "2022-04-02"
 }
 
 ## What is a PAGES file?
