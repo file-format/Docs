@@ -10,7 +10,7 @@
   "linktitle" : "PAGES",
   "menu" : {
     "docs" : {
-      "identifier" : "compression-pages"
+      "identifier" : "compression-pages",
       "parent" : "compression"
     }
   },
