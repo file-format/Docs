@@ -7,7 +7,7 @@
   "toc" : true,
   "title" : "LESS File - LESS Style Sheet File",
   "description" : "Learn about LESS File Format and APIs to create and open LESS files.",
-  "linktitle" : "MHT",
+  "linktitle" : "LESS",
   "menu" : {
     "docs" : {
       "parent" : "web"
@@ -18,7 +18,7 @@
 
 ## What is a LESS file?
 
-A LESS file is a style sheet used for webpages and created with the Leaner Style Sheets (LESS). It implements additions to the standard CSS language, that makes it easy to learn and implement. A LESS file extends the CSS by adding features such as Variables, Mixins, Nesting, Operations, Functions, Namespaces and Accessors.
+A LESS file is a style sheet used for webpages and created with the Leaner Style Sheets (LESS). It implements additions to the standard CSS language, that makes it easy to learn and implement. A LESS file extends the [CSS](/web/css/) by adding features such as Variables, Mixins, Nesting, Operations, Functions, Namespaces and Accessors.
 
 ## Leaner Style Sheets File Format
 

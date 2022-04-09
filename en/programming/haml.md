@@ -7,7 +7,7 @@
   "toc" : true,
   "title" : "HAML File Format - Haml Source Code File",
   "description":"Learn about HAML file format and APIs that can create and open HAML file.",
-  "linktitle" : "H",
+  "linktitle" : "HAML",
   "menu" : {
     "docs" : {
       "parent" : "programming"
