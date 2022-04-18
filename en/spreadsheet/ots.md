@@ -25,7 +25,7 @@ A file with .ots extension is an OpenDocument Spreadsheet Template file that is 
 
 OTS files are saved in OASIS' OpenDocument XML-based file format that comprises of a collection of several subdocuments with a package as a [ZIP](/compression/zip/) archive. Each zip archive stores part of the complete document and each subdocument stores a particular aspect of the document. For example, one subdocument contains the style information and another subdocument contains the content of the document. A typical ODF document has the following components:
 
-### Content.xml
+### OTS Content.xml
 
 The content.xml file contains the actual content of the document. This doesn't include binary data such as images, however.
 ```
@@ -38,7 +38,7 @@ The content.xml file contains the actual content of the document. This doesn't i
 </text:p>
 ```
 
-### Styles.xml
+### Styles.xml of OTS File Format
 
 The styles.xml file contains styling information and is heavily used for formatting and layout. Styles types include:
 
