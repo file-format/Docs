@@ -7,7 +7,7 @@
   "toc" : true,
   "title" : "NEF File Format - Nikon Electronic Format RAW Image",
   "description":"Learn about NEF file format and APIs that can create and open NEF files.",
-  "linktitle" : "MPO",
+  "linktitle" : "NEF",
   "menu" : {
     "docs" : {
       "parent" : "image"
