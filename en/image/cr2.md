@@ -19,7 +19,7 @@
 
 ## What is a CR2 file?
 
-A CR2 (Camera RAW 2) file is a RAW image file created by Canon digital cameras. It stores the original non-processes lossless image data captured by the camera. CR2 file format was developed by Canon for its digital cameras and can record high-qulaity images of up to 14 bits of RGB. This produces high quality images with enough room of post processing. CR2 image format has been used by Canon in their 350D, 20D and 1D camera models. CR2 files are RAW files and contain additional metadata information such as camera information, lens info, bracketing information, white balance and other settings.
+A CR2 (Camera RAW 2) file is a RAW image file created by Canon digital cameras. It stores the original non-processed lossless image data captured by the camera. CR2 file format was developed by Canon for its digital cameras and can record high-qulaity images of up to 14 bits of RGB. This produces high quality images with enough room of post processing. CR2 image format has been used by Canon in their 350D, 20D and 1D camera models. CR2 files are RAW files and contain additional metadata information such as camera information, lens info, bracketing information, white balance and other settings.
 
 ## CR2 File Format
 

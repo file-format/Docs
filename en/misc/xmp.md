@@ -20,7 +20,7 @@
 
 ## What is an XMP file?
 
-XMP files are metadata that contain the edits made to a camera raw file, such as an .CR2 or NEF. They're automatically generated and saved in the same directory alongside their corresponding jpeg images. XMP was created by Adobe Systems Inc. for creation, processing, and interchange of standardized and custom metadata for digital documents and data sets. It was accepted as an **ISO standard 16684-1:2019 part 1 & ISO 16684-2:2014 part 2**. XMP is a registered trademark of Adobe Systems Incorporated.
+XMP files are metadata files that contain the edits made to a camera raw files, such as [CR2](/image/cr2/) or [NEF](/image/nef/). They're automatically generated and saved in the same directory alongside their corresponding JPEG images. XMP was created by Adobe Systems Inc. for creation, processing, and interchange of standardized and custom metadata for digital documents and data sets. It was accepted as an **ISO standard 16684-1:2019 part 1 & ISO 16684-2:2014 part 2**. XMP is a registered trademark of Adobe Systems Incorporated.
 
 ## XMP File Format - More Information
 
