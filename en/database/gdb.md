@@ -1,27 +1,26 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "filegdb file", "what is an filegdb file", "file", "filegdb example", "filegdb file extension","extension", "format" ],
+  "date" : "2022-05-08",
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "FileGDB - ESRI File Geodatabase Format",
-  "description":"Learn about FileGDB file format and APIs that can create and open FileGDB files.",
-  "linktitle" : "FileGDB",
+  "title" : "GDB File Format - ESRI File Geodatabase File",
+  "description":"Learn about GDB file format and APIs that can create and open GDB files.",
+  "linktitle" : "GDB",
   "menu" : {
     "docs" : {
-      "parent" : "gis"
+      "parent" : "database"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod" : "2022-05-08"
 }
 
-## What is a FileGDB file?
+## What is a GDB file?
 
 ESRI file Geodatabase (FileGDB) is a collection of files in a folder on disc that hold related geospatial data such as feature datasets, feature classes and associated tables. It requires certain other files to be kept alongside the .gdb file in the same directory for it to work. Queries can be executed on the .gdb file to manage spatial as well as non-spatial data.
 
-## FileGDB Format
+## GDB File Format - More Information
 
 File geodatabases are made up of seven system tables plus user data. User data can be stored in the following types of datasets:
 
@@ -51,7 +50,7 @@ File geodatabases can also contain subtypes and domains and participate in check
 
 A file geodatabase can be accessed simultaneously by several users. If the users are editing, they must edit different datasets.
 
-## File Format Specifications ##
+## GDB File Format Specifications ##
 
 File GDB is ESRI proprietary format and its specifications are not available publicly. Due to this reason, the file format details for FIle GDB could not be documented anywhere other than some sources who have done it [partially](https://github.com/rouault/dump_gdbtable/wiki/FGDB-Spec) by reverse engineering.
 
