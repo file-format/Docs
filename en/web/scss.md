@@ -5,7 +5,7 @@ author:
   display_name: Muhammad Ahmad Chishti
 draft: false
 toc: true
-title: SCSS File Format
+title: SCSS File Format - Sass Cascading Style Sheet
 linktitle: SCSS
 description: Learn about SCSS file format and APIs that can create and open SCSS files.
 menu:
