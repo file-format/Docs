@@ -10,6 +10,7 @@ linktitle: SSP
 description: Learn about what is an SSP file format and APIs that can create and open SSP files.
 menu:
   docs:
+    identifier: "web-ssp"
     parent: "web"
 lastmod: 2021-09-30
 ---
