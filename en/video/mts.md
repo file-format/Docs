@@ -10,7 +10,7 @@
   "linktitle" : "MTS",
   "menu" : {
     "docs" : {
-      "parent" : ""
+      "parent" : "video"
     }
   },
   "lastmod" : "2021-07-27"
