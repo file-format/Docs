@@ -18,7 +18,7 @@
 
 ## What is Oracle TRM file?
 
-A TRM file is a metadata file format used by Oracle 11g relational database management system (RDBMS). It is stored alongside the Oracle Trace files (.trc) and contains structural information about the trace file. The purpose of TRM file is to facilitate for searching and navigation the records using the metadata informaiton. Oracle software can be used to open TRM files.
+A TRM file is a metadata file format used by Oracle 11g relational database management system (RDBMS). It is stored alongside the Oracle Trace files ([.trc](/database/trc/)) and contains structural information about the trace file. The purpose of TRM file is to facilitate for searching and navigation the records using the metadata informaiton. Oracle software can be used to open TRM files.
 
 ## TRM File Format
 
