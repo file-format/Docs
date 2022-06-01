@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "P7B - PKCS \#7 Certificate File",
+  "title" : "P7B - PKCS 7 Certificate File",
   "description":"Learn about P7C file format and APIs that can create and open P7C files.",
   "linktitle" : "P7B",
   "menu" : {
