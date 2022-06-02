@@ -18,9 +18,9 @@
 
 ## What is an ICS file?
 
-The Internet Calendaring and Scheduling Core Object Specification (iCalendar) is an internet standard(RFC 2445) for exchanging and deploying the calendaring events and scheduling.  The iCalendar format is interoperable, thereby ensuring the exchange of calendar information among the users having different email applications. iCalendar formats the input data as a Multipurpose Internet Mail Extensions (MIME) and facilitates the object exchanged via different transport protocols. These transport protocols can be SMTP, HTTP, point-to-point asynchronous communication, and physical media based-network transport. iCalendar allows users to share events, date/time dependent tasks, and free/busy information via emails to other users who can respond back. iCalendar files store using suffixes  ".ics" ".iCalendar" or ".ifb" with a MIME type of "text/calendar".
+The Internet Calendaring and Scheduling Core Object Specification (iCalendar) is an internet standard(RFC 2445) for exchanging and deploying the calendaring events and scheduling.  The iCalendar format is interoperable, thereby ensuring the exchange of calendar information among the users having different email applications. iCalendar formats the input data as a Multipurpose Internet Mail Extensions (MIME) and facilitates the object exchanged via different transport protocols. These transport protocols can be SMTP, HTTP, point-to-point asynchronous communication, and physical media based-network transport.
 
-iCalendar is kept to be self-reliant without any transport protocol dependency. Web servers (with HTTP protocol) can transport iCalendar information and web pages can contain iCalendar data in embedded form using iCalendar.
+iCalendar allows users to share events, date/time dependent tasks, and free/busy information via emails to other users who can respond back. iCalendar files store using suffixes  ".ics" ".iCalendar" or ".ifb" with a MIME type of "text/calendar". iCalendar is kept to be self-reliant without any transport protocol dependency. Web servers (with HTTP protocol) can transport iCalendar information and web pages can contain iCalendar data in embedded form using iCalendar.
 
 ## Brief History of ICS File Format
 
@@ -54,7 +54,7 @@ Some properties can have multiple values. Simply generating a new content line w
 
 Within an iCalendar object, property value can reference a binary content data placed in an external MIME entity using a URI. Inline binary content can be used in special situations with "ENCODING" parameter, where application need to express an iCalendar object as a sole entity. The following example explain an "ATTACH" property with a URI reference:
 
-ATTACH: http://pattern.com/reports/monthly-ledger.doc
+ATTACH: [File Format](https://products.conholdate.app/viewer/view/KDDURXKkLk/fileformat.doc)
 
 ### Character Set ###
 
