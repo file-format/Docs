@@ -42,7 +42,7 @@ This shows that:
 * A 12-byte preamble, entitled the header.
 * One or more chunks that contains JSON content and binary data.
 
-#### Header ####
+#### Header
 
 The GLB file format header consists of three 4-byte entries:
 
@@ -50,10 +50,9 @@ The GLB file format header consists of three 4-byte entries:
 * uint32 version - indicates the version of Binary glTF container format
 * uin32 length - the total length of the Binary glTF, including Header and all chunks in bytes
 
-#### Chunks ####
+#### Chunks
 
 Each chunk in a GLB file has the following structure:
-
 
 |uint32|uint32|ubyte[]
 ---|---|---|
@@ -65,7 +64,6 @@ Each chunk in a GLB file has the following structure:
 
 where the chunk types are:
 
-
 |# |Chunk Type|ASCII|Description|Occurrences
 ---|---|---|---|---|
 |1.|0x4E4F534A|JSON|Structured JSON content|1
@@ -73,7 +71,7 @@ where the chunk types are:
 
 The start and end of each chunk must be aligned to 4-byte boundary and padding should be used for this purpose.
 
-##### Structured JSON Content #####
+##### Structured JSON Content
 
 This should be the very first chunk of Binary glTF asset and enables the implementation to progressively retrieve resources from subsequent chunks. This also provides the capability to read only a selected subset of resources from a Binary glTF asset such as the coarsest LOD of a mesh. In order to meet the alignment requirements, this chunk must be padded with trailing Space chars (0x20).
 

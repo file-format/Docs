@@ -17,7 +17,7 @@
   "lastmod" : "2022-01-03"
 }
 
-## What is an WBFS file?
+## What is a WBFS file?
 
 A WBFS (Wii Backup File System) file is a video game disk image created for Nintendo Wii. It contains a Wii game that can be loaded as an image for playing. It is generated using the Wiimms WBPS tool or Wii Backup Manager and can be played on a Nintendo Wii by loading from a USB Loader GX or Wii emulator such as Dolphin. The game is stored on these external storage devices using the WBFS file format. The Wii is a gaming platform distributed by Nintendo. WBFS file system was developed by Wii homebrew coder Waninkoko.
 

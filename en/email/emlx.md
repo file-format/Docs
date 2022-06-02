@@ -20,11 +20,11 @@
 
 The EMLX file format is implemented and developed by Apple. The Apple Mail application uses the EMLX file format for exporting the emails. There are other applications as well that can open the EMLX files and convert these to other file formats.
 
-## Brief History ##
+## Brief History of EMLX File Format
 
 Mac OS X operating system adopted the existing email program, NeXTMail, created by NeXT as part of the NeXTSTEP operating system. Apple after acquiring NeXT uplifted its features and it became the now Apple Mail email application to be used as default mail client. Emails exported via Apple Mail are directly saved as EMLX files. In addition, it is the default mail client for EMLX files when someone opens these by double-clicking on Mac OS.
 
-## EMLX File Format ##
+## EMLX File Format
 
 EMLx files are simple text based files that can be opened in any text editor like Notepad. The EMLX file structure consists of three parts:
 
@@ -106,7 +106,3 @@ In this example, the 875 shows the total length of message. The message metadata
 
 * [EML](/email/eml/)
 * [MSG](/email/msg/)
-
-## References ##
-
-* [EMLX Flags](https://www.jwz.org/blog/2005/07/emlx-flags/)

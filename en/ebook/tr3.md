@@ -19,9 +19,9 @@
 
 ## What is a TR3 file? ##
 
-TR3 file is a TomeRaider 3 eBook that provides support for fast searching and compression. That can function properly through TomeRaider related program. Yadabyte is the developer of this software, a British software, and web development company based in the UK. The TomeRaider eBook reader application can be used for proper functioning and managing the content of these TR3 files. This related eBook reader can be installed in computers running on Microsoft Windows-based systems and many transferrable gadgets. TR3 file belongs to the group of eBook Files used in operational systems such as Windows 10, Windows 7, Windows 8 / 8.1, Windows Vista, Windows XP. 
+TR3 file is a TomeRaider 3 eBook that provides support for fast searching and compression. That can function properly through TomeRaider related program. Yadabyte is the developer of this software, a British software, and web development company based in the UK. The TomeRaider eBook reader application can be used for proper functioning and managing the content of these TR3 files. This related eBook reader can be installed in computers running on Microsoft Windows-based systems and many transferrable gadgets. TR3 file belongs to the group of eBook Files used in operational systems such as Windows 10, Windows 7, Windows 8 / 8.1, Windows Vista, Windows XP.
 
-TR3 specific [HTML tags](http://www.yadabyte.com/TR3Tutorial/TR3_tag.htm) are as follow:
+TR3 specific **HTML tags** are as follow:
 
 |Tag|Description|
 ---|---|
