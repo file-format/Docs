@@ -46,17 +46,17 @@ name@example.com
 DATE;VALUE#DATE:20170304,20180504,2015704,201270904
 ```
 
-### Multiple Values ###
+### Multiple Values
 
 Some properties can have multiple values. Simply generating a new content line with the property name is the basic rule for multi-valued properties. However, for a single value with multiple language variations must not use multi-valued properties.
 
-### Binary Content ###
+### Binary Content
 
 Within an iCalendar object, property value can reference a binary content data placed in an external MIME entity using a URI. Inline binary content can be used in special situations with "ENCODING" parameter, where application need to express an iCalendar object as a sole entity. The following example explain an "ATTACH" property with a URI reference:
 
-ATTACH: [File Format](https://products.conholdate.app/viewer/view/KDDURXKkLk/fileformat.doc)
+ATTACH: https://products.conholdate.app/viewer/view/KDDURXKkLk/fileformat.doc
 
-### Character Set ###
+### Character Set
 
 Though default charset scheme for an iCalendar is UTF-8 yet no property parameter is specified to define the charset of a property value. in MIME transfers "charset" parameter MUST be used for existing charset.
 
