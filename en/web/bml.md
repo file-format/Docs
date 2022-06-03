@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "BML File Format",
+  "title" : "BML File Format - Bean Markup Language File",
   "description":"Learn about BML file format and APIs that can create and open BML files.",
   "linktitle" : "BML",
   "menu" : {
