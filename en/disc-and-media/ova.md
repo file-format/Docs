@@ -35,4 +35,4 @@ As mentioned, an OVA file is an archive file that is created using the OVF direc
 
 * [OVA File Formats and Templates](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-AE61948B-C2EE-436E-BAFB-3C7209088552.html)
 * [Open Virtualization Format - DMTF](https://www.dmtf.org/standards/ovf)
-* [OVF File Format Specifications](https://www.dmtf.org/sites/default/files/standards/documents/DSP0243_1.1.0.pdf)
+* [OVF File Format Specifications](https://products.conholdate.app/viewer/view/kK6foWkW7YcovgLrz/open-virtualization-format-specification-dsp0243_1-1-0.pdf?preview=true.pdf)

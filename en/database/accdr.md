@@ -27,7 +27,6 @@ ACCDR files are binary files that are of the same structure as the ACCDB files b
 
 ## References
 
-* [ACCDR Read-Only Files](https://answers.microsoft.com/en-us/msoffice/forum/all/access-2007-runtime-accdr-file-is-read-only-in/6c81b040-7715-40e0-9cdb-b905e249c931)
 * [Access File Format](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41?redirectSourcePath=%252fen-us%252farticle%252fIntroduction-to-the-Access-2007-file-format-8cf93630-0b68-4a40-a13c-7528b9f074b6&ui=en-US&rs=en-US&ad=US)
 * [Access 2016 Specifications](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c?ui=en-us&rs=en-us&ad=us)
 * [Microsoft Jet Database Engine](https://en.wikipedia.org/wiki/Microsoft_Jet_Database_Engine)

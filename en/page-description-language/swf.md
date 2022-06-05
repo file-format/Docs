@@ -25,7 +25,7 @@ SWF is a tagged format provides extended feature while remains compatible with o
 
 The SWF file format is a binary format that keeps the file size small while bit-packing and structures are the commonly used techniques. The format keep simple to facilitate Flash Player which can be easily ported. Files themselves are self-sufficient in a way, there is no need of any external resource such as fonts. With limited resources (hardware) the files work well and can take advantage of better resources when resources improve. This capability is vital because monitors have diverse resolutions and bit depths.
 
-## History ##
+## History of SWF File Format
 
 This format was originally designed by FutureWave Software, to display animations with intention to run on a player software on any system with slower network connections, while keeping the file size small. In December 1996 Macromedia owned FutureWave and converted to Macromedia Flash 1.0.
 
@@ -63,5 +63,4 @@ Several versions of SWF format have been evolved so far. Newer version from SWF 
 
 ## References ##
 
-* [SWF file-format specification](https://www.adobe.com/content/dam/acom/en/devnet/pdf/swf-file-format-spec.pdf)
 * [SWF file-format](https://en.wikipedia.org/wiki/Swf)

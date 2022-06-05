@@ -20,7 +20,7 @@
 
 ## What is an ABC file?
 
-A file with .abc extension is an ActionScript Byte Code File created by Flash compiler as a result of compiling the ActionScript script files. The byte code contained in the ABC file is executed by the [ActionScript Virtual Machine](https://www.adobe.com/content/dam/acom/en/devnet/pdf/avm2overview.pdf) (AVM and AVM2). The byte code comprises of constant data, instructions from the AVM2 instruction set, and various kinds of metadata. When an ABC file is loaded into the AVM or AVM2, it undergoes verification. If it does not conform to the AVM2 Overview, it is rejected. ABC files can be opened in Adobe Flash Player that has been discontinued long time ago.
+A file with .abc extension is an ActionScript Byte Code File created by Flash compiler as a result of compiling the ActionScript script files. The byte code contained in the ABC file is executed by the ActionScript Virtual Machine (AVM and AVM2). The byte code comprises of constant data, instructions from the AVM2 instruction set, and various kinds of metadata. When an ABC file is loaded into the AVM or AVM2, it undergoes verification. If it does not conform to the AVM2 Overview, it is rejected. ABC files can be opened in Adobe Flash Player that has been discontinued long time ago.
 
 ## ABC File Format - More Information
 

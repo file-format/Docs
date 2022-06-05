@@ -42,7 +42,7 @@ The PDF/UA standard defines specifications for content, readers and assistive te
 
 ## Conforming Files ##
 
-Files conforming to PDF/UA standard should contain features that are valid as per the [PDF 1.7 specifications](https://www.adobe.com/content/dam/acom/en/devnet/pdf/pdfs/PDF32000_2008.pdf). However, features that are forbidden by PDF/UA specifically should be excluded.
+Files conforming to PDF/UA standard should contain features that are valid as per the [PDF 1.7 specifications](http://www.adobe.com/go/pdfreference). However, features that are forbidden by PDF/UA specifically should be excluded.
 
 ## Conforming Readers ##
 

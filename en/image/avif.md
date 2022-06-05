@@ -30,5 +30,4 @@ The two biggest problems with AVIF at the moment are encoding speed and the lack
 
 ## References ##
 
-- [AVIF - Wikipedia](https://en.wikipedia.org/wiki/AV1#AV1_Image_File_Format_(AVIF))
-- [Introducing support for the AVIF image format](https://blog.cloudflare.com/generate-avif-images-with-image-resizing/)
+ * [AVIF - Wikipedia](https://en.wikipedia.org/wiki/AV1#AV1_Image_File_Format_(AVIF))

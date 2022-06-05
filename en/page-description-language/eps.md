@@ -33,7 +33,7 @@ EPS, in combination with the Open Structuring Conventions extension mechanism de
 
 ## EPS File Format
 
-EPS is a proprietary but publicly documented format and [EPS file format specifications](http://www.adobe.com/content/dam/acom/en/devnet/actionscript/articles/5002.EPSF_Spec.pdf) are available publicly for developer's reference. EPS is a [DSC](https://en.wikipedia.org/wiki/Document_Structuring_Conventions) (Document Structuring Convention) conforming file format and adheres to all the rules established by the DSC. The DSC is a special file format for PostScript documents by Adobe. Any application that claims to be able to read EPS files should be DSC-compliant.
+EPS is a proprietary but publicly documented format and EPS file format specifications are available publicly for developer's reference. EPS is a [DSC](https://en.wikipedia.org/wiki/Document_Structuring_Conventions) (Document Structuring Convention) conforming file format and adheres to all the rules established by the DSC. The DSC is a special file format for PostScript documents by Adobe. Any application that claims to be able to read EPS files should be DSC-compliant.
 
 An EPS file consists of two main sections as explained below.
 
@@ -45,7 +45,7 @@ A typical EPS file contains a preview image in a format intended for convenient 
 * for DOS computers, a TIFF bitmap
 * Windows Metafile.
 
-PICT and Windows Metafile can incorporate both bitmap data and vector graphics. In addition, the specification defines a very simple device-independent representation for an embedded bitmapped preview image. This representation is known as Encapsulated PostScript Interchange Format (EPSI). 
+PICT and Windows Metafile can incorporate both bitmap data and vector graphics. In addition, the specification defines a very simple device-independent representation for an embedded bitmapped preview image. This representation is known as Encapsulated PostScript Interchange Format (EPSI).
 
 An EPSI preview is a bitmap represented as ASCII hexadecimal, wrapped between a few PostScript comments for identification and intended to be simple and easily transportable. In order to distinguish EPS files with the different preview formats, different DOS file extensions and Macintosh file types were recommended in the EPS specification.
 
@@ -77,7 +77,7 @@ An EPS file can not use any of the following operators:
 
 ## Conversion of EPS to Other File formats
 
-EPS files can be converted to standard image formats such as [JPG](/image/jpeg/), [PNG](/image/png/), [TIFF](/image/tiff/) and [PDF](/pdf/) using different applications e.g. Adobe Illustrator, Photoshop and PaintShop Pro. 
+EPS files can be converted to standard image formats such as [JPG](/image/jpeg/), [PNG](/image/png/), [TIFF](/image/tiff/) and [PDF](/pdf/) using different applications e.g. Adobe Illustrator, Photoshop and PaintShop Pro.
 
 Because of a [security vulnerability](https://support.office.com/en-us/article/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e-a1b5-cbb0c334a840) in EPS files, Office 2016, Office 2013, Office 2010, and Office 365 have turned off the ability to insert EPS files into Office documents.
 

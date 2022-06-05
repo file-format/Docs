@@ -19,7 +19,9 @@
 
 ## What is an IFC file?
 
-Files with IFC extension refer to  Industry Foundation Classes (IFC) file format that establishes international standards to import and export building objects and their properties. This file format provides interoperability between different software applications. Specifications for this file format are developed and maintained by buildingSMART International as its Data Standard. The ultimate objective of IFC file format is to improve communication, productivity, delivery time and quality throughout the life cycle of a building. Due to the established standards for common objects in the building industry, it reduces the loss of information during transmission from one application to another. IFC can hold data for geometry, calculation, quantities, facility management, pricing etc. for many different professions (architect, electrical, HVAC, structural, terrain etc.).
+Files with IFC extension refer to  Industry Foundation Classes (IFC) file format that establishes international standards to import and export building objects and their properties. This file format provides interoperability between different software applications. Specifications for this file format are developed and maintained by buildingSMART International as its Data Standard. The ultimate objective of IFC file format is to improve communication, productivity, delivery time and quality throughout the life cycle of a building.
+
+Due to the established standards for common objects in the building industry, it reduces the loss of information during transmission from one application to another. IFC can hold data for geometry, calculation, quantities, facility management, pricing etc. for many different professions (architect, electrical, HVAC, structural, terrain etc.).
 
 ## Brief History ##
 
@@ -36,7 +38,7 @@ The IFC file format has undergone several changes over the past to reach the fil
 * IFC 2x2IFC 2x Addendum 1ifcXML1 for IFC2x and
 * IFC2x Addendum 1IFC 2xIFC 2.0IFC 1.5.1IFC 1.5
 
-The latest versions of IFC file format specifications are always available on buildingSMART website and developer should consult these for any type of applications they plan to develop. As of writing this article, the version 4 [Addendum2](http://www.buildingsmart-tech.org/ifc/IFC4/Add2/html/) specifications are the latest ones available online.
+The latest versions of IFC file format specifications are always available on buildingSMART website and developer should consult these for any type of applications they plan to develop. As of writing this article, the version 4 specifications are the latest ones available online.
 
 ### IFC Data File Formats ###
 
@@ -66,5 +68,4 @@ The data schema architecture of IFC defines four conceptual layers, each individ
 
 ## References ##
 
-* [IFC Specifications - By buildSmart](http://www.buildingsmart-tech.org/specifications)
 * [Industry Foundation Classes - By Wikipedia](https://en.wikipedia.org/wiki/Industry_Foundation_Classes)

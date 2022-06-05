@@ -21,7 +21,7 @@
 
 DNG is a digital camera image format used for the storage of raw files. It has been developed by Adobe in September 2004. It was basically developed for digital photography. DNG is an extension of [TIFF](/image/tiff/)/EP standard format and uses metadata significantly. In order to manipulate raw data from digital cameras with the ease of flexibility and artistic control, photographers opt camera raw files. JPEG and TIFF formats store images that are processed by the camera, therefore, not much room for alteration is available in such formats.
 
-## History and Versions
+## History and Versions of DNG File Format
 
 Till now there have been 5 versions of DNG specification so far. Version 1.0.0.0 was launched in September 2004 along with the release of "2.3" (ACR and DNG Converter). In February 2005 version 1.1.0.0 was published.  In May 2008 version 1.2.0.0 was released and was used in "4.4". Version 1.3.0.0 was published in June 2009. Version 1.4.0.0 appeared in 2012.
 
@@ -76,7 +76,7 @@ The following values are supported for the raw IFD, and are assumed to be the ca
 
 Orientation tag is used for file browsers so that they can perform lossless rotation of DNG files. DNG readers must support all possible orientations, including mirrored orientations.
 
-## Features in Latest Version ##
+## Features in Latest Version of DNG
 
 DNG Version 1.4 October 2012 has the following advanced features.
 
@@ -88,6 +88,6 @@ DNG Version 1.4 October 2012 has the following advanced features.
 
 ## References ##
 
-* [DNG Specifications - By Adobe](https://www.adobe.com/content/dam/acom/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf)
+* [DNG Specifications - By Adobe](https://www.kronometric.org/phot/processing/DNG/dng_spec_1.4.0.0.pdf)
 * [Digital Negative - Wikipedia](https://en.wikipedia.org/wiki/Digital_Negative)
 * [DNG - The public archival format for digital camera raw data](https://helpx.adobe.com/photoshop/digital-negative.html)

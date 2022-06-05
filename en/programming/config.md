@@ -18,7 +18,7 @@
 }
 
 ## What is a CONFIG file?
-A CONFIG file is known as configuration file; used to configure the parameters and primary settings for several computer softwares. Some softwares only read their **configuration files** at their startup. Others check the configuration files for changes periodically. 
+A CONFIG file is known as configuration file; used to configure the parameters and primary settings for several computer softwares. Some softwares only read their **configuration files** at their startup. Others check the configuration files for changes periodically.
 
 ## CONFIG File format
 The **CONFIG File format** is used for server processes, software applications, and operating system settings. A programmer can write code to instruct a software to read the configuration files again and again after certain time of period and apply the changes to the current process. There are no definitive standards or strong conventions for CONFIG file sysntax. For example, Microsoft's Web.config file belongs to the CONFIG file format, which consists of an [XML](https://docs.fileformat.com/web/xml/) based tagsets; can be edited with Microsoft Visual Studio or any other text editor.
@@ -95,7 +95,4 @@ use_anonymous = True
 
  * [Understanding Linux configuration files](https://developer.ibm.com/technologies/linux/articles/l-config/)
  * [Configuration and credential file settings](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
- * [Using the SSH Config File](https://linuxize.com/post/using-the-ssh-config-file/)
  * [Configuration files in Python](https://martin-thoma.com/configuration-files-in-python/)
- 
- 

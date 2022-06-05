@@ -27,5 +27,4 @@ WBFS are binary files that have proprietary file format. Its file format specifi
 
 ## References
 
-* [WBFS - Wikipedia](https://en.wikipedia.org/wiki/Wii_Backup_File_System)
 * [WIIMMS ISO Tools](https://github.com/Wiimm/wiimms-iso-tools)

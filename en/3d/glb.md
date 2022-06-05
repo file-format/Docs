@@ -33,11 +33,7 @@ GLB as a container format was introduced as binary file format for representatio
 
 ## GLB File Structure
 
-GLB file format is based on little endian and its structure is as shown below:
-
-![GLB File Structure](https://github.com/KhronosGroup/glTF/raw/master/specification/2.0/figures/glb2.png "GLB File Structure")
-
-This shows that:
+GLB file format is based on little endian and its structure shows that it contains:
 
 * A 12-byte preamble, entitled the header.
 * One or more chunks that contains JSON content and binary data.
