@@ -56,4 +56,3 @@ typedef struct _PcxHeader
 ## References
 
 * [PCX - By Wikipedia](https://en.wikipedia.org/wiki/PCX)
-* [Encyclopedia of graphics file formats (2nd ed.)](https://dl.acm.org/doi/10.5555/231955)

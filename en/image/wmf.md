@@ -21,18 +21,13 @@
 
 Files with WMF extension represent Microsoft Windows Metafile (WMF) for storing vector as well as bitmap-format images data. To be more accurate, WMF belongs to the vector file format category of Graphics file formats that is device independent. Windows Graphical Device Interface (GDI) uses the functions stored in a WMF file to display an image on the screen. A more enhanced version of WMF, known as Enhanced Meta Files (EMF), was published later that makes the format more feature rich. Practically, WMF are similar to SVG.
 
-## File Format Specifications ##
+## WMF File Format Specifications ##
 
 A WMF file referred to 16-bit file format at the time of its launching with Windows 3.0. The file format consists of a series of variable-length records that contain graphics drawing commands, object definitions and properties. Since WMF files are based on commands rendered to the GDI for drawing the image, it is also known as a digital recording of the image which can be played back to reproduce that image. The complete file format specifications of WMF are available online and should be referred for development of applications to work with WMF files. A WMF file is organized into a:
 
 * WMF Header Record
 * WMF Record (s)
 * WMF End-of-File Record
-
-as illustrated in the following figure.
-
-![Structures of original and placeable Windows metafiles](https://i-msdn.sec.s-msft.com/dynimg/IC871269.png "Structures of original and placeable Windows metafiles")
-
 
 ### WMF Header Record ###
 

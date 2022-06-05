@@ -36,4 +36,4 @@ XMP files contain metadata information about various aspects of the raw image. I
 ## References
 
 * [Extensible Metadata Platform - Wikipedia](https://en.wikipedia.org/wiki/Extensible_Metadata_Platform)
-* [XMP Specifications Part 3](https://wwwimages2.adobe.com/content/dam/acom/en/devnet/xmp/pdfs/XMP%20SDK%20Release%20cc-2016-08/XMPSpecificationPart3.pdf)
+* [XMP Specifications Part 3](https://developer.adobe.com/xmp/docs/XMPSpecifications/)

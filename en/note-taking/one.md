@@ -24,8 +24,6 @@ File represented by .ONE extension are created by Microsoft OneNote application.
 
 The OneNote file format provides an effective way for representing digital notes as hierarchical sets of sections and pages. Each page contains user-defined content in a specific structure for representation by the file format Document Object Model (DOM). The data model of for this format is as illustrated below.
 
-![Data model of the OneNote File Format](https://i-msdn.sec.s-msft.com/dynimg/IC871934.png "Data model of the OneNote File Format")
-
 ### Structure Overview ###
 
 As illustrated in the data model for OneNote file format, a OneNote document consists of different elements.

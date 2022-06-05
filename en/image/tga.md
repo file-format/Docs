@@ -102,5 +102,5 @@ The last 26 bytes of the file represent the footer, which if present means its l
 
 ## References
 
- * [TGA 2.0 File Format Specifications](http://www.dca.fee.unicamp.br/~martino/disciplinas/ea978/tgaffs.pdf)
+ * [TGA 2.0 File Format Specifications](https://products.conholdate.app/viewer/view/rVqTeZPLAL/tga-file-format-specifications.pdf?default=view&preview = true.pdf)
  * [TGA by Wikipedia](https://en.wikipedia.org/wiki/Truevision_TGA)

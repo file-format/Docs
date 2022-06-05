@@ -47,4 +47,3 @@ The JPX file format allows the image codestream to be divided into fragments. Th
 ## References ##
 
 * [Overview of JPEG 2000](https://jpeg.org/jpeg2000)
-* [JPEG 2000 Extensions - ISO/IEC 15444-2:2004](https://library.conholdate.app/view/QYjS9WNWawfV47mvb/iso-15444-2-annex-m.pdf?preview=true.pdf)

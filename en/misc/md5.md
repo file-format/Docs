@@ -36,5 +36,4 @@ md5sum -c abc_987_123456.grb.md5
 
 ## References
 
-* [NOAA - MD5 Hash Files](https://www.ncdc.noaa.gov/nomads/documentation/user-guide/MD5-hash-files)
 * [md5sum - Wikipedia](https://en.wikipedia.org/wiki/Md5sum)
