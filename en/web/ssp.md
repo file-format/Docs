@@ -5,7 +5,7 @@ author:
   display_name: Kashif Iqbal
 draft: false
 toc: true
-title: SSP - Scala Server Pages
+title: SSP - Scala Server Pages File Format
 linktitle: SSP
 description: Learn about what is an SSP file format and APIs that can create and open SSP files.
 menu:
@@ -15,7 +15,7 @@ menu:
 lastmod: 2021-09-30
 ---
 
-## What is a SSP file?
+## What is an SSP file?
 
 A file with .ssp extension is web page created with Scala code for expressions instead of plain HTML only. It acts as a server side script using the combination of HTML and Scala. These files reside on the server and are used to create static webpages to be served to users. Scala itself is a general-purpose programming language whose syntax is familiar to users who have worked with Velocity, JSP or Erb. SSP files can be analyzed and evaluated using [Scalate](https://scalate.github.io/scalate/) which is a Scala based template engine for generating text and markup.
 
