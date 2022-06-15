@@ -5,9 +5,9 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to know what is an \_XLSX file and APIs that can create and open \_XLSX files.",
-  "title" : "What is an \_XLSX file?",
-  "linktitle" : "\_XLSX",
+  "description" : "Your file format guide to know what is an _XLSX file and APIs that can create and open _XLSX files.",
+  "title" : "What is an _XLSX file?",
+  "linktitle" : "_XLSX",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"
@@ -16,13 +16,13 @@
   "lastmod" : "2021-11-22"
 }
 
-## What is a \_XLSX file?
+## What is a _XLSX file?
 
 A file with .\_xlsx extension is actually an [XLSX](/spreadsheet/xlsx/) file that is renamed by some other application. This can happen in certain cases when the filename contains a . at the end of the file name. The \_XLSX files can be opeend in Microsoft Excel similar to the XLSX files by again renaming these to .xlsx extension.
 
-## \_XLSX File Format - More information
+## _XLSX File Format - More information
 
-The \_XLSX files are no different than the XLSX files and use the Open XML standard adopted by Microsoft back in 2000. Before XLSX, [XLS](/spreadsheet/xls/) was the primary file format used for working with Excel spreadsheets to save documents in binary format. This new XML based file format came with advantages such as small file sizes, resistance to file corruption, and well-formatted images representation. This new XML based file format became part of Office 2007 and is carried out in the new versions of Microsoft as well.
+The _XLSX files are no different than the XLSX files and use the Open XML standard adopted by Microsoft back in 2000. Before XLSX, [XLS](/spreadsheet/xls/) was the primary file format used for working with Excel spreadsheets to save documents in binary format. This new XML based file format came with advantages such as small file sizes, resistance to file corruption, and well-formatted images representation. This new XML based file format became part of Office 2007 and is carried out in the new versions of Microsoft as well.
 
 ## \_XLSX File Format Specifications
 

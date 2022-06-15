@@ -5,9 +5,9 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to know what is an \_XLS file and APIs that can create and open \_XLS files.",
-  "title" : "What is an \_XLSX file?",
-  "linktitle" : "\_XLS",
+  "description" : "Your file format guide to know what is an _XLS file and APIs that can create and open _XLS files.",
+  "title" : "_XLS File Format - What is an _XLS file?",
+  "linktitle" : "_XLS",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"
