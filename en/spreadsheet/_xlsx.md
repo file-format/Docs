@@ -1,14 +1,13 @@
 {
   "date" : "2019-12-10",
-  "keywords" : [ "_XLSX", "file", "extension", "file format", "Excel", "Spreadsheet" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Your file format guide to know what is an _XLSX file and APIs that can create and open _XLSX files.",
-  "title" : "What is an _XLSX file?",
-  "linktitle" : "_XLSX",
+  "description" : "Your file format guide to know what is an \_XLSX file and APIs that can create and open \_XLSX files.",
+  "title" : "What is an \_XLSX file?",
+  "linktitle" : "\_XLSX",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"
@@ -56,5 +55,5 @@ and following xml files:
 
 ## References
 
-* [[MS-XLSX] - .xlsx File Format](https://msdn.microsoft.com/en-us/library/dd922181(v#office.12).aspx)
+* [MS-XLSX - .xlsx File Format](https://msdn.microsoft.com/en-us/library/dd922181(v#office.12).aspx)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
