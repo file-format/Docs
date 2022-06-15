@@ -6,8 +6,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Learn about what is an XLSX file and APIs that can create and open XLSX files.",
-  "title" : "What is an XLSX file?",
+  "description" : "Learn about what is an _XLSX file and APIs that can create and open _XLSX files.",
+  "title" : "_XLSX File Format - What is an _XLSX file?",
   "linktitle" : "XLSX",
   "menu" : {
     "docs" : {
@@ -70,9 +70,9 @@ As can be seen, this worksheet contains contents in cells A1 through B2 and an i
 1. As can be seen in first image above, cell G13 in the worksheet is active cell which is also mentioned in the XML file.
 1. The sheetData tab represents the data contained in the worksheet. However, you can see that the original contents of the worksheet are nowhere in this section. This is because the text is indirectly referred from "sharedStrings" XML sheet. This linking ensures that each text is saved only once and can be referenced again in order to save space.
 1. The image as can be seen is referenced by reference id "rId2"
-  
+
 ## Contribute
- 
+
 Have to share something about XLSX or Spreadsheet file formats? You can post your findings in [Spreadsheet File Format News](https://news.fileformat.com/t/Spreadsheet) section.
 
 ## References
