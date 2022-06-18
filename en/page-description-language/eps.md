@@ -83,5 +83,4 @@ Because of a [security vulnerability](https://support.office.com/en-us/article/s
 
 ## References
 
-* [EPS File Format - Adobe](http://www.adobe.com/content/dam/acom/en/devnet/actionscript/articles/5002.EPSF_Spec.pdf)
 * [Encapsulated PostScript - By Wikipedia](https://en.wikipedia.org/wiki/Encapsulated_PostScript)

@@ -26,7 +26,7 @@ PCX files are saved to disc in binary file format. The internal file format stru
 
 **`PCX Header`** - A PCX Header is 128 bytes long. It contains an identifier, a version number, image dimensions, 16 palette colors, number color planes and bit depth of each plane, and a value for compression method.
 
-PCX Header is as shown below with reference from [Encyclopedia of graphics file formats (2nd ed.)](https://dl.acm.org/doi/10.5555/231955).
+PCX Header is as shown below with reference from Encyclopedia of graphics file formats (2nd ed.).
 ```
 typedef struct _PcxHeader
 {

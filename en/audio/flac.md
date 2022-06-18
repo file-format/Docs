@@ -18,7 +18,7 @@ lastmod: 2021-28-05
 
 FLAC(Free Lossless Audio Codec) is a lossless compression audio coding format developed by Xiph.Org Foundation. FLAC is a royalty-free open format that is saved with the .flac extension. Digital audio compressed using the FLAC algorithm is typically reduced to 50 to 70 percent in size. FLAC files can be decompressed to an identical copy of the original audio files.
 
-## FLAC file format ##
+## FLAC file Format
 
 This is an overview of the FLAC bitstream.
 
@@ -86,11 +86,6 @@ The MP3 is a lossy compression format mean it may cut some part of the audio to 
 |**Distribution over the internet**|Can't be distributed easily over the internet because of massive file size |Compact file size makes it easy to distribute over the internet|
 |**Compatibility**|The most popular music and audio listening codec that pretty much compatible with every device on the planetCompatible with new generation PCs, phones, AV receivers, blu-ray players, streaming devices like Roku or Fire TV|
 
-
-
-
-
 ## References ##
 
 - [FLAC - Wikipedia](https://en.wikipedia.org/wiki/FLAC)
-- [FLAC](https://xiph.org/flac/documentation.html)
