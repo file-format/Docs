@@ -39,6 +39,5 @@ The start of both raster and vector font files is common, followed by different 
 For detailed information about the headers for Windows 3.0 and 2.0, visit the [Microsoft KnowledgeBase Archive](https://jeffpar.github.io/kbarchive/kb/065/Q65123/).
 
 ## References
- * [Win32 Binaray Resource Formats](http://www.csn.ul.ie/~caolan/publink/winresdump/winresdump/doc/resfmt.txt)
  * [Font File Format](https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
  * [How to install or remove a font in Windows](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8-7613-c76f-88d043b334b8)

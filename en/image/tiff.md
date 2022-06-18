@@ -21,15 +21,15 @@
 
 TIFF or TIF, Tagged Image File Format, represents raster images that are meant for usage on a variety of devices that comply with this file format standard. It is capable of describing bilevel, grayscale, palette-color and full-color image data in several color spaces. It supports lossy as well as lossless compression schemes to choose between space and time for applications using the format. The format is not machine dependent and is free from bounds like processor, operating system, or file systems.
 
-## Brief History ##
+## Brief History of TIFF File Format##
 
 TIFF file format was initially created by Aldus Corporation in the fall of 1986, after a series of meetings with various scanner manufacturers and software developers. The primary purpose of TIFF file format was to provide a common scanned image file format for all the desktop scanner vendors. Starting with support for only binary image format, the format evolved to the support of grayscale and color images with the passage of time. The initial version of TIFF file format specifications can be labeled as Reivision 3.0 as there were two earlier draft releases. A major Revision 5.0 was published in 1988 that added support for palette color images and LZW compression. Revision 6.0 of TIFF file formats were published in 1992 after that. In 1994, Adobe Systems acquired Aldus and the specifications are now available and maintained by Adobe Systems.
 
-# TIFF File Format Specifications #
+## TIFF File Format Specifications
 
 TIFF file format is extensible and has underwent several revisions that allows the inclusion of an unlimited amount of private or special-purpose information. A TIFF file begins with an 8-byte header where the bytes are number from 0 to N. The largest possible TIFF file is 2**32 bytes in length. The file begins with an 8-byte image file header that points to an image file directly (IFD). An IFD contains information about the image as well as pointers to the actual image data.
 
-### File Header ###
+### TIFF File Header
 
 The 8-byte TIFF file header contains the following information:
 
@@ -41,11 +41,11 @@ In the “II” format, byte order is always from the least significant byte to 
 
 **Bytes 4-7:**    The offset (in bytes) of the first IFD. The directory may be at any location in the file after the header but must begin on a word boundary. In particular, an Image File Directory may follow the image data it describes. Readers must follow the pointers wherever they may lead.The term byte offset is always used in this document to refer to a location with respect to the beginning of the TIFF file. The first byte of the file has an offset of 0.
 
-### Image File Directory ###
+### Image File Directory
 
 An IFD contains information about the image as well as pointers to the actual image data.. It consists of a 2-byte count of the number of directory entries (i.e. the number of fields), followed by a sequence of 12-byte field entries, followed by a 4-byte offset of the next IFD (or 0 if none). There must be at least 1 IFD in a TIFF file and each IFD must have at least one entry.
 
-#### IFD Entry ####
+#### IFD Entry
 
 Each 12-byte IFD Entry is in the following format.
 
@@ -80,8 +80,11 @@ PhotometricInterpretation information for Bilevel images is as follow:
 Tag = 262  (106.H)
 Type = SHORT
 **Values**
-|0|For bilevel and grayscale images:  0 is imaged as white. The maxi-mum value is imaged as black. This is the normal value for Compression#2
-|1|BlackIsZero. For bilevel and grayscale images:  0 is imaged as black. The maxi-mum value is imaged as white. If this value is specified for Compression#2, theimage should display and print reversed.
+
+|Value|Decription|
+---|---|
+|0|For bilevel and grayscale images:  0 is imaged as white. The maxi-mum value is imaged as black. This is the normal value for Compression#2|
+|1|BlackIsZero. For bilevel and grayscale images:  0 is imaged as black. The maxi-mum value is imaged as white. If this value is specified for Compression#2, theimage should display and print reversed.|
 
 **GrayScale:** Grayscale images are a generalization of bilevel images. Bilevel images can store only black and white image data, but grayscale images can also store shades of gray. To describe such images, you must add or change the following fields. The other required fields are the same as those required for bilevel images. For grayscale images, Compression # 1 or 32773 (PackBits). In Baseline TIFF, grayscale images can either be stored as uncompressed data or compressed with the PackBits algorithm.
 
@@ -114,5 +117,4 @@ The number of components per pixel. This number is 3 for RGB images, unless extr
 
 ## References ##
 
-* [TIFF - By Adobe](https://www.adobe.io/content/udp/en/open/standards/TIFF/_jcr_content/contentbody/download/file.res/TIFF6.pdf)
 * [TIFF File Format - Wikipedia](https://en.wikipedia.org/wiki/TIFF)

@@ -81,6 +81,4 @@ The binary data begins with a header having the format shown in Table below.
 
 ## References
 
- * [CFF File Format](http://wwwimages.adobe.com/content/dam/Adobe/en/devnet/font/pdfs/5176.CFF.pdf)
  * [CFF2 File Format](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2)
- * [Adobe Technical Note - Type2 Charstring Format](http://wwwimages.adobe.com/content/dam/Adobe/en/devnet/font/pdfs/5177.Type2.pdf)

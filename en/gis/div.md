@@ -18,7 +18,7 @@
 
 ## What is a DIV file?
 
-A file with .div extension is a project file created with [DIVA-GIS](https://www.diva-gis.org/) software when a new mapping project is created and saved. DIVA-GIS is a mapping software that is used to create spatial maps and geographic data analysis applications. The project file consists of a map image and layers that are used to display the objects and properties on the map. In addition to the spatial information, it also stores information about the map's scale and the center.
+A file with .div extension is a project file created with [DIVA-GIS](https://en.wikipedia.org/wiki/DIVA-GIS) software when a new mapping project is created and saved. DIVA-GIS is a mapping software that is used to create spatial maps and geographic data analysis applications. The project file consists of a map image and layers that are used to display the objects and properties on the map. In addition to the spatial information, it also stores information about the map's scale and the center.
 
 ## DIV File Format - More Information
 
@@ -26,4 +26,4 @@ DIV files are stored on disc as DIVA-GIS proprietary file format and their inter
 
 ## References
 
-* [DIVA-GIS](https://www.diva-gis.org/)
+* [DIVA-GIS](https://en.wikipedia.org/wiki/DIVA-GIS)

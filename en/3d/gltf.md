@@ -19,13 +19,15 @@
 
 ## What is a GLTF file?
 
-glTF (GL Transmission Format) is a 3D file format that stores 3D model information in JSON format. The use of JSON minimizes both the size of 3D assets and the runtime processing needed to unpack and use those assets. It was adopted for the efficient transmission and loading of 3D scenes and models by applications. glTF was developed by the Khronos Group 3D Formats Working Group and is also described as [JPEG](/image/jpeg/) of 3D by its creators. The format defines an extensible, common publishing format for 3D content tools and services that streamlines authoring workflows and enables interoperable use of content across the industry. The intention behind the creation of glTF file format was to define an extensible, common publishing format for 3D content tools and services that should streamline authoring workflows and enable interoperable use of content across the industry. It minimizes runtime processing by applications using WebGL and other APIs.
+glTF (GL Transmission Format) is a 3D file format that stores 3D model information in JSON format. The use of JSON minimizes both the size of 3D assets and the runtime processing needed to unpack and use those assets. It was adopted for the efficient transmission and loading of 3D scenes and models by applications. glTF was developed by the Khronos Group 3D Formats Working Group and is also described as [JPEG](/image/jpeg/) of 3D by its creators.
+
+GLTF file format defines an extensible, common publishing format for 3D content tools and services that streamlines authoring workflows and enables interoperable use of content across the industry. The intention behind the creation of glTF file format was to define an extensible, common publishing format for 3D content tools and services that should streamline authoring workflows and enable interoperable use of content across the industry. It minimizes runtime processing by applications using WebGL and other APIs.
 
 ## Brief History
 
 The first specifications for glTF file format 1.0 were announced in October 2015. This had come as a series of efforts that started in March 2012 by Khronos. The aim of these efforts were to assess the opportunities around the WebGL traction. Resultantly, the first demo of glTF format, based on the JSON format was presented at the WebGl meetup in 2012. The format was adopted by several companies from time to time including Cesium, 3D Tiles, Oculus, Microsoft, Archilogic and others.
 
-glTF 2.0 was published June 5, 2017 at the Web3D 2017 Conference. There is a long list of companies that adopted the glTF file format after that.
+glTF 2.0 was published on June 5, 2017 at the Web3D 2017 Conference. There is a long list of companies that adopted the glTF file format after that.
 
 ## GLTF File Format
 
@@ -35,11 +37,9 @@ glTF defines assets as JSON files with supporting external data. It represents 3
 
 * Full scene description contained in a JSON-formatted .glTF file that includes information about node hierarchy, materials, cameras, as well as descriptor information for meshes, animations and other constructs
 * Binary files (.bin) containing geometry and animation data, and other buffer-based data
-* Image files (.[jpg](/image/jpeg/), .[png](/image/png/)) for textures
+* Image files ([.jpg](/image/jpeg/), [.png](/image/png/)) for textures
 
 Any external assets such as images are stored in external files that are referenced via URI. These URIs are stored alongside the GLB container or embedded directly into the JSON using data URIs. Each valid glTF must specify its version.
-
-![GLTF File Format](https://github.com/KhronosGroup/glTF/raw/master/specification/2.0/figures/files.png "GLTF File Format")
 
 glTF has been designed to achieve small file size, fast loading, complete 3D scene representation and extensibility. These unique design goals are the main reasons for the popularity of glTF file format in 3D domain. Following are the mime types supported by the glTF file format for different file types:
 
@@ -67,5 +67,5 @@ Buffers and Image resources are referenced via URIs. The following two URI types
 
 ## References ##
 
-* [glTF 2.0 Specifications - Khronos](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0)
+* [glTF 2.0 Specifications - Khronos](https://github.com/KhronosGroup/glTF)
 * [glTF File Format - By Wikipedia](https://en.wikipedia.org/wiki/GlTF)
