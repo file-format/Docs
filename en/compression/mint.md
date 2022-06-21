@@ -7,9 +7,10 @@
   "toc" : true,
   "title" : "MINT File Format - Linux Mint Installer File",
   "description":"Learn about MINT file format and APIs that can create and open MINT files.",
-  "linktitle" : "MBW",
+  "linktitle" : "MINT",
   "menu" : {
     "docs" : {
+      "identifier": "compression-mint",
       "parent" : "compression"
     }
   },
