@@ -21,7 +21,7 @@
 
 TIFF or TIF, Tagged Image File Format, represents raster images that are meant for usage on a variety of devices that comply with this file format standard. It is capable of describing bilevel, grayscale, palette-color and full-color image data in several color spaces. It supports lossy as well as lossless compression schemes to choose between space and time for applications using the format. The format is not machine dependent and is free from bounds like processor, operating system, or file systems.
 
-## Brief History of TIFF File Format##
+## Brief History of TIFF File Format
 
 TIFF file format was initially created by Aldus Corporation in the fall of 1986, after a series of meetings with various scanner manufacturers and software developers. The primary purpose of TIFF file format was to provide a common scanned image file format for all the desktop scanner vendors. Starting with support for only binary image format, the format evolved to the support of grayscale and color images with the passage of time. The initial version of TIFF file format specifications can be labeled as Reivision 3.0 as there were two earlier draft releases. A major Revision 5.0 was published in 1988 that added support for palette color images and LZW compression. Revision 6.0 of TIFF file formats were published in 1992 after that. In 1994, Adobe Systems acquired Aldus and the specifications are now available and maintained by Adobe Systems.
 

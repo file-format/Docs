@@ -6,7 +6,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "MPKG - Meta Package File Format",
+  "title" : "MPKG File Format - Meta Package File",
   "description":"Learn about MPKG file format and APIs that can create and open MPKG files.",
   "linktitle" : "MPKG",
   "menu" : {
@@ -19,7 +19,7 @@
 
 ## What is a MPKG file?
 
-A file with .mpkg extension is an archive installer file, mostly found on MacOS Operating Systems. It contains all required installation files of the application without the need to keep associated files separately. A single MPKG file can contain package files ([PKG](/compression/pkg/)) as one of the installation files in addition to other files. MPKG files can not be opened with any general software and are executed automatically on MacOS using Apple Installer.
+A file with .mpkg extension is an archive installer file, mostly found on MacOS Operating Systems. It contains all required installation files of the application without the need to keep associated files separately. A single MPKG file can contain package files [PKG](/compression/pkg/) as one of the installation files in addition to other files. MPKG files can not be opened with any general software and are executed automatically on MacOS using Apple Installer.
 
 ## MPKG File Format
 
