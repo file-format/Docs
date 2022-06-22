@@ -21,7 +21,7 @@
 
 An OVF file is a text file that contains information about the packaging and distribution of a software that runs on a virtual machine. It is formatted as per the [Open Virtualization Standard Specifications](https://www.dmtf.org/standards/ovf) that describes all the requirements (such as security, portability, efficiency and extendibility) for running applications on virtual machines. The International Organization for Standardization (ISO) has adopted OVF as ISO 17203 standard.
 
-## Brief History of OVF
+## Brief History of OVF File Format
 
 OVF file format was introduced by DMTF (Distributed Management Task Force) that creates open manageability standards. It is independent of any particular hypervisor or instruction set architecture. The OVF package contains one or more virtual systems, each of which can be deployed to a virtual machine.
 
