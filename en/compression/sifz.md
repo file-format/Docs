@@ -22,7 +22,7 @@ A SIFZ file is a gzip compressed SIF file created by the open source 2d animatio
 
 ## SIFZ File Format
 
-SIFZ files are compressed [ZIP](/compressed/zip/) files that are packaged using the gzip compression method. Synfig is used to create film-quality animations using a vector and bitmap artwork. Unlike the old frame-by-frame animation creation method, it lets you produce 2D animations of higher quality with fewer resources.
+SIFZ files are compressed [ZIP](/compression/zip/) files that are packaged using the gzip compression method. Synfig is used to create film-quality animations using a vector and bitmap artwork. Unlike the old frame-by-frame animation creation method, it lets you produce 2D animations of higher quality with fewer resources.
 
 SIFZ files, being compressed, are smaller than the uncompressed SIF files. This also makes it easy for transferring over low bandwidth internet connections.
 

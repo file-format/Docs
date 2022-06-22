@@ -77,5 +77,5 @@ struct FontDirEntry {
 ```
 
 ## References
- * [Win32 Binaray Resource Formats](http://www.csn.ul.ie/~caolan/publink/winresdump/winresdump/doc/resfmt.txt)
+
  * [Font File Format](https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
