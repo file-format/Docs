@@ -42,4 +42,3 @@ As mentioned, an FZPZ file is an archive file that contains multiples files for 
 ## References ##
 
 * [New parts with fzpz extension](https://forum.fritzing.org/t/new-parts-with-fzpz-extension/8007/2)
-* [RFC1952: GZIP file format specification](http://tools.ietf.org/html/rfc1952), by IETF.
