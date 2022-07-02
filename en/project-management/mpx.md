@@ -25,7 +25,7 @@ Microsoft Project 4.0 introduced support for creating and reading MPX file forma
 
 ## MPX File Format ##
 
-An overview of the MPX file specifications is given in this section. Complete specifications can be found in this [Knowledge Base](https://support.microsoft.com/en-us/help/270139/prj-description-of-the-mpx-project-file-exchange-format) article and can be referred for details.
+An overview of the MPX file specifications is given in this section. Complete specifications can be found in this [Knowledge Base](https://support.microsoft.com/en-us/office/file-formats-supported-by-project-desktop-face808f-77ab-4fce-9353-14144ba1b9ae) article and can be referred for details.
 
 ### Records ###
 
@@ -231,4 +231,4 @@ Here is the list of some common issues which may arise and cause misfunctioning 
 
 ## References ##
 
-* [MPX - Microsoft Knowledge Base](https://support.microsoft.com/en-us/help/270139/prj-description-of-the-mpx-project-file-exchange-format)
+* [MPX - Microsoft Knowledge Base](https://support.microsoft.com/en-us/office/file-formats-supported-by-project-desktop-face808f-77ab-4fce-9353-14144ba1b9ae)

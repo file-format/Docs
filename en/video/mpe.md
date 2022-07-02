@@ -19,7 +19,7 @@
 
 ## What is an MPE file?
 
-An MPE file is a video file encoded and saved in the [MPEG](/video/mpeg/) file format. It was extended with additional bit-rates to be supported as the next version of MPEG-2 compression. MPEG-2, however, is the most commonly used MPEG compression type. The .mpe extension was used initially as a short for the .mpeg file format.
+An MPE file is a video file encoded and saved in the [MPEG](/video/mpg/) file format. It was extended with additional bit-rates to be supported as the next version of MPEG-2 compression. MPEG-2, however, is the most commonly used MPEG compression type. The .mpe extension was used initially as a short for the .mpeg file format.
 
 ## References ##
 

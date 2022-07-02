@@ -33,4 +33,3 @@ ffmpeg -i 0010600.sec -vcodec copy -vsync drop -fflags genpts -f avi 0010600.avi
 ## References ##
 
 - [Samsung and SEC Files](https://spreadys.wordpress.com/2013/07/19/samsung-and-sec-files/)
-- [FFMPEG](http://ffmpeg.zeranoe.com/builds/win32/static/)

@@ -33,4 +33,3 @@ Once open, PhotoPad Editor lets you manipulate the image in a number of ways wit
 ## References ##
 
 * [PhotoPad Photo Editing Software](https://www.nchsoftware.com/photoeditor/index.html)
-* [PhotoPad - Supported File Formats](hhttps://www.nchsoftware.com/photoeditor/kb/1253.html)
