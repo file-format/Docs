@@ -53,4 +53,4 @@ MIICUDCCAdoCBDaM1tYwDQYJKoZIhvcNAQEEBQAwgY8xCzAJBgNVBAYTAlVTMRMwMIICCDAaBgkqhkiG
 
 ## References ##
 
-* [The Global Structure of HTML document](https://www.w3.org/TR/html401/struct/global.html#h-7.5.4)
+* [Public Keys, Private Keys, and Certificates](https://docs.oracle.com/cd/E19509-01/820-3503/ggbgc/index.html)
