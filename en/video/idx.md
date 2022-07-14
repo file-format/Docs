@@ -107,6 +107,10 @@ timestamp: 00:04:04:640, filepos: 00001d800
 
 If you have got the Sub and IDX files for a movie, you can play back these subtitles along with the movie for which these are created. Many applications such as VLC, GOM Player, PotPlayer, or PowerDVD have the capability to load these SUB and IDX files, and play these alongside the movie. Software applications can also embed SUB and IDX subtitle files in [.mkv](/video/mkv/) files.
 
+## Convert IDX to SRT
+
+The [SRT](/video/srt/) (SubRip file format) is a simple subtitle file saved in the SubRip file format. It is more commonly used as compared to the VobSub file format. Thus, if you want to convert SUB/IDX files to SRT file format, there are 3rd party tools available that can be used to acheive this. SUB/IDX to SRT converter, available on SubtitleTools.com is one such tool that takes SUB and IDX files as input and converts these VobSub subtitles to SRT files. 
+
 ## References
 
  * [VobSub](https://www.videohelp.com/software/VobSub)

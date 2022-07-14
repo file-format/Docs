@@ -6,8 +6,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "description":"Learn about .exe file format and APIs that can create and open EXE files.",
-  "title" : "EXE - Microsoft Windows Executable File",
+  "description":"A .exe file is a Microsoft Executable file that is run on Windows OS. Know more about EXE file format.",
+  "title" : "What is an Executable EXE file?",
   "linktitle" : "EXE",
   "menu" : {
     "docs" : {
@@ -49,11 +49,11 @@ The portable executable file format (PE) contains a number of informational head
 
 Exe files are not used as executables on Mac OS. However, if you want to run an exe file on Mac OS, the following methods can be used.
 
- 1. Wine - Wine is the perfect solution for people who want to use their PC applications on Mac systems. It's an acronym that stands for "Wine Is Not A Emulator," meaning. Wine creates the same environment of directories as used by Microsoft so you can run your Windows application using it.
- 2. Virtual Machines - Create a Windows Virtual Machine using Parallel Desktop or VM Virtual Box and run your application inside the virtual machine.
- 3. Boot Camp - Installing and configuring Windows Boot Camp on Mac OS lets you run the Windows OS on Mac machine. 
+ 1. **Wine** - Wine is the perfect solution for people who want to use their PC applications on Mac systems. It's an acronym that stands for "Wine Is Not A Emulator," meaning. Wine creates the same environment of directories as used by Microsoft so you can run your Windows application using it.
+ 2. **Virtual Machines** - Create a Windows Virtual Machine using Parallel Desktop or VM Virtual Box and run your application inside the virtual machine.
+ 3. **Boot Camp** - Installing and configuring Windows Boot Camp on Mac OS lets you run the Windows OS on Mac machine.
 
-## References 
+## References
 
 * [.exe- by Wikipewdia](https://en.wikipedia.org/wiki/.exe)
 * [x86 Disassembly/Windows Executable Files](https://en.wikibooks.org/wiki/X86_Disassembly/Windows_Executable_Files#MS-DOS_EXE_Files)
