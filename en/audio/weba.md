@@ -7,7 +7,7 @@
   "toc" : true,
   "description" : "Learn about WEBA file format and APIs that can create and open WEBA files.",
   "title" : "WEBA - What is a WebA file?",
-  "linktitle" : "WAV",
+  "linktitle" : "WEBA",
   "menu" : {
     "docs" : {
       "parent" : "audio"
