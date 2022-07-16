@@ -19,7 +19,9 @@
 
 ## What is an H file?
 
-A file saved with **h file extension** is a header file used in C/C++ files to include the declaration of variables, constants, and functions. These are referred by the [C++](/programming/cpp/) implementation files that contain the actual implementation of these functions. A .h header file can also include additional information such as Macro definitions. These header files are referenced in the C/C++ files using the `#include` directive. A new C++ project usually contains a special header file by the name stdafx.h file that is the starting point for all compilation chains and all the header files can be included in this single file. A .h file can be opened with any text editor, Eclipse IDE, Microsoft Visual Studio IDE, Borland C++ compiler and a lot other applications.
+A file saved with **h file extension** is a header file used in C/C++ files to include the declaration of variables, constants, and functions. These are referred by the [C++](/programming/cpp/) implementation files that contain the actual implementation of these functions. A .h header file can also include additional information such as Macro definitions. These header files are referenced in the C/C++ files using the `#include` directive.
+
+A new C++ project usually contains a special header file by the name **stdafx.h** file that is the starting point for all compilation chains and all the header files can be included in this single file. A .h file can be opened with any text editor, Eclipse IDE, Microsoft Visual Studio IDE, Borland C++ compiler and a lot other applications.
 
 ## .H File Format
 
