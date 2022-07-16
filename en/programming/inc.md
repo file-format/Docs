@@ -29,7 +29,9 @@ An INC file is saved as plain text file with all the declarations included as pe
 INC files can include the following information.
 
 **`Variables`** - In case of Object Oriented Programming (OOP), a class header file contains definitions of all class level variables that are accessible across the implementation source code files
+
 **`Methods Declaration`** - All the methods declarations are included in the .h header files to be accessible across multiple implementation files.
+
 **`Non-Inline Function Definitions`** - Header files can also contain definitions of a non-inline methods.
 
 ## Disadvantage of using INC file in PHP
