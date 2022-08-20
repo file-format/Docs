@@ -19,12 +19,16 @@
 
 ## What is a DMP file? ##
 
-The DMP file is primarily associated with the MemoryDump or Minidump file format. It is used in Microsoft Windows operating system to store data that has been dumped from the memory space of the computer. Usually, DMP files are created when a file crashes or an error occurs. At times DMP files are very important for technical experts or advanced computer users to troubleshoot the problems you are facing and solve any kind of application issue. The DMP files are stored as a proprietary format in Microsoft which is used by the operating system to debug any application installed on the system. 
+The DMP file is primarily associated with the MemoryDump or Minidump file format. It is used in Microsoft Windows operating system to store data that has been dumped from the memory space of the computer. Usually, DMP files are created when a file crashes or an error occurs. At times DMP files are very important for technical experts or advanced computer users to troubleshoot the problems you are facing and solve any kind of application issue. The DMP files are stored as a proprietary format in Microsoft which is used by the operating system to debug any application installed on the system.
 
 
-## Technichal Specification ##
+## Technical Specification of DMP File Format
 
-In Windows, the "savedump.exe" system tool generates .dmp files which can be then processed by various debugging utilities available. Mini dump (64/128 Kb) is stored by windows at the '%SystemRoot%\Minidump' directory. On the other hand, the kernel memory and full memory dumps are stored at the system root as 'Memory.dmp' files. Memory dump files are relatively large files, hence can take a sufficient amount of storage space. So it is advised that the useless .dmp files that you think won't be useful for troubleshooting problems then delete them. You can delete .dmp files either manually or by using the default "clean disk wizard" on your computer. DMP extensions are used by the Oracle database products to use the .dmp files in backup and recovery database files created and used. The DMP files created by Oracle are database backups that can be used for importing or restoring into a running database instance through a database server. In most cases, .dmp files have time and date stamps as their filenames.
+In Windows, the "savedump.exe" system tool generates .dmp files which can be then processed by various debugging utilities available. Mini dump (64/128 Kb) is stored by windows at the '%SystemRoot%\Minidump' directory. On the other hand, the kernel memory and full memory dumps are stored at the system root as 'Memory.dmp' files. Memory dump files are relatively large files, hence can take a sufficient amount of storage space. So it is advised that the useless .dmp files that you think won't be useful for troubleshooting problems then delete them.
+
+You can delete .dmp files either manually or by using the default "clean disk wizard" on your computer. DMP extensions are used by the Oracle database products to use the .dmp files in backup and recovery database files created and used. The DMP files created by Oracle are database backups that can be used for importing or restoring into a running database instance through a database server. In most cases, .dmp files have time and date stamps as their filenames.
+
+### Contents of DMP File
 
 A memory dump file contains:
 
@@ -36,7 +40,7 @@ A memory dump file contains:
 * The kernel-mode call stack for the thread that ended the process from performing.
 
 
-## DMP Example ##
+## DMP Example
 
 The stop error 0XC0000218 (Registry_File_Failure) creates a DMP file as follow:
 
