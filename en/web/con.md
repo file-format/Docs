@@ -19,7 +19,7 @@
 
 ## What is a CON file?
 
-A CON file is a source code file for application developed for the **Concept Application Server**. It is used for writing applications for exchange of data between the server and the user. CON files hosted on the server are accessible with a Web browser provide the Concept Client is installed on user end. Concept Application server is a webserver with small scale programming language that may have an [SQL](/database/sql/) subset database engine (TinDB).
+A CON file is a source code file for application developed for the **Concept Application Server**. It is used for writing applications for exchange of data between the server and the user. CON files hosted on the server are accessible with a Web browser provided the Concept Client is installed on user end. Concept Application server is a webserver with small scale programming language that may have an [SQL](/database/sql/) subset database engine (TinDB).
 
 CON files can open/run with RadGs Concept Application Server.
 
