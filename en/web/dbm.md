@@ -10,6 +10,7 @@
   "linktitle" : "DBM",
   "menu" : {
     "docs" : {
+      "identifier":"web-dbm",
       "parent" : "web"
     }
   },
