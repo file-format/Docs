@@ -11,6 +11,7 @@
   "linktitle" : "DCR",
   "menu" : {
     "docs" : {
+      "identifier":"image-dcr",
       "parent" : "image"
     }
   },
@@ -21,7 +22,7 @@
 A file with dcr extension contains the content of a digital photograph saved in the Kodak Digital Camera RAW (DCR) format. The DCR is short for **Digital Camera Raw**; contains the uncompressed and lossless version of the images data captured by a Kodak digital camera. The professional photographers like to use these files, because they store images at a higher quality than low quality compressed image formats.
 
 ## DCR file format
-The DCR is a proprietary format developed by Eastman Kodak Company; referred to simply as Kodak. A Digital Camera Raw (DCR) image file contains minimally processed data from the image sensor a digital camera. These files are not yet processed and therefore are not ready to be printed or edited with a bitmap graphics editor. 
+The DCR is a proprietary format developed by Eastman Kodak Company; referred to simply as Kodak. A Digital Camera Raw (DCR) image file contains minimally processed data from the image sensor a digital camera. These files are not yet processed and therefore are not ready to be printed or edited with a bitmap graphics editor.
 Usually, a raw converter processes the image in a wide-gamut internal color space where accuracy and refinement can be made before conversion to a raster file format such as TIFF or JPEG for storage, printing, or further manipulation.
 ### File contents
 The structure of raw files often follows a generic pattern:
