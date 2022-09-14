@@ -19,7 +19,7 @@
 
 ## What is a CRT file?
 
-A file with .crt extension is a security certificate file that is used by secure websites to establish secure connections from web server to a browser. Secure websites make it possible to secure data transfers, logins, payment card transactions, and provide protected browsing to the site. If you open a secure website, you see a "lock" icon in the address bar. If you click on it, you can view the details of the installed certificate. International companies such as Verisign and Thawte distribute these SSL certificates.
+A file with .crt extension is a security certificate file that is used by secure websites for establishing secure connections from web server to a browser. Secure websites make it possible to secure data transfers, logins, payment card transactions, and provide protected browsing to the site. If you open a secure website, you see a "lock" icon in the address bar. If you click on it, you can view the details of the installed certificate. International companies such as Verisign and Thawte distribute these SSL certificates.
 
 ## CRT File Format
 
