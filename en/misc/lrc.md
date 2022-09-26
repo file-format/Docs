@@ -37,7 +37,7 @@ The Line Time Tags are in the format [mm:ss.xx] where mm is minutes, ss is secon
 [00:17.20]Line 2 lyrics
 [00:21.10]Line 3 lyrics
 ...
-[mm:ss.xx]last lyrics line
+mm:ss.xxlast lyrics line
 ```
 
 ### Simple Format Extended

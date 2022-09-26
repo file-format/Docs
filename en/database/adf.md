@@ -25,7 +25,3 @@ A file with .adf extension is a database file created with ACT CRM (Customer Rel
 ## ADF File Format - More Information
 
 ADF files are saved to disc as binary files and their internal structure information is not available publicly. Another file with extension .alf is saved along with the ADF files which contains metadata required to navigate, backup, and restore the ACT! database.
-
-## References
-
-* [ADF File](https://help.act.com/hc/en-us/articles/360024238854-An-Understanding-of-the-Files-that-Compose-an-ACT-by-Sage-Database#s2)

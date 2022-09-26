@@ -34,7 +34,3 @@ DML files are created in plain text file format and can be opened with a text ed
  * Statements - These control script flow, manipulate objects, and general programming. In general, these statements follow standard C and Java syntax. Examples are if-else, do-while loops, switch, break, continue, etc. like any other scripting language.
 * Functions - Functions, like any other scripting language, allow you to encapsulate a set of instructions once in a document as a function, then use it several times throughout the document (by calling the function). DynaScript also supports functions.
 * Objects - DynaScript is object-oriented and supports `objects` and the fundamental object-oriented concepts of Encapsulation, Polymorphism, and Inheritance.
-
-## References
-
-* [DML](http://www.upi.pr.it/docs/dynref/pdreferencep8.htm)

@@ -54,4 +54,3 @@ CREATE TABLE employees (
 ## References ##
 
 * [DDL by Wikipedia](https://en.wikipedia.org/wiki/Data_definition_language)
-* [DDL Commands](https://oracletutorial.net/dml-ddl-commands-in-oracle.html#ddl-commands-in-oracle)
