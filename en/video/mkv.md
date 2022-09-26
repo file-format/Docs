@@ -160,4 +160,3 @@ If you do not want a new media player and prefer to use your existing player, yo
 ## References ##
 
 - [Matroska by Wikipedia](https://en.wikipedia.org/wiki/Matroska)
-- [Extensible Binary Meta Language](https://tools.ietf.org/id/draft-ietf-cellar-ebml-03.html#:~:text=EBML%20uses%20a%20system%20of,other%20EBML%20Elements%20%2C%20or%20both.)

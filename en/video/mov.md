@@ -90,7 +90,7 @@ Several media players and video editors, including VideoLAN VLC media player and
  * WebM Video - [WEBM](/video/webm/)
  * Video Transport Stream - [TS](/video/ts/)
  * Advanced Systems Format - [ASF](/video/ts/)
- * Ogg Vorbis Audio - [OGG](/aduio/ogg/)
+ * Ogg Vorbis Audio - [OGG](/audio/ogg/)
  * MP3 Audio - [MP3](/audio/mp3/)
  * Free Lossless Audio Codec - [FLAC](/audio/flac/)
  * WAVE Audio - [WAV](/audio/wav/)

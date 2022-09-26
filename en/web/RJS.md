@@ -51,4 +51,3 @@ foo = -> { "bar" }
 ## References
 
 * [RJS](https://github.com/makevoid/rjs)
-* [RJS Resources](http://www.rubyinside.com/16-rjs-resources-and-tutorials-for-rails-programmers-5.html)
