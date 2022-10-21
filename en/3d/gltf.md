@@ -23,7 +23,7 @@ glTF (GL Transmission Format) is a 3D file format that stores 3D model informati
 
 GLTF file format defines an extensible, common publishing format for 3D content tools and services that streamlines authoring workflows and enables interoperable use of content across the industry. The intention behind the creation of glTF file format was to define an extensible, common publishing format for 3D content tools and services that should streamline authoring workflows and enable interoperable use of content across the industry. It minimizes runtime processing by applications using WebGL and other APIs.
 
-## Brief History
+## Brief History of GLTF File
 
 The first specifications for glTF file format 1.0 were announced in October 2015. This had come as a series of efforts that started in March 2012 by Khronos. The aim of these efforts were to assess the opportunities around the WebGL traction. Resultantly, the first demo of glTF format, based on the JSON format was presented at the WebGl meetup in 2012. The format was adopted by several companies from time to time including Cesium, 3D Tiles, Oculus, Microsoft, Archilogic and others.
 

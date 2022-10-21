@@ -20,7 +20,7 @@ lastmod: 2020-23-11
 
 MKA (Matroska Audio) is the Matroska multimedia container format used for Audio. It is saved with the .mka extension. The MKA format supports several different kinds of audio compression algorithms such as [MP3](/audio/mp3/), [AAC](/audio/aac/) and Vobis. MKA files are usually used to store songs and may also store complete albums. MKA allows audio tracks to be divided into chapters and also supports embedding lyrics in SRT format.
 
-## Brief History ##
+## Brief History of MKA File Format
 
 The project originated in 2002 in Russia with Lasse Kärkkäinen as the lead developer. He worked with Steve Lhomme (founder of Matroska), and a team of programmers. Matroska Multimedia Container was developed as an open standards project, which means that it is open source and free to use. With the passage of time, the format was improved and in 2010, it became the basis of WebM multimedia format.
 
@@ -33,7 +33,7 @@ Here are some of the advantages of using MKA format over the original audio form
 - Support for embedding lyrics in SRT format.
 - A complete album can be stored in a single file.
 - By using compression headers the resultant MKA file might be smaller in size as compared to the original raw file.
-- It is easier to delete portions of audio without reencoding as only the blocks are deleted.
+- It is easier to delete portions of audio without re-encoding as only the blocks are deleted.
 
 ## References ##
 

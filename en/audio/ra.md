@@ -14,11 +14,11 @@ menu:
 lastmod: 2020-28-12
 ---
 
-## What is an RA file? ##
+## What is a RA file?
 
 RealAudio (RA) is a proprietary audio format developed by Real Networks, Inc. and released in April 1995. It uses the .ra extension for its files. It uses low-bitrate as well as high fidelity audio codecs. RA was used for audio streaming over the internet by many internet radio stations. The BBC website used RA heavily until 2009 but discontinued in March 2011.
 
-## File extension by RealNetworks ##
+## File Extension by RealNetworks ##
 
 RealNetworks used the RA file format for audio. RealNetworks started offering video format ([RealVideo](/video/rv/)) in 1997 with the .rv extension. [RealMedia (RM)](/video/rm/) was used for the combination of audio and video formats. With the latest release of RealProduce (Real's encoder), RV format is used for video files and [RealMedia Variable Bitrate (RMVB)](/video/rmvb/) format is used for VBR (Variable bitrate) video files.
 

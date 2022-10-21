@@ -19,13 +19,16 @@
 
 ## What is an MB file?
 
-A file with .mb extension is a binary project file created with Autodesk Maya application. Unlike the [MA](/3d/ma/) file format, which is in ASCII file format, MB files are stored in binary file format. These can not be opened in text editors but can be examined in Hex Editors. MB files contain information such as geometry, lighting, animation, and rendering for defining the 3D scenes. Autodesk Maya 2020 can be used to open .mb files.
+A file with .mb extension is a binary project file created with Autodesk Maya application. Unlike the [MA](/3d/ma/) file format, which is in ASCII file format, MB files are stored in binary file format. These can not be opened in text editors but can be examined in Hex Editors. MB files contain information such as geometry, lighting, animation, and rendering for defining the 3D scenes.
+
+Autodesk Maya 2020 can be used to open .mb files.
 
 ## MB File Format
 
 MB files are in binary file format, which is a compressed file format, and can only be opened by supporting application. The internal details of MB file format are not available and can be processed only by some kind of script to uncompress these.
 
-## Maya Binary files free download
+## Maya Binary Files Free Download
+
 It is bit hard to find and download the MB file of a 3d model. Therefore, you can download a sample MB file from here:
 
 - [Sample.mb](../sample.mb)

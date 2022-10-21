@@ -14,7 +14,7 @@ menu:
 lastmod: 2021-03-21
 ---
 
-## What is a ALAC file? ##
+## What is a ALAC file?
 
 ALAC file format is Apple Lossless Audio Codec (ALAC) that uses the MPEG-4 compliant QuickTime container. It was introduced in 2004 as proprietary file format, until 2011 when Apple made it available open source and royalty-free. The format is similar to the [FLAC](/audio/flac/) (Free Lossless Audio Codec) but offers more compression comparatively. It offers better sounding alternative to [AAC](/audio/aac/) or [MP3](/audio/mp3/). Audio files encoded with ALAC codec can be opened using Apple QuickTime, Apple iTunes and Micrsoft Windows Media Player with K-Lite codec.
 

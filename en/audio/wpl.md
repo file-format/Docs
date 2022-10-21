@@ -18,12 +18,17 @@
 }
 
 ## What is a WPL file?
+
 A file with .wpl extension contains the playlist of songs to be run on the Microsoft Windows Media Player. These files are usually created by users for their video and audio collections. The content written in a WPL file, is just directory paths or locations for the multimedia files selected by the creator of the .wpl file, so the media player application can promptly find and play the multimedia content from their directory locations.
 
 ## WPL File Format
-WPL (Windows Media Player Playlist) is a proprietary file format used in Microsoft Windows Media Player versions 9 or greater. It is a computer file format that stores multimedia playlists. By default, the playlist is saved with a .wpl(Windows Media Player Playlist) extension. You can use the [.m3u](/audio/m3u) extension instead, If you want to play your data discs in a device that doesn't support this extension. The elements of a WPL file are represented in XML format. The top-level element "smil" specifies that the file's elements follow the Synchronized Multimedia Integration Language (SMIL) structure. The file is created and saved with the .wpl extension and its MIME type is application/vnd.ms-wpl.
+
+WPL (Windows Media Player Playlist) is a proprietary file format used in Microsoft Windows Media Player versions 9 or greater. It is a computer file format that stores multimedia playlists. By default, the playlist is saved with a .wpl(Windows Media Player Playlist) extension. You can use the [.m3u](/audio/m3u) extension instead, If you want to play your data discs in a device that doesn't support this extension. The elements of a WPL file are represented in XML format.
+
+The top-level element "smil" specifies that the file's elements follow the Synchronized Multimedia Integration Language (SMIL) structure. The file is created and saved with the .wpl extension and its MIME type is application/vnd.ms-wpl.
 
 ### WPL example
+
 Here is an example of a wpl file:
 ```
 <?wpl version="1.0"?>
@@ -52,4 +57,3 @@ Here is an example of a wpl file:
 ## References ##
 
 * [MPEG-1 Audio Layer II - By Wikipedia](https://en.wikipedia.org/wiki/MPEG-1_Audio_Layer_II)
-

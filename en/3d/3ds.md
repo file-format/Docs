@@ -24,7 +24,7 @@ A file with .3ds extension represents 3D Sudio (DOS) mesh file format used by Au
 ## 3DS File Format - More Information
 At its base, 3DS is a binary file format and follows a predefined structure for storing and retrieving of data. The binary file format enables the 3DS file format faster smaller as compared to text-based file formats. Data inside a 3DS file is stored in the form of chunks.
 
-### Chunk
+### 3DS Chunk
 
 Each chunk in a 3DS file is a block of data that contains an ID, length of the block for location of next block and the data itself. The chunk ID lets 3DS file format readers to skip the blocks that they don't recognize. It also helps in extensibility of the format. Each chunk stores information related to shapes, lighting and viewing information that together render the scene. Chunks are arranged in a hierarchical structure in a 3DS file and resemble XML Document Object tree in representation.
 
@@ -34,7 +34,7 @@ Each chunk in a 3DS file is a block of data that contains an ID, length of the b
 
 **Payload:** The length of chunk is followed by actual bytes of data for the chunk, followed by its sub-chunks in the same hierarchical structure that can be extended to several levels deep.
 
-### Structure ###
+### Structure of a Chunk
 
 The hierarchical structure of a simple chunk is as shown below:
 

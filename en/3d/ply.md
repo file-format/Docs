@@ -105,7 +105,6 @@ There are two type of data types that a property may have.
 
 `Scalar`: The scalar data types are as shown below:
 
-
 |#Name|#Type|#Number of Bytes
 |char|character|1
 |uchar|unsigned character|1
