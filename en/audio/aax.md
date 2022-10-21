@@ -20,11 +20,10 @@
 ## What is an AAX file?
 The files with .aax extension are audiobooks developed by [Audible](https://www.audible.com/); an American online podcast service and audiobook owned by Amazon.com Inc. These files may be used by the Audiblekids, Audible.com and iTune store. The AAX files are digital multimedia audiobooks which may include features such as, graphics, videos, bookmarks and a video timeline; making them more useful and suitable choice for **Picture Books** and **Graphic Novels** for kids. The AAX files are considered as enhanced version of AA files.
 
-
 ## AAX file format
 AAX is an Audiobook file format, which is a M4B file with high quality due to its variable-bitrate and encrypted with DRM (Digital Rights Management) encryption algorithm. Majority of ebooks are encoded at 64 kbit/s, 22.050 kHz, stereo, some are as low as 32k, mono and radio plays are usually encoded at 128kbit/s and 44.1 kHz. The audio of AAX file format is encoded in AAC format (variable quality).
 
-### AAX file format specifications
+### AAX File Format Specifications
 The detail about AAX file format quality specs available at audible is shown below:
 
 - **Bitrate:** 32 - 128 kbit/s

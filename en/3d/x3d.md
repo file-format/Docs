@@ -32,7 +32,7 @@ X3D scene files have a common file structure:
 * The X3D Scene graph and its child nodes
 * End of the X3D root node
 
-## Example ##
+## X3D File Format Example
 
 ```
 <!-- -------------------- X3D header and X3D root node with profile declaration -->

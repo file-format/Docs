@@ -18,12 +18,15 @@
 }
 
 ## What is an M4A file?
-The **M4A file format** is an audio file created by using the AAC (Advanced Audio Coding) which is known as a lossy compression. The word M4A abbreviated as MPEG 4 Audio. These audio files usually have .m4a file extension. This is especially true of un-protected content. It may store various types of audio content, such as audiobooks, songs and podcasts. M4A is usually realized as more advanced format than MP3, which had not been typically designed for audio only. It is just an audio layer in MPEG 1 or 2 video files. M4A format is encrypted by FairPlay Digital Rights Management as were sold via the iTunes Store use the .m4p extension. The Apple iPhones use MPEG-4 audio for their ringtones but those audio files use the .m4r extension.
+
+The **M4A file format** is an audio file created by using the AAC (Advanced Audio Coding) which is known as a lossy compression. The word M4A abbreviated as MPEG 4 Audio. These audio files usually have .m4a file extension. This is especially true of un-protected content. It may store various types of audio content, such as audiobooks, songs and podcasts. M4A is usually realized as more advanced format than MP3, which had not been typically designed for audio only. It is just an audio layer in MPEG 1 or 2 video files.
+
+M4A format is encrypted by FairPlay Digital Rights Management as were sold via the iTunes Store use the .m4p extension. The Apple iPhones use MPEG-4 audio for their ringtones but those audio files use the .m4r extension.
 
 
 ## M4A vs MP3
 
-Both M4A and [MP3](https://docs.fileformat.com/audio/mp3/) are audio-only file formats. 
+Both M4A and [MP3](https://docs.fileformat.com/audio/mp3/) are audio-only file formats.
 
 **M4A**: Better than MP3 in terms of quality and sizes when encoded at the same bit rate. The .m4a file extension is so common because they have been used by Apple for use in the iTunes Music Store. The M4A is an audio file which is compressed using MPEG-4 technology; an algorithm for lossy compression. It is basically associated with “MPEG-4 Audio Layer”, files with .m4a extension are the audio layer of MPEG-4 movies. It is intended to overtake MP3 and become the new standard in audio compression. It is very near to MP3 in many ways but introduced to have a better quality in a same or even smaller file size. The M4A format was first introduced by Apple. The format type is also realized as the Apple lossless Encoder (ALE).
 
@@ -33,7 +36,7 @@ Therefore, currently the M4A couldn't get the MP3’s mainstream success because
 
 ## M4A file format specification
 
-The M4A files consist of consecutive chunks. Each chunk has 8 byte header and sub-divided as: 
+The M4A files consist of consecutive chunks. Each chunk has 8 byte header and sub-divided as:
 - 4-byte chunk size (big-endian, high byte first)
 - 4-byte chunk type - one of pre-defined signatures: "ftyp", "mdat", "moov", "pnot", "udta", "uuid", "moof", "free", "skip", "jP2 ", "wide", "load", "ctab", "imap", "matt", "kmat", "clip", "crgn", "sync", "chap", "tmcd", "scpt", "ssrc", "PICT".
 

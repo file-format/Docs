@@ -19,7 +19,7 @@
 
 ## What is an IPT file?
 
-A file with .ipt extension is native Autodesk's Inventor Part file format for parts. 
+A file with .ipt extension is native Autodesk's Inventor Part file format for parts.
 ![IPT File](../ipt2.jpg "IPT File")
 It is used in combination with Autodesk assembly (.iam) files. IPT files can be imported in 3DS Max as Body Objects where the geometry in the ACIS solids format remains in the same format. 3DS Max retains the object naming as assigned in Autodesk Inventor and the component models can be edited similar to other objects including applying modifiers, alter materials, add lighting and cameras, create animation, and so on. You can open IPT files with applications such as Autodesk Inventor and Autodesk Fusion.
 

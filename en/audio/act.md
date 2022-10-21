@@ -23,17 +23,14 @@ An ACT or Adobe Color Table format (also known as a Color Lookup Table file) is 
 
 The ACT file format is also used by the Alma CAD/CAM File system. These are the guidelines used by 3D machine tools to figure out how to cut anything. A Genesis3D Player, a DS Games Developer Action, or a FoxPro Detailing Wizard Action Schematic files are all examples of ACT.
 
+## ACT File Format Specification
 
-## ACT File Format Specification##
+Many recorders using the ACT system only are doing it for the smallest recording option; if the quality is upped, a separate format, usually WAV, is used, resulting in massively larger documents.
 
-Many recorders using the ACT system only are doing it for the smallest recording option; if the quality is upped, a separate format, usually WAV, is used, resulting in massively larger documents. 
+There are several generations of ACT; as of June 2009, tracks created by subsequent devices just can not be recognized by every free standard music player or converter application, leaving only the bundled MP3 tools.
 
-There are several generations of ACT; as of June 2009, tracks created by subsequent devices just can not be recognized by every free standard music player or converter application, leaving only the bundled MP3 tools. 
-
-Image optimization for Web distribution is done with ACT files. Customers can test the picture quality against the generated image databases by increasing or decreasing the number of colors in the CLUT. 
+Image optimization for Web distribution is done with ACT files. Customers can test the picture quality against the generated image databases by increasing or decreasing the number of colors in the CLUT.
 
 By tapping the Color Table option and picking Load Color Data from the Export for Web dialogue box, Adobe color tables can be uploaded. The */Presets/en_US/Save* for Web Settings/Color Tables/ directory contains several preconfigured ACT files that came with the Photoshop system.
 
 Act scripts can be generated solely within Genesis 3D or by transforming other 3D models to the ACT standard using Genesis3D Actor Designer
-
-

@@ -25,7 +25,7 @@ FBX, FilmBox, is a popular 3D file format that was originally developed by Kayda
 
 FBX is a proprietary format and specifications about its binary file format are not available officially. A C++ FBX SDK is provided by Autodesk for reading, writing and conversion to/from FBX file. A Python import and export script for FBX is also available in Blender software that doesn't use the FBX SDK.
 
-### Text-Based File Structure ###
+### Text-Based File Structure
 
 The text-based file structure is a tree-structured documented with clearly named identifiers. It consists of a nested list of nodes arranged in hierarchy where each node has:
 
@@ -78,7 +78,7 @@ Definitions: {
 ...
 ```
 
-## Binary File Structure ##
+## Binary File Structure of FBX Files
 
 As stated earlier, FBX file format specifications are not available publicly for FBX. Since, Blender Foundation implements the FBX file format without using the company provided SDK, some of the details about binary file format are [available](https://code.blender.org/2013/08/fbx-binary-file-format-specification/) as part of it implementation.
 
@@ -88,7 +88,7 @@ The binary files structure  follows the following order:
 * Object Record
 * Footer
 
-### Header ###
+### FBX Header
 
 The file header information is comprised of 27 bytes.
 

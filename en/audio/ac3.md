@@ -25,7 +25,7 @@ A file with a .ac3 extension is an Audio Codec 3 file, introduced by Dolby Labor
 
 AC3 files are binary in nature and based on the Modified Discrete Cosine Transform (MDCT) which is a lossy compression algorithm. Dolby Laboratories used the MDCT algorithm along with perceptual coding principles to develop the AC-3 audio format. This led to the release of the AC-3 format as the Dolby Digital standard in 1991. The format supports the provision of five channels for normal-range speakders (20 Hz - 20,000 Hz) and one channel (20 Hz - 120 Hz) for the subwoofer driven low-frequency effects. AC3 supports sample rates up to 48 kHz.
 
-### Technical Details
+### Technical Details of AC3 File Format
 
 The Dolby Digital technology uses a very efficient way to compress the size of multichannel audio files without impairing the sound quality. This compression leads to smaller file size which makes it easy to distribute the sound files. Using Dolby Digital, it is possible to include a full 5.1-channel audio mix on a film print or a DVD.
 

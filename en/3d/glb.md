@@ -38,7 +38,7 @@ GLB file format is based on little endian and its structure shows that it contai
 * A 12-byte preamble, entitled the header.
 * One or more chunks that contains JSON content and binary data.
 
-#### Header
+#### GLB Header
 
 The GLB file format header consists of three 4-byte entries:
 

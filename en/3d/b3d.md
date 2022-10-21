@@ -18,9 +18,13 @@
 }
 
 ## What is a B3D file?
-A file with .b3d extension is a model file used by Blitz3D which may contain video game models for characters, buildings, terrain and other objects. The Blitz3D is a programming language used to create **blitz3d games**. Blitz3D is a powerful, flexible and easy-to-use programming language designed for the sole purpose of writing video games. The developers can create action packed 3D games, 2D puzzlers, adventures, RPGS, whatever just by using Blitz3D. The Blitz3D is based on the BASIC programming language; which is also easy to learn and use. These all facts are making Blitz ideal for beginners and more experienced programmers alike. Although it features are considered somewhat antiquated than found in most modern 3D engines, Blitz3D continues to be used by many game programmers worldwide.
+
+A file with .b3d extension is a model file used by Blitz3D which may contain video game models for characters, buildings, terrain and other objects. The Blitz3D is a programming language used to create **blitz3d games**. Blitz3D is a powerful, flexible and easy-to-use programming language designed for the sole purpose of writing video games. The developers can create action packed 3D games, 2D puzzlers, adventures, RPGS, whatever just by using Blitz3D.
+
+The Blitz3D is based on the BASIC programming language; which is also easy to learn and use. These all facts are making Blitz ideal for beginners and more experienced programmers alike. Although it features are considered somewhat antiquated than found in most modern 3D engines, Blitz3D continues to be used by many game programmers worldwide.
 
 ## Brief history of Blitz3D
+
 The Blitz3D was basically released for Microsoft Windows operating system in September 2001, to compete with other similar game-development languages. Blitz3D was an upgraded version over the earlier 2D engine BlitzBasic, which extended its command-set with the addition of an API for a DirectX 7-based 3D engine. The Blitz3D users should also compare BlitzMax, which is a later engine by BlitzBasic. The BlitzMax is a complex but more powerful version of Blitz3D, which supports object-oriented programming languages. It is an updated graphics API to better suit Unicode characters, OpenGL, and exporting to OSX and Linux instead of only Windows.
 
 ## B3D Example

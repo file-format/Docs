@@ -19,13 +19,15 @@
 
 ## What is an AAC file?
 
-AAC (Advanced Audio Coding) refers to digital audio coding standard that represent audio files based on lossy audio compression. It was launched as successor of **[MP3](/audio/mp3/)** file format keeping in view that the lateral faced issues for the implementation of new ideas in the encoding process based on the development of methods for data compression. AAC achieves better sound quality as compared to MP3 at the same bit rate. It was defined in MPEG-2 Part 7 (ISO/IEC 13818-7), and in an updated form in MPEG-4 Part 3 (ISO/IEC 14496-3). The format was adopted as default media format by YouTube, iPhone, iPod, iPad, Apple iTunes and several other platforms. Several applications and APIs are available for conversion of AAC file format to other formats such as MP3, WMA, M4A, **[WAV](/audio/wav/)** and others.
+AAC (Advanced Audio Coding) refers to digital audio coding standard that represent audio files based on lossy audio compression. It was launched as successor of **[MP3](/audio/mp3/)** file format keeping in view that the lateral faced issues for the implementation of new ideas in the encoding process based on the development of methods for data compression. AAC achieves better sound quality as compared to MP3 at the same bit rate. It was defined in MPEG-2 Part 7 (ISO/IEC 13818-7), and in an updated form in MPEG-4 Part 3 (ISO/IEC 14496-3). 
 
-## Brief History ##
+AAC format was adopted as default media format by YouTube, iPhone, iPod, iPad, Apple iTunes and several other platforms. Several applications and APIs are available for conversion of AAC file format to other formats such as MP3, WMA, M4A, **[WAV](/audio/wav/)** and others.
+
+### Brief History of AAC File
 
 AAC file format is an enhanced version of MP3 with some improvements. Contributed by several companies including the Fraunhofer Institute (Fraunhofer IIS - developers of MP3), Nokia, Dolby, AT&T and Sony, the format was declared as an international standard by Moving Picture Experts Group (MPEG) in Apr, 1997. Later in 1999, the MPEG-2 Part 7 was updated and included in the MPEG-4 family of standards. It was known as MPEG-4 Part 3, identified as ISO/IEC 14496-3: 1999 or MPEG-4 Audio.
 
-## AAC File Format Specifications ##
+## AAC File Format Specifications
 
 The AAC file format specifications allow more flexibility to design codec than MP3 does, resulting in more concurrent encoding strategies and efficient compression. The format has been choice of selection by a number of hardware platforms for its improvements over MP3 in terms of providing support for more options even at less bitrates. The AAC file format specifications are available as [MPEG-2 Part 7](https://www.iso.org/standard/43345.html) and [MPEG-4 Part 3](https://www.iso.org/standard/53943.html) (not free to download). The format uses following media types:
 

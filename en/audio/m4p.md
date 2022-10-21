@@ -18,15 +18,15 @@
 }
 
 ## What is an M4P file?
-The file with .m4p extension is an audio file which is usually available at Apple iTunes store for download. On the other words we can say that M4P is an AAC file but copy-protected by using a Digital Rights Management (DRM). It means that M4P files can be played only on authorized systems or devices. Usually M4P files are specific to Apple multimedia devices. So these files can be played only on Apple macbooks, podcasts, smart phones like iPhone 6 or iPhone 7. 
+The file with .m4p extension is an audio file which is usually available at Apple iTunes store for download. On the other words we can say that M4P is an AAC file but copy-protected by using a Digital Rights Management (DRM). It means that M4P files can be played only on authorized systems or devices. Usually M4P files are specific to Apple multimedia devices. So these files can be played only on Apple macbooks, podcasts, smart phones like iPhone 6 or iPhone 7.
 
-## M4P file format
+## M4P File Format
 The M4P stands for MPEG 4 Protected (audio), and it encodes the audio with advanced audio codec (AAC) and protects the file from un-authorized use of the file. This file format is usually considered as an iTunes Music Store's audio file format. Apple uses its FairPlay Digital Rights Management (DRM) system to protect M4P files. FairPlay DRM is based on technology developed by Veridisc. Its protection mechanism works by encrypting the AAC audio stream using the AES encryption. The user receives a master key which is assigned to his account for decryption. This file format was introduced  as a replacement of the MP3 file format, because the MP3 was not originally intended as an audio file, but as layer III in a MPEG 1 or 2 video file.
 
 
-## M4P file format specification
+## M4P File Format Specifications
 
-Similar to [M4A](/audio/m4a/), the M4P files also consist of consecutive chunks. Each chunk has 8 byte header and sub-divided as: 
+Similar to [M4A](/audio/m4a/), the M4P files also consist of consecutive chunks. Each chunk has 8 byte header and sub-divided as:
 - 4-byte chunk size (big-endian, high byte first)
 - 4-byte chunk type - one of pre-defined signatures: "mdat", "moov", "pnot", "moof", "udta", "uuid", "free",  "skip", "ftyp", "jP2 ", "wide", "load", "imap", "matt", "chap", "kmat", "clip", "crgn", "sync", "tmcd", "PICT", "scpt", "ctab", "ssrc".
 

@@ -19,7 +19,9 @@
 
 ## What is a X file?
 
-A file with .x extension refers to [DirectX](https://www.microsoft.com/en-us/download/search.aspx?q=directx) 3D Graphics legacy file format that was introduced with Microsoft DirectX 2.0. It was used for 3D graphics rendering in games and specifies the structures for meshes, textures, animations, and user-defined objects. It has been deprecated since 2014 as the Autodesk FBX file format serves better as a more modern format. X is template-driven and is free of any usage knowledge. You can open DirectX X files using Microsoft DirectX and common text editors.
+A file with .x extension refers to [DirectX](https://www.microsoft.com/en-us/download/search.aspx?q=directx) 3D Graphics legacy file format that was introduced with Microsoft DirectX 2.0. It was used for 3D graphics rendering in games and specifies the structures for meshes, textures, animations, and user-defined objects. It has been deprecated since 2014 as the Autodesk FBX file format serves better as a more modern format. X is template-driven and is free of any usage knowledge.
+
+You can open DirectX X files using Microsoft DirectX and common text editors.
 
 ## X File Format
 

@@ -21,7 +21,7 @@
 
 3MF, 3D Manufacturing Format, is used by applications to render 3D object models to a variety of other applications, platforms, services and printers. It was built to avoid the limitations and issues in other 3D file formats, like [STL](/cad/stl/), for working with the latest versions of 3D printers. 3MF is relatively a new file format that has been developed and published by the 3MF consortium. It is rich enough to fully describe a model, retaining internal information, colour, and other characteristics that makes it extensible for supporting new innovations in 3D printing. The format is extensible, able to be broadly adopted and free of issues besetting other widely used file formats.
 
-## Brief History ##
+## Brief History of 3MF File Format
 
 The existing limitations in available model descriptive file formats, such as STL and others, lead the leading brands to get together and formulate a more extensible file format for 3D printing. An important consideration was to how applications should pass model data to 3D printers. The 3MF consortium, hence, came into being to back a new 3D file format called 3MF with the aim to make it extendible enough to cater the needs of 3D printing. Several companies were part of this consortium including Microsoft, Autodesk, Dassault Systems, Netfabb, SLM, HP and others. Microsoft donated its 3D file format work-in-progress as the starting point for the 3MF Consortium’s collaborative further development of the specification.
 
@@ -38,11 +38,11 @@ The existing limitations in available model descriptive file formats, such as ST
 
 The specifications for 3MF file format are hosted over [Github](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md) for public access and continuous updates. The current published version is 1.2.3 that describes the set of conventions for the use of XML and other widely available technologies to describe the content and appearance of one or more 3D models. Developers, who want to build systems for processing 3MF file formats, can refer to these specifications for implementation purpose.
 
-## File Format Specifications ##
+## 3MF File Format Specifications
 
 The 3MF file format uses the Open Packaging specifications in the form of ZIP archive for its physical model. It includes a well-defined set of parts and relationships that fullfill particular purpose in the document. This also makes the format follow the package feature including digital signatures and thumbnails.
 
-### The 3MF Document ###
+### The 3MF Document - An Overview
 
 A typical 3MF document looks as follow:
 

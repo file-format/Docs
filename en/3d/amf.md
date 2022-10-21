@@ -22,9 +22,8 @@ An AMF file consists of guidelines for objects description in order to be used b
 
 
 ## AMF File Format
+
 Additive Manufacturing file format (**AMF**) defines open standards for objects description in order to be utilized by additive manufacturing processes such as 3D Printing. CAD programs use the AMF file format by making use of the information such as geometry, color and material of the objects. AMF is different than STL format as the lateral does not support color, materials, lattices, and constellations.
-
-
 
 ### Elements of an AMF File
 
