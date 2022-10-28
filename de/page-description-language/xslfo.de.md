@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"XSLFO",
   "description":"Erfahren Sie mehr über das XSLFO-Dateiformat und APIs, die XSLFO-Dateien erstellen und öffnen können.",
-  "linktitle" :"XSLFO",
+  "linktitle" : "XSLFO",
   "menu" : {
     "docs" : {
       "parent" : "page-description-language"

@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"SBN - ESRI Spatial Index Binärdatei",
   "description":"Erfahren Sie mehr über das SBN-Dateiformat und APIs, die SBN-Dateien erstellen und öffnen können.",
-  "linktitle" :"SBN",
+  "linktitle" : "SBN",
   "menu" : {
     "docs" : {
       "parent" : "gis"

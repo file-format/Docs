@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das CUE-Dateiformat und APIs, die CUE-Dateien erstellen, konvertieren und öffnen können.",
   "title" :"CUE - Cue-Sheet-Datei",
-  "linktitle" :"CUE",
+  "linktitle" : "CUE",
   "menu" : {
     "docs" : {
       "parent" : "disc-and-media"

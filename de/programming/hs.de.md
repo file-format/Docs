@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"HS - Haskell-Skriptdateiformat",
   "description":"Erfahren Sie, was ein HS-Dateiformat und APIs sind, die HS-Dateien erstellen und öffnen können.",
-  "linktitle" :"HS",
+  "linktitle" : "HS",
   "menu" : {
     "docs" : {
       "parent" : "programming"

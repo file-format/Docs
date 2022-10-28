@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"WOFF - Web-offenes Dateiformat",
   "description":"Eine WOFF-Datei ist ein offenes Schriftformat, das im Web Open Font Format erstellt wurde.",
-  "linktitle" :"WOFF",
+  "linktitle" : "WOFF",
   "menu" : {
     "docs" : {
       "parent" : "font"

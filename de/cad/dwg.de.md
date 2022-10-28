@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das DWG-Dateiformat und APIs, die DWG-Dateien erstellen und öffnen können.",
   "title" :"DWG-Dateiformat",
-  "linktitle" :"DWG",
+  "linktitle" : "DWG",
   "menu" : {
     "docs" : {
       "parent" : "cad"

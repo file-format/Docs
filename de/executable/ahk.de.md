@@ -7,7 +7,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das AHK-Dateiformat und APIs, die AHK-Dateien erstellen und öffnen können.",
   "title" :"AHK-Dateiformat - AutoHotkey-Skriptdatei",
-  "linktitle" :"AHK",
+  "linktitle" : "AHK",
   "menu" : {
     "docs" : {
       "parent" : "executable"

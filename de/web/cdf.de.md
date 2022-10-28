@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"CDF - Kanaldefinitionsformat",
   "description" :"Erfahren Sie, was eine CDF-Datei und APIs sind, die CDF-Dateien erstellen und öffnen können.",
-  "linktitle" :"CDF",
+  "linktitle" : "CDF",
   "menu" : {
     "docs" : {
       "parent" : "web"

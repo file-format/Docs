@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das OEBZIP-Dateiformat und APIs, die OEBZIP-Dateien erstellen und öffnen können.",
   "title" :"OEBZIP - Komprimierte offene eBook-Publikationsstruktur",
-  "linktitle" :"OEBZIP",
+  "linktitle" : "OEBZIP",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

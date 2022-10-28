@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie, was eine STC-Datei und APIs sind, die STC-Dateien erstellen und öffnen können.",
   "title" :"Was ist die STC-Dateierweiterung?",
-  "linktitle" :"STK",
+  "linktitle" : "STC",
   "menu" : {
     "docs" : {
 "identifier": "web-stc",

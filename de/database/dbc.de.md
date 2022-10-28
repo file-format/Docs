@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das DBC-Dateiformat und APIs, die DBC-Dateien erstellen und öffnen können.",
   "title" :"DBC - CAN-Datenbankdatei",
-  "linktitle" :"DBC",
+  "linktitle" : "DBC",
   "menu" : {
     "docs" : {
       "parent" : "database"

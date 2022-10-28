@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"EGG-Dateiformat - Python-Distributionsdatei",
   "description":"Erfahren Sie mehr über das EGG-Dateiformat und APIs, die EGG-Dateien erstellen und öffnen können.",
-  "linktitle" :"EI",
+  "linktitle" : "EGG",
   "menu" : {
     "docs" : {
       "parent" : "programming"

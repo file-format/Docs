@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"APPXUPLOAD - Was ist eine .appxupload-Datei?",
   "description":"Erfahren Sie mehr über das APPXUPLOAD-Dateiformat und APIs, die APPXUPLOAD-Dateien erstellen und öffnen können.",
-  "linktitle" :"APPXUPLOAD",
+  "linktitle" : "APPXUPLOAD",
   "menu" : {
     "docs" : {
       "parent" : "programming"

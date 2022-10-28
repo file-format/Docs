@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"X3D - 3D-Bilddatei",
   "description":"Erfahren Sie mehr über das X3D-Dateiformat und APIs, die X3D-Dateien öffnen und erstellen können.",
-  "linktitle" :"X3D",
+  "linktitle" : "X3D",
   "menu" : {
     "docs" : {
       "parent" : "3d"

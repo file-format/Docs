@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das M4P-Dateiformat und APIs, die M4P-Dateien erstellen, konvertieren und öffnen können.",
   "title" :"M4P - MPEG-4 Hörbuchdateiformat",
-  "linktitle" :"M4P",
+  "linktitle" : "M4P",
   "menu" : {
     "docs" : {
       "parent" : "audio"

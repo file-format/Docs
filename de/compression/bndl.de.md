@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"BNDL-Dateiformat - Spieldatenbündeldatei",
   "description":"Erfahren Sie mehr über das BNDL-Dateiformat und APIs, die BNDL-Dateien erstellen und öffnen können.",
-  "linktitle" :"BNDL",
+  "linktitle" : "BNDL",
   "menu" : {
     "docs" : {
       "parent" : "compression"

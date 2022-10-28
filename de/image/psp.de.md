@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"PSP-Dateiformat - PaintShop Pro-Bilddatei",
   "description":"Erfahren Sie mehr über das PSP-Dateiformat und APIs, die PSP-Dateien erstellen und öffnen können.",
-  "linktitle" :"PSP",
+  "linktitle" : "PSP",
   "menu" : {
     "docs" : {
 "identifier": "image-psp",

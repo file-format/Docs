@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"HDMP-Datei - Windows-Heap-Dump-Dateiformat",
   "description":"Erfahren Sie mehr über das HDMP-Dateiformat und APIs, die HDMP-Dateien erstellen und öffnen können.",
-  "linktitle" :"HDMP",
+  "linktitle" : "HDMP",
   "menu" : {
     "docs" : {
       "parent" : "system"

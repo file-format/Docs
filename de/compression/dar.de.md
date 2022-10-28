@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"DAR - Disk Archiver-Dateiformat",
   "description":"Erfahren Sie mehr über das DAR-Dateiformat und APIs, die DAR-Dateien erstellen und öffnen können.",
-  "linktitle" :"DAR",
+  "linktitle" : "DAR",
   "menu" : {
     "docs" : {
       "parent" : "compression"

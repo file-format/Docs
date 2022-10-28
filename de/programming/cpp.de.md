@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"CPP - C++-Quellcodedatei",
   "description":"Erfahren Sie mehr über das CPP-Dateiformat und APIs, die CPP-Dateien erstellen und öffnen können.",
-  "linktitle" :"CPP",
+  "linktitle" : "CPP",
   "menu" : {
     "docs" : {
       "parent" : "programming"

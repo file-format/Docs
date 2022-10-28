@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"JPEG - Bilddateiformat",
   "description":"Erfahren Sie mehr über das JPEG-Dateiformat und APIs, die JPEG-Dateien erstellen und öffnen können.",
-  "linktitle" :"JPEG",
+  "linktitle" : "JPEG",
   "menu" : {
     "docs" : {
       "parent" : "image"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Was ist eine DIS-Datei und APIs, die eine DIS-Datei erstellen und öffnen können.",
   "title" :"Was ist eine DIS-Datei?",
-  "linktitle" :"DIS",
+  "linktitle" : "DIS",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

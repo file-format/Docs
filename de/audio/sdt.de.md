@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das SDT-Dateiformat und APIs, die SDT-Dateien erstellen und öffnen können.",
   "title" :"SDT-Dateiformat",
-  "linktitle" :"SDT",
+  "linktitle" : "SDT",
   "menu" : {
     "docs" : {
       "parent" : "audio"

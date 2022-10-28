@@ -7,7 +7,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das SLDPRT-Dateiformat und APIs, die SLDPRT-Dateien erstellen und öffnen können.",
   "title" :"SLDPRT - SolidWorks Teildateityp",
-  "linktitle" :"SLDPRT",
+  "linktitle" : "SLDPRT",
   "menu" : {
     "docs" : {
       "parent" : "cad"

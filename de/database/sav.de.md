@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das SAV-Dateiformat und APIs, die SAV-Dateien erstellen und öffnen können.",
   "title" :"SAV - SPSS-Datendatei",
-  "linktitle" :"SAV",
+  "linktitle" : "SAV",
   "menu" : {
     "docs" : {
 "identifier":"database-sav",

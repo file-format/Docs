@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"INC-Dateierweiterung - Was ist eine INC-Datei?",
   "description":"Erfahren Sie mehr über das INC Include-Dateiformat und APIs, die INC-Dateien erstellen und öffnen können.",
-  "linktitle" :"INK",
+  "linktitle" : "INC",
   "menu" : {
     "docs" : {
       "parent" : "programming"

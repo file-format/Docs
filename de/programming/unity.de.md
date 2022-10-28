@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"Unity-Datei - Unity-Szenendatei",
   "description":"Erfahren Sie mehr über das UNITY-Dateiformat und APIs, die UNITY-Dateien erstellen und öffnen können.",
-  "linktitle" :"EINHEIT",
+  "linktitle" : "UNITY",
   "menu" : {
     "docs" : {
       "parent" : "programming"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das NWD-Dateiformat und APIs, die NWD-Dateien erstellen und öffnen können.",
   "title" :"NWD-Dateiformat",
-  "linktitle" :"NWD",
+  "linktitle" : "NWD",
   "menu" : {
     "docs" : {
       "parent" : "cad"

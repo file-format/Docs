@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das MA-Dateiformat und APIs, die MA-Dateien öffnen und erstellen können.",
   "title" :"MA-Dateiformat",
-  "linktitle" :"MA",
+  "linktitle" : "MA",
   "menu" : {
     "docs" : {
       "parent" : "3d"

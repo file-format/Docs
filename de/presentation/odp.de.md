@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ODP - OpenOffice-Präsentationsdateiformat",
   "description":"Erfahren Sie mehr über das ODP-Dateiformat und APIs, die ODP-Dateien erstellen und öffnen können.",
-  "linktitle" :"ODP",
+  "linktitle" : "ODP",
   "menu" : {
     "docs" : {
       "parent" : "presentation"

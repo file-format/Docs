@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"PUNKT",
   "description":"Erfahren Sie mehr über das DOT-Dateiformat und APIs, die DOT-Dateien erstellen und öffnen können.",
-  "linktitle" :"PUNKT",
+  "linktitle" : "DOT",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das Dateiformat Microsfot Kodu und APIs, die Kodu-Dateien erstellen und öffnen können.",
   "title" :"KODU - Microsoft Kodu-Spieledatei",
-  "linktitle" :"KODU",
+  "linktitle" : "KODU",
   "menu" : {
     "docs" : {
       "parent" : "game"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"PDE - Entwicklungsumgebungsdatei verarbeiten",
   "description":"Erfahren Sie mehr über das PDE-Dateiformat und APIs, die PDE-Dateien erstellen und öffnen können.",
-  "linktitle" :"PDE",
+  "linktitle" : "PDE",
   "menu" : {
     "docs" : {
       "parent" : "programming"

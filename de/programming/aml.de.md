@@ -9,7 +9,7 @@
   "toc" : true,
   "title" :"AML-Datei - Microsoft Assistance Markup Language-Datei",
   "description":"Erfahren Sie, was eine AML-Datei und APIs sind, die AML-Dateien erstellen und öffnen können.",
-  "linktitle" :"AML",
+  "linktitle" : "AML",
   "menu" : {
     "docs" : {
 "identifier":"programming-aml",

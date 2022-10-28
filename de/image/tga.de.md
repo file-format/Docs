@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"TGA-Dateiformat - Eine TARGA-Grafikbilddatei",
   "description":"Erfahren Sie mehr über das TGA-Dateiformat und APIs, die TGA-Dateien erstellen und öffnen können.",
-  "linktitle" :"TG",
+  "linktitle" : "TGA",
   "menu" : {
     "docs" : {
       "parent" : "image"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Ihr Dateiformat-Leitfaden, um zu wissen, was eine XLTX-Datei und APIs sind, die sie erstellen und öffnen können.",
   "title" :"Was ist eine XLTX-Datei?",
-  "linktitle" :"XLTX",
+  "linktitle" : "XLTX",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

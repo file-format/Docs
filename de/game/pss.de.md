@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das PSS-Dateiformat und APIs, die PSS-Dateien erstellen und öffnen können.",
   "title" :"PSS - PlayStation 2-Spielvideodatei",
-  "linktitle" :"PSS",
+  "linktitle" : "PSS",
   "menu" : {
     "docs" : {
 "identifier":"game-pss",

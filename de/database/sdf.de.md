@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das SDF-Dateiformat und APIs, die SDF-Dateien erstellen und öffnen können.",
   "title" :"SDF - SQL Server Compact-Datenbankdatei",
-  "linktitle" :"SDF",
+  "linktitle" : "SDF",
   "menu" : {
     "docs" : {
       "parent" : "database"

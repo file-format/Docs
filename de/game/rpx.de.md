@@ -7,7 +7,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das RPX-Dateiformat und APIs, die RPX-Dateien erstellen und öffnen können.",
   "title" :"RPX - Wii U-Spieldatei",
-  "linktitle" :"RPX",
+  "linktitle" : "RPX",
   "menu" : {
     "docs" : {
       "parent" : "game"

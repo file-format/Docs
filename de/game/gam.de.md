@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das GAM-Dateiformat und APIs, die GAM-Dateien erstellen und öffnen können.",
   "title" :"GAM - Gespeicherte Spieldatei",
-  "linktitle" :"GAM",
+  "linktitle" : "GAM",
   "menu" : {
     "docs" : {
       "parent" : "game"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"QPF - QuickPad verschlüsselte Dokumentdatei",
   "description":"Erfahren Sie mehr über das QPF-Dateiformat und APIs, die QPF-Dateien erstellen und öffnen können.",
-  "linktitle" :"QPF",
+  "linktitle" : "QPF",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

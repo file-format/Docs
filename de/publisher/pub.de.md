@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"PUB – Was ist eine .pub-Datei?",
   "description":"Erfahren Sie mehr über das PUB-Dateiformat und APIs, die PUB-Dateien erstellen und öffnen können.",
-  "linktitle" :"Kneipe",
+  "linktitle" : "PUB",
   "menu" : {
     "docs" : {
       "parent" : "publisher"

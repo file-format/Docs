@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"CXX - C++-Quellcodedatei",
   "description":"Erfahren Sie mehr über das CXX-Dateiformat und APIs, die CXX-Dateien erstellen und öffnen können.",
-  "linktitle" :"CXX",
+  "linktitle" : "CXX",
   "menu" : {
     "docs" : {
       "parent" : "programming"

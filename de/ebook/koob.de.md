@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das KOOB-Dateiformat und APIs, die KOOB-Dateien erstellen und öffnen können.",
   "title" :"KOOB-Dateiformat",
-  "linktitle" :"KOOB",
+  "linktitle" : "KOOB",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

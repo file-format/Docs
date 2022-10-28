@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"CPG-Dateiformat - ESRI Codepage-Datei",
   "description":"Erfahren Sie mehr über das CPG-Dateiformat und APIs, die CPG-Dateien erstellen und öffnen können.",
-  "linktitle" :"CPG",
+  "linktitle" : "CPG",
   "menu" : {
     "docs" : {
 "identifier":"system-cpg",

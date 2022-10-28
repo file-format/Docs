@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"PEA - PeaZip-Archivdateiformat",
   "description":"Erfahren Sie mehr über das PEA-Dateiformat und APIs, die PEA-Dateien erstellen und öffnen können.",
-  "linktitle" :"ERBSE",
+  "linktitle" : "PEA",
   "menu" : {
     "docs" : {
       "parent" : "compression"

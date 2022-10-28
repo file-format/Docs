@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"WPD - WordPerfect-Dokumentdateien",
   "description":"Erfahren Sie mehr über das WPD-Dateiformat und APIs, die WPD-Dateien erstellen und öffnen können.",
-  "linktitle" :"WPD",
+  "linktitle" : "WPD",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

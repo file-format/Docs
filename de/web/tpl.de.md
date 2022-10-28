@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"TPL - HTTP-Dateiservervorlage",
   "description" :"Erfahren Sie, was TPL-Dateien und APIs zum Erstellen und Öffnen von TPL-Dateien sind.",
-  "linktitle" :"TPL",
+  "linktitle" : "TPL",
   "menu" : {
     "docs" : {
       "parent" : "web"

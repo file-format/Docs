@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ART-Datei - BERNINA Art Link-Stickdateiformat",
   "description":"Erfahren Sie mehr über BERNINA ART Link-Dateien und APIs, die ART-Dateien erstellen und öffnen können.",
-  "linktitle" :"KUNST",
+  "linktitle" : "ART",
   "menu" : {
     "docs" : {
 "identifier":"misc-art",

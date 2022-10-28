@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"TMP - Temporäres Dateiformat",
   "description":"Erfahren Sie mehr über das TMP-Dateiformat und APIs, die TMP-Dateien erstellen und öffnen können.",
-  "linktitle" :"TMP",
+  "linktitle" : "TMP",
   "menu" : {
     "docs" : {
       "parent" : "system"

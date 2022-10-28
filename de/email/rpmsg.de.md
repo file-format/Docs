@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"RPMSG-Datei - Outlook-Nachrichtendatei mit eingeschränkten Berechtigungen",
   "description":"Erfahren Sie mehr über RPMSG-Dateien und APIs, die RPMSG-Dateien erstellen und öffnen können.",
-  "linktitle" :"RPMSG",
+  "linktitle" : "RPMSG",
   "menu" : {
     "docs" : {
       "parent" : "email"

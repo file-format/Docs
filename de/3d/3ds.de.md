@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das 3DS-Dateiformat und APIs, die 3DS-Dateien öffnen und erstellen können.",
   "title" :"3DS-Dateiformat",
-  "linktitle" :"3DS",
+  "linktitle" : "3DS",
   "menu" : {
     "docs" : {
       "parent" : "3d"

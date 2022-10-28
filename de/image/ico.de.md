@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ICO - Bilddateiformat",
   "description":"Erfahren Sie mehr über das ICO-Dateiformat und APIs, die ICO-Dateien erstellen und öffnen können.",
-  "linktitle" :"ICO",
+  "linktitle" : "ICO",
   "menu" : {
     "docs" : {
       "parent" : "image"

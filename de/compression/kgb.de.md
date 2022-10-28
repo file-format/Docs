@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"KGB - KGB-Archivdateiformat",
   "description":"Erfahren Sie mehr über das KGB-Dateiformat und APIs, die KGB-Dateien erstellen und öffnen können.",
-  "linktitle" :"KGB",
+  "linktitle" : "KGB",
   "menu" : {
     "docs" : {
       "parent" : "compression"

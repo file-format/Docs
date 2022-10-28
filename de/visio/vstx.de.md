@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"VSTX - Microsoft Visio-Dateiformat",
   "description":"Erfahren Sie mehr über das VSTX-Dateiformat und APIs, die VSTX-Dateien erstellen und öffnen können.",
-  "linktitle" :"VSTX",
+  "linktitle" : "VSTX",
   "menu" : {
     "docs" : {
 "identifier":"visio-vstx",

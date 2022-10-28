@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das EBK-Dateiformat und APIs, die EBK-Dateien erstellen und öffnen können.",
   "title" :"EBK - eBook Pro eBook-Datei",
-  "linktitle" :"EBK",
+  "linktitle" : "EBK",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

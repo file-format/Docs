@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"QGD - Sqlite-Datenbank des QGIS-Projekts",
   "description":"Erfahren Sie mehr über QGD, eine SQLite-Datenbank des QGIS-Projekts und APIs, die QGD-Dateien erstellen und öffnen können.",
-  "linktitle" :"QGD",
+  "linktitle" : "QGD",
   "menu" : {
     "docs" : {
       "parent" : "gis"

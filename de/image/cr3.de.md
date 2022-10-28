@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"CR3-Dateiformat - Canon Raw 3-Bilddatei",
   "description":"Erfahren Sie mehr über das CR3-Dateiformat und APIs, die CR3-Dateien erstellen und öffnen können.",
-  "linktitle" :"CR3",
+  "linktitle" : "CR3",
   "menu" : {
     "docs" : {
 "identifier": "image-cr3",

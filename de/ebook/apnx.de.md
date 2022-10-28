@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das Amazon APNX-Dateiformat und APIs, die APNX-Dateien erstellen und öffnen können.",
   "title" :"APNX - Index der Amazon-Seitenzahl",
-  "linktitle" :"APNX",
+  "linktitle" : "APNX",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

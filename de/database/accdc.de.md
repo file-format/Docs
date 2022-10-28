@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das ACCDC-Dateiformat und APIs, die ACCDC-Dateien erstellen und öffnen können.",
   "title" :"ACCDC - Signiertes Microsoft Access-Paket",
-  "linktitle" :"ACCDC",
+  "linktitle" : "ACCDC",
   "menu" : {
     "docs" : {
       "parent" : "database"

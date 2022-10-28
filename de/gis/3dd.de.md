@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"3DD - ArcGlobe-Dokument",
   "description":"Erfahren Sie mehr über das 3DD-GIS-Dateiformat und APIs, die 3DD-Dateien erstellen und öffnen können.",
-  "linktitle" :"3DD",
+  "linktitle" : "3DD",
   "menu" : {
     "docs" : {
       "parent" : "gis"

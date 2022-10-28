@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"LRC-Dateiformat - Was ist eine LRC-Datei?",
   "description":"Erfahren Sie mehr über die LRC Lyric-Datei und APIs, die LRC-Dateien erstellen und öffnen können.",
-  "linktitle" :"LRC",
+  "linktitle" : "LRC",
   "menu" : {
     "docs" : {
       "parent" : "misc"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"XAML - XML-basierte Auszeichnungssprache",
   "description":"Erfahren Sie mehr über das XAML-Dateiformat und APIs, die XAML-Dateien erstellen und öffnen können.",
-  "linktitle" :"XAML",
+  "linktitle" : "XAML",
   "menu" : {
     "docs" : {
       "parent" : "web"

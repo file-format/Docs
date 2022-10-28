@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"AML-Datei - ACPI-Maschinensprachendatei",
   "description":"Erfahren Sie mehr über das ACPI AML-Dateiformat und APIs, die AML-Dateien erstellen und öffnen können.",
-  "linktitle" :"AML",
+  "linktitle" : "AML",
   "menu" : {
     "docs" : {
 "Bezeichner": "System-AML",

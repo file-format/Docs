@@ -9,7 +9,7 @@
   "toc" : true,
   "title" :"APKS-Datei - APK-Set-Archiv",
   "description":"Erfahren Sie, was eine APKS-Datei ist?",
-  "linktitle" :"APKS",
+  "linktitle" : "APKS",
   "menu" : {
     "docs" : {
       "parent" : "programming"

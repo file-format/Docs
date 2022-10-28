@@ -8,7 +8,7 @@
   "title" :"M2TS-Dateiformat",
   "keywords" :[ "avchd", "Datei", "Erweiterung", "Format", "Videoformat", "m2ts-Datei", "m2ts-Dateiformat", "was ist eine m2ts-Datei"],
   "description":"Erfahren Sie mehr über das M2TS-Dateiformat und die APIs, die erstellt werden können, und zeigen Sie, wie M2TS-Dateien geöffnet werden.",
-  "linktitle" :"M2TS",
+  "linktitle" : "M2TS",
   "menu" : {
     "docs" : {
       "parent" : "video"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"EMF - Erweitertes Metafile-Format",
   "description":"Erfahren Sie mehr über das EMF-Dateiformat und APIs, die EMF-Dateien erstellen und öffnen können.",
-  "linktitle" :"EMF",
+  "linktitle" : "EMF",
   "menu" : {
     "docs" : {
       "parent" : "image"

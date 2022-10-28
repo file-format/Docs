@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie, was eine XLSMHTML-Datei und APIs sind, die XLSMHTML-Dateien erstellen und öffnen und erstellen können",
   "title" :"XLSMHTML - Microsoft Excel MIME-HTML-Tabelle",
-  "linktitle" :"XLSMHTML",
+  "linktitle" : "XLSMHTML",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

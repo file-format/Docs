@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"FWTEMPLATEB-Dateiformat - Freeway-Vorlagendatei",
   "description" :"Ihr Dateiformatleitfaden, um zu erfahren, was eine FWTEMPLATEB-Datei und APIs sind, die eine FWTEMPLATEB-Datei erstellen und öffnen können.",
-  "linktitle" :"FWTEMPLATEB",
+  "linktitle" : "FWTEMPLATEB",
   "menu" : {
     "docs" : {
       "parent" : "web"

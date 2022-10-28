@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"ATT-Datei - Dateiformat für Webformular-Postdaten",
   "description" :"Erfahren Sie, was eine ATT-Datei und APIs sind, die ATT-Dateien erstellen und öffnen können.",
-  "linktitle" :"ATT",
+  "linktitle" : "ATT",
   "menu" : {
     "docs" : {
       "parent" : "web"

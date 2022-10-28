@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das AIFF-Dateiformat und APIs, die AIFF-Dateien erstellen, konvertieren und öffnen können.",
   "title" :"AIFF - Audio Interchange File Format",
-  "linktitle" :"AIFF",
+  "linktitle" : "AIFF",
   "menu" : {
     "docs" : {
       "parent" : "audio"

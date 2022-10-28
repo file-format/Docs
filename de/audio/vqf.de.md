@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das VQF-Dateiformat und APIs, die VQF-Dateien erstellen und öffnen können.",
   "title" :"VQF - TwinVQ-Audiodatei",
-  "linktitle" :"VQF",
+  "linktitle" : "VQF",
   "menu" : {
     "docs" : {
       "parent" : "audio"

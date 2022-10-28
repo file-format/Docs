@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Dateiformatkenntnisse über Numbers-Dateien und APIs, die Numbers erstellen, öffnen und in XLSX oder andere Tabellenkalkulationen konvertieren können.",
   "title" :"NUMBERS - Apple iWork Numbers-Tabelle",
-  "linktitle" :"ZAHLEN",
+  "linktitle" : "NUMBERS",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

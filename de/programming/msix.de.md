@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"MSIX - Was ist eine MSIX-Datei?",
   "description":"Erfahren Sie mehr über MSIX-Dateien und APIs, die MSIX-Dateien erstellen und öffnen können.",
-  "linktitle" :"MSIX",
+  "linktitle" : "MSIX",
   "menu" : {
     "docs" : {
       "parent" : "programming"

@@ -9,7 +9,7 @@
   "toc" : true,
   "title" :"APA - RSView-Entwicklungsprojektarchiv",
   "description":"Erfahren Sie, was eine APA-Datei und APIs sind, die APA-Dateien erstellen und öffnen können.",
-  "linktitle" :"APA",
+  "linktitle" : "APA",
   "menu" : {
     "docs" : {
       "parent" : "programming"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ICNS - Apple-Symbolbild",
   "description":"Erfahren Sie mehr über das ICNS-Dateiformat und APIs, die ICNS-Dateien erstellen und öffnen können.",
-  "linktitle" :"ICNS",
+  "linktitle" : "ICNS",
   "menu" : {
     "docs" : {
       "parent" : "image"

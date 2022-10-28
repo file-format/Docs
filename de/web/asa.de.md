@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ASA - ASP-Konfigurationsdatei",
   "description" :"Erfahren Sie, was eine ASA-Datei und APIs sind, die ASA-Dateien erstellen und öffnen können.",
-  "linktitle" :"ALS EIN",
+  "linktitle" : "ASA",
   "menu" : {
     "docs" : {
       "parent" : "web"

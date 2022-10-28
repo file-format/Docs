@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"TGS - Telegram Animated Sticker File Format",
   "description":"Erfahren Sie mehr über das TGS-Dateiformat und APIs, die TGS-Dateien erstellen und öffnen können.",
-  "linktitle" :"TGS",
+  "linktitle" : "TGS",
   "menu" : {
     "docs" : {
       "parent" : "compression"

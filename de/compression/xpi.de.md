@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"XPI - Plattformübergreifende Installationspaketdatei",
   "description":"Erfahren Sie mehr über das XPI-Dateiformat und APIs, die XPI-Dateien erstellen und öffnen können.",
-  "linktitle" :"XPI",
+  "linktitle" : "XPI",
   "menu" : {
     "docs" : {
 "identifier": "compression-xpi",

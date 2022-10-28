@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"FODT - OpenDocument Flat XML-Dokument",
   "description":"Erfahren Sie mehr über das FODT-Dateiformat und APIs, die FODT-Dateien erstellen und öffnen können.",
-  "linktitle" :"FODT",
+  "linktitle" : "FODT",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

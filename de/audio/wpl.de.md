@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das WPL-Dateiformat und APIs, die WPL-Dateien erstellen, konvertieren und öffnen können.",
   "title" :"WPL - Windows Media Player-Wiedergabelistendatei",
-  "linktitle" :"WPL",
+  "linktitle" : "WPL",
   "menu" : {
     "docs" : {
       "parent" : "audio"

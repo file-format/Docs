@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"DOTM - Microsoft Word 2007-Vorlagendatei",
   "description":"Erfahren Sie mehr über das DOTM-Dateiformat und APIs, die DOTM-Dateien erstellen und öffnen können.",
-  "linktitle" :"DOTM",
+  "linktitle" : "DOTM",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

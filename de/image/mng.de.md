@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"MNG-Dateiformat - Dateiformat für Netzwerkgrafiken mit mehreren Bildern",
   "description":"Erfahren Sie mehr über das MNG-Dateiformat und APIs, die MNG-Dateien erstellen und öffnen können.",
-  "linktitle" :"MNG",
+  "linktitle" : "MNG",
   "menu" : {
     "docs" : {
       "parent" : "image"

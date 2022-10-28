@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"OAR - OpenSimulator-Archivdateiformat",
   "description":"Erfahren Sie mehr über das OAR-Dateiformat und APIs, die OAR-Dateien erstellen und öffnen können.",
-  "linktitle" :"RUDER",
+  "linktitle" : "OAR",
   "menu" : {
     "docs" : {
       "parent" : "compression"

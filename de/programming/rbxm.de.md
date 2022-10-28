@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"RBXM - Ruby-JavaScript-Datei",
   "description":"Erfahren Sie, was das RBXM-Dateiformat ist?",
-  "linktitle" :"RBXM",
+  "linktitle" : "RBXM",
   "menu" : {
     "docs" : {
       "parent" : "programming"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ASPX-Dateiformat",
   "description" :"Ihr Dateiformat-Leitfaden, um zu erfahren, was eine ASPX-Datei und APIs sind, die ASPX-Dateien erstellen und öffnen können.",
-  "linktitle" :"ASPX",
+  "linktitle" : "ASPX",
   "menu" : {
     "docs" : {
       "parent" : "web"

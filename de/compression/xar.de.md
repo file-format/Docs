@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"XAR - Erweiterbares Archivdateiformat",
   "description":"Erfahren Sie mehr über das XAR-Dateiformat und APIs, die XAR-Dateien erstellen und öffnen können.",
-  "linktitle" :"XAR",
+  "linktitle" : "XAR",
   "menu" : {
     "docs" : {
 "identifier": "compression-xar",

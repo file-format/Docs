@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das DNL-Dateiformat und APIs, die DNL-Dateien erstellen und öffnen können.",
   "title" :"DNL - DNAML eBook-Datei",
-  "linktitle" :"DNL",
+  "linktitle" : "DNL",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

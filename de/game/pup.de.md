@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"PUP-Dateiformat - PlayStation 3-Update-Datei",
   "description":"Erfahren Sie mehr über das PUP-Dateiformat und APIs, die PUP-Dateien erstellen und öffnen können.",
-  "linktitle" :"WELPE",
+  "linktitle" : "PUP",
   "menu" : {
     "docs" : {
 "identifier":"game-pup",

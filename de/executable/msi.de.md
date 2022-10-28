@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das MSI-Dateiformat und APIs, die MSI-Dateien erstellen und öffnen können.",
   "title" :"MSI - Windows Installer-Paketdatei",
-  "linktitle" :"MSI",
+  "linktitle" : "MSI",
   "menu" : {
     "docs" : {
       "parent" : "executable"

@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"GDOCX-Datei - Google Drive-Dokumentenverknüpfung",
   "description":"Erfahren Sie, was eine GDOCX-Datei und APIs sind, die GDOCX-Dateien erstellen und öffnen können.",
-  "linktitle" :"GDOCX",
+  "linktitle" : "GDOCX",
   "menu" : {
     "docs" : {
       "parent" : "web"

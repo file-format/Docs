@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ARO-Dateiformat - SteelArrow-Webanwendungsdatei",
   "description" :"Erfahren Sie, was eine ARO-Datei und APIs sind, die ARO-Dateien erstellen und öffnen können.",
-  "linktitle" :"AR",
+  "linktitle" : "ARO",
   "menu" : {
     "docs" : {
       "parent" : "web"

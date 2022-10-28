@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das FB2-Dateiformat und APIs, die FB2-Dateien erstellen und öffnen können.",
   "title" :"Was ist eine FB2-Datei?",
-  "linktitle" :"FB2",
+  "linktitle" : "FB2",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

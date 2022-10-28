@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"TS-Dateiformat - Qt-Übersetzungsquelldatei",
   "description" :"Erfahren Sie, was TS-Dateien und APIs zum Erstellen und Öffnen von TS-Dateien sind.",
-  "linktitle" :"TS",
+  "linktitle" : "TS",
   "menu" : {
     "docs" : {
 "identifier":"web-ts",

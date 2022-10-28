@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"PPTM - Makrofähiges PowerPoint-Präsentationsdateiformat",
   "description":"Erfahren Sie mehr über das PPTM-Dateiformat und APIs, die PPTM-Dateien erstellen und öffnen können.",
-  "linktitle" :"PPTM",
+  "linktitle" : "PPTM",
   "menu" : {
     "docs" : {
       "parent" : "presentation"

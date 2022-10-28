@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das WEBZ-Dateiformat und APIs, die WEBZ-Dateien erstellen und öffnen können.",
   "title" :"WEBZ-Dateiformat",
-  "linktitle" :"WEBZ",
+  "linktitle" : "WEBZ",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

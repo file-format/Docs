@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"NUPKG-Datei - NuGet-Paketdatei",
   "description":"Erfahren Sie mehr über das NUPKG-Dateiformat und APIs, die NUPKG-Dateien erstellen und öffnen können.",
-  "linktitle" :"NUPKG",
+  "linktitle" : "NUPKG",
   "menu" : {
     "docs" : {
       "parent" : "programming"

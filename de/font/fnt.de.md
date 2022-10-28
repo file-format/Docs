@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"FNT - Windows-Schriftartdatei",
   "description":"Erfahren Sie mehr über das FNT-Dateiformat und APIs, die FNT-Dateien erstellen und öffnen können.",
-  "linktitle" :"FNT",
+  "linktitle" : "FNT",
   "menu" : {
     "docs" : {
       "parent" : "font"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das NWF-Dateiformat und APIs, die NWF-Dateien erstellen und öffnen können.",
   "title" :"NWF-Dateiformat",
-  "linktitle" :"NWF",
+  "linktitle" : "NWF",
   "menu" : {
     "docs" : {
       "parent" : "cad"

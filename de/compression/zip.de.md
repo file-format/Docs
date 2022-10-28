@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"POSTLEITZAHL",
   "description":"Was ist eine ZIP-Datei und APIs, die ZIP-Dateien erstellen und öffnen können.",
-  "linktitle" :"POSTLEITZAHL",
+  "linktitle" : "ZIP",
   "menu" : {
     "docs" : {
       "parent" : "compression"

@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"SCALA - Scala-Quellcodedatei",
   "description":"Erfahren Sie mehr über das SCALA-Dateiformat und APIs, die SCALA-Dateien erstellen und öffnen können.",
-  "linktitle" :"SCALA",
+  "linktitle" : "SCALA",
   "menu" : {
     "docs" : {
       "parent" : "programming"

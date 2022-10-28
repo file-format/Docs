@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"WHL-Dateiformat - Python-Wheel-Paketdatei",
   "description":"Erfahren Sie mehr über das WHL-Dateiformat und APIs, die WHL-Dateien erstellen und öffnen können.",
-  "linktitle" :"WHL",
+  "linktitle" : "WHL",
   "menu" : {
     "docs" : {
       "parent" : "compression"

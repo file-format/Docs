@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"OTP - OpenDocument-Präsentationsvorlage",
   "description":"Erfahren Sie mehr über das OTP-Dateiformat und APIs, die OTP-Dateien erstellen und öffnen können.",
-  "linktitle" :"OTP",
+  "linktitle" : "OTP",
   "menu" : {
     "docs" : {
       "parent" : "presentation"

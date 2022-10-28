@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"FIT-Dateiformat - Garmin-Aktivitätsdatei",
   "description":"Erfahren Sie mehr über das FIT-Dateiformat und APIs, die FIT-Dateien erstellen und öffnen können.",
-  "linktitle" :"FIT",
+  "linktitle" : "FIT",
   "menu" : {
     "docs" : {
       "parent" : "gis"

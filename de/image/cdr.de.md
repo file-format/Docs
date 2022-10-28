@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"CDR-Dateiformat - Vektorzeichenbilddatei",
   "description":"Erfahren Sie mehr über das CDR-Dateiformat und APIs, die CDR-Dateien erstellen und öffnen können.",
-  "linktitle" :"CDR",
+  "linktitle" : "CDR",
   "menu" : {
     "docs" : {
       "parent" : "image"

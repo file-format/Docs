@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ASAX - ASP.NET-Serveranwendungsdatei",
   "description" :"Erfahren Sie, was eine ASAX-Datei und APIs sind, die ASAX-Dateien erstellen und öffnen können.",
-  "linktitle" :"ASAX",
+  "linktitle" : "ASAX",
   "menu" : {
     "docs" : {
       "parent" : "web"

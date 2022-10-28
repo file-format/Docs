@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"POTX - Microsoft PowerPoint-Präsentationsvorlage",
   "description":"Erfahren Sie mehr über das POTX-Dateiformat und APIs, die POTX-Dateien erstellen und öffnen können.",
-  "linktitle" :"POTX",
+  "linktitle" : "POTX",
   "menu" : {
     "docs" : {
       "parent" : "presentation"

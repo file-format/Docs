@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das Grand Theft Auto REP-Dateiformat und APIs, die REP-Dateien erstellen und öffnen können.",
   "title" :"REP - Grand Theft Auto Replay-Datei",
-  "linktitle" :"REP",
+  "linktitle" : "REP",
   "menu" : {
     "docs" : {
       "parent" : "game"

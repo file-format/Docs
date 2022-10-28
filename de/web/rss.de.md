@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"RSS - Wirklich einfache Syndizierung",
   "description":"Erfahren Sie mehr über das RSS-Dateiformat und APIs, die RSS-Dateien erstellen und öffnen können.",
-  "linktitle" :"RSS",
+  "linktitle" : "RSS",
   "menu" : {
     "docs" : {
       "parent" : "web"

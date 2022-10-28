@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"ZIM-Dateiformat - OpenZIM-Archivdatei",
   "description":"Erfahren Sie mehr über das ZIM-Dateiformat und APIs, die ZIM-Dateien erstellen und öffnen können.",
-  "linktitle" :"ZIM",
+  "linktitle" : "ZIM",
   "menu" : {
     "docs" : {
       "parent" : "compression"

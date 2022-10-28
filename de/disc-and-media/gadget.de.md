@@ -8,7 +8,7 @@
    "toc" : true,
   "description" :"Erfahren Sie mehr über das GADGET-Dateiformat und APIs, die GADGET-Dateien erstellen und öffnen können.",
   "title" :"GADGET - Virtuelle CD-Datei",
-  "linktitle" :"GERÄT",
+  "linktitle" : "GADGET",
   "menu" : {
     "docs" : {
       "parent" : "disc-and-media"

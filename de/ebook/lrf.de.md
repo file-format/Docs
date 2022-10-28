@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das LRF-Dateiformat und APIs, die LRF-Dateien erstellen und öffnen können.",
   "title" :"LRF-Dateiformat - Eine Sony Portable Reader-Datei",
-  "linktitle" :"LRF",
+  "linktitle" : "LRF",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

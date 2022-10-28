@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"ECE-Datei - Escenic Dynamic Web Page File Format",
   "description":"Erfahren Sie mehr über das ECE-Dateiformat und APIs, die ECE-Dateien erstellen und öffnen können.",
-  "linktitle" :"ECE",
+  "linktitle" : "ECE",
   "menu" : {
     "docs" : {
       "parent" : "web"

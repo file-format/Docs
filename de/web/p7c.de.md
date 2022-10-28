@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"P7C - PKCS 7-Zertifikatsdatei",
   "description":"Erfahren Sie mehr über das P7C-Dateiformat und APIs, die P7C-Dateien erstellen und öffnen können.",
-  "linktitle" :"P7C",
+  "linktitle" : "P7C",
   "menu" : {
     "docs" : {
       "parent" : "web"

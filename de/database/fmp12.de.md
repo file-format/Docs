@@ -7,7 +7,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das FMP12-Dateiformat und APIs, die FMP12-Dateien erstellen und öffnen können.",
   "title" :"FMP12-Dateiformat – FileMaker Pro 12-Datenbankdatei",
-  "linktitle" :"FMP12",
+  "linktitle" : "FMP12",
   "menu" : {
     "docs" : {
       "parent" : "database"

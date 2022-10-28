@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das Counter-Strike PODBot Waypoint PWF-Dateiformat und APIs, die PWF-Dateien erstellen und öffnen können.",
   "title" :"PWF - Counter-Strike PODBot-Wegpunktdatei",
-  "linktitle" :"PWF",
+  "linktitle" : "PWF",
   "menu" : {
     "docs" : {
       "parent" : "game"

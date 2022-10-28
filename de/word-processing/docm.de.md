@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"DOCM - Microsoft Word 2007-Makrodateien",
   "description":"Erfahren Sie mehr über das DOCM-Dateiformat und APIs, die DOCM-Dateien erstellen und öffnen können.",
-  "linktitle" :"DOCM",
+  "linktitle" : "DOCM",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

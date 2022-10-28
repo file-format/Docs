@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"CTG - Canon-Digitalkamera-Katalogdatei",
   "description":"Erfahren Sie mehr über CTG-Dateien und APIs, die CTG-Dateien erstellen und öffnen können.",
-  "linktitle" :"CTG",
+  "linktitle" : "CTG",
   "menu" : {
     "docs" : {
       "parent" : "misc"

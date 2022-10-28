@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das LOG-Dateiformat und APIs, die LOG-Dateien erstellen und öffnen können.",
   "title" :"LOG - Protokolldateiformat",
-  "linktitle" :"PROTOKOLL",
+  "linktitle" : "LOG",
   "menu" : {
     "docs" : {
       "parent" : "database"

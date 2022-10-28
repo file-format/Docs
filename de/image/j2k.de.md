@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"J2K",
   "description":"Erfahren Sie mehr über das J2K-Dateiformat und APIs, die J2K-Dateien erstellen und öffnen können.",
-  "linktitle" :"J2K",
+  "linktitle" : "J2K",
   "menu" : {
     "docs" : {
       "parent" : "image"

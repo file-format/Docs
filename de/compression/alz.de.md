@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ALZ-Dateiformat",
   "description":"Erfahren Sie mehr über das ALZ-Dateiformat und APIs, die ALZ-Dateien erstellen und öffnen können.",
-  "linktitle" :"ALZ",
+  "linktitle" : "ALZ",
   "menu" : {
     "docs" : {
       "parent" : "compression"

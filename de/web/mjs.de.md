@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"MJS - JavaScript-Datei des Node.js ES-Moduls",
   "description" :"Erfahren Sie, was eine MJS-Datei und APIs sind, die eine MJS-Datei erstellen und öffnen können.",
-  "linktitle" :"MJS",
+  "linktitle" : "MJS",
   "menu" : {
     "docs" : {
       "parent" : "web"

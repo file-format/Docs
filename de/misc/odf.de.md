@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ODF - OpenDocument-Formeldatei",
   "description":"Erfahren Sie mehr über das ODF-Dateiformat und APIs, die ODF-Dateien erstellen und öffnen können.",
-  "linktitle" :"ODF",
+  "linktitle" : "ODF",
   "menu" : {
     "docs" : {
       "parent" : "misc"

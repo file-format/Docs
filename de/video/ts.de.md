@@ -8,7 +8,7 @@
   "title" :"TS-Dateiformat - Video-Transport-Stream-Datei",
   "keywords" :[ "ts", "flie", "extension", "extension", ".ts", "format" ],
   "description":"Erfahren Sie, was eine TS-Datei und APIs sind, die TS-Dateien erstellen und öffnen können.",
-  "linktitle" :"TS",
+  "linktitle" : "TS",
   "menu" : {
     "docs" : {
 "identifier":"video-ts",

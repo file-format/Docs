@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"SIFZ-Dateiformat - Synfig Studio komprimierte Projektdatei",
   "description":"Erfahren Sie mehr über das SIFZ-Dateiformat und APIs, die SIFZ-Dateien erstellen und öffnen können.",
-  "linktitle" :"SIFZ",
+  "linktitle" : "SIFZ",
   "menu" : {
     "docs" : {
       "parent" : "compression"

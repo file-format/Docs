@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"FDF-Dateiformat - Was ist eine FDF-Datei?",
   "description":"Erfahren Sie mehr über das FDF-Dateiformat und APIs, die FDF-Dateien erstellen und öffnen können.",
-  "linktitle" :"FDF",
+  "linktitle" : "FDF",
   "menu" : {
     "docs" : {
       "parent" : "pdf"

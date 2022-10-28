@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie, was eine STC-Datei und APIs sind, die STC-Dateien erstellen und öffnen können.",
   "title" :"STC - Dateiformat für StarOffice Calc-Tabellenkalkulationsvorlagen",
-  "linktitle" :"STK",
+  "linktitle" : "STC",
   "menu" : {
     "docs" : {
       "identifier": "spreadsheet-stc",

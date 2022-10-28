@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Was ist eine FCS-Datei und APIs, die FCS-Dateien erstellen und öffnen können.",
   "title" :"FCS - Tabellenkalkulationsdatei erster Wahl",
-  "linktitle" :"FCS",
+  "linktitle" : "FCS",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

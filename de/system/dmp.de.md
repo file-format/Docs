@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"DMP - MemoryDump-Dateiformat",
   "description":"Erfahren Sie mehr über das DMP-Dateiformat und APIs, die DMP-Dateien erstellen und öffnen können.",
-  "linktitle" :"DMP",
+  "linktitle" : "DMP",
   "menu" : {
     "docs" : {
       "parent" : "system"

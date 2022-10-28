@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"VBPROJ",
   "description":"Erfahren Sie mehr über das VBPROJ-Dateiformat und APIs, die VBPROJ-Dateien erstellen und öffnen können.",
-  "linktitle" :"VBPROJ",
+  "linktitle" : "VBPROJ",
   "menu" : {
     "docs" : {
       "parent" : "programming"

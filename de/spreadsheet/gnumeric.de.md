@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Was ist eine GNUMERIC-Datei und APIs, die .gnumeric-Dateien erstellen und öffnen können.",
   "title" :"GNUMERIC - Gnumerisches Tabellenkalkulationsdateiformat",
-  "linktitle" :"GNUMERISCH",
+  "linktitle" : "GNUMERIC",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

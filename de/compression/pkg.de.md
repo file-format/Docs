@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"PKG - Erweiterbares Archivdateiformat",
   "description":"Erfahren Sie mehr über das PKG-Dateiformat und APIs, die PKG-Dateien erstellen und öffnen können.",
-  "linktitle" :"PKG",
+  "linktitle" : "PKG",
   "menu" : {
     "docs" : {
       "parent" : "compression"

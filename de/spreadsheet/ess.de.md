@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie, was eine ESS-Datei und APIs sind, die ESS-Dateien erstellen und öffnen können.",
   "title" :"ESS - EasySpreadsheet-Tabellendateiformat",
-  "linktitle" :"ESS",
+  "linktitle" : "ESS",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

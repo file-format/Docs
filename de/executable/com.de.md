@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das COM-Dateiformat und APIs, die COM-Dateien erstellen und öffnen können.",
   "title" :"COM - DOS-Befehlsdateiformat",
-  "linktitle" :"KOM",
+  "linktitle" : "COM",
   "menu" : {
     "docs" : {
       "parent" : "executable"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das JVSG-Dateiformat und APIs, die JVSG-Dateien erstellen und öffnen können.",
   "title" :"JVSG-Dateiformat",
-  "linktitle" :"JVSG",
+  "linktitle" : "JVSG",
   "menu" : {
     "docs" : {
       "parent" : "cad"

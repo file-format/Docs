@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das Amazon AZW4-Dateiformat und APIs, die AZW1-Dateien erstellen und öffnen können.",
   "title" :"AZW4 - Amazon Print Replica eBook",
-  "linktitle" :"AZW4",
+  "linktitle" : "AZW4",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

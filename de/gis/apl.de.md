@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"APL - ArcPad-Layer-Datei",
   "description":"Erfahren Sie mehr über das APL-Dateiformat und APIs, die APL-Dateien erstellen und öffnen können.",
-  "linktitle" :"APL",
+  "linktitle" : "APL",
   "menu" : {
     "docs" : {
       "parent" : "gis"

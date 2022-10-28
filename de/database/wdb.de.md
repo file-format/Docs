@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das WDB-Dateiformat und APIs, die WDB-Dateien erstellen und öffnen können.",
   "title" :"WDB - SQL Server-Ablaufverfolgungsdatei",
-  "linktitle" :"WDB",
+  "linktitle" : "WDB",
   "menu" : {
     "docs" : {
       "parent" : "database"

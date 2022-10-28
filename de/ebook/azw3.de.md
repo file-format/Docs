@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das AZW3-Dateiformat und APIs, die AZW3-Dateien erstellen und öffnen können.",
   "title" :"Was ist eine AZW3-Datei?",
-  "linktitle" :"AZW3",
+  "linktitle" : "AZW3",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

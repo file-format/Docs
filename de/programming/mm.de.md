@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"MM-Dateiformat - Objective-C++-Quelldatei",
   "description":"Erfahren Sie mehr über MM-Dateien in XCode und APIs, die MM-Dateien erstellen und öffnen können.",
-  "linktitle" :"MM",
+  "linktitle" : "MM",
   "menu" : {
     "docs" : {
 "identifier": "Programmierung-mm",

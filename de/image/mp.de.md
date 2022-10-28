@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"MP-Datei - LaTeX MetaPost-Datei",
   "description":"Erfahren Sie mehr über das MP-Dateiformat und APIs, die MP-Dateien erstellen und öffnen können.",
-  "linktitle" :"MP",
+  "linktitle" : "MP",
   "menu" : {
     "docs" : {
 "identifier":"image-mp",

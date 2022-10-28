@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"FMP - 123 Flash-Menü-Projekt",
   "description" :"Ihr Dateiformat-Leitfaden, um zu erfahren, was eine FMP-Datei und APIs sind, die eine FMP-Datei erstellen und öffnen können.",
-  "linktitle" :"FMP",
+  "linktitle" : "FMP",
   "menu" : {
     "docs" : {
       "parent" : "web"

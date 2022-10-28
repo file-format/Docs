@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie, was eine XL-Datei und APIs sind, die XL-Dateien erstellen und öffnen können.",
   "title" :"XL - Microsoft Excel-Tabellendateiformat",
-  "linktitle" :"XL",
+  "linktitle" : "XL",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

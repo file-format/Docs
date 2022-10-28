@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das ACCDT-Dateiformat und APIs, die ACCDT-Dateien erstellen und öffnen können.",
   "title" :"ACCDT - Microsoft Access 2007-Vorlagendatenbank-Dateiformat",
-  "linktitle" :"ACCDT",
+  "linktitle" : "ACCDT",
   "menu" : {
     "docs" : {
       "parent" : "database"

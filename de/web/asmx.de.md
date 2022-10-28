@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ASMX - ASP.NET-Webdienstdatei",
   "description" :"Erfahren Sie, was eine ASMX-Datei und APIs sind, die ASMX-Dateien erstellen und öffnen können.",
-  "linktitle" :"ASMX",
+  "linktitle" : "ASMX",
   "menu" : {
     "docs" : {
       "parent" : "web"

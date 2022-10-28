@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"PEM-Datei - Privacy Enhanced Mail Certificate File Format",
   "description":"Erfahren Sie mehr über das PEM-Dateiformat und APIs, die PEM-Dateien erstellen und öffnen können.",
-  "linktitle" :"PEM",
+  "linktitle" : "PEM",
   "menu" : {
     "docs" : {
       "parent" : "web"

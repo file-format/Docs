@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"QBL - QuickBooks-Lizenzdatei",
   "description":"Erfahren Sie mehr über das QBL-Dateiformat und APIs, die QBL-Dateien erstellen und öffnen können.",
-  "linktitle" :"QBL",
+  "linktitle" : "QBL",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

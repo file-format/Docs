@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"RHTML - Ruby-HTML-Seite",
   "description":"Erfahren Sie mehr über das RHTML-Dateiformat und APIs, die RHTML-Dateien erstellen und öffnen können.",
-  "linktitle" :"RHTML",
+  "linktitle" : "RHTML",
   "menu" : {
     "docs" : {
       "parent" : "web"

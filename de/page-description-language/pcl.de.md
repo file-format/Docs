@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"PCL",
   "description":"Erfahren Sie mehr über das PCL-Dateiformat und APIs, die PCL-Dateien erstellen und öffnen können.",
-  "linktitle" :"PCL",
+  "linktitle" : "PCL",
   "menu" : {
     "docs" : {
       "parent" : "page-description-language"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das FKB-Dateiformat und APIs, die FKB-Dateien erstellen und öffnen können.",
   "title" :"FKB-Dateiformat",
-  "linktitle" :"FKB",
+  "linktitle" : "FKB",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

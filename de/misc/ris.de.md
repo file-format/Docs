@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"RIS - Zitationsdatei Forschungsinformationssysteme",
   "description":"Erfahren Sie mehr über RIS-Dateien und APIs, die RIS-Dateien erstellen und öffnen können.",
-  "linktitle" :"RIS",
+  "linktitle" : "RIS",
   "menu" : {
     "docs" : {
       "parent" : "misc"

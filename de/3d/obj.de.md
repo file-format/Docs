@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"OBJ-Dateiformat",
   "description":"Erfahren Sie mehr über das OBJ-Dateiformat und APIs, die OBJ-Dateien öffnen und erstellen können.",
-  "linktitle" :"OBJ",
+  "linktitle" : "OBJ",
   "menu" : {
     "docs" : {
       "parent" : "3d"

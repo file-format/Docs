@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"MPX - Microsoft Project Exchange-Dateiformat",
   "description":"Erfahren Sie mehr über das MPX-Dateiformat und APIs, die MPX-Dateien erstellen und öffnen können.",
-  "linktitle" :"MPX",
+  "linktitle" : "MPX",
   "menu" : {
     "docs" : {
       "parent" : "project-management"

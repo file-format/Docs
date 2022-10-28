@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"appxbundle - Was ist eine APPXBundle-Datei?",
   "description":"Erfahren Sie mehr über das APPX-Dateiformat und APIs, die APPX-Dateien erstellen und öffnen können.",
-  "linktitle" :"APPXBUNDLE",
+  "linktitle" : "APPXBUNDLE",
   "menu" : {
     "docs" : {
       "parent" : "programming"

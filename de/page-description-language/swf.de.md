@@ -8,7 +8,7 @@
   "keywords" :[ "SWF", "Datei", "Erweiterung", "Format", "Videoformat", "Was ist eine SWF-Datei", "SWF-Dateiformat", "SWF-Dateiplayer", "So öffnen Sie eine SWF-Datei"] ,
   "title" :"SWF-Datei - Shockwave Flash Movie-Dateiformat",
   "description":"Erfahren Sie, was eine SWF-Datei ist, und APIs, die erstellt werden können, und zeigen Sie, wie die SWF-Datei geöffnet wird.",
-  "linktitle" :"SWF",
+  "linktitle" : "SWF",
   "menu" : {
     "docs" : {
       "parent" : "page-description-language"

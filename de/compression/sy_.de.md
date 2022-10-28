@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"SY_-Dateiformat - Komprimierte SYS-Datei",
   "description":"Erfahren Sie mehr über das SY_-Dateiformat und APIs, die SY_-Dateien erstellen und öffnen können.",
-  "linktitle" :"SY_",
+  "linktitle" : "SY_",
   "menu" : {
     "docs" : {
       "parent" : "compression"

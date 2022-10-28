@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das ART-Dateiformat und APIs, die ART-Dateien erstellen und öffnen können.",
   "title" :"ART-Dateiformat - ArtCAM-Modelldatei",
-  "linktitle" :"KUNST",
+  "linktitle" : "ART",
   "menu" : {
     "docs" : {
       "parent" : "cad"

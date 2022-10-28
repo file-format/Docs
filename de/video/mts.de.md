@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"MTS-Dateiformat - AVCHD-Videodatei",
   "description":"Erfahren Sie mehr über das MTS-Dateiformat und APIs, die MTS-Dateien öffnen können, und zeigen Sie ihnen, wie Sie die MTS-Dateien öffnen.",
-  "linktitle" :"MTS",
+  "linktitle" : "MTS",
   "menu" : {
     "docs" : {
       "parent" : "video"

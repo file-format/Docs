@@ -8,7 +8,7 @@
    "toc" : true,
   "description" :"Erfahren Sie mehr über das ROM-Dateiformat und APIs, die ROM-Dateien erstellen und öffnen können.",
   "title" :"ROM - Nur-Lese-Speicherabbilddatei",
-  "linktitle" :"ROM",
+  "linktitle" : "ROM",
   "menu" : {
     "docs" : {
       "parent" : "disc-and-media"

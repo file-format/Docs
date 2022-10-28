@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"OXPS-Dateiformat",
   "description":"Erfahren Sie mehr über das OXPS-Dateiformat und APIs, die OXPS-Dateien erstellen und öffnen können.",
-  "linktitle" :"OXPS",
+  "linktitle" : "OXPS",
   "menu" : {
     "docs" : {
       "parent" : "page-description-language"

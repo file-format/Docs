@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"EXIF",
   "description":"Erfahren Sie mehr über das EXIF-Dateiformat und APIs, die EXIF-Dateien erstellen und öffnen können.",
-  "linktitle" :"EXIF",
+  "linktitle" : "EXIF",
   "menu" : {
     "docs" : {
       "parent" : "image"

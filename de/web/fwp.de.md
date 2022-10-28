@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"FWP - Microsoft Expression Web-Paket",
   "description" :"Ihr Dateiformatleitfaden, um zu erfahren, was eine FWP-Datei und APIs sind, die eine FWP-Datei erstellen und öffnen können.",
-  "linktitle" :"FWP",
+  "linktitle" : "FWP",
   "menu" : {
     "docs" : {
       "parent" : "web"

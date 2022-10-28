@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"CHAT-Datei - IRC-Chat-Konfigurationsdateiformat",
   "description" :"Erfahren Sie, was eine CHAT-Datei und APIs sind, die CHAT-Dateien erstellen und öffnen können.",
-  "linktitle" :"PLAUDERN",
+  "linktitle" : "CHAT",
   "menu" : {
     "docs" : {
       "parent" : "web"

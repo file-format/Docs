@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"XPM - X PixMap-Dateiformat",
   "description":"Erfahren Sie mehr über das XPM-Dateiformat und APIs, die XPM-Dateien erstellen und öffnen können.",
-  "linktitle" :"XPM",
+  "linktitle" : "XPM",
   "menu" : {
     "docs" : {
       "parent" : "image"

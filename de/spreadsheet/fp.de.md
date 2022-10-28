@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über FileMaker Pro FP-Dateiformat und APIs, die FP-Dateien erstellen und öffnen können.",
   "title" :"FP – FileMaker Pro-Tabellenkalkulationsdatei",
-  "linktitle" :"FP",
+  "linktitle" : "FP",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

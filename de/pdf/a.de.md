@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"PDF/A-Dateiformat",
   "description":"Erfahren Sie mehr über das PDF/A-Dateiformat und APIs, die PDF/A-Dateien erstellen und öffnen können.",
-  "linktitle" :"PDF/A",
+  "linktitle" : "A",
   "menu" : {
     "docs" : {
       "parent" : "pdf"

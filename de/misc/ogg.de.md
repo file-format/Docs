@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"OGG-Dateiformat - OriginLab-Grafikdatei",
   "description":"Erfahren Sie mehr über das OGG-Dateiformat und APIs, die OGG-Dateien erstellen und öffnen können.",
-  "linktitle" :"OGG",
+  "linktitle" : "OGG",
   "menu" : {
     "docs" : {
       "identifier" : "misc-ogg",

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"FON - Schriftbibliotheksdatei",
   "description":"Erfahren Sie mehr über das FON-Dateiformat und APIs, die FON-Dateien erstellen und öffnen können.",
-  "linktitle" :"FON",
+  "linktitle" : "FON",
   "menu" : {
     "docs" : {
       "parent" : "font"

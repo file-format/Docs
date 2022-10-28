@@ -7,7 +7,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das FP7-Dateiformat und APIs, die FP7-Dateien erstellen und öffnen können.",
   "title" :"FP7-Dateiformat – FileMaker Pro 7+-Datenbankdatei",
-  "linktitle" :"FP7",
+  "linktitle" : "FP7",
   "menu" : {
     "docs" : {
       "parent" : "database"

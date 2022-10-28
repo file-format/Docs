@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das ADF-Dateiformat und APIs, die ADF-Dateien erstellen und öffnen können.",
   "title" :"ADF - ACT! Datendatei",
-  "linktitle" :"ADF",
+  "linktitle" : "ADF",
   "menu" : {
     "docs" : {
 "identifier": "database-adf",

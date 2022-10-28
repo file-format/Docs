@@ -7,7 +7,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das DBM-Dateiformat und APIs, die DBM-Dateien öffnen und erstellen können.",
   "title" :"DBM-Datei - DAZ-Ziegelmaterial-Dateiformat",
-  "linktitle" :"DBM",
+  "linktitle" : "DBM",
   "menu" : {
     "docs" : {
 "identifier": "3d-dbm",

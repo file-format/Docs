@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"PPS - PowerPoint-Diashow-Datei",
   "description":"Erfahren Sie mehr über das PPS-Dateiformat und APIs, die PPS-Dateien erstellen und öffnen können.",
-  "linktitle" :"PPS",
+  "linktitle" : "PPS",
   "menu" : {
     "docs" : {
       "parent" : "presentation"

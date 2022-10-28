@@ -9,7 +9,7 @@
   "toc" : true,
   "title" :"RS - Rust-Programmierdatei",
   "description":"Erfahren Sie mehr über das RS-Dateiformat und APIs, die RS-Dateien erstellen und öffnen können.",
-  "linktitle" :"RS",
+  "linktitle" : "RS",
   "menu" : {
     "docs" : {
       "parent" : "programming"

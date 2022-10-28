@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ICE - Bzip-komprimiertes Tar-Archiv",
   "description":"Erfahren Sie mehr über das ICE-Dateiformat und APIs, die ICE-Dateien erstellen und öffnen können.",
-  "linktitle" :"EIS",
+  "linktitle" : "ICE",
   "menu" : {
     "docs" : {
       "parent" : "compression"

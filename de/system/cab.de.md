@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"CAB - Windows Cabinet-Datei",
   "description":"Erfahren Sie mehr über das CAB-Dateiformat und APIs, die CAB-Dateien erstellen und öffnen können.",
-  "linktitle" :"TAXI",
+  "linktitle" : "CAB",
   "menu" : {
     "docs" : {
       "parent" : "system"

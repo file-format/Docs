@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"TNEF",
   "description":"Erfahren Sie mehr über das TNEF-Dateiformat und APIs, die TNEF-Dateien erstellen und öffnen können.",
-  "linktitle" :"TNEF",
+  "linktitle" : "TNEF",
   "menu" : {
     "docs" : {
       "parent" : "email"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das ZIP-BMZ-Dateiformat von Portal Bonus Map und APIs, die BMZ-Dateien erstellen und öffnen können.",
   "title" :"BMZ - Portal Bonus Map ZIP-Datei",
-  "linktitle" :"BMZ",
+  "linktitle" : "BMZ",
   "menu" : {
     "docs" : {
       "parent" : "game"

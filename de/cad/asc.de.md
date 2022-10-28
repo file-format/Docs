@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das ASC-Dateiformat und APIs, die ASC-Dateien erstellen und öffnen können.",
   "title" :"ASC-Datei - Autodesk ASCII-Exportdatei",
-  "linktitle" :"ASC",
+  "linktitle" : "ASC",
   "menu" : {
     "docs" : {
       "parent" : "cad"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie, was XLR-Datei-APIs sind, die XLR-Dateien erstellen und öffnen können.",
   "title" :"XLR - Microsoft Works-Tabellenkalkulationsdateiformat",
-  "linktitle" :"XLR",
+  "linktitle" : "XLR",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"EML - E-Mail-Nachricht",
   "description":"Erfahren Sie mehr über das EML-Dateiformat und APIs, die EML-Dateien erstellen und öffnen können.",
-  "linktitle" :"EML",
+  "linktitle" : "EML",
   "menu" : {
     "docs" : {
       "parent" : "email"

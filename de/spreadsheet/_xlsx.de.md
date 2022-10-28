@@ -7,7 +7,7 @@
   "toc" : true,
   "description" :"Ihr Dateiformat-Leitfaden, um zu wissen, was eine _XLSX-Datei und APIs sind, die _XLSX-Dateien erstellen und öffnen können.",
   "title" :"Was ist eine _XLSX-Datei?",
-  "linktitle" :"_XLSX",
+  "linktitle" : "_XLSX",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

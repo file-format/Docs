@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"CON-Datei - Quelldateiformat der Konzeptanwendung",
   "description" :"Erfahren Sie, was eine CON-Datei und APIs sind, die CON-Dateien erstellen und öffnen können.",
-  "linktitle" :"CON",
+  "linktitle" : "CON",
   "menu" : {
     "docs" : {
 "identifier":"web-con",

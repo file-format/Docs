@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Eine .exe-Datei ist eine ausführbare Microsoft-Datei, die unter Windows ausgeführt wird. Erfahren Sie mehr über das EXE-Dateiformat.",
   "title" :"Was ist eine ausführbare EXE-Datei?",
-  "linktitle" :"EXE",
+  "linktitle" : "EXE",
   "menu" : {
     "docs" : {
       "parent" : "executable"

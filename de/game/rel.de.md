@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das REL-Dateiformat und APIs, die REL-Dateien erstellen und öffnen können.",
   "title" :"REL - Verschiebbare Moduldatei",
-  "linktitle" :"REL",
+  "linktitle" : "REL",
   "menu" : {
     "docs" : {
       "parent" : "game"

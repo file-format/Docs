@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"TGZ-Datei - Gzippte Tar-Datei",
   "description":"Erfahren Sie mehr über das TGZ-Dateiformat und APIs, die TGZ-Dateien erstellen und öffnen können.",
-  "linktitle" :"TGZ",
+  "linktitle" : "TGZ",
   "menu" : {
     "docs" : {
       "parent" : "compression"

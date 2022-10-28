@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das SQLITE-Dateiformat und APIs, die SQLITE-Dateien erstellen und öffnen können.",
   "title" :"SQLite-Dateiformat",
-  "linktitle" :"SQLITE",
+  "linktitle" : "SQLITE",
   "menu" : {
     "docs" : {
       "parent" : "database"

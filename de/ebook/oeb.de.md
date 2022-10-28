@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das OEB-Dateiformat und APIs, die OEB-Dateien erstellen und öffnen können.",
   "title" :"OEB - Offene eBook-Publikationsstruktur",
-  "linktitle" :"OEB",
+  "linktitle" : "OEB",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

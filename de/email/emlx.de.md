@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"EMLX - Apple Mail-Dateiformat",
   "description":"Erfahren Sie mehr über das EMLX-Dateiformat und APIs, die EMLX-Dateien erstellen und öffnen können.",
-  "linktitle" :"EMLX",
+  "linktitle" : "EMLX",
   "menu" : {
     "docs" : {
       "parent" : "email"

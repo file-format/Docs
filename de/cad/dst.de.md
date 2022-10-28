@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"DST - AutoCAD-Plansatzdatei",
   "description" :"Erfahren Sie mehr über .dst-Dateien und APIs, die DST-Dateien erstellen und öffnen können.",
-  "linktitle" :"Sommerzeit",
+  "linktitle" : "DST",
   "menu" :{
     "docs" :{
       "parent" : "cad"

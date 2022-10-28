@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"PDF/X-Dateiformat",
   "description":"Erfahren Sie mehr über das PDF/X-Dateiformat und APIs, die PDF/X-Dateien erstellen und öffnen können.",
-  "linktitle" :"PDF/X",
+  "linktitle" : "X",
   "menu" : {
     "docs" : {
       "parent" : "pdf"

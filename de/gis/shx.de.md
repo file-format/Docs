@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"SHX - Shapefile-Shape-Index-Format",
   "description":"Erfahren Sie mehr über das SHX-Dateiformat und APIs, die SHX-Dateien erstellen und öffnen können.",
-  "linktitle" :"SHX",
+  "linktitle" : "SHX",
   "menu" : {
     "docs" : {
       "parent" : "gis"

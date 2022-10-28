@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"ONETOC2 - Microsoft OneNote-Dateiformat",
   "description":"Erfahren Sie mehr über das ONETOC2-Dateiformat und APIs, die ONETOC2-Dateien erstellen und öffnen können.",
-  "linktitle" :"ONETOC2",
+  "linktitle" : "ONETOC2",
   "menu" : {
     "docs" : {
       "parent" : "note-taking"

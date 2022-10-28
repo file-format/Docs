@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das ALF-Dateiformat und APIs, die ALF-Dateien erstellen und öffnen können.",
   "title" :"ACT! Lookup-Datei",
-  "linktitle" :"ALF",
+  "linktitle" : "ALF",
   "menu" : {
     "docs" : {
       "parent" : "database"

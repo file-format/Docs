@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"NTF - Dateien im nationalen Übertragungsformat",
   "description":"Erfahren Sie mehr über das NTF-Dateiformat und APIs, die NTF-Dateien erstellen und öffnen können.",
-  "linktitle" :"NTF",
+  "linktitle" : "NTF",
   "menu" : {
     "docs" : {
       "parent" : "gis"

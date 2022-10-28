@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das DBF-Dateiformat und APIs, die DBF-Dateien erstellen und öffnen können.",
   "title" :"DBF - dBase-Datenbankdatei",
-  "linktitle" :"DBF",
+  "linktitle" : "DBF",
   "menu" : {
     "docs" : {
       "parent" : "database"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"MPP - Microsoft Project-Dateiformat",
   "description":"Erfahren Sie mehr über das MPP-Dateiformat und APIs, die MPP-Dateien erstellen und öffnen können.",
-  "linktitle" :"MPP",
+  "linktitle" : "MPP",
   "menu" : {
     "docs" : {
       "parent" : "project-management"

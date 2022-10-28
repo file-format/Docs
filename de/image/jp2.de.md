@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"JP2 - Bilddateiformat",
   "description":"Erfahren Sie mehr über das JP2-Dateiformat und APIs, die JP2-Dateien erstellen und öffnen können.",
-  "linktitle" :"JP2",
+  "linktitle" : "JP2",
   "menu" : {
     "docs" : {
       "parent" : "image"

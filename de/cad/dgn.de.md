@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"DGN - MicroStation CAD-Konstruktionsdateiformat",
   "description" :"Erfahren Sie mehr über das DGN-Dateiformat und APIs, die DGN-Dateien erstellen und öffnen können.",
-  "linktitle" :"DGN",
+  "linktitle" : "DGN",
   "menu" :{
     "docs" :{
       "parent" : "cad"

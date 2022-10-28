@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"AAE - Was ist eine .aae-Datei?",
   "description" :"Erfahren Sie, was eine aae-Datei und APIs sind, die aae-Dateien erstellen und öffnen können.",
-  "linktitle" :"AAE",
+  "linktitle" : "AAE",
   "menu" : {
     "docs" : {
       "parent" : "web"

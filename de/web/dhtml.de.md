@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"DHTML - Dynamisches HTML-Dateiformat",
   "description":"Erfahren Sie mehr über das DHTML-Dateiformat und APIs, die DHTML-Dateien erstellen und öffnen können.",
-  "linktitle" :"DHTML",
+  "linktitle" : "DHTML",
   "menu" : {
     "docs" : {
       "parent" : "web"

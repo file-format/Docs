@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"GZIP-Dateiformat - GNU-gezippte Archivdatei",
   "description":"Erfahren Sie, was eine GZIP-Datei und APIs sind, die GZIP-Dateien erstellen und öffnen können.",
-  "linktitle" :"GZIP",
+  "linktitle" : "GZIP",
   "menu" : {
     "docs" : {
       "parent" : "compression"

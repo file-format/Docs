@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das MDF-Dateiformat und APIs, die MDF-Dateien erstellen und öffnen können.",
   "title" :"MDF-Dateiformat - SQL Server-Master-Datenbankdatei",
-  "linktitle" :"MDF",
+  "linktitle" : "MDF",
   "menu" : {
     "docs" : {
       "parent" : "database"

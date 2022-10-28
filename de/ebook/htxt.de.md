@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das HTXT-Dateiformat und APIs, die HTXT-Dateien erstellen und öffnen können.",
   "title" :"HTXT-Dateiformat",
-  "linktitle" :"HTXT",
+  "linktitle" : "HTXT",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

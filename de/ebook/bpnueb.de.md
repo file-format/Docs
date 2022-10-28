@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das BPNUEB-Dateiformat und APIs, die BPNUEB-Dateien erstellen und öffnen können.",
   "title" :"BPNUEB - PNU eBook-Datei",
-  "linktitle" :"BPNUEB",
+  "linktitle" : "BPNUEB",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

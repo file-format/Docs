@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das AC3-Dateiformat und APIs, die AC3-Dateien erstellen und öffnen können.",
   "title" :"AC3 - Audio-Codec-3-Datei",
-  "linktitle" :"AC3",
+  "linktitle" : "AC3",
   "menu" : {
     "docs" : {
       "parent" : "audio"

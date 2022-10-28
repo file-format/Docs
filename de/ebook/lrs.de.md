@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das LRS-Dateiformat und APIs, die LRS-Dateien erstellen und öffnen können.",
   "title" :"LRS - Librie Reader-Quelldateiformat",
-  "linktitle" :"LRS",
+  "linktitle" : "LRS",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

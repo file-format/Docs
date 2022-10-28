@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das SVG-Dateiformat und APIs, die SVG-Dateien erstellen und öffnen können.",
   "title" :"Was ist eine SVG-Datei?",
-  "linktitle" :"SVG",
+  "linktitle" : "SVG",
   "menu" : {
     "docs" : {
       "parent" : "page-description-language"

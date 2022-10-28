@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"NSV-Dateiformat - NullSoft-Streaming-Videodatei",
   "description":"Erfahren Sie mehr über das NSV-Dateiformat und APIs, die NSV-Dateien erstellen und öffnen können.",
-  "linktitle" :"NSV",
+  "linktitle" : "NSV",
   "menu" : {
     "docs" : {
       "parent" : "video"

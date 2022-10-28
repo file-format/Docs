@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das MCWORLD-Dateiformat und APIs, die MCWORLD-Dateien erstellen und öffnen können.",
   "title" :"MCWORLD - Minecraft World-Sicherungsdatei",
-  "linktitle" :"MCWORLD",
+  "linktitle" : "MCWORLD",
   "menu" : {
     "docs" : {
       "parent" : "game"

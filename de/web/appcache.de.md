@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"APPCACHE-Datei - HTML5-Cache-Manifestdateiformat",
   "description" :"Erfahren Sie, was eine APPCACHE-Datei und APIs sind, die APPCACHE-Dateien erstellen und öffnen können.",
-  "linktitle" :"APPCACHE",
+  "linktitle" : "APPCACHE",
   "menu" : {
     "docs" : {
       "parent" : "web"

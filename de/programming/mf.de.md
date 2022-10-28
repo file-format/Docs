@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"MF - Java-Manifest-Dateiformat",
   "description":"Erfahren Sie mehr über das MF-Dateiformat und APIs, die MF-Dateien erstellen und öffnen können.",
-  "linktitle" :"MF",
+  "linktitle" : "MF",
   "menu" : {
     "docs" : {
       "parent" : "programming"

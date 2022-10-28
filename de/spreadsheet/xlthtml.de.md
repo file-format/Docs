@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Ihr Dateiformat-Leitfaden, um zu wissen, was eine XLT-Datei und APIs sind, die sie erstellen und öffnen können.",
   "title" :"Was ist eine XLTHTML-Datei?",
-  "linktitle" :"XLTHTML",
+  "linktitle" : "XLTHTML",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

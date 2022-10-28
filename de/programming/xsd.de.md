@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :" Erfahren Sie mehr über das XSD-Dateiformat und APIs, die eine XSD-Datei erstellen und öffnen können.",
   "title" :"XSD-Dateiformat - XML-Schema-Definitionsdatei",
-  "linktitle" :"XSD",
+  "linktitle" : "XSD",
   "menu" : {
     "docs" : {
       "parent" : "programming"

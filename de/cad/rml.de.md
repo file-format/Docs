@@ -7,7 +7,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das RML-Dateiformat und APIs, die RML-Dateien erstellen und öffnen können.",
   "title" :"RML - Redline Markup Language-Datei",
-  "linktitle" :"RML",
+  "linktitle" : "RML",
   "menu" : {
     "docs" : {
 "identifeir": "cad-rml",

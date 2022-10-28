@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"GNE-Datei - Google Drive-Dokumentverknüpfung",
   "description":"Was ist eine GNE-Datei und APIs, die GNE-Dateien erstellen und öffnen können.",
-  "linktitle" :"GNE",
+  "linktitle" : "GNE",
   "menu" : {
     "docs" : {
       "parent" : "web"

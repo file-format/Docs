@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das PSM-Dateiformat und APIs, die PSM-Dateien erstellen und öffnen können.",
   "title" :"PSM-Dateiformat - Solid Edge-Blatt-Metadatei",
-  "linktitle" :"PSM",
+  "linktitle" : "PSM",
   "menu" : {
     "docs" : {
       "parent" : "cad"

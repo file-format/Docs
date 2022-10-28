@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das ADP-Dateiformat und APIs, die ADP-Dateien erstellen und öffnen können.",
   "title" :"ADP - Access-Datenbankdatei",
-  "linktitle" :"ADP",
+  "linktitle" : "ADP",
   "menu" : {
     "docs" : {
       "parent" : "database"

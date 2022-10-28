@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"OFT - Microsoft Outlook-E-Mail-Vorlagendatei",
   "description":"Erfahren Sie mehr über das OFT-Dateiformat und APIs, die OFT-Dateien erstellen und öffnen können.",
-  "linktitle" :"OFT",
+  "linktitle" : "OFT",
   "menu" : {
     "docs" : {
       "parent" : "email"

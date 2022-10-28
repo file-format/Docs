@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das BNS-Dateiformat von ortal Bonus Map Script und APIs, die BNS-Dateien erstellen und öffnen können.",
   "title" :"BNS - Portal-Bonuskarten-Skriptdatei",
-  "linktitle" :"BNS",
+  "linktitle" : "BNS",
   "menu" : {
     "docs" : {
       "parent" : "game"

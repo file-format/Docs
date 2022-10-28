@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das TMV-Dateiformat und APIs, die TMV-Dateien erstellen und öffnen können.",
   "title" :"Was ist eine TMV-Datei?",
-  "linktitle" :"TMV",
+  "linktitle" : "TMV",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

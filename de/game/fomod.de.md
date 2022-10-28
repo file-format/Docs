@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das FOMOD-Dateiformat und APIs, die FOMOD-Dateien erstellen und öffnen können.",
   "title" :"FOMOD - Fallout-Mod-Archivdatei",
-  "linktitle" :"FOMOD",
+  "linktitle" : "FOMOD",
   "menu" : {
     "docs" : {
       "parent" : "game"

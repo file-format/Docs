@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"PDF/UA-Dateiformat",
   "description":"Erfahren Sie mehr über das PDF/UA-Dateiformat und APIs, die PDF/UA-Dateien erstellen und öffnen können.",
-  "linktitle" :"PDF/UA",
+  "linktitle" : "UA",
   "menu" : {
     "docs" : {
       "parent" : "pdf"

@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"MPS-Dateiformat - Pocket Streets-Kartendatei",
   "description":"Erfahren Sie mehr über das MPS-Dateiformat und APIs, die MPS-Dateien erstellen und öffnen können.",
-  "linktitle" :"MPS",
+  "linktitle" : "MPS",
   "menu" : {
     "docs" : {
       "parent" : "gis"

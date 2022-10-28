@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"KML - Schlüsselloch-Auszeichnungssprache",
   "description":"Erfahren Sie mehr über das KML-Dateiformat und APIs, die KML-Dateien erstellen und öffnen können.",
-  "linktitle" :"KML",
+  "linktitle" : "KML",
   "menu" : {
     "docs" : {
       "parent" : "gis"

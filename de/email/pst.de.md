@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"PST - Outlook Personal Information Store-Dateiformat",
   "description":"Erfahren Sie mehr über das PST-Dateiformat und APIs, die PST-Dateien erstellen und öffnen können.",
-  "linktitle" :"PST",
+  "linktitle" : "PST",
   "menu" : {
     "docs" : {
       "parent" : "email"

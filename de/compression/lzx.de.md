@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"LZX-Dateiformat",
   "description":"Erfahren Sie mehr über das LZX-Dateiformat und APIs, die LZX-Dateien erstellen und öffnen können.",
-  "linktitle" :"LZX",
+  "linktitle" : "LZX",
   "menu" : {
     "docs" : {
       "parent" : "compression"

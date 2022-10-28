@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das M4B-Dateiformat und APIs, die M4B-Dateien erstellen, konvertieren und öffnen können.",
   "title" :"M4B - MPEG-4 Hörbuchdateiformat",
-  "linktitle" :"M4B",
+  "linktitle" : "M4B",
   "menu" : {
     "docs" : {
       "parent" : "audio"

@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"TZ - Gezipptes Tar-Archivdateiformat",
   "description":"Erfahren Sie, was eine TZ-Datei und APIs sind, die TZ-Dateien erstellen und öffnen können.",
-  "linktitle" :"TZ",
+  "linktitle" : "TZ",
   "menu" : {
     "docs" : {
       "parent" : "compression"

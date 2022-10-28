@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ICI - Programmiersprachendatei",
   "description":"Erfahren Sie mehr über das ICI-Dateiformat und APIs, die ICI-Dateien erstellen und öffnen können.",
-  "linktitle" :"ICI",
+  "linktitle" : "ICI",
   "menu" : {
     "docs" : {
       "parent" : "programming"

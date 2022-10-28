@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"VSX - Microsoft Visio-Schablonendateiformat",
   "description":"Erfahren Sie mehr über das VSX-Dateiformat und APIs, die VSX-Dateien erstellen und öffnen können.",
-  "linktitle" :"VSX",
+  "linktitle" : "VSX",
   "menu" : {
     "docs" : {
 "identifier":"visio-vsx",

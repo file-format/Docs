@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das PLT-Dateiformat und APIs, die PLT-Dateien erstellen und öffnen können.",
   "title" :"PLT-Dateiformat",
-  "linktitle" :"PLT",
+  "linktitle" : "PLT",
   "menu" : {
     "docs" : {
       "parent" : "cad"

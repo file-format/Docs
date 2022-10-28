@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"EPIBRW-Datei – Adobe Edge-Projektdatei",
   "description":"Erfahren Sie mehr über das EPIBRW-Dateiformat und APIs, die EPIBRW-Dateien erstellen und öffnen können.",
-  "linktitle" :"EPIBRW",
+  "linktitle" : "EPIBRW",
   "menu" : {
     "docs" : {
       "parent" : "web"

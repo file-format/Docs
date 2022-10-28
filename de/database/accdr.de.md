@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das ACCDR-Dateiformat und APIs, die ACCDR-Dateien erstellen und öffnen können.",
   "title" :"ACCDR - Access-Laufzeitanwendung",
-  "linktitle" :"ACCDR",
+  "linktitle" : "ACCDR",
   "menu" : {
     "docs" : {
       "parent" : "database"

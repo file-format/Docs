@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"TTF - Dateiformat für TrueType-Schriftarten",
   "description":"TrueType-Schriftarten (TTF) basieren auf technischen Spezifikationen für digitale Schriftarten, die ursprünglich von Apple, Inc. entwickelt wurden. Sowohl Apple als auch Microsoft verwendeten TTF auf Mac- und Windows-Betriebssystemen.",
-  "linktitle" :"TTF",
+  "linktitle" : "TTF",
   "menu" : {
     "docs" : {
       "parent" : "font"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Ihr Dateiformat-Leitfaden, um zu wissen, was eine XLSB-Datei und APIs sind, die sie erstellen und öffnen können.",
   "title" :"Was ist eine XLSB-Datei?",
-  "linktitle" :"XLSB",
+  "linktitle" : "XLSB",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

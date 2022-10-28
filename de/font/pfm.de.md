@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"PFM - Metrikdateiformat für Druckerschriften",
   "description":"Erfahren Sie mehr über das PFM-Dateiformat und APIs, die PFM-Dateien erstellen und öffnen können.",
-  "linktitle" :"PFM",
+  "linktitle" : "PFM",
   "menu" : {
     "docs" : {
       "parent" : "font"

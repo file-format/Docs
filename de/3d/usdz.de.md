@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"USDZ - Universelles Szenenbeschreibungs-ZIP-Format",
   "description":"Erfahren Sie mehr über das USDZ-Dateiformat und APIs, die USDZ-Dateien öffnen und erstellen können.",
-  "linktitle" :"USDZ",
+  "linktitle" : "USDZ",
   "menu" : {
     "docs" : {
       "parent" : "3d"

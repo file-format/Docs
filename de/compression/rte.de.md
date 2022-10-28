@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"RTE - RTE-kodierte Datei",
   "description":"Erfahren Sie mehr über das RTE-Dateiformat und APIs, die RTE-Dateien erstellen und öffnen können.",
-  "linktitle" :"RTE",
+  "linktitle" : "RTE",
   "menu" : {
     "docs" : {
       "parent" : "compression"

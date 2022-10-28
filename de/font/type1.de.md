@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"Type 1 - PostScript Type 1-Schriftarten",
   "description":"Typ 1-Schriftart ist ein veraltetes Adobe-Produkt, das in Desktop-basierten Publishing-Software und Druckern, die PostScript verwenden konnten, weit verbreitet war",
-  "linktitle" :"Typ 1",
+  "linktitle" : "TYPE1",
   "menu" : {
     "docs" : {
       "parent" : "font"

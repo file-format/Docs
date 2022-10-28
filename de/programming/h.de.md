@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"H - C/C++ Header-Dateiformat",
   "description":"Erfahren Sie mehr über das H-Dateiformat und APIs, die H-Dateien erstellen und öffnen können.",
-  "linktitle" :"H",
+  "linktitle" : "H",
   "menu" : {
     "docs" : {
       "parent" : "programming"

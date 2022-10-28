@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das MP3-Dateiformat und APIs, die MP3-Dateien öffnen und erstellen können.",
   "title" :"MP3 - Audiodateiformat",
-  "linktitle" :"MP3",
+  "linktitle" : "MP3",
   "menu" : {
     "docs" : {
       "parent" : "audio"

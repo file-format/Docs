@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das ASK-Dateiformat und APIs, die ASK-Dateien erstellen und öffnen können.",
   "title" :"ASK - askSam-Datenbankdatei",
-  "linktitle" :"FRAGEN",
+  "linktitle" : "ASK",
   "menu" : {
     "docs" : {
       "parent" : "database"

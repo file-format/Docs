@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ABA - CemText-Dateiformat",
   "description":"Erfahren Sie mehr über das ABA-Dateiformat und APIs, die ABA-Dateien erstellen und öffnen können.",
-  "linktitle" :"ABA",
+  "linktitle" : "ABA",
   "menu" : {
     "docs" : {
 "identifier":"finance-aba",

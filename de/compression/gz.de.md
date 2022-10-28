@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"GZ-Dateiformat - GNU-Zip-Archivdatei",
   "description":"Erfahren Sie, was eine GZ-Datei und APIs sind, die GZ-Dateien erstellen und öffnen können.",
-  "linktitle" :"GZ",
+  "linktitle" : "GZ",
   "menu" : {
     "docs" : {
       "parent" : "compression"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das TCR-Dateiformat für die Psion 3-Serie und APIs, die TCR-Dateien erstellen und öffnen können.",
   "title" :"TCR - Psion Series 3 eBook-Datei",
-  "linktitle" :"TCR",
+  "linktitle" : "TCR",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

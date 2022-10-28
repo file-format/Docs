@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"MBW-Dateiformat",
   "description":"Erfahren Sie mehr über das MBW-Dateiformat und APIs, die MBW-Dateien erstellen und öffnen können.",
-  "linktitle" :"MBW",
+  "linktitle" : "MBW",
   "menu" : {
     "docs" : {
       "parent" : "compression"

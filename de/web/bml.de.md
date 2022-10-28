@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"BML-Dateiformat - Bean Markup Language-Datei",
   "description":"Erfahren Sie mehr über das BML-Dateiformat und APIs, die BML-Dateien erstellen und öffnen können.",
-  "linktitle" :"BML",
+  "linktitle" : "BML",
   "menu" : {
     "docs" : {
       "parent" : "web"

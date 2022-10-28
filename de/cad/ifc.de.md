@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das IFC-Dateiformat und APIs, die IFC-Dateien erstellen und öffnen können.",
   "title" :"IFC-Dateiformat",
-  "linktitle" :"IFC",
+  "linktitle" : "IFC",
   "menu" : {
     "docs" : {
       "parent" : "cad"

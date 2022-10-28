@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"VSTM - Microsoft Visio-Vorlagendateiformat",
   "description":"Erfahren Sie mehr über das VSTM-Dateiformat und APIs, die VSTM-Dateien erstellen und öffnen können.",
-  "linktitle" :"VSTM",
+  "linktitle" : "VSTM",
   "menu" : {
     "docs" : {
 "identifier":"visio-vstm",

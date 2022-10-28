@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das ACCDW-Dateiformat und APIs, die ACCDW-Dateien erstellen und öffnen können.",
   "title" :"ACCDW - Microsoft Access-Datenbank-Link-Datei",
-  "linktitle" :"ACCDW",
+  "linktitle" : "ACCDW",
   "menu" : {
     "docs" : {
       "parent" : "database"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das ACT-Dateiformat und APIs, die ACT-Dateien erstellen und öffnen können.",
   "title" :"ACT - Dateiformat",
-  "linktitle" :"HANDLUNG",
+  "linktitle" : "ACT",
   "menu" : {
     "docs" : {
       "parent" : "audio"

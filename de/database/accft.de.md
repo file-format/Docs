@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das ACCFT-Dateiformat und APIs, die ACCFT-Dateien erstellen und öffnen können.",
   "title" :"ACCFT - Microsoft Access 2007-Datenbankfeld-Vorlagendatei",
-  "linktitle" :"ACCFT",
+  "linktitle" : "ACCFT",
   "menu" : {
     "docs" : {
       "parent" : "database"

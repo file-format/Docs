@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das XEX-Dateiformat und APIs, die XEX-Dateien erstellen und öffnen können.",
   "title" :"XEX-Dateiformat – ausführbare Xbox 360-Datei",
-  "linktitle" :"XEX",
+  "linktitle" : "XEX",
   "menu" : {
     "docs" : {
       "parent" : "executable"

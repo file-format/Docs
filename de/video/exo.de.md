@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"EXO-Dateiformat - YouTube-Video-Chunk-Datei",
   "description":"Erfahren Sie mehr über das EXO-Dateiformat und APIs, die EXO-Dateien erstellen und öffnen können.",
-  "linktitle" :"EXO",
+  "linktitle" : "EXO",
   "menu" : {
     "docs" : {
       "parent" : "video"

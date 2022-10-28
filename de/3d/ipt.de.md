@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das IPT-Dateiformat und APIs, die IPT-Dateien öffnen und erstellen können.",
   "title" :"IPT - Autodesk Inventor-Bauteildatei",
-  "linktitle" :"IPT",
+  "linktitle" : "IPT",
   "menu" : {
     "docs" : {
       "parent" : "3d"

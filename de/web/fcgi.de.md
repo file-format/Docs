@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"FCGI-Datei - FastCGI-Dateiformat",
   "description" :"Was ist eine FCGI-Datei?.",
-  "linktitle" :"FCGI",
+  "linktitle" : "FCGI",
   "menu" : {
     "docs" : {
       "parent" : "web"

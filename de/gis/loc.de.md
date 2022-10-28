@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"LOC - GPS-Standortdateiformat",
   "description":"Erfahren Sie mehr über das LOC-Dateiformat und APIs, die LOC-Dateien erstellen und öffnen können.",
-  "linktitle" :"LOC",
+  "linktitle" : "LOC",
   "menu" : {
     "docs" : {
       "parent" : "gis"

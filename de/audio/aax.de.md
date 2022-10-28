@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das AAX-Dateiformat und APIs, die AAX-Dateien erstellen und öffnen können.",
   "title" :"AAX - Erweiterte Audiocodierungsdatei",
-  "linktitle" :"AAX",
+  "linktitle" : "AAX",
   "menu" : {
     "docs" : {
       "parent" : "audio"

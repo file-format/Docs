@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"AWM-Datei - AllWebMenus-Projektdateiformat",
   "description" :"Erfahren Sie, was eine AWM-Datei und APIs sind, die AWM-Dateien erstellen und öffnen können.",
-  "linktitle" :"AWM",
+  "linktitle" : "AWM",
   "menu" : {
     "docs" : {
       "parent" : "web"

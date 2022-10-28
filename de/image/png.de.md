@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"PNG-Dateiformat - Rasterbilddatei",
   "description":"Erfahren Sie mehr über das PNG-Dateiformat und APIs, die PNG-Dateien erstellen und öffnen können.",
-  "linktitle" :"PNG",
+  "linktitle" : "PNG",
   "menu" : {
     "docs" : {
       "parent" : "image"

@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"PF-Dateiformat - Stuffit Deluxe Private File",
   "description":"Erfahren Sie mehr über das PF-Dateiformat und APIs, die PF-Dateien erstellen und öffnen können.",
-  "linktitle" :"PF",
+  "linktitle" : "PF",
   "menu" : {
     "docs" : {
 "identifier":"compression-pf",

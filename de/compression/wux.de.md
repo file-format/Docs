@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"WUX-Datei - Komprimiertes Wii U-Disk-Image-Dateiformat",
   "description":"Erfahren Sie mehr über das WUX-Dateiformat und APIs, die WUX-Dateien erstellen und öffnen können.",
-  "linktitle" :"WUX",
+  "linktitle" : "WUX",
   "menu" : {
     "docs" : {
       "parent" : "compression"

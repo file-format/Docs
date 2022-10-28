@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"PPSM - Makrofähige PowerPoint-Präsentationsdatei",
   "description":"Erfahren Sie mehr über das PPSM-Dateiformat und APIs, die PPSM-Dateien erstellen und öffnen können.",
-  "linktitle" :"PPSM",
+  "linktitle" : "PPSM",
   "menu" : {
     "docs" : {
       "parent" : "presentation"

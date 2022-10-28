@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"VB - Visual Basic-Codedatei",
   "description":"Erfahren Sie mehr über das VB-Dateiformat und APIs, die VB-Dateien erstellen und öffnen können.",
-  "linktitle" :"VB",
+  "linktitle" : "VB",
   "menu" : {
     "docs" : {
       "parent" : "programming"

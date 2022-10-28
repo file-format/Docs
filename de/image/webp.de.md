@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"WEBP - Google-Rasterbild-Dateiformat",
   "description":"Erfahren Sie mehr über das WEBP-Dateiformat und APIs, die WEBP-Dateien erstellen und öffnen können.",
-  "linktitle" :"WEB",
+  "linktitle" : "WEBP",
   "menu" : {
     "docs" : {
       "parent" : "image"

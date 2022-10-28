@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"ATOM-Datei - Atom-Syndication-Format",
   "description" :"Erfahren Sie, was eine ATOM-Datei und APIs sind, die ATOM-Dateien erstellen und öffnen können.",
-  "linktitle" :"ATOM",
+  "linktitle" : "ATOM",
   "menu" : {
     "docs" : {
       "parent" : "web"

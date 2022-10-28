@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"ASR-Dateiformat - Aktive Seitendatei",
   "description" :"Erfahren Sie, was eine ASR-Datei und APIs sind, die ASR-Dateien erstellen und öffnen können.",
-  "linktitle" :"ASR",
+  "linktitle" : "ASR",
   "menu" : {
     "docs" : {
       "parent" : "web"

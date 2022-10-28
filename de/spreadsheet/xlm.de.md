@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Ihr Dateiformatleitfaden, um zu wissen, was eine XLM-Makrodatei und APIs sind, die XLM-Dateien erstellen und öffnen können.",
   "title" :"Was ist eine XLM-Datei?",
-  "linktitle" :"XLM",
+  "linktitle" : "XLM",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

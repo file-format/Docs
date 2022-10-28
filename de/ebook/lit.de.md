@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das LIT-Dateiformat, das zu den alten Microsoft Reader und APIs gehört, die LIT-Dateien erstellen und öffnen können.",
   "title" :"LIT (Literatur) - Microsoft Reader E-Books-Dateiformat",
-  "linktitle" :"ZÜNDETE",
+  "linktitle" : "LIT",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

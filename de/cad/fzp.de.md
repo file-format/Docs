@@ -7,7 +7,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das FZP-Dateiformat und APIs, die FZP-Dateien erstellen und öffnen können.",
   "title" :"FZP-Dateiformat - Fritzing XML-Teilebeschreibungsdatei",
-  "linktitle" :"FZP",
+  "linktitle" : "FZP",
   "menu" : {
     "docs" : {
       "parent" : "cad"

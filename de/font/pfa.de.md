@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"PFA - ASCII-Dateiformat für Druckerschriftarten",
   "description":"Erfahren Sie mehr über das PFA-Dateiformat und APIs, die PFA-Dateien erstellen und öffnen können.",
-  "linktitle" :"PFA",
+  "linktitle" : "PFA",
   "menu" : {
     "docs" : {
       "parent" : "font"

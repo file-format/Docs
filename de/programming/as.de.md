@@ -9,7 +9,7 @@
   "toc" : true,
   "title" :"AS - ActionScript-Dateiformat",
   "description":"Erfahren Sie mehr über das AS-Dateiformat und APIs, die AS-Dateien erstellen und öffnen können.",
-  "linktitle" :"WIE",
+  "linktitle" : "AS",
   "menu" : {
     "docs" : {
       "parent" : "programming"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"RTF - Rich-Text-Format",
   "description":"Erfahren Sie mehr über das RTF-Dateiformat und APIs, die RTF-Dateien erstellen und öffnen können.",
-  "linktitle" :"RTF",
+  "linktitle" : "RTF",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

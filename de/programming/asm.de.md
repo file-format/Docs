@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"ASM-Dateiformat - Assemblersprachen-Quellcode-Dateiformat",
   "description":"Erfahren Sie mehr über das ASM-Dateiformat und APIs, die ASM-Dateien erstellen und öffnen können.",
-  "linktitle" :"ASM",
+  "linktitle" : "ASM",
   "menu" : {
     "docs" : {
 "Bezeichner": "Programmierung-asm",

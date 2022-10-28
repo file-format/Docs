@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"MPKG-Dateiformat - Metapaketdatei",
   "description":"Erfahren Sie mehr über das MPKG-Dateiformat und APIs, die MPKG-Dateien erstellen und öffnen können.",
-  "linktitle" :"MPKG",
+  "linktitle" : "MPKG",
   "menu" : {
     "docs" : {
       "parent" : "compression"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"APNG-Dateiformat - Animierte Grafikdatei für tragbare Netzwerke",
   "description":"Erfahren Sie mehr über das APNG-Dateiformat und APIs, die APNG-Dateien erstellen und öffnen können.",
-  "linktitle" :"APNG",
+  "linktitle" : "APNG",
   "menu" : {
     "docs" : {
       "parent" : "image"

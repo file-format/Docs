@@ -7,7 +7,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das KIT-Dateiformat und APIs, die KIT-Dateien erstellen und öffnen können.",
   "title" :"KIT-Dateiformat - CodeKit-Datei",
-  "linktitle" :"SET",
+  "linktitle" : "KIT",
   "menu" : {
     "docs" : {
 "identifier":"web-kit",

@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"GMAP-Dateiformat - Garmin-Kartendatei",
   "description":"Erfahren Sie mehr über das GMAP-Dateiformat und APIs, die GMAP-Dateien erstellen und öffnen können.",
-  "linktitle" :"GMAP",
+  "linktitle" : "GMAP",
   "menu" : {
     "docs" : {
 "identifier": "gis-gmap",

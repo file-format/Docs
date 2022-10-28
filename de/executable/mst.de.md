@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das MST-Dateiformat und APIs, die MST-Dateien erstellen und öffnen können.",
   "title" :"MST - Windows Installer-Paketdatei",
-  "linktitle" :"MST",
+  "linktitle" : "MST",
   "menu" : {
     "docs" : {
       "parent" : "executable"

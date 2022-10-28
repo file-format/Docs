@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ETL-Dateien - Protokolldatei der Microsoft-Ereignisablaufverfolgung",
   "description":"Erfahren Sie mehr über das ETL-Dateiformat und APIs, die ETL-Dateien erstellen und öffnen können.",
-  "linktitle" :"ETL",
+  "linktitle" : "ETL",
   "menu" : {
     "docs" : {
       "parent" : "system"

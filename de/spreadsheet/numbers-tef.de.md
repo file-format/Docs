@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Dateiformatkenntnisse über Numbers-TEF-Dateien und APIs, die sie erstellen und öffnen können.",
   "title" :"NUMBERS-TEF - Dateien, die mit der Apple iWork Numbers-Tabelle für iCloud erstellt wurden",
-  "linktitle" :"ZAHLEN-TEF",
+  "linktitle" : "NUMBERS-TEF",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

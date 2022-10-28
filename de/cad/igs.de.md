@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das IGS-Dateiformat und APIs, die IGS-Dateien erstellen und öffnen können.",
   "title" :"IGS-Dateiformat: 2D-3D-Design-Austauschdatei",
-  "linktitle" :"IGS",
+  "linktitle" : "IGS",
   "menu" : {
     "docs" : {
       "parent" : "cad"

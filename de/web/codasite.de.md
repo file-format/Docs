@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"CODASITE-Dateiformat - Coda-Site-Datei",
   "description" :"Erfahren Sie, was eine CODASITE-Datei und APIs sind, die CODASITE-Dateien erstellen und öffnen können.",
-  "linktitle" :"CODASITE",
+  "linktitle" : "CODASITE",
   "menu" : {
     "docs" : {
       "parent" : "web"

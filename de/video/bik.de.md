@@ -8,7 +8,7 @@
   "title" :"BIK - Bink Videodatei",
   "keywords" :[ "bik-Datei", "bik-Dateiformat", "was ist eine bik-Datei", "Datei", "bik-Beispiel", "bik-Dateierweiterung", "Erweiterung", "Format" ],
   "description":"Erfahren Sie mehr über das BIK-Dateiformat und APIs, die BIK-Dateien erstellen und öffnen können.",
-  "linktitle" :"BIK",
+  "linktitle" : "BIK",
   "menu" : {
     "docs" : {
       "parent" : "video"

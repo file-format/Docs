@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das PL-Dateiformat und APIs, die PL-Dateien erstellen und öffnen können.",
   "title" :"PL-Datei - Perl-Skriptdateiformat",
-  "linktitle" :"PL",
+  "linktitle" : "PL",
   "menu" : {
     "docs" : {
       "parent" : "programming"

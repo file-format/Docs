@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"WEBBOOKMARK-Dateiformat - Safari-Web-Lesezeichendatei",
   "description":"Erfahren Sie, was eine WEBBOOKMARK-Datei und APIs sind, die WEBBOOKMARK-Dateien erstellen und öffnen können.",
-  "linktitle" :"WEBLESEZEICHEN",
+  "linktitle" : "WEBBOOKMARK",
   "menu" : {
     "docs" : {
       "parent" : "web"

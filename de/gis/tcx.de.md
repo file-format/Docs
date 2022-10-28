@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"TCX-Dateiformat – Training Center XML-Datei",
   "description":"Erfahren Sie mehr über das TCX-Dateiformat und APIs, die TCX-Dateien erstellen und öffnen können.",
-  "linktitle" :"TCX",
+  "linktitle" : "TCX",
   "menu" : {
     "docs" : {
 "identifier": "gis-tcx",

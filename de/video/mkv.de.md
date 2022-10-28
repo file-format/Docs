@@ -8,7 +8,7 @@
   "title" :"MKV-Dateiformat",
   "keywords" :[ "mkv", "matroska video", "mkv-format", "wie man mkv-dateien abspielt", "video", "datei", "format" ],
   "description":"Erfahren Sie mehr über das MKV-Dateiformat und APIs, die MKV-Dateien erstellen und öffnen können.",
-  "linktitle" :"MKV",
+  "linktitle" : "MKV",
   "menu" : {
     "docs" : {
       "parent" : "video"

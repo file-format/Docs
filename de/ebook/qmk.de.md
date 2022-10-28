@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das QMK-Dateiformat und APIs, die QMK-Dateien erstellen und öffnen können.",
   "title" :"QMK - YanceyDesktop Quickmarks-Datei",
-  "linktitle" :"QMK",
+  "linktitle" : "QMK",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

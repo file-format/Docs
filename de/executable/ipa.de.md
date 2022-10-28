@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das IPA-Dateiformat und APIs, die IPA-Dateien erstellen und öffnen können.",
   "title" :"IPA - iOS-Anwendungspaketdatei",
-  "linktitle" :"IPA",
+  "linktitle" : "IPA",
   "menu" : {
     "docs" : {
       "parent" : "executable"

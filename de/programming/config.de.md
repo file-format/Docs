@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"CONFIG - Konfigurationsdatei",
   "description":"Erfahren Sie mehr über das CONFIG-Dateiformat mit dem CONFIG-Beispiel und APIs, die CONFIG-Dateien erstellen und öffnen können.",
-  "linktitle" :"KONFIG",
+  "linktitle" : "CONFIG",
   "menu" : {
     "docs" : {
       "parent" : "programming"

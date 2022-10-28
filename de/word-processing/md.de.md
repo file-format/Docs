@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"MD - MarkDown-Sprachdatei",
   "description":"Erfahren Sie mehr über das MD-Dateiformat und APIs, die MD-Dateien erstellen und öffnen können.",
-  "linktitle" :"MD",
+  "linktitle" : "MD",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

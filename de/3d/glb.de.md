@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"GLB",
   "description":"Erfahren Sie mehr über das GLB-Dateiformat und APIs, die GLB-Dateien öffnen und erstellen können.",
-  "linktitle" :"GLB",
+  "linktitle" : "GLB",
   "menu" : {
     "docs" : {
 "identifier": "3d-glb",

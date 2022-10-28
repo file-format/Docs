@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"TXT - Textdokumentdatei",
   "description":"Erfahren Sie mehr über das TXT-Dateiformat und APIs, die TXT-Dateien erstellen und öffnen können.",
-  "linktitle" :"TXT",
+  "linktitle" : "TXT",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

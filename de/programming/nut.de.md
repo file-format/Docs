@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"NUT - Eichhörnchen-Sprachdatei",
   "description":"Erfahren Sie mehr über das NUT-Dateiformat und APIs, die NUT-Dateien erstellen und öffnen können.",
-  "linktitle" :"MUTTER",
+  "linktitle" : "NUT",
   "menu" : {
     "docs" : {
       "parent" : "programming"

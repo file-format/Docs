@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"VSS - Microsoft Visio-Schablonendateiformat",
   "description":"Erfahren Sie mehr über das VSS-Dateiformat und APIs, die VSS-Dateien erstellen und öffnen können.",
-  "linktitle" :"VSS",
+  "linktitle" : "VSS",
   "menu" : {
     "docs" : {
 "identifier":"visio-vss",

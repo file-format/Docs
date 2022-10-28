@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"JPM - JPEG 2000 zusammengesetztes Dateiformat",
   "description":"Erfahren Sie mehr über das JPM-Dateiformat und APIs, die JPM-Dateien erstellen und öffnen können.",
-  "linktitle" :"JPM",
+  "linktitle" : "JPM",
   "menu" : {
     "docs" : {
       "parent" : "image"

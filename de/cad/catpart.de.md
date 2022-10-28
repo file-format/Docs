@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das .catpart-Dateiformat und APIs, die CATPART-Dateien erstellen und öffnen können.",
   "title" :"CATPART-Dateiformat - CATIA V5-Teiledatei",
-  "linktitle" :"CATPART",
+  "linktitle" : "CATPART",
   "menu" : {
     "docs" : {
       "parent" : "cad"

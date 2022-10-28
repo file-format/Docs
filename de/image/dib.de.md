@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"DIB",
   "description":"Erfahren Sie mehr über das DIB-Dateiformat und APIs, die DIB-Dateien erstellen und öffnen können.",
-  "linktitle" :"DIB",
+  "linktitle" : "DIB",
   "menu" : {
     "docs" : {
       "parent" : "image"

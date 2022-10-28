@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"LGO-Dateiformat - Logo-Anweisungsdatei",
   "description":"Erfahren Sie mehr über das LGO-Dateiformat und APIs, die LGO-Dateien erstellen und öffnen können.",
-  "linktitle" :"LGO",
+  "linktitle" : "LGO",
   "menu" : {
     "docs" : {
       "parent" : "programming"

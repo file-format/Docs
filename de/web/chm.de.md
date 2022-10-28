@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"CHM - Kompiliertes HTML-Hilfedateiformat",
   "description" :"Erfahren Sie, was eine CHM-Datei und APIs sind, die sie erstellen und öffnen können.",
-  "linktitle" :"CHM",
+  "linktitle" : "CHM",
   "menu" : {
     "docs" : {
       "parent" : "web"

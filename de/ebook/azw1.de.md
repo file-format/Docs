@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das Amazon AZW1-Dateiformat und APIs, die AZW1-Dateien erstellen und öffnen können.",
   "title" :"AZW1 - Amazon Kindle Topas eBook",
-  "linktitle" :"AZW1",
+  "linktitle" : "AZW1",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

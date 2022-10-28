@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"HTML-Dateiformat",
   "description":"Erfahren Sie mehr über das HTML-Dateiformat und APIs, die HTML-Dateien erstellen und öffnen können.",
-  "linktitle" :"HTML",
+  "linktitle" : "HTML",
   "menu" : {
     "docs" : {
       "parent" : "web"

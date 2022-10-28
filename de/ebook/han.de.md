@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das HAN-Dateiformat und APIs, die HAN-Dateien erstellen und öffnen können.",
   "title" :"HAN-Dateiformat",
-  "linktitle" :"HAN",
+  "linktitle" : "HAN",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

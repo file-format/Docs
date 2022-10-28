@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"CGM-Dateiformat",
   "description":"Erfahren Sie mehr über das CGM-Dateiformat und APIs, die CGM-Dateien erstellen und öffnen können.",
-  "linktitle" :"CGM",
+  "linktitle" : "CGM",
   "menu" : {
     "docs" : {
       "parent" : "page-description-language"

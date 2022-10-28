@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das RFT-Dateiformat und APIs, die RFT-Dateien erstellen und öffnen können.",
   "title" :"RFT - Revit-Familienvorlagendatei",
-  "linktitle" :"RFT",
+  "linktitle" : "RFT",
   "menu" : {
     "docs" : {
       "parent" : "cad"

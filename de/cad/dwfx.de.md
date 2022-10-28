@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das DWFX-Dateiformat und APIs, die DWFX-Dateien erstellen und öffnen können.",
   "title" :"DWFX-Dateiformat",
-  "linktitle" :"DWFX",
+  "linktitle" : "DWFX",
   "menu" : {
     "docs" : {
       "parent" : "cad"

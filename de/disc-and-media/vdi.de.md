@@ -8,7 +8,7 @@
    "toc" : true,
   "description" :"Erfahren Sie mehr über das VDI-Dateiformat und APIs, die VDI-Dateien erstellen und öffnen können.",
   "title" :"VDI - Image-Datei der virtuellen VirtualBox-Festplatte",
-  "linktitle" :"VDI",
+  "linktitle" : "VDI",
   "menu" : {
     "docs" : {
       "parent" : "disc-and-media"

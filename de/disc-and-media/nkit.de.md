@@ -8,7 +8,7 @@
    "toc" : true,
   "description" :"Erfahren Sie mehr über das NKIT-Dateiformat und APIs, die NKIT-Dateien erstellen und öffnen können.",
   "title" :"NKIT - Disk-Image-Dateiformat",
-  "linktitle" :"NKI",
+  "linktitle" : "NKIT",
   "menu" : {
     "docs" : {
       "parent" : "disc-and-media"

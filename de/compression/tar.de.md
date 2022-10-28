@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"TAR - Unix-Archivdateiformat",
   "description":"Erfahren Sie, was eine Tar-Datei und APIs sind, die TAR-Dateien erstellen und öffnen können.",
-  "linktitle" :"TEER",
+  "linktitle" : "TAR",
   "menu" : {
     "docs" : {
       "parent" : "compression"

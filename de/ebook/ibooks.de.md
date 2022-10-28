@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das IBOOKS-Dateiformat und APIs, die IBOOKS-Dateien erstellen und öffnen können.",
   "title" :"IBOOKS-Dateiformat",
-  "linktitle" :"IBOOKS",
+  "linktitle" : "IBOOKS",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

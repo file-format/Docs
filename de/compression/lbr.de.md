@@ -10,7 +10,7 @@
   "toc" : true,
   "title" :"LBR - Archivdateiformat der LU-Bibliothek",
   "description":"Erfahren Sie mehr über das LBR-Dateiformat und APIs, die LBR-Dateien erstellen und öffnen können.",
-  "linktitle" :"LBR",
+  "linktitle" : "LBR",
   "menu" : {
     "docs" : {
       "parent" : "compression"

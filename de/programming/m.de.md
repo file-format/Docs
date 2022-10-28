@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"M - Matlab-Quellcodedatei",
   "description":"Erfahren Sie mehr über Matlab .m-Quellcodedateien und APIs, die MF-Dateien erstellen und öffnen können.",
-  "linktitle" :"M",
+  "linktitle" : "M",
   "menu" : {
     "docs" : {
       "parent" : "programming"

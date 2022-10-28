@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"IFO-Datei - Was ist eine IFO-Datei?",
   "description":"Erfahren Sie mehr über das IFO-Dateiformat und APIs, die IFO-Dateien erstellen und öffnen können.",
-  "linktitle" :"IFO",
+  "linktitle" : "IFO",
   "menu" : {
     "docs" : {
       "parent" : "video"

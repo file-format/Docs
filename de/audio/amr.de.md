@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das AMR-Dateiformat und APIs, die AMR-Dateien erstellen, konvertieren und öffnen können.",
   "title" :"AMR - Adaptive Multi-Rate-Codec-Datei",
-  "linktitle" :"AMR",
+  "linktitle" : "AMR",
   "menu" : {
     "docs" : {
       "parent" : "audio"

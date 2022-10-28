@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Ihr Dateiformatleitfaden, um zu erfahren, was eine MID-Datei und APIs sind, die MID-Dateien erstellen und öffnen können.",
   "title" :"MIDI-Dateiformat",
-  "linktitle" :"MID",
+  "linktitle" : "MID",
   "menu" : {
     "docs" : {
       "parent" : "audio"

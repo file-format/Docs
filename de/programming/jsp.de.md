@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"JSP - Java Server Pages-Dateiformat",
   "description":"Erfahren Sie mehr über das JSP-Dateiformat mit JSP-Beispiel und APIs, die JSP-Dateien erstellen und öffnen können.",
-  "linktitle" :"JSP",
+  "linktitle" : "JSP",
   "menu" : {
     "docs" : {
       "parent" : "programming"

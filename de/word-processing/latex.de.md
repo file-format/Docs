@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"LATEX - Latex-Dokumentdatei",
   "description":"Erfahren Sie mehr über das LATEX-Dateiformat und APIs, die LATEX-Dateien erstellen und öffnen können.",
-  "linktitle" :"LATEX",
+  "linktitle" : "LATEX",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

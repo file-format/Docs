@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"LQR-Dateiformat",
   "description":"Erfahren Sie mehr über das LQR-Dateiformat und APIs, die LQR-Dateien erstellen und öffnen können.",
-  "linktitle" :"LQR",
+  "linktitle" : "LQR",
   "menu" : {
     "docs" : {
       "parent" : "compression"

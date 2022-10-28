@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"LTX - Latex-Dokumentdatei",
   "description":"Erfahren Sie mehr über das LTX-Dateiformat und APIs, die LTX-Dateien erstellen und öffnen können.",
-  "linktitle" :"LTX",
+  "linktitle" : "LTX",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

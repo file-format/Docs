@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"DEB - Bzip-komprimiertes Tar-Archiv",
   "description":"Erfahren Sie mehr über das DEB-Dateiformat und APIs, die DEB-Dateien erstellen und öffnen können.",
-  "linktitle" :"DEB",
+  "linktitle" : "DEB",
   "menu" : {
     "docs" : {
       "parent" : "compression"

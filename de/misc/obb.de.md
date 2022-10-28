@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"OBB-Dateiformat - Undurchsichtige binäre Blob-Datei für Android",
   "description":"Erfahren Sie mehr über das OBB-Dateiformat und APIs, die OBB-Dateien erstellen und öffnen können.",
-  "linktitle" :"OBB",
+  "linktitle" : "OBB",
   "menu" : {
     "docs" : {
       "parent" : "misc"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das PMVX-Dateiformat und APIs, die PMVX-Dateien erstellen und öffnen können.",
   "title" :"PMVX - PlanMaker-Tabellenvorlagendatei",
-  "linktitle" :"PMVX",
+  "linktitle" : "PMVX",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

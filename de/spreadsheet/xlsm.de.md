@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Ihr Dateiformat-Leitfaden, um zu wissen, was eine XLSM-Datei und APIs sind, die sie erstellen und öffnen können.",
   "title" :"Was ist eine XLSM-Datei?",
-  "linktitle" :"XLSM",
+  "linktitle" : "XLSM",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"PCX-Dateiformat - Paintbrush-Bitmap-Bilddatei",
   "description":"Erfahren Sie mehr über das PCX-Dateiformat und APIs, die PCX-Dateien erstellen und öffnen können.",
-  "linktitle" :"PCX",
+  "linktitle" : "PCX",
   "menu" : {
     "docs" : {
       "parent" : "image"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das ANB-Dateiformat und APIs, die ANB-Dateien erstellen und öffnen können.",
   "title" :"ANB - Analyst's Notebook Chart",
-  "linktitle" :"ANB",
+  "linktitle" : "ANB",
   "menu" : {
     "docs" : {
       "parent" : "database"

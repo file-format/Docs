@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das CBR-Dateiformat und APIs, die CBR-Dateien erstellen und öffnen können.",
   "title" :"CBR - RAR-Archivdateiformat für Comics",
-  "linktitle" :"CBR",
+  "linktitle" : "CBR",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

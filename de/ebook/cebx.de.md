@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das CEBX-Dateiformat und APIs, die CEBX-Dateien erstellen und öffnen können.",
   "title" :"CEBX - Apabi eBook-Datei",
-  "linktitle" :"CEBX",
+  "linktitle" : "CEBX",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

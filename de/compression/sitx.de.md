@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"SITX - StuffIt X-Archivdateiformat",
   "description":"Erfahren Sie mehr über das SITX-Dateiformat und APIs, die SITX-Dateien erstellen und öffnen können.",
-  "linktitle" :"SITX",
+  "linktitle" : "SITX",
   "menu" : {
     "docs" : {
       "parent" : "compression"

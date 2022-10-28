@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das Dateiformat EPUB Navigation Control XML File (NCX) und APIs, die NCX-Dateien erstellen und öffnen können.",
   "title" :"NCX - XML-Datei zur EPUB-Navigationssteuerung",
-  "linktitle" :"NCX",
+  "linktitle" : "NCX",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

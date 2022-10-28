@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"XBRL - Dateiformat für Geschäfts- und Finanzberichte",
   "description":"Erfahren Sie mehr über das XBRL-Dateiformat und APIs, die XBRL-Dateien erstellen und öffnen können.",
-  "linktitle" :"XBRL",
+  "linktitle" : "XBRL",
   "menu" : {
     "docs" : {
 "identifier":"finance-xbrl",

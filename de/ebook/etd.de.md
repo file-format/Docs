@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das ETD-Dateiformat und APIs, die ETD-Dateien erstellen und öffnen können.",
   "title" :"ETD-Dateiformat",
-  "linktitle" :"ETD",
+  "linktitle" : "ETD",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

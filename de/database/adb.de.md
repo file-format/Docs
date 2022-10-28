@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das ADB-Dateiformat und APIs, die ADB-Dateien erstellen und öffnen können.",
   "title" :"ADB - Alpha-Five-Datenbankdatei",
-  "linktitle" :"ADB",
+  "linktitle" : "ADB",
   "menu" : {
     "docs" : {
       "parent" : "database"

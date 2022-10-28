@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über BKS Spreadsheet-Dateien und APIs, die BKS-Dateien erstellen und öffnen können.",
   "title" :"BKS - Microsoft Works Spreadsheet-Sicherungsdatei",
-  "linktitle" :"BKS",
+  "linktitle" : "BKS",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

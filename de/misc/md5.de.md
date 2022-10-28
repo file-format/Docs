@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"MD5 - MD5-Prüfsummendatei",
   "description":"Erfahren Sie mehr über MD5-Dateien und APIs, die MD5-Dateien erstellen und öffnen können.",
-  "linktitle" :"MD5",
+  "linktitle" : "MD5",
   "menu" : {
     "docs" : {
       "parent" : "misc"

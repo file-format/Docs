@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"RVM - AVEVA PDMS-Projektdatei",
   "description":"Erfahren Sie mehr über das RVM-Dateiformat und APIs, die RVM-Dateien öffnen und erstellen können.",
-  "linktitle" :"RVM",
+  "linktitle" : "RVM",
   "menu" : {
     "docs" : {
       "parent" : "3d"

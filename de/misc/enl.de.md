@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"ENL-Datei - EndNote-Bibliotheksdatei",
   "description":"Erfahren Sie mehr über ENL-Dateien und APIs, die ENL-Dateien erstellen und öffnen können.",
-  "linktitle" :"ENL",
+  "linktitle" : "ENL",
   "menu" : {
     "docs" : {
       "parent" : "misc"

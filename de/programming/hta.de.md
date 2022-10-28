@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"HTA - HTML-Anwendungsdateien",
   "description":"Erfahren Sie mehr über das HTA-Dateiformat und APIs, die HTA-Dateien erstellen und öffnen können.",
-  "linktitle" :"HTA",
+  "linktitle" : "HTA",
   "menu" : {
     "docs" : {
       "parent" : "programming"

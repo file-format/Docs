@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das CEB-Dateiformat und APIs, die CEB-Dateien erstellen und öffnen können.",
   "title" :"CEB - Apabi eBook-Datei",
-  "linktitle" :"CEB",
+  "linktitle" : "CEB",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

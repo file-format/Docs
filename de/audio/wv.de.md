@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das WV-Dateiformat und APIs, die WV-Dateien erstellen und öffnen können.",
   "title" :"WV - WavPack-Audiodateiformat",
-  "linktitle" :"WV",
+  "linktitle" : "WV",
   "menu" : {
     "docs" : {
       "parent" : "audio"

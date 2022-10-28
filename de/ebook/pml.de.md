@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das PML-Dateiformat, die Palm Markup Language und APIs, die PML-Dateien erstellen und öffnen können.",
   "title" :"PML - Palm Markup Language-Datei",
-  "linktitle" :"PML",
+  "linktitle" : "PML",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

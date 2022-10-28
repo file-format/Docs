@@ -8,7 +8,7 @@
   "title" :"AVCHD-Dateiformat",
   "keywords" :[ "avchd", "Datei", "Erweiterung", "Format", "Videoformat", "Was ist eine Avchd-Datei", "So öffnen Sie AVCHD-Dateien"],
   "description":"Erfahren Sie mehr über das AVCHD-Dateiformat und APIs, die erstellen und zeigen können, wie AVCHD-Dateien geöffnet werden.",
-  "linktitle" :"AVCHD",
+  "linktitle" : "AVCHD",
   "menu" : {
     "docs" : {
       "parent" : "video"

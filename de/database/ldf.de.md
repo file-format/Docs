@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das LDF-Dateiformat und APIs, die LDF-Dateien erstellen und öffnen können.",
   "title" :"LDF - SQL Server-Master-Datenbankdateiformat",
-  "linktitle" :"LDF",
+  "linktitle" : "LDF",
   "menu" : {
     "docs" : {
       "parent" : "database"

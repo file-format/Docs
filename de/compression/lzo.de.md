@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"LZO-Dateiformat",
   "description":"Erfahren Sie mehr über das LZO-Dateiformat und APIs, die LZO-Dateien erstellen und öffnen können.",
-  "linktitle" :"LZO",
+  "linktitle" : "LZO",
   "menu" : {
     "docs" : {
       "parent" : "compression"

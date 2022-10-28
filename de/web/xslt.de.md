@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"XSLT-Dateiformat",
   "description":"Erfahren Sie mehr über das XSLT-Dateiformat und APIs, die XSLT-Dateien erstellen und öffnen können.",
-  "linktitle" :"XSL",
+  "linktitle" : "XSLT",
   "menu" : {
     "docs" : {
       "parent" : "web"

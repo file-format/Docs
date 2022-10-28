@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"LZMA - LZMA-komprimiertes Dateiformat",
   "description":"Was ist eine LZMA-Datei und APIs, die LZMA-Dateien erstellen und öffnen können.",
-  "linktitle" :"LZMA",
+  "linktitle" : "LZMA",
   "menu" : {
     "docs" : {
       "parent" : "compression"

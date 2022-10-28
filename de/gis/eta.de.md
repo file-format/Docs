@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"ETA - Google Earth-Ortsmarkierungsdatei",
   "description":"Erfahren Sie mehr über das ETA-Dateiformat und APIs, die ETA-Dateien erstellen und öffnen können.",
-  "linktitle" :"ETA",
+  "linktitle" : "ETA",
   "menu" : {
     "docs" : {
       "parent" : "gis"

@@ -8,7 +8,7 @@
   "title" :"MK3D-Dateiformat",
   "keywords" :[ "mk3d", "matroska video", "mkv format", "stereoscopic 3d", "StereoMode", "video", "file", "format" ],
   "description":"Erfahren Sie mehr über das MK3D-Dateiformat für stereoskopische 3D-Videos, die von Matroska erstellt wurden, und APIs, die MK3D-Dateien erstellen und öffnen können.",
-  "linktitle" :"MK3D",
+  "linktitle" : "MK3D",
   "menu" : {
     "docs" : {
       "parent" : "video"

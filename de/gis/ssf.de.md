@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"SSF - Datei im Trimble-Standardspeicherformat",
   "description":"Erfahren Sie mehr über das SSF-Dateiformat und APIs, die SSF-Dateien erstellen und öffnen können.",
-  "linktitle" :"SSF",
+  "linktitle" : "SSF",
   "menu" : {
     "docs" : {
       "parent" : "gis"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ADDIN - Visual Studio-Add-In-Definitionsdatei",
   "description":"Erfahren Sie anhand von Beispielen und APIs, mit denen ADDIN-Dateien erstellt und geöffnet werden können, was das ADDIN-Dateiformat ist.",
-  "linktitle" :"ADDIN",
+  "linktitle" : "ADDIN",
   "menu" : {
     "docs" : {
       "parent" : "programming"

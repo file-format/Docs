@@ -8,7 +8,7 @@
   "title" :"RPT - Crystal Reports-Datei",
   "keywords" :[ "rpt", "rpt-Datei", "rpt-Dateiformat", "Crystal Reports-Datei", "Berichterstellung"],
   "description":"Erfahren Sie mehr über das RPT-Stream-Format, das von der Crystal Reports-Software verwendet wird, um das Design oder Muster zum Abrufen von Daten aus einer Quelle zusammen mit oder ohne Daten in eine Datei zu speichern.",
-  "linktitle" :"RPT",
+  "linktitle" : "RPT",
   "menu" : {
     "docs" : {
       "parent" : "reporting"

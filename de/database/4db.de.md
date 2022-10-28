@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das 4DB-Dateiformat und APIs, die 4DB-Dateien erstellen und öffnen können.",
   "title" :"4DB-Dateiformat",
-  "linktitle" :"4DB",
+  "linktitle" : "4DB",
   "menu" : {
     "docs" : {
       "parent" : "database"

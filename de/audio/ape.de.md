@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das APE-Dateiformat und APIs, die APE-Dateien erstellen, konvertieren und öffnen können.",
   "title" :"APE - Monkey's Audio Lossless Audio File",
-  "linktitle" :"AFFE",
+  "linktitle" : "APE",
   "menu" : {
     "docs" : {
       "parent" : "audio"

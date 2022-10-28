@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über AST-Tabellendateien und APIs, die AST-Dateien erstellen und öffnen können.",
   "title" :"AST - Ability Spreadsheet-Vorlagendatei",
-  "linktitle" :"AST",
+  "linktitle" : "AST",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

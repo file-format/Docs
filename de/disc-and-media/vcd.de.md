@@ -8,7 +8,7 @@
    "toc" : true,
   "description" :"Erfahren Sie mehr über das VCD-Dateiformat und APIs, die VCD-Dateien erstellen und öffnen können.",
   "title" :"VCD - Virtuelle CD-Datei",
-  "linktitle" :"VCD",
+  "linktitle" : "VCD",
   "menu" : {
     "docs" : {
       "parent" : "disc-and-media"

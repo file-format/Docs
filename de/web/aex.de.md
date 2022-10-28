@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"AEX - Alpha Five kompilierte globale Funktionsdatei",
   "description" :"Erfahren Sie, was eine AEX-Datei und APIs sind, die AEX-Dateien erstellen und öffnen können.",
-  "linktitle" :"AEX",
+  "linktitle" : "AEX",
   "menu" : {
     "docs" : {
       "parent" : "web"

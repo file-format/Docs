@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"BR-Datei - Brotli-komprimiertes Dateiformat",
   "description":"Erfahren Sie mehr über das BR-Dateiformat und APIs, die BR-Dateien erstellen und öffnen können.",
-  "linktitle" :"BR",
+  "linktitle" : "BR",
   "menu" : {
     "docs" : {
       "parent" : "web"

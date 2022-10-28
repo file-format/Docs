@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das NSF-Dateiformat und APIs, die NSF-Dateien erstellen und öffnen können.",
   "title" :"NSF-Dateiformat - Lotus Notes-Datenbankformat",
-  "linktitle" :"NSF",
+  "linktitle" : "NSF",
   "menu" : {
     "docs" : {
       "parent" : "database"

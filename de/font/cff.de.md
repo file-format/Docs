@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"CFF - Kompaktes Schriftdateiformat",
   "description":"Erfahren Sie mehr über das CFF-Dateiformat und APIs zum Erstellen und Öffnen von CFF-Dateien.",
-  "linktitle" :"CFF",
+  "linktitle" : "CFF",
   "menu" : {
     "docs" : {
       "parent" : "font"

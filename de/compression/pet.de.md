@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"PET-Dateiformat - Puppy Linux-Installationspaketdatei",
   "description":"Erfahren Sie mehr über das PET-Dateiformat und APIs, die PET-Dateien erstellen und öffnen können.",
-  "linktitle" :"HAUSTIER",
+  "linktitle" : "PET",
   "menu" : {
     "docs" : {
 "identifier":"compression-pet",

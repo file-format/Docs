@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"CSP-Datei - Concept Server Page-Dateiformat",
   "description" :"Erfahren Sie, was eine CSP-Datei und APIs sind, die CSP-Dateien erstellen und öffnen können.",
-  "linktitle" :"CSP",
+  "linktitle" : "CSP",
   "menu" : {
     "docs" : {
 "identifier": "web-csp",

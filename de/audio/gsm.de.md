@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das GSM-Dateiformat und APIs, die GSM-Dateien erstellen und öffnen können.",
   "title" :"GSM - Globales System für mobiles Audiodateiformat",
-  "linktitle" :"GSM",
+  "linktitle" : "GSM",
   "menu" : {
     "docs" : {
       "parent" : "audio"

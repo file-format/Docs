@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"CSHTML - ASP.NET Razor-Webseite",
   "description":"Erfahren Sie mehr über das CSHTML-Dateiformat und APIs, die CSHTML-Dateien erstellen und öffnen können.",
-  "linktitle" :"CSHTML",
+  "linktitle" : "CSHTML",
   "menu" : {
     "docs" : {
       "parent" : "web"

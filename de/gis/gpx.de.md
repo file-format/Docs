@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"GPX - GPX-Austauschdateiformat",
   "description":"Erfahren Sie mehr über das GPX-Dateiformat und APIs, die GPX-Dateien erstellen und öffnen können.",
-  "linktitle" :"GPX",
+  "linktitle" : "GPX",
   "menu" : {
     "docs" : {
       "parent" : "gis"

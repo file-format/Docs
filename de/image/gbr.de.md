@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"GBR-Dateiformat - Gerber-Dateiformat für PCB",
   "description":"Erfahren Sie mehr über das GBR-Dateiformat und APIs, die GBR-Dateien erstellen und öffnen können.",
-  "linktitle" :"GBR",
+  "linktitle" : "GBR",
   "menu" : {
     "docs" : {
       "parent" : "image"

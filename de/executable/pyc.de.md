@@ -7,7 +7,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das PYC-Dateiformat und APIs, die PYC-Dateien erstellen und öffnen können.",
   "title" :"PYC-Dateiformat - Python-kompilierte Datei",
-  "linktitle" :"PYC",
+  "linktitle" : "PYC",
   "menu" : {
     "docs" : {
       "parent" : "executable"

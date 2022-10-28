@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"DOC - Microsoft Word-Dokumentdatei",
   "description":"Erfahren Sie mehr über das DOC-Dateiformat und APIs, die DOC-Dateien erstellen und öffnen können.",
-  "linktitle" :"DOC",
+  "linktitle" : "DOC",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

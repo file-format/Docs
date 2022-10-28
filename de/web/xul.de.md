@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"XUL - Sprachdatei der XML-Benutzeroberfläche",
   "description":"Erfahren Sie mehr über das XUL-Dateiformat und APIs, die XUL-Dateien erstellen und öffnen können.",
-  "linktitle" :"XUL",
+  "linktitle" : "XUL",
   "menu" : {
     "docs" : {
       "parent" : "web"

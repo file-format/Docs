@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"RML - Elixir-Berichtsvorlagendatei",
   "description":"Erfahren Sie mehr über RML-Dateien und APIs, die RML-Dateien erstellen und öffnen können.",
-  "linktitle" :"RML",
+  "linktitle" : "RML",
   "menu" : {
     "docs" : {
 "identifier": "misc-rml",

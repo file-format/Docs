@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"DICOM - Dateiformat für digitale Bildgebung und Kommunikation",
   "description":"Erfahren Sie mehr über das DICOM-Dateiformat und APIs, die DICOM-Dateien erstellen und öffnen können.",
-  "linktitle" :"DICOM",
+  "linktitle" : "DICOM",
   "menu" : {
     "docs" : {
       "parent" : "image"

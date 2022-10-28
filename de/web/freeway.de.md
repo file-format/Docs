@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"Freeway-Datei - Freeway-Dokumentdateiformat",
   "description" :"Ihr Dateiformatleitfaden, um zu erfahren, was eine Freeway-Datei und APIs sind, die Freeway-Dateien erstellen und öffnen können.",
-  "linktitle" :"AUTOBAHN",
+  "linktitle" : "FREEWAY",
   "menu" : {
     "docs" : {
       "parent" : "web"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"AI - Adobe Illustrator-Artwork-Datei",
   "description":"Erfahren Sie mehr über das AI-Dateiformat und APIs, die AI-Dateien erstellen und öffnen können.",
-  "linktitle" :"KI",
+  "linktitle" : "AI",
   "menu" : {
     "docs" : {
       "parent" : "image"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"XER - Primavera P6-Projekt",
   "description":"Erfahren Sie mehr über das XER-Dateiformat und APIs, die XER-Dateien erstellen und öffnen können.",
-  "linktitle" :"XER",
+  "linktitle" : "XER",
   "menu" : {
     "docs" : {
       "parent" : "project-management"

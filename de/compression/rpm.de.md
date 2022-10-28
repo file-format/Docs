@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"RPM - Red Hat Package Manager-Datei",
   "description":"Erfahren Sie mehr über das RPM-Dateiformat und APIs, die RPM-Dateien erstellen und öffnen können.",
-  "linktitle" :"Drehzahl",
+  "linktitle" : "RPM",
   "menu" : {
     "docs" : {
       "parent" : "compression"

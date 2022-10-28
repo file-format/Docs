@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"OBML-Dateiformat - Gespeicherte Opera Mini-Webseitendatei",
   "description" :"Erfahren Sie, was eine OBML-Datei und APIs sind, die OBML-Dateien erstellen und öffnen können.",
-  "linktitle" :"OBML",
+  "linktitle" : "OBML",
   "menu" : {
     "docs" : {
       "parent" : "web"

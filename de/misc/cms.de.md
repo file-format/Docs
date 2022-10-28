@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"CMS-Dateiformat - Verbindungsmanager-Dienstprofildatei",
   "description":"Erfahren Sie mehr über CMS-Dateien und APIs, die CMS-Dateien erstellen und öffnen können.",
-  "linktitle" :"CMS",
+  "linktitle" : "CMS",
   "menu" : {
     "docs" : {
 "identifier": "misc-cms",

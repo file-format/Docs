@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"APKG - Anki Flashcard Deck-Dateiformat",
   "description" :"Erfahren Sie, was eine APKG-Datei und APIs sind, die sie erstellen und öffnen können.",
-  "linktitle" :"APKG",
+  "linktitle" : "APKG",
   "menu" : {
     "docs" : {
       "parent" : "web"

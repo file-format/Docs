@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das AAC-Dateiformat und APIs, die AAC-Dateien erstellen und öffnen können.",
   "title" :"AAC - Erweiterte Audiocodierungsdatei",
-  "linktitle" :"AAC",
+  "linktitle" : "AAC",
   "menu" : {
     "docs" : {
       "parent" : "audio"

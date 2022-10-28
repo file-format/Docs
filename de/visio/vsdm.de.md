@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"VSDM - Microsoft Visio-Zeichnungsdateiformat",
   "description":"Erfahren Sie mehr über das VSDM-Dateiformat und APIs, die VSDM-Dateien erstellen und öffnen können.",
-  "linktitle" :"VSDM",
+  "linktitle" : "VSDM",
   "menu" : {
     "docs" : {
 "identifier":"visio-vsdm",

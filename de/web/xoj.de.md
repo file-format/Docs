@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"XOJ-Datei - Xournal Notebook-Dateiformat",
   "description":"Erfahren Sie mehr über das XOJ-Dateiformat und APIs, die XOJ-Dateien erstellen und öffnen können.",
-  "linktitle" :"XOJ",
+  "linktitle" : "XOJ",
   "menu" : {
     "docs" : {
       "parent" : "web"

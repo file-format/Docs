@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"Z-komprimiertes Dateiformat",
   "description":"Erfahren Sie mehr über das Z-Dateiformat und APIs, die Z-Dateien erstellen und öffnen können.",
-  "linktitle" :"Z",
+  "linktitle" : "Z",
   "menu" : {
     "docs" : {
       "parent" : "compression"

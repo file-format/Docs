@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie, was eine XLSX-Datei und APIs sind, die XLSX-Dateien erstellen und öffnen können.",
   "title" :"XLSX-Dateiformat - Was ist eine XLSX-Datei?",
-  "linktitle" :"XLSX",
+  "linktitle" : "XLSX",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

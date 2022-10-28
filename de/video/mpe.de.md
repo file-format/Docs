@@ -8,7 +8,7 @@
   "title" :"MPE-Datei - MPEG-Filmdateiformat",
   "keywords" :[ "MPE", "Datei", "Erweiterung", "Format", "Videoformat", "Was ist ein MPE-Dateiformat", "MPE-Dateiformat", "MPE-Dateiplayer", "MPE-Komprimierung", "video ", "MPEG-1", "MPEG-2"],
   "description":"Erfahren Sie mehr über das MPG-Dateiformat und APIs, die erstellt und gezeigt werden können, wie MPG-Dateien geöffnet werden.",
-  "linktitle" :"MPE",
+  "linktitle" : "MPE",
   "menu" : {
     "docs" : {
       "parent" : "video"

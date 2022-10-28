@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das ACCDE-Dateiformat und APIs, die ACCDE-Dateien erstellen und öffnen können.",
   "title" :"ACCDE-Dateiformat - Microsoft Access 2007-Datenbankdatei",
-  "linktitle" :"AKZEPTIEREN",
+  "linktitle" : "ACCDE",
   "menu" : {
     "docs" : {
       "parent" : "database"

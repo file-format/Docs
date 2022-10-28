@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das STAP-Dateiformat und APIs, die STAP-Dateien öffnen und erstellen können.",
   "title" :"STAP - Soundtrack Pro-Dateiformat",
-  "linktitle" :"STAP",
+  "linktitle" : "STAP",
   "menu" : {
     "docs" : {
       "parent" : "audio"

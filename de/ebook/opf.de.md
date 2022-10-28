@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das OPF-Dateiformat und APIs, die OPF-Dateien erstellen und öffnen können.",
   "title" :"OPF - Offenes Paketformat",
-  "linktitle" :"OPF",
+  "linktitle" : "OPF",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

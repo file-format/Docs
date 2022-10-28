@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"SWIFT - Apple-Quellcodedatei",
   "description":"Erfahren Sie mehr über das SWIFT-Dateiformat und APIs, die SWIFT-Dateien erstellen und öffnen können.",
-  "linktitle" :"SCHNELL",
+  "linktitle" : "SWIFT",
   "menu" : {
     "docs" : {
       "parent" : "programming"

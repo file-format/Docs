@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"SP3 - NGS SP3-Datei",
   "description":"Erfahren Sie mehr über das SP3-Dateiformat und APIs, die SP3-Dateien erstellen und öffnen können.",
-  "linktitle" :"SP3",
+  "linktitle" : "SP3",
   "menu" : {
     "docs" : {
       "parent" : "gis"

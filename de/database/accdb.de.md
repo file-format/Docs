@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das ACCDB-Dateiformat und APIs, die ACCDB-Dateien erstellen und öffnen können.",
   "title" :"ACCDB-Dateiformat - Microsoft Access 2007-Datenbankdatei",
-  "linktitle" :"ACCDB",
+  "linktitle" : "ACCDB",
   "menu" : {
     "docs" : {
       "parent" : "database"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"DMG - Apple Disk-Image",
   "description":"Erfahren Sie mehr über das DMG-Dateiformat und APIs, die DMG-Dateien erstellen und öffnen können.",
-  "linktitle" :"DMG",
+  "linktitle" : "DMG",
   "menu" : {
     "docs" : {
       "parent" : "compression"

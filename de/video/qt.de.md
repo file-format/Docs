@@ -8,7 +8,7 @@
   "title" :"QT-Dateiformat - Quick Movie-Datei",
   "keywords" :[ "QT", "QuickTime-Video", "qt-Format", "Wie man QT-Dateien abspielt", "Quick Movie File", "QTFF", "Video", "Apple" ],
   "description":"Erfahren Sie mehr über das QT-Dateiformat und APIs, die QT-Dateien erstellen und öffnen können.",
-  "linktitle" :"QT",
+  "linktitle" : "QT",
   "menu" : {
     "docs" : {
       "parent" : "video"

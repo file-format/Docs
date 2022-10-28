@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das 8SVX-Dateiformat und APIs, die 8SVX-Dateien erstellen und öffnen können.",
   "title" :"8SVX - 8Bit gesampeltes Sprachdateiformat",
-  "linktitle" :"8SVX",
+  "linktitle" : "8SVX",
   "menu" : {
     "docs" : {
       "parent" : "audio"

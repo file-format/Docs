@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das INS-Dateiformat und APIs, die INS-Dateien erstellen und öffnen können.",
   "title" :"INS - Interneteinstellungsdatei",
-  "linktitle" :"INS",
+  "linktitle" : "INS",
   "menu" : {
     "docs" : {
       "parent" : "system"

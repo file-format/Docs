@@ -8,7 +8,7 @@
    "toc" : true,
   "description" :"Erfahren Sie mehr über das IMG-Dateiformat und APIs, die IMG-Dateien erstellen und öffnen können.",
   "title" :"IMG - Disk-Image-Dateiformat",
-  "linktitle" :"IMG",
+  "linktitle" : "IMG",
   "menu" : {
     "docs" : {
 "identifier":"disc-and-media-img",

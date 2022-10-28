@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"OST - Outlook-Speicherdateiformat",
   "description":"Erfahren Sie mehr über das OST-Dateiformat und APIs, die OST-Dateien erstellen und öffnen können.",
-  "linktitle" :"OST",
+  "linktitle" : "OST",
   "menu" : {
     "docs" : {
       "parent" : "email"

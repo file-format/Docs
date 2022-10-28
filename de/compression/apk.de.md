@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"APK - Was ist eine APK-Datei?",
   "description":"Erfahren Sie, was eine APK-Datei und APIs sind, die APK-Dateien erstellen und öffnen können.",
-  "linktitle" :"APK",
+  "linktitle" : "APK",
   "menu" : {
     "docs" : {
       "parent" : "compression"

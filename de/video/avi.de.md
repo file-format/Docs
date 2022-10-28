@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"AVI-Dateiformat - Eine Audio-Video-Interleave-Datei",
   "description":"Erfahren Sie mehr über das AVI-Dateiformat und APIs, die AVI-Dateien erstellen und öffnen können.",
-  "linktitle" :"AVI",
+  "linktitle" : "AVI",
   "menu" : {
     "docs" : {
       "parent" : "video"

@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"CFML - ColdFusion Markup Language-Datei",
   "description" :"Erfahren Sie, was eine CFML-Datei und APIs sind, die CFML-Dateien erstellen und öffnen können.",
-  "linktitle" :"CFML",
+  "linktitle" : "CFML",
   "menu" : {
     "docs" : {
       "parent" : "web"

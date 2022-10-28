@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"GROOVY-Dateiformat",
   "description":"Erfahren Sie mehr über das GROOVY-Dateiformat und APIs, die GROOVY-Dateien erstellen und öffnen können.",
-  "linktitle" :"GROOV",
+  "linktitle" : "GROOVY",
   "menu" : {
     "docs" : {
       "parent" : "programming"

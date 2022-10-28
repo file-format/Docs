@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"CHA-Datei - IRC-Chat-Konfigurationsdateiformat",
   "description" :"Erfahren Sie, was eine CHA-Datei und APIs sind, die CHA-Dateien erstellen und öffnen können.",
-  "linktitle" :"CHA",
+  "linktitle" : "CHA",
   "menu" : {
     "docs" : {
       "parent" : "web"

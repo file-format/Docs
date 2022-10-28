@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das M4A-Dateiformat und APIs, die M4A-Dateien erstellen, konvertieren und öffnen können.",
   "title" :"M4A - MPEG-4-Audiodatei",
-  "linktitle" :"M4A",
+  "linktitle" : "M4A",
   "menu" : {
     "docs" : {
       "parent" : "audio"

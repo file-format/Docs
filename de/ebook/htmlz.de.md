@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das HTMLZ-Dateiformat und APIs, die HTMLZ-Dateien erstellen und öffnen können.",
   "title" :"HTMLZ-Dateiformat",
-  "linktitle" :"HTMLZ",
+  "linktitle" : "HTMLZ",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

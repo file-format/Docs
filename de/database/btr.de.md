@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das BTR-Dateiformat und APIs, die BTR-Dateien erstellen und öffnen können.",
   "title" :"BTR - Btrieve-Datenbankdatei",
-  "linktitle" :"BTR",
+  "linktitle" : "BTR",
   "menu" : {
     "docs" : {
       "parent" : "database"

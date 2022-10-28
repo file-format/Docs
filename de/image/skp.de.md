@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"SKP-Dateiformat - SketchUp-Dokumentdatei",
   "description":"Erfahren Sie mehr über .skp-Dateien und APIs, die SKP-Dateien erstellen und öffnen können.",
-  "linktitle" :"SKP",
+  "linktitle" : "SKP",
   "menu" : {
     "docs" : {
       "parent" : "image"

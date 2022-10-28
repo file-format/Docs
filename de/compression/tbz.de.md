@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"TBZ - Bzip-komprimiertes Tar-Archiv",
   "description":"Erfahren Sie mehr über das TBZ-Dateiformat und APIs, die TBZ-Dateien erstellen und öffnen können.",
-  "linktitle" :"TBZ",
+  "linktitle" : "TBZ",
   "menu" : {
     "docs" : {
       "parent" : "compression"

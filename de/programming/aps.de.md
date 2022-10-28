@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"APS - Visual C++-Ressourcendatei",
   "description":"Erfahren Sie mehr über das APS-Dateiformat mit APS-Beispiel und APIs, die APS-Dateien erstellen und öffnen können.",
-  "linktitle" :"APS",
+  "linktitle" : "APS",
   "menu" : {
     "docs" : {
       "parent" : "programming"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Ihr Dateiformat-Leitfaden, um zu wissen, was eine XLS-Datei und APIs sind, die sie erstellen und öffnen können.",
   "title" :"Was ist das XLS-Dateiformat? Lernen Sie von Dateiformatexperten!",
-  "linktitle" :"XLS",
+  "linktitle" : "XLS",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

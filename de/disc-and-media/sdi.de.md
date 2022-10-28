@@ -8,7 +8,7 @@
    "toc" : true,
   "description" :"Erfahren Sie mehr über das SDI-Dateiformat und APIs, die SDI-Dateien erstellen und öffnen können.",
   "title" :"SDI - Windows-Systembereitstellungs-Image-Datei",
-  "linktitle" :"SDI",
+  "linktitle" : "SDI",
   "menu" : {
     "docs" : {
       "parent" : "disc-and-media"

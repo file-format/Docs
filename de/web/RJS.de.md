@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"RJS - Ruby Javascript-Datei",
   "description":"Erfahren Sie mehr über das RJS-Dateiformat und die APIs, die RJS-Dateien erstellen und öffnen können.",
-  "linktitle" :"RJS",
+  "linktitle" : "RJS",
   "menu" : {
     "docs" : {
       "parent" : "web"

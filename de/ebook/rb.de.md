@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das RB-Dateiformat für das Rocket eBook-Gerät von Nuvo Media und APIs, die RB-Dateien erstellen und öffnen können.",
   "title" :"RB - Rocket eBook-Datei",
-  "linktitle" :"RB",
+  "linktitle" : "RB",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

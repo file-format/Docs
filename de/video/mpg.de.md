@@ -8,7 +8,7 @@
   "title" :"MPG-Dateiformat",
   "keywords" :[ "MPG", "Datei", "Erweiterung", "Format", "Videoformat", "Was ist ein MPG-Dateiformat", "MPG-Dateiformat", "MPG-Dateiplayer", "MPEG-Komprimierung", "video ", "MPEG", "MPEG-1", "MPEG-2"],
   "description":"Erfahren Sie mehr über das MPG-Dateiformat und APIs, die erstellt und gezeigt werden können, wie MPG-Dateien geöffnet werden.",
-  "linktitle" :"MPG",
+  "linktitle" : "MPG",
   "menu" : {
     "docs" : {
       "parent" : "video"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"PAC - Proxy-Autokonfigurationsdatei (PAC)",
   "description":"Erfahren Sie mehr über das PAC-Dateiformat und die APIs, die PAC-Dateien erstellen und öffnen können.",
-  "linktitle" :"PAC",
+  "linktitle" : "PAC",
   "menu" : {
     "docs" : {
       "parent" : "web"

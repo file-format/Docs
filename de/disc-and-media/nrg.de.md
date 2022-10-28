@@ -8,7 +8,7 @@
    "toc" : true,
   "description" :"Erfahren Sie mehr über das NRG-Dateiformat und APIs, die NRG-Dateien erstellen und öffnen können.",
   "title" :"NRG - Disk-Image-Dateiformat",
-  "linktitle" :"NRG",
+  "linktitle" : "NRG",
   "menu" : {
     "docs" : {
       "parent" : "disc-and-media"

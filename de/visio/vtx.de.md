@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"VTX - Dateiformat für Microsoft Visio-Zeichnungsvorlagen",
   "description":"Erfahren Sie mehr über das VTX-Dateiformat und APIs, die VTX-Dateien erstellen und öffnen können.",
-  "linktitle" :"VTX",
+  "linktitle" : "VTX",
   "menu" : {
     "docs" : {
 "identifier":"visio-vtx",

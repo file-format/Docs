@@ -8,7 +8,7 @@
   "title" :"RDL - Berichtsdefinitionssprachdatei",
   "keywords" :[ "rdl", "Berichtsdefinitionssprache", "XmlTextWriter", "XSD", "RDL-Element"],
   "description":"Erfahren Sie mehr über das RDL-Dateiformat, das eine XML-Darstellung einer SQL Server Reporting Services-Berichtsdefinition ist.",
-  "linktitle" :"RDL",
+  "linktitle" : "RDL",
   "menu" : {
     "docs" : {
       "parent" : "reporting"

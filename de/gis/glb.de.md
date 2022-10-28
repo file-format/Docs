@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"GLB - STK Globe-Datei",
   "description":"Erfahren Sie mehr über das GLB-Dateiformat und APIs, die GLB-Dateien erstellen und öffnen können.",
-  "linktitle" :"GLB",
+  "linktitle" : "GLB",
   "menu" : {
     "docs" : {
 "identifier":"gis-glb",

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"XZ-Datei - XZ-komprimiertes Archiv",
   "description":"Erfahren Sie mehr über das XZ-Dateiformat und APIs, die XZ-Dateien erstellen und öffnen können.",
-  "linktitle" :"XZ",
+  "linktitle" : "XZ",
   "menu" : {
     "docs" : {
       "parent" : "compression"

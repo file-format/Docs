@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das DRC-Dateiformat und APIs, die DRC-Dateien öffnen und erstellen können.",
   "title" :"DRC - Google Draco-Dateiformat",
-  "linktitle" :"DRK",
+  "linktitle" : "DRC",
   "menu" : {
     "docs" : {
       "parent" : "3d"

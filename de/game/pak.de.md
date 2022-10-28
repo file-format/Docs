@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über .pak-Dateien und APIs, die PAK-Dateien erstellen und öffnen können.",
   "title" :"PAK-Dateiformat - Videospielpaketdatei",
-  "linktitle" :"PAK",
+  "linktitle" : "PAK",
   "menu" : {
     "docs" : {
 "identifier":"game-pak",

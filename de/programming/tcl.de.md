@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"TCL - Tool Command Language File",
   "description":"Erfahren Sie mehr über das TCL-Dateiformat und APIs, die TCL-Dateien erstellen und öffnen können.",
-  "linktitle" :"TCL",
+  "linktitle" : "TCL",
   "menu" : {
     "docs" : {
       "parent" : "programming"

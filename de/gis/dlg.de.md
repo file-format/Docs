@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"DLG - Shapefile-Shape-Index-Format",
   "description":"Erfahren Sie mehr über das DLG-Dateiformat und APIs, die DLG-Dateien erstellen und öffnen können.",
-  "linktitle" :"DLG",
+  "linktitle" : "DLG",
   "menu" : {
     "docs" : {
       "parent" : "gis"

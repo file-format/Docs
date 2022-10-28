@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"VRT - Dateiformat der virtuellen Welt",
   "description":"Erfahren Sie mehr über das VDW-Dateiformat und APIs, die VDW-Dateien erstellen und öffnen können.",
-  "linktitle" :"VRT",
+  "linktitle" : "VRT",
   "menu" : {
     "docs" : {
       "parent" : "web"

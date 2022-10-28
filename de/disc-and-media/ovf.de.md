@@ -8,7 +8,7 @@
    "toc" : true,
   "description" :"Erfahren Sie, was ein .ovf-Dateiformat und APIs sind, die OVF-Dateien erstellen und öffnen können.",
   "title" :"OVF-Dateiformat - Virtualisierungsdatei öffnen",
-  "linktitle" :"OVF",
+  "linktitle" : "OVF",
   "menu" : {
     "docs" : {
       "parent" : "disc-and-media"

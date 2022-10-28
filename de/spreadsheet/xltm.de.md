@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Ihr Dateiformat-Leitfaden, um zu wissen, was eine XLTM-Datei und APIs sind, die sie erstellen und öffnen können.",
   "title" :"Was ist eine XLTM-Datei?",
-  "linktitle" :"XLTM",
+  "linktitle" : "XLTM",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

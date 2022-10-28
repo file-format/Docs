@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"KMZ - KML-ZIP-Dateiformat",
   "description":"Erfahren Sie mehr über das KMZ-Dateiformat und APIs, die KMZ-Dateien erstellen und öffnen können.",
-  "linktitle" :"KMZ",
+  "linktitle" : "KMZ",
   "menu" : {
     "docs" : {
       "parent" : "gis"

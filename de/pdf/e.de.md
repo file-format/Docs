@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"PDF/E-Dateiformat",
   "description":"Erfahren Sie mehr über das PDF/E-Dateiformat und APIs, die PDF/E-Dateien erstellen und öffnen können.",
-  "linktitle" :"PDF/E",
+  "linktitle" : "E",
   "menu" : {
     "docs" : {
       "parent" : "pdf"

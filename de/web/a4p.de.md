@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"A4P-Dateiformat - Was ist eine A4P-Datei?",
   "description" :"Erfahren Sie mehr über das A4Desk Pro A4-Dateiformat und die APIs, die A4P-Dateien erstellen und öffnen können.",
-  "linktitle" :"A4P",
+  "linktitle" : "A4P",
   "menu" : {
     "docs" : {
       "parent" : "web"

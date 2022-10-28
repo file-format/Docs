@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"GDOC-Datei - Google Docs-Verknüpfung",
   "description":"Erfahren Sie, was eine GDOC-Datei und APIs sind, die GDOC-Dateien erstellen und öffnen können.",
-  "linktitle" :"GDOC",
+  "linktitle" : "GDOC",
   "menu" : {
     "docs" : {
       "parent" : "web"

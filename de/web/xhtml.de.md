@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"XHTML - Extensible Hypertext Markup Language File Format",
   "description":"Erfahren Sie mehr über das XHTML-Dateiformat und die APIs, die XHTML-Dateien erstellen und öffnen können.",
-  "linktitle" :"XHTML",
+  "linktitle" : "XHTML",
   "menu" : {
     "docs" : {
       "parent" : "web"
