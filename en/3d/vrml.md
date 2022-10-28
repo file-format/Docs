@@ -22,7 +22,9 @@ The Virtual Reality Modeling Language (VRML) is a file format for representation
 
 ## VRML File Format
 
-VRML is a text file format that specifies information such as vertices and edges of a 3D polygon along with information such as surface colour, UV mapped textures, shininess, transparency and so on. It has the capability of representing static and animated objects in addition to having hyperlinks to other media such as sound, movies, and images. This allows opening hyperlinked elements when user clicks on these objects. TVRML files in common terminology are called "worlds" and have the .wrl extension. The textual nature of these files makes it possible to reduce the file size using compression formats such as gzip, making them more favourable for transfer over the internet quickly. The file format specifications for [VRML v 2.0](http://gun.teipir.gr/VRML-amgem/spec/index.html) acts as developer's reference for creating applications compatible for reading/writing these files.
+VRML is a text file format that specifies information such as vertices and edges of a 3D polygon along with information such as surface colour, UV mapped textures, shininess, transparency and so on. It has the capability of representing static and animated objects in addition to having hyperlinks to other media such as sound, movies, and images. This allows opening hyperlinked elements when user clicks on these objects.
+
+TVRML files in common terminology are called "worlds" and have the .wrl extension. The textual nature of these files makes it possible to reduce the file size using compression formats such as gzip, making them more favourable for transfer over the internet quickly. The file format specifications for [VRML v 2.0](http://gun.teipir.gr/VRML-amgem/spec/index.html) acts as developer's reference for creating applications compatible for reading/writing these files.
 
 ## Design Criterion ##
 

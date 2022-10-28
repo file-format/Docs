@@ -18,7 +18,7 @@ lastmod: 2020-22-12
 
 M3U (MP3 URL) is an audio playlist file stored with the .m3u extension. M3U is not an actual audio file, it just points to audio and sometimes video files. M3U was developed to be used with Winplay3 software by Fraunhofer. It is also supported by various media players and software.
 
-## M3U File Format ##
+## M3U File Format
 
 There is no official specification for the M3U file format, it is a de-facto standard. M3U is a plain text file that uses the .m3u extension if the text is encoded in the local system's default non-Unicode encoding or with the .m3u8 extension if the text is UTF-8 encoded. Each entry in the M3U file can be one of the following:
 
@@ -84,10 +84,10 @@ This is an example of the M3U file.
 
 ```console
 #EXTM3U
- 
+
 #EXTINF:111, Sample artist name - Sample track title
 C:\Music\SampleMusic.mp3
- 
+
 #EXTINF:222,Example Artist name - Example track title
 C:\Music\ExampleMusic.mp3
 ```

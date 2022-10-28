@@ -14,17 +14,17 @@ menu:
 lastmod: 2020-23-12
 ---
 
-## What is an OGG file? ##
+## What is an OGG file?
 
 OGG is an Ogg Vorbis Compressed Audio File that is saved with the .ogg extension. OGG files are used for storing audio data and can include artist and track information and metadata as well. OGG is a free and open container format that is maintained by Xiph.Org Foundation.
 
-## Brief History ##
+## Brief History of OGG File Format
 
 Ogg project started as a part of a larger project in 1993 and was named Squish but because of an existing trademark, it was renamed to OggSquish. It was described as an attempt to create a flexible compressed audio format for modern audio applications. OGG reference was separated from Vorbis on September 2, 2000.
 
 OGM was created in 2002 due to the lack of formal video support in OGG. This allowed embedding video from the Microsoft DirectShow framework into an OGG-based wrapper. By 2006, OGG was supported by many video game engines and was commonly used to encode free content. The Free Software Foundation started a campaign on May 15, 2007, to increase the use of Vorbis as a superior alternative to MP3. By June 30, 2009, OGG was the only container format supported by the HTML5 implementation of Firefox 3.5.
 
-## OGG File Format ##
+## OGG File Format
 
 The OGG format consists of chunks of data. Each chunk is called an Ogg page. Each page begins with "OggS" to identify Ogg Format. The header contains the serial number and page number that identifies each page as a part of a series. The page consists of the following components.
 

@@ -19,7 +19,9 @@
 
 ## What is a STAP file?
 
-A file with .stap extension is mainly related to Soundtrack Pro by Apple Inc. Apple’s audio editing and sound design application enable users to express their sonic vision. With the Action-based waveform editor, multitrack editing, and repair and restoration features, users can design and edit their audio with flexibility. STAP file format is well-suited with software that can be installed on the Mac OS system platform. Files having STAP extension are classified as Audio Files files. The Audio Files subset consists of 745 various file formats. Apple Soundtrack Pro supports STAP files and is the most commonly used program to open these files, yet 1 other tool can also be used. On the official website of Apple, Inc. developer not only will you find detailed information about the Apple Soundtrack Pro software, but also about STAP and other supported file formats.
+A file with .stap extension is mainly related to Soundtrack Pro by Apple Inc. Apple’s audio editing and sound design application enable users to express their sonic vision. With the Action-based waveform editor, multitrack editing, and repair and restoration features, users can design and edit their audio with flexibility. STAP file format is well-suited with software that can be installed on the Mac OS system platform.
+
+Files having STAP extension are classified as Audio Files files. The Audio Files subset consists of 745 various file formats. Apple Soundtrack Pro supports STAP files and is the most commonly used program to open these files, yet 1 other tool can also be used. On the official website of Apple, Inc. developer not only will you find detailed information about the Apple Soundtrack Pro software, but also about STAP and other supported file formats.
 
 ## STAP File Format
 

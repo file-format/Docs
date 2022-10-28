@@ -19,9 +19,13 @@
 
 ## What is an MOD file?
 A file with .mod extension is a music module file created by using the standard music module format, which is based on the **Amiga module format** developed by Karsten Obarski and released with the **Ultimate Soundtracker** software for the Commodore Amiga system. Similar to a [MIDI](/audio/mid/) file, it consists of note patterns and sound samples, representing different instruments that are played back according to the notes. MOD files are particularly used in video games as background music and in the **demoscene** computer art subculture.
-## MOD file format
+
+## MOD File Format
+
 The MOD is a computer file format used its basic function is to represent music, and it was the first module file format. MOD files use the .mod file extension, except on the **Amiga** which reads a file's header to determine filetype, so it doesn't rely on filename extensions. A MOD file consists of a set of various instruments in the form of samples, a number of patterns specifying how and when the samples are to be played, and a list of what patterns to play in what order.
-### Specification
+
+### MOD File Format Specifications
+
 A MOD file pattern is actually designed in a sequencer user interface as a table with one column per channel, So this table has four columns (one for each Amiga hardware channel. Each column has 64 rows).
 
 A cell in the table can cause one of the following actions to happen on its column's channel when its row's time is reached:
@@ -32,10 +36,10 @@ A cell in the table can cause one of the following actions to happen on its colu
 - Do nothing; any existing note playing in this channel will continue to play
 
 An instrument is a single sample along with an optional specification of which portion of the sample can be repeated to hold a solid note.
+
 ### Timing
 The minimum time frame was 0.02 seconds in the original MOD file, or a "vertical blanking" (VSync) interval, because the original software used the VSync timing of the monitor running at 50 Hz (for PAL) or 60 Hz (for NTSC) for timing.
 
 ## References
 
 * [MOD (file format) - By Wikipedia](https://en.wikipedia.org/wiki/MOD_(file_format))
-

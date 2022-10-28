@@ -14,7 +14,7 @@ menu:
 lastmod: 2021-28-05
 ---
 
-## What is a FLAC file? ##
+## What is a FLAC file?
 
 FLAC(Free Lossless Audio Codec) is a lossless compression audio coding format developed by Xiph.Org Foundation. FLAC is a royalty-free open format that is saved with the .flac extension. Digital audio compressed using the FLAC algorithm is typically reduced to 50 to 70 percent in size. FLAC files can be decompressed to an identical copy of the original audio files.
 
@@ -36,11 +36,11 @@ This is an overview of the FLAC bitstream.
   - **SUBFRAME**: To decrease the complexity, individual subframes are coded separately within a frame (one frame per channel).
   - **FRAME_FOOTER**: Contains the CRC of the complete frame.
 
-## Brief History ##
+## Brief History of FLAC File Format
 
 Josh Coalson began the development of FLAC in 2000. The first version of FLAC was released on 20 July 2001. FLAC was incorporated under the Xiph.Org flag on 20 January 2003. The development of FLAC was moved to the Xiph.Org git repository with the release of version 1.3.0 on 26 March 2013.
 
-## Composition of FLAC Project ##
+## Composition of FLAC Project
 
 The FLAC project consists of the following:
 
@@ -53,7 +53,7 @@ The FLAC project consists of the following:
 - Input plugins for music players like Winamp, XMMX, etc.
 - Ogg container format (Ogg FLAC).
 
-## FLAC Design ##
+## FLAC Design
 
 Depending on the density and amplitude of the music, the size of the compressed file can be 80% less than the original file.
 

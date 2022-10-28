@@ -17,13 +17,14 @@
   "lastmod" : "2021-08-09"
 }
 
-## What is an MMF file? ##
+## What is an MMF file?
 
-MMF is a file extension associated with a SMAF file. The MMF stands for Mobile Music File whereas the SMAF stands for synthetic-music Mobile Application Format. The MMF files within a smartphone contain system ringtones, sound and can also contain graphics and text display. The MMF further contains three types of instrument parameters including FM, PCM, and Stream PCM. These file formats are compatible with the Windows system platform. The MMF files are categorized as data files. Usually, Microsoft Mail supports MMF files. The file having MMF suffix can be copied to any mobile device or system platform. 
+MMF is a file extension associated with a SMAF file. The MMF stands for Mobile Music File whereas the SMAF stands for synthetic-music Mobile Application Format. The MMF files within a smartphone contain system ringtones, sound and can also contain graphics and text display. The MMF further contains three types of instrument parameters including FM, PCM, and Stream PCM. These file formats are compatible with the Windows system platform. The MMF files are categorized as data files. Usually, Microsoft Mail supports MMF files. The file having MMF suffix can be copied to any mobile device or system platform.
+
 Moreover, these files are much smaller in size compared to standard MIDI format files. [WAV](/audio/wav/) and [MID](/audio/mid/) files can be converted to MMF format which can be then shared and distributed as audio content. These files can be received via email directly to phones and PC.
 
 
-## Brief History ##
+## Brief History of MMF File Format
 
 Yamaha developed SMAF tools as sound files so that smartphones can store a greater number of unique ringtones. Yamaha introduced SMAF with the production of their MA-1, MA-2, MA-3, MA-5, and MA-7 LSI sound chips. All these formats become quite familiar among mobile phones in the East Asian Market during early 2000.
 
@@ -51,6 +52,6 @@ Here is an example of MMF file:
 
 ![](../mmf.png)
 
-## References ##
+## References
 
 * [MMF - By Wikipedia](https://en.wikipedia.org/wiki/Synthetic_music_mobile_application_format)
