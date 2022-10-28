@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ASF - Erweitertes Systemdateiformat",
   "description":"Erfahren Sie mehr über das ASF-Dateiformat und APIs, die ASF-Dateien erstellen und öffnen können.",
-  "linktitle" :"ASF",
+  "linktitle" : "ASF",
   "menu" : {
     "docs" : {
       "parent" : "video"

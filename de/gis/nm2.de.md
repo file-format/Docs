@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"NM2 - Navitel-Kartendatei",
   "description":"Erfahren Sie mehr über das NM2-Dateiformat und APIs, die NM2-Dateien erstellen und öffnen können.",
-  "linktitle" :"NM2",
+  "linktitle" : "NM2",
   "menu" : {
     "docs" : {
       "parent" : "gis"

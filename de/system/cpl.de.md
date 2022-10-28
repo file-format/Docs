@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"CPL - Systemsteuerungsdatei",
   "description":"Erfahren Sie mehr über das CPL-Dateiformat und APIs, die CPL-Dateien erstellen und öffnen können.",
-  "linktitle" :"CPL",
+  "linktitle" : "CPL",
   "menu" : {
     "docs" : {
       "parent" : "system"

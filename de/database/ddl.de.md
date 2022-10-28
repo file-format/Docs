@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das DDL-Dateiformat und APIs, die DDL-Dateien erstellen und öffnen können.",
   "title" :"DDL-Dateiformat - Eine Datendefinitionssprachdatei",
-  "linktitle" :"DDL",
+  "linktitle" : "DDL",
   "menu" : {
     "docs" : {
       "parent" : "database"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"DOCX",
   "description":"Erfahren Sie mehr über das DOCX-Dateiformat und APIs, die DOCX-Dateien erstellen und öffnen können.",
-  "linktitle" :"DOCX",
+  "linktitle" : "DOCX",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

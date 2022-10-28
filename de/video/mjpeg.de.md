@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"MJPEG - Motion JPEG-Dateiformat",
   "description":"Erfahren Sie mehr über das MJPEG-Dateiformat und APIs, die MJPEG-Dateien erstellen und öffnen können.",
-  "linktitle" :"MJPEG",
+  "linktitle" : "MJPEG",
   "menu" : {
     "docs" : {
       "parent" : "video"

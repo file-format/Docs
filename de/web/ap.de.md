@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"AP-Dateiformat - Aktive Seitendatei",
   "description" :"Erfahren Sie, was eine AP-Datei und APIs sind, die AP-Dateien erstellen und öffnen können.",
-  "linktitle" :"AP",
+  "linktitle" : "AP",
   "menu" : {
     "docs" : {
       "parent" : "web"

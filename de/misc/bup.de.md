@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"BUP-Dateiformat - Was ist eine BUP-Datei?",
   "description":"Erfahren Sie mehr über BUP DVD IFO-Sicherungsdateien und APIs, die BUP-Dateien erstellen und öffnen können.",
-  "linktitle" :"BUP",
+  "linktitle" : "BUP",
   "menu" : {
     "docs" : {
 "identifier":"misc-bup",

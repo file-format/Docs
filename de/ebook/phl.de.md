@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das PHL-Dateiformat für Orb Reader und APIs, die PHL-Dateien erstellen und öffnen können.",
   "title" :"PHL - Datei mit beliebten Amazon Kindle-Highlights",
-  "linktitle" :"PHL",
+  "linktitle" : "PHL",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

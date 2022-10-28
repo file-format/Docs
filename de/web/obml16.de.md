@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"OBML16-Dateiformat - Gespeicherte Opera Mini-Webseitendatei",
   "description" :"Erfahren Sie, was eine OBML16-Datei und APIs sind, die eine OBML16-Datei erstellen und öffnen können.",
-  "linktitle" :"OBML16",
+  "linktitle" : "OBML16",
   "menu" : {
     "docs" : {
       "parent" : "web"

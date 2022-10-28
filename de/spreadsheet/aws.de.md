@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Was ist eine AWS-Datei und APIs, die AWS-Dateien erstellen und öffnen können.",
   "title" :"AWS - Fähigkeitstabellendatei",
-  "linktitle" :"AWS",
+  "linktitle" : "AWS",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

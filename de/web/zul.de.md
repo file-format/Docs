@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ZUL - ZK-Benutzeroberflächendatei",
   "description":"Erfahren Sie mehr über das ZUL-Dateiformat und APIs, die ZUL-Dateien erstellen und öffnen können.",
-  "linktitle" :"ZUL",
+  "linktitle" : "ZUL",
   "menu" : {
     "docs" : {
       "parent" : "web"

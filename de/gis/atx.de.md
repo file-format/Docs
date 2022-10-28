@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"ATX - ArcGIS-Attributindexdatei",
   "description":"Erfahren Sie mehr über das ATX-Dateiformat und APIs, die ATX-Dateien erstellen und öffnen können.",
-  "linktitle" :"ATX",
+  "linktitle" : "ATX",
   "menu" : {
     "docs" : {
       "parent" : "gis"

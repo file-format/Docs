@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"VST",
   "description":"Erfahren Sie mehr über das VST-Dateiformat und APIs, die VST-Dateien erstellen und öffnen können.",
-  "linktitle" :"VST",
+  "linktitle" : "VST",
   "menu" : {
     "docs" : {
 "identifier":"visio-vst",

@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das SXC-Dateiformat und APIs, die SXC-Dateien erstellen und öffnen können.",
   "title" :"SXC-Dateiformat",
-  "linktitle" :"SXC",
+  "linktitle" : "SXC",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

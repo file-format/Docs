@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"WHTT-Datei - HTTrack-Website-Kopierdatei",
   "description":"Erfahren Sie, was eine WHTT-Datei und APIs sind, die WHTT-Dateien erstellen und öffnen können.",
-  "linktitle" :"WHTT",
+  "linktitle" : "WHTT",
   "menu" : {
     "docs" : {
       "parent" : "web"

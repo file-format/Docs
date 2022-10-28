@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"TEX-Dateiformat",
   "description":"Erfahren Sie mehr über das TEX-Dateiformat und APIs, die TEX-Dateien erstellen und öffnen können.",
-  "linktitle" :"TEX",
+  "linktitle" : "TEX",
   "menu" : {
     "docs" : {
       "parent" : "page-description-language"

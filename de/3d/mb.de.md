@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das MB-Dateiformat und APIs, die MB-Dateien öffnen und erstellen können.",
   "title" :"MB - Maya-Binärdateiformat",
-  "linktitle" :"MB",
+  "linktitle" : "MB",
   "menu" : {
     "docs" : {
       "parent" : "3d"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das INDT-Dateiformat und APIs, die INDT-Dateien erstellen und öffnen können.",
   "title" :"INDT - Adobe InDesign Seitenlayout-Vorlagendatei",
-  "linktitle" :"INDT",
+  "linktitle" : "INDT",
   "menu" : {
     "docs" : {
       "parent" : "page-description-language"

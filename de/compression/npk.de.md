@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"NPK-Dateiformat",
   "description":"Erfahren Sie mehr über das NPK-Dateiformat und APIs, die NPK-Dateien erstellen und öffnen können.",
-  "linktitle" :"NPK",
+  "linktitle" : "NPK",
   "menu" : {
     "docs" : {
 "identifier":"compression-npk",

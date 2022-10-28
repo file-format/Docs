@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"DAP - Microsoft Access-Datendatei",
   "description":"Erfahren Sie mehr über das DAP-Dateiformat und APIs, die DAP-Dateien erstellen und öffnen können.",
-  "linktitle" :"DAP",
+  "linktitle" : "DAP",
   "menu" : {
     "docs" : {
 "identifier":"web-dap",

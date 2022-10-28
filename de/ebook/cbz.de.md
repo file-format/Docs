@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das CBZ-Dateiformat und APIs, die CBZ-Dateien erstellen und öffnen können.",
   "title" :"CBZ - Comicbuch-ZIP-Archivdateiformat",
-  "linktitle" :"CBZ",
+  "linktitle" : "CBZ",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

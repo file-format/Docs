@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das STL-Dateiformat und APIs, die STL-Dateien erstellen und öffnen können.",
   "title" :"STL-Dateiformat",
-  "linktitle" :"STL",
+  "linktitle" : "STL",
   "menu" : {
     "docs" : {
       "parent" : "cad"

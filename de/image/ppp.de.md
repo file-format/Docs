@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"PPP-Datei - PhotoPad-Projektdateiformat",
   "description":"Erfahren Sie mehr über das PSD-Dateiformat und APIs, die PSD-Dateien erstellen und öffnen können.",
-  "linktitle" :"PPP",
+  "linktitle" : "PPP",
   "menu" : {
     "docs" : {
       "parent" : "image"

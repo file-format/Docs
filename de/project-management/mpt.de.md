@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"MPT - Microsoft Project-Vorlagendateiformat",
   "description":"Erfahren Sie mehr über das MPT-Dateiformat und APIs, die MPT-Dateien erstellen und öffnen können.",
-  "linktitle" :"MPT",
+  "linktitle" : "MPT",
   "menu" : {
     "docs" : {
       "parent" : "project-management"

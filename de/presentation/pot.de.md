@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"POT - Microsoft PowerPOint-Vorlagendateiformat",
   "description":"Erfahren Sie mehr über das POT-Dateiformat und APIs, die POT-Dateien erstellen und öffnen können.",
-  "linktitle" :"TOPF",
+  "linktitle" : "POT",
   "menu" : {
     "docs" : {
       "parent" : "presentation"

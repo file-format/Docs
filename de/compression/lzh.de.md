@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"LZH-Dateiformat",
   "description":"Erfahren Sie mehr über das LZH-Dateiformat und APIs, die LZH-Dateien erstellen und öffnen können.",
-  "linktitle" :"LZH",
+  "linktitle" : "LZH",
   "menu" : {
     "docs" : {
       "parent" : "compression"

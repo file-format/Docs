@@ -7,7 +7,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das MP-Dateiformat und APIs, die MP-Dateien öffnen und erstellen können.",
   "title" :"MP-Dateiformat - Maya PLE-Projektdatei",
-  "linktitle" :"MP",
+  "linktitle" : "MP",
   "menu" : {
     "docs" : {
 "identifier": "3d-mp",

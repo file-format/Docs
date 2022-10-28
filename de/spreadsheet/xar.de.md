@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das XAR-Dateiformat und APIs, die XAR-Dateien erstellen und öffnen können.",
   "title" :"XAR - Dateiformat für automatische Microsoft Excel-Wiederherstellung",
-  "linktitle" :"XAR",
+  "linktitle" : "XAR",
   "menu" : {
     "docs" : {
     "identifier": "spreadsheet-xar",

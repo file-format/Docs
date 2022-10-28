@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das RVT-Dateiformat und APIs, die RVT-Dateien erstellen und öffnen können.",
   "title" :"RVT-Dateiformat",
-  "linktitle" :"RVT",
+  "linktitle" : "RVT",
   "menu" : {
     "docs" : {
       "parent" : "cad"

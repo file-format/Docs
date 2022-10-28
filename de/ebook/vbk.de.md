@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das VBK-Dateiformat und APIs, die VBK-Dateien erstellen und öffnen können.",
   "title" :"VBK-Dateiformat",
-  "linktitle" :"VBK",
+  "linktitle" : "VBK",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

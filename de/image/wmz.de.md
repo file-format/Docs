@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"WMZ-Dateiformat - Komprimierte Windows-Metadatei",
   "description":"Erfahren Sie mehr über das WMZ-Dateiformat und APIs, die WMZ-Dateien erstellen und öffnen können.",
-  "linktitle" :"WMZ",
+  "linktitle" : "WMZ",
   "menu" : {
     "docs" : {
       "parent" : "image"

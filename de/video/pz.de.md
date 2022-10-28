@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"PZ-Dateiformat - Panzoid-Videoprojektdatei",
   "description":"Erfahren Sie mehr über das PZ-Dateiformat und APIs, die PZ-Dateien erstellen und öffnen können.",
-  "linktitle" :"PZ",
+  "linktitle" : "PZ",
   "menu" : {
     "docs" : {
       "parent" : "video"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"XD - Adobe XD-Dokument",
   "description":"Erfahren Sie mehr über das XD-Dateiformat und APIs, die XD-Dateien erstellen und öffnen können.",
-  "linktitle" :"XD",
+  "linktitle" : "XD",
   "menu" : {
     "docs" : {
       "parent" : "web"

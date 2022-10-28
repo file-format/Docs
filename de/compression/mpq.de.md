@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"MPQ-Dateiformat",
   "description":"Erfahren Sie mehr über das MPQ-Dateiformat und APIs, die MPQ-Dateien erstellen und öffnen können.",
-  "linktitle" :"MPQ",
+  "linktitle" : "MPQ",
   "menu" : {
     "docs" : {
       "parent" : "compression"

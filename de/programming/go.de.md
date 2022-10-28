@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"GO - Golang-Dateiformat",
   "description":"Erfahren Sie mehr über das GO-Dateiformat und APIs, die GO-Dateien erstellen und öffnen können.",
-  "linktitle" :"GEHEN",
+  "linktitle" : "GO",
   "menu" : {
     "docs" : {
       "parent" : "programming"

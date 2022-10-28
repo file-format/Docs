@@ -7,7 +7,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das FMPSL-Dateiformat und APIs, die FMPSL-Dateien erstellen und öffnen können.",
   "title" :"FMPSL-Dateiformat – FileMaker Pro 12 Snapshot Link-Datei",
-  "linktitle" :"FMPSL",
+  "linktitle" : "FMPSL",
   "menu" : {
     "docs" : {
       "parent" : "database"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ALX - Was ist eine ALX-Datei?",
   "description" :"Erfahren Sie, was eine ActiveX-ALX-Datei und APIs sind, die ALX-Dateien erstellen und öffnen können.",
-  "linktitle" :"ALX",
+  "linktitle" : "ALX",
   "menu" : {
     "docs" : {
       "parent" : "web"

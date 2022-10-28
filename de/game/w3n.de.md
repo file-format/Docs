@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das W3N-Dateiformat von Warcraft III Frozen Throne und APIs, die W3N-Dateien erstellen und öffnen können.",
   "title" :"W3N - Erweiterungskampagnenkartendatei von Warcraft 3",
-  "linktitle" :"W3N",
+  "linktitle" : "W3N",
   "menu" : {
     "docs" : {
       "parent" : "game"

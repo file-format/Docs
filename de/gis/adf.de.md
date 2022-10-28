@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"ADF - ESRI ArcInfo Binary Grid Format",
   "description":"Erfahren Sie mehr über das ADF-Dateiformat und APIs, die ADF-Dateien erstellen und öffnen können.",
-  "linktitle" :"ADF",
+  "linktitle" : "ADF",
   "menu" : {
     "docs" : {
 "Bezeichner": "gis-adf",

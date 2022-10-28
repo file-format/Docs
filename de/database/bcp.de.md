@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das BCP-Dateiformat und APIs, die BCP-Dateien erstellen und öffnen können.",
   "title" :"BCP - SQL Server-Massenkopie-Dateiformat",
-  "linktitle" :"BCP",
+  "linktitle" : "BCP",
   "menu" : {
     "docs" : {
       "parent" : "database"

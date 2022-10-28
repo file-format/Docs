@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"DNG - Digitalkamera-Bilddateiformat",
   "description":"Erfahren Sie mehr über das DNG-Dateiformat und APIs, die DNG-Dateien erstellen und öffnen können.",
-  "linktitle" :"DNG",
+  "linktitle" : "DNG",
   "menu" : {
     "docs" : {
       "parent" : "image"

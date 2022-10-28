@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das Nintendo DS SAV-Dateiformat und APIs, die SAV-Dateien erstellen und öffnen können.",
   "title" :"SAV - Nintendo DS-Speicherdatei",
-  "linktitle" :"SAV",
+  "linktitle" : "SAV",
   "menu" : {
     "docs" : {
 "identifier":"game-sav",

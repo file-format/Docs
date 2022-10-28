@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"HEIC - Hocheffizientes Bilddateiformat",
   "description":"Erfahren Sie mehr über .heic-Dateien und APIs, die HEIC-Dateien erstellen und öffnen können.",
-  "linktitle" :"HEIK",
+  "linktitle" : "HEIC",
   "menu" : {
     "docs" : {
       "parent" : "image"

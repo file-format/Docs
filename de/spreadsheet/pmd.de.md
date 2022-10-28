@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über PlanMaker PMD-Dateien und APIs, die PMD-Dateien erstellen und öffnen können.",
   "title" :"PMD - PlanMaker-Tabellendatei",
-  "linktitle" :"PMD",
+  "linktitle" : "PMD",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

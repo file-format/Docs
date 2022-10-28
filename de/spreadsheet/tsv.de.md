@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Ihr Dateiformat-Leitfaden, um zu wissen, was eine TSV-Dateierweiterung und APIs sind, die sie erstellen und öffnen können.",
   "title" :"TSV - Dateiformat für tabulatorgetrennte Werte?",
-  "linktitle" :"TSV",
+  "linktitle" : "TSV",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

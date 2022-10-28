@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Ihr Dateiformatleitfaden, um zu wissen, was eine DIF-Dateierweiterung und APIs sind, die DIF-Dateien erstellen und öffnen können.",
   "title" :"DIF - Datenaustauschdateiformat",
-  "linktitle" :"DIF",
+  "linktitle" : "DIF",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

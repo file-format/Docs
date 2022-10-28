@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"IMG - Garmin-Kartendatei",
   "description":"Erfahren Sie, was eine IMG-Datei und APIs sind, die IMG-Dateien erstellen und öffnen können.",
-  "linktitle" :"IMG",
+  "linktitle" : "IMG",
   "menu" : {
     "docs" : {
 "identifier":"gis-img",

@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das PIF-Dateiformat und APIs, die PIF-Dateien erstellen und öffnen können.",
   "title" :"PIF - Programminformationsdatei",
-  "linktitle" :"PIF",
+  "linktitle" : "PIF",
   "menu" : {
     "docs" : {
       "parent" : "executable"

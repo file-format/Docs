@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das DB3-Dateiformat und APIs, die DB3-Dateien erstellen und öffnen können.",
   "title" :"DB3-Dateiformat",
-  "linktitle" :"DB3",
+  "linktitle" : "DB3",
   "menu" : {
     "docs" : {
       "parent" : "database"

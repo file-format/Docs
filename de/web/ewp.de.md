@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"EWP-Datei - Dateiformat des Ewisoft Website-Projekts",
   "description":"Erfahren Sie mehr über das EWP-Dateiformat und APIs, die EWP-Dateien erstellen und öffnen können.",
-  "linktitle" :"EWP",
+  "linktitle" : "EWP",
   "menu" : {
     "docs" : {
       "parent" : "web"

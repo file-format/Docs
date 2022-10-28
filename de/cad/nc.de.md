@@ -7,7 +7,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das NC-Dateiformat und APIs, die NC-Dateien erstellen und öffnen können.",
   "title" :"NC-Dateiformat - Numerische Mastercam-Steuerungsdatei",
-  "linktitle" :"NC",
+  "linktitle" : "NC",
   "menu" : {
     "docs" : {
 "identifier": "cad-nc",

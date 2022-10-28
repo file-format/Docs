@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"CMX - Corel Metafile-Austauschbild",
   "description":"Erfahren Sie mehr über das CMX-Dateiformat und APIs, die CMX-Dateien erstellen und öffnen können.",
-  "linktitle" :"CMX",
+  "linktitle" : "CMX",
   "menu" : {
     "docs" : {
       "parent" : "image"

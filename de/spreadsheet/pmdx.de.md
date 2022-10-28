@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über PlanMaker PMDX-Dateien und APIs, die PMDX-Dateien erstellen und öffnen können.",
   "title" :"PMDX - PlanMaker-Tabellenkalkulationsdatei",
-  "linktitle" :"PMDX",
+  "linktitle" : "PMDX",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

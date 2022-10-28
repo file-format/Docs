@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"DWT - Vorlagendatei für Dreamweaver-Webseiten",
   "description":"Erfahren Sie mehr über das DWT-Dateiformat und APIs, die DWT-Dateien erstellen und öffnen können.",
-  "linktitle" :"DWT",
+  "linktitle" : "DWT",
   "menu" : {
     "docs" : {
 "identifier": "web-dwt",

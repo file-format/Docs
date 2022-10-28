@@ -7,7 +7,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das TE-Dateiformat und APIs, die TE-Dateien erstellen und öffnen können.",
   "title" :"TE-Dateiformat - Textease CT-Datenbankdatei",
-  "linktitle" :"TE",
+  "linktitle" : "TE",
   "menu" : {
     "docs" : {
       "parent" : "database"

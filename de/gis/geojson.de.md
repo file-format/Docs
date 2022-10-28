@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"GeoJSON - JSON-basiertes geografisches Dateiformat",
   "description":"Erfahren Sie mehr über das GeoJSON-Dateiformat und APIs, die GeoJSON-Dateien erstellen und öffnen können.",
-  "linktitle" :"GeoJSON",
+  "linktitle" : "GEOJSON",
   "menu" : {
     "docs" : {
       "parent" : "gis"

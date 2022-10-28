@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das Mass Effect PCC-Dateiformat und APIs, die PCC-Dateien erstellen und öffnen können.",
   "title" :"PCC - Mass Effect Package-Datei",
-  "linktitle" :"PCC",
+  "linktitle" : "PCC",
   "menu" : {
     "docs" : {
       "parent" : "game"

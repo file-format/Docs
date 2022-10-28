@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"HAR - HTTP-Archivdateiformat",
   "description" :"Ihr Dateiformatleitfaden, um zu erfahren, was eine HAR-Datei und APIs sind, die eine HAR-Datei erstellen und öffnen können.",
-  "linktitle" :"HAR",
+  "linktitle" : "HAR",
   "menu" : {
     "docs" : {
       "parent" : "web"

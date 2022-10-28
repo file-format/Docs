@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"TS - TyрeSсriрt-Dateiformat",
   "description":"Erfahren Sie mehr über das TS-Dateiformat und APIs, die TS-Dateien erstellen und öffnen können.",
-  "linktitle" :"TS",
+  "linktitle" : "TS",
   "menu" : {
     "docs" : {
       "parent" : "programming"

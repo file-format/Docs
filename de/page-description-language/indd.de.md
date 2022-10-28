@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das INDD-Dateiformat und APIs, die INDD-Dateien erstellen und öffnen können.",
   "title" :"INDD - Adobe InDesign-Seitenlayoutdatei",
-  "linktitle" :"INDD",
+  "linktitle" : "INDD",
   "menu" : {
     "docs" : {
       "parent" : "page-description-language"

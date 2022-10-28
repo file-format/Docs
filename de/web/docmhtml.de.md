@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"DOCMHTML-Dateiformat - Microsoft Word MIME-HTML-Dokumentdatei",
   "description" :"Erfahren Sie mehr über das DOCMHTML-Dateiformat und APIs zum Erstellen und Öffnen von DOCMHTML-Dateien.",
-  "linktitle" :"DOCMHTML",
+  "linktitle" : "DOCMHTML",
   "menu" : {
     "docs" : {
       "parent" : "web"

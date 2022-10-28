@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"WEBSITE-Dateiformat - Verknüpfungsdatei für angeheftete Internet Explorer-Sites",
   "description":"Erfahren Sie, was eine WEBSITE-Datei und APIs sind, die WEBSITE-Dateien erstellen und öffnen können.",
-  "linktitle" :"WEBSEITE",
+  "linktitle" : "WEBSITE",
   "menu" : {
     "docs" : {
       "parent" : "web"

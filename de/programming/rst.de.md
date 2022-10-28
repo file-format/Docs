@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"RST-Dateiformat - reStructuredText-Datei",
   "description":"Erfahren Sie mehr über das RST-Dateiformat und APIs, die RST-Dateien erstellen und öffnen können.",
-  "linktitle" :"RST",
+  "linktitle" : "RST",
   "menu" : {
     "docs" : {
       "parent" : "programming"

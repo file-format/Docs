@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"P6XML - Primavera P6-Projekt",
   "description":"Erfahren Sie mehr über das P6XML-Dateiformat und APIs, die P6XML-Dateien erstellen und öffnen können.",
-  "linktitle" :"P6XML",
+  "linktitle" : "P6XML",
   "menu" : {
     "docs" : {
       "parent" : "project-management"

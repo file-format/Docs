@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"DOTX - Microsoft Word-Vorlagendatei",
   "description":"Erfahren Sie mehr über das DOTX-Dateiformat und APIs, die DOTX-Dateien erstellen und öffnen können.",
-  "linktitle" :"DOTX",
+  "linktitle" : "DOTX",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

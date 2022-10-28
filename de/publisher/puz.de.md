@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"PUZ-Datei - Gepackte Publisher-Datei",
   "description":"Erfahren Sie, was eine PUZ-Datei und APIs sind, die PUZ-Dateien erstellen und öffnen können.",
-  "linktitle" :"PUZ",
+  "linktitle" : "PUZ",
   "menu" : {
     "docs" : {
       "parent" : "publisher"

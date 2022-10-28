@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"PART - Teilweise heruntergeladene Datei",
   "description":"Erfahren Sie mehr über das PART-Dateiformat und APIs, die PART-Dateien erstellen und öffnen können.",
-  "linktitle" :"TEIL",
+  "linktitle" : "PART",
   "menu" : {
     "docs" : {
       "parent" : "web"

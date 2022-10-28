@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"IPYNB - Jupyter Notebook-Datei",
   "description":"Erfahren Sie, was IPYNB-Dateien und APIs sind, die IPYNB-Dateien erstellen und öffnen können.",
-  "linktitle" :"IPYNB",
+  "linktitle" : "IPYNB",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

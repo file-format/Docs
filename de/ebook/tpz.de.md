@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das TPZ-Dateiformat und APIs, die TPZ-Dateien erstellen und öffnen können.",
   "title" :"TPZ-Dateiformat",
-  "linktitle" :"TPZ",
+  "linktitle" : "TPZ",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

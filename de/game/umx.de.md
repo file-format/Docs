@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das UMX-Dateiformat von Unreal Music Package und APIs, die UMX-Dateien erstellen und öffnen können.",
   "title" :"UMX - Unreal Music Package-Datei",
-  "linktitle" :"UMX",
+  "linktitle" : "UMX",
   "menu" : {
     "docs" : {
       "parent" : "game"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"CER - Zertifikatsdateiformat",
   "description":"Erfahren Sie mehr über das CER-Dateiformat und APIs, die CER-Dateien erstellen und öffnen können.",
-  "linktitle" :"CER",
+  "linktitle" : "CER",
   "menu" : {
     "docs" : {
       "parent" : "web"

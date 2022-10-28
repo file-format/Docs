@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"LESS-Datei - LESS-Stylesheet-Datei",
   "description" :"Erfahren Sie mehr über das LESS-Dateiformat und APIs zum Erstellen und Öffnen von LESS-Dateien.",
-  "linktitle" :"WENIGER",
+  "linktitle" : "LESS",
   "menu" : {
     "docs" : {
       "parent" : "web"

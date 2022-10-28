@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"HTM-Dateiformat",
   "description" :"Ihr Dateiformat-Leitfaden, um zu erfahren, was eine HTM-Datei und APIs sind, die sie erstellen und öffnen können.",
-  "linktitle" :"HTM",
+  "linktitle" : "HTM",
   "menu" : {
     "docs" : {
       "parent" : "web"

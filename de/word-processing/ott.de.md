@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"OTT - OpenDocument-Vorlagendatei",
   "description":"Erfahren Sie mehr über das OTT-Dateiformat und APIs, die OTT-Dateien erstellen und öffnen können.",
-  "linktitle" :"OTT",
+  "linktitle" : "OTT",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

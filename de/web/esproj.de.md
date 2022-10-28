@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"ESPROJ-Datei - Espresso-Projektdateiformat",
   "description":"Erfahren Sie mehr über das ESPROJ-Dateiformat und APIs, die ESPROJ-Dateien erstellen und öffnen können.",
-  "linktitle" :"ESPROJ",
+  "linktitle" : "ESPROJ",
   "menu" : {
     "docs" : {
       "parent" : "web"

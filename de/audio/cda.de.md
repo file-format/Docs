@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das CDA-Dateiformat und APIs, die CDA-Dateien erstellen, konvertieren und öffnen können.",
   "title" :"CDA - CD-Audio-Track-Shortcut-Datei",
-  "linktitle" :"CDA",
+  "linktitle" : "CDA",
   "menu" : {
     "docs" : {
       "parent" : "audio"

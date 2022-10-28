@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Was ist eine FM-Datei und APIs, die FM-Dateien erstellen und öffnen können.",
   "title" :"FM - FileMaker Pro-Tabellenkalkulationsdatei",
-  "linktitle" :"UKW",
+  "linktitle" : "FM",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

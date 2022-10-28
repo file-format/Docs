@@ -7,7 +7,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über CSD Steam Game Data Backup File Format und APIs.",
   "title" :"CSD-Dateiformat - Steam-Spieldaten-Sicherungsdatei",
-  "linktitle" :"CSD",
+  "linktitle" : "CSD",
   "menu" : {
     "docs" : {
 "identifier": "game-csd",

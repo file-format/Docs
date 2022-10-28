@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"P7S-Datei - Digital signierte E-Mail-Nachricht",
   "description":"Erfahren Sie mehr über das P7S-Dateiformat und APIs, die P7S-Dateien erstellen und öffnen können.",
-  "linktitle" :"P7S",
+  "linktitle" : "P7S",
   "menu" : {
     "docs" : {
       "parent" : "email"

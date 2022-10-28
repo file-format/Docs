@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das ASE-Dateiformat und APIs, die ASE-Dateien öffnen und erstellen können.",
   "title" :"ASE - Autodesk ASCII-Szenen-Exportdatei",
-  "linktitle" :"ASE",
+  "linktitle" : "ASE",
   "menu" : {
     "docs" : {
       "parent" : "3d"

@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"Torrent-Dateiformat - BitTorrent-Datei",
   "description":"Erfahren Sie mehr über TORRENT-Dateien und APIs, die TORRENT-Dateien erstellen und öffnen können.",
-  "linktitle" :"Torrent",
+  "linktitle" : "TORRENT",
   "menu" : {
     "docs" : {
 "identifier":"misc-torrent",

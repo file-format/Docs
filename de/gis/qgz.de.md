@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"QGZ - Komprimiertes Quanten-GIS-Projekt",
   "description":"Erfahren Sie mehr über das QGZ-Dateiformat, das nur ein komprimiertes QGS und APIs ist, die QGZ-Dateien erstellen und öffnen können.",
-  "linktitle" :"QGZ",
+  "linktitle" : "QGZ",
   "menu" : {
     "docs" : {
       "parent" : "gis"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das WAV-Dateiformat und APIs, die WAV-Dateien erstellen und öffnen können.",
   "title" :"WAV - Wellenform-Audiodateiformat",
-  "linktitle" :"WAV",
+  "linktitle" : "WAV",
   "menu" : {
     "docs" : {
       "parent" : "audio"

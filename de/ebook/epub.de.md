@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das EPUB-Dateiformat und APIs, die EPUB-Dateien erstellen und öffnen können.",
   "title" :"Was ist eine EPUB-Datei?",
-  "linktitle" :"EPUB",
+  "linktitle" : "EPUB",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"MHTML - MIME-HTML-Datei",
   "description":"Erfahren Sie mehr über das MHTML-Dateiformat und APIs, die MHTML-Dateien erstellen und öffnen können.",
-  "linktitle" :"MHTML",
+  "linktitle" : "MHTML",
   "menu" : {
     "docs" : {
       "parent" : "web"

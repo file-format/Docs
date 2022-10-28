@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das RZB-Dateiformat und APIs, die RZB-Dateien erstellen und öffnen können.",
   "title" :"RZB - Red Zion Book File",
-  "linktitle" :"RZB",
+  "linktitle" : "RZB",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

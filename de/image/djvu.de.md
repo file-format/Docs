@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"DJVU-Dateiformat",
   "description":"Erfahren Sie mehr über das DJVU-Dateiformat und APIs, die DJVU-Dateien erstellen und öffnen können.",
-  "linktitle" :"DJVU",
+  "linktitle" : "DJVU",
   "menu" : {
     "docs" : {
       "parent" : "image"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ASCX-Dateiformat",
   "description" :"Erfahren Sie, was eine ASCX-Datei und APIs sind, die ASCX-Dateien erstellen und öffnen können.",
-  "linktitle" :"ASCX",
+  "linktitle" : "ASCX",
   "menu" : {
     "docs" : {
       "parent" : "web"

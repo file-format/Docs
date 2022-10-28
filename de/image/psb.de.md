@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"PSB - Photoshop Big Image-Dateiformat",
   "description":"Erfahren Sie mehr über das PSB-Dateiformat und APIs, die PSB-Dateien erstellen und öffnen können.",
-  "linktitle" :"PSB",
+  "linktitle" : "PSB",
   "menu" : {
     "docs" : {
       "parent" : "image"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das HPGL-Dateiformat und APIs, die HPGL-Dateien erstellen und öffnen können.",
   "title" :"HPGL-Dateiformat - Lernen Sie von Dateiformatexperten!",
-  "linktitle" :"HPGL",
+  "linktitle" : "HPGL",
   "menu" : {
     "docs" : {
       "parent" : "cad"

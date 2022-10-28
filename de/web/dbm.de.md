@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"DBM - ColdFusion-Serverdatei",
   "description":"Erfahren Sie mehr über das DBM-Dateiformat und APIs, die DBM-Dateien erstellen und öffnen können.",
-  "linktitle" :"DBM",
+  "linktitle" : "DBM",
   "menu" : {
     "docs" : {
 "identifier":"web-dbm",

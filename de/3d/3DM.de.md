@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"3DM",
   "description":"Erfahren Sie mehr über das 3DM-Dateiformat und APIs, die 3DM-Dateien öffnen und erstellen können.",
-  "linktitle" :"3DM",
+  "linktitle" : "3DM",
   "menu" : {
     "docs" : {
       "parent" : "3d"

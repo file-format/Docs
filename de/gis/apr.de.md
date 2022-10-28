@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"APR - ArcView-Projektdatei",
   "description":"Erfahren Sie, was eine APR-Datei und APIs sind, die APL-Dateien erstellen und öffnen können.",
-  "linktitle" :"APR",
+  "linktitle" : "APR",
   "menu" : {
     "docs" : {
       "parent" : "gis"

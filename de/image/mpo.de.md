@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"MPO-Datei - Objektdatei mit mehreren Bildern",
   "description":"Erfahren Sie mehr über das MPO-Dateiformat und APIs, die MPO-Dateien erstellen und öffnen können.",
-  "linktitle" :"MPO",
+  "linktitle" : "MPO",
   "menu" : {
     "docs" : {
       "parent" : "image"

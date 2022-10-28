@@ -8,7 +8,7 @@
   "title" :"RDLC - Berichtsdefinitionssprache clientseitig",
   "keywords" :[ "rdlc", "Berichtsdefinitionssprache", "mkv-Format", "XSD", "Berichtsdefinitionssprache clientseitig"],
   "description":"Erfahren Sie mehr über das RDLC-Dateiformat, das eine XML-Darstellung einer SQL Server Reporting Services-Berichtsdefinition ist.",
-  "linktitle" :"RDLC",
+  "linktitle" : "RDLC",
   "menu" : {
     "docs" : {
       "parent" : "reporting"

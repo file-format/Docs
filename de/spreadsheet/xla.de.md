@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie, was ein XLA-Dateiformat und APIs sind, die XLA-Dateien erstellen und öffnen können.",
   "title" :"XLA - Excel-Add-In-Datei",
-  "linktitle" :"XLA",
+  "linktitle" : "XLA",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

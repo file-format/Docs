@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das MAR-Dateiformat und APIs, die MAR-Dateien erstellen und öffnen können.",
   "title" :"MAR - Mariner Calc-Tabellenkalkulationsdateiformat",
-  "linktitle" :"BESCHÄDIGEN",
+  "linktitle" : "MAR",
   "menu" : {
     "docs" : {
 "Bezeichner": "Tabellenkalkulation",

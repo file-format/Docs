@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das YBK-Dateiformat und APIs, die YBK-Dateien erstellen und öffnen können.",
   "title" :"YBK-Dateiformat",
-  "linktitle" :"YBK",
+  "linktitle" : "YBK",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

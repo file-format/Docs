@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"X - DirectX 2.0-Dateiformat",
   "description":"Erfahren Sie mehr über das DirectX X-Dateiformat und APIs, die DirectX X-Dateien öffnen und erstellen können.",
-  "linktitle" :"X",
+  "linktitle" : "X",
   "menu" : {
     "docs" : {
       "parent" : "3d"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das CSV-Dateiformat und APIs, die CSV-Dateien erstellen und öffnen können.",
   "title" :"CSV-Dateiformat",
-  "linktitle" :"CSV",
+  "linktitle" : "CSV",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

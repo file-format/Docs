@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"SVGZ-Dateiformat - Eine Windows-komprimierte erweiterte Metadatei",
   "description":"Erfahren Sie mehr über das EMZ-Dateiformat und APIs, die SVGZ-Dateien erstellen und öffnen können.",
-  "linktitle" :"SVGZ",
+  "linktitle" : "SVGZ",
   "menu" : {
     "docs" : {
       "parent" : "image"

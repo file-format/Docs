@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das B3D-Dateiformat; wird in Blitz3D-Spielen und APIs verwendet, die B3D-Dateien öffnen und erstellen können.",
   "title" :"B3D - Blitz3D-Entitätsmodelldatei",
-  "linktitle" :"B3D",
+  "linktitle" : "B3D",
   "menu" : {
     "docs" : {
       "parent" : "3d"

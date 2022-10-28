@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das WSF-Dateiformat und APIs, die WSF-Dateien erstellen und öffnen können.",
   "title" :"WSF - Windows-Skriptdatei",
-  "linktitle" :"WSF",
+  "linktitle" : "WSF",
   "menu" : {
     "docs" : {
       "parent" : "executable"

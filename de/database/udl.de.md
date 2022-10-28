@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das UDL-Dateiformat und APIs, die UDL-Dateien erstellen und öffnen können.",
   "title" :"UDL - Microsoft Universal Data Link-Datei",
-  "linktitle" :"UDL",
+  "linktitle" : "UDL",
   "menu" : {
     "docs" : {
       "parent" : "database"

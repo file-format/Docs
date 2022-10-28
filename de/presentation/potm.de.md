@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"POTM - Microsoft PowerPoint-Vorlagendatei mit Makros",
   "description":"Erfahren Sie mehr über das POTM-Dateiformat und APIs, die POTM-Dateien erstellen und öffnen können.",
-  "linktitle" :"POTM",
+  "linktitle" : "POTM",
   "menu" : {
     "docs" : {
       "parent" : "presentation"

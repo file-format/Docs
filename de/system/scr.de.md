@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"SCR - Windows-Bildschirmschonerdatei",
   "description":"Erfahren Sie mehr über das SCR-Dateiformat und APIs, die SCR-Dateien erstellen und öffnen können.",
-  "linktitle" :"SCR",
+  "linktitle" : "SCR",
   "menu" : {
     "docs" : {
       "parent" : "system"

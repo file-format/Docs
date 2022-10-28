@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das EPS-Dateiformat und APIs, die EPS-Dateien erstellen und öffnen können.",
   "title" :"EPS-Dateiformat - Encapsulated PostScript-Datei",
-  "linktitle" :"EPS",
+  "linktitle" : "EPS",
   "menu" : {
     "docs" : {
       "parent" : "page-description-language"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das RFA-Dateiformat und APIs, die RFA-Dateien erstellen und öffnen können.",
   "title" :"RFA - Revit-Familiendatei",
-  "linktitle" :"RFA",
+  "linktitle" : "RFA",
   "menu" : {
     "docs" : {
       "parent" : "cad"

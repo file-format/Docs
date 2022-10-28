@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"EDB-Dateiformat - Eine Exchange Mail-Datenbankdatei",
   "description":"Erfahren Sie mehr über das EDB-Dateiformat und APIs, die EDB-Dateien erstellen und öffnen können.",
-  "linktitle" :"EDB",
+  "linktitle" : "EDB",
   "menu" : {
     "docs" : {
       "parent" : "email"

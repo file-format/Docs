@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das SNB-Dateiformat und APIs, die SNB-Dateien erstellen und öffnen können.",
   "title" :"SNB - S-Note-Datei",
-  "linktitle" :"SNB",
+  "linktitle" : "SNB",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

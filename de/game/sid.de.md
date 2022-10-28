@@ -7,7 +7,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das SID-Dateiformat und APIs, die SID-Dateien erstellen und öffnen können.",
   "title" :"SFAR - Mass Effect 3 DLC-Datei",
-  "linktitle" :"SID",
+  "linktitle" : "SID",
   "menu" : {
     "docs" : {
 "identifier":"game-sid",

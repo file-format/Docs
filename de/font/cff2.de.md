@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"CFF2 - Kompaktes Schriftdateiformat Version 2",
   "description":"Erfahren Sie mehr über das CFF2-Dateiformat und APIs zum Erstellen und Öffnen von CFF2-Dateien.",
-  "linktitle" :"CFF2",
+  "linktitle" : "CFF2",
   "menu" : {
     "docs" : {
       "parent" : "font"

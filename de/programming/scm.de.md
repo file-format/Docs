@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"SCM-Dateiformat - Schema-Quellcodedatei",
   "description":"Erfahren Sie mehr über das SCM-Dateiformat und APIs, die SCM-Dateien erstellen und öffnen können.",
-  "linktitle" :"SCM",
+  "linktitle" : "SCM",
   "menu" : {
     "docs" : {
       "parent" : "programming"

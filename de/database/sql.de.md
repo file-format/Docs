@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das SQL-Dateiformat und APIs, die SQL-Dateien erstellen und öffnen können.",
   "title" :"SQL-Dateiformat - Eine strukturierte Abfragesprachen-Datendatei",
-  "linktitle" :"SQL",
+  "linktitle" : "SQL",
   "menu" : {
     "docs" : {
       "parent" : "database"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das PPT-Dateiformat und APIs, die PPT-Dateien erstellen und öffnen können.",
   "title" :"PPT - PowerPoint-Dateiformat",
-  "linktitle" :"PPT",
+  "linktitle" : "PPT",
   "menu" : {
     "docs" : {
       "parent" : "presentation"

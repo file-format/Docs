@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das AMF-Dateiformat und APIs, die AMF-Dateien öffnen und erstellen können.",
   "title" :"AMF - Datei für additive Fertigung",
-  "linktitle" :"AMF",
+  "linktitle" : "AMF",
   "menu" : {
     "docs" : {
       "parent" : "3d"

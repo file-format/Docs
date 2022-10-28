@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das EFU-Dateiformat und APIs, die EFU-Dateien erstellen und öffnen können.",
   "title" :"EFU - Everything File List Spreadsheet-Datei",
-  "linktitle" :"EFU",
+  "linktitle" : "EFU",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

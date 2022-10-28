@@ -8,7 +8,7 @@
   "title" :"RPL - Berichtsseitenlayout",
   "keywords" :[ "rpl", "Berichtsseitenlayout", "XSD", "SQL Server", "Berichterstellung"],
   "description":"Erfahren Sie mehr über das RPL-Stream-Format, ein internes Binärformat, das von Microsoft SQL Server Reporting Services beim Kontakt mit Viewer-Steuerelementen verwendet wird.",
-  "linktitle" :"RPL",
+  "linktitle" : "RPL",
   "menu" : {
     "docs" : {
       "parent" : "reporting"

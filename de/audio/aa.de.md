@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das AA-Dateiformat und APIs, die AA-Dateien erstellen und öffnen können.",
   "title" :"AA - Audible AudioBook-Dateiformat",
-  "linktitle" :"AA",
+  "linktitle" : "AA",
   "menu" : {
     "docs" : {
       "parent" : "audio"

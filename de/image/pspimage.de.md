@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"PSPIMAGE-Dateiformat - PaintShop Pro-Bilddatei",
   "description":"Erfahren Sie mehr über das PSPIMAGE-Dateiformat und APIs, die PSPIMAGE-Dateien erstellen und öffnen können.",
-  "linktitle" :"PSIMAGE",
+  "linktitle" : "PSPIMAGE",
   "menu" : {
     "docs" : {
       "parent" : "image"

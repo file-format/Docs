@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"EDGE – Adobe Edge-Projektdatei",
   "description":"Erfahren Sie mehr über das EDGE-Dateiformat und APIs, die EDGE-Dateien erstellen und öffnen können.",
-  "linktitle" :"KANTE",
+  "linktitle" : "EDGE",
   "menu" : {
     "docs" : {
       "parent" : "web"

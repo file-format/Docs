@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"JPC-Dateiformat - JPEG 2000 Code Stream-Datei",
   "description":"Erfahren Sie mehr über das JPC-Dateiformat und APIs, die JPC-Dateien erstellen und öffnen können.",
-  "linktitle" :"JPK",
+  "linktitle" : "JPC",
   "menu" : {
     "docs" : {
       "parent" : "image"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"VDX - Microsoft Visio-Zeichnungsdatei",
   "description":"Erfahren Sie mehr über das VDX-Dateiformat und APIs, die VDX-Dateien erstellen und öffnen können.",
-  "linktitle" :"VDX",
+  "linktitle" : "VDX",
   "menu" : {
     "docs" : {
 "identifier":"visio-vdx",

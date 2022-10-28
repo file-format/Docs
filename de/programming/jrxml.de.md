@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das JRXML-Dateiformat und APIs, die JRXML-Dateien öffnen und erstellen können.",
   "title" :"JRXML-Dateiformat",
-  "linktitle" :"JRXML",
+  "linktitle" : "JRXML",
   "menu" : {
     "docs" : {
       "parent" : "programming"

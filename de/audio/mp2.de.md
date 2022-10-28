@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das MP2-Dateiformat und APIs, die MP2-Dateien erstellen, konvertieren und öffnen können.",
   "title" :"MP2 - MPEG Layer 2 Audiodateiformat",
-  "linktitle" :"MP2",
+  "linktitle" : "MP2",
   "menu" : {
     "docs" : {
       "parent" : "audio"

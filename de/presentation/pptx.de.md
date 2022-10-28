@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das PPTX-Dateiformat und APIs, die PPTX-Dateien erstellen und öffnen können.",
   "title" :"PPTX - PowerPoint-Präsentationsdateiformat",
-  "linktitle" :"PPTX",
+  "linktitle" : "PPTX",
   "menu" : {
     "docs" : {
       "parent" : "presentation"

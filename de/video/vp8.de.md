@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"VP8 - TrueMotion-Videodatei",
   "description":"Erfahren Sie mehr über das VP8-Dateiformat und APIs, die VP8-Dateien erstellen und öffnen können.",
-  "linktitle" :"VP8",
+  "linktitle" : "VP8",
   "menu" : {
     "docs" : {
       "parent" : "video"

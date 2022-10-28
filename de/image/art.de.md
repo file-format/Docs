@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ART - AOL-komprimierte Bilddatei",
   "description":"Erfahren Sie mehr über das ART-Dateiformat und APIs, die ART-Dateien erstellen und öffnen können.",
-  "linktitle" :"KUNST",
+  "linktitle" : "ART",
   "menu" : {
     "docs" : {
 "identifier":"image-art",

@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das DXF-Dateiformat und APIs, die DXF-Dateien erstellen und öffnen können.",
   "title" :"DXF-Dateiformat",
-  "linktitle" :"DXF",
+  "linktitle" : "DXF",
   "menu" : {
     "docs" : {
       "parent" : "cad"

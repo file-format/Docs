@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"GML - Geographie-Markup-Language-Dateiformat",
   "description":"Erfahren Sie mehr über das GML-Dateiformat und APIs, die GML-Dateien erstellen und öffnen können.",
-  "linktitle" :"GML",
+  "linktitle" : "GML",
   "menu" : {
     "docs" : {
       "parent" : "gis"

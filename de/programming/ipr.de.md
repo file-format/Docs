@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"IPR-Dateiformat - IntelliJ IDEA-Projektdatei",
   "description":"Erfahren Sie mehr über das IPR-Dateiformat und APIs, die IPR-Dateien erstellen und öffnen können.",
-  "linktitle" :"IPR",
+  "linktitle" : "IPR",
   "menu" : {
     "docs" : {
       "parent" : "programming"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"SH - Bash-Shell-Skriptdatei",
   "description":"Erfahren Sie mehr über das SH-Dateiformat und APIs, die SH-Dateien erstellen und öffnen können.",
-  "linktitle" :"SCH",
+  "linktitle" : "SH",
   "menu" : {
     "docs" : {
       "parent" : "programming"

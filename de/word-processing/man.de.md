@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"MAN - Unix-Handbuch",
   "description":"Erfahren Sie mehr über das FODT-Dateiformat und APIs, die MAN-Dateien erstellen und öffnen können.",
-  "linktitle" :"MANN",
+  "linktitle" : "MAN",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

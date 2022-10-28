@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das Dateiformat Mobipocket Notes (MBP) und APIs, die MBP-Dateien erstellen und öffnen können.",
   "title" :"MBP - Mobipocket Notes-Datei",
-  "linktitle" :"MBP",
+  "linktitle" : "MBP",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

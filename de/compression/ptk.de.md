@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"PTK-Dateiformat",
   "description":"Erfahren Sie mehr über das PTK-Dateiformat und APIs, die PTK-Dateien erstellen und öffnen können.",
-  "linktitle" :"PTK",
+  "linktitle" : "PTK",
   "menu" : {
     "docs" : {
       "parent" : "compression"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"QLR - QGIS Layer-Definitionsdatei",
   "description":"Erfahren Sie mehr über das QLR-Dateiformat und APIs, die QLR-Dateien erstellen und öffnen können.",
-  "linktitle" :"QLR",
+  "linktitle" : "QLR",
   "menu" : {
     "docs" : {
       "parent" : "gis"

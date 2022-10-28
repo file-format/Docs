@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"IN-Dateiformat - Autoconf-Eingabedatei",
   "description":"Erfahren Sie mehr über das IN-Dateiformat und APIs, die IN-Dateien erstellen und öffnen können.",
-  "linktitle" :"IN",
+  "linktitle" : "IN",
   "menu" : {
     "docs" : {
       "parent" : "programming"

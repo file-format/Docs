@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"LZ4 - LZ4 komprimiertes Dateiformat",
   "description":"Erfahren Sie mehr über das LBR-Dateiformat und APIs, die LZ4-Dateien erstellen und öffnen können.",
-  "linktitle" :"LZ4",
+  "linktitle" : "LZ4",
   "menu" : {
     "docs" : {
       "parent" : "compression"

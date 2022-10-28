@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"DCX - Mehrseitige Zsoft-Paintbrush-Datei",
   "description":"Erfahren Sie mehr über das DCX-Dateiformat und APIs, die DCX-Dateien erstellen und öffnen können.",
-  "linktitle" :"DCX",
+  "linktitle" : "DCX",
   "menu" : {
     "docs" : {
       "parent" : "image"

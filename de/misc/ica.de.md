@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ICA - Citrix ICA-Datei",
   "description":"Erfahren Sie mehr über ICA-Dateierweiterungen und APIs, die ICA-Dateien erstellen und öffnen können.",
-  "linktitle" :"ICA",
+  "linktitle" : "ICA",
   "menu" : {
     "docs" : {
       "parent" : "misc"

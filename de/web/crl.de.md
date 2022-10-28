@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"CRL-Datei - Zertifikatssperrliste",
   "description":"Erfahren Sie mehr über das CRL-Dateiformat und APIs, die CRL-Dateien erstellen und öffnen können.",
-  "linktitle" :"CRL",
+  "linktitle" : "CRL",
   "menu" : {
     "docs" : {
       "parent" : "web"

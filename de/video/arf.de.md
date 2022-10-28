@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"ARF - Erweiterte WebEx-Aufzeichnungsdatei",
   "description":"Erfahren Sie mehr über das ARF-Dateiformat und APIs, die ARF-Dateien erstellen und öffnen können.",
-  "linktitle" :"ARF",
+  "linktitle" : "ARF",
   "menu" : {
     "docs" : {
       "parent" : "video"

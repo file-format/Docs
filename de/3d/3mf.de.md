@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"3MF",
   "description":"Erfahren Sie mehr über das 3MF-Dateiformat und APIs, die 3MF-Dateien öffnen und erstellen können.",
-  "linktitle" :"3MF",
+  "linktitle" : "3MF",
   "menu" : {
     "docs" : {
       "parent" : "3d"

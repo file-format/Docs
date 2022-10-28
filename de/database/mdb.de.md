@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das MDB-Dateiformat und APIs, die MDB-Dateien erstellen und öffnen können.",
   "title" :"MDB-Dateiformat - Eine Microsoft Access-Datenbankdatei",
-  "linktitle" :"MDB",
+  "linktitle" : "MDB",
   "menu" : {
     "docs" : {
       "parent" : "database"

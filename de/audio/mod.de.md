@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das MOD-Dateiformat und APIs, die MOD-Dateien erstellen, konvertieren und öffnen können.",
   "title" :"MOD - Musikmoduldatei",
-  "linktitle" :"MOD",
+  "linktitle" : "MOD",
   "menu" : {
     "docs" : {
       "parent" : "audio"

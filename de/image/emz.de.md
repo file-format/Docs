@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"EMZ-Dateiformat - Eine Windows-komprimierte erweiterte Metadatei",
   "description":"Erfahren Sie mehr über das EMZ-Dateiformat und APIs, die EMZ-Dateien erstellen und öffnen können.",
-  "linktitle" :"EMZ",
+  "linktitle" : "EMZ",
   "menu" : {
     "docs" : {
       "parent" : "image"

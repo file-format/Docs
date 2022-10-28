@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"CMAKE-Dateiformat",
   "description":"Erfahren Sie mehr über das CMAKE-Dateiformat und APIs, die CMAKE-Dateien erstellen und öffnen können.",
-  "linktitle" :"CMAKE",
+  "linktitle" : "CMAKE",
   "menu" : {
     "docs" : {
       "parent" : "programming"

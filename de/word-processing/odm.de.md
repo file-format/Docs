@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"ODM - OpenDocument Master-Dokumentdatei",
   "description":"Erfahren Sie mehr über das ODM-Dateiformat und APIs, die ODM-Dateien erstellen und öffnen können.",
-  "linktitle" :"ODM",
+  "linktitle" : "ODM",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

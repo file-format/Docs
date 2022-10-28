@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"DSC - Textbeschreibungsdatei",
   "description":"Erfahren Sie mehr über das DSC-Dateiformat und APIs, die DSC-Dateien erstellen und öffnen können.",
-  "linktitle" :"DSC",
+  "linktitle" : "DSC",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

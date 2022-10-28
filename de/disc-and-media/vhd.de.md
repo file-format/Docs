@@ -8,7 +8,7 @@
    "toc" : true,
   "description" :"Erfahren Sie mehr über das VHD-Dateiformat und APIs, die VHD-Dateien erstellen und öffnen können.",
   "title" :"VHD - Dateiformat der virtuellen Festplatte",
-  "linktitle" :"VHD",
+  "linktitle" : "VHD",
   "menu" : {
     "docs" : {
       "parent" : "disc-and-media"

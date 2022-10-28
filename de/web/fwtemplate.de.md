@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"FWTEMPLATE-Dateiformat - Freeway-Vorlagendatei",
   "description" :"Ihr Dateiformatleitfaden, um zu erfahren, was eine FWTEMPLATE-Datei und APIs sind, die eine FWTEMPLATE-Datei erstellen und öffnen können.",
-  "linktitle" :"FWVORLAGE",
+  "linktitle" : "FWTEMPLATE",
   "menu" : {
     "docs" : {
       "parent" : "web"

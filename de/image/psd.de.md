@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"PSD - Photoshop-Bilddateiformat",
   "description":"Erfahren Sie mehr über das PSD-Dateiformat und APIs, die PSD-Dateien erstellen und öffnen können.",
-  "linktitle" :"PSD",
+  "linktitle" : "PSD",
   "menu" : {
     "docs" : {
       "parent" : "image"

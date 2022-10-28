@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"DIV - DIVA-GIS-Projektdatei",
   "description":"Erfahren Sie mehr über das DIV-Dateiformat und APIs, die DIV-Dateien erstellen und öffnen können.",
-  "linktitle" :"DIV",
+  "linktitle" : "DIV",
   "menu" : {
     "docs" : {
       "parent" : "gis"

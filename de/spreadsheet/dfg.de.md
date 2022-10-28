@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Ihr Dateiformat-Leitfaden, um zu wissen, was eine DFG-Datei und APIs sind, die DFG-Dateien erstellen und öffnen können.",
   "title" :"DFG - Data Flask Grid File",
-  "linktitle" :"DFG",
+  "linktitle" : "DFG",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

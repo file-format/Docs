@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das REG-Dateiformat und APIs, die REG-Dateien erstellen und öffnen können.",
   "title" :"REG - Windows-Registrierungsdatei",
-  "linktitle" :"REG",
+  "linktitle" : "REG",
   "menu" : {
     "docs" : {
       "parent" : "executable"

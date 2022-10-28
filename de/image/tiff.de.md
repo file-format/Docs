@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"TIFF - Bilddateiformat",
   "description":"Erfahren Sie mehr über das TIFF-Dateiformat und APIs, die TIFF-Dateien erstellen und öffnen können.",
-  "linktitle" :"TIF",
+  "linktitle" : "TIFF",
   "menu" : {
     "docs" : {
       "parent" : "image"

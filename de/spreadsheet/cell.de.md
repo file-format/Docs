@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über CELL-Tabellenkalkulationsdateien und APIs, die CELL-Dateien erstellen und öffnen können.",
   "title" :"CELL - Thinkfree Office NEO Cell-Arbeitsmappendatei",
-  "linktitle" :"ZELLE",
+  "linktitle" : "CELL",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

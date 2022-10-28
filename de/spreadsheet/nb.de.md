@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie, was eine NB-Datei-API ist, die NB-Dateien erstellen und öffnen kann.",
   "title" :"NB - Mathematica Notebook-Dateiformat",
-  "linktitle" :"NB",
+  "linktitle" : "NB",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

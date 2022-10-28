@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"CUR - Cursor-Dateiformat",
   "description":"Erfahren Sie mehr über das CUR-Dateiformat und APIs, die CUR-Dateien erstellen und öffnen können.",
-  "linktitle" :"KUR",
+  "linktitle" : "CUR",
   "menu" : {
     "docs" : {
       "parent" : "image"

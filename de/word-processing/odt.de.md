@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ODT - OpenDocument-Textdatei",
   "description":"Erfahren Sie mehr über das ODT-Dateiformat und APIs, die ODT-Dateien erstellen und öffnen können.",
-  "linktitle" :"ODT",
+  "linktitle" : "ODT",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das ORB-Dateiformat für Orb-Reader und APIs, die ORB-Dateien erstellen und öffnen können.",
   "title" :"ORB - Original eBook Reader-Datei",
-  "linktitle" :"ORB",
+  "linktitle" : "ORB",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

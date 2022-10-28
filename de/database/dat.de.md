@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das DAT-Dateiformat und APIs, die DAT-Dateien erstellen und öffnen können.",
   "title" :"DAT - Allgemeines Datendateiformat",
-  "linktitle" :"DAT",
+  "linktitle" : "DAT",
   "menu" : {
     "docs" : {
       "parent" : "database"

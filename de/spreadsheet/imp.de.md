@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über Lotus IMP Spreadsheet-Dateien und APIs, die IMP-Dateien erstellen und öffnen können.",
   "title" :"IMP - Lotus Improv Spreadsheet-Dateiformat",
-  "linktitle" :"IMP",
+  "linktitle" : "IMP",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"SLN",
   "description":"Erfahren Sie mehr über das SLN-Dateiformat und APIs, die SLN-Dateien erstellen und öffnen können.",
-  "linktitle" :"SLN",
+  "linktitle" : "SLN",
   "menu" : {
     "docs" : {
       "parent" : "programming"

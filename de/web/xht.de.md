@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"XHT",
   "description":"Erfahren Sie mehr über das XHT-Dateiformat und APIs, die XHT-Dateien erstellen und öffnen können.",
-  "linktitle" :"XHT",
+  "linktitle" : "XHT",
   "menu" : {
     "docs" : {
       "parent" : "web"

@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"PCT-Dateiformat - Was ist eine PCT-Datei?",
   "description":"Erfahren Sie mehr über das PCT-Dateiformat und APIs, die PCT-Dateien erstellen und öffnen können.",
-  "linktitle" :"PCT",
+  "linktitle" : "PCT",
   "menu" : {
     "docs" : {
       "parent" : "image"

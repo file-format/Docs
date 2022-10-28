@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"DZ - Dzip-komprimiertes Dateiformat",
   "description":"Erfahren Sie mehr über das DZ-Dateiformat und APIs, die DZ-Dateien erstellen und öffnen können.",
-  "linktitle" :"DZ",
+  "linktitle" : "DZ",
   "menu" : {
     "docs" : {
       "parent" : "compression"

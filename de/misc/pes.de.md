@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"PES-Dateiformat - Brother PE-Stickformat",
   "description":"Erfahren Sie mehr über das PES-Dateiformat und APIs, die PES-Dateien erstellen und öffnen können.",
-  "linktitle" :"PES",
+  "linktitle" : "PES",
   "menu" : {
     "docs" : {
       "parent" : "misc"

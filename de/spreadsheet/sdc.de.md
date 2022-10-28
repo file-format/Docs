@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das SDC-Dateiformat und APIs, die SDC-Dateien erstellen und öffnen können.",
   "title" :"SDC - Apache OpenOffice Calc-Tabelle",
-  "linktitle" :"SDZ",
+  "linktitle" : "SDC",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das HTZ4-Dateiformat und APIs, die HTZ4-Dateien erstellen und öffnen können.",
   "title" :"HTZ4-Dateiformat",
-  "linktitle" :"HTZ4",
+  "linktitle" : "HTZ4",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

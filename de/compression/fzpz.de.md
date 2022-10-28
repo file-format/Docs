@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"FZPZ-Dateiformat - Fritzing-Teiledatei",
   "description":"Erfahren Sie, was eine FZPZ-Datei und APIs sind, die FZPZ-Dateien erstellen und öffnen können.",
-  "linktitle" :"FZPZ",
+  "linktitle" : "FZPZ",
   "menu" : {
     "docs" : {
       "parent" : "compression"

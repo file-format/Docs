@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das PHJ-Dateiformat und APIs, die PHJ-Dateien erstellen und öffnen können.",
   "title" :"PHJ - PhCNC-Projektdateiformat",
-  "linktitle" :"PHJ",
+  "linktitle" : "PHJ",
   "menu" : {
     "docs" : {
       "parent" : "cad"

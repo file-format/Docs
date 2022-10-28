@@ -8,7 +8,7 @@
   "title" :"DAV-Datei - CCTV-DVR-Video",
   "keywords" :[ "dav-Datei", "dav-Dateiformat", "was ist eine dav-Datei", "Datei", "dav-Beispiel", "dav-Dateierweiterung", "Erweiterung", "Format" ],
   "description":"Erfahren Sie mehr über das DAV-Dateiformat und APIs, die DAV-Dateien erstellen und öffnen können.",
-  "linktitle" :"DAV",
+  "linktitle" : "DAV",
   "menu" : {
     "docs" : {
       "parent" : "video"

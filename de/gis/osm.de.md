@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"OSM - OpenStreetMap-Dateiformat",
   "description":"Erfahren Sie mehr über das OSM-Dateiformat und APIs, die OSM-Dateien erstellen und öffnen können.",
-  "linktitle" :"OSM",
+  "linktitle" : "OSM",
   "menu" : {
     "docs" : {
       "parent" : "gis"

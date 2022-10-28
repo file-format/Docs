@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"GDB-Dateiformat - ESRI File Geodatabase-Datei",
   "description":"Erfahren Sie mehr über das GDB-Dateiformat und APIs, die GDB-Dateien erstellen und öffnen können.",
-  "linktitle" :"GDB",
+  "linktitle" : "GDB",
   "menu" : {
     "docs" : {
       "parent" : "database"

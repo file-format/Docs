@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"JHTML - Java-HTML-Datei",
   "description":"Erfahren Sie mehr über das JHTML-Dateiformat und APIs, die JHTML-Dateien erstellen und öffnen können.",
-  "linktitle" :"JHTML",
+  "linktitle" : "JHTML",
   "menu" : {
     "docs" : {
       "parent" : "web"

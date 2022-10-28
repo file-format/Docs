@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das DWF-Dateiformat und APIs, die DWF-Dateien erstellen und öffnen können.",
   "title" :"DWF-Dateiformat",
-  "linktitle" :"DWF",
+  "linktitle" : "DWF",
   "menu" : {
     "docs" : {
       "parent" : "cad"

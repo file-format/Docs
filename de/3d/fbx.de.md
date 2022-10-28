@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Ihr Dateiformat-Leitfaden, um zu wissen, was eine FBX-Datei und APIs sind, die sie erstellen und öffnen können.",
   "title" :"FBX - FilmBox 3D-Dateiformat",
-  "linktitle" :"FBX",
+  "linktitle" : "FBX",
   "menu" : {
     "docs" : {
       "parent" : "3d"

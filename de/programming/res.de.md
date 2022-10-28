@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"RES - C++ kompiliertes Ressourcenskript",
   "description":"Erfahren Sie mehr über das RES-Dateiformat mit RES-Beispiel und APIs, die RES-Dateien erstellen und öffnen können.",
-  "linktitle" :"RES",
+  "linktitle" : "RES",
   "menu" : {
     "docs" : {
       "parent" : "programming"

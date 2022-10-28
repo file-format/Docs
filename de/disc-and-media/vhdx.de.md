@@ -7,7 +7,7 @@
    "toc" : true,
   "description" :"Erfahren Sie mehr über das VHDX-Dateiformat und APIs, die VHDX-Dateien erstellen und öffnen können.",
   "title" :"VHDX-Dateiformat - Was ist eine VHDX-Datei?",
-  "linktitle" :"VHDX",
+  "linktitle" : "VHDX",
   "menu" : {
     "docs" : {
       "parent" : "disc-and-media"

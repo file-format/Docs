@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Ihr Dateiformat-Leitfaden, um zu wissen, was eine ODS-Datei und APIs sind, die sie erstellen und öffnen können.",
   "title" :"Was ist eine ODS-Datei?",
-  "linktitle" :"ODS",
+  "linktitle" : "ODS",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

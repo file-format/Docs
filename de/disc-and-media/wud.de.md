@@ -7,7 +7,7 @@
    "toc" : true,
   "description" :"Erfahren Sie mehr über das WUD-Dateiformat und APIs, die WUD-Dateien erstellen und öffnen können.",
   "title" :"WUD-Dateiformat - Wii U Disk-Image-Datei",
-  "linktitle" :"WUD",
+  "linktitle" : "WUD",
   "menu" : {
     "docs" : {
       "parent" : "disc-and-media"

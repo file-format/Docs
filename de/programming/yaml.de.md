@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :" Erfahren Sie mehr über das YAML-Dateiformat und APIs, die eine YAML-Datei erstellen und öffnen können.",
   "title" :"YAML-Dateiformat",
-  "linktitle" :"YAML",
+  "linktitle" : "YAML",
   "menu" : {
     "docs" : {
       "parent" : "programming"

@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"XFDF-Dateiformat - Was ist eine XFDF-Datei?",
   "description":"Erfahren Sie mehr über XFDF-Dateien und APIs, die XFDF-Dateien erstellen und öffnen können.",
-  "linktitle" :"XFDF",
+  "linktitle" : "XFDF",
   "menu" : {
     "docs" : {
       "parent" : "pdf"

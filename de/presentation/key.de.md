@@ -7,7 +7,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das KEY-Dateiformat und APIs, die KEY-Dateien erstellen und öffnen können.",
   "title" :"KEY-Dateiformat - Apple Keynote-Dateiformat",
-  "linktitle" :"SCHLÜSSEL",
+  "linktitle" : "KEY",
   "menu" : {
     "docs" : {
 "identifier":"presentation-key",

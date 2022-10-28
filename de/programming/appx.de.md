@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"APPX - Was ist eine APPX-Datei?",
   "description":"Erfahren Sie mehr über das APPX-Dateiformat und APIs, die APPX-Dateien erstellen und öffnen können.",
-  "linktitle" :"APPX",
+  "linktitle" : "APPX",
   "menu" : {
     "docs" : {
       "parent" : "programming"

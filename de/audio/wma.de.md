@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das WMA-Dateiformat und APIs, die WMA-Dateien erstellen und öffnen können.",
   "title" :"WMA - Windows Media-Audiodatei",
-  "linktitle" :"WMA",
+  "linktitle" : "WMA",
   "menu" : {
     "docs" : {
       "parent" : "audio"

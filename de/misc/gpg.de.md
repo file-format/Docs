@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"GPG-Datei - GNU Privacy Guard Public Keyring-Datei",
   "description":"Erfahren Sie mehr über GPG-Dateien und APIs, die GPG-Dateien erstellen und öffnen können.",
-  "linktitle" :"GPG",
+  "linktitle" : "GPG",
   "menu" : {
     "docs" : {
       "parent" : "misc"

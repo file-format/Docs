@@ -8,7 +8,7 @@
   "title" :"MKS-Dateiformat",
   "keywords" :[ "mks", "Matroska-Video", "mkv-Format", "Datei", "Format", "Video"],
   "description":"Erfahren Sie mehr über das MKS-Dateiformat für nur von Matroska erstellte Untertitel und APIs, die MKS-Dateien erstellen und öffnen können.",
-  "linktitle" :"MKS",
+  "linktitle" : "MKS",
   "menu" : {
     "docs" : {
       "parent" : "video"

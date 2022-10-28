@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das CMD-Dateiformat und APIs, die CMD-Dateien erstellen und öffnen können.",
   "title" :"CMD - Windows-Befehlsdateiformat",
-  "linktitle" :"CMD",
+  "linktitle" : "CMD",
   "menu" : {
     "docs" : {
       "parent" : "executable"

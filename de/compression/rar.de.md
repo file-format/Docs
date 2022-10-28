@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"RAR",
   "description":"Was ist eine RAR-Dateierweiterung und APIs, die RAR-Dateien erstellen und öffnen können.",
-  "linktitle" :"RAR",
+  "linktitle" : "RAR",
   "menu" : {
     "docs" : {
       "parent" : "compression"

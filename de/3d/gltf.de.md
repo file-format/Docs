@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über GLTF-Dateien und APIs, die GLTF-Dateien erstellen und öffnen können.",
   "title" :"GLTF - GL-Übertragungsdateiformat",
-  "linktitle" :"GLTF",
+  "linktitle" : "GLTF",
   "menu" : {
     "docs" : {
       "parent" : "3d"

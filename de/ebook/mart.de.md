@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das Dateiformat MartView eBook File (MartView eBook File) und APIs, die MART-Dateien erstellen und öffnen können.",
   "title" :"MART - MartView eBook-Datei",
-  "linktitle" :"Mart",
+  "linktitle" : "MART",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

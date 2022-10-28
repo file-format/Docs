@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"XAPK - Metapaket-Dateiformat",
   "description":"Erfahren Sie mehr über das XAPK-Dateiformat und APIs, die XAPK-Dateien erstellen und öffnen können.",
-  "linktitle" :"XAPK",
+  "linktitle" : "XAPK",
   "menu" : {
     "docs" : {
       "parent" : "compression"

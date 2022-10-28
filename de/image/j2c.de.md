@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"J2C",
   "description":"Erfahren Sie mehr über das J2C-Dateiformat und APIs, die J2C-Dateien erstellen und öffnen können.",
-  "linktitle" :"J2C",
+  "linktitle" : "J2C",
   "menu" : {
     "docs" : {
       "parent" : "image"

@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"BWP-Datei - Brotli-komprimiertes Dateiformat",
   "description":"Erfahren Sie mehr über das BWP-Dateiformat und APIs, die BWP-Dateien erstellen und öffnen können.",
-  "linktitle" :"BWP",
+  "linktitle" : "BWP",
   "menu" : {
     "docs" : {
       "parent" : "web"

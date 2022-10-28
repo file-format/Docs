@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das CGI-Dateiformat und APIs, die CGI-Dateien erstellen und öffnen können.",
   "title" :"CGI - Common Gateway Interface-Skriptdatei",
-  "linktitle" :"CGI",
+  "linktitle" : "CGI",
   "menu" : {
     "docs" : {
       "parent" : "executable"

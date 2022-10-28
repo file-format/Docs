@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das MOBI-Dateiformat und APIs, die MOBI-Dateien erstellen und öffnen können.",
   "title" :"MOBI-Dateiformat",
-  "linktitle" :"MOBI",
+  "linktitle" : "MOBI",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

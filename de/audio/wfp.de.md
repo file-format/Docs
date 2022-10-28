@@ -7,7 +7,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das WFP-Dateiformat und APIs, die WFP-Dateien erstellen und öffnen können.",
   "title" :"WFP-Dateiformat - WaveFront-Programmdatei",
-  "linktitle" :"WFP",
+  "linktitle" : "WFP",
   "menu" : {
     "docs" : {
       "parent" : "audio"

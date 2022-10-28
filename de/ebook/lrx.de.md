@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das LRX-Dateiformat und APIs, die LRX-Dateien erstellen und öffnen können.",
   "title" :"LRX - Librie Reader-Quelldateiformat",
-  "linktitle" :"LRX",
+  "linktitle" : "LRX",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

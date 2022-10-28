@@ -9,7 +9,7 @@
   "toc" : true,
   "title" :"ANE - Native Adobe AIR-Erweiterung",
   "description":"Erfahren Sie, was eine ANE-Datei und APIs sind, die ANE-Dateien erstellen und öffnen können.",
-  "linktitle" :"ANE",
+  "linktitle" : "ANE",
   "menu" : {
     "docs" : {
       "parent" : "programming"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"SHTML - HTML-Datei serverseitig einschließen",
   "description":"Erfahren Sie mehr über das SHTML-Dateiformat und APIs, die SHTML-Dateien erstellen und öffnen können.",
-  "linktitle" :"SHTML",
+  "linktitle" : "SHTML",
   "menu" : {
     "docs" : {
       "parent" : "web"

@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"DISCO-Datei - Dateiformat für DISCO-Erkennungsdokumente",
   "description":"Erfahren Sie, was eine DISCO-Datei und APIs sind, die DISCO-Dateien erstellen und öffnen können.",
-  "linktitle" :"DISKO",
+  "linktitle" : "DISCO",
   "menu" : {
     "docs" : {
       "parent" : "web"

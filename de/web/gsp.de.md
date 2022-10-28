@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"GSP-Datei - Dateiformat für IMail-Fehlermeldungen",
   "description":"Was ist eine GSP-Datei und APIs, die GSP-Dateien erstellen und öffnen können.",
-  "linktitle" :"APS",
+  "linktitle" : "GSP",
   "menu" : {
     "docs" : {
       "parent" : "web"

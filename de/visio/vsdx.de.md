@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"VSDX",
   "description":"Erfahren Sie mehr über das VSDX-Dateiformat und APIs, die VSDX-Dateien erstellen und öffnen können.",
-  "linktitle" :"VSDX",
+  "linktitle" : "VSDX",
   "menu" : {
     "docs" : {
 "identifier":"visio-vsdx",

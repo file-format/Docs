@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"CT-Dateiformat - Scitex-Dauertondatei",
   "description":"Erfahren Sie mehr über das CT-Dateiformat und APIs, die CT-Dateien erstellen und öffnen können.",
-  "linktitle" :"CT",
+  "linktitle" : "CT",
   "menu" : {
     "docs" : {
 "identifier":"image-ct",

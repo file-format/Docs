@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"MSG - Microsoft Outlook-E-Mail-Format",
   "description":"Erfahren Sie mehr über das MSG-Dateiformat und APIs, die MSG-Dateien erstellen und öffnen können.",
-  "linktitle" :"NACHRICHT",
+  "linktitle" : "MSG",
   "menu" : {
     "docs" : {
       "parent" : "email"

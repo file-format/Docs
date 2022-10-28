@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das EAL-Dateiformat und APIs, die EAL-Dateien erstellen und öffnen können.",
   "title" :"EAL - Kindle End Actions-Datei",
-  "linktitle" :"EAL",
+  "linktitle" : "EAL",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

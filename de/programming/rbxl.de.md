@@ -7,7 +7,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das RBXL-Dateiformat und APIs, die RBXL-Dateien erstellen und öffnen können.",
   "title" :"RBXL-Datei - Roblox-Standortdatei",
-  "linktitle" :"RBXL",
+  "linktitle" : "RBXL",
   "menu" : {
     "docs" : {
       "parent" : "programming"

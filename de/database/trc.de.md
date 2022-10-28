@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das TRC-Dateiformat und APIs, die TRC-Dateien erstellen und öffnen können.",
   "title" :"TRC - SQL Server-Ablaufverfolgungsdatei",
-  "linktitle" :"TRC",
+  "linktitle" : "TRC",
   "menu" : {
     "docs" : {
       "parent" : "database"

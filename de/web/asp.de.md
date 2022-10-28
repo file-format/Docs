@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ASP - Active Server Pages-Dateiformat",
   "description" :"Erfahren Sie, was eine ASP-Datei und APIs sind, die sie erstellen und öffnen können.",
-  "linktitle" :"ASP",
+  "linktitle" : "ASP",
   "menu" : {
     "docs" : {
       "parent" : "web"

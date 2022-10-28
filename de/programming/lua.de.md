@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"LUA - Programmiersprachendatei",
   "description":"Erfahren Sie mehr über das LUA-Dateiformat und APIs, die LUA-Dateien erstellen und öffnen können.",
-  "linktitle" :"LUA",
+  "linktitle" : "LUA",
   "menu" : {
     "docs" : {
       "parent" : "programming"

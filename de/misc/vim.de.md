@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"VIM-Dateiformat - Vim-Einstellungsdatei",
   "description":"Erfahren Sie mehr über VIM-Dateien und APIs, die VIM-Dateien erstellen und öffnen können.",
-  "linktitle" :"VIM",
+  "linktitle" : "VIM",
   "menu" : {
     "docs" : {
 "identifier":"misc-vim",

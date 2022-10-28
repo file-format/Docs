@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"WPS - Microsoft Works-Textverarbeitungsdokument",
   "description":"Erfahren Sie mehr über das WPS-Dateiformat und APIs, die WPS-Dateien erstellen und öffnen können.",
-  "linktitle" :"WPS",
+  "linktitle" : "WPS",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

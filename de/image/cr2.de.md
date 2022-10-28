@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"CR2-Dateiformat - Canon Raw 2-Bilddatei",
   "description":"Erfahren Sie mehr über das CR2-Dateiformat und APIs, die CR2-Dateien erstellen und öffnen können.",
-  "linktitle" :"CR2",
+  "linktitle" : "CR2",
   "menu" : {
     "docs" : {
 "identifier":"image-cr2",

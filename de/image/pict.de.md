@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"PICT-Dateiformat - Was ist eine PICT-Datei?",
   "description":"Erfahren Sie mehr über das PICT-Dateiformat und APIs, die PICT-Dateien erstellen und öffnen können.",
-  "linktitle" :"BILD",
+  "linktitle" : "PICT",
   "menu" : {
     "docs" : {
       "parent" : "image"

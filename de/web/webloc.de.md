@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"WEBLOC - macOS-Website-Standortdatei",
   "description":"Erfahren Sie, was eine WEBLOC-Datei und APIs sind, die WEBLOC-Dateien erstellen und öffnen können.",
-  "linktitle" :"WEBLOC",
+  "linktitle" : "WEBLOC",
   "menu" : {
     "docs" : {
       "parent" : "web"

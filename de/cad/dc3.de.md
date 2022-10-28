@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das DC3-Dateiformat und APIs, die DC3-Dateien erstellen und öffnen können.",
   "title" :"DC3-Dateiformat",
-  "linktitle" :"DC3",
+  "linktitle" : "DC3",
   "menu" : {
     "docs" : {
       "parent" : "cad"

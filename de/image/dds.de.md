@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"DDS-Dateiformat – DirectDraw-Oberflächenbilddatei",
   "description":"Erfahren Sie mehr über das DDS-Dateiformat und APIs, die DDS-Dateien erstellen und öffnen können.",
-  "linktitle" :"DDS",
+  "linktitle" : "DDS",
   "menu" : {
     "docs" : {
       "parent" : "image"

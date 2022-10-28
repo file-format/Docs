@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"MFX-Datei - Maxis-Schriftart-Dateiformat",
   "description":"Erfahren Sie mehr über das MFX-Dateiformat und APIs zum Erstellen und Öffnen von MFX-Dateien.",
-  "linktitle" :"MFX",
+  "linktitle" : "MFX",
   "menu" : {
     "docs" : {
       "parent" : "font"

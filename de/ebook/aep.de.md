@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das AEP-Dateiformat von Adobe und APIs, die AEP-Dateien erstellen und öffnen können.",
   "title" :"AEP - Aktives E-Book-Projekt",
-  "linktitle" :"AEP",
+  "linktitle" : "AEP",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

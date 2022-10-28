@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"R - Programmiersprachendatei",
   "description":"Erfahren Sie mehr über das R-Dateiformat und APIs, die R-Dateien erstellen und öffnen können.",
-  "linktitle" :"R",
+  "linktitle" : "R",
   "menu" : {
     "docs" : {
       "parent" : "programming"

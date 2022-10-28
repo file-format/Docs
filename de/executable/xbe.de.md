@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das XBE-Dateiformat und APIs, die XBE-Dateien erstellen und öffnen können.",
   "title" :"XBE - iOS-Anwendungspaketdatei",
-  "linktitle" :"XBE",
+  "linktitle" : "XBE",
   "menu" : {
     "docs" : {
       "parent" : "executable"

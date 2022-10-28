@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"PAS - Quelldatei der Delphi-Unit",
   "description":"Erfahren Sie mehr über das PAS-Dateiformat mit PAS-Beispiel und APIs, die PAS-Dateien erstellen und öffnen können.",
-  "linktitle" :"PAS",
+  "linktitle" : "PAS",
   "menu" : {
     "docs" : {
       "parent" : "programming"

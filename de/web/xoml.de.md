@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"XOML - Windows-Workflow-Dateiformat",
   "description":"Erfahren Sie mehr über das XOML-Dateiformat und APIs, die XOML-Dateien erstellen und öffnen können.",
-  "linktitle" :"XOML",
+  "linktitle" : "XOML",
   "menu" : {
     "docs" : {
       "parent" : "web"

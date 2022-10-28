@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"DOTHTML-Datei - Dateiformat für Microsoft Word-HTML-Dokumentvorlagen",
   "description" :"Erfahren Sie mehr über das DOTHTML-Dateiformat und APIs zum Erstellen und Öffnen von DOTHTML-Dateien.",
-  "linktitle" :"DOTHTML",
+  "linktitle" : "DOTHTML",
   "menu" : {
     "docs" : {
       "parent" : "web"

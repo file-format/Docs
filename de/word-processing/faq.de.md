@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"FAQ - Datei mit häufig gestellten Fragen",
   "description":"Erfahren Sie mehr über das FAQ-Dateiformat und APIs, die FAQ-Dateien erstellen und öffnen können.",
-  "linktitle" :"FAQ",
+  "linktitle" : "FAQ",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

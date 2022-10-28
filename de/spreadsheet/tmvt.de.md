@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das TMVT-Dateiformat und APIs, die TMVT-Dateien erstellen und öffnen können.",
   "title" :"TMVT - TimeMap LexisNexis-Tabellenvorlagendatei",
-  "linktitle" :"TMVT",
+  "linktitle" : "TMVT",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

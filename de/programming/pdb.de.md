@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"PDB-Dateiformat - Eine Programmdatenbankdatei",
   "description":"Erfahren Sie mehr über das PDB-Dateiformat und APIs, die PDB-Dateien erstellen und öffnen können.",
-  "linktitle" :"PDB",
+  "linktitle" : "PDB",
   "menu" : {
     "docs" : {
       "parent" : "programming"

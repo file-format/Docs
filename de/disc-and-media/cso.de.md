@@ -8,7 +8,7 @@
    "toc" : true,
   "description" :"Erfahren Sie mehr über das CSO-Dateiformat und APIs, die CSO-Dateien erstellen und öffnen können.",
   "title" :"CSO - Komprimiertes ISO-Festplatten-Image",
-  "linktitle" :"CSO",
+  "linktitle" : "CSO",
   "menu" : {
     "docs" : {
       "parent" : "disc-and-media"

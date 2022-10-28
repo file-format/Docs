@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"VSD - Visio-Zeichnungsdateiformat",
   "description":"Erfahren Sie mehr über das VSD-Dateiformat und APIs, die VSD-Dateien erstellen und öffnen können.",
-  "linktitle" :"VSD",
+  "linktitle" : "VSD",
   "menu" : {
     "docs" : {
 "identifier":"visio-vsd",

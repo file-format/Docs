@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"WMF - Microsoft Windows Metafile-Format",
   "description":"Erfahren Sie mehr über das WMF-Dateiformat und APIs, die WMF-Dateien erstellen und öffnen können.",
-  "linktitle" :"WMF",
+  "linktitle" : "WMF",
   "menu" : {
     "docs" : {
       "parent" : "image"

@@ -7,7 +7,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das CON-Dateiformat und APIs, die CON-Dateien erstellen und öffnen können.",
   "title" :"CON-Datei - Battlefield 1942-Konfigurationsdateiformat",
-  "linktitle" :"CON",
+  "linktitle" : "CON",
   "menu" : {
     "docs" : {
 "identifier": "game-con",

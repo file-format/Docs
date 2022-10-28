@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das DACPAC-Dateiformat und APIs, die DACPAC-Dateien erstellen und öffnen können.",
   "title" :"DACPAC - Datenschicht-Anwendungspaket",
-  "linktitle" :"DACPAC",
+  "linktitle" : "DACPAC",
   "menu" : {
     "docs" : {
       "parent" : "database"

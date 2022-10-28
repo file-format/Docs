@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das TR-Dateiformat und APIs, die TR-Dateien erstellen und öffnen können.",
   "title" :"TR-Dateiformat - TomeRaider eBook-Datei",
-  "linktitle" :"TR",
+  "linktitle" : "TR",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

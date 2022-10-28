@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"EX-Dateiformat - Euphoria-Quellcodedatei",
   "description":"Erfahren Sie mehr über das EX-Dateiformat und APIs, die EX-Dateien erstellen und öffnen können.",
-  "linktitle" :"EX",
+  "linktitle" : "EX",
   "menu" : {
     "docs" : {
       "parent" : "programming"

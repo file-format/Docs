@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"MBOX - E-Mail-Postfachdatei",
   "description":"Erfahren Sie mehr über das MBOX-Dateiformat und APIs, die MBOX-Dateien erstellen und öffnen können.",
-  "linktitle" :"MBOX",
+  "linktitle" : "MBOX",
   "menu" : {
     "docs" : {
       "parent" : "email"

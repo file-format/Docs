@@ -7,7 +7,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das ITW-Dateiformat und APIs, die ITW-Dateien erstellen und öffnen können.",
   "title" :"ITW-Dateiformat - InTouch mit Datenbankdatei",
-  "linktitle" :"ITW",
+  "linktitle" : "ITW",
   "menu" : {
     "docs" : {
       "parent" : "database"

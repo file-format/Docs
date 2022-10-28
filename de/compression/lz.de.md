@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"LZ - komprimiertes Lzip-Dateiformat",
   "description":"Erfahren Sie mehr über das LZ-Dateiformat und APIs, die LZ-Dateien erstellen und öffnen können.",
-  "linktitle" :"LZ",
+  "linktitle" : "LZ",
   "menu" : {
     "docs" : {
       "parent" : "compression"

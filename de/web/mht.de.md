@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"MHT - MIME-HTML-Dateiformat",
   "description" :"Erfahren Sie mehr über das MHT-Dateiformat und APIs zum Erstellen und Öffnen von MHT-Dateien.",
-  "linktitle" :"MHT",
+  "linktitle" : "MHT",
   "menu" : {
     "docs" : {
       "parent" : "web"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"CFG - Dateiformat",
   "description":"Erfahren Sie mehr über das CFG-Dateiformat und APIs, die CFG-Dateien erstellen und öffnen können.",
-  "linktitle" :"CFG",
+  "linktitle" : "CFG",
   "menu" : {
     "docs" : {
       "parent" : "system"

@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"PAGES-Dateiformat - Was ist eine Apple PAGES-Datei?",
   "description":"Erfahren Sie, was eine APPAGESK-Datei und APIs sind, die PAGES-Dateien erstellen und öffnen können.",
-  "linktitle" :"SEITEN",
+  "linktitle" : "PAGES",
   "menu" : {
     "docs" : {
       "identifier" : "compression-pages",

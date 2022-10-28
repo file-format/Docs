@@ -7,7 +7,7 @@
   "toc" : true,
   "description" :"Ihr Dateiformat-Leitfaden, um zu wissen, was eine _XLS-Datei und APIs sind, die _XLS-Dateien erstellen und öffnen können.",
   "title" :"_XLS-Dateiformat - Was ist eine _XLS-Datei?",
-  "linktitle" :"_XLS",
+  "linktitle" : "_XLS",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

@@ -8,7 +8,7 @@
    "toc" : true,
   "description" :"Erfahren Sie, was ein .ova-Dateiformat und APIs sind, die ova-Dateien erstellen und öffnen können.",
   "title" :"OVA-Dateiformat - Datei der virtuellen Appliance öffnen",
-  "linktitle" :"EIZELLEN",
+  "linktitle" : "OVA",
   "menu" : {
     "docs" : {
       "parent" : "disc-and-media"

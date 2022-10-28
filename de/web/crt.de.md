@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"CRT - Dateiformat für Sicherheitszertifikate",
   "description":"Erfahren Sie mehr über das CRT-Dateiformat und APIs, die CRT-Dateien erstellen und öffnen können.",
-  "linktitle" :"Röhre",
+  "linktitle" : "CRT",
   "menu" : {
     "docs" : {
       "parent" : "web"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das DWT-Dateiformat und APIs, die DWT-Dateien erstellen und öffnen können.",
   "title" :"DWT-Dateiformat",
-  "linktitle" :"DWT",
+  "linktitle" : "DWT",
   "menu" : {
     "docs" : {
       "parent" : "cad"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das EDN-Dateiformat und APIs, die EDN-Dateien erstellen und öffnen können.",
   "title" :"EDN-Dateiformat",
-  "linktitle" :"EDN",
+  "linktitle" : "EDN",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

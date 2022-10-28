@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"A5W - Alpha-Five-Webseitendatei",
   "description" :"Erfahren Sie, was eine A5W-Datei und APIs sind, die A5W-Dateien erstellen und öffnen können.",
-  "linktitle" :"A5W",
+  "linktitle" : "A5W",
   "menu" : {
     "docs" : {
       "parent" : "web"

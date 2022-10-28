@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"BZ2 - Komprimiertes Dateiformat",
   "description":"Erfahren Sie, was eine BZ2-Datei und APIs sind, die BZ2-Dateien erstellen und öffnen können.",
-  "linktitle" :"BZ2",
+  "linktitle" : "BZ2",
   "menu" : {
     "docs" : {
       "parent" : "compression"

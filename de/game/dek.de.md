@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das DEK-Dateiformat und APIs, die DEK-Dateien erstellen und öffnen können.",
   "title" :"DEK - Magic: The Gathering Deck-Datei",
-  "linktitle" :"DEK",
+  "linktitle" : "DEK",
   "menu" : {
     "docs" : {
       "parent" : "game"

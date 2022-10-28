@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ASHX-Dateierweiterung - Eine ASP.NET-Web-Handler-Datei",
   "description" :"Erfahren Sie, was eine ASHX-Datei und APIs sind, die ASHX-Dateien erstellen und öffnen können.",
-  "linktitle" :"ASHX",
+  "linktitle" : "ASHX",
   "menu" : {
     "docs" : {
       "parent" : "web"

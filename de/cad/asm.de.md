@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das ASM-Dateiformat und APIs, die ASM-Dateien erstellen und öffnen können.",
   "title" :"ASM-Datei - Solid Edge-Baugruppendatei",
-  "linktitle" :"ASM",
+  "linktitle" : "ASM",
   "menu" : {
     "docs" : {
 "identifier":"cad-asm",

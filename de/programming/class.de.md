@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"Klasse - Java-Klassendateiformat",
   "description":"Erfahren Sie mehr über Klassendateiformate und APIs, die Klassendateien erstellen und öffnen können.",
-  "linktitle" :"Klasse",
+  "linktitle" : "CLASS",
   "menu" : {
     "docs" : {
       "parent" : "programming"

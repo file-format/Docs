@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"QGS - QGIS-Projektdateiformat",
   "description":"Erfahren Sie mehr über das QGS-Dateiformat und APIs, die QGS-Dateien erstellen und öffnen können.",
-  "linktitle" :"QGS",
+  "linktitle" : "QGS",
   "menu" : {
     "docs" : {
       "parent" : "gis"

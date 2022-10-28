@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das CBC-Dateiformat und APIs, die CBC-Dateien erstellen und öffnen können.",
   "title" :"CBC - Dateiformat der Comic-Sammlung",
-  "linktitle" :"CBC",
+  "linktitle" : "CBC",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das HTZ5-Dateiformat und APIs, die HTZ5-Dateien erstellen und öffnen können.",
   "title" :"HTZ5-Dateiformat",
-  "linktitle" :"HTZ5",
+  "linktitle" : "HTZ5",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

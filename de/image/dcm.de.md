@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"DCM-Dateiformat - Digitale medizinische Informationsdatei",
   "description":"Erfahren Sie mehr über das DCM-Dateiformat und APIs, die DCM-Dateien erstellen und öffnen können.",
-  "linktitle" :"DCM",
+  "linktitle" : "DCM",
   "menu" : {
     "docs" : {
       "parent" : "image"

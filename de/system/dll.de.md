@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"DLL - Dynamic Link Library",
   "description":"Erfahren Sie mehr über das DLL-Dateiformat und APIs, die DLL-Dateien erstellen und öffnen können.",
-  "linktitle" :"DLL",
+  "linktitle" : "DLL",
   "menu" : {
     "docs" : {
       "parent" : "system"

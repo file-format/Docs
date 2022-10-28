@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"LNK - Link-Dateiformat",
   "description":"Erfahren Sie mehr über das LNK-Dateiformat und APIs, die LNK-Dateien erstellen und öffnen können.",
-  "linktitle" :"LNK",
+  "linktitle" : "LNK",
   "menu" : {
     "docs" : {
       "parent" : "system"

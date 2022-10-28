@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"CD - Visual Studio-Klassendiagrammdatei",
   "description":"Erfahren Sie mehr über CD-Dateiformate und APIs, die CD-Dateien erstellen und öffnen können.",
-  "linktitle" :"CD",
+  "linktitle" : "CD",
   "menu" : {
     "docs" : {
       "parent" : "programming"

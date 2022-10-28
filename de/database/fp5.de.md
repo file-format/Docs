@@ -7,7 +7,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das FP5-Dateiformat und APIs, die FP5-Dateien erstellen und öffnen können.",
   "title" :"FP5-Dateiformat – FileMaker Pro 5-Datenbankdatei",
-  "linktitle" :"FP5",
+  "linktitle" : "FP5",
   "menu" : {
     "docs" : {
       "parent" : "database"

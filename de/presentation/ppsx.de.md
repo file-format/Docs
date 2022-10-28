@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"PPSX - PowerPoint-Diashow-Datei",
   "description":"Erfahren Sie mehr über das PPSX-Dateiformat und APIs, die PPSX-Dateien erstellen und öffnen können.",
-  "linktitle" :"PPSX",
+  "linktitle" : "PPSX",
   "menu" : {
     "docs" : {
       "parent" : "presentation"

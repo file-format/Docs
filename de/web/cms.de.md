@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"CMS-Datei - Dateiformat des Content-Management-Systems",
   "description" :"Erfahren Sie, was eine CMS-Datei und APIs sind, die CMS-Dateien erstellen und öffnen können.",
-  "linktitle" :"CMS",
+  "linktitle" : "CMS",
   "menu" : {
     "docs" : {
 "identifier":"web-cms",

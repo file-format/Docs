@@ -8,7 +8,7 @@
    "toc" : true,
   "description" :"Erfahren Sie mehr über das WIM-Dateiformat und APIs, die WIM-Dateien erstellen und öffnen können.",
   "title" :"WIM - Windows-Imaging-Formatdatei",
-  "linktitle" :"WIM",
+  "linktitle" : "WIM",
   "menu" : {
     "docs" : {
       "parent" : "disc-and-media"

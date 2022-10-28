@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"DML - DynaScript-HTML-Datei",
   "description":"Erfahren Sie mehr über das DML-Dateiformat und APIs, die DML-Dateien erstellen und öffnen können.",
-  "linktitle" :"DML",
+  "linktitle" : "DML",
   "menu" : {
     "docs" : {
       "parent" : "web"

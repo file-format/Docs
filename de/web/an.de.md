@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"AN - Adobe Edge Animate-Projektdatei ",
   "description" :"Erfahren Sie, was eine AN-Datei und APIs sind, die AN-Dateien erstellen und öffnen können.",
-  "linktitle" :"EIN",
+  "linktitle" : "AN",
   "menu" : {
     "docs" : {
       "parent" : "web"

@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"ERR-Dateiformat - AutoCAD-Fehlerprotokolldatei",
   "description":"Erfahren Sie mehr über ERR-Dateien und APIs, die ERR-Dateien erstellen und öffnen können.",
-  "linktitle" :"IRREN",
+  "linktitle" : "ERR",
   "menu" : {
     "docs" : {
       "parent" : "misc"

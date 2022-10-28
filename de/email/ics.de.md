@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"ICS - iCalendar-Dateiformat",
   "description":"Erfahren Sie mehr über das ICS-Dateiformat und APIs, die ICS-Dateien erstellen und öffnen können.",
-  "linktitle" :"ICS",
+  "linktitle" : "ICS",
   "menu" : {
     "docs" : {
       "parent" : "email"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das VOC-Dateiformat und APIs, die VOC-Dateien erstellen und öffnen können.",
   "title" :"VOC - Audiodateiformat",
-  "linktitle" :"VOC",
+  "linktitle" : "VOC",
   "menu" : {
     "docs" : {
       "parent" : "audio"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das AZW-Dateiformat und APIs, die AZW-Dateien erstellen und öffnen können.",
   "title" :"AZW-Dateiformat",
-  "linktitle" :"AZW",
+  "linktitle" : "AZW",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

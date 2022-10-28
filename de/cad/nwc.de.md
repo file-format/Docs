@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das NWC-Dateiformat und APIs, die NWC-Dateien erstellen und öffnen können.",
   "title" :"NWC-Dateiformat",
-  "linktitle" :"NWC",
+  "linktitle" : "NWC",
   "menu" : {
     "docs" : {
       "parent" : "cad"

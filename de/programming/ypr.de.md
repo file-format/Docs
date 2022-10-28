@@ -7,7 +7,7 @@
   "toc" : true,
   "description" :" Erfahren Sie mehr über das YPR-Dateiformat und APIs, die eine YPR-Datei erstellen und öffnen können.",
   "title" :"YPR - BYOB-Projektdateiformat",
-  "linktitle" :"YPR",
+  "linktitle" : "YPR",
   "menu" : {
     "docs" : {
       "parent" : "programming"

@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"LOCK-Dateiformat - Was ist eine Lock-Datei?",
   "description":"Erfahren Sie mehr über das LOCK-Dateiformat und sein .",
-  "linktitle" :"SPERREN",
+  "linktitle" : "LOCK",
   "menu" : {
     "docs" : {
       "parent" : "misc"

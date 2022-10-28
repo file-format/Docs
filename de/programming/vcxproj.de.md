@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"VCXPROJ",
   "description":"Erfahren Sie mehr über das VCXPROJ-Dateiformat und APIs, die VCXPROJ-Dateien erstellen und öffnen können.",
-  "linktitle" :"VCXPROJ",
+  "linktitle" : "VCXPROJ",
   "menu" : {
     "docs" : {
       "parent" : "programming"

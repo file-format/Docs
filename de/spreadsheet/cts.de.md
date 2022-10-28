@@ -7,7 +7,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das CTS-Dateiformat und APIs, die CTS-Dateien erstellen und öffnen können.",
   "title" :"CTS-Dateiformat - TreeSheets Hierarchische Tabellenkalkulationsdatei",
-  "linktitle" :"CTS",
+  "linktitle" : "CTS",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

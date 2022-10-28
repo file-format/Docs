@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"DEM - Digitale Höhenmodelldatei",
   "description":"Erfahren Sie mehr über das DEM-Dateiformat und APIs, die DEM-Dateien erstellen und öffnen können.",
-  "linktitle" :"DEM",
+  "linktitle" : "DEM",
   "menu" : {
     "docs" : {
       "parent" : "gis"

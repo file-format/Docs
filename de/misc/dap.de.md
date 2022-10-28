@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"DAP-Datei - Accelerator Plus Download-In-Progress-Datei herunterladen",
   "description":"Erfahren Sie mehr über das DAP-Dateiformat und APIs, die DAP-Dateien erstellen und öffnen können.",
-  "linktitle" :"DAP",
+  "linktitle" : "DAP",
   "menu" : {
     "docs" : {
 "identifier":"misc-dap",

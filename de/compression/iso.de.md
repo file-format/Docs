@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"ISO - Disk-Image-Dateiformat",
   "description":"Was ist eine ISO-Datei und APIs, die ISO-Dateien erstellen und öffnen können.",
-  "linktitle" :"ISO",
+  "linktitle" : "ISO",
   "menu" : {
     "docs" : {
 "identifier": "compression-iso",

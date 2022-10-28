@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das AVA-Dateiformat und APIs, die AVA-Dateien erstellen und öffnen können.",
   "title" :"AVA - AvaaBook eBook-Datei",
-  "linktitle" :"AVA",
+  "linktitle" : "AVA",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"WSDL-Dateiformat - Beschreibungssprachendatei für Webdienste",
   "description":"Erfahren Sie, was eine WSDL-Datei und APIs sind, die WSDL-Dateien erstellen und öffnen können.",
-  "linktitle" :"WSDL",
+  "linktitle" : "WSDL",
   "menu" : {
     "docs" : {
       "parent" : "web"

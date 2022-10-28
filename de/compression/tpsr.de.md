@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"TPSR-Dateiformat - TeamViewer-Pilotsitzungsberichtsdatei",
   "description":"Erfahren Sie mehr über das TPSR-Dateiformat und APIs, die TPSR-Dateien erstellen und öffnen können.",
-  "linktitle" :"TPSR",
+  "linktitle" : "TPSR",
   "menu" : {
     "docs" : {
       "parent" : "compression"

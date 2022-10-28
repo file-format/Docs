@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"TTC - TrueType-Sammlungsdateiformat",
   "description":"Eine TrueType Collection (TTC)-Datei kombiniert mehrere Schriftarten in einer einzigen Datei. Sowohl Apple als auch Microsoft verwendeten TTF auf Mac- und Windows-Betriebssystemen.",
-  "linktitle" :"TTC",
+  "linktitle" : "TTC",
   "menu" : {
     "docs" : {
       "parent" : "font"

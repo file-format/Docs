@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"SHP - ESRI Shapefile",
   "description":"Erfahren Sie mehr über das SHP-Dateiformat und APIs, die SHP-Dateien erstellen und öffnen können.",
-  "linktitle" :"SHP",
+  "linktitle" : "SHP",
   "menu" : {
     "docs" : {
       "parent" : "gis"

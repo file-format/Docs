@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das TR3-Dateiformat und APIs, die TR3-Dateien erstellen und öffnen können.",
   "title" :"TR3 - TomeRaider 3 eBook-Datei",
-  "linktitle" :"TR3",
+  "linktitle" : "TR3",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

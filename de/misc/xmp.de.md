@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"XMP-Datei - Automation Markup Language-Datei",
   "description":"Erfahren Sie mehr über XMP-Dateien und APIs, die XMP-Dateien erstellen und öffnen können.",
-  "linktitle" :"XMP",
+  "linktitle" : "XMP",
   "menu" : {
     "docs" : {
 "identifier":"misc-xmp",

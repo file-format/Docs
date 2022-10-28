@@ -8,7 +8,7 @@
  "toc" : true,
   "description" :"Erfahren Sie mehr über das Toast-Dateiformat und APIs, die Toast-Dateien erstellen und öffnen können.",
   "title" :"Toast - Toast-Disc-Image-Datei",
-  "linktitle" :"Toast",
+  "linktitle" : "TOAST",
   "menu" : {
     "docs" : {
       "parent" : "disc-and-media"

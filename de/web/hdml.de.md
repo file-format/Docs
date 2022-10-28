@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"Handheld Device Markup Language File",
   "description":"Erfahren Sie mehr über das HDML-Dateiformat und APIs, die HDML-Dateien erstellen und öffnen können.",
-  "linktitle" :"HDML",
+  "linktitle" : "HDML",
   "menu" : {
     "docs" : {
       "parent" : "web"

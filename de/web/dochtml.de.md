@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"DOCHTML-Dateiformat - Microsoft Word HTML-Dokumentdatei",
   "description" :"Erfahren Sie mehr über das DOCHTML-Dateiformat und APIs zum Erstellen und Öffnen von DOCHTML-Dateien.",
-  "linktitle" :"DOCHTML",
+  "linktitle" : "DOCHTML",
   "menu" : {
     "docs" : {
       "parent" : "web"

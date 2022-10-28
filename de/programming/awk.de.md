@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"AWK-Dateiformat - AWK-Skriptdatei",
   "description":"Erfahren Sie mehr über das AWK-Dateiformat und APIs, die AWK-Dateien erstellen und öffnen können.",
-  "linktitle" :"AWK",
+  "linktitle" : "AWK",
   "menu" : {
     "docs" : {
 "Bezeichner": "Programmierung-awk",

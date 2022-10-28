@@ -7,7 +7,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das CT-Dateiformat und APIs, die CT-Dateien erstellen und öffnen können.",
   "title" :"CT - Cheat Engine Cheat-Tabellendatei",
-  "linktitle" :"CT",
+  "linktitle" : "CT",
   "menu" : {
     "docs" : {
 "identifier": "game-ct",

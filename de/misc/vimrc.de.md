@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"VIMRC-Dateiformat - Vim-Einstellungsdatei",
   "description":"Erfahren Sie mehr über VIMRC-Dateien und APIs, die VIMRC-Dateien erstellen und öffnen können.",
-  "linktitle" :"VIMRC",
+  "linktitle" : "VIMRC",
   "menu" : {
     "docs" : {
 "identifier": "misc-vimrc",

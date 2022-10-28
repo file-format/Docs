@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"EOT - Dateiformat für TrueType-Schriftarten",
   "description":"Erfahren Sie mehr über das EOT-Dateiformat und APIs zum Erstellen und Öffnen von EOT-Dateien.",
-  "linktitle" :"EOT",
+  "linktitle" : "EOT",
   "menu" : {
     "docs" : {
       "parent" : "font"

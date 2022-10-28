@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"POSTLEITZAHL",
   "description":"Was ist eine ZIPX-Datei und APIs, die ZIPX-Dateien erstellen und öffnen können.",
-  "linktitle" :"ZIPX",
+  "linktitle" : "ZIPX",
   "menu" : {
     "docs" : {
       "parent" : "compression"

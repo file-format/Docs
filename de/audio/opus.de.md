@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das OPUS-Dateiformat und APIs, die OPUS-Dateien erstellen und öffnen können.",
   "title" :"OPUS",
-  "linktitle" :"OPUS",
+  "linktitle" : "OPUS",
   "menu" : {
     "docs" : {
       "parent" : "audio"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ASD - Microsoft Word AutoSave-Datei",
   "description":"Erfahren Sie mehr über das ASD-Dateiformat und APIs, die ASD-Dateien erstellen und öffnen können.",
-  "linktitle" :"ASD",
+  "linktitle" : "ASD",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

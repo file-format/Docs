@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das KFX-Dateiformat und APIs, die KFX-Dateien erstellen und öffnen können.",
   "title" :"Was ist eine KFX-Datei?",
-  "linktitle" :"KFX",
+  "linktitle" : "KFX",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

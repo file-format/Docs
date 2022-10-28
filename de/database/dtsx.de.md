@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das DTSX-Dateiformat und APIs, die DTSX-Dateien erstellen und öffnen können.",
   "title" :"DTSX-Dateiformat - SQL Server DTS-Einstellungsdatei",
-  "linktitle" :"DTSX",
+  "linktitle" : "DTSX",
   "menu" : {
     "docs" : {
       "parent" : "database"

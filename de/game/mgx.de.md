@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das MGX-Dateiformat von Age of Empires 2 Expansion Replay und APIs, die MGX-Dateien erstellen und öffnen können.",
   "title" :"MGX - Wiederholung der Erweiterung Age of Empires 2",
-  "linktitle" :"MGX",
+  "linktitle" : "MGX",
   "menu" : {
     "docs" : {
       "parent" : "game"

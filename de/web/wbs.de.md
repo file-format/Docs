@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"PSP-Datei - WebBlender-Projektdatei",
   "description":"Erfahren Sie, was eine WBS-Datei und APIs sind, die WBS-Dateien erstellen und öffnen können.",
-  "linktitle" :"PSP",
+  "linktitle" : "WBS",
   "menu" : {
     "docs" : {
       "parent" : "web"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"CRDOWNLOAD - Teilweise heruntergeladene Chrome-Datei",
   "description":"Erfahren Sie mehr über das .crdownload-Dateiformat und APIs, die CRDOWNLOAD-Dateien erstellen und öffnen können.",
-  "linktitle" :"CRDOWNLOAD",
+  "linktitle" : "CRDOWNLOAD",
   "menu" : {
     "docs" : {
       "parent" : "web"

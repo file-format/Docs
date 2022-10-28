@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"DCR - Digitalkamera-RAW-Bilddatei",
   "description":"Erfahren Sie mehr über das DCR-Dateiformat und APIs, die DCR-Dateien erstellen und öffnen können.",
-  "linktitle" :"DCR",
+  "linktitle" : "DCR",
   "menu" : {
     "docs" : {
 "identifier":"image-dcr",

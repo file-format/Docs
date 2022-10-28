@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"BOK-Datei - Dynamisches Webseiten-Dateiformat von ProStores",
   "description":"Erfahren Sie mehr über das BOK-Dateiformat und APIs, die BOK-Dateien erstellen und öffnen können.",
-  "linktitle" :"BOK",
+  "linktitle" : "BOK",
   "menu" : {
     "docs" : {
       "parent" : "web"

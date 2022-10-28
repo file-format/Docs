@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"MINT-Dateiformat - Linux Mint-Installationsdatei",
   "description":"Erfahren Sie mehr über das MINT-Dateiformat und APIs, die MINT-Dateien erstellen und öffnen können.",
-  "linktitle" :"MINZE",
+  "linktitle" : "MINT",
   "menu" : {
     "docs" : {
 "identifier": "compression-mint",

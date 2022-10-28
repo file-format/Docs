@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"IXBRL - Dateiformat für Geschäfts- und Finanzberichte",
   "description":"Erfahren Sie mehr über das IXBRL-Dateiformat und APIs, die IXBRL-Dateien erstellen und öffnen können.",
-  "linktitle" :"IXBRL",
+  "linktitle" : "IXBRL",
   "menu" : {
     "docs" : {
 "identifier":"finance-ixbrl",

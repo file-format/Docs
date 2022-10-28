@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"XML-Dateiformat",
   "description":"Erfahren Sie mehr über das XML-Dateiformat und APIs, die XML-Dateien erstellen und öffnen können.",
-  "linktitle" :"XML",
+  "linktitle" : "XML",
   "menu" : {
     "docs" : {
       "parent" : "web"

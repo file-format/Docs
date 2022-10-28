@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"Datei erstellen - Xcode-Makefile-Skriptdatei",
   "description":"Erfahren Sie mehr über das XCode-MakeFile-Format und APIs, die MakeFile-Dateien erstellen und öffnen können.",
-  "linktitle" :"MACHEN",
+  "linktitle" : "MAKE",
   "menu" : {
     "docs" : {
       "parent" : "programming"

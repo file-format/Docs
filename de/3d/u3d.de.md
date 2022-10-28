@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"U3D - Universelles 3D-Dateiformat",
   "description":"Erfahren Sie mehr über das U3D-Dateiformat und APIs, die U3D-Dateien öffnen und erstellen können.",
-  "linktitle" :"U3D",
+  "linktitle" : "U3D",
   "menu" : {
     "docs" : {
       "parent" : "3d"

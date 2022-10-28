@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"HEIF - Hocheffizientes Bilddateiformat",
   "description":"Erfahren Sie mehr über das HEIF-Dateiformat und APIs, die HEIF-Dateien erstellen und öffnen können.",
-  "linktitle" :"HEIF",
+  "linktitle" : "HEIF",
   "menu" : {
     "docs" : {
       "parent" : "image"

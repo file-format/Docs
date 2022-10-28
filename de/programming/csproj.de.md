@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"CSPROJ",
   "description":"Erfahren Sie mehr über das CSPROJ-Dateiformat und APIs, die CSPROJ-Dateien erstellen und öffnen können.",
-  "linktitle" :"CSPROJ",
+  "linktitle" : "CSPROJ",
   "menu" : {
     "docs" : {
       "parent" : "programming"

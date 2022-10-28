@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das PSS-Dateiformat und APIs, die PSS-Dateien erstellen und öffnen können.",
   "title" :"PSS-Dateiformat - AutoCAD-Plotstempel-Einstellungsdatei",
-  "linktitle" :"PSS",
+  "linktitle" : "PSS",
   "menu" : {
     "docs" : {
 "identifier": "cad-pss",

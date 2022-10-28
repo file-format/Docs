@@ -7,7 +7,7 @@ draft: false
 toc: true
 description: "Erfahren Sie mehr über das ALAC-Dateiformat und APIs, die ALAC-Dateien erstellen und öffnen können."
 title: "ALAC - Apple Lossless Audio Codec-Dateiformat"
-linktitle: "ALAK"
+linktitle: "ALAC"
 menu:
   docs:
     parent: "audio"

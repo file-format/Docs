@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das Mass Effect 3 SFAR-Dateiformat und APIs, die SFAR-Dateien erstellen und öffnen können.",
   "title" :"SFAR - Mass Effect 3 DLC-Datei",
-  "linktitle" :"SFAR",
+  "linktitle" : "SFAR",
   "menu" : {
     "docs" : {
       "parent" : "game"

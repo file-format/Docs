@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das Amazon BKK-Dateiformat und die APIs, die BKK-Dateien erstellen und öffnen können.",
   "title" :"BKK - BookBuddi eBook-Datei",
-  "linktitle" :"BKK",
+  "linktitle" : "BKK",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"INI - Initialisierungsdateiformat",
   "description":"Erfahren Sie mehr über das INI-Dateiformat und APIs, die INI-Dateien erstellen und öffnen können.",
-  "linktitle" :"INI",
+  "linktitle" : "INI",
   "menu" : {
     "docs" : {
       "parent" : "system"

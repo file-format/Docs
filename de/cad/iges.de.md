@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das IGES-Dateiformat und APIs, die IGES-Dateien erstellen und öffnen können.",
   "title" :"IGES-Dateiformat",
-  "linktitle" :"IGES",
+  "linktitle" : "IGES",
   "menu" : {
     "docs" : {
       "parent" : "cad"

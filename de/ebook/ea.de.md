@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das EA-Dateiformat und APIs, die EA-Dateien erstellen und öffnen können.",
   "title" :"EA - Kindle End Actions-Datei",
-  "linktitle" :"EA",
+  "linktitle" : "EA",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

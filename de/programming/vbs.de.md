@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"VBS - Visual Basic-Skriptdatei",
   "description":"Erfahren Sie mehr über das VBS-Dateiformat und APIs, die VBS-Dateien erstellen und öffnen können.",
-  "linktitle" :"VBS",
+  "linktitle" : "VBS",
   "menu" : {
     "docs" : {
       "parent" : "programming"

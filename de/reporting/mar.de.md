@@ -8,7 +8,7 @@
   "title" :"MAR - Microsoft Access-Berichtsdatei",
   "keywords" :[ "mar", "mar-Datei", "mar-Dateiformat", "was ist ein Zugriffsbericht", "Zugriffsbericht", "Microsoft-Zugriffsbericht"],
   "description":"Erfahren Sie mehr über das Dateiformat Access Report (MAR), das von der Microsoft Access-Software verwendet wird, um eine Verknüpfung oder einen Link zum Microsoft Access-Bericht zu erstellen.",
-  "linktitle" :"BESCHÄDIGEN",
+  "linktitle" : "MAR",
   "menu" : {
     "docs" : {
 "identifier": "reporting-mar",

@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das NVA-Dateiformat und APIs, die NVA-Dateien erstellen und öffnen können.",
   "title" :"NVA - NVA-Reader-Datei",
-  "linktitle" :"NWA",
+  "linktitle" : "NVA",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

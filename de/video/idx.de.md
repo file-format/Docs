@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"IDX - Hocheffizienter Videocodec",
   "description":"Erfahren Sie mehr über das IDX-Dateiformat und APIs, die IDX-Dateien erstellen und öffnen können.",
-  "linktitle" :"IDX",
+  "linktitle" : "IDX",
   "menu" : {
     "docs" : {
       "parent" : "video"

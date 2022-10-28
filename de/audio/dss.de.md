@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das DSS-Dateiformat und APIs, die DSS-Dateien erstellen, konvertieren und öffnen können.",
   "title" :"DSS - Digitale Sprachstandarddatei",
-  "linktitle" :"DSS",
+  "linktitle" : "DSS",
   "menu" : {
     "docs" : {
       "parent" : "audio"

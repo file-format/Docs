@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das 4DD-Dateiformat und APIs, die 4DD-Dateien erstellen und öffnen können.",
   "title" :"4DD - Datendatei der 4. Dimension",
-  "linktitle" :"4DD",
+  "linktitle" : "4DD",
   "menu" : {
     "docs" : {
       "parent" : "database"

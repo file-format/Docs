@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"BMP - Bilddateiformat",
   "description":"Erfahren Sie mehr über das BMP-Dateiformat und APIs, die BMP-Dateien erstellen und öffnen können.",
-  "linktitle" :"BMP",
+  "linktitle" : "BMP",
   "menu" : {
     "docs" : {
       "parent" : "image"

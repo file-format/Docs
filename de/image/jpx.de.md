@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"JPX - Bilddateiformat",
   "description":"Erfahren Sie mehr über das JPX-Dateiformat und APIs, die JPX-Dateien erstellen und öffnen können.",
-  "linktitle" :"JPX",
+  "linktitle" : "JPX",
   "menu" : {
     "docs" : {
       "parent" : "image"

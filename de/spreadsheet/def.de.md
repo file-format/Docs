@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie, was eine DEF-Datei und APIs sind, die DEF-Dateien erstellen und öffnen können.",
   "title" :"DEF - SmartWare II-Tabellenkalkulationsdatendatei",
-  "linktitle" :"DEF",
+  "linktitle" : "DEF",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

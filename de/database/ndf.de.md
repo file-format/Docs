@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das MDF-Dateiformat und APIs, die NDF-Dateien erstellen und öffnen können.",
   "title" :"NDF-Dateiformat - SQL Server-Master-Datenbankdatei",
-  "linktitle" :"NDF",
+  "linktitle" : "NDF",
   "menu" : {
     "docs" : {
       "parent" : "database"

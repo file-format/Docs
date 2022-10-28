@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"DISCOMAP-Datei - DISCO Discovery-Ausgabedateiformat",
   "description":"Erfahren Sie, was eine DICOMAP-Datei und APIs sind, die DICOMAP-Dateien erstellen und öffnen können.",
-  "linktitle" :"DISCOMAP",
+  "linktitle" : "DISCOMAP",
   "menu" : {
     "docs" : {
       "parent" : "web"

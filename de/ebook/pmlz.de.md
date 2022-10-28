@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das PMLZ-Dateiformat, die Palm Markup Language und APIs, die PMLZ-Dateien erstellen und öffnen können.",
   "title" :"PMLZ - Gezippte Palm Markup Language-Datei",
-  "linktitle" :"PMLZ",
+  "linktitle" : "PMLZ",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

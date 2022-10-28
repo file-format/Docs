@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"SSP-Dateiformat - Screensaver Producer-Projektdatei",
   "description":"Erfahren Sie mehr über SSP-Dateien und APIs, die SSP-Dateien erstellen und öffnen können.",
-  "linktitle" :"SSP",
+  "linktitle" : "SSP",
   "menu" : {
     "docs" : {
 "identifier":"misc-ssp",

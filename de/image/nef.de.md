@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"NEF-Dateiformat - RAW-Bild im elektronischen Nikon-Format",
   "description":"Erfahren Sie mehr über das NEF-Dateiformat und APIs, die NEF-Dateien erstellen und öffnen können.",
-  "linktitle" :"NEF",
+  "linktitle" : "NEF",
   "menu" : {
     "docs" : {
       "parent" : "image"

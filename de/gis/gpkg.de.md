@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"GPKG - GeoPackage-Formatdateien",
   "description":"Erfahren Sie mehr über das GPKG-Dateiformat und APIs, die GPKG-Dateien erstellen und öffnen können.",
-  "linktitle" :"GPKG",
+  "linktitle" : "GPKG",
   "menu" : {
     "docs" : {
       "parent" : "gis"

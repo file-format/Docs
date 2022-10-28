@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"XPS - Seitenlayout-Dateiformat",
   "description":"Erfahren Sie mehr über das XPS-Dateiformat und APIs, die XPS-Dateien erstellen und öffnen können.",
-  "linktitle" :"XPS",
+  "linktitle" : "XPS",
   "menu" : {
     "docs" : {
       "parent" : "page-description-language"

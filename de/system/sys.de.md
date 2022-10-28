@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"SYS - Systemdateiformat",
   "description":"Erfahren Sie mehr über das SYS-Dateiformat und APIs, die SYS-Dateien erstellen und öffnen können.",
-  "linktitle" :"SYS",
+  "linktitle" : "SYS",
   "menu" : {
     "docs" : {
       "parent" : "system"

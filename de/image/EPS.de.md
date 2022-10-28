@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"",
   "description":"Erfahren Sie mehr über das EPS-Dateiformat und APIs, die EPS-Dateien erstellen und öffnen können.",
-  "linktitle" :"",
+  "linktitle" : "EPS",
   "menu" : {
     "docs" : {
       "parent" : "image"

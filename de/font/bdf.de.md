@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"BDF - Glyphen-Bitmap-Verteilungsformat",
   "description":"Erfahren Sie mehr über das BDF-Dateiformat und APIs, die BDF-Dateien erstellen und öffnen können.",
-  "linktitle" :"BDF",
+  "linktitle" : "BDF",
   "menu" : {
     "docs" : {
       "parent" : "font"

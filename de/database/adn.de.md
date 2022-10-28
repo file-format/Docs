@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das ADN-Dateiformat und APIs, die ADN-Dateien erstellen und öffnen können.",
   "title" :"ADN - Alpha-Five-Datenbankdatei",
-  "linktitle" :"ADN",
+  "linktitle" : "ADN",
   "menu" : {
     "docs" : {
       "parent" : "database"

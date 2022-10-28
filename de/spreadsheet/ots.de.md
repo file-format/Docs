@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das OTS-Dateiformat und APIs, die OTS-Dateien erstellen und öffnen können.",
   "title" :"OTS - Dateiformat für OpenDocument-Tabellenkalkulationsvorlagen",
-  "linktitle" :"OTS",
+  "linktitle" : "OTS",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

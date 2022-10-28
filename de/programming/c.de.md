@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"Programmierdatei für C - C-Sprache",
   "description":"Erfahren Sie mehr über das C-Dateiformat und APIs, die C-Dateien erstellen und öffnen können.",
-  "linktitle" :"C",
+  "linktitle" : "C",
   "menu" : {
     "docs" : {
       "parent" : "programming"

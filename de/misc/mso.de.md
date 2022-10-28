@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"MSO - Microsoft Office-Makroreferenzdatei",
   "description":"Erfahren Sie mehr über MSO-Dateien und APIs, die MSO-Dateien erstellen und öffnen können.",
-  "linktitle" :"MSO",
+  "linktitle" : "MSO",
   "menu" : {
     "docs" : {
       "parent" : "misc"

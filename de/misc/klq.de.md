@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"KLQ - Kaspersky-Quarantänedatei",
   "description":"Erfahren Sie mehr über das KLQ-Dateiformat und APIs, die KLQ-Dateien erstellen und öffnen können.",
-  "linktitle" :"KLQ",
+  "linktitle" : "KLQ",
   "menu" : {
     "docs" : {
       "parent" : "misc"

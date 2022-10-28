@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das CF2-Dateiformat und APIs, die CF2-Dateien erstellen und öffnen können.",
   "title" :"CF2-Dateiformat",
-  "linktitle" :"CF2",
+  "linktitle" : "CF2",
   "menu" : {
     "docs" : {
       "parent" : "cad"

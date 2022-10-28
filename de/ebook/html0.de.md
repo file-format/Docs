@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das HTML0-Dateiformat und APIs, die HTML0-Dateien erstellen und öffnen können.",
   "title" :"HTML0-Dateiformat",
-  "linktitle" :"HTML0",
+  "linktitle" : "HTML0",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

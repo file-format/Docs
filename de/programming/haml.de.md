@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"HAML-Dateiformat - Haml-Quellcodedatei",
   "description":"Erfahren Sie mehr über das HAML-Dateiformat und APIs, die HAML-Dateien erstellen und öffnen können.",
-  "linktitle" :"HAML",
+  "linktitle" : "HAML",
   "menu" : {
     "docs" : {
       "parent" : "programming"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"JSPF - JSP-Fragmentdateiformat",
   "description":"Erfahren Sie mehr über das JSPF-Dateiformat und APIs, die JSPF-Dateien erstellen und öffnen können.",
-  "linktitle" :"JSPF",
+  "linktitle" : "JSPF",
   "menu" : {
     "docs" : {
       "parent" : "programming"

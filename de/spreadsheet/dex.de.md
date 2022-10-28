@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über DEX-Tabellendateien und APIs, die DEX-Dateien erstellen und öffnen können.",
   "title" :"DEX - Microsoft Excel-Tabellendatei",
-  "linktitle" :"DEX",
+  "linktitle" : "DEX",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

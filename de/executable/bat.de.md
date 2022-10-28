@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das BAT-Dateiformat und APIs, die BAT-Dateien erstellen und öffnen können.",
   "title" :"BAT - Stapeldateiformat",
-  "linktitle" :"SCHLÄGER",
+  "linktitle" : "BAT",
   "menu" : {
     "docs" : {
       "parent" : "executable"

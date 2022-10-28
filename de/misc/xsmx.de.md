@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"XSMX-Datei - Dateiformat der SofTest-Prüfung",
   "description":"Erfahren Sie mehr über XSMX-Dateien und APIs, die XSMX-Dateien erstellen und öffnen können.",
-  "linktitle" :"XSMX",
+  "linktitle" : "XSMX",
   "menu" : {
     "docs" : {
 "identifier": "misc-xsmx",

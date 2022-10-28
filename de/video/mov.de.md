@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"MOV-Datei - Apple QuickTime-Filmdateiformat",
   "description":"Erfahren Sie mehr über das MOV-Dateiformat und APIs, die MOV-Dateien erstellen und öffnen können.",
-  "linktitle" :"MOV",
+  "linktitle" : "MOV",
   "menu" : {
     "docs" : {
       "parent" : "video"

@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"VPK-Datei - PlayStation Vita-Anwendungspaket-Dateiformat",
   "description":"Erfahren Sie mehr über das VPK-Dateiformat und APIs, die VPK-Dateien erstellen und öffnen können.",
-  "linktitle" :"VPK",
+  "linktitle" : "VPK",
   "menu" : {
     "docs" : {
       "parent" : "compression"

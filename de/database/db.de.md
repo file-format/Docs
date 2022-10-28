@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das DB-Dateiformat und APIs, die DB-Dateien erstellen und öffnen können.",
   "title" :"DB-Datei - Generische Datenbankdatei",
-  "linktitle" :"DB",
+  "linktitle" : "DB",
   "menu" : {
     "docs" : {
       "parent" : "database"

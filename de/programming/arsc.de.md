@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ARSC – Android-Paket-Ressourcentabellendatei",
   "description":"Erfahren Sie mehr über das ARSC-Dateiformat und APIs, die ARSC-Dateien erstellen und öffnen können.",
-  "linktitle" :"ARSC",
+  "linktitle" : "ARSC",
   "menu" : {
     "docs" : {
       "parent" : "programming"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das BAK-Dateiformat und APIs, die BAK-Dateien erstellen und öffnen können.",
   "title" :"BAK-Dateiformat - Datenbanksicherungsdatei",
-  "linktitle" :"BAK",
+  "linktitle" : "BAK",
   "menu" : {
     "docs" : {
       "parent" : "database"

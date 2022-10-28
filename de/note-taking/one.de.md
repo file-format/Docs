@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"ONE - Microsoft OneNote-Dateiformat",
   "description":"Erfahren Sie mehr über EIN Dateiformat und APIs, mit denen EINE Datei erstellt und geöffnet werden kann.",
-  "linktitle" :"EINES",
+  "linktitle" : "ONE",
   "menu" : {
     "docs" : {
       "parent" : "note-taking"

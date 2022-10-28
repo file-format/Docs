@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das MMF-Dateiformat und APIs, die MMF-Dateien erstellen und öffnen können.",
   "title" :"MMF - Mobiles Musikdateiformat",
-  "linktitle" :"MMF",
+  "linktitle" : "MMF",
   "menu" : {
     "docs" : {
       "parent" : "audio"

@@ -8,7 +8,7 @@
  "toc" : true,	
   "description" :"Erfahren Sie mehr über das BIN-Dateiformat und APIs, die BIN-Dateien erstellen und öffnen können.",
   "title" :"BIN - Binäre Disc-Image-Datei",
-  "linktitle" :"BEHÄLTER",
+  "linktitle" : "BIN",
   "menu" : {
     "docs" : {
       "parent" : "disc-and-media"

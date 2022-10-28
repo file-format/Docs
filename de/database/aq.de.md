@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das AQ-Dateiformat und APIs, die AQ-Dateien erstellen und öffnen können.",
   "title" :"AQ - Ancestral Quest Database File",
-  "linktitle" :"AQ",
+  "linktitle" : "AQ",
   "menu" : {
     "docs" : {
       "parent" : "database"

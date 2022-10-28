@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"URL - Internetverknüpfungsdatei",
   "description":"Erfahren Sie, was eine URL-Datei und APIs sind, die URL-Dateien erstellen und öffnen können.",
-  "linktitle" :"URL",
+  "linktitle" : "URL",
   "menu" : {
     "docs" : {
       "parent" : "web"

@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"DO-Datei - Java-Servlet-Dateiformat",
   "description":"Erfahren Sie mehr über das DO-Dateiformat und APIs, die DO-Dateien erstellen und öffnen können.",
-  "linktitle" :"TUN",
+  "linktitle" : "DO",
   "menu" : {
     "docs" : {
 "identifier":"web-do",

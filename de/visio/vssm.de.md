@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"VSSM - Makrofähiges Dateiformat von Microsoft Visio",
   "description":"Erfahren Sie mehr über das VSSM-Dateiformat und APIs, die VSSM-Dateien erstellen und öffnen können.",
-  "linktitle" :"VSSM",
+  "linktitle" : "VSSM",
   "menu" : {
     "docs" : {
 "identifier":"visio-vssm",

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ZL - komprimiertes ZLIP-Dateiformat",
   "description":"Erfahren Sie mehr über das ZL-Dateiformat und APIs, die ZL-Dateien erstellen und öffnen können.",
-  "linktitle" :"ZL",
+  "linktitle" : "ZL",
   "menu" : {
     "docs" : {
       "parent" : "compression"

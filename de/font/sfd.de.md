@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"SFD - Spline-Schriftdatenbankformat",
   "description":"Erfahren Sie mehr über das SFD-Dateiformat und APIs, die SFD-Dateien erstellen und öffnen können.",
-  "linktitle" :"SFD",
+  "linktitle" : "SFD",
   "menu" : {
     "docs" : {
       "parent" : "font"

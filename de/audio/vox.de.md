@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das VOX-Dateiformat und APIs, die VOX-Dateien erstellen und öffnen können.",
   "title" :"VOX - Audiodateiformat",
-  "linktitle" :"VOX",
+  "linktitle" : "VOX",
   "menu" : {
     "docs" : {
       "parent" : "audio"

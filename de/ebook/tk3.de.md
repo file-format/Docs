@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das TK3-Dateiformat und APIs, die TK3-Dateien erstellen und öffnen können.",
   "title" :"TK3-Dateiformat",
-  "linktitle" :"TK3",
+  "linktitle" : "TK3",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

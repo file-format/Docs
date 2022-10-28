@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"CSL-Dateiformat - Corel-Symbolbibliotheksdatei",
   "description":"Erfahren Sie mehr über das CSL-Dateiformat und APIs, die CSL-Dateien erstellen und öffnen können.",
-  "linktitle" :"CSL",
+  "linktitle" : "CSL",
   "menu" : {
     "docs" : {
 "identifier":"image-csl",

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"VP6 - TrueMotion-Videodatei",
   "description":"Erfahren Sie mehr über das VP6-Dateiformat und APIs, die VP6-Dateien erstellen und öffnen können.",
-  "linktitle" :"VP6",
+  "linktitle" : "VP6",
   "menu" : {
     "docs" : {
       "parent" : "video"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"OTF - Dateiformat für TrueType-Schriftarten",
   "description":"Erfahren Sie mehr über das OTF-Dateiformat und APIs, die OTF-Dateien erstellen und öffnen können.",
-  "linktitle" :"OTF",
+  "linktitle" : "OTF",
   "menu" : {
     "docs" : {
       "parent" : "font"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"HH - C++ Header-Dateiformat",
   "description":"Erfahren Sie mehr über das HH-Dateiformat und APIs, die HH-Dateien erstellen und öffnen können.",
-  "linktitle" :"HH",
+  "linktitle" : "HH",
   "menu" : {
     "docs" : {
       "parent" : "programming"

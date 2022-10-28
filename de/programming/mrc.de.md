@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"MRC - mIRC-Skriptsprachendatei",
   "description":"Erfahren Sie mehr über das MRC-Dateiformat und APIs, die MRC-Dateien erstellen und öffnen können.",
-  "linktitle" :"MRK",
+  "linktitle" : "MRC",
   "menu" : {
     "docs" : {
       "parent" : "programming"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"USD - Universelles Szenenbeschreibungsformat",
   "description":"Erfahren Sie mehr über das USD-Dateiformat und APIs, die USD-Dateien öffnen und erstellen können.",
-  "linktitle" :"USD",
+  "linktitle" : "USD",
   "menu" : {
     "docs" : {
       "parent" : "3d"

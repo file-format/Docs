@@ -8,7 +8,7 @@
   "title" :"AMV-Dateiformat",
   "keywords" :[ "AMV", "Datei", "Erweiterung", "Format", "Videoformat", "Was ist eine AMV-Datei", "AMV-Dateiformat", "AMV-Video"],
   "description":"Erfahren Sie mehr über das AMV-Dateiformat und die APIs, die das erstellen und zeigen können, wie die AMV-Datei geöffnet wird.",
-  "linktitle" :"AMV",
+  "linktitle" : "AMV",
   "menu" : {
     "docs" : {
       "parent" : "video"

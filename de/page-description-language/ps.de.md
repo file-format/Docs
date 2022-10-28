@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"PS-Dateiformat",
   "description":"Erfahren Sie mehr über das PS-Dateiformat und APIs, die PS-Dateien erstellen und öffnen können.",
-  "linktitle" :"PS",
+  "linktitle" : "PS",
   "menu" : {
     "docs" : {
       "parent" : "page-description-language"

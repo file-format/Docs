@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"OTG - Dateiformat für OpenDocument-Zeichnungsvorlagen",
   "description":"Erfahren Sie mehr über das OTG-Dateiformat und APIs, die OTG-Dateien erstellen und öffnen können.",
-  "linktitle" :"OTG",
+  "linktitle" : "OTG",
   "menu" : {
     "docs" : {
       "parent" : "image"

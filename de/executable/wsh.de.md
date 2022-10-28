@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das WSH-Dateiformat und APIs, die WSH-Dateien erstellen und öffnen können.",
   "title" :"WSH - Windows-Skriptdatei",
-  "linktitle" :"WSH",
+  "linktitle" : "WSH",
   "menu" : {
     "docs" : {
       "parent" : "executable"

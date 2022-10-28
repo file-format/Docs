@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das PLY-Dateiformat und APIs, die PLY-Dateien erstellen und öffnen können.",
   "title" :"PLY - Polygon 3D-Dateiformat",
-  "linktitle" :"PLY",
+  "linktitle" : "PLY",
   "menu" : {
     "docs" : {
       "parent" : "3d"

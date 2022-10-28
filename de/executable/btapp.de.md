@@ -7,7 +7,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das BTAPP-Dateiformat und APIs, die BTAPP-Dateien erstellen und öffnen können.",
   "title" :"BTAPP-Dateiformat - uTorrent-App",
-  "linktitle" :"BTAPP",
+  "linktitle" : "BTAPP",
   "menu" : {
     "docs" : {
       "parent" : "executable"

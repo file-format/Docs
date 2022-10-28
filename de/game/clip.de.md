@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das Grand Theft Auto 5 Clip-Dateiformat und APIs, die CLIP-Dateien erstellen und öffnen können.",
   "title" :"CLIP - Grand Theft Auto 5 Clip-Datei",
-  "linktitle" :"CLIP",
+  "linktitle" : "CLIP",
   "menu" : {
     "docs" : {
 "identifier": "game-clip",

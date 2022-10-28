@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ASV-Datei - Adobe Photoshop Selective Color-Datei",
   "description":"Erfahren Sie mehr über das ASV-Dateiformat und APIs, die ASV-Dateien erstellen und öffnen können.",
-  "linktitle" :"ASV",
+  "linktitle" : "ASV",
   "menu" : {
     "docs" : {
       "parent" : "system"

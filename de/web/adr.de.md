@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ADR - Dateiformat für Opera-Lesezeichen",
   "description" :"Erfahren Sie, was eine ADR-Datei und APIs sind, die ADR-Dateien erstellen und öffnen können.",
-  "linktitle" :"ADR",
+  "linktitle" : "ADR",
   "menu" : {
     "docs" : {
       "parent" : "web"

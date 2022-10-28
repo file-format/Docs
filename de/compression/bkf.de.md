@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"BKF-Dateiformat",
   "description":"Erfahren Sie mehr über das BKF-Dateiformat und APIs, die BKF-Dateien erstellen und öffnen können.",
-  "linktitle" :"BKF",
+  "linktitle" : "BKF",
   "menu" : {
     "docs" : {
       "parent" : "compression"

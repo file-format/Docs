@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das CDB-Dateiformat und APIs, die CDB-Dateien erstellen und öffnen können.",
   "title" :"CDB - Konstante Datenbankdatei",
-  "linktitle" :"CDB",
+  "linktitle" : "CDB",
   "menu" : {
     "docs" : {
       "parent" : "database"

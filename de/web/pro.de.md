@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"PRO-Dateiformat - Was ist eine PRO-Datei?",
   "description":"Erfahren Sie mehr über das Dateiformat Adobe Proto Design File PRO und APIs, die PRO-Dateien erstellen und öffnen können.",
-  "linktitle" :"PROFI",
+  "linktitle" : "PRO",
   "menu" : {
     "docs" : {
       "parent" : "web"

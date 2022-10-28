@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"GIF - Bilddateiformat",
   "description":"Erfahren Sie mehr über das GIF-Dateiformat und APIs, die GIF-Dateien erstellen und öffnen können.",
-  "linktitle" :"GIF",
+  "linktitle" : "GIF",
   "menu" : {
     "docs" : {
       "parent" : "image"

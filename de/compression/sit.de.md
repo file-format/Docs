@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"SIT-Dateiformat - StuffIt-Archivdatei",
   "description":"Erfahren Sie mehr über das SIT-Dateiformat und APIs, die SIT-Dateien erstellen und öffnen können.",
-  "linktitle" :"MACH SITZ",
+  "linktitle" : "SIT",
   "menu" : {
     "docs" : {
 "Identifier":"compression-sit",

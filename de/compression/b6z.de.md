@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"B6Z - B6ZIP-Archivdateiformat",
   "description":"Erfahren Sie mehr über das B6Z-Dateiformat und APIs, die B6Z-Dateien erstellen und öffnen können.",
-  "linktitle" :"B6Z",
+  "linktitle" : "B6Z",
   "menu" : {
     "docs" : {
       "parent" : "compression"

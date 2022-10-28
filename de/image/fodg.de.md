@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"FODG - OpenDocument-Zeichnungsdateiformat",
   "description":"Erfahren Sie mehr über das FODG-Dateiformat und APIs, die FODG-Dateien erstellen und öffnen können.",
-  "linktitle" :"FODG",
+  "linktitle" : "FODG",
   "menu" : {
     "docs" : {
       "parent" : "image"

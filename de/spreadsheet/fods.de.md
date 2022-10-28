@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das FODS-Dateiformat und APIs, die FODS-Dateien erstellen und öffnen können.",
   "title" :"FODS - OpenDocument XML-Tabellendateiformat",
-  "linktitle" :"FODS",
+  "linktitle" : "FODS",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

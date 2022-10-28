@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"PFB - Druckerfont-Binärdateiformat",
   "description":"Erfahren Sie mehr über das PFB-Dateiformat und APIs, die PFB-Dateien erstellen und öffnen können.",
-  "linktitle" :"PFB",
+  "linktitle" : "PFB",
   "menu" : {
     "docs" : {
       "parent" : "font"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"AML-Datei - Automation Markup Language-Datei",
   "description":"Erfahren Sie mehr über AML-Dateien und APIs, die AML-Dateien erstellen und öffnen können.",
-  "linktitle" :"AML",
+  "linktitle" : "AML",
   "menu" : {
     "docs" : {
 "identifier":"misc-aml",

@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Was ist eine GNM-Datei und APIs, die GNM-Dateien erstellen und öffnen können.",
   "title" :"GNM - Gnumerisches Tabellenkalkulationsdateiformat",
-  "linktitle" :"GNM",
+  "linktitle" : "GNM",
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet"

@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"MPV-Dateiformat - MPEG Elementary Stream-Videodatei",
   "description":"Erfahren Sie mehr über das MPV-Dateiformat und APIs, die MPV-Dateien erstellen und zeigen können, wie Sie MPV-Dateien öffnen.",
-  "linktitle" :"MPV",
+  "linktitle" : "MPV",
   "menu" : {
     "docs" : {
       "parent" : "video"

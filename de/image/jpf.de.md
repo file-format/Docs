@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"JPF - Bilddateiformat",
   "description":"Erfahren Sie mehr über das JPF-Dateiformat und APIs, die JPF-Dateien erstellen und öffnen können.",
-  "linktitle" :"JPF",
+  "linktitle" : "JPF",
   "menu" : {
     "docs" : {
       "parent" : "image"

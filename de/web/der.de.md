@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"DER-Datei - DER-Zertifikatdateiformat",
   "description":"Erfahren Sie mehr über das DER-Dateiformat und APIs, die DER-Dateien erstellen und öffnen können.",
-  "linktitle" :"DER",
+  "linktitle" : "DER",
   "menu" : {
     "docs" : {
 "identifier":"web-der",

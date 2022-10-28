@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"CSR-Datei - Dateiformat für Zertifikatsignierungsanforderung",
   "description" :"Erfahren Sie, was eine CSR-Datei und APIs sind, die CSR-Dateien erstellen und öffnen können.",
-  "linktitle" :"CSR",
+  "linktitle" : "CSR",
   "menu" : {
     "docs" : {
 "identifier":"web-csr",

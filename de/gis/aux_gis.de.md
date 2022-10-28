@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"AUX - Hilfsdatei",
   "description":"Erfahren Sie mehr über das AUX-Dateiformat und APIs, die AUX-Dateien erstellen und öffnen können.",
-  "linktitle" :"AUX",
+  "linktitle" : "AUX_GIS",
   "menu" : {
     "docs" : {
       "parent" : "gis"

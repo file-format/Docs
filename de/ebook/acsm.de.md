@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das ACSM-Dateiformat von Adobe und APIs, die ACSM-Dateien erstellen und öffnen können.",
   "title" :"ACSM - Nachrichtendateiformat von Adobe Content Server",
-  "linktitle" :"ACSM",
+  "linktitle" : "ACSM",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

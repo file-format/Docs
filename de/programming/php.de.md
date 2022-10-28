@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"PHP-Dateiformat - Hypertext-Präprozessor-Dateiformat",
   "description":"Erfahren Sie mehr über das PHP-Dateiformat und APIs, die PHP-Dateien erstellen und öffnen können.",
-  "linktitle" :"PHP",
+  "linktitle" : "PHP",
   "menu" : {
     "docs" : {
       "parent" : "programming"

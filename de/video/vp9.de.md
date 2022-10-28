@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"VP9 - TrueMotion-Videodatei",
   "description":"Erfahren Sie mehr über das VP9-Dateiformat und APIs, die VP9-Dateien erstellen und öffnen können.",
-  "linktitle" :"VP9",
+  "linktitle" : "VP9",
   "menu" : {
     "docs" : {
       "parent" : "video"

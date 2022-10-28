@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ECW - Enhanced Compression Wavelet Image File",
   "description":"Erfahren Sie mehr über das ECW-Dateiformat und APIs, die ECW-Dateien erstellen und öffnen können.",
-  "linktitle" :"ECW",
+  "linktitle" : "ECW",
   "menu" : {
     "docs" : {
       "parent" : "image"

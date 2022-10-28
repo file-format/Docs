@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"PDF/VT-Dateiformat",
   "description":"Erfahren Sie mehr über das PDF/VT-Dateiformat und APIs, die PDF/VT-Dateien erstellen und öffnen können.",
-  "linktitle" :"PDF/VT",
+  "linktitle" : "VT",
   "menu" : {
     "docs" : {
       "parent" : "pdf"

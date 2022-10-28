@@ -8,7 +8,7 @@
   "title" :"MXF - Materialaustauschformat",
   "keywords" :[ "MXF", "Matroska-Video", "mkv-Format", "Wie man MXF-Dateien abspielt", "SMPTE", "Multimedia", "Video" ],
   "description":"Erfahren Sie mehr über das MXF-Dateiformat und APIs, die MXF-Dateien erstellen und öffnen können.",
-  "linktitle" :"MXF",
+  "linktitle" : "MXF",
   "menu" : {
     "docs" : {
       "parent" : "video"

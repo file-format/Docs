@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"CS - CSharp-Codedatei",
   "description":"Erfahren Sie mehr über das CS-Dateiformat und APIs, die CS-Dateien erstellen und öffnen können.",
-  "linktitle" :"KS",
+  "linktitle" : "CS",
   "menu" : {
     "docs" : {
       "parent" : "programming"

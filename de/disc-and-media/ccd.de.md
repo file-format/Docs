@@ -8,7 +8,7 @@
    "toc" : true,
   "description" :"Erfahren Sie mehr über das CCD-Dateiformat und APIs, die CCD-Dateien erstellen und öffnen können.",
   "title" :"CCD - CloneCD-Steuerdatei",
-  "linktitle" :"CCD",
+  "linktitle" : "CCD",
   "menu" : {
     "docs" : {
       "parent" : "disc-and-media"

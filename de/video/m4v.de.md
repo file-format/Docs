@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"M4V",
   "description":"Erfahren Sie mehr über das M4V-Dateiformat und APIs, die M4V-Dateien erstellen und öffnen können.",
-  "linktitle" :"M4V",
+  "linktitle" : "M4V",
   "menu" : {
     "docs" : {
       "parent" : "video"

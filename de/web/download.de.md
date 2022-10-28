@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"DOWNLOAD-Datei - Teilweise heruntergeladenes Dateiformat",
   "description" :"Erfahren Sie mehr über das DOWNLOAD-Dateiformat und APIs zum Erstellen und Öffnen von DOWNLOAD-Dateien.",
-  "linktitle" :"DOWNLOAD",
+  "linktitle" : "DOWNLOAD",
   "menu" : {
     "docs" : {
       "parent" : "web"

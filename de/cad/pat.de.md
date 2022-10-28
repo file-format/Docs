@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das PAT-Dateiformat und APIs, die PAT-Dateien erstellen und öffnen können.",
   "title" :"PAT-Dateiformat",
-  "linktitle" :"KLOPFEN",
+  "linktitle" : "PAT",
   "menu" : {
     "docs" : {
       "parent" : "cad"

@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das POBI-Dateiformat und APIs, die POBI-Dateien erstellen und öffnen können.",
   "title" :"POBI - Zeitschriftendatei Kindle Touch",
-  "linktitle" :"POBI",
+  "linktitle" : "POBI",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

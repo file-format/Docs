@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"XPR-Dateiformat - Microsoft Expression Design-Grafikdatei",
   "description":"Erfahren Sie mehr über das XPR-Dateiformat und APIs, die XPR-Dateien erstellen und öffnen können.",
-  "linktitle" :"XPR",
+  "linktitle" : "XPR",
   "menu" : {
     "docs" : {
       "parent" : "image"

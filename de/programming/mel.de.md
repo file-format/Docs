@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"MEL - Maya Embedded Language-Dateiformat",
   "description":"Erfahren Sie mehr über das MEL-Dateiformat und APIs, die MEL-Dateien erstellen und öffnen können.",
-  "linktitle" :"MEL",
+  "linktitle" : "MEL",
   "menu" : {
     "docs" : {
       "parent" : "programming"

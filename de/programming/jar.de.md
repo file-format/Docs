@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"JAR - Java-Archivdateiformat",
   "description":"Erfahren Sie mehr über das JAR-Dateiformat und APIs, die JAR-Dateien erstellen und öffnen können.",
-  "linktitle" :"KRUG",
+  "linktitle" : "JAR",
   "menu" : {
     "docs" : {
       "parent" : "programming"

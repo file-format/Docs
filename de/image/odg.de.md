@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ODG-Dateiformat",
   "description":"Erfahren Sie mehr über das ODG-Dateiformat und APIs, die ODG-Dateien erstellen und öffnen können.",
-  "linktitle" :"ODG",
+  "linktitle" : "ODG",
   "menu" : {
     "docs" : {
       "parent" : "image"

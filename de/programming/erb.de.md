@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"ERB - eRuby-Sprachdatei",
   "description":"Erfahren Sie mehr über das ERB-Dateiformat und APIs, die ERB-Dateien erstellen und öffnen können.",
-  "linktitle" :"ERB",
+  "linktitle" : "ERB",
   "menu" : {
     "docs" : {
       "parent" : "programming"

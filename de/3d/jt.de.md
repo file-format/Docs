@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das JT-Dateiformat und APIs, die JT-Dateien erstellen und öffnen können.",
   "title" :"JT - Jupiter-Tessellationsdateiformat",
-  "linktitle" :"JT",
+  "linktitle" : "JT",
   "menu" : {
     "docs" : {
       "parent" : "3d"

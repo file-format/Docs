@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"THM-Datei - Sony Ericsson-Designdatei",
   "description":"Erfahren Sie mehr über THM-Dateien und APIs, die THM-Dateien erstellen und öffnen können.",
-  "linktitle" :"THM",
+  "linktitle" : "THM",
   "menu" : {
     "docs" : {
 "identifier":"misc-thm",

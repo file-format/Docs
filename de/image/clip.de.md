@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"CLIP-Datei - Datei im Clip Studio-Format",
   "description":"Erfahren Sie mehr über das CLIP-Dateiformat und APIs, die CLIP-Dateien erstellen und öffnen können.",
-  "linktitle" :"CLIP",
+  "linktitle" : "CLIP",
   "menu" : {
     "docs" : {
       "identifier" : "image-clip",

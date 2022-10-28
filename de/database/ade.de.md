@@ -8,7 +8,7 @@
   "toc" : true,
   "description" :"Erfahren Sie mehr über das ADE-Dateiformat und APIs, die ADE-Dateien erstellen und öffnen können.",
   "title" :"ADE - Zugriff auf die Projekterweiterungsdatei",
-  "linktitle" :"ADE",
+  "linktitle" : "ADE",
   "menu" : {
     "docs" : {
       "parent" : "database"

@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"ECS-Dateiformat - Sony Ericsson Telefon-Sicherungsdatei",
   "description":"Erfahren Sie mehr über das ECS-Dateiformat und APIs, die ECS-Dateien erstellen und öffnen können.",
-  "linktitle" :"ECS",
+  "linktitle" : "ECS",
   "menu" : {
     "docs" : {
       "parent" : "compression"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"THM-Datei - Video-Thumbnail-Datei",
   "description":"Erfahren Sie, was eine THM-Datei und APIs sind, die THM-Dateien erstellen und öffnen können.",
-  "linktitle" :"THM",
+  "linktitle" : "THM",
   "menu" : {
     "docs" : {
 "identifier":"image-thm",

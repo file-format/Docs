@@ -9,7 +9,7 @@
   "toc" : true,
   "title" :"ABC - ActionScript-Bytecode-Datei",
   "description":"Erfahren Sie anhand von Beispielen und APIs, mit denen ABC-Dateien erstellt und geöffnet werden können, was das ABC-Dateiformat ist.",
-  "linktitle" :"ABC",
+  "linktitle" : "ABC",
   "menu" : {
     "docs" : {
       "parent" : "programming"

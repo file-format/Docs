@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"MDMP-Datei - Windows-Minidump-Dateiformat",
   "description":"Erfahren Sie mehr über das MDMP-Dateiformat und APIs, die MDMP-Dateien erstellen und öffnen können.",
-  "linktitle" :"MDMP",
+  "linktitle" : "MDMP",
   "menu" : {
     "docs" : {
       "parent" : "system"

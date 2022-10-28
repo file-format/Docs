@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"QML - Das QGIS Style File Format",
   "description":"Erfahren Sie mehr über das QML-Dateiformat und APIs, die QML-Dateien erstellen und öffnen können.",
-  "linktitle" :"QML",
+  "linktitle" : "QML",
   "menu" : {
     "docs" : {
       "parent" : "gis"

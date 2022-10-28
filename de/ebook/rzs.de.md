@@ -8,7 +8,7 @@
   "toc" : true,
   "description":"Erfahren Sie mehr über das RZS-Dateiformat und APIs, die RZS-Dateien erstellen und öffnen können.",
   "title" :"RZS - Red Zion Sicherheitsdatei",
-  "linktitle" :"RZS",
+  "linktitle" : "RZS",
   "menu" : {
     "docs" : {
       "parent" : "ebook"

@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"VRML-Dateiformat",
   "description":"Erfahren Sie mehr über das VRML-Dateiformat und APIs, die VRML-Dateien öffnen und erstellen können.",
-  "linktitle" :"VRML",
+  "linktitle" : "VRML",
   "menu" : {
     "docs" : {
       "parent" : "3d"

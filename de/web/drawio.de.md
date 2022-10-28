@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"DRAWIO - Diagram.net-Diagrammdateiformat",
   "description" :"Erfahren Sie mehr über das DRAWIO-Dateiformat und die APIs zum Erstellen und Öffnen von DRAWIO-Dateien.",
-  "linktitle" :"ZEICHNEN",
+  "linktitle" : "DRAWIO",
   "menu" : {
     "docs" : {
       "parent" : "web"

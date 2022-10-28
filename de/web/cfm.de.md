@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"CFM - Cold Fusion Markup",
   "description":"Erfahren Sie mehr über das CFM-Dateiformat und APIs, die CFM-Dateien erstellen und öffnen können.",
-  "linktitle" :"CFM",
+  "linktitle" : "CFM",
   "menu" : {
     "docs" : {
       "parent" : "web"

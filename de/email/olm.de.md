@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"OLM - Outlook für Mac-Dateiformat",
   "description":"Erfahren Sie mehr über das OLM-Dateiformat und APIs, die OLM-Dateien erstellen und öffnen können.",
-  "linktitle" :"OLM",
+  "linktitle" : "OLM",
   "menu" : {
     "docs" : {
       "parent" : "email"

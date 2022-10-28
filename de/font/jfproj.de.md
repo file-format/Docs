@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"JFPROJ - JSON-Font-Projektdateiformat",
   "description":"JFPROJ-Dateien sind von Hand erstellte Schriftdateien mit einem Stiftgerät unter Verwendung von Microsoft Font Maker unter Windows.",
-  "linktitle" :"JFPROJ",
+  "linktitle" : "JFPROJ",
   "menu" : {
     "docs" : {
       "parent" : "font"

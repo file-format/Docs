@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"M4S-Datei - Was ist eine M4S-Datei?",
   "description":"Erfahren Sie mehr über das M4S-Dateiformat und APIs, die M4S-Dateien erstellen und öffnen können.",
-  "linktitle" :"M4S",
+  "linktitle" : "M4S",
   "menu" : {
     "docs" : {
       "parent" : "video"

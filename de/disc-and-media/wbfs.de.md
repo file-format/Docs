@@ -8,7 +8,7 @@
    "toc" : true,
   "description" :"Erfahren Sie, was eine .wbfs-Datei und APIs sind, die wbfs-Dateien erstellen und öffnen können.",
   "title" :"WBFS-Dateiformat - Wii-Sicherungsdateisystemdatei",
-  "linktitle" :"WBFS",
+  "linktitle" : "WBFS",
   "menu" : {
     "docs" : {
       "parent" : "disc-and-media"

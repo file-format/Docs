@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"SCRIPT - Generische Skriptdatei",
   "description":"Erfahren Sie mehr über das SCRIPT-Dateiformat und APIs, die SCRIPT-Dateien erstellen und öffnen können.",
-  "linktitle" :"SKRIPT",
+  "linktitle" : "SCRIPT",
   "menu" : {
     "docs" : {
       "parent" : "programming"
