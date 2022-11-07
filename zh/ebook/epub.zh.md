@@ -55,9 +55,9 @@ EPUB 2.0 文件使用 XHTML 1.1 来构建出版物的内容。本质上，这意
 
 EPUB 文件格式支持以下图像文件格式。
 
-* [GIF](/zh/图片/gif/)
+* [GIF](/zh/image/gif/)
 * [JPG](/zh/image/jpeg/)
-* [PNG](/zh/图片/png/)
+* [PNG](/zh/image/png/)
 * [SVG](/zh/page-description-language/svg/)
 
 ## 参考 ＃＃

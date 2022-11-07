@@ -58,7 +58,7 @@ Das EPUB-Dateiformat unterstützt die folgenden Bilddateiformate.
 * [GIF](/de/image/gif/)
 * [JPG](/de/image/jpeg/)
 * [PNG](/de/image/png/)
-* [SVG](/de/Seitenbeschreibungssprache/svg/)
+* [SVG](/de/page-description-language/svg/)
 
 ## Verweise ##
 

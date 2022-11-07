@@ -55,10 +55,10 @@
 
 Формат файла EPUB поддерживает следующие форматы файлов изображений.
 
-* [GIF](/ru/изображение/gif/)
-* [JPG](/ru/изображение/jpeg/)
-* [PNG](/ru/изображение/png/)
-* [SVG](/ru/язык-описание-страницы/svg/)
+* [GIF](/ru/image/gif/)
+* [JPG](/ru/image/jpeg/)
+* [PNG](/ru/image/png/)
+* [SVG](/ru/page-description-language/svg/)
 
 ## Использованная литература ##
 
