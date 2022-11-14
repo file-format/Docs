@@ -58,7 +58,7 @@ Le format de fichier EPUB prend en charge les formats de fichier image suivants.
 * [GIF](/fr/image/gif/)
 * [JPG](/fr/image/jpeg/)
 * [PNG](/fr/image/png/)
-* [SVG](/fr/page-description-langue/svg/)
+* [SVG](/fr/page-description-language/svg/)
 
 ## Références ##
 
