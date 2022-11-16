@@ -10,8 +10,8 @@
   "linktitle" : "AFPHOTO",
   "menu" : {
     "docs" : {
-      "identifier": "programming-afphoto",
-      "parent" : "programming"
+      "identifier": "image-afphoto",
+      "parent" : "image"
     }
   },
   "lastmod" : "2022-11-13"
