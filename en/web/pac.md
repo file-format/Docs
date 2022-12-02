@@ -69,4 +69,4 @@ function FindProxyForURL(url, host) {
 ```
 ## References
 
-* [What is PAC file?](http://findproxyforurl.com/pac-file-introduction/)
+* [What is PAC file?](https://findproxyforurl.com/)
