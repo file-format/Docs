@@ -23,9 +23,8 @@ Files with .fb2 extension are FictionBook 2.0 eBook files that contains the stru
 
 ## FB2 File Format
 
-The FictionBook 2.0 file format was developed by Dmitry Gribov of FictionBook in Russia. Unlike other popular Ebook file formats such as [EPUB](/ebook/epub/) that contain multiple XML files, it is based on a single XML file that contains complete information about the contents. If there are images inside the file such as [PNG](/image/png/) or [JPG](/image/jpeg/), these are converted to Base64 and embedded inside the document. The [file format specifications](http://gribuser.ru/xml/fictionbook/index.html.en) for FB2 contains information for the version 2.0 of the format.
+The FictionBook 2.0 file format was developed by Dmitry Gribov of FictionBook in Russia. Unlike other popular Ebook file formats such as [EPUB](/ebook/epub/) that contain multiple XML files, it is based on a single XML file that contains complete information about the contents. If there are images inside the file such as [PNG](/image/png/) or [JPG](/image/jpeg/), these are converted to Base64 and embedded inside the document. The file format specifications for FB2 contains information for the version 2.0 of the format.
 
 ## References ##
 
 * [FB2 - By Wikipedia](https://en.wikipedia.org/wiki/FictionBook)
-* [FictionBook Specifications](http://gribuser.ru/xml/fictionbook/index.html.en)

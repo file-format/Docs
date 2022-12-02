@@ -28,4 +28,4 @@ ALF files are saved as binary files and their internal file format is not availa
 
 ## References
 
-* [An Understanding of the Files that Compose an ACT! by Sage Database](https://help.act.com/hc/en-us/articles/360024238854-An-Understanding-of-the-Files-that-Compose-an-ACT-by-Sage-Database#s2)
+* [ACT! ADF](/database/adf/)
