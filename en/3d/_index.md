@@ -18,7 +18,9 @@
   "lastmod" : "2020-09-01"
 }
 
-The electronic representation of a three-dimensional object is known as 3D file. A 3D file format is used to store information about 3D models. It usually store information about 3D models as plain text or binary data. There are literally hundreds of 3D file formats and are widely used in 3D games, printing, computer-aided design, manufacturing, academia, engineering and more. Each industry has its own 3D file formats for several reasons. Below we are going to discuss about the most popular 3D file formats and the most recommended software that uses it.
+The electronic representation of a three-dimensional object is known as a 3D file. A 3D file format is used to store information about 3D models. It usually stores information about 3D models as plain text or binary data. The internal [file format](https://www.fileformat.com/) of these files describe the structure of these files that can be used by application developers.
+
+There are literally hundreds of 3D file formats and are widely used in 3D games, printing, computer-aided design, manufacturing, academia, engineering and more. Each industry has its own 3D file formats for several reasons. Below we are going to discuss about the most popular 3D file formats and the most recommended software that uses it.
 
 Got queries related to 3D file formats? Head on to our community [forums](https://forum.fileformat.com/c/3d) to benefit from the knowledge shared by File Format experts.
 
