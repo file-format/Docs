@@ -24,6 +24,10 @@ There are literally hundreds of 3D file formats and are widely used in 3D games,
 
 Got queries related to 3D file formats? Head on to our community [forums](https://forum.fileformat.com/c/3d) to benefit from the knowledge shared by File Format experts.
 
+## Open Source APIs for 3D Files
+
+Check the [Open Source APIs to read and write 3D files](https://products.fileformat.com/3d/).
+
 ## List of 3D File Extensions and Associated File Formats
 
 Following is a list of popular 3D file formats that find their use in almost all daily work related to 3D.

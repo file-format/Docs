@@ -24,6 +24,10 @@ Common Presentation file extensions and their associated file formats include **
 
 Got queries related to Presentation file formats? Head on to our community [forums](https://forum.fileformat.com/c/presentation) to benefit from the knowledge shared by File Format experts.
 
+## Open Source APIs for Presentation Files
+
+Check out the list of [Open Source APIs for working with Presentation File Formats](https://products.fileformat.com/presentation/).
+
 ## List of Presentation File Extensions and Associated File Formats
 
 Following is a list of popular PowerPoint and other Presentation file extensions and their associated file formats.
