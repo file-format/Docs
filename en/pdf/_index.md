@@ -25,7 +25,7 @@ In most of the cases, existing documents are converted to PDF rather than creati
 
 ## PDF File Format - Brief History
 
-A quick go-through the timeline about the PDF file formation in terms of timeline is as follow:
+A quick go-through the timeline about the [PDF file format](https://products.fileformat.com/pdf/) in terms of timeline is as follow:
 
 **1993** - Adobe Systems made the PDF specifications available free of charge
 
