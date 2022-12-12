@@ -24,6 +24,10 @@ Common spreadsheet file extensions and their file formats include **[XLSX](/spre
 
 Got queries related to Spreadsheet file formats? Head on to our community [forums](https://forum.fileformat.com/c/spreadsheet) to benefit from the knowledge shared by File Format experts.
 
+## Open Source APIs to with Spreadsheet Files
+
+Check the list of [Open Source APIs to work with Spreadsheet files](https://products.fileformat.com/spreadsheet/).
+
 ## List of Spreadsheet File Extensions and Associated File Formats
 
 Following is a list of common spreadsheet file formats along with their file extensions.

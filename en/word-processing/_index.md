@@ -24,6 +24,10 @@ Common plain text file extensions and associated file formats include **[TXT](/w
 
 Got queries related to Word Processing file formats? Head on to our community [forums](https://forum.fileformat.com/c/word-processing) to benefit from the knowledge shared by File Format experts.
 
+## Open Source APIs for Word Processing File Formats
+
+Check out the [Open Source APIs for working with Word Processing File Formats](https://products.fileformat.com/word-processing/).
+
 # List of Word Processing File Extensions and Associated File Formats
 
 Following is a list of popular Word Processing document file formats along with respective file extensions.

@@ -21,6 +21,9 @@ Everyone is familiar of videos that we daily watch on media devices such as Tele
 
 Got queries related to Video file formats? Head on to our community [forums](https://forum.fileformat.com/c/video) to benefit from the knowledge shared by File Format experts.
 
+## Open Source APIs for Video File Formats
+
+Check out the [Open Source APIs for working with Video File Formats](https://products.fileformat.com/video/).
 
 ## List of Video File Extensions and Associated File Formats
 

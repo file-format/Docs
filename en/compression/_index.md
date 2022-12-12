@@ -21,6 +21,10 @@ File Compression is the process to reduce the size of one or more files. It shri
 
 Got queries related to Compression file formats? Head on to our community [forums](https://forum.fileformat.com/c/compression) to benefit from the knowledge shared by File Format experts.
 
+## Open Source APIs for Compression File Formats
+
+Check out the list of [Open Source APIs for working with Compression File Formats](https://products.fileformat.com/compression/).
+
 ## List of Compressed File Extensions and Associated Flie Formats
 
 Following is a list of common compression file formats along with their file extensions.

@@ -21,7 +21,5 @@
 Game file category ncludes essential video game files or files referenced by video games to run a game successfully on a supported devices such as laptop, mobile, XBox and Play Stations.
 Game ROMs, which are software copies of old age games developed for other old systems are also come under the game files category.
 
-
-
 ## List of Game File Extensions and Associated File Formats
 Following is a list of common Game file formats along with their file extensions.
