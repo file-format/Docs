@@ -24,6 +24,10 @@ The Minecraft MCR file format is a data format used by Minecraft to store terrai
 
 The MCR file format is structured as a series of named binary tags, each of which contains a specific type of data. The top-level tag is the "Level" tag, which contains all of the data for a single game level. Within the Level tag, there are several other named tags that store different types of data, such as the "Data" tag, which stores information about the game world, and the "Entities" and "TileEntities" tags, which store data about the game objects and tile entities in the world, respectively.
 
+## What is inside MCR File Format?
+
+In the Minecraft MCR file format, a region is a 32x32 block area of the game world. The MCR format divides the game world into regions in order to manage the data more efficiently and allow for faster loading and saving of game levels. Each region is stored in a separate file, and the MCR file format uses a system of coordinates to identify the position of each region within the game world. The coordinates of a region are determined by the block coordinates of the lower-left corner of the region. For example, a region with coordinates (-1,0) would be located one region to the left and zero regions down from the origin of the game world.
+
 ## MCR File Format Specifications
 
 The MCR file format specifications are publicly available. The specifications for the NBT format, upon which the MCR format is based, are available on the Minecraft Forge website. Additionally, the [Minecraft Wiki](https://minecraft.fandom.com/wiki/Region_file_format) also has detailed information about the MCR file format, including its structure and the various data types that it supports.
