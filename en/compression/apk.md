@@ -1,6 +1,5 @@
 {
   "date" : "2019-10-11",
-  "keywords" : [ "apk file", "apk file format", "what is a apk file", "file", "apk example", "apk file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
