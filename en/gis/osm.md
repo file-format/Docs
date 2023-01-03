@@ -19,13 +19,17 @@
 
 ## What is an OSM file?
 
-OpenStreetMap (OSM) is a huge collection of volunteered geographic information stores in different types of files, using different encoding schemes to convert this data into bits and bytes. OSM is a collaborative effort toward the creation of a free editable map of the world.  The primary output of this collaborative effort is geographic data rather than the map itself. The constraints on the use or availability of geographic information across much of the world triggers the need to create an OSM.  The data available from OSM is ready to replace Google Maps for classical applications (Facebook, Craigslist etc.) and default data for GPS receiver’s applications.^^ ^^Although data quality is diverse across the world yet OpenStreetMap data can be conveniently compared with patent data sources.
+OpenStreetMap (OSM) is a huge collection of volunteered geographic information stores in different types of files, using different encoding schemes to convert this data into bits and bytes. OSM is a collaborative effort toward the creation of a free editable map of the world.  The primary output of this collaborative effort is geographic data rather than the map itself. The constraints on the use or availability of geographic information across much of the world triggers the need to create an OSM. 
 
-## Brief History ##
+The data available from OSM is ready to replace Google Maps for classical applications (Facebook, Craigslist etc.) and default data for GPS receiver’s applications.Although data quality is diverse across the world yet OpenStreetMap data can be conveniently compared with patent data sources.
 
-Inspired by the success of Wikipedia, in 2004, Steve Coast a British entrepreneur, created this community-based world mapping project in the UK. He initially focused on mapping the United Kingdom. OpenStreetMap Foundation was first established in April 2006 to support the evolution, expansion, and circulation of free geospatial for anybody. In December 2006, Yahoo aided OpenStreetMap with its aerial photography for map production. Complete road data for the Netherlands and trunk road data for India and China was contributed to OSM in April 2007 by Automotive Navigation Data (AND). In December 2007, Oxford University was the most prominent organization who integrated OpenStreetMap data within their main website. Since then, over 2 million registered users contribute data in this project using GPS devices, aerial photography, and manual surveys. This community contributed data is made available under the Open Database License. An England registered, non-profit organization OpenStreetMap Foundation maintained the OSM site.
+## Brief History of OSM File Format
 
-## OSM File Format ##
+Inspired by the success of Wikipedia, in 2004, Steve Coast a British entrepreneur, created this community-based world mapping project in the UK. He initially focused on mapping the United Kingdom. OpenStreetMap Foundation was first established in April 2006 to support the evolution, expansion, and circulation of free geospatial for anybody. In December 2006, Yahoo aided OpenStreetMap with its aerial photography for map production.
+
+Complete road data for the Netherlands and trunk road data for India and China was contributed to OSM in April 2007 by Automotive Navigation Data (AND). In December 2007, Oxford University was the most prominent organization who integrated OpenStreetMap data within their main website. Since then, over 2 million registered users contribute data in this project using GPS devices, aerial photography, and manual surveys. This community contributed data is made available under the Open Database License. An England registered, non-profit organization OpenStreetMap Foundation maintained the OSM site.
+
+## OSM File Format
 
 There are lot of ways and file formats to store geographic data but **OSM** file format is restricted to OpenStreetMap. OSM is especially designed standard format intended to be transported easily across the internet. A structured ordered format, coded in XML constitute .osm file. In OpenStreetMap there are four pivot elements to store topological data structure:
 
