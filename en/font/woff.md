@@ -1,6 +1,5 @@
 {
   "date" : "2020-08-20",
-  "keywords" : [ "woff file", "woff file format", "what is a woff file", "file", "woff example", "woff file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -21,7 +20,7 @@
 
 A file with .woff extension is a web font file based on the Web Open Font Format (WOFF). It has format-specific compressed container based on either TrueType (.TTF) or OpenType (.OTT) font types. WOFF was introduced with the aim to differ web fonts from fonts files used in desktop applications. In addition, the format targeted to reduce the latency of fonts transfer from server to client's computer over the network. Several tools are available that can convert WOFF files to TTF and other font file formats.
 
-## **WOFF File Format**
+## WOFF File Format
 
 WOFF font format compresses font data tables of table-based sfnt structures used in different font types such as TrueType, OpenType, and Open Font Format. It is like a container for these font types and also has the room to include font's metadata and private-use data to be included in the container. Converters use the sfnt files into a WOFF formatted file and user agents restore the encoded file for use with the web document. It is to be noted that the restored font data exactly matches the input font format from all aspects.
 
@@ -58,6 +57,6 @@ The WOFF header comprises of an identifying signature which indicates the the ki
 |UInt32|	privOffset	|Offset to private data block, from beginning of WOFF file.|
 |UInt32|	privLength	|Length of private data block.|
 
+## References
 
-## **References**
  * [w3 WOFF File Format](https://www.w3.org/TR/WOFF/)

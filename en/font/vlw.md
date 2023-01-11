@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "VLW - Processing Font File File Format",
+  "title" : "VLW - Processing Font File Format",
   "description":"A VLW file is an open font format created in the Web Open Font Format.",
   "linktitle" : "VLW",
   "menu" : {
