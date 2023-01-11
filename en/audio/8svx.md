@@ -31,7 +31,7 @@ It was initially released in 1985 by Steve Hayes and Jerry Morrison. Another arc
 
 ## 8SVX File Format Specifications
 
-Many programs are associated with these files on Windows and Mac OS. Many programs can be used to tackle these files. It is an encoded audio format for Commodore Amiga. The features like attack, section repeat, and release are supported by these files. These features are used to store samples of musical instruments. The lossy data compression of Fibonacci-delta is available that results in the compression ratio of 50% and decrease the fidelity..
+Many programs are associated with these files on Windows and Mac OS. Many programs can be used to tackle these files. It is an encoded audio format for Commodore Amiga. The features like attack, section repeat, and release are supported by these files. These features are used to store samples of musical instruments. The lossy data compression of Fibonacci-delta is available that results in the compression ratio of 50% and decrease the fidelity.
 
 Here is an example of an audio-only 8SVX IFF audio file:
 
