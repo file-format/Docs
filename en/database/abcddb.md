@@ -8,7 +8,7 @@
   "toc" : true,
   "description" : "Learn about ABCDDB file format and APIs that can create and open ACCDB files.",
   "title" : "ABCDDB File Format - Apple Address Book Contact List Database File",
-  "linktitle" : "ACCDB",
+  "linktitle" : "ABCDDB",
   "menu" : {
     "docs" : {
       "identifier":"database-abcddb",
