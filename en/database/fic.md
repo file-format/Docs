@@ -1,5 +1,5 @@
 {
-  "date" : "2023-01-20",
+  "date" : "2023-01-19",
   "keywords" : [ "FIC", "what is a FIC file", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
   "author" : {
     "display_name" : "Shakeel Faiz"
@@ -15,7 +15,7 @@
       "parent" : "database"
     }
   },
-  "lastmod" : "2020-01-20"
+  "lastmod" : "2020-01-19"
 }
 
 ## What is a FIC file?
