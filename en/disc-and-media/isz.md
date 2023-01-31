@@ -7,10 +7,10 @@
   "toc" : true,
   "description" : "Learn about ISZ file format and APIs that can create and open ISZ files.",
   "title" : "ISZ File Format - Zipped ISO Disk Image",
-  "linktitle" : "ECM",
+  "linktitle" : "ISZ",
   "menu" : {
     "docs" : {
-      "identifier":"disc_and_media-ecm",
+      "identifier":"disc_and_media-isz",
       "parent" : "disc-and-media"
     }
   },

@@ -10,7 +10,7 @@
   "linktitle" : "XHTM",
   "menu" : {
     "docs" : {
-      "document":"web-xhtm",
+      "identifier":"web-xhtm",
       "parent" : "web"
     }
   },
