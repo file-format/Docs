@@ -10,7 +10,7 @@
   "linktitle" : "ECM",
   "menu" : {
     "docs" : {
-      "identifier":"disc_and_media-ecm",
+      "identifier":"disc-and-media-ecm",
       "parent" : "disc-and-media"
     }
   },

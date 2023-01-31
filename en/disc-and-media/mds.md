@@ -10,7 +10,7 @@
   "linktitle" : "MDS",
   "menu" : {
     "docs" : {
-      "identifier":"disc_and_media-mds",
+      "identifier":"disc-and-media-mds",
       "parent" : "disc-and-media"
     }
   },
