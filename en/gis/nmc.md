@@ -7,7 +7,7 @@
   "toc" : true,
   "title" : "NMC - Navitel Map File",
   "description":"Learn about NMC file format and APIs that can create and open NMC files.",
-  "linktitle" : "NM2",
+  "linktitle" : "NMC",
   "menu" : {
     "docs" : {
       "parent" : "gis"

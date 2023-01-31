@@ -10,7 +10,7 @@
   "linktitle" : "GSM",
   "menu" : {
     "docs" : {
-      "identifier":"gis-gst",
+      "identifier":"gis-gsm",
       "parent" : "gis"
     }
   },
