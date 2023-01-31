@@ -10,7 +10,7 @@
   "linktitle" : "NRI",
   "menu" : {
     "docs" : {
-      "identifier":"disc_and_media-nri",
+      "identifier":"disc-and-media-nri",
       "parent" : "disc-and-media"
     }
   },

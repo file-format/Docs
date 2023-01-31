@@ -10,7 +10,7 @@
   "linktitle" : "ISZ",
   "menu" : {
     "docs" : {
-      "identifier":"disc_and_media-isz",
+      "identifier":"disc-and-media-isz",
       "parent" : "disc-and-media"
     }
   },
