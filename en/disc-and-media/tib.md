@@ -10,7 +10,7 @@
   "linktitle" : "TIB",
   "menu" : {
     "docs" : {
-      "identifier":"disc_and_media-tib",
+      "identifier":"disc-and-media-tib",
       "parent" : "disc-and-media"
     }
   },

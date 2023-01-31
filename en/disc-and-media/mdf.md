@@ -10,7 +10,7 @@
   "linktitle" : "MDF",
   "menu" : {
     "docs" : {
-      "identifier":"disc_and_media-mdf",
+      "identifier":"disc-and-media-mdf",
       "parent" : "disc-and-media"
     }
   },
