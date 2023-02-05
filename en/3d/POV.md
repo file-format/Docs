@@ -1,17 +1,16 @@
-
 {
   "date" : "2023-01-05",
-  "keywords" : [ "pov file", "pov file format", "what is a pov file", "file", "pov example", "pov file extension","extension", "format" ],
   "author" : {
     "display_name" : "Shakeel Faiz"
   },
   "draft" : "false",
   "toc" : true,
-  "description":"Learn about POV file format and APIs that can open and create POV files.",
   "title" : "POV - Persistence of Vision File",
+  "description":"Learn about POV file format and APIs that can open and create POV files.",
   "linktitle" : "POV",
   "menu" : {
     "docs" : {
+      "identifier":"3d-pov",
       "parent" : "3d"
     }
   },
@@ -45,7 +44,7 @@ There may be other software applications that can open .pov files as well, so yo
 For example, here is a sample .pov file that defines a scene with a single blue cylinder:
 
 ```
-#include "colors.inc" 
+#include "colors.inc"
 
 // Declare the camera and specify its position and direction
 camera {
