@@ -1,6 +1,6 @@
 ---
 date: 2022-11-16
-著者：
+author:
   display_name: Kashif Iqbal
 draft: false
 toc: true
