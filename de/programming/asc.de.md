@@ -19,7 +19,7 @@
 
 ## Was ist eine ASC-Datei?
 
-Eine ASC-Datei ist eine **Skriptdatei**, die in der Programmiersprache ActionScript erstellt wurde. Es enthält Code, der auf der serverseitigen Flash Media Server-Hosting-Software ausgeführt wird. Die ASC-Datei enthält Skripte, die zur Steuerung von Anwendungsereignissen wie dem Laden von Flash-Anwendungen, der Verarbeitung von Benutzeraktionen von Maus- und Tastaturereignissen, der Wiedergabe von Multimedia-Inhalten und dem Rendern der Anwendungsausgabe verwendet werden. Adobe erwarb Macromedia Flash, das später als Adobe Flash Teil der Adobe Creativity Suite wurde. Früher wurden Animationsdateien im [.swf-Dateiformat](page-description-language/swf/) gespeichert.
+Eine ASC-Datei ist eine **Skriptdatei**, die in der Programmiersprache ActionScript erstellt wurde. Es enthält Code, der auf der serverseitigen Flash Media Server-Hosting-Software ausgeführt wird. Die ASC-Datei enthält Skripte, die zur Steuerung von Anwendungsereignissen wie dem Laden von Flash-Anwendungen, der Verarbeitung von Benutzeraktionen von Maus- und Tastaturereignissen, der Wiedergabe von Multimedia-Inhalten und dem Rendern der Anwendungsausgabe verwendet werden. Adobe erwarb Macromedia Flash, das später als Adobe Flash Teil der Adobe Creativity Suite wurde. Früher wurden Animationsdateien im [.swf-Dateiformat](/de/page-description-language/swf/) gespeichert.
 
 ## ASC-Dateiformat – Weitere Informationen
 
@@ -28,6 +28,6 @@ ASC-Dateien werden als Textdateien gespeichert, die mit [Adobe Media Encoder] (h
 
 ## Bezug ##
 
-* [.swf-Dateiformat](Seitenbeschreibungssprache/swf/)
+* [.swf-Dateiformat](/de/page-description-language/swf/)
 * [Adobe Media Encoder] (https://www.adobe.com/products/media-encoder.html)
 

@@ -19,7 +19,7 @@
 
 ## .ASC 파일이란?
 
-ASC 파일은 ActionScript 프로그래밍 언어로 생성된 **스크립트** 파일입니다. 여기에는 서버 측 Flash Media Server 호스팅 소프트웨어에서 실행되는 코드가 포함되어 있습니다. ASC 파일에는 Flash 응용 프로그램 로드, 마우스 및 키보드 이벤트에서 사용자 작업 처리, 멀티미디어 콘텐츠 재생 및 응용 프로그램 출력 렌더링과 같은 응용 프로그램 이벤트를 제어하는 데 사용되는 스크립트가 포함되어 있습니다. Adobe는 나중에 Adobe Flash로 Adobe Creativity 제품군의 일부가 된 Macromedia Flash를 인수했습니다. 애니메이션 파일을 [.swf 파일 형식](page-description-language/swf/)으로 저장하는데 사용합니다.
+ASC 파일은 ActionScript 프로그래밍 언어로 생성된 **스크립트** 파일입니다. 여기에는 서버 측 Flash Media Server 호스팅 소프트웨어에서 실행되는 코드가 포함되어 있습니다. ASC 파일에는 Flash 응용 프로그램 로드, 마우스 및 키보드 이벤트에서 사용자 작업 처리, 멀티미디어 콘텐츠 재생 및 응용 프로그램 출력 렌더링과 같은 응용 프로그램 이벤트를 제어하는 데 사용되는 스크립트가 포함되어 있습니다. Adobe는 나중에 Adobe Flash로 Adobe Creativity 제품군의 일부가 된 Macromedia Flash를 인수했습니다. 애니메이션 파일을 [.swf 파일 형식](/ko/page-description-language/swf/)으로 저장하는데 사용합니다.
 
 ## ASC 파일 형식 - 추가 정보
 
@@ -28,6 +28,6 @@ ASC 파일은 [Adobe Media Encoder](https://www.adobe.com/products/media-encoder
 
 ## 참조 ##
 
-* [.swf 파일 형식](page-description-language/swf/)
+* [.swf 파일 형식](/ko/page-description-language/swf/)
 * [Adobe 미디어 인코더](https://www.adobe.com/products/media-encoder.html)
 

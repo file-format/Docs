@@ -19,7 +19,7 @@
 
 ## .ASC オプション番号
 
-ASC ファイルは、ActionScript プログラミング言語で作成された **script** ファイルです。これには、サーバー側の Flash Media Server ホスティング ソフトウェアで実行されるコードが含まれています。 ASC ファイルには、Flash アプリケーションのロード、マウスおよびキーボード イベントからのユーザー アクションの処理、マルチメディア コンテンツの再生、アプリケーション出力のレンダリングなどのアプリケーション イベントの制御に使用されるスクリプトが含まれています。 Adobe は Macromedia Flash を買収し、これは後に Adobe Flash として Adobe Creativity スーツの一部となりました。 [.swf ファイル形式](page-description-language/swf/) でアニメーション ファイルを保存していました。
+ASC ファイルは、ActionScript プログラミング言語で作成された **script** ファイルです。これには、サーバー側の Flash Media Server ホスティング ソフトウェアで実行されるコードが含まれています。 ASC ファイルには、Flash アプリケーションのロード、マウスおよびキーボード イベントからのユーザー アクションの処理、マルチメディア コンテンツの再生、アプリケーション出力のレンダリングなどのアプリケーション イベントの制御に使用されるスクリプトが含まれています。 Adobe は Macromedia Flash を買収し、これは後に Adobe Flash として Adobe Creativity スーツの一部となりました。 [.swf ファイル形式](/ja/page-description-language/swf/) でアニメーション ファイルを保存していました。
 
 ## ASC ファイル形式 - 詳細情報
 
@@ -28,6 +28,6 @@ ASC ファイルは、[Adobe Media Encoder](https://www.adobe.com/products/media
 
 ## 参照 ＃＃
 
-* [.swf ファイル形式](page-description-language/swf/)
+* [.swf ファイル形式](/ja/page-description-language/swf/)
 * [Adobe Media Encoder](https://www.adobe.com/products/media-encoder.html)
 

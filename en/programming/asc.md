@@ -19,7 +19,7 @@
 
 ## What is an ASC file?
 
-An ASC file is a **script** file created in ActionScript programming language. It contains code that is run on server side Flash Media Server hosting software. ASC file contains scripts that is used to control application events such as loading Flash applications, handling user actions from mouse and keyboard events, play multimedia content and render the application output. Adobe acquired Macromedia Flash that later became part of Adobe Creativity suit as Adobe Flash. It used to save animation files in [.swf file format](page-description-language/swf/).
+An ASC file is a **script** file created in ActionScript programming language. It contains code that is run on server side Flash Media Server hosting software. ASC file contains scripts that is used to control application events such as loading Flash applications, handling user actions from mouse and keyboard events, play multimedia content and render the application output. Adobe acquired Macromedia Flash that later became part of Adobe Creativity suit as Adobe Flash. It used to save animation files in [.swf file format](/page-description-language/swf/).
 
 ## ASC File Format - More Information
 
@@ -28,5 +28,5 @@ ASC files are saved as text files that can be opened and edited with [Adobe Medi
 
 ## Reference ##
 
-* [.swf file format](page-description-language/swf/)
+* [.swf file format](/page-description-language/swf/)
 * [Adobe Media Encoder](https://www.adobe.com/products/media-encoder.html)
