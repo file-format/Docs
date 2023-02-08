@@ -19,7 +19,7 @@
 
 ## Co je soubor ASC?
 
-Soubor ASC je soubor **script** vytvořený v programovacím jazyce ActionScript. Obsahuje kód, který se spouští na serveru hostujícím software Flash Media Server. Soubor ASC obsahuje skripty, které se používají k řízení událostí aplikace, jako je načítání aplikací Flash, zpracování uživatelských akcí z událostí myši a klávesnice, přehrávání multimediálního obsahu a vykreslování výstupu aplikace. Společnost Adobe získala Macromedia Flash, která se později stala součástí obleku Adobe Creativity jako Adobe Flash. Slouží k ukládání souborů animací ve [formátu souboru .swf] (jazyk-popisu stránky/swf/).
+Soubor ASC je soubor **script** vytvořený v programovacím jazyce ActionScript. Obsahuje kód, který se spouští na serveru hostujícím software Flash Media Server. Soubor ASC obsahuje skripty, které se používají k řízení událostí aplikace, jako je načítání aplikací Flash, zpracování uživatelských akcí z událostí myši a klávesnice, přehrávání multimediálního obsahu a vykreslování výstupu aplikace. Společnost Adobe získala Macromedia Flash, která se později stala součástí obleku Adobe Creativity jako Adobe Flash. Slouží k ukládání souborů animací ve [formátu souboru .swf] (/cs/page-description-language/swf/).
 
 ## Formát souboru ASC – Další informace
 
@@ -28,6 +28,6 @@ Soubory ASC se ukládají jako textové soubory, které lze otevřít a upravit 
 
 ## reference ##
 
-* [formát souboru .swf] (jazyk-popisu-stránky/swf/)
+* [formát souboru .swf] (/cs/page-description-language/swf/)
 * [Adobe Media Encoder](https://www.adobe.com/products/media-encoder.html)
 

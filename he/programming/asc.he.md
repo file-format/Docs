@@ -19,7 +19,7 @@
 
 ## מהו קובץ ASC?
 
-קובץ ASC הוא קובץ **script** שנוצר בשפת התכנות ActionScript. הוא מכיל קוד המופעל בתוכנת אירוח של Flash Media Server בצד השרת. קובץ ASC מכיל סקריפטים המשמשים לשליטה באירועי יישומים כגון טעינת יישומי פלאש, טיפול בפעולות משתמש מאירועי עכבר ומקלדת, הפעלת תוכן מולטימדיה ועיבוד פלט האפליקציה. אדובי רכשה את Macromedia Flash שהפכה מאוחר יותר לחלק מחליפת Adobe Creativity בשם Adobe Flash. זה נהג לשמור קובצי אנימציה בפורמט [.swf file](page-description-language/swf/).
+קובץ ASC הוא קובץ **script** שנוצר בשפת התכנות ActionScript. הוא מכיל קוד המופעל בתוכנת אירוח של Flash Media Server בצד השרת. קובץ ASC מכיל סקריפטים המשמשים לשליטה באירועי יישומים כגון טעינת יישומי פלאש, טיפול בפעולות משתמש מאירועי עכבר ומקלדת, הפעלת תוכן מולטימדיה ועיבוד פלט האפליקציה. אדובי רכשה את Macromedia Flash שהפכה מאוחר יותר לחלק מחליפת Adobe Creativity בשם Adobe Flash. זה נהג לשמור קובצי אנימציה בפורמט [.swf file](/he/page-description-language/swf/).
 
 ## פורמט קובץ ASC - מידע נוסף
 
@@ -28,6 +28,6 @@
 
 ## התייחסות ##
 
-* [פורמט קובץ .swf](page-description-language/swf/)
+* [פורמט קובץ .swf](/he/page-description-language/swf/)
 * [Adobe Media Encoder](https://www.adobe.com/products/media-encoder.html)
 

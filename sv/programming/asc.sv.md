@@ -19,7 +19,7 @@
 
 ## Vad är en ASC fil?
 
-En ASC-fil är en **script**-fil skapad i ActionScript-programmeringsspråket. Den innehåller kod som körs på serversidans Flash Media Server-värdprogram. ASC-filen innehåller skript som används för att styra applikationshändelser som att ladda Flash-applikationer, hantera användaråtgärder från mus- och tangentbordshändelser, spela upp multimediainnehåll och rendera applikationsutdata. Adobe förvärvade Macromedia Flash som senare blev en del av Adobe Creativity suit som Adobe Flash. Det brukade spara animationsfiler i [.swf-filformat](page-description-language/swf/).,
+En ASC-fil är en **script**-fil skapad i ActionScript-programmeringsspråket. Den innehåller kod som körs på serversidans Flash Media Server-värdprogram. ASC-filen innehåller skript som används för att styra applikationshändelser som att ladda Flash-applikationer, hantera användaråtgärder från mus- och tangentbordshändelser, spela upp multimediainnehåll och rendera applikationsutdata. Adobe förvärvade Macromedia Flash som senare blev en del av Adobe Creativity suit som Adobe Flash. Det brukade spara animationsfiler i [.swf-filformat](/sv/page-description-language/swf/).,
 
 ## ASC-filformat - Mer information
 
@@ -28,6 +28,6 @@ ASC-filer sparas som textfiler som kan öppnas och redigeras med [Adobe Media En
 
 ## Referens ##
 
-* [.swf-filformat](page-description-language/swf/)
+* [.swf-filformat](/sv/page-description-language/swf/)
 * [Adobe Media Encoder](https://www.adobe.com/products/media-encoder.html)
 

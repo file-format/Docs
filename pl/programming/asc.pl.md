@@ -19,7 +19,7 @@
 
 ## Czym jest plik ASC?
 
-Plik ASC to plik **skryptu** utworzony w języku programowania ActionScript. Zawiera kod uruchamiany po stronie serwera oprogramowania hostingowego Flash Media Server. Plik ASC zawiera skrypty używane do kontrolowania zdarzeń aplikacji, takich jak ładowanie aplikacji Flash, obsługa działań użytkownika ze zdarzeń myszy i klawiatury, odtwarzanie treści multimedialnych i renderowanie danych wyjściowych aplikacji. Firma Adobe nabyła firmę Macromedia Flash, która później stała się częścią pakietu Adobe Creativity jako Adobe Flash. Służył do zapisywania plików animacji w [formacie pliku .swf](język-opisu-strony/swf/).
+Plik ASC to plik **skryptu** utworzony w języku programowania ActionScript. Zawiera kod uruchamiany po stronie serwera oprogramowania hostingowego Flash Media Server. Plik ASC zawiera skrypty używane do kontrolowania zdarzeń aplikacji, takich jak ładowanie aplikacji Flash, obsługa działań użytkownika ze zdarzeń myszy i klawiatury, odtwarzanie treści multimedialnych i renderowanie danych wyjściowych aplikacji. Firma Adobe nabyła firmę Macromedia Flash, która później stała się częścią pakietu Adobe Creativity jako Adobe Flash. Służył do zapisywania plików animacji w [formacie pliku .swf](/pl/page-description-language/swf/).
 
 ## Format pliku ASC — więcej informacji
 
@@ -28,6 +28,6 @@ Pliki ASC są zapisywane jako pliki tekstowe, które można otwierać i edytowa�
 
 ## Odniesienie ##
 
-* [format pliku .swf](język-opisu-strony/swf/)
+* [format pliku .swf](/pl/page-description-language/swf/)
 * [Adobe Media Encoder](https://www.adobe.com/products/media-encoder.html)
 

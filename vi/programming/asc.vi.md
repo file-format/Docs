@@ -19,7 +19,7 @@
 
 ## Tệp ASC là gì?
 
-Tệp ASC là tệp **script** được tạo bằng ngôn ngữ lập trình ActionScript. Nó chứa mã được chạy trên phần mềm lưu trữ Flash Media Server phía máy chủ. Tệp ASC chứa các tập lệnh được sử dụng để kiểm soát các sự kiện của ứng dụng, chẳng hạn như tải ứng dụng Flash, xử lý hành động của người dùng từ các sự kiện chuột và bàn phím, phát nội dung đa phương tiện và hiển thị đầu ra của ứng dụng. Adobe mua lại Macromedia Flash mà sau này trở thành một phần của Adobe Creativity với tên gọi Adobe Flash. Nó được sử dụng để lưu các tệp hoạt ảnh ở [. định dạng tệp .swf](ngôn ngữ mô tả trang/swf/).
+Tệp ASC là tệp **script** được tạo bằng ngôn ngữ lập trình ActionScript. Nó chứa mã được chạy trên phần mềm lưu trữ Flash Media Server phía máy chủ. Tệp ASC chứa các tập lệnh được sử dụng để kiểm soát các sự kiện của ứng dụng, chẳng hạn như tải ứng dụng Flash, xử lý hành động của người dùng từ các sự kiện chuột và bàn phím, phát nội dung đa phương tiện và hiển thị đầu ra của ứng dụng. Adobe mua lại Macromedia Flash mà sau này trở thành một phần của Adobe Creativity với tên gọi Adobe Flash. Nó được sử dụng để lưu các tệp hoạt ảnh ở [. định dạng tệp .swf](/vi/page-description-language/swf/).
 
 ## Định dạng tệp ASC - Thông tin khác
 
@@ -28,6 +28,6 @@ Các tệp ASC được lưu dưới dạng tệp văn bản có thể được 
 
 ## Tài liệu tham khảo ##
 
-* [Định dạng tệp .swf](ngôn ngữ mô tả trang/swf/)
+* [Định dạng tệp .swf](/vi/page-description-language/swf/)
 * [Bộ mã hóa phương tiện Adobe](https://www.adobe.com/products/media-encoder.html)
 

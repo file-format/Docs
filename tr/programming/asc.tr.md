@@ -19,7 +19,7 @@
 
 ## Bir ASC dosyası nedir?
 
-ASC dosyası, ActionScript programlama dilinde oluşturulmuş bir **komut dosyası** dosyasıdır. Sunucu tarafında Flash Media Server barındırma yazılımında çalıştırılan kodu içerir. ASC dosyası, Flash uygulamalarını yüklemek, fare ve klavye olaylarından kullanıcı eylemlerini işlemek, multimedya içeriğini oynatmak ve uygulama çıktısını oluşturmak gibi uygulama olaylarını kontrol etmek için kullanılan komut dosyalarını içerir. Adobe, daha sonra Adobe Flash olarak Adobe Creativity takımının bir parçası haline gelen Macromedia Flash'ı satın aldı. Animasyon dosyalarını [.swf dosya biçiminde](sayfa-açıklama-dil/swf/) kaydetmek için kullanılır.
+ASC dosyası, ActionScript programlama dilinde oluşturulmuş bir **komut dosyası** dosyasıdır. Sunucu tarafında Flash Media Server barındırma yazılımında çalıştırılan kodu içerir. ASC dosyası, Flash uygulamalarını yüklemek, fare ve klavye olaylarından kullanıcı eylemlerini işlemek, multimedya içeriğini oynatmak ve uygulama çıktısını oluşturmak gibi uygulama olaylarını kontrol etmek için kullanılan komut dosyalarını içerir. Adobe, daha sonra Adobe Flash olarak Adobe Creativity takımının bir parçası haline gelen Macromedia Flash'ı satın aldı. Animasyon dosyalarını [.swf dosya biçiminde](/tr/page-description-language/swf/) kaydetmek için kullanılır.
 
 ## ASC Dosya Biçimi - Daha Fazla Bilgi
 
@@ -28,6 +28,6 @@ ASC dosyaları, [Adobe Media Encoder](https://www.adobe.com/products/media-encod
 
 ## Referans ##
 
-* [.swf dosya formatı](sayfa-açıklama-dil/swf/)
+* [.swf dosya formatı](/tr/page-description-language/swf/)
 * [Adobe Media Encoder](https://www.adobe.com/products/media-encoder.html)
 

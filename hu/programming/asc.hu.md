@@ -19,7 +19,7 @@
 
 ## Mi az ASC fájl?
 
-Az ASC-fájl egy ActionScript programozási nyelven létrehozott **script** fájl. Olyan kódot tartalmaz, amely a szerveroldali Flash Media Server hosting szoftveren fut. Az ASC-fájl olyan szkripteket tartalmaz, amelyek az alkalmazásesemények vezérlésére szolgálnak, mint például a Flash-alkalmazások betöltése, az egér- és billentyűzeteseményekből származó felhasználói műveletek kezelése, a multimédiás tartalom lejátszása és az alkalmazás kimenetének megjelenítése. Az Adobe felvásárolta a Macromedia Flash-t, amely később Adobe Flash néven az Adobe Creativity suit része lett. Az animációs fájlokat [.swf fájlformátum] (oldalleírás-nyelv/swf/) formátumban mentette el.
+Az ASC-fájl egy ActionScript programozási nyelven létrehozott **script** fájl. Olyan kódot tartalmaz, amely a szerveroldali Flash Media Server hosting szoftveren fut. Az ASC-fájl olyan szkripteket tartalmaz, amelyek az alkalmazásesemények vezérlésére szolgálnak, mint például a Flash-alkalmazások betöltése, az egér- és billentyűzeteseményekből származó felhasználói műveletek kezelése, a multimédiás tartalom lejátszása és az alkalmazás kimenetének megjelenítése. Az Adobe felvásárolta a Macromedia Flash-t, amely később Adobe Flash néven az Adobe Creativity suit része lett. Az animációs fájlokat [.swf fájlformátum] (/hu/page-description-language/swf/) formátumban mentette el.
 
 ## ASC fájlformátum – További információ
 
@@ -28,6 +28,6 @@ Az ASC-fájlok szöveges fájlokként kerülnek mentésre, amelyek megnyithatók
 
 ## Hivatkozási szám
 
-* [.swf fájlformátum](oldalleírás-nyelv/swf/)
+* [.swf fájlformátum](/hu/page-description-language/swf/)
 * [Adobe Media Encoder](https://www.adobe.com/products/media-encoder.html)
 

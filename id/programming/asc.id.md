@@ -19,7 +19,7 @@
 
 ## Apa itu file ASC?
 
-File ASC adalah file **skrip** yang dibuat dalam bahasa pemrograman ActionScript. Ini berisi kode yang dijalankan di sisi server perangkat lunak hosting Server Media Flash. File ASC berisi skrip yang digunakan untuk mengontrol acara aplikasi seperti memuat aplikasi Flash, menangani tindakan pengguna dari acara mouse dan keyboard, memutar konten multimedia, dan merender keluaran aplikasi. Adobe mengakuisisi Macromedia Flash yang kemudian menjadi bagian dari setelan Kreativitas Adobe sebagai Adobe Flash. Ini digunakan untuk menyimpan file animasi dalam [.swf file format](page-description-language/swf/).
+File ASC adalah file **skrip** yang dibuat dalam bahasa pemrograman ActionScript. Ini berisi kode yang dijalankan di sisi server perangkat lunak hosting Server Media Flash. File ASC berisi skrip yang digunakan untuk mengontrol acara aplikasi seperti memuat aplikasi Flash, menangani tindakan pengguna dari acara mouse dan keyboard, memutar konten multimedia, dan merender keluaran aplikasi. Adobe mengakuisisi Macromedia Flash yang kemudian menjadi bagian dari setelan Kreativitas Adobe sebagai Adobe Flash. Ini digunakan untuk menyimpan file animasi dalam [.swf file format](/id/page-description-language/swf/).
 
 ## Format File ASC - Informasi Lebih Lanjut
 
@@ -28,6 +28,6 @@ File ASC disimpan sebagai file teks yang dapat dibuka dan diedit dengan [Adobe M
 
 ## Referensi ##
 
-* [format file .swf](halaman-deskripsi-bahasa/swf/)
+* [format file .swf](/id/page-description-language/swf/)
 * [Adobe Media Encoder](https://www.adobe.com/products/media-encoder.html)
 

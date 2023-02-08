@@ -19,7 +19,7 @@
 
 ## O que é um arquivo ASC?
 
-Um arquivo ASC é um arquivo **script** criado na linguagem de programação ActionScript. Ele contém código que é executado no software de hospedagem Flash Media Server do lado do servidor. O arquivo ASC contém scripts usados para controlar eventos de aplicativos, como carregar aplicativos Flash, manipular ações do usuário de eventos de mouse e teclado, reproduzir conteúdo multimídia e renderizar a saída do aplicativo. A Adobe adquiriu o Macromedia Flash que mais tarde se tornou parte da Adobe Creativity como Adobe Flash. Ele costumava salvar arquivos de animação em [formato de arquivo .swf](page-description-language/swf/).
+Um arquivo ASC é um arquivo **script** criado na linguagem de programação ActionScript. Ele contém código que é executado no software de hospedagem Flash Media Server do lado do servidor. O arquivo ASC contém scripts usados para controlar eventos de aplicativos, como carregar aplicativos Flash, manipular ações do usuário de eventos de mouse e teclado, reproduzir conteúdo multimídia e renderizar a saída do aplicativo. A Adobe adquiriu o Macromedia Flash que mais tarde se tornou parte da Adobe Creativity como Adobe Flash. Ele costumava salvar arquivos de animação em [formato de arquivo .swf](/pt/page-description-language/swf/).
 
 ## Formato de arquivo ASC - Mais informações
 
@@ -28,6 +28,6 @@ Os arquivos ASC são salvos como arquivos de texto que podem ser abertos e edita
 
 ## Referência ##
 
-* [formato de arquivo .swf](page-description-language/swf/)
+* [formato de arquivo .swf](/pt/page-description-language/swf/)
 * [Adobe Media Encoder](https://www.adobe.com/products/media-encoder.html)
 

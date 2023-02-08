@@ -19,7 +19,7 @@
 
 ## Ce este un fișier ASC?
 
-Un fișier ASC este un fișier **script** creat în limbajul de programare ActionScript. Conține cod care rulează pe software-ul de găzduire Flash Media Server pe partea de server. Fișierul ASC conține scripturi care sunt utilizate pentru a controla evenimentele aplicației, cum ar fi încărcarea aplicațiilor Flash, gestionarea acțiunilor utilizatorului din evenimentele mouse-ului și tastaturii, redarea conținutului multimedia și redarea ieșirii aplicației. Adobe a achiziționat Macromedia Flash, care mai târziu a devenit parte a costumului Adobe Creativity sub numele de Adobe Flash. Se folosea pentru a salva fișierele de animație în [format de fișier .swf](page-description-language/swf/).
+Un fișier ASC este un fișier **script** creat în limbajul de programare ActionScript. Conține cod care rulează pe software-ul de găzduire Flash Media Server pe partea de server. Fișierul ASC conține scripturi care sunt utilizate pentru a controla evenimentele aplicației, cum ar fi încărcarea aplicațiilor Flash, gestionarea acțiunilor utilizatorului din evenimentele mouse-ului și tastaturii, redarea conținutului multimedia și redarea ieșirii aplicației. Adobe a achiziționat Macromedia Flash, care mai târziu a devenit parte a costumului Adobe Creativity sub numele de Adobe Flash. Se folosea pentru a salva fișierele de animație în [format de fișier .swf](/ro/page-description-language/swf/).
 
 ## Format de fișier ASC - Mai multe informații
 
@@ -28,6 +28,6 @@ Fișierele ASC sunt salvate ca fișiere text care pot fi deschise și editate cu
 
 ## Referință ##
 
-* [format fișier .swf](page-description-language/swf/)
+* [format fișier .swf](/ro/page-description-language/swf/)
 * [Adobe Media Encoder](https://www.adobe.com/products/media-encoder.html)
 
