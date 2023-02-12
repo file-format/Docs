@@ -1,16 +1,17 @@
+
 {
   "date" : "2023-01-05",
+  "keywords" : [ "pov file", "pov file format", "what is a pov file", "file", "pov example", "pov file extension","extension", "format" ],
   "author" : {
     "display_name" : "Shakeel Faiz"
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "POV - Persistence of Vision File",
   "description":"Learn about POV file format and APIs that can open and create POV files.",
+  "title" : "POV - Persistence of Vision File",
   "linktitle" : "POV",
   "menu" : {
     "docs" : {
-      "identifier":"3d-pov",
       "parent" : "3d"
     }
   },
