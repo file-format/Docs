@@ -45,7 +45,7 @@ There may be other software applications that can open .pov files as well, so yo
 For example, here is a sample .pov file that defines a scene with a single blue cylinder:
 
 ```
-#include "colors.inc"
+#include "colors.inc" 
 
 // Declare the camera and specify its position and direction
 camera {
