@@ -1,75 +1,66 @@
 
 {
-  "date" : "2023-01-05",
-  "keywords" : [ "pov file", "pov file format", "what is a pov file", "file", "pov example", "pov file extension","extension", "format" ],
+  "date" : "2023-02-09",
   "author" : {
-    "display_name" : "Shakeel Faiz"
+    "display_name" : "Kashif Iqbal"
   },
   "draft" : "false",
   "toc" : true,
-  "description":"Learn about POV file format and APIs that can open and create POV files.",
-  "title" : "POV - Persistence of Vision File",
-  "linktitle" : "POV",
+  "title" : "4th File - Forth Language File Format",
+  "description":"Learn about what is .4th file format with example and APIs that can create and open 4th files.",
+  "linktitle" : "4th",
   "menu" : {
     "docs" : {
-      "parent" : "3d"
+      "identifier":"programming-4th",
+      "parent" : "programming"
     }
   },
-  "lastmod" : "2023-01-05"
+  "lastmod" : "2023-02-09"
 }
 
-## What is a POV file?
+## What is a 4th file?
 
-A POV file is a plain text file that contains instructions for the POV-Ray ray tracing software. These instructions are written in a special scripting language that is specific to POV-Ray. It specifies the scene to be rendered, including the 3D objects, materials, lighting, and other properties that define the appearance of the scene. POV files use a special scripting language that is specific to POV-Ray and can be used to create complex and detailed 3D scenes. The file extension for a POV file is typically ".pov" or ".povray." When you open a POV file in POV-Ray, the software reads the instructions in the file and uses them to generate a rendered image of the scene.
+A file with .4th file extension is a programming file created for the **Forth Programming Language**. It contains source code for programs written in Forth programming language and generates the output when the program is executed. It is just another programming language file similar to [C](/programming/c/) and [C++](/programming/cpp/) source file.
 
-The .pov files are often used by artists and designers to create 3D graphics and animations for a variety of applications, including film, television, video games, and marketing materials.
+## 4th File Format - More Information
 
-## POV File Format
 
-The **.pov file** typically begins with a series of **#include** statements, which are used to include libraries of predefined colors, textures, and other resources that can be used in the scene. Then, the file defines the objects, materials, and other properties of the scene using a series of blocks. There are many other types of objects, materials, and other properties that you can specify in a .pov file, and you can use loops and conditional statements to create more complex and detailed scenes.
+### 4th Programming Language Code Example
 
-## Software Applications for POV
-
-The .pov file format is used by the POV-Ray ray tracing software, so the primary application for opening .pov files is the POV-Ray software itself. You can download the latest version of POV-Ray from the official website at https://www.povray.org/.
-
-In addition to POV-Ray, there are a number of other applications that can open and edit .pov files, including:
-
-- BRL-CAD: An open-source 3D modeling software that can import and export .pov files
-- MeshLab: A 3D mesh processing software that can import and export .pov files
-- Blender: A popular open-source 3D graphics software that can import and export .pov files
-
-There may be other software applications that can open .pov files as well, so you may want to try using a file viewer or converter tool if you are unable to open a .pov file with the above applications.
-
-## POV Example
-
-For example, here is a sample .pov file that defines a scene with a single blue cylinder:
+Here is an example of a simple program written in Forth that calculates the factorial of a given number:
 
 ```
-#include "colors.inc"
-
-// Declare the camera and specify its position and direction
-camera {
-  location <0, 0, -5>
-  look_at <0, 0, 0>
-}
-
-// Declare a light source and specify its position and color
-light_source {
-  <5, 5, -5>
-  color White
-}
-
-// Declare the cylinder object and specify its endpoints, radius, and material
-cylinder {
-  <0, 0, 0>, <0, 0, 1>, 0.5
-  pigment { color Blue }
-  finish { phong 1 }
-}
+: factorial ( n -- n! )
+   dup 0=
+   if
+      drop 1
+      exit
+   then
+   1
+   swap
+   begin
+      dup 1-
+      dup 0=
+      if
+         drop
+         exit
+      then
+      swap
+      *
+   repeat
+;
 
 ```
 
-In this example, the camera block specifies the position and orientation of the camera in the scene, the `light_source` block declares a light source and specifies its position and color, and the `cylinder` block declares a cylinder object and specifies its endpoints, radius, and material properties. When you open this .pov file in the POV-Ray software, it will render an image of a single blue cylinder.
+In this example, the factorial word takes a single argument n and returns its factorial. The dup word duplicates the value on top of the stack, drop discards the value on top of the stack, and * multiplies the two values on top of the stack. The if and begin/until constructs control the flow of the program.
+
+To use this program, you would enter the definition into the Forth interpreter, and then call the factorial word with the number you want to find the factorial of:
+
+```
+10 factorial .
+```
+This would result in the output 3628800, which is the factorial of 10.
 
 ## References
- * [POV-Ray - Wikipedia](https://en.wikipedia.org/wiki/POV-Ray)
- * [Documentation POV-Ray Website](http://www.povray.org/documentation/)
+
+ * [Forth Programming Language](https://en.wikipedia.org/wiki/Forth_(programming_language))
