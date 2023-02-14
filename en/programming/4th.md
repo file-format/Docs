@@ -61,29 +61,6 @@ To use this program, you would enter the definition into the Forth interpreter, 
 ```
 This would result in the output 3628800, which is the factorial of 10.
 
-
-
-Forth language
-Stack-based programming
-Interactive computing environment
-Embedded systems
-Real-time control systems
-Systems programming
-Concise syntax
-Low-level programming
-Prototyping
-Testing
-Compiler
-Interpreter
-Direct execution
-Data structure manipulation
-Microcontrollers
-Desktop systems
-Server systems
-
-Forth language's format is based on data stack and RPN (Revers Polish Notation). A simple example of its format:
-
-
 ## References
 
  * [Forth Programming Language](https://en.wikipedia.org/wiki/Forth_(programming_language))

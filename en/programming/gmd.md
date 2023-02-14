@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "GMD File - Game Maker Program Code File Format",
-  "description":"Learn about GO file format and APIs that can create and open GO files.",
+  "description":"Learn about GMD file format and APIs that can create and open GMD files.",
   "linktitle" : "GMD",
   "menu" : {
     "docs" : {
