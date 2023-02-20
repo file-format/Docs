@@ -39,4 +39,3 @@ OSU! has detailed instructions for [creating OSZ](https://osu.ppy.sh/wiki/en/Cli
 ## References
 
 * [OSU! Rhythm Game](https://osu.ppy.sh/home)
-* [OSZ File Format](https://osu.ppy.sh/wiki/en/Client/File_formats/Osz_%28file_format%29https://osu.ppy.sh/wiki/en/Client/File_formats/Osr_%28file_format%29#data-types)
