@@ -55,4 +55,3 @@ Following are few files that are found inside a DACPAC file.
 
 * [Data Tier Applications - Benefits](https://docs.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
 * [Deploying a Data Tier Application - Microsoft](https://docs.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
-* [How to create DACPAC File?](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)

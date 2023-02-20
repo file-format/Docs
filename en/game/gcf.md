@@ -21,7 +21,7 @@
 
 A .gcf file is a game cache file used by the Steam gaming platform. It contains game data such as textures, models, and other files that are used by the game. These files are stored on the user's computer and are used to reduce the amount of data that needs to be downloaded when updating or installing a game. The .gcf files can also be used to create backups of a game's installation or to transfer a game between computers.
 
-GCF files can be read and write by the Open Source C++ programming Library, [HLLib]((https://developer.valvesoftware.com/wiki/HLLib)).
+GCF files can be read and write by the Open Source C++ programming Library, **HLLib**.
 
 ## GCF File Format
 

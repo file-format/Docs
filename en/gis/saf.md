@@ -42,4 +42,4 @@ The quality and accuracy of the converted data may vary depending on the tool or
 
 ## References
 
-* [Street Atlas USA Plus](https://www.oit.va.gov/Services/TRM/ToolPage.aspx?tid=9380)
+Not available at the moment
