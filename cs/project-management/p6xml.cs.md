@@ -49,8 +49,6 @@ Zde je několik kroků popisujících proces exportu:
 * Je vhodné exportovat více projektů do jednoho souboru XML
 * Exportují se globální data, která jsou přidělena projektu
 * Je vhodné exportovat soubory XML, aniž byste museli mít přístup ke všem zdrojům
-  
-
 
 ## Problémy s otevřením souboru P6XML? ##
 
@@ -63,9 +61,7 @@ Některé běžné problémy, které mohou nastat a způsobit nesprávnou funkci
 * Žádné přístupové právo v systému k otevření souborů
 * Zastaralá jednotka ve vašem systému
 * Přípona souboru je přejmenována
- 
 
 ## Reference ##
 
-* [Oracle – P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_eppm_xml_import_guide/190894.htm)
-
+* [Oracle – P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_import_guide/index.html)

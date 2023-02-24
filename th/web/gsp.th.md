@@ -26,5 +26,4 @@
 
 ## อ้างอิง
 
-* [เกิดข้อผิดพลาดเมื่อคุณคัดลอกไฟล์ข้อความอีเมล MSG ใน Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or- ผู้รับ)
-
+* [เกิดข้อผิดพลาดเมื่อคุณคัดลอกไฟล์ข้อความอีเมล MSG ใน Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients)

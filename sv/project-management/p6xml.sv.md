@@ -19,7 +19,7 @@
 
 ## Vad är en P6XML fil? ##
 
-Filtillägget P6XML har utmärkt läsbarhet, anpassningsbarhet och bred användning som gör det till det idealiska formatet. Primavera P6 Professional har funktionen att exportera och importera både [XER](/sv/project-management/xer)-filer och XML-filer. XML står för **Extensible Markup Language**. Detta allmänna format tillåter användare att dela projektinformation mellan Primavera P6-databaser. Projektdata kan enkelt lagras i en textfil genom XML-filen; detta gör det enklare för många program att utbyta data. Sådan data kan enkelt delas och hanteras av Primavera P6-användaren.
+Filtillägget P6XML har utmärkt läsbarhet, anpassningsbarhet och bred användning som gör det till det idealiska formatet. Primavera P6 Professional har funktionen att exportera och importera både [XER](/sv/project-management/xer/)-filer och XML-filer. XML står för **Extensible Markup Language**. Detta allmänna format tillåter användare att dela projektinformation mellan Primavera P6-databaser. Projektdata kan enkelt lagras i en textfil genom XML-filen; detta gör det enklare för många program att utbyta data. Sådan data kan enkelt delas och hanteras av Primavera P6-användaren.
 
 ## Fördelar med ett P6XML-filformat ##
 
@@ -49,7 +49,7 @@ Här är några steg som beskriver exportprocessen:
 * Det är bekvämt att exportera många projekt till en XML-fil
 * Global data som allokeras till projektet exporteras
 * Det är bekvämt att exportera XML-filer utan att ha tillgång till alla resurser
-  
+
 
 
 ## Problem med att öppna filen P6XML? ##
@@ -63,9 +63,8 @@ Några vanliga problem som kan uppstå och orsaka att P6XML-formatet inte funger
 * Ingen åtkomsträtt i systemet för att öppna filerna
 * Föråldrad enhet i ditt system
 * Filtillägget döps om
- 
+
 
 ## Referenser ##
 
-* [Oracle - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_eppm_xml_import_guide/190894.htm)
-
+* [Oracle - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_import_guide/index.html)

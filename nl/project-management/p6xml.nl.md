@@ -19,7 +19,7 @@
 
 ## Wat is een P6XML-bestand? ##
 
-De P6XML-bestandsextensie heeft een uitstekende leesbaarheid, aanpasbaarheid en breed gebruik, waardoor het het ideale formaat is. Primavera P6 Professional heeft de functionaliteit om zowel [XER](/nl/project-management/xer)-bestanden als XML-bestanden te exporteren en importeren. XML staat voor **Extensible Markup Language**. Met dit algemene formaat kunnen gebruikers projectinformatie delen tussen Primavera P6-databases. Via het XML-bestand kunnen de projectgegevens eenvoudig in een tekstbestand worden opgeslagen; dit maakt het voor tal van softwareprogramma's eenvoudiger om de gegevens uit te wisselen. Dergelijke gegevens kunnen eenvoudig worden gedeeld en beheerd door de Primavera P6-gebruiker.
+De P6XML-bestandsextensie heeft een uitstekende leesbaarheid, aanpasbaarheid en breed gebruik, waardoor het het ideale formaat is. Primavera P6 Professional heeft de functionaliteit om zowel [XER](/nl/project-management/xer/)-bestanden als XML-bestanden te exporteren en importeren. XML staat voor **Extensible Markup Language**. Met dit algemene formaat kunnen gebruikers projectinformatie delen tussen Primavera P6-databases. Via het XML-bestand kunnen de projectgegevens eenvoudig in een tekstbestand worden opgeslagen; dit maakt het voor tal van softwareprogramma's eenvoudiger om de gegevens uit te wisselen. Dergelijke gegevens kunnen eenvoudig worden gedeeld en beheerd door de Primavera P6-gebruiker.
 
 ## Voordelen van een P6XML-bestandsindeling ##
 
@@ -49,7 +49,7 @@ Hier zijn enkele stappen die het exportproces beschrijven:
 * Het is handig om meerdere projecten naar één XML-bestand te exporteren
 * Globale gegevens die aan het project zijn toegewezen, worden geëxporteerd
 * Het is handig om XML-bestanden te exporteren zonder toegang tot alle bronnen
-  
+
 
 
 ## Problemen om een P6XML-bestand te openen? ##
@@ -63,9 +63,8 @@ Enkele veelvoorkomende problemen die zich kunnen voordoen en een slechte werking
 * Geen toegangsrecht in het systeem om de bestanden te openen
 * Verouderde schijf in uw systeem
 * Extensie van het bestand is hernoemd
- 
+
 
 ## Referenties ##
 
-* [Oracle - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_eppm_xml_import_guide/190894.htm)
-
+* [Oracle - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_import_guide/index.html)

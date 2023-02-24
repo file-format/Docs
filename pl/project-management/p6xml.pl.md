@@ -19,7 +19,7 @@
 
 ## Co to jest plik P6XML? ##
 
-Rozszerzenie pliku P6XML ma doskonałą czytelność, możliwość dostosowania i szerokie zastosowanie, co czyni go idealnym formatem. Primavera P6 Professional posiada funkcję eksportu i importu zarówno plików [XER](/pl/project-management/xer), jak i plików XML. XML oznacza **Extensible Markup Language**. Ten ogólny format umożliwia użytkownikom udostępnianie informacji o projekcie między bazami danych Primavera P6. Dane projektu można łatwo zapisać w pliku tekstowym za pośrednictwem pliku XML; Ułatwia to wielu programom wymianę danych. Takie dane mogą być łatwo udostępniane i zarządzane przez użytkownika Primavera P6.
+Rozszerzenie pliku P6XML ma doskonałą czytelność, możliwość dostosowania i szerokie zastosowanie, co czyni go idealnym formatem. Primavera P6 Professional posiada funkcję eksportu i importu zarówno plików [XER](/pl/project-management/xer/), jak i plików XML. XML oznacza **Extensible Markup Language**. Ten ogólny format umożliwia użytkownikom udostępnianie informacji o projekcie między bazami danych Primavera P6. Dane projektu można łatwo zapisać w pliku tekstowym za pośrednictwem pliku XML; Ułatwia to wielu programom wymianę danych. Takie dane mogą być łatwo udostępniane i zarządzane przez użytkownika Primavera P6.
 
 ## Zalety formatu pliku P6XML ##
 
@@ -49,7 +49,7 @@ Oto kilka kroków opisujących proces eksportu:
 * Wygodnie jest eksportować wiele projektów do jednego pliku XML
 * Eksportowane są dane globalne, które są przypisane do projektu
 * Wygodnie jest eksportować pliki XML bez dostępu do wszystkich zasobów
-  
+
 
 
 ## Problemy z otwarciem pliku P6XML? ##
@@ -63,9 +63,8 @@ Niektóre typowe problemy, które mogą się pojawić i powodować nieprawidłow
 * Brak prawa dostępu w systemie do otwierania plików
 * Przestarzały dysk w twoim systemie
 * Zmieniono nazwę rozszerzenia pliku
- 
+
 
 ## Bibliografia ##
 
-* [Oracle — P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_eppm_xml_import_guide/190894.htm)
-
+* [Oracle — P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_import_guide/index.html)

@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo AQ?
 
-Un archivo con extensión .aq es un archivo de base de datos creado con la aplicación Ancestral Quest de Incline Software, LC. Almacena la información del árbol genealógico utilizando los datos genealógicos ingresados por las personas que utilizan la versión gratuita y premium del software. La base de datos almacena información como los nombres, lugares de nacimiento y relaciones de los miembros de la familia. Ancestral Quest utiliza esta información para vincular y clasificar información como Pedigree, Descendants, Family y Timeline view. Los archivos AQ se pueden abrir usando [Incline Software Ancestral Quest] (https://www.ancquest.com/index.htm).
+Un archivo con extensión .aq es un archivo de base de datos creado con la aplicación Ancestral Quest de Incline Software, LC. Almacena la información del árbol genealógico utilizando los datos genealógicos ingresados por las personas que utilizan la versión gratuita y premium del software. La base de datos almacena información como los nombres, lugares de nacimiento y relaciones de los miembros de la familia. Ancestral Quest utiliza esta información para vincular y clasificar información como Pedigree, Descendants, Family y Timeline view. Los archivos AQ se pueden abrir usando [Incline Software Ancestral Quest](https://www.ancquest.com/index.htm).
 
 ## Formato de archivo AQ - Más información
 
@@ -28,4 +28,3 @@ Los archivos AQ se guardan como archivos binarios y su formato de archivo intern
 ## Referencias
 
 * [Búsqueda ancestral](https://www.ancquest.com/index.htm)
-

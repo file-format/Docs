@@ -26,5 +26,4 @@ Soubory GSP jsou uloženy ve formátu webového souboru a lze je snadno zobrazit
 
 ## Reference
 
-* [Chyba při kopírování souborů e-mailových zpráv MSG v aplikaci Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or- příjemci)
-
+* [Chyba při kopírování souborů e-mailových zpráv MSG v aplikaci Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients)

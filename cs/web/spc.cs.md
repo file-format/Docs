@@ -20,10 +20,9 @@ Soubor s příponou .spc je soubor certifikátu digitálního zabezpečení vytv
 
 ## Formát souboru SPC – Další informace
 
-Soubory SPC se ukládají na disk jako binární soubory, které lze otevřít v libovolném textovém editoru, ale nejsou čitelné pro člověka. Ty jsou založeny na nejnovější verzi PKCS # 7, která je k dispozici [RFC 2315] (https://datatracker.ietf.org/doc/html/rfc2315).
+Soubory SPC se ukládají na disk jako binární soubory, které lze otevřít v libovolném textovém editoru, ale nejsou čitelné pro člověka. Ty jsou založeny na nejnovější verzi PKCS # 7, která je k dispozici [RFC 2315](https://datatracker.ietf.org/doc/html/rfc2315).
 
 ## Reference
 
 * [PKCS 7](https://en.wikipedia.org/wiki/PKCS_7)
 * [Reference SSP](https://scalate.github.io/scalate/documentation/ssp-reference.html)
-

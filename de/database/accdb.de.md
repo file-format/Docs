@@ -19,8 +19,7 @@
 
 ## Was ist eine ACCDB-Datei?
 
-Eine Datei mit der Erweiterung .accdb ist eine Microsoft Access 2007-Datenbankdatei, die Benutzerdaten in Tabellen speichert. Es unterstützt das Speichern
-benutzerdefinierte Formulare, SQL-Abfragen und andere Daten. ACCDB-Dateien ersetzten [MDB](/de/database/mdb/)-Dateien, nachdem Microsoft auf eine XML-basierte Dateistruktur umgestellt hatte. ACCDB-Dateien können weiterhin mit alter Kompatibilität in MDB konvertiert werden. ACCDB ist jedoch das inzwischen weit verbreitete Dateiformat für Access-Datenbanken. Microsoft unterstützte auch zusätzliche Funktionen im ACCDB-Format, wie z. B. die Möglichkeit, Dateianhänge, Binärdaten und mehrwertige Felder zu speichern.
+Eine Datei mit der Erweiterung .accdb ist eine Microsoft Access 2007-Datenbankdatei, die Benutzerdaten in Tabellen speichert. Es unterstützt das Speichern benutzerdefinierte Formulare, SQL-Abfragen und andere Daten. ACCDB-Dateien ersetzten [MDB](/de/database/mdb/)-Dateien, nachdem Microsoft auf eine XML-basierte Dateistruktur umgestellt hatte. ACCDB-Dateien können weiterhin mit alter Kompatibilität in MDB konvertiert werden. ACCDB ist jedoch das inzwischen weit verbreitete Dateiformat für Access-Datenbanken. Microsoft unterstützte auch zusätzliche Funktionen im ACCDB-Format, wie z. B. die Möglichkeit, Dateianhänge, Binärdaten und mehrwertige Felder zu speichern.
 
 ## ACCDB-Dateiformat
 
@@ -35,5 +34,4 @@ Ein Hex-Dump einer einfachen ACCDB-Datei legt nahe, dass es allgemeine Ähnlichk
 * [Access-Dateiformat](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41?redirectSourcePath=% 252fen-us%252farticle%252fIntroduction-to-the-Access-2007-file-format-8cf93630-0b68-4a40-a13c-7528b9f074b6&ui=en-US&rs=en-US&ad=US)
 * [Access 2016-Spezifikationen] (https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c?ui=en-us&rs=en-us&ad=us)
 * [Microsoft Jet-Datenbankmodul](https://en.wikipedia.org/wiki/Microsoft_Jet_Database_Engine)
-* [Welches Access-Dateiformat sollte ich verwenden?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617- be66f9070b41?ui=en-us&rs=en-us&ad=us)
-
+* [Welches Access-Dateiformat sollte ich verwenden?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41?ui=en-us&rs=en-us&ad=us)

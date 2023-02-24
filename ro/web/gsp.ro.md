@@ -26,5 +26,4 @@ Fișierele GSP sunt stocate în format de fișier web și sunt ușor de vizualiz
 
 ## Referințe
 
-* [Eroare când copiați fișiere de mesaje de e-mail MSG în Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or- destinatari)
-
+* [Eroare când copiați fișiere de mesaje de e-mail MSG în Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients)

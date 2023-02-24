@@ -37,5 +37,4 @@ FileMaker Pro データベースのデータは、次の手順を使用してス
 ## 参考文献
 
 * [以前のバージョンの FileMaker Pro ファイル形式を FMP12 ファイル形式に変換](https://fmhelp.filemaker.com/help/16/fmp/en/index.html#page/FMP_Help/converting-files.html)
-* [レコードをスナップショット リンク ファイルとして保存](https://fmhelp.filemaker.com/help/12/fmp/ja/html/import_export.17.5.html)
-
+* [レコードをスナップショット リンク ファイルとして保存](https://fmhelp.filemaker.com/help/12/fmp/en/html/import_export.17.5.html)

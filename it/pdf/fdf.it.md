@@ -36,6 +36,6 @@ Il [toolkit FDF](https://opensource.adobe.com/dc-acrobat-sdk-docs/) di Adobe ti 
 
 ## Riferimenti ##
 
-* [Supporto del formato FDF di Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for -acroforms.html)
+* [Supporto del formato FDF di Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
 * [Risorse per sviluppatori Adobe](https://opensource.adobe.com/dc-acrobat-sdk-docs/)
 

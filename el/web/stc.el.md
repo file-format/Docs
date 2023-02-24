@@ -29,5 +29,5 @@
 ## βιβλιογραφικές αναφορές
 
 - [Adobe Contribute - Wikipedia](https://en.wikipedia.org/wiki/Adobe_Contribute)
-- [Adobe Contribute](hhttps://help.adobe.com/archive/en_US/contribute/cs5/contribute_cs5_help.pdf)
+- [Adobe Contribute](https://help.adobe.com/archive/en_US/contribute/cs5/contribute_cs5_help.pdf)
 

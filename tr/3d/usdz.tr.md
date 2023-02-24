@@ -19,7 +19,7 @@
 
 ## USDZ dosyası nedir?
 
-.usdz içeren bir dosya, [USD](/tr/3d/usd/) (Evrensel Sahne Tanımı) dosya biçimi için sıkıştırılmamış ve şifrelenmemiş bir ZIP arşividir ve içine gömülü diğer biçimlerdeki (dokular ve animasyonlar gibi) dosyaları ve bunlar için proxy'leri içerir. arşivi açar ve paketi açmaya gerek kalmadan doğrudan USD çalışma zamanı ile çalıştırır. USDZ dosyaları, tasarımı bir paketin yeni Ar-seviyesi soyutlamasına dayanan paketlerdir. Usdz, IANA'ya kayıtlıdır ve medya türü adı modele ve alt tür adı vnd.usd+zip'e sahiptir ve ayrıntıları [IANA kayıt sayfasında](https://www.iana.org/assignments/media-) bulunabilir. türleri/model/vnd.usdz+zip).
+.usdz içeren bir dosya, [USD](/tr/3d/usd/) (Evrensel Sahne Tanımı) dosya biçimi için sıkıştırılmamış ve şifrelenmemiş bir ZIP arşividir ve içine gömülü diğer biçimlerdeki (dokular ve animasyonlar gibi) dosyaları ve bunlar için proxy'leri içerir. arşivi açar ve paketi açmaya gerek kalmadan doğrudan USD çalışma zamanı ile çalıştırır. USDZ dosyaları, tasarımı bir paketin yeni Ar-seviyesi soyutlamasına dayanan paketlerdir. Usdz, IANA'ya kayıtlıdır ve medya türü adı modele ve alt tür adı vnd.usd+zip'e sahiptir ve ayrıntıları [IANA kayıt sayfasında](https://www.iana.org/assignments/media-types/model/vnd.usdz+zip).
 
 ## USDZ Dosya Biçimi
 
@@ -41,9 +41,8 @@ USDZ paketleri, paket içindeki dosyaların düzenini gerektirir; her dosya içi
 ## USDZ dosyası indirme
 Usdz dosyaları diğer yüksek kaliteli görüntüler ve usd dosyalarıyla dolu olduğundan, daha fazla disk alanı kaplayabilirler. Burada indirmek için basit ve daha küçük bir USDZ örnek dosyası bulabilirsiniz:
 
-- [Örnek.usdz](../örnek.usdz)
+- [Örnek.usdz](../sample.usdz)
 
 ## Referanslar
 
 * [USDZ Dosya Biçimi Özellikleri](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
-

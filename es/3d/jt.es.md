@@ -45,7 +45,7 @@ File Header es el primer bloque en la jerarquía de datos del archivo JT. La inf
 
 El segmento TOC debe existir dentro de un archivo y contiene información de identificación y ubicación de todos los demás segmentos de datos. La ubicación real del segmento TOC se especifica en el campo Compensación TOC del encabezado del archivo. Cada segmento de datos direccionable individualmente está representado por una entrada TOC en un segmento TOC.
 
-### Segmento de datos ###
+### Segmento de datos
 
 El archivo JT define todos los datos almacenados dentro de un segmento de datos. Algunos segmentos de datos pueden comprimir todos los bytes de información que quedan dentro del segmento. Los segmentos de datos tienen la siguiente estructura:
 
@@ -64,14 +64,13 @@ La siguiente tabla describe diferentes tipos de segmentos de datos:
 |Segmento JT ULP|Con elementos para que los datos representen el límite geométrico semipreciso de una porción individual en formato JT ULP.
 |Segmento JT LWPA|Contiene un elemento que define datos analíticos para una parte en particular. LWPA encierra la colección de superficies analíticas en la definición b-rep de la pieza.
 
-## Compresión ##
+## Compresión
 
 Los requisitos de transmisión y almacenamiento de los modelos 3D son más exigentes, por lo que los archivos JT pueden beneficiarse de la compresión. Un modelo de datos JT puede estar compuesto por diferentes archivos que utilizan diferentes técnicas de compresión, pero el proceso de compresión es transparente para el usuario de datos JT.
 
 Hasta ahora, JT Open Toolkit (como estándar) y la compresión avanzada son dos técnicas de compresión utilizadas por los archivos JT. JT Open Toolkit emplea un algoritmo de compresión fácil y sin pérdidas, mientras que la compresión avanzada emplea una técnica de compresión más refinada y específica del dominio que conduce a una compresión de geometría con pérdidas. Las aplicaciones de cliente prefieren la compresión avanzada en lugar de usar la compresión estándar, ya que la compresión avanzada produce índices de compresión bastante altos. La compatibilidad con las aplicaciones de visualización de archivos JT ordinarias se mantiene mediante la provisión de compresión estándar. El formulario de compresión debe ser compatible con la versión del formato de archivo JT, que se puede ver cuando se abre un archivo JT con el editor de texto y se incluye dentro de la información del encabezado ASCII.
 
-## Referencias ##
+## Referencias
 
 * [Referencia de formato de archivo JT](https://www.plm.automation.siemens.com/en_us/Images/JT-v10-file-format-reference-rev-B_tcm1023-233786.pdf)
-* [JT (formato de visualización)](https://en.wikipedia.org/wiki/JT_(formato_de_visualización)#Modelo_de_datos)
-
+* [JT (formato de visualización)](https://en.wikipedia.org/wiki/JT_(visualization_format))

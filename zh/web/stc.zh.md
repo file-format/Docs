@@ -29,5 +29,5 @@ STC 文件的内部数据格式未知。但是，连接密钥是用密码加密�
 ## 参考
 
 - [Adobe 贡献 - 维基百科](https://en.wikipedia.org/wiki/Adobe_Contribute)
-- [Adobe 贡献](hhttps://help.adobe.com/archive/en_US/contribute/cs5/contribute_cs5_help.pdf)
+- [Adobe 贡献](https://help.adobe.com/archive/en_US/contribute/cs5/contribute_cs5_help.pdf)
 

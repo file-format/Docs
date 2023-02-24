@@ -19,7 +19,7 @@
 
 ## Apa itu file P6XML? ##
 
-Ekstensi file P6XML memiliki keterbacaan yang sangat baik, kemampuan beradaptasi, dan penggunaan luas yang menjadikannya format yang ideal. Primavera P6 Professional memiliki fungsionalitas untuk mengekspor dan mengimpor file [XER](/id/project-management/xer) dan file XML. XML adalah singkatan dari **Extensible Markup Language**. Format umum ini memungkinkan pengguna untuk berbagi informasi proyek antara database Primavera P6. Data proyek dapat dengan mudah disimpan dalam file teks melalui file XML; ini mempermudah berbagai program perangkat lunak untuk bertukar data. Data tersebut dapat dengan mudah dibagikan dan dikelola oleh pengguna Primavera P6.
+Ekstensi file P6XML memiliki keterbacaan yang sangat baik, kemampuan beradaptasi, dan penggunaan luas yang menjadikannya format yang ideal. Primavera P6 Professional memiliki fungsionalitas untuk mengekspor dan mengimpor file [XER](/id/project-management/xer/) dan file XML. XML adalah singkatan dari **Extensible Markup Language**. Format umum ini memungkinkan pengguna untuk berbagi informasi proyek antara database Primavera P6. Data proyek dapat dengan mudah disimpan dalam file teks melalui file XML; ini mempermudah berbagai program perangkat lunak untuk bertukar data. Data tersebut dapat dengan mudah dibagikan dan dikelola oleh pengguna Primavera P6.
 
 ## Keuntungan Format File P6XML ##
 
@@ -49,8 +49,6 @@ Berikut adalah beberapa langkah yang menjelaskan proses ekspor:
 * Lebih mudah untuk mengekspor banyak proyek ke satu file XML
 * Data global yang dialokasikan ke proyek diekspor
 * Lebih mudah untuk mengekspor file XML tanpa akses ke semua sumber daya
-  
-
 
 ## Masalah untuk Membuka file P6XML? ##
 
@@ -63,9 +61,7 @@ Beberapa masalah umum yang mungkin timbul dan menyebabkan kesalahan fungsi forma
 * Tidak ada hak akses di sistem untuk membuka file
 * Drive usang di sistem Anda
 * Ekstensi file diubah namanya
- 
 
 ## Referensi ##
 
-* [Oracle - P6 XML](https://docs.Oracle.com/cd/E80480_01/English/admin/p6_eppm_xml_import_guide/190894.htm)
-
+* [Oracle - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_import_guide/index.html)

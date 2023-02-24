@@ -19,7 +19,7 @@
 
 ## Ce este un fișier P6XML? ##
 
-Extensia de fișier P6XML are o lizibilitate excelentă, adaptabilitate și o utilizare largă, ceea ce o face formatul ideal. Primavera P6 Professional are funcționalitatea de a exporta și importa atât fișiere [XER](/ro/project-management/xer), cât și fișiere XML. XML înseamnă **Extensible Markup Language**. Acest format general permite utilizatorilor să partajeze informații despre proiect între bazele de date Primavera P6. Datele proiectului pot fi stocate cu ușurință într-un fișier text prin fișierul XML; acest lucru face lucrurile mai simple pentru numeroase programe software pentru a face schimb de date. Astfel de date pot fi partajate și gestionate cu ușurință de către utilizatorul Primavera P6.
+Extensia de fișier P6XML are o lizibilitate excelentă, adaptabilitate și o utilizare largă, ceea ce o face formatul ideal. Primavera P6 Professional are funcționalitatea de a exporta și importa atât fișiere [XER](/ro/project-management/xer/), cât și fișiere XML. XML înseamnă **Extensible Markup Language**. Acest format general permite utilizatorilor să partajeze informații despre proiect între bazele de date Primavera P6. Datele proiectului pot fi stocate cu ușurință într-un fișier text prin fișierul XML; acest lucru face lucrurile mai simple pentru numeroase programe software pentru a face schimb de date. Astfel de date pot fi partajate și gestionate cu ușurință de către utilizatorul Primavera P6.
 
 ## Avantajele unui format de fișier P6XML ##
 
@@ -49,8 +49,6 @@ Iată câțiva pași care descriu procesul de export:
 * Este convenabil să exportați numeroase proiecte într-un fișier XML
 * Datele globale care sunt alocate proiectului sunt exportate
 * Este convenabil să exportați fișiere XML fără a avea acces la toate resursele
-  
-
 
 ## Probleme la deschiderea unui fișier P6XML? ##
 
@@ -63,9 +61,8 @@ Unele probleme comune care pot apărea și pot cauza funcționarea defectuoasă 
 * Nu există drept de acces în sistem pentru a deschide fișierele
 * Unitate învechită în sistemul dvs
 * Extensia fișierului este redenumită
- 
+
 
 ## Referințe ##
 
-* [Oracle - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_eppm_xml_import_guide/190894.htm)
-
+* [Oracle - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_import_guide/index.html)

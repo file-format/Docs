@@ -33,6 +33,6 @@
 
 ## הפניות
 
-* [תמיכה בפורמט FDF מאת Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for -acroforms.html)
+* [תמיכה בפורמט FDF מאת Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
 * [משאבי מפתחים של Adobe](https://opensource.adobe.com/dc-acrobat-sdk-docs/)
 

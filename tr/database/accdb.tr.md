@@ -19,8 +19,7 @@
 
 ## ACCDB dosyası nedir?
 
-.accdb uzantılı bir dosya, kullanıcı verilerini tablolarda depolayan bir Microsoft Access 2007 veritabanı dosyasıdır. Depolamayı destekler
-özel formlar, SQL sorguları ve diğer veriler. ACCDB dosyaları, Microsoft XML tabanlı dosya yapısına geçtikten sonra [MDB](/tr/database/mdb/) dosyalarının yerini aldı. ACCDB dosyaları hala eski uyumlulukla MDB'ye dönüştürülebilir. Ancak, ACCDB şu anda yaygın olarak kullanılan Access veritabanı dosya biçimidir. Microsoft ayrıca dosya eklerini, ikili verileri ve çok değerli alan desteğini depolama olasılığı gibi ACCDB biçimindeki ek özellikleri de destekledi.
+.accdb uzantılı bir dosya, kullanıcı verilerini tablolarda depolayan bir Microsoft Access 2007 veritabanı dosyasıdır. Depolamayı destekler özel formlar, SQL sorguları ve diğer veriler. ACCDB dosyaları, Microsoft XML tabanlı dosya yapısına geçtikten sonra [MDB](/tr/database/mdb/) dosyalarının yerini aldı. ACCDB dosyaları hala eski uyumlulukla MDB'ye dönüştürülebilir. Ancak, ACCDB şu anda yaygın olarak kullanılan Access veritabanı dosya biçimidir. Microsoft ayrıca dosya eklerini, ikili verileri ve çok değerli alan desteğini depolama olasılığı gibi ACCDB biçimindeki ek özellikleri de destekledi.
 
 ## ACCDB Dosya Biçimi
 
@@ -35,5 +34,4 @@ Basit bir ACCDB dosyasının onaltılık dökümü, önceki MDB Biçim Ailesinin
 * [Erişim Dosyası Biçimi](https://support.microsoft.com/en-us/office/what-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41?redirectSourcePath=% 252fen-us%252farticle%252fAccess-2007-file-format-8cf93630-0b68-4a40-a13c-7528b9f074b6&ui=en-US&rs=en-US&ad=US)
 * [Erişim 2016 Spesifikasyonları](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c?ui=en-us&rs=en-us&ad=us)
 * [Microsoft Jet Veritabanı Motoru](https://en.wikipedia.org/wiki/Microsoft_Jet_Database_Engine)
-* [Hangi Access dosya biçimini kullanmalıyım?](https://support.microsoft.com/en-us/office/what-access-file-format-should-i-use-012d9ab3-d14c-479e-b617- be66f9070b41?ui=en-us&rs=en-us&ad=us)
-
+* [Hangi Access dosya biçimini kullanmalıyım?](https://support.microsoft.com/en-us/office/what-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41?ui=en-us&rs=en-us&ad=us)

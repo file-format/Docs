@@ -29,5 +29,5 @@ STC 파일의 내부 데이터 형식을 알 수 없습니다. 그러나 연결 
 ## 참고문헌
 
 - [Adobe Contribute - Wikipedia](https://en.wikipedia.org/wiki/Adobe_Contribute)
-- [어도비 기여](hhttps://help.adobe.com/archive/en_US/contribute/cs5/contribute_cs5_help.pdf)
+- [어도비 기여](https://help.adobe.com/archive/en_US/contribute/cs5/contribute_cs5_help.pdf)
 

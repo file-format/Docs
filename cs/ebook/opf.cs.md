@@ -28,6 +28,4 @@ Příponu souboru .opf lze kategorizovat do různých typů souborů. Může to 
 ## Reference ##
 
 * [Soubor OPF](https://www.lynda.com/InDesign-tutorials/OPF-file/2803422/2247530-4.html)
-* [Otevřít eKnihu](https://en.wikipedia.org/wiki/Otevřít_eKnihu)
-
-
+* [Otevřít eKnihu](https://en.wikipedia.org/wiki/Open_eBook)

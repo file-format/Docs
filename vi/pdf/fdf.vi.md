@@ -36,6 +36,6 @@ Có hai loại tệp FDF:
 
 ## Người giới thiệu ##
 
-* [Hỗ trợ định dạng FDF bởi Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for -acroforms.html)
+* [Hỗ trợ định dạng FDF bởi Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
 * [Tài nguyên dành cho nhà phát triển Adobe](https://opensource.adobe.com/dc-acrobat-sdk-docs/)
 

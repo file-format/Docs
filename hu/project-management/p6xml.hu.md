@@ -19,7 +19,7 @@
 
 ## Mi az a P6XML fájl? ##
 
-A P6XML fájlkiterjesztés kiváló olvashatósággal, alkalmazkodóképességgel és széleskörű felhasználási lehetőséggel rendelkezik, ami ideális formátummá teszi. A Primavera P6 Professional rendelkezik a [XER](/hu/project-management/xer) és az XML fájlok exportálására és importálására is. Az XML az **Extensible Markup Language** rövidítése. Ez az általános formátum lehetővé teszi a felhasználók számára a projektinformációk megosztását a Primavera P6 adatbázisok között. A projekt adatai könnyen tárolhatók szöveges fájlban az XML fájlon keresztül; ez számos szoftver számára egyszerűbbé teszi az adatcserét. Az ilyen adatokat a Primavera P6 felhasználó könnyen megoszthatja és kezelheti.
+A P6XML fájlkiterjesztés kiváló olvashatósággal, alkalmazkodóképességgel és széleskörű felhasználási lehetőséggel rendelkezik, ami ideális formátummá teszi. A Primavera P6 Professional rendelkezik a [XER](/hu/project-management/xer/) és az XML fájlok exportálására és importálására is. Az XML az **Extensible Markup Language** rövidítése. Ez az általános formátum lehetővé teszi a felhasználók számára a projektinformációk megosztását a Primavera P6 adatbázisok között. A projekt adatai könnyen tárolhatók szöveges fájlban az XML fájlon keresztül; ez számos szoftver számára egyszerűbbé teszi az adatcserét. Az ilyen adatokat a Primavera P6 felhasználó könnyen megoszthatja és kezelheti.
 
 ## A P6XML fájlformátum előnyei ##
 
@@ -49,8 +49,6 @@ A P6 Professional projektek és projektadatok P6XML-fájlba exportálásához ha
 * Kényelmes több projekt exportálása egyetlen XML-fájlba
 * A projekthez hozzárendelt globális adatok exportálásra kerülnek
 * Kényelmes XML-fájlok exportálása anélkül, hogy minden erőforráshoz hozzáférne
-  
-
 
 ## Problémái vannak a P6XML fájl megnyitásakor? ##
 
@@ -63,9 +61,7 @@ A következő néhány gyakori probléma, amely a P6XML formátum hibás működ
 * Nincs hozzáférési jog a rendszerben a fájlok megnyitásához
 * Elavult meghajtó a rendszerben
 * A fájl kiterjesztése átnevezve
- 
 
 ## Referenciák ##
 
-* [Oracle – P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_eppm_xml_import_guide/190894.htm)
-
+* [Oracle – P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_import_guide/index.html)

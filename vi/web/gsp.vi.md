@@ -26,5 +26,4 @@ Các tệp GSP được lưu trữ ở định dạng tệp web và có thể d�
 
 ## Người giới thiệu
 
-* [Lỗi khi bạn sao chép tệp tin email MSG trong Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or- người nhận)
-
+* [Lỗi khi bạn sao chép tệp tin email MSG trong Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients)

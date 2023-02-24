@@ -19,7 +19,7 @@
 
 ## Qu'est-ce qu'un fichier USDZ ?
 
-Un fichier avec .usdz est une archive ZIP non compressée et non cryptée pour le format de fichier [USD](/fr/3d/usd/) (Universal Scene Description) qui contient et proxies pour des fichiers d'autres formats (tels que des textures et des animations) intégrés dans l'archive et les exécute directement avec l'environnement d'exécution USD sans avoir besoin de déballer. Les fichiers USDZ sont des packages dont la conception est basée sur la nouvelle abstraction de niveau Ar d'un package. Usdz a été enregistré auprès de l'IANA et a un nom de type de support de modèle et un nom de sous-type de vnd.usd+zip et ses détails peuvent être trouvés sur [page d'enregistrement IANA] (https://www.iana.org/assignments/media- types/modèle/vnd.usdz+zip).
+Un fichier avec .usdz est une archive ZIP non compressée et non cryptée pour le format de fichier [USD](/fr/3d/usd/) (Universal Scene Description) qui contient et proxies pour des fichiers d'autres formats (tels que des textures et des animations) intégrés dans l'archive et les exécute directement avec l'environnement d'exécution USD sans avoir besoin de déballer. Les fichiers USDZ sont des packages dont la conception est basée sur la nouvelle abstraction de niveau Ar d'un package. Usdz a été enregistré auprès de l'IANA et a un nom de type de support de modèle et un nom de sous-type de vnd.usd+zip et ses détails peuvent être trouvés sur page d'enregistrement [IANA](https://www.iana.org/assignments/media-types/model/vnd.usdz+zip).
 
 ## Format de fichier USDZ
 
@@ -41,9 +41,8 @@ Les packages USDZ nécessitent la disposition des fichiers dans le package, c'es
 ## Téléchargement du fichier USDZ
 Étant donné que les fichiers usdz contiennent d'autres images et fichiers usd de haute qualité, ils peuvent occuper une plus grande capacité de stockage sur le disque. Vous trouverez ici un fichier d'exemple USDZ simple et plus petit à télécharger :
 
-- [Échantillon.usdz](../échantillon.usdz)
+- [Échantillon.usdz](../sample.usdz)
 
 ## Références
 
 * [Spécifications du format de fichier USDZ] (https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
-

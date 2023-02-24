@@ -19,7 +19,7 @@
 
 ## Che cos'è un file P6XML? ##
 
-L'estensione del file P6XML ha un'eccellente leggibilità, adattabilità e ampio utilizzo che lo rendono il formato ideale. Primavera P6 Professional ha la funzionalità per esportare e importare sia file [XER](/it/project-management/xer) che file XML. XML sta per **Extensible Markup Language**. Questo formato generale consente agli utenti di condividere le informazioni sul progetto tra i database del Primavera P6. I dati del progetto possono essere facilmente archiviati in un file di testo tramite il file XML; questo rende le cose più semplici per lo scambio di dati di numerosi programmi software. Tali dati possono essere facilmente condivisi e gestiti dall'utente Primavera P6.
+L'estensione del file P6XML ha un'eccellente leggibilità, adattabilità e ampio utilizzo che lo rendono il formato ideale. Primavera P6 Professional ha la funzionalità per esportare e importare sia file [XER](/it/project-management/xer/) che file XML. XML sta per **Extensible Markup Language**. Questo formato generale consente agli utenti di condividere le informazioni sul progetto tra i database del Primavera P6. I dati del progetto possono essere facilmente archiviati in un file di testo tramite il file XML; questo rende le cose più semplici per lo scambio di dati di numerosi programmi software. Tali dati possono essere facilmente condivisi e gestiti dall'utente Primavera P6.
 
 ## Vantaggi di un formato file P6XML ##
 
@@ -49,8 +49,6 @@ Di seguito sono riportati alcuni passaggi che descrivono il processo di esportaz
 * È conveniente esportare numerosi progetti in un file XML
 * Vengono esportati i dati globali allocati al progetto
 * È conveniente esportare file XML senza dover accedere a tutte le risorse
-  
-
 
 ## Problemi per aprire un file P6XML? ##
 
@@ -63,9 +61,8 @@ Alcuni problemi comuni che possono sorgere e causare il malfunzionamento del for
 * Nessun diritto di accesso nel sistema per aprire i file
 * Unità obsoleta nel tuo sistema
 * L'estensione del file viene rinominata
- 
+
 
 ## Riferimenti ##
 
-* [Oracle - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_eppm_xml_import_guide/190894.htm)
-
+* [Oracle - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_import_guide/index.html)

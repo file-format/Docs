@@ -27,10 +27,9 @@ Nem sok információ áll rendelkezésre az FM-fájlok belső fájlformátumár�
 
 ## Hogyan lehet a régebbi FileMaker Pro fájlokat .fmp12 fájlformátumra konvertálni?
 
-A FileMaker Pro közvetlenül konvertálja az FM-et .fmp12 fájlformátumba. Lépésről lépésre szóló útmutató [FM-fájlok .fmp12 formátumba konvertálásához](https://support.claris.com/s/article/Converting-older-FileMaker-Pro-files-to-the-fmp12-file-format -1503693002275?language=en_US) hivatkozhat erre a célra.
+A FileMaker Pro közvetlenül konvertálja az FM-et .fmp12 fájlformátumba. Lépésről lépésre szóló útmutató [FM-fájlok .fmp12 formátumba konvertálásához](https://support.claris.com/s/article/Converting-older-FileMaker-Pro-files-to-the-fmp12-file-format-1503693002275?language=en_US) hivatkozhat erre a célra.
 
 ## Hivatkozások
 
 * [FileMaker Pro](https://www.claris.com/filemaker/pro/)
 * [PRONOM – FM fájlformátum](https://www.nationalarchives.gov.uk/PRONOM/fmt/1059)
-

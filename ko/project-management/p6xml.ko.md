@@ -19,7 +19,7 @@
 
 ## .P6XML 파일이란? ##
 
-P6XML 파일 확장자는 가독성, 적응성 및 폭넓은 사용이 가능하여 이상적인 형식입니다. Primavera P6 Professional에는 [XER](/ko/project-management/xer) 파일과 XML 파일을 모두 내보내고 가져오는 기능이 있습니다. XML은 **Extensible Markup Language**를 나타냅니다. 이 일반 형식을 통해 사용자는 Primavera P6 데이터베이스 간에 프로젝트 정보를 공유할 수 있습니다. 프로젝트 데이터는 XML 파일을 통해 텍스트 파일에 쉽게 저장할 수 있습니다. 이것은 수많은 소프트웨어 프로그램이 데이터를 교환하는 것을 더 간단하게 만듭니다. 이러한 데이터는 Primavera P6 사용자가 쉽게 공유하고 관리할 수 있습니다.
+P6XML 파일 확장자는 가독성, 적응성 및 폭넓은 사용이 가능하여 이상적인 형식입니다. Primavera P6 Professional에는 [XER](/ko/project-management/xer/) 파일과 XML 파일을 모두 내보내고 가져오는 기능이 있습니다. XML은 **Extensible Markup Language** 를 나타냅니다. 이 일반 형식을 통해 사용자는 Primavera P6 데이터베이스 간에 프로젝트 정보를 공유할 수 있습니다. 프로젝트 데이터는 XML 파일을 통해 텍스트 파일에 쉽게 저장할 수 있습니다. 이것은 수많은 소프트웨어 프로그램이 데이터를 교환하는 것을 더 간단하게 만듭니다. 이러한 데이터는 Primavera P6 사용자가 쉽게 공유하고 관리할 수 있습니다.
 
 ## P6XML 파일 형식의 장점 ##
 
@@ -49,7 +49,7 @@ P6 Professional 프로젝트 및 프로젝트 데이터를 P6XML 파일로 내�
 * 여러 프로젝트를 하나의 XML 파일로 내보내는 것이 편리합니다.
 * 프로젝트에 할당된 글로벌 데이터 내보내기
 * 모든 리소스에 대한 승인 없이 XML 파일을 내보내는 것이 편리합니다.
-  
+
 
 
 ## P6XML 파일을 여는 데 문제가 있습니까? ##
@@ -63,9 +63,8 @@ P6XML 형식의 오작동으로 인해 발생할 수 있는 몇 가지 일반적
 * 시스템에 파일을 열 수 있는 액세스 권한이 없습니다.
 * 시스템의 오래된 드라이브
 * 파일 확장자의 이름이 변경되었습니다.
- 
+
 
 ## 참조 ##
 
-* [오라클 - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_eppm_xml_import_guide/190894.htm)
-
+* [오라클 - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_import_guide/index.html)

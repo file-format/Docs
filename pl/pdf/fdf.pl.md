@@ -36,6 +36,6 @@ Istnieją dwa rodzaje plików FDF:
 
 ## Bibliografia ##
 
-* [Obsługa formatu FDF przez program Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for -acroforms.html)
+* [Obsługa formatu FDF przez program Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
 * [Zasoby Adobe dla programistów](https://opensource.adobe.com/dc-acrobat-sdk-docs/)
 

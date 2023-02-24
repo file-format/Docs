@@ -27,10 +27,9 @@
 
 ## كيفية تحويل ملفات FileMaker Pro القديمة إلى تنسيق ملف .fmp12؟
 
-يمكن لبرنامج FileMaker Pro تحويل FM مباشرة إلى تنسيق ملف fmp12. دليل خطوة بخطوة لـ [تحويل ملفات FM إلى .fmp12] (https://support.claris.com/s/article/Converting-older-FileMaker-Pro-files-to-the-fmp12-file-format -1503693002275؟ language = en_US) لهذا الغرض.
+يمكن لبرنامج FileMaker Pro تحويل FM مباشرة إلى تنسيق ملف fmp12. دليل خطوة بخطوة لـ [تحويل ملفات FM إلى .fmp12] (https://support.claris.com/s/article/Converting-older-FileMaker-Pro-files-to-the-fmp12-file-format-1503693002275؟ language = en_US) لهذا الغرض.
 
 ## مراجع
 
 * [FileMaker Pro] (https://www.claris.com/filemaker/pro/)
 * [PRONOM - FM File Format] (https://www.nationalarchives.gov.uk/PRONOM/fmt/1059)
-

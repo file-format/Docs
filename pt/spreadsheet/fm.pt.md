@@ -27,10 +27,9 @@ Não há muita informação disponível sobre o formato de arquivo interno e a e
 
 ## Como converter arquivos antigos do FileMaker Pro para o formato de arquivo .fmp12?
 
-O FileMaker Pro pode converter diretamente o formato de arquivo FM para .fmp12. Um guia passo a passo para [converter arquivos FM para .fmp12](https://support.claris.com/s/article/Converting-older-FileMaker-Pro-files-to-the-fmp12-file-format -1503693002275?language=en_US) podem ser referenciados para esta finalidade.
+O FileMaker Pro pode converter diretamente o formato de arquivo FM para .fmp12. Um guia passo a passo para [converter arquivos FM para .fmp12](https://support.claris.com/s/article/Converting-older-FileMaker-Pro-files-to-the-fmp12-file-format-1503693002275?language=en_US) podem ser referenciados para esta finalidade.
 
 ## Referências
 
 * [FileMaker Pro](https://www.claris.com/filemaker/pro/)
 * [PRONOM - Formato de arquivo FM](https://www.nationalarchives.gov.uk/PRONOM/fmt/1059)
-

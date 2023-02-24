@@ -36,6 +36,6 @@ Az Adobe [FDF-eszközkészletével](https://opensource.adobe.com/dc-acrobat-sdk-
 
 ## Referenciák ##
 
-* [FDF formátum támogatás az Acrobattól](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for -acroforms.html)
+* [FDF formátum támogatás az Acrobattól](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
 * [Adobe fejlesztői források](https://opensource.adobe.com/dc-acrobat-sdk-docs/)
 

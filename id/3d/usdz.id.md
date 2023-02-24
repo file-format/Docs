@@ -19,7 +19,7 @@
 
 ## Apa itu file USDZ?
 
-File dengan .usdz adalah arsip ZIP yang tidak terkompresi dan tidak terenkripsi untuk format file [USD](/id/3d/usd/) (Universal Scene Description) yang berisi dan proksi untuk file dengan format lain (seperti tekstur, dan animasi) yang disematkan di dalamnya arsip dan menjalankannya langsung dengan run-time USD tanpa perlu membongkar. File USDZ adalah paket yang desainnya didasarkan pada abstraksi level-Ar baru dari sebuah paket. Usdz terdaftar di IANA dan memiliki nama jenis media model dan nama subtipe vnd.usd+zip dan detailnya dapat ditemukan di [halaman pendaftaran IANA](https://www.iana.org/assignments/media- jenis/model/vnd.usdz+zip).
+File dengan .usdz adalah arsip ZIP yang tidak terkompresi dan tidak terenkripsi untuk format file [USD](/id/3d/usd/) (Universal Scene Description) yang berisi dan proksi untuk file dengan format lain (seperti tekstur, dan animasi) yang disematkan di dalamnya arsip dan menjalankannya langsung dengan run-time USD tanpa perlu membongkar. File USDZ adalah paket yang desainnya didasarkan pada abstraksi level-Ar baru dari sebuah paket. Usdz terdaftar di IANA dan memiliki nama jenis media model dan nama subtipe vnd.usd+zip dan detailnya dapat ditemukan di [halaman pendaftaran IANA](https://www.iana.org/assignments/media-types/model/vnd.usdz+zip).
 
 ## Format File USDZ
 
@@ -46,4 +46,3 @@ Karena file usdz dikemas dengan file gambar dan usd berkualitas tinggi lainnya, 
 ## Referensi
 
 * [Spesifikasi Format File USDZ](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
-

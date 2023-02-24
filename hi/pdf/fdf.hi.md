@@ -36,6 +36,6 @@ Adobe का [FDF टूलकिट](https://opensource.adobe.com/dc-acrobat-sd
 
 ## संदर्भ ##
 
-* [एक्रोबेट द्वारा एफडीएफ प्रारूप समर्थन](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for -acroforms.html)
+* [एक्रोबेट द्वारा एफडीएफ प्रारूप समर्थन](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
 * [एडोब डेवलपर संसाधन](https://opensource.adobe.com/dc-acrobat-sdk-docs/)
 

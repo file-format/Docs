@@ -33,6 +33,6 @@ XFDF-filer sparas i XML-filformat som är ett universellt format som används f�
 
 ## Referenser
 
-* [FDF Format Support by Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for -acroforms.html)
+* [FDF Format Support by Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
 * [Adobe Developer Resources](https://opensource.adobe.com/dc-acrobat-sdk-docs/)
 

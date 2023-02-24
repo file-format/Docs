@@ -26,5 +26,4 @@ File GSP disimpan dalam format file web dan mudah dilihat dengan klien email sep
 
 ## Referensi
 
-* [Kesalahan saat Anda menyalin file pesan email MSG di Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or- penerima)
-
+* [Kesalahan saat Anda menyalin file pesan email MSG di Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients)

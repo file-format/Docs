@@ -33,6 +33,6 @@ Soubory XFDF se ukládají ve formátu XML, což je univerzální formát použ�
 
 ## Reference
 
-* [Podpora formátu FDF od společnosti Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for -acroforms.html)
+* [Podpora formátu FDF od společnosti Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
 * [Zdroje pro vývojáře Adobe](https://opensource.adobe.com/dc-acrobat-sdk-docs/)
 

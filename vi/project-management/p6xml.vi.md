@@ -19,7 +19,7 @@
 
 ## Tệp P6XML là gì? ##
 
-Phần mở rộng tệp P6XML có khả năng đọc, khả năng thích ứng tuyệt vời và khả năng sử dụng rộng rãi khiến nó trở thành định dạng lý tưởng. Primavera P6 Professional có chức năng xuất và nhập cả tệp [XER](/vi/project-manager/xer) và tệp XML. XML là viết tắt của **Ngôn ngữ đánh dấu mở rộng**. Định dạng chung này cho phép người dùng chia sẻ thông tin dự án giữa các cơ sở dữ liệu Primavera P6. Dữ liệu dự án có thể dễ dàng được lưu trữ trong tệp văn bản thông qua tệp XML; điều này làm cho mọi thứ trở nên đơn giản hơn đối với nhiều chương trình phần mềm để trao đổi dữ liệu. Người dùng Primavera P6 có thể dễ dàng chia sẻ và quản lý những dữ liệu này.
+Phần mở rộng tệp P6XML có khả năng đọc, khả năng thích ứng tuyệt vời và khả năng sử dụng rộng rãi khiến nó trở thành định dạng lý tưởng. Primavera P6 Professional có chức năng xuất và nhập cả tệp [XER](/vi/project-manager/xer/) và tệp XML. XML là viết tắt của **Ngôn ngữ đánh dấu mở rộng**. Định dạng chung này cho phép người dùng chia sẻ thông tin dự án giữa các cơ sở dữ liệu Primavera P6. Dữ liệu dự án có thể dễ dàng được lưu trữ trong tệp văn bản thông qua tệp XML; điều này làm cho mọi thứ trở nên đơn giản hơn đối với nhiều chương trình phần mềm để trao đổi dữ liệu. Người dùng Primavera P6 có thể dễ dàng chia sẻ và quản lý những dữ liệu này.
 
 ## Ưu điểm của Định dạng Tệp P6XML ##
 
@@ -34,7 +34,7 @@ Phần mở rộng tệp P6XML có khả năng đọc, khả năng thích ứng 
 
 Dưới đây là một số bước mô tả quy trình xuất:
 
-*Mở hàng mong muốn dự án Primavera P6
+* Mở hàng mong muốn dự án Primavera P6
 * Sau đó, chọn Xuất trên tab Tệp
 * Chọn "Primavera P6 – (XML)". Sau đó, nhấp vào Tiếp theo
 * Nhấp đúp chuột vào dự án mà bạn sẽ xuất
@@ -49,7 +49,7 @@ Dưới đây là một số bước mô tả quy trình xuất:
 * Thật thuận tiện khi xuất nhiều dự án sang một tệp XML
 * Dữ liệu toàn cầu được phân bổ cho dự án được xuất
 * Thật thuận tiện khi xuất các tệp XML mà không cần truy cập vào tất cả các tài nguyên
-  
+
 
 
 ## Sự cố khi mở tệp P6XML? ##
@@ -63,9 +63,8 @@ Một số vấn đề phổ biến có thể phát sinh và khiến định d�
 * Không có quyền truy cập ngay trong hệ thống để mở tệp
 * Ổ đĩa lỗi thời trong hệ thống của bạn
 * Phần mở rộng của tệp được đổi tên
- 
+
 
 ## Người giới thiệu ##
 
-* [Oracle - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_eppm_xml_import_guide/190894.htm)
-
+* [Oracle - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_import_guide/index.html)

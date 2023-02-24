@@ -33,6 +33,6 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Υποστήριξη μορφής FDF από την Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for -acroforms.html)
+* [Υποστήριξη μορφής FDF από την Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
 * [Πόροι προγραμματιστών Adobe](https://opensource.adobe.com/dc-acrobat-sdk-docs/)
 

@@ -36,6 +36,6 @@ FDF هو تنسيق نص عادي ويتم تضمينه كجزء من [معيا�
 
 ## مراجع ##
 
-* [دعم تنسيق FDF بواسطة Acrobat] (https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for -acroforms.html)
+* [دعم تنسيق FDF بواسطة Acrobat] (https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
 * [Adobe Developer Resources] (https://opensource.adobe.com/dc-acrobat-sdk-docs/)
 

@@ -19,7 +19,7 @@
 
 ## P6XML dosyası nedir? ##
 
-P6XML dosya uzantısı, onu ideal format yapan mükemmel okunabilirlik, uyarlanabilirlik ve geniş kullanıma sahiptir. Primavera P6 Professional, hem [XER](/tr/project-management/xer) dosyalarını hem de XML dosyalarını dışa ve içe aktarma işlevine sahiptir. XML, **Genişletilebilir İşaretleme Dili** anlamına gelir. Bu genel biçim, kullanıcıların proje bilgilerini Primavera P6 veritabanları arasında paylaşmasına izin verir. Proje verileri, XML dosyası aracılığıyla kolayca bir metin dosyasında saklanabilir; bu, çok sayıda yazılım programının verileri değiş tokuş etmesini kolaylaştırır. Bu tür veriler, Primavera P6 kullanıcısı tarafından kolayca paylaşılabilir ve yönetilebilir.
+P6XML dosya uzantısı, onu ideal format yapan mükemmel okunabilirlik, uyarlanabilirlik ve geniş kullanıma sahiptir. Primavera P6 Professional, hem [XER](/tr/project-management/xer/) dosyalarını hem de XML dosyalarını dışa ve içe aktarma işlevine sahiptir. XML, **Genişletilebilir İşaretleme Dili** anlamına gelir. Bu genel biçim, kullanıcıların proje bilgilerini Primavera P6 veritabanları arasında paylaşmasına izin verir. Proje verileri, XML dosyası aracılığıyla kolayca bir metin dosyasında saklanabilir; bu, çok sayıda yazılım programının verileri değiş tokuş etmesini kolaylaştırır. Bu tür veriler, Primavera P6 kullanıcısı tarafından kolayca paylaşılabilir ve yönetilebilir.
 
 ## P6XML Dosya Formatının Avantajları ##
 
@@ -49,7 +49,7 @@ Dışa aktarma sürecini açıklayan bazı adımlar şunlardır:
 * Çok sayıda projeyi tek bir XML dosyasına aktarmak uygundur
 * Projeye tahsis edilen global veriler dışa aktarılır
 * XML dosyalarını tüm kaynaklara izin vermeden dışa aktarmak uygundur
-  
+
 
 
 ## P6XML dosyasını açarken sorun mu yaşıyorsunuz? ##
@@ -63,9 +63,8 @@ Ortaya çıkabilecek ve P6XML biçiminin hatalı çalışmasına neden olabilece
 * Dosyaları açmak için sistemde erişim hakkı yok
 * Sisteminizdeki eski sürücü
 * Dosyanın uzantısı yeniden adlandırıldı
- 
+
 
 ## Referanslar ##
 
-* [Oracle - P6 XML](https://docs.Oracle.com/cd/E80480_01/English/admin/p6_eppm_xml_import_guide/190894.htm)
-
+* [Oracle - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_import_guide/index.html)

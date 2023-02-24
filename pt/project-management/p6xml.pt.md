@@ -19,7 +19,7 @@
 
 ## O que é um arquivo P6XML? ##
 
-A extensão de arquivo P6XML possui excelente legibilidade, adaptabilidade e amplo uso que o tornam o formato ideal. O Primavera P6 Professional tem a funcionalidade de exportar e importar arquivos [XER](/pt/project-management/xer) e arquivos XML. XML significa **Extensible Markup Language**. Este formato geral permite que os usuários compartilhem informações do projeto entre os bancos de dados do Primavera P6. Os dados do projeto podem ser facilmente armazenados em um arquivo de texto através do arquivo XML; isso torna as coisas mais simples para vários programas de software trocarem os dados. Esses dados podem ser facilmente compartilhados e gerenciados pelo usuário do Primavera P6.
+A extensão de arquivo P6XML possui excelente legibilidade, adaptabilidade e amplo uso que o tornam o formato ideal. O Primavera P6 Professional tem a funcionalidade de exportar e importar arquivos [XER](/pt/project-management/xer/) e arquivos XML. XML significa **Extensible Markup Language**. Este formato geral permite que os usuários compartilhem informações do projeto entre os bancos de dados do Primavera P6. Os dados do projeto podem ser facilmente armazenados em um arquivo de texto através do arquivo XML; isso torna as coisas mais simples para vários programas de software trocarem os dados. Esses dados podem ser facilmente compartilhados e gerenciados pelo usuário do Primavera P6.
 
 ## Vantagens de um formato de arquivo P6XML ##
 
@@ -49,7 +49,7 @@ Aqui estão algumas etapas que descrevem o processo de exportação:
 * É conveniente exportar vários projetos para um arquivo XML
 * Os dados globais alocados ao projeto são exportados
 * É conveniente exportar arquivos XML sem ter acesso a todos os recursos
-  
+
 
 
 ## Problemas para abrir um arquivo P6XML? ##
@@ -63,9 +63,8 @@ Alguns problemas comuns que podem surgir e causar mau funcionamento do formato P
 * Sem direito de acesso no sistema para abrir os arquivos
 * Unidade desatualizada em seu sistema
 * A extensão do arquivo é renomeada
- 
+
 
 ## Referências ##
 
-* [Oracle - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_eppm_xml_import_guide/190894.htm)
-
+* [Oracle - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_import_guide/index.html)

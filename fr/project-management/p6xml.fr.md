@@ -19,7 +19,7 @@
 
 ## Qu'est-ce qu'un fichier P6XML ? ##
 
-L'extension de fichier P6XML a une excellente lisibilité, une adaptabilité et une large utilisation qui en font le format idéal. Primavera P6 Professional a la fonctionnalité d'exporter et d'importer des fichiers [XER](/fr/project-management/xer) et des fichiers XML. XML signifie **Extensible Markup Language**. Ce format général permet aux utilisateurs de partager des informations sur le projet entre les bases de données Primavera P6. Les données du projet peuvent facilement être stockées dans un fichier texte via le fichier XML ; cela simplifie les choses pour que de nombreux logiciels échangent les données. Ces données peuvent être facilement partagées et gérées par l'utilisateur Primavera P6.
+L'extension de fichier P6XML a une excellente lisibilité, une adaptabilité et une large utilisation qui en font le format idéal. Primavera P6 Professional a la fonctionnalité d'exporter et d'importer des fichiers [XER](/fr/project-management/xer/) et des fichiers XML. XML signifie **Extensible Markup Language**. Ce format général permet aux utilisateurs de partager des informations sur le projet entre les bases de données Primavera P6. Les données du projet peuvent facilement être stockées dans un fichier texte via le fichier XML ; cela simplifie les choses pour que de nombreux logiciels échangent les données. Ces données peuvent être facilement partagées et gérées par l'utilisateur Primavera P6.
 
 ## Avantages d'un format de fichier P6XML ##
 
@@ -49,7 +49,7 @@ Voici quelques étapes décrivant le processus d'exportation :
 * Il est pratique d'exporter de nombreux projets vers un seul fichier XML
 * Les données globales affectées au projet sont exportées
 * Il est pratique d'exporter des fichiers XML sans avoir accès à toutes les ressources
-  
+
 
 
 ## Des problèmes pour ouvrir un fichier P6XML ? ##
@@ -63,9 +63,8 @@ Certains problèmes courants pouvant survenir et entraîner un dysfonctionnement
 * Aucun droit d'accès dans le système pour ouvrir les fichiers
 * Lecteur obsolète dans votre système
 * L'extension du fichier est renommée
- 
+
 
 ## Références ##
 
-* [Oracle - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_eppm_xml_import_guide/190894.htm)
-
+* [Oracle - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_import_guide/index.html)

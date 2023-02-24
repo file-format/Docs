@@ -19,7 +19,7 @@
 
 ## O que é um arquivo USDZ?
 
-Um arquivo com .usdz é um arquivo ZIP descompactado e não criptografado para o formato de arquivo [USD](/pt/3d/usd/) (Universal Scene Description) que contém e proxies para arquivos de outros formatos (como texturas e animações) incorporados o arquivo e os executa diretamente com o tempo de execução do USD sem a necessidade de descompactar. Os arquivos USDZ são pacotes cujo design é baseado na nova abstração de nível Ar de um pacote. Usdz foi registrado na IANA e tem o nome do tipo de mídia do modelo e um nome do subtipo vnd.usd+zip e seus detalhes podem ser encontrados na [página de registro da IANA](https://www.iana.org/assignments/media- types/model/vnd.usdz+zip).
+Um arquivo com .usdz é um arquivo ZIP descompactado e não criptografado para o formato de arquivo [USD](/pt/3d/usd/) (Universal Scene Description) que contém e proxies para arquivos de outros formatos (como texturas e animações) incorporados o arquivo e os executa diretamente com o tempo de execução do USD sem a necessidade de descompactar. Os arquivos USDZ são pacotes cujo design é baseado na nova abstração de nível Ar de um pacote. Usdz foi registrado na IANA e tem o nome do tipo de mídia do modelo e um nome do subtipo vnd.usd+zip e seus detalhes podem ser encontrados na [página de registro da IANA](https://www.iana.org/assignments/media-types/model/vnd.usdz+zip).
 
 ## Formato de arquivo USDZ
 
@@ -41,9 +41,8 @@ Os pacotes USDZ exigem que o layout dos arquivos dentro do pacote seja que os da
 ## Download do arquivo USDZ
 Como os arquivos usdz são embalados com outras imagens de alta qualidade e arquivos usd, eles podem ocupar mais espaço de armazenamento em disco. Aqui você pode encontrar um arquivo de exemplo USDZ simples e menor para download:
 
-- [Amostra.usdz](../amostra.usdz)
+- [Amostra.usdz](../sample.usdz)
 
 ## Referências
 
 * [Especificações de formato de arquivo USDZ](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
-

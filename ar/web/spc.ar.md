@@ -20,10 +20,9 @@ lastmod: 2021-09-30
 
 ## تنسيق ملف SPC - مزيد من المعلومات
 
-يتم حفظ ملفات SPC على القرص كملفات ثنائية يمكن فتحها في أي محرر نصوص ولكنها ليست قابلة للقراءة البشرية. تستند هذه إلى أحدث إصدار من PKCS # 7 المتوفر [RFC 2315] (https://datatracker.ietf.org/doc/html/rfc2315).
+يتم حفظ ملفات SPC على القرص كملفات ثنائية يمكن فتحها في أي محرر نصوص ولكنها ليست قابلة للقراءة البشرية. تستند هذه إلى أحدث إصدار من PKCS # 7 المتوفر [RFC 2315](https://datatracker.ietf.org/doc/html/rfc2315).
 
 ## مراجع
 
 * [PKCS 7] (https://en.wikipedia.org/wiki/PKCS_7)
 * [مرجع SSP] (https://scalate.github.io/scalate/documentation/ssp-reference.html)
-

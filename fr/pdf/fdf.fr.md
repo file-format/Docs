@@ -36,6 +36,5 @@ La [boîte à outils FDF](https://opensource.adobe.com/dc-acrobat-sdk-docs/) d'A
 
 ## Références ##
 
-* [Prise en charge du format FDF par Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for -acroforms.html)
+* [Prise en charge du format FDF par Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
 * [Ressources pour les développeurs Adobe](https://opensource.adobe.com/dc-acrobat-sdk-docs/)
-

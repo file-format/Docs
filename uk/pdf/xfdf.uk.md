@@ -33,6 +33,6 @@
 
 ## Список літератури
 
-* [Підтримка формату FDF від Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for -acroforms.html)
+* [Підтримка формату FDF від Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
 * [Ресурси для розробників Adobe](https://opensource.adobe.com/dc-acrobat-sdk-docs/)
 

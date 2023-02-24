@@ -29,5 +29,5 @@ STC ファイルの内部データ形式は不明です。ただし、接続キ�
 ## 参考文献
 
 - [Adobe Contribute - ウィキペディア](https://en.wikipedia.org/wiki/Adobe_Contribute)
-- [Adobe Contribute](hhttps://help.adobe.com/archive/en_US/contribute/cs5/contribute_cs5_help.pdf)
+- [Adobe Contribute](https://help.adobe.com/archive/en_US/contribute/cs5/contribute_cs5_help.pdf)
 

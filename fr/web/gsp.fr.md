@@ -26,5 +26,4 @@ Les fichiers GSP sont stockés au format de fichier Web et sont facilement consu
 
 ## Références
 
-* [Erreur lors de la copie des fichiers de messages électroniques MSG dans Outlook] (https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or- destinataires)
-
+* [Erreur lors de la copie des fichiers de messages électroniques MSG dans Outlook] (https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients)

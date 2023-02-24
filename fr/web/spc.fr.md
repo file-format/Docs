@@ -20,10 +20,9 @@ Un fichier avec l'extension .spc est un fichier de certificat de sécurité num�
 
 ## Format de fichier SPC - Plus d'informations
 
-Les fichiers SPC sont enregistrés sur le disque sous forme de fichiers binaires qui peuvent être ouverts dans n'importe quel éditeur de texte mais ne sont pas lisibles par l'homme. Ceux-ci sont basés sur la dernière version de PKCS # 7 qui est disponible [RFC 2315] (https://datatracker.ietf.org/doc/html/rfc2315).
+Les fichiers SPC sont enregistrés sur le disque sous forme de fichiers binaires qui peuvent être ouverts dans n'importe quel éditeur de texte mais ne sont pas lisibles par l'homme. Ceux-ci sont basés sur la dernière version de PKCS # 7 qui est disponible [RFC 2315](https://datatracker.ietf.org/doc/html/rfc2315).
 
 ## Références
 
 * [PKCS 7] (https://en.wikipedia.org/wiki/PKCS_7)
 * [Référence SSP](https://scalate.github.io/scalate/documentation/ssp-reference.html)
-

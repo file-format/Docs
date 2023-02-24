@@ -36,6 +36,6 @@ FDF เป็นรูปแบบข้อความล้วนและร�
 
 ## อ้างอิง ##
 
-* [รองรับรูปแบบ FDF โดย Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for -acroforms.html)
+* [รองรับรูปแบบ FDF โดย Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
 * [แหล่งข้อมูลสำหรับนักพัฒนาซอฟต์แวร์ของ Adobe](https://opensource.adobe.com/dc-acrobat-sdk-docs/)
 

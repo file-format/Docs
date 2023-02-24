@@ -26,5 +26,4 @@
 
 ## הפניות
 
-* [שגיאה בעת העתקת קבצי הודעות דוא"ל MSG ב-Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or- נמענים)
-
+* [שגיאה בעת העתקת קבצי הודעות דוא"ל MSG ב-Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients)

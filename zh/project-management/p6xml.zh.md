@@ -19,7 +19,7 @@
 
 ## 什么是 P6XML 文件？ ##
 
-P6XML 文件扩展名具有出色的可读性、适应性和广泛的用途，使其成为理想的格式。 Primavera P6 Professional 具有导出和导入 [XER](/zh/project-management/xer) 文件和 XML 文件的功能。 XML 代表**可扩展标记语言**。这种通用格式允许用户在 Primavera P6 数据库之间共享项目信息。项目数据可以通过 XML 文件轻松存储在文本文件中；这使得许多软件程序交换数据变得更简单。 Primavera P6 用户可以轻松共享和管理此类数据。
+P6XML 文件扩展名具有出色的可读性、适应性和广泛的用途，使其成为理想的格式。 Primavera P6 Professional 具有导出和导入 [XER](/zh/project-management/xer/) 文件和 XML 文件的功能。 XML 代表**可扩展标记语言**。这种通用格式允许用户在 Primavera P6 数据库之间共享项目信息。项目数据可以通过 XML 文件轻松存储在文本文件中；这使得许多软件程序交换数据变得更简单。 Primavera P6 用户可以轻松共享和管理此类数据。
 
 ## P6XML 文件格式的优点##
 
@@ -39,7 +39,7 @@ P6XML 文件扩展名具有出色的可读性、适应性和广泛的用途，�
 * 选择“Primavera P6 – (XML)"。之后，点击下一步
 * 双击要导出的项目
 * 选择要放置导出文件的路径的截断，然后选择“完成"。
-*选择您要如何保存文件的选项
+* 选择您要如何保存文件的选项
 * 如果导出文件不需要项目级布局，则必须清除选择以“导出所有项目级布局"。
 * 选择完成，然后您将收到 XML 导出的确认
 
@@ -49,7 +49,7 @@ P6XML 文件扩展名具有出色的可读性、适应性和广泛的用途，�
 * 将多个项目导出到一个 XML 文件很方便
 * 导出分配给项目的全局数据
 * 方便导出XML文件，无需所有资源的准入
-  
+
 
 
 ## 打开 P6XML 文件的问题？ ##
@@ -63,9 +63,8 @@ P6XML 文件扩展名具有出色的可读性、适应性和广泛的用途，�
 * 在系统中没有打开文件的访问权限
 * 系统中的过时驱动器
 * 文件扩展名被重命名
- 
+
 
 ## 参考 ＃＃
 
-* [Oracle - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_eppm_xml_import_guide/190894.htm)
-
+* [Oracle - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_import_guide/index.html)

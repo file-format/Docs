@@ -19,7 +19,7 @@
 
 ## Wat is een USDZ-bestand?
 
-Een bestand met .usdz is een niet-gecomprimeerd en niet-versleuteld ZIP-archief voor de bestandsindeling [USD](/nl/3d/usd/) (Universal Scene Description) die bestanden van andere formaten (zoals texturen en animaties) bevat en proxy's bevat voor andere formaten (zoals texturen en animaties) die zijn ingesloten in het archief en voert ze rechtstreeks uit met de USD-runtime zonder dat ze hoeven uit te pakken. USDZ-bestanden zijn pakketten waarvan het ontwerp is gebaseerd op de nieuwe abstractie op Ar-niveau van een pakket. Usdz is geregistreerd bij IANA en heeft de mediatypenaam van het model en een subtypenaam vnd.usd+zip en de details ervan zijn te vinden op [IANA-registratiepagina](https://www.iana.org/assignments/media- types/model/vnd.usdz+zip).
+Een bestand met .usdz is een niet-gecomprimeerd en niet-versleuteld ZIP-archief voor de bestandsindeling [USD](/nl/3d/usd/) (Universal Scene Description) die bestanden van andere formaten (zoals texturen en animaties) bevat en proxy's bevat voor andere formaten (zoals texturen en animaties) die zijn ingesloten in het archief en voert ze rechtstreeks uit met de USD-runtime zonder dat ze hoeven uit te pakken. USDZ-bestanden zijn pakketten waarvan het ontwerp is gebaseerd op de nieuwe abstractie op Ar-niveau van een pakket. Usdz is geregistreerd bij IANA en heeft de mediatypenaam van het model en een subtypenaam vnd.usd+zip en de details ervan zijn te vinden op [IANA-registratiepagina](https://www.iana.org/assignments/media-types/model/vnd.usdz+zip).
 
 ## USDZ-bestandsindeling
 
@@ -41,9 +41,8 @@ USDZ-pakketten vereisen dat de lay-out van bestanden binnen het pakket is dat de
 ## USDZ-bestand downloaden
 Omdat de usdz-bestanden vol zitten met andere afbeeldingen van hoge kwaliteit en usd-bestanden, kunnen ze meer schijfruimte in beslag nemen. Hier vindt u een eenvoudig en kleiner USDZ-voorbeeldbestand om te downloaden:
 
-- [Voorbeeld.usdz](../voorbeeld.usdz)
+- [Voorbeeld.usdz](../sample.usdz)
 
 ## Referenties
 
 * [specificaties voor USDZ-bestandsindeling](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
-

@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo P6XML? ##
 
-La extensión de archivo P6XML tiene una excelente legibilidad, adaptabilidad y amplio uso que lo convierten en el formato ideal. Primavera P6 Professional tiene la funcionalidad de exportar e importar tanto archivos [XER](/es/project-management/xer) como archivos XML. XML significa **Lenguaje de marcado extensible**. Este formato general permite a los usuarios compartir información de proyectos entre las bases de datos de Primavera P6. Los datos del proyecto se pueden almacenar fácilmente en un archivo de texto a través del archivo XML; esto simplifica las cosas para que numerosos programas de software intercambien los datos. Dichos datos pueden ser fácilmente compartidos y administrados por el usuario de Primavera P6.
+La extensión de archivo P6XML tiene una excelente legibilidad, adaptabilidad y amplio uso que lo convierten en el formato ideal. Primavera P6 Professional tiene la funcionalidad de exportar e importar tanto archivos [XER](/es/project-management/xer/) como archivos XML. XML significa **Lenguaje de marcado extensible**. Este formato general permite a los usuarios compartir información de proyectos entre las bases de datos de Primavera P6. Los datos del proyecto se pueden almacenar fácilmente en un archivo de texto a través del archivo XML; esto simplifica las cosas para que numerosos programas de software intercambien los datos. Dichos datos pueden ser fácilmente compartidos y administrados por el usuario de Primavera P6.
 
 ## Ventajas de un formato de archivo P6XML ##
 
@@ -49,7 +49,7 @@ Estos son algunos pasos que describen el proceso de exportación:
 * Es conveniente exportar numerosos proyectos a un archivo XML
 * Los datos globales que se asignan al proyecto se exportan
 * Es conveniente exportar archivos XML sin tener acceso a todos los recursos
-  
+
 
 
 ## ¿Problemas para abrir un archivo P6XML? ##
@@ -63,9 +63,8 @@ Algunos problemas comunes que pueden surgir y causar un mal funcionamiento del f
 * Sin derecho de acceso en el sistema para abrir los archivos
 * Unidad obsoleta en su sistema
 * Se renombra la extensión del archivo
- 
+
 
 ## Referencias ##
 
-* [Oracle - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_eppm_xml_import_guide/190894.htm)
-
+* [Oracle - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_import_guide/index.html)

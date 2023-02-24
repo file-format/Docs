@@ -26,5 +26,4 @@ GSP dosyaları web dosyası biçiminde saklanır ve Microsoft Outlook gibi e-pos
 
 ## Referanslar
 
-* [Outlook'ta MSG e-posta mesajı dosyalarını kopyalarken hata oluştu](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-When-copying-msg-with-many-attachments-or- alıcılar)
-
+* [Outlook'ta MSG e-posta mesajı dosyalarını kopyalarken hata oluştu](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients)

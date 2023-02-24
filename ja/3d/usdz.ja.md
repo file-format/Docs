@@ -19,7 +19,7 @@
 
 ## USDZファイルとは何ですか?
 
-.usdz を含むファイルは、[USD](/3d/usd/) (Universal Scene Description) ファイル形式の圧縮されておらず、暗号化されていない ZIP アーカイブであり、他の形式 (テクスチャやアニメーションなど) のファイルが含まれており、そのファイルのプロキシが含まれています。アーカイブを展開し、解凍する必要なく USD ランタイムで直接実行します。 USDZ ファイルは、パッケージの新しい Ar レベルの抽象化に基づいて設計されたパッケージです。 Usdz は IANA に登録されており、モデルのメディア タイプ名と vnd.usd+zip のサブタイプ名を持ち、その詳細は [IANA 登録ページ] (https://www.iana.org/assignments/media-タイプ/モデル/vnd.usdz+zip)。
+.usdz を含むファイルは、[USD](/3d/usd/) (Universal Scene Description) ファイル形式の圧縮されておらず、暗号化されていない ZIP アーカイブであり、他の形式 (テクスチャやアニメーションなど) のファイルが含まれており、そのファイルのプロキシが含まれています。アーカイブを展開し、解凍する必要なく USD ランタイムで直接実行します。 USDZ ファイルは、パッケージの新しい Ar レベルの抽象化に基づいて設計されたパッケージです。 Usdz は IANA に登録されており、モデルのメディア タイプ名と vnd.usd+zip のサブタイプ名を持ち、その詳細は [IANA 登録ページ](https://www.iana.org/assignments/media-types/model/vnd.usdz+zip)。
 
 ## USDZ ファイル形式
 
@@ -46,4 +46,3 @@ usdz ファイルは他の高品質の画像や usd ファイルと一緒に圧�
 ## 参考文献
 
 ※【USDZファイルフォーマット仕様】(https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
-

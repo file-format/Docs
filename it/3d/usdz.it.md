@@ -19,7 +19,7 @@
 
 ## Che cos'è un file USDZ?
 
-Un file con .usdz è un archivio ZIP non compresso e non crittografato per il formato di file [USD](/it/3d/usd/) (Descrizione scena universale) che contiene e proxy per file di altri formati (come trame e animazioni) incorporati all'interno l'archivio e li esegue direttamente con il runtime USD senza bisogno di decomprimere. I file USDZ sono pacchetti il cui design si basa sulla nuova astrazione a livello Ar di un pacchetto. Usdz è stato registrato con IANA e ha il nome del tipo di supporto del modello e un nome del sottotipo di vnd.usd+zip e i suoi dettagli possono essere trovati su [Pagina di registrazione IANA](https://www.iana.org/assignments/media- tipi/modello/vnd.usdz+zip).
+Un file con .usdz è un archivio ZIP non compresso e non crittografato per il formato di file [USD](/it/3d/usd/) (Descrizione scena universale) che contiene e proxy per file di altri formati (come trame e animazioni) incorporati all'interno l'archivio e li esegue direttamente con il runtime USD senza bisogno di decomprimere. I file USDZ sono pacchetti il cui design si basa sulla nuova astrazione a livello Ar di un pacchetto. Usdz è stato registrato con IANA e ha il nome del tipo di supporto del modello e un nome del sottotipo di vnd.usd+zip e i suoi dettagli possono essere trovati su [Pagina di registrazione IANA](https://www.iana.org/assignments/media-types/model/vnd.usdz+zip).
 
 ## Formato file USDZ
 
@@ -46,4 +46,3 @@ Poiché i file usdz sono pieni di altre immagini e file usd di alta qualità, po
 ## Riferimenti
 
 * [Specifiche del formato file USDZ](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
-

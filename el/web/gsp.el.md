@@ -26,5 +26,4 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Σφάλμα κατά την αντιγραφή αρχείων μηνυμάτων email MSG στο Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or- παραλήπτες)
-
+* [Σφάλμα κατά την αντιγραφή αρχείων μηνυμάτων email MSG στο Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients)

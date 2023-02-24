@@ -95,6 +95,5 @@
 
 ## Препратки
 
-* [Геометрични файлови формати - Autodesk](https://knowledge.autodesk.com/support/3ds-max/learn-explore/caas/CloudHelp/cloudhelp/2015/ENU/3DSMax/files/GUID-566E59EE-8221-4AC6 -824B-5062C5AE0B32-htm.html)
+* [Геометрични файлови формати - Autodesk](https://knowledge.autodesk.com/support/3ds-max/learn-explore/caas/CloudHelp/cloudhelp/2015/ENU/3DSMax/files/GUID-566E59EE-8221-4AC6-824B-5062C5AE0B32-htm.html)
 * [3DS – от Wikipedia](https://en.wikipedia.org/wiki/.3ds)
-

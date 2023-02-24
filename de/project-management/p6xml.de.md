@@ -49,8 +49,6 @@ Hier sind einige Schritte, die den Exportprozess beschreiben:
 * Es ist praktisch, zahlreiche Projekte in eine XML-Datei zu exportieren
 * Globale Daten, die dem Projekt zugeordnet sind, werden exportiert
 * Es ist praktisch, XML-Dateien zu exportieren, ohne Zugang zu allen Ressourcen zu haben
-  
-
 
 ## Probleme beim Öffnen einer P6XML-Datei? ##
 
@@ -63,9 +61,8 @@ Einige häufige Probleme, die auftreten und Fehlfunktionen des P6XML-Formats ver
 * Kein Zugriffsrecht im System zum Öffnen der Dateien
 * Veraltetes Laufwerk in Ihrem System
 * Erweiterung der Datei wird umbenannt
- 
+
 
 ## Verweise ##
 
-* [Oracle – P6-XML] (https://docs.oracle.com/cd/E80480_01/English/admin/p6_eppm_xml_import_guide/190894.htm)
-
+* [Oracle – P6-XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_import_guide/index.html)

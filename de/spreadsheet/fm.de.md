@@ -27,10 +27,9 @@ Eine FM-Datei ist eine mit FileMaker oder FileMaker Pro erstellte Tabellenkalkul
 
 ## Wie konvertiere ich ältere FileMaker Pro-Dateien in das .fmp12-Dateiformat?
 
-FileMaker Pro kann FM direkt in das Dateiformat .fmp12 konvertieren. Eine Schritt-für-Schritt-Anleitung zum [Konvertieren von FM-Dateien in .fmp12](https://support.claris.com/s/article/Converting-older-FileMaker-Pro-files-to-the-fmp12-file-format -1503693002275?language=en_US) kann zu diesem Zweck herangezogen werden.
+FileMaker Pro kann FM direkt in das Dateiformat .fmp12 konvertieren. Eine Schritt-für-Schritt-Anleitung zum [Konvertieren von FM-Dateien in .fmp12](https://support.claris.com/s/article/Converting-older-FileMaker-Pro-files-to-the-fmp12-file-format-1503693002275?language=en_US) kann zu diesem Zweck herangezogen werden.
 
 ## Verweise
 
 * [FileMaker Pro](https://www.claris.com/filemaker/pro/)
 * [PRONOM – FM-Dateiformat](https://www.nationalarchives.gov.uk/PRONOM/fmt/1059)
-

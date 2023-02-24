@@ -29,5 +29,5 @@ Tệp có phần mở rộng .stc là tệp kết nối được phần mềm Ad
 ## Người giới thiệu
 
 - [Đóng góp của Adobe - Wikipedia](https://en.wikipedia.org/wiki/Adobe_Contribute)
-- [Đóng góp của Adobe](hhttps://help.adobe.com/archive/en_US/contribute/cs5/contribute_cs5_help.pdf)
+- [Đóng góp của Adobe](https://help.adobe.com/archive/en_US/contribute/cs5/contribute_cs5_help.pdf)
 

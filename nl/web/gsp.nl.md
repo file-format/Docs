@@ -26,5 +26,4 @@ GSP-bestanden worden opgeslagen in webbestandsindeling en kunnen gemakkelijk wor
 
 ## Referenties
 
-* [Fout bij het kopiëren van MSG-e-mailberichtbestanden in Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or- ontvangers)
-
+* [Fout bij het kopiëren van MSG-e-mailberichtbestanden in Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients)

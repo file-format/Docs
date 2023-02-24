@@ -26,5 +26,4 @@ Pliki GSP są przechowywane w formacie pliku internetowego i można je łatwo pr
 
 ## Bibliografia
 
-* [Błąd podczas kopiowania plików wiadomości e-mail MSG w programie Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or- odbiorcy)
-
+* [Błąd podczas kopiowania plików wiadomości e-mail MSG w programie Outlook](hhttps://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients)

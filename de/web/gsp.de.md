@@ -26,5 +26,4 @@ GSP-Dateien werden im Webdateiformat gespeichert und können problemlos mit E-Ma
 
 ## Verweise
 
-* [Fehler beim Kopieren von MSG-E-Mail-Nachrichtendateien in Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or- Empfänger)
-
+* [Fehler beim Kopieren von MSG-E-Mail-Nachrichtendateien in Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients)

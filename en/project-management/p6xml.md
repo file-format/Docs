@@ -19,7 +19,7 @@
 
 ## What is a P6XML file? ##
 
-The P6XML file extension has excellent readability, adaptability, and wide usage that make it the ideal format. Primavera P6 Professional has the functionality to export and import both [XER](/project-management/xer) files and XML files. XML stands for **Extensible Markup Language**. This general format permits users to share project information between Primavera P6 databases. The project data can easily be stored in a text file through the XML file; this makes things simpler for numerous software programs to exchange the data. Such data can be easily shared and managed by the Primavera P6 user.
+The P6XML file extension has excellent readability, adaptability, and wide usage that make it the ideal format. Primavera P6 Professional has the functionality to export and import both [XER](/project-management/xer/) files and XML files. XML stands for **Extensible Markup Language**. This general format permits users to share project information between Primavera P6 databases. The project data can easily be stored in a text file through the XML file; this makes things simpler for numerous software programs to exchange the data. Such data can be easily shared and managed by the Primavera P6 user.
 
 ## Advantages of a P6XML File Format ##
 
@@ -30,7 +30,7 @@ The P6XML file extension has excellent readability, adaptability, and wide usage
 
 ## Exporting the XML File from Primavera P6 ##
 
-For Exporting  P6 Professional projects and project data to a P6XML file, use Oracle Primavera Cloud. You can download the file when it's being formed from the P6 Professional desktop application and import it into Primavera Cloud. Before uninterruptedly operate the export process, you should regulate if you are linked to a P6 Professional database or a P6 EPPM. Some features of the export process may differ reliant on your database. Having P6 Specialized settings with a P6 Proficient database, the export process operates locally on your system. Having a P6 Professional database, you can easily export and open the P6 XML file from a setting on your system. 
+For Exporting  P6 Professional projects and project data to a P6XML file, use Oracle Primavera Cloud. You can download the file when it's being formed from the P6 Professional desktop application and import it into Primavera Cloud. Before uninterruptedly operate the export process, you should regulate if you are linked to a P6 Professional database or a P6 EPPM. Some features of the export process may differ reliant on your database. Having P6 Specialized settings with a P6 Proficient database, the export process operates locally on your system. Having a P6 Professional database, you can easily export and open the P6 XML file from a setting on your system.
 
 Here are some steps describing the export process:
 
@@ -40,7 +40,7 @@ Here are some steps describing the export process:
   *	 Double click the project that you will export
   *	 Select the truncations for the path where you want to put the exported file and select "Finish."
   *  Select the option that how you want to save the file
-  *	 If project-level layouts are not needed with the export file, it's essential to clear the selection to "Export all project-level layouts." 
+  *	 If project-level layouts are not needed with the export file, it's essential to clear the selection to "Export all project-level layouts."
   *	 Select finish, and then you will receive a confirmation of the XML export
 
 ### Important Tips ###
@@ -49,7 +49,7 @@ Here are some steps describing the export process:
   *	 It's convenient to export numerous projects to one XML file
   *	 Global data that is allocated to the project is exported
   *	 It's convenient to export XML files without having admittance to all resources
-  
+
 ## Problems to Open a P6XML file? ##
 
 Some common issues which may arise and cause misfunctioning of the P6XML format are as follow:
@@ -61,7 +61,7 @@ Some common issues which may arise and cause misfunctioning of the P6XML format 
  *   No access right in the system to open the files
  *   Outdated drive in your system
  *   Extension of the file is renamed
- 
+
 ## References ##
 
-* [Oracle - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_eppm_xml_import_guide/190894.htm)
+* [Oracle - P6 XML](https://docs.oracle.com/cd/E80480_01/English/admin/p6_import_guide/index.html)

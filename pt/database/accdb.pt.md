@@ -19,8 +19,7 @@
 
 ## O que é um arquivo ACCDB?
 
-Um arquivo com extensão .accdb é um arquivo de banco de dados do Microsoft Access 2007 que armazena dados de usuários em tabelas. Ele suporta o armazenamento
-formulários personalizados, consultas SQL e outros dados. Os arquivos ACCDB substituíram os arquivos [MDB](/pt/database/mdb/) depois que a Microsoft mudou para a estrutura de arquivos baseada em XML. Os arquivos ACCDB ainda podem ser convertidos em MDB com compatibilidade antiga. No entanto, o ACCDB é o formato de arquivo de banco de dados do Access amplamente usado agora. A Microsoft também deu suporte a recursos adicionais no formato ACCDB, como a possibilidade de armazenar anexos de arquivos, dados binários e suporte a campos multivalorados.
+Um arquivo com extensão .accdb é um arquivo de banco de dados do Microsoft Access 2007 que armazena dados de usuários em tabelas. Ele suporta o armazenamento formulários personalizados, consultas SQL e outros dados. Os arquivos ACCDB substituíram os arquivos [MDB](/pt/database/mdb/) depois que a Microsoft mudou para a estrutura de arquivos baseada em XML. Os arquivos ACCDB ainda podem ser convertidos em MDB com compatibilidade antiga. No entanto, o ACCDB é o formato de arquivo de banco de dados do Access amplamente usado agora. A Microsoft também deu suporte a recursos adicionais no formato ACCDB, como a possibilidade de armazenar anexos de arquivos, dados binários e suporte a campos multivalorados.
 
 ## Formato de arquivo ACCDB
 
@@ -35,5 +34,4 @@ Um dump hexadecimal de um arquivo ACCDB simples sugere que há semelhanças gera
 * [Access File Format](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41?redirectSourcePath=% 252fen-us%252farticle%252fIntroduction-to-the-Access-2007-file-format-8cf93630-0b68-4a40-a13c-7528b9f074b6&ui=en-US&rs=en-US&ad=US)
 * [Access 2016 Specifications](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c?ui=en-us&rs=en-us&ad=us)
 * [Microsoft Jet Database Engine](https://en.wikipedia.org/wiki/Microsoft_Jet_Database_Engine)
-* [Qual formato de arquivo do Access devo usar?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617- be66f9070b41?ui=en-us&rs=en-us&ad=us)
-
+* [Qual formato de arquivo do Access devo usar?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41?ui=en-us&rs=en-us&ad=us)

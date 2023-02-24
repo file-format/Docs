@@ -19,7 +19,7 @@
 
 ## Mi az AQ fájl?
 
-Az .aq kiterjesztésű fájl egy adatbázisfájl, amelyet az Ancestral Quest alkalmazással hozott létre az Incline Software, LC. A családfa-információkat a szoftver ingyenes és prémium verzióját használó személyek által megadott genealógiai adatok felhasználásával tárolja. Az adatbázis olyan információkat tárol, mint a családtagok neve, születési helye és kapcsolatai. Az Ancestral Quest ezeket az információkat az olyan információk összekapcsolására és osztályozására használja, mint a származás, a leszármazottak, a család és az idővonal nézet. Az AQ fájlok az [Incline Software Ancestral Quest] segítségével nyithatók meg (https://www.ancquest.com/index.htm).
+Az .aq kiterjesztésű fájl egy adatbázisfájl, amelyet az Ancestral Quest alkalmazással hozott létre az Incline Software, LC. A családfa-információkat a szoftver ingyenes és prémium verzióját használó személyek által megadott genealógiai adatok felhasználásával tárolja. Az adatbázis olyan információkat tárol, mint a családtagok neve, születési helye és kapcsolatai. Az Ancestral Quest ezeket az információkat az olyan információk összekapcsolására és osztályozására használja, mint a származás, a leszármazottak, a család és az idővonal nézet. Az AQ fájlok az Incline Software Ancestral Quest [segítségével nyithatók meg](https://www.ancquest.com/index.htm).
 
 ## AQ fájlformátum - További információ
 
@@ -28,4 +28,3 @@ Az AQ fájlok bináris fájlként kerülnek mentésre, és belső fájlformátum
 ## Hivatkozások
 
 * [Ancestral Quest](https://www.ancquest.com/index.htm)
-

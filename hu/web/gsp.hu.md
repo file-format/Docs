@@ -26,5 +26,4 @@ A GSP-fájlokat webes fájlformátumban tárolják, és könnyen megtekinthetők
 
 ## Hivatkozások
 
-* [Hiba az MSG e-mail fájlok másolásakor az Outlook programban](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or- címzettek)
-
+* [Hiba az MSG e-mail fájlok másolásakor az Outlook programban](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients)

@@ -33,6 +33,6 @@ Fișierele XFDF sunt salvate în format de fișier XML, care este un format univ
 
 ## Referințe
 
-* [FDF Format Support by Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for -acroforms.html)
+* [FDF Format Support by Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
 * [Resurse pentru dezvoltatori Adobe](https://opensource.adobe.com/dc-acrobat-sdk-docs/)
 

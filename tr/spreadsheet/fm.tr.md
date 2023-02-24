@@ -27,10 +27,9 @@ Dahili dosya formatı ve FM dosyalarının yapısı hakkında fazla bilgi yoktur
 
 ## Eski FileMaker Pro Dosyalarını .fmp12 Dosya Biçimine Dönüştürme
 
-FileMaker Pro, FM'yi doğrudan .fmp12 dosya biçimine dönüştürebilir. [FM dosyalarını .fmp12'ye dönüştürme](https://support.claris.com/s/article/Converting-older-FileMaker-Pro-files-to-the-fmp12-file-format) için adım adım kılavuz -1503693002275?language=en_US) bu amaçla başvurulabilir.
+FileMaker Pro, FM'yi doğrudan .fmp12 dosya biçimine dönüştürebilir. [FM dosyalarını .fmp12'ye dönüştürme](https://support.claris.com/s/article/Converting-older-FileMaker-Pro-files-to-the-fmp12-file-format-1503693002275?language=en_US) bu amaçla başvurulabilir.
 
 ## Referanslar
 
 * [FileMaker Pro](https://www.claris.com/filemaker/pro/)
 * [PRONOM - FM Dosya Biçimi](https://www.nationalarchives.gov.uk/PRONOM/fmt/1059)
-

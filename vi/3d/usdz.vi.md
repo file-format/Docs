@@ -19,7 +19,7 @@
 
 ## Tệp USDZ là gì?
 
-Tệp có đuôi .usdz là tệp lưu trữ ZIP không nén và không được mã hóa cho định dạng tệp [USD](/vi/3d/usd/) (Mô tả cảnh chung) chứa và proxy cho các tệp có định dạng khác (chẳng hạn như họa tiết và hoạt ảnh) được nhúng trong kho lưu trữ và chạy chúng trực tiếp với thời gian chạy USD mà không cần giải nén. Các tệp USDZ là các gói có thiết kế dựa trên sự trừu tượng hóa cấp độ Ar mới của gói. Usdz đã được đăng ký với IANA và có tên loại phương tiện của mô hình và tên loại phụ là vnd.usd+zip và thông tin chi tiết của nó có thể được tìm thấy trên [trang đăng ký IANA](https://www.iana.org/assignments/media- type/model/vnd.usdz+zip).
+Tệp có đuôi .usdz là tệp lưu trữ ZIP không nén và không được mã hóa cho định dạng tệp [USD](/vi/3d/usd/) (Mô tả cảnh chung) chứa và proxy cho các tệp có định dạng khác (chẳng hạn như họa tiết và hoạt ảnh) được nhúng trong kho lưu trữ và chạy chúng trực tiếp với thời gian chạy USD mà không cần giải nén. Các tệp USDZ là các gói có thiết kế dựa trên sự trừu tượng hóa cấp độ Ar mới của gói. Usdz đã được đăng ký với IANA và có tên loại phương tiện của mô hình và tên loại phụ là vnd.usd+zip và thông tin chi tiết của nó có thể được tìm thấy trên [trang đăng ký IANA](https://www.iana.org/assignments/media-types/model/vnd.usdz+zip).
 
 ## Định dạng tệp USDZ
 
@@ -46,4 +46,3 @@ Vì các tệp usdz được đóng gói với các hình ảnh và tệp usd ch
 ## Người giới thiệu
 
 * [Thông số định dạng tệp USDZ](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
-

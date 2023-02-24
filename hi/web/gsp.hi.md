@@ -26,5 +26,4 @@ GSP फ़ाइलें वेब फ़ाइल स्वरूप में
 
 ## संदर्भ
 
-* [आउटलुक में MSG ईमेल संदेश फ़ाइलों की प्रतिलिपि बनाते समय त्रुटि](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or- प्राप्तकर्ता)
-
+* [आउटलुक में MSG ईमेल संदेश फ़ाइलों की प्रतिलिपि बनाते समय त्रुटि](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients)

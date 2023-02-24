@@ -33,6 +33,6 @@ Pliki XFDF są zapisywane w formacie pliku XML, który jest uniwersalnym formate
 
 ## Bibliografia
 
-* [Obsługa formatu FDF przez program Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for -acroforms.html)
+* [Obsługa formatu FDF przez program Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
 * [Zasoby Adobe dla programistów](https://opensource.adobe.com/dc-acrobat-sdk-docs/)
 

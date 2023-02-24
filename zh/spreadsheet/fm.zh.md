@@ -27,10 +27,9 @@ FM 文件是使用跨平台关系数据库应用程序 FileMaker 或 FileMaker P
 
 ## 如何将较旧的 FileMaker Pro 文件转换为 .fmp12 文件格式？
 
-FileMaker Pro 可以直接将 FM 转换为 .fmp12 文件格式。 [将 FM 文件转换为 .fmp12] 的分步指南（https://support.claris.com/s/article/Converting-older-FileMaker-Pro-files-to-the-fmp12-file-format -1503693002275?language=en_US) 可用于此目的。
+FileMaker Pro 可以直接将 FM 转换为 .fmp12 文件格式。 [将 FM 文件转换为 .fmp12] 的分步指南（https://support.claris.com/s/article/Converting-older-FileMaker-Pro-files-to-the-fmp12-file-format-1503693002275?language=en_US) 可用于此目的。
 
 ## 参考
 
 * [FileMaker Pro](https://www.claris.com/filemaker/pro/)
 * [PRONOM - FM 文件格式](https://www.nationalarchives.gov.uk/PRONOM/fmt/1059)
-

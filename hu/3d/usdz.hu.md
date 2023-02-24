@@ -19,7 +19,7 @@
 
 ## Mi az az USDZ fájl?
 
-Az .usdz formátumú fájl egy tömörítetlen és titkosítás nélküli ZIP-archívum az [USD](/hu/3d/usd/) (Universal Scene Description) fájlformátumhoz, amely más formátumú fájlokat (például textúrákat és animációkat) tartalmaz, valamint a beágyazott proxykat tartalmazza. az archívumot, és közvetlenül futtatja őket az USD futási idővel, kicsomagolás nélkül. Az USDZ fájlok olyan csomagok, amelyek kialakítása egy csomag új Ar-szintű absztrakcióján alapul. Az Usdz-t az IANA regisztrálta, és a modell médiatípus-nevével, valamint a vnd.usd+zip altípusnévvel rendelkezik, részletei pedig az [IANA regisztrációs oldalán] (https://www.iana.org/assignments/media-) találhatók. Types/model/vnd.usdz+zip).
+Az .usdz formátumú fájl egy tömörítetlen és titkosítás nélküli ZIP-archívum az [USD](/hu/3d/usd/) (Universal Scene Description) fájlformátumhoz, amely más formátumú fájlokat (például textúrákat és animációkat) tartalmaz, valamint a beágyazott proxykat tartalmazza. az archívumot, és közvetlenül futtatja őket az USD futási idővel, kicsomagolás nélkül. Az USDZ fájlok olyan csomagok, amelyek kialakítása egy csomag új Ar-szintű absztrakcióján alapul. Az Usdz-t az IANA regisztrálta, és a modell médiatípus-nevével, valamint a vnd.usd+zip altípusnévvel rendelkezik, részletei pedig az [IANA regisztrációs oldalán](https://www.iana.org/assignments/media-types/model/vnd.usdz+zip).
 
 ## USDZ fájlformátum
 
@@ -46,4 +46,3 @@ Mivel az usdz fájlok más kiváló minőségű képekkel és usd fájlokkal van
 ## Hivatkozások
 
 * [USDZ fájlformátum specifikációi](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
-

@@ -36,6 +36,6 @@ Adobe'nin [FDF araç takımı](https://opensource.adobe.com/dc-acrobat-sdk-docs/
 
 ## Referanslar ##
 
-* [Acrobat'tan FDF Format Desteği](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for -acroforms.html)
+* [Acrobat'tan FDF Format Desteği](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
 * [Adobe Geliştirici Kaynakları](https://opensource.adobe.com/dc-acrobat-sdk-docs/)
 

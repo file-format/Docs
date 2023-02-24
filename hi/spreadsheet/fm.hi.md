@@ -27,10 +27,9 @@
 
 ## पुरानी फ़ाइलमेकर प्रो फ़ाइलों को .fmp12 फ़ाइल स्वरूप में कैसे बदलें?
 
-फाइलमेकर प्रो एफएम को सीधे .fmp12 फाइल फॉर्मेट में बदल सकता है। [FM फ़ाइलों को .fmp12 में कनवर्ट करने] के लिए चरण-दर-चरण मार्गदर्शिका (https://support.claris.com/s/article/Converting-older-FileMaker-Pro-files-to-the-fmp12-file-format -1503693002275?language=en_US) को इस उद्देश्य के लिए संदर्भित किया जा सकता है।
+फाइलमेकर प्रो एफएम को सीधे .fmp12 फाइल फॉर्मेट में बदल सकता है। [FM फ़ाइलों को .fmp12 में कनवर्ट करने] के लिए चरण-दर-चरण मार्गदर्शिका (https://support.claris.com/s/article/Converting-older-FileMaker-Pro-files-to-the-fmp12-file-format-1503693002275?language=en_US) को इस उद्देश्य के लिए संदर्भित किया जा सकता है।
 
 ## संदर्भ
 
 * [फाइलमेकर प्रो] (https://www.claris.com/filemaker/pro/)
 * [प्रोनॉम - एफएम फाइल फॉर्मेट](https://www.nationalarchives.gov.uk/PRONOM/fmt/1059)
-

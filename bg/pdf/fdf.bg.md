@@ -36,6 +36,6 @@ FDF е формат на обикновен текст и е включен ка
 
 ## Препратки ##
 
-* [Поддръжка на FDF формат от Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for -acroforms.html)
+* [Поддръжка на FDF формат от Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
 * [Ресурси за разработчици на Adobe](https://opensource.adobe.com/dc-acrobat-sdk-docs/)
 

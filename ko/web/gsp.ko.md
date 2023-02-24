@@ -26,5 +26,4 @@ GSP 파일은 웹 파일 형식으로 저장되며 Microsoft Outlook과 같은 �
 
 ## 참고문헌
 
-* [Outlook에서 MSG 이메일 메시지 파일 복사 시 오류](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or- 받는 사람)
-
+* [Outlook에서 MSG 이메일 메시지 파일 복사 시 오류](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients)

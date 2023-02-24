@@ -19,7 +19,7 @@
 
 ## 什么是一 .USDZ 文件？
 
-带有 .usdz 的文件是 [USD](/zh/3d/usd/)（通用场景描述）文件格式的未压缩且未加密的 ZIP 存档，其中包含嵌入其中的其他格式（例如纹理和动画）文件的代理和代理存档并直接使用 USD 运行时运行它们，无需解包。 USDZ 文件是其设计基于包的新 Ar 级抽象的包。 Usdz 已在 IANA 注册，媒体类型名称为 model，子类型名称为 vnd.usd+zip，其详细信息可在 [IANA 注册页面](https://www.iana.org/assignments/media-类型/模型/vnd.usdz+zip)。
+带有 .usdz 的文件是 [USD](/zh/3d/usd/)（通用场景描述）文件格式的未压缩且未加密的 ZIP 存档，其中包含嵌入其中的其他格式（例如纹理和动画）文件的代理和代理存档并直接使用 USD 运行时运行它们，无需解包。 USDZ 文件是其设计基于包的新 Ar 级抽象的包。 Usdz 已在 IANA 注册，媒体类型名称为 model，子类型名称为 vnd.usd+zip，其详细信息可在 [IANA 注册页面](https://www.iana.org/assignments/media-types/model/vnd.usdz+zip)。
 
 ## USDZ 文件格式
 
@@ -46,4 +46,3 @@ USDZ 包要求包内文件的布局是每个文件的数据应该从包开头的
 ## 参考
 
 * [USDZ 文件格式规范](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
-

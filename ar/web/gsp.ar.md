@@ -26,5 +26,4 @@
 
 ## مراجع
 
-* [خطأ عند نسخ ملفات رسائل البريد الإلكتروني MSG في Outlook] (https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or- المتلقين)
-
+* [خطأ عند نسخ ملفات رسائل البريد الإلكتروني MSG في Outlook] (https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients)

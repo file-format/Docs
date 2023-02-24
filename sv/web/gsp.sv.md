@@ -26,5 +26,4 @@ GSP-filer lagras i webbfilformat och är lätta att se med e-postklienter som Mi
 
 ## Referenser
 
-* [Fel när du kopierar MSG-e-postmeddelandefiler i Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or- mottagare)
-
+* [Fel när du kopierar MSG-e-postmeddelandefiler i Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients)

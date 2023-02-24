@@ -31,7 +31,7 @@
 
 ### مثال XSLT
 
-المثال التالي مأخوذ من [w3schools] (https://www.w3schools.com/xml/xsl_intro.asp).
+المثال التالي مأخوذ من [w3schools](https://www.w3schools.com/xml/xsl_intro.asp).
 ```
 <?xml version="1.0"?>
 
@@ -64,4 +64,3 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 * [XSLT - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/XSLT)
 * [عناصر XSLT] (https://en.wikipedia.org/wiki/XSLT_elements)
-

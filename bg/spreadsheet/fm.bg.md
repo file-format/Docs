@@ -27,10 +27,9 @@ FM файлът е файл с електронна таблица, създад
 
 ## Как да конвертирате по-стари файлове на FileMaker Pro във файлов формат .fmp12?
 
-FileMaker Pro може директно да конвертира FM във файлов формат .fmp12. Ръководство стъпка по стъпка за [конвертиране на FM файлове в .fmp12](https://support.claris.com/s/article/Converting-older-FileMaker-Pro-files-to-the-fmp12-file-format -1503693002275?language=en_US) могат да бъдат посочени за тази цел.
+FileMaker Pro може директно да конвертира FM във файлов формат .fmp12. Ръководство стъпка по стъпка за [конвертиране на FM файлове в .fmp12](https://support.claris.com/s/article/Converting-older-FileMaker-Pro-files-to-the-fmp12-file-format-1503693002275?language=en_US) могат да бъдат посочени за тази цел.
 
 ## Препратки
 
 * [FileMaker Pro](https://www.claris.com/filemaker/pro/)
 * [PRONOM - FM файлов формат](https://www.nationalarchives.gov.uk/PRONOM/fmt/1059)
-
