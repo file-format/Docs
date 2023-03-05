@@ -22,7 +22,7 @@ Soubor FDF (**Formát dat formuláře**) je textový dokument, který se generuj
 
 ## Formát souboru FDF – Další informace
 
-FDF je formát prostého textu a je součástí [standardu ISO 32000] (https://www.iso.org/standard/51502.html) pro přenosný formát dokumentu. Byl vyvinut společností Adobe, aby umožňoval import a export dat z Acrobat Forms nebo AcroForms.
+FDF je formát prostého textu a je součástí [standardu ISO 32000](https://www.iso.org/standard/51502.html) pro přenosný formát dokumentu. Byl vyvinut společností Adobe, aby umožňoval import a export dat z Acrobat Forms nebo AcroForms.
 
 Existují dva typy souborů FDF:
 

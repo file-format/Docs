@@ -66,5 +66,5 @@ Los siguientes son los detalles de cada sección.
 ## Referencias
 
 * [XPM - Wikipedia](https://en.wikipedia.org/wiki/X_PixMap)
-* [Manual XPM] (http://www.xfree86.org/current/xpm.pdf)
+* [Manual XPM](http://www.xfree86.org/current/xpm.pdf)
 

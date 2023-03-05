@@ -40,5 +40,5 @@ Algunos ejemplos de mapas de campaña incluyen:
 ## Referencias
 
 * [Warcraft III: El Trono Helado](https://en.wikipedia.org/wiki/Warcraft_III:_The_Frozen_Throne)
-* [Revisión de Warcraft III: The Frozen Throne] (https://web.archive.org/web/20110719200624/http://www.gamespot.com/pc/strategy/warcraft3thefrozenthrone/review.html)
+* [Revisión de Warcraft III: The Frozen Throne](https://web.archive.org/web/20110719200624/http://www.gamespot.com/pc/strategy/warcraft3thefrozenthrone/review.html)
 

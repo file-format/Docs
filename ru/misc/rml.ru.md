@@ -38,5 +38,5 @@
 
 ## использованная литература
 
-* [Репертуар эликсиров] (https://elixirtech.com/repertoire-2/)
+* [Репертуар эликсиров](https://elixirtech.com/repertoire-2/)
 

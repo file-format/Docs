@@ -27,7 +27,7 @@ Písmo EOT bylo předloženo W3C v roce 2007 jako součást CSS3, ale kvůli jeh
 
 ## Formát souboru EOT
 
-Podrobnosti o formátu souboru EOT lze nalézt na [stránce odeslání W3] (https://www.w3.org/Submission/EOT/#FileFormat) a obsahuje strukturu používanou tímto formátem písem. EOT se skládá z jediné struktury EMBEDDEDFONT, která poskytuje dostatek základních informací o názvu písma a podporovaných znacích. Zabalení těchto informací umožňuje uživatelským agentům vyhnout se rozbalení, dekomprimaci nebo instalaci písma, pokud je již na počítači přítomno.
+Podrobnosti o formátu souboru EOT lze nalézt na [stránce odeslání W3](https://www.w3.org/Submission/EOT/#FileFormat) a obsahuje strukturu používanou tímto formátem písem. EOT se skládá z jediné struktury EMBEDDEDFONT, která poskytuje dostatek základních informací o názvu písma a podporovaných znacích. Zabalení těchto informací umožňuje uživatelským agentům vyhnout se rozbalení, dekomprimaci nebo instalaci písma, pokud je již na počítači přítomno.
 
 ### Struktura EMBEDDEDFONT
 Struktura EMBEDDEDFONT prošla třemi revizemi s přidáním dalších dat na konec struktury s každou revizí. Poslední revize struktury EMBEDDEDFONT je znázorněna níže.

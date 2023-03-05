@@ -63,5 +63,5 @@ SWF 8 и более поздние версии используют три ти
 
 ## использованная литература
 
-* [Формат файла SWF] (https://en.wikipedia.org/wiki/Swf)
+* [Формат файла SWF](https://en.wikipedia.org/wiki/Swf)
 

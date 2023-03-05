@@ -24,7 +24,7 @@ Soubor PAK je soubor balíčku vytvořený různými videohrami k archivaci hern
 
 ## Formát souboru PAK – Další informace
 
-Ve většině případů se soubory PAK ukládají ve [formát souboru ZIP] (/cs/komprese/zip/). Různé aplikace však mohou používat různé formáty souborů pro ukládání těchto souborů.
+Ve většině případů se soubory PAK ukládají ve [formát souboru ZIP](/cs/komprese/zip/). Různé aplikace však mohou používat různé formáty souborů pro ukládání těchto souborů.
 
 
 ## Jak otevřít soubory PAK?

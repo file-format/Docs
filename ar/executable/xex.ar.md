@@ -27,6 +27,6 @@
 
 ## مراجع
 
-* [أداة XEX] (https://digiex.net/threads/xextool-6-3-download.9523/)
-* [XEX to EXE Conversion - Reddit] (https://www.reddit.com/r/Roms/comments/kl382s/xex_file_to_exe_file/)
+* [أداة XEX](https://digiex.net/threads/xextool-6-3-download.9523/)
+* [XEX to EXE Conversion - Reddit](https://www.reddit.com/r/Roms/comments/kl382s/xex_file_to_exe_file/)
 

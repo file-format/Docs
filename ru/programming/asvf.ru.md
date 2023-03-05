@@ -29,5 +29,5 @@
 
 ## Ссылка ##
 
-* [Asphyre Afterwarp Framework] (https://asphyre.net/)
+* [Asphyre Afterwarp Framework](https://asphyre.net/)
 

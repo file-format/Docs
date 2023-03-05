@@ -31,6 +31,6 @@ QLR, аналогичный [QGS](/ru/gis/qgs/) и [QLR](/ru/gis/qlr/), пред
 
 ## использованная литература
 
-* [QGIS] (https://www.qgis.org/en/site/)
-* [QML] (https://docs.qgis.org/3.16/en/docs/user_manual/appendices/qgis_file_formats.html)
+* [QGIS](https://www.qgis.org/en/site/)
+* [QML](https://docs.qgis.org/3.16/en/docs/user_manual/appendices/qgis_file_formats.html)
 

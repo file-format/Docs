@@ -27,5 +27,5 @@
 
 ## использованная литература
 
-* [Типы файлов Revit] (https://knowledge.autodesk.com/support/revit/learn-explore/caas/sfdcararticles/sfdcararticles/Revit-file-types.html)
+* [Типы файлов Revit](https://knowledge.autodesk.com/support/revit/learn-explore/caas/sfdcararticles/sfdcararticles/Revit-file-types.html)
 

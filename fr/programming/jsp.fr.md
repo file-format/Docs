@@ -193,5 +193,5 @@ L'apprentissage des technologies JSP est très facile de nos jours, car de nombr
 ## Références
 
 * [Conventions de code pour les pages JavaServer](https://www.oracle.com/technical-resources/articles/javase/code-convention.html)
-* [Tutoriel JSP] (https://www.javatpoint.com/jsp-tutorial)
+* [Tutoriel JSP](https://www.javatpoint.com/jsp-tutorial)
 

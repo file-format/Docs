@@ -28,5 +28,5 @@ YML — это текстовый файл на языке сериализац�
 ## использованная литература
 
 - [YAML - Википедия](https://en.wikipedia.org/wiki/YAML)
-- [YAML] (https://yaml.org/spec/1.2/spec.html)
+- [YAML](https://yaml.org/spec/1.2/spec.html)
 

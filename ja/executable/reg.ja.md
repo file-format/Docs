@@ -64,6 +64,4 @@ Windows Registry Editor Version 5.00
 ## 参考文献
 
 * [Windows レジストリ - ウィキペディアによる](https://en.wikipedia.org/wiki/Windows_Registry)
-* [.reg ファイルを使用してレジストリ サブキーと値を追加、変更、または削除する方法](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete- reg ファイルを使用したレジストリ サブキーと値 9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23)
-
-
+* [.reg ファイルを使用してレジストリ サブキーと値を追加、変更、または削除する方法](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete-registry-subkeys-and-values-by-using-a-reg-file-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23)

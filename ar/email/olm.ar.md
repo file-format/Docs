@@ -18,7 +18,7 @@
 
 ## ما هو ملف OLM؟
 
-الملف بامتداد .olm هو ملف Microsoft Outlook لنظام التشغيل Mac. يخزن ملف OLM رسائل البريد الإلكتروني واليوميات وبيانات التقويم وأنواع أخرى من بيانات التطبيق. هذه الملفات تشبه ملفات [PST] (/ar/ email / pst /) التي يستخدمها Outlook على نظام التشغيل Windows. ومع ذلك ، لا يمكن فتح ملفات OLM التي تم إنشاؤها بواسطة Outlook for Mac في Outlook لنظام التشغيل Windows. تم تقديم تنسيق ملف OLM مع Outlook 2011 لتخزين البيانات المحلية من Outlook. يمكن أن يحتوي ملف OLM واحد على علب بريد متعددة ، وتنظيم البيانات في شكل مجلدات ومجلدات فرعية. يمكن فتح / تحميل ملفات OLM في Microsoft Outlook 365 و Outlook لنظام التشغيل Mac.
+الملف بامتداد .olm هو ملف Microsoft Outlook لنظام التشغيل Mac. يخزن ملف OLM رسائل البريد الإلكتروني واليوميات وبيانات التقويم وأنواع أخرى من بيانات التطبيق. هذه الملفات تشبه ملفات [PST](/ar/ email / pst /) التي يستخدمها Outlook على نظام التشغيل Windows. ومع ذلك ، لا يمكن فتح ملفات OLM التي تم إنشاؤها بواسطة Outlook for Mac في Outlook لنظام التشغيل Windows. تم تقديم تنسيق ملف OLM مع Outlook 2011 لتخزين البيانات المحلية من Outlook. يمكن أن يحتوي ملف OLM واحد على علب بريد متعددة ، وتنظيم البيانات في شكل مجلدات ومجلدات فرعية. يمكن فتح / تحميل ملفات OLM في Microsoft Outlook 365 و Outlook لنظام التشغيل Mac.
 
 ## تنسيق ملف OLM
 
@@ -26,5 +26,5 @@ OLM هي ملفات ثنائية بنوع MIME Application / octet-Stream. لا 
 
 ## مراجع
 
-* [تنسيق ملف OLM؟] (https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format؟forum=os_binaryfile)
+* [تنسيق ملف OLM؟](https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format؟forum=os_binaryfile)
 

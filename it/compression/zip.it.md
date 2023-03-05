@@ -19,7 +19,7 @@
 
 ## Che cos'è un file ZIP? ##
 
-Un file con estensione .zip è un archivio che può contenere uno o più file o directory. L'archivio può avere una compressione applicata ai file inclusi per ridurre le dimensioni del file ZIP. Il formato di file ZIP è stato reso pubblico nel febbraio 1989 da Phil Katz per aver ottenuto l'archiviazione di file e cartelle. Il formato è stato inserito nell'utilità [PKZIP](https://www.pkware.com/pkzip), creata da PKWARE, Inc. Subito dopo la disponibilità di [specifiche disponibili](https://pkware.cachefly.net/ webdocs/casestudies/APPNOTE.TXT), molte aziende hanno inserito il formato di file ZIP nelle loro utilità software, tra cui Microsoft (da Windows 7), Apple (Mac OS X) e molti altri.
+Un file con estensione .zip è un archivio che può contenere uno o più file o directory. L'archivio può avere una compressione applicata ai file inclusi per ridurre le dimensioni del file ZIP. Il formato di file ZIP è stato reso pubblico nel febbraio 1989 da Phil Katz per aver ottenuto l'archiviazione di file e cartelle. Il formato è stato inserito nell'utilità [PKZIP](https://www.pkware.com/pkzip), creata da PKWARE, Inc. Subito dopo la disponibilità di [specifiche disponibili](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT), molte aziende hanno inserito il formato di file ZIP nelle loro utilità software, tra cui Microsoft (da Windows 7), Apple (Mac OS X) e molti altri.
 
 ## Breve storia del formato di file ZIP
 
@@ -152,4 +152,3 @@ L'intestazione del file locale ha una struttura di campo specifica composta da v
 
 * [Specifiche del formato file ZIP PKWARE](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
 * [Struttura del file PKZip](https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip-printable.html)
-

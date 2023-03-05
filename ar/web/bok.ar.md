@@ -24,9 +24,9 @@
 
 ## تنسيق ملف BOK
 
-يتم حفظ ملفات BOK كصفحات ويب تكون بشكل عام بتنسيق ملف يمكن فهمه في المتصفح مثل [HTML] (/ar/ web / html /) أو [PHP] (/ar/ web / php /). يتم تحميل محتويات هذه الصفحات من قاعدة بيانات ProStores في وقت التشغيل عندما يزور بعض العملاء واجهة المتجر.
+يتم حفظ ملفات BOK كصفحات ويب تكون بشكل عام بتنسيق ملف يمكن فهمه في المتصفح مثل [HTML](/ar/ web / html /) أو [PHP](/ar/ web / php /). يتم تحميل محتويات هذه الصفحات من قاعدة بيانات ProStores في وقت التشغيل عندما يزور بعض العملاء واجهة المتجر.
 
 ## مراجع
 
-* [ProStores - Wikipedia] (https://en.wikipedia.org/wiki/ProStores)
+* [ProStores - Wikipedia](https://en.wikipedia.org/wiki/ProStores)
 

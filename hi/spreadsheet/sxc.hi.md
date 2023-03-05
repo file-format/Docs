@@ -44,5 +44,5 @@ SXC फाइल को खोलने के लिए, एक उपयुक
 
 ## संदर्भ ##
 
-* [स्टारऑफिस - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/StarOffice)
+* [स्टारऑफिस - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/StarOffice)
 

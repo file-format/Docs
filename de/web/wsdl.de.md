@@ -18,7 +18,7 @@
 
 ## Was ist eine WSDL-Datei?
 
-Eine WSDL-Datei ist eine Web Services Description Language-Datei, die in XML-Sprache zur Beschreibung von Webdiensten geschrieben ist. Es enthält Informationen über die Endpunkte oder Schnittstellen für die Konnektivität zur Außenwelt in einem allgemein anerkannten Format. [Spezifikationen des WSDL-Dateiformats] (https://www.w3.org/TR/2007/REC-wsdl20-20070626/) (gepflegt von W3C.org) definieren die Bedingungen für die Veröffentlichung von Daten-Feeds zum Austausch von Daten, um zu haben Fernzugriff auf Anwendungen über Ports und Endpunkte.
+Eine WSDL-Datei ist eine Web Services Description Language-Datei, die in XML-Sprache zur Beschreibung von Webdiensten geschrieben ist. Es enthält Informationen über die Endpunkte oder Schnittstellen für die Konnektivität zur Außenwelt in einem allgemein anerkannten Format. [Spezifikationen des WSDL-Dateiformats](https://www.w3.org/TR/2007/REC-wsdl20-20070626/) (gepflegt von W3C.org) definieren die Bedingungen für die Veröffentlichung von Daten-Feeds zum Austausch von Daten, um zu haben Fernzugriff auf Anwendungen über Ports und Endpunkte.
 
 ## WSDL-Dateiformat – Weitere Informationen
 

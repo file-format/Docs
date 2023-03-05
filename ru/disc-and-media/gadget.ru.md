@@ -38,6 +38,6 @@
 
 ## использованная литература
 
-* [Боковая панель Windows — Microsoft] (https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
-* [Разработка гаджета для боковой панели Windows, часть 1] (https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
+* [Боковая панель Windows — Microsoft](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
+* [Разработка гаджета для боковой панели Windows, часть 1](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
 

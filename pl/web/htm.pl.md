@@ -52,7 +52,7 @@ Każda sekcja może być wiodąca lub zakończona spacjami, znakami nowej linii,
 
 Pierwsza linia kodu,<!DOCTYPE html> , jest nazywany deklaracją typu dokumentu i informuje przeglądarkę, w której wersji HTML napisana jest strona. W zależności od wersji HTML istnieje wiele różnych deklaracji typu dokumentu, które określają definicję typu dokumentu (DTD) używaną dla dokumentu. Każde DTD różni się od innych obsługiwanymi elementami i różni się w następujący sposób:
 
-* HTML 4.01 Strict — obejmuje wszystkie elementy i atrybuty, które nie zostały [przestarzałe] (https://www.w3.org/TR/html401/conform.html#deprecated) lub nie pojawiają się w dokumentach zestawów ramek
+* HTML 4.01 Strict — obejmuje wszystkie elementy i atrybuty, które nie zostały [przestarzałe](https://www.w3.org/TR/html401/conform.html#deprecated) lub nie pojawiają się w dokumentach zestawów ramek
 * HTML 4.01 Transitional - zawiera wszystko w ścisłym DTD plus przestarzałe elementy i atrybuty (z których większość dotyczy prezentacji wizualnej
 * Zestaw ramek HTML 4.01 — zawiera również wszystko w przejściowych ramkach DTD plus
 

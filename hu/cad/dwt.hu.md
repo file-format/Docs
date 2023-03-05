@@ -23,7 +23,7 @@ A DWT-fájl egy [AutoCAD](https://www.autodesk.com/) rajzsablonfájl, amely a [D
 
 ## DWT fájlformátum
 
-A DWT DWG-nek tekinthető előre meghatározott értékekkel, amelyek könnyen használhatók. A DWG az egyik legszélesebb körben használt fájlformátum volt számos alkalmazásban, és robusztus fájlszerkezettel rendelkezik. Mivel a DWG egy bináris fájlformátum, ember által nem olvasható, mint a sima ASCII [DXF](/hu/cad/dxf/) fájlformátum. A DWG-fájlok általában információkat tartalmaznak a kép koordinátáiról és a hozzájuk kapcsolódó metaadatokról. A DWG fájlformátum teljes [specifikációja] (https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf) letölthető az OpenDesign által.
+A DWT DWG-nek tekinthető előre meghatározott értékekkel, amelyek könnyen használhatók. A DWG az egyik legszélesebb körben használt fájlformátum volt számos alkalmazásban, és robusztus fájlszerkezettel rendelkezik. Mivel a DWG egy bináris fájlformátum, ember által nem olvasható, mint a sima ASCII [DXF](/hu/cad/dxf/) fájlformátum. A DWG-fájlok általában információkat tartalmaznak a kép koordinátáiról és a hozzájuk kapcsolódó metaadatokról. A DWG fájlformátum teljes [specifikációja](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf) letölthető az OpenDesign által.
 
 ### Referenciák
 

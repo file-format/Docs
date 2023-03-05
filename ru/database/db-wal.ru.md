@@ -37,6 +37,6 @@
 Итак, WAL — это общий термин для формата файла, .db-wal — это конкретная реализация формата файла WAL, используемого базами данных SQLite.
 
 ## использованная литература
-* [Формат файла режима WAL] (https://www.sqlite.org/walformat.html)
-* [Журнал с опережающей записью] (https://www.sqlite.org/wal.html)
+* [Формат файла режима WAL](https://www.sqlite.org/walformat.html)
+* [Журнал с опережающей записью](https://www.sqlite.org/wal.html)
 

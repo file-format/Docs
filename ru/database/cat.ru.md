@@ -29,7 +29,7 @@ Advanced Disk Catalog — программа каталогизации для W
 Скачайте программу Elcomsoft Advanced Disk Catalog. В Windows вы можете щелкнуть правой кнопкой мыши в проводнике, а затем выбрать «Открыть в контекстном меню», указать путь к программе Elcomsoft Advanced Disk Catalog, чтобы открыть файл cat.
 
 ## использованная литература
-* [Элкомсофт] (https://www.elcomsoft.com/)
-* [Расширенный каталог дисков (ADC)] (http://pcprosoft.blogspot.com/2009/01/advanced-disk-catalog-adc.html)
+* [Элкомсофт](https://www.elcomsoft.com/)
+* [Расширенный каталог дисков (ADC)](http://pcprosoft.blogspot.com/2009/01/advanced-disk-catalog-adc.html)
 
 

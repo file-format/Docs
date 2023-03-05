@@ -29,5 +29,5 @@
 
 ## مراجع
 
-* [LBR - ويكيبيديا] (https://en.wikipedia.org/wiki/LBR_ (file_format))
+* [LBR - ويكيبيديا](https://en.wikipedia.org/wiki/LBR_ (file_format))
 

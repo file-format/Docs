@@ -103,5 +103,5 @@ TGA फ़ाइल स्वरूप का निर्माण 1984 मे�
 ## संदर्भ
 
 * [टीजीए 2.0 फ़ाइल प्रारूप विनिर्देश](https://products.conholdate.app/viewer/view/rVqTeZPLAL/tga-file-format-specifications.pdf?default=view&preview = true.pdf)
-* [विकिपीडिया द्वारा टीजीए] (https://en.wikipedia.org/wiki/Truevision_TGA)
+* [विकिपीडिया द्वारा टीजीए](https://en.wikipedia.org/wiki/Truevision_TGA)
 

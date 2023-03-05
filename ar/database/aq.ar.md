@@ -27,4 +27,4 @@
 
 ## مراجع
 
-* [Ancestral Quest] (https://www.ancquest.com/index.htm)
+* [Ancestral Quest](https://www.ancquest.com/index.htm)

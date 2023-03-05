@@ -23,7 +23,7 @@ A .pea kiterjesztésű fájl, amely a Pack, Encrypt és Authenticate szavak röv
 
 ## PEA fájlformátum
 
-A [PEA fájlformátum specifikációi] (https://peazip.github.io/pea_help.pdf) nyilvánosan elérhetők a fejlesztők számára. A PEA archívumok rugalmas biztonsági modellel és redundáns integritás-ellenőrzéssel rendelkező bináris fájlok, amelyek az ellenőrző összegektől a kriptográfiailag erős hash-ekig terjednek. Ez a kommunikáció három különböző szintjét határozza meg az irányításra:
+A [PEA fájlformátum specifikációi](https://peazip.github.io/pea_help.pdf) nyilvánosan elérhetők a fejlesztők számára. A PEA archívumok rugalmas biztonsági modellel és redundáns integritás-ellenőrzéssel rendelkező bináris fájlok, amelyek az ellenőrző összegektől a kriptográfiailag erős hash-ekig terjednek. Ez a kommunikáció három különböző szintjét határozza meg az irányításra:
 
 * Streamek – a tényleges kimeneti adatfolyam, amelyet több bemeneti fájl alkot, és több kimeneti kötetre írható
 * Objektumok – a .pea archívumba küldött bemeneti fájlok és mappák

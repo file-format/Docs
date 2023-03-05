@@ -19,7 +19,7 @@
 
 ## Mi az RML fájl?
 
-Az RML-fájl egy jelentéssablonfájl az [Elixir Repertoire](https://elixirtech.com/repertoire-2/) jelentéskészítő motorral. A sablonfájl jelentések létrehozására szolgál az Elixir fájlrendszerhez csatlakoztatott adatforrással. Az adatok beolvasása és feltöltése az RML-sablonfájlban történik, és számos különböző fájlformátumba exportálhatók, például [PDF](/hu/pdf/), [RTF](/hu/word-processing/rtf/) és táblázatba [XLS] (/hu/spreadsheet/xls/). Az Elixir Repertoár jelentéskészítő motor számos JDBC adatforráshoz csatlakoztatható.
+Az RML-fájl egy jelentéssablonfájl az [Elixir Repertoire](https://elixirtech.com/repertoire-2/) jelentéskészítő motorral. A sablonfájl jelentések létrehozására szolgál az Elixir fájlrendszerhez csatlakoztatott adatforrással. Az adatok beolvasása és feltöltése az RML-sablonfájlban történik, és számos különböző fájlformátumba exportálhatók, például [PDF](/hu/pdf/), [RTF](/hu/word-processing/rtf/) és táblázatba [XLS](/hu/spreadsheet/xls/). Az Elixir Repertoár jelentéskészítő motor számos JDBC adatforráshoz csatlakoztatható.
 
 ## RML fájl formátum
 

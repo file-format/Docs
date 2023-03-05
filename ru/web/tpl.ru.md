@@ -129,6 +129,6 @@ img, a img {border: none;}
 
 ## использованная литература
 
-* [HFS] (https://www.rejetto.com/wiki/index.php/Refinements)
-* [Пример TPL — Github] (https://github.com/heiswayi/hfs-templates/blob/master/HFSTemplate_myHFS.tpl)
+* [HFS](https://www.rejetto.com/wiki/index.php/Refinements)
+* [Пример TPL — Github](https://github.com/heiswayi/hfs-templates/blob/master/HFSTemplate_myHFS.tpl)
 

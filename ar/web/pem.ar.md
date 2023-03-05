@@ -18,7 +18,7 @@
 
 ## ما هو ملف PEM؟
 
-ملف PEM هو ملف شهادة أمان يُستخدم لإنشاء قناة اتصال آمنة بين خادم الويب والمستعرض. إنه مشفر باستخدام Base64 وقد يحتوي على مفتاح خاص و / أو شهادة خادم و / أو مجموعة من الشهادات الأخرى. تشبه ملفات PEM ملفات شهادة .der من حيث الاستخدام ولكن يتم تخزينها كنص بترميز Base64 بدلاً من بيانات ثنائية. تتضمن تنسيقات ملفات الشهادات المماثلة الأخرى ملفات [.cer] (/ar/ web / cer /) و [.crt] (/ar/ web / crt /).
+ملف PEM هو ملف شهادة أمان يُستخدم لإنشاء قناة اتصال آمنة بين خادم الويب والمستعرض. إنه مشفر باستخدام Base64 وقد يحتوي على مفتاح خاص و / أو شهادة خادم و / أو مجموعة من الشهادات الأخرى. تشبه ملفات PEM ملفات شهادة .der من حيث الاستخدام ولكن يتم تخزينها كنص بترميز Base64 بدلاً من بيانات ثنائية. تتضمن تنسيقات ملفات الشهادات المماثلة الأخرى ملفات [.cer](/ar/ web / cer /) و [.crt](/ar/ web / crt /).
 
 تتضمن التطبيقات التي يمكنها ** فتح ملفات PEM ** برامج تحرير النصوص مثل Microsoft Notepad و Apple TextEdit.
 
@@ -68,6 +68,6 @@ EggHozdmgGz7zbC1mcJ2rcNAQEEBBAYTAlVTMRMwMIICCDAaBgkqhkiG9lVTMRMwMIICCDAaBgkqhkiG
 
 ## مراجع ##
 
-* [تشفير المفتاح العام] (https://en.wikipedia.org/wiki/Public-key_cryptography)
-* [كيف تنشئ ملف P7C؟] (https://www.ibm.com/support/pages/how-create-pkcs7-p7b-p7c-certificate-your-trading-partner)
+* [تشفير المفتاح العام](https://en.wikipedia.org/wiki/Public-key_cryptography)
+* [كيف تنشئ ملف P7C؟](https://www.ibm.com/support/pages/how-create-pkcs7-p7b-p7c-certificate-your-trading-partner)
 

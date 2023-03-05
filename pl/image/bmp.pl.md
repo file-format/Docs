@@ -81,6 +81,6 @@ Obraz jest faktycznie opisany przez 32-bitową reprezentację DWORD tablicy piks
 
 ## Bibliografia ##
 
-* [Format Windows MetaFile] (http://msdn.microsoft.com/en-us/library/cc250370.aspx)
+* [Format Windows MetaFile](http://msdn.microsoft.com/en-us/library/cc250370.aspx)
 * [Format pliku BMP](https://en.wikipedia.org/wiki/BMP_file_format)
 

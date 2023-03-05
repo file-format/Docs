@@ -33,5 +33,5 @@
 
 ## संदर्भ
 
-* [ड्रीमविवर टेम्पलेट्स में रास्तों को समझें] (https://helpx.adobe.com/dreamweaver/kb/paths-dreamweaver-templates.html)
+* [ड्रीमविवर टेम्पलेट्स में रास्तों को समझें](https://helpx.adobe.com/dreamweaver/kb/paths-dreamweaver-templates.html)
 

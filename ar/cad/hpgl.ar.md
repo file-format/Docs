@@ -71,6 +71,6 @@ Example :PA5000,1000;
 | LBHello World * ؛ | ارسم تسمية |
 
 ## مراجع
-* [HPGL بواسطة Wikipedia] (https://en.wikipedia.org/wiki/HP-GL)
-* [دليل مرجعي HPGL] (https://www.isoplotec.co.jp/HPGL/eHPGL.htm)
+* [HPGL بواسطة Wikipedia](https://en.wikipedia.org/wiki/HP-GL)
+* [دليل مرجعي HPGL](https://www.isoplotec.co.jp/HPGL/eHPGL.htm)
 

@@ -28,5 +28,5 @@ MJPEG परिपक्व संपीड़न मानक यानी [JPE
 ## संदर्भ ##
 
 - [RFC2435 - JPEG-कंप्रेस्ड वीडियो के लिए RTP पेलोड फ़ॉर्मेट](https://tools.ietf.org/html/rfc2435)
-- [मोशन जेपीईजी - विकिपीडिया] (https://en.wikipedia.org/wiki/Motion_JPEG)
+- [मोशन जेपीईजी - विकिपीडिया](https://en.wikipedia.org/wiki/Motion_JPEG)
 

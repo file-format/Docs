@@ -26,5 +26,5 @@ Los archivos DSC se crean y almacenan en el disco como archivos de texto sin for
 
 ## Referencias
 
-* [Formato de archivo TXT] (https://en.wikipedia.org/wiki/Text_file)
+* [Formato de archivo TXT](https://en.wikipedia.org/wiki/Text_file)
 

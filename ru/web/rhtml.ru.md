@@ -37,5 +37,5 @@
 ```
 ## использованная литература
 
-* [TutorialsPoint — Ruby on Rails] (https://www.tutorialspoint.com/ruby-on-rails/rails-and-rhtml.htm)
+* [TutorialsPoint — Ruby on Rails](https://www.tutorialspoint.com/ruby-on-rails/rails-and-rhtml.htm)
 

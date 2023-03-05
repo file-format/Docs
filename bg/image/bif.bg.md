@@ -39,5 +39,5 @@ BIF файловете се използват от скенери за цифр
 
 ## Препратки ##
 
-* [Бяла книга на Roche Digital Pathology BIF] (https://diagnostics.roche.com/content/dam/diagnostics/Blueprint/en/pdf/rmd/Roche-Digital-Pathology-BIF-Whitepaper.pdf)
+* [Бяла книга на Roche Digital Pathology BIF](https://diagnostics.roche.com/content/dam/diagnostics/Blueprint/en/pdf/rmd/Roche-Digital-Pathology-BIF-Whitepaper.pdf)
 

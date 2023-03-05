@@ -68,7 +68,7 @@ class MyCoolScreensaver : Screensaver
 
 ## مراجع
 
-* [شاشة التوقف] (https://en.wikipedia.org/wiki/Screensaver)
-* [اكتب شاشة توقف تعمل بالفعل] (https://www.codeproject.com/Articles/14081/Write-a-Screensaver-that-Actually-Works)
+* [شاشة التوقف](https://en.wikipedia.org/wiki/Screensaver)
+* [اكتب شاشة توقف تعمل بالفعل](https://www.codeproject.com/Articles/14081/Write-a-Screensaver-that-Actually-Works)
 
 

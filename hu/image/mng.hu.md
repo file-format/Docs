@@ -23,7 +23,7 @@ Az .mng kiterjesztésű fájl egy többképes hálózati grafikai fájlformátum
 
 ## MNG fájl formátum
 
-Az MNG-fájlformátum hasonló a PNG-hez, és ugyanazt a csonk-struktúrát használja, mint a PNG-specifikációkban. Az MNG dekódernek képesnek kell lennie a PNG adatfolyamok dekódolására anélkül, hogy a dekódolási utasításokhoz speciális zászlókat adna meg. Az MNG több képet egy "keretbe" csoportosít, és néhány képet spriteként használnak az egyik helyről a másikra való mozgatáshoz. A mechanizmus lehetővé teszi a képadatok újrafelhasználását azok újraküldése nélkül. Az [MNG-specifikációk] (http://www.libpng.org/pub/mng/spec/) a fejlesztők számára elérhetők.
+Az MNG-fájlformátum hasonló a PNG-hez, és ugyanazt a csonk-struktúrát használja, mint a PNG-specifikációkban. Az MNG dekódernek képesnek kell lennie a PNG adatfolyamok dekódolására anélkül, hogy a dekódolási utasításokhoz speciális zászlókat adna meg. Az MNG több képet egy "keretbe" csoportosít, és néhány képet spriteként használnak az egyik helyről a másikra való mozgatáshoz. A mechanizmus lehetővé teszi a képadatok újrafelhasználását azok újraküldése nélkül. Az [MNG-specifikációk](http://www.libpng.org/pub/mng/spec/) a fejlesztők számára elérhetők.
 
 ### MNG aláírás
 

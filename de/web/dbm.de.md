@@ -27,6 +27,6 @@ DBM-Dateien werden erstellt und als reine Textdateien auf dem Server gespeichert
 
 ## Verweise
 
-* [ColdFusion-Auszeichnungssprache] (https://people.apache.org/~jim/NewArchitect/webtech/2000/08/junk/index.html)
+* [ColdFusion-Auszeichnungssprache](https://people.apache.org/~jim/NewArchitect/webtech/2000/08/junk/index.html)
 * [Adobe ColdFusion](https://en.wikipedia.org/wiki/Adobe_ColdFusion)
 

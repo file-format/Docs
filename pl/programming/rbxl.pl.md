@@ -18,7 +18,7 @@
 
 ## Czym jest plik RBXL?
 
-Plik RBXL to plik lokalizacji Roblox, który zawiera lokalizację zdefiniowaną w świecie 3D w [grze Roblox] (https://www.roblox.com/). Sam Roblox to wieloosobowa gra budowlana, która pozwala graczom tworzyć gry przy użyciu narzędzi programistycznych dostarczonych przez platformę. Pliki RBXL wykorzystują narzędzia, skrypty, zespoły i części do opisywania pola gry jako modeli 3D. Roblox Studio pozwala graczowi tworzyć elementy do gier i może być używany do otwierania plików RBXL.
+Plik RBXL to plik lokalizacji Roblox, który zawiera lokalizację zdefiniowaną w świecie 3D w [grze Roblox](https://www.roblox.com/). Sam Roblox to wieloosobowa gra budowlana, która pozwala graczom tworzyć gry przy użyciu narzędzi programistycznych dostarczonych przez platformę. Pliki RBXL wykorzystują narzędzia, skrypty, zespoły i części do opisywania pola gry jako modeli 3D. Roblox Studio pozwala graczowi tworzyć elementy do gier i może być używany do otwierania plików RBXL.
 
 ## Format pliku RBXL
 

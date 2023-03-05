@@ -58,5 +58,5 @@
 
 ## संदर्भ
 
-* [चैनल परिभाषा प्रारूप - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/Channel_Definition_Format)
+* [चैनल परिभाषा प्रारूप - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Channel_Definition_Format)
 

@@ -23,9 +23,9 @@
 
 ## Формат файла ADR — дополнительная информация
 
-Детали внутреннего формата файлов ADR неизвестны. Однако существуют различия между форматами файлов ADR, экспортируемыми разными версиями Opera. Это затрудняет [объединение файлов ADR] (https://superuser.com/questions/471959/how-do-i-merge-several-opera-adr-bookmark-files-to-one-single-file) с разными версиями Opera. Однако для их объединения можно использовать некоторые внешние инструменты.
+Детали внутреннего формата файлов ADR неизвестны. Однако существуют различия между форматами файлов ADR, экспортируемыми разными версиями Opera. Это затрудняет [объединение файлов ADR](https://superuser.com/questions/471959/how-do-i-merge-several-opera-adr-bookmark-files-to-one-single-file) с разными версиями Opera. Однако для их объединения можно использовать некоторые внешние инструменты.
 
 ## использованная литература
 
-* [Объединить файлы ADR] (https://superuser.com/questions/471959/how-do-i-merge-several-opera-adr-bookmark-files-to-one-single-file)
+* [Объединить файлы ADR](https://superuser.com/questions/471959/how-do-i-merge-several-opera-adr-bookmark-files-to-one-single-file)
 

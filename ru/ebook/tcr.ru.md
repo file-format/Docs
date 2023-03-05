@@ -42,6 +42,6 @@
 
 ## использованная литература
 
-* [TCR — MobileRead] (https://wiki.mobileread.com/wiki/TCR)
-* [Чтение сжатых текстовых файлов ZVR] (https://iay.org.uk/zvr/)
+* [TCR — MobileRead](https://wiki.mobileread.com/wiki/TCR)
+* [Чтение сжатых текстовых файлов ZVR](https://iay.org.uk/zvr/)
 

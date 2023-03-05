@@ -30,7 +30,7 @@
 * GPX основан на стандарте XML, поэтому многие из новых программ, которые вы используете (например, Microsoft Excel), могут читать файлы GPX.
 * GPX позволяет любому человеку в Интернете легко разрабатывать новые функции, которые будут мгновенно работать с вашими любимыми программами.
 
-[Схема GPX] (https://www.topografix.com/GPX/1/1/gpx.xsd) показывает представление формата файла GPX для справки.
+[Схема GPX](https://www.topografix.com/GPX/1/1/gpx.xsd) показывает представление формата файла GPX для справки.
 
 ### Основные данные ###
 
@@ -74,6 +74,6 @@
 
 ## Использованная литература ##
 
-* [Формат файла GPX] (http://www.topografix.com/gpx.asp)
-* [GPX — Википедия] (https://en.wikipedia.org/wiki/GPS_Exchange_Format)
+* [Формат файла GPX](http://www.topografix.com/gpx.asp)
+* [GPX — Википедия](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
 

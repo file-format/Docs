@@ -19,7 +19,7 @@
 
 ## Mi az a B6Z fájl?
 
-A .b6z kiterjesztésű fájl egy tömörített archív fájl, amelyet macOS szoftveralkalmazás [B6Zip] (http://b6zip.com) hozott létre, amely a fájlok tömörítésére és kibontására szolgál. Ez egy viszonylag új archív formátum, amely nagyobb tömörítési arányt tesz lehetővé. A B6Z nyitott architektúrájú, és támogatja a 900 000 PB-ig terjedő fájlméretet. Támogatja az adattömörítést, a hibajavítást és a fájlok átívelését. A B6Zip segédszoftver ingyenesen elérhető MacOS rendszeren különböző típusú tömörített fájlok megnyitásához, beleértve a B6Z fájlt is.
+A .b6z kiterjesztésű fájl egy tömörített archív fájl, amelyet macOS szoftveralkalmazás [B6Zip](http://b6zip.com) hozott létre, amely a fájlok tömörítésére és kibontására szolgál. Ez egy viszonylag új archív formátum, amely nagyobb tömörítési arányt tesz lehetővé. A B6Z nyitott architektúrájú, és támogatja a 900 000 PB-ig terjedő fájlméretet. Támogatja az adattömörítést, a hibajavítást és a fájlok átívelését. A B6Zip segédszoftver ingyenesen elérhető MacOS rendszeren különböző típusú tömörített fájlok megnyitásához, beleértve a B6Z fájlt is.
 
 ## B6Z fájlformátum
 

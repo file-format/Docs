@@ -238,6 +238,6 @@ h1 span {
 
 ## संदर्भ ##
 
-- [सास - विकिपीडिया] (https://en.wikipedia.org/wiki/Sass_(stylesheet_language))
+- [सास - विकिपीडिया](https://en.wikipedia.org/wiki/Sass_(stylesheet_language))
 - [सास](https://sass-lang.com/)
 

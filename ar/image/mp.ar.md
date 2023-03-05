@@ -19,7 +19,7 @@
 
 ## ما هو ملف MP؟
 
-ملف MP هو ملف صورة متجه تم إنشاؤه بواسطة لغة برمجة MetaPost لإنشاء الصور. يتم حفظ الصور المتجهة التي تم إنشاؤها باستخدام تنسيق ملف MP كملفات [EPS] (/ar/ image / eps /) (Encapsulated PostScript). بالإضافة إلى ذلك ، يتم توزيع MetaPost مع إطار عمل TeX و Metafont ويمكن إنشاء ملفات MP من داخل ملفات TEX و LTX التي تستخدمها هذه التطبيقات. تحتوي ملفات MP على عبارات رسم ورسم حسابي رياضي لتقديم ملف EPS الناتج. يمكن لمحرك PDFTex استخدام EPS الذي تم إنشاؤه لإنشاء ملفات [PDF] (/ar/ pdf /) مباشرة.
+ملف MP هو ملف صورة متجه تم إنشاؤه بواسطة لغة برمجة MetaPost لإنشاء الصور. يتم حفظ الصور المتجهة التي تم إنشاؤها باستخدام تنسيق ملف MP كملفات [EPS](/ar/ image / eps /) (Encapsulated PostScript). بالإضافة إلى ذلك ، يتم توزيع MetaPost مع إطار عمل TeX و Metafont ويمكن إنشاء ملفات MP من داخل ملفات TEX و LTX التي تستخدمها هذه التطبيقات. تحتوي ملفات MP على عبارات رسم ورسم حسابي رياضي لتقديم ملف EPS الناتج. يمكن لمحرك PDFTex استخدام EPS الذي تم إنشاؤه لإنشاء ملفات [PDF](/ar/ pdf /) مباشرة.
 
 ## تنسيق ملف MP
 
@@ -27,7 +27,7 @@
 
 ### مثال ملف MetaPost MP
 
-فيما يلي مثال مشار إليه من [Berkeley Eductational Wiki] (https://math.berkeley.edu/computing/wiki/index.php/Latex_sample_metapost) ، والذي يحتوي على سهم والحرف "A" أعلى منتصف سهم.
+فيما يلي مثال مشار إليه من [Berkeley Eductational Wiki](https://math.berkeley.edu/computing/wiki/index.php/Latex_sample_metapost) ، والذي يحتوي على سهم والحرف "A" أعلى منتصف سهم.
 
 ```
 outputtemplate:="%j%c.mps";
@@ -45,6 +45,6 @@ bye
 ```
 ## مراجع ##
 
-* [MetaPost by Wikipedia] (https://en.wikipedia.org/wiki/MetaPost)
-* [Latex sample Metapost by Berkeley Educational Wiki] (https://math.berkeley.edu/computing/wiki/index.php/Latex_sample_metapost)
+* [MetaPost by Wikipedia](https://en.wikipedia.org/wiki/MetaPost)
+* [Latex sample Metapost by Berkeley Educational Wiki](https://math.berkeley.edu/computing/wiki/index.php/Latex_sample_metapost)
 

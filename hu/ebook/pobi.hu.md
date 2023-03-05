@@ -19,7 +19,7 @@
 
 ## Mi az a POBI fájl?
 
-A POBI fájl az eBook fájltípushoz tartozik; valójában egy **Kindle Touch Periodical Data**. Ez a fájlformátum periodikus [MOBI] (/hu/ebook/mobi/) néven is ismert; Amazon Kindle Touch e-olvasó eszközben használják. Bár a POBI-fájlok fájltípusa e-könyv, a .pobi kiterjesztésű fájlt nem mondhatjuk e-könyvnek; mert nem olyan tartalommal rendelkezik, mint egy e-könyvben. Csak az adatokat tartalmazza, mint egy magazin, és úgy működik, mint egy MOBI-fájl. Ha azonban a .pobi kiterjesztés .mobi-ra változik, akkor a magazin rovatai és cikkindexei nem jelennek meg.
+A POBI fájl az eBook fájltípushoz tartozik; valójában egy **Kindle Touch Periodical Data**. Ez a fájlformátum periodikus [MOBI](/hu/ebook/mobi/) néven is ismert; Amazon Kindle Touch e-olvasó eszközben használják. Bár a POBI-fájlok fájltípusa e-könyv, a .pobi kiterjesztésű fájlt nem mondhatjuk e-könyvnek; mert nem olyan tartalommal rendelkezik, mint egy e-könyvben. Csak az adatokat tartalmazza, mint egy magazin, és úgy működik, mint egy MOBI-fájl. Ha azonban a .pobi kiterjesztés .mobi-ra változik, akkor a magazin rovatai és cikkindexei nem jelennek meg.
 
 ## Problémák a POBI fájl megnyitásakor ##
 

@@ -31,6 +31,6 @@
 
 ## использованная литература
 
-* [QuickBooks от Intuit] (https://quickbooks.intuit.com/)
+* [QuickBooks от Intuit](https://quickbooks.intuit.com/)
 * [QuickBooks — Создание файла qbregistration.dat](https://quickbooks.intuit.com/learn-support/en-us/license-information/create-or-re-create-the-qbregistration-dat-file/ 00/186082)
 

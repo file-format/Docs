@@ -166,6 +166,6 @@ docker_compute_node_names: docker_compute1
 
 ## संदर्भ ##
 
-- [वाईएएमएल - विकिपीडिया] (https://en.wikipedia.org/wiki/YAML)
+- [वाईएएमएल - विकिपीडिया](https://en.wikipedia.org/wiki/YAML)
 - [YAML](https://yaml.org/spec/1.2/spec.html)
 

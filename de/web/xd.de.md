@@ -31,5 +31,5 @@ XD-Dateien enthalten grafische Elemente (Bild, Formen und Text) in Ebenen als ei
 
 ## Verweise
 
-* [Adobe XD-Benutzerhandbuch] (https://helpx.adobe.com/xd/user-guide.html)
+* [Adobe XD-Benutzerhandbuch](https://helpx.adobe.com/xd/user-guide.html)
 

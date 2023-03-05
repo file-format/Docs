@@ -32,5 +32,5 @@ ffmpeg -i 0010600.sec -vcodec copy -vsync drop -fflags genpts -f avi 0010600.avi
 
 ## Referencias ##
 
-- [Archivos de Samsung y SEC] (https://spreadys.wordpress.com/2013/07/19/samsung-and-sec-files/)
+- [Archivos de Samsung y SEC](https://spreadys.wordpress.com/2013/07/19/samsung-and-sec-files/)
 

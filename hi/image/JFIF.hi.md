@@ -77,5 +77,5 @@ JFIF को [PNG](/hi/image/png/), [JPG](/hi/image/jpg/), और [PDF](/hi/pdf/)
 
 ## संदर्भ ##
 
-- [जेएफआईएफ - विकिपीडिया] (https://en.wikipedia.org/wiki/JPEG_File_Interchange_Format#History)
+- [जेएफआईएफ - विकिपीडिया](https://en.wikipedia.org/wiki/JPEG_File_Interchange_Format#History)
 

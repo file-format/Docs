@@ -74,6 +74,6 @@ A következő GPX-fájl a GPS-adatok GPX-fájlban való elrendezését mutatja b
 
 ## Referenciák ##
 
-* [GPX fájlformátum] (http://www.topografix.com/gpx.asp)
+* [GPX fájlformátum](http://www.topografix.com/gpx.asp)
 * [GPX – a Wikipedia által](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
 

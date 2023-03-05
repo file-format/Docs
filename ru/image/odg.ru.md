@@ -89,6 +89,6 @@ OpenDocument содержит все элементы метаданных в п
 `Mater Styles` — общий стиль, который содержит информацию о форматировании и дополнительное содержимое, отображаемое вместе с содержимым документа при применении стиля. Примером мастер-стиля являются мастер-страницы.
 
 ## Использованная литература ##
-* [Открытый формат документа OASIS для приложений Office] (https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
-* [Формат OpenDocument — Википедия] (https://en.wikipedia.org/wiki/OpenDocument)
+* [Открытый формат документа OASIS для приложений Office](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
+* [Формат OpenDocument — Википедия](https://en.wikipedia.org/wiki/OpenDocument)
 

@@ -26,5 +26,5 @@ OLM — это двоичные файлы с типом MIME Application/octet-
 
 ## использованная литература
 
-* [Формат файла OLM?] (https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format?forum=os_binaryfile)
+* [Формат файла OLM?](https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format?forum=os_binaryfile)
 

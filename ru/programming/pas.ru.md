@@ -65,6 +65,6 @@ unit Unit1;
 
 ## использованная литература
 
-* [Понимание проекта Delphi и исходных файлов модулей] (https://www.thoughtco.com/understanding-delphi-project-files-dpr-1057652)
+* [Понимание проекта Delphi и исходных файлов модулей](https://www.thoughtco.com/understanding-delphi-project-files-dpr-1057652)
 * [Написание вашей первой программы Delphi](http://www.delphibasics.co.uk/Article.asp?Name=FirstPgm)
 

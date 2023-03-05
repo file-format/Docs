@@ -26,6 +26,6 @@
 
 ## Ссылка ##
 
-* [APACHE GROOVY — по Википедии] (https://en.wikipedia.org/wiki/Apache_Groovy)
-* [Язык Groovy] (https://groovy-lang.org/documentation.html)
+* [APACHE GROOVY — по Википедии](https://en.wikipedia.org/wiki/Apache_Groovy)
+* [Язык Groovy](https://groovy-lang.org/documentation.html)
 

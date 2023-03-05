@@ -45,7 +45,7 @@ Les données de police Type 1 se composent de deux fichiers distincts dans Windo
 2. Le fichier avec l'extension ".PFM" contient les données métriques.
 
 ## Références
-* [Polices de type 1] (https://www.prepressure.com/fonts/basics/type1)
+* [Polices de type 1](https://www.prepressure.com/fonts/basics/type1)
 * [Fin du support des polices PostScript Type 1](https://helpx.adobe.com/fonts/kb/postscript-type-1-fonts-end-of-support.html)
 * [Polices PostScript (Wikipédia)](https://en.wikipedia.org/wiki/PostScript_fonts)
 

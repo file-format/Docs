@@ -25,7 +25,7 @@ Un fichier OSU est un script de jeu écrit pour osu ! jeu de rythme. Il contient
 
 ## Format de fichier OSU
 
-Les fichiers OSU sont enregistrés sous forme de fichiers texte brut sur le disque et sa structure est très clairement définie dans le [format de fichier OSU] (https://osu.ppy.sh/wiki/en/Client/File_formats/Osu_%28file_format%29) par osu!.
+Les fichiers OSU sont enregistrés sous forme de fichiers texte brut sur le disque et sa structure est très clairement définie dans le [format de fichier OSU](https://osu.ppy.sh/wiki/en/Client/File_formats/Osu_%28file_format%29) par osu!.
 
 ### Sections dans le fichier OSU
 
@@ -44,6 +44,6 @@ Un fichier OSU typique comporte les sections suivantes.
 
 ## Références
 
-* [OSU ! Jeu de rythme] (https://osu.ppy.sh/home)
+* [OSU ! Jeu de rythme](https://osu.ppy.sh/home)
 * [Format de fichier OSU](https://osu.ppy.sh/wiki/en/Client/File_formats/Osu_%28file_format%29)
 

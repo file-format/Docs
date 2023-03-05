@@ -32,5 +32,5 @@
 
 ## Использованная литература ##
 
-* [Программное обеспечение для редактирования фотографий PhotoPad] (https://www.nchsoftware.com/photoeditor/index.html)
+* [Программное обеспечение для редактирования фотографий PhotoPad](https://www.nchsoftware.com/photoeditor/index.html)
 

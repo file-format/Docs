@@ -23,7 +23,7 @@ Az .xlthtml kiterjesztésű fájl az [XLT](/hu/spreadsheet/xlt/) sablonfájlok [
 
 ## XLTHTML fájlformátum – További információ
 
-Az XLTHTML fájlok a HTML fájlformátumot használták az XLT sablonok webböngészőben való megnyitásához. Maga az XLT az Excel bináris fájlformátumán alapul, amelyet az Excel 97-2003-as verziójával vezettek be. Ezek a fájlok használhatók kezdőfájlként meghatározott formázással normál dokumentumok létrehozásához a táblázatadatok populációjához. Csak referenciaként, az XLT a bináris [XLS fájlformátum-specifikációkon] (https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx) alapul, amelyet a Microsoft dokumentált fejlesztő referenciája.
+Az XLTHTML fájlok a HTML fájlformátumot használták az XLT sablonok webböngészőben való megnyitásához. Maga az XLT az Excel bináris fájlformátumán alapul, amelyet az Excel 97-2003-as verziójával vezettek be. Ezek a fájlok használhatók kezdőfájlként meghatározott formázással normál dokumentumok létrehozásához a táblázatadatok populációjához. Csak referenciaként, az XLT a bináris [XLS fájlformátum-specifikációkon](https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx) alapul, amelyet a Microsoft dokumentált fejlesztő referenciája.
 
 ## Hivatkozások ##
 

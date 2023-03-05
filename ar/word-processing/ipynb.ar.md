@@ -19,13 +19,13 @@
 
 ## ما هو ملف IPYNB؟
 
-الملف بامتداد .ipynb هو ملف Jupyter Notebook يحتوي على محتويات Notebook الكاملة التي تم إنشاؤها باستخدام جلسة تطبيق الويب Jupyter Notebook. [Jupyter Notebook] (https://jupyter.org/) هو تطبيق ويب تفاعلي يُستخدم لإنشاء مستندات حسابية ومشاركتها للتحليل باستخدام Python.
+الملف بامتداد .ipynb هو ملف Jupyter Notebook يحتوي على محتويات Notebook الكاملة التي تم إنشاؤها باستخدام جلسة تطبيق الويب Jupyter Notebook. [Jupyter Notebook](https://jupyter.org/) هو تطبيق ويب تفاعلي يُستخدم لإنشاء مستندات حسابية ومشاركتها للتحليل باستخدام Python.
 
 يعمل ملف IPYNB كسجل حسابي كامل للجلسة ويتضمن معلومات مثل المدخلات والمخرجات الحسابية والوظائف الرياضية والتمثيل الغني للكائنات الناتجة مثل الصور والنص التوضيحي.
 
 ## تنسيق ملف IPYNB
 
-يتم حفظ IPYNB داخليًا بتنسيق ملف [JSON] (/ar/ web / json /) وهو تنسيق ملف قياسي مفتوح لمشاركة البيانات. لهذا السبب ، فإن ملفات IPYNB قابلة للقراءة وسهلة الفهم. يسهّل JSON أيضًا مشاركة هذه الملفات مع الآخرين.
+يتم حفظ IPYNB داخليًا بتنسيق ملف [JSON](/ar/ web / json /) وهو تنسيق ملف قياسي مفتوح لمشاركة البيانات. لهذا السبب ، فإن ملفات IPYNB قابلة للقراءة وسهلة الفهم. يسهّل JSON أيضًا مشاركة هذه الملفات مع الآخرين.
 
 ## كيفية تحويل ملفات IPYNB؟
 
@@ -45,6 +45,6 @@
 
 ## مراجع ##
 
-* [Jupyter Notebook] (https://jupyter-notebook.readthedocs.io/en/stable/notebook.html؟highlight=ipynb#notebook-documents)
-* [Jupyter Notebook - Github] (https://github.com/jupyter/notebook)
+* [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html؟highlight=ipynb#notebook-documents)
+* [Jupyter Notebook - Github](https://github.com/jupyter/notebook)
 

@@ -36,7 +36,7 @@ Mind a raszteres, mind a vektoros betűtípus-fájlok eleje gyakori, amit az egy
 * dfColorPointer
 * dfReserved1
 
-A Windows 3.0 és 2.0 fejléceivel kapcsolatos részletes információkért keresse fel a [Microsoft KnowledgeBase Archívumot] (https://jeffpar.github.io/kbarchive/kb/065/Q65123/).
+A Windows 3.0 és 2.0 fejléceivel kapcsolatos részletes információkért keresse fel a [Microsoft KnowledgeBase Archívumot](https://jeffpar.github.io/kbarchive/kb/065/Q65123/).
 
 ## Hivatkozások
 * [Font fájlformátum](https://jeffpar.github.io/kbarchive/kb/065/Q65123/)

@@ -26,5 +26,5 @@ Autoconf هو أحد مكونات نظام البناء GNU الذي يولد ت
 
 ## مراجع
 
-* [Autoconf] (https://www.gnu.org/software/autoconf/)
+* [Autoconf](https://www.gnu.org/software/autoconf/)
 

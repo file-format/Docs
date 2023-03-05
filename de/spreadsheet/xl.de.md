@@ -23,7 +23,7 @@ Eine Datei mit der Erweiterung .xl ist eine Excel-Tabellendatei, ähnlich wie [X
 
 ## XL-Dateiformat
 
-XL-Dateien werden als Binärdateien gespeichert und ihre internen Dateiformatspezifikationen sind nirgendwo dokumentiert. Das allgemeine Binärdateiformat für [XLS-Dateiformatspezifikationen] (https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx) kann jedoch auch in Betracht gezogen werden, wenn jemand versucht, einen Code zu schreiben, um diese Dateien zurückzuentwickeln.
+XL-Dateien werden als Binärdateien gespeichert und ihre internen Dateiformatspezifikationen sind nirgendwo dokumentiert. Das allgemeine Binärdateiformat für [XLS-Dateiformatspezifikationen](https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx) kann jedoch auch in Betracht gezogen werden, wenn jemand versucht, einen Code zu schreiben, um diese Dateien zurückzuentwickeln.
 
 ## Verweise ##
 

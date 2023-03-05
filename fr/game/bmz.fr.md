@@ -39,6 +39,6 @@ La communauté des développeurs de Valve Software a établi des directives pour
 
 ## Références
 
-* [Créer et installer des fichiers de cartes bonus - Par Valve Software] (https://developer.valvesoftware.com/wiki/Bonus_Maps)
+* [Créer et installer des fichiers de cartes bonus - Par Valve Software](https://developer.valvesoftware.com/wiki/Bonus_Maps)
 * [Script du défi du portail](https://developer.valvesoftware.com/wiki/Portal_Challenge_Script)
 

@@ -23,7 +23,7 @@ Un fișier cu extensia .xlthtml este o versiune [HTML](/ro/web/html/) a fișiere
 
 ## Format de fișier XLTHTML - Mai multe informații
 
-Fișierele XLTHTML au folosit formatul de fișier HTML pentru a salva șabloanele XLT pentru a fi deschise într-un browser web. XLT în sine se bazează pe formatul de fișier binar Excel care a fost introdus cu versiunea Excel 97-2003. Aceste fișiere pot fi folosite ca fișiere de pornire cu formatare definită pentru a crea documente normale pentru popularea datelor din foile de calcul. Doar ca referință, XLT se bazează pe [specificațiile formatului fișierului XLS] (https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx) care este documentat de Microsoft pentru referința dezvoltatorului.
+Fișierele XLTHTML au folosit formatul de fișier HTML pentru a salva șabloanele XLT pentru a fi deschise într-un browser web. XLT în sine se bazează pe formatul de fișier binar Excel care a fost introdus cu versiunea Excel 97-2003. Aceste fișiere pot fi folosite ca fișiere de pornire cu formatare definită pentru a crea documente normale pentru popularea datelor din foile de calcul. Doar ca referință, XLT se bazează pe [specificațiile formatului fișierului XLS](https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx) care este documentat de Microsoft pentru referința dezvoltatorului.
 
 ## Referințe ##
 

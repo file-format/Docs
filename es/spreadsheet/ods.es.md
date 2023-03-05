@@ -31,7 +31,7 @@ Las especificaciones de formato de archivo ODS se basan en el estándar desarrol
 
 `2011`: la versión 1.2 se publicó en septiembre de 2011
 
-Hubo cambios bastante menores en la transición de las versiones ODF 1.0 a 1.1. La [versión de ODF 1.2] (https://www.oasis-open.org/standards#opendocumentv1.2) es la última versión de las especificaciones de ODF y los desarrolladores deben consultarla para el desarrollo de aplicaciones relacionadas con la lectura/escritura de ODS.
+Hubo cambios bastante menores en la transición de las versiones ODF 1.0 a 1.1. La [versión de ODF 1.2](https://www.oasis-open.org/standards#opendocumentv1.2) es la última versión de las especificaciones de ODF y los desarrolladores deben consultarla para el desarrollo de aplicaciones relacionadas con la lectura/escritura de ODS.
 
 ## Formato de archivo ODS ##
 

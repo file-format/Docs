@@ -47,9 +47,9 @@
 
 ### علامات RIS
 
-راجع قسم [علامات RIS] (https://web.archive.org/web/20110930172154/http://www.refman.com/support/risformat_tags_01.asp) في مستند مواصفات تنسيق الملف.
+راجع قسم [علامات RIS](https://web.archive.org/web/20110930172154/http://www.refman.com/support/risformat_tags_01.asp) في مستند مواصفات تنسيق الملف.
 
 ## مراجع
 
-* [مواصفات تنسيق RIS] (https://web.archive.org/web/20110930172154/http://www.refman.com/support/risformat_intro.asp) |
+* [مواصفات تنسيق RIS](https://web.archive.org/web/20110930172154/http://www.refman.com/support/risformat_intro.asp) |
 

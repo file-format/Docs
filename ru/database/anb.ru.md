@@ -33,6 +33,6 @@
 
 ## использованная литература
 
-* [Блокнот аналитика IBM Security i2] (https://www.ibm.com/products/i2-analysts-notebook)
-* [Расположение локальных папок и папок рабочей группы для импорта спецификаций и условного форматирования] (https://www.ibm.com/support/pages/node/3544449?mhsrc=ibmsearch_a&mhq=ANB%20file%20format)
+* [Блокнот аналитика IBM Security i2](https://www.ibm.com/products/i2-analysts-notebook)
+* [Расположение локальных папок и папок рабочей группы для импорта спецификаций и условного форматирования](https://www.ibm.com/support/pages/node/3544449?mhsrc=ibmsearch_a&mhq=ANB%20file%20format)
 

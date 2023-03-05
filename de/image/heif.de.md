@@ -48,6 +48,6 @@ Die folgenden Betriebssysteme unterstützen HEIF-Inhalte:
 ## Verweise
 
 * [HEIF – Wikipedia](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format)
-* [HEIF-Informationen von Nokia Technologies] (https://nokiatech.github.io/heif/)
+* [HEIF-Informationen von Nokia Technologies](https://nokiatech.github.io/heif/)
 * [HEIF Reader/Writer-Quellcode auf GitHub](https://github.com/nokiatech/heif)
 

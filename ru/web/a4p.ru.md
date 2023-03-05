@@ -28,5 +28,5 @@
 
 ## использованная литература
 
-* [Avanquest A4Desk Pro] (https://www.bhphotovideo.com/c/product/1015956-REG/avanquest_a4deskphe7_a4desk_pro_home_edition.html)
+* [Avanquest A4Desk Pro](https://www.bhphotovideo.com/c/product/1015956-REG/avanquest_a4deskphe7_a4desk_pro_home_edition.html)
 

@@ -29,5 +29,5 @@ BIK Video هو تنسيق ملف خاص لمقاطع الفيديو تم تطو�
 
 ## مراجع ##
 
-- [فيديو بينك - من ويكيبيديا] (https://en.wikipedia.org/wiki/Bink_Video)
+- [فيديو بينك - من ويكيبيديا](https://en.wikipedia.org/wiki/Bink_Video)
 

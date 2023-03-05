@@ -26,5 +26,5 @@
 
 ## Использованная литература ##
 
-- [MPEG-1 - Википедия] (https://en.wikipedia.org/wiki/MPEG-1)
+- [MPEG-1 - Википедия](https://en.wikipedia.org/wiki/MPEG-1)
 

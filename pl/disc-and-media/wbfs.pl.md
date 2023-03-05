@@ -27,5 +27,5 @@ WBFS to pliki binarne, które mają zastrzeżony format pliku. Jego specyfikacje
 
 ## Bibliografia
 
-* [Narzędzia ISO WIIMMS] (https://github.com/Wiimm/wiimms-iso-tools)
+* [Narzędzia ISO WIIMMS](https://github.com/Wiimm/wiimms-iso-tools)
 

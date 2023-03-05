@@ -34,7 +34,7 @@ WScript.Quit
 
 ## использованная литература
 
-* [Хост сценариев Windows — из Википедии] (https://en.wikipedia.org/wiki/Windows_Script_Host)
+* [Хост сценариев Windows — из Википедии](https://en.wikipedia.org/wiki/Windows_Script_Host)
 
 
 

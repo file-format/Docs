@@ -24,10 +24,10 @@
 
 ## تنسيق ملف CT
 
-يتكون ملف Scitex CT من كتلة تحكم وكتلة معلمة وبيانات الصورة وفقًا لـ [مقالة ويكيبيديا CT] (https://en.wikipedia.org/wiki/Scitex_CT). لا تتوفر مواصفات تنسيق الملف لتنسيق ملف CT ، ولكن أظهرت بعض الأبحاث أن صورة التصوير المقطعي المحوسب تمثل 4 ألوان ، حيث يصل حجم كل بكسل ملون إلى 128 بت. عادةً ما تكون ملفات CT كبيرة الحجم وتتيح الحصول على صور عالية الجودة.
+يتكون ملف Scitex CT من كتلة تحكم وكتلة معلمة وبيانات الصورة وفقًا لـ [مقالة ويكيبيديا CT](https://en.wikipedia.org/wiki/Scitex_CT). لا تتوفر مواصفات تنسيق الملف لتنسيق ملف CT ، ولكن أظهرت بعض الأبحاث أن صورة التصوير المقطعي المحوسب تمثل 4 ألوان ، حيث يصل حجم كل بكسل ملون إلى 128 بت. عادةً ما تكون ملفات CT كبيرة الحجم وتتيح الحصول على صور عالية الجودة.
 
 ## مراجع
 
-* [تنسيقات ملفات Adobe] (https://helpx.adobe.com/es/photoshop/using/file-formats.html)
-* [Scitex CT] (https://help.accusoft.com/ImageGear/v17.1/Windows/DLL/HTML/topic694.html)
+* [تنسيقات ملفات Adobe](https://helpx.adobe.com/es/photoshop/using/file-formats.html)
+* [Scitex CT](https://help.accusoft.com/ImageGear/v17.1/Windows/DLL/HTML/topic694.html)
 

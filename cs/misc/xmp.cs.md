@@ -36,5 +36,5 @@ Soubory XMP obsahují informace metadat o různých aspektech nezpracovaného ob
 ## Reference
 
 * [Extensible Metadata Platform – Wikipedia](https://en.wikipedia.org/wiki/Extensible_Metadata_Platform)
-* [Specifikace XMP, část 3] (https://developer.adobe.com/xmp/docs/XMPSpecifications/)
+* [Specifikace XMP, část 3](https://developer.adobe.com/xmp/docs/XMPSpecifications/)
 

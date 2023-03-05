@@ -40,5 +40,5 @@ Le fichier brut joue le même rôle dans la photographie numérique que le film 
 ## Références ##
 
 * [Format d'image brute - Par Wikipedia](https://en.wikipedia.org/wiki/Raw_image_format)
-* [Qu'est-ce qu'un fichier DCR] (https://expertphotography.com/dcr-file/)
+* [Qu'est-ce qu'un fichier DCR](https://expertphotography.com/dcr-file/)
 

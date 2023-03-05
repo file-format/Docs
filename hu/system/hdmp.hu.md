@@ -18,7 +18,7 @@
 
 ## Mi az a HDMP fájl?
 
-A HDMP fájl egy tömörítetlen memóriakép, amikor egy alkalmazás vagy program hiba miatt összeomlik. Csak a Windows XP/Vista hozta létre, és kiíratást tartalmaz az alkalmazás állapotáról, amikor az összeomlott. Mivel nincsenek tömörítve, a HDMP fájlok több helyet foglalnak el a lemezen, mint a jelentéskészítés céljából tömörített Minidump [MDMP] (/hu/system/mdmp/) fájlok.
+A HDMP fájl egy tömörítetlen memóriakép, amikor egy alkalmazás vagy program hiba miatt összeomlik. Csak a Windows XP/Vista hozta létre, és kiíratást tartalmaz az alkalmazás állapotáról, amikor az összeomlott. Mivel nincsenek tömörítve, a HDMP fájlok több helyet foglalnak el a lemezen, mint a jelentéskészítés céljából tömörített Minidump [MDMP](/hu/system/mdmp/) fájlok.
 
 A HDMP-fájlok **megnyitására** vagy elemzésére használható alkalmazások közé tartozik a Microsoft Visual Studio a Windows rendszerhez készült hibakereső eszközökkel.
 

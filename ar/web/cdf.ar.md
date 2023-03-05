@@ -58,5 +58,5 @@ PRECACHE = "نعم"
 
 ## مراجع
 
-* [تنسيق تعريف القناة - بواسطة ويكيبيديا] (https://en.wikipedia.org/wiki/Channel_Definition_Format)
+* [تنسيق تعريف القناة - بواسطة ويكيبيديا](https://en.wikipedia.org/wiki/Channel_Definition_Format)
 

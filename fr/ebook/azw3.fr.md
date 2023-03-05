@@ -28,5 +28,5 @@ Les fichiers KF8 sont de nature binaire et conservent la structure d'un format d
 ## Références ##
 
 * [KF8 - Par Wikipédia](https://en.wikipedia.org/wiki/Kindle_File_Format)
-* [Kindle Unpack] (https://github.com/kevinhendricks/KindleUnpack)
+* [Kindle Unpack](https://github.com/kevinhendricks/KindleUnpack)
 

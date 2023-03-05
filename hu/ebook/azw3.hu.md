@@ -23,7 +23,7 @@ Az AZW3, más néven Kindle Format 8 (**KF8**), az [AZW](/hu/ebook/azw/) ebook d
 
 ## AZ3/KF8 fájlformátum ##
 
-A KF8 fájlok bináris jellegűek, és megtartják a MOBI fájlformátum szerkezetét PDB fájlként. Ahogy korábban említettük, a KF8-fájl MOBI-ból és később az EPUB újabb KF8-as verziójából is állhat. A formátum belső részleteit a [Kindle Unpack] (https://github.com/kevinhendricks/KindleUnpack) dekódolta, amely egy Python-szkript, amely elemzi a végső lefordított adatbázist, és kibontja belőle a MOBI vagy AZW forrásfájlokat. Az AZW3 (KF8) fájlok az EPUB3 verziót célozzák meg, visszafelé kompatibilis EPUB-val is. A KF8 összeállítja az EPUB fájlokat, és létrehoz egy bináris struktúrát a PDB fájlformátum alapján.
+A KF8 fájlok bináris jellegűek, és megtartják a MOBI fájlformátum szerkezetét PDB fájlként. Ahogy korábban említettük, a KF8-fájl MOBI-ból és később az EPUB újabb KF8-as verziójából is állhat. A formátum belső részleteit a [Kindle Unpack](https://github.com/kevinhendricks/KindleUnpack) dekódolta, amely egy Python-szkript, amely elemzi a végső lefordított adatbázist, és kibontja belőle a MOBI vagy AZW forrásfájlokat. Az AZW3 (KF8) fájlok az EPUB3 verziót célozzák meg, visszafelé kompatibilis EPUB-val is. A KF8 összeállítja az EPUB fájlokat, és létrehoz egy bináris struktúrát a PDB fájlformátum alapján.
 
 ## Referenciák ##
 

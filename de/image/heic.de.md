@@ -60,6 +60,6 @@ HEIC-Dateien können mit mehreren Anwendungen in andere Bilddateiformate wie JPE
 ## Verweise
 
 * [HEIF – Wikipedia](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format)
-* [HEIF-Informationen von Nokia Technologies] (https://nokiatech.github.io/heif/)
+* [HEIF-Informationen von Nokia Technologies](https://nokiatech.github.io/heif/)
 * [HEIF Reader/Writer-Quellcode auf GitHub](https://github.com/nokiatech/heif)
 

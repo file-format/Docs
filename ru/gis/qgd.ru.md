@@ -31,6 +31,6 @@
 
 ## использованная литература
 
-* [QGZ — новый формат файла проекта по умолчанию для QGIS] (https://oslandia.com/en/2018/06/01/qgz-a-new-default-project-file-format-for-qgis/)
-* [Форматы файлов QGIS] (https://docs.qgis.org/3.16/en/docs/user_manual/appendices/qgis_file_formats.html)
+* [QGZ — новый формат файла проекта по умолчанию для QGIS](https://oslandia.com/en/2018/06/01/qgz-a-new-default-project-file-format-for-qgis/)
+* [Форматы файлов QGIS](https://docs.qgis.org/3.16/en/docs/user_manual/appendices/qgis_file_formats.html)
 

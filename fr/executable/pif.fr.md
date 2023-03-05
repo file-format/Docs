@@ -91,8 +91,8 @@ Voici une représentation hexadécimale d'un fichier PIF :
 
 ## Références
 
-* [Fichier d'informations sur le programme (PIF)] (http://justsolve.archiveteam.org/wiki/Program_information_file)
-* [Fichier d'informations sur le programme - par Wikipedia] (https://en.wikipedia.org/wiki/Program_information_file)
+* [Fichier d'informations sur le programme (PIF)](http://justsolve.archiveteam.org/wiki/Program_information_file)
+* [Fichier d'informations sur le programme - par Wikipedia](https://en.wikipedia.org/wiki/Program_information_file)
 
 
 

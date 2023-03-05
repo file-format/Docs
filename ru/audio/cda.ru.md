@@ -51,5 +51,5 @@
 
 ## использованная литература
 
-* [Файл .cda - По Википедии] (https://en.wikipedia.org/wiki/.cda_file)
+* [Файл .cda - По Википедии](https://en.wikipedia.org/wiki/.cda_file)
 

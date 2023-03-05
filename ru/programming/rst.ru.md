@@ -58,5 +58,5 @@ by a blank line.</p>
 
 ## Ссылка ##
 
-* [reStructuredText — из Википедии] (https://en.wikipedia.org/wiki/ReStructuredText)
+* [reStructuredText — из Википедии](https://en.wikipedia.org/wiki/ReStructuredText)
 

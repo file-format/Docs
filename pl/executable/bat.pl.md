@@ -93,5 +93,5 @@ DEL . DR
 ## Bibliografia
 
 * [Skrypt wsadowy — skrócony przewodnik](https://www.tutorialspoint.com/batch_script/batch_script_quick_guide.htm)
-* [Plik wsadowy - autorstwa Wikipewdia] (https://en.wikipedia.org/wiki/Batch_file)
+* [Plik wsadowy - autorstwa Wikipewdia](https://en.wikipedia.org/wiki/Batch_file)
 

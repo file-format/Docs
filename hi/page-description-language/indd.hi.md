@@ -37,5 +37,5 @@ INDD फाइलें कई अन्य फ़ाइल स्वरूप�
 
 ## संदर्भ
 
-* [आईएनडीडी फ़ाइल प्रकार - एडोब] (https://www.adobe.com/creativecloud/file-types/image/vector/indd-file.html)
+* [आईएनडीडी फ़ाइल प्रकार - एडोब](https://www.adobe.com/creativecloud/file-types/image/vector/indd-file.html)
 

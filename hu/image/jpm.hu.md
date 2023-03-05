@@ -23,7 +23,7 @@ A JPM a JPEG 2000 képkódoló rendszer 6. részére vonatkozik, amelyet a dokum
 
 ## JPM fájlformátum
 
-A JPM fájlformátumot az [ISO/IEC 15444-6:2003] (http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=61124) határozza meg -- a JPEG 2000 kép kódrendszer -- 6. rész: Összetett képfájl formátum. Az összetett kép tartalmazhat beolvasott képeket, szintetikus képeket vagy mindkettőt, amelyhez folyamatos tónusú és kétszintű tömörítési módszerek keveréke szükséges. A JPM fájlformátum meghatároz egy kompozíciós modellt, amely leírja a több kép kombinálásának módszerét összetett kép létrehozásához az ITU-T T.44 | ISO/IEC 16485.
+A JPM fájlformátumot az [ISO/IEC 15444-6:2003](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=61124) határozza meg -- a JPEG 2000 kép kódrendszer -- 6. rész: Összetett képfájl formátum. Az összetett kép tartalmazhat beolvasott képeket, szintetikus képeket vagy mindkettőt, amelyhez folyamatos tónusú és kétszintű tömörítési módszerek keveréke szükséges. A JPM fájlformátum meghatároz egy kompozíciós modellt, amely leírja a több kép kombinálásának módszerét összetett kép létrehozásához az ITU-T T.44 | ISO/IEC 16485.
 
 ### JPM-specifikációk
 A JPM fájlformátum szabvány meghatározza, hogy ez egy bináris tároló, amely egy összetett képet reprezentál, amellyel több kép egyetlen képpé kombinálható. Beállítja a több kép csoportosításának mechanizmusát az elrendezési objektumok, oldalak és oldalgyűjtemények hierarchiájában a JPEG 2000 és más tömörített képadat-formátumok tárolására. A formátum magában foglalja a metaadatok beépítésének mechanizmusát (a digitális könyvtári projektekben gyakran strukturális metaadatoknak nevezik).

@@ -26,5 +26,5 @@ OBML16 OBML फ़ाइल स्वरूप पर आधारित है 
 
 ## संदर्भ
 
-* [ओएमबीएल प्रारूप] (https://github.com/grawity/obml-parser/blob/master/obml.md)
+* [ओएमबीएल प्रारूप](https://github.com/grawity/obml-parser/blob/master/obml.md)
 

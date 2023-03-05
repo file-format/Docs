@@ -64,6 +64,4 @@ Windows Registry Editor Version 5.00
 ## βιβλιογραφικές αναφορές
 
 * [Μητρώο Windows- από τη Wikipedia](https://en.wikipedia.org/wiki/Windows_Registry)
-* [Πώς να προσθέσετε, να τροποποιήσετε ή να διαγράψετε δευτερεύοντα κλειδιά και τιμές μητρώου χρησιμοποιώντας ένα αρχείο .reg](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete- registry-subkeys-and-values-by-using-a-reg-file-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23)
-
-
+* [Πώς να προσθέσετε, να τροποποιήσετε ή να διαγράψετε δευτερεύοντα κλειδιά και τιμές μητρώου χρησιμοποιώντας ένα αρχείο .reg](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete-registry-subkeys-and-values-by-using-a-reg-file-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23)

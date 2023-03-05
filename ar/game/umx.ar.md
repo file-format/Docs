@@ -27,7 +27,7 @@
 
 ## مراجع
 
-* [بطولة غير حقيقية] (https://www.epicgames.com/unrealtournament/en-US/)
-* [بطولة غير حقيقية] (https://en.wikipedia.org/wiki/Unreal_Tournament)
-* [Unreal Tournament Community] (https://discord.com/invite/unrealtournament)
+* [بطولة غير حقيقية](https://www.epicgames.com/unrealtournament/en-US/)
+* [بطولة غير حقيقية](https://en.wikipedia.org/wiki/Unreal_Tournament)
+* [Unreal Tournament Community](https://discord.com/invite/unrealtournament)
 

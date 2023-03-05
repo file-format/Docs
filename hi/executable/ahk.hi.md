@@ -57,5 +57,5 @@ AHK फ़ाइल बनाने के लिए निम्नलिखि
 ## संदर्भ
 
 * [ऑटोहॉटकी](https://www.autohotkey.com/)
-* [बैच फ़ाइल - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/Batch_file)
+* [बैच फ़ाइल - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Batch_file)
 

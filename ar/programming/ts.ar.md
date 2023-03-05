@@ -100,7 +100,7 @@ function id<T>(x: T): T {
 
 ## المرجعي ##
 
-* [TS - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/TypeScript)
+* [TS - بواسطة Wikipedia](https://en.wikipedia.org/wiki/TypeScript)
 
 
 

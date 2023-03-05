@@ -27,5 +27,5 @@ Les détails du format de fichier interne du format de fichier MINT ne sont pas 
 
 ## Références
 
-* [Linux Mint] (https://linuxmint.com/)
+* [Linux Mint](https://linuxmint.com/)
 

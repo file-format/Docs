@@ -18,7 +18,7 @@
 
 ## Mi az a WBS fájl?
 
-A WBS-fájl a WebBlender által létrehozott projektfájl, amely prezentációs és webhely-készítő program gyerekeknek. A WBS fájl akkor jön létre, amikor új projekt indul a WebBlenderben. A projekthez hozzáadott összes webhelyfunkció, például oldalak, képek, szövegek, animációk és így tovább, a WBS projektfájlban található. Amint a projekt elkészült, [HTML](/hu/web/html/) fájlként teszi közzé a webhely tartalmát. A WebBlendert a [Tech4Learning] (https://www.tech4learning.com/) hozta létre és tartja karban.
+A WBS-fájl a WebBlender által létrehozott projektfájl, amely prezentációs és webhely-készítő program gyerekeknek. A WBS fájl akkor jön létre, amikor új projekt indul a WebBlenderben. A projekthez hozzáadott összes webhelyfunkció, például oldalak, képek, szövegek, animációk és így tovább, a WBS projektfájlban található. Amint a projekt elkészült, [HTML](/hu/web/html/) fájlként teszi közzé a webhely tartalmát. A WebBlendert a [Tech4Learning](https://www.tech4learning.com/) hozta létre és tartja karban.
 
 ## Hivatkozások
 

@@ -23,7 +23,7 @@ GeoJSON — это формат на основе JSON, предназначен
 
 ## Краткая история ##
 
-Инженерная рабочая группа Интернета (IETF) совместно с авторами формата сформировала [РГ GeoJSON] (https://datatracker.ietf.org/wg/geojson/charter/) для выпуска GeoJSON в апреле 2015 года. Спецификация GeoJSON, [RFC 7946] (https://tools.ietf.org/html/rfc7946), новая стандартная спецификация формата GeoJSON, опубликованная в августе 2016 года.
+Инженерная рабочая группа Интернета (IETF) совместно с авторами формата сформировала [РГ GeoJSON](https://datatracker.ietf.org/wg/geojson/charter/) для выпуска GeoJSON в апреле 2015 года. Спецификация GeoJSON, [RFC 7946](https://tools.ietf.org/html/rfc7946), новая стандартная спецификация формата GeoJSON, опубликованная в августе 2016 года.
 
 ## Формат файла GeoJSON ##
 
@@ -120,6 +120,6 @@ GeoJSON — это формат на основе JSON, предназначен
 
 ## Использованная литература ##
 
-* [macwright.org] (https://macwright.org/2015/03/23/geojson-second-bite.html)
-* [GeoJSON — Википедия] (https://en.wikipedia.org/wiki/GeoJSON)
+* [macwright.org](https://macwright.org/2015/03/23/geojson-second-bite.html)
+* [GeoJSON — Википедия](https://en.wikipedia.org/wiki/GeoJSON)
 

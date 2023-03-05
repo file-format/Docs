@@ -19,7 +19,7 @@
 
 ## Co je soubor KODU?
 
-Soubor .kudo je soubor 3D hry vytvořený a uložený pomocí softwaru Microsoft [Kodu Game Lab] (https://www.kodugamelab.com/), což je vzdělávací prostředí pro vývoj her. Je navržen tak, aby děti naučil základní principy programování a umožňuje tvůrcům programovat chování herních prvků pomocí vizuálního programovacího jazyka. Soubory Kodu lze ukládat a sdílet s ostatními uživateli, ale lze je otevřít a spustit pouze v softwaru Kodu.
+Soubor .kudo je soubor 3D hry vytvořený a uložený pomocí softwaru Microsoft [Kodu Game Lab](https://www.kodugamelab.com/), což je vzdělávací prostředí pro vývoj her. Je navržen tak, aby děti naučil základní principy programování a umožňuje tvůrcům programovat chování herních prvků pomocí vizuálního programovacího jazyka. Soubory Kodu lze ukládat a sdílet s ostatními uživateli, ale lze je otevřít a spustit pouze v softwaru Kodu.
 
 ## Formát souboru KODU – Další informace
 

@@ -37,5 +37,5 @@
 
 ## مراجع ##
 
-* [تنسيق ملف TXT] (https://en.wikipedia.org/wiki/Text_file)
+* [تنسيق ملف TXT](https://en.wikipedia.org/wiki/Text_file)
 

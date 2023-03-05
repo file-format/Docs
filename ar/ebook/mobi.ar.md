@@ -19,11 +19,11 @@
 
 ## ما هو ملف MOBI؟
 
-يعد تنسيق ملف MOBI أحد أكثر تنسيقات ملفات الكتب الإلكترونية استخدامًا. يعد التنسيق تحسينًا للتنسيق القديم OEB (تنسيق Open Ebook) وقد تم استخدامه كتنسيق خاص لـ Mobipocket Reader. مثل [EPUB] (/ar/ ebook / epub /) ، يتم دعمه تقريبًا بواسطة جميع أجهزة القراءة الإلكترونية الحديثة على وجه التحديد بواسطة أجهزة الجوال ذات النطاق الترددي المنخفض. يمكن تحويل التنسيق إلى عدة تنسيقات أخرى مثل [PDF] (/ar/ pdf /) و EPUB والعديد من التنسيقات الأخرى باستخدام تطبيقات البرامج المتاحة للجمهور مثل [تطبيق Kindle] (https://www.amazon.com/kindle -dbs / fd / kcp). هناك العديد من الشركات التي تقدم كتب MOBI مجانية مثل [Project Gutenberg] (http://www.gutenberg.org/) و [Feedbooks] (http://www.feedbooks.com/) و [Open Library] ( https://openlibrary.org/).
+يعد تنسيق ملف MOBI أحد أكثر تنسيقات ملفات الكتب الإلكترونية استخدامًا. يعد التنسيق تحسينًا للتنسيق القديم OEB (تنسيق Open Ebook) وقد تم استخدامه كتنسيق خاص لـ Mobipocket Reader. مثل [EPUB](/ar/ ebook / epub /) ، يتم دعمه تقريبًا بواسطة جميع أجهزة القراءة الإلكترونية الحديثة على وجه التحديد بواسطة أجهزة الجوال ذات النطاق الترددي المنخفض. يمكن تحويل التنسيق إلى عدة تنسيقات أخرى مثل [PDF](/ar/ pdf /) و EPUB والعديد من التنسيقات الأخرى باستخدام تطبيقات البرامج المتاحة للجمهور مثل [تطبيق Kindle](https://www.amazon.com/kindle -dbs / fd / kcp). هناك العديد من الشركات التي تقدم كتب MOBI مجانية مثل [Project Gutenberg](http://www.gutenberg.org/) و [Feedbooks](http://www.feedbooks.com/) و [Open Library]( https://openlibrary.org/).
 
 ## تاريخ موجز لتنسيق ملف MOBI
 
-اشترت [أمازون] (https://www.amazon.com) الشركة التي تقف وراء تنسيق ملف MOBI في عام 2005. وكان ذلك في عام 2011 عندما توقف دعم تنسيق ملف [MOBI] (/ar/ ebook / mobi /) رسميًا. تستند تنسيقات Kindle الحالية من Amazon ([AZW3] (/ar/ ebook / azw3 /) و KF8 و KFX) إلى MOBI ولكن لها مخطط DRM مختلف.
+اشترت [أمازون](https://www.amazon.com) الشركة التي تقف وراء تنسيق ملف MOBI في عام 2005. وكان ذلك في عام 2011 عندما توقف دعم تنسيق ملف [MOBI](/ar/ ebook / mobi /) رسميًا. تستند تنسيقات Kindle الحالية من Amazon ([AZW3](/ar/ ebook / azw3 /) و KF8 و KFX) إلى MOBI ولكن لها مخطط DRM مختلف.
 
 تمت إضافة ميزات إلى التنسيق من وقت لآخر وقد تواجه الملفات الجديدة مشاكل إذا حاولت قراءتها باستخدام قارئ ذي مستوى منخفض. تنسيق الكتاب الإلكتروني المفتوح هو المصدر الحالي الذي يجب أن يتبعه ملفات المصدر على أي حال.
 
@@ -43,5 +43,5 @@
 
 ## مراجع
 
-* [تنسيق ملف MobiPocket] (https://web.archive.org/web/20160414103204/http://www.mobipocket.com/dev/article.asp؟BaseFolder#prcgen&File#mobiformat.htm)
+* [تنسيق ملف MobiPocket](https://web.archive.org/web/20160414103204/http://www.mobipocket.com/dev/article.asp؟BaseFolder#prcgen&File#mobiformat.htm)
 

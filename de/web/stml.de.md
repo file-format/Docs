@@ -23,7 +23,7 @@ Eine Datei mit der Erweiterung .stml ist eine Webseite mit serverseitigen Anweis
 
 ## STML-Dateiformat
 
-STML basiert auf einem reinen ASCII-Textdateiformat, das für Menschen lesbar ist. Es folgt jedoch der Syntax, wie sie unter Verwendung der [SSI-Befehle] (https://www.w3.org/Jigsaw/Doc/User/SSI.html) definiert und ausgeübt wird, die serverseitig ausgeführt werden. Wie jede andere serverseitige Skriptsprache kann STML die serverseitigen Befehle verwenden, um Aufgaben wie Seitenbesucherzähler, Webseitenkalender, Abrufen von Datensätzen aus der Datenbank und ähnliches auszuführen.
+STML basiert auf einem reinen ASCII-Textdateiformat, das für Menschen lesbar ist. Es folgt jedoch der Syntax, wie sie unter Verwendung der [SSI-Befehle](https://www.w3.org/Jigsaw/Doc/User/SSI.html) definiert und ausgeübt wird, die serverseitig ausgeführt werden. Wie jede andere serverseitige Skriptsprache kann STML die serverseitigen Befehle verwenden, um Aufgaben wie Seitenbesucherzähler, Webseitenkalender, Abrufen von Datensätzen aus der Datenbank und ähnliches auszuführen.
 
 ## STML-Beispiel
 
@@ -65,5 +65,5 @@ Serverseitige Anweisungen werden in Anwendungen wie Seitenbesucherzähler oder W
 ```
 ## Verweise
 
-* [Server Side Includes] (https://en.wikipedia.org/wiki/Server_Side_Includes)
+* [Server Side Includes](https://en.wikipedia.org/wiki/Server_Side_Includes)
 

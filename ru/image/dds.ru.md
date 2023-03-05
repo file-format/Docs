@@ -38,10 +38,10 @@ DWORD               dwMagic;
 DDS_HEADER          header;
 ```
 
-В [руководстве по программированию формата файла DDS] (https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) подробно описаны технические детали этого формата файла.
+В [руководстве по программированию формата файла DDS](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) подробно описаны технические детали этого формата файла.
 
 ## использованная литература
 
-* [DDS — Википедия] (https://en.wikipedia.org/wiki/DirectDraw_Surface)
+* [DDS — Википедия](https://en.wikipedia.org/wiki/DirectDraw_Surface)
 * [Техническое справочное руководство по формату файлов ZSoft PCX](http://qzx.com/pc-gpe/pcx.txt)
 

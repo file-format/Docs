@@ -58,7 +58,7 @@ L'intestazione inizia con una parola magica di 4 byte **!BDN** rappresentata da 
 |bidNextP (Unicode: 8 byte; ANSI: 4 byte)|Pagina successiva BID. Le pagine hanno un contatore speciale per l'allocazione dei valori bidIndex. Il valore di bidIndex per BID per le pagine viene allocato da questo contatore.
 |bidNextB (solo ANSI 4 byte): |BID successivo. Questo valore è il contatore monotono che indica il BID da assegnare per il prossimo blocco allocato. I valori BID avanzano con incrementi di 4. Per maggiori dettagli, vedere la sezione 2.2.2.2.
 |dwUnique (4 byte)|Questo è un valore monotonicamente crescente che viene modificato ogni volta che viene modificata la struttura HEADER del file PST. La funzione di questo valore è fornire un valore univoco e garantire che i CRC HEADER siano diversi dopo ogni modifica dell'intestazione.
-|rgnid[] (128 byte)|Un array fisso di 32 NID, ciascuno corrispondente a uno dei 32 possibili NID_TYPE (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE, NID_TYPE_ASSOC_MESSAGE)
+|rgnid[](128 byte)|Un array fisso di 32 NID, ciascuno corrispondente a uno dei 32 possibili NID_TYPE (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE, NID_TYPE_ASSOC_MESSAGE)
 |qwUnused (8 byte)|Spazio inutilizzato; DEVE essere impostato a zero. Solo formato di file PST Unicode.
 |root (Unicode: 72 byte; ANSI: 40 byte)|Una struttura ROOT (sezione 2.2.2.5).
 |dwAlign (4 byte)|Byte di allineamento non utilizzati; DEVE essere impostato a zero. Solo formato di file PST Unicode.

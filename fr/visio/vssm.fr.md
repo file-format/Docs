@@ -38,5 +38,5 @@ Chaque fichier Visio est appelé package contenant d'autres fichiers ou parties.
 
 ## Références ##
 
-* [Introduction au format de fichier Visio] (https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Introduction au format de fichier Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

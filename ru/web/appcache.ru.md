@@ -61,5 +61,5 @@ http://cdn.example.com/scripts/main.js
 
 ## использованная литература
 
-* [Руководство для начинающих по манифесту AppCache] (https://web.dev/appcache-beginner/)
+* [Руководство для начинающих по манифесту AppCache](https://web.dev/appcache-beginner/)
 

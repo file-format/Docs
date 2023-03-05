@@ -27,5 +27,5 @@
 
 ## Использованная литература ##
 
-* [MapSource — Википедия] (https://wiki.openstreetmap.org/wiki/MapSource)
+* [MapSource — Википедия](https://wiki.openstreetmap.org/wiki/MapSource)
 

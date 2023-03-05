@@ -78,6 +78,6 @@ r:id#"rId2" ссылается на следующую связь в части 
 
 ## Использованная литература ##
 
-* [Формат файла презентации OpenXML] (https://msdn.microsoft.com/en-us/library/dd926741(v#office.12).aspx)
-* [Open Office XML] (http://officeopenxml.com/anatomyofOOXML-pptx.php)
+* [Формат файла презентации OpenXML](https://msdn.microsoft.com/en-us/library/dd926741(v#office.12).aspx)
+* [Open Office XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
 

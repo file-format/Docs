@@ -22,7 +22,7 @@ Plik z rozszerzeniem .wud to obraz dysku utworzony z dysku z grą Wii U. Wynikow
 
 ## Format pliku WUD
 
-Pliki WUD są zapisywane na dysku w zastrzeżonym formacie pliku i można je załadować do emulatora Cemu w celu emulacji aplikacji Wii U na PC. Ze względu na duży rozmiar pliki WUD są [kompresowane] (/pl/compression/), aby zmniejszyć rozmiar pliku. Wynikowy skompresowany plik jest znany jako plik WUX.
+Pliki WUD są zapisywane na dysku w zastrzeżonym formacie pliku i można je załadować do emulatora Cemu w celu emulacji aplikacji Wii U na PC. Ze względu na duży rozmiar pliki WUD są [kompresowane](/pl/compression/), aby zmniejszyć rozmiar pliku. Wynikowy skompresowany plik jest znany jako plik WUX.
 
 ## Bibliografia
 

@@ -130,7 +130,7 @@ public class QueryStringHandler : IHttpHandler
 
 ## مراجع
 
-* [ترجمة ملف ASHX] (https://stackoverflow.com/questions/25510189/how-to-dynamically-compile-a-ashx-file)
+* [ترجمة ملف ASHX](https://stackoverflow.com/questions/25510189/how-to-dynamically-compile-a-ashx-file)
  
 
 

@@ -53,7 +53,7 @@ PDF/A-2 dirilis oleh Standar ISO pada Juli 2011 sebagai standar baru yang dikena
 
 ## PDF/A-3 ##
 
-PDF/A-3 mencakup semua persyaratan kesesuaian Level 2 dan memungkinkan penyematan format file tambahan (seperti XML, [CSV](/id/spreadsheet/csv/), [CAD](/id/cad/), [pemrosesan kata] (/id/word-processing/) , [spreadsheet](/id/spreadsheet/) dan lainnya) ke dalam dokumen yang sesuai dengan PDF/A.
+PDF/A-3 mencakup semua persyaratan kesesuaian Level 2 dan memungkinkan penyematan format file tambahan (seperti XML, [CSV](/id/spreadsheet/csv/), [CAD](/id/cad/), [pemrosesan kata](/id/word-processing/) , [spreadsheet](/id/spreadsheet/) dan lainnya) ke dalam dokumen yang sesuai dengan PDF/A.
 
 ## Referensi ##
 

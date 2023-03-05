@@ -26,5 +26,5 @@ BNDL est un format de fichier propriétaire utilisé par le jeu Need for Speed. 
 
 ## Références
 
-* [Arts électroniques] (https://www.ea.com/)
+* [Arts électroniques](https://www.ea.com/)
 

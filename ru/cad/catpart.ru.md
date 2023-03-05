@@ -23,5 +23,5 @@
 
 ## использованная литература
 
-* [Веб-сайт CATIA] (https://www.3ds.com/products-services/catia/)
+* [Веб-сайт CATIA](https://www.3ds.com/products-services/catia/)
 

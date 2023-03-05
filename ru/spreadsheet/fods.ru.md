@@ -27,5 +27,5 @@ OpenDocument определяет стандарты [ZIP](/ru/compression/zip/)
 
 ## Использованная литература ##
 
-* [OpenDocument — Википедия] (https://en.wikipedia.org/wiki/OpenDocument)
+* [OpenDocument — Википедия](https://en.wikipedia.org/wiki/OpenDocument)
 

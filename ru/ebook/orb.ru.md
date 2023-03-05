@@ -32,6 +32,6 @@
 
 ## использованная литература
 
-* [Книги Orb — Википедия] (https://en.wikipedia.org/wiki/Orb_Books)
+* [Книги Orb — Википедия](https://en.wikipedia.org/wiki/Orb_Books)
 
 

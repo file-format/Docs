@@ -35,6 +35,6 @@ ECW هو تنسيق صورة خاص يعتمد على ضغط المويجات ؛
 
 ## مراجع ##
 
-* [ECW (تنسيق الملف) - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/ECW_ (file_format))
+* [ECW (تنسيق الملف) - بواسطة Wikipedia](https://en.wikipedia.org/wiki/ECW_ (file_format))
 
 

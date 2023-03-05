@@ -19,7 +19,7 @@
 
 ## ما هو ملف ODG؟
 
-يتم استخدام تنسيق ملف ODG بواسطة تطبيق رسم Apache OpenOffice لتخزين عناصر الرسم كصورة متجهة. وهو يتبع مواصفات تنسيق الملفات المستندة إلى XML الموضحة من قبل تطوير معايير المعلومات الهيكلية (OASIS). يمثل ODG الرسومات كصور متجهة باستخدام النقاط والخطوط والمنحنيات. إلى جانب OpenOffice ، توفر LibreOffice والتطبيقات الأخرى أيضًا دعمًا للعمل مع تنسيق ملف ODG. تشمل التنسيقات الأخرى التي يدعمها OpenOffice ، على سبيل المثال ، [ODT] (/ar/ معالجة الكلمات / odt /) و ODF و [ODP] (/ar/ offer / odp /) و [ODS] (/ar/ spreadsheet / ods /).
+يتم استخدام تنسيق ملف ODG بواسطة تطبيق رسم Apache OpenOffice لتخزين عناصر الرسم كصورة متجهة. وهو يتبع مواصفات تنسيق الملفات المستندة إلى XML الموضحة من قبل تطوير معايير المعلومات الهيكلية (OASIS). يمثل ODG الرسومات كصور متجهة باستخدام النقاط والخطوط والمنحنيات. إلى جانب OpenOffice ، توفر LibreOffice والتطبيقات الأخرى أيضًا دعمًا للعمل مع تنسيق ملف ODG. تشمل التنسيقات الأخرى التي يدعمها OpenOffice ، على سبيل المثال ، [ODT](/ar/ معالجة الكلمات / odt /) و ODF و [ODP](/ar/ offer / odp /) و [ODS](/ar/ spreadsheet / ods /).
 
 
 ## مواصفات تنسيق ملف ODG
@@ -89,6 +89,6 @@
 "Mater Styles" - نمط شائع يحتوي على معلومات التنسيق ومحتوى إضافي يتم عرضه مع محتوى المستند عند تطبيق النمط. مثال على النمط الرئيسي هي الصفحات الرئيسية.
 
 ## مراجع ##
-* [OASIS Open Document Format for Office Applications] (https://www.oasis-open.org/committee/tc_home.php؟wg_abbrev=office)
-* [تنسيق OpenDocument - ويكيبيديا] (https://en.wikipedia.org/wiki/OpenDocument)
+* [OASIS Open Document Format for Office Applications](https://www.oasis-open.org/committee/tc_home.php؟wg_abbrev=office)
+* [تنسيق OpenDocument - ويكيبيديا](https://en.wikipedia.org/wiki/OpenDocument)
 

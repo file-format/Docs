@@ -52,7 +52,7 @@ Cada sección puede estar dirigida o seguida por espacios en blanco, nuevas lín
 
 La primera línea de código,<!DOCTYPE html> , se llama declaración de tipo de documento y le dice al navegador en qué versión de HTML está escrita la página. Dependiendo de la versión de HTML, hay varias declaraciones de tipo de documento diferentes que nombran la definición de tipo de documento (DTD) en uso para el documento. Cada DTD se diferencia de los demás en los elementos que admite y se diferencian de la siguiente manera:
 
-* HTML 4.01 estricto: incluye todos los elementos y atributos que no han sido [obsoletos] (https://www.w3.org/TR/html401/conform.html#deprecated) o no aparecen en los documentos de conjunto de marcos
+* HTML 4.01 estricto: incluye todos los elementos y atributos que no han sido [obsoletos](https://www.w3.org/TR/html401/conform.html#deprecated) o no aparecen en los documentos de conjunto de marcos
 * HTML 4.01 de transición: incluye todo lo que se encuentra en la estricta DTD más elementos y atributos obsoletos (la mayoría de los cuales se refieren a la presentación visual).
 * Conjunto de marcos HTML 4.01: incluye todo en los marcos DTD plus de transición también
 

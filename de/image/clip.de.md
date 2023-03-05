@@ -24,12 +24,12 @@ Eine CLIP-Datei ist eine Rasterbilddatei, die von der 2D-Zeichenanwendung Clip S
 
 ## CLIP-Dateiformat – Weitere Informationen
 
-Das CLIP-Dateiformat wurde von CELSYS eingeführt, um das ursprüngliche LIP-Dateiformat zu ersetzen. Es speichert grafische Elemente in Form von Ebenen, die für Änderungen bearbeitet werden können. Es ist auch das Standarddateiformat für die Anwendung [CLIP Studio Paint] (https://www.celsys.co.jp/en/service/studio_paint/), die für Windows-, MacOS-, Android- und iOS-Plattformen verfügbar ist.
+Das CLIP-Dateiformat wurde von CELSYS eingeführt, um das ursprüngliche LIP-Dateiformat zu ersetzen. Es speichert grafische Elemente in Form von Ebenen, die für Änderungen bearbeitet werden können. Es ist auch das Standarddateiformat für die Anwendung [CLIP Studio Paint](https://www.celsys.co.jp/en/service/studio_paint/), die für Windows-, MacOS-, Android- und iOS-Plattformen verfügbar ist.
 
 ## Unterstützte Zeichnungstypen
 
 Das CLIP-Dateiformat kann Animationen und Illustrationen speichern, die in einer Vielzahl unterschiedlicher Arten von Arbeiten verwendet werden können.
 
 ## Verweise
-* [CLIP Studio Paint] (https://www.celsys.co.jp/en/service/studio_paint/)
+* [CLIP Studio Paint](https://www.celsys.co.jp/en/service/studio_paint/)
 

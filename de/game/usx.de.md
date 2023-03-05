@@ -29,5 +29,5 @@ USX-Dateien werden als Binärdateien auf der Disc gespeichert. Die Details der i
 
 ## Verweise
 
-* [Unreal Static Meshes Tutorial] (https://docs.unrealengine.com/udk/Two/StaticMeshesTutorial.html)
+* [Unreal Static Meshes Tutorial](https://docs.unrealengine.com/udk/Two/StaticMeshesTutorial.html)
 

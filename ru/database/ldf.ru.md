@@ -40,6 +40,6 @@
 
 ## использованная литература
 
-* [Файлы базы данных и файловые группы] (https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [Руководство по архитектуре журнала транзакций и управлению им] (https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql- сервер-ver15)
+* [Файлы базы данных и файловые группы](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
+* [Руководство по архитектуре журнала транзакций и управлению им](https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql- сервер-ver15)
 

@@ -68,6 +68,6 @@ AML (ARC मैक्रो लैंग्वेज) फ़ाइल ArcInfo �
 
 ## संदर्भ
 
-* [एआरसी मैक्रो भाषा] (https://en.wikipedia.org/wiki/ARC_Macro_Language)
+* [एआरसी मैक्रो भाषा](https://en.wikipedia.org/wiki/ARC_Macro_Language)
 * [स्क्रिप्ट टूल्स के साथ AML का उपयोग करना](https://desktop.arcgis.com/en/arcmap/latest/analyze/creating-tools/use-amls-with-script-tools.htm)
 

@@ -26,5 +26,5 @@
 
 ## использованная литература
 
-* [Часто задаваемые вопросы ESRI — Что такое файл ATX?] (https://support.esri.com/en/technical-article/000002973)
+* [Часто задаваемые вопросы ESRI — Что такое файл ATX?](https://support.esri.com/en/technical-article/000002973)
 

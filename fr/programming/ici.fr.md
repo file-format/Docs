@@ -66,7 +66,7 @@ forall (colour in [array "red", "green", "blue"])
 
 ## Référence ##
 
-* [Langage de programmation ICI] (http://atrn.org/ici/doc/ici.html)
+* [Langage de programmation ICI](http://atrn.org/ici/doc/ici.html)
 
 
 

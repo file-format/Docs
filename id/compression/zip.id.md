@@ -19,7 +19,7 @@
 
 ## Apa itu file ZIP? ##
 
-File dengan ekstensi .zip adalah arsip yang dapat menampung satu atau lebih file atau direktori. Arsip dapat memiliki kompresi yang diterapkan pada file yang disertakan untuk mengurangi ukuran file ZIP. Format file ZIP dipublikasikan kembali pada Februari 1989 oleh Phil Katz untuk mencapai pengarsipan file dan folder. Format tersebut dijadikan bagian dari utilitas [PKZIP](https://www.pkware.com/pkzip), yang dibuat oleh PKWARE, Inc. Tepat setelah ketersediaan [spesifikasi yang tersedia](https://pkware.cachefly.net/ webdocs/casestudies/APPNOTE.TXT), banyak perusahaan menjadikan format file ZIP sebagai bagian dari utilitas perangkat lunak mereka termasuk Microsoft (sejak Windows 7), Apple (Mac OS X) dan banyak lainnya.
+File dengan ekstensi .zip adalah arsip yang dapat menampung satu atau lebih file atau direktori. Arsip dapat memiliki kompresi yang diterapkan pada file yang disertakan untuk mengurangi ukuran file ZIP. Format file ZIP dipublikasikan kembali pada Februari 1989 oleh Phil Katz untuk mencapai pengarsipan file dan folder. Format tersebut dijadikan bagian dari utilitas [PKZIP](https://www.pkware.com/pkzip), yang dibuat oleh PKWARE, Inc. Tepat setelah ketersediaan [spesifikasi yang tersedia](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT), banyak perusahaan menjadikan format file ZIP sebagai bagian dari utilitas perangkat lunak mereka termasuk Microsoft (sejak Windows 7), Apple (Mac OS X) dan banyak lainnya.
 
 ## Sejarah Singkat Format File ZIP
 
@@ -152,4 +152,3 @@ Header File Lokal memiliki struktur bidang khusus yang terdiri dari nilai multi-
 
 * [Spesifikasi Format File ZIP PKWARE](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
 * [Struktur File PKZip](https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip-printable.html)
-

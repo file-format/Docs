@@ -23,7 +23,7 @@ Soubor CR3 je formát obrázkového souboru Canon RAW, který je vytvořen vybra
 
 ## Formát souboru CR3
 
-Soubory CR3 se ukládají na disk jako binární soubor ve formátu ISO Base Media File Format (ISO/IEC 14496-12) a zahrnují také vlastní [značky Canon] (https://exiftool.org/TagNames/Canon.html#uuid). Zahrnuje také [Canon 'crx' kodek](https://github.com/LibRaw/LibRaw/blob/master/src/decoders/crx.cpp), což je mix JPEG-LS (Rice-Golomb + RLE kódování) a JPEG-2000 (LeGall 5/3 DWT + kvantifikace).
+Soubory CR3 se ukládají na disk jako binární soubor ve formátu ISO Base Media File Format (ISO/IEC 14496-12) a zahrnují také vlastní [značky Canon](https://exiftool.org/TagNames/Canon.html#uuid). Zahrnuje také [Canon 'crx' kodek](https://github.com/LibRaw/LibRaw/blob/master/src/decoders/crx.cpp), což je mix JPEG-LS (Rice-Golomb + RLE kódování) a JPEG-2000 (LeGall 5/3 DWT + kvantifikace).
 
 ## Vlastní štítky CR3
 

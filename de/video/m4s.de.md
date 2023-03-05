@@ -22,7 +22,7 @@ Eine M4S-Datei ist ein kleines Segment eines Videos, das mit der Streaming-Techn
 
 ## M4S-Dateiformat
 
-M4S-Dateien basieren auf dem [ISO Base Media File (ISOBMFF)-Format] (https://www.w3.org/TR/mse-byte-stream-format-isobmff/). Diese kleinen Segmente einer großen Datei können unabhängig voneinander über HTTP heruntergeladen werden. Wenn Sie also eine große [MP4](/de/video/mp4/)-Filmdatei haben, kann diese mit der MPEG-DASH-Technik (Dynamic Adaptive Streaming over HTTP) gestreamt werden, indem sie als M4S-Segmentdateien segmentiert wird. Wenn diese große Filmdatei als M4S auf die Disc heruntergeladen wird, werden mehrere M4S-Dateien heruntergeladen. Wenn alle diese .m4s-Segmente verkettet werden, wird eine vollständige abspielbare Datei erstellt. Die Mediaplayer können die Datei nicht abspielen, es sei denn, das erste Initialisierungssegment ist auch mit der Datei verfügbar.
+M4S-Dateien basieren auf dem [ISO Base Media File (ISOBMFF)-Format](https://www.w3.org/TR/mse-byte-stream-format-isobmff/). Diese kleinen Segmente einer großen Datei können unabhängig voneinander über HTTP heruntergeladen werden. Wenn Sie also eine große [MP4](/de/video/mp4/)-Filmdatei haben, kann diese mit der MPEG-DASH-Technik (Dynamic Adaptive Streaming over HTTP) gestreamt werden, indem sie als M4S-Segmentdateien segmentiert wird. Wenn diese große Filmdatei als M4S auf die Disc heruntergeladen wird, werden mehrere M4S-Dateien heruntergeladen. Wenn alle diese .m4s-Segmente verkettet werden, wird eine vollständige abspielbare Datei erstellt. Die Mediaplayer können die Datei nicht abspielen, es sei denn, das erste Initialisierungssegment ist auch mit der Datei verfügbar.
 
 ## Über MPEG-DASH-Streaming
 

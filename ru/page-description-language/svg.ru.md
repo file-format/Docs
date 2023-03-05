@@ -94,6 +94,6 @@ SVG имеет несколько предопределенных элемен�
 
 ## Использованная литература ##
 
-* [Спецификации W3C SVG] (https://www.w3.org/TR/SVG2/Overview.html)
-* [SVG — Википедия] (https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
+* [Спецификации W3C SVG](https://www.w3.org/TR/SVG2/Overview.html)
+* [SVG — Википедия](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 

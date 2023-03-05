@@ -49,5 +49,5 @@
 ## Препратки
 
 * [MPEG-4 част 14 - от Wikipedia](https://en.wikipedia.org/wiki/MPEG-4_Part_14)
-* [MPEG-4 част 14 аудио (M4A, M4B, M4P) формат и пример за възстановяване] (https://www.file-recovery.com/m4a-signature-format.htm)
+* [MPEG-4 част 14 аудио (M4A, M4B, M4P) формат и пример за възстановяване](https://www.file-recovery.com/m4a-signature-format.htm)
 

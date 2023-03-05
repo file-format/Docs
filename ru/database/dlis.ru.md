@@ -53,6 +53,6 @@ PPDM (Professional Petroleum Data Management) — это стандарт упр
 Совместное использование модели данных PPDM и данных DLIS позволяет хранить данные каротажа скважин и управлять ими таким образом, который соответствует отраслевым стандартам и легко доступен для других систем и приложений.
 
 ## использованная литература
-* [Формат цифровых каротажных данных] (http://w3.energistics.org/rp66/V1/Toc/main.html)
-* [DLIS — Организация данных] (http://w3.energistics.org/rp66/V1/Toc/main.html)
+* [Формат цифровых каротажных данных](http://w3.energistics.org/rp66/V1/Toc/main.html)
+* [DLIS — Организация данных](http://w3.energistics.org/rp66/V1/Toc/main.html)
 

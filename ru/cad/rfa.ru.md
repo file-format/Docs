@@ -27,5 +27,5 @@
 
 ## использованная литература
 
-* [Файлы примеров семейства Revit] (https://knowledge.autodesk.com/support/revit/getting-started/caas/CloudHelp/cloudhelp/2021/ENU/Revit-GetStarted/files/GUID-73E0E508-B9DA-4405- BAB4-C46D803BC1DE-htm.html)
+* [Файлы примеров семейства Revit](https://knowledge.autodesk.com/support/revit/getting-started/caas/CloudHelp/cloudhelp/2021/ENU/Revit-GetStarted/files/GUID-73E0E508-B9DA-4405- BAB4-C46D803BC1DE-htm.html)
 

@@ -35,7 +35,7 @@ Si no puede abrir y ejecutar el archivo RZS; no significa que no tenga el softwa
 
 ## Referencias
 
-* [Libro electrónico Red Zion] (https://submitfile.com/download/red-zion-e-book)
+* [Libro electrónico Red Zion](https://submitfile.com/download/red-zion-e-book)
 
 
 

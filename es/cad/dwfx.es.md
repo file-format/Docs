@@ -24,5 +24,5 @@ Al igual que DWF, Autodesk desarrolla DWFx en formato comprimido para que la tra
 
 ## Referencias
 
-* [Formato de diseño web] (https://en.wikipedia.org/wiki/Design_Web_Format)
+* [Formato de diseño web](https://en.wikipedia.org/wiki/Design_Web_Format)
 

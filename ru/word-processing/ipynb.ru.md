@@ -19,7 +19,7 @@
 
 ## .IPYNB вариант №
 
-Файл с расширением .ipynb — это файл Jupyter Notebook, который содержит все содержимое Notebook, созданное с помощью сеанса веб-приложения Jupyter Notebook. [Jupyter Notebook] (https://jupyter.org/) — это интерактивное веб-приложение, используемое для создания и обмена вычислительными документами для анализа с использованием Python.
+Файл с расширением .ipynb — это файл Jupyter Notebook, который содержит все содержимое Notebook, созданное с помощью сеанса веб-приложения Jupyter Notebook. [Jupyter Notebook](https://jupyter.org/) — это интерактивное веб-приложение, используемое для создания и обмена вычислительными документами для анализа с использованием Python.
 
 Файл IPYNB служит полной вычислительной записью сеанса и включает в себя такую информацию, как вычислительные входные и выходные данные, математические функции и богатое представление результирующих объектов, таких как изображения и пояснительный текст.
 
@@ -46,5 +46,5 @@ IPYNB сохраняются внутри в формате файла [JSON](/r
 ## Использованная литература ##
 
 * [Блокнот Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html?highlight=ipynb#notebook-documents)
-* [Блокнот Jupyter — Github] (https://github.com/jupyter/notebook)
+* [Блокнот Jupyter — Github](https://github.com/jupyter/notebook)
 

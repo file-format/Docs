@@ -34,6 +34,6 @@
 
 ## مراجع
 
-* [صورة ROM - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/ROM_image)
+* [صورة ROM - بواسطة Wikipedia](https://en.wikipedia.org/wiki/ROM_image)
 
 

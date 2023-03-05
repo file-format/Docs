@@ -40,5 +40,5 @@ PHP — это скрипты на стороне сервера, которые
 
 ## использованная литература
 
-* [Использование INC в PHP] (https://stackoverflow.com/questions/7129842/what-is-an-inc-and-why-use-it)
+* [Использование INC в PHP](https://stackoverflow.com/questions/7129842/what-is-an-inc-and-why-use-it)
 

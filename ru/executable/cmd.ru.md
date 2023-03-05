@@ -90,6 +90,6 @@ PAUSE
 
 ## использованная литература
 
-* [Как написать сценарий CMD] (https://smallbusiness.chron.com/write-cmd-script-53226.html)
+* [Как написать сценарий CMD](https://smallbusiness.chron.com/write-cmd-script-53226.html)
 * [Файл CMD (CP/M) - из Википедии](https://en.wikipedia.org/wiki/CMD_file_(CP/M))
 

@@ -71,6 +71,6 @@ Example :PA5000,1000;
 |LBHello World*;|нарисовать метку|
 
 ## использованная литература
-* [HPGL из Википедии] (https://en.wikipedia.org/wiki/HP-GL)
-* [Справочное руководство по HPGL] (https://www.isoplotec.co.jp/HPGL/eHPGL.htm)
+* [HPGL из Википедии](https://en.wikipedia.org/wiki/HP-GL)
+* [Справочное руководство по HPGL](https://www.isoplotec.co.jp/HPGL/eHPGL.htm)
 

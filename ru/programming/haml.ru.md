@@ -44,5 +44,5 @@ app/views/account/login.html.erb → app/views/account/login.html.haml
 
 ## использованная литература
 
-* [HAML — Github] (https://github.com/haml/haml)
+* [HAML — Github](https://github.com/haml/haml)
 

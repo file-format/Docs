@@ -42,6 +42,6 @@ Le tableau suivant donne une brève description de ces éléments.
 
 ## Références
 
-* [Comprendre le fichier de projet] (https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
+* [Comprendre le fichier de projet](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
 * [Éléments de schéma MSBuild](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
 

@@ -23,7 +23,7 @@
 
 ## Формат файла CR3
 
-Файлы CR3 хранятся на диске в виде двоичного файла в базовом формате медиафайлов ISO (ISO/IEC 14496-12), а также включают пользовательские [теги Canon] (https://exiftool.org/TagNames/Canon.html#uuid). Он также включает [кодек Canon 'crx'] (https://github.com/LibRaw/LibRaw/blob/master/src/decoders/crx.cpp), представляющий собой смесь JPEG-LS (Rice-Golomb + RLE). кодирование) и JPEG-2000 (LeGall 5/3 DWT + квантификация).
+Файлы CR3 хранятся на диске в виде двоичного файла в базовом формате медиафайлов ISO (ISO/IEC 14496-12), а также включают пользовательские [теги Canon](https://exiftool.org/TagNames/Canon.html#uuid). Он также включает [кодек Canon 'crx'](https://github.com/LibRaw/LibRaw/blob/master/src/decoders/crx.cpp), представляющий собой смесь JPEG-LS (Rice-Golomb + RLE). кодирование) и JPEG-2000 (LeGall 5/3 DWT + квантификация).
 
 ## Пользовательские теги CR3
 
@@ -43,6 +43,6 @@
 
 ## использованная литература
 
-* [Формат файла CR2] (http://lclevy.free.fr/cr2/)
+* [Формат файла CR2](http://lclevy.free.fr/cr2/)
 * [Теги Canon](https://exiftool.org/TagNames/Canon.html#uuid)
 

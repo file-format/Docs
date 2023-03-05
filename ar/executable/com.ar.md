@@ -43,5 +43,5 @@ hello:   db   'Hello, .COM programmer!',13,10,'$'
 
 ## مراجع
 
-* [ملف COM - بواسطة Wikipewdia] (https://en.wikipedia.org/wiki/COM_file)
+* [ملف COM - بواسطة Wikipewdia](https://en.wikipedia.org/wiki/COM_file)
 

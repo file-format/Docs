@@ -56,6 +56,6 @@
 
 ## संदर्भ
 
-* [एपीएनजी फ़ाइल प्रारूप] (https://en.wikipedia.org/wiki/APNG)
+* [एपीएनजी फ़ाइल प्रारूप](https://en.wikipedia.org/wiki/APNG)
 * [आधिकारिक पीएनजी प्रारूप विनिर्देश](https://www.w3.org/TR/PNG/)
 

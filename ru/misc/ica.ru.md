@@ -36,6 +36,6 @@
 
 ## использованная литература
 
-* [Понимание содержимого файла ICA] (https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
+* [Понимание содержимого файла ICA](https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
 * [Справочник по настройкам Citrix ICA](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
 

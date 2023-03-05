@@ -52,5 +52,5 @@ ARJ (تم أرشفته بواسطة Robert Jung) هو ملف أرشيف مضغو
 
 ## مراجع ##
 
-- [ARJ - ويكيبيديا] (https://en.wikipedia.org/wiki/ARJ)
+- [ARJ - ويكيبيديا](https://en.wikipedia.org/wiki/ARJ)
 

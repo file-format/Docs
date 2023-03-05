@@ -58,5 +58,5 @@ NIVEAU="1">
 
 ## Références
 
-* [Format de définition de canal - Par Wikipedia] (https://en.wikipedia.org/wiki/Channel_Definition_Format)
+* [Format de définition de canal - Par Wikipedia](https://en.wikipedia.org/wiki/Channel_Definition_Format)
 

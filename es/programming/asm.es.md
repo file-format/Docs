@@ -63,5 +63,5 @@ call    _ExitProcess@4
 ## Referencia ##
 
 * [Lenguaje ensamblador - por Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
-* [Lenguaje ensamblador: sintaxis básica] (https://www.tutorialspoint.com/assembly_programming/assembly_basic_syntax.htm)
+* [Lenguaje ensamblador: sintaxis básica](https://www.tutorialspoint.com/assembly_programming/assembly_basic_syntax.htm)
 

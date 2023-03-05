@@ -27,7 +27,7 @@ WordPerfect, un producto de [Corel](https://www.corel.com/en/), usó DOC como la
 
 ## Especificaciones del formato de archivo DOC - Más información
 
-Microsoft no publicó las especificaciones de formato de archivo DOC durante mucho tiempo hasta 2008. En febrero de 2008, se publicaron las especificaciones de formato para el formato de archivo .doc bajo la Promesa de especificación abierta de Microsoft. Aunque la especificación no describe todas las funciones utilizadas por el formato DOC, brinda amplia información sobre los conocimientos necesarios para trabajar con este formato de archivo. Aún así, se requiere ingeniería inversa para hacer uso de la información disponible. Las especificaciones se han actualizado varias veces y la última [revisión] (https://msdn.microsoft.com/en-us/library/cc313153(v#office.12).aspx) es 8.0, que se actualizó en agosto de 2018 .
+Microsoft no publicó las especificaciones de formato de archivo DOC durante mucho tiempo hasta 2008. En febrero de 2008, se publicaron las especificaciones de formato para el formato de archivo .doc bajo la Promesa de especificación abierta de Microsoft. Aunque la especificación no describe todas las funciones utilizadas por el formato DOC, brinda amplia información sobre los conocimientos necesarios para trabajar con este formato de archivo. Aún así, se requiere ingeniería inversa para hacer uso de la información disponible. Las especificaciones se han actualizado varias veces y la última [revisión](https://msdn.microsoft.com/en-us/library/cc313153(v#office.12).aspx) es 8.0, que se actualizó en agosto de 2018 .
 
 ### Algunos conceptos fundamentales ###
 
@@ -47,7 +47,7 @@ El Fib es una estructura de longitud variable. Con la excepción de la parte bas
 * **aCP (longitud variable):** Una matriz de elementos CP. Cada tipo de estructura **PLC** especifica el significado de los elementos CP y el rango permitido.
 * **aData (longitud variable):** Cada tipo de estructura de **PLC** especifica la estructura y el significado de los elementos de datos, cualquier restricción sobre la cantidad de elementos de datos y cualquier restricción sobre los datos contenidos en ellos. También especifica la relación entre los elementos de datos y los CP correspondientes.
 
-**Selección válida:** Las construcciones del archivo .DOC se describen principalmente mediante una variedad de CP. Hay una serie de [reglas] (https://msdn.microsoft.com/en-us/library/dd908861(v#office.12).aspx) especificadas por Microsoft que deben seguirse en tal caso.
+**Selección válida:** Las construcciones del archivo .DOC se describen principalmente mediante una variedad de CP. Hay una serie de [reglas](https://msdn.microsoft.com/en-us/library/dd908861(v#office.12).aspx) especificadas por Microsoft que deben seguirse en tal caso.
 
 **STTB:** El STTB es una tabla de cadenas que se compone de un encabezado seguido de una matriz de elementos. El valor **cData** especifica el número de elementos que están contenidos en la matriz.
 

@@ -18,7 +18,7 @@
 }
 
 ## ما هو ملف EXIF؟
-يرمز EXIF إلى "تنسيق ملف الصور القابل للاستبدال" ، وهو التعريف الذي تم تقديمه لأول مرة بواسطة [Japan Camera Industry Association] (https://en.wikipedia.org/wiki/Japan_Electronic_Industries_Development_Association) (JCIA) في عام 1985. تتم إدارة المعيار بواسطة Japan Electronics و جمعية صناعات تكنولوجيا المعلومات (JEITA) اعتبارًا من اليوم. EXIF هو معيار لمواصفات تنسيقات الصور والصوت المستخدمة بشكل أساسي بواسطة الكاميرات الرقمية والماسحات الضوئية.
+يرمز EXIF إلى "تنسيق ملف الصور القابل للاستبدال" ، وهو التعريف الذي تم تقديمه لأول مرة بواسطة [Japan Camera Industry Association](https://en.wikipedia.org/wiki/Japan_Electronic_Industries_Development_Association) (JCIA) في عام 1985. تتم إدارة المعيار بواسطة Japan Electronics و جمعية صناعات تكنولوجيا المعلومات (JEITA) اعتبارًا من اليوم. EXIF هو معيار لمواصفات تنسيقات الصور والصوت المستخدمة بشكل أساسي بواسطة الكاميرات الرقمية والماسحات الضوئية.
 
 يتضمن معيار EXIF معلومات العلامات والبيانات الوصفية مع ملف الصورة. يمكن أن تحتوي البيانات الوصفية على معلومات مثل طراز الكاميرا ، وسرعة الغالق ، والتاريخ والوقت ، والفتحة ، والشركة المصنعة ، ووقت التعرض ، ودقة X ، ودقة Y وما إلى ذلك. عادةً ما يتم إخفاء بيانات EXIF افتراضيًا. لعرض بيانات EXIF ، يتعين على المرء تحديد خصائص العرض داخل تطبيق عرض الصور. قد تتضمن بيانات Exif الأولية أيضًا صورًا مصغرة إلى جانب بيانات الصورة الفنية والأولية في ملف صورة واحد.
 
@@ -35,9 +35,9 @@
 
 يستخدم EXIF تنسيقات الملفات التالية مع إضافة بيانات وصفية محددة.
 
-1. [JPEG] (/ar/ image / jpeg /) - تحويل جيب التمام المنفصل (DCT) لملفات الصور المضغوطة.
-1. [TIFF] (/ar/ image / tiff /) Rev. 6.0 (RGB أو YCbCr) لملفات الصور غير المضغوطة.
-1. [RIFF] (https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV] (https://en.wikipedia.org/wiki/WAV) للملفات الصوتية (Linear [PCM] (https: / /en.wikipedia.org/wiki/Pulse-code_modulation) أو ITU-T [G.711] (https://en.wikipedia.org/wiki/G.711) μ-Law PCM لبيانات الصوت غير المضغوطة ، و [ IMA] (https://en.wikipedia.org/wiki/Interactive_Multimedia_Association) - [ADPCM] (https://en.wikipedia.org/wiki/ADPCM) لبيانات الصوت المضغوطة).
+1. [JPEG](/ar/ image / jpeg /) - تحويل جيب التمام المنفصل (DCT) لملفات الصور المضغوطة.
+1. [TIFF](/ar/ image / tiff /) Rev. 6.0 (RGB أو YCbCr) لملفات الصور غير المضغوطة.
+1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) للملفات الصوتية (Linear [PCM](https: / /en.wikipedia.org/wiki/Pulse-code_modulation) أو ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM لبيانات الصوت غير المضغوطة ، و [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association) - [ADPCM](https://en.wikipedia.org/wiki/ADPCM) لبيانات الصوت المضغوطة).
 
 ### العلامة المستخدمة من قبل EXIF ###
 
@@ -73,7 +73,7 @@
 
 #### رأس TIFF ####
 
-يحتوي رأس الملف ذو 8 بايت [TIFF] (/ar/ image / tiff /) على المعلومات التالية:
+يحتوي رأس الملف ذو 8 بايت [TIFF](/ar/ image / tiff /) على المعلومات التالية:
 
 "البايت 0-1:" ترتيب البايت المستخدم داخل الملف. القيم القانونية هي: “II” (4949.H) “MM” (4D4D.H).
 
@@ -115,6 +115,6 @@
 
 ## مراجع ##
 
-* [EXIF - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/Exif)
-* [تنسيق ملف EXIF] (https://www.media.mit.edu/pia/Research/deepview/exif.html)
+* [EXIF - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Exif)
+* [تنسيق ملف EXIF](https://www.media.mit.edu/pia/Research/deepview/exif.html)
 

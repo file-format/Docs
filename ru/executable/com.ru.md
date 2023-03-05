@@ -43,5 +43,5 @@ hello:   db   'Hello, .COM programmer!',13,10,'$'
 
 ## использованная литература
 
-* [COM-файл — Wikipewdia] (https://en.wikipedia.org/wiki/COM_file)
+* [COM-файл — Wikipewdia](https://en.wikipedia.org/wiki/COM_file)
 

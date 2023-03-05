@@ -24,5 +24,5 @@ Semblable à DWF, DWFx est développé par Autodesk dans un format compressé po
 
 ## Références
 
-* [Format Web de conception] (https://en.wikipedia.org/wiki/Design_Web_Format)
+* [Format Web de conception](https://en.wikipedia.org/wiki/Design_Web_Format)
 

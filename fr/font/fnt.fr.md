@@ -39,6 +39,6 @@ Le début des fichiers de police raster et vectoriel est commun, suivi de diffé
 Pour des informations détaillées sur les en-têtes pour Windows 3.0 et 2.0, visitez le [Microsoft KnowledgeBase Archive](https://jeffpar.github.io/kbarchive/kb/065/Q65123/).
 
 ## Références
-* [Format de fichier de police] (https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
-* [Comment installer ou supprimer une police dans Windows] (https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8 -7613-c76f-88d043b334b8)
+* [Format de fichier de police](https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
+* [Comment installer ou supprimer une police dans Windows](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8 -7613-c76f-88d043b334b8)
 

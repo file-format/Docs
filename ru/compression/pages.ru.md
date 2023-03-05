@@ -46,6 +46,6 @@
 
 ## использованная литература
 
-* [Преобразование страниц документов] (https://support.apple.com/en-us/HT202227)
-* [Страницы Apple — Википедия] (https://en.wikipedia.org/wiki/Pages_(word_processor))
+* [Преобразование страниц документов](https://support.apple.com/en-us/HT202227)
+* [Страницы Apple — Википедия](https://en.wikipedia.org/wiki/Pages_(word_processor))
 

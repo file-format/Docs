@@ -94,5 +94,5 @@ UrlConnection.m
 
 ## Références
 * [À propos d'Objective C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210-CH1-SW1)
-* [Guide d'Object-C] (https://blog.teamtreehouse.com/beginners-guide-objective-c-classes-objects)
+* [Guide d'Object-C](https://blog.teamtreehouse.com/beginners-guide-objective-c-classes-objects)
 

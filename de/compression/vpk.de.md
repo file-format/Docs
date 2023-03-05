@@ -24,7 +24,7 @@ Eine Datei mit der Erweiterung .vpk ist eine komprimierte Archivpaketdatei, die 
 
 VPK-Dateien werden als standardmäßig komprimierte [ZIP](/de/compression/zip/)-Archive auf Disc gespeichert. Diese können mehrere Ordner und andere zugehörige Dateien für die Apps von Drittanbietern enthalten, die auf der Vita Gaming Console installiert werden sollen. Um den Inhalt der VPK-Paketdatei anzuzeigen, benennen Sie die Erweiterung von .vpu in .zip um und extrahieren Sie den Inhalt mit standardmäßigen Dekomprimierungsprogrammen wie WinZip oder WinRAR.
 
-Valvesoftware bietet detaillierte Informationen zum [VPK-Dateiformat] (https://developer.valvesoftware.com/wiki/VPK_File_Format), auf die aus Entwicklersicht verwiesen werden kann.
+Valvesoftware bietet detaillierte Informationen zum [VPK-Dateiformat](https://developer.valvesoftware.com/wiki/VPK_File_Format), auf die aus Entwicklersicht verwiesen werden kann.
 
 ## Wie installiere ich VPK-Dateien?
 

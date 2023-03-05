@@ -83,5 +83,5 @@ et les fichiers xml suivants :
 ## Références ##
 
 * [[MS-PPTX] - Format de fichier PPTX](https://msdn.microsoft.com/en-us/library/dd926741(v#office.12).aspx)
-* [Open Office XML] (http://officeopenxml.com/anatomyofOOXML-pptx.php)
+* [Open Office XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
 

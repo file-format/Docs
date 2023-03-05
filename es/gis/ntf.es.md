@@ -52,5 +52,5 @@ El siguiente ejemplo usa **ogrinfo** en un archivo NTF para recuperar números d
 ## Referencias
 
 * [Formato de transferencia nacional del Reino Unido (NTF)](https://catalyst.earth/catalyst-system-files/help/references/gdb_r/gdb3N292.html)
-* [Mapeo web: ilustrado por Tyler Mitchell] (https://www.oreilly.com/library/view/web-mapping-illustrated/0596008651/re15.html)
+* [Mapeo web: ilustrado por Tyler Mitchell](https://www.oreilly.com/library/view/web-mapping-illustrated/0596008651/re15.html)
 

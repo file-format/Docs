@@ -19,7 +19,7 @@
 
 ## Mi az EFU fájl?
 
-Az EFU-fájl egy [CSV](/hu/spreadsheet/csv/) táblázatkezelő fájl, amelyet a [voidtools] (https://www.voidtools.com/) Minden szoftverével hozott létre. Tartalmazza azon fájlok listáját, amelyekben a Windowshoz készült Minden keresőmotor segítségével kerestek. Az EFU-fájlok eredményei CSV-vel tagoltak, és táblázatkezelő programokkal, például Microsoft Excellel nyithatók meg. Az EFU-fájlok ember által olvashatók, és bármely szövegszerkesztővel megnyithatók, például a Microsoft Notepad, a Notepad++ és az Apple TextEdit segítségével.
+Az EFU-fájl egy [CSV](/hu/spreadsheet/csv/) táblázatkezelő fájl, amelyet a [voidtools](https://www.voidtools.com/) Minden szoftverével hozott létre. Tartalmazza azon fájlok listáját, amelyekben a Windowshoz készült Minden keresőmotor segítségével kerestek. Az EFU-fájlok eredményei CSV-vel tagoltak, és táblázatkezelő programokkal, például Microsoft Excellel nyithatók meg. Az EFU-fájlok ember által olvashatók, és bármely szövegszerkesztővel megnyithatók, például a Microsoft Notepad, a Notepad++ és az Apple TextEdit segítségével.
 
 ## EFU fájlformátum - További információ
 

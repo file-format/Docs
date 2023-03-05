@@ -55,7 +55,7 @@ HTA имеют тот же формат, что и любая другая HTML-
 
 ## Ссылка ##
 
-* [HTA — из Википедии] (https://en.wikipedia.org/wiki/HTML_Application)
+* [HTA — из Википедии](https://en.wikipedia.org/wiki/HTML_Application)
 
 
 

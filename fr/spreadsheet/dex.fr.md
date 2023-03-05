@@ -23,5 +23,5 @@ Un fichier DEX est un fichier tableur créé avec Microsoft Excel. Il est simila
 
 ## Références
 
-* [Formats de fichier Microsoft Excel] (https://support.microsoft.com/en-us/office/file-formats-that-are-supported-in-excel-0943ff2c-6014-4e8d-aaea-b83d51d46247)
+* [Formats de fichier Microsoft Excel](https://support.microsoft.com/en-us/office/file-formats-that-are-supported-in-excel-0943ff2c-6014-4e8d-aaea-b83d51d46247)
 

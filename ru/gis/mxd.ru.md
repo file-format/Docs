@@ -27,6 +27,6 @@
 
 ## использованная литература
 
-* [Карта пакета] (https://desktop.arcgis.com/en/arcmap/10.3/tools/data-management-toolbox/package-map.htm)
-* [Формат файла MXD] (http://wiki.gis.com/wiki/index.php/File_Format_MXD)
+* [Карта пакета](https://desktop.arcgis.com/en/arcmap/10.3/tools/data-management-toolbox/package-map.htm)
+* [Формат файла MXD](http://wiki.gis.com/wiki/index.php/File_Format_MXD)
 

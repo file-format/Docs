@@ -19,7 +19,7 @@
 
 ## ما هو ملف DER؟
 
-ملف DER هو ملف شهادة رقمية يتم إنشاؤه وتخزينه بتنسيق ثنائي. إنه ترميز ثنائي لشهادات X.509 والمفاتيح الخاصة. على عكس ملفات PEM ([CRT] (https://docs.fileformat.com/web/crt/) ، [CER] (https://docs.fileformat.com/web/cer/)) ، تعمل ملفات DER لا تحتوي على عبارات نص عادي يمكن قراءتها بواسطة الإنسان مثل ----- BEGIN CERTIFICATE -----. يتم استخدامها في الغالب في سياق جافا.
+ملف DER هو ملف شهادة رقمية يتم إنشاؤه وتخزينه بتنسيق ثنائي. إنه ترميز ثنائي لشهادات X.509 والمفاتيح الخاصة. على عكس ملفات PEM ([CRT](https://docs.fileformat.com/web/crt/) ، [CER](https://docs.fileformat.com/web/cer/)) ، تعمل ملفات DER لا تحتوي على عبارات نص عادي يمكن قراءتها بواسطة الإنسان مثل ----- BEGIN CERTIFICATE -----. يتم استخدامها في الغالب في سياق جافا.
 
 ## تنسيق ملف DER - مزيد من المعلومات
 
@@ -172,6 +172,6 @@ openssl x509 -inform der -in DER_CERTIFICATE.der -out PEM_CERTIFICATE.pem
 ## مراجع
 
 * [الحصول على شهادة رقمية وإنشاء توقيع رقمي
-] (https://support.microsoft.com/en-us/office/obtain-a-digital-certificate-and-create-a-digital-signature-e3d9d813-3305-4164-a820-2e063d86e512)
-* [المفاتيح العمومية والمفاتيح الخاصة والشهادات] (https://docs.oracle.com/cd/E19509-01/820-3503/ggbgc/index.html)
+](https://support.microsoft.com/en-us/office/obtain-a-digital-certificate-and-create-a-digital-signature-e3d9d813-3305-4164-a820-2e063d86e512)
+* [المفاتيح العمومية والمفاتيح الخاصة والشهادات](https://docs.oracle.com/cd/E19509-01/820-3503/ggbgc/index.html)
 

@@ -23,5 +23,5 @@ Un fichier MM est un fichier de code source qui peut contenir à la fois du code
 
 ## Références
 
-* [Erreur d'importation dans le projet iOS] (https://developer.apple.com/forums/thread/92931)
+* [Erreur d'importation dans le projet iOS](https://developer.apple.com/forums/thread/92931)
 

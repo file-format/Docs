@@ -54,7 +54,7 @@
 
 يجب أن يبدأ ملف مخزن المراجعة ببنية ** Header **. يتم تقسيم ما تبقى من الملف إلى كتل من البايت ، حيث يتم تحديد حجم وبنية كل كتلة بواسطة الحقل الذي يشير إليها. يمكن الوصول إلى الكتلة إذا تمت الإشارة إليها بواسطة بنية ** Header ** ، أو إذا تمت الإشارة إليها بواسطة حقل في كتلة أخرى قابلة للوصول. يجب تجاهل البيانات الموجودة خارج هيكل ** Header ** وأي كتل يمكن الوصول إليها.
 
-يتم محاذاة جميع الهياكل على حدود 1 بايت. يتم توقيع جميع الأعداد الصحيحة ما لم ينص على خلاف ذلك. جميع الحقول [little-endian] (https://msdn.microsoft.com/en-us/library/dd773246 (v # office.12) .aspx # gt_079478cb-f4c5-4ce5-b72b-2144da5d2ce7) ما لم يتم تحديد خلاف ذلك.
+يتم محاذاة جميع الهياكل على حدود 1 بايت. يتم توقيع جميع الأعداد الصحيحة ما لم ينص على خلاف ذلك. جميع الحقول [little-endian](https://msdn.microsoft.com/en-us/library/dd773246 (v # office.12) .aspx # gt_079478cb-f4c5-4ce5-b72b-2144da5d2ce7) ما لم يتم تحديد خلاف ذلك.
 
 #### العنوان ####
 
@@ -173,6 +173,6 @@
 
 ## مراجع ##
 
-* [[MS-ONESTORE] - تنسيق ملف OneNote] (https://msdn.microsoft.com/en-us/library/dd951288 (v # office.12) .aspx)
-* [Microsoft OneNote - ويكيبيديا] (https://en.wikipedia.org/wiki/Microsoft_OneNote#References)
+* [[MS-ONESTORE] - تنسيق ملف OneNote](https://msdn.microsoft.com/en-us/library/dd951288 (v # office.12) .aspx)
+* [Microsoft OneNote - ويكيبيديا](https://en.wikipedia.org/wiki/Microsoft_OneNote#References)
 

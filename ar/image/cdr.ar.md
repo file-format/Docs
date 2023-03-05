@@ -19,7 +19,7 @@
 
 ## ما هو ملف CDR؟
 
-ملف CDR هو ملف صورة رسم متجه تم إنشاؤه أصلاً باستخدام [CorelDRAW] (https://www.coreldraw.com/en/pages/open-cdr-file/) لتخزين الصورة الرقمية المشفرة والمضغوطة. يحتوي ملف الرسم هذا على نص وخطوط وأشكال وصور وألوان وتأثيرات للتمثيل المتجه لمحتويات الصورة. يمكن فتح ملفات CDR باستخدام CorelDRAW باعتباره التطبيق الأساسي ويمكن أيضًا تحويلها إلى تنسيقات أخرى مثل [PDF] (/ar/ pdf /) و [JPG] (/ar/ image / jpeg /) و [PNG] (/ar/ image / png / ) و [BMP] (/ar/ image / bmp /) و AI. يمكن استخدامه لتمثيل بيانات الرسومات المختلفة مثل الكتيبات والصحف والمغلفات والبطاقات البريدية. إلى جانب CorelDRAW ، يمكن لمنتجات Corel الأخرى مثل Corel Paintshop Pro ومجموعة CorelDRAW Graphics أيضًا فتح تنسيقات ملفات CDR.
+ملف CDR هو ملف صورة رسم متجه تم إنشاؤه أصلاً باستخدام [CorelDRAW](https://www.coreldraw.com/en/pages/open-cdr-file/) لتخزين الصورة الرقمية المشفرة والمضغوطة. يحتوي ملف الرسم هذا على نص وخطوط وأشكال وصور وألوان وتأثيرات للتمثيل المتجه لمحتويات الصورة. يمكن فتح ملفات CDR باستخدام CorelDRAW باعتباره التطبيق الأساسي ويمكن أيضًا تحويلها إلى تنسيقات أخرى مثل [PDF](/ar/ pdf /) و [JPG](/ar/ image / jpeg /) و [PNG](/ar/ image / png / ) و [BMP](/ar/ image / bmp /) و AI. يمكن استخدامه لتمثيل بيانات الرسومات المختلفة مثل الكتيبات والصحف والمغلفات والبطاقات البريدية. إلى جانب CorelDRAW ، يمكن لمنتجات Corel الأخرى مثل Corel Paintshop Pro ومجموعة CorelDRAW Graphics أيضًا فتح تنسيقات ملفات CDR.
 
 ## تنسيق ملف CDR
 
@@ -27,5 +27,5 @@
 
 ## مراجع
 
-* [CorelDRAW] (https://www.coreldraw.com/en/pages/open-cdr-file/)
+* [CorelDRAW](https://www.coreldraw.com/en/pages/open-cdr-file/)
 

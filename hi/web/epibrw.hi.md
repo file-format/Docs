@@ -24,5 +24,5 @@ EPIBRW फ़ाइल Microsoft IIS-आधारित वेब सर्व�
 
 ## संदर्भ
 
-* [एडोब एज] (https://www.adobe.com/sea/products/edge-animate.html)
+* [एडोब एज](https://www.adobe.com/sea/products/edge-animate.html)
 

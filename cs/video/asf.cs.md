@@ -23,7 +23,7 @@ Soubor s příponou .asf je formát multimediálního souboru pro ukládání a 
 
 ## Formát souboru ASF
 
-Soubor ASF může obsahovat více nezávislých nebo závislých toků. To může zahrnovat více zvukových proudů pro vícekanálový zvuk nebo vícenásobné datové toky videa. Díky více datovým tokům jsou toky vhodné pro přenos v různých šířkách pásma. Kromě toho mohou být proudy v souboru ASF v komprimovaném nebo nekomprimovaném formátu. Nejlepší komprese je dosaženo s kodeky Microsoft Windows Media Audio a Video 9 Series. Úplné specifikace formátu souboru ASF jsou k dispozici na [Webové stránky společnosti Microsoft] (https://download.microsoft.com/download/7/9/0/790fecaa-f64a-4a5e-a430-0bccdab3f1b4/ASF_Specification.doc).
+Soubor ASF může obsahovat více nezávislých nebo závislých toků. To může zahrnovat více zvukových proudů pro vícekanálový zvuk nebo vícenásobné datové toky videa. Díky více datovým tokům jsou toky vhodné pro přenos v různých šířkách pásma. Kromě toho mohou být proudy v souboru ASF v komprimovaném nebo nekomprimovaném formátu. Nejlepší komprese je dosaženo s kodeky Microsoft Windows Media Audio a Video 9 Series. Úplné specifikace formátu souboru ASF jsou k dispozici na [Webové stránky společnosti Microsoft](https://download.microsoft.com/download/7/9/0/790fecaa-f64a-4a5e-a430-0bccdab3f1b4/ASF_Specification.doc).
 
 ### Struktura souboru nejvyšší úrovně ASF
 

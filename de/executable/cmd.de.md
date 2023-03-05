@@ -90,6 +90,6 @@ PAUSE
 
 ## Verweise
 
-* [So schreiben Sie ein CMD-Skript] (https://smallbusiness.chron.com/write-cmd-script-53226.html)
+* [So schreiben Sie ein CMD-Skript](https://smallbusiness.chron.com/write-cmd-script-53226.html)
 * [CMD-Datei (CP/M) - von Wikipedia](https://en.wikipedia.org/wiki/CMD_file_(CP/M))
 

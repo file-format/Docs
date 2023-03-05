@@ -34,7 +34,7 @@ WScript.Quit
 
 ## مراجع
 
-* [Windows Script Host - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/Windows_Script_Host)
+* [Windows Script Host - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Windows_Script_Host)
 
 
 

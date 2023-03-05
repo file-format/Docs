@@ -19,7 +19,7 @@
 
 ## ما هو ملف AWS؟
 
-ملف AWS هو ملف جدول بيانات تم إنشاؤه باستخدام برنامج Ability Spreadsheet الذي يأتي مع مجموعة Ability Office. يقوم بتخزين البيانات في صفوف وأعمدة مماثلة لبرنامج Microsoft Excel. يمكن حفظ بيانات ملفات AWS في [XLS] (/ar/ spreadsheet / xls /) و [XLSX] (/ar/ spreadsheet / xlsx). هذا يجعل ملف Ability Spreadsheet متوافقًا مع Microsoft Excel. يمكن تصدير البيانات الموجودة في جداول البيانات إلى تنسيقات الملفات [PDF] (/ar/ pdf /) و [XPS] (/ar/ page-description-language / xps /).
+ملف AWS هو ملف جدول بيانات تم إنشاؤه باستخدام برنامج Ability Spreadsheet الذي يأتي مع مجموعة Ability Office. يقوم بتخزين البيانات في صفوف وأعمدة مماثلة لبرنامج Microsoft Excel. يمكن حفظ بيانات ملفات AWS في [XLS](/ar/ spreadsheet / xls /) و [XLSX](/ar/ spreadsheet / xlsx). هذا يجعل ملف Ability Spreadsheet متوافقًا مع Microsoft Excel. يمكن تصدير البيانات الموجودة في جداول البيانات إلى تنسيقات الملفات [PDF](/ar/ pdf /) و [XPS](/ar/ page-description-language / xps /).
 
 ## تنسيق ملف AWS - مزيد من المعلومات
 
@@ -27,6 +27,6 @@
 
 ## مراجع ##
 
-* [Ability Office - Wikipedia] (https://en.wikipedia.org/wiki/Ability_Office)
-* [مكتب القدرة] (https://www.ability.com/en/home/home)
+* [Ability Office - Wikipedia](https://en.wikipedia.org/wiki/Ability_Office)
+* [مكتب القدرة](https://www.ability.com/en/home/home)
 

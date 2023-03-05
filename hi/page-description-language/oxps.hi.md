@@ -27,6 +27,5 @@ Microsoft टीम ने 2003 में XPS पर परामर्श प�
 
 ## संदर्भ ##
 
-* [विकिपीडिया] (https://en.wikipedia.org/wiki/Open_XML_Paper_Specification)
-* [माइक्रोसॉफ्ट - ओएक्सपीएस](https://support.microsoft.com/en-us/topic/you-cannot-open-an-oxps-file-in-windows-7-or-in-windows-server-2008 -r2-7b483a76-0शुल्क-1bc8-8d09-4f30b9c0a251)
-
+* [विकिपीडिया](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification)
+* [माइक्रोसॉफ्ट - ओएक्सपीएस](https://support.microsoft.com/en-us/topic/you-cannot-open-an-oxps-file-in-windows-7-or-in-windows-server-2008-r2-7b483a76-0fee-1bc8-8d09-4f30b9c0a251)

@@ -23,5 +23,5 @@
 
 ## использованная литература
 
-* [Язык программирования ML — по Википедии] (https://en.wikipedia.org/wiki/ML_(programming_language))
+* [Язык программирования ML — по Википедии](https://en.wikipedia.org/wiki/ML_(programming_language))
 

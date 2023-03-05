@@ -21,7 +21,7 @@
 
 في معظم الحالات ، يتم تحويل المستندات الموجودة إلى PDF بدلاً من إنشاء ملف PDF جديد من البداية. لكن هذا لا يعني عدم وجود برنامج لإنشاء ملفات PDF أو معالجتها.
 
-** (هل تريد مشاركة شيء ما حول تنسيق ملف PDF؟ يمكنك نشر نتائجك في قسم [PDF File Format News] (https://news.fileformat.com/t/PDF).) **
+** (هل تريد مشاركة شيء ما حول تنسيق ملف PDF؟ يمكنك نشر نتائجك في قسم [PDF File Format News](https://news.fileformat.com/t/PDF).) **
 
 ## تنسيق ملف PDF - تاريخ موجز
 
@@ -112,7 +112,7 @@ PDF الخطي - لاستهداف مشاهدي PDF عبر الإنترنت ، ي
 
 ## مراجع ##
 
-* [تنسيق ملف PDF: البنية الأساسية] (https://resources.infosecinstitute.com/pdf-file-format-basic-structure/)
-* [PDF - ويكيبيديا] (https://en.wikipedia.org/wiki/PDF)
-* [مرجع PDF - Adobe] (https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
+* [تنسيق ملف PDF: البنية الأساسية](https://resources.infosecinstitute.com/pdf-file-format-basic-structure/)
+* [PDF - ويكيبيديا](https://en.wikipedia.org/wiki/PDF)
+* [مرجع PDF - Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 

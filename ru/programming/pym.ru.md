@@ -66,6 +66,6 @@ def EXP(e): return str(e)
 
 ## Использованная литература ##
 
-* [PYM — препроцессор макросов на основе Python] (http://web.archive.org/web/20051122185426/http://ray.cg.tuwien.ac.at/rft/Papers/PYM/pym.html)
-* [Интерпретаторы PYM] (https://github.com/interpreters/pym)
+* [PYM — препроцессор макросов на основе Python](http://web.archive.org/web/20051122185426/http://ray.cg.tuwien.ac.at/rft/Papers/PYM/pym.html)
+* [Интерпретаторы PYM](https://github.com/interpreters/pym)
 

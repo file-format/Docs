@@ -49,5 +49,5 @@ Después del encabezado vienen los Paquetes. El archivo FLV se divide en varios 
 
 ## Referencias ##
 
-- [Video Flash - Wikipedia] (https://en.wikipedia.org/wiki/Flash_Video)
+- [Video Flash - Wikipedia](https://en.wikipedia.org/wiki/Flash_Video)
 

@@ -21,7 +21,7 @@ Beim Erstellen einer Webseite werden eine Reihe von Dateitypen benötigt. Webdat
 
 Gängige Webdateierweiterungen und die zugehörigen Dateiformate sind **[HTML](/de/web/html/)** (Hypertext Markup Language), **[ASP](/de/web/asp/) (Active Server Pages)**, und **CSS** (Cascading Style Sheets).
 
-Haben Sie Fragen zu Webdateiformaten? Besuchen Sie unsere Community [Foren] (https://forum.fileformat.com/c/web), um vom Wissen der Dateiformatexperten zu profitieren.
+Haben Sie Fragen zu Webdateiformaten? Besuchen Sie unsere Community [Foren](https://forum.fileformat.com/c/web), um vom Wissen der Dateiformatexperten zu profitieren.
 
 ## Liste der Webdateierweiterungen und zugehörigen Dateiformate
 

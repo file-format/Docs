@@ -24,7 +24,7 @@ Das VID-Dateiformat wird von Bethesda Softworks-Videospielen nicht mehr unterst�
 
 ## Beispiele für VID-Dateien
 
-Beispieldateien des Bethesda-Videospiels [VID-Videodateien] (http://samples.mplayerhq.hu/game-formats/bethsoft-vid/) sind von der Spiele-Community erhältlich. Diese können heruntergeladen und ausprobiert werden.
+Beispieldateien des Bethesda-Videospiels [VID-Videodateien](http://samples.mplayerhq.hu/game-formats/bethsoft-vid/) sind von der Spiele-Community erhältlich. Diese können heruntergeladen und ausprobiert werden.
 
 ## Verweise ##
 

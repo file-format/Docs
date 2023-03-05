@@ -50,5 +50,5 @@ Le logiciel TeX offre plusieurs fonctionnalités qui n'étaient pas disponibles,
 
 ## Références ##
 
-* [Système de composition TeX] (https://en.wikipedia.org/wiki/TeX)
+* [Système de composition TeX](https://en.wikipedia.org/wiki/TeX)
 

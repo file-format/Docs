@@ -19,13 +19,13 @@
 
 ## CON ما هو ملف CON؟
 
-ملف CON هو ملف شفرة مصدر لتطبيق تم تطويره من أجل ** Concept Application Server **. يتم استخدامه لكتابة التطبيقات لتبادل البيانات بين الخادم والمستخدم. يمكن الوصول إلى ملفات CON المستضافة على الخادم من خلال مستعرض ويب بشرط تثبيت Concept Client على طرف المستخدم. خادم تطبيق Concept Application هو خادم ويب مع لغة برمجة صغيرة الحجم والتي قد تحتوي على محرك قاعدة بيانات مجموعة فرعية [SQL] (/ar/ database / sql /) (TinDB).
+ملف CON هو ملف شفرة مصدر لتطبيق تم تطويره من أجل ** Concept Application Server **. يتم استخدامه لكتابة التطبيقات لتبادل البيانات بين الخادم والمستخدم. يمكن الوصول إلى ملفات CON المستضافة على الخادم من خلال مستعرض ويب بشرط تثبيت Concept Client على طرف المستخدم. خادم تطبيق Concept Application هو خادم ويب مع لغة برمجة صغيرة الحجم والتي قد تحتوي على محرك قاعدة بيانات مجموعة فرعية [SQL](/ar/ database / sql /) (TinDB).
 
 يمكن فتح / تشغيل ملفات CON باستخدام خادم تطبيق مفهوم RadGs.
 
 ## تنسيق ملف CON - مزيد من المعلومات
 
-تتم استضافة ملفات CON على الخادم ويتم الوصول إليها باستخدام متصفح الويب على جهاز المستخدم. يختلف المفهوم [URLs] (/ar/ web / url /) عن عناوين HTTP العادية ويبدأ بـ ** concept: // **.
+تتم استضافة ملفات CON على الخادم ويتم الوصول إليها باستخدام متصفح الويب على جهاز المستخدم. يختلف المفهوم [URLs](/ar/ web / url /) عن عناوين HTTP العادية ويبدأ بـ ** concept: // **.
 
 ### مثال لعنوان URL لملف CON
 
@@ -36,5 +36,5 @@ concept://domain.server.com/web_application/main.con.
 ```
 ## مراجع
 
-* [Concept Application Server] (https://github.com/Devronium/ConceptApplicationServer)
+* [Concept Application Server](https://github.com/Devronium/ConceptApplicationServer)
 

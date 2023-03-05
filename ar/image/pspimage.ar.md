@@ -17,7 +17,7 @@
 }
 ## ما هو ملف PSPIMAGE؟
 
-ملف PSPIMAGE هو صورة رسومية محفوظة باستخدام برنامج Corel PaintShop Pro المستخدم لتحرير الصور والصور الرقمية. وهو يدعم حفظ بيانات الصورة بتنسيقات الملفات النقطية والمتجهة. تدعم ملفات PSPIMAGE عمليات التحرير التي تم إجراؤها على صورة مثل الطبقات والشفافية والمرشحات وتأثيرات الصور الأخرى. يمكن حفظ ملفات PSPIMAGE وتصديرها إلى تنسيقات ملفات صور شائعة أخرى مثل [JPEG] (/ar/ image / jpeg /) و [PNG] (/ar/) و [BMP] (/ar/ image / bmp /).
+ملف PSPIMAGE هو صورة رسومية محفوظة باستخدام برنامج Corel PaintShop Pro المستخدم لتحرير الصور والصور الرقمية. وهو يدعم حفظ بيانات الصورة بتنسيقات الملفات النقطية والمتجهة. تدعم ملفات PSPIMAGE عمليات التحرير التي تم إجراؤها على صورة مثل الطبقات والشفافية والمرشحات وتأثيرات الصور الأخرى. يمكن حفظ ملفات PSPIMAGE وتصديرها إلى تنسيقات ملفات صور شائعة أخرى مثل [JPEG](/ar/ image / jpeg /) و [PNG](/ar/) و [BMP](/ar/ image / bmp /).
 
 ## تنسيق ملف PSPIMAGE
 
@@ -36,5 +36,5 @@
 
 ## مراجع
 
-* [تحويل PSPIMAGE] (https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/mp/5288141)
+* [تحويل PSPIMAGE](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/mp/5288141)
 

@@ -63,6 +63,6 @@ Content_Checksum weryfikuje poprawność dekodowania treści i jest przeprowadza
 
 ## Bibliografia
 
-* [Format ramki LZ4] (https://github.com/lz4/lz4/blob/dev/doc/lz4_Frame_format.md)
+* [Format ramki LZ4](https://github.com/lz4/lz4/blob/dev/doc/lz4_Frame_format.md)
 * [Algorytm kompresji LZ4 – Wikipedia](https://en.wikipedia.org/wiki/LZ4_(compression_algorithm))
 

@@ -23,5 +23,5 @@
 
 ## مراجع
 
-* [DNAML تطلق برنامج "PDF إلى ePub" الجديد] (https://www.bookbusinessmag.com/article/dnaml-releases-new-pdf-epub-software-412425/all/)
+* [DNAML تطلق برنامج "PDF إلى ePub" الجديد](https://www.bookbusinessmag.com/article/dnaml-releases-new-pdf-epub-software-412425/all/)
 

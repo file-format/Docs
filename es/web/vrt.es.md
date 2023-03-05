@@ -26,5 +26,5 @@ Los archivos VRT se almacenan en el formato de archivo propietario de Viscape y 
 
 ## Referencias
 
-* [Viscape 360] (https://www.viscape360.com/)
+* [Viscape 360](https://www.viscape360.com/)
 

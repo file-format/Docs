@@ -25,7 +25,7 @@ Az XPS-megtekintők a Windows Vista, a Windows 7, a Windows 8 és az Internet Ex
 
 ## Rövid története ##
 
-A Microsoft benyújtotta az XPS-specifikációt az Ecma International-nek. 2007 júniusában létrehozták az Ecma Technical Committee 46-ot (TC46), hogy az OpenXPS papírspecifikációkon alapuló szabványt dolgozzon ki. Az Ecma International 2009 júniusában, a 97. közgyűlésen jóváhagyta az Ecma szabványt (ECMA-388) [XPS-specifikáció] (http://www.ecma-international.org/publications/standards/Ecma-388.htm).
+A Microsoft benyújtotta az XPS-specifikációt az Ecma International-nek. 2007 júniusában létrehozták az Ecma Technical Committee 46-ot (TC46), hogy az OpenXPS papírspecifikációkon alapuló szabványt dolgozzon ki. Az Ecma International 2009 júniusában, a 97. közgyűlésen jóváhagyta az Ecma szabványt (ECMA-388) [XPS-specifikáció](http://www.ecma-international.org/publications/standards/Ecma-388.htm).
 
 ## XPS fájlformátum ##
 
@@ -48,7 +48,7 @@ Ezek a fájlok megőrzik a dokumentum tartalmát oly módon, hogy ha például v
 
 Az XPS-dokumentum formátuma részek és kapcsolatok jól meghatározott készletét tartalmazza, amelyek mindegyike egy adott célt tölt be a dokumentumban. A formátum a csomag szolgáltatásait is kiterjeszti, beleértve a digitális aláírásokat, bélyegképeket és interleavingeket.
 
-Egy tipikus XPS-dokumentum a következőképpen néz ki, és az XPS-fájlformátum [specifikációi] (https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf) fényében elemezhető.
+Egy tipikus XPS-dokumentum a következőképpen néz ki, és az XPS-fájlformátum [specifikációi](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf) fényében elemezhető.
 
 {{< figure src="../XPS-2.png" alt="XPS fájlformátum" >}}
 

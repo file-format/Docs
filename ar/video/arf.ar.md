@@ -26,10 +26,10 @@
 
 ## خيارات تحويل ملف ARF
 
-يمكن تحويل ملفات ARF إلى تنسيقات [WMV] (/ar/ video / wmv /) أو [SWF] (/ar/ page-description-language / swf /) أو [MP4] (/ar/ video / mp4 /).
+يمكن تحويل ملفات ARF إلى تنسيقات [WMV](/ar/ video / wmv /) أو [SWF](/ar/ page-description-language / swf /) أو [MP4](/ar/ video / mp4 /).
 
 ## مراجع
 
-* [WEBEX] (https://www.webex.com/)
-* [تنسيق ملف ARF] (https://help.webex.com/en-us/article/WBX47730/What-Is-the-Difference-Between-.MP4،-.ARF-and-.WRF-Recording-Files ؟)
+* [WEBEX](https://www.webex.com/)
+* [تنسيق ملف ARF](https://help.webex.com/en-us/article/WBX47730/What-Is-the-Difference-Between-.MP4،-.ARF-and-.WRF-Recording-Files ؟)
 

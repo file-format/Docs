@@ -22,7 +22,7 @@ Soubor s příponou .hdml (Handheld Device Markup Language) je značkovací jazy
 
 ## Formát souboru HDML – Další informace
 
-HDML je značkovací jazyk pro kapesní zařízení, který je založen na značkovacích značkách podobných HTML. HDML byl předložen W3C ke standardizaci, ale nikdy se nestal standardem. Jeho specifikace formátu souboru jsou však k dispozici na [webové stránce W3] (https://www.w3.org/TR/NOTE-Submission-HDML-spec.html). [Syntaxe jazyka HDML](https://www.w3.org/TR/hdml20-5.html#HEADING5-0) je k dispozici pro vývojáře a lze ji použít pro vývoj ukázkových aplikací.
+HDML je značkovací jazyk pro kapesní zařízení, který je založen na značkovacích značkách podobných HTML. HDML byl předložen W3C ke standardizaci, ale nikdy se nestal standardem. Jeho specifikace formátu souboru jsou však k dispozici na [webové stránce W3](https://www.w3.org/TR/NOTE-Submission-HDML-spec.html). [Syntaxe jazyka HDML](https://www.w3.org/TR/hdml20-5.html#HEADING5-0) je k dispozici pro vývojáře a lze ji použít pro vývoj ukázkových aplikací.
 
 ## prvky HDML
 

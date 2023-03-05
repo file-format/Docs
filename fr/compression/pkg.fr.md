@@ -31,6 +31,6 @@ Les PKR sont des fichiers binaires qui sont compressés pour réduire la taille 
 
 ## Références
 
-* [Format de fichier de package plat] (http://s.sudre.free.fr/Stuff/Ivanhoe/FLAT.html)
+* [Format de fichier de package plat](http://s.sudre.free.fr/Stuff/Ivanhoe/FLAT.html)
 * [PKG - Wikipédia](https://en.wikipedia.org/wiki/.pkg)
 

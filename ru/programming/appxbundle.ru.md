@@ -19,14 +19,14 @@
 
 ## .APPXBUNDLE вариант №
 
-Файл APPXBUNDLE — это файл пакета, созданный с помощью [Microsoft Visual Studio] (https://visualstudio.microsoft.com/) и используемый для распространения приложений Windows (как для рабочего стола, так и для UWP) в [Microsoft Store] (https:// www.microsoft.com/en-us/store/apps/windows). Он содержит одну или несколько версий приложения, ориентированных на определенную архитектуру процессора, например x86, x64 или ARM. Это позволяет конечному пользователю получить и развернуть соответствующую версию приложения в зависимости от архитектуры компьютера. Файлы APPXBUNDLE сгруппированы вместе с использованием стандартного формата файлов [ZIP](/ru/compression/zip/). Метод публикации Microsoft Visual Studio используется для публикации приложений в виде пакетов. Однопакетные приложения распространяются в виде файлов [APPX](/ru/programming/appx/).
+Файл APPXBUNDLE — это файл пакета, созданный с помощью [Microsoft Visual Studio](https://visualstudio.microsoft.com/) и используемый для распространения приложений Windows (как для рабочего стола, так и для UWP) в [Microsoft Store](https:// www.microsoft.com/en-us/store/apps/windows). Он содержит одну или несколько версий приложения, ориентированных на определенную архитектуру процессора, например x86, x64 или ARM. Это позволяет конечному пользователю получить и развернуть соответствующую версию приложения в зависимости от архитектуры компьютера. Файлы APPXBUNDLE сгруппированы вместе с использованием стандартного формата файлов [ZIP](/ru/compression/zip/). Метод публикации Microsoft Visual Studio используется для публикации приложений в виде пакетов. Однопакетные приложения распространяются в виде файлов [APPX](/ru/programming/appx/).
 
 ## Формат файла APPXBUNDLE
 
-Файлы APPXBUNDLE публикуются в формате ZIP. Если вы хотите просмотреть содержимое пакета приложения, вы можете извлечь его содержимое с помощью утилит распаковки, таких как [WinZIP] (https://www.winzip.com/en/) или WinRAR.
+Файлы APPXBUNDLE публикуются в формате ZIP. Если вы хотите просмотреть содержимое пакета приложения, вы можете извлечь его содержимое с помощью утилит распаковки, таких как [WinZIP](https://www.winzip.com/en/) или WinRAR.
 
 ## использованная литература
 
 * [Пакеты зависимостей для пакетов .appx и .appxbundle](https://www.ibm.com/docs/en/maas360?topic=catalog-dependency-packages-appx-appxbundle-packages)
-* [Создание файлов APPX с помощью Microsoft Visual Studio] (https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Создание файлов APPX с помощью Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

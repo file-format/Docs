@@ -128,6 +128,6 @@ Notes for this very formal example:
 
 ## مراجع
 
-* [Windows Installer - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/Windows_Installer)
+* [Windows Installer - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Windows_Installer)
 
 

@@ -19,7 +19,7 @@
 
 ## 什么是一 .fcs 文件？
 
-FCS 文件是使用 PFS:First Choice 软件创建的电子表格文件，该软件是由文字处理器、电子表格、图形、数据库和电信组成的办公套件。 FCS 代表 First Choice Spreadsheet，可以使用 PFS:First Choice suite for DOS 由 [Software Publishing Corporation] (https://en.wikipedia.org/wiki/Software_Publishing_Corporation) 打开。
+FCS 文件是使用 PFS:First Choice 软件创建的电子表格文件，该软件是由文字处理器、电子表格、图形、数据库和电信组成的办公套件。 FCS 代表 First Choice Spreadsheet，可以使用 PFS:First Choice suite for DOS 由 [Software Publishing Corporation](https://en.wikipedia.org/wiki/Software_Publishing_Corporation) 打开。
 
 ## 参考
 

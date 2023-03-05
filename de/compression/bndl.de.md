@@ -18,7 +18,7 @@
 
 ## Was ist eine BNDL-Datei?
 
-Eine BNDL-Datei ist eine Spieldatenbündel-Archivdatei, die vom Spiel **Need for Speed: Most Wanted** von [Electronic Arts] (https://www.ea.com/) verwendet wird. Es ist eine Bundle-Datei, die Spielgeräusche und Audiostreams speichert, die für Soundeffekte im Spiel verwendet werden. Diese Soundeffekte werden verwendet, wenn der Spieler das Spiel spielt. BNDL ist die Abkürzung für Bündel.
+Eine BNDL-Datei ist eine Spieldatenbündel-Archivdatei, die vom Spiel **Need for Speed: Most Wanted** von [Electronic Arts](https://www.ea.com/) verwendet wird. Es ist eine Bundle-Datei, die Spielgeräusche und Audiostreams speichert, die für Soundeffekte im Spiel verwendet werden. Diese Soundeffekte werden verwendet, wenn der Spieler das Spiel spielt. BNDL ist die Abkürzung für Bündel.
 
 ## BNDL-Dateiformat
 

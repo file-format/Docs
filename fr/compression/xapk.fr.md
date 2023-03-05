@@ -30,5 +30,5 @@ Les fichiers XAPK sont compressés à l'aide du format de fichier standard [ZIP]
 
 ## Références
 
-* [Fichier de package Android] (https://en.wikipedia.org/wiki/Android_application_package)
+* [Fichier de package Android](https://en.wikipedia.org/wiki/Android_application_package)
 

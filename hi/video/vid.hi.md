@@ -28,5 +28,5 @@ VID फ़ाइल स्वरूप अब बेथेस्डा सॉफ
 
 ## संदर्भ ##
 
-- [खेल प्रारूप] (http://samples.mplayerhq.hu/game-formats/bethsoft-vid/)
+- [खेल प्रारूप](http://samples.mplayerhq.hu/game-formats/bethsoft-vid/)
 

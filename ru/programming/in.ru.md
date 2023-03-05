@@ -26,5 +26,5 @@ Autoconf — это компонент системы сборки GNU, кото
 
 ## использованная литература
 
-* [Автоконф] (https://www.gnu.org/software/autoconf/)
+* [Автоконф](https://www.gnu.org/software/autoconf/)
 

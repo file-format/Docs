@@ -21,7 +21,7 @@
 Un WEBA es un formato de archivo de audio que solo contiene el audio extraído de los archivos de video [WEBM](/es/video/webm/). Se comprime utilizando el códec de compresión OGG Vorbis, lo que da como resultado un tamaño de archivo reducido. Esto facilita la transmisión de archivos WEBA a través de Internet. El uso de la compresión Vorbis [OGG](https://en.wikipedia.org/wiki/Ogg) permite que los archivos WEBA sean compatibles con la mayoría de los reproductores multimedia.
 
 **¿Sabías?**
-Puede convertirse en colaborador en FileFormat.com para mantener la comunidad de formato de archivo actualizada con sus hallazgos. Si tiene que compartir algo sobre WAV o formatos de archivos de audio, puede publicar sus hallazgos en la sección [Noticias sobre formatos de archivos de audio] (https://news.fileformat.com/t/audio) para que las personas se mantengan actualizadas.
+Puede convertirse en colaborador en FileFormat.com para mantener la comunidad de formato de archivo actualizada con sus hallazgos. Si tiene que compartir algo sobre WAV o formatos de archivos de audio, puede publicar sus hallazgos en la sección [Noticias sobre formatos de archivos de audio](https://news.fileformat.com/t/audio) para que las personas se mantengan actualizadas.
 
 ## Formato de archivo WEBA - Más información
 
@@ -47,5 +47,5 @@ Los archivos WEBA se pueden convertir a otros formatos de archivos de audio. Com
 
 ## Referencias
 
-* [Formato de archivo OGG] (https://en.wikipedia.org/wiki/Ogg)
+* [Formato de archivo OGG](https://en.wikipedia.org/wiki/Ogg)
 

@@ -20,7 +20,7 @@ Az ALAC fájlformátum egy Apple Lossless Audio Codec (ALAC), amely az MPEG-4 ko
 
 ## ALAC fájlformátum
 
-Az ALAC kodeken alapuló fájlok bináris fájlok, amelyek [nyílt forráskódként a GitHubon] (https://github.com/macosforge/alac) érhetők el fejlesztői hivatkozásként. Tartalmazza az ALAC kódoló és dekódoló forrásait. Az Apple egy parancssori segédprogramot is biztosított, az úgynevezett "alacconvert", amely a hangadatokat Core Audio Format (CAF) és [WAVE](/hu/audio/wav/) fájlba/azokból írhatja. Az alábbiakban néhány kulcsfontosságú pontot olvashat az ALAC fájlformátumról.
+Az ALAC kodeken alapuló fájlok bináris fájlok, amelyek [nyílt forráskódként a GitHubon](https://github.com/macosforge/alac) érhetők el fejlesztői hivatkozásként. Tartalmazza az ALAC kódoló és dekódoló forrásait. Az Apple egy parancssori segédprogramot is biztosított, az úgynevezett "alacconvert", amely a hangadatokat Core Audio Format (CAF) és [WAVE](/hu/audio/wav/) fájlba/azokból írhatja. Az alábbiakban néhány kulcsfontosságú pontot olvashat az ALAC fájlformátumról.
 
 1. "Bitmélység" - 16, 20, 24 és 32 bit.
 1. "Mintavételi frekvencia" – tetszőleges egész számú mintavételi frekvencia 1 és 384 000 Hz között. Akár 4 294 967 295 (2^32 - 1) Hz elméleti sebesség is támogatható.

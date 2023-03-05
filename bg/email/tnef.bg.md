@@ -52,7 +52,7 @@ Transport Neutral Encapsulation Format (TNEF) е собственост на Mic
 
 ## Препратки
 
-* [Transport Neutral Encapsulation Format] (https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
+* [Transport Neutral Encapsulation Format](https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
 * [Имейл адреси и адресни книги в Exchange Server](https://docs.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
 * [[MS-OXTNEF]: Алгоритъм за данни за транспортен неутрален формат за капсулиране (TNEF) (https://msdn.microsoft.com/en-us/library/cc425498(v#exchg.80).aspx)
 

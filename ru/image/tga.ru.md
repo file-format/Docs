@@ -103,5 +103,5 @@ TGA версии 2.0 обеспечивает поддержку дополни�
 ## использованная литература
 
 * [Спецификации формата файлов TGA 2.0](https://products.conholdate.app/viewer/view/rVqTeZPLAL/tga-file-format-specifications.pdf?default=view&preview = true.pdf)
-* [TGA из Википедии] (https://en.wikipedia.org/wiki/Truevision_TGA)
+* [TGA из Википедии](https://en.wikipedia.org/wiki/Truevision_TGA)
 

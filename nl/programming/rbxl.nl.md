@@ -18,7 +18,7 @@
 
 ## Wat is een RBXL-bestand?
 
-Een RBXL-bestand is een Roblox-locatiebestand dat een locatie bevat die is gedefinieerd in de 3D-wereld in de [Roblox-game] (https://www.roblox.com/). Roblox zelf is een multiplayer-bouwspel waarmee spelers games kunnen bouwen met behulp van de ontwikkelaarstools die door het platform worden geleverd. RBXL-bestanden gebruiken tools, scripts, teams en onderdelen om het speelveld te beschrijven als 3D-modellen. Met de Roblox Studio kan de speler de game-items maken en kan deze worden gebruikt om RBXL-bestanden te openen.
+Een RBXL-bestand is een Roblox-locatiebestand dat een locatie bevat die is gedefinieerd in de 3D-wereld in de [Roblox-game](https://www.roblox.com/). Roblox zelf is een multiplayer-bouwspel waarmee spelers games kunnen bouwen met behulp van de ontwikkelaarstools die door het platform worden geleverd. RBXL-bestanden gebruiken tools, scripts, teams en onderdelen om het speelveld te beschrijven als 3D-modellen. Met de Roblox Studio kan de speler de game-items maken en kan deze worden gebruikt om RBXL-bestanden te openen.
 
 ## RBXL-bestandsindeling
 

@@ -31,6 +31,6 @@ GNUMERIC फ़ाइलें XML फ़ाइल स्वरूप में 
 
 ## संदर्भ
 
-* [ग्नुमेरिक - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/Gnumeric)
-* [द गनोम प्रोजेक्ट] (https://en.wikipedia.org/wiki/The_GNOME_Project)
+* [ग्नुमेरिक - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Gnumeric)
+* [द गनोम प्रोजेक्ट](https://en.wikipedia.org/wiki/The_GNOME_Project)
 

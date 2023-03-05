@@ -27,6 +27,6 @@
 
 ## مراجع
 
-* [تنسيق ملف CSL] (http://product.corel.com/help/CorelDRAW/540227992/Main/EN/Documentation/CorelDRAW-Corel-Symbol-Library-CSL.html#4433968)
-* [إدارة المجموعات والمكتبات] (http://product.corel.com/help/CorelDRAW/540227992/Main/EN/Documentation/wwhelp/wwhimpl/common/html/wwhelp.htm#href=CorelDRAW-Managing-collections- and-libraries.html # 1036562 & single = true)
+* [تنسيق ملف CSL](http://product.corel.com/help/CorelDRAW/540227992/Main/EN/Documentation/CorelDRAW-Corel-Symbol-Library-CSL.html#4433968)
+* [إدارة المجموعات والمكتبات](http://product.corel.com/help/CorelDRAW/540227992/Main/EN/Documentation/wwhelp/wwhimpl/common/html/wwhelp.htm#href=CorelDRAW-Managing-collections- and-libraries.html # 1036562 & single = true)
 

@@ -27,7 +27,7 @@ Pliki AEX są zapisywane na dysku w formacie pliku binarnego i zawierają skompi
 
 ## Bibliografia
 
-* [Alpha Five] (https://www.alphasoftware.com/)
+* [Alpha Five](https://www.alphasoftware.com/)
 * [Dokumentacja Alpha Five](https://documentation.alphasoftware.com/documentation/pages/index.html)
 * [Podręcznik Xbasic](https://documentation.alphasoftware.com/pages/Guides/Xbasic/index.xml)
 

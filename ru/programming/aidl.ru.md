@@ -62,5 +62,5 @@ interface IRemoteService {
 ```
 ## использованная литература
 
-* [Язык определения интерфейса Android (AIDL)] (https://stuff.mit.edu/afs/sipb/project/android/docs/guide/components/aidl.html)
+* [Язык определения интерфейса Android (AIDL)](https://stuff.mit.edu/afs/sipb/project/android/docs/guide/components/aidl.html)
 

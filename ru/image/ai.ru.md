@@ -23,7 +23,7 @@
 
 ## Формат AI-файла
 
-AI — это собственный формат файла Adobe Illustrator, в котором используется подход с двойным путем, аналогичный PGF, для сохранения файлов, совместимых с EPS. [Спецификации формата файлов Adobe Illustrator] (https://web.archive.org/web/20150906044646/http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf) содержат подробные Справочник разработчика для внутренних деталей этого формата файла. Все документы (файлы), созданные Adobe Illustrator, являются документами на языке PostScript и состоят из двух основных частей, соответствующих соглашениям о структурировании документов: «пролог» и «сценарий».
+AI — это собственный формат файла Adobe Illustrator, в котором используется подход с двойным путем, аналогичный PGF, для сохранения файлов, совместимых с EPS. [Спецификации формата файлов Adobe Illustrator](https://web.archive.org/web/20150906044646/http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf) содержат подробные Справочник разработчика для внутренних деталей этого формата файла. Все документы (файлы), созданные Adobe Illustrator, являются документами на языке PostScript и состоят из двух основных частей, соответствующих соглашениям о структурировании документов: «пролог» и «сценарий».
 
 ### Пролог
 
@@ -48,6 +48,6 @@ AI — это собственный формат файла Adobe Illustrator, 
 * Данные
 
 ## использованная литература
-* [Спецификации формата файла Adobe Illustrator] (https://web.archive.org/web/20150906044646/http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf)
-* [Формат файла AI от PaintShopPro] (https://www.paintshoppro.com/en/pages/ai-file/)
+* [Спецификации формата файла Adobe Illustrator](https://web.archive.org/web/20150906044646/http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf)
+* [Формат файла AI от PaintShopPro](https://www.paintshoppro.com/en/pages/ai-file/)
 

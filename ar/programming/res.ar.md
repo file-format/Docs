@@ -56,7 +56,7 @@
 
 ## مراجع
 
-* [تنسيقات ملفات الموارد] (https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
+* [تنسيقات ملفات الموارد](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
 
 

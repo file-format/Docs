@@ -19,7 +19,7 @@
 
 ## ما هو ملف RHTML؟
 
-الملف بامتداد .rhtml هو ملف من جانب الخادم [HTML] (/ar/ web / html /) يحتوي على كود Ruby أو نصوص برمجية. يتم تنفيذ الكود على الخادم باستخدام Ruby on Rails الذي يعمل في الواجهة الخلفية. بالنسبة لأولئك الذين لا يعرفون عن Ruby on Rails ، فهو إطار عمل متكامل لتطوير تطبيقات الويب مع قواعد بيانات الخلفية بناءً على نمط Model-View-Control. ببساطة ، RHTML عبارة عن مزيج من HTML و Ruby حيث تتوفر قوة البرمجة النصية / البرمجة Ruby لمطوري الويب باستخدام علامات HTML.
+الملف بامتداد .rhtml هو ملف من جانب الخادم [HTML](/ar/ web / html /) يحتوي على كود Ruby أو نصوص برمجية. يتم تنفيذ الكود على الخادم باستخدام Ruby on Rails الذي يعمل في الواجهة الخلفية. بالنسبة لأولئك الذين لا يعرفون عن Ruby on Rails ، فهو إطار عمل متكامل لتطوير تطبيقات الويب مع قواعد بيانات الخلفية بناءً على نمط Model-View-Control. ببساطة ، RHTML عبارة عن مزيج من HTML و Ruby حيث تتوفر قوة البرمجة النصية / البرمجة Ruby لمطوري الويب باستخدام علامات HTML.
 
 ## تنسيق ملف RHTML
 
@@ -37,5 +37,5 @@
 ```
 ## مراجع
 
-* [TutorialsPoint - Ruby on Rails] (https://www.tutorialspoint.com/ruby-on-rails/rails-and-rhtml.htm)
+* [TutorialsPoint - Ruby on Rails](https://www.tutorialspoint.com/ruby-on-rails/rails-and-rhtml.htm)
 

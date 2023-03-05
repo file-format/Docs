@@ -30,5 +30,5 @@ Les fichiers GMAP sont similaires à une image de disque dur et sont basés sur 
 
 ## Références ##
 
-* [Format de fichier GARMIN IMG - Wikipédia] (https://en.wikipedia.org/wiki/Garmin_.img)
+* [Format de fichier GARMIN IMG - Wikipédia](https://en.wikipedia.org/wiki/Garmin_.img)
 

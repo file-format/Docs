@@ -56,6 +56,6 @@ Les étapes suivantes peuvent être utilisées pour créer un fichier AHK. Ceux-
 
 ## Références
 
-* [AutoHotkey] (https://www.autohotkey.com/)
+* [AutoHotkey](https://www.autohotkey.com/)
 * [Fichier batch - par Wikipewdia](https://en.wikipedia.org/wiki/Batch_file)
 

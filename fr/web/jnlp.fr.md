@@ -66,6 +66,6 @@ Avec l'obsolescence de JWS, les applications développées sur la base de la tec
 ## Références ##
 
 * [Qu'est-ce que Java Web Start et comment est-il lancé ?](https://www.java.com/en/download/help/java_webstart.html)
-* [Exécutez JNLP avec la dernière version de Java] (https://openwebstart.com/)
+* [Exécutez JNLP avec la dernière version de Java](https://openwebstart.com/)
 * [Java Web Start - Wikipédia](https://en.wikipedia.org/wiki/Java_Web_Start)
 

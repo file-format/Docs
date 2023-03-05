@@ -63,7 +63,7 @@ Los búferes y los recursos de imagen se referencian a través de URI. Los sigui
 
 **URI de datos:** Los URI de datos son definidos por RFC 2397 y glTF los utiliza para incorporar recursos en JSON.
 
-**Rutas URI relativas:** o path-noscheme como se define en RFC 3986, [Sección 4.2](https://tools.ietf.org/html/rfc3986#section-4.2), sin esquema, autoridad ni parámetros. Los caracteres reservados deben estar codificados en porcentaje, según RFC 3986, [Sección 2.2] (https://tools.ietf.org/html/rfc3986#section-2.2).
+**Rutas URI relativas:** o path-noscheme como se define en RFC 3986, [Sección 4.2](https://tools.ietf.org/html/rfc3986#section-4.2), sin esquema, autoridad ni parámetros. Los caracteres reservados deben estar codificados en porcentaje, según RFC 3986, [Sección 2.2](https://tools.ietf.org/html/rfc3986#section-2.2).
 
 ## Referencias ##
 

@@ -24,7 +24,7 @@ Amikor létrehoz egy jegyzetfüzetet a OneNote 2016-ban, a rendszer automatikusa
 
 ## ONETOC2 fájlformátum ##
 
-Az .onetoc2 fájlformátum OneNote Revision Store fájlformátumként jelenik meg, és olyan struktúrák gyűjteménye, amelyek kereszthivatkozásokkal ellátott objektumterekbe rendezett változattárolót adnak meg, amelyek tulajdonságkészletekkel rendelkező objektumokat tartalmaznak, és tranzakciós naplót tartalmaznak az aszinkron fájlintegritás biztosítására. írja. Az .onetoc2 fájlformátum teljes specifikációja [online] (https://msdn.microsoft.com/en-us/library/dd951288(v#office.12).aspx) érhető el, és az alkalmazások fejlesztésekor hivatkozni lehet rájuk. .
+Az .onetoc2 fájlformátum OneNote Revision Store fájlformátumként jelenik meg, és olyan struktúrák gyűjteménye, amelyek kereszthivatkozásokkal ellátott objektumterekbe rendezett változattárolót adnak meg, amelyek tulajdonságkészletekkel rendelkező objektumokat tartalmaznak, és tranzakciós naplót tartalmaznak az aszinkron fájlintegritás biztosítására. írja. Az .onetoc2 fájlformátum teljes specifikációja [online](https://msdn.microsoft.com/en-us/library/dd951288(v#office.12).aspx) érhető el, és az alkalmazások fejlesztésekor hivatkozni lehet rájuk. .
 
 ### Fájlszerkezet ###
 

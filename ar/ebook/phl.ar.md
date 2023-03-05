@@ -19,7 +19,7 @@
 
 ## ما هو ملف PHL؟
 
-تُعرف ملفات PHL فعليًا باسم ** Amazon Kindle Popular Highlights File ** ؛ تُستخدم لتخزين ** Popular Highlights ** لكتاب إلكتروني مرتبط بجهاز القراءة الإلكترونية Amazon Kindle. تُعد ميزة Popular Highlights إحدى الميزات الذكية التي يوفرها Amazon Kindle ، والتي يمكن ملاحظتها أثناء قراءة كتاب Amazon Kindle الإلكتروني على جهاز Kindle eReading. يتم تمييزها عادةً بتسطير رمادي متقطع. يحتوي ملف PHL على المعلومات ذات الصلة بـ Popular Highlights ؛ مخزنة في نموذج [XML] (/ar/ web / xml /). يمكن أن تكون المعلومات هي مواضع البداية والنهاية للتعليق التوضيحي بالإضافة إلى عدد المستخدمين الذين أبرزوا المقطع.
+تُعرف ملفات PHL فعليًا باسم ** Amazon Kindle Popular Highlights File ** ؛ تُستخدم لتخزين ** Popular Highlights ** لكتاب إلكتروني مرتبط بجهاز القراءة الإلكترونية Amazon Kindle. تُعد ميزة Popular Highlights إحدى الميزات الذكية التي يوفرها Amazon Kindle ، والتي يمكن ملاحظتها أثناء قراءة كتاب Amazon Kindle الإلكتروني على جهاز Kindle eReading. يتم تمييزها عادةً بتسطير رمادي متقطع. يحتوي ملف PHL على المعلومات ذات الصلة بـ Popular Highlights ؛ مخزنة في نموذج [XML](/ar/ web / xml /). يمكن أن تكون المعلومات هي مواضع البداية والنهاية للتعليق التوضيحي بالإضافة إلى عدد المستخدمين الذين أبرزوا المقطع.
 
 ## تفاصيل يسلط الضوء على Kindle الشعبية
 
@@ -27,8 +27,8 @@
 
 ## مراجع
 
-* [عرض الإضاءات الشائعة على Kindles] (https://en.wikipedia.org/wiki/Orb_Books)
-* [أهم المحتويات الشائعة تكشف عن المحتوى الذي ينقر] (https://www.searchenginepeople.com/blog/kindle-highlights.html)
-* [كيفية إيقاف الإضاءات الشائعة على جهاز Kindle الخاص بك] (https://www.howtogeek.com/355701/how-to-turn-off-popular-highlights-on-your-kindle)
+* [عرض الإضاءات الشائعة على Kindles](https://en.wikipedia.org/wiki/Orb_Books)
+* [أهم المحتويات الشائعة تكشف عن المحتوى الذي ينقر](https://www.searchenginepeople.com/blog/kindle-highlights.html)
+* [كيفية إيقاف الإضاءات الشائعة على جهاز Kindle الخاص بك](https://www.howtogeek.com/355701/how-to-turn-off-popular-highlights-on-your-kindle)
 
 

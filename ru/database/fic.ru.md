@@ -29,6 +29,6 @@
 В WinDev файл FIC, созданный для базы данных HyperFileSQL Mobile, содержит исполняемый код для базы данных, а также данные, содержащиеся в базе данных. HyperFileSQL Mobile — это система управления реляционными базами данных, входящая в состав WINDEV и разработанная специально для мобильных и автономных приложений. Файл FIC можно распространять как отдельный исполняемый файл или как часть установочного пакета, и его можно запускать на целевом устройстве для доступа и управления данными в базе данных HyperFileSQL Mobile. Когда файл FIC будет запущен, он откроет базу данных и сделает данные доступными для использования в мобильном приложении.
 
 ## использованная литература
-* [Документы о WinDev] (https://windev.com/pcsoft/documentations.html)
-* [База данных клиента/сервера HFSQL] (https://help.windev.com/?1000017310&name=hfsql_clientserver_database_recommendations_about_security)
+* [Документы о WinDev](https://windev.com/pcsoft/documentations.html)
+* [База данных клиента/сервера HFSQL](https://help.windev.com/?1000017310&name=hfsql_clientserver_database_recommendations_about_security)
 

@@ -32,5 +32,5 @@
 
 ## использованная литература
 
-* [OpenDocument — Википедия] (https://en.wikipedia.org/wiki/OpenDocument)
+* [OpenDocument — Википедия](https://en.wikipedia.org/wiki/OpenDocument)
 

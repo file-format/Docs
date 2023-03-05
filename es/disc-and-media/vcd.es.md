@@ -30,6 +30,6 @@ Un formato de archivo VCD se clasifica como un formato de archivo de imagen de d
 
 ## Referencias
 
-* [CD virtual: virtualice todos sus medios ópticos] (https://www.virtualcd-online.com/)
+* [CD virtual: virtualice todos sus medios ópticos](https://www.virtualcd-online.com/)
 
 

@@ -63,5 +63,5 @@ call    _ExitProcess@4
 ## Ссылка ##
 
 * [Язык ассемблера - по Википедии](https://en.wikipedia.org/wiki/Assembly_language)
-* [Язык ассемблера — базовый синтаксис] (https://www.tutorialspoint.com/assembly_programming/assembly_basic_syntax.htm)
+* [Язык ассемблера — базовый синтаксис](https://www.tutorialspoint.com/assembly_programming/assembly_basic_syntax.htm)
 

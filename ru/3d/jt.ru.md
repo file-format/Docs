@@ -72,6 +72,6 @@ Engineering Animation, Inc. и Hewlett Packard были первоначальн
 
 ## Использованная литература ##
 
-* [Справочник по формату файла JT] (https://www.plm.automation.siemens.com/en_us/Images/JT-v10-file-format-reference-rev-B_tcm1023-233786.pdf)
+* [Справочник по формату файла JT](https://www.plm.automation.siemens.com/en_us/Images/JT-v10-file-format-reference-rev-B_tcm1023-233786.pdf)
 * [JT (формат визуализации)](https://en.wikipedia.org/wiki/JT_(формат_визуализации)#Модель_данных)
 

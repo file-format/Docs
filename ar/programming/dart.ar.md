@@ -125,6 +125,6 @@ void main() {
 
 ## مراجع ##
 
-- [Dart (لغة برمجة) - ويكيبيديا] (https://en.wikipedia.org/wiki/Dart_ (architecture_language))
-- [دارت] (https://dart.dev/)
+- [Dart (لغة برمجة) - ويكيبيديا](https://en.wikipedia.org/wiki/Dart_ (architecture_language))
+- [دارت](https://dart.dev/)
 

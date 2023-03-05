@@ -40,5 +40,5 @@
 
 ## Использованная литература ##
 
-* [Профилировщик SQL Server] (https://docs.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler?view=sql-server-ver15)
+* [Профилировщик SQL Server](https://docs.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler?view=sql-server-ver15)
 

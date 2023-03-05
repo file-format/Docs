@@ -18,7 +18,7 @@
 
 ## Co je soubor YPR?
 
-Soubor YPR je soubor projektu vytvořený vizuálním programovacím prostředím BYOB (Build Your Own Blocks). Obsahuje informace o vizuálním uspořádání bloků a programování pracovních toků mezi těmito bloky. Společně tyto bloky definují celková data a logiku aplikačního programu. Soubor projektu YPR obsahuje všechny další související informace pro ukládání a načítání projektů. BYOB byl původně rozšířením softwaru MIT Scratch (projekt Lifelong Kindergarten Group v MIT Media Lab) a nyní je vyvíjen jako [Snap] (https://snap.berkeley.edu/about).
+Soubor YPR je soubor projektu vytvořený vizuálním programovacím prostředím BYOB (Build Your Own Blocks). Obsahuje informace o vizuálním uspořádání bloků a programování pracovních toků mezi těmito bloky. Společně tyto bloky definují celková data a logiku aplikačního programu. Soubor projektu YPR obsahuje všechny další související informace pro ukládání a načítání projektů. BYOB byl původně rozšířením softwaru MIT Scratch (projekt Lifelong Kindergarten Group v MIT Media Lab) a nyní je vyvíjen jako [Snap](https://snap.berkeley.edu/about).
 
 ## Formát souboru YPR – Další informace
 

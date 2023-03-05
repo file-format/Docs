@@ -82,6 +82,6 @@ SEE ALSO
 
 ## использованная литература
 
-* [Технические спецификации OpenDocument — Википедия] (https://en.wikipedia.org/wiki/OpenDocument_technical_specification)
+* [Технические спецификации OpenDocument — Википедия](https://en.wikipedia.org/wiki/OpenDocument_technical_specification)
 * [man(1) — справочная страница Linux](https://man7.org/linux/man-pages/man1/man.1.html)
 

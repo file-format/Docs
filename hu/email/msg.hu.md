@@ -58,7 +58,7 @@ Az üzenetobjektum megosztható az .msg fájlrendszert használó ügyfelek vagy
 
 ## MSG fájl példa
 
-Ha képet szeretne kapni arról, hogyan néz ki egy MSG-fájl, töltsön le egy [minta MSG-fájlt] (https://products.conholdate.app/viewer/view/mL7cmq6qYbcNG329P/sample-msg-file.msg), és nyissa meg számítógépen a tartalmának megtekintéséhez.
+Ha képet szeretne kapni arról, hogyan néz ki egy MSG-fájl, töltsön le egy [minta MSG-fájlt](https://products.conholdate.app/viewer/view/mL7cmq6qYbcNG329P/sample-msg-file.msg), és nyissa meg számítógépen a tartalmának megtekintéséhez.
 
 ## Hivatkozások
 

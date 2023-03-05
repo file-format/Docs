@@ -32,6 +32,6 @@
 
 ## использованная литература
 
-* [RPM — Википедия] (https://rpm.org)
-* [Документация RPM] (https://rpm.org/documentation.html)
+* [RPM — Википедия](https://rpm.org)
+* [Документация RPM](https://rpm.org/documentation.html)
 

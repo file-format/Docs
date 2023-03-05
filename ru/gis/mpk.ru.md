@@ -60,5 +60,5 @@ for mxd in arcpy.ListFiles("*.mxd"):
 
 ## использованная литература
 
-* [Карта пакета] (https://desktop.arcgis.com/en/arcmap/10.3/tools/data-management-toolbox/package-map.htm)
+* [Карта пакета](https://desktop.arcgis.com/en/arcmap/10.3/tools/data-management-toolbox/package-map.htm)
 

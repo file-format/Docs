@@ -95,5 +95,5 @@ SVG डॉक्यूमेंट ऑब्जेक्ट मॉडल (DOM) �
 ## संदर्भ ##
 
 * [W3C SVG विशिष्टताएं](https://www.w3.org/TR/SVG2/Overview.html)
-* [एसवीजी - विकिपीडिया] (https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
+* [एसवीजी - विकिपीडिया](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 

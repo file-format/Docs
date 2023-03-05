@@ -32,6 +32,6 @@
 
 ## использованная литература
 
-* [Shapefile - из Википедии)] (https://en.wikipedia.org/wiki/Shapefile)
+* [Shapefile - из Википедии)](https://en.wikipedia.org/wiki/Shapefile)
 
 

@@ -27,5 +27,5 @@ Das eBook-Format von Martview ist proprietär und dient als Container für Bilde
 
 ## Verweise
 
-* [Martview, Bester E-Book-Reader für PDF-E-Books] (https://www.ghacks.net/2011/04/15/martview-best-ebook-reader-for-pdf-e-books/)
+* [Martview, Bester E-Book-Reader für PDF-E-Books](https://www.ghacks.net/2011/04/15/martview-best-ebook-reader-for-pdf-e-books/)
 

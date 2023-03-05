@@ -80,5 +80,5 @@ Im obigen Beispiel
 
 ## Verweise
 
-* [Portal-Challenge-Skript] (https://developer.valvesoftware.com/wiki/Portal_Challenge_Script)
+* [Portal-Challenge-Skript](https://developer.valvesoftware.com/wiki/Portal_Challenge_Script)
 

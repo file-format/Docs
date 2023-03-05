@@ -51,5 +51,5 @@
 
 ## مراجع
 
-* [ملف .cda - بواسطة ويكيبيديا] (https://en.wikipedia.org/wiki/.cda_file)
+* [ملف .cda - بواسطة ويكيبيديا](https://en.wikipedia.org/wiki/.cda_file)
 

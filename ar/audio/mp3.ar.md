@@ -49,9 +49,9 @@
 
 يتكون ملف MP3 من إطارات MP3 حيث يتكون كل إطار من رأس وكتلة بيانات. الإطارات ليست مستقلة ولا يمكن عادةً استخراجها عند حدود إطار عشوائية. تحتوي كتل بيانات الملف على معلومات حول الصوت من حيث الترددات والسعات. تحدد كلمة المزامنة في الرأس بداية إطار صالح. ويتبع ذلك 3 بتات حيث توضح البتة الأولى أنها معيار MPEG وتوضح البتتان المتبقيتان أن الطبقة 3 تستخدم ؛ ومن ثم MPEG-1 Audio Layer 3 أو MP3. بعد ذلك ، ستختلف القيم حسب ملف MP3.
 
-[ISO] (https://en.wikipedia.org/wiki/International_Organization_for_Standardization) / [IEC] (https://en.wikipedia.org/wiki/International_Electrotechnical_Commission) يحدد 11172-3 نطاق القيم لكل قسم من header مع مواصفات الرأس. تحتوي معظم ملفات MP3 اليوم على [ID3] (https://en.wikipedia.org/wiki/ID3) [البيانات الوصفية] (https://en.wikipedia.org/wiki/Metadata) ، التي تسبق إطارات MP3 أو تتبعها ، كما هو موضح في الرسم التخطيطي. يمكن أن يحتوي دفق البيانات على مجموع اختباري اختياري.
+[ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization) / [IEC](https://en.wikipedia.org/wiki/International_Electrotechnical_Commission) يحدد 11172-3 نطاق القيم لكل قسم من header مع مواصفات الرأس. تحتوي معظم ملفات MP3 اليوم على [ID3](https://en.wikipedia.org/wiki/ID3) [البيانات الوصفية](https://en.wikipedia.org/wiki/Metadata) ، التي تسبق إطارات MP3 أو تتبعها ، كما هو موضح في الرسم التخطيطي. يمكن أن يحتوي دفق البيانات على مجموع اختباري اختياري.
 
 ## مراجع ##
 
-* [MP3 - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/MP3)
+* [MP3 - بواسطة Wikipedia](https://en.wikipedia.org/wiki/MP3)
 

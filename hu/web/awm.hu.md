@@ -26,7 +26,7 @@ Az AWM-fájlok a **Likno AllWebMenus** segítségével nyithatók meg.
 
 Az AWM fájlok lefordított bináris fájlokként kerülnek mentésre, és csak a Likno AllWebMenus szoftverrel nyithatók meg. Az AWM-fájlok belső fájlformátumának részletei nem érhetők el nyilvánosan.
 
-Az AllWebMenus lehetővé teszi [CSS](/hu/web/css/) vagy [JavaScript] (/hu/web/js/) alapú menük vizuális tervezését, programozási nyelv használata nélkül. A menük teljesen testreszabhatók, valamint a szoftverrel elérhető előre meghatározott megjelenési sablonok segítségével megtervezhetők.
+Az AllWebMenus lehetővé teszi [CSS](/hu/web/css/) vagy [JavaScript](/hu/web/js/) alapú menük vizuális tervezését, programozási nyelv használata nélkül. A menük teljesen testreszabhatók, valamint a szoftverrel elérhető előre meghatározott megjelenési sablonok segítségével megtervezhetők.
 
 ## Hivatkozások
 

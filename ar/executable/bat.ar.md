@@ -92,6 +92,6 @@ DEL . DR
 
 ## مراجع
 
-* [Batch Script - Quick Guide] (https://www.tutorialspoint.com/batch_script/batch_script_quick_guide.htm)
-* [ملف دفعي - بواسطة Wikipewdia] (https://en.wikipedia.org/wiki/Batch_file)
+* [Batch Script - Quick Guide](https://www.tutorialspoint.com/batch_script/batch_script_quick_guide.htm)
+* [ملف دفعي - بواسطة Wikipewdia](https://en.wikipedia.org/wiki/Batch_file)
 

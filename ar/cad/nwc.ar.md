@@ -27,5 +27,5 @@ NWC هو تنسيق ملف خاص بـ Autodesk وهذا هو سبب عدم تو
 
 ## مراجع ##
 
-* [Navisworks by wikipedia] (https://en.wikipedia.org/wiki/Navisworks)
+* [Navisworks by wikipedia](https://en.wikipedia.org/wiki/Navisworks)
 

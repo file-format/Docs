@@ -19,7 +19,7 @@
 
 ## ما هو ملف DGN؟
 
-الملف ذو الامتداد .dgn (التصميم) هو ملف رسم تم إنشاؤه بواسطة تطبيقات CAD ودعمها مثل MicroStation و Intergraph Interactive Graphics Design System. يتم استخدامه لإنشاء وحفظ التصاميم لمشاريع البناء مثل الطرق السريعة والجسور والمباني. يشبه التنسيق تنسيق ملف Autodesk [DWG] (/ar/ cad / dwg /) ويعتبر منافسًا له. يمكن حفظ ملفات DNG بتنسيق ملف Intergraph القياسي أو V8 DGN. يمكن تحويل DGN إلى عدة تنسيقات أخرى مثل DWG ، [BMP] (/ar/ image / bmp /) ، [JPEG] (/ar/ image / jpeg /) ، [PDF] (/ar/ pdf /) ، [GIF] (/ar/ image / gif /) وغيرها. يمكن فتحه باستخدام Autodesk AutoCAD و Bentley View و Bentley Systems MicroStation بالإضافة إلى تطبيقات برمجية أخرى مثل إصدارات Corel PaintShop Photo Pro و IMSI TurboCAD Deluxe.
+الملف ذو الامتداد .dgn (التصميم) هو ملف رسم تم إنشاؤه بواسطة تطبيقات CAD ودعمها مثل MicroStation و Intergraph Interactive Graphics Design System. يتم استخدامه لإنشاء وحفظ التصاميم لمشاريع البناء مثل الطرق السريعة والجسور والمباني. يشبه التنسيق تنسيق ملف Autodesk [DWG](/ar/ cad / dwg /) ويعتبر منافسًا له. يمكن حفظ ملفات DNG بتنسيق ملف Intergraph القياسي أو V8 DGN. يمكن تحويل DGN إلى عدة تنسيقات أخرى مثل DWG ، [BMP](/ar/ image / bmp /) ، [JPEG](/ar/ image / jpeg /) ، [PDF](/ar/ pdf /) ، [GIF](/ar/ image / gif /) وغيرها. يمكن فتحه باستخدام Autodesk AutoCAD و Bentley View و Bentley Systems MicroStation بالإضافة إلى تطبيقات برمجية أخرى مثل إصدارات Corel PaintShop Photo Pro و IMSI TurboCAD Deluxe.
 
 ## تنسيق ملف V8 DGN
 
@@ -43,7 +43,7 @@
 
 ## مراجع
 
-* [DNG - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/DGN)
-* [OpenDNG] (http://www.bentley.com/opendgn)
-* [تنسيق ملف MicroStation V8 DGN] (https://web.archive.org/web/20120713013730/http://docs.bentley.com/ko/MicroStation/ustnhelp47.html)
+* [DNG - بواسطة Wikipedia](https://en.wikipedia.org/wiki/DGN)
+* [OpenDNG](http://www.bentley.com/opendgn)
+* [تنسيق ملف MicroStation V8 DGN](https://web.archive.org/web/20120713013730/http://docs.bentley.com/ko/MicroStation/ustnhelp47.html)
 

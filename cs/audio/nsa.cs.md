@@ -15,7 +15,7 @@ lastmod: 2022-03-09
 
 ## Co je soubor NSA?
 
-Soubor NSA (NullSoft Streaming Audio) je formát streamovaného zvuku vyvinutý společností NullSoft pro streamování zvuku přes internet. NullSoft také vyvinul [Winamp media player] (https://www.winamp.com/) pro streamování a přehrávání audio a video souborů. Formát souboru NSA využívá algoritmy komprese zvuku zavedené a vyvinuté společností NullSoft. NullSoft také vyvinul souborový formát [NSV](/cs/video/nsv/) pro streamování videa přes internet.
+Soubor NSA (NullSoft Streaming Audio) je formát streamovaného zvuku vyvinutý společností NullSoft pro streamování zvuku přes internet. NullSoft také vyvinul [Winamp media player](https://www.winamp.com/) pro streamování a přehrávání audio a video souborů. Formát souboru NSA využívá algoritmy komprese zvuku zavedené a vyvinuté společností NullSoft. NullSoft také vyvinul souborový formát [NSV](/cs/video/nsv/) pro streamování videa přes internet.
 
 ## Formát souboru NSA
 

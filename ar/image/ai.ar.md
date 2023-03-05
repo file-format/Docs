@@ -19,11 +19,11 @@
 
 ## ما هو ملف AI؟
 
-الملف بامتداد .ai هو ملف Adobe Illustrator Artwork يحتوي على رسومات متجهة في صفحة واحدة. يستخدم النقاط لإنشاء مسارات لعرض بيانات الصورة ، مما يجعلها آمنة من فقدان جودة الصورة إذا تم تكبيرها. تنسيق ملف AI هو أساس تنسيق ملف PGF الذي يشبه ملفات AI. يجد تنسيق AI استخدامه الرئيسي للشعارات والوسائط المطبوعة ، وقد تم اعتبار إصداراته الأولية مماثلة لتلك الخاصة بملفات [EPS] (/ar/ image / eps /). يمكن فتح ملفات AI باستخدام أدوات Adobe Illustrator و Adobe Acrobat DC و PaintShop Pro و CorelDraw Graphics.
+الملف بامتداد .ai هو ملف Adobe Illustrator Artwork يحتوي على رسومات متجهة في صفحة واحدة. يستخدم النقاط لإنشاء مسارات لعرض بيانات الصورة ، مما يجعلها آمنة من فقدان جودة الصورة إذا تم تكبيرها. تنسيق ملف AI هو أساس تنسيق ملف PGF الذي يشبه ملفات AI. يجد تنسيق AI استخدامه الرئيسي للشعارات والوسائط المطبوعة ، وقد تم اعتبار إصداراته الأولية مماثلة لتلك الخاصة بملفات [EPS](/ar/ image / eps /). يمكن فتح ملفات AI باستخدام أدوات Adobe Illustrator و Adobe Acrobat DC و PaintShop Pro و CorelDraw Graphics.
 
 ## تنسيق ملف AI
 
-AI هو تنسيق ملف خاص بـ Adobe Illustrator ويستخدم نهج المسار المزدوج المماثل لـ PGF لحفظ الملفات المتوافقة مع EPS. توفر [مواصفات تنسيق ملف Adobe Illustrator] (https://web.archive.org/web/20150906044646/http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf) عرضًا تفصيليًا مرجع المطور للحصول على التفاصيل الداخلية لتنسيق الملف هذا. جميع المستندات (الملفات) التي تم إنشاؤها بواسطة Adobe Illustrator هي مستندات بلغة PostScript وتتكون من جزأين رئيسيين يتوافقان مع اصطلاحات هيكل المستند: "prolog" و "script".
+AI هو تنسيق ملف خاص بـ Adobe Illustrator ويستخدم نهج المسار المزدوج المماثل لـ PGF لحفظ الملفات المتوافقة مع EPS. توفر [مواصفات تنسيق ملف Adobe Illustrator](https://web.archive.org/web/20150906044646/http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf) عرضًا تفصيليًا مرجع المطور للحصول على التفاصيل الداخلية لتنسيق الملف هذا. جميع المستندات (الملفات) التي تم إنشاؤها بواسطة Adobe Illustrator هي مستندات بلغة PostScript وتتكون من جزأين رئيسيين يتوافقان مع اصطلاحات هيكل المستند: "prolog" و "script".
 
 ### برولوج
 
@@ -48,6 +48,6 @@ AI هو تنسيق ملف خاص بـ Adobe Illustrator ويستخدم نهج ا
 * بيانات
 
 ## مراجع
-* [مواصفات تنسيق ملف Adobe Illustrator] (https://web.archive.org/web/20150906044646/http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf)
-* [تنسيق ملف AI بواسطة PaintShopPro] (https://www.paintshoppro.com/en/pages/ai-file/)
+* [مواصفات تنسيق ملف Adobe Illustrator](https://web.archive.org/web/20150906044646/http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf)
+* [تنسيق ملف AI بواسطة PaintShopPro](https://www.paintshoppro.com/en/pages/ai-file/)
 

@@ -56,6 +56,6 @@
 ## संदर्भ
 
 * [ऑप्टिकल डिस्क इमेज - विकिपीडिया](https://en.wikipedia.org/wiki/Optical_disc_image)
-* [फाइल सिग्नेचर] (https://www.garykessler.net/library/file_sigs.html)
+* [फाइल सिग्नेचर](https://www.garykessler.net/library/file_sigs.html)
 * [आईएसओ 9660 - विकिपीडिया](https://en.wikipedia.org/wiki/ISO_9660)
 

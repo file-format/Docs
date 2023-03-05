@@ -44,5 +44,5 @@
 
 ## مراجع ##
 
-* [StarOffice - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/StarOffice)
+* [StarOffice - بواسطة Wikipedia](https://en.wikipedia.org/wiki/StarOffice)
 

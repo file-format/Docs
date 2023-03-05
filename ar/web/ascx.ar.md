@@ -49,6 +49,6 @@
 ```
 ## مراجع
 
-* [ASCX مقابل ASMX] (https://forums.asp.net/t/1838934.aspx؟How+to+work+with+ascx+files+)
-* [ASCX User Control] (http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
+* [ASCX مقابل ASMX](https://forums.asp.net/t/1838934.aspx؟How+to+work+with+ascx+files+)
+* [ASCX User Control](http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

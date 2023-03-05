@@ -36,7 +36,7 @@ Začátek souborů rastrových i vektorových písem je společný, následovan�
 * dfColorPointer
 * dfReserved1
 
-Podrobné informace o hlavičkách pro Windows 3.0 a 2.0 naleznete v [archivu Microsoft KnowledgeBase] (https://jeffpar.github.io/kbarchive/kb/065/Q65123/).
+Podrobné informace o hlavičkách pro Windows 3.0 a 2.0 naleznete v [archivu Microsoft KnowledgeBase](https://jeffpar.github.io/kbarchive/kb/065/Q65123/).
 
 ## Reference
 * [Formát souboru písma](https://jeffpar.github.io/kbarchive/kb/065/Q65123/)

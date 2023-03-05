@@ -26,5 +26,5 @@
 
 ## مراجع
 
-* [الهيكل العام لمستند HTML] (https://www.w3.org/TR/html401/struct/global.html#h-7.5.4)
+* [الهيكل العام لمستند HTML](https://www.w3.org/TR/html401/struct/global.html#h-7.5.4)
 

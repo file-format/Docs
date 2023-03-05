@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo XLSX?
 
-**XLSX** es un formato muy conocido para documentos de Microsoft Excel que introdujo Microsoft con el lanzamiento de Microsoft Office 2007. Basado en una estructura organizada de acuerdo con las convenciones de empaquetado abierto, como se describe en la [Parte 2] (https://www .ecma-international.org/publications/standards/Ecma-376.htm) del estándar OOXML ECMA-376, el nuevo formato es un paquete zip que contiene varios archivos XML. La estructura subyacente y los archivos se pueden examinar simplemente descomprimiendo el archivo .xlsx.
+**XLSX** es un formato muy conocido para documentos de Microsoft Excel que introdujo Microsoft con el lanzamiento de Microsoft Office 2007. Basado en una estructura organizada de acuerdo con las convenciones de empaquetado abierto, como se describe en la [Parte 2](https://www .ecma-international.org/publications/standards/Ecma-376.htm) del estándar OOXML ECMA-376, el nuevo formato es un paquete zip que contiene varios archivos XML. La estructura subyacente y los archivos se pueden examinar simplemente descomprimiendo el archivo .xlsx.
 
 ## Breve historia del formato de archivo XLSX
 
@@ -27,7 +27,7 @@ El formato de archivo XLSX se introdujo en 2007 y utiliza el estándar Open XML 
 
 ## Especificaciones del formato de archivo XLSX
 
-Las [especificaciones oficiales del formato de archivo XLSX] (https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) están disponibles en línea en Microsoft. Para ver lo que hay dentro del archivo XLSX, simplemente cámbiele el nombre a archivo [ZIP](/es/compression/zip/) cambiando su extensión y luego extráigalo para ver los archivos constituyentes de este libro de Excel. Un libro de trabajo en blanco, cuando se extrae a sus archivos, tiene los siguientes archivos y carpetas constituyentes.
+Las [especificaciones oficiales del formato de archivo XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) están disponibles en línea en Microsoft. Para ver lo que hay dentro del archivo XLSX, simplemente cámbiele el nombre a archivo [ZIP](/es/compression/zip/) cambiando su extensión y luego extráigalo para ver los archivos constituyentes de este libro de Excel. Un libro de trabajo en blanco, cuando se extrae a sus archivos, tiene los siguientes archivos y carpetas constituyentes.
 
 ### [Tipos_de_contenido].xml ###
 
@@ -73,7 +73,7 @@ Como se puede ver, esta hoja de trabajo contiene contenido en las celdas A1 a B2
 
 ## Contribuir
 
-¿Tiene que compartir algo sobre los formatos de archivo XLSX o de hoja de cálculo? Puede publicar sus hallazgos en la sección [Noticias de formato de archivo de hoja de cálculo] (https://news.fileformat.com/t/Spreadsheet).
+¿Tiene que compartir algo sobre los formatos de archivo XLSX o de hoja de cálculo? Puede publicar sus hallazgos en la sección [Noticias de formato de archivo de hoja de cálculo](https://news.fileformat.com/t/Spreadsheet).
 
 ## Referencias
 

@@ -54,7 +54,7 @@
 
 * [Создайте справку на основе XML с помощью PlatyPS
 ](https://docs.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
-* [Язык разметки Microsoft Assistance] (https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
+* [Язык разметки Microsoft Assistance](https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
 
 # AML — Языковой файл макросов Arc
 
@@ -68,6 +68,6 @@ AML, будучи файлами сценариев, сохраняет инфо
 
 ## использованная литература
 
-* [Макроязык ARC] (https://en.wikipedia.org/wiki/ARC_Macro_Language)
+* [Макроязык ARC](https://en.wikipedia.org/wiki/ARC_Macro_Language)
 * [Использование AML с инструментами-скриптами](https://desktop.arcgis.com/en/arcmap/latest/analyze/creating-tools/using-amls-with-script-tools.htm)
 

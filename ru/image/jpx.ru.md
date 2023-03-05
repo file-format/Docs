@@ -46,5 +46,5 @@
 
 ## Использованная литература ##
 
-* [Обзор JPEG 2000] (https://jpeg.org/jpeg2000)
+* [Обзор JPEG 2000](https://jpeg.org/jpeg2000)
 

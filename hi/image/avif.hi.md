@@ -30,5 +30,5 @@ JPEG की तुलना में AVIF का एक बड़ा लाभ 
 
 ## संदर्भ ##
 
-* [एवीआईएफ - विकिपीडिया] (https://en.wikipedia.org/wiki/AV1#AV1_Image_File_Format_(AVIF))
+* [एवीआईएफ - विकिपीडिया](https://en.wikipedia.org/wiki/AV1#AV1_Image_File_Format_(AVIF))
 

@@ -30,5 +30,5 @@ EGG-Dateien können mit dem von Python verfügbaren Paket **distutils** erstellt
 
 ## Bezug ##
 
-* [Python-Eier] (https://python101.pythonlibrary.org/chapter38_eggs.html)
+* [Python-Eier](https://python101.pythonlibrary.org/chapter38_eggs.html)
 

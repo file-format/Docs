@@ -16,7 +16,7 @@ lastmod: 2021-06-01
 
 ## ما هو ملف XLAM؟ ##
 
-XLAM هو ملف إضافي ممكن بماكرو يستخدم لإضافة وظائف جديدة إلى جداول البيانات. الوظيفة الإضافية هي برنامج تكميلي يقوم بتشغيل تعليمات برمجية إضافية ويوفر وظائف إضافية لجداول البيانات. يتم تخزين ملفات XLAM بامتداد .xlam. ملفات XLAM هي ملفات تستند إلى XML تشبه تنسيقات الملفات [XLSM] (/ar/ spreadsheet / xlsm /) و [XLSX] (/ar/ spreadsheet / xlsx /) ويتم حفظها بضغط ZIP لتقليل الحجم الكلي للملف.
+XLAM هو ملف إضافي ممكن بماكرو يستخدم لإضافة وظائف جديدة إلى جداول البيانات. الوظيفة الإضافية هي برنامج تكميلي يقوم بتشغيل تعليمات برمجية إضافية ويوفر وظائف إضافية لجداول البيانات. يتم تخزين ملفات XLAM بامتداد .xlam. ملفات XLAM هي ملفات تستند إلى XML تشبه تنسيقات الملفات [XLSM](/ar/ spreadsheet / xlsm /) و [XLSX](/ar/ spreadsheet / xlsx /) ويتم حفظها بضغط ZIP لتقليل الحجم الكلي للملف.
 
 ### مثال ###
 
@@ -30,5 +30,5 @@ End Function
 
 ## مراجع ##
 
-- [مرجع تنسيق الملف -] (https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
+- [مرجع تنسيق الملف -](https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
 

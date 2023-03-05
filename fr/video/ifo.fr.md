@@ -31,5 +31,5 @@ Les fichiers IFO peuvent être endommagés si le DVD est rayé. C'est pourquoi u
 ## Références
 
 * [VobSub](https://www.videohelp.com/software/VobSub)
-* [Inside Video DVD-Video Files] (https://en.wikibooks.org/wiki/Inside_DVD-Video/IFO_Files)
+* [Inside Video DVD-Video Files](https://en.wikibooks.org/wiki/Inside_DVD-Video/IFO_Files)
 

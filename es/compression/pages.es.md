@@ -46,6 +46,6 @@ Los documentos de Apple PAGES se pueden convertir a varios formatos de archivo. 
 
 ## Referencias
 
-* [Convertir documentos de páginas] (https://support.apple.com/en-us/HT202227)
+* [Convertir documentos de páginas](https://support.apple.com/en-us/HT202227)
 * [Páginas de Apple - Wikipedia](https://en.wikipedia.org/wiki/Pages_(word_processor))
 

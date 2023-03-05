@@ -25,7 +25,7 @@ Un fichier avec une extension .dwt est un fichier de modèle de page Web créé 
 
 Les fichiers DWT sont développés et enregistrés sous forme de fichiers texte brut. Ceux-ci peuvent être ouverts dans Dreamweaver ou n'importe quel éditeur de texte, et peuvent être modifiés pour les modifications requises. Le logiciel Dreamweaver met à jour l'interface utilisateur au fur et à mesure que les modifications sont appliquées et l'utilisateur peut observer visuellement l'effet des modifications dans l'interface utilisateur de l'application.
 
-Chaque fois que vous enregistrez la page [HTML] (/fr/web/html/) en tant que fichier de modèle, Dreamweaver crée un dossier de modèle au niveau racine du dossier racine local. Le lien est rompu si le fichier .dwt est déplacé du dossier Modèles ou s'il est renommé. Ainsi, il est important de conserver les fichiers .dwt dans le dossier Templates où Dreamweaver les crée. Il est préférable de conserver les autres éléments de votre site, tels que les fichiers source d'images ou les documents HTML, à un emplacement autre que le dossier Modèles.
+Chaque fois que vous enregistrez la page [HTML](/fr/web/html/) en tant que fichier de modèle, Dreamweaver crée un dossier de modèle au niveau racine du dossier racine local. Le lien est rompu si le fichier .dwt est déplacé du dossier Modèles ou s'il est renommé. Ainsi, il est important de conserver les fichiers .dwt dans le dossier Templates où Dreamweaver les crée. Il est préférable de conserver les autres éléments de votre site, tels que les fichiers source d'images ou les documents HTML, à un emplacement autre que le dossier Modèles.
 
 ## À propos de Dreamweaver
 
@@ -33,5 +33,5 @@ Le logiciel Dreamweaver a été initialement développé par Macromedia. Parmi l
 
 ## Références
 
-* [Comprendre les chemins dans les modèles Dreamweaver] (https://helpx.adobe.com/dreamweaver/kb/paths-dreamweaver-templates.html)
+* [Comprendre les chemins dans les modèles Dreamweaver](https://helpx.adobe.com/dreamweaver/kb/paths-dreamweaver-templates.html)
 

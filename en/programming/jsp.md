@@ -33,12 +33,12 @@ A file saved with **jsp file extension** contains the following sections in the 
 A JSP file or fragment file begins with a server side style comment:
 
 ```
-<%-- 
+<%--
   - Author(s):
   - Date:
   - Copyright Notice:
   - @(#)
-  - Description: 
+  - Description:
   --%>
 ```
 Above comment is appeared only on the server side because it is removed while rendering the page in browser. The comment may contain the information about the author(s), the date, and the copyright notice of the revision, an identifier and a description about the JSP page for developers. Combining the characters " @(#)" is recognized by certain programs as indicating the start of an identifier.
@@ -54,9 +54,9 @@ A JSP page directive defines attributes associated with the JSPF page at transla
 If a page directive, exceeds the normal width of a JSP page, the directive is broken into several lines:
 
 ```
-<%@ page    session="false" 
+<%@ page    session="false"
             import="java.util.*"
-            errorPage="/common/errorPage.jsp" 
+            errorPage="/common/errorPage.jsp"
 %>
 ```
 ### Optional Tag Library Directive(s)
@@ -68,7 +68,7 @@ In JSP page, a tag library directive declares custom tag libraries. A short dire
 ...
 ```
 ### Optional JSP declaration(s)
-  
+
 The methods and variables declared in a JSPF file should be existed in JSP declarations. These methods and variables are similar as declarations in the Java programming language, and that's why the relevant code conventions should be followed. Declarations are usually written in a single < %! ... %> JSP declaration block, to centralize declarations within one area of the JSP page's body. look at the following examples:
 
 #### Disparate declaration blocks:
@@ -84,10 +84,10 @@ The methods and variables declared in a JSPF file should be existed in JSP decla
 ```
 #### Preferred declaration block:
 ```
-<%! 
+<%!
         private int hitCount;
-        private Date today; 
-    
+        private Date today;
+
         public int getHitCount() {
             return hitCount;
         }
@@ -105,7 +105,7 @@ The phase wise JSP page flow is given here:
 - Classloading (the classloader loads class file)
 - Instantiation (Object of the Generated Servlet is created).
 - Initialization ( the container invokes jspInit() method).
-- Request processing ( the container invokes _jspService() method).
+- Request processing ( the container invokes \_jspService() method).
 - Destroy ( the container invokes jspDestroy() method).
 
 {{< figure src="../jsp.jpg" alt="JSP File Format" >}}
@@ -118,11 +118,11 @@ Learning about the JSP technologies is very easy now a days because a lot of JSP
 <head>
   <title>Order Book</title>
 </head>
- 
+
 <body>
   <h1>Another E-Bookstore</h1>
   <h2>Thank you for ordering...</h2>
- 
+
   <%
     String[] ids = request.getParameterValues("id");
     if (ids != null) {
@@ -173,10 +173,6 @@ Learning about the JSP technologies is very easy now a days because a lot of JSP
 </body>
 </html>
 ```
-
-
- 
-
 ## References
 
  * [Code Conventions for the JavaServer Pages](https://www.oracle.com/technical-resources/articles/javase/code-convention.html)

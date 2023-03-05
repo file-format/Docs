@@ -28,5 +28,5 @@ Le format de fichier FictionBook 2.0 a été développé par Dmitry Gribov de Fi
 ## Références ##
 
 * [FB2 - Par Wikipédia](https://en.wikipedia.org/wiki/FictionBook)
-* [Spécifications du livre de fiction] (http://gribuser.ru/xml/fictionbook/index.html.en)
+* [Spécifications du livre de fiction](http://gribuser.ru/xml/fictionbook/index.html.en)
 

@@ -27,5 +27,5 @@ Les fichiers FOT sont enregistrés sur le disque en tant que fichiers binaires e
 
 ## Références
 
-* [Format de fichier de police] (https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
+* [Format de fichier de police](https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
 

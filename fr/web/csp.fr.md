@@ -23,5 +23,5 @@ Un fichier CSP est un fichier de page Web dynamique qui contient du contenu écr
 
 ## Références
 
-* [Concept Application Server] (https://github.com/Devronium/ConceptApplicationServer)
+* [Concept Application Server](https://github.com/Devronium/ConceptApplicationServer)
 

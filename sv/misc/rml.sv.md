@@ -19,7 +19,7 @@
 
 ## Vad är en RML fil?
 
-En RML-fil är en rapportmallsfil med rapporteringsmotorn [Elixir Repertoire](https://elixirtech.com/repertoire-2/). Mallfilen används för att generera rapporter med datakällan kopplad till Elixir FileSystem. Data läses och fylls i i RML-mallfilen och kan exporteras till ett antal olika filformat såsom [PDF](/sv/pdf/), [RTF](/sv/ordbehandling/rtf/) och kalkylblad [XLS] (/sv/kalkylblad/xls/). Elixir Repertoire-rapporteringsmotor kan kopplas till en mängd olika JDBC-datakällor.
+En RML-fil är en rapportmallsfil med rapporteringsmotorn [Elixir Repertoire](https://elixirtech.com/repertoire-2/). Mallfilen används för att generera rapporter med datakällan kopplad till Elixir FileSystem. Data läses och fylls i i RML-mallfilen och kan exporteras till ett antal olika filformat såsom [PDF](/sv/pdf/), [RTF](/sv/ordbehandling/rtf/) och kalkylblad [XLS](/sv/kalkylblad/xls/). Elixir Repertoire-rapporteringsmotor kan kopplas till en mängd olika JDBC-datakällor.
 
 ## RML filformat
 

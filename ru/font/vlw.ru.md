@@ -28,5 +28,5 @@
 ## **Использованная литература**
 
 * [Обработка](https://processing.org/)
-* [Обработка на github] (https://github.com/processing)
+* [Обработка на github](https://github.com/processing)
 

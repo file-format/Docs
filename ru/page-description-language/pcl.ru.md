@@ -103,5 +103,5 @@ HP представила PCL 6 в 1996 году, который стал сле
 
 ## Использованная литература ##
 
-* [PCL — Википедия] (https://en.wikipedia.org/wiki/Printer_Command_Language)
+* [PCL — Википедия](https://en.wikipedia.org/wiki/Printer_Command_Language)
 

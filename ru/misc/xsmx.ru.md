@@ -27,5 +27,5 @@
 
 ## использованная литература
 
-* [ExamSoft SofTest] (https://examsoft.com/about-examsoft/)
+* [ExamSoft SofTest](https://examsoft.com/about-examsoft/)
 

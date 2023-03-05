@@ -90,5 +90,5 @@ La versión 1.4 de DNG de octubre de 2012 tiene las siguientes características 
 
 * [Especificaciones DNG - Por Adobe](https://www.kronometric.org/phot/processing/DNG/dng_spec_1.4.0.0.pdf)
 * [Negativo digital - Wikipedia](https://en.wikipedia.org/wiki/Digital_Negative)
-* [DNG: el formato de archivo público para datos sin procesar de cámaras digitales] (https://helpx.adobe.com/photoshop/digital-negative.html)
+* [DNG: el formato de archivo público para datos sin procesar de cámaras digitales](https://helpx.adobe.com/photoshop/digital-negative.html)
 

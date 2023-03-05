@@ -77,5 +77,5 @@ Les détails de la structure du fichier .class sont également expliqués dans O
 
 ## Références
 
-* [Le format de fichier de classe] (https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-4.html)
+* [Le format de fichier de classe](https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-4.html)
 

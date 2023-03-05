@@ -23,7 +23,7 @@
 
 ## تنسيق ملف XAR
 
-يحتوي ملف [XAR] (https://github.com/mackyle/xar/wiki/xarformat) على ثلاث مناطق رئيسية.
+يحتوي ملف [XAR](https://github.com/mackyle/xar/wiki/xarformat) على ثلاث مناطق رئيسية.
 
 * رأس
 * جدول المحتويات
@@ -61,7 +61,7 @@ struct xar_header {
 
 ### جدول محتويات XAR (TOC)
 
-جدول المحتويات هو مستند XML (ويجب) ترميزه كـ UTF-8. يتم تخزينه في بداية الملف ، مما يسهل عملية المسح من خلال الأرشيف لاستخراج الملف الفردي. يتيح لك أرشيف XAR ضغط / ترميز الملفات الفردية في الأرشيف بشكل مستقل باستخدام أنظمة ضغط مختلفة مثل [GZIP] (/ar/ compression / gz /) و [BZIP2] (/ar/ compression / bz2) وأنظمة أخرى مماثلة.
+جدول المحتويات هو مستند XML (ويجب) ترميزه كـ UTF-8. يتم تخزينه في بداية الملف ، مما يسهل عملية المسح من خلال الأرشيف لاستخراج الملف الفردي. يتيح لك أرشيف XAR ضغط / ترميز الملفات الفردية في الأرشيف بشكل مستقل باستخدام أنظمة ضغط مختلفة مثل [GZIP](/ar/ compression / gz /) و [BZIP2](/ar/ compression / bz2) وأنظمة أخرى مماثلة.
 
 ```
 <?xml version="1.0"?>
@@ -109,6 +109,6 @@ struct xar_header {
 
 ## مراجع
 
-* [XAR] (https://github.com/mackyle/xar/wiki/xarformat)
-* [XAR - ويكيبيديا] (https://en.wikipedia.org/wiki/Xar_ (أرشيفي))
+* [XAR](https://github.com/mackyle/xar/wiki/xarformat)
+* [XAR - ويكيبيديا](https://en.wikipedia.org/wiki/Xar_ (أرشيفي))
 

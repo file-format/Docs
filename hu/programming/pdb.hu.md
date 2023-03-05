@@ -23,7 +23,7 @@ A .pdb kiterjesztésű fájl egy programadatbázis-fájl, amely egy lefordított
 
 ## PDB fájl formátum
 
-A PDB a Microsoft szabadalmaztatott fájlformátuma, és hivatalosan még nem dokumentálták sehol. A kezdő dokumentáció azonban [itt] (https://github.com/Microsoft/microsoft-pdb) érhető el, és hivatkozhat rá.
+A PDB a Microsoft szabadalmaztatott fájlformátuma, és hivatalosan még nem dokumentálták sehol. A kezdő dokumentáció azonban [itt](https://github.com/Microsoft/microsoft-pdb) érhető el, és hivatkozhat rá.
 
 ### EKT-folyamok
 

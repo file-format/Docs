@@ -18,10 +18,10 @@
 
 ## ما هو ملف DCX؟
 
-ملف DCX هو ملف صورة يتكون من عدة صفحات لإنشاء ملفات فاكس رقمية. يبدأ كل ملف DCX برأس 4 بايت يحدد ملف DCX كتوقيع ، متبوعًا بصور فردية مخزنة كملفات مضمنة [PCX] (/ar/ image / pcx /). يحدد التوقيع ذو 4 بايت ملف DCX ويتبعه قائمة تصل إلى 1023 إزاحة ملف 4 بايت. تم تطوير تنسيق ملف DCX بواسطة Zsoft. يمكن للعديد من التطبيقات فتح ملفات DCX مثل Adobe Photoshop و Corel PaintShop Pro و IrfanView.
+ملف DCX هو ملف صورة يتكون من عدة صفحات لإنشاء ملفات فاكس رقمية. يبدأ كل ملف DCX برأس 4 بايت يحدد ملف DCX كتوقيع ، متبوعًا بصور فردية مخزنة كملفات مضمنة [PCX](/ar/ image / pcx /). يحدد التوقيع ذو 4 بايت ملف DCX ويتبعه قائمة تصل إلى 1023 إزاحة ملف 4 بايت. تم تطوير تنسيق ملف DCX بواسطة Zsoft. يمكن للعديد من التطبيقات فتح ملفات DCX مثل Adobe Photoshop و Corel PaintShop Pro و IrfanView.
 
 ## مراجع
 
-* [PCX - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/PCX)
-* [الدليل التقني لتنسيق ملف ZSoft PCX] (http://qzx.com/pc-gpe/pcx.txt)
+* [PCX - بواسطة Wikipedia](https://en.wikipedia.org/wiki/PCX)
+* [الدليل التقني لتنسيق ملف ZSoft PCX](http://qzx.com/pc-gpe/pcx.txt)
 

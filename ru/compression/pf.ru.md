@@ -27,5 +27,5 @@
 
 ## использованная литература
 
-* [Stuffit Deluxe] (https://stuffit-deluxe.en.softonic.com/mac)
+* [Stuffit Deluxe](https://stuffit-deluxe.en.softonic.com/mac)
 

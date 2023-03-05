@@ -29,6 +29,6 @@ Mediante el uso del dispositivo de lectura electrónica Amazon Kindle, los lecto
 
 * [Visualización de destacados populares en Kindle](https://en.wikipedia.org/wiki/Orb_Books)
 * [Destacados populares revelan contenido que genera clics](https://www.searchenginepeople.com/blog/kindle-highlights.html)
-* [Cómo desactivar los aspectos destacados populares en su Kindle] (https://www.howtogeek.com/355701/how-to-turn-off-popular-highlights-on-your-kindle)
+* [Cómo desactivar los aspectos destacados populares en su Kindle](https://www.howtogeek.com/355701/how-to-turn-off-popular-highlights-on-your-kindle)
 
 

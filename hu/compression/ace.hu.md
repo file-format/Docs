@@ -20,7 +20,7 @@ Az .ace kiterjesztésű fájl egy ACE tömörített fájlformátum, amelyet Marc
 
 ## ACE fájlformátum
 
-Az ACE egy szabadalmaztatott fájlformátum, és technikai részletei nem hozzáférhetők nyilvánosan. Magasabb tömörítési arányt kínált, mint a ZIP és [RAR] (/hu/compression/rar/), valamint gyors tömörítési sebességet. Támogatja a robusztus 160 bites Blowfish titkosítást is.
+Az ACE egy szabadalmaztatott fájlformátum, és technikai részletei nem hozzáférhetők nyilvánosan. Magasabb tömörítési arányt kínált, mint a ZIP és [RAR](/hu/compression/rar/), valamint gyors tömörítési sebességet. Támogatja a robusztus 160 bites Blowfish titkosítást is.
 
 ## Hivatkozások
 

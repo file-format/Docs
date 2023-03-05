@@ -32,6 +32,6 @@
 
 ## использованная литература
 
-* [Образ развертывания системы — из Википедии] (https://en.wikipedia.org/wiki/System_Deployment_Image)
+* [Образ развертывания системы — из Википедии](https://en.wikipedia.org/wiki/System_Deployment_Image)
 
 

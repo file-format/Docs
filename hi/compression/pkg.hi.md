@@ -31,6 +31,6 @@
 
 ## संदर्भ
 
-* [फ्लैट पैकेज फ़ाइल प्रारूप] (http://s.sudre.free.fr/Stuff/Ivanhoe/FLAT.html)
+* [फ्लैट पैकेज फ़ाइल प्रारूप](http://s.sudre.free.fr/Stuff/Ivanhoe/FLAT.html)
 * [पीकेजी - विकिपीडिया](https://en.wikipedia.org/wiki/.pkg)
 

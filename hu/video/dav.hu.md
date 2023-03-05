@@ -23,7 +23,7 @@ A DAV fájl egy tömörített és titkosított videofájl, amelyet a DVR365 vagy
 
 ## DAV fájlformátum – További információ
 
-A DAV-fájlok titkosított bináris fájlformátumban kerülnek tárolásra a lemezen. A titkosítás megakadályozza ezen fájlok jogosulatlan használatát. Így ezek a [Dahua Technology] (https://www.dahuasecurity.com/) CCTV rendszereinek tulajdonát képezik. A Dahua Technologies néhány más kamerája szintén DAV-fájlként mentheti a megfigyelési videót.
+A DAV-fájlok titkosított bináris fájlformátumban kerülnek tárolásra a lemezen. A titkosítás megakadályozza ezen fájlok jogosulatlan használatát. Így ezek a [Dahua Technology](https://www.dahuasecurity.com/) CCTV rendszereinek tulajdonát képezik. A Dahua Technologies néhány más kamerája szintén DAV-fájlként mentheti a megfigyelési videót.
 
 A Dahua Smart Player használható DAV fájlok megnyitására és lejátszására.
 

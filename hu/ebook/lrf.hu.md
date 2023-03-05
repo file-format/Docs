@@ -23,7 +23,7 @@ Az .lrf kiterjesztésű fájl egy szélessávú eBook (BBeB) fájl, amely a Sony
 
 ## Rövid története
 
-Az LRF fájltípus mindenekelőtt az [inXile Entertainment] (https://en.wikipedia.org/wiki/InXile_Entertainment) Line Rider termékéhez kapcsolódik. A Line Rider egy internetes fizikai játék, amelyet 2006 szeptemberében egy szlovén egyetemista, Boštjan Čadež talált fel. A Sony márkájú eBook e-olvasók (mint például a Sony PRS-500 olvasók és a Sony Librie) az LRF fájlkiterjesztést használják dokumentumaikhoz és szövegeikhez. Ez a védett fájltípus, valamint a kapcsolódó LRS- és LRX-fájlok mára elavulttá vált. Ez a három fájltípus alkotta a BroadBand eBookot (BBeB), amely 2010-ben megszűnt, amikor a Sony elkezdte EPUB formátumban árusítani e-könyveit.
+Az LRF fájltípus mindenekelőtt az [inXile Entertainment](https://en.wikipedia.org/wiki/InXile_Entertainment) Line Rider termékéhez kapcsolódik. A Line Rider egy internetes fizikai játék, amelyet 2006 szeptemberében egy szlovén egyetemista, Boštjan Čadež talált fel. A Sony márkájú eBook e-olvasók (mint például a Sony PRS-500 olvasók és a Sony Librie) az LRF fájlkiterjesztést használják dokumentumaikhoz és szövegeikhez. Ez a védett fájltípus, valamint a kapcsolódó LRS- és LRX-fájlok mára elavulttá vált. Ez a három fájltípus alkotta a BroadBand eBookot (BBeB), amely 2010-ben megszűnt, amikor a Sony elkezdte EPUB formátumban árusítani e-könyveit.
 
 ## LRF fájlformátum
 

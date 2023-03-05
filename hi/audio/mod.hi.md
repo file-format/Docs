@@ -42,5 +42,5 @@
 
 ## संदर्भ
 
-* [रक्षा मंत्रालय (फ़ाइल प्रारूप) - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/MOD_(file_format))
+* [रक्षा मंत्रालय (फ़ाइल प्रारूप) - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/MOD_(file_format))
 

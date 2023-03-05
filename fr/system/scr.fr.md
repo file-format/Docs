@@ -68,7 +68,7 @@ Modifiez l'extension du fichier exécutable de .exe à .scr. Ainsi, le fichier S
 
 ## Références
 
-* [Écran de veille] (https://en.wikipedia.org/wiki/Écran de veille)
-* [Écrire un économiseur d'écran qui fonctionne réellement] (https://www.codeproject.com/Articles/14081/Write-a-Screensaver-that-Actually-Works)
+* [Écran de veille](https://en.wikipedia.org/wiki/Écran de veille)
+* [Écrire un économiseur d'écran qui fonctionne réellement](https://www.codeproject.com/Articles/14081/Write-a-Screensaver-that-Actually-Works)
 
 

@@ -45,5 +45,5 @@ Pero aún puede encontrar muchas otras herramientas de software que pueden eludi
 ## Referencias ##
 
 * [Audible (servicio) - Por Wikipedia](https://en.wikipedia.org/wiki/Audible_(servicio))
-* [Formato de archivo de audio: por Wikipedia] (https://en.wikipedia.org/wiki/Audio_file_format)
+* [Formato de archivo de audio: por Wikipedia](https://en.wikipedia.org/wiki/Audio_file_format)
 

@@ -46,6 +46,6 @@ M4A फाइलों में लगातार विखंडू होत
 
 ## संदर्भ ##
 
-* [एमपीईजी -4 भाग 14 - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/MPEG-4_Part_14)
-* [एमपीईजी -4 भाग 14 ऑडियो (एम 4 ए, एम 4 बी, एम 4 पी) प्रारूप और पुनर्प्राप्ति उदाहरण] (https://www.file-recovery.com/m4a-signature-format.htm)
+* [एमपीईजी -4 भाग 14 - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/MPEG-4_Part_14)
+* [एमपीईजी -4 भाग 14 ऑडियो (एम 4 ए, एम 4 बी, एम 4 पी) प्रारूप और पुनर्प्राप्ति उदाहरण](https://www.file-recovery.com/m4a-signature-format.htm)
 

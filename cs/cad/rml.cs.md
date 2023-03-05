@@ -19,7 +19,7 @@
 
 ## Co je soubor RML?
 
-Soubor RML je soubor anotací vytvořený a používaný aplikací Volo View společností [Autodesk] (https://autodesk.com). Obsahuje anotační informace a textové značky, které mají být překryty na výkresu pro psaní poznámek. Tyto poznámky jsou zobrazeny červeným textem nad výkresem, a proto název souboru Redline Markup Language. Volo View bylo ukončeno a Autodesk jej již nepodporuje. Obsah souborů RML je vložen do výkresů CAD jako poznámky.
+Soubor RML je soubor anotací vytvořený a používaný aplikací Volo View společností [Autodesk](https://autodesk.com). Obsahuje anotační informace a textové značky, které mají být překryty na výkresu pro psaní poznámek. Tyto poznámky jsou zobrazeny červeným textem nad výkresem, a proto název souboru Redline Markup Language. Volo View bylo ukončeno a Autodesk jej již nepodporuje. Obsah souborů RML je vložen do výkresů CAD jako poznámky.
 
 ## Formát souboru RML
 

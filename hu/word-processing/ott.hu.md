@@ -31,7 +31,7 @@ Az ODP fájlformátum specifikációi az ODF specifikációként kifejlesztett s
 
 **2011:** Az 1.2-es verzió 2011 szeptemberében jelent meg
 
-Elég apró változások történtek az ODF 1.0-ról az 1.1-es verziókra való áttéréskor. Az [ODF 1.2-es verzió] (https://www.oasis-open.org/standards#opendocumentv1.2) az ODF-specifikációk legújabb verziója, és a fejlesztőknek konzultálniuk kell vele az ODS-olvasáshoz/íráshoz kapcsolódó alkalmazások fejlesztésekor.
+Elég apró változások történtek az ODF 1.0-ról az 1.1-es verziókra való áttéréskor. Az [ODF 1.2-es verzió](https://www.oasis-open.org/standards#opendocumentv1.2) az ODF-specifikációk legújabb verziója, és a fejlesztőknek konzultálniuk kell vele az ODS-olvasáshoz/íráshoz kapcsolódó alkalmazások fejlesztésekor.
 
 ## A fájlformátum specifikációi
 

@@ -18,7 +18,7 @@
 
 ## Was ist eine PUB-Datei?
 
-Eine PUB-Datei ist ein Dokumentdateiformat von Microsoft Publisher. Es wird verwendet, um verschiedene Arten von Design-Layout-Dokumenten wie Newsletter, Flyer, Broschüren, Postkarten usw. zu erstellen. PUB-Dateien können Text, Raster- und Vektorbilder enthalten. Mit PUB-Dateien erstellte Dokumente werden hauptsächlich in Websites und Marketingmaterialien wie E-Mails verwendet. PUB-Dateien können mit der Microsoft Publisher Desktop-Anwendung, [Microsoft Publisher 365](https://www.microsoft.com/en/microsoft-365), [LibreOffice Draw](https://www.libreoffice.org/discover /draw/) und [Adobe InDesign] (https://www.adobe.com/products/indesign.html).
+Eine PUB-Datei ist ein Dokumentdateiformat von Microsoft Publisher. Es wird verwendet, um verschiedene Arten von Design-Layout-Dokumenten wie Newsletter, Flyer, Broschüren, Postkarten usw. zu erstellen. PUB-Dateien können Text, Raster- und Vektorbilder enthalten. Mit PUB-Dateien erstellte Dokumente werden hauptsächlich in Websites und Marketingmaterialien wie E-Mails verwendet. PUB-Dateien können mit der Microsoft Publisher Desktop-Anwendung, [Microsoft Publisher 365](https://www.microsoft.com/en/microsoft-365), [LibreOffice Draw](https://www.libreoffice.org/discover /draw/) und [Adobe InDesign](https://www.adobe.com/products/indesign.html).
 
 ## PUB-Dateiformat - Weitere Informationen
 

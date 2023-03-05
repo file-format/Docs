@@ -30,5 +30,5 @@ AllWebMenus le permite diseñar menús [CSS](/es/web/css/) o menús basados en [
 
 ## Referencias
 
-* [Todos los menús web] (https://www.likno.com/allwebmenusinfo.html)
+* [Todos los menús web](https://www.likno.com/allwebmenusinfo.html)
 

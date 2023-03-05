@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo CXF?
 
-Un archivo CXF es un archivo GIS guardado en formato de exportación de coordenadas (CXF), desarrollado por [HeightMap.org] (http://heightmap.org/). Contiene datos de imágenes vectoriales de forma organizada y puede incluir datos GIS o gráficos vectoriales, como dibujos.
+Un archivo CXF es un archivo GIS guardado en formato de exportación de coordenadas (CXF), desarrollado por [HeightMap.org](http://heightmap.org/). Contiene datos de imágenes vectoriales de forma organizada y puede incluir datos GIS o gráficos vectoriales, como dibujos.
 
 ## Formato de archivo CXF - Más información
 

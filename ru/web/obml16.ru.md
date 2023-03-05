@@ -26,5 +26,5 @@ OBML16 основан на формате файлов OBML, который пр
 
 ## использованная литература
 
-* [формат OMBL] (https://github.com/grawity/obml-parser/blob/master/obml.md)
+* [формат OMBL](https://github.com/grawity/obml-parser/blob/master/obml.md)
 

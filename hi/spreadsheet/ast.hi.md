@@ -27,6 +27,6 @@
 
 ## संदर्भ ##
 
-* [क्षमता कार्यालय - विकिपीडिया] (https://en.wikipedia.org/wiki/Ability_Office)
+* [क्षमता कार्यालय - विकिपीडिया](https://en.wikipedia.org/wiki/Ability_Office)
 * [क्षमता कार्यालय](https://www.ability.com/en/home/home)
 

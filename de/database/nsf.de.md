@@ -23,7 +23,7 @@ Eine Datei mit der Erweiterung .nsf (Notes Storage Facility) ist ein Datenbankda
 
 ## NSF-Dateiformatspezifikationen
 
-NSF-Dateien sind binärer Natur und ihre Spezifikationen sind von Joachim Metz auf [Github] (https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database% verfügbar. 20file%20format.asciidoc). Gemäß diesen Angaben besteht eine NSF-Datei aus:
+NSF-Dateien sind binärer Natur und ihre Spezifikationen sind von Joachim Metz auf [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database% verfügbar. 20file%20format.asciidoc). Gemäß diesen Angaben besteht eine NSF-Datei aus:
 
 * Dateikopf
 * Datenbank-Header
@@ -71,5 +71,5 @@ Der Header der NSD-Datenbank enthält die folgenden bestätigten Werte.
 
 ## Verweise
 
-* [NSF-Format – Github] (https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc)
+* [NSF-Format – Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc)
 

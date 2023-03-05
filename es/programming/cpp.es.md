@@ -83,5 +83,5 @@ void MyClass::add(int i, int j) {
 
 ## Referencias
 
-* [Implementación de clase: por Wikipedia] (https://en.wikipedia.org/wiki/Class_implementation_file)
+* [Implementación de clase: por Wikipedia](https://en.wikipedia.org/wiki/Class_implementation_file)
 

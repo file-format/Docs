@@ -23,7 +23,7 @@ Un archivo con extensión .drawio es un archivo de dibujo creado con draw.io de 
 
 ## Formato de archivo DRAWIO
 
-Los archivos DRAWIO son archivos de imágenes vectoriales, almacenados en el formato de archivo XML estándar. Desarrollado por diagrams.net, brinda la capacidad de almacenar información de diagramas similar a Microsoft Visio. DrawIO está disponible como [aplicación en línea] (https://app.diagrams.net/) para crear, abrir y exportar diagramas a varios formatos. La aplicación se basa en la biblioteca de diagramas mxGraph que proporciona gráficos interactivos y aplicaciones de gráficos que se ejecutan en cualquier navegador principal, como Chrome, Firefox, Edge y Safari.
+Los archivos DRAWIO son archivos de imágenes vectoriales, almacenados en el formato de archivo XML estándar. Desarrollado por diagrams.net, brinda la capacidad de almacenar información de diagramas similar a Microsoft Visio. DrawIO está disponible como [aplicación en línea](https://app.diagrams.net/) para crear, abrir y exportar diagramas a varios formatos. La aplicación se basa en la biblioteca de diagramas mxGraph que proporciona gráficos interactivos y aplicaciones de gráficos que se ejecutan en cualquier navegador principal, como Chrome, Firefox, Edge y Safari.
 
 ### Ejemplo de SORTEO
 

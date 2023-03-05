@@ -19,7 +19,7 @@
 
 ## Co je soubor FODT?
 
-Soubor s příponou .fodt je textový dokument uložený ve formátu OpenDocument flat [XML](/cs/web/xml/). Na rozdíl od souborů .odt, které se ukládají ve formátu kontejnerového souboru [.zip](/cs/compression/zip/), se soubory FODT ukládají na disk jako soubory čitelné pro člověka, které lze otevřít v libovolném textovém editoru a zobrazit je jako prosté dokumenty XML. . Kancelářský dokumentový standard OpenDocument byl vyvinut průmyslovým konsorciem OASIS a připravil tak cestu k implementaci komukoli a kýmkoli bez jakýchkoli omezení. Mezi další oblíbené formáty souborů OpenDocument patří [.odt](/cs/word-processing/odt/), [.ott](/cs/word-processing/ott/), [.ods](/cs/spreadsheet/ods/), [.odp] (/cs/prezentace/odp/), a podobně i další.
+Soubor s příponou .fodt je textový dokument uložený ve formátu OpenDocument flat [XML](/cs/web/xml/). Na rozdíl od souborů .odt, které se ukládají ve formátu kontejnerového souboru [.zip](/cs/compression/zip/), se soubory FODT ukládají na disk jako soubory čitelné pro člověka, které lze otevřít v libovolném textovém editoru a zobrazit je jako prosté dokumenty XML. . Kancelářský dokumentový standard OpenDocument byl vyvinut průmyslovým konsorciem OASIS a připravil tak cestu k implementaci komukoli a kýmkoli bez jakýchkoli omezení. Mezi další oblíbené formáty souborů OpenDocument patří [.odt](/cs/word-processing/odt/), [.ott](/cs/word-processing/ott/), [.ods](/cs/spreadsheet/ods/), [.odp](/cs/prezentace/odp/), a podobně i další.
 
 ## Formát souboru FODT – Další informace
 

@@ -75,6 +75,6 @@
 
 ## использованная литература
 
-* [AC3 — Википедия] (https://en.wikipedia.org/wiki/Dolby_Digital)
-* [Dolby Digital 5.1] (https://professional.dolby.com/tv/dolby-digital)
+* [AC3 — Википедия](https://en.wikipedia.org/wiki/Dolby_Digital)
+* [Dolby Digital 5.1](https://professional.dolby.com/tv/dolby-digital)
 

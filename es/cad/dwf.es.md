@@ -31,7 +31,7 @@ DWF es un formato abierto y seguro diseñado específicamente para compartir dat
 
 **Archivos de metadatos DWF**: archivos XML que contienen información relacionada con los metadatos y la estructura (autor, título, hora de creación, dependencias de la sección, orden de la sección, descripciones del archivo de recursos, funciones, tipos MIME, etc.) y relacionada con la sección (página información, metadatos de diseño, etc.). Los metadatos estructurales se utilizan para crear objetos lógicos (colecciones de archivos para representar una parte o una página, etc.).
 
-**Archivos de recursos**: medios u otros archivos de contenido a los que se hace referencia desde los metadatos del paquete/sección y, por lo general, son presentaciones de datos de diseño en varios formatos (ZGL, W2D, [JPG](/es/image/jpeg/), [PNG] (/es/imagen/png/), AVI, XML, [TXT](/es/procesador de textos/txt/), [DOC](/es/procesador de textos/doc/), etc.)
+**Archivos de recursos**: medios u otros archivos de contenido a los que se hace referencia desde los metadatos del paquete/sección y, por lo general, son presentaciones de datos de diseño en varios formatos (ZGL, W2D, [JPG](/es/image/jpeg/), [PNG](/es/imagen/png/), AVI, XML, [TXT](/es/procesador de textos/txt/), [DOC](/es/procesador de textos/doc/), etc.)
 
 ### Detalles del formato de archivo ###
 
@@ -99,6 +99,6 @@ El tráiler de terminación de archivo para DWF es simplemente un código de ope
 ## Referencias ##
 
 * [DWF - Por Wikipedia](https://en.wikipedia.org/wiki/Design_Web_Format)
-* [Formato de datos WHIP] (http://paulbourke.net/dataformats/whip/)
+* [Formato de datos WHIP](http://paulbourke.net/dataformats/whip/)
 * [http://blogs.msdn.com/opc/archive/2009/05/18/adventures-in-packaging-episode-1.aspx](http://blogs.msdn.com/opc/archive/2009 /05/18/aventuras-en-embalaje-episodio-1.aspx)
 

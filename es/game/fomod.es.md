@@ -31,6 +31,6 @@ Se pueden instalar archivos FOMOD haciendo doble clic en él. Esto lo abrirá us
 
 ## Referencias
 
-* [Formato de archivo FOMOD] (https://wiki.nexusmods.com/index.php/Installing_A_Mod_With_FOMM)
+* [Formato de archivo FOMOD](https://wiki.nexusmods.com/index.php/Installing_A_Mod_With_FOMM)
 * [Modificación de videojuegos](https://en.wikipedia.org/wiki/Video_game_modding)
 

@@ -18,7 +18,7 @@
 
 # Mi az a PDF/UA fájl? #
 
-A PDF/UA [ISO 14289-1-es szabvány] (https://en.wikipedia.org/wiki/ISO_14289) néven jelent meg 2012 augusztusában, és messze az első teljes körű meghatározás az univerzálisan hozzáférhető PDF-dokumentumokra vonatkozó követelményekről. Az „univerzálisan hozzáférhető” kifejezés arra utal, hogy a [PDF](/hu/pdf/) dokumentumban szereplő információknak egyformán és függetlenül kell hozzáférhetőnek lenniük általában mindenki, és különösen a fogyatékkal élők számára. A PDF/UA szabvány bevezetése jelentős lépésnek tekinthető a PDF-tartalom létrehozásához és olvasásához szükséges eszközök és alkalmazások létrehozásában.
+A PDF/UA [ISO 14289-1-es szabvány](https://en.wikipedia.org/wiki/ISO_14289) néven jelent meg 2012 augusztusában, és messze az első teljes körű meghatározás az univerzálisan hozzáférhető PDF-dokumentumokra vonatkozó követelményekről. Az „univerzálisan hozzáférhető” kifejezés arra utal, hogy a [PDF](/hu/pdf/) dokumentumban szereplő információknak egyformán és függetlenül kell hozzáférhetőnek lenniük általában mindenki, és különösen a fogyatékkal élők számára. A PDF/UA szabvány bevezetése jelentős lépésnek tekinthető a PDF-tartalom létrehozásához és olvasásához szükséges eszközök és alkalmazások létrehozásában.
 
 ## Fájlformátumra vonatkozó követelmények ##
 
@@ -42,7 +42,7 @@ A PDF/UA szabvány meghatározza a tartalom, az olvasók és a kisegítő techno
 
 ## Megfelelő fájlok ##
 
-A PDF/UA szabványnak megfelelő fájloknak tartalmazniuk kell a [PDF 1.7 specifikációi] (http://www.adobe.com/go/pdfreference) szerint érvényes funkciókat. A PDF/UA által kifejezetten tiltott funkciókat azonban ki kell zárni.
+A PDF/UA szabványnak megfelelő fájloknak tartalmazniuk kell a [PDF 1.7 specifikációi](http://www.adobe.com/go/pdfreference) szerint érvényes funkciókat. A PDF/UA által kifejezetten tiltott funkciókat azonban ki kell zárni.
 
 ## Megfelelő olvasók ##
 

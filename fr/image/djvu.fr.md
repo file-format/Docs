@@ -77,5 +77,5 @@ La méthode de codage JB2 élimine une grande partie de la redondance dans l'ima
 ## Références ##
 
 * [DjVu - Wikipédia](https://en.wikipedia.org/wiki/DjVu)
-* [Format de fichier DjVu] (https://www.cuminas.jp/docs/techinfo/DjVu3Spec.pdf)
+* [Format de fichier DjVu](https://www.cuminas.jp/docs/techinfo/DjVu3Spec.pdf)
 

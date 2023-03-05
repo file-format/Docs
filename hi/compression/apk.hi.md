@@ -49,5 +49,5 @@ APK फ़ाइलों को [ZIP](/hi/compression/zip/) फ़ाइल स
 
 ## संदर्भ
 
-* [APK फ़ाइल प्रारूप] (https://en.wikipedia.org/wiki/Android_application_package)
+* [APK फ़ाइल प्रारूप](https://en.wikipedia.org/wiki/Android_application_package)
 

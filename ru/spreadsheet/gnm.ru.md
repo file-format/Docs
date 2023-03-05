@@ -31,10 +31,10 @@
 
 ## Gnumeric на Github
 
-Разработка Gnumeric с открытым исходным кодом размещается и поддерживается в [официальном репозитории Gnumeric Github] (https://github.com/GNOME/gnumeric).
+Разработка Gnumeric с открытым исходным кодом размещается и поддерживается в [официальном репозитории Gnumeric Github](https://github.com/GNOME/gnumeric).
 
 ## использованная литература
 
-* [Проект GNOME] (https://en.wikipedia.org/wiki/The_GNOME_Project)
-* [Gnumeric — Википедия] (https://en.wikipedia.org/wiki/Gnumeric)
+* [Проект GNOME](https://en.wikipedia.org/wiki/The_GNOME_Project)
+* [Gnumeric — Википедия](https://en.wikipedia.org/wiki/Gnumeric)
 

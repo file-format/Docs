@@ -41,5 +41,5 @@
 
 ## مراجع
 
-* [أساسيات مفكرة الرياضيات] (https://reference.wolfram.com/language/guide/NotebookBasics.html)
+* [أساسيات مفكرة الرياضيات](https://reference.wolfram.com/language/guide/NotebookBasics.html)
 

@@ -35,6 +35,6 @@ ECW तरंगिका संपीड़न पर आधारित एक
 
 ## संदर्भ ##
 
-* [ECW (फ़ाइल स्वरूप) - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/ECW_(file_format))
+* [ECW (फ़ाइल स्वरूप) - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/ECW_(file_format))
 
 

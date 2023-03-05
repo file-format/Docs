@@ -28,6 +28,6 @@ Los archivos AEX se guardan en el disco en formato de archivo binario y contiene
 ## Referencias
 
 * [Alfa Cinco](https://www.alphasoftware.com/)
-* [Documentación de Alpha Five] (https://documentation.alphasoftware.com/documentation/pages/index.html)
+* [Documentación de Alpha Five](https://documentation.alphasoftware.com/documentation/pages/index.html)
 * [Guía Xbasic](https://documentation.alphasoftware.com/pages/Guides/Xbasic/index.xml)
 

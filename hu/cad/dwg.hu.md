@@ -39,7 +39,7 @@ A DWG fájlformátum az 1982-es hivatalos bevezetése óta eltelt idővel fejlő
 
 ## Fájlszerkezet ##
 
-A DWG az egyik legszélesebb körben használt fájlformátum volt számos alkalmazásban, és robusztus fájlszerkezettel rendelkezik. Mivel a DWG egy bináris fájlformátum, ember által nem olvasható, mint a sima ASCII [DXF](/hu/cad/dxf/) fájlformátum. A DWG-fájlok általában információkat tartalmaznak a kép koordinátáiról és a hozzájuk kapcsolódó metaadatokról. A DWG fájlformátum teljes [specifikációja] (https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf) letölthető az OpenDesign által. A DWG fájlformátum fájlszerkezetét az alábbiakban foglaljuk össze.
+A DWG az egyik legszélesebb körben használt fájlformátum volt számos alkalmazásban, és robusztus fájlszerkezettel rendelkezik. Mivel a DWG egy bináris fájlformátum, ember által nem olvasható, mint a sima ASCII [DXF](/hu/cad/dxf/) fájlformátum. A DWG-fájlok általában információkat tartalmaznak a kép koordinátáiról és a hozzájuk kapcsolódó metaadatokról. A DWG fájlformátum teljes [specifikációja](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf) letölthető az OpenDesign által. A DWG fájlformátum fájlszerkezetét az alábbiakban foglaljuk össze.
 
 **Fejléc**: A fájlfejléc DWG fejlécváltozókból és a hibaészlelésre használt ciklikus redundancia-ellenőrzés (CRC) információiból áll. Mindegyik alszakasz egy speciális vektor, ahol különböző hosszúságú biteket használnak a különböző címkék ábrázolására. Például a DWG fejléc változó első 6 bitje a verzió karakterláncot jelöli.
 

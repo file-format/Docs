@@ -20,7 +20,7 @@ Soubor MXL je komprimovaná forma formátu souboru MusicXML, což je otevřený 
 
 ## Formát souboru MXL
 
-Soubory MXL jsou uloženy jako [ZIP](/cs/compression/zip/) komprimované [XML](/cs/web/xml/) soubory s příponou .mxl. Soubory MXL jsou komprimovány pomocí algoritmu DEFLATE, jak je uvedeno v [RFC 1951] (https://www.ietf.org/rfc/rfc1951.txt).
+Soubory MXL jsou uloženy jako [ZIP](/cs/compression/zip/) komprimované [XML](/cs/web/xml/) soubory s příponou .mxl. Soubory MXL jsou komprimovány pomocí algoritmu DEFLATE, jak je uvedeno v [RFC 1951](https://www.ietf.org/rfc/rfc1951.txt).
 
 ### Struktura souboru MXL
 

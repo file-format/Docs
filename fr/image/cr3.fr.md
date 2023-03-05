@@ -43,6 +43,6 @@ Les fichiers CR3 contiennent des balises personnalisées à des fins différente
 
 ## Références
 
-* [Format de fichier CR2] (http://lclevy.free.fr/cr2/)
+* [Format de fichier CR2](http://lclevy.free.fr/cr2/)
 * [Balises Canon](https://exiftool.org/TagNames/Canon.html#uuid)
 

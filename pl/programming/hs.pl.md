@@ -151,7 +151,7 @@ Poniżej znajduje się przykład pliku zestawu pomocy pochodzącego z [dokumenta
 
 ## Czym jest plik HS?
 
-Plik z rozszerzeniem .hs to plik skryptu Haskella napisany w [Haskell] (https://wiki.haskell.org/Haskell), zaawansowanym czysto funkcjonalnym języku programowania typu open source. Kod napisany w pliku HS jest oparty wyłącznie na funkcjach, w przeciwieństwie do [C](/pl/programming/c/), [C++](/pl/programming/cpp/) i podobnych, które podążają za zasadami szybkiego tworzenia solidnego i zwięzłego oprogramowania. Haskell zapewnia wbudowaną współbieżność i równoległość wraz z bogatymi interfejsami API, profilerami i debuggerami do tworzenia elastycznych i wysokiej jakości aplikacji.
+Plik z rozszerzeniem .hs to plik skryptu Haskella napisany w [Haskell](https://wiki.haskell.org/Haskell), zaawansowanym czysto funkcjonalnym języku programowania typu open source. Kod napisany w pliku HS jest oparty wyłącznie na funkcjach, w przeciwieństwie do [C](/pl/programming/c/), [C++](/pl/programming/cpp/) i podobnych, które podążają za zasadami szybkiego tworzenia solidnego i zwięzłego oprogramowania. Haskell zapewnia wbudowaną współbieżność i równoległość wraz z bogatymi interfejsami API, profilerami i debuggerami do tworzenia elastycznych i wysokiej jakości aplikacji.
 
 ## Format pliku HS
 

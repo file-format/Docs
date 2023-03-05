@@ -42,5 +42,5 @@ Deux méthodes peuvent être utilisées pour créer des fichiers APPX.
 ## Références
 
 * [Créer un package ou un bundle MSIX avec MakeAppx.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
-* [Créer des fichiers APPX à l'aide de Microsoft Visual Studio] (https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Créer des fichiers APPX à l'aide de Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

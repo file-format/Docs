@@ -27,6 +27,6 @@
 Формат файла .dbs SQLBase является проприетарным, доступ к нему или его изменение можно получить только с помощью инструментов, специально связанных с SQLBase. Данные, хранящиеся в файле .dbs, можно экспортировать в другие форматы, такие как .csv и .xls, для резервного копирования или переноса в другие системы управления базами данных.
 
 ## использованная литература
-* [СУБД SQLBase — Gupta Technologies] (https://en.wikipedia.org/wiki/Gupta_Technologies)
+* [СУБД SQLBase — Gupta Technologies](https://en.wikipedia.org/wiki/Gupta_Technologies)
 
 

@@ -46,8 +46,8 @@
 
 ## Использованная литература ##
 
-- [AVCHD - Википедия] (https://en.wikipedia.org/wiki/AVCHD)
-- [Что такое формат AVCHD?] (https://www.sony.com/electronics/support/articles/00016537)
+- [AVCHD - Википедия](https://en.wikipedia.org/wiki/AVCHD)
+- [Что такое формат AVCHD?](https://www.sony.com/electronics/support/articles/00016537)
 
 
 

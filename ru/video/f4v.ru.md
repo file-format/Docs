@@ -45,5 +45,5 @@ F4V (видеофайл Flash MP4) — это видеофайл, сохраня
 
 ## Использованная литература ##
 
-- [Флэш-видео - Википедия] (https://en.wikipedia.org/wiki/Flash_Video)
+- [Флэш-видео - Википедия](https://en.wikipedia.org/wiki/Flash_Video)
 

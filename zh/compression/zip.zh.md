@@ -19,7 +19,7 @@
 
 ## 什么是 .zip 文件？ ##
 
-带有 .zip 扩展名的文件是可以保存一个或多个文件或目录的存档。存档可以对包含的文件应用压缩以减小 ZIP 文件的大小。 ZIP 文件格式于 1989 年 2 月由 Phil Katz 公开，用于实现文件和文件夹的归档。该格式是由 PKWARE, Inc. 创建的 [PKZIP](https://www.pkware.com/pkzip) 实用程序的一部分。在 [可用规范](https://pkware.cachefly.net/ webdocs/casestudies/APPNOTE.TXT），许多公司将 ZIP 文件格式作为其软件实用程序的一部分，包括 Microsoft（自 Windows 7 起）、Apple (Mac OS X) 等。
+带有 .zip 扩展名的文件是可以保存一个或多个文件或目录的存档。存档可以对包含的文件应用压缩以减小 ZIP 文件的大小。 ZIP 文件格式于 1989 年 2 月由 Phil Katz 公开，用于实现文件和文件夹的归档。该格式是由 PKWARE, Inc. 创建的 [PKZIP](https://www.pkware.com/pkzip) 实用程序的一部分。在 [可用规范](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT），许多公司将 ZIP 文件格式作为其软件实用程序的一部分，包括 Microsoft（自 Windows 7 起）、Apple (Mac OS X) 等。
 
 ## ZIP 文件格式简史
 
@@ -152,4 +152,3 @@ ZIP 文件中的条目依次排列，其中每个条目包括：
 
 * [PKWARE ZIP 文件格式规范](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
 * [PKZip 文件结构](https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip-printable.html)
-

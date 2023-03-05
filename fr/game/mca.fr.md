@@ -66,7 +66,7 @@ Une fois que vous avez installé MCEdit, vous pouvez ouvrir votre fichier de ré
 
 ## Références
 
-* [Éditeur mondial pour Minecraft] (https://www.mcedit.net/)
-* [À propos de Minecraft] (https://www.minecraft.net/en-us)
-* [Format de fichier de région] (https://minecraft.fandom.com/wiki/Region_file_format)
+* [Éditeur mondial pour Minecraft](https://www.mcedit.net/)
+* [À propos de Minecraft](https://www.minecraft.net/en-us)
+* [Format de fichier de région](https://minecraft.fandom.com/wiki/Region_file_format)
 

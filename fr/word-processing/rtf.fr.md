@@ -129,5 +129,5 @@ Chaque document RTF doit se terminer par un }, pour fermer le groupe ouvert par 
 ## Références ##
 
 * [Spécifications RTF 1.9.1](https://www.microsoft.com/en-us/download/details.aspx?id#10725)
-* [Format de texte enrichi] (https://en.wikipedia.org/wiki/Rich_Text_Format)
+* [Format de texte enrichi](https://en.wikipedia.org/wiki/Rich_Text_Format)
 

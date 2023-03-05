@@ -66,7 +66,7 @@ EndGlobal
 
 ### **Prohlášení o projektu** ###
 
-Soubor řešení může obsahovat více než jednu deklaraci projektů a také různé typy projektů. Jeden soubor řešení může například obsahovat CSharp i projekt VB.NET. Tyto typy se v řešení rozlišují pomocí [Project-Type-GUID] (https://www.codeproject.com/Reference/720512/List-of-Visual-Studio-Project-Type-GUIDs). Výše uvedené prohlášení o projektu lze pro jasné pochopení zobecnit následovně.
+Soubor řešení může obsahovat více než jednu deklaraci projektů a také různé typy projektů. Jeden soubor řešení může například obsahovat CSharp i projekt VB.NET. Tyto typy se v řešení rozlišují pomocí [Project-Type-GUID](https://www.codeproject.com/Reference/720512/List-of-Visual-Studio-Project-Type-GUIDs). Výše uvedené prohlášení o projektu lze pro jasné pochopení zobecnit následovně.
 
 ```
 Project("{Project-Type-GUID}") # "Project-Name", "Project-Path.extension", "{Project-GUID}"

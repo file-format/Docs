@@ -29,5 +29,5 @@ Les fichiers SP3 sont enregistrés sur le disque au format de fichier ASCII et s
 ## Références
 
 * [Le format d'orbite du produit standard étendu 3 (SP3-c)](http://epncb.oma.be/ftp/data/format/sp3c.txt#:~:text=The%20SP3%20format%20is%20similar ,une structure%20plus%20flexible%20d'en-tête%20)
-* [Extending the National Geodetic Survey Standard GPS Orbit Formats] (https://beta.ngs.noaa.gov/PUBS_LIB/Extending_the_NGS_Standard_GPS_Orbit_Formats_TR_NOS133_NGS46.pdf)
+* [Extending the National Geodetic Survey Standard GPS Orbit Formats](https://beta.ngs.noaa.gov/PUBS_LIB/Extending_the_NGS_Standard_GPS_Orbit_Formats_TR_NOS133_NGS46.pdf)
 

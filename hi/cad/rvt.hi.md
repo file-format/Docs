@@ -27,5 +27,5 @@
 
 ## संदर्भ
 
-* [ऑटोडेस्क रेविट] (https://en.wikipedia.org/wiki/Autodesk_Revit)
+* [ऑटोडेस्क रेविट](https://en.wikipedia.org/wiki/Autodesk_Revit)
 

@@ -23,5 +23,5 @@
 
 ## использованная литература
 
-* [DNAML выпускает новое программное обеспечение для преобразования PDF в ePub] (https://www.bookbusinessmag.com/article/dnaml-releases-new-pdf-epub-software-412425/all/)
+* [DNAML выпускает новое программное обеспечение для преобразования PDF в ePub](https://www.bookbusinessmag.com/article/dnaml-releases-new-pdf-epub-software-412425/all/)
 

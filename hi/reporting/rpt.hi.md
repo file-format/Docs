@@ -41,5 +41,5 @@ RPT फ़ाइल स्वरूप का उपयोग क्रिस्
 
 ## संदर्भ ##
 
-- [क्रिस्टल_रिपोर्ट - विकिपीडिया] (https://en.wikipedia.org/wiki/Crystal_Reports)
+- [क्रिस्टल_रिपोर्ट - विकिपीडिया](https://en.wikipedia.org/wiki/Crystal_Reports)
 

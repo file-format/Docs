@@ -24,5 +24,5 @@ Les fichiers SPC sont enregistrés sur le disque sous forme de fichiers binaires
 
 ## Références
 
-* [PKCS 7] (https://en.wikipedia.org/wiki/PKCS_7)
+* [PKCS 7](https://en.wikipedia.org/wiki/PKCS_7)
 * [Référence SSP](https://scalate.github.io/scalate/documentation/ssp-reference.html)

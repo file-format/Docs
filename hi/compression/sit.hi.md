@@ -28,5 +28,5 @@ SIT फ़ाइलें बाइनरी फ़ाइल स्वरूप 
 ## संदर्भ
 
 * [StuffIt - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/StuffIt)
-* [स्टफ इट] (https://stuffit.com/)
+* [स्टफ इट](https://stuffit.com/)
 

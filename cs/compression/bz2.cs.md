@@ -19,11 +19,11 @@
 
 ## Co je soubor BZ2?
 
-BZ2 jsou komprimované soubory generované pomocí [BZIP2] (http://www.bzip.org/) open source kompresní metody, většinou na systému UNIX nebo Linux. Používá se pro kompresi jednoho souboru a není určen pro archivaci více souborů. To je na rozdíl od formátu souboru TAR na stejných platformách, který archivuje více souborů do jednoho souboru, ale bez komprese. Soubory komprimované jako BZ2 lze dekomprimovat pomocí aplikací jako [WinZip] (https://www.winzip.com/win/en/). BZIP2 používá kompresní algoritmus Run-Length Encoding (RLE) nebo [Burrows-Wheeler](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform) k dosažení vysoké úrovně komprese.
+BZ2 jsou komprimované soubory generované pomocí [BZIP2](http://www.bzip.org/) open source kompresní metody, většinou na systému UNIX nebo Linux. Používá se pro kompresi jednoho souboru a není určen pro archivaci více souborů. To je na rozdíl od formátu souboru TAR na stejných platformách, který archivuje více souborů do jednoho souboru, ale bez komprese. Soubory komprimované jako BZ2 lze dekomprimovat pomocí aplikací jako [WinZip](https://www.winzip.com/win/en/). BZIP2 používá kompresní algoritmus Run-Length Encoding (RLE) nebo [Burrows-Wheeler](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform) k dosažení vysoké úrovně komprese.
 
 ## Formát souboru BZ2
 
-Pro tento formát souboru nejsou k dispozici žádné formální specifikace. Neoficiální [reverzně vytvořené specifikace] (https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) však ukazují, že stream .bz2 se skládá ze 4bajtového záhlaví, které následuje o nula nebo více komprimovaných bloků. Bezprostředně za ním následuje značka konce toku obsahující 32bitové CRC pro celý zpracovaný tok ve formátu prostého textu. Mezi komprimovanými bloky není žádná výplň a všechny bloky jsou bitově zarovnány.
+Pro tento formát souboru nejsou k dispozici žádné formální specifikace. Neoficiální [reverzně vytvořené specifikace](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) však ukazují, že stream .bz2 se skládá ze 4bajtového záhlaví, které následuje o nula nebo více komprimovaných bloků. Bezprostředně za ním následuje značka konce toku obsahující 32bitové CRC pro celý zpracovaný tok ve formátu prostého textu. Mezi komprimovanými bloky není žádná výplň a všechny bloky jsou bitově zarovnány.
 
 ## Rozbalte/rozbalte soubor BZ2
 

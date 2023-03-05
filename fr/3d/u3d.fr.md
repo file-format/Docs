@@ -27,7 +27,7 @@ Le format U3D a été développé dans le but d'établir une norme universelle p
 
 Les fichiers U3D sont au format de fichier binaire qui a subi quatre éditions comme décrit par le document de référence [ECMA-363](http://www.ecma-international.org/publications/standards/Ecma-363.htm), entraînant une mise à jour des spécifications à chaque édition. La norme de fichier PDF ISO-32000 accepte U3D comme type d'annotation et multimédia autorisé.
 
-La première édition d'U3D était axée sur les représentations clés des propriétés graphiques 3D telles que la géométrie, la couleur, les textures, l'éclairage, les os et l'animation basée sur la transformation. Les deuxième et troisième éditions ont corrigé certains errata dans la première édition, la troisième version étant le type le plus couramment utilisé dans les logiciels de l'industrie. La quatrième édition fournit des définitions pour les primitives d'ordre supérieur (surfaces courbes). [Les spécifications U3D] (http://www.ecma-international.org/publications/standards/Ecma-363.htm) sont disponibles en ligne pour référence sur le site Web de l'ECMA.
+La première édition d'U3D était axée sur les représentations clés des propriétés graphiques 3D telles que la géométrie, la couleur, les textures, l'éclairage, les os et l'animation basée sur la transformation. Les deuxième et troisième éditions ont corrigé certains errata dans la première édition, la troisième version étant le type le plus couramment utilisé dans les logiciels de l'industrie. La quatrième édition fournit des définitions pour les primitives d'ordre supérieur (surfaces courbes). [Les spécifications U3D](http://www.ecma-international.org/publications/standards/Ecma-363.htm) sont disponibles en ligne pour référence sur le site Web de l'ECMA.
 
 ### Types de données dans les fichiers U3D
 
@@ -69,5 +69,5 @@ Des informations supplémentaires pour les objets déclarés dans un bloc de dé
 ## Références ##
 
 * [Format de fichier U3D - Wikipédia](https://en.wikipedia.org/wiki/Universal_3D)
-* [Spécifications du format de fichier ECMA U3D] (https://www.ecma-international.org/publications/standards/Ecma-363.htm)
+* [Spécifications du format de fichier ECMA U3D](https://www.ecma-international.org/publications/standards/Ecma-363.htm)
 

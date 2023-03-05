@@ -23,7 +23,7 @@ En TCX-fil (Training Center XML) är ett datautbytesformat som används för att
 
 ## TCX-filformat - Mer information
 
-TCX-filer sparas på skiva som XML-filer med varje post sparad som en aktivitet. En aktivitet omfattar all data från ett träningspass, såsom tid, varvtid, ID, puls, intensitet, kadens och spårinformation som innehåller positionsparen tillsammans med tidsstämpeln för den lat-långa positionen som liknar [GPX] (/sv/gis/gpx/) filer.
+TCX-filer sparas på skiva som XML-filer med varje post sparad som en aktivitet. En aktivitet omfattar all data från ett träningspass, såsom tid, varvtid, ID, puls, intensitet, kadens och spårinformation som innehåller positionsparen tillsammans med tidsstämpeln för den lat-långa positionen som liknar [GPX](/sv/gis/gpx/) filer.
 
 ### TCX-filformatsversioner
 

@@ -34,7 +34,7 @@ De plus, les fichiers TS sont utilisés car le système de diffusion n'a pas bes
 
 ## Comment lire des fichiers TS ?
 
-Eh bien, les fichiers TS peuvent être ouverts et lus dans le populaire [lecteur multimédia VideoLAN VLC] (https://www.videolan.org/vlc/features.html) qui est disponible gratuitement en téléchargement.
+Eh bien, les fichiers TS peuvent être ouverts et lus dans le populaire [lecteur multimédia VideoLAN VLC](https://www.videolan.org/vlc/features.html) qui est disponible gratuitement en téléchargement.
 
 ## Références ##
 

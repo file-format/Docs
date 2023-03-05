@@ -45,5 +45,5 @@
 
 ## Использованная литература ##
 
-* [История XHTML: с 1990-х до наших дней] (https://www.brighthub.com/internet/web-development/articles/109224.aspx)
+* [История XHTML: с 1990-х до наших дней](https://www.brighthub.com/internet/web-development/articles/109224.aspx)
 

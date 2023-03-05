@@ -47,5 +47,5 @@ Iterando fragmentos, hasta que se detecte un fragmento de tipo desconocido, se c
 ## Referencias ##
 
 * [MPEG-4 Parte 14 - Por Wikipedia](https://en.wikipedia.org/wiki/MPEG-4_Part_14)
-* [Ejemplo de formato y recuperación de audio MPEG-4 Parte 14 (M4A, M4B, M4P)] (https://www.file-recovery.com/m4a-signature-format.htm)
+* [Ejemplo de formato y recuperación de audio MPEG-4 Parte 14 (M4A, M4B, M4P)](https://www.file-recovery.com/m4a-signature-format.htm)
 

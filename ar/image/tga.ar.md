@@ -102,6 +102,6 @@
 
 ## مراجع
 
-* [مواصفات تنسيق ملف TGA 2.0] (https://products.conholdate.app/viewer/view/rVqTeZPLAL/tga-file-format-specifications.pdf؟default=view&preview = true.pdf)
-* [TGA by Wikipedia] (https://en.wikipedia.org/wiki/Truevision_TGA)
+* [مواصفات تنسيق ملف TGA 2.0](https://products.conholdate.app/viewer/view/rVqTeZPLAL/tga-file-format-specifications.pdf؟default=view&preview = true.pdf)
+* [TGA by Wikipedia](https://en.wikipedia.org/wiki/Truevision_TGA)
 

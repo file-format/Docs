@@ -26,5 +26,5 @@ ESPROJ-Dateien werden als Binärdateien gespeichert und ihr Inhalt ist nicht les
 
 ## Verweise
 
-* [Adobe Edge] (https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
 

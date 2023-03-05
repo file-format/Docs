@@ -22,7 +22,7 @@ Plik GNE to strona internetowa, która jest generowana dynamicznie i używana pr
 
 ## Format pliku GNE — więcej informacji
 
-Pliki GNE były używane przez grę komputerową Game Never Ending, opracowaną przez [Ludicorp] (https://en.wikipedia.org/wiki/Ludicorp). Flicker został później przejęty przez Yahoo! w marcu 2005 r.
+Pliki GNE były używane przez grę komputerową Game Never Ending, opracowaną przez [Ludicorp](https://en.wikipedia.org/wiki/Ludicorp). Flicker został później przejęty przez Yahoo! w marcu 2005 r.
 
 ## Bibliografia
 

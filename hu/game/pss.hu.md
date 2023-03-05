@@ -20,7 +20,7 @@
 
 ## Mi az a PSS fájl?
 
-A .pss kiterjesztésű fájl egy Sony PlayStation 2 játékvideó fájl, és a játékok hang- és videóadatainak tárolására szolgál a Playstation 2 konzolon. Ezek a videó- és hangadatok valójában vágójelenetek, amelyeket ingyenes segédprogramok segítségével ki lehet bontani a PSS-fájlokból. Az egyik ilyen segédprogram a [RipBot] (http://forum.doom9.org/showthread.php?t=127611), amelyet a Delphiben fejlesztettek ki a PSS-fájl tartalmának kinyerésére. A PSS-fájlokból származó adatok feloszthatók [MPEG2](/hu/video/mpg/) video- és [WAV](/hu/audio/wav/) audiokomponensekre, és konvertálhatók különböző audio- és videofájlformátumokká. A PSS-fájlok megnyithatók olyan alkalmazásokkal, mint a VideoLAN VLC médialejátszó, a PSS Plex és a PSS Player.
+A .pss kiterjesztésű fájl egy Sony PlayStation 2 játékvideó fájl, és a játékok hang- és videóadatainak tárolására szolgál a Playstation 2 konzolon. Ezek a videó- és hangadatok valójában vágójelenetek, amelyeket ingyenes segédprogramok segítségével ki lehet bontani a PSS-fájlokból. Az egyik ilyen segédprogram a [RipBot](http://forum.doom9.org/showthread.php?t=127611), amelyet a Delphiben fejlesztettek ki a PSS-fájl tartalmának kinyerésére. A PSS-fájlokból származó adatok feloszthatók [MPEG2](/hu/video/mpg/) video- és [WAV](/hu/audio/wav/) audiokomponensekre, és konvertálhatók különböző audio- és videofájlformátumokká. A PSS-fájlok megnyithatók olyan alkalmazásokkal, mint a VideoLAN VLC médialejátszó, a PSS Plex és a PSS Player.
 
 ## PSS fájlformátum - További információ
 

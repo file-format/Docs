@@ -23,7 +23,7 @@ Plik z rozszerzeniem .ots to plik szablonu arkusza kalkulacyjnego OpenDocument, 
 
 ## Format pliku OTS
 
-Pliki OTS są zapisywane w formacie pliku OASIS OpenDocument opartym na XML, który składa się z kolekcji kilku dokumentów podrzędnych z pakietem jako archiwum [ZIP] (/pl/compression/zip/). Każde archiwum zip przechowuje część całego dokumentu, a każdy dokument podrzędny przechowuje określony aspekt dokumentu. Na przykład jeden dokument podrzędny zawiera informacje o stylu, a inny dokument podrzędny zawiera treść dokumentu. Typowy dokument ODF składa się z następujących elementów:
+Pliki OTS są zapisywane w formacie pliku OASIS OpenDocument opartym na XML, który składa się z kolekcji kilku dokumentów podrzędnych z pakietem jako archiwum [ZIP](/pl/compression/zip/). Każde archiwum zip przechowuje część całego dokumentu, a każdy dokument podrzędny przechowuje określony aspekt dokumentu. Na przykład jeden dokument podrzędny zawiera informacje o stylu, a inny dokument podrzędny zawiera treść dokumentu. Typowy dokument ODF składa się z następujących elementów:
 
 ### Treść OTS.xml
 

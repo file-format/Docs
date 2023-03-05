@@ -91,5 +91,5 @@ RAR सिग्नेचर एक 8-बाइट हेडर है जिस
 ## संदर्भ
 
 * [आरएआर 5.0 संग्रह प्रारूप](https://www.rarlab.com/technote.htm)
-* [आरएआर - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/RAR_(file_format))
+* [आरएआर - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/RAR_(file_format))
 

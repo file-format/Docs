@@ -18,7 +18,7 @@
 
 ## ما هو ملف ZIPX؟
 
-ملف ZIPX هو نسخة موسعة من ملف ZIP القياسي الذي تم ضغطه باستخدام إصدار متقدم من الضغط. تم تطوير طريقة الضغط المتقدمة هذه بواسطة CorelWinZip التي تضغط جميع الملفات باستخدام تنسيق ZIPX الممتد. ملفات ZIPX أصغر حجمًا من [تنسيق ملف ZIP] (/ar/ ضغط / zip /) وتجعل نقل البيانات عبر الإنترنت أكثر كفاءة. تتطلب ملفات ZIPX تثبيت WinZip على النظام لفتحها.
+ملف ZIPX هو نسخة موسعة من ملف ZIP القياسي الذي تم ضغطه باستخدام إصدار متقدم من الضغط. تم تطوير طريقة الضغط المتقدمة هذه بواسطة CorelWinZip التي تضغط جميع الملفات باستخدام تنسيق ZIPX الممتد. ملفات ZIPX أصغر حجمًا من [تنسيق ملف ZIP](/ar/ ضغط / zip /) وتجعل نقل البيانات عبر الإنترنت أكثر كفاءة. تتطلب ملفات ZIPX تثبيت WinZip على النظام لفتحها.
 
 ## تنسيق ملف ZIPX
 
@@ -34,6 +34,6 @@
 
 ## مراجع
 
-* [تنسيق ملف ZIPX] (https://kb.corel.com/en/125951)
-* [كيفية استخراج ملفات ZIPX] (https://answers.microsoft.com/en-us/windows/forum/all/i-want-to-extract-zipx-files/32827ca4-ceec-4faf-93d9-d9ecffb1fb41 )
+* [تنسيق ملف ZIPX](https://kb.corel.com/en/125951)
+* [كيفية استخراج ملفات ZIPX](https://answers.microsoft.com/en-us/windows/forum/all/i-want-to-extract-zipx-files/32827ca4-ceec-4faf-93d9-d9ecffb1fb41 )
 

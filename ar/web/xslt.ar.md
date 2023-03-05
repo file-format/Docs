@@ -62,5 +62,5 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 ```
 ## مراجع ##
 
-* [XSLT - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/XSLT)
-* [عناصر XSLT] (https://en.wikipedia.org/wiki/XSLT_elements)
+* [XSLT - بواسطة Wikipedia](https://en.wikipedia.org/wiki/XSLT)
+* [عناصر XSLT](https://en.wikipedia.org/wiki/XSLT_elements)

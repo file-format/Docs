@@ -28,10 +28,10 @@
 
 ## حول برنامج OriginLab Origin
 
-يوفر برنامج Origin أيضًا خيارًا لاستخدامه كخادم أتمتة. في مثل هذه الحالة ، يمكن لتطبيقات العميل مثل LabVIEW أو Microsoft Excel أو Python أو التطبيقات المطورة خصيصًا في C # / VB / VC تبادل البيانات مع Origin. [Python_to_OriginLab] (https://github.com/jsbangsund/python_to_originlab) هي واجهة برمجة تطبيقات Python لأتمتة إرسال البيانات ووظائف التخطيط الأساسية في OriginLab.
+يوفر برنامج Origin أيضًا خيارًا لاستخدامه كخادم أتمتة. في مثل هذه الحالة ، يمكن لتطبيقات العميل مثل LabVIEW أو Microsoft Excel أو Python أو التطبيقات المطورة خصيصًا في C # / VB / VC تبادل البيانات مع Origin. [Python_to_OriginLab](https://github.com/jsbangsund/python_to_originlab) هي واجهة برمجة تطبيقات Python لأتمتة إرسال البيانات ووظائف التخطيط الأساسية في OriginLab.
 
 ## مراجع
 
-* [OriginLab] (https://www.originlab.com/)
-* [Python API for OriginLab] (https://github.com/jsbangsund/python_to_originlab)
+* [OriginLab](https://www.originlab.com/)
+* [Python API for OriginLab](https://github.com/jsbangsund/python_to_originlab)
 

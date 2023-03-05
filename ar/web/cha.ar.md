@@ -28,5 +28,5 @@
 
 ## مراجع
 
-* [مساعدة mIRC] (https://www.mirc.com/help/html/index.html؟dcc.html)
+* [مساعدة mIRC](https://www.mirc.com/help/html/index.html؟dcc.html)
 

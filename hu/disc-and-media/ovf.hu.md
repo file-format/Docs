@@ -19,7 +19,7 @@
 
 ## Mi az OVF fájl?
 
-Az OVF-fájl egy szöveges fájl, amely egy virtuális gépen futó szoftver csomagolásáról és terjesztéséről tartalmaz információkat. Az [Open Virtualization Standard Specifications] (https://www.dmtf.org/standards/ovf) szerint van formázva, amely leírja az alkalmazások virtuális gépeken való futtatásához szükséges összes követelményt (például biztonság, hordozhatóság, hatékonyság és bővíthetőség). A Nemzetközi Szabványügyi Szervezet (ISO) az OVF-et ISO 17203 szabványként fogadta el.
+Az OVF-fájl egy szöveges fájl, amely egy virtuális gépen futó szoftver csomagolásáról és terjesztéséről tartalmaz információkat. Az [Open Virtualization Standard Specifications](https://www.dmtf.org/standards/ovf) szerint van formázva, amely leírja az alkalmazások virtuális gépeken való futtatásához szükséges összes követelményt (például biztonság, hordozhatóság, hatékonyság és bővíthetőség). A Nemzetközi Szabványügyi Szervezet (ISO) az OVF-et ISO 17203 szabványként fogadta el.
 
 ## Az OVF fájlformátum rövid története
 

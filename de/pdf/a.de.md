@@ -53,7 +53,7 @@ PDF/A-2 wurde im Juli 2011 vom ISO-Standard als neuer Standard namens ISO 32001-
 
 ## PDF/A-3 ##
 
-PDF/A-3 enthält alle Konformitätsanforderungen von Level 2 und ermöglicht die Einbettung zusätzlicher Dateiformate (wie XML, [CSV](/de/spreadsheet/csv/), [CAD](/de/cad/), [Textverarbeitung] (/de/word-processing/) , [spreadsheet](/de/spreadsheet/) und andere) in die PDF/A-konformen Dokumente.
+PDF/A-3 enthält alle Konformitätsanforderungen von Level 2 und ermöglicht die Einbettung zusätzlicher Dateiformate (wie XML, [CSV](/de/spreadsheet/csv/), [CAD](/de/cad/), [Textverarbeitung](/de/word-processing/) , [spreadsheet](/de/spreadsheet/) und andere) in die PDF/A-konformen Dokumente.
 
 ## Verweise ##
 

@@ -58,7 +58,7 @@ Rubriken börjar med ett 4-byte magiskt ord **!BDN** representerat av byte (0x21
 |bidNextP (Unicode: 8 byte; ANSI: 4 byte)|Nästa sida BID. Sidor har en speciell räknare för att tilldela bidIndex-värden. Värdet på bidIndex för BID för sidor tilldelas från denna räknare.
 |bidNextB (endast 4 byte ANSI): |Next BID. Detta värde är den monotona räknaren som indikerar det BID som ska tilldelas för nästa allokerade block. BID-värden ökar i steg om 4. För mer information, se avsnitt 2.2.2.2.
 |dwUnique (4 bytes)|Detta är ett monotont ökande värde som ändras varje gång PST-filens HEADER-struktur ändras. Funktionen för detta värde är att tillhandahålla ett unikt värde och att säkerställa att HEADERS CRC:erna är olika efter varje rubrikändring.
-|rgnid[] (128 byte)|En fast array med 32 NID, var och en motsvarar en av de 32 möjliga NID_TYPE:erna (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE,NID_MESSAGE)_ASS_MESSAGE)
+|rgnid[](128 byte)|En fast array med 32 NID, var och en motsvarar en av de 32 möjliga NID_TYPE:erna (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE,NID_MESSAGE)_ASS_MESSAGE)
 |qwUnused (8 byte)|Oanvänt utrymme; MÅSTE sättas till noll. Endast Unicode PST-filformat.
 |root (Unicode: 72 byte; ANSI: 40 byte)|En ROOT-struktur (avsnitt 2.2.2.5).
 |dwAlign (4 byte)|Oanvända justeringsbyte; MÅSTE sättas till noll. Endast Unicode PST-filformat.

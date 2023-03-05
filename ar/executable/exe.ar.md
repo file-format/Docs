@@ -55,6 +55,6 @@
 
 ## مراجع
 
-* [.exe- بواسطة Wikipewdia] (https://en.wikipedia.org/wiki/.exe)
-* [x86 Disassembly / Windows Executable Files] (https://en.wikibooks.org/wiki/X86_Disassembly/Windows_Executable_Files#MS-DOS_EXE_Files)
+* [.exe- بواسطة Wikipewdia](https://en.wikipedia.org/wiki/.exe)
+* [x86 Disassembly / Windows Executable Files](https://en.wikibooks.org/wiki/X86_Disassembly/Windows_Executable_Files#MS-DOS_EXE_Files)
 

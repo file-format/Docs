@@ -43,5 +43,5 @@ SSP फाइलें सादे पाठ फ़ाइल में सह�
 
 ## संदर्भ
 
-- [एसएसपी संदर्भ] (https://scalate.github.io/scalate/documentation/ssp-reference.html)
+- [एसएसपी संदर्भ](https://scalate.github.io/scalate/documentation/ssp-reference.html)
 

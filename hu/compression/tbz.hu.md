@@ -23,7 +23,7 @@ A .tbz kiterjesztésű fájl olyan tömörített archívum, amely BZIP-tömörí
 
 ## TBZ fájlformátum
 
-A TBZ-fájlok valójában BZIP/[BZIP2](/hu/compression/bz2) tömörítéssel létrehozott tömörített archívumok. Ehhez a fájlformátumhoz nem állnak rendelkezésre hivatalos előírások. Egy nem hivatalos [reverse engineered specifikáció] (https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) azonban azt mutatja, hogy a .bz2 adatfolyam egy 4 bájtos fejlécből áll, amelyet követnek nulla vagy több tömörített blokk által.
+A TBZ-fájlok valójában BZIP/[BZIP2](/hu/compression/bz2) tömörítéssel létrehozott tömörített archívumok. Ehhez a fájlformátumhoz nem állnak rendelkezésre hivatalos előírások. Egy nem hivatalos [reverse engineered specifikáció](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) azonban azt mutatja, hogy a .bz2 adatfolyam egy 4 bájtos fejlécből áll, amelyet követnek nulla vagy több tömörített blokk által.
 
 ## Referenciák ##
 

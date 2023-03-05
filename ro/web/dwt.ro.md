@@ -25,7 +25,7 @@ Un fișier cu extensia .dwt este un fișier șablon de pagină web creat cu soft
 
 Fișierele DWT sunt dezvoltate și salvate ca fișiere text simplu. Acestea pot fi deschise în Dreamweaver sau în orice editor de text și pot fi editate pentru modificările necesare. Software-ul Dreamweaver actualizează interfața de utilizare pe măsură ce modificările sunt aplicate, iar utilizatorul poate observa efectul modificărilor vizual în interfața de utilizator a aplicației.
 
-Ori de câte ori salvați pagina [HTML] (/ro/ web / html /) ca fișier șablon, Dreamweaver creează un folder șablon la nivelul rădăcină al folderului rădăcină local. Legătura este întreruptă dacă fișierul .dwt este mutat din folderul Șabloane sau este redenumit. Astfel, este important să păstrați fișierele .dwt în folderul Șabloane unde Dreamweaver le creează. Este mai bine să păstrați alte elemente ale site-ului dvs., cum ar fi fișierele sursă imagine sau documentele HTML, într-o altă locație decât folderul Șabloane.
+Ori de câte ori salvați pagina [HTML](/ro/ web / html /) ca fișier șablon, Dreamweaver creează un folder șablon la nivelul rădăcină al folderului rădăcină local. Legătura este întreruptă dacă fișierul .dwt este mutat din folderul Șabloane sau este redenumit. Astfel, este important să păstrați fișierele .dwt în folderul Șabloane unde Dreamweaver le creează. Este mai bine să păstrați alte elemente ale site-ului dvs., cum ar fi fișierele sursă imagine sau documentele HTML, într-o altă locație decât folderul Șabloane.
 
 ## Despre Dreamweaver
 

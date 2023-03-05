@@ -23,11 +23,11 @@ Eine ASC-Datei ist eine **Skriptdatei**, die in der Programmiersprache ActionScr
 
 ## ASC-Dateiformat – Weitere Informationen
 
-ASC-Dateien werden als Textdateien gespeichert, die mit [Adobe Media Encoder] (https://www.adobe.com/products/media-encoder.html) geöffnet und bearbeitet werden können. Diese werden als Textdateien erstellt und gespeichert und können mit jedem Texteditor wie Microsoft Notepad, Notepad++ und Apple TextEdit geöffnet werden. Die ASC-Datei wird standardmäßig ausgeführt, wenn Flash Media Server ausgeführt wird und eine Anwendung.
+ASC-Dateien werden als Textdateien gespeichert, die mit [Adobe Media Encoder](https://www.adobe.com/products/media-encoder.html) geöffnet und bearbeitet werden können. Diese werden als Textdateien erstellt und gespeichert und können mit jedem Texteditor wie Microsoft Notepad, Notepad++ und Apple TextEdit geöffnet werden. Die ASC-Datei wird standardmäßig ausgeführt, wenn Flash Media Server ausgeführt wird und eine Anwendung.
 
 
 ## Bezug ##
 
 * [.swf-Dateiformat](/de/page-description-language/swf/)
-* [Adobe Media Encoder] (https://www.adobe.com/products/media-encoder.html)
+* [Adobe Media Encoder](https://www.adobe.com/products/media-encoder.html)
 

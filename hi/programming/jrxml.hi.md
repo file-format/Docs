@@ -165,6 +165,6 @@ JRXML फ़ाइलें सादा पाठ फ़ाइलें है�
 
 ## संदर्भ
 
-* [जेआरएक्सएमएल - विकिपीडिया] (https://en.wikipedia.org/wiki/JasperReports#JRXML)
-* [जेआरएक्सएमएल स्रोत और जैस्पर फ़ाइलें] (https://community.jaspersoft.com/documentation/tibco-jaspersoft-studio-user-guide/v630/jrxml-sources-and-jasper-files)
+* [जेआरएक्सएमएल - विकिपीडिया](https://en.wikipedia.org/wiki/JasperReports#JRXML)
+* [जेआरएक्सएमएल स्रोत और जैस्पर फ़ाइलें](https://community.jaspersoft.com/documentation/tibco-jaspersoft-studio-user-guide/v630/jrxml-sources-and-jasper-files)
 

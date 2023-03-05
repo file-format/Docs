@@ -61,5 +61,5 @@ RDL (язык определения отчетов) — это эталон, у
 ## Использованная литература ##
 
 - [Язык определения отчета (Википедия)](https://en.wikipedia.org/wiki/Report_Definition_Language)
-- [Язык определения отчетов (SSRS)] (https://docs.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
+- [Язык определения отчетов (SSRS)](https://docs.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
 

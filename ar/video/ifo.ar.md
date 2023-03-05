@@ -26,10 +26,10 @@
 
 يتم حفظ ملفات IFO كملفات نصية ويمكن فتحها باستخدام أي محرر نصوص مثل Microsoft Notepad ++ و Notepad و Apple TextEdit. تخبر الرؤوس الموجودة في ملف IFO مشغلات DVD عن شاشة البداية وموقع كل مسار فيديو على القرص وموقع مسارات الصوت والمعلومات الأخرى ذات الصلة.
 
-يمكن أن تتلف ملفات IFO إذا تعرض قرص DVD للخدوش. لهذا السبب يتم إنشاء ملف BUP كنسخة احتياطية من ملف IFO. في حالة تعذر قراءة ملف IFO ، تتم قراءة ملف BUP بدلاً من ذلك. توجد هذه الملفات جنبًا إلى جنب مع ملف [VOB] (https://docs.fileformat.com/video/vob/) الذي يحتوي على فهرس للمحتويات على القرص.
+يمكن أن تتلف ملفات IFO إذا تعرض قرص DVD للخدوش. لهذا السبب يتم إنشاء ملف BUP كنسخة احتياطية من ملف IFO. في حالة تعذر قراءة ملف IFO ، تتم قراءة ملف BUP بدلاً من ذلك. توجد هذه الملفات جنبًا إلى جنب مع ملف [VOB](https://docs.fileformat.com/video/vob/) الذي يحتوي على فهرس للمحتويات على القرص.
 
 ## مراجع
 
-* [VobSub] (https://www.videohelp.com/software/VobSub)
-* [ملفات فيديو DVD- داخلية] (https://en.wikibooks.org/wiki/Inside_DVD-Video/IFO_Files)
+* [VobSub](https://www.videohelp.com/software/VobSub)
+* [ملفات فيديو DVD- داخلية](https://en.wikibooks.org/wiki/Inside_DVD-Video/IFO_Files)
 

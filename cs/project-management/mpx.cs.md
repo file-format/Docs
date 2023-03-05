@@ -25,7 +25,7 @@ Microsoft Project 4.0 zavedl podporu pro vytváření a čtení formátů soubor
 
 ## MPX formát souboru ##
 
-Přehled specifikací souborů MPX je uveden v této části. Kompletní specifikace naleznete v této [Knowledge Base] (https://support.microsoft.com/en-us/office/file-formats-supported-by-project-desktop-face808f-77ab-4fce-9353-14144ba1b9ae) článek a lze na něj odkazovat podrobnosti.
+Přehled specifikací souborů MPX je uveden v této části. Kompletní specifikace naleznete v této [Knowledge Base](https://support.microsoft.com/en-us/office/file-formats-supported-by-project-desktop-face808f-77ab-4fce-9353-14144ba1b9ae) článek a lze na něj odkazovat podrobnosti.
 
 ### Záznamy ###
 

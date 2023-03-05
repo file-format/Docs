@@ -19,7 +19,7 @@
 
 ## Was ist eine ZL-Datei?
 
-Eine Datei mit der Erweiterung .zl ist ein ZLIP-komprimiertes Dateiformat, das eine Variante des DEFLATE-Komprimierungsalgorithmus zum Komprimieren von Dateien verwendet. Es ist unabhängig von CPU-Typ, Betriebssystem, Dateisystem und Zeichensatz und kann daher zum Austausch von Informationen verwendet werden. Technische Spezifikationen der ZLIP-Komprimierung sind auf der [IETF-Website] (https://tools.ietf.org/html/rfc1950) verfügbar und können aus Entwicklersicht herangezogen werden.
+Eine Datei mit der Erweiterung .zl ist ein ZLIP-komprimiertes Dateiformat, das eine Variante des DEFLATE-Komprimierungsalgorithmus zum Komprimieren von Dateien verwendet. Es ist unabhängig von CPU-Typ, Betriebssystem, Dateisystem und Zeichensatz und kann daher zum Austausch von Informationen verwendet werden. Technische Spezifikationen der ZLIP-Komprimierung sind auf der [IETF-Website](https://tools.ietf.org/html/rfc1950) verfügbar und können aus Entwicklersicht herangezogen werden.
 
 ## ZL-Dateiformat
 

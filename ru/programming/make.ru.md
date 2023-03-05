@@ -38,6 +38,6 @@ hello world
 ```
 
 ## использованная литература
-* [XCode и Make — форумы Apple] (https://developer.apple.com/forums/thread/657458)
-* [Руководство по Object-C] (https://blog.teamtreehouse.com/beginners-guide-objective-c-classes-objects)
+* [XCode и Make — форумы Apple](https://developer.apple.com/forums/thread/657458)
+* [Руководство по Object-C](https://blog.teamtreehouse.com/beginners-guide-objective-c-classes-objects)
 

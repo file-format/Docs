@@ -70,6 +70,6 @@ XSL-FO (XSL Formatting Objects) هي لغة أنماط فعالة لتنسيق �
 
 ## مراجع ##
 
-* [ما هو XSL-FO؟] (https://www.xml.com/articles/2017/01/01/what-is-xsl-fo/)
-* [كائنات تنسيق XSL] (https://en.wikipedia.org/wiki/XSL_Formatting_Objects)
+* [ما هو XSL-FO؟](https://www.xml.com/articles/2017/01/01/what-is-xsl-fo/)
+* [كائنات تنسيق XSL](https://en.wikipedia.org/wiki/XSL_Formatting_Objects)
 

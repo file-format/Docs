@@ -56,6 +56,6 @@ Chaque descripteur de volume a une taille de 2048 octets et a la structure suiva
 ## Références
 
 * [Image de disque optique - Wikipédia](https://en.wikipedia.org/wiki/Optical_disc_image)
-* [Signatures de fichiers] (https://www.garykessler.net/library/file_sigs.html)
+* [Signatures de fichiers](https://www.garykessler.net/library/file_sigs.html)
 * [ISO 9660 - Wikipédia](https://en.wikipedia.org/wiki/ISO_9660)
 

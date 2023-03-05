@@ -37,5 +37,5 @@
 
 ## مراجع
 
-* [Get Qt] (https://www.qt.io/download)
+* [Get Qt](https://www.qt.io/download)
 

@@ -69,5 +69,5 @@ long some_function();
 
 ## **Referencias** ##
 
-* [Implementación de clase: por Wikipedia] (https://en.wikipedia.org/wiki/Class_implementation_file)
+* [Implementación de clase: por Wikipedia](https://en.wikipedia.org/wiki/Class_implementation_file)
 

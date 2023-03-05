@@ -64,5 +64,5 @@ abcFile
 
 ## Referencias
 
-* [ABC robusto (código de bytes de ActionScript) [Des] ensamblador - Github] (https://github.com/CyberShadow/RABCDAsm)
+* [ABC robusto (código de bytes de ActionScript) [Des] ensamblador - Github](https://github.com/CyberShadow/RABCDAsm)
 

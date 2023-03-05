@@ -36,6 +36,6 @@ Xaml सूचना सेट (संक्षिप्त में 'Xaml Info
 
 ## संदर्भ
 
-* [XAML - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language)
+* [XAML - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language)
 * [XAML फ़ाइल स्वरूप निर्दिष्टीकरण](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf)
 

@@ -32,5 +32,5 @@ OTP फ़ाइल स्वरूप OpenDocument मानक पर आध�
 
 ## संदर्भ
 
-* [OpenDocument - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/OpenDocument)
+* [OpenDocument - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/OpenDocument)
 

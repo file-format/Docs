@@ -58,7 +58,7 @@ OST או קבצי אחסון לא מקוונים מייצגים את נתוני 
 |bidNextP (Unicode: 8 בתים; ANSI: 4 בתים)| BID בעמוד הבא. לדפים יש מונה מיוחד להקצאת ערכי bidIndex. הערך של bidIndex עבור הצעות מחיר עבור דפים מוקצה ממונה זה.
 |bidNextB (4 בתים ANSI בלבד): |BID הבא. ערך זה הוא המונה המונוטוני המציין את ה-BID שיש להקצות לבלוק המוקצה הבא. ערכי BID מתקדמים במרווחים של 4. לפרטים נוספים, ראה סעיף 2.2.2.2.
 |dwUnique (4 בתים)|זהו ערך מונוטוני שעולה בשינוי בכל פעם שמבנה HEADER של קובץ ה-PST משתנה. תפקידו של ערך זה הוא לספק ערך ייחודי, ולהבטיח ש-HEADER CRCs שונים לאחר כל שינוי כותרת.
-|rgnid[] (128 בתים)|מערך קבוע של 32 NIDs, כל אחד מתאים לאחד מ-32 ה-NID_TYPEs האפשריים (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE,NID_MESSAGE)_ASS_MESSAGE)
+|rgnid[](128 בתים)|מערך קבוע של 32 NIDs, כל אחד מתאים לאחד מ-32 ה-NID_TYPEs האפשריים (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE,NID_MESSAGE)_ASS_MESSAGE)
 |qwUnused (8 בתים)|שטח לא בשימוש; חייב להיות מוגדר לאפס. פורמט קובץ PST של Unicode בלבד.
 |root (Unicode: 72 בתים; ANSI: 40 בתים)|מבנה ROOT (סעיף 2.2.2.5).
 |dwAlign (4 בתים)|בתי יישור שאינם בשימוש; חייב להיות מוגדר לאפס. פורמט קובץ PST של Unicode בלבד.

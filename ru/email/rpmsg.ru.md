@@ -26,5 +26,5 @@
 
 ## использованная литература
 
-* [Microsoft Outlook] (https://outlook.live.com/owa/)
+* [Microsoft Outlook](https://outlook.live.com/owa/)
 

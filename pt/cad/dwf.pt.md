@@ -31,7 +31,7 @@ DWF é um formato aberto e seguro projetado especificamente para compartilhar da
 
 **Arquivos de metadados DWF** – arquivos XML que contêm informações relativas a metadados e estrutura (autor, título, tempo de criação, dependências de seção, ordenação de seção, descrições de arquivo de recurso, funções, mimetypes, etc.) e pertencentes à seção (página informações, metadados de projeto, etc.). Os metadados estruturais são usados para criar objetos lógicos (coleções de arquivos para representar uma parte ou página, etc.).
 
-**Arquivos de recursos** – mídia ou outros arquivos de conteúdo que são referenciados nos metadados do pacote/seção e geralmente são apresentações de dados de design em vários formatos (ZGL, W2D, [JPG](/pt/image/jpeg/), [PNG] (/pt/image/png/), AVI, XML, [TXT](/pt/word-processing/txt/), [DOC](/pt/word-processing/doc/), etc.)
+**Arquivos de recursos** – mídia ou outros arquivos de conteúdo que são referenciados nos metadados do pacote/seção e geralmente são apresentações de dados de design em vários formatos (ZGL, W2D, [JPG](/pt/image/jpeg/), [PNG](/pt/image/png/), AVI, XML, [TXT](/pt/word-processing/txt/), [DOC](/pt/word-processing/doc/), etc.)
 
 ### Detalhes do formato de arquivo ###
 

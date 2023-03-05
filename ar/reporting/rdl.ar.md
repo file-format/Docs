@@ -60,6 +60,6 @@ RDL (لغة تعريف التقرير) هي معيار معياري وضعته M
 
 ## مراجع ##
 
-- [لغة تعريف التقرير (ويكيبيديا)] (https://en.wikipedia.org/wiki/Report_Definition_Language)
-- [لغة تعريف التقرير (SSRS)] (https://docs.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
+- [لغة تعريف التقرير (ويكيبيديا)](https://en.wikipedia.org/wiki/Report_Definition_Language)
+- [لغة تعريف التقرير (SSRS)](https://docs.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
 

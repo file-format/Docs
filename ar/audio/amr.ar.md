@@ -67,6 +67,6 @@ AMR (Adaptive Multi-Rate) هو تنسيق صوتي ؛ تستخدم على نطا
 
 ## مراجع ##
 
-* [برنامج ترميز الصوت التكيفي متعدد المعدلات - بواسطة ويكيبيديا] (https://en.wikipedia.org/wiki/Adaptive_Multi-Rate_audio_codec)
-* [RTP Payload Format and File Storage Format for AMR و AMR-WB Audio codecs] (https://tools.ietf.org/html/rfc4867#page-35)
+* [برنامج ترميز الصوت التكيفي متعدد المعدلات - بواسطة ويكيبيديا](https://en.wikipedia.org/wiki/Adaptive_Multi-Rate_audio_codec)
+* [RTP Payload Format and File Storage Format for AMR و AMR-WB Audio codecs](https://tools.ietf.org/html/rfc4867#page-35)
 

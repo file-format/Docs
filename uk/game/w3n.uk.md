@@ -40,5 +40,5 @@
 ## Список літератури
 
 * [Warcraft III: The Frozen Throne](https://en.wikipedia.org/wiki/Warcraft_III:_The_Frozen_Throne)
-* [Огляд Warcraft III: The Frozen Throne] (https://web.archive.org/web/20110719200624/http://www.gamespot.com/pc/strategy/warcraft3thefrozenthrone/review.html)
+* [Огляд Warcraft III: The Frozen Throne](https://web.archive.org/web/20110719200624/http://www.gamespot.com/pc/strategy/warcraft3thefrozenthrone/review.html)
 

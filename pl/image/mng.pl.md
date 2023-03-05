@@ -44,5 +44,5 @@ Ramka MNG składa się z dwuwymiarowego obrazu mniejszych obrazów. Dostęp do k
 ## Bibliografia ##
 
 * [MNG](http://www.libpng.org/pub/mng/)
-* [Format MNG v 1.0] (http://www.libpng.org/pub/mng/spec/)
+* [Format MNG v 1.0](http://www.libpng.org/pub/mng/spec/)
 

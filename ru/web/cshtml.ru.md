@@ -66,5 +66,5 @@ End Code
 
 ## использованная литература
 
-* [Справочник по синтаксису Razor — Microsoft] (https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0)
+* [Справочник по синтаксису Razor — Microsoft](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0)
 

@@ -56,6 +56,6 @@ Avec le GIF déjà en place et utilisé sur une longue période, vous vous deman
 
 ## Références
 
-* [Format de fichier APNG] (https://en.wikipedia.org/wiki/APNG)
+* [Format de fichier APNG](https://en.wikipedia.org/wiki/APNG)
 * [Spécifications officielles du format PNG](https://www.w3.org/TR/PNG/)
 

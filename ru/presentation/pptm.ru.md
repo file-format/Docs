@@ -80,6 +80,6 @@ r:id#"rId2" ссылается на следующую связь в части 
 
 ## Использованная литература ##
 
-* [[MS-PPTX] — формат файла PPTX] (https://msdn.microsoft.com/en-us/library/dd926741(v#office.12).aspx)
-* [Open Office XML] (http://officeopenxml.com/anatomyofOOXML-pptx.php)
+* [[MS-PPTX] — формат файла PPTX](https://msdn.microsoft.com/en-us/library/dd926741(v#office.12).aspx)
+* [Open Office XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
 

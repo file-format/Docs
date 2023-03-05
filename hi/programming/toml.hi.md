@@ -107,6 +107,6 @@ local_date_time = 1979-05-27T07:32:00
 
 ## संदर्भ ##
 
-- [टीओएमएल - विकिपीडिया] (https://en.wikipedia.org/wiki/TOML)
+- [टीओएमएल - विकिपीडिया](https://en.wikipedia.org/wiki/TOML)
 - [टीओएमएल](https://toml.io/en/)
 

@@ -95,5 +95,5 @@ use_anonymous = True
 
 * [लिनक्स कॉन्फ़िगरेशन फ़ाइलों को समझना](https://developer.ibm.com/technologies/linux/articles/l-config/)
 * [कॉन्फ़िगरेशन और क्रेडेंशियल फ़ाइल सेटिंग](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
-* [पाइथन में कॉन्फ़िगरेशन फ़ाइलें] (https://martin-thoma.com/configuration-files-in-python/)
+* [पाइथन में कॉन्फ़िगरेशन फ़ाइलें](https://martin-thoma.com/configuration-files-in-python/)
 

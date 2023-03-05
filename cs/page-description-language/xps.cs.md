@@ -25,7 +25,7 @@ Prohlížeče XPS jsou integrovány jako součást Windows Vista, Windows 7, Win
 
 ## Stručná historie ##
 
-Microsoft předložil specifikaci XPS společnosti Ecma International. V červnu 2007 byl zřízen technický výbor Ecma 46 (TC46), jehož úkolem bylo vytvořit standard založený na specifikacích papíru OpenXPS. Společnost Ecma International schválila standard Ecma (ECMA-388) [Specifikace XPS] (http://www.ecma-international.org/publications/standards/Ecma-388.htm) v červnu 2009 na 97. valném shromáždění.
+Microsoft předložil specifikaci XPS společnosti Ecma International. V červnu 2007 byl zřízen technický výbor Ecma 46 (TC46), jehož úkolem bylo vytvořit standard založený na specifikacích papíru OpenXPS. Společnost Ecma International schválila standard Ecma (ECMA-388) [Specifikace XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm) v červnu 2009 na 97. valném shromáždění.
 
 ## Formát souboru XPS ##
 
@@ -48,13 +48,13 @@ Tyto soubory uchovávají obsah dokumentu takovým způsobem, že pokud napřík
 
 Formát dokumentu XPS obsahuje dobře definovanou sadu částí a vztahů, z nichž každá plní v dokumentu určitý účel. Formát také rozšiřuje funkce balíčku, včetně digitálních podpisů, miniatur a prokládání.
 
-Typický dokument XPS vypadá následovně a lze jej analyzovat ve světle formátu souboru XPS [specifikace] (https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf).
+Typický dokument XPS vypadá následovně a lze jej analyzovat ve světle formátu souboru XPS [specifikace](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf).
 
 {{< figure src="../XPS-2.png" alt="Formát souboru XPS" >}}
 
 
 ## Reference ##
 
-* [Specifikace formátu souboru XPS] (http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+* [Specifikace formátu souboru XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
 * [XPS – z Wikipedie](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

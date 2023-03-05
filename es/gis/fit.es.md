@@ -47,7 +47,7 @@ Un archivo de actividad FIT puede incluir algunos tipos de mensajes requeridos. 
 
 ## Archivo FIT Recursos útiles
 
-* [Descodificación de archivos de actividad FIT] (https://developer.garmin.com/fit/cookbook/decoding-activity-files/)
+* [Descodificación de archivos de actividad FIT](https://developer.garmin.com/fit/cookbook/decoding-activity-files/)
 * [Codificación de archivos de actividad FIT](https://developer.garmin.com/fit/cookbook/encoding-activity-files/)
  
 

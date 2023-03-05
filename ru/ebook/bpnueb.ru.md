@@ -35,8 +35,8 @@
 
 ## использованная литература
 
-* [Иранцам нравится персидская литература в электронной книге для чтения] (https://www.tehrantimes.com/news/423108/Iranians-enjoy-Persian-literature-on-e-book-reader)
-* [Чтение электронных книг в Иране стало проще и дешевле] (https://financialtribune.com/articles/sci-tech/80138/ebook-reading-made-easier-cheaper-in-iran)
+* [Иранцам нравится персидская литература в электронной книге для чтения](https://www.tehrantimes.com/news/423108/Iranians-enjoy-Persian-literature-on-e-book-reader)
+* [Чтение электронных книг в Иране стало проще и дешевле](https://financialtribune.com/articles/sci-tech/80138/ebook-reading-made-easier-cheaper-in-iran)
 
 
 

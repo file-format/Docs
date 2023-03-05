@@ -100,6 +100,6 @@ El archivo de control de archivo contiene un número de versión principal para 
 
 ## Referencias
 
-* [Formato OAR v 1.0] (http://opensimulator.org/wiki/OAR_Format_1.0)
+* [Formato OAR v 1.0](http://opensimulator.org/wiki/OAR_Format_1.0)
 * [OpenSimulator](http://opensimulator.org/wiki/Main_Page)
 

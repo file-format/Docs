@@ -103,5 +103,5 @@ PCL का मतलब प्रिंटर कमांड लैंग्व
 
 ## संदर्भ ##
 
-* [पीसीएल - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/Printer_Command_Language)
+* [पीसीएल - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Printer_Command_Language)
 

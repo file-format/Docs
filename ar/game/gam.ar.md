@@ -45,6 +45,6 @@
 ## مراجع
 
 
-* [تنسيق ملف GAM] (https://gibberlings3.github.io/iesdp/file_formats/ie_formats/gam_v2.0.htm#GAMEV2_0_Stored)
+* [تنسيق ملف GAM](https://gibberlings3.github.io/iesdp/file_formats/ie_formats/gam_v2.0.htm#GAMEV2_0_Stored)
 
 

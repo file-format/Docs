@@ -27,5 +27,5 @@ Los archivos GROOVY contienen código fuente escrito en sintaxis Groovy. Puede c
 ## Referencia ##
 
 * [APACHE MARAVILLOSO - por Wikipedia](https://en.wikipedia.org/wiki/Apache_Groovy)
-* [Lenguaje maravilloso] (https://groovy-lang.org/documentation.html)
+* [Lenguaje maravilloso](https://groovy-lang.org/documentation.html)
 

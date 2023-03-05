@@ -25,5 +25,5 @@
 
 ## संदर्भ
 
-* [पीएचसीएनसी] (http://www.accuratecnc.com/PhCNC.php)
+* [पीएचसीएनसी](http://www.accuratecnc.com/PhCNC.php)
 

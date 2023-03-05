@@ -66,6 +66,6 @@ A PYM-en keresztüli futtatás kimenete a következő:
 
 ## Hivatkozások ##
 
-* [PYM – Python alapú makróelőfeldolgozó] (http://web.archive.org/web/20051122185426/http://ray.cg.tuwien.ac.at/rft/Papers/PYM/pym.html)
+* [PYM – Python alapú makróelőfeldolgozó](http://web.archive.org/web/20051122185426/http://ray.cg.tuwien.ac.at/rft/Papers/PYM/pym.html)
 * [PYM Interpreters](https://github.com/interpreters/pym)
 

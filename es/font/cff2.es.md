@@ -23,7 +23,7 @@ El formato de archivo CFF2 es la versión 2.0 del formato de archivo CFF y permi
 
 ## Formato de archivo CFF2
 
-Las [especificaciones de formato de archivo CFF2] (https://docs.microsoft.com/en-us/typography/opentype/spec/cff2) contienen detalles sobre el diseño de datos internos, tipos de datos, tablas y otra información interna sobre el formato de archivo. Se puede referir para referencia del desarrollador. Algunos de los detalles acerca de estos son los siguientes.
+Las [especificaciones de formato de archivo CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2) contienen detalles sobre el diseño de datos internos, tipos de datos, tablas y otra información interna sobre el formato de archivo. Se puede referir para referencia del desarrollador. Algunos de los detalles acerca de estos son los siguientes.
 
 ### Diseño de datos
 

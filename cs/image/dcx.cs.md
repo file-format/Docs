@@ -23,5 +23,5 @@ Soubor DCX je soubor obrázku, který se skládá z více stránek pro generová
 ## Reference
 
 * [PCX – podle Wikipedie](https://en.wikipedia.org/wiki/PCX)
-* [Technická referenční příručka formátu souborů ZSoft PCX] (http://qzx.com/pc-gpe/pcx.txt)
+* [Technická referenční příručka formátu souborů ZSoft PCX](http://qzx.com/pc-gpe/pcx.txt)
 

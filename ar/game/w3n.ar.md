@@ -19,7 +19,7 @@
 
 ## ما هو ملف W3N؟
 
-الملف بامتداد .w3n هو ملف خرائط حملة تستخدمه لعبة [Warcraft III: The Frozen Throne] (https://en.wikipedia.org/wiki/Warcraft_III:_The_Frozen_Throne) وهو امتداد للعبة Warcraft III ، وهي لعبة الكل لعبة فيديو تايم الشهيرة. يحتوي ملف W3N على خرائط الحملات التي يتم استخدامها لإنشاء حملات مخصصة باستخدام سلسلة بيانات المهام المتوفرة فيه. غالبًا ما يُساء فهم التنسيق كملفات خرائط ولا يحصل المستخدمون على فكرة عن سبب عدم تحميل ملفات W3N الخاصة بهم في Frozen Throne. يمكن فتح ملفات W3N باستخدام Blizzard Warcraft 3: The Frozen Throne.
+الملف بامتداد .w3n هو ملف خرائط حملة تستخدمه لعبة [Warcraft III: The Frozen Throne](https://en.wikipedia.org/wiki/Warcraft_III:_The_Frozen_Throne) وهو امتداد للعبة Warcraft III ، وهي لعبة الكل لعبة فيديو تايم الشهيرة. يحتوي ملف W3N على خرائط الحملات التي يتم استخدامها لإنشاء حملات مخصصة باستخدام سلسلة بيانات المهام المتوفرة فيه. غالبًا ما يُساء فهم التنسيق كملفات خرائط ولا يحصل المستخدمون على فكرة عن سبب عدم تحميل ملفات W3N الخاصة بهم في Frozen Throne. يمكن فتح ملفات W3N باستخدام Blizzard Warcraft 3: The Frozen Throne.
 
 ## تنسيق ملف W3N - مزيد من المعلومات
 
@@ -39,6 +39,6 @@
 
 ## مراجع
 
-* [Warcraft III: The Frozen Throne] (https://en.wikipedia.org/wiki/Warcraft_III:_The_Frozen_Throne)
-* [Warcraft III: The Frozen Throne Review] (https://web.archive.org/web/20110719200624/http://www.gamespot.com/pc/strategy/warcraft3thefrozenthrone/review.html)
+* [Warcraft III: The Frozen Throne](https://en.wikipedia.org/wiki/Warcraft_III:_The_Frozen_Throne)
+* [Warcraft III: The Frozen Throne Review](https://web.archive.org/web/20110719200624/http://www.gamespot.com/pc/strategy/warcraft3thefrozenthrone/review.html)
 

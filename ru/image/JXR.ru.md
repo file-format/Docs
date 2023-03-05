@@ -48,5 +48,5 @@ Windows Media Photo была впервые анонсирована Microsoft �
 
 ## Использованная литература ##
 
-- [JPEG XR — Википедия] (https://en.wikipedia.org/wiki/JPEG_XR)
+- [JPEG XR — Википедия](https://en.wikipedia.org/wiki/JPEG_XR)
 

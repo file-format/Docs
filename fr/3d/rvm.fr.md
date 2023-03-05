@@ -38,5 +38,5 @@ Peu de détails peuvent être trouvés sur le format de fichier RVM autre que le
 
 ## Références
 
-* [Analyseur RVM] (https://github.com/cdyk/rvmparser)
+* [Analyseur RVM](https://github.com/cdyk/rvmparser)
 

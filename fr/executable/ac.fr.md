@@ -47,6 +47,6 @@ Dans une configuration simple :
 
 ## Références
 * [Logiciel Autoconf](https://www.gnu.org/software/autoconf/)
-* [Les bases des outils automatiques] (https://devmanual.gentoo.org/general-concepts/autotools/index.html)
+* [Les bases des outils automatiques](https://devmanual.gentoo.org/general-concepts/autotools/index.html)
 
 

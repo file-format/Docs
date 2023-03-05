@@ -19,7 +19,7 @@
 
 ## Apa itu file FODT?
 
-File dengan ekstensi .fodt adalah dokumen teks yang disimpan dalam format file OpenDocument flat [XML](/id/web/xml/). Berbeda dengan file .odt, yang disimpan dalam format file kontainer [.zip](/id/compression/zip/), file FODT disimpan ke disk sebagai file yang dapat dibaca manusia yang dapat dibuka di editor teks apa pun untuk dilihat sebagai dokumen XML biasa . Standar dokumen kantor OpenDocument dikembangkan oleh konsorsium industri OASIS, membuka jalan bagi siapa saja untuk diterapkan oleh siapa saja tanpa batasan apa pun. Format file OpenDocument populer lainnya termasuk [.odt](/id/word-processing/odt/), [.ott](/id/word-processing/ott/), [.ods](/id/spreadsheet/ods/), [.odp] (/id/presentasi/odp/), dan yang lainnya.
+File dengan ekstensi .fodt adalah dokumen teks yang disimpan dalam format file OpenDocument flat [XML](/id/web/xml/). Berbeda dengan file .odt, yang disimpan dalam format file kontainer [.zip](/id/compression/zip/), file FODT disimpan ke disk sebagai file yang dapat dibaca manusia yang dapat dibuka di editor teks apa pun untuk dilihat sebagai dokumen XML biasa . Standar dokumen kantor OpenDocument dikembangkan oleh konsorsium industri OASIS, membuka jalan bagi siapa saja untuk diterapkan oleh siapa saja tanpa batasan apa pun. Format file OpenDocument populer lainnya termasuk [.odt](/id/word-processing/odt/), [.ott](/id/word-processing/ott/), [.ods](/id/spreadsheet/ods/), [.odp](/id/presentasi/odp/), dan yang lainnya.
 
 ## Format File FODT - Informasi Lebih Lanjut
 

@@ -27,6 +27,6 @@
 
 ## مراجع ##
 
-* [تنسيق ملف Kindle - بواسطة ويكيبيديا] (https://en.wikipedia.org/wiki/Kindle_File_Format)
+* [تنسيق ملف Kindle - بواسطة ويكيبيديا](https://en.wikipedia.org/wiki/Kindle_File_Format)
 
 

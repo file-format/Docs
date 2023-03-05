@@ -103,5 +103,5 @@
 
 ## مراجع ##
 
-* [PCL - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/Printer_Command_Language)
+* [PCL - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Printer_Command_Language)
 

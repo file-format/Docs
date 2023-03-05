@@ -40,5 +40,5 @@ Die Rohdatei spielt in der digitalen Fotografie eine ähnliche Rolle wie der fot
 ## Verweise ##
 
 * [Rohbildformat – von Wikipedia](https://en.wikipedia.org/wiki/Raw_image_format)
-* [Was ist eine DCR-Datei] (https://expertphotography.com/dcr-file/)
+* [Was ist eine DCR-Datei](https://expertphotography.com/dcr-file/)
 

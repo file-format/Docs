@@ -33,6 +33,6 @@ ANB-Dateien speichern all diese Informationen basierend auf Eingabeinformationen
 
 ## Verweise
 
-* [Notebook für IBM Security i2-Analysten] (https://www.ibm.com/products/i2-analysts-notebook)
-* [Speicherort der lokalen und Arbeitsgruppenordner für Importspezifikationen und bedingte Formatierung] (https://www.ibm.com/support/pages/node/3544449?mhsrc=ibmsearch_a&mhq=ANB%20file%20format)
+* [Notebook für IBM Security i2-Analysten](https://www.ibm.com/products/i2-analysts-notebook)
+* [Speicherort der lokalen und Arbeitsgruppenordner für Importspezifikationen und bedingte Formatierung](https://www.ibm.com/support/pages/node/3544449?mhsrc=ibmsearch_a&mhq=ANB%20file%20format)
 

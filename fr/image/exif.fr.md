@@ -116,5 +116,5 @@ Si la valeur de Compression(0x0103) Tag dans IFD1 est '1', le format d'image min
 ## Références ##
 
 * [EXIF - Par Wikipédia](https://en.wikipedia.org/wiki/Exif)
-* [Format de fichier EXIF] (https://www.media.mit.edu/pia/Research/deepview/exif.html)
+* [Format de fichier EXIF](https://www.media.mit.edu/pia/Research/deepview/exif.html)
 

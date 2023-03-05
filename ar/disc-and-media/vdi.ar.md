@@ -43,6 +43,6 @@ Virtual Disk Image (VDI) هو تنسيق ملف القرص الأساسي لبر
 
 ## مراجع
 
-* [VirtualBox - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/VirtualBox#VirtualBox_Disk_Image)
+* [VirtualBox - بواسطة Wikipedia](https://en.wikipedia.org/wiki/VirtualBox#VirtualBox_Disk_Image)
 
 

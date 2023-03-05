@@ -18,11 +18,11 @@
 
 ## ما هو ملف ZIM؟ ##
 
-الملفات ذات الامتداد .zim هي أرشيفات تم إنشاؤها لتخزين محتوى Wiki في وضع عدم الاتصال. يعتبر أنسب تنسيق ملف مفتوح لتخزين ويكيبيديا على USB. يخزن محتويات الموقع بتنسيق مضغوط. اسمها يأتي من "Zeno IMproved" الذي كان تنسيق ملف Zeno الأقدم. تتم إدارة ZIM بواسطة مشروع [openZIM] (https://openzim.org/) الذي ترعاه ويكيميديا CH ، وبدعم من مؤسسة ويكيميديا. يمكن فتح ملفات ZIM بواسطة تطبيقات مثل Kiwix و ZIMReader. استضاف مشروع OpenZIM تنفيذ تنسيق ملف ZIM على [Github] (https://github.com/openzim) للمساهمة من مجتمع OpenSource.
+الملفات ذات الامتداد .zim هي أرشيفات تم إنشاؤها لتخزين محتوى Wiki في وضع عدم الاتصال. يعتبر أنسب تنسيق ملف مفتوح لتخزين ويكيبيديا على USB. يخزن محتويات الموقع بتنسيق مضغوط. اسمها يأتي من "Zeno IMproved" الذي كان تنسيق ملف Zeno الأقدم. تتم إدارة ZIM بواسطة مشروع [openZIM](https://openzim.org/) الذي ترعاه ويكيميديا CH ، وبدعم من مؤسسة ويكيميديا. يمكن فتح ملفات ZIM بواسطة تطبيقات مثل Kiwix و ZIMReader. استضاف مشروع OpenZIM تنفيذ تنسيق ملف ZIM على [Github](https://github.com/openzim) للمساهمة من مجتمع OpenSource.
 
 ## مواصفات تنسيق ملف ZIM
 
-تم تطوير تنسيق ملف ZIM فوق [تنسيق ملف Zeno] (https://openzim.org/wiki/Zeno_file_format) وهو غير متوافق مع الإصدارات السابقة. مواصفات تنسيق تنسيق ملف ZIM [متوفرة على الإنترنت] (https://openzim.org/wiki/ZIM_file_format) بواسطة openZIM كمرجع للمطور. قدم OpenZIM تطبيق C ++ مفتوح المصدر ، [LibZim] (https://openzim.org/wiki/Zimlib) ، لقراءة وكتابة ملفات ZIM.
+تم تطوير تنسيق ملف ZIM فوق [تنسيق ملف Zeno](https://openzim.org/wiki/Zeno_file_format) وهو غير متوافق مع الإصدارات السابقة. مواصفات تنسيق تنسيق ملف ZIM [متوفرة على الإنترنت](https://openzim.org/wiki/ZIM_file_format) بواسطة openZIM كمرجع للمطور. قدم OpenZIM تطبيق C ++ مفتوح المصدر ، [LibZim](https://openzim.org/wiki/Zimlib) ، لقراءة وكتابة ملفات ZIM.
 
 يستخدم تنسيق ملف ZIM ضغط LZMA2 لجعل المحتوى مضغوطًا.
 
@@ -51,6 +51,6 @@
 
 ## مراجع ##
 
-* [OpenZIM] (https://openzim.org/)
-* [C ++ LibZim] (https://openzim.org/wiki/Zimlib)
+* [OpenZIM](https://openzim.org/)
+* [C ++ LibZim](https://openzim.org/wiki/Zimlib)
 

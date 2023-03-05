@@ -23,7 +23,7 @@ Soubor s příponou .stml je webová stránka s instrukcemi na straně serveru, 
 
 ## Formát souboru STML
 
-STML je založen na formátu prostého textového souboru ASCII, který je čitelný pro člověka. Dodržuje však syntaxi, jak je definována a prováděna pomocí [příkazů SSI] (https://www.w3.org/Jigsaw/Doc/User/SSI.html), které se spouštějí na straně serveru. Stejně jako jakýkoli jiný skriptovací jazyk na straně serveru může STML používat příkazy na straně serveru k provádění úkolů, jako je počítadlo návštěvníků stránky, kalendář webových stránek, načítání záznamů z databáze a podobné další.
+STML je založen na formátu prostého textového souboru ASCII, který je čitelný pro člověka. Dodržuje však syntaxi, jak je definována a prováděna pomocí [příkazů SSI](https://www.w3.org/Jigsaw/Doc/User/SSI.html), které se spouštějí na straně serveru. Stejně jako jakýkoli jiný skriptovací jazyk na straně serveru může STML používat příkazy na straně serveru k provádění úkolů, jako je počítadlo návštěvníků stránky, kalendář webových stránek, načítání záznamů z databáze a podobné další.
 
 ## Příklad STML
 

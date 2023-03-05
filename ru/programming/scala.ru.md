@@ -34,6 +34,6 @@
 
 ## использованная литература
 
-* [Документация по Scala] (https://www.scala-lang.org/documentation/)
-* [Скала] (https://www.scala-lang.org/)
+* [Документация по Scala](https://www.scala-lang.org/documentation/)
+* [Скала](https://www.scala-lang.org/)
 

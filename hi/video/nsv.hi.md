@@ -26,5 +26,5 @@ NSV एक स्टीमिंग कंटेनर वीडियो फ़
 
 ## संदर्भ
 
-* [नलसॉफ्ट स्ट्रीम वीडियो - विकिपीडिया] (https://en.wikipedia.org/wiki/Nullsoft_Streaming_Video)
+* [नलसॉफ्ट स्ट्रीम वीडियो - विकिपीडिया](https://en.wikipedia.org/wiki/Nullsoft_Streaming_Video)
 

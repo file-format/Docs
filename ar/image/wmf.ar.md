@@ -57,6 +57,6 @@
 
 ## مراجع ##
 
-* [[MS-WMF]: تنسيق ملف تعريف Windows] (https://msdn.microsoft.com/en-us/library/cc250370.aspx)
-* [Windows MetaFile - Wikipedia] (https://en.wikipedia.org/wiki/Windows_Metafile)
+* [[MS-WMF]: تنسيق ملف تعريف Windows](https://msdn.microsoft.com/en-us/library/cc250370.aspx)
+* [Windows MetaFile - Wikipedia](https://en.wikipedia.org/wiki/Windows_Metafile)
 

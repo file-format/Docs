@@ -22,7 +22,7 @@ Un archivo OBML (Opera Binary Markup Language) es una versión fuera de línea d
 
 ## Formato de archivo OBML
 
-El formato de archivo OBML se guarda en el formato de archivo propietario de Opera y sus especificaciones de formato de archivo no están disponibles públicamente. Sin embargo, [formato OMBL] (https://github.com/grawity/obml-parser/blob/master/obml.md) se realizó ingeniería inversa para decodificar su estructura de la siguiente manera.
+El formato de archivo OBML se guarda en el formato de archivo propietario de Opera y sus especificaciones de formato de archivo no están disponibles públicamente. Sin embargo, [formato OMBL](https://github.com/grawity/obml-parser/blob/master/obml.md) se realizó ingeniería inversa para decodificar su estructura de la siguiente manera.
 
 ### Tipos de datos OBML
 

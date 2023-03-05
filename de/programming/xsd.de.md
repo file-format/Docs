@@ -66,6 +66,6 @@ Hier werden die folgenden Tags verwendet.
 
 ## Verweise ##
 
-- [Microsoft XML-Editor] (https://microsoft.github.io/XmlNotepad/)
+- [Microsoft XML-Editor](https://microsoft.github.io/XmlNotepad/)
 - [XSD-Beispielbeispiel](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
 

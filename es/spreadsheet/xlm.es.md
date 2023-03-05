@@ -31,7 +31,7 @@ Excel proporciona pasos fáciles de usar para grabar una macro. Requiere tener h
 
 ## Modelo de objetos de Excel ##
 
-Las macros usan rutinas VBA en su parte posterior y siguen el [Modelo de objetos de Excel] (https://docs.microsoft.com/en-us/office/vba/api/overview/excel/object-model) para este propósito. Este modelo identifica los objetos de una hoja de cálculo para la interacción con la hoja de cálculo a través de barras de herramientas de comandos definidas por el usuario, barras de comandos o cuadros de mensajes. Por ejemplo, el acceso a las propiedades del libro de trabajo se otorga con el objeto Libro de trabajo. De manera similar, hay un objeto Hoja de trabajo en el modelo para trabajar con las hojas de trabajo del libro de trabajo mediante programación.
+Las macros usan rutinas VBA en su parte posterior y siguen el [Modelo de objetos de Excel](https://docs.microsoft.com/en-us/office/vba/api/overview/excel/object-model) para este propósito. Este modelo identifica los objetos de una hoja de cálculo para la interacción con la hoja de cálculo a través de barras de herramientas de comandos definidas por el usuario, barras de comandos o cuadros de mensajes. Por ejemplo, el acceso a las propiedades del libro de trabajo se otorga con el objeto Libro de trabajo. De manera similar, hay un objeto Hoja de trabajo en el modelo para trabajar con las hojas de trabajo del libro de trabajo mediante programación.
 
 ## Macros y Seguridad ##
 

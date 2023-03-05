@@ -35,5 +35,5 @@ Nero Burning ROM — это программа для записи дисков 
 Кроме того, вы также можете открыть файл .nri, дважды щелкнув его, если Nero Burning ROM установлен в качестве программы по умолчанию для открытия файлов .nri. Вы также можете использовать другое программное обеспечение, поддерживающее формат nri, например Nero Express, Nero BackItUp, Nero MediaHome и Nero Recode.
 
 ## использованная литература
-* [Nero Burning ROM] (https://en.wikipedia.org/wiki/Nero_Burning_ROM)
+* [Nero Burning ROM](https://en.wikipedia.org/wiki/Nero_Burning_ROM)
 

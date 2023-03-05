@@ -37,5 +37,5 @@
 ## использованная литература
 
 * [Преобразование более ранних версий форматов файлов FileMaker Pro в формат файлов FMP12](https://fmhelp.filemaker.com/help/16/fmp/en/index.html#page/FMP_Help/converting-files.html)
-* [Сохранить записи как файл ссылки на снимок] (https://fmhelp.filemaker.com/help/12/fmp/en/html/import_export.17.5.html)
+* [Сохранить записи как файл ссылки на снимок](https://fmhelp.filemaker.com/help/12/fmp/en/html/import_export.17.5.html)
 

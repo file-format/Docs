@@ -39,6 +39,6 @@ Die Entwickler-Community von Valve Software hat Richtlinien für Personen aufges
 
 ## Verweise
 
-* [Bonus-Map-Dateien erstellen und installieren – von Valve Software] (https://developer.valvesoftware.com/wiki/Bonus_Maps)
-* [Portal-Challenge-Skript] (https://developer.valvesoftware.com/wiki/Portal_Challenge_Script)
+* [Bonus-Map-Dateien erstellen und installieren – von Valve Software](https://developer.valvesoftware.com/wiki/Bonus_Maps)
+* [Portal-Challenge-Skript](https://developer.valvesoftware.com/wiki/Portal_Challenge_Script)
 

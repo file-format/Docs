@@ -22,7 +22,7 @@ Soubor M4S je malý segment videa, který je streamován přes internet pomocí 
 
 ## Formát souboru M4S
 
-Soubory M4S jsou založeny na [formátu ISO Base Media File (ISOBMFF)] (https://www.w3.org/TR/mse-byte-stream-format-isobmff/). Tyto malé segmenty velkého souboru lze stáhnout nezávisle přes HTTP. Pokud tedy máte velký filmový soubor [MP4](/cs/video/mp4/), lze jej streamovat pomocí techniky MPEG-DASH (Dynamic Adaptive Streaming over HTTP) jeho segmentací jako soubory segmentů M4S. Pokud je tento velký filmový soubor stažen na disk jako M4S, stáhne se více souborů M4S. Pokud jsou všechny tyto segmenty .m4s zřetězeny, vznikne kompletní hratelný soubor. Přehrávače médií nemohou soubor přehrát, pokud není u souboru k dispozici také první inicializační segment.
+Soubory M4S jsou založeny na [formátu ISO Base Media File (ISOBMFF)](https://www.w3.org/TR/mse-byte-stream-format-isobmff/). Tyto malé segmenty velkého souboru lze stáhnout nezávisle přes HTTP. Pokud tedy máte velký filmový soubor [MP4](/cs/video/mp4/), lze jej streamovat pomocí techniky MPEG-DASH (Dynamic Adaptive Streaming over HTTP) jeho segmentací jako soubory segmentů M4S. Pokud je tento velký filmový soubor stažen na disk jako M4S, stáhne se více souborů M4S. Pokud jsou všechny tyto segmenty .m4s zřetězeny, vznikne kompletní hratelný soubor. Přehrávače médií nemohou soubor přehrát, pokud není u souboru k dispozici také první inicializační segment.
 
 ## O streamování MPEG-DASH
 

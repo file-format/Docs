@@ -45,7 +45,7 @@ Die Typ-1-Schriftdaten bestehen in Windows aus zwei separaten Dateien:
 2. Die Datei mit der Erweiterung „.PFM“ enthält die Metrikdaten .
 
 ## Verweise
-* [Type 1-Schriftarten] (https://www.prepressure.com/fonts/basics/type1)
+* [Type 1-Schriftarten](https://www.prepressure.com/fonts/basics/type1)
 * [Ende der Unterstützung für PostScript Type 1-Schriftarten](https://helpx.adobe.com/fonts/kb/postscript-type-1-fonts-end-of-support.html)
 * [PostScript-Schriftarten (Wikipedia)](https://en.wikipedia.org/wiki/PostScript_fonts)
 

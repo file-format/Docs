@@ -6,7 +6,7 @@
 },
   "draft" : "false",
   "toc" : true,
-  "title" :"ZIP *: FRANÇAIS",
+  "title" :"ZIP",
   "description":"Qu'est-ce qu'un fichier ZIP et les API qui peuvent créer et ouvrir des fichiers ZIP.",
   "linktitle" : "ZIP",
   "menu" : {
@@ -17,9 +17,9 @@
   "lastmod" : "2019-12-09"
 }
 
-## Qu'est-ce qu'un fichier ZIP ? ##
+## Qu'est-ce qu'un fichier ZIP ?
 
-Un fichier avec l'extension .zip est une archive qui peut contenir un ou plusieurs fichiers ou répertoires. L'archive peut avoir une compression appliquée aux fichiers inclus afin de réduire la taille du fichier ZIP. Le format de fichier ZIP a été rendu public en février 1989 par Phil Katz pour réaliser l'archivage des fichiers et des dossiers. Le format a été intégré à l'utilitaire [PKZIP](https://www.pkware.com/pkzip), créé par PKWARE, Inc. Juste après la disponibilité des [spécifications disponibles](https://pkware.cachefly.net/ webdocs/casestudies/APPNOTE.TXT), de nombreuses entreprises ont intégré le format de fichier ZIP à leurs utilitaires logiciels, notamment Microsoft (depuis Windows 7), Apple (Mac OS X) et bien d'autres.
+Un fichier avec l'extension .zip est une archive qui peut contenir un ou plusieurs fichiers ou répertoires. L'archive peut avoir une compression appliquée aux fichiers inclus afin de réduire la taille du fichier ZIP. Le format de fichier ZIP a été rendu public en février 1989 par Phil Katz pour réaliser l'archivage des fichiers et des dossiers. Le format a été intégré à l'utilitaire [PKZIP](https://www.pkware.com/pkzip), créé par PKWARE, Inc. Juste après la disponibilité des [spécifications disponibles](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT), de nombreuses entreprises ont intégré le format de fichier ZIP à leurs utilitaires logiciels, notamment Microsoft (depuis Windows 7), Apple (Mac OS X) et bien d'autres.
 
 ## Bref historique du format de fichier ZIP
 
@@ -150,6 +150,5 @@ L'en-tête de fichier local a une structure de champ spécifique composée de va
 
 ## Références
 
-* [Spécifications du format de fichier PKWARE ZIP] (https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
-* [Structure du fichier PKZip] (https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip-printable.html)
-
+* [Spécifications du format de fichier PKWARE ZIP](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
+* [Structure du fichier PKZip](https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip-printable.html)

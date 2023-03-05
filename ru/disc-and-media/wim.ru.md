@@ -42,6 +42,6 @@ WIM поддерживает следующие семейства алгори�
 ## использованная литература
 
 
-* [Формат Windows Imaging — по Википедии] (https://en.wikipedia.org/wiki/Windows_Imaging_Format)
+* [Формат Windows Imaging — по Википедии](https://en.wikipedia.org/wiki/Windows_Imaging_Format)
 
 

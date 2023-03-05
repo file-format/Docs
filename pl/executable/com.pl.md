@@ -43,5 +43,5 @@ hello:   db   'Hello, .COM programmer!',13,10,'$'
 
 ## Bibliografia
 
-* [Plik COM - autorstwa Wikipewdia] (https://en.wikipedia.org/wiki/COM_file)
+* [Plik COM - autorstwa Wikipewdia](https://en.wikipedia.org/wiki/COM_file)
 

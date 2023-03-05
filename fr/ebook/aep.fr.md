@@ -41,6 +41,6 @@ Si vous ne parvenez pas à ouvrir et à exécuter le fichier AEP ; cela ne sign
 
 ## Références
 
-* [Activ E-Book Compiler 4.22] (https://activ-e-book-compiler.software.informer.com/)
+* [Activ E-Book Compiler 4.22](https://activ-e-book-compiler.software.informer.com/)
 
 

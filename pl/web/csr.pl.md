@@ -61,5 +61,5 @@ Plik CSR zawiera następujące informacje.
 
 ## Bibliografia
 
-* [Serwer aplikacji koncepcyjnych] (https://github.com/Devronium/ConceptApplicationServer)
+* [Serwer aplikacji koncepcyjnych](https://github.com/Devronium/ConceptApplicationServer)
 

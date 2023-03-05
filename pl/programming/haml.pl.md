@@ -18,7 +18,7 @@
 
 ## Czym jest plik HAML?
 
-Plik HAML to plik języka znaczników abstrakcji HTML, który zawiera kod źródłowy napisany w języku [Haml] (https://haml.info/). Może być używany jako zamiennik ERB (skrypty szablonów Ruby). Plik HAML zawiera kod źródłowy szablonu, który służy do generowania kodu HTML dokumentu internetowego. Pliki ERB można zastąpić, po prostu zastępując te pliki w folderze app/views na Haml, zmieniając rozszerzenie pliku. Pliki HAML można otwierać za pomocą dowolnego edytora tekstu, takiego jak Microsoft Notepad, Notepad ++, Apple TextEdit,
+Plik HAML to plik języka znaczników abstrakcji HTML, który zawiera kod źródłowy napisany w języku [Haml](https://haml.info/). Może być używany jako zamiennik ERB (skrypty szablonów Ruby). Plik HAML zawiera kod źródłowy szablonu, który służy do generowania kodu HTML dokumentu internetowego. Pliki ERB można zastąpić, po prostu zastępując te pliki w folderze app/views na Haml, zmieniając rozszerzenie pliku. Pliki HAML można otwierać za pomocą dowolnego edytora tekstu, takiego jak Microsoft Notepad, Notepad ++, Apple TextEdit,
 
 ## Format pliku HAML
 

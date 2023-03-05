@@ -37,5 +37,5 @@
 
 ## использованная литература
 
-* [Как преобразовать файлы клипов в настоящие видеофайлы] (https://gtaforums.com/topic/814078-how-to-convert-clip-files-to-actual-video-files/)
+* [Как преобразовать файлы клипов в настоящие видеофайлы](https://gtaforums.com/topic/814078-how-to-convert-clip-files-to-actual-video-files/)
 

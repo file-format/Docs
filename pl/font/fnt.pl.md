@@ -39,6 +39,6 @@ Początek plików czcionek rastrowych i wektorowych jest wspólny, a następnie 
 Aby uzyskać szczegółowe informacje na temat nagłówków dla Windows 3.0 i 2.0, odwiedź [Archiwum Microsoft KnowledgeBase](https://jeffpar.github.io/kbarchive/kb/065/Q65123/).
 
 ## Bibliografia
-* [Format pliku czcionki] (https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
+* [Format pliku czcionki](https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
 * [Jak zainstalować lub usunąć czcionkę w systemie Windows](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8 -7613-c76f-88d043b334b8)
 

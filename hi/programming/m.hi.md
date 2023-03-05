@@ -48,7 +48,7 @@ TimeToGround(100)
 
 ## संदर्भ
 
-* [मैटलैब - समर्थित फ़ाइल प्रारूप] (https://www.mathworks.com/help/matlab/standard-file-formats.html)
+* [मैटलैब - समर्थित फ़ाइल प्रारूप](https://www.mathworks.com/help/matlab/standard-file-formats.html)
 * [मैटलैब का उपयोग करना](https://www.maths.unsw.edu.au/sites/default/files/MatlabSelfPaced/lesson0/MatlabLesson0_Mfiles.html)
 
 # एम - उद्देश्य-सी कार्यान्वयन फ़ाइल
@@ -94,5 +94,5 @@ UrlConnection.m
 
 ## संदर्भ
 * [ऑब्जेक्टिव सी के बारे में](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210-CH1-SW1)
-* [ऑब्जेक्ट-सी गाइड] (https://blog.teamtreehouse.com/beginners-guide-objective-c-classes-objects)
+* [ऑब्जेक्ट-सी गाइड](https://blog.teamtreehouse.com/beginners-guide-objective-c-classes-objects)
 

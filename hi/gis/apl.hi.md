@@ -27,5 +27,5 @@
 
 ## संदर्भ ##
 
-* [आर्कपैड प्रो] (http://www.esri.com/library/brochures/pdfs/arcpadbro.pdf)
+* [आर्कपैड प्रो](http://www.esri.com/library/brochures/pdfs/arcpadbro.pdf)
 

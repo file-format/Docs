@@ -48,5 +48,5 @@ OpenDocument प्रारूप एक एकल XML दस्तावेज
 
 ## संदर्भ ##
 
-* [OpenDocument - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/OpenDocument)
+* [OpenDocument - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/OpenDocument)
 

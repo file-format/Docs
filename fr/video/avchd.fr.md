@@ -47,7 +47,7 @@ Les différences entre les deux formats sont indiquées dans le tableau ci-desso
 ## Références ##
 
 - [AVCHD - Wikipédia](https://en.wikipedia.org/wiki/AVCHD)
-- [Qu'est-ce que le format AVCHD ?] (https://www.sony.com/electronics/support/articles/00016537)
+- [Qu'est-ce que le format AVCHD ?](https://www.sony.com/electronics/support/articles/00016537)
 
 
 

@@ -41,6 +41,6 @@
 
 ## использованная литература
 
-* [Программное обеспечение Valve] (https://www.valvesoftware.com/en/)
-* [Ресурсы для разработчиков VPK] (https://developer.valvesoftware.com/wiki/GCF)
+* [Программное обеспечение Valve](https://www.valvesoftware.com/en/)
+* [Ресурсы для разработчиков VPK](https://developer.valvesoftware.com/wiki/GCF)
 

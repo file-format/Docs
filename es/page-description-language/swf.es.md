@@ -63,5 +63,5 @@ SWF 9 y versiones posteriores admiten un tipo de entero codificado con un númer
 
 ## Referencias
 
-* [formato de archivo SWF] (https://en.wikipedia.org/wiki/Swf)
+* [formato de archivo SWF](https://en.wikipedia.org/wiki/Swf)
 

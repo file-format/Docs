@@ -50,5 +50,5 @@ GSM работает в структурированной сети, состо�
 
 ## Использованная литература ##
 
-* [GSM - Википедия] (https://en.wikipedia.org/wiki/Comparison_of_audio_coding_formats)
+* [GSM - Википедия](https://en.wikipedia.org/wiki/Comparison_of_audio_coding_formats)
 

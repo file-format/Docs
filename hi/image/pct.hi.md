@@ -33,5 +33,5 @@ Macintosh PCT फ़ाइल में छवि डेटा को मूल 
 
 ## संदर्भ
 
-* [तस्वीर फ़ाइल प्रारूप - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/PICT)
+* [तस्वीर फ़ाइल प्रारूप - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/PICT)
 

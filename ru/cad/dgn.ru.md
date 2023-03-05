@@ -43,7 +43,7 @@
 
 ## использованная литература
 
-* [DNG — Википедия] (https://en.wikipedia.org/wiki/DGN)
-* [OpenDNG] (http://www.bentley.com/opendgn)
-* [Формат файла MicroStation V8 DGN] (https://web.archive.org/web/20120713013730/http://docs.bentley.com/ko/MicroStation/ustnhelp47.html)
+* [DNG — Википедия](https://en.wikipedia.org/wiki/DGN)
+* [OpenDNG](http://www.bentley.com/opendgn)
+* [Формат файла MicroStation V8 DGN](https://web.archive.org/web/20120713013730/http://docs.bentley.com/ko/MicroStation/ustnhelp47.html)
 

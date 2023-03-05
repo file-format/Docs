@@ -82,6 +82,6 @@
 ## использованная литература
 
 
-* [Формат перемещаемого объектного модуля] (https://en.wikipedia.org/wiki/Relocatable_Object_Module_Format)
+* [Формат перемещаемого объектного модуля](https://en.wikipedia.org/wiki/Relocatable_Object_Module_Format)
 
 

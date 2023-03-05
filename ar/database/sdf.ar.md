@@ -26,7 +26,7 @@
 
 ## مراجع
 
-* [SQL Server Compact - Wikipedia] (https://en.wikipedia.org/wiki/SQL_Server_Compact)
-* [استخدام SQL Server Compact for ASP.NET Web Applications] (https://docs.microsoft.com/en-us/previous-versions/aspnet/ms247257 (v = مقابل 110))
+* [SQL Server Compact - Wikipedia](https://en.wikipedia.org/wiki/SQL_Server_Compact)
+* [استخدام SQL Server Compact for ASP.NET Web Applications](https://docs.microsoft.com/en-us/previous-versions/aspnet/ms247257 (v = مقابل 110))
 
 

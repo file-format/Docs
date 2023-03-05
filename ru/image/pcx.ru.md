@@ -55,5 +55,5 @@ typedef struct _PcxHeader
 
 ## использованная литература
 
-* [PCX — Википедия] (https://en.wikipedia.org/wiki/PCX)
+* [PCX — Википедия](https://en.wikipedia.org/wiki/PCX)
 

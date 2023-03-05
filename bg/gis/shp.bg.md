@@ -116,5 +116,5 @@ SHP е файловото разширение за един от основни
 
 ## Препратки ##
 
-* [Техническо описание на ESRI Shapefile] (http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) от ESRI
+* [Техническо описание на ESRI Shapefile](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) от ESRI
 

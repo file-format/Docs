@@ -24,10 +24,10 @@ Un fichier CT (Continuous Tone) est un fichier d'image raster utilisé par l'éq
 
 ## Format de fichier CT
 
-Un fichier Scitex CT se compose d'un bloc de contrôle, d'un bloc de paramètres et des données d'image conformément à cet [article CT Wikipedia] (https://en.wikipedia.org/wiki/Scitex_CT). Les spécifications de format de fichier du format de fichier CT ne sont pas disponibles, mais certaines recherches ont montré qu'une image CT représente 4 couleurs, chaque pixel coloré ayant une taille allant jusqu'à 128 bits. Les fichiers CT sont généralement de grande taille et permettent des images de haute qualité.
+Un fichier Scitex CT se compose d'un bloc de contrôle, d'un bloc de paramètres et des données d'image conformément à cet [article CT Wikipedia](https://en.wikipedia.org/wiki/Scitex_CT). Les spécifications de format de fichier du format de fichier CT ne sont pas disponibles, mais certaines recherches ont montré qu'une image CT représente 4 couleurs, chaque pixel coloré ayant une taille allant jusqu'à 128 bits. Les fichiers CT sont généralement de grande taille et permettent des images de haute qualité.
 
 ## Références
 
-* [Formats de fichier Adobe] (https://helpx.adobe.com/es/photoshop/using/file-formats.html)
+* [Formats de fichier Adobe](https://helpx.adobe.com/es/photoshop/using/file-formats.html)
 * [Scitex CT](https://help.accusoft.com/ImageGear/v17.1/Windows/DLL/HTML/topic694.html)
 

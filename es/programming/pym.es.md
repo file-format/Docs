@@ -66,6 +66,6 @@ El resultado de ejecutar esto a través de PYM es el siguiente:
 
 ## Referencias ##
 
-* [PYM: un preprocesador de macros basado en Python] (http://web.archive.org/web/20051122185426/http://ray.cg.tuwien.ac.at/rft/Papers/PYM/pym.html)
+* [PYM: un preprocesador de macros basado en Python](http://web.archive.org/web/20051122185426/http://ray.cg.tuwien.ac.at/rft/Papers/PYM/pym.html)
 * [Intérpretes de PYM](https://github.com/interpreters/pym)
 

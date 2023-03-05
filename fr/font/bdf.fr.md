@@ -70,6 +70,6 @@ ENDFONT
 
 
 ## Références
-* [Format de distribution de bitmap de glyphe] (https://en.wikipedia.org/wiki/Glyph_Bitmap_Distribution_Format)
-* [Spécification du format de distribution Glyph Bitmap (BDF)] (https://adobe-type-tools.github.io/font-tech-notes/pdfs/5005.BDF_Spec.pdf)
+* [Format de distribution de bitmap de glyphe](https://en.wikipedia.org/wiki/Glyph_Bitmap_Distribution_Format)
+* [Spécification du format de distribution Glyph Bitmap (BDF)](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5005.BDF_Spec.pdf)
 

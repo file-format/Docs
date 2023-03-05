@@ -26,5 +26,5 @@ EDGE-Dateien werden in einem Nur-Text-Format gespeichert und verwenden jQuery zu
 
 ## Verweise
 
-* [Adobe Edge] (https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
 

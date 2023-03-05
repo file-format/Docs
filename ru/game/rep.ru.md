@@ -29,5 +29,5 @@
 
 ## использованная литература
 
-* [Формат файла REP повтора GTA] (https://gta.fandom.com/wiki/Replay/Format_details)
+* [Формат файла REP повтора GTA](https://gta.fandom.com/wiki/Replay/Format_details)
 

@@ -25,6 +25,6 @@
 
 ## использованная литература
 
-* [Аудио обезьяны - Википедия] (https://en.wikipedia.org/wiki/Monkey%27s_Audio)
-* [Monkey's Audio — быстрый и мощный аудиокомпрессор без потерь] (https://monkeysaudio.com/index.html)
+* [Аудио обезьяны - Википедия](https://en.wikipedia.org/wiki/Monkey%27s_Audio)
+* [Monkey's Audio — быстрый и мощный аудиокомпрессор без потерь](https://monkeysaudio.com/index.html)
 

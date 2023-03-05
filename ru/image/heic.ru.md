@@ -59,7 +59,7 @@ HEIC основан на формате файлов HEIF и используе�
 
 ## использованная литература
 
-* [HEIF — Википедия] (https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format)
-* [Информация HEIF от Nokia Technologies] (https://nokiatech.github.io/heif/)
+* [HEIF — Википедия](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format)
+* [Информация HEIF от Nokia Technologies](https://nokiatech.github.io/heif/)
 * [Исходный код HEIF Reader/Writer на GitHub](https://github.com/nokiatech/heif)
 

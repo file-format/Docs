@@ -19,7 +19,7 @@
 
 ## Was ist eine MINT-Datei?
 
-Eine MINT-Datei ist eine Installationspaketdatei, die von der Distribution [Linux Mint] (https://linuxmint.com/) verwendet wird. Es enthält komprimierte Quellcodedateien, die extrahiert und zum Starten der Linux Mint OS-Installation verwendet werden. Linux Mint OS hat eine einfach zu bedienende GUI (Graphical User Interface) und war das erste mit einem eleganten GUI-Design. MINT-Dateien werden dekomprimiert und zusammen mit dem Installationspaket in einem temporären Verzeichnis gespeichert. Die Installation wird aus demselben Verzeichnis wie die Installation von Linux Mint OS ausgeführt.
+Eine MINT-Datei ist eine Installationspaketdatei, die von der Distribution [Linux Mint](https://linuxmint.com/) verwendet wird. Es enthält komprimierte Quellcodedateien, die extrahiert und zum Starten der Linux Mint OS-Installation verwendet werden. Linux Mint OS hat eine einfach zu bedienende GUI (Graphical User Interface) und war das erste mit einem eleganten GUI-Design. MINT-Dateien werden dekomprimiert und zusammen mit dem Installationspaket in einem temporären Verzeichnis gespeichert. Die Installation wird aus demselben Verzeichnis wie die Installation von Linux Mint OS ausgeführt.
 
 ## Linux MINT-Dateiformat
 

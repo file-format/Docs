@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo NSF?
 
-Un archivo con la extensión .nsf (Notes Storage Facility) es un formato de archivo de base de datos utilizado por el [software IBM Notes] (https://en.wikipedia.org/wiki/HCL_Domino), que anteriormente se conocía como Lotus Notes. Define el esquema para almacenar diferentes tipos de objetos, como correos electrónicos, citas, documentos, formularios y vistas. Toda esta información está contenida en un solo archivo NSF para colaboración comercial similar a un archivo PST/OST. Algunas de las aplicaciones que pueden abrir archivos NSF incluyen IBM Lotus Notes e IBM Domino.
+Un archivo con la extensión .nsf (Notes Storage Facility) es un formato de archivo de base de datos utilizado por el [software IBM Notes](https://en.wikipedia.org/wiki/HCL_Domino), que anteriormente se conocía como Lotus Notes. Define el esquema para almacenar diferentes tipos de objetos, como correos electrónicos, citas, documentos, formularios y vistas. Toda esta información está contenida en un solo archivo NSF para colaboración comercial similar a un archivo PST/OST. Algunas de las aplicaciones que pueden abrir archivos NSF incluyen IBM Lotus Notes e IBM Domino.
 
 ## Especificaciones de formato de archivo NSF
 

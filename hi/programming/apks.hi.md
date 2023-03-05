@@ -28,7 +28,7 @@ APKS फ़ाइलें [ZIP](/hi/compression/zip/) फ़ाइल स्व
 
 ## एपीकेएस फाइल कैसे जनरेट करें?
 
-जब Android ऐप बंडल (AAB) तैयार हो जाता है, तो Google Play स्टोर पर उसके व्यवहार का किसी डिवाइस पर परिनियोजन के लिए परीक्षण किया जा सकता है। इस उद्देश्य के लिए, एएबी फाइलों से एपीकेएस फाइलें उत्पन्न की जा सकती हैं और Google के एंड्रॉइड [बंडलटूल] (https://developer.android.com/studio/command-line/bundletool) का उपयोग करके परीक्षण उपकरणों पर स्थापित की जा सकती हैं। यह निम्नलिखित कमांड का उपयोग करके एपीके से एपीकेएस आर्काइव फ़ाइल बनाने के लिए कमांड लाइन टूल प्रदान करता है।
+जब Android ऐप बंडल (AAB) तैयार हो जाता है, तो Google Play स्टोर पर उसके व्यवहार का किसी डिवाइस पर परिनियोजन के लिए परीक्षण किया जा सकता है। इस उद्देश्य के लिए, एएबी फाइलों से एपीकेएस फाइलें उत्पन्न की जा सकती हैं और Google के एंड्रॉइड [बंडलटूल](https://developer.android.com/studio/command-line/bundletool) का उपयोग करके परीक्षण उपकरणों पर स्थापित की जा सकती हैं। यह निम्नलिखित कमांड का उपयोग करके एपीके से एपीकेएस आर्काइव फ़ाइल बनाने के लिए कमांड लाइन टूल प्रदान करता है।
 
 ```
 bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
@@ -46,5 +46,5 @@ bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
 
 ## संदर्भ
 
-* [बंडलटूल - कमांडलाइन] (https://developer.android.com/studio/command-line/bundletool)
+* [बंडलटूल - कमांडलाइन](https://developer.android.com/studio/command-line/bundletool)
 

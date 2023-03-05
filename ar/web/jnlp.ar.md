@@ -19,7 +19,7 @@ lastmod: 2022-07-30
 
 ## تنسيق ملف JNLP - مزيد من المعلومات
 
-يتم حفظ ملفات JNLP كملفات ** [XML] (/ar/ web / xml /) ** مخزنة بتنسيق نصي يمكن للبشر قراءته. يحتوي ملف XML على المعلومات المستخدمة لبدء تشغيل تطبيق Java وتنفيذه عبر الشبكة. يتيح لك JWS تشغيل التطبيقات بالنقر فوق ارتباط صفحة الويب. يتم تنزيل التطبيق في حالة عدم تنزيله بالفعل على كمبيوتر المستخدم.
+يتم حفظ ملفات JNLP كملفات ** [XML](/ar/ web / xml /) ** مخزنة بتنسيق نصي يمكن للبشر قراءته. يحتوي ملف XML على المعلومات المستخدمة لبدء تشغيل تطبيق Java وتنفيذه عبر الشبكة. يتيح لك JWS تشغيل التطبيقات بالنقر فوق ارتباط صفحة الويب. يتم تنزيل التطبيق في حالة عدم تنزيله بالفعل على كمبيوتر المستخدم.
 
 تم إهمال Oracle JWS مع إصدار Java Platform Standard Edition (JSE) 9. مع هذا ، لم تعد ملفات JNLP مدعومة.
 
@@ -65,7 +65,7 @@ This link is to the Notepad.jnlp file.
 
 ## مراجع ##
 
-* [ما هو Java Web Start وكيف يتم إطلاقه؟] (https://www.java.com/en/download/help/java_webstart.html)
-* [تشغيل JNLP بأحدث إصدار من Java] (https://openwebstart.com/)
-* [جافا ويب ستارت - ويكيبيديا] (https://en.wikipedia.org/wiki/Java_Web_Start)
+* [ما هو Java Web Start وكيف يتم إطلاقه؟](https://www.java.com/en/download/help/java_webstart.html)
+* [تشغيل JNLP بأحدث إصدار من Java](https://openwebstart.com/)
+* [جافا ويب ستارت - ويكيبيديا](https://en.wikipedia.org/wiki/Java_Web_Start)
 

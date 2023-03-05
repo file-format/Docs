@@ -28,5 +28,5 @@ BOK फ़ाइलों को वेबपृष्ठों के रूप
 
 ## संदर्भ
 
-* [प्रोस्टोर्स - विकिपीडिया] (https://en.wikipedia.org/wiki/ProStores)
+* [प्रोस्टोर्स - विकिपीडिया](https://en.wikipedia.org/wiki/ProStores)
 

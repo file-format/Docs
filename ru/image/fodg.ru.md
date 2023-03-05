@@ -31,7 +31,7 @@ FODG основан на формате файла XML OpenDocument, котор�
 `<office:document-settings> ` — параметры приложения, такие как размер окна или информация о принтере.
 
 ## Использованная литература ##
-* [Будущие спецификации для стандартизации версии 1.3] (https://docs.oasis-open.org/office/OpenDocument/v1.3/cs01/OpenDocument-v1.3-cs01.zip)
-* [Открытый формат документа OASIS для приложений Office] (https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
-* [Формат OpenDocument — Википедия] (https://en.wikipedia.org/wiki/OpenDocument)
+* [Будущие спецификации для стандартизации версии 1.3](https://docs.oasis-open.org/office/OpenDocument/v1.3/cs01/OpenDocument-v1.3-cs01.zip)
+* [Открытый формат документа OASIS для приложений Office](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
+* [Формат OpenDocument — Википедия](https://en.wikipedia.org/wiki/OpenDocument)
 

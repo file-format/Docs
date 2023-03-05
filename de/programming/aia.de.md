@@ -34,5 +34,5 @@ App Inventor bietet mehrere Tutorials für Anfänger zum Entwickeln von Android-
 ## Verweise
 
 * [MIT-App-Erfinder](https://appinventor.mit.edu/)
-* [MIT App Inventor-Tutorials] (https://appinventor.mit.edu/explore/ai2/tutorials)
+* [MIT App Inventor-Tutorials](https://appinventor.mit.edu/explore/ai2/tutorials)
 

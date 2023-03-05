@@ -88,5 +88,5 @@ S      1
 
 
 ## использованная литература
-* [IGES от WikiPedia] (https://en.wikipedia.org/wiki/IGES)
+* [IGES от WikiPedia](https://en.wikipedia.org/wiki/IGES)
 

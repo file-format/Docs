@@ -26,6 +26,6 @@ Los archivos SBN se almacenan en el disco como archivos binarios y los detalles 
 
 ## Referencias
 
-* [Descripción técnica de ESRI ShapeFile] (http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf)
+* [Descripción técnica de ESRI ShapeFile](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf)
 * [ESRI ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 

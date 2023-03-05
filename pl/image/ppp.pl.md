@@ -32,5 +32,5 @@ Po otwarciu PhotoPad Editor umożliwia manipulowanie obrazem na wiele sposobów 
 
 ## Bibliografia ##
 
-* [Oprogramowanie PhotoPad do edycji zdjęć] (https://www.nchsoftware.com/photoeditor/index.html)
+* [Oprogramowanie PhotoPad do edycji zdjęć](https://www.nchsoftware.com/photoeditor/index.html)
 

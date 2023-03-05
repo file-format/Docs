@@ -23,7 +23,7 @@ Un archivo con extensión .shtml es una página web que está escrita en [HTML](
 
 ## Formato de archivo SHTML
 
-Los archivos SHTML están escritos en texto sin formato y usan los [comandos SSI] (https://www.w3.org/Jigsaw/Doc/User/SSI.html) que se ejecutan en el lado del servidor. Estos comandos del lado del servidor se pueden usar incluso para conectarse a la base de datos usando los controladores de la base de datos y obtener datos de los usuarios de las tablas.
+Los archivos SHTML están escritos en texto sin formato y usan los [comandos SSI](https://www.w3.org/Jigsaw/Doc/User/SSI.html) que se ejecutan en el lado del servidor. Estos comandos del lado del servidor se pueden usar incluso para conectarse a la base de datos usando los controladores de la base de datos y obtener datos de los usuarios de las tablas.
 
 ## Ejemplo SHTML
 

@@ -62,6 +62,6 @@ call    _ExitProcess@4
 
 ## المرجعي ##
 
-* [لغة التجميع - بواسطة ويكيبيديا] (https://en.wikipedia.org/wiki/Assembly_language)
-* [لغة التجميع - التركيب الأساسي] (https://www.tutorialspoint.com/assembly_programming/assembly_basic_syntax.htm)
+* [لغة التجميع - بواسطة ويكيبيديا](https://en.wikipedia.org/wiki/Assembly_language)
+* [لغة التجميع - التركيب الأساسي](https://www.tutorialspoint.com/assembly_programming/assembly_basic_syntax.htm)
 

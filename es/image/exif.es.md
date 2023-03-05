@@ -18,7 +18,7 @@
 }
 
 ## ¿Qué es un archivo EXIF?
-EXIF significa "Formato de archivo de imagen intercambiable", la definición dada por primera vez por [Japan Camera Industry Association] (https://en.wikipedia.org/wiki/Japan_Electronic_Industries_Development_Association) (JCIA) en 1985. El estándar es administrado por Japan Electronics y Asociación de Industrias de Tecnologías de la Información (JEITA) a partir de hoy. EXIF es un estándar para las especificaciones de formatos de imagen y sonido utilizados principalmente por cámaras digitales y escáneres.
+EXIF significa "Formato de archivo de imagen intercambiable", la definición dada por primera vez por [Japan Camera Industry Association](https://en.wikipedia.org/wiki/Japan_Electronic_Industries_Development_Association) (JCIA) en 1985. El estándar es administrado por Japan Electronics y Asociación de Industrias de Tecnologías de la Información (JEITA) a partir de hoy. EXIF es un estándar para las especificaciones de formatos de imagen y sonido utilizados principalmente por cámaras digitales y escáneres.
 
 El estándar EXIF incluye la información de etiquetado y metadatos con el archivo de imagen. Los metadatos pueden contener información como el modelo de la cámara, la velocidad del obturador, la fecha y la hora, la apertura, el fabricante, el tiempo de exposición, la resolución X, la resolución Y, etc. Normalmente, los datos EXIF están ocultos de forma predeterminada. Para ver los datos EXIF, uno tiene que seleccionar las propiedades de visualización dentro de la aplicación de visualización de imágenes. Los metadatos Exif también pueden incluir miniaturas junto con datos técnicos y de imágenes primarias en un solo archivo de imagen.
 
@@ -116,5 +116,5 @@ Si el valor de la etiqueta de compresión (0x0103) en IFD1 es '1', el formato de
 ## Referencias ##
 
 * [EXIF - Por Wikipedia](https://en.wikipedia.org/wiki/Exif)
-* [Formato de archivo EXIF] (https://www.media.mit.edu/pia/Research/deepview/exif.html)
+* [Formato de archivo EXIF](https://www.media.mit.edu/pia/Research/deepview/exif.html)
 

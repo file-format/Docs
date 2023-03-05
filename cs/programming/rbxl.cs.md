@@ -18,7 +18,7 @@
 
 ## Co je soubor RBXL?
 
-Soubor RBXL je soubor umístění Roblox, který obsahuje umístění definované ve 3D světě uvnitř [hry Roblox] (https://www.roblox.com/). Samotný Roblox je budovatelská hra pro více hráčů, která hráčům umožňuje vytvářet hry pomocí vývojářských nástrojů poskytovaných platformou. Soubory RBXL používají nástroje, skripty, týmy a části k popisu hřiště jako 3D modelů. Roblox Studio umožňuje hráči vytvářet herní položky a lze jej použít k otevírání souborů RBXL.
+Soubor RBXL je soubor umístění Roblox, který obsahuje umístění definované ve 3D světě uvnitř [hry Roblox](https://www.roblox.com/). Samotný Roblox je budovatelská hra pro více hráčů, která hráčům umožňuje vytvářet hry pomocí vývojářských nástrojů poskytovaných platformou. Soubory RBXL používají nástroje, skripty, týmy a části k popisu hřiště jako 3D modelů. Roblox Studio umožňuje hráči vytvářet herní položky a lze jej použít k otevírání souborů RBXL.
 
 ## Formát souboru RBXL
 

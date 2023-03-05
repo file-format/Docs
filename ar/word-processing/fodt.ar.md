@@ -19,7 +19,7 @@
 
 ## ما هو ملف FODT؟
 
-الملف بامتداد .fodt هو مستند نصي محفوظ بتنسيق ملف OpenDocument مسطح [XML] (/ar/ web / xml /). على عكس ملفات .odt ، التي يتم حفظها في تنسيق ملف حاوية [.zip] (/ar/ ضغط / zip /) ، يتم تخزين ملفات FODT على القرص كملفات يمكن للبشر قراءتها ويمكن فتحها في أي محرر نصوص لعرضها كمستندات XML عادية . تم تطوير معيار مستندات OpenDocument من قبل اتحاد الصناعة OASIS ، مما يمهد الطريق لأي شخص للتنفيذ من قبل أي شخص دون أي قيود. تتضمن تنسيقات ملفات OpenDocument الشائعة الأخرى [.odt] (/ar/ معالجة الكلمات / odt /) ، [.ott] (/ar/ معالجة الكلمات / ott /) ، [.ods] (/ar/ spreadsheet / ods /) ، [.odp] (/ar/ عرض / odp /) ، وغيرهم بالمثل.
+الملف بامتداد .fodt هو مستند نصي محفوظ بتنسيق ملف OpenDocument مسطح [XML](/ar/ web / xml /). على عكس ملفات .odt ، التي يتم حفظها في تنسيق ملف حاوية [.zip](/ar/ ضغط / zip /) ، يتم تخزين ملفات FODT على القرص كملفات يمكن للبشر قراءتها ويمكن فتحها في أي محرر نصوص لعرضها كمستندات XML عادية . تم تطوير معيار مستندات OpenDocument من قبل اتحاد الصناعة OASIS ، مما يمهد الطريق لأي شخص للتنفيذ من قبل أي شخص دون أي قيود. تتضمن تنسيقات ملفات OpenDocument الشائعة الأخرى [.odt](/ar/ معالجة الكلمات / odt /) ، [.ott](/ar/ معالجة الكلمات / ott /) ، [.ods](/ar/ spreadsheet / ods /) ، [.odp](/ar/ عرض / odp /) ، وغيرهم بالمثل.
 
 ## تنسيق ملف FODT - مزيد من المعلومات
 
@@ -27,5 +27,5 @@
 
 ## مراجع ##
 
-* [المواصفات الفنية لـ OpenDocument - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/OpenDocument_technical_specification)
+* [المواصفات الفنية لـ OpenDocument - بواسطة Wikipedia](https://en.wikipedia.org/wiki/OpenDocument_technical_specification)
 

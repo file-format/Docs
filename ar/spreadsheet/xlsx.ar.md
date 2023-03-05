@@ -19,15 +19,15 @@
 
 ## ما هو ملف XLSX؟
 
-** XLSX ** هو تنسيق معروف لمستندات Microsoft Excel تم تقديمه بواسطة Microsoft مع إصدار Microsoft Office 2007. استنادًا إلى الهيكل المنظم وفقًا لاتفاقيات التغليف المفتوح كما هو موضح في [الجزء 2] (https: // www .ecma-international.org / منشورات / معايير / Ecma-376.htm) لمعيار OOXML ECMA-376 ، التنسيق الجديد عبارة عن حزمة مضغوطة تحتوي على عدد من ملفات XML. يمكن فحص البنية والملفات الأساسية ببساطة عن طريق فك ضغط ملف .xlsx.
+** XLSX ** هو تنسيق معروف لمستندات Microsoft Excel تم تقديمه بواسطة Microsoft مع إصدار Microsoft Office 2007. استنادًا إلى الهيكل المنظم وفقًا لاتفاقيات التغليف المفتوح كما هو موضح في [الجزء 2](https: // www .ecma-international.org / منشورات / معايير / Ecma-376.htm) لمعيار OOXML ECMA-376 ، التنسيق الجديد عبارة عن حزمة مضغوطة تحتوي على عدد من ملفات XML. يمكن فحص البنية والملفات الأساسية ببساطة عن طريق فك ضغط ملف .xlsx.
 
 ## تاريخ موجز لتنسيق ملف XLSX
 
-تم تقديم تنسيق ملف XLSX في عام 2007 ويستخدم معيار Open XML الذي تم تعديله بواسطة Microsoft في عام 2000. قبل XLSX ، كان تنسيق الملف الشائع المستخدم هو [XLS] (/ar/ spreadsheet / xls /) الذي كان تنسيق ملف ثنائي خالص. لقد أضاف نوع الملف الجديد مزايا ذات أحجام ملفات صغيرة ، وتغييرات أقل في التلف وتمثيل صور جيدة التنسيق. كان ذلك في أوائل عام 2000 عندما قررت Microsoft إجراء التغيير لاستيعاب معيار ** Office Open XML **. بحلول عام 2007 ، أصبح تنسيق الملف الجديد هذا جزءًا من Office 2007 ويتم تشغيله أيضًا في الإصدارات الجديدة من Microsoft Office.
+تم تقديم تنسيق ملف XLSX في عام 2007 ويستخدم معيار Open XML الذي تم تعديله بواسطة Microsoft في عام 2000. قبل XLSX ، كان تنسيق الملف الشائع المستخدم هو [XLS](/ar/ spreadsheet / xls /) الذي كان تنسيق ملف ثنائي خالص. لقد أضاف نوع الملف الجديد مزايا ذات أحجام ملفات صغيرة ، وتغييرات أقل في التلف وتمثيل صور جيدة التنسيق. كان ذلك في أوائل عام 2000 عندما قررت Microsoft إجراء التغيير لاستيعاب معيار ** Office Open XML **. بحلول عام 2007 ، أصبح تنسيق الملف الجديد هذا جزءًا من Office 2007 ويتم تشغيله أيضًا في الإصدارات الجديدة من Microsoft Office.
 
 ## مواصفات تنسيق ملف XLSX
 
-تتوفر [مواصفات تنسيق ملف XLSX] الرسمية (https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) عبر الإنترنت من Microsoft. لمعرفة ما يوجد داخل ملف XLSX ، ما عليك سوى إعادة تسميته إلى ملف [ZIP] (/ar/ ضغط / zip /) عن طريق تغيير امتداده ثم استخراجه لعرض الملفات المكونة لمصنف Excel هذا. يحتوي المصنف الفارغ ، عند استخراجه إلى ملفاته ، على الملفات والمجلدات المكونة التالية.
+تتوفر [مواصفات تنسيق ملف XLSX] الرسمية (https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) عبر الإنترنت من Microsoft. لمعرفة ما يوجد داخل ملف XLSX ، ما عليك سوى إعادة تسميته إلى ملف [ZIP](/ar/ ضغط / zip /) عن طريق تغيير امتداده ثم استخراجه لعرض الملفات المكونة لمصنف Excel هذا. يحتوي المصنف الفارغ ، عند استخراجه إلى ملفاته ، على الملفات والمجلدات المكونة التالية.
 
 ### [أنواع_المحتوى] .xml ###
 
@@ -73,10 +73,10 @@
 
 ## مساهمة
 
-هل يجب عليك مشاركة شيء ما حول تنسيقات ملفات XLSX أو جداول البيانات؟ يمكنك نشر نتائجك في قسم [Spreadsheet File Format News] (https://news.fileformat.com/t/Spreadsheet).
+هل يجب عليك مشاركة شيء ما حول تنسيقات ملفات XLSX أو جداول البيانات؟ يمكنك نشر نتائجك في قسم [Spreadsheet File Format News](https://news.fileformat.com/t/Spreadsheet).
 
 ## مراجع
 
-* [[MS-XLSX] - تنسيق ملف XLSX] (https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
-* [Open Office XML] (http://officeopenxml.com/anatomyofOOXML-xlsx.php)
+* [[MS-XLSX] - تنسيق ملف XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

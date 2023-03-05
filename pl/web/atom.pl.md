@@ -34,7 +34,7 @@ Pliki ATOM są przechowywane i publikowane w popularnym formacie pliku XML, któ
 
 ## Bibliografia
 
-* [Format syndykacji Atom — RFC] (https://www.rfc-editor.org/rfc/rfc4287.html)
+* [Format syndykacji Atom — RFC](https://www.rfc-editor.org/rfc/rfc4287.html)
 * [Przegląd kanałów Atom — IBM](https://www.ibm.com/docs/en/cics-ts/5.4?topic=support-overview-atom-feeds)
 * [Atom - standard internetowy](https://en.wikipedia.org/wiki/Atom_(web_standard))
 

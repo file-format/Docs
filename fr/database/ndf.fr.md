@@ -71,7 +71,7 @@ Cet exemple montre les numéros de page dans une base de données qui a un fichi
 
 ## Références
 
-* [Fichiers de base de données et groupes de fichiers] (https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?redirectedfrom=MSDN&view=sql-server-ver15)
+* [Fichiers de base de données et groupes de fichiers](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?redirectedfrom=MSDN&view=sql-server-ver15)
 * [Détacher et attacher la base de données - SQL Server](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
-* [Analyse de l'anatomie du fichier de données SQL Server] (https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
+* [Analyse de l'anatomie du fichier de données SQL Server](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

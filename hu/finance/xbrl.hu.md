@@ -24,7 +24,7 @@ Az .xbrl (eXtensible Business Reporting Language) kiterjesztésű fájl egy ingy
 
 ## XBRL fájlformátum
 
-Az XBRL a digitális üzleti jelentéskészítés nyílt nemzetközi szabványa, amelyet világszerte széles körben használnak. Ez egy [XML](/hu/web/xml/) alapú nyelv, amely XBRL-elemeket, más néven címkéket használ az egyes üzleti adatok leírására a jelentések rendezéséhez és elemzéséhez szükséges adatok megfogalmazásához. Az XBRL fájlformátum specifikációit az XBRL International, Inc fejlesztette ki és tette közzé, jelenleg az [XBRL 2.1-es verziója] (https://specifications.xbrl.org/work-product-index-group-base-spec-base-spec.html) a felhasználók számára elérhető.
+Az XBRL a digitális üzleti jelentéskészítés nyílt nemzetközi szabványa, amelyet világszerte széles körben használnak. Ez egy [XML](/hu/web/xml/) alapú nyelv, amely XBRL-elemeket, más néven címkéket használ az egyes üzleti adatok leírására a jelentések rendezéséhez és elemzéséhez szükséges adatok megfogalmazásához. Az XBRL fájlformátum specifikációit az XBRL International, Inc fejlesztette ki és tette közzé, jelenleg az [XBRL 2.1-es verziója](https://specifications.xbrl.org/work-product-index-group-base-spec-base-spec.html) a felhasználók számára elérhető.
 
 ### XBRL-dokumentumstruktúra
 

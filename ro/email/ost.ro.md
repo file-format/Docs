@@ -58,7 +58,7 @@ Antetul începe cu un cuvânt magic de 4 octeți **!BDN** reprezentat prin octe�
 |bidNextP (Unicode: 8 octeți; ANSI: 4 octeți)|BID în pagina următoare. Paginile au un contor special pentru alocarea valorilor bidIndex. Valoarea bidIndex pentru BID-uri pentru pagini este alocată din acest contor.
 |bidNextB (doar 4 octeți ANSI): |Următorul BID. Această valoare este contorul monoton care indică BID-ul care urmează să fie alocat pentru următorul bloc alocat. Valorile BID avansează în trepte de 4. Pentru mai multe detalii, consultați secțiunea 2.2.2.2.
 |dwUnique (4 octeți)|Aceasta este o valoare care crește monoton care este modificată de fiecare dată când se modifică structura HEADER a fișierului PST. Funcția acestei valori este de a furniza o valoare unică și de a se asigura că CRC-urile HEADER sunt diferite după fiecare modificare a antetului.
-|rgnid[] (128 octeți)|O matrice fixă de 32 NID-uri, fiecare corespunzând unuia dintre cele 32 de NID_TYPE posibile (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE,ASSNID_TYPE_MESSAGE)
+|rgnid[](128 octeți)|O matrice fixă de 32 NID-uri, fiecare corespunzând unuia dintre cele 32 de NID_TYPE posibile (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE,ASSNID_TYPE_MESSAGE)
 |qwUnused (8 bytes)|Spatiu neutilizat; TREBUIE setat la zero. Numai în format de fișier Unicode PST.
 |rădăcină (Unicode: 72 de octeți; ANSI: 40 de octeți)|O structură ROOT (secțiunea 2.2.2.5).
 |dwAlign (4 bytes)|Octeți de aliniere neutilizați; TREBUIE setat la zero. Numai în format de fișier Unicode PST.

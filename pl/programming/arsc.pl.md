@@ -33,5 +33,5 @@ Zasoby w pliku APK są określane przez identyfikatory zasobów, podczas gdy atr
 
 ## Bibliografia
 
-* [Struktura tabeli zasobów binarnych] (https://stackoverflow.com/questions/27548810/android-compiled-resources-resources-arsc)
+* [Struktura tabeli zasobów binarnych](https://stackoverflow.com/questions/27548810/android-compiled-resources-resources-arsc)
 

@@ -27,6 +27,6 @@ KFX — это сложный формат, поскольку он сочета
 
 ## Использованная литература ##
 
-* [Шрифт Bookerly — Википедия] (https://en.wikipedia.org/wiki/Bookerly)
-* [KFX — Википедия] (https://wiki.mobileread.com/wiki/KFX)
+* [Шрифт Bookerly — Википедия](https://en.wikipedia.org/wiki/Bookerly)
+* [KFX — Википедия](https://wiki.mobileread.com/wiki/KFX)
 

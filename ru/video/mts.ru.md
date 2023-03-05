@@ -39,5 +39,5 @@
 ## Использованная литература ##
 
 - [.m2ts - Википедия](https://en.wikipedia.org/wiki/.m2ts)
-- [Формат видео AVCHD: разница между MTS и M2TS] (https://www.videosolo.com/tutorials/mts-vs-m2ts.html)
+- [Формат видео AVCHD: разница между MTS и M2TS](https://www.videosolo.com/tutorials/mts-vs-m2ts.html)
 

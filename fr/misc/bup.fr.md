@@ -27,5 +27,5 @@ Les DVD peuvent être corrompus en raison des rayures possibles sur leurs surfac
 
 ## Références
 
-* [Inside Video DVD-Video Files] (https://en.wikibooks.org/wiki/Inside_DVD-Video/IFO_Files)
+* [Inside Video DVD-Video Files](https://en.wikibooks.org/wiki/Inside_DVD-Video/IFO_Files)
 

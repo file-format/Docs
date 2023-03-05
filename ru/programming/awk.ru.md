@@ -62,5 +62,5 @@ Writing my first Awk executable script!
 
 ## Ссылка ##
 
-* [Написание сценариев с использованием языка программирования Awk] (https://www.tecmint.com/write-shell-scripts-in-awk-programming/)
+* [Написание сценариев с использованием языка программирования Awk](https://www.tecmint.com/write-shell-scripts-in-awk-programming/)
 

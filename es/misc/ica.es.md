@@ -25,7 +25,7 @@ Un archivo con extensión ica es un archivo de configuración que se crea en bas
 
 Los archivos ICA se almacenan en el disco en formato de texto sin formato y los humanos los pueden leer fácilmente. Los archivos ICA especifican los parámetros que las aplicaciones cliente de escritorio remoto, como Citrix Receiver, utilizan para conectarse a aplicaciones alojadas en escritorios virtuales remotos.
 
-Los archivos ICA deben ajustarse a ciertos formatos y inicialización para una conectividad exitosa. Estos se mencionan en [Referencia de configuración de Citrix ICA] (http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html) e incluyen campos como:
+Los archivos ICA deben ajustarse a ciertos formatos y inicialización para una conectividad exitosa. Estos se mencionan en [Referencia de configuración de Citrix ICA](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html) e incluyen campos como:
 
 * Codificación de entrada
 * Dirección del navegador TCP
@@ -37,5 +37,5 @@ Los archivos ICA deben ajustarse a ciertos formatos y inicialización para una c
 ## Referencias
 
 * [Comprensión del contenido del archivo ICA](https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
-* [Referencia de configuración de Citrix ICA] (http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
+* [Referencia de configuración de Citrix ICA](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
 

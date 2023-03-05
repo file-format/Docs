@@ -23,7 +23,7 @@ Eine Datei mit der Erweiterung .shtml ist eine Webseite, die in [HTML](/de/web/h
 
 ## SHTML-Dateiformat
 
-SHTML-Dateien sind im Klartext geschrieben und verwenden die [SSI-Befehle] (https://www.w3.org/Jigsaw/Doc/User/SSI.html), die serverseitig ausgeführt werden. Diese serverseitigen Befehle können verwendet werden, um mithilfe der Datenbanktreiber sogar eine Verbindung zur Datenbank herzustellen und Benutzerdaten aus Tabellen abzurufen.
+SHTML-Dateien sind im Klartext geschrieben und verwenden die [SSI-Befehle](https://www.w3.org/Jigsaw/Doc/User/SSI.html), die serverseitig ausgeführt werden. Diese serverseitigen Befehle können verwendet werden, um mithilfe der Datenbanktreiber sogar eine Verbindung zur Datenbank herzustellen und Benutzerdaten aus Tabellen abzurufen.
 
 ## SHTML-Beispiel
 
@@ -65,5 +65,5 @@ Serverseitige Anweisungen werden in Anwendungen wie Seitenbesucherzähler oder W
 ```
 ## Verweise
 
-* [Server Side Includes] (https://en.wikipedia.org/wiki/Server_Side_Includes)
+* [Server Side Includes](https://en.wikipedia.org/wiki/Server_Side_Includes)
 

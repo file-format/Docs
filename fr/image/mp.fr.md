@@ -46,5 +46,5 @@ bye
 ## Références ##
 
 * [MetaPost par Wikipédia](https://en.wikipedia.org/wiki/MetaPost)
-* [Échantillon de latex Metapost par Berkeley Educational Wiki] (https://math.berkeley.edu/computing/wiki/index.php/Latex_sample_metapost)
+* [Échantillon de latex Metapost par Berkeley Educational Wiki](https://math.berkeley.edu/computing/wiki/index.php/Latex_sample_metapost)
 

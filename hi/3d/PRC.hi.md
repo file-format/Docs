@@ -70,7 +70,7 @@ Mobipocket Reader में एक होम पेज लाइब्रेर�
 
 ## संदर्भ
 
-- [पीआरसी - विकिपीडिया] (https://en.wikipedia.org/wiki/PRC_(file_format))
+- [पीआरसी - विकिपीडिया](https://en.wikipedia.org/wiki/PRC_(file_format))
 - [पीआरसी प्रारूप विशिष्टता](https://web.archive.org/web/20081202034541/http://livedocs.adobe.com/acrobat_sdk/9/Acrobat9_HTMLHelp/API_References/PRCreference/PRC_Format_Specification/index.html)
 - [ई-बुक प्रारूपों की तुलना - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Comparison_of_e-book_formats)
 

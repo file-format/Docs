@@ -76,5 +76,5 @@ Las especificaciones de Dolby Digital son las siguientes.
 ## Referencias
 
 * [AC3 - Por Wikiepedia](https://en.wikipedia.org/wiki/Dolby_Digital)
-* [Dolby Digital 5.1] (https://professional.dolby.com/tv/dolby-digital)
+* [Dolby Digital 5.1](https://professional.dolby.com/tv/dolby-digital)
 

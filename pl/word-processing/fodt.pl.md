@@ -19,7 +19,7 @@
 
 ## Czym jest plik FODT?
 
-Plik z rozszerzeniem .fodt to dokument tekstowy zapisany w formacie pliku OpenDocument flat [XML](/pl/web/xml/). W przeciwieństwie do plików .odt, które są zapisywane w formacie kontenera [.zip](/pl/compression/zip/), pliki FODT są zapisywane na dysku jako pliki czytelne dla człowieka, które można otworzyć w dowolnym edytorze tekstu w celu przeglądania jako zwykłe dokumenty XML . Standard dokumentów biurowych OpenDocument został opracowany przez konsorcjum branżowe OASIS, torując każdemu drogę do wdrożenia przez każdego bez żadnych ograniczeń. Inne popularne formaty plików OpenDocument to [.odt](/pl/word-processing/odt/), [.ott](/pl/word-processing/ott/), [.ods](/pl/spreadsheet/ods/), [.odp] (/pl/prezentacja/odp/) i podobnie inne.
+Plik z rozszerzeniem .fodt to dokument tekstowy zapisany w formacie pliku OpenDocument flat [XML](/pl/web/xml/). W przeciwieństwie do plików .odt, które są zapisywane w formacie kontenera [.zip](/pl/compression/zip/), pliki FODT są zapisywane na dysku jako pliki czytelne dla człowieka, które można otworzyć w dowolnym edytorze tekstu w celu przeglądania jako zwykłe dokumenty XML . Standard dokumentów biurowych OpenDocument został opracowany przez konsorcjum branżowe OASIS, torując każdemu drogę do wdrożenia przez każdego bez żadnych ograniczeń. Inne popularne formaty plików OpenDocument to [.odt](/pl/word-processing/odt/), [.ott](/pl/word-processing/ott/), [.ods](/pl/spreadsheet/ods/), [.odp](/pl/prezentacja/odp/) i podobnie inne.
 
 ## Format pliku FODT — więcej informacji
 

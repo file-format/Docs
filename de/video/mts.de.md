@@ -39,5 +39,5 @@ Da sowohl MTS als auch M2TS mit dem AVCHD-Format verwandt sind, kann es bei dies
 ## Verweise ##
 
 - [.m2ts - Wikipedia](https://en.wikipedia.org/wiki/.m2ts)
-- [AVCHD-Videoformat: Unterschied zwischen MTS und M2TS] (https://www.videosolo.com/tutorials/mts-vs-m2ts.html)
+- [AVCHD-Videoformat: Unterschied zwischen MTS und M2TS](https://www.videosolo.com/tutorials/mts-vs-m2ts.html)
 

@@ -18,7 +18,7 @@
 }
 
 ## Co je soubor AIFF?
-AIFF (Audio Interchange File Format) je nekomprimovaný formát audio souborů vyvinutý společností Apple v roce 1998, ale je založen na **EA IFF 85** (Standard for Interchange Format Files vyvinutý společností Electronic Arts), formátu obalu používaného na systémech Amiga. . Tento formát souboru přichází se standardem pro ukládání samplovaných zvuků. Formát je dostatečně flexibilní a umožňuje ukládání mono nebo vícekanálových vzorkovaných zvuků při různých vzorkovacích frekvencích a šířkách vzorků. Vzhledem k tomu, že soubory AIFF jsou nekomprimované, díky tomu jsou větší než jiné ztrátové formáty, jako je [MP3] (https://docs.fileformat.com/audio/mp3/).
+AIFF (Audio Interchange File Format) je nekomprimovaný formát audio souborů vyvinutý společností Apple v roce 1998, ale je založen na **EA IFF 85** (Standard for Interchange Format Files vyvinutý společností Electronic Arts), formátu obalu používaného na systémech Amiga. . Tento formát souboru přichází se standardem pro ukládání samplovaných zvuků. Formát je dostatečně flexibilní a umožňuje ukládání mono nebo vícekanálových vzorkovaných zvuků při různých vzorkovacích frekvencích a šířkách vzorků. Vzhledem k tomu, že soubory AIFF jsou nekomprimované, díky tomu jsou větší než jiné ztrátové formáty, jako je [MP3](https://docs.fileformat.com/audio/mp3/).
 
 Soubory AIFF se skládají ze 2 kanálů nekomprimovaného stereo zvuku s velikostí vzorku 16 bitů, zaznamenaných při 44,1 khz. Kvůli vysoké kvalitě zvuku může 5minutový zvuk zabrat až 50 MB místa na disku, což je podobné formátu souboru [WAV](https://docs.fileformat.com/audio/wav/).
 

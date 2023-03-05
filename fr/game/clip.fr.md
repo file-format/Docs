@@ -37,5 +37,5 @@ Une fois l'enregistrement du clip terminé, les étapes suivantes peuvent être 
 
 ## Références
 
-* [Comment convertir des fichiers de clips en fichiers vidéo réels] (https://gtaforums.com/topic/814078-how-to-convert-clip-files-to-actual-video-files/)
+* [Comment convertir des fichiers de clips en fichiers vidéo réels](https://gtaforums.com/topic/814078-how-to-convert-clip-files-to-actual-video-files/)
 

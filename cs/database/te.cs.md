@@ -28,7 +28,7 @@ Interní formát souborů TE souborů není znám. Společnost Textease poskytla
 
 * Text
 * Číslo
-* [Obrázek] (/cs/obrázek/)
+* [Obrázek](/cs/obrázek/)
 * Barva
 * Datum (DD/MM/RRRR)
 * Měna

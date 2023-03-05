@@ -46,5 +46,5 @@ IPYNB फ़ाइलों को देखने या खोलने के
 ## संदर्भ ##
 
 * [ज्यूपिटर नोटबुक](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html?highlight=ipynb#notebook-documents)
-* [ज्यूपिटर नोटबुक - जीथब] (https://github.com/jupyter/notebook)
+* [ज्यूपिटर नोटबुक - जीथब](https://github.com/jupyter/notebook)
 

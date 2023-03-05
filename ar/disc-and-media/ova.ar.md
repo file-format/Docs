@@ -19,7 +19,7 @@
 
 ## ما هو ملف OVA؟
 
-ملف OVA (Open Virtual Appliance) هو دليل OVF يتم حفظه كأرشيف باستخدام تنسيق الأرشفة .tar. إنه ملف حزمة جهاز ظاهري يحتوي على ملفات لتوزيع البرامج التي يتم تشغيلها على جهاز افتراضي. تحتوي حزمة OVA على [.ovf] (/ar/ disc-and-media / ovf /) ملف واصف ، ملفات شهادة ، ملف اختياري [.mf] (/ar/ برمجة / mf /) مع ملفات أخرى ذات صلة. تحتوي ملفات OVA على نوع وسائط مثل application / ovf.
+ملف OVA (Open Virtual Appliance) هو دليل OVF يتم حفظه كأرشيف باستخدام تنسيق الأرشفة .tar. إنه ملف حزمة جهاز ظاهري يحتوي على ملفات لتوزيع البرامج التي يتم تشغيلها على جهاز افتراضي. تحتوي حزمة OVA على [.ovf](/ar/ disc-and-media / ovf /) ملف واصف ، ملفات شهادة ، ملف اختياري [.mf](/ar/ برمجة / mf /) مع ملفات أخرى ذات صلة. تحتوي ملفات OVA على نوع وسائط مثل application / ovf.
 
 ## تنسيق ملف OVA
 
@@ -33,6 +33,6 @@
 
 ## مراجع
 
-* [تنسيقات ونماذج ملفات OVA] (https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-AE61948B-C2EE-436E-BAFB-3C7209088552.html )
-* [مواصفات تنسيق ملف OVF] (https://products.conholdate.app/viewer/view/3XKCLQbwAw/open-virtualization-format-specification-dsp0243_1-1-0.pdf)
+* [تنسيقات ونماذج ملفات OVA](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-AE61948B-C2EE-436E-BAFB-3C7209088552.html )
+* [مواصفات تنسيق ملف OVF](https://products.conholdate.app/viewer/view/3XKCLQbwAw/open-virtualization-format-specification-dsp0243_1-1-0.pdf)
 

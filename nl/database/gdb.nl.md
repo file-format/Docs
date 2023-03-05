@@ -52,7 +52,7 @@ Een bestandsgeodatabase kan tegelijkertijd door meerdere gebruikers worden geope
 
 ## Specificaties GDB-bestandsindeling ##
 
-Bestand GDB is een eigen formaat van ESRI en de specificaties ervan zijn niet publiekelijk beschikbaar. Om deze reden konden de details van het bestandsformaat voor FIle GDB nergens anders worden gedocumenteerd dan sommige bronnen die het [gedeeltelijk] (https://github.com/rouault/dump_gdbtable/wiki/FGDB-Spec) hebben gedaan door reverse engineering .
+Bestand GDB is een eigen formaat van ESRI en de specificaties ervan zijn niet publiekelijk beschikbaar. Om deze reden konden de details van het bestandsformaat voor FIle GDB nergens anders worden gedocumenteerd dan sommige bronnen die het [gedeeltelijk](https://github.com/rouault/dump_gdbtable/wiki/FGDB-Spec) hebben gedaan door reverse engineering .
 
 ## Referenties ##
 

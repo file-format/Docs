@@ -27,8 +27,8 @@ En utilisant l'appareil Amazon Kindle eReading, les lecteurs peuvent mettre en �
 
 ## Références
 
-* [Affichage des faits saillants populaires sur Kindles] (https://en.wikipedia.org/wiki/Orb_Books)
-* [Les faits saillants populaires révèlent un contenu qui clique] (https://www.searchenginepeople.com/blog/kindle-highlights.html)
-* [Comment désactiver les faits saillants populaires sur votre Kindle] (https://www.howtogeek.com/355701/how-to-turn-off-popular-highlights-on-your-kindle)
+* [Affichage des faits saillants populaires sur Kindles](https://en.wikipedia.org/wiki/Orb_Books)
+* [Les faits saillants populaires révèlent un contenu qui clique](https://www.searchenginepeople.com/blog/kindle-highlights.html)
+* [Comment désactiver les faits saillants populaires sur votre Kindle](https://www.howtogeek.com/355701/how-to-turn-off-popular-highlights-on-your-kindle)
 
 

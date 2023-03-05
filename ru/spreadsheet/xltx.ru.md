@@ -56,6 +56,6 @@
 
 ## Использованная литература ##
 
-* [[MS-XLSX] — формат файла .Xlsx] (https://msdn.microsoft.com/en-us/library/dd922181(v#office.12).aspx)
-* [Open Office XML] (http://officeopenxml.com/anatomyofOOXML-xlsx.php)
+* [[MS-XLSX] — формат файла .Xlsx](https://msdn.microsoft.com/en-us/library/dd922181(v#office.12).aspx)
+* [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

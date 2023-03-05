@@ -34,12 +34,12 @@
 تقارير التصميم مثل الكشوف والفواتير وتقارير المبيعات والعمليات والخطابات ووثائق الشحن والمواد التسويقية ووثائق الامتثال ومؤشرات الأداء وغيرها الكثير.
 
 ### التوافق
-يمكن تصدير الإخراج إلى تنسيقات مثل [XLS] (/ar/ spreadsheet / xlsx /) ، [CSV] (/ar/ spreadsheet / csv /) ، [PDF] (/ar/ pdf /) ، [DOCX] (/ar/ معالجة الكلمات / docx /) أو نص أو طباعة بدقة تصميم مثالية للبكسل.
+يمكن تصدير الإخراج إلى تنسيقات مثل [XLS](/ar/ spreadsheet / xlsx /) ، [CSV](/ar/ spreadsheet / csv /) ، [PDF](/ar/ pdf /) ، [DOCX](/ar/ معالجة الكلمات / docx /) أو نص أو طباعة بدقة تصميم مثالية للبكسل.
 
 
 
 
 ## مراجع ##
 
-- [Crystal_Reports - ويكيبيديا] (https://en.wikipedia.org/wiki/Crystal_Reports)
+- [Crystal_Reports - ويكيبيديا](https://en.wikipedia.org/wiki/Crystal_Reports)
 

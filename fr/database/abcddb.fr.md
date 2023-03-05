@@ -61,6 +61,6 @@ Supposons que les contacts de votre base de données AddressBook soient stockés
 Le connecteur ODBC SQLite est une bibliothèque logicielle et un pilote qui permettent aux applications prenant en charge l'interface ODBC de se connecter à une base de données SQLite. Il comprend une bibliothèque qui définit l'interface ODBC et un pilote qui traduit cette interface en appels à l'API SQLite. Pour utiliser le connecteur ODBC SQLite, vous devez d'abord l'installer, puis configurer une source de données ODBC sur votre ordinateur. Une fois ces étapes terminées, toute application équipée du support ODBC pourra se connecter à la source de données et récupérer les données de la base de données SQLite.
 
 ## Références
-* [Réparer la base de données de contacts corrompue] (https://discussions.apple.com/docs/DOC-10581)
-* [Base de données de contacts pour Mac] (https://nitroreward.weebly.com/blog/contact-database-for-mac)
+* [Réparer la base de données de contacts corrompue](https://discussions.apple.com/docs/DOC-10581)
+* [Base de données de contacts pour Mac](https://nitroreward.weebly.com/blog/contact-database-for-mac)
 * [Comment puis-je ouvrir ou exporter un fichier abcddb dans Windows 7 Excel ?](https://apple.stackexchange.com/questions/52888/how-can-i-open-or-export-a-abcddb-file-dans-windows-7-excel)

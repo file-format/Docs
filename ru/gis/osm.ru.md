@@ -79,7 +79,7 @@ OSM обрабатывает все эти файлы с информацией 
 
 ## Использованная литература ##
 
-* [Руководство по форматам файлов OSM] (https://osmcode.org/file-formats-manual/#file-types)
-* [OpenStreetMap] (https://en.wikipedia.org/wiki/OpenStreetMap#History)
+* [Руководство по форматам файлов OSM](https://osmcode.org/file-formats-manual/#file-types)
+* [OpenStreetMap](https://en.wikipedia.org/wiki/OpenStreetMap#History)
 * [Изучите OSM](https://learnosm.org/en/osm-data/getting-data/)
 

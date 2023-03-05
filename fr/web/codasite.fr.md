@@ -26,5 +26,5 @@ Le fichier de projet CODASITE est enregistré sur le disque sous forme de fichie
 
 ## Références
 
-* [Système de fichiers Coda] (https://en.wikipedia.org/wiki/Coda_(file_system))
+* [Système de fichiers Coda](https://en.wikipedia.org/wiki/Coda_(file_system))
 

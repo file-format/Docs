@@ -34,5 +34,5 @@ TreeSheets — это программа с открытым исходным к
 
 ## использованная литература
 
-* [Исходный дистрибутив TreeSheets — Github] (https://github.com/aardappel/treesheets)
+* [Исходный дистрибутив TreeSheets — Github](https://github.com/aardappel/treesheets)
 

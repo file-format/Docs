@@ -27,5 +27,5 @@ DVD-диски могут быть повреждены из-за возможн
 
 ## использованная литература
 
-* [Inside Video DVD-Video Files] (https://en.wikibooks.org/wiki/Inside_DVD-Video/IFO_Files)
+* [Inside Video DVD-Video Files](https://en.wikibooks.org/wiki/Inside_DVD-Video/IFO_Files)
 

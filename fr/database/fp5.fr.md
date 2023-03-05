@@ -26,5 +26,5 @@ Les détails du format de fichier interne du format de fichier FP5 ne sont pas d
 
 ## Références
 
-* [Convertir les versions antérieures des formats de fichiers FileMaker Pro au format de fichier FMP12] (https://fmhelp.filemaker.com/help/16/fmp/en/index.html#page/FMP_Help/converting-files.html)
+* [Convertir les versions antérieures des formats de fichiers FileMaker Pro au format de fichier FMP12](https://fmhelp.filemaker.com/help/16/fmp/en/index.html#page/FMP_Help/converting-files.html)
 

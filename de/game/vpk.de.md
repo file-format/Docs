@@ -42,5 +42,5 @@ Dadurch wird eine VPK-Datei aus dem angegebenen Verzeichnis erstellt und als ang
 ## Verweise
 
 * [Ventilsoftware](https://www.valvesoftware.com/en/)
-* [VPK-Entwicklerressourcen] (https://developer.valvesoftware.com/wiki/GCF)
+* [VPK-Entwicklerressourcen](https://developer.valvesoftware.com/wiki/GCF)
 

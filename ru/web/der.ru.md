@@ -173,5 +173,5 @@ openssl x509 -inform der -in DER_CERTIFICATE.der -out PEM_CERTIFICATE.pem
 
 * [Получить цифровой сертификат и создать цифровую подпись
 ](https://support.microsoft.com/en-us/office/obtain-a-digital-certificate-and-create-a-digital-signature-e3d9d813-3305-4164-a820-2e063d86e512)
-* [Открытые ключи, закрытые ключи и сертификаты] (https://docs.oracle.com/cd/E19509-01/820-3503/ggbgc/index.html)
+* [Открытые ключи, закрытые ключи и сертификаты](https://docs.oracle.com/cd/E19509-01/820-3503/ggbgc/index.html)
 

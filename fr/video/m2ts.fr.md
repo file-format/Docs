@@ -37,7 +37,7 @@ Certaines personnes peuvent confondre les fichiers MTS et M2TS. Expliquons la di
 ## Références ##
 
 - [.m2ts - Wikipédia](https://en.wikipedia.org/wiki/.m2ts)
-- [Format vidéo AVCHD : différence entre MTS et M2TS] (https://www.videosolo.com/tutorials/mts-vs-m2ts.html)
+- [Format vidéo AVCHD : différence entre MTS et M2TS](https://www.videosolo.com/tutorials/mts-vs-m2ts.html)
 
 
 

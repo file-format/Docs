@@ -69,5 +69,5 @@ Dodatkowe informacje dotyczące obiektów zadeklarowanych w bloku deklaracji zna
 ## Bibliografia ##
 
 * [Format pliku U3D – Wikipedia](https://en.wikipedia.org/wiki/Universal_3D)
-* [Specyfikacje formatu plików ECMA U3D] (https://www.ecma-international.org/publications/standards/Ecma-363.htm)
+* [Specyfikacje formatu plików ECMA U3D](https://www.ecma-international.org/publications/standards/Ecma-363.htm)
 

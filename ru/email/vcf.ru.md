@@ -100,5 +100,5 @@ END:VCARD
 
 ## использованная литература
 
-* [VCF — Википедия] (https://en.wikipedia.org/wiki/VCard)
+* [VCF — Википедия](https://en.wikipedia.org/wiki/VCard)
 

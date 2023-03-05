@@ -24,9 +24,9 @@ Le format de fichier VID n'est plus pris en charge et maintenu par les jeux vid�
 
 ## Exemples de fichiers VID
 
-Des exemples de fichiers du jeu vidéo Bethesda [fichiers vidéo VID] (http://samples.mplayerhq.hu/game-formats/bethsoft-vid/) sont disponibles par communauté de jeu. Ceux-ci peuvent être téléchargés et essayés.
+Des exemples de fichiers du jeu vidéo Bethesda [fichiers vidéo VID](http://samples.mplayerhq.hu/game-formats/bethsoft-vid/) sont disponibles par communauté de jeu. Ceux-ci peuvent être téléchargés et essayés.
 
 ## Références ##
 
-- [Formats de jeu] (http://samples.mplayerhq.hu/game-formats/bethsoft-vid/)
+- [Formats de jeu](http://samples.mplayerhq.hu/game-formats/bethsoft-vid/)
 

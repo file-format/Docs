@@ -23,5 +23,5 @@
 
 ## использованная литература
 
-* [Ошибка импорта в проекте iOS] (https://developer.apple.com/forums/thread/92931)
+* [Ошибка импорта в проекте iOS](https://developer.apple.com/forums/thread/92931)
 

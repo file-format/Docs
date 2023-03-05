@@ -22,7 +22,7 @@ Az FDF (**Forms Data Format**) fájl egy szöveges dokumentum, amely egy [PDF](/
 
 ## FDF fájlformátum - További információ
 
-Az FDF egyszerű szöveges formátum, és az [ISO 32000 szabvány] (https://www.iso.org/standard/51502.html) része a hordozható dokumentumformátumhoz. Az Adobe fejlesztette ki, hogy lehetővé tegye az adatok importálását és exportálását az Acrobat Forms-ból vagy AcroForms-ból.
+Az FDF egyszerű szöveges formátum, és az [ISO 32000 szabvány](https://www.iso.org/standard/51502.html) része a hordozható dokumentumformátumhoz. Az Adobe fejlesztette ki, hogy lehetővé tegye az adatok importálását és exportálását az Acrobat Forms-ból vagy AcroForms-ból.
 
 Kétféle FDF fájl létezik:
 

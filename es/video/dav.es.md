@@ -23,12 +23,12 @@ Un archivo DAV es un archivo de video comprimido y encriptado creado por DVR365 
 
 ## Formato de archivo DAV - Más información
 
-Los archivos DAV se almacenan en el disco en formato de archivo binario encriptado. El cifrado evita el uso no autorizado de estos archivos. Por lo tanto, estos son propiedad de los sistemas de CCTV de [Dahua Technology] (https://www.dahuasecurity.com/). Algunas otras cámaras de Dahua Technologies también pueden guardar el video de vigilancia como archivos DAV.
+Los archivos DAV se almacenan en el disco en formato de archivo binario encriptado. El cifrado evita el uso no autorizado de estos archivos. Por lo tanto, estos son propiedad de los sistemas de CCTV de [Dahua Technology](https://www.dahuasecurity.com/). Algunas otras cámaras de Dahua Technologies también pueden guardar el video de vigilancia como archivos DAV.
 
 Dahua Smart Player se puede usar para abrir y reproducir archivos DAV.
 
 ## Referencias ##
 
 * [Tecnología Dahua](https://www.dahuasecurity.com/)
-* [Integración de Home Assistant Dahua] (https://github.com/rroller/dahua)
+* [Integración de Home Assistant Dahua](https://github.com/rroller/dahua)
 

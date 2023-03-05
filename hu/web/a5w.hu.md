@@ -19,7 +19,7 @@
 
 ## Mi az A5W fájl?
 
-Az A5W-fájl egy szerveroldali weboldal, amelyet [Alpha Five](https://www.alphasoftware.com/) szoftverrel hoztak létre, és olyan kódot tartalmaz, amelyet a böngészőn keresztül elérő felhasználóknak kiszolgálnak. Hasonló az [.asp](/hu/web/asp/) és [.php](/hu/web/php/) oldalakhoz, de szintaxisában különbözik, mivel ezek az [Alpha Five szintaxis] (https://documentation) nyelven íródnak. alphasoftware.com/documentation/pages/GettingStarted/index.html). Az Alpha Five egy többplatformos webes és mobilalkalmazás-fejlesztő eszköz gyors alkalmazási eszközhöz. Lehetővé teszi dinamikus weboldal-összetevők és böngészőkben futtatható asztali-szerű alkalmazások létrehozását is. Az A5W fájlok az Alpha 5 szoftverben nyithatók meg.
+Az A5W-fájl egy szerveroldali weboldal, amelyet [Alpha Five](https://www.alphasoftware.com/) szoftverrel hoztak létre, és olyan kódot tartalmaz, amelyet a böngészőn keresztül elérő felhasználóknak kiszolgálnak. Hasonló az [.asp](/hu/web/asp/) és [.php](/hu/web/php/) oldalakhoz, de szintaxisában különbözik, mivel ezek az [Alpha Five szintaxis](https://documentation) nyelven íródnak. alphasoftware.com/documentation/pages/GettingStarted/index.html). Az Alpha Five egy többplatformos webes és mobilalkalmazás-fejlesztő eszköz gyors alkalmazási eszközhöz. Lehetővé teszi dinamikus weboldal-összetevők és böngészőkben futtatható asztali-szerű alkalmazások létrehozását is. Az A5W fájlok az Alpha 5 szoftverben nyithatók meg.
 
 ## A5W fájlformátum
 

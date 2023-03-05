@@ -33,5 +33,5 @@ Ressourcen in einer APK-Datei werden durch die Ressourcen-IDs referenziert, wäh
 
 ## Verweise
 
-* [Struktur der binären Ressourcentabelle] (https://stackoverflow.com/questions/27548810/android-compiled-resources-resources-arsc)
+* [Struktur der binären Ressourcentabelle](https://stackoverflow.com/questions/27548810/android-compiled-resources-resources-arsc)
 

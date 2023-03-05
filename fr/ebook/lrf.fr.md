@@ -61,6 +61,6 @@ Toutes ces valeurs sont dans l'ordre Intel (LSB en premier).
 
 ## Références
 
-* [Format de fichier LRF] (https://web.archive.org/web/20110809071744/http://www.sven.de/librie/Librie/LrfFormat)
+* [Format de fichier LRF](https://web.archive.org/web/20110809071744/http://www.sven.de/librie/Librie/LrfFormat)
 * [BBeB - Par Wikipédia](https://en.wikipedia.org/wiki/BBeB)
 

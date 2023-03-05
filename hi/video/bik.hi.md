@@ -29,5 +29,5 @@ BIK वीडियो, RAD Game Tools द्वारा विकसित व
 
 ## संदर्भ ##
 
-- [विकिपीडिया द्वारा बिंक वीडियो] (https://en.wikipedia.org/wiki/Bink_Video)
+- [विकिपीडिया द्वारा बिंक वीडियो](https://en.wikipedia.org/wiki/Bink_Video)
 

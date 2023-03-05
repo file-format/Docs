@@ -23,12 +23,12 @@ Un archivo NPK es un archivo de paquete de actualización de software utilizado 
 
 ## Formato de archivo NPK
 
-Los archivos NPK se almacenan como archivos binarios comprimidos. Es un formato de archivo cerrado que solo utilizan los propios MikroTik. No está destinado a crear complementos de RouterOS a través de terceros. Los archivos NPK son mantenidos por MikroTik y las versiones actualizadas de los mismos se pueden descargar desde las secciones de descarga del sitio web [MikroTik] (https://mikrotik.com/download).
+Los archivos NPK se almacenan como archivos binarios comprimidos. Es un formato de archivo cerrado que solo utilizan los propios MikroTik. No está destinado a crear complementos de RouterOS a través de terceros. Los archivos NPK son mantenidos por MikroTik y las versiones actualizadas de los mismos se pueden descargar desde las secciones de descarga del sitio web [MikroTik](https://mikrotik.com/download).
 
 Cuando se carga un archivo NPK en un enrutador, el sistema operativo del enrutador no entra en vigencia a menos que se reinicie. Por lo tanto, se requiere un reinicio para que se actualice el sistema operativo del enrutador.
 
 ## Referencias
 
-* [MikroTik - Actualización del sistema operativo del enrutador] (https://mikrotik.com/download)
+* [MikroTik - Actualización del sistema operativo del enrutador](https://mikrotik.com/download)
 * [Cómo crear archivos NPK](https://forum.mikrotik.com/viewtopic.php?t=87126)
 

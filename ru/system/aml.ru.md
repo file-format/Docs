@@ -48,7 +48,7 @@ DefinitionBlock ("test.aml", "DSDT", 1, "OEMID ", "TABLEID  ", 0x00000000)
 
 ## использованная литература
 
-* [ACPI AML] (https://wiki.osdev.org/AML)
-* [DSDT] (https://wiki.osdev.org/DSDT)
-* [SSDT] (https://wiki.osdev.org/SSDT)
+* [ACPI AML](https://wiki.osdev.org/AML)
+* [DSDT](https://wiki.osdev.org/DSDT)
+* [SSDT](https://wiki.osdev.org/SSDT)
 

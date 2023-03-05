@@ -31,5 +31,5 @@ Les fichiers THM sont des images raster enregistrées sur disque au format de fi
 Les fichiers THM sont des vignettes pour les vidéos enregistrées par des caméscopes. Leur suppression n'aura aucun effet car la vidéo d'origine reste conservée.
 
 ## Références
-* [Adobe Photoshop] (https://www.adobe.com/products/photoshop.html)
+* [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 

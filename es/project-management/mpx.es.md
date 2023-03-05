@@ -25,7 +25,7 @@ Microsoft Project 4.0 introdujo soporte para crear y leer formatos de archivo MP
 
 ## Formato de archivo MPX ##
 
-En esta sección se proporciona una descripción general de las especificaciones del archivo MPX. Las especificaciones completas se pueden encontrar en esta [Base de conocimientos] (https://support.microsoft.com/en-us/office/file-formats-supported-by-project-desktop-face808f-77ab-4fce-9353-14144ba1b9ae) artículo y se puede consultar para obtener más detalles.
+En esta sección se proporciona una descripción general de las especificaciones del archivo MPX. Las especificaciones completas se pueden encontrar en esta [Base de conocimientos](https://support.microsoft.com/en-us/office/file-formats-supported-by-project-desktop-face808f-77ab-4fce-9353-14144ba1b9ae) artículo y se puede consultar para obtener más detalles.
 
 ### Registros ###
 

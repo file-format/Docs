@@ -81,6 +81,6 @@
 
 ## مراجع ##
 
-* [تنسيق Windows MetaFile] (http://msdn.microsoft.com/en-us/library/cc250370.aspx)
-* [تنسيق ملف BMP] (https://en.wikipedia.org/wiki/BMP_file_format)
+* [تنسيق Windows MetaFile](http://msdn.microsoft.com/en-us/library/cc250370.aspx)
+* [تنسيق ملف BMP](https://en.wikipedia.org/wiki/BMP_file_format)
 

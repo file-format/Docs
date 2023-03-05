@@ -29,5 +29,5 @@ Der RSView-Anwendungsmanager speichert die .apa-Dateien unter Windows XP standar
 ## Verweise
 
 * [Rapid Equipment Interface QuickStart](https://literature.rockwellautomation.com/idc/groups/literature/documents/qs/rapid-qs001_-en-p.pdf)
-* [Umschalten zwischen Sprachen auf der HMI] (https://literature.rockwellautomation.com/idc/groups/literature/documents/at/iasimp-at001_-en-p.pdf)
+* [Umschalten zwischen Sprachen auf der HMI](https://literature.rockwellautomation.com/idc/groups/literature/documents/at/iasimp-at001_-en-p.pdf)
 

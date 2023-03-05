@@ -22,5 +22,5 @@ ITW फ़ाइल एक डेटाबेस फ़ाइल स्वरू
 
 ## संदर्भ
 
-* [इनटच] (https://www.intouchsoftware.co.uk/InTouch)
+* [इनटच](https://www.intouchsoftware.co.uk/InTouch)
 

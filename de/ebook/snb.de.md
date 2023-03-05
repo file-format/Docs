@@ -35,7 +35,7 @@ Wenn Sie die SNB-Datei nicht öffnen und ausführen können; Dies bedeutet nicht
 
 ## Verweise
 
-* [Samsung Galaxy Note-Telefone] (https://www.samsung.com/us/mobile/phones/galaxy-note/)
+* [Samsung Galaxy Note-Telefone](https://www.samsung.com/us/mobile/phones/galaxy-note/)
 
 
 

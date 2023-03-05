@@ -93,7 +93,7 @@ X3D — это формат файла 3D-графики на основе [XML]
 
 ## Использованная литература ##
 
-* [X3D — Википедия] (https://en.wikipedia.org/wiki/X3D)
+* [X3D — Википедия](https://en.wikipedia.org/wiki/X3D)
 * [Официальный сайт консорциума Web3D](http://www.web3d.org/)
-* [Официальный сайт X3D] (http://www.web3d.org/x3d/what-x3d)
+* [Официальный сайт X3D](http://www.web3d.org/x3d/what-x3d)
 

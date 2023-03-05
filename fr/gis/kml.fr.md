@@ -172,5 +172,5 @@ Les informations contenues dans tout fichier géospatial sur les géolocalisatio
 
 * [Référence KML](https://developers.google.com/kml/documentation/kmlreference)
 * [Tutoriel de développement Google pour KML](https://developers.google.com/kml/documentation/kml_tut)
-* [Format de fichier KML] (https://en.wikipedia.org/wiki/Keyhole_Markup_Language)
+* [Format de fichier KML](https://en.wikipedia.org/wiki/Keyhole_Markup_Language)
 

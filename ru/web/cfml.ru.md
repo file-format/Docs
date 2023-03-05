@@ -62,5 +62,5 @@
 
 ## использованная литература
 
-* [ColdFusion] (https://www.quackit.com/coldfusion/tutorial/)
+* [ColdFusion](https://www.quackit.com/coldfusion/tutorial/)
 

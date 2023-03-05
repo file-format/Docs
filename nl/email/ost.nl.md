@@ -58,7 +58,7 @@ De header begint met een toverwoord van 4 bytes **!BDN** vertegenwoordigd door b
 |bidNextP (Unicode: 8 bytes; ANSI: 4 bytes)|Volgende pagina BID. Pagina's hebben een speciale teller voor het toewijzen van bidIndex-waarden. De waarde van bidIndex voor BID's voor pagina's wordt toegewezen vanuit deze teller.
 |bidNextB (alleen 4 bytes ANSI): |Next BID. Deze waarde is de monotone teller die de BID aangeeft die moet worden toegewezen voor het volgende toegewezen blok. BID-waarden lopen op in stappen van 4. Voor meer details, zie paragraaf 2.2.2.2.
 |dwUnique (4 bytes)|Dit is een monotoon toenemende waarde die elke keer dat de HEADER-structuur van het PST-bestand wordt gewijzigd, wordt gewijzigd. De functie van deze waarde is om een unieke waarde te bieden en om ervoor te zorgen dat de HEADER CRC's na elke kopwijziging anders zijn.
-|rgnid[] (128 bytes)|Een vaste array van 32 NID's, die elk overeenkomen met een van de 32 mogelijke NID_TYPE's (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE,NID_TYPE_ASSOC_MESSAGE)
+|rgnid[](128 bytes)|Een vaste array van 32 NID's, die elk overeenkomen met een van de 32 mogelijke NID_TYPE's (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE,NID_TYPE_ASSOC_MESSAGE)
 |qwOngebruikt (8 bytes)|Ongebruikte ruimte; MOET op nul staan. Alleen Unicode PST-bestandsindeling.
 |root (Unicode: 72 bytes; ANSI: 40 bytes)|Een ROOT-structuur (paragraaf 2.2.2.5).
 |dwAlign (4 bytes)|Ongebruikte uitlijnbytes; MOET op nul staan. Alleen Unicode PST-bestandsindeling.

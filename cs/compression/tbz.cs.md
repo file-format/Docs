@@ -23,7 +23,7 @@ Soubor s příponou .tbz je komprimovaný archiv, který používá kompresi BZI
 
 ## Formát souboru TBZ
 
-Soubory TBZ jsou ve skutečnosti komprimované archivy vytvořené pomocí komprese BZIP/[BZIP2](/cs/compression/bz2). Pro tento formát souboru nejsou k dispozici žádné formální specifikace. Neoficiální [reverzně vytvořené specifikace] (https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) však ukazují, že stream .bz2 se skládá ze 4bajtového záhlaví, které následuje o nula nebo více komprimovaných bloků.
+Soubory TBZ jsou ve skutečnosti komprimované archivy vytvořené pomocí komprese BZIP/[BZIP2](/cs/compression/bz2). Pro tento formát souboru nejsou k dispozici žádné formální specifikace. Neoficiální [reverzně vytvořené specifikace](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) však ukazují, že stream .bz2 se skládá ze 4bajtového záhlaví, které následuje o nula nebo více komprimovaných bloků.
 
 ## Reference ##
 

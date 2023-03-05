@@ -28,5 +28,5 @@ Les fichiers AWS sont stockés sur disque en tant que fichiers binaires. Cependa
 ## Références ##
 
 * [Ability Office - Wikipédia](https://en.wikipedia.org/wiki/Ability_Office)
-* [Ability Office] (https://www.ability.com/en/home/home)
+* [Ability Office](https://www.ability.com/en/home/home)
 

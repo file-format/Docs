@@ -19,7 +19,7 @@
 
 ## Tệp FODT là gì?
 
-Tệp có phần mở rộng .fodt là một tài liệu văn bản được lưu ở định dạng tệp OpenDocument phẳng [XML](/vi/web/xml/). Trái ngược với các tệp .odt, được lưu ở định dạng tệp chứa [.zip](/vi/compression/zip/), các tệp FODT được lưu vào đĩa dưới dạng tệp con người có thể đọc được, có thể mở trong bất kỳ trình soạn thảo văn bản nào để xem dưới dạng tài liệu XML thuần túy . Tiêu chuẩn tài liệu văn phòng OpenDocument được phát triển bởi tập đoàn công nghiệp OASIS, mở đường cho bất kỳ ai cũng có thể thực hiện bởi bất kỳ ai mà không có bất kỳ hạn chế nào. Các định dạng tệp OpenDocument phổ biến khác bao gồm [.odt](/vi/word-processing/odt/), [.ott](/vi/word-processing/ott/), [.ods](/vi/spreadsheet/ods/), [.odp] (/vi/presentation/odp/), và những cái khác tương tự.
+Tệp có phần mở rộng .fodt là một tài liệu văn bản được lưu ở định dạng tệp OpenDocument phẳng [XML](/vi/web/xml/). Trái ngược với các tệp .odt, được lưu ở định dạng tệp chứa [.zip](/vi/compression/zip/), các tệp FODT được lưu vào đĩa dưới dạng tệp con người có thể đọc được, có thể mở trong bất kỳ trình soạn thảo văn bản nào để xem dưới dạng tài liệu XML thuần túy . Tiêu chuẩn tài liệu văn phòng OpenDocument được phát triển bởi tập đoàn công nghiệp OASIS, mở đường cho bất kỳ ai cũng có thể thực hiện bởi bất kỳ ai mà không có bất kỳ hạn chế nào. Các định dạng tệp OpenDocument phổ biến khác bao gồm [.odt](/vi/word-processing/odt/), [.ott](/vi/word-processing/ott/), [.ods](/vi/spreadsheet/ods/), [.odp](/vi/presentation/odp/), và những cái khác tương tự.
 
 ## Định dạng tệp FODT - Thông tin khác
 

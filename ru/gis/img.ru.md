@@ -30,5 +30,5 @@
 
 ## Использованная литература ##
 
-* [Формат файла GARMIN IMG — Википедия] (https://en.wikipedia.org/wiki/Garmin_.img)
+* [Формат файла GARMIN IMG — Википедия](https://en.wikipedia.org/wiki/Garmin_.img)
 

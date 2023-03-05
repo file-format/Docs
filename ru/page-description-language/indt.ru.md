@@ -27,5 +27,5 @@ Adobe InDesign предоставляет несколько шаблонов в
 
 ## использованная литература
 
-* [Тип файла INDD — Adobe] (https://www.adobe.com/creativecloud/file-types/image/vector/indd-file.html)
+* [Тип файла INDD — Adobe](https://www.adobe.com/creativecloud/file-types/image/vector/indd-file.html)
 

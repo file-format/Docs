@@ -35,5 +35,5 @@ Para abrir el archivo .nri en Nero Burning ROM, necesitará tener el software in
 Como alternativa, también puede abrir un archivo .nri haciendo doble clic en él, si Nero Burning ROM está configurado como el programa predeterminado para abrir archivos .nri. También puede utilizar otro software compatible con el formato nri, como Nero Express, Nero BackItUp, Nero MediaHome y Nero Recode.
 
 ## Referencias
-* [ROM de grabación de Nero] (https://en.wikipedia.org/wiki/Nero_Burning_ROM)
+* [ROM de grabación de Nero](https://en.wikipedia.org/wiki/Nero_Burning_ROM)
 

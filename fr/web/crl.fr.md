@@ -39,6 +39,6 @@ Il peut y avoir plusieurs raisons pour lesquelles le certificat de votre site We
 ## Références
 
 * [Institut national des normes et de la technologie (NIST)](https://csrc.nist.gov/glossary/term/CRL)
-* [RFC 5280 de l'IETF (Internet Engineering Task Force)] (https://tools.ietf.org/html/rfc5280)
-* [Liste de révocation de certification] (https://en.wikipedia.org/wiki/Certificate_revocation_list)
+* [RFC 5280 de l'IETF (Internet Engineering Task Force)](https://tools.ietf.org/html/rfc5280)
+* [Liste de révocation de certification](https://en.wikipedia.org/wiki/Certificate_revocation_list)
 

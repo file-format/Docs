@@ -23,10 +23,10 @@
 
 ## تنسيق ملف FB2
 
-تم تطوير تنسيق ملف FictionBook 2.0 بواسطة ديمتري جريبوف من FictionBook في روسيا. بخلاف تنسيقات ملفات الكتب الإلكترونية الشائعة الأخرى مثل [EPUB] (/ar/ ebook / epub /) التي تحتوي على ملفات XML متعددة ، فهي تستند إلى ملف XML واحد يحتوي على معلومات كاملة حول المحتويات. إذا كانت هناك صور داخل الملف مثل [PNG] (/ar/ image / png /) أو [JPG] (/ar/ image / jpeg /) ، يتم تحويلها إلى Base64 وتضمينها داخل المستند. تحتوي [مواصفات تنسيق الملف] (http://gribuser.ru/xml/fictionbook/index.html.en) لـ FB2 على معلومات عن الإصدار 2.0 من التنسيق.
+تم تطوير تنسيق ملف FictionBook 2.0 بواسطة ديمتري جريبوف من FictionBook في روسيا. بخلاف تنسيقات ملفات الكتب الإلكترونية الشائعة الأخرى مثل [EPUB](/ar/ ebook / epub /) التي تحتوي على ملفات XML متعددة ، فهي تستند إلى ملف XML واحد يحتوي على معلومات كاملة حول المحتويات. إذا كانت هناك صور داخل الملف مثل [PNG](/ar/ image / png /) أو [JPG](/ar/ image / jpeg /) ، يتم تحويلها إلى Base64 وتضمينها داخل المستند. تحتوي [مواصفات تنسيق الملف](http://gribuser.ru/xml/fictionbook/index.html.en) لـ FB2 على معلومات عن الإصدار 2.0 من التنسيق.
 
 ## مراجع ##
 
-* [FB2 - بواسطة ويكيبيديا] (https://en.wikipedia.org/wiki/FictionBook)
-* [مواصفات كتاب الخيال] (http://gribuser.ru/xml/fictionbook/index.html.en)
+* [FB2 - بواسطة ويكيبيديا](https://en.wikipedia.org/wiki/FictionBook)
+* [مواصفات كتاب الخيال](http://gribuser.ru/xml/fictionbook/index.html.en)
 

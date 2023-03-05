@@ -28,5 +28,5 @@
 ## использованная литература
 
 * [PuppyLinux](https://en.wikipedia.org/wiki/Puppy_Linux)
-* [Указатель пакетов PuppyLinux PET] (https://distro.ibiblio.org/puppylinux/pet-packages-lucid/)
+* [Указатель пакетов PuppyLinux PET](https://distro.ibiblio.org/puppylinux/pet-packages-lucid/)
 

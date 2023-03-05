@@ -30,5 +30,5 @@ ALB फाइलें अल्फा फाइल प्रोप्राइ�
 ## संदर्भ
 
 * [एडीबी फाइल](/hi/डेटाबेस/एडीबी/)
-* [अल्फा कहीं भी आईडीई] (https://documentation.alphasoftware.com/pages/GettingStarted/IDE/index.xml)
+* [अल्फा कहीं भी आईडीई](https://documentation.alphasoftware.com/pages/GettingStarted/IDE/index.xml)
 

@@ -22,5 +22,5 @@
 
 ## использованная литература
 
-* [BuRg3r — Github] (https://github.com/jacquelinekong/BURGer)
+* [BuRg3r — Github](https://github.com/jacquelinekong/BURGer)
 

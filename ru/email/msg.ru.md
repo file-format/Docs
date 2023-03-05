@@ -58,9 +58,9 @@ MSG — это формат файла, используемый [Microsoft Outl
 
 ## Пример файла MSG
 
-Чтобы получить представление о том, как выглядит файл MSG, вы можете загрузить [пример файла MSG] (https://products.conholdate.app/viewer/view/mL7cmq6qYbcNG329P/sample-msg-file.msg) и открыть на своем компьютер для просмотра его содержимого.
+Чтобы получить представление о том, как выглядит файл MSG, вы можете загрузить [пример файла MSG](https://products.conholdate.app/viewer/view/mL7cmq6qYbcNG329P/sample-msg-file.msg) и открыть на своем компьютер для просмотра его содержимого.
 
 ## использованная литература
 
-* [[MS-OXMSG]: формат файла Outlook MSG] (https://msdn.microsoft.com/en-us/library/cc463912(v#exchg.80).aspx)
+* [[MS-OXMSG]: формат файла Outlook MSG](https://msdn.microsoft.com/en-us/library/cc463912(v#exchg.80).aspx)
 

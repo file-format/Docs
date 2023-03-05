@@ -99,5 +99,5 @@ function updateHeading() {
 
 ## संदर्भ ##
 
-- [जेएस - विकिपीडिया] (https://en.wikipedia.org/wiki/JavaScript)
+- [जेएस - विकिपीडिया](https://en.wikipedia.org/wiki/JavaScript)
 

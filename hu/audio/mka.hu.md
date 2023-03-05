@@ -24,7 +24,7 @@ Az MKA (Matroska Audio) a hanghoz használt Matroska multimédiás konténer for
 
 A projekt 2002-ben indult Oroszországból, Lasse Kärkkäinen vezető fejlesztővel. Együtt dolgozott Steve Lhomme-mal (a Matroska alapítója) és egy csapat programozóval. A Matroska Multimedia Containert nyílt szabványú projektként fejlesztették ki, ami azt jelenti, hogy nyílt forráskódú és ingyenesen használható. Az idő múlásával a formátum javult, és 2010-ben ez lett a WebM multimédiás formátum alapja.
 
-A Matroska multimédiás konténer tervezésével és felépítésével kapcsolatos információkért tekintse meg az [MKV] (/hu/video/mkv/) Matroska Design és Matroska szerkezete című részét.
+A Matroska multimédiás konténer tervezésével és felépítésével kapcsolatos információkért tekintse meg az [MKV](/hu/video/mkv/) Matroska Design és Matroska szerkezete című részét.
 
 ## Az MKA formátum használatának előnyei az eredeti hangformátumok, például MP3 helyett ##
 

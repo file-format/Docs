@@ -30,7 +30,7 @@ EMZ файловете са [Gzip](/bg/compression/gz/) компресирани
 * Компресирани данни
 * Долен колонтитул на файла
 
-Файловият формат GZIP [спецификации версия 4.3] (http://tools.ietf.org/html/rfc1952), публикуван от Internet Engineering Task Force (IETF), съдържа подробна информация за файловия формат.
+Файловият формат GZIP [спецификации версия 4.3](http://tools.ietf.org/html/rfc1952), публикуван от Internet Engineering Task Force (IETF), съдържа подробна информация за файловия формат.
 
 ## Препратки
 

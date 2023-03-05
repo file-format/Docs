@@ -27,5 +27,5 @@ Les fichiers GROOVY contiennent du code source écrit dans la syntaxe Groovy. Il
 ## Référence ##
 
 * [APACHE GROOVY - par Wikipédia](https://en.wikipedia.org/wiki/Apache_Groovy)
-* [Langage Groovy] (https://groovy-lang.org/documentation.html)
+* [Langage Groovy](https://groovy-lang.org/documentation.html)
 

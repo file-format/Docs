@@ -40,5 +40,5 @@ NTUSER.DAT هو ملف خلية تسجيل شائع. يستخدم سجل Microso
 
 ## مراجع ##
 
-* [ملفات البيانات - ويكيبيديا] (https://en.wikipedia.org/wiki/Data_file)
+* [ملفات البيانات - ويكيبيديا](https://en.wikipedia.org/wiki/Data_file)
 

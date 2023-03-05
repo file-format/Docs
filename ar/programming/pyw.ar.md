@@ -29,6 +29,6 @@ lastmod: 2022-05-09
 
 ## مراجع
 
-* [Python Wiki] (https://wiki.python.org/moin/Pyrex)
-* [Python (لغة برمجة) - ويكيبيديا] (https://en.wikipedia.org/wiki/Python_ (architecture_language))
+* [Python Wiki](https://wiki.python.org/moin/Pyrex)
+* [Python (لغة برمجة) - ويكيبيديا](https://en.wikipedia.org/wiki/Python_ (architecture_language))
 

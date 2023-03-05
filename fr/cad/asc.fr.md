@@ -38,5 +38,5 @@ nodata_value -999999
 
 ## Références
 
-* [Importer des données de points à partir d'un fichier ASCII contenant des colonnes définies par l'utilisateur] (https://knowledge.autodesk.com/support/civil-3d/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Civil3D-UserGuide/files /GUID-B4286EEA-F2FC-4267-87CD-E17C47876AF8-htm.html)
+* [Importer des données de points à partir d'un fichier ASCII contenant des colonnes définies par l'utilisateur](https://knowledge.autodesk.com/support/civil-3d/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Civil3D-UserGuide/files /GUID-B4286EEA-F2FC-4267-87CD-E17C47876AF8-htm.html)
 

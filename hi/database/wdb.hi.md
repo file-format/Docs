@@ -33,5 +33,5 @@ WDB फ़ाइल की संरचना नीचे दी गई है:
 
 ## संदर्भ ##
 
-* [उपयोगकर्ता: जेसीडब्ल्यू/डब्ल्यूडीबी प्रारूप] (https://en.wikipedia.org/wiki/User:JesseW/wdb_format)
+* [उपयोगकर्ता: जेसीडब्ल्यू/डब्ल्यूडीबी प्रारूप](https://en.wikipedia.org/wiki/User:JesseW/wdb_format)
 

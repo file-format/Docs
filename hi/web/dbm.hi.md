@@ -27,6 +27,6 @@
 
 ## संदर्भ
 
-* [कोल्ड फ्यूजन मार्कअप लैंग्वेज] (https://people.apache.org/~jim/NewArchitect/webtech/2000/08/junk/index.html)
-* [एडोब कोल्डफ्यूजन] (https://en.wikipedia.org/wiki/Adobe_ColdFusion)
+* [कोल्ड फ्यूजन मार्कअप लैंग्वेज](https://people.apache.org/~jim/NewArchitect/webtech/2000/08/junk/index.html)
+* [एडोब कोल्डफ्यूजन](https://en.wikipedia.org/wiki/Adobe_ColdFusion)
 

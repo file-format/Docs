@@ -19,7 +19,7 @@
 
 ## ما هو ملف INDT؟
 
-الملف بامتداد .indt هو ملف قالب تخطيط Adobe InDesign يحتوي على إعدادات محددة مسبقًا. يتضمن تصميم ومحتويات هذه الملفات قوالب للنشرات الإخبارية والكتب والمجلات والنشرات والوسائط المطبوعة. بمجرد الانتهاء من التحرير ، يمكن حفظ ملف INDT على القرص كملف [INDD] (/ar/ page-description-language / indd /). يمكن للمستخدم أيضًا إنشاء ملف INDT جديد من داخل InDesign وتحويله إلى تنسيقات أخرى مثل [PDF] (/ar/ pdf /) أو [EPUB] (/ar/ ebook / epub /) أو [JPEG] (/ar/ image / jpeg /) .
+الملف بامتداد .indt هو ملف قالب تخطيط Adobe InDesign يحتوي على إعدادات محددة مسبقًا. يتضمن تصميم ومحتويات هذه الملفات قوالب للنشرات الإخبارية والكتب والمجلات والنشرات والوسائط المطبوعة. بمجرد الانتهاء من التحرير ، يمكن حفظ ملف INDT على القرص كملف [INDD](/ar/ page-description-language / indd /). يمكن للمستخدم أيضًا إنشاء ملف INDT جديد من داخل InDesign وتحويله إلى تنسيقات أخرى مثل [PDF](/ar/ pdf /) أو [EPUB](/ar/ ebook / epub /) أو [JPEG](/ar/ image / jpeg /) .
 
 ## تنسيق ملف INDT - مزيد من المعلومات
 
@@ -27,5 +27,5 @@
 
 ## مراجع
 
-* [نوع ملف INDD - Adobe] (https://www.adobe.com/creativecloud/file-types/image/vector/indd-file.html)
+* [نوع ملف INDD - Adobe](https://www.adobe.com/creativecloud/file-types/image/vector/indd-file.html)
 

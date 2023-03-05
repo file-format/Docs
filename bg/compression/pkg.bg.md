@@ -31,6 +31,6 @@ PKR са двоични файлове, които са компресирани
 
 ## Препратки
 
-* [Файлов формат с плосък пакет] (http://s.sudre.free.fr/Stuff/Ivanhoe/FLAT.html)
+* [Файлов формат с плосък пакет](http://s.sudre.free.fr/Stuff/Ivanhoe/FLAT.html)
 * [PKG - Wikipedia](https://en.wikipedia.org/wiki/.pkg)
 

@@ -23,7 +23,7 @@ Un archivo con la extensión .mht es un formato de archivo de archivo habilitado
 
 ## Formato de archivo MHT
 
-Al igual que [MHTML](/es/web/mhtml/), MHT también es una encapsulación MIME de documentos HTML agregados. El contenido del documento dentro de un documento MHT, como imágenes en línea, hojas de estilo, subprogramas, etc., están codificados con MIME cuando están vinculados a un recurso raíz a través de URI. Los clientes de correo electrónico como Microsoft Outlook almacenan correos electrónicos (generalmente [EML](/es/email/eml/)) en formato de archivo MHT. Las especificaciones completas del formato de archivo MHT están disponibles en [RFC 822] (https://tools.ietf.org/html/rfc822) y se pueden consultar para el desarrollo de aplicaciones de software que pueden procesar archivos MHT.
+Al igual que [MHTML](/es/web/mhtml/), MHT también es una encapsulación MIME de documentos HTML agregados. El contenido del documento dentro de un documento MHT, como imágenes en línea, hojas de estilo, subprogramas, etc., están codificados con MIME cuando están vinculados a un recurso raíz a través de URI. Los clientes de correo electrónico como Microsoft Outlook almacenan correos electrónicos (generalmente [EML](/es/email/eml/)) en formato de archivo MHT. Las especificaciones completas del formato de archivo MHT están disponibles en [RFC 822](https://tools.ietf.org/html/rfc822) y se pueden consultar para el desarrollo de aplicaciones de software que pueden procesar archivos MHT.
 
 ## Diferencia entre MHT y MHTML
 
@@ -36,5 +36,5 @@ Naturalmente, es sencillo manejar archivos MHT o MHTML porque el archivo puede p
 ## Referencias
 
 * [MHTML - Wikipedia](https://en.wikipedia.org/wiki/MHTML)
-* [RFC de MHT] (https://tools.ietf.org/html/rfc822)
+* [RFC de MHT](https://tools.ietf.org/html/rfc822)
 

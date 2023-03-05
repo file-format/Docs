@@ -27,7 +27,7 @@ XSD फ़ाइलें सादे पाठ फ़ाइल स्वरू
 
 ## एक्सएसडी फ़ाइल का उदाहरण
 
-खरीद ऑर्डर स्कीमा वाली एक साधारण XSD फ़ाइल टैग का उपयोग करने वाले तत्वों को परिभाषित करती है जैसा कि निम्नलिखित में दिखाया गया है [Microsoft द्वारा XSD उदाहरण] (https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file) -सरल-स्कीमा? देखें = बनाम-2022)।
+खरीद ऑर्डर स्कीमा वाली एक साधारण XSD फ़ाइल टैग का उपयोग करने वाले तत्वों को परिभाषित करती है जैसा कि निम्नलिखित में दिखाया गया है [Microsoft द्वारा XSD उदाहरण](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file) -सरल-स्कीमा? देखें = बनाम-2022)।
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"

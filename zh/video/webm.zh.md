@@ -20,7 +20,7 @@ lastmod: 2020-09-12
 
 ## WEBM 文件格式
 
-WebM 文件结构基于 Matroska [MKV](/zh/video/mkv/) 容器文件格式的子集。 WebM 文件中可用的视频流使用压缩效率很高的 VP8 或 VP9 压缩技术进行压缩。同样，WebM 文件中的音频流使用由 [Xiph Foundation] (https://www.xiph.org/) 开发的 Vorbis 或 Opus 编解码器进行压缩。所有这些视频和音频编解码器都是免版税的，可以免费使用。
+WebM 文件结构基于 Matroska [MKV](/zh/video/mkv/) 容器文件格式的子集。 WebM 文件中可用的视频流使用压缩效率很高的 VP8 或 VP9 压缩技术进行压缩。同样，WebM 文件中的音频流使用由 [Xiph Foundation](https://www.xiph.org/) 开发的 Vorbis 或 Opus 编解码器进行压缩。所有这些视频和音频编解码器都是免版税的，可以免费使用。
 
 以下是 WebM 文件格式的摘要规范。
 

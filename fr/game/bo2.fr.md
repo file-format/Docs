@@ -32,5 +32,5 @@ Les fichiers BO2 sont créés à l'aide d'un outil appelé MCEdit, qui est un pr
 
 ## Références
 
-* [Contrôle du terrain pour Bukkit & Forge] (https://dev.bukkit.org/projects/terrain-control)
+* [Contrôle du terrain pour Bukkit & Forge](https://dev.bukkit.org/projects/terrain-control)
 

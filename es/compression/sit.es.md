@@ -28,5 +28,5 @@ Los archivos SIT se guardan en formato de archivo binario y los detalles de su f
 ## Referencias
 
 * [StuffIt - Por Wikipedia](https://en.wikipedia.org/wiki/StuffIt)
-* [Cosas] (https://stuffit.com/)
+* [Cosas](https://stuffit.com/)
 

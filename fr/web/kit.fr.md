@@ -46,5 +46,5 @@ Vous pouvez également importer plusieurs fichiers à la fois en utilisant une l
 
 ## Références
 
-* [Qu'est-ce que Kit ?] (https://codekitapp.com/help/kit/)
+* [Qu'est-ce que Kit ?](https://codekitapp.com/help/kit/)
 

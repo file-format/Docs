@@ -19,7 +19,7 @@
 
 ## Co je soubor MD5?
 
-Soubor MD5 je soubor kontrolního součtu používaný k ověření integrity souboru. Je podobný otisku prstu pro přidružený soubor a je jednoznačně generován pomocí algoritmu, který používá počet bitů v souboru. Používá se k ověření souboru pomocí softwaru, jako je [md5sum] (http://www.gnu.org/software/coreutils/manual/html_node/md5sum-invocation.html). Jednou z výhod používání souborů MD5 je ověření, že stažené soubory nejsou poškozeny.
+Soubor MD5 je soubor kontrolního součtu používaný k ověření integrity souboru. Je podobný otisku prstu pro přidružený soubor a je jednoznačně generován pomocí algoritmu, který používá počet bitů v souboru. Používá se k ověření souboru pomocí softwaru, jako je [md5sum](http://www.gnu.org/software/coreutils/manual/html_node/md5sum-invocation.html). Jednou z výhod používání souborů MD5 je ověření, že stažené soubory nejsou poškozeny.
 
 ## Formát souboru MD5 – Další informace
 

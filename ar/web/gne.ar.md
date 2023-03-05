@@ -22,9 +22,9 @@
 
 ## تنسيق ملف GNE - مزيد من المعلومات
 
-تم استخدام ملفات GNE بواسطة لعبة الكمبيوتر ، Game Never Ending ، التي طورتها [Ludicorp] (https://en.wikipedia.org/wiki/Ludicorp). تم الحصول على Flicker لاحقًا بواسطة Yahoo! في مارس 2005.
+تم استخدام ملفات GNE بواسطة لعبة الكمبيوتر ، Game Never Ending ، التي طورتها [Ludicorp](https://en.wikipedia.org/wiki/Ludicorp). تم الحصول على Flicker لاحقًا بواسطة Yahoo! في مارس 2005.
 
 ## مراجع
 
-* [Ludicorp] (https://en.wikipedia.org/wiki/Ludicorp)
+* [Ludicorp](https://en.wikipedia.org/wiki/Ludicorp)
 

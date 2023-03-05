@@ -49,5 +49,5 @@ gpg cfile.txt.gpg
 ## संदर्भ
 
 * [जीएनयूपीजी](https://gnupg.org/)
-* [एचडीएफ - विकिपीडिया] (https://en.wikipedia.org/wiki/Hierarchical_Data_Format)
+* [एचडीएफ - विकिपीडिया](https://en.wikipedia.org/wiki/Hierarchical_Data_Format)
 

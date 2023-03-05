@@ -41,6 +41,6 @@ ALAC файловият формат е Apple Lossless Audio Codec (ALAC), ко�
 ## Препратки
 
 * [ALAC – Wikipedia](https://en.wikipedia.org/wiki/Apple_Lossless)
-* [Apple Lossless Audio Codec] (https://macosforge.github.io/alac/)
+* [Apple Lossless Audio Codec](https://macosforge.github.io/alac/)
 * [macosforge - alac в GitHub](https://github.com/macosforge/alac)
 

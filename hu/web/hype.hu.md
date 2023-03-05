@@ -28,7 +28,7 @@ A HYPE fájlokat védett fájlformátumban tárolják, és ezek belső részlete
 
 ### A HYPE fájl tartalma
 
-A HYPE fájl akkor jön létre, ha a Hype alkalmazást webtartalom létrehozására használja különböző célokra. Információkat tárol a kulcskép-alapú animációkról olyan tartalmak létrehozásához, mint például e-kártyák, e-könyvek, prezentációk, hirdetések, infografikák és weboldalak anyagok. Ezek tartalmát a HTML5 vezérli, amely lehetővé teszi a tartalom megjelenítését az eszközökön, az asztali számítógépektől az iPhone-okig és iPadekig. A Tumult Hype a legmodernebb HTML5-öt, a [CSS3](/hu/web/css/) stílusokat és a [JavaScriptet] (/hu/web/js/) adja ki.
+A HYPE fájl akkor jön létre, ha a Hype alkalmazást webtartalom létrehozására használja különböző célokra. Információkat tárol a kulcskép-alapú animációkról olyan tartalmak létrehozásához, mint például e-kártyák, e-könyvek, prezentációk, hirdetések, infografikák és weboldalak anyagok. Ezek tartalmát a HTML5 vezérli, amely lehetővé teszi a tartalom megjelenítését az eszközökön, az asztali számítógépektől az iPhone-okig és iPadekig. A Tumult Hype a legmodernebb HTML5-öt, a [CSS3](/hu/web/css/) stílusokat és a [JavaScriptet](/hu/web/js/) adja ki.
 
 ## Hivatkozások
 

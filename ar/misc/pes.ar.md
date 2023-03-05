@@ -36,9 +36,9 @@
 
 ## كيفية تحويل ملفات PSE؟
 
-يمكن لتطبيق برنامج PE-Design [تحويل ملف PSE] (https://support.brother.com/g/s/hf/htmldoc/ped/im/ped11/en/PED11_EN/index.html#!/11_1088392؟hl = pes + ملف) إلى تنسيقات أخرى مثل .pes أو .dst أو .exp أو .pcs أو .hus أو .vip أو .shv أو .jef أو .sew أو .csd أو .xxx. يمكن القيام بذلك باستخدام تطبيق PE-Design عن طريق فتح الملف واختيار تنسيق التحويل.
+يمكن لتطبيق برنامج PE-Design [تحويل ملف PSE](https://support.brother.com/g/s/hf/htmldoc/ped/im/ped11/en/PED11_EN/index.html#!/11_1088392؟hl = pes + ملف) إلى تنسيقات أخرى مثل .pes أو .dst أو .exp أو .pcs أو .hus أو .vip أو .shv أو .jef أو .sew أو .csd أو .xxx. يمكن القيام بذلك باستخدام تطبيق PE-Design عن طريق فتح الملف واختيار تنسيق التحويل.
 
 ## مراجع
 
-* [تصميم PE - دليل التعليمات] (https://support.brother.com/g/s/hf/htmldoc/ped/im/ped11/en/PED11_EN/index.html#!/)
+* [تصميم PE - دليل التعليمات](https://support.brother.com/g/s/hf/htmldoc/ped/im/ped11/en/PED11_EN/index.html#!/)
 

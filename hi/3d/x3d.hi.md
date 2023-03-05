@@ -95,5 +95,5 @@ X3D दृश्य फ़ाइलों में एक सामान्य
 
 * [X3D - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/X3D)
 * [वेब3डी कंसोर्टियम की आधिकारिक वेबसाइट](http://www.web3d.org/)
-* [X3D आधिकारिक वेबसाइट] (http://www.web3d.org/x3d/what-x3d)
+* [X3D आधिकारिक वेबसाइट](http://www.web3d.org/x3d/what-x3d)
 

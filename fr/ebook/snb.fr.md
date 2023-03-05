@@ -35,7 +35,7 @@ Si vous ne parvenez pas à ouvrir et à exécuter le fichier SNB ; cela ne signi
 
 ## Références
 
-* [Téléphones Samsung Galaxy Note] (https://www.samsung.com/us/mobile/phones/galaxy-note/)
+* [Téléphones Samsung Galaxy Note](https://www.samsung.com/us/mobile/phones/galaxy-note/)
 
 
 

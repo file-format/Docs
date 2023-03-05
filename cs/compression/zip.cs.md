@@ -19,7 +19,7 @@
 
 ## Co je to soubor ZIP? ##
 
-Soubor s příponou .zip je archiv, který může obsahovat jeden nebo více souborů nebo adresářů. Archiv může mít kompresi aplikovanou na zahrnuté soubory, aby se zmenšila velikost souboru ZIP. Formát souboru ZIP byl zveřejněn již v únoru 1989 Philem Katzem pro dosažení archivace souborů a složek. Formát byl součástí nástroje [PKZIP](https://www.pkware.com/pkzip), vytvořeného společností PKWARE, Inc. Hned po zpřístupnění [dostupných specifikací](https://pkware.cachefly.net/ webdocs/casestudies/APPNOTE.TXT), mnoho společností učinilo souborový formát ZIP součástí svých softwarových nástrojů, včetně Microsoftu (od Windows 7), Apple (Mac OS X) a mnoha dalších.
+Soubor s příponou .zip je archiv, který může obsahovat jeden nebo více souborů nebo adresářů. Archiv může mít kompresi aplikovanou na zahrnuté soubory, aby se zmenšila velikost souboru ZIP. Formát souboru ZIP byl zveřejněn již v únoru 1989 Philem Katzem pro dosažení archivace souborů a složek. Formát byl součástí nástroje [PKZIP](https://www.pkware.com/pkzip), vytvořeného společností PKWARE, Inc. Hned po zpřístupnění [dostupných specifikací](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT), mnoho společností učinilo souborový formát ZIP součástí svých softwarových nástrojů, včetně Microsoftu (od Windows 7), Apple (Mac OS X) a mnoha dalších.
 
 ## Stručná historie formátu souboru ZIP
 
@@ -42,7 +42,7 @@ Podle specifikací formátu souboru .ZIP jsou podporovány následující metody
 * WavPack
 * PPMd verze I, Rev 1
 
-DEFLATE je běžně používaná metoda komprese, což je bezztrátový algoritmus komprese data, který používá kombinaci kódování LZ77 a Huffman a je podrobně popsán v [RFC 1951] (https://tools.ietf.org/html/rfc1951).
+DEFLATE je běžně používaná metoda komprese, což je bezztrátový algoritmus komprese data, který používá kombinaci kódování LZ77 a Huffman a je podrobně popsán v [RFC 1951](https://tools.ietf.org/html/rfc1951).
 
 ## Specifikace formátu souboru ZIP
 
@@ -152,4 +152,3 @@ Záhlaví místního souboru má specifickou strukturu polí sestávající z v�
 
 * [Specifikace formátu souboru ZIP PKWARE](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
 * [Struktura souboru PKZip](https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip-printable.html)
-

@@ -57,5 +57,5 @@
 
 ## Использованная литература ##
 
-* [Формат файла GIF] (https://en.wikipedia.org/wiki/GIF)
+* [Формат файла GIF](https://en.wikipedia.org/wiki/GIF)
 

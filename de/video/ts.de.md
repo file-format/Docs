@@ -34,7 +34,7 @@ Außerdem werden TS-Dateien verwendet, da das Sendesystem nicht den gesamten Str
 
 ## Wie spielt man TS-Dateien ab?
 
-Nun, TS-Dateien können im beliebten [VideoLAN VLC Media Player] (https://www.videolan.org/vlc/features.html) geöffnet und abgespielt werden, der kostenlos zum Download zur Verfügung steht.
+Nun, TS-Dateien können im beliebten [VideoLAN VLC Media Player](https://www.videolan.org/vlc/features.html) geöffnet und abgespielt werden, der kostenlos zum Download zur Verfügung steht.
 
 ## Verweise ##
 

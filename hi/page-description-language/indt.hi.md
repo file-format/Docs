@@ -27,5 +27,5 @@ Adobe InDesign सॉफ़्टवेयर के साथ-साथ ऑन�
 
 ## संदर्भ
 
-* [आईएनडीडी फ़ाइल प्रकार - एडोब] (https://www.adobe.com/creativecloud/file-types/image/vector/indd-file.html)
+* [आईएनडीडी फ़ाइल प्रकार - एडोब](https://www.adobe.com/creativecloud/file-types/image/vector/indd-file.html)
 

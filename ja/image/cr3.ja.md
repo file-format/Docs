@@ -23,7 +23,7 @@ CR3 ファイルは、一部の Canon デジタル カメラで作成される C
 
 ## CR3 ファイル形式
 
-CR3 ファイルは、ISO Base Media File Format (ISO/IEC 14496-12) のバイナリ ファイルとしてディスクに保存され、カスタムの [Canon タグ] (https://exiftool.org/TagNames/Canon.html#uuid) も含まれます。また、JPEG-LS (Rice-Golomb + RLEコーディング) および JPEG-2000 (LeGall 5/3 DWT + 定量化)。
+CR3 ファイルは、ISO Base Media File Format (ISO/IEC 14496-12) のバイナリ ファイルとしてディスクに保存され、カスタムの [Canon タグ](https://exiftool.org/TagNames/Canon.html#uuid) も含まれます。また、JPEG-LS (Rice-Golomb + RLEコーディング) および JPEG-2000 (LeGall 5/3 DWT + 定量化)。
 
 ## CR3 カスタム タグ
 

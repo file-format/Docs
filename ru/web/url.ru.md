@@ -26,5 +26,5 @@
 
 ## использованная литература
 
-* [Глобальная структура документа HTML] (https://www.w3.org/TR/html401/struct/global.html#h-7.5.4)
+* [Глобальная структура документа HTML](https://www.w3.org/TR/html401/struct/global.html#h-7.5.4)
 

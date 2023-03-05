@@ -124,5 +124,5 @@ Les données de pixel d'image sont contenues dans la section Données d'image du
 ## Références ##
 
 * [Spécifications du format de fichier PSD - Par Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/#50577409_pgfId-1030196)
-* [Format de fichier Adobe Photoshop] (https://en.wikipedia.org/wiki/Adobe_Photoshop#File_format)
+* [Format de fichier Adobe Photoshop](https://en.wikipedia.org/wiki/Adobe_Photoshop#File_format)
 

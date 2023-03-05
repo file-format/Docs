@@ -19,7 +19,7 @@
 
 ## ما هو ملف AEP؟ ##
 
-تم تصنيف الملف بامتداد .aep (الذي يرمز إلى ** Activ E-Book Project **) ككتاب إلكتروني (كتاب إلكتروني). يتم إنشاء ملفات AEP باستخدام نفس محرك Internet Explorer لضمان توافق بنسبة 100٪. يحتوي على صفحات مثل يمكن لأي شخص قراءة كتاب مادي. عادةً ما تتضمن صفحات ملفات AEP النص والصور والرسوم المتحركة والارتباطات التشعبية. كما أنه يدعم [HTML] (/ar/ web / html /) و [DHTML] (/ar/ web / dhtml /) و [JPEG] (/ar/ image / jpeg /) و [PNG] (/ar/ image / png /) الرسومات والرسوم المتحركة و [JavaScript] (/ar/ web / js /) و VBScript والعديد من المكونات الإضافية لـ Internet Explorer. يمكن حفظ ملف AEP كملف Windows قابل للتنفيذ (EXE) بحيث يمكن فتحه على Windows95 أو الإصدارات الأحدث من Microsoft Windows.
+تم تصنيف الملف بامتداد .aep (الذي يرمز إلى ** Activ E-Book Project **) ككتاب إلكتروني (كتاب إلكتروني). يتم إنشاء ملفات AEP باستخدام نفس محرك Internet Explorer لضمان توافق بنسبة 100٪. يحتوي على صفحات مثل يمكن لأي شخص قراءة كتاب مادي. عادةً ما تتضمن صفحات ملفات AEP النص والصور والرسوم المتحركة والارتباطات التشعبية. كما أنه يدعم [HTML](/ar/ web / html /) و [DHTML](/ar/ web / dhtml /) و [JPEG](/ar/ image / jpeg /) و [PNG](/ar/ image / png /) الرسومات والرسوم المتحركة و [JavaScript](/ar/ web / js /) و VBScript والعديد من المكونات الإضافية لـ Internet Explorer. يمكن حفظ ملف AEP كملف Windows قابل للتنفيذ (EXE) بحيث يمكن فتحه على Windows95 أو الإصدارات الأحدث من Microsoft Windows.
  
 
 
@@ -41,6 +41,6 @@
 
 ## مراجع
 
-* [Activ E-Book Compiler 4.22] (https://activ-e-book-compiler.software.informer.com/)
+* [Activ E-Book Compiler 4.22](https://activ-e-book-compiler.software.informer.com/)
 
 

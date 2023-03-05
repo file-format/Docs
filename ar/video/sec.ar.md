@@ -24,7 +24,7 @@ lastmod: 2022-03-25
 
 ### تحويل ملف SEC إلى AVI
 
-يمكن تحويل ملف SEC إلى تنسيق الملف القياسي [AVI] (/ar/ video / avi /) باستخدام FFmpeg.
+يمكن تحويل ملف SEC إلى تنسيق الملف القياسي [AVI](/ar/ video / avi /) باستخدام FFmpeg.
 
 ```
 ffmpeg -i 0010600.sec -vcodec copy -vsync drop -fflags genpts -f avi 0010600.avi
@@ -32,5 +32,5 @@ ffmpeg -i 0010600.sec -vcodec copy -vsync drop -fflags genpts -f avi 0010600.avi
 
 ## مراجع ##
 
-- [ملفات Samsung و SEC] (https://spreadys.wordpress.com/2013/07/19/samsung-and-sec-files/)
+- [ملفات Samsung و SEC](https://spreadys.wordpress.com/2013/07/19/samsung-and-sec-files/)
 

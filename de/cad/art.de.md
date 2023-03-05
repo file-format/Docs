@@ -27,6 +27,6 @@ ART-Dateien wurden als Binärdateien auf Disc gespeichert, ohne dass ART-Dateifo
 
 ## Verweise
 
-* [ArtCAM Autodesk] (https://www.autodesk.com/products/artcam/overview)
+* [ArtCAM Autodesk](https://www.autodesk.com/products/artcam/overview)
 * [Autodesk ArtCAM kann keine Grafikdateien öffnen, die in früheren Legacy-Versionen erstellt wurden](https://knowledge.autodesk.com/search-result/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in -vorherige-legacy-versionen.html)
 

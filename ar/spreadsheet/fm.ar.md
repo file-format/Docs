@@ -23,13 +23,13 @@
 
 ## تنسيق ملف FM - مزيد من المعلومات
 
-لا يتوفر الكثير من المعلومات حول تنسيق الملف الداخلي وهيكل ملفات FM. استضاف الأرشيف الوطني [PRONOM] (https://www.nationalarchives.gov.uk/PRONOM/fmt/1059) حول تنسيق ملف FM كمرجع.
+لا يتوفر الكثير من المعلومات حول تنسيق الملف الداخلي وهيكل ملفات FM. استضاف الأرشيف الوطني [PRONOM](https://www.nationalarchives.gov.uk/PRONOM/fmt/1059) حول تنسيق ملف FM كمرجع.
 
 ## كيفية تحويل ملفات FileMaker Pro القديمة إلى تنسيق ملف .fmp12؟
 
-يمكن لبرنامج FileMaker Pro تحويل FM مباشرة إلى تنسيق ملف fmp12. دليل خطوة بخطوة لـ [تحويل ملفات FM إلى .fmp12] (https://support.claris.com/s/article/Converting-older-FileMaker-Pro-files-to-the-fmp12-file-format-1503693002275؟ language = en_US) لهذا الغرض.
+يمكن لبرنامج FileMaker Pro تحويل FM مباشرة إلى تنسيق ملف fmp12. دليل خطوة بخطوة لـ [تحويل ملفات FM إلى .fmp12](https://support.claris.com/s/article/Converting-older-FileMaker-Pro-files-to-the-fmp12-file-format-1503693002275؟ language = en_US) لهذا الغرض.
 
 ## مراجع
 
-* [FileMaker Pro] (https://www.claris.com/filemaker/pro/)
-* [PRONOM - FM File Format] (https://www.nationalarchives.gov.uk/PRONOM/fmt/1059)
+* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [PRONOM - FM File Format](https://www.nationalarchives.gov.uk/PRONOM/fmt/1059)

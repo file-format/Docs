@@ -71,5 +71,5 @@ XSL-FO 1.1 में ऐसी विशेषताएँ हैं जो उ�
 ## संदर्भ ##
 
 * [XSL-FO क्या है?](https://www.xml.com/articles/2017/01/01/what-is-xsl-fo/)
-* [XSL स्वरूपण ऑब्जेक्ट] (https://en.wikipedia.org/wiki/XSL_Formatting_Objects)
+* [XSL स्वरूपण ऑब्जेक्ट](https://en.wikipedia.org/wiki/XSL_Formatting_Objects)
 

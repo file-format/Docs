@@ -23,7 +23,7 @@
 
 ## تنسيق ملف ARSC
 
-ملفات الامتداد .arsc هي ملفات ثنائية يتم إنشاؤها بعد أن يقوم المترجم ، مثل ANT (Eclipse) أو Gradle (AS) ، بتجميع كود تطبيق Android لإنتاج ملف [APK] (/ar/ compression / apk /). يمكنك استخراج ملف APK باستخدام أي أداة أرشفة مثل WinZip لعرض محتوياته ، وهي ملفات فئة جافا المجمعة أي class.dex. بالإضافة إلى ذلك ، فهو يحتوي على ملف ARSC هذا أيضًا الذي يحتوي على معلومات وصفية حول:
+ملفات الامتداد .arsc هي ملفات ثنائية يتم إنشاؤها بعد أن يقوم المترجم ، مثل ANT (Eclipse) أو Gradle (AS) ، بتجميع كود تطبيق Android لإنتاج ملف [APK](/ar/ compression / apk /). يمكنك استخراج ملف APK باستخدام أي أداة أرشفة مثل WinZip لعرض محتوياته ، وهي ملفات فئة جافا المجمعة أي class.dex. بالإضافة إلى ذلك ، فهو يحتوي على ملف ARSC هذا أيضًا الذي يحتوي على معلومات وصفية حول:
 
 * عقد XML
 * الصفات
@@ -33,5 +33,5 @@
 
 ## مراجع
 
-* [بنية جدول الموارد الثنائية] (https://stackoverflow.com/questions/27548810/android-compiled-resources-resources-arsc)
+* [بنية جدول الموارد الثنائية](https://stackoverflow.com/questions/27548810/android-compiled-resources-resources-arsc)
 

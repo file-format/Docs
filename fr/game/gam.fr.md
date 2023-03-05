@@ -45,6 +45,6 @@ Le fichier GAM a la structure suivante :
 ## Références
 
 
-* [Format de fichier GAM] (https://gibberlings3.github.io/iesdp/file_formats/ie_formats/gam_v2.0.htm#GAMEV2_0_Stored)
+* [Format de fichier GAM](https://gibberlings3.github.io/iesdp/file_formats/ie_formats/gam_v2.0.htm#GAMEV2_0_Stored)
 
 

@@ -37,5 +37,5 @@ Les fichiers CT sont enregistrés avec les emplacements d'adresse et d'autres in
 
 ## Références
 
-* [Moteur de triche] (https://www.cheatengine.org/)
+* [Moteur de triche](https://www.cheatengine.org/)
 

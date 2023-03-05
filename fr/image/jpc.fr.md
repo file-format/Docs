@@ -25,5 +25,5 @@ Les fichiers JPC peuvent être ouverts avec Adobe Photoshop 2022, Adobe Photosho
 ## Références ##
 
 * [Aperçu de JPEG 2000](https://jpeg.org/jpeg2000)
-* [Système de codage d'image JPEG 2000] (https://en.wikipedia.org/wiki/JPEG_2000#JPEG_2000_image_coding_system_-_Parts)
+* [Système de codage d'image JPEG 2000](https://en.wikipedia.org/wiki/JPEG_2000#JPEG_2000_image_coding_system_-_Parts)
 

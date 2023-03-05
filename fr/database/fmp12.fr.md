@@ -26,5 +26,5 @@ Formats de fichier FileMaker Pro plus anciens tels que les bases de données 11,
 
 ## Références
 
-* [Convertir les versions antérieures des formats de fichiers FileMaker Pro au format de fichier FMP12] (https://fmhelp.filemaker.com/help/16/fmp/en/index.html#page/FMP_Help/converting-files.html)
+* [Convertir les versions antérieures des formats de fichiers FileMaker Pro au format de fichier FMP12](https://fmhelp.filemaker.com/help/16/fmp/en/index.html#page/FMP_Help/converting-files.html)
 

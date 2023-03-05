@@ -34,7 +34,7 @@ Kromě toho se používají soubory TS, protože vysílací systém nepotřebuje
 
 ## Jak přehrávat soubory TS?
 
-Soubory TS lze otevřít a přehrát v populárním [VideoLAN VLC media player] (https://www.videolan.org/vlc/features.html), který je volně dostupný ke stažení.
+Soubory TS lze otevřít a přehrát v populárním [VideoLAN VLC media player](https://www.videolan.org/vlc/features.html), který je volně dostupný ke stažení.
 
 ## Reference ##
 

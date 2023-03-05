@@ -23,7 +23,7 @@
 
 ## Формат файла GSM
 
-Файлы GSM сохраняются в двоичном формате, и детали его внутренней файловой структуры недоступны для разработчиков. Программное обеспечение MapViewer поставляется с образцами файлов GSM и некоторыми файлами [DAT] (https://docs.fileformat.com/database/dat/), которые используются для создания дополнительных файлов GSM.
+Файлы GSM сохраняются в двоичном формате, и детали его внутренней файловой структуры недоступны для разработчиков. Программное обеспечение MapViewer поставляется с образцами файлов GSM и некоторыми файлами [DAT](https://docs.fileformat.com/database/dat/), которые используются для создания дополнительных файлов GSM.
 
 ### О MapViewer
 
@@ -32,6 +32,6 @@ MapViewer позволяет вам работать с файлами карт,
 ## Использованная литература ##
 
 * [Где скачать файлы границ для использования в MapViewer](https://support.goldensoftware.com/hc/en-us/articles/226664588-Where-to-download-boundary-files-for-use-in-MapViewer )
-* [Справка MapViewer] (https://mapviewerhelp.goldensoftware.com/)
-* [База знаний MapViewer] (https://support.goldensoftware.com/hc/en-us/categories/115000653887-MapViewer)
+* [Справка MapViewer](https://mapviewerhelp.goldensoftware.com/)
+* [База знаний MapViewer](https://support.goldensoftware.com/hc/en-us/categories/115000653887-MapViewer)
 

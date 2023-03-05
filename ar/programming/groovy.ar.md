@@ -18,7 +18,7 @@
 
 ## ما هو ملف GROOVY؟
 
-ملف GROOVY هو ملف شفرة مصدر مكتوب بلغة برمجة Groovy. الكود المكتوب داخل ملف GROOVY مشابه للغة الموجهة للكائنات [Java] (/ar/ البرمجة / java /) ، مما يجعل من السهل تصميم التطبيقات وتطويرها. يتم تجميع ملف GROOVY إلى كود Java الظاهري للجهاز (JVM) وهو متوافق مع أكواد Java الأخرى والمكتبات.
+ملف GROOVY هو ملف شفرة مصدر مكتوب بلغة برمجة Groovy. الكود المكتوب داخل ملف GROOVY مشابه للغة الموجهة للكائنات [Java](/ar/ البرمجة / java /) ، مما يجعل من السهل تصميم التطبيقات وتطويرها. يتم تجميع ملف GROOVY إلى كود Java الظاهري للجهاز (JVM) وهو متوافق مع أكواد Java الأخرى والمكتبات.
 
 ## تنسيق ملف GROOVY - مزيد من المعلومات
 
@@ -26,6 +26,6 @@
 
 ## المرجعي ##
 
-* [APACHE GROOVY - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/Apache_Groovy)
-* [لغة رائعة] (https://groovy-lang.org/documentation.html)
+* [APACHE GROOVY - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Apache_Groovy)
+* [لغة رائعة](https://groovy-lang.org/documentation.html)
 

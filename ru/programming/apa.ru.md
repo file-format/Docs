@@ -28,6 +28,6 @@
 
 ## использованная литература
 
-* [Быстрый запуск интерфейса оборудования] (https://literature.rockwellautomation.com/idc/groups/literature/documents/qs/rapid-qs001_-en-p.pdf)
-* [Переключение между языками в HMI] (https://literature.rockwellautomation.com/idc/groups/literature/documents/at/iasimp-at001_-en-p.pdf)
+* [Быстрый запуск интерфейса оборудования](https://literature.rockwellautomation.com/idc/groups/literature/documents/qs/rapid-qs001_-en-p.pdf)
+* [Переключение между языками в HMI](https://literature.rockwellautomation.com/idc/groups/literature/documents/at/iasimp-at001_-en-p.pdf)
 

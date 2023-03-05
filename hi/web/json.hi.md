@@ -92,6 +92,6 @@ JSON फ़ाइल के अधिकतम आकार की व्या�
 
 ## संदर्भ
 
-- [JSON - विकिपीडिया] (https://en.wikipedia.org/wiki/CSS)
+- [JSON - विकिपीडिया](https://en.wikipedia.org/wiki/CSS)
 - [JSON का एक परिचय](https://www.digitalocean.com/community/tutorials/an-introduction-to-json)
 

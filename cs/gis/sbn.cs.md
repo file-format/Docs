@@ -18,7 +18,7 @@
 
 ## Co je soubor SBN?
 
-Soubor s příponou .sbn je soubor prostorového indexu, který je přidružen k souboru ESRI ArcGIS [.shp](/cs/gis/shp/). Používá se k optimalizaci prostorových dotazů, když byl na datech proveden index. Dalším typem souboru používaným vedle .sbn je soubor .sbx. Soubory SBN a SBX společně tvoří index tvaru pro urychlení prostorových dotazů. Soubory SBN jsou volitelné a lze je otevřít pomocí [ESRI ArcGIS Pro] (https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview).
+Soubor s příponou .sbn je soubor prostorového indexu, který je přidružen k souboru ESRI ArcGIS [.shp](/cs/gis/shp/). Používá se k optimalizaci prostorových dotazů, když byl na datech proveden index. Dalším typem souboru používaným vedle .sbn je soubor .sbx. Soubory SBN a SBX společně tvoří index tvaru pro urychlení prostorových dotazů. Soubory SBN jsou volitelné a lze je otevřít pomocí [ESRI ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview).
 
 ## Formát souboru SBN – Další informace
 

@@ -43,7 +43,7 @@ Die Java HS-Dateien liegen im XML-Dateiformat vor und basieren auf der vom World
 
 ### Beispiel für ein Java-HS-Dateiformat
 
-Das Folgende ist ein Beispiel einer Helpset-Datei aus der [Oracle Helpset-Dokumentation] (https://docs.oracle.com/cd/E19253-01/819-0913/author/helpset.html).
+Das Folgende ist ein Beispiel einer Helpset-Datei aus der [Oracle Helpset-Dokumentation](https://docs.oracle.com/cd/E19253-01/819-0913/author/helpset.html).
 
 ```html
 <?xml version='1.0' encoding='ISO-8859-1' ?>
@@ -145,7 +145,7 @@ Das Folgende ist ein Beispiel einer Helpset-Datei aus der [Oracle Helpset-Dokume
 ```
 
 ## Verweise
-* [Oracle Java Helpset-Datei] (https://docs.oracle.com/cd/E19253-01/819-0913/author/helpset.html)
+* [Oracle Java Helpset-Datei](https://docs.oracle.com/cd/E19253-01/819-0913/author/helpset.html)
 
 # HS - Haskell-Skriptdateiformat
 

@@ -35,5 +35,5 @@ bzip2 -d filename.bz2
 
 ## Bibliografia
 
-* [Specyfikacje formatu BZIP2] (https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf)
+* [Specyfikacje formatu BZIP2](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf)
 

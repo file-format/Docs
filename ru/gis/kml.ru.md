@@ -170,7 +170,7 @@ KML изначально был разработан для использова
 
 ## Использованная литература ##
 
-* [Справочник по KML] (https://developers.google.com/kml/documentation/kmlreference)
+* [Справочник по KML](https://developers.google.com/kml/documentation/kmlreference)
 * [Учебник Google для разработчиков по KML](https://developers.google.com/kml/documentation/kml_tut)
-* [Формат файла KML] (https://en.wikipedia.org/wiki/Keyhole_Markup_Language)
+* [Формат файла KML](https://en.wikipedia.org/wiki/Keyhole_Markup_Language)
 

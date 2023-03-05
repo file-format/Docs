@@ -18,7 +18,7 @@
 }
 
 ## WDB ما ه
-الملف بامتداد .wdb هو في الواقع ملف قاعدة بيانات تم إنشاؤه بواسطة Microsoft Works والذي تم استخدامه لأداء وظائف مثل نظام إدارة قاعدة البيانات. ملف WDB مشابه لملف Access Database ([MDB] (/ar/ database / mdb /)) ، لكنه أقل كفاءة وقيود أكبر. لا يمكن فتح ملفات WDB باستخدام Microsoft Access. ومع ذلك ، يمكنك فتح ملف WDB في Microsoft Works ثم تصديره إلى ملف MDB ، من أجل فتح ملف WDB في MS Access.
+الملف بامتداد .wdb هو في الواقع ملف قاعدة بيانات تم إنشاؤه بواسطة Microsoft Works والذي تم استخدامه لأداء وظائف مثل نظام إدارة قاعدة البيانات. ملف WDB مشابه لملف Access Database ([MDB](/ar/ database / mdb /)) ، لكنه أقل كفاءة وقيود أكبر. لا يمكن فتح ملفات WDB باستخدام Microsoft Access. ومع ذلك ، يمكنك فتح ملف WDB في Microsoft Works ثم تصديره إلى ملف MDB ، من أجل فتح ملف WDB في MS Access.
 
 ## تنسيق ملف WDB
 قاعدة بيانات Microsoft Works هي تنسيق قاعدة البيانات الأصلي لمجموعة Microsoft Works Office. بسبب طبيعة الملكية للشكل وبعض القيود. لا يمكن فتح ملفات WDB في أي برنامج آخر غير Microsoft Works. في تنسيق الملف ، يمكن العثور على رأس متكرر 10 بايت قبل كل سلسلة نصية ASCII تمثل قيم الحقول التي تم إنهاؤها بقيمة NULL. يبدأ الرأس عمومًا بـ ** \ x0f ** بايت و NULL ، متبوعًا بـ 4 بايت بيانات بالتناوب مع القيم الخالية.
@@ -33,5 +33,5 @@
 
 ## مراجع ##
 
-* [المستخدم: تنسيق JesseW / wdb] (https://en.wikipedia.org/wiki/User:JesseW/wdb_format)
+* [المستخدم: تنسيق JesseW / wdb](https://en.wikipedia.org/wiki/User:JesseW/wdb_format)
 

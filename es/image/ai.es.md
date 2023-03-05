@@ -23,7 +23,7 @@ Un archivo con una extensión .ai es un archivo de ilustraciones de Adobe Illust
 
 ## Formato de archivo AI
 
-AI es el formato de archivo patentado de Adobe Illustrator y utiliza un enfoque de doble ruta similar a PGF para guardar archivos compatibles con EPS. Las [especificaciones del formato de archivo de Adobe Illustrator] (https://web.archive.org/web/20150906044646/http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf) proporcionan una descripción detallada referencia del desarrollador para detalles internos de este formato de archivo. Todos los documentos (archivos) creados por Adobe Illustrator son documentos de lenguaje PostScript y tienen dos partes principales que se ajustan a las convenciones de estructuración de documentos: un 'prólogo' y un 'guión'.
+AI es el formato de archivo patentado de Adobe Illustrator y utiliza un enfoque de doble ruta similar a PGF para guardar archivos compatibles con EPS. Las [especificaciones del formato de archivo de Adobe Illustrator](https://web.archive.org/web/20150906044646/http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf) proporcionan una descripción detallada referencia del desarrollador para detalles internos de este formato de archivo. Todos los documentos (archivos) creados por Adobe Illustrator son documentos de lenguaje PostScript y tienen dos partes principales que se ajustan a las convenciones de estructuración de documentos: un 'prólogo' y un 'guión'.
 
 ### Prólogo
 

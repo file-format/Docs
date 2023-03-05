@@ -27,6 +27,6 @@
 
 ## Использованная литература ##
 
-* [Формат файла Kindle — по Википедии] (https://en.wikipedia.org/wiki/Kindle_File_Format)
+* [Формат файла Kindle — по Википедии](https://en.wikipedia.org/wiki/Kindle_File_Format)
 
 

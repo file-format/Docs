@@ -37,6 +37,6 @@
 
 ## использованная литература
 
-* [Типы файлов, поддерживаемые Garmin] (https://www8.garmin.com/manuals/webhelp/basecamppc/EN-US/GUID-43E0D8E9-E720-4895-827E-530751793EF3.html)
-* [GML — Википедия] (https://en.wikipedia.org/wiki/Geography_Markup_Language)
+* [Типы файлов, поддерживаемые Garmin](https://www8.garmin.com/manuals/webhelp/basecamppc/EN-US/GUID-43E0D8E9-E720-4895-827E-530751793EF3.html)
+* [GML — Википедия](https://en.wikipedia.org/wiki/Geography_Markup_Language)
 

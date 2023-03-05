@@ -19,7 +19,7 @@
 
 ## Czym jest plik CT?
 
-Plik CT to plik tabeli kodów utworzony za pomocą oprogramowania [Cheat Engine] (https://www.cheatengine.org/), który służy do tworzenia modyfikacji gier opartych na systemie Windows w celu oszukiwania. Cheat Engine, silnik do oszukiwania o otwartym kodzie źródłowym, bada uruchamiające się gry i rejestruje ich lokalizacje adresowe. Te informacje i ich nadpisania są zapisywane w pliku CT, który jest następnie ładowany przez graczy w celu zmiany właściwości gry, takich jak stan zdrowia, najwyższy wynik i pozostałe życia.
+Plik CT to plik tabeli kodów utworzony za pomocą oprogramowania [Cheat Engine](https://www.cheatengine.org/), który służy do tworzenia modyfikacji gier opartych na systemie Windows w celu oszukiwania. Cheat Engine, silnik do oszukiwania o otwartym kodzie źródłowym, bada uruchamiające się gry i rejestruje ich lokalizacje adresowe. Te informacje i ich nadpisania są zapisywane w pliku CT, który jest następnie ładowany przez graczy w celu zmiany właściwości gry, takich jak stan zdrowia, najwyższy wynik i pozostałe życia.
 
 ## Format pliku Cheat Engine CT
 

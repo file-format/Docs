@@ -24,7 +24,7 @@ Vzhledem k tomu, že návrhy webových stránek se stávají složitými, výsle
 
 ## Jak používat soubory SCSS ##
 
-Soubory SCSS nejsou obsaženy přímo v [HTML](/cs/web/html/) dokumentu, jako je CSS. Místo toho jsou soubory SCSS převedeny na soubory CSS, které jsou součástí souborů HTML. Chcete-li nainstalovat SCSS do vašeho systému, postupujte podle pokynů uvedených na [oficiální stránce Sass] (https://sass-lang.com/install).
+Soubory SCSS nejsou obsaženy přímo v [HTML](/cs/web/html/) dokumentu, jako je CSS. Místo toho jsou soubory SCSS převedeny na soubory CSS, které jsou součástí souborů HTML. Chcete-li nainstalovat SCSS do vašeho systému, postupujte podle pokynů uvedených na [oficiální stránce Sass](https://sass-lang.com/install).
 Chcete-li převést SCSS na CSS, můžete buď převést již uložený soubor SCSS, nebo sledovat změny a převádět při ukládání souboru. Příkazy pro oba jsou uvedeny níže.
 
 ### Převést jednou ###

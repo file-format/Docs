@@ -23,7 +23,7 @@
 
 ## تنسيق ملف QML
 
-QLR ، على غرار [QGS] (/ar/ gis / qgs /) و [QLR] (/ar/ gis / qlr /) ، هو ملف XML يحتوي على معلومات تصميم للطبقات.
+QLR ، على غرار [QGS](/ar/ gis / qgs /) و [QLR](/ar/ gis / qlr /) ، هو ملف XML يحتوي على معلومات تصميم للطبقات.
 
 يوضح الشكل أدناه علامات المستوى الأعلى لملف QML (مع عرض renderer_v2 ووسم الرمز الخاص به فقط).
 
@@ -31,6 +31,6 @@ QLR ، على غرار [QGS] (/ar/ gis / qgs /) و [QLR] (/ar/ gis / qlr /) ، �
 
 ## مراجع
 
-* [QGIS] (https://www.qgis.org/en/site/)
-* [QML] (https://docs.qgis.org/3.16/en/docs/user_manual/appendices/qgis_file_formats.html)
+* [QGIS](https://www.qgis.org/en/site/)
+* [QML](https://docs.qgis.org/3.16/en/docs/user_manual/appendices/qgis_file_formats.html)
 

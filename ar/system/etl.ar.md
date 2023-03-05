@@ -19,7 +19,7 @@
 
 ## ما هو ملف ETL؟
 
-ملفات ETL هي ملفات سجل تحتوي على سجلات الأحداث التي تم إنشاؤها بواسطة Microsoft Operating System Kernel. تتضمن ملفات السجل هذه الأخطاء على مستوى التطبيق والنظام والتحذيرات وبيانات الأحداث الأخرى. ملفات ETL مفيدة في تحليل واستكشاف مشاكل مستوى النظام. تتضمن المشكلات الشائعة المسجلة في ملفات ETL تلك التي تم إنشاؤها بواسطة الوصول إلى القرص وأخطاء الصفحة. توفر Microsoft تطبيقين ، Tracerpt و Event Viewer لقراءة وعرض محتويات ملفات ETL. يمكن تحويل ملفات ETL إلى تنسيقات ملفات أخرى مثل [TXT] (/ar/ معالجة الكلمات / txt /) و [CSV] (/ar/ spreadsheet / csv /) باستخدام Tracerpt.
+ملفات ETL هي ملفات سجل تحتوي على سجلات الأحداث التي تم إنشاؤها بواسطة Microsoft Operating System Kernel. تتضمن ملفات السجل هذه الأخطاء على مستوى التطبيق والنظام والتحذيرات وبيانات الأحداث الأخرى. ملفات ETL مفيدة في تحليل واستكشاف مشاكل مستوى النظام. تتضمن المشكلات الشائعة المسجلة في ملفات ETL تلك التي تم إنشاؤها بواسطة الوصول إلى القرص وأخطاء الصفحة. توفر Microsoft تطبيقين ، Tracerpt و Event Viewer لقراءة وعرض محتويات ملفات ETL. يمكن تحويل ملفات ETL إلى تنسيقات ملفات أخرى مثل [TXT](/ar/ معالجة الكلمات / txt /) و [CSV](/ar/ spreadsheet / csv /) باستخدام Tracerpt.
 
 ## تنسيق ملف ETL
 
@@ -27,10 +27,10 @@
 
 ## افتح ملفات ETL باستخدام محلل أداء Windows
 
-يمكن قراءة بيانات ملفات ETL وتصورها بتنسيق جدولي بالإضافة إلى تنسيق رسومي باستخدام تطبيق Microsoft Windows Performance Analyzer (WPA). يوفر دليل [فتح ملفات ETL وتحليلها] (https://docs.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) معلومات حول العمل مع ملفات ETL.
+يمكن قراءة بيانات ملفات ETL وتصورها بتنسيق جدولي بالإضافة إلى تنسيق رسومي باستخدام تطبيق Microsoft Windows Performance Analyzer (WPA). يوفر دليل [فتح ملفات ETL وتحليلها](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) معلومات حول العمل مع ملفات ETL.
 
 ## مراجع
 
-* [محلل أداء Windows] (https://docs.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
-* [دليل البدء السريع لـ WPA] (https://docs.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
+* [محلل أداء Windows](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
+* [دليل البدء السريع لـ WPA](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
 

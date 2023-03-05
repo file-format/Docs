@@ -27,6 +27,6 @@
 
 ## использованная литература
 
-* [Студия Synfig] (https://www.synfig.org/)
-* [Документация Synfig] (https://synfig.readthedocs.io/en/latest/index.html)
+* [Студия Synfig](https://www.synfig.org/)
+* [Документация Synfig](https://synfig.readthedocs.io/en/latest/index.html)
 

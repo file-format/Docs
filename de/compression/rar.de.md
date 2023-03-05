@@ -66,7 +66,7 @@ Dateikopf 1
 |Wiederherstellungsaufzeichnung (optional)
 |Ende des Archivheaders
 
-Informationen zu jedem Abschnitt der oben erwähnten RAR-Datei finden Sie im Dokument [Spezifikationen des RAR 5.0-Dateiformats] (https://www.rarlab.com/technote.htm#arcstruct).
+Informationen zu jedem Abschnitt der oben erwähnten RAR-Datei finden Sie im Dokument [Spezifikationen des RAR 5.0-Dateiformats](https://www.rarlab.com/technote.htm#arcstruct).
 
 #### Selbstextrahierende RAR-Archive
 

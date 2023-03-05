@@ -39,6 +39,6 @@ Puede haber varias razones para que se revoque el certificado de su sitio web y 
 ## Referencias
 
 * [Instituto Nacional de Estándares y Tecnología (NIST)](https://csrc.nist.gov/glossary/term/CRL)
-* [Grupo de trabajo de ingeniería de Internet (IETF) RFC 5280] (https://tools.ietf.org/html/rfc5280)
-* [Lista de revocación de certificados] (https://en.wikipedia.org/wiki/Certificate_revocation_list)
+* [Grupo de trabajo de ingeniería de Internet (IETF) RFC 5280](https://tools.ietf.org/html/rfc5280)
+* [Lista de revocación de certificados](https://en.wikipedia.org/wiki/Certificate_revocation_list)
 

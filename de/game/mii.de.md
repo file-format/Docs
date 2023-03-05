@@ -25,7 +25,7 @@ Sie können eine MII-Datei mit dem [My Avatar Editor](https://rc24.xyz/goodies/m
 
 ## MII-Dateiformat
 
-Das MII-Dateiformat ist detailliert auf [Wii Brew] (https://wiibrew.org/wiki/Mii_data) definiert. Zeichenfolgen in einer MII-Datei werden im Unicode-Format (UTF-16), Big-Endian, gespeichert.
+Das MII-Dateiformat ist detailliert auf [Wii Brew](https://wiibrew.org/wiki/Mii_data) definiert. Zeichenfolgen in einer MII-Datei werden im Unicode-Format (UTF-16), Big-Endian, gespeichert.
 
 ### MI-Block
 
@@ -48,5 +48,5 @@ In jedem Fall benötigen Sie ein Nintendo-Konto, um Ihren Avatar auf der Wii zu 
 ## Verweise
 
 * [Mein Avatar-Editor](https://rc24.xyz/goodies/mii/)
-* [Wii Brew] (https://wiibrew.org/wiki/Mii_data)
+* [Wii Brew](https://wiibrew.org/wiki/Mii_data)
 

@@ -37,5 +37,5 @@
 
 ## Использованная литература ##
 
-* [Формат файла TXT] (https://en.wikipedia.org/wiki/Text_file)
+* [Формат файла TXT](https://en.wikipedia.org/wiki/Text_file)
 

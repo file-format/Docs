@@ -82,5 +82,5 @@ Strukturální metadata jsou v souboru MXF zásadní, protože obsahují užite�
 
 * [MXF – Wikipedia](https://en.wikipedia.org/wiki/Material_Exchange_Format)
 * [MXF – Zpráva o pokroku](http://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
-* [Knihovna OpenSource C++ pro MXF] (http://www.freemxf.org/)
+* [Knihovna OpenSource C++ pro MXF](http://www.freemxf.org/)
 

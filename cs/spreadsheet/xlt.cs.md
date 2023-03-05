@@ -23,7 +23,7 @@ Soubory s příponou .xlt jsou soubory šablon vytvořené pomocí Microsoft Exc
 
 ## Formát souboru XLT
 
-Formát souboru XLT je založen na binárním formátu souboru Excel, který byl původně podporován ve verzi Excel 97-2003. Byl nahrazen formátem souboru [XLTX](/cs/spreadsheet/xltx/) zavedením Excelu 2007, který je založen na formátu Office Open XML. Kromě Microsoft Excel existují i jiné aplikace, které podporují práci s tímto formátem souborů, jako je Lotus Translation Table, PlanMaker, LibreOffice Calc atd. K dispozici je několik aplikací a [API] (https://products.aspose.com/cells). převést XLT do jiných formátů souborů, jako jsou:
+Formát souboru XLT je založen na binárním formátu souboru Excel, který byl původně podporován ve verzi Excel 97-2003. Byl nahrazen formátem souboru [XLTX](/cs/spreadsheet/xltx/) zavedením Excelu 2007, který je založen na formátu Office Open XML. Kromě Microsoft Excel existují i jiné aplikace, které podporují práci s tímto formátem souborů, jako je Lotus Translation Table, PlanMaker, LibreOffice Calc atd. K dispozici je několik aplikací a [API](https://products.aspose.com/cells). převést XLT do jiných formátů souborů, jako jsou:
 
 * XLT do PDF
 * XLT až DOC
@@ -34,7 +34,7 @@ Formát souboru XLT je založen na binárním formátu souboru Excel, který byl
 * XLT do HTML
 * XLT až CSV
 
-XLT je založen na binárním [specifikacích formátu souboru XLS] (https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx), který je zdokumentován společností Microsoft pro vývojáře.
+XLT je založen na binárním [specifikacích formátu souboru XLS](https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx), který je zdokumentován společností Microsoft pro vývojáře.
 
 ## Reference
 

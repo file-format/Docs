@@ -22,7 +22,7 @@
 
 ## Формат файла OBML
 
-Формат файла OBML сохраняется в проприетарном формате файла Opera, и его спецификации формата файла недоступны для общественности. Однако [формат OMBL] (https://github.com/grawity/obml-parser/blob/master/obml.md) был реконструирован для декодирования его структуры следующим образом.
+Формат файла OBML сохраняется в проприетарном формате файла Opera, и его спецификации формата файла недоступны для общественности. Однако [формат OMBL](https://github.com/grawity/obml-parser/blob/master/obml.md) был реконструирован для декодирования его структуры следующим образом.
 
 ### Типы данных OBML
 
@@ -69,5 +69,5 @@ header := {
 ```
 ## использованная литература
 
-* [формат OMBL] (https://github.com/grawity/obml-parser/blob/master/obml.md)
+* [формат OMBL](https://github.com/grawity/obml-parser/blob/master/obml.md)
 

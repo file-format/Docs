@@ -45,4 +45,4 @@ Les packages USDZ nécessitent la disposition des fichiers dans le package, c'es
 
 ## Références
 
-* [Spécifications du format de fichier USDZ] (https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
+* [Spécifications du format de fichier USDZ](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)

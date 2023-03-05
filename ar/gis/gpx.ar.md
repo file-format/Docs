@@ -30,7 +30,7 @@
 * يعتمد GPX على معيار XML ، لذا يمكن للعديد من البرامج الجديدة التي تستخدمها (Microsoft Excel ، على سبيل المثال) قراءة ملفات GPX.
 * يجعل GPX من السهل على أي شخص على الويب تطوير ميزات جديدة تعمل على الفور مع برامجك المفضلة.
 
-يعرض [مخطط GPX] (https://www.topografix.com/GPX/1/1/gpx.xsd) تمثيل تنسيق ملف GPX كمرجع.
+يعرض [مخطط GPX](https://www.topografix.com/GPX/1/1/gpx.xsd) تمثيل تنسيق ملف GPX كمرجع.
 
 ### البيانات الأساسية ###
 
@@ -74,6 +74,6 @@
 
 ## مراجع ##
 
-* [تنسيق ملف GPX] (http://www.topografix.com/gpx.asp)
-* [GPX - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/GPS_Exchange_Format)
+* [تنسيق ملف GPX](http://www.topografix.com/gpx.asp)
+* [GPX - بواسطة Wikipedia](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
 

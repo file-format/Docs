@@ -18,7 +18,7 @@
 
 ## ما هو ملف PUZ؟
 
-الملف بامتداد .puz هو أرشيف مضغوط يحتوي على مستند Microsoft Publisher قياسي [.pub] (/ar/ publisher / pub /). نتيجة للضغط ، يكون حجمه أصغر ويسهل نقله عبر الإنترنت أو الأجهزة الأخرى. يمكن فك / فتح ملفات PUZ باستخدام الأداة المساعدة Microsoft Unpack.
+الملف بامتداد .puz هو أرشيف مضغوط يحتوي على مستند Microsoft Publisher قياسي [.pub](/ar/ publisher / pub /). نتيجة للضغط ، يكون حجمه أصغر ويسهل نقله عبر الإنترنت أو الأجهزة الأخرى. يمكن فك / فتح ملفات PUZ باستخدام الأداة المساعدة Microsoft Unpack.
 
 ## تنسيق ملف PUZ
 
@@ -36,5 +36,5 @@
 
 ## مراجع ##
 
-* [ملف .puz Publisher] (https://answers.microsoft.com/en-us/msoffice/forum/all/publisher-puz-file/2de8b31c-36cc-4c0c-a947-c120172949ee)
+* [ملف .puz Publisher](https://answers.microsoft.com/en-us/msoffice/forum/all/publisher-puz-file/2de8b31c-36cc-4c0c-a947-c120172949ee)
 

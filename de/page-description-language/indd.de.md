@@ -33,7 +33,7 @@ INDD-Dateien können in mehrere andere Dateiformate konvertiert werden. Die häu
 
 ## Wie wird eine INDD-Datei erstellt?
 
-Eine Indd-Datei wird erstellt, wenn Sie ein neues Projekt mit [Adobe InDesign] (https://www.adobe.com/products/indesign.html) erstellen und auf einer Disc speichern. Sie können die Indd-Projektdatei öffnen, Änderungen daran vornehmen und die aktualisierte Datei für die Änderungen speichern.
+Eine Indd-Datei wird erstellt, wenn Sie ein neues Projekt mit [Adobe InDesign](https://www.adobe.com/products/indesign.html) erstellen und auf einer Disc speichern. Sie können die Indd-Projektdatei öffnen, Änderungen daran vornehmen und die aktualisierte Datei für die Änderungen speichern.
 
 ## Verweise
 

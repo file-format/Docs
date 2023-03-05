@@ -36,6 +36,6 @@ XjlakuoieulalxkjflaiuEggHozdmgGz7zbC1mcJ2rcNAQEEBBAYTAlVTMRMwMIICCDAaBgyAEFKaEEC
 
 ## Использованная литература ##
 
-* [Криптография с открытым ключом] (https://en.wikipedia.org/wiki/Public-key_cryptography)
+* [Криптография с открытым ключом](https://en.wikipedia.org/wiki/Public-key_cryptography)
 * [Как создать файл P7C?](https://www.ibm.com/support/pages/how-create-pkcs7-p7b-p7c-certificate-your-trading-partner)
 

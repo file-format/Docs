@@ -28,6 +28,6 @@
 
 ## संदर्भ
 
-* [मास्टर दस्तावेज़] (https://wiki.openoffice.org/wiki/Documentation/UserGuide/Writer/MasterDoc)
+* [मास्टर दस्तावेज़](https://wiki.openoffice.org/wiki/Documentation/UserGuide/Writer/MasterDoc)
 * [मास्टर दस्तावेज़ और उसके उप-दस्तावेज़ों से एक फ़ाइल बनाना](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Writer_Guide/Creating_one_file_from_a_master_document)
 

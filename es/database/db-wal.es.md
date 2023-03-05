@@ -37,6 +37,6 @@ En otras palabras, un archivo .db-wal es un tipo específico de archivo WAL que 
 Entonces, WAL es el término general para el formato de archivo, .db-wal es una implementación específica del formato de archivo WAL utilizado por las bases de datos SQLite.
 
 ## Referencias
-* [Formato de archivo en modo WAL] (https://www.sqlite.org/walformat.html)
-* [Registro de escritura anticipada] (https://www.sqlite.org/wal.html)
+* [Formato de archivo en modo WAL](https://www.sqlite.org/walformat.html)
+* [Registro de escritura anticipada](https://www.sqlite.org/wal.html)
 

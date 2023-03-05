@@ -51,6 +51,6 @@
 
 ## использованная литература
 
-* [Национальный формат передачи Великобритании (NTF)] (https://catalyst.earth/catalyst-system-files/help/references/gdb_r/gdb3N292.html)
-* [Веб-картографирование — иллюстрации Тайлера Митчелла] (https://www.oreilly.com/library/view/web-mapping-illustrated/0596008651/re15.html)
+* [Национальный формат передачи Великобритании (NTF)](https://catalyst.earth/catalyst-system-files/help/references/gdb_r/gdb3N292.html)
+* [Веб-картографирование — иллюстрации Тайлера Митчелла](https://www.oreilly.com/library/view/web-mapping-illustrated/0596008651/re15.html)
 

@@ -24,7 +24,7 @@ Soubor CT (Continuous Tone) je soubor rastrového obrázku používaný zaříze
 
 ## Formát souboru CT
 
-Soubor Scitex CT se skládá z řídicího bloku, bloku parametrů a obrazových dat podle tohoto [článek CT Wikipedie] (https://en.wikipedia.org/wiki/Scitex_CT). Specifikace formátu souboru souboru CT nejsou k dispozici, ale některé výzkumy ukázaly, že obrázek CT představuje 4 barvy, přičemž každý barevný pixel má velikost až 128 bitů. Soubory CT mají obvykle velkou velikost a umožňují vysoce kvalitní snímky.
+Soubor Scitex CT se skládá z řídicího bloku, bloku parametrů a obrazových dat podle tohoto [článek CT Wikipedie](https://en.wikipedia.org/wiki/Scitex_CT). Specifikace formátu souboru souboru CT nejsou k dispozici, ale některé výzkumy ukázaly, že obrázek CT představuje 4 barvy, přičemž každý barevný pixel má velikost až 128 bitů. Soubory CT mají obvykle velkou velikost a umožňují vysoce kvalitní snímky.
 
 ## Reference
 

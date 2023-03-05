@@ -24,7 +24,7 @@ Soubor s příponou .vpk je komprimovaný soubor archivního balíčku, který s
 
 Soubory VPK se ukládají na disk jako standardní komprimované archivy [ZIP](/cs/compression/zip/). Ty mohou obsahovat více složek a dalších přidružených souborů pro aplikace třetích stran, které se mají nainstalovat do Vita Gaming Console. Chcete-li zobrazit obsah souboru balíčku VPK, přejmenujte jeho příponu z .vpu na .zip a extrahujte obsah pomocí standardních dekompresních nástrojů, jako je WinZip nebo WinRAR.
 
-Valvesoftware má podrobné informace o [formátu souboru VPK] (https://developer.valvesoftware.com/wiki/VPK_File_Format), na který lze odkazovat z pohledu vývojáře.
+Valvesoftware má podrobné informace o [formátu souboru VPK](https://developer.valvesoftware.com/wiki/VPK_File_Format), na který lze odkazovat z pohledu vývojáře.
 
 ## Jak nainstalovat soubory VPK?
 

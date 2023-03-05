@@ -19,11 +19,11 @@
 
 ## ما هو ملف NDF؟
 
-الملف بامتداد .ndf هو ملف قاعدة بيانات ثانوي يستخدمه [Microsoft SQL Server] (https://en.wikipedia.org/wiki/Microsoft_SQL_Server) لتخزين بيانات المستخدم. NDF هو ملف تخزين ثانوي لأن خادم SQL يخزن البيانات المحددة للمستخدم في ملف التخزين الأساسي المعروف باسم [MDF] (/ar/ database / mdf /). يعد ملف بيانات NDF اختياريًا ويتم تحديده من قبل المستخدم لإدارة تخزين البيانات في حالة استخدام ملف MDF الأساسي لكل المساحة المخصصة. عادة ما يتم تخزينه على قرص منفصل ويمكن أن ينتشر إلى أجهزة تخزين متعددة. يعد وجود ملفات MDF ضروريًا لفتح ملفات NDF.
+الملف بامتداد .ndf هو ملف قاعدة بيانات ثانوي يستخدمه [Microsoft SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server) لتخزين بيانات المستخدم. NDF هو ملف تخزين ثانوي لأن خادم SQL يخزن البيانات المحددة للمستخدم في ملف التخزين الأساسي المعروف باسم [MDF](/ar/ database / mdf /). يعد ملف بيانات NDF اختياريًا ويتم تحديده من قبل المستخدم لإدارة تخزين البيانات في حالة استخدام ملف MDF الأساسي لكل المساحة المخصصة. عادة ما يتم تخزينه على قرص منفصل ويمكن أن ينتشر إلى أجهزة تخزين متعددة. يعد وجود ملفات MDF ضروريًا لفتح ملفات NDF.
 
 ## تنسيق ملف NDF
 
-لا يختلف تنسيق ملف NDF عن [MDF] (/ar/ database / mdf) ويستخدم الصفحات كوحدة أساسية لتخزين البيانات. تبدأ كل صفحة برأس 96 بايت يتضمن:
+لا يختلف تنسيق ملف NDF عن [MDF](/ar/ database / mdf) ويستخدم الصفحات كوحدة أساسية لتخزين البيانات. تبدأ كل صفحة برأس 96 بايت يتضمن:
 
 * معرف الصفحة
 * نوع الهيكل
@@ -71,7 +71,7 @@
 
 ## مراجع
 
-* [ملفات قاعدة البيانات ومجموعات الملفات] (https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups؟redirectedfrom=MSDN&view=sql-server-ver15)
-* [فصل وإرفاق قاعدة البيانات - SQL Server] (https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server؟view=sql-server - أكثر من 15)
-* [تحليل تشريح ملف بيانات خادم SQL] (https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
+* [ملفات قاعدة البيانات ومجموعات الملفات](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups؟redirectedfrom=MSDN&view=sql-server-ver15)
+* [فصل وإرفاق قاعدة البيانات - SQL Server](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server؟view=sql-server - أكثر من 15)
+* [تحليل تشريح ملف بيانات خادم SQL](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

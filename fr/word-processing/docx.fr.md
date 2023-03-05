@@ -106,5 +106,5 @@ Un paragraphe est le principal support de contenu d'un document. Il est représe
 ## Références ##
 
 * [MS - Format de fichier DOCX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
-* [Office Open XML] (http://officeopenxml.com/)
+* [Office Open XML](http://officeopenxml.com/)
 

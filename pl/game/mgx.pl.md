@@ -23,11 +23,11 @@ Plik z rozszerzeniem .mgx to nagrany plik gry Age of Empires II: The Conquerors,
 
 ## Format pliku MGX — więcej informacji
 
-Wewnętrzny format pliku MGX został opracowany i udostępniony jako częściowo potwierdzona informacja na [Age of Empires 2: The Conquerors — Specyfikacja formatu pliku zapisu gry] (https://github.com/stefan-kolb/aoc-mgx- format). Specyfikacje przedstawiają szczegóły w poniższych sekcjach.
+Wewnętrzny format pliku MGX został opracowany i udostępniony jako częściowo potwierdzona informacja na [Age of Empires 2: The Conquerors — Specyfikacja formatu pliku zapisu gry](https://github.com/stefan-kolb/aoc-mgx- format). Specyfikacje przedstawiają szczegóły w poniższych sekcjach.
 
 ### Definicje struktur
 
-Uważa się, że definicje struktury formatu pliku GPX są oparte na [deklaracjach BinData Ruby Gem] (https://github.com/dmendel/bindata/wiki), które umożliwiają odczytywanie i zapisywanie ustrukturyzowanych danych binarnych. Pozwala to programiście określić format danych binarnych, które są następnie odczytywane i zapisywane przez BinData.
+Uważa się, że definicje struktury formatu pliku GPX są oparte na [deklaracjach BinData Ruby Gem](https://github.com/dmendel/bindata/wiki), które umożliwiają odczytywanie i zapisywanie ustrukturyzowanych danych binarnych. Pozwala to programiście określić format danych binarnych, które są następnie odczytywane i zapisywane przez BinData.
 
 ### Wiadomości MGX
 

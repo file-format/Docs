@@ -23,7 +23,7 @@ Um arquivo CR3 é um formato de arquivo de imagem Canon RAW criado por câmeras 
 
 ## Formato de arquivo CR3
 
-Os arquivos CR3 são armazenados em disco como arquivo binário no formato de arquivo de mídia ISO Base (ISO/IEC 14496-12) e também inclui [tags Canon] (https://exiftool.org/TagNames/Canon.html#uuid) personalizadas. Ele também inclui o [codec Canon 'crx'](https://github.com/LibRaw/LibRaw/blob/master/src/decoders/crx.cpp) que é uma mistura de JPEG-LS (Rice-Golomb + RLE codificação) e JPEG-2000 (LeGall 5/3 DWT + quantificação).
+Os arquivos CR3 são armazenados em disco como arquivo binário no formato de arquivo de mídia ISO Base (ISO/IEC 14496-12) e também inclui [tags Canon](https://exiftool.org/TagNames/Canon.html#uuid) personalizadas. Ele também inclui o [codec Canon 'crx'](https://github.com/LibRaw/LibRaw/blob/master/src/decoders/crx.cpp) que é uma mistura de JPEG-LS (Rice-Golomb + RLE codificação) e JPEG-2000 (LeGall 5/3 DWT + quantificação).
 
 ## Tags personalizadas CR3
 

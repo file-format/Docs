@@ -53,5 +53,5 @@ Eine FIT-Aktivitätsdatei kann einige erforderliche Nachrichtentypen enthalten. 
 
 ## Verweise ##
 
-* [FIT-Aktivitätsdatei] (https://developer.garmin.com/fit/file-types/activity/)
+* [FIT-Aktivitätsdatei](https://developer.garmin.com/fit/file-types/activity/)
 

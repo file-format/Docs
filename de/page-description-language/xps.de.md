@@ -25,7 +25,7 @@ XPS-Viewer sind als Teil von Windows Vista, Windows 7, Windows 8 und Internet Ex
 
 ## Kurze Geschichte ##
 
-Microsoft reichte die XPS-Spezifikation bei Ecma International ein. Im Juni 2007 wurde das Ecma Technical Committee 46 (TC46) gegründet, um einen Standard zu entwickeln, der auf den OpenXPS-Papierspezifikationen basiert. Ecma International genehmigte den Ecma-Standard (ECMA-388) [XPS-Spezifikationen] (http://www.ecma-international.org/publications/standards/Ecma-388.htm) im Juni 2009 auf der 97. Generalversammlung.
+Microsoft reichte die XPS-Spezifikation bei Ecma International ein. Im Juni 2007 wurde das Ecma Technical Committee 46 (TC46) gegründet, um einen Standard zu entwickeln, der auf den OpenXPS-Papierspezifikationen basiert. Ecma International genehmigte den Ecma-Standard (ECMA-388) [XPS-Spezifikationen](http://www.ecma-international.org/publications/standards/Ecma-388.htm) im Juni 2009 auf der 97. Generalversammlung.
 
 ## XPS-Dateiformat ##
 

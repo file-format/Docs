@@ -24,7 +24,7 @@ Jazyk modelování virtuální reality (VRML) je formát souboru pro reprezentac
 
 VRML je formát textového souboru, který specifikuje informace, jako jsou vrcholy a hrany 3D polygonu, spolu s informacemi, jako je barva povrchu, UV mapované textury, lesk, průhlednost a tak dále. Má schopnost reprezentovat statické a animované objekty a navíc má hypertextové odkazy na jiná média, jako je zvuk, filmy a obrázky. To umožňuje otevírání prvků s hypertextovými odkazy, když uživatel na tyto objekty klikne.
 
-Soubory TVRML se v běžné terminologii nazývají „světy“ a mají příponu .wrl. Textová povaha těchto souborů umožňuje zmenšit velikost souboru pomocí kompresních formátů, jako je gzip, což je činí výhodnějšími pro rychlý přenos přes internet. Specifikace formátu souborů pro [VRML v 2.0] (http://gun.teipir.gr/VRML-amgem/spec/index.html) slouží jako reference pro vývojáře pro vytváření aplikací kompatibilních pro čtení/zápis těchto souborů.
+Soubory TVRML se v běžné terminologii nazývají „světy“ a mají příponu .wrl. Textová povaha těchto souborů umožňuje zmenšit velikost souboru pomocí kompresních formátů, jako je gzip, což je činí výhodnějšími pro rychlý přenos přes internet. Specifikace formátu souborů pro [VRML v 2.0](http://gun.teipir.gr/VRML-amgem/spec/index.html) slouží jako reference pro vývojáře pro vytváření aplikací kompatibilních pro čtení/zápis těchto souborů.
 
 ## Kritérium designu ##
 

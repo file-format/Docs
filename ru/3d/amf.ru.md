@@ -85,5 +85,5 @@
 ## использованная литература
 
 * [AMF - Википедия](https://en.wikipedia.org/wiki/Additive_manufacturing_file_format)
-* [Спецификации AMF по ISO] (https://www.iso.org/standard/67472.html)
+* [Спецификации AMF по ISO](https://www.iso.org/standard/67472.html)
 

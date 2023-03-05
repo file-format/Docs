@@ -38,7 +38,7 @@
 
 ## использованная литература
 
-* [Национальный институт стандартов и технологий (NIST)] (https://csrc.nist.gov/glossary/term/CRL)
-* [Internet Engineering Task Force (IETF) RFC 5280] (https://tools.ietf.org/html/rfc5280)
-* [Список отозванных сертификатов] (https://en.wikipedia.org/wiki/Certificate_revocation_list)
+* [Национальный институт стандартов и технологий (NIST)](https://csrc.nist.gov/glossary/term/CRL)
+* [Internet Engineering Task Force (IETF) RFC 5280](https://tools.ietf.org/html/rfc5280)
+* [Список отозванных сертификатов](https://en.wikipedia.org/wiki/Certificate_revocation_list)
 

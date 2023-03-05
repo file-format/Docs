@@ -27,5 +27,5 @@
 
 ## مراجع
 
-* [Ping of Death Bot - PODBot] (http://podbotmm.bots-united.com/doc_v3/index.html)
+* [Ping of Death Bot - PODBot](http://podbotmm.bots-united.com/doc_v3/index.html)
 

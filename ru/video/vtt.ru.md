@@ -49,6 +49,6 @@ WEBVTT
 
 ## использованная литература
 
-* [VTT — школы W3] (https://www.w3.org/TR/webvtt1/)
-* [WebVTT — Mozilla] (https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API)
+* [VTT — школы W3](https://www.w3.org/TR/webvtt1/)
+* [WebVTT — Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API)
 

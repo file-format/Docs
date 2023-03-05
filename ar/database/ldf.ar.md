@@ -19,7 +19,7 @@
 
 ## ما هو ملف LDF؟
 
-الملف بامتداد .ldf هو ملف سجل يتم الاحتفاظ به بواسطة Microsoft SQL Server وهو نظام إدارة قواعد بيانات علائقية (RDBMS). يتم تسجيل جميع المعاملات التي تتم على ملفات قاعدة البيانات الأولية ([MDF] (/ar/ database / mdf /)) (مثل الإدراج والتحديث والحذف) في ملف LDF. تعد ملفات LDF مكونات أساسية لأي قاعدة بيانات. في حالة فشل النظام ، يتم استخدام ملف السجل لاستعادة قاعدة البيانات إلى حالة متسقة. يمكن زيادة حجم ملف سجل المعاملات إذا لم يتم الالتزام بالمعاملات بشكل كامل. يمكن فتح ملفات LDF باستخدام تطبيق برنامج Microsoft SQL Server.
+الملف بامتداد .ldf هو ملف سجل يتم الاحتفاظ به بواسطة Microsoft SQL Server وهو نظام إدارة قواعد بيانات علائقية (RDBMS). يتم تسجيل جميع المعاملات التي تتم على ملفات قاعدة البيانات الأولية ([MDF](/ar/ database / mdf /)) (مثل الإدراج والتحديث والحذف) في ملف LDF. تعد ملفات LDF مكونات أساسية لأي قاعدة بيانات. في حالة فشل النظام ، يتم استخدام ملف السجل لاستعادة قاعدة البيانات إلى حالة متسقة. يمكن زيادة حجم ملف سجل المعاملات إذا لم يتم الالتزام بالمعاملات بشكل كامل. يمكن فتح ملفات LDF باستخدام تطبيق برنامج Microsoft SQL Server.
 
 ## العمليات المسجلة في ملف LDF
 
@@ -40,6 +40,6 @@
 
 ## مراجع
 
-* [ملفات قاعدة البيانات ومجموعات الملفات] (https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups؟view=sql-server-ver15)
-* [دليل هندسة وإدارة سجل المعاملات] (https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide؟view=sql- الخادم الإصدار 15)
+* [ملفات قاعدة البيانات ومجموعات الملفات](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups؟view=sql-server-ver15)
+* [دليل هندسة وإدارة سجل المعاملات](https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide؟view=sql- الخادم الإصدار 15)
 

@@ -36,5 +36,5 @@ concept://domain.server.com/web_application/main.con.
 ```
 ## संदर्भ
 
-* [संकल्पना अनुप्रयोग सर्वर] (https://github.com/Devronium/ConceptApplicationServer)
+* [संकल्पना अनुप्रयोग सर्वर](https://github.com/Devronium/ConceptApplicationServer)
 

@@ -20,7 +20,7 @@ A .webm kiterjesztésű fájl egy nyílt, jogdíjmentes WebM fájlformátumon al
 
 ## WEBM fájlformátum
 
-A WebM fájlstruktúra a Matroska [MKV](/hu/video/mkv/) tárolófájl formátum egy részhalmazán alapul. A WebM-fájlokban elérhető videofolyamokat a VP8 vagy VP9 tömörítési technológiával tömörítik, amelyek nagyon hatékonyak a tömörítésben. Hasonlóképpen, a WebM-fájlok hangfolyamait a [Xiph Foundation] (https://www.xiph.org/) által kifejlesztett Vorbis vagy Opus kodekekkel tömörítik. Mindezek a videók és audiokodekek jogdíjmentesek, és díjmentesen használhatók.
+A WebM fájlstruktúra a Matroska [MKV](/hu/video/mkv/) tárolófájl formátum egy részhalmazán alapul. A WebM-fájlokban elérhető videofolyamokat a VP8 vagy VP9 tömörítési technológiával tömörítik, amelyek nagyon hatékonyak a tömörítésben. Hasonlóképpen, a WebM-fájlok hangfolyamait a [Xiph Foundation](https://www.xiph.org/) által kifejlesztett Vorbis vagy Opus kodekekkel tömörítik. Mindezek a videók és audiokodekek jogdíjmentesek, és díjmentesen használhatók.
 
 Az alábbiakban összefoglaljuk a WebM fájlformátum specifikációit.
 

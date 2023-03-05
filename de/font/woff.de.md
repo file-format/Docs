@@ -60,5 +60,5 @@ Der WOFF-Header besteht aus einer identifizierenden Signatur, die die Art der in
 
 
 ## **Verweise**
-* [w3 WOFF-Dateiformat] (https://www.w3.org/TR/WOFF/)
+* [w3 WOFF-Dateiformat](https://www.w3.org/TR/WOFF/)
 

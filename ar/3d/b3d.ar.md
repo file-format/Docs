@@ -63,6 +63,6 @@ BB3D
 
 
 ## مراجع
-* [B3D] (https://moddb.fandom.com/wiki/B3D)
-* [Blitz BASIC] (https://en.wikipedia.org/wiki/Blitz_BASIC)
+* [B3D](https://moddb.fandom.com/wiki/B3D)
+* [Blitz BASIC](https://en.wikipedia.org/wiki/Blitz_BASIC)
 

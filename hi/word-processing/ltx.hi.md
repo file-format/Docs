@@ -84,6 +84,6 @@ or WH-phrase.
 
 ## संदर्भ ##
 
-* [टेक्स - विकिपीडिया] (https://en.wikipedia.org/wiki/TeX)
+* [टेक्स - विकिपीडिया](https://en.wikipedia.org/wiki/TeX)
 * [लेटेक्स](http://mally.stanford.edu/~sr/computing/latex-example.html)
 

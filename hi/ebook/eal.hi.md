@@ -27,6 +27,6 @@
 
 ## संदर्भ ##
 
-* [किंडल फ़ाइल प्रारूप - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/Kindle_File_Format)
+* [किंडल फ़ाइल प्रारूप - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Kindle_File_Format)
 
 

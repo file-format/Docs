@@ -54,5 +54,5 @@ PS(.ps) — это расширение файла для документа Pos
 
 ## Использованная литература ##
 
-* [Семейство форматов PostScript] (https://www.loc.gov/preservation/digital/formats/fdd/fdd000029.shtml)
+* [Семейство форматов PostScript](https://www.loc.gov/preservation/digital/formats/fdd/fdd000029.shtml)
 

@@ -56,5 +56,5 @@ La balise de chaîne peut être utilisée de deux manières :
 
 * [Messagerie orientée objet avec XML](https://docs.oracle.com/cd/A87860_01/doc/appdev.817/a86030/adx16nt5.htm)
 * [Le langage de balisage physique](http://web.mit.edu/mecheng/pml/standards.htm)
-* [Le langage de balisage Bean] (https://all4dev.blogspot.com/2019/06/bean-markup-language-tutorial.html)
+* [Le langage de balisage Bean](https://all4dev.blogspot.com/2019/06/bean-markup-language-tutorial.html)
 

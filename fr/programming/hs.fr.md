@@ -43,7 +43,7 @@ Les fichiers Java HS sont au format XML et sont basés sur la recommandation pro
 
 ### Exemple de format de fichier Java HS
 
-Voici un exemple de fichier d'aide à partir de [documentation Oracle Helpset] (https://docs.oracle.com/cd/E19253-01/819-0913/author/helpset.html).
+Voici un exemple de fichier d'aide à partir de [documentation Oracle Helpset](https://docs.oracle.com/cd/E19253-01/819-0913/author/helpset.html).
 
 ```html
 <?xml version='1.0' encoding='ISO-8859-1' ?>
@@ -145,7 +145,7 @@ Voici un exemple de fichier d'aide à partir de [documentation Oracle Helpset] (
 ```
 
 ## Références
-* [Fichier Oracle Java Helpset] (https://docs.oracle.com/cd/E19253-01/819-0913/author/helpset.html)
+* [Fichier Oracle Java Helpset](https://docs.oracle.com/cd/E19253-01/819-0913/author/helpset.html)
 
 # HS - Format de fichier de script Haskell
 

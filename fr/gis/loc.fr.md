@@ -48,5 +48,5 @@ Voici l'en-tête et le texte d'un waypoint d'un fichier LOC. Comme on peut le vo
 
 ## Références
 
-* [Top Graphic EasyGPS] (https://www.easygps.com/)
+* [Top Graphic EasyGPS](https://www.easygps.com/)
 

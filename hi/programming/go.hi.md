@@ -69,5 +69,5 @@ func main() {
 
 ## संदर्भ ##
 
-* [जाओ - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/Go_(programming_language))
+* [जाओ - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Go_(programming_language))
 

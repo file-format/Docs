@@ -19,7 +19,7 @@
 
 ## .NDF вариант №
 
-Файл с расширением .ndf — это дополнительный файл базы данных, используемый [Microsoft SQL Server] (https://en.wikipedia.org/wiki/Microsoft_SQL_Server) для хранения пользовательских данных. NDF является файлом вторичного хранилища, поскольку SQL-сервер хранит указанные пользователем данные в файле первичного хранилища, известном как [MDF](/ru/database/mdf/). Файл данных NDF является необязательным и определяется пользователем для управления хранилищем данных в случае, если основной файл MDF использует все выделенное пространство. Обычно он хранится на отдельном диске и может распространяться на несколько устройств хранения. Наличие файлов MDF необходимо для открытия файлов NDF.
+Файл с расширением .ndf — это дополнительный файл базы данных, используемый [Microsoft SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server) для хранения пользовательских данных. NDF является файлом вторичного хранилища, поскольку SQL-сервер хранит указанные пользователем данные в файле первичного хранилища, известном как [MDF](/ru/database/mdf/). Файл данных NDF является необязательным и определяется пользователем для управления хранилищем данных в случае, если основной файл MDF использует все выделенное пространство. Обычно он хранится на отдельном диске и может распространяться на несколько устройств хранения. Наличие файлов MDF необходимо для открытия файлов NDF.
 
 ## Формат файла NDF
 
@@ -71,7 +71,7 @@ PFS определяет состояние распределения и кол
 
 ## использованная литература
 
-* [Файлы базы данных и файловые группы] (https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?redirectedfrom=MSDN&view=sql-server-ver15)
-* [Отключение и подключение базы данных — SQL Server] (https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
-* [Анализ анатомии файла данных SQL Server] (https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
+* [Файлы базы данных и файловые группы](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?redirectedfrom=MSDN&view=sql-server-ver15)
+* [Отключение и подключение базы данных — SQL Server](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
+* [Анализ анатомии файла данных SQL Server](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

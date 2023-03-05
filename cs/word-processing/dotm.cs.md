@@ -32,5 +32,5 @@ Formát souboru DOTM má stejnou strukturu DOCX založenou na formátu souboru O
 ## Reference ##
 
 * [[MS-DOCX] – formát souboru .Docx](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx)
-* [Office Open XML] (http://officeopenxml.com/)
+* [Office Open XML](http://officeopenxml.com/)
 

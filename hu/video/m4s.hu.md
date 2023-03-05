@@ -22,7 +22,7 @@ Az M4S-fájl egy videó kis részlete, amelyet az **MPEG-DASH** adatfolyam-techn
 
 ## M4S fájlformátum
 
-Az M4S-fájlok az [ISO Base Media File (ISOBMFF) formátumon] (https://www.w3.org/TR/mse-byte-stream-format-isobmff/) alapulnak. Egy nagy fájlnak ezek a kis szegmensei egymástól függetlenül letölthetők HTTP-n keresztül. Így ha nagy [MP4](/hu/video/mp4/) filmfájlja van, akkor az MPEG-DASH (Dynamic Adaptive Streaming over HTTP) technikával M4S szegmensfájlokként szegmentálva továbbítható. Ha ezt a nagy filmfájlt M4S-ként tölti le a lemezre, akkor több M4S-fájl is letöltődik. Ha ezeket az .m4s szegmenseket összefűzi, egy teljes lejátszható fájl jön létre. A médialejátszók csak akkor tudják lejátszani a fájlt, ha az első inicializálási szegmens is elérhető a fájlhoz.
+Az M4S-fájlok az [ISO Base Media File (ISOBMFF) formátumon](https://www.w3.org/TR/mse-byte-stream-format-isobmff/) alapulnak. Egy nagy fájlnak ezek a kis szegmensei egymástól függetlenül letölthetők HTTP-n keresztül. Így ha nagy [MP4](/hu/video/mp4/) filmfájlja van, akkor az MPEG-DASH (Dynamic Adaptive Streaming over HTTP) technikával M4S szegmensfájlokként szegmentálva továbbítható. Ha ezt a nagy filmfájlt M4S-ként tölti le a lemezre, akkor több M4S-fájl is letöltődik. Ha ezeket az .m4s szegmenseket összefűzi, egy teljes lejátszható fájl jön létre. A médialejátszók csak akkor tudják lejátszani a fájlt, ha az első inicializálási szegmens is elérhető a fájlhoz.
 
 ## Az MPEG-DASH streamingről
 

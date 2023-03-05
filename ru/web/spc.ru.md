@@ -24,5 +24,5 @@ lastmod: 2021-09-30
 
 ## использованная литература
 
-* [PKCS 7] (https://en.wikipedia.org/wiki/PKCS_7)
-* [Справочник по SSP] (https://scalate.github.io/scalate/documentation/ssp-reference.html)
+* [PKCS 7](https://en.wikipedia.org/wiki/PKCS_7)
+* [Справочник по SSP](https://scalate.github.io/scalate/documentation/ssp-reference.html)

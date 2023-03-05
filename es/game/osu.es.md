@@ -25,7 +25,7 @@
 
 ## Formato de archivo OSU
 
-Los archivos OSU se guardan como archivos de texto sin formato en el disco y su estructura está muy claramente definida en el [formato de archivo OSU] (https://osu.ppy.sh/wiki/en/Client/File_formats/Osu_%28file_format%29) por osu!.
+Los archivos OSU se guardan como archivos de texto sin formato en el disco y su estructura está muy claramente definida en el [formato de archivo OSU](https://osu.ppy.sh/wiki/en/Client/File_formats/Osu_%28file_format%29) por osu!.
 
 ### Secciones en el archivo OSU
 

@@ -20,7 +20,7 @@
 
 ## Co je soubor THM?
 
-Soubor THM je obrázek miniatury automaticky vytvořený z prvního snímku videosouboru na digitálních videokamerách, fotoaparátech a chytrých telefonech. Generuje se, když je video soubor uložen kamerou zařízení. Uživateli se zobrazí miniaturní náhledové obrázky ze všech videí, aby si mohl vybrat video, které ho zajímá, z kolekce videí. Soubory THM se ukládají do paměti v komprimovaném binárním formátu, aby se snížilo využití místa. Soubory THM lze otevřít pomocí aplikací, jako je Apple Preview a [Adobe Photoshop 2022] (https://www.adobe.com/products/photoshop.html).
+Soubor THM je obrázek miniatury automaticky vytvořený z prvního snímku videosouboru na digitálních videokamerách, fotoaparátech a chytrých telefonech. Generuje se, když je video soubor uložen kamerou zařízení. Uživateli se zobrazí miniaturní náhledové obrázky ze všech videí, aby si mohl vybrat video, které ho zajímá, z kolekce videí. Soubory THM se ukládají do paměti v komprimovaném binárním formátu, aby se snížilo využití místa. Soubory THM lze otevřít pomocí aplikací, jako je Apple Preview a [Adobe Photoshop 2022](https://www.adobe.com/products/photoshop.html).
 
 ## Formát souboru THM – Další informace
 

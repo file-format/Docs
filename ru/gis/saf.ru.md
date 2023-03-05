@@ -42,5 +42,5 @@
 
 ## использованная литература
 
-* [Атлас улиц США Плюс] (https://www.oit.va.gov/Services/TRM/ToolPage.aspx?tid=9380)
+* [Атлас улиц США Плюс](https://www.oit.va.gov/Services/TRM/ToolPage.aspx?tid=9380)
 

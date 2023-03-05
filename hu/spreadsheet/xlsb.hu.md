@@ -23,7 +23,7 @@ Az XLSB fájlformátum az Excel bináris fájlformátumát határozza meg, amely
 
 ## XLSB fájlformátum specifikációi ##
 
-Az XLSB fájlformátum fájlformátum-specifikációi 2008-ban 1.0-s verzióként kerültek nyilvánosságra. Azóta a specifikációkat többször felülvizsgálták, és a specifikációk legújabb verzióját (10.0-s verzió) 2018 áprilisában tették közzé. A specifikációkat a Microsoft nyilvánosan [[MS-XLSB] - Excel Binary File Format specifikációk] (https:/ /msdn.microsoft.com/en-us/library/cc313133(v#office.12).aspx), és bárkinek konzultálnia kell vele, ha XLSB fájlformátumú fájlokat olvas vagy ír.
+Az XLSB fájlformátum fájlformátum-specifikációi 2008-ban 1.0-s verzióként kerültek nyilvánosságra. Azóta a specifikációkat többször felülvizsgálták, és a specifikációk legújabb verzióját (10.0-s verzió) 2018 áprilisában tették közzé. A specifikációkat a Microsoft nyilvánosan [[MS-XLSB] - Excel Binary File Format specifikációk](https:/ /msdn.microsoft.com/en-us/library/cc313133(v#office.12).aspx), és bárkinek konzultálnia kell vele, ha XLSB fájlformátumú fájlokat olvas vagy ír.
 
 ## XLSB fájlstruktúra ##
 

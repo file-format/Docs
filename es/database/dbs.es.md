@@ -27,6 +27,6 @@ Un archivo .dbs, específicamente aquellos con la extensión SQLBase, se refiere
 El formato de archivo .dbs de SQLBase es propietario, solo se puede acceder a él o modificarlo mediante herramientas específicamente asociadas con SQLBase. Los datos almacenados en el archivo .dbs se pueden exportar en otros formatos como .csv y .xls para realizar copias de seguridad o migrar a otros sistemas de administración de bases de datos.
 
 ## Referencias
-* [SQLBase RDBMS - Tecnologías Gupta] (https://en.wikipedia.org/wiki/Gupta_Technologies)
+* [SQLBase RDBMS - Tecnologías Gupta](https://en.wikipedia.org/wiki/Gupta_Technologies)
 
 

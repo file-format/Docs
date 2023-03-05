@@ -18,11 +18,11 @@
 
 ## Mi az SLDPRT fájl?
 
-Az SLDPRT fájl a SolidWorks szoftver által generált CAD fájl. Ez egy 3D fájlformátum, amely egy objektum vagy "alkatrész" 3D információit tartalmazza. Több kompatibilis részekkel rendelkező SLDPRT fájl kombinálható egyetlen SLDASM összeállítási fájl létrehozásához. Az SLDPRT fájlok a SolidWorks [SmartCAM CAD/CAM szoftverével] (https://www.solidworks.com/partner-product/smartcam-cadcam-software) nyithatók meg. A SolidWorks alkalmazáskonverterek könnyen konvertálható eszközöket biztosítanak az SLDPRT rajzfájlok semleges adatformátumokká konvertálásához, például [TIFF](/hu/image/tiff/), [PDF](/hu/pdf/), VAGY [PDF/A](/hu/pdf/) a/).
+Az SLDPRT fájl a SolidWorks szoftver által generált CAD fájl. Ez egy 3D fájlformátum, amely egy objektum vagy "alkatrész" 3D információit tartalmazza. Több kompatibilis részekkel rendelkező SLDPRT fájl kombinálható egyetlen SLDASM összeállítási fájl létrehozásához. Az SLDPRT fájlok a SolidWorks [SmartCAM CAD/CAM szoftverével](https://www.solidworks.com/partner-product/smartcam-cadcam-software) nyithatók meg. A SolidWorks alkalmazáskonverterek könnyen konvertálható eszközöket biztosítanak az SLDPRT rajzfájlok semleges adatformátumokká konvertálásához, például [TIFF](/hu/image/tiff/), [PDF](/hu/pdf/), VAGY [PDF/A](/hu/pdf/) a/).
 
 ## SLDPRT fájlformátum
 
-Az SLDPRT fájlok bináris fájlként kerülnek mentésre, és pontos fájlformátum-specifikációik nem állnak rendelkezésre. Egyes API-k azonban lehetőséget biztosítanak az SLDPRT-fájlok olvasására és más formátumokká konvertálására, például [SLDPRT-ről DXF-re] (https://github.com/GitHubVents/ExportSLDPRTToDXF).
+Az SLDPRT fájlok bináris fájlként kerülnek mentésre, és pontos fájlformátum-specifikációik nem állnak rendelkezésre. Egyes API-k azonban lehetőséget biztosítanak az SLDPRT-fájlok olvasására és más formátumokká konvertálására, például [SLDPRT-ről DXF-re](https://github.com/GitHubVents/ExportSLDPRTToDXF).
 
 ## SLDPRT nézők
 

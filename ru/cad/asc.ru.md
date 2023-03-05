@@ -38,5 +38,5 @@ nodata_value -999999
 
 ## использованная литература
 
-* [Импорт данных точек из файла ASCII, содержащего столбцы, определенные пользователем] (https://knowledge.autodesk.com/support/civil-3d/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Civil3D-UserGuide/files /GUID-B4286EEA-F2FC-4267-87CD-E17C47876AF8-htm.html)
+* [Импорт данных точек из файла ASCII, содержащего столбцы, определенные пользователем](https://knowledge.autodesk.com/support/civil-3d/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Civil3D-UserGuide/files /GUID-B4286EEA-F2FC-4267-87CD-E17C47876AF8-htm.html)
 

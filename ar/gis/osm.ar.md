@@ -79,7 +79,7 @@ OpenStreetMap (OSM) عبارة عن مجموعة ضخمة من مخازن الم
 
 ## مراجع ##
 
-* [دليل تنسيقات ملفات OSM] (https://osmcode.org/file-formats-manual/#file-types)
-* [OpenStreetMap] (https://en.wikipedia.org/wiki/OpenStreetMap#History)
-* [Learn OSM] (https://learnosm.org/en/osm-data/getting-data/)
+* [دليل تنسيقات ملفات OSM](https://osmcode.org/file-formats-manual/#file-types)
+* [OpenStreetMap](https://en.wikipedia.org/wiki/OpenStreetMap#History)
+* [Learn OSM](https://learnosm.org/en/osm-data/getting-data/)
 

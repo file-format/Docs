@@ -64,5 +64,5 @@ BB3D
 
 ## संदर्भ
 * [बी3डी](https://moddb.fandom.com/wiki/B3D)
-* [ब्लिट्ज बेसिक] (https://en.wikipedia.org/wiki/Blitz_BASIC)
+* [ब्लिट्ज बेसिक](https://en.wikipedia.org/wiki/Blitz_BASIC)
 

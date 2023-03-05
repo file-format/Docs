@@ -69,6 +69,6 @@ Les données binaires commencent par un en-tête ayant le format indiqué dans l
 ## Références
 
 * [Tableau des formats de police compacts](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
-* [Format de fichier CFF] (https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
+* [Format de fichier CFF](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
 * [Jeu de cartes CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

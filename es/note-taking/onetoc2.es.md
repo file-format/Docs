@@ -24,7 +24,7 @@ Cuando crea un bloc de notas en OneNote 2016, se guarda automáticamente en el n
 
 ## Formato de archivo ONETOC2 ##
 
-El formato de archivo .onetoc2 se representa como formato de archivo de almacenamiento de revisión de OneNote y es una colección de estructuras que especifican un almacenamiento de revisión organizado en espacios de objetos con referencias cruzadas, que contienen objetos con conjuntos de propiedades y contienen un registro de transacciones para garantizar la integridad del archivo en entornos asincrónicos. escribe Las especificaciones completas para el formato de archivo .onetoc2 están disponibles [en línea] (https://msdn.microsoft.com/en-us/library/dd951288(v#office.12).aspx) y se pueden consultar para el desarrollo de aplicaciones .
+El formato de archivo .onetoc2 se representa como formato de archivo de almacenamiento de revisión de OneNote y es una colección de estructuras que especifican un almacenamiento de revisión organizado en espacios de objetos con referencias cruzadas, que contienen objetos con conjuntos de propiedades y contienen un registro de transacciones para garantizar la integridad del archivo en entornos asincrónicos. escribe Las especificaciones completas para el formato de archivo .onetoc2 están disponibles [en línea](https://msdn.microsoft.com/en-us/library/dd951288(v#office.12).aspx) y se pueden consultar para el desarrollo de aplicaciones .
 
 ### Estructura del archivo ###
 

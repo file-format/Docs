@@ -43,5 +43,5 @@ Plik obrazu HDR składa się z następujących trzech części:
 ## Bibliografia
 
 * [Radiance HDR](http://paulbourke.net/dataformats/pic/)
-* [informacje o obrazie] (https://github.com/xiaozhuai/imageinfo)
+* [informacje o obrazie](https://github.com/xiaozhuai/imageinfo)
 

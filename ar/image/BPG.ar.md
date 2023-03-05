@@ -26,5 +26,5 @@ BPG (Better Portable Graphics) هو تنسيق ملف تم إنشاؤه بواس
 
 ## مراجع ##
 
-- [أفضل الرسومات المحمولة - ويكيبيديا] (https://en.wikipedia.org/wiki/Better_Portable_Graphics)
+- [أفضل الرسومات المحمولة - ويكيبيديا](https://en.wikipedia.org/wiki/Better_Portable_Graphics)
 

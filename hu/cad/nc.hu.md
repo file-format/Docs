@@ -19,7 +19,7 @@
 
 ## Mi az NC fájl?
 
-Az NC fájl a [Mastercam CNC szoftverrel] (https://www.mastercam.com/) létrehozott számítógépes numerikus vezérlő (CNC) fájl. Numerikus vezérlési utasításokat tartalmaz a CNC megmunkáló szerszámok, például fúrók, esztergagépek, marók és 3D nyomtatók mechanikai mozgásának irányításához. A CNC gépek az NC fájlokból származó utasításokat szekvenciális program formájában használják a végrehajtáshoz. Ezek az NC fájlból származó utasítások arra szolgálnak, hogy irányítsák a gépet az alkatrész gyártásához.
+Az NC fájl a [Mastercam CNC szoftverrel](https://www.mastercam.com/) létrehozott számítógépes numerikus vezérlő (CNC) fájl. Numerikus vezérlési utasításokat tartalmaz a CNC megmunkáló szerszámok, például fúrók, esztergagépek, marók és 3D nyomtatók mechanikai mozgásának irányításához. A CNC gépek az NC fájlokból származó utasításokat szekvenciális program formájában használják a végrehajtáshoz. Ezek az NC fájlból származó utasítások arra szolgálnak, hogy irányítsák a gépet az alkatrész gyártásához.
 
 ## NC fájl formátum
 

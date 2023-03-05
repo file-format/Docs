@@ -55,6 +55,6 @@ TTC сокращенно TrueType Collection является расширени
 |uint32| dsigOffset |Смещение (в байтах) таблицы DSIG от начала файла TTC (пусто, если нет подписи)|
 
 ## использованная литература
-* [Файл шрифта OpenType] (https://docs.microsoft.com/en-us/typography/opentype/spec/otff)
-* [TrueType (Википедия)] (https://en.wikipedia.org/wiki/TrueType)
+* [Файл шрифта OpenType](https://docs.microsoft.com/en-us/typography/opentype/spec/otff)
+* [TrueType (Википедия)](https://en.wikipedia.org/wiki/TrueType)
 

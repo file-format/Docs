@@ -34,7 +34,7 @@
 
 ## วิธีเล่นไฟล์ TS
 
-ไฟล์ TS สามารถเปิดและเล่นได้ใน [เครื่องเล่นสื่อ VideoLAN VLC] (https://www.videolan.org/vlc/features.html) ยอดนิยม ซึ่งดาวน์โหลดได้ฟรี
+ไฟล์ TS สามารถเปิดและเล่นได้ใน [เครื่องเล่นสื่อ VideoLAN VLC](https://www.videolan.org/vlc/features.html) ยอดนิยม ซึ่งดาวน์โหลดได้ฟรี
 
 ## อ้างอิง ##
 

@@ -37,5 +37,5 @@ PPS एक बाइनरी फ़ाइल फ़ॉर्मैट है �
 * [पीपीटी फ़ाइल प्रारूप विनिर्देश](https://msdn.microsoft.com/en-us/library/office/cc313106(v#office.12).aspx)
 * [[MS-OSHARED]: ऑफिस कॉमन डेटा टाइप्स एंड ऑब्जेक्ट्स स्ट्रक्चर्स](https://msdn.microsoft.com/en-us/library/office/cc313156(v#office.12).aspx)
 * [[MS-OFFCRYPTO] - कार्यालय दस्तावेज़ क्रिप्टोग्राफी संरचना](https://msdn.microsoft.com/en-us/library/office/cc313071(v#office.12).aspx)
-* [पावरपॉइंट फ़ाइल प्रारूप] (https://en.wikipedia.org/wiki/Microsoft_PowerPoint#File_formats)
+* [पावरपॉइंट फ़ाइल प्रारूप](https://en.wikipedia.org/wiki/Microsoft_PowerPoint#File_formats)
 

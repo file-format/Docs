@@ -22,7 +22,7 @@ GNE 文件是由 Flickr 照片共享网站动态生成和使用的网页。这�
 
 ## GNE 文件格式 - 更多信息
 
-GNE 文件被 [Ludicorp] (https://en.wikipedia.org/wiki/Ludicorp) 开发的电脑游戏 Game Never Ending 使用。 Flicker 后来被雅虎收购！ 2005 年 3 月。
+GNE 文件被 [Ludicorp](https://en.wikipedia.org/wiki/Ludicorp) 开发的电脑游戏 Game Never Ending 使用。 Flicker 后来被雅虎收购！ 2005 年 3 月。
 
 ## 参考
 

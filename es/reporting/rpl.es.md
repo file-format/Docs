@@ -307,5 +307,5 @@ La siguiente lista muestra las enumeraciones que se pueden usar en la secuencia 
 
 ## Referencias ##
 
-- [Formato de flujo binario de diseño de página de informe (RPL)] (https://docs.microsoft.com/en-us/openspecs/sql_server_protocols/ms-rpl/9c4ff7ba-f6da-4092-9670-aa0e54e73887)
+- [Formato de flujo binario de diseño de página de informe (RPL)](https://docs.microsoft.com/en-us/openspecs/sql_server_protocols/ms-rpl/9c4ff7ba-f6da-4092-9670-aa0e54e73887)
 

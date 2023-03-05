@@ -49,5 +49,5 @@ FLV (Flash Video) هو تنسيق ملف حاوية بامتداد .flv. يتم 
 
 ## مراجع ##
 
-- [Flash Video - Wikipedia] (https://en.wikipedia.org/wiki/Flash_Video)
+- [Flash Video - Wikipedia](https://en.wikipedia.org/wiki/Flash_Video)
 

@@ -73,9 +73,9 @@ JFIF (تنسيق تبادل ملف JPEG (JFIF)) هو ملف بتنسيق صور�
 
 ## تحويل JFIF إلى تنسيقات ملفات الصور الأخرى
 
-يمكن تحويل JFIF إلى تنسيقات ملفات الصور الشائعة مثل [PNG] (/ar/ image / png /) و [JPG] (/ar/ image / jpg /) و [PDF] (/ar/ pdf /).
+يمكن تحويل JFIF إلى تنسيقات ملفات الصور الشائعة مثل [PNG](/ar/ image / png /) و [JPG](/ar/ image / jpg /) و [PDF](/ar/ pdf /).
 
 ## مراجع ##
 
-- [JFIF - ويكيبيديا] (https://en.wikipedia.org/wiki/JPEG_File_Interchange_Format#History)
+- [JFIF - ويكيبيديا](https://en.wikipedia.org/wiki/JPEG_File_Interchange_Format#History)
 

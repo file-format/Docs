@@ -33,7 +33,7 @@ La coordenada es el elemento básico de cualquier dato geográfico. Esta es una 
 
 ### Posición ###
 
-Una matriz ordenada de coordenadas representa la [posición] (http://geojson.org/geojson-spec.html#positions). Esta es la unidad más pequeña que puede indicar un punto en la tierra.
+Una matriz ordenada de coordenadas representa la [posición](http://geojson.org/geojson-spec.html#positions). Esta es la unidad más pequeña que puede indicar un punto en la tierra.
 
 `[Longitud, latitud, elevación]`
 

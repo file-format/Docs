@@ -23,7 +23,7 @@ File TCX (Training Center XML) adalah format pertukaran data yang digunakan untu
 
 ## Format File TCX - Informasi lebih lanjut
 
-File TCX disimpan ke disk sebagai file XML dengan setiap rekaman disimpan sebagai aktivitas. Suatu aktivitas terdiri dari semua data latihan seperti waktu, waktu putaran, Id, detak jantung, intensitas, irama, dan informasi trek yang berisi pasangan posisi beserta stempel waktu untuk posisi bujur-latar yang serupa dengan [GPX] (/id/gis/gpx/) file.
+File TCX disimpan ke disk sebagai file XML dengan setiap rekaman disimpan sebagai aktivitas. Suatu aktivitas terdiri dari semua data latihan seperti waktu, waktu putaran, Id, detak jantung, intensitas, irama, dan informasi trek yang berisi pasangan posisi beserta stempel waktu untuk posisi bujur-latar yang serupa dengan [GPX](/id/gis/gpx/) file.
 
 ### Versi Format File TCX
 

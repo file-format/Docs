@@ -69,5 +69,5 @@ Styles.xml फ़ाइल में स्टाइलिंग जानका
 ## संदर्भ ##
 
 * [OpenDocument 1.2 विशिष्टता](https://www.oasis-open.org/standards#opendocumentv1.2)
-* [OpenDocument - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/OpenDocument)
+* [OpenDocument - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/OpenDocument)
 

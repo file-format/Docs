@@ -18,7 +18,7 @@
 
 ## Mi az a HDM fájl?
 
-A HDM-fájl egy jelölőnyelvi weboldalfájl, amely a kézieszköz-jelölőnyelven (HDML) jön létre. A [HTML](/hu/web/html/) nyelvhez hasonló jelölőcímkéket tartalmaz, de kézi elektronikus eszközökhöz, például okostelefonokhoz és PDA-khoz tervezték. A [HDML fájlformátum specifikációit] (https://www.w3.org/TR/NOTE-Submission-HDML-spec.html) benyújtották a W3C-nek szabványosításra, de nem válhattak szabványossá. A HDM a W3 webhelyén elérhető [HDML](/hu/web/hdml/) fájlformátum-specifikációkon alapul.
+A HDM-fájl egy jelölőnyelvi weboldalfájl, amely a kézieszköz-jelölőnyelven (HDML) jön létre. A [HTML](/hu/web/html/) nyelvhez hasonló jelölőcímkéket tartalmaz, de kézi elektronikus eszközökhöz, például okostelefonokhoz és PDA-khoz tervezték. A [HDML fájlformátum specifikációit](https://www.w3.org/TR/NOTE-Submission-HDML-spec.html) benyújtották a W3C-nek szabványosításra, de nem válhattak szabványossá. A HDM a W3 webhelyén elérhető [HDML](/hu/web/hdml/) fájlformátum-specifikációkon alapul.
 
 ## HDM fájlformátum – További információ
 

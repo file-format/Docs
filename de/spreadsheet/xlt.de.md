@@ -23,7 +23,7 @@ Dateien mit der Erweiterung .xlt sind Vorlagendateien, die mit Microsoft Excel e
 
 ## XLT-Dateiformat
 
-Das XLT-Dateiformat basiert auf dem Excel-Binärdateiformat, das ursprünglich mit der Excel-Version 97-2003 unterstützt wurde. Es wurde mit der Einführung von Excel 2007, das auf dem Office Open XML-Format basiert, durch das Dateiformat [XLTX](/de/spreadsheet/xltx/) ersetzt. Neben Microsoft Excel gibt es andere Anwendungen, die die Arbeit mit diesem Dateiformat unterstützen, wie z. B. Lotus Translation Table, PlanMaker, LibreOffice Calc usw. Mehrere Anwendungen und [APIs] (https://products.aspose.com/cells) sind verfügbar zum Konvertieren von XLT in andere Dateiformate wie:
+Das XLT-Dateiformat basiert auf dem Excel-Binärdateiformat, das ursprünglich mit der Excel-Version 97-2003 unterstützt wurde. Es wurde mit der Einführung von Excel 2007, das auf dem Office Open XML-Format basiert, durch das Dateiformat [XLTX](/de/spreadsheet/xltx/) ersetzt. Neben Microsoft Excel gibt es andere Anwendungen, die die Arbeit mit diesem Dateiformat unterstützen, wie z. B. Lotus Translation Table, PlanMaker, LibreOffice Calc usw. Mehrere Anwendungen und [APIs](https://products.aspose.com/cells) sind verfügbar zum Konvertieren von XLT in andere Dateiformate wie:
 
 * XLT zu PDF
 * XLT-zu-DOC

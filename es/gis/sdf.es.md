@@ -29,6 +29,6 @@ El formato de archivo SDF se almacena en el disco como archivos binarios. Se bas
 
 ## Referencias
 
-* [Formato de datos SDF] (https://en.wikipedia.org/wiki/Spatial_Data_File)
+* [Formato de datos SDF](https://en.wikipedia.org/wiki/Spatial_Data_File)
 * [Importación de SDF de Autodesk](http://docs.autodesk.com/CIV3D/2013/ENU/index.html?url=filesMAPC3D/GUID-EC7140D6-F14F-4F7B-B431-FF0BAD7AE86C.htm,topicNumber=MAPC3Dd30e43012)
 

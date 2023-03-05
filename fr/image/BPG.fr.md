@@ -26,5 +26,5 @@ Le format de conteneur BPG est un format d'image générique plutôt que le flux
 
 ## Références ##
 
-- [Meilleurs graphiques portables - Wikipedia] (https://en.wikipedia.org/wiki/Better_Portable_Graphics)
+- [Meilleurs graphiques portables - Wikipedia](https://en.wikipedia.org/wiki/Better_Portable_Graphics)
 

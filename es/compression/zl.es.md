@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo ZL?
 
-Un archivo con extensión .zl es un formato de archivo comprimido ZLIP que utiliza una variante del algoritmo de compresión DEFLATE para comprimir archivos. Es independiente del tipo de CPU, el sistema operativo, el sistema de archivos y el conjunto de caracteres y, por lo tanto, se puede utilizar para el intercambio de información. Las especificaciones técnicas de la compresión ZLIP están disponibles en el [sitio de IETF] (https://tools.ietf.org/html/rfc1950) y se pueden consultar desde la perspectiva del desarrollador.
+Un archivo con extensión .zl es un formato de archivo comprimido ZLIP que utiliza una variante del algoritmo de compresión DEFLATE para comprimir archivos. Es independiente del tipo de CPU, el sistema operativo, el sistema de archivos y el conjunto de caracteres y, por lo tanto, se puede utilizar para el intercambio de información. Las especificaciones técnicas de la compresión ZLIP están disponibles en el [sitio de IETF](https://tools.ietf.org/html/rfc1950) y se pueden consultar desde la perspectiva del desarrollador.
 
 ## Formato de archivo ZL
 

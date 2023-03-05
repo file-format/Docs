@@ -51,6 +51,6 @@
 
 ## مراجع
 
-* [UK National Transfer Format (NTF)] (https://catalyst.earth/catalyst-system-files/help/references/gdb_r/gdb3N292.html)
-* [رسم خرائط الويب - مصور بواسطة تايلر ميتشل] (https://www.oreilly.com/library/view/web-mapping-illustrated/0596008651/re15.html)
+* [UK National Transfer Format (NTF)](https://catalyst.earth/catalyst-system-files/help/references/gdb_r/gdb3N292.html)
+* [رسم خرائط الويب - مصور بواسطة تايلر ميتشل](https://www.oreilly.com/library/view/web-mapping-illustrated/0596008651/re15.html)
 

@@ -63,5 +63,5 @@ SWF 8 और बाद के संस्करण तीन प्रकार
 
 ## संदर्भ
 
-* [एसडब्ल्यूएफ फ़ाइल-प्रारूप] (https://en.wikipedia.org/wiki/Swf)
+* [एसडब्ल्यूएफ फ़ाइल-प्रारूप](https://en.wikipedia.org/wiki/Swf)
 

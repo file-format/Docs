@@ -19,7 +19,7 @@
 
 ## Czym jest plik HAR?
 
-Plik z rozszerzeniem .har ([HTTP](/pl/web/http/) Archive) to plik archiwum HTTP, który przechowuje dane sesji przesyłane przez wiele przeglądarek (takich jak Chrome, Safari, IE, Firefox itp.) w formacie [JSON] (/pl/web/json/) w formacie pliku. Dane przesyłane przez Internet między serwerem a klientem (w tym przypadku przeglądarką użytkownika) zawierają nagłówki żądań i odpowiedzi HTTP, które są przechowywane w pliku HAR. Ponadto zawiera szczegółowe informacje o danych dotyczących wydajności stron internetowych ładowanych w przeglądarce. Pliki HAR można otwierać w dowolnym edytorze tekstu, takim jak Notatnik w systemie operacyjnym Microsoft Windows i TextEdit w systemie Apple MacOS.
+Plik z rozszerzeniem .har ([HTTP](/pl/web/http/) Archive) to plik archiwum HTTP, który przechowuje dane sesji przesyłane przez wiele przeglądarek (takich jak Chrome, Safari, IE, Firefox itp.) w formacie [JSON](/pl/web/json/) w formacie pliku. Dane przesyłane przez Internet między serwerem a klientem (w tym przypadku przeglądarką użytkownika) zawierają nagłówki żądań i odpowiedzi HTTP, które są przechowywane w pliku HAR. Ponadto zawiera szczegółowe informacje o danych dotyczących wydajności stron internetowych ładowanych w przeglądarce. Pliki HAR można otwierać w dowolnym edytorze tekstu, takim jak Notatnik w systemie operacyjnym Microsoft Windows i TextEdit w systemie Apple MacOS.
 
 ## Format pliku HAR — więcej informacji
 

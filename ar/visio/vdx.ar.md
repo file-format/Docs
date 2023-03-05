@@ -92,6 +92,6 @@
 
 ## مراجع ##
 
-* [Microsoft Visio - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/Microsoft_Visio)
-* [نظرة عامة على Visio - بواسطة Microsoft] (https://www.microsoft.com/en-ww/microsoft-365/visio/flowchart-software)
+* [Microsoft Visio - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Visio)
+* [نظرة عامة على Visio - بواسطة Microsoft](https://www.microsoft.com/en-ww/microsoft-365/visio/flowchart-software)
 

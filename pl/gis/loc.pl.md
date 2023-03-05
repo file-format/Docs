@@ -19,7 +19,7 @@
 
 ## Czym jest plik LOC?
 
-Plik z rozszerzeniem .loc to plik lokalizacji GPS, który zawiera lokalizacje geoprzestrzenne jako punkty trasy. Punkt trasy to para wartości szerokości i długości geograficznej, która odnosi się do lokalizacji używanej przez aplikacje systemu informacji geograficznej (GIS). Programy do mapowania GPS, takie jak DeLorme Topo, używają plików LOC do odczytywania i wyświetlania informacji zawartych w tych plikach LOC jako warstwy do wyboru przez użytkowników końcowych. Ponadto służą one do wymiany danych GPS między aplikacjami. Pliki LOC można otwierać za pomocą aplikacji takich jak [TopoGrafix EasyGPS] (https://www.easygps.com/), która wyświetla zawartość takich plików jako warstwy i dane wykreślone na mapie w odpowiedniej geolokalizacji.
+Plik z rozszerzeniem .loc to plik lokalizacji GPS, który zawiera lokalizacje geoprzestrzenne jako punkty trasy. Punkt trasy to para wartości szerokości i długości geograficznej, która odnosi się do lokalizacji używanej przez aplikacje systemu informacji geograficznej (GIS). Programy do mapowania GPS, takie jak DeLorme Topo, używają plików LOC do odczytywania i wyświetlania informacji zawartych w tych plikach LOC jako warstwy do wyboru przez użytkowników końcowych. Ponadto służą one do wymiany danych GPS między aplikacjami. Pliki LOC można otwierać za pomocą aplikacji takich jak [TopoGrafix EasyGPS](https://www.easygps.com/), która wyświetla zawartość takich plików jako warstwy i dane wykreślone na mapie w odpowiedniej geolokalizacji.
 
 ## Format pliku LOC — więcej informacji
 

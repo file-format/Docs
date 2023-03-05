@@ -19,7 +19,7 @@
 
 ## .PCC вариант №
 
-Файл с расширением .pcc представляет собой файл [игры Mass Effect] (https://www.ea.com/games/mass-effect/mass-effect-3), который содержит игровые данные для изменения игрового содержимого, такого как модели, текстуры и номера. Mass Effect 2 и 3 — первые шутеры, основанные на игровом движке Unreal Engine 3. Изначально игра была разработана компанией [Bioware] (https://www.bioware.com/about/), которая сохранила большую часть игровых ресурсов в собственном формате файлов PCC. Bioware была приобретена Electronic Arts, ведущим мировым издателем интерактивных развлечений.
+Файл с расширением .pcc представляет собой файл [игры Mass Effect](https://www.ea.com/games/mass-effect/mass-effect-3), который содержит игровые данные для изменения игрового содержимого, такого как модели, текстуры и номера. Mass Effect 2 и 3 — первые шутеры, основанные на игровом движке Unreal Engine 3. Изначально игра была разработана компанией [Bioware](https://www.bioware.com/about/), которая сохранила большую часть игровых ресурсов в собственном формате файлов PCC. Bioware была приобретена Electronic Arts, ведущим мировым издателем интерактивных развлечений.
 
 ## Формат файла PCC — дополнительная информация
 
@@ -43,7 +43,7 @@
 
 ## использованная литература
 
-* [Me3Explorer — Формат файла PCC] (https://me3explorer.fandom.com/wiki/PCC_File_Format)
+* [Me3Explorer — Формат файла PCC](https://me3explorer.fandom.com/wiki/PCC_File_Format)
 * [Игра Mass Effect](https://www.ea.com/games/mass-effect/mass-effect-3)
-* [Bioware] (https://www.bioware.com/about/)
+* [Bioware](https://www.bioware.com/about/)
 

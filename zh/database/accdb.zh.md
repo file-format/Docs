@@ -28,7 +28,7 @@
 
 ### 洞察力
 
-一个简单的 ACCDB 文件的十六进制转储表明，在结构上与前身 MDB 格式系列的最新版本大体相似。两种文件格式都使用 4096 字节的固定页面大小。 ACCDB 和 MDB 的另一个相似之处是幻数的形式，其中包括 ACCDB 的字符串“Standard ACE DB"。版本或兼容性代码在两种格式中位于同一位置。 mdbtools | HACKING 文件指出“偏移 0x14 包含此数据库的 Jet 版本"并且非官方 MDB 指南同意。这些来源中的信息与 [Microsoft Jet 数据库引擎] (https://en.wikipedia.org/wiki/Microsoft_Jet_Database_Engine) 的 Wikipedia 条目相结合，表明值 0x02 表示 ACE 12 (Access 2007)，而 0x03 表示 ACE 14（访问 2010）。但是，在 Access 2010 中创建的最小数据库和在 Access 2016 中创建的类似数据库都在此位置具有 0x02。在 Access 2016 中创建的最小数据库，但定义了具有新引入的“大整数"数据类型的列，其值为 0x05。在 ACCDB 文件中，该指标似乎反映了文件的兼容性，而不是用于创建文件的 ACE 引擎的版本。
+一个简单的 ACCDB 文件的十六进制转储表明，在结构上与前身 MDB 格式系列的最新版本大体相似。两种文件格式都使用 4096 字节的固定页面大小。 ACCDB 和 MDB 的另一个相似之处是幻数的形式，其中包括 ACCDB 的字符串“Standard ACE DB"。版本或兼容性代码在两种格式中位于同一位置。 mdbtools | HACKING 文件指出“偏移 0x14 包含此数据库的 Jet 版本"并且非官方 MDB 指南同意。这些来源中的信息与 [Microsoft Jet 数据库引擎](https://en.wikipedia.org/wiki/Microsoft_Jet_Database_Engine) 的 Wikipedia 条目相结合，表明值 0x02 表示 ACE 12 (Access 2007)，而 0x03 表示 ACE 14（访问 2010）。但是，在 Access 2010 中创建的最小数据库和在 Access 2016 中创建的类似数据库都在此位置具有 0x02。在 Access 2016 中创建的最小数据库，但定义了具有新引入的“大整数"数据类型的列，其值为 0x05。在 ACCDB 文件中，该指标似乎反映了文件的兼容性，而不是用于创建文件的 ACE 引擎的版本。
 
 ## 参考
 

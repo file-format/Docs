@@ -82,6 +82,6 @@ SEE ALSO
 
 ## مراجع
 
-* [المواصفات الفنية لـ OpenDocument - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/OpenDocument_technical_specification)
-* [man (1) - صفحة دليل Linux] (https://man7.org/linux/man-pages/man1/man.1.html)
+* [المواصفات الفنية لـ OpenDocument - بواسطة Wikipedia](https://en.wikipedia.org/wiki/OpenDocument_technical_specification)
+* [man (1) - صفحة دليل Linux](https://man7.org/linux/man-pages/man1/man.1.html)
 

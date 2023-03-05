@@ -27,5 +27,5 @@ FWP फ़ाइलों के सटीक फ़ाइल स्वरूप
 
 ## संदर्भ
 
-* [माइक्रोसॉफ्ट एक्सप्रेशन वेब - विकिपीडिया] (https://en.wikipedia.org/wiki/Microsoft_Expression_Web)
+* [माइक्रोसॉफ्ट एक्सप्रेशन वेब - विकिपीडिया](https://en.wikipedia.org/wiki/Microsoft_Expression_Web)
 

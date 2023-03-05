@@ -29,5 +29,5 @@
 ## Список літератури
 
 * [Формат Extended Standard Product 3 Orbit (SP3-c)](http://epncb.oma.be/ftp/data/format/sp3c.txt#:~:text=The%20SP3%20format%20is%20similar ,%20більш%20гнучка%20заголовок%20структура)
-* [Розширення стандартних форматів орбіти GPS Національної геодезичної служби] (https://beta.ngs.noaa.gov/PUBS_LIB/Extending_the_NGS_Standard_GPS_Orbit_Formats_TR_NOS133_NGS46.pdf)
+* [Розширення стандартних форматів орбіти GPS Національної геодезичної служби](https://beta.ngs.noaa.gov/PUBS_LIB/Extending_the_NGS_Standard_GPS_Orbit_Formats_TR_NOS133_NGS46.pdf)
 

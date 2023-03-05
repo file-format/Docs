@@ -32,5 +32,5 @@ TeamViewer Assist AR позволяет экспертам подключать�
 
 ## Использованная литература ##
 
-* [TPSR] (https://community.teamviewer.com/English/kb/articles/46456-using-teamviewer-assist-ar)
+* [TPSR](https://community.teamviewer.com/English/kb/articles/46456-using-teamviewer-assist-ar)
 

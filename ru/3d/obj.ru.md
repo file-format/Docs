@@ -70,5 +70,5 @@ Wavefront Technologies создала формат файла OBJ для сво�
 
 ## использованная литература
 
-* [Файл Wavefront .obj] (https://en.wikipedia.org/wiki/Wavefront_.obj_file)
+* [Файл Wavefront .obj](https://en.wikipedia.org/wiki/Wavefront_.obj_file)
 

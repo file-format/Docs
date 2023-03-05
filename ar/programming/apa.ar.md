@@ -28,6 +28,6 @@
 
 ## مراجع
 
-* [QuickStart لواجهة المعدات السريعة] (https://literature.rockwellautomation.com/idc/groups/literature/documents/qs/rapid-qs001_-en-p.pdf)
-* [التبديل بين اللغات على HMI] (https://literature.rockwellautomation.com/idc/groups/literature/documents/at/iasimp-at001_-en-p.pdf)
+* [QuickStart لواجهة المعدات السريعة](https://literature.rockwellautomation.com/idc/groups/literature/documents/qs/rapid-qs001_-en-p.pdf)
+* [التبديل بين اللغات على HMI](https://literature.rockwellautomation.com/idc/groups/literature/documents/at/iasimp-at001_-en-p.pdf)
 

@@ -22,7 +22,7 @@ Soubory s příponou CSPROJ představují soubor projektu C#, který obsahuje se
 
 ## Formát souboru CSPROJ č.
 
-Vývojáři mohou sami vytvářet soubory projektu a respektovat [Schéma XML MSBuild] (https://msdn.microsoft.com/library/5dy88c2e.aspx). Otevřená a transparentní struktura projektových souborů umožňuje vývojářům aplikací zavést sofistikovanou a jemnou kontrolu nad tím, jak jsou projekty sestavovány a nasazovány. Obsah takového souboru projektu má mezi sebou velmi jasný vztah. Následující obrázek ukazuje klíčové prvky a vztah mezi nimi pro takový soubor projektu.
+Vývojáři mohou sami vytvářet soubory projektu a respektovat [Schéma XML MSBuild](https://msdn.microsoft.com/library/5dy88c2e.aspx). Otevřená a transparentní struktura projektových souborů umožňuje vývojářům aplikací zavést sofistikovanou a jemnou kontrolu nad tím, jak jsou projekty sestavovány a nasazovány. Obsah takového souboru projektu má mezi sebou velmi jasný vztah. Následující obrázek ukazuje klíčové prvky a vztah mezi nimi pro takový soubor projektu.
 
 ![](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
 

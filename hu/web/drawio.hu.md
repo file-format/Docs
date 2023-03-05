@@ -23,7 +23,7 @@ A .drawio kiterjesztésű fájl egy rajzfájl, amelyet a [diagrams.net](https://
 
 ## DRAWIO fájlformátum
 
-A DRAWIO fájlok vektorkép fájlok, amelyeket szabványos XML fájlformátumban tárolnak. A diagrams.net által kifejlesztett, a Microsoft Visio-hoz hasonló diagramadatok tárolására alkalmas. A DrawIO [online alkalmazásként] (https://app.diagrams.net/) érhető el diagramok létrehozásához, megnyitásához és különféle formátumokba exportálásához. Az alkalmazás az mxGraph diagrammezőn alapul, amely interaktív grafikon- és diagramalkalmazásokat biztosít, amelyek bármely nagyobb böngészőben futnak, például Chrome, Firefox, Edge és Safari.
+A DRAWIO fájlok vektorkép fájlok, amelyeket szabványos XML fájlformátumban tárolnak. A diagrams.net által kifejlesztett, a Microsoft Visio-hoz hasonló diagramadatok tárolására alkalmas. A DrawIO [online alkalmazásként](https://app.diagrams.net/) érhető el diagramok létrehozásához, megnyitásához és különféle formátumokba exportálásához. Az alkalmazás az mxGraph diagrammezőn alapul, amely interaktív grafikon- és diagramalkalmazásokat biztosít, amelyek bármely nagyobb böngészőben futnak, például Chrome, Firefox, Edge és Safari.
 
 ### DRAWIO Példa
 

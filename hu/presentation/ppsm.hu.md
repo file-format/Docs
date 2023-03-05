@@ -23,7 +23,7 @@ A PPSM kiterjesztésű fájlok a Microsoft PowerPoint 2007 vagy újabb verziój�
 
 ## Fájlformátum ##
 
-A PPSM fájlformátumot a PowerPoint 2007-ben vezették be, és az OpenXML fájlformátumon alapul, amely az XML és a [ZIP] (/hu/compression/zip/) kombinációját használja a tartalom tárolására. Az Office Open XML fájlformátummal generált fájlok XML fájlok gyűjteménye más fájlokkal együtt, amelyek hivatkozásokat biztosítanak az összes fájl között. Ez a gyűjtemény tulajdonképpen egy tömörített archívum, amelyből ki lehet bontani a tartalmat. Ehhez egyszerűen nevezze át a PPSM fájlkiterjesztést zip-re, és bontsa ki a tartalmának megfigyeléséhez.
+A PPSM fájlformátumot a PowerPoint 2007-ben vezették be, és az OpenXML fájlformátumon alapul, amely az XML és a [ZIP](/hu/compression/zip/) kombinációját használja a tartalom tárolására. Az Office Open XML fájlformátummal generált fájlok XML fájlok gyűjteménye más fájlokkal együtt, amelyek hivatkozásokat biztosítanak az összes fájl között. Ez a gyűjtemény tulajdonképpen egy tömörített archívum, amelyből ki lehet bontani a tartalmat. Ehhez egyszerűen nevezze át a PPSM fájlkiterjesztést zip-re, és bontsa ki a tartalmának megfigyeléséhez.
 
 A következő szakaszok mindegyikre rávilágítanak.
 

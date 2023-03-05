@@ -16,7 +16,7 @@ lastmod: 2022-01-31
 
 ## ما هو ملف STP؟
 
-ملف STP هو ملف CAD ثلاثي الأبعاد يستخدم لتبادل بيانات المنتج بين تطبيقات CAD و CAM. يحتوي على معلومات حول الكائنات ثلاثية الأبعاد ويتم حفظها بشكل مشابه لتنسيق الملف ** STEP **. تسهل ملفات STP تبادل البيانات بين التطبيقات وفقًا لبروتوكولات التطبيق [STEP] (/ar/ 3d / step /) ISO 10303-2xx. تحدد ISO آلية التشفير لتمثيل البيانات في لغة نمذجة البيانات EXPRESS. يمكن فتح ملفات STP في تطبيقات مثل ** Autodesk Fusion 360 **.
+ملف STP هو ملف CAD ثلاثي الأبعاد يستخدم لتبادل بيانات المنتج بين تطبيقات CAD و CAM. يحتوي على معلومات حول الكائنات ثلاثية الأبعاد ويتم حفظها بشكل مشابه لتنسيق الملف ** STEP **. تسهل ملفات STP تبادل البيانات بين التطبيقات وفقًا لبروتوكولات التطبيق [STEP](/ar/ 3d / step /) ISO 10303-2xx. تحدد ISO آلية التشفير لتمثيل البيانات في لغة نمذجة البيانات EXPRESS. يمكن فتح ملفات STP في تطبيقات مثل ** Autodesk Fusion 360 **.
 
 ## تنسيق ملف STP - مزيد من المعلومات
 
@@ -60,19 +60,19 @@ lastmod: 2022-01-31
 
 يمكن لبرنامج Autodesk Fusion 360 تحويل ملفات STP إلى تنسيقات ملفات 3D و CAD التالية.
 
-* [OBJ] (/ar/ 3d / obj /)
-* [3MF] (/ar/ 3d / 3mf /)
-* [DWG] (/ar/ cad / dwg /)
-* [DXF] (/ar/ cad / dxf /)
-* [ASM] (/ar/ cad / asm /)
-* [IGES] (/ar/ cad / iges /)
-* [STL] (/ar/ cad / stl /)
-* [FBX] (/ar/ 3d / fbx /)
+* [OBJ](/ar/ 3d / obj /)
+* [3MF](/ar/ 3d / 3mf /)
+* [DWG](/ar/ cad / dwg /)
+* [DXF](/ar/ cad / dxf /)
+* [ASM](/ar/ cad / asm /)
+* [IGES](/ar/ cad / iges /)
+* [STL](/ar/ cad / stl /)
+* [FBX](/ar/ 3d / fbx /)
 * F3D
-* [دولار أمريكي] (/ar/ 3d / دولار أمريكي /)
+* [دولار أمريكي](/ar/ 3d / دولار أمريكي /)
 
 ## مراجع
 
-* [ISO 10303-21 - Wikipedia] (https://en.wikipedia.org/wiki/ISO_10303-21)
-* [Autodesk Fusion 360] (https://www.autodesk.com/products/fusion-360/overview)
+* [ISO 10303-21 - Wikipedia](https://en.wikipedia.org/wiki/ISO_10303-21)
+* [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview)
 

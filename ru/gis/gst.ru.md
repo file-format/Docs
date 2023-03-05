@@ -27,6 +27,6 @@
 
 ## Использованная литература ##
 
-* [MAPX] (https://www.mapx.org/)
-* [MapXtreme] (https://mappingsolutions.com/mapxtreme/)
+* [MAPX](https://www.mapx.org/)
+* [MapXtreme](https://mappingsolutions.com/mapxtreme/)
 

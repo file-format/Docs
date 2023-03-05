@@ -36,6 +36,6 @@ Les fichiers DEM sont couramment disponibles sur Internet et des échantillons p
 
 ## Références
 
-* [Fichiers DEM] (https://en.wikipedia.org/wiki/Digital_elevation_model)
+* [Fichiers DEM](https://en.wikipedia.org/wiki/Digital_elevation_model)
 * [USGS - DEM](https://www.usgs.gov/)
 

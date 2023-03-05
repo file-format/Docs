@@ -20,11 +20,11 @@
 
 ملف VHDX هو ملف صورة قرص بتنسيق ملف Virtual Hard Disk v2. يحتوي على نظام تشغيل كامل يمكن تحميله واستخدامه كأي جهاز عادي لاختبار البرامج أو تشغيل البرامج التي تتطلب نظام تشغيل محددًا. يتم تخزين VHDX ، على الرغم من كونه صورة قرص كامل ، في ملف واحد. يمكن لبرنامج الجهاز الظاهري مثل Parallels Desktop و Windows Virtual Machine و Virtual Box تحميل وفتح صورة القرص.
 
-يمكن تحويل ملف VHDX إلى [VHD] (/ar/ disc-and-media / vhd /) باستخدام Hyper-V Manager ، أو إلى [VDI] (/ar/ disc-and-media / vdi /) باستخدام VirtualBox.
+يمكن تحويل ملف VHDX إلى [VHD](/ar/ disc-and-media / vhd /) باستخدام Hyper-V Manager ، أو إلى [VDI](/ar/ disc-and-media / vdi /) باستخدام VirtualBox.
 
 ## تنسيق ملف VHDX - مزيد من المعلومات
 
-تفاصيل تنسيق ملف VHDX موثقة بالكامل ومتاحة عبر الإنترنت على أنها [مواصفات تنسيق ملف VHDX] (https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477 ) في وثائق Microsoft. إنه امتداد لتنسيق VHD ويتضمن إمكانات محسّنة. يوفر تنسيق ملف VHDX ميزات إضافية متوفرة على القرص الثابت الظاهري وطبقات ملفات القرص الثابت الافتراضية. إنه محسّن بدرجة أكبر ويعطي نتائج أفضل لتكوين أجهزة التخزين وقدراتها. يمكن فتح ملفات VHDX
+تفاصيل تنسيق ملف VHDX موثقة بالكامل ومتاحة عبر الإنترنت على أنها [مواصفات تنسيق ملف VHDX](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477 ) في وثائق Microsoft. إنه امتداد لتنسيق VHD ويتضمن إمكانات محسّنة. يوفر تنسيق ملف VHDX ميزات إضافية متوفرة على القرص الثابت الظاهري وطبقات ملفات القرص الثابت الافتراضية. إنه محسّن بدرجة أكبر ويعطي نتائج أفضل لتكوين أجهزة التخزين وقدراتها. يمكن فتح ملفات VHDX
 
 ### دعم الأقراص الصلبة الافتراضية في VHDX
 
@@ -38,6 +38,6 @@
 
 ## مراجع
 
-* [مواصفات تنسيق ملف VHDX] (https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
-* [VHD - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/VHD_ (file_format))
+* [مواصفات تنسيق ملف VHDX](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
+* [VHD - بواسطة Wikipedia](https://en.wikipedia.org/wiki/VHD_ (file_format))
 

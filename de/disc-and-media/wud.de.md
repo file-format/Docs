@@ -22,7 +22,7 @@ Eine Datei mit der Erweiterung .wud ist ein Disk-Image, das von einer Wii U-Spie
 
 ## WUD-Dateiformat
 
-WUD-Dateien werden in einem proprietären Dateiformat auf Disc gespeichert und können in den Cemu-Emulator geladen werden, um Wii U-Anwendungen auf dem PC zu emulieren. Aufgrund ihrer Größe werden WUD-Dateien [komprimiert] (/de/compression/), um die Dateigröße zu reduzieren. Die resultierende komprimierte Datei wird als WUX-Datei bezeichnet.
+WUD-Dateien werden in einem proprietären Dateiformat auf Disc gespeichert und können in den Cemu-Emulator geladen werden, um Wii U-Anwendungen auf dem PC zu emulieren. Aufgrund ihrer Größe werden WUD-Dateien [komprimiert](/de/compression/), um die Dateigröße zu reduzieren. Die resultierende komprimierte Datei wird als WUX-Datei bezeichnet.
 
 ## Verweise
 

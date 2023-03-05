@@ -28,5 +28,5 @@ Le paragraphe ci-dessus montre que Mobipocket Notes permet aux utilisateurs d'aj
 ## Références
 
 * [Lecteur MBP](https://www.angelfire.com/ego2/idleloop/mbp_reader.html)
-* [Formats de fichiers Mobipocket] (https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
+* [Formats de fichiers Mobipocket](https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
 

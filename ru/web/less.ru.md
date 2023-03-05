@@ -26,6 +26,6 @@
 
 ## использованная литература
 
-* [Более компактные таблицы стилей] (https://lesscss.org/)
-* [Документация по Leaner Style Sheets — Github] (https://github.com/less/less-docs)
+* [Более компактные таблицы стилей](https://lesscss.org/)
+* [Документация по Leaner Style Sheets — Github](https://github.com/less/less-docs)
 

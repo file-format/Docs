@@ -26,5 +26,5 @@ WEBLOC फ़ाइलें सादे पाठ फ़ाइल स्वर
 
 ## संदर्भ
 
-* [वेबलॉक ओपनर] (https://github.com/benchdoos/WeblocOpener)
+* [वेबलॉक ओपनर](https://github.com/benchdoos/WeblocOpener)
 

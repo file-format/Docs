@@ -23,7 +23,7 @@ A DAE fájl egy Digital Asset Exchange fájlformátum, amelyet interaktív 3D al
 
 ## DAE fájlformátum
 
-A DAE fájlformátum a [COLLADA XML-sémán] (https://www.khronos.org/files/collada_spec_1_5.pdf) alapul, ahol az összes elem XML-címkeként van definiálva. Lehetővé teszi a különféle DCC és 3D feldolgozó eszközök gyártási folyamatba kötését a 3D eszközök számára. A vizuális jelenetek átfogó kódolásával rendelkezik, beleértve a geometriát, az animációt, a shadereket és a fizikát. A formátum nyitott, archív minőségű, és megőrzi a metainformációkat.
+A DAE fájlformátum a [COLLADA XML-sémán](https://www.khronos.org/files/collada_spec_1_5.pdf) alapul, ahol az összes elem XML-címkeként van definiálva. Lehetővé teszi a különféle DCC és 3D feldolgozó eszközök gyártási folyamatba kötését a 3D eszközök számára. A vizuális jelenetek átfogó kódolásával rendelkezik, beleértve a geometriát, az animációt, a shadereket és a fizikát. A formátum nyitott, archív minőségű, és megőrzi a metainformációkat.
 
 ### COLLADA Címkék
 

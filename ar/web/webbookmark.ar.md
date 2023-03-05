@@ -26,5 +26,5 @@
 
 ## مراجع
 
-* [استيراد الإشارات المرجعية والسجل وكلمات المرور في Safari على Mac] (https://support.apple.com/en-mn/guide/safari/ibrw1015/mac)
+* [استيراد الإشارات المرجعية والسجل وكلمات المرور في Safari على Mac](https://support.apple.com/en-mn/guide/safari/ibrw1015/mac)
 

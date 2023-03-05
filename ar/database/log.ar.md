@@ -35,5 +35,5 @@
 
 ## مراجع ##
 
-* [ملف السجل - ويكيبيديا] (https://en.wikipedia.org/wiki/Log_file)
+* [ملف السجل - ويكيبيديا](https://en.wikipedia.org/wiki/Log_file)
 

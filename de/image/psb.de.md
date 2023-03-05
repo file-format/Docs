@@ -149,6 +149,6 @@ Komprimierungsmethoden:
 
 ## Bezug ##
 
-* [PSB-Dateiformat – von Adobe] (https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
+* [PSB-Dateiformat – von Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 * [PSB – Wikipedia](https://en.wikipedia.org/wiki/Adobe_Photoshop#Dateiformat)
 

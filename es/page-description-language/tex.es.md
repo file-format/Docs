@@ -50,5 +50,5 @@ El software TeX ofrece varias funciones que no estaban disponibles, o eran de me
 
 ## Referencias ##
 
-* [Sistema de composición tipográfica TeX] (https://en.wikipedia.org/wiki/TeX)
+* [Sistema de composición tipográfica TeX](https://en.wikipedia.org/wiki/TeX)
 

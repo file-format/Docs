@@ -26,5 +26,5 @@ Les fichiers DSC sont créés et stockés sur disque sous forme de fichiers text
 
 ## Références
 
-* [Format de fichier TXT] (https://en.wikipedia.org/wiki/Text_file)
+* [Format de fichier TXT](https://en.wikipedia.org/wiki/Text_file)
 

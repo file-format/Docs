@@ -68,7 +68,7 @@ class MyCoolScreensaver : Screensaver
 
 ## संदर्भ
 
-* [स्क्रीनसेवर] (https://en.wikipedia.org/wiki/Screensaver)
+* [स्क्रीनसेवर](https://en.wikipedia.org/wiki/Screensaver)
 * [ऐसा स्क्रीनसेवर लिखें जो वास्तव में काम करता हो](https://www.codeproject.com/Articles/14081/Write-a-Screensaver-that-Actually-Works)
 
 

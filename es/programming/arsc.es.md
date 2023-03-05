@@ -33,5 +33,5 @@ Los ID de recursos hacen referencia a los recursos en un archivo APK, mientras q
 
 ## Referencias
 
-* [Estructura de la tabla de recursos binarios] (https://stackoverflow.com/questions/27548810/android-compiled-resources-resources-arsc)
+* [Estructura de la tabla de recursos binarios](https://stackoverflow.com/questions/27548810/android-compiled-resources-resources-arsc)
 

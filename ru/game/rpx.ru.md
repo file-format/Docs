@@ -26,6 +26,6 @@
 
 ## использованная литература
 
-* [Форматы файлов Wii U] (https://www.retroreversing.com/WiiUFileFormats)
+* [Форматы файлов Wii U](https://www.retroreversing.com/WiiUFileFormats)
 * [Сжать или распаковать файлы RPL/RPX для Wii U](https://github.com/0CBH0/wiiurpxtool)
 

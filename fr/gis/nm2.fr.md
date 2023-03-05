@@ -22,7 +22,7 @@ Un fichier avec l'extension .nm2 est un fichier cartographique créé avec le sy
 
 ## Format de fichier NM2 - Plus d'informations
 
-Les fichiers NM2 sont enregistrés en tant que fichiers binaires et leur format de fichier interne/structure de données n'est pas disponible publiquement. Les versions récentes de Navitel enregistrent les données sous forme de fichiers .nm7. Il existe plusieurs fichiers cartographiques disponibles par Navitel sur leur [site Web] (https://www.navitel.cz/en/downloads/demo). La [documentation Navitel](https://www.navitel.cz/en/downloads/documentation) fournit des guides d'utilisation complets sur l'utilisation de son système de navigation pour différents types d'appareils et de véhicules.
+Les fichiers NM2 sont enregistrés en tant que fichiers binaires et leur format de fichier interne/structure de données n'est pas disponible publiquement. Les versions récentes de Navitel enregistrent les données sous forme de fichiers .nm7. Il existe plusieurs fichiers cartographiques disponibles par Navitel sur leur [site Web](https://www.navitel.cz/en/downloads/demo). La [documentation Navitel](https://www.navitel.cz/en/downloads/documentation) fournit des guides d'utilisation complets sur l'utilisation de son système de navigation pour différents types d'appareils et de véhicules.
 
 ## Références
 

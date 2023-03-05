@@ -41,6 +41,6 @@ Cela créera un fichier VPK à partir du répertoire spécifié et l'enregistrer
 
 ## Références
 
-* [Logiciel de vanne] (https://www.valvesoftware.com/en/)
-* [Ressources du développeur VPK] (https://developer.valvesoftware.com/wiki/GCF)
+* [Logiciel de vanne](https://www.valvesoftware.com/en/)
+* [Ressources du développeur VPK](https://developer.valvesoftware.com/wiki/GCF)
 

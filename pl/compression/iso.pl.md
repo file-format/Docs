@@ -56,6 +56,6 @@ Każdy deskryptor woluminu ma rozmiar 2048 bajtów i ma następującą struktur�
 ## Bibliografia
 
 * [Obraz dysku optycznego – Wikipedia](https://en.wikipedia.org/wiki/Optical_disc_image)
-* [Podpisy plików] (https://www.garykessler.net/library/file_sigs.html)
+* [Podpisy plików](https://www.garykessler.net/library/file_sigs.html)
 * [ISO 9660 – Wikipedia](https://en.wikipedia.org/wiki/ISO_9660)
 

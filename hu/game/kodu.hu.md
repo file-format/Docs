@@ -19,7 +19,7 @@
 
 ## Mi az a KODU fájl?
 
-A .kudo fájl egy 3D-s játékfájl, amelyet a Microsoft [Kodu Game Lab szoftverrel] (https://www.kodugamelab.com/) hoztak létre és mentenek, amely egy oktatási játékfejlesztő környezet. Úgy tervezték, hogy megtanítsa a gyerekeknek az alapvető programozási elveket, és lehetővé teszi az alkotók számára, hogy vizuális programozási nyelv segítségével programozzák a játékelemek viselkedését. A Kodu fájlok menthetők és megoszthatók más felhasználókkal, de csak a Kodu szoftverben nyithatók meg és futtathatók.
+A .kudo fájl egy 3D-s játékfájl, amelyet a Microsoft [Kodu Game Lab szoftverrel](https://www.kodugamelab.com/) hoztak létre és mentenek, amely egy oktatási játékfejlesztő környezet. Úgy tervezték, hogy megtanítsa a gyerekeknek az alapvető programozási elveket, és lehetővé teszi az alkotók számára, hogy vizuális programozási nyelv segítségével programozzák a játékelemek viselkedését. A Kodu fájlok menthetők és megoszthatók más felhasználókkal, de csak a Kodu szoftverben nyithatók meg és futtathatók.
 
 ## KODU fájlformátum – További információ
 

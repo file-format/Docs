@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo ZST?
 
-Un archivo ZST es un archivo comprimido que se genera con el algoritmo de compresión Zstandard (zstd). Es un archivo comprimido que se crea con compresión sin pérdidas por el algoritmo. Los archivos ZST se pueden usar para comprimir diferentes tipos de archivos, como bases de datos, sistemas de archivos, redes y juegos. El estándar Z se rige por [RFC 8878] (https://www.rfc-editor.org/rfc/rfc8878) que describe el mecanismo de compresión general, el tipo de medio y la codificación de contenido.
+Un archivo ZST es un archivo comprimido que se genera con el algoritmo de compresión Zstandard (zstd). Es un archivo comprimido que se crea con compresión sin pérdidas por el algoritmo. Los archivos ZST se pueden usar para comprimir diferentes tipos de archivos, como bases de datos, sistemas de archivos, redes y juegos. El estándar Z se rige por [RFC 8878](https://www.rfc-editor.org/rfc/rfc8878) que describe el mecanismo de compresión general, el tipo de medio y la codificación de contenido.
 
 ## Formato de archivo ZST
 

@@ -22,7 +22,7 @@ Un fișier cu extensia .nm2 este un fișier de hartă creat cu sistemul de navig
 
 ## Format de fișier NM2 - Mai multe informații
 
-Fișierele NM2 sunt salvate ca fișiere binare, iar formatul intern de fișier/structura de date nu este disponibilă public. Versiunile recente ale Navitel salvează datele ca fișiere .nm7. Există mai multe fișiere de hărți disponibile de către Navitel pe [site-ul web] (https://www.navitel.cz/en/downloads/demo). [Documentația Navitel](https://www.navitel.cz/en/downloads/documentation) oferă ghiduri complete de utilizare despre utilizarea sistemului său de navigație pentru diferite tipuri de dispozitive și vehicule.
+Fișierele NM2 sunt salvate ca fișiere binare, iar formatul intern de fișier/structura de date nu este disponibilă public. Versiunile recente ale Navitel salvează datele ca fișiere .nm7. Există mai multe fișiere de hărți disponibile de către Navitel pe [site-ul web](https://www.navitel.cz/en/downloads/demo). [Documentația Navitel](https://www.navitel.cz/en/downloads/documentation) oferă ghiduri complete de utilizare despre utilizarea sistemului său de navigație pentru diferite tipuri de dispozitive și vehicule.
 
 ## Referințe
 

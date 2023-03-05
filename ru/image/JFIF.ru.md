@@ -77,5 +77,5 @@ JFIF можно преобразовать в популярные формат�
 
 ## Использованная литература ##
 
-- [JFIF - Википедия] (https://en.wikipedia.org/wiki/JPEG_File_Interchange_Format#History)
+- [JFIF - Википедия](https://en.wikipedia.org/wiki/JPEG_File_Interchange_Format#History)
 

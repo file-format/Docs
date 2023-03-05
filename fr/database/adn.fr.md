@@ -27,5 +27,5 @@ ADN sont des fichiers modèles de base de données stockés sur disque sous form
 
 ## Références
 
-* [Microsoft Access - Quel format d'accès dois-je utiliser ?] (https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e- b617-be66f9070b41)
+* [Microsoft Access - Quel format d'accès dois-je utiliser ?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e- b617-be66f9070b41)
 

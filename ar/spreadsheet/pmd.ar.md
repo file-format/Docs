@@ -19,7 +19,7 @@
 
 ## PMD ما ه
 
-ملف PMD هو ملف جدول بيانات تم إنشاؤه باستخدام برنامج [PlanMaker] (https://www.softmaker.de/softmaker-office-planmaker) الذي يأتي مع SoftMaker Office. يقوم بتخزين بيانات جدول البيانات في صفوف وأعمدة مماثلة لملفات Excel. [XLSX] (/ar/ spreadsheet / xlsx /) هو تنسيق الملف القياسي لـ PlanMaker الذي يجعل من السهل استخدام البرنامج بدلاً من Microsoft Excel. يمكن أن يحتوي ملف PMD على صيغ ومخططات بالإضافة إلى البيانات المخزنة في الخلايا. يمكن فتح الملفات التي تم إنشاؤها باستخدام PlanMaker باستخدام Microsoft Excel دون أي تحويل إضافي. يمكنه أيضًا تحرير ملفات [XLS] (/ar/ spreadsheet / xls /) ويدعم تنسيقات ملفات إضافية مثل [PDF] (/ar/ pdf /).
+ملف PMD هو ملف جدول بيانات تم إنشاؤه باستخدام برنامج [PlanMaker](https://www.softmaker.de/softmaker-office-planmaker) الذي يأتي مع SoftMaker Office. يقوم بتخزين بيانات جدول البيانات في صفوف وأعمدة مماثلة لملفات Excel. [XLSX](/ar/ spreadsheet / xlsx /) هو تنسيق الملف القياسي لـ PlanMaker الذي يجعل من السهل استخدام البرنامج بدلاً من Microsoft Excel. يمكن أن يحتوي ملف PMD على صيغ ومخططات بالإضافة إلى البيانات المخزنة في الخلايا. يمكن فتح الملفات التي تم إنشاؤها باستخدام PlanMaker باستخدام Microsoft Excel دون أي تحويل إضافي. يمكنه أيضًا تحرير ملفات [XLS](/ar/ spreadsheet / xls /) ويدعم تنسيقات ملفات إضافية مثل [PDF](/ar/ pdf /).
 
 ## تنسيق ملف PMD
 
@@ -27,5 +27,5 @@
 
 ## مراجع ##
 
-* [SoftMaker Office - planMaker] (https://www.softmaker.de/softmaker-office-planmaker)
+* [SoftMaker Office - planMaker](https://www.softmaker.de/softmaker-office-planmaker)
 

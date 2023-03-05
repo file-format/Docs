@@ -19,19 +19,19 @@
 
 ## ما هو ملف X؟
 
-يشير ملف بامتداد .x إلى [DirectX] (https://www.microsoft.com/en-us/download/search.aspx؟q=directx) تنسيق ملف رسومات ثلاثي الأبعاد قديم تم تقديمه مع Microsoft DirectX 2.0. تم استخدامه لعرض الرسومات ثلاثية الأبعاد في الألعاب وتحديد هياكل الشبكات والأنسجة والرسوم المتحركة والكائنات المحددة من قبل المستخدم. لقد تم إهماله منذ عام 2014 حيث أن تنسيق ملف Autodesk FBX يعمل بشكل أفضل كتنسيق أكثر حداثة. X يعتمد على القوالب وخالي من أي معرفة بالاستخدام.
+يشير ملف بامتداد .x إلى [DirectX](https://www.microsoft.com/en-us/download/search.aspx؟q=directx) تنسيق ملف رسومات ثلاثي الأبعاد قديم تم تقديمه مع Microsoft DirectX 2.0. تم استخدامه لعرض الرسومات ثلاثية الأبعاد في الألعاب وتحديد هياكل الشبكات والأنسجة والرسوم المتحركة والكائنات المحددة من قبل المستخدم. لقد تم إهماله منذ عام 2014 حيث أن تنسيق ملف Autodesk FBX يعمل بشكل أفضل كتنسيق أكثر حداثة. X يعتمد على القوالب وخالي من أي معرفة بالاستخدام.
 
 يمكنك فتح ملفات DirectX X باستخدام Microsoft DirectX وبرامج تحرير النصوص الشائعة.
 
 ## تنسيق ملف X
 
-يحتوي [مرجع ملف X] (https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) على معلومات مرجعية لعناصر واجهة برمجة التطبيقات المستخدمة في العمل مع ملفات DirectX .x. يوفر التنسيق أساسيات بيانات منخفضة المستوى تستخدمها التطبيقات الأخرى لتحديد العناصر الأولية ذات المستوى الأعلى من خلال قوالب البيانات. قدم DirectX 6.0 واجهات وأساليب تمكن من القراءة من ملفات .x والكتابة إليها. قدم DirectX 3.0 إصدارًا ثنائيًا من تنسيق الملف هذا.
+يحتوي [مرجع ملف X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) على معلومات مرجعية لعناصر واجهة برمجة التطبيقات المستخدمة في العمل مع ملفات DirectX .x. يوفر التنسيق أساسيات بيانات منخفضة المستوى تستخدمها التطبيقات الأخرى لتحديد العناصر الأولية ذات المستوى الأعلى من خلال قوالب البيانات. قدم DirectX 6.0 واجهات وأساليب تمكن من القراءة من ملفات .x والكتابة إليها. قدم DirectX 3.0 إصدارًا ثنائيًا من تنسيق الملف هذا.
 
-يحتوي [مرجع تنسيق ملف X] (https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) المحدد بواسطة DirectX 9 على معلومات مرجعية لـ .x الملفات في الترميز الثنائي وكذلك النص.
+يحتوي [مرجع تنسيق ملف X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) المحدد بواسطة DirectX 9 على معلومات مرجعية لـ .x الملفات في الترميز الثنائي وكذلك النص.
 
 ### الترميز الثنائي
 
-يحدد [التنسيق الثنائي] (https://docs.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) تنسيق DirectX X باعتباره تمثيلًا مميزًا لتنسيق النص. يمكن أن تكون هذه الرموز المميزة قائمة بذاتها لإعطاء بنية نحوية أو يمكن أن تكون رموزًا تحمل سجلًا توفر البيانات اللازمة.
+يحدد [التنسيق الثنائي](https://docs.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) تنسيق DirectX X باعتباره تمثيلًا مميزًا لتنسيق النص. يمكن أن تكون هذه الرموز المميزة قائمة بذاتها لإعطاء بنية نحوية أو يمكن أن تكون رموزًا تحمل سجلًا توفر البيانات اللازمة.
 
 #### العنوان
 
@@ -84,6 +84,6 @@
 
 ## مراجع
 
-* [X Files Legacy] (https://docs.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
-* [مرجع تنسيق ملف DirectX 9] (https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
+* [X Files Legacy](https://docs.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
+* [مرجع تنسيق ملف DirectX 9](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
 

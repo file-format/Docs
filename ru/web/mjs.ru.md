@@ -19,7 +19,7 @@
 
 ## .MJS вариант №
 
-Файл с расширением .mjs — это файл исходного кода JavaScript, который используется в качестве модуля ECMA (модуль ECMAScript) в приложениях Node.js. Модульная система Node.js natvie — это CommonJS, который используется для разделения кода в разных файлах, чтобы сохранить организованный код [JS] (/ru/web/js/). MJS — это единственный способ, используемый Node.js для определения того, является ли модуль CommonJS или ES6. Модули ECMAScript являются стандартной формой упаковки кода JavaScript для повторного использования. Файлы MJS можно открывать в текстовых редакторах, таких как Atom, Vim, Apple xCode, Microsoft Visual Studio и Блокнот.
+Файл с расширением .mjs — это файл исходного кода JavaScript, который используется в качестве модуля ECMA (модуль ECMAScript) в приложениях Node.js. Модульная система Node.js natvie — это CommonJS, который используется для разделения кода в разных файлах, чтобы сохранить организованный код [JS](/ru/web/js/). MJS — это единственный способ, используемый Node.js для определения того, является ли модуль CommonJS или ES6. Модули ECMAScript являются стандартной формой упаковки кода JavaScript для повторного использования. Файлы MJS можно открывать в текстовых редакторах, таких как Atom, Vim, Apple xCode, Microsoft Visual Studio и Блокнот.
 
 ## Формат файла MJS — дополнительная информация
 
@@ -40,6 +40,6 @@
 
 ## использованная литература
 
-* [Node.js ESM] (https://nodejs.org/docs/latest/api/esm.html)
-* [Разница между JS и MJS] (https://nodejs.org/docs/latest/api/esm.html#esm_differences_between_es_modules_and_commonjs)
+* [Node.js ESM](https://nodejs.org/docs/latest/api/esm.html)
+* [Разница между JS и MJS](https://nodejs.org/docs/latest/api/esm.html#esm_differences_between_es_modules_and_commonjs)
 

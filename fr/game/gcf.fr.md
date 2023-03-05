@@ -30,7 +30,7 @@ Les fichiers GCF sont enregistrés sur le disque sous forme de fichiers binaires
 REMARQUE : GCF est le prédécesseur du [format de fichier VPK](/fr/game/vpk/).
 ## Références
 
-* [Logiciel de vanne] (https://www.valvesoftware.com/en/)
-* [Format de fichier GCF] (https://developer.valvesoftware.com/wiki/GCF)
+* [Logiciel de vanne](https://www.valvesoftware.com/en/)
+* [Format de fichier GCF](https://developer.valvesoftware.com/wiki/GCF)
 * [HLLib - Bibliothèque de programmation C++ Open Source pour la lecture de fichiers GCF](https://developer.valvesoftware.com/wiki/HLLib)
 

@@ -37,6 +37,6 @@
 
 ## Ссылка ##
 
-* [Быстрая эйфория] (https://www.rapideuphoria.com/)
+* [Быстрая эйфория](https://www.rapideuphoria.com/)
 * [Форумы OpenEuphoria](https://openeuphoria.org/forum/index.wc)
 

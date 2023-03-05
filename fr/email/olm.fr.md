@@ -26,5 +26,5 @@ Les OLM sont des fichiers binaires de type Application/octet-stream MIME. Les sp
 
 ## Références
 
-* [Format de fichier OLM ?] (https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format?forum=os_binaryfile)
+* [Format de fichier OLM ?](https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format?forum=os_binaryfile)
 

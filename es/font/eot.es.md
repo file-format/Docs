@@ -27,7 +27,7 @@ La fuente EOT se envió al W3C en 2007 como parte de CSS3, pero debido a sus req
 
 ## Formato de archivo EOT
 
-Los detalles del formato de archivo EOT se pueden encontrar en [página de envío W3] (https://www.w3.org/Submission/EOT/#FileFormat) y elabora la estructura utilizada por este formato de fuente. El EOT consta de una única estructura EMBEDDEDFONT que proporciona suficiente información básica sobre el nombre de la fuente y los caracteres admitidos. El empaquetado de esta información permite a los Agentes de Usuario evitar desempaquetar, descomprimir o instalar la fuente si ya está presente en la máquina.
+Los detalles del formato de archivo EOT se pueden encontrar en [página de envío W3](https://www.w3.org/Submission/EOT/#FileFormat) y elabora la estructura utilizada por este formato de fuente. El EOT consta de una única estructura EMBEDDEDFONT que proporciona suficiente información básica sobre el nombre de la fuente y los caracteres admitidos. El empaquetado de esta información permite a los Agentes de Usuario evitar desempaquetar, descomprimir o instalar la fuente si ya está presente en la máquina.
 
 ### Estructura del FONDO INTEGRADO
 La estructura EMBEDDEDFONT ha pasado por tres revisiones, con la adición de datos adicionales al final de la estructura con cada revisión. La última revisión de la estructura EMBEDDEDFONT se muestra a continuación.
@@ -82,7 +82,7 @@ La estructura EMBEDDEDFONT ha pasado por tres revisiones, con la adición de dat
 
 ## Referencias
 
-* [Formato de archivo EOT] (https://www.w3.org/Submission/EOT/)
+* [Formato de archivo EOT](https://www.w3.org/Submission/EOT/)
 * [OpenType integrado](https://en.wikipedia.org/wiki/Embedded_OpenType)
-* [Incrustación de fuentes] (https://en.wikipedia.org/wiki/Font_embedding)
+* [Incrustación de fuentes](https://en.wikipedia.org/wiki/Font_embedding)
 

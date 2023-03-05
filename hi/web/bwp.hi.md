@@ -22,5 +22,5 @@ BWP फ़ाइल प्रोग्रामिंग भाषा **BuRg3r**
 
 ## संदर्भ
 
-* [BuRg3r - Github] (https://github.com/jacquelinekong/BURGer)
+* [BuRg3r - Github](https://github.com/jacquelinekong/BURGer)
 

@@ -123,6 +123,6 @@ property float z           { z coordinate, too }
 
 ## संदर्भ ##
 
-* [प्लाई फ़ाइल प्रारूप] (http://paulbourke.net/dataformats/ply/)
+* [प्लाई फ़ाइल प्रारूप](http://paulbourke.net/dataformats/ply/)
 * [PLY - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/PLY_(file_format))
 

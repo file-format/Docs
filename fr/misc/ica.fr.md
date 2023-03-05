@@ -36,6 +36,6 @@ Les fichiers ICA doivent être conformes à certaines initialisations et certain
 
 ## Références
 
-* [Comprendre le contenu du fichier ICA] (https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
+* [Comprendre le contenu du fichier ICA](https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
 * [Référence des paramètres Citrix ICA](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
 

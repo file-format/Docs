@@ -19,7 +19,7 @@
 
 ## ما هو ملف PCC؟
 
-الملف الذي يحتوي على .pcc هو ملف [Mass Effect Game] (https://www.ea.com/games/mass-effect/mass-effect-3) يحتوي على بيانات اللعبة لتعديل محتوى اللعبة مثل النماذج والقوام و غرف. Mass Effect 2 و 3 هما أول ألعاب إطلاق النار على أساس محرك الألعاب Unreal Engine 3. تم تطوير اللعبة في البداية بواسطة [Bioware] (https://www.bioware.com/about/) الذين احتفظوا بمعظم موارد اللعبة في تنسيق ملف PCC الخاص بهم. استحوذت شركة Electronic Arts ، وهي شركة عالمية رائدة في مجال النشر الترفيهي التفاعلي ، على Bioware.
+الملف الذي يحتوي على .pcc هو ملف [Mass Effect Game](https://www.ea.com/games/mass-effect/mass-effect-3) يحتوي على بيانات اللعبة لتعديل محتوى اللعبة مثل النماذج والقوام و غرف. Mass Effect 2 و 3 هما أول ألعاب إطلاق النار على أساس محرك الألعاب Unreal Engine 3. تم تطوير اللعبة في البداية بواسطة [Bioware](https://www.bioware.com/about/) الذين احتفظوا بمعظم موارد اللعبة في تنسيق ملف PCC الخاص بهم. استحوذت شركة Electronic Arts ، وهي شركة عالمية رائدة في مجال النشر الترفيهي التفاعلي ، على Bioware.
 
 ## تنسيق ملف PCC - مزيد من المعلومات
 
@@ -43,7 +43,7 @@
 
 ## مراجع
 
-* [Me3Explorer - تنسيق ملف PCC] (https://me3explorer.fandom.com/wiki/PCC_File_Format)
-* [لعبة Mass Effect] (https://www.ea.com/games/mass-effect/mass-effect-3)
-* [Bioware] (https://www.bioware.com/about/)
+* [Me3Explorer - تنسيق ملف PCC](https://me3explorer.fandom.com/wiki/PCC_File_Format)
+* [لعبة Mass Effect](https://www.ea.com/games/mass-effect/mass-effect-3)
+* [Bioware](https://www.bioware.com/about/)
 

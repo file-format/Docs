@@ -66,5 +66,5 @@ static char*<variable_name>[] = {
 ## Препратки
 
 * [XPM - Wikipedia](https://en.wikipedia.org/wiki/X_PixMap)
-* [Ръководство за XPM] (http://www.xfree86.org/current/xpm.pdf)
+* [Ръководство за XPM](http://www.xfree86.org/current/xpm.pdf)
 

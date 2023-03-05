@@ -53,5 +53,5 @@ MIICUDCCAdoCBDaM1tYwDQYJKoZIhvcNAQEEBQAwgY8xCzAJBgNVBAYTAlVTMRMwMIICCDAaBgkqhkiG
 
 ## مراجع ##
 
-* [المفاتيح العمومية والمفاتيح الخاصة والشهادات] (https://docs.oracle.com/cd/E19509-01/820-3503/ggbgc/index.html)
+* [المفاتيح العمومية والمفاتيح الخاصة والشهادات](https://docs.oracle.com/cd/E19509-01/820-3503/ggbgc/index.html)
 

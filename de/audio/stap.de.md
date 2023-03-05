@@ -27,5 +27,5 @@ Dateien mit der Dateiendung STAP sind wie alle anderen Dateiformate auf jedem Be
 Probleme bei der Arbeit mit STAP-Dateien treten normalerweise auf, weil auf dem Computer keine geeignete Software vorhanden ist, die mit den STAP-Dateien kompatibel ist. Die beste Lösung besteht darin, Apple Soundtrack Pro oder eines der aufgeführten Programme wie Apple Final Cut Pro herunterzuladen und zu installieren.
 
 ## Verweise
-* [Final Cut Pro – Apple Inc.] (https://www.apple.com/final-cut-pro/)
+* [Final Cut Pro – Apple Inc.](https://www.apple.com/final-cut-pro/)
 

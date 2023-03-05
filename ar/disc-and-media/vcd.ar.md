@@ -30,6 +30,6 @@
 
 ## مراجع
 
-* [Virtual CD - Virtualize All of Your Optical Media] (https://www.virtualcd-online.com/)
+* [Virtual CD - Virtualize All of Your Optical Media](https://www.virtualcd-online.com/)
 
 

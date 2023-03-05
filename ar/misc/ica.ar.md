@@ -25,7 +25,7 @@
 
 يتم تخزين ملفات ICA على قرص بتنسيق نص عادي ويمكن للبشر قراءتها بسهولة. تحدد ملفات ICA المعلمات التي تستخدمها تطبيقات عميل سطح المكتب البعيد ، مثل Citrix Receiver ، للاتصال بالتطبيقات المستضافة على أجهزة سطح المكتب الافتراضية البعيدة.
 
-يجب أن تتوافق ملفات ICA مع بعض التنسيقات والتهيئة من أجل اتصال ناجح. هذه مذكورة في [مرجع إعدادات Citrix ICA] (http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html) وتتضمن حقولًا مثل:
+يجب أن تتوافق ملفات ICA مع بعض التنسيقات والتهيئة من أجل اتصال ناجح. هذه مذكورة في [مرجع إعدادات Citrix ICA](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html) وتتضمن حقولًا مثل:
 
 * ترميز الإدخال
 * عنوان مستعرض TCP
@@ -36,6 +36,6 @@
 
 ## مراجع
 
-* [فهم محتويات ملف ICA] (https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
-* [مرجع إعدادات Citrix ICA] (http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
+* [فهم محتويات ملف ICA](https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
+* [مرجع إعدادات Citrix ICA](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
 

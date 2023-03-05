@@ -92,7 +92,7 @@
 ## использованная литература
 
 * [Файл информации о программе (PIF)](http://justsolve.archiveteam.org/wiki/Program_information_file)
-* [Информационный файл программы - из Википедии] (https://en.wikipedia.org/wiki/Program_information_file)
+* [Информационный файл программы - из Википедии](https://en.wikipedia.org/wiki/Program_information_file)
 
 
 

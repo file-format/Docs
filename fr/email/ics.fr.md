@@ -62,7 +62,7 @@ Bien que le schéma de jeu de caractères par défaut pour un iCalendar soit UTF
 
 ## Références
 
-* [Spécification de l'objet de base de l'agenda et de la planification Internet] (https://www.ietf.org/rfc/rfc5545.txt)
+* [Spécification de l'objet de base de l'agenda et de la planification Internet](https://www.ietf.org/rfc/rfc5545.txt)
 * [iCalendar (RFC 5545)](https://icalendar.org/RFC-Specifications/iCalendar-RFC-5545/)
 * [iCalendar](https://en.wikipedia.org/wiki/ICalendar#History_and_design)
 

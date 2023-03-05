@@ -66,6 +66,6 @@ Ici, les balises suivantes sont utilisées.
 
 ## Références ##
 
-- [Bloc-notes Microsoft XML] (https://microsoft.github.io/XmlNotepad/)
-- [Exemple d'exemple XSD] (https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
+- [Bloc-notes Microsoft XML](https://microsoft.github.io/XmlNotepad/)
+- [Exemple d'exemple XSD](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
 

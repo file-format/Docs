@@ -64,6 +64,4 @@ Windows Registry Editor Version 5.00
 ## संदर्भ
 
 * [विंडो रजिस्ट्री- विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Windows_Registry)
-* [.reg फ़ाइल का उपयोग करके रजिस्ट्री उपकुंजियों और मानों को कैसे जोड़ें, संशोधित करें या हटाएं](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete- रजिस्ट्री-उपकुंजी-और-मूल्य-द्वारा-उपयोग-ए-रेग-फ़ाइल-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23)
-
-
+* [.reg फ़ाइल का उपयोग करके रजिस्ट्री उपकुंजियों और मानों को कैसे जोड़ें, संशोधित करें या हटाएं](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete-registry-subkeys-and-values-by-using-a-reg-file-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23)

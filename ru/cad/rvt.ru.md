@@ -27,5 +27,5 @@
 
 ## использованная литература
 
-* [Autodesk Revit] (https://en.wikipedia.org/wiki/Autodesk_Revit)
+* [Autodesk Revit](https://en.wikipedia.org/wiki/Autodesk_Revit)
 

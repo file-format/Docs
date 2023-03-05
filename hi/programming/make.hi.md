@@ -38,6 +38,6 @@ hello world
 ```
 
 ## संदर्भ
-* [एक्सकोड और मेक - ऐप्पल फ़ोरम] (https://developer.apple.com/forums/thread/657458)
-* [ऑब्जेक्ट-सी गाइड] (https://blog.teamtreehouse.com/beginners-guide-objective-c-classes-objects)
+* [एक्सकोड और मेक - ऐप्पल फ़ोरम](https://developer.apple.com/forums/thread/657458)
+* [ऑब्जेक्ट-सी गाइड](https://blog.teamtreehouse.com/beginners-guide-objective-c-classes-objects)
 

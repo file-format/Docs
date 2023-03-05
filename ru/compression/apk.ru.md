@@ -49,5 +49,5 @@
 
 ## использованная литература
 
-* [Формат файла APK] (https://en.wikipedia.org/wiki/Android_application_package)
+* [Формат файла APK](https://en.wikipedia.org/wiki/Android_application_package)
 

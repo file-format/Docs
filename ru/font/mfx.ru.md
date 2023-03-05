@@ -25,6 +25,6 @@ SimCity 4 — компьютерная игра-симулятор для соз
 
 ## использованная литература
 
-* [SimCity 4 — Википедия] (https://en.wikipedia.org/wiki/SimCity_4)
+* [SimCity 4 — Википедия](https://en.wikipedia.org/wiki/SimCity_4)
 * [EA SimCity-4](https://www.ea.com/games/simcity/simcity-4)
 

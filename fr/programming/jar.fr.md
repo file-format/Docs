@@ -73,6 +73,6 @@ Main-Class: com.example.MyClassName
 
 ## Références
 
-* [Aperçu du fichier JAR] (https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jarGuide.html)
+* [Aperçu du fichier JAR](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jarGuide.html)
 * [Format de fichier JAR](https://en.wikipedia.org/wiki/JAR_(file_format)#:~:text=A%20JAR%20(Java%20ARchive)%20is,into%20one%20file%20for% 20distribution.&text=Ils%20sont%20construits%20sur%20l'extension jar%20file%20.)
 

@@ -70,5 +70,5 @@
 
 ## مراجع
 
-* [ملف Wavefront .obj] (https://en.wikipedia.org/wiki/Wavefront_.obj_file)
+* [ملف Wavefront .obj](https://en.wikipedia.org/wiki/Wavefront_.obj_file)
 

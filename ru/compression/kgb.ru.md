@@ -23,10 +23,10 @@
 
 ## Формат файла КГБ
 
-Подробности технической реализации формата файла KGB отсутствуют. Он предлагает шифрование AES-256 для защиты архивных файлов. Архиватор KGB был разработан на языке Visual [C++](/ru/programming/cpp) Томашем Павлаком в апреле 2006 года, и предполагалось, что он сжимает файл [1 ГБ до 10 МБ] (https://web.archive.org/ web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/).
+Подробности технической реализации формата файла KGB отсутствуют. Он предлагает шифрование AES-256 для защиты архивных файлов. Архиватор KGB был разработан на языке Visual [C++](/ru/programming/cpp) Томашем Павлаком в апреле 2006 года, и предполагалось, что он сжимает файл [1 ГБ до 10 МБ](https://web.archive.org/ web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/).
 
 ## использованная литература
 
 * [КГБ - Википедия](https://en.wikipedia.org/wiki/KGB_Archiver)
-* [Архиватор КГБ] (https://sourceforge.net/projects/kgbarchiver/)
+* [Архиватор КГБ](https://sourceforge.net/projects/kgbarchiver/)
 

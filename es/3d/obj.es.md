@@ -70,5 +70,5 @@ El archivo OBJ permite que la información de color y textura se almacene en un 
 
 ## Referencias
 
-* [Archivo .obj de frente de onda] (https://en.wikipedia.org/wiki/Wavefront_.obj_file)
+* [Archivo .obj de frente de onda](https://en.wikipedia.org/wiki/Wavefront_.obj_file)
 

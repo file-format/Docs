@@ -68,5 +68,5 @@ L'architecture de schéma de données d'IFC définit quatre couches conceptuelle
 
 ## Références ##
 
-* [Classes de base de l'industrie - Par Wikipedia] (https://en.wikipedia.org/wiki/Industry_Foundation_Classes)
+* [Classes de base de l'industrie - Par Wikipedia](https://en.wikipedia.org/wiki/Industry_Foundation_Classes)
 

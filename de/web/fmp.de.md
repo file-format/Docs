@@ -27,5 +27,5 @@ Eine Datei mit .fmp-Datei ist eine animierte Menüdatei, die mit der Anwendung 1
 
 ## Verweise
 
-* [123 Flash-Menü] (https://123-flash-menu.en.uptodown.com/windows)
+* [123 Flash-Menü](https://123-flash-menu.en.uptodown.com/windows)
 

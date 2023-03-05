@@ -33,7 +33,7 @@ Soubory INDD lze převést do několika dalších formátů souborů. Nejběžn�
 
 ## Jak je vytvořen soubor INDD?
 
-Soubor Indd se vytvoří, když vytvoříte nový projekt pomocí [Adobe InDesign] (https://www.adobe.com/products/indesign.html) a uložíte jej na disk. Můžete otevřít soubor projektu Indd, provést v něm změny a uložit aktualizovaný soubor pro změny.
+Soubor Indd se vytvoří, když vytvoříte nový projekt pomocí [Adobe InDesign](https://www.adobe.com/products/indesign.html) a uložíte jej na disk. Můžete otevřít soubor projektu Indd, provést v něm změny a uložit aktualizovaný soubor pro změny.
 
 ## Reference
 

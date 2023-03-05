@@ -20,7 +20,7 @@ Un archivo con una extensión .webm es un archivo de video basado en el formato 
 
 ## Formato de archivo WEBM
 
-La estructura de archivos WebM se basa en un subconjunto del formato de archivo contenedor Matroska [MKV](/es/video/mkv/). Los flujos de video disponibles en un archivo WebM se comprimen utilizando las tecnologías de compresión VP8 o VP9 que son altamente eficientes en la compresión. De manera similar, las transmisiones de audio en un archivo WebM se comprimen utilizando los códecs Vorbis u Opus que fueron desarrollados por [Xiph Foundation] (https://www.xiph.org/). Todos estos videos y códecs de audio están libres de regalías y se pueden usar sin cargo.
+La estructura de archivos WebM se basa en un subconjunto del formato de archivo contenedor Matroska [MKV](/es/video/mkv/). Los flujos de video disponibles en un archivo WebM se comprimen utilizando las tecnologías de compresión VP8 o VP9 que son altamente eficientes en la compresión. De manera similar, las transmisiones de audio en un archivo WebM se comprimen utilizando los códecs Vorbis u Opus que fueron desarrollados por [Xiph Foundation](https://www.xiph.org/). Todos estos videos y códecs de audio están libres de regalías y se pueden usar sin cargo.
 
 Las siguientes son las especificaciones resumidas para el formato de archivo WebM.
 

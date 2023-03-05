@@ -58,7 +58,7 @@ Záhlaví začíná 4bajtovým magickým slovem **!BDN** reprezentovaným byty (
 |bidNextP (Unicode: 8 bajtů; ANSI: 4 bajty)|BID na další stránku. Stránky mají speciální počítadlo pro přidělování hodnot bidIndex. Hodnota bidIndex pro BID pro stránky se přiděluje z tohoto čítače.
 |bidNextB (pouze 4 bajty ANSI): |Další BID. Tato hodnota je monotónní čítač, který udává BID, který má být přiřazen dalšímu přidělenému bloku. Hodnoty BID se zvyšují v krocích po 4. Další podrobnosti naleznete v části 2.2.2.2.
 |dwUnique (4 bajty)|Jedná se o monotónně rostoucí hodnotu, která se mění při každé změně struktury HEADER souboru PST. Funkcí této hodnoty je poskytnout jedinečnou hodnotu a zajistit, aby se CRC HEADER po každé úpravě záhlaví lišily.
-|rgnid[] (128 bajtů)|Pevné pole 32 NID, z nichž každý odpovídá jednomu z 32 možných typů NID_TYPE (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE,NID_TYPE_ASSOC_MESSAGE)
+|rgnid[](128 bajtů)|Pevné pole 32 NID, z nichž každý odpovídá jednomu z 32 možných typů NID_TYPE (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE,NID_TYPE_ASSOC_MESSAGE)
 |qwUnused (8 bajtů)|Nepoužité místo; MUSÍ být nastaveno na nulu. Pouze souborový formát Unicode PST.
 |kořen (Unicode: 72 bajtů; ANSI: 40 bajtů)|Struktura ROOT (část 2.2.2.5).
 |dwAlign (4 bajty)|Nepoužité bajty zarovnání; MUSÍ být nastaveno na nulu. Pouze souborový formát Unicode PST.

@@ -66,6 +66,6 @@ This link is to the Notepad.jnlp file.
 ## Использованная литература ##
 
 * [Что такое Java Web Start и как он запускается?](https://www.java.com/en/download/help/java_webstart.html)
-* [Запустите JNLP с последней версией Java] (https://openwebstart.com/)
-* [Java Web Start — Википедия] (https://en.wikipedia.org/wiki/Java_Web_Start)
+* [Запустите JNLP с последней версией Java](https://openwebstart.com/)
+* [Java Web Start — Википедия](https://en.wikipedia.org/wiki/Java_Web_Start)
 

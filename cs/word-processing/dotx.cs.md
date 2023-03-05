@@ -34,5 +34,5 @@ Formát souboru DOTX má stejnou strukturu DOCX založenou na formátu souboru O
 ## Reference ##
 
 * [MS – formát souboru Docx](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx)
-* [Office Open XML] (http://officeopenxml.com/)
+* [Office Open XML](http://officeopenxml.com/)
 

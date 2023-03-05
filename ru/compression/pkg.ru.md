@@ -31,6 +31,6 @@ PKR — это двоичные файлы, сжатые для уменьшен
 
 ## использованная литература
 
-* [Формат файла плоского пакета] (http://s.sudre.free.fr/Stuff/Ivanhoe/FLAT.html)
+* [Формат файла плоского пакета](http://s.sudre.free.fr/Stuff/Ivanhoe/FLAT.html)
 * [ПКГ - Википедия](https://en.wikipedia.org/wiki/.pkg)
 

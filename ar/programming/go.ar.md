@@ -69,5 +69,5 @@ func main() {
 
 ## المرجعي ##
 
-* [GO - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/Go_ (developer_language))
+* [GO - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Go_ (developer_language))
 

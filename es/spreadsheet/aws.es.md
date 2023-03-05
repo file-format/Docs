@@ -28,5 +28,5 @@ Los archivos de AWS se almacenan en el disco como archivos binarios. Sin embargo
 ## Referencias ##
 
 * [Oficina de habilidades - Wikipedia](https://en.wikipedia.org/wiki/Ability_Office)
-* [Oficina de habilidad] (https://www.ability.com/en/home/home)
+* [Oficina de habilidad](https://www.ability.com/en/home/home)
 

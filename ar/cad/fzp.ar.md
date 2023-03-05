@@ -18,13 +18,13 @@
 
 ## ما هو ملف FZP؟
 
-ملف FZP هو ملف XML تم إنشاؤه بواسطة [Fritzing] (https://fritzing.org/) تطبيق النماذج والتصميم الأولي للدوائر الإلكترونية. يحتوي على معلومات حول خصائص الجزء والموصلات والناقلات بتنسيق ملف [XML] (/ar/ web / xml /). لا يمكن استخدام ملفات FPZ بشكل مستقل في Fritzing. بدلاً من ذلك ، يتم استيرادها كجزء من ملف أرشيف FZPZ.
+ملف FZP هو ملف XML تم إنشاؤه بواسطة [Fritzing](https://fritzing.org/) تطبيق النماذج والتصميم الأولي للدوائر الإلكترونية. يحتوي على معلومات حول خصائص الجزء والموصلات والناقلات بتنسيق ملف [XML](/ar/ web / xml /). لا يمكن استخدام ملفات FPZ بشكل مستقل في Fritzing. بدلاً من ذلك ، يتم استيرادها كجزء من ملف أرشيف FZPZ.
 
 ## تنسيق ملف FZP - مزيد من المعلومات
 
-ملفات FZP هي ملفات XML تحتوي على معلومات حول خصائص الجزء والموصلات والناقلات. بالإضافة إلى ذلك ، تحتوي ملفات FZP أيضًا على معلومات حول العنوان والوصف والمؤلف وتاريخ نشر ملف FZP. عند تصدير ملف جزء Fritzing ، ينشئ تطبيق Fritzing أرشيفًا مضغوطًا [FZPZ] (/ar/ compression / fzpz /) يحتوي على ملف FZP وأربعة ملفات [SVG] (/ar/ image / svg /).
+ملفات FZP هي ملفات XML تحتوي على معلومات حول خصائص الجزء والموصلات والناقلات. بالإضافة إلى ذلك ، تحتوي ملفات FZP أيضًا على معلومات حول العنوان والوصف والمؤلف وتاريخ نشر ملف FZP. عند تصدير ملف جزء Fritzing ، ينشئ تطبيق Fritzing أرشيفًا مضغوطًا [FZPZ](/ar/ compression / fzpz /) يحتوي على ملف FZP وأربعة ملفات [SVG](/ar/ image / svg /).
 
-[مواصفات تنسيق ملف FZP] (https://github.com/fritzing/fzp/blob/master/docs/README.md) متاحة على Github بواسطة Fritzing.
+[مواصفات تنسيق ملف FZP](https://github.com/fritzing/fzp/blob/master/docs/README.md) متاحة على Github بواسطة Fritzing.
 
 ## مثال على بنية ملف FZP
 
@@ -53,6 +53,6 @@
 ```
 ## مراجع
 
-* [مواصفات تنسيق ملف FZP] (https://github.com/fritzing/fzp/blob/master/docs/README.md)
-* [أجزاء جديدة بامتداد fzpz] (https://forum.fritzing.org/t/new-parts-with-fzpz-extension/8007/2)
+* [مواصفات تنسيق ملف FZP](https://github.com/fritzing/fzp/blob/master/docs/README.md)
+* [أجزاء جديدة بامتداد fzpz](https://forum.fritzing.org/t/new-parts-with-fzpz-extension/8007/2)
 

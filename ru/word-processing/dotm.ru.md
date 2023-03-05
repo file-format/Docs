@@ -31,6 +31,6 @@
 
 ## Использованная литература ##
 
-* [[MS-DOCX] — формат файла .Docx] (https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx)
-* [Office Open XML] (http://officeopenxml.com/)
+* [[MS-DOCX] — формат файла .Docx](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx)
+* [Office Open XML](http://officeopenxml.com/)
 

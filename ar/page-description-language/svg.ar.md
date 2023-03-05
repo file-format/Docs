@@ -94,6 +94,6 @@
 
 ## مراجع ##
 
-* [مواصفات W3C SVG] (https://www.w3.org/TR/SVG2/Overview.html)
-* [SVG - ويكيبيديا] (https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
+* [مواصفات W3C SVG](https://www.w3.org/TR/SVG2/Overview.html)
+* [SVG - ويكيبيديا](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 

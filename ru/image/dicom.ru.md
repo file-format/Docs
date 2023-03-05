@@ -109,8 +109,8 @@ DICOM использует следующие порты TCP и UDP:
 
 ## Использованная литература ##
 
-* [https://en.wikipedia.org/wiki/DICOM] (https://en.wikipedia.org/wiki/DICOM)
+* [https://en.wikipedia.org/wiki/DICOM](https://en.wikipedia.org/wiki/DICOM)
 * [https://www.leadtools.com/sdk/medical/dicom-spec](https://www.leadtools.com/sdk/medical/dicom-spec)
-* [https://www.dicomstandard.org/concepts/] (https://www.dicomstandard.org/concepts/)
+* [https://www.dicomstandard.org/concepts/](https://www.dicomstandard.org/concepts/)
 * [https://www.dicomlibrary.com/dicom/](https://www.dicomlibrary.com/dicom/)
 

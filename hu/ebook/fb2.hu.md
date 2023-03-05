@@ -23,7 +23,7 @@ Az .fb2 kiterjesztésű fájlok FictionBook 2.0 eBook fájlok, amelyek az e-kön
 
 ## FB2 fájlformátum
 
-A FictionBook 2.0 fájlformátumot Dmitrij Gribov, az orosz FictionBook munkatársa fejlesztette ki. Más népszerű Ebook-fájlformátumoktól eltérően, mint például az [EPUB](/hu/ebook/epub/), amelyek több XML-fájlt tartalmaznak, ez egyetlen XML-fájlon alapul, amely teljes információt tartalmaz a tartalomról. Ha a fájlban vannak képek, például [PNG](/hu/image/png/) vagy [JPG](/hu/image/jpeg/), ezeket a rendszer Base64 formátumba konvertálja, és beágyazza a dokumentumba. Az FB2 [fájlformátum specifikációi] (http://gribuser.ru/xml/fictionbook/index.html.en) a formátum 2.0-s verziójára vonatkozó információkat tartalmaz.
+A FictionBook 2.0 fájlformátumot Dmitrij Gribov, az orosz FictionBook munkatársa fejlesztette ki. Más népszerű Ebook-fájlformátumoktól eltérően, mint például az [EPUB](/hu/ebook/epub/), amelyek több XML-fájlt tartalmaznak, ez egyetlen XML-fájlon alapul, amely teljes információt tartalmaz a tartalomról. Ha a fájlban vannak képek, például [PNG](/hu/image/png/) vagy [JPG](/hu/image/jpeg/), ezeket a rendszer Base64 formátumba konvertálja, és beágyazza a dokumentumba. Az FB2 [fájlformátum specifikációi](http://gribuser.ru/xml/fictionbook/index.html.en) a formátum 2.0-s verziójára vonatkozó információkat tartalmaz.
 
 ## Referenciák ##
 

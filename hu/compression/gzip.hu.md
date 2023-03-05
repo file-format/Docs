@@ -30,6 +30,6 @@ A GZIP-fájlokat gyakran [GZ](/hu/compression/gz/) fájlformátumban mentik.
 
 * [gzip](http://www.gzip.org/)
 * [gzip - Wikipédia](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952: GZIP fájlformátum specifikáció] (http://tools.ietf.org/html/rfc1952), az IETF
+* [RFC1952: GZIP fájlformátum specifikáció](http://tools.ietf.org/html/rfc1952), az IETF
 * [RFC 1951](https://tools.ietf.org/html/rfc1951)
 

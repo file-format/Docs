@@ -39,6 +39,6 @@ AML (ऑटोमेशन मार्कअप लैंग्वेज) फ�
 ## संदर्भ
 
 * [ऑटोमेशनएमएल क्या है](https://www.automationml.org/about-automationml/automationml/)
-* [ऑटोमेशन एमएल - विकिपीडिया] (https://en.wikipedia.org/wiki/AutomationML)
+* [ऑटोमेशन एमएल - विकिपीडिया](https://en.wikipedia.org/wiki/AutomationML)
 * [AutomationML Specifications](https://www.automationml.org/about-automationml/specifications/)
 

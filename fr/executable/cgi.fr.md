@@ -83,5 +83,5 @@ Les fichiers CGI contenant les scripts CGI sont généralement utilisés pour tr
 
 ## Références
 
-* [Interface de passerelle commune - par Wikipewdia] (https://en.wikipedia.org/wiki/Common_Gateway_Interface)
+* [Interface de passerelle commune - par Wikipewdia](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
 

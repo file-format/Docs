@@ -19,9 +19,9 @@
 
 ## ما هو ملف AIA؟
 
-ملف AIA هو ملف مشروع تم إنشاؤه بواسطة تطبيق MIT Inventor الذي يعلم المبتدئين إنشاء تطبيقات Android و iOS. يتم حفظه كملف مضغوط [ZIP] (/ar/ compression / zip /) ويمكن أن يحتوي على العديد من المجلدات والملفات. تتضمن هذه الملفات المصدر مثل BKY و SCM و YAIL التي تعد جزءًا من مشروع التطبيق. يوفر MIT App Inventor محاكي Android يعمل بنفس طريقة Android ولكنه يظهر على الشاشة. هذا يساعد في اختبار التطبيقات على المحاكيات.
+ملف AIA هو ملف مشروع تم إنشاؤه بواسطة تطبيق MIT Inventor الذي يعلم المبتدئين إنشاء تطبيقات Android و iOS. يتم حفظه كملف مضغوط [ZIP](/ar/ compression / zip /) ويمكن أن يحتوي على العديد من المجلدات والملفات. تتضمن هذه الملفات المصدر مثل BKY و SCM و YAIL التي تعد جزءًا من مشروع التطبيق. يوفر MIT App Inventor محاكي Android يعمل بنفس طريقة Android ولكنه يظهر على الشاشة. هذا يساعد في اختبار التطبيقات على المحاكيات.
 
-تتضمن البرامج التي يمكنها فتح ملفات AIA [MIT App Inventor] (https://appinventor.mit.edu/).
+تتضمن البرامج التي يمكنها فتح ملفات AIA [MIT App Inventor](https://appinventor.mit.edu/).
 
 ## تنسيق ملف AIA - مزيد من المعلومات
 
@@ -33,6 +33,6 @@
 
 ## مراجع
 
-* [MIT App Inventor] (https://appinventor.mit.edu/)
-* [MIT App Inventor Tutorials] (https://appinventor.mit.edu/explore/ai2/tutorials)
+* [MIT App Inventor](https://appinventor.mit.edu/)
+* [MIT App Inventor Tutorials](https://appinventor.mit.edu/explore/ai2/tutorials)
 

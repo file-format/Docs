@@ -27,5 +27,5 @@
 
 ## использованная литература
 
-* [Формат файла шрифта] (https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
+* [Формат файла шрифта](https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
 

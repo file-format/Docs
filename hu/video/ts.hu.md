@@ -34,7 +34,7 @@ Ezenkívül a rendszer TS fájlokat használ, mert a műsorszóró rendszernek n
 
 ## Hogyan kell lejátszani a TS fájlokat?
 
-Nos, a TS-fájlok megnyithatók és lejátszhatók a népszerű [VideoLAN VLC médialejátszóban] (https://www.videolan.org/vlc/features.html), amely ingyenesen letölthető.
+Nos, a TS-fájlok megnyithatók és lejátszhatók a népszerű [VideoLAN VLC médialejátszóban](https://www.videolan.org/vlc/features.html), amely ingyenesen letölthető.
 
 ## Referenciák ##
 

@@ -24,7 +24,7 @@ Az .oar kiterjesztésű fájl az OpenSimulator alkalmazás által használt arch
 
 ## OAR fájlformátum
 
-Az OAR bináris fájlok, amelyeket tömörített archív fájlformátumban tárolnak. Az OAR fájlformátum legújabb verziója az [1.0](http://opensimulator.org/wiki/OAR_Format_1.0), amely jelentős változásokon ment keresztül az előző [0.8-as verzióhoz] (http://opensimulator.org/wiki/OAR_Format_0) .8). A legújabb verzió támogatja több régió egyetlen OAR-ban való tárolását, és visszafelé nem kompatibilis az OpenSimulator 0.7.5 előtti verzióival. Az OAR fájl egy gzip-fájl (tar.gz) az eredeti unix tar formátumban (nem USTAR).
+Az OAR bináris fájlok, amelyeket tömörített archív fájlformátumban tárolnak. Az OAR fájlformátum legújabb verziója az [1.0](http://opensimulator.org/wiki/OAR_Format_1.0), amely jelentős változásokon ment keresztül az előző [0.8-as verzióhoz](http://opensimulator.org/wiki/OAR_Format_0) .8). A legújabb verzió támogatja több régió egyetlen OAR-ban való tárolását, és visszafelé nem kompatibilis az OpenSimulator 0.7.5 előtti verzióival. Az OAR fájl egy gzip-fájl (tar.gz) az eredeti unix tar formátumban (nem USTAR).
 
 ## Példa az OAR régiókra
 Az AOR fájlok több régiót is tartalmazhatnak. Az archívum felépítése a következő (ez a példa 4 régiót tartalmaz):

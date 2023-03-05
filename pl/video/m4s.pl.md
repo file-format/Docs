@@ -22,7 +22,7 @@ Plik M4S to mały fragment filmu przesyłanego strumieniowo przez Internet przy 
 
 ## Format pliku M4S
 
-Pliki M4S są oparte na [formacie ISO Base Media File (ISOBMFF)] (https://www.w3.org/TR/mse-byte-stream-format-isobmff/). Te małe segmenty dużego pliku można pobrać niezależnie za pośrednictwem protokołu HTTP. Tak więc, jeśli masz duży plik filmowy [MP4](/pl/video/mp4/), można go przesyłać strumieniowo przy użyciu techniki MPEG-DASH (Dynamic Adaptive Streaming over HTTP), dzieląc go na segmenty plików M4S. Jeśli ten duży plik filmowy zostanie pobrany na dysk jako M4S, zostanie pobranych wiele plików M4S. Jeśli wszystkie te segmenty .m4s zostaną połączone, zostanie utworzony kompletny plik, który można odtworzyć. Odtwarzacze multimedialne nie mogą odtworzyć pliku, chyba że w pliku jest również dostępny pierwszy segment inicjujący.
+Pliki M4S są oparte na [formacie ISO Base Media File (ISOBMFF)](https://www.w3.org/TR/mse-byte-stream-format-isobmff/). Te małe segmenty dużego pliku można pobrać niezależnie za pośrednictwem protokołu HTTP. Tak więc, jeśli masz duży plik filmowy [MP4](/pl/video/mp4/), można go przesyłać strumieniowo przy użyciu techniki MPEG-DASH (Dynamic Adaptive Streaming over HTTP), dzieląc go na segmenty plików M4S. Jeśli ten duży plik filmowy zostanie pobrany na dysk jako M4S, zostanie pobranych wiele plików M4S. Jeśli wszystkie te segmenty .m4s zostaną połączone, zostanie utworzony kompletny plik, który można odtworzyć. Odtwarzacze multimedialne nie mogą odtworzyć pliku, chyba że w pliku jest również dostępny pierwszy segment inicjujący.
 
 ## Informacje o strumieniowaniu MPEG-DASH
 

@@ -30,5 +30,5 @@
 
 ## Ссылка ##
 
-* [яйца Python] (https://python101.pythonlibrary.org/chapter38_eggs.html)
+* [яйца Python](https://python101.pythonlibrary.org/chapter38_eggs.html)
 

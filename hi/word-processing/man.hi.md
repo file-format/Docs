@@ -82,6 +82,6 @@ SEE ALSO
 
 ## संदर्भ
 
-* [OpenDocument तकनीकी विनिर्देश - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/OpenDocument_technical_specification)
-* [आदमी (1) - लिनक्स मैनुअल पेज] (https://man7.org/linux/man-pages/man1/man.1.html)
+* [OpenDocument तकनीकी विनिर्देश - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/OpenDocument_technical_specification)
+* [आदमी (1) - लिनक्स मैनुअल पेज](https://man7.org/linux/man-pages/man1/man.1.html)
 

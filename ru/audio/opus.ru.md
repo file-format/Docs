@@ -27,5 +27,5 @@ Opus — это формат аудиофайлов, созданный фонд
 
 ## Использованная литература ##
 
-* [OPUS — Википедия] (https://en.wikipedia.org/wiki/Opus_(audio_format))
+* [OPUS — Википедия](https://en.wikipedia.org/wiki/Opus_(audio_format))
 

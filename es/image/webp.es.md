@@ -65,7 +65,7 @@ El archivo WebP, en este caso, consta de:
 * Encabezado de archivo WebP de 12 bytes
 * Trozo VP8
 
-La [Guía de formato y decodificación de datos VP8] (https://tools.ietf.org/html/rfc6386) ilustra las especificaciones del formato de flujo de bits VP8.
+La [Guía de formato y decodificación de datos VP8](https://tools.ietf.org/html/rfc6386) ilustra las especificaciones del formato de flujo de bits VP8.
 
 ### Formato de archivo sin pérdidas ###
 

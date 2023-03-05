@@ -30,5 +30,4 @@ ADE dosyaları, bu dosyaları oluşturmak için kullanılan Microsoft Access sü
 ## Referanslar
 
 * [Access ADE Dosyalarıyla İlgili Sorun](https://docs.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
-* [Hangi Access Dosya Biçimlerinin Kullanılacağı](https://support.microsoft.com/en-us/office/what-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
-
+* [Hangi Access Dosya Biçimlerinin Kullanılacağı](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41?ui=en-us&rs=en-us&ad=us)

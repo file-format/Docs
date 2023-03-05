@@ -18,7 +18,7 @@
 
 ## ما هو ملف HTC؟
 
-ملف HTC هو ملف بتنسيق ملف ويب يستخدمه Microsoft Internet Explorer. يحتوي على تعريفات لمكونات HTML التي تؤدي وظائف صغيرة لأداء مهام مختلفة داخل متصفح الويب. الوظائف المحددة داخل ملفات HTC قابلة لإعادة الاستخدام ويمكن الوصول إليها عبر عدة صفحات [HTML] (/ar/ web / html /).
+ملف HTC هو ملف بتنسيق ملف ويب يستخدمه Microsoft Internet Explorer. يحتوي على تعريفات لمكونات HTML التي تؤدي وظائف صغيرة لأداء مهام مختلفة داخل متصفح الويب. الوظائف المحددة داخل ملفات HTC قابلة لإعادة الاستخدام ويمكن الوصول إليها عبر عدة صفحات [HTML](/ar/ web / html /).
 
 ## تنسيق ملف HTC - مزيد من المعلومات
 
@@ -28,5 +28,5 @@
 
 ## مراجع
 
-* [البرنامج التعليمي لخادم Apache HTTP: ملفات .htaccess] (https://httpd.apache.org/docs/current/howto/htaccess.html)
+* [البرنامج التعليمي لخادم Apache HTTP: ملفات .htaccess](https://httpd.apache.org/docs/current/howto/htaccess.html)
 

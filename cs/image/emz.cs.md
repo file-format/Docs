@@ -30,7 +30,7 @@ Soubory EMZ jsou komprimovány [Gzip](/cs/compression/gz/) a obsahují uvnitř [
 * Komprimovaná data
 * Zápatí souboru
 
-Formát souboru GZIP [specifikace verze 4.3] (http://tools.ietf.org/html/rfc1952) publikovaný organizací Internet Engineering Task Force (IETF) obsahuje podrobné informace o formátu souboru.
+Formát souboru GZIP [specifikace verze 4.3](http://tools.ietf.org/html/rfc1952) publikovaný organizací Internet Engineering Task Force (IETF) obsahuje podrobné informace o formátu souboru.
 
 ## Reference
 

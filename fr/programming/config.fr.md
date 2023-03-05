@@ -94,6 +94,6 @@ use_anonymous = True
 ## Références
 
 * [Comprendre les fichiers de configuration Linux](https://developer.ibm.com/technologies/linux/articles/l-config/)
-* [Paramètres de fichier de configuration et d'informations d'identification] (https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
+* [Paramètres de fichier de configuration et d'informations d'identification](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
 * [Fichiers de configuration en Python](https://martin-thoma.com/configuration-files-in-python/)
 

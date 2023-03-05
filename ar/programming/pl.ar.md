@@ -20,7 +20,7 @@
 ## PL ما هو ملف PL؟
 
 الملف ذو الامتداد .pl هو ملف Perl Script وهو لغة برمجة نصية. يتم تجميعها وتشغيلها باستخدام برنامج Perl Interpreter. يحتوي ملف البرنامج النصي PL على سطور من التعليمات البرمجية والمتغيرات والتعليقات. لغات البرمجة النصية صعبة نسبيًا
-فهم تنسيقات ملفات البرمجة الأخرى مثل [PHP] (/ar/ البرمجة / php /). يمكن إنشاء ملفات PL وهي متوافقة مع أنظمة التشغيل Windows و macOS و Linux.
+فهم تنسيقات ملفات البرمجة الأخرى مثل [PHP](/ar/ البرمجة / php /). يمكن إنشاء ملفات PL وهي متوافقة مع أنظمة التشغيل Windows و macOS و Linux.
 
 ## تاريخ موجز للغة برمجة بيرل
 
@@ -104,5 +104,5 @@ $connumstr = $constr . $add;# concatenation of string and number.
 
 ## مراجع ##
 
-- [Python (لغة برمجة) - ويكيبيديا] (https://en.wikipedia.org/wiki/Python_ (architecture_language))
+- [Python (لغة برمجة) - ويكيبيديا](https://en.wikipedia.org/wiki/Python_ (architecture_language))
 

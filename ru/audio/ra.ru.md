@@ -48,5 +48,5 @@ RA был разработан как формат потокового муль
 
 ## Использованная литература ##
 
-- [RealAudio - Википедия] (https://en.wikipedia.org/wiki/RealAudio)
+- [RealAudio - Википедия](https://en.wikipedia.org/wiki/RealAudio)
 

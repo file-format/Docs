@@ -36,6 +36,6 @@ La norme UDF définit les trois variantes de système de fichiers suivantes :
 ## Références
 
 
-* [Format d'imagerie Windows - par Wikipedia] (https://en.wikipedia.org/wiki/Windows_Imaging_Format)
+* [Format d'imagerie Windows - par Wikipedia](https://en.wikipedia.org/wiki/Windows_Imaging_Format)
 
 

@@ -20,7 +20,7 @@
 
 Har du någonsin stött på och undrat vad en MPP-fil är? MPP och andra liknande filer är projektfilformat som skapas av programvaran Project Management. En projektfil är en samling av uppgifter, resurser och schemaläggning för att få ett mätbart resultat i form av en produkt eller en tjänst. Gantt-diagram används för att upprätta ett visuellt flöde av aktiviteter mot tid för de identifierade uppgifterna som också kan exporteras till PDF- eller bildformat för dokumentation.
 
-Vanliga filtillägg för projektledning och deras tillhörande filformat inkluderar **[MPP](/sv/project-management/mpp/)**, **[MPX](/sv/project-management/mpx/)** och **[XER] (/sv/project-management/xer/)**.
+Vanliga filtillägg för projektledning och deras tillhörande filformat inkluderar **[MPP](/sv/project-management/mpp/)**, **[MPX](/sv/project-management/mpx/)** och **[XER](/sv/project-management/xer/)**.
 
 Har du frågor relaterade till Project Management-filformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/project-management) för att dra nytta av kunskapen som delas av filformatsexperter.
 

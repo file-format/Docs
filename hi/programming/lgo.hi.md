@@ -26,5 +26,5 @@
 
 ## संदर्भ ##
 
-* [एलयूए - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/Lua_(programming_language))
+* [एलयूए - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Lua_(programming_language))
 

@@ -27,5 +27,5 @@
 
 ## مراجع
 
-* [Interscape Data Flask Download] (https://download.cnet.com/Data-Flask/3000-2077_4-10620775.html)
+* [Interscape Data Flask Download](https://download.cnet.com/Data-Flask/3000-2077_4-10620775.html)
 

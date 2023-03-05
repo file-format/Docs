@@ -58,5 +58,5 @@ WMF रिकॉर्ड का एक सामान्य प्रारू
 ## संदर्भ ##
 
 * [[MS-WMF]: विंडोज मेटाफाइल फॉर्मेट](https://msdn.microsoft.com/en-us/library/cc250370.aspx)
-* [विंडोज मेटाफाइल - विकिपीडिया] (https://en.wikipedia.org/wiki/Windows_Metafile)
+* [विंडोज मेटाफाइल - विकिपीडिया](https://en.wikipedia.org/wiki/Windows_Metafile)
 

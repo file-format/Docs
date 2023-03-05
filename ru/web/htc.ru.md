@@ -28,5 +28,5 @@
 
 ## использованная литература
 
-* [Учебное пособие по HTTP-серверу Apache: файлы .htaccess] (https://httpd.apache.org/docs/current/howto/htaccess.html)
+* [Учебное пособие по HTTP-серверу Apache: файлы .htaccess](https://httpd.apache.org/docs/current/howto/htaccess.html)
 

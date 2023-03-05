@@ -19,15 +19,15 @@
 
 ## Co je soubor ASC?
 
-Soubor ASC je soubor **script** vytvořený v programovacím jazyce ActionScript. Obsahuje kód, který se spouští na serveru hostujícím software Flash Media Server. Soubor ASC obsahuje skripty, které se používají k řízení událostí aplikace, jako je načítání aplikací Flash, zpracování uživatelských akcí z událostí myši a klávesnice, přehrávání multimediálního obsahu a vykreslování výstupu aplikace. Společnost Adobe získala Macromedia Flash, která se později stala součástí obleku Adobe Creativity jako Adobe Flash. Slouží k ukládání souborů animací ve [formátu souboru .swf] (/cs/page-description-language/swf/).
+Soubor ASC je soubor **script** vytvořený v programovacím jazyce ActionScript. Obsahuje kód, který se spouští na serveru hostujícím software Flash Media Server. Soubor ASC obsahuje skripty, které se používají k řízení událostí aplikace, jako je načítání aplikací Flash, zpracování uživatelských akcí z událostí myši a klávesnice, přehrávání multimediálního obsahu a vykreslování výstupu aplikace. Společnost Adobe získala Macromedia Flash, která se později stala součástí obleku Adobe Creativity jako Adobe Flash. Slouží k ukládání souborů animací ve [formátu souboru .swf](/cs/page-description-language/swf/).
 
 ## Formát souboru ASC – Další informace
 
-Soubory ASC se ukládají jako textové soubory, které lze otevřít a upravit pomocí [Adobe Media Encoder] (https://www.adobe.com/products/media-encoder.html). Ty se vytvářejí a ukládají jako textové soubory a lze je otevřít pomocí libovolného textového editoru, jako je Microsoft Notepad, Notepad++ a Apple TextEdit. Soubor ASC se ve výchozím nastavení spustí při spuštění serveru Flash Media a aplikaci.
+Soubory ASC se ukládají jako textové soubory, které lze otevřít a upravit pomocí [Adobe Media Encoder](https://www.adobe.com/products/media-encoder.html). Ty se vytvářejí a ukládají jako textové soubory a lze je otevřít pomocí libovolného textového editoru, jako je Microsoft Notepad, Notepad++ a Apple TextEdit. Soubor ASC se ve výchozím nastavení spustí při spuštění serveru Flash Media a aplikaci.
 
 
 ## reference ##
 
-* [formát souboru .swf] (/cs/page-description-language/swf/)
+* [formát souboru .swf](/cs/page-description-language/swf/)
 * [Adobe Media Encoder](https://www.adobe.com/products/media-encoder.html)
 

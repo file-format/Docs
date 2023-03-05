@@ -27,5 +27,5 @@
 
 ## مراجع
 
-* [تحسين مجلد بيانات EndNote] (https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the ar_US)
+* [تحسين مجلد بيانات EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the ar_US)
 

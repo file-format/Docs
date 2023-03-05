@@ -29,7 +29,7 @@ Les méthodes de diffusion de contenu utilisées par glTF entraînent un traitem
 * glTF JSON pointe vers des données binaires externes (géométrie, images clés, skins) et des images.
 * glTF JSON intègre des données binaires encodées en base64 et des images en ligne à l'aide d'URI de données.
 
-GLB en tant que format de conteneur a été introduit en tant que format de fichier binaire pour la représentation de l'actif glTF dans un blob binaire afin d'éviter les problèmes causés par glTF. Le format de fichier GLB [spécifications] (https://github.com/KhronosGroup/glTF/tree/master/specification/2.0#glb-file-format-specification) doit être référé pour toute implémentation de lecteur/graveur de celui-ci pour le développement d'applications .
+GLB en tant que format de conteneur a été introduit en tant que format de fichier binaire pour la représentation de l'actif glTF dans un blob binaire afin d'éviter les problèmes causés par glTF. Le format de fichier GLB [spécifications](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0#glb-file-format-specification) doit être référé pour toute implémentation de lecteur/graveur de celui-ci pour le développement d'applications .
 
 ## Structure du fichier GLB
 

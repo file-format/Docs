@@ -19,7 +19,7 @@
 
 ## ما هو ملف SDC؟ ##
 
-ملف SDC هو ملف جدول بيانات تم إنشاؤه باستخدام برنامج جداول بيانات [Apache OpenOffice Calc] (https://en.wikipedia.org/wiki/LibreOffice_Calc) وهو أيضًا جزء من StarOffice. مثل تطبيقات جداول البيانات الأخرى ، يتم تخزين البيانات في ملف SDC في شبكة من الخلايا في صفوف وأعمدة. تحتوي ملفات SDC على تطبيق MIME Type / vnd.stardivision.calc وكان مخططًا لاستخدامه في جداول بيانات StarCalc 5.x. Calc هو برنامج جداول بيانات مجاني ويستخدمه القادمون الجدد وكذلك المحترفون. يمكنه تصدير البيانات من ملف SDC إلى تنسيقات ملفات Microsoft Excel XLS و PDF. بالإضافة إلى Calc ، [LibreOffice] (https://www.libreoffice.org/) و [Planamesa NeoOffice] (https://www.neooffice.org/neojava/en/index.php).
+ملف SDC هو ملف جدول بيانات تم إنشاؤه باستخدام برنامج جداول بيانات [Apache OpenOffice Calc](https://en.wikipedia.org/wiki/LibreOffice_Calc) وهو أيضًا جزء من StarOffice. مثل تطبيقات جداول البيانات الأخرى ، يتم تخزين البيانات في ملف SDC في شبكة من الخلايا في صفوف وأعمدة. تحتوي ملفات SDC على تطبيق MIME Type / vnd.stardivision.calc وكان مخططًا لاستخدامه في جداول بيانات StarCalc 5.x. Calc هو برنامج جداول بيانات مجاني ويستخدمه القادمون الجدد وكذلك المحترفون. يمكنه تصدير البيانات من ملف SDC إلى تنسيقات ملفات Microsoft Excel XLS و PDF. بالإضافة إلى Calc ، [LibreOffice](https://www.libreoffice.org/) و [Planamesa NeoOffice](https://www.neooffice.org/neojava/en/index.php).
 
 ## تنسيق ملف SDC
 
@@ -27,8 +27,8 @@
 
 ## مراجع ##
 
-* [مقدمة إلى جدول بيانات CALC] (https://www.pitt.edu/~poole/libreofficeTutorials/libreofficeLesson4.pdf)
-* [StarOffice - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/StarOffice)
-* [أنواع MIME - Apache] (https://www.openoffice.org/framework/documentation/mimetypes/mimetypes.html)
-* [Calc - Libreoffice] (https://www.libreoffice.org/discover/calc/)
+* [مقدمة إلى جدول بيانات CALC](https://www.pitt.edu/~poole/libreofficeTutorials/libreofficeLesson4.pdf)
+* [StarOffice - بواسطة Wikipedia](https://en.wikipedia.org/wiki/StarOffice)
+* [أنواع MIME - Apache](https://www.openoffice.org/framework/documentation/mimetypes/mimetypes.html)
+* [Calc - Libreoffice](https://www.libreoffice.org/discover/calc/)
 

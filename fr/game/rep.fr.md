@@ -29,5 +29,5 @@ Les spécifications du format de fichier REP sont disponibles sur [gta fandom](h
 
 ## Références
 
-* [Format de fichier GTA Replay REP] (https://gta.fandom.com/wiki/Replay/Format_details)
+* [Format de fichier GTA Replay REP](https://gta.fandom.com/wiki/Replay/Format_details)
 

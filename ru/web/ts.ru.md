@@ -37,5 +37,5 @@
 
 ## использованная литература
 
-* [Получить Qt] (https://www.qt.io/download)
+* [Получить Qt](https://www.qt.io/download)
 

@@ -23,7 +23,7 @@ Eine Datei mit der Erweiterung .mf ist eine Java-Manifestdatei, die Informatione
 
 ## Manifest-Dateiformatspezifikationen
 
-[Spezifikationen des Manifest-Dateiformats] (https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html) sind von Oracle in ihrem Leitfaden für das JAR-Dateiformat verfügbar. Eine Manifestdatei besteht aus Hauptabschnitten, denen eine Liste von Abschnitten für einzelne JAR-Dateieinträge folgt. Jeder Abschnitt folgt einigen Regeln und Einschränkungen.
+[Spezifikationen des Manifest-Dateiformats](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html) sind von Oracle in ihrem Leitfaden für das JAR-Dateiformat verfügbar. Eine Manifestdatei besteht aus Hauptabschnitten, denen eine Liste von Abschnitten für einzelne JAR-Dateieinträge folgt. Jeder Abschnitt folgt einigen Regeln und Einschränkungen.
 
 ### Hauptabschnitte
 
@@ -55,6 +55,6 @@ Ein eigener Abschnitt definiert verschiedene Attribute für Pakete oder Dateien 
 
 ## Verweise
 
-* [Oracle – JAR-Dateiformat] (https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html)
+* [Oracle – JAR-Dateiformat](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html)
 * [JAR-Dateiformat](https://en.wikipedia.org/wiki/JAR_(file_format)#:~:text=A%20JAR%20(Java%20ARchive)%20is,in%20one%20file%20for% 20distribution.&text=Sie%20sind%20auf%20der,jar%20Datei-%20Erweiterung aufgebaut%20.)
 

@@ -39,6 +39,6 @@ DCR هو تنسيق خاص تم تطويره بواسطة شركة Eastman Kodak
 
 ## مراجع ##
 
-* [تنسيق الصورة الأولية - بواسطة ويكيبيديا] (https://en.wikipedia.org/wiki/Raw_image_format)
-* [ما هو ملف DCR] (https://expertphotography.com/dcr-file/)
+* [تنسيق الصورة الأولية - بواسطة ويكيبيديا](https://en.wikipedia.org/wiki/Raw_image_format)
+* [ما هو ملف DCR](https://expertphotography.com/dcr-file/)
 

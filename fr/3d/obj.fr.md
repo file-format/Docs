@@ -70,5 +70,5 @@ Le fichier OBJ permet de stocker les informations de couleur et de texture dans 
 
 ## Références
 
-* [Fichier Wavefront .obj] (https://en.wikipedia.org/wiki/Wavefront_.obj_file)
+* [Fichier Wavefront .obj](https://en.wikipedia.org/wiki/Wavefront_.obj_file)
 

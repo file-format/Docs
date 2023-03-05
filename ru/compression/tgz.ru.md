@@ -36,5 +36,5 @@ tar zxvf tgzCompressedFile.tgz
 ## Использованная литература ##
 
 * [TGS](https://core.telegram.org/animated_stickers)
-* [gzip — Википедия] (https://en.wikipedia.org/wiki/Gzip)
+* [gzip — Википедия](https://en.wikipedia.org/wiki/Gzip)
 

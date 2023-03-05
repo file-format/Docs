@@ -19,7 +19,7 @@
 
 ## .OTG オプション番号
 
-OTG ファイルは、OASIS Office Applications [1.0 仕様] (http://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0) に準拠した OpenDocument 標準を使用して作成された図面テンプレートです。 -os.pdf)。これは、ファイルのコンテンツをさらに強化するために使用できる、ベクター イメージの描画要素の既定の編成を表します。 OTF ファイルは、ドキュメントの内容を表す XML 形式に基づく他の OpenDocument 形式ベースのファイルと同様です。 OTF ファイルは、任意のテキストまたは標準の XML エディターで開いて表示できます。
+OTG ファイルは、OASIS Office Applications [1.0 仕様](http://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0) に準拠した OpenDocument 標準を使用して作成された図面テンプレートです。 -os.pdf)。これは、ファイルのコンテンツをさらに強化するために使用できる、ベクター イメージの描画要素の既定の編成を表します。 OTF ファイルは、ドキュメントの内容を表す XML 形式に基づく他の OpenDocument 形式ベースのファイルと同様です。 OTF ファイルは、任意のテキストまたは標準の XML エディターで開いて表示できます。
 
 ## OTG ファイル形式の仕様 ##
 

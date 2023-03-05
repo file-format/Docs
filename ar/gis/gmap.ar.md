@@ -27,16 +27,16 @@
 
 ## أنواع الملفات الشائعة المستخدمة في أجهزة Garmin
 
-* تنسيق تبادل GPS ([.gpx] (/ar/ gis / gpx /))
-* تنسيق ملف الملاءمة ([.fit] (/ar/ gis / fit /))
+* تنسيق تبادل GPS ([.gpx](/ar/ gis / gpx /))
+* تنسيق ملف الملاءمة ([.fit](/ar/ gis / fit /))
 * قاعدة بيانات Garmin® GPS (.gdb)
-* مركز تدريب Garmin ([.tcx] (/ar/ gis / tcx /))
-* موقع GPS ([.loc] (/ar/ gis / loc /))
-* خريطة Garmin المخصصة ([.kml] (/ar/ gis / kml /) أو [.kmz] (/ar/ gis / kmz /))
-* صورة (.jpg أو [.jpeg] (/ar/ image / jpeg /))
+* مركز تدريب Garmin ([.tcx](/ar/ gis / tcx /))
+* موقع GPS ([.loc](/ar/ gis / loc /))
+* خريطة Garmin المخصصة ([.kml](/ar/ gis / kml /) أو [.kmz](/ar/ gis / kmz /))
+* صورة (.jpg أو [.jpeg](/ar/ image / jpeg /))
 
 ## مراجع
 
-* [أنواع الملفات المدعومة من Garmin] (https://www8.garmin.com/manuals/webhelp/basecamppc/EN-US/GUID-43E0D8E9-E720-4895-827E-530751793EF3.html)
-* [GML - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/Geography_Markup_Language)
+* [أنواع الملفات المدعومة من Garmin](https://www8.garmin.com/manuals/webhelp/basecamppc/EN-US/GUID-43E0D8E9-E720-4895-827E-530751793EF3.html)
+* [GML - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Geography_Markup_Language)
 

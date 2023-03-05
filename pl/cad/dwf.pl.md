@@ -31,7 +31,7 @@ DWF to otwarty, bezpieczny format zaprojektowany specjalnie do udostępniania bo
 
 **Pliki metadanych DWF** – pliki XML, które zawierają informacje dotyczące metadanych i struktury (autor, tytuł, czas utworzenia, zależności sekcji, kolejność sekcji, opisy plików zasobów, role, typy MIME itp.) oraz dotyczące sekcji (strona informacje, metadane projektowe itp.). Metadane strukturalne służą do tworzenia obiektów logicznych (kolekcji plików reprezentujących część lub stronę itp.).
 
-**Pliki zasobów** – pliki multimedialne lub inne pliki treści, do których odniesienia znajdują się w metadanych pakietu/sekcji i zazwyczaj są prezentacjami danych projektowych w różnych formatach (ZGL, W2D, [JPG](/pl/image/jpeg/), [PNG] (/pl/image/png/), AVI, XML, [TXT](/pl/przetwarzanie tekstu/txt/), [DOC](/pl/przetwarzanie tekstu/doc/) itp.)
+**Pliki zasobów** – pliki multimedialne lub inne pliki treści, do których odniesienia znajdują się w metadanych pakietu/sekcji i zazwyczaj są prezentacjami danych projektowych w różnych formatach (ZGL, W2D, [JPG](/pl/image/jpeg/), [PNG](/pl/image/png/), AVI, XML, [TXT](/pl/przetwarzanie tekstu/txt/), [DOC](/pl/przetwarzanie tekstu/doc/) itp.)
 
 ### Szczegóły formatu pliku ###
 

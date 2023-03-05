@@ -28,6 +28,6 @@
 ## использованная литература
 
 * [Как скрыть код VBA от пользователей?](https://support.microsoft.com/en-us/office/hide-vba-code-from-users-ce6ab610-af07-4008-91e0-1ef1b796ff18)
-* [Инструменты MDB] (https://github.com/mdbtools/mdbtools/blob/master/HACKING)
-* [Неофициальное руководство по MDB] (http://jabakobob.net/mdb/)
+* [Инструменты MDB](https://github.com/mdbtools/mdbtools/blob/master/HACKING)
+* [Неофициальное руководство по MDB](http://jabakobob.net/mdb/)
 

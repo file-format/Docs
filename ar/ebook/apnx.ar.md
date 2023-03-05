@@ -79,6 +79,6 @@ int.
 
 ## مراجع
 
-* [تنسيق ملف Amazon APNX] (https://nachtimwald.com/2011/02/09/amazon-apnx-file-format/)
-* [APNX - بواسطة MobileRead Wiki] (https://wiki.mobileread.com/wiki/APNX)
+* [تنسيق ملف Amazon APNX](https://nachtimwald.com/2011/02/09/amazon-apnx-file-format/)
+* [APNX - بواسطة MobileRead Wiki](https://wiki.mobileread.com/wiki/APNX)
 

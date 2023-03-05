@@ -46,6 +46,6 @@ cryptography-2.9.2-cp35-abi3-macosx_10_9_x86_64.whl
 
 ## использованная литература
 
-* [Что такое колеса Python и зачем вам это?] (https://realpython.com/python-wheels/)
-* [Колесо Python] (https://pypi.org/project/wheel/)
+* [Что такое колеса Python и зачем вам это?](https://realpython.com/python-wheels/)
+* [Колесо Python](https://pypi.org/project/wheel/)
 

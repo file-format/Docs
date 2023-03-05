@@ -18,7 +18,7 @@
 
 ## ما هو ملف P7B؟
 
-ملف P7B هو ملف شهادة أمان يحتوي على شهادة رقمية آمنة لمصادقة شخص أو جهاز. على غرار ملف شهادة [.cer] (/ar/ web / cer /) ، يمكن تثبيت ملف P7B باستخدام خيار "تثبيت الشهادة" باستخدام خيار النقر بزر الماوس الأيمن على الملف. يستخدم P7B خيار تنسيق مختلفًا عن تنسيق ملف CER. يحتوي على ملف أو أكثر من ملفات الشهادات الرقمية X.509 التي تستخدم ترميز base64 (ASCII). يتم استلام ملفات P7B كملف [ZIP] (/ar/ ضغط / مضغوط /) أو استلامها من المرجع المصدق.
+ملف P7B هو ملف شهادة أمان يحتوي على شهادة رقمية آمنة لمصادقة شخص أو جهاز. على غرار ملف شهادة [.cer](/ar/ web / cer /) ، يمكن تثبيت ملف P7B باستخدام خيار "تثبيت الشهادة" باستخدام خيار النقر بزر الماوس الأيمن على الملف. يستخدم P7B خيار تنسيق مختلفًا عن تنسيق ملف CER. يحتوي على ملف أو أكثر من ملفات الشهادات الرقمية X.509 التي تستخدم ترميز base64 (ASCII). يتم استلام ملفات P7B كملف [ZIP](/ar/ ضغط / مضغوط /) أو استلامها من المرجع المصدق.
 
 ## تنسيق ملف P7B
 
@@ -36,6 +36,6 @@ XjlakuoieulalxkjflaiuEggHozdmgGz7zbC1mcJ2rcNAQEEBBAYTAlVTMRMwMIICCDAaBgyAEFKaEEC
 
 ## مراجع ##
 
-* [تشفير المفتاح العام] (https://en.wikipedia.org/wiki/Public-key_cryptography)
-* [كيف تنشئ ملف P7C؟] (https://www.ibm.com/support/pages/how-create-pkcs7-p7b-p7c-certificate-your-trading-partner)
+* [تشفير المفتاح العام](https://en.wikipedia.org/wiki/Public-key_cryptography)
+* [كيف تنشئ ملف P7C؟](https://www.ibm.com/support/pages/how-create-pkcs7-p7b-p7c-certificate-your-trading-partner)
 

@@ -25,5 +25,5 @@
 
 ## использованная литература
 
-* [Справка DAP — Управление папками сохранения] (http://www.speedbit.com/dap-help/download-accelerator-file-manager/)
+* [Справка DAP — Управление папками сохранения](http://www.speedbit.com/dap-help/download-accelerator-file-manager/)
 

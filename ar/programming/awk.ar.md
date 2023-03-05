@@ -62,5 +62,5 @@ Writing my first Awk executable script!
 
 ## المرجعي ##
 
-* [اكتب نصوصًا باستخدام لغة برمجة Awk] (https://www.tecmint.com/write-shell-scripts-in-awk-programming/)
+* [اكتب نصوصًا باستخدام لغة برمجة Awk](https://www.tecmint.com/write-shell-scripts-in-awk-programming/)
 

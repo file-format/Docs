@@ -27,6 +27,6 @@
 
 ## использованная литература
 
-* [Язык разметки ColdFusion] (https://people.apache.org/~jim/NewArchitect/webtech/2000/08/junk/index.html)
-* [Adobe ColdFusion] (https://en.wikipedia.org/wiki/Adobe_ColdFusion)
+* [Язык разметки ColdFusion](https://people.apache.org/~jim/NewArchitect/webtech/2000/08/junk/index.html)
+* [Adobe ColdFusion](https://en.wikipedia.org/wiki/Adobe_ColdFusion)
 

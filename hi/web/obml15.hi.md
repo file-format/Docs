@@ -26,5 +26,5 @@ OBML15 फ़ाइलों को ओपेरा के मालिकान
 
 ## संदर्भ
 
-* [ओएमबीएल प्रारूप] (https://github.com/grawity/obml-parser/blob/master/obml.md)
+* [ओएमबीएल प्रारूप](https://github.com/grawity/obml-parser/blob/master/obml.md)
 

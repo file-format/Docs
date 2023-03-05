@@ -22,7 +22,7 @@
 
 ## مواصفات تنسيق ملف PST
 
-تنسيق ملف PST [المواصفات] (https://msdn.microsoft.com/en-us/library/ff385210 (v # office.12) .aspx) متاح من Microsoft كترخيص براءات اختراع مجاني وغير قابل للإلغاء من خلال Open Specification Promise .
+تنسيق ملف PST [المواصفات](https://msdn.microsoft.com/en-us/library/ff385210 (v # office.12) .aspx) متاح من Microsoft كترخيص براءات اختراع مجاني وغير قابل للإلغاء من خلال Open Specification Promise .
 
 ### نوع تنسيقات PST
 
@@ -70,7 +70,7 @@
 | bidNextP (Unicode: 8 بايت ؛ ANSI: 4 بايت) | الصفحة التالية BID. تحتوي الصفحات على عداد خاص لتخصيص قيم مؤشر العطاءات. يتم تخصيص قيمة bidIndex لصفحات BID من هذا العداد.
 | bidNextB (4 بايت ANSI فقط): | BID التالي. هذه القيمة هي العداد الرتيب الذي يشير إلى تعيين BID للكتلة المخصصة التالية. تتقدم قيم BID بزيادات قدرها 4. لمزيد من التفاصيل ، انظر القسم 2.2.2.2.
 | dwUnique (4 بايت) | هذه قيمة تتزايد بشكل رتيب ويتم تعديلها في كل مرة يتم فيها تعديل بنية HEADER لملف PST. وظيفة هذه القيمة هي توفير قيمة فريدة ، والتأكد من أن HEADER CRCs مختلفة بعد كل تعديل في الرأس.
-| rgnid [] (128 بايت) | مصفوفة ثابتة من 32 NID ، كل منها يتوافق مع واحد من 32 NID_TYPEs الممكنة (NID_TYPE ، NID_TYPE_NORMAL_FOLDER ، NID_TYPE_SEARCH_FOLDER ، NID_TYPE_NORMAL_MESSAGE ، NID_TYPE_ASSOC_MESSAGE)
+| rgnid [](128 بايت) | مصفوفة ثابتة من 32 NID ، كل منها يتوافق مع واحد من 32 NID_TYPEs الممكنة (NID_TYPE ، NID_TYPE_NORMAL_FOLDER ، NID_TYPE_SEARCH_FOLDER ، NID_TYPE_NORMAL_MESSAGE ، NID_TYPE_ASSOC_MESSAGE)
 | qwUnused (8 بايت) | مساحة غير مستخدمة ؛ يجب ضبطه على الصفر. تنسيق ملف Unicode PST فقط.
 | الجذر (Unicode: 72 بايت ؛ ANSI: 40 بايت) | بنية الجذر (القسم 2.2.2.5).
 | dwAlign (4 بايت) | بايت محاذاة غير مستخدمة ؛ يجب ضبطه على الصفر. تنسيق ملف Unicode PST فقط.
@@ -94,6 +94,6 @@
 
 ## مراجع ##
 
-* [تنسيق ملف مجلدات Outlook الشخصية (.pst)] (https://msdn.microsoft.com/en-us/library/ff385210 (v # office.12) .aspx)
-* [مواصفات تنسيق ملف المجلد الشخصي] (https://github.com/libyal/libpff/blob/master/documentation/Personal٪20Folder٪20File٪20 (PFF)٪ 20format.asciidoc)
+* [تنسيق ملف مجلدات Outlook الشخصية (.pst)](https://msdn.microsoft.com/en-us/library/ff385210 (v # office.12) .aspx)
+* [مواصفات تنسيق ملف المجلد الشخصي](https://github.com/libyal/libpff/blob/master/documentation/Personal٪20Folder٪20File٪20 (PFF)٪ 20format.asciidoc)
 

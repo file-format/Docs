@@ -31,7 +31,7 @@ FODG се основава на XML файловия формат на OpenDocum
 `<office:document-settings> ` - Специфични за приложението настройки, като размер на прозореца или информация за принтера.
 
 ## Препратки ##
-* [Бъдещи спецификации за стандартизация v. 1.3] (https://docs.oasis-open.org/office/OpenDocument/v1.3/cs01/OpenDocument-v1.3-cs01.zip)
+* [Бъдещи спецификации за стандартизация v. 1.3](https://docs.oasis-open.org/office/OpenDocument/v1.3/cs01/OpenDocument-v1.3-cs01.zip)
 * [Отворен формат на документи на OASIS за офис приложения](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
 * [Формат OpenDocument – Уикипедия](https://en.wikipedia.org/wiki/OpenDocument)
 

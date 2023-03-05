@@ -27,5 +27,5 @@ WPS दस्तावेज़ के फ़ाइल स्वरूप वि
 
 ## संदर्भ ##
 
-* [माइक्रोसॉफ्ट वर्क्स] (https://en.wikipedia.org/wiki/Microsoft_Works)
+* [माइक्रोसॉफ्ट वर्क्स](https://en.wikipedia.org/wiki/Microsoft_Works)
 

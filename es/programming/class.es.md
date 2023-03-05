@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo de clase?
 
-Un **archivo de clase en Java** es la salida compilada de la clase [.java](/es/programming/java/) que en realidad ejecuta una máquina virtual Java (JVM). Los archivos de clase se pueden ejecutar individualmente y también pueden ser parte de un archivo [JAR] (/es/programación/jar/) como un paquete junto con otros archivos de paquete. Estos se pueden crear usando el comando **`javac`** desde la interfaz de línea de comandos. Algunos IDE de Java como [Eclipse](https://www.eclipse.org/downloads/packages/release/2020-06/r/Eclipse-ide-java-developers) y NetBeans proporcionan crear archivos de salida .class desde el Java del proyecto. archivos
+Un **archivo de clase en Java** es la salida compilada de la clase [.java](/es/programming/java/) que en realidad ejecuta una máquina virtual Java (JVM). Los archivos de clase se pueden ejecutar individualmente y también pueden ser parte de un archivo [JAR](/es/programación/jar/) como un paquete junto con otros archivos de paquete. Estos se pueden crear usando el comando **`javac`** desde la interfaz de línea de comandos. Algunos IDE de Java como [Eclipse](https://www.eclipse.org/downloads/packages/release/2020-06/r/Eclipse-ide-java-developers) y NetBeans proporcionan crear archivos de salida .class desde el Java del proyecto. archivos
 
 ## Formato de archivo de clase
 

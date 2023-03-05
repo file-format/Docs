@@ -34,7 +34,7 @@ TS ファイルのデータは [MP4](/video/mp4/) ファイルに似ています
 
 ## TS ファイルの再生方法
 
-TS ファイルは、無料でダウンロードできる人気の [VideoLAN VLC メディア プレーヤー] (https://www.videolan.org/vlc/features.html) で開いて再生できます。
+TS ファイルは、無料でダウンロードできる人気の [VideoLAN VLC メディア プレーヤー](https://www.videolan.org/vlc/features.html) で開いて再生できます。
 
 ## 参照 ##
 

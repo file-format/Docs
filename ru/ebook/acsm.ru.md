@@ -29,6 +29,6 @@
 
 ## использованная литература
 
-* [Adobe Content Server — Википедия] (https://en.wikipedia.org/wiki/Adobe_Content_Server)
+* [Adobe Content Server — Википедия](https://en.wikipedia.org/wiki/Adobe_Content_Server)
 
 

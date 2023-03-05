@@ -25,5 +25,5 @@ Bien qu'aucune information ne soit publiée sur le format, les fichiers image DA
 ## Références ##
 
 - [Archives en accès direct - Wikipédia](https://en.wikipedia.org/wiki/Direct_Access_Archive)
-- [Qu'est-ce qu'un fichier DAA ?] (https://www.poweriso.com/tutorials/what-is-daa-file.htm)
+- [Qu'est-ce qu'un fichier DAA ?](https://www.poweriso.com/tutorials/what-is-daa-file.htm)
 

@@ -23,7 +23,7 @@ Az .xlt kiterjesztésű fájlok olyan sablonfájlok, amelyeket a Microsoft Excel
 
 ## XLT fájlformátum
 
-Az XLT fájlformátum az Excel bináris fájlformátumán alapul, amelyet eredetileg az Excel 97-2003 verziója támogat. Az Office Open XML formátumon alapuló Excel 2007 bevezetésével [XLTX](/hu/spreadsheet/xltx/) fájlformátum váltotta fel. A Microsoft Excelen kívül más alkalmazások is támogatják ezzel a fájlformátummal, például a Lotus Translation Table, a PlanMaker, a LibreOffice Calc stb. Számos alkalmazás és [API] (https://products.aspose.com/cells) érhető el. az XLT konvertálása más fájlformátumokká, például:
+Az XLT fájlformátum az Excel bináris fájlformátumán alapul, amelyet eredetileg az Excel 97-2003 verziója támogat. Az Office Open XML formátumon alapuló Excel 2007 bevezetésével [XLTX](/hu/spreadsheet/xltx/) fájlformátum váltotta fel. A Microsoft Excelen kívül más alkalmazások is támogatják ezzel a fájlformátummal, például a Lotus Translation Table, a PlanMaker, a LibreOffice Calc stb. Számos alkalmazás és [API](https://products.aspose.com/cells) érhető el. az XLT konvertálása más fájlformátumokká, például:
 
 * XLT-ből PDF-be
 * XLT a DOC-hoz
@@ -34,7 +34,7 @@ Az XLT fájlformátum az Excel bináris fájlformátumán alapul, amelyet eredet
 * XLT-ből HTML-be
 * XLT-ről CSV-re
 
-Az XLT a bináris [XLS fájlformátum-specifikáción] (https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx) alapul, amelyet a Microsoft dokumentált a fejlesztői referenciaként.
+Az XLT a bináris [XLS fájlformátum-specifikáción](https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx) alapul, amelyet a Microsoft dokumentált a fejlesztői referenciaként.
 
 ## Hivatkozások
 

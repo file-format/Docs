@@ -53,5 +53,5 @@ MIICUDCCAdoCBDaM1tYwDQYJKoZIhvcNAQEEBQAwgY8xCzAJBgNVBAYTAlVTMRMwMIICCDAaBgkqhkiG
 
 ## Использованная литература ##
 
-* [Открытые ключи, закрытые ключи и сертификаты] (https://docs.oracle.com/cd/E19509-01/820-3503/ggbgc/index.html)
+* [Открытые ключи, закрытые ключи и сертификаты](https://docs.oracle.com/cd/E19509-01/820-3503/ggbgc/index.html)
 

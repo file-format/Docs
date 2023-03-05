@@ -26,5 +26,5 @@ Le format de fichier APE est plus largement utilisé par les utilisateurs de Mic
 ## Références
 
 * [Audio du singe - Par Wikipedia](https://en.wikipedia.org/wiki/Monkey%27s_Audio)
-* [Monkey's Audio - un compresseur audio rapide et puissant sans perte] (https://monkeysaudio.com/index.html)
+* [Monkey's Audio - un compresseur audio rapide et puissant sans perte](https://monkeysaudio.com/index.html)
 

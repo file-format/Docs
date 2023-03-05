@@ -60,5 +60,5 @@ Nagłówek WOFF składa się z sygnatury identyfikującej, która wskazuje na ro
 
 
 ## **Bibliografia**
-* [Format pliku w3 WOFF] (https://www.w3.org/TR/WOFF/)
+* [Format pliku w3 WOFF](https://www.w3.org/TR/WOFF/)
 

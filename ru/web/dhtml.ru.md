@@ -77,5 +77,5 @@ document.write("Hello World");
 
 ## использованная литература
 
-* [Динамический HTML — Википедия] (https://en.wikipedia.org/wiki/Dynamic_HTML)
+* [Динамический HTML — Википедия](https://en.wikipedia.org/wiki/Dynamic_HTML)
 

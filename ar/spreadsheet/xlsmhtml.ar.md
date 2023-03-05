@@ -19,7 +19,7 @@
 
 ## ما هو ملف XLSMHTML؟
 
-الملف بامتداد .xlsmhtml هو إصدار [HTML] (/ar/ web / html /) من ملف XLS الأصلي الذي يتم تصديره من داخل Microsoft Excel لعرض البيانات في المستعرض. أوقف Excel التنسيق منذ فترة طويلة ولم يعد مدعومًا. يتبع ملف XLSMHTML الذي تم تصديره تنسيق ملف XLS ويمكن فتحه وعرضه في متصفحات الويب. يوفر برنامج Excel إمكانية تصدير بيانات جدول البيانات إلى تنسيقات ملفات [MHT] (/ar/ web / mht /) و [MHTML] (/ar/ web / mhtml /) ، ويتم استخدامها على نطاق واسع الآن.
+الملف بامتداد .xlsmhtml هو إصدار [HTML](/ar/ web / html /) من ملف XLS الأصلي الذي يتم تصديره من داخل Microsoft Excel لعرض البيانات في المستعرض. أوقف Excel التنسيق منذ فترة طويلة ولم يعد مدعومًا. يتبع ملف XLSMHTML الذي تم تصديره تنسيق ملف XLS ويمكن فتحه وعرضه في متصفحات الويب. يوفر برنامج Excel إمكانية تصدير بيانات جدول البيانات إلى تنسيقات ملفات [MHT](/ar/ web / mht /) و [MHTML](/ar/ web / mhtml /) ، ويتم استخدامها على نطاق واسع الآن.
 
 ## تنسيق ملف XLSMHTML - المزيد من المعلومات
 
@@ -27,6 +27,6 @@
 
 ## مراجع ##
 
-* [[MS-XLS] - بنية تنسيق ملف Excel الثنائي] (https://msdn.microsoft.com/en-us/library/cc313154 (v # office.12) .aspx)
-* [[MS-CFB] - تنسيق ملف ثنائي مركب] (https://msdn.microsoft.com/en-us/library/dd942138.aspx)
+* [[MS-XLS] - بنية تنسيق ملف Excel الثنائي](https://msdn.microsoft.com/en-us/library/cc313154 (v # office.12) .aspx)
+* [[MS-CFB] - تنسيق ملف ثنائي مركب](https://msdn.microsoft.com/en-us/library/dd942138.aspx)
 

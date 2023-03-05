@@ -55,7 +55,7 @@
 
 ## использованная литература
 
-* [Образ оптического диска — Википедия] (https://en.wikipedia.org/wiki/Optical_disc_image)
+* [Образ оптического диска — Википедия](https://en.wikipedia.org/wiki/Optical_disc_image)
 * [Подписи файлов](https://www.garykessler.net/library/file_sigs.html)
-* [ISO 9660 — Википедия] (https://en.wikipedia.org/wiki/ISO_9660)
+* [ISO 9660 — Википедия](https://en.wikipedia.org/wiki/ISO_9660)
 

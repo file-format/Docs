@@ -54,6 +54,6 @@
 
 ## مراجع
 
-* [GeoPackage - بواسطة Wikipedia)] (https://en.wikipedia.org/wiki/GeoPackage)
-* [Getting Started With GeoPackage] (http://www.geopackage.org/guidance/getting-started.html)
+* [GeoPackage - بواسطة Wikipedia)](https://en.wikipedia.org/wiki/GeoPackage)
+* [Getting Started With GeoPackage](http://www.geopackage.org/guidance/getting-started.html)
 

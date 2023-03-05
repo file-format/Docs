@@ -24,7 +24,7 @@
 
 ## تنسيق ملف APKS - مزيد من المعلومات
 
-يتم حفظ ملفات APKS كملفات مضغوطة باستخدام تنسيق ملف [ZIP] (/ar/ compression / zip /).
+يتم حفظ ملفات APKS كملفات مضغوطة باستخدام تنسيق ملف [ZIP](/ar/ compression / zip /).
 
 ## كيف يتم إنشاء ملف APKS؟
 
@@ -46,5 +46,5 @@ bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
 
 ## مراجع
 
-* [bundletool - commandline] (https://developer.android.com/studio/command-line/bundletool)
+* [bundletool - commandline](https://developer.android.com/studio/command-line/bundletool)
 

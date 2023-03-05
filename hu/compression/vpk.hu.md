@@ -24,7 +24,7 @@ A .vpk kiterjesztésű fájl egy tömörített archív csomagfájl, amely harmad
 
 A VPK-fájlok szabványos tömörített [ZIP](/hu/compression/zip/) archívumként kerülnek lemezre. Ezek több mappát és egyéb kapcsolódó fájlokat tartalmazhatnak a Vita Gaming Console-ra telepítendő, harmadik féltől származó alkalmazásokhoz. A VPK-csomagfájl tartalmának megtekintéséhez nevezze át a kiterjesztését .vpu-ról .zip-re, és bontsa ki a tartalmat szabványos kicsomagoló segédprogramokkal, például WinZip vagy WinRAR segítségével.
 
-A Valvesoftware részletes információkat tartalmaz a [VPK fájlformátumról] (https://developer.valvesoftware.com/wiki/VPK_File_Format), amelyre a fejlesztő szemszögéből hivatkozni lehet.
+A Valvesoftware részletes információkat tartalmaz a [VPK fájlformátumról](https://developer.valvesoftware.com/wiki/VPK_File_Format), amelyre a fejlesztő szemszögéből hivatkozni lehet.
 
 ## Hogyan telepítsünk VPK fájlokat?
 

@@ -26,5 +26,5 @@
 
 ## संदर्भ
 
-* [लुडिकॉर्प] (https://en.wikipedia.org/wiki/Ludicorp)
+* [लुडिकॉर्प](https://en.wikipedia.org/wiki/Ludicorp)
 

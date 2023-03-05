@@ -192,6 +192,6 @@ Aprender sobre las tecnologías JSP es muy fácil hoy en día porque muchos tuto
 
 ## Referencias
 
-* [Convenciones de código para las páginas de JavaServer] (https://www.oracle.com/technical-resources/articles/javase/code-convention.html)
+* [Convenciones de código para las páginas de JavaServer](https://www.oracle.com/technical-resources/articles/javase/code-convention.html)
 * [Tutorial JSP](https://www.javatpoint.com/jsp-tutorial)
 

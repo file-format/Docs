@@ -31,7 +31,7 @@ Los BMZ se guardan como archivos ZIP y se pueden extraer con utilidades de extra
 
 ## Cómo crear e instalar archivos de mapas de bonificación
 
-La comunidad de desarrolladores de Valve Software ha establecido pautas para las personas que desean [crear e instalar mapas de bonificación] (https://developer.valvesoftware.com/wiki/Bonus_Maps) archivos. Incluye los siguientes pasos:
+La comunidad de desarrolladores de Valve Software ha establecido pautas para las personas que desean [crear e instalar mapas de bonificación](https://developer.valvesoftware.com/wiki/Bonus_Maps) archivos. Incluye los siguientes pasos:
 
 1. Agregar mapas de bonificación BSP a mod
 1. Agregar imagen en miniatura

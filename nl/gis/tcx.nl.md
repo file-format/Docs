@@ -23,7 +23,7 @@ Een TCX-bestand (Training Center XML) is een formaat voor gegevensuitwisseling d
 
 ## TCX-bestandsindeling - Meer informatie
 
-TCX-bestanden worden op schijf opgeslagen als XML-bestanden, waarbij elk record als activiteit wordt opgeslagen. Een activiteit omvat alle gegevens van een training, zoals tijd, rondetijd, ID, hartslag, intensiteit, cadans en trackinformatie die de positieparen bevat samen met het tijdstempel voor die lat-long positie vergelijkbaar met de [GPX] (/nl/gis/gpx/) bestanden.
+TCX-bestanden worden op schijf opgeslagen als XML-bestanden, waarbij elk record als activiteit wordt opgeslagen. Een activiteit omvat alle gegevens van een training, zoals tijd, rondetijd, ID, hartslag, intensiteit, cadans en trackinformatie die de positieparen bevat samen met het tijdstempel voor die lat-long positie vergelijkbaar met de [GPX](/nl/gis/gpx/) bestanden.
 
 ### Versies van TCX-bestandsindelingen
 

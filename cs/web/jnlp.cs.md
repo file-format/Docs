@@ -66,6 +66,6 @@ S ukončením podpory JWS nelze aplikace vyvinuté na základě technologie JWS 
 ## Reference ##
 
 * [Co je Java Web Start a jak se spouští?](https://www.java.com/en/download/help/java_webstart.html)
-* [Spusťte JNLP s nejnovější verzí Javy] (https://openwebstart.com/)
+* [Spusťte JNLP s nejnovější verzí Javy](https://openwebstart.com/)
 * [Java Web Start – Wikipedia](https://en.wikipedia.org/wiki/Java_Web_Start)
 

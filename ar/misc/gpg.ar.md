@@ -48,6 +48,6 @@ gpg cfile.txt.gpg
 
 ## مراجع
 
-* [GNUPG] (https://gnupg.org/)
-* [HDF - ويكيبيديا] (https://en.wikipedia.org/wiki/Hierarchical_Data_Format)
+* [GNUPG](https://gnupg.org/)
+* [HDF - ويكيبيديا](https://en.wikipedia.org/wiki/Hierarchical_Data_Format)
 

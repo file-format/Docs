@@ -18,7 +18,7 @@
 
 ## Co to jest plik CODASITE?
 
-Plik CODASITE to plik projektu strony internetowej utworzony za pomocą oprogramowania do tworzenia i publikowania stron internetowych [Coda] (https://coda.io/). Zawiera listę wszystkich plików, które są częścią projektu. Dotyczy to stron internetowych w postaci plików [HTML](/pl/web/html/), kaskadowych arkuszy stylów [CSS](/pl/web/css/), plików Javascript [JS](/pl/web/js/) i wszelkich innych powiązanych plików pomocniczych. Pliki projektu CODASITE zawierają również informacje dotyczące publikowania stron internetowych na serwerze sieciowym.
+Plik CODASITE to plik projektu strony internetowej utworzony za pomocą oprogramowania do tworzenia i publikowania stron internetowych [Coda](https://coda.io/). Zawiera listę wszystkich plików, które są częścią projektu. Dotyczy to stron internetowych w postaci plików [HTML](/pl/web/html/), kaskadowych arkuszy stylów [CSS](/pl/web/css/), plików Javascript [JS](/pl/web/js/) i wszelkich innych powiązanych plików pomocniczych. Pliki projektu CODASITE zawierają również informacje dotyczące publikowania stron internetowych na serwerze sieciowym.
 
 ## Format pliku CODASITE
 

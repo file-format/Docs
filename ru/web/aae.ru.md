@@ -35,5 +35,5 @@ AAE — это тип файлов, используемый в системах
 
 ## использованная литература
 
-* [Что такое файл AAE?] (https://discussions.apple.com/thread/7810994)
+* [Что такое файл AAE?](https://discussions.apple.com/thread/7810994)
 

@@ -18,7 +18,7 @@
 
 ## .MSO вариант №
 
-Файл MSO — это формат файла контейнера данных, который создается при отправке HTML-сообщения с помощью Microsoft Outlook. В основном это происходит с приложениями Microsoft Office 2000. В большинстве случаев к сообщению электронной почты прилагается имя файла **Oledata.mso**. Получатель электронной почты, когда открывает такое электронное письмо, может правильно просмотреть файл, даже если у него не установлено такое же программное обеспечение. Файлы MSO относятся к [Формат файла составного документа Microsoft (MCDF)] (https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/53989ce4-7b05-4f8d-829b-d08d6148375b).
+Файл MSO — это формат файла контейнера данных, который создается при отправке HTML-сообщения с помощью Microsoft Outlook. В основном это происходит с приложениями Microsoft Office 2000. В большинстве случаев к сообщению электронной почты прилагается имя файла **Oledata.mso**. Получатель электронной почты, когда открывает такое электронное письмо, может правильно просмотреть файл, даже если у него не установлено такое же программное обеспечение. Файлы MSO относятся к [Формат файла составного документа Microsoft (MCDF)](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/53989ce4-7b05-4f8d-829b-d08d6148375b).
 
 ## Формат файла Microsoft MSO
 
@@ -30,6 +30,6 @@
 
 ## использованная литература
 
-* [Структурированное хранилище COM] (https://en.wikipedia.org/wiki/COM_Structured_Storage)
-* [Формат файла составного документа Microsoft (MCDF)] (https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/53989ce4-7b05-4f8d-829b-d08d6148375b)
+* [Структурированное хранилище COM](https://en.wikipedia.org/wiki/COM_Structured_Storage)
+* [Формат файла составного документа Microsoft (MCDF)](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/53989ce4-7b05-4f8d-829b-d08d6148375b)
 

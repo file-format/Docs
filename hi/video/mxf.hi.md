@@ -80,7 +80,7 @@
 
 ## संदर्भ
 
-* [एमएक्सएफ - विकिपीडिया] (https://en.wikipedia.org/wiki/Material_Exchange_Format)
-* [एमएक्सएफ - प्रगति रिपोर्ट] (http://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
+* [एमएक्सएफ - विकिपीडिया](https://en.wikipedia.org/wiki/Material_Exchange_Format)
+* [एमएक्सएफ - प्रगति रिपोर्ट](http://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
 * [एमएक्सएफ के लिए ओपनसोर्स सी++ लाइब्रेरी](http://www.freemxf.org/)
 

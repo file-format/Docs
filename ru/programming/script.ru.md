@@ -27,5 +27,5 @@
 ## использованная литература
 
 * [Bashscripting для начинающих](https://help.ubuntu.com/community/Beginners/BashScripting)
-* [Шеллскрипт] (https://www.shellscript.sh/)
+* [Шеллскрипт](https://www.shellscript.sh/)
 

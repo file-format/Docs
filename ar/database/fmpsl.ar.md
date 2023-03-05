@@ -18,7 +18,7 @@
 
 ## ما هو ملف FMPSL؟
 
-ملف FMPSL هو ملف لقطة لقاعدة البيانات تم إنشاؤه باستخدام FileMaker Pro 12. وهو يخزن النتائج المطلوبة من قاعدة البيانات مع معلومات أخرى مثل التخطيط المرئي والمعلومات المرئية. يمكن استخدام ملف FMPSL لاستعادة كل هذه البيانات في مثيل آخر من قاعدة بيانات FileMaker Pro. تم تقديم تنسيق الملف هذا مع إطلاق FileMaker Pro v 12. قبل هذا الإصدار ، تم تقديم روابط اللقطة كتنسيق ملف FPSL في FileMaker Pro v 11. يمكن فتح ملفات FMPSL باستخدام برنامج FileMaker Pro Advanced. تتضمن تنسيقات الملفات الأخرى التي يدعمها FileMaker Pro [FP5] (/ar/ database / fp5 /) و [FP7] (/ar/ database / fp7 /) و [FMP12] (/ar/ database / fmp12 /).
+ملف FMPSL هو ملف لقطة لقاعدة البيانات تم إنشاؤه باستخدام FileMaker Pro 12. وهو يخزن النتائج المطلوبة من قاعدة البيانات مع معلومات أخرى مثل التخطيط المرئي والمعلومات المرئية. يمكن استخدام ملف FMPSL لاستعادة كل هذه البيانات في مثيل آخر من قاعدة بيانات FileMaker Pro. تم تقديم تنسيق الملف هذا مع إطلاق FileMaker Pro v 12. قبل هذا الإصدار ، تم تقديم روابط اللقطة كتنسيق ملف FPSL في FileMaker Pro v 11. يمكن فتح ملفات FMPSL باستخدام برنامج FileMaker Pro Advanced. تتضمن تنسيقات الملفات الأخرى التي يدعمها FileMaker Pro [FP5](/ar/ database / fp5 /) و [FP7](/ar/ database / fp7 /) و [FMP12](/ar/ database / fmp12 /).
 
 ## تنسيق ملف FMPSL
 
@@ -36,6 +36,6 @@
 
 ## مراجع
 
-* [تحويل الإصدارات السابقة من تنسيقات ملف FileMaker Pro إلى تنسيق ملف FMP12] (https://fmhelp.filemaker.com/help/16/fmp/en/index.html#page/FMP_Help/converting-files.html)
-* [حفظ السجلات كملف رابط لقطة] (https://fmhelp.filemaker.com/help/12/fmp/en/html/import_export.17.5.html)
+* [تحويل الإصدارات السابقة من تنسيقات ملف FileMaker Pro إلى تنسيق ملف FMP12](https://fmhelp.filemaker.com/help/16/fmp/en/index.html#page/FMP_Help/converting-files.html)
+* [حفظ السجلات كملف رابط لقطة](https://fmhelp.filemaker.com/help/12/fmp/en/html/import_export.17.5.html)
 

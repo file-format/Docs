@@ -67,6 +67,6 @@ El tamaño de trama de los modos AMR en bytes (incluido el byte de encabezado) s
 
 ## Referencias ##
 
-* [Códec de audio adaptativo de velocidad múltiple: por Wikipedia] (https://en.wikipedia.org/wiki/Adaptive_Multi-Rate_audio_codec)
+* [Códec de audio adaptativo de velocidad múltiple: por Wikipedia](https://en.wikipedia.org/wiki/Adaptive_Multi-Rate_audio_codec)
 * [Formato de carga útil RTP y formato de almacenamiento de archivos para códecs de audio AMR y AMR-WB](https://tools.ietf.org/html/rfc4867#page-35)
 

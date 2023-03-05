@@ -31,7 +31,7 @@ glTF 2.0 wurde am 5. Juni 2017 auf der Web3D 2017 Conference veröffentlicht. Es
 
 ## GLTF-Dateiformat
 
-Die Dateiformatspezifikationen für glTF 2.0 sind [online] (https://github.com/KhronosGroup/glTF/tree/master/specification/2.0) als Referenz verfügbar und sollten in jeder Implementierung im Zusammenhang mit Lesen/Schreiben zur Unterstützung von konsultiert werden glTF-Dateiformat.
+Die Dateiformatspezifikationen für glTF 2.0 sind [online](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0) als Referenz verfügbar und sollten in jeder Implementierung im Zusammenhang mit Lesen/Schreiben zur Unterstützung von konsultiert werden glTF-Dateiformat.
 
 glTF definiert Assets als JSON-Dateien mit unterstützenden externen Daten. Es repräsentiert 3D-Modelle mit Hilfe von:
 

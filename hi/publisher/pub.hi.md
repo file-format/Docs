@@ -18,7 +18,7 @@
 
 ## पब फाइल क्या है?
 
-एक पब फ़ाइल एक Microsoft प्रकाशक दस्तावेज़ फ़ाइल स्वरूप है। इसका उपयोग कई प्रकार के डिज़ाइन लेआउट दस्तावेज़ जैसे न्यूज़लेटर्स, फ़्लायर्स, ब्रोशर, पोस्टकार्ड आदि बनाने के लिए किया जाता है। PUB फ़ाइलों में टेक्स्ट, रास्टर और वेक्टर चित्र हो सकते हैं। PUB फ़ाइलों के साथ बनाए गए दस्तावेज़ ज्यादातर वेबसाइटों और मार्केटिंग सामग्री जैसे ईमेल में उपयोग किए जाते हैं। PUB फाइलें Microsoft Publisher Desktop application, [Microsoft Publisher 365](https://www.microsoft.com/en/microsoft-365), [LibreOffice Draw](https://www.libreoffice.org/discover) के साथ खोली जा सकती हैं / ड्रा/), और [एडोब इनडिजाइन] (https://www.adobe.com/products/indesign.html)।
+एक पब फ़ाइल एक Microsoft प्रकाशक दस्तावेज़ फ़ाइल स्वरूप है। इसका उपयोग कई प्रकार के डिज़ाइन लेआउट दस्तावेज़ जैसे न्यूज़लेटर्स, फ़्लायर्स, ब्रोशर, पोस्टकार्ड आदि बनाने के लिए किया जाता है। PUB फ़ाइलों में टेक्स्ट, रास्टर और वेक्टर चित्र हो सकते हैं। PUB फ़ाइलों के साथ बनाए गए दस्तावेज़ ज्यादातर वेबसाइटों और मार्केटिंग सामग्री जैसे ईमेल में उपयोग किए जाते हैं। PUB फाइलें Microsoft Publisher Desktop application, [Microsoft Publisher 365](https://www.microsoft.com/en/microsoft-365), [LibreOffice Draw](https://www.libreoffice.org/discover) के साथ खोली जा सकती हैं / ड्रा/), और [एडोब इनडिजाइन](https://www.adobe.com/products/indesign.html)।
 
 ## पब फ़ाइल स्वरूप - अधिक जानकारी
 

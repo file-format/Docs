@@ -27,5 +27,5 @@
 
 ## использованная литература
 
-* [Adobe Edge Animate] (https://www.adobe.com/products/animate.html)
+* [Adobe Edge Animate](https://www.adobe.com/products/animate.html)
 

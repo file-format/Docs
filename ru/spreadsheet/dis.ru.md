@@ -19,7 +19,7 @@
 
 ## .DIS вариант №
 
-Файл DIS представляет собой файл рабочей книги, созданный с помощью программного обеспечения [Oracle Discoverer] (https://docs.oracle.com/cd/E28389_01/bi.1111/b40107/overview.htm), который содержит несколько инструментов для запросов, отчетов и анализ данных для базы данных Oracle. Он содержит несколько рабочих листов, когда данные экспортируются из Oracle Discoverer. Oracle продвигает Discoverer как продукт бизнес-аналитики (BI), используемый для отчетности и анализа, который работает в составе [Oracle Fusion Middleware] (https://docs.oracle.com/cd/E28280_01/bi.1111/b40108/toc .htm) набор. Oracle Discoverer по умолчанию не сохраняет отчетные данные в формате файла DIS.
+Файл DIS представляет собой файл рабочей книги, созданный с помощью программного обеспечения [Oracle Discoverer](https://docs.oracle.com/cd/E28389_01/bi.1111/b40107/overview.htm), который содержит несколько инструментов для запросов, отчетов и анализ данных для базы данных Oracle. Он содержит несколько рабочих листов, когда данные экспортируются из Oracle Discoverer. Oracle продвигает Discoverer как продукт бизнес-аналитики (BI), используемый для отчетности и анализа, который работает в составе [Oracle Fusion Middleware](https://docs.oracle.com/cd/E28280_01/bi.1111/b40108/toc .htm) набор. Oracle Discoverer по умолчанию не сохраняет отчетные данные в формате файла DIS.
 
 ## Как скачать рабочие книги Discoverer в формате DIS?
 
@@ -31,6 +31,6 @@
 
 ## использованная литература
 
-* [Oracle Discoverer — Википедия] (https://en.wikipedia.org/wiki/Oracle_Discoverer)
-* [Руководство пользователя промежуточного программного обеспечения Fusion для командной строки Oracle Business Intelligence Discoverer EUL Java] (https://docs.oracle.com/cd/E28280_01/bi.1111/b40108/toc.htm)
+* [Oracle Discoverer — Википедия](https://en.wikipedia.org/wiki/Oracle_Discoverer)
+* [Руководство пользователя промежуточного программного обеспечения Fusion для командной строки Oracle Business Intelligence Discoverer EUL Java](https://docs.oracle.com/cd/E28280_01/bi.1111/b40108/toc.htm)
 

@@ -19,7 +19,7 @@
 
 ## ما هو ملف AIDL؟
 
-يسمح ملف AIDL (لغة تعريف واجهة Android) لمطوري Android بإنشاء اتصال بين التطبيقات المختلفة. بناءً على واجهة البرمجة ، يوافق كل من العميل والخدمة على التواصل باستخدام الاتصال بين العمليات (IPC). يحتوي ملف AIDL على كود مصدر [Java] (/ar/ برمجة / جافا /) لتحديد هذه الواجهات وعقود الاتصال بين التطبيقات.
+يسمح ملف AIDL (لغة تعريف واجهة Android) لمطوري Android بإنشاء اتصال بين التطبيقات المختلفة. بناءً على واجهة البرمجة ، يوافق كل من العميل والخدمة على التواصل باستخدام الاتصال بين العمليات (IPC). يحتوي ملف AIDL على كود مصدر [Java](/ar/ برمجة / جافا /) لتحديد هذه الواجهات وعقود الاتصال بين التطبيقات.
 
 يمكنك فتح ملفات AIDL باستخدام Google Android Studio أو أي محرر نصوص مثل Microsoft Notepad و Notepad ++.
 
@@ -62,5 +62,5 @@ interface IRemoteService {
 ```
 ## مراجع
 
-* [لغة تعريف واجهة Android (AIDL)] (https://stuff.mit.edu/afs/sipb/project/android/docs/guide/components/aidl.html)
+* [لغة تعريف واجهة Android (AIDL)](https://stuff.mit.edu/afs/sipb/project/android/docs/guide/components/aidl.html)
 

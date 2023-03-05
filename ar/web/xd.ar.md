@@ -31,5 +31,5 @@
 
 ## مراجع
 
-* [دليل مستخدم Adobe XD] (https://helpx.adobe.com/xd/user-guide.html)
+* [دليل مستخدم Adobe XD](https://helpx.adobe.com/xd/user-guide.html)
 

@@ -23,7 +23,7 @@ Plik PUP to plik łaty aktualizacji systemu używany przez oprogramowanie system
 
 ## Format pliku PUP — więcej informacji
 
-Pliki PUP są zapisywane na dysku w [skompresowanym] (/pl/compression/) formacie pliku binarnego. Jednak szczegóły kompresji nie są publicznie dostępne. Zawartość pliku PUP można wyodrębnić za pomocą programu PS3 PUP Extractor w systemie operacyjnym Windows. Aby zaktualizować system oprogramowania PS3, plik PUP jest przesyłany i zapisywany w folderze /PS3/UPDATE na urządzeniu. Dzięki temu opcja aktualizacji systemu znajdzie plik aktualizacji oprogramowania sprzętowego i uruchomi go.
+Pliki PUP są zapisywane na dysku w [skompresowanym](/pl/compression/) formacie pliku binarnego. Jednak szczegóły kompresji nie są publicznie dostępne. Zawartość pliku PUP można wyodrębnić za pomocą programu PS3 PUP Extractor w systemie operacyjnym Windows. Aby zaktualizować system oprogramowania PS3, plik PUP jest przesyłany i zapisywany w folderze /PS3/UPDATE na urządzeniu. Dzięki temu opcja aktualizacji systemu znajdzie plik aktualizacji oprogramowania sprzętowego i uruchomi go.
 
 ### Konwencja nazewnictwa formatu plików PUP
 

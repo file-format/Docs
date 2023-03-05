@@ -19,7 +19,7 @@
 
 ## ما هو ملف OTF؟
 
-يشير الملف بامتداد .otf إلى تنسيق خط OpenType. تنسيق خط OTF أكثر قابلية للتوسع ويوسع الميزات الحالية لتنسيقات [TTF] (/ar/ font / ttf /) للطباعة الرقمية. يجمع OTF ، الذي طورته Microsoft و Adobe ، ميزات تنسيقات خطوط PostScript و TrueType. هذا يجعل تنسيق OTF مناسبًا لأنظمة الكتابة ذات الأغلبية وهذا هو السبب في استخدامه بشكل موحد على منصات الكمبيوتر الرئيسية. تنسيق خط OpenType مدعوم من قبل نظامي التشغيل Mac OS X و Windows 2000 والإصدارات الأحدث.
+يشير الملف بامتداد .otf إلى تنسيق خط OpenType. تنسيق خط OTF أكثر قابلية للتوسع ويوسع الميزات الحالية لتنسيقات [TTF](/ar/ font / ttf /) للطباعة الرقمية. يجمع OTF ، الذي طورته Microsoft و Adobe ، ميزات تنسيقات خطوط PostScript و TrueType. هذا يجعل تنسيق OTF مناسبًا لأنظمة الكتابة ذات الأغلبية وهذا هو السبب في استخدامه بشكل موحد على منصات الكمبيوتر الرئيسية. تنسيق خط OpenType مدعوم من قبل نظامي التشغيل Mac OS X و Windows 2000 والإصدارات الأحدث.
 
 ## نبذة تاريخية
 
@@ -82,6 +82,6 @@
 يتم تمثيل كل جدول في ملف خطوط OpenType بأسماء تعرف باسم علامات الجدول. من الضروري أن يتم فرز جميع السجلات في المصفوفة بترتيب تصاعدي حسب العلامة.
 
 ## مراجع
-* [مواصفات خط OpenType بواسطة Microsoft] (https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [TrueType Overview] (https://docs.microsoft.com/en-us/typography/truetype/)
+* [مواصفات خط OpenType بواسطة Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
+* [TrueType Overview](https://docs.microsoft.com/en-us/typography/truetype/)
 

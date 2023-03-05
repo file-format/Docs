@@ -22,6 +22,6 @@
 
 ## использованная литература
 
-* [Просмотр электронных книг 5.5] (https://ebook-pro-viewer.software.informer.com/5.5/)
+* [Просмотр электронных книг 5.5](https://ebook-pro-viewer.software.informer.com/5.5/)
 
 

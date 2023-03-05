@@ -29,6 +29,6 @@ PYW फ़ाइल प्रकार मुख्य रूप से Python S
 
 ## संदर्भ
 
-* [पायथन विकी] (https://wiki.python.org/moin/Pyrex)
-* [पायथन (प्रोग्रामिंग भाषा) - विकिपीडिया] (https://en.wikipedia.org/wiki/Python_(programming_language))
+* [पायथन विकी](https://wiki.python.org/moin/Pyrex)
+* [पायथन (प्रोग्रामिंग भाषा) - विकिपीडिया](https://en.wikipedia.org/wiki/Python_(programming_language))
 

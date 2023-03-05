@@ -29,6 +29,6 @@ python.exe связан с . py, открывается и запускаетс�
 
 ## использованная литература
 
-* [Вики-сайт Python] (https://wiki.python.org/moin/Pyrex)
+* [Вики-сайт Python](https://wiki.python.org/moin/Pyrex)
 * [Python (язык программирования) - Википедия](https://en.wikipedia.org/wiki/Python_(programming_language))
 

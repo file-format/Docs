@@ -57,5 +57,5 @@ Una parte es un flujo de bytes que tiene un tipo asociado para especificar la na
 
 ## Referencias ##
 
-* [Formato de archivo de plantilla de acceso] (https://docs.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
+* [Formato de archivo de plantilla de acceso](https://docs.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
 

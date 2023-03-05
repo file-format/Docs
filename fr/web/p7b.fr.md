@@ -36,6 +36,6 @@ XjlakuoieulalxkjflaiuEggHozdmgGz7zbC1mcJ2rcNAQEEBBAYTAlVTMRMwMIICCDAaBgyAEFKaEEC
 
 ## Références ##
 
-* [Cryptage à clé publique] (https://en.wikipedia.org/wiki/Public-key_cryptography)
-* [Comment créer un fichier P7C ?] (https://www.ibm.com/support/pages/how-create-pkcs7-p7b-p7c-certificate-your-trading-partner)
+* [Cryptage à clé publique](https://en.wikipedia.org/wiki/Public-key_cryptography)
+* [Comment créer un fichier P7C ?](https://www.ibm.com/support/pages/how-create-pkcs7-p7b-p7c-certificate-your-trading-partner)
 

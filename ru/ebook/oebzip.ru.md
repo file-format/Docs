@@ -32,7 +32,7 @@ OEBZIP предоставил больше новых функций в обла
 
 ## использованная литература
 
-* [OEBPS (Структура публикации открытого форума электронных книг) 1.2] (https://www.loc.gov/preservation/digital/formats/fdd/fdd000171.shtml)
-* [Открыть электронную книгу] (https://en.wikipedia.org/wiki/Open_eBook)
+* [OEBPS (Структура публикации открытого форума электронных книг) 1.2](https://www.loc.gov/preservation/digital/formats/fdd/fdd000171.shtml)
+* [Открыть электронную книгу](https://en.wikipedia.org/wiki/Open_eBook)
 
 

@@ -48,5 +48,5 @@ JPEG XR (نطاق JPEG الممتد) هو تنسيق ملف للصور الفو�
 
 ## مراجع ##
 
-- [JPEG XR - ويكيبيديا] (https://en.wikipedia.org/wiki/JPEG_XR)
+- [JPEG XR - ويكيبيديا](https://en.wikipedia.org/wiki/JPEG_XR)
 

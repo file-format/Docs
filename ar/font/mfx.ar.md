@@ -25,6 +25,6 @@ SimCity 4 هي لعبة كمبيوتر محاكاة لإنشاء محاكاة ل
 
 ## مراجع
 
-* [SimCity 4 - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/SimCity_4)
-* [EA SimCity-4] (https://www.ea.com/games/simcity/simcity-4)
+* [SimCity 4 - بواسطة Wikipedia](https://en.wikipedia.org/wiki/SimCity_4)
+* [EA SimCity-4](https://www.ea.com/games/simcity/simcity-4)
 

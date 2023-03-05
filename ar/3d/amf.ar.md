@@ -41,7 +41,7 @@
 
 ## مثال AMF
 
-فيما يلي مثال لملف AMF الذي يمكن نسخه إلى ملف [نص] (/ar/ معالجة الكلمات / txt /) وحفظه كملف مضغوط [zip] (/ar/ compression / zip /) للفتح.
+فيما يلي مثال لملف AMF الذي يمكن نسخه إلى ملف [نص](/ar/ معالجة الكلمات / txt /) وحفظه كملف مضغوط [zip](/ar/ compression / zip /) للفتح.
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <amf unit="inch" version="1.1">
@@ -84,6 +84,6 @@
 ```
 ## مراجع
 
-* [AMF - ويكيبيديا] (https://en.wikipedia.org/wiki/Additive_manufacturing_file_format)
-* [مواصفات AMF على ISO] (https://www.iso.org/standard/67472.html)
+* [AMF - ويكيبيديا](https://en.wikipedia.org/wiki/Additive_manufacturing_file_format)
+* [مواصفات AMF على ISO](https://www.iso.org/standard/67472.html)
 

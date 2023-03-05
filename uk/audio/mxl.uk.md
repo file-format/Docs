@@ -20,7 +20,7 @@ lastmod: 2022-03-20
 
 ## Формат файлу MXL
 
-Файли MXL зберігаються як [ZIP](/uk/compression/zip/) стиснені [XML](/uk/web/xml/) файли з розширенням .mxl. Файли MXL стискаються за допомогою алгоритму DEFLATE, як зазначено в [RFC 1951] (https://www.ietf.org/rfc/rfc1951.txt).
+Файли MXL зберігаються як [ZIP](/uk/compression/zip/) стиснені [XML](/uk/web/xml/) файли з розширенням .mxl. Файли MXL стискаються за допомогою алгоритму DEFLATE, як зазначено в [RFC 1951](https://www.ietf.org/rfc/rfc1951.txt).
 
 ### Структура файлу MXL
 

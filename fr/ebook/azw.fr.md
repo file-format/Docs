@@ -27,5 +27,5 @@ AZW est un format de fichier proche et ses spécifications ne sont pas disponibl
 
 ## Références ##
 
-* [Format de fichier Kindle - Wikipédia] (https://en.wikipedia.org/wiki/Kindle_File_Format)
+* [Format de fichier Kindle - Wikipédia](https://en.wikipedia.org/wiki/Kindle_File_Format)
 

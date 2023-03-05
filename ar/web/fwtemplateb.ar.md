@@ -26,6 +26,6 @@
 
 ## مراجع
 
-* [FWTEMPLATE] (/ar/ الويب / fwtemplate /)
-* [FREEWAY] (/ar/ الويب / الطريق السريع /)
+* [FWTEMPLATE](/ar/ الويب / fwtemplate /)
+* [FREEWAY](/ar/ الويب / الطريق السريع /)
 

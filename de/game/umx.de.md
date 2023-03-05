@@ -27,7 +27,7 @@ UMX-Dateien werden im Binärdateiformat unter Verwendung des proprietären Datei
 
 ## Verweise
 
-* [Unreal Tournament] (https://www.epicgames.com/unrealtournament/en-US/)
-* [Unreal Tournament] (https://en.wikipedia.org/wiki/Unreal_Tournament)
-* [Unreal Tournament Community] (https://discord.com/invite/unrealtournament)
+* [Unreal Tournament](https://www.epicgames.com/unrealtournament/en-US/)
+* [Unreal Tournament](https://en.wikipedia.org/wiki/Unreal_Tournament)
+* [Unreal Tournament Community](https://discord.com/invite/unrealtournament)
 

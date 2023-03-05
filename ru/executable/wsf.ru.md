@@ -128,6 +128,6 @@ Notes for this very formal example:
 
 ## использованная литература
 
-* [Установщик Windows — из Википедии] (https://en.wikipedia.org/wiki/Windows_Installer)
+* [Установщик Windows — из Википедии](https://en.wikipedia.org/wiki/Windows_Installer)
 
 

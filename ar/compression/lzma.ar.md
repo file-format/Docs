@@ -19,7 +19,7 @@
 
 ## ما هو ملف LZMA؟
 
-الملف بامتداد .lzma هو ملف أرشيف مضغوط تم إنشاؤه باستخدام طريقة ضغط LZMA (Lempel-Ziv-Markov chain Algorithm). تم العثور عليها / استخدامها بشكل أساسي على نظام التشغيل Unix وتشبه خوارزميات الضغط الأخرى مثل [ZIP] (/ar/ compression / zip /) لتقليل حجم الملف. LZMA هو تنسيق ملف قديم ، يتم استبداله أو استبداله بتنسيق xz. نوع MIME لتنسيق .lzma هو \ `application / x-lzma '. تم تصميم تنسيق الملف هذا بواسطة Igor Pavlov للاستخدام في LZMA SDK.
+الملف بامتداد .lzma هو ملف أرشيف مضغوط تم إنشاؤه باستخدام طريقة ضغط LZMA (Lempel-Ziv-Markov chain Algorithm). تم العثور عليها / استخدامها بشكل أساسي على نظام التشغيل Unix وتشبه خوارزميات الضغط الأخرى مثل [ZIP](/ar/ compression / zip /) لتقليل حجم الملف. LZMA هو تنسيق ملف قديم ، يتم استبداله أو استبداله بتنسيق xz. نوع MIME لتنسيق .lzma هو \ `application / x-lzma '. تم تصميم تنسيق الملف هذا بواسطة Igor Pavlov للاستخدام في LZMA SDK.
 
 ## تنسيق ملف LZMA
 
@@ -54,6 +54,6 @@
 
 ## مراجع
 
-* [تنسيق ملف LZMA] (https://svn.python.org/projects/external/xz-5.0.3/doc/lzma-file-format.txt)
-* [Lempel – Ziv – Markov chain algorithm] (https://en.wikipedia.org/wiki/Lempel٪E2٪80٪93Ziv٪E2٪80٪93Markov_chain_algorithm)
+* [تنسيق ملف LZMA](https://svn.python.org/projects/external/xz-5.0.3/doc/lzma-file-format.txt)
+* [Lempel – Ziv – Markov chain algorithm](https://en.wikipedia.org/wiki/Lempel٪E2٪80٪93Ziv٪E2٪80٪93Markov_chain_algorithm)
 

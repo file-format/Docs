@@ -27,5 +27,5 @@
 
 ## संदर्भ
 
-* [एडोब एज एनिमेट] (https://www.adobe.com/products/animate.html)
+* [एडोब एज एनिमेट](https://www.adobe.com/products/animate.html)
 

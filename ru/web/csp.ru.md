@@ -23,5 +23,5 @@
 
 ## использованная литература
 
-* [Сервер концептуальных приложений] (https://github.com/Devronium/ConceptApplicationServer)
+* [Сервер концептуальных приложений](https://github.com/Devronium/ConceptApplicationServer)
 

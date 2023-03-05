@@ -28,5 +28,5 @@ Les fichiers AST sont enregistrés sur le disque en tant que fichiers binaires e
 ## Références ##
 
 * [Ability Office - Wikipédia](https://en.wikipedia.org/wiki/Ability_Office)
-* [Ability Office] (https://www.ability.com/en/home/home)
+* [Ability Office](https://www.ability.com/en/home/home)
 

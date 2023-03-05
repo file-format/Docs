@@ -19,9 +19,9 @@
 
 ## DCR ما ه
 
-ملف DCR هو ملف وسائط يتم إنشاؤه وحفظه بتنسيق Adobe Shockwave. يتم استخدامه لإنشاء ألعاب الويب والألعاب التفاعلية المشابهة لتلك المصممة والمحفوظة في ملفات [SWF] (/ar/ page-description-language / swf /). تم إنشاء ملفات DCR مسبقًا باستخدام Adobe Director الذي تم إيقافه لاحقًا بعد الاستحواذ عليها بواسطة أنظمة Adobe. تشبه ملفات DCR ملفات SWF التي تم إنشاؤها بواسطة Adobe Flash.
+ملف DCR هو ملف وسائط يتم إنشاؤه وحفظه بتنسيق Adobe Shockwave. يتم استخدامه لإنشاء ألعاب الويب والألعاب التفاعلية المشابهة لتلك المصممة والمحفوظة في ملفات [SWF](/ar/ page-description-language / swf /). تم إنشاء ملفات DCR مسبقًا باستخدام Adobe Director الذي تم إيقافه لاحقًا بعد الاستحواذ عليها بواسطة أنظمة Adobe. تشبه ملفات DCR ملفات SWF التي تم إنشاؤها بواسطة Adobe Flash.
 
 ## مراجع
 
-* [Adobe Director] (https://en.wikipedia.org/wiki/Adobe_Director)
+* [Adobe Director](https://en.wikipedia.org/wiki/Adobe_Director)
 

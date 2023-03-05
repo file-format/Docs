@@ -26,5 +26,5 @@ El formato de archivo APE es más utilizado entre los usuarios de Microsoft Wind
 ## Referencias
 
 * [Audio de Monkey - Por Wikipedia](https://en.wikipedia.org/wiki/Monkey%27s_Audio)
-* [Monkey's Audio: un compresor de audio sin pérdidas rápido y potente] (https://monkeysaudio.com/index.html)
+* [Monkey's Audio: un compresor de audio sin pérdidas rápido y potente](https://monkeysaudio.com/index.html)
 

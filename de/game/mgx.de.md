@@ -23,11 +23,11 @@ Eine Datei mit der Erweiterung .mgx ist eine aufgezeichnete Datei für das Spiel
 
 ## MGX-Dateiformat - Weitere Informationen
 
-Das interne Dateiformat der MGX-Datei wurde ausgearbeitet und ist als teilweise validierte Information auf [Age of Empires 2: The Conquerors – Savegame File Format Specification] (https://github.com/stefan-kolb/aoc-mgx- Format). Die Spezifikationen beschreiben die Details in den folgenden Abschnitten.
+Das interne Dateiformat der MGX-Datei wurde ausgearbeitet und ist als teilweise validierte Information auf [Age of Empires 2: The Conquerors – Savegame File Format Specification](https://github.com/stefan-kolb/aoc-mgx- Format). Die Spezifikationen beschreiben die Details in den folgenden Abschnitten.
 
 ### Strukturdefinitionen
 
-Es wird angenommen, dass die Strukturdefinitionen des GPX-Dateiformats auf den [BinData Ruby Gem-Deklarationen] (https://github.com/dmendel/bindata/wiki) basieren, die eine Möglichkeit bieten, strukturierte Binärdaten zu lesen und zu schreiben. Dadurch kann der Programmierer das Format der Binärdaten angeben, die dann von BinData gelesen und geschrieben werden.
+Es wird angenommen, dass die Strukturdefinitionen des GPX-Dateiformats auf den [BinData Ruby Gem-Deklarationen](https://github.com/dmendel/bindata/wiki) basieren, die eine Möglichkeit bieten, strukturierte Binärdaten zu lesen und zu schreiben. Dadurch kann der Programmierer das Format der Binärdaten angeben, die dann von BinData gelesen und geschrieben werden.
 
 ### MGX-Nachrichtenübermittlung
 

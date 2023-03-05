@@ -19,7 +19,7 @@
 
 ## .W3N вариант №
 
-Файл с расширением .w3n — это файл карт кампании, используемый игрой [Warcraft III: The Frozen Throne] (https://en.wikipedia.org/wiki/Warcraft_III:_The_Frozen_Throne), которая является расширением Warcraft III, полностью время известная видеоигра. Файл W3N содержит карты кампаний, которые используются для создания пользовательских кампаний с использованием имеющихся в нем данных о сериях миссий. Этот формат часто неправильно понимают, поскольку файлы карты и пользователи не понимают, почему их файлы W3N не загружаются в Frozen Throne. Файлы W3N можно открыть с помощью Blizzard Warcraft 3: The Frozen Throne.
+Файл с расширением .w3n — это файл карт кампании, используемый игрой [Warcraft III: The Frozen Throne](https://en.wikipedia.org/wiki/Warcraft_III:_The_Frozen_Throne), которая является расширением Warcraft III, полностью время известная видеоигра. Файл W3N содержит карты кампаний, которые используются для создания пользовательских кампаний с использованием имеющихся в нем данных о сериях миссий. Этот формат часто неправильно понимают, поскольку файлы карты и пользователи не понимают, почему их файлы W3N не загружаются в Frozen Throne. Файлы W3N можно открыть с помощью Blizzard Warcraft 3: The Frozen Throne.
 
 ## Формат файла W3N — дополнительная информация
 
@@ -40,5 +40,5 @@
 ## использованная литература
 
 * [Warcraft III: The Frozen Throne](https://en.wikipedia.org/wiki/Warcraft_III:_The_Frozen_Throne)
-* [Обзор Warcraft III: The Frozen Throne] (https://web.archive.org/web/20110719200624/http://www.gamespot.com/pc/strategy/warcraft3thefrozenthrone/review.html)
+* [Обзор Warcraft III: The Frozen Throne](https://web.archive.org/web/20110719200624/http://www.gamespot.com/pc/strategy/warcraft3thefrozenthrone/review.html)
 

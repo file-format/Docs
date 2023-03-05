@@ -22,7 +22,7 @@ Soubory s příponou .zim jsou archivy vytvořené pro ukládání obsahu Wiki o
 
 ## Specifikace formátu souboru ZIM
 
-Formát souboru ZIM byl vyvinut nad [formát souboru Zeno] (https://openzim.org/wiki/Zeno_file_format) a není zpětně kompatibilní. Specifikace formátu souboru ZIM jsou [dostupné online](https://openzim.org/wiki/ZIM_file_format) od openZIM pro vývojáře. OpenZIM poskytl C++ open source implementaci, [LibZim](https://openzim.org/wiki/Zimlib), pro čtení a zápis ZIM souborů.
+Formát souboru ZIM byl vyvinut nad [formát souboru Zeno](https://openzim.org/wiki/Zeno_file_format) a není zpětně kompatibilní. Specifikace formátu souboru ZIM jsou [dostupné online](https://openzim.org/wiki/ZIM_file_format) od openZIM pro vývojáře. OpenZIM poskytl C++ open source implementaci, [LibZim](https://openzim.org/wiki/Zimlib), pro čtení a zápis ZIM souborů.
 
 Formát souboru ZIM používá kompresi LZMA2, aby byl obsah kompaktní.
 

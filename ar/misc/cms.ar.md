@@ -27,9 +27,9 @@
 
 ### ما هو insdie CMS؟
 
-يتم إنشاء ملف ملف تعريف CMS باستخدام Connection Manager ويتم تعبئته مع ملفات التكوين الأخرى قبل توفيره للمستخدم البعيد. قد تتضمن هذه الملفات الإضافية ملف CMP وملف INF تم تجميعهما جنبًا إلى جنب في ملف [EXE] (/ar/ قابل للتنفيذ / exe /). يتم توفير هذه الحزمة الكاملة للمستخدم البعيد للاتصال بالشبكة.
+يتم إنشاء ملف ملف تعريف CMS باستخدام Connection Manager ويتم تعبئته مع ملفات التكوين الأخرى قبل توفيره للمستخدم البعيد. قد تتضمن هذه الملفات الإضافية ملف CMP وملف INF تم تجميعهما جنبًا إلى جنب في ملف [EXE](/ar/ قابل للتنفيذ / exe /). يتم توفير هذه الحزمة الكاملة للمستخدم البعيد للاتصال بالشبكة.
 
 ## مراجع
 
-* [فهم وتكوين مدير اتصال Windows] (https://docs.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
+* [فهم وتكوين مدير اتصال Windows](https://docs.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
 

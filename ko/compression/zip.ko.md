@@ -19,7 +19,7 @@
 
 ## .ZIP 파일이란? ##
 
-.zip 확장자를 가진 파일은 하나 이상의 파일 또는 디렉토리를 보유할 수 있는 아카이브입니다. 아카이브는 ZIP 파일 크기를 줄이기 위해 포함된 파일에 압축을 적용할 수 있습니다. ZIP 파일 형식은 1989년 2월 Phil Katz에 의해 파일 및 폴더 보관을 위해 공개되었습니다. 형식은 PKWARE, Inc.에서 만든 [PKZIP](https://www.pkware.com/pkzip) 유틸리티의 일부로 만들어졌습니다. [사용 가능한 사양](https://pkware.cachefly.net/)이 출시된 직후 webdocs/casestudies/APPNOTE.TXT), Microsoft(Windows 7 이후), Apple(Mac OS X) 및 기타 여러 회사를 포함하여 많은 회사에서 ZIP 파일 형식을 소프트웨어 유틸리티의 일부로 만들었습니다.
+.zip 확장자를 가진 파일은 하나 이상의 파일 또는 디렉토리를 보유할 수 있는 아카이브입니다. 아카이브는 ZIP 파일 크기를 줄이기 위해 포함된 파일에 압축을 적용할 수 있습니다. ZIP 파일 형식은 1989년 2월 Phil Katz에 의해 파일 및 폴더 보관을 위해 공개되었습니다. 형식은 PKWARE, Inc.에서 만든 [PKZIP](https://www.pkware.com/pkzip) 유틸리티의 일부로 만들어졌습니다. [사용 가능한 사양](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT), Microsoft(Windows 7 이후), Apple(Mac OS X) 및 기타 여러 회사를 포함하여 많은 회사에서 ZIP 파일 형식을 소프트웨어 유틸리티의 일부로 만들었습니다.
 
 ## ZIP 파일 형식의 간략한 역사
 
@@ -152,4 +152,3 @@ ZIP 파일의 항목은 각 항목이 다음으로 구성된 순서대로 정렬
 
 * [PKWARE ZIP 파일 형식 사양](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
 * [PKZip 파일의 구조](https://users.cs.jmu.edu/buchhoff/forensics/formats/pkzip-printable.html)
-

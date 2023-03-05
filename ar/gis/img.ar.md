@@ -30,5 +30,5 @@
 
 ## مراجع ##
 
-* [تنسيق ملف GARMIN IMG - ويكيبيديا] (https://en.wikipedia.org/wiki/Garmin_.img)
+* [تنسيق ملف GARMIN IMG - ويكيبيديا](https://en.wikipedia.org/wiki/Garmin_.img)
 

@@ -19,15 +19,15 @@
 
 ## ما هو ملف LRF؟
 
-الملف بامتداد .lrf هو ملف كتاب إلكتروني واسع النطاق (BBeB) يحتوي على بيانات لـ Sony BBeB ، بما في ذلك بيانات النص والصور وبيانات ترقيم الصفحات. يتم حفظ الملف بتنسيق ثنائي مضغوط يحتوي على رأس وعدد محدد من الكائنات وفهرس كائن. تتضمن ملفات LRF و LRX تنسيقي كتاب BBeB المتاحين. ملفات LRF غير مشفرة ويمكن تجميعها من ملفات [LRX] (/ar/ ebook / lrf /). يمكن تحويل ملفات LRF من عدة أنواع ملفات أخرى بما في ذلك PDF و HTML. إذا لم يتمكن جهاز الكمبيوتر الخاص بك من فتح ملف LRF ، فمن المحتمل أنك لم تقم بتثبيت البرنامج لفتح ملفات LRF أو تحريرها. البرامج التي يمكنها فتح ملفات LRF هي Caliber و BookDesigner و Makelrf و Canon Book Creator لنظام التشغيل Windows و Caliber لنظام التشغيل Linux و Caliber و Sony Reader لنظام التشغيل Macintosh.
+الملف بامتداد .lrf هو ملف كتاب إلكتروني واسع النطاق (BBeB) يحتوي على بيانات لـ Sony BBeB ، بما في ذلك بيانات النص والصور وبيانات ترقيم الصفحات. يتم حفظ الملف بتنسيق ثنائي مضغوط يحتوي على رأس وعدد محدد من الكائنات وفهرس كائن. تتضمن ملفات LRF و LRX تنسيقي كتاب BBeB المتاحين. ملفات LRF غير مشفرة ويمكن تجميعها من ملفات [LRX](/ar/ ebook / lrf /). يمكن تحويل ملفات LRF من عدة أنواع ملفات أخرى بما في ذلك PDF و HTML. إذا لم يتمكن جهاز الكمبيوتر الخاص بك من فتح ملف LRF ، فمن المحتمل أنك لم تقم بتثبيت البرنامج لفتح ملفات LRF أو تحريرها. البرامج التي يمكنها فتح ملفات LRF هي Caliber و BookDesigner و Makelrf و Canon Book Creator لنظام التشغيل Windows و Caliber لنظام التشغيل Linux و Caliber و Sony Reader لنظام التشغيل Macintosh.
 
 ## نبذة تاريخية
 
-يرتبط نوع ملف LRF أولاً وقبل كل شيء بـ Line Rider بواسطة [inXile Entertainment] (https://en.wikipedia.org/wiki/InXile_Entertainment). The Line Rider هي لعبة فيزياء الإنترنت تم اختراعها في سبتمبر 2006 من قبل الطالب الجامعي السلوفيني Boštjan Čadež. تستخدم أجهزة قراءة الكتب الإلكترونية من Sony (مثل قارئات Sony PRS-500 و Sony Librie) امتداد ملف LRF لمستنداتها ونصوصها. أصبح نوع الملفات هذا قديمًا الآن ، بالإضافة إلى ملفات LRS و LRX ذات الصلة. شكلت هذه الأنواع الثلاثة من الملفات كتاب BroadBand الإلكتروني (BBeB) الذي تم إيقافه في عام 2010 عندما بدأت Sony في بيع كتبها الإلكترونية بتنسيق EPUB.
+يرتبط نوع ملف LRF أولاً وقبل كل شيء بـ Line Rider بواسطة [inXile Entertainment](https://en.wikipedia.org/wiki/InXile_Entertainment). The Line Rider هي لعبة فيزياء الإنترنت تم اختراعها في سبتمبر 2006 من قبل الطالب الجامعي السلوفيني Boštjan Čadež. تستخدم أجهزة قراءة الكتب الإلكترونية من Sony (مثل قارئات Sony PRS-500 و Sony Librie) امتداد ملف LRF لمستنداتها ونصوصها. أصبح نوع الملفات هذا قديمًا الآن ، بالإضافة إلى ملفات LRS و LRX ذات الصلة. شكلت هذه الأنواع الثلاثة من الملفات كتاب BroadBand الإلكتروني (BBeB) الذي تم إيقافه في عام 2010 عندما بدأت Sony في بيع كتبها الإلكترونية بتنسيق EPUB.
 
 ## تنسيق ملف LRF
 
-المواصفات التفصيلية لتنسيق ملف LRF متاحة على [أرشيف الويب] (https://web.archive.org/web/20110809071744/http://www.sven.de/librie/Librie/LrfFormat). يتكون ملف LRF من:
+المواصفات التفصيلية لتنسيق ملف LRF متاحة على [أرشيف الويب](https://web.archive.org/web/20110809071744/http://www.sven.de/librie/Librie/LrfFormat). يتكون ملف LRF من:
 * رأس
 * عدد من الأشياء
 * فهرس كائن.
@@ -61,6 +61,6 @@
 
 ## مراجع
 
-* [تنسيق ملف LRF] (https://web.archive.org/web/20110809071744/http://www.sven.de/librie/Librie/LrfFormat)
-* [BBeB - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/BBeB)
+* [تنسيق ملف LRF](https://web.archive.org/web/20110809071744/http://www.sven.de/librie/Librie/LrfFormat)
+* [BBeB - بواسطة Wikipedia](https://en.wikipedia.org/wiki/BBeB)
 

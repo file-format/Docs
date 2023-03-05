@@ -19,7 +19,7 @@
 
 ## Mi az NDF fájl?
 
-Az .ndf kiterjesztésű fájl egy másodlagos adatbázisfájl, amelyet a [Microsoft SQL Server] (https://en.wikipedia.org/wiki/Microsoft_SQL_Server) használ felhasználói adatok tárolására. Az NDF egy másodlagos tárolófájl, mivel az SQL-kiszolgáló a felhasználó által megadott adatokat az [MDF] néven ismert elsődleges tárolófájlban tárolja (/hu/database/mdf/). Az NDF-adatfájl nem kötelező, és a felhasználó által meghatározott adattárolás kezelésére szolgál arra az esetre, ha az elsődleges MDF-fájl az összes lefoglalt területet felhasználná. Általában külön lemezen tárolják, és több tárolóeszközre is átterjedhet. Az MDF fájlok jelenléte szükséges az NDF fájlok megnyitásához.
+Az .ndf kiterjesztésű fájl egy másodlagos adatbázisfájl, amelyet a [Microsoft SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server) használ felhasználói adatok tárolására. Az NDF egy másodlagos tárolófájl, mivel az SQL-kiszolgáló a felhasználó által megadott adatokat az [MDF] néven ismert elsődleges tárolófájlban tárolja (/hu/database/mdf/). Az NDF-adatfájl nem kötelező, és a felhasználó által meghatározott adattárolás kezelésére szolgál arra az esetre, ha az elsődleges MDF-fájl az összes lefoglalt területet felhasználná. Általában külön lemezen tárolják, és több tárolóeszközre is átterjedhet. Az MDF fájlok jelenléte szükséges az NDF fájlok megnyitásához.
 
 ## NDF fájlformátum
 

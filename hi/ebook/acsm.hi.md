@@ -29,6 +29,6 @@
 
 ## संदर्भ
 
-* [एडोब सामग्री सर्वर - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/Adobe_Content_Server)
+* [एडोब सामग्री सर्वर - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Adobe_Content_Server)
 
 

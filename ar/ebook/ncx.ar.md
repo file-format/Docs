@@ -64,6 +64,6 @@ including those that conform to the relaxed constraints of OPS 2.0 -->
 
 ## مراجع ##
 
-* [EPUB From Wikipedia] (https://en.wikipedia.org/wiki/EPUB)
-* [ما هي الملفات المراد تضمينها في toc.ncx] (https://ebooks.stackexchange.com/questions/2332/what-files-to-include-in-the-toc-ncx)
+* [EPUB From Wikipedia](https://en.wikipedia.org/wiki/EPUB)
+* [ما هي الملفات المراد تضمينها في toc.ncx](https://ebooks.stackexchange.com/questions/2332/what-files-to-include-in-the-toc-ncx)
 

@@ -44,5 +44,5 @@ $ xz --decompress compressed_xz_file.xz
 
 ## использованная литература
 
-* [Утилиты XZ] (https://en.wikipedia.org/wiki/XZ_Utils)
+* [Утилиты XZ](https://en.wikipedia.org/wiki/XZ_Utils)
 

@@ -19,7 +19,7 @@
 
 ## Mi az ESS fájl?
 
-Az ESS-fájl egy olyan táblázatkezelő fájl, amelyet az [EasyOffice] (https://en.wikipedia.org/wiki/EasyOffice) részeként megjelenő EasySpreadsheet táblázatkezelő szoftver hozott létre és támogat. Az EasyOffice a Microsoft Office alternatívájaként jelent meg, de már nem használható, és egy másik, One nevű programcsomag váltotta fel. Két változatban érkezett, nevezetesen az EasyOffice Freeware és az EasyOffice Premium változatban, a későbbiekben PDF-szűrővel és EasyAntiVirus-szal. Az ESS fájl kompatibilis a Microsoft [XLS](/hu/spreadsheet/xls/) fájljaival.
+Az ESS-fájl egy olyan táblázatkezelő fájl, amelyet az [EasyOffice](https://en.wikipedia.org/wiki/EasyOffice) részeként megjelenő EasySpreadsheet táblázatkezelő szoftver hozott létre és támogat. Az EasyOffice a Microsoft Office alternatívájaként jelent meg, de már nem használható, és egy másik, One nevű programcsomag váltotta fel. Két változatban érkezett, nevezetesen az EasyOffice Freeware és az EasyOffice Premium változatban, a későbbiekben PDF-szűrővel és EasyAntiVirus-szal. Az ESS fájl kompatibilis a Microsoft [XLS](/hu/spreadsheet/xls/) fájljaival.
 
 ## ESS fájlformátum - Gyors tények
 

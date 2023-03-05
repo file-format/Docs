@@ -19,11 +19,11 @@
 
 ## ما هو ملف CFF؟
 
-الملف ذو الامتداد .cff هو تنسيق خط مضغوط ويُعرف أيضًا باسم PostScript Type 1 أو CIDFont. يعمل CFF كحاوية لتخزين خطوط متعددة معًا في وحدة واحدة تُعرف باسم FontSet. يسمح تصميم خطوط CFF بدمج رمز لغة PostScript الذي يسمح بمرونة إضافية وقابلية للتوسيع للتنسيق للاستخدام مع بيئات الطابعة. يمكن فتح ملفات خط CFF وتحويلها باستخدام واجهات برمجة التطبيقات مثل [Aspose.Font] (https://products.aspose.com/font).
+الملف ذو الامتداد .cff هو تنسيق خط مضغوط ويُعرف أيضًا باسم PostScript Type 1 أو CIDFont. يعمل CFF كحاوية لتخزين خطوط متعددة معًا في وحدة واحدة تُعرف باسم FontSet. يسمح تصميم خطوط CFF بدمج رمز لغة PostScript الذي يسمح بمرونة إضافية وقابلية للتوسيع للتنسيق للاستخدام مع بيئات الطابعة. يمكن فتح ملفات خط CFF وتحويلها باستخدام واجهات برمجة التطبيقات مثل [Aspose.Font](https://products.aspose.com/font).
 
 ## تنسيق ملف CFF
 
-ملفات CFF هي ملفات ثنائية تحتوي على تخطيط بيانات منظم ، ولها أنواع بيانات محددة ، ورأس ، وتنظيم الصورة الرمزية وقواميس الجدول. يمكن العثور على مزيد من التفاصيل حول هذه في [مواصفات تنسيق الخط المضغوط] (https://docs.microsoft.com/en-us/typography/opentype/spec/cff).
+ملفات CFF هي ملفات ثنائية تحتوي على تخطيط بيانات منظم ، ولها أنواع بيانات محددة ، ورأس ، وتنظيم الصورة الرمزية وقواميس الجدول. يمكن العثور على مزيد من التفاصيل حول هذه في [مواصفات تنسيق الخط المضغوط](https://docs.microsoft.com/en-us/typography/opentype/spec/cff).
 
 ### تخطيط البيانات
 تخطيط البيانات لتنسيق ملف CFF كما هو موضح أدناه.
@@ -68,7 +68,7 @@
 
 ## مراجع
 
-* [جدول تنسيق الخط المضغوط] (https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
-* [تنسيق ملف CFF] (https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
-* [CFF2 Chartset] (https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+* [جدول تنسيق الخط المضغوط](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+* [تنسيق ملف CFF](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
+* [CFF2 Chartset](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

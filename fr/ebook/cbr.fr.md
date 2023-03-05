@@ -27,6 +27,6 @@ Un fichier CBR est une archive [RAR](/fr/compression/rar/) stockée sous forme d
 
 ## Références
 
-* [Archives de bandes dessinées] (https://en.wikipedia.org/wiki/Comic_book_archive)
+* [Archives de bandes dessinées](https://en.wikipedia.org/wiki/Comic_book_archive)
 * [Calibre](https://calibre-ebook.com/)
 

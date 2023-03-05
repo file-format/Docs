@@ -41,7 +41,7 @@ python --version
 Python 3.7.4
 ```
 
-إذا لم يتم تثبيت Python على جهازك ، يمكنك الانتقال إلى [python.org] (https://www.python.org/) وتنزيل Python وتثبيتها لنظام التشغيل ذي الصلة.
+إذا لم يتم تثبيت Python على جهازك ، يمكنك الانتقال إلى [python.org](https://www.python.org/) وتنزيل Python وتثبيتها لنظام التشغيل ذي الصلة.
 
 لتنفيذ نص بايثون ، يمكنك استخدام الأمر التالي:
 
@@ -94,5 +94,5 @@ for name in names:
 
 ## مراجع ##
 
-- [Python (لغة برمجة) - ويكيبيديا] (https://en.wikipedia.org/wiki/Python_ (architecture_language))
+- [Python (لغة برمجة) - ويكيبيديا](https://en.wikipedia.org/wiki/Python_ (architecture_language))
 

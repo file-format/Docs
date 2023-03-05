@@ -54,7 +54,7 @@ MAML файловете могат да бъдат създадени с пом�
 
 * [Създаване на XML базирана помощ с помощта на PlatyPS
 ](https://docs.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
-* [Език за маркиране на Microsoft Assistance] (https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
+* [Език за маркиране на Microsoft Assistance](https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
 
 # AML - Arc макро езиков файл
 

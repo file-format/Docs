@@ -54,5 +54,5 @@
 ## использованная литература
 
 * [ОСУ! Ритм-игра](https://osu.ppy.sh/home)
-* [Формат файла OSR] (https://osu.ppy.sh/wiki/en/Client/File_formats/Osr_%28file_format%29#data-types)
+* [Формат файла OSR](https://osu.ppy.sh/wiki/en/Client/File_formats/Osr_%28file_format%29#data-types)
 

@@ -23,11 +23,11 @@
 
 ## Формат файла DWT
 
-DWT можно рассматривать как DWG с предопределенными значениями, которые можно легко использовать. DWG был одним из широко используемых файловых форматов в ряде приложений и имеет надежную файловую структуру. Поскольку DWG является двоичным форматом файла, он не читается человеком, как простой формат файла ASCII [DXF](/ru/cad/dxf/). Файлы DWG обычно содержат информацию о координатах изображения и любые связанные с ним метаданные. Полные [спецификации] (https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf) формата файла DWG доступны для загрузки компанией OpenDesign.
+DWT можно рассматривать как DWG с предопределенными значениями, которые можно легко использовать. DWG был одним из широко используемых файловых форматов в ряде приложений и имеет надежную файловую структуру. Поскольку DWG является двоичным форматом файла, он не читается человеком, как простой формат файла ASCII [DXF](/ru/cad/dxf/). Файлы DWG обычно содержат информацию о координатах изображения и любые связанные с ним метаданные. Полные [спецификации](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf) формата файла DWG доступны для загрузки компанией OpenDesign.
 
 ### Использованная литература
 
-* [Спецификации формата файла DWG] (https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [Спецификация файла DWG] (https://www.scan2cad.com/dwg/file-spec/)
-* [DWG — Википедия] (https://en.wikipedia.org/wiki/.dwg)
+* [Спецификации формата файла DWG](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
+* [Спецификация файла DWG](https://www.scan2cad.com/dwg/file-spec/)
+* [DWG — Википедия](https://en.wikipedia.org/wiki/.dwg)
 

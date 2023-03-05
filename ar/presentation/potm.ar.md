@@ -23,7 +23,7 @@
 
 ## مواصفات تنسيق الملف ##
 
-يعتمد تنسيق ملف POTM على مواصفات Office OpenXML ويشبه بنية ملف [PPTX] (/ar/ Present / pptx /) وهو أرشيف مضغوط [ZIP] (/ar/ compression / zip /).
+يعتمد تنسيق ملف POTM على مواصفات Office OpenXML ويشبه بنية ملف [PPTX](/ar/ Present / pptx /) وهو أرشيف مضغوط [ZIP](/ar/ compression / zip /).
 
 قد تحتوي الشرائح داخل ملف POTM على نصوص وصور ومقاطع فيديو ورسومات وكائنات أخرى يمكن ترتيبها بحرية داخل الصفحة. ثم يتم استخدام قوالب POTM لإنشاء ملفات متعددة ترث جميع خيارات التنسيق الخاصة بالملف. وبالتالي ، فإن وحدات الماكرو الموجودة في ملف POTM موروثة عن طريق العروض التقديمية الأخرى أيضًا. يتم دمجها في بنية المستند عبر مسجل الماكرو المضمن في MS Office والذي يمكنه حفظ تسلسلات الأوامر وإنشاء وحدات ماكرو لتكرارها تلقائيًا.
 
@@ -82,6 +82,6 @@
 
 ## مراجع ##
 
-* [[MS-PPTX] - تنسيق ملف PPTX] (https://msdn.microsoft.com/en-us/library/dd926741 (v # office.12) .aspx)
-* [Open Office XML] (http://officeopenxml.com/anatomyofOOXML-pptx.php)
+* [[MS-PPTX] - تنسيق ملف PPTX](https://msdn.microsoft.com/en-us/library/dd926741 (v # office.12) .aspx)
+* [Open Office XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
 

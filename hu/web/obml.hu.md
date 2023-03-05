@@ -18,7 +18,7 @@
 
 ## Mi az OBML fájl?
 
-Az OBML (Opera Binary Markup Language) fájl az Opera Mini mobilböngésző által mentett weboldal offline változata. Ez a [HTML](/hu/web/html/) fájlok önálló, kompakt változata, amely tartalmazza az oldal összes elemét, hogy offline módban is megjelenhessenek bizonyos eszközökön. Az OBML fájlformátum több verzióra frissítve, az OBML15 és az OBML16 széles körben használatos. Fontos figyelembe venni, hogy minden Opera Mini verzió csak egy OBML formátummal kompatibilis. Így az Opera Mini frissítése a korábban mentett oldalakat olvashatóvá teszi. Az OBML fájlok konvertálhatók HTML és [PDF] (/hu/pdf/) formátumba.
+Az OBML (Opera Binary Markup Language) fájl az Opera Mini mobilböngésző által mentett weboldal offline változata. Ez a [HTML](/hu/web/html/) fájlok önálló, kompakt változata, amely tartalmazza az oldal összes elemét, hogy offline módban is megjelenhessenek bizonyos eszközökön. Az OBML fájlformátum több verzióra frissítve, az OBML15 és az OBML16 széles körben használatos. Fontos figyelembe venni, hogy minden Opera Mini verzió csak egy OBML formátummal kompatibilis. Így az Opera Mini frissítése a korábban mentett oldalakat olvashatóvá teszi. Az OBML fájlok konvertálhatók HTML és [PDF](/hu/pdf/) formátumba.
 
 ## OBML fájlformátum
 

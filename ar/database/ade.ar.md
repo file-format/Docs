@@ -25,10 +25,10 @@
 
 ADE هي ملفات قاعدة بيانات Access مجمعة يتم تخزينها على القرص كملفات ثنائية. هيكل الملف الداخلي لهذه الملفات غير معروف.
 
-يمكن أن تخلق ملفات ADE مشكلات في الفتح استنادًا إلى إصدار Microsoft Access الذي تم استخدامه لإنشاء هذه الملفات. قواعد بيانات الوصول التي تستخدم الإصدار 64 بت من Microsoft Access 2010 والتي تم تجميعها برمجية كـ MDE أو [ACCDE] (/ar/ database / accde /) أو ملفات ADE يجب إعادة تجميعها في Microsoft Access 2021 Service Pack 1 (SP1) العمل بشكل صحيح مع Access 2010 SP1. تحدث هذه المشكلة لأن Access 2010 SP1 يستخدم إصدارًا أحدث من ملف VBE7.dll (الإصدار 7.00.1619).
+يمكن أن تخلق ملفات ADE مشكلات في الفتح استنادًا إلى إصدار Microsoft Access الذي تم استخدامه لإنشاء هذه الملفات. قواعد بيانات الوصول التي تستخدم الإصدار 64 بت من Microsoft Access 2010 والتي تم تجميعها برمجية كـ MDE أو [ACCDE](/ar/ database / accde /) أو ملفات ADE يجب إعادة تجميعها في Microsoft Access 2021 Service Pack 1 (SP1) العمل بشكل صحيح مع Access 2010 SP1. تحدث هذه المشكلة لأن Access 2010 SP1 يستخدم إصدارًا أحدث من ملف VBE7.dll (الإصدار 7.00.1619).
 
 ## مراجع
 
-* [مشكلة في الوصول إلى ملفات ADE] (https://docs.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
-* [ما هي تنسيقات ملفات الوصول المراد استخدامها] (https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
+* [مشكلة في الوصول إلى ملفات ADE](https://docs.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
+* [ما هي تنسيقات ملفات الوصول المراد استخدامها](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

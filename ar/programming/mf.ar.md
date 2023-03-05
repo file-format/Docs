@@ -19,11 +19,11 @@
 
 ## ما هو ملف MF؟
 
-الملف بامتداد .mf هو ملف Java Manifest يحتوي على معلومات حول إدخالات ملف [JAR] (/ar/ برمجة / jar /) الفردية. ملف MF نفسه موجود داخل ملف JAR ويوفر كل الامتدادات والتعريفات المتعلقة بالحزمة. يمكن إنتاج ملفات JAR لاستخدامها كملف قابل للتنفيذ. في مثل هذه الحالة ، يحدد ملف mainfest الفئة الرئيسية للتطبيق التي تحتوي على عبارة ** `public static void main` **. تتم تسمية ملفات البيان باسم MANIFEST.MF ويمكن فتحها باستخدام أي محرر نصوص على أنظمة تشغيل Windows و MacOS و Linux.
+الملف بامتداد .mf هو ملف Java Manifest يحتوي على معلومات حول إدخالات ملف [JAR](/ar/ برمجة / jar /) الفردية. ملف MF نفسه موجود داخل ملف JAR ويوفر كل الامتدادات والتعريفات المتعلقة بالحزمة. يمكن إنتاج ملفات JAR لاستخدامها كملف قابل للتنفيذ. في مثل هذه الحالة ، يحدد ملف mainfest الفئة الرئيسية للتطبيق التي تحتوي على عبارة ** `public static void main` **. تتم تسمية ملفات البيان باسم MANIFEST.MF ويمكن فتحها باستخدام أي محرر نصوص على أنظمة تشغيل Windows و MacOS و Linux.
 
 ## مواصفات تنسيق ملف البيان
 
-[مواصفات تنسيق ملف البيان] (https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html) متاحة بواسطة Oracle في دليلها لتنسيق ملف JAR. يتكون ملف البيان من أقسام رئيسية تليها قائمة أقسام لمدخلات ملف JAR الفردية. يتبع كل قسم بعض القواعد والقيود.
+[مواصفات تنسيق ملف البيان](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html) متاحة بواسطة Oracle في دليلها لتنسيق ملف JAR. يتكون ملف البيان من أقسام رئيسية تليها قائمة أقسام لمدخلات ملف JAR الفردية. يتبع كل قسم بعض القواعد والقيود.
 
 ### الأقسام الرئيسية
 
@@ -55,6 +55,6 @@
 
 ## مراجع
 
-* [Oracle - JAR File Format] (https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html)
-* [تنسيق ملف JAR] (https://en.wikipedia.org/wiki/JAR_ (file_format) #: ~: text = A٪ 20JAR٪ 20 (Java٪ 20ARchive)٪ 20is ، إلى٪ 20one٪ 20file٪ 20for٪ 20distribution.
+* [Oracle - JAR File Format](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html)
+* [تنسيق ملف JAR](https://en.wikipedia.org/wiki/JAR_ (file_format) #: ~: text = A٪ 20JAR٪ 20 (Java٪ 20ARchive)٪ 20is ، إلى٪ 20one٪ 20file٪ 20for٪ 20distribution.
 

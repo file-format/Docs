@@ -94,5 +94,5 @@ C:\Music\ExampleMusic.mp3
 ## Références ##
 
 - [M3U - Wikipédia](https://en.wikipedia.org/wiki/M3U)
-- [Diffusion HTTP en direct] (https://tools.ietf.org/html/rfc8216)
+- [Diffusion HTTP en direct](https://tools.ietf.org/html/rfc8216)
 

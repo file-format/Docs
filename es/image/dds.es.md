@@ -38,7 +38,7 @@ DWORD               dwMagic;
 DDS_HEADER          header;
 ```
 
-La [guía de programación del formato de archivo DDS] (https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) elabora más detalles técnicos de este formato de archivo.
+La [guía de programación del formato de archivo DDS](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) elabora más detalles técnicos de este formato de archivo.
 
 ## Referencias
 

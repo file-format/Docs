@@ -35,5 +35,5 @@ ESS फ़ाइल एक स्प्रेडशीट फ़ाइल है
 
 ## संदर्भ
 
-* [ईजीऑफिस - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/EasyOffice)
+* [ईजीऑफिस - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/EasyOffice)
 

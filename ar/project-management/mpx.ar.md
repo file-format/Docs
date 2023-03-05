@@ -25,7 +25,7 @@
 
 ## تنسيق ملف MPX ##
 
-يتم توفير نظرة عامة حول مواصفات ملف MPX في هذا القسم. يمكن العثور على المواصفات الكاملة في [Knowledge Base] (https://support.microsoft.com/en-us/office/file-formats-supported-by-project-desktop-face808f-77ab-4fce-9353-14144ba1b9ae) المقالة ويمكن الرجوع إليها للحصول على التفاصيل.
+يتم توفير نظرة عامة حول مواصفات ملف MPX في هذا القسم. يمكن العثور على المواصفات الكاملة في [Knowledge Base](https://support.microsoft.com/en-us/office/file-formats-supported-by-project-desktop-face808f-77ab-4fce-9353-14144ba1b9ae) المقالة ويمكن الرجوع إليها للحصول على التفاصيل.
 
 ### السجلات ###
 
@@ -231,5 +231,5 @@
 
 ## مراجع ##
 
-* [MPX - Microsoft Knowledge Base] (https://support.microsoft.com/en-us/office/file-formats-supported-by-project-desktop-face808f-77ab-4fce-9353-14144ba1b9ae)
+* [MPX - Microsoft Knowledge Base](https://support.microsoft.com/en-us/office/file-formats-supported-by-project-desktop-face808f-77ab-4fce-9353-14144ba1b9ae)
 

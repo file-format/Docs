@@ -19,12 +19,12 @@
 
 ## ما هو ملف BTR؟
 
-الملف بامتداد .btr هو ملف قاعدة بيانات تم إنشاؤه بواسطة [Btrieve] (https://www.actian.com/) تطبيق قاعدة بيانات المعاملات. على عكس أنظمة إدارة قواعد البيانات العلائقية (RBMS) ، يعتمد Btrieve على طريقة الوصول التسلسلي المفهرس (ISAM) ، وهي طريقة لتخزين البيانات للاسترجاع السريع. يخزن ملف BTR مجموعة من السجلات ويستخدم لإنشاء تقارير حسب المتطلبات. يمكن فتح ملفات BTR باستخدام Pervasive Btrieve Database Manager و Pervasive PSQL Maintenance Utility و Legend Software BTRIEVE Viewer.
+الملف بامتداد .btr هو ملف قاعدة بيانات تم إنشاؤه بواسطة [Btrieve](https://www.actian.com/) تطبيق قاعدة بيانات المعاملات. على عكس أنظمة إدارة قواعد البيانات العلائقية (RBMS) ، يعتمد Btrieve على طريقة الوصول التسلسلي المفهرس (ISAM) ، وهي طريقة لتخزين البيانات للاسترجاع السريع. يخزن ملف BTR مجموعة من السجلات ويستخدم لإنشاء تقارير حسب المتطلبات. يمكن فتح ملفات BTR باستخدام Pervasive Btrieve Database Manager و Pervasive PSQL Maintenance Utility و Legend Software BTRIEVE Viewer.
 
 ## هيكل ملف BTR - مزيد من المعلومات
 
 هيكل البيانات الداخلية ومحاذاة كل بايت في بنية ملف BTR غير متاح للجمهور. ومع ذلك ، Btrieve
-يوفر [Btrieve API] (https://docs.actian.com/psql/PSQLv13/index.html#page/btrieveapi٪2Fbtrintro.htm) التي يمكن استخدامها لقراءة المعلومات من ملفات BTR. وهو متوافق مع لغات البرمجة وبيئات التطوير التالية.
+يوفر [Btrieve API](https://docs.actian.com/psql/PSQLv13/index.html#page/btrieveapi٪2Fbtrintro.htm) التي يمكن استخدامها لقراءة المعلومات من ملفات BTR. وهو متوافق مع لغات البرمجة وبيئات التطوير التالية.
 
 * Embarcadero C / C ++
 * إمباركاديرو دلفي
@@ -38,6 +38,6 @@
 
 ## مراجع
 
-* [Btrieve - Wikipedia] (https://en.wikipedia.org/wiki/Btrieve)
-* [مقدمة إلى Btreive APIs] (https://docs.actian.com/psql/PSQLv13/index.html#page/btrieveapi٪2Fbtrintro.htm)
+* [Btrieve - Wikipedia](https://en.wikipedia.org/wiki/Btrieve)
+* [مقدمة إلى Btreive APIs](https://docs.actian.com/psql/PSQLv13/index.html#page/btrieveapi٪2Fbtrintro.htm)
 

@@ -20,10 +20,10 @@
 
 ## ما هو ملف ASM؟
 
-ملف ASM هو ملف بيانات يستخدمه [Solid Edge] (https://solidedge.siemens.com/en/) برنامج تصميم وتصيير وتجميع 3D CAD. يحتوي على كائنات ثلاثية الأبعاد تتكون من مجموعة من الأجزاء النموذجية. يمكن أن يحتوي ملف ASM واحد على أجزاء متعددة لتشكيل ملف البيانات بأكمله. تختلف ملفات ASM تمامًا عن ملفات [لغة التجميع ASM] (/ar/ البرمجة / asm /) وليس لها صلة بهذه الملفات. يستخدم برنامج Siemens Solid Edge لفتح ملفات ASM هذه.
+ملف ASM هو ملف بيانات يستخدمه [Solid Edge](https://solidedge.siemens.com/en/) برنامج تصميم وتصيير وتجميع 3D CAD. يحتوي على كائنات ثلاثية الأبعاد تتكون من مجموعة من الأجزاء النموذجية. يمكن أن يحتوي ملف ASM واحد على أجزاء متعددة لتشكيل ملف البيانات بأكمله. تختلف ملفات ASM تمامًا عن ملفات [لغة التجميع ASM](/ar/ البرمجة / asm /) وليس لها صلة بهذه الملفات. يستخدم برنامج Siemens Solid Edge لفتح ملفات ASM هذه.
 
 ## مراجع
 
-* [Solid Edge ASM] (https://www.wikidata.org/wiki/Q644575)
-* [Siemens Solid Edge] (https://solidedge.siemens.com/en/)
+* [Solid Edge ASM](https://www.wikidata.org/wiki/Q644575)
+* [Siemens Solid Edge](https://solidedge.siemens.com/en/)
 

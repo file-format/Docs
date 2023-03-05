@@ -18,7 +18,7 @@
 
 ## Mi az a \_XLS fájl?
 
-A .\_XLS kiterjesztésű fájl valójában egy XLS fájl, amelyet néhány más alkalmazás \_XLS-re nevez át. XLS fájlformátum-struktúrán alapul, és ha átnevezzük .xls-re, akkor az összes XLS fájlformátumot támogató alkalmazással megnyitható. A legtöbb esetben az \_XLS fájlokat úgy állítják elő, hogy az e-mailhez csatolt XLS fájlt \_XLS formátumba konvertálják a fogadó oldalon. Ezeken belül ugyanazokat az [XLS-fájlformázási specifikációkat] (https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx) használja, hogy különböző típusú információkat, például diagramokat tartalmazzon. , grafikonok és táblázatadatok.
+A .\_XLS kiterjesztésű fájl valójában egy XLS fájl, amelyet néhány más alkalmazás \_XLS-re nevez át. XLS fájlformátum-struktúrán alapul, és ha átnevezzük .xls-re, akkor az összes XLS fájlformátumot támogató alkalmazással megnyitható. A legtöbb esetben az \_XLS fájlokat úgy állítják elő, hogy az e-mailhez csatolt XLS fájlt \_XLS formátumba konvertálják a fogadó oldalon. Ezeken belül ugyanazokat az [XLS-fájlformázási specifikációkat](https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx) használja, hogy különböző típusú információkat, például diagramokat tartalmazzon. , grafikonok és táblázatadatok.
 
 ## \_XLS fájlformátum - További információ
 

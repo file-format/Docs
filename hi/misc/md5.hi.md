@@ -36,5 +36,5 @@ md5sum -c abc_987_123456.grb.md5
 
 ## संदर्भ
 
-* [md5sum - विकिपीडिया] (https://en.wikipedia.org/wiki/Md5sum)
+* [md5sum - विकिपीडिया](https://en.wikipedia.org/wiki/Md5sum)
 

@@ -56,5 +56,5 @@ Les ressources peuvent également être référencées de manière absolue. Les 
 
 ## Références ##
 
-* [Fichiers Google Earth et KMZ] (https://developers.google.com/kml/documentation/kmzarchives#google-earth-and-kmz-archives)
+* [Fichiers Google Earth et KMZ](https://developers.google.com/kml/documentation/kmzarchives#google-earth-and-kmz-archives)
 

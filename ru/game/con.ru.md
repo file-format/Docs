@@ -27,6 +27,6 @@
 
 ## использованная литература
 
-* [Поле битвы 1942 г.] (https://en.wikipedia.org/wiki/Battlefield_1942)
-* [Поле битвы 1942 — EA] (https://www.ea.com/news/get-battlefield-1942-free-from-origin)
+* [Поле битвы 1942 г.](https://en.wikipedia.org/wiki/Battlefield_1942)
+* [Поле битвы 1942 — EA](https://www.ea.com/news/get-battlefield-1942-free-from-origin)
 

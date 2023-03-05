@@ -64,5 +64,5 @@
 
 ## Ссылка ##
 
-* [ICNS — Википедия] (https://en.wikipedia.org/wiki/Apple_Icon_Image_format)
+* [ICNS — Википедия](https://en.wikipedia.org/wiki/Apple_Icon_Image_format)
 

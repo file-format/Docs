@@ -19,7 +19,7 @@
 
 ## Vad är en ZIP-fil? ##
 
-En fil med filtillägget .zip är ett arkiv som kan innehålla en eller flera filer eller kataloger. Arkivet kan ha komprimering tillämpad på de inkluderade filerna för att minska ZIP-filstorleken. ZIP-filformat offentliggjordes redan i februari 1989 av Phil Katz för att uppnå arkivering av filer och mappar. Formatet gjordes till en del av verktyget [PKZIP](https://www.pkware.com/pkzip), skapat av PKWARE, Inc. Direkt efter att [tillgängliga specifikationer] (https://pkware.cachefly.net/ webdocs/casestudies/APPNOTE.TXT), gjorde många företag ZIP-filformat till en del av sina programvaruverktyg, inklusive Microsoft (sedan Windows 7), Apple (Mac OS X) och många andra.
+En fil med filtillägget .zip är ett arkiv som kan innehålla en eller flera filer eller kataloger. Arkivet kan ha komprimering tillämpad på de inkluderade filerna för att minska ZIP-filstorleken. ZIP-filformat offentliggjordes redan i februari 1989 av Phil Katz för att uppnå arkivering av filer och mappar. Formatet gjordes till en del av verktyget [PKZIP](https://www.pkware.com/pkzip), skapat av PKWARE, Inc. Direkt efter att [tillgängliga specifikationer](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT), gjorde många företag ZIP-filformat till en del av sina programvaruverktyg, inklusive Microsoft (sedan Windows 7), Apple (Mac OS X) och många andra.
 
 ## Kort historik över ZIP-filformat
 
@@ -152,4 +152,3 @@ Den lokala filhuvudet har en specifik fältstruktur som består av flerbytevärd
 
 * [PKWARE ZIP-filformatspecifikationer](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
 * [Structure of PKZip File](https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip-printable.html)
-

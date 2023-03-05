@@ -23,7 +23,7 @@ Eine DAV-Datei ist eine komprimierte und verschlüsselte Videodatei, die von DVR
 
 ## DAV-Dateiformat - Weitere Informationen
 
-DAV-Dateien werden im verschlüsselten Binärdateiformat auf der Disc gespeichert. Die Verschlüsselung verhindert die unbefugte Nutzung dieser Dateien. Daher sind diese Eigentum der CCTV-Systeme von [Dahua Technology] (https://www.dahuasecurity.com/). Einige andere Kameras von Dahua Technologies können das Überwachungsvideo auch als DAV-Dateien speichern.
+DAV-Dateien werden im verschlüsselten Binärdateiformat auf der Disc gespeichert. Die Verschlüsselung verhindert die unbefugte Nutzung dieser Dateien. Daher sind diese Eigentum der CCTV-Systeme von [Dahua Technology](https://www.dahuasecurity.com/). Einige andere Kameras von Dahua Technologies können das Überwachungsvideo auch als DAV-Dateien speichern.
 
 Der Dahua Smart Player kann zum Öffnen und Abspielen von DAV-Dateien verwendet werden.
 

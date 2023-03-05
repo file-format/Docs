@@ -23,5 +23,5 @@ Die APE-Datei ist eine mit **Monkey's Audio** komprimierte Audiodatei; ein Algor
 ## Verweise ##
 
 * [Monkey's Audio - Von Wikipedia](https://en.wikipedia.org/wiki/Monkey%27s_Audio)
-* [Monkey's Audio - ein schneller und leistungsstarker verlustfreier Audiokompressor] (https://monkeysaudio.com/index.html)
+* [Monkey's Audio - ein schneller und leistungsstarker verlustfreier Audiokompressor](https://monkeysaudio.com/index.html)
 

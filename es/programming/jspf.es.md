@@ -68,5 +68,5 @@ En esta situación, esta página JSP compuesta se puede convertir en varios mód
 
 ## Referencias
 
-* [Convenciones de código para las páginas de JavaServer] (https://www.oracle.com/technical-resources/articles/javase/code-convention.html)
+* [Convenciones de código para las páginas de JavaServer](https://www.oracle.com/technical-resources/articles/javase/code-convention.html)
 

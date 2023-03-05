@@ -23,5 +23,5 @@ DCR फाइल एक मीडिया फाइल है जिसे Adob
 
 ## संदर्भ
 
-* [एडोब निदेशक] (https://en.wikipedia.org/wiki/Adobe_Director)
+* [एडोब निदेशक](https://en.wikipedia.org/wiki/Adobe_Director)
 

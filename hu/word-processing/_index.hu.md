@@ -22,7 +22,7 @@ A szövegszerkesztő fájl egyszerű szöveg vagy formázott szöveg formátumba
 
 A gyakori egyszerű szöveges fájlkiterjesztések és a kapcsolódó fájlformátumok közé tartozik a **[TXT](/hu/word-processing/txt/)**, **[CSV](/hu/spreadsheet/csv/)**, míg a rich text dokumentumok fájlkiterjesztései **[DOCX](/hu/word-processing/docx/)**, **[DOC](/hu/word-processing/doc/)** és **[RTF](/hu/word-processing/rtf/)** .
 
-Kérdései vannak a szövegszerkesztő fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra] (https://forum.fileformat.com/c/word-processing), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
+Kérdései vannak a szövegszerkesztő fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/word-processing), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
 
 # A szövegszerkesztő fájlkiterjesztések és a kapcsolódó fájlformátumok listája
 

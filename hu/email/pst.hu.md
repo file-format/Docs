@@ -22,7 +22,7 @@ A .pst kiterjesztésű fájlok az Outlook Personal Storage Files (más néven Pe
 
 ## A PST fájlformátum specifikációi
 
-A PST-fájlformátum [specifikációi] (https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) ingyenes és visszavonhatatlan ingyenes szabadalmi licencként érhető el a Microsofttól az Open Specification Promise keretében .
+A PST-fájlformátum [specifikációi](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) ingyenes és visszavonhatatlan ingyenes szabadalmi licencként érhető el a Microsofttól az Open Specification Promise keretében .
 
 ### A PST-formátumok típusa
 
@@ -70,7 +70,7 @@ A fejléc egy 4 bájtos varázsszóval kezdődik **!BDN**, amelyet bájtok képv
 |bidNextP (Unicode: 8 bájt; ANSI: 4 bájt)|Következő oldal BID. Az oldalakon egy speciális számláló található a bidIndex értékek kiosztására. Az oldalak BID-jeinek bidIndex értéke ebből a számlálóból kerül kiosztásra.
 |bidNextB (csak 4 bájtos ANSI): |Next BID. Ez az érték a monoton számláló, amely a következő kiosztott blokkhoz hozzárendelendő BID-t jelzi. A BID értékek 4-es lépésekben haladnak előre. További részletekért lásd a 2.2.2.2. szakaszt.
 |dwUnique (4 bájt)|Ez egy monotonan növekvő érték, amely minden alkalommal módosul, amikor a PST-fájl HEADER szerkezete módosul. Ennek az értéknek az a feladata, hogy egyedi értéket adjon, és biztosítsa, hogy a HEADER CRC-k minden fejlécmódosítás után eltérőek legyenek.
-|rgnid[] (128 bájt)|Rögzített tömb 32 NID-ből, amelyek mindegyike megfelel a 32 lehetséges NID_TYPE egyikének (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE, NID_MESSAGE_)
+|rgnid[](128 bájt)|Rögzített tömb 32 NID-ből, amelyek mindegyike megfelel a 32 lehetséges NID_TYPE egyikének (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE, NID_MESSAGE_)
 |qwUnused (8 bájt)|Felhasználatlan terület; nullára KELL állítani. Csak Unicode PST fájlformátum.
 |root (Unicode: 72 bájt; ANSI: 40 bájt)|ROOT struktúra (2.2.2.5. szakasz).
 |dwAlign (4 bájt)|Fel nem használt igazítási bájtok; nullára KELL állítani. Csak Unicode PST fájlformátum.

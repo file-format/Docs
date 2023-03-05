@@ -44,5 +44,5 @@ KEY फाइलें Apple Keynote में उपयोग की जात�
 
 ## संदर्भ ##
 
-* [कीनोट - विकिपीडिया] (https://en.wikipedia.org/wiki/Keynote_(presentation_software))
+* [कीनोट - विकिपीडिया](https://en.wikipedia.org/wiki/Keynote_(presentation_software))
 

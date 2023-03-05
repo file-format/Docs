@@ -23,7 +23,7 @@ Un archivo con la extensión .mng es un formato de archivo de gráficos de red d
 
 ## Formato de archivo MNG
 
-El formato de archivo MNG es similar al de PNG y utiliza la misma estructura de fragmentos definida en las especificaciones de PNG. Un decodificador MNG debe poder decodificar los flujos de datos PNG sin especificar ningún indicador especial para las instrucciones de decodificación. MNG agrupa múltiples imágenes en un "marco", con algunas imágenes utilizadas como sprite para moverse de un lugar a otro. El mecanismo permite reutilizar datos de imágenes sin retransmitirlos. Se pueden consultar las [especificaciones de MNG] (http://www.libpng.org/pub/mng/spec/) para referencia del desarrollador.
+El formato de archivo MNG es similar al de PNG y utiliza la misma estructura de fragmentos definida en las especificaciones de PNG. Un decodificador MNG debe poder decodificar los flujos de datos PNG sin especificar ningún indicador especial para las instrucciones de decodificación. MNG agrupa múltiples imágenes en un "marco", con algunas imágenes utilizadas como sprite para moverse de un lugar a otro. El mecanismo permite reutilizar datos de imágenes sin retransmitirlos. Se pueden consultar las [especificaciones de MNG](http://www.libpng.org/pub/mng/spec/) para referencia del desarrollador.
 
 ### Firma MNG
 
@@ -44,5 +44,5 @@ Un marco MNG consiste en una imagen bidimensional de imágenes más pequeñas. S
 ## Referencias ##
 
 * [MNG](http://www.libpng.org/pub/mng/)
-* [Formato MNG v 1.0] (http://www.libpng.org/pub/mng/spec/)
+* [Formato MNG v 1.0](http://www.libpng.org/pub/mng/spec/)
 

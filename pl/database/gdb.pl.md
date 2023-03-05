@@ -52,9 +52,9 @@ Dostęp do geobazy plikowej może mieć jednocześnie kilku użytkowników. Jeś
 
 ## Specyfikacje formatu plików GDB ##
 
-Plik GDB jest zastrzeżonym formatem ESRI, a jego specyfikacje nie są dostępne publicznie. Z tego powodu szczegóły formatu pliku dla FIle GDB nie mogły zostać udokumentowane nigdzie indziej niż niektóre źródła, które to zrobiły [częściowo] (https://github.com/rouault/dump_gdbtable/wiki/FGDB-Spec) przez inżynierię wsteczną .
+Plik GDB jest zastrzeżonym formatem ESRI, a jego specyfikacje nie są dostępne publicznie. Z tego powodu szczegóły formatu pliku dla FIle GDB nie mogły zostać udokumentowane nigdzie indziej niż niektóre źródła, które to zrobiły [częściowo](https://github.com/rouault/dump_gdbtable/wiki/FGDB-Spec) przez inżynierię wsteczną .
 
 ## Bibliografia ##
 
-* [Specyfikacje FGDB] (https://github.com/rouault/dump_gdbtable/wiki/FGDB-Spec)
+* [Specyfikacje FGDB](https://github.com/rouault/dump_gdbtable/wiki/FGDB-Spec)
 

@@ -75,6 +75,6 @@ function pm_install_check() {
 
 ## Referencias
 
-* [Paquetes planos de OSX] (https://matthew-brett.github.io/docosx/flat_packages.html)
+* [Paquetes planos de OSX](https://matthew-brett.github.io/docosx/flat_packages.html)
 * [Gestor de paquetes C++ MPKG](https://github.com/puellavulnerata/mpkg)
 

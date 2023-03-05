@@ -25,7 +25,7 @@
 
 ## Краткая история ##
 
-Microsoft представила спецификацию XPS в Ecma International. В июне 2007 года был создан Технический комитет 46 Ecma (TC46) для разработки стандарта на основе спецификаций OpenXPS Paper. Ecma International утвердила стандарт Ecma (ECMA-388) [спецификации XPS] (http://www.ecma-international.org/publications/standards/Ecma-388.htm) в июне 2009 г. на 97-й Генеральной Ассамблее.
+Microsoft представила спецификацию XPS в Ecma International. В июне 2007 года был создан Технический комитет 46 Ecma (TC46) для разработки стандарта на основе спецификаций OpenXPS Paper. Ecma International утвердила стандарт Ecma (ECMA-388) [спецификации XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm) в июне 2009 г. на 97-й Генеральной Ассамблее.
 
 ## Формат файла XPS ##
 
@@ -48,7 +48,7 @@ Microsoft представила спецификацию XPS в Ecma Internatio
 
 Формат документа XPS включает четко определенный набор частей и взаимосвязей, каждая из которых служит определенной цели в документе. Формат также расширяет возможности пакета, включая цифровые подписи, эскизы и чередование.
 
-Типичный XPS-документ выглядит следующим образом и может быть проанализирован в свете формата файлов XPS [спецификаций] (https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf).
+Типичный XPS-документ выглядит следующим образом и может быть проанализирован в свете формата файлов XPS [спецификаций](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf).
 
 {{< figure src="../XPS-2.png" alt="Формат файла XPS" >}}
 
@@ -56,5 +56,5 @@ Microsoft представила спецификацию XPS в Ecma Internatio
 ## Использованная литература ##
 
 * [Спецификации формата файлов XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
-* [XPS — Википедия] (https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
+* [XPS — Википедия](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

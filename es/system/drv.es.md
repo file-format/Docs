@@ -24,7 +24,7 @@ Los archivos con extensión .drv pertenecen al controlador de dispositivo de Win
 
 ## Formato de archivo DRV ##
 
-Los archivos DRV generalmente se empaquetan como bibliotecas dinámicas (archivos [DDL] (/es/ system / dll /)) o archivos [EXE] (/es/ ejecutable / exe /). Estos archivos pueden admitirse en todas las plataformas del sistema, como los teléfonos inteligentes, y no hay garantía de que cada plataforma admita correctamente estos archivos. Sin embargo, algunos de los dispositivos más comunes que usan la extensión de archivo .drv son:
+Los archivos DRV generalmente se empaquetan como bibliotecas dinámicas (archivos [DDL](/es/ system / dll /)) o archivos [EXE](/es/ ejecutable / exe /). Estos archivos pueden admitirse en todas las plataformas del sistema, como los teléfonos inteligentes, y no hay garantía de que cada plataforma admita correctamente estos archivos. Sin embargo, algunos de los dispositivos más comunes que usan la extensión de archivo .drv son:
 
 * Tarjetas de sonido
 * Tarjetas gráficas

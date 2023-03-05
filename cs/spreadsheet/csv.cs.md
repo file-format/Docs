@@ -41,7 +41,7 @@ Soubory CSV lze převést do několika různých formátů souborů pomocí apli
 
 ## Formát souboru CSV ##
 
-Formát souboru CSV je uveden v [RFC4180] (https://tools.ietf.org/html/rfc4180). Definuje jakýkoli soubor jako vyhovující CSV, pokud:
+Formát souboru CSV je uveden v [RFC4180](https://tools.ietf.org/html/rfc4180). Definuje jakýkoli soubor jako vyhovující CSV, pokud:
 
 * Každý záznam je umístěn na samostatném řádku, odděleném zalomením řádku (CRLF). Například:
 * aaa,bbb,ccc CRLF

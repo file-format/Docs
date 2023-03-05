@@ -15,7 +15,7 @@ lastmod: 2022-03-09
 
 ## Mi az NSA fájl?
 
-Az NSA (NullSoft Streaming Audio) fájl egy streaming audio formátum, amelyet a NullSoft fejlesztett ki a hang interneten keresztüli streamelésére. A NullSoft a [Winamp médialejátszót] (https://www.winamp.com/) is fejlesztette hang- és videofájlok streamelésére és lejátszására. Az NSA fájlformátum a NullSoft által bevezetett és kifejlesztett hangtömörítési algoritmusokat használ. A NullSoft az [NSV](/hu/video/nsv/) fájlformátumot is kifejlesztette a videók interneten keresztüli streameléséhez.
+Az NSA (NullSoft Streaming Audio) fájl egy streaming audio formátum, amelyet a NullSoft fejlesztett ki a hang interneten keresztüli streamelésére. A NullSoft a [Winamp médialejátszót](https://www.winamp.com/) is fejlesztette hang- és videofájlok streamelésére és lejátszására. Az NSA fájlformátum a NullSoft által bevezetett és kifejlesztett hangtömörítési algoritmusokat használ. A NullSoft az [NSV](/hu/video/nsv/) fájlformátumot is kifejlesztette a videók interneten keresztüli streameléséhez.
 
 ## NSA fájlformátum
 

@@ -19,7 +19,7 @@
 
 ## ما هو ملف JRXML؟
 
-يتم إنشاء ملف JRXML بواسطة JasperReports ويحتوي على تعريف تصميم بتنسيق ملف [XML] (/ar/ web / xml /) شائع. يخزن جميع عناصر التصميم مثل تخطيط التقرير وحقول النص والصور والمخططات والمعلمات والمتغيرات. JasperReports هي مكتبة Java تُستخدم لإنشاء التقارير برمجيًا عن طريق استرداد البيانات من قواعد البيانات الخلفية ووسائط التخزين.
+يتم إنشاء ملف JRXML بواسطة JasperReports ويحتوي على تعريف تصميم بتنسيق ملف [XML](/ar/ web / xml /) شائع. يخزن جميع عناصر التصميم مثل تخطيط التقرير وحقول النص والصور والمخططات والمعلمات والمتغيرات. JasperReports هي مكتبة Java تُستخدم لإنشاء التقارير برمجيًا عن طريق استرداد البيانات من قواعد البيانات الخلفية ووسائط التخزين.
 
 ## تنسيق ملف JRXML
 
@@ -165,6 +165,6 @@
 
 ## مراجع
 
-* [JRXML - ويكيبيديا] (https://en.wikipedia.org/wiki/JasperReports#JRXML)
-* [مصادر JRXML وملفات جاسبر] (https://community.jaspersoft.com/documentation/tibco-jaspersoft-studio-user-guide/v630/jrxml-sources-and-jasper-files)
+* [JRXML - ويكيبيديا](https://en.wikipedia.org/wiki/JasperReports#JRXML)
+* [مصادر JRXML وملفات جاسبر](https://community.jaspersoft.com/documentation/tibco-jaspersoft-studio-user-guide/v630/jrxml-sources-and-jasper-files)
 

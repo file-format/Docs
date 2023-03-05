@@ -22,7 +22,7 @@ A .hdml (Handheld Device Markup Language) kiterjesztésű fájl egy jelölőnyel
 
 ## HDML fájlformátum – További információ
 
-A HDML egy kézi eszközök jelölőnyelve, amely a HTML-hez hasonló jelölőcímkéken alapul. A HDML-t benyújtották a W3C-hez szabványosítás céljából, de soha nem vált szabványossá. Fájlformátumának specifikációi azonban referenciaként elérhetők a [W3 webhelyén] (https://www.w3.org/TR/NOTE-Submission-HDML-spec.html). A [HDML nyelv szintaxisa] (https://www.w3.org/TR/hdml20-5.html#HEADING5-0) elérhető a fejlesztők számára, és használható példaalkalmazás-fejlesztéshez.
+A HDML egy kézi eszközök jelölőnyelve, amely a HTML-hez hasonló jelölőcímkéken alapul. A HDML-t benyújtották a W3C-hez szabványosítás céljából, de soha nem vált szabványossá. Fájlformátumának specifikációi azonban referenciaként elérhetők a [W3 webhelyén](https://www.w3.org/TR/NOTE-Submission-HDML-spec.html). A [HDML nyelv szintaxisa](https://www.w3.org/TR/hdml20-5.html#HEADING5-0) elérhető a fejlesztők számára, és használható példaalkalmazás-fejlesztéshez.
 
 ## HDML elemek
 

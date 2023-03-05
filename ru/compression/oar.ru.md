@@ -100,6 +100,6 @@ regions/
 
 ## использованная литература
 
-* [Формат OAR v 1.0] (http://opensimulator.org/wiki/OAR_Format_1.0)
+* [Формат OAR v 1.0](http://opensimulator.org/wiki/OAR_Format_1.0)
 * [OpenSimulator](http://opensimulator.org/wiki/Main_Page)
 

@@ -27,5 +27,5 @@
 
 ## Использованная литература ##
 
-* [LexisNexis CaseMap] (https://www.lexisnexis.com/en-us/products/casemap.page)
+* [LexisNexis CaseMap](https://www.lexisnexis.com/en-us/products/casemap.page)
 

@@ -30,5 +30,5 @@ AVIF (AV1 Image File Format) هو تنسيق ملف صورة يخزن الصور
 
 ## مراجع ##
 
-* [AVIF - ويكيبيديا] (https://en.wikipedia.org/wiki/AV1#AV1_Image_File_Format_ (AVIF))
+* [AVIF - ويكيبيديا](https://en.wikipedia.org/wiki/AV1#AV1_Image_File_Format_ (AVIF))
 

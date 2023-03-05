@@ -126,7 +126,7 @@ puts output = renderer.result(example.get_binding)
 
 ## संदर्भ ##
 
-* [ईआरबी - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/ERuby)
+* [ईआरबी - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/ERuby)
 
 
 

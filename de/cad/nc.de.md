@@ -19,7 +19,7 @@
 
 ## Was ist eine NC-Datei?
 
-Eine NC-Datei ist eine CNC-Datei (Computer Numerical Control), die mit [Mastercam CNC-Software] (https://www.mastercam.com/) erstellt wurde. Es umfasst numerische Steuerungsanweisungen zum Lenken der mechanischen Bewegung von CNC-Bearbeitungswerkzeugen wie Bohrern, Drehmaschinen, Fräsern und 3D-Druckern. CNC-Maschinen verwenden Anweisungen aus den NC-Dateien in Form eines sequentiellen Programms zur Ausführung. Diese Anweisungen aus der NC-Datei sollen die Maschine zur Herstellung des Bauteils führen.
+Eine NC-Datei ist eine CNC-Datei (Computer Numerical Control), die mit [Mastercam CNC-Software](https://www.mastercam.com/) erstellt wurde. Es umfasst numerische Steuerungsanweisungen zum Lenken der mechanischen Bewegung von CNC-Bearbeitungswerkzeugen wie Bohrern, Drehmaschinen, Fräsern und 3D-Druckern. CNC-Maschinen verwenden Anweisungen aus den NC-Dateien in Form eines sequentiellen Programms zur Ausführung. Diese Anweisungen aus der NC-Datei sollen die Maschine zur Herstellung des Bauteils führen.
 
 ## NC-Dateiformat
 

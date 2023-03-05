@@ -64,6 +64,4 @@ Windows Registry Editor Version 5.00
 ## Riferimenti
 
 * [Registro di Windows- di Wikipedia](https://en.wikipedia.org/wiki/Windows_Registry)
-* [Come aggiungere, modificare o eliminare sottochiavi e valori del registro utilizzando un file .reg](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete- sottochiavi-e-valori-del-registro-usando-un-file-reg-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23)
-
-
+* [Come aggiungere, modificare o eliminare sottochiavi e valori del registro utilizzando un file .reg](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete-registry-subkeys-and-values-by-using-a-reg-file-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23)

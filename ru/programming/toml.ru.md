@@ -108,5 +108,5 @@ local_date_time = 1979-05-27T07:32:00
 ## Использованная литература ##
 
 - [TOML - Википедия](https://en.wikipedia.org/wiki/TOML)
-- [ТОМЛ] (https://toml.io/ru/)
+- [ТОМЛ](https://toml.io/ru/)
 

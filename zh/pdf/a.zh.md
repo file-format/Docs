@@ -53,7 +53,7 @@ PDF/A-2 于 2011 年 7 月由 ISO 标准发布，作为称为 ISO 32001-1 的新
 
 ## PDF/A-3 ##
 
-PDF/A-3 包括第 2 级的所有一致性要求，并允许嵌入其他文件格式（例如 XML、[CSV](/zh/spreadsheet/csv/)、[CAD](/zh/cad/)、[word-processing] (/zh/word-processing/) , [spreadsheet](/zh/spreadsheet/) 和其他) 到符合 PDF/A 的文档中。
+PDF/A-3 包括第 2 级的所有一致性要求，并允许嵌入其他文件格式（例如 XML、[CSV](/zh/spreadsheet/csv/)、[CAD](/zh/cad/)、[word-processing](/zh/word-processing/) , [spreadsheet](/zh/spreadsheet/) 和其他) 到符合 PDF/A 的文档中。
 
 ## 参考 ＃＃
 

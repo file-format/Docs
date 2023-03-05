@@ -27,5 +27,5 @@
 
 ## использованная литература
 
-* [Реализация класса — Википедия] (https://en.wikipedia.org/wiki/Class_implementation_file)
+* [Реализация класса — Википедия](https://en.wikipedia.org/wiki/Class_implementation_file)
 

@@ -25,7 +25,7 @@ Plik z rozszerzeniem .dwt to plik szablonu strony internetowej utworzony za pomo
 
 Pliki DWT są opracowywane i zapisywane jako zwykłe pliki tekstowe. Można je otworzyć w programie Dreamweaver lub dowolnym edytorze tekstu i edytować w celu wprowadzenia wymaganych zmian. Oprogramowanie Dreamweaver aktualizuje interfejs użytkownika w miarę wprowadzania zmian, a użytkownik może wizualnie obserwować efekt zmian w interfejsie użytkownika aplikacji.
 
-Za każdym razem, gdy zapisujesz stronę [HTML] (/pl/ web / html /) jako plik szablonu, program Dreamweaver tworzy folder szablonów na poziomie głównym lokalnego folderu głównego. Łącze jest przerywane, jeśli plik .dwt zostanie przeniesiony z folderu Szablony lub zostanie zmieniona jego nazwa. Dlatego ważne jest, aby przechowywać pliki .dwt w folderze Szablony, w którym tworzy je program Dreamweaver. Lepiej jest przechowywać inne elementy witryny, takie jak pliki źródłowe obrazu lub dokumenty HTML, w lokalizacji innej niż folder Szablony.
+Za każdym razem, gdy zapisujesz stronę [HTML](/pl/ web / html /) jako plik szablonu, program Dreamweaver tworzy folder szablonów na poziomie głównym lokalnego folderu głównego. Łącze jest przerywane, jeśli plik .dwt zostanie przeniesiony z folderu Szablony lub zostanie zmieniona jego nazwa. Dlatego ważne jest, aby przechowywać pliki .dwt w folderze Szablony, w którym tworzy je program Dreamweaver. Lepiej jest przechowywać inne elementy witryny, takie jak pliki źródłowe obrazu lub dokumenty HTML, w lokalizacji innej niż folder Szablony.
 
 ## O Dreamweaverze
 

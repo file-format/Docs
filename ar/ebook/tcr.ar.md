@@ -42,6 +42,6 @@
 
 ## مراجع
 
-* [TCR - بواسطة MobileRead] (https://wiki.mobileread.com/wiki/TCR)
-* [ZVR Compressed Text File Reader] (https://iay.org.uk/zvr/)
+* [TCR - بواسطة MobileRead](https://wiki.mobileread.com/wiki/TCR)
+* [ZVR Compressed Text File Reader](https://iay.org.uk/zvr/)
 

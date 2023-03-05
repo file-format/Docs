@@ -48,8 +48,8 @@ TimeToGround(100)
 
 ## использованная литература
 
-* [Matlab — Поддерживаемые форматы файлов] (https://www.mathworks.com/help/matlab/standard-file-formats.html)
-* [Использование Matlab] (https://www.maths.unsw.edu.au/sites/default/files/MatlabSelfPaced/lesson0/MatlabLesson0_Mfiles.html)
+* [Matlab — Поддерживаемые форматы файлов](https://www.mathworks.com/help/matlab/standard-file-formats.html)
+* [Использование Matlab](https://www.maths.unsw.edu.au/sites/default/files/MatlabSelfPaced/lesson0/MatlabLesson0_Mfiles.html)
 
 # M - файл реализации Objective-C
 
@@ -93,6 +93,6 @@ UrlConnection.m
 ```
 
 ## использованная литература
-* [О цели C] (https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210-CH1-SW1)
-* [Руководство по Object-C] (https://blog.teamtreehouse.com/beginners-guide-objective-c-classes-objects)
+* [О цели C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210-CH1-SW1)
+* [Руководство по Object-C](https://blog.teamtreehouse.com/beginners-guide-objective-c-classes-objects)
 

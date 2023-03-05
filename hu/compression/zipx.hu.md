@@ -18,7 +18,7 @@
 
 ## Mi az a ZIPX fájl?
 
-A ZIPX-fájl a szabványos ZIP-fájl kiterjesztett változata, amelyet a tömörítés fejlett verziójával tömörítettek. Ezt a fejlett tömörítési módszert a CorelWinZip fejlesztette ki, amely az összes fájlt a kiterjesztett ZIPX formátum használatával tömöríti. A ZIPX fájlok mérete kisebb, mint a [ZIP fájlformátum] (/hu/compression/zip/), és hatékonyabbá teszik az interneten keresztüli adatátvitelt. A ZIPX fájlok megnyitásához telepíteni kell a WinZip programot a rendszerre.
+A ZIPX-fájl a szabványos ZIP-fájl kiterjesztett változata, amelyet a tömörítés fejlett verziójával tömörítettek. Ezt a fejlett tömörítési módszert a CorelWinZip fejlesztette ki, amely az összes fájlt a kiterjesztett ZIPX formátum használatával tömöríti. A ZIPX fájlok mérete kisebb, mint a [ZIP fájlformátum](/hu/compression/zip/), és hatékonyabbá teszik az interneten keresztüli adatátvitelt. A ZIPX fájlok megnyitásához telepíteni kell a WinZip programot a rendszerre.
 
 ## ZIPX fájl formátum
 

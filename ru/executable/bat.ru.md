@@ -92,6 +92,6 @@ DEL . DR
 
 ## использованная литература
 
-* [Пакетный сценарий — Краткое руководство] (https://www.tutorialspoint.com/batch_script/batch_script_quick_guide.htm)
+* [Пакетный сценарий — Краткое руководство](https://www.tutorialspoint.com/batch_script/batch_script_quick_guide.htm)
 * [Пакетный файл - Wikipewdia](https://en.wikipedia.org/wiki/Batch_file)
 

@@ -31,6 +31,6 @@ ETL-Dateidaten können mit der Anwendung Microsoft Windows Performance Analyzer 
 
 ## Verweise
 
-* [Windows Performance Analyzer] (https://docs.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
+* [Windows Performance Analyzer](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
 * [WPA-Schnellstartanleitung](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
 

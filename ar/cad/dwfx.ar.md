@@ -24,5 +24,5 @@ DWFx (Design Web Format XPS) هو تمثيل منسق للرسم ثنائي ال
 
 ## مراجع
 
-* [Design Web Format] (https://en.wikipedia.org/wiki/Design_Web_Format)
+* [Design Web Format](https://en.wikipedia.org/wiki/Design_Web_Format)
 

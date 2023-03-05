@@ -29,6 +29,6 @@
 
 ## использованная литература
 
-* [Формат данных SDF] (https://en.wikipedia.org/wiki/Spatial_Data_File)
+* [Формат данных SDF](https://en.wikipedia.org/wiki/Spatial_Data_File)
 * [Импорт Autodesk SDF](http://docs.autodesk.com/CIV3D/2013/ENU/index.html?url=filesMAPC3D/GUID-EC7140D6-F14F-4F7B-B431-FF0BAD7AE86C.htm,topicNumber=MAPC3Dd30e43012)
 

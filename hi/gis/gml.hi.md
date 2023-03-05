@@ -63,6 +63,6 @@ GML 1.0 और 2.0 पॉलीगॉन, पॉइंट्स और लाइ
 
 ## संदर्भ ##
 
-* [जीएमएल विनिर्देश] (http://www.opengeospatial.org/standards/gml)
+* [जीएमएल विनिर्देश](http://www.opengeospatial.org/standards/gml)
 * [जीएमएल - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Geography_Markup_Language)
 

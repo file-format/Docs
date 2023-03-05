@@ -19,10 +19,10 @@
 
 ## ¿Qué es un archivo FCS?
 
-Un archivo FCS es un archivo de hoja de cálculo creado con el software PFS:First Choice que es un paquete de oficina que consta de un procesador de textos, una hoja de cálculo, gráficos, una base de datos y telecomunicaciones. FCS significa First Choice Spreadsheet y se puede abrir con PFS: First Choice suite para DOS de [Software Publishing Corporation] (https://en.wikipedia.org/wiki/Software_Publishing_Corporation).
+Un archivo FCS es un archivo de hoja de cálculo creado con el software PFS:First Choice que es un paquete de oficina que consta de un procesador de textos, una hoja de cálculo, gráficos, una base de datos y telecomunicaciones. FCS significa First Choice Spreadsheet y se puede abrir con PFS: First Choice suite para DOS de [Software Publishing Corporation](https://en.wikipedia.org/wiki/Software_Publishing_Corporation).
 
 ## Referencias
 
 * [PFD:Primera opción](http://justsolve.archiveteam.org/wiki/PFS:First_Choice)
-* [Corporación de publicación de software] (https://en.wikipedia.org/wiki/Software_Publishing_Corporation)
+* [Corporación de publicación de software](https://en.wikipedia.org/wiki/Software_Publishing_Corporation)
 

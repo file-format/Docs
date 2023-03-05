@@ -69,6 +69,6 @@ class MyCoolScreensaver : Screensaver
 ## использованная литература
 
 * [Заставка](https://en.wikipedia.org/wiki/Заставка)
-* [Напишите заставку, которая действительно работает] (https://www.codeproject.com/Articles/14081/Write-a-Screensaver-that-Actually-Works)
+* [Напишите заставку, которая действительно работает](https://www.codeproject.com/Articles/14081/Write-a-Screensaver-that-Actually-Works)
 
 

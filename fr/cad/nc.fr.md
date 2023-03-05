@@ -19,7 +19,7 @@
 
 ## Qu'est-ce qu'un fichier NC ?
 
-Un fichier NC est un fichier de commande numérique par ordinateur (CNC) créé avec [le logiciel Mastercam CNC] (https://www.mastercam.com/). Il comprend des instructions de commande numérique pour diriger le mouvement mécanique d'outils d'usinage CNC tels que des perceuses, des tours, des fraiseuses et des imprimantes 3D. Les machines CNC utilisent les instructions des fichiers NC sous la forme d'un programme séquentiel pour l'exécution. Ces instructions du fichier CN sont destinées à guider la machine pour la production du composant.
+Un fichier NC est un fichier de commande numérique par ordinateur (CNC) créé avec [le logiciel Mastercam CNC](https://www.mastercam.com/). Il comprend des instructions de commande numérique pour diriger le mouvement mécanique d'outils d'usinage CNC tels que des perceuses, des tours, des fraiseuses et des imprimantes 3D. Les machines CNC utilisent les instructions des fichiers NC sous la forme d'un programme séquentiel pour l'exécution. Ces instructions du fichier CN sont destinées à guider la machine pour la production du composant.
 
 ## Format de fichier CN
 

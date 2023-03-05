@@ -26,5 +26,5 @@ ESPROJ फाइलें बाइनरी फाइलों के रूप
 
 ## संदर्भ
 
-* [एडोब एज] (https://www.adobe.com/sea/products/edge-animate.html)
+* [एडोब एज](https://www.adobe.com/sea/products/edge-animate.html)
 

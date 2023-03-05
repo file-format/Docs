@@ -24,7 +24,7 @@ Plik CT (Continuous Tone) to plik obrazu rastrowego używany przez sprzęt do pr
 
 ## Format pliku CT
 
-Plik Scitex CT składa się z bloku kontrolnego, bloku parametrów i danych obrazu zgodnie z tym [artykuł CT w Wikipedii] (https://en.wikipedia.org/wiki/Scitex_CT). Specyfikacje formatu pliku CT nie są dostępne, ale niektóre badania wykazały, że obraz CT reprezentuje 4 kolory, przy czym każdy kolorowy piksel ma rozmiar do 128 bitów. Pliki CT są zwykle duże i umożliwiają uzyskiwanie obrazów o wysokiej jakości.
+Plik Scitex CT składa się z bloku kontrolnego, bloku parametrów i danych obrazu zgodnie z tym [artykuł CT w Wikipedii](https://en.wikipedia.org/wiki/Scitex_CT). Specyfikacje formatu pliku CT nie są dostępne, ale niektóre badania wykazały, że obraz CT reprezentuje 4 kolory, przy czym każdy kolorowy piksel ma rozmiar do 128 bitów. Pliki CT są zwykle duże i umożliwiają uzyskiwanie obrazów o wysokiej jakości.
 
 ## Bibliografia
 

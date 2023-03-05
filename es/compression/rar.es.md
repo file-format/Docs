@@ -66,7 +66,7 @@ Encabezado de archivo 1
 |Registro de recuperación (opcional)
 |Encabezado de fin de archivo
 
-Puede encontrar información sobre cada sección del archivo RAR mencionado anteriormente en el documento [Especificaciones del formato de archivo RAR 5.0] (https://www.rarlab.com/technote.htm#arcstruct).
+Puede encontrar información sobre cada sección del archivo RAR mencionado anteriormente en el documento [Especificaciones del formato de archivo RAR 5.0](https://www.rarlab.com/technote.htm#arcstruct).
 
 #### Archivos RAR autoextraíbles
 
@@ -90,6 +90,6 @@ dónde
 
 ## Referencias
 
-* [Formato de archivo RAR 5.0] (https://www.rarlab.com/technote.htm)
+* [Formato de archivo RAR 5.0](https://www.rarlab.com/technote.htm)
 * [RAR - Por Wikipedia](https://en.wikipedia.org/wiki/RAR_(file_format))
 

@@ -45,6 +45,6 @@ bye
 ```
 ## संदर्भ ##
 
-* [विकिपीडिया द्वारा मेटापोस्ट] (https://en.wikipedia.org/wiki/MetaPost)
-* [बर्कले एजुकेशनल विकी द्वारा लेटेक्स नमूना मेटापोस्ट] (https://math.berkeley.edu/computing/wiki/index.php/Latex_sample_metapost)
+* [विकिपीडिया द्वारा मेटापोस्ट](https://en.wikipedia.org/wiki/MetaPost)
+* [बर्कले एजुकेशनल विकी द्वारा लेटेक्स नमूना मेटापोस्ट](https://math.berkeley.edu/computing/wiki/index.php/Latex_sample_metapost)
 

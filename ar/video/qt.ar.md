@@ -19,11 +19,11 @@
 
 ## ما هو ملف QT؟
 
-الملف بامتداد .qt هو ملف حاوية وسائط متعددة يتم استخدامه بواسطة إطار عمل QuickTime لتخزين محتويات ملف الوسائط المتعددة. تم تطوير تنسيق ملف QuickTime (QTFF) بواسطة شركة Apple Inc. وهو عبارة عن ملف حاوية وسائط متعددة يحتوي على صوت أو فيديو أو نص للتشغيل لاحقًا. إنه التنسيق المفضل لتبادل الوسائط الرقمية بين الأجهزة والتطبيقات وأنظمة التشغيل. يتم أيضًا حفظ ملفات QT بتنسيق [MOV] (/ar/ video / mov /) الذي تم تطويره أيضًا بواسطة شركة Apple Inc. بعض التطبيقات التي يمكنها فتح ملفات QT تتضمن مشغل Apple QuickTime ومشغل وسائط VLC و Media Player Classic مع K- حزمة لايت ترميز.
+الملف بامتداد .qt هو ملف حاوية وسائط متعددة يتم استخدامه بواسطة إطار عمل QuickTime لتخزين محتويات ملف الوسائط المتعددة. تم تطوير تنسيق ملف QuickTime (QTFF) بواسطة شركة Apple Inc. وهو عبارة عن ملف حاوية وسائط متعددة يحتوي على صوت أو فيديو أو نص للتشغيل لاحقًا. إنه التنسيق المفضل لتبادل الوسائط الرقمية بين الأجهزة والتطبيقات وأنظمة التشغيل. يتم أيضًا حفظ ملفات QT بتنسيق [MOV](/ar/ video / mov /) الذي تم تطويره أيضًا بواسطة شركة Apple Inc. بعض التطبيقات التي يمكنها فتح ملفات QT تتضمن مشغل Apple QuickTime ومشغل وسائط VLC و Media Player Classic مع K- حزمة لايت ترميز.
 
 ## تنسيق ملف QT
 
-إن QTFF موجه للكائنات والذي يعرض مجموعة مرنة من الكائنات لسهولة التحليل والتوسيع. يحتوي كل مسار في ملف QT على دفق وسائط مشفر رقميًا أو مرجع بيانات إلى دفق الوسائط الموجود في ملف آخر. تتكون بنية البيانات الهرمية من كائنات تسمى الذرات بمثابة حاويات مسارات. مواصفات تنسيق الملف [تنسيق ملف QT] (https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html) متاحة رسميًا من قبل شركة Apple Inc كمرجع للمطور.
+إن QTFF موجه للكائنات والذي يعرض مجموعة مرنة من الكائنات لسهولة التحليل والتوسيع. يحتوي كل مسار في ملف QT على دفق وسائط مشفر رقميًا أو مرجع بيانات إلى دفق الوسائط الموجود في ملف آخر. تتكون بنية البيانات الهرمية من كائنات تسمى الذرات بمثابة حاويات مسارات. مواصفات تنسيق الملف [تنسيق ملف QT](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html) متاحة رسميًا من قبل شركة Apple Inc كمرجع للمطور.
 
 ### وصف الوسائط
 
@@ -55,6 +55,6 @@ Atom هي الوحدة الأساسية لملف QuickTime. يوجد حقلين 
 
 ## مراجع ##
 
-* [QT File Format - Apple Inc.] (https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
-* [تنسيق ملف كويك تايم - ويكيبيديا] (https://en.wikipedia.org/wiki/QuickTime_File_Format)
+* [QT File Format - Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
+* [تنسيق ملف كويك تايم - ويكيبيديا](https://en.wikipedia.org/wiki/QuickTime_File_Format)
 

@@ -82,5 +82,5 @@ En realidad, la imagen se describe mediante la representación DWORD de 32 bits 
 ## Referencias ##
 
 * [Formato de metaarchivo de Windows](http://msdn.microsoft.com/en-us/library/cc250370.aspx)
-* [Formato de archivo BMP] (https://en.wikipedia.org/wiki/BMP_file_format)
+* [Formato de archivo BMP](https://en.wikipedia.org/wiki/BMP_file_format)
 

@@ -23,7 +23,7 @@ El formato de archivo XLSB especifica el formato de archivo binario de Excel, qu
 
 ## Especificaciones del formato de archivo XLSB ##
 
-Las especificaciones de formato de archivo para el formato de archivo XLSB se hicieron públicas en 2008 como versión 1.0. Desde entonces, las especificaciones se han revisado varias veces y la última versión de las especificaciones (v 10.0) se publicó en abril de 2018. Las especificaciones están disponibles públicamente por Microsoft como [[MS-XLSB] - especificaciones de formato de archivo binario de Excel] (https:/ /msdn.microsoft.com/en-us/library/cc313133(v#office.12).aspx) y debe ser consultado por cualquiera para leer o escribir archivos en formato de archivo XLSB.
+Las especificaciones de formato de archivo para el formato de archivo XLSB se hicieron públicas en 2008 como versión 1.0. Desde entonces, las especificaciones se han revisado varias veces y la última versión de las especificaciones (v 10.0) se publicó en abril de 2018. Las especificaciones están disponibles públicamente por Microsoft como [[MS-XLSB] - especificaciones de formato de archivo binario de Excel](https:/ /msdn.microsoft.com/en-us/library/cc313133(v#office.12).aspx) y debe ser consultado por cualquiera para leer o escribir archivos en formato de archivo XLSB.
 
 ## Estructura del archivo XLSB ##
 

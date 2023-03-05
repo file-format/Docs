@@ -57,5 +57,5 @@ Une partie est un flux d'octets qui a un type associé pour spécifier la nature
 
 ## Références ##
 
-* [Format de fichier de modèle d'accès] (https://docs.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
+* [Format de fichier de modèle d'accès](https://docs.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
 

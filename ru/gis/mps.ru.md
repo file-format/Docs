@@ -28,10 +28,10 @@
 
 Есть несколько ГИС-приложений, которые можно использовать в качестве альтернативы MapPoint.
 
-* [RouteSavvy] (https://www.routesavvy.com/)
-* [Легкая территория] (https://www.easyterritory.com/)
+* [RouteSavvy](https://www.routesavvy.com/)
+* [Легкая территория](https://www.easyterritory.com/)
 
 ## использованная литература
 
-* [TopGraphic EasyGPS] (https://www.easygps.com/)
+* [TopGraphic EasyGPS](https://www.easygps.com/)
 

@@ -117,5 +117,5 @@ PhotometricInterpretation = 2 (RGB) ولا يوجد ColorMap.
 
 ## مراجع ##
 
-* [تنسيق ملف TIFF - ويكيبيديا] (https://en.wikipedia.org/wiki/TIFF)
+* [تنسيق ملف TIFF - ويكيبيديا](https://en.wikipedia.org/wiki/TIFF)
 

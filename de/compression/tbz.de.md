@@ -23,7 +23,7 @@ Eine Datei mit der Erweiterung .tbz ist ein komprimiertes Archiv, das die BZIP-K
 
 ## TBZ-Dateiformat
 
-TBZ-Dateien sind eigentlich komprimierte Archive, die mit BZIP/[BZIP2](/de/compression/bz2)-Komprimierung erstellt wurden. Für dieses Dateiformat sind keine formalen Spezifikationen verfügbar. Eine inoffizielle [Reverse Engineering-Spezifikation] (https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) zeigt jedoch, dass ein .bz2-Stream aus einem 4-Byte-Header besteht, dem gefolgt wird durch null oder mehr komprimierte Blöcke.
+TBZ-Dateien sind eigentlich komprimierte Archive, die mit BZIP/[BZIP2](/de/compression/bz2)-Komprimierung erstellt wurden. Für dieses Dateiformat sind keine formalen Spezifikationen verfügbar. Eine inoffizielle [Reverse Engineering-Spezifikation](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) zeigt jedoch, dass ein .bz2-Stream aus einem 4-Byte-Header besteht, dem gefolgt wird durch null oder mehr komprimierte Blöcke.
 
 ## Verweise ##
 

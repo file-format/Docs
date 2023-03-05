@@ -43,5 +43,5 @@ Si vous ne parvenez pas à ouvrir et à exécuter le fichier TCR ; cela ne sign
 ## Références
 
 * [TCR - Par MobileRead](https://wiki.mobileread.com/wiki/TCR)
-* [Lecteur de fichiers texte compressé ZVR] (https://iay.org.uk/zvr/)
+* [Lecteur de fichiers texte compressé ZVR](https://iay.org.uk/zvr/)
 

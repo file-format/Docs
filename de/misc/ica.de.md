@@ -37,5 +37,5 @@ ICA-Dateien sollten bestimmten Initialisierungen und Formaten entsprechen, um ei
 ## Verweise
 
 * [Inhalte der ICA-Datei verstehen](https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
-* [Citrix ICA-Einstellungsreferenz] (http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
+* [Citrix ICA-Einstellungsreferenz](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
 

@@ -27,5 +27,5 @@
 
 ## Ссылка
 
-* [ДРАКО — GITHUB] (https://github.com/google/draco)
+* [ДРАКО — GITHUB](https://github.com/google/draco)
 

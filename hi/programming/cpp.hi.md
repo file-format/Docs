@@ -83,5 +83,5 @@ void MyClass::add(int i, int j) {
 
 ## संदर्भ
 
-* [वर्ग कार्यान्वयन - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/Class_implementation_file)
+* [वर्ग कार्यान्वयन - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Class_implementation_file)
 

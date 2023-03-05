@@ -83,5 +83,5 @@ WINDIR="C:\Windows"
 
 ## مراجع
 
-* [واجهة البوابة العامة - بواسطة Wikipewdia] (https://en.wikipedia.org/wiki/Common_Gateway_Interface)
+* [واجهة البوابة العامة - بواسطة Wikipewdia](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
 

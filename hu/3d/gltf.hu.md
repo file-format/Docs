@@ -31,7 +31,7 @@ A glTF 2.0 2017. június 5-én jelent meg a Web3D 2017 konferencián. Hosszú az
 
 ## GLTF fájlformátum
 
-A glTF 2.0 fájlformátum-specifikációi [online] (https://github.com/KhronosGroup/glTF/tree/master/specification/2.0) elérhetők referenciaként, és minden olvasással/írással kapcsolatos implementációnál tanulmányozni kell őket a glTF fájlformátum.
+A glTF 2.0 fájlformátum-specifikációi [online](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0) elérhetők referenciaként, és minden olvasással/írással kapcsolatos implementációnál tanulmányozni kell őket a glTF fájlformátum.
 
 A glTF az eszközöket külső adatokat támogató JSON-fájlokként határozza meg. 3D-s modelleket ábrázol a következőkkel:
 

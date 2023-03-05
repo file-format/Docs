@@ -18,7 +18,7 @@
 
 ## ما هو ملف HDM؟
 
-ملف HDM هو ملف صفحة ويب لغة ترميز يتم إنشاؤه بلغة توصيف الجهاز المحمول (HDML). يحتوي على علامات ترميز مشابهة للغة [HTML] (/ar/ web / html /) ، ولكنه مصمم للأجهزة الإلكترونية المحمولة مثل الهواتف الذكية وأجهزة المساعد الرقمي الشخصي. تم إرسال [مواصفات تنسيق ملف HDML] (https://www.w3.org/TR/NOTE-Submission-HDML-spec.html) إلى W3C للتوحيد ولكن لا يمكن أن تصبح معيارًا. يعتمد HDM على مواصفات تنسيق الملف [HDML] (/ar/ web / hdml /) المتوفرة على موقع W3.
+ملف HDM هو ملف صفحة ويب لغة ترميز يتم إنشاؤه بلغة توصيف الجهاز المحمول (HDML). يحتوي على علامات ترميز مشابهة للغة [HTML](/ar/ web / html /) ، ولكنه مصمم للأجهزة الإلكترونية المحمولة مثل الهواتف الذكية وأجهزة المساعد الرقمي الشخصي. تم إرسال [مواصفات تنسيق ملف HDML](https://www.w3.org/TR/NOTE-Submission-HDML-spec.html) إلى W3C للتوحيد ولكن لا يمكن أن تصبح معيارًا. يعتمد HDM على مواصفات تنسيق الملف [HDML](/ar/ web / hdml /) المتوفرة على موقع W3.
 
 ## تنسيق ملف HDM - مزيد من المعلومات
 
@@ -38,6 +38,6 @@
 
 ## مراجع
 
-* [HDML - ويكيبيديا] (https://en.wikipedia.org/wiki/Handheld_Device_Markup_Language)
-* [مواصفات HDML - مدارس W3] (https://www.w3.org/TR/NOTE-Submission-HDML-spec.html)
+* [HDML - ويكيبيديا](https://en.wikipedia.org/wiki/Handheld_Device_Markup_Language)
+* [مواصفات HDML - مدارس W3](https://www.w3.org/TR/NOTE-Submission-HDML-spec.html)
 

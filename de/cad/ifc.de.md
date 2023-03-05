@@ -68,5 +68,5 @@ Die Datenschemaarchitektur von IFC definiert vier konzeptionelle Schichten, jede
 
 ## Verweise ##
 
-* [Industry Foundation Classes – von Wikipedia] (https://en.wikipedia.org/wiki/Industry_Foundation_Classes)
+* [Industry Foundation Classes – von Wikipedia](https://en.wikipedia.org/wiki/Industry_Foundation_Classes)
 

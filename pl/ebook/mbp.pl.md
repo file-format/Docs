@@ -28,5 +28,5 @@ Powyższy akapit pokazuje, że notatki Mobipocket ułatwiają użytkownikom doda
 ## Bibliografia
 
 * [Czytnik MBP](https://www.angelfire.com/ego2/idleloop/mbp_reader.html)
-* [Formaty plików Mobipocket] (https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
+* [Formaty plików Mobipocket](https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
 

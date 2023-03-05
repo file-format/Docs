@@ -26,7 +26,7 @@
 
 ## مراجع
 
-* [ESRI ArcGIS Pro] (https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
-* [حفظ مستند ثلاثي الأبعاد] (https://desktop.arcgis.com/en/arcmap/10.3/guide-books/extensions/3d-analyst/about-saving-a-3d-document.htm)
-* [محلل ثلاثي الأبعاد و ArcGlobe] (https://desktop.arcgis.com/en/arcmap/latest/extensions/3d-analyst/3d-analyst-and-arcglobe.htm)
+* [ESRI ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
+* [حفظ مستند ثلاثي الأبعاد](https://desktop.arcgis.com/en/arcmap/10.3/guide-books/extensions/3d-analyst/about-saving-a-3d-document.htm)
+* [محلل ثلاثي الأبعاد و ArcGlobe](https://desktop.arcgis.com/en/arcmap/latest/extensions/3d-analyst/3d-analyst-and-arcglobe.htm)
 

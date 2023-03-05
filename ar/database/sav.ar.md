@@ -50,5 +50,5 @@
 
 ## مراجع ##
 
-* [SPSS System Data File Format Family (.sav)] (https://www.loc.gov/preservation/digital/formats/fdd/fdd000469.shtml)
+* [SPSS System Data File Format Family (.sav)](https://www.loc.gov/preservation/digital/formats/fdd/fdd000469.shtml)
 

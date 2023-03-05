@@ -32,6 +32,6 @@
 
 ## مراجع
 
-* [صورة نشر النظام - بواسطة ويكيبيديا] (https://en.wikipedia.org/wiki/System_Deployment_Image)
+* [صورة نشر النظام - بواسطة ويكيبيديا](https://en.wikipedia.org/wiki/System_Deployment_Image)
 
 

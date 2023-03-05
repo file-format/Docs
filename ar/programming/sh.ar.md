@@ -54,6 +54,6 @@ Hello World
 
 ## مراجع
 
-* [Bashscripting for Beginners] (https://help.ubuntu.com/community/Beginners/BashScripting)
-* [Shellscript] (https://www.shellscript.sh/)
+* [Bashscripting for Beginners](https://help.ubuntu.com/community/Beginners/BashScripting)
+* [Shellscript](https://www.shellscript.sh/)
 

@@ -19,7 +19,7 @@
 
 ## Mi az a TMVT fájl?
 
-A TMVT-fájl egy TimeMap-idővonal-táblázat-sablonfájl, amely előre meghatározott beállításokat tartalmaz a [TMV-fájlok] (/hu/spreadsheet/tmv/) létrehozásához. A TMV fájlokkal ellentétben a TMVT olyan beállításokat tartalmaz, mint a tényjelző stílusok, hátterek, címstílusok és léptékstílusok. A TMVT-fájlok megoszthatók a felhasználókkal, és újra felhasználhatók, hogy megtartsák ugyanazokat a beállításokat, és saját idővonal-fájlokat készítsenek az egységesség érdekében. Ezeket a [LexisNexis](https://www.lexisnexis.com/en-us/products/casemap.page) TimeMap szoftverével lehet megnyitni.
+A TMVT-fájl egy TimeMap-idővonal-táblázat-sablonfájl, amely előre meghatározott beállításokat tartalmaz a [TMV-fájlok](/hu/spreadsheet/tmv/) létrehozásához. A TMV fájlokkal ellentétben a TMVT olyan beállításokat tartalmaz, mint a tényjelző stílusok, hátterek, címstílusok és léptékstílusok. A TMVT-fájlok megoszthatók a felhasználókkal, és újra felhasználhatók, hogy megtartsák ugyanazokat a beállításokat, és saját idővonal-fájlokat készítsenek az egységesség érdekében. Ezeket a [LexisNexis](https://www.lexisnexis.com/en-us/products/casemap.page) TimeMap szoftverével lehet megnyitni.
 
 ## TMVT fájlformátum
 

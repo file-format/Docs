@@ -22,7 +22,7 @@ Un archivo con la extensión .hdml (Lenguaje de marcado de dispositivos portáti
 
 ## Formato de archivo HDML - Más información
 
-HDML es un lenguaje de marcado para dispositivos portátiles que se basa en etiquetas de marcado similares a HTML. HDML se envió al W3C para su estandarización, pero nunca se convirtió en un estándar. Sin embargo, sus especificaciones de formato de archivo están disponibles en el [sitio web de W3] (https://www.w3.org/TR/NOTE-Submission-HDML-spec.html) como referencia. La [sintaxis para lenguaje HDML](https://www.w3.org/TR/hdml20-5.html#HEADING5-0) está disponible para referencia del desarrollador y se puede usar para el desarrollo de aplicaciones de muestra.
+HDML es un lenguaje de marcado para dispositivos portátiles que se basa en etiquetas de marcado similares a HTML. HDML se envió al W3C para su estandarización, pero nunca se convirtió en un estándar. Sin embargo, sus especificaciones de formato de archivo están disponibles en el [sitio web de W3](https://www.w3.org/TR/NOTE-Submission-HDML-spec.html) como referencia. La [sintaxis para lenguaje HDML](https://www.w3.org/TR/hdml20-5.html#HEADING5-0) está disponible para referencia del desarrollador y se puede usar para el desarrollo de aplicaciones de muestra.
 
 ## Elementos HDML
 

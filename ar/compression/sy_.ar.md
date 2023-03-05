@@ -31,12 +31,12 @@ expand /i <source> [<destination>]
 expand /d <source>.cab [/f:<files>]
 expand <source>.cab /f:<files> <destination>
 ```
-عند توسيعها ، يتم تحويل ملفات SY_ إلى ملف [SYS] (https://docs.fileformat.com/system/sys/).
+عند توسيعها ، يتم تحويل ملفات SY_ إلى ملف [SYS](https://docs.fileformat.com/system/sys/).
 
 ملفات SY_ تشبه ملفات EX_ و DL_.
 
 ## مراجع
 
-* [StuffIt - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/StuffIt)
-* [Microsoft Expand] (https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
+* [StuffIt - بواسطة Wikipedia](https://en.wikipedia.org/wiki/StuffIt)
+* [Microsoft Expand](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
 

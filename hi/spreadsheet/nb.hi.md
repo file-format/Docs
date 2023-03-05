@@ -41,5 +41,5 @@
 
 ## संदर्भ
 
-* [गणित नोटबुक मूल बातें] (https://reference.wolfram.com/language/guide/NotebookBasics.html)
+* [गणित नोटबुक मूल बातें](https://reference.wolfram.com/language/guide/NotebookBasics.html)
 

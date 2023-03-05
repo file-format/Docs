@@ -31,7 +31,7 @@ FODG se basa en el formato de archivo XML de OpenDocument que cumple con OASIS O
 `<office:document-settings> ` - Configuración específica de la aplicación, como el tamaño de la ventana o la información de la impresora.
 
 ## Referencias ##
-* [Especificaciones futuras para la estandarización v 1.3] (https://docs.oasis-open.org/office/OpenDocument/v1.3/cs01/OpenDocument-v1.3-cs01.zip)
+* [Especificaciones futuras para la estandarización v 1.3](https://docs.oasis-open.org/office/OpenDocument/v1.3/cs01/OpenDocument-v1.3-cs01.zip)
 * [Formato de documento abierto de OASIS para aplicaciones de Office](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
 * [Formato OpenDocument - Wikipedia](https://en.wikipedia.org/wiki/OpenDocument)
 

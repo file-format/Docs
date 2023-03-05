@@ -23,7 +23,7 @@ PPSX, слайд-шоу Power Point, файлы создаются с испол
 
 ## Формат файла ##
 
-Файлы PPSX создаются в формате файлов Office OpenXML и имеют ту же структуру, что и PPTX. Основанный на сжатом формате файла XML, он соответствует спецификациям, изложенным в документе формата файла [MS-PPTX] (https://msdn.microsoft.com/en-us/library/dd926741(v#office.12).aspx). . Чтобы открыть файлы PPSX в редактируемом режиме, их необходимо открыть из Microsoft PowerPoint.
+Файлы PPSX создаются в формате файлов Office OpenXML и имеют ту же структуру, что и PPTX. Основанный на сжатом формате файла XML, он соответствует спецификациям, изложенным в документе формата файла [MS-PPTX](https://msdn.microsoft.com/en-us/library/dd926741(v#office.12).aspx). . Чтобы открыть файлы PPSX в редактируемом режиме, их необходимо открыть из Microsoft PowerPoint.
 
 Файлы PPSX сохраняются в формате Open XML, который был представлен в Microsoft Office 2007. Их можно открыть в PowerPoint 2007 или более поздней версии или в более ранних версиях PowerPoint с установленным компонентом Open XML. Полную информацию о формате файла PPSX можно найти в документе спецификаций MS-PPTX, который в равной степени относится и к PPS.
 
@@ -34,6 +34,6 @@ PPSX, слайд-шоу Power Point, файлы создаются с испол
 
 ## Использованная литература ##
 
-* [[MS-PPTX] — формат файла PPTX] (https://msdn.microsoft.com/en-us/library/dd926741(v#office.12).aspx)
-* [Open Office XML] (http://officeopenxml.com/anatomyofOOXML-pptx.php)
+* [[MS-PPTX] — формат файла PPTX](https://msdn.microsoft.com/en-us/library/dd926741(v#office.12).aspx)
+* [Open Office XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
 

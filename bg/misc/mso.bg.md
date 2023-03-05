@@ -18,7 +18,7 @@
 
 ## Какво е MSO файл?
 
-MSO файлът е файлов формат на контейнер за данни, който се създава, когато HTML съобщение се изпраща с помощта на Microsoft Outlook. Това се случва най-вече с приложенията на Microsoft Office 2000. В повечето случаи имейл съобщението е прикачено с име **Oledata.mso** файл. Получателят на имейл, когато отвори такъв имейл, може да прегледа файла правилно, дори и да няма инсталиран същия софтуер. MSO файловете се отнасят до [Microsoft Compound Document File Format (MCDF)] (https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/53989ce4-7b05-4f8d-829b-d08d6148375b).
+MSO файлът е файлов формат на контейнер за данни, който се създава, когато HTML съобщение се изпраща с помощта на Microsoft Outlook. Това се случва най-вече с приложенията на Microsoft Office 2000. В повечето случаи имейл съобщението е прикачено с име **Oledata.mso** файл. Получателят на имейл, когато отвори такъв имейл, може да прегледа файла правилно, дори и да няма инсталиран същия софтуер. MSO файловете се отнасят до [Microsoft Compound Document File Format (MCDF)](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/53989ce4-7b05-4f8d-829b-d08d6148375b).
 
 ## Microsoft MSO файлов формат
 

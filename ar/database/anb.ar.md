@@ -33,6 +33,6 @@
 
 ## مراجع
 
-* [دفتر ملاحظات IBM Security i2 Analyst] (https://www.ibm.com/products/i2-analysts-notebook)
-* [موقع المجلدات المحلية ومجموعات العمل لمواصفات الاستيراد والتنسيق الشرطي] (https://www.ibm.com/support/pages/node/3544449؟mhsrc=ibmsearch_a&mhq=ANB٪20file٪20format)
+* [دفتر ملاحظات IBM Security i2 Analyst](https://www.ibm.com/products/i2-analysts-notebook)
+* [موقع المجلدات المحلية ومجموعات العمل لمواصفات الاستيراد والتنسيق الشرطي](https://www.ibm.com/support/pages/node/3544449؟mhsrc=ibmsearch_a&mhq=ANB٪20file٪20format)
 

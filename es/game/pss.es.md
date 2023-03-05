@@ -28,5 +28,5 @@ Los PSS son archivos binarios cuyos detalles de formato de archivo interno no es
 
 ## Referencias
 
-* [Extracción de archivos de película PSS de Playstation 2] (https://www.youtube.com/watch?v=_4nlHBoLp3o)
+* [Extracción de archivos de película PSS de Playstation 2](https://www.youtube.com/watch?v=_4nlHBoLp3o)
 

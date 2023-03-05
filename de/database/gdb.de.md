@@ -52,7 +52,7 @@ Auf eine File-Geodatabase kann gleichzeitig von mehreren Benutzern zugegriffen w
 
 ## Spezifikationen des GDB-Dateiformats ##
 
-File GDB ist ein proprietäres Format von ESRI und seine Spezifikationen sind nicht öffentlich verfügbar. Aus diesem Grund konnten die Dateiformatdetails für FIle GDB nirgendwo anders dokumentiert werden als einige Quellen, die dies [teilweise] (https://github.com/rouault/dump_gdbtable/wiki/FGDB-Spec) durch Reverse Engineering getan haben .
+File GDB ist ein proprietäres Format von ESRI und seine Spezifikationen sind nicht öffentlich verfügbar. Aus diesem Grund konnten die Dateiformatdetails für FIle GDB nirgendwo anders dokumentiert werden als einige Quellen, die dies [teilweise](https://github.com/rouault/dump_gdbtable/wiki/FGDB-Spec) durch Reverse Engineering getan haben .
 
 ## Verweise ##
 

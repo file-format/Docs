@@ -27,6 +27,6 @@
 
 ## مراجع ##
 
-* [لماذا عندما أحفظ في Numbers ، يكون امتداد الملف هو .numbers-tef] (https://ifelix.co.uk/tech/iwork/numbers/numbers001.html)
+* [لماذا عندما أحفظ في Numbers ، يكون امتداد الملف هو .numbers-tef](https://ifelix.co.uk/tech/iwork/numbers/numbers001.html)
 
 

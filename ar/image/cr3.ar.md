@@ -23,7 +23,7 @@
 
 ## تنسيق ملف CR3
 
-يتم تخزين ملفات CR3 على قرص كملف ثنائي بتنسيق ملف وسائط قاعدة ISO (ISO / IEC 14496-12) ويتضمن أيضًا [علامات Canon] المخصصة (https://exiftool.org/TagNames/Canon.html#uuid). يتضمن أيضًا [برنامج ترميز Canon 'crx] (https://github.com/LibRaw/LibRaw/blob/master/src/decoders/crx.cpp) وهو مزيج من JPEG-LS (Rice-Golomb + RLE الترميز) و JPEG-2000 (LeGall 5/3 DWT + التقدير الكمي).
+يتم تخزين ملفات CR3 على قرص كملف ثنائي بتنسيق ملف وسائط قاعدة ISO (ISO / IEC 14496-12) ويتضمن أيضًا [علامات Canon] المخصصة (https://exiftool.org/TagNames/Canon.html#uuid). يتضمن أيضًا [برنامج ترميز Canon 'crx](https://github.com/LibRaw/LibRaw/blob/master/src/decoders/crx.cpp) وهو مزيج من JPEG-LS (Rice-Golomb + RLE الترميز) و JPEG-2000 (LeGall 5/3 DWT + التقدير الكمي).
 
 ## علامات مخصصة CR3
 
@@ -43,6 +43,6 @@
 
 ## مراجع
 
-* [تنسيق ملف CR2] (http://lclevy.free.fr/cr2/)
-* [علامات Canon] (https://exiftool.org/TagNames/Canon.html#uuid)
+* [تنسيق ملف CR2](http://lclevy.free.fr/cr2/)
+* [علامات Canon](https://exiftool.org/TagNames/Canon.html#uuid)
 

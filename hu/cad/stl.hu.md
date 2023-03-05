@@ -90,6 +90,6 @@ end
 
 ## Hivatkozások ##
 
-* [Az STL formátum] (http://www.fabbers.com/tech/STL_Format)
+* [Az STL formátum](http://www.fabbers.com/tech/STL_Format)
 * [STL – a Wikipedia által](https://en.wikipedia.org/wiki/STL_(file_format))
 

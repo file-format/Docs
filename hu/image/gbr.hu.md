@@ -19,7 +19,7 @@
 
 ## Mi az a GBR fájl?
 
-A .gbr kiterjesztésű fájl egy Gerber képfájl formátum a nyomtatott áramköri lapok (PCB) tervezési adatátviteléhez. Az Ucamco fejlesztette ki. A NYÁK-tervezési adatok a fő összetevő, amelyet a gyártási ipar igényel a kezeléshez. A GRB-fájl PCB-adatokat tartalmaz, például rézrétegeket, forrasztómaszkot, jelmagyarázatot, valamint fúrási és útvonaladatokat. Használható olyan adatok átvitelére, mint például a PCB gyártási jellemzői, beleértve a vastagságot vagy a kikészítést szabványos formátumban. Minden NYÁK-tervező rendszer Gerber-fájlokat ad ki, amelyeket a PCB-gyártó rendszerek kezelhetnek. A GBR fájlok mára a nyomtatott áramköri lapok (PCB) tervezési adatátvitelének de facto szabványává váltak. Az Ucamco [ingyenes online megjelenítőt] (https://gerber-viewer.ucamco.com/) biztosít a GBR fájlformátumok megnyitásához és megtekintéséhez.
+A .gbr kiterjesztésű fájl egy Gerber képfájl formátum a nyomtatott áramköri lapok (PCB) tervezési adatátviteléhez. Az Ucamco fejlesztette ki. A NYÁK-tervezési adatok a fő összetevő, amelyet a gyártási ipar igényel a kezeléshez. A GRB-fájl PCB-adatokat tartalmaz, például rézrétegeket, forrasztómaszkot, jelmagyarázatot, valamint fúrási és útvonaladatokat. Használható olyan adatok átvitelére, mint például a PCB gyártási jellemzői, beleértve a vastagságot vagy a kikészítést szabványos formátumban. Minden NYÁK-tervező rendszer Gerber-fájlokat ad ki, amelyeket a PCB-gyártó rendszerek kezelhetnek. A GBR fájlok mára a nyomtatott áramköri lapok (PCB) tervezési adatátvitelének de facto szabványává váltak. Az Ucamco [ingyenes online megjelenítőt](https://gerber-viewer.ucamco.com/) biztosít a GBR fájlformátumok megnyitásához és megtekintéséhez.
 
 ## GBR fájlformátum
 

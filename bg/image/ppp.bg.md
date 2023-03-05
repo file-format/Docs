@@ -32,5 +32,5 @@ PPP файловете се записват на диск като двоичн
 
 ## Препратки ##
 
-* [Софтуер за редактиране на снимки PhotoPad] (https://www.nchsoftware.com/photoeditor/index.html)
+* [Софтуер за редактиране на снимки PhotoPad](https://www.nchsoftware.com/photoeditor/index.html)
 

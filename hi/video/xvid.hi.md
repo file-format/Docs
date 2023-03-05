@@ -26,5 +26,5 @@ DivXNetworks ने प्रोजेक्ट मेयो के एक भ�
 
 ## संदर्भ ##
 
-- [Xvid - विकिपीडिया] (https://en.wikipedia.org/wiki/Xvid)
+- [Xvid - विकिपीडिया](https://en.wikipedia.org/wiki/Xvid)
 - [Xvid](https://www.xvid.com/)

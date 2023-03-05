@@ -31,6 +31,6 @@ PKR to pliki binarne, które są kompresowane w celu zmniejszenia ogólnego rozm
 
 ## Bibliografia
 
-* [Format pliku pakietu płaskiego] (http://s.sudre.free.fr/Stuff/Ivanhoe/FLAT.html)
+* [Format pliku pakietu płaskiego](http://s.sudre.free.fr/Stuff/Ivanhoe/FLAT.html)
 * [PKG - Wikipedia](https://en.wikipedia.org/wiki/.pkg)
 

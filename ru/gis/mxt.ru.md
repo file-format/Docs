@@ -27,5 +27,5 @@
 
 ## использованная литература
 
-* [Использование шаблонов MXD] (https://desktop.arcgis.com/en/arcmap/10.3/map/page-layouts/using-mxd-templates.htm)
+* [Использование шаблонов MXD](https://desktop.arcgis.com/en/arcmap/10.3/map/page-layouts/using-mxd-templates.htm)
 

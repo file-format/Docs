@@ -29,7 +29,7 @@ El flujo de datos descrito por DTSX es como se muestra en la siguiente imagen.
 
 {{< figure src="../DataFlowDTSX.png" alt="Flujo de datos DTSX" >}}
 
-DTSX está basado en [XML](/es/web/xml/) y está documentado en [MS-DTSX](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd). La refactorización mejorada de DTSX XML es DTSX 2.0 que incluye nuevos atributos para las estructuras, el reemplazo de propiedades con nombre como atributos XML principales, especifica valores predeterminados para la mayoría de los valores de atributos y la ubicación de elementos repetidos dentro de un elemento principal. Las estructuras DTSX se describen utilizando estos [esquemas XML] (https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1) y el formato estructural es XML de texto claro.
+DTSX está basado en [XML](/es/web/xml/) y está documentado en [MS-DTSX](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd). La refactorización mejorada de DTSX XML es DTSX 2.0 que incluye nuevos atributos para las estructuras, el reemplazo de propiedades con nombre como atributos XML principales, especifica valores predeterminados para la mayoría de los valores de atributos y la ubicación de elementos repetidos dentro de un elemento principal. Las estructuras DTSX se describen utilizando estos [esquemas XML](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1) y el formato estructural es XML de texto claro.
 
 ## Referencias
 

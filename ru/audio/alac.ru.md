@@ -40,7 +40,7 @@ lastmod: 2021-03-21
 
 ## использованная литература
 
-* [ALAC — Википедия] (https://en.wikipedia.org/wiki/Apple_Lossless)
-* [Аудиокодек Apple Lossless] (https://macosforge.github.io/alac/)
-* [macosforge — alac на GitHub] (https://github.com/macosforge/alac)
+* [ALAC — Википедия](https://en.wikipedia.org/wiki/Apple_Lossless)
+* [Аудиокодек Apple Lossless](https://macosforge.github.io/alac/)
+* [macosforge — alac на GitHub](https://github.com/macosforge/alac)
 

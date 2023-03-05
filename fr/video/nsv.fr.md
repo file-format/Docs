@@ -26,5 +26,5 @@ NSV est un format de fichier vidéo conteneur à la vapeur qui a été développ
 
 ## Références
 
-* [Vidéo NullSoft Stream - Wikipédia] (https://en.wikipedia.org/wiki/Nullsoft_Streaming_Video)
+* [Vidéo NullSoft Stream - Wikipédia](https://en.wikipedia.org/wiki/Nullsoft_Streaming_Video)
 

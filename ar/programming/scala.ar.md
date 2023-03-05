@@ -34,6 +34,6 @@
 
 ## مراجع
 
-* [وثائق سكالا] (https://www.scala-lang.org/documentation/)
-* [سكالا] (https://www.scala-lang.org/)
+* [وثائق سكالا](https://www.scala-lang.org/documentation/)
+* [سكالا](https://www.scala-lang.org/)
 

@@ -74,5 +74,5 @@ ExtremaBound: 30
 
 ## **Использованная литература**
 
-* [Формат файла SFD от FontForge] (https://fontforge.org/docs/techref/sfdformat.html)
+* [Формат файла SFD от FontForge](https://fontforge.org/docs/techref/sfdformat.html)
 

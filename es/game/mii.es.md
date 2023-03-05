@@ -21,7 +21,7 @@
 
 Un archivo MII es un formato de archivo de avatar virtual que se utiliza para almacenar avatares virtuales en la consola de juegos Nintendo Wii. Estos archivos contienen información como la apariencia, los movimientos y las animaciones del avatar. Se pueden usar en juegos, aplicaciones de redes sociales y otro software en la Wii. Un archivo MII también contiene otras características sobre el avatar, como el género, el color del cabello, el color de la piel, los rasgos faciales y el tipo de ojos.
 
-Puede abrir un archivo MII usando el [Editor de mi avatar] (https://rc24.xyz/goodies/mii/).
+Puede abrir un archivo MII usando el [Editor de mi avatar](https://rc24.xyz/goodies/mii/).
 
 ## Formato de archivo MII
 

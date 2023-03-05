@@ -19,7 +19,7 @@
 
 ## Czym jest plik XLSX?
 
-**XLSX** to dobrze znany format dokumentów programu Microsoft Excel, który został wprowadzony przez firmę Microsoft wraz z wydaniem pakietu Microsoft Office 2007. Oparty na strukturze zorganizowanej zgodnie z konwencjami Open Packaging, jak opisano w [Część 2] (https://www. .ecma-international.org/publications/standards/Ecma-376.htm) standardu OOXML ECMA-376, nowy format to pakiet ZIP zawierający pewną liczbę plików XML. Podstawową strukturę i pliki można sprawdzić, po prostu rozpakowując plik .xlsx.
+**XLSX** to dobrze znany format dokumentów programu Microsoft Excel, który został wprowadzony przez firmę Microsoft wraz z wydaniem pakietu Microsoft Office 2007. Oparty na strukturze zorganizowanej zgodnie z konwencjami Open Packaging, jak opisano w [Część 2](https://www. .ecma-international.org/publications/standards/Ecma-376.htm) standardu OOXML ECMA-376, nowy format to pakiet ZIP zawierający pewną liczbę plików XML. Podstawową strukturę i pliki można sprawdzić, po prostu rozpakowując plik .xlsx.
 
 ## Krótka historia formatu pliku XLSX
 

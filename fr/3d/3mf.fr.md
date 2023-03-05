@@ -67,6 +67,6 @@ Les [Pièces et relations](https://github.com/3MFConsortium/spec_core/blob/maste
 
 ## Références ##
 
-* [Spécifications du format de fichier 3MF] (https://github.com/3MFConsortium/spec_core)
+* [Spécifications du format de fichier 3MF](https://github.com/3MFConsortium/spec_core)
 * [3MF - Par Wikipédia](https://en.wikipedia.org/wiki/3D_Manufacturing_Format)
 

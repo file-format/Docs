@@ -55,6 +55,6 @@ Exe-файлы не используются в качестве исполня�
 
 ## использованная литература
 
-* [.exe — от Wikipewdia] (https://en.wikipedia.org/wiki/.exe)
+* [.exe — от Wikipewdia](https://en.wikipedia.org/wiki/.exe)
 * [Разборка x86/Исполняемые файлы Windows](https://en.wikibooks.org/wiki/X86_Disassembly/Windows_Executable_Files#MS-DOS_EXE_Files)
 

@@ -27,5 +27,5 @@ Les informations exactes sur le format de fichier DAP et ses spécifications ne 
 
 ## Références
 
-* [Bases de données Web Access 2010] (https://support.microsoft.com/en-us/office/access-2010-web-databases-roadmap-f778cc30-bfa3-4be4-bab2-55ef4b50e814)
+* [Bases de données Web Access 2010](https://support.microsoft.com/en-us/office/access-2010-web-databases-roadmap-f778cc30-bfa3-4be4-bab2-55ef4b50e814)
 

@@ -27,6 +27,6 @@ Les fichiers CSL sont enregistrés au format de fichier propriétaire CorelDRAW.
 
 ## Références
 
-* [Format de fichier CSL] (http://product.corel.com/help/CorelDRAW/540227992/Main/EN/Documentation/CorelDRAW-Corel-Symbol-Library-CSL.html#4433968)
+* [Format de fichier CSL](http://product.corel.com/help/CorelDRAW/540227992/Main/EN/Documentation/CorelDRAW-Corel-Symbol-Library-CSL.html#4433968)
 * [Gestion des collections et des bibliothèques](http://product.corel.com/help/CorelDRAW/540227992/Main/EN/Documentation/wwhelp/wwhimpl/common/html/wwhelp.htm#href=CorelDRAW-Managing-collections- and-libraries.html#1036562&single=true)
 

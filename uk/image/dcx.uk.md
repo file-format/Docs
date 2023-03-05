@@ -23,5 +23,5 @@
 ## Список літератури
 
 * [PCX - Вікіпедія](https://en.wikipedia.org/wiki/PCX)
-* [Технічний довідковий посібник із форматом файлу ZSoft PCX] (http://qzx.com/pc-gpe/pcx.txt)
+* [Технічний довідковий посібник із форматом файлу ZSoft PCX](http://qzx.com/pc-gpe/pcx.txt)
 

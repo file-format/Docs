@@ -93,5 +93,5 @@ DEL . DR
 ## संदर्भ
 
 * [बैच स्क्रिप्ट - क्विक गाइड](https://www.tutorialspoint.com/batch_script/batch_script_quick_guide.htm)
-* [बैच फ़ाइल - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/Batch_file)
+* [बैच फ़ाइल - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Batch_file)
 

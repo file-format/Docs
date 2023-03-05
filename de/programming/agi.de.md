@@ -47,5 +47,5 @@ AGI-Skripte können normalerweise in Perl, [PHP](/de/programming/php/), [C](/de/
 
 ## Verweise
 
-* [Asterisk AGI-Skript] (https://www.oreilly.com/library/view/asterisk-the-future/9780596510480/ch09.html)
+* [Asterisk AGI-Skript](https://www.oreilly.com/library/view/asterisk-the-future/9780596510480/ch09.html)
 

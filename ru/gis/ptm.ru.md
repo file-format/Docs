@@ -26,6 +26,6 @@
 
 ## Использованная литература ##
 
-* [Файл PTM] (https://social.microsoft.com/Forums/en-US/home?forum=streetsandtrips)
-* [Альтернативы MapPoint] (https://www.microsoft.com/en-us/maps/mappoint-alternatives)
+* [Файл PTM](https://social.microsoft.com/Forums/en-US/home?forum=streetsandtrips)
+* [Альтернативы MapPoint](https://www.microsoft.com/en-us/maps/mappoint-alternatives)
 

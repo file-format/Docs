@@ -19,7 +19,7 @@
 
 ## Mi az a DAP fájl?
 
-A .dap kiterjesztésű fájl egy Microsoft Access adatlapfájl, amely a Microsoft Accessen belül jön létre, és hozzáféréssel rendelkezik az adatbázisban tárolt adatokhoz. Az ilyen webfájlban tárolt adatok a hálózaton (intraneten és interneten) keresztül érhetők el, ami eltér az Access [MDB] (/hu/database/mdb/) fájljaitól, amelyeket kifejezetten asztali alkalmazásokhoz fejlesztettek ki. Ilyen adatbázisok az Access 2010 és az Access Services (a SharePoint opcionális összetevője) segítségével hozhatók létre. Ezeket az adatbázisokat azok használhatják, akik SharePoint-fiókkal rendelkeznek a webcím használatával a webböngészőben.
+A .dap kiterjesztésű fájl egy Microsoft Access adatlapfájl, amely a Microsoft Accessen belül jön létre, és hozzáféréssel rendelkezik az adatbázisban tárolt adatokhoz. Az ilyen webfájlban tárolt adatok a hálózaton (intraneten és interneten) keresztül érhetők el, ami eltér az Access [MDB](/hu/database/mdb/) fájljaitól, amelyeket kifejezetten asztali alkalmazásokhoz fejlesztettek ki. Ilyen adatbázisok az Access 2010 és az Access Services (a SharePoint opcionális összetevője) segítségével hozhatók létre. Ezeket az adatbázisokat azok használhatják, akik SharePoint-fiókkal rendelkeznek a webcím használatával a webböngészőben.
 
 ## DAP fájlformátum
 

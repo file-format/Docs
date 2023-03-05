@@ -88,5 +88,5 @@ MP3 عبارة عن تنسيق ضغط مع فقد يعني أنه قد يقطع 
 
 ## مراجع ##
 
-- [FLAC - ويكيبيديا] (https://en.wikipedia.org/wiki/FLAC)
+- [FLAC - ويكيبيديا](https://en.wikipedia.org/wiki/FLAC)
 

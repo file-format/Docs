@@ -42,7 +42,7 @@ X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on ******.*********.***
 X-Spam-Level:
 X-Spam-Status: No, score#-3.2 required#4.2 tests#BAYES_00,RP_MATCHES_RCVD,
         SPF_PASS,TVD_SPACE_RATIO autolearn#ham version#3.3.2
-Received: from [127.0.0.1] (******.*********.*** [***.**.**.**])
+Received: from [127.0.0.1](******.*********.*** [***.**.**.**])
         by ******.*********.*** (8.14.5/8.14.5) with ESMTP id r2TN8m4U099571
         for <****@*********.***>; Fri, 29 Mar 2013 19:08:48 -0400 (EDT)
         (envelope-from ****@*********.***)

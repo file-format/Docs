@@ -49,5 +49,5 @@ Les systèmes d'exploitation suivants prennent en charge le contenu HEIF :
 
 * [HEIF - Wikipédia](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format)
 * [Informations HEIF de Nokia Technologies](https://nokiatech.github.io/heif/)
-* [Code source HEIF Reader/Writer sur GitHub] (https://github.com/nokiatech/heif)
+* [Code source HEIF Reader/Writer sur GitHub](https://github.com/nokiatech/heif)
 

@@ -36,7 +36,7 @@
 
 ## использованная литература
 
-* [Дружественные форматы файлов для вашего Kindle Paperwhite] (https://www.dummies.com/consumer-electronics/tablets/kindle/friendly-file-formats-for-your-kindle-paperwhite/)
+* [Дружественные форматы файлов для вашего Kindle Paperwhite](https://www.dummies.com/consumer-electronics/tablets/kindle/friendly-file-formats-for-your-kindle-paperwhite/)
 
 
 

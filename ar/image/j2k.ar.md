@@ -68,5 +68,5 @@
 * المعلومات المكانية الجانبية للقناة
 
 ## مراجع ##
-* [داود توبمان ؛ مايكل مارسيلين (2012)] (https://books.google.com/books؟id=y7HeBwAAQBAJ&pg=PA402)
+* [داود توبمان ؛ مايكل مارسيلين (2012)](https://books.google.com/books؟id=y7HeBwAAQBAJ&pg=PA402)
 

@@ -19,5 +19,5 @@ lastmod: 2022-05-18
 
 ## مراجع ##
 
-- [JS - ويكيبيديا] (https://en.wikipedia.org/wiki/JavaScript)
+- [JS - ويكيبيديا](https://en.wikipedia.org/wiki/JavaScript)
 

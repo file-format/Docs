@@ -27,5 +27,5 @@ ADN — это файлы шаблонов баз данных, которые �
 
 ## использованная литература
 
-* [Microsoft Access — какой формат доступа следует использовать?] (https://support.microsoft.com/en-us/office/what-access-file-format-should-i-use-012d9ab3-d14c-479e- b617-be66f9070b41)
+* [Microsoft Access — какой формат доступа следует использовать?](https://support.microsoft.com/en-us/office/what-access-file-format-should-i-use-012d9ab3-d14c-479e- b617-be66f9070b41)
 

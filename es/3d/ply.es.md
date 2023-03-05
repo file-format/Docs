@@ -123,6 +123,6 @@ Esto significa que la propiedad "vertex_index" contiene primero un carácter sin
 
 ## Referencias ##
 
-* [Formato de archivo PLY] (http://paulbourke.net/dataformats/ply/)
+* [Formato de archivo PLY](http://paulbourke.net/dataformats/ply/)
 * [PLY - Por Wikipedia](https://en.wikipedia.org/wiki/PLY_(file_format))
 

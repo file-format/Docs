@@ -26,6 +26,6 @@ SBN файловете се съхраняват на диск като двои
 
 ## Препратки
 
-* [Техническо описание на ESRI ShapeFile] (http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf)
+* [Техническо описание на ESRI ShapeFile](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf)
 * [ESRI ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 

@@ -44,5 +44,5 @@
 
 ## مراجع ##
 
-* [Keynote - Wikipedia] (https://en.wikipedia.org/wiki/Keynote_ (Present_software))
+* [Keynote - Wikipedia](https://en.wikipedia.org/wiki/Keynote_ (Present_software))
 

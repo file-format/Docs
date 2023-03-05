@@ -38,5 +38,5 @@ Sims 3 — игра-симулятор жизни от Electronic Arts (EA), п�
 
 ## использованная литература
 
-* [Sims 3 — от EA Sports] (https://www.ea.com/games/the-sims)
+* [Sims 3 — от EA Sports](https://www.ea.com/games/the-sims)
 

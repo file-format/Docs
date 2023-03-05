@@ -20,7 +20,7 @@ A RealAudio (RA) a Real Networks, Inc. által kifejlesztett és 1995 áprilisáb
 
 ## Fájlkiterjesztés a RealNetworks által ##
 
-A RealNetworks az RA fájlformátumot használta a hanghoz. A RealNetworks 1997-ben kezdte el kínálni a videoformátumot ([RealVideo](/hu/video/rv/)) .rv kiterjesztéssel. A [RealMedia (RM)](/hu/video/rm/) hang- és videoformátumok kombinálására szolgált. A RealProduce (Real kódolója) legújabb kiadásában az RV formátumot használják a videofájlokhoz, és a [RealMedia Variable Bitrate (RMVB)] (/hu/video/rmvb/) formátumot a VBR (Variable Bitrate) videofájlokhoz.
+A RealNetworks az RA fájlformátumot használta a hanghoz. A RealNetworks 1997-ben kezdte el kínálni a videoformátumot ([RealVideo](/hu/video/rv/)) .rv kiterjesztéssel. A [RealMedia (RM)](/hu/video/rm/) hang- és videoformátumok kombinálására szolgált. A RealProduce (Real kódolója) legújabb kiadásában az RV formátumot használják a videofájlokhoz, és a [RealMedia Variable Bitrate (RMVB)](/hu/video/rmvb/) formátumot a VBR (Variable Bitrate) videofájlokhoz.
 
 ## Streaming audio ##
 

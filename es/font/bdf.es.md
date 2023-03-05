@@ -70,6 +70,6 @@ ENDFONT
 
 
 ## Referencias
-* [Formato de distribución de mapa de bits de glifo] (https://en.wikipedia.org/wiki/Glyph_Bitmap_Distribution_Format)
+* [Formato de distribución de mapa de bits de glifo](https://en.wikipedia.org/wiki/Glyph_Bitmap_Distribution_Format)
 * [Especificación del formato de distribución de mapa de bits (BDF) de glifo](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5005.BDF_Spec.pdf)
 

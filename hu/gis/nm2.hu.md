@@ -22,7 +22,7 @@ Az .nm2 kiterjesztésű fájl egy Navitel navigációs rendszerrel létrehozott 
 
 ## NM2 fájlformátum - További információ
 
-Az NM2 fájlok bináris fájlként kerülnek mentésre, és belső fájlformátumuk/adatstruktúrájuk nem elérhető nyilvánosan. A Navitel legújabb verziói .nm7 fájlként mentik az adatokat. Számos térképfájl érhető el a Navitel [webhelyén] (https://www.navitel.cz/en/downloads/demo). A [Navitel dokumentációja](https://www.navitel.cz/en/downloads/documentation) teljes körű felhasználói útmutatót tartalmaz a navigációs rendszer különböző típusú eszközök és járművek esetén történő használatáról.
+Az NM2 fájlok bináris fájlként kerülnek mentésre, és belső fájlformátumuk/adatstruktúrájuk nem elérhető nyilvánosan. A Navitel legújabb verziói .nm7 fájlként mentik az adatokat. Számos térképfájl érhető el a Navitel [webhelyén](https://www.navitel.cz/en/downloads/demo). A [Navitel dokumentációja](https://www.navitel.cz/en/downloads/documentation) teljes körű felhasználói útmutatót tartalmaz a navigációs rendszer különböző típusú eszközök és járművek esetén történő használatáról.
 
 ## Hivatkozások
 

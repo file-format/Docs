@@ -95,6 +95,6 @@ HDC CreateEnhMetaFileExample(
 
 ## Использованная литература ##
 
-* [Метафайлы расширенного формата | Документы Microsoft] (https://docs.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
-* [Расширенный формат метафайла и спецификация] (https://msdn.microsoft.com/en-us/library/cc230514.aspx)
+* [Метафайлы расширенного формата | Документы Microsoft](https://docs.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
+* [Расширенный формат метафайла и спецификация](https://msdn.microsoft.com/en-us/library/cc230514.aspx)
 

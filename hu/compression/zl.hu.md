@@ -19,7 +19,7 @@
 
 ## Mi az a ZL fájl?
 
-A .zl kiterjesztésű fájl egy ZLIP tömörített fájlformátum, amely a DEFLATE tömörítési algoritmus egy változatát használja a fájlok tömörítésére. Független a CPU típusától, az operációs rendszertől, a fájlrendszertől és a karakterkészlettől, ezért használható információcserére. A ZLIP-tömörítés műszaki specifikációi az [IETF webhelyen] (https://tools.ietf.org/html/rfc1950) érhetők el, és a fejlesztők szemszögéből is hivatkozhatnak rájuk.
+A .zl kiterjesztésű fájl egy ZLIP tömörített fájlformátum, amely a DEFLATE tömörítési algoritmus egy változatát használja a fájlok tömörítésére. Független a CPU típusától, az operációs rendszertől, a fájlrendszertől és a karakterkészlettől, ezért használható információcserére. A ZLIP-tömörítés műszaki specifikációi az [IETF webhelyen](https://tools.ietf.org/html/rfc1950) érhetők el, és a fejlesztők szemszögéből is hivatkozhatnak rájuk.
 
 ## ZL fájl formátum
 

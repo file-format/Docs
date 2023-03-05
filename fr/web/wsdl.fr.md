@@ -61,5 +61,5 @@ Dans cet exemple, le portType "glossaryTerms" définit une opération unidirecti
 ## Références
 
 * [WSDL XML](https://www.w3schools.com/xml/xml_wsdl.asp)
-* [Spécifications du format de fichier WSDL] (https://www.w3.org/TR/2007/REC-wsdl20-20070626/)
+* [Spécifications du format de fichier WSDL](https://www.w3.org/TR/2007/REC-wsdl20-20070626/)
 

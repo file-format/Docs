@@ -27,5 +27,5 @@ Opus هو تنسيق ملف صوتي تم إنشاؤه بواسطة مؤسسة X
 
 ## مراجع ##
 
-* [OPUS - By Wikipedia] (https://en.wikipedia.org/wiki/Opus_ (audio_format))
+* [OPUS - By Wikipedia](https://en.wikipedia.org/wiki/Opus_ (audio_format))
 

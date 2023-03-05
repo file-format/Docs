@@ -83,5 +83,5 @@ void MyClass::add(int i, int j) {
 
 ## مراجع
 
-* [تنفيذ الفصل - بواسطة ويكيبيديا] (https://en.wikipedia.org/wiki/Class_implementation_file)
+* [تنفيذ الفصل - بواسطة ويكيبيديا](https://en.wikipedia.org/wiki/Class_implementation_file)
 

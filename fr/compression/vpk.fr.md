@@ -44,10 +44,10 @@ vpk x <vpkfile> <filename1> <filename2> ...
 
 ## Lecteur VPK
 
-* [Visionneuse VRF VPK] (https://github.com/SteamDatabase/ValveResourceFormat)
+* [Visionneuse VRF VPK](https://github.com/SteamDatabase/ValveResourceFormat)
 
 ## Références
 
-* [Format de fichier VPK] (https://developer.valvesoftware.com/wiki/VPK_File_Format)
-* [Fichiers VPK] (https://developer.valvesoftware.com/wiki/VPK)
+* [Format de fichier VPK](https://developer.valvesoftware.com/wiki/VPK_File_Format)
+* [Fichiers VPK](https://developer.valvesoftware.com/wiki/VPK)
 

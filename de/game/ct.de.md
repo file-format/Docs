@@ -19,7 +19,7 @@
 
 ## Was ist eine CT-Datei?
 
-Eine CT-Datei ist eine Cheat-Tabellendatei, die mit der Software [Cheat Engine] (https://www.cheatengine.org/) erstellt wurde und zum Erstellen von Modifikationen an Windows-basierten Spielen zum Schummeln verwendet wird. Die Cheat Engine, eine Open-Source-Cheat-Engine, untersucht die ausgeführten Spiele und zeichnet ihre Adressen auf. Diese Informationen und ihre Überschreibungen werden in die CT-Datei geschrieben, die dann von Spielern geladen wird, um Spieleigenschaften wie Gesundheitspunktzahl, höchste Punktzahl und verbleibende Leben zu ändern.
+Eine CT-Datei ist eine Cheat-Tabellendatei, die mit der Software [Cheat Engine](https://www.cheatengine.org/) erstellt wurde und zum Erstellen von Modifikationen an Windows-basierten Spielen zum Schummeln verwendet wird. Die Cheat Engine, eine Open-Source-Cheat-Engine, untersucht die ausgeführten Spiele und zeichnet ihre Adressen auf. Diese Informationen und ihre Überschreibungen werden in die CT-Datei geschrieben, die dann von Spielern geladen wird, um Spieleigenschaften wie Gesundheitspunktzahl, höchste Punktzahl und verbleibende Leben zu ändern.
 
 ## Cheat Engine CT-Dateiformat
 

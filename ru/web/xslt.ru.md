@@ -62,6 +62,6 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 ```
 ## Использованная литература ##
 
-* [XSLT — Википедия] (https://en.wikipedia.org/wiki/XSLT)
-* [Элементы XSLT] (https://en.wikipedia.org/wiki/XSLT_elements)
+* [XSLT — Википедия](https://en.wikipedia.org/wiki/XSLT)
+* [Элементы XSLT](https://en.wikipedia.org/wiki/XSLT_elements)
 

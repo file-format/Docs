@@ -23,7 +23,7 @@ Soubor AML je systémový soubor vytvořený pomocí jazyka ACPI (Advanced Confi
 
 ## Formát souboru ACPI AML
 
-Soubory AML se ukládají jako binární soubory na disk s obsahem zapsaným v bajtovém kódu. Specifikace formátu souboru standardu ACPI jsou k dispozici na [uefi] (https://uefi.org/node/735). Jazyk byl navržen tak, aby nabízel stabilitu a zpětnou kompatibilitu a vyžadoval méně přepisování nebo přestavování aplikačního zásobníku.
+Soubory AML se ukládají jako binární soubory na disk s obsahem zapsaným v bajtovém kódu. Specifikace formátu souboru standardu ACPI jsou k dispozici na [uefi](https://uefi.org/node/735). Jazyk byl navržen tak, aby nabízel stabilitu a zpětnou kompatibilitu a vyžadoval méně přepisování nebo přestavování aplikačního zásobníku.
 
 ## Specifikace formátu souboru AML
 

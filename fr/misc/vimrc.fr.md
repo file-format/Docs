@@ -27,6 +27,6 @@ Les fichiers VIMRC sont enregistrés sous forme de fichiers texte brut et peuven
 
 ## Références
 
-* [Guide VIMRC] (https://gist.github.com/simonista/8703722)
+* [Guide VIMRC](https://gist.github.com/simonista/8703722)
 * [VIMRC](https://github.com/amix/vimrc)
 

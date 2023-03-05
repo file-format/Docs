@@ -32,5 +32,5 @@ FOMOD फाइल को डबल क्लिक करके इंस्ट
 ## संदर्भ
 
 * [FOMOD फ़ाइल स्वरूप](https://wiki.nexusmods.com/index.php/Installing_A_Mod_With_FOMM)
-* [वीडियो गेम मोडिंग] (https://en.wikipedia.org/wiki/Video_game_modding)
+* [वीडियो गेम मोडिंग](https://en.wikipedia.org/wiki/Video_game_modding)
 

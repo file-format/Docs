@@ -19,10 +19,10 @@
 
 ## Was ist eine FCS-Datei?
 
-Eine FCS-Datei ist eine Tabellenkalkulationsdatei, die mit der PFS:First Choice-Software erstellt wurde, die eine Office-Suite ist, die aus einem Textverarbeitungsprogramm, einer Tabellenkalkulation, Grafiken, einer Datenbank und Telekommunikation besteht. FCS steht für First Choice Spreadsheet und kann mit PFS: First Choice Suite für DOS von [Software Publishing Corporation] (https://en.wikipedia.org/wiki/Software_Publishing_Corporation) geöffnet werden.
+Eine FCS-Datei ist eine Tabellenkalkulationsdatei, die mit der PFS:First Choice-Software erstellt wurde, die eine Office-Suite ist, die aus einem Textverarbeitungsprogramm, einer Tabellenkalkulation, Grafiken, einer Datenbank und Telekommunikation besteht. FCS steht für First Choice Spreadsheet und kann mit PFS: First Choice Suite für DOS von [Software Publishing Corporation](https://en.wikipedia.org/wiki/Software_Publishing_Corporation) geöffnet werden.
 
 ## Verweise
 
 * [PFD:Erste Wahl](http://justsolve.archiveteam.org/wiki/PFS:Erste_Wahl)
-* [Software Publishing Corporation] (https://en.wikipedia.org/wiki/Software_Publishing_Corporation)
+* [Software Publishing Corporation](https://en.wikipedia.org/wiki/Software_Publishing_Corporation)
 

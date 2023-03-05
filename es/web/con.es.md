@@ -36,5 +36,5 @@ concept://domain.server.com/web_application/main.con.
 ```
 ## Referencias
 
-* [Servidor de aplicaciones conceptuales] (https://github.com/Devronium/ConceptApplicationServer)
+* [Servidor de aplicaciones conceptuales](https://github.com/Devronium/ConceptApplicationServer)
 

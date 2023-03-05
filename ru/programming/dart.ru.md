@@ -126,5 +126,5 @@ void main() {
 ## Использованная литература ##
 
 - [Dart (язык программирования) - Wikipedia](https://en.wikipedia.org/wiki/Dart_(programming_language))
-- [Дарт] (https://dart.dev/)
+- [Дарт](https://dart.dev/)
 

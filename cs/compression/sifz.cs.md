@@ -18,7 +18,7 @@
 
 ## Co je soubor SIFZ?
 
-Soubor SIFZ je komprimovaný soubor SIF gzip vytvořený open source aplikací pro vytváření 2D animací **Synfig Studio**. Obsahuje několik grafických prvků, které tvoří animaci. Celkový obsah animace je vytvořen pomocí kombinace plátna, které je vyplněno tvary, tahy štětcem nebo tužkou a textem. Všechny tyto jsou uspořádány ve svých vlastních polohách, úchopech poloměru, tečny, úhlu, vrcholu a šířky. Soubory SIFZ lze otevřít pomocí [Synfig Studio] (https://www.synfig.org/).
+Soubor SIFZ je komprimovaný soubor SIF gzip vytvořený open source aplikací pro vytváření 2D animací **Synfig Studio**. Obsahuje několik grafických prvků, které tvoří animaci. Celkový obsah animace je vytvořen pomocí kombinace plátna, které je vyplněno tvary, tahy štětcem nebo tužkou a textem. Všechny tyto jsou uspořádány ve svých vlastních polohách, úchopech poloměru, tečny, úhlu, vrcholu a šířky. Soubory SIFZ lze otevřít pomocí [Synfig Studio](https://www.synfig.org/).
 
 ## Formát souboru SIFZ
 

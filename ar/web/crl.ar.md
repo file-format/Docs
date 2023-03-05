@@ -38,7 +38,7 @@
 
 ## مراجع
 
-* [المعهد الوطني للمعايير والتكنولوجيا (NIST)] (https://csrc.nist.gov/glossary/term/CRL)
-* [فريق مهام هندسة الإنترنت (IETF) RFC 5280] (https://tools.ietf.org/html/rfc5280)
-* [قائمة إبطال الشهادات] (https://en.wikipedia.org/wiki/Certificate_revocation_list)
+* [المعهد الوطني للمعايير والتكنولوجيا (NIST)](https://csrc.nist.gov/glossary/term/CRL)
+* [فريق مهام هندسة الإنترنت (IETF) RFC 5280](https://tools.ietf.org/html/rfc5280)
+* [قائمة إبطال الشهادات](https://en.wikipedia.org/wiki/Certificate_revocation_list)
 

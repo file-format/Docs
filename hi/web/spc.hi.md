@@ -25,5 +25,5 @@ lastmod: 2021-09-30
 ## संदर्भ
 
 * [पीकेसीएस 7](https://en.wikipedia.org/wiki/PKCS_7)
-* [एसएसपी संदर्भ] (https://scalate.github.io/scalate/documentation/ssp-reference.html)
+* [एसएसपी संदर्भ](https://scalate.github.io/scalate/documentation/ssp-reference.html)
 

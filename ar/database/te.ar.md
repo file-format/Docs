@@ -28,12 +28,12 @@
 
 * نص
 * رقم
-* [صورة] (/ar/ صورة /)
+* [صورة](/ar/ صورة /)
 * لون
 * التاريخ (اليوم / الشهر / السنة)
 * عملة
 
 ## مراجع ##
 
-* [Textease Database CT Guide] (https://products.conholdate.app/viewer/view/8MPsb0m0GyulEw3GO/textease-database-ct-guide.pdf؟preview=true.pdf)
+* [Textease Database CT Guide](https://products.conholdate.app/viewer/view/8MPsb0m0GyulEw3GO/textease-database-ct-guide.pdf؟preview=true.pdf)
 

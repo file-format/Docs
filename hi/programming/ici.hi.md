@@ -66,7 +66,7 @@ forall (colour in [array "red", "green", "blue"])
 
 ## संदर्भ ##
 
-* [आईसीआई प्रोग्रामिंग भाषा] (http://atrn.org/ici/doc/ici.html)
+* [आईसीआई प्रोग्रामिंग भाषा](http://atrn.org/ici/doc/ici.html)
 
 
 

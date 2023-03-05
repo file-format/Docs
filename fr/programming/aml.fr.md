@@ -54,7 +54,7 @@ Les fichiers MAML peuvent être créés à l'aide de Sandcastle, une suite de sc
 
 * [Créer une aide basée sur XML à l'aide de PlatyPS
 ](https://docs.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
-* [Langage de balisage Microsoft Assistance] (https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
+* [Langage de balisage Microsoft Assistance](https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
 
 # AML - Fichier de langage macro Arc
 
@@ -68,6 +68,6 @@ AML, étant des fichiers de script, enregistrez les informations sur le disque s
 
 ## Références
 
-* [Langage macro ARC] (https://en.wikipedia.org/wiki/ARC_Macro_Language)
+* [Langage macro ARC](https://en.wikipedia.org/wiki/ARC_Macro_Language)
 * [Utilisation d'AML avec des outils de script](https://desktop.arcgis.com/en/arcmap/latest/analyze/creating-tools/using-amls-with-script-tools.htm)
 

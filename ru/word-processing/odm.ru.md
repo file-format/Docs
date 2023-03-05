@@ -28,6 +28,6 @@
 
 ## использованная литература
 
-* [Главные документы] (https://wiki.openoffice.org/wiki/Documentation/UserGuide/Writer/MasterDoc)
+* [Главные документы](https://wiki.openoffice.org/wiki/Documentation/UserGuide/Writer/MasterDoc)
 * [Создание одного файла из главного документа и его вложенных документов](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Writer_Guide/Creating_one_file_from_a_master_document)
 

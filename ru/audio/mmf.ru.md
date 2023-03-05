@@ -54,5 +54,5 @@ struct SMAF_Header
 
 ## использованная литература
 
-* [ММФ - По Википедии] (https://en.wikipedia.org/wiki/Synthetic_music_mobile_application_format)
+* [ММФ - По Википедии](https://en.wikipedia.org/wiki/Synthetic_music_mobile_application_format)
 

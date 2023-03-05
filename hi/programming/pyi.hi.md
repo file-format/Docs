@@ -23,6 +23,6 @@ PYI फाइलें सादे पाठ फ़ाइलों के र�
 
 ## संदर्भ ##
 
-* [इंटरफेस - जावा] (https://en.wikipedia.org/wiki/Interface_(Java))
-* [PYM दुभाषिए] (https://github.com/interpreters/pym)
+* [इंटरफेस - जावा](https://en.wikipedia.org/wiki/Interface_(Java))
+* [PYM दुभाषिए](https://github.com/interpreters/pym)
 

@@ -29,10 +29,10 @@
 
 {{< figure src="../DataFlowDTSX.png" alt="تدفق البيانات DTSX" >}}
 
-DTSX مستند إلى [XML] (/ar/ web / xml /) - وموثق في [MS-DTSX] (https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd). إعادة هيكلة DTSX XML المحسّنة هي DTSX 2.0 التي تتضمن سمات جديدة للهياكل ، واستبدال الخصائص المسماة كسمات XML الأصل ، وتحديد الإعدادات الافتراضية لمعظم قيم السمات ، ووضع العناصر المكررة داخل العنصر الأصل. يتم وصف هياكل DTSX باستخدام [مخططات XML] (https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1) والتنسيق الهيكلي هو XML للنص celar.
+DTSX مستند إلى [XML](/ar/ web / xml /) - وموثق في [MS-DTSX](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd). إعادة هيكلة DTSX XML المحسّنة هي DTSX 2.0 التي تتضمن سمات جديدة للهياكل ، واستبدال الخصائص المسماة كسمات XML الأصل ، وتحديد الإعدادات الافتراضية لمعظم قيم السمات ، ووضع العناصر المكررة داخل العنصر الأصل. يتم وصف هياكل DTSX باستخدام [مخططات XML](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1) والتنسيق الهيكلي هو XML للنص celar.
 
 ## مراجع
 
-* [تنسيق DTSX - Microsoft] (https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd)
-* [تنسيق DTSX 2 - بواسطة Microsoft] (https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx2/fb216aa4-62ab-41c8-a6d5-5b1002739d21)
+* [تنسيق DTSX - Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd)
+* [تنسيق DTSX 2 - بواسطة Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx2/fb216aa4-62ab-41c8-a6d5-5b1002739d21)
 

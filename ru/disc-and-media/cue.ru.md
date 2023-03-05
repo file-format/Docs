@@ -77,5 +77,5 @@ FILE "Faithless - Live in Berlin.mp3" MP3
 ```
 ## использованная литература
 
-* [Файл .cda - По Википедии] (https://en.wikipedia.org/wiki/.cda_file)
+* [Файл .cda - По Википедии](https://en.wikipedia.org/wiki/.cda_file)
 

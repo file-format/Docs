@@ -27,5 +27,5 @@ CSS के प्रारूप में LESS फाइलें बनाई 
 ## संदर्भ
 
 * [लीनर स्टाइल शीट्स](https://lesscss.org/)
-* [लीनर स्टाइल शीट्स डॉक्स - जीथब] (https://github.com/less/less-docs)
+* [लीनर स्टाइल शीट्स डॉक्स - जीथब](https://github.com/less/less-docs)
 

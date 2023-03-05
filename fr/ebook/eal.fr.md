@@ -27,6 +27,6 @@ Le fichier .EAL est un fichier xml qui comprend les données des clients qui ont
 
 ## Références ##
 
-* [Format de fichier Kindle - par Wikipedia] (https://en.wikipedia.org/wiki/Kindle_File_Format)
+* [Format de fichier Kindle - par Wikipedia](https://en.wikipedia.org/wiki/Kindle_File_Format)
 
 

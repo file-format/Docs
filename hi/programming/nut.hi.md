@@ -94,7 +94,7 @@ class BaseVector {
 
 ## संदर्भ ##
 
-* [एनयूटी - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/Squirrel_(programming_language))
+* [एनयूटी - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Squirrel_(programming_language))
 
 
 

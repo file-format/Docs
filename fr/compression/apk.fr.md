@@ -49,5 +49,5 @@ Suivre ces étapes lancera l'installation de l'application sur votre appareil.
 
 ## Références
 
-* [Format de fichier APK] (https://en.wikipedia.org/wiki/Android_application_package)
+* [Format de fichier APK](https://en.wikipedia.org/wiki/Android_application_package)
 

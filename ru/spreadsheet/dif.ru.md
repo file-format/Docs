@@ -105,5 +105,5 @@ EOD
 
 ## Использованная литература ##
 
-* [DIF - Википедия] (https://en.wikipedia.org/wiki/Data_Interchange_Format)
+* [DIF - Википедия](https://en.wikipedia.org/wiki/Data_Interchange_Format)
 

@@ -82,6 +82,6 @@ Les données de relocalisation sont une ou plusieurs listes de structures de 0x8
 ## Références
 
 
-* [Format de module d'objet relocalisable] (https://en.wikipedia.org/wiki/Relocatable_Object_Module_Format)
+* [Format de module d'objet relocalisable](https://en.wikipedia.org/wiki/Relocatable_Object_Module_Format)
 
 

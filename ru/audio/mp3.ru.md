@@ -53,5 +53,5 @@
 
 ## Использованная литература ##
 
-* [MP3 — Википедия] (https://en.wikipedia.org/wiki/MP3)
+* [MP3 — Википедия](https://en.wikipedia.org/wiki/MP3)
 

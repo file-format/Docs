@@ -24,6 +24,6 @@ lastmod: 2022-05-09
 
 ## использованная литература
 
-* [Вики-сайт Python] (https://wiki.python.org/moin/Pyrex)
+* [Вики-сайт Python](https://wiki.python.org/moin/Pyrex)
 * [Python (язык программирования) - Википедия](https://en.wikipedia.org/wiki/Python_(programming_language))
 

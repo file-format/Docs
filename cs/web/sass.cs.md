@@ -24,7 +24,7 @@ Sass je opravdu užitečný při udržování stylů, protože poskytuje mnoho f
 
 ## Jak používat soubory SASS ##
 
-Soubory SASS nejsou obsaženy přímo v dokumentu [HTML](/cs/web/html/), ale jsou spíše převedeny na soubory CSS, které jsou součástí souborů HTML. Sass svého systému můžete nainstalovat podle pokynů uvedených na [oficiální stránce Sass] (https://sass-lang.com/install).
+Soubory SASS nejsou obsaženy přímo v dokumentu [HTML](/cs/web/html/), ale jsou spíše převedeny na soubory CSS, které jsou součástí souborů HTML. Sass svého systému můžete nainstalovat podle pokynů uvedených na [oficiální stránce Sass](https://sass-lang.com/install).
 
 Sass lze převést na CSS buď převodem již uloženého souboru SASS, nebo sledováním změn a převodem při ukládání souboru. Příkazy pro oba jsou uvedeny níže.
 

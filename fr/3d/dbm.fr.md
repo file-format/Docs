@@ -29,6 +29,6 @@ Les fichiers DBM sont enregistrés sur le disque au format de fichier [XML](/fr/
 
 ## Références
 
-* [Extensions de fichiers DAZ 3D] (http://docs.daz3d.com/doku.php/public/software/dazstudio/4/referenceguide/tech_articles/file_extensions/start)
-* [Forums DAZ 3D] (https://www.daz3d.com/forums/)
+* [Extensions de fichiers DAZ 3D](http://docs.daz3d.com/doku.php/public/software/dazstudio/4/referenceguide/tech_articles/file_extensions/start)
+* [Forums DAZ 3D](https://www.daz3d.com/forums/)
 

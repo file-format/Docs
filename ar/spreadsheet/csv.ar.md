@@ -29,7 +29,7 @@
 
 * 1978 - تم دعم المدخلات / المخرجات الموجهة بالقائمة بواسطة FORTRAN 77 التي تستخدم الفواصل والمسافات للمحددات
 
-* 2005 - تم توحيد CSV باستخدام [RFC4180] (https://tools.ietf.org/html/rfc4180) كنوع محتوى MIME.
+* 2005 - تم توحيد CSV باستخدام [RFC4180](https://tools.ietf.org/html/rfc4180) كنوع محتوى MIME.
 
 * 2013 - تمت معالجة أوجه القصور في RFC4180 من خلال توصية W3C
 
@@ -37,11 +37,11 @@
 
 ## تحويل ملفات CSV ##
 
-يمكن تحويل ملفات CSV إلى العديد من تنسيقات الملفات المختلفة باستخدام التطبيقات التي يمكنها فتح هذه الملفات. على سبيل المثال ، يمكن لـ Microsoft Excel استيراد البيانات من تنسيق ملف CSV وحفظها في XLS ، [XLSX] (/ar/ spreadsheet / xlsx /) ، [PDF] (/ar/ pdf /) ، [TXT] (/ar/ معالجة الكلمات / txt /) وتنسيقات ملفات XML و [HTML] (/ar/ web / html /). وبالمثل ، توفر خدمات سطح المكتب والخدمات الأخرى عبر الإنترنت القدرة على تصدير ملفات CSV إلى HTML و ODS و [RTF] (/ar/ معالجة الكلمات / rtf /).
+يمكن تحويل ملفات CSV إلى العديد من تنسيقات الملفات المختلفة باستخدام التطبيقات التي يمكنها فتح هذه الملفات. على سبيل المثال ، يمكن لـ Microsoft Excel استيراد البيانات من تنسيق ملف CSV وحفظها في XLS ، [XLSX](/ar/ spreadsheet / xlsx /) ، [PDF](/ar/ pdf /) ، [TXT](/ar/ معالجة الكلمات / txt /) وتنسيقات ملفات XML و [HTML](/ar/ web / html /). وبالمثل ، توفر خدمات سطح المكتب والخدمات الأخرى عبر الإنترنت القدرة على تصدير ملفات CSV إلى HTML و ODS و [RTF](/ar/ معالجة الكلمات / rtf /).
 
 ## تنسيق ملف CSV ##
 
-من المعروف أن تنسيق ملف CSV محدد ضمن [RFC4180] (https://tools.ietf.org/html/rfc4180). يحدد أي ملف ليكون متوافقًا مع CSV إذا:
+من المعروف أن تنسيق ملف CSV محدد ضمن [RFC4180](https://tools.ietf.org/html/rfc4180). يحدد أي ملف ليكون متوافقًا مع CSV إذا:
 
 * يقع كل سجل في سطر منفصل ، محددًا بفاصل أسطر (CRLF). فمثلا:
 * aaa ، bbb ، ccc CRLF
@@ -69,7 +69,7 @@
 
 ## مراجع
 
-* [RFC 4180] (https://tools.ietf.org/html/rfc4180)
-* [RFC 2048] (https://tools.ietf.org/html/rfc2048)
-* [CSV - Wikipedia] (https://en.wikipedia.org/wiki/Comma-separated_values)
+* [RFC 4180](https://tools.ietf.org/html/rfc4180)
+* [RFC 2048](https://tools.ietf.org/html/rfc2048)
+* [CSV - Wikipedia](https://en.wikipedia.org/wiki/Comma-separated_values)
 

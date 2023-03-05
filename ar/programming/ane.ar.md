@@ -20,7 +20,7 @@
 
 ## ما هو ملف ANE؟
 
-ملف ANE هو ملف Adobe Air Native Extension يستخدمه المطورون لكتابة وظائف معينة تستدعي كود [Adobe ActionScript] (https://en.wikipedia.org/wiki/ActionScript). في معظم الحالات ، تحتوي ملفات ANE على مكتبة التعليمات البرمجية الأصلية التي يستخدمها الامتداد. ومع ذلك ، يتم تثبيت الملف نفسه على الجهاز. يسمح بوظائف محددة للنظام مثل اهتزاز الجهاز. يجب تجميع تطبيقات Adobe AIR لاستخدام الارتباط الديناميكي لاستخدام ملف ANE.
+ملف ANE هو ملف Adobe Air Native Extension يستخدمه المطورون لكتابة وظائف معينة تستدعي كود [Adobe ActionScript](https://en.wikipedia.org/wiki/ActionScript). في معظم الحالات ، تحتوي ملفات ANE على مكتبة التعليمات البرمجية الأصلية التي يستخدمها الامتداد. ومع ذلك ، يتم تثبيت الملف نفسه على الجهاز. يسمح بوظائف محددة للنظام مثل اهتزاز الجهاز. يجب تجميع تطبيقات Adobe AIR لاستخدام الارتباط الديناميكي لاستخدام ملف ANE.
 
 ## تنسيق ملف ANE - مزيد من المعلومات
 
@@ -28,6 +28,6 @@
 
 ## مراجع
 
-* [Adobe ActionScript] (https://en.wikipedia.org/wiki/ActionScript)
-* [استخدام الامتدادات الأصلية لـ Adobe AIR] (https://help.adobe.com/en_US/air/build/WS597e5dadb9cc1e0253f7d2fc1311b491071-8000.html)
+* [Adobe ActionScript](https://en.wikipedia.org/wiki/ActionScript)
+* [استخدام الامتدادات الأصلية لـ Adobe AIR](https://help.adobe.com/en_US/air/build/WS597e5dadb9cc1e0253f7d2fc1311b491071-8000.html)
 

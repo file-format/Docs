@@ -32,7 +32,7 @@
 * تم إصدار Swift 3.0 في 13 سبتمبر 2016.
 * تم إصدار Swift 4.0 في 19 سبتمبر 2017.
 * تم إصدار Swift 4.1 في 29 مارس 2018.
-* كانت لغة Swift مفتوحة المصدر في 3 ديسمبر 2015 جنبًا إلى جنب مع المكتبات الداعمة ومصحح الأخطاء ومدير الحزم بموجب ترخيص Apache 2.0. تمت استضافة المشروع على [Swift.org] (https://swift.org/) ويتم استضافة كود المصدر الخاص به على [GitHub] (https://github.com/apple/swift).
+* كانت لغة Swift مفتوحة المصدر في 3 ديسمبر 2015 جنبًا إلى جنب مع المكتبات الداعمة ومصحح الأخطاء ومدير الحزم بموجب ترخيص Apache 2.0. تمت استضافة المشروع على [Swift.org](https://swift.org/) ويتم استضافة كود المصدر الخاص به على [GitHub](https://github.com/apple/swift).
 * خلال WWDC 2019 ، أعلنت Apple عن إطار عمل SwiftUI لتصميم هيكل واجهة المستخدم عبر جميع منصات Apple
 
 ## تنسيق ملف سريع - مزيد من المعلومات
@@ -54,6 +54,6 @@
 "المصدر المفتوح" - Swift مفتوح المصدر مع مئات المساهمات من أعضاء مجتمع Swift. إنه مدعوم بمتعقب أخطاء قوي ومنتديات وإنشاءات تطوير منتظمة متاحة للجمهور للجميع.
 
 ## مراجع
-* [Swift - GitHub] (https://github.com/apple/swift)
-* [سويفت - ويكيبيديا] (https://en.wikipedia.org/wiki/Swift_ (architecture_language))
+* [Swift - GitHub](https://github.com/apple/swift)
+* [سويفت - ويكيبيديا](https://en.wikipedia.org/wiki/Swift_ (architecture_language))
 

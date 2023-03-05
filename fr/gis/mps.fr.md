@@ -29,9 +29,9 @@ La structure de fichier interne du format de fichier MPS n'est pas connue car el
 Certaines applications SIG peuvent être utilisées comme alternative à MapPoint.
 
 * [RouteSavvy](https://www.routesavvy.com/)
-* [Territoire facile] (https://www.easyterritory.com/)
+* [Territoire facile](https://www.easyterritory.com/)
 
 ## Références
 
-* [Top Graphic EasyGPS] (https://www.easygps.com/)
+* [Top Graphic EasyGPS](https://www.easygps.com/)
 

@@ -31,5 +31,5 @@ MapSource больше не поддерживается Garmin и был зам
 
 ## Использованная литература ##
 
-* [MapSource — Википедия] (https://wiki.openstreetmap.org/wiki/MapSource)
+* [MapSource — Википедия](https://wiki.openstreetmap.org/wiki/MapSource)
 

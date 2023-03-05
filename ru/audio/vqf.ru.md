@@ -28,5 +28,5 @@ Yamaha продавала этот аудиокодек сжатия как ал
 
 ## использованная литература
 
-* [TwinVQ — из Википедии] (https://en.wikipedia.org/wiki/TwinVQ)
+* [TwinVQ — из Википедии](https://en.wikipedia.org/wiki/TwinVQ)
 

@@ -27,5 +27,5 @@ SVGZ, будучи сжатым [SVG](/ru/page-description-language/svg/), ос�
 
 ## использованная литература
 
-* [SVGZ из Википедии] (https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Compression)
+* [SVGZ из Википедии](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Compression)
 

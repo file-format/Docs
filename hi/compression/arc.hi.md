@@ -77,5 +77,5 @@ EOF
 
 ## संदर्भ
 
-- [एआरसी (फ़ाइल प्रारूप) - विकिपीडिया] (https://en.wikipedia.org/wiki/ARC_(file_format))
+- [एआरसी (फ़ाइल प्रारूप) - विकिपीडिया](https://en.wikipedia.org/wiki/ARC_(file_format))
 

@@ -27,6 +27,6 @@ Les fichiers OSB sont stockés sous forme de fichiers texte brut sur le disque d
 
 ## Références
 
-* [OSU ! Jeu de rythme] (https://osu.ppy.sh/home)
+* [OSU ! Jeu de rythme](https://osu.ppy.sh/home)
 * [Storyboard - Osu!](https://osu.ppy.sh/wiki/en/Storyboard)
 

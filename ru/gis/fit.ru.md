@@ -47,11 +47,11 @@
 
 ## Полезные ресурсы FIT-файла
 
-* [Расшифровка файлов действий FIT] (https://developer.garmin.com/fit/cookbook/decoding-activity-files/)
-* [Кодирование файлов активности FIT] (https://developer.garmin.com/fit/cookbook/encoding-activity-files/)
+* [Расшифровка файлов действий FIT](https://developer.garmin.com/fit/cookbook/decoding-activity-files/)
+* [Кодирование файлов активности FIT](https://developer.garmin.com/fit/cookbook/encoding-activity-files/)
  
 
 ## Использованная литература ##
 
-* [Файл активности FIT] (https://developer.garmin.com/fit/file-types/activity/)
+* [Файл активности FIT](https://developer.garmin.com/fit/file-types/activity/)
 

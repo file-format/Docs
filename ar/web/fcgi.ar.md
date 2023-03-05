@@ -26,5 +26,5 @@
 
 ## مراجع
 
-* [Fast CGI] (https://metacpan.org/pod/FCGI)
+* [Fast CGI](https://metacpan.org/pod/FCGI)
 

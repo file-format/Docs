@@ -64,5 +64,5 @@ abcFile
 
 ## مراجع
 
-* [Robust ABC (ActionScript Bytecode) [Dis-] Assembler - Github] (https://github.com/CyberShadow/RABCDAsm)
+* [Robust ABC (ActionScript Bytecode) [Dis-] Assembler - Github](https://github.com/CyberShadow/RABCDAsm)
 

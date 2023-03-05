@@ -79,7 +79,7 @@ fn main() {
 
 ## संदर्भ ##
 
-* [RS - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/Rust_(programming_language))
+* [RS - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Rust_(programming_language))
 
 
 

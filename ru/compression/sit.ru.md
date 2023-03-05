@@ -27,6 +27,6 @@
 
 ## использованная литература
 
-* [StuffIt — Википедия] (https://en.wikipedia.org/wiki/StuffIt)
-* [StuffIt] (https://stuffit.com/)
+* [StuffIt — Википедия](https://en.wikipedia.org/wiki/StuffIt)
+* [StuffIt](https://stuffit.com/)
 

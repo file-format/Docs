@@ -29,7 +29,7 @@
 
 ## Как открыть файлы PAK?
 
-Вы можете открывать файлы PAK с помощью таких приложений, как [PakExplorer] (https://www.quaketerminus.com/tools.shtml) и [SpriteExplorer] (http://www.slackiller.com/hlprograms.htm).
+Вы можете открывать файлы PAK с помощью таких приложений, как [PakExplorer](https://www.quaketerminus.com/tools.shtml) и [SpriteExplorer](http://www.slackiller.com/hlprograms.htm).
 
 **------------------------------------------------ -------------------------------------------------- -----------------------**
 

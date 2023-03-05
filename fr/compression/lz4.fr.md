@@ -63,6 +63,6 @@ Le Content_Checksum vérifie la validité du contenu décodé correctement et es
 
 ## Références
 
-* [Format de trame LZ4] (https://github.com/lz4/lz4/blob/dev/doc/lz4_Frame_format.md)
+* [Format de trame LZ4](https://github.com/lz4/lz4/blob/dev/doc/lz4_Frame_format.md)
 * [Algorithme de compression LZ4 - Wikipédia](https://en.wikipedia.org/wiki/LZ4_(compression_algorithm))
 

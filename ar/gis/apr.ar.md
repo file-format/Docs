@@ -18,7 +18,7 @@
 
 ## ما هو ملف APR؟
 
-الملف بامتداد .apr هو ملف مشروع ESRI ArcView يحتوي على معلومات المشروع لمشروع ESRI. تم استخدام هذه بواسطة ArcView 3.x ولا يتم دعمها بواسطة الإصدارات الجديدة (9.x و 10.x) من ArcGIS. ومع ذلك ، يمكن لبرنامج ArcView 10 استيراد ملفات APR. ArcView هو نظام معلومات جغرافية (GIS) يُستخدم لإنشاء البيانات الجغرافية وتصورها وتحليلها وإدارتها. هناك تنسيقات ملفات أخرى تستخدمها ESRI لتخزين البيانات مثل ESRI ShapeFile ([.shp] (/ar/ gis / shp /)). يمكن فتح ملفات APR باستخدام أي محرر نصوص مثل Microsoft Notepad و Notepad ++.
+الملف بامتداد .apr هو ملف مشروع ESRI ArcView يحتوي على معلومات المشروع لمشروع ESRI. تم استخدام هذه بواسطة ArcView 3.x ولا يتم دعمها بواسطة الإصدارات الجديدة (9.x و 10.x) من ArcGIS. ومع ذلك ، يمكن لبرنامج ArcView 10 استيراد ملفات APR. ArcView هو نظام معلومات جغرافية (GIS) يُستخدم لإنشاء البيانات الجغرافية وتصورها وتحليلها وإدارتها. هناك تنسيقات ملفات أخرى تستخدمها ESRI لتخزين البيانات مثل ESRI ShapeFile ([.shp](/ar/ gis / shp /)). يمكن فتح ملفات APR باستخدام أي محرر نصوص مثل Microsoft Notepad و Notepad ++.
 
 ## تنسيق ملف أبريل - مزيد من المعلومات
 
@@ -26,6 +26,6 @@
 
 ## مراجع ##
 
-* [ESRI ArcGIS Pro] (https://fileinfo.com/software/esri/arcgis_for_desktop)
-* [تنسيق ملف أبريل - معهد ماساتشوستس للتكنولوجيا] (http://kb.mit.edu/confluence/pages/viewpage.action؟pageId=11338198)
+* [ESRI ArcGIS Pro](https://fileinfo.com/software/esri/arcgis_for_desktop)
+* [تنسيق ملف أبريل - معهد ماساتشوستس للتكنولوجيا](http://kb.mit.edu/confluence/pages/viewpage.action؟pageId=11338198)
 

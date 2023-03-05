@@ -45,5 +45,5 @@ lastmod: 2020-03-12
 
 ## संदर्भ
 
-- [3जीपी - विकिपीडिया] (https://en.wikipedia.org/wiki/3GP_and_3G2)
+- [3जीपी - विकिपीडिया](https://en.wikipedia.org/wiki/3GP_and_3G2)
 

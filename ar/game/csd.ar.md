@@ -50,5 +50,5 @@
 
 ## مراجع
 
-* [استخدام ميزة Steam Backup] (https://help.steampowered.com/en/faqs/view/4593-5CB7-DC3C-64F0)
+* [استخدام ميزة Steam Backup](https://help.steampowered.com/en/faqs/view/4593-5CB7-DC3C-64F0)
 

@@ -34,5 +34,5 @@ Le logiciel Sony Themes Creator peut être utilisé pour générer de nouveaux t
 
 ## Références
 
-* [Guide du développeur Sony Themes Creator] (https://developer.sony.com/develop/theme-creator/get-started)
+* [Guide du développeur Sony Themes Creator](https://developer.sony.com/develop/theme-creator/get-started)
 

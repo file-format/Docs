@@ -23,7 +23,7 @@ Eine Datei mit der Erweiterung .drawio ist eine Zeichnungsdatei, die mit draw.io
 
 ## DRAWIO-Dateiformat
 
-DRAWIO-Dateien sind Vektorbilddateien, die im Standard-XML-Dateiformat gespeichert sind. Es wurde von diagrams.net entwickelt und bietet die Möglichkeit, Diagramminformationen ähnlich wie Microsoft Visio zu speichern. DrawIO ist als [Online-App] (https://app.diagrams.net/) verfügbar, um Diagramme zu erstellen, zu öffnen und in verschiedene Formate zu exportieren. Die App basiert auf der mxGraph-Diagrammbibliothek, die interaktive Diagramm- und Diagrammanwendungen bereitstellt, die in allen gängigen Browsern wie Chrome, Firefox, Edge und Safari ausgeführt werden können.
+DRAWIO-Dateien sind Vektorbilddateien, die im Standard-XML-Dateiformat gespeichert sind. Es wurde von diagrams.net entwickelt und bietet die Möglichkeit, Diagramminformationen ähnlich wie Microsoft Visio zu speichern. DrawIO ist als [Online-App](https://app.diagrams.net/) verfügbar, um Diagramme zu erstellen, zu öffnen und in verschiedene Formate zu exportieren. Die App basiert auf der mxGraph-Diagrammbibliothek, die interaktive Diagramm- und Diagrammanwendungen bereitstellt, die in allen gängigen Browsern wie Chrome, Firefox, Edge und Safari ausgeführt werden können.
 
 ### DRAWIO-Beispiel
 

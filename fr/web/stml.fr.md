@@ -23,7 +23,7 @@ Un fichier avec l'extension .stml est une page Web avec des instructions côté 
 
 ## Format de fichier STML
 
-STML est basé sur un format de fichier texte ascii simple lisible par l'homme. Cependant, il suit la syntaxe telle que définie et exercée à l'aide des [commandes SSI] (https://www.w3.org/Jigsaw/Doc/User/SSI.html) qui sont exécutées côté serveur. Comme tout autre langage de script côté serveur, STML peut utiliser les commandes côté serveur pour effectuer des tâches telles que le compteur de visiteurs de la page, le calendrier de la page Web, la récupération des enregistrements de la base de données, etc.
+STML est basé sur un format de fichier texte ascii simple lisible par l'homme. Cependant, il suit la syntaxe telle que définie et exercée à l'aide des [commandes SSI](https://www.w3.org/Jigsaw/Doc/User/SSI.html) qui sont exécutées côté serveur. Comme tout autre langage de script côté serveur, STML peut utiliser les commandes côté serveur pour effectuer des tâches telles que le compteur de visiteurs de la page, le calendrier de la page Web, la récupération des enregistrements de la base de données, etc.
 
 ## Exemple STML
 
@@ -65,5 +65,5 @@ Les instructions côté serveur sont utilisées dans des applications telles que
 ```
 ## Références
 
-* [Côté serveur inclut] (https://en.wikipedia.org/wiki/Server_Side_Includes)
+* [Côté serveur inclut](https://en.wikipedia.org/wiki/Server_Side_Includes)
 

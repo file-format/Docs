@@ -27,5 +27,5 @@ Les fichiers DEK sont stockés sous forme de fichiers texte brut multilignes au 
 
 ## Références
 
-* [Magic : les formats de rassemblement] (https://en.wikipedia.org/wiki/Magic:_The_Gathering_formats)
+* [Magic : les formats de rassemblement](https://en.wikipedia.org/wiki/Magic:_The_Gathering_formats)
 

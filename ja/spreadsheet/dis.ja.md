@@ -19,11 +19,11 @@
 
 ## .DIS ファイル拡張子
 
-DIS ファイルは、クエリ、レポート、およびOracle データベースのデータ分析。 Oracle Discovererからデータをエクスポートすると、複数のワークシートが含まれます。オラクルは、[Oracle Fusion Middleware] (https://docs.oracle.com/cd/E28280_01/bi.1111/b40108/toc) の一部で機能するレポートと分析に使用されるビジネス インテリジェンス (BI) 製品として Discoverer を販売しています。 .htm) スイート。デフォルトでは、Oracle Discoverer はレポート データを DIS ファイル形式で保存しません。
+DIS ファイルは、クエリ、レポート、およびOracle データベースのデータ分析。 Oracle Discovererからデータをエクスポートすると、複数のワークシートが含まれます。オラクルは、[Oracle Fusion Middleware](https://docs.oracle.com/cd/E28280_01/bi.1111/b40108/toc) の一部で機能するレポートと分析に使用されるビジネス インテリジェンス (BI) 製品として Discoverer を販売しています。 .htm) スイート。デフォルトでは、Oracle Discoverer はレポート データを DIS ファイル形式で保存しません。
 
 ## Discoverer ワークブックを DIS 形式でダウンロードする方法を教えてください。
 
-Oracle Discoverer ワークブックはバイナリ形式でデータベースに保存され、[DIS ファイル] (https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-discoverer) としてダウンロードすることはできません。 -workbooks-to-my-computer) を直接。ただし、データを EEX ファイルとしてエクスポートし、Discoverer Desktop で開き、[名前を付けて保存] オプションを使用して EEX ファイルを DIS ファイルとして保存できます。
+Oracle Discoverer ワークブックはバイナリ形式でデータベースに保存され、[DIS ファイル](https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-discoverer) としてダウンロードすることはできません。 -workbooks-to-my-computer) を直接。ただし、データを EEX ファイルとしてエクスポートし、Discoverer Desktop で開き、[名前を付けて保存] オプションを使用して EEX ファイルを DIS ファイルとして保存できます。
 
 ## DIS ファイル形式 - 詳細情報
 

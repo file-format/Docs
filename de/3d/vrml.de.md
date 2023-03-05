@@ -22,7 +22,7 @@ Die Virtual Reality Modeling Language (VRML) ist ein Dateiformat zur Darstellung
 
 ## VRML-Dateiformat
 
-VRML ist ein Textdateiformat, das Informationen wie Eckpunkte und Kanten eines 3D-Polygons zusammen mit Informationen wie Oberflächenfarbe, UV-zugeordnete Texturen, Glanz, Transparenz usw. angibt. Es hat die Fähigkeit, statische und animierte Objekte darzustellen, zusätzlich zu Hyperlinks zu anderen Medien wie Ton, Filmen und Bildern. Dies ermöglicht das Öffnen von Hyperlink-Elementen, wenn der Benutzer auf diese Objekte klickt. TVRML-Dateien werden in der allgemeinen Terminologie "Welten" genannt und haben die Erweiterung .wrl. Die Textnatur dieser Dateien ermöglicht es, die Dateigröße mithilfe von Komprimierungsformaten wie gzip zu reduzieren, was sie für eine schnelle Übertragung über das Internet günstiger macht. Die Dateiformatspezifikationen für [VRML v 2.0] (http://gun.teipir.gr/VRML-amgem/spec/index.html) dienen als Referenz für Entwickler zum Erstellen von Anwendungen, die zum Lesen/Schreiben dieser Dateien kompatibel sind.
+VRML ist ein Textdateiformat, das Informationen wie Eckpunkte und Kanten eines 3D-Polygons zusammen mit Informationen wie Oberflächenfarbe, UV-zugeordnete Texturen, Glanz, Transparenz usw. angibt. Es hat die Fähigkeit, statische und animierte Objekte darzustellen, zusätzlich zu Hyperlinks zu anderen Medien wie Ton, Filmen und Bildern. Dies ermöglicht das Öffnen von Hyperlink-Elementen, wenn der Benutzer auf diese Objekte klickt. TVRML-Dateien werden in der allgemeinen Terminologie "Welten" genannt und haben die Erweiterung .wrl. Die Textnatur dieser Dateien ermöglicht es, die Dateigröße mithilfe von Komprimierungsformaten wie gzip zu reduzieren, was sie für eine schnelle Übertragung über das Internet günstiger macht. Die Dateiformatspezifikationen für [VRML v 2.0](http://gun.teipir.gr/VRML-amgem/spec/index.html) dienen als Referenz für Entwickler zum Erstellen von Anwendungen, die zum Lesen/Schreiben dieser Dateien kompatibel sind.
 
 ## Entwurfskriterium ##
 
@@ -43,5 +43,5 @@ Das Ziel und Design von VRML dreht sich um die folgenden Anforderungen.
 ## Verweise ##
 
 * [VRML – von Wikipedia](https://en.wikipedia.org/wiki/VRML)
-* [VRML v 2.0-Dateiformatspezifikationen] (http://gun.teipir.gr/VRML-amgem/spec/index.html)
+* [VRML v 2.0-Dateiformatspezifikationen](http://gun.teipir.gr/VRML-amgem/spec/index.html)
 

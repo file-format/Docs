@@ -37,6 +37,6 @@
 
 ## использованная литература
 
-* [SketchUp] (https://www.sketchup.com/)
-* [API SketchUp C#] (https://github.com/moethu/SketchUpNET)
+* [SketchUp](https://www.sketchup.com/)
+* [API SketchUp C#](https://github.com/moethu/SketchUpNET)
 

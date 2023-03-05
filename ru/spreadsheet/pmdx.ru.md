@@ -19,7 +19,7 @@
 
 ## .PMDX вариант №
 
-Файл PMDX представляет собой документ электронной таблицы, созданный с помощью последней версии [PlanMaker] (https://www.softmaker.de/softmaker-office-planmaker), программного обеспечения, входящего в состав SoftMaker Office. Он хранит данные в ячейках в виде строк и столбцов. Каждая ячейка может содержать строку, числа, формулы или другие форматированные данные. Файлы PMDX заменили файлы старой версии [PMD](/ru/spreadsheet/pmd/) обновлением PlanMaker. XLSX — это стандартный формат файлов, поддерживаемый PlanMaker и не требующий преобразования при открытии этих файлов в Microsoft Excel. PlanMaker также поддерживает работу с файлами [XLS](/ru/spreadsheet/xls/) и конвертирует их в другие форматы, такие как [PDF](/ru/pdf/).
+Файл PMDX представляет собой документ электронной таблицы, созданный с помощью последней версии [PlanMaker](https://www.softmaker.de/softmaker-office-planmaker), программного обеспечения, входящего в состав SoftMaker Office. Он хранит данные в ячейках в виде строк и столбцов. Каждая ячейка может содержать строку, числа, формулы или другие форматированные данные. Файлы PMDX заменили файлы старой версии [PMD](/ru/spreadsheet/pmd/) обновлением PlanMaker. XLSX — это стандартный формат файлов, поддерживаемый PlanMaker и не требующий преобразования при открытии этих файлов в Microsoft Excel. PlanMaker также поддерживает работу с файлами [XLS](/ru/spreadsheet/xls/) и конвертирует их в другие форматы, такие как [PDF](/ru/pdf/).
 
 ## Формат файла PMDX
 
@@ -27,5 +27,5 @@
 
 ## Использованная литература ##
 
-* [SoftMaker Office — planMaker] (https://www.softmaker.de/softmaker-office-planmaker)
+* [SoftMaker Office — planMaker](https://www.softmaker.de/softmaker-office-planmaker)
 

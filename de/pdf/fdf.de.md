@@ -22,7 +22,7 @@ Eine FDF-Datei (**Forms Data Format**) ist ein Textdokument, das durch Exportier
 
 ## FDF-Dateiformat – Weitere Informationen
 
-FDF ist ein Nur-Text-Format und ist Teil des [ISO 32000-Standards] (https://www.iso.org/standard/51502.html) für Portable Document Format. Es wurde von Adobe entwickelt, um den Import und Export von Daten aus Acrobat Forms oder AcroForms zu ermöglichen.
+FDF ist ein Nur-Text-Format und ist Teil des [ISO 32000-Standards](https://www.iso.org/standard/51502.html) für Portable Document Format. Es wurde von Adobe entwickelt, um den Import und Export von Daten aus Acrobat Forms oder AcroForms zu ermöglichen.
 
 Es gibt zwei Arten von FDF-Dateien:
 

@@ -33,7 +33,7 @@ Az XLS-t a Microsoft a Microsoft Excellel való használatra készítette, és B
 
 ## XLS fájlformátum specifikációi ##
 
-Az adatok XLS-fájlban vannak elrendezve bináris adatfolyamként összetett fájl formájában, az [MS-CFB]-ben leírtak szerint. Az adatok tárolása az összetett fájlban tárolók, adatfolyamok és alfolyamok használatával történik, amelyek a munkafüzet tartalmáról és szerkezetéről tartalmaznak információkat, beleértve a munkafüzetadatokat, például a munkalap-definíciókat. Minden adatfolyam vagy alfolyam bináris rekordok sorozatát tartalmazza. Minden bináris rekord nulla vagy több strukturált mezőt tartalmaz, amelyek a munkafüzet adatait tartalmazzák. Ez a rész rövid áttekintést ad az XLS fájlszerkezetről, de a részletes fájlformátum-specifikációkért olvassa el az [XLS fájlformázási specifikációkat] (https://msdn.microsoft.com/en-us/library/cc313154(v#office). .12).aspx) dokumentumot a Microsoft.
+Az adatok XLS-fájlban vannak elrendezve bináris adatfolyamként összetett fájl formájában, az [MS-CFB]-ben leírtak szerint. Az adatok tárolása az összetett fájlban tárolók, adatfolyamok és alfolyamok használatával történik, amelyek a munkafüzet tartalmáról és szerkezetéről tartalmaznak információkat, beleértve a munkafüzetadatokat, például a munkalap-definíciókat. Minden adatfolyam vagy alfolyam bináris rekordok sorozatát tartalmazza. Minden bináris rekord nulla vagy több strukturált mezőt tartalmaz, amelyek a munkafüzet adatait tartalmazzák. Ez a rész rövid áttekintést ad az XLS fájlszerkezetről, de a részletes fájlformátum-specifikációkért olvassa el az [XLS fájlformázási specifikációkat](https://msdn.microsoft.com/en-us/library/cc313154(v#office). .12).aspx) dokumentumot a Microsoft.
 
 #### Stream és alfolyam ####
 

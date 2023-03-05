@@ -112,7 +112,7 @@ PDF सामग्री स्ट्रीम में उपयोग कि
 
 ## संदर्भ ##
 
-* [पीडीएफ फाइल प्रारूप: मूल संरचना] (https://resources.infosecinstitute.com/pdf-file-format-basic-structure/)
-* [पीडीएफ - विकिपीडिया] (https://en.wikipedia.org/wiki/PDF)
+* [पीडीएफ फाइल प्रारूप: मूल संरचना](https://resources.infosecinstitute.com/pdf-file-format-basic-structure/)
+* [पीडीएफ - विकिपीडिया](https://en.wikipedia.org/wiki/PDF)
 * [पीडीएफ संदर्भ - एडोब](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 

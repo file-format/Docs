@@ -23,7 +23,7 @@
 
 ## Спецификации формата файла манифеста
 
-[Спецификации формата файла манифеста] (https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html) доступны Oracle в их руководстве по формату файла JAR. Файл манифеста состоит из основных разделов, за которыми следует список разделов для отдельных записей файла JAR. Каждый раздел следует некоторым правилам и ограничениям.
+[Спецификации формата файла манифеста](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html) доступны Oracle в их руководстве по формату файла JAR. Файл манифеста состоит из основных разделов, за которыми следует список разделов для отдельных записей файла JAR. Каждый раздел следует некоторым правилам и ограничениям.
 
 ### Основные разделы
 
@@ -55,6 +55,6 @@
 
 ## использованная литература
 
-* [Oracle — формат файла JAR] (https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html)
+* [Oracle — формат файла JAR](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html)
 * [Формат файла JAR](https://en.wikipedia.org/wiki/JAR_(file_format)#:~:text=A%20JAR%20(Java%20ARchive)%20is,into%20one%20file%20for% 20distribution.&text=Они%20построены%20на%20расширении%20,jar%20file%20.)
 

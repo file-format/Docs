@@ -68,5 +68,5 @@ La arquitectura de esquema de datos de IFC define cuatro capas conceptuales, cad
 
 ## Referencias ##
 
-* [Clases fundamentales de la industria: por Wikipedia] (https://en.wikipedia.org/wiki/Industry_Foundation_Classes)
+* [Clases fundamentales de la industria: por Wikipedia](https://en.wikipedia.org/wiki/Industry_Foundation_Classes)
 

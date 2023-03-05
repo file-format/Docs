@@ -24,7 +24,7 @@
 
 Файлы VPK сохраняются на диск в виде стандартных сжатых архивов [ZIP](/ru/compression/zip/). Они могут содержать несколько папок и других связанных файлов для сторонних приложений, которые будут установлены на игровой консоли Vita. Чтобы просмотреть содержимое файла пакета VPK, переименуйте его расширение с .vpu на .zip и извлеките содержимое с помощью стандартных утилит распаковки, таких как WinZip или WinRAR.
 
-Valvesoftware имеет подробную информацию о [формате файла VPK] (https://developer.valvesoftware.com/wiki/VPK_File_Format), на которую может ссылаться разработчик.
+Valvesoftware имеет подробную информацию о [формате файла VPK](https://developer.valvesoftware.com/wiki/VPK_File_Format), на которую может ссылаться разработчик.
 
 ## Как установить файлы VPK?
 
@@ -44,10 +44,10 @@ vpk x <vpkfile> <filename1> <filename2> ...
 
 ## ВПК-просмотрщик
 
-* [Просмотр VRF VPK] (https://github.com/SteamDatabase/ValveResourceFormat)
+* [Просмотр VRF VPK](https://github.com/SteamDatabase/ValveResourceFormat)
 
 ## использованная литература
 
-* [Формат файла VPK] (https://developer.valvesoftware.com/wiki/Формат_файла_VPK)
-* [Файлы VPK] (https://developer.valvesoftware.com/wiki/VPK)
+* [Формат файла VPK](https://developer.valvesoftware.com/wiki/Формат_файла_VPK)
+* [Файлы VPK](https://developer.valvesoftware.com/wiki/VPK)
 

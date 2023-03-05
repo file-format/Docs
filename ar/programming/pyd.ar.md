@@ -23,7 +23,7 @@ lastmod: 2022-05-09
 
 ## الفرق بين تنسيقات ملفات PY و PYD
 
-يحتوي ملف [PY] (/ar/ برمجة / py /) على كود مصدر يتم تنفيذه كما هو ولا يمكن تضمينه كرمز يمكن إعادة استخدامه في تطبيقات Python الأخرى. ومع ذلك ، فإن ملف PYD عبارة عن مكتبة مرتبطة ديناميكيًا لاستخدامها على نظام التشغيل Windows.
+يحتوي ملف [PY](/ar/ برمجة / py /) على كود مصدر يتم تنفيذه كما هو ولا يمكن تضمينه كرمز يمكن إعادة استخدامه في تطبيقات Python الأخرى. ومع ذلك ، فإن ملف PYD عبارة عن مكتبة مرتبطة ديناميكيًا لاستخدامها على نظام التشغيل Windows.
 
 ## كيفية إنشاء ملف PYD؟
 
@@ -31,6 +31,6 @@ lastmod: 2022-05-09
 
 ## مراجع ##
 
-* [إنشاء امتدادات Python في C / C ++] (https://sebsauvage.net/python/mingw.html)
-* [Python (لغة برمجة) - ويكيبيديا] (https://en.wikipedia.org/wiki/Python_ (architecture_language))
+* [إنشاء امتدادات Python في C / C ++](https://sebsauvage.net/python/mingw.html)
+* [Python (لغة برمجة) - ويكيبيديا](https://en.wikipedia.org/wiki/Python_ (architecture_language))
 

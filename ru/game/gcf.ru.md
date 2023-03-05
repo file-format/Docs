@@ -30,7 +30,7 @@
 ПРИМЕЧАНИЕ. GCF является предшественником [формата файла VPK](/ru/game/vpk/).
 ## использованная литература
 
-* [Программное обеспечение Valve] (https://www.valvesoftware.com/en/)
-* [Формат файла GCF] (https://developer.valvesoftware.com/wiki/GCF)
-* [HLLib — библиотека программирования C++ с открытым исходным кодом для чтения файлов GCF] (https://developer.valvesoftware.com/wiki/HLLib)
+* [Программное обеспечение Valve](https://www.valvesoftware.com/en/)
+* [Формат файла GCF](https://developer.valvesoftware.com/wiki/GCF)
+* [HLLib — библиотека программирования C++ с открытым исходным кодом для чтения файлов GCF](https://developer.valvesoftware.com/wiki/HLLib)
 

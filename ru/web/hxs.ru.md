@@ -28,5 +28,5 @@
 
 ## использованная литература
 
-* [Файл справки Microsoft 2.0] (https://en.wikipedia.org/wiki/Microsoft_Help_2)
+* [Файл справки Microsoft 2.0](https://en.wikipedia.org/wiki/Microsoft_Help_2)
 

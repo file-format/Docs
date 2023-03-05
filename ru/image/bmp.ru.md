@@ -81,6 +81,6 @@
 
 ## Использованная литература ##
 
-* [Формат метафайла Windows] (http://msdn.microsoft.com/en-us/library/cc250370.aspx)
-* [Формат файла BMP] (https://en.wikipedia.org/wiki/BMP_file_format)
+* [Формат метафайла Windows](http://msdn.microsoft.com/en-us/library/cc250370.aspx)
+* [Формат файла BMP](https://en.wikipedia.org/wiki/BMP_file_format)
 

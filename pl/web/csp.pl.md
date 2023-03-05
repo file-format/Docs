@@ -23,5 +23,5 @@ Plik CSP to dynamiczny plik strony internetowej, który zawiera treść zapisan�
 
 ## Bibliografia
 
-* [Serwer aplikacji koncepcyjnych] (https://github.com/Devronium/ConceptApplicationServer)
+* [Serwer aplikacji koncepcyjnych](https://github.com/Devronium/ConceptApplicationServer)
 

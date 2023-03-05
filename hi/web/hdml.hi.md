@@ -38,6 +38,6 @@
 
 ## संदर्भ
 
-* [एचडीएमएल - विकिपीडिया] (https://en.wikipedia.org/wiki/Handheld_Device_Markup_Language)
+* [एचडीएमएल - विकिपीडिया](https://en.wikipedia.org/wiki/Handheld_Device_Markup_Language)
 * [HDML विशिष्टताएं - W3 स्कूल](https://www.w3.org/TR/NOTE-Submission-HDML-spec.html)
 

@@ -30,9 +30,9 @@
 
 ## Что такое игра Steins Gate?
 
-Steins Gate — это серия известных [визуально-новаторских приключенческих игр] (https://www.giantbomb.com/steinsgate-series/3025-2128/games/), созданных 5 pb. Он также стал основой для нескольких манг, аудиодрамы и анимационного фильма. Некоторые из них включают Elite, Divergencies Assort и Gate 0.
+Steins Gate — это серия известных [визуально-новаторских приключенческих игр](https://www.giantbomb.com/steinsgate-series/3025-2128/games/), созданных 5 pb. Он также стал основой для нескольких манг, аудиодрамы и анимационного фильма. Некоторые из них включают Elite, Divergencies Assort и Gate 0.
 
 ## использованная литература
 
-* [Steins; Декомпилятор архива Gate NPA] (https://github.com/Daviex/Steins-Gate-Archive-Decompiler)
+* [Steins; Декомпилятор архива Gate NPA](https://github.com/Daviex/Steins-Gate-Archive-Decompiler)
 

@@ -23,7 +23,7 @@
 
 ## تنسيق ملف XPI - مزيد من المعلومات
 
-يتم حفظ ملفات XPI على القرص كأرشيفات [ZIP] (/ar/ compression / zip /) تجمع عدة ملفات في ملف مضغوط واحد. قد تتضمن الملفات الموجودة داخل ملف XPI ملف نصي للتثبيت مثل JS وملفات الويب مثل [CSS] (/ar/ web / css /) و [HTML] (/ar/ web / html /) و [JSON] (/ar/ web / json / ). في بعض الأحيان ، قد يحتوي أيضًا على ملفات صور [PNG] (/ar/ image / png /) لاستخدامها كرموز بواسطة الوظيفة الإضافية.
+يتم حفظ ملفات XPI على القرص كأرشيفات [ZIP](/ar/ compression / zip /) تجمع عدة ملفات في ملف مضغوط واحد. قد تتضمن الملفات الموجودة داخل ملف XPI ملف نصي للتثبيت مثل JS وملفات الويب مثل [CSS](/ar/ web / css /) و [HTML](/ar/ web / html /) و [JSON](/ar/ web / json / ). في بعض الأحيان ، قد يحتوي أيضًا على ملفات صور [PNG](/ar/ image / png /) لاستخدامها كرموز بواسطة الوظيفة الإضافية.
 
 ### كيف يتم عرض محتويات ملف XPI؟
 
@@ -38,6 +38,6 @@
 
 ## مراجع
 
-* [XPInstall - Wikipedia] (https://en.wikipedia.org/wiki/XPInstall)
-* [كيف يمكنني فتح امتداد ملف XPI؟] (https://support.mozilla.org/en-US/questions/1009049)
+* [XPInstall - Wikipedia](https://en.wikipedia.org/wiki/XPInstall)
+* [كيف يمكنني فتح امتداد ملف XPI؟](https://support.mozilla.org/en-US/questions/1009049)
 

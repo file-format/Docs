@@ -27,5 +27,5 @@ IMP फ़ाइलें डिस्क पर बाइनरी फ़ाइ
 
 ## संदर्भ ##
 
-* [लोटस इम्प्रोव - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/Lotus_Improv)
+* [लोटस इम्प्रोव - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Lotus_Improv)
 

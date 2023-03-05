@@ -29,6 +29,6 @@ Los formatos como [CUE](/es/disc-and-media/cue),[BIN](/es/disc-and-media/bin/), 
 
 ## Referencias
 
-* [CD virtual: virtualice todos sus medios ópticos] (https://www.virtualcd-online.com/)
+* [CD virtual: virtualice todos sus medios ópticos](https://www.virtualcd-online.com/)
 
 

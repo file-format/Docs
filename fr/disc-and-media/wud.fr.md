@@ -26,6 +26,6 @@ Les fichiers WUD sont enregistrés sur disque dans un format de fichier proprié
 
 ## Références
 
-* [Émulateur Wii U - Cemu] (https://cemu.info/)
+* [Émulateur Wii U - Cemu](https://cemu.info/)
 * [Cemu - Wikipédia](https://en.wikipedia.org/wiki/Cemu)
 

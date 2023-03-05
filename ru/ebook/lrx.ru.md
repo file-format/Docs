@@ -35,5 +35,5 @@
 
 ## использованная литература
 
-* [BBeB — Википедия] (https://en.wikipedia.org/wiki/BBeB)
+* [BBeB — Википедия](https://en.wikipedia.org/wiki/BBeB)
 

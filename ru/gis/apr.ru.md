@@ -27,5 +27,5 @@
 ## Использованная литература ##
 
 * [ESRI ArcGIS Pro](https://fileinfo.com/software/esri/arcgis_for_desktop)
-* [Формат файла APR — MIT] (http://kb.mit.edu/confluence/pages/viewpage.action?pageId=11338198)
+* [Формат файла APR — MIT](http://kb.mit.edu/confluence/pages/viewpage.action?pageId=11338198)
 

@@ -23,7 +23,7 @@ Az .asf kiterjesztésű fájl egy multimédiás fájlformátum digitális média
 
 ## ASF fájl formátum
 
-Egy ASF-fájl több független vagy függő adatfolyamot is tartalmazhat. Ez magában foglalhat több hangfolyamot többcsatornás hanghoz vagy több bitsebességű videofolyamot. A többszörös bitráta alkalmassá teszi a streameket különböző sávszélességeken történő átvitelre. Ezenkívül az ASF-fájlban lévő adatfolyamok lehetnek tömörített vagy tömörítetlen formátumban. A legjobb tömörítés a Microsoft Windows Media Audio and Video 9 Series kodekekkel érhető el. Az ASF-fájlformátum teljes specifikációi a [Microsoft webhelyén] (https://download.microsoft.com/download/7/9/0/790fecaa-f64a-4a5e-a430-0bccdab3f1b4/ASF_Specification.doc) érhetők el.
+Egy ASF-fájl több független vagy függő adatfolyamot is tartalmazhat. Ez magában foglalhat több hangfolyamot többcsatornás hanghoz vagy több bitsebességű videofolyamot. A többszörös bitráta alkalmassá teszi a streameket különböző sávszélességeken történő átvitelre. Ezenkívül az ASF-fájlban lévő adatfolyamok lehetnek tömörített vagy tömörítetlen formátumban. A legjobb tömörítés a Microsoft Windows Media Audio and Video 9 Series kodekekkel érhető el. Az ASF-fájlformátum teljes specifikációi a [Microsoft webhelyén](https://download.microsoft.com/download/7/9/0/790fecaa-f64a-4a5e-a430-0bccdab3f1b4/ASF_Specification.doc) érhetők el.
 
 ### ASF legfelső szintű fájlstruktúra
 

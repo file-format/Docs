@@ -94,5 +94,5 @@ for name in names:
 
 ## संदर्भ ##
 
-- [पायथन (प्रोग्रामिंग भाषा) - विकिपीडिया] (https://en.wikipedia.org/wiki/Python_(programming_language))
+- [पायथन (प्रोग्रामिंग भाषा) - विकिपीडिया](https://en.wikipedia.org/wiki/Python_(programming_language))
 

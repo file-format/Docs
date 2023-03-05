@@ -23,7 +23,7 @@ Un fichier ARO est un fichier de page Web côté serveur généré avec SteelArr
 
 ## Format de fichier ARO
 
-Les fichiers ARO sont écrits dans un fichier de langage de balisage HTML avec du code JavaScript intégré et des applets Java. [Les balises SteelArrow] (http://www.steelarrow.com/docs/basics1.aro) sont les éléments de base pour le développement de pages Web. Bien que ceux-ci ne modifient pas l'affichage de la page, ils sont utilisés pour remplir la page avec des données. En outre, ils peuvent également être utilisés pour contrôler la sortie avec des instructions conditionnelles.
+Les fichiers ARO sont écrits dans un fichier de langage de balisage HTML avec du code JavaScript intégré et des applets Java. [Les balises SteelArrow](http://www.steelarrow.com/docs/basics1.aro) sont les éléments de base pour le développement de pages Web. Bien que ceux-ci ne modifient pas l'affichage de la page, ils sont utilisés pour remplir la page avec des données. En outre, ils peuvent également être utilisés pour contrôler la sortie avec des instructions conditionnelles.
 
 ### Exemple de balise ARO
 

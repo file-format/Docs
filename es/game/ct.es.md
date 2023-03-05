@@ -37,5 +37,5 @@ Los archivos CT se guardan con ubicaciones de direcciones y otra información as
 
 ## Referencias
 
-* [Motor de trucos] (https://www.cheatengine.org/)
+* [Motor de trucos](https://www.cheatengine.org/)
 

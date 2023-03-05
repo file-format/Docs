@@ -19,14 +19,14 @@
 
 ## ما هو ملف AST؟
 
-ملف AST هو ملف قالب جدول بيانات تم إنشاؤه باستخدام برنامج Ability Spreadsheet ، وهو مكون جدول بيانات من مجموعة Ability Office. تُستخدم ملفات القوالب هذه لإنشاء مجموعة أولية من قوالب جداول البيانات التي يمكن استخدامها لإنشاء ملفات [AWS] (/ar/ spreadsheet / aws /). يمكن فتح ملفات AST باستخدام برنامج جداول البيانات Ability.
+ملف AST هو ملف قالب جدول بيانات تم إنشاؤه باستخدام برنامج Ability Spreadsheet ، وهو مكون جدول بيانات من مجموعة Ability Office. تُستخدم ملفات القوالب هذه لإنشاء مجموعة أولية من قوالب جداول البيانات التي يمكن استخدامها لإنشاء ملفات [AWS](/ar/ spreadsheet / aws /). يمكن فتح ملفات AST باستخدام برنامج جداول البيانات Ability.
 
 ## تنسيق ملف AST - مزيد من المعلومات
 
-يتم حفظ ملفات AST على القرص كملفات ثنائية ويمكن فتحها في برنامج Ability Spreadsheet. على الرغم من التوافق التام مع تنسيقات ملفات Microsoft XLS و XLSX ، إلا أن مواصفات تنسيق ملف AST غير متاحة للجمهور كمرجع للمطور. يمكن حفظ ملفات AST على قرص [PDF] (/ar/ pdf /) وكذلك تنسيقات ملفات [XPS] (/ar/ page-description-language / xps /).
+يتم حفظ ملفات AST على القرص كملفات ثنائية ويمكن فتحها في برنامج Ability Spreadsheet. على الرغم من التوافق التام مع تنسيقات ملفات Microsoft XLS و XLSX ، إلا أن مواصفات تنسيق ملف AST غير متاحة للجمهور كمرجع للمطور. يمكن حفظ ملفات AST على قرص [PDF](/ar/ pdf /) وكذلك تنسيقات ملفات [XPS](/ar/ page-description-language / xps /).
 
 ## مراجع ##
 
-* [Ability Office - Wikipedia] (https://en.wikipedia.org/wiki/Ability_Office)
-* [مكتب القدرة] (https://www.ability.com/en/home/home)
+* [Ability Office - Wikipedia](https://en.wikipedia.org/wiki/Ability_Office)
+* [مكتب القدرة](https://www.ability.com/en/home/home)
 

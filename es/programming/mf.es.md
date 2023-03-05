@@ -23,7 +23,7 @@ Un archivo con la extensión .mf es un archivo de manifiesto de Java que contien
 
 ## Especificaciones de formato de archivo de manifiesto
 
-Las [especificaciones de formato de archivo de manifiesto] (https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html) están disponibles en Oracle en su guía para el formato de archivo JAR. Un archivo de manifiesto se compone de secciones principales seguidas de una lista de secciones para entradas de archivos JAR individuales. Cada sección sigue algunas reglas y restricciones.
+Las [especificaciones de formato de archivo de manifiesto](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html) están disponibles en Oracle en su guía para el formato de archivo JAR. Un archivo de manifiesto se compone de secciones principales seguidas de una lista de secciones para entradas de archivos JAR individuales. Cada sección sigue algunas reglas y restricciones.
 
 ### Secciones principales
 

@@ -44,6 +44,6 @@ Si vous ne parvenez pas à ouvrir et à exécuter le fichier EA ; cela ne signi
 
 ## Références
 
-* [Format de fichier Kindle - par Wikipedia] (https://en.wikipedia.org/wiki/Kindle_File_Format)
+* [Format de fichier Kindle - par Wikipedia](https://en.wikipedia.org/wiki/Kindle_File_Format)
 
 

@@ -80,5 +80,5 @@
 
 ## مراجع
 
-* [Portal Challenge Script] (https://developer.valvesoftware.com/wiki/Portal_Challenge_Script)
+* [Portal Challenge Script](https://developer.valvesoftware.com/wiki/Portal_Challenge_Script)
 

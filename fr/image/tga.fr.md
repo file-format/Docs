@@ -102,6 +102,6 @@ Les 26 derniers octets du fichier représentent le pied de page, qui, s'il est p
 
 ## Références
 
-* [Spécifications du format de fichier TGA 2.0] (https://products.conholdate.app/viewer/view/rVqTeZPLAL/tga-file-format-specifications.pdf?default=view&preview = true.pdf)
+* [Spécifications du format de fichier TGA 2.0](https://products.conholdate.app/viewer/view/rVqTeZPLAL/tga-file-format-specifications.pdf?default=view&preview = true.pdf)
 * [TGA par Wikipédia](https://en.wikipedia.org/wiki/Truevision_TGA)
 

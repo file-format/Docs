@@ -179,6 +179,6 @@ $ ./hello
 
 ## संदर्भ
 
-* [हास्केल] (https://wiki.haskell.org/Haskell)
-* [हास्केल 5 आसान चरणों में] (https://wiki.haskell.org/Haskell_in_5_steps)
+* [हास्केल](https://wiki.haskell.org/Haskell)
+* [हास्केल 5 आसान चरणों में](https://wiki.haskell.org/Haskell_in_5_steps)
 

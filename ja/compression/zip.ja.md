@@ -19,7 +19,7 @@
 
 ## ZIP ファイルとは何ですか? ##
 
-.zip 拡張子を持つファイルは、1 つ以上のファイルまたはディレクトリを保持できるアーカイブです。 ZIP ファイルのサイズを小さくするために、アーカイブに含まれるファイルに圧縮を適用できます。 ZIP ファイル形式は、1989 年 2 月に Phil Katz によってファイルとフォルダーのアーカイブを実現するために公開されました。この形式は、[利用可能な仕様](https://pkware.cachefly.net/ webdocs/casestudies/APPNOTE.TXT)、Microsoft (Windows 7 以降)、Apple (Mac OS X) など、多くの企業がソフトウェア ユーティリティの一部として ZIP ファイル形式を採用しています。
+.zip 拡張子を持つファイルは、1 つ以上のファイルまたはディレクトリを保持できるアーカイブです。 ZIP ファイルのサイズを小さくするために、アーカイブに含まれるファイルに圧縮を適用できます。 ZIP ファイル形式は、1989 年 2 月に Phil Katz によってファイルとフォルダーのアーカイブを実現するために公開されました。この形式は、[利用可能な仕様](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)、Microsoft (Windows 7 以降)、Apple (Mac OS X) など、多くの企業がソフトウェア ユーティリティの一部として ZIP ファイル形式を採用しています。
 
 ## ZIP ファイル形式の歴史
 
@@ -152,4 +152,3 @@ ZIP ファイル内のエントリは、各エントリが次の要素で構成�
 
 ※【PKWARE ZIPファイル形式仕様書】(https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
 ※【PKZipファイルの構造】(https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip-printable.html)
-

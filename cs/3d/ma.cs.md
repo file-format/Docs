@@ -23,7 +23,7 @@ Soubor s příponou .ma je soubor 3D projektu vytvořený pomocí aplikace Autod
 
 ## Formát souboru MA
 
-Soubory MA se ukládají na disk v textovém formátu ASCII, na rozdíl od souborů MB, které se ukládají na disk v binárním formátu. Podrobný odkaz na formát souboru MA je k dispozici v [Autodesk Maya Documentation] (https://download.autodesk.com/us/maya/2010help/index.html?url=Glossary_M_ma_file_format.htm,topicNumber=d0e192001) a lze jej použít pro vývojářskou referenci.
+Soubory MA se ukládají na disk v textovém formátu ASCII, na rozdíl od souborů MB, které se ukládají na disk v binárním formátu. Podrobný odkaz na formát souboru MA je k dispozici v [Autodesk Maya Documentation](https://download.autodesk.com/us/maya/2010help/index.html?url=Glossary_M_ma_file_format.htm,topicNumber=d0e192001) a lze jej použít pro vývojářskou referenci.
 
 ### Záhlaví souboru MA
 

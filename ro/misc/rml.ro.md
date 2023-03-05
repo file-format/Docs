@@ -19,7 +19,7 @@
 
 ## Ce este un fișier RML?
 
-Un fișier RML este un fișier șablon de raportare cu motorul de raportare [Elixir Repertoire](https://elixirtech.com/repertoire-2/). Fișierul șablon este utilizat pentru a genera rapoarte cu sursa de date conectată la sistemul de fișiere Elixir. Datele sunt citite și populate în fișierul șablon RML și pot fi exportate într-un număr de formate diferite de fișiere, cum ar fi [PDF](/ro/pdf/), [RTF](/ro/word-processing/rtf/) și foaia de calcul [XLS] (/ro/spreadsheet/xls/). Motorul de raportare Elixir Repertoire poate fi conectat la o mare varietate de surse de date JDBC.
+Un fișier RML este un fișier șablon de raportare cu motorul de raportare [Elixir Repertoire](https://elixirtech.com/repertoire-2/). Fișierul șablon este utilizat pentru a genera rapoarte cu sursa de date conectată la sistemul de fișiere Elixir. Datele sunt citite și populate în fișierul șablon RML și pot fi exportate într-un număr de formate diferite de fișiere, cum ar fi [PDF](/ro/pdf/), [RTF](/ro/word-processing/rtf/) și foaia de calcul [XLS](/ro/spreadsheet/xls/). Motorul de raportare Elixir Repertoire poate fi conectat la o mare varietate de surse de date JDBC.
 
 ## Format de fișier RML
 

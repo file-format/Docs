@@ -90,6 +90,6 @@ gdzie
 
 ## Bibliografia
 
-* [Format archiwum RAR 5.0] (https://www.rarlab.com/technote.htm)
+* [Format archiwum RAR 5.0](https://www.rarlab.com/technote.htm)
 * [RAR – z Wikipedii](https://en.wikipedia.org/wiki/RAR_(file_format))
 

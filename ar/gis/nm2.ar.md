@@ -22,9 +22,9 @@
 
 ## تنسيق ملف NM2 - مزيد من المعلومات
 
-يتم حفظ ملفات NM2 كملفات ثنائية وتنسيق الملف الداخلي / هيكل البيانات الخاص بها غير متاح للجمهور. تقوم الإصدارات الأخيرة من Navitel بحفظ البيانات كملفات nm7. تتوفر العديد من ملفات الخرائط بواسطة Navitel على [موقع الويب] الخاص بهم (https://www.navitel.cz/en/downloads/demo). توفر [وثائق Navitel] (https://www.navitel.cz/en/downloads/documentation) أدلة مستخدم كاملة حول استخدام نظام الملاحة الخاص بها لأنواع مختلفة من الأجهزة والمركبات.
+يتم حفظ ملفات NM2 كملفات ثنائية وتنسيق الملف الداخلي / هيكل البيانات الخاص بها غير متاح للجمهور. تقوم الإصدارات الأخيرة من Navitel بحفظ البيانات كملفات nm7. تتوفر العديد من ملفات الخرائط بواسطة Navitel على [موقع الويب] الخاص بهم (https://www.navitel.cz/en/downloads/demo). توفر [وثائق Navitel](https://www.navitel.cz/en/downloads/documentation) أدلة مستخدم كاملة حول استخدام نظام الملاحة الخاص بها لأنواع مختلفة من الأجهزة والمركبات.
 
 ## مراجع
 
-* [Maps for Navitel Navigator 11.8] (https://www.navitel.cz/en/downloads/demo)
+* [Maps for Navitel Navigator 11.8](https://www.navitel.cz/en/downloads/demo)
 

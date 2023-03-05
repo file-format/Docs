@@ -22,7 +22,7 @@ A CSPROJ kiterjesztésű fájlok egy C# projektfájlt képviselnek, amely tartal
 
 ## CSPROJ fájlformátum száma
 
-A fejlesztők maguk is létrehozhatnak projektfájlokat az [MSBuild XML séma] (https://msdn.microsoft.com/library/5dy88c2e.aspx) tiszteletben tartásával. A projektfájlok nyílt és átlátható szerkezete lehetővé teszi az alkalmazásfejlesztők számára, hogy kifinomult és finoman szabályozzák a projektek felépítését és telepítését. Egy ilyen projektfájl tartalma nagyon egyértelmű kapcsolatban áll egymással. A következő ábra egy ilyen projektfájl kulcsfontosságú elemeit és ezek közötti kapcsolatot mutatja be.
+A fejlesztők maguk is létrehozhatnak projektfájlokat az [MSBuild XML séma](https://msdn.microsoft.com/library/5dy88c2e.aspx) tiszteletben tartásával. A projektfájlok nyílt és átlátható szerkezete lehetővé teszi az alkalmazásfejlesztők számára, hogy kifinomult és finoman szabályozzák a projektek felépítését és telepítését. Egy ilyen projektfájl tartalma nagyon egyértelmű kapcsolatban áll egymással. A következő ábra egy ilyen projektfájl kulcsfontosságú elemeit és ezek közötti kapcsolatot mutatja be.
 
 ![](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
 

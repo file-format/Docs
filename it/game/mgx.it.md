@@ -27,7 +27,7 @@ Il formato del file interno del file MGX è stato elaborato e disponibile come i
 
 ### Definizioni della struttura
 
-Si ritiene che le definizioni della struttura del formato di file GPX siano basate sulle [dichiarazioni di BinData Ruby Gem] (https://github.com/dmendel/bindata/wiki) che forniscono un modo per leggere e scrivere dati binari strutturati. Ciò consente al programmatore di specificare il formato dei dati binari che vengono quindi letti e scritti da BinData.
+Si ritiene che le definizioni della struttura del formato di file GPX siano basate sulle [dichiarazioni di BinData Ruby Gem](https://github.com/dmendel/bindata/wiki) che forniscono un modo per leggere e scrivere dati binari strutturati. Ciò consente al programmatore di specificare il formato dei dati binari che vengono quindi letti e scritti da BinData.
 
 ### Messaggistica MGX
 

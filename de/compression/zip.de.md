@@ -19,7 +19,7 @@
 
 ## Was ist eine ZIP-Datei? ##
 
-Eine Datei mit der Erweiterung .zip ist ein Archiv, das eine oder mehrere Dateien oder Verzeichnisse enthalten kann. Das Archiv kann auf die enthaltenen Dateien komprimiert werden, um die Größe der ZIP-Datei zu reduzieren. Das ZIP-Dateiformat wurde bereits im Februar 1989 von Phil Katz veröffentlicht, um die Archivierung von Dateien und Ordnern zu erreichen. Das Format wurde Teil des Dienstprogramms [PKZIP](https://www.pkware.com/pkzip), das von PKWARE, Inc. erstellt wurde. Unmittelbar nach der Verfügbarkeit von [verfügbaren Spezifikationen](https://pkware.cachefly.net/ webdocs/casestudies/APPNOTE.TXT) haben viele Unternehmen das ZIP-Dateiformat zu einem Teil ihrer Softwareprogramme gemacht, darunter Microsoft (seit Windows 7), Apple (Mac OS X) und viele andere.
+Eine Datei mit der Erweiterung .zip ist ein Archiv, das eine oder mehrere Dateien oder Verzeichnisse enthalten kann. Das Archiv kann auf die enthaltenen Dateien komprimiert werden, um die Größe der ZIP-Datei zu reduzieren. Das ZIP-Dateiformat wurde bereits im Februar 1989 von Phil Katz veröffentlicht, um die Archivierung von Dateien und Ordnern zu erreichen. Das Format wurde Teil des Dienstprogramms [PKZIP](https://www.pkware.com/pkzip), das von PKWARE, Inc. erstellt wurde. Unmittelbar nach der Verfügbarkeit von [verfügbaren Spezifikationen](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT) haben viele Unternehmen das ZIP-Dateiformat zu einem Teil ihrer Softwareprogramme gemacht, darunter Microsoft (seit Windows 7), Apple (Mac OS X) und viele andere.
 
 ## Kurze Geschichte des ZIP-Dateiformats
 
@@ -152,4 +152,3 @@ Der Local File Header hat eine spezifische Feldstruktur, die aus Multi-Byte-Wert
 
 * [PKWARE ZIP-Dateiformatspezifikationen](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
 * [Struktur der PKZip-Datei](https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip-printable.html)
-

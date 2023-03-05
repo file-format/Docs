@@ -77,5 +77,5 @@ Metoda kodowania JB2 eliminuje znaczną część redundancji obrazu tekstowego, 
 ## Bibliografia ##
 
 * [DjVu - Wikipedia](https://en.wikipedia.org/wiki/DjVu)
-* [Format pliku DjVu] (https://www.cuminas.jp/docs/techinfo/DjVu3Spec.pdf)
+* [Format pliku DjVu](https://www.cuminas.jp/docs/techinfo/DjVu3Spec.pdf)
 

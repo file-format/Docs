@@ -31,5 +31,5 @@ Le format de fichier CLIP a été introduit par CELSYS pour remplacer le format 
 Le format de fichier CLIP peut stocker des animations et des illustrations qui peuvent être utilisées dans une variété de types de travaux différents.
 
 ## Références
-* [CLIP Studio Paint] (https://www.celsys.co.jp/en/service/studio_paint/)
+* [CLIP Studio Paint](https://www.celsys.co.jp/en/service/studio_paint/)
 

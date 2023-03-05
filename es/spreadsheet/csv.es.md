@@ -41,7 +41,7 @@ Los archivos CSV se pueden convertir a varios formatos de archivo diferentes usa
 
 ## Formato de archivo CSV ##
 
-Se sabe que el formato de archivo CSV se especifica en [RFC4180] (https://tools.ietf.org/html/rfc4180). Define que cualquier archivo sea compatible con CSV si:
+Se sabe que el formato de archivo CSV se especifica en [RFC4180](https://tools.ietf.org/html/rfc4180). Define que cualquier archivo sea compatible con CSV si:
 
 * Cada registro se ubica en una línea separada, delimitada por un salto de línea (CRLF). Por ejemplo:
 * aaa,bbb,ccc CRLF
@@ -69,7 +69,7 @@ Sin embargo, a la luz del uso moderno, el delimitador no se limita solo a la com
 
 ## Referencias
 
-* [RFC 4180] (https://tools.ietf.org/html/rfc4180)
-* [RFC 2048] (https://tools.ietf.org/html/rfc2048)
+* [RFC 4180](https://tools.ietf.org/html/rfc4180)
+* [RFC 2048](https://tools.ietf.org/html/rfc2048)
 * [CSV - Wikipedia](https://en.wikipedia.org/wiki/Comma-separated_values)
 

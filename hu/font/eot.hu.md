@@ -27,7 +27,7 @@ Az EOT fontot 2007-ben adták be a W3C-nek a CSS3 részeként, de a távoli rend
 
 ## EOT fájlformátum
 
-Az EOT fájlformátum részletei a [W3 benyújtási oldalon] (https://www.w3.org/Submission/EOT/#FileFormat) találhatók, és kidolgozza az e betűformátum által használt szerkezetet. Az EOT egyetlen EMBEDDEDFONT struktúrából áll, amely elegendő alapvető információt nyújt a hte betűtípus nevéről és a támogatott karakterekről. Ezen információk becsomagolása lehetővé teszi a felhasználói ügynökök számára, hogy elkerüljék a betűkészlet kicsomagolását, kicsomagolását vagy telepítését, ha az már megtalálható a gépen.
+Az EOT fájlformátum részletei a [W3 benyújtási oldalon](https://www.w3.org/Submission/EOT/#FileFormat) találhatók, és kidolgozza az e betűformátum által használt szerkezetet. Az EOT egyetlen EMBEDDEDFONT struktúrából áll, amely elegendő alapvető információt nyújt a hte betűtípus nevéről és a támogatott karakterekről. Ezen információk becsomagolása lehetővé teszi a felhasználói ügynökök számára, hogy elkerüljék a betűkészlet kicsomagolását, kicsomagolását vagy telepítését, ha az már megtalálható a gépen.
 
 ### EMBEDDEDFONT Struktúra
 Az EMBEDDEDFONT struktúra három felülvizsgálaton esett át, és minden egyes revízióval további adatok kerültek a struktúra végére. Az EMBEDDEDFONT szerkezet utolsó változata az alábbiak szerint készült.

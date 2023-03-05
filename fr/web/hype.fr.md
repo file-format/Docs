@@ -32,5 +32,5 @@ Un fichier HYPE est créé lorsque vous utilisez l'application Hype pour créer 
 
 ## Références
 
-* [Hype de tumulte] (https://tumult.com/hype/)
+* [Hype de tumulte](https://tumult.com/hype/)
 

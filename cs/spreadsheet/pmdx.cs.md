@@ -19,7 +19,7 @@
 
 ## Co je soubor PMDX?
 
-Soubor PMDX je tabulkový dokument vytvořený pomocí nejnovější verze [PlanMaker] (https://www.softmaker.de/softmaker-office-planmaker), softwaru, který je součástí SoftMaker Office. Ukládá data do buněk ve formě řádků a sloupců. Každá buňka může obsahovat řetězec, čísla, vzorce nebo jiná formátovaná data. Soubory PMDX nahradily starší verzi souborů [PMD](/cs/spreadsheet/pmd/) upgradem PlanMakeru. XLSX je standardní formát souborů podporovaný PlanMakerem a při otevírání těchto souborů pomocí Microsoft Excelu nepotřebuje žádnou konverzi. PlanMaker také podporuje práci se soubory [XLS](/cs/spreadsheet/xls/) a převádí je do jiných formátů, jako je [PDF](/cs/pdf/).
+Soubor PMDX je tabulkový dokument vytvořený pomocí nejnovější verze [PlanMaker](https://www.softmaker.de/softmaker-office-planmaker), softwaru, který je součástí SoftMaker Office. Ukládá data do buněk ve formě řádků a sloupců. Každá buňka může obsahovat řetězec, čísla, vzorce nebo jiná formátovaná data. Soubory PMDX nahradily starší verzi souborů [PMD](/cs/spreadsheet/pmd/) upgradem PlanMakeru. XLSX je standardní formát souborů podporovaný PlanMakerem a při otevírání těchto souborů pomocí Microsoft Excelu nepotřebuje žádnou konverzi. PlanMaker také podporuje práci se soubory [XLS](/cs/spreadsheet/xls/) a převádí je do jiných formátů, jako je [PDF](/cs/pdf/).
 
 ## Formát souboru PMDX
 

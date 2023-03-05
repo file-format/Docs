@@ -26,6 +26,6 @@ Les fichiers WUX sont enregistrés sous forme de fichiers compressés qui peuven
 
 ## Références
 
-* [Émulateur Wii U - Cemu] (https://cemu.info/)
+* [Émulateur Wii U - Cemu](https://cemu.info/)
 * [Cemu - Wikipédia](https://en.wikipedia.org/wiki/Cemu)
 

@@ -23,7 +23,7 @@ A .doc kiterjesztésű fájlok a Microsoft Word vagy más szövegszerkesztő dok
 
 ## Rövid története ##
 
-A WordPerfect, a [Corel] (https://www.corel.com/en/) terméke a DOC-t használta saját formátumának kiterjesztéseként. Az 1980-as években a WordPerfect maradt a legtöbb számítógépen a könnyű elérhetősége, a legtöbb számítógépes géppel és operációs rendszerrel való kompatibilitása miatt. A WordPerfect bukását azonban a Windows operációs rendszeren tapasztalta, amikor a Microsoft bemutatta a Microsoft Word-t, mint dokumentumfájlformátumú termékét, és a DOC kiterjesztést választotta saját formátumuknak. Ahogy a Microsoft Word egyre népszerűbbé vált, a DOC fájlformátumot a Microsoft Word 97 - 2003 között többször módosították. 2007-ben az alapértelmezett DOC fájlformátumot az Office Open XML formátum (DOCX néven ismert) váltotta fel, és a program új verziói A Microsoft Word mostantól ezt az új kiterjesztést használja alapértelmezett fájlformátumként.
+A WordPerfect, a [Corel](https://www.corel.com/en/) terméke a DOC-t használta saját formátumának kiterjesztéseként. Az 1980-as években a WordPerfect maradt a legtöbb számítógépen a könnyű elérhetősége, a legtöbb számítógépes géppel és operációs rendszerrel való kompatibilitása miatt. A WordPerfect bukását azonban a Windows operációs rendszeren tapasztalta, amikor a Microsoft bemutatta a Microsoft Word-t, mint dokumentumfájlformátumú termékét, és a DOC kiterjesztést választotta saját formátumuknak. Ahogy a Microsoft Word egyre népszerűbbé vált, a DOC fájlformátumot a Microsoft Word 97 - 2003 között többször módosították. 2007-ben az alapértelmezett DOC fájlformátumot az Office Open XML formátum (DOCX néven ismert) váltotta fel, és a program új verziói A Microsoft Word mostantól ezt az új kiterjesztést használja alapértelmezett fájlformátumként.
 
 ## A DOC fájlformátum specifikációi – További információ
 
@@ -47,7 +47,7 @@ A Fib egy változó hosszúságú szerkezet. A rögzített méretű alaprész ki
 * **aCP (változó hosszúság):** CP elemek tömbje. A **PLC** struktúra mindegyik típusa meghatározza a CP elemek jelentését és a megengedett tartományt.
 * **aData (változó hosszúságú):** A **PLC** struktúrák mindegyik típusa meghatározza az adatelemek szerkezetét és jelentését, az adatelemek számára vonatkozó korlátozásokat, valamint a bennük lévő adatokra vonatkozó korlátozásokat. Meghatározza az adatelemek és a megfelelő CP-k közötti kapcsolatot is.
 
-**Érvényes kijelölés:** A .DOC fájl konstrukciókat főként a CP-k tartománya írja le. A Microsoft számos [szabályt] (https://msdn.microsoft.com/en-us/library/dd908861(v#office.12).aspx) határoz meg, amelyeket ilyen esetben be kell tartani.
+**Érvényes kijelölés:** A .DOC fájl konstrukciókat főként a CP-k tartománya írja le. A Microsoft számos [szabályt](https://msdn.microsoft.com/en-us/library/dd908861(v#office.12).aspx) határoz meg, amelyeket ilyen esetben be kell tartani.
 
 **STTB:** Az STTB egy karakterlánc-tábla, amely egy fejlécből áll, amelyet elemek tömbje követ. A **cData** érték a tömbben található elemek számát adja meg.
 

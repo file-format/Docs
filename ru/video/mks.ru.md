@@ -68,5 +68,5 @@ Sub Station Alpha (SSA) — это формат файла, используем
 
 ## Использованная литература ##
 
-- [Субтитры Matroska] (https://www.matroska.org/technical/subtitles.html)
+- [Субтитры Matroska](https://www.matroska.org/technical/subtitles.html)
 

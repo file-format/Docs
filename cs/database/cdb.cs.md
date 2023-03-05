@@ -56,5 +56,5 @@ Příkaz **cdbmake** dokáže přepsat celou databázi do dvou řádů, rychleji
 ## Reference ##
 
 * [cdb (software) – Wikipedie](https://en.wikipedia.org/wiki/Cdb_(software))
-* [Specifikace CDB] (http://cr.yp.to/cdb.html)
+* [Specifikace CDB](http://cr.yp.to/cdb.html)
 

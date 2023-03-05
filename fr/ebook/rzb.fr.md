@@ -41,7 +41,7 @@ Si vous ne parvenez pas à ouvrir et exécuter le fichier RZB ; cela ne signifie
 
 ## Références
 
-* [Livre électronique Red Zion] (https://submitfile.com/download/red-zion-e-book)
+* [Livre électronique Red Zion](https://submitfile.com/download/red-zion-e-book)
 
 
 

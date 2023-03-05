@@ -20,7 +20,7 @@
 
 V-ați întâlnit vreodată și v-ați întrebat ce este un fișier MPP? MPP și alte fișiere similare sunt formate de fișiere de proiect care sunt create de software-ul de management de proiect. Un fișier de proiect este o colecție de sarcini, resurse și programare pentru a obține rezultate măsurabile sub forma unui produs sau serviciu. Diagramele Gantt sunt folosite pentru a stabili un flux vizual de activități în timp pentru sarcinile identificate care pot fi, de asemenea, exportate în format PDF sau imagine pentru documentare.
 
-Extensiile obișnuite de fișiere de management de proiect și formatele de fișiere asociate acestora includ **[MPP](/ro/project-management/mpp/)**, **[MPX](/ro/project-management/mpx/)** și **[XER] (/ro/project-management/xer/)**.
+Extensiile obișnuite de fișiere de management de proiect și formatele de fișiere asociate acestora includ **[MPP](/ro/project-management/mpp/)**, **[MPX](/ro/project-management/mpx/)** și **[XER](/ro/project-management/xer/)**.
 
 Aveți întrebări legate de formatele de fișiere de management de proiect? Accesați comunitatea noastră [forumuri](https://forum.fileformat.com/c/project-management) pentru a beneficia de cunoștințele împărtășite de experții în format de fișiere.
 

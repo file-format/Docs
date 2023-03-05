@@ -26,5 +26,5 @@ Les fichiers VRT sont stockés dans le format de fichier propriétaire de Viscap
 
 ## Références
 
-* [Viscape 360] (https://www.viscape360.com/)
+* [Viscape 360](https://www.viscape360.com/)
 

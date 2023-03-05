@@ -32,5 +32,5 @@ SCM फाइलें किसी भी टेक्स्ट एडिटर
 
 ## संदर्भ
 
-* [स्कीमा प्रोग्रामिंग - विकिपीडिया] (https://en.wikipedia.org/wiki/Scheme_(programming_language))
+* [स्कीमा प्रोग्रामिंग - विकिपीडिया](https://en.wikipedia.org/wiki/Scheme_(programming_language))
 

@@ -27,5 +27,5 @@ APL هي ملفات GIS ثنائية ومعلومات تنسيق الملف غي
 
 ## مراجع ##
 
-* [ArcPad Pro] (http://www.esri.com/library/brochures/pdfs/arcpadbro.pdf)
+* [ArcPad Pro](http://www.esri.com/library/brochures/pdfs/arcpadbro.pdf)
 

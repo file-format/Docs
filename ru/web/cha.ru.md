@@ -28,5 +28,5 @@
 
 ## использованная литература
 
-* [Справка mIRC] (https://www.mirc.com/help/html/index.html?dcc.html)
+* [Справка mIRC](https://www.mirc.com/help/html/index.html?dcc.html)
 

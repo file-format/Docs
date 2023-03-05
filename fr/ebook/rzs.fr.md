@@ -35,7 +35,7 @@ Si vous ne parvenez pas à ouvrir et à exécuter le fichier RZS ; cela ne sign
 
 ## Références
 
-* [Livre électronique Red Zion] (https://submitfile.com/download/red-zion-e-book)
+* [Livre électronique Red Zion](https://submitfile.com/download/red-zion-e-book)
 
 
 

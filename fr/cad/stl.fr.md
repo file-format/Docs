@@ -90,6 +90,6 @@ end
 
 ## Références ##
 
-* [Le format STL] (http://www.fabbers.com/tech/STL_Format)
+* [Le format STL](http://www.fabbers.com/tech/STL_Format)
 * [STL - par Wikipédia](https://en.wikipedia.org/wiki/STL_(file_format))
 

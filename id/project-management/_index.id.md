@@ -20,7 +20,7 @@
 
 Pernahkah Anda menemukan dan bertanya-tanya apa itu file MPP? MPP dan file serupa lainnya adalah format file Proyek yang dibuat oleh perangkat lunak Manajemen Proyek. File proyek adalah kumpulan tugas, sumber daya, dan penjadwalan untuk mendapatkan hasil yang terukur dalam bentuk produk atau layanan. Bagan Gantt digunakan untuk membuat aliran visual aktivitas terhadap waktu untuk tugas yang teridentifikasi yang juga dapat diekspor ke format PDF atau gambar untuk dokumentasi.
 
-Ekstensi file Manajemen Proyek umum dan format file yang terkait termasuk **[MPP](/id/project-management/mpp/)**, **[MPX](/id/project-management/mpx/)** dan **[XER] (/id/project-management/xer/)**.
+Ekstensi file Manajemen Proyek umum dan format file yang terkait termasuk **[MPP](/id/project-management/mpp/)**, **[MPX](/id/project-management/mpx/)** dan **[XER](/id/project-management/xer/)**.
 
 Punya pertanyaan terkait dengan format file Manajemen Proyek? Kunjungi [forum](https://forum.fileformat.com/c/project-management) komunitas kami untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
 

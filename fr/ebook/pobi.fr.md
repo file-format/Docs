@@ -36,7 +36,7 @@ Si vous ne parvenez pas à ouvrir et à exécuter le fichier POBI ; cela ne sig
 
 ## Références
 
-* [Formats de fichiers conviviaux pour votre Kindle Paperwhite] (https://www.dummies.com/consumer-electronics/tablets/kindle/friendly-file-formats-for-your-kindle-paperwhite/)
+* [Formats de fichiers conviviaux pour votre Kindle Paperwhite](https://www.dummies.com/consumer-electronics/tablets/kindle/friendly-file-formats-for-your-kindle-paperwhite/)
 
 
 

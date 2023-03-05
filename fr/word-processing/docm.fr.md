@@ -34,5 +34,5 @@ Le format de fichier DOCM suit la même structure DOCX basée sur le format de f
 ## Références
 
 * [[MS-DOCX] - Format de fichier .Docx](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx)
-* [Office Open XML] (http://officeopenxml.com/)
+* [Office Open XML](http://officeopenxml.com/)
 

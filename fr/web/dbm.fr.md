@@ -27,6 +27,6 @@ Les fichiers DBM sont créés et enregistrés sous forme de fichiers texte brut 
 
 ## Références
 
-* [Langage de balisage ColdFusion] (https://people.apache.org/~jim/NewArchitect/webtech/2000/08/junk/index.html)
+* [Langage de balisage ColdFusion](https://people.apache.org/~jim/NewArchitect/webtech/2000/08/junk/index.html)
 * [Adobe ColdFusion](https://en.wikipedia.org/wiki/Adobe_ColdFusion)
 

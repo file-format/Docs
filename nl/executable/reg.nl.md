@@ -64,6 +64,4 @@ Windows Registry Editor Version 5.00
 ## Referenties
 
 * [Windows-register- door Wikipedia](https://en.wikipedia.org/wiki/Windows_Registry)
-* [Subsleutels en waarden in het register toevoegen, wijzigen of verwijderen met behulp van een .reg-bestand](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete- register-subsleutels-en-waarden-door-een-reg-bestand te gebruiken-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23)
-
-
+* [Subsleutels en waarden in het register toevoegen, wijzigen of verwijderen met behulp van een .reg-bestand](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete-registry-subkeys-and-values-by-using-a-reg-file-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23)

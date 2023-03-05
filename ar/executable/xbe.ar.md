@@ -94,6 +94,6 @@
 
 
 
-* [Xbe - XBox قابل للتنفيذ] (https://xboxdevwiki.net/Xbe)
+* [Xbe - XBox قابل للتنفيذ](https://xboxdevwiki.net/Xbe)
 
 

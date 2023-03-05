@@ -68,6 +68,6 @@
 
 ## Использованная литература ##
 
-* [Спецификация OpenDocument 1.2] (https://www.oasis-open.org/standards#opendocumentv1.2)
-* [OpenDocument — Википедия] (https://en.wikipedia.org/wiki/OpenDocument)
+* [Спецификация OpenDocument 1.2](https://www.oasis-open.org/standards#opendocumentv1.2)
+* [OpenDocument — Википедия](https://en.wikipedia.org/wiki/OpenDocument)
 

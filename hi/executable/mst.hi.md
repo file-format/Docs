@@ -39,7 +39,7 @@ TRANSFORMS=transform1.mst;transform2.mst;transform3.mst
 
 ## संदर्भ
 
-* [एमएसटी ट्रांसफॉर्मेशन फाइल्स] (https://www.exemsi.com/documentation/mst-transformation-files/)
+* [एमएसटी ट्रांसफॉर्मेशन फाइल्स](https://www.exemsi.com/documentation/mst-transformation-files/)
 * [ट्रांसफ़ॉर्म प्रॉपर्टी](https://docs.microsoft.com/en-us/windows/win32/msi/transforms)
 
 

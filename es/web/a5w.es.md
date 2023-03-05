@@ -32,5 +32,5 @@ El código fuente de Alpha Five usa etiquetas de inicio y fin de <%a5 y a5>. El 
 ## Referencias
 
 * [Alfa Cinco](https://www.alphasoftware.com/)
-* [Documentación de Alpha Five] (https://documentation.alphasoftware.com/documentation/pages/index.html)
+* [Documentación de Alpha Five](https://documentation.alphasoftware.com/documentation/pages/index.html)
 

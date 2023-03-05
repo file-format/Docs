@@ -25,10 +25,10 @@
 
 ## تنسيق ملف DBM
 
-يتم حفظ ملفات DBM على قرص بتنسيق ملف [XML] (/ar/ web / xml /).
+يتم حفظ ملفات DBM على قرص بتنسيق ملف [XML](/ar/ web / xml /).
 
 ## مراجع
 
-* [DAZ 3D File Extensions] (http://docs.daz3d.com/doku.php/public/software/dazstudio/4/referenceguide/tech_articles/file_extensions/start)
-* [منتديات DAZ 3D] (https://www.daz3d.com/forums/)
+* [DAZ 3D File Extensions](http://docs.daz3d.com/doku.php/public/software/dazstudio/4/referenceguide/tech_articles/file_extensions/start)
+* [منتديات DAZ 3D](https://www.daz3d.com/forums/)
 

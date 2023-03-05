@@ -31,7 +31,7 @@ DWF este un format deschis, securizat, conceput special pentru partajarea datelo
 
 **Fișiere de metadate DWF** – fișiere XML care conțin informații referitoare la metadate și structură (autor, titlu, timpul creării, dependențele secțiunilor, ordonarea secțiunilor, descrierile fișierelor de resurse, roluri, tipurile mime etc.) și referitoare la secțiune (pagina informații, metadate de proiectare etc.). Metadatele structurale sunt folosite pentru a crea obiecte logice (colecții de fișiere pentru a reprezenta o parte sau o pagină etc.).
 
-**Fișiere de resurse** – fișiere media sau alte fișiere de conținut care sunt referite din metadatele pachetului/secțiunii și sunt de obicei prezentări ale datelor de proiectare în diferite formate (ZGL, W2D, [JPG](/ro/image/jpeg/), [PNG] (/ro/image/png/), AVI, XML, [TXT](/ro/procesare de cuvinte/txt/), [DOC](/ro/procesare de cuvinte/doc/), etc.)
+**Fișiere de resurse** – fișiere media sau alte fișiere de conținut care sunt referite din metadatele pachetului/secțiunii și sunt de obicei prezentări ale datelor de proiectare în diferite formate (ZGL, W2D, [JPG](/ro/image/jpeg/), [PNG](/ro/image/png/), AVI, XML, [TXT](/ro/procesare de cuvinte/txt/), [DOC](/ro/procesare de cuvinte/doc/), etc.)
 
 ### Detalii format fișier ###
 

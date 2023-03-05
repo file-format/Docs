@@ -61,5 +61,5 @@ Les fichiers HEIC peuvent être convertis en d'autres formats de fichiers image 
 
 * [HEIF - Wikipédia](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format)
 * [Informations HEIF de Nokia Technologies](https://nokiatech.github.io/heif/)
-* [Code source HEIF Reader/Writer sur GitHub] (https://github.com/nokiatech/heif)
+* [Code source HEIF Reader/Writer sur GitHub](https://github.com/nokiatech/heif)
 

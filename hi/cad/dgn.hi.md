@@ -44,6 +44,6 @@
 ## संदर्भ
 
 * [डीएनजी - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/DGN)
-* [ओपनडीएनजी] (http://www.bentley.com/opendgn)
+* [ओपनडीएनजी](http://www.bentley.com/opendgn)
 * [माइक्रोस्टेशन वी8 डीजीएन फाइल फॉर्मेट](https://web.archive.org/web/20120713013730/http://docs.bentley.com/ko/MicroStation/ustnhelp47.html)
 

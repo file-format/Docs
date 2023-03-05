@@ -79,6 +79,6 @@ En t.
 
 ## Referencias
 
-* [Formato de archivo Amazon APNX] (https://nachtimwald.com/2011/02/09/amazon-apnx-file-format/)
+* [Formato de archivo Amazon APNX](https://nachtimwald.com/2011/02/09/amazon-apnx-file-format/)
 * [APNX - por MobileRead Wiki](https://wiki.mobileread.com/wiki/APNX)
 

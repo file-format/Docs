@@ -47,5 +47,5 @@
 
 ## использованная литература
 
-* [Формат файла DLC SFAR — Исследование] (https://www.tapatalk.com/groups/me3explorer/current-research-dlc-sfar-fileformat-t629.html)
+* [Формат файла DLC SFAR — Исследование](https://www.tapatalk.com/groups/me3explorer/current-research-dlc-sfar-fileformat-t629.html)
 

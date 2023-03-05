@@ -19,7 +19,7 @@
 
 ## ما هو ملف PPT؟
 
-يمثل الملف بامتداد PPT ملف PowerPoint يتكون من مجموعة من الشرائح لعرضها على هيئة عرض شرائح. تحدد تنسيق الملف الثنائي الذي يستخدمه Microsoft PowerPoint 97-2003. يمكن أن يحتوي ملف PPT على عدة أنواع مختلفة من المعلومات مثل النص والنقاط النقطية والصور والوسائط المتعددة وكائنات OLE المضمنة الأخرى. ابتكرت Microsoft تنسيق ملف أحدث لبرنامج PowerPoint ، يُعرف باسم [PPTX] (/ar/ Present / pptx /) ، بدءًا من عام 2007 فصاعدًا والذي يعتمد على Office OpenXML ويختلف عن تنسيق الملف الثنائي هذا. يمكن للعديد من برامج التطبيقات الأخرى مثل OpenOffice Impress و Apple Keynote أيضًا إنشاء ملفات PPT.
+يمثل الملف بامتداد PPT ملف PowerPoint يتكون من مجموعة من الشرائح لعرضها على هيئة عرض شرائح. تحدد تنسيق الملف الثنائي الذي يستخدمه Microsoft PowerPoint 97-2003. يمكن أن يحتوي ملف PPT على عدة أنواع مختلفة من المعلومات مثل النص والنقاط النقطية والصور والوسائط المتعددة وكائنات OLE المضمنة الأخرى. ابتكرت Microsoft تنسيق ملف أحدث لبرنامج PowerPoint ، يُعرف باسم [PPTX](/ar/ Present / pptx /) ، بدءًا من عام 2007 فصاعدًا والذي يعتمد على Office OpenXML ويختلف عن تنسيق الملف الثنائي هذا. يمكن للعديد من برامج التطبيقات الأخرى مثل OpenOffice Impress و Apple Keynote أيضًا إنشاء ملفات PPT.
 
 ## نبذة تاريخية ##
 
@@ -58,7 +58,7 @@
 * دفق الصور
 * معلومات موجزة ومعلومات ملخص المستند (اختياري)
 
-يمكن العثور على المواصفات الكاملة لتنسيق ملف DOC على النحو المنصوص عليه من قبل [Microsoft] (https://msdn.microsoft.com/en-us/library/office/cc313106 (v # office.12) .aspx) ويجب الرجوع إليها في إشارة إلى الأقسام المذكورة في التفاصيل التالية.
+يمكن العثور على المواصفات الكاملة لتنسيق ملف DOC على النحو المنصوص عليه من قبل [Microsoft](https://msdn.microsoft.com/en-us/library/office/cc313106 (v # office.12) .aspx) ويجب الرجوع إليها في إشارة إلى الأقسام المذكورة في التفاصيل التالية.
 
 #### تيار المستخدم الحالي ####
 
@@ -102,8 +102,8 @@
 
 ## مراجع ##
 
-* [مواصفات تنسيق ملف PPT] (https://msdn.microsoft.com/en-us/library/office/cc313106 (v # office.12) .aspx)
-* [[MS-OSHARED]: أنواع البيانات العامة وهياكل الكائنات في Office] (https://msdn.microsoft.com/en-us/library/office/cc313156 (v # office.12) .aspx)
-* [[MS-OFFCRYPTO] - بنية تشفير مستندات Office] (https://msdn.microsoft.com/en-us/library/office/cc313071 (v # office.12) .aspx)
-* [تنسيقات ملفات PowerPoint] (https://en.wikipedia.org/wiki/Microsoft_PowerPoint#File_formats)
+* [مواصفات تنسيق ملف PPT](https://msdn.microsoft.com/en-us/library/office/cc313106 (v # office.12) .aspx)
+* [[MS-OSHARED]: أنواع البيانات العامة وهياكل الكائنات في Office](https://msdn.microsoft.com/en-us/library/office/cc313156 (v # office.12) .aspx)
+* [[MS-OFFCRYPTO] - بنية تشفير مستندات Office](https://msdn.microsoft.com/en-us/library/office/cc313071 (v # office.12) .aspx)
+* [تنسيقات ملفات PowerPoint](https://en.wikipedia.org/wiki/Microsoft_PowerPoint#File_formats)
 

@@ -19,7 +19,7 @@
 
 ## ما هو ملف BZ2؟
 
-BZ2 هي ملفات مضغوطة تم إنشاؤها باستخدام طريقة ضغط مفتوحة المصدر [BZIP2] (http://www.bzip.org/) ، ومعظمها على نظام UNIX أو Linux. يتم استخدامه لضغط ملف واحد ولا يُقصد به أرشفة ملفات متعددة. هذا على عكس تنسيق ملف TAR على نفس الأنظمة الأساسية التي تقوم بأرشفة ملفات متعددة في ملف واحد ولكن بدون ضغط. يمكن فك ضغط الملفات المضغوطة بتنسيق BZ2 باستخدام تطبيقات مثل [WinZip] (https://www.winzip.com/win/en/). يستخدم BZIP2 خوارزمية ضغط Run-Length Encoding (RLE) أو [Burrows-Wheeler] (https://en.wikipedia.org/wiki/Burrows٪E2٪80٪93Wheeler_transform) لتحقيق مستويات عالية من الضغط.
+BZ2 هي ملفات مضغوطة تم إنشاؤها باستخدام طريقة ضغط مفتوحة المصدر [BZIP2](http://www.bzip.org/) ، ومعظمها على نظام UNIX أو Linux. يتم استخدامه لضغط ملف واحد ولا يُقصد به أرشفة ملفات متعددة. هذا على عكس تنسيق ملف TAR على نفس الأنظمة الأساسية التي تقوم بأرشفة ملفات متعددة في ملف واحد ولكن بدون ضغط. يمكن فك ضغط الملفات المضغوطة بتنسيق BZ2 باستخدام تطبيقات مثل [WinZip](https://www.winzip.com/win/en/). يستخدم BZIP2 خوارزمية ضغط Run-Length Encoding (RLE) أو [Burrows-Wheeler](https://en.wikipedia.org/wiki/Burrows٪E2٪80٪93Wheeler_transform) لتحقيق مستويات عالية من الضغط.
 
 ## تنسيق ملف BZ2
 
@@ -35,5 +35,5 @@ bzip2 -d filename.bz2
 
 ## مراجع
 
-* [مواصفات تنسيق BZIP2] (https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf)
+* [مواصفات تنسيق BZIP2](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf)
 

@@ -48,5 +48,5 @@ Les fichiers CR2 sont des fichiers bruts sans aucune perte de données et, par c
 
 ## Références
 
-* [Format de fichier CR2] (http://lclevy.free.fr/cr2/)
+* [Format de fichier CR2](http://lclevy.free.fr/cr2/)
 

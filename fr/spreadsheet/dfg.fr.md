@@ -27,5 +27,5 @@ Les fichiers DFG enregistrent les informations sur les données de la feuille de
 
 ## Références
 
-* [Téléchargement du flacon de données Interscape] (https://download.cnet.com/Data-Flask/3000-2077_4-10620775.html)
+* [Téléchargement du flacon de données Interscape](https://download.cnet.com/Data-Flask/3000-2077_4-10620775.html)
 

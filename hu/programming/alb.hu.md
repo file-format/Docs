@@ -19,7 +19,7 @@
 
 ## Mi az ALB fájl?
 
-Az ALB fájl az **Alpha Five** IDE alkalmazás által használt könyvtárfájl, amelyet webalkalmazások fejlesztésére használnak. Elsődleges célja a megfelelő Alpha Five [ADB fájl] (/hu/database/adb/) információk tárolása. Ez magában foglalja az adatszótár adatait, például beállításokat, parancsfájlmutatókat, menüket, felhasználó által definiált függvényeket, bitképeket, eszköztárakat és importdefiníciókat.
+Az ALB fájl az **Alpha Five** IDE alkalmazás által használt könyvtárfájl, amelyet webalkalmazások fejlesztésére használnak. Elsődleges célja a megfelelő Alpha Five [ADB fájl](/hu/database/adb/) információk tárolása. Ez magában foglalja az adatszótár adatait, például beállításokat, parancsfájlmutatókat, menüket, felhasználó által definiált függvényeket, bitképeket, eszköztárakat és importdefiníciókat.
 
 Az ALB fájlok az **Alpha Software Alpha Anywhere** programmal nyithatók meg.
 

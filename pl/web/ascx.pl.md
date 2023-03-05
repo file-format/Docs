@@ -50,5 +50,5 @@ Aby używać jednego elementu sterującego użytkownika na wielu stronach, eleme
 ## Bibliografia
 
 * [ASCX vs ASMX](https://forums.asp.net/t/1838934.aspx?How+to+work+with+ascx+files+)
-* [Kontrola użytkownika ASCX] (http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
+* [Kontrola użytkownika ASCX](http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

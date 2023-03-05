@@ -23,7 +23,7 @@ DOCX هو تنسيق معروف لمستندات Microsoft Word. تم تقديم
 
 ## نبذة تاريخية ##
 
-بعد أن فتحت Microsoft مواصفات تنسيق ملف DOC ، كان من السهل على منافسيها إجراء هندسة عكسية للتنسيق وتقديم نفس الدعم في تطبيقاتهم. بالإضافة إلى ذلك ، أجبرت المنافسة من Open Office في شكل Open Document Format ، Microsoft على اعتماد معايير أكثر انفتاحًا واتساعًا. كان ذلك في أوائل عام 2000 عندما قررت Microsoft إجراء التغيير لاستيعاب معيار ** Office Open XML **. تم تقديم المستندات بموجب هذا المعيار الجديد [.docx extension] (https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd) ، "X" يجري ل XML. بحلول عام 2007 ، أصبح تنسيق الملف الجديد هذا جزءًا من Office 2007 ويتم تشغيله أيضًا في الإصدارات الجديدة من Microsoft Office. لقد أضاف نوع الملف الجديد مزايا ذات أحجام ملفات صغيرة ، وتغييرات أقل في التلف وتمثيل صور جيدة التنسيق.
+بعد أن فتحت Microsoft مواصفات تنسيق ملف DOC ، كان من السهل على منافسيها إجراء هندسة عكسية للتنسيق وتقديم نفس الدعم في تطبيقاتهم. بالإضافة إلى ذلك ، أجبرت المنافسة من Open Office في شكل Open Document Format ، Microsoft على اعتماد معايير أكثر انفتاحًا واتساعًا. كان ذلك في أوائل عام 2000 عندما قررت Microsoft إجراء التغيير لاستيعاب معيار ** Office Open XML **. تم تقديم المستندات بموجب هذا المعيار الجديد [.docx extension](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd) ، "X" يجري ل XML. بحلول عام 2007 ، أصبح تنسيق الملف الجديد هذا جزءًا من Office 2007 ويتم تشغيله أيضًا في الإصدارات الجديدة من Microsoft Office. لقد أضاف نوع الملف الجديد مزايا ذات أحجام ملفات صغيرة ، وتغييرات أقل في التلف وتمثيل صور جيدة التنسيق.
 
 ## مواصفات تنسيق ملف DOCX - مزيد من المعلومات
 
@@ -105,6 +105,6 @@ DOCX هو تنسيق معروف لمستندات Microsoft Word. تم تقديم
 
 ## مراجع ##
 
-* [تنسيق ملف MS - DOCX] (https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
-* [Office Open XML] (http://officeopenxml.com/)
+* [تنسيق ملف MS - DOCX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
+* [Office Open XML](http://officeopenxml.com/)
 

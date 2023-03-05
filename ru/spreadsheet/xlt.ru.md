@@ -23,7 +23,7 @@
 
 ## XLT-формат файла
 
-Формат файла XLT основан на формате двоичного файла Excel, который изначально поддерживался в версии Excel 97-2003. Он был заменен форматом файла [XLTX](/ru/spreadsheet/xltx/) с появлением Excel 2007, основанного на формате Office Open XML. Помимо Microsoft Excel, существуют другие приложения, поддерживающие работу с этим форматом файлов, такие как Lotus Translation Table, PlanMaker, LibreOffice Calc и т. д. Доступно несколько приложений и [API] (https://products.aspose.com/cells). для преобразования XLT в другие форматы файлов, такие как:
+Формат файла XLT основан на формате двоичного файла Excel, который изначально поддерживался в версии Excel 97-2003. Он был заменен форматом файла [XLTX](/ru/spreadsheet/xltx/) с появлением Excel 2007, основанного на формате Office Open XML. Помимо Microsoft Excel, существуют другие приложения, поддерживающие работу с этим форматом файлов, такие как Lotus Translation Table, PlanMaker, LibreOffice Calc и т. д. Доступно несколько приложений и [API](https://products.aspose.com/cells). для преобразования XLT в другие форматы файлов, такие как:
 
 * XLT в PDF
 * XLT в DOC
@@ -34,10 +34,10 @@
 * XLT в HTML
 * XLT в CSV
 
-XLT основан на двоичных [спецификациях формата файла XLS] (https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx), которые задокументированы Microsoft для справки разработчика.
+XLT основан на двоичных [спецификациях формата файла XLS](https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx), которые задокументированы Microsoft для справки разработчика.
 
 ## использованная литература
 
-* [[MS-XLS] — структура формата двоичных файлов Excel] (https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx)
-* [[MS-CFB] — формат составного двоичного файла] (https://msdn.microsoft.com/en-us/library/dd942138.aspx)
+* [[MS-XLS] — структура формата двоичных файлов Excel](https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx)
+* [[MS-CFB] — формат составного двоичного файла](https://msdn.microsoft.com/en-us/library/dd942138.aspx)
 

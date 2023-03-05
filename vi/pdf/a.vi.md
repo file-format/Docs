@@ -53,7 +53,7 @@ PDF/A-2 đã được ISO Standard phát hành vào tháng 7 năm 2011 dưới d
 
 ## PDF/A-3 ##
 
-PDF/A-3 bao gồm tất cả các yêu cầu tuân thủ của Cấp 2 và cho phép nhúng các định dạng tệp bổ sung (chẳng hạn như XML, [CSV](/vi/spreadsheet/csv/), [CAD](/vi/cad/), [xử lý văn bản] (/vi/word-processing/) , [bảng tính](/vi/bảng tính/) và những thứ khác) vào tài liệu tuân thủ PDF/A.
+PDF/A-3 bao gồm tất cả các yêu cầu tuân thủ của Cấp 2 và cho phép nhúng các định dạng tệp bổ sung (chẳng hạn như XML, [CSV](/vi/spreadsheet/csv/), [CAD](/vi/cad/), [xử lý văn bản](/vi/word-processing/) , [bảng tính](/vi/bảng tính/) và những thứ khác) vào tài liệu tuân thủ PDF/A.
 
 ## Người giới thiệu ##
 

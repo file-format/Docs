@@ -79,5 +79,5 @@ WebP फ़ाइल स्वरूप RIFF (संसाधन इंटरच
 ## संदर्भ ##
 
 * [वेबपी डेवलपर का संदर्भ - Google द्वारा](https://developers.google.com/speed/webp/)
-* [वेबपी फ़ाइल प्रारूप - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/WebP)
+* [वेबपी फ़ाइल प्रारूप - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/WebP)
 

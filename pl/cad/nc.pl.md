@@ -19,7 +19,7 @@
 
 ## Czym jest plik NK?
 
-Plik NC to plik komputerowego sterowania numerycznego (CNC) utworzony za pomocą [oprogramowania Mastercam CNC] (https://www.mastercam.com/). Obejmuje instrukcje sterowania numerycznego do kierowania ruchem mechanicznym narzędzi do obróbki CNC, takich jak wiertarki, tokarki, frezarki i drukarki 3D. Maszyny CNC wykorzystują do wykonania instrukcje z plików NC w postaci programu sekwencyjnego. Te instrukcje z pliku NC mają na celu poprowadzenie maszyny do produkcji komponentu.
+Plik NC to plik komputerowego sterowania numerycznego (CNC) utworzony za pomocą [oprogramowania Mastercam CNC](https://www.mastercam.com/). Obejmuje instrukcje sterowania numerycznego do kierowania ruchem mechanicznym narzędzi do obróbki CNC, takich jak wiertarki, tokarki, frezarki i drukarki 3D. Maszyny CNC wykorzystują do wykonania instrukcje z plików NC w postaci programu sekwencyjnego. Te instrukcje z pliku NC mają na celu poprowadzenie maszyny do produkcji komponentu.
 
 ## Format pliku NC
 

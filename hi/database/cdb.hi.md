@@ -55,6 +55,6 @@
 
 ## संदर्भ ##
 
-* [सीडीबी (सॉफ्टवेयर) - विकिपीडिया] (https://en.wikipedia.org/wiki/Cdb_(software))
-* [सीडीबी विनिर्देश] (http://cr.yp.to/cdb.html)
+* [सीडीबी (सॉफ्टवेयर) - विकिपीडिया](https://en.wikipedia.org/wiki/Cdb_(software))
+* [सीडीबी विनिर्देश](http://cr.yp.to/cdb.html)
 

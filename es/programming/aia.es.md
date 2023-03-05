@@ -21,7 +21,7 @@
 
 Un archivo AIA es un archivo de proyecto creado por la aplicación MIT Inventor que enseña a los principiantes a crear aplicaciones para Android e iOS. Se guarda como archivo comprimido [ZIP](/es/compression/zip/) y puede contener muchas carpetas y archivos. Estos incluyen archivos fuente como BKY, SCM y YAIL que forman parte del proyecto de la aplicación. MIT App Inventor proporciona un emulador de Android que funciona de la misma manera que un Android pero aparece en la pantalla. Esto ayuda a probar las aplicaciones en emuladores.
 
-Los programas que pueden abrir archivos AIA incluyen [MIT App Inventor] (https://appinventor.mit.edu/).
+Los programas que pueden abrir archivos AIA incluyen [MIT App Inventor](https://appinventor.mit.edu/).
 
 ## Formato de archivo AIA - Más información
 
@@ -33,6 +33,6 @@ App Inventor proporciona varios tutoriales para que los principiantes desarrolle
 
 ## Referencias
 
-* [MIT App Inventor] (https://appinventor.mit.edu/)
+* [MIT App Inventor](https://appinventor.mit.edu/)
 * [Tutoriales de MIT App Inventor](https://appinventor.mit.edu/explore/ai2/tutorials)
 

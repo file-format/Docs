@@ -37,6 +37,6 @@ expand <source>.cab /f:<files> <destination>
 
 ## использованная литература
 
-* [StuffIt — Википедия] (https://en.wikipedia.org/wiki/StuffIt)
-* [Microsoft Expand] (https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
+* [StuffIt — Википедия](https://en.wikipedia.org/wiki/StuffIt)
+* [Microsoft Expand](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
 

@@ -58,7 +58,7 @@ Los formatos de archivos binarios de PowerPoint consisten en los siguientes fluj
 * Corriente de imágenes
 * Información resumida e Información resumida del documento (Opcional)
 
-Las especificaciones completas para el formato de archivo DOC se pueden encontrar proporcionadas por [Microsoft] (https://msdn.microsoft.com/en-us/library/office/cc313106(v#office.12).aspx) y deben consultarse en referencia a las secciones mencionadas en los siguientes detalles.
+Las especificaciones completas para el formato de archivo DOC se pueden encontrar proporcionadas por [Microsoft](https://msdn.microsoft.com/en-us/library/office/cc313106(v#office.12).aspx) y deben consultarse en referencia a las secciones mencionadas en los siguientes detalles.
 
 #### Flujo de usuario actual ####
 
@@ -105,5 +105,5 @@ Un flujo opcional cuyo nombre DEBE ser "_signatures". DEBE ser omitido y PUEDE s
 * [Especificaciones del formato de archivo PPT](https://msdn.microsoft.com/en-us/library/office/cc313106(v#office.12).aspx)
 * [[MS-OSHARED]: Estructuras de objetos y tipos de datos comunes de Office](https://msdn.microsoft.com/en-us/library/office/cc313156(v#office.12).aspx)
 * [[MS-OFFCRYPTO] - Estructura de criptografía de documentos de Office](https://msdn.microsoft.com/en-us/library/office/cc313071(v#office.12).aspx)
-* [Formatos de archivo de PowerPoint] (https://en.wikipedia.org/wiki/Microsoft_PowerPoint#File_formats)
+* [Formatos de archivo de PowerPoint](https://en.wikipedia.org/wiki/Microsoft_PowerPoint#File_formats)
 

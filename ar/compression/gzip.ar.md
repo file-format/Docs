@@ -18,18 +18,18 @@
 
 ## ما هو ملف GZIP؟
 
-ملف GZIP هو أرشيف مضغوط يتم إنشاؤه باستخدام خوارزمية الضغط القياسية [gzip] (https://en.wikipedia.org/wiki/Gzip) (GNU zip). قد يحتوي الأرشيف المضغوط على ملفات متعددة بما في ذلك الملفات المضغوطة والدلائل وأوتار الملفات. تتضمن معظم أنظمة Unix أداة ضاغط gzip (GNU Zip) مفتوحة المصدر لضغط / فك ضغط الملفات. يمكن فتح ملفات GZIP بتطبيقات مثل [WinZip] (https://www.winzip.com/en/).
+ملف GZIP هو أرشيف مضغوط يتم إنشاؤه باستخدام خوارزمية الضغط القياسية [gzip](https://en.wikipedia.org/wiki/Gzip) (GNU zip). قد يحتوي الأرشيف المضغوط على ملفات متعددة بما في ذلك الملفات المضغوطة والدلائل وأوتار الملفات. تتضمن معظم أنظمة Unix أداة ضاغط gzip (GNU Zip) مفتوحة المصدر لضغط / فك ضغط الملفات. يمكن فتح ملفات GZIP بتطبيقات مثل [WinZip](https://www.winzip.com/en/).
 
 ## تنسيق ملف GZIP - مزيد من المعلومات
 
-يستخدم GZIP خوارزمية [DEFLATE] (https://en.wikipedia.org/wiki/DEFLATE) لضغط الملفات إلى الأرشيف. اثنان RFCs ، [RFC1952] (https://tools.ietf.org/html/rfc1952) و [RFC 1951] (https://tools.ietf.org/html/rfc1951) ، يحددان مواصفات تنسيق غلاف gzip وتفريغ تنسيق البيانات المضغوطة ، على التوالي.
+يستخدم GZIP خوارزمية [DEFLATE](https://en.wikipedia.org/wiki/DEFLATE) لضغط الملفات إلى الأرشيف. اثنان RFCs ، [RFC1952](https://tools.ietf.org/html/rfc1952) و [RFC 1951](https://tools.ietf.org/html/rfc1951) ، يحددان مواصفات تنسيق غلاف gzip وتفريغ تنسيق البيانات المضغوطة ، على التوالي.
 
-غالبًا ما يتم حفظ ملفات GZIP بتنسيق ملف [GZ] (/ar/ ضغط / gz /).
+غالبًا ما يتم حفظ ملفات GZIP بتنسيق ملف [GZ](/ar/ ضغط / gz /).
 
 ## مراجع
 
-* [gzip] (http://www.gzip.org/)
-* [gzip - ويكيبيديا] (https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952: مواصفات تنسيق ملف GZIP] (http://tools.ietf.org/html/rfc1952) ، بواسطة IETF
-* [RFC 1951] (https://tools.ietf.org/html/rfc1951)
+* [gzip](http://www.gzip.org/)
+* [gzip - ويكيبيديا](https://en.wikipedia.org/wiki/Gzip)
+* [RFC1952: مواصفات تنسيق ملف GZIP](http://tools.ietf.org/html/rfc1952) ، بواسطة IETF
+* [RFC 1951](https://tools.ietf.org/html/rfc1951)
 

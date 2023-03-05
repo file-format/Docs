@@ -83,5 +83,5 @@ Los archivos CGI que contienen los scripts CGI generalmente se usan para procesa
 
 ## Referencias
 
-* [Interfaz de puerta de enlace común - por Wikipewdia] (https://en.wikipedia.org/wiki/Common_Gateway_Interface)
+* [Interfaz de puerta de enlace común - por Wikipewdia](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
 

@@ -192,6 +192,6 @@
 
 ## مراجع
 
-* [اصطلاحات التعليمات البرمجية لصفحات JavaServer] (https://www.oracle.com/technical-resources/articles/javase/code-convention.html)
-* [JSP Tutorial] (https://www.javatpoint.com/jsp-tutorial)
+* [اصطلاحات التعليمات البرمجية لصفحات JavaServer](https://www.oracle.com/technical-resources/articles/javase/code-convention.html)
+* [JSP Tutorial](https://www.javatpoint.com/jsp-tutorial)
 

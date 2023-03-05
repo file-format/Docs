@@ -31,5 +31,5 @@ The<SAOUTPUT> Znacznik ARO umożliwia programistom wyprowadzanie wartości danyc
 
 ## Bibliografia
 
-* [Tagi SteelArrow] (http://www.steelarrow.com/docs/basics.aro)
+* [Tagi SteelArrow](http://www.steelarrow.com/docs/basics.aro)
 

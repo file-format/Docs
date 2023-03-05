@@ -19,11 +19,11 @@
 
 ## ما هو ملف GADGET؟
 
-يتكون ملف GADGET من برنامج صغير يتم تنفيذه داخل الشريط الجانبي لنظام التشغيل Windows Vista أو Windows 7. يقوم بضغط العديد من الملفات المستندة إلى الويب وقد تشتمل الملفات على ملفات [.html] (/ar/ web / html) أو [.css] (/ar/ web / css) أو [.js] (/ar/ web / js) ، بالإضافة إلى ملفات الويب الأخرى. تُستخدم ملفات GADGET للمكونات الصغيرة مثل أدوات البحث وموجز الأخبار وأدوات النظام والألعاب الصغيرة. على الرغم من أن أدوات GADGET يستضيفها الشريط الجانبي ، إلا أنها ليست خاصة بمنطقة الشريط الجانبي ؛ يمكن فكها والانتقال إلى سطح المكتب حسب الرغبة.
+يتكون ملف GADGET من برنامج صغير يتم تنفيذه داخل الشريط الجانبي لنظام التشغيل Windows Vista أو Windows 7. يقوم بضغط العديد من الملفات المستندة إلى الويب وقد تشتمل الملفات على ملفات [.html](/ar/ web / html) أو [.css](/ar/ web / css) أو [.js](/ar/ web / js) ، بالإضافة إلى ملفات الويب الأخرى. تُستخدم ملفات GADGET للمكونات الصغيرة مثل أدوات البحث وموجز الأخبار وأدوات النظام والألعاب الصغيرة. على الرغم من أن أدوات GADGET يستضيفها الشريط الجانبي ، إلا أنها ليست خاصة بمنطقة الشريط الجانبي ؛ يمكن فكها والانتقال إلى سطح المكتب حسب الرغبة.
 
 ## تنسيق ملف GADGET
 
-ملف GADGET هو أرشيف [ZIP] (/ar/ compression / zip) معاد تسميته يحتوي على مجموعة من ملفات HTML و XML و JScript و CSS (أوراق الأنماط المتتالية). يحتوي التثبيت على تنزيل ملف .gadget وتمكين عملية التنزيل لتثبيت المكون أو حفظ ملف .gadget في النظام المحلي والنقر المزدوج لبدء عملية التثبيت.
+ملف GADGET هو أرشيف [ZIP](/ar/ compression / zip) معاد تسميته يحتوي على مجموعة من ملفات HTML و XML و JScript و CSS (أوراق الأنماط المتتالية). يحتوي التثبيت على تنزيل ملف .gadget وتمكين عملية التنزيل لتثبيت المكون أو حفظ ملف .gadget في النظام المحلي والنقر المزدوج لبدء عملية التثبيت.
 
 بشكل أساسي ، تحتوي الأداة الذكية على ملفين:
 
@@ -38,6 +38,6 @@
 
 ## مراجع
 
-* [شريط Windows الجانبي - بواسطة Microsoft] (https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
-* [Develop a Gadget for Windows Sidebar Part 1] (https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
+* [شريط Windows الجانبي - بواسطة Microsoft](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
+* [Develop a Gadget for Windows Sidebar Part 1](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
 

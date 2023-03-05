@@ -70,6 +70,6 @@ XSL-FO 1.1 a des fonctionnalités qui aident à générer un index en référen�
 
 ## Références ##
 
-* [Qu'est-ce que XSL-FO ?] (https://www.xml.com/articles/2017/01/01/what-is-xsl-fo/)
+* [Qu'est-ce que XSL-FO ?](https://www.xml.com/articles/2017/01/01/what-is-xsl-fo/)
 * [Objets de formatage XSL](https://en.wikipedia.org/wiki/XSL_Formatting_Objects)
 

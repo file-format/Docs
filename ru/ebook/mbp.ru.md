@@ -27,6 +27,6 @@
 
 ## использованная литература
 
-* [Чтение MBP] (https://www.angelfire.com/ego2/idleloop/mbp_reader.html)
-* [Форматы файлов Mobipocket] (https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
+* [Чтение MBP](https://www.angelfire.com/ego2/idleloop/mbp_reader.html)
+* [Форматы файлов Mobipocket](https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
 

@@ -22,7 +22,7 @@ A GIS (Geographic Information System) térképfájl bizonyos helyekre vagy terü
 
 A gyakori GIS fájlkiterjesztések és fájlformátumaik a következők: **[GPX](/hu/gis/gpx/)** (GPS Exchange fájlformátum), **[KML](/hu/gis/kml/)** (Keyhole Markup Language File) és **[SHP](/hu/gis/shp/)** (ESRI Shapefile).
 
-Kérdései vannak a GIS fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra] (https://forum.fileformat.com/c/gis), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
+Kérdései vannak a GIS fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/gis), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
 
 ## A GIS fájlkiterjesztések és a kapcsolódó fájlformátumok listája
 Az alábbiakban felsoroljuk a gyakori GIS fájlformátumokat a fájlkiterjesztésekkel együtt.

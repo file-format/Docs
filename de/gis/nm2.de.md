@@ -22,7 +22,7 @@ Eine Datei mit der Erweiterung .nm2 ist eine Kartendatei, die mit dem Navitel-Na
 
 ## NM2-Dateiformat – Weitere Informationen
 
-NM2-Dateien werden als Binärdateien gespeichert und ihr internes Dateiformat/Datenstruktur ist nicht öffentlich verfügbar. Die neueren Versionen von Navitel speichern die Daten als .nm7-Dateien. Es gibt mehrere Kartendateien von Navitel auf ihrer [Website] (https://www.navitel.cz/en/downloads/demo). Die [Navitel-Dokumentation] (https://www.navitel.cz/en/downloads/documentation) bietet vollständige Benutzerhandbücher zur Verwendung des Navigationssystems für verschiedene Arten von Geräten und Fahrzeugen.
+NM2-Dateien werden als Binärdateien gespeichert und ihr internes Dateiformat/Datenstruktur ist nicht öffentlich verfügbar. Die neueren Versionen von Navitel speichern die Daten als .nm7-Dateien. Es gibt mehrere Kartendateien von Navitel auf ihrer [Website](https://www.navitel.cz/en/downloads/demo). Die [Navitel-Dokumentation](https://www.navitel.cz/en/downloads/documentation) bietet vollständige Benutzerhandbücher zur Verwendung des Navigationssystems für verschiedene Arten von Geräten und Fahrzeugen.
 
 ## Verweise
 

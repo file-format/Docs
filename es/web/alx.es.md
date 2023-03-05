@@ -28,5 +28,5 @@ Los archivos ALX están en formato de archivo de texto sin formato y se pueden e
 
 ## Referencias
 
-* [Secuencias de comandos y ActiveX] (http://gbengasesan.com/fyp/24/ch12.htm)
+* [Secuencias de comandos y ActiveX](http://gbengasesan.com/fyp/24/ch12.htm)
 

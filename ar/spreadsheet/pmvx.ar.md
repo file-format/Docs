@@ -19,7 +19,7 @@
 
 ## ما هو ملف PMVX؟
 
-الملف بامتداد .pmvx هو ملف قالب جدول بيانات تم إنشاؤه باستخدام برنامج جدول بيانات [PlanMaker] (https://www.softmaker.de/softmaker-office-planmaker) ، والذي يأتي كجزء من Softmaker Office. يتم تخزين البيانات في صفوف وأعمدة في ملفات PMVX بنفس الطريقة التي يتم بها في Microsoft Excel. تخزن ملفات PMVX الإعدادات المحددة مسبقًا كقالب يمكن استخدامه لإنشاء ملفات PMD و PMDX بعد تعبئة البيانات فيها. [XLSX] (/ar/ spreadsheet / xlsx /) هو تنسيق الملف الافتراضي لـ PlanMaker ويمكن فتحها مباشرة باستخدام Microsoft Excel. يمكنك أيضًا تحرير ملفات [XLS] (/ar/ spreadsheet / xls /) وإنشاء ملفات [PDF] (/ar/ pdf /) باستخدام PlanMaker.
+الملف بامتداد .pmvx هو ملف قالب جدول بيانات تم إنشاؤه باستخدام برنامج جدول بيانات [PlanMaker](https://www.softmaker.de/softmaker-office-planmaker) ، والذي يأتي كجزء من Softmaker Office. يتم تخزين البيانات في صفوف وأعمدة في ملفات PMVX بنفس الطريقة التي يتم بها في Microsoft Excel. تخزن ملفات PMVX الإعدادات المحددة مسبقًا كقالب يمكن استخدامه لإنشاء ملفات PMD و PMDX بعد تعبئة البيانات فيها. [XLSX](/ar/ spreadsheet / xlsx /) هو تنسيق الملف الافتراضي لـ PlanMaker ويمكن فتحها مباشرة باستخدام Microsoft Excel. يمكنك أيضًا تحرير ملفات [XLS](/ar/ spreadsheet / xls /) وإنشاء ملفات [PDF](/ar/ pdf /) باستخدام PlanMaker.
 
 ## تنسيق ملف PMVX
 
@@ -27,5 +27,5 @@
 
 ## مراجع ##
 
-* [SoftMaker Office - planMaker] (https://www.softmaker.de/softmaker-office-planmaker)
+* [SoftMaker Office - planMaker](https://www.softmaker.de/softmaker-office-planmaker)
 

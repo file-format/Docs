@@ -27,7 +27,7 @@ Das Dateiformat OST (Offline Storage Table) und [PST](/de/email/pst/) (Personal 
 * 32-Bit-ANSI-Format
 * 64-Bit-Unicode-Format
 
-PST-Dateiformat [Spezifikationen] (https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx), wie von Microsoft erhältlich, gelten auch für das OST-Dateiformat als kostenlos und unwiderrufliche Patentlizenzierung durch das Open Specification Promise. Es besteht aus folgenden unterscheidbaren Elementen:
+PST-Dateiformat [Spezifikationen](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx), wie von Microsoft erhältlich, gelten auch für das OST-Dateiformat als kostenlos und unwiderrufliche Patentlizenzierung durch das Open Specification Promise. Es besteht aus folgenden unterscheidbaren Elementen:
 
 * Fle-Header
 * Dateikopfdaten
@@ -58,7 +58,7 @@ Der Header beginnt mit einem 4-Byte-Zauberwort **!BDN**, dargestellt durch Bytes
 |bidNextP (Unicode: 8 Bytes; ANSI: 4 Bytes)|Nächste Seite BID. Seiten haben einen speziellen Zähler für die Zuordnung von bidIndex-Werten. Der Wert von bidIndex für BIDs für Seiten wird von diesem Zähler zugewiesen.
 |bidNextB (nur 4 Bytes ANSI): |Nächstes BID. Dieser Wert ist der monotone Zähler, der die für den nächsten zugewiesenen Block zuzuweisende BID anzeigt. BID-Werte rücken in 4er-Schritten vor. Weitere Einzelheiten finden Sie in Abschnitt 2.2.2.2.
 |dwUnique (4 Bytes)|Dies ist ein monoton ansteigender Wert, der jedes Mal geändert wird, wenn die HEADER-Struktur der PST-Datei geändert wird. Die Funktion dieses Werts besteht darin, einen eindeutigen Wert bereitzustellen und sicherzustellen, dass die HEADER-CRCs nach jeder Header-Modifikation unterschiedlich sind.
-|rgnid[] (128 bytes)|Ein festes Array von 32 NIDs, die jeweils einem der 32 möglichen NID_TYPEs entsprechen (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE, NID_TYPE_ASSOC_MESSAGE)
+|rgnid[](128 bytes)|Ein festes Array von 32 NIDs, die jeweils einem der 32 möglichen NID_TYPEs entsprechen (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE, NID_TYPE_ASSOC_MESSAGE)
 |qwUnused (8 Bytes)|Unbenutzter Speicherplatz; MUSS auf Null gesetzt werden. Nur Unicode-PST-Dateiformat.
 |root (Unicode: 72 Bytes; ANSI: 40 Bytes)|Eine ROOT-Struktur (Abschnitt 2.2.2.5).
 |dwAlign (4 Bytes)|Nicht verwendete Ausrichtungsbytes; MUSS auf Null gesetzt werden. Nur Unicode-PST-Dateiformat.
@@ -79,5 +79,5 @@ Der Header beginnt mit einem 4-Byte-Zauberwort **!BDN**, dargestellt durch Bytes
 ## Verweise
 
 * [Outlook Personal Folders (.ost) File Format](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Dateiformatspezifikationen für persönliche Ordner] (https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Dateiformatspezifikationen für persönliche Ordner](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

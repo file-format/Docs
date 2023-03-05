@@ -25,5 +25,5 @@ Les réseaux de caméras de sécurité de différentes entreprises qui ont besoi
 
 ## Références ##
 
-* [Logiciel de conception CCTV] (https://www.jvsg.com/collection-of-3d-models-security/)
+* [Logiciel de conception CCTV](https://www.jvsg.com/collection-of-3d-models-security/)
 

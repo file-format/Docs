@@ -66,6 +66,6 @@ Le tableau suivant spécifie les commandes PML :
 
 ## Références
 
-* [Langage de balisage Palm - Par MobileRead] (https://wiki.mobileread.com/wiki/EReader)
+* [Langage de balisage Palm - Par MobileRead](https://wiki.mobileread.com/wiki/EReader)
 * [E-Reader - Par MobileRead](https://en.wikipedia.org/wiki/E-reader)
 

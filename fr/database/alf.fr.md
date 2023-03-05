@@ -28,5 +28,5 @@ Les fichiers ALF sont enregistrés en tant que fichiers binaires et leur format 
 
 ## Références
 
-* [Une compréhension des fichiers qui composent un ACT! par Sage Database] (https://help.act.com/hc/en-us/articles/360024238854-An-Understanding-of-the-Files-that-Compose-an-ACT-by-Sage-Database#s2 )
+* [Une compréhension des fichiers qui composent un ACT! par Sage Database](https://help.act.com/hc/en-us/articles/360024238854-An-Understanding-of-the-Files-that-Compose-an-ACT-by-Sage-Database#s2 )
 

@@ -71,5 +71,5 @@ mm:ss.xxlast lyrics line
 
 ## संदर्भ
 
-* [एलआरसी गीत फ़ाइल प्रारूप - विकिपीडिया] (https://en.wikipedia.org/wiki/LRC_(file_format))
+* [एलआरसी गीत फ़ाइल प्रारूप - विकिपीडिया](https://en.wikipedia.org/wiki/LRC_(file_format))
 

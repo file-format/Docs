@@ -48,7 +48,7 @@ DefinitionBlock ("test.aml", "DSDT", 1, "OEMID ", "TABLEID  ", 0x00000000)
 
 ## संदर्भ
 
-* [एसीपीआई एएमएल] (https://wiki.osdev.org/AML)
-* [डीएसडीटी] (https://wiki.osdev.org/DSDT)
-* [एसएसडीटी] (https://wiki.osdev.org/एसएसडीटी)
+* [एसीपीआई एएमएल](https://wiki.osdev.org/AML)
+* [डीएसडीटी](https://wiki.osdev.org/DSDT)
+* [एसएसडीटी](https://wiki.osdev.org/एसएसडीटी)
 

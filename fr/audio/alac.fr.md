@@ -41,6 +41,6 @@ Les fichiers basés sur le codec ALAC sont des fichiers binaires disponibles en 
 ## Références
 
 * [ALAC - Wikipédia](https://en.wikipedia.org/wiki/Apple_Lossless)
-* [Codec audio sans perte Apple] (https://macosforge.github.io/alac/)
+* [Codec audio sans perte Apple](https://macosforge.github.io/alac/)
 * [macosforge - alac sur GitHub](https://github.com/macosforge/alac)
 

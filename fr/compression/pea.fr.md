@@ -51,6 +51,6 @@ L'en-tête de l'archive est de 10 octets et est structuré comme suit.
 
 ## Références
 
-* [Spécifications du format de fichier PEA] (https://peazip.github.io/pea_help.pdf)
-* [Format de fichier PEA] (https://peazip.github.io/pea-file-format.html#.pea_specifications)
+* [Spécifications du format de fichier PEA](https://peazip.github.io/pea_help.pdf)
+* [Format de fichier PEA](https://peazip.github.io/pea-file-format.html#.pea_specifications)
 

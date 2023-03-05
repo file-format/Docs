@@ -23,7 +23,7 @@ Un archivo con extensión .asf es un formato de archivo multimedia para almacena
 
 ## Formato de archivo ASF
 
-Un archivo ASF puede comprender múltiples flujos independientes o dependientes. Esto puede incluir múltiples flujos de audio para audio multicanal o múltiples flujos de video de tasa de bits. Las múltiples tasas de bits hacen que las secuencias sean adecuadas para la transmisión en diferentes anchos de banda. Además, las transmisiones en un archivo ASF pueden estar en formato comprimido o sin comprimir. La mejor compresión se logra con los códecs de la serie 9 de audio y video de Microsoft Windows Media. Las especificaciones completas del formato de archivo ASF están disponibles en [sitio web de Microsoft] (https://download.microsoft.com/download/7/9/0/790fecaa-f64a-4a5e-a430-0bccdab3f1b4/ASF_Specification.doc).
+Un archivo ASF puede comprender múltiples flujos independientes o dependientes. Esto puede incluir múltiples flujos de audio para audio multicanal o múltiples flujos de video de tasa de bits. Las múltiples tasas de bits hacen que las secuencias sean adecuadas para la transmisión en diferentes anchos de banda. Además, las transmisiones en un archivo ASF pueden estar en formato comprimido o sin comprimir. La mejor compresión se logra con los códecs de la serie 9 de audio y video de Microsoft Windows Media. Las especificaciones completas del formato de archivo ASF están disponibles en [sitio web de Microsoft](https://download.microsoft.com/download/7/9/0/790fecaa-f64a-4a5e-a430-0bccdab3f1b4/ASF_Specification.doc).
 
 ### Estructura de archivos de nivel superior ASF
 

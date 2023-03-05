@@ -28,7 +28,7 @@ SDC फ़ाइल एक स्प्रेडशीट फ़ाइल है
 ## संदर्भ ##
 
 * [कैल्क स्प्रेडशीट का परिचय](https://www.pitt.edu/~poole/libreofficeTutorials/libreofficeLesson4.pdf)
-* [स्टारऑफिस - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/StarOffice)
+* [स्टारऑफिस - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/StarOffice)
 * [माइम प्रकार - अपाचे](https://www.openoffice.org/framework/documentation/mimetypes/mimetypes.html)
 * [कैल्क - लिब्रेऑफ़िस](https://www.libreoffice.org/discover/calc/)
 

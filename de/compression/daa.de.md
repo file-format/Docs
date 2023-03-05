@@ -25,5 +25,5 @@ Obwohl keine Informationen über das Format veröffentlicht werden, handelt es s
 ## Verweise ##
 
 - [Direktzugriffsarchiv - Wikipedia](https://en.wikipedia.org/wiki/Direct_Access_Archive)
-- [Was ist eine DAA-Datei?] (https://www.poweriso.com/tutorials/what-is-daa-file.htm)
+- [Was ist eine DAA-Datei?](https://www.poweriso.com/tutorials/what-is-daa-file.htm)
 

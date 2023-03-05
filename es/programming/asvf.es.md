@@ -29,5 +29,5 @@ Los archivos ASVF se guardan como archivos comprimidos y pueden tener varios arc
 
 ## Referencia ##
 
-* [Marco de trabajo posterior a la deformación de Asphyre] (https://asphyre.net/)
+* [Marco de trabajo posterior a la deformación de Asphyre](https://asphyre.net/)
 

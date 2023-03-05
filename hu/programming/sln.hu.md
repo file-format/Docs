@@ -66,7 +66,7 @@ EndGlobal
 
 ### **Projektnyilatkozat** ###
 
-Egy megoldásfájl egynél több projektdeklarációt tartalmazhat, és azt is, hogy különböző projekttípusok vannak. Például egyetlen megoldásfájl tartalmazhat egy CSharp- és egy VB.NET-projektet is. Ezeket a típusokat a [Project-Type-GUID] (https://www.codeproject.com/Reference/720512/List-of-Visual-Studio-Project-Type-GUIDs) használó megoldásokban különböztetjük meg. A fenti projektnyilatkozat az alábbiak szerint általánosítható az egyértelmű megértés érdekében.
+Egy megoldásfájl egynél több projektdeklarációt tartalmazhat, és azt is, hogy különböző projekttípusok vannak. Például egyetlen megoldásfájl tartalmazhat egy CSharp- és egy VB.NET-projektet is. Ezeket a típusokat a [Project-Type-GUID](https://www.codeproject.com/Reference/720512/List-of-Visual-Studio-Project-Type-GUIDs) használó megoldásokban különböztetjük meg. A fenti projektnyilatkozat az alábbiak szerint általánosítható az egyértelmű megértés érdekében.
 
 ```
 Project("{Project-Type-GUID}") # "Project-Name", "Project-Path.extension", "{Project-GUID}"

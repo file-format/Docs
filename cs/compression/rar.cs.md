@@ -66,7 +66,7 @@ Záhlaví souboru 1
 |Záznam o obnovení (volitelné)
 |Konec hlavičky archivu
 
-Informace o každé části souboru RAR uvedené výše lze nalézt v dokumentu [Specifikace formátu RAR 5.0] (https://www.rarlab.com/technote.htm#arcstruct).
+Informace o každé části souboru RAR uvedené výše lze nalézt v dokumentu [Specifikace formátu RAR 5.0](https://www.rarlab.com/technote.htm#arcstruct).
 
 #### Samorozbalovací archivy RAR
 

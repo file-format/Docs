@@ -36,6 +36,6 @@ M4P означает MPEG 4 Protected (аудио), и он кодирует з�
 
 ## Использованная литература ##
 
-* [MPEG-4, часть 14 — Википедия] (https://en.wikipedia.org/wiki/MPEG-4_Part_14)
+* [MPEG-4, часть 14 — Википедия](https://en.wikipedia.org/wiki/MPEG-4_Part_14)
 * [Формат MPEG-4 Part 14 Audio (M4A,M4B,M4P) и пример восстановления](https://www.file-recovery.com/m4a-signature-format.htm)
 

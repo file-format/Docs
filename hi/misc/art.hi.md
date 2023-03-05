@@ -37,6 +37,6 @@
 
 ## संदर्भ
 
-* [बर्निना] (https://www.bernina.com/en-US/Home-United-States)
+* [बर्निना](https://www.bernina.com/en-US/Home-United-States)
 * [बर्निना एम्ब्रायडरी सॉफ्टवेयर V8: फॉर्मेट, एक्सटेंशन और फाइलों के बारे में](https://blog.bernina.com/en/2019/07/lesson-14-bernina-embroidery-software-v8/)
 

@@ -18,7 +18,7 @@
 
 ## ما هو ملف LESS؟
 
-ملف LESS هو ورقة أنماط تُستخدم لصفحات الويب ويتم إنشاؤها باستخدام Leaner Style Sheets (LESS). ينفذ إضافات إلى لغة CSS القياسية ، مما يجعل من السهل التعلم والتنفيذ. يقوم ملف LESS بتوسيع [CSS] (/ar/ web / css /) عن طريق إضافة ميزات مثل المتغيرات و Mixins و Nesting والعمليات والوظائف ومساحات الأسماء والموصلات.
+ملف LESS هو ورقة أنماط تُستخدم لصفحات الويب ويتم إنشاؤها باستخدام Leaner Style Sheets (LESS). ينفذ إضافات إلى لغة CSS القياسية ، مما يجعل من السهل التعلم والتنفيذ. يقوم ملف LESS بتوسيع [CSS](/ar/ web / css /) عن طريق إضافة ميزات مثل المتغيرات و Mixins و Nesting والعمليات والوظائف ومساحات الأسماء والموصلات.
 
 ## أصغر حجمًا تنسيق ملف أوراق الأنماط
 
@@ -26,6 +26,6 @@
 
 ## مراجع
 
-* [Leaner Style Sheets] (https://lesscss.org/)
-* [Leaner Style Sheets Docs - Github] (https://github.com/less/less-docs)
+* [Leaner Style Sheets](https://lesscss.org/)
+* [Leaner Style Sheets Docs - Github](https://github.com/less/less-docs)
 

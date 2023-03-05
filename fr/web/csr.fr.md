@@ -61,5 +61,5 @@ Un fichier CSR contient les informations suivantes.
 
 ## Références
 
-* [Concept Application Server] (https://github.com/Devronium/ConceptApplicationServer)
+* [Concept Application Server](https://github.com/Devronium/ConceptApplicationServer)
 

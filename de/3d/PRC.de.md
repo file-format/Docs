@@ -71,6 +71,6 @@ Der Reader verfügt über einen Vollbildmodus zum Lesen und unterstützt viele P
 ## Verweise
 
 - [PRC - Wikipedia](https://en.wikipedia.org/wiki/PRC_(file_format))
-- [PRC-Formatspezifikation] (https://web.archive.org/web/20081202034541/http://livedocs.adobe.com/acrobat_sdk/9/Acrobat9_HTMLHelp/API_References/PRCReference/PRC_Format_Specification/index.html)
+- [PRC-Formatspezifikation](https://web.archive.org/web/20081202034541/http://livedocs.adobe.com/acrobat_sdk/9/Acrobat9_HTMLHelp/API_References/PRCReference/PRC_Format_Specification/index.html)
 - [Vergleich von E-Book-Formaten - Von Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_e-book_formats)
 

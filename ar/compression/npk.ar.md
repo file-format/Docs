@@ -23,12 +23,12 @@
 
 ## تنسيق ملف NPK
 
-يتم تخزين ملفات NPK كأرشيف ثنائي مضغوط. إنه تنسيق ملف مغلق يستخدمه MikroTik أنفسهم فقط. ليس الغرض منه إنشاء إضافات RouterOS عبر جهات خارجية. يتم الاحتفاظ بملفات NPK بواسطة MikroTik نفسه ويمكن تنزيل الإصدارات التي تمت ترقيتها من أقسام التنزيل في موقع [MikroTik] (https://mikrotik.com/download).
+يتم تخزين ملفات NPK كأرشيف ثنائي مضغوط. إنه تنسيق ملف مغلق يستخدمه MikroTik أنفسهم فقط. ليس الغرض منه إنشاء إضافات RouterOS عبر جهات خارجية. يتم الاحتفاظ بملفات NPK بواسطة MikroTik نفسه ويمكن تنزيل الإصدارات التي تمت ترقيتها من أقسام التنزيل في موقع [MikroTik](https://mikrotik.com/download).
 
 عندما يتم تحميل ملف NPK على جهاز توجيه ، فإن نظام تشغيل جهاز التوجيه لا يدخل حيز التنفيذ ما لم يتم إعادة تشغيله. لذلك ، يلزم إعادة التشغيل من أجل ترقية نظام تشغيل جهاز التوجيه.
 
 ## مراجع
 
-* [MikroTik - Upgrading Router OS] (https://mikrotik.com/download)
-* [كيفية إنشاء ملفات NPK] (https://forum.mikrotik.com/viewtopic.php؟t=87126)
+* [MikroTik - Upgrading Router OS](https://mikrotik.com/download)
+* [كيفية إنشاء ملفات NPK](https://forum.mikrotik.com/viewtopic.php؟t=87126)
 

@@ -24,5 +24,5 @@ Eine DISCOMAP-Datei ist eine Ausgabedatei, die vom Microsoft Web Services Discov
 
 * [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894?tab=Overview)
 * [Erkennung von Webdiensten](https://en.wikipedia.org/wiki/Web_Services_Discovery)
-* [C#-Beispiel der DiscoveryClient-Klasse] (https://learn.microsoft.com/en-us/dotnet/api/system.web.services.discovery.discoveryclientprotocol?view=netframework-4.8)
+* [C#-Beispiel der DiscoveryClient-Klasse](https://learn.microsoft.com/en-us/dotnet/api/system.web.services.discovery.discoveryclientprotocol?view=netframework-4.8)
 

@@ -30,6 +30,6 @@ En conclusion, le lecteur NVA est un superbe outil qui fait de la lecture des li
 
 ## Références
 
-* [NVA Reader est un lecteur de livres électroniques qui ouvre les fichiers NVA] (https://nva-reader.informer.com/1.0/)
+* [NVA Reader est un lecteur de livres électroniques qui ouvre les fichiers NVA](https://nva-reader.informer.com/1.0/)
 
 

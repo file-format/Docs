@@ -27,5 +27,5 @@
 ## संदर्भ ##
 
 * [ईएसआरआई आर्कगिस प्रो](https://fileinfo.com/software/esri/arcgis_for_desktop)
-* [एपीआर फ़ाइल प्रारूप - एमआईटी] (http://kb.mit.edu/confluence/pages/viewpage.action?pageId=11338198)
+* [एपीआर फ़ाइल प्रारूप - एमआईटी](http://kb.mit.edu/confluence/pages/viewpage.action?pageId=11338198)
 

@@ -53,6 +53,6 @@ Typowy plik FZP ma następującą strukturę XML.
 ```
 ## Bibliografia
 
-* [Specyfikacje formatu plików FZP] (https://github.com/fritzing/fzp/blob/master/docs/README.md)
+* [Specyfikacje formatu plików FZP](https://github.com/fritzing/fzp/blob/master/docs/README.md)
 * [Nowe części z rozszerzeniem fzpz](https://forum.fritzing.org/t/new-parts-with-fzpz-extension/8007/2)
 

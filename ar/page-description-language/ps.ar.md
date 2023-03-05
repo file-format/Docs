@@ -54,5 +54,5 @@ PS (.ps) هو امتداد الملف لوثيقة PostScript. تصنف الأر
 
 ## مراجع ##
 
-* [عائلة تنسيق PostScript] (https://www.loc.gov/preservation/digital/formats/fdd/fdd000029.shtml)
+* [عائلة تنسيق PostScript](https://www.loc.gov/preservation/digital/formats/fdd/fdd000029.shtml)
 

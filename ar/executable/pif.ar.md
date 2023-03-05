@@ -91,8 +91,8 @@
 
 ## مراجع
 
-* [ملف معلومات البرنامج (PIF)] (http://justsolve.archiveteam.org/wiki/Program_information_file)
-* [ملف معلومات البرنامج - بواسطة ويكيبيديا] (https://en.wikipedia.org/wiki/Program_information_file)
+* [ملف معلومات البرنامج (PIF)](http://justsolve.archiveteam.org/wiki/Program_information_file)
+* [ملف معلومات البرنامج - بواسطة ويكيبيديا](https://en.wikipedia.org/wiki/Program_information_file)
 
 
 

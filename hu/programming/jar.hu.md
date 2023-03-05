@@ -23,7 +23,7 @@ A .jar kiterjesztésű fájl egy Java archív fájl, amely számos különböző
 
 ## JAR fájlformátum
 
-A JAR-fájlok a népszerű [ZIP-fájlformátumon] (/hu/compression/zip/) alapulnak, amely egyetlen fájlban archiválja az egyes tartalomfájlokat. A JAR fájlformátum támogatja a tömörítést, ami kisebb fájlméretet eredményez a letöltéshez, és így tovább javítja a letöltési időt. Az Oracle [JAR-fájlspecifikációi](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html) cikkben részletesen ismertetjük a JAR-fájlok belső specifikációit.
+A JAR-fájlok a népszerű [ZIP-fájlformátumon](/hu/compression/zip/) alapulnak, amely egyetlen fájlban archiválja az egyes tartalomfájlokat. A JAR fájlformátum támogatja a tömörítést, ami kisebb fájlméretet eredményez a letöltéshez, és így tovább javítja a letöltési időt. Az Oracle [JAR-fájlspecifikációi](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html) cikkben részletesen ismertetjük a JAR-fájlok belső specifikációit.
 
 ### A Manifest fájl
 

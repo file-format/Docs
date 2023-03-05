@@ -23,7 +23,7 @@
 
 ## تنسيق ملف FOMOD - مزيد من المعلومات
 
-عادةً ما يتم حفظ ملفات FOMOD كأرشيف مضغوط باستخدام تنسيقات الضغط [.7z] (/ar/ compression / 7z /) أو [.zip] (/ar/ compression / zip /) أو [.rar] (/ar/ compression / rar /). في FOMM ، يتم تحميل هذا الملف وتثبيته على النظام.
+عادةً ما يتم حفظ ملفات FOMOD كأرشيف مضغوط باستخدام تنسيقات الضغط [.7z](/ar/ compression / 7z /) أو [.zip](/ar/ compression / zip /) أو [.rar](/ar/ compression / rar /). في FOMM ، يتم تحميل هذا الملف وتثبيته على النظام.
 
 ## كيفية تثبيت ملف .fomod؟
 
@@ -31,6 +31,6 @@
 
 ## مراجع
 
-* [تنسيق ملف FOMOD] (https://wiki.nexusmods.com/index.php/Installing_A_Mod_With_FOMM)
-* [تعديل لعبة الفيديو] (https://en.wikipedia.org/wiki/Video_game_modding)
+* [تنسيق ملف FOMOD](https://wiki.nexusmods.com/index.php/Installing_A_Mod_With_FOMM)
+* [تعديل لعبة الفيديو](https://en.wikipedia.org/wiki/Video_game_modding)
 

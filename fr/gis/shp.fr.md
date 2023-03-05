@@ -43,7 +43,7 @@ Il peut également y avoir d'autres fichiers facultatifs qui partagent le même 
 
 ## Spécifications du format de fichier SHP
 
-Les spécifications ouvertes du fichier de formes sont disponibles en ligne auprès d'ESRI sous la forme de [Description technique] (http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) et élaborent en détail la structure globale du fichier. Les informations contenues dans le fichier .shp principal se composent d'en-têtes et d'enregistrements. L'en-tête de fichier de longueur fixe est suivi d'enregistrements de longueur variable où chaque enregistrement est constitué d'un en-tête d'enregistrement de longueur fixe suivi d'un contenu d'enregistrement de longueur variable.
+Les spécifications ouvertes du fichier de formes sont disponibles en ligne auprès d'ESRI sous la forme de [Description technique](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) et élaborent en détail la structure globale du fichier. Les informations contenues dans le fichier .shp principal se composent d'en-têtes et d'enregistrements. L'en-tête de fichier de longueur fixe est suivi d'enregistrements de longueur variable où chaque enregistrement est constitué d'un en-tête d'enregistrement de longueur fixe suivi d'un contenu d'enregistrement de longueur variable.
 
 ### En-tête du fichier SHP principal
 
@@ -116,5 +116,5 @@ Des exemples d'autres types de formes peuvent être trouvés dans le document de
 
 ## Références ##
 
-* [Description technique du fichier de forme ESRI] (http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) par ESRI
+* [Description technique du fichier de forme ESRI](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) par ESRI
 

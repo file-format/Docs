@@ -25,5 +25,5 @@
 
 ## مراجع
 
-* [PhCNC] (http://www.accuratecnc.com/PhCNC.php)
+* [PhCNC](http://www.accuratecnc.com/PhCNC.php)
 

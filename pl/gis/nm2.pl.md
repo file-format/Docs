@@ -22,7 +22,7 @@ Plik z rozszerzeniem .nm2 to plik mapy utworzony za pomocą systemu nawigacji Na
 
 ## Format pliku NM2 — więcej informacji
 
-Pliki NM2 są zapisywane jako pliki binarne, a ich wewnętrzny format pliku/struktura danych nie jest publicznie dostępna. Najnowsze wersje Navitel zapisują dane jako pliki .nm7. Istnieje kilka plików map dostępnych przez Navitel na ich [stronie internetowej] (https://www.navitel.cz/en/downloads/demo). [Dokumentacja Navitel](https://www.navitel.cz/en/downloads/documentation) zawiera kompletne instrukcje obsługi dotyczące korzystania z systemu nawigacji dla różnych typów urządzeń i pojazdów.
+Pliki NM2 są zapisywane jako pliki binarne, a ich wewnętrzny format pliku/struktura danych nie jest publicznie dostępna. Najnowsze wersje Navitel zapisują dane jako pliki .nm7. Istnieje kilka plików map dostępnych przez Navitel na ich [stronie internetowej](https://www.navitel.cz/en/downloads/demo). [Dokumentacja Navitel](https://www.navitel.cz/en/downloads/documentation) zawiera kompletne instrukcje obsługi dotyczące korzystania z systemu nawigacji dla różnych typów urządzeń i pojazdów.
 
 ## Bibliografia
 

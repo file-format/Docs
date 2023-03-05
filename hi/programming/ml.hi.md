@@ -23,5 +23,5 @@
 
 ## संदर्भ
 
-* [एमएल प्रोग्रामिंग भाषा - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/ML_(programming_language))
+* [एमएल प्रोग्रामिंग भाषा - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/ML_(programming_language))
 

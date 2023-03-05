@@ -129,6 +129,6 @@ img, a img {border: none;}
 
 ## संदर्भ
 
-* [एचएफएस] (https://www.rejetto.com/wiki/index.php/Refinements)
-* [टीपीएल उदाहरण - जीथब] (https://github.com/heiswayi/hfs-templates/blob/master/HFSTemplate_myHFS.tpl)
+* [एचएफएस](https://www.rejetto.com/wiki/index.php/Refinements)
+* [टीपीएल उदाहरण - जीथब](https://github.com/heiswayi/hfs-templates/blob/master/HFSTemplate_myHFS.tpl)
 

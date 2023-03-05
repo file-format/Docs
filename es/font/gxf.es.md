@@ -29,5 +29,5 @@ General CADD Pro ofrece una estructura de comando de dos letras que muchos profe
 
 ## Referencias
 
-* [General CADD Pro] (https://www.generalcadd.com/oldSite/101release.htm)
+* [General CADD Pro](https://www.generalcadd.com/oldSite/101release.htm)
 

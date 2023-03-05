@@ -19,7 +19,7 @@
 
 ## Co je soubor NSF?
 
-Soubor s příponou .nsf (Notes Storage Facility) je formát databázového souboru používaný [software IBM Notes] (https://en.wikipedia.org/wiki/HCL_Domino), který byl dříve známý jako Lotus Notes. Definuje schéma pro ukládání různých druhů objektů, jako jsou e-maily, schůzky, dokumenty, formuláře a pohledy. Všechny tyto informace jsou obsaženy v jediném souboru NSF pro obchodní spolupráci, který je podobný souboru PST/OST. Některé z aplikací, které mohou otevřít soubory NSF, zahrnují IBM Lotus Notes a IBM Domino.
+Soubor s příponou .nsf (Notes Storage Facility) je formát databázového souboru používaný [software IBM Notes](https://en.wikipedia.org/wiki/HCL_Domino), který byl dříve známý jako Lotus Notes. Definuje schéma pro ukládání různých druhů objektů, jako jsou e-maily, schůzky, dokumenty, formuláře a pohledy. Všechny tyto informace jsou obsaženy v jediném souboru NSF pro obchodní spolupráci, který je podobný souboru PST/OST. Některé z aplikací, které mohou otevřít soubory NSF, zahrnují IBM Lotus Notes a IBM Domino.
 
 ## Specifikace formátu souborů NSF
 

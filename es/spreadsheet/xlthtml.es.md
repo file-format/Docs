@@ -23,7 +23,7 @@ Un archivo con la extensión .xlthtml es una versión [HTML](/es/web/html/) de l
 
 ## Formato de archivo XLTHTML - Más información
 
-Los archivos XLTHTML usaban el formato de archivo HTML para guardar las plantillas XLT para abrirlas en un navegador web. XLT en sí se basa en el formato de archivo binario de Excel que se introdujo con la versión de Excel 97-2003. Estos archivos se pueden utilizar como archivos de inicio con formato definido para crear documentos normales para completar los datos de la hoja de cálculo. Solo como referencia, XLT se basa en el binario [especificaciones de formato de archivo XLS] (https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx) que está documentado por Microsoft para referencia del desarrollador.
+Los archivos XLTHTML usaban el formato de archivo HTML para guardar las plantillas XLT para abrirlas en un navegador web. XLT en sí se basa en el formato de archivo binario de Excel que se introdujo con la versión de Excel 97-2003. Estos archivos se pueden utilizar como archivos de inicio con formato definido para crear documentos normales para completar los datos de la hoja de cálculo. Solo como referencia, XLT se basa en el binario [especificaciones de formato de archivo XLS](https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx) que está documentado por Microsoft para referencia del desarrollador.
 
 ## Referencias ##
 

@@ -18,7 +18,7 @@
 
 ## ¿Qué es un archivo MSO?
 
-Un archivo MSO es un formato de archivo contenedor de datos que se crea cuando se envía un mensaje HTML mediante Microsoft Outlook. Esto sucede principalmente con las aplicaciones de Microsoft Office 2000. En la mayoría de los casos, el mensaje de correo electrónico se adjunta con el nombre de archivo **Oledata.mso**. El destinatario del correo electrónico, cuando abre dicho correo electrónico, puede ver el archivo correctamente incluso si no tiene instalado el mismo software. Los archivos MSO hacen referencia al [Formato de archivo de documento compuesto de Microsoft (MCDF)] (https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/53989ce4-7b05-4f8d-829b-d08d6148375b).
+Un archivo MSO es un formato de archivo contenedor de datos que se crea cuando se envía un mensaje HTML mediante Microsoft Outlook. Esto sucede principalmente con las aplicaciones de Microsoft Office 2000. En la mayoría de los casos, el mensaje de correo electrónico se adjunta con el nombre de archivo **Oledata.mso**. El destinatario del correo electrónico, cuando abre dicho correo electrónico, puede ver el archivo correctamente incluso si no tiene instalado el mismo software. Los archivos MSO hacen referencia al [Formato de archivo de documento compuesto de Microsoft (MCDF)](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/53989ce4-7b05-4f8d-829b-d08d6148375b).
 
 ## Formato de archivo MSO de Microsoft
 

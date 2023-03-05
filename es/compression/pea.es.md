@@ -23,7 +23,7 @@ Un archivo con extensión .pea, acrónimo de Pack, Encrypt y Authenticate, es un
 
 ## Formato de archivo PEA
 
-Las [especificaciones de formato de archivo PEA] (https://peazip.github.io/pea_help.pdf) están disponibles públicamente para referencia del desarrollador. Los archivos PEA son archivos binarios con un modelo de seguridad flexible y verificaciones de integridad redundantes que van desde sumas de verificación hasta hashes criptográficamente fuertes. Esto define tres niveles diferentes de comunicación a controlar:
+Las [especificaciones de formato de archivo PEA](https://peazip.github.io/pea_help.pdf) están disponibles públicamente para referencia del desarrollador. Los archivos PEA son archivos binarios con un modelo de seguridad flexible y verificaciones de integridad redundantes que van desde sumas de verificación hasta hashes criptográficamente fuertes. Esto define tres niveles diferentes de comunicación a controlar:
 
 * Flujos: el flujo de datos de salida real que está formado por múltiples archivos de entrada y se puede escribir en múltiples volúmenes de salida
 * Objetos: archivos de entrada y carpetas enviados al archivo .pea

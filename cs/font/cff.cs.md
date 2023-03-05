@@ -19,11 +19,11 @@
 
 ## Co je soubor CFF?
 
-Soubor s příponou .cff je kompaktní formát písma a je také známý jako PostScript Type 1 nebo CIDFont. CFF funguje jako kontejner pro ukládání více písem dohromady v jedné jednotce známé jako FontSet. Návrh písem CFF umožňuje vkládání kódu jazyka PostScript, který umožňuje další flexibilitu a rozšiřitelnost formátu pro použití v prostředí tiskárny. Soubory písem CFF lze otevřít a převést pomocí rozhraní API, jako je [Aspose.Font] (https://products.aspose.com/font).
+Soubor s příponou .cff je kompaktní formát písma a je také známý jako PostScript Type 1 nebo CIDFont. CFF funguje jako kontejner pro ukládání více písem dohromady v jedné jednotce známé jako FontSet. Návrh písem CFF umožňuje vkládání kódu jazyka PostScript, který umožňuje další flexibilitu a rozšiřitelnost formátu pro použití v prostředí tiskárny. Soubory písem CFF lze otevřít a převést pomocí rozhraní API, jako je [Aspose.Font](https://products.aspose.com/font).
 
 ## Formát souboru CFF
 
-Soubory CFF jsou binární soubory, které obsahují strukturované rozložení dat, mají definované datové typy, záhlaví, organizaci glyfů a slovníky tabulek. Další podrobnosti o nich lze nalézt ve [specifikacích formátu kompaktního písma] (https://docs.microsoft.com/en-us/typography/opentype/spec/cff).
+Soubory CFF jsou binární soubory, které obsahují strukturované rozložení dat, mají definované datové typy, záhlaví, organizaci glyfů a slovníky tabulek. Další podrobnosti o nich lze nalézt ve [specifikacích formátu kompaktního písma](https://docs.microsoft.com/en-us/typography/opentype/spec/cff).
 
 ### Rozložení dat
 Rozložení dat formátu souboru CFF je znázorněno níže.

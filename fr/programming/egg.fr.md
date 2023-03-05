@@ -30,5 +30,5 @@ Les fichiers EGG peuvent être créés à l'aide du package **distutils** dispon
 
 ## Référence ##
 
-* [ŒUFS Python] (https://python101.pythonlibrary.org/chapter38_eggs.html)
+* [ŒUFS Python](https://python101.pythonlibrary.org/chapter38_eggs.html)
 

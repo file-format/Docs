@@ -19,7 +19,7 @@
 
 ## Was ist eine ALB-Datei?
 
-Eine ALB-Datei ist eine Bibliotheksdatei, die von der IDE-Anwendung **Alpha Five** verwendet wird, die zum Entwickeln von Webanwendungen verwendet wird. Sein Hauptzweck besteht darin, Informationen für die entsprechende Alpha Five [ADB-Datei] (/de/database/adb/) zu speichern. Dazu gehören Datenwörterbuchinformationen wie Einstellungen, Skriptzeiger, Menüs, benutzerdefinierte Funktionen, Bitmaps, Symbolleisten und Importdefinitionen.
+Eine ALB-Datei ist eine Bibliotheksdatei, die von der IDE-Anwendung **Alpha Five** verwendet wird, die zum Entwickeln von Webanwendungen verwendet wird. Sein Hauptzweck besteht darin, Informationen für die entsprechende Alpha Five [ADB-Datei](/de/database/adb/) zu speichern. Dazu gehören Datenwörterbuchinformationen wie Einstellungen, Skriptzeiger, Menüs, benutzerdefinierte Funktionen, Bitmaps, Symbolleisten und Importdefinitionen.
 
 ALB-Dateien können mit **Alpha Software Alpha Anywhere** geöffnet werden.
 
@@ -30,5 +30,5 @@ ALB-Dateien werden im proprietären Dateiformat von Alpha File gespeichert und i
 ## Verweise
 
 * [ADB-Datei](/de/database/adb/)
-* [Die Alpha Anywhere-IDE] (https://documentation.alphasoftware.com/pages/GettingStarted/IDE/index.xml)
+* [Die Alpha Anywhere-IDE](https://documentation.alphasoftware.com/pages/GettingStarted/IDE/index.xml)
 

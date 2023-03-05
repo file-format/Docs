@@ -49,5 +49,5 @@ Itérer les morceaux, jusqu'à ce qu'un morceau de type inconnu soit détecté, 
 ## Références
 
 * [MPEG-4 Partie 14 - Par Wikipédia](https://en.wikipedia.org/wiki/MPEG-4_Part_14)
-* [Exemple de format et de récupération audio MPEG-4 Partie 14 (M4A, M4B, M4P)] (https://www.file-recovery.com/m4a-signature-format.htm)
+* [Exemple de format et de récupération audio MPEG-4 Partie 14 (M4A, M4B, M4P)](https://www.file-recovery.com/m4a-signature-format.htm)
 

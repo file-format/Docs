@@ -43,7 +43,7 @@ Más opcionális fájlok is lehetnek, amelyek ugyanazt a nevet viselik, mint a f
 
 ## Az SHP fájlformátum specifikációi
 
-A shapefile nyílt specifikációi online elérhetők az ESRI-től [Technical Description] (http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) formájában, és részletesen kidolgozzák a fájl általános szerkezetét. A fő .shp fájl információi fejlécekből és rekordokból állnak. A rögzített hosszúságú fájlfejlécet változó hosszúságú rekordok követik, ahol minden rekord egy rögzített hosszúságú rekord fejlécből áll, amelyet változó hosszúságú rekordtartalom követ.
+A shapefile nyílt specifikációi online elérhetők az ESRI-től [Technical Description](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) formájában, és részletesen kidolgozzák a fájl általános szerkezetét. A fő .shp fájl információi fejlécekből és rekordokból állnak. A rögzített hosszúságú fájlfejlécet változó hosszúságú rekordok követik, ahol minden rekord egy rögzített hosszúságú rekord fejlécből áll, amelyet változó hosszúságú rekordtartalom követ.
 
 ### Fő SHP-fájl fejléc
 
@@ -116,5 +116,5 @@ Más alaktípusokra példákat találhat az ESRI műszaki leírásában.
 
 ## Hivatkozások ##
 
-* [ESRI Shapefile műszaki leírás] (http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) az ESRI által
+* [ESRI Shapefile műszaki leírás](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) az ESRI által
 

@@ -41,6 +41,6 @@ Les éléments de jeu suivants peuvent être personnalisés avec le fichier .osk
 
 ## Références
 
-* [OSU ! Jeu de rythme] (https://osu.ppy.sh/home)
-* [Format de fichier OSK] (https://osu.ppy.sh/wiki/en/osu%21_File_Formats/Osk_%28file_format%29)
+* [OSU ! Jeu de rythme](https://osu.ppy.sh/home)
+* [Format de fichier OSK](https://osu.ppy.sh/wiki/en/osu%21_File_Formats/Osk_%28file_format%29)
 

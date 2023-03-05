@@ -23,7 +23,7 @@ Plik PAGES to dokument tekstowy utworzony za pomocą aplikacji Apple pages, któ
 
 ## Format pliku PAGES
 
-Pliki PAGES są zapisywane jako pliki [ZIP] (/pl/compression/zip/), których nazwę można zmienić na rozszerzenie ZIP i otworzyć za pomocą narzędzia do archiwizacji, aby wyświetlić jego zawartość. Zawiera plik JPG zawarty w archiwum, którego można użyć do wyświetlenia podglądu pierwszej strony dokumentu. Zawiera również plik PDF, który służy do przeglądania całego dokumentu.
+Pliki PAGES są zapisywane jako pliki [ZIP](/pl/compression/zip/), których nazwę można zmienić na rozszerzenie ZIP i otworzyć za pomocą narzędzia do archiwizacji, aby wyświetlić jego zawartość. Zawiera plik JPG zawarty w archiwum, którego można użyć do wyświetlenia podglądu pierwszej strony dokumentu. Zawiera również plik PDF, który służy do przeglądania całego dokumentu.
 
 ## Jak przekonwertować dokumenty PAGES na WORD
 

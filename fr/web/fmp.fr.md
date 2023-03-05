@@ -27,5 +27,5 @@ Il n'y a aucune information disponible en tant que telle sur le format de fichie
 
 ## Références
 
-* [Menu Flash 123] (https://123-flash-menu.en.uptodown.com/windows)
+* [Menu Flash 123](https://123-flash-menu.en.uptodown.com/windows)
 

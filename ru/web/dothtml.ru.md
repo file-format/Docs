@@ -26,5 +26,5 @@
 
 ## Использованная литература ##
 
-* [DOCTYPE HTML] (https://www.w3schools.com/tags/tag_doctype.asp)
+* [DOCTYPE HTML](https://www.w3schools.com/tags/tag_doctype.asp)
 

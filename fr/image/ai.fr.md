@@ -48,6 +48,6 @@ Les balises d'objet sont utilisées pour attacher des informations personnalisé
 * Données
 
 ## Références
-* [Spécifications du format de fichier Adobe Illustrator] (https://web.archive.org/web/20150906044646/http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf)
+* [Spécifications du format de fichier Adobe Illustrator](https://web.archive.org/web/20150906044646/http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf)
 * [Format de fichier AI par PaintShopPro](https://www.paintshoppro.com/en/pages/ai-file/)
 

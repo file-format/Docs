@@ -36,6 +36,6 @@
 
 ## संदर्भ
 
-* [डीईएम फ़ाइलें] (https://en.wikipedia.org/wiki/Digital_elevation_model)
-* [यूएसजीएस - डीईएम] (https://www.usgs.gov/)
+* [डीईएम फ़ाइलें](https://en.wikipedia.org/wiki/Digital_elevation_model)
+* [यूएसजीएस - डीईएम](https://www.usgs.gov/)
 

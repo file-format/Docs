@@ -79,6 +79,6 @@
 
 ## использованная литература
 
-* [Формат файла Amazon APNX] (https://nachtimwald.com/2011/02/09/amazon-apnx-file-format/)
-* [APNX — MobileRead Wiki] (https://wiki.mobileread.com/wiki/APNX)
+* [Формат файла Amazon APNX](https://nachtimwald.com/2011/02/09/amazon-apnx-file-format/)
+* [APNX — MobileRead Wiki](https://wiki.mobileread.com/wiki/APNX)
 

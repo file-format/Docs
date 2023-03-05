@@ -25,7 +25,7 @@ Tệp có phần mở rộng .dwt là tệp mẫu trang web được tạo bằn
 
 Các tệp DWT được phát triển và lưu dưới dạng tệp văn bản thuần túy. Chúng có thể được mở trong Dreamweaver hoặc bất kỳ trình soạn thảo văn bản nào và có thể được chỉnh sửa để thay đổi theo yêu cầu. Phần mềm Dreamweaver cập nhật giao diện người dùng khi các thay đổi được áp dụng và người dùng có thể quan sát tác động của các thay đổi một cách trực quan trong giao diện người dùng của ứng dụng.
 
-Bất cứ khi nào bạn lưu trang [HTML] (/vi/web/html/) dưới dạng tệp mẫu, Dreamweaver tạo thư mục mẫu ở cấp gốc của thư mục gốc cục bộ. Liên kết bị hỏng nếu tệp .dwt được di chuyển từ thư mục Mẫu hoặc tệp được đổi tên. Vì vậy, điều quan trọng là phải giữ các tệp .dwt trong thư mục Mẫu nơi Dreamweaver tạo nó. Tốt hơn là giữ các thành phần khác của trang web của bạn, chẳng hạn như tệp nguồn hình ảnh hoặc tài liệu HTML, ở một vị trí khác ngoài thư mục Mẫu.
+Bất cứ khi nào bạn lưu trang [HTML](/vi/web/html/) dưới dạng tệp mẫu, Dreamweaver tạo thư mục mẫu ở cấp gốc của thư mục gốc cục bộ. Liên kết bị hỏng nếu tệp .dwt được di chuyển từ thư mục Mẫu hoặc tệp được đổi tên. Vì vậy, điều quan trọng là phải giữ các tệp .dwt trong thư mục Mẫu nơi Dreamweaver tạo nó. Tốt hơn là giữ các thành phần khác của trang web của bạn, chẳng hạn như tệp nguồn hình ảnh hoặc tài liệu HTML, ở một vị trí khác ngoài thư mục Mẫu.
 
 ## Giới thiệu về DreamWeaver
 

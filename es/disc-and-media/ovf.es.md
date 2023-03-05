@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo OVF?
 
-Un archivo OVF es un archivo de texto que contiene información sobre el empaquetado y la distribución de un software que se ejecuta en una máquina virtual. Está formateado según las [Especificaciones estándar de virtualización abierta] (https://www.dmtf.org/standards/ovf) que describen todos los requisitos (como seguridad, portabilidad, eficiencia y capacidad de ampliación) para ejecutar aplicaciones en máquinas virtuales. La Organización Internacional de Normalización (ISO) ha adoptado OVF como norma ISO 17203.
+Un archivo OVF es un archivo de texto que contiene información sobre el empaquetado y la distribución de un software que se ejecuta en una máquina virtual. Está formateado según las [Especificaciones estándar de virtualización abierta](https://www.dmtf.org/standards/ovf) que describen todos los requisitos (como seguridad, portabilidad, eficiencia y capacidad de ampliación) para ejecutar aplicaciones en máquinas virtuales. La Organización Internacional de Normalización (ISO) ha adoptado OVF como norma ISO 17203.
 
 ## Breve historia del formato de archivo OVF
 

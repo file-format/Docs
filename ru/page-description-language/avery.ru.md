@@ -30,5 +30,5 @@
 
 ## использованная литература
 
-* [Дизайн и печать AVERY] (https://www.avery.com/software/design-and-print/)
+* [Дизайн и печать AVERY](https://www.avery.com/software/design-and-print/)
 

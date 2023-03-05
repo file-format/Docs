@@ -26,4 +26,4 @@
 
 ## использованная литература
 
-* [Ошибка при копировании файлов сообщений электронной почты MSG в Outlook] (https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients)
+* [Ошибка при копировании файлов сообщений электронной почты MSG в Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients)

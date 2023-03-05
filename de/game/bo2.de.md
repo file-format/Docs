@@ -28,7 +28,7 @@ BO2-Dateien können verwendet werden, um alles zu erstellen, von einfachen Objek
 
 ## Wie erstelle ich eine BO2-Datei?
 
-BO2-Dateien werden mit einem Tool namens MCEdit erstellt, einem beliebten Programm, das von Minecraft-Spielern zum Erstellen und Bearbeiten von benutzerdefiniertem Gelände und Objekten verwendet wird. Mit MCEdit können Spieler 3D-Modelle erstellen oder importieren und sie dann als BO2-Dateien exportieren, die in das Spiel importiert und in der Welt eines Spielers verwendet werden können. Ein weiteres beliebtes Tool zum Erstellen von BO2-Dateien ist [Terrain Control for Bukkit & Forge] (https://dev.bukkit.org/projects/terrain-control).
+BO2-Dateien werden mit einem Tool namens MCEdit erstellt, einem beliebten Programm, das von Minecraft-Spielern zum Erstellen und Bearbeiten von benutzerdefiniertem Gelände und Objekten verwendet wird. Mit MCEdit können Spieler 3D-Modelle erstellen oder importieren und sie dann als BO2-Dateien exportieren, die in das Spiel importiert und in der Welt eines Spielers verwendet werden können. Ein weiteres beliebtes Tool zum Erstellen von BO2-Dateien ist [Terrain Control for Bukkit & Forge](https://dev.bukkit.org/projects/terrain-control).
 
 ## Verweise
 

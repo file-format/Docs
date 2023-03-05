@@ -26,6 +26,6 @@ Pliki RPX są zapisywane na dysku w zastrzeżonym formacie pliku. Niektóre inte
 
 ## Bibliografia
 
-* [Formaty plików Wii U] (https://www.retroreversing.com/WiiUFileFormats)
+* [Formaty plików Wii U](https://www.retroreversing.com/WiiUFileFormats)
 * [Kompresuj lub dekompresuj pliki RPL/RPX dla Wii U](https://github.com/0CBH0/wiiurpxtool)
 

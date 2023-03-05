@@ -29,5 +29,5 @@ Les fichiers RBXM sont créés et enregistrés au format de fichier binaire et l
 ## Références
 
 * [Roblox RBXM sur Github](https://github.com/search?q=rbxm)
-* [Convertir le fichier RBXM en OBJ 3D] (https://devforum.roblox.com/t/how-do-i-make-a-rbxm-file-be-a-obj-file/1522460)
+* [Convertir le fichier RBXM en OBJ 3D](https://devforum.roblox.com/t/how-do-i-make-a-rbxm-file-be-a-obj-file/1522460)
 

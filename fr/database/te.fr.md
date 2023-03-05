@@ -35,5 +35,5 @@ Le format de fichier interne des fichiers TE est inconnu. Textease a fourni des 
 
 ## Références ##
 
-* [Guide CT de la base de données Texttease] (https://products.conholdate.app/viewer/view/8MPsb0m0GyulEw3GO/textease-database-ct-guide.pdf?preview=true.pdf)
+* [Guide CT de la base de données Texttease](https://products.conholdate.app/viewer/view/8MPsb0m0GyulEw3GO/textease-database-ct-guide.pdf?preview=true.pdf)
 

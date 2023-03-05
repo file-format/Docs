@@ -22,11 +22,11 @@
 
 ## تنسيق ملف IPR
 
-يتم حفظ ملفات IPR بتنسيق ملف [XML] (/ar/ web / xml /) يمكن فهمه عالميًا ويكون قابلاً للقراءة. يحتوي على جميع المعلومات المتعلقة بالمشروع في العلامات التي تم تحميلها لعرض المحتويات المتعلقة بالمشروع.
+يتم حفظ ملفات IPR بتنسيق ملف [XML](/ar/ web / xml /) يمكن فهمه عالميًا ويكون قابلاً للقراءة. يحتوي على جميع المعلومات المتعلقة بالمشروع في العلامات التي تم تحميلها لعرض المحتويات المتعلقة بالمشروع.
 
 نظرًا لأنه يتم تخزين ملفات IPR بتنسيق ملف XML ، يمكن فتحها في أي محرر نصوص مثل Notepad و Notepad ++ و Atom و Apple TextEdit.
 
 ## المرجعي ##
 
-* [إنشاء إدارة المشاريع - IntelliJ IDEA] (https://www.jetbrains.com/help/idea/creating-and-managing-projects.html)
+* [إنشاء إدارة المشاريع - IntelliJ IDEA](https://www.jetbrains.com/help/idea/creating-and-managing-projects.html)
 

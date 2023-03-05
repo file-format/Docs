@@ -33,6 +33,6 @@ App Inventor propose plusieurs didacticiels permettant aux débutants de dévelo
 
 ## Références
 
-* [MIT App Inventor] (https://appinventor.mit.edu/)
-* [Tutoriels MIT App Inventor] (https://appinventor.mit.edu/explore/ai2/tutorials)
+* [MIT App Inventor](https://appinventor.mit.edu/)
+* [Tutoriels MIT App Inventor](https://appinventor.mit.edu/explore/ai2/tutorials)
 

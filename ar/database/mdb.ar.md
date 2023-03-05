@@ -19,7 +19,7 @@
 
 ## ما هو ملف MDB؟
 
-الملف بامتداد .mdb هو ملف قاعدة بيانات Microsoft Access وهو عبارة عن نظام إدارة قاعدة بيانات علائقية (RDBMS). يقوم بتخزين البيانات في جداول قاعدة البيانات المرتبطة ببعضها البعض عبر المفاتيح الأساسية والأجنبية. يحتوي ملف MDB على بنية كاملة لجداول قاعدة البيانات والاستعلامات والإجراءات المخزنة. MDB هو تنسيق الملف الافتراضي لـ Microsoft Access 2003. تستخدم الإصدارات الجانبية من Microsoft Access تنسيقات الملفات [ACCDB] (/ar/ database / accdb /) والتي تعد أحدث تنسيق ملف حتى الآن. يمكن فتح ملفات MDB باستخدام تطبيقات مثل Microsoft Access و MDB Viewer و MDBOpener ويمكن تحويلها إلى ACCDB و [CSV] (/ar/ spreadsheet / csv /) وتنسيقات Excel وما إلى ذلك.
+الملف بامتداد .mdb هو ملف قاعدة بيانات Microsoft Access وهو عبارة عن نظام إدارة قاعدة بيانات علائقية (RDBMS). يقوم بتخزين البيانات في جداول قاعدة البيانات المرتبطة ببعضها البعض عبر المفاتيح الأساسية والأجنبية. يحتوي ملف MDB على بنية كاملة لجداول قاعدة البيانات والاستعلامات والإجراءات المخزنة. MDB هو تنسيق الملف الافتراضي لـ Microsoft Access 2003. تستخدم الإصدارات الجانبية من Microsoft Access تنسيقات الملفات [ACCDB](/ar/ database / accdb /) والتي تعد أحدث تنسيق ملف حتى الآن. يمكن فتح ملفات MDB باستخدام تطبيقات مثل Microsoft Access و MDB Viewer و MDBOpener ويمكن تحويلها إلى ACCDB و [CSV](/ar/ spreadsheet / csv /) وتنسيقات Excel وما إلى ذلك.
 
 ## تنسيق ملف MDB
 
@@ -39,6 +39,6 @@
 
 ## مراجع ##
 
-* [مواصفات الوصول] (https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-* [دليل MDB غير الرسمي] (http://jabakobob.net/mdb/)
+* [مواصفات الوصول](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
+* [دليل MDB غير الرسمي](http://jabakobob.net/mdb/)
 

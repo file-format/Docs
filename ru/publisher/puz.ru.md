@@ -36,5 +36,5 @@
 
 ## Использованная литература ##
 
-* [Файл .puz издателя] (https://answers.microsoft.com/en-us/msoffice/forum/all/publisher-puz-file/2de8b31c-36cc-4c0c-a947-c120172949ee)
+* [Файл .puz издателя](https://answers.microsoft.com/en-us/msoffice/forum/all/publisher-puz-file/2de8b31c-36cc-4c0c-a947-c120172949ee)
 

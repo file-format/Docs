@@ -49,7 +49,7 @@ TimeToGround(100)
 ## Verweise
 
 * [Matlab - Unterstützte Dateiformate](https://www.mathworks.com/help/matlab/standard-file-formats.html)
-* [Mit Matlab] (https://www.maths.unsw.edu.au/sites/default/files/MatlabSelfPaced/lesson0/MatlabLesson0_Mfiles.html)
+* [Mit Matlab](https://www.maths.unsw.edu.au/sites/default/files/MatlabSelfPaced/lesson0/MatlabLesson0_Mfiles.html)
 
 # M - Objective-C-Implementierungsdatei
 

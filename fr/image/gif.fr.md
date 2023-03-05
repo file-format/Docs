@@ -57,5 +57,5 @@ La fin représente un seul octet de données qui est le dernier caractère du fi
 
 ## Références ##
 
-* [format de fichier GIF] (https://en.wikipedia.org/wiki/GIF)
+* [format de fichier GIF](https://en.wikipedia.org/wiki/GIF)
 

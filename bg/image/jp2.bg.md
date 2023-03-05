@@ -85,6 +85,6 @@ JPEG 2000 файловете се състоят от последователн
 
 ## Препратки ##
 
-* [Общ преглед на JPEG 2000] (https://jpeg.org/jpeg2000)
+* [Общ преглед на JPEG 2000](https://jpeg.org/jpeg2000)
 * [JPEG 2000 система за кодиране на изображения](https://en.wikipedia.org/wiki/JPEG_2000#JPEG_2000_image_coding_system_-_Parts)
 

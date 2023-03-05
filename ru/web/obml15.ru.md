@@ -26,5 +26,5 @@
 
 ## использованная литература
 
-* [формат OMBL] (https://github.com/grawity/obml-parser/blob/master/obml.md)
+* [формат OMBL](https://github.com/grawity/obml-parser/blob/master/obml.md)
 

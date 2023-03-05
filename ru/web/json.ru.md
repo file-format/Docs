@@ -88,10 +88,10 @@ JSON (JavaScript Object Notation) — это открытый стандартн
 
 ## Вы знали?
 
-Вы можете стать участником FileFormat.com, чтобы держать сообщество форматов файлов в курсе ваших открытий. Если вам нужно поделиться чем-либо о форматах JSON или веб-файлов, вы можете опубликовать свои выводы в разделе [Новости о форматах веб-файлов] (https://news.fileformat.com/t/Web), чтобы люди могли узнать больше об этом.
+Вы можете стать участником FileFormat.com, чтобы держать сообщество форматов файлов в курсе ваших открытий. Если вам нужно поделиться чем-либо о форматах JSON или веб-файлов, вы можете опубликовать свои выводы в разделе [Новости о форматах веб-файлов](https://news.fileformat.com/t/Web), чтобы люди могли узнать больше об этом.
 
 ## использованная литература
 
 - [JSON - Википедия](https://en.wikipedia.org/wiki/CSS)
-- [Введение в JSON] (https://www.digitalocean.com/community/tutorials/an-introduction-to-json)
+- [Введение в JSON](https://www.digitalocean.com/community/tutorials/an-introduction-to-json)
 

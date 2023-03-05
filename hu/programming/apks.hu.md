@@ -28,7 +28,7 @@ Az APKS-fájlok tömörített fájlokként kerülnek mentésre [ZIP](/hu/compres
 
 ## Hogyan lehet APKS fájlt generálni?
 
-Amikor az Android App Bundle (AAB) készen áll, a viselkedését a Google Play Áruházban tesztelheti az eszközön való üzembe helyezéshez. E célból APKS-fájlok generálhatók AAB-fájlokból, és telepíthetők teszteszközökre a Google Android [bundletool] (https://developer.android.com/studio/command-line/bundletool) segítségével. Parancssori eszközöket biztosít az APKS archív fájl létrehozásához APK-kból a következő paranccsal.
+Amikor az Android App Bundle (AAB) készen áll, a viselkedését a Google Play Áruházban tesztelheti az eszközön való üzembe helyezéshez. E célból APKS-fájlok generálhatók AAB-fájlokból, és telepíthetők teszteszközökre a Google Android [bundletool](https://developer.android.com/studio/command-line/bundletool) segítségével. Parancssori eszközöket biztosít az APKS archív fájl létrehozásához APK-kból a következő paranccsal.
 
 ```
 bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks

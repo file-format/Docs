@@ -27,5 +27,5 @@ WBFS هي ملفات ثنائية لها تنسيق ملف خاص. مواصفا�
 
 ## مراجع
 
-* [أدوات WIIMMS ISO] (https://github.com/Wiimm/wiimms-iso-tools)
+* [أدوات WIIMMS ISO](https://github.com/Wiimm/wiimms-iso-tools)
 

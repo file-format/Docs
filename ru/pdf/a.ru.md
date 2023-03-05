@@ -53,10 +53,10 @@ PDF/A-2 был выпущен стандартом ISO в июле 2011 года
 
 ## PDF/A-3 ##
 
-PDF/A-3 включает все требования соответствия уровня 2 и позволяет встраивать дополнительные форматы файлов (такие как XML, [CSV](/ru/spreadsheet/csv/), [CAD](/ru/cad/), [обработка текста] (/ru/word-processing/) , [spreadsheet](/ru/spreadsheet/) и другие) в соответствующие документы PDF/A.
+PDF/A-3 включает все требования соответствия уровня 2 и позволяет встраивать дополнительные форматы файлов (такие как XML, [CSV](/ru/spreadsheet/csv/), [CAD](/ru/cad/), [обработка текста](/ru/word-processing/) , [spreadsheet](/ru/spreadsheet/) и другие) в соответствующие документы PDF/A.
 
 ## Использованная литература ##
 
-* [PDF/A — Википедия] (https://en.wikipedia.org/wiki/PDF/A)
-* [Белая книга: PDF/A — Основы] (http://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
+* [PDF/A — Википедия](https://en.wikipedia.org/wiki/PDF/A)
+* [Белая книга: PDF/A — Основы](http://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
 

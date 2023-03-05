@@ -24,7 +24,7 @@ Sass ist wirklich hilfreich bei der Pflege von Stilen, da es viele Funktionen wi
 
 ## So verwenden Sie SASS-Dateien ##
 
-SASS-Dateien sind nicht direkt im [HTML](/de/web/html/)-Dokument enthalten, sondern werden in CSS-Dateien konvertiert, die in HTML-Dateien enthalten sind. Sie können Sass auf Ihrem System installieren, indem Sie den Anweisungen auf der [offiziellen Sass-Website] (https://sass-lang.com/install) folgen.
+SASS-Dateien sind nicht direkt im [HTML](/de/web/html/)-Dokument enthalten, sondern werden in CSS-Dateien konvertiert, die in HTML-Dateien enthalten sind. Sie können Sass auf Ihrem System installieren, indem Sie den Anweisungen auf der [offiziellen Sass-Website](https://sass-lang.com/install) folgen.
 
 Sass kann in CSS konvertiert werden, indem entweder eine bereits gespeicherte SASS-Datei konvertiert wird oder indem auf Änderungen geachtet und beim Speichern der Datei konvertiert wird. Die Befehle für beide sind unten angegeben.
 

@@ -23,5 +23,5 @@ Un fichier ML est un fichier texte créé avec le langage de programmation fonct
 
 ## Références
 
-* [Langage de programmation ML - Par Wikipedia] (https://en.wikipedia.org/wiki/ML_(programming_language))
+* [Langage de programmation ML - Par Wikipedia](https://en.wikipedia.org/wiki/ML_(programming_language))
 

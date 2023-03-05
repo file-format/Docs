@@ -19,7 +19,7 @@
 
 ## ما هو ملف الفصل؟
 
-** ملف الفصل في Java ** هو الناتج المترجم لفئة [.java] (/ar/ البرمجة / java /) التي يتم تنفيذها فعليًا بواسطة Java Virtual Machine (JVM). يمكن تنفيذ ملفات الفصل بشكل فردي وكذلك يمكن أن تكون جزءًا من ملف [JAR] (/ar/ برمجة / jar /) كحزمة مع ملفات حزم أخرى. يمكن إنشاء هذه باستخدام الأمر ** `javac` ** من واجهة سطر الأوامر. توفر بعض Java IDEs مثل [Eclipse] (https://www.eclipse.org/downloads/packages/release/2020-06/r/eclipse-ide-java-developers) و NetBeans إنشاء ملفات إخراج فئة من المشروع جافا. الملفات.
+** ملف الفصل في Java ** هو الناتج المترجم لفئة [.java](/ar/ البرمجة / java /) التي يتم تنفيذها فعليًا بواسطة Java Virtual Machine (JVM). يمكن تنفيذ ملفات الفصل بشكل فردي وكذلك يمكن أن تكون جزءًا من ملف [JAR](/ar/ برمجة / jar /) كحزمة مع ملفات حزم أخرى. يمكن إنشاء هذه باستخدام الأمر ** `javac` ** من واجهة سطر الأوامر. توفر بعض Java IDEs مثل [Eclipse](https://www.eclipse.org/downloads/packages/release/2020-06/r/eclipse-ide-java-developers) و NetBeans إنشاء ملفات إخراج فئة من المشروع جافا. الملفات.
 
 ## تنسيق ملف الفصل الدراسي
 
@@ -54,7 +54,7 @@ ClassFile {
 * u2 = كمية ثنائية البايت بدون إشارة
 * u4 = كمية أربعة بايت بدون إشارة
 
-تم توضيح تفاصيل بنية ملف .class أيضًا في Oracle [تنسيق ملف الفئة] (https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-4.html) ويمكن الرجوع إليها بواسطة مطورين كمرجع. ملخص لهذه الحقول على النحو التالي.
+تم توضيح تفاصيل بنية ملف .class أيضًا في Oracle [تنسيق ملف الفئة](https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-4.html) ويمكن الرجوع إليها بواسطة مطورين كمرجع. ملخص لهذه الحقول على النحو التالي.
 
 * "السحر" - يوفر العنصر السحري الرقم السحري الذي يحدد تنسيق ملف الفئة ؛ لها قيمة 0xCAFEBABE.
 * `Secondary_version`،` major_version` - إن قيم العناصر الثانوية و main_version هي أرقام الإصدارات الثانوية والرئيسية لملف الفئة هذا.
@@ -77,5 +77,5 @@ ClassFile {
 
 ## مراجع
 
-* [تنسيق ملف الفصل] (https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-4.html)
+* [تنسيق ملف الفصل](https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-4.html)
 

@@ -56,6 +56,6 @@ APNG обратно совместим с PNG, поскольку боковые
 
 ## использованная литература
 
-* [Формат файла APNG] (https://en.wikipedia.org/wiki/APNG)
-* [Официальные спецификации формата PNG] (https://www.w3.org/TR/PNG/)
+* [Формат файла APNG](https://en.wikipedia.org/wiki/APNG)
+* [Официальные спецификации формата PNG](https://www.w3.org/TR/PNG/)
 

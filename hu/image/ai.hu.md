@@ -23,7 +23,7 @@ Az .ai kiterjesztésű fájl egy Adobe Illustrator Artwork fájl, amely egyetlen
 
 ## AI fájlformátum
 
-A mesterséges intelligencia az Adobe Illustrator szabadalmaztatott fájlformátuma, és a PGF-hez hasonló kettős elérési utat alkalmaz az EPS-kompatibilis fájlok mentésére. Az [Adobe Illustrator fájlformátum specifikációi] (https://web.archive.org/web/20150906044646/http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf) részletes leírást adnak fejlesztői hivatkozás a fájlformátum belső részleteihez. Minden Az Adobe Illustrator által létrehozott dokumentumok (fájlok) PostScript nyelvű dokumentumok, és két fő részük van, amelyek megfelelnek a Dokumentumszerkezeti Egyezményeknek: egy "prolog" és egy "script".
+A mesterséges intelligencia az Adobe Illustrator szabadalmaztatott fájlformátuma, és a PGF-hez hasonló kettős elérési utat alkalmaz az EPS-kompatibilis fájlok mentésére. Az [Adobe Illustrator fájlformátum specifikációi](https://web.archive.org/web/20150906044646/http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf) részletes leírást adnak fejlesztői hivatkozás a fájlformátum belső részleteihez. Minden Az Adobe Illustrator által létrehozott dokumentumok (fájlok) PostScript nyelvű dokumentumok, és két fő részük van, amelyek megfelelnek a Dokumentumszerkezeti Egyezményeknek: egy "prolog" és egy "script".
 
 ### Prolog
 

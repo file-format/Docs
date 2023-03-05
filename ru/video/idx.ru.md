@@ -113,6 +113,6 @@ timestamp: 00:04:04:640, filepos: 00001d800
 
 ## использованная литература
 
-* [VobSub] (https://www.videohelp.com/software/VobSub)
+* [VobSub](https://www.videohelp.com/software/VobSub)
 * [VOBsub - Wiki Multimedia](https://wiki.multimedia.cx/index.php?title=VOBsub)
 

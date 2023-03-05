@@ -16,11 +16,11 @@ lastmod: 2022-03-20
 
 ## ما هو ملف MXL؟
 
-ملف MXL هو الشكل المضغوط لتنسيق ملف MusicXML وهو تنسيق قياسي مفتوح لتبادل الموسيقى الرقمية. تكون ملفات MusicXML ذات النص العادي كبيرة الحجم وقد تأثر استخدام مثل هذه الملفات كتنسيق توزيع الورقة بحجم الملف الكبير. تمت معالجة هذه المشكلات باستخدام [MusicXML] (https://www.musicxml.com/) 2.0 من خلال تقديم تنسيق ملف MXL الذي يضغط الملفات بدرجة كافية لتقليل حجم الملف المماثل لحجم ملفات MIDI الأصلية. نوع الوسائط الموصى به لملفات MXL هو application / vnd.recordare.musicxml.
+ملف MXL هو الشكل المضغوط لتنسيق ملف MusicXML وهو تنسيق قياسي مفتوح لتبادل الموسيقى الرقمية. تكون ملفات MusicXML ذات النص العادي كبيرة الحجم وقد تأثر استخدام مثل هذه الملفات كتنسيق توزيع الورقة بحجم الملف الكبير. تمت معالجة هذه المشكلات باستخدام [MusicXML](https://www.musicxml.com/) 2.0 من خلال تقديم تنسيق ملف MXL الذي يضغط الملفات بدرجة كافية لتقليل حجم الملف المماثل لحجم ملفات MIDI الأصلية. نوع الوسائط الموصى به لملفات MXL هو application / vnd.recordare.musicxml.
 
 ## تنسيق ملف MXL
 
-يتم تخزين ملفات MXL كملفات [ZIP] (/ar/ ضغط / zip /) مضغوطة [XML] (/ar/ web / xml /) بامتداد ملف .mxl. يتم ضغط ملفات MXL باستخدام خوارزمية DEFLATE كما هو محدد في [RFC 1951] (https://www.ietf.org/rfc/rfc1951.txt).
+يتم تخزين ملفات MXL كملفات [ZIP](/ar/ ضغط / zip /) مضغوطة [XML](/ar/ web / xml /) بامتداد ملف .mxl. يتم ضغط ملفات MXL باستخدام خوارزمية DEFLATE كما هو محدد في [RFC 1951](https://www.ietf.org/rfc/rfc1951.txt).
 
 ### هيكل ملف MXL
 
@@ -41,6 +41,6 @@ lastmod: 2022-03-20
 
 ## مراجع
 
-* [ملفات MXL المضغوطة] (https://www.w3.org/2021/06/musicxml40/tutorial/compressed-mxl-files/)
-* [RFC 1951] (https://www.ietf.org/rfc/rfc1951.txt)
+* [ملفات MXL المضغوطة](https://www.w3.org/2021/06/musicxml40/tutorial/compressed-mxl-files/)
+* [RFC 1951](https://www.ietf.org/rfc/rfc1951.txt)
 

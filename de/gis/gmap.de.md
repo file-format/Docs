@@ -37,6 +37,6 @@ GMAP-Dateien werden als Binärdateien auf der Disc gespeichert und ihre internen
 
 ## Verweise
 
-* [Von Garmin unterstützte Dateitypen] (https://www8.garmin.com/manuals/webhelp/basecamppc/EN-US/GUID-43E0D8E9-E720-4895-827E-530751793EF3.html)
+* [Von Garmin unterstützte Dateitypen](https://www8.garmin.com/manuals/webhelp/basecamppc/EN-US/GUID-43E0D8E9-E720-4895-827E-530751793EF3.html)
 * [GML – Von Wikipedia](https://en.wikipedia.org/wiki/Geography_Markup_Language)
 

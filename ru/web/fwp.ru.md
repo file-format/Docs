@@ -27,5 +27,5 @@
 
 ## использованная литература
 
-* [Microsoft Expression Web — Википедия] (https://en.wikipedia.org/wiki/Microsoft_Expression_Web)
+* [Microsoft Expression Web — Википедия](https://en.wikipedia.org/wiki/Microsoft_Expression_Web)
 

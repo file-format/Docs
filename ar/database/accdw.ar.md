@@ -19,7 +19,7 @@
 
 ## ما هو ملف ACCDW؟
 
-الملف الذي يحتوي على ملحق accdw هو ملف ارتباط تم إنشاؤه باستخدام Microsoft Access ويحتوي على معلومات حول الارتباط لتنزيل ملف قاعدة بيانات Access مثل [ACCDB] (/ar/ database / accdb /) من خادم SharePoint. يتيح ذلك للمستخدمين مشاركة ملفات قاعدة البيانات التي تتم استضافتها عن بُعد. يؤدي فتح ملف ACCDW إلى تنزيل ملف ACCDB المرتبط كنسخة محلية على كمبيوتر المستخدم. يتم حفظ الملف الذي تم تنزيله في موقع التنزيل الافتراضي ويمكن الوصول إليه بالانتقال إليه. عادة ، يتم تنزيل هذه الملفات وتخزينها باسم "SiteServer.accdb" الذي يشير إلى قواعد بيانات العميل.
+الملف الذي يحتوي على ملحق accdw هو ملف ارتباط تم إنشاؤه باستخدام Microsoft Access ويحتوي على معلومات حول الارتباط لتنزيل ملف قاعدة بيانات Access مثل [ACCDB](/ar/ database / accdb /) من خادم SharePoint. يتيح ذلك للمستخدمين مشاركة ملفات قاعدة البيانات التي تتم استضافتها عن بُعد. يؤدي فتح ملف ACCDW إلى تنزيل ملف ACCDB المرتبط كنسخة محلية على كمبيوتر المستخدم. يتم حفظ الملف الذي تم تنزيله في موقع التنزيل الافتراضي ويمكن الوصول إليه بالانتقال إليه. عادة ، يتم تنزيل هذه الملفات وتخزينها باسم "SiteServer.accdb" الذي يشير إلى قواعد بيانات العميل.
 
 ## تنسيق ملف ACCDW - مزيد من المعلومات
 
@@ -27,8 +27,8 @@
 
 ## مراجع
 
-* [ملف accdw الذي تم تنزيله] (http://channel9.msdn.com/shows/Access/)
-* [مواصفات Access 2016] (https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c؟ui=en-us&rs=en-us&ad=us)
-* [تنزيل ملف .accdw] (https://social.technet.microsoft.com/Forums/en-US/7bf02e9e-6246-44da-9513-4cf8f2cc2fb2/downloaded-accdw-file؟forum=sharepointgeneralprevious)
-* [ما تنسيق ملف Access الذي يجب استخدامه؟] (https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617- be66f9070b41؟ ui = ar-us & rs = ar-us & ad = us)
+* [ملف accdw الذي تم تنزيله](http://channel9.msdn.com/shows/Access/)
+* [مواصفات Access 2016](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c؟ui=en-us&rs=en-us&ad=us)
+* [تنزيل ملف .accdw](https://social.technet.microsoft.com/Forums/en-US/7bf02e9e-6246-44da-9513-4cf8f2cc2fb2/downloaded-accdw-file؟forum=sharepointgeneralprevious)
+* [ما تنسيق ملف Access الذي يجب استخدامه؟](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617- be66f9070b41؟ ui = ar-us & rs = ar-us & ad = us)
 

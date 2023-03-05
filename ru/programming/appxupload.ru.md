@@ -19,7 +19,7 @@
 
 ## .APPXUPLOAD вариант №
 
-Файл APPXUPLOAD — это отдельный файл пакета, который содержит несколько пакетов приложений или пакетов приложений для загрузки в Microsoft Store. Он создается автоматически [Microsoft Visual Studio] (https://visualstudio.microsoft.com/), когда разработчики упаковывают свое приложение для публикации в [Microsoft Store] (https://www.microsoft.com/en-us/). магазин/приложения/виндовс). В дополнение к файлу [APPX](/ru/programming/appx/) файл APPXUPLOAD содержит файл символов, который анализирует производительность приложения после его публикации в Microsoft Store.
+Файл APPXUPLOAD — это отдельный файл пакета, который содержит несколько пакетов приложений или пакетов приложений для загрузки в Microsoft Store. Он создается автоматически [Microsoft Visual Studio](https://visualstudio.microsoft.com/), когда разработчики упаковывают свое приложение для публикации в [Microsoft Store](https://www.microsoft.com/en-us/). магазин/приложения/виндовс). В дополнение к файлу [APPX](/ru/programming/appx/) файл APPXUPLOAD содержит файл символов, который анализирует производительность приложения после его публикации в Microsoft Store.
 
 ## Формат файла AAPXUPLOAD — дополнительная информация
 
@@ -27,5 +27,5 @@
 
 ## использованная литература
 
-* [Типы пакетов приложений] (https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
+* [Типы пакетов приложений](https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
 

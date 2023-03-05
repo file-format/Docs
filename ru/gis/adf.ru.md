@@ -35,6 +35,6 @@
 
 ## Использованная литература ##
 
-* [Формат сетки ESRI] (https://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//009t0000000w000000)
+* [Формат сетки ESRI](https://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//009t0000000w000000)
 * [Часто задаваемые вопросы: какова файловая структура Arc/INFO Grid?](https://support.esri.com/en/technical-article/000008526)
 

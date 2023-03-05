@@ -19,7 +19,7 @@
 
 ## Mi az ICO fájl?
 
-Az ICO kiterjesztésű fájlok képfájltípusok, amelyek ikonként használhatók az alkalmazások [Microsoft Windowson] (https://www.microsoft.com/en-us/windows) ábrázolására. Ezek különböző méretben, színtámogatásban és felbontásban készülnek, hogy megfeleljenek a kijelző követelményeinek. Egy másik hasonló képfájlformátum a Microsoft Windows rendszeren a [CUR](/hu/image/cur/) a kurzor megjelenítéséhez, és egy hotspotot határoz meg a kép fejlécében. MacOS rendszeren az ICNS fájlformátumok ugyanazt a célt szolgálják, mint az ICO fájlok. Számos online webhely és alkalmazás kínál ilyen fájlok létrehozását, és más képformátumokat, például [BMP](/hu/image/bmp/), [PNG](/hu/image/png/) stb. ikonfájlformátumba konvertál. Az ICO-fájlok hivatalos IANA által regisztrált internetes médiatípusa az image/vnd.microsoft.icon.
+Az ICO kiterjesztésű fájlok képfájltípusok, amelyek ikonként használhatók az alkalmazások [Microsoft Windowson](https://www.microsoft.com/en-us/windows) ábrázolására. Ezek különböző méretben, színtámogatásban és felbontásban készülnek, hogy megfeleljenek a kijelző követelményeinek. Egy másik hasonló képfájlformátum a Microsoft Windows rendszeren a [CUR](/hu/image/cur/) a kurzor megjelenítéséhez, és egy hotspotot határoz meg a kép fejlécében. MacOS rendszeren az ICNS fájlformátumok ugyanazt a célt szolgálják, mint az ICO fájlok. Számos online webhely és alkalmazás kínál ilyen fájlok létrehozását, és más képformátumokat, például [BMP](/hu/image/bmp/), [PNG](/hu/image/png/) stb. ikonfájlformátumba konvertál. Az ICO-fájlok hivatalos IANA által regisztrált internetes médiatípusa az image/vnd.microsoft.icon.
 
 ## Rövid története ##
 

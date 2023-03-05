@@ -19,7 +19,7 @@
 
 ## ما هو ملف FWP؟
 
-الملف الذي يحتوي على ملف .fwp هو ملف أرشيف تم إنشاؤه باستخدام Microsoft Expression Web ويحتوي على جميع الملفات والمجلدات للتصميم. Microsoft Expression Web هو أحد منتجات برامج تصميم الويب العامة بواسطة Microsoft وهو يعتمد على محرر [HTML] (/ar/ web / html /). تم إيقافه منذ عام 2012 وهو متاح للتنزيل مجانًا بواسطة Microsoft. يمكن تصدير ملفات FWP وحفظها بتنسيق Microsoft .cab.
+الملف الذي يحتوي على ملف .fwp هو ملف أرشيف تم إنشاؤه باستخدام Microsoft Expression Web ويحتوي على جميع الملفات والمجلدات للتصميم. Microsoft Expression Web هو أحد منتجات برامج تصميم الويب العامة بواسطة Microsoft وهو يعتمد على محرر [HTML](/ar/ web / html /). تم إيقافه منذ عام 2012 وهو متاح للتنزيل مجانًا بواسطة Microsoft. يمكن تصدير ملفات FWP وحفظها بتنسيق Microsoft .cab.
 
 ## تنسيق ملف FWP - مزيد من المعلومات
 
@@ -27,5 +27,5 @@
 
 ## مراجع
 
-* [Microsoft Expression Web - Wikipedia] (https://en.wikipedia.org/wiki/Microsoft_Expression_Web)
+* [Microsoft Expression Web - Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Expression_Web)
 

@@ -94,6 +94,6 @@
 
 
 
-* [Xbe — исполняемый файл XBox] (https://xboxdevwiki.net/Xbe)
+* [Xbe — исполняемый файл XBox](https://xboxdevwiki.net/Xbe)
 
 

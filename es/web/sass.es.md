@@ -24,7 +24,7 @@ Sass es realmente útil para mantener estilos, ya que proporciona muchas funcion
 
 ## Cómo usar archivos SASS ##
 
-Los archivos SASS no se incluyen directamente en el documento [HTML](/es/web/html/), sino que se convierten en archivos CSS que se incluyen en los archivos HTML. Puede instalar Sass en su sistema siguiendo las instrucciones proporcionadas en el [sitio oficial de Sass] (https://sass-lang.com/install).
+Los archivos SASS no se incluyen directamente en el documento [HTML](/es/web/html/), sino que se convierten en archivos CSS que se incluyen en los archivos HTML. Puede instalar Sass en su sistema siguiendo las instrucciones proporcionadas en el [sitio oficial de Sass](https://sass-lang.com/install).
 
 Sass se puede convertir a CSS ya sea convirtiendo un archivo SASS ya guardado o observando los cambios y convirtiendo a medida que se guarda el archivo. Los comandos para ambos se dan a continuación.
 

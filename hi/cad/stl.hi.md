@@ -90,6 +90,6 @@ end
 
 ## संदर्भ ##
 
-* [एसटीएल प्रारूप] (http://www.fabbers.com/tech/STL_Format)
-* [एसटीएल - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/STL_(file_format))
+* [एसटीएल प्रारूप](http://www.fabbers.com/tech/STL_Format)
+* [एसटीएल - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/STL_(file_format))
 

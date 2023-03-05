@@ -72,5 +72,5 @@ En este ejemplo, el bloque de cámara especifica la posición y orientación de 
 
 ## Referencias
 * [POV-Ray - Wikipedia](https://en.wikipedia.org/wiki/POV-Ray)
-* [Documentación del sitio web de POV-Ray] (http://www.povray.org/documentation/)
+* [Documentación del sitio web de POV-Ray](http://www.povray.org/documentation/)
 

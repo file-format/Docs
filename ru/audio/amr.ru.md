@@ -67,6 +67,6 @@ AMR (Adaptive Multi-Rate) — это аудиоформат; широко исп
 
 ## Использованная литература ##
 
-* [Адаптивный многоскоростной аудиокодек — Википедия] (https://en.wikipedia.org/wiki/Adaptive_Multi-Rate_audio_codec)
-* [Формат полезной нагрузки RTP и формат хранения файлов для аудиокодеков AMR и AMR-WB] (https://tools.ietf.org/html/rfc4867#page-35)
+* [Адаптивный многоскоростной аудиокодек — Википедия](https://en.wikipedia.org/wiki/Adaptive_Multi-Rate_audio_codec)
+* [Формат полезной нагрузки RTP и формат хранения файлов для аудиокодеков AMR и AMR-WB](https://tools.ietf.org/html/rfc4867#page-35)
 

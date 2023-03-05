@@ -43,6 +43,6 @@ VirtualBox виртуализирует следующие карты сетев
 
 ## использованная литература
 
-* [VirtualBox — по Википедии] (https://en.wikipedia.org/wiki/VirtualBox#VirtualBox_Disk_Image)
+* [VirtualBox — по Википедии](https://en.wikipedia.org/wiki/VirtualBox#VirtualBox_Disk_Image)
 
 

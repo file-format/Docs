@@ -22,5 +22,5 @@ CMAKE फ़ाइल ओपन-सोर्स, क्रॉस-प्लेट
 
 ## संदर्भ
 
-* [लिनक्स पर सीएमके टूल्स - आरंभ करें] (https://code.visualstudio.com/docs/cpp/cmake-linux)
+* [लिनक्स पर सीएमके टूल्स - आरंभ करें](https://code.visualstudio.com/docs/cpp/cmake-linux)
 

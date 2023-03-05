@@ -37,6 +37,6 @@ ZUML कोड के निम्नलिखित उदाहरण मे�
 ZUL स्कीमा को http://www.zkoss.org/2005/zul/zul.xsd से डाउनलोड किया जा सकता है।
 ## संदर्भ
 
-* [ZUL - ZK द्वारा] (https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
-* [ZUL स्कीमा] (http://www.zkoss.org/2005/zul/zul.xsd)
+* [ZUL - ZK द्वारा](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
+* [ZUL स्कीमा](http://www.zkoss.org/2005/zul/zul.xsd)
 

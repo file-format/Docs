@@ -15,7 +15,7 @@ lastmod: 2022-03-09
 
 ## Was ist eine NSA-Datei?
 
-Eine NSA-Datei (NullSoft Streaming Audio) ist ein Streaming-Audioformat, das von NullSoft zum Streamen von Audio über das Internet entwickelt wurde. NullSoft hat auch [Winamp Media Player] (https://www.winamp.com/) zum Streamen und Wiedergeben von Audio- und Videodateien entwickelt. Das NSA-Dateiformat verwendet Audiokompressionsalgorithmen, die von NullSoft eingeführt und entwickelt wurden. NullSoft hat auch das Dateiformat [NSV](/de/video/nsv/) zum Streamen von Videos über das Internet entwickelt.
+Eine NSA-Datei (NullSoft Streaming Audio) ist ein Streaming-Audioformat, das von NullSoft zum Streamen von Audio über das Internet entwickelt wurde. NullSoft hat auch [Winamp Media Player](https://www.winamp.com/) zum Streamen und Wiedergeben von Audio- und Videodateien entwickelt. Das NSA-Dateiformat verwendet Audiokompressionsalgorithmen, die von NullSoft eingeführt und entwickelt wurden. NullSoft hat auch das Dateiformat [NSV](/de/video/nsv/) zum Streamen von Videos über das Internet entwickelt.
 
 ## NSA-Dateiformat
 

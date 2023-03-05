@@ -27,5 +27,5 @@ Los archivos AFX se guardan como archivos binarios que se pueden abrir con el so
 
 ## Referencias
 
-* [Auto FX] (https://www.autofx.com/july-4-sale/pge-details.html)
+* [Auto FX](https://www.autofx.com/july-4-sale/pge-details.html)
 

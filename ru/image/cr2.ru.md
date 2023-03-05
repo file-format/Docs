@@ -48,5 +48,5 @@
 
 ## использованная литература
 
-* [Формат файла CR2] (http://lclevy.free.fr/cr2/)
+* [Формат файла CR2](http://lclevy.free.fr/cr2/)
 

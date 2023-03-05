@@ -49,6 +49,6 @@ Im Folgenden sind die Strukturanforderungen einer VTT-Datei aufgeführt.
 
 ## Verweise
 
-* [VTT - W3-Schulen] (https://www.w3.org/TR/webvtt1/)
+* [VTT - W3-Schulen](https://www.w3.org/TR/webvtt1/)
 * [WebVTT - Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API)
 

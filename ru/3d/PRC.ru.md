@@ -71,6 +71,6 @@ Mobipocket Reader имеет библиотеку домашних страни�
 ## использованная литература
 
 - [КНР - Википедия](https://en.wikipedia.org/wiki/PRC_(file_format))
-- [Спецификация формата PRC] (https://web.archive.org/web/20081202034541/http://livedocs.adobe.com/acrobat_sdk/9/Acrobat9_HTMLHelp/API_References/PRCReference/PRC_Format_Specification/index.html)
-- [Сравнение форматов электронных книг - По Википедии] (https://en.wikipedia.org/wiki/Comparison_of_e-book_formats)
+- [Спецификация формата PRC](https://web.archive.org/web/20081202034541/http://livedocs.adobe.com/acrobat_sdk/9/Acrobat9_HTMLHelp/API_References/PRCReference/PRC_Format_Specification/index.html)
+- [Сравнение форматов электронных книг - По Википедии](https://en.wikipedia.org/wiki/Comparison_of_e-book_formats)
 

@@ -48,6 +48,6 @@ XBRL можно сравнить с iXBRL на основе следующих �
 
 ## использованная литература
 
-* [XBRL — Википедия] (https://en.wikipedia.org/wiki/XBRL)
-* [iXBRL] (https://www.xbrl.org/the-standard/what/ixbrl/)
+* [XBRL — Википедия](https://en.wikipedia.org/wiki/XBRL)
+* [iXBRL](https://www.xbrl.org/the-standard/what/ixbrl/)
 

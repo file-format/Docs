@@ -22,7 +22,7 @@ Un archivo SLDPRT es un archivo CAD generado por el software SolidWorks. Es un f
 
 ## Formato de archivo SLDPRT
 
-Los archivos SLDPRT se guardan como archivos binarios y sus especificaciones de formato de archivo exactas no están disponibles. Sin embargo, algunas API brindan la posibilidad de leer y convertir archivos SLDPRT a otros formatos, como [SLDPRT a DXF] (https://github.com/GitHubVents/ExportSLDPRTToDXF).
+Los archivos SLDPRT se guardan como archivos binarios y sus especificaciones de formato de archivo exactas no están disponibles. Sin embargo, algunas API brindan la posibilidad de leer y convertir archivos SLDPRT a otros formatos, como [SLDPRT a DXF](https://github.com/GitHubVents/ExportSLDPRTToDXF).
 
 ## Lectores SLDPRT
 

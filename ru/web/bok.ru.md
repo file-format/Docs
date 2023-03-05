@@ -28,5 +28,5 @@
 
 ## использованная литература
 
-* [ProStores — Википедия] (https://en.wikipedia.org/wiki/ProStores)
+* [ProStores — Википедия](https://en.wikipedia.org/wiki/ProStores)
 

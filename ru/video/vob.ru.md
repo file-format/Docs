@@ -35,5 +35,5 @@ lastmod: 2020-09-12
 ## Использованная литература ##
 
 - [VOB - Википедия](https://en.wikipedia.org/wiki/VOB)
-- [Внутренняя структура DVD-Video/каталога] (https://en.wikibooks.org/wiki/Inside_DVD-Video/Directory_Structure)
+- [Внутренняя структура DVD-Video/каталога](https://en.wikibooks.org/wiki/Inside_DVD-Video/Directory_Structure)
 

@@ -24,6 +24,6 @@ DAA (архив прямого доступа) — это собственный
 
 ## Использованная литература ##
 
-- [Архив прямого доступа - Википедия] (https://en.wikipedia.org/wiki/Direct_Access_Archive)
-- [Что такое файл DAA?] (https://www.poweriso.com/tutorials/what-is-daa-file.htm)
+- [Архив прямого доступа - Википедия](https://en.wikipedia.org/wiki/Direct_Access_Archive)
+- [Что такое файл DAA?](https://www.poweriso.com/tutorials/what-is-daa-file.htm)
 

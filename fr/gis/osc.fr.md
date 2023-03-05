@@ -43,5 +43,5 @@ Voici un exemple d'opération de modification sur un nœud. Chaque élément doi
 
 ## Références
 
-* [Format de fichier JOSM] (https://wiki.openstreetmap.org/wiki/JOSM_file_format)
+* [Format de fichier JOSM](https://wiki.openstreetmap.org/wiki/JOSM_file_format)
 

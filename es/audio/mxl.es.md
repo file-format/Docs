@@ -20,7 +20,7 @@ Un archivo MXL es la forma comprimida del formato de archivo MusicXML que es un 
 
 ## Formato de archivo MXL
 
-Los archivos MXL se almacenan como archivos [ZIP](/es/compression/zip/) comprimidos [XML](/es/web/xml/) con la extensión de archivo .mxl. Los archivos MXL se comprimen con el algoritmo DEFLATE como se especifica en [RFC 1951] (https://www.ietf.org/rfc/rfc1951.txt).
+Los archivos MXL se almacenan como archivos [ZIP](/es/compression/zip/) comprimidos [XML](/es/web/xml/) con la extensión de archivo .mxl. Los archivos MXL se comprimen con el algoritmo DEFLATE como se especifica en [RFC 1951](https://www.ietf.org/rfc/rfc1951.txt).
 
 ### Estructura del archivo MXL
 
@@ -42,5 +42,5 @@ En este ejemplo, el<container> elemento es el elemento del documento. los<rootfi
 ## Referencias
 
 * [Archivos MXL comprimidos](https://www.w3.org/2021/06/musicxml40/tutorial/compressed-mxl-files/)
-* [RFC 1951] (https://www.ietf.org/rfc/rfc1951.txt)
+* [RFC 1951](https://www.ietf.org/rfc/rfc1951.txt)
 

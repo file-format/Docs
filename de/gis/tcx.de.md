@@ -23,7 +23,7 @@ Eine TCX-Datei (Training Center XML) ist ein Datenaustauschformat, das verwendet
 
 ## TCX-Dateiformat - Weitere Informationen
 
-TCX-Dateien werden als XML-Dateien auf der Disc gespeichert, wobei jeder Datensatz als Aktivität gespeichert wird. Eine Aktivität umfasst alle Daten eines Trainings wie Zeit, Rundenzeit, Id, Herzfrequenz, Intensität, Trittfrequenz und Trackinformationen, die die Positionspaare zusammen mit dem Zeitstempel für diese Lat-Long-Position enthalten, ähnlich dem [GPX] (/de/gis/gpx/) Dateien.
+TCX-Dateien werden als XML-Dateien auf der Disc gespeichert, wobei jeder Datensatz als Aktivität gespeichert wird. Eine Aktivität umfasst alle Daten eines Trainings wie Zeit, Rundenzeit, Id, Herzfrequenz, Intensität, Trittfrequenz und Trackinformationen, die die Positionspaare zusammen mit dem Zeitstempel für diese Lat-Long-Position enthalten, ähnlich dem [GPX](/de/gis/gpx/) Dateien.
 
 ### Versionen des TCX-Dateiformats
 

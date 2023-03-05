@@ -105,5 +105,5 @@ EOD
 
 ## مراجع ##
 
-* [DIF - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/Data_Interchange_Format)
+* [DIF - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Data_Interchange_Format)
 

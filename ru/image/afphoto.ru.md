@@ -45,5 +45,5 @@ Serif Affinity Photo может открывать файлы AFPHOTO.
 
 ## использованная литература
 
-* [Фото Affinity] (https://affinity.serif.com/en-gb/photo/)
+* [Фото Affinity](https://affinity.serif.com/en-gb/photo/)
 

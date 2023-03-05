@@ -37,5 +37,5 @@ Les fichiers PUP peuvent être utilisés pour réinitialiser votre appareil Play
 
 ## Références
 
-* [Mise à jour du logiciel système PS3] (https://www.playstation.com/en-us/support/hardware/ps3/system-software/)
+* [Mise à jour du logiciel système PS3](https://www.playstation.com/en-us/support/hardware/ps3/system-software/)
 

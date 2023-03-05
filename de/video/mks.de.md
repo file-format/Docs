@@ -68,5 +68,5 @@ Das DVB-Untertitelformat wurde eingeführt, um die Übertragung und Anzeige von 
 
 ## Verweise ##
 
-- [Matroska-Untertitel] (https://www.matroska.org/technical/subtitles.html)
+- [Matroska-Untertitel](https://www.matroska.org/technical/subtitles.html)
 

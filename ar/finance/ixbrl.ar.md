@@ -20,11 +20,11 @@
 
 ## ما هو ملف iXBRL؟
 
-يتيح تنسيق ملف iXBRL (ilnine XBRL) تضمين بيانات [XBRL] (/ar/ web / xbrl /) في ملف HTML لجعله قابلاً للقراءة على الجهاز والبشر. إنه في الواقع ملف [xHTML] (/ar/ web / xhtml /) يستخدم علامات XBRL وتم تطويره بواسطة XBRL International لتلبية متطلبات HMRC في المملكة المتحدة. باستخدام iXBRL ، يمكن إنشاء البيانات المالية مع الحفاظ على تخطيط المستند الأصلي كما هو. يمكن فتح ملفات iXBRL في أي محرر نصوص مثل Notepad على نظام التشغيل Windows و TextEdit على نظام MacOS.
+يتيح تنسيق ملف iXBRL (ilnine XBRL) تضمين بيانات [XBRL](/ar/ web / xbrl /) في ملف HTML لجعله قابلاً للقراءة على الجهاز والبشر. إنه في الواقع ملف [xHTML](/ar/ web / xhtml /) يستخدم علامات XBRL وتم تطويره بواسطة XBRL International لتلبية متطلبات HMRC في المملكة المتحدة. باستخدام iXBRL ، يمكن إنشاء البيانات المالية مع الحفاظ على تخطيط المستند الأصلي كما هو. يمكن فتح ملفات iXBRL في أي محرر نصوص مثل Notepad على نظام التشغيل Windows و TextEdit على نظام MacOS.
 
 ## تنسيق ملف iXBRL
 
-داخل iXBRL ، يتم تغليف محتويات XBRL بتنسيق ملف xHTML الذي يستخدم علامات XML. مثل XBRL ،<xbrl> هو العنصر الجذر لملفات iXBRL. يمثل تنسيق XHTML محتوياته كمجموعة من أنواع ووحدات المستندات المختلفة. تستند جميع الملفات في XHTML إلى تنسيق ملف XML وتتوافق مع معايير مستند XML. XHTML هو تنسيق الاستخدام الأساسي للاستخدام التشغيلي لـ [HTML] (/ar/ web / html /) نموذج كائن المستند (DOM) أو [XML] (/ar/ web / xml /) نموذج كائن المستند. بالنسبة للعالم الخارجي ، تتبع iXBRL مواصفات تنسيق الملف [xHTML] (/ar/ web / xhtml /).
+داخل iXBRL ، يتم تغليف محتويات XBRL بتنسيق ملف xHTML الذي يستخدم علامات XML. مثل XBRL ،<xbrl> هو العنصر الجذر لملفات iXBRL. يمثل تنسيق XHTML محتوياته كمجموعة من أنواع ووحدات المستندات المختلفة. تستند جميع الملفات في XHTML إلى تنسيق ملف XML وتتوافق مع معايير مستند XML. XHTML هو تنسيق الاستخدام الأساسي للاستخدام التشغيلي لـ [HTML](/ar/ web / html /) نموذج كائن المستند (DOM) أو [XML](/ar/ web / xml /) نموذج كائن المستند. بالنسبة للعالم الخارجي ، تتبع iXBRL مواصفات تنسيق الملف [xHTML](/ar/ web / xhtml /).
 
 ### مقابل iXBRL مقابل XBRL
 
@@ -48,6 +48,6 @@
 
 ## مراجع
 
-* [XBRL - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/XBRL)
-* [iXBRL] (https://www.xbrl.org/the-standard/what/ixbrl/)
+* [XBRL - بواسطة Wikipedia](https://en.wikipedia.org/wiki/XBRL)
+* [iXBRL](https://www.xbrl.org/the-standard/what/ixbrl/)
 

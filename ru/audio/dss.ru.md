@@ -28,6 +28,6 @@
 
 ## использованная литература
 
-* [Стандарт цифровой речи — Википедия] (https://en.wikipedia.org/wiki/Digital_Speech_Standard)
+* [Стандарт цифровой речи — Википедия](https://en.wikipedia.org/wiki/Digital_Speech_Standard)
 * [Стандарт цифровой речи (.dss / .ds 2) — Olympus Europa](https://www.olympus-europa.com/site/en/a/audio_support/audio_support_help/digital_speech_standard/index.html)
 

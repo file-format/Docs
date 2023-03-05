@@ -19,7 +19,7 @@
 
 ## ما هو ملف PMLZ؟
 
-قدمت شركة Palm Inc نوع ملف eBook ؛ يُعرف بتنسيق ملف PMLZ وهو إصدار مضغوط من تنسيق ملف [PML] (/ar/ ebook / pml /) ولهذا السبب تُعرف الملفات ذات الامتدادات .pmlz باسم ** Zipped Palm Markup Language File **. ملف PMLZ هو مجرد حاوية مضغوطة لملف يجمع ملفات [PDB] (/ar/ ebook / pdb /) لإنشاء مستندات لـ ** eReader ** (المعروف باسم جهاز قراءة الكتب الإلكترونية مثل الكمبيوتر اللوحي). يعطي ملف PML التخطيط لملف PDB (يحتوي على ملفات بيانات مختلفة) ليتم عرضها على جهاز Palm. حيث أن ملف PDB هو ملف قاعدة بيانات ، يتم استخدامه بواسطة تطبيقات مختلفة ، بما في ذلك Quicken و Pegasus و Microsoft Visual Studio و Palm Pilot. باختصار ، PMLZ عبارة عن حاوية مضغوطة لملفات PML و PDB.
+قدمت شركة Palm Inc نوع ملف eBook ؛ يُعرف بتنسيق ملف PMLZ وهو إصدار مضغوط من تنسيق ملف [PML](/ar/ ebook / pml /) ولهذا السبب تُعرف الملفات ذات الامتدادات .pmlz باسم ** Zipped Palm Markup Language File **. ملف PMLZ هو مجرد حاوية مضغوطة لملف يجمع ملفات [PDB](/ar/ ebook / pdb /) لإنشاء مستندات لـ ** eReader ** (المعروف باسم جهاز قراءة الكتب الإلكترونية مثل الكمبيوتر اللوحي). يعطي ملف PML التخطيط لملف PDB (يحتوي على ملفات بيانات مختلفة) ليتم عرضها على جهاز Palm. حيث أن ملف PDB هو ملف قاعدة بيانات ، يتم استخدامه بواسطة تطبيقات مختلفة ، بما في ذلك Quicken و Pegasus و Microsoft Visual Studio و Palm Pilot. باختصار ، PMLZ عبارة عن حاوية مضغوطة لملفات PML و PDB.
 
 
 ## معرفة لغة ترميز الكف
@@ -62,6 +62,6 @@
 
 ## مراجع
 
-* [لغة ترميز Palm - بواسطة MobileRead] (https://wiki.mobileread.com/wiki/EReader)
-* [قارئ إلكتروني - بواسطة MobileRead] (https://en.wikipedia.org/wiki/E-reader)
+* [لغة ترميز Palm - بواسطة MobileRead](https://wiki.mobileread.com/wiki/EReader)
+* [قارئ إلكتروني - بواسطة MobileRead](https://en.wikipedia.org/wiki/E-reader)
 

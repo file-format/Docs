@@ -23,7 +23,7 @@ Eine Datei mit der Erweiterung .ai ist eine Adobe Illustrator-Artwork-Datei, die
 
 ## AI-Dateiformat
 
-AI ist das proprietäre Dateiformat von Adobe Illustrator und verwendet den dualen Pfadansatz ähnlich wie PGF zum Speichern von EPS-kompatiblen Dateien. Die [Adobe Illustrator-Dateiformatspezifikationen] (https://web.archive.org/web/20150906044646/http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf) enthalten detaillierte Informationen Entwickler-Referenz für interne Details dieses Dateiformats. Alle von Adobe Illustrator erstellten Dokumente (Dateien) sind Dokumente in PostScript-Sprache und bestehen aus zwei Hauptteilen, die den Dokumentstrukturierungskonventionen entsprechen: einem „Prolog“ und einem „Skript“.
+AI ist das proprietäre Dateiformat von Adobe Illustrator und verwendet den dualen Pfadansatz ähnlich wie PGF zum Speichern von EPS-kompatiblen Dateien. Die [Adobe Illustrator-Dateiformatspezifikationen](https://web.archive.org/web/20150906044646/http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf) enthalten detaillierte Informationen Entwickler-Referenz für interne Details dieses Dateiformats. Alle von Adobe Illustrator erstellten Dokumente (Dateien) sind Dokumente in PostScript-Sprache und bestehen aus zwei Hauptteilen, die den Dokumentstrukturierungskonventionen entsprechen: einem „Prolog“ und einem „Skript“.
 
 ### Prolog
 
@@ -48,6 +48,6 @@ Objekt-Tags werden verwendet, um benutzerdefinierte Informationen an ein Adobe I
 * Daten
 
 ## Verweise
-* [Adobe Illustrator-Dateiformatspezifikationen] (https://web.archive.org/web/20150906044646/http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf)
+* [Adobe Illustrator-Dateiformatspezifikationen](https://web.archive.org/web/20150906044646/http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf)
 * [AI-Dateiformat von PaintShopPro](https://www.paintshoppro.com/en/pages/ai-file/)
 

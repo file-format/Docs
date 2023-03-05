@@ -22,7 +22,7 @@
 
 ## ZIM फ़ाइल स्वरूप निर्दिष्टीकरण
 
-ZIM फ़ाइल स्वरूप [Zeno फ़ाइल स्वरूप] (https://openzim.org/wiki/Zeno_file_format) के शीर्ष पर विकसित किया गया था और यह पीछे की ओर संगत नहीं है। डेवलपर के संदर्भ के लिए ओपनज़िम द्वारा ZIM फ़ाइल प्रारूप के प्रारूप विनिर्देश [उपलब्ध ऑनलाइन] (https://openzim.org/wiki/ZIM_file_format) हैं। OpenZIM ने ZIM फ़ाइलों को पढ़ने और लिखने के लिए C++ ओपन सोर्स कार्यान्वयन, [LibZim](https://openzim.org/wiki/Zimlib) प्रदान किया है।
+ZIM फ़ाइल स्वरूप [Zeno फ़ाइल स्वरूप](https://openzim.org/wiki/Zeno_file_format) के शीर्ष पर विकसित किया गया था और यह पीछे की ओर संगत नहीं है। डेवलपर के संदर्भ के लिए ओपनज़िम द्वारा ZIM फ़ाइल प्रारूप के प्रारूप विनिर्देश [उपलब्ध ऑनलाइन](https://openzim.org/wiki/ZIM_file_format) हैं। OpenZIM ने ZIM फ़ाइलों को पढ़ने और लिखने के लिए C++ ओपन सोर्स कार्यान्वयन, [LibZim](https://openzim.org/wiki/Zimlib) प्रदान किया है।
 
 सामग्री को कॉम्पैक्ट बनाने के लिए ZIM फ़ाइल स्वरूप LZMA2 संपीड़न का उपयोग करता है।
 
@@ -51,6 +51,6 @@ ZIM फ़ाइल एक हेडर से शुरू होती है 
 
 ## संदर्भ ##
 
-* [ओपनज़िम] (https://openzim.org/)
+* [ओपनज़िम](https://openzim.org/)
 * [सी++ लिबज़िम](https://openzim.org/wiki/Zimlib)
 

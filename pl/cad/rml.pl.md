@@ -19,7 +19,7 @@
 
 ## Czym jest plik RML?
 
-Plik RML to plik adnotacji utworzony i używany przez aplikację Volo View firmy [Autodesk] (https://autodesk.com). Zawiera informacje o adnotacjach i znaczniki tekstowe, które należy nałożyć na rysunek w celu sporządzenia notatek. Te adnotacje są wyświetlane czerwonym tekstem nad rysunkiem i dlatego nazwa pliku Redline Markup Language. Volo View zostało wycofane i nie jest już obsługiwane przez firmę Autodesk. Zawartość plików RML jest osadzona w rysunkach CAD jako notatki.
+Plik RML to plik adnotacji utworzony i używany przez aplikację Volo View firmy [Autodesk](https://autodesk.com). Zawiera informacje o adnotacjach i znaczniki tekstowe, które należy nałożyć na rysunek w celu sporządzenia notatek. Te adnotacje są wyświetlane czerwonym tekstem nad rysunkiem i dlatego nazwa pliku Redline Markup Language. Volo View zostało wycofane i nie jest już obsługiwane przez firmę Autodesk. Zawartość plików RML jest osadzona w rysunkach CAD jako notatki.
 
 ## Format pliku RML
 

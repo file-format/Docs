@@ -28,5 +28,5 @@ MAR फाइलें एक मालिकाना फ़ाइल प्र
 
 ## संदर्भ
 
-* [मेरिनर कैल्क] (https://marinersoftware.com/product/calc-xls/)
+* [मेरिनर कैल्क](https://marinersoftware.com/product/calc-xls/)
 

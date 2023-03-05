@@ -39,11 +39,11 @@ A .hs fájl a következő információkat tartalmazhatja.
 
 ## Java HS fájlformátum
 
-A Java HS fájlok XML fájlformátumúak, és a World Wide Web Consortium (W3C) Extended Markiup Language javasolt ajánlásán alapulnak [PR-xml-971208] (http://www.w3.org/TR/PR-xml- 971208). Ez azt jelenti, hogy a Java HS-fájl ember által olvasható XML-fájlformátumban van, amely bármely XML-olvasó alkalmazásban megnyitható.
+A Java HS fájlok XML fájlformátumúak, és a World Wide Web Consortium (W3C) Extended Markiup Language javasolt ajánlásán alapulnak [PR-xml-971208](http://www.w3.org/TR/PR-xml- 971208). Ez azt jelenti, hogy a Java HS-fájl ember által olvasható XML-fájlformátumban van, amely bármely XML-olvasó alkalmazásban megnyitható.
 
 ### Java HS fájlformátum példa
 
-A következő egy példa egy helpset fájlra az [Oracle Helpset dokumentációjában] (https://docs.oracle.com/cd/E19253-01/819-0913/author/helpset.html).
+A következő egy példa egy helpset fájlra az [Oracle Helpset dokumentációjában](https://docs.oracle.com/cd/E19253-01/819-0913/author/helpset.html).
 
 ```html
 <?xml version='1.0' encoding='ISO-8859-1' ?>
@@ -159,7 +159,7 @@ Mint minden programozási nyelv, a HS fájlok egyszerű szöveges formátumban k
 
 ### HS fájlformátum példa
 
-A kód .hs fájlba írható, és egy Haskell fordítóval, például [GHC] (http://haskell.org/ghc) segítségével fordítható le. A következő kódsor `HelloWorld.hs` néven kerül mentésre, ahogy az a következő mintában látható.
+A kód .hs fájlba írható, és egy Haskell fordítóval, például [GHC](http://haskell.org/ghc) segítségével fordítható le. A következő kódsor `HelloWorld.hs` néven kerül mentésre, ahogy az a következő mintában látható.
 
 ```
 main = putStrLn "Hello, World!"

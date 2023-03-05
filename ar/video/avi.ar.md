@@ -42,5 +42,5 @@
 
 ## مراجع ##
 
-* [AVI - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/Audio_Video_Interleave)
+* [AVI - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Audio_Video_Interleave)
 

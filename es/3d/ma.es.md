@@ -23,7 +23,7 @@ Un archivo con extensión .ma es un archivo de proyecto 3D creado con la aplicac
 
 ## Formato de archivo MA
 
-Los archivos MA se guardan en el disco en formato de texto ASCII a diferencia de los archivos MB que se guardan en formato de archivo binario en el disco. Una referencia detallada para el formato de archivo MA está disponible en [Documentación de Autodesk Maya] (https://download.autodesk.com/us/maya/2010help/index.html?url=Glossary_M_ma_file_format.htm,topicNumber=d0e192001) y se puede consultar para referencia del desarrollador.
+Los archivos MA se guardan en el disco en formato de texto ASCII a diferencia de los archivos MB que se guardan en formato de archivo binario en el disco. Una referencia detallada para el formato de archivo MA está disponible en [Documentación de Autodesk Maya](https://download.autodesk.com/us/maya/2010help/index.html?url=Glossary_M_ma_file_format.htm,topicNumber=d0e192001) y se puede consultar para referencia del desarrollador.
 
 ### Encabezado del archivo MA
 

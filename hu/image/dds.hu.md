@@ -26,7 +26,7 @@ A DDS fájlok bináris fájlként kerülnek mentésre, és használhatók a Dire
 
 ### DDS fájl elrendezés
 
-A [DDS-fájl elrendezését] (https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) a Microsoft részletesen dokumentálta. Egy bináris DDS fájl a következő információkat tartalmazza.
+A [DDS-fájl elrendezését](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) a Microsoft részletesen dokumentálta. Egy bináris DDS fájl a következő információkat tartalmazza.
 
 * Egy duplaszó (varázsszám), amely a négy karakteres „DDS” kódértéket tartalmazza (0x20534444).
 * A fájlban található adatok leírása.
@@ -38,10 +38,10 @@ DWORD               dwMagic;
 DDS_HEADER          header;
 ```
 
-A [DDS fájlformátum programozási útmutatója] (https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) részletesebben kidolgozza ennek a fájlformátumnak a technikai részleteit.
+A [DDS fájlformátum programozási útmutatója](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) részletesebben kidolgozza ennek a fájlformátumnak a technikai részleteit.
 
 ## Hivatkozások
 
 * [DDS – a Wikipedia által](https://en.wikipedia.org/wiki/DirectDraw_Surface)
-* [ZSoft PCX fájlformátumú műszaki kézikönyv] (http://qzx.com/pc-gpe/pcx.txt)
+* [ZSoft PCX fájlformátumú műszaki kézikönyv](http://qzx.com/pc-gpe/pcx.txt)
 

@@ -34,9 +34,9 @@
 
 ## Как воспроизводить файлы TS?
 
-Что ж, файлы TS можно открывать и воспроизводить в популярном [медиаплеере VideoLAN VLC] (https://www.videolan.org/vlc/features.html), который доступен для бесплатной загрузки.
+Что ж, файлы TS можно открывать и воспроизводить в популярном [медиаплеере VideoLAN VLC](https://www.videolan.org/vlc/features.html), который доступен для бесплатной загрузки.
 
 ## Использованная литература ##
 
-* [Транспортный поток MPEG — Википедия] (https://en.wikipedia.org/wiki/MPEG_transport_stream)
+* [Транспортный поток MPEG — Википедия](https://en.wikipedia.org/wiki/MPEG_transport_stream)
 

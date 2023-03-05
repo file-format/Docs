@@ -52,9 +52,9 @@
 
 ## مواصفات تنسيق ملف GDB ##
 
-ملف GDB هو تنسيق خاص بـ ESRI ولا تتوفر مواصفاته للجمهور. لهذا السبب ، لا يمكن توثيق تفاصيل تنسيق الملف لـ FIle GDB في أي مكان بخلاف بعض المصادر التي قامت بذلك [جزئيًا] (https://github.com/rouault/dump_gdbtable/wiki/FGDB-Spec) عن طريق الهندسة العكسية .
+ملف GDB هو تنسيق خاص بـ ESRI ولا تتوفر مواصفاته للجمهور. لهذا السبب ، لا يمكن توثيق تفاصيل تنسيق الملف لـ FIle GDB في أي مكان بخلاف بعض المصادر التي قامت بذلك [جزئيًا](https://github.com/rouault/dump_gdbtable/wiki/FGDB-Spec) عن طريق الهندسة العكسية .
 
 ## مراجع ##
 
-* [مواصفات FGDB] (https://github.com/rouault/dump_gdbtable/wiki/FGDB-Spec)
+* [مواصفات FGDB](https://github.com/rouault/dump_gdbtable/wiki/FGDB-Spec)
 

@@ -31,6 +31,6 @@
 
 ## Использованная литература ##
 
-* [SQLite — Википедия] (https://en.wikipedia.org/wiki/SQLite)
-* [SQLite, версия 3] (https://www.loc.gov/preservation/digital/formats/fdd/fdd000461.shtml)
+* [SQLite — Википедия](https://en.wikipedia.org/wiki/SQLite)
+* [SQLite, версия 3](https://www.loc.gov/preservation/digital/formats/fdd/fdd000461.shtml)
 

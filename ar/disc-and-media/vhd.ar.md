@@ -37,6 +37,6 @@ VHD هو اختصار لـ Virtual Hard Disk. هذه هي تنسيقات الم�
 
 ## مراجع ##
 
-* [VHD - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/VHD_ (file_format))
+* [VHD - بواسطة Wikipedia](https://en.wikipedia.org/wiki/VHD_ (file_format))
 
 

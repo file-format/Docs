@@ -26,7 +26,7 @@
 
 ## использованная литература
 
-* [Файлы ресурсов (C++)] (https://docs.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
+* [Файлы ресурсов (C++)](https://docs.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
  
 
 

@@ -21,7 +21,7 @@ Notizprogrammdateien enthalten Abschnitte und Seiten zum Speichern von Notizen. 
 
 Zu den gängigen OneNote-Dateierweiterungen und den zugehörigen Dateiformaten gehören **[.ONE](/de/note-taking/one/)** und die zugehörige Inhaltsverzeichnisdatei **[.ONETOC2](/de/note-taking/onetoc2/)** .
 
-Haben Sie Fragen zu Notes-Dateiformaten? Besuchen Sie unsere Community [Foren] (https://forum.fileformat.com/c/note-taking), um vom Wissen der Dateiformatexperten zu profitieren.
+Haben Sie Fragen zu Notes-Dateiformaten? Besuchen Sie unsere Community [Foren](https://forum.fileformat.com/c/note-taking), um vom Wissen der Dateiformatexperten zu profitieren.
 
 ## Liste der beachtenswerten Dateierweiterungen und zugehörigen Dateiformate
 Im Folgenden finden Sie eine Liste gängiger Dateiformate für Notizen mit ihren Dateierweiterungen.

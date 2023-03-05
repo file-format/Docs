@@ -24,15 +24,15 @@
 
 ## تنسيق ملف Sony Ericsson THM - مزيد من المعلومات
 
-ملف THM هو في الواقع ملف حاوية يحتوي على مجموعة من الملفات الأخرى. يتم حفظه بتنسيق ملف أرشيف [TAR] (/ar/ compression / tar /) ويمكن استخراجه باستخدام أي برنامج إلغاء ضغط قياسي يدعم تنسيق ملف TAR.
+ملف THM هو في الواقع ملف حاوية يحتوي على مجموعة من الملفات الأخرى. يتم حفظه بتنسيق ملف أرشيف [TAR](/ar/ compression / tar /) ويمكن استخراجه باستخدام أي برنامج إلغاء ضغط قياسي يدعم تنسيق ملف TAR.
 
-يحتوي ملف THM على ملف XML ، والعديد من تنسيقات ملفات الصور [.png] (/ar/ image / png /) ، أو [.pjg] (/ar/ image / jpeg /) ، أو [.gif] (/ar/ image / gif /) تنسيقات ، أو ملفات [.swf] (/ar/ page-description-language / swf /).
+يحتوي ملف THM على ملف XML ، والعديد من تنسيقات ملفات الصور [.png](/ar/ image / png /) ، أو [.pjg](/ar/ image / jpeg /) ، أو [.gif](/ar/ image / gif /) تنسيقات ، أو ملفات [.swf](/ar/ page-description-language / swf /).
 
 ## كيف تصنع ثيمات Sony Ericsson؟
 
-يمكن استخدام برنامج Sony Themes Creator لإنشاء سمات جديدة لهواتف Sony Ericsson المحمولة. يمكن للمستخدمين متابعة Sony [Themes Creator Developer Guide] (https://developer.sony.com/develop/theme-creator/get-started) لإنشاء سمات.
+يمكن استخدام برنامج Sony Themes Creator لإنشاء سمات جديدة لهواتف Sony Ericsson المحمولة. يمكن للمستخدمين متابعة Sony [Themes Creator Developer Guide](https://developer.sony.com/develop/theme-creator/get-started) لإنشاء سمات.
 
 ## مراجع
 
-* [Sony Themes Creator Developer Guide] (https://developer.sony.com/develop/theme-creator/get-started)
+* [Sony Themes Creator Developer Guide](https://developer.sony.com/develop/theme-creator/get-started)
 

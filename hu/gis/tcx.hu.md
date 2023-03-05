@@ -36,7 +36,7 @@ Ennek a formátumnak két változata létezik saját XML-sémákkal, amelyeket a
 
 ## TCX adatprotokoll
 
-A TCX XML formátum gyors verziója [TcxDataProtocol] (https://github.com/FitnessKit/TcxDataProtocol) néven érhető el a Githubon.
+A TCX XML formátum gyors verziója [TcxDataProtocol](https://github.com/FitnessKit/TcxDataProtocol) néven érhető el a Githubon.
 
 ## Referenciák ##
 

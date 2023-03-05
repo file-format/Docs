@@ -82,7 +82,7 @@ on *:Text:die*:#: { .mode $chan +b $nick | kick $chan $nick Dont say that again 
 
 ## संदर्भ ##
 
-* [एमआईआरसी - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/MIRC_scripting_language)
+* [एमआईआरसी - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/MIRC_scripting_language)
 
 
 

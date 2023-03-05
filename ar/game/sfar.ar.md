@@ -23,7 +23,7 @@
 
 ## تنسيق ملف سفار - مزيد من المعلومات
 
-يتم تخزين / حفظ ملفات SFAR كملفات أرشيف مضغوطة بتنسيق ملف ثنائي. تستخدم هذه الخوارزميات كلاً من خوارزميات ضغط LZX و LZMA لضغط المحتويات. يمكن فتح ملفات SFAR باستخدام محرر DLC الذي يأتي مع ME3 Explorer. بالإضافة إلى SFAR ، يمكن لـ DLC Editor استخراج ملفات الألعاب الأخرى مثل [PCC] (/ar/ game / pcc /).
+يتم تخزين / حفظ ملفات SFAR كملفات أرشيف مضغوطة بتنسيق ملف ثنائي. تستخدم هذه الخوارزميات كلاً من خوارزميات ضغط LZX و LZMA لضغط المحتويات. يمكن فتح ملفات SFAR باستخدام محرر DLC الذي يأتي مع ME3 Explorer. بالإضافة إلى SFAR ، يمكن لـ DLC Editor استخراج ملفات الألعاب الأخرى مثل [PCC](/ar/ game / pcc /).
 
 ## مواصفات تنسيق ملف سفار
 
@@ -47,5 +47,5 @@
 
 ## مراجع
 
-* [تنسيق ملف DLC SFAR - بحث] (https://www.tapatalk.com/groups/me3explorer/current-research-dlc-sfar-fileformat-t629.html)
+* [تنسيق ملف DLC SFAR - بحث](https://www.tapatalk.com/groups/me3explorer/current-research-dlc-sfar-fileformat-t629.html)
 

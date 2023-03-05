@@ -53,5 +53,5 @@ CREATE TABLE employees (
 
 ## Использованная литература ##
 
-* [DDL из Википедии] (https://en.wikipedia.org/wiki/Data_definition_language)
+* [DDL из Википедии](https://en.wikipedia.org/wiki/Data_definition_language)
 

@@ -32,10 +32,10 @@
 
 ## أين تجد ملفات DEM؟
 
-تتوفر ملفات DEM بشكل شائع على الإنترنت ويمكن تنزيل العينات للاستخدام. توفر [هيئة المسح الجيولوجي الأمريكية] (https://www.usgs.gov/) (USGS) العديد من ملفات DEM على موقع الويب الخاص بها.
+تتوفر ملفات DEM بشكل شائع على الإنترنت ويمكن تنزيل العينات للاستخدام. توفر [هيئة المسح الجيولوجي الأمريكية](https://www.usgs.gov/) (USGS) العديد من ملفات DEM على موقع الويب الخاص بها.
 
 ## مراجع
 
-* [ملفات DEM] (https://en.wikipedia.org/wiki/Digital_elevation_model)
-* [USGS - DEM] (https://www.usgs.gov/)
+* [ملفات DEM](https://en.wikipedia.org/wiki/Digital_elevation_model)
+* [USGS - DEM](https://www.usgs.gov/)
 

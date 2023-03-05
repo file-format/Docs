@@ -37,6 +37,6 @@ Los archivos EX se almacenan como archivos de texto sin formato y contienen el c
 
 ## Referencia ##
 
-* [Euforia rápida] (https://www.rapideuphoria.com/)
-* [Foros de OpenEuphoria] (https://openeuphoria.org/forum/index.wc)
+* [Euforia rápida](https://www.rapideuphoria.com/)
+* [Foros de OpenEuphoria](https://openeuphoria.org/forum/index.wc)
 

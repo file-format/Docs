@@ -23,5 +23,5 @@ Un archivo CSP es un archivo de página web dinámico que contiene contenido esc
 
 ## Referencias
 
-* [Servidor de aplicaciones conceptuales] (https://github.com/Devronium/ConceptApplicationServer)
+* [Servidor de aplicaciones conceptuales](https://github.com/Devronium/ConceptApplicationServer)
 

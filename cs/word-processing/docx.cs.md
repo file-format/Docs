@@ -106,5 +106,5 @@ Odstavec je hlavním držitelem obsahu v dokumentu. Je reprezentován **<w:p> **
 ## Reference ##
 
 * [formát souboru MS – DOCX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
-* [Office Open XML] (http://officeopenxml.com/)
+* [Office Open XML](http://officeopenxml.com/)
 

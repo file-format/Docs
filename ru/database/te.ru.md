@@ -35,5 +35,5 @@
 
 ## Использованная литература ##
 
-* [Руководство по CT базы данных Textease] (https://products.conholdate.app/viewer/view/8MPsb0m0GyulEw3GO/textease-database-ct-guide.pdf?preview=true.pdf)
+* [Руководство по CT базы данных Textease](https://products.conholdate.app/viewer/view/8MPsb0m0GyulEw3GO/textease-database-ct-guide.pdf?preview=true.pdf)
 

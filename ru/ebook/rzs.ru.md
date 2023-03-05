@@ -35,7 +35,7 @@
 
 ## использованная литература
 
-* [Электронная книга Red Zion] (https://submitfile.com/download/red-zion-e-book)
+* [Электронная книга Red Zion](https://submitfile.com/download/red-zion-e-book)
 
 
 

@@ -33,6 +33,6 @@ ODF फाइलें ज़िप-संपीड़ित XML फाइले
 
 ## संदर्भ
 
-* [ओडीएफ - विकिपीडिया] (https://en.wikipedia.org/wiki/OpenDocument)
+* [ओडीएफ - विकिपीडिया](https://en.wikipedia.org/wiki/OpenDocument)
 * [Apache OpenOffice Math का उपयोग करना](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide)
 

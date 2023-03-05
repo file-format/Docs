@@ -70,6 +70,6 @@ ENDFONT
 
 
 ## использованная литература
-* [Формат распространения растровых изображений Glyph] (https://en.wikipedia.org/wiki/Glyph_Bitmap_Distribution_Format)
-* [Спецификация формата распространения растровых изображений Glyph (BDF)] (https://adobe-type-tools.github.io/font-tech-notes/pdfs/5005.BDF_Spec.pdf)
+* [Формат распространения растровых изображений Glyph](https://en.wikipedia.org/wiki/Glyph_Bitmap_Distribution_Format)
+* [Спецификация формата распространения растровых изображений Glyph (BDF)](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5005.BDF_Spec.pdf)
 

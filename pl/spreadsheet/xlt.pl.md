@@ -23,7 +23,7 @@ Pliki z rozszerzeniem .xlt to pliki szablonów utworzone za pomocą programu Mic
 
 ## Format pliku XLT
 
-Format pliku XLT jest oparty na binarnym formacie pliku programu Excel, który początkowo był obsługiwany w wersji programu Excel 97-2003. Został on zastąpiony formatem pliku [XLTX] (/pl/spreadsheet/xltx/) wraz z wprowadzeniem programu Excel 2007, który jest oparty na formacie Office Open XML. Oprócz programu Microsoft Excel istnieją inne aplikacje obsługujące pracę z tym formatem pliku, takie jak Lotus Translation Table, PlanMaker, LibreOffice Calc itp. Dostępnych jest kilka aplikacji i [interfejsów API](https://products.aspose.com/cells) konwertować XLT na inne formaty plików, takie jak:
+Format pliku XLT jest oparty na binarnym formacie pliku programu Excel, który początkowo był obsługiwany w wersji programu Excel 97-2003. Został on zastąpiony formatem pliku [XLTX](/pl/spreadsheet/xltx/) wraz z wprowadzeniem programu Excel 2007, który jest oparty na formacie Office Open XML. Oprócz programu Microsoft Excel istnieją inne aplikacje obsługujące pracę z tym formatem pliku, takie jak Lotus Translation Table, PlanMaker, LibreOffice Calc itp. Dostępnych jest kilka aplikacji i [interfejsów API](https://products.aspose.com/cells) konwertować XLT na inne formaty plików, takie jak:
 
 * XLT do PDF
 * XLT do DOC

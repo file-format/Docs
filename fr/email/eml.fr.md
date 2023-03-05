@@ -86,5 +86,5 @@ ID de pièce jointe X : f_jkhztmd43
 
 ## Références
 
-* [RFC 822] (http://www.ietf.org/rfc/rfc0822.txt)
+* [RFC 822](http://www.ietf.org/rfc/rfc0822.txt)
 

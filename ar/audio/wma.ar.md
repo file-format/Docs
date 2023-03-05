@@ -19,7 +19,7 @@
 
 ## ما هو ملف WMA؟
 
-يمثل الملف بامتداد .wma ملفًا صوتيًا يتم حفظه بتنسيق الأنظمة المتقدمة (ASF). ASF هو تنسيق مملوك لشركة Microsoft ويحتوي على دفق بتات مشفر بواسطة Windows Media Audio 9. بالإضافة إلى محتوى الصوت ، يحتوي ملف WMA أيضًا على كائنات بيانات وصفية مثل العنوان والألبوم والفنان ونوع المسار. تُستخدم ملفات WMA بشكل أساسي للدفق عبر الويب على غرار ملفات [.mp3] (/ar/ audio / mp3 /).
+يمثل الملف بامتداد .wma ملفًا صوتيًا يتم حفظه بتنسيق الأنظمة المتقدمة (ASF). ASF هو تنسيق مملوك لشركة Microsoft ويحتوي على دفق بتات مشفر بواسطة Windows Media Audio 9. بالإضافة إلى محتوى الصوت ، يحتوي ملف WMA أيضًا على كائنات بيانات وصفية مثل العنوان والألبوم والفنان ونوع المسار. تُستخدم ملفات WMA بشكل أساسي للدفق عبر الويب على غرار ملفات [.mp3](/ar/ audio / mp3 /).
 
 ## تنسيق ملف WMA
 
@@ -40,5 +40,5 @@ struct WMA_TYPE_SPECIFIC_DATA
 ```
 ## مراجع
 
-* [نظرة عامة على ASF - Microsoft] (https://docs.microsoft.com/en-us/windows/win32/wmformat/overview-of-the-asf-format؟redirectedfrom=MSDN)
+* [نظرة عامة على ASF - Microsoft](https://docs.microsoft.com/en-us/windows/win32/wmformat/overview-of-the-asf-format؟redirectedfrom=MSDN)
 

@@ -34,7 +34,7 @@ WScript.Quit
 
 ## संदर्भ
 
-* [विंडोज स्क्रिप्ट होस्ट - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/Windows_Script_Host)
+* [विंडोज स्क्रिप्ट होस्ट - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Windows_Script_Host)
 
 
 

@@ -27,5 +27,5 @@ OpenDocument अपने समर्थित फ़ाइल स्वरू�
 
 ## संदर्भ ##
 
-* [OpenDocument - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/OpenDocument)
+* [OpenDocument - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/OpenDocument)
 

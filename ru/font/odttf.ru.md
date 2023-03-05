@@ -28,6 +28,6 @@ NiXPS View и NiXPS Edit.
 Внутренняя структура формата файла ODTTF неизвестна, поскольку они хранятся во встроенном запутанном формате. Они могут быть встроены в цифровые документы, такие как .PDF или .DOCX.
 
 ## использованная литература
-* [Спецификации шрифтов OpenType от Microsoft] (https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [Обзор TrueType] (https://docs.microsoft.com/en-us/typography/truetype/)
+* [Спецификации шрифтов OpenType от Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
+* [Обзор TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
 

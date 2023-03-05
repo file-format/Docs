@@ -27,6 +27,6 @@
 
 ## مراجع
 
-* [Battlefield 1942] (https://en.wikipedia.org/wiki/Battlefield_1942)
-* [Battlefield 1942 - EA] (https://www.ea.com/news/get-battlefield-1942-free-from-origin)
+* [Battlefield 1942](https://en.wikipedia.org/wiki/Battlefield_1942)
+* [Battlefield 1942 - EA](https://www.ea.com/news/get-battlefield-1942-free-from-origin)
 

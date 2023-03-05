@@ -48,5 +48,5 @@ Pliki CR2 to surowe pliki bez utraty danych, a tym samym bez utraty jakości. Z 
 
 ## Bibliografia
 
-* [Format pliku CR2] (http://lclevy.free.fr/cr2/)
+* [Format pliku CR2](http://lclevy.free.fr/cr2/)
 

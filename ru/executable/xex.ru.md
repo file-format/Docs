@@ -27,6 +27,6 @@
 
 ## использованная литература
 
-* [Инструмент XEX] (https://digiex.net/threads/xextool-6-3-download.9523/)
-* [Преобразование XEX в EXE — Reddit] (https://www.reddit.com/r/Roms/comments/kl382s/xex_file_to_exe_file/)
+* [Инструмент XEX](https://digiex.net/threads/xextool-6-3-download.9523/)
+* [Преобразование XEX в EXE — Reddit](https://www.reddit.com/r/Roms/comments/kl382s/xex_file_to_exe_file/)
 

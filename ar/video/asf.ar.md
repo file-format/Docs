@@ -19,11 +19,11 @@
 
 ## ما هو ملف ASF؟
 
-الملف ذو الامتداد .asf هو تنسيق ملف وسائط متعددة لتخزين وتشغيل تدفقات الوسائط الرقمية عبر الشبكة. إنه تنسيق ملف حاوية يمكن أن يحتوي على كل من محتوى الفيديو والصوت للبث عبر الإنترنت. نادرًا ما ستجد ملفات ASF ، وعلى الأرجح ستجد ملفات Windows Media Audio ([WMA] (/ar/ audio / wma /)) و Windows Media Video ([WMV] (/ar/ video / wmv /)) التي تحدد كلاهما ملفات ASF وجود محتوى مشفر باستخدام برامج الترميز ذات الصلة. يمكن إنشاء ملفات وسائط Windows وقراءتها باستخدام Windows Media Format SDK.
+الملف ذو الامتداد .asf هو تنسيق ملف وسائط متعددة لتخزين وتشغيل تدفقات الوسائط الرقمية عبر الشبكة. إنه تنسيق ملف حاوية يمكن أن يحتوي على كل من محتوى الفيديو والصوت للبث عبر الإنترنت. نادرًا ما ستجد ملفات ASF ، وعلى الأرجح ستجد ملفات Windows Media Audio ([WMA](/ar/ audio / wma /)) و Windows Media Video ([WMV](/ar/ video / wmv /)) التي تحدد كلاهما ملفات ASF وجود محتوى مشفر باستخدام برامج الترميز ذات الصلة. يمكن إنشاء ملفات وسائط Windows وقراءتها باستخدام Windows Media Format SDK.
 
 ## تنسيق ملف ASF
 
-يمكن أن يشتمل ملف ASF على عدة تدفقات مستقلة أو تابعة. يمكن أن يشمل ذلك تدفقات صوتية متعددة للصوت متعدد القنوات أو تدفقات الفيديو متعددة معدل البت. تجعل معدلات البت المتعددة التدفقات مناسبة للإرسال عبر عروض نطاق مختلفة. علاوة على ذلك ، يمكن أن تكون التدفقات في ملف ASF بتنسيق مضغوط أو غير مضغوط. يتم تحقيق أفضل ضغط باستخدام برامج الترميز Microsoft Windows Media Audio and Video 9 Series. المواصفات الكاملة لتنسيق ملف ASF متاحة على [موقع Microsoft] (https://download.microsoft.com/download/7/9/0/790fecaa-f64a-4a5e-a430-0bccdab3f1b4/ASF_Specification.doc).
+يمكن أن يشتمل ملف ASF على عدة تدفقات مستقلة أو تابعة. يمكن أن يشمل ذلك تدفقات صوتية متعددة للصوت متعدد القنوات أو تدفقات الفيديو متعددة معدل البت. تجعل معدلات البت المتعددة التدفقات مناسبة للإرسال عبر عروض نطاق مختلفة. علاوة على ذلك ، يمكن أن تكون التدفقات في ملف ASF بتنسيق مضغوط أو غير مضغوط. يتم تحقيق أفضل ضغط باستخدام برامج الترميز Microsoft Windows Media Audio and Video 9 Series. المواصفات الكاملة لتنسيق ملف ASF متاحة على [موقع Microsoft](https://download.microsoft.com/download/7/9/0/790fecaa-f64a-4a5e-a430-0bccdab3f1b4/ASF_Specification.doc).
 
 ### بنية ملف المستوى الأعلى لـ ASF
 
@@ -71,6 +71,6 @@
 
 ## مراجع
 
-* [تنسيق ملف ASF - Microsoft] (https://download.microsoft.com/download/7/9/0/790fecaa-f64a-4a5e-a430-0bccdab3f1b4/ASF_Specification.doc)
-* [تنسيق ملف كويك تايم - ويكيبيديا] (https://en.wikipedia.org/wiki/QuickTime_File_Format)
+* [تنسيق ملف ASF - Microsoft](https://download.microsoft.com/download/7/9/0/790fecaa-f64a-4a5e-a430-0bccdab3f1b4/ASF_Specification.doc)
+* [تنسيق ملف كويك تايم - ويكيبيديا](https://en.wikipedia.org/wiki/QuickTime_File_Format)
 

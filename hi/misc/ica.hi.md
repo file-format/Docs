@@ -37,5 +37,5 @@ ica एक्सटेंशन वाली फ़ाइल एक कॉन्
 ## संदर्भ
 
 * [आईसीए फ़ाइल सामग्री को समझना](https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
-* [साइट्रिक्स आईसीए सेटिंग्स संदर्भ] (http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
+* [साइट्रिक्स आईसीए सेटिंग्स संदर्भ](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
 

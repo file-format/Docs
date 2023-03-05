@@ -18,7 +18,7 @@
 
 ## ما هو ملف MSO؟
 
-ملف MSO هو تنسيق ملف حاوية بيانات يتم إنشاؤه عند إرسال رسالة HTML باستخدام Microsoft Outlook. يحدث هذا في الغالب مع تطبيقات Microsoft Office 2000. في معظم الحالات ، يتم إرفاق رسالة البريد الإلكتروني باسم ملف ** Oledata.mso **. يمكن لمستلم البريد الإلكتروني ، عند فتح مثل هذا البريد الإلكتروني ، عرض الملف بشكل صحيح حتى إذا لم يكن لديهم نفس البرنامج المثبت. تشير ملفات MSO إلى [تنسيق ملف مستند Microsoft المركب (MCDF)] (https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/53989ce4-7b05-4f8d-829b-d08d6148375b).
+ملف MSO هو تنسيق ملف حاوية بيانات يتم إنشاؤه عند إرسال رسالة HTML باستخدام Microsoft Outlook. يحدث هذا في الغالب مع تطبيقات Microsoft Office 2000. في معظم الحالات ، يتم إرفاق رسالة البريد الإلكتروني باسم ملف ** Oledata.mso **. يمكن لمستلم البريد الإلكتروني ، عند فتح مثل هذا البريد الإلكتروني ، عرض الملف بشكل صحيح حتى إذا لم يكن لديهم نفس البرنامج المثبت. تشير ملفات MSO إلى [تنسيق ملف مستند Microsoft المركب (MCDF)](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/53989ce4-7b05-4f8d-829b-d08d6148375b).
 
 ## تنسيق ملف Microsoft MSO
 
@@ -26,10 +26,10 @@
 
 ### هيكل تنسيق ملف MSO
 
-هيكل تنسيق الملف الداخلي لتنسيق ملف MSO محدد جيدًا في [الهياكل] (https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/28488197-8193-49d7-84d8-dfd692418ccd ) قسم وثائق MCDF. يدير جدول تخصيص الملفات (FAT) تخصيص القطاعات وسلاسل القطاعات. يحتوي على مجموعة من أرقام القطاعات 32 بت. يمثل كل فهرس في المصفوفة رقم قطاع بينما تمثل قيمته القطاع التالي في السلسلة أو قيمة خاصة.
+هيكل تنسيق الملف الداخلي لتنسيق ملف MSO محدد جيدًا في [الهياكل](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/28488197-8193-49d7-84d8-dfd692418ccd ) قسم وثائق MCDF. يدير جدول تخصيص الملفات (FAT) تخصيص القطاعات وسلاسل القطاعات. يحتوي على مجموعة من أرقام القطاعات 32 بت. يمثل كل فهرس في المصفوفة رقم قطاع بينما تمثل قيمته القطاع التالي في السلسلة أو قيمة خاصة.
 
 ## مراجع
 
-* [التخزين المهيكل COM] (https://en.wikipedia.org/wiki/COM_Structured_Storage)
-* [تنسيق ملف مستند Microsoft المركب (MCDF)] (https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/53989ce4-7b05-4f8d-829b-d08d6148375b)
+* [التخزين المهيكل COM](https://en.wikipedia.org/wiki/COM_Structured_Storage)
+* [تنسيق ملف مستند Microsoft المركب (MCDF)](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/53989ce4-7b05-4f8d-829b-d08d6148375b)
 

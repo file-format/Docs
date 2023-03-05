@@ -89,6 +89,6 @@ Microsoft впервые использовала шрифты TrueType в Windo
 
 
 ## использованная литература
-* [Справочное руководство по шрифтам TrueType] (https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [Обзор TrueType] (https://docs.microsoft.com/en-us/typography/truetype/)
+* [Справочное руководство по шрифтам TrueType](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
+* [Обзор TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
 

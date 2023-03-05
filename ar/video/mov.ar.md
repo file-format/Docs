@@ -23,7 +23,7 @@
 
 ## تاريخ موجز لتنسيق ملف MOV
 
-تم تطوير تنسيق ملف MPEG-4 من مواصفات تنسيق ملف QuickTime (** QTFF **) في عام 2001. وافقت المنظمة الدولية للتوحيد القياسي على التنسيق وتم نشر مواصفات أنظمة MPEG-4 الجزء 1 في عام 1999. في عام 2001 ، ملف مراجعة تم نشر التنسيق [MP4] (/ar/ video / mp4 /).
+تم تطوير تنسيق ملف MPEG-4 من مواصفات تنسيق ملف QuickTime (** QTFF **) في عام 2001. وافقت المنظمة الدولية للتوحيد القياسي على التنسيق وتم نشر مواصفات أنظمة MPEG-4 الجزء 1 في عام 1999. في عام 2001 ، ملف مراجعة تم نشر التنسيق [MP4](/ar/ video / mp4 /).
 
 تمت مراجعة الإصدار الأول من MP4 في عام 2003 باعتباره MPEG-4 الجزء 14 (ISO / IEC 14496-14: 2003). في عام 2004 ، تم تعميم MP4 لتحديد هيكل عام لجميع ملفات الوسائط المستندة إلى الوقت. لذلك ، يتم استخدامه الآن كأساس للعديد من تنسيقات ملفات الوسائط المتعددة الأخرى.
 
@@ -86,20 +86,20 @@ Atom هي الوحدة الأساسية لملف QuickTime. يوجد حقلين 
 
 يمكن للعديد من مشغلات الوسائط وبرامج تحرير الفيديو ، بما في ذلك مشغل وسائط VideoLAN VLC و Eltima Elmedia Player ، تحويل ملفات MOV إلى تنسيقات أخرى. يمكن لهذه البرامج تحويل ملفات MOV إلى تنسيقات الفيديو التالية.
 
-* فيديو MPEG-4 - [MP4] (/ar/ فيديو / mp4 /)
-* فيديو WebM - [WEBM] (/ar/ video / webm /)
-* دفق نقل الفيديو - [TS] (/ar/ video / ts /)
-* تنسيق الأنظمة المتقدم - [ASF] (/ar/ video / ts /)
-* Ogg Vorbis Audio - [OGG] (/ar/ audio / ogg /)
-* صوت MP3 - [MP3] (/ar/ صوت / mp3 /)
-* برنامج ترميز الصوت بدون فقدان البيانات - [FLAC] (/ar/ audio / flac /)
-* WAVE Audio - [WAV] (/ar/ audio / wav /)
+* فيديو MPEG-4 - [MP4](/ar/ فيديو / mp4 /)
+* فيديو WebM - [WEBM](/ar/ video / webm /)
+* دفق نقل الفيديو - [TS](/ar/ video / ts /)
+* تنسيق الأنظمة المتقدم - [ASF](/ar/ video / ts /)
+* Ogg Vorbis Audio - [OGG](/ar/ audio / ogg /)
+* صوت MP3 - [MP3](/ar/ صوت / mp3 /)
+* برنامج ترميز الصوت بدون فقدان البيانات - [FLAC](/ar/ audio / flac /)
+* WAVE Audio - [WAV](/ar/ audio / wav /)
 
 ## Open Source API لملفات MOV
 
-* [React Native API لتحويل MOV إلى MP4] (https://github.com/taltultc/react-native-mov-to-mp4)
-* [Python API لإصلاح ملفات MOV] (https://github.com/nrosenstein-stuff/movrepair)
-* [Ruby API لتحويل MOV إلى GIF] (https://github.com/skygroundmedia/convert-mov-to-gif)
+* [React Native API لتحويل MOV إلى MP4](https://github.com/taltultc/react-native-mov-to-mp4)
+* [Python API لإصلاح ملفات MOV](https://github.com/nrosenstein-stuff/movrepair)
+* [Ruby API لتحويل MOV إلى GIF](https://github.com/skygroundmedia/convert-mov-to-gif)
 
 ## مراجع
 

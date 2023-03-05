@@ -20,7 +20,7 @@
 
 ## Co je soubor PSS?
 
-Soubor s příponou .pss je soubor herního videa Sony PlayStation 2 a používá se k ukládání zvukových a obrazových dat ve hrách pro konzoli Playstation 2. Tato video a zvuková data jsou ve skutečnosti cutscénami, které lze extrahovat ze souborů PSS pomocí bezplatných nástrojů. Jedním z takových nástrojů je [RipBot] (http://forum.doom9.org/showthread.php?t=127611), který byl vyvinut v Delphi k extrahování obsahu ze souboru PSS. Data ze souborů PSS lze rozdělit na jejich [MPEG2](/cs/video/mpg/) video a [WAV](/cs/audio/wav/) audio komponenty a převést do různých formátů audio a video souborů. Soubory PSS lze otevřít pomocí aplikací, jako je přehrávač médií VideoLAN VLC, PSS Plex a PSS Player.
+Soubor s příponou .pss je soubor herního videa Sony PlayStation 2 a používá se k ukládání zvukových a obrazových dat ve hrách pro konzoli Playstation 2. Tato video a zvuková data jsou ve skutečnosti cutscénami, které lze extrahovat ze souborů PSS pomocí bezplatných nástrojů. Jedním z takových nástrojů je [RipBot](http://forum.doom9.org/showthread.php?t=127611), který byl vyvinut v Delphi k extrahování obsahu ze souboru PSS. Data ze souborů PSS lze rozdělit na jejich [MPEG2](/cs/video/mpg/) video a [WAV](/cs/audio/wav/) audio komponenty a převést do různých formátů audio a video souborů. Soubory PSS lze otevřít pomocí aplikací, jako je přehrávač médií VideoLAN VLC, PSS Plex a PSS Player.
 
 ## Formát souboru PSS – Další informace
 

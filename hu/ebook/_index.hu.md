@@ -19,7 +19,7 @@
 
 Az e-könyvfájlok olyan elektronikus fájlok, amelyek megnyithatók az e-olvasóként ismert digitális eszközökön. Az eReader bármilyen eszköz lehet, például számítógép, táblagép vagy okostelefon. A legnépszerűbb ebook fájlformátum az XML alapú ePub. Az e-könyvek különböző típusú tartalmakat, például szöveget, képet és videót tartalmazhatnak. A gyakori e-könyvek fájlkiterjesztései és fájlformátumai a következők: **[EPUB](/hu/ebook/epub/)** (elektronikus kiadvány), **[FB2](/hu/ebook/fb2/)** (FictionBook 2.0) és **[ Mobi](/hu/ebook/mobi/)** (MobiPocket eBook File).
 
-Kérdései vannak az Ebook fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra] (https://forum.fileformat.com/c/ebook), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
+Kérdései vannak az Ebook fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/ebook), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
 
 ## Az eBook fájlkiterjesztések és a kapcsolódó fájlformátumok listája
 

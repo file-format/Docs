@@ -42,7 +42,7 @@ Standard PDF/UA definuje specifikace pro obsah, čtečky a asistenční technolo
 
 ## Vyhovující soubory ##
 
-Soubory vyhovující standardu PDF/UA by měly obsahovat funkce, které jsou platné podle [specifikace PDF 1.7] (http://www.adobe.com/go/pdfreference). Nicméně funkce, které jsou zakázány konkrétně PDF/UA, by měly být vyloučeny.
+Soubory vyhovující standardu PDF/UA by měly obsahovat funkce, které jsou platné podle [specifikace PDF 1.7](http://www.adobe.com/go/pdfreference). Nicméně funkce, které jsou zakázány konkrétně PDF/UA, by měly být vyloučeny.
 
 ## Konformní čtenáři ##
 

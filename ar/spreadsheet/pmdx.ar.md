@@ -19,7 +19,7 @@
 
 ## ما هو ملف PMDX؟
 
-ملف PMDX هو مستند جدول بيانات تم إنشاؤه باستخدام أحدث إصدار من [PlanMaker] (https://www.softmaker.de/softmaker-office-planmaker) ، وهو برنامج يأتي كجزء من SoftMaker Office. يقوم بتخزين البيانات في خلايا في شكل صفوف وأعمدة. يمكن أن تحتوي كل خلية على سلسلة أو أرقام أو صيغ أو بيانات منسقة أخرى. استبدلت ملفات PMDX ملفات الإصدار الأقدم [PMD] (/ar/ spreadsheet / pmd /) بترقية PlanMaker. XLSX هو تنسيق الملفات القياسي الذي يدعمه PlanMaker ولا يحتاج إلى أي تحويل أثناء فتح هذه الملفات باستخدام Microsoft Excel. يدعم PlanMaker أيضًا العمل مع ملفات [XLS] (/ar/ spreadsheet / xls /) وتحويلها إلى تنسيقات أخرى مثل [PDF] (/ar/ pdf /).
+ملف PMDX هو مستند جدول بيانات تم إنشاؤه باستخدام أحدث إصدار من [PlanMaker](https://www.softmaker.de/softmaker-office-planmaker) ، وهو برنامج يأتي كجزء من SoftMaker Office. يقوم بتخزين البيانات في خلايا في شكل صفوف وأعمدة. يمكن أن تحتوي كل خلية على سلسلة أو أرقام أو صيغ أو بيانات منسقة أخرى. استبدلت ملفات PMDX ملفات الإصدار الأقدم [PMD](/ar/ spreadsheet / pmd /) بترقية PlanMaker. XLSX هو تنسيق الملفات القياسي الذي يدعمه PlanMaker ولا يحتاج إلى أي تحويل أثناء فتح هذه الملفات باستخدام Microsoft Excel. يدعم PlanMaker أيضًا العمل مع ملفات [XLS](/ar/ spreadsheet / xls /) وتحويلها إلى تنسيقات أخرى مثل [PDF](/ar/ pdf /).
 
 ## تنسيق ملف PMDX
 
@@ -27,5 +27,5 @@
 
 ## مراجع ##
 
-* [SoftMaker Office - planMaker] (https://www.softmaker.de/softmaker-office-planmaker)
+* [SoftMaker Office - planMaker](https://www.softmaker.de/softmaker-office-planmaker)
 

@@ -51,6 +51,6 @@ Nagłówek archiwum ma 10 bajtów i ma następującą strukturę.
 
 ## Bibliografia
 
-* [Specyfikacje formatu pliku PEA] (https://peazip.github.io/pea_help.pdf)
+* [Specyfikacje formatu pliku PEA](https://peazip.github.io/pea_help.pdf)
 * [Format pliku PEA](https://peazip.github.io/pea-file-format.html#.pea_specifications)
 

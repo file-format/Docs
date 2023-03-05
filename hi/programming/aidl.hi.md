@@ -62,5 +62,5 @@ interface IRemoteService {
 ```
 ## संदर्भ
 
-* [एंड्रॉइड इंटरफेस डेफिनिशन लैंग्वेज (एआईडीएल)] (https://stuff.mit.edu/afs/sipb/project/android/docs/guide/components/aidl.html)
+* [एंड्रॉइड इंटरफेस डेफिनिशन लैंग्वेज (एआईडीएल)](https://stuff.mit.edu/afs/sipb/project/android/docs/guide/components/aidl.html)
 

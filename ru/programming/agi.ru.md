@@ -47,5 +47,5 @@ agi_priority: 2
 
 ## использованная литература
 
-* [Сценарий AGI Asterisk] (https://www.oreilly.com/library/view/asterisk-the-future/9780596510480/ch09.html)
+* [Сценарий AGI Asterisk](https://www.oreilly.com/library/view/asterisk-the-future/9780596510480/ch09.html)
 

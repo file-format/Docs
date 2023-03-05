@@ -19,7 +19,7 @@
 
 ## ما هو ملف ADB؟
 
-الملف بامتداد .adb هو ملف قاعدة بيانات تم إنشاؤه باستخدام [Alpha Five] (https://www.alphasoftware.com/) (يُعرف الآن باسم Alpha Anywhere). يحتوي على أسماء ملفات كافة الجداول والمجموعات الأعضاء في مساحة عمل المشروع. بالإضافة إلى ذلك ، يحتوي على أسماء جميع المكتبات المدمجة في مساحة العمل. Alpha Anywhere هو IDE يستخدم لتطوير تطبيقات الويب. بالإضافة إلى ملفات ADB ، قد تحتوي مساحة عمل Alpha Anywhere على العديد من الملفات التي تبدأ اسم الجدول أو المجموعة ، ولكن لها امتدادات ملفات مختلفة.
+الملف بامتداد .adb هو ملف قاعدة بيانات تم إنشاؤه باستخدام [Alpha Five](https://www.alphasoftware.com/) (يُعرف الآن باسم Alpha Anywhere). يحتوي على أسماء ملفات كافة الجداول والمجموعات الأعضاء في مساحة عمل المشروع. بالإضافة إلى ذلك ، يحتوي على أسماء جميع المكتبات المدمجة في مساحة العمل. Alpha Anywhere هو IDE يستخدم لتطوير تطبيقات الويب. بالإضافة إلى ملفات ADB ، قد تحتوي مساحة عمل Alpha Anywhere على العديد من الملفات التي تبدأ اسم الجدول أو المجموعة ، ولكن لها امتدادات ملفات مختلفة.
 
 ## تنسيق ملف ADB - مزيد من المعلومات
 
@@ -27,7 +27,7 @@
 
 ## مراجع
 
-* [Alpha Anywhere] (https://www.alphasoftware.com/)
-* [Alpha Anywhere - OneHourApp] (https://github.com/alphaanywhere/OneHourApp)
-* [Alpha Anywhere File Types] (https://documentation.alphasoftware.com/documentation/pages/Guides/Desktop/Design/Data/Set/Alpha٪20Anywhere٪20File٪20Types.xml)
+* [Alpha Anywhere](https://www.alphasoftware.com/)
+* [Alpha Anywhere - OneHourApp](https://github.com/alphaanywhere/OneHourApp)
+* [Alpha Anywhere File Types](https://documentation.alphasoftware.com/documentation/pages/Guides/Desktop/Design/Data/Set/Alpha٪20Anywhere٪20File٪20Types.xml)
 

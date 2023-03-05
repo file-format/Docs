@@ -22,7 +22,7 @@
 
 ## Формат файла GNE — дополнительная информация
 
-Файлы GNE использовались компьютерной игрой Game Never Ending, разработанной [Ludicorp] (https://en.wikipedia.org/wiki/Ludicorp). Позже Flicker был приобретен Yahoo! в марте 2005 года.
+Файлы GNE использовались компьютерной игрой Game Never Ending, разработанной [Ludicorp](https://en.wikipedia.org/wiki/Ludicorp). Позже Flicker был приобретен Yahoo! в марте 2005 года.
 
 ## использованная литература
 

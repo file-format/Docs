@@ -19,7 +19,7 @@
 
 ## Co je soubor TMVT?
 
-Soubor TMVT je soubor šablony časové osy časové osy, který obsahuje předdefinovaná nastavení pro vytváření [souborů TMV](/cs/spreadsheet/tmv/). Na rozdíl od souborů TMV obsahuje TMVT nastavení, jako jsou styly příznaků faktů, pozadí, styly nadpisů a styly měřítek. Soubory TMVT lze sdílet s uživateli a znovu je používat, aby si zachovali stejná nastavení a vytvořili si vlastní soubory časové osy pro jednotnost. Ty lze otevřít pomocí softwaru TimeMap od [LexisNexis] (https://www.lexisnexis.com/en-us/products/casemap.page).
+Soubor TMVT je soubor šablony časové osy časové osy, který obsahuje předdefinovaná nastavení pro vytváření [souborů TMV](/cs/spreadsheet/tmv/). Na rozdíl od souborů TMV obsahuje TMVT nastavení, jako jsou styly příznaků faktů, pozadí, styly nadpisů a styly měřítek. Soubory TMVT lze sdílet s uživateli a znovu je používat, aby si zachovali stejná nastavení a vytvořili si vlastní soubory časové osy pro jednotnost. Ty lze otevřít pomocí softwaru TimeMap od [LexisNexis](https://www.lexisnexis.com/en-us/products/casemap.page).
 
 ## Formát souboru TMVT
 

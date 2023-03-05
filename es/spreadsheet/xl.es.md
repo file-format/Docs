@@ -23,7 +23,7 @@ Un archivo con extensión .xl es un archivo de hoja de cálculo de Excel, simila
 
 ## Formato de archivo XL
 
-Los archivos XL se guardan como archivos binarios y sus especificaciones de formato de archivo interno no están documentadas en ninguna parte. Sin embargo, el formato de archivo binario general para [Especificaciones de formato de archivo XLS] (https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx) también se puede considerar si alguien intenta escribir un fragmento de código para aplicar ingeniería inversa a estos archivos.
+Los archivos XL se guardan como archivos binarios y sus especificaciones de formato de archivo interno no están documentadas en ninguna parte. Sin embargo, el formato de archivo binario general para [Especificaciones de formato de archivo XLS](https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx) también se puede considerar si alguien intenta escribir un fragmento de código para aplicar ingeniería inversa a estos archivos.
 
 ## Referencias ##
 

@@ -19,7 +19,7 @@
 
 ## Mi az a FODT fájl?
 
-A .fodt kiterjesztésű fájl OpenDocument flat [XML](/hu/web/xml/) fájlformátumban mentett szöveges dokumentum. A [.zip](/hu/compression/zip/) konténerfájl formátumban mentett .odt fájlokkal ellentétben a FODT fájlok ember által olvasható fájlokként tárolódnak a lemezen, amelyek bármely szövegszerkesztőben megnyithatók egyszerű XML-dokumentumként való megtekintés céljából. . Az OpenDocument irodai dokumentumszabványt az OASIS iparági konzorcium fejlesztette ki, utat nyitva annak, hogy bárki korlátozás nélkül implementálhassa. További népszerű OpenDocument fájlformátumok: [.odt](/hu/word-processing/odt/), [.ott](/hu/word-processing/ott/), [.ods](/hu/spreadsheet/ods/), [.odp] (/hu/presentation/odp/), és hasonlóan mások.
+A .fodt kiterjesztésű fájl OpenDocument flat [XML](/hu/web/xml/) fájlformátumban mentett szöveges dokumentum. A [.zip](/hu/compression/zip/) konténerfájl formátumban mentett .odt fájlokkal ellentétben a FODT fájlok ember által olvasható fájlokként tárolódnak a lemezen, amelyek bármely szövegszerkesztőben megnyithatók egyszerű XML-dokumentumként való megtekintés céljából. . Az OpenDocument irodai dokumentumszabványt az OASIS iparági konzorcium fejlesztette ki, utat nyitva annak, hogy bárki korlátozás nélkül implementálhassa. További népszerű OpenDocument fájlformátumok: [.odt](/hu/word-processing/odt/), [.ott](/hu/word-processing/ott/), [.ods](/hu/spreadsheet/ods/), [.odp](/hu/presentation/odp/), és hasonlóan mások.
 
 ## FODT fájlformátum - További információ
 

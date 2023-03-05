@@ -39,6 +39,6 @@ El archivo en bruto desempeña un papel en la fotografía digital similar al que
 
 ## Referencias ##
 
-* [Formato de imagen sin procesar: por Wikipedia] (https://en.wikipedia.org/wiki/Raw_image_format)
+* [Formato de imagen sin procesar: por Wikipedia](https://en.wikipedia.org/wiki/Raw_image_format)
 * [Qué es un archivo DCR](https://expertphotography.com/dcr-file/)
 

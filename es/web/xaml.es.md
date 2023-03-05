@@ -36,6 +36,6 @@ El conjunto de información de Xaml ("Xaml Infoset" para abreviar) define la est
 
 ## Referencias
 
-* [XAML: por Wikipedia] (https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language)
+* [XAML: por Wikipedia](https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language)
 * [Especificaciones del formato de archivo XAML](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf)
 

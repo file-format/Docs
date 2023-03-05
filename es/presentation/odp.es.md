@@ -29,7 +29,7 @@ Las especificaciones del formato de archivo ODP se basan en el estándar desarro
 `2007`: la versión 1.1 se publicó en febrero de 2007
 `2011`: la versión 1.2 se publicó en septiembre de 2011
 
-Hubo cambios bastante menores en la transición de las versiones ODF 1.0 a 1.1. La [versión de ODF 1.2] (https://www.oasis-open.org/standards#opendocumentv1.2) es la última versión de las especificaciones de ODF y los desarrolladores deben consultarla para el desarrollo de aplicaciones relacionadas con la lectura/escritura de ODS.
+Hubo cambios bastante menores en la transición de las versiones ODF 1.0 a 1.1. La [versión de ODF 1.2](https://www.oasis-open.org/standards#opendocumentv1.2) es la última versión de las especificaciones de ODF y los desarrolladores deben consultarla para el desarrollo de aplicaciones relacionadas con la lectura/escritura de ODS.
 
 ## Especificaciones de formato de archivo
 

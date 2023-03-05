@@ -15,7 +15,7 @@ lastmod: 2022-05-09
 
 ## ما هو ملف PYX؟
 
-ملف PYX هو رمز مصدر مكتوب بلغة Pyrex الشبيهة بلغة Python. قد يحتوي على رمز يشير إلى وحدات C الموجودة. Pyrex هي لغة برمجة تُستخدم لإنشاء وحدات Python النمطية [PYD] (/ar/ برمجة / pyd /) وتستند إلى بناء جملة يشبه C. باستخدام ملفات PYX ، يمكن للمستخدمين كتابة وحدات الامتداد التي قد تصل مباشرة إلى كود [C] (/ar/ البرمجة / c /) الخارجي.
+ملف PYX هو رمز مصدر مكتوب بلغة Pyrex الشبيهة بلغة Python. قد يحتوي على رمز يشير إلى وحدات C الموجودة. Pyrex هي لغة برمجة تُستخدم لإنشاء وحدات Python النمطية [PYD](/ar/ برمجة / pyd /) وتستند إلى بناء جملة يشبه C. باستخدام ملفات PYX ، يمكن للمستخدمين كتابة وحدات الامتداد التي قد تصل مباشرة إلى كود [C](/ar/ البرمجة / c /) الخارجي.
 يمكن فتح ملفات PYX باستخدام Pyrex المتوفر على أنظمة التشغيل Windows و MacOS و Linux OS.
 
 ## تنسيق ملف PYX - مزيد من المعلومات
@@ -24,6 +24,6 @@ lastmod: 2022-05-09
 
 ## مراجع
 
-* [Python Wiki] (https://wiki.python.org/moin/Pyrex)
-* [Python (لغة برمجة) - ويكيبيديا] (https://en.wikipedia.org/wiki/Python_ (architecture_language))
+* [Python Wiki](https://wiki.python.org/moin/Pyrex)
+* [Python (لغة برمجة) - ويكيبيديا](https://en.wikipedia.org/wiki/Python_ (architecture_language))
 

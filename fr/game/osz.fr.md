@@ -38,6 +38,6 @@ OSU ! a des instructions détaillées pour [créer OSZ](https://osu.ppy.sh/wiki
 
 ## Références
 
-* [OSU ! Jeu de rythme] (https://osu.ppy.sh/home)
-* [Format de fichier OSZ] (https://osu.ppy.sh/wiki/en/Client/File_formats/Osz_%28file_format%29https://osu.ppy.sh/wiki/en/Client/File_formats/Osr_%28file_format %29#types-de-données)
+* [OSU ! Jeu de rythme](https://osu.ppy.sh/home)
+* [Format de fichier OSZ](https://osu.ppy.sh/wiki/en/Client/File_formats/Osz_%28file_format%29https://osu.ppy.sh/wiki/en/Client/File_formats/Osr_%28file_format %29#types-de-données)
 

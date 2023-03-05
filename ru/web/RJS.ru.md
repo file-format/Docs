@@ -50,5 +50,5 @@ foo = -> { "bar" }
 ```
 ## использованная литература
 
-* [RJS] (https://github.com/makevoid/rjs)
+* [RJS](https://github.com/makevoid/rjs)
 

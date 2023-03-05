@@ -65,6 +65,6 @@ INSERT INTO STATS VALUES (88, 7, 65.8, 4.52);
 
 ## Использованная литература ##
 
-* [SQL из Википедии] (https://en.wikipedia.org/wiki/SQL)
-* [Синтаксис SQL] (https://en.wikipedia.org/wiki/SQL_syntax)
+* [SQL из Википедии](https://en.wikipedia.org/wiki/SQL)
+* [Синтаксис SQL](https://en.wikipedia.org/wiki/SQL_syntax)
 

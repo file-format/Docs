@@ -19,11 +19,11 @@
 
 ## ما هو ملف NSF؟
 
-الملف بامتداد .nsf (مرفق تخزين Notes) هو تنسيق ملف قاعدة بيانات مستخدم بواسطة [برنامج IBM Notes] (https://en.wikipedia.org/wiki/HCL_Domino) ، والذي كان يُعرف سابقًا باسم Lotus Notes. يحدد المخطط لتخزين أنواع مختلفة من الكائنات مثل رسائل البريد الإلكتروني والمواعيد والمستندات والنماذج وطرق العرض. كل هذه المعلومات موجودة في ملف NSF واحد للتعاون التجاري مشابه لملف PST / OST. تتضمن بعض التطبيقات التي يمكنها فتح ملفات NSF IBM Lotus Notes و IBM Domino.
+الملف بامتداد .nsf (مرفق تخزين Notes) هو تنسيق ملف قاعدة بيانات مستخدم بواسطة [برنامج IBM Notes](https://en.wikipedia.org/wiki/HCL_Domino) ، والذي كان يُعرف سابقًا باسم Lotus Notes. يحدد المخطط لتخزين أنواع مختلفة من الكائنات مثل رسائل البريد الإلكتروني والمواعيد والمستندات والنماذج وطرق العرض. كل هذه المعلومات موجودة في ملف NSF واحد للتعاون التجاري مشابه لملف PST / OST. تتضمن بعض التطبيقات التي يمكنها فتح ملفات NSF IBM Lotus Notes و IBM Domino.
 
 ## مواصفات تنسيق ملف NSF
 
-ملفات NSF ثنائية بطبيعتها وتتوفر مواصفاتها بواسطة Joachim Metz على [Github] (https://github.com/libyal/libnsfdb/blob/main/documentation/Notes٪20Storage٪20Facility٪20 (NSF)٪ 20database٪ 20file٪ 20format.asciidoc). وفقًا لهذه التفاصيل ، يتكون ملف NSF من:
+ملفات NSF ثنائية بطبيعتها وتتوفر مواصفاتها بواسطة Joachim Metz على [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes٪20Storage٪20Facility٪20 (NSF)٪ 20database٪ 20file٪ 20format.asciidoc). وفقًا لهذه التفاصيل ، يتكون ملف NSF من:
 
 * رأس الملف
 * رأس قاعدة البيانات
@@ -71,5 +71,5 @@
 
 ## مراجع
 
-* [تنسيق NSF - جيثب] (https://github.com/libyal/libnsfdb/blob/main/documentation/Notes٪20Storage٪20Facility٪20 (NSF)٪ 20database٪ 20file٪ 20format.asciidoc)
+* [تنسيق NSF - جيثب](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes٪20Storage٪20Facility٪20 (NSF)٪ 20database٪ 20file٪ 20format.asciidoc)
 

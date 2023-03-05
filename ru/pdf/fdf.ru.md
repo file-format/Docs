@@ -22,7 +22,7 @@
 
 ## Формат файла FDF — дополнительная информация
 
-FDF — это обычный текстовый формат, включенный в [стандарт ISO 32000] (https://www.iso.org/standard/51502.html) для Portable Document Format. Он был разработан Adobe для импорта и экспорта данных из Acrobat Forms или AcroForms.
+FDF — это обычный текстовый формат, включенный в [стандарт ISO 32000](https://www.iso.org/standard/51502.html) для Portable Document Format. Он был разработан Adobe для импорта и экспорта данных из Acrobat Forms или AcroForms.
 
 Существует два типа файлов FDF:
 
@@ -32,10 +32,10 @@ FDF — это обычный текстовый формат, включенн�
 
 ## Создание FDF с помощью Adobe Acrobat
 
-[Набор инструментов FDF] (https://opensource.adobe.com/dc-acrobat-sdk-docs/) от Adobe позволяет создавать файлы FDF из текстовых данных.
+[Набор инструментов FDF](https://opensource.adobe.com/dc-acrobat-sdk-docs/) от Adobe позволяет создавать файлы FDF из текстовых данных.
 
 ## Использованная литература ##
 
 * [Поддержка формата FDF в Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
-* [Ресурсы Adobe для разработчиков] (https://opensource.adobe.com/dc-acrobat-sdk-docs/)
+* [Ресурсы Adobe для разработчиков](https://opensource.adobe.com/dc-acrobat-sdk-docs/)
 

@@ -27,5 +27,5 @@ Les fichiers TBZ sont en fait des archives compressées créées avec la compres
 
 ## Références ##
 
-* [Spécifications du format BZIP2] (https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf)
+* [Spécifications du format BZIP2](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf)
 

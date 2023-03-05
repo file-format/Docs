@@ -19,7 +19,7 @@
 
 ## ما هو ملف EFU؟
 
-ملف EFU هو ملف جدول بيانات [CSV] (/ar/ spreadsheet / csv /) تم إنشاؤه باستخدام برنامج Everything بواسطة [voidtools] (https://www.voidtools.com/). يحتوي على قائمة بالملفات التي تم البحث عنها باستخدام محرك البحث عن كل شيء للنوافذ. النتائج في ملف EFU محددة بتنسيق CSV ويمكن فتحها باستخدام برامج جداول البيانات مثل Microsoft Excel. ملفات EFU قابلة للقراءة ويمكن فتحها باستخدام أي محرر نصوص مثل Microsoft Notepad و Notepad ++ و Apple TextEdit.
+ملف EFU هو ملف جدول بيانات [CSV](/ar/ spreadsheet / csv /) تم إنشاؤه باستخدام برنامج Everything بواسطة [voidtools](https://www.voidtools.com/). يحتوي على قائمة بالملفات التي تم البحث عنها باستخدام محرك البحث عن كل شيء للنوافذ. النتائج في ملف EFU محددة بتنسيق CSV ويمكن فتحها باستخدام برامج جداول البيانات مثل Microsoft Excel. ملفات EFU قابلة للقراءة ويمكن فتحها باستخدام أي محرر نصوص مثل Microsoft Notepad و Notepad ++ و Apple TextEdit.
 
 ## تنسيق ملف EFU - مزيد من المعلومات
 
@@ -27,5 +27,5 @@
 
 ## مراجع
 
-* [كل شيء - voidtools] (https://www.voidtools.com/)
+* [كل شيء - voidtools](https://www.voidtools.com/)
 

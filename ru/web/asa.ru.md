@@ -59,5 +59,5 @@ end sub
 
 ## использованная литература
 
-* [Файл ASP Global.asa — w3schools] (https://www.w3schools.com/asp/asp_globalasa.asp)
+* [Файл ASP Global.asa — w3schools](https://www.w3schools.com/asp/asp_globalasa.asp)
 

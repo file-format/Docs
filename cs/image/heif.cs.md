@@ -19,7 +19,7 @@
 
 ## Co je soubor HEIF?
 
-Soubor HEIF je formát souboru High-Efficiency Container Image, který je schopen uložit jeden obrázek nebo sekvenci obrázků do jednoho souboru. Jedná se tedy v podstatě o kontejner, který má uloženo více obrázků. Formát souboru HEIF komprimuje obrázky pomocí standardu High Efficiency Video Coding (HEVC). Je efektivnější a lehčí ve srovnání s jinými formáty obrazových souborů, jako je [JPEG] (/cs/image/jpeg/). Jeden soubor HEIF může ukládat sekvence obrázků, jako jsou animace [GIF](/cs/image/gif/) nebo sekvence HDR, spolu s metadaty, která popisují každý obrázek. Společnost Apple Inc. přijala svůj variantní formát souboru HEIC pro svůj iOS 11. To vedlo další společnosti k podpoře tohoto formátu ve svém softwaru, včetně Adobe.
+Soubor HEIF je formát souboru High-Efficiency Container Image, který je schopen uložit jeden obrázek nebo sekvenci obrázků do jednoho souboru. Jedná se tedy v podstatě o kontejner, který má uloženo více obrázků. Formát souboru HEIF komprimuje obrázky pomocí standardu High Efficiency Video Coding (HEVC). Je efektivnější a lehčí ve srovnání s jinými formáty obrazových souborů, jako je [JPEG](/cs/image/jpeg/). Jeden soubor HEIF může ukládat sekvence obrázků, jako jsou animace [GIF](/cs/image/gif/) nebo sekvence HDR, spolu s metadaty, která popisují každý obrázek. Společnost Apple Inc. přijala svůj variantní formát souboru HEIC pro svůj iOS 11. To vedlo další společnosti k podpoře tohoto formátu ve svém softwaru, včetně Adobe.
 
 ## Formát souboru HEIF
 

@@ -23,7 +23,7 @@ A .ma kiterjesztésű fájl egy Autodesk Maya alkalmazással létrehozott 3D pro
 
 ## MA Fájlformátum
 
-Az MA fájlok ASCII szöveges formátumban kerülnek a lemezre, ellentétben a bináris fájlformátumban lemezre mentett MB fájlokkal. Az MA fájlformátumra vonatkozó részletes hivatkozás az [Autodesk Maya dokumentációjában] (https://download.autodesk.com/us/maya/2010help/index.html?url=Glossary_M_ma_file_format.htm,topicNumber=d0e192001) érhető el. fejlesztői tájékoztatásul.
+Az MA fájlok ASCII szöveges formátumban kerülnek a lemezre, ellentétben a bináris fájlformátumban lemezre mentett MB fájlokkal. Az MA fájlformátumra vonatkozó részletes hivatkozás az [Autodesk Maya dokumentációjában](https://download.autodesk.com/us/maya/2010help/index.html?url=Glossary_M_ma_file_format.htm,topicNumber=d0e192001) érhető el. fejlesztői tájékoztatásul.
 
 ### MA fájl fejléc
 

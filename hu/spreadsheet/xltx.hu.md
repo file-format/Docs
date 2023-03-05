@@ -27,7 +27,7 @@ Az .xltx kiterjesztésű fájlok olyan Microsoft Excel-sablonfájlokat képvisel
 
 ## XLTX fájlformátum specifikációi
 
-Az XLTX fájlok az Office OpenXML fájlformátumon alapulnak, és XML és [ZIP] (/hu/compression/zip/) használatával csökkentik a fájlméretet. A Microsoft Office 2007 kiadásával készült, hogy felváltsa a bináris XLT fájlformátumot. Az XLTX-hez hasonlóan az XLT fájlformátum is használható [XLS](/hu/spreadsheet/xls/) fájlok létrehozására a Microsoft Excel 2003 és 2007 használatával. Ezeket a Microsoft Excel programmal a fájlra dupla kattintással lehet megnyitni. A fájlok XLTX fájlformátumú szerveződése megfigyelhető, ha átnevezi a fájlt ZIP-re, majd kicsomagolja a tartalmát a lemezre.
+Az XLTX fájlok az Office OpenXML fájlformátumon alapulnak, és XML és [ZIP](/hu/compression/zip/) használatával csökkentik a fájlméretet. A Microsoft Office 2007 kiadásával készült, hogy felváltsa a bináris XLT fájlformátumot. Az XLTX-hez hasonlóan az XLT fájlformátum is használható [XLS](/hu/spreadsheet/xls/) fájlok létrehozására a Microsoft Excel 2003 és 2007 használatával. Ezeket a Microsoft Excel programmal a fájlra dupla kattintással lehet megnyitni. A fájlok XLTX fájlformátumú szerveződése megfigyelhető, ha átnevezi a fájlt ZIP-re, majd kicsomagolja a tartalmát a lemezre.
 
 ### [Content_Types].xml ###
 

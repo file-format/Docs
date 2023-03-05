@@ -36,9 +36,9 @@
 * dfColorPointer
 * df محفوظة 1
 
-للحصول على معلومات مفصلة حول رؤوس Windows 3.0 و 2.0 ، قم بزيارة [أرشيف قاعدة معارف Microsoft] (https://jeffpar.github.io/kbarchive/kb/065/Q65123/).
+للحصول على معلومات مفصلة حول رؤوس Windows 3.0 و 2.0 ، قم بزيارة [أرشيف قاعدة معارف Microsoft](https://jeffpar.github.io/kbarchive/kb/065/Q65123/).
 
 ## مراجع
-* [تنسيق ملف الخط] (https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
-* [كيفية تثبيت خط أو إزالته في Windows] (https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8 7613-c76f-88d043b334b8)
+* [تنسيق ملف الخط](https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
+* [كيفية تثبيت خط أو إزالته في Windows](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8 7613-c76f-88d043b334b8)
 

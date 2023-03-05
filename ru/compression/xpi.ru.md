@@ -38,6 +38,6 @@
 
 ## использованная литература
 
-* [XPInstall — Википедия] (https://en.wikipedia.org/wiki/XPInstall)
+* [XPInstall — Википедия](https://en.wikipedia.org/wiki/XPInstall)
 * [Как открыть расширение файла XPI?](https://support.mozilla.org/en-US/questions/1009049)
 

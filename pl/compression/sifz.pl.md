@@ -18,7 +18,7 @@
 
 ## Czym jest plik SIFZ?
 
-Plik SIFZ to skompresowany plik SIF gzip utworzony przez aplikację do tworzenia animacji 2D typu open source **Synfig Studio**. Zawiera wiele elementów graficznych, które składają się na animację. Ogólna zawartość animacji jest tworzona przy użyciu kombinacji płótna wypełnionego kształtami, pociągnięciami pędzla lub ołówka oraz tekstem. Wszystkie one są rozmieszczone we własnych pozycjach, promieniach, stycznych, kątach, wierzchołkach i uchwytach szerokości. Pliki SIFZ można otwierać za pomocą [Synfig Studio] (https://www.synfig.org/).
+Plik SIFZ to skompresowany plik SIF gzip utworzony przez aplikację do tworzenia animacji 2D typu open source **Synfig Studio**. Zawiera wiele elementów graficznych, które składają się na animację. Ogólna zawartość animacji jest tworzona przy użyciu kombinacji płótna wypełnionego kształtami, pociągnięciami pędzla lub ołówka oraz tekstem. Wszystkie one są rozmieszczone we własnych pozycjach, promieniach, stycznych, kątach, wierzchołkach i uchwytach szerokości. Pliki SIFZ można otwierać za pomocą [Synfig Studio](https://www.synfig.org/).
 
 ## Format pliku SIFZ
 

@@ -43,6 +43,6 @@
 
 ## مراجع ##
 
-* [PDF / E - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/PDF/E)
-* [ISO 24517] (https://www.iso.org/standard/42274.html)
+* [PDF / E - بواسطة Wikipedia](https://en.wikipedia.org/wiki/PDF/E)
+* [ISO 24517](https://www.iso.org/standard/42274.html)
 

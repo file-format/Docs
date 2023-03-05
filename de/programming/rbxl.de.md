@@ -18,7 +18,7 @@
 
 ## Was ist eine RBXL-Datei?
 
-Eine RBXL-Datei ist eine Roblox-Standortdatei, die einen Standort enthält, der in der 3D-Welt innerhalb des [Roblox-Spiels] (https://www.roblox.com/) definiert ist. Roblox selbst ist ein Multiplayer-Building-Spiel, das es Spielern ermöglicht, Spiele mit den von der Plattform bereitgestellten Entwicklertools zu erstellen. RBXL-Dateien verwenden Tools, Skripte, Teams und Teile, um das Spielfeld als 3D-Modelle zu beschreiben. Mit Roblox Studio können Spieler die Spielobjekte erstellen und können zum Öffnen von RBXL-Dateien verwendet werden.
+Eine RBXL-Datei ist eine Roblox-Standortdatei, die einen Standort enthält, der in der 3D-Welt innerhalb des [Roblox-Spiels](https://www.roblox.com/) definiert ist. Roblox selbst ist ein Multiplayer-Building-Spiel, das es Spielern ermöglicht, Spiele mit den von der Plattform bereitgestellten Entwicklertools zu erstellen. RBXL-Dateien verwenden Tools, Skripte, Teams und Teile, um das Spielfeld als 3D-Modelle zu beschreiben. Mit Roblox Studio können Spieler die Spielobjekte erstellen und können zum Öffnen von RBXL-Dateien verwendet werden.
 
 ## RBXL-Dateiformat
 

@@ -50,5 +50,5 @@ DXF, формат обмена чертежами или формат обмен
 ## Использованная литература ##
 
 * [Спецификации файлов DXF](http://images.autodesk.com/adsk/files/autocad_2012_pdf_dxf-reference_enu.pdf)
-* [AutoCAD DXF из Википедии] (https://en.wikipedia.org/wiki/AutoCAD_DXF)
+* [AutoCAD DXF из Википедии](https://en.wikipedia.org/wiki/AutoCAD_DXF)
 

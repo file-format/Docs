@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo NC?
 
-Un archivo NC es un archivo de control numérico por computadora (CNC) creado con [software Mastercam CNC] (https://www.mastercam.com/). Se compone de instrucciones de control numérico para dirigir el movimiento mecánico de herramientas de mecanizado CNC, como taladros, tornos, fresadoras e impresoras 3D. Las máquinas CNC usan instrucciones de los archivos NC en forma de un programa secuencial para su ejecución. Estas instrucciones del archivo NC están destinadas a guiar la máquina para la producción del componente.
+Un archivo NC es un archivo de control numérico por computadora (CNC) creado con [software Mastercam CNC](https://www.mastercam.com/). Se compone de instrucciones de control numérico para dirigir el movimiento mecánico de herramientas de mecanizado CNC, como taladros, tornos, fresadoras e impresoras 3D. Las máquinas CNC usan instrucciones de los archivos NC en forma de un programa secuencial para su ejecución. Estas instrucciones del archivo NC están destinadas a guiar la máquina para la producción del componente.
 
 ## Formato de archivo CN
 

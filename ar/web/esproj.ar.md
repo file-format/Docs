@@ -26,5 +26,5 @@
 
 ## مراجع
 
-* [Adobe Edge] (https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
 

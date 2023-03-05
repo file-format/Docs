@@ -81,5 +81,5 @@ Les données binaires commencent par un en-tête ayant le format indiqué dans l
 
 ## Références
 
-* [Format de fichier CFF2] (https://docs.microsoft.com/en-us/typography/opentype/spec/cff2)
+* [Format de fichier CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2)
 

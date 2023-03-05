@@ -20,7 +20,7 @@
 
 ## ไฟล์ ACD คืออะไร??
 
-ไฟล์ ACD เป็นไฟล์โครงการที่มีข้อมูลสำหรับการเขียนโปรแกรม [Rockwell Automation] (https://www.rockwellautomation.com) แพลตฟอร์ม Logix ประกอบด้วยคำแนะนำสำหรับคอนโทรลเลอร์และโปรเซสเซอร์ ใช้สำหรับแพลตฟอร์ม Logix เช่น ระบบ ControlLogix, CompactLogix, FlexLogix, SoftLogix5800 และ DriveLogix
+ไฟล์ ACD เป็นไฟล์โครงการที่มีข้อมูลสำหรับการเขียนโปรแกรม [Rockwell Automation](https://www.rockwellautomation.com) แพลตฟอร์ม Logix ประกอบด้วยคำแนะนำสำหรับคอนโทรลเลอร์และโปรเซสเซอร์ ใช้สำหรับแพลตฟอร์ม Logix เช่น ระบบ ControlLogix, CompactLogix, FlexLogix, SoftLogix5800 และ DriveLogix
 
 แอปพลิเคชั่นที่สามารถเปิดไฟล์ ACD ได้แก่ Rockwell Automation RSLogix 5000
 

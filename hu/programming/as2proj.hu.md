@@ -18,7 +18,7 @@
 
 ## Mi az AS2PROJ fájl?
 
-Az AS2PROJ fájl egy nyílt forráskódú Flash programozási IDE, a FlashDevelop által létrehozott projektfájl. Tartalmazza a projekttel kapcsolatos információkat, például összeállítási beállításokat, hivatkozásokat a projekt forrásfájljaira, valamint a kimeneti [.swf fájl] (/hu/page-description-language/swf/) létrehozásának lehetőségeit. A FlashDevelopban létrehozott minden új projekt AS2PROJ fájlként kerül mentésre. Módosíthatja a projekt beállításait, és ezek a változtatások az AS2PROJ fájlba kerülnek.
+Az AS2PROJ fájl egy nyílt forráskódú Flash programozási IDE, a FlashDevelop által létrehozott projektfájl. Tartalmazza a projekttel kapcsolatos információkat, például összeállítási beállításokat, hivatkozásokat a projekt forrásfájljaira, valamint a kimeneti [.swf fájl](/hu/page-description-language/swf/) létrehozásának lehetőségeit. A FlashDevelopban létrehozott minden új projekt AS2PROJ fájlként kerül mentésre. Módosíthatja a projekt beállításait, és ezek a változtatások az AS2PROJ fájlba kerülnek.
 
 Az AS2PROJ fájlok a FlashDevelop segítségével nyithatók meg.
 

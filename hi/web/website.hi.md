@@ -30,5 +30,5 @@
 
 ## संदर्भ
 
-* [वेबलॉक ओपनर] (https://github.com/benchdoos/WeblocOpener)
+* [वेबलॉक ओपनर](https://github.com/benchdoos/WeblocOpener)
 

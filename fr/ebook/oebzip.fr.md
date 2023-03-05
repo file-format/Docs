@@ -33,6 +33,6 @@ L'ensemble de fichiers OEBZIP était principalement utilisé comme format interm
 ## Références
 
 * [OEBPS (Open Ebook Forum Publication Structure) 1.2](https://www.loc.gov/preservation/digital/formats/fdd/fdd000171.shtml)
-* [Ouvrir un livre électronique] (https://en.wikipedia.org/wiki/Open_eBook)
+* [Ouvrir un livre électronique](https://en.wikipedia.org/wiki/Open_eBook)
 
 

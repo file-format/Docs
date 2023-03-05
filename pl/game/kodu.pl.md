@@ -19,7 +19,7 @@
 
 ## Czym jest plik KODU?
 
-Plik .kudo to plik gry 3D utworzony i zapisany za pomocą oprogramowania Microsoft [Oprogramowanie Kodu Game Lab] (https://www.kodugamelab.com/), które jest środowiskiem do tworzenia gier edukacyjnych. Został zaprojektowany, aby uczyć dzieci podstawowych zasad programowania i umożliwia twórcom programowanie zachowań elementów gry za pomocą wizualnego języka programowania. Pliki Kodu można zapisywać i udostępniać innym użytkownikom, ale można je otwierać i uruchamiać tylko w oprogramowaniu Kodu.
+Plik .kudo to plik gry 3D utworzony i zapisany za pomocą oprogramowania Microsoft [Oprogramowanie Kodu Game Lab](https://www.kodugamelab.com/), które jest środowiskiem do tworzenia gier edukacyjnych. Został zaprojektowany, aby uczyć dzieci podstawowych zasad programowania i umożliwia twórcom programowanie zachowań elementów gry za pomocą wizualnego języka programowania. Pliki Kodu można zapisywać i udostępniać innym użytkownikom, ale można je otwierać i uruchamiać tylko w oprogramowaniu Kodu.
 
 ## Format pliku KODU — więcej informacji
 

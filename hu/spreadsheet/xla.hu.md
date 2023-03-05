@@ -23,7 +23,7 @@ Az .xla kiterjesztésű fájl egy Microsoft Excel-bővítmények fájlformátuma
 
 ## XLA fájlformátum
 
-Az XLA fájlok bináris adatformátumon alapulnak. A fájlformátum specifikációiról azonban nem állnak rendelkezésre további információk. Általános feltételezés, hogy az XLA az [[MS-XLS] – Excel bináris fájlformátum-struktúrát] (https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx) követi.
+Az XLA fájlok bináris adatformátumon alapulnak. A fájlformátum specifikációiról azonban nem állnak rendelkezésre további információk. Általános feltételezés, hogy az XLA az [[MS-XLS] – Excel bináris fájlformátum-struktúrát](https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx) követi.
 
 ## Hivatkozások
 

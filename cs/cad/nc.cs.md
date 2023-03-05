@@ -19,7 +19,7 @@
 
 ## Co je soubor NC?
 
-Soubor NC je soubor Computer Numerical Control (CNC) vytvořený pomocí [softwaru Mastercam CNC] (https://www.mastercam.com/). Obsahuje numerické řídicí instrukce pro řízení mechanického pohybu CNC obráběcích nástrojů, jako jsou vrtačky, soustruhy, frézy a 3D tiskárny. CNC stroje používají pro provádění instrukce z NC souborů ve formě sekvenčního programu. Tyto instrukce ze souboru NC mají vést stroj pro výrobu součásti.
+Soubor NC je soubor Computer Numerical Control (CNC) vytvořený pomocí [softwaru Mastercam CNC](https://www.mastercam.com/). Obsahuje numerické řídicí instrukce pro řízení mechanického pohybu CNC obráběcích nástrojů, jako jsou vrtačky, soustruhy, frézy a 3D tiskárny. CNC stroje používají pro provádění instrukce z NC souborů ve formě sekvenčního programu. Tyto instrukce ze souboru NC mají vést stroj pro výrobu součásti.
 
 ## Formát souboru NC
 
@@ -27,6 +27,6 @@ Soubory NC se ukládají na disk jako binární soubory a specifikace jejich int
 
 ## Reference
 
-* [Software Mastercam CNC] (https://www.mastercam.com/)
+* [Software Mastercam CNC](https://www.mastercam.com/)
 * [Numerical Control – Wikipedia](https://en.wikipedia.org/wiki/Numerical_control)
 

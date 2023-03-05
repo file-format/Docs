@@ -66,6 +66,6 @@ JWS के बहिष्करण के साथ, JWS तकनीक पर
 ## संदर्भ ##
 
 * [जावा वेब स्टार्ट क्या है और इसे कैसे लॉन्च किया जाता है?](https://www.java.com/en/download/help/java_webstart.html)
-* [जावा के नवीनतम संस्करण के साथ जेएनएलपी चलाएं] (https://openwebstart.com/)
-* [जावा वेब स्टार्ट - विकिपीडिया] (https://en.wikipedia.org/wiki/Java_Web_Start)
+* [जावा के नवीनतम संस्करण के साथ जेएनएलपी चलाएं](https://openwebstart.com/)
+* [जावा वेब स्टार्ट - विकिपीडिया](https://en.wikipedia.org/wiki/Java_Web_Start)
 

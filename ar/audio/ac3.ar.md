@@ -75,6 +75,6 @@
 
 ## مراجع
 
-* [AC3 - بواسطة Wikiepedia] (https://en.wikipedia.org/wiki/Dolby_Digital)
-* [Dolby Digital 5.1] (https://professional.dolby.com/tv/dolby-digital)
+* [AC3 - بواسطة Wikiepedia](https://en.wikipedia.org/wiki/Dolby_Digital)
+* [Dolby Digital 5.1](https://professional.dolby.com/tv/dolby-digital)
 

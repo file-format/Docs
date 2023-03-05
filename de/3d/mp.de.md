@@ -23,5 +23,5 @@ Eine MP-Datei ist eine Projektdatei, die mit der Personal Learning Edition (PLE)
 
 ## Verweise
 
-* [Autodesk Maya-Dateiformate] (https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2020/ENU/Maya-Rendering/files/GUID-CF9D455A-54AE-4992- BADB-DC1E532F56A8-htm.html)
+* [Autodesk Maya-Dateiformate](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2020/ENU/Maya-Rendering/files/GUID-CF9D455A-54AE-4992- BADB-DC1E532F56A8-htm.html)
 

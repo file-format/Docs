@@ -26,5 +26,5 @@ Les fichiers WHTT sont enregistrés sous la forme d'une combinaison de pages Web
 
 ## Références
 
-* [Copieur de site Web HTTrack] (https://www.httrack.com/)
+* [Copieur de site Web HTTrack](https://www.httrack.com/)
 

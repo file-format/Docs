@@ -38,5 +38,5 @@
 
 ## использованная литература
 
-* [Парсер RVM] (https://github.com/cdyk/rvmparser)
+* [Парсер RVM](https://github.com/cdyk/rvmparser)
 

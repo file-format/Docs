@@ -27,5 +27,5 @@
 
 ## Использованная литература ##
 
-* [Thinkfree Office NEO — Cell] (https://office.hancom.com/product/desktop/cell/)
+* [Thinkfree Office NEO — Cell](https://office.hancom.com/product/desktop/cell/)
 

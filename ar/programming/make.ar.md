@@ -38,6 +38,6 @@ hello world
 ```
 
 ## مراجع
-* [XCode and Make - Apple Forums] (https://developer.apple.com/forums/thread/657458)
-* [دليل الكائن C] (https://blog.teamtreehouse.com/beginners-guide-objective-c-classes-objects)
+* [XCode and Make - Apple Forums](https://developer.apple.com/forums/thread/657458)
+* [دليل الكائن C](https://blog.teamtreehouse.com/beginners-guide-objective-c-classes-objects)
 

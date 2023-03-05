@@ -28,6 +28,6 @@
 
 ## использованная литература
 
-* [Adobe ActionScript] (https://en.wikipedia.org/wiki/ActionScript)
+* [Adobe ActionScript](https://en.wikipedia.org/wiki/ActionScript)
 * [Использование собственных расширений для Adobe AIR](https://help.adobe.com/en_US/air/build/WS597e5dadb9cc1e0253f7d2fc1311b491071-8000.html)
 

@@ -22,5 +22,5 @@
 
 ## مراجع
 
-* [CMake Tools on Linux - ابدأ] (https://code.visualstudio.com/docs/cpp/cmake-linux)
+* [CMake Tools on Linux - ابدأ](https://code.visualstudio.com/docs/cpp/cmake-linux)
 

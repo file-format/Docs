@@ -46,5 +46,5 @@ bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
 
 ## Bibliografia
 
-* [bundletool - wiersz poleceń] (https://developer.android.com/studio/command-line/bundletool)
+* [bundletool - wiersz poleceń](https://developer.android.com/studio/command-line/bundletool)
 

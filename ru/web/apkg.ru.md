@@ -57,5 +57,5 @@ img {
 
 ## Использованная литература ##
 
-* [Документация Anki] (https://docs.ankiweb.net/intro.html)
+* [Документация Anki](https://docs.ankiweb.net/intro.html)
 

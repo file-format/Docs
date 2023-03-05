@@ -107,6 +107,6 @@ city = "شرق سنترفيل"
 
 ## مراجع ##
 
-- [TOML - Wikipedia] (https://en.wikipedia.org/wiki/TOML)
-- [TOML] (https://toml.io/en/)
+- [TOML - Wikipedia](https://en.wikipedia.org/wiki/TOML)
+- [TOML](https://toml.io/en/)
 

@@ -27,7 +27,7 @@ Les fichiers AEX sont enregistrés sur le disque au format de fichier binaire et
 
 ## Références
 
-* [Alpha Five] (https://www.alphasoftware.com/)
+* [Alpha Five](https://www.alphasoftware.com/)
 * [Documentation Alpha Five](https://documentation.alphasoftware.com/documentation/pages/index.html)
 * [Guide Xbasic](https://documentation.alphasoftware.com/pages/Guides/Xbasic/index.xml)
 

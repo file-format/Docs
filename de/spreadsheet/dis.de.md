@@ -19,7 +19,7 @@
 
 ## Was ist eine DIS-Datei?
 
-Eine DIS-Datei ist eine Arbeitsmappendatei, die mit der Software [Oracle Discoverer] (https://docs.oracle.com/cd/E28389_01/bi.1111/b40107/overview.htm) erstellt wurde und aus mehreren Tools für Abfragen, Berichte und Datenanalyse für die Oracle Database. Es enthält mehrere Arbeitsblätter, wenn Daten aus Oracle Discoverer exportiert werden. Oracle vermarktet Discoverer als Business Intelligence (BI)-Produkt, das für Berichte und Analysen verwendet wird und in einem Teil der [Oracle Fusion Middleware] (https://docs.oracle.com/cd/E28280_01/bi.1111/b40108/toc .htm)-Suite. Oracle Discoverer speichert die Berichtsdaten nicht standardmäßig im DIS-Dateiformat.
+Eine DIS-Datei ist eine Arbeitsmappendatei, die mit der Software [Oracle Discoverer](https://docs.oracle.com/cd/E28389_01/bi.1111/b40107/overview.htm) erstellt wurde und aus mehreren Tools für Abfragen, Berichte und Datenanalyse für die Oracle Database. Es enthält mehrere Arbeitsblätter, wenn Daten aus Oracle Discoverer exportiert werden. Oracle vermarktet Discoverer als Business Intelligence (BI)-Produkt, das für Berichte und Analysen verwendet wird und in einem Teil der [Oracle Fusion Middleware](https://docs.oracle.com/cd/E28280_01/bi.1111/b40108/toc .htm)-Suite. Oracle Discoverer speichert die Berichtsdaten nicht standardmäßig im DIS-Dateiformat.
 
 ## Wie lädt man Discoverer Workbooks im DIS-Format herunter?
 

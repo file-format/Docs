@@ -19,7 +19,7 @@
 
 ## Czym jest plik DEF?
 
-Plik DEF to plik danych utworzony w [formacie pliku arkusza kalkulacyjnego] (/pl/ arkusz kalkulacyjny /) przez aplikację bazodanową SmartWare II, opracowaną przez Informix Software. Oprogramowanie II miało cztery moduły, w tym arkusz kalkulacyjny z grafiką, edytor tekstu, komunikację i bazę danych. Baza danych SmartWare II to samodzielna baza danych, którą można również zintegrować z innymi aplikacjami. Zapytania mogą być wykonywane na danych, które można wyodrębnić i zapisać w formacie pliku DEF. Pliki arkuszy kalkulacyjnych DEF można otwierać za pomocą oprogramowania SmartWare, które zostało już wycofane.
+Plik DEF to plik danych utworzony w [formacie pliku arkusza kalkulacyjnego](/pl/ arkusz kalkulacyjny /) przez aplikację bazodanową SmartWare II, opracowaną przez Informix Software. Oprogramowanie II miało cztery moduły, w tym arkusz kalkulacyjny z grafiką, edytor tekstu, komunikację i bazę danych. Baza danych SmartWare II to samodzielna baza danych, którą można również zintegrować z innymi aplikacjami. Zapytania mogą być wykonywane na danych, które można wyodrębnić i zapisać w formacie pliku DEF. Pliki arkuszy kalkulacyjnych DEF można otwierać za pomocą oprogramowania SmartWare, które zostało już wycofane.
 
 ## Bibliografia
 

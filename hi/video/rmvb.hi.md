@@ -26,5 +26,5 @@ DivX की तुलना में छोटे आकार और बेह
 
 ## संदर्भ ##
 
-- [आरएमवीबी - विकिपीडिया] (https://en.wikipedia.org/wiki/RMVB)
+- [आरएमवीबी - विकिपीडिया](https://en.wikipedia.org/wiki/RMVB)
 

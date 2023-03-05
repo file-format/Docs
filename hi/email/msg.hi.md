@@ -58,7 +58,7 @@ Msg फ़ाइल स्वरूप में अन्य संरचना
 
 ## एमएसजी फ़ाइल उदाहरण
 
-MSG फ़ाइल कैसी दिखती है, इसका अंदाजा लगाने के लिए, आप एक [नमूना MSG फ़ाइल] (https://products.conholdate.app/viewer/view/mL7cmq6qYbcNG329P/sample-msg-file.msg) डाउनलोड कर सकते हैं और अपने कंप्यूटर इसकी सामग्री को देखने के लिए।
+MSG फ़ाइल कैसी दिखती है, इसका अंदाजा लगाने के लिए, आप एक [नमूना MSG फ़ाइल](https://products.conholdate.app/viewer/view/mL7cmq6qYbcNG329P/sample-msg-file.msg) डाउनलोड कर सकते हैं और अपने कंप्यूटर इसकी सामग्री को देखने के लिए।
 
 ## संदर्भ
 

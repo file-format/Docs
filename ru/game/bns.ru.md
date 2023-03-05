@@ -80,5 +80,5 @@
 
 ## использованная литература
 
-* [Сценарий испытания портала] (https://developer.valvesoftware.com/wiki/Portal_Challenge_Script)
+* [Сценарий испытания портала](https://developer.valvesoftware.com/wiki/Portal_Challenge_Script)
 

@@ -58,6 +58,6 @@
 
 ## مراجع
 
-* [رسم بياني خطي رقمي - بواسطة ويكيبيديا)] (https://en.wikipedia.org/wiki/Digital_line_graph)
+* [رسم بياني خطي رقمي - بواسطة ويكيبيديا)](https://en.wikipedia.org/wiki/Digital_line_graph)
 
 

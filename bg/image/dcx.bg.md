@@ -23,5 +23,5 @@ DCX файлът е файл с изображение, който се съст
 ## Препратки
 
 * [PCX – от Wikipedia](https://en.wikipedia.org/wiki/PCX)
-* [Техническо справочно ръководство за файлов формат на ZSoft PCX] (http://qzx.com/pc-gpe/pcx.txt)
+* [Техническо справочно ръководство за файлов формат на ZSoft PCX](http://qzx.com/pc-gpe/pcx.txt)
 

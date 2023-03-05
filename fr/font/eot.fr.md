@@ -27,7 +27,7 @@ La police EOT a été soumise au W3C en 2007 dans le cadre de CSS3, mais en rais
 
 ## Format de fichier EOT
 
-Les détails du format de fichier EOT peuvent être trouvés sur [page de soumission W3] (https://www.w3.org/Submission/EOT/#FileFormat) et élabore la structure utilisée par ce format de police. L'EOT se compose d'une seule structure EMBEDDEDFONT qui fournit suffisamment d'informations de base sur le nom de la police et les caractères pris en charge. Le conditionnement de ces informations permet aux agents utilisateurs d'éviter de décompresser, décompresser ou installer la police si elle est déjà présente sur la machine.
+Les détails du format de fichier EOT peuvent être trouvés sur [page de soumission W3](https://www.w3.org/Submission/EOT/#FileFormat) et élabore la structure utilisée par ce format de police. L'EOT se compose d'une seule structure EMBEDDEDFONT qui fournit suffisamment d'informations de base sur le nom de la police et les caractères pris en charge. Le conditionnement de ces informations permet aux agents utilisateurs d'éviter de décompresser, décompresser ou installer la police si elle est déjà présente sur la machine.
 
 ### Structure EMBEDDEDFONT
 La structure EMBEDDEDFONT a subi trois révisions, avec ajout de données supplémentaires à la fin de la structure à chaque révision. La dernière révision de la structure EMBEDDEDFONT est illustrée ci-dessous.
@@ -82,7 +82,7 @@ La structure EMBEDDEDFONT a subi trois révisions, avec ajout de données suppl�
 
 ## Références
 
-* [Format de fichier EOT] (https://www.w3.org/Submission/EOT/)
+* [Format de fichier EOT](https://www.w3.org/Submission/EOT/)
 * [OpenType intégré](https://en.wikipedia.org/wiki/Embedded_OpenType)
-* [Incorporation de polices] (https://en.wikipedia.org/wiki/Font_embedding)
+* [Incorporation de polices](https://en.wikipedia.org/wiki/Font_embedding)
 

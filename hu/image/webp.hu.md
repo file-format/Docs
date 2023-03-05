@@ -65,7 +65,7 @@ A WebP fájl ebben az esetben a következőkből áll:
 * 12 bájtos WebP fájlfejléc
 * VP8 darab
 
-A [VP8 adatformátum- és dekódolási útmutató] (https://tools.ietf.org/html/rfc6386) bemutatja a VP8 bitfolyam-formátum specifikációit.
+A [VP8 adatformátum- és dekódolási útmutató](https://tools.ietf.org/html/rfc6386) bemutatja a VP8 bitfolyam-formátum specifikációit.
 
 ### Veszteségmentes fájlformátum ###
 

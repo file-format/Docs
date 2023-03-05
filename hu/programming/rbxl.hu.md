@@ -18,7 +18,7 @@
 
 ## Mi az RBXL fájl?
 
-Az RBXL-fájl egy Roblox-helyfájl, amely a [Roblox-játékon] (https://www.roblox.com/) belüli 3D-világban meghatározott helyet tartalmazza. Maga a Roblox egy többszereplős építőjáték, amely lehetővé teszi a játékosok számára, hogy játékokat építsenek a platform által biztosított fejlesztői eszközök segítségével. Az RBXL-fájlok eszközöket, szkripteket, csapatokat és részeket használnak a játékterek 3D-modellként való leírására. A Roblox Studio lehetővé teszi a játékos számára a játékelemek létrehozását, és RBXL fájlok megnyitására használható.
+Az RBXL-fájl egy Roblox-helyfájl, amely a [Roblox-játékon](https://www.roblox.com/) belüli 3D-világban meghatározott helyet tartalmazza. Maga a Roblox egy többszereplős építőjáték, amely lehetővé teszi a játékosok számára, hogy játékokat építsenek a platform által biztosított fejlesztői eszközök segítségével. Az RBXL-fájlok eszközöket, szkripteket, csapatokat és részeket használnak a játékterek 3D-modellként való leírására. A Roblox Studio lehetővé teszi a játékos számára a játékelemek létrehozását, és RBXL fájlok megnyitására használható.
 
 ## RBXL fájlformátum
 

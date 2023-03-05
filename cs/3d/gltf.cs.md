@@ -63,7 +63,7 @@ Vyrovnávací paměti a zdroje obrázků jsou odkazovány pomocí URI. Klienti m
 
 **URI dat:** Identifikátory URI dat jsou definovány v RFC 2397 a používá je glTF k vkládání zdrojů do JSON.
 
-**Relativní cesty URI:** nebo schéma cesty, jak je definováno v RFC 3986, [část 4.2] (https://tools.ietf.org/html/rfc3986#section-4.2) – bez schématu, oprávnění nebo parametrů. Vyhrazené znaky musí být zakódovány v procentech podle RFC 3986, [sekce 2.2] (https://tools.ietf.org/html/rfc3986#section-2.2).
+**Relativní cesty URI:** nebo schéma cesty, jak je definováno v RFC 3986, [část 4.2](https://tools.ietf.org/html/rfc3986#section-4.2) – bez schématu, oprávnění nebo parametrů. Vyhrazené znaky musí být zakódovány v procentech podle RFC 3986, [sekce 2.2](https://tools.ietf.org/html/rfc3986#section-2.2).
 
 ## Reference ##
 

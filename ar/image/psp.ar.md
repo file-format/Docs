@@ -19,7 +19,7 @@
 
 ## ما هو ملف PSP؟
 
-ملف PSP هو صورة نقطية ملونة تم إنشاؤها باستخدام PaintShop Pro. إنه تنسيق الملف الأصلي لـ PaintShop Pro ويدعم الملفات غير المضغوطة والمضغوطة RLE والمضغوطة LZ77 و [JPEG] (/ar/ image / jpeg /) الملفات المضغوطة (بما في ذلك Lossless JPEG). كما أنها تدعم الطبقات المشابهة لملفات [PSD] (/ar/ image / psd /) ويمكن أن تحتوي على معلومات أخرى مثل الأدلة والبيانات الوصفية والكائنات ذات الصلة داخل ملف الصورة. يمكن تحرير كل طبقة ودمجها مع الصورة الرئيسية بمفردها. يمكن فتح ملفات PSP باستخدام برنامج PaintShop Pro.
+ملف PSP هو صورة نقطية ملونة تم إنشاؤها باستخدام PaintShop Pro. إنه تنسيق الملف الأصلي لـ PaintShop Pro ويدعم الملفات غير المضغوطة والمضغوطة RLE والمضغوطة LZ77 و [JPEG](/ar/ image / jpeg /) الملفات المضغوطة (بما في ذلك Lossless JPEG). كما أنها تدعم الطبقات المشابهة لملفات [PSD](/ar/ image / psd /) ويمكن أن تحتوي على معلومات أخرى مثل الأدلة والبيانات الوصفية والكائنات ذات الصلة داخل ملف الصورة. يمكن تحرير كل طبقة ودمجها مع الصورة الرئيسية بمفردها. يمكن فتح ملفات PSP باستخدام برنامج PaintShop Pro.
 
 ## تنسيق ملف PSP
 
@@ -30,10 +30,10 @@
 * 8 (رمادي أو ملون)
 * 24 (لون)
 
-يمكن حفظ ملفات PSP على نظامي التشغيل x32 و x64. [PSPIMAGE] (/ar/ image / pspimage /) هو تنسيق ملف آخر يستخدمه PaintShop Pro.
+يمكن حفظ ملفات PSP على نظامي التشغيل x32 و x64. [PSPIMAGE](/ar/ image / pspimage /) هو تنسيق ملف آخر يستخدمه PaintShop Pro.
 
 ## مراجع ##
 
-* [CorelDRAW - تنسيقات الملفات المدعومة] (http://product.corel.com/help/CorelDRAW/540227992/Main/EN/Documentation/wwhelp/wwhimpl/common/html/wwhelp.htm#href=CorelDRAW-Supported-file -formats.html # & single = true)
-* [Corel PaintShop Pro - تنسيق ملف PSP] (http://product.corel.com/help/CorelDRAW/540227992/Main/EN/Documentation/wwhelp/wwhimpl/common/html/wwhelp.htm#href=CorelDRAW-Corel -Paint-Shop-Pro-PSP.html # 4420641 & single = true)
+* [CorelDRAW - تنسيقات الملفات المدعومة](http://product.corel.com/help/CorelDRAW/540227992/Main/EN/Documentation/wwhelp/wwhimpl/common/html/wwhelp.htm#href=CorelDRAW-Supported-file -formats.html # & single = true)
+* [Corel PaintShop Pro - تنسيق ملف PSP](http://product.corel.com/help/CorelDRAW/540227992/Main/EN/Documentation/wwhelp/wwhimpl/common/html/wwhelp.htm#href=CorelDRAW-Corel -Paint-Shop-Pro-PSP.html # 4420641 & single = true)
 

@@ -27,7 +27,7 @@ Los archivos GNUMERIC se guardan en formato de archivo XML, comprimidos mediante
 
 ## Gnumeric en Github
 
-El desarrollo de código abierto de Gnumeric se aloja y mantiene en el repositorio [Github oficial de Gnumeric] (https://github.com/GNOME/gnumeric).
+El desarrollo de código abierto de Gnumeric se aloja y mantiene en el repositorio [Github oficial de Gnumeric](https://github.com/GNOME/gnumeric).
 
 ## Referencias
 

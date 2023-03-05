@@ -34,5 +34,5 @@ Steins Gate est une série de [jeux d'aventure de roman visuel] acclamés (https
 
 ## Références
 
-* [Steins ; Gate NPA Archive Decompiler] (https://github.com/Daviex/Steins-Gate-Archive-Decompiler)
+* [Steins ; Gate NPA Archive Decompiler](https://github.com/Daviex/Steins-Gate-Archive-Decompiler)
 

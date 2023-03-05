@@ -50,6 +50,6 @@ xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
 
 ## использованная литература
 
-* [XUL — Википедия] (https://en.wikipedia.org/wiki/XUL)
-* [Архивная документация XUL — предоставлена Mozilla] (https://wiki.mozilla.org/XUL:Home_Page)
+* [XUL — Википедия](https://en.wikipedia.org/wiki/XUL)
+* [Архивная документация XUL — предоставлена Mozilla](https://wiki.mozilla.org/XUL:Home_Page)
 

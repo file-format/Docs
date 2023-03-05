@@ -27,5 +27,5 @@ I WBFS sono file binari che hanno un formato di file proprietario. Le sue specif
 
 ## Riferimenti
 
-* [Strumenti ISO WIIMMS] (https://github.com/Wiimm/wiimms-iso-tools)
+* [Strumenti ISO WIIMMS](https://github.com/Wiimm/wiimms-iso-tools)
 

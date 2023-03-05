@@ -29,5 +29,5 @@ Allgemeines CADD Pro bietet eine aus zwei Buchstaben bestehende Befehlsstruktur,
 
 ## Verweise
 
-* [General CADD Pro] (https://www.generalcadd.com/oldSite/101release.htm)
+* [General CADD Pro](https://www.generalcadd.com/oldSite/101release.htm)
 

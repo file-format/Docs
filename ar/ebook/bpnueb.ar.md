@@ -35,8 +35,8 @@
 
 ## مراجع
 
-* [الإيرانيون يستمتعون بالأدب الفارسي على قارئ الكتب الإلكترونية] (https://www.tehrantimes.com/news/423108/Iranians-enjoy-Persian-literature-on-e-book-reader)
-* [قراءة الكتاب الإلكتروني أصبحت أسهل وأرخص في إيران] (https://financialtribune.com/articles/sci-tech/80138/ebook-reading-made-easier-chirm-in-iran)
+* [الإيرانيون يستمتعون بالأدب الفارسي على قارئ الكتب الإلكترونية](https://www.tehrantimes.com/news/423108/Iranians-enjoy-Persian-literature-on-e-book-reader)
+* [قراءة الكتاب الإلكتروني أصبحت أسهل وأرخص في إيران](https://financialtribune.com/articles/sci-tech/80138/ebook-reading-made-easier-chirm-in-iran)
 
 
 

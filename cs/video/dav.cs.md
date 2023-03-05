@@ -23,7 +23,7 @@ Soubor DAV je komprimovaný a šifrovaný soubor videa vytvořený systémem DVR
 
 ## Formát souboru DAV – Další informace
 
-Soubory DAV se ukládají na disk v zašifrovaném binárním formátu souboru. Šifrování zabraňuje neoprávněnému použití těchto souborů. Jsou tedy majetkem CCTV systémů společnosti [Dahua Technology] (https://www.dahuasecurity.com/). Některé další kamery od Dahua Technologies mohou také uložit sledovací video jako soubory DAV.
+Soubory DAV se ukládají na disk v zašifrovaném binárním formátu souboru. Šifrování zabraňuje neoprávněnému použití těchto souborů. Jsou tedy majetkem CCTV systémů společnosti [Dahua Technology](https://www.dahuasecurity.com/). Některé další kamery od Dahua Technologies mohou také uložit sledovací video jako soubory DAV.
 
 Dahua Smart Player lze použít k otevírání a přehrávání souborů DAV.
 

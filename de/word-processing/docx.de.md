@@ -105,6 +105,6 @@ Ein Absatz ist der Hauptinhaltshalter innerhalb eines Dokuments. Es wird dargest
 
 ## Verweise ##
 
-* [MS - DOCX-Dateiformat] (https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
+* [MS - DOCX-Dateiformat](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
 * [Office Open XML](http://officeopenxml.com/)
 

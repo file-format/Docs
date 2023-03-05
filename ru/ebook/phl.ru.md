@@ -29,6 +29,6 @@
 
 * [Просмотр популярных материалов на Kindles](https://en.wikipedia.org/wiki/Orb_Books)
 * [Популярные моменты раскрывают контент, который вызывает клики](https://www.searchenginepeople.com/blog/kindle-highlights.html)
-* [Как отключить популярные моменты на Kindle] (https://www.howtogeek.com/355701/how-to-turn-off-popular-highlights-on-your-kindle)
+* [Как отключить популярные моменты на Kindle](https://www.howtogeek.com/355701/how-to-turn-off-popular-highlights-on-your-kindle)
 
 

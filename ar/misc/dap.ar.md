@@ -25,5 +25,5 @@
 
 ## مراجع
 
-* [مساعدة DAP - إدارة مجلدات الحفظ] (http://www.speedbit.com/dap-help/download-accelerator-file-manager/)
+* [مساعدة DAP - إدارة مجلدات الحفظ](http://www.speedbit.com/dap-help/download-accelerator-file-manager/)
 

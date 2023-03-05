@@ -30,5 +30,5 @@
 
 ## Использованная литература ##
 
-* [Стандарты CIPA] (https://www.cipa.jp/e/std/std-sec.html)
+* [Стандарты CIPA](https://www.cipa.jp/e/std/std-sec.html)
 

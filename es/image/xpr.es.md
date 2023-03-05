@@ -27,5 +27,5 @@ Los archivos XPR se identificaron para beneficiar una vulnerabilidad en Microsof
 
 ## Referencias
 
-* [Una vulnerabilidad en el diseño de expresiones podría permitir la ejecución remota de código (2651018)] (https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
+* [Una vulnerabilidad en el diseño de expresiones podría permitir la ejecución remota de código (2651018)](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
 

@@ -23,7 +23,7 @@ Az YML egy szöveges fájl adatsorosító nyelven, [YAML](/hu/programming/yaml/)
 
 ## YML fájlformátum - További információ
 
-Az YML fájlok konfigurációként tárolják az alkalmazás beállításait. Alapstruktúrája egy térkép, amelyet könyvtárnak vagy hash-nek is nevezhetünk. Az YML-fájl bejegyzései egy kulcs- és értékpárból állnak. A konfigurációs .yml fájlok többnyire "configure.yml" néven kerülnek mentésre, bár egyes programozási nyelvek, például a Ruby on Rails az adatbázis-kapcsolat konfigurációját "database.yml" fájlba menti. Az [YML/YAML fájlformátum specifikációi] (https://yaml.org/spec/1.2.2/) elmagyarázzák a teljes nyelvi struktúrákat és a szintaxissal kapcsolatos információkat.
+Az YML fájlok konfigurációként tárolják az alkalmazás beállításait. Alapstruktúrája egy térkép, amelyet könyvtárnak vagy hash-nek is nevezhetünk. Az YML-fájl bejegyzései egy kulcs- és értékpárból állnak. A konfigurációs .yml fájlok többnyire "configure.yml" néven kerülnek mentésre, bár egyes programozási nyelvek, például a Ruby on Rails az adatbázis-kapcsolat konfigurációját "database.yml" fájlba menti. Az [YML/YAML fájlformátum specifikációi](https://yaml.org/spec/1.2.2/) elmagyarázzák a teljes nyelvi struktúrákat és a szintaxissal kapcsolatos információkat.
 
 ## Hivatkozások
 

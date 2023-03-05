@@ -58,7 +58,7 @@ El objeto de mensaje se puede compartir entre clientes o almacenes de mensajes q
 
 ## Ejemplo de archivo MSG
 
-Para tener una idea de cómo se ve un archivo MSG, puede descargar un [archivo MSG de muestra] (https://products.conholdate.app/viewer/view/mL7cmq6qYbcNG329P/sample-msg-file.msg) y abrirlo en su computadora para ver su contenido.
+Para tener una idea de cómo se ve un archivo MSG, puede descargar un [archivo MSG de muestra](https://products.conholdate.app/viewer/view/mL7cmq6qYbcNG329P/sample-msg-file.msg) y abrirlo en su computadora para ver su contenido.
 
 ## Referencias
 

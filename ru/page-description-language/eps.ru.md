@@ -83,5 +83,5 @@ PICT и Windows Metafile могут включать как растровые �
 
 ## использованная литература
 
-* [Инкапсулированный PostScript — Википедия] (https://en.wikipedia.org/wiki/Encapsulated_PostScript)
+* [Инкапсулированный PostScript — Википедия](https://en.wikipedia.org/wiki/Encapsulated_PostScript)
 

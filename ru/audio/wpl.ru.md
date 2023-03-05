@@ -56,5 +56,5 @@ WPL (список воспроизведения проигрывателя Wind
 
 ## Использованная литература ##
 
-* [MPEG-1 Audio Layer II — по Википедии] (https://en.wikipedia.org/wiki/MPEG-1_Audio_Layer_II)
+* [MPEG-1 Audio Layer II — по Википедии](https://en.wikipedia.org/wiki/MPEG-1_Audio_Layer_II)
 

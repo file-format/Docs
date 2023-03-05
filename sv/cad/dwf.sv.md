@@ -31,7 +31,7 @@ DWF är ett öppet, säkert format designat speciellt för att dela rik teknisk 
 
 **DWF-metadatafiler** – XML-filer som innehåller information som hänför sig till metadata och struktur (författare, titel, skapelsetid, sektionsberoenden, sektionsordning, resursfilbeskrivningar, roller, mimetyper, etc.) och som hänför sig till sektionen (sida information, designmetadata, etc.). Den strukturella metadatan används för att skapa logiska objekt (samlingar av filer för att representera en del eller sida, etc.).
 
-**Resursfiler** – media eller andra innehållsfiler som refereras från paketets/sektionens metadata och är vanligtvis presentationer av designdata i olika format (ZGL, W2D, [JPG](/sv/image/jpeg/), [PNG] (/sv/image/png/), AVI, XML, [TXT](/sv/ordbehandling/txt/), [DOC](/sv/ordbehandling/doc/), etc.)
+**Resursfiler** – media eller andra innehållsfiler som refereras från paketets/sektionens metadata och är vanligtvis presentationer av designdata i olika format (ZGL, W2D, [JPG](/sv/image/jpeg/), [PNG](/sv/image/png/), AVI, XML, [TXT](/sv/ordbehandling/txt/), [DOC](/sv/ordbehandling/doc/), etc.)
 
 ### Filformatdetaljer ###
 

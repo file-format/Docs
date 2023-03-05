@@ -64,5 +64,5 @@ byte[] chunk payload
 
 ## Использованная литература ##
 
-- [RealMedia - Википедия] (https://en.wikipedia.org/wiki/RealMedia)
+- [RealMedia - Википедия](https://en.wikipedia.org/wiki/RealMedia)
 

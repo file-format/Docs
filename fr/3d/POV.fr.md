@@ -72,5 +72,5 @@ Dans cet exemple, le bloc caméra spécifie la position et l'orientation de la c
 
 ## Références
 * [POV-Ray - Wikipédia](https://en.wikipedia.org/wiki/POV-Ray)
-* [Site Web de documentation POV-Ray] (http://www.povray.org/documentation/)
+* [Site Web de documentation POV-Ray](http://www.povray.org/documentation/)
 

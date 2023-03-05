@@ -18,7 +18,7 @@
 
 ## ما هو ملف MSG؟
 
-MSG هو تنسيق ملف يستخدمه [Microsoft Outlook] (https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook؟rtc#1) و Exchange لتخزين رسائل البريد الإلكتروني أو جهة اتصال أو موعد أو مهام أخرى. قد تحتوي هذه الرسائل على واحد أو أكثر من حقول البريد الإلكتروني ، مع المرسل والمستلم والموضوع والتاريخ ونص الرسالة أو معلومات الاتصال وتفاصيل الموعد وواحد أو أكثر من مواصفات المهمة. الخصائص التي تشكل كائن الرسالة ، بما في ذلك هي أيضًا جزء من ملف MSG. يحتوي ملف MSG على رؤوس ونص رسالة رئيسية وارتباطات تشعبية كنص ASCII عادي. تتلاءم ملفات MSG أيضًا مع البرامج التي تحتاج إلى واجهة برمجة تطبيقات المراسلة من Microsoft (MAPI).
+MSG هو تنسيق ملف يستخدمه [Microsoft Outlook](https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook؟rtc#1) و Exchange لتخزين رسائل البريد الإلكتروني أو جهة اتصال أو موعد أو مهام أخرى. قد تحتوي هذه الرسائل على واحد أو أكثر من حقول البريد الإلكتروني ، مع المرسل والمستلم والموضوع والتاريخ ونص الرسالة أو معلومات الاتصال وتفاصيل الموعد وواحد أو أكثر من مواصفات المهمة. الخصائص التي تشكل كائن الرسالة ، بما في ذلك هي أيضًا جزء من ملف MSG. يحتوي ملف MSG على رؤوس ونص رسالة رئيسية وارتباطات تشعبية كنص ASCII عادي. تتلاءم ملفات MSG أيضًا مع البرامج التي تحتاج إلى واجهة برمجة تطبيقات المراسلة من Microsoft (MAPI).
 
 ## هيكل ملف MSG
 
@@ -58,9 +58,9 @@ MSG هو تنسيق ملف يستخدمه [Microsoft Outlook] (https://products.
 
 ## مثال على ملف MSG
 
-للحصول على فكرة عن شكل ملف MSG ، يمكنك تنزيل [نموذج ملف MSG] (https://products.conholdate.app/viewer/view/mL7cmq6qYbcNG329P/sample-msg-file.msg) وفتحه على الكمبيوتر لعرض محتوياته.
+للحصول على فكرة عن شكل ملف MSG ، يمكنك تنزيل [نموذج ملف MSG](https://products.conholdate.app/viewer/view/mL7cmq6qYbcNG329P/sample-msg-file.msg) وفتحه على الكمبيوتر لعرض محتوياته.
 
 ## مراجع
 
-* [[MS-OXMSG]: تنسيق ملف Outlook MSG] (https://msdn.microsoft.com/en-us/library/cc463912 (v # exchg.80) .aspx)
+* [[MS-OXMSG]: تنسيق ملف Outlook MSG](https://msdn.microsoft.com/en-us/library/cc463912 (v # exchg.80) .aspx)
 

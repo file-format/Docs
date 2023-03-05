@@ -23,7 +23,7 @@
 
 ## مواصفات تنسيق الملف ##
 
-لا تتوفر مواصفات تنسيق الملف لتنسيق ملف POT بشكل فردي بواسطة Microsoft. ومع ذلك ، فإن تنسيق القالب هو نفسه تنسيق الملف الثنائي [PPT] (/ar/ Present / ppt /) ويمكن فتحه في MS PowerPoint لغرض التحرير. يتم تحديد ملف POT بواسطة معرف HEX على النحو التالي:
+لا تتوفر مواصفات تنسيق الملف لتنسيق ملف POT بشكل فردي بواسطة Microsoft. ومع ذلك ، فإن تنسيق القالب هو نفسه تنسيق الملف الثنائي [PPT](/ar/ Present / ppt /) ويمكن فتحه في MS PowerPoint لغرض التحرير. يتم تحديد ملف POT بواسطة معرف HEX على النحو التالي:
 
 ```
 D0 CF 11 E0 A1 B1 1A E1 00 00 00 00
@@ -42,8 +42,8 @@ D0 CF 11 E0 A1 B1 1A E1 00 00 00 00
 
 ## مراجع ##
 
-* [مواصفات تنسيق ملف PPT] (https://msdn.microsoft.com/en-us/library/office/cc313106 (v # office.12) .aspx)
-* [[MS-OSHARED]: أنواع البيانات العامة وهياكل الكائنات في Office] (https://msdn.microsoft.com/en-us/library/office/cc313156 (v # office.12) .aspx)
-* [[MS-OFFCRYPTO] - بنية تشفير مستندات Office] (https://msdn.microsoft.com/en-us/library/office/cc313071 (v # office.12) .aspx)
-* [تنسيقات ملفات PowerPoint] (https://en.wikipedia.org/wiki/Microsoft_PowerPoint#File_formats)
+* [مواصفات تنسيق ملف PPT](https://msdn.microsoft.com/en-us/library/office/cc313106 (v # office.12) .aspx)
+* [[MS-OSHARED]: أنواع البيانات العامة وهياكل الكائنات في Office](https://msdn.microsoft.com/en-us/library/office/cc313156 (v # office.12) .aspx)
+* [[MS-OFFCRYPTO] - بنية تشفير مستندات Office](https://msdn.microsoft.com/en-us/library/office/cc313071 (v # office.12) .aspx)
+* [تنسيقات ملفات PowerPoint](https://en.wikipedia.org/wiki/Microsoft_PowerPoint#File_formats)
 

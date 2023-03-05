@@ -20,7 +20,7 @@
 
 يحتوي ملف ** جدول البيانات ** على بيانات في شكل صفوف وأعمدة. يمكن حفظ ملف جدول البيانات في العديد من تنسيقات الملفات المختلفة ، ولكل منها امتداد ملف مختلف للتمثيل الفريد. يتم تخزين البيانات في خلايا إما في شكل عادي مثل سلسلة نصية وأرقام وتاريخ وعملة وما إلى ذلك أو كصيغ تغير قيمة الخلية عند تغيير قيم الخلية المشار إليها.
 
-تتضمن امتدادات ملفات جداول البيانات الشائعة وتنسيقات ملفاتها ** [XLSX] (/ar/ spreadsheet / xlsx /) ** (Microsoft Excel Open XML Spreadsheet) ، ** [ODS] (/ar/ spreadsheet / ods /) ** (OpenDocument Spreadsheet) و ** [XLS] (/ar/ spreadsheet / xls /) ** (تنسيق ملف Microsoft Excel الثنائي).
+تتضمن امتدادات ملفات جداول البيانات الشائعة وتنسيقات ملفاتها ** [XLSX](/ar/ spreadsheet / xlsx /) ** (Microsoft Excel Open XML Spreadsheet) ، ** [ODS](/ar/ spreadsheet / ods /) ** (OpenDocument Spreadsheet) و ** [XLS](/ar/ spreadsheet / xls /) ** (تنسيق ملف Microsoft Excel الثنائي).
 
 هل حصلت على استفسارات متعلقة بتنسيقات ملفات جداول البيانات؟ توجه إلى [منتديات] مجتمعنا (https://forum.fileformat.com/c/spreadsheet) للاستفادة من المعرفة التي يشاركها خبراء تنسيق الملفات.
 

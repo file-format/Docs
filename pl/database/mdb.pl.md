@@ -19,7 +19,7 @@
 
 ## Czym jest plik MDB?
 
-Plik z rozszerzeniem .mdb to plik bazy danych Microsoft Access, który jest systemem zarządzania relacyjną bazą danych (RDBMS). Przechowuje dane w tabelach bazy danych, które są ze sobą połączone za pomocą kluczy podstawowych i obcych. Plik MDB zawiera pełną strukturę tabel bazy danych, zapytań, procedur składowanych. MDB jest domyślnym formatem plików programu Microsoft Access 2003. Późniejsze wersje programu Microsoft Access używają formatu plików [ACCDB](/pl/database/accdb/), który jest jak dotąd najnowszym formatem plików. Pliki MDB można otwierać za pomocą aplikacji takich jak Microsoft Access, MDB Viewer, MDBOpener i można je konwertować do formatów ACCDB, [CSV] (/pl/spreadsheet/csv/), Excel itp.
+Plik z rozszerzeniem .mdb to plik bazy danych Microsoft Access, który jest systemem zarządzania relacyjną bazą danych (RDBMS). Przechowuje dane w tabelach bazy danych, które są ze sobą połączone za pomocą kluczy podstawowych i obcych. Plik MDB zawiera pełną strukturę tabel bazy danych, zapytań, procedur składowanych. MDB jest domyślnym formatem plików programu Microsoft Access 2003. Późniejsze wersje programu Microsoft Access używają formatu plików [ACCDB](/pl/database/accdb/), który jest jak dotąd najnowszym formatem plików. Pliki MDB można otwierać za pomocą aplikacji takich jak Microsoft Access, MDB Viewer, MDBOpener i można je konwertować do formatów ACCDB, [CSV](/pl/spreadsheet/csv/), Excel itp.
 
 ## Format pliku MDB
 
@@ -40,5 +40,5 @@ Pojedyncza baza danych Microsoft Access może składać się z wielu plików, co
 ## Bibliografia ##
 
 * [Specyfikacje dostępu](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-* [Nieoficjalny przewodnik MDB] (http://jabakobob.net/mdb/)
+* [Nieoficjalny przewodnik MDB](http://jabakobob.net/mdb/)
 

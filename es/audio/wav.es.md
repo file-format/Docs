@@ -22,7 +22,7 @@
 WAV, conocido por WAVE (formato de archivo de audio de forma de onda), es un subconjunto de la especificación de formato de archivo de intercambio de recursos (RIFF) de Microsoft para almacenar archivos de audio digital. El formato no aplica ninguna compresión al flujo de bits y almacena las grabaciones de audio con diferentes tasas de muestreo y tasas de bits. Ha sido y es uno de los formatos estándar para CD de audio. Los archivos Wave son más grandes en tamaño en comparación con los nuevos formatos de archivo de audio, como [MP3](/es/audio/mp3/), que utiliza compresión con pérdida para reducir el tamaño del archivo manteniendo la misma calidad de audio. Sin embargo, los archivos WAV se pueden comprimir con los códecs Audio Compression Manager (ACM). Hay varias API y aplicaciones disponibles que pueden convertir archivos WAV a otros formatos de archivos de audio populares.
 
 **¿Sabías?**
-Puede convertirse en colaborador en FileFormat.com para mantener la comunidad de formato de archivo actualizada con sus hallazgos. Si tiene que compartir algo sobre WAV o formatos de archivos de audio, puede publicar sus hallazgos en la sección [Noticias sobre formatos de archivos de audio] (https://news.fileformat.com/t/audio) para que las personas se mantengan actualizadas.
+Puede convertirse en colaborador en FileFormat.com para mantener la comunidad de formato de archivo actualizada con sus hallazgos. Si tiene que compartir algo sobre WAV o formatos de archivos de audio, puede publicar sus hallazgos en la sección [Noticias sobre formatos de archivos de audio](https://news.fileformat.com/t/audio) para que las personas se mantengan actualizadas.
 
 ## Formato de archivo WAV ##
 

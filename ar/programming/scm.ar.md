@@ -32,5 +32,5 @@
 
 ## مراجع
 
-* [Schema Programming - Wikipedia] (https://en.wikipedia.org/wiki/Scheme_ (printing_language))
+* [Schema Programming - Wikipedia](https://en.wikipedia.org/wiki/Scheme_ (printing_language))
 

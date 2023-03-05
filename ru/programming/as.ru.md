@@ -76,7 +76,7 @@ package com.example
 
 ## Ссылка ##
 
-* [AS - по Википедии] (https://en.wikipedia.org/wiki/ActionScript)
+* [AS - по Википедии](https://en.wikipedia.org/wiki/ActionScript)
 
 
 

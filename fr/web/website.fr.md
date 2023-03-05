@@ -30,5 +30,5 @@ Un fichier WEBSITE peut être créé dans IE en cliquant sur l'URL dans la barre
 
 ## Références
 
-* [Ouvreur WEBLOC] (https://github.com/benchdoos/WeblocOpener)
+* [Ouvreur WEBLOC](https://github.com/benchdoos/WeblocOpener)
 

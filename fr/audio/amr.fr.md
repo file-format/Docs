@@ -67,6 +67,6 @@ La taille de trame des modes AMR en octets (y compris l'octet d'en-tête) est in
 
 ## Références ##
 
-* [Codec audio multi-débit adaptatif - Par Wikipedia] (https://en.wikipedia.org/wiki/Adaptive_Multi-Rate_audio_codec)
+* [Codec audio multi-débit adaptatif - Par Wikipedia](https://en.wikipedia.org/wiki/Adaptive_Multi-Rate_audio_codec)
 * [Format de charge utile RTP et format de stockage de fichiers pour les codecs audio AMR et AMR-WB](https://tools.ietf.org/html/rfc4867#page-35)
 

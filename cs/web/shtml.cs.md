@@ -23,7 +23,7 @@ Soubor s příponou .shtml je webová stránka, která je napsána v [HTML](/cs/
 
 ## Formát souboru SHTML
 
-Soubory SHTML jsou psány jako prostý text a používají [příkazy SSI] (https://www.w3.org/Jigsaw/Doc/User/SSI.html), které se spouštějí na straně serveru. Tyto příkazy na straně serveru lze dokonce použít k připojení k databázi pomocí databázových ovladačů a načítání uživatelských dat z tabulek.
+Soubory SHTML jsou psány jako prostý text a používají [příkazy SSI](https://www.w3.org/Jigsaw/Doc/User/SSI.html), které se spouštějí na straně serveru. Tyto příkazy na straně serveru lze dokonce použít k připojení k databázi pomocí databázových ovladačů a načítání uživatelských dat z tabulek.
 
 ## Příklad SHTML
 

@@ -58,6 +58,6 @@ Les fichiers DLG à grande échelle offrent les neuf couches, tandis que les fic
 
 ## Références
 
-* [Graphique linéaire numérique - par Wikipedia)] (https://en.wikipedia.org/wiki/Digital_line_graph)
+* [Graphique linéaire numérique - par Wikipedia)](https://en.wikipedia.org/wiki/Digital_line_graph)
 
 

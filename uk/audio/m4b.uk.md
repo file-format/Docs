@@ -49,5 +49,5 @@
 ## Список літератури
 
 * [MPEG-4, частина 14 – Вікіпедія](https://en.wikipedia.org/wiki/MPEG-4_Part_14)
-* [Приклад формату та відновлення MPEG-4, частина 14 аудіо (M4A, M4B, M4P)] (https://www.file-recovery.com/m4a-signature-format.htm)
+* [Приклад формату та відновлення MPEG-4, частина 14 аудіо (M4A, M4B, M4P)](https://www.file-recovery.com/m4a-signature-format.htm)
 

@@ -31,7 +31,7 @@ DWF là một định dạng mở, an toàn được thiết kế đặc biệt 
 
 **Tệp siêu dữ liệu DWF** – Tệp XML chứa thông tin liên quan đến siêu dữ liệu và cấu trúc (tác giả, tiêu đề, thời gian tạo, phần phụ thuộc, thứ tự phần, mô tả tệp tài nguyên, vai trò, kiểu bắt chước, v.v.) và liên quan đến phần (trang thông tin, siêu dữ liệu thiết kế, v.v.). Siêu dữ liệu cấu trúc được sử dụng để tạo các đối tượng logic (tập hợp các tệp để biểu thị một phần hoặc trang, v.v.).
 
-**Tệp tài nguyên** – tệp phương tiện hoặc tệp nội dung khác được tham chiếu từ siêu dữ liệu gói/phần và thường là bản trình bày dữ liệu thiết kế ở các định dạng khác nhau (ZGL, W2D, [JPG](/vi/image/jpeg/), [PNG] (/vi/image/png/), AVI, XML, [TXT](/vi/word-processing/txt/), [DOC](/vi/word-processing/doc/), v.v.)
+**Tệp tài nguyên** – tệp phương tiện hoặc tệp nội dung khác được tham chiếu từ siêu dữ liệu gói/phần và thường là bản trình bày dữ liệu thiết kế ở các định dạng khác nhau (ZGL, W2D, [JPG](/vi/image/jpeg/), [PNG](/vi/image/png/), AVI, XML, [TXT](/vi/word-processing/txt/), [DOC](/vi/word-processing/doc/), v.v.)
 
 ### Chi tiết định dạng tệp ###
 

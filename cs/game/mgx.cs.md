@@ -27,7 +27,7 @@ Interní formát souboru souboru MGX byl vypracován a je k dispozici jako čás
 
 ### Definice struktury
 
-Předpokládá se, že definice struktury formátu souboru GPX jsou založeny na [deklaracích BinData Ruby Gem] (https://github.com/dmendel/bindata/wiki), které poskytují způsob, jak číst a zapisovat strukturovaná binární data. To umožňuje programátorovi specifikovat formát binárních dat, která pak BinData čte a zapisuje.
+Předpokládá se, že definice struktury formátu souboru GPX jsou založeny na [deklaracích BinData Ruby Gem](https://github.com/dmendel/bindata/wiki), které poskytují způsob, jak číst a zapisovat strukturovaná binární data. To umožňuje programátorovi specifikovat formát binárních dat, která pak BinData čte a zapisuje.
 
 ### Zprávy MGX
 

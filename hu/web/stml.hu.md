@@ -23,7 +23,7 @@ Az .stml kiterjesztésű fájl olyan szerveroldali utasításokat tartalmazó we
 
 ## STML fájl formátum
 
-Az STML sima ascii szöveges fájlformátumon alapul, amely ember által olvasható. Azonban követi a szintaxist, ahogy azt a kiszolgáló oldalon végrehajtott [SSI-parancsok] (https://www.w3.org/Jigsaw/Doc/User/SSI.html) segítségével definiálják és gyakorolják. Mint minden más szerveroldali szkriptnyelv, az STML is használhatja a szerveroldali parancsokat olyan feladatok végrehajtására, mint az oldallátogatók számlálója, a weboldal naptár, a rekordok lekérése az adatbázisból és hasonlók.
+Az STML sima ascii szöveges fájlformátumon alapul, amely ember által olvasható. Azonban követi a szintaxist, ahogy azt a kiszolgáló oldalon végrehajtott [SSI-parancsok](https://www.w3.org/Jigsaw/Doc/User/SSI.html) segítségével definiálják és gyakorolják. Mint minden más szerveroldali szkriptnyelv, az STML is használhatja a szerveroldali parancsokat olyan feladatok végrehajtására, mint az oldallátogatók számlálója, a weboldal naptár, a rekordok lekérése az adatbázisból és hasonlók.
 
 ## STML példa
 

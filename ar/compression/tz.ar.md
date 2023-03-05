@@ -18,7 +18,7 @@
 
 ## ما هو ملف TZ؟
 
-ملف TZ هو أرشيف TAR مضغوط باستخدام خوارزمية ضغط Unix. إنه مزيج من [TAR] (/ar/ compression / tar /) أرشيف و [Z] (/ar/ compression / z /) ملفات مضغوطة ، وهو تنسيق ضغط أصلي لنظام التشغيل Unix OS. يمكن فتح ملفات TZ باستخدام أدوات ضغط قياسية مثل WinZIP و WinRAR.
+ملف TZ هو أرشيف TAR مضغوط باستخدام خوارزمية ضغط Unix. إنه مزيج من [TAR](/ar/ compression / tar /) أرشيف و [Z](/ar/ compression / z /) ملفات مضغوطة ، وهو تنسيق ضغط أصلي لنظام التشغيل Unix OS. يمكن فتح ملفات TZ باستخدام أدوات ضغط قياسية مثل WinZIP و WinRAR.
 
 ## تنسيق ملف TZ
 
@@ -26,6 +26,6 @@
 
 ## مراجع
 
-* [TAR - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/Tar_ (الحوسبة))
-* [تنسيق أساسي في تقرير التقييم الثالث] (https://www.gnu.org/software/tar/manual/html_node/Standard.html)
+* [TAR - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Tar_ (الحوسبة))
+* [تنسيق أساسي في تقرير التقييم الثالث](https://www.gnu.org/software/tar/manual/html_node/Standard.html)
 

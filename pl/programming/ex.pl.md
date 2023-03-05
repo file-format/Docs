@@ -37,6 +37,6 @@ Pliki EX są przechowywane jako zwykłe pliki tekstowe i zawierają kod źródł
 
 ## Odniesienie ##
 
-* [Szybka euforia] (https://www.rapideuphoria.com/)
+* [Szybka euforia](https://www.rapideuphoria.com/)
 * [Fora OpenEuphoria](https://openeuphoria.org/forum/index.wc)
 

@@ -25,7 +25,7 @@ Un archivo con una extensión .dwt es un archivo de plantilla de página web cre
 
 Los archivos DWT se desarrollan y guardan como archivos de texto sin formato. Estos se pueden abrir en Dreamweaver o en cualquier editor de texto, y se pueden editar para realizar los cambios necesarios. El software Dreamweaver actualiza la interfaz de usuario a medida que se aplican los cambios y el usuario puede observar el efecto de los cambios visualmente en la interfaz de usuario de la aplicación.
 
-Cada vez que guarda la página [HTML] (/es/web/html/) como un archivo de plantilla, Dreamweaver crea una carpeta de plantilla en el nivel raíz de la carpeta raíz local. El vínculo se rompe si el archivo .dwt se mueve de la carpeta Plantillas o se le cambia el nombre. Por lo tanto, es importante mantener los archivos .dwt en la carpeta Plantillas donde los crea Dreamweaver. Es mejor mantener otros elementos de su sitio, como archivos de origen de imagen o documentos HTML, en una ubicación que no sea la carpeta Plantillas.
+Cada vez que guarda la página [HTML](/es/web/html/) como un archivo de plantilla, Dreamweaver crea una carpeta de plantilla en el nivel raíz de la carpeta raíz local. El vínculo se rompe si el archivo .dwt se mueve de la carpeta Plantillas o se le cambia el nombre. Por lo tanto, es importante mantener los archivos .dwt en la carpeta Plantillas donde los crea Dreamweaver. Es mejor mantener otros elementos de su sitio, como archivos de origen de imagen o documentos HTML, en una ubicación que no sea la carpeta Plantillas.
 
 ## Acerca de Dreamweaver
 

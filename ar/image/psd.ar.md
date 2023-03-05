@@ -123,6 +123,6 @@ PSD ، Photoshop Document ، يمثل تنسيق الملف الأصلي لبر�
 
 ## مراجع ##
 
-* [مواصفات تنسيق ملف PSD - بواسطة Adobe] (https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/#50577409_pgfId-1030196)
-* [تنسيق ملف Adobe Photoshop] (https://en.wikipedia.org/wiki/Adobe_Photoshop#File_format)
+* [مواصفات تنسيق ملف PSD - بواسطة Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/#50577409_pgfId-1030196)
+* [تنسيق ملف Adobe Photoshop](https://en.wikipedia.org/wiki/Adobe_Photoshop#File_format)
 

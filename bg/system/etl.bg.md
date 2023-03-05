@@ -27,7 +27,7 @@ ETL файловете се записват на диск в компресир
 
 ## Отворете ETL файлове с помощта на Windows Performance Analyzer
 
-Данните от ETL файлове могат да се четат и визуализират в табличен, както и в графичен формат с помощта на приложението Microsoft Windows Performance Analyzer (WPA). Ръководството [Отваряне и анализиране на ETL файлове] (https://docs.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) предоставя информация за работа с ETL файлове.
+Данните от ETL файлове могат да се четат и визуализират в табличен, както и в графичен формат с помощта на приложението Microsoft Windows Performance Analyzer (WPA). Ръководството [Отваряне и анализиране на ETL файлове](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) предоставя информация за работа с ETL файлове.
 
 ## Препратки
 

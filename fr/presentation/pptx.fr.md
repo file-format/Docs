@@ -91,5 +91,5 @@ et les fichiers xml suivants :
 ## Références ##
 
 * [[MS-PPTX] - Format de fichier PPTX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
-* [Open Office XML] (http://officeopenxml.com/anatomyofOOXML-pptx.php)
+* [Open Office XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
 

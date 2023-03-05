@@ -60,5 +60,5 @@
 
 
 ## **Использованная литература**
-* [Формат файла w3 WOFF] (https://www.w3.org/TR/WOFF/)
+* [Формат файла w3 WOFF](https://www.w3.org/TR/WOFF/)
 

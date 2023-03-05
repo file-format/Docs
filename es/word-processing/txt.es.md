@@ -37,5 +37,5 @@ Todos estos sistemas definen un archivo de texto como un archivo cuyos caractere
 
 ## Referencias ##
 
-* [Formato de archivo TXT] (https://en.wikipedia.org/wiki/Text_file)
+* [Formato de archivo TXT](https://en.wikipedia.org/wiki/Text_file)
 

@@ -18,7 +18,7 @@
 
 ## ما هو ملف ATX؟
 
-الملف بملحق .atx هو ملف ESRI ArcGIS يخزن فهارس سمات ArcGIS 8. يوجد ملف ATX منفصل لكل [ملف شكل] (/ar/ gis / shp /) أو فهرس سمة dBase تم إنشاؤه في ArcCatalog. وتجدر الإشارة إلى أن فهارس سمات ArcView GIS 3.x لملفات الأشكال وملفات dBase لا يتم استخدامها بواسطة ArcMap أو ArcCatalog. ومع ذلك ، يمكن تحويل فهارس سمات ArcView GIS 3.x هذه إلى فهارس سمات ArcGIS 8 باستخدام أداة ArcObjects.
+الملف بملحق .atx هو ملف ESRI ArcGIS يخزن فهارس سمات ArcGIS 8. يوجد ملف ATX منفصل لكل [ملف شكل](/ar/ gis / shp /) أو فهرس سمة dBase تم إنشاؤه في ArcCatalog. وتجدر الإشارة إلى أن فهارس سمات ArcView GIS 3.x لملفات الأشكال وملفات dBase لا يتم استخدامها بواسطة ArcMap أو ArcCatalog. ومع ذلك ، يمكن تحويل فهارس سمات ArcView GIS 3.x هذه إلى فهارس سمات ArcGIS 8 باستخدام أداة ArcObjects.
 
 ## تنسيق ملف ATX - مزيد من المعلومات
 
@@ -26,5 +26,5 @@
 
 ## مراجع
 
-* [الأسئلة الشائعة حول ESRI - ما هو ملف ATX؟] (https://support.esri.com/en/technical-article/000002973)
+* [الأسئلة الشائعة حول ESRI - ما هو ملف ATX؟](https://support.esri.com/en/technical-article/000002973)
 

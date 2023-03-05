@@ -173,6 +173,6 @@
 
 ## Использованная литература ##
 
-* [[MS-ONESTORE] — формат файла OneNote] (https://msdn.microsoft.com/en-us/library/dd951288(v#office.12).aspx)
-* [Microsoft OneNote — Википедия] (https://en.wikipedia.org/wiki/Microsoft_OneNote#References)
+* [[MS-ONESTORE] — формат файла OneNote](https://msdn.microsoft.com/en-us/library/dd951288(v#office.12).aspx)
+* [Microsoft OneNote — Википедия](https://en.wikipedia.org/wiki/Microsoft_OneNote#References)
 

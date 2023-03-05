@@ -27,6 +27,6 @@ Un fichier CBZ est une archive ZIP qui contient des pages d'ebook sous forme d'i
 
 ## Références
 
-* [Archives de bandes dessinées] (https://en.wikipedia.org/wiki/Comic_book_archive)
+* [Archives de bandes dessinées](https://en.wikipedia.org/wiki/Comic_book_archive)
 * [Calibre](https://calibre-ebook.com/)
 

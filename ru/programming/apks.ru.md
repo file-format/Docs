@@ -46,5 +46,5 @@ bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
 
 ## использованная литература
 
-* [bundletool — командная строка] (https://developer.android.com/studio/command-line/bundletool)
+* [bundletool — командная строка](https://developer.android.com/studio/command-line/bundletool)
 

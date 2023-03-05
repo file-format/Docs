@@ -30,6 +30,6 @@ Un format de fichier VCD est classé comme un format de fichier d'image disque q
 
 ## Références
 
-* [CD virtuel - Virtualisez tous vos supports optiques] (https://www.virtualcd-online.com/)
+* [CD virtuel - Virtualisez tous vos supports optiques](https://www.virtualcd-online.com/)
 
 

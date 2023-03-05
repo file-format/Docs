@@ -27,5 +27,5 @@
 
 ## Использованная литература ##
 
-* [Microsoft Works — Википедия] (https://en.wikipedia.org/wiki/Microsoft_Works)
+* [Microsoft Works — Википедия](https://en.wikipedia.org/wiki/Microsoft_Works)
 

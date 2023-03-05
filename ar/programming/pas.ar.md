@@ -65,6 +65,6 @@ unit Unit1;
 
 ## مراجع
 
-* [Understanding Delphi Project and Unit Source Files] (https://www. reasontco.com/understanding-delphi-project-files-dpr-1057652)
-* [كتابة برنامج دلفي الأول] (http://www.delphibasics.co.uk/Article.asp؟Name=FirstPgm)
+* [Understanding Delphi Project and Unit Source Files](https://www. reasontco.com/understanding-delphi-project-files-dpr-1057652)
+* [كتابة برنامج دلفي الأول](http://www.delphibasics.co.uk/Article.asp؟Name=FirstPgm)
 

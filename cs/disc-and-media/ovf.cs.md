@@ -19,7 +19,7 @@
 
 ## Co je soubor OVF?
 
-Soubor OVF je textový soubor, který obsahuje informace o balení a distribuci softwaru, který běží na virtuálním počítači. Je naformátován podle [Open Virtualization Standard Specifications] (https://www.dmtf.org/standards/ovf), který popisuje všechny požadavky (jako je zabezpečení, přenositelnost, efektivita a rozšiřitelnost) pro spouštění aplikací na virtuálních strojích. Mezinárodní organizace pro normalizaci (ISO) přijala OVF jako normu ISO 17203.
+Soubor OVF je textový soubor, který obsahuje informace o balení a distribuci softwaru, který běží na virtuálním počítači. Je naformátován podle [Open Virtualization Standard Specifications](https://www.dmtf.org/standards/ovf), který popisuje všechny požadavky (jako je zabezpečení, přenositelnost, efektivita a rozšiřitelnost) pro spouštění aplikací na virtuálních strojích. Mezinárodní organizace pro normalizaci (ISO) přijala OVF jako normu ISO 17203.
 
 ## Stručná historie formátu souborů OVF
 

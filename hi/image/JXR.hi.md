@@ -48,5 +48,5 @@ lastmod: 2021-19-01
 
 ## संदर्भ ##
 
-- [जेपीईजी एक्सआर - विकिपीडिया] (https://en.wikipedia.org/wiki/JPEG_XR)
+- [जेपीईजी एक्सआर - विकिपीडिया](https://en.wikipedia.org/wiki/JPEG_XR)
 

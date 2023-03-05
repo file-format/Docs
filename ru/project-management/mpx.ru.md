@@ -25,7 +25,7 @@
 
 ## Формат файла MPX ##
 
-В этом разделе приведен обзор спецификаций файла MPX. Полные спецификации можно найти в этой [Базе знаний] (https://support.microsoft.com/en-us/office/file-formats-supported-by-project-desktop-face808f-77ab-4fce-9353-14144ba1b9ae) статью и могут быть переданы для деталей.
+В этом разделе приведен обзор спецификаций файла MPX. Полные спецификации можно найти в этой [Базе знаний](https://support.microsoft.com/en-us/office/file-formats-supported-by-project-desktop-face808f-77ab-4fce-9353-14144ba1b9ae) статью и могут быть переданы для деталей.
 
 ### Записи ###
 
@@ -231,5 +231,5 @@
 
 ## Использованная литература ##
 
-* [MPX — база знаний Майкрософт] (https://support.microsoft.com/en-us/office/file-formats-supported-by-project-desktop-face808f-77ab-4fce-9353-14144ba1b9ae)
+* [MPX — база знаний Майкрософт](https://support.microsoft.com/en-us/office/file-formats-supported-by-project-desktop-face808f-77ab-4fce-9353-14144ba1b9ae)
 

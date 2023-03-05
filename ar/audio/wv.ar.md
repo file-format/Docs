@@ -39,5 +39,5 @@
 
 ## مراجع ##
 
-* [WV - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/WavPack)
+* [WV - بواسطة Wikipedia](https://en.wikipedia.org/wiki/WavPack)
 

@@ -42,8 +42,8 @@ D0 CF 11 E0 A1 B1 1A E1 00 00 00 00
 
 ## Использованная литература ##
 
-* [Спецификации формата файла PPT] (https://msdn.microsoft.com/en-us/library/office/cc313106(v#office.12).aspx)
-* [[MS-OSHARED]: Общие типы данных и структуры объектов Office] (https://msdn.microsoft.com/en-us/library/office/cc313156(v#office.12).aspx)
-* [[MS-OFFCRYPTO] — Структура шифрования документов Office] (https://msdn.microsoft.com/en-us/library/office/cc313071(v#office.12).aspx)
-* [Форматы файлов PowerPoint] (https://en.wikipedia.org/wiki/Microsoft_PowerPoint#File_formats)
+* [Спецификации формата файла PPT](https://msdn.microsoft.com/en-us/library/office/cc313106(v#office.12).aspx)
+* [[MS-OSHARED]: Общие типы данных и структуры объектов Office](https://msdn.microsoft.com/en-us/library/office/cc313156(v#office.12).aspx)
+* [[MS-OFFCRYPTO] — Структура шифрования документов Office](https://msdn.microsoft.com/en-us/library/office/cc313071(v#office.12).aspx)
+* [Форматы файлов PowerPoint](https://en.wikipedia.org/wiki/Microsoft_PowerPoint#File_formats)
 

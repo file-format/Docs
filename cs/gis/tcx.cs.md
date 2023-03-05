@@ -23,7 +23,7 @@ Soubor TCX (Training Center XML) je formát pro výměnu dat používaný ke sd�
 
 ## Formát souboru TCX – Další informace
 
-Soubory TCX se ukládají na disk jako soubory XML s každým záznamem uloženým jako aktivita. Aktivita obsahuje všechna data tréninku, jako je čas, čas na kolo, Id, srdeční frekvence, intenzita, kadence a informace o trase, které obsahují dvojice pozic spolu s časovým razítkem pro tuto zeměpisnou šířku a délku podobnou [GPX] (/cs/gis/gpx/) soubory.
+Soubory TCX se ukládají na disk jako soubory XML s každým záznamem uloženým jako aktivita. Aktivita obsahuje všechna data tréninku, jako je čas, čas na kolo, Id, srdeční frekvence, intenzita, kadence a informace o trase, které obsahují dvojice pozic spolu s časovým razítkem pro tuto zeměpisnou šířku a délku podobnou [GPX](/cs/gis/gpx/) soubory.
 
 ### Verze formátu souboru TCX
 
@@ -36,7 +36,7 @@ Existují dvě verze tohoto formátu s vlastními schématy XML hostovanými spo
 
 ## Datový protokol TCX
 
-Rychlá verze formátu TCX XML je k dispozici na Github jako [TcxDataProtocol] (https://github.com/FitnessKit/TcxDataProtocol).
+Rychlá verze formátu TCX XML je k dispozici na Github jako [TcxDataProtocol](https://github.com/FitnessKit/TcxDataProtocol).
 
 ## Reference ##
 

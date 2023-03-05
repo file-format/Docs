@@ -90,6 +90,6 @@ end
 
 ## Препратки ##
 
-* [Форматът STL] (http://www.fabbers.com/tech/STL_Format)
+* [Форматът STL](http://www.fabbers.com/tech/STL_Format)
 * [STL - от Wikipedia](https://en.wikipedia.org/wiki/STL_(file_format))
 

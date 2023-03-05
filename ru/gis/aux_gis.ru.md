@@ -26,5 +26,5 @@
 
 ## использованная литература
 
-* [ERDAS IMAGINE — Поддерживаемые форматы файлов] (https://www.hexagongeospatial.com/products/power-portfolio/erdas-imagine#imagine-technical-documents)
+* [ERDAS IMAGINE — Поддерживаемые форматы файлов](https://www.hexagongeospatial.com/products/power-portfolio/erdas-imagine#imagine-technical-documents)
 

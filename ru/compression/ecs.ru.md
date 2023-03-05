@@ -26,5 +26,5 @@
 
 ## использованная литература
 
-* [Dzip] (http://speeddemosarchive.com/dzip/)
+* [Dzip](http://speeddemosarchive.com/dzip/)
 

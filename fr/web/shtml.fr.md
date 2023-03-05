@@ -65,5 +65,5 @@ Les instructions côté serveur sont utilisées dans des applications telles que
 ```
 ## Références
 
-* [Côté serveur inclut] (https://en.wikipedia.org/wiki/Server_Side_Includes)
+* [Côté serveur inclut](https://en.wikipedia.org/wiki/Server_Side_Includes)
 

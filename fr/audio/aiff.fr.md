@@ -59,5 +59,5 @@ Les types de blocs pour former AIFF sont donnés dans le tableau ci-dessous :
 
 ## Références ##
 
-* [Format de fichier d'échange audio - Par Wikipedia] (https://en.wikipedia.org/wiki/Audio_Interchange_File_Format)
+* [Format de fichier d'échange audio - Par Wikipedia](https://en.wikipedia.org/wiki/Audio_Interchange_File_Format)
 

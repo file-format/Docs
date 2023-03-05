@@ -57,5 +57,5 @@
 
 ## संदर्भ ##
 
-* [जीआईएफ फ़ाइल प्रारूप] (https://en.wikipedia.org/wiki/GIF)
+* [जीआईएफ फ़ाइल प्रारूप](https://en.wikipedia.org/wiki/GIF)
 

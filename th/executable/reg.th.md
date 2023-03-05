@@ -64,6 +64,4 @@ Windows Registry Editor Version 5.00
 ## อ้างอิง
 
 * [Windows Registry- โดย Wikipedia](https://en.wikipedia.org/wiki/Windows_Registry)
-* [วิธีเพิ่ม แก้ไข หรือลบคีย์ย่อยและค่าของรีจิสทรีโดยใช้ไฟล์ .reg](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete- รีจิสทรีคีย์ย่อยและค่าโดยใช้ a-reg-file-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23)
-
-
+* [วิธีเพิ่ม แก้ไข หรือลบคีย์ย่อยและค่าของรีจิสทรีโดยใช้ไฟล์ .reg](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete-registry-subkeys-and-values-by-using-a-reg-file-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23)

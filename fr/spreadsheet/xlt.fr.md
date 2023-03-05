@@ -23,7 +23,7 @@ Les fichiers avec l'extension .xlt sont des fichiers modèles créés avec Micro
 
 ## Format de fichier XLT
 
-Le format de fichier XLT est basé sur le format de fichier binaire Excel initialement pris en charge avec la version Excel 97-2003. Il a été remplacé par le format de fichier [XLTX](/fr/spreadsheet/xltx/) avec l'introduction d'Excel 2007 qui est basé sur le format Office Open XML. Outre Microsoft Excel, il existe d'autres applications prenant en charge ce format de fichier, telles que Lotus Translation Table, PlanMaker, LibreOffice Calc, etc. Plusieurs applications et [API] (https://products.aspose.com/cells) sont disponibles. pour convertir XLT vers d'autres formats de fichiers tels que :
+Le format de fichier XLT est basé sur le format de fichier binaire Excel initialement pris en charge avec la version Excel 97-2003. Il a été remplacé par le format de fichier [XLTX](/fr/spreadsheet/xltx/) avec l'introduction d'Excel 2007 qui est basé sur le format Office Open XML. Outre Microsoft Excel, il existe d'autres applications prenant en charge ce format de fichier, telles que Lotus Translation Table, PlanMaker, LibreOffice Calc, etc. Plusieurs applications et [API](https://products.aspose.com/cells) sont disponibles. pour convertir XLT vers d'autres formats de fichiers tels que :
 
 * XLT en PDF
 * XLT à DOC

@@ -80,7 +80,7 @@ Definitions: {
 
 ## Estructura de archivos binarios de archivos FBX
 
-Como se indicó anteriormente, las especificaciones de formato de archivo FBX no están disponibles públicamente para FBX. Dado que Blender Foundation implementa el formato de archivo FBX sin utilizar el SDK proporcionado por la empresa, algunos de los detalles sobre el formato de archivo binario están [disponibles] (https://code.blender.org/2013/08/fbx-binary-file-format -especificación/) como parte de su implementación.
+Como se indicó anteriormente, las especificaciones de formato de archivo FBX no están disponibles públicamente para FBX. Dado que Blender Foundation implementa el formato de archivo FBX sin utilizar el SDK proporcionado por la empresa, algunos de los detalles sobre el formato de archivo binario están [disponibles](https://code.blender.org/2013/08/fbx-binary-file-format -especificación/) como parte de su implementación.
 
 La estructura de los archivos binarios sigue el siguiente orden:
 
@@ -206,7 +206,7 @@ La cadena no termina en cero y puede contener caracteres \0 (esto se usa en algu
 
 ## Referencias ##
 
-* [FBX: el SDK de Autodesk] (http://help.autodesk.com/view/FBX/2017/ENU/?guid#__files_GUID_105ED19A_9A5A_425E_BFD7_C1BBADA67AAB_htm)
+* [FBX: el SDK de Autodesk](http://help.autodesk.com/view/FBX/2017/ENU/?guid#__files_GUID_105ED19A_9A5A_425E_BFD7_C1BBADA67AAB_htm)
 * [Especificaciones del formato de archivo binario FBX](https://code.blender.org/2013/08/fbx-binary-file-format-specification/)
 * [FBX - Wikipedia](https://en.wikipedia.org/wiki/FBX#File_format)
 

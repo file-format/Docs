@@ -24,6 +24,6 @@ Soubory JPC lze otevřít pomocí aplikací Adobe Photoshop 2022, Adobe Photosho
 
 ## Reference ##
 
-* [Přehled JPEG 2000] (https://jpeg.org/jpeg2000)
+* [Přehled JPEG 2000](https://jpeg.org/jpeg2000)
 * [Systém kódování obrázků JPEG 2000](https://en.wikipedia.org/wiki/JPEG_2000#JPEG_2000_image_coding_system_-_Parts)
 

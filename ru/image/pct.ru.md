@@ -33,5 +33,5 @@
 
 ## использованная литература
 
-* [Формат файла PICT — по Википедии] (https://en.wikipedia.org/wiki/PICT)
+* [Формат файла PICT — по Википедии](https://en.wikipedia.org/wiki/PICT)
 

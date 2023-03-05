@@ -45,5 +45,5 @@ El objetivo y el diseño de VRML giran en torno a los siguientes requisitos.
 ## Referencias ##
 
 * [VRML - Por Wikipedia](https://en.wikipedia.org/wiki/VRML)
-* [Especificaciones de formato de archivo VRML v 2.0] (http://gun.teipir.gr/VRML-amgem/spec/index.html)
+* [Especificaciones de formato de archivo VRML v 2.0](http://gun.teipir.gr/VRML-amgem/spec/index.html)
 

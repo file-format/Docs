@@ -97,9 +97,9 @@ Lock Count: 16-битное целое число со значением 0.
 
 ## API с открытым исходным кодом для файлов MOV
 
-* [React Native API для преобразования MOV в MP4] (https://github.com/taltultc/react-native-mov-to-mp4)
-* [Python API для восстановления файлов MOV] (https://github.com/nrosenstein-stuff/movrepair)
-* [Ruby API для преобразования MOV в GIF] (https://github.com/skygroundmedia/convert-mov-to-gif)
+* [React Native API для преобразования MOV в MP4](https://github.com/taltultc/react-native-mov-to-mp4)
+* [Python API для восстановления файлов MOV](https://github.com/nrosenstein-stuff/movrepair)
+* [Ruby API для преобразования MOV в GIF](https://github.com/skygroundmedia/convert-mov-to-gif)
 
 ## использованная литература
 

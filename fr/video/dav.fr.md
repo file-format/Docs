@@ -30,5 +30,5 @@ Dahua Smart Player peut être utilisé pour ouvrir et lire des fichiers DAV.
 ## Références ##
 
 * [Technologie Dahua](https://www.dahuasecurity.com/)
-* [Intégration de l'assistant domestique Dahua] (https://github.com/rroller/dahua)
+* [Intégration de l'assistant domestique Dahua](https://github.com/rroller/dahua)
 

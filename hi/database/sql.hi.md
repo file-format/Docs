@@ -65,6 +65,6 @@ INSERT INTO STATS VALUES (88, 7, 65.8, 4.52);
 
 ## संदर्भ ##
 
-* [विकिपीडिया द्वारा एसक्यूएल] (https://en.wikipedia.org/wiki/SQL)
+* [विकिपीडिया द्वारा एसक्यूएल](https://en.wikipedia.org/wiki/SQL)
 * [एसक्यूएल सिंटेक्स](https://en.wikipedia.org/wiki/SQL_syntax)
 

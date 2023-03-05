@@ -22,7 +22,7 @@ Un archivo OBML15 es una página web guardada en dispositivos móviles mediante 
 
 ## Formato de archivo OBML15
 
-Los archivos OBML15 se guardan en el disco como archivos binarios en el formato de archivo propietario de Opera que no está disponible públicamente. Los usuarios de Opera descargan y guardan las páginas web como archivos OBML compactos que tardan menos en descargarse. El [formato de archivo OBML] (https://github.com/grawity/obml-parser/blob/master/obml.md) se realizó ingeniería inversa y parte de su estructura se decodificó hasta cierto punto.
+Los archivos OBML15 se guardan en el disco como archivos binarios en el formato de archivo propietario de Opera que no está disponible públicamente. Los usuarios de Opera descargan y guardan las páginas web como archivos OBML compactos que tardan menos en descargarse. El [formato de archivo OBML](https://github.com/grawity/obml-parser/blob/master/obml.md) se realizó ingeniería inversa y parte de su estructura se decodificó hasta cierto punto.
 
 ## Referencias
 

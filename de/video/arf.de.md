@@ -31,5 +31,5 @@ ARF-Dateien können in die Formate [WMV](/de/video/wmv/), [SWF](/de/page-descrip
 ## Verweise
 
 * [WEBEX](https://www.webex.com/)
-* [ARF-Dateiformat] (https://help.webex.com/en-us/article/WBX47730/What-Is-the-Difference-Between-.MP4,-.ARF-and-.WRF-Recording-Files ?)
+* [ARF-Dateiformat](https://help.webex.com/en-us/article/WBX47730/What-Is-the-Difference-Between-.MP4,-.ARF-and-.WRF-Recording-Files ?)
 

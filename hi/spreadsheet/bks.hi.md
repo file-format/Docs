@@ -27,5 +27,5 @@ BKS फ़ाइल एक [Microsoft Works](https://en.wikipedia.org/wiki/Micro
 
 ## संदर्भ ##
 
-* [माइक्रोसॉफ्ट वर्क्स - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/Microsoft_Works)
+* [माइक्रोसॉफ्ट वर्क्स - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Microsoft_Works)
 

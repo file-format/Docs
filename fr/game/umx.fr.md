@@ -27,7 +27,7 @@ Les fichiers UMX sont enregistrés sur disque au format de fichier binaire en ut
 
 ## Références
 
-* [Tournoi irréel] (https://www.epicgames.com/unrealtournament/en-US/)
-* [Tournoi irréel] (https://en.wikipedia.org/wiki/Unreal_Tournament)
-* [Communauté Unreal Tournament] (https://discord.com/invite/unrealtournament)
+* [Tournoi irréel](https://www.epicgames.com/unrealtournament/en-US/)
+* [Tournoi irréel](https://en.wikipedia.org/wiki/Unreal_Tournament)
+* [Communauté Unreal Tournament](https://discord.com/invite/unrealtournament)
 

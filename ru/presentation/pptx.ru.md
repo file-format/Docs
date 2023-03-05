@@ -90,6 +90,6 @@ r:id#"rId2" ссылается на следующую связь в части 
 
 ## Использованная литература ##
 
-* [[MS-PPTX] — формат файла PPTX] (https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
-* [Open Office XML] (http://officeopenxml.com/anatomyofOOXML-pptx.php)
+* [[MS-PPTX] — формат файла PPTX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
+* [Open Office XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
 

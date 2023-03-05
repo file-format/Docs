@@ -45,5 +45,5 @@ Les fichiers AFPHOTO peuvent être convertis en un certain nombre de formats dif
 
 ## Références
 
-* [Photo d'affinité] (https://affinity.serif.com/en-gb/photo/)
+* [Photo d'affinité](https://affinity.serif.com/en-gb/photo/)
 

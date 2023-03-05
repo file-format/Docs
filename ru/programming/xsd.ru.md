@@ -27,7 +27,7 @@
 
 ## Пример XSD-файла
 
-Простой файл XSD со схемой заказа на покупку определяет элементы с помощью тегов, как показано в следующем [пример XSD от Microsoft] (https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -простая-схема?view=vs-2022).
+Простой файл XSD со схемой заказа на покупку определяет элементы с помощью тегов, как показано в следующем [пример XSD от Microsoft](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -простая-схема?view=vs-2022).
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
@@ -66,6 +66,6 @@
 
 ## Использованная литература ##
 
-- [Microsoft XML Notepad] (https://microsoft.github.io/XmlNotepad/)
-- [Пример XSD] (https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
+- [Microsoft XML Notepad](https://microsoft.github.io/XmlNotepad/)
+- [Пример XSD](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
 

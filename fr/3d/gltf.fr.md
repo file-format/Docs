@@ -68,5 +68,5 @@ Les tampons et les ressources d'image sont référencés via des URI. Les deux t
 ## Références ##
 
 * [Spécifications glTF 2.0 - Khronos](https://github.com/KhronosGroup/glTF)
-* [Format de fichier glTF - Par Wikipedia] (https://en.wikipedia.org/wiki/GlTF)
+* [Format de fichier glTF - Par Wikipedia](https://en.wikipedia.org/wiki/GlTF)
 

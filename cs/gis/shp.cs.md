@@ -43,7 +43,7 @@ Mohou existovat i další volitelné soubory, které mají stejný název jako h
 
 ## Specifikace formátu souboru SHP
 
-Otevřené specifikace shapefile jsou k dispozici online od ESRI ve formě [Technical Description] (http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) a podrobně rozvádí celkovou strukturu souboru. Informace v hlavním souboru .shp se skládají z hlaviček a záznamů. Po hlavičce souboru s pevnou délkou následují záznamy s proměnnou délkou, kde každý záznam je tvořen hlavičkou záznamu s pevnou délkou následovanou obsahem záznamu s proměnnou délkou.
+Otevřené specifikace shapefile jsou k dispozici online od ESRI ve formě [Technical Description](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) a podrobně rozvádí celkovou strukturu souboru. Informace v hlavním souboru .shp se skládají z hlaviček a záznamů. Po hlavičce souboru s pevnou délkou následují záznamy s proměnnou délkou, kde každý záznam je tvořen hlavičkou záznamu s pevnou délkou následovanou obsahem záznamu s proměnnou délkou.
 
 ### Hlavní záhlaví souboru SHP
 
@@ -116,5 +116,5 @@ Příklady dalších typů tvarů lze nalézt v dokumentu technického popisu ES
 
 ## Reference ##
 
-* [Technický popis ESRI Shapefile] (http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) od ESRI
+* [Technický popis ESRI Shapefile](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) od ESRI
 

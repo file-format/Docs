@@ -24,7 +24,7 @@ Mivel a webhelyek kialakítása egyre bonyolultabbá válik, ami nagy [CSS](/hu/
 
 ## Az SCSS-fájlok használata ##
 
-Az SCSS-fájlok nem szerepelnek közvetlenül a [HTML](/hu/web/html/) dokumentumban, például a CSS-ben. Ehelyett az SCSS-fájlok CSS-fájlokká konvertálódnak, amelyeket a HTML-fájlok tartalmaznak. Az SCSS rendszerére való telepítéséhez kövesse a [Official Sass Site] (https://sass-lang.com/install) utasításait.
+Az SCSS-fájlok nem szerepelnek közvetlenül a [HTML](/hu/web/html/) dokumentumban, például a CSS-ben. Ehelyett az SCSS-fájlok CSS-fájlokká konvertálódnak, amelyeket a HTML-fájlok tartalmaznak. Az SCSS rendszerére való telepítéséhez kövesse a [Official Sass Site](https://sass-lang.com/install) utasításait.
 Az SCSS CSS-vé konvertálásához vagy konvertálhat egy már mentett SCSS-fájlt, vagy figyelheti a változásokat, és konvertálhat a fájl mentése közben. A parancsok mindkettőhöz alább találhatók.
 
 ### Egyszer konvertálni ###

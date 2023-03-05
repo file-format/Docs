@@ -70,7 +70,7 @@ PST ファイルの HEADER 構造は、ファイルの最初の 0 オフセッ�
 |bidNextP (Unicode: 8 バイト; ANSI: 4 バイト)|次のページの BID。ページには、bidIndex 値を割り当てるための特別なカウンターがあります。ページの BID の bidIndex の値は、このカウンターから割り当てられます。
 |bidNextB (4 バイト ANSI のみ): |次の BID。この値は、次に割り当てられるブロックに割り当てられる BID を示すモノトニック カウンターです。 BID 値は 4 ずつ進みます。詳細については、セクション 2.2.2.2 を参照してください。
 |dwUnique (4 バイト)|これは単調に増加する値で、PST ファイルの HEADER 構造が変更されるたびに変更されます。この値の機能は、一意の値を提供し、各ヘッダーの変更後に HEADER CRC が異なることを確認することです。
-|rgnid[] (128 バイト)|32 の NID の固定配列で、それぞれが 32 の可能な NID_TYPE (NID_TYPE、NID_TYPE_NORMAL_FOLDER、NID_TYPE_SEARCH_FOLDER、NID_TYPE_NORMAL_MESSAGE、NID_TYPE_ASSOC_MESSAGE) のいずれかに対応します。
+|rgnid[](128 バイト)|32 の NID の固定配列で、それぞれが 32 の可能な NID_TYPE (NID_TYPE、NID_TYPE_NORMAL_FOLDER、NID_TYPE_SEARCH_FOLDER、NID_TYPE_NORMAL_MESSAGE、NID_TYPE_ASSOC_MESSAGE) のいずれかに対応します。
 |qwUnused (8 バイト)|未使用スペース。ゼロに設定する必要があります。 Unicode PST ファイル形式のみ。
 |root (Unicode: 72 バイト; ANSI: 40 バイト)|ROOT 構造 (セクション 2.2.2.5)。
 |dwAlign (4 バイト)|未使用のアラインメント バイト。ゼロに設定する必要があります。 Unicode PST ファイル形式のみ。

@@ -19,7 +19,7 @@
 
 ## Mi az az OTS fájl?
 
-Az .ots kiterjesztésű fájl egy OpenDocument Spreadsheet Template fájl, amely az Apache OpenOffice-ban található Calc alkalmazásszoftverrel jön létre. A Calc szoftver hasonló a Microsoft Office-ban elérhető Excelhez. Az OTS fájlformátumot olyan sablonok létrehozására használják, amelyek előre meghatározott beállításokat tartalmaznak a stílusokhoz, betűtípusokhoz, adatokhoz, táblázatelrendezéshez és formázáshoz. Az OTF-fájlok "mime-type application/vnd.oasis.opendocument.spreadsheet-template"-vel rendelkeznek. Ezek a sablonfájlok kiindulási pontként használhatók [ODS fájlformátumban] (/hu/spreadsheet/ods/) mentett tényleges adatfájlok létrehozásához és mentéséhez. Az OTS-fájlok olyan alkalmazásokkal használhatók, mint az OpenOffice és a LibreOffice.
+Az .ots kiterjesztésű fájl egy OpenDocument Spreadsheet Template fájl, amely az Apache OpenOffice-ban található Calc alkalmazásszoftverrel jön létre. A Calc szoftver hasonló a Microsoft Office-ban elérhető Excelhez. Az OTS fájlformátumot olyan sablonok létrehozására használják, amelyek előre meghatározott beállításokat tartalmaznak a stílusokhoz, betűtípusokhoz, adatokhoz, táblázatelrendezéshez és formázáshoz. Az OTF-fájlok "mime-type application/vnd.oasis.opendocument.spreadsheet-template"-vel rendelkeznek. Ezek a sablonfájlok kiindulási pontként használhatók [ODS fájlformátumban](/hu/spreadsheet/ods/) mentett tényleges adatfájlok létrehozásához és mentéséhez. Az OTS-fájlok olyan alkalmazásokkal használhatók, mint az OpenOffice és a LibreOffice.
 
 ## OTS fájlformátum
 

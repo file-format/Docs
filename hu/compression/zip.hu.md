@@ -19,7 +19,7 @@
 
 ## Mi az a ZIP fájl? ##
 
-A .zip kiterjesztésű fájl olyan archívum, amely egy vagy több fájlt vagy könyvtárat tartalmazhat. Az archívum tömörítést alkalmazhat a mellékelt fájlokon a ZIP-fájl méretének csökkentése érdekében. A ZIP fájlformátumot Phil Katz 1989 februárjában tette nyilvánossá a fájlok és mappák archiválása érdekében. A formátum a [PKZIP](https://www.pkware.com/pkzip) segédprogram részévé vált, amelyet a PKWARE, Inc. hozott létre közvetlenül az [elérhető specifikációk](https://pkware.cachefly.net/) elérhetősége után. webdocs/casestudies/APPNOTE.TXT), sok vállalat a ZIP-fájlformátumot tette a segédprogramjai részévé, köztük a Microsoft (Windows 7 óta), az Apple (Mac OS X) és sok más.
+A .zip kiterjesztésű fájl olyan archívum, amely egy vagy több fájlt vagy könyvtárat tartalmazhat. Az archívum tömörítést alkalmazhat a mellékelt fájlokon a ZIP-fájl méretének csökkentése érdekében. A ZIP fájlformátumot Phil Katz 1989 februárjában tette nyilvánossá a fájlok és mappák archiválása érdekében. A formátum a [PKZIP](https://www.pkware.com/pkzip) segédprogram részévé vált, amelyet a PKWARE, Inc. hozott létre közvetlenül az [elérhető specifikációk](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT), sok vállalat a ZIP-fájlformátumot tette a segédprogramjai részévé, köztük a Microsoft (Windows 7 óta), az Apple (Mac OS X) és sok más.
 
 ## A ZIP fájlformátum rövid története
 
@@ -42,7 +42,7 @@ A .ZIP fájlformátum specifikációi szerint a következő tömörítési móds
 * WavPack
 * PPMd I-es verzió, 1. változat
 
-A DEFLATE az általánosan használt tömörítési módszer, amely egy veszteségmentes dátumtömörítési algoritmus, amely az LZ77 és a Huffman kódolás kombinációját használja, és amelyet az [RFC 1951] (https://tools.ietf.org/html/rfc1951) részletez.
+A DEFLATE az általánosan használt tömörítési módszer, amely egy veszteségmentes dátumtömörítési algoritmus, amely az LZ77 és a Huffman kódolás kombinációját használja, és amelyet az [RFC 1951](https://tools.ietf.org/html/rfc1951) részletez.
 
 ## ZIP fájl formátum specifikációi
 
@@ -152,4 +152,3 @@ A helyi fájlfejlécnek speciális mezőstruktúrája van, amely több bájtos �
 
 * [PKWARE ZIP-fájlformátum specifikációi](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
 * [A PKZip-fájl szerkezete](https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip-printable.html)
-

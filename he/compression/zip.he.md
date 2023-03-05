@@ -19,7 +19,7 @@
 
 ## מהו קובץ ZIP? ##
 
-קובץ עם סיומת .zip הוא ארכיון שיכול להכיל קבצים או ספריות אחד או יותר. ניתן להחיל דחיסה בארכיון על הקבצים הכלולים על מנת להקטין את גודל קובץ ה-ZIP. פורמט קובץ ZIP פורסם כבר בפברואר 1989 על ידי פיל כץ לצורך השגת ארכיון של קבצים ותיקיות. הפורמט נעשה חלק מתוכנית השירות [PKZIP](https://www.pkware.com/pkzip), שנוצרה על ידי PKWARE, Inc. מיד לאחר הזמינות של [מפרטים זמינים](https://pkware.cachefly.net/ webdocs/casestudies/APPNOTE.TXT), חברות רבות הפכו את פורמט קובץ ה-ZIP לחלק מכלי התוכנה שלהם, כולל Microsoft (מאז Windows 7), Apple (Mac OS X) ועוד רבים אחרים.
+קובץ עם סיומת .zip הוא ארכיון שיכול להכיל קבצים או ספריות אחד או יותר. ניתן להחיל דחיסה בארכיון על הקבצים הכלולים על מנת להקטין את גודל קובץ ה-ZIP. פורמט קובץ ZIP פורסם כבר בפברואר 1989 על ידי פיל כץ לצורך השגת ארכיון של קבצים ותיקיות. הפורמט נעשה חלק מתוכנית השירות [PKZIP](https://www.pkware.com/pkzip), שנוצרה על ידי PKWARE, Inc. מיד לאחר הזמינות של [מפרטים זמינים](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT), חברות רבות הפכו את פורמט קובץ ה-ZIP לחלק מכלי התוכנה שלהם, כולל Microsoft (מאז Windows 7), Apple (Mac OS X) ועוד רבים אחרים.
 
 ## היסטוריה קצרה של פורמט קובץ ZIP
 
@@ -152,4 +152,3 @@ DEFLATE היא שיטת הדחיסה הנפוצה שהיא אלגוריתם דח
 
 * [מפרט פורמט קובץ ZIP של PKWARE](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
 * [מבנה של קובץ PKZip](https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip-printable.html)
-

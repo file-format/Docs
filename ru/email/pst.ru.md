@@ -22,7 +22,7 @@
 
 ## Спецификации формата файла PST
 
-Формат файла PST [спецификации] (https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) доступен от Microsoft в качестве бесплатного и безотзывного бесплатного патентного лицензирования через Open Specification Promise. .
+Формат файла PST [спецификации](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) доступен от Microsoft в качестве бесплатного и безотзывного бесплатного патентного лицензирования через Open Specification Promise. .
 
 ### Тип форматов PST
 
@@ -70,7 +70,7 @@
 |bidNextP (Unicode: 8 байтов; ANSI: 4 байта)|BID следующей страницы. Страницы имеют специальный счетчик для распределения значений bidIndex. Из этого счетчика выделяется значение bidIndex для BID для страниц.
 |bidNextB (только 4 байта ANSI): |Следующая ставка. Это значение является монотонным счетчиком, который указывает BID, который будет назначен для следующего выделенного блока. Значения BID увеличиваются с шагом 4. Дополнительные сведения см. в разделе 2.2.2.2.
 |dwUnique (4 байта)|Это монотонно возрастающее значение, которое изменяется каждый раз при изменении структуры HEADER файла PST. Функция этого значения состоит в том, чтобы предоставить уникальное значение и гарантировать, что CRC HEADER различны после каждой модификации заголовка.
-|rgnid[] (128 байт)|Фиксированный массив из 32 NID, каждый из которых соответствует одному из 32 возможных NID_TYPE (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE,NID_TYPE_ASSOC_MESSAGE)
+|rgnid[](128 байт)|Фиксированный массив из 32 NID, каждый из которых соответствует одному из 32 возможных NID_TYPE (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE,NID_TYPE_ASSOC_MESSAGE)
 |qwUnused (8 байт)|Неиспользуемое пространство; ДОЛЖЕН быть установлен на ноль. Только в формате Unicode PST.
 |root (Unicode: 72 байта; ANSI: 40 байтов)|КОРНЕВАЯ структура (раздел 2.2.2.5).
 |dwAlign (4 байта)|Неиспользуемые байты выравнивания; ДОЛЖЕН быть установлен на ноль. Только в формате Unicode PST.
@@ -94,6 +94,6 @@
 
 ## Использованная литература ##
 
-* [Формат файла личных папок Outlook (.pst)] (https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Спецификации формата файлов личных папок] (https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Формат файла личных папок Outlook (.pst)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
+* [Спецификации формата файлов личных папок](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

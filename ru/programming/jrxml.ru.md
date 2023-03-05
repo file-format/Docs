@@ -165,6 +165,6 @@
 
 ## использованная литература
 
-* [JRXML — Википедия] (https://en.wikipedia.org/wiki/JasperReports#JRXML)
-* [Исходники JRXML и файлы Jasper] (https://community.jaspersoft.com/documentation/tibco-jaspersoft-studio-user-guide/v630/jrxml-sources-and-jasper-files)
+* [JRXML — Википедия](https://en.wikipedia.org/wiki/JasperReports#JRXML)
+* [Исходники JRXML и файлы Jasper](https://community.jaspersoft.com/documentation/tibco-jaspersoft-studio-user-guide/v630/jrxml-sources-and-jasper-files)
 

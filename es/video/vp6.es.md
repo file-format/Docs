@@ -23,7 +23,7 @@ VP6 es un formato de video de compresión con pérdida que On2 Technologies intr
 
 ## Formato de archivo VP6
 
-Las especificaciones completas para los archivos V6 no están disponibles públicamente. On2 hizo públicas las especificaciones inicialmente, pero pronto dejaron de estar disponibles para los usuarios generales. Una documentación no oficial del formato de archivo VP6 está disponible en [wiki multimedia] (https://wiki.multimedia.cx/index.php?title=On2_VP6) que se puede consultar para referencia del desarrollador.
+Las especificaciones completas para los archivos V6 no están disponibles públicamente. On2 hizo públicas las especificaciones inicialmente, pero pronto dejaron de estar disponibles para los usuarios generales. Una documentación no oficial del formato de archivo VP6 está disponible en [wiki multimedia](https://wiki.multimedia.cx/index.php?title=On2_VP6) que se puede consultar para referencia del desarrollador.
 
 ### Macrobloques (MB)
 

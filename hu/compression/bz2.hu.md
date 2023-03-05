@@ -23,7 +23,7 @@ A BZ2 tömörített fájlok, amelyeket a [BZIP2](http://www.bzip.org/) nyílt fo
 
 ## BZ2 fájlformátum
 
-Ehhez a fájlformátumhoz nem állnak rendelkezésre hivatalos előírások. Egy nem hivatalos [reverse engineered specifikáció] (https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) azonban azt mutatja, hogy a .bz2 adatfolyam egy 4 bájtos fejlécből áll, amelyet követnek nulla vagy több tömörített blokk által. Ezt közvetlenül követi egy folyamvégi jelző, amely 32 bites CRC-t tartalmaz a feldolgozott sima szöveges teljes adatfolyamhoz. A tömörített blokkok között nincs párnázás, és az összes blokk bitre van igazítva.
+Ehhez a fájlformátumhoz nem állnak rendelkezésre hivatalos előírások. Egy nem hivatalos [reverse engineered specifikáció](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) azonban azt mutatja, hogy a .bz2 adatfolyam egy 4 bájtos fejlécből áll, amelyet követnek nulla vagy több tömörített blokk által. Ezt közvetlenül követi egy folyamvégi jelző, amely 32 bites CRC-t tartalmaz a feldolgozott sima szöveges teljes adatfolyamhoz. A tömörített blokkok között nincs párnázás, és az összes blokk bitre van igazítva.
 
 ## Csomagolja ki/bontsa ki a BZ2 fájlt
 

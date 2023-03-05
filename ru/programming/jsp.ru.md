@@ -193,5 +193,5 @@
 ## использованная литература
 
 * [Соглашения кодов для страниц JavaServer](https://www.oracle.com/technical-resources/articles/javase/code-convention.html)
-* [Учебное пособие по JSP] (https://www.javatpoint.com/jsp-tutorial)
+* [Учебное пособие по JSP](https://www.javatpoint.com/jsp-tutorial)
 

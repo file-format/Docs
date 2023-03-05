@@ -24,7 +24,7 @@ Un archivo CT (Tono continuo) es un archivo de imagen de trama utilizado por el 
 
 ## Formato de archivo CT
 
-Un archivo Scitex CT consta de un bloque de control, un bloque de parámetros y los datos de imagen según este [artículo CT de Wikipedia] (https://en.wikipedia.org/wiki/Scitex_CT). Las especificaciones de formato de archivo del formato de archivo CT no están disponibles, pero algunas investigaciones han demostrado que una imagen CT representa 4 colores, y cada píxel coloreado tiene un tamaño de hasta 128 bits. Los archivos CT suelen ser de gran tamaño y permiten imágenes de alta calidad.
+Un archivo Scitex CT consta de un bloque de control, un bloque de parámetros y los datos de imagen según este [artículo CT de Wikipedia](https://en.wikipedia.org/wiki/Scitex_CT). Las especificaciones de formato de archivo del formato de archivo CT no están disponibles, pero algunas investigaciones han demostrado que una imagen CT representa 4 colores, y cada píxel coloreado tiene un tamaño de hasta 128 bits. Los archivos CT suelen ser de gran tamaño y permiten imágenes de alta calidad.
 
 ## Referencias
 

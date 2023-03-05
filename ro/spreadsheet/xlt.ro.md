@@ -34,7 +34,7 @@ Formatul de fișier XLT se bazează pe formatul de fișier binar Excel care a fo
 * XLT în HTML
 * XLT în CSV
 
-XLT se bazează pe [specificațiile formatului fișierului XLS] (https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx) care este documentat de Microsoft pentru referință de către dezvoltatori.
+XLT se bazează pe [specificațiile formatului fișierului XLS](https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx) care este documentat de Microsoft pentru referință de către dezvoltatori.
 
 ## Referințe
 

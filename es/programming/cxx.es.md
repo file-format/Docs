@@ -27,5 +27,5 @@ Los archivos CXX se almacenan como archivos de texto sin formato y contienen có
 
 ## Referencias
 
-* [Implementación de clase: por Wikipedia] (https://en.wikipedia.org/wiki/Class_implementation_file)
+* [Implementación de clase: por Wikipedia](https://en.wikipedia.org/wiki/Class_implementation_file)
 

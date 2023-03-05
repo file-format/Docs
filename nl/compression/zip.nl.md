@@ -19,7 +19,7 @@
 
 ## Wat is een ZIP-bestand? ##
 
-Een bestand met de extensie .zip is een archief dat een of meer bestanden of mappen kan bevatten. Het archief kan compressie hebben toegepast op de opgenomen bestanden om de ZIP-bestandsgrootte te verkleinen. Het ZIP-bestandsformaat werd in februari 1989 openbaar gemaakt door Phil Katz voor het archiveren van bestanden en mappen. Het formaat is onderdeel gemaakt van het hulpprogramma [PKZIP](https://www.pkware.com/pkzip), gemaakt door PKWARE, Inc. Direct na de beschikbaarheid van [beschikbare specificaties](https://pkware.cachefly.net/ webdocs/casestudies/APPNOTE.TXT), maakten veel bedrijven het ZIP-bestandsformaat onderdeel van hun softwarehulpprogramma's, waaronder Microsoft (sinds Windows 7), Apple (Mac OS X) en vele anderen.
+Een bestand met de extensie .zip is een archief dat een of meer bestanden of mappen kan bevatten. Het archief kan compressie hebben toegepast op de opgenomen bestanden om de ZIP-bestandsgrootte te verkleinen. Het ZIP-bestandsformaat werd in februari 1989 openbaar gemaakt door Phil Katz voor het archiveren van bestanden en mappen. Het formaat is onderdeel gemaakt van het hulpprogramma [PKZIP](https://www.pkware.com/pkzip), gemaakt door PKWARE, Inc. Direct na de beschikbaarheid van [beschikbare specificaties](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT), maakten veel bedrijven het ZIP-bestandsformaat onderdeel van hun softwarehulpprogramma's, waaronder Microsoft (sinds Windows 7), Apple (Mac OS X) en vele anderen.
 
 ## Korte geschiedenis van ZIP-bestandsindeling
 
@@ -152,4 +152,3 @@ De Local File Header heeft een specifieke veldstructuur die bestaat uit waarden 
 
 * [PKWARE ZIP-bestandsformaatspecificaties](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
 * [Structuur van PKZip-bestand](https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip-printable.html)
-

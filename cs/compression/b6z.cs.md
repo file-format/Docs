@@ -19,7 +19,7 @@
 
 ## Co je soubor B6Z?
 
-Soubor s příponou .b6z je komprimovaný archivní soubor vytvořený v softwarové aplikaci macOS [B6Zip] (http://b6zip.com), která se používá ke kompresi a dekomprimaci souborů. Je to poměrně nový formát archivu, který umožňuje vyšší kompresní poměr. B6Z má otevřenou architekturu a podporuje velikost souborů až 900 000 PB. Podporuje kompresi dat, obnovu po chybách a rozkládání souborů. Obslužný software B6Zip je k dispozici zdarma na MacOS pro otevírání různých typů komprimovaných souborů včetně B6Z.
+Soubor s příponou .b6z je komprimovaný archivní soubor vytvořený v softwarové aplikaci macOS [B6Zip](http://b6zip.com), která se používá ke kompresi a dekomprimaci souborů. Je to poměrně nový formát archivu, který umožňuje vyšší kompresní poměr. B6Z má otevřenou architekturu a podporuje velikost souborů až 900 000 PB. Podporuje kompresi dat, obnovu po chybách a rozkládání souborů. Obslužný software B6Zip je k dispozici zdarma na MacOS pro otevírání různých typů komprimovaných souborů včetně B6Z.
 
 ## Formát souboru B6Z
 
@@ -37,5 +37,5 @@ Obslužný program B6Zip podporuje všechny tyto kompresní standardy a je vysoc
 
 ## Reference
 
-* [B6Zip] (http://b6zip.com)
+* [B6Zip](http://b6zip.com)
 

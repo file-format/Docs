@@ -18,7 +18,7 @@
 
 ## ما هو ملف ODM؟
 
-الملف بامتداد .odm هو ملف مستند OpenDocument Master يحتوي على واحد أو أكثر من ملفات [.odt] (/ar/ معالجة الكلمات / odt /) المرتبطة به. يتم دمج كل هذه المستندات الثانوية في مستند رئيسي واحد. هذا يجعل من السهل إدارة جميع الملفات المرتبطة من المستند الرئيسي الفردي. يمكن إنشاء ملفات المستندات الرئيسية باستخدام Apache OpenOffice Writer أو OpenDocument Word Processor. يمكن تصدير ملفات ODM إلى ملف ODT واحد باستخدام خيار التصدير من داخل تطبيق OpenOffice Writer.
+الملف بامتداد .odm هو ملف مستند OpenDocument Master يحتوي على واحد أو أكثر من ملفات [.odt](/ar/ معالجة الكلمات / odt /) المرتبطة به. يتم دمج كل هذه المستندات الثانوية في مستند رئيسي واحد. هذا يجعل من السهل إدارة جميع الملفات المرتبطة من المستند الرئيسي الفردي. يمكن إنشاء ملفات المستندات الرئيسية باستخدام Apache OpenOffice Writer أو OpenDocument Word Processor. يمكن تصدير ملفات ODM إلى ملف ODT واحد باستخدام خيار التصدير من داخل تطبيق OpenOffice Writer.
 
 ## تنسيق ملف ODM - مزيد من المعلومات
 
@@ -28,6 +28,6 @@
 
 ## مراجع
 
-* [المستندات الرئيسية] (https://wiki.openoffice.org/wiki/Documentation/UserGuide/Writer/MasterDoc)
-* [إنشاء ملف واحد من مستند رئيسي ووثائقه الفرعية] (https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Writer_Guide/Creating_one_file_from_a_master_document)
+* [المستندات الرئيسية](https://wiki.openoffice.org/wiki/Documentation/UserGuide/Writer/MasterDoc)
+* [إنشاء ملف واحد من مستند رئيسي ووثائقه الفرعية](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Writer_Guide/Creating_one_file_from_a_master_document)
 

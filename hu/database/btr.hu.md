@@ -24,7 +24,7 @@ A .btr kiterjesztésű fájl a [Btrieve](https://www.actian.com/) tranzakciós a
 ## BTR fájlszerkezet - További információ
 
 A BTR-fájl szerkezetében lévő egyes bájtok belső adatstruktúrája és igazítása nem nyilvánosan elérhető. Azonban Btrieve
-biztosítja a [Btrieve API-t] (https://docs.actian.com/psql/PSQLv13/index.html#page/btrieveapi%2Fbtrintro.htm), amely a BTR-fájlokból származó információk kiolvasására használható. A következő programozási nyelvekkel és fejlesztői környezetekkel kompatibilis.
+biztosítja a [Btrieve API-t](https://docs.actian.com/psql/PSQLv13/index.html#page/btrieveapi%2Fbtrintro.htm), amely a BTR-fájlokból származó információk kiolvasására használható. A következő programozási nyelvekkel és fejlesztői környezetekkel kompatibilis.
 
 * Embarcadero C/C++
 * Embarcadero Delphi

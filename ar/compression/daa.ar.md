@@ -24,6 +24,6 @@ DAA (أرشيف الوصول المباشر) هو تنسيق ملف خاص لم�
 
 ## مراجع ##
 
-- [أرشيف الوصول المباشر - ويكيبيديا] (https://en.wikipedia.org/wiki/Direct_Access_Archive)
-- [ما هو ملف DAA؟] (https://www.poweriso.com/tutorials/what-is-daa-file.htm)
+- [أرشيف الوصول المباشر - ويكيبيديا](https://en.wikipedia.org/wiki/Direct_Access_Archive)
+- [ما هو ملف DAA؟](https://www.poweriso.com/tutorials/what-is-daa-file.htm)
 

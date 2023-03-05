@@ -18,7 +18,7 @@
 
 ## Was ist eine HDM-Datei?
 
-Eine HDM-Datei ist eine Auszeichnungssprachen-Webseitendatei, die in der Handheld Device Markup Language (HDML) erstellt wird. Es enthält Markup-Tags ähnlich der Sprache [HTML](/de/web/html/), ist aber für tragbare elektronische Geräte wie Smartphones und PDAs konzipiert. Die [Spezifikationen des HDML-Dateiformats] (https://www.w3.org/TR/NOTE-Submission-HDML-spec.html) wurden dem W3C zur Standardisierung vorgelegt, konnten aber nicht zum Standard werden. HDM basiert auf den [HDML](/de/web/hdml/)-Dateiformatspezifikationen, die auf der W3-Website verfügbar sind.
+Eine HDM-Datei ist eine Auszeichnungssprachen-Webseitendatei, die in der Handheld Device Markup Language (HDML) erstellt wird. Es enthält Markup-Tags ähnlich der Sprache [HTML](/de/web/html/), ist aber für tragbare elektronische Geräte wie Smartphones und PDAs konzipiert. Die [Spezifikationen des HDML-Dateiformats](https://www.w3.org/TR/NOTE-Submission-HDML-spec.html) wurden dem W3C zur Standardisierung vorgelegt, konnten aber nicht zum Standard werden. HDM basiert auf den [HDML](/de/web/hdml/)-Dateiformatspezifikationen, die auf der W3-Website verfügbar sind.
 
 ## HDM-Dateiformat – Weitere Informationen
 
@@ -39,5 +39,5 @@ Im Folgenden finden Sie eine Reihe von Elementen, die eine Laufzeitumgebung für
 ## Verweise
 
 * [HDML – Wikipedia](https://en.wikipedia.org/wiki/Handheld_Device_Markup_Language)
-* [HDML-Spezifikationen – W3-Schulen] (https://www.w3.org/TR/NOTE-Submission-HDML-spec.html)
+* [HDML-Spezifikationen – W3-Schulen](https://www.w3.org/TR/NOTE-Submission-HDML-spec.html)
 

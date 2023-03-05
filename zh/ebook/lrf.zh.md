@@ -23,7 +23,7 @@
 
 ## 历史简介
 
-LRF 文件类型首先由 [inXile Entertainment] (https://en.wikipedia.org/wiki/InXile_Entertainment) 与 Line Rider 相关联。 Line Rider 是一款互联网物理玩具，由斯洛文尼亚大学生 Boštjan Čadež 于 2006 年 9 月发明。索尼品牌的 eBook 电子阅读器（例如 Sony PRS-500 阅读器和 Sony Librie）使用 LRF 文件扩展名来存储文档和文本。这种专有文件类型以及相关的 LRS 和 LRX 文件现已过时。这三种文件类型构成了 BroadBand 电子书 (BBeB)，该电子书于 2010 年停产，当时索尼开始以 EPUB 格式销售其电子书。
+LRF 文件类型首先由 [inXile Entertainment](https://en.wikipedia.org/wiki/InXile_Entertainment) 与 Line Rider 相关联。 Line Rider 是一款互联网物理玩具，由斯洛文尼亚大学生 Boštjan Čadež 于 2006 年 9 月发明。索尼品牌的 eBook 电子阅读器（例如 Sony PRS-500 阅读器和 Sony Librie）使用 LRF 文件扩展名来存储文档和文本。这种专有文件类型以及相关的 LRS 和 LRX 文件现已过时。这三种文件类型构成了 BroadBand 电子书 (BBeB)，该电子书于 2010 年停产，当时索尼开始以 EPUB 格式销售其电子书。
 
 ## LRF 文件格式
 

@@ -26,7 +26,7 @@ A RealVideo első, 1997-ben bejelentett verziója a H.263 formátumon alapult. A
 
 A RealVideo lejátszható RealMedia fájlból, vagy streamelhető az interneten keresztül a Real Time Streaming Protocol (RSTP) használatával. Az RSTP a kapcsolat menedzselésére, a tényleges adatok küldésére szolgál, a Real Data Transport (RDT) protokollt használják.
 
-A valós idejű adatfolyamhoz a RealVideo állandó bitsebességű kódolást használ. A RealNetworks nemrégiben bemutatta a RealMedia változó bitsebességű változatát [RealMedia Variable Bitrate (RMVB)] (/hu/video/rmvb/) néven. Az RMVB jobb videóminőséget tesz lehetővé, de kevésbé alkalmas streamelésre, mivel a hálózati kapacitás nem jelezhető előre.
+A valós idejű adatfolyamhoz a RealVideo állandó bitsebességű kódolást használ. A RealNetworks nemrégiben bemutatta a RealMedia változó bitsebességű változatát [RealMedia Variable Bitrate (RMVB)](/hu/video/rmvb/) néven. Az RMVB jobb videóminőséget tesz lehetővé, de kevésbé alkalmas streamelésre, mivel a hálózati kapacitás nem jelezhető előre.
 
 ## Videótömörítési formátumok és kodekek ##
 

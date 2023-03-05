@@ -39,5 +39,5 @@ PDF/VT est conféré aux trois niveaux de conformité suivants. Ils sont tous ba
 ## Références ##
 
 * [PDF/VT - Par Wikipédia](https://en.wikipedia.org/wiki/PDF/VT)
-* [Technologie graphique ISO 16612-2] (https://www.iso.org/standard/46428.html)
+* [Technologie graphique ISO 16612-2](https://www.iso.org/standard/46428.html)
 

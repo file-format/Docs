@@ -22,7 +22,7 @@ Dateien mit der Erweiterung .zim sind Archive, die erstellt wurden, um Wiki-Inha
 
 ## ZIM-Dateiformatspezifikationen
 
-Das ZIM-Dateiformat wurde auf der Grundlage von [Zeno-Dateiformat](https://openzim.org/wiki/Zeno_file_format) entwickelt und ist nicht abwärtskompatibel. Die Formatspezifikationen des ZIM-Dateiformats sind [online verfügbar] (https://openzim.org/wiki/ZIM_file_format) von openZIM als Referenz für Entwickler. OpenZIM hat eine C++-Open-Source-Implementierung, [LibZim](https://openzim.org/wiki/Zimlib), zum Lesen und Schreiben von ZIM-Dateien bereitgestellt.
+Das ZIM-Dateiformat wurde auf der Grundlage von [Zeno-Dateiformat](https://openzim.org/wiki/Zeno_file_format) entwickelt und ist nicht abwärtskompatibel. Die Formatspezifikationen des ZIM-Dateiformats sind [online verfügbar](https://openzim.org/wiki/ZIM_file_format) von openZIM als Referenz für Entwickler. OpenZIM hat eine C++-Open-Source-Implementierung, [LibZim](https://openzim.org/wiki/Zimlib), zum Lesen und Schreiben von ZIM-Dateien bereitgestellt.
 
 Das ZIM-Dateiformat verwendet die LZMA2-Komprimierung, um den Inhalt kompakt zu machen.
 

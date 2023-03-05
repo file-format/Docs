@@ -28,6 +28,6 @@
 
 ## использованная литература
 
-- [Adobe Contribute — Википедия] (https://en.wikipedia.org/wiki/Adobe_Contribute)
+- [Adobe Contribute — Википедия](https://en.wikipedia.org/wiki/Adobe_Contribute)
 - [Adobe Contribute](https://help.adobe.com/archive/en_US/contribute/cs5/contribute_cs5_help.pdf)
 

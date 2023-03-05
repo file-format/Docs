@@ -35,7 +35,7 @@
 
 ## использованная литература
 
-* [Телефоны Samsung Galaxy Note] (https://www.samsung.com/us/mobile/phones/galaxy-note/)
+* [Телефоны Samsung Galaxy Note](https://www.samsung.com/us/mobile/phones/galaxy-note/)
 
 
 

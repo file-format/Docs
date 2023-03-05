@@ -66,7 +66,7 @@ EndGlobal
 
 ### **Declaración de proyecto** ###
 
-Un archivo de solución puede contener más de una declaración de proyectos y también de diferentes tipos de proyectos. Por ejemplo, un solo archivo de solución puede contener un proyecto CSharp y VB.NET. Estos tipos se distinguen en una solución mediante el [GUID de tipo de proyecto] (https://www.codeproject.com/Reference/720512/List-of-Visual-Studio-Project-Type-GUIDs). La declaración del proyecto anterior se puede generalizar de la siguiente manera para una comprensión clara.
+Un archivo de solución puede contener más de una declaración de proyectos y también de diferentes tipos de proyectos. Por ejemplo, un solo archivo de solución puede contener un proyecto CSharp y VB.NET. Estos tipos se distinguen en una solución mediante el [GUID de tipo de proyecto](https://www.codeproject.com/Reference/720512/List-of-Visual-Studio-Project-Type-GUIDs). La declaración del proyecto anterior se puede generalizar de la siguiente manera para una comprensión clara.
 
 ```
 Project("{Project-Type-GUID}") # "Project-Name", "Project-Path.extension", "{Project-GUID}"
@@ -86,6 +86,6 @@ Según la información contenida en la sección del proyecto del archivo .sln, e
 
 ### **Referencias** ###
 
-* [Archivo de solución: por MSDN] (https://docs.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
+* [Archivo de solución: por MSDN](https://docs.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
 * [GUID de tipo de proyecto](https://www.codeproject.com/Reference/720512/List-of-Visual-Studio-Project-Type-GUIDs)
 

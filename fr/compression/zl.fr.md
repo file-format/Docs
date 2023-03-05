@@ -48,5 +48,5 @@ bits 4 to 7  CINFO  Compression info
 
 ## Références ##
 
-* [Spécifications du format de fichier Zlib] (https://tools.ietf.org/html/rfc1950)
+* [Spécifications du format de fichier Zlib](https://tools.ietf.org/html/rfc1950)
 

@@ -93,7 +93,7 @@ use_anonymous = True
 
 ## использованная литература
 
-* [Понимание файлов конфигурации Linux] (https://developer.ibm.com/technologies/linux/articles/l-config/)
-* [Настройки файла конфигурации и учетных данных] (https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
-* [Файлы конфигурации в Python] (https://martin-thoma.com/configuration-files-in-python/)
+* [Понимание файлов конфигурации Linux](https://developer.ibm.com/technologies/linux/articles/l-config/)
+* [Настройки файла конфигурации и учетных данных](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
+* [Файлы конфигурации в Python](https://martin-thoma.com/configuration-files-in-python/)
 

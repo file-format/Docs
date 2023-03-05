@@ -19,7 +19,7 @@
 
 ## ZIP dosyası nedir? ##
 
-.zip uzantılı bir dosya, bir veya daha fazla dosya veya dizini tutabilen bir arşivdir. ZIP dosyasının boyutunu azaltmak için arşiv, dahil edilen dosyalara sıkıştırma uygulayabilir. ZIP dosya biçimi, dosya ve klasörlerin arşivlenmesini sağlamak için Şubat 1989'da Phil Katz tarafından halka açıldı. Biçim, PKWARE, Inc. tarafından oluşturulan [PKZIP](https://www.pkware.com/pkzip) yardımcı programının bir parçası haline getirildi. [mevcut spesifikasyonların](https://pkware.cachefly.net/) kullanıma sunulmasından hemen sonra webdocs/casestudies/APPNOTE.TXT), Microsoft (Windows 7'den beri), Apple (Mac OS X ) ve diğerleri de dahil olmak üzere birçok şirket ZIP dosya biçimini yazılım yardımcı programlarının bir parçası haline getirdi.
+.zip uzantılı bir dosya, bir veya daha fazla dosya veya dizini tutabilen bir arşivdir. ZIP dosyasının boyutunu azaltmak için arşiv, dahil edilen dosyalara sıkıştırma uygulayabilir. ZIP dosya biçimi, dosya ve klasörlerin arşivlenmesini sağlamak için Şubat 1989'da Phil Katz tarafından halka açıldı. Biçim, PKWARE, Inc. tarafından oluşturulan [PKZIP](https://www.pkware.com/pkzip) yardımcı programının bir parçası haline getirildi. [mevcut spesifikasyonların](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT), Microsoft (Windows 7'den beri), Apple (Mac OS X ) ve diğerleri de dahil olmak üzere birçok şirket ZIP dosya biçimini yazılım yardımcı programlarının bir parçası haline getirdi.
 
 ## ZIP Dosya Biçiminin Kısa Tarihi
 
@@ -152,4 +152,3 @@ Yerel Dosya Başlığı, çok baytlık değerlerden oluşan özel alan yapısın
 
 * [PKWARE ZIP Dosya Biçimi Özellikleri](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
 * [PKZip Dosyasının Yapısı](https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip-printable.html)
-

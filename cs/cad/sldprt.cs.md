@@ -18,11 +18,11 @@
 
 ## Co je soubor SLDPRT?
 
-Soubor SLDPRT je soubor CAD generovaný softwarem SolidWorks. Jedná se o 3D formát souboru, který obsahuje 3D informace o objektu nebo „části“. Více souborů SLDPRT s kompatibilními díly lze zkombinovat a vytvořit jeden soubor sestavy SLDASM. Soubory SLDPRT lze otevřít pomocí [SmartCAM CAD/CAM Software] (https://www.solidworks.com/partner-product/smartcam-cadcam-software) od SolidWorks. Převaděče aplikací SolidWorks poskytují snadno konvertovatelné nástroje pro převod výkresových souborů SLDPRT do neutrálních datových formátů, jako jsou [TIFF](/cs/image/tiff/), [PDF](/cs/pdf/), NEBO [PDF/A](/cs/pdf/ A/).
+Soubor SLDPRT je soubor CAD generovaný softwarem SolidWorks. Jedná se o 3D formát souboru, který obsahuje 3D informace o objektu nebo „části“. Více souborů SLDPRT s kompatibilními díly lze zkombinovat a vytvořit jeden soubor sestavy SLDASM. Soubory SLDPRT lze otevřít pomocí [SmartCAM CAD/CAM Software](https://www.solidworks.com/partner-product/smartcam-cadcam-software) od SolidWorks. Převaděče aplikací SolidWorks poskytují snadno konvertovatelné nástroje pro převod výkresových souborů SLDPRT do neutrálních datových formátů, jako jsou [TIFF](/cs/image/tiff/), [PDF](/cs/pdf/), NEBO [PDF/A](/cs/pdf/ A/).
 
 ## Formát souboru SLDPRT
 
-Soubory SLDPRT se ukládají jako binární soubory a jejich přesné specifikace formátu souboru nejsou k dispozici. Některá rozhraní API však poskytují možnost číst a převádět soubory SLDPRT do jiných formátů, jako je [SLDPRT to DXF] (https://github.com/GitHubVents/ExportSLDPRTToDXF).
+Soubory SLDPRT se ukládají jako binární soubory a jejich přesné specifikace formátu souboru nejsou k dispozici. Některá rozhraní API však poskytují možnost číst a převádět soubory SLDPRT do jiných formátů, jako je [SLDPRT to DXF](https://github.com/GitHubVents/ExportSLDPRTToDXF).
 
 ## Prohlížeče SLDPRT
 

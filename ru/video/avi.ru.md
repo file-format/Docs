@@ -42,5 +42,5 @@ AVI был представлен Microsoft в 1992 году с целью об�
 
 ## Использованная литература ##
 
-* [AVI — Википедия] (https://en.wikipedia.org/wiki/Audio_Video_Interleave)
+* [AVI — Википедия](https://en.wikipedia.org/wiki/Audio_Video_Interleave)
 

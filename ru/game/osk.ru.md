@@ -42,5 +42,5 @@
 ## использованная литература
 
 * [ОСУ! Ритм-игра](https://osu.ppy.sh/home)
-* [Формат файла OSK] (https://osu.ppy.sh/wiki/en/osu%21_File_Formats/Osk_%28file_format%29)
+* [Формат файла OSK](https://osu.ppy.sh/wiki/en/osu%21_File_Formats/Osk_%28file_format%29)
 

@@ -79,7 +79,7 @@ Les formats textuels (XML, OPL et Debug) utilisent la compression gzip ou bzip2 
 
 ## Références ##
 
-* [Manuel des formats de fichiers OSM] (https://osmcode.org/file-formats-manual/#file-types)
+* [Manuel des formats de fichiers OSM](https://osmcode.org/file-formats-manual/#file-types)
 * [OpenStreetMap](https://en.wikipedia.org/wiki/OpenStreetMap#History)
 * [Apprendre OSM](https://learnosm.org/en/osm-data/getting-data/)
 

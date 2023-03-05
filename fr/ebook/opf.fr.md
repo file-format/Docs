@@ -28,6 +28,6 @@ L'extension de fichier .opf peut être classée en différents types de fichiers
 ## Références ##
 
 * [Le fichier OPF](https://www.lynda.com/InDesign-tutorials/OPF-file/2803422/2247530-4.html)
-* [Ouvrir un livre électronique] (https://en.wikipedia.org/wiki/Open_eBook)
+* [Ouvrir un livre électronique](https://en.wikipedia.org/wiki/Open_eBook)
 
 

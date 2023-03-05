@@ -36,6 +36,6 @@
 
 ## использованная литература
 
-* [Формат файла GAM] (https://gibberlings3.github.io/iesdp/file_formats/ie_formats/gam_v2.0.htm#GAMEV2_0_Stored)
+* [Формат файла GAM](https://gibberlings3.github.io/iesdp/file_formats/ie_formats/gam_v2.0.htm#GAMEV2_0_Stored)
 * [Формат файла SAV](/ru/game/sav/)
 

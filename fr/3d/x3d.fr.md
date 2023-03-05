@@ -95,5 +95,5 @@ Les fichiers de scène X3D ont une structure de fichier commune :
 
 * [X3D - Par Wikipédia](https://en.wikipedia.org/wiki/X3D)
 * [Site officiel du Consortium Web3D](http://www.web3d.org/)
-* [Site officiel de X3D] (http://www.web3d.org/x3d/what-x3d)
+* [Site officiel de X3D](http://www.web3d.org/x3d/what-x3d)
 

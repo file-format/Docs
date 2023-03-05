@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo ZIP? ##
 
-Un archivo con extensión .zip es un archivo que puede contener uno o más archivos o directorios. El archivo puede tener compresión aplicada a los archivos incluidos para reducir el tamaño del archivo ZIP. El formato de archivo ZIP se hizo público en febrero de 1989 por Phil Katz para lograr el archivado de archivos y carpetas. El formato se hizo parte de la utilidad [PKZIP](https://www.pkware.com/pkzip), creada por PKWARE, Inc. Inmediatamente después de la disponibilidad de [especificaciones disponibles](https://pkware.cachefly.net/ webdocs/casestudies/APPNOTE.TXT), muchas compañías hicieron que el formato de archivo ZIP fuera parte de sus utilidades de software, incluidas Microsoft (desde Windows 7), Apple (Mac OS X) y muchas otras.
+Un archivo con extensión .zip es un archivo que puede contener uno o más archivos o directorios. El archivo puede tener compresión aplicada a los archivos incluidos para reducir el tamaño del archivo ZIP. El formato de archivo ZIP se hizo público en febrero de 1989 por Phil Katz para lograr el archivado de archivos y carpetas. El formato se hizo parte de la utilidad [PKZIP](https://www.pkware.com/pkzip), creada por PKWARE, Inc. Inmediatamente después de la disponibilidad de [especificaciones disponibles](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT), muchas compañías hicieron que el formato de archivo ZIP fuera parte de sus utilidades de software, incluidas Microsoft (desde Windows 7), Apple (Mac OS X) y muchas otras.
 
 ## Breve historia del formato de archivo ZIP
 
@@ -42,7 +42,7 @@ Según las especificaciones del formato de archivo .ZIP, se admiten los siguient
 * WavPack
 * PPMd versión I, Rev 1
 
-DEFLATE es el método de compresión comúnmente utilizado, que es un algoritmo de compresión de datos sin pérdidas que utiliza una combinación de la codificación LZ77 y Huffman y se detalla en [RFC 1951] (https://tools.ietf.org/html/rfc1951).
+DEFLATE es el método de compresión comúnmente utilizado, que es un algoritmo de compresión de datos sin pérdidas que utiliza una combinación de la codificación LZ77 y Huffman y se detalla en [RFC 1951](https://tools.ietf.org/html/rfc1951).
 
 ## Especificaciones del formato de archivo ZIP
 
@@ -152,4 +152,3 @@ El encabezado del archivo local tiene una estructura de campo específica que co
 
 * [Especificaciones del formato de archivo ZIP PKWARE](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
 * [Estructura del archivo PKZip](https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip-printable.html)
-

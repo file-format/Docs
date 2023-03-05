@@ -31,6 +31,6 @@ Les données des fichiers ETL peuvent être lues et visualisées sous forme de t
 
 ## Références
 
-* [Analyseur de performances Windows] (https://docs.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
+* [Analyseur de performances Windows](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
 * [Guide de démarrage rapide WPA](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
 

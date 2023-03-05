@@ -37,5 +37,5 @@ Tous ces systèmes définissent un fichier texte comme un fichier dont les carac
 
 ## Références ##
 
-* [Format de fichier TXT] (https://en.wikipedia.org/wiki/Text_file)
+* [Format de fichier TXT](https://en.wikipedia.org/wiki/Text_file)
 

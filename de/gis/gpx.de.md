@@ -30,7 +30,7 @@ Eine GPX-Datei besteht aus Breiten- und Längengrad-Standortdaten, Höhenwerten 
 * GPX basiert auf dem XML-Standard, sodass viele der neuen Programme, die Sie verwenden (z. B. Microsoft Excel), GPX-Dateien lesen können.
 * GPX macht es jedem im Internet leicht, neue Funktionen zu entwickeln, die sofort mit Ihren Lieblingsprogrammen funktionieren.
 
-Das [GPX-Schema] (https://www.topografix.com/GPX/1/1/gpx.xsd) zeigt die Darstellung des GPX-Dateiformats als Referenz.
+Das [GPX-Schema](https://www.topografix.com/GPX/1/1/gpx.xsd) zeigt die Darstellung des GPX-Dateiformats als Referenz.
 
 ### Wesentliche Daten ###
 

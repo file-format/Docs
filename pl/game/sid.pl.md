@@ -19,7 +19,7 @@
 
 ## Czym jest plik SID?
 
-Plik SID to plik kopii zapasowej gry utworzony przez aplikację Steam, który służy do pobierania **gier wideo Valve** i zarządzania nimi w systemie operacyjnym Windows. Przechowuje dane gry w skompresowanym formacie i może być używany do tworzenia kopii zapasowych gier na nośnikach pamięci, takich jak DVD i urządzenia pamięci masowej USB. Plik SID jest tworzony za pomocą narzędzia do tworzenia kopii zapasowych Steam i jest podobny do formatu pliku [CSD] (/pl/ gra / csd /) do przechowywania kopii zapasowej gry.
+Plik SID to plik kopii zapasowej gry utworzony przez aplikację Steam, który służy do pobierania **gier wideo Valve** i zarządzania nimi w systemie operacyjnym Windows. Przechowuje dane gry w skompresowanym formacie i może być używany do tworzenia kopii zapasowych gier na nośnikach pamięci, takich jak DVD i urządzenia pamięci masowej USB. Plik SID jest tworzony za pomocą narzędzia do tworzenia kopii zapasowych Steam i jest podobny do formatu pliku [CSD](/pl/ gra / csd /) do przechowywania kopii zapasowej gry.
 
 ## Format pliku SID — więcej informacji
 

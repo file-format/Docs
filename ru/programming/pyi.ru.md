@@ -24,5 +24,5 @@ lastmod: 2022-05-09
 ## Использованная литература ##
 
 * [Интерфейсы - Java](https://en.wikipedia.org/wiki/Interface_(Java))
-* [Интерпретаторы PYM] (https://github.com/interpreters/pym)
+* [Интерпретаторы PYM](https://github.com/interpreters/pym)
 

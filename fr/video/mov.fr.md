@@ -97,9 +97,9 @@ Plusieurs lecteurs multimédias et éditeurs vidéo, y compris le lecteur multim
 
 ## API open source pour les fichiers MOV
 
-* [React Native API pour convertir MOV en MP4] (https://github.com/taltultc/react-native-mov-to-mp4)
-* [API Python pour réparer les fichiers MOV] (https://github.com/nrosenstein-stuff/movrepair)
-* [API Ruby pour convertir MOV en GIF] (https://github.com/skygroundmedia/convert-mov-to-gif)
+* [React Native API pour convertir MOV en MP4](https://github.com/taltultc/react-native-mov-to-mp4)
+* [API Python pour réparer les fichiers MOV](https://github.com/nrosenstein-stuff/movrepair)
+* [API Ruby pour convertir MOV en GIF](https://github.com/skygroundmedia/convert-mov-to-gif)
 
 ## Références
 

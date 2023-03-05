@@ -82,6 +82,6 @@ Los datos de reubicación son una o más listas de estructuras de 0x8 bytes. El 
 ## Referencias
 
 
-* [Formato de módulo de objeto reubicable] (https://en.wikipedia.org/wiki/Relocatable_Object_Module_Format)
+* [Formato de módulo de objeto reubicable](https://en.wikipedia.org/wiki/Relocatable_Object_Module_Format)
 
 

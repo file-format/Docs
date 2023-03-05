@@ -19,7 +19,7 @@
 
 ## Ce este un fișier FODT?
 
-Un fișier cu extensia .fodt este un document text salvat în format de fișier OpenDocument plat [XML](/ro/web/xml/). Spre deosebire de fișierele .odt, care sunt salvate în format de fișier container [.zip](/ro/compression/zip/), fișierele FODT sunt stocate pe disc ca fișiere care pot fi citite de om care pot fi deschise în orice editor de text pentru vizualizare ca documente XML simple. . Standardul pentru documente de birou OpenDocument a fost dezvoltat de consorțiul industrial OASIS, deschizând o cale pentru ca oricine să îl implementeze de către oricine, fără nicio restricție. Alte formate populare de fișiere OpenDocument includ [.odt](/ro/word-processing/odt/), [.ott](/ro/word-processing/ott/), [.ods](/ro/spreadsheet/ods/), [.odp] (/ro/prezentare/odp/) și, în mod similar, altele.
+Un fișier cu extensia .fodt este un document text salvat în format de fișier OpenDocument plat [XML](/ro/web/xml/). Spre deosebire de fișierele .odt, care sunt salvate în format de fișier container [.zip](/ro/compression/zip/), fișierele FODT sunt stocate pe disc ca fișiere care pot fi citite de om care pot fi deschise în orice editor de text pentru vizualizare ca documente XML simple. . Standardul pentru documente de birou OpenDocument a fost dezvoltat de consorțiul industrial OASIS, deschizând o cale pentru ca oricine să îl implementeze de către oricine, fără nicio restricție. Alte formate populare de fișiere OpenDocument includ [.odt](/ro/word-processing/odt/), [.ott](/ro/word-processing/ott/), [.ods](/ro/spreadsheet/ods/), [.odp](/ro/prezentare/odp/) și, în mod similar, altele.
 
 ## Format de fișier FODT - Mai multe informații
 

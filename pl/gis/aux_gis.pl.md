@@ -26,5 +26,5 @@ Pliki AUX zawierają powiązane informacje, takie jak mapy kolorów, informacje 
 
 ## Bibliografia
 
-* [ERDAS IMAGINE — obsługiwane formaty plików] (https://www.hexagongeospatial.com/products/power-portfolio/erdas-imagine#imagine-technical-documents)
+* [ERDAS IMAGINE — obsługiwane formaty plików](https://www.hexagongeospatial.com/products/power-portfolio/erdas-imagine#imagine-technical-documents)
 

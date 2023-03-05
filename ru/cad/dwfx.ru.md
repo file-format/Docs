@@ -24,5 +24,5 @@ DWFx (Design Web Format XPS) представляет собой формати�
 
 ## использованная литература
 
-* [Дизайн-веб-формат] (https://en.wikipedia.org/wiki/Design_Web_Format)
+* [Дизайн-веб-формат](https://en.wikipedia.org/wiki/Design_Web_Format)
 

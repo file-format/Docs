@@ -22,7 +22,7 @@ Sie müssen mit den Erweiterungsdateien **PPTX** und **PPT** vertraut sein. Dies
 
 Gängige Dateierweiterungen für Präsentationen und die zugehörigen Dateiformate sind **[PPTX](/de/presentation/pptx/)**, **[PPT](/de/presentation/ppt/)** und **[ODP](/de/presentation/odp /)**.
 
-Haben Sie Fragen zu Präsentationsdateiformaten? Besuchen Sie unsere Community [Foren] (https://forum.fileformat.com/c/presentation), um vom Wissen der Dateiformatexperten zu profitieren.
+Haben Sie Fragen zu Präsentationsdateiformaten? Besuchen Sie unsere Community [Foren](https://forum.fileformat.com/c/presentation), um vom Wissen der Dateiformatexperten zu profitieren.
 
 ## Liste der Präsentationsdateierweiterungen und zugehörigen Dateiformate
 

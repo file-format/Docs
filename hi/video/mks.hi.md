@@ -68,5 +68,5 @@ DVB उपशीर्षक प्रारूप को टीवी संक
 
 ## संदर्भ ##
 
-- [माट्रोस्का उपशीर्षक] (https://www.matroska.org/technical/subtitles.html)
+- [माट्रोस्का उपशीर्षक](https://www.matroska.org/technical/subtitles.html)
 

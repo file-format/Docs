@@ -27,7 +27,7 @@ Die Dateierweiterung .opf kann in verschiedene Dateitypen eingeteilt werden. Es 
 
 ## Verweise ##
 
-* [Die OPF-Datei] (https://www.lynda.com/InDesign-tutorials/OPF-file/2803422/2247530-4.html)
+* [Die OPF-Datei](https://www.lynda.com/InDesign-tutorials/OPF-file/2803422/2247530-4.html)
 * [eBook öffnen](https://en.wikipedia.org/wiki/Open_eBook)
 
 

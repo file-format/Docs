@@ -37,7 +37,7 @@ Um den Inhalt oder die Dateien in einer APPX-Datei anzuzeigen, sollten die folge
 Es gibt zwei Methoden, die zum Erstellen von APPX-Dateien verwendet werden können.
 
 1. Verwenden von MakeApp.exe - [MakeApp.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) wird verwendet, um beide zu erstellen App-Pakete (.msix oder .appx) und App-Paket-Bundle-Dateien (.msixbundle oder .appxbundle). Darüber hinaus kann es Dateien aus einem App-Paket extrahieren. MakeApp.exe ist mit dem Windows 10 SDK verfügbar und kann über die Eingabeaufforderung verwendet werden.
-1. Verwenden von Microsoft Visual Studio – Entwickler [erstellen APPX-Dateien] (https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) normalerweise mit Microsoft Visual Studio. Sobald die Anwendungsentwicklung abgeschlossen ist und die App zur Veröffentlichung bereit ist, kann die APPX-Paketdatei erstellt werden, indem sie in Visual Studio veröffentlicht wird.
+1. Verwenden von Microsoft Visual Studio – Entwickler [erstellen APPX-Dateien](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) normalerweise mit Microsoft Visual Studio. Sobald die Anwendungsentwicklung abgeschlossen ist und die App zur Veröffentlichung bereit ist, kann die APPX-Paketdatei erstellt werden, indem sie in Visual Studio veröffentlicht wird.
 
 ## Verweise
 

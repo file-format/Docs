@@ -58,7 +58,7 @@ Tiêu đề bắt đầu bằng từ ma thuật 4 byte **!BDN** được biểu 
 |bidNextP (Unicode: 8 byte; ANSI: 4 byte)|BID trang tiếp theo. Các trang có bộ đếm đặc biệt để phân bổ giá trị bidIndex. Giá trị của bidIndex cho BID cho các trang được phân bổ từ bộ đếm này.
 |bidNextB (chỉ 4 byte ANSI): |Giá thầu tiếp theo. Giá trị này là bộ đếm đơn điệu cho biết BID sẽ được chỉ định cho khối được phân bổ tiếp theo. Giá trị BID tăng dần theo gia số 4. Để biết thêm chi tiết, xem phần 2.2.2.2.
 |dwUnique (4 byte)|Đây là một giá trị đơn điệu tăng dần được sửa đổi mỗi khi cấu trúc HEADER của tệp PST được sửa đổi. Chức năng của giá trị này là cung cấp một giá trị duy nhất và để đảm bảo rằng các CRC HEADER khác nhau sau mỗi lần sửa đổi tiêu đề.
-|rgnid[] (128 byte)|Một mảng cố định gồm 32 NID, mỗi NID tương ứng với một trong 32 NID_TYPE có thể có (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE,NID_TYPE_ASSOC_MESSAGE)
+|rgnid[](128 byte)|Một mảng cố định gồm 32 NID, mỗi NID tương ứng với một trong 32 NID_TYPE có thể có (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE,NID_TYPE_ASSOC_MESSAGE)
 |qwChưa sử dụng (8 byte)|Dung lượng chưa sử dụng; PHẢI được đặt thành không. Chỉ định dạng tệp Unicode PST.
 |root (Unicode: 72 byte; ANSI: 40 byte)|Cấu trúc ROOT (mục 2.2.2.5).
 |dwAlign (4 byte)|Các byte căn chỉnh không được sử dụng; PHẢI được đặt thành không. Chỉ định dạng tệp Unicode PST.

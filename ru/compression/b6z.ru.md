@@ -37,5 +37,5 @@
 
 ## использованная литература
 
-* [B6Zip] (http://b6zip.com)
+* [B6Zip](http://b6zip.com)
 

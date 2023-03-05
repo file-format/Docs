@@ -29,6 +29,6 @@
 
 ## использованная литература
 
-* [Расширения файлов DAZ 3D] (http://docs.daz3d.com/doku.php/public/software/dazstudio/4/referenceguide/tech_articles/file_extensions/start)
-* [3D-форумы DAZ] (https://www.daz3d.com/forums/)
+* [Расширения файлов DAZ 3D](http://docs.daz3d.com/doku.php/public/software/dazstudio/4/referenceguide/tech_articles/file_extensions/start)
+* [3D-форумы DAZ](https://www.daz3d.com/forums/)
 

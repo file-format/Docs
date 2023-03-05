@@ -92,6 +92,6 @@ MS Visio की कुछ बुनियादी विशेषताएं/�
 
 ## संदर्भ ##
 
-* [Microsoft Visio - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/Microsoft_Visio)
+* [Microsoft Visio - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Microsoft_Visio)
 * [Visio ओवरव्यू - Microsoft द्वारा](https://www.microsoft.com/en-ww/microsoft-365/visio/flowchart-software)
 

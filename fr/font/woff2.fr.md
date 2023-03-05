@@ -61,5 +61,5 @@ L'en-tête WOFF comprend une signature d'identification qui indique le type de d
 
 
 ## Références
-* [Format de fichier w3 WOFF2] (https://www.w3.org/TR/WOFF2/)
+* [Format de fichier w3 WOFF2](https://www.w3.org/TR/WOFF2/)
 

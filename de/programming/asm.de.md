@@ -62,6 +62,6 @@ call    _ExitProcess@4
 
 ## Bezug ##
 
-* [Assembly Language - von Wikipedia] (https://en.wikipedia.org/wiki/Assembly_language)
+* [Assembly Language - von Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
 * [Assembly-Sprache – grundlegende Syntax](https://www.tutorialspoint.com/assembly_programming/assembly_basic_syntax.htm)
 

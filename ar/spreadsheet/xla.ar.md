@@ -23,10 +23,10 @@
 
 ## تنسيق ملف XLA
 
-تستند ملفات XLA إلى تنسيق البيانات الثنائية. ومع ذلك ، لا تتوفر معلومات إضافية حول مواصفات تنسيق الملف الخاص به. الافتراض العام هو أن XLA تتبع [[MS-XLS] - بنية تنسيق ملف Excel الثنائي] (https://msdn.microsoft.com/en-us/library/cc313154 (v # office.12) .aspx).
+تستند ملفات XLA إلى تنسيق البيانات الثنائية. ومع ذلك ، لا تتوفر معلومات إضافية حول مواصفات تنسيق الملف الخاص به. الافتراض العام هو أن XLA تتبع [[MS-XLS] - بنية تنسيق ملف Excel الثنائي](https://msdn.microsoft.com/en-us/library/cc313154 (v # office.12) .aspx).
 
 ## مراجع
 
-* [[MS-XLS] - بنية تنسيق ملف Excel الثنائي] (https://msdn.microsoft.com/en-us/library/cc313154 (v # office.12) .aspx)
-* [[MS-CFB] - تنسيق ملف ثنائي مركب] (https://msdn.microsoft.com/en-us/library/dd942138.aspx)
+* [[MS-XLS] - بنية تنسيق ملف Excel الثنائي](https://msdn.microsoft.com/en-us/library/cc313154 (v # office.12) .aspx)
+* [[MS-CFB] - تنسيق ملف ثنائي مركب](https://msdn.microsoft.com/en-us/library/dd942138.aspx)
 

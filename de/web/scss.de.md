@@ -24,7 +24,7 @@ Da die Designs von Websites immer komplexer werden, entstehen große [CSS](/de/w
 
 ## So verwenden Sie SCSS-Dateien ##
 
-SCSS-Dateien sind nicht wie CSS direkt im [HTML](/de/web/html/)-Dokument enthalten. Stattdessen werden SCSS-Dateien in CSS-Dateien konvertiert, die in HTML-Dateien enthalten sind. Um SCSS auf Ihrem System zu installieren, befolgen Sie die Anweisungen auf der [offiziellen Sass-Website] (https://sass-lang.com/install).
+SCSS-Dateien sind nicht wie CSS direkt im [HTML](/de/web/html/)-Dokument enthalten. Stattdessen werden SCSS-Dateien in CSS-Dateien konvertiert, die in HTML-Dateien enthalten sind. Um SCSS auf Ihrem System zu installieren, befolgen Sie die Anweisungen auf der [offiziellen Sass-Website](https://sass-lang.com/install).
 Um SCSS in CSS zu konvertieren, können Sie entweder eine bereits gespeicherte SCSS-Datei konvertieren oder auf Änderungen achten und konvertieren, während die Datei gespeichert wird. Die Befehle für beide sind unten angegeben.
 
 ### Einmal konvertieren ###

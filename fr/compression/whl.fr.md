@@ -46,6 +46,6 @@ cryptography-2.9.2-cp35-abi3-macosx_10_9_x86_64.whl
 
 ## Références
 
-* [Qu'est-ce que Python Wheels et pourquoi devriez-vous vous en soucier ?] (https://realpython.com/python-wheels/)
+* [Qu'est-ce que Python Wheels et pourquoi devriez-vous vous en soucier ?](https://realpython.com/python-wheels/)
 * [Roue Python](https://pypi.org/project/wheel/)
 

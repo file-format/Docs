@@ -66,6 +66,6 @@ Con la desaprobación de JWS, las aplicaciones desarrolladas en base a la tecnol
 ## Referencias ##
 
 * [¿Qué es Java Web Start y cómo se inicia?](https://www.java.com/en/download/help/java_webstart.html)
-* [Ejecute JNLP con la última versión de Java] (https://openwebstart.com/)
+* [Ejecute JNLP con la última versión de Java](https://openwebstart.com/)
 * [Java Web Start - Wikipedia](https://en.wikipedia.org/wiki/Java_Web_Start)
 

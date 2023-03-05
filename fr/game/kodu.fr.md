@@ -19,7 +19,7 @@
 
 ## Qu'est-ce qu'un fichier KODU ?
 
-Un fichier .kudo est un fichier de jeu 3D créé et enregistré avec Microsoft [logiciel Kodu Game Lab] (https://www.kodugamelab.com/) qui est un environnement de développement de jeux éducatifs. Il est conçu pour enseigner aux enfants les principes de base de la programmation et permet aux créateurs de programmer les comportements des éléments du jeu à l'aide d'un langage de programmation visuel. Les fichiers Kodu peuvent être enregistrés et partagés avec d'autres utilisateurs, mais ne peuvent être ouverts et exécutés que dans le logiciel Kodu.
+Un fichier .kudo est un fichier de jeu 3D créé et enregistré avec Microsoft [logiciel Kodu Game Lab](https://www.kodugamelab.com/) qui est un environnement de développement de jeux éducatifs. Il est conçu pour enseigner aux enfants les principes de base de la programmation et permet aux créateurs de programmer les comportements des éléments du jeu à l'aide d'un langage de programmation visuel. Les fichiers Kodu peuvent être enregistrés et partagés avec d'autres utilisateurs, mais ne peuvent être ouverts et exécutés que dans le logiciel Kodu.
 
 ## Format de fichier KODU - Plus d'informations
 
@@ -27,5 +27,5 @@ Les fichiers Kodu sont des fichiers binaires, enregistrés au format de fichier 
 
 ## Références
 
-* [Kodu Game Lab] (https://www.kodugamelab.com/)
+* [Kodu Game Lab](https://www.kodugamelab.com/)
 

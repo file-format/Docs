@@ -27,5 +27,5 @@
 
 ## संदर्भ
 
-* [एडीआर फाइलों को मर्ज करें] (https://superuser.com/questions/471959/how-do-i-merge-several-opera-adr-bookmark-files-to-one-single-file)
+* [एडीआर फाइलों को मर्ज करें](https://superuser.com/questions/471959/how-do-i-merge-several-opera-adr-bookmark-files-to-one-single-file)
 

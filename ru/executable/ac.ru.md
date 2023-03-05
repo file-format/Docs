@@ -46,7 +46,7 @@ Autotools — это набор связанных пакетов, которы�
 - Программа make использует Makefile для компиляции программы.
 
 ## использованная литература
-* [Программное обеспечение Autoconf] (https://www.gnu.org/software/autoconf/)
-* [Основы автоинструментов] (https://devmanual.gentoo.org/general-concepts/autotools/index.html)
+* [Программное обеспечение Autoconf](https://www.gnu.org/software/autoconf/)
+* [Основы автоинструментов](https://devmanual.gentoo.org/general-concepts/autotools/index.html)
 
 

@@ -23,5 +23,5 @@ lastmod: 2022-04-06
 
 ## مراجع ##
 
-* [Mercurial SCM - ملف التصحيح] (https://www.mercurial-scm.org/wiki/PatchFile)
+* [Mercurial SCM - ملف التصحيح](https://www.mercurial-scm.org/wiki/PatchFile)
 

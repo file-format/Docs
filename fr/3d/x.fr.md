@@ -85,5 +85,5 @@ L'en-tête de longueur variable est obligatoire et doit se trouver au début du 
 ## Références
 
 * [X Files Legacy](https://docs.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
-* [Référence du format de fichier DirectX 9] (https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
+* [Référence du format de fichier DirectX 9](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
 

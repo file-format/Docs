@@ -71,6 +71,6 @@ Le lecteur dispose d'un mode plein écran pour la lecture et prend en charge de 
 ## Références
 
 - [RPC - Wikipédia](https://en.wikipedia.org/wiki/PRC_(file_format))
-- [Spécification du format RPC] (https://web.archive.org/web/20081202034541/http://livedocs.adobe.com/acrobat_sdk/9/Acrobat9_HTMLHelp/API_References/PRCReference/PRC_Format_Specification/index.html)
+- [Spécification du format RPC](https://web.archive.org/web/20081202034541/http://livedocs.adobe.com/acrobat_sdk/9/Acrobat9_HTMLHelp/API_References/PRCReference/PRC_Format_Specification/index.html)
 - [Comparaison des formats de livres électroniques - Par Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_e-book_formats)
 

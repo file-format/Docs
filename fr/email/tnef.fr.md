@@ -52,7 +52,7 @@ En plus de la simple transmission de messages, l'application originale de TNEF d
 
 ## Références
 
-* [Format d'encapsulation neutre pour le transport] (https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
+* [Format d'encapsulation neutre pour le transport](https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
 * [Adresses e-mail et carnets d'adresses dans Exchange Server](https://docs.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# serveur d'échange-2019)
 * [[MS-OXTNEF] : algorithme de données au format d'encapsulation neutre de transport (TNEF)](https://msdn.microsoft.com/en-us/library/cc425498(v#exchg.80).aspx)
 

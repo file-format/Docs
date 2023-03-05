@@ -19,7 +19,7 @@
 
 ## Co je soubor OTS?
 
-Soubor s příponou .ots je soubor šablony OpenDocument Spreadsheet Template, který je vytvořen pomocí aplikačního softwaru Calc, který je součástí Apache OpenOffice. Aplikační software Calc je obdobou Excelu dostupného v Microsoft Office. Formát souboru OTS se používá k vytváření šablon, které obsahují předdefinovaná nastavení týkající se stylů, písma, dat, rozložení tabulky a formátování. Soubory OTF mají `mime-type application/vnd.oasis.opendocument.spreadsheet-template`. Tyto soubory šablon lze použít jako výchozí bod pro generování a ukládání skutečných datových souborů, které jsou uloženy ve [formát souboru ODS] (/cs/spreadsheet/ods/). Soubory OTS lze používat s aplikacemi, jako jsou OpenOffice a LibreOffice.
+Soubor s příponou .ots je soubor šablony OpenDocument Spreadsheet Template, který je vytvořen pomocí aplikačního softwaru Calc, který je součástí Apache OpenOffice. Aplikační software Calc je obdobou Excelu dostupného v Microsoft Office. Formát souboru OTS se používá k vytváření šablon, které obsahují předdefinovaná nastavení týkající se stylů, písma, dat, rozložení tabulky a formátování. Soubory OTF mají `mime-type application/vnd.oasis.opendocument.spreadsheet-template`. Tyto soubory šablon lze použít jako výchozí bod pro generování a ukládání skutečných datových souborů, které jsou uloženy ve [formát souboru ODS](/cs/spreadsheet/ods/). Soubory OTS lze používat s aplikacemi, jako jsou OpenOffice a LibreOffice.
 
 ## Formát souboru OTS
 

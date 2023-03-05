@@ -23,7 +23,7 @@ Un archivo con extensión .stml es una página web con instrucciones del lado de
 
 ## Formato de archivo STML
 
-STML se basa en un formato de archivo de texto ascii simple que es legible por humanos. Sin embargo, sigue la sintaxis definida y ejercitada mediante los [comandos SSI] (https://www.w3.org/Jigsaw/Doc/User/SSI.html) que se ejecutan en el lado del servidor. Como cualquier otro lenguaje de secuencias de comandos del lado del servidor, STML puede usar los comandos del lado del servidor para realizar tareas como el contador de visitantes de la página, el calendario de la página web, recuperar registros de la base de datos y otros similares.
+STML se basa en un formato de archivo de texto ascii simple que es legible por humanos. Sin embargo, sigue la sintaxis definida y ejercitada mediante los [comandos SSI](https://www.w3.org/Jigsaw/Doc/User/SSI.html) que se ejecutan en el lado del servidor. Como cualquier otro lenguaje de secuencias de comandos del lado del servidor, STML puede usar los comandos del lado del servidor para realizar tareas como el contador de visitantes de la página, el calendario de la página web, recuperar registros de la base de datos y otros similares.
 
 ## Ejemplo STML
 

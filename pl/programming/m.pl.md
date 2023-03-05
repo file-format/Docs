@@ -48,7 +48,7 @@ TimeToGround(100)
 
 ## Bibliografia
 
-* [Matlab — obsługiwane formaty plików] (https://www.mathworks.com/help/matlab/standard-file-formats.html)
+* [Matlab — obsługiwane formaty plików](https://www.mathworks.com/help/matlab/standard-file-formats.html)
 * [Korzystanie z Matlaba](https://www.maths.unsw.edu.au/sites/default/files/MatlabSelfPaced/lesson0/MatlabLesson0_Mfiles.html)
 
 # M — Plik implementacji celu-C

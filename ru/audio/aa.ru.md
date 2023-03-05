@@ -44,5 +44,5 @@ Amazon хранит звук, и эти файлы можно использов
 
 ## Использованная литература ##
 
-* [АА — Википедия] (https://en.wikipedia.org/wiki/Audible_(service))
+* [АА — Википедия](https://en.wikipedia.org/wiki/Audible_(service))
 

@@ -32,6 +32,6 @@ FODG est basé sur le format de fichier XML d'OpenDocument qui est conforme au f
 
 ## Références ##
 * [Future Specifications for v 1.3 Standardization ](https://docs.oasis-open.org/office/OpenDocument/v1.3/cs01/OpenDocument-v1.3-cs01.zip)
-* [Format de document ouvert OASIS pour les applications Office] (https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
+* [Format de document ouvert OASIS pour les applications Office](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
 * [Format OpenDocument - Wikipédia](https://en.wikipedia.org/wiki/OpenDocument)
 

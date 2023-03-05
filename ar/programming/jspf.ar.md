@@ -68,5 +68,5 @@
 
 ## مراجع
 
-* [اصطلاحات التعليمات البرمجية لصفحات JavaServer] (https://www.oracle.com/technical-resources/articles/javase/code-convention.html)
+* [اصطلاحات التعليمات البرمجية لصفحات JavaServer](https://www.oracle.com/technical-resources/articles/javase/code-convention.html)
 

@@ -16,7 +16,7 @@ lastmod: 2021-09-30
 
 ## ما هو ملف SPC؟
 
-الملف بامتداد .spc هو ملف شهادة أمان رقمي تم إنشاؤه بتنسيق PKCS # 7. العديد من التطبيقات ، قم بإنشاء ملفات الشهادات هذه لتبادل آمن للمعلومات. قليل من هذه التطبيقات تشمل OpenSSL وتطبيق Signcode.exe المضمن في Microsoft .NET Framework. مثل ملفات الشهادات الأخرى مثل [.cer] (/ar/ web / cer /) و [.p7c] (/ar/ web / p7c /) و [. ssp] (/ar/ web / ssp /) ، تحتوي ملفات SPC على المفتاح العام المعلومات المشفرة بمفتاح خاص. يمكن مشاركة هذا المفتاح العام مع المستخدمين علنًا مع الحفاظ على سرية المفتاح الخاص.
+الملف بامتداد .spc هو ملف شهادة أمان رقمي تم إنشاؤه بتنسيق PKCS # 7. العديد من التطبيقات ، قم بإنشاء ملفات الشهادات هذه لتبادل آمن للمعلومات. قليل من هذه التطبيقات تشمل OpenSSL وتطبيق Signcode.exe المضمن في Microsoft .NET Framework. مثل ملفات الشهادات الأخرى مثل [.cer](/ar/ web / cer /) و [.p7c](/ar/ web / p7c /) و [. ssp](/ar/ web / ssp /) ، تحتوي ملفات SPC على المفتاح العام المعلومات المشفرة بمفتاح خاص. يمكن مشاركة هذا المفتاح العام مع المستخدمين علنًا مع الحفاظ على سرية المفتاح الخاص.
 
 ## تنسيق ملف SPC - مزيد من المعلومات
 
@@ -24,5 +24,5 @@ lastmod: 2021-09-30
 
 ## مراجع
 
-* [PKCS 7] (https://en.wikipedia.org/wiki/PKCS_7)
-* [مرجع SSP] (https://scalate.github.io/scalate/documentation/ssp-reference.html)
+* [PKCS 7](https://en.wikipedia.org/wiki/PKCS_7)
+* [مرجع SSP](https://scalate.github.io/scalate/documentation/ssp-reference.html)

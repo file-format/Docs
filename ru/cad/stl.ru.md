@@ -90,6 +90,6 @@ end
 
 ## Использованная литература ##
 
-* [Формат STL] (http://www.fabbers.com/tech/STL_Format)
-* [STL — из Википедии] (https://en.wikipedia.org/wiki/STL_(file_format))
+* [Формат STL](http://www.fabbers.com/tech/STL_Format)
+* [STL — из Википедии](https://en.wikipedia.org/wiki/STL_(file_format))
 

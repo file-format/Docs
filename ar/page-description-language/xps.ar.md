@@ -19,13 +19,13 @@
 
 ## ما هو ملف XPS؟ ##
 
-يمثل ملف XPS ملفات تخطيط الصفحة التي تستند إلى مواصفات ورق XML التي أنشأتها Microsoft. تم تطويره كبديل لتنسيق ملف EMF وهو مشابه لتنسيق ملف [PDF] (/ar/ pdf /) ، ولكنه يستخدم XML في التخطيط والمظهر وطباعة المعلومات الخاصة بالمستند. في الواقع ، من المبرر أن نقول إن XPS هي محاولة على PDF ، لكن لا يمكن أن تحظى بشعبية كافية كما يمتلكها PDF لأسباب عديدة. توفر Microsoft XPS Document Writer افتراضيًا بدءًا من Windows 7 فصاعدًا لإنشاء ملفات XPS. يمكن إنشاء ملفات XPS عن طريق تحديد "Microsoft XPS Document Writer" كطابعة أثناء طباعة المستند.
+يمثل ملف XPS ملفات تخطيط الصفحة التي تستند إلى مواصفات ورق XML التي أنشأتها Microsoft. تم تطويره كبديل لتنسيق ملف EMF وهو مشابه لتنسيق ملف [PDF](/ar/ pdf /) ، ولكنه يستخدم XML في التخطيط والمظهر وطباعة المعلومات الخاصة بالمستند. في الواقع ، من المبرر أن نقول إن XPS هي محاولة على PDF ، لكن لا يمكن أن تحظى بشعبية كافية كما يمتلكها PDF لأسباب عديدة. توفر Microsoft XPS Document Writer افتراضيًا بدءًا من Windows 7 فصاعدًا لإنشاء ملفات XPS. يمكن إنشاء ملفات XPS عن طريق تحديد "Microsoft XPS Document Writer" كطابعة أثناء طباعة المستند.
 
 يتم دمج عارضات XPS كجزء من Windows Vista و Windows 7 و Windows 8 و Internet Explorer 6 أو إصدار أحدث. تصبح ملفات XPS للقراءة فقط بمجرد إنشائها. هذا يضيف إلى ثقة المستخدم في المستندات المستلمة المرسلة على شكل XPS للتأكد من صحة المستند. يمكن أن يحتوي مستند XPS على صفحة واحدة أو أكثر كما تم تحويلها من المستند الأصلي.
 
 ## نبذة تاريخية ##
 
-قدمت Microsoft مواصفات XPS إلى Ecma International. في يونيو 2007 ، تم إنشاء اللجنة الفنية 46 لـ Ecma (TC46) لتطوير معيار يعتمد على مواصفات ورق OpenXPS. وافقت Ecma International على معيار Ecma (ECMA-388) [مواصفات XPS] (http://www.ecma-international.org/publications/standards/Ecma-388.htm) في يونيو 2009 في الدورة السابعة والتسعين للجمعية العامة.
+قدمت Microsoft مواصفات XPS إلى Ecma International. في يونيو 2007 ، تم إنشاء اللجنة الفنية 46 لـ Ecma (TC46) لتطوير معيار يعتمد على مواصفات ورق OpenXPS. وافقت Ecma International على معيار Ecma (ECMA-388) [مواصفات XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm) في يونيو 2009 في الدورة السابعة والتسعين للجمعية العامة.
 
 ## تنسيق ملف XPS ##
 
@@ -48,13 +48,13 @@
 
 يتضمن تنسيق مستند XPS مجموعة محددة جيدًا من الأجزاء والعلاقات ، كل منها يحقق غرضًا معينًا في المستند. يوسع التنسيق أيضًا ميزات الحزمة ، بما في ذلك التوقيعات الرقمية والصور المصغرة والتداخل.
 
-يبدو مستند XPS النموذجي على النحو التالي ويمكن تحليله في ضوء تنسيق ملف XPS [المواصفات] (https://www.ecma-international.org/activities/XML٪20Paper٪20Specification/XPS٪20Standard.pdf).
+يبدو مستند XPS النموذجي على النحو التالي ويمكن تحليله في ضوء تنسيق ملف XPS [المواصفات](https://www.ecma-international.org/activities/XML٪20Paper٪20Specification/XPS٪20Standard.pdf).
 
 {{< figure src="../XPS-2.png" alt="تنسيق ملف XPS" >}}
 
 
 ## مراجع ##
 
-* [مواصفات تنسيق ملف XPS] (http://www.ecma-international.org/publications/standards/Ecma-388.htm)
-* [XPS - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
+* [مواصفات تنسيق ملف XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+* [XPS - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

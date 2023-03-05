@@ -35,7 +35,7 @@ AVA файловете всъщност принадлежат на персий
 
 ## Препратки
 
-* [Иранците се наслаждават на персийската литература на четеца на електронни книги] (https://www.tehrantimes.com/news/423108/Iranians-enjoy-Persian-literature-on-e-book-reader)
+* [Иранците се наслаждават на персийската литература на четеца на електронни книги](https://www.tehrantimes.com/news/423108/Iranians-enjoy-Persian-literature-on-e-book-reader)
 * [Четенето на електронни книги става по-лесно, по-евтино в Иран](https://financialtribune.com/articles/sci-tech/80138/ebook-reading-made-easier-cheaper-in-iran)
 
 

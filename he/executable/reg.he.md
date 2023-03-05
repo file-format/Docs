@@ -64,6 +64,4 @@ Windows Registry Editor Version 5.00
 ## הפניות
 
 * [רישום Windows- מאת ויקיפדיה](https://en.wikipedia.org/wiki/Windows_Registry)
-* [כיצד להוסיף, לשנות או למחוק מפתחות משנה וערכי רישום באמצעות קובץ ‎.reg](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete- מפתחות-משנה-רישום-וערכים-על-ידי-שימוש ב-a-reg-file-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23)
-
-
+* [כיצד להוסיף, לשנות או למחוק מפתחות משנה וערכי רישום באמצעות קובץ ‎.reg](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete-registry-subkeys-and-values-by-using-a-reg-file-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23)

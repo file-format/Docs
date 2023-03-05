@@ -37,5 +37,5 @@ Los detalles completos sobre el formato de archivo PPT se pueden encontrar en el
 * [Especificaciones del formato de archivo PPT](https://msdn.microsoft.com/en-us/library/office/cc313106(v#office.12).aspx)
 * [[MS-OSHARED]: Estructuras de objetos y tipos de datos comunes de Office](https://msdn.microsoft.com/en-us/library/office/cc313156(v#office.12).aspx)
 * [[MS-OFFCRYPTO] - Estructura de criptografía de documentos de Office](https://msdn.microsoft.com/en-us/library/office/cc313071(v#office.12).aspx)
-* [Formatos de archivo de PowerPoint] (https://en.wikipedia.org/wiki/Microsoft_PowerPoint#File_formats)
+* [Formatos de archivo de PowerPoint](https://en.wikipedia.org/wiki/Microsoft_PowerPoint#File_formats)
 

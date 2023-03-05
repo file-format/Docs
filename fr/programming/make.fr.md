@@ -39,5 +39,5 @@ hello world
 
 ## Références
 * [XCode et Make - Forums Apple](https://developer.apple.com/forums/thread/657458)
-* [Guide d'Object-C] (https://blog.teamtreehouse.com/beginners-guide-objective-c-classes-objects)
+* [Guide d'Object-C](https://blog.teamtreehouse.com/beginners-guide-objective-c-classes-objects)
 

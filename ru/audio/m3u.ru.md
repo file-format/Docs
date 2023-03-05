@@ -94,5 +94,5 @@ C:\Music\ExampleMusic.mp3
 ## Использованная литература ##
 
 - [M3U - Википедия](https://en.wikipedia.org/wiki/M3U)
-- [Прямая трансляция HTTP] (https://tools.ietf.org/html/rfc8216)
+- [Прямая трансляция HTTP](https://tools.ietf.org/html/rfc8216)
 

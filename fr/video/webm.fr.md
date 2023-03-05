@@ -70,5 +70,5 @@ Les informations de recherche suivantes sont prises en charge.
 ## Références
 
 * [WebM](https://www.webmproject.org/)
-* [Référentiels de code WebM] (https://www.webmproject.org/code/#webp-repositories)
+* [Référentiels de code WebM](https://www.webmproject.org/code/#webp-repositories)
 

@@ -193,5 +193,5 @@ JSP पेज के इस सेक्शन में JSP पेज की HT
 ## संदर्भ
 
 * [जावासर्वर पेजों के लिए कोड कन्वेंशन](https://www.oracle.com/technical-resources/articles/javase/code-convention.html)
-* [जेएसपी ट्यूटोरियल] (https://www.javatpoint.com/jsp-tutorial)
+* [जेएसपी ट्यूटोरियल](https://www.javatpoint.com/jsp-tutorial)
 

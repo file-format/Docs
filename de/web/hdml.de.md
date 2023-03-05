@@ -22,7 +22,7 @@ Eine Datei mit der Erweiterung .hdml (Handheld Device Markup Language) ist eine 
 
 ## HDML-Dateiformat – Weitere Informationen
 
-HDML ist eine Markup-Sprache für Handheld-Geräte, die ähnlich wie HTML auf Markup-Tags basiert. HDML wurde dem W3C zur Standardisierung vorgelegt, wurde aber nie zum Standard. Seine Dateiformatspezifikationen sind jedoch auf der [W3-Website] (https://www.w3.org/TR/NOTE-Submission-HDML-spec.html) als Referenz verfügbar. Die [Syntax für die Sprache HDML](https://www.w3.org/TR/hdml20-5.html#HEADING5-0) ist als Referenz für Entwickler verfügbar und kann für die Entwicklung von Beispielanwendungen verwendet werden.
+HDML ist eine Markup-Sprache für Handheld-Geräte, die ähnlich wie HTML auf Markup-Tags basiert. HDML wurde dem W3C zur Standardisierung vorgelegt, wurde aber nie zum Standard. Seine Dateiformatspezifikationen sind jedoch auf der [W3-Website](https://www.w3.org/TR/NOTE-Submission-HDML-spec.html) als Referenz verfügbar. Die [Syntax für die Sprache HDML](https://www.w3.org/TR/hdml20-5.html#HEADING5-0) ist als Referenz für Entwickler verfügbar und kann für die Entwicklung von Beispielanwendungen verwendet werden.
 
 ## HDML-Elemente
 
@@ -39,5 +39,5 @@ Im Folgenden finden Sie eine Reihe von Elementen, die eine Laufzeitumgebung für
 ## Verweise
 
 * [HDML – Wikipedia](https://en.wikipedia.org/wiki/Handheld_Device_Markup_Language)
-* [HDML-Spezifikationen – W3-Schulen] (https://www.w3.org/TR/NOTE-Submission-HDML-spec.html)
+* [HDML-Spezifikationen – W3-Schulen](https://www.w3.org/TR/NOTE-Submission-HDML-spec.html)
 

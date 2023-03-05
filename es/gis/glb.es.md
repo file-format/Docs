@@ -27,5 +27,5 @@ Los archivos GLB almacenan información sobre texturas, imágenes y otros archiv
 
 ## Referencias ##
 
-* [AGI: la ventaja de gltf] (https://www.agi.com/products/stk/the-gltf-advantage)
+* [AGI: la ventaja de gltf](https://www.agi.com/products/stk/the-gltf-advantage)
 

@@ -75,6 +75,6 @@ function pm_install_check() {
 
 ## Références
 
-* [Forfaits plats OSX] (https://matthew-brett.github.io/docosx/flat_packages.html)
+* [Forfaits plats OSX](https://matthew-brett.github.io/docosx/flat_packages.html)
 * [Gestionnaire de packages MPKG C++](https://github.com/puellavulnerata/mpkg)
 

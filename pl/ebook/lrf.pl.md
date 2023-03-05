@@ -27,7 +27,7 @@ Typ pliku LRF jest przede wszystkim kojarzony z Line Rider przez [inXile Enterta
 
 ## Format pliku LRF
 
-Szczegółowe specyfikacje formatu plików LRF są dostępne w [archiwum internetowym] (https://web.archive.org/web/20110809071744/http://www.sven.de/librie/Librie/LrfFormat). Plik LRF składa się z:
+Szczegółowe specyfikacje formatu plików LRF są dostępne w [archiwum internetowym](https://web.archive.org/web/20110809071744/http://www.sven.de/librie/Librie/LrfFormat). Plik LRF składa się z:
 * nagłówek
 * kilka obiektów
 * indeks obiektu.
@@ -61,6 +61,6 @@ Wszystkie te wartości są w kolejności Intel (najpierw LSB).
 
 ## Bibliografia
 
-* [Format pliku LRF] (https://web.archive.org/web/20110809071744/http://www.sven.de/librie/Librie/LrfFormat)
+* [Format pliku LRF](https://web.archive.org/web/20110809071744/http://www.sven.de/librie/Librie/LrfFormat)
 * [BBeB – z Wikipedii](https://en.wikipedia.org/wiki/BBeB)
 

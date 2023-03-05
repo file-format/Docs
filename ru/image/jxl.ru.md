@@ -31,10 +31,10 @@ JXL означает JPEG XL. Это файл изображения, котор
 
 ## Стандартизация JXL
 
-* Часть 1 — 30 марта 2022 г. — [ISO/IEC 18181-1] (https://www.iso.org/standard/77977.html) — Базовая система кодирования
-* Часть 2 — 13 октября 2021 г. — [ISO/IEC 18181-2] (https://www.iso.org/standard/80617.html) — Формат файла
-* Часть 3 — 3 октября 2022 г. — [ISO/IEC 18181-3] (https://www.iso.org/standard/80618.html) — Тестирование на соответствие
-* Часть 4 — 5 августа 2022 г. — [ISO/IEC 18181-4] (https://www.iso.org/standard/80619.html) — справочное программное обеспечение
+* Часть 1 — 30 марта 2022 г. — [ISO/IEC 18181-1](https://www.iso.org/standard/77977.html) — Базовая система кодирования
+* Часть 2 — 13 октября 2021 г. — [ISO/IEC 18181-2](https://www.iso.org/standard/80617.html) — Формат файла
+* Часть 3 — 3 октября 2022 г. — [ISO/IEC 18181-3](https://www.iso.org/standard/80618.html) — Тестирование на соответствие
+* Часть 4 — 5 августа 2022 г. — [ISO/IEC 18181-4](https://www.iso.org/standard/80619.html) — справочное программное обеспечение
 
 ## Как конвертировать JXL
 
@@ -53,5 +53,5 @@ JXL означает JPEG XL. Это файл изображения, котор
 
 ## использованная литература
 
-* [JXL — Википедия] (https://en.wikipedia.org/wiki/JPEG_XL)
+* [JXL — Википедия](https://en.wikipedia.org/wiki/JPEG_XL)
 

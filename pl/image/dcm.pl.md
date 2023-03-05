@@ -68,5 +68,5 @@ Warstwa formatu multimediów udostępnia następujące informacje o zarządzaniu
 
 ## Bibliografia ##
 * [Standard DICOM](https://www.dicomstandard.org/current/)
-* [Format pliku DICOM] (http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [Format pliku DICOM](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

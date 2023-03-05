@@ -19,7 +19,7 @@
 
 ## ما هو ملف QGZ؟
 
-تنسيق الملف ** QGZ ** هو أرشيف مضغوط يحتوي على ملف [QGS] (https://docs.fileformat.com/gis/qgs/) وملف QGD. حيث إن ملف QGD هو قاعدة بيانات sqlite لمشروع qgis الذي يتكون من بيانات مساعدة للمشروع. إذا لم تكن هناك بيانات مساعدة ، فسيظل ملف QGD فارغًا.
+تنسيق الملف ** QGZ ** هو أرشيف مضغوط يحتوي على ملف [QGS](https://docs.fileformat.com/gis/qgs/) وملف QGD. حيث إن ملف QGD هو قاعدة بيانات sqlite لمشروع qgis الذي يتكون من بيانات مساعدة للمشروع. إذا لم تكن هناك بيانات مساعدة ، فسيظل ملف QGD فارغًا.
 
 ## تفاصيل حول تنسيق ملف QGZ
 
@@ -30,6 +30,6 @@
 
 ## مراجع
 
-* [QGZ - تنسيق ملف مشروع افتراضي جديد لـ QGIS] (https://oslandia.com/en/2018/06/01/qgz-a-new-default-project-file-format-for-qgis/)
-* [تنسيقات ملفات QGIS] (https://docs.qgis.org/3.16/en/docs/user_manual/appendices/qgis_file_formats.html)
+* [QGZ - تنسيق ملف مشروع افتراضي جديد لـ QGIS](https://oslandia.com/en/2018/06/01/qgz-a-new-default-project-file-format-for-qgis/)
+* [تنسيقات ملفات QGIS](https://docs.qgis.org/3.16/en/docs/user_manual/appendices/qgis_file_formats.html)
 

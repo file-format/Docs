@@ -29,6 +29,6 @@ Les formats comme [CUE](/fr/disc-and-media/cue),[BIN](/fr/disc-and-media/bin/), 
 
 ## Références
 
-* [CD virtuel - Virtualisez tous vos supports optiques] (https://www.virtualcd-online.com/)
+* [CD virtuel - Virtualisez tous vos supports optiques](https://www.virtualcd-online.com/)
 
 

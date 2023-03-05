@@ -23,7 +23,7 @@ Eine Datei mit der Erweiterung .ma ist eine 3D-Projektdatei, die mit der Anwendu
 
 ## MA-Dateiformat
 
-MA-Dateien werden im ASCII-Textformat auf Disc gespeichert, im Gegensatz zu MB-Dateien, die im Binärdateiformat auf Disc gespeichert werden. Eine ausführliche Referenz für das MA-Dateiformat ist in der [Autodesk Maya-Dokumentation] (https://download.autodesk.com/us/maya/2010help/index.html?url=Glossary_M_ma_file_format.htm,topicNumber=d0e192001) verfügbar und kann nachgeschlagen werden bis als Entwicklerreferenz.
+MA-Dateien werden im ASCII-Textformat auf Disc gespeichert, im Gegensatz zu MB-Dateien, die im Binärdateiformat auf Disc gespeichert werden. Eine ausführliche Referenz für das MA-Dateiformat ist in der [Autodesk Maya-Dokumentation](https://download.autodesk.com/us/maya/2010help/index.html?url=Glossary_M_ma_file_format.htm,topicNumber=d0e192001) verfügbar und kann nachgeschlagen werden bis als Entwicklerreferenz.
 
 ### Kopfzeile der MA-Datei
 

@@ -30,7 +30,7 @@ Soubor THM obsahuje soubor XML, několik obrazových souborů ve formátech [.pn
 
 ## Jak vytvořit motivy Sony Ericsson?
 
-Software Sony Themes Creator lze použít ke generování nových motivů pro mobilní telefony Sony Ericsson. Uživatelé mohou při vytváření motivů postupovat podle Sony [Themes Creator Developer Guide] (https://developer.sony.com/develop/theme-creator/get-started).
+Software Sony Themes Creator lze použít ke generování nových motivů pro mobilní telefony Sony Ericsson. Uživatelé mohou při vytváření motivů postupovat podle Sony [Themes Creator Developer Guide](https://developer.sony.com/develop/theme-creator/get-started).
 
 ## Reference
 

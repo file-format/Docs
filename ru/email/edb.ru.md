@@ -80,5 +80,5 @@
  
 
 ## использованная литература
-* [Спецификации файла базы данных (EDB) Extensible Storage Engine (ESE)] (https://github.com/libyal/libesedb/tree/master/documentation)
+* [Спецификации файла базы данных (EDB) Extensible Storage Engine (ESE)](https://github.com/libyal/libesedb/tree/master/documentation)
 

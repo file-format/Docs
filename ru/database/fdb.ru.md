@@ -48,6 +48,6 @@
 Также можно открывать файлы .fdb с помощью программного обеспечения управления системой управления базами данных Firebird, поскольку это базовый механизм базы данных, используемый Microsoft Dynamics NAV.
 
 ## использованная литература
-* [Microsoft Dynamics NAV] (https://dynamics.microsoft.com/en-us/nav-erp/)
-* [Как добавить новые файлы базы данных в Dynamics NAV] (https://learn.microsoft.com/en-us/dynamics-nav/how-to--add-new-database-files)
+* [Microsoft Dynamics NAV](https://dynamics.microsoft.com/en-us/nav-erp/)
+* [Как добавить новые файлы базы данных в Dynamics NAV](https://learn.microsoft.com/en-us/dynamics-nav/how-to--add-new-database-files)
 

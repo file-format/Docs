@@ -26,7 +26,7 @@
 
 ## مواصفات تنسيق ملف M4P
 
-على غرار [M4A] (/ar/ audio / m4a /) ، تتكون ملفات M4P أيضًا من أجزاء متتالية. كل قطعة لها رأس 8 بايت ومقسمة فرعيًا على النحو التالي:
+على غرار [M4A](/ar/ audio / m4a /) ، تتكون ملفات M4P أيضًا من أجزاء متتالية. كل قطعة لها رأس 8 بايت ومقسمة فرعيًا على النحو التالي:
 - حجم القطعة 4 بايت (كبير النهاية ، البايت العالي أولاً)
 - نوع مقطع 4 بايت - أحد التوقيعات المحددة مسبقًا: "mdat" ، "moov" ، "pnot" ، "moof" ، "udta" ، "uuid" ، "free" ، "skip" ، "ftyp" ، "jP2" ، "عريض" ، "تحميل" ، "imap" ، "مات" ، "chap" ، "kmat" ، "clip" ، "crgn" ، "sync" ، "tmcd" ، "PICT" ، "scpt "،" ctab "،" ssrc ".
 
@@ -36,6 +36,6 @@
 
 ## مراجع ##
 
-* [MPEG-4 الجزء 14 - بواسطة ويكيبيديا] (https://en.wikipedia.org/wiki/MPEG-4_Part_14)
-* [MPEG-4 Part 14 Audio (M4A، M4B، M4P) مثال على التنسيق والاسترداد] (https://www.file-recovery.com/m4a-signature-format.htm)
+* [MPEG-4 الجزء 14 - بواسطة ويكيبيديا](https://en.wikipedia.org/wiki/MPEG-4_Part_14)
+* [MPEG-4 Part 14 Audio (M4A، M4B، M4P) مثال على التنسيق والاسترداد](https://www.file-recovery.com/m4a-signature-format.htm)
 

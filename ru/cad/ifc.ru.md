@@ -68,5 +68,5 @@
 
 ## Использованная литература ##
 
-* [Основные отраслевые классы — по Википедии] (https://en.wikipedia.org/wiki/Industry_Foundation_Classes)
+* [Основные отраслевые классы — по Википедии](https://en.wikipedia.org/wiki/Industry_Foundation_Classes)
 

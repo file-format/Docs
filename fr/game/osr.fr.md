@@ -19,7 +19,7 @@
 
 ## Qu'est-ce qu'un fichier OSR ?
 
-Un fichier OSR est un fichier de relecture de jeu créé par [osu! jeu] (https://osu.ppy.sh/home). Osu ! est un jeu de rythme où les utilisateurs associent les clics de souris à la musique. La chanson jouée par l'utilisateur, les succès et les échecs, l'heure et la date de la chanson jouée et le classement général sont enregistrés dans le fichier OSR. Ce fichier OSR peut ensuite être partagé avec d'autres à des fins de relecture. Le fichier OSR nécessite que le fichier beatmap soit présent dans le dossier "Songs".
+Un fichier OSR est un fichier de relecture de jeu créé par [osu! jeu](https://osu.ppy.sh/home). Osu ! est un jeu de rythme où les utilisateurs associent les clics de souris à la musique. La chanson jouée par l'utilisateur, les succès et les échecs, l'heure et la date de la chanson jouée et le classement général sont enregistrés dans le fichier OSR. Ce fichier OSR peut ensuite être partagé avec d'autres à des fins de relecture. Le fichier OSR nécessite que le fichier beatmap soit présent dans le dossier "Songs".
 
 **Type MIME du format de fichier OSR :** x-osu-replay
 
@@ -53,6 +53,6 @@ Les fichiers OSR sont enregistrés sous forme de fichiers binaires avec des cham
 
 ## Références
 
-* [OSU ! Jeu de rythme] (https://osu.ppy.sh/home)
-* [Format de fichier OSR] (https://osu.ppy.sh/wiki/en/Client/File_formats/Osr_%28file_format%29#data-types)
+* [OSU ! Jeu de rythme](https://osu.ppy.sh/home)
+* [Format de fichier OSR](https://osu.ppy.sh/wiki/en/Client/File_formats/Osr_%28file_format%29#data-types)
 

@@ -57,5 +57,5 @@ Información completa sobre las [etiquetas XBRL 2.1](https://www.xbrl.org/Specif
 ## Referencias ##
 
 * [XBRL - Por Wikipedia](https://en.wikipedia.org/wiki/XBRL)
-* [Lenguaje extensible de informes comerciales (XBRL) 2.1] (https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corregido- errata-2013-02-20.html)
+* [Lenguaje extensible de informes comerciales (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corregido- errata-2013-02-20.html)
 

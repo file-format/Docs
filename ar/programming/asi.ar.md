@@ -29,5 +29,5 @@
 
 ## المرجعي ##
 
-* [وثائق ألفا فايف] (https://documentation.alphasoftware.com/)
+* [وثائق ألفا فايف](https://documentation.alphasoftware.com/)
 

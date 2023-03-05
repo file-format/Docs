@@ -20,7 +20,7 @@
 
 ## Czym jest plik THM?
 
-Plik THM to obraz miniatury tworzony automatycznie z pierwszej klatki pliku wideo na kamerach cyfrowych, aparatach i smartfonach. Jest generowany, gdy plik wideo jest zapisywany przez kamerę urządzenia. Miniatury podglądu wszystkich filmów są wyświetlane użytkownikowi w celu wybrania interesującego go filmu z kolekcji filmów. Pliki THM są zapisywane w skompresowanym formacie binarnym w pamięci, aby zmniejszyć wykorzystanie miejsca. Pliki THM można otwierać za pomocą aplikacji, takich jak Apple Preview i [Adobe Photoshop 2022] (https://www.adobe.com/products/photoshop.html).
+Plik THM to obraz miniatury tworzony automatycznie z pierwszej klatki pliku wideo na kamerach cyfrowych, aparatach i smartfonach. Jest generowany, gdy plik wideo jest zapisywany przez kamerę urządzenia. Miniatury podglądu wszystkich filmów są wyświetlane użytkownikowi w celu wybrania interesującego go filmu z kolekcji filmów. Pliki THM są zapisywane w skompresowanym formacie binarnym w pamięci, aby zmniejszyć wykorzystanie miejsca. Pliki THM można otwierać za pomocą aplikacji, takich jak Apple Preview i [Adobe Photoshop 2022](https://www.adobe.com/products/photoshop.html).
 
 ## Format pliku THM — więcej informacji
 

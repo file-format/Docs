@@ -37,7 +37,7 @@ Chcete-li zobrazit obsah nebo soubory v souboru APPX, měli byste postupovat pod
 Existují dvě metody, které lze použít k vytvoření souborů APPX.
 
 1. Pomocí MakeApp.exe – [MakeApp.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) se používá k vytvoření obou balíčky aplikací (.msix nebo .appx) a soubory balíčků aplikací .msixbundle nebo .appxbundle). Kromě toho může extrahovat soubory z balíčku aplikace. MakeApp.exe je k dispozici s Windows 10 SDK a lze jej použít z příkazového řádku.
-1. Použití Microsoft Visual Studio – Vývojáři obvykle [vytvářejí soubory APPX] (https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) pomocí Microsoft Visual Studio. Jakmile je vývoj aplikace dokončen a aplikace je připravena k publikování, lze vytvořit soubor balíčku APPX jeho publikováním v sadě Visual Studio.
+1. Použití Microsoft Visual Studio – Vývojáři obvykle [vytvářejí soubory APPX](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) pomocí Microsoft Visual Studio. Jakmile je vývoj aplikace dokončen a aplikace je připravena k publikování, lze vytvořit soubor balíčku APPX jeho publikováním v sadě Visual Studio.
 
 ## Reference
 

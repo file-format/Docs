@@ -58,7 +58,7 @@ Header dimulai dengan kata ajaib 4-byte **!BDN** yang diwakili oleh byte (0x21, 
 |bidNextP (Unicode: 8 byte; ANSI: 4 byte)|Halaman selanjutnya BID. Halaman memiliki penghitung khusus untuk mengalokasikan nilai bidIndex. Nilai bidIndex untuk BID halaman dialokasikan dari penghitung ini.
 |bidNextB (hanya ANSI 4 byte): |BID Berikutnya. Nilai ini adalah penghitung monoton yang menunjukkan BID yang akan ditetapkan untuk blok yang dialokasikan berikutnya. Nilai BID naik dengan kelipatan 4. Untuk detail lebih lanjut, lihat bagian 2.2.2.2.
 |dwUnique (4 bytes)|Ini adalah nilai yang meningkat secara monoton yang dimodifikasi setiap kali struktur HEADER file PST diubah. Fungsi dari nilai ini adalah untuk memberikan nilai yang unik, dan untuk memastikan bahwa CRC HEADER berbeda setelah setiap modifikasi header.
-|rgnid[] (128 byte)|Suatu array tetap berisi 32 NID, masing-masing sesuai dengan salah satu dari 32 kemungkinan NID_TYPE (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE,NID_TYPE_ASSOC_MESSAGE)
+|rgnid[](128 byte)|Suatu array tetap berisi 32 NID, masing-masing sesuai dengan salah satu dari 32 kemungkinan NID_TYPE (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE,NID_TYPE_ASSOC_MESSAGE)
 |qwTidak terpakai (8 byte)|Ruang tidak terpakai; HARUS diatur ke nol. Format file PST Unicode saja.
 |root (Unicode: 72 byte; ANSI: 40 byte)|Struktur ROOT (bagian 2.2.2.5).
 |dwAlign (4 byte)|Byte penyelarasan yang tidak digunakan; HARUS diatur ke nol. Format file PST Unicode saja.

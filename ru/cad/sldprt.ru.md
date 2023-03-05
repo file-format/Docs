@@ -22,16 +22,16 @@
 
 ## Формат файла SLDPRT
 
-Файлы SLDPRT сохраняются как двоичные файлы, и их точные спецификации формата файлов недоступны. Однако некоторые API предоставляют возможность чтения и преобразования файлов SLDPRT в другие форматы, такие как [SLDPRT в DXF] (https://github.com/GitHubVents/ExportSLDPRTToDXF).
+Файлы SLDPRT сохраняются как двоичные файлы, и их точные спецификации формата файлов недоступны. Однако некоторые API предоставляют возможность чтения и преобразования файлов SLDPRT в другие форматы, такие как [SLDPRT в DXF](https://github.com/GitHubVents/ExportSLDPRTToDXF).
 
 ## Зрители SLDPRT
 
 * Дассо Система SolidWorks
 * Autodesk Fusion 360
-* [Программное обеспечение SmartCAM CAD/CAM] (https://www.solidworks.com/partner-product/smartcam-cadcam-software)
+* [Программное обеспечение SmartCAM CAD/CAM](https://www.solidworks.com/partner-product/smartcam-cadcam-software)
 
 ## Использованная литература ##
 
-* [Программное обеспечение SmartCAM CAD/CAM] (https://www.solidworks.com/partner-product/smartcam-cadcam-software)
-* [Экспорт SLDPRT в DXF] (https://github.com/GitHubVents/ExportSLDPRTToDXF)
+* [Программное обеспечение SmartCAM CAD/CAM](https://www.solidworks.com/partner-product/smartcam-cadcam-software)
+* [Экспорт SLDPRT в DXF](https://github.com/GitHubVents/ExportSLDPRTToDXF)
 

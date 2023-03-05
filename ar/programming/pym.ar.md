@@ -66,6 +66,6 @@ def EXP(e): return str(e)
 
 ## مراجع ##
 
-* [PYM - معالج أولي ماكرو يعتمد على Python] (http://web.archive.org/web/20051122185426/http://ray.cg.tuwien.ac.at/rft/Papers/PYM/pym.html)
-* [PYM Interpreters] (https://github.com/interpreters/pym)
+* [PYM - معالج أولي ماكرو يعتمد على Python](http://web.archive.org/web/20051122185426/http://ray.cg.tuwien.ac.at/rft/Papers/PYM/pym.html)
+* [PYM Interpreters](https://github.com/interpreters/pym)
 

@@ -24,7 +24,7 @@ A medida que los diseños de los sitios web se vuelven complejos, se generan arc
 
 ## Cómo usar archivos SCSS ##
 
-Los archivos SCSS no se incluyen directamente en el documento [HTML](/es/web/html/) como CSS. En su lugar, los archivos SCSS se convierten en archivos CSS que se incluyen en los archivos HTML. Para instalar SCSS en su sistema, siga las instrucciones proporcionadas en el [sitio oficial de Sass] (https://sass-lang.com/install).
+Los archivos SCSS no se incluyen directamente en el documento [HTML](/es/web/html/) como CSS. En su lugar, los archivos SCSS se convierten en archivos CSS que se incluyen en los archivos HTML. Para instalar SCSS en su sistema, siga las instrucciones proporcionadas en el [sitio oficial de Sass](https://sass-lang.com/install).
 Para convertir SCSS a CSS, puede convertir un archivo SCSS ya guardado o buscar cambios y convertir a medida que se guarda el archivo. Los comandos para ambos se dan a continuación.
 
 ### Convertir una vez ###

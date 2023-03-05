@@ -19,7 +19,7 @@
 
 ## Czym jest plik DEA?
 
-Plik DAE to format pliku Digital Asset Exchange, który służy do wymiany danych między interaktywnymi aplikacjami 3D. Ten format pliku jest oparty na schemacie XML COLLADA (COLLAborative Design Activity), który jest otwartym standardowym schematem XML do wymiany zasobów cyfrowych między aplikacjami graficznymi. Został przyjęty przez ISO jako publicznie dostępna specyfikacja, ISO/pAS 17506. Pliki DAE można otwierać w aplikacjach, takich jak Adobe Photoshop, AutoDesk Maya, AutoDesk AutoCAD i interfejsach API, takich jak [Aspose.CAD] (https://products .aspose.com/cad).
+Plik DAE to format pliku Digital Asset Exchange, który służy do wymiany danych między interaktywnymi aplikacjami 3D. Ten format pliku jest oparty na schemacie XML COLLADA (COLLAborative Design Activity), który jest otwartym standardowym schematem XML do wymiany zasobów cyfrowych między aplikacjami graficznymi. Został przyjęty przez ISO jako publicznie dostępna specyfikacja, ISO/pAS 17506. Pliki DAE można otwierać w aplikacjach, takich jak Adobe Photoshop, AutoDesk Maya, AutoDesk AutoCAD i interfejsach API, takich jak [Aspose.CAD](https://products .aspose.com/cad).
 
 ## Format pliku DAE
 

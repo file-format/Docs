@@ -23,11 +23,11 @@
 
 ## تنسيق ملف MGX - مزيد من المعلومات
 
-تم إعداد تنسيق الملف الداخلي لملف MGX وإتاحته كمعلومات تم التحقق من صحتها جزئيًا حول [Age of Empires 2: The Conquerors - Savegame File Format Specification] (https://github.com/stefan-kolb/aoc-mgx- صيغة). تحدد المواصفات التفاصيل في الأقسام التالية.
+تم إعداد تنسيق الملف الداخلي لملف MGX وإتاحته كمعلومات تم التحقق من صحتها جزئيًا حول [Age of Empires 2: The Conquerors - Savegame File Format Specification](https://github.com/stefan-kolb/aoc-mgx- صيغة). تحدد المواصفات التفاصيل في الأقسام التالية.
 
 ### تعريفات الهيكل
 
-يُعتقد أن تعريفات بنية تنسيق ملف GPX تستند إلى [تصريحات BinData Ruby Gem] (https://github.com/dmendel/bindata/wiki) التي توفر طريقة لقراءة البيانات الثنائية المنظمة وكتابتها. يتيح هذا للمبرمج تحديد تنسيق البيانات الثنائية التي يتم قراءتها وكتابتها بواسطة BinData.
+يُعتقد أن تعريفات بنية تنسيق ملف GPX تستند إلى [تصريحات BinData Ruby Gem](https://github.com/dmendel/bindata/wiki) التي توفر طريقة لقراءة البيانات الثنائية المنظمة وكتابتها. يتيح هذا للمبرمج تحديد تنسيق البيانات الثنائية التي يتم قراءتها وكتابتها بواسطة BinData.
 
 ### المراسلة MGX
 
@@ -38,9 +38,9 @@
 
 ### إجراءات اللعب
 
-هناك العديد من [إجراءات GAMEPLAY] (https://github.com/stefan-kolb/aoc-mgx-format/blob/master/README.md#actions) التي تم استردادها وتفاصيلها متاحة.
+هناك العديد من [إجراءات GAMEPLAY](https://github.com/stefan-kolb/aoc-mgx-format/blob/master/README.md#actions) التي تم استردادها وتفاصيلها متاحة.
 
 ## مراجع
 
-* [Age of Empires 2: The Conquerors - Savegame File Format Specification] (https://github.com/stefan-kolb/aoc-mgx-format)
+* [Age of Empires 2: The Conquerors - Savegame File Format Specification](https://github.com/stefan-kolb/aoc-mgx-format)
 

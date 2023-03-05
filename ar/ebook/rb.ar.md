@@ -43,5 +43,5 @@
 
 ## مراجع
 
-* [قارئ إلكتروني - بواسطة MobileRead] (https://en.wikipedia.org/wiki/E-reader)
+* [قارئ إلكتروني - بواسطة MobileRead](https://en.wikipedia.org/wiki/E-reader)
 

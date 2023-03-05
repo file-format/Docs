@@ -28,5 +28,4 @@ Microsoft 팀은 2003년에 XPS에 대한 컨설팅을 제공하기 위해 Globa
 ## 참조 ##
 
 * [위키백과](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification)
-* [마이크로소프트 - OXPS](https://support.microsoft.com/en-us/topic/you-cannot-open-an-oxps-file-in-windows-7-or-in-windows-server-2008 -r2-7b483a76-0fee-1bc8-8d09-4f30b9c0a251)
-
+* [마이크로소프트 - OXPS](https://support.microsoft.com/en-us/topic/you-cannot-open-an-oxps-file-in-windows-7-or-in-windows-server-2008-r2-7b483a76-0fee-1bc8-8d09-4f30b9c0a251)

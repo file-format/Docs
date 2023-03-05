@@ -36,6 +36,6 @@
 ## مراجع
 
 
-* [Windows Imaging Format - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/Windows_Imaging_Format)
+* [Windows Imaging Format - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Windows_Imaging_Format)
 
 

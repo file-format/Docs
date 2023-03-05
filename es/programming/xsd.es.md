@@ -27,7 +27,7 @@ Los archivos XSD se almacenan en el disco en formato de archivo de texto sin for
 
 ## Ejemplo de archivo XSD
 
-Un archivo XSD simple que tiene un esquema de orden de compra define los elementos usando etiquetas como se muestra en el siguiente [ejemplo XSD de Microsoft] (https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -esquema-simple?view=vs-2022).
+Un archivo XSD simple que tiene un esquema de orden de compra define los elementos usando etiquetas como se muestra en el siguiente [ejemplo XSD de Microsoft](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -esquema-simple?view=vs-2022).
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"

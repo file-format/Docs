@@ -19,7 +19,7 @@
 
 ## Co je soubor MDF?
 
-Soubor s příponou .mdf je hlavní databázový soubor používaný [Microsoft SQL Server] (https://en.wikipedia.org/wiki/Microsoft_SQL_Server) k ukládání uživatelských dat. Je to velmi důležité, protože všechna data jsou uložena v tomto souboru. Soubor MDF ukládá uživatelská data v relačních databázích ve formulářových sloupcích, řádcích, polích, indexech, pohledech a tabulkách. SQL Server umožňuje nastavit autogrow a autoshrink nastavení tak, aby mělo pozitivní dopad na výkon databáze. Soubory MDF lze načíst a připojit k databázi pomocí Microsoft SQL Server. Soubory MDF mají typ MIME Application/octet-stream.
+Soubor s příponou .mdf je hlavní databázový soubor používaný [Microsoft SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server) k ukládání uživatelských dat. Je to velmi důležité, protože všechna data jsou uložena v tomto souboru. Soubor MDF ukládá uživatelská data v relačních databázích ve formulářových sloupcích, řádcích, polích, indexech, pohledech a tabulkách. SQL Server umožňuje nastavit autogrow a autoshrink nastavení tak, aby mělo pozitivní dopad na výkon databáze. Soubory MDF lze načíst a připojit k databázi pomocí Microsoft SQL Server. Soubory MDF mají typ MIME Application/octet-stream.
 
 ## Formát souboru MDF
 

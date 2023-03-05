@@ -39,5 +39,5 @@ La plupart des gens sont curieux de savoir si les fichiers XPI peuvent être ins
 ## Références
 
 * [XPInstall - Wikipédia](https://en.wikipedia.org/wiki/XPInstall)
-* [Comment puis-je ouvrir une extension de fichier XPI ?] (https://support.mozilla.org/en-US/questions/1009049)
+* [Comment puis-je ouvrir une extension de fichier XPI ?](https://support.mozilla.org/en-US/questions/1009049)
 

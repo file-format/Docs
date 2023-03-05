@@ -47,6 +47,6 @@ Dans tous les cas, vous devez avoir un compte Nintendo pour créer et enregistre
 
 ## Références
 
-* [Mon éditeur d'avatar] (https://rc24.xyz/goodies/mii/)
-* [Wii Brew] (https://wiibrew.org/wiki/Mii_data)
+* [Mon éditeur d'avatar](https://rc24.xyz/goodies/mii/)
+* [Wii Brew](https://wiibrew.org/wiki/Mii_data)
 

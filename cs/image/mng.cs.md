@@ -23,7 +23,7 @@ Soubor s příponou .mng je formát souboru Multiple-image Network Graphics, kte
 
 ## Formát souboru MNG
 
-Formát souboru MNG je podobný formátu PNG a používá stejnou strukturu chunků, jak je definována ve specifikacích PNG. Dekodér MNG musí být schopen dekódovat datové toky PNG bez specifikování jakýchkoli speciálních příznaků pro instrukce dekódování. MNG seskupuje více obrázků dohromady do „rámečku“, přičemž některé obrázky se používají jako sprite pro přesun z jednoho místa na druhé. Mechanismus umožňuje opakované použití obrazových dat bez jejich opětovného přenosu. Pro vývojáře lze odkazovat na [specifikace MNG] (http://www.libpng.org/pub/mng/spec/).
+Formát souboru MNG je podobný formátu PNG a používá stejnou strukturu chunků, jak je definována ve specifikacích PNG. Dekodér MNG musí být schopen dekódovat datové toky PNG bez specifikování jakýchkoli speciálních příznaků pro instrukce dekódování. MNG seskupuje více obrázků dohromady do „rámečku“, přičemž některé obrázky se používají jako sprite pro přesun z jednoho místa na druhé. Mechanismus umožňuje opakované použití obrazových dat bez jejich opětovného přenosu. Pro vývojáře lze odkazovat na [specifikace MNG](http://www.libpng.org/pub/mng/spec/).
 
 ### Podpis MNG
 
@@ -44,5 +44,5 @@ Rám MNG se skládá z dvourozměrného obrazu menších obrázků. Ke každému
 ## Reference ##
 
 * [MNG](http://www.libpng.org/pub/mng/)
-* [Formát MNG v 1.0] (http://www.libpng.org/pub/mng/spec/)
+* [Formát MNG v 1.0](http://www.libpng.org/pub/mng/spec/)
 

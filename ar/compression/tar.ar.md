@@ -58,6 +58,6 @@ TAR هو تنسيق ملف مفتوح بمواصفات كاملة متاحة ك�
 
 ## مراجع ##
 
-* [TAR - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/Tar_ (الحوسبة))
-* [تنسيق أساسي في تقرير التقييم الثالث] (https://www.gnu.org/software/tar/manual/html_node/Standard.html)
+* [TAR - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Tar_ (الحوسبة))
+* [تنسيق أساسي في تقرير التقييم الثالث](https://www.gnu.org/software/tar/manual/html_node/Standard.html)
 

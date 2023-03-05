@@ -28,5 +28,5 @@
 
 ## Ссылка ##
 
-* [FlashDevelop] (https://www.flashdevelop.org/)
+* [FlashDevelop](https://www.flashdevelop.org/)
 

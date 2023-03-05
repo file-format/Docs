@@ -27,5 +27,5 @@ Les fichiers XLR ont été enregistrés en tant que fichiers binaires sans aucun
 
 ## Références
 
-* [Microsoft Works] (https://en.wikipedia.org/wiki/Microsoft_Works)
+* [Microsoft Works](https://en.wikipedia.org/wiki/Microsoft_Works)
 

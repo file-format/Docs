@@ -27,6 +27,6 @@
 
 ## использованная литература
 
-* [Архив комиксов] (https://en.wikipedia.org/wiki/Comic_book_archive)
-* [Калибр] (https://calibre-ebook.com/)
+* [Архив комиксов](https://en.wikipedia.org/wiki/Comic_book_archive)
+* [Калибр](https://calibre-ebook.com/)
 

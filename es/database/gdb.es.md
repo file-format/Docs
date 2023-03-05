@@ -52,9 +52,9 @@ Varios usuarios pueden acceder simultáneamente a una geodatabase de archivos. S
 
 ## Especificaciones del formato de archivo GDB ##
 
-El archivo GDB es un formato propietario de ESRI y sus especificaciones no están disponibles públicamente. Por esta razón, los detalles del formato de archivo para FIle GDB no se pudieron documentar en ningún otro lugar que no sea algunas fuentes que lo han hecho [parcialmente] (https://github.com/rouault/dump_gdbtable/wiki/FGDB-Spec) mediante ingeniería inversa. .
+El archivo GDB es un formato propietario de ESRI y sus especificaciones no están disponibles públicamente. Por esta razón, los detalles del formato de archivo para FIle GDB no se pudieron documentar en ningún otro lugar que no sea algunas fuentes que lo han hecho [parcialmente](https://github.com/rouault/dump_gdbtable/wiki/FGDB-Spec) mediante ingeniería inversa. .
 
 ## Referencias ##
 
-* [Especificaciones de FGDB] (https://github.com/rouault/dump_gdbtable/wiki/FGDB-Spec)
+* [Especificaciones de FGDB](https://github.com/rouault/dump_gdbtable/wiki/FGDB-Spec)
 

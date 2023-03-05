@@ -34,6 +34,6 @@
 
 ## Использованная литература ##
 
-* [Панзоид] (https://panzoid.com/)
-* [Обсуждения Panzoid] (https://panzoid.com/discussions)
+* [Панзоид](https://panzoid.com/)
+* [Обсуждения Panzoid](https://panzoid.com/discussions)
 

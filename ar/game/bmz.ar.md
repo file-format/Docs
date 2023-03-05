@@ -19,7 +19,7 @@
 
 ## ما هو ملف BMZ؟
 
-ملف BMZ هو ملف خرائط مكافأة تستخدمه لعبة حل الألغاز ثلاثية الأبعاد "Portal" التي طورتها Valve. يحتوي على خريطة إضافية يمكن إنشاؤها بواسطة مطوري مجتمع الجهات الخارجية أيضًا واستيرادها إلى اللعبة باستخدام واجهة مستخدم مدمجة. يأتي BMZ كملف أرشيف [ZIP] (/ar/ compression / zip /) به ملفات BSP و TGA و [BNS] (/ar/ game / bns /) بداخله. يمكن فتح ملفات BMZ باستخدام Valve Portal و Valve Portal 2.
+ملف BMZ هو ملف خرائط مكافأة تستخدمه لعبة حل الألغاز ثلاثية الأبعاد "Portal" التي طورتها Valve. يحتوي على خريطة إضافية يمكن إنشاؤها بواسطة مطوري مجتمع الجهات الخارجية أيضًا واستيرادها إلى اللعبة باستخدام واجهة مستخدم مدمجة. يأتي BMZ كملف أرشيف [ZIP](/ar/ compression / zip /) به ملفات BSP و TGA و [BNS](/ar/ game / bns /) بداخله. يمكن فتح ملفات BMZ باستخدام Valve Portal و Valve Portal 2.
 
 ## تنسيق ملف BMZ
 
@@ -31,7 +31,7 @@
 
 ## كيفية إنشاء ملفات خرائط المكافأة وتثبيتها
 
-وضع مجتمع المطورين في Valve Software إرشادات للأشخاص الذين يرغبون في [إنشاء وتثبيت Bonus Map] (https://developer.valvesoftware.com/wiki/Bonus_Maps) الملفات. يتضمن الخطوات التالية:
+وضع مجتمع المطورين في Valve Software إرشادات للأشخاص الذين يرغبون في [إنشاء وتثبيت Bonus Map](https://developer.valvesoftware.com/wiki/Bonus_Maps) الملفات. يتضمن الخطوات التالية:
 
 1. إضافة خرائط المكافأة BSP إلى التعديل
 1. إضافة صورة مصغرة
@@ -39,6 +39,6 @@
 
 ## مراجع
 
-* [إنشاء ملفات خرائط إضافية وتثبيتها - بواسطة برنامج Valve] (https://developer.valvesoftware.com/wiki/Bonus_Maps)
-* [Portal Challenge Script] (https://developer.valvesoftware.com/wiki/Portal_Challenge_Script)
+* [إنشاء ملفات خرائط إضافية وتثبيتها - بواسطة برنامج Valve](https://developer.valvesoftware.com/wiki/Bonus_Maps)
+* [Portal Challenge Script](https://developer.valvesoftware.com/wiki/Portal_Challenge_Script)
 

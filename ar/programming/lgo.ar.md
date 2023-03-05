@@ -22,9 +22,9 @@
 
 ## تنسيق ملف LGO
 
-يتم حفظ ملفات LGO بتنسيق ملف خاص ولا يُعرف هيكل ملفاتها الداخلي علنًا. تنسيق ملف آخر معروف للشعارات هو ملفات [.ico] (/ar/ image / ico /).
+يتم حفظ ملفات LGO بتنسيق ملف خاص ولا يُعرف هيكل ملفاتها الداخلي علنًا. تنسيق ملف آخر معروف للشعارات هو ملفات [.ico](/ar/ image / ico /).
 
 ## المرجعي ##
 
-* [LUA - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/Lua_ (printing_language))
+* [LUA - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Lua_ (printing_language))
 

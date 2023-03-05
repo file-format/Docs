@@ -22,7 +22,7 @@
 
 ## تنسيق ملف M4S
 
-تستند ملفات M4S إلى [تنسيق ملف الوسائط الأساسي ISO (ISOBMFF)] (https://www.w3.org/TR/mse-byte-stream-format-isobmff/). يمكن تنزيل هذه الأجزاء الصغيرة من ملف كبير بشكل مستقل عبر HTTP. وبالتالي ، إذا كان لديك ملف فيلم كبير [MP4] (/ar/ video / mp4 /) ، فيمكن دفقه باستخدام تقنية MPEG-DASH (دفق ديناميكي متكيف عبر HTTP) عن طريق تقسيمه كملفات مقطع M4S. إذا تم تنزيل ملف الفيلم الكبير هذا على قرص كـ M4S ، فسيتم تنزيل ملفات M4S متعددة. إذا كانت كل مقاطع .m4s متسلسلة ، يتم إنتاج ملف كامل قابل للتشغيل. لا يمكن لمشغلات الوسائط تشغيل الملف ما لم يكن مقطع التهيئة الأول متاحًا أيضًا مع الملف.
+تستند ملفات M4S إلى [تنسيق ملف الوسائط الأساسي ISO (ISOBMFF)](https://www.w3.org/TR/mse-byte-stream-format-isobmff/). يمكن تنزيل هذه الأجزاء الصغيرة من ملف كبير بشكل مستقل عبر HTTP. وبالتالي ، إذا كان لديك ملف فيلم كبير [MP4](/ar/ video / mp4 /) ، فيمكن دفقه باستخدام تقنية MPEG-DASH (دفق ديناميكي متكيف عبر HTTP) عن طريق تقسيمه كملفات مقطع M4S. إذا تم تنزيل ملف الفيلم الكبير هذا على قرص كـ M4S ، فسيتم تنزيل ملفات M4S متعددة. إذا كانت كل مقاطع .m4s متسلسلة ، يتم إنتاج ملف كامل قابل للتشغيل. لا يمكن لمشغلات الوسائط تشغيل الملف ما لم يكن مقطع التهيئة الأول متاحًا أيضًا مع الملف.
 
 ## حول دفق MPEG-DASH
 
@@ -32,16 +32,16 @@
 
 تتوفر واجهات برمجة تطبيقات مفتوحة المصدر يمكن استخدامها لقراءة ملفات M4S وتحويلها.
 
-* [libdash] (https://github.com/bitmovin/libdash) - واجهة برمجة تطبيقات .NET لملفات M4S
-* [dash.js] (https://github.com/Dash-Industry-Forum/dash.js) - عميل جافا سكريبت لملف M4S
-* [اذهب إلى المكتبة لإنشاء ملفات داش] (https://github.com/zencoder/go-dash)
+* [libdash](https://github.com/bitmovin/libdash) - واجهة برمجة تطبيقات .NET لملفات M4S
+* [dash.js](https://github.com/Dash-Industry-Forum/dash.js) - عميل جافا سكريبت لملف M4S
+* [اذهب إلى المكتبة لإنشاء ملفات داش](https://github.com/zencoder/go-dash)
 
 ### واجهة برمجة تطبيقات مفتوحة المصدر لتحويل M4S إلى MP4
 
-* [MFourStoMp4] (https://github.com/muri11o/mfourstomp4)
+* [MFourStoMp4](https://github.com/muri11o/mfourstomp4)
 
 ## مراجع ###
 
-* [تنسيق ملف وسائط ISO الأساسي (ISOBMFF)] (https://www.w3.org/TR/mse-byte-stream-format-isobmff/)
-* [البث الديناميكي التكيفي عبر HTTP - MPEG-DASH] (https://en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP)
+* [تنسيق ملف وسائط ISO الأساسي (ISOBMFF)](https://www.w3.org/TR/mse-byte-stream-format-isobmff/)
+* [البث الديناميكي التكيفي عبر HTTP - MPEG-DASH](https://en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP)
 

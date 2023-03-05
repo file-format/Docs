@@ -23,7 +23,7 @@ Eine Datei mit der Erweiterung .cff ist ein Compact Font Format und wird auch al
 
 ## CFF-Dateiformat
 
-CFF-Dateien sind Binärdateien, die ein strukturiertes Datenlayout, definierte Datentypen, einen Header, eine Glyphenorganisation und Tabellenwörterbücher enthalten. Weitere Einzelheiten hierzu finden Sie in den [Spezifikationen für kompaktes Schriftformat] (https://docs.microsoft.com/en-us/typography/opentype/spec/cff).
+CFF-Dateien sind Binärdateien, die ein strukturiertes Datenlayout, definierte Datentypen, einen Header, eine Glyphenorganisation und Tabellenwörterbücher enthalten. Weitere Einzelheiten hierzu finden Sie in den [Spezifikationen für kompaktes Schriftformat](https://docs.microsoft.com/en-us/typography/opentype/spec/cff).
 
 ### Datenlayout
 Das Datenlayout des CFF-Dateiformats ist wie unten gezeigt.

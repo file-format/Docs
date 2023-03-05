@@ -62,6 +62,6 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 ```
 ## संदर्भ ##
 
-* [XSLT - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/XSLT)
-* [एक्सएसएलटी तत्व] (https://en.wikipedia.org/wiki/XSLT_elements)
+* [XSLT - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/XSLT)
+* [एक्सएसएलटी तत्व](https://en.wikipedia.org/wiki/XSLT_elements)
 

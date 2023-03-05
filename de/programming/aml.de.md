@@ -69,5 +69,5 @@ Da es sich bei AML um Skriptdateien handelt, speichern Sie die Informationen als
 ## Verweise
 
 * [ARC-Makrosprache](https://en.wikipedia.org/wiki/ARC_Macro_Language)
-* [AML mit Skript-Tools verwenden] (https://desktop.arcgis.com/en/arcmap/latest/analyze/creating-tools/using-amls-with-script-tools.htm)
+* [AML mit Skript-Tools verwenden](https://desktop.arcgis.com/en/arcmap/latest/analyze/creating-tools/using-amls-with-script-tools.htm)
 

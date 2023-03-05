@@ -39,5 +39,5 @@
 
 ## Использованная литература ##
 
-* [8SVX — Википедия] (https://en.wikipedia.org/wiki/8SVX)
+* [8SVX — Википедия](https://en.wikipedia.org/wiki/8SVX)
 

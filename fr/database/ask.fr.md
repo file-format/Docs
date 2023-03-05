@@ -28,5 +28,5 @@ Les fichiers ASK sont enregistrés sur le disque au format de fichier binaire pr
 ## Références
 
 * [AskSam - Wikipédia](https://en.wikipedia.org/wiki/AskSam)
-* [téléchargement askSam] (https://asksam.en.softonic.com/)
+* [téléchargement askSam](https://asksam.en.softonic.com/)
 

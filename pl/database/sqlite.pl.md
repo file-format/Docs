@@ -87,5 +87,5 @@ Nagłówek bazy danych SQLite znajduje się w pierwszych 100 bajtach pliku bazy 
 
 * [Format pliku SQLite — SQLite](https://www.sqlite.org/fileformat2.html)
 * [SQLite - Wikipedia](https://en.wikipedia.org/wiki/SQLite)
-* [SQLite — specyfikacja języka C] (https://www.sqlite.org/c3ref/intro.html)
+* [SQLite — specyfikacja języka C](https://www.sqlite.org/c3ref/intro.html)
 

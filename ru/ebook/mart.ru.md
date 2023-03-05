@@ -27,5 +27,5 @@
 
 ## использованная литература
 
-* [Martview, лучшая программа для чтения электронных книг в формате PDF] (https://www.ghacks.net/2011/04/15/martview-best-ebook-reader-for-pdf-e-books/)
+* [Martview, лучшая программа для чтения электронных книг в формате PDF](https://www.ghacks.net/2011/04/15/martview-best-ebook-reader-for-pdf-e-books/)
 

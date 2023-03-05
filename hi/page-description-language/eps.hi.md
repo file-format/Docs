@@ -83,5 +83,5 @@ EPS फ़ाइलों को [JPG](/hi/image/jpeg/), [PNG](/hi/image/png/), 
 
 ## संदर्भ
 
-* [एनकैप्सुलेटेड पोस्टस्क्रिप्ट - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/Encapsulated_PostScript)
+* [एनकैप्सुलेटेड पोस्टस्क्रिप्ट - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Encapsulated_PostScript)
 

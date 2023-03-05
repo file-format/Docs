@@ -19,7 +19,7 @@
 
 ## Mi az FCS fájl?
 
-Az FCS-fájl a PFS:First Choice szoftverrel létrehozott táblázatkezelő fájl, amely egy szövegszerkesztőből, táblázatkezelőből, grafikából, adatbázisból és telekommunikációból álló irodai csomag. Az FCS a First Choice Spreadsheet rövidítése, és a [Software Publishing Corporation] (https://en.wikipedia.org/wiki/Software_Publishing_Corporation) DOS rendszerhez készült PFS:First Choice csomagjával nyitható meg.
+Az FCS-fájl a PFS:First Choice szoftverrel létrehozott táblázatkezelő fájl, amely egy szövegszerkesztőből, táblázatkezelőből, grafikából, adatbázisból és telekommunikációból álló irodai csomag. Az FCS a First Choice Spreadsheet rövidítése, és a [Software Publishing Corporation](https://en.wikipedia.org/wiki/Software_Publishing_Corporation) DOS rendszerhez készült PFS:First Choice csomagjával nyitható meg.
 
 ## Hivatkozások
 

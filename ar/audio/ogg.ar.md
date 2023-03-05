@@ -52,5 +52,5 @@ OGG هو ملف صوتي مضغوط Ogg Vorbis يتم حفظه بامتداد .o
 
 ## مراجع ##
 
-- [OGG - ويكيبيديا] (https://en.wikipedia.org/wiki/Ogg)
+- [OGG - ويكيبيديا](https://en.wikipedia.org/wiki/Ogg)
 

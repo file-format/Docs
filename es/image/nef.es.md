@@ -38,7 +38,7 @@ Los archivos Nikon NEF se pueden abrir con el siguiente software.
 
 ## Convertir archivos NEF
 
-Puede convertir archivos Nikon NEF a otros formatos de archivo de imagen, como PNG y JPEG. Nikon proporciona la opción [Procesamiento sin procesar NEF] (https://onlinemanual.nikonimglib.com/z50/en/09_menu_guide_07_01.html) para convertir archivos NEF a JPG desde la opción del menú de la cámara.
+Puede convertir archivos Nikon NEF a otros formatos de archivo de imagen, como PNG y JPEG. Nikon proporciona la opción [Procesamiento sin procesar NEF](https://onlinemanual.nikonimglib.com/z50/en/09_menu_guide_07_01.html) para convertir archivos NEF a JPG desde la opción del menú de la cámara.
 
 Los archivos NEF también se pueden convertir a otros archivos de imagen con Adobe Photoshop, Corel PaintShop Pro, Apple Photos o Corel AfterShot Pro en los sistemas operativos Windows y MacOS.
 

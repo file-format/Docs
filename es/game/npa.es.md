@@ -30,7 +30,7 @@ Puede descompilar archivos NPA utilizando [Steins;Gate NPA Archive Decompiler](h
 
 ## ¿Qué es el juego Steins Gate?
 
-Steins Gate es una serie de aclamados [juegos de aventuras de novelas visuales] (https://www.giantbomb.com/steinsgate-series/3025-2128/games/) creada por 5 pb. También se ha convertido en la base de varios manga, un drama de audio y una película animada. Algunos de estos incluyen Elite, Divergencies Assort y Gate 0.
+Steins Gate es una serie de aclamados [juegos de aventuras de novelas visuales](https://www.giantbomb.com/steinsgate-series/3025-2128/games/) creada por 5 pb. También se ha convertido en la base de varios manga, un drama de audio y una película animada. Algunos de estos incluyen Elite, Divergencies Assort y Gate 0.
 
 ## Referencias
 

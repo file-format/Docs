@@ -34,5 +34,5 @@
 
 ## использованная литература
 
-* [Разница между файлами .lyr и .avl] (https://support.esri.com/en/technical-article/000005936)
+* [Разница между файлами .lyr и .avl](https://support.esri.com/en/technical-article/000005936)
 

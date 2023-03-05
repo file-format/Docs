@@ -29,5 +29,5 @@
 
 ## Ссылка ##
 
-* [Документация по Alpha Five] (https://documentation.alphasoftware.com/)
+* [Документация по Alpha Five](https://documentation.alphasoftware.com/)
 

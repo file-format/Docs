@@ -23,7 +23,7 @@ BZ2 sind komprimierte Dateien, die mit der Open-Source-Komprimierungsmethode [BZ
 
 ## BZ2-Dateiformat
 
-Für dieses Dateiformat sind keine formalen Spezifikationen verfügbar. Eine inoffizielle [Reverse Engineering-Spezifikation] (https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) zeigt jedoch, dass ein .bz2-Stream aus einem 4-Byte-Header besteht, dem gefolgt wird durch null oder mehr komprimierte Blöcke. Unmittelbar darauf folgt eine Stream-Ende-Markierung, die einen 32-Bit-CRC für den gesamten verarbeiteten Klartext-Stream enthält. Es gibt kein Padding zwischen den komprimierten Blöcken und alle Blöcke sind Bit-ausgerichtet.
+Für dieses Dateiformat sind keine formalen Spezifikationen verfügbar. Eine inoffizielle [Reverse Engineering-Spezifikation](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) zeigt jedoch, dass ein .bz2-Stream aus einem 4-Byte-Header besteht, dem gefolgt wird durch null oder mehr komprimierte Blöcke. Unmittelbar darauf folgt eine Stream-Ende-Markierung, die einen 32-Bit-CRC für den gesamten verarbeiteten Klartext-Stream enthält. Es gibt kein Padding zwischen den komprimierten Blöcken und alle Blöcke sind Bit-ausgerichtet.
 
 ## BZ2-Datei entpacken/extrahieren
 

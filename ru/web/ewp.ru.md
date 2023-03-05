@@ -26,5 +26,5 @@
 
 ## использованная литература
 
-* [EWISoft] (http://www.ewisoft.com/)
+* [EWISoft](http://www.ewisoft.com/)
 

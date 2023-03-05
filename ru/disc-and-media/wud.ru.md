@@ -26,6 +26,6 @@
 
 ## использованная литература
 
-* [Эмулятор Wii U — Cemu] (https://cemu.info/)
-* [Cemu — Википедия] (https://en.wikipedia.org/wiki/Cemu)
+* [Эмулятор Wii U — Cemu](https://cemu.info/)
+* [Cemu — Википедия](https://en.wikipedia.org/wiki/Cemu)
 

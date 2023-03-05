@@ -19,7 +19,7 @@
 
 ## Tệp HAR là gì?
 
-Tệp có đuôi .har ([HTTP](/vi/web/http/) Archive) là tệp lưu trữ HTTP lưu trữ dữ liệu phiên truyền qua nhiều trình duyệt (chẳng hạn như Chrome, Safari, IE, Firefox, v.v.) trong [JSON] (/vi/web/json/) định dạng tệp. Dữ liệu được truyền qua internet giữa máy chủ và máy khách (trong trường hợp này là trình duyệt của người dùng) chứa các tiêu đề phản hồi và yêu cầu HTTP được lưu trữ trong tệp HAR. Nó còn chứa thông tin chi tiết về dữ liệu hiệu suất của các trang web được tải trong trình duyệt. Các tệp HAR có thể được mở trong bất kỳ trình soạn thảo văn bản nào, chẳng hạn như Notepad trên Microsoft Windows OS và TextEdit trên Apple MacOS.
+Tệp có đuôi .har ([HTTP](/vi/web/http/) Archive) là tệp lưu trữ HTTP lưu trữ dữ liệu phiên truyền qua nhiều trình duyệt (chẳng hạn như Chrome, Safari, IE, Firefox, v.v.) trong [JSON](/vi/web/json/) định dạng tệp. Dữ liệu được truyền qua internet giữa máy chủ và máy khách (trong trường hợp này là trình duyệt của người dùng) chứa các tiêu đề phản hồi và yêu cầu HTTP được lưu trữ trong tệp HAR. Nó còn chứa thông tin chi tiết về dữ liệu hiệu suất của các trang web được tải trong trình duyệt. Các tệp HAR có thể được mở trong bất kỳ trình soạn thảo văn bản nào, chẳng hạn như Notepad trên Microsoft Windows OS và TextEdit trên Apple MacOS.
 
 ## Định dạng tệp HAR - Thông tin khác
 

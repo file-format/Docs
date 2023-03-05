@@ -22,7 +22,7 @@ Soubor s příponou .\_XLS je ve skutečnosti soubor XLS, který byl některými
 
 ## \_XLS Formát souboru – Další informace
 
-Soubory \_XLS se ukládají na disk v binárním formátu souboru a lze je otevřít v aplikaci Microsoft Word změnou jeho přípony na XLS. Úplné [specifikace formátu souboru \_XLS souboru] (https://msdn.microsoft.com/en-us/library/dd922181(v#office.12).aspx) formát jsou veřejně dostupné společností Microsoft pro vývojáře.
+Soubory \_XLS se ukládají na disk v binárním formátu souboru a lze je otevřít v aplikaci Microsoft Word změnou jeho přípony na XLS. Úplné [specifikace formátu souboru \_XLS souboru](https://msdn.microsoft.com/en-us/library/dd922181(v#office.12).aspx) formát jsou veřejně dostupné společností Microsoft pro vývojáře.
 
 ## Reference
 

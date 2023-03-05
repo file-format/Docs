@@ -45,7 +45,7 @@
 2. يحتوي الملف بامتداد “.PFM” على بيانات المقاييس.
 
 ## مراجع
-* [خطوط النوع 1] (https://www.prepressure.com/fonts/basics/type1)
-* [نهاية دعم خطوط PostScript Type 1] (https://helpx.adobe.com/fonts/kb/postscript-type-1-fonts-end-of-support.html)
-* [خطوط PostScript (ويكيبيديا)] (https://en.wikipedia.org/wiki/PostScript_fonts)
+* [خطوط النوع 1](https://www.prepressure.com/fonts/basics/type1)
+* [نهاية دعم خطوط PostScript Type 1](https://helpx.adobe.com/fonts/kb/postscript-type-1-fonts-end-of-support.html)
+* [خطوط PostScript (ويكيبيديا)](https://en.wikipedia.org/wiki/PostScript_fonts)
 

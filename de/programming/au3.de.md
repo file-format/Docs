@@ -19,7 +19,7 @@
 
 ## Was ist eine AU3-Datei?
 
-Eine AU3-Datei ist eine automatisierte Skriptdatei, die mit dem Freeware-Skriptprogramm [AutoIt v3] (https://www.autoitscript.com/site/) erstellt wurde. Es enthält die Skriptsprache AutoIt3 zur Automatisierung von Befehlen in Windows. Mit der Programmiersprache AutoIt3 können Sie eine Reihe von Ereignissen simulieren, die zur Automatisierung von Aufgaben verwendet werden können. Beispielsweise kann das Skript in der AU3-Datei verwendet werden, um Tastenanschläge, Mausbewegungen, die Steuerung der Fensterposition und andere Skriptzwecke zu simulieren.
+Eine AU3-Datei ist eine automatisierte Skriptdatei, die mit dem Freeware-Skriptprogramm [AutoIt v3](https://www.autoitscript.com/site/) erstellt wurde. Es enthält die Skriptsprache AutoIt3 zur Automatisierung von Befehlen in Windows. Mit der Programmiersprache AutoIt3 können Sie eine Reihe von Ereignissen simulieren, die zur Automatisierung von Aufgaben verwendet werden können. Beispielsweise kann das Skript in der AU3-Datei verwendet werden, um Tastenanschläge, Mausbewegungen, die Steuerung der Fensterposition und andere Skriptzwecke zu simulieren.
 
 Zu den Anwendungen, die AU3-Dateien öffnen können, gehören [SciTE4AutoIt3](https://www.autoitscript.com/site/autoit-script-editor/downloads/) und AutoIt.
 

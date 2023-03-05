@@ -71,5 +71,5 @@ Le format LRC amélioré est une version étendue du format LRC simple. Il ajout
 
 ## Références
 
-* [Format de fichier des paroles LRC - Wikipédia] (https://en.wikipedia.org/wiki/LRC_(file_format))
+* [Format de fichier des paroles LRC - Wikipédia](https://en.wikipedia.org/wiki/LRC_(file_format))
 

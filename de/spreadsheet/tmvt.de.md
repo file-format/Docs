@@ -19,7 +19,7 @@
 
 ## Was ist eine TMVT-Datei?
 
-Eine TMVT-Datei ist eine TimeMap-Zeitachsen-Tabellenvorlagendatei, die vordefinierte Einstellungen zum Erstellen von [TMV-Dateien] (/de/spreadsheet/tmv/) enthält. Im Gegensatz zu TMV-Dateien enthält TMVT Einstellungen wie Faktenflaggenstile, Hintergründe, Titelstile und Skalenstile. TMVT-Dateien können mit Benutzern geteilt und von ihnen wiederverwendet werden, um die gleichen Einstellungen beizubehalten und ihre eigenen Timeline-Dateien für Einheitlichkeit zu erstellen. Diese können mit der TimeMap-Software von [LexisNexis] (https://www.lexisnexis.com/en-us/products/casemap.page) geöffnet werden.
+Eine TMVT-Datei ist eine TimeMap-Zeitachsen-Tabellenvorlagendatei, die vordefinierte Einstellungen zum Erstellen von [TMV-Dateien](/de/spreadsheet/tmv/) enthält. Im Gegensatz zu TMV-Dateien enthält TMVT Einstellungen wie Faktenflaggenstile, Hintergründe, Titelstile und Skalenstile. TMVT-Dateien können mit Benutzern geteilt und von ihnen wiederverwendet werden, um die gleichen Einstellungen beizubehalten und ihre eigenen Timeline-Dateien für Einheitlichkeit zu erstellen. Diese können mit der TimeMap-Software von [LexisNexis](https://www.lexisnexis.com/en-us/products/casemap.page) geöffnet werden.
 
 ## TMVT-Dateiformat
 

@@ -82,6 +82,6 @@ Adobe в 1996 году присоединилась к Microsoft в ее уси�
 Каждая таблица в файле шрифтов OpenType представлена именами, известными как табличные теги. Обязательно, чтобы все записи в массиве были отсортированы в порядке возрастания по тегу.
 
 ## использованная литература
-* [Спецификации шрифтов OpenType от Microsoft] (https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [Обзор TrueType] (https://docs.microsoft.com/en-us/typography/truetype/)
+* [Спецификации шрифтов OpenType от Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
+* [Обзор TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
 

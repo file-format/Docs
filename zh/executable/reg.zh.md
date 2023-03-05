@@ -64,6 +64,4 @@ Windows Registry Editor Version 5.00
 ## 参考
 
 * [Windows 注册表- 维基百科提供](https://en.wikipedia.org/wiki/Windows_Registry)
-* [如何使用 .reg 文件添加、修改或删除注册表子项和值](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete-注册表子键和值通过使用-a-reg-file-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23）
-
-
+* [如何使用 .reg 文件添加、修改或删除注册表子项和值](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete-registry-subkeys-and-values-by-using-a-reg-file-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23）

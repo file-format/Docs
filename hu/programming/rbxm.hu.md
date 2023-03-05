@@ -18,7 +18,7 @@
 
 ## Mi az RBXM fájl?
 
-Az RBXM-fájl egy 3D-s modellfájlformátum, amelyet a Roblox Studio IDE-ben használnak az online többszereplős Roblox-játék 3D-s objektumainak tárolására. A játékhoz az IDE segítségével létrehozott 3D objektumokat tartalmazza. Az RBXM-fájlok 3D-s objektumai közé tartoznak például az ingek, nadrágok, sapkák, épületek, járművek, állatok, repülőgépek, autók vagy növények. Az RBMX fájlok konvertálhatók [OBJ 3D fájlformátumba] (/hu/3d/obj/) a Roblox IDE segítségével. A Roblox IDE használható RBMX fájlok megnyitására.
+Az RBXM-fájl egy 3D-s modellfájlformátum, amelyet a Roblox Studio IDE-ben használnak az online többszereplős Roblox-játék 3D-s objektumainak tárolására. A játékhoz az IDE segítségével létrehozott 3D objektumokat tartalmazza. Az RBXM-fájlok 3D-s objektumai közé tartoznak például az ingek, nadrágok, sapkák, épületek, járművek, állatok, repülőgépek, autók vagy növények. Az RBMX fájlok konvertálhatók [OBJ 3D fájlformátumba](/hu/3d/obj/) a Roblox IDE segítségével. A Roblox IDE használható RBMX fájlok megnyitására.
 
 Egy másik népszerű Roblox fájlformátum az [RBXL](/hu/programming/rbxl/), amely egy helyfájlformátum, és a Roblox játékban 3D-s szóban meghatározott helyet tartalmazza.
 

@@ -26,7 +26,7 @@ IFO-Dateien werden mit der Erweiterung **.ifo** gespeichert.
 
 IFO-Dateien werden als Textdateien gespeichert und können mit jedem Texteditor wie Microsoft Notepad++, Notepad und Apple TextEdit geöffnet werden. Die Kopfzeilen in der IFO-Datei informieren DVD-Player über den Startbildschirm, die Position jeder Videospur auf der Disc, die Position der Audiospur und andere zugehörige Informationen.
 
-IFO-Dateien können beschädigt werden, wenn die DVD Kratzer bekommt. Aus diesem Grund wird eine BUP-Datei als Backup der IFO-Datei erstellt. Falls die IFO-Datei nicht gelesen werden kann, wird stattdessen die BUP-Datei gelesen. Diese Dateien befinden sich zusammen mit der Datei [VOB] (https://docs.fileformat.com/video/vob/), die einen Index der Inhalte auf der Disc enthält.
+IFO-Dateien können beschädigt werden, wenn die DVD Kratzer bekommt. Aus diesem Grund wird eine BUP-Datei als Backup der IFO-Datei erstellt. Falls die IFO-Datei nicht gelesen werden kann, wird stattdessen die BUP-Datei gelesen. Diese Dateien befinden sich zusammen mit der Datei [VOB](https://docs.fileformat.com/video/vob/), die einen Index der Inhalte auf der Disc enthält.
 
 ## Verweise
 

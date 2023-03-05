@@ -116,5 +116,5 @@ Jeśli wartość znacznika kompresji (0x0103) w IFD1 wynosi „1”, format obra
 ## Bibliografia ##
 
 * [EXIF – z Wikipedii](https://en.wikipedia.org/wiki/Exif)
-* [Format pliku EXIF] (https://www.media.mit.edu/pia/Research/deepview/exif.html)
+* [Format pliku EXIF](https://www.media.mit.edu/pia/Research/deepview/exif.html)
 

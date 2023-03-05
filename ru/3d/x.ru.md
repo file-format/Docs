@@ -27,7 +27,7 @@
 
 [Справочник по файлу X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) содержит справочную информацию об элементах API, которые используются для работать с файлами DirectX .x. Формат предоставляет примитивы данных низкого уровня, которые используются другими приложениями для определения примитивов более высокого уровня с помощью шаблонов данных. DirectX 6.0 представил интерфейсы и методы, которые позволяют читать и записывать файлы .x. DirectX 3.0 представил двоичную версию этого формата файла.
 
-[Справочник по формату файла X] (https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format), определенный DirectX 9, содержит справочную информацию для .x файлы в двоичном, а также текстовом кодировании.
+[Справочник по формату файла X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format), определенный DirectX 9, содержит справочную информацию для .x файлы в двоичном, а также текстовом кодировании.
 
 ### Двоичное кодирование
 
@@ -84,6 +84,6 @@
 
 ## использованная литература
 
-* [Наследие X-файлов] (https://docs.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
-* [Справочник по формату файлов DirectX 9] (https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
+* [Наследие X-файлов](https://docs.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
+* [Справочник по формату файлов DirectX 9](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
 

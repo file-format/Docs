@@ -28,5 +28,5 @@ Soubory ALX jsou ve formátu prostého textu a lze je upravit otevřením v text
 
 ## Reference
 
-* [Skriptování a ActiveX] (http://gbengasesan.com/fyp/24/ch12.htm)
+* [Skriptování a ActiveX](http://gbengasesan.com/fyp/24/ch12.htm)
 

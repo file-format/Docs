@@ -56,6 +56,6 @@ return
 
 ## использованная литература
 
-* [AutoHotkey] (https://www.autohotkey.com/)
+* [AutoHotkey](https://www.autohotkey.com/)
 * [Пакетный файл - Wikipewdia](https://en.wikipedia.org/wiki/Batch_file)
 

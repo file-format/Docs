@@ -134,5 +134,5 @@ def Sphere "Planet" (
 ## Références ##
 
 * [Introduction à l'USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html)
-* [Référence API USD] (https://graphics.pixar.com/usd/docs/USD-Developer-API-Reference.html)
+* [Référence API USD](https://graphics.pixar.com/usd/docs/USD-Developer-API-Reference.html)
 

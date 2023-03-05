@@ -18,7 +18,7 @@
 
 ## ما هو ملف HAML؟
 
-ملف HAML هو ملف لغة ترميز HTML يحتوي على كود مصدر مكتوب بلغة [Haml] (https://haml.info/). يمكن استخدامه كبديل لـ ERB (نصوص قوالب روبي). يحتوي ملف HAML على شفرة مصدر نموذجية لتوليد HTML لمستند ويب. يمكن استبدال ملفات ERB ببساطة عن طريق استبدال هذه الملفات في مجلد التطبيق / العروض إلى Haml عن طريق تغيير امتداد الملف. يمكن فتح ملفات HAML باستخدام أي محرر نصوص مثل Microsoft Notepad و Notepad ++ و Apple TextEdit و
+ملف HAML هو ملف لغة ترميز HTML يحتوي على كود مصدر مكتوب بلغة [Haml](https://haml.info/). يمكن استخدامه كبديل لـ ERB (نصوص قوالب روبي). يحتوي ملف HAML على شفرة مصدر نموذجية لتوليد HTML لمستند ويب. يمكن استبدال ملفات ERB ببساطة عن طريق استبدال هذه الملفات في مجلد التطبيق / العروض إلى Haml عن طريق تغيير امتداد الملف. يمكن فتح ملفات HAML باستخدام أي محرر نصوص مثل Microsoft Notepad و Notepad ++ و Apple TextEdit و
 
 ## تنسيق ملف HAML
 
@@ -44,5 +44,5 @@ app/views/account/login.html.erb → app/views/account/login.html.haml
 
 ## مراجع
 
-* [HAML - Github] (https://github.com/haml/haml)
+* [HAML - Github](https://github.com/haml/haml)
 

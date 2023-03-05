@@ -58,7 +58,7 @@ El encabezado comienza con una palabra mágica de 4 bytes **!BDN** representada 
 |bidNextP (Unicode: 8 bytes; ANSI: 4 bytes)|Página siguiente BID. Las páginas tienen un contador especial para asignar valores de bidIndex. El valor de bidIndex para BID para páginas se asigna a partir de este contador.
 |bidNextB (solo ANSI de 4 bytes): |Next BID. Este valor es el contador monótono que indica el BID a asignar para el próximo bloque asignado. Los valores de BID avanzan en incrementos de 4. Para más detalles, consulte la sección 2.2.2.2.
 |dwUnique (4 bytes)|Este es un valor que aumenta monótonamente y que se modifica cada vez que se modifica la estructura HEADER del archivo PST. La función de este valor es proporcionar un valor único y garantizar que los CRC de HEADER sean diferentes después de cada modificación de encabezado.
-|rgnid[] (128 bytes)|Una matriz fija de 32 NID, cada uno correspondiente a uno de los 32 NID_TYPE posibles (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE,NID_TYPE_ASSOC_MESSAGE)
+|rgnid[](128 bytes)|Una matriz fija de 32 NID, cada uno correspondiente a uno de los 32 NID_TYPE posibles (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE,NID_TYPE_ASSOC_MESSAGE)
 |qwUnused (8 bytes)|Espacio no utilizado; DEBE ponerse a cero. Solo formato de archivo PST Unicode.
 |root (Unicode: 72 bytes; ANSI: 40 bytes)|Una estructura ROOT (sección 2.2.2.5).
 |dwAlign (4 bytes)|Bytes de alineación no utilizados; DEBE ponerse a cero. Solo formato de archivo PST Unicode.

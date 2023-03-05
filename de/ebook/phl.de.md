@@ -28,7 +28,7 @@ Durch die Verwendung des Amazon Kindle eReading-Geräts können die Leser Passag
 ## Verweise
 
 * [Anzeigen beliebter Highlights auf Kindles](https://en.wikipedia.org/wiki/Orb_Books)
-* [Beliebte Highlights enthüllen Inhalte, die angeklickt werden] (https://www.searchenginepeople.com/blog/kindle-highlights.html)
-* [So deaktivieren Sie beliebte Highlights auf Ihrem Kindle] (https://www.howtogeek.com/355701/how-to-turn-off-popular-highlights-on-your-kindle)
+* [Beliebte Highlights enthüllen Inhalte, die angeklickt werden](https://www.searchenginepeople.com/blog/kindle-highlights.html)
+* [So deaktivieren Sie beliebte Highlights auf Ihrem Kindle](https://www.howtogeek.com/355701/how-to-turn-off-popular-highlights-on-your-kindle)
 
 

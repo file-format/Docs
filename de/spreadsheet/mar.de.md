@@ -28,5 +28,5 @@ MAR-Dateien werden als Binärdateien in einem proprietären Dateiformat gespeich
 
 ## Verweise
 
-* [Mariner Calc] (https://marinersoftware.com/product/calc-xls/)
+* [Mariner Calc](https://marinersoftware.com/product/calc-xls/)
 

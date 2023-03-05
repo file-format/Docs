@@ -54,6 +54,6 @@ Para las pistas múltiples, el contenedor MKV debe decidir la funcionalidad de c
 
 ## Referencias ##
 
-- [Notas de especificaciones de Matroska] (https://www.matroska.org/technical/notes.html)
+- [Notas de especificaciones de Matroska](https://www.matroska.org/technical/notes.html)
 - [Soporte de contenedor de archivos MKV para video 3D estéreo y archivos MK3D](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d- archivos/)
 

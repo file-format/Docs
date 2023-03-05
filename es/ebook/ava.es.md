@@ -35,8 +35,8 @@ Si no puede abrir y ejecutar el archivo AVA; no significa que no tenga un softwa
 
 ## Referencias
 
-* [Los iraníes disfrutan de la literatura persa en el lector de libros electrónicos] (https://www.tehrantimes.com/news/423108/Iranians-enjoy-Persian-literature-on-e-book-reader)
-* [La lectura de libros electrónicos es más fácil y económica en Irán] (https://financialtribune.com/articles/sci-tech/80138/ebook-reading-made-easier-cheaper-in-iran)
+* [Los iraníes disfrutan de la literatura persa en el lector de libros electrónicos](https://www.tehrantimes.com/news/423108/Iranians-enjoy-Persian-literature-on-e-book-reader)
+* [La lectura de libros electrónicos es más fácil y económica en Irán](https://financialtribune.com/articles/sci-tech/80138/ebook-reading-made-easier-cheaper-in-iran)
 
 
 

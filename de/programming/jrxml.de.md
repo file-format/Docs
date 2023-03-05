@@ -166,5 +166,5 @@ Es folgen die Details des Beispiels.
 ## Verweise
 
 * [JRXML – Wikipedia](https://en.wikipedia.org/wiki/JasperReports#JRXML)
-* [JRXML-Quellen und Jasper-Dateien] (https://community.jaspersoft.com/documentation/tibco-jaspersoft-studio-user-guide/v630/jrxml-sources-and-jasper-files)
+* [JRXML-Quellen und Jasper-Dateien](https://community.jaspersoft.com/documentation/tibco-jaspersoft-studio-user-guide/v630/jrxml-sources-and-jasper-files)
 

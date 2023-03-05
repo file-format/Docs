@@ -64,6 +64,6 @@ including those that conform to the relaxed constraints of OPS 2.0 -->
 
 ## Использованная литература ##
 
-* [EPUB из Википедии] (https://en.wikipedia.org/wiki/EPUB)
+* [EPUB из Википедии](https://en.wikipedia.org/wiki/EPUB)
 * [Какие файлы включить в toc.ncx](https://ebooks.stackexchange.com/questions/2332/what-files-to-include-in-the-toc-ncx)
 

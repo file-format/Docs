@@ -56,5 +56,5 @@ Documents 1 to 10 of the first 150 matching the query "cache".
 
 ## مراجع
 
-* [تنسيق النتائج في ملف .Htx] (https://learn.microsoft.com/en-us/previous-versions/windows/desktop/indexsrv/formatting-the-results--htx-file-)
+* [تنسيق النتائج في ملف .Htx](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/indexsrv/formatting-the-results--htx-file-)
 

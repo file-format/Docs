@@ -20,7 +20,7 @@ RealAudio (RA) je proprietární zvukový formát vyvinutý společností Real N
 
 ## Přípona souboru od RealNetworks ##
 
-RealNetworks používal formát souboru RA pro zvuk. RealNetworks začal nabízet video formát ([RealVideo](/cs/video/rv/)) v roce 1997 s příponou .rv. [RealMedia (RM)](/cs/video/rm/) byl použit pro kombinaci audio a video formátů. S nejnovější verzí RealProduce (kodér Realu) se formát RV používá pro video soubory a formát [RealMedia Variable Bitrate (RMVB)] (/cs/video/rmvb/) se používá pro video soubory VBR (Variable bitrate).
+RealNetworks používal formát souboru RA pro zvuk. RealNetworks začal nabízet video formát ([RealVideo](/cs/video/rv/)) v roce 1997 s příponou .rv. [RealMedia (RM)](/cs/video/rm/) byl použit pro kombinaci audio a video formátů. S nejnovější verzí RealProduce (kodér Realu) se formát RV používá pro video soubory a formát [RealMedia Variable Bitrate (RMVB)](/cs/video/rmvb/) se používá pro video soubory VBR (Variable bitrate).
 
 ## Streamování zvuku ##
 

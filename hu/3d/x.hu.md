@@ -25,9 +25,9 @@ A DirectX X fájlokat Microsoft DirectX és általános szövegszerkesztők seg�
 
 ## X Fájlformátum
 
-Az [X fájl hivatkozás] (https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) hivatkozási információkat tartalmaz az API-elemekről, amelyeket dolgozni DirectX .x fájlokkal. A formátum alacsony szintű adatprimitíveket biztosít, amelyeket más alkalmazások használnak magasabb szintű primitívek meghatározására adatsablonokon keresztül. A DirectX 6.0 olyan felületeket és módszereket vezetett be, amelyek lehetővé teszik az .x fájlok olvasását és írását. A DirectX 3.0 bevezette ennek a fájlformátumnak a bináris változatát.
+Az [X fájl hivatkozás](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) hivatkozási információkat tartalmaz az API-elemekről, amelyeket dolgozni DirectX .x fájlokkal. A formátum alacsony szintű adatprimitíveket biztosít, amelyeket más alkalmazások használnak magasabb szintű primitívek meghatározására adatsablonokon keresztül. A DirectX 6.0 olyan felületeket és módszereket vezetett be, amelyek lehetővé teszik az .x fájlok olvasását és írását. A DirectX 3.0 bevezette ennek a fájlformátumnak a bináris változatát.
 
-A DirectX 9 által meghatározott [X fájlformátum hivatkozás] (https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) referencia információkat tartalmaz a .x fájlhoz bináris fájlokat, valamint szövegkódolásokat.
+A DirectX 9 által meghatározott [X fájlformátum hivatkozás](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) referencia információkat tartalmaz a .x fájlhoz bináris fájlokat, valamint szövegkódolásokat.
 
 ### Bináris kódolás
 

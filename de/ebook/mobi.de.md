@@ -19,7 +19,7 @@
 
 ## Was ist eine MOBI-Datei?
 
-Das MOBI-Dateiformat ist eines der am häufigsten verwendeten E-Book-Dateiformate. Das Format ist eine Erweiterung des alten OEB-Formats (Open Ebook Format) und wurde als proprietäres Format für Mobipocket Reader verwendet. Wie [EPUB](/de/ebook/epub/) wird es von fast allen modernen E-Readern unterstützt, insbesondere von Mobilgeräten mit geringer Bandbreite. Das Format kann mithilfe öffentlich verfügbarer Softwareanwendungen wie der [Kindle-App] (https://www.amazon.com/kindle -dbs/fd/kcp). Es gibt mehrere Unternehmen, die kostenlose MOBI-Bücher anbieten, wie [Project Gutenberg](http://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/) und [Open Library]( https://openlibrary.org/).
+Das MOBI-Dateiformat ist eines der am häufigsten verwendeten E-Book-Dateiformate. Das Format ist eine Erweiterung des alten OEB-Formats (Open Ebook Format) und wurde als proprietäres Format für Mobipocket Reader verwendet. Wie [EPUB](/de/ebook/epub/) wird es von fast allen modernen E-Readern unterstützt, insbesondere von Mobilgeräten mit geringer Bandbreite. Das Format kann mithilfe öffentlich verfügbarer Softwareanwendungen wie der [Kindle-App](https://www.amazon.com/kindle -dbs/fd/kcp). Es gibt mehrere Unternehmen, die kostenlose MOBI-Bücher anbieten, wie [Project Gutenberg](http://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/) und [Open Library]( https://openlibrary.org/).
 
 ## Kurze Geschichte des MOBI-Dateiformats
 
@@ -43,5 +43,5 @@ Das MOBI-Dateiformat hat bestimmte Einschränkungen, wie unten aufgeführt.
 
 ## Verweise
 
-* [MobiPocket-Dateiformat] (https://web.archive.org/web/20160414103204/http://www.mobipocket.com/dev/article.asp?BaseFolder#prcgen&File#mobiformat.htm)
+* [MobiPocket-Dateiformat](https://web.archive.org/web/20160414103204/http://www.mobipocket.com/dev/article.asp?BaseFolder#prcgen&File#mobiformat.htm)
 

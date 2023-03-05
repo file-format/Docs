@@ -26,6 +26,6 @@
 
 ## использованная литература
 
-* [TAR — Википедия] (https://en.wikipedia.org/wiki/Tar_(computing))
-* [Базовый формат TAR] (https://www.gnu.org/software/tar/manual/html_node/Standard.html)
+* [TAR — Википедия](https://en.wikipedia.org/wiki/Tar_(computing))
+* [Базовый формат TAR](https://www.gnu.org/software/tar/manual/html_node/Standard.html)
 

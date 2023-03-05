@@ -38,6 +38,6 @@ La mayoría de las personas sienten curiosidad por saber si los archivos XPI se 
 
 ## Referencias
 
-* [Instalación XP - Wikipedia] (https://en.wikipedia.org/wiki/Instalación XP)
+* [Instalación XP - Wikipedia](https://en.wikipedia.org/wiki/Instalación XP)
 * [¿Cómo puedo abrir una extensión de archivo XPI?](https://support.mozilla.org/en-US/questions/1009049)
 

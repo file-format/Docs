@@ -16,7 +16,7 @@ lastmod: 2021-03-28
 
 ## Was ist eine MPC-Datei?
 
-Eine Datei mit der Erweiterung .mpc ist ein [Musepack](https://musepack.net/) Audiodateiformat, das Audiokomprimierung mit starkem Schwerpunkt auf hoher Qualität verwendet. Dadurch können Sie die Klangqualitätsunterschiede zwischen der ursprünglichen [WAV](/de/audio/wav/)-Datei und der komprimierten MPC-Datei nicht einmal bemerken. Es verwendet MPEG-1-Layer-2-Algorithmen, um eine hochoptimierte Komprimierung zu erreichen. Das Musepack MPC-Dateiformat ist Open Source mit BSD/GNU LGPL-Lizenz. Das [SVN-Repository] (http://svn.musepack.net/) von Musepack ermöglicht es, den neuesten aktualisierten Code für den Codec zu erhalten. Zu den Anwendungen, die MPC-Dateien öffnen können, gehören neben mehreren anderen der VLC Media Player, JetAudio und Winamp.
+Eine Datei mit der Erweiterung .mpc ist ein [Musepack](https://musepack.net/) Audiodateiformat, das Audiokomprimierung mit starkem Schwerpunkt auf hoher Qualität verwendet. Dadurch können Sie die Klangqualitätsunterschiede zwischen der ursprünglichen [WAV](/de/audio/wav/)-Datei und der komprimierten MPC-Datei nicht einmal bemerken. Es verwendet MPEG-1-Layer-2-Algorithmen, um eine hochoptimierte Komprimierung zu erreichen. Das Musepack MPC-Dateiformat ist Open Source mit BSD/GNU LGPL-Lizenz. Das [SVN-Repository](http://svn.musepack.net/) von Musepack ermöglicht es, den neuesten aktualisierten Code für den Codec zu erhalten. Zu den Anwendungen, die MPC-Dateien öffnen können, gehören neben mehreren anderen der VLC Media Player, JetAudio und Winamp.
 
 ## MPC-Dateiformat
 

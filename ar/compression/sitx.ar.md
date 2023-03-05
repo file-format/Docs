@@ -34,5 +34,5 @@
 
 ## مراجع
 
-* [StuffIt - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/StuffIt)
+* [StuffIt - بواسطة Wikipedia](https://en.wikipedia.org/wiki/StuffIt)
 

@@ -65,6 +65,6 @@ static char*<variable_name>[] = {
 
 ## संदर्भ
 
-* [एक्सपीएम - विकिपीडिया] (https://en.wikipedia.org/wiki/X_PixMap)
+* [एक्सपीएम - विकिपीडिया](https://en.wikipedia.org/wiki/X_PixMap)
 * [एक्सपीएम मैनुअल](http://www.xfree86.org/current/xpm.pdf)
 

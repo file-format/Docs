@@ -24,7 +24,7 @@ Microsoft SQL Server 2019 =1&OCID=AID2200057_aff_7593_1243925&tduid=%28ir__gn1tq
 
 ## تنسيق ملف DACPAC - مزيد من المعلومات
 
-ملفات حزمة بيانات DACPAC هي في الواقع ملفات مضغوطة من نوع ZIP تحتوي على عدة ملفات [XML] (/ar/ web / xml /) تحتوي على معلومات حول نموذج قاعدة البيانات ، مثل الجداول وطرق العرض ، المستخدمة لاستعادة قاعدة البيانات. لعرض محتويات ملفات DACPAC ، أعد تسمية الملفات من .dacpac إلى [.zip] (/ar/ compression / zip /) واستخرج الأرشيف المضغوط باستخدام أي أداة مساعدة لفك الضغط.
+ملفات حزمة بيانات DACPAC هي في الواقع ملفات مضغوطة من نوع ZIP تحتوي على عدة ملفات [XML](/ar/ web / xml /) تحتوي على معلومات حول نموذج قاعدة البيانات ، مثل الجداول وطرق العرض ، المستخدمة لاستعادة قاعدة البيانات. لعرض محتويات ملفات DACPAC ، أعد تسمية الملفات من .dacpac إلى [.zip](/ar/ compression / zip /) واستخرج الأرشيف المضغوط باستخدام أي أداة مساعدة لفك الضغط.
 
 فيما يلي بعض الملفات التي تم العثور عليها داخل ملف DACPAC.
 
@@ -53,7 +53,7 @@ xmlns = "http://schemas.openxmlformats.org/package/2006/content-types">
 
 ## مراجع
 
-* [تطبيقات طبقة البيانات - الفوائد] (https://docs.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications؟view=sql-server-ver15)
-* [نشر تطبيق طبقة البيانات - Microsoft] (https://docs.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
-* [كيف تنشئ ملف DACPAC؟] (https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
+* [تطبيقات طبقة البيانات - الفوائد](https://docs.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications؟view=sql-server-ver15)
+* [نشر تطبيق طبقة البيانات - Microsoft](https://docs.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
+* [كيف تنشئ ملف DACPAC؟](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
 

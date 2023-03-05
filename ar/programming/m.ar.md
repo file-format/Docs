@@ -48,8 +48,8 @@ TimeToGround(100)
 
 ## مراجع
 
-* [ماتلاب - تنسيقات الملفات المدعومة] (https://www.mathworks.com/help/matlab/standard-file-formats.html)
-* [باستخدام Matlab] (https://www.maths.unsw.edu.au/sites/default/files/MatlabSelfPaced/lesson0/MatlabLesson0_Mfiles.html)
+* [ماتلاب - تنسيقات الملفات المدعومة](https://www.mathworks.com/help/matlab/standard-file-formats.html)
+* [باستخدام Matlab](https://www.maths.unsw.edu.au/sites/default/files/MatlabSelfPaced/lesson0/MatlabLesson0_Mfiles.html)
 
 # M - ملف تنفيذ الهدف- C
 
@@ -93,6 +93,6 @@ UrlConnection.m
 ```
 
 ## مراجع
-* [حول الهدف C] (https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210-CH1-SW1)
-* [دليل الكائن C] (https://blog.teamtreehouse.com/beginners-guide-objective-c-classes-objects)
+* [حول الهدف C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210-CH1-SW1)
+* [دليل الكائن C](https://blog.teamtreehouse.com/beginners-guide-objective-c-classes-objects)
 

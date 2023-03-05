@@ -31,7 +31,7 @@ Excel poskytuje snadno použitelné kroky pro záznam makra. Chcete-li pracovat 
 
 ## Objektový model Excel ##
 
-Makra používají rutiny VBA na zadní straně a pro tento účel se řídí [Objektový model Excel] (https://docs.microsoft.com/en-us/office/vba/api/overview/excel/object-model). Tento model identifikuje objekty tabulky pro interakci s tabulkou prostřednictvím uživatelsky definovaných panelů nástrojů příkazů, panelů příkazů nebo zpráv. Například přístup k vlastnostem sešitu je udělen pomocí objektu Sešit. Podobně je v modelu objekt Worksheet pro programovou práci s listy sešitu.
+Makra používají rutiny VBA na zadní straně a pro tento účel se řídí [Objektový model Excel](https://docs.microsoft.com/en-us/office/vba/api/overview/excel/object-model). Tento model identifikuje objekty tabulky pro interakci s tabulkou prostřednictvím uživatelsky definovaných panelů nástrojů příkazů, panelů příkazů nebo zpráv. Například přístup k vlastnostem sešitu je udělen pomocí objektu Sešit. Podobně je v modelu objekt Worksheet pro programovou práci s listy sešitu.
 
 ## Makra a zabezpečení ##
 

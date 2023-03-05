@@ -31,7 +31,7 @@ Dado que Gnumeric admite varios formatos de archivo diferentes, puede convertir 
 
 ## Gnumeric en Github
 
-El desarrollo de código abierto de Gnumeric se aloja y mantiene en el repositorio [Github oficial de Gnumeric] (https://github.com/GNOME/gnumeric).
+El desarrollo de código abierto de Gnumeric se aloja y mantiene en el repositorio [Github oficial de Gnumeric](https://github.com/GNOME/gnumeric).
 
 ## Referencias
 

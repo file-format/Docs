@@ -19,14 +19,14 @@
 
 ## ما هو ملف APPXBUNDLE؟
 
-ملف APPXBUNDLE هو ملف حزمة تم إنشاؤه باستخدام [Microsoft Visual Studio] (https://visualstudio.microsoft.com/) ويستخدم لتوزيع تطبيقات Windows (لكل من سطح المكتب و UWP) على [متجر Microsoft] (https: // www.microsoft.com/en-us/store/apps/windows). يحتوي على إصدار واحد أو أكثر من التطبيق ، يستهدف بنية معالج معينة مثل x86 أو x64 أو ARM. يتيح ذلك للمستخدم النهائي تلقي الإصدار المناسب من التطبيق ونشره بناءً على بنية الكمبيوتر. يتم تجميع ملفات APPXBUNDLE معًا باستخدام تنسيق الملف القياسي [ZIP] (/ar/ compression / zip /). تُستخدم طريقة النشر في Microsoft Visual Studio لنشر التطبيقات كحزمة. يتم توزيع تطبيقات الحزمة الفردية كملفات [APPX] (/ar/ برمجة / appx /).
+ملف APPXBUNDLE هو ملف حزمة تم إنشاؤه باستخدام [Microsoft Visual Studio](https://visualstudio.microsoft.com/) ويستخدم لتوزيع تطبيقات Windows (لكل من سطح المكتب و UWP) على [متجر Microsoft](https: // www.microsoft.com/en-us/store/apps/windows). يحتوي على إصدار واحد أو أكثر من التطبيق ، يستهدف بنية معالج معينة مثل x86 أو x64 أو ARM. يتيح ذلك للمستخدم النهائي تلقي الإصدار المناسب من التطبيق ونشره بناءً على بنية الكمبيوتر. يتم تجميع ملفات APPXBUNDLE معًا باستخدام تنسيق الملف القياسي [ZIP](/ar/ compression / zip /). تُستخدم طريقة النشر في Microsoft Visual Studio لنشر التطبيقات كحزمة. يتم توزيع تطبيقات الحزمة الفردية كملفات [APPX](/ar/ برمجة / appx /).
 
 ## تنسيق ملف APPXBUNDLE
 
-يتم نشر ملفات APPXBUNDLE بتنسيق ملف ZIP. إذا كنت تريد الاطلاع على محتويات حزمة التطبيق ، فيمكنك استخراج محتوياتها باستخدام أدوات إزالة الضغط مثل [WinZIP] (https://www.winzip.com/en/) أو WinRAR.
+يتم نشر ملفات APPXBUNDLE بتنسيق ملف ZIP. إذا كنت تريد الاطلاع على محتويات حزمة التطبيق ، فيمكنك استخراج محتوياتها باستخدام أدوات إزالة الضغط مثل [WinZIP](https://www.winzip.com/en/) أو WinRAR.
 
 ## مراجع
 
-* [حزم التبعية لحزم .appx و .appxbundle] (https://www.ibm.com/docs/en/maas360؟topic=catalog-dependency-packages-appx-appxbundle-packages)
-* [إنشاء ملفات APPX باستخدام Microsoft Visual Studio] (https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [حزم التبعية لحزم .appx و .appxbundle](https://www.ibm.com/docs/en/maas360؟topic=catalog-dependency-packages-appx-appxbundle-packages)
+* [إنشاء ملفات APPX باستخدام Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

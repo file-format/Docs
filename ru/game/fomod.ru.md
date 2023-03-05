@@ -31,6 +31,6 @@
 
 ## использованная литература
 
-* [Формат файла FOMOD] (https://wiki.nexusmods.com/index.php/Installing_A_Mod_With_FOMM)
+* [Формат файла FOMOD](https://wiki.nexusmods.com/index.php/Installing_A_Mod_With_FOMM)
 * [Моддинг видеоигр](https://en.wikipedia.org/wiki/Video_game_modding)
 

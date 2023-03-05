@@ -52,5 +52,5 @@ Das folgende Beispiel verwendet **ogrinfo** in einer NTF-Datei, um Schichtnummer
 ## Verweise
 
 * [UK National Transfer Format (NTF)](https://catalyst.earth/catalyst-system-files/help/references/gdb_r/gdb3N292.html)
-* [Web Mapping – Illustriert von Tyler Mitchell] (https://www.oreilly.com/library/view/web-mapping-illustrated/0596008651/re15.html)
+* [Web Mapping – Illustriert von Tyler Mitchell](https://www.oreilly.com/library/view/web-mapping-illustrated/0596008651/re15.html)
 

@@ -39,5 +39,5 @@ Les autres fichiers pouvant être trouvés dans un package OVF incluent une ou p
 ## Références
 
 * [Format de virtualisation ouvert - DMTF](https://www.dmtf.org/standards/ovf)
-* [Spécifications du format de fichier OVF] (https://www.dmtf.org/sites/default/files/standards/documents/DSP0243_1.1.0.pdf)
+* [Spécifications du format de fichier OVF](https://www.dmtf.org/sites/default/files/standards/documents/DSP0243_1.1.0.pdf)
 

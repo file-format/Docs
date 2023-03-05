@@ -48,5 +48,5 @@ A CR2 fájlok nyers fájlok adatvesztés nélkül, és így minőségromlás né
 
 ## Hivatkozások
 
-* [CR2 fájlformátum] (http://lclevy.free.fr/cr2/)
+* [CR2 fájlformátum](http://lclevy.free.fr/cr2/)
 

@@ -27,5 +27,5 @@ NWD Autodesk का मालिकाना फ़ाइल स्वरूप 
 
 ## संदर्भ ##
 
-* [विकिपीडिया द्वारा नेविसवर्क्स] (https://en.wikipedia.org/wiki/Navisworks)
+* [विकिपीडिया द्वारा नेविसवर्क्स](https://en.wikipedia.org/wiki/Navisworks)
 

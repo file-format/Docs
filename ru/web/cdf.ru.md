@@ -58,5 +58,5 @@ BASE="http://домен/папка/"
 
 ## использованная литература
 
-* [Формат определения канала — по Википедии] (https://en.wikipedia.org/wiki/Channel_Definition_Format)
+* [Формат определения канала — по Википедии](https://en.wikipedia.org/wiki/Channel_Definition_Format)
 

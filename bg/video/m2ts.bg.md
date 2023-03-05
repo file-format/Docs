@@ -37,7 +37,7 @@ M2TS файл съдържа видео с висока разделителна
 ## Препратки ##
 
 - [.m2ts - Уикипедия](https://en.wikipedia.org/wiki/.m2ts)
-- [AVCHD видео формат: Разлика между MTS и M2TS] (https://www.videosolo.com/tutorials/mts-vs-m2ts.html)
+- [AVCHD видео формат: Разлика между MTS и M2TS](https://www.videosolo.com/tutorials/mts-vs-m2ts.html)
 
 
 

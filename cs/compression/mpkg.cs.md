@@ -76,5 +76,5 @@ function pm_install_check() {
 ## Reference
 
 * [Ploché balíčky OSX](https://matthew-brett.github.io/docosx/flat_packages.html)
-* [C++ MPKG Package Manager] (https://github.com/puellavulnerata/mpkg)
+* [C++ MPKG Package Manager](https://github.com/puellavulnerata/mpkg)
 

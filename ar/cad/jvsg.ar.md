@@ -25,5 +25,5 @@ JVSG هو ملف CAD يمكن تشغيله على Windows. إنه ملف بتن�
 
 ## مراجع ##
 
-* [CCTV Design Software] (https://www.jvsg.com/collection-of-3d-models-security/)
+* [CCTV Design Software](https://www.jvsg.com/collection-of-3d-models-security/)
 

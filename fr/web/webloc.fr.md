@@ -26,5 +26,5 @@ Les fichiers WEBLOC sont stockés au format de fichier texte brut. Ceux-ci peuve
 
 ## Références
 
-* [Ouvreur WEBLOC] (https://github.com/benchdoos/WeblocOpener)
+* [Ouvreur WEBLOC](https://github.com/benchdoos/WeblocOpener)
 

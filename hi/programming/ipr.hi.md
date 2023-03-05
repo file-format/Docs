@@ -28,5 +28,5 @@ IPR फ़ाइल Java IDE **IntelliJ IDEA** के साथ बनाई ग
 
 ## संदर्भ ##
 
-* [एक प्रबंध परियोजनाओं का निर्माण - IntelliJ IDEA] (https://www.jetbrains.com/help/idea/creating-and-managing-projects.html)
+* [एक प्रबंध परियोजनाओं का निर्माण - IntelliJ IDEA](https://www.jetbrains.com/help/idea/creating-and-managing-projects.html)
 

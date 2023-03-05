@@ -19,7 +19,7 @@
 
 ## Co to jest plik ZIP? ##
 
-Plik z rozszerzeniem .zip to archiwum, które może zawierać jeden lub więcej plików lub katalogów. W archiwum można zastosować kompresję dołączonych plików w celu zmniejszenia rozmiaru pliku ZIP. Format pliku ZIP został upubliczniony w lutym 1989 roku przez Phila Katza w celu archiwizacji plików i folderów. Format stał się częścią narzędzia [PKZIP](https://www.pkware.com/pkzip), stworzonego przez PKWARE, Inc. Zaraz po udostępnieniu [dostępnych specyfikacji](https://pkware.cachefly.net/ webdocs/casestudies/APPNOTE.TXT), wiele firm uczyniło format pliku ZIP częścią swojego oprogramowania narzędziowego, w tym Microsoft (od Windows 7), Apple (Mac OS X) i wiele innych.
+Plik z rozszerzeniem .zip to archiwum, które może zawierać jeden lub więcej plików lub katalogów. W archiwum można zastosować kompresję dołączonych plików w celu zmniejszenia rozmiaru pliku ZIP. Format pliku ZIP został upubliczniony w lutym 1989 roku przez Phila Katza w celu archiwizacji plików i folderów. Format stał się częścią narzędzia [PKZIP](https://www.pkware.com/pkzip), stworzonego przez PKWARE, Inc. Zaraz po udostępnieniu [dostępnych specyfikacji](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT), wiele firm uczyniło format pliku ZIP częścią swojego oprogramowania narzędziowego, w tym Microsoft (od Windows 7), Apple (Mac OS X) i wiele innych.
 
 ## Krótka historia formatu pliku ZIP
 
@@ -152,4 +152,3 @@ Lokalny nagłówek pliku ma specyficzną strukturę pól składającą się z wa
 
 * [Specyfikacje formatu pliku PKWARE ZIP](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
 * [Struktura pliku PKZip](https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip-printable.html)
-

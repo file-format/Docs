@@ -47,9 +47,9 @@
 
 ### РИС-теги
 
-См. раздел [Теги RIS] (https://web.archive.org/web/20110930172154/http://www.refman.com/support/risformat_tags_01.asp) в документе Спецификации формата файла.
+См. раздел [Теги RIS](https://web.archive.org/web/20110930172154/http://www.refman.com/support/risformat_tags_01.asp) в документе Спецификации формата файла.
 
 ## использованная литература
 
-* [Спецификации формата RIS] (https://web.archive.org/web/20110930172154/http://www.refman.com/support/risformat_intro.asp)|
+* [Спецификации формата RIS](https://web.archive.org/web/20110930172154/http://www.refman.com/support/risformat_intro.asp)|
 

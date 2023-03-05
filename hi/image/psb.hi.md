@@ -149,6 +149,6 @@ BYTE सिग्नेचर [4] - '8BPS' के बराबर है।
 
 ## संदर्भ ##
 
-* [पीएसबी फ़ाइल प्रारूप - एडोब द्वारा] (https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
-* [पीएसबी - विकिपीडिया] (https://en.wikipedia.org/wiki/Adobe_Photoshop#File_format)
+* [पीएसबी फ़ाइल प्रारूप - एडोब द्वारा](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
+* [पीएसबी - विकिपीडिया](https://en.wikipedia.org/wiki/Adobe_Photoshop#File_format)
 

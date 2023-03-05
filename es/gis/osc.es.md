@@ -43,5 +43,5 @@ A continuación se muestra un ejemplo de operación de modificación en un nodo.
 
 ## Referencias
 
-* [Formato de archivo JOSM] (https://wiki.openstreetmap.org/wiki/JOSM_file_format)
+* [Formato de archivo JOSM](https://wiki.openstreetmap.org/wiki/JOSM_file_format)
 

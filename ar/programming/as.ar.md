@@ -76,7 +76,7 @@ package com.example
 
 ## المرجعي ##
 
-* [AS - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/ActionScript)
+* [AS - بواسطة Wikipedia](https://en.wikipedia.org/wiki/ActionScript)
 
 
 

@@ -23,7 +23,7 @@ Az .mf kiterjesztésű fájl egy Java Manifest fájl, amely információkat tart
 
 ## Manifest fájlformátum specifikációi
 
-A [Manifest fájlformátum specifikációi] (https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html) az Oracle által elérhetők a JAR fájlformátumokról szóló útmutatójában. A Manifest fájl fő szakaszokból áll, amelyeket az egyes JAR-fájlbejegyzésekhez tartozó szakaszok listája követ. Minden szakasz bizonyos szabályokat és korlátozásokat követ.
+A [Manifest fájlformátum specifikációi](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html) az Oracle által elérhetők a JAR fájlformátumokról szóló útmutatójában. A Manifest fájl fő szakaszokból áll, amelyeket az egyes JAR-fájlbejegyzésekhez tartozó szakaszok listája követ. Minden szakasz bizonyos szabályokat és korlátozásokat követ.
 
 ### Fő szakaszok
 

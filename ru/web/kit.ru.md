@@ -46,5 +46,5 @@
 
 ## использованная литература
 
-* [Что такое комплект?] (https://codekitapp.com/help/kit/)
+* [Что такое комплект?](https://codekitapp.com/help/kit/)
 

@@ -58,5 +58,5 @@ by a blank line.</p>
 
 ## संदर्भ ##
 
-* [पुनर्निर्मित पाठ - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/ReStructuredText)
+* [पुनर्निर्मित पाठ - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/ReStructuredText)
 

@@ -19,13 +19,13 @@
 
 ## ما هو ملف LZ؟
 
-الملف ذو الامتداد .lz هو ملف أرشيف مضغوط تم إنشاؤه باستخدام Lzip ، وهو أداة سطر أوامر مجانية للضغط. وهو يدعم التسلسل لضغط ملفات الدعم. تحتوي ملفات LZ على تطبيق من نوع الوسائط / lzip وتدعم حصص ضغط أعلى من [BZ2] (/ar/ compression / bz2). تعتمد LZ على خوارزمية LZMA (سلسلة Lempel-Ziv-Markov) وتتضمن مجموعًا تدقيقيًا لـ CRC 32 بتًا وحد البايت للتحقق من سلامة الملف.
+الملف ذو الامتداد .lz هو ملف أرشيف مضغوط تم إنشاؤه باستخدام Lzip ، وهو أداة سطر أوامر مجانية للضغط. وهو يدعم التسلسل لضغط ملفات الدعم. تحتوي ملفات LZ على تطبيق من نوع الوسائط / lzip وتدعم حصص ضغط أعلى من [BZ2](/ar/ compression / bz2). تعتمد LZ على خوارزمية LZMA (سلسلة Lempel-Ziv-Markov) وتتضمن مجموعًا تدقيقيًا لـ CRC 32 بتًا وحد البايت للتحقق من سلامة الملف.
 
 ## تنسيق LZMA المضغوط
 
 يتكون تنسيق LZMA المضغوط من دفق مضغوط من البتات المشفرة باستخدام مشفر النطاق الثنائي التكيفي. الدفق مقسم إلى حزم. تصف كل حزمة إما بايت واحد أو تسلسل LZ77. طول ومسافة كل حزمة مشفرة ضمنيًا أو صريحًا.
 
-الأنواع السبعة من الحزم هي كما يلي ([Wikipedia] (https://en.wikipedia.org/wiki/Lempel٪E2٪80٪93Ziv٪E2٪80٪93Markov_chain_algorithm#Compressed_format_overview))
+الأنواع السبعة من الحزم هي كما يلي ([Wikipedia](https://en.wikipedia.org/wiki/Lempel٪E2٪80٪93Ziv٪E2٪80٪93Markov_chain_algorithm#Compressed_format_overview))
 
 | التعليمات البرمجية المعبأة (تسلسل بت) | اسم الحزمة | وصف الحزمة |
 ---|---|---|
@@ -40,6 +40,6 @@
 
 ## مراجع
 
-* [LZMA - ويكيبيديا] (https://en.wikipedia.org/wiki/Lempel٪E2٪80٪93Ziv٪E2٪80٪93Markov_chain_algorithm#Compressed_format_overview)
-* [Lzip] (https://en.wikipedia.org/wiki/Lzip)
+* [LZMA - ويكيبيديا](https://en.wikipedia.org/wiki/Lempel٪E2٪80٪93Ziv٪E2٪80٪93Markov_chain_algorithm#Compressed_format_overview)
+* [Lzip](https://en.wikipedia.org/wiki/Lzip)
 

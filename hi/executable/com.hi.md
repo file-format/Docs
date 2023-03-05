@@ -43,5 +43,5 @@ hello:   db   'Hello, .COM programmer!',13,10,'$'
 
 ## संदर्भ
 
-* [कॉम फ़ाइल - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/COM_file)
+* [कॉम फ़ाइल - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/COM_file)
 

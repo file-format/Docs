@@ -45,5 +45,5 @@
 
 ## Использованная литература ##
 
-* [VOX — Википедия] (https://en.wikipedia.org/wiki/Dialogic_ADPCM)
+* [VOX — Википедия](https://en.wikipedia.org/wiki/Dialogic_ADPCM)
 

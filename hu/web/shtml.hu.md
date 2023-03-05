@@ -23,7 +23,7 @@ Az .shtml kiterjesztésű fájl egy [HTML](/hu/web/html/) nyelven írt weboldal,
 
 ## SHTML fájlformátum
 
-Az SHTML-fájlok egyszerű szöveggel vannak írva, és az [SSI-parancsokat] (https://www.w3.org/Jigsaw/Doc/User/SSI.html) használják, amelyek a szerver oldalon futnak le. Ezekkel a szerveroldali parancsokkal még az adatbázis-illesztőprogramok segítségével is csatlakozhat az adatbázishoz, és lekérheti a felhasználók adatait a táblákból.
+Az SHTML-fájlok egyszerű szöveggel vannak írva, és az [SSI-parancsokat](https://www.w3.org/Jigsaw/Doc/User/SSI.html) használják, amelyek a szerver oldalon futnak le. Ezekkel a szerveroldali parancsokkal még az adatbázis-illesztőprogramok segítségével is csatlakozhat az adatbázishoz, és lekérheti a felhasználók adatait a táblákból.
 
 ## SHTML példa
 

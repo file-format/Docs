@@ -50,5 +50,5 @@ Um ein einzelnes Benutzersteuerelement auf vielen Seiten zu verwenden, kann das 
 ## Verweise
 
 * [ASCX vs. ASMX](https://forums.asp.net/t/1838934.aspx?How+to+work+with+ascx+files+)
-* [ASCX-Benutzersteuerung] (http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
+* [ASCX-Benutzersteuerung](http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

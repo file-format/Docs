@@ -44,6 +44,6 @@ Unkomprimierte PCC-Dateien sind in die folgenden fünf Teile unterteilt.
 ## Verweise
 
 * [Me3Explorer - PCC-Dateiformat](https://me3explorer.fandom.com/wiki/PCC_File_Format)
-* [Mass Effect-Spiel] (https://www.ea.com/games/mass-effect/mass-effect-3)
+* [Mass Effect-Spiel](https://www.ea.com/games/mass-effect/mass-effect-3)
 * [Bioware](https://www.bioware.com/about/)
 

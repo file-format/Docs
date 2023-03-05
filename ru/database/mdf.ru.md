@@ -19,7 +19,7 @@
 
 ## .MDF вариант №
 
-Файл с расширением .mdf — это основной файл базы данных, используемый [Microsoft SQL Server] (https://en.wikipedia.org/wiki/Microsoft_SQL_Server) для хранения пользовательских данных. Это имеет первостепенное значение, так как все данные хранятся в этом файле. Файл MDF хранит пользовательские данные в реляционных базах данных в виде столбцов, строк, полей, индексов, представлений и таблиц. SQL Server позволяет устанавливать параметры автоматического увеличения и автоматического сжатия, что положительно влияет на производительность базы данных. Файлы MDF можно загружать и присоединять к базе данных с помощью Microsoft SQL Server. Файлы MDF имеют тип mime Application/octet-stream.
+Файл с расширением .mdf — это основной файл базы данных, используемый [Microsoft SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server) для хранения пользовательских данных. Это имеет первостепенное значение, так как все данные хранятся в этом файле. Файл MDF хранит пользовательские данные в реляционных базах данных в виде столбцов, строк, полей, индексов, представлений и таблиц. SQL Server позволяет устанавливать параметры автоматического увеличения и автоматического сжатия, что положительно влияет на производительность базы данных. Файлы MDF можно загружать и присоединять к базе данных с помощью Microsoft SQL Server. Файлы MDF имеют тип mime Application/octet-stream.
 
 ## Формат файла МДФ
 
@@ -58,7 +58,7 @@ PFS определяет состояние распределения и кол
 
 ## использованная литература
 
-* [Файлы базы данных и файловые группы] (https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [Отсоединение и присоединение базы данных — SQL Server] (https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
-* [Анализ анатомии файла данных SQL Server] (https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
+* [Файлы базы данных и файловые группы](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
+* [Отсоединение и присоединение базы данных — SQL Server](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
+* [Анализ анатомии файла данных SQL Server](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

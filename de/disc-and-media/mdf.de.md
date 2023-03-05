@@ -50,6 +50,6 @@ Es gibt mehrere alternative Softwareprogramme, die MDF-Dateien öffnen können. 
 Bitte beachten Sie, dass einige dieser Software das MDS-Dateiformat, das mit MDF-Dateien verknüpft ist, möglicherweise nicht unterstützen und die MDF-Dateien nur ohne die Emulation der physischen Disc öffnen können. Sie sollten die Kompatibilität der Software mit der Version der MDF-Datei und der Funktion, die Sie ausführen möchten, überprüfen, bevor Sie sie installieren oder verwenden.
 
 ## Verweise
-* [Alkohol 120 % - Disk-Image-Emulator] (https://en.wikipedia.org/wiki/Alcohol_120%25)
+* [Alkohol 120 % - Disk-Image-Emulator](https://en.wikipedia.org/wiki/Alcohol_120%25)
 
 

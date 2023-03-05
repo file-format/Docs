@@ -188,6 +188,6 @@ VAL_ 500 IO_DEBUG_test_enum 2 "IO_DEBUG_test2_enum_two" 1 "IO_DEBUG_test2_enum_o
 
 ## مراجع ##
 
-* [تنسيق DBC] (http://socialledge.com/sjsu/index.php/DBC_Format)
-* [مقدمة لملفات J1939 و DBC] (https://www.kvaser.com/developer-blog/an-introduction-j1939-and-dbc-files/)
+* [تنسيق DBC](http://socialledge.com/sjsu/index.php/DBC_Format)
+* [مقدمة لملفات J1939 و DBC](https://www.kvaser.com/developer-blog/an-introduction-j1939-and-dbc-files/)
 

@@ -105,5 +105,5 @@ EOD
 
 ## संदर्भ ##
 
-* [डीआईएफ - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/Data_Interchange_Format)
+* [डीआईएफ - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Data_Interchange_Format)
 

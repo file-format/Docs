@@ -19,7 +19,7 @@
 
 ## ما هو ملف PML؟
 
-قدمت شركة Palm Inc تنسيق ملف PML الذي يرمز إلى Palm Markup Language File. والغرض منه هو إنشاء مستندات للقارئ الإلكتروني وهو جهاز قراءة كتاب إلكتروني مشابه للكمبيوتر اللوحي. يعطي ملف PML التخطيط لملف [PDB] (/ar/ ebook / pdb /) (يحتوي على ملفات بيانات مختلفة) ليتم عرضها على جهاز Palm.
+قدمت شركة Palm Inc تنسيق ملف PML الذي يرمز إلى Palm Markup Language File. والغرض منه هو إنشاء مستندات للقارئ الإلكتروني وهو جهاز قراءة كتاب إلكتروني مشابه للكمبيوتر اللوحي. يعطي ملف PML التخطيط لملف [PDB](/ar/ ebook / pdb /) (يحتوي على ملفات بيانات مختلفة) ليتم عرضها على جهاز Palm.
 
 ## التفاصيل الفنية لملفات PML
 
@@ -66,6 +66,6 @@
 
 ## مراجع
 
-* [لغة ترميز Palm - بواسطة MobileRead] (https://wiki.mobileread.com/wiki/EReader)
-* [قارئ إلكتروني - بواسطة MobileRead] (https://en.wikipedia.org/wiki/E-reader)
+* [لغة ترميز Palm - بواسطة MobileRead](https://wiki.mobileread.com/wiki/EReader)
+* [قارئ إلكتروني - بواسطة MobileRead](https://en.wikipedia.org/wiki/E-reader)
 

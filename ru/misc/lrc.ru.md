@@ -71,5 +71,5 @@ mm:ss.xxlast lyrics line
 
 ## использованная литература
 
-* [Формат файла текстов песен LRC — Википедия] (https://en.wikipedia.org/wiki/LRC_(file_format))
+* [Формат файла текстов песен LRC — Википедия](https://en.wikipedia.org/wiki/LRC_(file_format))
 

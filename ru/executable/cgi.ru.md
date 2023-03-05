@@ -83,5 +83,5 @@ WINDIR="C:\Windows"
 
 ## использованная литература
 
-* [Общий интерфейс шлюза — от Wikipewdia] (https://en.wikipedia.org/wiki/Common_Gateway_Interface)
+* [Общий интерфейс шлюза — от Wikipewdia](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
 

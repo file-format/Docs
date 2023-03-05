@@ -20,7 +20,7 @@ Soubor s příponou .webm je soubor videa založený na otevřeném, bezplatném
 
 ## Formát souboru WEBM
 
-Struktura souborů WebM je založena na podmnožině formátu kontejnerového souboru Matroska [MKV](/cs/video/mkv/). Video streamy dostupné v souboru WebM jsou komprimovány pomocí kompresních technologií VP8 nebo VP9, které jsou vysoce účinné při kompresi. Podobně jsou audio streamy v souboru WebM komprimovány pomocí kodeků Vorbis nebo Opus, které byly vyvinuty [Xiph Foundation] (https://www.xiph.org/). Všechna tato videa a zvukové kodeky jsou zdarma a lze je používat bez jakýchkoli poplatků.
+Struktura souborů WebM je založena na podmnožině formátu kontejnerového souboru Matroska [MKV](/cs/video/mkv/). Video streamy dostupné v souboru WebM jsou komprimovány pomocí kompresních technologií VP8 nebo VP9, které jsou vysoce účinné při kompresi. Podobně jsou audio streamy v souboru WebM komprimovány pomocí kodeků Vorbis nebo Opus, které byly vyvinuty [Xiph Foundation](https://www.xiph.org/). Všechna tato videa a zvukové kodeky jsou zdarma a lze je používat bez jakýchkoli poplatků.
 
 Níže jsou uvedeny souhrnné specifikace pro formát souboru WebM.
 

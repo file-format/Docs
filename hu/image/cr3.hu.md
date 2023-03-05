@@ -23,7 +23,7 @@ A CR3 fájl egy Canon RAW képfájl formátum, amelyet bizonyos Canon digitális
 
 ## CR3 fájlformátum
 
-A CR3 fájlok bináris fájlként kerülnek a lemezre az ISO Base Media File Format (ISO/IEC 14496-12) szerint, és egyéni [Canon-címkéket] is tartalmaznak (https://exiftool.org/TagNames/Canon.html#uuid). Tartalmazza továbbá a [Canon „crx” kodeket] (https://github.com/LibRaw/LibRaw/blob/master/src/decoders/crx.cpp), amely a JPEG-LS (Rice-Golomb + RLE) keveréke kódolás) és JPEG-2000 (LeGall 5/3 DWT + kvantifikáció).
+A CR3 fájlok bináris fájlként kerülnek a lemezre az ISO Base Media File Format (ISO/IEC 14496-12) szerint, és egyéni [Canon-címkéket] is tartalmaznak (https://exiftool.org/TagNames/Canon.html#uuid). Tartalmazza továbbá a [Canon „crx” kodeket](https://github.com/LibRaw/LibRaw/blob/master/src/decoders/crx.cpp), amely a JPEG-LS (Rice-Golomb + RLE) keveréke kódolás) és JPEG-2000 (LeGall 5/3 DWT + kvantifikáció).
 
 ## CR3 egyéni címkék
 
@@ -43,6 +43,6 @@ A CR3 fájlok különböző célokra egyedi címkéket tartalmaznak. E címkék 
 
 ## Hivatkozások
 
-* [CR2 fájlformátum] (http://lclevy.free.fr/cr2/)
+* [CR2 fájlformátum](http://lclevy.free.fr/cr2/)
 * [Canon-címkék](https://exiftool.org/TagNames/Canon.html#uuid)
 

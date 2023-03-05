@@ -25,7 +25,7 @@ XPS визуализаторите са интегрирани като част
 
 ## Кратка история ##
 
-Microsoft предостави XPS спецификацията на Ecma International. През юни 2007 г. Техническият комитет 46 на Ecma (TC46) беше създаден, за да разработи стандарт, базиран на спецификациите за хартия OpenXPS. Ecma International одобри стандарта Ecma (ECMA-388) [XPS спецификации] (http://www.ecma-international.org/publications/standards/Ecma-388.htm) през юни 2009 г. на 97-ото Общо събрание.
+Microsoft предостави XPS спецификацията на Ecma International. През юни 2007 г. Техническият комитет 46 на Ecma (TC46) беше създаден, за да разработи стандарт, базиран на спецификациите за хартия OpenXPS. Ecma International одобри стандарта Ecma (ECMA-388) [XPS спецификации](http://www.ecma-international.org/publications/standards/Ecma-388.htm) през юни 2009 г. на 97-ото Общо събрание.
 
 ## XPS файлов формат ##
 
@@ -48,13 +48,13 @@ Microsoft предостави XPS спецификацията на Ecma Intern
 
 Форматът XPS документ включва добре дефиниран набор от части и връзки, всяка от които изпълнява определена цел в документа. Форматът също така разширява функциите на пакета, включително цифрови подписи, миниатюри и преплитане.
 
-Типичен XPS документ изглежда по следния начин и може да бъде анализиран в светлината на XPS файлов формат [спецификации] (https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf).
+Типичен XPS документ изглежда по следния начин и може да бъде анализиран в светлината на XPS файлов формат [спецификации](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf).
 
 {{< figure src="../XPS-2.png" alt="XPS файлов формат" >}}
 
 
 ## Препратки ##
 
-* [Спецификации на файловия формат XPS] (http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+* [Спецификации на файловия формат XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
 * [XPS – от Wikipedia](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

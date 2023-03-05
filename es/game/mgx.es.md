@@ -23,11 +23,11 @@ Un archivo con la extensión .mgx es un archivo grabado para el juego Age of Emp
 
 ## Formato de archivo MGX - Más información
 
-El formato de archivo interno del archivo MGX se elaboró y está disponible como información parcialmente validada en [Age of Empires 2: The Conquerors — Especificación de formato de archivo de guardado] (https://github.com/stefan-kolb/aoc-mgx- formato). Las especificaciones describen los detalles en las siguientes secciones.
+El formato de archivo interno del archivo MGX se elaboró y está disponible como información parcialmente validada en [Age of Empires 2: The Conquerors — Especificación de formato de archivo de guardado](https://github.com/stefan-kolb/aoc-mgx- formato). Las especificaciones describen los detalles en las siguientes secciones.
 
 ### Definiciones de estructura
 
-Se cree que las definiciones de estructura del formato de archivo GPX se basan en las [declaraciones de BinData Ruby Gem] (https://github.com/dmendel/bindata/wiki) que proporcionan una forma de leer y escribir datos binarios estructurados. Esto le permite al programador especificar el formato de los datos binarios que luego BinData lee y escribe.
+Se cree que las definiciones de estructura del formato de archivo GPX se basan en las [declaraciones de BinData Ruby Gem](https://github.com/dmendel/bindata/wiki) que proporcionan una forma de leer y escribir datos binarios estructurados. Esto le permite al programador especificar el formato de los datos binarios que luego BinData lee y escribe.
 
 ### Mensajería MGX
 

@@ -70,6 +70,6 @@ ENDFONT
 
 
 ## مراجع
-* [تنسيق توزيع الصور النقطية Glyph] (https://en.wikipedia.org/wiki/Glyph_Bitmap_Distribution_Format)
-* [مواصفات تنسيق توزيع الصور النقطية (BDF)] (https://adobe-type-tools.github.io/font-tech-notes/pdfs/5005.BDF_Spec.pdf)
+* [تنسيق توزيع الصور النقطية Glyph](https://en.wikipedia.org/wiki/Glyph_Bitmap_Distribution_Format)
+* [مواصفات تنسيق توزيع الصور النقطية (BDF)](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5005.BDF_Spec.pdf)
 

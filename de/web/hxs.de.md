@@ -28,5 +28,5 @@ HXS-Dateien werden als komprimierte Dateien aus HTML-Inhalten und XML-Metadaten 
 
 ## Verweise
 
-* [Microsoft Help 2.0-Datei] (https://en.wikipedia.org/wiki/Microsoft_Help_2)
+* [Microsoft Help 2.0-Datei](https://en.wikipedia.org/wiki/Microsoft_Help_2)
 

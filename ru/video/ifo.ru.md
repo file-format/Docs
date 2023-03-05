@@ -30,6 +30,6 @@
 
 ## использованная литература
 
-* [VobSub] (https://www.videohelp.com/software/VobSub)
-* [Inside Video DVD-Video Files] (https://en.wikibooks.org/wiki/Inside_DVD-Video/IFO_Files)
+* [VobSub](https://www.videohelp.com/software/VobSub)
+* [Inside Video DVD-Video Files](https://en.wikibooks.org/wiki/Inside_DVD-Video/IFO_Files)
 

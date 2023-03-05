@@ -29,5 +29,5 @@ Les fichiers USX sont enregistrés sur le disque sous forme de fichiers binaires
 
 ## Références
 
-* [Tutoriel Unreal Static Meshes] (https://docs.unrealengine.com/udk/Two/StaticMeshesTutorial.html)
+* [Tutoriel Unreal Static Meshes](https://docs.unrealengine.com/udk/Two/StaticMeshesTutorial.html)
 

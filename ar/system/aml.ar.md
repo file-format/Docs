@@ -23,7 +23,7 @@
 
 ## تنسيق ملف ACPI AML
 
-يتم حفظ ملفات AML كملفات ثنائية على قرص بمحتويات مكتوبة برمز بايت. مواصفات تنسيق الملف لمعيار ACPI متاحة على [uefi] (https://uefi.org/node/735). تم تصميم اللغة لتوفير الاستقرار والتوافق مع الإصدارات السابقة ، مما يتطلب إعادة كتابة أقل أو إعادة بناء مكدس التطبيق.
+يتم حفظ ملفات AML كملفات ثنائية على قرص بمحتويات مكتوبة برمز بايت. مواصفات تنسيق الملف لمعيار ACPI متاحة على [uefi](https://uefi.org/node/735). تم تصميم اللغة لتوفير الاستقرار والتوافق مع الإصدارات السابقة ، مما يتطلب إعادة كتابة أقل أو إعادة بناء مكدس التطبيق.
 
 ## مواصفات تنسيق ملف AML
 
@@ -48,7 +48,7 @@ DefinitionBlock ("test.aml", "DSDT", 1, "OEMID ", "TABLEID  ", 0x00000000)
 
 ## مراجع
 
-* [ACPI AML] (https://wiki.osdev.org/AML)
-* [DSDT] (https://wiki.osdev.org/DSDT)
-* [SSDT] (https://wiki.osdev.org/SSDT)
+* [ACPI AML](https://wiki.osdev.org/AML)
+* [DSDT](https://wiki.osdev.org/DSDT)
+* [SSDT](https://wiki.osdev.org/SSDT)
 

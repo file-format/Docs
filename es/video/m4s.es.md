@@ -34,7 +34,7 @@ Hay API de código abierto disponibles que se pueden usar para leer y convertir 
 
 * [libdash](https://github.com/bitmovin/libdash) - API .NET para archivos M4S
 * [dash.js](https://github.com/Dash-Industry-Forum/dash.js) - Cliente Javascript para archivo M4S
-* [Ir a la biblioteca para crear archivos Dash] (https://github.com/zencoder/go-dash)
+* [Ir a la biblioteca para crear archivos Dash](https://github.com/zencoder/go-dash)
 
 ### API de código abierto para convertir M4S a MP4
 
@@ -42,6 +42,6 @@ Hay API de código abierto disponibles que se pueden usar para leer y convertir 
 
 ## Referencias ###
 
-* [Formato de archivo de medios base ISO (ISOBMFF)] (https://www.w3.org/TR/mse-byte-stream-format-isobmff/)
+* [Formato de archivo de medios base ISO (ISOBMFF)](https://www.w3.org/TR/mse-byte-stream-format-isobmff/)
 * [Streaming adaptativo dinámico sobre HTTP - MPEG-DASH](https://en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP)
 

@@ -64,6 +64,4 @@ Windows Registry Editor Version 5.00
 ## Reference
 
 * [Registr Windows – podle Wikipedie](https://en.wikipedia.org/wiki/Windows_Registry)
-* [Jak přidat, upravit nebo odstranit podklíče a hodnoty registru pomocí souboru .reg](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete- podklíče-a-hodnoty-registru-pomocí-a-reg-souboru-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23)
-
-
+* [Jak přidat, upravit nebo odstranit podklíče a hodnoty registru pomocí souboru .reg](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete-registry-subkeys-and-values-by-using-a-reg-file-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23)

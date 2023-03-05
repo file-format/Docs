@@ -27,5 +27,5 @@ Los archivos DFG guardan la información de datos de la hoja de cálculo como ar
 
 ## Referencias
 
-* [Descarga de frasco de datos de Interscape] (https://download.cnet.com/Data-Flask/3000-2077_4-10620775.html)
+* [Descarga de frasco de datos de Interscape](https://download.cnet.com/Data-Flask/3000-2077_4-10620775.html)
 

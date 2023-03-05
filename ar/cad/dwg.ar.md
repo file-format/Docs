@@ -39,7 +39,7 @@
 
 ## هيكل الملف ##
 
-كان DWG أحد تنسيقات الملفات المستخدمة على نطاق واسع من قبل مجموعة من التطبيقات ولديه بنية ملف قوية. نظرًا لأن DWG هو تنسيق ملف ثنائي ، فهو ليس قابلاً للقراءة البشرية مثل تنسيق ملف ASCII [DXF] (/ar/ cad / dxf /). تتضمن ملفات DWG عادةً معلومات حول إحداثيات الصورة وأي بيانات وصفية مرتبطة بها. استكمال [المواصفات] (https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf) من تنسيق ملف DWG متاح للتنزيل بواسطة OpenDesign. يتم تلخيص هيكل الملف الخاص بتنسيق ملف DWG على النحو التالي.
+كان DWG أحد تنسيقات الملفات المستخدمة على نطاق واسع من قبل مجموعة من التطبيقات ولديه بنية ملف قوية. نظرًا لأن DWG هو تنسيق ملف ثنائي ، فهو ليس قابلاً للقراءة البشرية مثل تنسيق ملف ASCII [DXF](/ar/ cad / dxf /). تتضمن ملفات DWG عادةً معلومات حول إحداثيات الصورة وأي بيانات وصفية مرتبطة بها. استكمال [المواصفات](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf) من تنسيق ملف DWG متاح للتنزيل بواسطة OpenDesign. يتم تلخيص هيكل الملف الخاص بتنسيق ملف DWG على النحو التالي.
 
 ** Header **: يتكون رأس الملف من متغيرات DWG Header ومعلومات حول فحص التكرار الدوري (CRC) الذي يستخدم لاكتشاف الأخطاء. كل قسم فرعي عبارة عن متجه متخصص حيث يتم استخدام أطوال مختلفة من البتات لتمثيل تسميات مختلفة. على سبيل المثال ، أول 6 بتات من متغير DWG Header تعني سلسلة الإصدار.
 
@@ -61,7 +61,7 @@
 
 ## مراجع ##
 
-* [مواصفات تنسيق ملف DWG] (https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [مواصفات ملف DWG] (https://www.scan2cad.com/dwg/file-spec/)
-* [DWG - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/.dwg)
+* [مواصفات تنسيق ملف DWG](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
+* [مواصفات ملف DWG](https://www.scan2cad.com/dwg/file-spec/)
+* [DWG - بواسطة Wikipedia](https://en.wikipedia.org/wiki/.dwg)
 

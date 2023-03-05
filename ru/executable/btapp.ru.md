@@ -26,5 +26,5 @@
 
 ## использованная литература
 
-* [Файл TORRENT — википедия] (https://en.wikipedia.org/wiki/Torrent_file)
+* [Файл TORRENT — википедия](https://en.wikipedia.org/wiki/Torrent_file)
 

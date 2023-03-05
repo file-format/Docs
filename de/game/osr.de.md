@@ -19,7 +19,7 @@
 
 ## Was ist eine OSR-Datei?
 
-Eine OSR-Datei ist eine Spielwiedergabedatei, die vom [osu! Spiel] (https://osu.ppy.sh/home). Okay! ist ein Rhythmusspiel, bei dem Benutzer Mausklicks mit der Musik abgleichen. Das vom Benutzer gespielte Lied, Hits und Misses, Zeit und Datum des gespielten Lieds und die Gesamtrangliste werden in der OSR-Datei aufgezeichnet. Diese OSR-Datei kann dann für Wiedergabezwecke mit anderen geteilt werden. Für die OSR-Datei muss die Beatmap-Datei im Ordner „Songs“ vorhanden sein.
+Eine OSR-Datei ist eine Spielwiedergabedatei, die vom [osu! Spiel](https://osu.ppy.sh/home). Okay! ist ein Rhythmusspiel, bei dem Benutzer Mausklicks mit der Musik abgleichen. Das vom Benutzer gespielte Lied, Hits und Misses, Zeit und Datum des gespielten Lieds und die Gesamtrangliste werden in der OSR-Datei aufgezeichnet. Diese OSR-Datei kann dann für Wiedergabezwecke mit anderen geteilt werden. Für die OSR-Datei muss die Beatmap-Datei im Ordner „Songs“ vorhanden sein.
 
 **MIME-Typ des OSR-Dateiformats:** x-osu-replay
 

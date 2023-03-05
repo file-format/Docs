@@ -50,5 +50,5 @@ LaTeX هو التنسيق الأكثر استخدامًا والذي تم تطو
 
 ## مراجع ##
 
-* [نظام تنضيد TeX] (https://en.wikipedia.org/wiki/TeX)
+* [نظام تنضيد TeX](https://en.wikipedia.org/wiki/TeX)
 

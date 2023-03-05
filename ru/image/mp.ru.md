@@ -27,7 +27,7 @@
 
 ### Пример MP-файла MetaPost
 
-Ниже приведен пример, на который ссылается [Berkeley Eductational Wiki] (https://math.berkeley.edu/computing/wiki/index.php/Latex_sample_metapost), который содержит стрелку и букву «A» чуть выше середины стрелка.
+Ниже приведен пример, на который ссылается [Berkeley Eductational Wiki](https://math.berkeley.edu/computing/wiki/index.php/Latex_sample_metapost), который содержит стрелку и букву «A» чуть выше середины стрелка.
 
 ```
 outputtemplate:="%j%c.mps";
@@ -45,6 +45,6 @@ bye
 ```
 ## Использованная литература ##
 
-* [MetaPost из Википедии] (https://en.wikipedia.org/wiki/MetaPost)
-* [Образец латекса Metapost от Berkeley Educational Wiki] (https://math.berkeley.edu/computing/wiki/index.php/Latex_sample_metapost)
+* [MetaPost из Википедии](https://en.wikipedia.org/wiki/MetaPost)
+* [Образец латекса Metapost от Berkeley Educational Wiki](https://math.berkeley.edu/computing/wiki/index.php/Latex_sample_metapost)
 

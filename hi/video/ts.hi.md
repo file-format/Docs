@@ -38,5 +38,5 @@ TS फ़ाइल में डेटा [MP4](/hi/video/mp4/) फ़ाइल 
 
 ## संदर्भ ##
 
-* [एमपीईजी ट्रांसपोर्ट स्ट्रीम - विकिपीडिया] (https://en.wikipedia.org/wiki/MPEG_transport_stream)
+* [एमपीईजी ट्रांसपोर्ट स्ट्रीम - विकिपीडिया](https://en.wikipedia.org/wiki/MPEG_transport_stream)
 

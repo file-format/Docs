@@ -117,5 +117,5 @@ PhotometricInterpretation = 2 (RGB) и нет ColorMap.
 
 ## Использованная литература ##
 
-* [Формат файла TIFF — Википедия] (https://en.wikipedia.org/wiki/TIFF)
+* [Формат файла TIFF — Википедия](https://en.wikipedia.org/wiki/TIFF)
 

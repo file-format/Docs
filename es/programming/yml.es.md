@@ -23,7 +23,7 @@ YML es un archivo de texto en lenguaje de serialización de datos, [YAML](/es/pr
 
 ## Formato de archivo YML - Más información
 
-Los archivos YML almacenan la configuración de la aplicación como configuración. Su estructura básica es un mapa que también puede llamarse directorio o hash. Las entradas en un archivo YML consisten en un par de clave y valor. En su mayoría, los archivos de configuración .yml se guardan como `configure.yml`, aunque algunos lenguajes de programación como Ruby on Rails guardan la configuración de conectividad de la base de datos en archivos `database.yml`. [Especificaciones de formato de archivo YML/YAML] (https://yaml.org/spec/1.2.2/) explican las estructuras completas del lenguaje y la información relacionada con la sintaxis.
+Los archivos YML almacenan la configuración de la aplicación como configuración. Su estructura básica es un mapa que también puede llamarse directorio o hash. Las entradas en un archivo YML consisten en un par de clave y valor. En su mayoría, los archivos de configuración .yml se guardan como `configure.yml`, aunque algunos lenguajes de programación como Ruby on Rails guardan la configuración de conectividad de la base de datos en archivos `database.yml`. [Especificaciones de formato de archivo YML/YAML](https://yaml.org/spec/1.2.2/) explican las estructuras completas del lenguaje y la información relacionada con la sintaxis.
 
 ## Referencias
 

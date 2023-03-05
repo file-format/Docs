@@ -37,5 +37,5 @@ ICA файловете трябва да отговарят на определ�
 ## Препратки
 
 * [Разбиране на съдържанието на ICA файла](https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
-* [Справочник за настройките на Citrix ICA] (http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
+* [Справочник за настройките на Citrix ICA](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
 

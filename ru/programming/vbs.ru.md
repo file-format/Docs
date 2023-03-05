@@ -62,7 +62,7 @@ VBS или VBScript связаны со сценарной версией Micros
 
 ## Ссылка ##
 
-* [VBS — из Википедии] (https://en.wikipedia.org/wiki/VBScript)
+* [VBS — из Википедии](https://en.wikipedia.org/wiki/VBScript)
 
 
 

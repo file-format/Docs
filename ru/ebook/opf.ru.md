@@ -27,7 +27,7 @@ OPF расшифровывается как Open Package Format. Этот фор
 
 ## Использованная литература ##
 
-* [Файл OPF] (https://www.lynda.com/InDesign-tutorials/OPF-file/2803422/2247530-4.html)
-* [Открыть электронную книгу] (https://en.wikipedia.org/wiki/Open_eBook)
+* [Файл OPF](https://www.lynda.com/InDesign-tutorials/OPF-file/2803422/2247530-4.html)
+* [Открыть электронную книгу](https://en.wikipedia.org/wiki/Open_eBook)
 
 

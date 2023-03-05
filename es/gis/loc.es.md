@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo LOC?
 
-Un archivo con extensión .loc es un archivo de ubicación GPS que contiene ubicaciones geoespaciales como waypoints. Un waypoint es un par de valores de latitud y longitud que se refieren a una ubicación utilizada por las aplicaciones del sistema de información geográfica (SIG). Los programas de mapas GPS, como DeLorme Topo, usan archivos LOC para leer y mostrar información contenida en estos archivos LOC como capas seleccionables por los usuarios finales. Además, se utilizan para intercambiar datos GPS entre aplicaciones. Los archivos LOC se pueden abrir usando aplicaciones como [TopoGrafix EasyGPS] (https://www.easygps.com/) que muestra el contenido de dichos archivos como capas y datos trazados en el mapa en la geolocalización respectiva.
+Un archivo con extensión .loc es un archivo de ubicación GPS que contiene ubicaciones geoespaciales como waypoints. Un waypoint es un par de valores de latitud y longitud que se refieren a una ubicación utilizada por las aplicaciones del sistema de información geográfica (SIG). Los programas de mapas GPS, como DeLorme Topo, usan archivos LOC para leer y mostrar información contenida en estos archivos LOC como capas seleccionables por los usuarios finales. Además, se utilizan para intercambiar datos GPS entre aplicaciones. Los archivos LOC se pueden abrir usando aplicaciones como [TopoGrafix EasyGPS](https://www.easygps.com/) que muestra el contenido de dichos archivos como capas y datos trazados en el mapa en la geolocalización respectiva.
 
 ## Formato de archivo LOC - Más información
 

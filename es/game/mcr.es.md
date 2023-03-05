@@ -18,7 +18,7 @@
 
 ## ¿Qué es un archivo MCR?
 
-El formato de archivo MCR de Minecraft es un formato de datos utilizado por Minecraft para almacenar fragmentos de terreno de un mundo de Minecraft. Se basa en el formato NBT (Etiqueta binaria con nombre), que fue desarrollado por los desarrolladores del popular motor de juegos de código abierto, Minecraft Forge. El tipo de archivo MCR se introdujo desde el principio y luego fue reemplazado por el [formato de archivo MCA] (/es/juego/mca/).
+El formato de archivo MCR de Minecraft es un formato de datos utilizado por Minecraft para almacenar fragmentos de terreno de un mundo de Minecraft. Se basa en el formato NBT (Etiqueta binaria con nombre), que fue desarrollado por los desarrolladores del popular motor de juegos de código abierto, Minecraft Forge. El tipo de archivo MCR se introdujo desde el principio y luego fue reemplazado por el [formato de archivo MCA](/es/juego/mca/).
 
 ## Formato de archivo MCR
 
@@ -34,7 +34,7 @@ Las especificaciones del formato de archivo MCR están disponibles públicamente
 
 ### Datos comprimidos en archivos MCR
 
-El formato de archivo MCR de Minecraft admite la compresión. El formato de archivo MCR se basa en el [formato NBT] (https://minecraft.fandom.com/wiki/NBT_format) que permite que los datos se almacenen en forma comprimida. Esto ayuda a reducir el tamaño de los archivos MCR y hacerlos más eficientes para transferir y almacenar. Esta es una característica importante del formato de archivo MCR, ya que permite a los jugadores compartir grandes datos de terreno de Minecraft World con otros.
+El formato de archivo MCR de Minecraft admite la compresión. El formato de archivo MCR se basa en el [formato NBT](https://minecraft.fandom.com/wiki/NBT_format) que permite que los datos se almacenen en forma comprimida. Esto ayuda a reducir el tamaño de los archivos MCR y hacerlos más eficientes para transferir y almacenar. Esta es una característica importante del formato de archivo MCR, ya que permite a los jugadores compartir grandes datos de terreno de Minecraft World con otros.
 
 ## Referencias
 

@@ -35,5 +35,5 @@ Les fichiers AAE accompagnent les images modifiées lorsque vous les importez da
 
 ## Références
 
-* [Qu'est-ce qu'un fichier AAE ?] (https://discussions.apple.com/thread/7810994)
+* [Qu'est-ce qu'un fichier AAE ?](https://discussions.apple.com/thread/7810994)
 

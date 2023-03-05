@@ -23,5 +23,5 @@ lastmod: 2022-04-06
 
 ## Использованная литература ##
 
-* [Mercurial SCM — файл исправления] (https://www.mercurial-scm.org/wiki/PatchFile)
+* [Mercurial SCM — файл исправления](https://www.mercurial-scm.org/wiki/PatchFile)
 

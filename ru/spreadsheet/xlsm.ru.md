@@ -29,6 +29,6 @@ Excel предоставляет простые в использовании ш
 
 ## Использованная литература ##
 
-* [Формат файла MS-XLSX] (https://msdn.microsoft.com/en-us/library/dd922181(v#office.12).aspx)
-* [Open Office XML] (http://officeopenxml.com/anatomyofOOXML-xlsx.php)
+* [Формат файла MS-XLSX](https://msdn.microsoft.com/en-us/library/dd922181(v#office.12).aspx)
+* [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

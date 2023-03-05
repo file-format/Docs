@@ -52,7 +52,7 @@ ESRI ファイル ジオデータベース (FileGDB) は、フィーチャ デ�
 
 ## GDB ファイル形式の仕様 ##
 
-ファイル GDB は ESRI 独自の形式であり、その仕様は公開されていません。このため、FIle GDB のファイル形式の詳細は、リバース エンジニアリングによって [部分的に] (https://github.com/rouault/dump_gdbtable/wiki/FGDB-Spec) 行った一部のソース以外には文書化できませんでした。 .
+ファイル GDB は ESRI 独自の形式であり、その仕様は公開されていません。このため、FIle GDB のファイル形式の詳細は、リバース エンジニアリングによって [部分的に](https://github.com/rouault/dump_gdbtable/wiki/FGDB-Spec) 行った一部のソース以外には文書化できませんでした。 .
 
 ## 参照 ##
 

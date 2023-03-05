@@ -42,6 +42,6 @@ Las siguientes herramientas suelen admitir el formato de archivo WIM:
 ## Referencias
 
 
-* [Formato de imágenes de Windows - por Wikipedia] (https://en.wikipedia.org/wiki/Windows_Imaging_Format)
+* [Formato de imágenes de Windows - por Wikipedia](https://en.wikipedia.org/wiki/Windows_Imaging_Format)
 
 

@@ -73,6 +73,6 @@ Autodesk Fusion 360 может преобразовывать файлы STP в 
 
 ## использованная литература
 
-* [ISO 10303-21 — Википедия] (https://en.wikipedia.org/wiki/ISO_10303-21)
-* [Autodesk Fusion 360] (https://www.autodesk.com/products/fusion-360/overview)
+* [ISO 10303-21 — Википедия](https://en.wikipedia.org/wiki/ISO_10303-21)
+* [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview)
 

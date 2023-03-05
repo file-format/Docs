@@ -27,5 +27,5 @@ Un fichier ART est un fichier image bitmap compressé créé et utilisé par le 
 Le format de fichier ART utilise la compression pour faciliter le transfert sur Internet et le partage entre les utilisateurs d'AOL. Il a été utilisé pour la présentation d'images dans le service en ligne à l'aide du navigateur Web du client. La taille réduite des fichiers ART facilite des téléchargements plus rapides, même sur des connexions Internet plus lentes au début.
 
 ## Références
-* [Format de fichier d'image ART - Par Wikipedia] (https://en.wikipedia.org/wiki/ART_image_file_format)
+* [Format de fichier d'image ART - Par Wikipedia](https://en.wikipedia.org/wiki/ART_image_file_format)
 

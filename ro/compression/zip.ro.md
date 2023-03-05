@@ -19,7 +19,7 @@
 
 ## Ce este un fișier ZIP? ##
 
-Un fișier cu extensia .zip este o arhivă care poate deține unul sau mai multe fișiere sau directoare. Arhiva poate avea compresie aplicată fișierelor incluse pentru a reduce dimensiunea fișierului ZIP. Formatul fișierului ZIP a fost făcut public încă din februarie 1989 de Phil Katz pentru a realiza arhivarea fișierelor și folderelor. Formatul a fost făcut parte din utilitarul [PKZIP](https://www.pkware.com/pkzip), creat de PKWARE, Inc. Imediat după disponibilitatea [specificațiilor disponibile](https://pkware.cachefly.net/ webdocs/casestudies/APPNOTE.TXT), multe companii au făcut ca formatul de fișier ZIP să facă parte din utilitatile lor software, inclusiv Microsoft (din Windows 7), Apple (Mac OS X) și multe altele.
+Un fișier cu extensia .zip este o arhivă care poate deține unul sau mai multe fișiere sau directoare. Arhiva poate avea compresie aplicată fișierelor incluse pentru a reduce dimensiunea fișierului ZIP. Formatul fișierului ZIP a fost făcut public încă din februarie 1989 de Phil Katz pentru a realiza arhivarea fișierelor și folderelor. Formatul a fost făcut parte din utilitarul [PKZIP](https://www.pkware.com/pkzip), creat de PKWARE, Inc. Imediat după disponibilitatea [specificațiilor disponibile](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT), multe companii au făcut ca formatul de fișier ZIP să facă parte din utilitatile lor software, inclusiv Microsoft (din Windows 7), Apple (Mac OS X) și multe altele.
 
 ## Scurt istoric al formatului de fișier ZIP
 
@@ -152,4 +152,3 @@ Antetul fișierului local are o structură de câmp specifică, constând din va
 
 * [Specificații de format de fișier PKWARE ZIP](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
 * [Structura fișierului PKZip](https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip-printable.html)
-

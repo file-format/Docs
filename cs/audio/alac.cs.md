@@ -41,6 +41,6 @@ Soubory založené na kodeku ALAC jsou binární soubory, které jsou k dispozic
 ## Reference
 
 * [ALAC – Wikipedia](https://en.wikipedia.org/wiki/Apple_Lossless)
-* [Apple Lossless Audio Codec] (https://macosforge.github.io/alac/)
+* [Apple Lossless Audio Codec](https://macosforge.github.io/alac/)
 * [macosforge - alac na GitHubu](https://github.com/macosforge/alac)
 

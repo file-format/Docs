@@ -45,5 +45,5 @@ end Root.Child;
 
 ## использованная литература
 
-* [Пакеты Ada] (https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/chapters/07_Packages.html)
+* [Пакеты Ada](https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/chapters/07_Packages.html)
 

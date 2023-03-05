@@ -39,6 +39,6 @@ Une seule base de données Microsoft Access peut comprendre plusieurs fichiers q
 
 ## Références ##
 
-* [Spécifications d'accès] (https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-* [Le guide MDB non officiel] (http://jabakobob.net/mdb/)
+* [Spécifications d'accès](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
+* [Le guide MDB non officiel](http://jabakobob.net/mdb/)
 

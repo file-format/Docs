@@ -23,5 +23,5 @@ Un fichier Linux PUP est un package d'installation utilisé par le système d'ex
 
 ## Références
 
-* [Comment installer dotpups dans Puppy basé sur Ubuntu ?] (https://oldforum.puppylinux.com/viewtopic.php?p=953313)
+* [Comment installer dotpups dans Puppy basé sur Ubuntu ?](https://oldforum.puppylinux.com/viewtopic.php?p=953313)
 

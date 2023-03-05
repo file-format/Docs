@@ -27,7 +27,7 @@ Informacje o wewnętrznym formacie plików .adb nie są dostępne dla programist
 
 ## Bibliografia
 
-* [Alpha w dowolnym miejscu] (https://www.alphasoftware.com/)
+* [Alpha w dowolnym miejscu](https://www.alphasoftware.com/)
 * [Alpha Anywhere – OneHourApp](https://github.com/alphaanywhere/OneHourApp)
-* [Typy plików Alpha Anywhere] (https://documentation.alphasoftware.com/documentation/pages/Guides/Desktop/Design/Data/Set/Alpha%20Anywhere%20File%20Types.xml)
+* [Typy plików Alpha Anywhere](https://documentation.alphasoftware.com/documentation/pages/Guides/Desktop/Design/Data/Set/Alpha%20Anywhere%20File%20Types.xml)
 

@@ -27,5 +27,5 @@ DZ एक मालिकाना फ़ाइल स्वरूप है औ
 
 ## संदर्भ
 
-* [डीज़िप] (http://speeddemosarchive.com/dzip/)
+* [डीज़िप](http://speeddemosarchive.com/dzip/)
 

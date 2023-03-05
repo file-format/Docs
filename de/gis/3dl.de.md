@@ -19,7 +19,7 @@
 
 ## Was ist eine 3DL-Datei?
 
-Eine 3DL-Datei ist eine iGO Landmark-Datei, die von der iGO-Navigationssoftware verwendet wird. Es speichert Standortinformationen für Points of Interest (POIs) und Orientierungspunkte. Diese Informationen können den Namen, den Ort und andere Details zum POI oder Orientierungspunkt enthalten. Das iGO Landmark-Dateiformat ist proprietär und wird nur von der [iGO-Navigationssoftware] (https://www.nng.com/navigation/) verwendet. 3DL-Dateien können in Verbindung mit Kartendatendateien verwendet werden, um Benutzern eine Navigationsführung bereitzustellen.
+Eine 3DL-Datei ist eine iGO Landmark-Datei, die von der iGO-Navigationssoftware verwendet wird. Es speichert Standortinformationen für Points of Interest (POIs) und Orientierungspunkte. Diese Informationen können den Namen, den Ort und andere Details zum POI oder Orientierungspunkt enthalten. Das iGO Landmark-Dateiformat ist proprietär und wird nur von der [iGO-Navigationssoftware](https://www.nng.com/navigation/) verwendet. 3DL-Dateien können in Verbindung mit Kartendatendateien verwendet werden, um Benutzern eine Navigationsführung bereitzustellen.
 
 ## 3DL-Dateiformat
 

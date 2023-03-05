@@ -28,5 +28,5 @@ Les fichiers MAR sont enregistrés en tant que fichiers binaires dans un format 
 
 ## Références
 
-* [Mariner Calc] (https://marinersoftware.com/product/calc-xls/)
+* [Mariner Calc](https://marinersoftware.com/product/calc-xls/)
 

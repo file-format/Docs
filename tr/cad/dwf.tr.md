@@ -31,7 +31,7 @@ DWF, zengin mühendislik tasarım verilerini paylaşmak için özel olarak tasar
 
 **DWF meta veri dosyaları** – Meta veri ve yapıya (yazar, başlık, oluşturma zamanı, bölüm bağımlılıkları, bölüm sıralaması, kaynak dosyası açıklamaları, roller, mime türleri vb.) ve bölüme (sayfa) ilişkin bilgileri içeren XML dosyaları bilgi, tasarım meta verileri vb.). Yapısal meta veriler, mantıksal nesneler (bir parçayı veya sayfayı temsil eden dosya koleksiyonları vb.) oluşturmak için kullanılır.
 
-**Kaynak dosyaları** – paket/bölüm meta verilerinden referans alınan ve genellikle tasarım verilerinin çeşitli biçimlerdeki sunumları olan medya veya diğer içerik dosyaları (ZGL, W2D, [JPG](/tr/image/jpeg/), [PNG] (/tr/image/png/), AVI, XML, [TXT](/tr/word-processing/txt/), [DOC](/tr/word-processing/doc/), vb.)
+**Kaynak dosyaları** – paket/bölüm meta verilerinden referans alınan ve genellikle tasarım verilerinin çeşitli biçimlerdeki sunumları olan medya veya diğer içerik dosyaları (ZGL, W2D, [JPG](/tr/image/jpeg/), [PNG](/tr/image/png/), AVI, XML, [TXT](/tr/word-processing/txt/), [DOC](/tr/word-processing/doc/), vb.)
 
 ### Dosya Biçimi Ayrıntıları ###
 

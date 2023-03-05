@@ -19,7 +19,7 @@
 
 ## Was ist eine AQ-Datei?
 
-Eine Datei mit der Erweiterung .aq ist eine Datenbankdatei, die mit der Anwendung Ancestral Quest von Incline Software, LC erstellt wurde. Es speichert Stammbauminformationen unter Verwendung der genealogischen Daten, die von Einzelpersonen mit der kostenlosen und Premium-Version der Software eingegeben wurden. Die Datenbank speichert Informationen wie Namen, Geburtsorte und Beziehungen von Familienmitgliedern. Ancestral Quest verwendet diese Informationen zum Verknüpfen und Klassifizieren von Informationen wie Ahnentafel, Nachkommen, Familie und Chronikansicht. AQ-Dateien können mit [Incline Software Ancestral Quest] (https://www.ancquest.com/index.htm) geöffnet werden.
+Eine Datei mit der Erweiterung .aq ist eine Datenbankdatei, die mit der Anwendung Ancestral Quest von Incline Software, LC erstellt wurde. Es speichert Stammbauminformationen unter Verwendung der genealogischen Daten, die von Einzelpersonen mit der kostenlosen und Premium-Version der Software eingegeben wurden. Die Datenbank speichert Informationen wie Namen, Geburtsorte und Beziehungen von Familienmitgliedern. Ancestral Quest verwendet diese Informationen zum Verknüpfen und Klassifizieren von Informationen wie Ahnentafel, Nachkommen, Familie und Chronikansicht. AQ-Dateien können mit [Incline Software Ancestral Quest](https://www.ancquest.com/index.htm) geöffnet werden.
 
 ## AQ-Dateiformat - Weitere Informationen
 

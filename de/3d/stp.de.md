@@ -74,5 +74,5 @@ Autodesk Fusion 360 kann STP-Dateien in die folgenden 3D- und CAD-Dateiformate k
 ## Verweise
 
 * [ISO 10303-21 - Wikipedia](https://en.wikipedia.org/wiki/ISO_10303-21)
-* [Autodesk Fusion 360] (https://www.autodesk.com/products/fusion-360/overview)
+* [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview)
 

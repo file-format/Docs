@@ -57,5 +57,5 @@ $b = `getAttr mySphere.translateY`; // Command syntax
 
 ## مراجع
 
-* [MEL] (https://download.autodesk.com/us/maya/2009help/index.html؟url=Glossary_M_.mb_file_format.htm،topicNumber=d0e193865)
+* [MEL](https://download.autodesk.com/us/maya/2009help/index.html؟url=Glossary_M_.mb_file_format.htm،topicNumber=d0e193865)
 

@@ -35,6 +35,6 @@
 
 ## использованная литература
 
-* [Обзор MSIX] (https://docs.microsoft.com/en-us/windows/msix/overview)
-* [Создание файлов APPX с помощью Microsoft Visual Studio] (https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Обзор MSIX](https://docs.microsoft.com/en-us/windows/msix/overview)
+* [Создание файлов APPX с помощью Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

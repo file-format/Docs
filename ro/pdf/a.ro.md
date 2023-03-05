@@ -53,7 +53,7 @@ PDF/A-2 a fost lansat de Standardul ISO în iulie 2011 ca un nou standard cunosc
 
 ## PDF/A-3 ##
 
-PDF/A-3 include toate cerințele de conformitate ale nivelului 2 și permite încorporarea de formate de fișiere suplimentare (cum ar fi XML, [CSV](/ro/spreadsheet/csv/), [CAD](/ro/cad/), [procesare de text] (/ro/procesare de text/), [foaia de calcul](/ro/foaia de calcul/) și altele) în documentele conforme PDF/A.
+PDF/A-3 include toate cerințele de conformitate ale nivelului 2 și permite încorporarea de formate de fișiere suplimentare (cum ar fi XML, [CSV](/ro/spreadsheet/csv/), [CAD](/ro/cad/), [procesare de text](/ro/procesare de text/), [foaia de calcul](/ro/foaia de calcul/) și altele) în documentele conforme PDF/A.
 
 ## Referințe ##
 

@@ -63,7 +63,5 @@ Windows Registry Editor Version 5.00
 
 ## Bibliografia
 
-* [Rejestr systemu Windows — według Wikipedii] (https://en.wikipedia.org/wiki/Windows_Registry)
-* [Jak dodawać, modyfikować lub usuwać podklucze i wartości rejestru za pomocą pliku .reg](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete- podklucze-i-wartości-rejestru przy użyciu-pliku-reg-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23)
-
-
+* [Rejestr systemu Windows — według Wikipedii](https://en.wikipedia.org/wiki/Windows_Registry)
+* [Jak dodawać, modyfikować lub usuwać podklucze i wartości rejestru za pomocą pliku .reg](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete-registry-subkeys-and-values-by-using-a-reg-file-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23)

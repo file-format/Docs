@@ -36,6 +36,6 @@ El estándar UDF define las siguientes tres variaciones del sistema de archivos:
 ## Referencias
 
 
-* [Formato de imágenes de Windows - por Wikipedia] (https://en.wikipedia.org/wiki/Windows_Imaging_Format)
+* [Formato de imágenes de Windows - por Wikipedia](https://en.wikipedia.org/wiki/Windows_Imaging_Format)
 
 

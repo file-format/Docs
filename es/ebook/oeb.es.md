@@ -32,7 +32,7 @@ El paquete de archivos OEB se usó principalmente como un formato de estado medi
 
 ## Referencias
 
-* [OEBPS (Estructura de publicación del foro abierto de libros electrónicos) 1.2] (https://www.loc.gov/preservation/digital/formats/fdd/fdd000171.shtml)
-* [Libro electrónico abierto] (https://en.wikipedia.org/wiki/Open_eBook)
+* [OEBPS (Estructura de publicación del foro abierto de libros electrónicos) 1.2](https://www.loc.gov/preservation/digital/formats/fdd/fdd000171.shtml)
+* [Libro electrónico abierto](https://en.wikipedia.org/wiki/Open_eBook)
 
 

@@ -37,6 +37,6 @@
 
 ## использованная литература
 
-* [BERNINA] (https://www.bernina.com/en-US/Home-United-States)
+* [BERNINA](https://www.bernina.com/en-US/Home-United-States)
 * [BERNINA Embroidery Software V8: о форматах, расширениях и файлах](https://blog.bernina.com/en/2019/07/lesson-14-bernina-embroidery-software-v8/)
 

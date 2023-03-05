@@ -27,7 +27,7 @@ Az XLSX fájlformátumot 2007-ben vezették be, és a Microsoft által 2000-ben 
 
 ## XLSX fájlformátum specifikációi
 
-A hivatalos [XLSX fájlformátum-specifikáció] (https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) online elérhető a Microsofttól. Az XLSX-fájl tartalmának megtekintéséhez nevezze át [ZIP](/hu/compression/zip/) fájlra a kiterjesztésének megváltoztatásával, majd bontsa ki az Excel-munkafüzet alkotófájljainak megtekintéséhez. Egy üres munkafüzet fájljaiba kicsomagolva a következő fájlokat és mappákat tartalmazza.
+A hivatalos [XLSX fájlformátum-specifikáció](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) online elérhető a Microsofttól. Az XLSX-fájl tartalmának megtekintéséhez nevezze át [ZIP](/hu/compression/zip/) fájlra a kiterjesztésének megváltoztatásával, majd bontsa ki az Excel-munkafüzet alkotófájljainak megtekintéséhez. Egy üres munkafüzet fájljaiba kicsomagolva a következő fájlokat és mappákat tartalmazza.
 
 ### [Content_Types].xml ###
 

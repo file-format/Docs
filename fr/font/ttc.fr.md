@@ -55,6 +55,6 @@ Voici les tables d'en-tête TTC des deux versions :
 |uint32| dsigOffset |Le décalage (en octets) de la table DSIG depuis le début du fichier TTC (null si pas de signature)|
 
 ## Références
-* [Le fichier de police OpenType] (https://docs.microsoft.com/en-us/typography/opentype/spec/otff)
+* [Le fichier de police OpenType](https://docs.microsoft.com/en-us/typography/opentype/spec/otff)
 * [TrueType (Wikipédia)](https://en.wikipedia.org/wiki/TrueType)
 

@@ -19,7 +19,7 @@
 
 ## .NSF вариант №
 
-Файл с расширением .nsf (Notes Storage Facility) — это формат файла базы данных, используемый [программным обеспечением IBM Notes] (https://en.wikipedia.org/wiki/HCL_Domino), который ранее был известен как Lotus Notes. Он определяет схему для хранения различных типов объектов, таких как электронные письма, встречи, документы, формы и представления. Вся эта информация содержится в одном файле NSF для совместной работы, аналогичном файлу PST/OST. Некоторые из приложений, которые могут открывать файлы NSF, включают IBM Lotus Notes и IBM Domino.
+Файл с расширением .nsf (Notes Storage Facility) — это формат файла базы данных, используемый [программным обеспечением IBM Notes](https://en.wikipedia.org/wiki/HCL_Domino), который ранее был известен как Lotus Notes. Он определяет схему для хранения различных типов объектов, таких как электронные письма, встречи, документы, формы и представления. Вся эта информация содержится в одном файле NSF для совместной работы, аналогичном файлу PST/OST. Некоторые из приложений, которые могут открывать файлы NSF, включают IBM Lotus Notes и IBM Domino.
 
 ## Спецификации формата файла NSF
 
@@ -71,5 +71,5 @@
 
 ## использованная литература
 
-* [Формат NSF — Github] (https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc)
+* [Формат NSF — Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc)
 

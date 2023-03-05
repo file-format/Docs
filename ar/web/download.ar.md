@@ -24,9 +24,9 @@
 
 يتم حفظ ملفات التنزيل على القرص بنصوص بالإضافة إلى تنسيقات الملفات الثنائية. لا يحتوي على الملف الكامل الذي يتم تنزيله. بمجرد اكتمال التنزيل ، يتم استبدال ملحق ملف .download بالملحق الأصلي للملف الجاري تنزيله. على سبيل المثال ، إذا كنت تقوم بتنزيل مقطع فيديو من الإنترنت بتنسيق ملف MP4 ، فسيتم تنزيل الملف وحفظه بامتداد .download. بمجرد اكتمال التنزيل ، سيتم تغيير امتداد الملف إلى .mp4.
 
-تشبه ملفات DOWNLAOD ملفات [.CRDOWNLOAD] (/ar/ web / crdownload /) التي يستخدمها Google Chrome و Microsoft Edge.
+تشبه ملفات DOWNLAOD ملفات [.CRDOWNLOAD](/ar/ web / crdownload /) التي يستخدمها Google Chrome و Microsoft Edge.
 
 ## مراجع ##
 
-* [DOCTYPE HTML] (https://www.w3schools.com/tags/tag_doctype.asp)
+* [DOCTYPE HTML](https://www.w3schools.com/tags/tag_doctype.asp)
 

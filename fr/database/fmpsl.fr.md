@@ -36,6 +36,6 @@ Le fichier d'instantané généré sera enregistré sur le disque avec le nom sp
 
 ## Références
 
-* [Convertir les versions antérieures des formats de fichiers FileMaker Pro au format de fichier FMP12] (https://fmhelp.filemaker.com/help/16/fmp/en/index.html#page/FMP_Help/converting-files.html)
-* [Enregistrer les enregistrements en tant que fichier de lien d'instantané] (https://fmhelp.filemaker.com/help/12/fmp/en/html/import_export.17.5.html)
+* [Convertir les versions antérieures des formats de fichiers FileMaker Pro au format de fichier FMP12](https://fmhelp.filemaker.com/help/16/fmp/en/index.html#page/FMP_Help/converting-files.html)
+* [Enregistrer les enregistrements en tant que fichier de lien d'instantané](https://fmhelp.filemaker.com/help/12/fmp/en/html/import_export.17.5.html)
 

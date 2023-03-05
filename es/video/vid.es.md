@@ -16,7 +16,7 @@ lastmod: 2022-02-11
 
 ## ¿Qué es un archivo VID? ##
 
-Un archivo VID es un formato de archivo antiguo que se usa para almacenar datos de video para juegos desarrollados por [Bethesda Softworks] (https://bethesda.net/en/dashboard). La empresa ha desarrollado varios juegos y ha utilizado el formato de archivo VID para almacenar las grabaciones de los juegos. Además del video, también pueden almacenar datos de audio relacionados con el juego. Algunos de los juegos famosos de Bethesda que utilizan el formato de archivo VID incluyen Skynet y The Elder Scrolls II: Daggerfall. El software Bethesda ya no es compatible con el formato de archivo VID.
+Un archivo VID es un formato de archivo antiguo que se usa para almacenar datos de video para juegos desarrollados por [Bethesda Softworks](https://bethesda.net/en/dashboard). La empresa ha desarrollado varios juegos y ha utilizado el formato de archivo VID para almacenar las grabaciones de los juegos. Además del video, también pueden almacenar datos de audio relacionados con el juego. Algunos de los juegos famosos de Bethesda que utilizan el formato de archivo VID incluyen Skynet y The Elder Scrolls II: Daggerfall. El software Bethesda ya no es compatible con el formato de archivo VID.
 
 ## Formato de archivo VID
 
@@ -24,7 +24,7 @@ Los videojuegos de Bethesda Softworks ya no admiten ni mantienen el formato de a
 
 ## Ejemplos de archivos VID
 
-Los archivos de ejemplo del videojuego Bethesda [archivos de video VID] (http://samples.mplayerhq.hu/game-formats/bethsoft-vid/) están disponibles para la comunidad del juego. Estos se pueden descargar y probar.
+Los archivos de ejemplo del videojuego Bethesda [archivos de video VID](http://samples.mplayerhq.hu/game-formats/bethsoft-vid/) están disponibles para la comunidad del juego. Estos se pueden descargar y probar.
 
 ## Referencias ##
 

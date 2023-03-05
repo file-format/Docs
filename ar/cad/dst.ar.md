@@ -19,7 +19,7 @@
 
 ## ما هو ملف DST؟
 
-ملف DST هو ملف AutoCAD يحتوي على اقترانات ومعلومات لتحديد مجموعات الأوراق. يتم تخزينها في مجلد التخزين الافتراضي لمجموعة الأوراق ، مجموعات أوراق AutoCAD. لا تحتوي ملفات DST على تخطيطات الرسم الفعلية ولكنها تشير إلى هذه من الملفات المحددة من [DWG] (/ar/ cad / dwg /) و [DWT] (/ar/ cad / dwt /) المرتبطة بمجموعات الأوراق هذه. في بيئة الشبكة ، يجب أن يتمتع جميع أعضاء الفريق بوصول الشبكة إلى هذه الملفات المرتبطة. يتم حفظ ملفات DST على قرص بتنسيق ملف [XML] (/ar/ web / xml /).
+ملف DST هو ملف AutoCAD يحتوي على اقترانات ومعلومات لتحديد مجموعات الأوراق. يتم تخزينها في مجلد التخزين الافتراضي لمجموعة الأوراق ، مجموعات أوراق AutoCAD. لا تحتوي ملفات DST على تخطيطات الرسم الفعلية ولكنها تشير إلى هذه من الملفات المحددة من [DWG](/ar/ cad / dwg /) و [DWT](/ar/ cad / dwt /) المرتبطة بمجموعات الأوراق هذه. في بيئة الشبكة ، يجب أن يتمتع جميع أعضاء الفريق بوصول الشبكة إلى هذه الملفات المرتبطة. يتم حفظ ملفات DST على قرص بتنسيق ملف [XML](/ar/ web / xml /).
 
 ## تنسيق ملف DST - مزيد من المعلومات
 
@@ -33,7 +33,7 @@
 
 ## مراجع
 
-* [حول استخدام مجموعات أوراق التوقيت الصيفي] (https://knowledge.autodesk.com/support/autocad-lt/learn-explore/caas/CloudHelp/cloudhelp/2017/ENU/AutoCAD-LT/files/GUID-577D8EA0-85F2 -4829-B4F9-8CAD6F7AAACC-htm.html)
-* [تعرف على مجموعات الأوراق] (https://knowledge.autodesk.com/support/autocad-lt/learn-explore/caas/CloudHelp/cloudhelp/2017/ENU/AutoCAD-LT/files/GUID-34D889BC-19AD- 4CD1-ADB1-F359D9B515FB-htm.html)
-* [إتقان مجموعات أوراق AutoCAD] (https://damassets.autodesk.net/content/dam/autodesk/www/cad-manager-center/articles/Mastering-AutoCAD-Sheet-Sets_Preview_EN.pdf)
+* [حول استخدام مجموعات أوراق التوقيت الصيفي](https://knowledge.autodesk.com/support/autocad-lt/learn-explore/caas/CloudHelp/cloudhelp/2017/ENU/AutoCAD-LT/files/GUID-577D8EA0-85F2 -4829-B4F9-8CAD6F7AAACC-htm.html)
+* [تعرف على مجموعات الأوراق](https://knowledge.autodesk.com/support/autocad-lt/learn-explore/caas/CloudHelp/cloudhelp/2017/ENU/AutoCAD-LT/files/GUID-34D889BC-19AD- 4CD1-ADB1-F359D9B515FB-htm.html)
+* [إتقان مجموعات أوراق AutoCAD](https://damassets.autodesk.net/content/dam/autodesk/www/cad-manager-center/articles/Mastering-AutoCAD-Sheet-Sets_Preview_EN.pdf)
 

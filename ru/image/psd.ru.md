@@ -123,6 +123,6 @@ PSD, документ Photoshop, представляет собой собст�
 
 ## Использованная литература ##
 
-* [Спецификации формата файлов PSD — Adobe] (https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/#50577409_pgfId-1030196)
-* [Формат файла Adobe Photoshop] (https://en.wikipedia.org/wiki/Adobe_Photoshop#File_format)
+* [Спецификации формата файлов PSD — Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/#50577409_pgfId-1030196)
+* [Формат файла Adobe Photoshop](https://en.wikipedia.org/wiki/Adobe_Photoshop#File_format)
 

@@ -47,5 +47,5 @@ Skrypty AGI można zazwyczaj pisać w językach Perl, [PHP](/pl/programming/php/
 
 ## Bibliografia
 
-* [Skrypt AGI z gwiazdką] (https://www.oreilly.com/library/view/asterisk-the-future/9780596510480/ch09.html)
+* [Skrypt AGI z gwiazdką](https://www.oreilly.com/library/view/asterisk-the-future/9780596510480/ch09.html)
 

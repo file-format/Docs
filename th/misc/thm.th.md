@@ -30,7 +30,7 @@
 
 ## จะสร้างธีม Sony Ericsson ได้อย่างไร?
 
-ซอฟต์แวร์ Sony Themes Creator สามารถใช้สร้างธีมใหม่สำหรับโทรศัพท์มือถือ Sony Ericsson ผู้ใช้สามารถทำตาม [คู่มือสำหรับนักพัฒนา Themes Creator] (https://developer.sony.com/develop/theme-creator/get-started) ของ Sony เพื่อสร้างธีมได้
+ซอฟต์แวร์ Sony Themes Creator สามารถใช้สร้างธีมใหม่สำหรับโทรศัพท์มือถือ Sony Ericsson ผู้ใช้สามารถทำตาม [คู่มือสำหรับนักพัฒนา Themes Creator](https://developer.sony.com/develop/theme-creator/get-started) ของ Sony เพื่อสร้างธีมได้
 
 ## อ้างอิง
 

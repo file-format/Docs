@@ -41,5 +41,5 @@ Alors, qu'est-ce qui différencie les fichiers MJS des fichiers JS simples ? La
 ## Références
 
 * [ESM Node.js](https://nodejs.org/docs/latest/api/esm.html)
-* [Différence entre JS et MJS] (https://nodejs.org/docs/latest/api/esm.html#esm_differences_between_es_modules_and_commonjs)
+* [Différence entre JS et MJS](https://nodejs.org/docs/latest/api/esm.html#esm_differences_between_es_modules_and_commonjs)
 

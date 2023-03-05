@@ -29,5 +29,5 @@
 
 * [Как да скрия VBA кода от потребителите?](https://support.microsoft.com/en-us/office/hide-vba-code-from-users-ce6ab610-af07-4008-91e0-1ef1b796ff18)
 * [MDB инструменти](https://github.com/mdbtools/mdbtools/blob/master/HACKING)
-* [Неофициалното ръководство за MDB] (http://jabakobob.net/mdb/)
+* [Неофициалното ръководство за MDB](http://jabakobob.net/mdb/)
 

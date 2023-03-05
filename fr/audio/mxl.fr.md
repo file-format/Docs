@@ -41,6 +41,6 @@ Dans cet exemple, le<container> element est l'élément du document. La<rootfile
 
 ## Références
 
-* [Fichiers MXL compressés] (https://www.w3.org/2021/06/musicxml40/tutorial/compressed-mxl-files/)
+* [Fichiers MXL compressés](https://www.w3.org/2021/06/musicxml40/tutorial/compressed-mxl-files/)
 * [RFC1951](https://www.ietf.org/rfc/rfc1951.txt)
 

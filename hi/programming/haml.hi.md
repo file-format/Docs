@@ -44,5 +44,5 @@ app/views/account/login.html.erb → app/views/account/login.html.haml
 
 ## संदर्भ
 
-* [एचएएमएल - जीथब] (https://github.com/haml/haml)
+* [एचएएमएल - जीथब](https://github.com/haml/haml)
 

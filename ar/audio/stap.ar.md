@@ -29,5 +29,5 @@
 عادة ما تنشأ مشاكل العمل مع ملفات STAP بسبب عدم وجود برنامج مناسب متوافق مع ملفات STAP الموجودة على الجهاز. أفضل حل هو تنزيل Apple Soundtrack Pro وتثبيته أو أحد البرامج المدرجة في القائمة مثل Apple Final Cut Pro.
 
 ## مراجع
-* [Final Cut Pro - Apple Inc.] (https://www.apple.com/final-cut-pro/)
+* [Final Cut Pro - Apple Inc.](https://www.apple.com/final-cut-pro/)
 

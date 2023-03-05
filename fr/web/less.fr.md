@@ -26,6 +26,6 @@ Les fichiers LESS sont créés au format CSS, étendant ses capacités par les f
 
 ## Références
 
-* [Feuilles de style simplifiées] (https://lesscss.org/)
+* [Feuilles de style simplifiées](https://lesscss.org/)
 * [Documents sur les feuilles de style simplifiées - Github](https://github.com/less/less-docs)
 

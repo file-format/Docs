@@ -19,7 +19,7 @@
 
 ## ما هو ملف XAML؟
 
-تصف XAML ، لغة ترميز التطبيقات القابلة للتوسيع ، ملفات الامتداد عناصر واجهة المستخدم لتطبيقات البرامج استنادًا إلى Windows Presentation Foundation (WPF). على الرغم من أنها لغة ، إلا أنها لا تتطلب البرمجة لأنها تستند إلى تنسيق قياسي لـ ** [XML] (/ar/ web / xml /) ** وهو سهل الاستخدام والفهم. تم تطوير XAML (يُنطق باسم "zammel") بواسطة Microsoft بهدف محدد لإنشاء واجهات مستخدم. يرمز اختصارها الأصلي إلى Extensible Avalon Markup Language ، حيث كان Avalon هو الاسم الرمزي لـ WPF. يتم حفظ ملفات XAML أحيانًا بامتداد XOML أيضًا.
+تصف XAML ، لغة ترميز التطبيقات القابلة للتوسيع ، ملفات الامتداد عناصر واجهة المستخدم لتطبيقات البرامج استنادًا إلى Windows Presentation Foundation (WPF). على الرغم من أنها لغة ، إلا أنها لا تتطلب البرمجة لأنها تستند إلى تنسيق قياسي لـ ** [XML](/ar/ web / xml /) ** وهو سهل الاستخدام والفهم. تم تطوير XAML (يُنطق باسم "zammel") بواسطة Microsoft بهدف محدد لإنشاء واجهات مستخدم. يرمز اختصارها الأصلي إلى Extensible Avalon Markup Language ، حيث كان Avalon هو الاسم الرمزي لـ WPF. يتم حفظ ملفات XAML أحيانًا بامتداد XOML أيضًا.
 
 ## تطبيقات XAML
 
@@ -27,7 +27,7 @@
 
 ## تنسيق ملف XAML
 
-يعتمد XAML بالكامل على تنسيق XML. تم نشر المواصفات الأولية لـ [XAML Object Mapping] (http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/٪5BMS-XAML٪5D.pdf) في 2006 ، متبوعًا بـ [إصدار] آخر (http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/٪5BMS-XAML-2009٪5D.pdf) تم نشره في 2009. تحدد هذه المواصفات نموذجين للمعلومات المجردة:
+يعتمد XAML بالكامل على تنسيق XML. تم نشر المواصفات الأولية لـ [XAML Object Mapping](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/٪5BMS-XAML٪5D.pdf) في 2006 ، متبوعًا بـ [إصدار] آخر (http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/٪5BMS-XAML-2009٪5D.pdf) تم نشره في 2009. تحدد هذه المواصفات نموذجين للمعلومات المجردة:
 
 * نموذج مجموعة معلومات مخطط XAML
 * نموذج مجموعة معلومات XAML
@@ -36,6 +36,6 @@
 
 ## مراجع
 
-* [XAML - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language)
-* [مواصفات تنسيق ملف XAML] (http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/٪5BMS-XAML-2009٪5D.pdf)
+* [XAML - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language)
+* [مواصفات تنسيق ملف XAML](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/٪5BMS-XAML-2009٪5D.pdf)
 

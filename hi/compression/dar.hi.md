@@ -45,6 +45,6 @@ DAR फ़ाइल स्वरूप की कुछ विशेषताए
 
 ## संदर्भ
 
-* [डीएआर] (http://dar.linux.free.fr/)
+* [डीएआर](http://dar.linux.free.fr/)
 * [DAR डिस्क संग्रहकर्ता](https://en.wikipedia.org/wiki/Dar_(disk_archiver))
 

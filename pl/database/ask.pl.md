@@ -19,7 +19,7 @@
 
 ## Czym jest plik ASK?
 
-Plik z rozszerzeniem .ask to plik bazy danych utworzony przez [askSam Systems] (https://asksam.en.softonic.com/), aplikację do zarządzania informacjami osobistymi (PIM). Pliki tego typu są przechowywane w folderach dynamicznych i zawierają dane użytkownika, takie jak wiadomości e-mail, dokumenty, pliki tekstowe, arkusze kalkulacyjne, adresy i strony internetowe. Dzięki temu oprogramowanie askSam może je łatwo przeszukiwać i pobierać dane do celów badawczych. Oprogramowanie askSam, choć prosta aplikacja komputerowa oparta na formularzach przechowująca dane w bazie danych, było popularne do organizowania i wyszukiwania takich danych. Dane z pliku ASK można również wyeksportować do [arkuszy kalkulacyjnych](/pl/spreadsheet/).
+Plik z rozszerzeniem .ask to plik bazy danych utworzony przez [askSam Systems](https://asksam.en.softonic.com/), aplikację do zarządzania informacjami osobistymi (PIM). Pliki tego typu są przechowywane w folderach dynamicznych i zawierają dane użytkownika, takie jak wiadomości e-mail, dokumenty, pliki tekstowe, arkusze kalkulacyjne, adresy i strony internetowe. Dzięki temu oprogramowanie askSam może je łatwo przeszukiwać i pobierać dane do celów badawczych. Oprogramowanie askSam, choć prosta aplikacja komputerowa oparta na formularzach przechowująca dane w bazie danych, było popularne do organizowania i wyszukiwania takich danych. Dane z pliku ASK można również wyeksportować do [arkuszy kalkulacyjnych](/pl/spreadsheet/).
 
 ## Format pliku ASK — więcej informacji
 

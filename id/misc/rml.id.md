@@ -19,7 +19,7 @@
 
 ## Apa itu file RML?
 
-File RML adalah file template pelaporan dengan mesin pelaporan [Elixir Repertoire](https://elixirtech.com/repertoire-2/). File template digunakan untuk menghasilkan laporan dengan sumber data yang terhubung ke Elixir FileSystem. Data dibaca dan diisi dalam file template RML dan dapat diekspor ke beberapa format file yang berbeda seperti [PDF](/id/pdf/), [RTF](/id/word-processing/rtf/), dan spreadsheet [XLS] (/id/spreadsheet/xls/). Mesin pelaporan Repertoar Elixir dapat dihubungkan ke berbagai sumber data JDBC.
+File RML adalah file template pelaporan dengan mesin pelaporan [Elixir Repertoire](https://elixirtech.com/repertoire-2/). File template digunakan untuk menghasilkan laporan dengan sumber data yang terhubung ke Elixir FileSystem. Data dibaca dan diisi dalam file template RML dan dapat diekspor ke beberapa format file yang berbeda seperti [PDF](/id/pdf/), [RTF](/id/word-processing/rtf/), dan spreadsheet [XLS](/id/spreadsheet/xls/). Mesin pelaporan Repertoar Elixir dapat dihubungkan ke berbagai sumber data JDBC.
 
 ## Format File RML
 

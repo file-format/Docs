@@ -26,7 +26,7 @@ První verze RealVideo oznámená v roce 1997 byla založena na formátu H.263. 
 
 RealVideo lze přehrávat ze souboru RealMedia nebo je lze streamovat přes internet pomocí protokolu RSTP (Real Time Streaming Protocol). RSTP se používá ke správě připojení, k odesílání skutečných dat se používá protokol Real Data Transport (RDT).
 
-Pro streamování v reálném čase používá RealVideo kódování s konstantní bitovou rychlostí. Společnost RealNetworks nedávno představila variantu RealMedia s proměnnou bitovou rychlostí jako [RealMedia Variable Bitrate (RMVB)] (/cs/video/rmvb/). RMVB umožňuje lepší kvalitu videa, ale je méně vhodný pro streamování, protože kapacitu sítě nelze předvídat.
+Pro streamování v reálném čase používá RealVideo kódování s konstantní bitovou rychlostí. Společnost RealNetworks nedávno představila variantu RealMedia s proměnnou bitovou rychlostí jako [RealMedia Variable Bitrate (RMVB)](/cs/video/rmvb/). RMVB umožňuje lepší kvalitu videa, ale je méně vhodný pro streamování, protože kapacitu sítě nelze předvídat.
 
 ## Formáty komprese videa a kodeky ##
 

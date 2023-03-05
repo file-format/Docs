@@ -19,7 +19,7 @@
 
 ## Co je soubor NDF?
 
-Soubor s příponou .ndf je sekundární databázový soubor používaný [Microsoft SQL Server] (https://en.wikipedia.org/wiki/Microsoft_SQL_Server) k ukládání uživatelských dat. NDF je sekundární úložný soubor, protože SQL server ukládá uživatelsky specifikovaná data v primárním úložném souboru známém jako [MDF](/cs/database/mdf/). Datový soubor NDF je volitelný a je uživatelsky definovaný pro správu úložiště dat v případě, že primární soubor MDF využívá veškerý přidělený prostor. Obvykle je uložen na samostatném disku a může se rozšířit na více úložných zařízení. Přítomnost souborů MDF je nezbytná pro otevření souborů NDF.
+Soubor s příponou .ndf je sekundární databázový soubor používaný [Microsoft SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server) k ukládání uživatelských dat. NDF je sekundární úložný soubor, protože SQL server ukládá uživatelsky specifikovaná data v primárním úložném souboru známém jako [MDF](/cs/database/mdf/). Datový soubor NDF je volitelný a je uživatelsky definovaný pro správu úložiště dat v případě, že primární soubor MDF využívá veškerý přidělený prostor. Obvykle je uložen na samostatném disku a může se rozšířit na více úložných zařízení. Přítomnost souborů MDF je nezbytná pro otevření souborů NDF.
 
 ## Formát souboru NDF
 

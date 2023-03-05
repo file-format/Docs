@@ -29,5 +29,5 @@
 
 ## использованная литература
 
-* [Программное обеспечение Axialis SSP] (https://www.axialis.com/ssp/)
+* [Программное обеспечение Axialis SSP](https://www.axialis.com/ssp/)
 

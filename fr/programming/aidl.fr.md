@@ -62,5 +62,5 @@ interface IRemoteService {
 ```
 ## Références
 
-* [Langage de définition d'interface Android (AIDL)] (https://stuff.mit.edu/afs/sipb/project/android/docs/guide/components/aidl.html)
+* [Langage de définition d'interface Android (AIDL)](https://stuff.mit.edu/afs/sipb/project/android/docs/guide/components/aidl.html)
 

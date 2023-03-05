@@ -20,7 +20,7 @@
 
 ## ما هو ملف ASC؟
 
-ملفات ASC هي ملفات نصية من Autodesk تخزن معلومات حول الكائنات في الرسم ، بما في ذلك موقعها وحجمها ولونها. هذا يجعلها خيارًا شائعًا لتبادل الرسومات بين برامج [CAD] (/ar/ cad /) المختلفة. يمكن فتح ملفات ASC باستخدام منتجات برامج Autodesk. يوفر Autodesk خيار استيراد ملفات ASC من داخل التطبيق. يمكن فتح ملفات ASC في أي محرر نصوص مثل Microsoft Notepad و Notepad ++ و Apple TextEdit.
+ملفات ASC هي ملفات نصية من Autodesk تخزن معلومات حول الكائنات في الرسم ، بما في ذلك موقعها وحجمها ولونها. هذا يجعلها خيارًا شائعًا لتبادل الرسومات بين برامج [CAD](/ar/ cad /) المختلفة. يمكن فتح ملفات ASC باستخدام منتجات برامج Autodesk. يوفر Autodesk خيار استيراد ملفات ASC من داخل التطبيق. يمكن فتح ملفات ASC في أي محرر نصوص مثل Microsoft Notepad و Notepad ++ و Apple TextEdit.
 
 ## تنسيق ملف ASC
 
@@ -39,5 +39,5 @@ nodata_value -999999
 
 ## مراجع
 
-* [استيراد بيانات نقطة من ملف ASCII يحتوي على أعمدة محددة بواسطة المستخدم] (https://knowledge.autodesk.com/support/civil-3d/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Civil3D-UserGuide/files /GUID-B4286EEA-F2FC-4267-87CD-E17C47876AF8-htm.html)
+* [استيراد بيانات نقطة من ملف ASCII يحتوي على أعمدة محددة بواسطة المستخدم](https://knowledge.autodesk.com/support/civil-3d/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Civil3D-UserGuide/files /GUID-B4286EEA-F2FC-4267-87CD-E17C47876AF8-htm.html)
 

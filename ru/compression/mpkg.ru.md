@@ -75,6 +75,6 @@ function pm_install_check() {
 
 ## использованная литература
 
-* [Плоские пакеты OSX] (https://matthew-brett.github.io/docosx/flat_packages.html)
-* [Диспетчер пакетов C++ MPKG] (https://github.com/puellavulnerata/mpkg)
+* [Плоские пакеты OSX](https://matthew-brett.github.io/docosx/flat_packages.html)
+* [Диспетчер пакетов C++ MPKG](https://github.com/puellavulnerata/mpkg)
 

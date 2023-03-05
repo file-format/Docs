@@ -27,6 +27,6 @@
 
 ## использованная литература
 
-* [ArtCAM Autodesk] (https://www.autodesk.com/products/artcam/overview)
+* [ArtCAM Autodesk](https://www.autodesk.com/products/artcam/overview)
 * [Autodesk ArtCAM не может открывать графические файлы, созданные в предыдущих устаревших версиях] -previous-legacy-versions.html)
 

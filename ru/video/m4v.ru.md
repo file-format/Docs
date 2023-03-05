@@ -42,6 +42,6 @@ Advanced Audio Coding (AAC) — это аудиокодек для сжатия 
 
 ### Использованная литература ###
 
-* [Википедия — M4V] (https://en.wikipedia.org/wiki/M4V)
-* [Википедия — MPEG-4_AVC] (https://en.wikipedia.org/wiki/H.264/MPEG-4_AVC)
+* [Википедия — M4V](https://en.wikipedia.org/wiki/M4V)
+* [Википедия — MPEG-4_AVC](https://en.wikipedia.org/wiki/H.264/MPEG-4_AVC)
 

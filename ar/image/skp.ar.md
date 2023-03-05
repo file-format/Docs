@@ -25,7 +25,7 @@
 
 ## نبذة تاريخية
 
-إن تطوير وإطلاق واكتساب برنامج [SketchUp] (https://www.sketchup.com/) ، على النحو التالي.
+إن تطوير وإطلاق واكتساب برنامج [SketchUp](https://www.sketchup.com/) ، على النحو التالي.
 
 * 2000 - تم تطويره وإطلاقه بواسطة "Last Software"
 * 2006 - الاستحواذ على شركة محرك البحث العملاقة جوجل
@@ -37,6 +37,6 @@
 
 ## مراجع
 
-* [SketchUp] (https://www.sketchup.com/)
-* [SketchUp C # API] (https://github.com/moethu/SketchUpNET)
+* [SketchUp](https://www.sketchup.com/)
+* [SketchUp C # API](https://github.com/moethu/SketchUpNET)
 

@@ -27,7 +27,7 @@ Les informations de format de fichier interne des fichiers .adb ne sont pas disp
 
 ## Références
 
-* [Alpha n'importe où] (https://www.alphasoftware.com/)
+* [Alpha n'importe où](https://www.alphasoftware.com/)
 * [Alpha Anywhere - OneHourApp](https://github.com/alphaanywhere/OneHourApp)
 * [Types de fichiers Alpha Anywhere](https://documentation.alphasoftware.com/documentation/pages/Guides/Desktop/Design/Data/Set/Alpha%20Anywhere%20File%20Types.xml)
 

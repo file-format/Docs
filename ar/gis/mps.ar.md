@@ -22,16 +22,16 @@
 
 ## تنسيق ملف MPS
 
-هيكل الملف الداخلي لتنسيق ملف MPS غير معروف لأنه تم إيقافه لبعض الوقت الآن مع MapPoint. تتضمن بعض تنسيقات ملفات خرائط GIS الشائعة الأخرى [ESRI Shape Files] (/ar/ gis / shp /) و [KML] (/ar/ gis / kml /) و [KMZ] (/ar/ gis / kmz /).
+هيكل الملف الداخلي لتنسيق ملف MPS غير معروف لأنه تم إيقافه لبعض الوقت الآن مع MapPoint. تتضمن بعض تنسيقات ملفات خرائط GIS الشائعة الأخرى [ESRI Shape Files](/ar/ gis / shp /) و [KML](/ar/ gis / kml /) و [KMZ](/ar/ gis / kmz /).
 
 ## بديل MapPoint
 
 هناك بعض تطبيقات GIS التي يمكن استخدامها كبديل لـ MapPoint.
 
-* [RouteSavvy] (https://www.routesavvy.com/)
-* [منطقة سهلة] (https://www.easyterritory.com/)
+* [RouteSavvy](https://www.routesavvy.com/)
+* [منطقة سهلة](https://www.easyterritory.com/)
 
 ## مراجع
 
-* [TopGraphic EasyGPS] (https://www.easygps.com/)
+* [TopGraphic EasyGPS](https://www.easygps.com/)
 

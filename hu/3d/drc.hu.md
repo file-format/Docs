@@ -23,7 +23,7 @@ A .drc kiterjesztésű fájl egy tömörített 3D fájlformátum, amelyet a Goog
 
 ## DRC fájlformátum
 
-A DRC fájlformátumának részletei nem elérhetők nyilvánosan. A Google a [GitHubon] (https://github.com/google/draco/tree/master/docs) tárolta a Draco-könyvtárat a fejlesztők számára. Kódolókat és dekódereket biztosít a DRC-fájlok létrehozásához és konvertálásához.
+A DRC fájlformátumának részletei nem elérhetők nyilvánosan. A Google a [GitHubon](https://github.com/google/draco/tree/master/docs) tárolta a Draco-könyvtárat a fejlesztők számára. Kódolókat és dekódereket biztosít a DRC-fájlok létrehozásához és konvertálásához.
 
 ## Referencia
 

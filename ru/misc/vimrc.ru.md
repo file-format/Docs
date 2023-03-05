@@ -27,6 +27,6 @@
 
 ## использованная литература
 
-* [Руководство по VIMRC] (https://gist.github.com/simonista/8703722)
-* [ВИМРК] (https://github.com/amix/vimrc)
+* [Руководство по VIMRC](https://gist.github.com/simonista/8703722)
+* [ВИМРК](https://github.com/amix/vimrc)
 

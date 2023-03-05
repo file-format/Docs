@@ -32,6 +32,6 @@
 
 ## использованная литература
 
-* [OriginLab] (https://www.originlab.com/)
-* [API Python для OriginLab] (https://github.com/jsbangsund/python_to_originlab)
+* [OriginLab](https://www.originlab.com/)
+* [API Python для OriginLab](https://github.com/jsbangsund/python_to_originlab)
 

@@ -27,6 +27,6 @@
 
 ## использованная литература
 
-* [Microsoft Reader — Википедия] (https://en.wikipedia.org/wiki/Microsoft_Reader)
+* [Microsoft Reader — Википедия](https://en.wikipedia.org/wiki/Microsoft_Reader)
 
 

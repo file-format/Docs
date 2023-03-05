@@ -26,7 +26,7 @@
 
 يرتبط تطوير ووجود تنسيق ملف EX بتطوير لغة برمجة Euphoria التي تم إنشاؤها بواسطة Robert Craig. تم إصداره لأول مرة لـ MS-DOS. أصبح برنامجًا مفتوح المصدر في عام 2006 مع إصدار الإصدار 3. وقد تولت مجموعة ** openEuphoria ** التي تدير المشروع وتطوره تطويره. تم إصداره الإصدار 4 في ديسمبر 2010 وهو متاح لأنظمة Windows و Linux و macOS وثلاث نكهات من BSD.
 
-تمت كتابة Euphoria في البداية بلغة البرمجة ** [C] (/ar/ البرمجة / c /) **. لاحقًا ، تم تقسيم مترجم النشوة إلى جزأين:
+تمت كتابة Euphoria في البداية بلغة البرمجة ** [C](/ar/ البرمجة / c /) **. لاحقًا ، تم تقسيم مترجم النشوة إلى جزأين:
 
 * "Front-end Parser" - مكتوب بلغة النشوة ويستخدم مع مترجم Euphoria-to-C و Binder.
 * "Back-end" - تشغيل مكتبة وقت مكتوبة بلغة البرمجة C.
@@ -37,6 +37,6 @@
 
 ## المرجعي ##
 
-* [Rapid Euphoria] (https://www.rapideuphoria.com/)
-* [منتديات OpenEuphoria] (https://openeuphoria.org/forum/index.wc)
+* [Rapid Euphoria](https://www.rapideuphoria.com/)
+* [منتديات OpenEuphoria](https://openeuphoria.org/forum/index.wc)
 

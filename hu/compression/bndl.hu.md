@@ -18,7 +18,7 @@
 
 ## Mi az a BNDL fájl?
 
-A BNDL-fájl az [Electronic Arts] (https://www.ea.com/) **Need for Speed: Most Wanted** által használt játékadatcsomag archív fájlja. Ez egy csomagfájl, amely játék hangjait és hangfolyamait tárolja, amelyeket a játék hangeffektusaihoz lehet használni. Ezeket a hanghatásokat akkor használják, amikor a játékos játszik a játékkal. A BNDL a köteg rövidítése.
+A BNDL-fájl az [Electronic Arts](https://www.ea.com/) **Need for Speed: Most Wanted** által használt játékadatcsomag archív fájlja. Ez egy csomagfájl, amely játék hangjait és hangfolyamait tárolja, amelyeket a játék hangeffektusaihoz lehet használni. Ezeket a hanghatásokat akkor használják, amikor a játékos játszik a játékkal. A BNDL a köteg rövidítése.
 
 ## BNDL fájlformátum
 

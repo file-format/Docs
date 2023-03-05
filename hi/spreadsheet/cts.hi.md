@@ -34,5 +34,5 @@ CTS फ़ाइल एक स्प्रेडशीट फ़ाइल है
 
 ## संदर्भ
 
-* [ट्रीशीट्स का स्रोत वितरण - जीथब] (https://github.com/aardappel/treesheets)
+* [ट्रीशीट्स का स्रोत वितरण - जीथब](https://github.com/aardappel/treesheets)
 

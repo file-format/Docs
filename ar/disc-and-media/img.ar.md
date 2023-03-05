@@ -44,6 +44,6 @@
 
 ## مراجع ##
 
-* [IMG - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/IMG_ (file_format))
+* [IMG - بواسطة Wikipedia](https://en.wikipedia.org/wiki/IMG_ (file_format))
 
 

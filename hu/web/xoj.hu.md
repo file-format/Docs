@@ -19,7 +19,7 @@
 
 ## Mi az XOJ fájl?
 
-Az XOJ fájl egy notebook fájl, amely a Xournal kézi jegyzetkészítő szoftverrel készített jegyzeteket tartalmazza. A Xournal egy ingyenes, többplatformos alkalmazás, amely lehetővé teszi jegyzetek készítését különböző tartalomtípusokkal, például szöveggel, képekkel és kézzel írt emblémákkal. Az XOJ fájlok akkor jönnek létre, amikor új notebook fájlt hoz létre a Xournal segítségével. Ezek az XOJ fájlok más felhasználókkal is megoszthatók adatmegosztás céljából. A Xournal egy újabb verziója a [Xournal++] (https://github.com/xournalpp/xournalpp), amely a Xournal platformok közötti változata.
+Az XOJ fájl egy notebook fájl, amely a Xournal kézi jegyzetkészítő szoftverrel készített jegyzeteket tartalmazza. A Xournal egy ingyenes, többplatformos alkalmazás, amely lehetővé teszi jegyzetek készítését különböző tartalomtípusokkal, például szöveggel, képekkel és kézzel írt emblémákkal. Az XOJ fájlok akkor jönnek létre, amikor új notebook fájlt hoz létre a Xournal segítségével. Ezek az XOJ fájlok más felhasználókkal is megoszthatók adatmegosztás céljából. A Xournal egy újabb verziója a [Xournal++](https://github.com/xournalpp/xournalpp), amely a Xournal platformok közötti változata.
 
 ## XOJ fájlformátum
 

@@ -49,6 +49,6 @@
 ```
 ## использованная литература
 
-* [ASCX против ASMX] (https://forums.asp.net/t/1838934.aspx?Как+работать+с+ascx+files+)
-* [Пользовательский контроль ASCX] (http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
+* [ASCX против ASMX](https://forums.asp.net/t/1838934.aspx?Как+работать+с+ascx+files+)
+* [Пользовательский контроль ASCX](http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

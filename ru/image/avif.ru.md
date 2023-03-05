@@ -30,5 +30,5 @@ AVIF (формат файла изображения AV1) — это форма�
 
 ## Использованная литература ##
 
-* [AVIF — Википедия] (https://en.wikipedia.org/wiki/AV1#AV1_Image_File_Format_(AVIF))
+* [AVIF — Википедия](https://en.wikipedia.org/wiki/AV1#AV1_Image_File_Format_(AVIF))
 

@@ -55,6 +55,6 @@ Typowy dokument XPS wygląda następująco i można go analizować w świetle [s
 
 ## Bibliografia ##
 
-* [Specyfikacje formatu plików XPS] (http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+* [Specyfikacje formatu plików XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
 * [XPS — z Wikipedii](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

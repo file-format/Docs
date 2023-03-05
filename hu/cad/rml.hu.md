@@ -19,7 +19,7 @@
 
 ## Mi az RML fájl?
 
-Az RML-fájl az [Autodesk] (https://autodesk.com) Volo View alkalmazásában létrehozott és használt megjegyzésfájl. A jegyzetelési információkat és a rajzra felhelyezendő szöveges jeleket tartalmaz a jegyzetelés céljából. Ezek a megjegyzések piros szöveggel jelennek meg a rajz fölött, ezért a Redline Markup Language fájl neve. A Volo View már megszűnt, és az Autodesk már nem támogatja. Az RML-fájlok tartalma megjegyzésként beágyazódik a CAD-rajzokba.
+Az RML-fájl az [Autodesk](https://autodesk.com) Volo View alkalmazásában létrehozott és használt megjegyzésfájl. A jegyzetelési információkat és a rajzra felhelyezendő szöveges jeleket tartalmaz a jegyzetelés céljából. Ezek a megjegyzések piros szöveggel jelennek meg a rajz fölött, ezért a Redline Markup Language fájl neve. A Volo View már megszűnt, és az Autodesk már nem támogatja. Az RML-fájlok tartalma megjegyzésként beágyazódik a CAD-rajzokba.
 
 ## RML fájl formátum
 

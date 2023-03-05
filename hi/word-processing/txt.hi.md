@@ -37,5 +37,5 @@
 
 ## संदर्भ ##
 
-* [टीएक्सटी फ़ाइल प्रारूप] (https://en.wikipedia.org/wiki/Text_file)
+* [टीएक्सटी फ़ाइल प्रारूप](https://en.wikipedia.org/wiki/Text_file)
 

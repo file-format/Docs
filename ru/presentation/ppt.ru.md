@@ -58,7 +58,7 @@ Microsoft представила формат файла PPT с выпуском
 * Поток изображений
 * Сводная информация и Сводная информация о документе (необязательно)
 
-Полные спецификации для формата файла DOC можно найти, предоставленные [Microsoft] (https://msdn.microsoft.com/en-us/library/office/cc313106(v#office.12).aspx), и с ними следует ознакомиться в отношении разделов, упомянутых в следующих деталях.
+Полные спецификации для формата файла DOC можно найти, предоставленные [Microsoft](https://msdn.microsoft.com/en-us/library/office/cc313106(v#office.12).aspx), и с ними следует ознакомиться в отношении разделов, упомянутых в следующих деталях.
 
 #### Текущий пользовательский поток ####
 
@@ -102,8 +102,8 @@ Microsoft представила формат файла PPT с выпуском
 
 ## Использованная литература ##
 
-* [Спецификации формата файла PPT] (https://msdn.microsoft.com/en-us/library/office/cc313106(v#office.12).aspx)
-* [[MS-OSHARED]: Общие типы данных и структуры объектов Office] (https://msdn.microsoft.com/en-us/library/office/cc313156(v#office.12).aspx)
-* [[MS-OFFCRYPTO] — Структура шифрования документов Office] (https://msdn.microsoft.com/en-us/library/office/cc313071(v#office.12).aspx)
-* [Форматы файлов PowerPoint] (https://en.wikipedia.org/wiki/Microsoft_PowerPoint#File_formats)
+* [Спецификации формата файла PPT](https://msdn.microsoft.com/en-us/library/office/cc313106(v#office.12).aspx)
+* [[MS-OSHARED]: Общие типы данных и структуры объектов Office](https://msdn.microsoft.com/en-us/library/office/cc313156(v#office.12).aspx)
+* [[MS-OFFCRYPTO] — Структура шифрования документов Office](https://msdn.microsoft.com/en-us/library/office/cc313071(v#office.12).aspx)
+* [Форматы файлов PowerPoint](https://en.wikipedia.org/wiki/Microsoft_PowerPoint#File_formats)
 

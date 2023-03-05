@@ -65,5 +65,5 @@ VP8 был разработан On2 Technologies в 2008 году, а затем
 ## использованная литература
 
 * [Википедия VP8](https://en.wikipedia.org/wiki/VP8#:~:text=VP8%20was%20first%20выпущено%20by,%2C%20заменяет%20its%20predecessor%2C%20VP7.&text= На%20май%2019%2C%20at%20его,%20безотзывная%20бесплатная%20патентная%20лицензия)
-* [Ссылка Springer] (https://link.springer.com/chapter/10.1007/978-81-322-1157-0_32)
+* [Ссылка Springer](https://link.springer.com/chapter/10.1007/978-81-322-1157-0_32)
 

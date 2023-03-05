@@ -39,11 +39,11 @@ Un archivo .hs puede contener la siguiente información.
 
 ## Formato de archivo Java HS
 
-Los archivos Java HS están en formato de archivo XML y se basan en la recomendación propuesta por el lenguaje de marcado extendido del World Wide Web Consortium (W3C) [PR-xml-971208] (http://www.w3.org/TR/PR-xml- 971208). Esto significa que un archivo Java HS tiene un formato de archivo XML legible por humanos que se puede abrir en cualquier aplicación de lectura de XML.
+Los archivos Java HS están en formato de archivo XML y se basan en la recomendación propuesta por el lenguaje de marcado extendido del World Wide Web Consortium (W3C) [PR-xml-971208](http://www.w3.org/TR/PR-xml- 971208). Esto significa que un archivo Java HS tiene un formato de archivo XML legible por humanos que se puede abrir en cualquier aplicación de lectura de XML.
 
 ### Ejemplo de formato de archivo Java HS
 
-El siguiente es un ejemplo de un archivo de conjunto de ayuda a partir de [documentación de Oracle Helpset] (https://docs.oracle.com/cd/E19253-01/819-0913/author/helpset.html).
+El siguiente es un ejemplo de un archivo de conjunto de ayuda a partir de [documentación de Oracle Helpset](https://docs.oracle.com/cd/E19253-01/819-0913/author/helpset.html).
 
 ```html
 <?xml version='1.0' encoding='ISO-8859-1' ?>
@@ -145,7 +145,7 @@ El siguiente es un ejemplo de un archivo de conjunto de ayuda a partir de [docum
 ```
 
 ## Referencias
-* [Archivo del conjunto de ayuda de Oracle Java] (https://docs.oracle.com/cd/E19253-01/819-0913/author/helpset.html)
+* [Archivo del conjunto de ayuda de Oracle Java](https://docs.oracle.com/cd/E19253-01/819-0913/author/helpset.html)
 
 # HS - Formato de archivo de script de Haskell
 
@@ -159,7 +159,7 @@ Como cualquier lenguaje de programación, los archivos HS están escritos en for
 
 ### Ejemplo de formato de archivo HS
 
-El código se puede escribir en un archivo .hs y compilar usando un compilador Haskell como [GHC] (http://haskell.org/ghc). La siguiente línea de código se guarda como `HelloWorld.hs` como se muestra en el siguiente ejemplo.
+El código se puede escribir en un archivo .hs y compilar usando un compilador Haskell como [GHC](http://haskell.org/ghc). La siguiente línea de código se guarda como `HelloWorld.hs` como se muestra en el siguiente ejemplo.
 
 ```
 main = putStrLn "Hello, World!"

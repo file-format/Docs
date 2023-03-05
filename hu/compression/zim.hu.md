@@ -18,11 +18,11 @@
 
 ## Mi az a ZIM fájl? ##
 
-A .zim kiterjesztésű fájlok a Wiki-tartalom offline tárolására létrehozott archívumok. Ez a legmegfelelőbb nyílt fájlformátum a Wikipédia USB-n való tárolására. A webhely tartalmát kompakt formátumban tárolja. A neve a "Zeno IMproved"-ből származik, amely a korábbi Zeno fájlformátum volt. A ZIM-et az [openZIM ](https://openzim.org/)projekt karbantartja, amelyet a Wikimedia CH szponzorál, és a Wikimedia Foundation támogat. A ZIM-fájlokat olyan alkalmazások nyithatják meg, mint a Kiwix és a ZIMReader. Az OpenZIM projekt a ZIM fájlformátum megvalósítását adta a [Github] (https://github.com/openzim) webhelyen az OpenSource közösség hozzájárulása érdekében.
+A .zim kiterjesztésű fájlok a Wiki-tartalom offline tárolására létrehozott archívumok. Ez a legmegfelelőbb nyílt fájlformátum a Wikipédia USB-n való tárolására. A webhely tartalmát kompakt formátumban tárolja. A neve a "Zeno IMproved"-ből származik, amely a korábbi Zeno fájlformátum volt. A ZIM-et az [openZIM ](https://openzim.org/)projekt karbantartja, amelyet a Wikimedia CH szponzorál, és a Wikimedia Foundation támogat. A ZIM-fájlokat olyan alkalmazások nyithatják meg, mint a Kiwix és a ZIMReader. Az OpenZIM projekt a ZIM fájlformátum megvalósítását adta a [Github](https://github.com/openzim) webhelyen az OpenSource közösség hozzájárulása érdekében.
 
 ## A ZIM fájlformátum specifikációi
 
-A ZIM fájlformátumot a [Zeno fájlformátum] (https://openzim.org/wiki/Zeno_file_format) tetejére fejlesztették ki, és visszafelé nem kompatibilis. A ZIM fájlformátum formátumspecifikációi [elérhető online](https://openzim.org/wiki/ZIM_file_format) az openZIM-től, fejlesztői hivatkozásként. Az OpenZIM C++ nyílt forráskódú implementációt, [LibZim](https://openzim.org/wiki/Zimlib) biztosított a ZIM-fájlok olvasásához és írásához.
+A ZIM fájlformátumot a [Zeno fájlformátum](https://openzim.org/wiki/Zeno_file_format) tetejére fejlesztették ki, és visszafelé nem kompatibilis. A ZIM fájlformátum formátumspecifikációi [elérhető online](https://openzim.org/wiki/ZIM_file_format) az openZIM-től, fejlesztői hivatkozásként. Az OpenZIM C++ nyílt forráskódú implementációt, [LibZim](https://openzim.org/wiki/Zimlib) biztosított a ZIM-fájlok olvasásához és írásához.
 
 A ZIM fájlformátum LZMA2 tömörítést használ a tartalom tömörítéséhez.
 

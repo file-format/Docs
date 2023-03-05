@@ -19,8 +19,8 @@
 
 ## ما هو ملف XUL؟
 
-الملف بامتداد .xul ([XUL] (https://wiki.mozilla.org/XUL:Home_Page) يشير إلى لغة واجهة مستخدم XML) هو ملف لغة ترميز يستند إلى [XML] (/ar/ web / xml /) لـ إنشاء واجهات المستخدم. تم تطويره بواسطة Mozilla للمطورين لإنشاء عناصر واجهة مستخدم رسومية مماثلة للغات الترميز الأخرى المستخدمة لإنشاء صفحات الويب. تم استخدام XUL على نطاق واسع بواسطة Mozilla في متصفح Firefox الخاص بها حيث استخدم قاعدة بيانات Mozilla. يتم تنفيذ عرض XUL باستخدام ملف
-[محرك أبو بريص] (https://en.wikipedia.org/wiki/Gecko_ (برنامج)). تحتفظ شوكات Firefox مثل Pale Moon و Basilisk و Waterfox بدعم إضافات XUL. يتم تحديد ملفات XUL بنوع MIME: application / vnd.mozilla.xul + xml.
+الملف بامتداد .xul ([XUL](https://wiki.mozilla.org/XUL:Home_Page) يشير إلى لغة واجهة مستخدم XML) هو ملف لغة ترميز يستند إلى [XML](/ar/ web / xml /) لـ إنشاء واجهات المستخدم. تم تطويره بواسطة Mozilla للمطورين لإنشاء عناصر واجهة مستخدم رسومية مماثلة للغات الترميز الأخرى المستخدمة لإنشاء صفحات الويب. تم استخدام XUL على نطاق واسع بواسطة Mozilla في متصفح Firefox الخاص بها حيث استخدم قاعدة بيانات Mozilla. يتم تنفيذ عرض XUL باستخدام ملف
+[محرك أبو بريص](https://en.wikipedia.org/wiki/Gecko_ (برنامج)). تحتفظ شوكات Firefox مثل Pale Moon و Basilisk و Waterfox بدعم إضافات XUL. يتم تحديد ملفات XUL بنوع MIME: application / vnd.mozilla.xul + xml.
 
 ## تنسيق ملف XUL
 
@@ -50,6 +50,6 @@ xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
 
 ## مراجع
 
-* [XUL - بواسطة Wikipedia] (https://en.wikipedia.org/wiki/XUL)
-* [وثائق XUL المؤرشفة - بواسطة Mozilla] (https://wiki.mozilla.org/XUL:Home_Page)
+* [XUL - بواسطة Wikipedia](https://en.wikipedia.org/wiki/XUL)
+* [وثائق XUL المؤرشفة - بواسطة Mozilla](https://wiki.mozilla.org/XUL:Home_Page)
 

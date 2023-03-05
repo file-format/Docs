@@ -22,7 +22,7 @@ Un archivo FMP12 es un archivo de base de datos creado con el programa de desarr
 
 ## ¿Cómo convertir archivos antiguos de FileMaker Pro a FMP12?
 
-Formatos de archivo anteriores de FileMaker Pro, como bases de datos 11, 10, 9, 8 y 7 (.fp7) a formatos de archivo FMP12. FileMaker tiene pautas extensas para [convertir la versión anterior de los formatos de archivo de FileMaker Pro a FMP12] (https://fmhelp.filemaker.com/help/16/fmp/en/index.html#page/FMP_Help/converting-files.html) .
+Formatos de archivo anteriores de FileMaker Pro, como bases de datos 11, 10, 9, 8 y 7 (.fp7) a formatos de archivo FMP12. FileMaker tiene pautas extensas para [convertir la versión anterior de los formatos de archivo de FileMaker Pro a FMP12](https://fmhelp.filemaker.com/help/16/fmp/en/index.html#page/FMP_Help/converting-files.html) .
 
 ## Referencias
 

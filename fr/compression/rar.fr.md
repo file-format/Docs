@@ -90,6 +90,6 @@ où
 
 ## Références
 
-* [Format d'archive RAR 5.0] (https://www.rarlab.com/technote.htm)
+* [Format d'archive RAR 5.0](https://www.rarlab.com/technote.htm)
 * [RAR - Par Wikipédia](https://en.wikipedia.org/wiki/RAR_(file_format))
 

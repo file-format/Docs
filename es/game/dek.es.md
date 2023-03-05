@@ -27,5 +27,5 @@ Los archivos DEK se almacenan como archivos de texto sin formato de varias líne
 
 ## Referencias
 
-* [Formatos de Magic: The Gathering] (https://en.wikipedia.org/wiki/Magic:_The_Gathering_formats)
+* [Formatos de Magic: The Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering_formats)
 

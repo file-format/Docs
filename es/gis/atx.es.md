@@ -26,5 +26,5 @@ No hay especificaciones de formato de archivo disponibles para el formato de arc
 
 ## Referencias
 
-* [Preguntas frecuentes de ESRI: ¿Qué es un archivo ATX?] (https://support.esri.com/en/technical-article/000002973)
+* [Preguntas frecuentes de ESRI: ¿Qué es un archivo ATX?](https://support.esri.com/en/technical-article/000002973)
 

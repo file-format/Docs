@@ -23,11 +23,11 @@ Eine AEX-Datei (mit der Erweiterung .aex) ist eine kompilierte [Xbasic](https://
 
 ## AEX-Dateiformat – Weitere Informationen
 
-AEX-Dateien werden im Binärdateiformat auf der Disc gespeichert und enthalten kompilierten Code von Funktionen, die in Xbasic geschrieben wurden. Xbasic-Skript-Befehlsanweisungen bestimmen die Struktur und den Ablauf der Ausführung, einschließlich des Ausführens oder Stoppens einer wiederholten Aktion oder der Auswahl zwischen zwei oder mehr Schritten basierend auf Bedingungen. [Xbasic-Sprachreferenz] (https://documentation.alphasoftware.com/documentation/pages/Ref/Xbasic/index.xml) kann für detaillierte Informationen dazu konsultiert werden.
+AEX-Dateien werden im Binärdateiformat auf der Disc gespeichert und enthalten kompilierten Code von Funktionen, die in Xbasic geschrieben wurden. Xbasic-Skript-Befehlsanweisungen bestimmen die Struktur und den Ablauf der Ausführung, einschließlich des Ausführens oder Stoppens einer wiederholten Aktion oder der Auswahl zwischen zwei oder mehr Schritten basierend auf Bedingungen. [Xbasic-Sprachreferenz](https://documentation.alphasoftware.com/documentation/pages/Ref/Xbasic/index.xml) kann für detaillierte Informationen dazu konsultiert werden.
 
 ## Verweise
 
 * [Alpha Five](https://www.alphasoftware.com/)
-* [Alpha Five-Dokumentation] (https://documentation.alphasoftware.com/documentation/pages/index.html)
+* [Alpha Five-Dokumentation](https://documentation.alphasoftware.com/documentation/pages/index.html)
 * [Xbasic-Handbuch](https://documentation.alphasoftware.com/pages/Guides/Xbasic/index.xml)
 

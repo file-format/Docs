@@ -19,7 +19,7 @@
 
 ## ما هو ملف MDF؟
 
-الملف بامتداد .mdf هو ملف قاعدة بيانات رئيسي يستخدمه [Microsoft SQL Server] (https://en.wikipedia.org/wiki/Microsoft_SQL_Server) لتخزين بيانات المستخدم. إنه ذو أهمية قصوى حيث يتم تخزين جميع البيانات في هذا الملف. يخزن ملف MDF بيانات المستخدمين في قواعد البيانات العلائقية في أعمدة النموذج والصفوف والحقول والفهارس وطرق العرض والجداول. يسمح SQL Server بضبط إعدادات autogrow والتقلص التلقائي ليكون لها تأثير إيجابي على أداء قاعدة البيانات. يمكن تحميل ملفات MDF وإرفاقها بقاعدة بيانات باستخدام Microsoft SQL Server. تحتوي ملفات MDF على نوع mime Application / octet-Stream.
+الملف بامتداد .mdf هو ملف قاعدة بيانات رئيسي يستخدمه [Microsoft SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server) لتخزين بيانات المستخدم. إنه ذو أهمية قصوى حيث يتم تخزين جميع البيانات في هذا الملف. يخزن ملف MDF بيانات المستخدمين في قواعد البيانات العلائقية في أعمدة النموذج والصفوف والحقول والفهارس وطرق العرض والجداول. يسمح SQL Server بضبط إعدادات autogrow والتقلص التلقائي ليكون لها تأثير إيجابي على أداء قاعدة البيانات. يمكن تحميل ملفات MDF وإرفاقها بقاعدة بيانات باستخدام Microsoft SQL Server. تحتوي ملفات MDF على نوع mime Application / octet-Stream.
 
 ## تنسيق ملف MDF
 
@@ -58,7 +58,7 @@
 
 ## مراجع
 
-* [ملفات قاعدة البيانات ومجموعات الملفات] (https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups؟view=sql-server-ver15)
-* [فصل وإرفاق قاعدة البيانات - SQL Server] (https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server؟view=sql-server - أكثر من 15)
-* [تحليل تشريح ملف بيانات خادم SQL] (https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
+* [ملفات قاعدة البيانات ومجموعات الملفات](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups؟view=sql-server-ver15)
+* [فصل وإرفاق قاعدة البيانات - SQL Server](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server؟view=sql-server - أكثر من 15)
+* [تحليل تشريح ملف بيانات خادم SQL](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

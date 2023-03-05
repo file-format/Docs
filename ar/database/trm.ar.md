@@ -18,7 +18,7 @@
 
 ## ما هو ملف Oracle TRM؟
 
-ملف TRM هو تنسيق ملف بيانات التعريف يستخدمه Oracle 11g نظام إدارة قواعد البيانات العلائقية (RDBMS). يتم تخزينه جنبًا إلى جنب مع ملفات Oracle Trace ([.trc] (/ar/ database / trc /)) ويحتوي على معلومات هيكلية حول ملف التتبع. الغرض من ملف TRM هو تسهيل البحث والتنقل في السجلات باستخدام معلومات البيانات الوصفية. يمكن استخدام برنامج Oracle لفتح ملفات TRM.
+ملف TRM هو تنسيق ملف بيانات التعريف يستخدمه Oracle 11g نظام إدارة قواعد البيانات العلائقية (RDBMS). يتم تخزينه جنبًا إلى جنب مع ملفات Oracle Trace ([.trc](/ar/ database / trc /)) ويحتوي على معلومات هيكلية حول ملف التتبع. الغرض من ملف TRM هو تسهيل البحث والتنقل في السجلات باستخدام معلومات البيانات الوصفية. يمكن استخدام برنامج Oracle لفتح ملفات TRM.
 
 ## تنسيق ملف TRM
 
@@ -26,5 +26,5 @@
 
 ## مراجع ##
 
-* [ما هو ملف .trm في oracle 11g؟] (https://community.oracle.com/tech/developers/discussion/945615/what-is-trm-file-in-oracle-11g)
+* [ما هو ملف .trm في oracle 11g؟](https://community.oracle.com/tech/developers/discussion/945615/what-is-trm-file-in-oracle-11g)
 

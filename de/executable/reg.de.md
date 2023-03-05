@@ -64,6 +64,4 @@ Windows Registry Editor Version 5.00
 ## Verweise
 
 * [Windows-Registrierung – von Wikipedia](https://en.wikipedia.org/wiki/Windows_Registry)
-* [Hinzufügen, Ändern oder Löschen von Registrierungsunterschlüsseln und -werten mithilfe einer .reg-Datei](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete- Registrierungsunterschlüssel-und-werte-durch-die-verwendung-einer-reg-datei-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23)
-
-
+* [Hinzufügen, Ändern oder Löschen von Registrierungsunterschlüsseln und -werten mithilfe einer .reg-Datei](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete-registry-subkeys-and-values-by-using-a-reg-file-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23)

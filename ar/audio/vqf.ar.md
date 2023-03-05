@@ -28,5 +28,5 @@
 
 ## مراجع
 
-* [TwinVQ - من ويكيبيديا] (https://en.wikipedia.org/wiki/TwinVQ)
+* [TwinVQ - من ويكيبيديا](https://en.wikipedia.org/wiki/TwinVQ)
 

@@ -27,7 +27,7 @@ El tipo de archivo LRF está asociado ante todo con Line Rider por [inXile enter
 
 ## Formato de archivo LRF
 
-Las especificaciones detalladas del formato de archivo LRF están disponibles en [archivo web] (https://web.archive.org/web/20110809071744/http://www.sven.de/librie/Librie/LrfFormat). Un archivo LRF consta de:
+Las especificaciones detalladas del formato de archivo LRF están disponibles en [archivo web](https://web.archive.org/web/20110809071744/http://www.sven.de/librie/Librie/LrfFormat). Un archivo LRF consta de:
 * un encabezado
 * varios objetos
 * un índice de objetos.

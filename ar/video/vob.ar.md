@@ -34,6 +34,6 @@ lastmod: 2020-09-12
 
 ## مراجع ##
 
-- [VOB - ويكيبيديا] (https://en.wikipedia.org/wiki/VOB)
-- [داخل DVD-Video / بنية الدليل] (https://en.wikibooks.org/wiki/Inside_DVD-Video/Directory_Structure)
+- [VOB - ويكيبيديا](https://en.wikipedia.org/wiki/VOB)
+- [داخل DVD-Video / بنية الدليل](https://en.wikibooks.org/wiki/Inside_DVD-Video/Directory_Structure)
 

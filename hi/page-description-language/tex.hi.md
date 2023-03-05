@@ -50,5 +50,5 @@ AMS-TeX बहुत अधिक उपयोगकर्ता-अनुकू
 
 ## संदर्भ ##
 
-* [TeX टाइपसेटिंग सिस्टम] (https://en.wikipedia.org/wiki/TeX)
+* [TeX टाइपसेटिंग सिस्टम](https://en.wikipedia.org/wiki/TeX)
 

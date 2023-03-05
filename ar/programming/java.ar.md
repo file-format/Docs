@@ -56,5 +56,5 @@ Hello World from Java to the console.
 
 ## مراجع ##
 
-- [جافا (لغة برمجة) - ويكيبيديا] (https://en.wikipedia.org/wiki/Java_ (architecture_language))
+- [جافا (لغة برمجة) - ويكيبيديا](https://en.wikipedia.org/wiki/Java_ (architecture_language))
 

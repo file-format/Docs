@@ -20,7 +20,7 @@
 
 ## ما هو ملف STC؟
 
-الملف بامتداد .stc هو ملف اتصال يستخدمه برنامج Adobe Contribute لتخزين معلومات الاتصال. يحتوي على معلومات الاتصال مثل اسم المستخدم وعنوان URL للمضيف وبروتوكولات مثل FTP و SFTP وما إلى ذلك لإعادة استخدامها من داخل موقع الويب الحالي. بالنسبة لأولئك الذين لا يعرفون ، كان Adobe Contribute محررًا متخصصًا [HTML] (/ar/ web / html /) تم استخدامه لدفع التحديثات إلى مواقع الويب الحالية بما في ذلك المقالات القائمة على المحتوى والمعروفة باسم المدونات. تضمنت مكونات إضافية لمتصفحات الويب الشهيرة مثل Internet Explorer و Firefox التي ساهمت بسلاسة في المحتوى على مواقع الويب من داخل الصفحات. تم إيقافه منذ يناير 2017 ويستخدم Adobe Dreamweaver الآن لإنشاء مواقع الويب من البداية.
+الملف بامتداد .stc هو ملف اتصال يستخدمه برنامج Adobe Contribute لتخزين معلومات الاتصال. يحتوي على معلومات الاتصال مثل اسم المستخدم وعنوان URL للمضيف وبروتوكولات مثل FTP و SFTP وما إلى ذلك لإعادة استخدامها من داخل موقع الويب الحالي. بالنسبة لأولئك الذين لا يعرفون ، كان Adobe Contribute محررًا متخصصًا [HTML](/ar/ web / html /) تم استخدامه لدفع التحديثات إلى مواقع الويب الحالية بما في ذلك المقالات القائمة على المحتوى والمعروفة باسم المدونات. تضمنت مكونات إضافية لمتصفحات الويب الشهيرة مثل Internet Explorer و Firefox التي ساهمت بسلاسة في المحتوى على مواقع الويب من داخل الصفحات. تم إيقافه منذ يناير 2017 ويستخدم Adobe Dreamweaver الآن لإنشاء مواقع الويب من البداية.
 
 ## تنسيق ملف STC
 
@@ -28,5 +28,5 @@
 
 ## مراجع
 
-- [Adobe Contribute - Wikipedia] (https://en.wikipedia.org/wiki/Adobe_Contribute)
-- [Adobe Contribute] (https://help.adobe.com/archive/en_US/contribute/cs5/contribute_cs5_help.pdf)
+- [Adobe Contribute - Wikipedia](https://en.wikipedia.org/wiki/Adobe_Contribute)
+- [Adobe Contribute](https://help.adobe.com/archive/en_US/contribute/cs5/contribute_cs5_help.pdf)

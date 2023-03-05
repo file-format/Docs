@@ -40,5 +40,5 @@ VBA एप्लिकेशन के सभी क्षेत्रों क
 ## संदर्भ ##
 
 * [[एमएस-एक्सएलएस] - एक्सेल बाइनरी फ़ाइल स्वरूप संरचना](https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx)
-* [मैक्रो प्रोग्रामिंग] (https://en.wikipedia.org/wiki/Microsoft_Excel#Macro_programming)
+* [मैक्रो प्रोग्रामिंग](https://en.wikipedia.org/wiki/Microsoft_Excel#Macro_programming)
 

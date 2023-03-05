@@ -23,7 +23,7 @@ Tệp TCX (XML của Trung tâm đào tạo) là định dạng trao đổi dữ
 
 ## Định dạng tệp TCX - Thông tin khác
 
-Các tệp TCX được lưu vào đĩa dưới dạng tệp XML với mỗi bản ghi được lưu dưới dạng một hoạt động. Một hoạt động bao gồm tất cả dữ liệu của một bài tập như thời gian, thời gian vòng chạy, Id, nhịp tim, cường độ, nhịp và thông tin bản nhạc chứa các cặp vị trí cùng với dấu thời gian cho vị trí vĩ độ đó tương tự như [GPX] (/vi/gis/gpx/).
+Các tệp TCX được lưu vào đĩa dưới dạng tệp XML với mỗi bản ghi được lưu dưới dạng một hoạt động. Một hoạt động bao gồm tất cả dữ liệu của một bài tập như thời gian, thời gian vòng chạy, Id, nhịp tim, cường độ, nhịp và thông tin bản nhạc chứa các cặp vị trí cùng với dấu thời gian cho vị trí vĩ độ đó tương tự như [GPX](/vi/gis/gpx/).
 
 ### Phiên bản định dạng tệp TCX
 

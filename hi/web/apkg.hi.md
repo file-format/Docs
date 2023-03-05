@@ -57,5 +57,5 @@ img {
 
 ## संदर्भ ##
 
-* [अनकी दस्तावेज़ीकरण] (https://docs.ankiweb.net/intro.html)
+* [अनकी दस्तावेज़ीकरण](https://docs.ankiweb.net/intro.html)
 

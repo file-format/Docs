@@ -29,6 +29,6 @@
 
 ## использованная литература
 
-* [Справка Microsoft HTML] (https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
-* [Справка Microsoft Compiled HTML] (https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
+* [Справка Microsoft HTML](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [Справка Microsoft Compiled HTML](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 

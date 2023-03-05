@@ -29,13 +29,13 @@
 
 ## هل يمكن تحويل ملف INDD إلى تنسيقات أخرى؟
 
-يمكن تحويل ملفات INDD إلى العديد من تنسيقات الملفات الأخرى. التحويل الأكثر شيوعًا هو INDD إلى PDF. يتيح لك InDesign حفظ ملف INDD في PDF لمشاركته مع مستخدمين آخرين. يتيح لك أيضًا تصدير ملف INDD إلى JPG ، [EPS] (/ar/ page-description-language / eps /) ، [EPUB] (/ar/ ebook / epub /) ، [SWF] (/ar/ page-description-language / swf /) و FLA و [HTML] (/ar/ web / html /) و [XML] (/ar/ web / xml /) و IDML.
+يمكن تحويل ملفات INDD إلى العديد من تنسيقات الملفات الأخرى. التحويل الأكثر شيوعًا هو INDD إلى PDF. يتيح لك InDesign حفظ ملف INDD في PDF لمشاركته مع مستخدمين آخرين. يتيح لك أيضًا تصدير ملف INDD إلى JPG ، [EPS](/ar/ page-description-language / eps /) ، [EPUB](/ar/ ebook / epub /) ، [SWF](/ar/ page-description-language / swf /) و FLA و [HTML](/ar/ web / html /) و [XML](/ar/ web / xml /) و IDML.
 
 ## كيف يتم إنشاء ملف INDD؟
 
-يتم إنشاء ملف Indd عند إنشاء مشروع جديد باستخدام [Adobe InDesign] (https://www.adobe.com/products/indesign.html) وحفظه على القرص. يمكنك فتح ملف مشروع Indd وإجراء تغييرات عليه وحفظ الملف المحدث للتغييرات.
+يتم إنشاء ملف Indd عند إنشاء مشروع جديد باستخدام [Adobe InDesign](https://www.adobe.com/products/indesign.html) وحفظه على القرص. يمكنك فتح ملف مشروع Indd وإجراء تغييرات عليه وحفظ الملف المحدث للتغييرات.
 
 ## مراجع
 
-* [نوع ملف INDD - Adobe] (https://www.adobe.com/creativecloud/file-types/image/vector/indd-file.html)
+* [نوع ملف INDD - Adobe](https://www.adobe.com/creativecloud/file-types/image/vector/indd-file.html)
 

@@ -83,5 +83,5 @@ WINDIR="C:\Windows"
 
 ## संदर्भ
 
-* [कॉमन गेटवे इंटरफेस - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/Common_Gateway_Interface)
+* [कॉमन गेटवे इंटरफेस - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
 

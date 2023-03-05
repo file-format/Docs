@@ -33,5 +33,5 @@
 
 ## использованная литература
 
-* [Структура таблицы двоичных ресурсов] (https://stackoverflow.com/questions/27548810/android-compiled-resources-resources-arsc)
+* [Структура таблицы двоичных ресурсов](https://stackoverflow.com/questions/27548810/android-compiled-resources-resources-arsc)
 

@@ -30,7 +30,7 @@ Im Minecraft-MCR-Dateiformat ist eine Region ein 32x32-Blockbereich der Spielwel
 
 ## Spezifikationen des MCR-Dateiformats
 
-Die Spezifikationen des MCR-Dateiformats sind öffentlich verfügbar. Die Spezifikationen für das NBT-Format, auf dem das MCR-Format basiert, sind auf der Website von Minecraft Forge verfügbar. Darüber hinaus enthält das [Minecraft-Wiki] (https://minecraft.fandom.com/wiki/Region_file_format) auch detaillierte Informationen über das MCR-Dateiformat, einschließlich seiner Struktur und der verschiedenen unterstützten Datentypen.
+Die Spezifikationen des MCR-Dateiformats sind öffentlich verfügbar. Die Spezifikationen für das NBT-Format, auf dem das MCR-Format basiert, sind auf der Website von Minecraft Forge verfügbar. Darüber hinaus enthält das [Minecraft-Wiki](https://minecraft.fandom.com/wiki/Region_file_format) auch detaillierte Informationen über das MCR-Dateiformat, einschließlich seiner Struktur und der verschiedenen unterstützten Datentypen.
 
 ### Komprimierte Daten in MCR-Dateien
 

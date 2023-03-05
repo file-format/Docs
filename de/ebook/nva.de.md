@@ -30,6 +30,6 @@ Zusammenfassend lässt sich sagen, dass der NVA Reader ein hervorragendes Tool i
 
 ## Verweise
 
-* [NVA Reader ist ein eBook-Reader, der NVA-Dateien öffnet] (https://nva-reader.informer.com/1.0/)
+* [NVA Reader ist ein eBook-Reader, der NVA-Dateien öffnet](https://nva-reader.informer.com/1.0/)
 
 

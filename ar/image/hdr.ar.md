@@ -36,12 +36,12 @@
 
 ## واجهات برمجة تطبيقات HDR / HDRI مفتوحة المصدر
 
-* ** [imageinfo] (https://github.com/xiaozhuai/imageinfo) ** - مكتبة برأس واحد فائقة السرعة عبر النظام الأساسي [C ++] (/ar/ برمجة / cpp /) للحصول على حجم الصورة وتنسيقها دون تحميل / فك تشفير.
-* ** [imgaeinfo-rs] (https://github.com/xiaozhuai/imageinfo-rs) ** - مكتبة الصدأ للحصول على حجم الصورة وتنسيقها دون تحميل / فك تشفير. يدعم [.avif] (/ar/ image / avif /) ، [.bmp] (/ar/ image / bmp) ، [.cur] (/ar/ image / cur /) ، [.dds] (/ar/ image / dds /) ، [. gif] (/ar/ image / gif /) ، hdr (pic) ، [heic (heif)] (/ar/ image / heic /) ، [.icns] (/ar/ image / icns /) ، [.ico] (/ar/ image / ico /) ، [.jp2] (/ar/ image / jp2 /) ، [jpeg (jpg)] (/ar/ image / jpeg /) ، [jpx] (/ar/ image / jpx /) ، ktx ، [png] (/ar/ image / png /) و [psd] (/ar/ image / psd /) و qoi و tga و tiff (tif) و webp.
-* ** [HdrHistogram] (https://github.com/HdrHistogram/HdrHistogram) ** - تنفيذ Java لـ HdrHistogram.
+* ** [imageinfo](https://github.com/xiaozhuai/imageinfo) ** - مكتبة برأس واحد فائقة السرعة عبر النظام الأساسي [C ++](/ar/ برمجة / cpp /) للحصول على حجم الصورة وتنسيقها دون تحميل / فك تشفير.
+* ** [imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs) ** - مكتبة الصدأ للحصول على حجم الصورة وتنسيقها دون تحميل / فك تشفير. يدعم [.avif](/ar/ image / avif /) ، [.bmp](/ar/ image / bmp) ، [.cur](/ar/ image / cur /) ، [.dds](/ar/ image / dds /) ، [. gif](/ar/ image / gif /) ، hdr (pic) ، [heic (heif)](/ar/ image / heic /) ، [.icns](/ar/ image / icns /) ، [.ico](/ar/ image / ico /) ، [.jp2](/ar/ image / jp2 /) ، [jpeg (jpg)](/ar/ image / jpeg /) ، [jpx](/ar/ image / jpx /) ، ktx ، [png](/ar/ image / png /) و [psd](/ar/ image / psd /) و qoi و tga و tiff (tif) و webp.
+* ** [HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) ** - تنفيذ Java لـ HdrHistogram.
 
 ## مراجع
 
-* [Radiance HDR] (http://paulbourke.net/dataformats/pic/)
-* [imageinfo] (https://github.com/xiaozhuai/imageinfo)
+* [Radiance HDR](http://paulbourke.net/dataformats/pic/)
+* [imageinfo](https://github.com/xiaozhuai/imageinfo)
 

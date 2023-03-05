@@ -23,5 +23,5 @@
 
 ## संदर्भ
 
-* [आईओएस परियोजना में आयात त्रुटि] (https://developer.apple.com/forums/thread/92931)
+* [आईओएस परियोजना में आयात त्रुटि](https://developer.apple.com/forums/thread/92931)
 

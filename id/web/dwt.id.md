@@ -25,7 +25,7 @@ File dengan ekstensi .dwt adalah file template halaman web yang dibuat dengan pe
 
 File DWT dikembangkan dan disimpan sebagai file teks biasa. Ini dapat dibuka di Dreamweaver atau editor teks apa pun, dan dapat diedit untuk perubahan yang diperlukan. Perangkat lunak Dreamweaver memperbarui UI saat perubahan diterapkan dan pengguna dapat mengamati efek perubahan secara visual di antarmuka pengguna aplikasi.
 
-Setiap kali Anda menyimpan halaman [HTML] (/id/ web / html /) sebagai file template, Dreamweaver membuat folder template di level root dari folder root lokal. Tautan terputus jika file .dwt dipindahkan dari folder Templat atau diubah namanya. Oleh karena itu, penting untuk menyimpan file .dwt di folder Template tempat Dreamweaver membuatnya. Sebaiknya simpan elemen lain situs Anda, seperti file sumber gambar atau dokumen HTML, di lokasi selain folder Template.
+Setiap kali Anda menyimpan halaman [HTML](/id/ web / html /) sebagai file template, Dreamweaver membuat folder template di level root dari folder root lokal. Tautan terputus jika file .dwt dipindahkan dari folder Templat atau diubah namanya. Oleh karena itu, penting untuk menyimpan file .dwt di folder Template tempat Dreamweaver membuatnya. Sebaiknya simpan elemen lain situs Anda, seperti file sumber gambar atau dokumen HTML, di lokasi selain folder Template.
 
 ## Tentang Dreamweaver
 

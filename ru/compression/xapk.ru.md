@@ -30,5 +30,5 @@
 
 ## использованная литература
 
-* [Файл пакета Android] (https://en.wikipedia.org/wiki/Android_application_package)
+* [Файл пакета Android](https://en.wikipedia.org/wiki/Android_application_package)
 

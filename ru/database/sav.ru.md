@@ -50,5 +50,5 @@
 
 ## Использованная литература ##
 
-* [Семейство форматов файлов системных данных SPSS (.sav)] (https://www.loc.gov/preservation/digital/formats/fdd/fdd000469.shtml)
+* [Семейство форматов файлов системных данных SPSS (.sav)](https://www.loc.gov/preservation/digital/formats/fdd/fdd000469.shtml)
 

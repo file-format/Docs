@@ -27,7 +27,7 @@ Typ souboru LRF je v první řadě spojen s Line Rider od [inXile entertainment]
 
 ## Formát souboru LRF
 
-Podrobné specifikace formátu souboru LRF jsou k dispozici na [webovém archivu] (https://web.archive.org/web/20110809071744/http://www.sven.de/librie/Librie/LrfFormat). Soubor LRF se skládá z:
+Podrobné specifikace formátu souboru LRF jsou k dispozici na [webovém archivu](https://web.archive.org/web/20110809071744/http://www.sven.de/librie/Librie/LrfFormat). Soubor LRF se skládá z:
 * záhlaví
 * množství objektů
 * index objektu.

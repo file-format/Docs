@@ -93,6 +93,6 @@ C:\Music\ExampleMusic.mp3
 ```
 ## مراجع ##
 
-- [M3U - ويكيبيديا] (https://en.wikipedia.org/wiki/M3U)
-- [بث HTTP المباشر] (https://tools.ietf.org/html/rfc8216)
+- [M3U - ويكيبيديا](https://en.wikipedia.org/wiki/M3U)
+- [بث HTTP المباشر](https://tools.ietf.org/html/rfc8216)
 

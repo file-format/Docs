@@ -19,7 +19,7 @@
 
 ## מהו קובץ FODT?
 
-קובץ עם סיומת .fodt הוא מסמך טקסט השמור בפורמט קובץ OpenDocument שטוח [XML](/he/web/xml/). בניגוד לקבצי .odt, שנשמרים בפורמט קובץ מיכל [.zip](/he/compression/zip/), קובצי ה-FODT מאוחסנים בדיסק כקבצים קריא אנושיים שניתן לפתוח בכל עורך טקסט לצפייה כמסמכי XML רגילים . תקן המסמכים המשרדיים של OpenDocument פותח על ידי קונסורציום התעשייה OASIS, וסלל דרך לכל אחד ליישום על ידי כל אחד ללא הגבלות. פורמטים פופולריים אחרים של קובץ OpenDocument כוללים [.odt](/he/word-processing/odt/), [.ott](/he/word-processing/ott/), [.ods](/he/spreadsheet/ods/), [.odp] (/he/presentation/odp/), ובדומה אחרים.
+קובץ עם סיומת .fodt הוא מסמך טקסט השמור בפורמט קובץ OpenDocument שטוח [XML](/he/web/xml/). בניגוד לקבצי .odt, שנשמרים בפורמט קובץ מיכל [.zip](/he/compression/zip/), קובצי ה-FODT מאוחסנים בדיסק כקבצים קריא אנושיים שניתן לפתוח בכל עורך טקסט לצפייה כמסמכי XML רגילים . תקן המסמכים המשרדיים של OpenDocument פותח על ידי קונסורציום התעשייה OASIS, וסלל דרך לכל אחד ליישום על ידי כל אחד ללא הגבלות. פורמטים פופולריים אחרים של קובץ OpenDocument כוללים [.odt](/he/word-processing/odt/), [.ott](/he/word-processing/ott/), [.ods](/he/spreadsheet/ods/), [.odp](/he/presentation/odp/), ובדומה אחרים.
 
 ## פורמט קובץ FODT - מידע נוסף
 

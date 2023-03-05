@@ -23,7 +23,7 @@ Eine Datei mit der Erweiterung .asf ist ein Multimedia-Dateiformat zum Speichern
 
 ## ASF-Dateiformat
 
-Eine ASF-Datei kann mehrere unabhängige oder abhängige Streams umfassen. Dies kann mehrere Audiostreams für Mehrkanal-Audio oder Videostreams mit mehreren Bitraten umfassen. Durch die mehreren Bitraten eignen sich die Streams für die Übertragung über verschiedene Bandbreiten. Darüber hinaus können die Streams in einer ASF-Datei im komprimierten oder unkomprimierten Format vorliegen. Die beste Komprimierung wird mit den Codecs der Microsoft Windows Media Audio- und Video 9-Reihe erreicht. Vollständige Spezifikationen des ASF-Dateiformats sind auf der [Microsoft-Website] (https://download.microsoft.com/download/7/9/0/790fecaa-f64a-4a5e-a430-0bccdab3f1b4/ASF_Specification.doc) verfügbar.
+Eine ASF-Datei kann mehrere unabhängige oder abhängige Streams umfassen. Dies kann mehrere Audiostreams für Mehrkanal-Audio oder Videostreams mit mehreren Bitraten umfassen. Durch die mehreren Bitraten eignen sich die Streams für die Übertragung über verschiedene Bandbreiten. Darüber hinaus können die Streams in einer ASF-Datei im komprimierten oder unkomprimierten Format vorliegen. Die beste Komprimierung wird mit den Codecs der Microsoft Windows Media Audio- und Video 9-Reihe erreicht. Vollständige Spezifikationen des ASF-Dateiformats sind auf der [Microsoft-Website](https://download.microsoft.com/download/7/9/0/790fecaa-f64a-4a5e-a430-0bccdab3f1b4/ASF_Specification.doc) verfügbar.
 
 ### ASF-Dateistruktur der obersten Ebene
 

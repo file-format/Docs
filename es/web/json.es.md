@@ -88,10 +88,10 @@ No hay un límite estricto definido por la especificación, pero debe tener cuid
 
 ## ¿Sabías?
 
-Puede convertirse en colaborador en FileFormat.com para mantener la comunidad de formato de archivo actualizada con sus hallazgos. Si tiene que compartir algo sobre JSON o formatos de archivo web, puede publicar sus hallazgos en la sección [Noticias de formato de archivo web] (https://news.fileformat.com/t/Web) para que las personas obtengan más información sobre estos.
+Puede convertirse en colaborador en FileFormat.com para mantener la comunidad de formato de archivo actualizada con sus hallazgos. Si tiene que compartir algo sobre JSON o formatos de archivo web, puede publicar sus hallazgos en la sección [Noticias de formato de archivo web](https://news.fileformat.com/t/Web) para que las personas obtengan más información sobre estos.
 
 ## Referencias
 
 - [JSON - Wikipedia](https://en.wikipedia.org/wiki/CSS)
-- [Una introducción a JSON] (https://www.digitalocean.com/community/tutorials/an-introduction-to-json)
+- [Una introducción a JSON](https://www.digitalocean.com/community/tutorials/an-introduction-to-json)
 

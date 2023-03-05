@@ -27,5 +27,5 @@ Les spécifications de format de fichier du document WPS ne sont pas disponibles
 
 ## Références ##
 
-* [Microsoft Works] (https://en.wikipedia.org/wiki/Microsoft_Works)
+* [Microsoft Works](https://en.wikipedia.org/wiki/Microsoft_Works)
 

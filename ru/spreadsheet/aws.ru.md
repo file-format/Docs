@@ -27,6 +27,6 @@
 
 ## Использованная литература ##
 
-* [Ability Office — Википедия] (https://en.wikipedia.org/wiki/Ability_Office)
-* [Офис способностей] (https://www.ability.com/en/home/home)
+* [Ability Office — Википедия](https://en.wikipedia.org/wiki/Ability_Office)
+* [Офис способностей](https://www.ability.com/en/home/home)
 

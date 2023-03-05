@@ -27,5 +27,5 @@ El formato de libro electrónico de Martview es propietario y funciona como cont
 
 ## Referencias
 
-* [Martview, el mejor lector de libros electrónicos para libros electrónicos en PDF] (https://www.ghacks.net/2011/04/15/martview-best-ebook-reader-for-pdf-e-books/)
+* [Martview, el mejor lector de libros electrónicos para libros electrónicos en PDF](https://www.ghacks.net/2011/04/15/martview-best-ebook-reader-for-pdf-e-books/)
 

@@ -19,7 +19,7 @@
 
 ## 什么是一 .dis 文件？
 
-DIS 文件是使用 [Oracle Discoverer](https://docs.oracle.com/cd/E28389_01/bi.1111/b40107/overview.htm) 软件创建的工作簿文件，其中包含用于查询、报告和Oracle 数据库的数据分析。从 Oracle Discoverer 导出数据时，它包含多个工作表。 Oracle 将 Discoverer 销售为一种商业智能 (BI) 产品，用于报告和分析，该产品在 [Oracle 融合中间件] (https://docs.oracle.com/cd/E28280_01/bi.1111/b40108/toc) 中工作.htm) 套件。默认情况下，Oracle Discoverer 不以 DIS 文件格式保存报告数据。
+DIS 文件是使用 [Oracle Discoverer](https://docs.oracle.com/cd/E28389_01/bi.1111/b40107/overview.htm) 软件创建的工作簿文件，其中包含用于查询、报告和Oracle 数据库的数据分析。从 Oracle Discoverer 导出数据时，它包含多个工作表。 Oracle 将 Discoverer 销售为一种商业智能 (BI) 产品，用于报告和分析，该产品在 [Oracle 融合中间件](https://docs.oracle.com/cd/E28280_01/bi.1111/b40108/toc) 中工作.htm) 套件。默认情况下，Oracle Discoverer 不以 DIS 文件格式保存报告数据。
 
 ## 如何下载 DIS 格式的 Discoverer 工作簿？
 

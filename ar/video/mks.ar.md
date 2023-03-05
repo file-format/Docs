@@ -68,5 +68,5 @@ Sub Station Alpha (SSA) هو تنسيق ملف يستخدمه محرر التر�
 
 ## مراجع ##
 
-- [ترجمات ماتروسكا] (https://www.matroska.org/technical/subtitles.html)
+- [ترجمات ماتروسكا](https://www.matroska.org/technical/subtitles.html)
 

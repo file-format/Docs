@@ -34,7 +34,7 @@ Além disso, os arquivos TS são usados porque o sistema de transmissão não pr
 
 ## Como reproduzir arquivos TS?
 
-Bem, os arquivos TS podem ser abertos e reproduzidos no popular [VideoLAN VLC media player] (https://www.videolan.org/vlc/features.html) que está disponível gratuitamente para download.
+Bem, os arquivos TS podem ser abertos e reproduzidos no popular [VideoLAN VLC media player](https://www.videolan.org/vlc/features.html) que está disponível gratuitamente para download.
 
 ## Referências ##
 

@@ -67,7 +67,7 @@ Autodesk Fusion 360 dokáže převádět soubory STP do následujících 3D a CA
 * [ASM](/cs/cad/asm/)
 * [IGES](/cs/cad/iges/)
 * [STL](/cs/cad/stl/)
-* [FBX] (/cs/3d/fbx/)
+* [FBX](/cs/3d/fbx/)
 * F3D
 * [USD](/cs/3d/usd/)
 

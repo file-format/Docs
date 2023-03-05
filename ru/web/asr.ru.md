@@ -26,6 +26,6 @@
 
 ## использованная литература
 
-* [Adobe Contribute — Википедия] (https://en.wikipedia.org/wiki/Adobe_Contribute)
-* [Создание простых страниц ASP] (https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Adobe Contribute — Википедия](https://en.wikipedia.org/wiki/Adobe_Contribute)
+* [Создание простых страниц ASP](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

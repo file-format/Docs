@@ -89,6 +89,6 @@ Les styles suivants sont pris en charge par le format OpenDocument.
 `Mater Styles` - un style commun qui contient des informations de formatage et du contenu supplémentaire qui s'affiche avec le contenu du document lorsque le style est appliqué. Un exemple de style maître sont les pages maîtres.
 
 ## Références ##
-* [Format de document ouvert OASIS pour les applications Office] (https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
+* [Format de document ouvert OASIS pour les applications Office](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
 * [Format OpenDocument - Wikipédia](https://en.wikipedia.org/wiki/OpenDocument)
 

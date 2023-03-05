@@ -38,5 +38,5 @@
 
 ## Использованная литература ##
 
-* [StackExchange] (https://apple.stackexchange.com/questions/2587/what-ebook-formats-does-ibooks-support)
+* [StackExchange](https://apple.stackexchange.com/questions/2587/what-ebook-formats-does-ibooks-support)
 

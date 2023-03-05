@@ -34,7 +34,7 @@
 * XLT в HTML
 * XLT у CSV
 
-XLT базується на двійковому [специфікації формату файлу XLS] (https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx), який задокументовано Microsoft для довідки розробників.
+XLT базується на двійковому [специфікації формату файлу XLS](https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx), який задокументовано Microsoft для довідки розробників.
 
 ## Список літератури
 

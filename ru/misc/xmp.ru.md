@@ -35,6 +35,6 @@ XMP — это формат сериализации, основанный на 
 
 ## использованная литература
 
-* [Расширяемая платформа метаданных — Википедия] (https://en.wikipedia.org/wiki/Extensible_Metadata_Platform)
-* [Спецификации XMP, часть 3] (https://developer.adobe.com/xmp/docs/XMPSpecifications/)
+* [Расширяемая платформа метаданных — Википедия](https://en.wikipedia.org/wiki/Extensible_Metadata_Platform)
+* [Спецификации XMP, часть 3](https://developer.adobe.com/xmp/docs/XMPSpecifications/)
 

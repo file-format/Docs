@@ -66,7 +66,7 @@ RAR существует уже довольно давно и является 
 |Запись восстановления (необязательно)
 |Конец заголовка архива
 
-Информацию о каждом разделе файла RAR, упомянутом выше, можно найти в документе [Спецификации формата файла RAR 5.0] (https://www.rarlab.com/technote.htm#arcstruct).
+Информацию о каждом разделе файла RAR, упомянутом выше, можно найти в документе [Спецификации формата файла RAR 5.0](https://www.rarlab.com/technote.htm#arcstruct).
 
 #### Самораспаковывающиеся архивы RAR
 
@@ -90,6 +90,6 @@ RAR существует уже довольно давно и является 
 
 ## использованная литература
 
-* [Формат архива RAR 5.0] (https://www.rarlab.com/technote.htm)
-* [RAR — Википедия] (https://en.wikipedia.org/wiki/RAR_(file_format))
+* [Формат архива RAR 5.0](https://www.rarlab.com/technote.htm)
+* [RAR — Википедия](https://en.wikipedia.org/wiki/RAR_(file_format))
 

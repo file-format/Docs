@@ -35,5 +35,5 @@ Panzoid a les programmes ClipMaker et Backgrounder qui sont utilisés ensemble p
 ## Références ##
 
 * [Panzoid](https://panzoid.com/)
-* [Discussions Panzoid] (https://panzoid.com/discussions)
+* [Discussions Panzoid](https://panzoid.com/discussions)
 

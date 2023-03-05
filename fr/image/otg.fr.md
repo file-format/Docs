@@ -19,7 +19,7 @@
 
 ## Qu'est-ce qu'un fichier OTG ?
 
-Un fichier OTG est un modèle de dessin créé à l'aide de la norme OpenDocument qui suit la spécification OASIS Office Applications [1.0] (http://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0 -os.pdf). Il représente l'organisation par défaut des éléments de dessin pour une image vectorielle qui peut être utilisée pour améliorer davantage le contenu du fichier. Les fichiers OTF sont comme tous les autres fichiers basés sur le format OpenDocument qui sont basés sur le format XML pour représenter le contenu du document. Les fichiers OTF peuvent être visualisés en les ouvrant dans n'importe quel éditeur de texte ou XML standard.
+Un fichier OTG est un modèle de dessin créé à l'aide de la norme OpenDocument qui suit la spécification OASIS Office Applications [1.0](http://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0 -os.pdf). Il représente l'organisation par défaut des éléments de dessin pour une image vectorielle qui peut être utilisée pour améliorer davantage le contenu du fichier. Les fichiers OTF sont comme tous les autres fichiers basés sur le format OpenDocument qui sont basés sur le format XML pour représenter le contenu du document. Les fichiers OTF peuvent être visualisés en les ouvrant dans n'importe quel éditeur de texte ou XML standard.
 
 ## Spécifications du format de fichier OTG ##
 
@@ -121,6 +121,6 @@ Un cadre est contenu dans un document comme illustré ci-dessous.
 ```
 
 ## Références ##
-* [Format de document ouvert OASIS pour les applications Office] (https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
+* [Format de document ouvert OASIS pour les applications Office](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
 * [Format OpenDocument - Wikipédia](https://en.wikipedia.org/wiki/OpenDocument)
 

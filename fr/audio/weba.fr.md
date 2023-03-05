@@ -47,5 +47,5 @@ Les fichiers WEBA peuvent être convertis en d'autres formats de fichiers audio.
 
 ## Références
 
-* [Format de fichier OGG] (https://en.wikipedia.org/wiki/Ogg)
+* [Format de fichier OGG](https://en.wikipedia.org/wiki/Ogg)
 

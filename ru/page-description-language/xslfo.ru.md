@@ -71,5 +71,5 @@ XSL-FO (объекты форматирования XSL) — это мощный
 ## Использованная литература ##
 
 * [Что такое XSL-FO?](https://www.xml.com/articles/2017/01/01/what-is-xsl-fo/)
-* [Объекты форматирования XSL] (https://en.wikipedia.org/wiki/XSL_Formatting_Objects)
+* [Объекты форматирования XSL](https://en.wikipedia.org/wiki/XSL_Formatting_Objects)
 

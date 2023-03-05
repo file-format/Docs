@@ -19,7 +19,7 @@
 
 ## Co je soubor OTG?
 
-Soubor OTG je šablona výkresu, která je vytvořena pomocí standardu OpenDocument, který se řídí specifikací OASIS Office Applications [1.0] (http://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0 -os.pdf). Představuje výchozí organizaci prvků výkresu pro vektorový obrázek, který lze použít k dalšímu vylepšení obsahu souboru. Soubory OTF jsou jako jakékoli jiné soubory založené na formátu OpenDocument, které jsou založeny na formátu XML a představují obsah dokumentu. Soubory OTF lze zobrazit otevřením v libovolném textovém nebo standardním editoru XML.
+Soubor OTG je šablona výkresu, která je vytvořena pomocí standardu OpenDocument, který se řídí specifikací OASIS Office Applications [1.0](http://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0 -os.pdf). Představuje výchozí organizaci prvků výkresu pro vektorový obrázek, který lze použít k dalšímu vylepšení obsahu souboru. Soubory OTF jsou jako jakékoli jiné soubory založené na formátu OpenDocument, které jsou založeny na formátu XML a představují obsah dokumentu. Soubory OTF lze zobrazit otevřením v libovolném textovém nebo standardním editoru XML.
 
 ## Specifikace formátu souboru OTG ##
 

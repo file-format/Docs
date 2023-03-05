@@ -42,6 +42,6 @@ DDS_HEADER          header;
 
 ## संदर्भ
 
-* [डीडीएस - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/DirectDraw_Surface)
-* [ZSoft PCX फ़ाइल स्वरूप तकनीकी संदर्भ मैनुअल] (http://qzx.com/pc-gpe/pcx.txt)
+* [डीडीएस - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/DirectDraw_Surface)
+* [ZSoft PCX फ़ाइल स्वरूप तकनीकी संदर्भ मैनुअल](http://qzx.com/pc-gpe/pcx.txt)
 

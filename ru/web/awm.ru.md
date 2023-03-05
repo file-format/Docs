@@ -30,5 +30,5 @@ AllWebMenus позволяет создавать меню на основе [CS
 
 ## использованная литература
 
-* [AllWebMenus] (https://www.likno.com/allwebmenusinfo.html)
+* [AllWebMenus](https://www.likno.com/allwebmenusinfo.html)
 

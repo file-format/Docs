@@ -27,5 +27,5 @@
 
 ## использованная литература
 
-* [Загрузка Interscape Data Flask] (https://download.cnet.com/Data-Flask/3000-2077_4-10620775.html)
+* [Загрузка Interscape Data Flask](https://download.cnet.com/Data-Flask/3000-2077_4-10620775.html)
 

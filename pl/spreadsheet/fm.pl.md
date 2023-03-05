@@ -32,4 +32,4 @@ FileMaker Pro może bezpośrednio konwertować FM do formatu pliku .fmp12. Przew
 ## Bibliografia
 
 * [FileMaker Pro](https://www.claris.com/filemaker/pro/)
-* [PRONOM - format pliku FM] (https://www.nationalarchives.gov.uk/PRONOM/fmt/1059)
+* [PRONOM - format pliku FM](https://www.nationalarchives.gov.uk/PRONOM/fmt/1059)

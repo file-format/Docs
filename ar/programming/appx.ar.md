@@ -23,7 +23,7 @@
 
 ## تنسيق ملف APPX - مزيد من المعلومات
 
-يتم حفظ ملفات APPX كملفات مضغوطة بتنسيق ملف [ZIP] (/ar/ compression / zip /). هذا يجعل الحزمة بأكملها كملف أرشيف بحجم ملف أصغر يسهل تحميله إلى متجر Microsoft.
+يتم حفظ ملفات APPX كملفات مضغوطة بتنسيق ملف [ZIP](/ar/ compression / zip /). هذا يجعل الحزمة بأكملها كملف أرشيف بحجم ملف أصغر يسهل تحميله إلى متجر Microsoft.
 
 ## كيفية عرض الملفات في ملف APPX؟
 
@@ -36,11 +36,11 @@
 
 هناك طريقتان يمكن استخدامهما لإنشاء ملفات APPX.
 
-1. استخدام MakeApp.exe - [MakeApp.exe] (https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) يُستخدم لإنشاء كليهما حزم التطبيقات (.msix أو .appx) وملفات حزمة التطبيقات. msixbundle أو .appxbundle). بالإضافة إلى ذلك ، يمكنه استخراج الملفات من حزمة التطبيق. يتوفر MakeApp.exe مع Windows 10 SDK ويمكن استخدامه من موجه الأوامر.
-1. باستخدام Microsoft Visual Studio - عادةً ما يقوم المطورون [بإنشاء ملفات APPX] (https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) باستخدام Microsoft Visual Studio. بمجرد اكتمال تطوير التطبيق ويكون التطبيق جاهزًا للنشر ، يمكن إنشاء ملف حزمة APPX عن طريق نشره من داخل Visual Studio.
+1. استخدام MakeApp.exe - [MakeApp.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) يُستخدم لإنشاء كليهما حزم التطبيقات (.msix أو .appx) وملفات حزمة التطبيقات. msixbundle أو .appxbundle). بالإضافة إلى ذلك ، يمكنه استخراج الملفات من حزمة التطبيق. يتوفر MakeApp.exe مع Windows 10 SDK ويمكن استخدامه من موجه الأوامر.
+1. باستخدام Microsoft Visual Studio - عادةً ما يقوم المطورون [بإنشاء ملفات APPX](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) باستخدام Microsoft Visual Studio. بمجرد اكتمال تطوير التطبيق ويكون التطبيق جاهزًا للنشر ، يمكن إنشاء ملف حزمة APPX عن طريق نشره من داخل Visual Studio.
 
 ## مراجع
 
-* [إنشاء حزمة MSIX أو حزمة باستخدام MakeAppx.exe] (https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
-* [إنشاء ملفات APPX باستخدام Microsoft Visual Studio] (https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [إنشاء حزمة MSIX أو حزمة باستخدام MakeAppx.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
+* [إنشاء ملفات APPX باستخدام Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

@@ -44,5 +44,5 @@
 
 ## Использованная литература ##
 
-* [StarOffice — Википедия] (https://en.wikipedia.org/wiki/StarOffice)
+* [StarOffice — Википедия](https://en.wikipedia.org/wiki/StarOffice)
 

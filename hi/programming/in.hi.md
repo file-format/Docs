@@ -26,5 +26,5 @@
 
 ## संदर्भ
 
-* [ऑटोकॉन्फ़] (https://www.gnu.org/software/autoconf/)
+* [ऑटोकॉन्फ़](https://www.gnu.org/software/autoconf/)
 

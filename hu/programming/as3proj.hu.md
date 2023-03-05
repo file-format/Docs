@@ -18,7 +18,7 @@
 
 ## Mi az AS3PROJ fájl?
 
-Az AS3PROJ fájl egy projektfájl, amelyet a FlashDevelop, egy ingyenes nyílt forráskódú programozó IDE hozott létre Flash- és webalkalmazások fejlesztésére. Elmenti a projekttel kapcsolatos összes információt és beállítást, amelyet a felhasználó a FlashDevelop IDE használatával alkalmaz. Az AS3PROJ fájlban tárolt információk közé tartoznak az összeállítási beállítások, a projekt forrásfájljaira való hivatkozások, valamint a kimeneti [.swf fájl] (/hu/page-description-language/swf/) létrehozásának lehetőségei. Új projekt létrehozásakor az AS3PROJ fájlként kerül mentésre ugyanarra a helyre, amelyet a felhasználó a projekthez kapcsolódó adatok mentésére adott meg.
+Az AS3PROJ fájl egy projektfájl, amelyet a FlashDevelop, egy ingyenes nyílt forráskódú programozó IDE hozott létre Flash- és webalkalmazások fejlesztésére. Elmenti a projekttel kapcsolatos összes információt és beállítást, amelyet a felhasználó a FlashDevelop IDE használatával alkalmaz. Az AS3PROJ fájlban tárolt információk közé tartoznak az összeállítási beállítások, a projekt forrásfájljaira való hivatkozások, valamint a kimeneti [.swf fájl](/hu/page-description-language/swf/) létrehozásának lehetőségei. Új projekt létrehozásakor az AS3PROJ fájlként kerül mentésre ugyanarra a helyre, amelyet a felhasználó a projekthez kapcsolódó adatok mentésére adott meg.
 
 ## AS3PROJ fájlformátum
 

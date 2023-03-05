@@ -29,6 +29,6 @@ QLR, как и [QGS](/ru/gis/qgs/), представляет собой файл
 
 ## использованная литература
 
-* [QGIS] (https://www.qgis.org/en/site/)
-* [QLR] (https://docs.qgis.org/3.16/en/docs/user_manual/appendices/qgis_file_formats.html)
+* [QGIS](https://www.qgis.org/en/site/)
+* [QLR](https://docs.qgis.org/3.16/en/docs/user_manual/appendices/qgis_file_formats.html)
 

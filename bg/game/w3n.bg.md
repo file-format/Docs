@@ -39,6 +39,6 @@ W3N файловете се съхраняват на диск като двои
 
 ## Препратки
 
-* [Warcraft III: The Frozen Throne] (https://en.wikipedia.org/wiki/Warcraft_III:_The_Frozen_Throne)
-* [Преглед на Warcraft III: The Frozen Throne] (https://web.archive.org/web/20110719200624/http://www.gamespot.com/pc/strategy/warcraft3thefrozenthrone/review.html)
+* [Warcraft III: The Frozen Throne](https://en.wikipedia.org/wiki/Warcraft_III:_The_Frozen_Throne)
+* [Преглед на Warcraft III: The Frozen Throne](https://web.archive.org/web/20110719200624/http://www.gamespot.com/pc/strategy/warcraft3thefrozenthrone/review.html)
 

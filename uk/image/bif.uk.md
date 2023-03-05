@@ -39,5 +39,5 @@
 
 ## Посилання ##
 
-* [Офіційний документ Roche Digital Pathology BIF] (https://diagnostics.roche.com/content/dam/diagnostics/Blueprint/en/pdf/rmd/Roche-Digital-Pathology-BIF-Whitepaper.pdf)
+* [Офіційний документ Roche Digital Pathology BIF](https://diagnostics.roche.com/content/dam/diagnostics/Blueprint/en/pdf/rmd/Roche-Digital-Pathology-BIF-Whitepaper.pdf)
 

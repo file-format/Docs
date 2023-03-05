@@ -23,13 +23,13 @@
 
 ## Формат файла FM — дополнительная информация
 
-Доступно не так много информации о внутреннем формате файла и структуре файлов FM. Тем не менее, в Национальном архиве для справки размещен [PRONOM] (https://www.nationalarchives.gov.uk/PRONOM/fmt/1059) о формате файлов FM.
+Доступно не так много информации о внутреннем формате файла и структуре файлов FM. Тем не менее, в Национальном архиве для справки размещен [PRONOM](https://www.nationalarchives.gov.uk/PRONOM/fmt/1059) о формате файлов FM.
 
 ## Как преобразовать старые файлы FileMaker Pro в формат файлов .fmp12?
 
-FileMaker Pro может напрямую конвертировать FM в формат файлов .fmp12. Пошаговое руководство по [преобразованию FM-файлов в .fmp12] (https://support.claris.com/s/article/Converting-older-FileMaker-Pro-files-to-the-fmp12-file-format-1503693002275?language=en_US) для этой цели.
+FileMaker Pro может напрямую конвертировать FM в формат файлов .fmp12. Пошаговое руководство по [преобразованию FM-файлов в .fmp12](https://support.claris.com/s/article/Converting-older-FileMaker-Pro-files-to-the-fmp12-file-format-1503693002275?language=en_US) для этой цели.
 
 ## использованная литература
 
-* [FileMaker Pro] (https://www.claris.com/filemaker/pro/)
-* [PRONOM — формат файла FM] (https://www.nationalarchives.gov.uk/PRONOM/fmt/1059)
+* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [PRONOM — формат файла FM](https://www.nationalarchives.gov.uk/PRONOM/fmt/1059)

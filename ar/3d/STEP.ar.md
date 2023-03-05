@@ -43,5 +43,5 @@ lastmod: 2020-18-01
 
 ## مراجع
 
-- [ISO 10303-21 - ويكيبيديا] (https://en.wikipedia.org/wiki/ISO_10303-21)
+- [ISO 10303-21 - ويكيبيديا](https://en.wikipedia.org/wiki/ISO_10303-21)
 

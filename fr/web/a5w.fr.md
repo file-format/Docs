@@ -31,6 +31,6 @@ Le code source d'Alpha Five utilise les balises de début et de fin de <%a5 et a
 
 ## Références
 
-* [Alpha Five] (https://www.alphasoftware.com/)
+* [Alpha Five](https://www.alphasoftware.com/)
 * [Documentation Alpha Five](https://documentation.alphasoftware.com/documentation/pages/index.html)
 

@@ -26,5 +26,5 @@
 
 ## использованная литература
 
-* [DIVA-ГИС] (https://en.wikipedia.org/wiki/DIVA-ГИС)
+* [DIVA-ГИС](https://en.wikipedia.org/wiki/DIVA-ГИС)
 

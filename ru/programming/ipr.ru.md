@@ -28,5 +28,5 @@
 
 ## Ссылка ##
 
-* [Создание управляющих проектов — IntelliJ IDEA] (https://www.jetbrains.com/help/idea/creating-and-managing-projects.html)
+* [Создание управляющих проектов — IntelliJ IDEA](https://www.jetbrains.com/help/idea/creating-and-managing-projects.html)
 

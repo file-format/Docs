@@ -27,5 +27,5 @@
 
 ## مراجع
 
-* [غلاف Java حول Canon EOS Digital Software Development Kit EDSDK] (https: //github.com/kritzikratzi/edsdk4j |
+* [غلاف Java حول Canon EOS Digital Software Development Kit EDSDK](https: //github.com/kritzikratzi/edsdk4j |
 

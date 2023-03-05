@@ -92,6 +92,6 @@ Microsoft Visio также поддерживает унифицированны
 
 ## Использованная литература ##
 
-* [Microsoft Visio — Википедия] (https://en.wikipedia.org/wiki/Microsoft_Visio)
-* [Обзор Visio — Microsoft] (https://www.microsoft.com/en-ww/microsoft-365/visio/flowchart-software)
+* [Microsoft Visio — Википедия](https://en.wikipedia.org/wiki/Microsoft_Visio)
+* [Обзор Visio — Microsoft](https://www.microsoft.com/en-ww/microsoft-365/visio/flowchart-software)
 

@@ -28,6 +28,6 @@
 
 ## Препратки
 
-* [Бързо стартиране на интерфейса за оборудване] (https://literature.rockwellautomation.com/idc/groups/literature/documents/qs/rapid-qs001_-en-p.pdf)
+* [Бързо стартиране на интерфейса за оборудване](https://literature.rockwellautomation.com/idc/groups/literature/documents/qs/rapid-qs001_-en-p.pdf)
 * [Превключване между езици на HMI](https://literature.rockwellautomation.com/idc/groups/literature/documents/at/iasimp-at001_-en-p.pdf)
 

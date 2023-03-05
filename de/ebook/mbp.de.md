@@ -28,5 +28,5 @@ Der obige Absatz zeigt, dass Mobipocket-Notizen es den Benutzern ermöglichen, b
 ## Verweise
 
 * [MBP-Reader](https://www.angelfire.com/ego2/idleloop/mbp_reader.html)
-* [Mobipocket-Dateiformate] (https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
+* [Mobipocket-Dateiformate](https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
 

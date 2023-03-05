@@ -86,7 +86,7 @@ $b eat               → error "unknown command"
 
 ## संदर्भ ##
 
-* [टीसीएल - विकिपीडिया द्वारा] (https://en.wikipedia.org/wiki/Tcl)
+* [टीसीएल - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Tcl)
 
 
 

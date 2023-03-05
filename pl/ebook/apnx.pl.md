@@ -79,6 +79,6 @@ int.
 
 ## Bibliografia
 
-* [Format pliku Amazon APNX] (https://nachtimwald.com/2011/02/09/amazon-apnx-file-format/)
+* [Format pliku Amazon APNX](https://nachtimwald.com/2011/02/09/amazon-apnx-file-format/)
 * [APNX — autorstwa MobileRead Wiki](https://wiki.mobileread.com/wiki/APNX)
 

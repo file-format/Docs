@@ -19,7 +19,7 @@
 
 ## .ESS вариант №
 
-Файл ESS представляет собой файл электронной таблицы, созданный и поддерживаемый программным обеспечением для работы с электронными таблицами EasySpreadsheet, которое входит в состав [EasyOffice] (https://en.wikipedia.org/wiki/EasyOffice). EasyOffice был запущен как альтернатива Microsoft Office, но больше не доступен для использования и был заменен другим пакетом под названием One. Он выпускается в двух вариантах: EasyOffice Freeware и EasyOffice Premium, а последний имеет PDF-фильтр и EasyAntiVirus. Файл ESS совместим с файлами Microsoft [XLS](/ru/spreadsheet/xls/).
+Файл ESS представляет собой файл электронной таблицы, созданный и поддерживаемый программным обеспечением для работы с электронными таблицами EasySpreadsheet, которое входит в состав [EasyOffice](https://en.wikipedia.org/wiki/EasyOffice). EasyOffice был запущен как альтернатива Microsoft Office, но больше не доступен для использования и был заменен другим пакетом под названием One. Он выпускается в двух вариантах: EasyOffice Freeware и EasyOffice Premium, а последний имеет PDF-фильтр и EasyAntiVirus. Файл ESS совместим с файлами Microsoft [XLS](/ru/spreadsheet/xls/).
 
 ## Формат файла ESS — краткие сведения
 
@@ -35,5 +35,5 @@
 
 ## использованная литература
 
-* [EasyOffice — Википедия] (https://en.wikipedia.org/wiki/EasyOffice)
+* [EasyOffice — Википедия](https://en.wikipedia.org/wiki/EasyOffice)
 

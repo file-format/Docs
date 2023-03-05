@@ -62,7 +62,7 @@ DATE;VALUE#DATE:20170304,20180504,2015704,201270904
 
 ## использованная литература
 
-* [Спецификация основных объектов Интернет-календаря и планирования] (https://www.ietf.org/rfc/rfc5545.txt)
-* [iCalendar (RFC 5545)] (https://icalendar.org/RFC-Specifications/iCalendar-RFC-5545/)
+* [Спецификация основных объектов Интернет-календаря и планирования](https://www.ietf.org/rfc/rfc5545.txt)
+* [iCalendar (RFC 5545)](https://icalendar.org/RFC-Specifications/iCalendar-RFC-5545/)
 * [iCalendar](https://en.wikipedia.org/wiki/ICalendar#History_and_design)
 

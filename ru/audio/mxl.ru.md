@@ -20,7 +20,7 @@ lastmod: 2022-03-20
 
 ## Формат файла MXL
 
-Файлы MXL хранятся в виде [ZIP](/ru/compression/zip/) сжатых файлов [XML](/ru/web/xml/) с расширением .mxl. Файлы MXL сжимаются с помощью алгоритма DEFLATE, как указано в [RFC 1951] (https://www.ietf.org/rfc/rfc1951.txt).
+Файлы MXL хранятся в виде [ZIP](/ru/compression/zip/) сжатых файлов [XML](/ru/web/xml/) с расширением .mxl. Файлы MXL сжимаются с помощью алгоритма DEFLATE, как указано в [RFC 1951](https://www.ietf.org/rfc/rfc1951.txt).
 
 ### Структура файла MXL
 
@@ -41,6 +41,6 @@ lastmod: 2022-03-20
 
 ## использованная литература
 
-* [Сжатые файлы MXL] (https://www.w3.org/2021/06/musicxml40/tutorial/compressed-mxl-files/)
-* [RFC 1951] (https://www.ietf.org/rfc/rfc1951.txt)
+* [Сжатые файлы MXL](https://www.w3.org/2021/06/musicxml40/tutorial/compressed-mxl-files/)
+* [RFC 1951](https://www.ietf.org/rfc/rfc1951.txt)
 

@@ -33,5 +33,5 @@ Mit MapViewer können Sie mit Kartendateien arbeiten, indem Sie Ihre Daten auf g
 
 * [Wo man Grenzdateien zur Verwendung in MapViewer herunterladen kann](https://support.goldensoftware.com/hc/en-us/articles/226664588-Where-to-download-boundary-files-for-use-in-MapViewer )
 * [MapViewer-Hilfe](https://mapviewerhelp.goldensoftware.com/)
-* [MapViewer-Wissensdatenbank] (https://support.goldensoftware.com/hc/en-us/categories/115000653887-MapViewer)
+* [MapViewer-Wissensdatenbank](https://support.goldensoftware.com/hc/en-us/categories/115000653887-MapViewer)
 

@@ -16,7 +16,7 @@ lastmod: 2021-03-28
 
 ## Mi az MPC fájl?
 
-Az .mpc kiterjesztésű fájl egy [Musepack](https://musepack.net/) hangfájlformátum, amely hangtömörítést használ, nagy hangsúlyt fektetve a kiváló minőségre. Ez lehetővé teszi, hogy észre se vegye az eredeti [WAV](/hu/audio/wav/) fájl és a tömörített MPC fájl hangminőségbeli különbségeit. MPEG-1 Layer-2 algoritmusokat használ a rendkívül optimalizált tömörítés eléréséhez. A Musepack MPC fájlformátum nyílt forráskódú, BSD/GNU LGPL licenccel. A Musepack [SVN-tárolója] (http://svn.musepack.net/) lehetővé teszi a kodek legfrissebb frissített kódjának beszerzését. Az MPC-fájlokat megnyitni képes alkalmazások többek között a VLC Media Player, a JetAudio és a Winamp.
+Az .mpc kiterjesztésű fájl egy [Musepack](https://musepack.net/) hangfájlformátum, amely hangtömörítést használ, nagy hangsúlyt fektetve a kiváló minőségre. Ez lehetővé teszi, hogy észre se vegye az eredeti [WAV](/hu/audio/wav/) fájl és a tömörített MPC fájl hangminőségbeli különbségeit. MPEG-1 Layer-2 algoritmusokat használ a rendkívül optimalizált tömörítés eléréséhez. A Musepack MPC fájlformátum nyílt forráskódú, BSD/GNU LGPL licenccel. A Musepack [SVN-tárolója](http://svn.musepack.net/) lehetővé teszi a kodek legfrissebb frissített kódjának beszerzését. Az MPC-fájlokat megnyitni képes alkalmazások többek között a VLC Media Player, a JetAudio és a Winamp.
 
 ## MPC fájlformátum
 

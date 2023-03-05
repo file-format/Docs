@@ -63,5 +63,5 @@
 
 ## مراجع
 
-* [تنسيق ملف SWF] (https://en.wikipedia.org/wiki/Swf)
+* [تنسيق ملف SWF](https://en.wikipedia.org/wiki/Swf)
 

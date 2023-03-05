@@ -23,11 +23,11 @@
 
 ## ما هو ملف AML؟
 
-ملف AML (لغة ترميز المساعدة) هو ملف XML تم إنشاؤه باستخدام لغة ترميز المساعدة من Microsoft (MAML). تم تطويره بواسطة Microsoft لتقديم المساعدة عبر الإنترنت لنظام التشغيل Microsoft Windows OS. قبل ذلك ، كانت تعليمات Windows متاحة بتنسيق ملف HTML [CHM] (/ar/ web / chm /) المترجم. توفر ملفات AML مستندًا منظمًا يتيح للتطبيق إنشاء التعليمات البرمجية المصدر ودعم صفحات المساعدة. هذا يسمح بتعريف الوثائق والعناصر المكونة لها حسب سياقها. يتم نشر ملفات المساعدة الخاصة بمكافحة غسيل الأموال على الإنترنت ويمكن تهيئتها لتحديثها من خلال تحديثات الحزمة المتاحة عبر الإنترنت.
+ملف AML (لغة ترميز المساعدة) هو ملف XML تم إنشاؤه باستخدام لغة ترميز المساعدة من Microsoft (MAML). تم تطويره بواسطة Microsoft لتقديم المساعدة عبر الإنترنت لنظام التشغيل Microsoft Windows OS. قبل ذلك ، كانت تعليمات Windows متاحة بتنسيق ملف HTML [CHM](/ar/ web / chm /) المترجم. توفر ملفات AML مستندًا منظمًا يتيح للتطبيق إنشاء التعليمات البرمجية المصدر ودعم صفحات المساعدة. هذا يسمح بتعريف الوثائق والعناصر المكونة لها حسب سياقها. يتم نشر ملفات المساعدة الخاصة بمكافحة غسيل الأموال على الإنترنت ويمكن تهيئتها لتحديثها من خلال تحديثات الحزمة المتاحة عبر الإنترنت.
 
 ## هيكل ملف MAML
 
-يتم حفظ ملفات AML التي تم إنشاؤها باستخدام MAML كملفات [XML] (/ar/ web / xml /) التي يمكن استخدامها للتعبير عن مجموعة واسعة من المفاهيم النشطة. يمكن أن يوفر أيضًا تعليمات إرشادية (معالج المحتوى النشط) التي تجعل ملف التعليمات تفاعليًا للمستخدم باستخدام معالج خطوة بخطوة.
+يتم حفظ ملفات AML التي تم إنشاؤها باستخدام MAML كملفات [XML](/ar/ web / xml /) التي يمكن استخدامها للتعبير عن مجموعة واسعة من المفاهيم النشطة. يمكن أن يوفر أيضًا تعليمات إرشادية (معالج المحتوى النشط) التي تجعل ملف التعليمات تفاعليًا للمستخدم باستخدام معالج خطوة بخطوة.
 
 يتبع ملف AML الذي تم إنشاؤه باستخدام MAML هيكل التأليف الخاص به والذي يمكن تقسيمه إلى مقاطع مثل:
 
@@ -53,8 +53,8 @@
 ## مراجع
 
 * [إنشاء تعليمات قائمة على XML باستخدام PlatyPS
-] (https://docs.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps؟view=powershell-7.2)
-* [لغة ترميز مساعدة Microsoft] (https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
+](https://docs.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps؟view=powershell-7.2)
+* [لغة ترميز مساعدة Microsoft](https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
 
 # AML - ملف لغة Arc Macro
 
@@ -68,6 +68,6 @@ AML ، كونها ملفات نصية ، احفظ المعلومات على ال
 
 ## مراجع
 
-* [لغة ماكرو ARC] (https://en.wikipedia.org/wiki/ARC_Macro_Language)
-* [استخدام AML مع أدوات البرنامج النصي] (https://desktop.arcgis.com/en/arcmap/latest/analyze/creating-tools/using-amls-with-script-tools.htm)
+* [لغة ماكرو ARC](https://en.wikipedia.org/wiki/ARC_Macro_Language)
+* [استخدام AML مع أدوات البرنامج النصي](https://desktop.arcgis.com/en/arcmap/latest/analyze/creating-tools/using-amls-with-script-tools.htm)
 

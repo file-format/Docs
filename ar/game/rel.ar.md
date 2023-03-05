@@ -82,6 +82,6 @@
 ## مراجع
 
 
-* [تنسيق وحدة الكائن القابل للنقل] (https://en.wikipedia.org/wiki/Relocatable_Object_Module_Format)
+* [تنسيق وحدة الكائن القابل للنقل](https://en.wikipedia.org/wiki/Relocatable_Object_Module_Format)
 
 

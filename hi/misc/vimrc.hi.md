@@ -27,6 +27,6 @@ VIMRC फाइलें सादे पाठ फ़ाइलों के र
 
 ## संदर्भ
 
-* [वीआईएमआरसी गाइड] (https://gist.github.com/simonista/8703722)
-* [वीआईएमआरसी] (https://github.com/amix/vimrc)
+* [वीआईएमआरसी गाइड](https://gist.github.com/simonista/8703722)
+* [वीआईएमआरसी](https://github.com/amix/vimrc)
 

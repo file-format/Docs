@@ -19,7 +19,7 @@
 
 ## Tệp ZIP là gì? ##
 
-Tệp có phần mở rộng .zip là tệp lưu trữ có thể chứa một hoặc nhiều tệp hoặc thư mục. Kho lưu trữ có thể áp dụng nén cho các tệp được bao gồm để giảm kích thước tệp ZIP. Định dạng tệp ZIP đã được Phil Katz công khai vào tháng 2 năm 1989 để đạt được khả năng lưu trữ tệp và thư mục. Định dạng này được tạo thành một phần của tiện ích [PKZIP](https://www.pkware.com/pkzip), được tạo bởi PKWARE, Inc. Ngay sau khi có sẵn [thông số kỹ thuật có sẵn](https://pkware.cachefly.net/ webdocs/casestudies/APPNOTE.TXT), nhiều công ty đã biến định dạng tệp ZIP thành một phần trong các tiện ích phần mềm của họ, bao gồm Microsoft (kể từ Windows 7), Apple (Mac OS X ) và nhiều công ty khác.
+Tệp có phần mở rộng .zip là tệp lưu trữ có thể chứa một hoặc nhiều tệp hoặc thư mục. Kho lưu trữ có thể áp dụng nén cho các tệp được bao gồm để giảm kích thước tệp ZIP. Định dạng tệp ZIP đã được Phil Katz công khai vào tháng 2 năm 1989 để đạt được khả năng lưu trữ tệp và thư mục. Định dạng này được tạo thành một phần của tiện ích [PKZIP](https://www.pkware.com/pkzip), được tạo bởi PKWARE, Inc. Ngay sau khi có sẵn [thông số kỹ thuật có sẵn](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT), nhiều công ty đã biến định dạng tệp ZIP thành một phần trong các tiện ích phần mềm của họ, bao gồm Microsoft (kể từ Windows 7), Apple (Mac OS X ) và nhiều công ty khác.
 
 ## Lịch sử tóm tắt về định dạng tệp ZIP
 
@@ -152,4 +152,3 @@ Tiêu đề tệp cục bộ có cấu trúc trường cụ thể bao gồm các
 
 * [Thông số kỹ thuật định dạng tệp ZIP của PKWARE](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
 * [Cấu trúc của tệp PKZip](https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip-printable.html)
-

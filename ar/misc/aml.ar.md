@@ -24,7 +24,7 @@
 
 ## تنسيق ملف AML
 
-تستخدم AML [XML] (/ar/ web / xml /) نمذجة البيانات القائمة على الكائنات بغرض تخزين النماذج الهندسية وتبادلها. يتم تمثيل مكونات المصنع الهندسي ككائنات لها جوانب مختلفة ، مع كل كائن لديه القدرة على العمل ككائنات فرعية. وبالتالي ، يمكن وصف كل نموذج أصغر أو أكبر. توفر [مواصفات AutomationML] (https://www.automationml.org/about-automationml/specifications/) دليلًا موجزًا لبدء استخدام تفاصيل لغة النمذجة هذه.
+تستخدم AML [XML](/ar/ web / xml /) نمذجة البيانات القائمة على الكائنات بغرض تخزين النماذج الهندسية وتبادلها. يتم تمثيل مكونات المصنع الهندسي ككائنات لها جوانب مختلفة ، مع كل كائن لديه القدرة على العمل ككائنات فرعية. وبالتالي ، يمكن وصف كل نموذج أصغر أو أكبر. توفر [مواصفات AutomationML](https://www.automationml.org/about-automationml/specifications/) دليلًا موجزًا لبدء استخدام تفاصيل لغة النمذجة هذه.
 
 ## البدء مع AML
 
@@ -38,7 +38,7 @@
 
 ## مراجع
 
-* [ما هو AutomationML] (https://www.automationml.org/about-automationml/automationml/)
-* [AutomationML - Wikipedia] (https://en.wikipedia.org/wiki/AutomationML)
-* [مواصفات AutomationML] (https://www.automationml.org/about-automationml/specifications/)
+* [ما هو AutomationML](https://www.automationml.org/about-automationml/automationml/)
+* [AutomationML - Wikipedia](https://en.wikipedia.org/wiki/AutomationML)
+* [مواصفات AutomationML](https://www.automationml.org/about-automationml/specifications/)
 

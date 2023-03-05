@@ -62,7 +62,7 @@ Chociaż domyślnym schematem znaków dla iCalendar jest UTF-8, to jednak żaden
 
 ## Bibliografia
 
-* [Specyfikacja podstawowego obiektu kalendarza internetowego i planowania] (https://www.ietf.org/rfc/rfc5545.txt)
+* [Specyfikacja podstawowego obiektu kalendarza internetowego i planowania](https://www.ietf.org/rfc/rfc5545.txt)
 * [iCalendar (RFC 5545)](https://icalendar.org/RFC-Specifications/iCalendar-RFC-5545/)
 * [iCalendar](https://en.wikipedia.org/wiki/ICalendar#History_and_design)
 

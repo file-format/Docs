@@ -29,7 +29,7 @@ ODP-Dateiformatspezifikationen basieren auf dem als ODF-Spezifikationen entwicke
 `2007` - Version 1.1 wurde im Februar 2007 veröffentlicht
 `2011` - Version 1.2 wurde im September 2011 veröffentlicht
 
-Beim Übergang von ODF 1.0 zu 1.1 gab es ziemlich kleine Änderungen. Die [ODF 1.2-Version] (https://www.oasis-open.org/standards#opendocumentv1.2) ist die neueste Version für ODF-Spezifikationen und sollte von Entwicklern für die Entwicklung von Anwendungen im Zusammenhang mit ODS-Lesen/Schreiben konsultiert werden.
+Beim Übergang von ODF 1.0 zu 1.1 gab es ziemlich kleine Änderungen. Die [ODF 1.2-Version](https://www.oasis-open.org/standards#opendocumentv1.2) ist die neueste Version für ODF-Spezifikationen und sollte von Entwicklern für die Entwicklung von Anwendungen im Zusammenhang mit ODS-Lesen/Schreiben konsultiert werden.
 
 ## Dateiformatspezifikationen
 

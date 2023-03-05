@@ -27,5 +27,5 @@ PSM هو تنسيق ملف قريب وتفاصيله غير متوفرة حتى 
 
 ## مراجع ##
 
-* [Solid Edge Bird House Example] (https://solidedge.siemens.com/en/resource/tutorial/bird-house/)
+* [Solid Edge Bird House Example](https://solidedge.siemens.com/en/resource/tutorial/bird-house/)
 

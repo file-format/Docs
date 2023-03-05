@@ -22,7 +22,7 @@ Az OBML15 fájl egy weboldal, amelyet mobileszközökre mentenek az Opera Mini m
 
 ## OBML15 fájlformátum
 
-Az OBML15 fájlokat a rendszer bináris fájlként menti a lemezre az Opera szabadalmaztatott fájlformátumában, amely nem elérhető nyilvánosan. Az Opera felhasználók kompakt OBML-fájlokként töltik le és mentik el a weboldalakat, amelyek letöltése kevesebb időt vesz igénybe. Az [OBML-fájlformátum] (https://github.com/grawity/obml-parser/blob/master/obml.md) visszafejtésre került, és szerkezetének egy részét bizonyos mértékig dekódolták.
+Az OBML15 fájlokat a rendszer bináris fájlként menti a lemezre az Opera szabadalmaztatott fájlformátumában, amely nem elérhető nyilvánosan. Az Opera felhasználók kompakt OBML-fájlokként töltik le és mentik el a weboldalakat, amelyek letöltése kevesebb időt vesz igénybe. Az [OBML-fájlformátum](https://github.com/grawity/obml-parser/blob/master/obml.md) visszafejtésre került, és szerkezetének egy részét bizonyos mértékig dekódolták.
 
 ## Hivatkozások
 

@@ -24,7 +24,7 @@ A Sass nagyon hasznos a stílusok karbantartásában, mivel számos olyan funkci
 
 ## A SASS fájlok használata ##
 
-A SASS-fájlok nem szerepelnek közvetlenül a [HTML](/hu/web/html/) dokumentumban, hanem CSS-fájlokká konvertálják őket, amelyeket a HTML-fájlok tartalmaznak. A Sass-t a [hivatalos Sass webhelyen] (https://sass-lang.com/install) megadott utasítások követésével telepítheti rendszerére.
+A SASS-fájlok nem szerepelnek közvetlenül a [HTML](/hu/web/html/) dokumentumban, hanem CSS-fájlokká konvertálják őket, amelyeket a HTML-fájlok tartalmaznak. A Sass-t a [hivatalos Sass webhelyen](https://sass-lang.com/install) megadott utasítások követésével telepítheti rendszerére.
 
 A Sass konvertálható CSS-vé egy már mentett SASS-fájl konvertálásával, vagy a változások figyelésével és a fájl mentése közbeni konvertálásával. A parancsok mindkettőhöz alább találhatók.
 

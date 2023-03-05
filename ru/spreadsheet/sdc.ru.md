@@ -19,7 +19,7 @@
 
 ## .SDC вариант № ##
 
-Файл SDC представляет собой файл электронной таблицы, созданный с помощью программы электронных таблиц [Apache OpenOffice Calc] (https://en.wikipedia.org/wiki/LibreOffice_Calc), которая также является частью StarOffice. Как и в других приложениях для работы с электронными таблицами, данные хранятся в файле SDC в виде сетки ячеек в строках и столбцах. Файлы SDC имеют тип MIME application/vnd.stardivision.calc и планировалось использовать для электронных таблиц StarCalc 5.x. Calc — бесплатная программа для работы с электронными таблицами, которую используют как новички, так и профессионалы. Он может экспортировать данные из файла SDC в форматы файлов Microsoft Excel XLS и PDF. Помимо Calc, [LibreOffice](https://www.libreoffice.org/) и [Planamesa NeoOffice](https://www.neooffice.org/neojava/en/index.php).
+Файл SDC представляет собой файл электронной таблицы, созданный с помощью программы электронных таблиц [Apache OpenOffice Calc](https://en.wikipedia.org/wiki/LibreOffice_Calc), которая также является частью StarOffice. Как и в других приложениях для работы с электронными таблицами, данные хранятся в файле SDC в виде сетки ячеек в строках и столбцах. Файлы SDC имеют тип MIME application/vnd.stardivision.calc и планировалось использовать для электронных таблиц StarCalc 5.x. Calc — бесплатная программа для работы с электронными таблицами, которую используют как новички, так и профессионалы. Он может экспортировать данные из файла SDC в форматы файлов Microsoft Excel XLS и PDF. Помимо Calc, [LibreOffice](https://www.libreoffice.org/) и [Planamesa NeoOffice](https://www.neooffice.org/neojava/en/index.php).
 
 ## Формат файла SDC
 
@@ -27,8 +27,8 @@
 
 ## Использованная литература ##
 
-* [ВВЕДЕНИЕ В ЭЛЕКТРОННУЮ ТАБЛИЦУ CALC] (https://www.pitt.edu/~poole/libreofficeTutorials/libreofficeLesson4.pdf)
-* [StarOffice — Википедия] (https://en.wikipedia.org/wiki/StarOffice)
-* [Типы MIME — Apache] (https://www.openoffice.org/framework/documentation/mimetypes/mimetypes.html)
-* [Calc — Libreoffice] (https://www.libreoffice.org/discover/calc/)
+* [ВВЕДЕНИЕ В ЭЛЕКТРОННУЮ ТАБЛИЦУ CALC](https://www.pitt.edu/~poole/libreofficeTutorials/libreofficeLesson4.pdf)
+* [StarOffice — Википедия](https://en.wikipedia.org/wiki/StarOffice)
+* [Типы MIME — Apache](https://www.openoffice.org/framework/documentation/mimetypes/mimetypes.html)
+* [Calc — Libreoffice](https://www.libreoffice.org/discover/calc/)
 

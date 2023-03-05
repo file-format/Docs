@@ -28,6 +28,6 @@ Le gestionnaire d'applications RSView enregistre les fichiers .apa par défaut d
 
 ## Références
 
-* [Démarrage rapide de l'interface d'équipement rapide] (https://literature.rockwellautomation.com/idc/groups/literature/documents/qs/rapid-qs001_-en-p.pdf)
+* [Démarrage rapide de l'interface d'équipement rapide](https://literature.rockwellautomation.com/idc/groups/literature/documents/qs/rapid-qs001_-en-p.pdf)
 * [Basculer entre les langues sur l'IHM](https://literature.rockwellautomation.com/idc/groups/literature/documents/at/iasimp-at001_-en-p.pdf)
 

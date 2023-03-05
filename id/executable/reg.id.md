@@ -64,6 +64,4 @@ Windows Registry Editor Version 5.00
 ## Referensi
 
 * [Windows Registry- oleh Wikipedia](https://en.wikipedia.org/wiki/Windows_Registry)
-* [Cara menambahkan, mengubah, atau menghapus subkunci dan nilai registri menggunakan file .reg](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete- registry-subkunci-dan-nilai-dengan-menggunakan-file-reg-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23)
-
-
+* [Cara menambahkan, mengubah, atau menghapus subkunci dan nilai registri menggunakan file .reg](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete-registry-subkeys-and-values-by-using-a-reg-file-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23)

@@ -30,7 +30,7 @@ Az EMZ fájlok [Gzip](/hu/compression/gz/) tömörítettek, és [EMF](/hu/image/
 * Tömörített adatok
 * Fájllábléc
 
-Az Internet Engineering Task Force (IETF) által közzétett GZIP fájlformátum [specifikációs verzió 4.3] (http://tools.ietf.org/html/rfc1952) részletes információkat tartalmaz a fájlformátumról.
+Az Internet Engineering Task Force (IETF) által közzétett GZIP fájlformátum [specifikációs verzió 4.3](http://tools.ietf.org/html/rfc1952) részletes információkat tartalmaz a fájlformátumról.
 
 ## Hivatkozások
 

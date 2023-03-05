@@ -65,6 +65,6 @@ INSERT INTO STATS VALUES (88, 7, 65.8, 4.52);
 
 ## مراجع ##
 
-* [SQL من Wikipedia] (https://en.wikipedia.org/wiki/SQL)
-* [بناء جملة SQL] (https://en.wikipedia.org/wiki/SQL_syntax)
+* [SQL من Wikipedia](https://en.wikipedia.org/wiki/SQL)
+* [بناء جملة SQL](https://en.wikipedia.org/wiki/SQL_syntax)
 

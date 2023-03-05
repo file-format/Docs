@@ -30,7 +30,7 @@ Los archivos WMZ están comprimidos [Gzip](/es/compression/gz/) y contienen [WMF
 * Datos comprimidos
 * Pie de página del archivo
 
-El formato de archivo GZIP [especificaciones versión 4.3] (http://tools.ietf.org/html/rfc1952) publicado por Internet Engineering Task Force (IETF) contiene información detallada sobre el formato de archivo.
+El formato de archivo GZIP [especificaciones versión 4.3](http://tools.ietf.org/html/rfc1952) publicado por Internet Engineering Task Force (IETF) contiene información detallada sobre el formato de archivo.
 
 ## Referencias
 

@@ -54,6 +54,6 @@
 `ओपन सोर्स` - स्विफ्ट ओपन सोर्स है जिसमें स्विफ्ट कम्युनिटी के सदस्यों के सैकड़ों योगदान हैं। यह मजबूत बग ट्रैकर, फ़ोरम और नियमित विकास बिल्ड द्वारा समर्थित है जो सभी के लिए सार्वजनिक रूप से उपलब्ध हैं।
 
 ## संदर्भ
-* [स्विफ्ट - गिटहब] (https://github.com/apple/swift)
-* [स्विफ्ट - विकिपीडिया] (https://en.wikipedia.org/wiki/Swift_(programming_language))
+* [स्विफ्ट - गिटहब](https://github.com/apple/swift)
+* [स्विफ्ट - विकिपीडिया](https://en.wikipedia.org/wiki/Swift_(programming_language))
 

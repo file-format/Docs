@@ -51,5 +51,5 @@ Les étapes suivantes peuvent être utilisées pour ouvrir un fichier MDMP dans 
 
 ## Référence
 
-* [Comment lire le petit fichier de vidage de la mémoire créé par Windows en cas de plantage] (https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -dossier)
+* [Comment lire le petit fichier de vidage de la mémoire créé par Windows en cas de plantage](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -dossier)
 

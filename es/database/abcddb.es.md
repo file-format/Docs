@@ -61,7 +61,7 @@ Dado que el archivo es un archivo de datos SQLite 3, puede exportar los datos de
 El conector SQLite ODBC es una biblioteca de software y un controlador que permite que las aplicaciones que admiten la interfaz ODBC se conecten a una base de datos SQLite. Incluye una biblioteca que define la interfaz ODBC y un controlador que traduce esta interfaz en llamadas a la API de SQLite. Para utilizar el conector ODBC de SQLite, primero debe instalarlo y luego configurar una fuente de datos ODBC en su computadora. Después de completar estos pasos, cualquier aplicación que esté equipada con soporte ODBC podrá conectarse a la fuente de datos y recuperar datos de la base de datos SQLite.
 
 ## Referencias
-* [Corregir la base de datos de contactos dañada] (https://discussions.apple.com/docs/DOC-10581)
+* [Corregir la base de datos de contactos dañada](https://discussions.apple.com/docs/DOC-10581)
 * [Base de datos de contactos para Mac](https://nitroreward.weebly.com/blog/contact-database-for-mac)
 * [¿Cómo puedo abrir o exportar un archivo abcddb en Windows 7 Excel?](https://apple.stackexchange.com/questions/52888/how-can-i-open-or-export-a-abcddb-file- en-windows-7-excel)
 

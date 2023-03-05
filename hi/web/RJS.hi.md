@@ -50,5 +50,5 @@ foo = -> { "bar" }
 ```
 ## संदर्भ
 
-* [आरजेएस] (https://github.com/makevoid/rjs)
+* [आरजेएस](https://github.com/makevoid/rjs)
 

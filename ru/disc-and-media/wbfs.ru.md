@@ -27,5 +27,5 @@ WBFS — это двоичные файлы, имеющие собственны
 
 ## использованная литература
 
-* [Инструменты WIIMMS ISO] (https://github.com/Wiimm/wiimms-iso-tools)
+* [Инструменты WIIMMS ISO](https://github.com/Wiimm/wiimms-iso-tools)
 

@@ -49,5 +49,5 @@ Es ist auch möglich, .fdb-Dateien mit der Verwaltungssoftware des Firebird-Date
 
 ## Verweise
 * [Microsoft Dynamics NAV](https://dynamics.microsoft.com/en-us/nav-erp/)
-* [So fügen Sie neue Datenbankdateien in Dynamics NAV hinzu] (https://learn.microsoft.com/en-us/dynamics-nav/how-to--add-new-database-files)
+* [So fügen Sie neue Datenbankdateien in Dynamics NAV hinzu](https://learn.microsoft.com/en-us/dynamics-nav/how-to--add-new-database-files)
 

@@ -48,5 +48,5 @@
 
 ## Использованная литература ##
 
-* [Формат файла NKIT — от gbatemp] (https://wiki.gbatemp.net/wiki/NKit/NKitFormat)
+* [Формат файла NKIT — от gbatemp](https://wiki.gbatemp.net/wiki/NKit/NKitFormat)
 

@@ -27,6 +27,6 @@
 
 ## Использованная литература ##
 
-* [[MS-XLS] — структура формата двоичных файлов Excel] (https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx)
-* [[MS-CFB] — формат составного двоичного файла] (https://msdn.microsoft.com/en-us/library/dd942138.aspx)
+* [[MS-XLS] — структура формата двоичных файлов Excel](https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx)
+* [[MS-CFB] — формат составного двоичного файла](https://msdn.microsoft.com/en-us/library/dd942138.aspx)
 

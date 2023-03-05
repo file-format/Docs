@@ -19,7 +19,7 @@
 
 ## ما هو ملف NKIT؟
 
-ملف NKIT هو صورة قرص للبيانات المستخرجة من ألعاب NintendoWii و GameCube. NKIT مخصص لتنسيق مجموعة أدوات Nintendo. يستخدم ملف الضغط الناتج [ISO] (/ar/ compression / iso /) البيانات الرئيسية لهذه الألعاب ليتم تشغيلها مع برامج المحاكاة مثل Dolphin و Swiss و Nintendont. يأتي NKit بتنسيقات ملفات خام (iso) adn مضغوطة (gcz) والتي تم تصميمها مع مراعاة إمكانية تشغيل العرض وحجمه.
+ملف NKIT هو صورة قرص للبيانات المستخرجة من ألعاب NintendoWii و GameCube. NKIT مخصص لتنسيق مجموعة أدوات Nintendo. يستخدم ملف الضغط الناتج [ISO](/ar/ compression / iso /) البيانات الرئيسية لهذه الألعاب ليتم تشغيلها مع برامج المحاكاة مثل Dolphin و Swiss و Nintendont. يأتي NKit بتنسيقات ملفات خام (iso) adn مضغوطة (gcz) والتي تم تصميمها مع مراعاة إمكانية تشغيل العرض وحجمه.
 
 ## تنسيق ملف NKIT
 
@@ -48,5 +48,5 @@
 
 ## مراجع ##
 
-* [تنسيق ملف NKIT - بواسطة gbatemp] (https://wiki.gbatemp.net/wiki/NKit/NKitFormat)
+* [تنسيق ملف NKIT - بواسطة gbatemp](https://wiki.gbatemp.net/wiki/NKit/NKitFormat)
 

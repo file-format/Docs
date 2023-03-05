@@ -20,7 +20,7 @@ lastmod: 2020-09-12
 
 ## تنسيق ملف WEBM
 
-تستند بنية ملف WebM إلى مجموعة فرعية من تنسيق ملف حاوية Matroska [MKV] (/ar/ video / mkv /). يتم ضغط تدفقات الفيديو المتوفرة في ملف WebM باستخدام تقنيات ضغط VP8 أو VP9 التي تتسم بكفاءة عالية في الضغط. وبالمثل ، يتم ضغط تدفقات الصوت في ملف WebM باستخدام برامج الترميز Vorbis أو Opus التي تم تطويرها بواسطة [Xiph Foundation] (https://www.xiph.org/). جميع مقاطع الفيديو وبرامج ترميز الصوت هذه خالية من حقوق الملكية ويمكن استخدامها دون أي رسوم.
+تستند بنية ملف WebM إلى مجموعة فرعية من تنسيق ملف حاوية Matroska [MKV](/ar/ video / mkv /). يتم ضغط تدفقات الفيديو المتوفرة في ملف WebM باستخدام تقنيات ضغط VP8 أو VP9 التي تتسم بكفاءة عالية في الضغط. وبالمثل ، يتم ضغط تدفقات الصوت في ملف WebM باستخدام برامج الترميز Vorbis أو Opus التي تم تطويرها بواسطة [Xiph Foundation](https://www.xiph.org/). جميع مقاطع الفيديو وبرامج ترميز الصوت هذه خالية من حقوق الملكية ويمكن استخدامها دون أي رسوم.
 
 فيما يلي المواصفات الملخصة لتنسيق ملف WebM.
 
@@ -69,6 +69,6 @@ lastmod: 2020-09-12
 
 ## مراجع
 
-* [WebM] (https://www.webmproject.org/)
-* [WebM Code Repositories] (https://www.webmproject.org/code/#webp-repositories)
+* [WebM](https://www.webmproject.org/)
+* [WebM Code Repositories](https://www.webmproject.org/code/#webp-repositories)
 

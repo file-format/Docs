@@ -53,5 +53,5 @@
 
 ## использованная литература
 
-* [[MS-OXMSG]: формат файла Outlook MSG] (https://msdn.microsoft.com/en-us/library/cc463912(v#exchg.80).aspx)
+* [[MS-OXMSG]: формат файла Outlook MSG](https://msdn.microsoft.com/en-us/library/cc463912(v#exchg.80).aspx)
 

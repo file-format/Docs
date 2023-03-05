@@ -22,7 +22,7 @@ A **táblázat** fájl sorok és oszlopok formájában tartalmaz adatokat. Egy t
 
 A gyakori táblázatfájl-kiterjesztések és fájlformátumaik a következők: **[XLSX](/hu/spreadsheet/xlsx/)** (Microsoft Excel Open XML Spreadsheet), **[ODS](/hu/spreadsheet/ods/)** (OpenDocument Spreadsheet) és **[XLS](/hu/spreadsheet/xls/)** (Microsoft Excel bináris fájlformátum).
 
-Kérdései vannak a táblázatfájl-formátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra] (https://forum.fileformat.com/c/spreadsheet), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
+Kérdései vannak a táblázatfájl-formátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/spreadsheet), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
 
 ## A táblázatfájl-kiterjesztések és a kapcsolódó fájlformátumok listája
 

@@ -32,5 +32,5 @@ Une fois ouvert, PhotoPad Editor vous permet de manipuler l'image de plusieurs f
 
 ## Références ##
 
-* [Logiciel de retouche photo PhotoPad] (https://www.nchsoftware.com/photoeditor/index.html)
+* [Logiciel de retouche photo PhotoPad](https://www.nchsoftware.com/photoeditor/index.html)
 

@@ -26,5 +26,5 @@
 
 ## использованная литература
 
-* [Открыватель WEBLOC] (https://github.com/benchdoos/WeblocOpener)
+* [Открыватель WEBLOC](https://github.com/benchdoos/WeblocOpener)
 

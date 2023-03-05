@@ -77,5 +77,5 @@ Oracle [वर्ग फ़ाइल स्वरूप](https://docs.oracle.com
 
 ## संदर्भ
 
-* [वर्ग फ़ाइल प्रारूप] (https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-4.html)
+* [वर्ग फ़ाइल प्रारूप](https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-4.html)
 

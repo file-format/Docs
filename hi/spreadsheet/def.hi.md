@@ -23,5 +23,5 @@
 
 ## संदर्भ
 
-* [स्मार्टवेयर] (https://en.wikipedia.org/wiki/SmartWare)
+* [स्मार्टवेयर](https://en.wikipedia.org/wiki/SmartWare)
 
