@@ -24,7 +24,3 @@ A PF file is a compressed and encrypted file that is created with Stuffit Deluxe
 ## PF File Format
 
 PF files are saved to disc as binary files and are saved in the Stuffit Deluxe proprietary file format.
-
-## References
-
- * [Stuffit Deluxe](https://stuffit-deluxe.en.softonic.com/mac)

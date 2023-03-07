@@ -24,8 +24,3 @@ PF 파일은 Stuffit Deluxe 소프트웨어로 생성된 압축 및 암호화된
 ## PF 파일 형식
 
 PF 파일은 디스크에 바이너리 파일로 저장되며 Stuffit Deluxe 독점 파일 형식으로 저장됩니다.
-
-## 참고문헌
-
-* [스터핏 디럭스](https://stuffit-deluxe.en.softonic.com/mac)
-

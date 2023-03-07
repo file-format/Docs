@@ -24,8 +24,3 @@ Een PF-bestand is een gecomprimeerd en versleuteld bestand dat is gemaakt met St
 ## PF-bestandsindeling
 
 PF-bestanden worden op schijf opgeslagen als binaire bestanden en worden opgeslagen in het eigen bestandsformaat Stuffit Deluxe.
-
-## Referenties
-
-* [Stuffit Deluxe](https://stuffit-deluxe.en.softonic.com/mac)
-

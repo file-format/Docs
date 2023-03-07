@@ -19,7 +19,7 @@
 
 ## Was ist eine ASK-Datei?
 
-Eine Datei mit der Erweiterung .ask ist eine Datenbankdatei, die von [askSam Systems](https://asksam.en.softonic.com/), einer PIM-Anwendung (Personal Information Manager), erstellt wurde. Diese Dateitypen werden in dynamischen Ordnern gespeichert und enthalten Benutzerdaten wie E-Mail-Nachrichten, Dokumente, Textdateien, Tabellenkalkulationen, Adressen und Webseiten. Dies ermöglicht der askSam-Software, sie einfach zu durchsuchen und die Daten für Forschungszwecke abzurufen. Die askSam-Software, obwohl eine einfache formularbasierte Desktop-Anwendung, die Daten in einer Datenbank speichert, war beliebt, um solche Daten zu organisieren und abzurufen. Daten aus der ASK-Datei können auch in [Spreadsheets](/de/spreadsheet/) exportiert werden.
+Eine Datei mit der Erweiterung .ask ist eine Datenbankdatei, die von askSam Systems, einer PIM-Anwendung (Personal Information Manager), erstellt wurde. Diese Dateitypen werden in dynamischen Ordnern gespeichert und enthalten Benutzerdaten wie E-Mail-Nachrichten, Dokumente, Textdateien, Tabellenkalkulationen, Adressen und Webseiten. Dies ermöglicht der askSam-Software, sie einfach zu durchsuchen und die Daten für Forschungszwecke abzurufen. Die askSam-Software, obwohl eine einfache formularbasierte Desktop-Anwendung, die Daten in einer Datenbank speichert, war beliebt, um solche Daten zu organisieren und abzurufen. Daten aus der ASK-Datei können auch in [Spreadsheets](/de/spreadsheet/) exportiert werden.
 
 ## ASK-Dateiformat – Weitere Informationen
 
@@ -28,5 +28,3 @@ ASK-Dateien werden in einem proprietären Binärdateiformat auf Disc gespeichert
 ## Verweise
 
 * [AskSam - Wikipedia](https://en.wikipedia.org/wiki/AskSam)
-* [askSam-Download](https://asksam.en.softonic.com/)
-

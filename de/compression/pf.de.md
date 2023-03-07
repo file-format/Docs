@@ -24,8 +24,3 @@ Eine PF-Datei ist eine komprimierte und verschlüsselte Datei, die mit der Stuff
 ## PF-Dateiformat
 
 PF-Dateien werden als Binärdateien auf der Disc gespeichert und im proprietären Dateiformat Stuffit Deluxe gespeichert.
-
-## Verweise
-
-* [Stuffit Deluxe](https://stuffit-deluxe.en.softonic.com/mac)
-

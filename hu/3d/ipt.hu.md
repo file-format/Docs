@@ -37,5 +37,4 @@ Kicsit nehéz megtalálni és letölteni egy 3D modell IPT fájlját. Ezért inn
 
 ## Hivatkozások
 
-* [IPT-fájlok – Autodesk](https://knowledge.autodesk.com/support/inventor/learn-explore/caas/CloudHelp/cloudhelp/2018/ENU/Inventor-Help/files/GUID-94B779C0-6B2B-499A- A4F9-2E4BAB49712F-htm.html)
-
+* [IPT-fájlok – Autodesk](https://knowledge.autodesk.com/support/inventor/learn-explore/caas/CloudHelp/cloudhelp/2018/ENU/Inventor-Help/files/GUID-94B779C0-6B2B-499A-A4F9-2E4BAB49712F-htm.html)

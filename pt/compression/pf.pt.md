@@ -24,8 +24,3 @@ Um arquivo PF é um arquivo compactado e criptografado criado com o software Stu
 ## Formato de arquivo PF
 
 Os arquivos PF são salvos em disco como arquivos binários e são salvos no formato de arquivo proprietário Stuffit Deluxe.
-
-## Referências
-
-* [Stuffit Deluxe](https://stuffit-deluxe.en.softonic.com/mac)
-

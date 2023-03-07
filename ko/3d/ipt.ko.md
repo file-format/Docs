@@ -37,5 +37,4 @@ Autodesk 어셈블리(.iam) 파일과 함께 사용됩니다. IPT 파일은 ACIS
 
 ## 참고문헌
 
-* [IPT 파일 - Autodesk](https://knowledge.autodesk.com/support/inventor/learn-explore/caas/CloudHelp/cloudhelp/2018/ENU/Inventor-Help/files/GUID-94B779C0-6B2B-499A- A4F9-2E4BAB49712F-htm.html)
-
+* [IPT 파일 - Autodesk](https://knowledge.autodesk.com/support/inventor/learn-explore/caas/CloudHelp/cloudhelp/2018/ENU/Inventor-Help/files/GUID-94B779C0-6B2B-499A-A4F9-2E4BAB49712F-htm.html)

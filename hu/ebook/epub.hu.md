@@ -19,7 +19,7 @@
 
 ## Mi az EPUB fájl?
 
-Az .epub kiterjesztésű fájlok egy e-könyv fájlformátum, amely szabványos digitális kiadványformátumot biztosít a kiadók és a fogyasztók számára. A formátum mára annyira elterjedt, hogy számos e-olvasó és szoftveralkalmazás támogatja. Például Mac OS rendszeren az előre telepített **Books** szoftver támogatja az ilyen fájlok megnyitását. Ezen kívül számos kompatibilis szoftver áll rendelkezésre okostelefonokhoz, táblagépekhez és számítógépekhez. Az EPUB fájlszabványokat az [International Digital Publishing Forum ](https://idpf.org/epub/30/spec/epub30-publications.html)(IDPF) karbantartja. Az EPUB 3 verziót a Book Industry Study Group (BISG) is támogatja, amely a szabványosított legjobb gyakorlatok, kutatások, információk és események, valamint a tartalomcsomagolás vezető könyvkereskedelmi szövetsége.
+Az .epub kiterjesztésű fájlok egy e-könyv fájlformátum, amely szabványos digitális kiadványformátumot biztosít a kiadók és a fogyasztók számára. A formátum mára annyira elterjedt, hogy számos e-olvasó és szoftveralkalmazás támogatja. Például Mac OS rendszeren az előre telepített **Books** szoftver támogatja az ilyen fájlok megnyitását. Ezen kívül számos kompatibilis szoftver áll rendelkezésre okostelefonokhoz, táblagépekhez és számítógépekhez. Az EPUB fájlszabványokat az [International Digital Publishing Forum](https://idpf.org/epub/30/spec/epub30-publications.html)(IDPF) karbantartja. Az EPUB 3 verziót a Book Industry Study Group (BISG) is támogatja, amely a szabványosított legjobb gyakorlatok, kutatások, információk és események, valamint a tartalomcsomagolás vezető könyvkereskedelmi szövetsége.
 
 ## Az EPUB fájlformátum rövid története
 
@@ -63,4 +63,3 @@ Az EPUB fájlformátum a következő képfájlformátumokat támogatja.
 ## Referenciák ##
 
 * [EPUB – a Wikipedia által](https://en.wikipedia.org/wiki/EPUB)
-

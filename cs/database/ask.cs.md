@@ -19,7 +19,7 @@
 
 ## Co je soubor ASK?
 
-Soubor s příponou .ask je databázový soubor vytvořený aplikací [askSam Systems](https://asksam.en.softonic.com/), aplikací správce osobních informací (PIM). Tyto typy souborů jsou uloženy v dynamických složkách a obsahují uživatelská data, jako jsou e-mailové zprávy, dokumenty, textové soubory, tabulky, adresy a webové stránky. To umožňuje softwaru askSam je snadno vyhledávat a získávat data pro účely výzkumu. Software askSam, ačkoli jednoduchá desktopová aplikace založená na formuláři ukládající data do databáze, byl oblíbený pro organizování a získávání takových dat. Data ze souboru ASK lze také exportovat do [tabulky](/cs/tabulkový procesor/).
+Soubor s příponou .ask je databázový soubor vytvořený aplikací [askSam Systems], aplikací správce osobních informací (PIM). Tyto typy souborů jsou uloženy v dynamických složkách a obsahují uživatelská data, jako jsou e-mailové zprávy, dokumenty, textové soubory, tabulky, adresy a webové stránky. To umožňuje softwaru askSam je snadno vyhledávat a získávat data pro účely výzkumu. Software askSam, ačkoli jednoduchá desktopová aplikace založená na formuláři ukládající data do databáze, byl oblíbený pro organizování a získávání takových dat. Data ze souboru ASK lze také exportovat do [tabulky](/cs/tabulkový procesor/).
 
 ## Formát souboru ASK - Další informace
 
@@ -28,5 +28,3 @@ Soubory ASK se ukládají na disk v proprietárním binárním formátu souboru,
 ## Reference
 
 * [AskSam – Wikipedia](https://en.wikipedia.org/wiki/AskSam)
-* [askSam ke stažení](https://asksam.en.softonic.com/)
-

@@ -63,4 +63,3 @@ El formato de archivo EPUB admite los siguientes formatos de archivo de imagen.
 ## Referencias ##
 
 * [EPUB - Por Wikipedia](https://en.wikipedia.org/wiki/EPUB)
-

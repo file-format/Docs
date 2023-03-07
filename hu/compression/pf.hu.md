@@ -24,8 +24,3 @@ A PF fájl egy tömörített és titkosított fájl, amely a Stuffit Deluxe szof
 ## PF fájlformátum
 
 A PF fájlok bináris fájlként kerülnek a lemezre, és a Stuffit Deluxe szabadalmaztatott fájlformátumban kerülnek mentésre.
-
-## Hivatkozások
-
-* [Stuffit Deluxe](https://stuffit-deluxe.en.softonic.com/mac)
-

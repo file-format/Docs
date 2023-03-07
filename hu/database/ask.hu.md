@@ -19,7 +19,7 @@
 
 ## Mi az ASK fájl?
 
-Az .ask kiterjesztésű fájl az [askSam Systems](https://asksam.en.softonic.com/), egy személyes információkezelő (PIM) alkalmazás által létrehozott adatbázisfájl. Az ilyen típusú fájlok dinamikus mappákban tárolódnak, és felhasználói adatokat tartalmaznak, például e-mail üzeneteket, dokumentumokat, szöveges fájlokat, táblázatokat, címeket és weboldalakat. Ez lehetővé teszi az askSam szoftver számára, hogy könnyen keressen bennük, és kutatási célból lekérje az adatokat. Az askSam szoftver, bár egy egyszerű Form alapú asztali alkalmazás, amely adatokat tárol az adatbázisban, népszerű volt az ilyen adatok rendszerezésére és lekérésére. Az ASK fájlból származó adatok a [táblázatok](/hu/spreadsheet/) mappába is exportálhatók.
+Az .ask kiterjesztésű fájl az askSam Systems, egy személyes információkezelő (PIM) alkalmazás által létrehozott adatbázisfájl. Az ilyen típusú fájlok dinamikus mappákban tárolódnak, és felhasználói adatokat tartalmaznak, például e-mail üzeneteket, dokumentumokat, szöveges fájlokat, táblázatokat, címeket és weboldalakat. Ez lehetővé teszi az askSam szoftver számára, hogy könnyen keressen bennük, és kutatási célból lekérje az adatokat. Az askSam szoftver, bár egy egyszerű Form alapú asztali alkalmazás, amely adatokat tárol az adatbázisban, népszerű volt az ilyen adatok rendszerezésére és lekérésére. Az ASK fájlból származó adatok a [táblázatok](/hu/spreadsheet/) mappába is exportálhatók.
 
 ## ASK Fájlformátum - További információ
 
@@ -28,5 +28,3 @@ Az ASK fájlokat a rendszer saját bináris fájlformátumban menti a lemezre, a
 ## Hivatkozások
 
 * [AskSam – Wikipedia](https://en.wikipedia.org/wiki/AskSam)
-* [askSam Download](https://asksam.en.softonic.com/)
-

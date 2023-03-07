@@ -19,7 +19,7 @@
 
 ## Tệp ASK là gì?
 
-Tệp có phần mở rộng .ask là tệp cơ sở dữ liệu được tạo bởi [askSam Systems](https://asksam.en.softonic.com/), một ứng dụng quản lý thông tin cá nhân (PIM). Các loại tệp này được lưu trữ trong các thư mục động và chứa dữ liệu người dùng như thư email, tài liệu, tệp văn bản, bảng tính, địa chỉ và trang web. Điều này cho phép phần mềm askSam tìm kiếm chúng dễ dàng và truy xuất dữ liệu cho mục đích nghiên cứu. Phần mềm askSam, mặc dù là một ứng dụng máy tính để bàn dựa trên Biểu mẫu đơn giản lưu trữ dữ liệu trong cơ sở dữ liệu, đã trở nên phổ biến để tổ chức và truy xuất dữ liệu đó. Dữ liệu từ tệp ASK cũng có thể được xuất sang [bảng tính](/vi/bảng tính/).
+Tệp có phần mở rộng .ask là tệp cơ sở dữ liệu được tạo bởi askSam Systems, một ứng dụng quản lý thông tin cá nhân (PIM). Các loại tệp này được lưu trữ trong các thư mục động và chứa dữ liệu người dùng như thư email, tài liệu, tệp văn bản, bảng tính, địa chỉ và trang web. Điều này cho phép phần mềm askSam tìm kiếm chúng dễ dàng và truy xuất dữ liệu cho mục đích nghiên cứu. Phần mềm askSam, mặc dù là một ứng dụng máy tính để bàn dựa trên Biểu mẫu đơn giản lưu trữ dữ liệu trong cơ sở dữ liệu, đã trở nên phổ biến để tổ chức và truy xuất dữ liệu đó. Dữ liệu từ tệp ASK cũng có thể được xuất sang [bảng tính](/vi/spreadsheet/).
 
 ## Định dạng tệp ASK - Thông tin khác
 
@@ -28,5 +28,3 @@ Các tệp ASK được lưu vào đĩa ở định dạng tệp nhị phân đ�
 ## Người giới thiệu
 
 * [AskSam - Wikipedia](https://vi.wikipedia.org/wiki/AskSam)
-* [Tải xuống askSam](https://asksam.en.softonic.com/)
-

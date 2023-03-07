@@ -19,7 +19,7 @@
 
 ## Vad är en EPUB fil?
 
-Filer med filtillägget .epub är ett e-boksfilformat som tillhandahåller ett standardformat för digitala publikationer för förlag och konsumenter. Formatet har varit så vanligt vid det här laget att det stöds av många e-läsare och mjukvaruapplikationer. Till exempel, på Mac OS, ger den förinstallerade programvaran **Books** stöd för att öppna sådana filer. Dessutom finns det en hel del kompatibel mjukvara för smartphones, surfplattor och datorer. EPUB-filstandarder underhålls av [International Digital Publishing Forum ](https://idpf.org/epub/30/spec/epub30-publications.html)(IDPF). Versionen EPUB 3 är också godkänd av Book Industry Study Group (BISG), en ledande bokhandelsorganisation för standardiserade bästa praxis, forskning, information och evenemang, för paketering av innehåll.
+Filer med filtillägget .epub är ett e-boksfilformat som tillhandahåller ett standardformat för digitala publikationer för förlag och konsumenter. Formatet har varit så vanligt vid det här laget att det stöds av många e-läsare och mjukvaruapplikationer. Till exempel, på Mac OS, ger den förinstallerade programvaran **Books** stöd för att öppna sådana filer. Dessutom finns det en hel del kompatibel mjukvara för smartphones, surfplattor och datorer. EPUB-filstandarder underhålls av [International Digital Publishing Forum](https://idpf.org/epub/30/spec/epub30-publications.html)(IDPF). Versionen EPUB 3 är också godkänd av Book Industry Study Group (BISG), en ledande bokhandelsorganisation för standardiserade bästa praxis, forskning, information och evenemang, för paketering av innehåll.
 
 ## Kort historik över EPUB-filformat
 
@@ -63,4 +63,3 @@ Filformatet EPUB stöder följande bildfilformat.
 ## Referenser ##
 
 * [EPUB - av Wikipedia](https://en.wikipedia.org/wiki/EPUB)
-

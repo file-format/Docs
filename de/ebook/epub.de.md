@@ -19,7 +19,7 @@
 
 ## Was ist eine EPUB-Datei?
 
-Dateien mit der Erweiterung .epub sind ein E-Book-Dateiformat, das ein digitales Standardveröffentlichungsformat für Verlage und Verbraucher bietet. Das Format ist inzwischen so weit verbreitet, dass es von vielen E-Readern und Softwareanwendungen unterstützt wird. Unter Mac OS bietet beispielsweise die vorinstallierte **Books**-Software Unterstützung zum Öffnen solcher Dateien. Darüber hinaus gibt es eine Menge kompatibler Software für Smartphones, Tablets und Computer. EPUB-Dateistandards werden vom [International Digital Publishing Forum](https://idpf.org/epub/30/spec/epub30-publications.html)(IDPF) verwaltet. Die Version EPUB 3 wird auch von der Book Industry Study Group (BISG), einem führenden Buchhandelsverband für standardisierte Best Practices, Forschung, Informationen und Veranstaltungen, für die Paketierung von Inhalten unterstützt.
+Dateien mit der Erweiterung .epub sind ein E-Book-Dateiformat, das ein digitales Standardveröffentlichungsformat für Verlage und Verbraucher bietet. Das Format ist inzwischen so weit verbreitet, dass es von vielen E-Readern und Softwareanwendungen unterstützt wird. Unter Mac OS bietet beispielsweise die vorinstallierte **Books**-Software Unterstützung zum Öffnen solcher Dateien. Darüber hinaus gibt es eine Menge kompatibler Software für Smartphones, Tablets und Computer. EPUB-Dateistandards werden vom [International Digital Publishing Forum](https://idpf.org/epub/30/spec/epub30-publications.html) verwaltet. Die Version EPUB 3 wird auch von der Book Industry Study Group (BISG), einem führenden Buchhandelsverband für standardisierte Best Practices, Forschung, Informationen und Veranstaltungen, für die Paketierung von Inhalten unterstützt.
 
 ## Kurze Geschichte des EPUB-Dateiformats
 
@@ -63,4 +63,3 @@ Das EPUB-Dateiformat unterstützt die folgenden Bilddateiformate.
 ## Verweise ##
 
 * [EPUB – von Wikipedia](https://en.wikipedia.org/wiki/EPUB)
-

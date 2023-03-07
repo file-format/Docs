@@ -20,7 +20,7 @@
 
 En HTACCESS-fil är en Apache-konfigurationsfil som tillhandahåller en mekanism för att tillåta konfigurationsändringar för olika mappar/kataloger på en webbplats. Den innehåller konfigurationsdirektiv som är tillämpliga på katalogen och underkatalogerna.
 
-En HTACCESS-fil utför ett antal kontroller som att definiera indexsidan för en webbplats, lista 404-felsidan (sidan hittades inte), utföra 301- eller 302-sidansomdirigeringar, blockera åtkomst från en specifik IP-adress eller andra webbplatser. Användningen av .htaccess-filer saktar därför ner den övergripande prestandan för din Apache [HTTP](/sv/web/http/)-server.
+En HTACCESS-fil utför ett antal kontroller som att definiera indexsidan för en webbplats, lista 404-felsidan (sidan hittades inte), utföra 301- eller 302-sidansomdirigeringar, blockera åtkomst från en specifik IP-adress eller andra webbplatser. Användningen av .htaccess-filer saktar därför ner den övergripande prestandan för din Apache [HTTP](/sv/web/html/)-server.
 
 ## HTACCESS filformat
 
@@ -67,4 +67,3 @@ Require valid-user
 ## Referenser
 
 * [Apache HTTP Server Tutorial: .htaccess-filer](https://httpd.apache.org/docs/current/howto/htaccess.html)
-

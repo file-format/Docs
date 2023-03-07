@@ -24,8 +24,3 @@
 ## פורמט קובץ PF
 
 קבצי PF נשמרים בדיסק כקבצים בינאריים ונשמרים בפורמט הקובץ הקנייני של Stuffit Deluxe.
-
-## הפניות
-
-* [Stuffit Deluxe](https://stuffit-deluxe.en.softonic.com/mac)
-

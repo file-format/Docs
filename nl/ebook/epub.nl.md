@@ -19,7 +19,7 @@
 
 ## Wat is een EPUB-bestand?
 
-Bestanden met de extensie .epub zijn een bestandsindeling voor e-books die uitgevers en consumenten een standaard digitale publicatie-indeling bieden. Het formaat is inmiddels zo gangbaar dat het door veel e-readers en softwareapplicaties wordt ondersteund. Op Mac OS biedt de vooraf geïnstalleerde **Books**-software bijvoorbeeld ondersteuning voor het openen van dergelijke bestanden. Daarnaast is er veel compatibele software beschikbaar voor smartphones, tablets en computers. EPUB-bestandsstandaarden worden onderhouden door het [International Digital Publishing Forum ](https://idpf.org/epub/30/spec/epub30-publications.html)(IDPF). De versie EPUB 3 wordt ook onderschreven door de Book Industry Study Group (BISG), een toonaangevende boekhandelsvereniging voor gestandaardiseerde best practices, onderzoek, informatie en evenementen, voor het verpakken van inhoud.
+Bestanden met de extensie .epub zijn een bestandsindeling voor e-books die uitgevers en consumenten een standaard digitale publicatie-indeling bieden. Het formaat is inmiddels zo gangbaar dat het door veel e-readers en softwareapplicaties wordt ondersteund. Op Mac OS biedt de vooraf geïnstalleerde **Books**-software bijvoorbeeld ondersteuning voor het openen van dergelijke bestanden. Daarnaast is er veel compatibele software beschikbaar voor smartphones, tablets en computers. EPUB-bestandsstandaarden worden onderhouden door het [International Digital Publishing Forum](https://idpf.org/epub/30/spec/epub30-publications.html)(IDPF). De versie EPUB 3 wordt ook onderschreven door de Book Industry Study Group (BISG), een toonaangevende boekhandelsvereniging voor gestandaardiseerde best practices, onderzoek, informatie en evenementen, voor het verpakken van inhoud.
 
 ## Korte geschiedenis van het EPUB-bestandsformaat
 
@@ -63,4 +63,3 @@ De EPUB-bestandsindeling ondersteunt de volgende afbeeldingsbestandsindelingen.
 ## Referenties ##
 
 * [EPUB - Door Wikipedia](https://en.wikipedia.org/wiki/EPUB)
-

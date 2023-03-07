@@ -24,8 +24,3 @@
 ## Формат файла PF
 
 Файлы PF сохраняются на диск как двоичные файлы и сохраняются в собственном формате файлов Stuffit Deluxe.
-
-## использованная литература
-
-* [Stuffit Deluxe](https://stuffit-deluxe.en.softonic.com/mac)
-

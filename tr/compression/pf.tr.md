@@ -24,8 +24,3 @@ PF dosyası, Stuffit Deluxe yazılımı ile oluşturulan sıkıştırılmış ve
 ## PF Dosya Biçimi
 
 PF dosyaları diske ikili dosyalar olarak kaydedilir ve Stuffit Deluxe tescilli dosya biçiminde kaydedilir.
-
-## Referanslar
-
-* [Stuffit Deluxe](https://stuffit-deluxe.en.softonic.com/mac)
-

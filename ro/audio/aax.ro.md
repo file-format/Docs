@@ -41,9 +41,7 @@ Formatele de fișiere audibile încapsulează sunetele codificate, dar includ ș
 - Activați conținutul Audible pentru un număr limitat de dispozitive
 Dar puteți găsi în continuare multe alte instrumente software care pot ocoli cu ușurință controlul DRM al Audible. Audible oferă acum titluri fără DRM pentru scriitorii de conținut. Versiunile FFmpeg 2.8.1 sau mai mari pot reda nativ formate de fișiere .aax.
 
-
-## Referințe ##
+## Referințe
 
 * [Audible (serviciu) - Prin Wikipedia](https://en.wikipedia.org/wiki/Audible_(serviciu))
 * [Format fișier audio - de Wikipedia](https://en.wikipedia.org/wiki/Audio_file_format)
-

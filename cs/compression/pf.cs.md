@@ -24,8 +24,3 @@ Soubor PF je komprimovaný a zašifrovaný soubor, který je vytvořen pomocí s
 ## Formát souboru PF
 
 Soubory PF se ukládají na disk jako binární soubory a jsou uloženy v proprietárním formátu souboru Stuffit Deluxe.
-
-## Reference
-
-* [Stuffit Deluxe](https://stuffit-deluxe.en.softonic.com/mac)
-

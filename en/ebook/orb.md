@@ -19,11 +19,11 @@
 
 ## What is an ORB file? ##
 
-The ORB file format belongs to the ebooks file type which can be read by using ORB Reader, an ancient software that was particularly used to read or edit the ebook files with .orb extension. Please note that the ORB stands for Original Book Reader and the format was developed by the Original eBook. Therefore, no or very little information is available about the ORB developers on the internet, which is a sign that the ORB Reader might have been discontinued or no more available in the current internet market. Hence, some people might feel sad if they have larger size data, but they don't have sufficient options to do something with it. 
+The ORB file format belongs to the ebooks file type which can be read by using ORB Reader, an ancient software that was particularly used to read or edit the ebook files with .orb extension. Please note that the ORB stands for Original Book Reader and the format was developed by the Original eBook. Therefore, no or very little information is available about the ORB developers on the internet, which is a sign that the ORB Reader might have been discontinued or no more available in the current internet market. Hence, some people might feel sad if they have larger size data, but they don't have sufficient options to do something with it.
 
 ## Structure of ORB File ##
 
-The files with .orb extension are actually compressed with Zip compression; containing one or more [SWF](/video/swf/) (Macromedia Flash File) files to make up an eBook. A question might be raised in your mind that how we can open or read this file format? The answer is that you can open it with Original Book Reader, which is also known as **ORB Reader**. The ORB Reader seems to be discontinued or no more available over the internet but in the past, it was available for Microsoft Windows and macOS. 
+The files with .orb extension are actually compressed with Zip compression; containing one or more [SWF](/page-description-language/swf/) (Macromedia Flash File) files to make up an eBook. A question might be raised in your mind that how we can open or read this file format? The answer is that you can open it with Original Book Reader, which is also known as **ORB Reader**. The ORB Reader seems to be discontinued or no more available over the internet but in the past, it was available for Microsoft Windows and macOS. 
 
 ## View an ORB file ##
 
@@ -33,4 +33,3 @@ Since the ORB Reader was used in the old days; it might be possible that you hav
 ## References
 
 * [Orb Books - Wikipedia](https://en.wikipedia.org/wiki/Orb_Books)
-

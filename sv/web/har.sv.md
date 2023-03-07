@@ -19,7 +19,7 @@
 
 ## Vad är HAR fil?
 
-En fil med .har ([HTTP](/sv/web/http/) Archive)-fil är en HTTP-arkivfil som lagrar sessionsdata som överförs över många webbläsare (som Chrome, Safari, IE, Firefox, etc.) i [JSON](/sv/web/json/) filformat. Datan som överförs över internet mellan servern och klienten (i det här fallet användarens webbläsare) innehåller HTTP-begäran och svarsrubriker som lagras i HAR-filen. Den innehåller vidare detaljerad information om prestandadata om webbsidor som laddas i webbläsaren. HAR-filer kan öppnas i vilken textredigerare som helst som Notepad på Microsoft Windows OS och TextEdit på Apple MacOS.
+En fil med .har ([HTTP](/sv/web/html/) Archive)-fil är en HTTP-arkivfil som lagrar sessionsdata som överförs över många webbläsare (som Chrome, Safari, IE, Firefox, etc.) i [JSON](/sv/web/json/) filformat. Datan som överförs över internet mellan servern och klienten (i det här fallet användarens webbläsare) innehåller HTTP-begäran och svarsrubriker som lagras i HAR-filen. Den innehåller vidare detaljerad information om prestandadata om webbsidor som laddas i webbläsaren. HAR-filer kan öppnas i vilken textredigerare som helst som Notepad på Microsoft Windows OS och TextEdit på Apple MacOS.
 
 ## HAR-filformat - Mer information
 
@@ -48,4 +48,3 @@ Följande steg kan utföras på en webbsida där problem uppstår.
 ## Referenser
 
 * [HAR-filformat - Wikipedia](https://en.wikipedia.org/wiki/HAR_(filformat))
-

@@ -24,8 +24,3 @@ File PF adalah file terkompresi dan terenkripsi yang dibuat dengan perangkat lun
 ## Format File PF
 
 File PF disimpan ke disk sebagai file biner dan disimpan dalam format file berpemilik Stuffit Deluxe.
-
-## Referensi
-
-* [Stuffit Deluxe](https://stuffit-deluxe.en.softonic.com/mac)
-

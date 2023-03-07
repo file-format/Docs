@@ -24,8 +24,3 @@ Un fichier PF est un fichier compressé et crypté créé avec le logiciel Stuff
 ## Format de fichier PF
 
 Les fichiers PF sont enregistrés sur le disque en tant que fichiers binaires et sont enregistrés au format de fichier propriétaire Stuffit Deluxe.
-
-## Références
-
-* [Stuffit Deluxe](https://stuffit-deluxe.en.softonic.com/mac)
-

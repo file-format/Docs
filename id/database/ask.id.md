@@ -19,7 +19,7 @@
 
 ## Apa itu file ASK?
 
-File dengan ekstensi .ask adalah file database yang dibuat oleh [askSam Systems](https://asksam.en.softonic.com/), aplikasi personal information manager (PIM). Jenis file ini disimpan dalam folder dinamis dan berisi data pengguna seperti pesan email, dokumen, file teks, spreadsheet, alamat, dan halaman web. Ini memungkinkan perangkat lunak askSam untuk mencarinya dengan mudah dan mengambil data untuk tujuan penelitian. Perangkat lunak askSam, meskipun aplikasi desktop berbasis Formulir sederhana yang menyimpan data dalam basis data, populer untuk mengatur dan mengambil data semacam itu. Data dari file ASK juga dapat diekspor ke [spreadsheet](/id/spreadsheet/).
+File dengan ekstensi .ask adalah file database yang dibuat oleh askSam Systems, aplikasi personal information manager (PIM). Jenis file ini disimpan dalam folder dinamis dan berisi data pengguna seperti pesan email, dokumen, file teks, spreadsheet, alamat, dan halaman web. Ini memungkinkan perangkat lunak askSam untuk mencarinya dengan mudah dan mengambil data untuk tujuan penelitian. Perangkat lunak askSam, meskipun aplikasi desktop berbasis Formulir sederhana yang menyimpan data dalam basis data, populer untuk mengatur dan mengambil data semacam itu. Data dari file ASK juga dapat diekspor ke [spreadsheet](/id/spreadsheet/).
 
 ## ASK File Format - Informasi Lebih Lanjut
 
@@ -28,5 +28,3 @@ File ASK disimpan ke disk dalam format file biner berpemilik yang detail format 
 ## Referensi
 
 * [AskSam - Wikipedia](https://en.wikipedia.org/wiki/AskSam)
-* [Unduh askSam](https://asksam.en.softonic.com/)
-

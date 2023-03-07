@@ -24,8 +24,3 @@ Tệp PF là tệp được nén và mã hóa được tạo bằng phần mềm
 ## Định dạng tệp PF
 
 Các tệp PF được lưu vào đĩa dưới dạng tệp nhị phân và được lưu ở định dạng tệp độc quyền Stuffit Deluxe.
-
-## Người giới thiệu
-
-* [Stuffit Deluxe](https://stuffit-deluxe.en.softonic.com/mac)
-

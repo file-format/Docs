@@ -19,7 +19,7 @@
 
 ## Ce este un fișier ASK?
 
-Un fișier cu extensia .ask este un fișier de bază de date creat de [askSam Systems](https://asksam.en.softonic.com/), o aplicație de gestionare a informațiilor personale (PIM). Aceste tipuri de fișiere sunt stocate în foldere dinamice și conțin date de utilizator, cum ar fi mesaje de e-mail, documente, fișiere text, foi de calcul, adrese și pagini web. Acest lucru permite software-ului askSam să le caute cu ușurință și să recupereze datele în scopul cercetării. Software-ul askSam, deși o aplicație desktop simplă bazată pe formular care stochează date în baza de date, a fost popular pentru organizarea și preluarea acestor date. Datele din fișierul ASK pot fi, de asemenea, exportate în [spreadsheets](/ro/spreadsheet/).
+Un fișier cu extensia .ask este un fișier de bază de date creat de askSam Systems, o aplicație de gestionare a informațiilor personale (PIM). Aceste tipuri de fișiere sunt stocate în foldere dinamice și conțin date de utilizator, cum ar fi mesaje de e-mail, documente, fișiere text, foi de calcul, adrese și pagini web. Acest lucru permite software-ului askSam să le caute cu ușurință și să recupereze datele în scopul cercetării. Software-ul askSam, deși o aplicație desktop simplă bazată pe formular care stochează date în baza de date, a fost popular pentru organizarea și preluarea acestor date. Datele din fișierul ASK pot fi, de asemenea, exportate în [spreadsheets](/ro/spreadsheet/).
 
 ## Format fișier ASK - Mai multe informații
 
@@ -28,5 +28,3 @@ Fișierele ASK sunt salvate pe disc în format de fișier binar proprietar ale c
 ## Referințe
 
 * [AskSam - Wikipedia](https://en.wikipedia.org/wiki/AskSam)
-* [askSam Download](https://asksam.en.softonic.com/)
-

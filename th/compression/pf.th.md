@@ -24,8 +24,3 @@
 ## รูปแบบไฟล์ PF
 
 ไฟล์ PF จะถูกบันทึกลงในดิสก์เป็นไฟล์ไบนารีและบันทึกในรูปแบบไฟล์ที่เป็นกรรมสิทธิ์ของ Stuffit Deluxe
-
-## อ้างอิง
-
-* [Stuffit Deluxe](https://stuffit-deluxe.en.softonic.com/mac)
-

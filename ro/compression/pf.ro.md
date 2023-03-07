@@ -24,8 +24,3 @@ Un fișier PF este un fișier comprimat și criptat care este creat cu software-
 ## Format de fișier PF
 
 Fișierele PF sunt salvate pe disc ca fișiere binare și sunt salvate în formatul de fișier proprietar Stuffit Deluxe.
-
-## Referințe
-
-* [Stuffit Deluxe](https://stuffit-deluxe.en.softonic.com/mac)
-

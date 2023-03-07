@@ -23,9 +23,4 @@ PF 文件是使用 Stufit Deluxe 软件创建的压缩和加密文件。它是�
 
 ## PF 文件格式
 
-PF 文件作为二进制文件保存到光盘中，并以 Stuffit Deluxe 专有文件格式保存。
-
-## 参考
-
-* [Stuffit Deluxe](https://stuffit-deluxe.en.softonic.com/mac)
-
+PF 文件作为二进制文件保存到光盘中，并以 Stuffit Deluxe 专有文件格式保存

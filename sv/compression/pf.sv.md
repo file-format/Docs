@@ -24,8 +24,3 @@ En PF-fil är en komprimerad och krypterad fil som skapas med programvaran Stuff
 ## PF filformat
 
 PF-filer sparas på skiva som binära filer och sparas i Stuffit Deluxes proprietära filformat.
-
-## Referenser
-
-* [Stuffit Deluxe](https://stuffit-deluxe.en.softonic.com/mac)
-

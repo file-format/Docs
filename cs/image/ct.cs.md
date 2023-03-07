@@ -30,4 +30,3 @@ Soubor Scitex CT se skládá z řídicího bloku, bloku parametrů a obrazových
 
 * [Formáty souborů Adobe](https://helpx.adobe.com/es/photoshop/using/file-formats.html)
 * [Scitex CT](https://help.accusoft.com/ImageGear/v17.1/Windows/DLL/HTML/topic694.html)
-

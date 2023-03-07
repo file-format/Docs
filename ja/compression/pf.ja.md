@@ -24,8 +24,3 @@ PF ファイルは、Stuffit Deluxe ソフトウェアで作成された圧縮�
 ## PF ファイル形式
 
 PF ファイルはバイナリ ファイルとしてディスクに保存され、Stuffit Deluxe 独自のファイル形式で保存されます。
-
-## 参考文献
-
-・【スタッフデラックス】(https://stuffit-deluxe.en.softonic.com/mac)
-
