@@ -10,7 +10,7 @@
   "linktitle" : "3dm-to-pdf",
   "menu" : {
     "docs" : {
-      "parent" : "3d"
+      "parent" : "3dm"
     }
   },
   "lastmod" : "2021-08-13"
