@@ -27,7 +27,7 @@ After Microsoft opened the specifications for the DOC file format, it was easy f
 
 ## DOCX File Format Specifications - More Information
 
-A Docx file comprises of a collection of XML files that are contained inside a ZIP archive. The contents of a new Word document can be viewed by unzipping its contents. The collection contains a list of XML files that are categorized as:
+A DOCX file comprises of a collection of XML files that are contained inside a ZIP archive. The contents of a new Word document can be viewed by unzipping its contents. The collection contains a list of XML files that are categorized as:
 
 * MetaData Files - contains information about other files available in the archive
 * Document - contains the actual contents of the document
