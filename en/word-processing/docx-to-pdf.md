@@ -8,10 +8,11 @@
   "toc" : true,
   "title" : "Convert DOCX to PDF Free",
   "description":"Learn about conversion of DOCX file format to PDF file format.",
-  "linktitle" : "docs-to-pdf",
+  "linktitle" : "/conversion/docs-to-pdf/",
   "menu" : {
     "docs" : {
-      "parent" : "word-processing"
+      "parent" : "word-processing",
+      "weight" : 30
     }
   },
   "lastmod" : "2019-12-03"
