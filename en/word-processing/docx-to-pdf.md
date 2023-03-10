@@ -1,6 +1,5 @@
 {
   "date" : "2019-12-03",
-  "keywords" : [ "DOCX","file", "format", "file type", "extension","what is an DOCX file?" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
@@ -8,7 +7,7 @@
   "toc" : true,
   "title" : "Convert DOCX to PDF Free",
   "description":"Learn about conversion of DOCX file format to PDF file format.",
-  "linktitle" : "/conversion/docs-to-pdf/",
+  "linktitle" : "DOCX to PDF",
   "menu" : {
     "docs" : {
       "parent" : "word-processing",
@@ -99,8 +98,7 @@ using namespace Aspose::Words;
 auto doc = MakeObject<Document>(u"Input.docx");
 doc->Save(u"Output.pdf");
 ```
-
-## Convert DOCX to PDF online for FREE
+## DOCX to PDF Conversion - Free Demo
 
 With so much powerful API for working with DOCX files, Aspose offers free online apps for converting DOCX to PDF files. The benefits of using the online Aspose Apps include:
 
@@ -109,3 +107,9 @@ With so much powerful API for working with DOCX files, Aspose offers free online
 1. `Completely Free` - Enough free conversions to let you Convert your documents to PDF and other popular formats
 
 **Want to try it?** Head to [Aspose.Words converter App](https://products.aspose.app/words/conversion) for free conversion of DOCX to PDF.
+
+## Aspose.Words Resources
+
+1. [Aspose.Words Documentation](https://docs.aspose.com/words/)
+1. [New Releases](https://releases.aspose.com/)
+1. [Knowledge Base](https://kb.aspose.com/words/)
