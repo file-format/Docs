@@ -36,7 +36,27 @@ DOCX and PDF are popular document file formats for writing content and sharing. 
 
 ## Aspose.Words APIs
 
-Aspose.Words suite of APIs lets any developer convert DOCX to PDF format with just a few lines of code. It is available for many programming languages including C#, Java, Python and C++. In addition to PDF, Aspose.Words APIs let you convert DOCX files to many other popular file formats.
+Aspose.Words suite of APIs lets any developer convert [DOCX](/word-processing/docx/) to [PDF](/pdf/) format with just a few lines of code. It is available for many programming languages including C#, Java, Python and C++. In addition to PDF, Aspose.Words APIs let you convert DOCX files to many other popular file formats.
+
+## Aspose.Words Resources
+
+1. [Documentation and Code Samples](https://docs.aspose.com/words/)
+1. [New Releases](https://releases.aspose.com/)
+1. [Knowledge Base](https://kb.aspose.com/words/)
+
+## DOCX to PDF Conversion - Free Demo
+
+With so much powerful API for working with DOCX files, Aspose offers free online apps for converting DOCX to PDF files. The benefits of using the online Aspose Apps include:
+
+1. `No Coding Required` - Just upload your file and get the converted document as Output
+1. `Fast and Precise` - Use the online conversion tool to convert your word files to PDF quickly and precisely
+1. `Completely Free` - Enough free conversions to let you Convert your documents to PDF and other popular formats
+
+**Want to try it?** Visit [Aspose.Words converter App](https://products.aspose.app/words/conversion) for free conversion of DOCX to PDF.
+
+## Convert DOCX to PDF in .NET, Java and Python
+
+The following code samples show how to convert a DOCX file to PDF in your C#, Java and Python applications.
 
 ### Convert DOCX to PDF using Aspose.Words for .NET
 
@@ -97,18 +117,3 @@ using namespace Aspose::Words;
 auto doc = MakeObject<Document>(u"Input.docx");
 doc->Save(u"Output.pdf");
 ```
-## DOCX to PDF Conversion - Free Demo
-
-With so much powerful API for working with DOCX files, Aspose offers free online apps for converting DOCX to PDF files. The benefits of using the online Aspose Apps include:
-
-1. `No coding required` - Just upload your file and get the converted documented as Output
-1. `Fast and Precise` - Use the online conversion tool to convert your word files to PDF quickly and precisely
-1. `Completely Free` - Enough free conversions to let you Convert your documents to PDF and other popular formats
-
-**Want to try it?** Head to [Aspose.Words converter App](https://products.aspose.app/words/conversion) for free conversion of DOCX to PDF.
-
-## Aspose.Words Resources
-
-1. [Aspose.Words Documentation](https://docs.aspose.com/words/)
-1. [New Releases](https://releases.aspose.com/)
-1. [Knowledge Base](https://kb.aspose.com/words/)
