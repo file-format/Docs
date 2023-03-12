@@ -5,12 +5,12 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "Convert DOCX to PDF Free",
-  "description":"Learn about conversion of DOC file format to PDF file format.",
+  "title" : "Convert DOC to PDF Online for Free",
+  "description":"Free online DOC to PDF converter",
   "linktitle" : "DOC to PDF",
   "menu" : {
     "docs" : {
-      "parent" : "word-processing",
+      "parent" : "word-processing"
     }
   },
   "lastmod" : "2019-12-03"
