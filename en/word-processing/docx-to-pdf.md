@@ -52,7 +52,7 @@ With so much powerful API for working with DOCX files, Aspose offers free online
 1. `Fast and Precise` - Use the online conversion tool to convert your word files to PDF quickly and precisely
 1. `Completely Free` - Enough free conversions to let you Convert your documents to PDF and other popular formats
 
-**Want to try it?** Visit [Aspose.Words converter App](https://products.aspose.app/words/conversion) for free conversion of DOCX to PDF.
+**Want to try it?** Visit [Aspose.Words Converter App](https://products.aspose.app/words/conversion) for free conversion of DOCX to PDF.
 
 ## Convert DOCX to PDF in .NET, Java and Python
 
