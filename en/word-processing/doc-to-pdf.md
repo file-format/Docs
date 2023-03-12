@@ -7,7 +7,7 @@
   "toc" : true,
   "title" : "Convert DOCX to PDF Free",
   "description":"Learn about conversion of DOC file format to PDF file format.",
-  "linktitle" : "DOCX to PDF",
+  "linktitle" : "DOC to PDF",
   "menu" : {
     "docs" : {
       "parent" : "word-processing",
