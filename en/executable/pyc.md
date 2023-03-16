@@ -24,9 +24,21 @@ A PYC file is a compiled output file generated from source code written in Pytho
 
 PYC files are in bytecode and their file format specifications are not available publicly. However, investigation by some sources show that the [structure of a PYC file](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A%20marshalled%20code%20object.) consists of:
 
- * `A four-byte magic numbe`r - Simply two bytes that change with each change to the marshalling code, and then two bytes of 0d0a.
+ * `A four-byte magic number` - Simply two bytes that change with each change to the marshalling code, and then two bytes of 0d0a.
  * `A four-byte modification timestamp` - Unix modification timestamp of the source file that generated the .pyc, so that it can be recompiled if the source changes.
  * `A marshalled code object` - the output of marshal.dump of the code object that is a result of compiling the source file.
+
+## FAQs
+
+1. **How is a PYC file generated?** A PYC file is created when Python source code is compiled using the Python interpreter. The compiled code is then stored in the PYC file.
+
+1. **Is PYC faster than py?** PYC files are saved after python source code is compiled. Since these are already interpreted, these files are faster than .py files.
+
+1. **What is the difference between py and pyc file?** PY files contain Python source code file for a program, while .pyc files contain interpreted bytecode of an application.
+
+1. **Is PYC a binary file?** PYC file is a binary file that contains a 4-byte magic number, a 4-byte modification timestamp, and a marshalled code object.
+
+1. **Can we convert .pyc to .py?** Yes, it is possible to convert pyc files to py. Decompilers such as Decompyle++ may be used to translate compiled Python byte-code back into valid and human-readable Python source code.
 
 ## References
 
