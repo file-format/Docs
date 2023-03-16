@@ -36,17 +36,11 @@ DOCX and PDF are popular document file formats for writing content and sharing. 
 
 ## Aspose.Words APIs
 
-Aspose.Words suite of APIs lets any developer convert [DOCX](/word-processing/docx/) to [PDF](/pdf/) format with just a few lines of code. It is available for many programming languages including C#, Java, Python and C++. In addition to PDF, Aspose.Words APIs let you convert DOCX files to many other popular file formats.
-
-## Aspose.Words Resources
-
-1. [Documentation and Code Samples](https://docs.aspose.com/words/)
-1. [New Releases](https://releases.aspose.com/)
-1. [Knowledge Base](https://kb.aspose.com/words/)
+Aspose.Words suite of APIs lets any developer convert [DOCX](/word-processing/docx/) to [PDF](/pdf/) format with just a few lines of code. It is available for many programming languages including [C#](/programming/cs/), [Java](/programming/java/), [Python](/programming/py/) and [C++](/programming/cpp/). In addition to PDF, Aspose.Words APIs let you convert DOCX files to many other popular file formats.
 
 ## DOCX to PDF Conversion - Free Demo
 
-With so much powerful API for working with DOCX files, Aspose offers free online apps for converting DOCX to PDF files. The benefits of using the online Aspose Apps include:
+With so much powerful APIs for working with DOCX files, Aspose offers **free** online apps for converting DOCX to PDF files. The benefits of using the online Aspose Apps include:
 
 1. `No Coding Required` - Just upload your file and get the converted document as Output
 1. `Fast and Precise` - Use the online conversion tool to convert your word files to PDF quickly and precisely
@@ -54,66 +48,46 @@ With so much powerful API for working with DOCX files, Aspose offers free online
 
 **Want to try it?** Visit [Aspose.Words Converter App](https://products.aspose.app/words/conversion) for free conversion of DOCX to PDF.
 
-## Convert DOCX to PDF in .NET, Java and Python
+## Convert DOCX to PDF in .NET, Java, C++ and Python
 
-The following code samples show how to convert a DOCX file to PDF in your C#, Java and Python applications.
+The following code samples show how to convert a DOCX file to PDF in your **C#**, **Java**, **C++** and **Python** applications.
 
 ### Convert DOCX to PDF using Aspose.Words for .NET
 
-1. Install 'Aspose.Words for .NET'.
-1. Add a library reference (import the library) to your C# project.
-1. Open the source file in C#.
-1. Call the 'Save()' method, passing an output filename with required extension.
-1. Get the result of conversion as a separate file.
+If you are a .NET application developer and want to embed functionality of working with DOCX files in your application, Aspose.Words for .NET is for you. You can create, update, convert, render and print WORD documents using this API. Check out the following resources to know more about Aspose.Words for .NET.
 
-```
-using Aspose.Words;
+**Aspose.Words for .NET Resources**
 
-var doc = new Document("Input.docx");
-doc.Save("Output.pdf");
+1. About - [Aspose.Words for .NET](https://products.aspose.com/words/net/)
+1. Installation Guide - [Aspose.Words for .NET Installation](https://docs.aspose.com/words/net/installation/)
+1. DOCX to PDF - [Convert DOCX to PDF](https://docs.aspose.com/words/net/convert-a-document-to-pdf/)
 
-```
 ### Convert DOCX to PDF using Aspose.Words for Java
 
-1. Install 'Aspose.Words for Java'.
-1. Add a library reference (import the library) to your Java project.
-1. Open the source file in Java.
-1. Call the 'save()' method, passing an output filename with required extension.
-1. Get the result of conversion as a separate file.
+Aspose.Words for Java API is a feature-rich API that enables Java application developers to create, modify, convert, render and print word document files. It does not require Microsoft Word to be installed on the machine for working with Word documents. It supports popular file formats such as JPEG, SVG, GIF and others. You can learn about Aspose.Words for Java from following resources.
 
-```
-import com.aspose.words.*;
+**Aspose.Words for Java Resources**
 
-Document doc = new Document("Input.docx");
-doc.save("Output.pdf");
+ * About - [Aspose.Words for Java](https://products.aspose.com/words/java/)
+ * Installation Guide - [Aspose.Words for Java Installation](https://docs.aspose.com/words/java/installation/)
+ * Convert DOCX to PDF in Java - [DOX to PDF Conversion guide](https://docs.aspose.com/words/java/convert-a-document-to-pdf/)
 
-```
-### Convert DOCX to PDF using Aspose.Words for Python via .NET
-
-1. Install 'Aspose.Words for Python via .NET'.
-1. Add a library reference (import the library) to your Python project.
-1. Open the source file in Python.
-1. Call the 'save()' method, passing an output filename with required extension.
-1. Get the result of conversion as a separate file.
-
-```
-import aspose.words as aw
-
-doc = aw.Document("Input.docx")
-doc.save("Output.pdf")
-
-```
 ### Convert DOCX to PDF using Aspose.Words for C++
 
-1. Install 'Aspose.Words for C++'.
-1. Add a library reference (import the library) to your C++ project.
-1. Open the source file in C++.
-1. Call the 'Save()' method, passing an output filename with required extension.
-1. Get the result of conversion as a separate file.
+Aspose.Words for C++ is an on-premise API that can be used by C++ application developers to work with Word documents from within their C++ applications. It can be used to create, read and convert word documents to to other file formats. Some useful resources for Aspose.Words for C++ are as follow.
 
-```
-using namespace Aspose::Words;
+**Aspose.Words for C++ Resources**
 
-auto doc = MakeObject<Document>(u"Input.docx");
-doc->Save(u"Output.pdf");
-```
+ 1. About - [Aspose.Words for C++](https://products.aspose.com/words/cpp/)
+ 1. Installation Guide - [Aspose.Words for C++ Installation](https://docs.aspose.com/words/cpp/installation/)
+ 1. Convert DOCX to PDF in C++ - [DOX to PDF Conversion guide in C++](https://docs.aspose.com/words/cpp/convert-a-document-to-pdf/)
+
+### Convert DOCX to PDF using Aspose.Words for Python via .NET
+
+Aspose.Words for Python via .NET is a software package intended for reading and manipulating various document types, with a specific emphasis on Microsoft Word (DOC, DOCX, ODT), PDF, and Web (HTML, Markdown) documents. The package comprises over 100 Python classes that cater to low-level operations related to document processing and data formatting. This way, Aspose.Words offers a distinctive chance for Python developers to perform script-based document automation.
+
+**Aspose.Words for Python via .NET Resources**
+
+1. About - [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)
+1. Installation Guide - [Aspose.Words for Python via .NET Installation](https://releases.aspose.com/words/python/)
+1. Convert DOCX to PDF in C++ - [DOX to PDF Conversion guide in Python via .NET](https://docs.aspose.com/words/python-net/convert-a-document/)
