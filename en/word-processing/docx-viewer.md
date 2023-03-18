@@ -28,11 +28,11 @@ You can open and view the contents of a DOCX file with a number of software appl
 
 But what if you don't have any of them installed on your PC? Well, there is nothing to worry about in that case as there are several online viewers now where you can upload your DOCX file and view the contents of the document online. Once such online viewer is **[Aspose.Words Viewer App](https://products.aspose.app/words/viewer/docx)** that is hosted online for viewing Word documents.
 
-## Aspose.Words Viewer for DOCX File Format
+## Aspose.Words Viewer for DOCX Files - Free Viewer
 
 Aspose.Words Viewer App is an online document viewer that can be used to open and view the contents of DOCX files online. You don't need to install any software on your PC to use it. When you upload your DOCX files to Aspose.Words Viewer App, the viewer renders the document online using powerful Aspoose.Cloud apps at the backend. It is then displayed to user in browser for viewing its contents.
 
-### How to Open DOCX Online
+### How to Open DOCX Online - Free Demo
 
 You can use the following steps to open your DOCX file online using Aspose.Words Viewer App.
 

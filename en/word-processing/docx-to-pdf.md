@@ -26,7 +26,7 @@ DOCX and PDF are popular document file formats for writing content and sharing. 
 
 |Features|DOCX|PDF|
 |---|---|---|
-|Content editing and formatting	|+	|–|
+|Content editing and formatting	|+|–|
 |Annotations and comments	|+	|+|
 |Co-editing	|+	|–|
 |Form creation and filling	|+	|+|

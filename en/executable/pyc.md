@@ -36,7 +36,7 @@ PYC files are in bytecode and their file format specifications are not available
 
 1. **What is the difference between py and pyc file?** PY files contain Python source code file for a program, while .pyc files contain interpreted bytecode of an application.
 
-1. **Is PYC a binary file?** PYC file is a binary file that contains a 4-byte magic number, a 4-byte modification timestamp, and a marshalled code object.
+1. **Is PYC a binary file?** Yes, PYC file is a binary file that contains a 4-byte magic number, a 4-byte modification timestamp, and a marshalled code object.
 
 1. **Can we convert .pyc to .py?** Yes, it is possible to convert pyc files to py. Decompilers such as Decompyle++ may be used to translate compiled Python byte-code back into valid and human-readable Python source code.
 

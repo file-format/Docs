@@ -103,6 +103,12 @@ A paragraph is the main content holder within a document. It is represented by *
 </w:p>
 ```
 
+## DOCX FAQs
+
+ * **Is DOCX a File Extension?** - DOCX is used as file extension to represent Microsoft Word 2007 and later file formats used to store Word files. It also tells your OS that this DOCX file requires Microsoft Word 2007 to open it and show its icon.
+ * **Is DOCX same as Word** - DOCX is a file format used by Microsoft Word to save documents in Open XML format. Word, on the other hand, is an application software by Microsoft Office that also supports other file formats such as DOC, DOT, DOTM, and others.
+ * **What is difference DOC and DOCX** - DOC is word file saved in Word 2007 and earlier file format. DOCX is based on Open XML file format supported by Microsoft 2007 and later versions. Check [Differences between DOC and DOCX](https://blog.fileformat.com/2022/08/11/doc-vs-docx/) for more details.
+
 ## References ##
 
 * [MS - DOCX File Format](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
