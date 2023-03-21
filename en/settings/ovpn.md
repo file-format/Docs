@@ -15,7 +15,7 @@
   "toc": true,
   "title": "OVPN File Format - OpenVPN Configuration File",
   "description": "Learn about OVPN format and APIs that can create and open OVPN files.",
-  "linktitle": "HTT",
+  "linktitle": "OVPN",
   "menu": {
     "docs": {
       "identifier": "settings-ovpn",
