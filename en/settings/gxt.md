@@ -26,7 +26,7 @@
 
 ## What is a GXT file?
 
-The .gxt file extension is used for text files in the Grand Theft Auto (GTA) video game series. These files contain the game's text and dialogue, and are used to display subtitles, mission objectives, and other text-based information within the game. The .gxt files are typically located in the "text" or "text\american.gxt" folder of the game's installation directory, and can be edited using a text editor such as Notepad or Sublime Text. Note that editing .gxt files may require some knowledge of the game's scripting language and file structure. It's always a good idea to make a backup of any files you plan to modify, and to test your changes carefully to avoid causing problems or errors within the game.
+The .gxt file extension is used for text files in the Grand Theft Auto (GTA) video game series. These files contain the game's text and dialogue, and are used to display subtitles, mission objectives, and other text-based information within the game. The .gxt files are typically located in the "text" or "text\american.gxt" folder of the game's installation directory, and can be edited using a text editor such as Notepad or Sublime Text. Note that editing .gxt files may require some knowledge of the game's scripting language and file structure. It's always a good idea to make a backup of any files you plan to modify, and to test your changes carefully to avoid causing problems or errors within the game. 
 
 ## GXT File Format – More Information
 
