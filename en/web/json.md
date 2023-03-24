@@ -86,6 +86,14 @@ There is no hard limit defined by specification, but you need to be careful not 
  1. JSON reduces the overhead of data transfer over the internet as it has less number of characters to define the same set of data as compared to XML
  1. Modern programming languages provide builtin parsers to parse the JSON response over the web.
 
+## FAQs
+
+ * **What is JSON file used for?** JSON file format can be used as an intermediate file format for storing data generated data such as from a submitted form on a website. It is also used as a data format file for any programming language and provides interoperability between different types of data.
+ * **Is JSON and XML file same?** Not really. JSON differs from XML in that JSON is shorter, can be read and right quickly, can use arrays and it doesn't use end tag.
+ * **Can I convert JSON to CSV?** Yes, there are certain online converter apps such as **GroupDocs Conversion apps** that can [convert JSON to CSV](https://products.groupdocs.app/conversion/json-to-csv).
+ * **How to Convert JSON to PDF?** You can use online apps such as Asopse.app for Cells to [convert JSON file to PDF](https://products.aspose.app/cells/conversion/json-to-pdf).
+ * **How to Open a JSON file in Word?** You can use online apps such as Aspose.app for Words to [convert JSON file to Word](Convert JSON Format to WORD in Android via Java).
+
 ## Did you know?
 
 You can become a contributor at FileFormat.com to keep the file format community up to date with your findings. If you have to share anything about JSON or Web file formats, you can post your findings in [Web File Format News](https://news.fileformat.com/t/Web) section for people to learn more form these.

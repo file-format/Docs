@@ -38,7 +38,7 @@ John Gruber and Aaron Swartz in 2004 created the Markdown language with the idea
 
 Since then Markdown has been re-implemented by others as well like in a Perl [module](https://en.wikipedia.org/wiki/Modular_programming) available on [CPAN](https://en.wikipedia.org/wiki/CPAN) and in various other programming languages. It is distributed under a [BSD-style license](https://en.wikipedia.org/wiki/BSD_license) and is included with, or available as a plugin for, several [content-management systems](https://en.wikipedia.org/wiki/Content_management_system).
 
-## Technical Specifications
+## Technical Specifications of MD files
 
 When something is written in Markdown, the text is first stored in plaintext file with an extension of .md or .markdown, then markdown application such as Dillinger is used for processing of Markdown file to convert Markdown formatted text to HTML for displaying  it in web browsers. Markdown applications uses a //Markdown processor// (also commonly referred to as a “parser” or an “implementation”) to take the Markdown-formatted text and output it to HTML format. The flow diagram of the process is as below:
 
@@ -61,6 +61,20 @@ Markdown developers recently tried to standardize markdown, they joined together
 
 ### Multi-Markdown
 Multi-Markdown added various features to the language which are supported by other versions. Originally it was written in Perl, but later moved to C. It supports fenced codeblocks, syntax highlighting, tables, metadata, fragments/cross references links, footnotes, strikethrough, definition lists, math.
+
+## Why MarkDown?
+
+MD files are popular choice of use for the following reasons.
+
+1. **Simple Syntax:** Markdown uses a simple and intuitive syntax, which is easy to learn and write. The syntax is designed to be readable as plain text, making it accessible to users who are not familiar with HTML or other more complex markup languages.
+
+1. **Platform Independent:** Markdown files can be created and edited on any platform, including Windows, Mac, and Linux, as they are just plain text files. This makes them a popular choice for collaboration, especially in distributed teams where different team members may use different operating systems.
+
+1. **Portability:** Markdown files are portable, which means they can be easily converted to other formats such as HTML, PDF, and Word. This makes them an ideal format for creating documentation, blog posts, and other types of content that may need to be shared in different formats.
+
+1. **Version Control:** Markdown files can be easily tracked and managed using version control systems such as Git. This makes it easy to collaborate on documents with other team members, track changes over time, and revert to earlier versions if needed.
+
+1. **Accessibility:** Markdown files are accessible to users with disabilities as they can be easily converted to other formats such as Braille, audio, and screen-readable text.
 
 ## References
 

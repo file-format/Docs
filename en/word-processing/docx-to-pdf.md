@@ -70,7 +70,7 @@ Aspose.Words for Java API is a feature-rich API that enables Java application de
 
  * About - [Aspose.Words for Java](https://products.aspose.com/words/java/)
  * Installation Guide - [Aspose.Words for Java Installation](https://docs.aspose.com/words/java/installation/)
- * Convert DOCX to PDF in Java - [DOX to PDF Conversion guide](https://docs.aspose.com/words/java/convert-a-document-to-pdf/)
+ * Convert DOCX to PDF in Java - [DOCX to PDF Conversion guide](https://docs.aspose.com/words/java/convert-a-document-to-pdf/)
 
 ### Convert DOCX to PDF using Aspose.Words for C++
 
@@ -80,7 +80,7 @@ Aspose.Words for C++ is an on-premise API that can be used by C++ application de
 
  1. About - [Aspose.Words for C++](https://products.aspose.com/words/cpp/)
  1. Installation Guide - [Aspose.Words for C++ Installation](https://docs.aspose.com/words/cpp/installation/)
- 1. Convert DOCX to PDF in C++ - [DOX to PDF Conversion guide in C++](https://docs.aspose.com/words/cpp/convert-a-document-to-pdf/)
+ 1. Convert DOCX to PDF in C++ - [DOCX to PDF Conversion guide in C++](https://docs.aspose.com/words/cpp/convert-a-document-to-pdf/)
 
 ### Convert DOCX to PDF using Aspose.Words for Python via .NET
 
@@ -90,4 +90,4 @@ Aspose.Words for Python via .NET is a software package intended for reading and 
 
 1. About - [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)
 1. Installation Guide - [Aspose.Words for Python via .NET Installation](https://releases.aspose.com/words/python/)
-1. Convert DOCX to PDF in C++ - [DOX to PDF Conversion guide in Python via .NET](https://docs.aspose.com/words/python-net/convert-a-document/)
+1. Convert DOCX to PDF in C++ - [DOCX to PDF Conversion guide in Python via .NET](https://docs.aspose.com/words/python-net/convert-a-document/)
