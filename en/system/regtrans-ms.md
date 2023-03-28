@@ -44,5 +44,9 @@ When changes are made to the registry, the Registry Transaction Manager writes t
 
 The Registry Transaction Manager is an important part of the Windows operating system, and it helps to ensure the stability and reliability of the system. However, if there are issues with the REGTRANS-MS file or the transaction log files, it can cause problems with the registry and the operating system. In some cases, it may be necessary to delete the transaction log files and the REGTRANS-MS file to resolve issues with the registry. However, this should only be done as a last resort and under the guidance of a qualified technician.
 
+## Can I delete REGTRANS-MS file?
+
+Deleting this file may cause errors or issues with the operating system or installed software. It is possible that you may also experience problems with system stability, performance, or functionality. However, regtrans-ms files that were created prior to the last system boot can be safely deleted.
+
 ## References
 * [Windows Registry](https://en.wikipedia.org/wiki/Windows_Registry)
