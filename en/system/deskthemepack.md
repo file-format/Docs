@@ -13,7 +13,7 @@
   },
   "draft": "false",
   "toc": true,
-  "title": "DESKTHEMEPACK File Format - Hypertext Template",
+  "title": "DESKTHEMEPACK File Format - Windows 10 Desktop Theme Pack File",
   "description": "Learn about DESKTHEMEPACK format and APIs that can create and open DESKTHEMEPACK files.",
   "linktitle": "DESKTHEMEPACK",
   "menu": {
