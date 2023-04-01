@@ -27,10 +27,10 @@ You can convert DOCX to TXT files using free online DOCX to TXT converter by Asp
 With so much powerful APIs for working with DOCX files, Aspose offers **free** online apps for converting DOCX to TXT and other file formats. The benefits of using the online Aspose Apps include:
 
 1. `No Coding Required` - Just upload your file and get the converted document as Output
-1. `Fast and Precise` - Use the online conversion tool to convert your word files to PDF quickly and precisely
-1. `Completely Free` - Enough free conversions to let you Convert your documents to PDF and other popular formats
+1. `Fast and Precise` - Use the online conversion tool to convert your word files to TXT quickly and precisely
+1. `Completely Free` - Enough free conversions to let you Convert your documents to TXT and other popular formats
 
-**Want to try it?** Visit [Aspose.Words Converter App](https://products.aspose.app/words/conversion/docx-to-txt) for free conversion of DOCX to PDF.
+**Want to try it?** Visit [Aspose.Words Converter App](https://products.aspose.app/words/conversion/docx-to-txt) for free conversion of DOCX to TXT.
 
 ### Steps to Convert DOCX to TXT online
 

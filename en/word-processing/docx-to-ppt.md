@@ -22,7 +22,7 @@ Imagine you have a report in Microsoft Word DOCX file format from which you want
 
 ## Aspose.Words APIs for DOCX to Powerpoint PPT
 
-Aspose.Words is a set of APIs that lets any developer convert [DOCX](/word-processing/docx/) to [PPT](/presentation/ppt/) format using simple lines of code. It is available for many programming languages including [C#](/programming/cs/), [Java](/programming/java/), [Python](/programming/py/) and [C++](/programming/cpp/). In addition to PDF, Aspose.Words APIs let you convert DOCX files to many other popular file formats.
+Aspose.Words is a set of APIs that lets any developer convert [DOCX](/word-processing/docx/) to [PPT](/presentation/ppt/) format using simple lines of code. It is available for many programming languages including [C#](/programming/cs/), [Java](/programming/java/), [Python](/programming/py/) and [C++](/programming/cpp/). In addition to PPT, Aspose.Words APIs let you convert DOCX files to many other popular file formats.
 
 ## DOCX to PPT Conversion - Free Demo
 
