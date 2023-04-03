@@ -58,5 +58,13 @@ To open a Unity3D file, you need to have the Unity game engine installed on your
 
 If you want to open a specific scene file within the Unity3D project, you can do so by double-clicking on the scene file in the Project view within Unity. It is important to note that Unity3D files can only be opened and edited within the Unity editor. You cannot open Unity3D files in other applications or software, as they are specific to the Unity game engine.
 
+## What is Unity3D used for and is Unity3D free?
+
+Unity3D is a popular game engine used to develop video games, as well as other interactive content such as architectural visualizations, training simulations, and virtual reality experiences. It provides a robust set of tools and features for game development, including a visual editor, scripting tools, physics engine, and asset store.
+
+Unity3D is available in both free and paid versions. The free version, called Unity Personal, provides many of the same features as the paid version but has some limitations such as a lower revenue cap and lack of certain advanced features. The paid version, called Unity Plus or Unity Pro, offers additional features and support for larger projects and teams.
+
+Unity3D is also used in a variety of industries beyond gaming, such as automotive, film, and advertising, for creating interactive experiences and simulations.
+
 ## References
 * [Unity (game engine)](https://en.wikipedia.org/wiki/Unity_(game_engine))
