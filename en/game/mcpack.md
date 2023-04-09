@@ -28,7 +28,7 @@
 
 ## What is a MCPACK file?
 
-MCPACK file is a type of file format used by the Minecraft game. It is a compressed archive file that contains resources such as textures, sounds, and models that can be used to modify the game's behavior, appearance, and gameplay mechanics. MCPACK files are commonly used by players to install mods, resource packs, and other custom content into Minecraft. They are usually created using third-party tools such as Minecraft Add-Ons Studio or MCPack Utilities.
+MCPACK file format is a type of format used by Minecraft game and is a compressed archive file containing different types of resources e.g. sounds, textures and models. These resources could be used to modify the behavior, appearance and gameplay mechanics of the game. MCPACK files are generally used to install mods, resources and custom content in Minecraft game by players. Mostly, they are created using third party tools such a Minecraft Add-Ons Studio or MCPack Utilities.
 
 To use an MCPACK file, you need to first download it and then install it into the game. The installation process may vary depending on the platform and Minecraft version you are using, but typically involves importing the MCPACK file into the game's resource pack or behavior pack folder. It is important to note that MCPACK files can only be used on specific Minecraft platforms. For example, MCPACK files created for the Bedrock Edition of Minecraft can only be used on Windows 10, Xbox One, Nintendo Switch, iOS, and Android devices, while MCPACK files created for the Java Edition can only be used on desktop computers running the Java version of the game.
 
