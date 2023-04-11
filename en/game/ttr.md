@@ -27,13 +27,13 @@
 
 ## What is a TTR file?
 
-A TTR file is a game replay file created by TETR.IO, an online multiplayer Tetris game. TETR.IO saves replays of players' games in the form of TTR files, which can be watched later to review their gameplay or share with others.
+A TTR file is a game replay file created by TETR.IO, an online multiplayer Tetris game. TETR.IO saves replays of players’ games in the form of TTR files, which they can watch afterwards to evaluate their performance or to share with others.
 
 ## TTR File Format - More Information
 
-TETR.IO is a modern interpretation of the classic Tetris game, featuring competitive multiplayer gameplay with customizable controls, game modes, and other features. When a player completes a game in TETR.IO, the game records all the moves they made during that game, and saves it in a TTR file. The TTR file contains information about the game, such as the player's score, time played, and the sequence of blocks used.
+The famous Tetris game is updated in TETR.IO, which offers competitive multiplayer action with a variety of control options, game settings, and other features. When a game is finished in TETR.IO, the game keeps track of every move the player made and saves it as a TTR file. Information about the game, including the player's score, time spent playing, and the order of blocks utilized, may be found in the TTR file.
 
-TETR.IO allows players to import TTR files to replay their own games, as well as other players' games. This is useful for reviewing gameplay to identify areas for improvement, or to learn new strategies and techniques from other players.
+Players can import TTR files into TETR.IO to replay both their own games and the games of other players. This is helpful for looking back on games to find areas that can be improved upon or to pick up fresh tactics and methods from other players.
 
 TETR.IO also features a leaderboard system that tracks players' scores and other stats, allowing players to compete with each other for the top spots on the leaderboard. TTR files can be shared with other players, allowing them to watch and learn from each other's gameplay, and contribute to the growing community of TETR.IO players.
 
