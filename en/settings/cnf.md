@@ -31,9 +31,9 @@ A CNF file (also known as a configuration file) in MySQL is used to store config
 
 ## CNF File Format – More Information
 
-Here are the steps to create a CNF file for MySQL:
+You can create CNF using the following steps in MySQL:
 
-1. Open a text editor (such as Notepad or vi) and create a new file.
+1. Open a text editor e.g. Notepad and create a new file.
 2. Add the desired configuration options to the file, one per line. Here is an example:
 
 ```
@@ -56,13 +56,7 @@ Make sure to test any changes made to the CNF file in a non-production environme
 
 ## How to open CNF file?
 
-To open the MySQL CNF file, you can follow these steps:
-
-1. Locate the MySQL configuration file on your system. The file name is typically my.cnf or mysql.cnf, and it is usually located in the /etc/mysql/ directory.
-2. Open the file using a text editor of your choice. You can do this by right-clicking on the file and selecting "Open With" or by using the command line to open the file.
-3. Once the file is open, you can edit the configuration settings as needed. The CNF file contains various settings that affect the behavior of the MySQL server, such as the port number, buffer sizes, and logging options.
-4. When you have finished editing the file, save the changes and exit the text editor.
-5. Restart the MySQL server for the changes to take effect. You can do this by using the command line or by using a tool like systemctl or service to restart the MySQL service.
+CNF file is a text file and can be opened easily using any text editor like Notepad. You can also open it by right clicking and selecting "Open With" from the menu. Once, the file is open, you can edit the configuration settings as needed. CNF contains various settings related to MySQL server e.g. port number, logging options and buffer sizes. Once you have edited the settings, save the changes and close the text editor. Finally restart the MySQL server for changes to take effect.
 
 Note that it is important to be careful when editing the MySQL configuration file, as incorrect settings can cause the server to behave unpredictably or not start at all. It is recommended to make a backup of the original file before making any changes, so you can restore it if necessary.
 
