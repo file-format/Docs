@@ -32,8 +32,7 @@ The file extension for a VRChat World is VRCW. A ".vrcw" extension is added when
 
 Users of the well-known social virtual reality platform VRChat can design, personalize, and engage with 3D avatars and locations. Users from all around the world can connect, interact, and play games in a virtual setting. A broad variety of virtual reality headsets and controllers are supported by VRChat, and the platform may also be accessed using a standard desktop mode for those who do not own VR headsets.
 
-In VRChat, users can explore different worlds, which are created by other users in Unity and uploaded to the platform. They can also interact with other users through voice and text chat, and engage in various activities such as playing games, watching videos, or attending events.
-VRChat has gained popularity due to its creative and social nature, as well as its wide range of user-generated content.
+Users can explore various worlds in VRChat that have been made by other users in Unity and submitted to the service. Additionally, they can engage in numerous activities including playing games, viewing videos, or going to events while chatting with other users via voice and text. VRChat has grown in popularity as a result of its creative, social, and user-generated content diversity.
 
 ## How to open VRCW file?
 
