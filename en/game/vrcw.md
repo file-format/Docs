@@ -28,16 +28,16 @@
 
 ## What is a VRCW file?
 
-VRCW file is the file extension used for a VRChat World. When users create a 3D environment in Unity and upload it to VRChat, the file is saved with a ".vrcw" extension. These files contain all the necessary assets, scripts, and information needed to render the VRChat World in the VRChat application. Once uploaded, other users can explore and interact with the world in VRChat. To access VRCW files, users can navigate to the "Worlds" folder in their VRChat installation directory on their computer, where they can find and manage the worlds they have downloaded or created.
+The file extension for a VRChat World is VRCW. A ".vrcw" extension is added when users construct a 3D scene in Unity and upload it to VRChat. All the resources, scripts, and data required to render the VRChat World in the VRChat programme are contained in these folders. Other users can explore and engage with the world in VRChat after it has been uploaded. Users can find and manage the worlds they have downloaded or created by navigating to the "Worlds" folder in their VRChat installation directory on their computer.
 
-VRChat is a popular social virtual reality platform where users can create, customize, and interact with 3D avatars and environments. It allows users from around the world to meet, socialize, and play games together in a virtual space. VRChat supports a wide range of virtual reality headsets and controllers, as well as traditional desktop mode, which allows users to access the platform without a VR headset.
+Users of the well-known social virtual reality platform VRChat can design, personalize, and engage with 3D avatars and locations. Users from all around the world can connect, interact, and play games in a virtual setting. A broad variety of virtual reality headsets and controllers are supported by VRChat, and the platform may also be accessed using a standard desktop mode for those who do not own VR headsets.
 
 In VRChat, users can explore different worlds, which are created by other users in Unity and uploaded to the platform. They can also interact with other users through voice and text chat, and engage in various activities such as playing games, watching videos, or attending events.
 VRChat has gained popularity due to its creative and social nature, as well as its wide range of user-generated content.
 
 ## How to open VRCW file?
 
-To open a VRCW file, you will need to have VRChat installed on your computer. Once you have VRChat installed, follow these steps to open a VRCW file:
+You need VRChat installed on your computer in order to open a VRCW file. Once VRChat is installed, adhere to following instructions to open a VRCW file:
 
 1. Launch VRChat on your computer.
 2. Log in to your account or create a new one if you haven't already.
