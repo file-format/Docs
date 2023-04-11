@@ -26,9 +26,9 @@
 
 ## What is an OSS file?
 
-OSS file extension is associated with Microsoft Outlook Saved Search File. When you create a search folder in Microsoft Outlook to organize emails, contacts, or other items, it saves the search criteria in an “.oss” file. This file holds the criteria used to define the search folder and is used by Outlook to show the folder’s contents dynamically. The “.oss” file does not contain the actual items that are displayed in the search folder, but only the rules used to create the folder’s contents.
+OSS file extension is associated with Microsoft Outlook Saved Search File. When you create a search folder in Microsoft Outlook to organize emails, contacts, or other items, it saves the search criteria in an ".oss" file. This file holds the criteria used to define the search folder and is used by Outlook to show the folder's contents dynamically. The ".oss" file does not contain the actual items that are displayed in the search folder, but only the rules used to create the folder's contents.
 
-You can import or export ".oss" files to other Outlook profiles or computers to use the similar search criteria in different installations. To import an ".oss" file, you can use the “Import and Export” feature in Outlook, and to export an ".oss" file, you can right-click the search folder and pick "Export Search Folder."
+You can import or export ".oss" files to other Outlook profiles or computers to use the similar search criteria in different installations. To import an ".oss" file, you can use the "Import and Export" feature in Outlook, and to export an ".oss" file, you can right-click the search folder and pick "Export Search Folder."
 
 ## OSS File Format – More Information
 
