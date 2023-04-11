@@ -31,7 +31,7 @@ A file with the .sbv file extension is a SubViewer subtitle file. SubViewer is a
 
 SubViewer files are often used with YouTube videos, as YouTube supports the SubViewer format for its video captions. SubViewer files can also be used with other video players and software that support the format.
 
-To use a .sbv file with a video file, both the video file and the .sbv file should be located in the same folder and have the same filename (except for the file extension). Many video players will automatically load the .sbv file when playing the video if the files are named in this way. If you need to create or edit a .sbv file, there are several subtitle editing tools available that support the SubViewer format. Some popular tools include Subtitle Workshop, Subtitle Edit, and Aegisub.
+To use a .sbv file with a video file, both the video file and the .sbv file should be located in the same folder and have the same filename (except for the file extension). Many video players will automatically load the .sbv file when playing the video if the files are named in this way. There are various subtitle editing applications that support the SubViewer format if you need to generate or edit a .sbv file. Aegisub, Subtitle Workshop, and Subtitle Edit are a some of the often used tools.
 
 ## SBV File Format – More Information
 
