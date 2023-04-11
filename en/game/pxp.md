@@ -30,7 +30,7 @@ A PXP file is a game configuration file used by PODBot, a bot plugin for the pop
 
 PODBot is a plugin that lets players include computer-controlled bots in their games of the well-known first-person shooter Counter-Strike. Since its creation in 2002 by Stefan Hendricks, the plugin has been developed and maintained by a developer community. With bots that can move, shoot, and engage with the game environment much like human players, PODBot is made to offer a tough and realistic bot gameplay experience. The plugin has a number of features, including support for several game modes, team cooperation, and customisable bot behaviours and skill levels. “POD” in PODBots stands for "Playing Opposing Defense" Bot. 
 
-Players can use PXP files to customize the bot settings and behaviors, allowing them to create their own custom bots or download pre-made bots from online sources. This makes PODBots a popular choice for players who want to practice their gameplay skills or play the game when other human players are not available.
+Players can develop their own unique bots or download pre-made bots from web resources by customising the settings and behaviours of the bots using PXP files. Due to this, PODBots are a well-liked option for gamers who wish to hone their gaming skills or play the game when other human players are not around.
 
 ## How to use PXP with PODBot?
 
