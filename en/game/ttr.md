@@ -39,7 +39,7 @@ TETR.IO also features a leaderboard system that tracks players' scores and other
 
 ## How to open TTR file?
 
-To open a TTR file, you will need to have TETR.IO installed on your computer. Once you have TETR.IO installed, follow these steps to open a TTR file:
+To open a TTR file, you will need to have TETR.IO installed on your computer. Once you have TETR.IO installed, adhere to these steps to open a TTR file:
 
 1. Launch TETR.IO on your computer.
 2. Log in to your account or create a new one if you haven't already.
