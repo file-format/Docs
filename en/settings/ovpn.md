@@ -29,7 +29,7 @@
 
 An ovpn file is a configuration file used by OpenVPN, a popular open-source VPN (Virtual Private Network) software. It contains the settings and instructions needed for the OpenVPN client to connect to a VPN server.
 
-The contents of an ovpn file may vary depending on the VPN service provider, but typically it includes the following information:
+Depending on the VPN service provider, content of ovpn file can change, but normally it contains the following information:
 
 - The IP address or hostname of the VPN server
 - The port number to use for the VPN connection
@@ -38,7 +38,7 @@ The contents of an ovpn file may vary depending on the VPN service provider, but
 - The location of the user's certificate and private key files
 - Any additional settings or directives specific to the VPN service provider.
 
-To use an ovpn file, the user needs to have the OpenVPN client software installed on their device and then import the ovpn file into the client software. Once the file is imported, the user can connect to the VPN server by simply clicking a button in the client software.
+To use an ovpn file, the user needs to have the OpenVPN client software installed on their device and then import the ovpn file into the client software. Once file is imported, the user can connect to VPN server by simply clicking a button in the client software.
 
 ## Configuring OVPN file
 
