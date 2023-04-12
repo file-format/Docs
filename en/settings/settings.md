@@ -32,7 +32,7 @@ Developers can also create custom .settings files for projects and solutions rel
 
 ## SETTINGS File Format - More Information
 
-The .settings file consists of several sections, each containing one or more settings. Each setting is defined by a name and a value, and may also include other attributes, such as a description or a default value. 
+The .settings file consists of several sections each containing one or more settings. Each setting is defined by a name and a value, including other attributes e.g. description or default value.
 
 One of the key features of the .settings file is that it allows developers to create strongly-typed settings, which means that each setting has a specific data type and can be accessed and manipulated using code. This allows developers to easily store and retrieve application settings without having to write complex code or manage configuration files manually.
 
