@@ -27,19 +27,19 @@
 
 ## What is a LANG file?
 
-A Minecraft Language Localization File is a file format used by the game Minecraft to provide language translations for in-game text. These files have a .lang extension and contain key-value pairs that map game elements such as menus, achievements, and items to their translated names in a specific language.
+A Minecraft Language Localization File is file format used by game Minecraft to provide language translations for in-game text. These files have a .lang extension and contain key-value pairs that map game elements such as menus, achievements and items to their translated names in specific language.
 
-Minecraft supports multiple languages, and the game will automatically use the appropriate language file based on the player's language settings. The language files are stored in the "lang" folder within the game directory and can be modified by players to provide their own translations or to modify existing ones.
+Minecraft supports multiple languages, and game will automatically use appropriate language file based on player’s language settings. The language files are stored in the “lang” folder within game directory and can be modified by players to provide their own translations or to modify existing ones.
 
-Language localization is an essential feature of Minecraft as it allows players from around the world to enjoy the game in their native language, making it more accessible and enjoyable for a wider audience.
+Language localization is essential feature of Minecraft as it allows players from around the world to enjoy game in their native language, making it more accessible and enjoyable for wider audience.
 
 ## How to open LANG file?
 
-A Minecraft .lang file is a text file, and you can open it using any text editor that supports UTF-8 encoding. Here are the steps to open a .lang file:
+A Minecraft .lang file is a text file, and you can open it using any text editor that supports UTF-8 encoding. Here are the steps to open .lang file:
 
-1. Navigate to the folder where the .lang file is located. The default location for Minecraft language files is `minecraft/resourcepacks/<resource-pack>/assets/minecraft/lang/`, where `<resource-pack>` is the name of the resource pack you are using.
-  2. Right-click on the .lang file and select "Open With" from the context menu.
-  3. Choose a text editor from the list of programs or select "Choose another app" to browse for a different text editor.
+1. Navigate to the folder where .lang file is located. The default location for Minecraft language files is `minecraft/resourcepacks/<resource-pack>/assets/minecraft/lang/`, where `<resource-pack>` is the name of the resource pack you are using.
+  2. Right-click on .lang file and select "Open With" from context menu.
+  3. Choose a text editor from list of programs or select "Choose another app" to browse for a different text editor.
   4. If the text editor you want to use is not listed, click "More apps" and select "Look for another app on this PC" to browse for the program you want to use.
   5. Once you have selected the text editor, click "OK" to open the file.
 
