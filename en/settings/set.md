@@ -27,7 +27,7 @@
 
 ## What is a SET file?
 
-In the context of Xerox printers and copiers, a ".set" file extension can refer to a settings file that is used to configure device settings and options. When a Xerox printer or copier is set up or reconfigured, the device settings can be saved as a ".set" file. This file contains a record of the current settings, including options such as paper size, resolution, duplex printing, and so on.
+In the context of Xerox printers and copiers, ".set" file extension can refer to a settings file used to configure device settings and options. When Xerox printer or copier is set up or reconfigured, the device settings can be saved as ".set" file. This file contains a record of current settings, including options e.g paper size, resolution, duplex printing etc.
 
 The ".set" file can be used to save device settings for backup purposes or to transfer settings to another device. It can also be used to restore device settings after a firmware upgrade or to configure multiple devices with the same settings. To create a ".set" file, you typically need to access the device's web interface and navigate to the settings or configuration menu. From there, you can select the option to export or save the device settings as a ".set" file.
 
