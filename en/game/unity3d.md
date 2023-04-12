@@ -60,7 +60,7 @@ If you want to open a specific scene file within the Unity3D project, you can do
 
 ## What is Unity3D used for and is Unity3D free?
 
-Unity3D is a popular game engine used to develop video games, as well as other interactive content such as architectural visualizations, training simulations, and virtual reality experiences. It provides a robust set of tools and features for game development, including a visual editor, scripting tools, physics engine, and asset store.
+Unity3D is a popular game engine used to develop video games as well as other interactive content such as architectural visualizations, training simulations and virtual reality experiences. It provides a robust set of tools and features for game development, including a visual editor, scripting tools, physics engine, and asset store.
 
 Unity3D is available in both free and paid versions. The free version, called Unity Personal, provides many of the same features as the paid version but has some limitations such as a lower revenue cap and lack of certain advanced features. The paid version, called Unity Plus or Unity Pro, offers additional features and support for larger projects and teams.
 
