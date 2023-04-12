@@ -47,8 +47,8 @@ To configure OpenVPN using an ovpn file, follow these steps:
 1. Install the OpenVPN client software on your device.
 2. Open the OpenVPN client software and click on the "Import" button to import the ovpn file.
 3. Browse to the directory where you have saved the ovpn file and select it.
-4. The client software will import the file and display the configuration settings in the interface.
-5. Enter your VPN login credentials if required.
+4. The client software will import the file and display the configuration settings inside the interface.
+5. Enter your VPN login credentials if there is a need.
 6. Once the ovpn file is imported and the login credentials are entered, click the "Connect" button to establish a connection with the VPN server.
 7. Wait for the connection to be established. Once the connection is established, you can use the internet as if you are connected to the VPN server location.
 
