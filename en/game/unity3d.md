@@ -41,14 +41,14 @@ Some of the key features of Unity editor include:
 
 - Scene view: A real-time view of the game world, allowing developers to move and manipulate objects in the scene.
 - Inspector: A window that displays the properties of currently selected game object or asset.
-- Hierarchy view: A list of all game objects in the scene, organized in a tree structure.
-- Project view: A list of all assets used in the project, including scripts, textures, models, and audio files.
+- Hierarchy view: A list of all game objects in scene, organized in a tree structure.
+- Project view: A list of all assets used in project, including scripts, textures, models, and audio files.
 - Animation window: A tool for creating and editing animations.
-- Audio mixer: A tool for mixing and controlling audio in the game.
+- Audio mixer: A tool for mixing and controlling audio in game.
 
 ## How to open Unity3D file?
 
-To open a Unity3D file, you need to have the Unity game engine installed on your computer. Once you have installed Unity, you can open Unity3D files by following these steps:
+To open a Unity3D file, you need to have the Unity game engine installed on your computer. Once you have installed Unity, you can open Unity3D files by following the mentioned steps:
 
 1. Launch Unity on your computer.
 2. In the Unity editor, click on the "Open" button in the start screen, or go to "File" > "Open Project" in the menu bar.
