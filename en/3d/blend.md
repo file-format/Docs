@@ -27,7 +27,7 @@
 
 ## What is a BLEND file?
 
-A blend file is a file format utilized by Blender, a widely-used 3D modeling and animation software. It is the default file format used by Blender to save and store all the data related to a 3D scene, including 3D models, materials, textures, animations, and more.
+A blend file is a file format utilized by Blender, a widely-used 3D modeling and animation software. It is the default file format used by Blender to save and store all the data related to a 3D scene, including 3D models, materials, textures, animations, and more..
 
 The blend file format is a binary file which organizes and stores data in the form of hierarchical structures. These hierarchical structures contain information about the objects and their properties in a 3D scene. The relationship between the 3D scene are also stored in these files. All this information is used by Blender to render the scene in real-time. The blend file also contains information that can be used by Blender to export it to other file formats, such as Collada, FBX, OBJ etc.
 
