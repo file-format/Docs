@@ -27,21 +27,21 @@
 
 ## What is a THEMEPACK file?
 
-THEMEPACK is a file extension used for Windows theme packs. A theme pack is a collection of visual elements, such as desktop backgrounds, window colors, sounds, and screensavers, that can be easily installed on a Windows computer to customize its appearance.
+THEMEPACK is a file extension used for Windows theme packs. A theme pack is a collection of visual elements such as desktop backgrounds, window colors, sounds, and screensavers that can be easily installed on a Windows computer to customize its appearance.
 
 To install a Windows 7 theme pack, follow these steps:
 
-1. Download the theme pack file from a trusted source. You can find theme packs on various websites or through a web search.
-2. Double-click the downloaded file to open it. Windows will prompt you to confirm that you want to install the theme pack.
-3. Click "Install" to begin the installation process. The theme pack will be extracted and installed on your computer.
-4. Once the installation is complete, right-click on the desktop and select "Personalize" from the context menu.
-5. From the Personalization window, you can select the new theme pack by clicking on it. This will apply the new visual elements to your desktop, such as the wallpaper, icons, and color scheme.
+1. Download theme pack file from trusted source. You can find theme packs on various websites or with web search.
+2. Double click downloaded file. Windows will prompt you to confirm if you want to install theme pack.
+3. Click "Install" to begin the installation process. Theme pack will be extracted and installed on your computer.
+4. Once installation is complete, right-click on the desktop and select "Personalize" from context menu.
+5. From Personalization window, you can select new theme pack by clicking on it. This applies the new visual elements to your desktop, such as wallpaper, icons and color scheme.
 
-Note that some theme packs may come with additional software or bundled applications, so it is important to be careful when downloading and installing them. It is recommended to only download theme packs from trusted sources to avoid potential security risks.
+Some theme packs might come with additional software or bundled applications, so it is important to be careful when downloading and installing them. Only download theme packs from trusted sources to avoid potential security risks.
 
 ## THEMEPACK File Format – More Information
 
-When you double-click on a THEMEPACK file, Windows will automatically open the file and install the theme pack. The new theme will be applied to your desktop, and you can customize it further by selecting different options from the Personalization menu.
+When you double-click on THEMEPACK file, Windows automatically open the file and install the theme pack. New theme will be applied to your desktop, and you can customize it further by selecting different options from the Personalization menu.
 
 You can also create your own theme packs by customizing the visual elements on your desktop and saving them as a theme pack file. To do this, right-click on the desktop and select "Personalize," then make your desired changes and click "Save theme" from the Personalization window. This will create a new THEMEPACK file that you can share with others or use on another Windows computer.
 
