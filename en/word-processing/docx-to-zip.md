@@ -44,7 +44,7 @@ This variety of support for different programming languages gives you the opport
 
 ## Convert DOCX to ZIP in .NET, Java, C++ and Python
 
-You can convert DOCX file to HTML in your **C#**, **Java**, **C++** and **Python** applications as shown in the following sections.
+You can convert DOCX file to ZIP in your **C#**, **Java**, **C++** and **Python** applications as shown in the following sections.
 
 ### Aspose.Words for .NET Resources
 
