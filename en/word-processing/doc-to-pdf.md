@@ -22,7 +22,7 @@ DOC files have been in use for quite long time before Microsoft introduced DOCX 
 
 ## DOC vs PDF
 
-DOCX and PDF are popular document file formats for writing content and sharing. We provide a comparison of both these file formats by comparing their features as below.
+DOC and PDF are popular document file formats for writing content and sharing. We provide a comparison of both these file formats by comparing their features as below.
 
 |Features|DOC|PDF|
 |---|---|---|
@@ -36,7 +36,7 @@ DOCX and PDF are popular document file formats for writing content and sharing. 
 
 ## Aspose.Words APIs
 
-Aspose.Words suite of APIs lets any developer convert [DOC](/word-processing/doc/) to [PDF](/pdf/) format with just a few lines of code. It is available for many programming languages including C#, Java, Python and C++. In addition to PDF, Aspose.Words APIs let you convert DOCX files to many other popular file formats.
+Aspose.Words suite of APIs lets any developer convert [DOC](/word-processing/doc/) to [PDF](/pdf/) format with just a few lines of code. It is available for many programming languages including C#, Java, Python and C++. In addition to PDF, Aspose.Words APIs let you convert DOC files to many other popular file formats.
 
 ## Aspose.Words Resources
 
