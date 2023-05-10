@@ -73,7 +73,7 @@ Here are some of the settings that can be stored in a PC3 file:
 - **Resolution:** This specifies resolution at which drawing will be printed or plotted, which affects how sharp and detailed it will look.
 - **Other options:** There are many other options that can be set in PC3 file, such as print quality, orientation, margins, shading and more.
 
-By creating and using PC3 file that contains correct settings for your specific printer or plotter, you can ensure that your drawings are printed or plotted accurately and with consistent quality.
+By creating and using PC3 file that contains correct settings for your specific printer or plotter, you can ensure that your drawings are printed or plotted accurately and with consistent quality..
 
 ## References
 * [PC3 in AutoCAD](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Creating-plotter-configuration-files-PC3.html)
