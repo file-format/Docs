@@ -32,7 +32,7 @@ JSF file is a script command file created by Adobe Fireworks, a popular graphics
 
 Once you have created JSF file, you can execute it in Fireworks to automate repetitive tasks such as resizing and exporting multiple images. You can also share your JSF files with other Fireworks users to help them streamline their workflow.
 
-To execute JSF file in Fireworks, you can go to Commands menu and select "Run Command". Then, navigate to location of JSF file on your computer and select it. Fireworks will then execute commands in the file.
+To execute JSF file in Fireworks, you can go to Commands menu and select "Run Command". Then, navigate to location of JSF file on your computer and select it. Fireworks will then execute commands in the file. 
 
 ## What does JSF file contain?
 
