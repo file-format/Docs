@@ -48,12 +48,12 @@ When рrоgrаmming in Рrосessing, аll аdditiоnаl сlаsses defined will 
 ## PDE File Format Example ##
 
 
-```{java}
+```
 // This prints "Hello World." to the IDE console.
 println("Hello World.");
 ```
 
-```{java}
+```
 // Hello mouse.
 void setup() {
   size(400, 400);
