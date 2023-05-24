@@ -1,12 +1,12 @@
 {
   "date": "2023-05-09",
   "keywords": [
-    "jsx file",
-    "what is a jsx file",
-    "what is the format of jsx file",
-    "what does jsx file contain",
+    "jsf file",
+    "what is a jsf file",
+    "what is the format of jsf file",
+    "what does jsf file contain",
     "file",
-    "jsx file extension",
+    "jsf file extension",
     "extension"
   ],
   "author": {
@@ -14,19 +14,19 @@
   },
   "draft": "false",
   "toc": true,
-  "title": "JSX File Format - Java Script Command File",
-  "description": "Learn about JSX format and APIs that can create and open JSX files.",
-  "linktitle": "JSX",
+  "title": "JSF File Format - Java Script Command File",
+  "description": "Learn about JSF format and APIs that can create and open JSF files.",
+  "linktitle": "JSF",
   "menu": {
     "docs": {
-      "identifier": "executable-jsx",
+      "identifier": "executable-jsf",
       "parent": "executable"
     }
   },
   "lastmod": "2023-05-09"
 }
 
-## What is a JSX file?
+## What is a JSF file?
 
 JSF file is a script command file created by Adobe Fireworks, a popular graphics editor application. In Adobe Fireworks, you can create and record series of steps that you perform repeatedly in application. This series of steps is called "script" and can be saved as JSF file. The JSF file contains list of commands that Fireworks can execute to perform recorded actions.
 
