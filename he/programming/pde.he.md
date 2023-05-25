@@ -48,12 +48,12 @@
 ## דוגמה לפורמט קובץ PDE ##
 
 
-```{java}
+```
 // This prints "Hello World." to the IDE console.
 println("Hello World.");
 ```
 
-```{java}
+```
 // Hello mouse.
 void setup() {
   size(400, 400);

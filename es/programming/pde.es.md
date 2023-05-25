@@ -48,12 +48,12 @@ El procesamiento también permite a los usuarios crear sus propias clases dentro
 ## Ejemplo de formato de archivo PDE ##
 
 
-```{java}
+```
 // This prints "Hello World." to the IDE console.
 println("Hello World.");
 ```
 
-```{java}
+```
 // Hello mouse.
 void setup() {
   size(400, 400);

@@ -48,12 +48,12 @@
 ## पीडीई फ़ाइल स्वरूप उदाहरण ##
 
 
-```{java}
+```
 // This prints "Hello World." to the IDE console.
 println("Hello World.");
 ```
 
-```{java}
+```
 // Hello mouse.
 void setup() {
   size(400, 400);

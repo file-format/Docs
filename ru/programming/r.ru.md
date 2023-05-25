@@ -45,7 +45,7 @@ R является интерпретирующим языком, и для до
 
 ### Синтаксис ###
 
-```{r}
+```
 > x <- 1:6 # Create a numeric vector in the current environment
 > y <- x^2 # Create vector based on the values in x.
 > print(y) # Print the vector’s contents.
@@ -99,7 +99,7 @@ two 20 30 42
 
 ### Функция ###
 
-```{r}
+```
 # Declare function “f” with parameters “x”, “y“
 # that returns a linear combination of x and y.
 f <- function(x, y) {
@@ -108,7 +108,7 @@ f <- function(x, y) {
 }
 ```
 
-```{r}
+```
 > f(1, 2)
 [1] 11
 
@@ -121,7 +121,7 @@ f <- function(x, y) {
 
 ### Моделирование данных
 
-```{r}
+```
 > x <- 1:6 # Create x and y values
 > y <- x^2  
 > model <- lm(y ~ x)  # Linear regression model y = A + B * x.

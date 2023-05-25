@@ -48,12 +48,12 @@ Sinсe 2001, Рrосessing은 시각 예술 내에서 문학과 기술 내에서
 ## PDE 파일 형식 예 ##
 
 
-```{java}
+```
 // This prints "Hello World." to the IDE console.
 println("Hello World.");
 ```
 
-```{java}
+```
 // Hello mouse.
 void setup() {
   size(400, 400);

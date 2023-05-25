@@ -48,12 +48,12 @@ Geliştirmede programlama yaparken, kod derlemeden önce gerçek Java'ya çevril
 ## PDE Dosya Biçimi Örneği ##
 
 
-```{java}
+```
 // This prints "Hello World." to the IDE console.
 println("Hello World.");
 ```
 
-```{java}
+```
 // Hello mouse.
 void setup() {
   size(400, 400);

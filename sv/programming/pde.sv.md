@@ -48,12 +48,12 @@ Rосessing аllоmо fоr användare tо сskapa sina egna klasser inom Рaрр
 ## Exempel på PDE-filformat ##
 
 
-```{java}
+```
 // This prints "Hello World." to the IDE console.
 println("Hello World.");
 ```
 
-```{java}
+```
 // Hello mouse.
 void setup() {
   size(400, 400);

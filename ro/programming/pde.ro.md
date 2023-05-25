@@ -48,12 +48,12 @@ De asemenea, procesarea permite utilizatorilor să-și creeze propriile clase î
 ## Exemplu de format de fișier PDE ##
 
 
-```{java}
+```
 // This prints "Hello World." to the IDE console.
 println("Hello World.");
 ```
 
-```{java}
+```
 // Hello mouse.
 void setup() {
   size(400, 400);

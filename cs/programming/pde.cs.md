@@ -48,12 +48,12 @@ Při programování v Рrосessing budou všechny další definované třídy p
 ## Příklad formátu souboru PDE ##
 
 
-```{java}
+```
 // This prints "Hello World." to the IDE console.
 println("Hello World.");
 ```
 
-```{java}
+```
 // Hello mouse.
 void setup() {
   size(400, 400);

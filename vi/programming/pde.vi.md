@@ -48,12 +48,12 @@ Khi lập trình trong Рrосessing, tất cả các lớp bổ sung được x
 ## Ví dụ về định dạng tệp PDE ##
 
 
-```{java}
+```
 // This prints "Hello World." to the IDE console.
 println("Hello World.");
 ```
 
-```{java}
+```
 // Hello mouse.
 void setup() {
   size(400, 400);

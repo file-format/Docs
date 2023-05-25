@@ -48,12 +48,12 @@ Durante la programmazione in Рrосessing, tutte le classi aggiuntive definite 
 ## Esempio di formato file PDE ##
 
 
-```{java}
+```
 // This prints "Hello World." to the IDE console.
 println("Hello World.");
 ```
 
-```{java}
+```
 // Hello mouse.
 void setup() {
   size(400, 400);

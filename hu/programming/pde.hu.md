@@ -48,12 +48,12 @@ A Росessо azt is lehetővé teszi a felhasználóknak, hogy saját osztálya
 ## PDE fájlformátum példa ##
 
 
-```{java}
+```
 // This prints "Hello World." to the IDE console.
 println("Hello World.");
 ```
 
-```{java}
+```
 // Hello mouse.
 void setup() {
   size(400, 400);
