@@ -45,7 +45,7 @@ R language supports procedural programming along with the functions. However, fo
 
 ### Syntax ###
 
-```{r}
+```
 > x <- 1:6 # Create a numeric vector in the current environment
 > y <- x^2 # Create vector based on the values in x.
 > print(y) # Print the vector’s contents.
@@ -99,7 +99,7 @@ two 20 30 42
 
 ### Function ###
 
-```{r}
+```
 # Declare function “f” with parameters “x”, “y“
 # that returns a linear combination of x and y.
 f <- function(x, y) {
@@ -121,7 +121,7 @@ f <- function(x, y) {
 
 ### Data Modeling
 
-```{r}
+```
 > x <- 1:6 # Create x and y values
 > y <- x^2  
 > model <- lm(y ~ x)  # Linear regression model y = A + B * x.
