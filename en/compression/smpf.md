@@ -42,7 +42,7 @@ A sprite image is usually a standalone graphic that represents single frame or p
 
 Sprite images are commonly used in various applications including video games, mobile apps, web development and graphical user interfaces. They provide a flexible and efficient way to represent objects, characters, icons, buttons and other graphical elements, allowing for dynamic and visually appealing experiences for users.
 
-Sprites are typically stored as separate image files such as PNG, JPEG or GIF and are often organized in sprite sheets, which are single images that contain multiple sprite frames arranged in a grid. These sprite sheets help optimize memory usage and facilitate efficient rendering of multiple sprites simultaneously.
+Sprites are typically stored as separate image files such as PNG, JPEG or GIF and are often organized in sprite sheets, which are single images that contain multiple sprite frames arranged in a grid. These sprite sheets help optimize memory usage and facilitate efficient rendering of multiple sprites simultaneously..
 
 ## References
 * [Sprite (computer graphics)](https://en.wikipedia.org/wiki/Sprite_(computer_graphics))
