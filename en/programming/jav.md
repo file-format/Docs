@@ -4,8 +4,8 @@ author:
   display_name: Kashif Iqbal
 draft: false
 toc: true
-title: Java File Format
-linktitle: Java
+title: Jav File Format - Java Source File
+linktitle: Jav
 description: Learn about Jav file format and APIs that can create and open Jav files.
 menu:
   docs:
