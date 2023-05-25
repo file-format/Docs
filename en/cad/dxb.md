@@ -58,7 +58,7 @@ DXB (Drawing Exchange Binary) file contains binary data that represent 2D vector
 
 When CAD program exports a drawing to DXB format, it creates binary file that contains all the information necessary to recreate the drawing in another CAD program that supports DXB. This includes information about location, size, color and style of each object in the drawing as well as any text or annotations that may be included.
 
-Because DXB files are stored in binary format, they are typically smaller in size and faster to load than DXF (Drawing Exchange Format) files, which are stored in plain text. However, DXB files can only be read by CAD programs that support the DXB format, whereas DXF files can be read by wider range of programs.
+Because DXB files are stored in binary format, they are typically smaller in size and faster to load than DXF (Drawing Exchange Format) files, which are stored in plain text. However, DXB files can only be read by CAD programs that support the DXB format, whereas DXF files can be read by wider range of programs..
 
 ## References
 * [DXB File Format](http://web.archive.org/web/20060824054154/https://www.autodesk.com/techpubs/autocad/acadr14/dxf/the_dxb_file_format_al_u05_b.htm)
