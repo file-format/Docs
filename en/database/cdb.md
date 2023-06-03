@@ -21,9 +21,11 @@
 The CDB files are used in mission-critical applications like email. The CDB stands for "constant database", a fast, reliable and simple package for creating or reading constant databases. Database replacement is safe against system crashes. Users don't have to pause during a rewrite. CDB performs as an associative array (on-disk), mapping keys to values, and enables multiple values to be stored in a single key.
 
 ## CDB File Format
+
 The CDB file format stores numbers, offsets, lengths, and hash values in little endian format as unsigned 32-bit integers. Keys and data are thought to be opaque byte strings with no special treatment. At the beginning of the database, the fixed-size header represents 256 hash tables by listing their position within the file and their length in slots. Usually the data is stored as a sequence of records, each record stores key length, data length, key, and data. There are no sorting or alignment rules. The records are followed by a set of 256 hash tables of varying lengths. Since zero is a valid length, there may be fewer than 256 hash tables physically stored in the database, but there are nothing considered to be 256 tables. Hash tables consists of a series of slots, each of which contains a hash value and a record offset. "Empty slots" have an offset of zero.
 
-### Structure
+### Structure of CDB File Format
+
 CDB database consists of an entire dataset in a single computer file. It contains three parts: 
 - A fixed-size header 
 - Data
