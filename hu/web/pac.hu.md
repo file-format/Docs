@@ -69,5 +69,5 @@ function FindProxyForURL(url, host) {
 ```
 ## Hivatkozások
 
-* [Mi az a PAC-fájl?](http://findproxyforurl.com/pac-file-introduction/)
+* [Mi az a PAC-fájl?](https://findproxyforurl.com/)
 

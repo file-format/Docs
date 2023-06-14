@@ -69,5 +69,5 @@ function FindProxyForURL(url, host) {
 ```
 ## 参考
 
-* [什么是 PAC 文件？](http://findproxyforurl.com/pac-file-introduction/)
+* [什么是 PAC 文件？](https://findproxyforurl.com/)
 

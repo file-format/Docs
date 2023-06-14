@@ -28,7 +28,7 @@ Az ATOM fájlokat a népszerű XML fájlformátumban tárolják és teszik közz
 
 ### Az atomdokumentumok típusai
 
-1. "Atom belépési dokumentumok" - Ez egy XML-dokumentum, amely egyetlen információból, néven bejegyzésből áll az Atom feedhez. Van benne egy<atom:entry> elem, amely számos gyermek elemet tartalmaz. Az Atom bejegyzés tartalma lehet egyszerű szöveg, HTML, XHTML vagy más IANA (Internet Assigned Numbers Authority) médiatípus.
+1. "Atom belépési dokumentumok" - Ez egy XML-dokumentum, amely egyetlen információból, néven bejegyzésből áll az Atom feedhez. Van benne egy atom:entry elem, amely számos gyermek elemet tartalmaz. Az Atom bejegyzés tartalma lehet egyszerű szöveg, HTML, XHTML vagy más IANA (Internet Assigned Numbers Authority) médiatípus.
 1. "Atom Feed Documents" – Ez egy XML-dokumentum, amely metaadatokat tartalmaz egy Atom feedről és egy vagy több bejegyzést a hírfolyamhoz. Amikor egy kliens információkérést kér a hírfolyamból, a hírcsatorna-dokumentumot a szerver hozza létre, amely számos Atom-bejegyzést tartalmaz a kérés teljesítéséhez.
 1. "Atom Collection" – Ez egy speciális típusú Atom feed dokumentum, amely tartalmazza a szerkeszthető Atom bejegyzések URL-címét.
 

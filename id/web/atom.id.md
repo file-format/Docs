@@ -28,7 +28,7 @@ File ATOM disimpan dan diterbitkan dalam format file XML populer yang merupakan 
 
 ### Jenis Dokumen Atom
 
-1. `Dokumen Entri Atom` - Ini adalah dokumen XML yang terdiri dari satu item informasi, dikenal sebagai entri, untuk umpan Atom. Ini memiliki<atom:entry> elemen yang berisi sejumlah elemen anak. Konten entri Atom dapat berupa teks biasa, HTML, XHTML, atau jenis media IANA (Internet Assigned Numbers Authority) lainnya.
+1. `Dokumen Entri Atom` - Ini adalah dokumen XML yang terdiri dari satu item informasi, dikenal sebagai entri, untuk umpan Atom. Ini memiliki atom:entry elemen yang berisi sejumlah elemen anak. Konten entri Atom dapat berupa teks biasa, HTML, XHTML, atau jenis media IANA (Internet Assigned Numbers Authority) lainnya.
 1. `Dokumen Umpan Atom` - Ini adalah dokumen XML yang menyediakan metadata tentang umpan Atom dan satu atau beberapa entri untuk umpan. Saat klien membuat permintaan informasi dari umpan, dokumen umpan dihasilkan oleh server yang mencakup sejumlah entri Atom untuk memenuhi permintaan tersebut.
 1. `Koleksi Atom` - Ini adalah jenis dokumen umpan Atom khusus yang berisi URL entri Atom yang tersedia untuk diedit.
 

@@ -28,7 +28,7 @@ Fișierele ATOM sunt stocate și publicate în formatul popular de fișier XML, 
 
 ### Tipuri de documente Atom
 
-1. `Atom Entry Documents` - Este un document XML care constă dintr-un singur element de informație, cunoscut sub numele de intrare, pentru fluxul Atom. Are un<atom:entry> element care conține un număr de elemente copil. Conținutul unei intrări Atom poate fi text simplu, HTML, XHTML sau alt tip media IANA (Internet Assigned Numbers Authority).
+1. `Atom Entry Documents` - Este un document XML care constă dintr-un singur element de informație, cunoscut sub numele de intrare, pentru fluxul Atom. Are un atom:entry element care conține un număr de elemente copil. Conținutul unei intrări Atom poate fi text simplu, HTML, XHTML sau alt tip media IANA (Internet Assigned Numbers Authority).
 1. `Atom Feed Documents` - Este un document XML care furnizează metadate despre un feed Atom și una sau mai multe intrări pentru feed. Când un client face o cerere de informații din feed, documentul de feed este generat de server care include un număr de intrări Atom pentru a îndeplini cererea.
 1. „Colecția Atom” - Este un tip special de document de feed Atom care conține adresele URL ale intrărilor Atom care sunt disponibile pentru a fi editate.
 

@@ -28,7 +28,7 @@ Les fichiers ATOM sont stockés et publiés dans le format de fichier XML popula
 
 ### Types de documents Atom
 
-1. `Documents d'entrée Atom` - Il s'agit d'un document XML qui consiste en un seul élément d'information, connu sous le nom d'entrée, pour le flux Atom. Il a un<atom:entry> élément qui contient un certain nombre d'éléments enfants. Le contenu d'une entrée Atom peut être du texte brut, HTML, XHTML ou un autre type de média IANA (Internet Assigned Numbers Authority).
+1. `Documents d'entrée Atom` - Il s'agit d'un document XML qui consiste en un seul élément d'information, connu sous le nom d'entrée, pour le flux Atom. Il a un atom:entry élément qui contient un certain nombre d'éléments enfants. Le contenu d'une entrée Atom peut être du texte brut, HTML, XHTML ou un autre type de média IANA (Internet Assigned Numbers Authority).
 1. `Documents de flux Atom` - Il s'agit d'un document XML qui fournit des métadonnées sur un flux Atom et une ou plusieurs entrées pour le flux. Lorsqu'un client fait une demande d'informations à partir du flux, le document de flux est généré par le serveur qui comprend un certain nombre d'entrées Atom pour répondre à la demande.
 1. `Collection Atom` - Il s'agit d'un type spécial de document de flux Atom qui contient les URL des entrées Atom pouvant être modifiées.
 

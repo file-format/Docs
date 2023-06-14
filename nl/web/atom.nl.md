@@ -28,7 +28,7 @@ ATOM-bestanden worden opgeslagen en gepubliceerd in het populaire XML-bestandsfo
 
 ### Soorten Atom-documenten
 
-1. `Atom Entry Documents` - Het is een XML-document dat bestaat uit een enkel informatie-item, ook wel entry genoemd, voor de Atom-feed. Het heeft een<atom:entry> element dat een aantal onderliggende elementen bevat. De inhoud van een Atom-item kan platte tekst, HTML, XHTML of een ander IANA-mediatype (Internet Assigned Numbers Authority) zijn.
+1. `Atom Entry Documents` - Het is een XML-document dat bestaat uit een enkel informatie-item, ook wel entry genoemd, voor de Atom-feed. Het heeft een atom:entry element dat een aantal onderliggende elementen bevat. De inhoud van een Atom-item kan platte tekst, HTML, XHTML of een ander IANA-mediatype (Internet Assigned Numbers Authority) zijn.
 1. `Atom Feed Documents` - Het is een XML-document dat metadata verschaft over een Atom-feed en een of meer items voor de feed. Wanneer een client een verzoek om informatie uit de feed doet, wordt het feeddocument gegenereerd door de server die een aantal Atom-vermeldingen bevat om aan het verzoek te voldoen.
 1. `Atom Collection` - Het is een speciaal soort Atom-feeddocument dat de URL's van Atom-items bevat die kunnen worden bewerkt.
 

@@ -28,7 +28,7 @@ ATOM 文件以流行的 XML 文件格式存储和发布，这是一种用于信�
 
 ### Atom 文档的类型
 
-1. `Atom Entry Documents` - 它是一个 XML 文档，由 Atom 提要的单个信息项（称为条目）组成。它有一个<atom:entry>包含许多子元素的元素。 Atom 条目的内容可以是纯文本、HTML、XHTML 或其他 IANA（互联网号码分配机构）媒体类型。
+1. `Atom Entry Documents` - 它是一个 XML 文档，由 Atom 提要的单个信息项（称为条目）组成。它有一个atom:entry包含许多子元素的元素。 Atom 条目的内容可以是纯文本、HTML、XHTML 或其他 IANA（互联网号码分配机构）媒体类型。
 1. `Atom Feed Documents` - 它是一种 XML 文档，提供有关 Atom 提要的元数据以及提要的一个或多个条目。当客户端从提要中请求信息时，提要文档由服务器生成，其中包括许多用于满足请求的 Atom 条目。
 1. `Atom Collection` - 它是一种特殊的 Atom 提要文档，包含可编辑的 Atom 条目的 URL。
 

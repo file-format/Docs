@@ -69,5 +69,5 @@ function FindProxyForURL(url, host) {
 ```
 ## 참고문헌
 
-* [PAC 파일이란?](http://findproxyforurl.com/pac-file-introduction/)
+* [PAC 파일이란?](https://findproxyforurl.com/)
 

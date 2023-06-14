@@ -69,5 +69,5 @@ function FindProxyForURL(url, host) {
 ```
 ## Người giới thiệu
 
-* [Tệp PAC là gì?](http://findproxyforurl.com/pac-file-introduction/)
+* [Tệp PAC là gì?](https://findproxyforurl.com/)
 

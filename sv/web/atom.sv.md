@@ -28,7 +28,7 @@ ATOM-filer lagras och publiceras i det populära XML-filformatet som är ett uni
 
 ### Typer av Atom-dokument
 
-1. `Atom Entry Documents` - Det är ett XML-dokument som består av en enda informationspost, känd som entry, för Atom-flödet. Den har en<atom:entry> element som innehåller ett antal underordnade element. Innehållet i en Atom-post kan vara vanlig text, HTML, XHTML eller en annan IANA-mediatyp (Internet Assigned Numbers Authority).
+1. `Atom Entry Documents` - Det är ett XML-dokument som består av en enda informationspost, känd som entry, för Atom-flödet. Den har en atom:entry element som innehåller ett antal underordnade element. Innehållet i en Atom-post kan vara vanlig text, HTML, XHTML eller en annan IANA-mediatyp (Internet Assigned Numbers Authority).
 1. `Atom Feed Documents` - Det är ett XML-dokument som tillhandahåller metadata om ett Atom-flöde och en eller flera poster för flödet. När en klient gör en begäran om information från flödet, genereras flödesdokumentet av servern som inkluderar ett antal Atom-poster för att uppfylla begäran.
 1. `Atom Collection` - Det är en speciell typ av Atom-flödesdokument som innehåller URL:erna till Atom-poster som är tillgängliga för redigering.
 

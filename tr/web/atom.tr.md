@@ -28,7 +28,7 @@ ATOM dosyaları, bilgi alışverişi için evrensel bir format olan popüler XML
 
 ### Atom Belgesi Türleri
 
-1. `Atom Giriş Belgeleri` - Atom beslemesi için giriş olarak bilinen tek bir bilgi öğesinden oluşan bir XML belgesidir. bir var<atom:entry> bir dizi alt öğe içeren öğe. Bir Atom girişinin içeriği düz metin, HTML, XHTML veya başka bir IANA (Internet Assigned Numbers Authority) ortam türü olabilir.
+1. `Atom Giriş Belgeleri` - Atom beslemesi için giriş olarak bilinen tek bir bilgi öğesinden oluşan bir XML belgesidir. bir var atom:entry bir dizi alt öğe içeren öğe. Bir Atom girişinin içeriği düz metin, HTML, XHTML veya başka bir IANA (Internet Assigned Numbers Authority) ortam türü olabilir.
 1. `Atom Besleme Belgeleri' - Bir Atom beslemesi ve besleme için bir veya daha fazla giriş hakkında meta veriler sağlayan bir XML belgesidir. Bir müşteri beslemeden bilgi talebinde bulunduğunda, talebi yerine getirmek için bir dizi Atom girişi içeren besleme belgesi sunucu tarafından oluşturulur.
 1. "Atom Koleksiyonu" - Düzenlenmeye açık Atom girişlerinin URL'lerini içeren özel bir Atom besleme belgesi türüdür.
 

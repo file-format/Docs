@@ -69,5 +69,5 @@ function FindProxyForURL(url, host) {
 ```
 ## βιβλιογραφικές αναφορές
 
-* [Τι είναι το αρχείο PAC;](http://findproxyforurl.com/pac-file-introduction/)
+* [Τι είναι το αρχείο PAC;](https://findproxyforurl.com/)
 

@@ -28,7 +28,7 @@ Các tệp ATOM được lưu trữ và xuất bản ở định dạng tệp XM
 
 ### Các loại Tài liệu Atom
 
-1. `Tài liệu mục nhập Atom` - Đây là một tài liệu XML bao gồm một mục thông tin duy nhất, được gọi là mục nhập, cho nguồn cấp dữ liệu Atom. Nó có một<atom:entry> phần tử chứa một số phần tử con. Nội dung của mục nhập Atom có thể là văn bản thuần túy, HTML, XHTML hoặc loại phương tiện IANA (Cơ quan cấp số được gán Internet) khác.
+1. `Tài liệu mục nhập Atom` - Đây là một tài liệu XML bao gồm một mục thông tin duy nhất, được gọi là mục nhập, cho nguồn cấp dữ liệu Atom. Nó có một atom:entry phần tử chứa một số phần tử con. Nội dung của mục nhập Atom có thể là văn bản thuần túy, HTML, XHTML hoặc loại phương tiện IANA (Cơ quan cấp số được gán Internet) khác.
 1. `Tài liệu nguồn cấp dữ liệu Atom` - Đây là tài liệu XML cung cấp siêu dữ liệu về nguồn cấp dữ liệu Atom và một hoặc nhiều mục nhập cho nguồn cấp dữ liệu. Khi khách hàng yêu cầu thông tin từ nguồn cấp dữ liệu, tài liệu nguồn cấp dữ liệu được tạo bởi máy chủ bao gồm một số mục nhập Atom để đáp ứng yêu cầu.
 1. `Bộ sưu tập Atom` - Đây là một loại tài liệu nguồn cấp dữ liệu Atom đặc biệt có chứa URL của các mục nhập Atom có sẵn để chỉnh sửa.
 

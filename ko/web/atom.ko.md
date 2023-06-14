@@ -28,7 +28,7 @@ ATOM 파일은 정보 교환을 위한 보편적인 형식인 널리 사용되�
 
 ### Atom 문서 유형
 
-1. 'Atom Entry Documents' - Atom 피드에 대한 단일 정보 항목(항목이라고 함)으로 구성된 XML 문서입니다. 그것은 가지고있다<atom:entry> 많은 자식 요소를 포함하는 요소입니다. Atom 항목의 내용은 일반 텍스트, HTML, XHTML 또는 다른 IANA(Internet Assigned Numbers Authority) 미디어 유형일 수 있습니다.
+1. 'Atom Entry Documents' - Atom 피드에 대한 단일 정보 항목(항목이라고 함)으로 구성된 XML 문서입니다. 그것은 가지고있다 atom:entry 많은 자식 요소를 포함하는 요소입니다. Atom 항목의 내용은 일반 텍스트, HTML, XHTML 또는 다른 IANA(Internet Assigned Numbers Authority) 미디어 유형일 수 있습니다.
 1. 'Atom Feed Documents' - Atom 피드에 대한 메타데이터와 피드에 대한 하나 이상의 항목을 제공하는 XML 문서입니다. 클라이언트가 피드에서 정보를 요청하면 요청을 수행하기 위해 여러 Atom 항목이 포함된 피드 문서가 서버에서 생성됩니다.
 1. 'Atom Collection' - 편집 가능한 Atom 항목의 URL을 포함하는 특수한 종류의 Atom 피드 문서입니다.
 

@@ -69,5 +69,5 @@ function FindProxyForURL(url, host) {
 ```
 ## संदर्भ
 
-* [पीएसी फ़ाइल क्या है?](http://findproxyforurl.com/pac-file-introduction/)
+* [पीएसी फ़ाइल क्या है?](https://findproxyforurl.com/)
 
