@@ -18,13 +18,13 @@
 }
 
 ## Vad är en AIFF-fil?
-AIFF (Audio Interchange File Format) är ett okomprimerat ljudfilformat utvecklat av Apple 1998, men är baserat på **EA IFF 85** (Standard for Interchange Format Files utvecklad av Electronic Arts), ett omslagsformat som används på Amiga-system . Detta filformat kommer med en standard för lagring av samplade ljud. Formatet är tillräckligt bra i flexibilitet och möjliggör lagring av mono- eller flerkanalssamplade ljud med olika samplingshastigheter och samplingsbredder. Eftersom AIFF-filerna är okomprimerade gör detta att de blir större än andra förlustformat som [MP3](https://docs.fileformat.com/audio/mp3/).
+AIFF (Audio Interchange File Format) är ett okomprimerat ljudfilformat utvecklat av Apple 1998, men är baserat på **EA IFF 85** (Standard for Interchange Format Files utvecklad av Electronic Arts), ett omslagsformat som används på Amiga-system . Detta filformat kommer med en standard för lagring av samplade ljud. Formatet är tillräckligt bra i flexibilitet och möjliggör lagring av mono- eller flerkanalssamplade ljud med olika samplingshastigheter och samplingsbredder. Eftersom AIFF-filerna är okomprimerade gör detta att de blir större än andra förlustformat som [MP3](/audio/mp3/).
 
-AIFF-filer består av 2 kanaler okomprimerat stereoljud med 16 bitars samplingsstorlek, inspelad vid 44,1 khz. På grund av hög ljudkvalitet kan ett 5 minuters ljud ta upp till 50 MB diskutrymme, vilket liknar filformatet [WAV](https://docs.fileformat.com/audio/wav/).
+AIFF-filer består av 2 kanaler okomprimerat stereoljud med 16 bitars samplingsstorlek, inspelad vid 44,1 khz. På grund av hög ljudkvalitet kan ett 5 minuters ljud ta upp till 50 MB diskutrymme, vilket liknar filformatet [WAV](/audio/wav/).
 
 ## AIFF vs WAV
 
-AIFF och WAV är nästan samma när det gäller kvalitet. Båda använder samma PCM-kodning (pulskodmodulering), vilket gör dem större i storlek jämfört med andra förlustformat, såsom [MP3](https://docs.fileformat.com/audio/mp3/), [M4A](). Några av de allmänna skillnaderna är skrivna i tabellen nedan:
+AIFF och WAV är nästan samma när det gäller kvalitet. Båda använder samma PCM-kodning (pulskodmodulering), vilket gör dem större i storlek jämfört med andra förlustformat, såsom [MP3](/audio/mp3/), [M4A](/audio/m4a/). Några av de allmänna skillnaderna är skrivna i tabellen nedan:
 
 |AIFF|WAV|
 ---|---|

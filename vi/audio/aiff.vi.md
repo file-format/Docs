@@ -18,13 +18,13 @@
 }
 
 ## Tệp AIFF là gì?
-AIFF (Định dạng tệp trao đổi âm thanh) là định dạng tệp âm thanh không nén do Apple phát triển vào năm 1998, nhưng dựa trên **EA IFF 85** (Tiêu chuẩn cho các tệp định dạng trao đổi do Electronic Arts phát triển), một định dạng trình bao được sử dụng trên các hệ thống Amiga . Định dạng tệp này đưa ra một tiêu chuẩn để lưu trữ các âm thanh được lấy mẫu. Định dạng này đủ linh hoạt và cho phép lưu trữ âm thanh được lấy mẫu đơn kênh hoặc đa kênh ở các tốc độ lấy mẫu và độ rộng mẫu khác nhau. Vì các tệp AIFF không được nén nên điều này làm cho chúng có kích thước lớn hơn so với các định dạng mất dữ liệu khác như [MP3](https://docs.fileformat.com/audio/mp3/).
+AIFF (Định dạng tệp trao đổi âm thanh) là định dạng tệp âm thanh không nén do Apple phát triển vào năm 1998, nhưng dựa trên **EA IFF 85** (Tiêu chuẩn cho các tệp định dạng trao đổi do Electronic Arts phát triển), một định dạng trình bao được sử dụng trên các hệ thống Amiga . Định dạng tệp này đưa ra một tiêu chuẩn để lưu trữ các âm thanh được lấy mẫu. Định dạng này đủ linh hoạt và cho phép lưu trữ âm thanh được lấy mẫu đơn kênh hoặc đa kênh ở các tốc độ lấy mẫu và độ rộng mẫu khác nhau. Vì các tệp AIFF không được nén nên điều này làm cho chúng có kích thước lớn hơn so với các định dạng mất dữ liệu khác như [MP3](/audio/mp3/).
 
-Các tệp AIFF bao gồm 2 kênh âm thanh nổi không nén với kích thước mẫu 16 bit, được ghi ở 44,1 khz. Do chất lượng âm thanh cao nên âm thanh 5 phút có thể chiếm tới 50 MB dung lượng ổ đĩa, tương tự như định dạng tệp [WAV](https://docs.fileformat.com/audio/wav/).
+Các tệp AIFF bao gồm 2 kênh âm thanh nổi không nén với kích thước mẫu 16 bit, được ghi ở 44,1 khz. Do chất lượng âm thanh cao nên âm thanh 5 phút có thể chiếm tới 50 MB dung lượng ổ đĩa, tương tự như định dạng tệp [WAV](/audio/wav/).
 
 ## AIFF so với WAV
 
-AIFF và WAV gần như giống nhau về chất lượng. Cả hai đều sử dụng cùng một mã hóa PCM (điều biến mã xung), giúp chúng có kích thước lớn hơn so với các định dạng mất dữ liệu khác, chẳng hạn như [MP3](https://docs.fileformat.com/audio/mp3/), [M4A](). Một số khác biệt chung được viết trong bảng dưới đây:
+AIFF và WAV gần như giống nhau về chất lượng. Cả hai đều sử dụng cùng một mã hóa PCM (điều biến mã xung), giúp chúng có kích thước lớn hơn so với các định dạng mất dữ liệu khác, chẳng hạn như [MP3](/audio/mp3/), [M4A](/audio/m4a/). Một số khác biệt chung được viết trong bảng dưới đây:
 
 |AIFF|WAV|
 ---|---|

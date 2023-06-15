@@ -18,13 +18,13 @@
 }
 
 ## Mi az AIFF fájl?
-Az AIFF (Audio Interchange File Format) egy tömörítetlen hangfájlformátum, amelyet az Apple fejlesztett ki 1998-ban, de az **EA IFF 85** (az Electronic Arts által kifejlesztett szabvány az Interchange Format Files számára), egy Amiga rendszereken használt burkoló formátumon alapul. . Ez a fájlformátum szabványt tartalmaz a mintavételezett hangok tárolására. A formátum rugalmassága elég jó, és lehetővé teszi a monó vagy többcsatornás mintavételezett hangok tárolását különböző mintavételi frekvenciákkal és mintaszélességekkel. Mivel az AIFF-fájlok tömörítetlenek, ezért nagyobb méretük van, mint más veszteséges formátumok, például [MP3](https://docs.fileformat.com/audio/mp3/).
+Az AIFF (Audio Interchange File Format) egy tömörítetlen hangfájlformátum, amelyet az Apple fejlesztett ki 1998-ban, de az **EA IFF 85** (az Electronic Arts által kifejlesztett szabvány az Interchange Format Files számára), egy Amiga rendszereken használt burkoló formátumon alapul. . Ez a fájlformátum szabványt tartalmaz a mintavételezett hangok tárolására. A formátum rugalmassága elég jó, és lehetővé teszi a monó vagy többcsatornás mintavételezett hangok tárolását különböző mintavételi frekvenciákkal és mintaszélességekkel. Mivel az AIFF-fájlok tömörítetlenek, ezért nagyobb méretük van, mint más veszteséges formátumok, például [MP3](/audio/mp3/).
 
-Az AIFF fájlok 2 csatornás tömörítetlen sztereó hangot tartalmaznak, 16 bites mintamérettel, 44,1 khz-en rögzítve. A kiváló hangminőség miatt egy 5 perces hangfelvétel akár 50 MB lemezterületet is elfoglalhat, ami hasonló a [WAV](https://docs.fileformat.com/audio/wav/) fájlformátumhoz.
+Az AIFF fájlok 2 csatornás tömörítetlen sztereó hangot tartalmaznak, 16 bites mintamérettel, 44,1 khz-en rögzítve. A kiváló hangminőség miatt egy 5 perces hangfelvétel akár 50 MB lemezterületet is elfoglalhat, ami hasonló a [WAV](/audio/wav/) fájlformátumhoz.
 
 ## AIFF vs WAV
 
-Az AIFF és a WAV minőségileg szinte megegyezik. Mindkettő ugyanazt a PCM (impulzuskód moduláció) kódolást használja, ami nagyobb méretűvé teszi őket más veszteséges formátumokhoz képest, mint például [MP3](https://docs.fileformat.com/audio/mp3/), [M4A](). Néhány általános eltérés az alábbi táblázatban található:
+Az AIFF és a WAV minőségileg szinte megegyezik. Mindkettő ugyanazt a PCM (impulzuskód moduláció) kódolást használja, ami nagyobb méretűvé teszi őket más veszteséges formátumokhoz képest, mint például [MP3](/audio/mp3/), [M4A](/audio/m4a/). Néhány általános eltérés az alábbi táblázatban található:
 
 |AIFF|WAV|
 ---|---|

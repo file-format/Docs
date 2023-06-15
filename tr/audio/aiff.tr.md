@@ -18,13 +18,13 @@
 }
 
 ## AIFF dosyası nedir?
-AIFF (Ses Değişim Dosyası Formatı), Apple tarafından 1998'de geliştirilen sıkıştırılmamış bir ses dosyası formatıdır, ancak Amiga sistemlerinde kullanılan bir sarmalayıcı format olan **EA IFF 85**'e (Elektronik Sanatlar tarafından geliştirilen Değişim Formatı Dosyaları için Standart) dayanmaktadır. . Bu dosya formatı, örneklenmiş sesleri depolamak için bir standart sunar. Biçim, esneklik açısından yeterince iyidir ve çeşitli örnekleme hızlarında ve örnek genişliklerinde tek veya çok kanallı örneklenmiş seslerin depolanmasını sağlar. AIFF dosyaları sıkıştırılmamış olduğundan, bu durum onları [MP3](https://docs.fileformat.com/audio/mp3/) gibi diğer kayıplı formatlardan daha büyük yapar.
+AIFF (Ses Değişim Dosyası Formatı), Apple tarafından 1998'de geliştirilen sıkıştırılmamış bir ses dosyası formatıdır, ancak Amiga sistemlerinde kullanılan bir sarmalayıcı format olan **EA IFF 85**'e (Elektronik Sanatlar tarafından geliştirilen Değişim Formatı Dosyaları için Standart) dayanmaktadır. . Bu dosya formatı, örneklenmiş sesleri depolamak için bir standart sunar. Biçim, esneklik açısından yeterince iyidir ve çeşitli örnekleme hızlarında ve örnek genişliklerinde tek veya çok kanallı örneklenmiş seslerin depolanmasını sağlar. AIFF dosyaları sıkıştırılmamış olduğundan, bu durum onları [MP3](/audio/mp3/) gibi diğer kayıplı formatlardan daha büyük yapar.
 
-AIFF dosyaları, 44.1 khz'de kaydedilmiş, 16 bitlik örnek boyutuna sahip 2 kanal sıkıştırılmamış stereo sesten oluşur. Yüksek ses kalitesi nedeniyle, 5 dakikalık bir ses, [WAV](https://docs.fileformat.com/audio/wav/) dosya biçimine benzer şekilde 50 MB'a kadar disk alanı kaplayabilir.
+AIFF dosyaları, 44.1 khz'de kaydedilmiş, 16 bitlik örnek boyutuna sahip 2 kanal sıkıştırılmamış stereo sesten oluşur. Yüksek ses kalitesi nedeniyle, 5 dakikalık bir ses, [WAV](/audio/wav/) dosya biçimine benzer şekilde 50 MB'a kadar disk alanı kaplayabilir.
 
 ## AIFF ve WAV
 
-AIFF ve WAV, kalite açısından neredeyse aynıdır. Her ikisi de, [MP3](https://docs.fileformat.com/audio/mp3/), [M4A](). Genel farklılıklardan bazıları aşağıdaki tabloda yazılmıştır:
+AIFF ve WAV, kalite açısından neredeyse aynıdır. Her ikisi de, [MP3](/audio/mp3/), [M4A](/audio/m4a/). Genel farklılıklardan bazıları aşağıdaki tabloda yazılmıştır:
 
 |AIFF|WAV|
 ---|---|

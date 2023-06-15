@@ -18,13 +18,13 @@
 }
 
 ## Apa itu file AIFF?
-AIFF (Audio Interchange File Format) adalah format file audio tidak terkompresi yang dikembangkan oleh Apple pada tahun 1998, tetapi didasarkan pada **EA IFF 85** (Standar untuk File Format Interchange yang dikembangkan oleh Electronic Arts), format pembungkus yang digunakan pada sistem Amiga . Format file ini muncul dengan standar untuk menyimpan sampel suara. Formatnya cukup baik dalam hal fleksibilitas, dan memungkinkan penyimpanan sampel suara monaural atau multisaluran pada berbagai laju sampel dan lebar sampel. Karena file AIFF tidak dikompresi, hal ini membuat ukurannya lebih besar daripada format lossy lainnya seperti [MP3](https://docs.fileformat.com/audio/mp3/).
+AIFF (Audio Interchange File Format) adalah format file audio tidak terkompresi yang dikembangkan oleh Apple pada tahun 1998, tetapi didasarkan pada **EA IFF 85** (Standar untuk File Format Interchange yang dikembangkan oleh Electronic Arts), format pembungkus yang digunakan pada sistem Amiga . Format file ini muncul dengan standar untuk menyimpan sampel suara. Formatnya cukup baik dalam hal fleksibilitas, dan memungkinkan penyimpanan sampel suara monaural atau multisaluran pada berbagai laju sampel dan lebar sampel. Karena file AIFF tidak dikompresi, hal ini membuat ukurannya lebih besar daripada format lossy lainnya seperti [MP3](/audio/mp3/).
 
-File AIFF terdiri dari 2 saluran audio stereo tidak terkompresi dengan ukuran sampel 16 bit, direkam pada 44,1 khz. Karena audio berkualitas tinggi, audio 5 menit dapat memakan ruang disk hingga 50 MB yang mirip dengan format file [WAV](https://docs.fileformat.com/audio/wav/).
+File AIFF terdiri dari 2 saluran audio stereo tidak terkompresi dengan ukuran sampel 16 bit, direkam pada 44,1 khz. Karena audio berkualitas tinggi, audio 5 menit dapat memakan ruang disk hingga 50 MB yang mirip dengan format file [WAV](/audio/wav/).
 
 ## AIFF vs WAV
 
-AIFF dan WAV memiliki kualitas yang hampir sama. Keduanya menggunakan pengkodean PCM (pulse-code modulation) yang sama, yang membuatnya berukuran lebih besar dibandingkan dengan format lossy lainnya, seperti, [MP3](https://docs.fileformat.com/audio/mp3/), [M4A](). Beberapa perbedaan umum ditulis dalam tabel di bawah ini:
+AIFF dan WAV memiliki kualitas yang hampir sama. Keduanya menggunakan pengkodean PCM (pulse-code modulation) yang sama, yang membuatnya berukuran lebih besar dibandingkan dengan format lossy lainnya, seperti, [MP3](/audio/mp3/), [M4A](/audio/m4a/). Beberapa perbedaan umum ditulis dalam tabel di bawah ini:
 
 |AIFF|WAV|
 ---|---|

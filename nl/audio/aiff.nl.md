@@ -18,13 +18,13 @@
 }
 
 ## Wat is een AIFF-bestand?
-De AIFF (Audio Interchange File Format) is een niet-gecomprimeerd audiobestandsformaat ontwikkeld door Apple in 1998, maar is gebaseerd op **EA IFF 85** (Standard for Interchange Format Files ontwikkeld door Electronic Arts), een wrapper-formaat dat wordt gebruikt op Amiga-systemen . Dit bestandsformaat komt met een standaard voor het opslaan van gesamplede geluiden. Het formaat is flexibel genoeg en maakt de opslag van mono- of meerkanaals gesamplede geluiden met verschillende samplefrequenties en samplebreedtes mogelijk. Omdat de AIFF-bestanden niet zijn gecomprimeerd, maakt dit ze groter in omvang dan andere verliesgevende formaten zoals [MP3](https://docs.fileformat.com/audio/mp3/).
+De AIFF (Audio Interchange File Format) is een niet-gecomprimeerd audiobestandsformaat ontwikkeld door Apple in 1998, maar is gebaseerd op **EA IFF 85** (Standard for Interchange Format Files ontwikkeld door Electronic Arts), een wrapper-formaat dat wordt gebruikt op Amiga-systemen . Dit bestandsformaat komt met een standaard voor het opslaan van gesamplede geluiden. Het formaat is flexibel genoeg en maakt de opslag van mono- of meerkanaals gesamplede geluiden met verschillende samplefrequenties en samplebreedtes mogelijk. Omdat de AIFF-bestanden niet zijn gecomprimeerd, maakt dit ze groter in omvang dan andere verliesgevende formaten zoals [MP3](/audio/mp3/).
 
-AIFF-bestanden bestaan uit 2 kanalen met ongecomprimeerde stereo-audio met een samplegrootte van 16 bits, opgenomen op 44,1 kHz. Vanwege de hoge audiokwaliteit kan een audio van 5 minuten tot 50 MB schijfruimte in beslag nemen, wat vergelijkbaar is met het [WAV](https://docs.fileformat.com/audio/wav/) bestandsformaat.
+AIFF-bestanden bestaan uit 2 kanalen met ongecomprimeerde stereo-audio met een samplegrootte van 16 bits, opgenomen op 44,1 kHz. Vanwege de hoge audiokwaliteit kan een audio van 5 minuten tot 50 MB schijfruimte in beslag nemen, wat vergelijkbaar is met het [WAV](/audio/wav/) bestandsformaat.
 
 ## AIFF versus WAV
 
-De AIFF en WAV zijn qua kwaliteit bijna hetzelfde. Beiden gebruiken dezelfde PCM (pulse-code modulatie) codering, waardoor ze groter zijn in vergelijking met andere lossy formaten, zoals [MP3](https://docs.fileformat.com/audio/mp3/), [M4A](). Enkele van de algemene verschillen staan in de onderstaande tabel:
+De AIFF en WAV zijn qua kwaliteit bijna hetzelfde. Beiden gebruiken dezelfde PCM (pulse-code modulatie) codering, waardoor ze groter zijn in vergelijking met andere lossy formaten, zoals [MP3](/audio/mp3/), [M4A](/audio/m4a/). Enkele van de algemene verschillen staan in de onderstaande tabel:
 
 |AIFF|WAV|
 ---|---|

@@ -18,13 +18,13 @@
 }
 
 ## Ce este un fișier AIFF?
-AIFF (Audio Interchange File Format) este un format de fișier audio necomprimat dezvoltat de Apple în 1998, dar se bazează pe **EA IFF 85** (Standard for Interchange Format Files dezvoltat de Electronic Arts), un format de wrapper utilizat pe sistemele Amiga . Acest format de fișier vine cu un standard pentru stocarea sunetelor eșantionate. Formatul este suficient de bun ca flexibilitate și permite stocarea sunetelor eșantionate mono sau multicanal la diferite rate de eșantionare și lățimi de eșantionare. Deoarece fișierele AIFF sunt necomprimate, acest lucru le face mai mari ca dimensiune decât alte formate cu pierderi, cum ar fi [MP3](https://docs.fileformat.com/audio/mp3/).
+AIFF (Audio Interchange File Format) este un format de fișier audio necomprimat dezvoltat de Apple în 1998, dar se bazează pe **EA IFF 85** (Standard for Interchange Format Files dezvoltat de Electronic Arts), un format de wrapper utilizat pe sistemele Amiga . Acest format de fișier vine cu un standard pentru stocarea sunetelor eșantionate. Formatul este suficient de bun ca flexibilitate și permite stocarea sunetelor eșantionate mono sau multicanal la diferite rate de eșantionare și lățimi de eșantionare. Deoarece fișierele AIFF sunt necomprimate, acest lucru le face mai mari ca dimensiune decât alte formate cu pierderi, cum ar fi [MP3](/audio/mp3/).
 
-Fișierele AIFF constau din 2 canale de audio stereo necomprimat cu dimensiunea eșantionului de 16 biți, înregistrate la 44,1 kHz. Datorită calității înalte a sunetului, un sunet de 5 minute poate ocupa până la 50 MB spațiu pe disc, care este similar cu formatul de fișier [WAV](https://docs.fileformat.com/audio/wav/).
+Fișierele AIFF constau din 2 canale de audio stereo necomprimat cu dimensiunea eșantionului de 16 biți, înregistrate la 44,1 kHz. Datorită calității înalte a sunetului, un sunet de 5 minute poate ocupa până la 50 MB spațiu pe disc, care este similar cu formatul de fișier [WAV](/audio/wav/).
 
 ## AIFF vs WAV
 
-AIFF și WAV sunt aproape aceleași din punct de vedere al calității. Ambele folosesc aceeași codare PCM (modulație cu cod de impulsuri), ceea ce le face mai mari ca dimensiune în comparație cu alte formate cu pierderi, cum ar fi [MP3](https://docs.fileformat.com/audio/mp3/), [M4A](). Unele dintre diferențele generale sunt scrise în tabelul de mai jos:
+AIFF și WAV sunt aproape aceleași din punct de vedere al calității. Ambele folosesc aceeași codare PCM (modulație cu cod de impulsuri), ceea ce le face mai mari ca dimensiune în comparație cu alte formate cu pierderi, cum ar fi [MP3](/audio/mp3/), [M4A](/audio/m4a/). Unele dintre diferențele generale sunt scrise în tabelul de mai jos:
 
 |AIFF|WAV|
 ---|---|
