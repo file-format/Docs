@@ -30,7 +30,7 @@
 
 Visual C# Script (also known as CSX) is a file format used by Roslyn scripting engine in Microsoft's .NET ecosystem. CSX files contain C# code that can be executed directly without the need for separate compilation step.
 
-CSX format is specific to Microsoft ecosystem and not a widely used file format in general programming. CSX files are often used in scenarios where quick prototyping or scripting functionality is required. They allow you to write C# code and execute it in more lightweight manner compared to creating a full-fledged compiled application.
+CSX format is specific to Microsoft ecosystem and not a widely used file format in general programming. CSX files are often used in scenarios where quick prototyping or scripting functionality is required. They enable you to create and run C# programmes in more lightweight manner compared to creating a full-fledged compiled application.
 
 To execute CSX files, you can use tools like .NET Interactive Notebooks, which provide an interactive environment for running C# code. Visual Studio Code with the C# extension and .NET Core SDK can also be used to work with CSX files.
 
