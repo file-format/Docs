@@ -30,7 +30,7 @@
 
 IT file format is related to the Impulse Tracker software, which was a popular music tracker program developed by Jeffrey Lim in the mid-1990s. IT files are module files that contain musical patterns, sample data, instrument settings and other sequencing information.
 
-The IT file format is a binary format, known for its flexibility and efficiency in representing complex musical compositions. It supports up to 64 channels permitting various effects such as panning, volume slides, vibrato and more, supporting multiple sample formats, both digital samples and synthesized waveforms. IT files were widely used in the demoscene and tracker music community, particularly during late 1990s and early 2000s. 
+The IT file format is a binary format, known for its flexibility and efficiency in representing complex musical compositions. It supports up to 64 channels permitting various effects such as panning, volume slides, vibrato and more, supporting multiple sample formats, both digital samples and synthesized waveforms. IT files were widely used in the demoscene and tracker music community, particularly during late 1990s and early 2000s.  
 
 ## How to open IT file?
 
