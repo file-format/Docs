@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "description" : "Learn about ABX file format and how to open APX files.",
-  "title" : "ABX File Extension - WordPerfect Address Book File Format”,
+  "title" : "ABX File Extension - WordPerfect Address Book File Format",
   "linktitle" : "ABX",
   "menu" : {
     "docs" : {
