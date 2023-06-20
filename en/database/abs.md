@@ -1,12 +1,12 @@
 {
-  "date" : "2023-06-15",
+  "date" : "2023-06-18",
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
   "draft" : "false",
   "toc" : true,
   "description" : "Learn about ABS file format and APIs that can create and open ABS files.",
-  "title" : "ABS File Extension - Delphi Absolute Database File Format”,
+  "title" : "ABS File Extension - Delphi Absolute Database File Format",
   "linktitle" : "ABS",
   "menu" : {
     "docs" : {
@@ -14,7 +14,7 @@
       "parent" : "database"
     }
   },
-  "lastmod" : "2023-06-15"
+  "lastmod" : "2023-06-18"
 }
 
 ## What is an ABS file?
