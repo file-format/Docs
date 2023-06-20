@@ -1,11 +1,11 @@
 {
-  "date" : "2023-06-15",
+  "date" : "2023-06-18",
   "author" : {
     "display_name" : "Kashif Iqbal"
   },
   "draft" : "false",
   "toc" : true,
-  "description" : "Learn about ABX file format and how to open APX files.",
+  "description" : "ABX File Extension - WordPerfect Address Book File Format",
   "title" : "ABX File Extension - WordPerfect Address Book File Format",
   "linktitle" : "ABX",
   "menu" : {
@@ -14,7 +14,7 @@
       "parent" : "database"
     }
   },
-  "lastmod" : "2023-06-15"
+  "lastmod" : "2023-06-18"
 }
 
 ## What is an ABX file?
