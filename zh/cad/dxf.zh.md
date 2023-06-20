@@ -42,7 +42,7 @@ DXF 文件中的部分按以下顺序排列：
 ---|---|
 |标题|此部分包含有关绘图的一般信息。这就像您手机中的设置功能，其中包含与绘图关联的不同变量及其关联值。例如，标题部分将定义 DXF 文件使用的 AutoCAD 版本（$ACADVER 变量）或文件中用于测量角度的单位（$AUNITS 变量）
 |Classes|CLASSES 部分保存应用程序定义的类的信息，这些类的实例出现在数据库的 BLOCKS、ENTITIES 和 OBJECTS 部分中。
-|Tables|此部分包含几个不同表的定义，每个表都包含许多不同的符号条目。例如[线型](https://knowledge.autodesk.com/support/autocad/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/AutoCAD-Core/files/GUID-20B4D4B3-1220-426A- 847B-5BBE36EC6FDF-htm.html) 表 (LTYPE) 定义了 DXF 文件中的破折号、点、文本和符号的模式以及它们的缩放方式。以下是本节中找到的表格的完整列表：<ul><li>应用程序 ID (APPID) 表</li><li>块记录 (BLOCK_RECORD) 表</li><li>尺寸样式 (DIMSTYPE) 表</li><li>层（LAYER）表</li><li>线型 (LTYPE) 表</li><li>文本样式 (STYLE) 表</li><li>用户坐标系 (UCS) 表</li><li>查看 (VIEW) 表</li><li>视口配置 (VPORT) 表</li></ul>
+|Tables|此部分包含几个不同表的定义，每个表都包含许多不同的符号条目。例如[线型](https://help.autodesk.com/view/ACD/2016/ENU/?guid=GUID-20B4D4B3-1220-426A-847B-5BBE36EC6FDF) 表 (LTYPE) 定义了 DXF 文件中的破折号、点、文本和符号的模式以及它们的缩放方式。以下是本节中找到的表格的完整列表：<ul><li>应用程序 ID (APPID) 表</li><li>块记录 (BLOCK_RECORD) 表</li><li>尺寸样式 (DIMSTYPE) 表</li><li>层（LAYER）表</li><li>线型 (LTYPE) 表</li><li>文本样式 (STYLE) 表</li><li>用户坐标系 (UCS) 表</li><li>查看 (VIEW) 表</li><li>视口配置 (VPORT) 表</li></ul>
 |块|此部分包含构成图形中每个块参考的图形对象和图形实体。
 |实体|此部分包含绘图的实际对象数据和图形实体。这可以包括原始数据——例如，圆形实体由其厚度、中心点、半径和拉伸方向定义。
 |对象|在这里，您将找到绘图的非图形部分。例如，AutoCAD 字典存储在此处。

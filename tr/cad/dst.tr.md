@@ -33,7 +33,7 @@ Herhangi bir zamanda, sayfa durumu aşağıdaki durumlardan herhangi birinde ola
 
 ## Referanslar
 
-* [DST Sayfa Setlerini kullanma hakkında](https://knowledge.autodesk.com/support/autocad-lt/learn-explore/caas/CloudHelp/cloudhelp/2017/ENU/AutoCAD-LT/files/GUID-577D8EA0-85F2 -4829-B4F9-8CAD6F7AAACC-htm.html)
-* [Sayfa Setleri hakkında bilgi edinin](https://knowledge.autodesk.com/support/autocad-lt/learn-explore/caas/CloudHelp/cloudhelp/2017/ENU/AutoCAD-LT/files/GUID-34D889BC-19AD- 4CD1-ADB1-F359D9B515FB-htm.html)
+* [DST Sayfa Setlerini kullanma hakkında](https://help.autodesk.com/view/ACDLT/2017/ENU/?guid=GUID-577D8EA0-85F2-4829-B4F9-8CAD6F7AAACC)
+* [Sayfa Setleri hakkında bilgi edinin](https://help.autodesk.com/view/ACDLT/2017/ENU/?guid=GUID-34D889BC-19AD-4CD1-ADB1-F359D9B515FB)
 * [AutoCAD Sayfa Setlerinde Uzmanlaşma](https://damassets.autodesk.net/content/dam/autodesk/www/cad-manager-center/articles/Mastering-AutoCAD-Sheet-Sets_Preview_EN.pdf)
 

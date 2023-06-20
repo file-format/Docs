@@ -42,7 +42,7 @@ DXF 파일의 섹션은 다음 순서로 정렬됩니다.
 ---|---|
 |헤더|이 섹션에는 도면에 대한 일반 정보가 포함되어 있습니다. 이는 드로잉 및 관련 값과 관련된 다양한 변수를 포함하는 휴대전화의 설정 기능과 같습니다. 예를 들어 헤더 섹션은 DXF 파일이 사용하는 AutoCAD 버전($ACADVER 변수) 또는 파일의 각도를 측정하는 데 사용되는 단위($AUNITS 변수)를 정의합니다.
 |클래스|CLASSES 섹션에는 데이터베이스의 BLOCKS, ENTITIES 및 OBJECTS 섹션에 인스턴스가 나타나는 애플리케이션 정의 클래스에 대한 정보가 있습니다.
-|테이블|이 섹션에는 여러 다른 기호 항목이 포함된 여러 테이블에 대한 정의가 포함되어 있습니다. 예를 들어 [라인 유형](https://knowledge.autodesk.com/support/autocad/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/AutoCAD-Core/files/GUID-20B4D4B3-1220-426A- 847B-5BBE36EC6FDF-htm.html) 테이블(LTYPE)은 DXF 파일의 대시, 점, 텍스트 및 기호 패턴과 크기 조정 방식을 정의합니다. 다음은 이 섹션에 있는 전체 테이블 목록입니다.<ul><li> 애플리케이션 ID(APPID) 테이블</li><li> 블록 레코드(BLOCK_RECORD) 테이블</li><li> 치수 스타일(DIMSTYPE) 테이블</li><li> 레이어(LAYER) 테이블</li><li> 선종류(LTYPE) 테이블</li><li> 문자 스타일(STYLE) 테이블</li><li> 사용자 좌표계(UCS) 테이블</li><li> 보기(VIEW) 테이블</li><li> 뷰포트 구성(VPORT) 테이블</li></ul>
+|테이블|이 섹션에는 여러 다른 기호 항목이 포함된 여러 테이블에 대한 정의가 포함되어 있습니다. 예를 들어 [라인 유형](https://help.autodesk.com/view/ACD/2016/ENU/?guid=GUID-20B4D4B3-1220-426A-847B-5BBE36EC6FDF) 테이블(LTYPE)은 DXF 파일의 대시, 점, 텍스트 및 기호 패턴과 크기 조정 방식을 정의합니다. 다음은 이 섹션에 있는 전체 테이블 목록입니다.<ul><li> 애플리케이션 ID(APPID) 테이블</li><li> 블록 레코드(BLOCK_RECORD) 테이블</li><li> 치수 스타일(DIMSTYPE) 테이블</li><li> 레이어(LAYER) 테이블</li><li> 선종류(LTYPE) 테이블</li><li> 문자 스타일(STYLE) 테이블</li><li> 사용자 좌표계(UCS) 테이블</li><li> 보기(VIEW) 테이블</li><li> 뷰포트 구성(VPORT) 테이블</li></ul>
 |블록|이 섹션에는 도면의 각 블록 참조를 구성하는 그래픽 개체 및 도면 요소가 포함됩니다.
 |엔티티|이 섹션은 도면의 실제 객체 데이터와 그래픽 엔티티를 포함합니다. 여기에는 원시 데이터가 포함될 수 있습니다. 예를 들어 원 엔터티는 두께, 중심점, 반경 및 돌출 방향으로 정의됩니다.
 |객체|여기에서 그림의 그래픽이 아닌 부분을 찾을 수 있습니다. 예를 들어 AutoCAD 사전이 여기에 저장됩니다.

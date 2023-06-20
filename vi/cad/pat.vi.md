@@ -53,5 +53,5 @@ Một ví dụ khác cho thấy mô hình hình bình hành như sau.
 ```
 ## Người giới thiệu ##
 
-* [Các mẫu băm của Autodesk](https://knowledge.autodesk.com/support/autocad-lt/learn-explore/caas/CloudHelp/cloudhelp/2018/ENU/AutoCAD-LT/files/GUID-A6F2E6FF-1717- 44B6-A476-0CA817ADD77E-htm.html)
+* [Các mẫu băm của Autodesk](https://help.autodesk.com/view/ACDLT/2018/ENU/?guid=GUID-A6F2E6FF-1717-44B6-A476-0CA817ADD77E)
 

@@ -23,5 +23,5 @@ MP файлът е проектен файл, създаден с Personal Learn
 
 ## Препратки
 
-* [Файлови формати на Autodesk Maya](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2020/ENU/Maya-Rendering/files/GUID-CF9D455A-54AE-4992- BADB-DC1E532F56A8-htm.html)
+* [Файлови формати на Autodesk Maya](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-CF9D455A-54AE-4992-BADB-DC1E532F56A8)
 

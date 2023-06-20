@@ -28,7 +28,7 @@ Soubory ATOM jsou ukládány a publikovány v oblíbeném formátu XML, který j
 
 ### Typy dokumentů Atom
 
-1. `Atom Entry Documents` – Jedná se o XML dokument, který se skládá z jediné položky informací, známé jako vstup, pro Atom feed. To má atom:entry prvek, který obsahuje řadu podřízených prvků. Obsah položky Atom může být prostý text, HTML, XHTML nebo jiný typ média IANA (Internet Assigned Numbers Authority).
+1. `Atom Entry Documents` – Jedná se o XML dokument, který se skládá z jediné položky informací, známé jako vstup, pro Atom feed. To má atom-entry prvek, který obsahuje řadu podřízených prvků. Obsah položky Atom může být prostý text, HTML, XHTML nebo jiný typ média IANA (Internet Assigned Numbers Authority).
 1. „Dokumenty Atom Feed Documents“ – Jedná se o dokument XML, který poskytuje metadata o zdroji Atom a jeden nebo více záznamů pro zdroj. Když klient požádá o informace ze zdroje, server vygeneruje dokument zdroje, který obsahuje řadu položek Atom pro splnění požadavku.
 1. `Atom Collection` – Jedná se o speciální druh dokumentu zdroje Atom, který obsahuje adresy URL položek Atom, které lze upravit.
 

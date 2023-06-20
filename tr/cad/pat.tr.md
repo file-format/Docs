@@ -53,5 +53,5 @@ Paralelkenar desenini gösteren başka bir örnek aşağıdaki gibidir.
 ```
 ## Referanslar ##
 
-* [Autodesk'ten Karma Kalıplar](https://knowledge.autodesk.com/support/autocad-lt/learn-explore/caas/CloudHelp/cloudhelp/2018/ENU/AutoCAD-LT/files/GUID-A6F2E6FF-1717- 44B6-A476-0CA817ADD77E-htm.html)
+* [Autodesk'ten Karma Kalıplar](https://help.autodesk.com/view/ACDLT/2018/ENU/?guid=GUID-A6F2E6FF-1717-44B6-A476-0CA817ADD77E)
 

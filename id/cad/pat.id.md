@@ -53,5 +53,5 @@ Contoh lain yang menunjukkan pola jajaran genjang adalah sebagai berikut.
 ```
 ## Referensi ##
 
-* [Pola Hash oleh Autodesk](https://knowledge.autodesk.com/support/autocad-lt/learn-explore/caas/CloudHelp/cloudhelp/2018/ENU/AutoCAD-LT/files/GUID-A6F2E6FF-1717- 44B6-A476-0CA817ADD77E-htm.html)
+* [Pola Hash oleh Autodesk](https://help.autodesk.com/view/ACDLT/2018/ENU/?guid=GUID-A6F2E6FF-1717-44B6-A476-0CA817ADD77E)
 

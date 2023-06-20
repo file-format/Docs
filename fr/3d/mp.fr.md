@@ -23,5 +23,5 @@ Un fichier MP est un fichier de projet créé avec l'édition d'apprentissage pe
 
 ## Références
 
-* [Formats de fichier Autodesk Maya](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2020/ENU/Maya-Rendering/files/GUID-CF9D455A-54AE-4992- BADB-DC1E532F56A8-htm.html)
+* [Formats de fichier Autodesk Maya](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-CF9D455A-54AE-4992-BADB-DC1E532F56A8)
 

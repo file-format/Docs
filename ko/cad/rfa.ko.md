@@ -27,5 +27,5 @@ Revit 프로젝트에 추가하는 모든 요소는 패밀리로 구성됩니다
 
 ## 참고문헌
 
-* [Revit 샘플 패밀리 파일](https://knowledge.autodesk.com/support/revit/getting-started/caas/CloudHelp/cloudhelp/2021/ENU/Revit-GetStarted/files/GUID-73E0E508-B9DA-4405- BAB4-C46D803BC1DE-htm.html)
+* [Revit 샘플 패밀리 파일](https://knowledge.autodesk.com/support/revit/getting-started/caas/CloudHelp/cloudhelp/2021/ENU/Revit-GetStarted/files/GUID-73E0E508-B9DA-4405-BAB4-C46D803BC1DE-htm.html)
 

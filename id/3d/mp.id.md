@@ -23,5 +23,5 @@ File MP adalah file proyek yang dibuat dengan Personal Learning Edition (PLE) da
 
 ## Referensi
 
-* [Format File Autodesk Maya](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2020/ENU/Maya-Rendering/files/GUID-CF9D455A-54AE-4992- BADB-DC1E532F56A8-htm.html)
+* [Format File Autodesk Maya](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-CF9D455A-54AE-4992-BADB-DC1E532F56A8)
 

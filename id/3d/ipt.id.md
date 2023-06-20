@@ -37,4 +37,4 @@ Agak sulit untuk menemukan dan mengunduh file IPT model 3d. Oleh karena itu, And
 
 ## Referensi
 
-* [File IPT - Autodesk](https://knowledge.autodesk.com/support/inventor/learn-explore/caas/CloudHelp/cloudhelp/2018/ENU/Inventor-Help/files/GUID-94B779C0-6B2B-499A-A4F9-2E4BAB49712F-htm.html)
+* [File IPT - Autodesk](https://help.autodesk.com/view/INVNTOR/2018/ENU/?guid=GUID-94B779C0-6B2B-499A-A4F9-2E4BAB49712F)

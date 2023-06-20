@@ -23,5 +23,5 @@ MP फ़ाइल 3D मॉडलिंग प्रोग्राम **मा
 
 ## संदर्भ
 
-* [ऑटोडेस्क माया फाइल फॉर्मेट](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2020/ENU/Maya-Rendering/files/GUID-CF9D455A-54AE-4992- BADB-DC1E532F56A8-htm.html)
+* [ऑटोडेस्क माया फाइल फॉर्मेट](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-CF9D455A-54AE-4992-BADB-DC1E532F56A8)
 

@@ -37,4 +37,4 @@ Bir 3d modelin IPT dosyasını bulup indirmek biraz zor. Bu nedenle, örnek bir 
 
 ## Referanslar
 
-* [IPT Dosyaları - Autodesk](https://knowledge.autodesk.com/support/inventor/learn-explore/caas/CloudHelp/cloudhelp/2018/ENU/Inventor-Help/files/GUID-94B779C0-6B2B-499A-A4F9-2E4BAB49712F-htm.html)
+* [IPT Dosyaları - Autodesk](https://help.autodesk.com/view/INVNTOR/2018/ENU/?guid=GUID-94B779C0-6B2B-499A-A4F9-2E4BAB49712F)

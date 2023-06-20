@@ -39,4 +39,4 @@ nodata_value -999999
 
 ## References
 
- * [Import Point Data From an ASCII File Containing User Defined Columns](https://knowledge.autodesk.com/support/civil-3d/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Civil3D-UserGuide/files/GUID-B4286EEA-F2FC-4267-87CD-E17C47876AF8-htm.html)
+ * [Import Point Data From an ASCII File Containing User Defined Columns](https://help.autodesk.com/view/CIV3D/2016/ENU/?guid=GUID-B4286EEA-F2FC-4267-87CD-E17C47876AF8)

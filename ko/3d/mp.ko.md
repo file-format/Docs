@@ -23,5 +23,5 @@ MP 파일은 3D 모델링 프로그램 **Maya**의 Personal Learning Edition(PLE
 
 ## 참고문헌
 
-* [오토데스크 마야 파일 형식](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2020/ENU/Maya-Rendering/files/GUID-CF9D455A-54AE-4992- BADB-DC1E532F56A8-htm.html)
+* [오토데스크 마야 파일 형식](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-CF9D455A-54AE-4992-BADB-DC1E532F56A8)
 

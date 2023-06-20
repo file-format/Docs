@@ -28,7 +28,7 @@ ATOM ファイルは、情報交換用の汎用形式である一般的な XML �
 
 ### Atom ドキュメントの種類
 
-1. `Atom Entry Documents` - これは、Atom フィードのエントリーと呼ばれる単一の情報項目で構成される XML ドキュメントです。それはatom:entry多数の子要素を含む要素。 Atom エントリのコンテンツは、プレーン テキスト、HTML、XHTML、または別の IANA (Internet Assigned Numbers Authority) メディア タイプにすることができます。
+1. `Atom Entry Documents` - これは、Atom フィードのエントリーと呼ばれる単一の情報項目で構成される XML ドキュメントです。それはatom-entry多数の子要素を含む要素。 Atom エントリのコンテンツは、プレーン テキスト、HTML、XHTML、または別の IANA (Internet Assigned Numbers Authority) メディア タイプにすることができます。
 1. `Atom フィード ドキュメント` - Atom フィードに関するメタデータと、フィードの 1 つ以上のエントリを提供する XML ドキュメントです。クライアントがフィードからの情報を要求すると、要求を満たすための多数の Atom エントリを含むフィード ドキュメントがサーバーによって生成されます。
 1. `Atom コレクション` - 編集可能な Atom エントリの URL を含む特別な種類の Atom フィード ドキュメントです。
 

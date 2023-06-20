@@ -23,5 +23,5 @@ Az MP fájl egy projektfájl, amelyet a **Maya** 3D modellező program Personal 
 
 ## Hivatkozások
 
-* [Autodesk Maya fájlformátumok](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2020/ENU/Maya-Rendering/files/GUID-CF9D455A-54AE-4992- BADB-DC1E532F56A8-htm.html)
+* [Autodesk Maya fájlformátumok](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-CF9D455A-54AE-4992-BADB-DC1E532F56A8)
 

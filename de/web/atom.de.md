@@ -28,7 +28,7 @@ ATOM-Dateien werden im beliebten XML-Dateiformat gespeichert und veröffentlicht
 
 ### Arten von Atom-Dokumenten
 
-1. „Atom-Eintragsdokumente“ – Es handelt sich um ein XML-Dokument, das aus einem einzelnen Informationselement, bekannt als Eintrag, für den Atom-Feed besteht. Es hat eine atom:entry -Element, das mehrere untergeordnete Elemente enthält. Der Inhalt eines Atom-Eintrags kann einfacher Text, HTML, XHTML oder ein anderer Medientyp der IANA (Internet Assigned Numbers Authority) sein.
+1. „Atom-Eintragsdokumente“ – Es handelt sich um ein XML-Dokument, das aus einem einzelnen Informationselement, bekannt als Eintrag, für den Atom-Feed besteht. Es hat eine atom-entry -Element, das mehrere untergeordnete Elemente enthält. Der Inhalt eines Atom-Eintrags kann einfacher Text, HTML, XHTML oder ein anderer Medientyp der IANA (Internet Assigned Numbers Authority) sein.
 1. „Atom-Feed-Dokumente“ – Dies ist ein XML-Dokument, das Metadaten über einen Atom-Feed und einen oder mehrere Einträge für den Feed bereitstellt. Wenn ein Client Informationen aus dem Feed anfordert, wird das Feeddokument vom Server generiert, das eine Reihe von Atom-Einträgen enthält, um die Anforderung zu erfüllen.
 1. `Atom Collection` - Dies ist eine besondere Art von Atom-Feed-Dokument, das die URLs von Atom-Einträgen enthält, die bearbeitet werden können.
 

@@ -39,5 +39,5 @@ nodata_value -999999
 
 ## อ้างอิง
 
-* [นำเข้าข้อมูลจุดจากไฟล์ ASCII ที่มีคอลัมน์ที่ผู้ใช้กำหนด](https://knowledge.autodesk.com/support/civil-3d/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Civil3D-UserGuide/files /GUID-B4286EEA-F2FC-4267-87CD-E17C47876AF8-htm.html)
+* [นำเข้าข้อมูลจุดจากไฟล์ ASCII ที่มีคอลัมน์ที่ผู้ใช้กำหนด](https://help.autodesk.com/view/CIV3D/2016/ENU/?guid=GUID-B4286EEA-F2FC-4267-87CD-E17C47876AF8)
 

@@ -53,5 +53,5 @@ PAT 파일은 일반 텍스트 형식으로 작성되며 모든 텍스트 편집
 ```
 ## 참조 ##
 
-* [Autodesk의 해시 패턴](https://knowledge.autodesk.com/support/autocad-lt/learn-explore/caas/CloudHelp/cloudhelp/2018/ENU/AutoCAD-LT/files/GUID-A6F2E6FF-1717- 44B6-A476-0CA817ADD77E-htm.html)
+* [Autodesk의 해시 패턴](https://help.autodesk.com/view/ACDLT/2018/ENU/?guid=GUID-A6F2E6FF-1717-44B6-A476-0CA817ADD77E)
 

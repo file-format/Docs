@@ -23,5 +23,5 @@ MP 文件是使用 3D 建模程序 **Maya** 的个人学习版 (PLE) 创建的�
 
 ## 参考
 
-* [Autodesk Maya 文件格式](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2020/ENU/Maya-Rendering/files/GUID-CF9D455A-54AE-4992- BADB-DC1E532F56A8-htm.html)
+* [Autodesk Maya 文件格式](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-CF9D455A-54AE-4992-BADB-DC1E532F56A8)
 

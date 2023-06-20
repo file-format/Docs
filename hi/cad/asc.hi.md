@@ -39,5 +39,5 @@ nodata_value -999999
 
 ## संदर्भ
 
-* [उपयोगकर्ता परिभाषित कॉलम वाली ASCII फ़ाइल से बिंदु डेटा आयात करें](https://knowledge.autodesk.com/support/civil-3d/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Civil3D-UserGuide/files /GUID-B4286EEA-F2FC-4267-87CD-E17C47876AF8-htm.html)
+* [उपयोगकर्ता परिभाषित कॉलम वाली ASCII फ़ाइल से बिंदु डेटा आयात करें](https://help.autodesk.com/view/CIV3D/2016/ENU/?guid=GUID-B4286EEA-F2FC-4267-87CD-E17C47876AF8)
 

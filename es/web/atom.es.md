@@ -28,7 +28,7 @@ Los archivos ATOM se almacenan y publican en el popular formato de archivo XML, 
 
 ### Tipos de documentos Atom
 
-1. "Documentos de entrada de Atom": es un documento XML que consta de un solo elemento de información, conocido como entrada, para el feed de Atom. tiene un atom:entry elemento que contiene una serie de elementos secundarios. El contenido de una entrada Atom puede ser texto sin formato, HTML, XHTML u otro tipo de medio IANA (Autoridad de Números Asignados en Internet).
+1. "Documentos de entrada de Atom": es un documento XML que consta de un solo elemento de información, conocido como entrada, para el feed de Atom. tiene un atom-entry elemento que contiene una serie de elementos secundarios. El contenido de una entrada Atom puede ser texto sin formato, HTML, XHTML u otro tipo de medio IANA (Autoridad de Números Asignados en Internet).
 1. `Documentos de fuente Atom`: es un documento XML que proporciona metadatos sobre una fuente Atom y una o más entradas para la fuente. Cuando un cliente realiza una solicitud de información de la fuente, el servidor genera el documento de fuente que incluye una cantidad de entradas Atom para cumplir con la solicitud.
 1. `Colección Atom`: es un tipo especial de documento de fuente Atom que contiene las direcciones URL de las entradas Atom que están disponibles para ser editadas.
 

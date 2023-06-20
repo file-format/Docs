@@ -27,5 +27,5 @@ RFA फ़ाइल एक डेटा फ़ाइल है जिसे Revi
 
 ## संदर्भ
 
-* [नमूना परिवार फ़ाइलें संशोधित करें](https://knowledge.autodesk.com/support/revit/getting-started/caas/CloudHelp/cloudhelp/2021/ENU/Revit-GetStarted/files/GUID-73E0E508-B9DA-4405- BAB4-C46D803BC1DE-htm.html)
+* [नमूना परिवार फ़ाइलें संशोधित करें](https://knowledge.autodesk.com/support/revit/getting-started/caas/CloudHelp/cloudhelp/2021/ENU/Revit-GetStarted/files/GUID-73E0E508-B9DA-4405-BAB4-C46D803BC1DE-htm.html)
 

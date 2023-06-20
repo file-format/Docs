@@ -28,7 +28,7 @@ Pliki ATOM są przechowywane i publikowane w popularnym formacie pliku XML, któ
 
 ### Typy dokumentów Atomu
 
-1. „Dokumenty wejścia Atom” — jest to dokument XML, który składa się z pojedynczej pozycji informacji, zwanej wpisem, dla kanału informacyjnego Atom. ma atom:entry element zawierający pewną liczbę elementów podrzędnych. Treść wpisu Atom może być zwykłym tekstem, HTML, XHTML lub innym typem nośnika IANA (Internet Assigned Numbers Authority).
+1. „Dokumenty wejścia Atom” — jest to dokument XML, który składa się z pojedynczej pozycji informacji, zwanej wpisem, dla kanału informacyjnego Atom. ma atom-entry element zawierający pewną liczbę elementów podrzędnych. Treść wpisu Atom może być zwykłym tekstem, HTML, XHTML lub innym typem nośnika IANA (Internet Assigned Numbers Authority).
 1. „Dokumenty kanału Atom” — jest to dokument XML zawierający metadane dotyczące kanału Atom oraz jeden lub więcej wpisów dotyczących kanału. Gdy klient żąda informacji z kanału, serwer generuje dokument kanału, który zawiera pewną liczbę wpisów Atom, aby spełnić żądanie.
 1. `Atom Collection` - Jest to specjalny rodzaj dokumentu kanału Atom, który zawiera adresy URL wpisów Atom, które można edytować.
 

@@ -53,5 +53,5 @@ Outro exemplo que mostra o padrão de paralelogramo é o seguinte.
 ```
 ## Referências ##
 
-* [Padrões de hash da Autodesk](https://knowledge.autodesk.com/support/autocad-lt/learn-explore/caas/CloudHelp/cloudhelp/2018/ENU/AutoCAD-LT/files/GUID-A6F2E6FF-1717- 44B6-A476-0CA817ADD77E-htm.html)
+* [Padrões de hash da Autodesk](https://help.autodesk.com/view/ACDLT/2018/ENU/?guid=GUID-A6F2E6FF-1717-44B6-A476-0CA817ADD77E)
 
