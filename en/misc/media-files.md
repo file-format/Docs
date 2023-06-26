@@ -13,7 +13,7 @@
   },
   "draft": "false",
   "toc": true,
-  "title": "What are Media Files?",
+  "title": "What are Media Files? Types, Formats, and their Impact on Digital Communication",
   "description": "Learn about Media Files, their Types, Formats and Impact on Digital Communication.",
   "linktitle": "MEDIA FILES",
   "menu": {
