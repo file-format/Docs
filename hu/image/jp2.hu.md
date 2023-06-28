@@ -85,6 +85,6 @@ A kép fizikai jellemzőitől függően 20%-os tömörítési nyereség érhető
 
 ## Hivatkozások ##
 
-* [A JPEG 2000 áttekintése](https://jpeg.org/jpeg2000)
+* [A JPEG 2000 áttekintése](https://jpeg.org/jpeg2000/)
 * [JPEG 2000 képkódoló rendszer](https://en.wikipedia.org/wiki/JPEG_2000#JPEG_2000_image_coding_system_-_Parts)
 

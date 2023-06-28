@@ -28,5 +28,5 @@
 ## использованная литература
 
 * [ArtCAM Autodesk](https://www.autodesk.com/products/artcam/overview)
-* [Autodesk ArtCAM не может открывать графические файлы, созданные в предыдущих устаревших версиях] -previous-legacy-versions.html)
+* [Autodesk ArtCAM не может открывать графические файлы, созданные в предыдущих устаревших версиях](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in-previous-legacy-versions.html)
 

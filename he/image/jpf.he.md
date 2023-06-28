@@ -35,6 +35,6 @@ JPF הוא פורמט קובץ האחסון הרשמי כאשר קבצי JPX מ�
 
 ## הפניות ##
 
-* [סקירה כללית של JPEG 2000](https://jpeg.org/jpeg2000)
+* [סקירה כללית של JPEG 2000](https://jpeg.org/jpeg2000/)
 * [ISO/IEC 15444-2:2004](https://www.iso.org/standard/33160.html)
 

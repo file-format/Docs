@@ -46,5 +46,5 @@ JPX ファイル形式では、画像コードストリームをフラグメン�
 
 ## 参照 ##
 
-※【JPEG2000の概要】(https://jpeg.org/jpeg2000)
+※【JPEG2000の概要】(https://jpeg.org/jpeg2000/)
 

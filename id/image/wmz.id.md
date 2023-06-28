@@ -34,6 +34,6 @@ Format file GZIP [spesifikasi versi 4.3](http://tools.ietf.org/html/rfc1952) yan
 
 ## Referensi
 
-* [RFC1952: spesifikasi format file GZIP](http://tools.ietf.org/html/rfc1952), oleh [IETF](https://ietf.org)
+* [RFC1952: spesifikasi format file GZIP](http://tools.ietf.org/html/rfc1952), oleh [IETF](https://www.ietf.org)
 * [Windows MetaFile - Wikipedia](https://en.wikipedia.org/wiki/Windows_Metafile)
 

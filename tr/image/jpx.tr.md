@@ -46,5 +46,5 @@ JPX dosya biçimi, görüntü kod akışının parçalara bölünmesine izin ver
 
 ## Referanslar ##
 
-* [JPEG 2000'e Genel Bakış](https://jpeg.org/jpeg2000)
+* [JPEG 2000'e Genel Bakış](https://jpeg.org/jpeg2000/)
 

@@ -35,6 +35,6 @@ JPF adalah format file penyimpanan formal ketika file JPX disimpan dalam sistem 
 
 ## Referensi ##
 
-* [Ringkasan JPEG 2000](https://jpeg.org/jpeg2000)
+* [Ringkasan JPEG 2000](https://jpeg.org/jpeg2000/)
 * [ISO/IEC 15444-2:2004](https://www.iso.org/standard/33160.html)
 

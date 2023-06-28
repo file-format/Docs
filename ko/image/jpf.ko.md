@@ -35,6 +35,6 @@ JPF는 JPX 파일이 컴퓨터 파일 시스템에 저장될 때 공식 저장 �
 
 ## 참조 ##
 
-* [JPEG 2000 개요](https://jpeg.org/jpeg2000)
+* [JPEG 2000 개요](https://jpeg.org/jpeg2000/)
 * [ISO/IEC 15444-2:2004](https://www.iso.org/standard/33160.html)
 

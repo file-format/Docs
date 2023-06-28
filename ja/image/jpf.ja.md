@@ -35,6 +35,6 @@ JPF は、JPX ファイルがコンピューターのファイル システム�
 
 ## 参照 ##
 
-※【JPEG2000の概要】(https://jpeg.org/jpeg2000)
+※【JPEG2000の概要】(https://jpeg.org/jpeg2000/)
 * [ISO/IEC 15444-2:2004](https://www.iso.org/standard/33160.html)
 

@@ -34,6 +34,6 @@ Internet Engineering Task Force (IETF) によって発行された GZIP ファ�
 
 ## 参考文献
 
-* [RFC1952: GZIP ファイル形式仕様](http://tools.ietf.org/html/rfc1952)、[IETF](https://ietf.org) による
+* [RFC1952: GZIP ファイル形式仕様](http://tools.ietf.org/html/rfc1952)、[IETF](https://www.ietf.org) による
 * [Windows メタファイル - ウィキペディア](https://en.wikipedia.org/wiki/Windows_Metafile)
 

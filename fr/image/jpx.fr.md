@@ -46,5 +46,5 @@ Le format de fichier JPX permet de diviser le flux codé de l'image en fragments
 
 ## Références ##
 
-* [Aperçu de JPEG 2000](https://jpeg.org/jpeg2000)
+* [Aperçu de JPEG 2000](https://jpeg.org/jpeg2000/)
 

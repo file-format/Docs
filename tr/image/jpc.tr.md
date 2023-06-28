@@ -24,6 +24,6 @@ JPC dosyaları Adobe Photoshop 2022, Adobe Photoshop Elements ve Adobe Illustrat
 
 ## Referanslar ##
 
-* [JPEG 2000'e Genel Bakış](https://jpeg.org/jpeg2000)
+* [JPEG 2000'e Genel Bakış](https://jpeg.org/jpeg2000/)
 * [JPEG 2000 görüntü kodlama sistemi](https://en.wikipedia.org/wiki/JPEG_2000#JPEG_2000_image_coding_system_-_Parts)
 

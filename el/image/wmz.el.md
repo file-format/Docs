@@ -34,6 +34,6 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [RFC1952: Προδιαγραφή μορφής αρχείου GZIP](http://tools.ietf.org/html/rfc1952), από [IETF](https://ietf.org)
+* [RFC1952: Προδιαγραφή μορφής αρχείου GZIP](http://tools.ietf.org/html/rfc1952), από [IETF](https://www.ietf.org)
 * [Windows MetaFile - Wikipedia](https://en.wikipedia.org/wiki/Windows_Metafile)
 

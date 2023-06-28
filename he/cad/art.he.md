@@ -28,5 +28,5 @@
 ## הפניות
 
 * [ArtCAM Autodesk](https://www.autodesk.com/products/artcam/overview)
-* [Autodesk ArtCAM לא יכול לפתוח קובצי אמנות שנוצרו בגרסאות מדור קודם](https://knowledge.autodesk.com/search-result/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in -previous-legacy-versions.html)
+* [Autodesk ArtCAM לא יכול לפתוח קובצי אמנות שנוצרו בגרסאות מדור קודם](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in-previous-legacy-versions.html)
 

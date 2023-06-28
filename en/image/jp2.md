@@ -85,5 +85,5 @@ Depending upon the physical characteristics of an image, a compression gain of 2
 
 ## References ##
 
-* [Overview of JPEG 2000](https://jpeg.org/jpeg2000)
+* [Overview of JPEG 2000](https://jpeg.org/jpeg2000/)
 * [JPEG 2000 image coding system](https://en.wikipedia.org/wiki/JPEG_2000#JPEG_2000_image_coding_system_-_Parts)

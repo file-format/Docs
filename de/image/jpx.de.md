@@ -46,5 +46,5 @@ Das JPX-Dateiformat ermöglicht die Aufteilung des Bild-Codestreams in Fragmente
 
 ## Verweise ##
 
-* [Überblick über JPEG 2000](https://jpeg.org/jpeg2000)
+* [Überblick über JPEG 2000](https://jpeg.org/jpeg2000/)
 

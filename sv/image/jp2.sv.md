@@ -85,6 +85,6 @@ Beroende på de fysiska egenskaperna hos en bild erhålls en komprimeringsvinst 
 
 ## Referenser ##
 
-* [Översikt över JPEG 2000](https://jpeg.org/jpeg2000)
+* [Översikt över JPEG 2000](https://jpeg.org/jpeg2000/)
 * [JPEG 2000 bildkodningssystem](https://en.wikipedia.org/wiki/JPEG_2000#JPEG_2000_image_coding_system_-_Parts)
 

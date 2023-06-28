@@ -34,6 +34,6 @@ Das von der Internet Engineering Task Force (IETF) veröffentlichte GZIP-Dateifo
 
 ## Verweise
 
-* [RFC1952: GZIP-Dateiformatspezifikation](http://tools.ietf.org/html/rfc1952), von [IETF](https://ietf.org)
+* [RFC1952: GZIP-Dateiformatspezifikation](http://tools.ietf.org/html/rfc1952), von [IETF](https://www.ietf.org)
 * [Windows-Metadatei – Wikipedia](https://en.wikipedia.org/wiki/Windows_Metafile)
 

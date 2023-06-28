@@ -35,6 +35,6 @@ JPF 是 JPX 文件存储在计算机文件系统中时的正式存储文件格�
 
 ## 参考 ＃＃
 
-* [JPEG 2000 概述](https://jpeg.org/jpeg2000)
+* [JPEG 2000 概述](https://jpeg.org/jpeg2000/)
 * [ISO/IEC 15444-2:2004](https://www.iso.org/standard/33160.html)
 

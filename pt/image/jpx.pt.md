@@ -46,5 +46,5 @@ O formato de arquivo JPX permite que o fluxo de código da imagem seja dividido 
 
 ## Referências ##
 
-* [Visão geral do JPEG 2000](https://jpeg.org/jpeg2000)
+* [Visão geral do JPEG 2000](https://jpeg.org/jpeg2000/)
 

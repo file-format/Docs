@@ -28,5 +28,5 @@ ART-bestanden zijn op schijf opgeslagen als binaire bestanden zonder dat er spec
 ## Referenties
 
 * [ArtCAM Autodesk](https://www.autodesk.com/products/artcam/overview)
-* [Autodesk ArtCAM kan geen kunstbestanden openen die in eerdere legacy-versies zijn gemaakt](https://knowledge.autodesk.com/search-result/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in -vorige-legacy-versies.html)
+* [Autodesk ArtCAM kan geen kunstbestanden openen die in eerdere legacy-versies zijn gemaakt](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in-previous-legacy-versions.html)
 

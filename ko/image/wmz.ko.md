@@ -34,6 +34,6 @@ IETF(Internet Engineering Task Force)에서 발행한 GZIP 파일 형식[사양 
 
 ## 참고문헌
 
-* [RFC1952: GZIP 파일 형식 사양](http://tools.ietf.org/html/rfc1952), [IETF](https://ietf.org) 작성
+* [RFC1952: GZIP 파일 형식 사양](http://tools.ietf.org/html/rfc1952), [IETF](https://www.ietf.org) 작성
 * [윈도우 메타파일 - 위키피디아](https://en.wikipedia.org/wiki/Windows_Metafile)
 

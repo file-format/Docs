@@ -85,6 +85,6 @@ Tùy thuộc vào các đặc điểm vật lý của hình ảnh, mức tăng n
 
 ## Người giới thiệu ##
 
-* [Tổng quan về JPEG 2000](https://jpeg.org/jpeg2000)
+* [Tổng quan về JPEG 2000](https://jpeg.org/jpeg2000/)
 * [Hệ thống mã hóa hình ảnh JPEG 2000](https://en.wikipedia.org/wiki/JPEG_2000#JPEG_2000_image_coding_system_-_Parts)
 

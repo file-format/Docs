@@ -46,5 +46,5 @@ JPX 文件格式允许将图像码流分成片段。这使得可以修改图像�
 
 ## 参考 ＃＃
 
-* [JPEG 2000 概述](https://jpeg.org/jpeg2000)
+* [JPEG 2000 概述](https://jpeg.org/jpeg2000/)
 

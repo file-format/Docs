@@ -34,6 +34,6 @@ Các tệp WMZ được nén [Gzip](/vi/compression/gz/) và chứa [WMF](/vi/im
 
 ## Người giới thiệu
 
-* [RFC1952: Đặc tả định dạng tệp GZIP](http://tools.ietf.org/html/rfc1952), bởi [IETF](https://ietf.org)
+* [RFC1952: Đặc tả định dạng tệp GZIP](http://tools.ietf.org/html/rfc1952), bởi [IETF](https://www.ietf.org)
 * [Siêu tệp Windows - Wikipedia](https://en.wikipedia.org/wiki/Windows_Metafile)
 

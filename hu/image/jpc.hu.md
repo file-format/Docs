@@ -24,6 +24,6 @@ A JPC fájlok az Adobe Photoshop 2022, az Adobe Photoshop Elements és az Adobe 
 
 ## Referenciák ##
 
-* [A JPEG 2000 áttekintése](https://jpeg.org/jpeg2000)
+* [A JPEG 2000 áttekintése](https://jpeg.org/jpeg2000/)
 * [JPEG 2000 képkódoló rendszer](https://en.wikipedia.org/wiki/JPEG_2000#JPEG_2000_image_coding_system_-_Parts)
 

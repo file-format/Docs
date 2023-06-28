@@ -34,6 +34,6 @@
 
 ## הפניות
 
-* [RFC1952: מפרט פורמט קובץ GZIP](http://tools.ietf.org/html/rfc1952), מאת [IETF](https://ietf.org)
+* [RFC1952: מפרט פורמט קובץ GZIP](http://tools.ietf.org/html/rfc1952), מאת [IETF](https://www.ietf.org)
 * [Windows MetaFile - ויקיפדיה](https://en.wikipedia.org/wiki/Windows_Metafile)
 

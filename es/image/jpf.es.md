@@ -35,6 +35,6 @@ JPF es el formato de archivo de almacenamiento formal cuando los archivos JPX se
 
 ## Referencias ##
 
-* [Resumen de JPEG 2000](https://jpeg.org/jpeg2000)
+* [Resumen de JPEG 2000](https://jpeg.org/jpeg2000/)
 * [ISO/IEC 15444-2:2004](https://www.iso.org/standard/33160.html)
 

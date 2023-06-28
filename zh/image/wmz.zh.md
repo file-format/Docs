@@ -34,6 +34,6 @@ WMZ 文件经过 [Gzip](/zh/compression/gz/) 压缩，内部包含 [WMF](/zh/ima
 
 ## 参考
 
-* [RFC1952：GZIP 文件格式规范](http://tools.ietf.org/html/rfc1952)，由 [IETF](https://ietf.org)
+* [RFC1952：GZIP 文件格式规范](http://tools.ietf.org/html/rfc1952)，由 [IETF](https://www.ietf.org)
 * [Windows 元文件 - 维基百科](https://en.wikipedia.org/wiki/Windows_Metafile)
 

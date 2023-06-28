@@ -35,6 +35,6 @@ JPF là định dạng tệp lưu trữ chính thức khi tệp JPX được lư
 
 ## Người giới thiệu ##
 
-* [Tổng quan về JPEG 2000](https://jpeg.org/jpeg2000)
+* [Tổng quan về JPEG 2000](https://jpeg.org/jpeg2000/)
 * [ISO/IEC 15444-2:2004](https://www.iso.org/standard/33160.html)
 

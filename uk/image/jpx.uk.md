@@ -46,5 +46,5 @@
 
 ## Посилання ##
 
-* [Огляд JPEG 2000](https://jpeg.org/jpeg2000)
+* [Огляд JPEG 2000](https://jpeg.org/jpeg2000/)
 

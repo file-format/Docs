@@ -46,5 +46,5 @@ JPX-filformatet gör att bildkodströmmen kan delas upp i fragment. Detta gör d
 
 ## Referenser ##
 
-* [Översikt över JPEG 2000](https://jpeg.org/jpeg2000)
+* [Översikt över JPEG 2000](https://jpeg.org/jpeg2000/)
 

@@ -57,5 +57,5 @@ Los elementos aquí le permiten especificar qué categoría de objeto desea incl
 
 ## Referencias
 
-* [Autodesk - Exportación a ASCII](https://knowledge.autodesk.com/support/3ds-max/learn-explore/caas/CloudHelp/cloudhelp/2020/ENU/3DSMax-Data-Exchange/files/GUID-98B2388D -A3A7-4096-8E81-888A3F9D6069-htm.html)
+* [Autodesk - Exportación a ASCII](https://help.autodesk.com/view/3DSMAX/2020/ENU/?guid=GUID-98B2388D-A3A7-4096-8E81-888A3F9D6069)
 

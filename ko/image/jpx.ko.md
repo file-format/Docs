@@ -46,5 +46,5 @@ JPX 파일 형식을 사용하면 이미지 코드스트림을 조각으로 나�
 
 ## 참조 ##
 
-* [JPEG 2000 개요](https://jpeg.org/jpeg2000)
+* [JPEG 2000 개요](https://jpeg.org/jpeg2000/)
 

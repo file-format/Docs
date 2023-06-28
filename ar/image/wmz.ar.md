@@ -34,6 +34,6 @@
 
 ## مراجع
 
-* [RFC1952: مواصفات تنسيق ملف GZIP](http://tools.ietf.org/html/rfc1952) ، بواسطة [IETF](https://ietf.org)
+* [RFC1952: مواصفات تنسيق ملف GZIP](http://tools.ietf.org/html/rfc1952) ، بواسطة [IETF](https://www.ietf.org)
 * [Windows MetaFile - Wikipedia](https://en.wikipedia.org/wiki/Windows_Metafile)
 

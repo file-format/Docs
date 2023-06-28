@@ -34,6 +34,6 @@ O formato de arquivo GZIP [especificações versão 4.3](http://tools.ietf.org/h
 
 ## Referências
 
-* [RFC1952: especificação de formato de arquivo GZIP](http://tools.ietf.org/html/rfc1952), por [IETF](https://ietf.org)
+* [RFC1952: especificação de formato de arquivo GZIP](http://tools.ietf.org/html/rfc1952), por [IETF](https://www.ietf.org)
 * [Windows MetaFile - Wikipedia](https://en.wikipedia.org/wiki/Windows_Metafile)
 

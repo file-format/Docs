@@ -28,5 +28,5 @@ File ART disimpan ke disk sebagai file biner tanpa spesifikasi format file ART y
 ## Referensi
 
 * [ArtCAM Autodesk](https://www.autodesk.com/products/artcam/overview)
-* [Autodesk ArtCAM tidak dapat membuka file seni yang dibuat di versi lawas sebelumnya](https://knowledge.autodesk.com/search-result/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in -versi-warisan-sebelumnya.html)
+* [Autodesk ArtCAM tidak dapat membuka file seni yang dibuat di versi lawas sebelumnya](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in-previous-legacy-versions.html)
 

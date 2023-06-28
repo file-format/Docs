@@ -46,5 +46,5 @@ Formát souboru JPX umožňuje rozdělení obrazového kódu na fragmenty. To um
 
 ## Reference ##
 
-* [Přehled JPEG 2000](https://jpeg.org/jpeg2000)
+* [Přehled JPEG 2000](https://jpeg.org/jpeg2000/)
 

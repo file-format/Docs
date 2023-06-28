@@ -95,5 +95,5 @@ Subchunk 4000의 첫 번째 항목은 개체 이름의 ASCIIZ 문자열입니다
 
 ## 참고문헌
 
-* [지오메트리 파일 형식 - Autodesk](https://knowledge.autodesk.com/support/3ds-max/learn-explore/caas/CloudHelp/cloudhelp/2015/ENU/3DSMax/files/GUID-566E59EE-8221-4AC6-824B-5062C5AE0B32-htm.html)
+* [지오메트리 파일 형식 - Autodesk](https://help.autodesk.com/view/3DSMAX/2015/ENU/?guid=GUID-566E59EE-8221-4AC6-824B-5062C5AE0B32)
 * [3DS - 위키피디아 작성](https://en.wikipedia.org/wiki/.3ds)

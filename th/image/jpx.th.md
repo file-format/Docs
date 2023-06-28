@@ -46,5 +46,5 @@
 
 ## อ้างอิง ##
 
-* [ภาพรวมของ JPEG 2000](https://jpeg.org/jpeg2000)
+* [ภาพรวมของ JPEG 2000](https://jpeg.org/jpeg2000/)
 

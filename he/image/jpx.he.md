@@ -46,5 +46,5 @@
 
 ## הפניות ##
 
-* [סקירה כללית של JPEG 2000](https://jpeg.org/jpeg2000)
+* [סקירה כללית של JPEG 2000](https://jpeg.org/jpeg2000/)
 

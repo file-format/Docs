@@ -24,6 +24,6 @@ JPC 文件可以使用 Adobe Photoshop 2022、Adobe Photoshop Elements 和 Adobe
 
 ## 参考 ＃＃
 
-* [JPEG 2000 概述](https://jpeg.org/jpeg2000)
+* [JPEG 2000 概述](https://jpeg.org/jpeg2000/)
 * [JPEG 2000 图像编码系统](https://en.wikipedia.org/wiki/JPEG_2000#JPEG_2000_image_coding_system_-_Parts)
 

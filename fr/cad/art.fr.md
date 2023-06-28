@@ -28,5 +28,5 @@ Les fichiers ART ont été enregistrés sur le disque en tant que fichiers binai
 ## Références
 
 * [ArtCAM Autodesk](https://www.autodesk.com/products/artcam/overview)
-* [Autodesk ArtCAM ne peut pas ouvrir les fichiers d'art créés dans les versions héritées précédentes](https://knowledge.autodesk.com/search-result/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in -previous-legacy-versions.html)
+* [Autodesk ArtCAM ne peut pas ouvrir les fichiers d'art créés dans les versions héritées précédentes](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in-previous-legacy-versions.html)
 

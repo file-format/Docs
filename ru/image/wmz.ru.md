@@ -34,6 +34,6 @@
 
 ## использованная литература
 
-* [RFC1952: Спецификация формата файла GZIP](http://tools.ietf.org/html/rfc1952), [IETF](https://ietf.org)
+* [RFC1952: Спецификация формата файла GZIP](http://tools.ietf.org/html/rfc1952), [IETF](https://www.ietf.org)
 * [Метафайл Windows — Википедия](https://en.wikipedia.org/wiki/Windows_Metafile)
 

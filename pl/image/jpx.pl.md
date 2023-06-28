@@ -46,5 +46,5 @@ Format pliku JPX umożliwia podzielenie strumienia kodu obrazu na fragmenty. Umo
 
 ## Bibliografia ##
 
-* [Przegląd formatu JPEG 2000](https://jpeg.org/jpeg2000)
+* [Przegląd formatu JPEG 2000](https://jpeg.org/jpeg2000/)
 

@@ -35,6 +35,6 @@ A JPF a formális tárolási fájlformátum, amikor a JPX fájlokat számítóg�
 
 ## Referenciák ##
 
-* [A JPEG 2000 áttekintése](https://jpeg.org/jpeg2000)
+* [A JPEG 2000 áttekintése](https://jpeg.org/jpeg2000/)
 * [ISO/IEC 15444-2:2004](https://www.iso.org/standard/33160.html)
 

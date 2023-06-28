@@ -57,5 +57,5 @@ ASE 파일은 모든 텍스트 편집기에서 열 수 있는 ASCII 형식으로
 
 ## 참고문헌
 
-* [오토데스크 - ASCII로 내보내기](https://knowledge.autodesk.com/support/3ds-max/learn-explore/caas/CloudHelp/cloudhelp/2020/ENU/3DSMax-Data-Exchange/files/GUID-98B2388D -A3A7-4096-8E81-888A3F9D6069-htm.html)
+* [오토데스크 - ASCII로 내보내기](https://help.autodesk.com/view/3DSMAX/2020/ENU/?guid=GUID-98B2388D-A3A7-4096-8E81-888A3F9D6069)
 

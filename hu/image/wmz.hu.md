@@ -34,6 +34,6 @@ Az Internet Engineering Task Force (IETF) által közzétett GZIP fájlformátum
 
 ## Hivatkozások
 
-* [RFC1952: GZIP fájlformátum specifikáció](http://tools.ietf.org/html/rfc1952), készítette: [IETF](https://ietf.org)
+* [RFC1952: GZIP fájlformátum specifikáció](http://tools.ietf.org/html/rfc1952), készítette: [IETF](https://www.ietf.org)
 * [Windows MetaFile – Wikipédia](https://en.wikipedia.org/wiki/Windows_Metafile)
 

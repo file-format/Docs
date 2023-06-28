@@ -28,5 +28,5 @@
 ## مراجع
 
 * [ArtCAM Autodesk](https://www.autodesk.com/products/artcam/overview)
-* [لا يمكن لـ Autodesk ArtCAM فتح الملفات الفنية التي تم إنشاؤها في الإصدارات القديمة السابقة](https://knowledge.autodesk.com/search-result/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in -pr previous-legacy-version.html)
+* [لا يمكن لـ Autodesk ArtCAM فتح الملفات الفنية التي تم إنشاؤها في الإصدارات القديمة السابقة](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in-previous-legacy-versions.html)
 

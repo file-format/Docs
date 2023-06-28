@@ -46,5 +46,5 @@ Met het JPX-bestandsformaat kan de afbeeldingscodestroom in fragmenten worden ve
 
 ## Referenties ##
 
-* [Overzicht van JPEG 2000](https://jpeg.org/jpeg2000)
+* [Overzicht van JPEG 2000](https://jpeg.org/jpeg2000/)
 

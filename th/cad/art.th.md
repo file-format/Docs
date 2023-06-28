@@ -28,5 +28,5 @@
 ## อ้างอิง
 
 * [ArtCAM Autodesk](https://www.autodesk.com/products/artcam/overview)
-* [Autodesk ArtCAM ไม่สามารถเปิดไฟล์งานศิลป์ที่สร้างในเวอร์ชันเดิมก่อนหน้านี้ได้](https://knowledge.autodesk.com/search-result/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in -previous-legacy-versions.html)
+* [Autodesk ArtCAM ไม่สามารถเปิดไฟล์งานศิลป์ที่สร้างในเวอร์ชันเดิมก่อนหน้านี้ได้](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in-previous-legacy-versions.html)
 

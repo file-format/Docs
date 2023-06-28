@@ -57,5 +57,5 @@ Elementele de aici vă permit să specificați ce categorie de obiect doriți s�
 
 ## Referințe
 
-* [Autodesk - Exportare în ASCII](https://knowledge.autodesk.com/support/3ds-max/learn-explore/caas/CloudHelp/cloudhelp/2020/ENU/3DSMax-Data-Exchange/files/GUID-98B2388D -A3A7-4096-8E81-888A3F9D6069-htm.html)
+* [Autodesk - Exportare în ASCII](https://help.autodesk.com/view/3DSMAX/2020/ENU/?guid=GUID-98B2388D-A3A7-4096-8E81-888A3F9D6069)
 

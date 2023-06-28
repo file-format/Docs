@@ -35,6 +35,6 @@ JPF este formatul formal de fișier de stocare atunci când fișierele JPX sunt 
 
 ## Referințe ##
 
-* [Prezentare generală despre JPEG 2000](https://jpeg.org/jpeg2000)
+* [Prezentare generală despre JPEG 2000](https://jpeg.org/jpeg2000/)
 * [ISO/IEC 15444-2:2004](https://www.iso.org/standard/33160.html)
 

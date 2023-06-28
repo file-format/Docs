@@ -85,6 +85,6 @@ JPEG 2000 파일은 연속적인 청크로 구성됩니다. 각 청크에는 8�
 
 ## 참조 ##
 
-* [JPEG 2000 개요](https://jpeg.org/jpeg2000)
+* [JPEG 2000 개요](https://jpeg.org/jpeg2000/)
 * [JPEG 2000 이미지 코딩 시스템](https://en.wikipedia.org/wiki/JPEG_2000#JPEG_2000_image_coding_system_-_Parts)
 

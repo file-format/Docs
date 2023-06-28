@@ -35,6 +35,6 @@ JPF est le format de fichier de stockage formel lorsque les fichiers JPX sont st
 
 ## Références ##
 
-* [Aperçu de JPEG 2000](https://jpeg.org/jpeg2000)
+* [Aperçu de JPEG 2000](https://jpeg.org/jpeg2000/)
 * [ISO/CEI 15444-2:2004](https://www.iso.org/standard/33160.html)
 

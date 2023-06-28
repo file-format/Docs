@@ -85,6 +85,6 @@ JPEG 2000 文件由连续的块组成。每个块有 8 个字节的头：4 字�
 
 ## 参考 ＃＃
 
-* [JPEG 2000 概述](https://jpeg.org/jpeg2000)
+* [JPEG 2000 概述](https://jpeg.org/jpeg2000/)
 * [JPEG 2000 图像编码系统](https://en.wikipedia.org/wiki/JPEG_2000#JPEG_2000_image_coding_system_-_Parts)
 

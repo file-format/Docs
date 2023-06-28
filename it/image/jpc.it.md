@@ -24,6 +24,6 @@ I file JPC possono essere aperti con Adobe Photoshop 2022, Adobe Photoshop Eleme
 
 ## Riferimenti ##
 
-* [Panoramica di JPEG 2000](https://jpeg.org/jpeg2000)
+* [Panoramica di JPEG 2000](https://jpeg.org/jpeg2000/)
 * [Sistema di codifica delle immagini JPEG 2000](https://en.wikipedia.org/wiki/JPEG_2000#JPEG_2000_image_coding_system_-_Parts)
 

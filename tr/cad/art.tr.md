@@ -28,5 +28,5 @@ ART dosyaları, geliştiricinin referansı için ART dosya formatı belirtimleri
 ## Referanslar
 
 * [ArtCAM Autodesk](https://www.autodesk.com/products/artcam/overview)
-* [Autodesk ArtCAM, önceki eski sürümlerde yapılan sanat dosyalarını açamaz](https://knowledge.autodesk.com/search-result/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in -previous-legacy-versions.html)
+* [Autodesk ArtCAM, önceki eski sürümlerde yapılan sanat dosyalarını açamaz](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in-previous-legacy-versions.html)
 

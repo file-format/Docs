@@ -28,5 +28,5 @@ ART ファイルはバイナリ ファイルとしてディスクに保存され
 ## 参考文献
 
 * [ArtCAM オートデスク](https://www.autodesk.com/products/artcam/overview)
-* [Autodesk ArtCAM は以前のレガシー バージョンで作成されたアート ファイルを開くことができません](https://knowledge.autodesk.com/search-result/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in -previous-legacy-versions.html)
+* [Autodesk ArtCAM は以前のレガシー バージョンで作成されたアート ファイルを開くことができません](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in-previous-legacy-versions.html)
 

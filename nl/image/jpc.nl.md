@@ -24,6 +24,6 @@ JPC-bestanden kunnen worden geopend met Adobe Photoshop 2022, Adobe Photoshop El
 
 ## Referenties ##
 
-* [Overzicht van JPEG 2000](https://jpeg.org/jpeg2000)
+* [Overzicht van JPEG 2000](https://jpeg.org/jpeg2000/)
 * [JPEG 2000 beeldcoderingssysteem](https://en.wikipedia.org/wiki/JPEG_2000#JPEG_2000_image_coding_system_-_Parts)
 

@@ -24,6 +24,6 @@ JPC ファイルは、Adobe Photoshop 2022、Adobe Photoshop Elements、およ�
 
 ## 参照 ##
 
-※【JPEG2000の概要】(https://jpeg.org/jpeg2000)
+※【JPEG2000の概要】(https://jpeg.org/jpeg2000/)
 * [JPEG 2000 画像符号化システム](https://en.wikipedia.org/wiki/JPEG_2000#JPEG_2000_image_coding_system_-_Parts)
 

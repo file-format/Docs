@@ -35,6 +35,6 @@ JPF, JPX dosyaları bilgisayar dosya sistemlerinde depolandığında resmi depol
 
 ## Referanslar ##
 
-* [JPEG 2000'e Genel Bakış](https://jpeg.org/jpeg2000)
+* [JPEG 2000'e Genel Bakış](https://jpeg.org/jpeg2000/)
 * [ISO/IEC 15444-2:2004](https://www.iso.org/standard/33160.html)
 

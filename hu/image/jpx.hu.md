@@ -46,5 +46,5 @@ A JPX fájlformátum lehetővé teszi a kép kódfolyamának töredékekre való
 
 ## Hivatkozások ##
 
-* [A JPEG 2000 áttekintése](https://jpeg.org/jpeg2000)
+* [A JPEG 2000 áttekintése](https://jpeg.org/jpeg2000/)
 

@@ -46,5 +46,5 @@ Formatul de fișier JPX permite ca fluxul de cod al imaginii să fie împărțit
 
 ## Referințe ##
 
-* [Prezentare generală despre JPEG 2000](https://jpeg.org/jpeg2000)
+* [Prezentare generală despre JPEG 2000](https://jpeg.org/jpeg2000/)
 

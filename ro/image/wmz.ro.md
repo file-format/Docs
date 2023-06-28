@@ -34,6 +34,6 @@ Formatul de fișier GZIP [specificații versiunea 4.3](http://tools.ietf.org/htm
 
 ## Referințe
 
-* [RFC1952: specificația formatului fișierului GZIP](http://tools.ietf.org/html/rfc1952), de [IETF](https://ietf.org)
+* [RFC1952: specificația formatului fișierului GZIP](http://tools.ietf.org/html/rfc1952), de [IETF](https://www.ietf.org)
 * [Windows MetaFile - Wikipedia](https://en.wikipedia.org/wiki/Windows_Metafile)
 

@@ -34,6 +34,6 @@ Internet Engineering Task Force (IETF) tarafından yayınlanan GZIP dosya biçim
 
 ## Referanslar
 
-* [RFC1952: GZIP dosya biçimi belirtimi](http://tools.ietf.org/html/rfc1952), [IETF](https://ietf.org) tarafından
+* [RFC1952: GZIP dosya biçimi belirtimi](http://tools.ietf.org/html/rfc1952), [IETF](https://www.ietf.org) tarafından
 * [Windows Meta Dosyası - Wikipedia](https://en.wikipedia.org/wiki/Windows_Metafile)
 

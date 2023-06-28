@@ -28,5 +28,5 @@
 ## संदर्भ
 
 * [आर्टकैम ऑटोडेस्क](https://www.autodesk.com/products/artcam/overview)
-* [ऑटोडेस्क आर्टकैम पिछले पुराने संस्करणों में बनाई गई कला फाइलें नहीं खोल सकता](https://knowledge.autodesk.com/search-result/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in -पिछला-विरासत-संस्करण.एचटीएमएल)
+* [ऑटोडेस्क आर्टकैम पिछले पुराने संस्करणों में बनाई गई कला फाइलें नहीं खोल सकता](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in-previous-legacy-versions.html)
 

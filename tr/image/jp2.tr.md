@@ -85,6 +85,6 @@ Bir görüntünün fiziksel özelliklerine bağlı olarak, %20'lik bir sıkışt
 
 ## Referanslar ##
 
-* [JPEG 2000'e Genel Bakış](https://jpeg.org/jpeg2000)
+* [JPEG 2000'e Genel Bakış](https://jpeg.org/jpeg2000/)
 * [JPEG 2000 resim kodlama sistemi](https://en.wikipedia.org/wiki/JPEG_2000#JPEG_2000_image_coding_system_-_Parts)
 

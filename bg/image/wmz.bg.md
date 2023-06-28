@@ -34,6 +34,6 @@ WMZ файловете са [Gzip](/bg/compression/gz/) компресирани
 
 ## Препратки
 
-* [RFC1952: спецификация на GZIP файлов формат](http://tools.ietf.org/html/rfc1952), от [IETF](https://ietf.org)
+* [RFC1952: спецификация на GZIP файлов формат](http://tools.ietf.org/html/rfc1952), от [IETF](https://www.ietf.org)
 * [Метафайл на Windows - Уикипедия](https://en.wikipedia.org/wiki/Метафайл на Windows)
 

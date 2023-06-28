@@ -46,5 +46,5 @@ Cấu trúc nhị phân của hộp trong tệp JPX giống với cấu trúc đ
 
 ## Người giới thiệu ##
 
-* [Tổng quan về JPEG 2000](https://jpeg.org/jpeg2000)
+* [Tổng quan về JPEG 2000](https://jpeg.org/jpeg2000/)
 

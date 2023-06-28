@@ -46,5 +46,5 @@ JPX файловете се съхраняват като [JPF](/bg/image/jpf/),
 
 ## Препратки ##
 
-* [Общ преглед на JPEG 2000](https://jpeg.org/jpeg2000)
+* [Общ преглед на JPEG 2000](https://jpeg.org/jpeg2000/)
 

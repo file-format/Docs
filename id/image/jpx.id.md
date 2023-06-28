@@ -46,5 +46,5 @@ Format file JPX memungkinkan codestream gambar dibagi menjadi beberapa fragmen. 
 
 ## Referensi ##
 
-* [Ringkasan JPEG 2000](https://jpeg.org/jpeg2000)
+* [Ringkasan JPEG 2000](https://jpeg.org/jpeg2000/)
 

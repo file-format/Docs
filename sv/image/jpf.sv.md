@@ -35,6 +35,6 @@ JPF är det formella lagringsfilformatet när JPX-filer lagras i datorfilsystem.
 
 ## Referenser ##
 
-* [Översikt över JPEG 2000](https://jpeg.org/jpeg2000)
+* [Översikt över JPEG 2000](https://jpeg.org/jpeg2000/)
 * [ISO/IEC 15444-2:2004](https://www.iso.org/standard/33160.html)
 
