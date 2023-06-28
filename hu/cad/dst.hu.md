@@ -33,7 +33,7 @@ A lap állapota bármikor a következő állapotok bármelyikében lehet.
 
 ## Hivatkozások
 
-* [A DST-lapkészletek használatáról](https://knowledge.autodesk.com/support/autocad-lt/learn-explore/caas/CloudHelp/cloudhelp/2017/ENU/AutoCAD-LT/files/GUID-577D8EA0-85F2 -4829-B4F9-8CAD6F7AACC-htm.html)
+* [A DST-lapkészletek használatáról](https://help.autodesk.com/view/ACDLT/2017/ENU/?guid=GUID-577D8EA0-85F2-4829-B4F9-8CAD6F7AAACC)
 * [További információ a lapkészletekről](https://help.autodesk.com/view/ACDLT/2017/ENU/?guid=GUID-34D889BC-19AD-4CD1-ADB1-F359D9B515FB)
 * [AutoCAD-lapkészletek elsajátítása](https://damassets.autodesk.net/content/dam/autodesk/www/cad-manager-center/articles/Mastering-AutoCAD-Sheet-Sets_Preview_EN.pdf)
 
