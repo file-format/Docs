@@ -90,4 +90,4 @@ DNG Version 1.4 October 2012 has the following advanced features.
 
 * [DNG Specifications - By Adobe](https://www.kronometric.org/phot/processing/DNG/dng_spec_1.4.0.0.pdf)
 * [Digital Negative - Wikipedia](https://en.wikipedia.org/wiki/Digital_Negative)
-* [DNG - The public archival format for digital camera raw data](https://helpx.adobe.com/photoshop/digital-negative.html)
+* [DNG - The public archival format for digital camera raw data](https://helpx.adobe.com/camera-raw/digital-negative.html)
