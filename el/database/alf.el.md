@@ -28,5 +28,5 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Μια κατανόηση των αρχείων που συνθέτουν ένα ACT! από τη βάση δεδομένων Sage](https://help.act.com/hc/en-us/articles/360024238854-An-Understanding-of-the-Files-that-Compose-an-ACT-by-Sage-Database#s2 )
+* [ACT! ADF](/database/adf/)
 

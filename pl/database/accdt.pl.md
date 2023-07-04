@@ -35,7 +35,7 @@ Pliki ACCDT to pakiety zawierające kolekcję powiązanych części. Każda **cz
 
 #### Pakiet
 
-Pakiet to archiwum [ZIP](/pl/compression/zip/), które zawiera wiele części i jest zgodne z konwencjami otwartego pakowania określonymi w [ISO/IEC-29500-2](https://go.microsoft.com/fwlink/ ?LinkId=150883). Pliki ACCDT muszą zawierać co najmniej jedną część metadanych szablonu, która powinna być celem relacji. Te metadane szablonu są początkową częścią pliku ACCDT.
+Pakiet to archiwum [ZIP](/pl/compression/zip/), które zawiera wiele części i jest zgodne z konwencjami otwartego pakowania określonymi w [ISO/IEC-29500-2](https://www.iso.org/standard/51459.html). Pliki ACCDT muszą zawierać co najmniej jedną część metadanych szablonu, która powinna być celem relacji. Te metadane szablonu są początkową częścią pliku ACCDT.
 
 #### Część
 

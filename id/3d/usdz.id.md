@@ -45,4 +45,4 @@ Karena file usdz dikemas dengan file gambar dan usd berkualitas tinggi lainnya, 
 
 ## Referensi
 
-* [Spesifikasi Format File USDZ](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
+* [Spesifikasi Format File USDZ](https://openusd.org/release/spec_usdz.html)

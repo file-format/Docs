@@ -19,7 +19,7 @@
 
 ## Co je soubor GNM?
 
-Soubor GNM je tabulkový soubor vytvořený pomocí [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric), což je tabulkový procesor a je součástí [GNOME](https://gnome.org/) Desktop Software. Ukládá tabulková data v řádcích a sloupcích a poskytuje podporu pro grafy a další funkce tabulkového procesoru. Soubory GNM se ukládají na disk ve formátu souboru [XML](/cs/web/xml/) (podobně jako XLSX) a jsou komprimovány pomocí [GZIP](/cs/compression/gz/). Cílem Gnumeric bylo poskytnout open source tabulkovou aplikaci, která nakonec poskytne alternativu k Microsoft Excel.
+Soubor GNM je tabulkový soubor vytvořený pomocí [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric), což je tabulkový procesor a je součástí [GNOME](https://www.gnome.org/) Desktop Software. Ukládá tabulková data v řádcích a sloupcích a poskytuje podporu pro grafy a další funkce tabulkového procesoru. Soubory GNM se ukládají na disk ve formátu souboru [XML](/cs/web/xml/) (podobně jako XLSX) a jsou komprimovány pomocí [GZIP](/cs/compression/gz/). Cílem Gnumeric bylo poskytnout open source tabulkovou aplikaci, která nakonec poskytne alternativu k Microsoft Excel.
 
 ## Formát souboru GNM
 

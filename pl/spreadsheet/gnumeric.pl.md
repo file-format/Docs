@@ -19,7 +19,7 @@
 
 ## Czym jest plik GNUMERIC?
 
-Plik z rozszerzeniem pliku GNUMERIC to plik arkusza kalkulacyjnego utworzony za pomocą oprogramowania Gnumeric, które jest częścią pakietu aplikacji komputerowych [GNOME](https://gnome.org/). Może przechowywać dane arkusza roboczego wraz z obsługą wykresów, opcjami formatowania i innymi danymi. Dane w pliku GNUMERIC są przechowywane w formacie pliku [XML](/pl/web/xml/) i kompresowane przy użyciu schematu kompresji [GZIP](/pl/compression/gz/). Pliki GNUMERIC są również zapisywane w formacie pliku [GNM](/pl/spreadsheet/gnm/).
+Plik z rozszerzeniem pliku GNUMERIC to plik arkusza kalkulacyjnego utworzony za pomocą oprogramowania Gnumeric, które jest częścią pakietu aplikacji komputerowych [GNOME](https://www.gnome.org/). Może przechowywać dane arkusza roboczego wraz z obsługą wykresów, opcjami formatowania i innymi danymi. Dane w pliku GNUMERIC są przechowywane w formacie pliku [XML](/pl/web/xml/) i kompresowane przy użyciu schematu kompresji [GZIP](/pl/compression/gz/). Pliki GNUMERIC są również zapisywane w formacie pliku [GNM](/pl/spreadsheet/gnm/).
 
 ## Format pliku GNUMERIC
 

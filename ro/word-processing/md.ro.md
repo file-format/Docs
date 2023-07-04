@@ -64,5 +64,5 @@ Multi-Markdown a adăugat diverse funcții la limbă, care sunt acceptate de alt
 
 ## Referințe
 
-* [Mastering MarkDown](https://guides.github.com/features/mastering-markdown/)
+* [Mastering MarkDown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 

@@ -19,7 +19,7 @@
 
 ## .USD ファイルとは何ですか?
 
-拡張子が .usd のファイルは、デジタル コンテンツ作成アプリケーション間でデータを交換および拡張する目的でデータをエンコードするユニバーサル シーン記述ファイル形式です。 Pixar によって開発された [USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html) は、要素アセット (モデルなど) またはアニメーションを交換する機能を提供します。
+拡張子が .usd のファイルは、デジタル コンテンツ作成アプリケーション間でデータを交換および拡張する目的でデータをエンコードするユニバーサル シーン記述ファイル形式です。 Pixar によって開発された [USD](https://openusd.org/release/intro.html) は、要素アセット (モデルなど) またはアニメーションを交換する機能を提供します。
 
 ## USDファイル形式
 
@@ -133,6 +133,6 @@ def Sphere "Planet" (
 ```
 ## 参照 ##
 
-* [米ドルの紹介](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html)
-* [USD API リファレンス](https://graphics.pixar.com/usd/docs/USD-Developer-API-Reference.html)
+* [米ドルの紹介](https://openusd.org/release/intro.html)
+* [USD API リファレンス](https://openusd.org/release/apiDocs.html)
 

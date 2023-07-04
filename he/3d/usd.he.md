@@ -19,7 +19,7 @@
 
 ## מהו קובץ USD?
 
-קובץ עם סיומת .usd הוא פורמט קובץ Universal Scene Description המקודד נתונים למטרת החלפת נתונים והגדלה בין יישומי יצירת תוכן דיגיטלי. פותח על ידי Pixar, [USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html) מספק את היכולת להחליף נכסים יסודיים (כגון מודלים) או אנימציה.
+קובץ עם סיומת .usd הוא פורמט קובץ Universal Scene Description המקודד נתונים למטרת החלפת נתונים והגדלה בין יישומי יצירת תוכן דיגיטלי. פותח על ידי Pixar, [USD](https://openusd.org/release/intro.html) מספק את היכולת להחליף נכסים יסודיים (כגון מודלים) או אנימציה.
 
 ## פורמט קובץ USD
 
@@ -133,6 +133,6 @@ def Sphere "Planet" (
 ```
 ## הפניות ##
 
-* [מבוא לדולר ארה"ב](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html)
-* [USD API Reference](https://graphics.pixar.com/usd/docs/USD-Developer-API-Reference.html)
+* [מבוא לדולר ארה"ב](https://openusd.org/release/intro.html)
+* [USD API Reference](https://openusd.org/release/apiDocs.html)
 

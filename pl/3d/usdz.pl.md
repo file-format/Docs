@@ -45,4 +45,4 @@ Ponieważ pliki usdz są wypełnione innymi wysokiej jakości obrazami i plikami
 
 ## Bibliografia
 
-* [Specyfikacja formatu pliku USDZ](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
+* [Specyfikacja formatu pliku USDZ](https://openusd.org/release/spec_usdz.html)

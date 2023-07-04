@@ -19,7 +19,7 @@
 
 ## Що таке файл USD?
 
-Файл із розширенням .usd — це формат файлу універсального опису сцени, який кодує дані з метою обміну даними та доповнення між програмами для створення цифрового вмісту. Розроблений Pixar, [USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html) надає можливість обмінюватися елементарними ресурсами (наприклад, моделями) або анімацією.
+Файл із розширенням .usd — це формат файлу універсального опису сцени, який кодує дані з метою обміну даними та доповнення між програмами для створення цифрового вмісту. Розроблений Pixar, [USD](https://openusd.org/release/intro.html) надає можливість обмінюватися елементарними ресурсами (наприклад, моделями) або анімацією.
 
 ## Формат файлу USD
 
@@ -133,6 +133,6 @@ def Sphere "Planet" (
 ```
 ## Посилання ##
 
-* [Знайомство з доларами США](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html)
-* [Довідка щодо API USD](https://graphics.pixar.com/usd/docs/USD-Developer-API-Reference.html)
+* [Знайомство з доларами США](https://openusd.org/release/intro.html)
+* [Довідка щодо API USD](https://openusd.org/release/apiDocs.html)
 

@@ -45,4 +45,4 @@ usdz 파일에는 다른 고품질 이미지와 usd 파일이 포함되어 있�
 
 ## 참고문헌
 
-* [USDZ 파일 형식 사양](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
+* [USDZ 파일 형식 사양](https://openusd.org/release/spec_usdz.html)

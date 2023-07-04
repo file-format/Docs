@@ -19,7 +19,7 @@
 
 ## Ce este un fișier GNUMERIC?
 
-Un fișier cu extensia de fișier GNUMERIC este un fișier de foaie de calcul creat cu software-ul Gnumeric care face parte din suita de aplicații desktop [GNOME](https://gnome.org/). Poate stoca date din foile de lucru împreună cu suport pentru diagrame, opțiuni de formatare și alte date. Datele dintr-un fișier GNUMERIC sunt stocate în format de fișier [XML](/ro/web/xml/) și sunt comprimate folosind schema de compresie [GZIP](/ro/compression/gz/). Fișierele GNUMERIC sunt salvate și în formatul de fișier [GNM](/ro/spreadsheet/gnm/).
+Un fișier cu extensia de fișier GNUMERIC este un fișier de foaie de calcul creat cu software-ul Gnumeric care face parte din suita de aplicații desktop [GNOME](https://www.gnome.org/). Poate stoca date din foile de lucru împreună cu suport pentru diagrame, opțiuni de formatare și alte date. Datele dintr-un fișier GNUMERIC sunt stocate în format de fișier [XML](/ro/web/xml/) și sunt comprimate folosind schema de compresie [GZIP](/ro/compression/gz/). Fișierele GNUMERIC sunt salvate și în formatul de fișier [GNM](/ro/spreadsheet/gnm/).
 
 ## Format de fișier GNUMERIC
 

@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo GNM?
 
-El archivo GNM es un archivo de hoja de cálculo creado con [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric) que es un programa de hoja de cálculo y viene como parte de [GNOME](https://gnome.org/) Escritorio Software. Almacena datos de hojas de cálculo en filas y columnas, y brinda soporte para gráficos y otras funciones de hojas de cálculo. Los archivos GNM se guardan en el disco en formato de archivo [XML](/es/web/xml/) (similar a XLSX) y se comprimen mediante [GZIP](/es/compression/gz/). El objetivo de Gnumeric era proporcionar una aplicación de hoja de cálculo de código abierto que finalmente proporcionaría una alternativa a Microsoft Excel.
+El archivo GNM es un archivo de hoja de cálculo creado con [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric) que es un programa de hoja de cálculo y viene como parte de [GNOME](https://www.gnome.org/) Escritorio Software. Almacena datos de hojas de cálculo en filas y columnas, y brinda soporte para gráficos y otras funciones de hojas de cálculo. Los archivos GNM se guardan en el disco en formato de archivo [XML](/es/web/xml/) (similar a XLSX) y se comprimen mediante [GZIP](/es/compression/gz/). El objetivo de Gnumeric era proporcionar una aplicación de hoja de cálculo de código abierto que finalmente proporcionaría una alternativa a Microsoft Excel.
 
 ## Formato de archivo GNM
 

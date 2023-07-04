@@ -19,7 +19,7 @@
 
 ## Mi az az USD fájl?
 
-Az .usd kiterjesztésű fájl egy univerzális jelenetleíró fájlformátum, amely adatokat kódol a digitális tartalomkészítő alkalmazások közötti adatcsere és -kiegészítés céljából. A Pixar által kifejlesztett [USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html) lehetőséget biztosít elemi eszközök (például modellek) vagy animációk cseréjére.
+Az .usd kiterjesztésű fájl egy univerzális jelenetleíró fájlformátum, amely adatokat kódol a digitális tartalomkészítő alkalmazások közötti adatcsere és -kiegészítés céljából. A Pixar által kifejlesztett [USD](https://openusd.org/release/intro.html) lehetőséget biztosít elemi eszközök (például modellek) vagy animációk cseréjére.
 
 ## USD fájlformátum
 
@@ -133,6 +133,6 @@ def Sphere "Planet" (
 ```
 ## Hivatkozások ##
 
-* [Bevezetés az USD-be](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html)
-* [USD API-referencia](https://graphics.pixar.com/usd/docs/USD-Developer-API-Reference.html)
+* [Bevezetés az USD-be](https://openusd.org/release/intro.html)
+* [USD API-referencia](https://openusd.org/release/apiDocs.html)
 

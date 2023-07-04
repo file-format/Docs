@@ -19,7 +19,7 @@
 
 ## Vad är en GNUMERIC fil?
 
-En fil med filtillägget GNUMERIC är en kalkylarksfil som skapats med Gnumeric-programvaran som är en del av [GNOME](https://gnome.org/) skrivbordsprogramsvit. Det kan lagra kalkylbladsdata tillsammans med stöd för diagram, formateringsalternativ och annan data. Data i en GNUMERIC-fil lagras i filformatet [XML](/sv/web/xml/) och komprimeras med hjälp av komprimeringsschemat [GZIP](/sv/compression/gz/). GNUMERIC-filer sparas också i filformatet [GNM](/sv/spreadsheet/gnm/).
+En fil med filtillägget GNUMERIC är en kalkylarksfil som skapats med Gnumeric-programvaran som är en del av [GNOME](https://www.gnome.org/) skrivbordsprogramsvit. Det kan lagra kalkylbladsdata tillsammans med stöd för diagram, formateringsalternativ och annan data. Data i en GNUMERIC-fil lagras i filformatet [XML](/sv/web/xml/) och komprimeras med hjälp av komprimeringsschemat [GZIP](/sv/compression/gz/). GNUMERIC-filer sparas också i filformatet [GNM](/sv/spreadsheet/gnm/).
 
 ## GNUMERIC filformat
 

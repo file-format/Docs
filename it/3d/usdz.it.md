@@ -45,4 +45,4 @@ Poiché i file usdz sono pieni di altre immagini e file usd di alta qualità, po
 
 ## Riferimenti
 
-* [Specifiche del formato file USDZ](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
+* [Specifiche del formato file USDZ](https://openusd.org/release/spec_usdz.html)

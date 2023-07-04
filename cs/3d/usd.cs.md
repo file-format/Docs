@@ -19,7 +19,7 @@
 
 ## Co je soubor USD?
 
-Soubor s příponou .usd je formát souboru Universal Scene Description, který kóduje data za účelem výměny a rozšiřování dat mezi aplikacemi pro vytváření digitálního obsahu. [USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html), vyvinutý společností Pixar, poskytuje možnost vyměňovat si základní prvky (jako jsou modely) nebo animace.
+Soubor s příponou .usd je formát souboru Universal Scene Description, který kóduje data za účelem výměny a rozšiřování dat mezi aplikacemi pro vytváření digitálního obsahu. [USD](https://openusd.org/release/intro.html), vyvinutý společností Pixar, poskytuje možnost vyměňovat si základní prvky (jako jsou modely) nebo animace.
 
 ## Formát souboru USD
 
@@ -133,6 +133,6 @@ def Sphere "Planet" (
 ```
 ## Reference ##
 
-* [Úvod do USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html)
-* [Reference USD API](https://graphics.pixar.com/usd/docs/USD-Developer-API-Reference.html)
+* [Úvod do USD](https://openusd.org/release/intro.html)
+* [Reference USD API](https://openusd.org/release/apiDocs.html)
 

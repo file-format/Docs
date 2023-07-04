@@ -45,4 +45,4 @@ Como os arquivos usdz são embalados com outras imagens de alta qualidade e arqu
 
 ## Referências
 
-* [Especificações de formato de arquivo USDZ](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
+* [Especificações de formato de arquivo USDZ](https://openusd.org/release/spec_usdz.html)

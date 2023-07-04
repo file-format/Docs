@@ -35,7 +35,7 @@ Los archivos ACCDT son paquetes que contienen una colección de partes relaciona
 
 #### Paquete
 
-Un paquete es un archivo [ZIP](/es/compression/zip/) que contiene varias partes y cumple con las convenciones de empaquetado abierto especificadas en [ISO/IEC-29500-2](https://go.microsoft.com/fwlink/ ?LinkId=150883). Los archivos ACCDT deben contener al menos una parte de metadatos de plantilla que debe ser el objetivo de una relación. Esta plantilla de metadatos es la parte inicial de un archivo ACCDT.
+Un paquete es un archivo [ZIP](/es/compression/zip/) que contiene varias partes y cumple con las convenciones de empaquetado abierto especificadas en [ISO/IEC-29500-2](https://www.iso.org/standard/51459.html). Los archivos ACCDT deben contener al menos una parte de metadatos de plantilla que debe ser el objetivo de una relación. Esta plantilla de metadatos es la parte inicial de un archivo ACCDT.
 
 #### Parte
 

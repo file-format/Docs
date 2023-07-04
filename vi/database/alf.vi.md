@@ -28,5 +28,5 @@ Các tệp ALF được lưu dưới dạng tệp nhị phân và định dạng
 
 ## Người giới thiệu
 
-* [Hiểu biết về các tệp cấu thành một ACT! bởi Sage Database](https://help.act.com/hc/en-us/articles/360024238854-An-Understanding-of-the-Files-that-Compose-an-ACT-by-Sage-Database#s2 )
+* [ACT! ADF](/database/adf/)
 

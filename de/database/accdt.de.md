@@ -35,7 +35,7 @@ ACCDT-Dateien sind Pakete, die eine Sammlung verwandter Teile enthalten. Jeder *
 
 #### Paket
 
-Ein Paket ist ein [ZIP](/de/compression/zip/)-Archiv, das mehrere Teile enthält und den Open Packaging Conventions entspricht, die in [ISO/IEC-29500-2](https://go.microsoft.com/fwlink/ ?LinkId=150883). ACCDT-Dateien müssen mindestens einen Template-Metadatenteil enthalten, der das Ziel einer Beziehung sein sollte. Diese Template-Metadaten sind der Anfangsteil einer ACCDT-Datei.
+Ein Paket ist ein [ZIP](/de/compression/zip/)-Archiv, das mehrere Teile enthält und den Open Packaging Conventions entspricht, die in [ISO/IEC-29500-2](https://www.iso.org/standard/51459.html). ACCDT-Dateien müssen mindestens einen Template-Metadatenteil enthalten, der das Ziel einer Beziehung sein sollte. Diese Template-Metadaten sind der Anfangsteil einer ACCDT-Datei.
 
 #### Teil
 

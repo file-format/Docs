@@ -28,5 +28,5 @@
 
 ## Список літератури
 
-* [Розуміння файлів, які складають ACT! від бази даних Sage](https://help.act.com/hc/en-us/articles/360024238854-An-Understanding-of-the-Files-that-Compose-an-ACT-by-Sage-Database#s2 )
+* [ACT! ADF](/database/adf/)
 

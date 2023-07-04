@@ -35,5 +35,5 @@ Das MPQ-Dateiformat wurde zuerst von Mike O'Brien zum Speichern von Spieldaten e
 
 ## Verweise
 
-* [HandWiki - MPQ](https://handwiki.org/wiki/MPQ_(Dateiformat))
+* [HandWiki - MPQ](https://handwiki.org/wiki/MPQ_(file_format))
 

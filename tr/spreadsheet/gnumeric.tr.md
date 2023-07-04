@@ -19,7 +19,7 @@
 
 ## GNUMERIC dosyası nedir?
 
-GNUMERIC dosya uzantısına sahip bir dosya, [GNOME](https://gnome.org/) masaüstü uygulama paketinin bir parçası olan Gnumeric yazılımıyla oluşturulan bir elektronik tablo dosyasıdır. Grafik desteği, biçimlendirme seçenekleri ve diğer verilerle birlikte çalışma sayfası verilerini depolayabilir. Bir GNUMERIC dosyasındaki veriler [XML](/tr/web/xml/) dosya formatında saklanır ve [GZIP](/tr/compression/gz/) sıkıştırma şeması kullanılarak sıkıştırılır. GNUMERIC dosyaları ayrıca [GNM](/tr/spreadsheet/gnm/) dosya biçiminde kaydedilir.
+GNUMERIC dosya uzantısına sahip bir dosya, [GNOME](https://www.gnome.org/) masaüstü uygulama paketinin bir parçası olan Gnumeric yazılımıyla oluşturulan bir elektronik tablo dosyasıdır. Grafik desteği, biçimlendirme seçenekleri ve diğer verilerle birlikte çalışma sayfası verilerini depolayabilir. Bir GNUMERIC dosyasındaki veriler [XML](/tr/web/xml/) dosya formatında saklanır ve [GZIP](/tr/compression/gz/) sıkıştırma şeması kullanılarak sıkıştırılır. GNUMERIC dosyaları ayrıca [GNM](/tr/spreadsheet/gnm/) dosya biçiminde kaydedilir.
 
 ## GNUMERIC Dosya Biçimi
 

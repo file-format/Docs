@@ -19,7 +19,7 @@
 
 ## Apa itu file USD?
 
-File dengan ekstensi .usd adalah format file Deskripsi Pemandangan Universal yang menyandikan data untuk tujuan pertukaran dan penambahan data di antara aplikasi pembuatan konten digital. Dikembangkan oleh Pixar, [USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html) memberikan kemampuan untuk menukar aset elemen (seperti model) atau animasi.
+File dengan ekstensi .usd adalah format file Deskripsi Pemandangan Universal yang menyandikan data untuk tujuan pertukaran dan penambahan data di antara aplikasi pembuatan konten digital. Dikembangkan oleh Pixar, [USD](https://openusd.org/release/intro.html) memberikan kemampuan untuk menukar aset elemen (seperti model) atau animasi.
 
 ## Format File USD
 
@@ -133,6 +133,6 @@ def Sphere "Planet" (
 ```
 ## Referensi ##
 
-* [Pengantar USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html)
-* [Referensi API USD](https://graphics.pixar.com/usd/docs/USD-Developer-API-Reference.html)
+* [Pengantar USD](https://openusd.org/release/intro.html)
+* [Referensi API USD](https://openusd.org/release/apiDocs.html)
 

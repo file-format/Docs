@@ -19,7 +19,7 @@
 
 ## Τι είναι ένα αρχείο USD;
 
-Ένα αρχείο με επέκταση .usd είναι μια μορφή αρχείου Universal Scene Description που κωδικοποιεί δεδομένα με σκοπό την ανταλλαγή και την αύξηση δεδομένων μεταξύ εφαρμογών δημιουργίας ψηφιακού περιεχομένου. Αναπτύχθηκε από την Pixar, το [USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html) παρέχει τη δυνατότητα ανταλλαγής στοιχειωδών στοιχείων (όπως μοντέλα) ή κινούμενων εικόνων.
+Ένα αρχείο με επέκταση .usd είναι μια μορφή αρχείου Universal Scene Description που κωδικοποιεί δεδομένα με σκοπό την ανταλλαγή και την αύξηση δεδομένων μεταξύ εφαρμογών δημιουργίας ψηφιακού περιεχομένου. Αναπτύχθηκε από την Pixar, το [USD](https://openusd.org/release/intro.html) παρέχει τη δυνατότητα ανταλλαγής στοιχειωδών στοιχείων (όπως μοντέλα) ή κινούμενων εικόνων.
 
 ## Μορφή αρχείου USD
 
@@ -133,6 +133,6 @@ def Sphere "Planet" (
 ```
 ## Βιβλιογραφικές αναφορές ##
 
-* [Εισαγωγή στο USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html)
-* [Αναφορά API USD](https://graphics.pixar.com/usd/docs/USD-Developer-API-Reference.html)
+* [Εισαγωγή στο USD](https://openusd.org/release/intro.html)
+* [Αναφορά API USD](https://openusd.org/release/apiDocs.html)
 

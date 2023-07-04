@@ -64,5 +64,5 @@ Multi-Markdown menambahkan berbagai fitur ke bahasa yang didukung oleh versi lai
 
 ## Referensi
 
-* [Menguasai MarkDown](https://guides.github.com/features/mastering-markdown/)
+* [Menguasai MarkDown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 

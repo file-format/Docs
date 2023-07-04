@@ -64,5 +64,5 @@ Multi-Markdown hat der Sprache verschiedene Funktionen hinzugefügt, die von and
 
 ## Verweise
 
-* [MarkDown beherrschen](https://guides.github.com/features/mastering-markdown/)
+* [MarkDown beherrschen](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 

@@ -35,7 +35,7 @@ ACCDT files are packages that contain a collection of related parts. Each **part
 
 #### Package
 
-A Package is a [ZIP](/compression/zip/) archive that contains multiple parts and conforms to the Open Packaging Conventions specified in [ISO/IEC-29500-2](https://go.microsoft.com/fwlink/?LinkId=150883). ACCDT files must contain atleast one Template metadaa part which should be the target of a relationship. This Template Metadata is the starting part of an ACCDT file.
+A Package is a [ZIP](/compression/zip/) archive that contains multiple parts and conforms to the Open Packaging Conventions specified in [ISO/IEC-29500-2](https://www.iso.org/standard/51459.html). ACCDT files must contain atleast one Template metadaa part which should be the target of a relationship. This Template Metadata is the starting part of an ACCDT file.
 
 #### Part
 

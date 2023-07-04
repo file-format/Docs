@@ -64,5 +64,5 @@ Multi-Markdown, dile diğer sürümler tarafından desteklenen çeşitli özelli
 
 ## Referanslar
 
-* [MarkDown'da Ustalaşma](https://guides.github.com/features/mastering-markdown/)
+* [MarkDown'da Ustalaşma](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 

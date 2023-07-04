@@ -19,7 +19,7 @@
 
 ## Vad är en GNM fil?
 
-GNM-fil är en kalkylarksfil skapad med [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric) som är ett kalkylprogram och kommer som en del av [GNOME](https://gnome.org/) Desktop Programvara. Den lagrar kalkylbladsdata i rader och kolumner och ger stöd för diagram och andra kalkylbladsfunktioner. GNM-filer sparas på skiva i filformatet [XML](/sv/web/xml/) (liknande XLSX) och komprimeras med hjälp av [GZIP](/sv/compression/gz/). Gnumeriskt mål var att tillhandahålla kalkylbladsprogram med öppen källkod som så småningom kommer att erbjuda alternativ till Microsoft Excel.
+GNM-fil är en kalkylarksfil skapad med [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric) som är ett kalkylprogram och kommer som en del av [GNOME](https://www.gnome.org/) Desktop Programvara. Den lagrar kalkylbladsdata i rader och kolumner och ger stöd för diagram och andra kalkylbladsfunktioner. GNM-filer sparas på skiva i filformatet [XML](/sv/web/xml/) (liknande XLSX) och komprimeras med hjälp av [GZIP](/sv/compression/gz/). Gnumeriskt mål var att tillhandahålla kalkylbladsprogram med öppen källkod som så småningom kommer att erbjuda alternativ till Microsoft Excel.
 
 ## GNM filformat
 

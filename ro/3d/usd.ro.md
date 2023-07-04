@@ -19,7 +19,7 @@
 
 ## Ce este un fișier USD?
 
-Un fișier cu extensia .usd este un format de fișier Universal Scene Description care codifică date în scopul schimbului de date și al creșterii între aplicațiile de creare de conținut digital. Dezvoltat de Pixar, [USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html) oferă posibilitatea de a schimba elemente elementare (cum ar fi modele) sau animație.
+Un fișier cu extensia .usd este un format de fișier Universal Scene Description care codifică date în scopul schimbului de date și al creșterii între aplicațiile de creare de conținut digital. Dezvoltat de Pixar, [USD](https://openusd.org/release/intro.html) oferă posibilitatea de a schimba elemente elementare (cum ar fi modele) sau animație.
 
 ## Format de fișier USD
 
@@ -133,6 +133,6 @@ def Sphere "Planet" (
 ```
 ## Referințe ##
 
-* [Introducere în USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html)
-* [USD API Reference](https://graphics.pixar.com/usd/docs/USD-Developer-API-Reference.html)
+* [Introducere în USD](https://openusd.org/release/intro.html)
+* [USD API Reference](https://openusd.org/release/apiDocs.html)
 

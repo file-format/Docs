@@ -35,5 +35,5 @@ MPQ-filformatet utvecklades först av Mike O'Brien för att lagra speldata. Seda
 
 ## Referenser
 
-* [HandWiki - MPQ](https://handwiki.org/wiki/MPQ_(filformat))
+* [HandWiki - MPQ](https://handwiki.org/wiki/MPQ_(file_format))
 

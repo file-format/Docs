@@ -35,5 +35,5 @@ Souborový formát MPQ byl poprvé vyvinut Mikem O'Brienem pro ukládání hern�
 
 ## Reference
 
-* [HandWiki – MPQ](https://handwiki.org/wiki/MPQ_(formát_souboru))
+* [HandWiki – MPQ](https://handwiki.org/wiki/MPQ_(file_format))
 

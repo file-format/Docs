@@ -45,4 +45,4 @@ Usdz dosyaları diğer yüksek kaliteli görüntüler ve usd dosyalarıyla dolu 
 
 ## Referanslar
 
-* [USDZ Dosya Biçimi Özellikleri](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
+* [USDZ Dosya Biçimi Özellikleri](https://openusd.org/release/spec_usdz.html)

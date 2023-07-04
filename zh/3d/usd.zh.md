@@ -19,7 +19,7 @@
 
 ## 什么是一美元文件？
 
-具有 .usd 扩展名的文件是一种通用场景描述文件格式，它对数据进行编码，以便在数字内容创建应用程序之间进行数据交换和扩充。由 Pixar 开发的 [USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html) 提供了交换元素资产（例如模型）或动画的能力。
+具有 .usd 扩展名的文件是一种通用场景描述文件格式，它对数据进行编码，以便在数字内容创建应用程序之间进行数据交换和扩充。由 Pixar 开发的 [USD](https://openusd.org/release/intro.html) 提供了交换元素资产（例如模型）或动画的能力。
 
 ## 美元文件格式
 
@@ -133,6 +133,6 @@ def Sphere "Planet" (
 ```
 ## 参考 ＃＃
 
-* [美元介绍](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html)
-* [USD API 参考](https://graphics.pixar.com/usd/docs/USD-Developer-API-Reference.html)
+* [美元介绍](https://openusd.org/release/intro.html)
+* [USD API 参考](https://openusd.org/release/apiDocs.html)
 

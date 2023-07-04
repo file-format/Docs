@@ -45,4 +45,4 @@ Mivel az usdz fájlok más kiváló minőségű képekkel és usd fájlokkal van
 
 ## Hivatkozások
 
-* [USDZ fájlformátum specifikációi](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
+* [USDZ fájlformátum specifikációi](https://openusd.org/release/spec_usdz.html)

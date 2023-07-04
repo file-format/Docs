@@ -19,7 +19,7 @@
 
 ## USD dosyası nedir?
 
-.usd uzantılı bir dosya, dijital içerik oluşturma uygulamaları arasında veri alışverişi ve artırma amacıyla verileri kodlayan bir Evrensel Sahne Tanımı dosya biçimidir. Pixar tarafından geliştirilen [USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html), temel varlıkları (modeller gibi) veya animasyonu değiştirme yeteneği sağlar.
+.usd uzantılı bir dosya, dijital içerik oluşturma uygulamaları arasında veri alışverişi ve artırma amacıyla verileri kodlayan bir Evrensel Sahne Tanımı dosya biçimidir. Pixar tarafından geliştirilen [USD](https://openusd.org/release/intro.html), temel varlıkları (modeller gibi) veya animasyonu değiştirme yeteneği sağlar.
 
 ## USD Dosya Biçimi
 
@@ -133,6 +133,6 @@ def Sphere "Planet" (
 ```
 ## Referanslar ##
 
-* [USD'ye Giriş](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html)
-* [USD API Referansı](https://graphics.pixar.com/usd/docs/USD-Developer-API-Reference.html)
+* [USD'ye Giriş](https://openusd.org/release/intro.html)
+* [USD API Referansı](https://openusd.org/release/apiDocs.html)
 

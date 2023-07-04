@@ -35,7 +35,7 @@ ACCDT 文件是包含相关部分集合的包。每个**部分**使用 XML、文
 
 ＃＃＃＃ 包裹
 
-包是一个 [ZIP](/zh/compression/zip/) 存档，包含多个部分并符合 [ISO/IEC-29500-2](https://go.microsoft.com/fwlink/) 中指定的开放打包约定?LinkId=150883)。 ACCDT 文件必须包含至少一个模板元数据部分，它应该是关系的目标。此模板元数据是 ACCDT 文件的起始部分。
+包是一个 [ZIP](/zh/compression/zip/) 存档，包含多个部分并符合 [ISO/IEC-29500-2](https://www.iso.org/standard/51459.html)。 ACCDT 文件必须包含至少一个模板元数据部分，它应该是关系的目标。此模板元数据是 ACCDT 文件的起始部分。
 
 ＃＃＃＃ 部分
 

@@ -19,7 +19,7 @@
 
 ## .GNUMERIC 파일이란?
 
-파일 확장자가 GNUMERIC인 파일은 [GNOME](https://gnome.org/) 데스크탑 응용 프로그램 제품군의 일부인 Gnumeric 소프트웨어로 만든 스프레드시트 파일입니다. 차트, 서식 옵션 및 기타 데이터에 대한 지원과 함께 워크시트 데이터를 저장할 수 있습니다. GNUMERIC 파일의 데이터는 [XML](/ko/web/xml/) 파일 형식으로 저장되고 [GZIP](/ko/compression/gz/) 압축 방식을 사용하여 압축됩니다. GNUMERIC 파일은 [GNM](/ko/spreadsheet/gnm/) 파일 형식으로도 저장됩니다.
+파일 확장자가 GNUMERIC인 파일은 [GNOME](https://www.gnome.org/) 데스크탑 응용 프로그램 제품군의 일부인 Gnumeric 소프트웨어로 만든 스프레드시트 파일입니다. 차트, 서식 옵션 및 기타 데이터에 대한 지원과 함께 워크시트 데이터를 저장할 수 있습니다. GNUMERIC 파일의 데이터는 [XML](/ko/web/xml/) 파일 형식으로 저장되고 [GZIP](/ko/compression/gz/) 압축 방식을 사용하여 압축됩니다. GNUMERIC 파일은 [GNM](/ko/spreadsheet/gnm/) 파일 형식으로도 저장됩니다.
 
 ## 숫자 파일 형식
 

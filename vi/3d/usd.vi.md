@@ -19,7 +19,7 @@
 
 ## Tệp USD là gì?
 
-Một tệp có phần mở rộng .usd là một định dạng tệp Mô tả cảnh phổ biến mã hóa dữ liệu nhằm mục đích trao đổi và bổ sung dữ liệu giữa các ứng dụng tạo nội dung kỹ thuật số. Được phát triển bởi Pixar, [USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html) cung cấp khả năng trao đổi các nội dung cơ bản (chẳng hạn như mô hình) hoặc hoạt ảnh.
+Một tệp có phần mở rộng .usd là một định dạng tệp Mô tả cảnh phổ biến mã hóa dữ liệu nhằm mục đích trao đổi và bổ sung dữ liệu giữa các ứng dụng tạo nội dung kỹ thuật số. Được phát triển bởi Pixar, [USD](https://openusd.org/release/intro.html) cung cấp khả năng trao đổi các nội dung cơ bản (chẳng hạn như mô hình) hoặc hoạt ảnh.
 
 ## Định dạng tệp USD
 
@@ -133,6 +133,6 @@ def Sphere "Planet" (
 ```
 ## Người giới thiệu ##
 
-* [Giới thiệu về USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html)
-* [Tham chiếu API USD](https://graphics.pixar.com/usd/docs/USD-Developer-API-Reference.html)
+* [Giới thiệu về USD](https://openusd.org/release/intro.html)
+* [Tham chiếu API USD](https://openusd.org/release/apiDocs.html)
 

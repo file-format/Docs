@@ -64,5 +64,5 @@ Multi-Markdown은 다른 버전에서 지원하는 다양한 기능을 언어에
 
 ## 참고문헌
 
-* [마크다운 마스터하기](https://guides.github.com/features/mastering-markdown/)
+* [마크다운 마스터하기](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 

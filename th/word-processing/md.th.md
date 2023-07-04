@@ -64,5 +64,5 @@ Multi-Markdown เพิ่มคุณลักษณะต่างๆ ให�
 
 ## อ้างอิง
 
-* [มาร์กดาวน์ระดับมาสเตอร์](https://guides.github.com/features/mastering-markdown/)
+* [มาร์กดาวน์ระดับมาสเตอร์](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 

@@ -45,4 +45,4 @@
 
 ## อ้างอิง
 
-* [ข้อกำหนดรูปแบบไฟล์ USDZ](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
+* [ข้อกำหนดรูปแบบไฟล์ USDZ](https://openusd.org/release/spec_usdz.html)

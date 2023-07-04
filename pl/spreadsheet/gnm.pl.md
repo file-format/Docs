@@ -19,7 +19,7 @@
 
 ## Czym jest plik GNM?
 
-Plik GNM to plik arkusza kalkulacyjnego utworzony za pomocą [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric), który jest programem arkusza kalkulacyjnego i jest częścią [GNOME](https://gnome.org/) Desktop Oprogramowanie. Przechowuje dane arkusza kalkulacyjnego w wierszach i kolumnach oraz zapewnia obsługę wykresów i innych funkcji arkusza kalkulacyjnego. Pliki GNM są zapisywane na dysku w formacie [XML](/pl/web/xml/) (podobnie jak XLSX) i kompresowane przy użyciu [GZIP](/pl/compression/gz/). Celem Gnumeric było dostarczenie aplikacji do obsługi arkuszy kalkulacyjnych typu open source, która docelowo będzie stanowić alternatywę dla programu Microsoft Excel.
+Plik GNM to plik arkusza kalkulacyjnego utworzony za pomocą [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric), który jest programem arkusza kalkulacyjnego i jest częścią [GNOME](https://www.gnome.org/) Desktop Oprogramowanie. Przechowuje dane arkusza kalkulacyjnego w wierszach i kolumnach oraz zapewnia obsługę wykresów i innych funkcji arkusza kalkulacyjnego. Pliki GNM są zapisywane na dysku w formacie [XML](/pl/web/xml/) (podobnie jak XLSX) i kompresowane przy użyciu [GZIP](/pl/compression/gz/). Celem Gnumeric było dostarczenie aplikacji do obsługi arkuszy kalkulacyjnych typu open source, która docelowo będzie stanowić alternatywę dla programu Microsoft Excel.
 
 ## Format pliku GNM
 

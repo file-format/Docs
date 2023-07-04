@@ -19,7 +19,7 @@
 
 ## Vad är en USD-fil?
 
-En fil med filtillägget .usd är ett Universal Scene Description-filformat som kodar data i syfte att datautbyte och utöka mellan applikationer för digitalt innehåll. Utvecklat av Pixar, [USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html) ger möjligheten att byta ut elementära tillgångar (som modeller) eller animationer.
+En fil med filtillägget .usd är ett Universal Scene Description-filformat som kodar data i syfte att datautbyte och utöka mellan applikationer för digitalt innehåll. Utvecklat av Pixar, [USD](https://openusd.org/release/intro.html) ger möjligheten att byta ut elementära tillgångar (som modeller) eller animationer.
 
 ## USD filformat
 
@@ -133,6 +133,6 @@ def Sphere "Planet" (
 ```
 ## Referenser ##
 
-* [Introduktion till USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html)
-* [USD API Reference](https://graphics.pixar.com/usd/docs/USD-Developer-API-Reference.html)
+* [Introduktion till USD](https://openusd.org/release/intro.html)
+* [USD API Reference](https://openusd.org/release/apiDocs.html)
 

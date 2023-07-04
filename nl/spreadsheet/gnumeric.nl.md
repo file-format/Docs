@@ -19,7 +19,7 @@
 
 ## Wat is een GNUMERIC-bestand?
 
-Een bestand met de GNUMERIC-bestandsextensie is een spreadsheetbestand dat is gemaakt met de Gnumeric-software die deel uitmaakt van de [GNOME](https://gnome.org/) desktoptoepassingssuite. Het kan werkbladgegevens opslaan, samen met ondersteuning voor grafieken, opmaakopties en andere gegevens. Gegevens in een GNUMERIC-bestand worden opgeslagen in de bestandsindeling [XML](/nl/web/xml/) en gecomprimeerd met behulp van het compressieschema [GZIP](/nl/compression/gz/). GNUMERIC-bestanden worden ook opgeslagen in de bestandsindeling [GNM](/nl/spreadsheet/gnm/).
+Een bestand met de GNUMERIC-bestandsextensie is een spreadsheetbestand dat is gemaakt met de Gnumeric-software die deel uitmaakt van de [GNOME](https://www.gnome.org/) desktoptoepassingssuite. Het kan werkbladgegevens opslaan, samen met ondersteuning voor grafieken, opmaakopties en andere gegevens. Gegevens in een GNUMERIC-bestand worden opgeslagen in de bestandsindeling [XML](/nl/web/xml/) en gecomprimeerd met behulp van het compressieschema [GZIP](/nl/compression/gz/). GNUMERIC-bestanden worden ook opgeslagen in de bestandsindeling [GNM](/nl/spreadsheet/gnm/).
 
 ## GNUMERIC-bestandsindeling
 

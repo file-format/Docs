@@ -45,4 +45,4 @@
 
 ## Список літератури
 
-* [Специфікації формату файлу USDZ](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
+* [Специфікації формату файлу USDZ](https://openusd.org/release/spec_usdz.html)

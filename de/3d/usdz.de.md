@@ -45,4 +45,4 @@ Da die usdz-Dateien mit anderen hochwertigen Bildern und usd-Dateien gepackt sin
 
 ## Verweise
 
-* [USDZ-Dateiformatspezifikationen](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
+* [USDZ-Dateiformatspezifikationen](https://openusd.org/release/spec_usdz.html)

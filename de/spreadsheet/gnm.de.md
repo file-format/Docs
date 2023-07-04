@@ -19,7 +19,7 @@
 
 ## Was ist eine GNM-Datei?
 
-Die GNM-Datei ist eine Tabellenkalkulationsdatei, die mit [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric) erstellt wurde, einem Tabellenkalkulationsprogramm, das Teil von [GNOME](https://gnome.org/) Desktop ist Software. Es speichert Tabellendaten in Zeilen und Spalten und bietet Unterstützung für Diagramme und andere Tabellenkalkulationsfunktionen. GNM-Dateien werden im Dateiformat [XML](/de/web/xml/) (ähnlich XLSX) auf der Disc gespeichert und mit [GZIP](/de/compression/gz/) komprimiert. Das Ziel von Gnumeric war es, eine Open-Source-Tabellenkalkulationsanwendung bereitzustellen, die schließlich eine Alternative zu Microsoft Excel darstellen wird.
+Die GNM-Datei ist eine Tabellenkalkulationsdatei, die mit [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric) erstellt wurde, einem Tabellenkalkulationsprogramm, das Teil von [GNOME](https://www.gnome.org/) Desktop ist Software. Es speichert Tabellendaten in Zeilen und Spalten und bietet Unterstützung für Diagramme und andere Tabellenkalkulationsfunktionen. GNM-Dateien werden im Dateiformat [XML](/de/web/xml/) (ähnlich XLSX) auf der Disc gespeichert und mit [GZIP](/de/compression/gz/) komprimiert. Das Ziel von Gnumeric war es, eine Open-Source-Tabellenkalkulationsanwendung bereitzustellen, die schließlich eine Alternative zu Microsoft Excel darstellen wird.
 
 ## GNM-Dateiformat
 

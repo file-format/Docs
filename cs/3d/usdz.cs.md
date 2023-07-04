@@ -45,4 +45,4 @@ Vzhledem k tomu, že soubory usdz jsou nabité dalšími vysoce kvalitními obr�
 
 ## Reference
 
-* [Specifikace formátu souboru USDZ](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
+* [Specifikace formátu souboru USDZ](https://openusd.org/release/spec_usdz.html)

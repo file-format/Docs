@@ -64,5 +64,5 @@ Multi-Markdown は、他のバージョンでサポートされているさま�
 
 ## 参考文献
 
-* [MarkDown をマスターする](https://guides.github.com/features/mastering-markdown/)
+* [MarkDown をマスターする](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 

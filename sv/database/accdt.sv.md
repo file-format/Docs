@@ -35,7 +35,7 @@ ACCDT-filer är paket som innehåller en samling relaterade delar. Varje **del**
 
 #### Paket
 
-Ett paket är ett [ZIP](/sv/compression/zip/)-arkiv som innehåller flera delar och överensstämmer med de öppna förpackningskonventionerna som anges i [ISO/IEC-29500-2](https://go.microsoft.com/fwlink/ ?LinkId=150883). ACCDT-filer måste innehålla minst en Template metadaa-del som bör vara målet för en relation. Denna mallmetadata är startdelen av en ACCDT-fil.
+Ett paket är ett [ZIP](/sv/compression/zip/)-arkiv som innehåller flera delar och överensstämmer med de öppna förpackningskonventionerna som anges i [ISO/IEC-29500-2](https://www.iso.org/standard/51459.html). ACCDT-filer måste innehålla minst en Template metadaa-del som bör vara målet för en relation. Denna mallmetadata är startdelen av en ACCDT-fil.
 
 #### Del
 

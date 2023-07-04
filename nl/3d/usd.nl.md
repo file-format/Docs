@@ -19,7 +19,7 @@
 
 ## Wat is een USD-bestand?
 
-Een bestand met de extensie .usd is een Universal Scene Description-bestandsindeling die gegevens codeert met als doel gegevens uit te wisselen en te vergroten tussen toepassingen voor het maken van digitale inhoud. [USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html) is ontwikkeld door Pixar en biedt de mogelijkheid om elementaire activa (zoals modellen) of animatie uit te wisselen.
+Een bestand met de extensie .usd is een Universal Scene Description-bestandsindeling die gegevens codeert met als doel gegevens uit te wisselen en te vergroten tussen toepassingen voor het maken van digitale inhoud. [USD](https://openusd.org/release/intro.html) is ontwikkeld door Pixar en biedt de mogelijkheid om elementaire activa (zoals modellen) of animatie uit te wisselen.
 
 ## USD-bestandsindeling
 
@@ -134,5 +134,5 @@ def Sphere "Planet" (
 ## Referenties ##
 
 * [Inleiding tot USD](https://graphics.pixar.com/usd/docs/Introductie-to-USD.html)
-* [USD API-referentie](https://graphics.pixar.com/usd/docs/USD-Developer-API-Reference.html)
+* [USD API-referentie](https://openusd.org/release/apiDocs.html)
 

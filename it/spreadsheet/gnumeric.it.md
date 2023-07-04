@@ -19,7 +19,7 @@
 
 ## Che cos'è un file GNUMERIC?
 
-Un file con estensione di file GNUMERIC è un file di foglio di calcolo creato con il software Gnumeric che fa parte della suite di applicazioni desktop [GNOME](https://gnome.org/). Può memorizzare i dati del foglio di lavoro insieme al supporto per grafici, opzioni di formattazione e altri dati. I dati in un file GNUMERIC vengono archiviati nel formato file [XML](/it/web/xml/) e compressi utilizzando lo schema di compressione [GZIP](/it/compression/gz/). I file GNUMERIC vengono anche salvati nel formato file [GNM](/it/spreadsheet/gnm/).
+Un file con estensione di file GNUMERIC è un file di foglio di calcolo creato con il software Gnumeric che fa parte della suite di applicazioni desktop [GNOME](https://www.gnome.org/). Può memorizzare i dati del foglio di lavoro insieme al supporto per grafici, opzioni di formattazione e altri dati. I dati in un file GNUMERIC vengono archiviati nel formato file [XML](/it/web/xml/) e compressi utilizzando lo schema di compressione [GZIP](/it/compression/gz/). I file GNUMERIC vengono anche salvati nel formato file [GNM](/it/spreadsheet/gnm/).
 
 ## Formato file GNUMERICO
 

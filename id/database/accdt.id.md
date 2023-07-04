@@ -35,7 +35,7 @@ File ACCDT adalah paket yang berisi kumpulan bagian terkait. Setiap **bagian** m
 
 #### Kemasan
 
-Paket adalah arsip [ZIP](/id/compression/zip/) yang berisi beberapa bagian dan sesuai dengan Konvensi Kemasan Terbuka yang ditentukan dalam [ISO/IEC-29500-2](https://go.microsoft.com/fwlink/ ?LinkId=150883). File ACCDT harus berisi minimal satu bagian metadaa Templat yang harus menjadi target hubungan. Template Metadata ini adalah bagian awal dari file ACCDT.
+Paket adalah arsip [ZIP](/id/compression/zip/) yang berisi beberapa bagian dan sesuai dengan Konvensi Kemasan Terbuka yang ditentukan dalam [ISO/IEC-29500-2](https://www.iso.org/standard/51459.html). File ACCDT harus berisi minimal satu bagian metadaa Templat yang harus menjadi target hubungan. Template Metadata ini adalah bagian awal dari file ACCDT.
 
 #### Bagian
 

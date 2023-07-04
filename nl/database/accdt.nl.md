@@ -35,7 +35,7 @@ ACCDT-bestanden zijn pakketten die een verzameling gerelateerde onderdelen bevat
 
 #### Pakket
 
-Een pakket is een [ZIP](/nl/compression/zip/)-archief dat meerdere delen bevat en voldoet aan de Open Packaging Conventions gespecificeerd in [ISO/IEC-29500-2](https://go.microsoft.com/fwlink/ ?LinkId=150883). ACCDT-bestanden moeten ten minste één sjabloon-metadaa-gedeelte bevatten dat het doel van een relatie zou moeten zijn. Deze sjabloonmetadata is het startgedeelte van een ACCDT-bestand.
+Een pakket is een [ZIP](/nl/compression/zip/)-archief dat meerdere delen bevat en voldoet aan de Open Packaging Conventions gespecificeerd in [ISO/IEC-29500-2](https://www.iso.org/standard/51459.html). ACCDT-bestanden moeten ten minste één sjabloon-metadaa-gedeelte bevatten dat het doel van een relatie zou moeten zijn. Deze sjabloonmetadata is het startgedeelte van een ACCDT-bestand.
 
 #### Een deel
 

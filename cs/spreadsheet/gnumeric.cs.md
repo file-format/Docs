@@ -19,7 +19,7 @@
 
 ## Co je soubor GNUMERIC?
 
-Soubor s příponou GNUMERIC je tabulkový soubor vytvořený pomocí softwaru Gnumeric, který je součástí sady desktopových aplikací [GNOME](https://gnome.org/). Může ukládat data listu spolu s podporou grafů, možností formátování a dalších dat. Data v souboru GNUMERIC jsou uložena ve formátu souboru [XML](/cs/web/xml/) a komprimována pomocí schématu komprese [GZIP](/cs/compression/gz/). Soubory GNUMERIC se také ukládají ve formátu souboru [GNM](/cs/spreadsheet/gnm/).
+Soubor s příponou GNUMERIC je tabulkový soubor vytvořený pomocí softwaru Gnumeric, který je součástí sady desktopových aplikací [GNOME](https://www.gnome.org/). Může ukládat data listu spolu s podporou grafů, možností formátování a dalších dat. Data v souboru GNUMERIC jsou uložena ve formátu souboru [XML](/cs/web/xml/) a komprimována pomocí schématu komprese [GZIP](/cs/compression/gz/). Soubory GNUMERIC se také ukládají ve formátu souboru [GNM](/cs/spreadsheet/gnm/).
 
 ## Formát souboru GNUMERIC
 

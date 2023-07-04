@@ -28,5 +28,5 @@ Los archivos ALF se guardan como archivos binarios y su formato de archivo inter
 
 ## Referencias
 
-* [Una comprensión de los archivos que componen un ACT! por Sage Database](https://help.act.com/hc/en-us/articles/360024238854-An-Understanding-of-the-Files-that-Compose-an-ACT-by-Sage-Database#s2 )
+* [ACT! ADF](/database/adf/)
 
