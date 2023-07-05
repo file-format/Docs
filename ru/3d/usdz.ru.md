@@ -45,4 +45,4 @@
 
 ## использованная литература
 
-* [Спецификации формата файла USDZ](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
+* [Спецификации формата файла USDZ](https://openusd.org/release/spec_usdz.html)

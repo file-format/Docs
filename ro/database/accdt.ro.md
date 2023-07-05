@@ -35,7 +35,7 @@ Fișierele ACCDT sunt pachete care conțin o colecție de părți conexe. Fiecar
 
 #### Pachet
 
-Un pachet este o arhivă [ZIP](/ro/compression/zip/) care conține mai multe părți și este conformă cu convențiile de ambalare deschisă specificate în [ISO/IEC-29500-2](https://go.microsoft.com/fwlink/ ?LinkId=150883). Fișierele ACCDT trebuie să conțină cel puțin o parte a metadatelor șablonului care ar trebui să fie ținta unei relații. Această metadată a șablonului este partea de pornire a unui fișier ACCDT.
+Un pachet este o arhivă [ZIP](/ro/compression/zip/) care conține mai multe părți și este conformă cu convențiile de ambalare deschisă specificate în [ISO/IEC-29500-2](https://www.iso.org/standard/51459.html). Fișierele ACCDT trebuie să conțină cel puțin o parte a metadatelor șablonului care ar trebui să fie ținta unei relații. Această metadată a șablonului este partea de pornire a unui fișier ACCDT.
 
 #### Partea
 

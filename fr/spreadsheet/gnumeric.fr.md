@@ -19,7 +19,7 @@
 
 ## Qu'est-ce qu'un fichier GNUMERIC ?
 
-Un fichier avec l'extension de fichier GNUMERIC est un fichier de feuille de calcul créé avec le logiciel Gnumeric qui fait partie de la suite d'applications de bureau [GNOME](https://gnome.org/). Il peut stocker des données de feuille de calcul ainsi que la prise en charge des graphiques, des options de formatage et d'autres données. Les données d'un fichier GNUMERIC sont stockées au format de fichier [XML](/fr/web/xml/) et compressées à l'aide du schéma de compression [GZIP](/fr/compression/gz/). Les fichiers GNUMERIC sont également enregistrés au format de fichier [GNM](/fr/spreadsheet/gnm/).
+Un fichier avec l'extension de fichier GNUMERIC est un fichier de feuille de calcul créé avec le logiciel Gnumeric qui fait partie de la suite d'applications de bureau [GNOME](https://www.gnome.org/). Il peut stocker des données de feuille de calcul ainsi que la prise en charge des graphiques, des options de formatage et d'autres données. Les données d'un fichier GNUMERIC sont stockées au format de fichier [XML](/fr/web/xml/) et compressées à l'aide du schéma de compression [GZIP](/fr/compression/gz/). Les fichiers GNUMERIC sont également enregistrés au format de fichier [GNM](/fr/spreadsheet/gnm/).
 
 ## Format de fichier GNUMERIC
 

@@ -28,5 +28,5 @@ ALF dosyaları ikili dosyalar olarak kaydedilir ve dahili dosya biçimleri kulla
 
 ## Referanslar
 
-* [Bir ACT Oluşturan Dosyaların Anlaşılması! Sage Veritabanı tarafından](https://help.act.com/hc/en-us/articles/360024238854-An-Understanding-of-the-Files-that-Compose-an-ACT-by-Sage-Database#s2 )
+* [ACT! ADF](/database/adf/)
 

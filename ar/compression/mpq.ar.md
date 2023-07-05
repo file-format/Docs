@@ -35,5 +35,5 @@
 
 ## مراجع
 
-* [HandWiki - MPQ](https://handwiki.org/wiki/MPQ_ (file_format))
+* [HandWiki - MPQ](https://handwiki.org/wiki/MPQ_(file_format))
 

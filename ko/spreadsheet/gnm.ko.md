@@ -19,7 +19,7 @@
 
 ## .GNM 파일이란?
 
-GNM 파일은 스프레드시트 프로그램인 [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric)으로 만든 스프레드시트 파일이며 [GNOME](https://gnome.org/) Desktop의 일부로 제공됩니다. 소프트웨어. 스프레드시트 데이터를 행과 열에 저장하고 차트 및 기타 스프레드시트 기능을 지원합니다. GNM 파일은 [XML](/ko/web/xml/) 파일 형식(XLSX와 유사)으로 디스크에 저장되며 [GZIP](/ko/compression/gz/)를 사용하여 압축됩니다. Gnumeric의 목표는 궁극적으로 Microsoft Excel의 대안을 제공할 오픈 소스 스프레드시트 응용 프로그램을 제공하는 것이었습니다.
+GNM 파일은 스프레드시트 프로그램인 [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric)으로 만든 스프레드시트 파일이며 [GNOME](https://www.gnome.org/) Desktop의 일부로 제공됩니다. 소프트웨어. 스프레드시트 데이터를 행과 열에 저장하고 차트 및 기타 스프레드시트 기능을 지원합니다. GNM 파일은 [XML](/ko/web/xml/) 파일 형식(XLSX와 유사)으로 디스크에 저장되며 [GZIP](/ko/compression/gz/)를 사용하여 압축됩니다. Gnumeric의 목표는 궁극적으로 Microsoft Excel의 대안을 제공할 오픈 소스 스프레드시트 응용 프로그램을 제공하는 것이었습니다.
 
 ## GNM 파일 형식
 

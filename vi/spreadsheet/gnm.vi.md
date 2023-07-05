@@ -19,7 +19,7 @@
 
 ## Tệp GNM là gì?
 
-Tệp GNM là tệp bảng tính được tạo bằng [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric) là một chương trình bảng tính và là một phần của [GNOME](https://gnome.org/) Máy tính để bàn Phần mềm. Nó lưu trữ dữ liệu bảng tính trong các hàng và cột, đồng thời cung cấp hỗ trợ cho các biểu đồ và chức năng bảng tính khác. Các tệp GNM được lưu vào đĩa ở định dạng tệp [XML](/vi/web/xml/) (tương tự như XLSX) và được nén bằng [GZIP](/vi/compression/gz/). Mục đích của Gnumeric là cung cấp ứng dụng bảng tính nguồn mở mà cuối cùng sẽ cung cấp giải pháp thay thế cho Microsoft Excel.
+Tệp GNM là tệp bảng tính được tạo bằng [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric) là một chương trình bảng tính và là một phần của [GNOME](https://www.gnome.org/) Máy tính để bàn Phần mềm. Nó lưu trữ dữ liệu bảng tính trong các hàng và cột, đồng thời cung cấp hỗ trợ cho các biểu đồ và chức năng bảng tính khác. Các tệp GNM được lưu vào đĩa ở định dạng tệp [XML](/vi/web/xml/) (tương tự như XLSX) và được nén bằng [GZIP](/vi/compression/gz/). Mục đích của Gnumeric là cung cấp ứng dụng bảng tính nguồn mở mà cuối cùng sẽ cung cấp giải pháp thay thế cho Microsoft Excel.
 
 ## Định dạng tệp GNM
 

@@ -28,5 +28,5 @@
 
 ## อ้างอิง
 
-* [ความเข้าใจเกี่ยวกับไฟล์ที่ประกอบเป็น ACT! โดยฐานข้อมูล Sage](https://help.act.com/hc/en-us/articles/360024238854-An-Understanding-of-the-Files-that-Compose-an-ACT-by-Sage-Database#s2 )
+* [ACT! ADF](/database/adf/)
 

@@ -19,7 +19,7 @@
 
 ## .gnm dosyası nedir?
 
-GNM dosyası, bir elektronik tablo programı olan [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric) ile oluşturulmuş ve [GNOME](https://gnome.org/) Masaüstünün bir parçası olarak gelen bir elektronik tablo dosyasıdır. Yazılım. Elektronik tablo verilerini satırlarda ve sütunlarda depolar ve grafikler ve diğer elektronik tablo işlevleri için destek sağlar. GNM dosyaları diske [XML](/tr/web/xml/) dosya biçiminde (XLSX'e benzer) kaydedilir ve [GZIP](/tr/compression/gz/) kullanılarak sıkıştırılır. Gnumeric'in amacı, sonunda Microsoft Excel'e alternatif sağlayacak açık kaynaklı elektronik tablo uygulaması sağlamaktı.
+GNM dosyası, bir elektronik tablo programı olan [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric) ile oluşturulmuş ve [GNOME](https://www.gnome.org/) Masaüstünün bir parçası olarak gelen bir elektronik tablo dosyasıdır. Yazılım. Elektronik tablo verilerini satırlarda ve sütunlarda depolar ve grafikler ve diğer elektronik tablo işlevleri için destek sağlar. GNM dosyaları diske [XML](/tr/web/xml/) dosya biçiminde (XLSX'e benzer) kaydedilir ve [GZIP](/tr/compression/gz/) kullanılarak sıkıştırılır. Gnumeric'in amacı, sonunda Microsoft Excel'e alternatif sağlayacak açık kaynaklı elektronik tablo uygulaması sağlamaktı.
 
 ## GNM Dosya Biçimi
 

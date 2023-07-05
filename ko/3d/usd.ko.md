@@ -19,7 +19,7 @@
 
 ## .USD 파일이란?
 
-확장자가 .usd인 파일은 디지털 콘텐츠 생성 응용 프로그램 간에 데이터를 교환하고 보강할 목적으로 데이터를 인코딩하는 범용 장면 설명 파일 형식입니다. Pixar에서 개발한 [USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html)는 기본 자산(예: 모델) 또는 애니메이션을 교환하는 기능을 제공합니다.
+확장자가 .usd인 파일은 디지털 콘텐츠 생성 응용 프로그램 간에 데이터를 교환하고 보강할 목적으로 데이터를 인코딩하는 범용 장면 설명 파일 형식입니다. Pixar에서 개발한 [USD](https://openusd.org/release/intro.html)는 기본 자산(예: 모델) 또는 애니메이션을 교환하는 기능을 제공합니다.
 
 ## USD 파일 형식
 
@@ -133,6 +133,6 @@ def Sphere "Planet" (
 ```
 ## 참조 ##
 
-* [USD 소개](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html)
-* [USD API 레퍼런스](https://graphics.pixar.com/usd/docs/USD-Developer-API-Reference.html)
+* [USD 소개](https://openusd.org/release/intro.html)
+* [USD API 레퍼런스](https://openusd.org/release/apiDocs.html)
 

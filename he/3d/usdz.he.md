@@ -45,4 +45,4 @@
 
 ## הפניות
 
-* [מפרט פורמט קובץ USDZ](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
+* [מפרט פורמט קובץ USDZ](https://openusd.org/release/spec_usdz.html)

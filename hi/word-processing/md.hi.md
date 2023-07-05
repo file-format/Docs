@@ -64,5 +64,5 @@
 
 ## संदर्भ
 
-* [मास्टरिंग मार्कडाउन](https://guides.github.com/features/mastering-markdown/)
+* [मास्टरिंग मार्कडाउन](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 

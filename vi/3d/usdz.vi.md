@@ -45,4 +45,4 @@ Vì các tệp usdz được đóng gói với các hình ảnh và tệp usd ch
 
 ## Người giới thiệu
 
-* [Thông số định dạng tệp USDZ](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
+* [Thông số định dạng tệp USDZ](https://openusd.org/release/spec_usdz.html)

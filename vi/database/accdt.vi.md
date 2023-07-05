@@ -35,7 +35,7 @@ Các tệp ACCDT là các gói chứa tập hợp các phần liên quan. Mỗi 
 
 #### Bưu kiện
 
-Gói là tệp lưu trữ [ZIP](/vi/compression/zip/) chứa nhiều phần và tuân thủ Quy ước đóng gói mở được chỉ định trong [ISO/IEC-29500-2](https://go.microsoft.com/fwlink/ ?LinkId=150883). Các tệp ACCDT phải chứa ít nhất một phần siêu dữ liệu Mẫu phải là mục tiêu của mối quan hệ. Siêu dữ liệu mẫu này là phần bắt đầu của tệp ACCDT.
+Gói là tệp lưu trữ [ZIP](/vi/compression/zip/) chứa nhiều phần và tuân thủ Quy ước đóng gói mở được chỉ định trong [ISO/IEC-29500-2](https://www.iso.org/standard/51459.html). Các tệp ACCDT phải chứa ít nhất một phần siêu dữ liệu Mẫu phải là mục tiêu của mối quan hệ. Siêu dữ liệu mẫu này là phần bắt đầu của tệp ACCDT.
 
 #### Phần
 

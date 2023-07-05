@@ -28,5 +28,5 @@ Fișierele ALF sunt salvate ca fișiere binare și formatul lor intern de fișie
 
 ## Referințe
 
-* [O înțelegere a fișierelor care compun un ACT! de Sage Database](https://help.act.com/hc/en-us/articles/360024238854-An-Understanding-of-the-Files-that-Compose-an-ACT-by-Sage-Database#s2 )
+* [ACT! ADF](/database/adf/)
 

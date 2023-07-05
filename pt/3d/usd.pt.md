@@ -19,7 +19,7 @@
 
 ## O que é um arquivo USD?
 
-Um arquivo com extensão .usd é um formato de arquivo de descrição de cena universal que codifica dados para fins de intercâmbio e aumento de dados entre aplicativos de criação de conteúdo digital. Desenvolvido pela Pixar, [USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html) oferece a capacidade de trocar ativos elementares (como modelos) ou animação.
+Um arquivo com extensão .usd é um formato de arquivo de descrição de cena universal que codifica dados para fins de intercâmbio e aumento de dados entre aplicativos de criação de conteúdo digital. Desenvolvido pela Pixar, [USD](https://openusd.org/release/intro.html) oferece a capacidade de trocar ativos elementares (como modelos) ou animação.
 
 ## Formato de arquivo USD
 
@@ -133,6 +133,6 @@ def Sphere "Planet" (
 ```
 ## Referências ##
 
-* [Introdução ao USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html)
-* [Referência da API do USD](https://graphics.pixar.com/usd/docs/USD-Developer-API-Reference.html)
+* [Introdução ao USD](https://openusd.org/release/intro.html)
+* [Referência da API do USD](https://openusd.org/release/apiDocs.html)
 

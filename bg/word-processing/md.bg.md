@@ -64,5 +64,5 @@ Multi-Markdown добави различни функции към езика, �
 
 ## Препратки
 
-* [Овладяване на MarkDown](https://guides.github.com/features/mastering-markdown/)
+* [Овладяване на MarkDown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 

@@ -45,4 +45,4 @@ USDZ файловете са базирани на ZIP файлов формат
 
 ## Препратки
 
-* [Спецификации на файлов формат USDZ](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
+* [Спецификации на файлов формат USDZ](https://openusd.org/release/spec_usdz.html)

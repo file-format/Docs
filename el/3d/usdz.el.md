@@ -45,5 +45,5 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Προδιαγραφές μορφής αρχείου USDZ](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
+* [Προδιαγραφές μορφής αρχείου USDZ](https://openusd.org/release/spec_usdz.html)
 

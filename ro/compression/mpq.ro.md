@@ -35,5 +35,5 @@ Formatul de fișier MPQ a fost dezvoltat pentru prima dată de Mike O'Brien pent
 
 ## Referințe
 
-* [HandWiki - MPQ](https://handwiki.org/wiki/MPQ_(format_fișier))
+* [HandWiki - MPQ](https://handwiki.org/wiki/MPQ_(file_format))
 

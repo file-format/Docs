@@ -19,7 +19,7 @@
 
 ## Wat is een GNM-bestand?
 
-GNM-bestand is een spreadsheetbestand gemaakt met [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric), een spreadsheetprogramma dat deel uitmaakt van [GNOME](https://gnome.org/) Desktop Software. Het slaat spreadsheetgegevens op in rijen en kolommen en biedt ondersteuning voor grafieken en andere spreadsheetfunctionaliteit. GNM-bestanden worden op schijf opgeslagen in de bestandsindeling [XML](/nl/web/xml/) (vergelijkbaar met XLSX) en worden gecomprimeerd met de [GZIP](/nl/compression/gz/). Het doel van Gnumeric was om een open source spreadsheet-applicatie te bieden die uiteindelijk een alternatief zal bieden voor Microsoft Excel.
+GNM-bestand is een spreadsheetbestand gemaakt met [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric), een spreadsheetprogramma dat deel uitmaakt van [GNOME](https://www.gnome.org/) Desktop Software. Het slaat spreadsheetgegevens op in rijen en kolommen en biedt ondersteuning voor grafieken en andere spreadsheetfunctionaliteit. GNM-bestanden worden op schijf opgeslagen in de bestandsindeling [XML](/nl/web/xml/) (vergelijkbaar met XLSX) en worden gecomprimeerd met de [GZIP](/nl/compression/gz/). Het doel van Gnumeric was om een open source spreadsheet-applicatie te bieden die uiteindelijk een alternatief zal bieden voor Microsoft Excel.
 
 ## GNM-bestandsindeling
 

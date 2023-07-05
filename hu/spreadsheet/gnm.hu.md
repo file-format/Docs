@@ -19,7 +19,7 @@
 
 ## Mi az a GNM fájl?
 
-A GNM-fájl egy táblázatkezelő fájl, amelyet a [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric) segítségével hoztak létre, amely egy táblázatkezelő program, és a [GNOME](https://gnome.org/) Desktop része. Szoftver. A táblázat adatait sorokban és oszlopokban tárolja, és támogatja a diagramokat és egyéb táblázatkezelő funkciókat. A GNM-fájlokat [XML](/hu/web/xml/) fájlformátumban (hasonlóan az XLSX-hez) menti lemezre, és a [GZIP](/hu/compression/gz/) segítségével tömörítik. A Gnumeric célja az volt, hogy nyílt forráskódú táblázatkezelő alkalmazást biztosítson, amely végül alternatívát jelent a Microsoft Excel helyett.
+A GNM-fájl egy táblázatkezelő fájl, amelyet a [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric) segítségével hoztak létre, amely egy táblázatkezelő program, és a [GNOME](https://www.gnome.org/) Desktop része. Szoftver. A táblázat adatait sorokban és oszlopokban tárolja, és támogatja a diagramokat és egyéb táblázatkezelő funkciókat. A GNM-fájlokat [XML](/hu/web/xml/) fájlformátumban (hasonlóan az XLSX-hez) menti lemezre, és a [GZIP](/hu/compression/gz/) segítségével tömörítik. A Gnumeric célja az volt, hogy nyílt forráskódú táblázatkezelő alkalmazást biztosítson, amely végül alternatívát jelent a Microsoft Excel helyett.
 
 ## GNM fájlformátum
 

@@ -19,7 +19,7 @@
 
 ## Apa itu file GNUMERIC?
 
-File dengan ekstensi file GNUMERIC adalah file spreadsheet yang dibuat dengan perangkat lunak Gnumeric yang merupakan bagian dari paket aplikasi desktop [GNOME](https://gnome.org/). Itu dapat menyimpan data lembar kerja bersama dengan dukungan untuk bagan, opsi pemformatan, dan data lainnya. Data dalam file GNUMERIC disimpan dalam format file [XML](/id/web/xml/) dan dikompresi menggunakan skema kompresi [GZIP](/id/compression/gz/). File GNUMERIC juga disimpan dalam format file [GNM](/id/spreadsheet/gnm/).
+File dengan ekstensi file GNUMERIC adalah file spreadsheet yang dibuat dengan perangkat lunak Gnumeric yang merupakan bagian dari paket aplikasi desktop [GNOME](https://www.gnome.org/). Itu dapat menyimpan data lembar kerja bersama dengan dukungan untuk bagan, opsi pemformatan, dan data lainnya. Data dalam file GNUMERIC disimpan dalam format file [XML](/id/web/xml/) dan dikompresi menggunakan skema kompresi [GZIP](/id/compression/gz/). File GNUMERIC juga disimpan dalam format file [GNM](/id/spreadsheet/gnm/).
 
 ## Format File GNUMERIK
 

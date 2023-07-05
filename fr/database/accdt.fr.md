@@ -35,7 +35,7 @@ Les fichiers ACCDT sont des packages qui contiennent une collection de pièces a
 
 #### Forfait
 
-Un package est une archive [ZIP](/fr/compression/zip/) qui contient plusieurs parties et est conforme aux conventions d'emballage ouvertes spécifiées dans [ISO/IEC-29500-2](https://go.microsoft.com/fwlink/ ?LinkId=150883). Les fichiers ACCDT doivent contenir au moins une partie de métadonnées de modèle qui doit être la cible d'une relation. Ce modèle de métadonnées est la partie de départ d'un fichier ACCDT.
+Un package est une archive [ZIP](/fr/compression/zip/) qui contient plusieurs parties et est conforme aux conventions d'emballage ouvertes spécifiées dans [ISO/IEC-29500-2](https://www.iso.org/standard/51459.html). Les fichiers ACCDT doivent contenir au moins une partie de métadonnées de modèle qui doit être la cible d'une relation. Ce modèle de métadonnées est la partie de départ d'un fichier ACCDT.
 
 #### Partie
 

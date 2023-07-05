@@ -35,7 +35,7 @@ ACCDT dosyaları, ilgili parçalardan oluşan bir koleksiyon içeren paketlerdir
 
 #### Paket
 
-Paket, birden çok parça içeren ve [ISO/IEC-29500-2](https://go.microsoft.com/fwlink/)'de belirtilen Açık Paketleme Kurallarına uyan bir [ZIP](/tr/compression/zip/) arşividir. ?LinkId=150883). ACCDT dosyaları, bir ilişkinin hedefi olması gereken en az bir Şablon metadaa bölümü içermelidir. Bu Şablon Meta Verileri, bir ACCDT dosyasının başlangıç kısmıdır.
+Paket, birden çok parça içeren ve [ISO/IEC-29500-2](https://www.iso.org/standard/51459.html). ACCDT dosyaları, bir ilişkinin hedefi olması gereken en az bir Şablon metadaa bölümü içermelidir. Bu Şablon Meta Verileri, bir ACCDT dosyasının başlangıç kısmıdır.
 
 #### Bölüm
 

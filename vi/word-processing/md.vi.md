@@ -64,5 +64,5 @@ Multi-Markdown đã thêm nhiều tính năng khác nhau vào ngôn ngữ đư�
 
 ## Người giới thiệu
 
-* [Làm chủ MarkDown](https://guides.github.com/features/mastering-markdown/)
+* [Làm chủ MarkDown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 

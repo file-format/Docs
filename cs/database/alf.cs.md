@@ -28,5 +28,5 @@ Soubory ALF se ukládají jako binární soubory a jejich interní formát soubo
 
 ## Reference
 
-* [Porozumění souborům, které tvoří ACT! od Sage Database](https://help.act.com/hc/en-us/articles/360024238854-An-Understanding-of-the-Files-that-Compose-an-ACT-by-Sage-Database#s2 )
+* [ACT! ADF](/database/adf/)
 

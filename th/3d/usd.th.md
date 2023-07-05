@@ -19,7 +19,7 @@
 
 ## ไฟล์ USD คืออะไร??
 
-ไฟล์ที่มีนามสกุล .usd เป็นรูปแบบไฟล์ Universal Scene Description ที่เข้ารหัสข้อมูลเพื่อวัตถุประสงค์ในการแลกเปลี่ยนข้อมูลและเสริมระหว่างแอปพลิเคชันสร้างเนื้อหาดิจิทัล [USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html) พัฒนาโดย Pixar ให้ความสามารถในการแลกเปลี่ยนองค์ประกอบองค์ประกอบ (เช่น โมเดล) หรือภาพเคลื่อนไหว
+ไฟล์ที่มีนามสกุล .usd เป็นรูปแบบไฟล์ Universal Scene Description ที่เข้ารหัสข้อมูลเพื่อวัตถุประสงค์ในการแลกเปลี่ยนข้อมูลและเสริมระหว่างแอปพลิเคชันสร้างเนื้อหาดิจิทัล [USD](https://openusd.org/release/intro.html) พัฒนาโดย Pixar ให้ความสามารถในการแลกเปลี่ยนองค์ประกอบองค์ประกอบ (เช่น โมเดล) หรือภาพเคลื่อนไหว
 
 ## รูปแบบไฟล์ USD
 
@@ -133,6 +133,6 @@ def Sphere "Planet" (
 ```
 ## อ้างอิง ##
 
-* [ความรู้เบื้องต้นเกี่ยวกับ USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html)
-* [ข้อมูลอ้างอิง USD API](https://graphics.pixar.com/usd/docs/USD-Developer-API-Reference.html)
+* [ความรู้เบื้องต้นเกี่ยวกับ USD](https://openusd.org/release/intro.html)
+* [ข้อมูลอ้างอิง USD API](https://openusd.org/release/apiDocs.html)
 

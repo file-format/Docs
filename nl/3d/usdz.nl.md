@@ -45,4 +45,4 @@ Omdat de usdz-bestanden vol zitten met andere afbeeldingen van hoge kwaliteit en
 
 ## Referenties
 
-* [specificaties voor USDZ-bestandsindeling](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
+* [specificaties voor USDZ-bestandsindeling](https://openusd.org/release/spec_usdz.html)

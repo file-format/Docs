@@ -19,7 +19,7 @@
 
 ## .GNM オプション番号
 
-GNM ファイルは、スプレッドシート プログラムである [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric) で作成されたスプレッドシート ファイルであり、[GNOME](https://gnome.org/) デスクトップの一部として提供されます。ソフトウェア。スプレッドシート データを行と列に格納し、チャートやその他のスプレッドシート機能をサポートします。 GNM ファイルは [XML](/web/xml/) ファイル形式 (XLSX に類似) でディスクに保存され、[GZIP](/compression/gz/) を使用して圧縮されます。 Gnumeric の目的は、最終的に Microsoft Excel の代替となるオープン ソースのスプレッドシート アプリケーションを提供することでした。
+GNM ファイルは、スプレッドシート プログラムである [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric) で作成されたスプレッドシート ファイルであり、[GNOME](https://www.gnome.org/) デスクトップの一部として提供されます。ソフトウェア。スプレッドシート データを行と列に格納し、チャートやその他のスプレッドシート機能をサポートします。 GNM ファイルは [XML](/web/xml/) ファイル形式 (XLSX に類似) でディスクに保存され、[GZIP](/compression/gz/) を使用して圧縮されます。 Gnumeric の目的は、最終的に Microsoft Excel の代替となるオープン ソースのスプレッドシート アプリケーションを提供することでした。
 
 ## GNM ファイル形式
 

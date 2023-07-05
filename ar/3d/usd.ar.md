@@ -19,7 +19,7 @@
 
 ## ما هو ملف USD؟
 
-الملف ذو الامتداد .usd هو تنسيق ملف Universal Scene Description الذي يقوم بترميز البيانات بغرض تبادل البيانات والزيادة بين تطبيقات إنشاء المحتوى الرقمي. تم تطويره بواسطة Pixar ، [USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html) يوفر القدرة على تبادل الأصول الأولية (مثل النماذج) أو الرسوم المتحركة.
+الملف ذو الامتداد .usd هو تنسيق ملف Universal Scene Description الذي يقوم بترميز البيانات بغرض تبادل البيانات والزيادة بين تطبيقات إنشاء المحتوى الرقمي. تم تطويره بواسطة Pixar ، [USD](https://openusd.org/release/intro.html) يوفر القدرة على تبادل الأصول الأولية (مثل النماذج) أو الرسوم المتحركة.
 
 ## تنسيق ملف USD
 
@@ -133,6 +133,6 @@ def Sphere "Planet" (
 ```
 ## مراجع ##
 
-* [مقدمة إلى الدولار الأمريكي](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html)
-* [مرجع USD API](https://graphics.pixar.com/usd/docs/USD-Developer-API-Reference.html)
+* [مقدمة إلى الدولار الأمريكي](https://openusd.org/release/intro.html)
+* [مرجع USD API](https://openusd.org/release/apiDocs.html)
 

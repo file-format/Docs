@@ -45,4 +45,4 @@ Deoarece fișierele usdz sunt împachetate cu alte imagini de înaltă calitate 
 
 ## Referințe
 
-* [Specificații de format de fișier USDZ](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
+* [Specificații de format de fișier USDZ](https://openusd.org/release/spec_usdz.html)

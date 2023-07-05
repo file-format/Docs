@@ -45,4 +45,4 @@ USDZ 包要求包内文件的布局是每个文件的数据应该从包开头的
 
 ## 参考
 
-* [USDZ 文件格式规范](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
+* [USDZ 文件格式规范](https://openusd.org/release/spec_usdz.html)

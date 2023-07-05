@@ -19,7 +19,7 @@
 
 ## 什么是 GNUMERIC 文件？
 
-具有 GNUMERIC 文件扩展名的文件是使用 Gnumeric 软件创建的电子表格文件，该软件是 [GNOME](https://gnome.org/) 桌面应用程序套件的一部分。它可以存储工作表数据以及对图表、格式选项和其他数据的支持。 GNUMERIC 文件中的数据以 [XML](/zh/web/xml/) 文件格式存储并使用 [GZIP](/zh/compression/gz/) 压缩方案进行压缩。 GNUMERIC 文件也以 [GNM](/zh/spreadsheet/gnm/) 文件格式保存。
+具有 GNUMERIC 文件扩展名的文件是使用 Gnumeric 软件创建的电子表格文件，该软件是 [GNOME](https://www.gnome.org/) 桌面应用程序套件的一部分。它可以存储工作表数据以及对图表、格式选项和其他数据的支持。 GNUMERIC 文件中的数据以 [XML](/zh/web/xml/) 文件格式存储并使用 [GZIP](/zh/compression/gz/) 压缩方案进行压缩。 GNUMERIC 文件也以 [GNM](/zh/spreadsheet/gnm/) 文件格式保存。
 
 ## GNUMERIC 文件格式
 

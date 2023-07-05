@@ -19,7 +19,7 @@
 
 ## Mi az a GNUMERIC fájl?
 
-A GNUMERIC kiterjesztésű fájl a [GNOME](https://gnome.org/) asztali alkalmazáscsomag részét képező Gnumeric szoftverrel létrehozott táblázatkezelő fájl. Tárolhat munkalapadatokat, valamint támogatja a diagramokat, a formázási beállításokat és egyéb adatokat. A GNUMERIC-fájlban lévő adatokat [XML](/hu/web/xml/) fájlformátumban tárolja a rendszer, és a [GZIP](/hu/compression/gz/) tömörítési séma szerint tömöríti. A GNUMERIC fájlokat a rendszer [GNM](/hu/spreadsheet/gnm/) fájlformátumban is menti.
+A GNUMERIC kiterjesztésű fájl a [GNOME](https://www.gnome.org/) asztali alkalmazáscsomag részét képező Gnumeric szoftverrel létrehozott táblázatkezelő fájl. Tárolhat munkalapadatokat, valamint támogatja a diagramokat, a formázási beállításokat és egyéb adatokat. A GNUMERIC-fájlban lévő adatokat [XML](/hu/web/xml/) fájlformátumban tárolja a rendszer, és a [GZIP](/hu/compression/gz/) tömörítési séma szerint tömöríti. A GNUMERIC fájlokat a rendszer [GNM](/hu/spreadsheet/gnm/) fájlformátumban is menti.
 
 ## GNUMERIC fájlformátum
 

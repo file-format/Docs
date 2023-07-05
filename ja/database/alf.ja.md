@@ -28,5 +28,5 @@ ALF ファイルはバイナリ ファイルとして保存され、その内部
 
 ## 参考文献
 
-■【ACTを構成するファイルがわかる！ Sage データベースによる](https://help.act.com/hc/en-us/articles/360024238854-An-Understanding-of-the-Files-that-Compose-an-ACT-by-Sage-Database#s2 )
+■[ACT! ADF](/database/adf/)
 

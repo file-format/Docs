@@ -28,5 +28,5 @@ ALF 파일은 바이너리 파일로 저장되며 내부 파일 형식은 사용
 
 ## 참고문헌
 
-* [ACT를 구성하는 파일의 이해! by Sage 데이터베이스](https://help.act.com/hc/en-us/articles/360024238854-An-Understanding-of-the-Files-that-Compose-an-ACT-by-Sage-Database#s2 )
+* [ACT! ADF](/database/adf/)
 

@@ -19,7 +19,7 @@
 
 ## Apa itu file GNM?
 
-File GNM adalah file spreadsheet yang dibuat dengan [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric) yang merupakan program spreadsheet dan hadir sebagai bagian dari [GNOME](https://gnome.org/) Desktop Perangkat lunak. Ini menyimpan data spreadsheet dalam baris dan kolom, dan memberikan dukungan untuk bagan dan fungsi spreadsheet lainnya. File GNM disimpan ke disk dalam format file [XML](/id/web/xml/) (mirip dengan XLSX) dan dikompres menggunakan [GZIP](/id/compression/gz/). Tujuan Gnumeric adalah untuk menyediakan aplikasi spreadsheet open source yang pada akhirnya akan memberikan alternatif untuk Microsoft Excel.
+File GNM adalah file spreadsheet yang dibuat dengan [Gnumeric](https://en.wikipedia.org/wiki/Gnumeric) yang merupakan program spreadsheet dan hadir sebagai bagian dari [GNOME](https://www.gnome.org/) Desktop Perangkat lunak. Ini menyimpan data spreadsheet dalam baris dan kolom, dan memberikan dukungan untuk bagan dan fungsi spreadsheet lainnya. File GNM disimpan ke disk dalam format file [XML](/id/web/xml/) (mirip dengan XLSX) dan dikompres menggunakan [GZIP](/id/compression/gz/). Tujuan Gnumeric adalah untuk menyediakan aplikasi spreadsheet open source yang pada akhirnya akan memberikan alternatif untuk Microsoft Excel.
 
 ## Format File GNM
 

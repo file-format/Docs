@@ -45,4 +45,4 @@ USDZ पैकेज के लिए पैकेज के भीतर फा
 
 ## संदर्भ
 
-* [USDZ फ़ाइल प्रारूप विनिर्देश](https://graphics.pixar.com/usd/docs/Usdz-File-Format-Specification.html)
+* [USDZ फ़ाइल प्रारूप विनिर्देश](https://openusd.org/release/spec_usdz.html)

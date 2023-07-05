@@ -19,7 +19,7 @@
 
 ## Czym jest plik USD?
 
-Plik z rozszerzeniem .usd to format pliku Universal Scene Description, który koduje dane w celu wymiany i rozszerzania danych między aplikacjami do tworzenia treści cyfrowych. Opracowana przez firmę Pixar usługa [USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html) umożliwia wymianę podstawowych zasobów (takich jak modele) lub animacji.
+Plik z rozszerzeniem .usd to format pliku Universal Scene Description, który koduje dane w celu wymiany i rozszerzania danych między aplikacjami do tworzenia treści cyfrowych. Opracowana przez firmę Pixar usługa [USD](https://openusd.org/release/intro.html) umożliwia wymianę podstawowych zasobów (takich jak modele) lub animacji.
 
 ## Format pliku USD
 
@@ -133,6 +133,6 @@ def Sphere "Planet" (
 ```
 ## Bibliografia ##
 
-* [Wprowadzenie do USD](https://graphics.pixar.com/usd/docs/Introduction-to-USD.html)
-* [Odniesienie do API USD](https://graphics.pixar.com/usd/docs/USD-Developer-API-Reference.html)
+* [Wprowadzenie do USD](https://openusd.org/release/intro.html)
+* [Odniesienie do API USD](https://openusd.org/release/apiDocs.html)
 

@@ -64,5 +64,5 @@ Multi-Markdown heeft verschillende functies aan de taal toegevoegd die door ande
 
 ## Referenties
 
-* [Mastering MarkDown](https://guides.github.com/features/mastering-markdown/)
+* [Mastering MarkDown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 

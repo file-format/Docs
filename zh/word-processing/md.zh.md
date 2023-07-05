@@ -64,5 +64,5 @@ Multi-Markdown 为该语言添加了其他版本支持的各种功能。最初�
 
 ## 参考
 
-* [掌握 MarkDown](https://guides.github.com/features/mastering-markdown/)
+* [掌握 MarkDown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 

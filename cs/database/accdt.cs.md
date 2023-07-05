@@ -35,7 +35,7 @@ Soubory ACCDT jsou balíčky, které obsahují kolekci souvisejících částí.
 
 #### Balíček
 
-Balíček je archiv [ZIP](/cs/compression/zip/), který obsahuje více částí a odpovídá konvencím Open Packaging uvedeným v [ISO/IEC-29500-2](https://go.microsoft.com/fwlink/ ?LinkId=150883). Soubory ACCDT musí obsahovat alespoň jednu část metadat šablony, která by měla být cílem vztahu. Tato metadata šablony jsou počáteční částí souboru ACCDT.
+Balíček je archiv [ZIP](/cs/compression/zip/), který obsahuje více částí a odpovídá konvencím Open Packaging uvedeným v [ISO/IEC-29500-2](https://www.iso.org/standard/51459.html). Soubory ACCDT musí obsahovat alespoň jednu část metadat šablony, která by měla být cílem vztahu. Tato metadata šablony jsou počáteční částí souboru ACCDT.
 
 #### Část
 

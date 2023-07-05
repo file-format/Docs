@@ -19,7 +19,7 @@
 
 ## Was ist eine GNUMERIC-Datei?
 
-Eine Datei mit der GNUMERIC-Dateierweiterung ist eine Tabellenkalkulationsdatei, die mit der Gnumeric-Software erstellt wurde, die Teil der [GNOME](https://gnome.org/) Desktop-Anwendungssuite ist. Es kann Arbeitsblattdaten zusammen mit Unterstützung für Diagramme, Formatierungsoptionen und andere Daten speichern. Daten in einer GNUMERIC-Datei werden im Dateiformat [XML](/de/web/xml/) gespeichert und mit dem Komprimierungsschema [GZIP](/de/compression/gz/) komprimiert. GNUMERIC-Dateien werden auch im Dateiformat [GNM](/de/spreadsheet/gnm/) gespeichert.
+Eine Datei mit der GNUMERIC-Dateierweiterung ist eine Tabellenkalkulationsdatei, die mit der Gnumeric-Software erstellt wurde, die Teil der [GNOME](https://www.gnome.org/) Desktop-Anwendungssuite ist. Es kann Arbeitsblattdaten zusammen mit Unterstützung für Diagramme, Formatierungsoptionen und andere Daten speichern. Daten in einer GNUMERIC-Datei werden im Dateiformat [XML](/de/web/xml/) gespeichert und mit dem Komprimierungsschema [GZIP](/de/compression/gz/) komprimiert. GNUMERIC-Dateien werden auch im Dateiformat [GNM](/de/spreadsheet/gnm/) gespeichert.
 
 ## GNUMERISCHES Dateiformat
 

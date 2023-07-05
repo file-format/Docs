@@ -64,5 +64,5 @@ Multi-Markdown додав різні функції до мови, які під
 
 ## Список літератури
 
-* [Опанування MarkDown](https://guides.github.com/features/mastering-markdown/)
+* [Опанування MarkDown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 

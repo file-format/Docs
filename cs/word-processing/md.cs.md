@@ -64,5 +64,5 @@ Multi-Markdown přidal do jazyka různé funkce, které jsou podporovány jiným
 
 ## Reference
 
-* [Mastering MarkDown](https://guides.github.com/features/mastering-markdown/)
+* [Mastering MarkDown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
