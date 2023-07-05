@@ -18,7 +18,7 @@
 
 ## ما هو ملف SLDPRT؟
 
-ملف SLDPRT هو ملف CAD تم إنشاؤه بواسطة برنامج SolidWorks. إنه تنسيق ملف ثلاثي الأبعاد يحتوي على معلومات ثلاثية الأبعاد لكائن أو "جزء". يمكن دمج ملفات SLDPRT المتعددة التي تحتوي على أجزاء متوافقة لإنشاء ملف تجميع SLDASM واحد. يمكن فتح ملفات SLDPRT باستخدام برنامج [SmartCAM CAD / CAM](https://www.solidworks.com/partner-product/smartcam-cadcam-software) بواسطة SolidWorks. توفر محولات تطبيقات SolidWorks أدوات تحويل سهلة لتحويل ملفات الرسم SLDPRT إلى تنسيقات بيانات محايدة مثل [TIFF](/ar/ image / tiff /) ، [PDF](/ar/ pdf /) ، أو [PDF / A](/ar/ pdf / أ/).
+ملف SLDPRT هو ملف CAD تم إنشاؤه بواسطة برنامج SolidWorks. إنه تنسيق ملف ثلاثي الأبعاد يحتوي على معلومات ثلاثية الأبعاد لكائن أو "جزء". يمكن دمج ملفات SLDPRT المتعددة التي تحتوي على أجزاء متوافقة لإنشاء ملف تجميع SLDASM واحد. يمكن فتح ملفات SLDPRT باستخدام برنامج [SmartCAM CAD / CAM](https://www.solidworks.com/partner-product/smartcam-cadcam-software) بواسطة SolidWorks. توفر محولات تطبيقات SolidWorks أدوات تحويل سهلة لتحويل ملفات الرسم SLDPRT إلى تنسيقات بيانات محايدة مثل [TIFF](/ar/image/tiff/) ، [PDF](/ar/pdf/) ، أو [PDF / A](/ar/pdf/a/).
 
 ## تنسيق ملف SLDPRT
 

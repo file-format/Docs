@@ -19,7 +19,7 @@
 
 ## ما هو ملف AZW؟
 
-AZW هو تنسيق ملف كتاب إلكتروني رقمي طورته أمازون لأجهزة Kindle. تم اعتماد التنسيق من تنسيق ملف MobiPocket eBook [MOBI](/ar/ ebook / mobi /) وتم تطبيق حماية DRM لاستخدامها على أجهزة Kindle فقط. يمكن لملفات AZW تخزين أشياء مثل النص المنسق والإشارات المرجعية والمعلومات الأخرى كجزء من ملفات Mobipocket .PRC. لا يمكن قراءة ملفات AZW المحمية بواسطة DRM بواسطة الأجهزة الأخرى ويمكن قراءتها باستخدام أجهزة Kindle. يمكن تحويل ملفات AZW إلى عدد من تنسيقات الملفات الأخرى مثل [PDF](/ar/ pdf /) ، [EPUB](/ar/ ebook / epub /) ، [AZW3](/ar/ ebook / azw3) ، [DOCX](/ar/ word - معالجة / docx /) و [RTF](/ar/ معالجة الكلمات / rtf /). تحتوي ملفات AZW على نوع وسائط الإنترنت * application / vnd.amazon.mobi8-ebook *.
+AZW هو تنسيق ملف كتاب إلكتروني رقمي طورته أمازون لأجهزة Kindle. تم اعتماد التنسيق من تنسيق ملف MobiPocket eBook [MOBI](/ar/ebook/mobi/) وتم تطبيق حماية DRM لاستخدامها على أجهزة Kindle فقط. يمكن لملفات AZW تخزين أشياء مثل النص المنسق والإشارات المرجعية والمعلومات الأخرى كجزء من ملفات Mobipocket .PRC. لا يمكن قراءة ملفات AZW المحمية بواسطة DRM بواسطة الأجهزة الأخرى ويمكن قراءتها باستخدام أجهزة Kindle. يمكن تحويل ملفات AZW إلى عدد من تنسيقات الملفات الأخرى مثل [PDF](/ar/pdf/) ، [EPUB](/ar/ebook/epub/) ، [AZW3](/ar/ebook/azw3/) ، [DOCX](/ar/word-processing/docx/) و [RTF](/ar/word-processing/rtf/). تحتوي ملفات AZW على نوع وسائط الإنترنت * application / vnd.amazon.mobi8-ebook *.
 
 ## تنسيق ملف AZW
 

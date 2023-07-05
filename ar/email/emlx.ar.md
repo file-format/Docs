@@ -104,6 +104,6 @@ http://www.la-grange.net/karl/
 
 ## أنظر أيضا ##
 
-* [EML](/ar/ email / eml /)
-* [MSG](/ar/ email / msg /)
+* [EML](/ar/email/eml/)
+* [MSG](/ar/email/msg/)
 

@@ -23,7 +23,7 @@
 
 ## تنسيق ملف FOMOD - مزيد من المعلومات
 
-عادةً ما يتم حفظ ملفات FOMOD كأرشيف مضغوط باستخدام تنسيقات الضغط [.7z](/ar/ compression / 7z /) أو [.zip](/ar/ compression / zip /) أو [.rar](/ar/ compression / rar /). في FOMM ، يتم تحميل هذا الملف وتثبيته على النظام.
+عادةً ما يتم حفظ ملفات FOMOD كأرشيف مضغوط باستخدام تنسيقات الضغط [.7z](/ar/compression/7z/) أو [.zip](/ar/compression/zip/) أو [.rar](/ar/compression/rar/). في FOMM ، يتم تحميل هذا الملف وتثبيته على النظام.
 
 ## كيفية تثبيت ملف .fomod؟
 

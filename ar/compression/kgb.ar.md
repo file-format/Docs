@@ -23,7 +23,7 @@
 
 ## تنسيق ملف KGB
 
-لا توجد تفاصيل تنفيذ فنية متاحة حول تنسيق ملف KGB. يوفر تشفير AES-256 لحماية الملفات المؤرشفة. تم تطوير أرشيفي KGB في Visual [C ++](/ar/ برمجة / cpp) بواسطة Tomasz Pawlak في أبريل 2006 وكان يُعتقد أنه يضغط [ملف 1 جيجا بايت حتى 10 ميجا بايت](https://web.archive.org/ web / 20100522074017 / http: //cshared.com/compress-1-gb-to-10-mb-kgb-archiver/) ملف.
+لا توجد تفاصيل تنفيذ فنية متاحة حول تنسيق ملف KGB. يوفر تشفير AES-256 لحماية الملفات المؤرشفة. تم تطوير أرشيفي KGB في Visual [C ++](/ar/programming/cpp/) بواسطة Tomasz Pawlak في أبريل 2006 وكان يُعتقد أنه يضغط [ملف 1 جيجا بايت حتى 10 ميجا بايت](https://web.archive.org/ web / 20100522074017 / http: //cshared.com/compress-1-gb-to-10-mb-kgb-archiver/) ملف.
 
 ## مراجع
 

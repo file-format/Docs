@@ -19,7 +19,7 @@
 
 ## ما هو ملف ASV؟
 
-ملف ASV هو ملف إعدادات Adobe Photoshop Selective Color. يحتوي على إعدادات ألوان للإعدادات المسبقة لقيم CMYK (سماوي وأرجواني وأصفر وأسود) التي يمكن تطبيقها على الصور النقطية مثل [PNG](/ar/ image / png /) و [BMP](/ar/ image / bmp /). يمكن تصدير ملفات ASV وحفظها لمشاركتها مع مستخدمين آخرين عبر الإنترنت. يمكن تحميلها في Adobe Photoshop من خلال مربع الحوار Selective Color باستخدام خيار Image-> Adjustments-> Selective Color. بمجرد التحميل ، يمكن تعديل هذه الإعدادات المسبقة أيضًا باستخدام Adobe Photoshop. يمكن تحميل ملفات ASV باستخدام
+ملف ASV هو ملف إعدادات Adobe Photoshop Selective Color. يحتوي على إعدادات ألوان للإعدادات المسبقة لقيم CMYK (سماوي وأرجواني وأصفر وأسود) التي يمكن تطبيقها على الصور النقطية مثل [PNG](/ar/image/png/) و [BMP](/ar/image/bmp/). يمكن تصدير ملفات ASV وحفظها لمشاركتها مع مستخدمين آخرين عبر الإنترنت. يمكن تحميلها في Adobe Photoshop من خلال مربع الحوار Selective Color باستخدام خيار Image-> Adjustments-> Selective Color. بمجرد التحميل ، يمكن تعديل هذه الإعدادات المسبقة أيضًا باستخدام Adobe Photoshop. يمكن تحميل ملفات ASV باستخدام
 طريقة نسبية أو مطلقة.
 
 [<img src="asv.png" width="250"/> ](../ asv.png)

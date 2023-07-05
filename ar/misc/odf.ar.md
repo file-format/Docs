@@ -19,7 +19,7 @@
 
 ## ما هو ملف ODF؟
 
-الملف بامتداد .odf هو مستند يحتوي على معادلات رياضية ووحدات ماكرو وصيغ. تم إنشاؤه باستخدام برنامج [Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide) المستخدم لإنشاء صيغ الرياضيات التي يمكن حفظها بعد ذلك على القرص أو تضمينها في مستندات أخرى. يتم إنشاء هذه الملفات وحفظها بناءً على معيار OASIS OpenDocument وهو تنسيق ملف قياسي مفتوح لجداول البيانات والمخططات والعروض التقديمية ومستندات معالجة النصوص باستخدام [ZIP](/ar/ compression / zip /) - مضغوط [XML](/ar/ web / xml /). يمكن فتح ملفات ODF باستخدام تطبيقات مثل OpenOffice Math و LibreOffice Draw.
+الملف بامتداد .odf هو مستند يحتوي على معادلات رياضية ووحدات ماكرو وصيغ. تم إنشاؤه باستخدام برنامج [Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide) المستخدم لإنشاء صيغ الرياضيات التي يمكن حفظها بعد ذلك على القرص أو تضمينها في مستندات أخرى. يتم إنشاء هذه الملفات وحفظها بناءً على معيار OASIS OpenDocument وهو تنسيق ملف قياسي مفتوح لجداول البيانات والمخططات والعروض التقديمية ومستندات معالجة النصوص باستخدام [ZIP](/ar/compression/zip/) - مضغوط [XML](/ar/web/xml/). يمكن فتح ملفات ODF باستخدام تطبيقات مثل OpenOffice Math و LibreOffice Draw.
 
 ## تنسيق ملف ODF - مزيد من المعلومات
 

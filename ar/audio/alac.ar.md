@@ -16,11 +16,11 @@ lastmod: 2021-03-21
 
 ## ما هو ملف ALAC؟
 
-تنسيق ملف ALAC هو برنامج Apple Lossless Audio Codec (ALAC) الذي يستخدم حاوية QuickTime المتوافقة مع MPEG-4. تم تقديمه في عام 2004 كتنسيق ملف خاص ، حتى عام 2011 عندما أتاحته Apple مفتوح المصدر وخاليًا من حقوق الملكية. التنسيق مشابه لـ [FLAC](/ar/ audio / flac /) (Free Lossless Audio Codec) ولكنه يوفر ضغطًا أكبر نسبيًا. يقدم بديلاً أفضل للصوت لـ [AAC](/ar/ audio / aac /) أو [MP3](/ar/ audio / mp3 /). يمكن فتح ملفات الصوت المشفرة باستخدام برنامج ترميز ALAC باستخدام Apple QuickTime و Apple iTunes و Micrsoft Windows Media Player مع برنامج الترميز K-Lite.
+تنسيق ملف ALAC هو برنامج Apple Lossless Audio Codec (ALAC) الذي يستخدم حاوية QuickTime المتوافقة مع MPEG-4. تم تقديمه في عام 2004 كتنسيق ملف خاص ، حتى عام 2011 عندما أتاحته Apple مفتوح المصدر وخاليًا من حقوق الملكية. التنسيق مشابه لـ [FLAC](/ar/audio/flac/) (Free Lossless Audio Codec) ولكنه يوفر ضغطًا أكبر نسبيًا. يقدم بديلاً أفضل للصوت لـ [AAC](/ar/audio/aac/) أو [MP3](/ar/audio/mp3/). يمكن فتح ملفات الصوت المشفرة باستخدام برنامج ترميز ALAC باستخدام Apple QuickTime و Apple iTunes و Micrsoft Windows Media Player مع برنامج الترميز K-Lite.
 
 ## تنسيق ملف ALAC
 
-الملفات المستندة إلى برنامج ترميز ALAC هي ملفات ثنائية متوفرة كـ [مصدر مفتوح على GitHub](https://github.com/macosforge/alac) كمرجع للمطور. يحتوي على مصادر وحدة فك التشفير والتشفير ALAC. قدمت Apple أيضًا أداة مساعدة لسطر الأوامر ، تسمى "alacconvert" ، لقراءة وكتابة البيانات الصوتية إلى / من ملفات Core Audio Format (CAF) و [WAVE](/ar/ audio / wav /). فيما يلي بعض النقاط الرئيسية حول تنسيق ملف ALAC.
+الملفات المستندة إلى برنامج ترميز ALAC هي ملفات ثنائية متوفرة كـ [مصدر مفتوح على GitHub](https://github.com/macosforge/alac) كمرجع للمطور. يحتوي على مصادر وحدة فك التشفير والتشفير ALAC. قدمت Apple أيضًا أداة مساعدة لسطر الأوامر ، تسمى "alacconvert" ، لقراءة وكتابة البيانات الصوتية إلى / من ملفات Core Audio Format (CAF) و [WAVE](/ar/audio/wav/). فيما يلي بعض النقاط الرئيسية حول تنسيق ملف ALAC.
 
 1. "أعماق البت" - 16 و 20 و 24 و 32 بت.
 1. "معدل العينة" - أي معدل عينة ذي عدد صحيح عشوائي يتراوح من 1 إلى 384000 هرتز. يمكن دعم معدلات نظرية تصل إلى 4،294،967،295 (2 ^ 32 - 1) هرتز.

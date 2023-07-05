@@ -16,7 +16,7 @@ lastmod: 2020-02-12
 
 ## ما هو ملف JS؟ ##
 
-JS (JavaScript) هي ملفات تحتوي على كود JavaScript للتنفيذ على صفحات الويب. يتم تخزين ملفات JavaScript بامتداد .js. داخل مستند [HTML](/ar/ web / html /) ، يمكنك إما تضمين كود JavaScript باستخدام \ <script>\</script> العلامات أو تضمين ملف JS. على غرار ملفات [CSS](/ar/ web / css /) ، يمكن تضمين ملفات JS في مستندات HTML متعددة لإعادة استخدام الكود. يمكن استخدام JavaScript لمعالجة HTML DOM.
+JS (JavaScript) هي ملفات تحتوي على كود JavaScript للتنفيذ على صفحات الويب. يتم تخزين ملفات JavaScript بامتداد .js. داخل مستند [HTML](/ar/web/html/) ، يمكنك إما تضمين كود JavaScript باستخدام \ <script>\</script> العلامات أو تضمين ملف JS. على غرار ملفات [CSS](/ar/web/css/) ، يمكن تضمين ملفات JS في مستندات HTML متعددة لإعادة استخدام الكود. يمكن استخدام JavaScript لمعالجة HTML DOM.
 
 ## نبذة تاريخية ##
 

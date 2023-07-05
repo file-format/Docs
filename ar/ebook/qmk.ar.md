@@ -19,7 +19,7 @@
 
 ## ما هو ملف QMK؟
 
-يُعرف الملف بامتداد .qmk عمومًا بتنسيق ** YanCEyDesktop Quickmarks file **. قدم YanCEyWare تنسيق ملف YanCEyDesktop Quickmarks. يرتبط ملف QMK بملف [YBK](/ar/ ebook / ybk /) ويدعمه برنامج متاح للأجهزة التي تعمل بنظام التشغيل Windows. يتم تصنيف الملف بامتداد QMK كملف نصي يسمح للمستخدمين بالتنقل بسهولة إلى المواقع المحفوظة داخل الكتب الإلكترونية. YanCEyDesktop هو البرنامج الموصى به لإدارة ملفات QMK. تم إنشاء برنامج ** YanCEyDesktop ** بواسطة ** D Remington **.
+يُعرف الملف بامتداد .qmk عمومًا بتنسيق ** YanCEyDesktop Quickmarks file **. قدم YanCEyWare تنسيق ملف YanCEyDesktop Quickmarks. يرتبط ملف QMK بملف [YBK](/ar/ebook/ybk/) ويدعمه برنامج متاح للأجهزة التي تعمل بنظام التشغيل Windows. يتم تصنيف الملف بامتداد QMK كملف نصي يسمح للمستخدمين بالتنقل بسهولة إلى المواقع المحفوظة داخل الكتب الإلكترونية. YanCEyDesktop هو البرنامج الموصى به لإدارة ملفات QMK. تم إنشاء برنامج ** YanCEyDesktop ** بواسطة ** D Remington **.
 
 ## مشاكل في فتح ملف QMK
 

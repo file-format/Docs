@@ -26,7 +26,7 @@
 
 ### تصدير ملفات TreeSheets CTS إلى تنسيقات أخرى
 
-يمكن لمستخدمي TreeSheets تصدير جداول بيانات CTS إلى العديد من تنسيقات الملفات المختلفة. يمكن تصدير ملفات CTS إلى تنسيقات ملفات [HTML](/ar/ web / html /) و [JSON](/ar/ web / json /) و [CSV](/ar/ spreadsheet / csv /) و [صورة](/ar/ image /) .
+يمكن لمستخدمي TreeSheets تصدير جداول بيانات CTS إلى العديد من تنسيقات الملفات المختلفة. يمكن تصدير ملفات CTS إلى تنسيقات ملفات [HTML](/ar/web/html/) و [JSON](/ar/web/json/) و [CSV](/ar/spreadsheet/csv/) و [صورة](/ar/image/) .
 
 ## حول برنامج TreeSheets
 

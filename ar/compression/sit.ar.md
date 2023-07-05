@@ -19,7 +19,7 @@
 
 ## ما هو ملف SIT؟
 
-ملف SIT هو ملف أرشيف مضغوط تم إنشاؤه باستخدام برنامج Micro StuffIt. هذا هو تنسيق الملف القياسي الأصلي الذي تم تقديمه بواسطة StuffIt. يتم استخدام تنسيق ملف SIT بشكل شائع على أنظمة Macintosh ، ولكنه الآن مدعوم على أنظمة Windows و Macintosh. قام StuffIt بتمديد تنسيق ملف SIT إلى [SITX](/ar/ compression / sitx /) مما يوفر ضغطًا أكبر مقارنة بملفات SIT. يمكن فتح ملفات SIT باستخدام برنامج Smith Micro StuffIt Deluxe Mac 16.
+ملف SIT هو ملف أرشيف مضغوط تم إنشاؤه باستخدام برنامج Micro StuffIt. هذا هو تنسيق الملف القياسي الأصلي الذي تم تقديمه بواسطة StuffIt. يتم استخدام تنسيق ملف SIT بشكل شائع على أنظمة Macintosh ، ولكنه الآن مدعوم على أنظمة Windows و Macintosh. قام StuffIt بتمديد تنسيق ملف SIT إلى [SITX](/ar/compression/sitx/) مما يوفر ضغطًا أكبر مقارنة بملفات SIT. يمكن فتح ملفات SIT باستخدام برنامج Smith Micro StuffIt Deluxe Mac 16.
 
 ## تنسيق ملف SIT - مزيد من المعلومات
 

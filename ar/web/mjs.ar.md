@@ -19,7 +19,7 @@
 
 ## ما هو ملف MJS؟
 
-الملف ذو الامتداد .mjs هو ملف شفرة مصدر JavaScript يُستخدم كوحدة ECMA Module (ECMAScript Module) في تطبيقات Node.js. نظام الوحدة النمطية natvie الخاص بـ Node.js هو CommonJS الذي يتم استخدامه لتقسيم الشفرة في ملفات مختلفة للحفاظ على تنظيم كود [JS](/ar/ web / js /). MJS هي الطريقة الوحيدة التي يستخدمها Node.js لتحديد ما إذا كانت الوحدة هي CommonJS أو ES6. وحدات ECMAScript هي صيغة قياسية لتعبئة كود JavaScript لإعادة الاستخدام. يمكن فتح ملفات MJS في برامج تحرير النصوص مثل Atom و Vim و Apple xCode و Microsoft Visual Studio و Notepad.
+الملف ذو الامتداد .mjs هو ملف شفرة مصدر JavaScript يُستخدم كوحدة ECMA Module (ECMAScript Module) في تطبيقات Node.js. نظام الوحدة النمطية natvie الخاص بـ Node.js هو CommonJS الذي يتم استخدامه لتقسيم الشفرة في ملفات مختلفة للحفاظ على تنظيم كود [JS](/ar/web/js/). MJS هي الطريقة الوحيدة التي يستخدمها Node.js لتحديد ما إذا كانت الوحدة هي CommonJS أو ES6. وحدات ECMAScript هي صيغة قياسية لتعبئة كود JavaScript لإعادة الاستخدام. يمكن فتح ملفات MJS في برامج تحرير النصوص مثل Atom و Vim و Apple xCode و Microsoft Visual Studio و Notepad.
 
 ## تنسيق ملف MJS - مزيد من المعلومات
 

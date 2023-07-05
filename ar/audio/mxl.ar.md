@@ -20,7 +20,7 @@ lastmod: 2022-03-20
 
 ## تنسيق ملف MXL
 
-يتم تخزين ملفات MXL كملفات [ZIP](/ar/ ضغط / zip /) مضغوطة [XML](/ar/ web / xml /) بامتداد ملف .mxl. يتم ضغط ملفات MXL باستخدام خوارزمية DEFLATE كما هو محدد في [RFC 1951](https://www.ietf.org/rfc/rfc1951.txt).
+يتم تخزين ملفات MXL كملفات [ZIP](/ar/compression/zip/) مضغوطة [XML](/ar/web/xml/) بامتداد ملف .mxl. يتم ضغط ملفات MXL باستخدام خوارزمية DEFLATE كما هو محدد في [RFC 1951](https://www.ietf.org/rfc/rfc1951.txt).
 
 ### هيكل ملف MXL
 

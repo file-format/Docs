@@ -19,7 +19,7 @@
 
 ## ما هو ملف الفصل؟
 
-** ملف الفصل في Java ** هو الناتج المترجم لفئة [.java](/ar/ البرمجة / java /) التي يتم تنفيذها فعليًا بواسطة Java Virtual Machine (JVM). يمكن تنفيذ ملفات الفصل بشكل فردي وكذلك يمكن أن تكون جزءًا من ملف [JAR](/ar/ برمجة / jar /) كحزمة مع ملفات حزم أخرى. يمكن إنشاء هذه باستخدام الأمر ** `javac` ** من واجهة سطر الأوامر. توفر بعض Java IDEs مثل [Eclipse](https://www.eclipse.org/downloads/packages/release/2020-06/r/eclipse-ide-java-developers) و NetBeans إنشاء ملفات إخراج فئة من المشروع جافا. الملفات.
+** ملف الفصل في Java ** هو الناتج المترجم لفئة [.java](/ar/programming/java/) التي يتم تنفيذها فعليًا بواسطة Java Virtual Machine (JVM). يمكن تنفيذ ملفات الفصل بشكل فردي وكذلك يمكن أن تكون جزءًا من ملف [JAR](/ar/programming/jar/) كحزمة مع ملفات حزم أخرى. يمكن إنشاء هذه باستخدام الأمر ** `javac` ** من واجهة سطر الأوامر. توفر بعض Java IDEs مثل [Eclipse](https://www.eclipse.org/downloads/packages/release/2020-06/r/eclipse-ide-java-developers) و NetBeans إنشاء ملفات إخراج فئة من المشروع جافا. الملفات.
 
 ## تنسيق ملف الفصل الدراسي
 

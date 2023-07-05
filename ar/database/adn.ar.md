@@ -19,7 +19,7 @@
 
 ## ما هو ملف ADN؟
 
-الملف بملحق .adn هو ملف قالب فارغ لـ Microsoft Access يتم استخدامه لإنشاء ملفات مشروع Access بإعدادات مخزنة مسبقًا. يتم حفظ ملفات مشروع Microsoft Access كملفات ADP وتحتوي على معلومات مثل اتصال قاعدة البيانات وإعدادات بدء تشغيل المشروع. توجد ملفات ADN لإصدارات 2007 و 2010 من Microsoft Access. يدعم Microsoft Access تنسيقات ملفات أخرى مثل [MDB](/ar/ database / mdb /) ، [ACCDB](/ar/ database / accdb /) ، [ACCDC](/ar/ database / accdc /) ، [ACCDE](/ar/ database / accde / ) ، وغيرها الكثير بالإضافة إلى ملفات ADN هذه. يمكن فتح ملفات ADN باستخدام Office 365 و Microsoft Access.
+الملف بملحق .adn هو ملف قالب فارغ لـ Microsoft Access يتم استخدامه لإنشاء ملفات مشروع Access بإعدادات مخزنة مسبقًا. يتم حفظ ملفات مشروع Microsoft Access كملفات ADP وتحتوي على معلومات مثل اتصال قاعدة البيانات وإعدادات بدء تشغيل المشروع. توجد ملفات ADN لإصدارات 2007 و 2010 من Microsoft Access. يدعم Microsoft Access تنسيقات ملفات أخرى مثل [MDB](/ar/database/mdb/) ، [ACCDB](/ar/database/accdb/) ، [ACCDC](/ar/database/accdc/) ، [ACCDE](/ar/database/accde/) ، وغيرها الكثير بالإضافة إلى ملفات ADN هذه. يمكن فتح ملفات ADN باستخدام Office 365 و Microsoft Access.
 
 ## تنسيق ملف ADN - مزيد من المعلومات
 

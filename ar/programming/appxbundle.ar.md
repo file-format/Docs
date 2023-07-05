@@ -19,7 +19,7 @@
 
 ## ما هو ملف APPXBUNDLE؟
 
-ملف APPXBUNDLE هو ملف حزمة تم إنشاؤه باستخدام [Microsoft Visual Studio](https://visualstudio.microsoft.com/) ويستخدم لتوزيع تطبيقات Windows (لكل من سطح المكتب و UWP) على [متجر Microsoft](https: // www.microsoft.com/en-us/store/apps/windows). يحتوي على إصدار واحد أو أكثر من التطبيق ، يستهدف بنية معالج معينة مثل x86 أو x64 أو ARM. يتيح ذلك للمستخدم النهائي تلقي الإصدار المناسب من التطبيق ونشره بناءً على بنية الكمبيوتر. يتم تجميع ملفات APPXBUNDLE معًا باستخدام تنسيق الملف القياسي [ZIP](/ar/ compression / zip /). تُستخدم طريقة النشر في Microsoft Visual Studio لنشر التطبيقات كحزمة. يتم توزيع تطبيقات الحزمة الفردية كملفات [APPX](/ar/ برمجة / appx /).
+ملف APPXBUNDLE هو ملف حزمة تم إنشاؤه باستخدام [Microsoft Visual Studio](https://visualstudio.microsoft.com/) ويستخدم لتوزيع تطبيقات Windows (لكل من سطح المكتب و UWP) على [متجر Microsoft](https: // www.microsoft.com/en-us/store/apps/windows). يحتوي على إصدار واحد أو أكثر من التطبيق ، يستهدف بنية معالج معينة مثل x86 أو x64 أو ARM. يتيح ذلك للمستخدم النهائي تلقي الإصدار المناسب من التطبيق ونشره بناءً على بنية الكمبيوتر. يتم تجميع ملفات APPXBUNDLE معًا باستخدام تنسيق الملف القياسي [ZIP](/ar/compression/zip/). تُستخدم طريقة النشر في Microsoft Visual Studio لنشر التطبيقات كحزمة. يتم توزيع تطبيقات الحزمة الفردية كملفات [APPX](/ar/programming/appx/).
 
 ## تنسيق ملف APPXBUNDLE
 

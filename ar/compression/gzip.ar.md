@@ -24,7 +24,7 @@
 
 يستخدم GZIP خوارزمية [DEFLATE](https://en.wikipedia.org/wiki/DEFLATE) لضغط الملفات إلى الأرشيف. اثنان RFCs ، [RFC1952](https://tools.ietf.org/html/rfc1952) و [RFC 1951](https://tools.ietf.org/html/rfc1951) ، يحددان مواصفات تنسيق غلاف gzip وتفريغ تنسيق البيانات المضغوطة ، على التوالي.
 
-غالبًا ما يتم حفظ ملفات GZIP بتنسيق ملف [GZ](/ar/ ضغط / gz /).
+غالبًا ما يتم حفظ ملفات GZIP بتنسيق ملف [GZ](/ar/compression/gz/).
 
 ## مراجع
 

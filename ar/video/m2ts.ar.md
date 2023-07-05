@@ -19,7 +19,7 @@
 
 ## ما هو ملف M2TS؟ ##
 
-يحتوي ملف M2TS على فيديو عالي الوضوح على قرص Blu-ray و AVCHD. يعتمد تنسيق الملف هذا على حاوية دفق النقل MPEG-2 ويستخدم لتعدد إرسال الصوت والفيديو وغيرها من التدفقات. يمكن تشغيل ملفات M2TS على الأجهزة التي تدعم تشغيل [AVCHD](/ar/ video / avchd) ، مثل Sony PlayStation 3s و Sony Bravia TVs و Western Digital WDTV و Xtreamer media player و Amkette FlashTV HD Media Player و Panasonic Viera TVs التي تدعم AVCHD.
+يحتوي ملف M2TS على فيديو عالي الوضوح على قرص Blu-ray و AVCHD. يعتمد تنسيق الملف هذا على حاوية دفق النقل MPEG-2 ويستخدم لتعدد إرسال الصوت والفيديو وغيرها من التدفقات. يمكن تشغيل ملفات M2TS على الأجهزة التي تدعم تشغيل [AVCHD](/ar/video/avchd/) ، مثل Sony PlayStation 3s و Sony Bravia TVs و Western Digital WDTV و Xtreamer media player و Amkette FlashTV HD Media Player و Panasonic Viera TVs التي تدعم AVCHD.
 
 ## تنسيق ملف M2TS
 مواصفات دفق النقل MPEG-2 المعدلة لوسائط الوصول العشوائي (مثل DVD ، قرص Blu-ray ، القرص الصلب ، بطاقات الذاكرة ذات الحالة الصلبة) عبارة عن حاوية وسائط BDAV تسمى بشكل غير رسمي M2TS. يستخدم M2TS تدفقات النقل بمعدل متغير (VBR) بدلاً من المعدلات الثابتة النموذجية (CBR) الموجودة في بث MPEG-2 TS لتحسين حجم التخزين. يجب تسجيل معدل النقل الثابت المتوافق مع T-STD لتشغيل الطابع الزمني للوصول (ATS) لكل حزمة حتى تتمكن من إعادة البناء.

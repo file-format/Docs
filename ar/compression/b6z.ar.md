@@ -33,7 +33,7 @@
 | BZip2 | خوارزمية BWT القياسية |
 | PPMD | ديمتري شكارين PPMdH |
 
-تدعم الأداة المساعدة B6Zip كل معايير الضغط هذه وهي مُحسَّنة للغاية مما يؤدي إلى سرعة عالية. وهو يدعم العمل مع تنسيقات الملفات [ZIP](/ar/ compression / zip /) و [TAR](/ar/ compression / tar /) و [RAR](/ar/ compression / rar /). تحتوي ملفات B6Z على نوع MIME application / x-b6z-المضغوط.
+تدعم الأداة المساعدة B6Zip كل معايير الضغط هذه وهي مُحسَّنة للغاية مما يؤدي إلى سرعة عالية. وهو يدعم العمل مع تنسيقات الملفات [ZIP](/ar/compression/zip/) و [TAR](/ar/compression/tar/) و [RAR](/ar/compression/rar/). تحتوي ملفات B6Z على نوع MIME application / x-b6z-المضغوط.
 
 ## مراجع
 

@@ -41,7 +41,7 @@
 
 ## مثال AMF
 
-فيما يلي مثال لملف AMF الذي يمكن نسخه إلى ملف [نص](/ar/ معالجة الكلمات / txt /) وحفظه كملف مضغوط [zip](/ar/ compression / zip /) للفتح.
+فيما يلي مثال لملف AMF الذي يمكن نسخه إلى ملف [text](/ar/word-processing/txt/) وحفظه كملف مضغوط [zip](/ar/compression/zip/) للفتح.
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <amf unit="inch" version="1.1">

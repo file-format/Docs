@@ -15,7 +15,7 @@ lastmod: 2022-03-09
 
 ## ما هو ملف NSA؟
 
-ملف NSA (NullSoft Streaming Audio) هو تنسيق صوتي متدفق تم تطويره بواسطة NullSoft لدفق الصوت عبر الإنترنت. قامت NullSoft أيضًا بتطوير [Winamp media player](https://www.winamp.com/) لدفق وتشغيل ملفات الصوت والفيديو. يستخدم تنسيق ملف NSA خوارزميات ضغط الصوت التي قدمتها وطورتها NullSoft. قامت NullSoft أيضًا بتطوير تنسيق ملف [NSV](/ar/ video / nsv /) لدفق مقاطع الفيديو عبر الإنترنت.
+ملف NSA (NullSoft Streaming Audio) هو تنسيق صوتي متدفق تم تطويره بواسطة NullSoft لدفق الصوت عبر الإنترنت. قامت NullSoft أيضًا بتطوير [Winamp media player](https://www.winamp.com/) لدفق وتشغيل ملفات الصوت والفيديو. يستخدم تنسيق ملف NSA خوارزميات ضغط الصوت التي قدمتها وطورتها NullSoft. قامت NullSoft أيضًا بتطوير تنسيق ملف [NSV](/ar/video/nsv/) لدفق مقاطع الفيديو عبر الإنترنت.
 
 ## تنسيق ملف NSA
 

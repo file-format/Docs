@@ -19,11 +19,11 @@
 
 ## ما هو ملف VBPROJ؟
 
-الملف ذو الامتداد .vbproj هو ملف مشروع Microsoft Visual Basic يتم استخدامه بواسطة محرك Microsoft MSBuild لبناء المشاريع ضمن حل Visual Studio. إنه مشابه لملف [CSPROJ](/ar/ البرمجة / csproj /) لمشاريع .NET المكتوبة في [C #](/ar/ البرمجة / cs /). يقوم محرك MSBuild بقراءة المعلومات الموجودة في مجموعات مختلفة من ملفات VBPROJ ويقوم بإنشاء ملف الإخراج. يمكن أن يحتوي ملف VBPROJ على معلومات تتعلق بالمعرفات والفئات والخصائص العامة التي تحدد المشروع. يمكن فتح ملفات VBPROJ وتحريرها باستخدام Microsoft Visual Studio وأي محرر نصوص شائع مثل Notepad على أنظمة تشغيل Windows و MacOS.
+الملف ذو الامتداد .vbproj هو ملف مشروع Microsoft Visual Basic يتم استخدامه بواسطة محرك Microsoft MSBuild لبناء المشاريع ضمن حل Visual Studio. إنه مشابه لملف [CSPROJ](/ar/programming/csproj/) لمشاريع .NET المكتوبة في [C #](/ar/programming/cs/). يقوم محرك MSBuild بقراءة المعلومات الموجودة في مجموعات مختلفة من ملفات VBPROJ ويقوم بإنشاء ملف الإخراج. يمكن أن يحتوي ملف VBPROJ على معلومات تتعلق بالمعرفات والفئات والخصائص العامة التي تحدد المشروع. يمكن فتح ملفات VBPROJ وتحريرها باستخدام Microsoft Visual Studio وأي محرر نصوص شائع مثل Notepad على أنظمة تشغيل Windows و MacOS.
 
 ## تنسيق ملف VBPROJ - مزيد من المعلومات
 
-ملفات VBPROJ هي ملفات نصية مكتوبة بتنسيق ملف [XML](/ar/ web / xml /) بناءً على [MSBuild XML Schema](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild- مشروع-ملف-مخطط-مرجع؟ عرض = مقابل -2019). يحتوي ملف VBPROJ على معلومات في شكل علامات XML التي تحدد المعلومات المتعلقة بمجموعة الإعدادات المحددة. يوصى بشدة بفتح ملفات الإعداد هذه وتحريرها في Microsoft Visual Studio IDE.
+ملفات VBPROJ هي ملفات نصية مكتوبة بتنسيق ملف [XML](/ar/web/xml/) بناءً على [MSBuild XML Schema](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild- مشروع-ملف-مخطط-مرجع؟ عرض = مقابل -2019). يحتوي ملف VBPROJ على معلومات في شكل علامات XML التي تحدد المعلومات المتعلقة بمجموعة الإعدادات المحددة. يوصى بشدة بفتح ملفات الإعداد هذه وتحريرها في Microsoft Visual Studio IDE.
 
 ### عناصر VBPROJ
 

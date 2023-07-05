@@ -19,7 +19,7 @@
 
 ## ما هو ملف ESS؟
 
-ملف ESS هو ملف جدول بيانات تم إنشاؤه ودعمه بواسطة برنامج تطبيق جداول البيانات EasySpreadsheet الذي يأتي كجزء من [EasyOffice](https://en.wikipedia.org/wiki/EasyOffice). تم إطلاق EasyOffice كبديل لبرنامج Microsoft Office ولكنه لم يعد متاحًا للاستخدام وتم استبداله بمجموعة أخرى تسمى One. جاء في نوعين مختلفين هما EasyOffice Freeware و EasyOffice Premium مع وجود لاحقًا مرشح PDF و EasyAntiVirus. ملف ESS متوافق مع ملفات Microsoft [XLS](/ar/ spreadsheet / xls /).
+ملف ESS هو ملف جدول بيانات تم إنشاؤه ودعمه بواسطة برنامج تطبيق جداول البيانات EasySpreadsheet الذي يأتي كجزء من [EasyOffice](https://en.wikipedia.org/wiki/EasyOffice). تم إطلاق EasyOffice كبديل لبرنامج Microsoft Office ولكنه لم يعد متاحًا للاستخدام وتم استبداله بمجموعة أخرى تسمى One. جاء في نوعين مختلفين هما EasyOffice Freeware و EasyOffice Premium مع وجود لاحقًا مرشح PDF و EasyAntiVirus. ملف ESS متوافق مع ملفات Microsoft [XLS](/ar/spreadsheet/xls/).
 
 ## تنسيق ملف ESS - حقائق سريعة
 

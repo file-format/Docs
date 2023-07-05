@@ -19,7 +19,7 @@
 
 ## ما هو ملف CMX؟
 
-الملفات ذات الامتداد .cmx هي تنسيق ملف صورة Corel Exchange (المعروف أيضًا باسم Corel Metafile Exchange) الذي يتم استخدامه كعرض تقديمي بواسطة تطبيقات CorelSuite. يحتوي على بيانات الصورة كرسومات متجهة بالإضافة إلى بيانات أولية تصف الصورة. يمكن فتح ملفات CMX بواسطة CorelDraw و Corel Presentations و Paint Shop Pro وبعض إصدارات Adobe Illustrator. يمكن تحويل ملفات CMX إلى تنسيقات أخرى مثل [JPG](/ar/ image / jpeg /) و [EPS](/ar/ page-description-language / eps /).
+الملفات ذات الامتداد .cmx هي تنسيق ملف صورة Corel Exchange (المعروف أيضًا باسم Corel Metafile Exchange) الذي يتم استخدامه كعرض تقديمي بواسطة تطبيقات CorelSuite. يحتوي على بيانات الصورة كرسومات متجهة بالإضافة إلى بيانات أولية تصف الصورة. يمكن فتح ملفات CMX بواسطة CorelDraw و Corel Presentations و Paint Shop Pro وبعض إصدارات Adobe Illustrator. يمكن تحويل ملفات CMX إلى تنسيقات أخرى مثل [JPG](/ar/image/jpeg/) و [EPS](/ar/page-description-language/eps/).
 
 ## تنسيق ملف CMX
 يعتمد تنسيق ملف CMX على تنسيق ملف تبادل الموارد (RIFF) ويدعم تنسيقات Intel و Motorola الثنائية. يستخدم ملف CMX أنواع MIME التالية:

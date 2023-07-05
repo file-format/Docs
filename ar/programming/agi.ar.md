@@ -43,7 +43,7 @@ agi_priority: 2
 
 ### لغة برمجة لملفات AGI Script
 
-يمكن عادةً كتابة نصوص AGI بلغة Perl أو [PHP](/ar/ برمجة / php /) أو [C](/ar/ برمجة / c /) أو باسكال أو بورن شل.
+يمكن عادةً كتابة نصوص AGI بلغة Perl أو [PHP](/ar/programming/php/) أو [C](/ar/programming/c/) أو باسكال أو بورن شل.
 
 ## مراجع
 
