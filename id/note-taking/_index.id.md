@@ -21,7 +21,7 @@ File program pencatat berisi bagian dan halaman untuk menyimpan catatan. Dokumen
 
 Ekstensi file OneNote umum dan format file yang terkait termasuk **[.ONE](/id/note-taking/one/)** dan daftar isi file **[.ONETOC2](/id/note-taking/onetoc2/)** .
 
-Punya pertanyaan terkait format file Notes? Kunjungi [forum](https://forum.fileformat.com/c/note-taking) komunitas kami untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
+Punya pertanyaan terkait format file Notes? Kunjungi [forum](https://forum.fileformat.com/c/note-taking/23) komunitas kami untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
 
 ## Daftar Ekstensi File Pencatat dan Format File Terkait
 Berikut ini adalah daftar format file Note taking umum bersama dengan ekstensi file mereka.

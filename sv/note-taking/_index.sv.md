@@ -21,7 +21,7 @@ Programfiler för anteckningar innehåller avsnitt och sidor för lagring av ant
 
 Vanliga OneNote-filtillägg och deras associerade filformat inkluderar **[.ONE](/sv/note-taking/one/)** och dess innehållsförteckningsfil **[.ONETOC2](/sv/note-taking/onetoc2/)** .
 
-Har du frågor relaterade till Notes-filformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/note-taking) för att dra nytta av kunskapen som delas av filformatsexperter.
+Har du frågor relaterade till Notes-filformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/note-taking/23) för att dra nytta av kunskapen som delas av filformatsexperter.
 
 ## Lista över filtillägg och tillhörande filformat
 Följande är en lista över vanliga anteckningsfilformat tillsammans med deras filtillägg.

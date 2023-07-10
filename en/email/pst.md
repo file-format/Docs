@@ -22,7 +22,7 @@ Files with .pst extension represent Outlook Personal Storage Files (also called 
 
 ## PST File Format Specifications
 
-PST File format [specifications](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) are available from Microsoft as free and irrevocable free patent licensing through the Open Specification Promise.
+PST File format [specifications](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546) are available from Microsoft as free and irrevocable free patent licensing through the Open Specification Promise.
 
 ### Type of PST Formats
 
@@ -94,5 +94,5 @@ For security, PST files can also be password protected which requires the loadin
 
 ## References ##
 
-* [Outlook Personal Folders (.pst) File Format](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Personal Folder File Format Specifications](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Outlook Personal Folders (.pst) File Format](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Personal Folder File Format Specifications](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)

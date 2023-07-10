@@ -22,7 +22,7 @@ You must be familiar with **PPTX** and **PPT** extension files, these are Presen
 
 Common Presentation file extensions and their associated file formats include **[PPTX](/presentation/pptx/)**, **[PPT](/presentation/ppt/)** and **[ODP](/presentation/odp/)**.
 
-Got queries related to Presentation file formats? Head on to our community [forums](https://forum.fileformat.com/c/presentation) to benefit from the knowledge shared by File Format experts.
+Got queries related to Presentation file formats? Head on to our community [forums](https://forum.fileformat.com/c/presentation/8) to benefit from the knowledge shared by File Format experts.
 
 ## Open Source APIs for Presentation Files
 

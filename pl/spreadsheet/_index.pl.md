@@ -22,7 +22,7 @@ Plik **arkusza kalkulacyjnego** zawiera dane w postaci wierszy i kolumn. Plik ar
 
 Typowe rozszerzenia plików arkuszy kalkulacyjnych i ich formaty plików to **[XLSX](/pl/spreadsheet/xlsx/)** (Arkusz kalkulacyjny Microsoft Excel Open XML), **[ODS](/pl/spreadsheet/ods/)** (Arkusz kalkulacyjny OpenDocument) i **[XLS](/pl/spreadsheet/xls/)** (binarny format pliku programu Microsoft Excel).
 
-Masz pytania dotyczące formatów plików arkusza kalkulacyjnego? Odwiedź nasze [fora] społeczności (https://forum.fileformat.com/c/spreadsheet), aby skorzystać z wiedzy ekspertów ds. formatów plików.
+Masz pytania dotyczące formatów plików arkusza kalkulacyjnego? Odwiedź nasze [fora] społeczności (https://forum.fileformat.com/c/spreadsheet/6), aby skorzystać z wiedzy ekspertów ds. formatów plików.
 
 ## Lista rozszerzeń plików arkusza kalkulacyjnego i powiązanych formatów plików
 

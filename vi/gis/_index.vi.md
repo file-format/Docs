@@ -22,7 +22,7 @@ Tệp bản đồ GIS (Hệ thống thông tin địa lý) bao gồm thông tin 
 
 Các phần mở rộng tệp GIS phổ biến và định dạng tệp của chúng bao gồm **[GPX](/vi/gis/gpx/)** (Định dạng tệp trao đổi GPS), **[KML](/vi/gis/kml/)** (Tệp ngôn ngữ đánh dấu lỗ khóa) và **[SHP](/vi/gis/shp/)** (Tệp hình dạng ESRI).
 
-Bạn có truy vấn liên quan đến định dạng tệp GIS? Hãy tham gia cộng đồng của chúng tôi [các diễn đàn](https://forum.fileformat.com/c/gis) để hưởng lợi từ kiến thức do các chuyên gia Định dạng tệp chia sẻ.
+Bạn có truy vấn liên quan đến định dạng tệp GIS? Hãy tham gia cộng đồng của chúng tôi [các diễn đàn](https://forum.fileformat.com/c/gis/7) để hưởng lợi từ kiến thức do các chuyên gia Định dạng tệp chia sẻ.
 
 ## Danh sách các phần mở rộng tệp GIS và định dạng tệp được liên kết
 Sau đây là danh sách các định dạng tệp GIS phổ biến cùng với phần mở rộng tệp của chúng.

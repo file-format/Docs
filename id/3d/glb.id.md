@@ -29,7 +29,7 @@ Metode pengiriman konten yang digunakan oleh glTF menghasilkan pemrosesan ekstra
 * glTF JSON menunjuk ke data biner eksternal (geometri, bingkai kunci, kulit), dan gambar.
 * glTF JSON menyematkan data biner berenkode base64, dan gambar sebaris menggunakan URI data.
 
-GLB sebagai format wadah diperkenalkan sebagai format file biner untuk representasi aset glTF dalam gumpalan biner untuk menghindari masalah yang disebabkan oleh glTF. Format file GLB [spesifikasi](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0#glb-file-format-specification) harus dirujuk untuk implementasi pembaca/penulis yang sama untuk pengembangan aplikasi .
+GLB sebagai format wadah diperkenalkan sebagai format file biner untuk representasi aset glTF dalam gumpalan biner untuk menghindari masalah yang disebabkan oleh glTF. Format file GLB [spesifikasi](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0#glb-file-format-specification) harus dirujuk untuk implementasi pembaca/penulis yang sama untuk pengembangan aplikasi .
 
 ## Struktur File GLB
 

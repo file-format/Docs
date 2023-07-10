@@ -22,7 +22,7 @@ Você já se deparou e se perguntou o que é um arquivo MPP? MPP e outros arquiv
 
 As extensões de arquivo comuns de gerenciamento de projetos e seus formatos de arquivo associados incluem **[MPP](/pt/project-management/mpp/)**, **[MPX](/pt/project-management/mpx/)** e **[XER](/pt/project-management/xer/)**.
 
-Tem consultas relacionadas a formatos de arquivo de gerenciamento de projetos? Acesse nossa comunidade [fóruns](https://forum.fileformat.com/c/project-management) para se beneficiar do conhecimento compartilhado por especialistas em formato de arquivo.
+Tem consultas relacionadas a formatos de arquivo de gerenciamento de projetos? Acesse nossa comunidade [fóruns](https://forum.fileformat.com/c/project-management/15) para se beneficiar do conhecimento compartilhado por especialistas em formato de arquivo.
 
 ## Lista de Extensões de Arquivo de Projeto e Formatos de Arquivo Associados
 

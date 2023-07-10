@@ -22,5 +22,5 @@ Microsfot Visio, Microsoft Office paketinin bir parçası olarak gelir ve diyagr
 
 Visio dosya biçimleri, **[VSDX](/tr/visio/vsdx/)**, **[VSX](/tr/visio/vsx/)**, VTX, VDX, **[VSSX](/tr/visio) gibi dosya türlerini içerir Kullanıcı Microsoft Visio'da bir proje oluşturup bunu diske kaydettiğinde diske kaydedilen /vssx/)**, VSTX, VSDM, VSSM, VSTM dosya biçimi. Yayıncı Dosya Biçimlerinin bir listesi aşağıdadır.
 
-Visio dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/visio/) gidin.
+Visio dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/visio/31) gidin.
 

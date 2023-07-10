@@ -46,7 +46,7 @@ Format file 3MF menggunakan spesifikasi Open Packaging berupa arsip ZIP untuk mo
 
 Dokumen khas 3MF terlihat sebagai berikut:
 
-![3MF Document Structure](https://github.com/3MFConsortium/spec_core/raw/master/images/figure_2-1.png "3MF Document Structure")
+![3MF Document Structure](https://raw.githubusercontent.com/3MFConsortium/spec_core/master/images/figure_2-1.png "3MF Document Structure")
 
 Muatan mencakup set lengkap suku cadang yang diperlukan untuk memproses bagian Model 3D. Semua konten yang akan digunakan untuk membuat objek yang dijelaskan dalam muatan 3D HARUS dimuat dalam Dokumen 3MF. Uraian masing-masing bagian dokumen beserta statusnya sebagai kebutuhan atau pilihan dapat dilihat pada tabel berikut.
 

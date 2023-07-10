@@ -21,7 +21,7 @@ Sono necessari diversi tipi di file durante la creazione di una pagina Web. I fo
 
 Le estensioni di file Web comuni e i formati di file associati includono **[HTML](/it/web/html/)** (Hypertext Markup Language), **[ASP](/it/web/asp/) (Active Server Pages)**, e **CSS** (fogli di stile sovrapposti).
 
-Hai domande relative ai formati di file Web? Visita la nostra community [forum](https://forum.fileformat.com/c/web) per beneficiare delle conoscenze condivise dagli esperti di formati di file.
+Hai domande relative ai formati di file Web? Visita la nostra community [forum](https://forum.fileformat.com/c/web/13) per beneficiare delle conoscenze condivise dagli esperti di formati di file.
 
 ## Elenco delle estensioni dei file Web e dei formati di file associati
 

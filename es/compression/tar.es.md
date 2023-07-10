@@ -58,6 +58,6 @@ Los campos no utilizados se rellenan con bytes NUL. Un encabezado consta de 257 
 
 ## Referencias ##
 
-* [TAR - Por Wikipedia](https://en.wikipedia.org/wiki/Tar_(informática))
+* [TAR - Por Wikipedia](https://en.wikipedia.org/wiki/Tar_(computing))
 * [Formato básico TAR](https://www.gnu.org/software/tar/manual/html_node/Standard.html)
 

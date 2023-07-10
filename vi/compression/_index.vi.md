@@ -19,7 +19,7 @@
 
 Nén tệp là quá trình giảm kích thước của một hoặc nhiều tệp. Nó thu nhỏ các tệp lớn thành các tệp nhỏ hơn nhiều bằng cách xóa dữ liệu không cần thiết. Kho lưu trữ tệp nén giúp gửi và sao lưu các tệp hoặc nhóm tệp lớn dễ dàng hơn. Hơn nữa, các tệp như vậy giúp tải xuống nhanh hơn dễ dàng hơn và cho phép lưu trữ nhiều dữ liệu hơn trên phương tiện di động. Có nhiều định dạng nén khác nhau. Dưới đây chúng ta sẽ thảo luận về các Định dạng tệp nén phổ biến nhất và phần mềm được khuyên dùng nhất sử dụng nó.
 
-Có truy vấn liên quan đến định dạng tệp Nén? Hãy truy cập vào cộng đồng của chúng tôi [các diễn đàn](https://forum.fileformat.com/c/compression) để hưởng lợi từ kiến thức do các chuyên gia Định dạng tệp chia sẻ.
+Có truy vấn liên quan đến định dạng tệp Nén? Hãy truy cập vào cộng đồng của chúng tôi [các diễn đàn](https://forum.fileformat.com/c/compression/10) để hưởng lợi từ kiến thức do các chuyên gia Định dạng tệp chia sẻ.
 
 ## Danh sách các phần mở rộng tệp nén và định dạng Flie được liên kết
 

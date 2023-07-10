@@ -22,7 +22,7 @@
 
 ## Специфікації формату файлу PST
 
-Формат файлу PST [специфікації](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) доступний від Microsoft як безкоштовне та безвідкличне безкоштовне ліцензування патенту через Open Specification Promise .
+Формат файлу PST [специфікації](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546) доступний від Microsoft як безкоштовне та безвідкличне безкоштовне ліцензування патенту через Open Specification Promise .
 
 ### Тип форматів PST
 
@@ -94,6 +94,6 @@
 
 ## Посилання ##
 
-* [Формат файлу особистих папок Outlook (.pst)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Специфікації формату файлу особистої папки](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Формат файлу особистих папок Outlook (.pst)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Специфікації формату файлу особистої папки](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

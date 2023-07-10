@@ -22,7 +22,7 @@ Een **spreadsheet**-bestand bevat gegevens in de vorm van rijen en kolommen. Een
 
 Veelgebruikte bestandsextensies voor spreadsheets en hun bestandsindelingen zijn **[XLSX](/nl/spreadsheet/xlsx/)** (Microsoft Excel Open XML-spreadsheet), **[ODS](/nl/spreadsheet/ods/)** (OpenDocument Spreadsheet) en **[XLS](/nl/spreadsheet/xls/)** (Microsoft Excel binaire bestandsindeling).
 
-Heeft u vragen over Spreadsheet-bestandsindelingen? Ga naar onze community [forums](https://forum.fileformat.com/c/spreadsheet) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
+Heeft u vragen over Spreadsheet-bestandsindelingen? Ga naar onze community [forums](https://forum.fileformat.com/c/spreadsheet/6) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
 
 ## Lijst met spreadsheetbestandsextensies en bijbehorende bestandsindelingen
 

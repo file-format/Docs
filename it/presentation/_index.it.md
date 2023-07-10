@@ -22,7 +22,7 @@ Devi avere familiarità con i file di estensione **PPTX** e **PPT**, questi sono
 
 Le estensioni dei file di presentazione comuni e i formati di file associati includono **[PPTX](/it/presentation/pptx/)**, **[PPT](/it/presentation/ppt/)** e **[ODP](/it/presentation/odp /)**.
 
-Hai domande relative ai formati di file di presentazione? Visita la nostra community [forum](https://forum.fileformat.com/c/presentation) per beneficiare delle conoscenze condivise dagli esperti di formati di file.
+Hai domande relative ai formati di file di presentazione? Visita la nostra community [forum](https://forum.fileformat.com/c/presentation/8) per beneficiare delle conoscenze condivise dagli esperti di formati di file.
 
 ## Elenco delle estensioni dei file di presentazione e dei formati di file associati
 

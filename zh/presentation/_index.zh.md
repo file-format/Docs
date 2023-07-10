@@ -22,7 +22,7 @@
 
 常见的 Presentation 文件扩展名及其相关文件格式包括 **[PPTX](/zh/presentation/pptx/)**、**[PPT](/zh/presentation/ppt/)** 和 **[ODP](/zh/presentation/odp /)**。
 
-有与演示文件格式相关的查询吗？前往我们的社区 [论坛](https://forum.fileformat.com/c/presentation)，从文件格式专家分享的知识中获益。
+有与演示文件格式相关的查询吗？前往我们的社区 [论坛](https://forum.fileformat.com/c/presentation/8)，从文件格式专家分享的知识中获益。
 
 ## 演示文件扩展名和相关文件格式列表
 

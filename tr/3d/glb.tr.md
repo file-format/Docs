@@ -29,7 +29,7 @@ glTF tarafından kullanılan içerik dağıtım yöntemleri, base-64 kodlu ikili
 * glTF JSON, harici ikili verilere (geometri, anahtar çerçeveler, dış görünümler) ve görüntülere işaret eder.
 * glTF JSON, veri URI'lerini kullanarak base64 kodlu ikili verileri ve görüntüleri satır içine yerleştirir.
 
-Bir konteyner formatı olarak GLB, glTF'nin neden olduğu sorunları önlemek için glTF varlığının bir ikili blob içinde temsili için ikili dosya formatı olarak tanıtıldı. GLB dosya formatı [özellikler](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0#glb-file-format-specification), uygulama geliştirme için herhangi bir okuyucu/yazıcı uygulamasında belirtilmelidir. .
+Bir konteyner formatı olarak GLB, glTF'nin neden olduğu sorunları önlemek için glTF varlığının bir ikili blob içinde temsili için ikili dosya formatı olarak tanıtıldı. GLB dosya formatı [özellikler](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0#glb-file-format-specification), uygulama geliştirme için herhangi bir okuyucu/yazıcı uygulamasında belirtilmelidir. .
 
 ## GLB Dosya Yapısı
 

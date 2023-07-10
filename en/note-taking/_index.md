@@ -21,7 +21,7 @@ Note-taking program files contain sections and pages for storing notes. A note d
 
 Common OneNote file extensions and their associated file formats include **[.ONE](/note-taking/one/)** and its table of contents file **[.ONETOC2](/note-taking/onetoc2/)**.
 
-Got queries related to Notes file formats? Head on to our community [forums](https://forum.fileformat.com/c/note-taking) to benefit from the knowledge shared by File Format experts.
+Got queries related to Notes file formats? Head on to our community [forums](https://forum.fileformat.com/c/note-taking/23) to benefit from the knowledge shared by File Format experts.
 
 ## List of Note Taking File Extensions and Associated File Formats
 Following is a list of common Note taking file formats along with their file extensions.

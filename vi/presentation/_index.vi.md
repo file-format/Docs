@@ -22,7 +22,7 @@ Bạn hẳn đã quen thuộc với các tệp mở rộng **PPTX** và **PPT**,
 
 Các phần mở rộng tệp Bản trình bày phổ biến và các định dạng tệp được liên kết của chúng bao gồm **[PPTX](/vi/presentation/pptx/)**, **[PPT](/vi/presentation/ppt/)** và **[ODP](/vi/presentation/odp /)**.
 
-Có truy vấn liên quan đến định dạng tệp Bản trình bày? Hãy truy cập vào cộng đồng của chúng tôi [các diễn đàn](https://forum.fileformat.com/c/presentation) để hưởng lợi từ kiến thức do các chuyên gia Định dạng tệp chia sẻ.
+Có truy vấn liên quan đến định dạng tệp Bản trình bày? Hãy truy cập vào cộng đồng của chúng tôi [các diễn đàn](https://forum.fileformat.com/c/presentation/8) để hưởng lợi từ kiến thức do các chuyên gia Định dạng tệp chia sẻ.
 
 ## Danh sách phần mở rộng tệp bản trình bày và định dạng tệp được liên kết
 

@@ -110,5 +110,5 @@ struct xar_header {
 ## Препратки
 
 * [XAR](https://github.com/mackyle/xar/wiki/xarformat)
-* [XAR - Wikipedia](https://en.wikipedia.org/wiki/Xar_(архиватор))
+* [XAR - Wikipedia](https://en.wikipedia.org/wiki/Xar_(archiver))
 

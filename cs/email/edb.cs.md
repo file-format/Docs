@@ -80,5 +80,5 @@ Na jejich základě lze hodnotit stav databáze následovně.
  
 
 ## Reference
-* [Specifikace databázového souboru (EDB) Extensible Storage Engine (ESE)](https://github.com/libyal/libesedb/tree/master/documentation)
+* [Specifikace databázového souboru (EDB) Extensible Storage Engine (ESE)](https://github.com/libyal/libesedb/tree/main/documentation)
 

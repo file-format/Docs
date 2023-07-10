@@ -22,7 +22,7 @@ Találkozott már valaha és azon töprengett, hogy mi az az MPP fájl? Az MPP �
 
 A gyakori projektmenedzsment fájlkiterjesztések és a hozzájuk tartozó fájlformátumok a következők: **[MPP](/hu/project-management/mpp/)**, **[MPX](/hu/project-management/mpx/)** és **[XER](/hu/projekt-menedzsment/xer/)**.
 
-Kérdései vannak a projektmenedzsment fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/project-management), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
+Kérdései vannak a projektmenedzsment fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/project-management/15), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
 
 ## A projektfájl-kiterjesztések és a kapcsolódó fájlformátumok listája
 

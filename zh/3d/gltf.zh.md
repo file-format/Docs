@@ -31,7 +31,7 @@ glTF 2.0 于 2017 年 6 月 5 日在 Web3D 2017 大会上发布。在那之后�
 
 ## GLTF 文件格式
 
-glTF 2.0 的文件格式规范可[在线](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0) 供参考，在任何与读/写相关的实现中都应参考以支持glTF 文件格式。
+glTF 2.0 的文件格式规范可[在线](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0) 供参考，在任何与读/写相关的实现中都应参考以支持glTF 文件格式。
 
 glTF 将资产定义为带有支持外部数据的 JSON 文件。它借助以下工具表示 3D 模型：
 
@@ -63,7 +63,7 @@ glTF 对 JSON 文件格式施加以下附加限制
 
 **数据 URI：** 数据 URI 由 RFC 2397 定义，glTF 使用它在 JSON 中嵌入资源。
 
-**相对 URI 路径：** 或 RFC 3986 [第 4.2 节](https://tools.ietf.org/html/rfc3986#section-4.2) 定义的 path-noscheme — 没有方案、权限或参数。根据 RFC 3986 [第 2.2 节](https://tools.ietf.org/html/rfc3986#section-2.2)，保留字符必须是百分比编码的。
+**相对 URI 路径：** 或 RFC 3986 [第 4.2 节](https://datatracker.ietf.org/doc/html/rfc3986#section-4.2) 定义的 path-noscheme — 没有方案、权限或参数。根据 RFC 3986 [第 2.2 节](https://datatracker.ietf.org/doc/html/rfc3986#section-2.2)，保留字符必须是百分比编码的。
 
 ## 参考 ＃＃
 

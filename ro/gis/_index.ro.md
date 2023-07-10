@@ -22,7 +22,7 @@ Un fișier de hartă GIS (Geographic Information System) este format din informa
 
 Extensiile obișnuite de fișiere GIS și formatele de fișiere ale acestora includ **[GPX](/ro/gis/gpx/)** (Format de fișier de schimb GPS), **[KML](/ro/gis/kml/)** (Fișier Keyhole Markup Language) și **[SHP](/ro/gis/shp/)** (ESRI Shapefile).
 
-Aveți întrebări legate de formatele de fișiere GIS? Accesați comunitatea noastră [forumuri](https://forum.fileformat.com/c/gis) pentru a beneficia de cunoștințele împărtășite de experții în format de fișiere.
+Aveți întrebări legate de formatele de fișiere GIS? Accesați comunitatea noastră [forumuri](https://forum.fileformat.com/c/gis/7) pentru a beneficia de cunoștințele împărtășite de experții în format de fișiere.
 
 ## Lista extensiilor de fișiere GIS și formatelor de fișiere asociate
 Mai jos este o listă de formate comune de fișiere GIS împreună cu extensiile lor de fișiere.

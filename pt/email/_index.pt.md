@@ -19,7 +19,7 @@
 
 Você já se deparou com formatos de arquivo de e-mail e não conseguiu abri-lo? Você veio ao lugar certo, vamos explicar quais são os formatos de arquivo de e-mail e quais são os softwares recomendados que podem abri-los ou usá-los. Os formatos de arquivo de e-mail são usados por aplicativos de e-mail para armazenar seus vários dados, incluindo mensagens de e-mail, anexos, pastas, catálogos de endereços, etc. Os formatos de arquivo de e-mail estão associados principalmente ao arquivo de mensagem de e-mail do Outlook Express. Tipos adicionais de arquivos também podem estar usando a extensão de arquivo Email. Existem vários tipos de arquivos comuns usados em relação ao e-mail. Abaixo está a lista dos formatos de arquivo mais populares usados por vários clientes de e-mail para armazenar mensagens de e-mail e outros dados relacionados.
 
-Tem consultas relacionadas a formatos de arquivo de e-mail? Acesse nossa comunidade [fóruns](https://forum.fileformat.com/c/email) para se beneficiar do conhecimento compartilhado por especialistas em formato de arquivo.
+Tem consultas relacionadas a formatos de arquivo de e-mail? Acesse nossa comunidade [fóruns](https://forum.fileformat.com/c/email/14) para se beneficiar do conhecimento compartilhado por especialistas em formato de arquivo.
 
 ## Lista de extensões de arquivo de e-mail e formatos de arquivo associados
 

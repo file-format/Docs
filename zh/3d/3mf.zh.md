@@ -46,7 +46,7 @@
 
 典型的 3MF 文档如下所示：
 
-![3MF Document Structure](https://github.com/3MFConsortium/spec_core/raw/master/images/figure_2-1.png "3MF Document Structure")
+![3MF Document Structure](https://raw.githubusercontent.com/3MFConsortium/spec_core/master/images/figure_2-1.png "3MF Document Structure")
 
 有效载荷包括处理 3D 模型部件所需的全套部件。用于制造 3D 有效负载中描述的对象的所有内容必须包含在 3MF 文档中。下表给出了每个文档部分的描述及其状态作为必需或选项。
 

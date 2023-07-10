@@ -19,7 +19,7 @@
 
 Everyone is familiar of videos that we daily watch on media devices such as Televisions, Cinema screens, and social media channels such as Facebook, Twitter, YouTube and many others. But have you ever wondered how these videos are saved and the formats in which these can be uploaded for viewing? What is the best file format for your video to be hosted on different storage media? Video file formats comprise of a number of different video types for storing videos and to be used for various purpose. Populate Video file formats that you may have come across include [AVI](/video/avi/), [MOV](/video/mov/), [WMV](/video/wmv/), [M4V](/video/m4v/), and [MP4](/video/mp4/).
 
-Got queries related to Video file formats? Head on to our community [forums](https://forum.fileformat.com/c/video) to benefit from the knowledge shared by File Format experts.
+Got queries related to Video file formats? Head on to our community [forums](https://forum.fileformat.com/c/video/27) to benefit from the knowledge shared by File Format experts.
 
 ## Open Source APIs for Video File Formats
 

@@ -31,7 +31,7 @@ glTF 2.0 a été publié le 5 juin 2017 lors de la conférence Web3D 2017. Il ex
 
 ## Format de fichier GLTF
 
-Les spécifications de format de fichier pour glTF 2.0 sont disponibles [en ligne](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0) pour référence et doivent être consultées dans toute implémentation liée à la lecture/écriture pour la prise en charge de format de fichier glTF.
+Les spécifications de format de fichier pour glTF 2.0 sont disponibles [en ligne](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0) pour référence et doivent être consultées dans toute implémentation liée à la lecture/écriture pour la prise en charge de format de fichier glTF.
 
 glTF définit les actifs comme des fichiers JSON avec des données externes de prise en charge. Il représente des modèles 3D à l'aide de :
 
@@ -63,7 +63,7 @@ Les tampons et les ressources d'image sont référencés via des URI. Les deux t
 
 ** URI de données : ** Les URI de données sont tels que définis par la RFC 2397 et sont utilisés par glTF pour intégrer des ressources dans le JSON.
 
-**Chemins d'URI relatifs :** ou path-noscheme tel que défini par la RFC 3986, [Section 4.2](https://tools.ietf.org/html/rfc3986#section-4.2) — sans schéma, autorité ou paramètres. Les caractères réservés doivent être codés en pourcentage, conformément à RFC 3986, [Section 2.2](https://tools.ietf.org/html/rfc3986#section-2.2).
+**Chemins d'URI relatifs :** ou path-noscheme tel que défini par la RFC 3986, [Section 4.2](https://datatracker.ietf.org/doc/html/rfc3986#section-4.2) — sans schéma, autorité ou paramètres. Les caractères réservés doivent être codés en pourcentage, conformément à RFC 3986, [Section 2.2](https://datatracker.ietf.org/doc/html/rfc3986#section-2.2).
 
 ## Références ##
 

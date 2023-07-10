@@ -22,7 +22,7 @@ Musíte být obeznámeni se soubory s příponou **PPTX** a **PPT**, jedná se o
 
 Mezi běžné přípony souborů prezentace a jejich přidružené formáty souborů patří **[PPTX](/cs/presentation/pptx/)**, **[PPT](/cs/presentation/ppt/)** a **[ODP](/cs/presentation/odp /)**.
 
-Máte dotazy týkající se formátů souborů prezentace? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/presentation), kde můžete těžit ze znalostí sdílených odborníky na formát souborů.
+Máte dotazy týkající se formátů souborů prezentace? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/presentation/8), kde můžete těžit ze znalostí sdílených odborníky na formát souborů.
 
 ## Seznam přípon prezentačních souborů a souvisejících formátů souborů
 

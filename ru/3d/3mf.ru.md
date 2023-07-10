@@ -46,7 +46,7 @@
 
 Типичный документ 3MF выглядит следующим образом:
 
-![3MF Document Structure](https://github.com/3MFConsortium/spec_core/raw/master/images/figure_2-1.png "3MF Document Structure")
+![3MF Document Structure](https://raw.githubusercontent.com/3MFConsortium/spec_core/master/images/figure_2-1.png "3MF Document Structure")
 
 Полезная нагрузка включает в себя полный набор деталей, необходимых для обработки части 3D-модели. Весь контент, который будет использоваться для изготовления объекта, описанного в полезной нагрузке 3D, ДОЛЖЕН содержаться в документе 3MF. Описание каждой части документа, а также ее статус в зависимости от необходимости или опции приведены в следующей таблице.
 

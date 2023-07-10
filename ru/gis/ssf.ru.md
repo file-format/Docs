@@ -18,7 +18,7 @@
 
 ## .SSF вариант №
 
-Файл с расширением .ssf представляет собой формат файла для хранения геопространственных данных, используемый программными приложениями навигационной ГИС [Trimble](https://www.trimble.com). Он хранит данные GPS, записанные в поле с помощью устройств Trimble. Затем журнал GPS импортируется в одно из приложений пакета приложений Trimble. Журнал GPS, содержащийся в SSF, используется для создания пользовательских систем координат. Файлы SSF можно открыть с помощью [Trimble Navigation GPS Pathfinder Office](https://geospatial.trimble.com/products-and-solutions/gps-pathfinder-office), Trimble Navigation GPS Pathfinder Tools SDK и ESRI ArcGIS for Desktop с Плагин Trimble GPS Analyst.
+Файл с расширением .ssf представляет собой формат файла для хранения геопространственных данных, используемый программными приложениями навигационной ГИС [Trimble](https://www.trimble.com). Он хранит данные GPS, записанные в поле с помощью устройств Trimble. Затем журнал GPS импортируется в одно из приложений пакета приложений Trimble. Журнал GPS, содержащийся в SSF, используется для создания пользовательских систем координат. Файлы SSF можно открыть с помощью [Trimble Navigation GPS Pathfinder Office](https://geospatial.trimble.com/products-and-solutions/ssf-and-ddf-data-format-extensions-fme), Trimble Navigation GPS Pathfinder Tools SDK и ESRI ArcGIS for Desktop с Плагин Trimble GPS Analyst.
 
 ## Формат файла SSF — дополнительная информация
 

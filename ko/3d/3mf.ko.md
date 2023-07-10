@@ -46,7 +46,7 @@ STL 및 기타와 같은 사용 가능한 모델 설명 파일 형식의 기존 
 
 일반적인 3MF 문서는 다음과 같습니다.
 
-![3MF Document Structure](https://github.com/3MFConsortium/spec_core/raw/master/images/figure_2-1.png "3MF Document Structure")
+![3MF Document Structure](https://raw.githubusercontent.com/3MFConsortium/spec_core/master/images/figure_2-1.png "3MF Document Structure")
 
 페이로드에는 3D 모델 부품을 처리하는 데 필요한 전체 부품 세트가 포함됩니다. 3D 페이로드에 설명된 객체를 제조하는 데 사용되는 모든 콘텐츠는 3MF 문서에 포함되어야 합니다(MUST). 각 문서 부분에 대한 설명과 필수 또는 옵션의 상태는 다음 표와 같습니다.
 

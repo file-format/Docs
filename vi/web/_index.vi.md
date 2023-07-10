@@ -21,7 +21,7 @@ Phải mất một số loại tệp khi xây dựng một trang web. Các đị
 
 Các phần mở rộng tệp web phổ biến và các định dạng tệp liên kết của chúng bao gồm **[HTML](/vi/web/html/)** (Ngôn ngữ đánh dấu siêu văn bản), **[ASP](/vi/web/asp/) (Các trang máy chủ đang hoạt động)**, và **CSS** (Biểu định kiểu xếp tầng).
 
-Có truy vấn liên quan đến định dạng tệp Web? Hãy truy cập vào cộng đồng của chúng tôi [các diễn đàn](https://forum.fileformat.com/c/web) để hưởng lợi từ kiến thức do các chuyên gia Định dạng tệp chia sẻ.
+Có truy vấn liên quan đến định dạng tệp Web? Hãy truy cập vào cộng đồng của chúng tôi [các diễn đàn](https://forum.fileformat.com/c/web/13) để hưởng lợi từ kiến thức do các chuyên gia Định dạng tệp chia sẻ.
 
 ## Danh sách phần mở rộng tệp web và định dạng tệp được liên kết
 

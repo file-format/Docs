@@ -29,7 +29,7 @@ Metody doručování obsahu používané glTF mají za následek dodatečné zpr
 * glTF JSON ukazuje na externí binární data (geometrie, klíčové snímky, vzhledy) a obrázky.
 * glTF JSON vkládá binární data zakódovaná v base64 a obrázky inline pomocí datových URI.
 
-GLB jako kontejnerový formát byl představen jako binární formát souboru pro reprezentaci aktiva glTF v binárním blobu, aby se předešlo problémům způsobeným glTF. Formát souboru GLB [specifikace](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0#glb-file-format-specification) by měl být uveden pro jakoukoli jeho implementaci pro čtení/zápis pro vývoj aplikací .
+GLB jako kontejnerový formát byl představen jako binární formát souboru pro reprezentaci aktiva glTF v binárním blobu, aby se předešlo problémům způsobeným glTF. Formát souboru GLB [specifikace](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0#glb-file-format-specification) by měl být uveden pro jakoukoli jeho implementaci pro čtení/zápis pro vývoj aplikací .
 
 ## Struktura souborů GLB
 

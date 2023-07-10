@@ -27,7 +27,7 @@
 * تنسيق ANSI 32 بت
 * تنسيق Unicode 64 بت
 
-تنسيق ملف PST [المواصفات](https://msdn.microsoft.com/en-us/library/ff385210 (v # office.12) .aspx) ، كما هو متاح من Microsoft ، ينطبق أيضًا على تنسيق ملف OST باعتباره مجانيًا و ترخيص براءات الاختراع غير القابل للإلغاء من خلال وعد المواصفات المفتوحة. يتكون من العناصر التالية المميزة:
+تنسيق ملف PST [المواصفات](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546) ، كما هو متاح من Microsoft ، ينطبق أيضًا على تنسيق ملف OST باعتباره مجانيًا و ترخيص براءات الاختراع غير القابل للإلغاء من خلال وعد المواصفات المفتوحة. يتكون من العناصر التالية المميزة:
 
 * رأس فل
 * بيانات رأس الملف
@@ -78,6 +78,6 @@
 
 ## مراجع
 
-* [تنسيق ملف مجلدات Outlook الشخصية (.ost)](https://msdn.microsoft.com/en-us/library/ff385210 (v # office.12) .aspx)
-* [مواصفات تنسيق ملف المجلد الشخصي](https://github.com/libyal/libpff/blob/master/documentation/Personal٪20Folder٪20File٪20 (PFF)٪ 20format.asciidoc)
+* [تنسيق ملف مجلدات Outlook الشخصية (.ost)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [مواصفات تنسيق ملف المجلد الشخصي](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

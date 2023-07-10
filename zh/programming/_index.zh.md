@@ -22,7 +22,7 @@
 
 常见的开发者或编程文件扩展名及其相关文件格式包括 **[C#](/zh/programming/cs/)** (CSharp Source Code File)、**[CPP](/zh/programming/cpp/)** (C++ Source文件）和 **[VB](/zh/programming/vb/)**（Visual Basic 源代码文件）。
 
-有与编程文件格式相关的查询吗？前往我们的社区 [论坛](https://forum.fileformat.com/c/programming)，从文件格式专家分享的知识中获益。
+有与编程文件格式相关的查询吗？前往我们的社区 [论坛](https://forum.fileformat.com/c/programming/26)，从文件格式专家分享的知识中获益。
 
 ## 编程文件扩展名和相关文件格式列表
 

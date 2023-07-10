@@ -80,5 +80,5 @@ Pe baza acestora, starea bazei de date poate fi evaluată după cum urmează.
  
 
 ## Referințe
-* [Specificații pentru fișierul de bază de date (EDB) Extensible Storage Engine (ESE)](https://github.com/libyal/libesedb/tree/master/documentation)
+* [Specificații pentru fișierul de bază de date (EDB) Extensible Storage Engine (ESE)](https://github.com/libyal/libesedb/tree/main/documentation)
 

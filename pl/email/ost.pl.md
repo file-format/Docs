@@ -27,7 +27,7 @@ Format plików OST (Offline Storage Table) i [PST](/pl/email/pst/) (Personal Sto
 * 32-bitowy format ANSI
 * 64-bitowy format Unicode
 
-Format pliku PST [specyfikacje](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx), udostępniony przez firmę Microsoft, ma również zastosowanie do formatu pliku OST jako bezpłatny i nieodwołalne licencjonowanie patentów w ramach Obietnicy Otwartej Specyfikacji. Składa się z następujących wyróżniających się elementów:
+Format pliku PST [specyfikacje](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546), udostępniony przez firmę Microsoft, ma również zastosowanie do formatu pliku OST jako bezpłatny i nieodwołalne licencjonowanie patentów w ramach Obietnicy Otwartej Specyfikacji. Składa się z następujących wyróżniających się elementów:
 
 * Uciekaj nagłówek
 * Dane nagłówka pliku
@@ -78,6 +78,6 @@ Nagłówek zaczyna się od 4-bajtowego magicznego słowa **!BDN** reprezentowane
 
 ## Bibliografia
 
-* [Format pliku folderów osobistych programu Outlook (.ost)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Specyfikacje formatu plików folderów osobistych](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Format pliku folderów osobistych programu Outlook (.ost)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Specyfikacje formatu plików folderów osobistych](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

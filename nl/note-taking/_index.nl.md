@@ -21,7 +21,7 @@ Programmabestanden voor het maken van aantekeningen bevatten secties en pagina's
 
 Veelgebruikte OneNote-bestandsextensies en de bijbehorende bestandsindelingen zijn **[.ONE](/nl/note-taking/one/)** en het bijbehorende inhoudsopgavebestand **[.ONETOC2](/nl/note-taking/onetoc2/)** .
 
-Heeft u vragen met betrekking tot Notes-bestandsindelingen? Ga naar onze community [forums](https://forum.fileformat.com/c/note-taking) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
+Heeft u vragen met betrekking tot Notes-bestandsindelingen? Ga naar onze community [forums](https://forum.fileformat.com/c/note-taking/23) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
 
 ## Lijst met bestandsextensies voor het maken van notities en bijbehorende bestandsindelingen
 Hieronder volgt een lijst met veelgebruikte bestandsindelingen voor het maken van notities, samen met hun bestandsextensies.

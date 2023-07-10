@@ -31,7 +31,7 @@ glTF 2.0 został opublikowany 5 czerwca 2017 roku na konferencji Web3D 2017. Ist
 
 ## Format pliku GLTF
 
-Specyfikacje formatu plików dla glTF 2.0 są dostępne [online](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0) w celach informacyjnych i należy się z nimi zapoznać w każdej implementacji związanej z odczytem/zapisem w celu wsparcia format pliku glTF.
+Specyfikacje formatu plików dla glTF 2.0 są dostępne [online](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0) w celach informacyjnych i należy się z nimi zapoznać w każdej implementacji związanej z odczytem/zapisem w celu wsparcia format pliku glTF.
 
 glTF definiuje zasoby jako pliki JSON z obsługującymi danymi zewnętrznymi. Reprezentuje modele 3D za pomocą:
 
@@ -63,7 +63,7 @@ Zasoby buforów i obrazów są przywoływane za pośrednictwem identyfikatorów 
 
 **Dane URI:** Data URI są zdefiniowane w RFC 2397 i są używane przez glTF do osadzania zasobów w JSON.
 
-**Ścieżki względnego identyfikatora URI:** lub path-noscheme zgodnie z definicją zawartą w dokumencie RFC 3986, [sekcja 4.2](https://tools.ietf.org/html/rfc3986#section-4.2) — bez schematu, uprawnień ani parametrów. Zarezerwowane znaki muszą być zakodowane procentowo zgodnie z dokumentem RFC 3986, [sekcja 2.2](https://tools.ietf.org/html/rfc3986#section-2.2).
+**Ścieżki względnego identyfikatora URI:** lub path-noscheme zgodnie z definicją zawartą w dokumencie RFC 3986, [sekcja 4.2](https://datatracker.ietf.org/doc/html/rfc3986#section-4.2) — bez schematu, uprawnień ani parametrów. Zarezerwowane znaki muszą być zakodowane procentowo zgodnie z dokumentem RFC 3986, [sekcja 2.2](https://datatracker.ietf.org/doc/html/rfc3986#section-2.2).
 
 ## Bibliografia ##
 

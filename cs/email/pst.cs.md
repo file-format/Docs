@@ -22,7 +22,7 @@ Soubory s příponou PST představují soubory osobního úložiště aplikace O
 
 ## Specifikace formátu souboru PST
 
-Formát souboru PST [specifikace](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) jsou k dispozici od společnosti Microsoft jako bezplatné a neodvolatelné bezplatné patentové licencování prostřednictvím Open Specification Promise .
+Formát souboru PST [specifikace](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546) jsou k dispozici od společnosti Microsoft jako bezplatné a neodvolatelné bezplatné patentové licencování prostřednictvím Open Specification Promise .
 
 ### Typ formátů PST
 
@@ -94,6 +94,6 @@ Z bezpečnostních důvodů mohou být soubory PST také chráněny heslem, což
 
 ## Reference ##
 
-* [Formát souboru osobních složek Outlooku (.pst)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Specifikace formátu souboru osobních složek](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Formát souboru osobních složek Outlooku (.pst)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Specifikace formátu souboru osobních složek](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

@@ -22,7 +22,7 @@ The electronic representation of a three-dimensional object is known as a 3D fil
 
 There are literally hundreds of 3D file formats and are widely used in 3D games, printing, computer-aided design, manufacturing, academia, engineering and more. Each industry has its own 3D file formats for several reasons. Below we are going to discuss about the most popular 3D file formats and the most recommended software that uses it.
 
-Got queries related to 3D file formats? Head on to our community [forums](https://forum.fileformat.com/c/3d) to benefit from the knowledge shared by File Format experts.
+Got queries related to 3D file formats? Head on to our community [forums](https://forum.fileformat.com/c/3d/11) to benefit from the knowledge shared by File Format experts.
 
 ## Open Source APIs for 3D Files
 

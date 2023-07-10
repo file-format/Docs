@@ -21,7 +21,7 @@ Not alma programı dosyaları, notların saklanması için bölümler ve sayfala
 
 Yaygın OneNote dosya uzantıları ve ilişkili dosya biçimleri arasında **[.ONE](/tr/note-taking/one/)** ve içindekiler dosyası **[.ONETOC2](/tr/note-taking/onetoc2/)** bulunur .
 
-Notes dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/note-taking) gidin.
+Notes dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/note-taking/23) gidin.
 
 ## Not Alma Dosya Uzantılarının ve İlişkili Dosya Biçimlerinin Listesi
 Aşağıda, dosya uzantılarıyla birlikte yaygın Not alma dosya biçimlerinin bir listesi bulunmaktadır.

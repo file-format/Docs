@@ -31,7 +31,7 @@ glTF 2.0 a fost publicat pe 5 iunie 2017 la Conferința Web3D 2017. Există o li
 
 ## Format de fișier GLTF
 
-Specificațiile formatului de fișier pentru glTF 2.0 sunt disponibile [online](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0) pentru referință și ar trebui consultate în orice implementare legată de citire/scriere pentru suport pentru format de fișier glTF.
+Specificațiile formatului de fișier pentru glTF 2.0 sunt disponibile [online](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0) pentru referință și ar trebui consultate în orice implementare legată de citire/scriere pentru suport pentru format de fișier glTF.
 
 glTF definește activele ca fișiere JSON cu date externe compatibile. Reprezintă modele 3D cu ajutorul:
 
@@ -63,7 +63,7 @@ Bufferele și resursele de imagine sunt referite prin intermediul URI-urilor. Ur
 
 **URI-uri de date:** URI-urile de date sunt așa cum sunt definite de RFC 2397 și sunt utilizate de glTF pentru a încorpora resurse în JSON.
 
-**Căi URI relative:** sau cale-noscheme așa cum este definită de RFC 3986, [Secțiunea 4.2](https://tools.ietf.org/html/rfc3986#section-4.2) — fără schemă, autorizare sau parametri. Caracterele rezervate trebuie să fie codificate în procente, conform RFC 3986, [Secțiunea 2.2](https://tools.ietf.org/html/rfc3986#section-2.2).
+**Căi URI relative:** sau cale-noscheme așa cum este definită de RFC 3986, [Secțiunea 4.2](https://datatracker.ietf.org/doc/html/rfc3986#section-4.2) — fără schemă, autorizare sau parametri. Caracterele rezervate trebuie să fie codificate în procente, conform RFC 3986, [Secțiunea 2.2](https://datatracker.ietf.org/doc/html/rfc3986#section-2.2).
 
 ## Referințe ##
 

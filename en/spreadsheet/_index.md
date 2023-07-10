@@ -22,7 +22,7 @@ A **spreadsheet** file contains data in the form of rows and columns. A spreads
 
 Common spreadsheet file extensions and their file formats include **[XLSX](/spreadsheet/xlsx/)** (Microsoft Excel Open XML Spreadsheet), **[ODS](/spreadsheet/ods/)** (OpenDocument Spreadsheet) and **[XLS](/spreadsheet/xls/)** (Microsoft Excel Binary File Format).
 
-Got queries related to Spreadsheet file formats? Head on to our community [forums](https://forum.fileformat.com/c/spreadsheet) to benefit from the knowledge shared by File Format experts.
+Got queries related to Spreadsheet file formats? Head on to our community [forums](https://forum.fileformat.com/c/spreadsheet/6) to benefit from the knowledge shared by File Format experts.
 
 ## Open Source APIs to with Spreadsheet Files
 

@@ -28,7 +28,7 @@ Un formato de archivo de imagen es un método estándar para organizar y almacen
 
 **Las imágenes vectoriales** se definen por puntos 2D, en lugar de píxeles, que se conectan para dar una forma geométrica a la imagen. Los puntos tienen propiedades que definen la dirección de las rutas, el color, la forma, la curva, el grosor y el relleno. Las extensiones comunes de archivos de imágenes vectoriales y sus formatos de archivo incluyen **[SVG](/es/page-description-language/svg/)** (Scalable Vector Graphics), **[EPS](/es/page-description-language/eps/) ** (Lenguaje PostScript encapsulado) y **[PDF](/es/pdf/)** (Formato de documento portátil).
 
-¿Tiene consultas relacionadas con los formatos de archivo de imagen? Dirígete a los [foros] de nuestra comunidad (https://forum.fileformat.com/c/image) para beneficiarte del conocimiento compartido por los expertos en formato de archivo.
+¿Tiene consultas relacionadas con los formatos de archivo de imagen? Dirígete a los [foros] de nuestra comunidad (https://forum.fileformat.com/c/image/9) para beneficiarte del conocimiento compartido por los expertos en formato de archivo.
 
 ## Lista de extensiones de archivo de imagen y formatos de archivo asociados
 A continuación se muestra una lista de formatos de archivo de imagen comunes junto con sus extensiones de archivo.

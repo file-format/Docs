@@ -28,7 +28,7 @@ Format file gambar adalah metode standar untuk mengatur dan menyimpan gambar pad
 
 **Gambar vektor** ditentukan oleh titik 2D, bukan piksel, yang terhubung untuk memberikan bentuk geometris pada gambar. Titik memiliki sifat yang menentukan arah jalur, warna, bentuk, kurva, ketebalan, dan isian. Ekstensi file gambar vektor umum dan format filenya mencakup **[SVG](/id/page-description-language/svg/)** (Scalable Vector Graphics), **[EPS](/id/page-description-language/eps/) ** (Bahasa PostScript Terenkapsulasi) dan **[PDF](/id/pdf/)** (Format Dokumen Portabel).
 
-Punya pertanyaan terkait format file gambar? Buka [forum] komunitas kami (https://forum.fileformat.com/c/image) untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
+Punya pertanyaan terkait format file gambar? Buka [forum] komunitas kami (https://forum.fileformat.com/c/image/9) untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
 
 ## Daftar Ekstensi File Gambar dan Format File Terkait
 Berikut ini adalah daftar format file Gambar umum beserta ekstensi filenya.

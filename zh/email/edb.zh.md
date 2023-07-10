@@ -80,5 +80,5 @@ EDB 数据库文件包含数据库中所有表的模式。此外，它还包括�
  
 
 ## 参考
-* [可扩展存储引擎（ESE）数据库文件（EDB）规范]（https://github.com/libyal/libesedb/tree/master/documentation）
+* [可扩展存储引擎（ESE）数据库文件（EDB）规范]（https://github.com/libyal/libesedb/tree/main/documentation）
 

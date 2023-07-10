@@ -80,5 +80,5 @@ Dựa trên những điều này, trạng thái của cơ sở dữ liệu có t
  
 
 ## Người giới thiệu
-* [Thông số kỹ thuật tệp cơ sở dữ liệu (EDB) của công cụ lưu trữ mở rộng](https://github.com/libyal/libesedb/tree/master/documentation)
+* [Thông số kỹ thuật tệp cơ sở dữ liệu (EDB) của công cụ lưu trữ mở rộng](https://github.com/libyal/libesedb/tree/main/documentation)
 

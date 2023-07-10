@@ -19,7 +19,7 @@
 
 E-kitap dosyaları, e-Okuyucu olarak bilinen dijital cihazlarda açılabilen elektronik dosyalardır. Bir eOkuyucu, bilgisayar, tablet veya akıllı telefon gibi herhangi bir cihaz olabilir. En popüler e-kitap dosya formatı, XML tabanlı ePub'dır. Bir e-kitap, metin, resim ve video gibi farklı türde içerikler içerebilir. Yaygın e-kitap dosya uzantıları ve dosya biçimleri arasında **[EPUB](/tr/ebook/epub/)** (elektronik yayın), **[FB2](/tr/ebook/fb2/)** (FictionBook 2.0) ve **[ yer alır. Mobi](/tr/ebook/mobi/)** (MobiPocket eKitap Dosyası).
 
-Ebook dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/ebook) gidin.
+Ebook dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/ebook/25) gidin.
 
 ## E-Kitap Dosya Uzantılarının ve İlişkili Dosya Biçimlerinin Listesi
 

@@ -28,7 +28,7 @@ Ett bildfilformat är en standardmetod för att organisera och lagra bilder på 
 
 **Vektorbilder** definieras av 2D-punkter, istället för pixlar, som är anslutna för att ge en geometrisk form till bilden. Punkterna har egenskaper som definierar banornas riktning, färg, form, kurva, tjocklek och fyllning. Vanliga filtillägg för vektorbilder och deras filformat inkluderar **[SVG](/sv/page-description-language/svg/)** (Scalable Vector Graphics), **[EPS](/sv/page-description-language/eps/) ** (Encapsulated PostScript-språk) och **[PDF](/sv/pdf/)** (Portable Document Format).,
 
-Har du frågor relaterade till bildfilformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/image) för att dra nytta av kunskapen som delas av filformatsexperter.
+Har du frågor relaterade till bildfilformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/image/9) för att dra nytta av kunskapen som delas av filformatsexperter.
 
 ## Lista över bildfilstillägg och associerade filformat
 Följande är en lista över vanliga bildfilformat tillsammans med deras filtillägg.

@@ -110,5 +110,5 @@ struct xar_header {
 ## อ้างอิง
 
 * [XAR](https://github.com/mackyle/xar/wiki/xarformat)
-* [XAR - Wikipedia](https://en.wikipedia.org/wiki/Xar_(ผู้จัดเก็บ))
+* [XAR - Wikipedia](https://en.wikipedia.org/wiki/Xar_(archiver))
 

@@ -46,7 +46,7 @@
 
 เอกสาร 3MF ทั่วไปมีลักษณะดังนี้:
 
-![3MF Document Structure](https://github.com/3MFConsortium/spec_core/raw/master/images/figure_2-1.png "3MF Document Structure")
+![3MF Document Structure](https://raw.githubusercontent.com/3MFConsortium/spec_core/master/images/figure_2-1.png "3MF Document Structure")
 
 เพย์โหลดประกอบด้วยชุดชิ้นส่วนทั้งหมดที่จำเป็นสำหรับการประมวลผลส่วนโมเดล 3 มิติ เนื้อหาทั้งหมดที่จะใช้ในการผลิตวัตถุที่อธิบายในส่วนข้อมูล 3 มิติจะต้องมีอยู่ในเอกสาร 3MF คำอธิบายของเอกสารแต่ละส่วนพร้อมกับสถานะตามที่ต้องการหรือตัวเลือกแสดงไว้ในตารางต่อไปนี้
 

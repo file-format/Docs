@@ -31,7 +31,7 @@ glTF 2.0 は、2017 年 6 月 5 日に Web3D 2017 Conference で公開されま�
 
 ## GLTF ファイル形式
 
-glTF 2.0 のファイル形式の仕様は [オンライン](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0) で参照できます。 glTF ファイル形式。
+glTF 2.0 のファイル形式の仕様は [オンライン](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0) で参照できます。 glTF ファイル形式。
 
 glTF は、サポートする外部データを含む JSON ファイルとしてアセットを定義します。以下を使用して 3D モデルを表現します。
 
@@ -63,7 +63,7 @@ glTF は、JSON ファイル形式に次の追加の制限を課します
 
 **データ URI:** データ URI は RFC 2397 で定義されたものであり、JSON にリソースを埋め込むために glTF によって使用されます。
 
-**相対 URI パス:** または、RFC 3986、[セクション 4.2](https://tools.ietf.org/html/rfc3986#section-4.2) で定義されている path-noscheme — スキーム、権限、またはパラメーターなし。 RFC 3986 の [セクション 2.2](https://tools.ietf.org/html/rfc3986#section-2.2) に従って、予約文字はパーセントでエンコードする必要があります。
+**相対 URI パス:** または、RFC 3986、[セクション 4.2](https://datatracker.ietf.org/doc/html/rfc3986#section-4.2) で定義されている path-noscheme — スキーム、権限、またはパラメーターなし。 RFC 3986 の [セクション 2.2](https://datatracker.ietf.org/doc/html/rfc3986#section-2.2) に従って、予約文字はパーセントでエンコードする必要があります。
 
 ## 参照 ##
 

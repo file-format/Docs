@@ -27,7 +27,7 @@
 * รูปแบบ ANSI 32 บิต
 * รูปแบบ Unicode 64 บิต
 
-รูปแบบไฟล์ PST [ข้อมูลจำเพาะ](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) ที่มีให้จาก Microsoft ยังใช้กับรูปแบบไฟล์ OST ได้ฟรีและ การให้สิทธิ์ใช้งานสิทธิบัตรแบบเพิกถอนไม่ได้ผ่าน Open Specification Promise ประกอบด้วยองค์ประกอบที่แตกต่างดังต่อไปนี้:
+รูปแบบไฟล์ PST [ข้อมูลจำเพาะ](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546) ที่มีให้จาก Microsoft ยังใช้กับรูปแบบไฟล์ OST ได้ฟรีและ การให้สิทธิ์ใช้งานสิทธิบัตรแบบเพิกถอนไม่ได้ผ่าน Open Specification Promise ประกอบด้วยองค์ประกอบที่แตกต่างดังต่อไปนี้:
 
 * ส่วนหัวของเฟล
 * ข้อมูลส่วนหัวของไฟล์
@@ -78,6 +78,6 @@
 
 ## อ้างอิง
 
-* [รูปแบบไฟล์โฟลเดอร์ส่วนบุคคลของ Outlook (.ost)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [ข้อกำหนดรูปแบบไฟล์โฟลเดอร์ส่วนบุคคล](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [รูปแบบไฟล์โฟลเดอร์ส่วนบุคคลของ Outlook (.ost)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [ข้อกำหนดรูปแบบไฟล์โฟลเดอร์ส่วนบุคคล](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

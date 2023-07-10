@@ -80,5 +80,5 @@
  
 
 ## הפניות
-* [מפרטי קובץ מסד נתונים של מנוע אחסון להרחבה (ESE) (EDB)](https://github.com/libyal/libesedb/tree/master/documentation)
+* [מפרטי קובץ מסד נתונים של מנוע אחסון להרחבה (ESE) (EDB)](https://github.com/libyal/libesedb/tree/main/documentation)
 

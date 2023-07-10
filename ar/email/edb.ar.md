@@ -80,5 +80,5 @@
  
 
 ## مراجع
-* [مواصفات ملف قاعدة بيانات محرك التخزين القابل للتوسيع (ESE)](https://github.com/libyal/libesedb/tree/master/documentation)
+* [مواصفات ملف قاعدة بيانات محرك التخزين القابل للتوسيع (ESE)](https://github.com/libyal/libesedb/tree/main/documentation)
 

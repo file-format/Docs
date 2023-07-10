@@ -46,7 +46,7 @@ Le format de fichier 3MF utilise les spécifications Open Packaging sous forme d
 
 Un document 3MF typique se présente comme suit :
 
-![3MF Document Structure](https://github.com/3MFConsortium/spec_core/raw/master/images/figure_2-1.png "3MF Document Structure")
+![3MF Document Structure](https://raw.githubusercontent.com/3MFConsortium/spec_core/master/images/figure_2-1.png "3MF Document Structure")
 
 La charge utile comprend l'ensemble complet des pièces requises pour le traitement de la pièce de modèle 3D. Tout le contenu à utiliser pour fabriquer un objet décrit dans la charge utile 3D DOIT être contenu dans le document 3MF. La description de chaque partie de document ainsi que son statut comme requis ou en option sont indiqués dans le tableau suivant.
 

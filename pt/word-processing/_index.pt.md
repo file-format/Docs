@@ -22,7 +22,7 @@ Um arquivo de processamento de texto contém informações do usuário em format
 
 As extensões comuns de arquivo de texto simples e os formatos de arquivo associados incluem **[TXT](/pt/word-processing/txt/)**, **[CSV](/pt/spreadsheet/csv/)**, enquanto as extensões de arquivo para documentos rich text incluem **[DOCX](/pt/word-processing/docx/)**, **[DOC](/pt/word-processing/doc/)** e **[RTF](/pt/word-processing/rtf/)** .
 
-Tem consultas relacionadas a formatos de arquivo de processamento de texto? Acesse nossa comunidade [fóruns](https://forum.fileformat.com/c/word-processing) para se beneficiar do conhecimento compartilhado por especialistas em formato de arquivo.
+Tem consultas relacionadas a formatos de arquivo de processamento de texto? Acesse nossa comunidade [fóruns](https://forum.fileformat.com/c/word-processing/5) para se beneficiar do conhecimento compartilhado por especialistas em formato de arquivo.
 
 # Lista de extensões de arquivos de processamento de texto e formatos de arquivos associados
 

@@ -80,5 +80,5 @@ EDB データベース ファイルには、データベース内のすべての
  
 
 ## 参考文献
-* [Extensible Storage Engine (ESE) データベース ファイル (EDB) の仕様](https://github.com/libyal/libesedb/tree/master/documentation)
+* [Extensible Storage Engine (ESE) データベース ファイル (EDB) の仕様](https://github.com/libyal/libesedb/tree/main/documentation)
 

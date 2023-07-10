@@ -22,7 +22,7 @@ File dengan ekstensi .pst mewakili File Penyimpanan Pribadi Outlook (juga disebu
 
 ## Spesifikasi Format File PST
 
-Format File PST [spesifikasi](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) tersedia dari Microsoft sebagai lisensi paten gratis dan tidak dapat dibatalkan melalui Janji Spesifikasi Terbuka .
+Format File PST [spesifikasi](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546) tersedia dari Microsoft sebagai lisensi paten gratis dan tidak dapat dibatalkan melalui Janji Spesifikasi Terbuka .
 
 ### Jenis Format PST
 
@@ -94,6 +94,6 @@ Untuk keamanan, file PST juga dapat dilindungi kata sandi yang mengharuskan apli
 
 ## Referensi ##
 
-* [Format File Folder Pribadi Outlook (.pst)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Spesifikasi Format File Folder Pribadi](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Format File Folder Pribadi Outlook (.pst)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Spesifikasi Format File Folder Pribadi](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

@@ -29,7 +29,7 @@ Metodele de livrare a conținutului utilizate de glTF au ca rezultat o procesare
 * glTF JSON indică date binare externe (geometrie, cadre cheie, skin) și imagini.
 * glTF JSON încorporează date binare codificate în base64 și imagini în linie folosind URI-uri de date.
 
-GLB ca format container a fost introdus ca format de fișier binar pentru reprezentarea activului glTF într-un blob binar pentru a evita problemele cauzate de glTF. Formatul de fișier GLB [specificații](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0#glb-file-format-specification) ar trebui să fie referit pentru orice implementare de cititor/scriitor a acestuia pentru dezvoltarea aplicațiilor .
+GLB ca format container a fost introdus ca format de fișier binar pentru reprezentarea activului glTF într-un blob binar pentru a evita problemele cauzate de glTF. Formatul de fișier GLB [specificații](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0#glb-file-format-specification) ar trebui să fie referit pentru orice implementare de cititor/scriitor a acestuia pentru dezvoltarea aplicațiilor .
 
 ## Structura fișierului GLB
 

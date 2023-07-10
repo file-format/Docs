@@ -22,7 +22,7 @@ Bir kelime işlem dosyası, kullanıcı bilgilerini düz metin veya zengin metin
 
 Yaygın düz metin dosyası uzantıları ve ilişkili dosya biçimleri arasında **[TXT](/tr/word-processing/txt/)**, **[CSV](/tr/spreadsheet/csv/)** bulunurken, zengin metin belgeleri için dosya uzantıları şunları içerir: **[DOCX](/tr/word-processing/docx/)**, **[DOC](/tr/word-processing/doc/)** ve **[RTF](/tr/word-processing/rtf/)** .
 
-Kelime İşleme dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/word-processing) gidin.
+Kelime İşleme dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/word-processing/5) gidin.
 
 # Kelime İşleme Dosya Uzantılarının ve İlişkili Dosya Biçimlerinin Listesi
 

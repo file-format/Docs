@@ -29,7 +29,7 @@ glTF 使用的内容交付方法导致对 base-64 编码的二进制数据进行
 * glTF JSON 指向外部二进制数据（几何、关键帧、皮肤）和图像。
 * glTF JSON 嵌入 base64 编码的二进制数据，并使用数据 URI 内联图像。
 
-GLB 作为一种容器格式被引入为二进制文件格式，用于在二进制 blob 中表示 glTF 资产，以避免由 glTF 引起的问题。 GLB 文件格式 [规范](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0#glb-file-format-specification) 应参考用于应用程序开发的任何读取器/写入器实现.
+GLB 作为一种容器格式被引入为二进制文件格式，用于在二进制 blob 中表示 glTF 资产，以避免由 glTF 引起的问题。 GLB 文件格式 [规范](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0#glb-file-format-specification) 应参考用于应用程序开发的任何读取器/写入器实现.
 
 ## GLB 文件结构
 

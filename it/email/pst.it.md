@@ -22,7 +22,7 @@ I file con estensione .pst rappresentano i file di archiviazione personale di Ou
 
 ## Specifiche del formato file PST
 
-Il formato file PST [specifiche](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) è disponibile da Microsoft come licenza di brevetto gratuita e irrevocabile tramite Open Specification Promise .
+Il formato file PST [specifiche](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546) è disponibile da Microsoft come licenza di brevetto gratuita e irrevocabile tramite Open Specification Promise .
 
 ### Tipo di formati PST
 
@@ -94,6 +94,6 @@ Per motivi di sicurezza, i file PST possono anche essere protetti da password, i
 
 ## Riferimenti ##
 
-* [Formato file delle cartelle personali di Outlook (.pst)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Specifiche del formato del file della cartella personale](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Formato file delle cartelle personali di Outlook (.pst)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Specifiche del formato del file della cartella personale](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

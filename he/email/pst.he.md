@@ -22,7 +22,7 @@
 
 ## מפרטי פורמט קובץ PST
 
-פורמט קובץ PST [מפרטים](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) זמינים מ-Microsoft כרישוי פטנט בחינם ובלתי חוזר דרך הבטחת המפרט הפתוח .
+פורמט קובץ PST [מפרטים](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546) זמינים מ-Microsoft כרישוי פטנט בחינם ובלתי חוזר דרך הבטחת המפרט הפתוח .
 
 ### סוג פורמטי PST
 
@@ -94,6 +94,6 @@
 
 ## הפניות ##
 
-* [פורמט קובץ של תיקיות אישיות של Outlook (.pst)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [מפרט פורמט קובץ תיקייה אישית](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [פורמט קובץ של תיקיות אישיות של Outlook (.pst)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [מפרט פורמט קובץ תיקייה אישית](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

@@ -27,7 +27,7 @@ OST או קבצי אחסון לא מקוונים מייצגים את נתוני 
 * פורמט ANSI 32 סיביות
 * פורמט Unicode 64 סיביות
 
-פורמט קובץ PST [מפרטים](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx), כזמין מ-Microsoft, חלים גם על פורמט קובץ OST כחופשי ו רישוי פטנט בלתי חוזר באמצעות הבטחת המפרט הפתוח. זה מורכב מהאלמנטים הבאים להבחין:
+פורמט קובץ PST [מפרטים](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546), כזמין מ-Microsoft, חלים גם על פורמט קובץ OST כחופשי ו רישוי פטנט בלתי חוזר באמצעות הבטחת המפרט הפתוח. זה מורכב מהאלמנטים הבאים להבחין:
 
 * כותרת פלי
 * נתוני כותרות קבצים
@@ -78,6 +78,6 @@ OST או קבצי אחסון לא מקוונים מייצגים את נתוני 
 
 ## הפניות
 
-* [פורמט קובץ של תיקיות אישיות של Outlook (.ost)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [מפרט פורמט קובץ תיקייה אישית](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [פורמט קובץ של תיקיות אישיות של Outlook (.ost)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [מפרט פורמט קובץ תיקייה אישית](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

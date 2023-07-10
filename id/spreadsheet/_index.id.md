@@ -22,7 +22,7 @@ File **spreadsheet** berisi data dalam bentuk baris dan kolom. File spreadsheet 
 
 Ekstensi file spreadsheet umum dan format filenya mencakup **[XLSX](/id/spreadsheet/xlsx/)** (Microsoft Excel Open XML Spreadsheet), **[ODS](/id/spreadsheet/ods/)** (OpenDocument Spreadsheet), dan **[XLS](/id/spreadsheet/xls/)** (Format File Biner Microsoft Excel).
 
-Punya pertanyaan terkait format file Spreadsheet? Buka [forum] komunitas kami (https://forum.fileformat.com/c/spreadsheet) untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
+Punya pertanyaan terkait format file Spreadsheet? Buka [forum] komunitas kami (https://forum.fileformat.com/c/spreadsheet/6) untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
 
 ## Daftar Ekstensi File Spreadsheet dan Format File Terkait
 

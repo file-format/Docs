@@ -22,7 +22,7 @@ Un fișier **foaie de calcul** conține date sub formă de rânduri și coloane.
 
 Extensiile obișnuite de fișiere pentru foi de calcul și formatele lor de fișier includ **[XLSX](/ro/spreadsheet/xlsx/)** (foaia de calcul Microsoft Excel Open XML), **[ODS](/ro/spreadsheet/ods/)** (foaia de calcul OpenDocument) și **[XLS](/ro/spreadsheet/xls/)** (format de fișier binar Microsoft Excel).
 
-Aveți întrebări legate de formatele de fișiere cu foi de calcul? Accesați comunitatea noastră [forumuri](https://forum.fileformat.com/c/spreadsheet) pentru a beneficia de cunoștințele împărtășite de experții în format de fișiere.
+Aveți întrebări legate de formatele de fișiere cu foi de calcul? Accesați comunitatea noastră [forumuri](https://forum.fileformat.com/c/spreadsheet/6) pentru a beneficia de cunoștințele împărtășite de experții în format de fișiere.
 
 ## Lista extensiilor de fișiere cu foi de calcul și formatelor de fișiere asociate
 

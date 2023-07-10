@@ -22,7 +22,7 @@ Arquivos de programação são arquivos de código-fonte que são usados por lin
 
 As extensões comuns de arquivo de programação ou desenvolvedor e seus formatos de arquivo associados incluem **[C#](/pt/programming/cs/)** (CSharp Source Code File), **[CPP](/pt/programming/cpp/)** (C++ Source Code File) File) e **[VB](/pt/programming/vb/)** (Arquivo de código-fonte do Visual Basic).
 
-Tem consultas relacionadas a formatos de arquivo de programação? Acesse nossa comunidade [fóruns](https://forum.fileformat.com/c/programming) para se beneficiar do conhecimento compartilhado por especialistas em formato de arquivo.
+Tem consultas relacionadas a formatos de arquivo de programação? Acesse nossa comunidade [fóruns](https://forum.fileformat.com/c/programming/26) para se beneficiar do conhecimento compartilhado por especialistas em formato de arquivo.
 
 ## Lista de Extensões de Arquivo de Programação e Formatos de Arquivo Associados
 

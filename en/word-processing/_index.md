@@ -21,7 +21,7 @@ A word processing file contains user information in plain text or rich text form
 
 Common plain text file extensions and associated file formats include **[TXT](/word-processing/txt/)**, **[CSV](/spreadsheet/csv/)**, while file extensions for rich text documents include **[DOCX](/word-processing/docx/)**, **[DOC](/word-processing/doc/)** and **[RTF](/word-processing/rtf/)**.
 
-Got queries related to Word Processing file formats? Head on to our community [forums](https://forum.fileformat.com/c/word-processing) to benefit from the knowledge shared by File Format experts.
+Got queries related to Word Processing file formats? Head on to our community [forums](https://forum.fileformat.com/c/word-processing/5) to benefit from the knowledge shared by File Format experts.
 
 ## Open Source APIs for Word Processing File Formats
 

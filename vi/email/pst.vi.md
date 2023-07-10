@@ -22,7 +22,7 @@ Các tệp có phần mở rộng .pst đại diện cho Tệp Lưu trữ Cá nh
 
 ## Định dạng tệp PST Thông số kỹ thuật
 
-Định dạng tệp PST [thông số kỹ thuật](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) có sẵn từ Microsoft dưới dạng giấy phép bằng sáng chế miễn phí và không thể hủy ngang thông qua Lời hứa về đặc điểm kỹ thuật mở .
+Định dạng tệp PST [thông số kỹ thuật](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546) có sẵn từ Microsoft dưới dạng giấy phép bằng sáng chế miễn phí và không thể hủy ngang thông qua Lời hứa về đặc điểm kỹ thuật mở .
 
 ### Loại Định dạng PST
 
@@ -94,6 +94,6 @@ Tiêu đề bắt đầu bằng từ ma thuật 4 byte **!BDN** được biểu 
 
 ## Người giới thiệu ##
 
-* Định dạng tệp [Thư mục cá nhân Outlook (.pst)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Thông số định dạng tệp thư mục cá nhân](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* Định dạng tệp [Thư mục cá nhân Outlook (.pst)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Thông số định dạng tệp thư mục cá nhân](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

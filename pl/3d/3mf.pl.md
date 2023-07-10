@@ -46,7 +46,7 @@ Format pliku 3MF wykorzystuje specyfikacje Open Packaging w postaci archiwum ZIP
 
 Typowy dokument 3MF wygląda następująco:
 
-![3MF Document Structure](https://github.com/3MFConsortium/spec_core/raw/master/images/figure_2-1.png "3MF Document Structure")
+![3MF Document Structure](https://raw.githubusercontent.com/3MFConsortium/spec_core/master/images/figure_2-1.png "3MF Document Structure")
 
 Ładunek zawiera pełny zestaw części wymaganych do przetworzenia części Modelu 3D. Cała zawartość, która ma być wykorzystana do wytworzenia obiektu opisanego w ładunku 3D MUSI być zawarta w Dokumencie 3MF. Opis każdej części dokumentu wraz z jej wymaganym statusem lub opcją przedstawiono w poniższej tabeli.
 

@@ -19,7 +19,7 @@
 
 Bestandscompressie is het proces om de grootte van een of meer bestanden te verkleinen. Het verkleint grote bestanden tot veel kleinere door onnodige gegevens te verwijderen. Het gecomprimeerde bestandsarchief maakt het gemakkelijker om grote bestanden of groepen bestanden te verzenden en er een back-up van te maken. Bovendien maken dergelijke bestanden het downloaden sneller gemakkelijker en kunnen er meer gegevens op verwisselbare media worden opgeslagen. Er zijn verschillende compressieformaten. Hieronder gaan we de meest populaire compressiebestandsindelingen bespreken en de meest aanbevolen software die deze gebruikt.
 
-Heeft u vragen over compressiebestandsindelingen? Ga naar onze community [forums](https://forum.fileformat.com/c/compression) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
+Heeft u vragen over compressiebestandsindelingen? Ga naar onze community [forums](https://forum.fileformat.com/c/compression/10) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
 
 ## Lijst met gecomprimeerde bestandsextensies en bijbehorende Flie-indelingen
 

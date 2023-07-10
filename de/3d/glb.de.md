@@ -29,7 +29,7 @@ Die von glTF verwendeten Inhaltsbereitstellungsmethoden führen zu einer zusätz
 * glTF JSON verweist auf externe Binärdaten (Geometrie, Keyframes, Skins) und Bilder.
 * glTF JSON bettet Base64-codierte Binärdaten und Bilder inline unter Verwendung von Daten-URIs ein.
 
-GLB als Containerformat wurde als binäres Dateiformat zur Darstellung von glTF-Assets in einem binären Blob eingeführt, um die durch glTF verursachten Probleme zu vermeiden. Das GLB-Dateiformat [Spezifikationen](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0#glb-file-format-specification) sollte für jede Reader/Writer-Implementierung desselben für die Anwendungsentwicklung herangezogen werden .
+GLB als Containerformat wurde als binäres Dateiformat zur Darstellung von glTF-Assets in einem binären Blob eingeführt, um die durch glTF verursachten Probleme zu vermeiden. Das GLB-Dateiformat [Spezifikationen](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0#glb-file-format-specification) sollte für jede Reader/Writer-Implementierung desselben für die Anwendungsentwicklung herangezogen werden .
 
 ## GLB-Dateistruktur
 

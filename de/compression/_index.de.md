@@ -19,7 +19,7 @@
 
 Dateikomprimierung ist der Prozess, um die Größe einer oder mehrerer Dateien zu reduzieren. Es schrumpft große Dateien in viel kleinere, indem es nicht benötigte Daten entfernt. Das komprimierte Dateiarchiv erleichtert das Versenden und Sichern großer Dateien oder Dateigruppen. Darüber hinaus beschleunigen solche Dateien das Herunterladen und ermöglichen es, mehr Daten auf Wechselmedien zu speichern. Es gibt verschiedene Komprimierungsformate. Im Folgenden werden wir die beliebtesten Komprimierungsdateiformate und die am häufigsten empfohlene Software, die sie verwendet, besprechen.
 
-Haben Sie Fragen zu Komprimierungsdateiformaten? Besuchen Sie unsere Community [Foren](https://forum.fileformat.com/c/compression), um vom Wissen der Dateiformatexperten zu profitieren.
+Haben Sie Fragen zu Komprimierungsdateiformaten? Besuchen Sie unsere Community [Foren](https://forum.fileformat.com/c/compression/10), um vom Wissen der Dateiformatexperten zu profitieren.
 
 ## Liste komprimierter Dateierweiterungen und zugehöriger Dateiformate
 

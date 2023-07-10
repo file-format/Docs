@@ -27,7 +27,7 @@ Il formato di file OST (Offline Storage Table) e [PST](/it/email/pst/) (Personal
 * Formato ANSI a 32 bit
 * Formato Unicode a 64 bit
 
-Il formato file PST [specifiche](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx), come disponibile da Microsoft, è applicabile anche al formato file OST come gratuito e licenza di brevetto irrevocabile attraverso la Open Specification Promise. Si compone dei seguenti elementi distinguibili:
+Il formato file PST [specifiche](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546), come disponibile da Microsoft, è applicabile anche al formato file OST come gratuito e licenza di brevetto irrevocabile attraverso la Open Specification Promise. Si compone dei seguenti elementi distinguibili:
 
 * Intestazione Fle
 * Dati di intestazione del file
@@ -78,6 +78,6 @@ L'intestazione inizia con una parola magica di 4 byte **!BDN** rappresentata da 
 
 ## Riferimenti
 
-* [Formato file delle cartelle personali di Outlook (.ost)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Specifiche del formato del file della cartella personale](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Formato file delle cartelle personali di Outlook (.ost)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Specifiche del formato del file della cartella personale](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

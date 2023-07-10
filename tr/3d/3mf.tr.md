@@ -46,7 +46,7 @@ STL ve diğerleri gibi mevcut model tanımlayıcı dosya formatlarındaki mevcut
 
 Tipik bir 3MF belgesi aşağıdaki gibi görünür:
 
-![3MF Document Structure](https://github.com/3MFConsortium/spec_core/raw/master/images/figure_2-1.png "3MF Document Structure")
+![3MF Document Structure](https://raw.githubusercontent.com/3MFConsortium/spec_core/master/images/figure_2-1.png "3MF Document Structure")
 
 Yük, 3B Model parçasını işlemek için gereken tüm parça setini içerir. 3B faydalı yükte açıklanan bir nesneyi üretmek için kullanılacak tüm içerik, 3MF Belgesinde BULUNMALIDIR ZORUNLU. Her bir belge bölümünün açıklaması, gerekli durumu veya seçeneği ile birlikte aşağıdaki tabloda verilmiştir.
 

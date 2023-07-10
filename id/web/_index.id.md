@@ -21,7 +21,7 @@ Dibutuhkan sejumlah jenis file saat membangun halaman web. Format file web menen
 
 Ekstensi file web umum dan format file terkaitnya meliputi **[HTML](/id/web/html/)** (Hypertext Markup Language), **[ASP](/id/web/asp/) (Active Server Pages)**, dan **CSS** (Cascading Style Sheets).
 
-Punya pertanyaan terkait format file Web? Buka [forum] komunitas kami (https://forum.fileformat.com/c/web) untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
+Punya pertanyaan terkait format file Web? Buka [forum] komunitas kami (https://forum.fileformat.com/c/web/13) untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
 
 ## Daftar Ekstensi File Web dan Format File Terkait
 

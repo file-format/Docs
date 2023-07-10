@@ -19,7 +19,7 @@
 
 E-boksfiler är elektroniska filer som kan öppnas på digitala enheter som kallas eReaders. En e-läsare kan vara vilken enhet som helst som en dator, en surfplatta eller en smartphone. Det mest populära e-boksfilformatet är den XML-baserade ePub. En e-bok kan innehålla olika typer av innehåll som text, bild och video. Vanliga filtillägg för e-böcker och deras filformat inkluderar **[EPUB](/sv/ebook/epub/)** (elektronisk publikation), **[FB2](/sv/ebook/fb2/)** (FictionBook 2.0) och **[ Mobi](/sv/ebook/mobi/)** (MobiPocket eBook File).
 
-Har du frågor relaterade till e-boksfilformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/ebook) för att dra nytta av kunskapen som delas av filformatsexperter.
+Har du frågor relaterade till e-boksfilformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/ebook/25) för att dra nytta av kunskapen som delas av filformatsexperter.
 
 ## Lista över filtillägg för e-böcker och tillhörande filformat
 

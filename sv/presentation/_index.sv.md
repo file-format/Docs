@@ -22,7 +22,7 @@ Du måste vara bekant med **PPTX** och **PPT** tilläggsfiler, dessa är present
 
 Vanliga filtillägg för presentationer och deras associerade filformat inkluderar **[PPTX](/sv/presentation/pptx/)**, **[PPT](/sv/presentation/ppt/)** och **[ODP](/sv/presentation/odp /)**.
 
-Har du frågor relaterade till presentationsfilformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/presentation) för att dra nytta av kunskapen som delas av filformatsexperter.
+Har du frågor relaterade till presentationsfilformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/presentation/8) för att dra nytta av kunskapen som delas av filformatsexperter.
 
 ## Lista över presentationsfiltillägg och associerade filformat
 

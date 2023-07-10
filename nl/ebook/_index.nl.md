@@ -19,7 +19,7 @@
 
 Ebook-bestanden zijn elektronische bestanden die kunnen worden geopend op digitale apparaten die eReaders worden genoemd. Een eReader kan elk apparaat zijn, zoals een computer, een tablet of een smartphone. De meest populaire bestandsindeling voor e-boeken is de op XML gebaseerde ePub. Een e-boek kan verschillende soorten inhoud bevatten, zoals tekst, afbeeldingen en video. Veelgebruikte bestandsextensies voor e-boeken en hun bestandsindelingen zijn **[EPUB](/nl/ebook/epub/)** (elektronische publicatie), **[FB2](/nl/ebook/fb2/)** (FictionBook 2.0) en **[ Mobi](/nl/ebook/mobi/)** (MobiPocket eBook-bestand).
 
-Heeft u vragen over bestandsindelingen voor e-boeken? Ga naar onze community [forums](https://forum.fileformat.com/c/ebook) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
+Heeft u vragen over bestandsindelingen voor e-boeken? Ga naar onze community [forums](https://forum.fileformat.com/c/ebook/25) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
 
 ## Lijst met eBook-bestandsextensies en bijbehorende bestandsindelingen
 

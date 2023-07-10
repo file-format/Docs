@@ -22,7 +22,7 @@ GIS (地理情報システム) マップ ファイルは、特定の場所また
 
 一般的な GIS ファイル拡張子とそのファイル形式には、**[GPX](/gis/gpx/)** (GPS Exchange File Format)、**[KML](/gis/kml/)** (Keyhole Markup Language File) があります。 **[SHP](/gis/shp/)** (ESRI シェープファイル)。
 
-GIS ファイル形式に関連するクエリを取得しましたか?コミュニティ [フォーラム](https://forum.fileformat.com/c/gis) にアクセスして、ファイル形式の専門家が共有する知識を活用してください。
+GIS ファイル形式に関連するクエリを取得しましたか?コミュニティ [フォーラム](https://forum.fileformat.com/c/gis/7) にアクセスして、ファイル形式の専門家が共有する知識を活用してください。
 
 ## GIS ファイル拡張子と関連ファイル形式のリスト
 以下は、一般的な GIS ファイル形式とそのファイル拡張子のリストです。

@@ -20,7 +20,7 @@
 
 CAD oznacza projektowanie wspomagane komputerowo. Stosowany jest również termin CADD (ang. Computer Aided Design and Drafting). Jest używany do formatu pliku grafiki 3D i może zawierać projekty 2D lub 3D. Plik CAD to cyfrowy format pliku obiektu generowanego i używanego przez oprogramowanie CAD. Plik CAD zawiera rysunek techniczny, plan, schemat lub renderowanie 3D obiektu. Mogą istnieć inne narzędzia CAD, których można użyć do tworzenia, otwierania, edytowania i eksportowania tych plików .cad do szerzej używanych formatów plików rysunków CAD. Poniżej omówimy najpopularniejsze formaty plików CAD i najbardziej zalecane oprogramowanie, które może otwierać, modyfikować i konwertować inne popularne formaty.
 
-Masz pytania dotyczące formatów plików CAD? Odwiedź nasze [fora] społeczności (https://forum.fileformat.com/c/cad), aby skorzystać z wiedzy ekspertów ds. formatów plików.
+Masz pytania dotyczące formatów plików CAD? Odwiedź nasze [fora] społeczności (https://forum.fileformat.com/c/cad/12), aby skorzystać z wiedzy ekspertów ds. formatów plików.
 
 ## Lista rozszerzeń plików CAD i powiązanych formatów plików
 

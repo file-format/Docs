@@ -27,7 +27,7 @@
 * Μορφή ANSI 32-bit
 * Μορφή Unicode 64-bit
 
-Η μορφή αρχείου PST [προδιαγραφές](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx), όπως διατίθεται από τη Microsoft, ισχύουν επίσης για τη μορφή αρχείου OST ως δωρεάν και αμετάκλητη άδεια χρήσης διπλωμάτων ευρεσιτεχνίας μέσω της υπόσχεσης Open Specification. Αποτελείται από τα ακόλουθα διακριτά στοιχεία:
+Η μορφή αρχείου PST [προδιαγραφές](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546), όπως διατίθεται από τη Microsoft, ισχύουν επίσης για τη μορφή αρχείου OST ως δωρεάν και αμετάκλητη άδεια χρήσης διπλωμάτων ευρεσιτεχνίας μέσω της υπόσχεσης Open Specification. Αποτελείται από τα ακόλουθα διακριτά στοιχεία:
 
 * Κεφαλίδα φυγής
 * Δεδομένα κεφαλίδας αρχείου
@@ -78,6 +78,6 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Μορφή αρχείου Outlook Personal Folders (.ost)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Προδιαγραφές μορφής αρχείου προσωπικού φακέλου](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Μορφή αρχείου Outlook Personal Folders (.ost)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Προδιαγραφές μορφής αρχείου προσωπικού φακέλου](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

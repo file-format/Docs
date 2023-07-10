@@ -22,7 +22,7 @@ Heb je je ooit afgevraagd wat een MPP-bestand is? MPP en andere vergelijkbare be
 
 Veelgebruikte bestandsextensies voor Project Management en de bijbehorende bestandsindelingen zijn **[MPP](/nl/project-management/mpp/)**, **[MPX](/nl/project-management/mpx/)** en **[XER](/nl/projectmanagement/xer/)**.
 
-Heeft u vragen over bestandsindelingen voor projectbeheer? Ga naar onze community [forums](https://forum.fileformat.com/c/project-management) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
+Heeft u vragen over bestandsindelingen voor projectbeheer? Ga naar onze community [forums](https://forum.fileformat.com/c/project-management/15) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
 
 ## Lijst met projectbestandsextensies en bijbehorende bestandsindelingen
 

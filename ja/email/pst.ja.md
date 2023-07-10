@@ -22,7 +22,7 @@
 
 ## PST ファイル形式の仕様
 
-PST ファイル形式 [仕様](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) は、Microsoft から、Open Specification Promise を通じて無料かつ取消不能な無料の特許ライセンスとして入手できます。 .
+PST ファイル形式 [仕様](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546) は、Microsoft から、Open Specification Promise を通じて無料かつ取消不能な無料の特許ライセンスとして入手できます。 .
 
 ### PST 形式の種類
 
@@ -94,6 +94,6 @@ PST ファイルの HEADER 構造は、ファイルの最初の 0 オフセッ�
 
 ## 参照 ##
 
-* [Outlook 個人用フォルダー (.pst) ファイル形式](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-※【個人フォルダのファイル形式仕様】(https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Outlook 個人用フォルダー (.pst) ファイル形式](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+※【個人フォルダのファイル形式仕様】(https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

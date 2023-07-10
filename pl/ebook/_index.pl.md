@@ -19,7 +19,7 @@
 
 Pliki e-booków to pliki elektroniczne, które można otwierać na urządzeniach cyfrowych zwanych czytnikami e-booków. Czytnikiem może być dowolne urządzenie, takie jak komputer, tablet lub smartfon. Najpopularniejszym formatem plików e-booków jest ePub oparty na XML. Ebook może zawierać różne rodzaje treści, takie jak tekst, obraz i wideo. Popularne rozszerzenia plików e-booków i ich formaty plików to **[EPUB](/pl/ebook/epub/)** (publikacja elektroniczna), **[FB2](/pl/ebook/fb2/)** (FictionBook 2.0) i **[ Mobi](/pl/ebook/mobi/)** (plik eBooka MobiPocket).
 
-Masz pytania dotyczące formatów plików e-booków? Odwiedź nasze [fora] społeczności (https://forum.fileformat.com/c/ebook), aby skorzystać z wiedzy ekspertów ds. formatów plików.
+Masz pytania dotyczące formatów plików e-booków? Odwiedź nasze [fora] społeczności (https://forum.fileformat.com/c/ebook/25), aby skorzystać z wiedzy ekspertów ds. formatów plików.
 
 ## Lista rozszerzeń plików EBook i powiązanych formatów plików
 

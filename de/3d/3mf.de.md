@@ -46,7 +46,7 @@ Das 3MF-Dateiformat verwendet die Open Packaging-Spezifikationen in Form eines Z
 
 Ein typisches 3MF-Dokument sieht wie folgt aus:
 
-![3MF Document Structure](https://github.com/3MFConsortium/spec_core/raw/master/images/figure_2-1.png "3MF Document Structure")
+![3MF Document Structure](https://raw.githubusercontent.com/3MFConsortium/spec_core/master/images/figure_2-1.png "3MF Document Structure")
 
 Die Nutzlast umfasst den vollständigen Teilesatz, der für die Verarbeitung des 3D-Modellteils erforderlich ist. Alle Inhalte, die zur Herstellung eines in der 3D-Nutzlast beschriebenen Objekts verwendet werden sollen, MÜSSEN im 3MF-Dokument enthalten sein. Die Beschreibung jedes Dokumententeils zusammen mit seinem Status als erforderlich oder Option ist in der folgenden Tabelle angegeben.
 

@@ -22,7 +22,7 @@ Hiç MPP dosyasının ne olduğunu merak ettiniz mi? MPP ve diğer benzer dosyal
 
 Yaygın Proje Yönetimi dosya uzantıları ve bunlarla ilişkili dosya biçimleri arasında **[MPP](/tr/project-management/mpp/)**, **[MPX](/tr/project-management/mpx/)** ve **[XER] yer alır. (/tr/proje yönetimi/xer/)**.
 
-Project Management dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanları tarafından paylaşılan bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/project-management) gidin.
+Project Management dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanları tarafından paylaşılan bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/project-management/15) gidin.
 
 ## Proje Dosya Uzantılarının ve İlişkili Dosya Biçimlerinin Listesi
 

@@ -27,7 +27,7 @@ OST або файли автономного зберігання предста
 * 32-розрядний формат ANSI
 * 64-розрядний формат Unicode
 
-Формат файлу PST [специфікації](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx), доступний від Microsoft, також застосовний до формату файлу OST як вільний і безвідкличне патентне ліцензування через Open Specification Promise. Він складається з наступних відмінних елементів:
+Формат файлу PST [специфікації](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546), доступний від Microsoft, також застосовний до формату файлу OST як вільний і безвідкличне патентне ліцензування через Open Specification Promise. Він складається з наступних відмінних елементів:
 
 * Заголовок Fle
 * Дані заголовка файлу
@@ -78,6 +78,6 @@ OST або файли автономного зберігання предста
 
 ## Список літератури
 
-* [Формат файлу особистих папок Outlook (.ost)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Специфікації формату файлу особистої папки](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Формат файлу особистих папок Outlook (.ost)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Специфікації формату файлу особистої папки](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

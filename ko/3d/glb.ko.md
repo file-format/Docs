@@ -29,7 +29,7 @@ glTF에서 사용하는 콘텐츠 전달 방법은 base-64로 인코딩된 이�
 * glTF JSON은 외부 바이너리 데이터(지오메트리, 키 프레임, 스킨) 및 이미지를 가리킵니다.
 * glTF JSON은 base64로 인코딩된 바이너리 데이터와 데이터 URI를 사용하여 인라인 이미지를 포함합니다.
 
-컨테이너 형식인 GLB는 glTF로 인해 발생하는 문제를 방지하기 위해 바이너리 blob에서 glTF 자산을 표현하기 위한 바이너리 파일 형식으로 도입되었습니다. GLB 파일 형식 [사양](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0#glb-file-format-specification)은 응용 프로그램 개발을 위한 동일한 판독기/작성기 구현에 참조되어야 합니다. .
+컨테이너 형식인 GLB는 glTF로 인해 발생하는 문제를 방지하기 위해 바이너리 blob에서 glTF 자산을 표현하기 위한 바이너리 파일 형식으로 도입되었습니다. GLB 파일 형식 [사양](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0#glb-file-format-specification)은 응용 프로그램 개발을 위한 동일한 판독기/작성기 구현에 참조되어야 합니다. .
 
 ## GLB 파일 구조
 

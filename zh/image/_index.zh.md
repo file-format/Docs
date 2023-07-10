@@ -28,7 +28,7 @@
 
 **矢量图像**由 2D 点而不是像素定义，它们被连接起来为图像提供几何形状。这些点具有定义路径方向、颜色、形状、曲线、厚度和填充的属性。常见的矢量图文件扩展名及其文件格式包括 **[SVG](/zh/page-description-language/svg/)** (Scalable Vector Graphics)、**[EPS](/zh/page-description-language/eps/) **（封装 PostScript 语言）和 **[PDF](/zh/pdf/)**（可移植文档格式）。
 
-有与图像文件格式相关的查询吗？前往我们的社区 [论坛](https://forum.fileformat.com/c/image)，从文件格式专家分享的知识中获益。
+有与图像文件格式相关的查询吗？前往我们的社区 [论坛](https://forum.fileformat.com/c/image/9)，从文件格式专家分享的知识中获益。
 
 ## 图像文件扩展名和相关文件格式列表
 以下是常见图像文件格式及其文件扩展名的列表。

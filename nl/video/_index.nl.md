@@ -19,7 +19,7 @@
 
 Iedereen is bekend met video's die we dagelijks bekijken op media-apparaten zoals televisies, bioscoopschermen en sociale mediakanalen zoals Facebook, Twitter, YouTube en vele anderen. Maar heb je je ooit afgevraagd hoe deze video's worden opgeslagen en in welke formaten deze kunnen worden geüpload om te bekijken? Wat is de beste bestandsindeling voor uw video om op verschillende opslagmedia te worden gehost? Videobestandsindelingen bestaan uit een aantal verschillende videotypen voor het opslaan van video's en voor verschillende doeleinden. Vul videobestandsindelingen in die u mogelijk bent tegengekomen, waaronder [AVI](/nl/video/avi/), [MOV](/nl/video/mov/), [WMV](/nl/video/wmv/), [M4V](/nl/video /m4v/), en [MP4](/nl/video/mp4/).
 
-Heeft u vragen over videobestandsindelingen? Ga naar onze community [forums](https://forum.fileformat.com/c/video) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
+Heeft u vragen over videobestandsindelingen? Ga naar onze community [forums](https://forum.fileformat.com/c/video/27) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
 
 
 ## Lijst met videobestandsextensies en bijbehorende bestandsindelingen

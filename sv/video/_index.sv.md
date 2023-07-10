@@ -19,7 +19,7 @@
 
 Alla är bekanta med videor som vi dagligen tittar på på mediaenheter som TV-apparater, bioskärmar och sociala mediekanaler som Facebook, Twitter, YouTube och många andra. Men har du någonsin undrat hur dessa videor sparas och i vilka format de kan laddas upp för visning? Vilket är det bästa filformatet för att din video ska lagras på olika lagringsmedia? Videofilformat består av ett antal olika videotyper för att lagra videor och att användas för olika ändamål. Fyll i videofilformat som du kanske har stött på inkluderar [AVI](/sv/video/avi/), [MOV](/sv/video/mov/), [WMV](/sv/video/wmv/), [M4V](/sv/video /m4v/), och [MP4](/sv/video/mp4/).
 
-Har du frågor relaterade till videofilformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/video) för att dra nytta av kunskapen som delas av filformatsexperter.
+Har du frågor relaterade till videofilformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/video/27) för att dra nytta av kunskapen som delas av filformatsexperter.
 
 
 ## Lista över videofiltillägg och associerade filformat

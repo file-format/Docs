@@ -22,7 +22,7 @@ Un file di mappa GIS (Geographic Information System) è costituito da informazio
 
 Le estensioni di file GIS comuni e i relativi formati di file includono **[GPX](/it/gis/gpx/)** (GPS Exchange File Format), **[KML](/it/gis/kml/)** (Keyhole Markup Language File) e **[SHP](/it/gis/shp/)** (file di forma ESRI).
 
-Hai domande relative ai formati di file GIS? Visita la nostra community [forum](https://forum.fileformat.com/c/gis) per beneficiare delle conoscenze condivise dagli esperti di formati di file.
+Hai domande relative ai formati di file GIS? Visita la nostra community [forum](https://forum.fileformat.com/c/gis/7) per beneficiare delle conoscenze condivise dagli esperti di formati di file.
 
 ## Elenco delle estensioni dei file GIS e dei formati di file associati
 Di seguito è riportato un elenco di formati di file GIS comuni insieme alle loro estensioni di file.

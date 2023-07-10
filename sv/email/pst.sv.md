@@ -22,7 +22,7 @@ Filer med tillägget .pst representerar Outlook Personal Storage Files (även ka
 
 ## PST-filformatspecifikationer
 
-PST-filformat [specifikationer](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) är tillgängliga från Microsoft som gratis och oåterkallelig fri patentlicens genom Open Specification Promise .
+PST-filformat [specifikationer](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546) är tillgängliga från Microsoft som gratis och oåterkallelig fri patentlicens genom Open Specification Promise .
 
 ### Typ av PST-format
 
@@ -94,6 +94,6 @@ För säkerhets skull kan PST-filer också vara lösenordsskyddade, vilket kräv
 
 ## Referenser ##
 
-* [Outlook Personal Folders (.pst) filformat](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Personal Folder File Format Specifications](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Outlook Personal Folders (.pst) filformat](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Personal Folder File Format Specifications](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

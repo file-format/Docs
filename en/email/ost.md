@@ -27,7 +27,7 @@ The OST (Offline Storage Table) and [PST](/email/pst/) (Personal Storage Table)
 * 32-bit ANSI Format
 * 64-bit Unicode Format
 
-PST File format [specifications](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx), as available from Microsoft, are also applicable to OST file format as free and irrevocable patent licensing through the Open Specification Promise. It consists of following distinguishable elements:
+PST File format [specifications](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546), as available from Microsoft, are also applicable to OST file format as free and irrevocable patent licensing through the Open Specification Promise. It consists of following distinguishable elements:
 
 * Fle header
 * File header data
@@ -78,5 +78,5 @@ The header starts with a 4-bytes magic word **!BDN** represented by bytes (0x2
 
 ## References
 
-* [Outlook Personal Folders (.ost) File Format](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Personal Folder File Format Specifications](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Outlook Personal Folders (.ost) File Format](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Personal Folder File Format Specifications](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)

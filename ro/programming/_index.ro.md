@@ -22,7 +22,7 @@ Fișierele de programare sunt fișiere de cod sursă care sunt utilizate de limb
 
 Extensiile obișnuite ale fișierelor de programare sau dezvoltatori și formatele lor asociate includ **[C#](/ro/programming/cs/)** (CSharp Source Code File), **[CPP](/ro/programming/cpp/)** (C++ Source Code). Fișier) și **[VB](/ro/programming/vb/)** (Fișier cod sursă Visual Basic).
 
-Aveți întrebări legate de formatele de fișiere de programare? Accesați comunitatea noastră [forumuri](https://forum.fileformat.com/c/programming) pentru a beneficia de cunoștințele împărtășite de experții în format de fișiere.
+Aveți întrebări legate de formatele de fișiere de programare? Accesați comunitatea noastră [forumuri](https://forum.fileformat.com/c/programming/26) pentru a beneficia de cunoștințele împărtășite de experții în format de fișiere.
 
 ## Lista extensiilor de fișiere de programare și formatelor de fișiere asociate
 

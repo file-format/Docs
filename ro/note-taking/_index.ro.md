@@ -21,7 +21,7 @@ Fișierele de program pentru luarea de note conțin secțiuni și pagini pentru 
 
 Extensiile obișnuite de fișiere OneNote și formatele lor asociate includ **[.ONE](/ro/note-taking/one/)** și fișierul său de cuprins **[.ONETOC2](/ro/note-taking/onetoc2/)** .
 
-Aveți întrebări legate de formatele de fișiere Notes? Accesați comunitatea noastră [forumuri](https://forum.fileformat.com/c/note-taking) pentru a beneficia de cunoștințele împărtășite de experții în format de fișiere.
+Aveți întrebări legate de formatele de fișiere Notes? Accesați comunitatea noastră [forumuri](https://forum.fileformat.com/c/note-taking/23) pentru a beneficia de cunoștințele împărtășite de experții în format de fișiere.
 
 ## Lista de extensii de fișiere de luare de note și formate de fișiere asociate
 Următoarea este o listă a formatelor comune de fișiere de luare de note împreună cu extensiile lor de fișiere.

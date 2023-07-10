@@ -27,7 +27,7 @@ Formatul de fișier OST (Offline Storage Table) și [PST](/ro/email/pst/) (Perso
 * Format ANSI pe 32 de biți
 * Format Unicode pe 64 de biți
 
-Formatul fișierului PST [specificații](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx), așa cum este disponibil de la Microsoft, se aplică, de asemenea, formatului de fișier OST ca gratuit și licențiere irevocabilă de brevet prin Promisiunea de specificații deschise. Se compune din următoarele elemente distinctive:
+Formatul fișierului PST [specificații](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546), așa cum este disponibil de la Microsoft, se aplică, de asemenea, formatului de fișier OST ca gratuit și licențiere irevocabilă de brevet prin Promisiunea de specificații deschise. Se compune din următoarele elemente distinctive:
 
 * Antetul Fle
 * Datele antetului fișierului
@@ -78,6 +78,6 @@ Antetul începe cu un cuvânt magic de 4 octeți **!BDN** reprezentat prin octe�
 
 ## Referințe
 
-* [Format de fișier foldere personale Outlook (.ost)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Specificații de format de fișier al folderului personal](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Format de fișier foldere personale Outlook (.ost)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Specificații de format de fișier al folderului personal](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

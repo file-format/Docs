@@ -21,7 +21,7 @@ Los archivos del programa para tomar notas contienen secciones y páginas para a
 
 Las extensiones de archivo comunes de OneNote y sus formatos de archivo asociados incluyen **[.ONE](/es/note-take/one/)** y su archivo de tabla de contenido **[.ONETOC2](/es/note-take/onetoc2/)** .
 
-¿Tiene consultas relacionadas con los formatos de archivo de Notes? Diríjase a los [foros] de nuestra comunidad (https://forum.fileformat.com/c/note-take) para beneficiarse del conocimiento compartido por los expertos en formato de archivo.
+¿Tiene consultas relacionadas con los formatos de archivo de Notes? Diríjase a los [foros] de nuestra comunidad (https://forum.fileformat.com/c/note-taking/23) para beneficiarse del conocimiento compartido por los expertos en formato de archivo.
 
 ## Lista de extensiones de archivo para tomar notas y formatos de archivo asociados
 La siguiente es una lista de formatos de archivo comunes para tomar notas junto con sus extensiones de archivo.

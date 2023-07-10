@@ -27,7 +27,7 @@ OST или файлы автономного хранилища представ
 * 32-битный формат ANSI
 * 64-битный формат Юникода
 
-Формат файла PST [спецификации](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx), доступный от Microsoft, также применим к формату файла OST как бесплатному и безотзывное патентное лицензирование через Open Specification Promise. Он состоит из следующих различимых элементов:
+Формат файла PST [спецификации](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546), доступный от Microsoft, также применим к формату файла OST как бесплатному и безотзывное патентное лицензирование через Open Specification Promise. Он состоит из следующих различимых элементов:
 
 * Заголовок файла
 * Данные заголовка файла
@@ -78,6 +78,6 @@ OST или файлы автономного хранилища представ
 
 ## использованная литература
 
-* [Формат файла личных папок Outlook (.ost)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Спецификации формата файлов личных папок](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Формат файла личных папок Outlook (.ost)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Спецификации формата файлов личных папок](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

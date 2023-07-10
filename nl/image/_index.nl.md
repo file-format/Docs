@@ -28,7 +28,7 @@ Een afbeeldingsbestandsindeling is een standaardmethode voor het organiseren en 
 
 **Vectorafbeeldingen** worden gedefinieerd door 2D-punten, in plaats van pixels, die zijn verbonden om een geometrische vorm aan de afbeelding te geven. De punten hebben eigenschappen die de richting van paden, kleur, vorm, curve, dikte en vulling bepalen. Veelgebruikte bestandsextensies voor vectorafbeeldingen en hun bestandsindelingen zijn **[SVG](/nl/page-description-language/svg/)** (Scalable Vector Graphics), **[EPS](/nl/page-description-language/eps/) ** (Encapsulated PostScript-taal) en **[PDF](/nl/pdf/)** (Portable Document Format).
 
-Heeft u vragen over afbeeldingsbestandsindelingen? Ga naar onze community [forums](https://forum.fileformat.com/c/image) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
+Heeft u vragen over afbeeldingsbestandsindelingen? Ga naar onze community [forums](https://forum.fileformat.com/c/image/9) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
 
 ## Lijst met afbeeldingsbestandsextensies en bijbehorende bestandsindelingen
 Hieronder volgt een lijst met veelvoorkomende afbeeldingsbestandsindelingen samen met hun bestandsextensies.

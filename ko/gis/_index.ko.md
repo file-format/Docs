@@ -22,7 +22,7 @@ GIS(지리 정보 시스템) 지도 파일은 특정 위치 또는 영역에 대
 
 일반적인 GIS 파일 확장자와 해당 파일 형식은 **[GPX](/ko/gis/gpx/)**(GPS Exchange 파일 형식), **[KML](/ko/gis/kml/)**(Keyhole Markup Language File)을 포함합니다. 및 **[SHP](/ko/gis/shp/)** (ESRI Shapefile).
 
-GIS 파일 형식과 관련된 쿼리가 있습니까? 커뮤니티 [포럼](https://forum.fileformat.com/c/gis)으로 이동하여 파일 형식 전문가가 공유하는 지식을 활용하십시오.
+GIS 파일 형식과 관련된 쿼리가 있습니까? 커뮤니티 [포럼](https://forum.fileformat.com/c/gis/7)으로 이동하여 파일 형식 전문가가 공유하는 지식을 활용하십시오.
 
 ## GIS 파일 확장자 및 관련 파일 형식 목록
 다음은 파일 확장자와 함께 일반적인 GIS 파일 형식 목록입니다.

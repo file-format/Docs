@@ -22,7 +22,7 @@
 
 常见的电子表格文件扩展名及其文件格式包括 **[XLSX](/zh/spreadsheet/xlsx/)**（Microsoft Excel Open XML 电子表格）、**[ODS](/zh/spreadsheet/ods/)**（OpenDocument 电子表格）和**[XLS](/zh/spreadsheet/xls/)**（Microsoft Excel 二进制文件格式）。
 
-有与电子表格文件格式相关的查询吗？前往我们的社区 [论坛](https://forum.fileformat.com/c/spreadsheet)，从文件格式专家分享的知识中获益。
+有与电子表格文件格式相关的查询吗？前往我们的社区 [论坛](https://forum.fileformat.com/c/spreadsheet/6)，从文件格式专家分享的知识中获益。
 
 ## 电子表格文件扩展名和相关文件格式列表
 

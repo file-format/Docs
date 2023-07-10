@@ -22,7 +22,7 @@ Eine **Spreadsheet**-Datei enthält Daten in Form von Zeilen und Spalten. Eine T
 
 Gängige Dateierweiterungen für Tabellenkalkulationen und ihre Dateiformate umfassen **[XLSX](/de/spreadsheet/xlsx/)** (Microsoft Excel Open XML Spreadsheet), **[ODS](/de/spreadsheet/ods/)** (OpenDocument Spreadsheet) und **[XLS](/de/spreadsheet/xls/)** (Microsoft Excel-Binärdateiformat).
 
-Haben Sie Fragen zu Spreadsheet-Dateiformaten? Besuchen Sie unsere Community [Foren](https://forum.fileformat.com/c/spreadsheet), um vom Wissen der Dateiformatexperten zu profitieren.
+Haben Sie Fragen zu Spreadsheet-Dateiformaten? Besuchen Sie unsere Community [Foren](https://forum.fileformat.com/c/spreadsheet/6), um vom Wissen der Dateiformatexperten zu profitieren.
 
 ## Liste der Spreadsheet-Dateierweiterungen und zugehörigen Dateiformate
 

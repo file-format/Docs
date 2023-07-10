@@ -20,7 +20,7 @@
 
 De elektronische weergave van een driedimensionaal object staat bekend als 3D-bestand. Een 3D-bestandsindeling wordt gebruikt om informatie over 3D-modellen op te slaan. Het slaat meestal informatie over 3D-modellen op als platte tekst of binaire gegevens. Er zijn letterlijk honderden 3D-bestandsindelingen en deze worden veel gebruikt in 3D-games, printen, computerondersteund ontwerp, productie, de academische wereld, engineering en meer. Elke branche heeft om verschillende redenen zijn eigen 3D-bestandsindelingen. Hieronder gaan we het hebben over de meest populaire 3D-bestandsindelingen en de meest aanbevolen software die hiervan gebruikmaakt.
 
-Heeft u vragen over 3D-bestandsindelingen? Ga naar onze community [forums](https://forum.fileformat.com/c/3d) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
+Heeft u vragen over 3D-bestandsindelingen? Ga naar onze community [forums](https://forum.fileformat.com/c/3d/11) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
 
 ## Lijst met 3D-bestandsextensies en bijbehorende bestandsindelingen
 

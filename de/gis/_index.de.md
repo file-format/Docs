@@ -22,7 +22,7 @@ Eine GIS-Kartendatei (Geographic Information System) besteht aus räumlichen ode
 
 Gängige GIS-Dateierweiterungen und ihre Dateiformate umfassen **[GPX](/de/gis/gpx/)** (GPS Exchange File Format), **[KML](/de/gis/kml/)** (Keyhole Markup Language File) und **[SHP](/de/gis/shp/)** (ESRI Shapefile).
 
-Haben Sie Fragen zu GIS-Dateiformaten? Besuchen Sie unsere Community [Foren](https://forum.fileformat.com/c/gis), um vom Wissen der Dateiformatexperten zu profitieren.
+Haben Sie Fragen zu GIS-Dateiformaten? Besuchen Sie unsere Community [Foren](https://forum.fileformat.com/c/gis/7), um vom Wissen der Dateiformatexperten zu profitieren.
 
 ## Liste der GIS-Dateierweiterungen und zugehörigen Dateiformate
 Nachfolgend finden Sie eine Liste gängiger GIS-Dateiformate mit ihren Dateierweiterungen.

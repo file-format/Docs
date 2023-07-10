@@ -110,5 +110,5 @@ Sterta rozpoczyna się natychmiast po skompresowanym toc. Jest to nieustrukturyz
 ## Bibliografia
 
 * [XAR](https://github.com/mackyle/xar/wiki/xarformat)
-* [XAR - Wikipedia](https://en.wikipedia.org/wiki/Xar_(archiwizator))
+* [XAR - Wikipedia](https://en.wikipedia.org/wiki/Xar_(archiver))
 

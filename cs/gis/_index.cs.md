@@ -22,7 +22,7 @@ Mapový soubor GIS (Geographic Information System) se skládá z prostorových n
 
 Mezi běžné přípony souborů GIS a jejich formáty souborů patří **[GPX](/cs/gis/gpx/)** (formát souboru GPS Exchange), **[KML](/cs/gis/kml/)** (soubor Keyhole Markup Language File) a **[SHP](/cs/gis/shp/)** (ESRI Shapefile).
 
-Máte dotazy týkající se formátů souborů GIS? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/gis), abyste mohli těžit ze znalostí sdílených odborníky na formát souborů.
+Máte dotazy týkající se formátů souborů GIS? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/gis/7), abyste mohli těžit ze znalostí sdílených odborníky na formát souborů.
 
 ## Seznam přípon souborů GIS a souvisejících formátů souborů
 Následuje seznam běžných formátů souborů GIS spolu s jejich příponami.

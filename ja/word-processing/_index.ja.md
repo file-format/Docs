@@ -22,7 +22,7 @@
 
 一般的なプレーン テキスト ファイルの拡張子と関連するファイル形式には、**[TXT](/word-processing/txt/)**、**[CSV](/spreadsheet/csv/)** などがありますが、リッチ テキスト ドキュメントのファイル拡張子には次のものがあります。 **[DOCX](/word-processing/docx/)**、**[DOC](/word-processing/doc/)**、**[RTF](/word-processing/rtf/)** .
 
-ワード プロセッシング ファイル形式に関するクエリをお持ちですか?コミュニティ [フォーラム](https://forum.fileformat.com/c/word-processing) にアクセスして、ファイル形式の専門家が共有する知識を活用してください。
+ワード プロセッシング ファイル形式に関するクエリをお持ちですか?コミュニティ [フォーラム](https://forum.fileformat.com/c/word-processing/5) にアクセスして、ファイル形式の専門家が共有する知識を活用してください。
 
 # ワープロ ファイルの拡張子と関連するファイル形式のリスト
 

@@ -27,7 +27,7 @@ Az OST (Offline Storage Table) és a [PST](/hu/email/pst/) (Personal Storage Tab
 * 32 bites ANSI formátum
 * 64 bites Unicode formátum
 
-A Microsofttól elérhető PST-fájlformátum [specifikáció](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) az OST-fájlformátumra is alkalmazható ingyenes és visszavonhatatlan szabadalmi licensz az Open Specification Promise révén. A következő megkülönböztethető elemekből áll:
+A Microsofttól elérhető PST-fájlformátum [specifikáció](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546) az OST-fájlformátumra is alkalmazható ingyenes és visszavonhatatlan szabadalmi licensz az Open Specification Promise révén. A következő megkülönböztethető elemekből áll:
 
 * Fle fejléc
 * Fájlfejléc adatok
@@ -78,6 +78,6 @@ A fejléc egy 4 bájtos varázsszóval kezdődik **!BDN**, amelyet bájtok képv
 
 ## Hivatkozások
 
-* [Outlook Personal Folders (.ost) fájlformátum](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [A személyes mappa fájlformátumának specifikációi](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Outlook Personal Folders (.ost) fájlformátum](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [A személyes mappa fájlformátumának specifikációi](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

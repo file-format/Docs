@@ -22,7 +22,7 @@ Programmierdateien sind Quellcodedateien, die von Programmiersprachen zum Schrei
 
 Gängige Dateierweiterungen für Entwickler oder Programmierer und die zugehörigen Dateiformate sind **[C#](/de/programming/cs/)** (CSharp Source Code File), **[CPP](/de/programming/cpp/)** (C++ Source File) und **[VB](/de/programming/vb/)** (Visual Basic Source Code File).
 
-Haben Sie Fragen zur Programmierung von Dateiformaten? Besuchen Sie unsere Community [Foren](https://forum.fileformat.com/c/programming), um vom Wissen der Dateiformatexperten zu profitieren.
+Haben Sie Fragen zur Programmierung von Dateiformaten? Besuchen Sie unsere Community [Foren](https://forum.fileformat.com/c/programming/26), um vom Wissen der Dateiformatexperten zu profitieren.
 
 ## Liste der Programmierdateierweiterungen und zugehörigen Dateiformate
 

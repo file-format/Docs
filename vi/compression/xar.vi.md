@@ -110,5 +110,5 @@ Heap bắt đầu ngay sau toc được nén. Đó là một đống dữ liệu
 ## Người giới thiệu
 
 * [XAR](https://github.com/mackyle/xar/wiki/xarformat)
-* [XAR - Wikipedia](https://vi.wikipedia.org/wiki/Xar_(archiver))
+* [XAR - Wikipedia](https://en.wikipedia.org/wiki/Xar_(archiver))
 

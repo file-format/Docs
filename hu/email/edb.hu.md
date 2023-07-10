@@ -80,5 +80,5 @@ Ezek alapján az adatbázis állapota a következőképpen értékelhető.
  
 
 ## Hivatkozások
-* [Extensible Storage Engine (ESE) adatbázisfájl (EDB) specifikációi](https://github.com/libyal/libesedb/tree/master/documentation)
+* [Extensible Storage Engine (ESE) adatbázisfájl (EDB) specifikációi](https://github.com/libyal/libesedb/tree/main/documentation)
 

@@ -22,7 +22,7 @@ A programozási fájlok olyan forráskód fájlok, amelyeket a programozási nye
 
 A gyakori fejlesztői vagy programozási fájlkiterjesztések és a hozzájuk tartozó fájlformátumok a következők: **[C#](/hu/programming/cs/)** (CSharp Source Code File), **[CPP](/hu/programming/cpp/)** (C++ Source File) és **[VB](/hu/programing/vb/)** (Visual Basic Source Code File).
 
-Kérdései vannak a programozási fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/programming), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
+Kérdései vannak a programozási fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/programming/26), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
 
 ## A programozási fájlkiterjesztések és a kapcsolódó fájlformátumok listája
 

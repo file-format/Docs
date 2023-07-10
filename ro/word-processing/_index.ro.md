@@ -22,7 +22,7 @@ Un fișier de procesare de text conține informații despre utilizator în forma
 
 Extensiile obișnuite de fișiere text simplu și formatele de fișier asociate includ **[TXT](/ro/word-processing/txt/)**, **[CSV](/ro/spreadsheet/csv/)**, în timp ce extensiile de fișiere pentru documentele cu text îmbogățit includ **[DOCX](/ro/word-processing/docx/)**, **[DOC](/ro/word-processing/doc/)** și **[RTF](/ro/word-processing/rtf/)** .
 
-Aveți întrebări legate de formatele de fișiere de procesare a textului? Accesați comunitatea noastră [forumuri](https://forum.fileformat.com/c/word-processing) pentru a beneficia de cunoștințele împărtășite de experții în format de fișiere.
+Aveți întrebări legate de formatele de fișiere de procesare a textului? Accesați comunitatea noastră [forumuri](https://forum.fileformat.com/c/word-processing/5) pentru a beneficia de cunoștințele împărtășite de experții în format de fișiere.
 
 # Lista de extensii de fișiere de procesare a textului și formate de fișiere asociate
 

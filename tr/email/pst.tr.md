@@ -22,7 +22,7 @@
 
 ## PST Dosya Biçimi Özellikleri
 
-PST Dosya biçimi [özellikler](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx), Microsoft'tan Açık Belirtim Sözü aracılığıyla ücretsiz ve geri alınamaz ücretsiz patent lisansı olarak edinilebilir .
+PST Dosya biçimi [özellikler](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546), Microsoft'tan Açık Belirtim Sözü aracılığıyla ücretsiz ve geri alınamaz ücretsiz patent lisansı olarak edinilebilir .
 
 ### PST Biçimlerinin Türü
 
@@ -94,6 +94,6 @@ Güvenlik için, PST dosyaları da parola korumalı olabilir, bu da yükleme uyg
 
 ## Referanslar ##
 
-* [Outlook Kişisel Klasörleri (.pst) Dosya Biçimi](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Kişisel Klasör Dosya Biçimi Özellikleri](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Outlook Kişisel Klasörleri (.pst) Dosya Biçimi](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Kişisel Klasör Dosya Biçimi Özellikleri](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

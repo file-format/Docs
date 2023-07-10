@@ -80,5 +80,5 @@ Op basis hiervan kan de staat van de database als volgt worden beoordeeld.
  
 
 ## Referenties
-* [Extensible Storage Engine (ESE) Database File (EDB) Specificaties](https://github.com/libyal/libesedb/tree/master/documentation)
+* [Extensible Storage Engine (ESE) Database File (EDB) Specificaties](https://github.com/libyal/libesedb/tree/main/documentation)
 

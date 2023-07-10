@@ -31,7 +31,7 @@ glTF 2.0 פורסם ב-5 ביוני 2017 בכנס Web3D 2017. ישנה רשימ�
 
 ## פורמט קובץ GLTF
 
-מפרטי פורמט הקובץ עבור glTF 2.0 זמינים [מקוון](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0) לעיון ויש לעיין בהם בכל יישום הקשור לקריאה/כתיבה לתמיכה ב- פורמט קובץ glTF.
+מפרטי פורמט הקובץ עבור glTF 2.0 זמינים [מקוון](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0) לעיון ויש לעיין בהם בכל יישום הקשור לקריאה/כתיבה לתמיכה ב- פורמט קובץ glTF.
 
 glTF מגדיר נכסים כקובצי JSON עם נתונים חיצוניים תומכים. הוא מייצג מודלים תלת מימדיים בעזרת:
 
@@ -63,7 +63,7 @@ glTF מטיל הגבלות נוספות על פורמט קובץ JSON
 
 **URI נתונים:** URI הנתונים הם כפי שהוגדרו על ידי RFC 2397 ומשמשים את glTF להטמעת משאבים ב-JSON.
 
-**נתיבי URI יחסיים:** או path-noscheme כפי שהוגדרו על ידי RFC 3986, [סעיף 4.2](https://tools.ietf.org/html/rfc3986#section-4.2) - ללא סכמה, סמכות או פרמטרים. תווים שמורים חייבים להיות מקודדים באחוזים, לפי RFC 3986, [סעיף 2.2](https://tools.ietf.org/html/rfc3986#section-2.2).
+**נתיבי URI יחסיים:** או path-noscheme כפי שהוגדרו על ידי RFC 3986, [סעיף 4.2](https://datatracker.ietf.org/doc/html/rfc3986#section-4.2) - ללא סכמה, סמכות או פרמטרים. תווים שמורים חייבים להיות מקודדים באחוזים, לפי RFC 3986, [סעיף 2.2](https://datatracker.ietf.org/doc/html/rfc3986#section-2.2).
 
 ## הפניות ##
 

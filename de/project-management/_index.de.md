@@ -22,7 +22,7 @@ Sind Sie jemals darauf gestoßen und haben sich gefragt, was eine MPP-Datei ist?
 
 Zu den gängigen Projektmanagement-Dateierweiterungen und den zugehörigen Dateiformaten gehören **[MPP](/de/project-management/mpp/)**, **[MPX](/de/project-management/mpx/)** und **[XER](/de/projektmanagement/xer/)**.
 
-Haben Sie Fragen zu Projektmanagement-Dateiformaten? Besuchen Sie unsere Community [Foren](https://forum.fileformat.com/c/project-management), um vom Wissen der Dateiformatexperten zu profitieren.
+Haben Sie Fragen zu Projektmanagement-Dateiformaten? Besuchen Sie unsere Community [Foren](https://forum.fileformat.com/c/project-management/15), um vom Wissen der Dateiformatexperten zu profitieren.
 
 ## Liste der Projektdateierweiterungen und zugehörigen Dateiformate
 

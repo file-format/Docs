@@ -29,7 +29,7 @@ A glTF által használt tartalomszolgáltatási módszerek extra feldolgozást e
 * A glTF JSON külső bináris adatokra (geometria, kulcskeretek, felszínek) és képekre mutat.
 * A glTF JSON base64 kódolású bináris adatokat és képeket ágyaz be, adat-URI-k használatával.
 
-A GLB-t mint tárolóformátumot bináris fájlformátumként vezették be a glTF-eszköz bináris blob-ban való megjelenítéséhez, hogy elkerüljék a glTF által okozott problémákat. A GLB fájlformátum [specifikációja](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0#glb-file-format-specification) hivatkozni kell az alkalmazásfejlesztéshez használt olvasó/író megvalósítására. .
+A GLB-t mint tárolóformátumot bináris fájlformátumként vezették be a glTF-eszköz bináris blob-ban való megjelenítéséhez, hogy elkerüljék a glTF által okozott problémákat. A GLB fájlformátum [specifikációja](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0#glb-file-format-specification) hivatkozni kell az alkalmazásfejlesztéshez használt olvasó/író megvalósítására. .
 
 ## GLB fájlszerkezet
 

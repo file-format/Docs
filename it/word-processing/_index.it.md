@@ -22,7 +22,7 @@ Un file di elaborazione testi contiene informazioni sull'utente in formato testo
 
 Le estensioni di file di testo normale comuni e i formati di file associati includono **[TXT](/it/word-processing/txt/)**, **[CSV](/it/spreadsheet/csv/)**, mentre le estensioni di file per i documenti RTF includono **[DOCX](/it/elaborazione testi/docx/)**, **[DOC](/it/elaborazione testi/doc/)** e **[RTF](/it/elaborazione testi/rtf/)** .
 
-Hai domande relative ai formati di file di elaborazione testi? Visita la nostra community [forum](https://forum.fileformat.com/c/word-processing) per beneficiare delle conoscenze condivise dagli esperti di formati di file.
+Hai domande relative ai formati di file di elaborazione testi? Visita la nostra community [forum](https://forum.fileformat.com/c/word-processing/5) per beneficiare delle conoscenze condivise dagli esperti di formati di file.
 
 # Elenco delle estensioni dei file di elaborazione testi e dei formati di file associati
 

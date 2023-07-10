@@ -110,5 +110,5 @@ Yığın, sıkıştırılmış toc'tan hemen sonra başlar. İçindekiler taraf�
 ## Referanslar
 
 * [XAR](https://github.com/mackyle/xar/wiki/xarformat)
-* [XAR - Wikipedia](https://en.wikipedia.org/wiki/Xar_(arşivleyici))
+* [XAR - Wikipedia](https://en.wikipedia.org/wiki/Xar_(archiver))
 

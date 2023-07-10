@@ -80,5 +80,5 @@ Com base nisso, o estado do banco de dados pode ser avaliado da seguinte forma.
  
 
 ## Referências
-* [Especificações do arquivo de banco de dados (EDB) do mecanismo de armazenamento extensível (ESE)](https://github.com/libyal/libesedb/tree/master/documentation)
+* [Especificações do arquivo de banco de dados (EDB) do mecanismo de armazenamento extensível (ESE)](https://github.com/libyal/libesedb/tree/main/documentation)
 

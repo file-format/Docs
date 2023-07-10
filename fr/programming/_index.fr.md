@@ -22,7 +22,7 @@ Les fichiers de programmation sont des fichiers de code source utilisés par les
 
 Les extensions de fichier de développement ou de programmation courantes et leurs formats de fichier associés incluent **[C#](/fr/programming/cs/)** (fichier de code source CSharp), **[CPP](/fr/programming/cpp/)** (fichier source C++ Fichier) et **[VB](/fr/programming/vb/)** (fichier de code source Visual Basic).
 
-Vous avez des questions concernant les formats de fichiers de programmation ? Rendez-vous sur notre communauté [forums](https://forum.fileformat.com/c/programming) pour bénéficier des connaissances partagées par les experts du format de fichier.
+Vous avez des questions concernant les formats de fichiers de programmation ? Rendez-vous sur notre communauté [forums](https://forum.fileformat.com/c/programming/26) pour bénéficier des connaissances partagées par les experts du format de fichier.
 
 ## Liste des extensions de fichiers de programmation et des formats de fichiers associés
 

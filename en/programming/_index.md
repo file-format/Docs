@@ -22,7 +22,7 @@ Programming files are source code files that are used by programming languages t
 
 Common developer or programming file extensions and their associated file formats include **[C#](/programming/cs/)** (CSharp Source Code File), **[CPP](/programming/cpp/)** (C++ Source File) and **[VB](/programming/vb/)** (Visual Basic Source Code File).
 
-Got queries related to Programming file formats? Head on to our community [forums](https://forum.fileformat.com/c/programming) to benefit from the knowledge shared by File Format experts.
+Got queries related to Programming file formats? Head on to our community [forums](https://forum.fileformat.com/c/programming/26) to benefit from the knowledge shared by File Format experts.
 
 ## List of Programming File Extensions and Associated File Formats
 

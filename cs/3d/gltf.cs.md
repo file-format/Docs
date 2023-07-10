@@ -31,7 +31,7 @@ glTF 2.0 byl publikován 5. června 2017 na konferenci Web3D 2017. Existuje dlou
 
 ## Formát souboru GLTF
 
-Specifikace formátu souboru pro glTF 2.0 jsou k dispozici [online](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0) pro referenci a měly by být konzultovány při jakékoli implementaci související se čtením/zápisem pro podporu formát souboru glTF.
+Specifikace formátu souboru pro glTF 2.0 jsou k dispozici [online](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0) pro referenci a měly by být konzultovány při jakékoli implementaci související se čtením/zápisem pro podporu formát souboru glTF.
 
 glTF definuje aktiva jako soubory JSON s podporou externích dat. Představuje 3D modely pomocí:
 
@@ -63,7 +63,7 @@ Vyrovnávací paměti a zdroje obrázků jsou odkazovány pomocí URI. Klienti m
 
 **URI dat:** Identifikátory URI dat jsou definovány v RFC 2397 a používá je glTF k vkládání zdrojů do JSON.
 
-**Relativní cesty URI:** nebo schéma cesty, jak je definováno v RFC 3986, [část 4.2](https://tools.ietf.org/html/rfc3986#section-4.2) – bez schématu, oprávnění nebo parametrů. Vyhrazené znaky musí být zakódovány v procentech podle RFC 3986, [sekce 2.2](https://tools.ietf.org/html/rfc3986#section-2.2).
+**Relativní cesty URI:** nebo schéma cesty, jak je definováno v RFC 3986, [část 4.2](https://datatracker.ietf.org/doc/html/rfc3986#section-4.2) – bez schématu, oprávnění nebo parametrů. Vyhrazené znaky musí být zakódovány v procentech podle RFC 3986, [sekce 2.2](https://datatracker.ietf.org/doc/html/rfc3986#section-2.2).
 
 ## Reference ##
 

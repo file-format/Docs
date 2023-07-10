@@ -22,5 +22,5 @@ Microsfot Visio je součástí sady Microsoft Office a používá se pro vytvá�
 
 Formáty souborů Visio zahrnují typy souborů jako **[VSDX](/cs/visio/vsdx/)**, **[VSX](/cs/visio/vsx/)**, VTX, VDX, **[VSSX](/cs/visio /vssx/)**, VSTX, VSDM, VSSM, VSTM formát souboru, který se uloží na disk, když uživatel vytvoří projekt v aplikaci Microsoft Visio a uloží jej na disk. Následuje seznam formátů souborů aplikace Publisher.
 
-Máte dotazy týkající se formátů souborů aplikace Visio? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/visio/), kde můžete těžit ze znalostí sdílených odborníky na formát souborů.
+Máte dotazy týkající se formátů souborů aplikace Visio? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/visio/31), kde můžete těžit ze znalostí sdílených odborníky na formát souborů.
 

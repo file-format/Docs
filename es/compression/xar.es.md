@@ -110,5 +110,5 @@ El montón comienza inmediatamente después del toc comprimido. Es un montón de
 ## Referencias
 
 * [XAR](https://github.com/mackyle/xar/wiki/xarformat)
-* [XAR - Wikipedia](https://en.wikipedia.org/wiki/Xar_(archivador))
+* [XAR - Wikipedia](https://en.wikipedia.org/wiki/Xar_(archiver))
 

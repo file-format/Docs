@@ -63,7 +63,7 @@ Bộ đệm và tài nguyên hình ảnh được tham chiếu qua URI. Hai lo�
 
 **URI dữ liệu:** URI dữ liệu được xác định theo RFC 2397 và được glTF sử dụng để nhúng tài nguyên vào JSON.
 
-**Đường dẫn URI tương đối:** hoặc đường dẫn-noscheme như được định nghĩa bởi RFC 3986, [Phần 4.2](https://tools.ietf.org/html/rfc3986#section-4.2) — không có lược đồ, quyền hoặc tham số. Các ký tự dành riêng phải được mã hóa theo phần trăm, theo RFC 3986, [Mục 2.2](https://tools.ietf.org/html/rfc3986#section-2.2).
+**Đường dẫn URI tương đối:** hoặc đường dẫn-noscheme như được định nghĩa bởi RFC 3986, [Phần 4.2](https://datatracker.ietf.org/doc/html/rfc3986#section-4.2) — không có lược đồ, quyền hoặc tham số. Các ký tự dành riêng phải được mã hóa theo phần trăm, theo RFC 3986, [Mục 2.2](https://datatracker.ietf.org/doc/html/rfc3986#section-2.2).
 
 ## Người giới thiệu ##
 

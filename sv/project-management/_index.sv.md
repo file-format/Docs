@@ -22,7 +22,7 @@ Har du någonsin stött på och undrat vad en MPP-fil är? MPP och andra liknand
 
 Vanliga filtillägg för projektledning och deras tillhörande filformat inkluderar **[MPP](/sv/project-management/mpp/)**, **[MPX](/sv/project-management/mpx/)** och **[XER](/sv/project-management/xer/)**.
 
-Har du frågor relaterade till Project Management-filformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/project-management) för att dra nytta av kunskapen som delas av filformatsexperter.
+Har du frågor relaterade till Project Management-filformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/project-management/15) för att dra nytta av kunskapen som delas av filformatsexperter.
 
 ## Lista över projektfiltillägg och associerade filformat
 

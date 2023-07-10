@@ -80,5 +80,5 @@ EDB 데이터베이스 파일에는 데이터베이스의 모든 테이블에 �
  
 
 ## 참고문헌
-* [ESE(Extensible Storage Engine) 데이터베이스 파일(EDB) 사양](https://github.com/libyal/libesedb/tree/master/documentation)
+* [ESE(Extensible Storage Engine) 데이터베이스 파일(EDB) 사양](https://github.com/libyal/libesedb/tree/main/documentation)
 

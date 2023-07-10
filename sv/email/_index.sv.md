@@ -19,7 +19,7 @@
 
 Har du någonsin stött på e-postfilformat och misslyckats med att öppna det? Du har kommit till rätt ställe, vi ska förklara vad e-postfilformat är och vilka rekommenderade program som kan öppna eller använda dem. E-postfilformat används av e-postprogram för att lagra deras olika data inklusive e-postmeddelanden, bilagor, mappar, adressböcker etc. E-postfilformat är huvudsakligen associerade med Outlook Express e-postmeddelandefil. Ytterligare filtyper kan också använda filändelsen Email. Det finns flera vanliga filtyper som används när det gäller e-post. Nedan är listan över de mest populära filformaten som används av olika e-postklienter för att lagra e-postmeddelanden och annan relaterad data.
 
-Har du frågor relaterade till e-postfilformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/email) för att dra nytta av kunskapen som delas av filformatsexperter.
+Har du frågor relaterade till e-postfilformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/email/14) för att dra nytta av kunskapen som delas av filformatsexperter.
 
 ## Lista över e-postfiltillägg och associerade filformat
 

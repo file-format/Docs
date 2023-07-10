@@ -22,7 +22,7 @@
 
 일반적인 일반 텍스트 파일 확장자 및 관련 파일 형식에는 **[TXT](/ko/word-processing/txt/)**, **[CSV](/ko/spreadsheet/csv/)**가 포함되며 서식 있는 텍스트 문서의 파일 확장자는 다음을 포함합니다. **[DOCX](/ko/워드 프로세싱/docx/)**, **[DOC](/ko/워드 프로세싱/doc/)** 및 **[RTF](/ko/워드 프로세싱/rtf/)** .
 
-워드 프로세싱 파일 형식과 관련된 쿼리가 있습니까? 커뮤니티 [포럼](https://forum.fileformat.com/c/word-processing)으로 이동하여 파일 형식 전문가가 공유하는 지식을 활용하십시오.
+워드 프로세싱 파일 형식과 관련된 쿼리가 있습니까? 커뮤니티 [포럼](https://forum.fileformat.com/c/word-processing/5)으로 이동하여 파일 형식 전문가가 공유하는 지식을 활용하십시오.
 
 # 워드 프로세싱 파일 확장자 및 관련 파일 형식 목록
 

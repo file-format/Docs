@@ -18,7 +18,7 @@
 
 ## Che cos'è un file SSF?
 
-Un file con file .ssf è un formato di file di archiviazione dati geospaziale utilizzato dalle applicazioni software GIS di navigazione [Trimble](https://www.trimble.com). Memorizza i dati GPS registrati dal campo utilizzando i dispositivi Trimble. Il registro GPS viene quindi importato in una delle applicazioni della suite di applicazioni Trimble. Il registro GPS contenuto in un SSF viene utilizzato per creare sistemi di coordinate personalizzati. I file SSF possono essere aperti con [Trimble Navigation GPS Pathfinder Office](https://geospatial.trimble.com/products-and-solutions/gps-pathfinder-office), Trimble Navigation GPS Pathfinder Tools SDK e ESRI ArcGIS for Desktop con Plug-in Trimble GPS Analyst.
+Un file con file .ssf è un formato di file di archiviazione dati geospaziale utilizzato dalle applicazioni software GIS di navigazione [Trimble](https://www.trimble.com). Memorizza i dati GPS registrati dal campo utilizzando i dispositivi Trimble. Il registro GPS viene quindi importato in una delle applicazioni della suite di applicazioni Trimble. Il registro GPS contenuto in un SSF viene utilizzato per creare sistemi di coordinate personalizzati. I file SSF possono essere aperti con [Trimble Navigation GPS Pathfinder Office](https://geospatial.trimble.com/products-and-solutions/ssf-and-ddf-data-format-extensions-fme), Trimble Navigation GPS Pathfinder Tools SDK e ESRI ArcGIS for Desktop con Plug-in Trimble GPS Analyst.
 
 ## Formato file SSF - Ulteriori informazioni
 

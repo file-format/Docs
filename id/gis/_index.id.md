@@ -22,7 +22,7 @@ File peta GIS (Geographic Information System) terdiri dari informasi spasial ata
 
 Ekstensi file GIS umum dan format filenya termasuk **[GPX](/id/gis/gpx/)** (GPS Exchange File Format), **[KML](/id/gis/kml/)** (Keyhole Markup Language File) dan **[SHP](/id/gis/shp/)** (ESRI Shapefile).
 
-Punya pertanyaan terkait format file GIS? Kunjungi [forum](https://forum.fileformat.com/c/gis) komunitas kami untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
+Punya pertanyaan terkait format file GIS? Kunjungi [forum](https://forum.fileformat.com/c/gis/7) komunitas kami untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
 
 ## Daftar Ekstensi File GIS dan Format File Terkait
 Berikut adalah daftar format file GIS yang umum beserta ekstensi filenya.

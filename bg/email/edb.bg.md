@@ -80,5 +80,5 @@
  
 
 ## Препратки
-* [Спецификации на файл с база данни (EDB) на Extensible Storage Engine (ESE)](https://github.com/libyal/libesedb/tree/master/documentation)
+* [Спецификации на файл с база данни (EDB) на Extensible Storage Engine (ESE)](https://github.com/libyal/libesedb/tree/main/documentation)
 

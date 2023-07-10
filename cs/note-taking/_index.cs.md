@@ -21,7 +21,7 @@ Soubory programu pro psaní poznámek obsahují oddíly a stránky pro ukládán
 
 Mezi běžné přípony souborů OneNotu a jejich přidružené formáty souborů patří **[.ONE](/cs/note-taking/one/)** a jeho soubor s obsahem **[.ONETOC2](/cs/note-taking/onetoc2/)** .
 
-Máte dotazy týkající se formátů souborů prostředí Notes? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/note-taking), abyste mohli těžit ze znalostí sdílených odborníky na formát souborů.
+Máte dotazy týkající se formátů souborů prostředí Notes? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/note-taking/23), abyste mohli těžit ze znalostí sdílených odborníky na formát souborů.
 
 ## Seznam poznámek s příponami souborů a souvisejících formátů souborů
 Následuje seznam běžných formátů souborů s poznámkami spolu s jejich příponami.

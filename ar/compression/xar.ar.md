@@ -110,5 +110,5 @@ struct xar_header {
 ## مراجع
 
 * [XAR](https://github.com/mackyle/xar/wiki/xarformat)
-* [XAR - ويكيبيديا](https://en.wikipedia.org/wiki/Xar_ (أرشيفي))
+* [XAR - ويكيبيديا](https://en.wikipedia.org/wiki/Xar_(archiver))
 

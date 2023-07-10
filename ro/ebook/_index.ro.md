@@ -19,7 +19,7 @@
 
 Fișierele Ebook sunt fișiere electronice care pot fi deschise pe dispozitive digitale cunoscute sub numele de eReaders. Un eReader poate fi orice dispozitiv, cum ar fi un computer, o tabletă sau un smartphone. Cel mai popular format de fișier ebook este ePub bazat pe XML. O carte electronică poate conține diferite tipuri de conținut, cum ar fi text, imagine și video. Extensiile obișnuite de fișiere pentru cărți electronice și formatele lor de fișiere includ **[EPUB](/ro/ebook/epub/)** (publicație electronică), **[FB2](/ro/ebook/fb2/)** (FictionBook 2.0) și **[ Mobi](/ro/ebook/mobi/)** (Fișier MobiPocket eBook).
 
-Aveți întrebări legate de formatele de fișiere Ebook? Accesați comunitatea noastră [forumuri](https://forum.fileformat.com/c/ebook) pentru a beneficia de cunoștințele împărtășite de experții în format de fișiere.
+Aveți întrebări legate de formatele de fișiere Ebook? Accesați comunitatea noastră [forumuri](https://forum.fileformat.com/c/ebook/25) pentru a beneficia de cunoștințele împărtășite de experții în format de fișiere.
 
 ## Lista de extensii de fișiere EBook și formate de fișiere asociate
 

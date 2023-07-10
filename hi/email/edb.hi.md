@@ -80,5 +80,5 @@ EDB डेटाबेस फ़ाइल में डेटाबेस मे
  
 
 ## संदर्भ
-* [एक्स्टेंसिबल स्टोरेज इंजन (ESE) डेटाबेस फाइल (EDB) स्पेसिफिकेशंस](https://github.com/libyal/libesedb/tree/master/documentation)
+* [एक्स्टेंसिबल स्टोरेज इंजन (ESE) डेटाबेस फाइल (EDB) स्पेसिफिकेशंस](https://github.com/libyal/libesedb/tree/main/documentation)
 

@@ -31,7 +31,7 @@ glTF 2.0 diterbitkan pada 5 Juni 2017 di Web3D 2017 Conference. Ada daftar panja
 
 ## Format File GLTF
 
-Spesifikasi format file untuk glTF 2.0 tersedia [online](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0) untuk referensi dan harus dikonsultasikan dalam implementasi apa pun yang terkait dengan membaca/menulis untuk dukungan format file glTF.
+Spesifikasi format file untuk glTF 2.0 tersedia [online](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0) untuk referensi dan harus dikonsultasikan dalam implementasi apa pun yang terkait dengan membaca/menulis untuk dukungan format file glTF.
 
 glTF mendefinisikan aset sebagai file JSON dengan data eksternal pendukung. Ini mewakili model 3D dengan bantuan:
 
@@ -63,7 +63,7 @@ Buffer dan resource Gambar direferensikan melalui URI. Dua jenis URI berikut har
 
 **Data URI:** Data URI ditentukan oleh RFC 2397 dan digunakan oleh glTF untuk menyematkan resource di JSON.
 
-**Jalur URI Relatif:** atau skema jalur seperti yang didefinisikan oleh RFC 3986, [Bagian 4.2](https://tools.ietf.org/html/rfc3986#section-4.2) — tanpa skema, otoritas, atau parameter. Karakter yang dicadangkan harus dikodekan dalam persen, sesuai RFC 3986, [Bagian 2.2](https://tools.ietf.org/html/rfc3986#section-2.2).
+**Jalur URI Relatif:** atau skema jalur seperti yang didefinisikan oleh RFC 3986, [Bagian 4.2](https://datatracker.ietf.org/doc/html/rfc3986#section-4.2) — tanpa skema, otoritas, atau parameter. Karakter yang dicadangkan harus dikodekan dalam persen, sesuai RFC 3986, [Bagian 2.2](https://datatracker.ietf.org/doc/html/rfc3986#section-2.2).
 
 ## Referensi ##
 

@@ -21,7 +21,7 @@ Er zijn een aantal bestandstypen nodig bij het bouwen van een webpagina. Webbest
 
 Veelgebruikte webbestandsextensies en de bijbehorende bestandsindelingen zijn **[HTML](/nl/web/html/)** (Hypertext Markup Language), **[ASP](/nl/web/asp/) (Active Server Pages)**, en **CSS** (Cascading Style Sheets).
 
-Heeft u vragen over webbestandsindelingen? Ga naar onze community [forums](https://forum.fileformat.com/c/web) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
+Heeft u vragen over webbestandsindelingen? Ga naar onze community [forums](https://forum.fileformat.com/c/web/13) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
 
 ## Lijst met webbestandsextensies en bijbehorende bestandsindelingen
 

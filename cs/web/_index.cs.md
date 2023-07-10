@@ -21,7 +21,7 @@ Při vytváření webové stránky je zapotřebí několik typů souborů. Webov
 
 Mezi běžné webové přípony souborů a jejich přidružené formáty souborů patří **[HTML](/cs/web/html/)** (Hypertext Markup Language), **[ASP](/cs/web/asp/) (Active Server Pages)**, a **CSS** (Cascading Style Sheets).
 
-Máte dotazy týkající se formátů webových souborů? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/web), kde můžete těžit ze znalostí sdílených odborníky na formát souborů.
+Máte dotazy týkající se formátů webových souborů? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/web/13), kde můžete těžit ze znalostí sdílených odborníky na formát souborů.
 
 ## Seznam přípon webových souborů a souvisejících formátů souborů
 

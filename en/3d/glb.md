@@ -29,7 +29,7 @@ The content delivery methods used by glTF result in extra processing to decode t
 * glTF JSON points to external binary data (geometry, key frames, skins), and images.
 * glTF JSON embeds base64-encoded binary data, and images inline using data URIs.
 
-GLB as a container format was introduced as binary file format for representation of glTF asset in a binary blob to avoid the issues caused by glTF. GLB file format [specifications](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0#glb-file-format-specification) should be referred for any reader/writer implementation of the same for applications development.
+GLB as a container format was introduced as binary file format for representation of glTF asset in a binary blob to avoid the issues caused by glTF. GLB file format [specifications](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0#glb-file-format-specification) should be referred for any reader/writer implementation of the same for applications development.
 
 ## GLB File Structure
 

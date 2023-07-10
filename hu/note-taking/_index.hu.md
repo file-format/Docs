@@ -21,7 +21,7 @@ A jegyzetkészítő programfájlok szakaszokat és oldalakat tartalmaznak a jegy
 
 A OneNote általános fájlkiterjesztései és a hozzájuk tartozó fájlformátumok közé tartozik a **[.ONE](/hu/note-taking/one/)** és a hozzá tartozó tartalomjegyzékfájl: **[.ONETOC2](/hu/note-taking/onetoc2/)** .
 
-Kérdései vannak a Notes fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/note-taking), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
+Kérdései vannak a Notes fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/note-taking/23), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
 
 ## Feljegyzések listája a fájlkiterjesztésekről és a kapcsolódó fájlformátumokról
 Az alábbiakban felsoroljuk a gyakori jegyzetelési fájlformátumokat a fájlkiterjesztésekkel együtt.

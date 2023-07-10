@@ -19,7 +19,7 @@
 
 Pernahkah Anda menemukan format file Email dan gagal membukanya? Anda telah datang ke tempat yang tepat, kami akan menjelaskan apa itu format file Email dan perangkat lunak apa yang disarankan untuk membuka atau menggunakannya. Format file email digunakan oleh aplikasi email untuk menyimpan berbagai datanya termasuk pesan email, lampiran, folder, buku alamat, dll. Format file email terutama terkait dengan file Pesan Email Outlook Express. Jenis file tambahan mungkin juga menggunakan ekstensi file Email. Ada beberapa jenis file umum yang digunakan berkaitan dengan email. Di bawah ini adalah daftar format file terpopuler yang digunakan oleh berbagai klien email untuk menyimpan pesan email dan data terkait lainnya.
 
-Punya pertanyaan terkait format file Email? Kunjungi [forum](https://forum.fileformat.com/c/email) komunitas kami untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
+Punya pertanyaan terkait format file Email? Kunjungi [forum](https://forum.fileformat.com/c/email/14) komunitas kami untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
 
 ## Daftar Ekstensi File Email dan Format File Terkait
 

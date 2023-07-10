@@ -19,7 +19,7 @@
 
 Os arquivos de ebook são arquivos eletrônicos que podem ser abertos em dispositivos digitais conhecidos como eReaders. Um eReader pode ser qualquer dispositivo, como um computador, um tablet ou um smartphone. O formato de arquivo de ebook mais popular é o ePub baseado em XML. Um ebook pode conter diferentes tipos de conteúdo, como texto, imagem e vídeo. As extensões comuns de arquivo de e-book e seus formatos de arquivo incluem **[EPUB](/pt/ebook/epub/)** (publicação eletrônica), **[FB2](/pt/ebook/fb2/)** (FictionBook 2.0) e **[ Mobi](/pt/ebook/mobi/)** (Arquivo de eBook MobiPocket).
 
-Tem dúvidas relacionadas a formatos de arquivo de Ebook? Acesse nossa comunidade [fóruns](https://forum.fileformat.com/c/ebook) para se beneficiar do conhecimento compartilhado por especialistas em formato de arquivo.
+Tem dúvidas relacionadas a formatos de arquivo de Ebook? Acesse nossa comunidade [fóruns](https://forum.fileformat.com/c/ebook/25) para se beneficiar do conhecimento compartilhado por especialistas em formato de arquivo.
 
 ## Lista de Extensões de Arquivo de EBook e Formatos de Arquivo Associados
 

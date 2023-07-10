@@ -28,7 +28,7 @@ Un format de fișier imagine este o metodă standard pentru organizarea și stoc
 
 **Imaginile vectoriale** sunt definite de puncte 2D, în loc de pixeli, care sunt conectați pentru a da o formă geometrică imaginii. Punctele au proprietăți care definesc direcția traseelor, culoarea, forma, curba, grosimea și umplerea. Extensiile obișnuite de fișiere vectoriale și formatele de fișiere ale acestora includ **[SVG](/ro/page-description-language/svg/)** (grafică vectorială scalabilă), **[EPS](/ro/page-description-language/eps/) ** (limbaj PostScript încapsulat) și **[PDF](/ro/pdf/)** (Format de document portabil).
 
-Aveți întrebări legate de formatele de fișiere imagine? Accesați comunitatea noastră [forumuri](https://forum.fileformat.com/c/image) pentru a beneficia de cunoștințele împărtășite de experții în format de fișiere.
+Aveți întrebări legate de formatele de fișiere imagine? Accesați comunitatea noastră [forumuri](https://forum.fileformat.com/c/image/9) pentru a beneficia de cunoștințele împărtășite de experții în format de fișiere.
 
 ## Lista de extensii de fișiere imagine și formate de fișiere asociate
 Mai jos este o listă de formate comune de fișiere Imagine împreună cu extensiile lor de fișiere.

@@ -31,7 +31,7 @@ A glTF 2.0 2017. június 5-én jelent meg a Web3D 2017 konferencián. Hosszú az
 
 ## GLTF fájlformátum
 
-A glTF 2.0 fájlformátum-specifikációi [online](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0) elérhetők referenciaként, és minden olvasással/írással kapcsolatos implementációnál tanulmányozni kell őket a glTF fájlformátum.
+A glTF 2.0 fájlformátum-specifikációi [online](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0) elérhetők referenciaként, és minden olvasással/írással kapcsolatos implementációnál tanulmányozni kell őket a glTF fájlformátum.
 
 A glTF az eszközöket külső adatokat támogató JSON-fájlokként határozza meg. 3D-s modelleket ábrázol a következőkkel:
 
@@ -63,7 +63,7 @@ A pufferekre és a képforrásokra URI-k hivatkoznak. A következő két URI-tí
 
 **Adat URI-k:** Az adat-URI-kat az RFC 2397 határozza meg, és a glTF használja az erőforrások JSON-ba ágyazására.
 
-**Relatív URI-útvonalak:** vagy az RFC 3986 [4.2. szakasza](https://tools.ietf.org/html/rfc3986#section-4.2) által meghatározott útvonal-nosséma – séma, jogosultság vagy paraméterek nélkül. A fenntartott karaktereknek százalékos kódolásúaknak kell lenniük az RFC 3986 [2.2. szakasza] szerint (https://tools.ietf.org/html/rfc3986#section-2.2).
+**Relatív URI-útvonalak:** vagy az RFC 3986 [4.2. szakasza](https://datatracker.ietf.org/doc/html/rfc3986#section-4.2) által meghatározott útvonal-nosséma – séma, jogosultság vagy paraméterek nélkül. A fenntartott karaktereknek százalékos kódolásúaknak kell lenniük az RFC 3986 [2.2. szakasza] szerint (https://datatracker.ietf.org/doc/html/rfc3986#section-2.2).
 
 ## Hivatkozások ##
 

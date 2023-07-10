@@ -49,6 +49,6 @@ ASCX फाइलें सादे पाठ प्रारूप में �
 ```
 ## संदर्भ
 
-* [एएससीएक्स बनाम एएसएमएक्स](https://forums.asp.net/t/1838934.aspx?How+to+work+with+ascx+files+)
+* [एएससीएक्स बनाम एएसएमएक्स](https://social.msdn.microsoft.com/Forums/en-US/a27d4c2f-b972-439e-a7fe-f4b7e3637700/how-to-work-with-ascx-files?forum=aspwebforms)
 * [एएससीएक्स उपयोगकर्ता नियंत्रण](http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

@@ -28,7 +28,7 @@
 
 **벡터 이미지**는 픽셀 대신 2D 포인트로 정의되며 이미지에 기하학적 모양을 제공하기 위해 연결됩니다. 점에는 경로, 색상, 모양, 곡선, 두께 및 채우기의 방향을 정의하는 속성이 있습니다. 일반적인 벡터 이미지 파일 확장자와 해당 파일 형식에는 **[SVG](/ko/page-description-language/svg/)**(Scalable Vector Graphics), **[EPS](/ko/page-description-language/eps/)가 포함됩니다. **(캡슐화된 PostScript 언어) 및 **[PDF](/ko/pdf/)**(Portable Document Format).
 
-이미지 파일 형식과 관련된 쿼리가 있습니까? 커뮤니티 [포럼](https://forum.fileformat.com/c/image)으로 이동하여 파일 형식 전문가가 공유하는 지식을 활용하십시오.
+이미지 파일 형식과 관련된 쿼리가 있습니까? 커뮤니티 [포럼](https://forum.fileformat.com/c/image/9)으로 이동하여 파일 형식 전문가가 공유하는 지식을 활용하십시오.
 
 ## 이미지 파일 확장자 및 관련 파일 형식 목록
 다음은 파일 확장자와 함께 일반적인 이미지 파일 형식 목록입니다.

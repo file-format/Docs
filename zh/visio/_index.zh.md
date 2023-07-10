@@ -22,5 +22,5 @@ Microsfot Visio 是 Microsoft Office 套件的一部分，用于图表和矢量�
 
 Visio 文件格式包括 **[VSDX](/zh/visio/vsdx/)**、**[VSX](/zh/visio/vsx/)**、VTX、VDX、**[VSSX](/zh/visio /vssx/)**、VSTX、VSDM、VSSM、VSTM 文件格式，当用户在 Microsoft Visio 中创建项目并将其保存到光盘时保存到光盘。以下是发布者文件格式的列表。
 
-有与 Visio 文件格式相关的查询吗？前往我们的社区 [论坛](https://forum.fileformat.com/c/visio/)，从文件格式专家分享的知识中获益。
+有与 Visio 文件格式相关的查询吗？前往我们的社区 [论坛](https://forum.fileformat.com/c/visio/31)，从文件格式专家分享的知识中获益。
 

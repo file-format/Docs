@@ -27,7 +27,7 @@ Formát souborů OST (Offline Storage Table) a [PST](/cs/email/pst/) (Personal S
 * 32bitový formát ANSI
 * 64bitový formát Unicode
 
-Formát souboru PST [specifikace](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx), jak je dostupný od společnosti Microsoft, lze také použít pro formát souborů OST jako bezplatný a neodvolatelné patentové licencování prostřednictvím Open Specification Promise. Skládá se z následujících rozlišitelných prvků:
+Formát souboru PST [specifikace](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546), jak je dostupný od společnosti Microsoft, lze také použít pro formát souborů OST jako bezplatný a neodvolatelné patentové licencování prostřednictvím Open Specification Promise. Skládá se z následujících rozlišitelných prvků:
 
 * Fle hlavička
 * Data záhlaví souboru
@@ -78,6 +78,6 @@ Záhlaví začíná 4bajtovým magickým slovem **!BDN** reprezentovaným byty (
 
 ## Reference
 
-* [Formát souboru osobních složek Outlooku (.ost)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Specifikace formátu souboru osobních složek](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Formát souboru osobních složek Outlooku (.ost)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Specifikace formátu souboru osobních složek](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

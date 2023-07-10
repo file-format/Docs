@@ -31,7 +31,7 @@ glTF 2.0 werd op 5 juni 2017 gepubliceerd op de Web3D 2017 Conference. Er is een
 
 ## GLTF-bestandsindeling
 
-De specificaties van het bestandsformaat voor glTF 2.0 zijn beschikbaar [online](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0) ter referentie en moeten worden geraadpleegd in elke implementatie met betrekking tot lezen/schrijven voor ondersteuning van glTF-bestandsindeling.
+De specificaties van het bestandsformaat voor glTF 2.0 zijn beschikbaar [online](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0) ter referentie en moeten worden geraadpleegd in elke implementatie met betrekking tot lezen/schrijven voor ondersteuning van glTF-bestandsindeling.
 
 glTF definieert activa als JSON-bestanden met ondersteunende externe gegevens. Het vertegenwoordigt 3D-modellen met behulp van:
 
@@ -63,7 +63,7 @@ Er wordt verwezen naar buffers en afbeeldingsbronnen via URI's. De volgende twee
 
 **Gegevens-URI's:** De gegevens-URI's zijn zoals gedefinieerd door de RFC 2397 en worden door glTF gebruikt om bronnen in de JSON in te sluiten.
 
-**Relatieve URI-paden:** of path-noscheme zoals gedefinieerd door RFC 3986, [Section 4.2](https://tools.ietf.org/html/rfc3986#section-4.2) — zonder schema, autoriteit of parameters. Gereserveerde tekens moeten procentgecodeerd zijn, volgens RFC 3986, [Sectie 2.2](https://tools.ietf.org/html/rfc3986#section-2.2).
+**Relatieve URI-paden:** of path-noscheme zoals gedefinieerd door RFC 3986, [Section 4.2](https://datatracker.ietf.org/doc/html/rfc3986#section-4.2) — zonder schema, autoriteit of parameters. Gereserveerde tekens moeten procentgecodeerd zijn, volgens RFC 3986, [Sectie 2.2](https://datatracker.ietf.org/doc/html/rfc3986#section-2.2).
 
 ## Referenties ##
 

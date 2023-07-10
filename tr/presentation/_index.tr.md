@@ -22,7 +22,7 @@
 
 Yaygın Sunum dosya uzantıları ve ilişkili dosya biçimleri arasında **[PPTX](/tr/sunum/pptx/)**, **[PPT](/tr/sunum/ppt/)** ve **[ODP](/tr/sunum/odp) bulunur /)**.
 
-Sunum dosyası biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/presentation) gidin.
+Sunum dosyası biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/presentation/8) gidin.
 
 ## Sunum Dosyası Uzantılarının ve İlişkili Dosya Biçimlerinin Listesi
 

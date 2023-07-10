@@ -110,5 +110,5 @@ Tumpukan dimulai segera setelah toc terkompresi. Ini adalah tumpukan data tidak 
 ## Referensi
 
 * [XAR](https://github.com/mackyle/xar/wiki/xarformat)
-* [XAR - Wikipedia](https://en.wikipedia.org/wiki/Xar_(arsip))
+* [XAR - Wikipedia](https://en.wikipedia.org/wiki/Xar_(archiver))
 

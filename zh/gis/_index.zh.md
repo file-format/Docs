@@ -22,7 +22,7 @@ GIS（地理信息系统）地图文件由有关特定位置或区域的空间�
 
 常见的 GIS 文件扩展名及其文件格式包括 **[GPX](/zh/gis/gpx/)**（GPS 交换文件格式）、**[KML](/zh/gis/kml/)**（Keyhole 标记语言文件）和 **[SHP](/zh/gis/shp/)** (ESRI Shapefile)。
 
-有与 GIS 文件格式相关的查询吗？前往我们的社区 [论坛](https://forum.fileformat.com/c/gis)，从文件格式专家分享的知识中获益。
+有与 GIS 文件格式相关的查询吗？前往我们的社区 [论坛](https://forum.fileformat.com/c/gis/7)，从文件格式专家分享的知识中获益。
 
 ## GIS 文件扩展名和相关文件格式列表
 以下是常见 GIS 文件格式及其文件扩展名的列表。

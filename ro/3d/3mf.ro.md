@@ -46,7 +46,7 @@ Formatul de fișier 3MF utilizează specificațiile Open Packaging sub formă de
 
 Un document tipic 3MF arată după cum urmează:
 
-![3MF Document Structure](https://github.com/3MFConsortium/spec_core/raw/master/images/figure_2-1.png "3MF Document Structure")
+![3MF Document Structure](https://raw.githubusercontent.com/3MFConsortium/spec_core/master/images/figure_2-1.png "3MF Document Structure")
 
 Sarcina utilă include setul complet de piese necesare procesării componentei modelului 3D. Tot conținutul care urmează să fie utilizat pentru fabricarea unui obiect descris în sarcina utilă 3D TREBUIE să fie conținut în Documentul 3MF. Descrierea fiecărei părți de document, împreună cu starea acesteia, așa cum este necesar sau opțiunea, este prezentată în tabelul următor.
 

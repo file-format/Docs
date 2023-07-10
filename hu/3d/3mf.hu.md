@@ -46,7 +46,7 @@ A 3MF fájlformátum az Open Packaging specifikációit használja ZIP archívum
 
 Egy tipikus 3MF dokumentum a következőképpen néz ki:
 
-![3MF Document Structure](https://github.com/3MFConsortium/spec_core/raw/master/images/figure_2-1.png "3MF Document Structure")
+![3MF Document Structure](https://raw.githubusercontent.com/3MFConsortium/spec_core/master/images/figure_2-1.png "3MF Document Structure")
 
 A hasznos teher tartalmazza a 3D modell alkatrész feldolgozásához szükséges teljes alkatrészkészletet. A 3D hasznos adatban leírt objektumok gyártásához felhasználandó összes tartalomnak szerepelnie KELL a 3MF dokumentumban. Az egyes dokumentumrészek leírása a szükséges állapotukkal vagy opciókkal együtt a következő táblázatban található.
 

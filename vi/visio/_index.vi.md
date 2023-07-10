@@ -22,5 +22,5 @@ Microsfot Visio là một phần của bộ Microsoft Office và được sử d
 
 Định dạng tệp Visio bao gồm các loại tệp như **[VSDX](/vi/visio/vsdx/)**, **[VSX](/vi/visio/vsx/)**, VTX, VDX, **[VSSX](/vi/visio /vssx/)**, VSTX, VSDM, VSSM, định dạng tệp VSTM được lưu vào đĩa khi người dùng tạo dự án trong Microsoft Visio và lưu vào đĩa. Sau đây là danh sách các Định dạng Tệp của Nhà xuất bản.
 
-Có truy vấn liên quan đến định dạng tệp Visio? Hãy tham gia cộng đồng của chúng tôi [các diễn đàn](https://forum.fileformat.com/c/visio/) để hưởng lợi từ kiến thức do các chuyên gia Định dạng tệp chia sẻ.
+Có truy vấn liên quan đến định dạng tệp Visio? Hãy tham gia cộng đồng của chúng tôi [các diễn đàn](https://forum.fileformat.com/c/visio/31) để hưởng lợi từ kiến thức do các chuyên gia Định dạng tệp chia sẻ.
 

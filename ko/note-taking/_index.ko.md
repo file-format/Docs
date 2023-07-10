@@ -21,7 +21,7 @@
 
 일반적인 OneNote 파일 확장자 및 관련 파일 형식에는 **[.ONE](/ko/note-taking/one/)** 및 목차 파일 **[.ONETOC2](/ko/note-taking/onetoc2/)**이 포함됩니다. .
 
-Notes 파일 형식과 관련된 쿼리가 있습니까? 커뮤니티 [포럼](https://forum.fileformat.com/c/note-taking)으로 이동하여 파일 형식 전문가가 공유하는 지식을 활용하십시오.
+Notes 파일 형식과 관련된 쿼리가 있습니까? 커뮤니티 [포럼](https://forum.fileformat.com/c/note-taking/23)으로 이동하여 파일 형식 전문가가 공유하는 지식을 활용하십시오.
 
 ## 파일 확장자 및 관련 파일 형식을 메모하는 목록
 다음은 파일 확장자와 함께 파일 형식을 작성하는 일반적인 메모 목록입니다.

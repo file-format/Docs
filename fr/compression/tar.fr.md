@@ -58,6 +58,6 @@ Les champs inutilisés sont remplis avec des octets NUL. Un en-tête comprend 25
 
 ## Références ##
 
-* [TAR - Par Wikipédia](https://en.wikipedia.org/wiki/Tar_(informatique))
+* [TAR - Par Wikipédia](https://en.wikipedia.org/wiki/Tar_(computing))
 * [Format de base TAR](https://www.gnu.org/software/tar/manual/html_node/Standard.html)
 

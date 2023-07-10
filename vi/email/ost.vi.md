@@ -27,7 +27,7 @@ OST hoặc Tệp lưu trữ ngoại tuyến biểu thị dữ liệu hộp thư 
 * Định dạng ANSI 32-bit
 * Định dạng Unicode 64-bit
 
-Định dạng tệp PST [thông số kỹ thuật](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx), do Microsoft cung cấp, cũng có thể áp dụng cho định dạng tệp OST miễn phí và cấp phép bằng sáng chế không thể hủy bỏ thông qua Lời hứa đặc điểm kỹ thuật mở. Nó bao gồm các yếu tố có thể phân biệt sau:
+Định dạng tệp PST [thông số kỹ thuật](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546), do Microsoft cung cấp, cũng có thể áp dụng cho định dạng tệp OST miễn phí và cấp phép bằng sáng chế không thể hủy bỏ thông qua Lời hứa đặc điểm kỹ thuật mở. Nó bao gồm các yếu tố có thể phân biệt sau:
 
 * Tiêu đề bay
 * Dữ liệu tiêu đề tệp
@@ -78,6 +78,6 @@ Tiêu đề bắt đầu bằng từ ma thuật 4 byte **!BDN** được biểu 
 
 ## Người giới thiệu
 
-* Định dạng tệp [Thư mục cá nhân Outlook (.ost)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Thông số định dạng tệp thư mục cá nhân](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* Định dạng tệp [Thư mục cá nhân Outlook (.ost)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Thông số định dạng tệp thư mục cá nhân](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

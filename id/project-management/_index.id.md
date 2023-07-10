@@ -22,7 +22,7 @@ Pernahkah Anda menemukan dan bertanya-tanya apa itu file MPP? MPP dan file serup
 
 Ekstensi file Manajemen Proyek umum dan format file yang terkait termasuk **[MPP](/id/project-management/mpp/)**, **[MPX](/id/project-management/mpx/)** dan **[XER](/id/project-management/xer/)**.
 
-Punya pertanyaan terkait dengan format file Manajemen Proyek? Kunjungi [forum](https://forum.fileformat.com/c/project-management) komunitas kami untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
+Punya pertanyaan terkait dengan format file Manajemen Proyek? Kunjungi [forum](https://forum.fileformat.com/c/project-management/15) komunitas kami untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
 
 ## Daftar Ekstensi File Proyek dan Format File Terkait
 

@@ -20,7 +20,7 @@
 
 CAD steht für Computer Aided Design. Auch der Begriff CADD (für Computer Aided Design and Drafting) wird verwendet. Es wird für ein 3D-Grafikdateiformat verwendet und kann 2D- oder 3D-Designs enthalten. CAD-Datei ist ein digitales Dateiformat eines Objekts, das von CAD-Software generiert und verwendet wird. Eine CAD-Datei enthält eine technische Zeichnung, einen Entwurf, einen Schaltplan oder eine 3D-Darstellung eines Objekts. Möglicherweise gibt es andere CAD-Tools, die zum Erstellen, Öffnen, Bearbeiten und Exportieren dieser .cad-Dateien in weiter verbreitete CAD-Zeichnungsdateiformate verwendet werden können. Im Folgenden werden wir über die beliebtesten CAD-Dateiformate und die am meisten empfohlene Software diskutieren, die andere gängige Formate öffnen, ändern und konvertieren kann.
 
-Haben Sie Fragen zu CAD-Dateiformaten? Besuchen Sie unsere Community [Foren](https://forum.fileformat.com/c/cad), um vom Wissen der Dateiformatexperten zu profitieren.
+Haben Sie Fragen zu CAD-Dateiformaten? Besuchen Sie unsere Community [Foren](https://forum.fileformat.com/c/cad/12), um vom Wissen der Dateiformatexperten zu profitieren.
 
 ## Liste der CAD-Dateierweiterungen und zugehörigen Dateiformate
 

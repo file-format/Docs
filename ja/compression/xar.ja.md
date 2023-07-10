@@ -110,5 +110,5 @@ struct xar_header {
 ## 参考文献
 
 * [XAR](https://github.com/mackyle/xar/wiki/xarformat)
-* [XAR - ウィキペディア](https://en.wikipedia.org/wiki/Xar_(アーカイブ))
+* [XAR - ウィキペディア](https://en.wikipedia.org/wiki/Xar_(archiver))
 

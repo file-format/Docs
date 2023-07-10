@@ -22,7 +22,7 @@ File pengolah kata berisi informasi pengguna dalam format teks biasa atau teks k
 
 Ekstensi file teks biasa yang umum dan format file terkait mencakup **[TXT](/id/word-processing/txt/)**, **[CSV](/id/spreadsheet/csv/)**, sedangkan ekstensi file untuk dokumen teks kaya mencakup **[DOCX](/id/word-processing/docx/)**, **[DOC](/id/word-processing/doc/)** dan **[RTF](/id/word-processing/rtf/)** .
 
-Punya pertanyaan terkait dengan format file Pemrosesan Kata? Kunjungi [forum](https://forum.fileformat.com/c/word-processing) komunitas kami untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
+Punya pertanyaan terkait dengan format file Pemrosesan Kata? Kunjungi [forum](https://forum.fileformat.com/c/word-processing/5) komunitas kami untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
 
 # Daftar Ekstensi File Pengolah Kata dan Format File Terkait
 

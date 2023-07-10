@@ -46,7 +46,7 @@ Het 3MF-bestandsformaat gebruikt de Open Packaging-specificaties in de vorm van 
 
 Een typisch 3MF-document ziet er als volgt uit:
 
-![3MF Document Structure](https://github.com/3MFConsortium/spec_core/raw/master/images/figure_2-1.png "3MF Document Structure")
+![3MF Document Structure](https://raw.githubusercontent.com/3MFConsortium/spec_core/master/images/figure_2-1.png "3MF Document Structure")
 
 De payload omvat de volledige set onderdelen die nodig zijn voor het verwerken van het 3D-modelonderdeel. Alle inhoud die moet worden gebruikt om een object te vervaardigen dat wordt beschreven in de 3D-payload, MOET in het 3MF-document zijn opgenomen. De beschrijving van elk documentonderdeel samen met de status zoals vereist of optie is zoals gegeven in de volgende tabel.
 

@@ -28,7 +28,7 @@
 
 **Hình ảnh vectơ** được xác định bằng các điểm 2D, thay vì pixel, được kết nối để tạo hình dạng hình học cho hình ảnh. Các điểm có các thuộc tính xác định hướng của đường dẫn, màu sắc, hình dạng, đường cong, độ dày và màu tô. Các phần mở rộng tệp hình ảnh vectơ phổ biến và định dạng tệp của chúng bao gồm **[SVG](/vi/page-description-language/svg/)** (Đồ họa vectơ có thể mở rộng), **[EPS](/vi/page-description-language/eps/) ** (Ngôn ngữ PostScript được đóng gói) và **[PDF](/vi/pdf/)** (Định dạng Tài liệu Di động).
 
-Bạn có truy vấn liên quan đến định dạng tệp Hình ảnh? Hãy tham gia cộng đồng của chúng tôi [các diễn đàn](https://forum.fileformat.com/c/image) để hưởng lợi từ kiến thức do các chuyên gia Định dạng tệp chia sẻ.
+Bạn có truy vấn liên quan đến định dạng tệp Hình ảnh? Hãy tham gia cộng đồng của chúng tôi [các diễn đàn](https://forum.fileformat.com/c/image/9) để hưởng lợi từ kiến thức do các chuyên gia Định dạng tệp chia sẻ.
 
 ## Danh sách phần mở rộng tệp hình ảnh và định dạng tệp được liên kết
 Sau đây là danh sách các định dạng tệp Hình ảnh phổ biến cùng với phần mở rộng tệp của chúng.

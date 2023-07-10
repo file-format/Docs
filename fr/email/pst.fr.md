@@ -22,7 +22,7 @@ Les fichiers avec l'extension .pst représentent des fichiers de stockage person
 
 ## Spécifications du format de fichier PST
 
-Le format de fichier PST [spécifications](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) est disponible auprès de Microsoft sous forme de licence de brevet gratuite et irrévocable via la promesse de spécification ouverte .
+Le format de fichier PST [spécifications](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546) est disponible auprès de Microsoft sous forme de licence de brevet gratuite et irrévocable via la promesse de spécification ouverte .
 
 ### Type de format PST
 
@@ -94,6 +94,6 @@ Pour des raisons de sécurité, les fichiers PST peuvent également être proté
 
 ## Références ##
 
-* [Format de fichier des dossiers personnels Outlook (.pst)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Spécifications du format de fichier de dossier personnel](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Format de fichier des dossiers personnels Outlook (.pst)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Spécifications du format de fichier de dossier personnel](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

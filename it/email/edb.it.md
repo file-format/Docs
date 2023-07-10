@@ -80,5 +80,5 @@ Sulla base di questi, lo stato del database può essere valutato come segue.
  
 
 ## Riferimenti
-* [Specifiche del file di database (EDB) di Extensible Storage Engine (ESE)](https://github.com/libyal/libesedb/tree/master/documentation)
+* [Specifiche del file di database (EDB) di Extensible Storage Engine (ESE)](https://github.com/libyal/libesedb/tree/main/documentation)
 

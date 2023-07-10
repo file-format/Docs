@@ -22,7 +22,7 @@ A .pst kiterjesztésű fájlok az Outlook Personal Storage Files (más néven Pe
 
 ## A PST fájlformátum specifikációi
 
-A PST-fájlformátum [specifikációi](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) ingyenes és visszavonhatatlan ingyenes szabadalmi licencként érhető el a Microsofttól az Open Specification Promise keretében .
+A PST-fájlformátum [specifikációi](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546) ingyenes és visszavonhatatlan ingyenes szabadalmi licencként érhető el a Microsofttól az Open Specification Promise keretében .
 
 ### A PST-formátumok típusa
 
@@ -94,6 +94,6 @@ A biztonság kedvéért a PST-fájlok jelszóval is védhetők, amihez a betölt
 
 ## Hivatkozások ##
 
-* [Outlook Personal Folders (.pst) fájlformátum](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [A személyes mappa fájlformátumának specifikációi](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Outlook Personal Folders (.pst) fájlformátum](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [A személyes mappa fájlformátumának specifikációi](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

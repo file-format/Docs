@@ -46,7 +46,7 @@
 
 يبدو مستند 3MF النموذجي على النحو التالي:
 
-![3MF Document Structure](https://github.com/3MFConsortium/spec_core/raw/master/images/figure_2-1.png "3MF Document Structure")
+![3MF Document Structure](https://raw.githubusercontent.com/3MFConsortium/spec_core/master/images/figure_2-1.png "3MF Document Structure")
 
 تتضمن الحمولة مجموعة كاملة من الأجزاء المطلوبة لمعالجة جزء النموذج ثلاثي الأبعاد. يجب تضمين كل المحتوى الذي سيتم استخدامه لتصنيع كائن موصوف في الحمولة ثلاثية الأبعاد في مستند 3MF. وصف كل جزء من الوثيقة مع حالته كما هو مطلوب أو خيار كما هو وارد في الجدول التالي.
 

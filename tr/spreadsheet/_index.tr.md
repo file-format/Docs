@@ -22,7 +22,7 @@ Bir **elektronik tablo** dosyası, satırlar ve sütunlar biçimindeki verileri 
 
 Yaygın elektronik tablo dosya uzantıları ve dosya biçimleri arasında **[XLSX](/tr/spreadsheet/xlsx/)** (Microsoft Excel Open XML Elektronik Tablosu), **[ODS](/tr/spreadsheet/ods/)** (OpenDocument Elektronik Tablosu) ve **[XLS](/tr/spreadsheet/xls/)** (Microsoft Excel İkili Dosya Biçimi).
 
-Elektronik Tablo dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/spreadsheet) gidin.
+Elektronik Tablo dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/spreadsheet/6) gidin.
 
 ## Elektronik Tablo Dosya Uzantılarının ve İlişkili Dosya Biçimlerinin Listesi
 

@@ -80,5 +80,5 @@ Baserat på dessa kan databasens tillstånd bedömas enligt följande.
  
 
 ## Referenser
-* [Extensible Storage Engine (ESE) Databas File (EDB) Specifikationer](https://github.com/libyal/libesedb/tree/master/documentation)
+* [Extensible Storage Engine (ESE) Databas File (EDB) Specifikationer](https://github.com/libyal/libesedb/tree/main/documentation)
 

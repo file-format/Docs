@@ -21,7 +21,7 @@ It takes a number of file types when building a webpage. Web file formats define
 
 Common web file extensions and their associate file formats include **[HTML](/web/html/)** (Hypertext Markup Language), **[ASP](/web/asp/) (Active Server Pages)**, and **CSS** (Cascading Style Sheets).
 
-Got queries related to Web file formats? Head on to our community [forums](https://forum.fileformat.com/c/web) to benefit from the knowledge shared by File Format experts.
+Got queries related to Web file formats? Head on to our community [forums](https://forum.fileformat.com/c/web/13) to benefit from the knowledge shared by File Format experts.
 
 ## List of Web File Extensions and Associated File Formats
 

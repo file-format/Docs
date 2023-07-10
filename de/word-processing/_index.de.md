@@ -22,7 +22,7 @@ Eine Textverarbeitungsdatei enthält Benutzerinformationen im Klartext- oder Ric
 
 Gängige Nur-Text-Dateierweiterungen und zugehörige Dateiformate umfassen **[TXT](/de/word-processing/txt/)**, **[CSV](/de/spreadsheet/csv/)**, während Dateierweiterungen für Rich-Text-Dokumente umfassen **[DOCX](/de/word-processing/docx/)**, **[DOC](/de/word-processing/doc/)** und **[RTF](/de/word-processing/rtf/)** .
 
-Haben Sie Fragen zu Textverarbeitungsdateiformaten? Besuchen Sie unsere Community [Foren](https://forum.fileformat.com/c/word-processing), um vom Wissen der Dateiformatexperten zu profitieren.
+Haben Sie Fragen zu Textverarbeitungsdateiformaten? Besuchen Sie unsere Community [Foren](https://forum.fileformat.com/c/word-processing/5), um vom Wissen der Dateiformatexperten zu profitieren.
 
 # Liste der Textverarbeitungsdateierweiterungen und zugehörigen Dateiformate
 

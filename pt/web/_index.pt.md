@@ -21,7 +21,7 @@ São necessários vários tipos de arquivo ao criar uma página da web. Os forma
 
 As extensões comuns de arquivo da Web e seus formatos de arquivo associados incluem **[HTML](/pt/web/html/)** (Hypertext Markup Language), **[ASP](/pt/web/asp/) (Active Server Pages)**, e **CSS** (Folhas de Estilo em Cascata).
 
-Tem consultas relacionadas a formatos de arquivo da Web? Acesse nossa comunidade [fóruns](https://forum.fileformat.com/c/web) para se beneficiar do conhecimento compartilhado por especialistas em formato de arquivo.
+Tem consultas relacionadas a formatos de arquivo da Web? Acesse nossa comunidade [fóruns](https://forum.fileformat.com/c/web/13) para se beneficiar do conhecimento compartilhado por especialistas em formato de arquivo.
 
 ## Lista de Extensões de Arquivo da Web e Formatos de Arquivo Associados
 

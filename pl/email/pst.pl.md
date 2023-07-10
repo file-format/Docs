@@ -22,7 +22,7 @@ Pliki z rozszerzeniem .pst reprezentują pliki pamięci masowej programu Outlook
 
 ## Specyfikacje formatu pliku PST
 
-Format pliku PST [specyfikacje](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) są udostępniane przez firmę Microsoft jako bezpłatne i nieodwołalne bezpłatne licencje patentowe w ramach obietnicy otwartej specyfikacji .
+Format pliku PST [specyfikacje](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546) są udostępniane przez firmę Microsoft jako bezpłatne i nieodwołalne bezpłatne licencje patentowe w ramach obietnicy otwartej specyfikacji .
 
 ### Typ formatów PST
 
@@ -94,6 +94,6 @@ Ze względów bezpieczeństwa pliki PST mogą być również chronione hasłem, 
 
 ## Bibliografia ##
 
-* [Format pliku folderów osobistych programu Outlook (.pst)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Specyfikacje formatu plików folderów osobistych](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Format pliku folderów osobistych programu Outlook (.pst)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Specyfikacje formatu plików folderów osobistych](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

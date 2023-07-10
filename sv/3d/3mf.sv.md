@@ -46,7 +46,7 @@ Specifikationerna för 3MF-filformat finns på [Github](https://github.com/3MFCo
 
 Ett typiskt 3MF-dokument ser ut som följer:
 
-![3MF Document Structure](https://github.com/3MFConsortium/spec_core/raw/master/images/figure_2-1.png "3MF Document Structure")
+![3MF Document Structure](https://raw.githubusercontent.com/3MFConsortium/spec_core/master/images/figure_2-1.png "3MF Document Structure")
 
 Nyttolasten inkluderar hela uppsättningen delar som krävs för att bearbeta 3D-modelldelen. Allt innehåll som ska användas för att tillverka ett objekt som beskrivs i 3D-nyttolasten MÅSTE finnas i 3MF-dokumentet. Beskrivningen av varje dokumentdel tillsammans med dess status efter behov eller alternativ visas i följande tabell.
 

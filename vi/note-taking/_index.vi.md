@@ -21,7 +21,7 @@ Các tệp chương trình ghi chú chứa các phần và trang để lưu tr�
 
 Các phần mở rộng tệp OneNote phổ biến và các định dạng tệp được liên kết của chúng bao gồm **[.ONE](/vi/note-taking/one/)** và tệp mục lục của nó **[.ONETOC2](/vi/note-taking/onetoc2/)** .
 
-Bạn có truy vấn liên quan đến định dạng tệp Ghi chú? Hãy tham gia cộng đồng của chúng tôi [các diễn đàn](https://forum.fileformat.com/c/note-taking) để hưởng lợi từ kiến thức do các chuyên gia Định dạng tệp chia sẻ.
+Bạn có truy vấn liên quan đến định dạng tệp Ghi chú? Hãy tham gia cộng đồng của chúng tôi [các diễn đàn](https://forum.fileformat.com/c/note-taking/23) để hưởng lợi từ kiến thức do các chuyên gia Định dạng tệp chia sẻ.
 
 ## Danh sách ghi chú Phần mở rộng tệp và định dạng tệp được liên kết
 Sau đây là danh sách các định dạng tệp Ghi chú phổ biến cùng với phần mở rộng tệp của chúng.

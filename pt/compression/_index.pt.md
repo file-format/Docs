@@ -19,7 +19,7 @@
 
 A compactação de arquivos é o processo para reduzir o tamanho de um ou mais arquivos. Ele reduz arquivos grandes em muito menores, removendo dados desnecessários. O arquivo compactado facilita o envio e o backup de arquivos grandes ou grupos de arquivos. Além disso, esses arquivos facilitam o download e permitem que mais dados sejam armazenados em mídia removível. Existem vários formatos de compressão. Abaixo, discutiremos os formatos de arquivo de compactação mais populares e o software mais recomendado que o usa.
 
-Tem consultas relacionadas a formatos de arquivo de compactação? Acesse nossa comunidade [fóruns](https://forum.fileformat.com/c/compression) para se beneficiar do conhecimento compartilhado por especialistas em formato de arquivo.
+Tem consultas relacionadas a formatos de arquivo de compactação? Acesse nossa comunidade [fóruns](https://forum.fileformat.com/c/compression/10) para se beneficiar do conhecimento compartilhado por especialistas em formato de arquivo.
 
 ## Lista de extensões de arquivos compactados e formatos de Flie associados
 

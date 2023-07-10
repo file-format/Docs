@@ -58,6 +58,6 @@
 
 ## Βιβλιογραφικές αναφορές ##
 
-* [TAR - Από τη Wikipedia](https://en.wikipedia.org/wiki/Tar_(υπολογιστική))
+* [TAR - Από τη Wikipedia](https://en.wikipedia.org/wiki/Tar_(computing))
 * [Βασική μορφή TAR](https://www.gnu.org/software/tar/manual/html_node/Standard.html)
 

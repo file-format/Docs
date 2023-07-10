@@ -22,7 +22,7 @@ Anda pasti sudah familiar dengan file ekstensi **PPTX** dan **PPT**, ini adalah 
 
 Ekstensi file Presentasi Umum dan format file terkait termasuk **[PPTX](/id/presentation/pptx/)**, **[PPT](/id/presentation/ppt/)** dan **[ODP](/id/presentation/odp /)**.
 
-Punya pertanyaan terkait dengan format file Presentasi? Kunjungi [forum](https://forum.fileformat.com/c/presentation) komunitas kami untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
+Punya pertanyaan terkait dengan format file Presentasi? Kunjungi [forum](https://forum.fileformat.com/c/presentation/8) komunitas kami untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
 
 ## Daftar Ekstensi File Presentasi dan Format File Terkait
 

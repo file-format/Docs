@@ -18,7 +18,7 @@
 
 ## Wat is een SSF-bestand?
 
-Een bestand met een .ssf-bestand is een bestandsindeling voor geospatiale gegevensopslag die wordt gebruikt door de [Trimble](https://www.trimble.com) Navigation GIS-softwaretoepassingen. Het slaat GPS-gegevens op die in het veld zijn opgenomen met Trimble-apparaten. Het GPS-logboek wordt vervolgens geïmporteerd in een van de toepassingen van de Trimble Application Suite. Het GPS-logboek in een SSF wordt gebruikt om aangepaste coördinatensystemen te maken. SSF-bestanden kunnen worden geopend met [Trimble Navigation GPS Pathfinder Office](https://geospatial.trimble.com/products-and-solutions/gps-pathfinder-office), Trimble Navigation GPS Pathfinder Tools SDK en ESRI ArcGIS for Desktop met Trimble GPS-analist plug-in.
+Een bestand met een .ssf-bestand is een bestandsindeling voor geospatiale gegevensopslag die wordt gebruikt door de [Trimble](https://www.trimble.com) Navigation GIS-softwaretoepassingen. Het slaat GPS-gegevens op die in het veld zijn opgenomen met Trimble-apparaten. Het GPS-logboek wordt vervolgens geïmporteerd in een van de toepassingen van de Trimble Application Suite. Het GPS-logboek in een SSF wordt gebruikt om aangepaste coördinatensystemen te maken. SSF-bestanden kunnen worden geopend met [Trimble Navigation GPS Pathfinder Office](https://geospatial.trimble.com/products-and-solutions/ssf-and-ddf-data-format-extensions-fme), Trimble Navigation GPS Pathfinder Tools SDK en ESRI ArcGIS for Desktop met Trimble GPS-analist plug-in.
 
 ## SSF-bestandsindeling - Meer informatie
 

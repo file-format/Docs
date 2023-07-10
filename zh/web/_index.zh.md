@@ -21,7 +21,7 @@
 
 常见的 Web 文件扩展名及其相关文件格式包括 **[HTML](/zh/web/html/)**（超文本标记语言）、**[ASP](/zh/web/asp/)（Active Server Pages）**、和 **CSS**（层叠样式表）。
 
-有与 Web 文件格式相关的查询吗？前往我们的社区 [论坛](https://forum.fileformat.com/c/web)，从文件格式专家分享的知识中获益。
+有与 Web 文件格式相关的查询吗？前往我们的社区 [论坛](https://forum.fileformat.com/c/web/13)，从文件格式专家分享的知识中获益。
 
 ## Web 文件扩展名和相关文件格式列表
 

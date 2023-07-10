@@ -22,5 +22,5 @@ Microsfot Visio は、Microsoft Office スイートの一部として提供さ�
 
 Visio ファイル形式には、**[VSDX](/visio/vsdx/)**、**[VSX](/visio/vsx/)**、VTX、VDX、**[VSSX](/visio /vssx/)**、VSTX、VSDM、VSSM、ユーザーが Microsoft Visio でプロジェクトを作成してディスクに保存するときにディスクに保存される VSTM ファイル形式。以下は、Publisher ファイル形式のリストです。
 
-Visio ファイル形式に関連するクエリがありますか?コミュニティ [フォーラム](https://forum.fileformat.com/c/visio/) にアクセスして、ファイル形式の専門家が共有する知識を活用してください。
+Visio ファイル形式に関連するクエリがありますか?コミュニティ [フォーラム](https://forum.fileformat.com/c/visio/31) にアクセスして、ファイル形式の専門家が共有する知識を活用してください。
 

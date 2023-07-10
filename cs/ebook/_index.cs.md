@@ -19,7 +19,7 @@
 
 Soubory elektronických knih jsou elektronické soubory, které lze otevřít na digitálních zařízeních známých jako eReaders. Elektronická čtečka může být jakékoli zařízení, jako je počítač, tablet nebo chytrý telefon. Nejoblíbenějším formátem souboru elektronické knihy je ePub založený na XML. E-kniha může obsahovat různé typy obsahu, jako je text, obrázek a video. Mezi běžné přípony souborů elektronických knih a jejich formáty souborů patří **[EPUB](/cs/ebook/epub/)** (elektronická publikace), **[FB2](/cs/ebook/fb2/)** (FictionBook 2.0) a **[ Mobi](/cs/ebook/mobi/)** (soubor elektronické knihy MobiPocket).
 
-Máte dotazy týkající se formátů souborů e-knih? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/ebook), kde můžete těžit ze znalostí sdílených odborníky na formát souborů.
+Máte dotazy týkající se formátů souborů e-knih? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/ebook/25), kde můžete těžit ze znalostí sdílených odborníky na formát souborů.
 
 ## Seznam přípon souborů elektronických knih a souvisejících formátů souborů
 

@@ -27,7 +27,7 @@ Le format de fichier OST (table de stockage hors ligne) et [PST](/fr/email/pst/)
 * Format ANSI 32 bits
 * Format Unicode 64 bits
 
-Le format de fichier PST [spécifications](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx), tel que disponible auprès de Microsoft, s'applique également au format de fichier OST en tant que gratuit et licence de brevet irrévocable par le biais de la promesse de spécification ouverte. Il se compose des éléments distinctifs suivants :
+Le format de fichier PST [spécifications](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546), tel que disponible auprès de Microsoft, s'applique également au format de fichier OST en tant que gratuit et licence de brevet irrévocable par le biais de la promesse de spécification ouverte. Il se compose des éléments distinctifs suivants :
 
 * En-tête de fichier
 * Données d'en-tête de fichier
@@ -78,6 +78,6 @@ L'en-tête commence par un mot magique de 4 octets **!BDN** représenté par des
 
 ## Références
 
-* [Format de fichier des dossiers personnels Outlook (.ost)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Spécifications du format de fichier de dossier personnel](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Format de fichier des dossiers personnels Outlook (.ost)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Spécifications du format de fichier de dossier personnel](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

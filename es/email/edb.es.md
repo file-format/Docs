@@ -80,5 +80,5 @@ En base a esto, el estado de la base de datos se puede evaluar de la siguiente m
  
 
 ## Referencias
-* [Especificaciones del archivo de base de datos (EDB) del motor de almacenamiento extensible (ESE)](https://github.com/libyal/libesedb/tree/master/documentation)
+* [Especificaciones del archivo de base de datos (EDB) del motor de almacenamiento extensible (ESE)](https://github.com/libyal/libesedb/tree/main/documentation)
 

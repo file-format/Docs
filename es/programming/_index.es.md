@@ -22,7 +22,7 @@ Los archivos de programación son archivos de código fuente que utilizan los le
 
 Las extensiones de archivo de programación o desarrollador comunes y sus formatos de archivo asociados incluyen **[C#](/es/programming/cs/)** (Archivo de código fuente de CSharp), **[CPP](/es/programming/cpp/)** (C++ Source File) y **[VB](/es/programming/vb/)** (Archivo de código fuente de Visual Basic).
 
-¿Tiene consultas relacionadas con los formatos de archivo de programación? Diríjase a los [foros] de nuestra comunidad (https://forum.fileformat.com/c/programming) para beneficiarse del conocimiento compartido por los expertos en formato de archivo.
+¿Tiene consultas relacionadas con los formatos de archivo de programación? Diríjase a los [foros] de nuestra comunidad (https://forum.fileformat.com/c/programming/26) para beneficiarse del conocimiento compartido por los expertos en formato de archivo.
 
 ## Lista de extensiones de archivos de programación y formatos de archivos asociados
 

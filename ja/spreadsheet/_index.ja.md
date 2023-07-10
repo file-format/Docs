@@ -22,7 +22,7 @@
 
 一般的なスプレッドシート ファイルの拡張子とそのファイル形式には、**[XLSX](/spreadsheet/xlsx/)** (Microsoft Excel Open XML スプレッドシート)、**[ODS](/spreadsheet/ods/)** (OpenDocument スプレッドシート)、 **[XLS](/spreadsheet/xls/)** (Microsoft Excel バイナリ ファイル形式)。
 
-スプレッドシート ファイル形式に関連するクエリを取得しましたか?コミュニティ [フォーラム](https://forum.fileformat.com/c/spreadsheet) にアクセスして、ファイル形式の専門家が共有する知識を活用してください。
+スプレッドシート ファイル形式に関連するクエリを取得しましたか?コミュニティ [フォーラム](https://forum.fileformat.com/c/spreadsheet/6) にアクセスして、ファイル形式の専門家が共有する知識を活用してください。
 
 ## スプレッドシートのファイル拡張子と関連するファイル形式のリスト
 

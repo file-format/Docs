@@ -22,7 +22,7 @@ Un fichier cartographique SIG (Système d'information géographique) se compose 
 
 Les extensions de fichier SIG courantes et leurs formats de fichier incluent **[GPX](/fr/gis/gpx/)** (format de fichier d'échange GPS), **[KML](/fr/gis/kml/)** (fichier Keyhole Markup Language) et **[SHP](/fr/gis/shp/)** (fichier de forme ESRI).
 
-Vous avez des questions concernant les formats de fichiers SIG ? Rendez-vous sur notre communauté [forums](https://forum.fileformat.com/c/gis) pour bénéficier des connaissances partagées par les experts du format de fichier.
+Vous avez des questions concernant les formats de fichiers SIG ? Rendez-vous sur notre communauté [forums](https://forum.fileformat.com/c/gis/7) pour bénéficier des connaissances partagées par les experts du format de fichier.
 
 ## Liste des extensions de fichier SIG et des formats de fichier associés
 Vous trouverez ci-dessous une liste des formats de fichiers SIG courants ainsi que leurs extensions de fichier.

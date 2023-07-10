@@ -22,7 +22,7 @@ MPP ファイルとは何かと思ったことはありませんか? MPP およ�
 
 一般的な Project Management ファイル拡張子とそれに関連するファイル形式には、**[MPP](/project-management/mpp/)**、**[MPX](/project-management/mpx/)**、および **[XER] が含まれます。 (/project-management/xer/)**.
 
-Project Management のファイル形式に関連するクエリをお持ちですか?私たちのコミュニティ [フォーラム](https://forum.fileformat.com/c/project-management) にアクセスして、ファイル形式の専門家が共有する知識を活用してください。
+Project Management のファイル形式に関連するクエリをお持ちですか?私たちのコミュニティ [フォーラム](https://forum.fileformat.com/c/project-management/15) にアクセスして、ファイル形式の専門家が共有する知識を活用してください。
 
 ## プロジェクト ファイルの拡張子と関連するファイル形式のリスト
 

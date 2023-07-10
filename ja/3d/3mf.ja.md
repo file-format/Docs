@@ -46,7 +46,7 @@ STL などの利用可能なモデル記述ファイル形式の既存の制限�
 
 典型的な 3MF ドキュメントは次のようになります。
 
-![3MF Document Structure](https://github.com/3MFConsortium/spec_core/raw/master/images/figure_2-1.png "3MF Document Structure")
+![3MF Document Structure](https://raw.githubusercontent.com/3MFConsortium/spec_core/master/images/figure_2-1.png "3MF Document Structure")
 
 ペイロードには、3D モデル パーツの処理に必要なパーツの完全なセットが含まれています。 3D ペイロードに記述されたオブジェクトの製造に使用されるすべてのコンテンツは、3MF ドキュメントに含まれている必要があります。各ドキュメント パーツの説明と、必須またはオプションのステータスを次の表に示します。
 

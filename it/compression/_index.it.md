@@ -19,7 +19,7 @@
 
 La compressione dei file è il processo per ridurre le dimensioni di uno o più file. Riduce i file di grandi dimensioni in file molto più piccoli rimuovendo i dati non necessari. L'archivio di file compressi semplifica l'invio e il backup di file o gruppi di file di grandi dimensioni. Inoltre, tali file semplificano il download e consentono di archiviare più dati su supporti rimovibili. Esistono vari formati di compressione. Di seguito discuteremo i formati di file di compressione più popolari e il software più consigliato che lo utilizza.
 
-Hai domande relative ai formati di file di compressione? Visita la nostra community [forum](https://forum.fileformat.com/c/compression) per beneficiare delle conoscenze condivise dagli esperti di formati di file.
+Hai domande relative ai formati di file di compressione? Visita la nostra community [forum](https://forum.fileformat.com/c/compression/10) per beneficiare delle conoscenze condivise dagli esperti di formati di file.
 
 ## Elenco delle estensioni dei file compressi e dei formati Flie associati
 

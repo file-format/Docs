@@ -22,7 +22,7 @@
 
 นามสกุลไฟล์สเปรดชีตทั่วไปและรูปแบบไฟล์ ได้แก่ **[XLSX](/th/spreadsheet/xlsx/)** (Microsoft Excel Open XML Spreadsheet), **[ODS](/th/spreadsheet/ods/)** (OpenDocument Spreadsheet) และ **[XLS](/th/spreadsheet/xls/)** (รูปแบบไฟล์ไบนารีของ Microsoft Excel)
 
-มีคำถามเกี่ยวกับรูปแบบไฟล์สเปรดชีตหรือไม่ ไปที่ชุมชนของเรา [ฟอรัม](https://forum.fileformat.com/c/spreadsheet) เพื่อรับประโยชน์จากความรู้ที่แบ่งปันโดยผู้เชี่ยวชาญด้านรูปแบบไฟล์
+มีคำถามเกี่ยวกับรูปแบบไฟล์สเปรดชีตหรือไม่ ไปที่ชุมชนของเรา [ฟอรัม](https://forum.fileformat.com/c/spreadsheet/6) เพื่อรับประโยชน์จากความรู้ที่แบ่งปันโดยผู้เชี่ยวชาญด้านรูปแบบไฟล์
 
 ## รายการนามสกุลไฟล์สเปรดชีตและรูปแบบไฟล์ที่เกี่ยวข้อง
 

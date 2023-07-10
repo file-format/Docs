@@ -22,7 +22,7 @@ Programlama dosyaları, programlama dilleri tarafından belirli görevleri gerç
 
 Yaygın geliştirici veya programlama dosyası uzantıları ve bunlarla ilişkili dosya biçimleri arasında **[C#](/tr/programming/cs/)** (CSharp Kaynak Kodu Dosyası), **[CPP](/tr/programming/cpp/)** (C++ Kaynağı) bulunur Dosya) ve **[VB](/tr/programming/vb/)** (Visual Basic Kaynak Kodu Dosyası).
 
-Programlama dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/programming) gidin.
+Programlama dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/programming/26) gidin.
 
 ## Programlama Dosya Uzantılarının ve İlişkili Dosya Biçimlerinin Listesi
 

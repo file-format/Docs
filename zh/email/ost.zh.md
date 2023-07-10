@@ -27,7 +27,7 @@ OST（离线存储表）和 [PST](/zh/email/pst/)（个人存储表）文件格�
 * 32 位 ANSI 格式
 * 64 位 Unicode 格式
 
-PST 文件格式 [规范](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) 可从 Microsoft 获得，也适用于免费和免费的 OST 文件格式通过 Open Specification Promise 获得不可撤销的专利许可。它由以下可区分的元素组成：
+PST 文件格式 [规范](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546) 可从 Microsoft 获得，也适用于免费和免费的 OST 文件格式通过 Open Specification Promise 获得不可撤销的专利许可。它由以下可区分的元素组成：
 
 * 文件头
 * 文件头数据
@@ -78,6 +78,6 @@ OST 文件的 HEADER 结构位于文件的最开始处 0 偏移处。它包含�
 
 ## 参考
 
-* [Outlook 个人文件夹 (.ost) 文件格式](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [个人文件夹文件格式规范](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Outlook 个人文件夹 (.ost) 文件格式](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [个人文件夹文件格式规范](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

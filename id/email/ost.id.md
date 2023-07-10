@@ -27,7 +27,7 @@ Format file OST (Tabel Penyimpanan Offline) dan [PST](/id/email/pst/) (Tabel Pen
 * Format ANSI 32-bit
 * Format Unicode 64-bit
 
-Format file PST [spesifikasi](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx), seperti yang tersedia dari Microsoft, juga berlaku untuk format file OST gratis dan lisensi paten yang tidak dapat dibatalkan melalui Janji Spesifikasi Terbuka. Ini terdiri dari elemen-elemen yang dapat dibedakan berikut ini:
+Format file PST [spesifikasi](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546), seperti yang tersedia dari Microsoft, juga berlaku untuk format file OST gratis dan lisensi paten yang tidak dapat dibatalkan melalui Janji Spesifikasi Terbuka. Ini terdiri dari elemen-elemen yang dapat dibedakan berikut ini:
 
 * Fle header
 * File data tajuk
@@ -78,6 +78,6 @@ Header dimulai dengan kata ajaib 4-byte **!BDN** yang diwakili oleh byte (0x21, 
 
 ## Referensi
 
-* [Format File Folder Pribadi Outlook (.ost)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Spesifikasi Format File Folder Pribadi](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Format File Folder Pribadi Outlook (.ost)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Spesifikasi Format File Folder Pribadi](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

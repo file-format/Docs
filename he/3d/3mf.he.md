@@ -46,7 +46,7 @@
 
 מסמך 3MF טיפוסי נראה כך:
 
-![3MF Document Structure](https://github.com/3MFConsortium/spec_core/raw/master/images/figure_2-1.png "3MF Document Structure")
+![3MF Document Structure](https://raw.githubusercontent.com/3MFConsortium/spec_core/master/images/figure_2-1.png "3MF Document Structure")
 
 המטען כולל את הסט המלא של החלקים הנדרשים לעיבוד החלק של דגם 3D. כל התוכן שישמש לייצור אובייקט המתואר במטען התלת-ממדי חייב להיות כלול במסמך 3MF. התיאור של כל חלק במסמך יחד עם מצבו כנדרש או כאפשרות הוא כפי שניתן בטבלה הבאה.
 

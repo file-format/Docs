@@ -58,6 +58,6 @@ I campi inutilizzati vengono riempiti con byte NUL. Un'intestazione comprende 25
 
 ## Riferimenti ##
 
-* [TAR - Di Wikipedia](https://en.wikipedia.org/wiki/Tar_(informatica))
+* [TAR - Di Wikipedia](https://en.wikipedia.org/wiki/Tar_(computing))
 * [Formato di base TAR](https://www.gnu.org/software/tar/manual/html_node/Standard.html)
 

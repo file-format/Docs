@@ -22,7 +22,7 @@
 
 ## PST 파일 형식 사양
 
-PST 파일 형식[사양](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)은 Open Specification Promise를 통해 취소 불가능한 무료 특허 라이선스로 Microsoft에서 제공됩니다. .
+PST 파일 형식[사양](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)은 Open Specification Promise를 통해 취소 불가능한 무료 특허 라이선스로 Microsoft에서 제공됩니다. .
 
 ### PST 형식 유형
 
@@ -94,6 +94,6 @@ PST 파일의 HEADER 구조는 오프셋 0인 파일의 맨 처음에 위치합�
 
 ## 참조 ##
 
-* [Outlook 개인 폴더(.pst) 파일 형식](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [개인 폴더 파일 형식 사양](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Outlook 개인 폴더(.pst) 파일 형식](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [개인 폴더 파일 형식 사양](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

@@ -46,7 +46,7 @@
 
 Типичен документ на 3MF изглежда по следния начин:
 
-![3MF Document Structure](https://github.com/3MFConsortium/spec_core/raw/master/images/figure_2-1.png "3MF Document Structure")
+![3MF Document Structure](https://raw.githubusercontent.com/3MFConsortium/spec_core/master/images/figure_2-1.png "3MF Document Structure")
 
 Полезният товар включва пълния набор от части, необходими за обработка на частта от 3D модел. Цялото съдържание, което ще се използва за производство на обект, описан в 3D полезния товар, ТРЯБВА да се съдържа в документа на 3MF. Описанието на всяка част от документа заедно с нейния статус като изискване или опция е както е дадено в следващата таблица.
 

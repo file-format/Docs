@@ -28,7 +28,7 @@ Ein Bilddateiformat ist eine Standardmethode zum Organisieren und Speichern von 
 
 **Vektorbilder** werden anstelle von Pixeln durch 2D-Punkte definiert, die verbunden sind, um dem Bild eine geometrische Form zu verleihen. Die Punkte haben Eigenschaften, die die Richtung von Pfaden, Farbe, Form, Kurve, Dicke und Füllung definieren. Gängige Dateierweiterungen für Vektorbilder und ihre Dateiformate sind **[SVG](/de/page-description-language/svg/)** (Scalable Vector Graphics), **[EPS](/de/page-description-language/eps/) ** (Encapsulated PostScript language) und **[PDF](/de/pdf/)** (Portable Document Format).
 
-Haben Sie Fragen zu Bilddateiformaten? Besuchen Sie unsere Community [Foren](https://forum.fileformat.com/c/image), um vom Wissen der Dateiformatexperten zu profitieren.
+Haben Sie Fragen zu Bilddateiformaten? Besuchen Sie unsere Community [Foren](https://forum.fileformat.com/c/image/9), um vom Wissen der Dateiformatexperten zu profitieren.
 
 ## Liste der Bilddateierweiterungen und zugehörigen Dateiformate
 Im Folgenden finden Sie eine Liste gängiger Bilddateiformate zusammen mit ihren Dateierweiterungen.

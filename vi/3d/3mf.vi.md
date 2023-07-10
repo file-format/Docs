@@ -46,7 +46,7 @@ Thông số kỹ thuật cho định dạng tệp 3MF được lưu trữ trên 
 
 Một tài liệu 3MF điển hình trông như sau:
 
-![3MF Document Structure](https://github.com/3MFConsortium/spec_core/raw/master/images/figure_2-1.png "3MF Document Structure")
+![3MF Document Structure](https://raw.githubusercontent.com/3MFConsortium/spec_core/master/images/figure_2-1.png "3MF Document Structure")
 
 Tải trọng bao gồm toàn bộ bộ phận cần thiết để xử lý phần Mô hình 3D. Tất cả nội dung được sử dụng để sản xuất một đối tượng được mô tả trong tải trọng 3D PHẢI có trong Tài liệu 3MF. Mô tả của từng phần tài liệu cùng với trạng thái của nó theo yêu cầu hoặc tùy chọn được đưa ra trong bảng sau.
 

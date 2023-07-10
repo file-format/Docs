@@ -19,7 +19,7 @@
 
 Los archivos de libros electrónicos son archivos electrónicos que se pueden abrir en dispositivos digitales conocidos como lectores electrónicos. Un eReader puede ser cualquier dispositivo, como una computadora, una tableta o un teléfono inteligente. El formato de archivo de libro electrónico más popular es el ePub basado en XML. Un ebook puede contener diferentes tipos de contenido, como texto, imagen y video. Las extensiones de archivo de libros electrónicos comunes y sus formatos de archivo incluyen **[EPUB](/es/ebook/epub/)** (publicación electrónica), **[FB2](/es/ebook/fb2/)** (FictionBook 2.0) y **[ Mobi](/es/ebook/mobi/)** (archivo de libro electrónico MobiPocket).
 
-¿Tiene consultas relacionadas con los formatos de archivo de libros electrónicos? Diríjase a los [foros] de nuestra comunidad (https://forum.fileformat.com/c/ebook) para beneficiarse del conocimiento compartido por los expertos en formato de archivo.
+¿Tiene consultas relacionadas con los formatos de archivo de libros electrónicos? Diríjase a los [foros] de nuestra comunidad (https://forum.fileformat.com/c/ebook/25) para beneficiarse del conocimiento compartido por los expertos en formato de archivo.
 
 ## Lista de extensiones de archivo de libros electrónicos y formatos de archivo asociados
 

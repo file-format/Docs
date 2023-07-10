@@ -46,7 +46,7 @@
 
 Ένα τυπικό έγγραφο 3MF έχει ως εξής:
 
-![3MF Document Structure](https://github.com/3MFConsortium/spec_core/raw/master/images/figure_2-1.png "3MF Document Structure")
+![3MF Document Structure](https://raw.githubusercontent.com/3MFConsortium/spec_core/master/images/figure_2-1.png "3MF Document Structure")
 
 Το ωφέλιμο φορτίο περιλαμβάνει το πλήρες σετ εξαρτημάτων που απαιτούνται για την επεξεργασία του εξαρτήματος 3D Model. Όλο το περιεχόμενο που θα χρησιμοποιηθεί για την κατασκευή ενός αντικειμένου που περιγράφεται στο ωφέλιμο φορτίο 3D ΠΡΕΠΕΙ να περιέχεται στο Έγγραφο 3MF. Η περιγραφή κάθε μέρους του εγγράφου μαζί με την κατάστασή του όπως απαιτείται ή η επιλογή είναι όπως δίνεται στον παρακάτω πίνακα.
 

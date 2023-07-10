@@ -22,7 +22,7 @@
 
 일반적인 프레젠테이션 파일 확장자 및 관련 파일 형식에는 **[PPTX](/ko/presentation/pptx/)**, **[PPT](/ko/presentation/ppt/)** 및 **[ODP](/ko/presentation/odp가 포함됩니다. /)**.
 
-프레젠테이션 파일 형식과 관련된 쿼리가 있습니까? 커뮤니티 [포럼](https://forum.fileformat.com/c/presentation)으로 이동하여 파일 형식 전문가가 공유하는 지식을 활용하십시오.
+프레젠테이션 파일 형식과 관련된 쿼리가 있습니까? 커뮤니티 [포럼](https://forum.fileformat.com/c/presentation/8)으로 이동하여 파일 형식 전문가가 공유하는 지식을 활용하십시오.
 
 ## 프레젠테이션 파일 확장자 및 관련 파일 형식 목록
 

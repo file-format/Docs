@@ -20,7 +20,7 @@
 
 Quando você liga o computador e o sistema operacional é carregado, você vê texto na tela com ícones diferentes, botões, barra de tarefas e outros locais semelhantes. Cada um deles é exibido com fontes diferentes (se configuradas). Já se perguntou como o sistema operacional conhece arquivos diferentes? Ou como os aplicativos instalados em seu computador listam diferentes tipos de fontes para sua seleção? Isso tudo é feito usando arquivos de fonte que contêm informações de fontes, como tabelas de fontes, glifos e contornos de script que podem ser acessados pelo sistema operacional e aplicativos para renderizar texto. Os formatos de arquivo populares incluem [TTF](/pt/font/ttf/), [OTF](/pt/font/otf/), [CFF](/pt/font/cff) e [EOT](/pt/font/eot/).
 
-Tem consultas relacionadas a formatos de arquivo de fonte? Acesse nossa comunidade [fóruns](https://forum.fileformat.com/c/font) para se beneficiar do conhecimento compartilhado por especialistas em formato de arquivo.
+Tem consultas relacionadas a formatos de arquivo de fonte? Acesse nossa comunidade [fóruns](https://forum.fileformat.com/c/font/28) para se beneficiar do conhecimento compartilhado por especialistas em formato de arquivo.
 
 ## Lista de extensões de arquivo de fonte e formatos de arquivo associados
 

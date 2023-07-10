@@ -22,5 +22,5 @@ Microsfot Visio fa parte della suite Microsoft Office e viene utilizzato per la 
 
 I formati di file Visio includono tipi di file come **[VSDX](/it/visio/vsdx/)**, **[VSX](/it/visio/vsx/)**, VTX, VDX, **[VSSX](/it/visio /vssx/)**, formato di file VSTX, VSDM, VSSM, VSTM che viene salvato su disco quando l'utente crea un progetto in Microsoft Visio e lo salva su disco. Di seguito è riportato un elenco di formati di file dell'editore.
 
-Hai domande relative ai formati di file di Visio? Visita la nostra community [forum](https://forum.fileformat.com/c/visio/) per beneficiare delle conoscenze condivise dagli esperti di formati di file.
+Hai domande relative ai formati di file di Visio? Visita la nostra community [forum](https://forum.fileformat.com/c/visio/31) per beneficiare delle conoscenze condivise dagli esperti di formati di file.
 

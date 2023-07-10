@@ -22,7 +22,7 @@ Un file **foglio di calcolo** contiene dati sotto forma di righe e colonne. Un f
 
 Le estensioni di file di fogli di calcolo comuni e i relativi formati di file includono **[XLSX](/it/spreadsheet/xlsx/)** (Microsoft Excel Open XML Spreadsheet), **[ODS](/it/spreadsheet/ods/)** (OpenDocument Spreadsheet) e **[XLS](/it/foglio di calcolo/xls/)** (Formato file binario Microsoft Excel).
 
-Hai domande relative ai formati di file del foglio di calcolo? Visita la nostra community [forum](https://forum.fileformat.com/c/spreadsheet) per beneficiare delle conoscenze condivise dagli esperti di formati di file.
+Hai domande relative ai formati di file del foglio di calcolo? Visita la nostra community [forum](https://forum.fileformat.com/c/spreadsheet/6) per beneficiare delle conoscenze condivise dagli esperti di formati di file.
 
 ## Elenco delle estensioni dei file del foglio di calcolo e dei formati di file associati
 

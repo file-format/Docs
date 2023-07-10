@@ -27,7 +27,7 @@ De bestandsindelingen OST (Offline Storage Table) en [PST](/nl/email/pst/) (Pers
 * 32-bits ANSI-indeling
 * 64-bits Unicode-indeling
 
-PST-bestandsformaat [specificaties](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx), zoals beschikbaar bij Microsoft, zijn ook van toepassing op het OST-bestandsformaat als gratis en onherroepelijke patentlicenties via de Open Specification Promise. Het bestaat uit de volgende te onderscheiden elementen:
+PST-bestandsformaat [specificaties](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546), zoals beschikbaar bij Microsoft, zijn ook van toepassing op het OST-bestandsformaat als gratis en onherroepelijke patentlicenties via de Open Specification Promise. Het bestaat uit de volgende te onderscheiden elementen:
 
 * Fles kop
 * Bestandskopgegevens
@@ -78,6 +78,6 @@ De header begint met een toverwoord van 4 bytes **!BDN** vertegenwoordigd door b
 
 ## Referenties
 
-* [Bestandsindeling Outlook Personal Folders (.ost)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [specificaties bestandsindeling persoonlijke map](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Bestandsindeling Outlook Personal Folders (.ost)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [specificaties bestandsindeling persoonlijke map](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

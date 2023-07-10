@@ -19,7 +19,7 @@
 
 Kompresi File adalah proses untuk mengurangi ukuran satu atau lebih file. Itu mengecilkan file besar menjadi lebih kecil dengan menghapus data yang tidak dibutuhkan. Arsip file terkompresi mempermudah pengiriman dan pencadangan file besar atau kumpulan file. Selain itu, file semacam itu membuat pengunduhan menjadi lebih cepat dan memungkinkan lebih banyak data disimpan di media yang dapat dipindahkan. Ada berbagai format kompresi. Di bawah ini kita akan membahas Format File Kompresi paling populer dan perangkat lunak paling direkomendasikan yang menggunakannya.
 
-Punya pertanyaan terkait dengan format file Kompresi? Buka [forum] komunitas kami (https://forum.fileformat.com/c/compression) untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
+Punya pertanyaan terkait dengan format file Kompresi? Buka [forum] komunitas kami (https://forum.fileformat.com/c/compression/10) untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
 
 ## Daftar Ekstensi File Terkompresi dan Format Flie Terkait
 

@@ -28,7 +28,7 @@ Formát souboru obrázku je standardní metoda pro organizování a ukládání 
 
 **Vektorové obrázky** jsou definovány 2D body namísto pixelů, které jsou spojeny, aby daly obrázku geometrický tvar. Body mají vlastnosti, které definují směr cest, barvu, tvar, křivku, tloušťku a výplň. Mezi běžné přípony souborů vektorových obrázků a jejich formáty souborů patří **[SVG](/cs/page-description-language/svg/)** (Scalable Vector Graphics), **[EPS](/cs/page-description-language/eps/) ** (jazyk Encapsulated PostScript) a **[PDF](/cs/pdf/)** (Portable Document Format).
 
-Máte dotazy týkající se formátů souborů obrázků? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/image), abyste mohli těžit ze znalostí sdílených odborníky na formát souborů.
+Máte dotazy týkající se formátů souborů obrázků? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/image/9), abyste mohli těžit ze znalostí sdílených odborníky na formát souborů.
 
 ## Seznam přípon souborů obrázků a souvisejících formátů souborů
 Následuje seznam běžných formátů obrazových souborů spolu s jejich příponami.

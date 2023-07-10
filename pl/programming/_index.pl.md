@@ -22,7 +22,7 @@ Pliki programistyczne to pliki kodu źródłowego używane przez języki program
 
 Typowe rozszerzenia plików dla programistów lub programistów oraz powiązane z nimi formaty plików to **[C#](/pl/programming/cs/)** (CSharp Source Code File), **[CPP](/pl/programming/cpp/)** (C++ Source Plik) i **[VB](/pl/programming/vb/)** (plik kodu źródłowego Visual Basic).
 
-Masz pytania związane z programowaniem formatów plików? Odwiedź nasze [fora] społeczności (https://forum.fileformat.com/c/programming), aby skorzystać z wiedzy ekspertów ds. formatów plików.
+Masz pytania związane z programowaniem formatów plików? Odwiedź nasze [fora] społeczności (https://forum.fileformat.com/c/programming/26), aby skorzystać z wiedzy ekspertów ds. formatów plików.
 
 ## Lista rozszerzeń plików programowania i powiązanych formatów plików
 

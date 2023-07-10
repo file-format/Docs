@@ -22,7 +22,7 @@ Už jste někdy narazili a přemýšleli o tom, co je soubor MPP? MPP a další 
 
 Mezi běžné přípony souborů správy projektů a jejich přidružené formáty souborů patří **[MPP](/cs/project-management/mpp/)**, **[MPX](/cs/project-management/mpx/)** a **[XER](/cs/projekt-management/xer/)**.
 
-Máte dotazy týkající se formátů souborů správy projektů? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/project-management), abyste mohli těžit ze znalostí sdílených odborníky na formát souborů.
+Máte dotazy týkající se formátů souborů správy projektů? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/project-management/15), abyste mohli těžit ze znalostí sdílených odborníky na formát souborů.
 
 ## Seznam přípon souborů projektu a souvisejících formátů souborů
 

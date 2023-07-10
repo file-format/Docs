@@ -22,7 +22,7 @@ Ismernie kell a **PPTX** és **PPT** kiterjesztésű fájlokat, ezek olyan preze
 
 A prezentációs fájl általános kiterjesztései és a hozzájuk tartozó fájlformátumok a következők: **[PPTX](/hu/presentation/pptx/)**, **[PPT](/hu/presentation/ppt/)** és **[ODP](/hu/presentation/odp /)**.
 
-Kérdései vannak a prezentációs fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/presentation), hogy hasznot húzzon a fájlformátum-szakértők által megosztott tudásból.
+Kérdései vannak a prezentációs fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/presentation/8), hogy hasznot húzzon a fájlformátum-szakértők által megosztott tudásból.
 
 ## A prezentációs fájlkiterjesztések és a kapcsolódó fájlformátumok listája
 

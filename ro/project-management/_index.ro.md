@@ -22,7 +22,7 @@ V-ați întâlnit vreodată și v-ați întrebat ce este un fișier MPP? MPP și
 
 Extensiile obișnuite de fișiere de management de proiect și formatele de fișiere asociate acestora includ **[MPP](/ro/project-management/mpp/)**, **[MPX](/ro/project-management/mpx/)** și **[XER](/ro/project-management/xer/)**.
 
-Aveți întrebări legate de formatele de fișiere de management de proiect? Accesați comunitatea noastră [forumuri](https://forum.fileformat.com/c/project-management) pentru a beneficia de cunoștințele împărtășite de experții în format de fișiere.
+Aveți întrebări legate de formatele de fișiere de management de proiect? Accesați comunitatea noastră [forumuri](https://forum.fileformat.com/c/project-management/15) pentru a beneficia de cunoștințele împărtășite de experții în format de fișiere.
 
 ## Lista de extensii de fișiere de proiect și formate de fișiere asociate
 

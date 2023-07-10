@@ -80,5 +80,5 @@ Na ich podstawie stan bazy danych można ocenić w następujący sposób.
  
 
 ## Bibliografia
-* [Specyfikacja pliku bazy danych Extensible Storage Engine (ESE) (EDB)](https://github.com/libyal/libesedb/tree/master/documentation)
+* [Specyfikacja pliku bazy danych Extensible Storage Engine (ESE) (EDB)](https://github.com/libyal/libesedb/tree/main/documentation)
 

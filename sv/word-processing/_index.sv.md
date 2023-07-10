@@ -22,7 +22,7 @@ En ordbehandlingsfil innehåller användarinformation i vanlig text eller RTF-fo
 
 Vanliga filtillägg för vanlig text och tillhörande filformat inkluderar **[TXT](/sv/ordbehandling/txt/)**, **[CSV](/sv/spreadsheet/csv/)**, medan filtillägg för rich text-dokument inkluderar **[DOCX](/sv/word-processing/docx/)**, **[DOC](/sv/word-processing/doc/)** och **[RTF](/sv/word-processing/rtf/)** .
 
-Har du frågor relaterade till ordbehandlingsfilformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/word-processing) för att dra nytta av den kunskap som delas av filformatsexperter.
+Har du frågor relaterade till ordbehandlingsfilformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/word-processing/5) för att dra nytta av den kunskap som delas av filformatsexperter.
 
 # Lista över ordbehandlingsfiltillägg och associerade filformat
 

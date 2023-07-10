@@ -22,7 +22,7 @@ Bạn đã bao giờ bắt gặp và tự hỏi tệp MPP là gì chưa? MPP và
 
 Các phần mở rộng tệp Quản lý dự án phổ biến và các định dạng tệp được liên kết của chúng bao gồm **[MPP](/vi/project-manager/mpp/)**, **[MPX](/vi/project-manager/mpx/)** và **[XER](/vi/quản lý dự án/xer/)**.
 
-Có truy vấn liên quan đến định dạng tệp Quản lý dự án? Hãy tham gia cộng đồng của chúng tôi [diễn đàn](https://forum.fileformat.com/c/project-man Quản lý) để hưởng lợi từ kiến thức được chia sẻ bởi các chuyên gia Định dạng tệp.
+Có truy vấn liên quan đến định dạng tệp Quản lý dự án? Hãy tham gia cộng đồng của chúng tôi [diễn đàn](https://forum.fileformat.com/c/project-management/15) để hưởng lợi từ kiến thức được chia sẻ bởi các chuyên gia Định dạng tệp.
 
 ## Danh sách phần mở rộng tệp dự án và định dạng tệp được liên kết
 

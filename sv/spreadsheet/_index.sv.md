@@ -22,7 +22,7 @@ En **kalkylblad**-fil innehåller data i form av rader och kolumner. En kalkylar
 
 Vanliga filtillägg för kalkylblad och deras filformat inkluderar **[XLSX](/sv/spreadsheet/xlsx/)** (Microsoft Excel Open XML Spreadsheet), **[ODS](/sv/spreadsheet/ods/)** (OpenDocument Spreadsheet) och **[XLS](/sv/spreadsheet/xls/)** (binärt filformat för Microsoft Excel).
 
-Har du frågor relaterade till filformat för kalkylark? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/spreadsheet) för att dra nytta av kunskapen som delas av filformatsexperter.
+Har du frågor relaterade till filformat för kalkylark? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/spreadsheet/6) för att dra nytta av kunskapen som delas av filformatsexperter.
 
 ## Lista över kalkylbladsfiltillägg och associerade filformat
 

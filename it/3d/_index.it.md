@@ -20,7 +20,7 @@
 
 La rappresentazione elettronica di un oggetto tridimensionale è nota come file 3D. Un formato di file 3D viene utilizzato per memorizzare informazioni sui modelli 3D. Di solito memorizza informazioni sui modelli 3D come testo normale o dati binari. Esistono letteralmente centinaia di formati di file 3D e sono ampiamente utilizzati nei giochi 3D, nella stampa, nella progettazione assistita da computer, nella produzione, nel mondo accademico, nell'ingegneria e altro ancora. Ogni settore ha i propri formati di file 3D per diversi motivi. Di seguito parleremo dei formati di file 3D più popolari e del software più consigliato che lo utilizza.
 
-Hai domande relative ai formati di file 3D? Visita la nostra community [forum](https://forum.fileformat.com/c/3d) per beneficiare delle conoscenze condivise dagli esperti di formati di file.
+Hai domande relative ai formati di file 3D? Visita la nostra community [forum](https://forum.fileformat.com/c/3d/11) per beneficiare delle conoscenze condivise dagli esperti di formati di file.
 
 ## Elenco di estensioni di file 3D e formati di file associati
 

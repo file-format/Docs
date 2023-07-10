@@ -22,7 +22,7 @@
 
 常见的项目管理文件扩展名及其相关文件格式包括 **[MPP](/zh/project-management/mpp/)**、**[MPX](/zh/project-management/mpx/)** 和 **[XER](/zh/项目管理/xer/)**。
 
-有与项目管理文件格式相关的查询吗？前往我们的社区 [论坛](https://forum.fileformat.com/c/project-management)，从文件格式专家分享的知识中获益。
+有与项目管理文件格式相关的查询吗？前往我们的社区 [论坛](https://forum.fileformat.com/c/project-management/15)，从文件格式专家分享的知识中获益。
 
 ## 项目文件扩展名和相关文件格式列表
 

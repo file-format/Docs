@@ -21,7 +21,7 @@ Les fichiers du programme de prise de notes contiennent des sections et des page
 
 Les extensions de fichier OneNote courantes et leurs formats de fichier associés incluent **[.ONE](/fr/note-taking/one/)** et son fichier de table des matières **[.ONETOC2](/fr/note-taking/onetoc2/)** .
 
-Vous avez des questions concernant les formats de fichiers Notes ? Rendez-vous sur notre communauté [forums](https://forum.fileformat.com/c/note-taking) pour bénéficier des connaissances partagées par les experts du format de fichier.
+Vous avez des questions concernant les formats de fichiers Notes ? Rendez-vous sur notre communauté [forums](https://forum.fileformat.com/c/note-taking/23) pour bénéficier des connaissances partagées par les experts du format de fichier.
 
 ## Liste des extensions de fichiers de prise de notes et des formats de fichiers associés
 Vous trouverez ci-dessous une liste des formats de fichiers de prise de notes courants ainsi que leurs extensions de fichier.

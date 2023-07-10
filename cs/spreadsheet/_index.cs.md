@@ -22,7 +22,7 @@ Soubor **tabulka** obsahuje data ve formě řádků a sloupců. Soubor tabulky l
 
 Mezi běžné přípony souborů tabulkových procesorů a jejich formáty patří **[XLSX](/cs/spreadsheet/xlsx/)** (Microsoft Excel Open XML Spreadsheet), **[ODS](/cs/spreadsheet/ods/)** (OpenDocument Spreadsheet) a **[XLS](/cs/tabulkový procesor/xls/)** (Binární formát souboru Microsoft Excel).
 
-Máte dotazy týkající se formátů souborů tabulky? Přejděte na naše komunitní [fóra](https://forum.fileformat.com/c/spreadsheet), abyste mohli těžit ze znalostí sdílených odborníky na formát souborů.
+Máte dotazy týkající se formátů souborů tabulky? Přejděte na naše komunitní [fóra](https://forum.fileformat.com/c/spreadsheet/6), abyste mohli těžit ze znalostí sdílených odborníky na formát souborů.
 
 ## Seznam přípon souborů tabulkového procesoru a souvisejících formátů souborů
 

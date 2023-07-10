@@ -22,7 +22,7 @@ Fișierele cu extensia .pst reprezintă fișiere de stocare personale Outlook (n
 
 ## Specificații pentru formatul fișierului PST
 
-Formatul fișierului PST [specificații](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) sunt disponibile de la Microsoft ca licență gratuită și irevocabilă de brevet prin intermediul Open Specification Promise .
+Formatul fișierului PST [specificații](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546) sunt disponibile de la Microsoft ca licență gratuită și irevocabilă de brevet prin intermediul Open Specification Promise .
 
 ### Tip de formate PST
 
@@ -94,6 +94,6 @@ Pentru securitate, fișierele PST pot fi, de asemenea, protejate cu parolă, cee
 
 ## Referințe ##
 
-* [Format de fișier foldere personale Outlook (.pst)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Specificații de format de fișier al folderului personal](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Format de fișier foldere personale Outlook (.pst)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Specificații de format de fișier al folderului personal](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

@@ -49,6 +49,6 @@ Om een enkele gebruikersbesturing op veel pagina's te gebruiken, kan de webbestu
 ```
 ## Referenties
 
-* [ASCX vs ASMX](https://forums.asp.net/t/1838934.aspx?How+to+work+with+ascx+files+)
+* [ASCX vs ASMX](https://social.msdn.microsoft.com/Forums/en-US/a27d4c2f-b972-439e-a7fe-f4b7e3637700/how-to-work-with-ascx-files?forum=aspwebforms)
 * [ASCX-gebruikersbediening](http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

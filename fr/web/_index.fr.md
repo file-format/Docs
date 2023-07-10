@@ -21,7 +21,7 @@ Il faut un certain nombre de types de fichiers lors de la création d'une page W
 
 Les extensions de fichiers Web courantes et leurs formats de fichiers associés incluent **[HTML](/fr/web/html/)** (Hypertext Markup Language), **[ASP](/fr/web/asp/) (Active Server Pages)**, et **CSS** (feuilles de style en cascade).
 
-Vous avez des questions concernant les formats de fichiers Web ? Rendez-vous sur notre communauté [forums](https://forum.fileformat.com/c/web) pour bénéficier des connaissances partagées par les experts du format de fichier.
+Vous avez des questions concernant les formats de fichiers Web ? Rendez-vous sur notre communauté [forums](https://forum.fileformat.com/c/web/13) pour bénéficier des connaissances partagées par les experts du format de fichier.
 
 ## Liste des extensions de fichiers Web et des formats de fichiers associés
 

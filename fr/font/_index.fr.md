@@ -20,7 +20,7 @@
 
 Lorsque vous allumez votre ordinateur et que le système d'exploitation est chargé, vous voyez du texte sur votre écran avec différentes icônes, sur les boutons, la barre des tâches et d'autres endroits similaires. Chacun de ceux-ci est affiché avec des polices différentes (si configurées). Vous êtes-vous déjà demandé comment le système d'exploitation connaît-il différents fichiers ? Ou comment les applications installées sur votre ordinateur répertorient différents types de polices pour votre sélection ? Tout cela est fait à l'aide de fichiers de polices contenant des informations sur les polices telles que des tables de polices, des glyphes et des contours de script accessibles par le système d'exploitation et les applications pour restituer le texte. Les formats de fichiers populaires incluent [TTF](/fr/font/ttf/), [OTF](/fr/font/otf/), [CFF](/fr/font/cff) et [EOT](/fr/font/eot/).
 
-Vous avez des questions concernant les formats de fichiers de police ? Rendez-vous sur notre communauté [forums](https://forum.fileformat.com/c/font) pour bénéficier des connaissances partagées par les experts du format de fichier.
+Vous avez des questions concernant les formats de fichiers de police ? Rendez-vous sur notre communauté [forums](https://forum.fileformat.com/c/font/28) pour bénéficier des connaissances partagées par les experts du format de fichier.
 
 ## Liste des extensions de fichier de police et des formats de fichier associés
 

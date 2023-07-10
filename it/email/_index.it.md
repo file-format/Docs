@@ -19,7 +19,7 @@
 
 Ti sei mai imbattuto in formati di file di posta elettronica e non sei riuscito ad aprirlo? Sei nel posto giusto, spiegheremo quali sono i formati di file di posta elettronica e quali sono i software consigliati per aprirli o utilizzarli. I formati di file di posta elettronica vengono utilizzati dalle applicazioni di posta elettronica per archiviare i vari dati, inclusi messaggi di posta elettronica, allegati, cartelle, rubriche, ecc. I formati di file di posta elettronica sono principalmente associati al file di messaggi di posta elettronica di Outlook Express. Altri tipi di file potrebbero anche utilizzare l'estensione del file Email. Esistono diversi tipi di file comuni utilizzati per quanto riguarda la posta elettronica. Di seguito è riportato l'elenco dei formati di file più diffusi utilizzati dai vari client di posta elettronica per archiviare messaggi di posta elettronica e altri dati correlati.
 
-Hai domande relative ai formati di file di posta elettronica? Visita la nostra community [forum](https://forum.fileformat.com/c/email) per beneficiare delle conoscenze condivise dagli esperti di formati di file.
+Hai domande relative ai formati di file di posta elettronica? Visita la nostra community [forum](https://forum.fileformat.com/c/email/14) per beneficiare delle conoscenze condivise dagli esperti di formati di file.
 
 ## Elenco delle estensioni dei file di posta elettronica e dei formati di file associati
 

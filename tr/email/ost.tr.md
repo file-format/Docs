@@ -27,7 +27,7 @@ OST (Çevrimdışı Depolama Tablosu) ve [PST](/tr/email/pst/) (Kişisel Depolam
 * 32-bit ANSI Biçimi
 * 64-bit Unicode Biçimi
 
-PST Dosya formatı [özellikler](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx), Microsoft'tan temin edildiği şekliyle, ücretsiz olarak OST dosya formatı için de geçerlidir ve Açık Spesifikasyon Sözü aracılığıyla geri alınamaz patent lisanslaması. Aşağıdaki ayırt edilebilir unsurlardan oluşur:
+PST Dosya formatı [özellikler](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546), Microsoft'tan temin edildiği şekliyle, ücretsiz olarak OST dosya formatı için de geçerlidir ve Açık Spesifikasyon Sözü aracılığıyla geri alınamaz patent lisanslaması. Aşağıdaki ayırt edilebilir unsurlardan oluşur:
 
 * Dosya başlığı
 * Dosya başlığı verileri
@@ -78,6 +78,6 @@ Başlık, baytlarla (0x21, 0x42, 0x44, 0x4E) temsil edilen 4 baytlık sihirli s�
 
 ## Referanslar
 
-* [Outlook Kişisel Klasörleri (.ost) Dosya Biçimi](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Kişisel Klasör Dosya Biçimi Özellikleri](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Outlook Kişisel Klasörleri (.ost) Dosya Biçimi](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Kişisel Klasör Dosya Biçimi Özellikleri](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

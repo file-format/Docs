@@ -22,7 +22,7 @@ Bestanden met de extensie .pst vertegenwoordigen Outlook Personal Storage Files 
 
 ## Specificaties PST-bestandsindeling
 
-PST-bestandsindeling [specificaties](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) zijn verkrijgbaar bij Microsoft als gratis en onherroepelijke gratis patentlicentie via de Open Specification Promise .
+PST-bestandsindeling [specificaties](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546) zijn verkrijgbaar bij Microsoft als gratis en onherroepelijke gratis patentlicentie via de Open Specification Promise .
 
 ### Type PST-formaten
 
@@ -94,6 +94,6 @@ Om veiligheidsredenen kunnen PST-bestanden ook met een wachtwoord worden beveili
 
 ## Referenties ##
 
-* [Bestandsindeling Outlook Personal Folders (.pst)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [specificaties bestandsindeling persoonlijke map](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Bestandsindeling Outlook Personal Folders (.pst)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [specificaties bestandsindeling persoonlijke map](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

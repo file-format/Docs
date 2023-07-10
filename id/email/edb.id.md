@@ -80,5 +80,5 @@ Berdasarkan ini, keadaan database dapat dinilai sebagai berikut.
  
 
 ## Referensi
-* [Spesifikasi Extensible Storage Engine (ESE) Database File (EDB)](https://github.com/libyal/libesedb/tree/master/documentation)
+* [Spesifikasi Extensible Storage Engine (ESE) Database File (EDB)](https://github.com/libyal/libesedb/tree/main/documentation)
 

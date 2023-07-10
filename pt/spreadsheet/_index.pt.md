@@ -22,7 +22,7 @@ Um arquivo de **planilha** contém dados na forma de linhas e colunas. Um arquiv
 
 As extensões comuns de arquivo de planilha e seus formatos de arquivo incluem **[XLSX](/pt/spreadsheet/xlsx/)** (Planilha Open XML do Microsoft Excel), **[ODS](/pt/spreadsheet/ods/)** (Planilha OpenDocument) e **[XLS](/pt/spreadsheet/xls/)** (formato de arquivo binário do Microsoft Excel).
 
-Tem consultas relacionadas a formatos de arquivo de planilha? Acesse nossa comunidade [fóruns](https://forum.fileformat.com/c/spreadsheet) para se beneficiar do conhecimento compartilhado por especialistas em formato de arquivo.
+Tem consultas relacionadas a formatos de arquivo de planilha? Acesse nossa comunidade [fóruns](https://forum.fileformat.com/c/spreadsheet/6) para se beneficiar do conhecimento compartilhado por especialistas em formato de arquivo.
 
 ## Lista de extensões de arquivo de planilha e formatos de arquivo associados
 

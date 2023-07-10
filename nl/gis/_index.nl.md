@@ -22,7 +22,7 @@ Een GIS-kaartbestand (Geografisch Informatie Systeem) bestaat uit ruimtelijke of
 
 Veelgebruikte GIS-bestandsextensies en hun bestandsindelingen zijn **[GPX](/nl/gis/gpx/)** (GPS Exchange-bestandsindeling), **[KML](/nl/gis/kml/)** (Keyhole Markup Language File) en **[SHP](/nl/gis/shp/)** (ESRI Shapefile).
 
-Heeft u vragen over GIS-bestandsindelingen? Ga naar onze community [forums](https://forum.fileformat.com/c/gis) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
+Heeft u vragen over GIS-bestandsindelingen? Ga naar onze community [forums](https://forum.fileformat.com/c/gis/7) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
 
 ## Lijst met GIS-bestandsextensies en bijbehorende bestandsindelingen
 Hieronder volgt een lijst met veelvoorkomende GIS-bestandsindelingen samen met hun bestandsextensies.

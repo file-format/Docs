@@ -18,7 +18,7 @@
 
 ## ما هو ملف SSF؟
 
-الملف الذي يحتوي على ملف .ssf هو تنسيق ملف تخزين بيانات جغرافية مكانية تستخدمه تطبيقات برامج GIS للتنقل [Trimble](https://www.trimble.com). يقوم بتخزين بيانات GPS المسجلة من الميدان باستخدام أجهزة Trimble. ثم يتم استيراد سجل GPS في أحد تطبيقات مجموعة تطبيقات Trimble. يتم استخدام سجل GPS الموجود في SSF لإنشاء أنظمة إحداثيات مخصصة. يمكن فتح ملفات SSF باستخدام [Trimble Navigation GPS Pathfinder Office](https://geospatial.trimble.com/products-and-solutions/gps-pathfinder-office) و Trimble Navigation GPS Pathfinder Tools SDK و ESRI ArcGIS for Desktop باستخدام Trimble GPS Analyst plug-in.
+الملف الذي يحتوي على ملف .ssf هو تنسيق ملف تخزين بيانات جغرافية مكانية تستخدمه تطبيقات برامج GIS للتنقل [Trimble](https://www.trimble.com). يقوم بتخزين بيانات GPS المسجلة من الميدان باستخدام أجهزة Trimble. ثم يتم استيراد سجل GPS في أحد تطبيقات مجموعة تطبيقات Trimble. يتم استخدام سجل GPS الموجود في SSF لإنشاء أنظمة إحداثيات مخصصة. يمكن فتح ملفات SSF باستخدام [Trimble Navigation GPS Pathfinder Office](https://geospatial.trimble.com/products-and-solutions/ssf-and-ddf-data-format-extensions-fme) و Trimble Navigation GPS Pathfinder Tools SDK و ESRI ArcGIS for Desktop باستخدام Trimble GPS Analyst plug-in.
 
 ## تنسيق ملف SSF - مزيد من المعلومات
 

@@ -22,7 +22,7 @@
 
 常见的纯文本文件扩展名和相关文件格式包括 **[TXT](/zh/word-processing/txt/)**、**[CSV](/zh/spreadsheet/csv/)**，而富文本文档的文件扩展名包括**[DOCX](/zh/word-processing/docx/)**、**[DOC](/zh/word-processing/doc/)** 和 **[RTF](/zh/word-processing/rtf/)** .
 
-有与文字处理文件格式相关的查询吗？前往我们的社区 [论坛](https://forum.fileformat.com/c/word-processing)，从文件格式专家分享的知识中受益。
+有与文字处理文件格式相关的查询吗？前往我们的社区 [论坛](https://forum.fileformat.com/c/word-processing/5)，从文件格式专家分享的知识中受益。
 
 # 文字处理文件扩展名和相关文件格式列表
 

@@ -22,5 +22,5 @@ Microsfot Visio מגיע כחלק מחבילת Microsoft Office ומשמש לי�
 
 פורמטים של קבצי Visio כוללים סוגי קבצים כגון **[VSDX](/he/visio/vsdx/)**, **[VSX](/he/visio/vsx/)**, VTX, VDX, **[VSSX](/he/visio /vssx/)**, VSTX, VSDM, VSSM, VSTM פורמט קובץ שנשמר בדיסק כאשר המשתמש יוצר פרויקט ב-Microsoft Visio ושומר אותו בדיסק. להלן רשימה של פורמטים של קובץ Publisher.
 
-יש לך שאילתות הקשורות לפורמטים של קבצים של Visio? המשך לקהילה שלנו [פורומים](https://forum.fileformat.com/c/visio/) כדי ליהנות מהידע המשותף על ידי מומחי פורמט קבצים.
+יש לך שאילתות הקשורות לפורמטים של קבצים של Visio? המשך לקהילה שלנו [פורומים](https://forum.fileformat.com/c/visio/31) כדי ליהנות מהידע המשותף על ידי מומחי פורמט קבצים.
 

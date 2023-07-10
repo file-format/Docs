@@ -27,7 +27,7 @@ OST(오프라인 저장소 테이블) 및 [PST](/ko/email/pst/)(개인 저장소
 * 32비트 ANSI 형식
 * 64비트 유니코드 형식
 
-Microsoft에서 제공하는 PST 파일 형식[사양](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)은 OST 파일 형식에도 무료로 적용할 수 있으며 Open Specification Promise를 통한 취소 불가능한 특허 라이선스. 다음과 같은 구별 가능한 요소로 구성됩니다.
+Microsoft에서 제공하는 PST 파일 형식[사양](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)은 OST 파일 형식에도 무료로 적용할 수 있으며 Open Specification Promise를 통한 취소 불가능한 특허 라이선스. 다음과 같은 구별 가능한 요소로 구성됩니다.
 
 * 파일 헤더
 * 파일 헤더 데이터
@@ -78,6 +78,6 @@ OST 파일의 HEADER 구조는 오프셋이 0인 파일의 맨 처음에 위치�
 
 ## 참고문헌
 
-* [Outlook 개인 폴더(.ost) 파일 형식](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [개인 폴더 파일 형식 사양](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Outlook 개인 폴더(.ost) 파일 형식](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [개인 폴더 파일 형식 사양](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

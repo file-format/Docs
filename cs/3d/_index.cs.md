@@ -20,7 +20,7 @@
 
 Elektronická reprezentace trojrozměrného objektu je známá jako 3D soubor. K ukládání informací o 3D modelech se používá formát 3D souboru. Obvykle ukládá informace o 3D modelech jako prostý text nebo binární data. Existují doslova stovky 3D formátů souborů a jsou široce používány ve 3D hrách, tisku, počítačově podporovaném navrhování, výrobě, akademické půdě, strojírenství a dalších. Každé odvětví má své vlastní formáty 3D souborů z několika důvodů. Níže budeme diskutovat o nejoblíbenějších formátech 3D souborů a o nejvíce doporučeném softwaru, který jej používá.
 
-Máte dotazy týkající se 3D formátů souborů? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/3d), abyste mohli těžit ze znalostí sdílených odborníky na formát souborů.
+Máte dotazy týkající se 3D formátů souborů? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/3d/11), abyste mohli těžit ze znalostí sdílených odborníky na formát souborů.
 
 ## Seznam přípon 3D souborů a souvisejících formátů souborů
 

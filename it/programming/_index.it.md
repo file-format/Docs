@@ -22,7 +22,7 @@ I file di programmazione sono file di codice sorgente utilizzati dai linguaggi d
 
 Le estensioni di file di programmazione o sviluppatori comuni e i formati di file associati includono **[C#](/it/programming/cs/)** (File di codice sorgente CSharp), **[CPP](/it/programming/cpp/)** (Fonte C++ File) e **[VB](/it/programming/vb/)** (File del codice sorgente Visual Basic).
 
-Hai domande relative ai formati di file di programmazione? Visita la nostra community [forum](https://forum.fileformat.com/c/programming) per beneficiare delle conoscenze condivise dagli esperti di formati di file.
+Hai domande relative ai formati di file di programmazione? Visita la nostra community [forum](https://forum.fileformat.com/c/programming/26) per beneficiare delle conoscenze condivise dagli esperti di formati di file.
 
 ## Elenco delle estensioni dei file di programmazione e dei formati di file associati
 

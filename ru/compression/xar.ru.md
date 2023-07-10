@@ -110,5 +110,5 @@ struct xar_header {
 ## использованная литература
 
 * [XAR](https://github.com/mackyle/xar/wiki/xarformat)
-* [XAR - Википедия](https://en.wikipedia.org/wiki/Xar_(архиватор))
+* [XAR - Википедия](https://en.wikipedia.org/wiki/Xar_(archiver))
 

@@ -21,7 +21,7 @@ Este nevoie de un număr de tipuri de fișiere atunci când construiți o pagin�
 
 Extensiile obișnuite de fișiere web și formatele lor asociate includ **[HTML](/ro/web/html/)** (Hypertext Markup Language), **[ASP](/ro/web/asp/) (Active Server Pages)**, și **CSS** (Foi de stil în cascadă).
 
-Aveți întrebări legate de formatele de fișiere web? Accesați comunitatea noastră [forumuri](https://forum.fileformat.com/c/web) pentru a beneficia de cunoștințele împărtășite de experții în format de fișiere.
+Aveți întrebări legate de formatele de fișiere web? Accesați comunitatea noastră [forumuri](https://forum.fileformat.com/c/web/13) pentru a beneficia de cunoștințele împărtășite de experții în format de fișiere.
 
 ## Lista extensiilor de fișiere web și formatelor de fișiere asociate
 

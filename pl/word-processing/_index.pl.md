@@ -22,7 +22,7 @@ Plik edytora tekstu zawiera informacje o użytkowniku w formacie zwykłego tekst
 
 Typowe rozszerzenia plików zwykłego tekstu i powiązane formaty plików to **[TXT](/pl/processing tekstu/txt/)**, **[CSV](/pl/arkusz kalkulacyjny/csv/)**, podczas gdy rozszerzenia plików dla dokumentów tekstowych to m.in. **[DOCX](/pl/processing-word/docx/)**, **[DOC](/pl/processing-word/doc/)** i **[RTF](/pl/processing-word/rtf/)** .
 
-Masz zapytania związane z formatami plików edytora tekstu? Odwiedź nasze [fora] społeczności (https://forum.fileformat.com/c/word-processing), aby skorzystać z wiedzy ekspertów ds. formatów plików.
+Masz zapytania związane z formatami plików edytora tekstu? Odwiedź nasze [fora] społeczności (https://forum.fileformat.com/c/word-processing/5), aby skorzystać z wiedzy ekspertów ds. formatów plików.
 
 # Lista rozszerzeń plików edytora tekstu i powiązanych formatów plików
 

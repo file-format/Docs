@@ -29,7 +29,7 @@ De door glTF gebruikte methoden voor het afleveren van inhoud resulteren in extr
 * glTF JSON verwijst naar externe binaire gegevens (geometrie, keyframes, skins) en afbeeldingen.
 * glTF JSON sluit base64-gecodeerde binaire gegevens en afbeeldingen inline in met behulp van gegevens-URI's.
 
-GLB als containerformaat is geïntroduceerd als binair bestandsformaat voor weergave van glTF-activa in een binaire blob om de problemen veroorzaakt door glTF te voorkomen. GLB-bestandsindeling [specificaties](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0#glb-file-format-specification) moet worden verwezen voor elke lezer/schrijver-implementatie van hetzelfde voor toepassingsontwikkeling .
+GLB als containerformaat is geïntroduceerd als binair bestandsformaat voor weergave van glTF-activa in een binaire blob om de problemen veroorzaakt door glTF te voorkomen. GLB-bestandsindeling [specificaties](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0#glb-file-format-specification) moet worden verwezen voor elke lezer/schrijver-implementatie van hetzelfde voor toepassingsontwikkeling .
 
 ## GLB-bestandsstructuur
 

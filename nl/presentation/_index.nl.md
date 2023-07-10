@@ -22,7 +22,7 @@ U moet bekend zijn met **PPTX** en **PPT** extensiebestanden. Dit zijn presentat
 
 Veelgebruikte bestandsextensies voor presentaties en de bijbehorende bestandsindelingen zijn **[PPTX](/nl/presentation/pptx/)**, **[PPT](/nl/presentation/ppt/)** en **[ODP](/nl/presentation/odp /)**.
 
-Heeft u vragen met betrekking tot presentatiebestandsindelingen? Ga naar onze community [forums](https://forum.fileformat.com/c/presentation) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
+Heeft u vragen met betrekking tot presentatiebestandsindelingen? Ga naar onze community [forums](https://forum.fileformat.com/c/presentation/8) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
 
 ## Lijst met bestandsextensies voor presentaties en bijbehorende bestandsindelingen
 

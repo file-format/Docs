@@ -80,5 +80,5 @@
  
 
 ## อ้างอิง
-* [ข้อมูลจำเพาะของไฟล์ฐานข้อมูล Extensible Storage Engine (ESE) (EDB)](https://github.com/libyal/libesedb/tree/master/documentation)
+* [ข้อมูลจำเพาะของไฟล์ฐานข้อมูล Extensible Storage Engine (ESE) (EDB)](https://github.com/libyal/libesedb/tree/main/documentation)
 

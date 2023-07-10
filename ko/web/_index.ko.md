@@ -21,7 +21,7 @@
 
 일반적인 웹 파일 확장자와 관련 파일 형식에는 **[HTML](/ko/web/html/)**(Hypertext Markup Language), **[ASP](/ko/web/asp/)(Active Server Pages)**, 및 **CSS**(캐스케이딩 스타일 시트).
 
-웹 파일 형식과 관련된 쿼리가 있습니까? 커뮤니티 [포럼](https://forum.fileformat.com/c/web)으로 이동하여 파일 형식 전문가가 공유하는 지식을 활용하십시오.
+웹 파일 형식과 관련된 쿼리가 있습니까? 커뮤니티 [포럼](https://forum.fileformat.com/c/web/13)으로 이동하여 파일 형식 전문가가 공유하는 지식을 활용하십시오.
 
 ## 웹 파일 확장명 및 관련 파일 형식 목록
 

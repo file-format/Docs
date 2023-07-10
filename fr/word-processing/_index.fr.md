@@ -22,7 +22,7 @@ Un fichier de traitement de texte contient des informations utilisateur au forma
 
 Les extensions de fichier en texte brut courantes et les formats de fichier associés incluent **[TXT](/fr/word-processing/txt/)**, **[CSV](/fr/spreadsheet/csv/)**, tandis que les extensions de fichier pour les documents en texte enrichi incluent **[DOCX](/fr/word-processing/docx/)**, **[DOC](/fr/word-processing/doc/)** et **[RTF](/fr/word-processing/rtf/)** .
 
-Vous avez des questions concernant les formats de fichiers de traitement de texte ? Rendez-vous sur notre communauté [forums](https://forum.fileformat.com/c/word-processing) pour bénéficier des connaissances partagées par les experts du format de fichier.
+Vous avez des questions concernant les formats de fichiers de traitement de texte ? Rendez-vous sur notre communauté [forums](https://forum.fileformat.com/c/word-processing/5) pour bénéficier des connaissances partagées par les experts du format de fichier.
 
 # Liste des extensions de fichiers de traitement de texte et des formats de fichiers associés
 

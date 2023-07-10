@@ -18,7 +18,7 @@
 
 ## Co je soubor SSF?
 
-Soubor se souborem .ssf je formát souboru pro ukládání geoprostorových dat používaný softwarovými aplikacemi navigačního GIS [Trimble](https://www.trimble.com). Ukládá data GPS zaznamenaná z terénu pomocí zařízení Trimble. Záznam GPS je poté importován do jedné z aplikací sady aplikací Trimble. Záznam GPS obsažený v SSF se používá k vytváření vlastních souřadnicových systémů. Soubory SSF lze otevřít pomocí [Trimble Navigation GPS Pathfinder Office](https://geospatial.trimble.com/products-and-solutions/gps-pathfinder-office), Trimble Navigation GPS Pathfinder Tools SDK a ESRI ArcGIS for Desktop s Trimble GPS Analyst plug-in.
+Soubor se souborem .ssf je formát souboru pro ukládání geoprostorových dat používaný softwarovými aplikacemi navigačního GIS [Trimble](https://www.trimble.com). Ukládá data GPS zaznamenaná z terénu pomocí zařízení Trimble. Záznam GPS je poté importován do jedné z aplikací sady aplikací Trimble. Záznam GPS obsažený v SSF se používá k vytváření vlastních souřadnicových systémů. Soubory SSF lze otevřít pomocí [Trimble Navigation GPS Pathfinder Office](https://geospatial.trimble.com/products-and-solutions/ssf-and-ddf-data-format-extensions-fme), Trimble Navigation GPS Pathfinder Tools SDK a ESRI ArcGIS for Desktop s Trimble GPS Analyst plug-in.
 
 ## Formát souboru SSF – Další informace
 

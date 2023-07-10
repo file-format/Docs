@@ -22,7 +22,7 @@ Plik mapy GIS (Geographic Information System) zawiera informacje przestrzenne lu
 
 Typowe rozszerzenia plików GIS i ich formaty plików to **[GPX](/pl/gis/gpx/)** (GPS Exchange File Format), **[KML](/pl/gis/kml/)** (plik Keyhole Markup Language) i **[SHP](/pl/gis/shp/)** (ESRI Shapefile).
 
-Masz zapytania związane z formatami plików GIS? Odwiedź nasze [fora] społeczności (https://forum.fileformat.com/c/gis), aby skorzystać z wiedzy ekspertów ds. formatów plików.
+Masz zapytania związane z formatami plików GIS? Odwiedź nasze [fora] społeczności (https://forum.fileformat.com/c/gis/7), aby skorzystać z wiedzy ekspertów ds. formatów plików.
 
 ## Lista rozszerzeń plików GIS i powiązanych formatów plików
 Poniżej znajduje się lista popularnych formatów plików GIS wraz z ich rozszerzeniami.

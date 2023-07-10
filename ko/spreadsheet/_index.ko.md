@@ -22,7 +22,7 @@
 
 일반적인 스프레드시트 파일 확장자와 해당 파일 형식에는 **[XLSX](/ko/spreadsheet/xlsx/)**(Microsoft Excel Open XML 스프레드시트), **[ODS](/ko/spreadsheet/ods/)**(OpenDocument 스프레드시트) 및 **[XLS](/ko/spreadsheet/xls/)**(Microsoft Excel 이진 파일 형식).
 
-스프레드시트 파일 형식과 관련된 쿼리가 있습니까? 커뮤니티 [포럼](https://forum.fileformat.com/c/spreadsheet)으로 이동하여 파일 형식 전문가가 공유하는 지식을 활용하십시오.
+스프레드시트 파일 형식과 관련된 쿼리가 있습니까? 커뮤니티 [포럼](https://forum.fileformat.com/c/spreadsheet/6)으로 이동하여 파일 형식 전문가가 공유하는 지식을 활용하십시오.
 
 ## 스프레드시트 파일 확장명 및 관련 파일 형식 목록
 

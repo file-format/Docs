@@ -31,7 +31,7 @@ glTF 2.0은 2017년 6월 5일 Web3D 2017 Conference에서 발표되었습니다.
 
 ## GLTF 파일 형식
 
-glTF 2.0에 대한 파일 형식 사양은 참조용으로 [온라인](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0)에서 사용할 수 있으며 지원을 위해 읽기/쓰기와 관련된 모든 구현에서 참조해야 합니다. .glTF 파일 형식
+glTF 2.0에 대한 파일 형식 사양은 참조용으로 [온라인](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0)에서 사용할 수 있으며 지원을 위해 읽기/쓰기와 관련된 모든 구현에서 참조해야 합니다. .glTF 파일 형식
 
 glTF는 자산을 외부 데이터를 지원하는 JSON 파일로 정의합니다. 다음을 통해 3D 모델을 나타냅니다.
 
@@ -63,7 +63,7 @@ glTF는 JSON 파일 형식에 대해 다음과 같은 추가 제한을 부과합
 
 **데이터 URI:** 데이터 URI는 RFC 2397에 정의된 대로이며 glTF에서 JSON에 리소스를 포함하는 데 사용합니다.
 
-**상대 URI 경로:** 또는 RFC 3986, [섹션 4.2](https://tools.ietf.org/html/rfc3986#section-4.2)에 정의된 경로-noscheme — 체계, 권한 또는 매개변수가 없습니다. 예약된 문자는 RFC 3986, [섹션 2.2](https://tools.ietf.org/html/rfc3986#section-2.2)에 따라 퍼센트로 인코딩되어야 합니다.
+**상대 URI 경로:** 또는 RFC 3986, [섹션 4.2](https://datatracker.ietf.org/doc/html/rfc3986#section-4.2)에 정의된 경로-noscheme — 체계, 권한 또는 매개변수가 없습니다. 예약된 문자는 RFC 3986, [섹션 2.2](https://datatracker.ietf.org/doc/html/rfc3986#section-2.2)에 따라 퍼센트로 인코딩되어야 합니다.
 
 ## 참조 ##
 

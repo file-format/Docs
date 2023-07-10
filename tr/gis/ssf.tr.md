@@ -18,7 +18,7 @@
 
 ## SSF dosyası nedir?
 
-.ssf dosyasına sahip bir dosya, [Trimble](https://www.trimble.com) Navigasyon CBS yazılım uygulamaları tarafından kullanılan Jeo-uzamsal veri depolama dosyası biçimidir. Trimble cihazları kullanılarak sahadan kaydedilen GPS verilerini saklar. GPS günlüğü daha sonra Trimble uygulama paketindeki uygulamalardan birine aktarılır. Bir SSF'de bulunan GPS günlüğü, özel koordinat sistemleri oluşturmak için kullanılır. SSF dosyaları [Trimble Navigation GPS Pathfinder Office](https://geospatial.trimble.com/products-and-solutions/gps-pathfinder-office), Trimble Navigation GPS Pathfinder Tools SDK ve ESRI ArcGIS for Desktop ile açılabilir. Trimble GPS Analisti eklentisi.
+.ssf dosyasına sahip bir dosya, [Trimble](https://www.trimble.com) Navigasyon CBS yazılım uygulamaları tarafından kullanılan Jeo-uzamsal veri depolama dosyası biçimidir. Trimble cihazları kullanılarak sahadan kaydedilen GPS verilerini saklar. GPS günlüğü daha sonra Trimble uygulama paketindeki uygulamalardan birine aktarılır. Bir SSF'de bulunan GPS günlüğü, özel koordinat sistemleri oluşturmak için kullanılır. SSF dosyaları [Trimble Navigation GPS Pathfinder Office](https://geospatial.trimble.com/products-and-solutions/ssf-and-ddf-data-format-extensions-fme), Trimble Navigation GPS Pathfinder Tools SDK ve ESRI ArcGIS for Desktop ile açılabilir. Trimble GPS Analisti eklentisi.
 
 ## SSF Dosya Biçimi - Daha Fazla Bilgi
 

@@ -46,7 +46,7 @@ Formát souboru 3MF využívá pro svůj fyzický model specifikace Open Packagi
 
 Typický dokument 3MF vypadá následovně:
 
-![3MF Document Structure](https://github.com/3MFConsortium/spec_core/raw/master/images/figure_2-1.png "3MF Document Structure")
+![3MF Document Structure](https://raw.githubusercontent.com/3MFConsortium/spec_core/master/images/figure_2-1.png "3MF Document Structure")
 
 Užitečné zatížení zahrnuje úplnou sadu dílů potřebných pro zpracování dílu 3D modelu. Veškerý obsah, který má být použit k výrobě předmětu popsaného v 3D užitečné zátěži, MUSÍ být obsažen v dokumentu 3MF. Popis každé části dokumentu spolu s jejím stavem podle potřeby nebo možnosti je uveden v následující tabulce.
 

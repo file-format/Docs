@@ -22,7 +22,7 @@
 
 ## Προδιαγραφές μορφής αρχείου PST
 
-Μορφή αρχείου PST [προδιαγραφές](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) είναι διαθέσιμα από τη Microsoft ως δωρεάν και αμετάκλητη δωρεάν άδεια χρήσης διπλωμάτων ευρεσιτεχνίας μέσω της υπόσχεσης Open Specification Promise .
+Μορφή αρχείου PST [προδιαγραφές](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546) είναι διαθέσιμα από τη Microsoft ως δωρεάν και αμετάκλητη δωρεάν άδεια χρήσης διπλωμάτων ευρεσιτεχνίας μέσω της υπόσχεσης Open Specification Promise .
 
 ### Τύπος μορφών PST
 
@@ -94,6 +94,6 @@
 
 ## Βιβλιογραφικές αναφορές ##
 
-* [Μορφή αρχείου Outlook Personal Folders (.pst)](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Προδιαγραφές μορφής αρχείου προσωπικού φακέλου](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Μορφή αρχείου Outlook Personal Folders (.pst)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Προδιαγραφές μορφής αρχείου προσωπικού φακέλου](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

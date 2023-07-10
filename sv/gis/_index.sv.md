@@ -22,7 +22,7 @@ En GIS (Geographic Information System) kartfil består av rumslig eller geografi
 
 Vanliga GIS-filtillägg och deras filformat inkluderar **[GPX](/sv/gis/gpx/)** (GPS Exchange File Format), **[KML](/sv/gis/kml/)** (Keyhole Markup Language File) och **[SHP](/sv/gis/shp/)** (ESRI Shapefile).
 
-Har du frågor relaterade till GIS-filformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/gis) för att dra nytta av kunskapen som delas av filformatsexperter.
+Har du frågor relaterade till GIS-filformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/gis/7) för att dra nytta av kunskapen som delas av filformatsexperter.
 
 ## Lista över GIS-filtillägg och associerade filformat
 Följande är en lista över vanliga GIS-filformat tillsammans med deras filtillägg.

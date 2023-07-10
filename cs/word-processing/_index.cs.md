@@ -22,7 +22,7 @@ Soubor textového editoru obsahuje informace o uživateli ve formátu prostého 
 
 Mezi běžné přípony souborů ve formátu prostého textu a související formáty souborů patří **[TXT](/cs/word-processing/txt/)**, **[CSV](/cs/spreadsheet/csv/)**, zatímco přípony souborů pro dokumenty s formátovaným textem zahrnují **[DOCX](/cs/text-processing/docx/)**, **[DOC](/cs/text-processing/doc/)** a **[RTF](/cs/text-processing/rtf/)** .
 
-Máte dotazy týkající se formátů souborů textového editoru? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/word-processing), kde můžete těžit ze znalostí sdílených odborníky na formát souborů.
+Máte dotazy týkající se formátů souborů textového editoru? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/word-processing/5), kde můžete těžit ze znalostí sdílených odborníky na formát souborů.
 
 # Seznam přípon souborů pro zpracování textu a souvisejících formátů souborů
 

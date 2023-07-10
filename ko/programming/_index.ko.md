@@ -22,7 +22,7 @@
 
 일반적인 개발자 또는 프로그래밍 파일 확장자 및 관련 파일 형식에는 **[C#](/ko/programming/cs/)**(CSharp 소스 코드 파일), **[CPP](/ko/programming/cpp/)**(C++ 소스 파일) 및 **[VB](/ko/programming/vb/)**(Visual Basic 소스 코드 파일).
 
-프로그래밍 파일 형식과 관련된 쿼리가 있습니까? 커뮤니티 [포럼](https://forum.fileformat.com/c/programming)으로 이동하여 파일 형식 전문가가 공유하는 지식을 활용하십시오.
+프로그래밍 파일 형식과 관련된 쿼리가 있습니까? 커뮤니티 [포럼](https://forum.fileformat.com/c/programming/26)으로 이동하여 파일 형식 전문가가 공유하는 지식을 활용하십시오.
 
 ## 프로그래밍 파일 확장자 및 관련 파일 형식 목록
 

@@ -19,7 +19,7 @@
 
 Televizyon, Sinema ekranları gibi medya cihazlarında ve Facebook, Twitter, YouTube gibi sosyal medya kanallarında ve daha birçok sosyal medya kanalında günlük olarak izlediğimiz videolara herkes aşinadır. Ancak bu videoların nasıl kaydedildiğini ve bunların görüntülenmek üzere hangi formatlarda yüklenebileceğini hiç merak ettiniz mi? Videonuz için farklı depolama ortamlarında barındırılacak en iyi dosya biçimi nedir? Video dosyası formatları, videoları depolamak ve çeşitli amaçlar için kullanılmak üzere bir dizi farklı video türünden oluşur. Karşılaşmış olabileceğiniz doldurma Video dosyası biçimleri arasında [AVI](/tr/video/avi/), [MOV](/tr/video/mov/), [WMV](/tr/video/wmv/), [M4V](/tr/video) yer alır /m4v/) ve [MP4](/tr/video/mp4/).
 
-Video dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/video) gidin.
+Video dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/video/27) gidin.
 
 
 ## Video Dosya Uzantılarının ve İlişkili Dosya Biçimlerinin Listesi

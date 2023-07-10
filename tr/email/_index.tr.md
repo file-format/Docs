@@ -19,7 +19,7 @@
 
 Hiç E-posta dosya biçimleriyle karşılaştınız ve onu açamadınız mı? Doğru yere geldiniz, E-posta dosya biçimlerinin ne olduğunu ve bunları açabilen veya kullanabilen önerilen yazılımların neler olduğunu açıklayacağız. E-posta dosyası biçimleri, e-posta uygulamaları tarafından e-posta mesajları, ekler, klasörler, adres defterleri vb. dahil olmak üzere çeşitli verilerini depolamak için kullanılır. Ek dosya türleri de E-posta dosya uzantısını kullanıyor olabilir. E-posta ile ilgili olarak kullanılan birkaç yaygın dosya türü vardır. Aşağıda, çeşitli e-posta istemcileri tarafından e-posta mesajlarını ve diğer ilgili verileri depolamak için kullanılan en popüler dosya biçimlerinin listesi bulunmaktadır.
 
-E-posta dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/email) gidin.
+E-posta dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/email/14) gidin.
 
 ## E-posta Dosya Uzantılarının ve İlişkili Dosya Biçimlerinin Listesi
 

@@ -22,7 +22,7 @@
 
 ## PST 文件格式规范
 
-PST 文件格式 [规范](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) 可通过开放规范承诺从 Microsoft 作为免费且不可撤销的免费专利许可获得.
+PST 文件格式 [规范](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546) 可通过开放规范承诺从 Microsoft 作为免费且不可撤销的免费专利许可获得.
 
 ### PST 格式的类型
 
@@ -94,6 +94,6 @@ PST 文件的 HEADER 结构位于文件的最开始处 0 偏移处。它包含�
 
 ## 参考 ＃＃
 
-* [Outlook 个人文件夹 (.pst) 文件格式](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [个人文件夹文件格式规范](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Outlook 个人文件夹 (.pst) 文件格式](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [个人文件夹文件格式规范](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

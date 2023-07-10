@@ -58,6 +58,6 @@ Nieużywane pola są wypełniane bajtami NUL. Nagłówek składa się z 257 bajt
 
 ## Bibliografia ##
 
-* [TAR – z Wikipedii](https://en.wikipedia.org/wiki/Tar_(komputery))
+* [TAR – z Wikipedii](https://en.wikipedia.org/wiki/Tar_(computing))
 * [Podstawowy format TAR](https://www.gnu.org/software/tar/manual/html_node/Standard.html)
 

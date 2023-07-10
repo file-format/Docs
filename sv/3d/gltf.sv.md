@@ -31,7 +31,7 @@ glTF 2.0 publicerades den 5 juni 2017 på Web3D 2017-konferensen. Det finns en l
 
 ## GLTF filformat
 
-Filformatspecifikationerna för glTF 2.0 är tillgängliga [online](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0) för referens och bör konsulteras i alla implementeringar som är relaterade till läsning/skrivande för stöd för glTF filformat.
+Filformatspecifikationerna för glTF 2.0 är tillgängliga [online](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0) för referens och bör konsulteras i alla implementeringar som är relaterade till läsning/skrivande för stöd för glTF filformat.
 
 glTF definierar tillgångar som JSON-filer med stödjande externa data. Den representerar 3D-modeller med hjälp av:
 
@@ -63,7 +63,7 @@ Buffertar och bildresurser refereras via URI:er. Följande två URI-typer måste
 
 **Data-URI:** Data-URI:er är enligt definitionen av RFC 2397 och används av glTF för att bädda in resurser i JSON.
 
-**Relativ URI-sökväg:** eller path-noscheme enligt definitionen i RFC 3986, [avsnitt 4.2](https://tools.ietf.org/html/rfc3986#section-4.2) — utan schema, auktoritet eller parametrar. Reserverade tecken måste vara procentkodade enligt RFC 3986, [avsnitt 2.2](https://tools.ietf.org/html/rfc3986#section-2.2).
+**Relativ URI-sökväg:** eller path-noscheme enligt definitionen i RFC 3986, [avsnitt 4.2](https://datatracker.ietf.org/doc/html/rfc3986#section-4.2) — utan schema, auktoritet eller parametrar. Reserverade tecken måste vara procentkodade enligt RFC 3986, [avsnitt 2.2](https://datatracker.ietf.org/doc/html/rfc3986#section-2.2).
 
 ## Referenser ##
 

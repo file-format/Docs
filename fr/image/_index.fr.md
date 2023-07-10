@@ -28,7 +28,7 @@ Un format de fichier image est une méthode standard pour organiser et stocker d
 
 **Les images vectorielles** sont définies par des points 2D, au lieu de pixels, qui sont connectés pour donner une forme géométrique à l'image. Les points ont des propriétés qui définissent la direction des tracés, la couleur, la forme, la courbe, l'épaisseur et le remplissage. Les extensions de fichiers d'images vectorielles courantes et leurs formats de fichiers incluent **[SVG](/fr/page-description-language/svg/)** (Scalable Vector Graphics), **[EPS](/fr/page-description-language/eps/) ** (Langage PostScript encapsulé) et **[PDF](/fr/pdf/)** (Portable Document Format).
 
-Vous avez des questions concernant les formats de fichiers image ? Rendez-vous sur notre communauté [forums](https://forum.fileformat.com/c/image) pour bénéficier des connaissances partagées par les experts du format de fichier.
+Vous avez des questions concernant les formats de fichiers image ? Rendez-vous sur notre communauté [forums](https://forum.fileformat.com/c/image/9) pour bénéficier des connaissances partagées par les experts du format de fichier.
 
 ## Liste des extensions de fichiers image et des formats de fichiers associés
 Vous trouverez ci-dessous une liste des formats de fichiers image courants ainsi que leurs extensions de fichier.

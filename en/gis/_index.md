@@ -22,7 +22,7 @@ A GIS (Geographic Information System) map file consists of spatial or geographic
 
 Common GIS file extensions and their file formats include **[GPX](/gis/gpx/)** (GPS Exchange File Format), **[KML](/gis/kml/)** (Keyhole Markup Language File) and **[SHP](/gis/shp/)** (ESRI Shapefile).
 
-Got queries related to GIS file formats? Head on to our community [forums](https://forum.fileformat.com/c/gis) to benefit from the knowledge shared by File Format experts.
+Got queries related to GIS file formats? Head on to our community [forums](https://forum.fileformat.com/c/gis/7) to benefit from the knowledge shared by File Format experts.
 
 ## List of GIS File Extensions and Associated File Formats
 Following is a list of common GIS file formats along with their file extensions.

@@ -21,7 +21,7 @@ I file di programma per prendere appunti contengono sezioni e pagine per la memo
 
 Le estensioni di file di OneNote comuni e i formati di file associati includono **[.ONE](/it/note-taking/one/)** e il relativo file di sommario **[.ONETOC2](/it/note-taking/onetoc2/)** .
 
-Hai domande relative ai formati di file di Notes? Visita la nostra community [forum](https://forum.fileformat.com/c/note-taking) per beneficiare delle conoscenze condivise dagli esperti di formati di file.
+Hai domande relative ai formati di file di Notes? Visita la nostra community [forum](https://forum.fileformat.com/c/note-taking/23) per beneficiare delle conoscenze condivise dagli esperti di formati di file.
 
 ## Elenco di note che prendono le estensioni dei file e i formati di file associati
 Di seguito è riportato un elenco di note comuni che prendono formati di file insieme alle loro estensioni di file.

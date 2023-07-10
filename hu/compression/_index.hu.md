@@ -19,7 +19,7 @@
 
 A fájltömörítés egy vagy több fájl méretének csökkentésére szolgáló folyamat. A nagy fájlokat sokkal kisebbre zsugorítja azáltal, hogy eltávolítja a szükségtelen adatokat. A tömörített fájlarchívum megkönnyíti a nagy fájlok vagy fájlcsoportok küldését és biztonsági mentését. Ezenkívül az ilyen fájlok megkönnyítik a letöltést, és több adatot tárolnak cserélhető adathordozón. Különféle tömörítési formátumok léteznek. Az alábbiakban a legnépszerűbb tömörítési fájlformátumokat és az ezeket használó leginkább ajánlott szoftvereket tárgyaljuk.
 
-Kérdései vannak a tömörítési fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/compression), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
+Kérdései vannak a tömörítési fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/compression/10), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
 
 ## A tömörített fájlkiterjesztések és a kapcsolódó Flie formátumok listája
 

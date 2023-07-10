@@ -20,7 +20,7 @@
 
 CAD står för Computer Aided Design. Termen CADD (för Computer Aided Design and Drafting) används också. Den används för ett 3D-grafikfilformat och kan innehålla 2D- eller 3D-designer. CAD-fil är ett digitalt filformat för ett objekt som genereras och används av CAD-programvara. En CAD-fil innehåller en teknisk ritning, ritning, schematisk eller 3D-rendering av ett objekt. Det kan finnas andra CAD-verktyg som kan användas för att skapa, öppna, redigera och exportera dessa .cad-filer till mer utbredda CAD-ritningsfilformat. Nedan kommer vi att diskutera de mest populära CAD-filformaten och den mest rekommenderade programvaran som kan öppna, ändra och konvertera andra populära format.
 
-Har du frågor relaterade till CAD-filformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/cad) för att dra nytta av kunskapen som delas av filformatsexperter.
+Har du frågor relaterade till CAD-filformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/cad/12) för att dra nytta av kunskapen som delas av filformatsexperter.
 
 ## Lista över CAD-filtillägg och associerade filformat
 

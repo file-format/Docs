@@ -28,7 +28,7 @@ A **Rasztergrafika** olyan digitális képek, amelyek pixeladatokat tartalmaznak
 
 A **vektorképeket** pixelek helyett 2D pontok határozzák meg, amelyek összekapcsolódnak, hogy geometriai formát adjanak a képnek. A pontok olyan tulajdonságokkal rendelkeznek, amelyek meghatározzák a pályák irányát, színét, alakját, ívét, vastagságát és kitöltését. A gyakori vektorkép-fájlkiterjesztések és fájlformátumaik a következők: **[SVG](/hu/page-description-language/svg/)** (Scalable Vector Graphics), **[EPS](/hu/page-description-language/eps/) ** (Encapsulated PostScript nyelv) és **[PDF](/hu/pdf/)** (Portable Document Format).
 
-Kérdései vannak a képfájl formátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/image), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
+Kérdései vannak a képfájl formátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/image/9), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
 
 ## A képfájl-kiterjesztések és a kapcsolódó fájlformátumok listája
 Az alábbiakban felsoroljuk a gyakori képfájlformátumokat a fájlkiterjesztésekkel együtt.

@@ -22,7 +22,7 @@ File pemrograman adalah file kode sumber yang digunakan oleh bahasa pemrograman 
 
 Ekstensi file pengembang atau pemrograman umum dan format file terkait termasuk **[C#](/id/programming/cs/)** (File Kode Sumber CSharp), **[CPP](/id/programming/cpp/)** (Sumber C++ File) dan **[VB](/id/programming/vb/)** (File Kode Sumber Visual Basic).
 
-Punya pertanyaan terkait dengan format file Pemrograman? Kunjungi [forum](https://forum.fileformat.com/c/programming) komunitas kami untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
+Punya pertanyaan terkait dengan format file Pemrograman? Kunjungi [forum](https://forum.fileformat.com/c/programming/26) komunitas kami untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
 
 ## Daftar Ekstensi File Pemrograman dan Format File Terkait
 

@@ -19,7 +19,7 @@
 
 Dosya Sıkıştırma, bir veya daha fazla dosyanın boyutunu küçültme işlemidir. Gereksiz verileri kaldırarak büyük dosyaları çok daha küçük dosyalara küçültür. Sıkıştırılmış dosya arşivi, büyük dosyaları veya dosya gruplarını göndermeyi ve yedeklemeyi kolaylaştırır. Ayrıca, bu tür dosyalar indirmeyi daha hızlı hale getirir ve çıkarılabilir medyada daha fazla verinin depolanmasına izin verir. Çeşitli sıkıştırma biçimleri vardır. Aşağıda, en popüler Sıkıştırma Dosyası Biçimlerini ve onu kullanan en çok önerilen yazılımı tartışacağız.
 
-Sıkıştırma dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/compression) gidin.
+Sıkıştırma dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/compression/10) gidin.
 
 ## Sıkıştırılmış Dosya Uzantılarının ve İlişkili Dosya Biçimlerinin Listesi
 

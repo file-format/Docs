@@ -21,7 +21,7 @@ Det krävs ett antal filtyper när du bygger en webbsida. Webbfilformat definier
 
 Vanliga webbfiltillägg och deras associerade filformat inkluderar **[HTML](/sv/web/html/)** (Hypertext Markup Language), **[ASP](/sv/web/asp/) (Active Server Pages)**, och **CSS** (Cascading Style Sheets).
 
-Har du frågor relaterade till webbfilformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/web) för att dra nytta av kunskapen som delas av filformatsexperter.
+Har du frågor relaterade till webbfilformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/web/13) för att dra nytta av kunskapen som delas av filformatsexperter.
 
 ## Lista över webbfiltillägg och associerade filformat
 

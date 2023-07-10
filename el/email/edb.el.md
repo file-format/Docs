@@ -80,5 +80,5 @@
  
 
 ## βιβλιογραφικές αναφορές
-* [Προδιαγραφές αρχείου βάσης δεδομένων (EDB) Extensible Storage Engine (ESE)](https://github.com/libyal/libesedb/tree/master/documentation)
+* [Προδιαγραφές αρχείου βάσης δεδομένων (EDB) Extensible Storage Engine (ESE)](https://github.com/libyal/libesedb/tree/main/documentation)
 

@@ -20,7 +20,7 @@
 
 A háromdimenziós objektumok elektronikus ábrázolását 3D fájlnak nevezik. A 3D-s fájlformátum a 3D-s modellekkel kapcsolatos információk tárolására szolgál. Általában egyszerű szövegként vagy bináris adatként tárolja a 3D modellekről szóló információkat. Szó szerint több száz 3D-s fájlformátum létezik, és széles körben használják a 3D-s játékokban, a nyomtatásban, a számítógéppel segített tervezésben, a gyártásban, a tudományos életben, a mérnöki munkákban stb. Minden iparágnak megvannak a saját 3D fájlformátumai több okból is. Az alábbiakban a legnépszerűbb 3D fájlformátumokról és az ezeket használó leginkább ajánlott szoftverekről fogunk beszélni.
 
-Kérdései vannak a 3D fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/3d), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
+Kérdései vannak a 3D fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/3d/11), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
 
 ## A 3D fájlkiterjesztések és a kapcsolódó fájlformátumok listája
 

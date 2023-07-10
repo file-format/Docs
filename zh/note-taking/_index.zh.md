@@ -21,7 +21,7 @@
 
 常见的 OneNote 文件扩展名及其相关文件格式包括 **[.ONE](/zh/note-taking/one/)** 及其目录文件 **[.ONETOC2](/zh/note-taking/onetoc2/)** .
 
-有与 Notes 文件格式相关的查询吗？前往我们的社区 [论坛](https://forum.fileformat.com/c/note-taking)，从文件格式专家分享的知识中获益。
+有与 Notes 文件格式相关的查询吗？前往我们的社区 [论坛](https://forum.fileformat.com/c/note-taking/23)，从文件格式专家分享的知识中获益。
 
 ## 记录文件扩展名和相关文件格式的笔记列表
 以下是常见的笔记文件格式及其文件扩展名的列表。

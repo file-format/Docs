@@ -22,7 +22,7 @@ Trebuie să fiți familiarizat cu fișierele de extensie **PPTX** și **PPT**, a
 
 Extensiile comune de fișiere de prezentare și formatele de fișiere asociate acestora includ **[PPTX](/ro/presentation/pptx/)**, **[PPT](/ro/presentation/ppt/)** și **[ODP](/ro/presentation/odp /)**.
 
-Aveți întrebări legate de formatele de fișiere de prezentare? Accesați comunitatea noastră [forumuri](https://forum.fileformat.com/c/presentation) pentru a beneficia de cunoștințele împărtășite de experții în format de fișiere.
+Aveți întrebări legate de formatele de fișiere de prezentare? Accesați comunitatea noastră [forumuri](https://forum.fileformat.com/c/presentation/8) pentru a beneficia de cunoștințele împărtășite de experții în format de fișiere.
 
 ## Lista de extensii de fișiere de prezentare și formate de fișiere asociate
 

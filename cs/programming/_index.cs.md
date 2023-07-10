@@ -22,7 +22,7 @@ Programovací soubory jsou soubory zdrojového kódu, které používají progra
 
 Mezi běžné přípony souborů pro vývojáře nebo programování a jejich přidružené formáty souborů patří **[C#](/cs/programming/cs/)** (CSharp Source Code File), **[CPP](/cs/programming/cpp/)** (C++ Source Soubor) a **[VB](/cs/programming/vb/)** (soubor zdrojového kódu jazyka Visual Basic).
 
-Máte dotazy týkající se programování formátů souborů? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/programming), abyste mohli těžit ze znalostí sdílených odborníky na formát souborů.
+Máte dotazy týkající se programování formátů souborů? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/programming/26), abyste mohli těžit ze znalostí sdílených odborníky na formát souborů.
 
 ## Seznam přípon programovacích souborů a souvisejících formátů souborů
 

@@ -19,7 +19,7 @@
 
 La compression de fichiers est le processus permettant de réduire la taille d'un ou plusieurs fichiers. Il réduit les gros fichiers en fichiers beaucoup plus petits en supprimant les données inutiles. L'archive de fichiers compressés facilite l'envoi et la sauvegarde de fichiers volumineux ou de groupes de fichiers. De plus, ces fichiers facilitent le téléchargement plus rapidement et permettent de stocker davantage de données sur des supports amovibles. Il existe différents formats de compression. Ci-dessous, nous allons discuter des formats de fichiers de compression les plus populaires et des logiciels les plus recommandés qui les utilisent.
 
-Vous avez des questions concernant les formats de fichiers de compression ? Rendez-vous sur notre communauté [forums](https://forum.fileformat.com/c/compression) pour bénéficier des connaissances partagées par les experts du format de fichier.
+Vous avez des questions concernant les formats de fichiers de compression ? Rendez-vous sur notre communauté [forums](https://forum.fileformat.com/c/compression/10) pour bénéficier des connaissances partagées par les experts du format de fichier.
 
 ## Liste des extensions de fichiers compressés et des formats de fichiers associés
 

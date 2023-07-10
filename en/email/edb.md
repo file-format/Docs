@@ -79,4 +79,4 @@ Based on these, the state of the database can be assessed as follow.
 |5|JET_dbstateForceDetachInternal|This value is introduced in WindowsXP|
  
 ## References
- * [Extensible Storage Engine (ESE) Database File (EDB) Specifications](https://github.com/libyal/libesedb/tree/master/documentation)
+ * [Extensible Storage Engine (ESE) Database File (EDB) Specifications](https://github.com/libyal/libesedb/tree/main/documentation)

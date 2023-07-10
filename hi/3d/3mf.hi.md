@@ -46,7 +46,7 @@
 
 एक विशिष्ट 3MF दस्तावेज़ इस प्रकार दिखता है:
 
-![3MF Document Structure](https://github.com/3MFConsortium/spec_core/raw/master/images/figure_2-1.png "3MF Document Structure")
+![3MF Document Structure](https://raw.githubusercontent.com/3MFConsortium/spec_core/master/images/figure_2-1.png "3MF Document Structure")
 
 पेलोड में 3D मॉडल भाग को संसाधित करने के लिए आवश्यक भागों का पूरा सेट शामिल है। 3D पेलोड में वर्णित किसी वस्तु के निर्माण के लिए उपयोग की जाने वाली सभी सामग्री को 3MF दस्तावेज़ में शामिल किया जाना चाहिए। दस्तावेज़ के प्रत्येक भाग का विवरण और आवश्यकता के अनुसार उसकी स्थिति या विकल्प निम्न तालिका में दिया गया है।
 

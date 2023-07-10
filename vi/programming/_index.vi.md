@@ -22,7 +22,7 @@ Các tệp lập trình là các tệp mã nguồn được các ngôn ngữ l�
 
 Các phần mở rộng tệp phổ biến dành cho nhà phát triển hoặc tệp lập trình và các định dạng tệp được liên kết của chúng bao gồm **[C#](/vi/programming/cs/)** (Tệp mã nguồn CSharp), **[CPP](/vi/programming/cpp/)** (Nguồn C++ Tệp) và **[VB](/vi/programming/vb/)** (Tệp mã nguồn Visual Basic).
 
-Có truy vấn liên quan đến định dạng tệp lập trình? Hãy tham gia cộng đồng của chúng tôi [các diễn đàn](https://forum.fileformat.com/c/programming) để hưởng lợi từ kiến thức do các chuyên gia Định dạng tệp chia sẻ.
+Có truy vấn liên quan đến định dạng tệp lập trình? Hãy tham gia cộng đồng của chúng tôi [các diễn đàn](https://forum.fileformat.com/c/programming/26) để hưởng lợi từ kiến thức do các chuyên gia Định dạng tệp chia sẻ.
 
 ## Danh sách phần mở rộng tệp lập trình và định dạng tệp được liên kết
 

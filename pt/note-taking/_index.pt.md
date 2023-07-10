@@ -21,7 +21,7 @@ Arquivos de programa de anotações contêm seções e páginas para armazenar n
 
 As extensões de arquivo comuns do OneNote e seus formatos de arquivo associados incluem **[.ONE](/pt/note-taking/one/)** e seu arquivo de índice **[.ONETOC2](/pt/note-taking/onetoc2/)** .
 
-Tem consultas relacionadas aos formatos de arquivo do Notes? Acesse nossa comunidade [fóruns](https://forum.fileformat.com/c/note-taking) para se beneficiar do conhecimento compartilhado por especialistas em formato de arquivo.
+Tem consultas relacionadas aos formatos de arquivo do Notes? Acesse nossa comunidade [fóruns](https://forum.fileformat.com/c/note-taking/23) para se beneficiar do conhecimento compartilhado por especialistas em formato de arquivo.
 
 ## Lista de extensões de arquivo de anotações e formatos de arquivo associados
 A seguir está uma lista de formatos de arquivo de anotações comuns junto com suas extensões de arquivo.

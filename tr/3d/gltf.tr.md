@@ -31,7 +31,7 @@ glTF 2.0, 5 Haziran 2017'de Web3D 2017 Konferansı'nda yayınlandı. Bundan sonr
 
 ## GLTF Dosya Biçimi
 
-glTF 2.0 için dosya formatı belirtimleri referans için [çevrimiçi](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0) mevcuttur ve okuma/yazma ile ilgili herhangi bir uygulamada destek için danışılmalıdır. glTF dosya biçimi.
+glTF 2.0 için dosya formatı belirtimleri referans için [çevrimiçi](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0) mevcuttur ve okuma/yazma ile ilgili herhangi bir uygulamada destek için danışılmalıdır. glTF dosya biçimi.
 
 glTF, varlıkları harici verileri destekleyen JSON dosyaları olarak tanımlar. 3B modelleri aşağıdakilerin yardımıyla temsil eder:
 
@@ -63,7 +63,7 @@ Arabelleklere ve Görüntü kaynaklarına, URI'ler aracılığıyla başvurulur.
 
 **Veri URI'leri:** Veri URI'leri, RFC 2397 tarafından tanımlandığı gibidir ve glTF tarafından kaynakları JSON'a katıştırmak için kullanılır.
 
-**Göreceli URI Yolları:** veya RFC 3986, [Bölüm 4.2](https://tools.ietf.org/html/rfc3986#section-4.2) tarafından tanımlandığı şekliyle yol şeması — şema, yetki veya parametreler olmadan. Ayrılmış karakterler, RFC 3986 [Bölüm 2.2](https://tools.ietf.org/html/rfc3986#section-2.2) uyarınca yüzde olarak kodlanmalıdır.
+**Göreceli URI Yolları:** veya RFC 3986, [Bölüm 4.2](https://datatracker.ietf.org/doc/html/rfc3986#section-4.2) tarafından tanımlandığı şekliyle yol şeması — şema, yetki veya parametreler olmadan. Ayrılmış karakterler, RFC 3986 [Bölüm 2.2](https://datatracker.ietf.org/doc/html/rfc3986#section-2.2) uyarınca yüzde olarak kodlanmalıdır.
 
 ## Referanslar ##
 

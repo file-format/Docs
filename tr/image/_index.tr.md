@@ -28,7 +28,7 @@ Görüntü dosyası formatı, görüntüleri bilgisayarlar, tabletler ve akıll�
 
 **Vektör görüntüleri**, görüntüye geometrik bir şekil vermek için bağlanan pikseller yerine 2B noktalarla tanımlanır. Noktalar, yolların yönünü, rengi, şekli, eğriyi, kalınlığı ve dolguyu tanımlayan özelliklere sahiptir. Yaygın vektör görüntü dosyası uzantıları ve dosya biçimleri arasında **[SVG](/tr/page-description-language/svg/)** (Ölçeklenebilir Vektör Grafikleri), **[EPS](/tr/page-description-language/eps/) bulunur ** (Encapsulated PostScript dili) ve **[PDF](/tr/pdf/)** (Taşınabilir Belge Biçimi).
 
-Görüntü dosyası biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/image) gidin.
+Görüntü dosyası biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/image/9) gidin.
 
 ## Görüntü Dosyası Uzantılarının ve İlişkili Dosya Biçimlerinin Listesi
 Aşağıda, dosya uzantılarıyla birlikte yaygın Görüntü dosyası biçimlerinin bir listesi bulunmaktadır.

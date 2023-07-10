@@ -22,7 +22,7 @@ Programmeringsfiler är källkodsfiler som används av programmeringsspråk för
 
 Vanliga filtillägg för utvecklare eller programmering och deras associerade filformat inkluderar **[C#](/sv/programming/cs/)** (CSharp Source Code File), **[CPP](/sv/programming/cpp/)** (C++ Source File) och **[VB](/sv/programming/vb/)** (Visual Basic Source Code File).
 
-Har du frågor relaterade till programmering av filformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/programming) för att dra nytta av kunskapen som delas av filformatsexperter.
+Har du frågor relaterade till programmering av filformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/programming/26) för att dra nytta av kunskapen som delas av filformatsexperter.
 
 ## Lista över programmeringsfiltillägg och associerade filformat
 

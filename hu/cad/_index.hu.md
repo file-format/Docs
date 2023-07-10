@@ -20,7 +20,7 @@
 
 A CAD a Computer Aided Design rövidítése. A CADD (számítógéppel segített tervezés és rajzolás) kifejezést is használják. 3D-s grafikus fájlformátumhoz használatos, és 2D vagy 3D terveket tartalmazhat. A CAD fájl egy objektum digitális fájlformátuma, amelyet a CAD szoftver generál és használ. A CAD-fájl egy objektum műszaki rajzát, tervrajzát, kapcsolási rajzát vagy 3D-s megjelenítését tartalmazza. Lehetnek más CAD-eszközök is, amelyekkel létrehozhatók, megnyithatók, szerkeszthetők és exportálhatók ezek a .cad-fájlok szélesebb körben használt CAD-rajzfájl-formátumokba. Az alábbiakban a legnépszerűbb CAD fájlformátumokról és a leginkább ajánlott szoftverekről fogunk beszélni, amelyek képesek megnyitni, módosítani és más népszerű formátumokba konvertálni.
 
-Kérdései vannak a CAD fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/cad), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
+Kérdései vannak a CAD fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/cad/12), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
 
 ## A CAD fájlkiterjesztések és a kapcsolódó fájlformátumok listája
 

@@ -20,7 +20,7 @@
 
 Den elektroniska representationen av ett tredimensionellt objekt kallas 3D-fil. Ett 3D-filformat används för att lagra information om 3D-modeller. Den lagrar vanligtvis information om 3D-modeller som vanlig text eller binär data. Det finns bokstavligen hundratals 3D-filformat och används ofta i 3D-spel, utskrift, datorstödd design, tillverkning, akademi, teknik och mer. Varje bransch har sina egna 3D-filformat av flera skäl. Nedan kommer vi att diskutera de mest populära 3D-filformaten och den mest rekommenderade programvaran som använder den.
 
-Har du frågor relaterade till 3D-filformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/3d) för att dra nytta av kunskapen som delas av filformatsexperter.
+Har du frågor relaterade till 3D-filformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/3d/11) för att dra nytta av kunskapen som delas av filformatsexperter.
 
 ## Lista över 3D-filtillägg och associerade filformat
 

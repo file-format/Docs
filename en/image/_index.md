@@ -28,7 +28,7 @@ An image file format is a standard method for organizing and storing images on 
 
 **Vector images** are defined by 2D points, instead of pixels, which are connected to give a geometric shape to the image. The points have properties that define the direction of paths, color, shape, curve, thickness, and fill. Common vector image file extensions and their file formats include **[SVG](/page-description-language/svg/)** (Scalable Vector Graphics), **[EPS](/page-description-language/eps/)** (Encapsulated PostScript language) and **[PDF](/pdf/)** (Portable Document Format).
 
-Got queries related to Image file formats? Head on to our community [forums](https://forum.fileformat.com/c/image) to benefit from the knowledge shared by File Format experts.
+Got queries related to Image file formats? Head on to our community [forums](https://forum.fileformat.com/c/image/9) to benefit from the knowledge shared by File Format experts.
 
 ## List of Image File Extensions and Associated File Formats
 Following is a list of common Image file formats along with their file extensions.

@@ -22,7 +22,7 @@ Een tekstverwerkingsbestand bevat gebruikersinformatie in platte tekst of RTF-in
 
 Veelgebruikte bestandsextensies voor platte tekst en bijbehorende bestandsindelingen zijn onder meer **[TXT](/nl/tekstverwerking/txt/)**, **[CSV](/nl/spreadsheet/csv/)**, terwijl bestandsextensies voor RTF-documenten **[DOCX](/nl/tekstverwerking/docx/)**, **[DOC](/nl/tekstverwerking/doc/)** en **[RTF](/nl/tekstverwerking/rtf/)** .
 
-Heeft u vragen over bestandsindelingen voor tekstverwerking? Ga naar onze community [forums](https://forum.fileformat.com/c/word-processing) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
+Heeft u vragen over bestandsindelingen voor tekstverwerking? Ga naar onze community [forums](https://forum.fileformat.com/c/word-processing/5) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
 
 # Lijst met bestandsextensies voor tekstverwerking en bijbehorende bestandsindelingen
 

@@ -21,7 +21,7 @@ Egy weboldal készítésekor számos fájltípusra van szükség. A webes fájlf
 
 A gyakori webes fájlkiterjesztések és a hozzájuk tartozó fájlformátumok a következők: **[HTML](/hu/web/html/)** (Hypertext Markup Language), **[ASP](/hu/web/asp/) (Active Server Pages)**, és **CSS** (Cascading Style Sheets).
 
-Kérdései vannak a webes fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/web), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
+Kérdései vannak a webes fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/web/13), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
 
 ## A webes fájlkiterjesztések és a kapcsolódó fájlformátumok listája
 

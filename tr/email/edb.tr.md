@@ -80,5 +80,5 @@ Bunlara dayanarak, veritabanının durumu aşağıdaki gibi değerlendirilebilir
  
 
 ## Referanslar
-* [Genişletilebilir Depolama Motoru (ESE) Veritabanı Dosyası (EDB) Spesifikasyonları](https://github.com/libyal/libesedb/tree/master/documentation)
+* [Genişletilebilir Depolama Motoru (ESE) Veritabanı Dosyası (EDB) Spesifikasyonları](https://github.com/libyal/libesedb/tree/main/documentation)
 

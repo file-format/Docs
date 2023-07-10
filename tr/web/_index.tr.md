@@ -21,7 +21,7 @@ Bir web sayfası oluştururken bir dizi dosya türü gerekir. Web dosyası biçi
 
 Yaygın web dosya uzantıları ve ilişkili dosya biçimleri arasında **[HTML](/tr/web/html/)** (Köprü Metni İşaretleme Dili), **[ASP](/tr/web/asp/) (Aktif Sunucu Sayfaları)**, ve **CSS** (Basamaklı Stil Sayfaları).
 
-Web dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/web) gidin.
+Web dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/web/13) gidin.
 
 ## Web Dosya Uzantılarının ve İlişkili Dosya Biçimlerinin Listesi
 

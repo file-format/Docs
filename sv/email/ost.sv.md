@@ -27,7 +27,7 @@ Filformaten OST (Offline Storage Table) och [PST](/sv/email/pst/) (Personal Stor
 * 32-bitars ANSI-format
 * 64-bitars Unicode-format
 
-PST-filformat [specifikationer](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx), som är tillgängligt från Microsoft, är också tillämpliga på OST-filformat som gratis och oåterkallelig patentlicensering genom Open Specification Promise. Den består av följande särskiljbara element:
+PST-filformat [specifikationer](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546), som är tillgängligt från Microsoft, är också tillämpliga på OST-filformat som gratis och oåterkallelig patentlicensering genom Open Specification Promise. Den består av följande särskiljbara element:
 
 * Fle header
 * Filhuvuddata
@@ -78,6 +78,6 @@ Rubriken börjar med ett 4-byte magiskt ord **!BDN** representerat av byte (0x21
 
 ## Referenser
 
-* [Outlook Personal Folders (.ost) Filformat](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-* [Personal Folder File Format Specifications](https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Outlook Personal Folders (.ost) Filformat](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+* [Personal Folder File Format Specifications](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

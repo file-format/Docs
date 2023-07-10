@@ -22,7 +22,7 @@ Bir GIS (Coğrafi Bilgi Sistemi) harita dosyası, belirli bir konum veya alan ha
 
 Yaygın GIS dosya uzantıları ve dosya biçimleri arasında **[GPX](/tr/gis/gpx/)** (GPS Exchange Dosya Biçimi), **[KML](/tr/gis/kml/)** (Anahtar Deliği Biçimlendirme Dili Dosyası) bulunur. ve **[SHP](/tr/gis/shp/)** (ESRI Şekil Dosyası).
 
-GIS dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/gis) gidin.
+GIS dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/gis/7) gidin.
 
 ## GIS Dosya Uzantılarının ve İlişkili Dosya Biçimlerinin Listesi
 Aşağıda, dosya uzantılarıyla birlikte yaygın GIS dosya biçimlerinin bir listesi bulunmaktadır.

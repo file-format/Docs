@@ -27,7 +27,7 @@ OST (Offline Storage Table) および [PST](/email/pst/) (Personal Storage Table
 * 32 ビット ANSI 形式
 * 64 ビット Unicode 形式
 
-Microsoft から入手可能な PST ファイル形式 [仕様](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx) は、OST ファイル形式にも無料で適用されます。 Open Specification Promise による取り消し不能な特許ライセンス。これは、次の特徴的な要素で構成されています。
+Microsoft から入手可能な PST ファイル形式 [仕様](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546) は、OST ファイル形式にも無料で適用されます。 Open Specification Promise による取り消し不能な特許ライセンス。これは、次の特徴的な要素で構成されています。
 
 *ファイルヘッダー
 * ファイルヘッダーデータ
@@ -78,6 +78,6 @@ OST ファイルの HEADER 構造は、ファイルの最初の 0 オフセッ�
 
 ## 参考文献
 
-* [Outlook 個人用フォルダー (.ost) ファイル形式](https://msdn.microsoft.com/en-us/library/ff385210(v#office.12).aspx)
-※【個人フォルダのファイル形式仕様】(https://github.com/libyal/libpff/blob/master/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [Outlook 個人用フォルダー (.ost) ファイル形式](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+※【個人フォルダのファイル形式仕様】(https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 
