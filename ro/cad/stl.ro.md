@@ -91,5 +91,5 @@ end
 ## Referințe ##
 
 * [Formatul STL](http://www.fabbers.com/tech/STL_Format)
-* [STL - de Wikipedia](https://en.wikipedia.org/wiki/STL_(format_fișier))
+* [STL - de Wikipedia](https://en.wikipedia.org/wiki/STL_(file_format))
 

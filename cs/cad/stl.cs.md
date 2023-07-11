@@ -91,5 +91,5 @@ end
 ## Reference ##
 
 * [Formát STL](http://www.fabbers.com/tech/STL_Format)
-* [STL – podle Wikipedie](https://en.wikipedia.org/wiki/STL_(formát_souboru))
+* [STL – podle Wikipedie](https://en.wikipedia.org/wiki/STL_(file_format))
 

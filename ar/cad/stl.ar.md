@@ -91,5 +91,5 @@ end
 ## مراجع ##
 
 * [تنسيق المحكمة الخاصة بلبنان](http://www.fabbers.com/tech/STL_Format)
-* [STL - من ويكيبيديا](https://en.wikipedia.org/wiki/STL_ (file_format))
+* [STL - من ويكيبيديا](https://en.wikipedia.org/wiki/STL_(file_format))
 
