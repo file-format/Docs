@@ -19,7 +19,7 @@
 
 ## What is a NUT file?
 
-The NUT refers to the NUT Open Container Format file. This NUT file format belongs to the programming language which is known as Squirrel. It is an object-oriented, high level and imperative programming language which is used mostly in embedded systems and video games. 
+The NUT file format belongs to the programming language which is known as Squirrel. It is an object-oriented, high level and imperative programming language which is used mostly in embedded systems and video games. 
 
 The squirrel language is considered a lightweight scripting language that can be easily adjusted according to size and bandwidth. It involves the advantage of automatic reference counting and the management of garbage in memory.
 
