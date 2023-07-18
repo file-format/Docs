@@ -58,7 +58,7 @@ Key features of Solid Edge include:
 
 - **Drafting and Documentation:** The software offers comprehensive drafting tools for creating detailed engineering drawings, including dimensions, annotations, and symbols. It facilitates the generation of bills of materials (BOMs) and supports industry-standard formats for documentation exchange.
 
-- **Data Management:** Solid Edge incorporates data management features to organize and control design data. It allows for revision control, collaborative design, and integration with product lifecycle manageme
+- **Data Management:** Solid Edge incorporates data management features to organize and control design data. It allows for revision control, collaborative design, and integration with product lifecycle management.
 
 ## References
 * [Solid Edge](https://en.wikipedia.org/wiki/Solid_Edge)
