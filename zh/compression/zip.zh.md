@@ -25,7 +25,7 @@
 
 ZIP 文件格式的历史可以追溯到 System Enhancement Associates (SEA) 对 PKWARE 提起诉讼的事件，因为 PKWARE 在未经其商标和产品外观和用户界面版权许可的情况下使用其 ARC 实用程序。在此之前，Phil Katz 重写了 SEA 的源代码，并发布了 PKXARC（ARC 提取器）和 PKARC（文件压缩器）作为基于 MS-DOS 的系统的免费软件。败诉后，PKWARE 无法再使用与 ARC 相关的任何东西。这就是创建新文件压缩的地方，命名为 ZIP，它是 PKWARE, Inc. 的 PKZIP 实用程序的一部分。
 
-Katz 将 ZIP 文件格式规范发布到公共领域，同时保留对其压缩和提取实用程序（即 PKZIP）的专有权利。 ZIP 压缩系统曾经（并且现在）能够通过 32 位循环冗余校验 ([CRC](http://en.wikipedia.org/wiki/Cyclic_redundancy_check)) 算法将文件存档在文件夹中以压缩文件尺寸。与 ARC 不同，.ZIP 文件夹包含一个目录文件，该目录文件扮演密码学家密码本的角色，包含呈现压缩文件所需的信息。
+Katz 将 ZIP 文件格式规范发布到公共领域，同时保留对其压缩和提取实用程序（即 PKZIP）的专有权利。 ZIP 压缩系统曾经（并且现在）能够通过 32 位循环冗余校验 ([CRC](https://en.wikipedia.org/wiki/Cyclic_redundancy_check)) 算法将文件存档在文件夹中以压缩文件尺寸。与 ARC 不同，.ZIP 文件夹包含一个目录文件，该目录文件扮演密码学家密码本的角色，包含呈现压缩文件所需的信息。
 
 ## ZIP 中支持的压缩方法
 
