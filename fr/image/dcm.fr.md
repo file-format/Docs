@@ -68,5 +68,5 @@ La couche de format de support fournit les informations de gestion de fichiers s
 
 ## Références ##
 * [Norme DICOM](https://www.dicomstandard.org/current/)
-* [Format de fichier DICOM](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [Format de fichier DICOM](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

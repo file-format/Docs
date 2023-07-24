@@ -68,5 +68,5 @@
 
 ## Βιβλιογραφικές αναφορές ##
 * [Πρότυπο DICOM](https://www.dicomstandard.org/current/)
-* [Μορφή αρχείου DICOM](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [Μορφή αρχείου DICOM](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

@@ -68,5 +68,5 @@ DICOM файлът съдържа единичен набор от данни, �
 
 ## Препратки ##
 * [DICOM стандарт](https://www.dicomstandard.org/current/)
-* [Файлов формат DICOM](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [Файлов формат DICOM](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

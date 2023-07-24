@@ -68,5 +68,5 @@
 
 ## مراجع ##
 * [معيار DICOM](https://www.dicomstandard.org/current/)
-* [تنسيق ملف DICOM](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [تنسيق ملف DICOM](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

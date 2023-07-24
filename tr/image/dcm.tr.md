@@ -68,5 +68,5 @@ Ortam Formatı Katmanı, belirli bir DICOM Uygulama Profili için gerekirse aşa
 
 ## Referanslar ##
 * [DICOM Standardı](https://www.dicomstandard.org/current/)
-* [DICOM Dosya Biçimi](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [DICOM Dosya Biçimi](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

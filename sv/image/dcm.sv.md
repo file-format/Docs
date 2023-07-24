@@ -68,5 +68,5 @@ Medieformatlagret tillhandahåller följande filhanteringsinformation om nödvä
 
 ## Referenser ##
 * [DICOM Standard](https://www.dicomstandard.org/current/)
-* [DICOM-filformat](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [DICOM-filformat](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

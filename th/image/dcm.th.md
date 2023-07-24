@@ -68,5 +68,5 @@ Media Format Layer ให้ข้อมูลการจัดการไฟ�
 
 ## อ้างอิง ##
 * [มาตรฐาน DICOM](https://www.dicomstandard.org/current/)
-* [รูปแบบไฟล์ DICOM](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [รูปแบบไฟล์ DICOM](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

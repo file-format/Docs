@@ -68,5 +68,5 @@ DCM फ़ाइलें DICOM छवि प्रारूप में जा
 
 ## संदर्भ ##
 * [DICOM मानक](https://www.dicomstandard.org/current/)
-* [DICOM फ़ाइल स्वरूप](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [DICOM फ़ाइल स्वरूप](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

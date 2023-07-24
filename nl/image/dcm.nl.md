@@ -68,5 +68,5 @@ De media-indelingslaag biedt indien nodig de volgende bestandsbeheerinformatie v
 
 ## Referenties ##
 * [DICOM-standaard](https://www.dicomstandard.org/current/)
-* [DICOM-bestandsindeling](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [DICOM-bestandsindeling](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

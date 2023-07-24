@@ -68,5 +68,5 @@ DICOMファイルには、単一のSOPクラスに関連する単一のSOPイン
 
 ## 参照 ##
 ※【DICOM規格】(https://www.dicomstandard.org/current/)
-* [DICOM ファイル形式](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [DICOM ファイル形式](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

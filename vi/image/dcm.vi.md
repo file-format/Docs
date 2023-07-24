@@ -68,5 +68,5 @@ Lớp định dạng phương tiện cung cấp Thông tin quản lý tệp sau 
 
 ## Người giới thiệu ##
 * [Tiêu chuẩn DICOM](https://www.dicomstandard.org/current/)
-* [Định dạng tệp DICOM](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [Định dạng tệp DICOM](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

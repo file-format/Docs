@@ -68,5 +68,5 @@ Die Medienformatebene stellt die folgenden Dateiverwaltungsinformationen bereit,
 
 ## Verweise ##
 * [DICOM-Standard](https://www.dicomstandard.org/current/)
-* [DICOM-Dateiformat](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [DICOM-Dateiformat](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

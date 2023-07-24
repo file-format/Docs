@@ -68,5 +68,5 @@ Il livello del formato multimediale fornisce le seguenti informazioni sulla gest
 
 ## Riferimenti ##
 * [Standard DICOM](https://www.dicomstandard.org/current/)
-* [Formato file DICOM](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [Formato file DICOM](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

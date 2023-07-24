@@ -68,5 +68,5 @@ Media Format Layer는 주어진 DICOM 애플리케이션 프로필에 필요한 
 
 ## 참조 ##
 * [DICOM 표준](https://www.dicomstandard.org/current/)
-* [DICOM 파일 형식](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [DICOM 파일 형식](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

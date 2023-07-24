@@ -68,5 +68,5 @@ Vrstva formátu médií poskytuje v případě potřeby pro daný aplikační pr
 
 ## Reference ##
 * [DICOM Standard](https://www.dicomstandard.org/current/)
-* [Formát souboru DICOM](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [Formát souboru DICOM](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

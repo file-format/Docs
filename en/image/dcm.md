@@ -68,4 +68,4 @@ The Media Format Layer provides following File Management Information if necessa
 
 ## References ##
   * [DICOM Standard](https://www.dicomstandard.org/current/)
-  * [DICOM File Format](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+  * [DICOM File Format](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)

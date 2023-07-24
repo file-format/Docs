@@ -68,5 +68,5 @@ La capa de formato de medios proporciona la siguiente información de administra
 
 ## Referencias ##
 * [Estándar DICOM](https://www.dicomstandard.org/current/)
-* [Formato de archivo DICOM](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [Formato de archivo DICOM](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

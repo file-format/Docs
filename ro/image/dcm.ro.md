@@ -68,5 +68,5 @@ Stratul de format media oferă următoarele informații de gestionare a fișiere
 
 ## Referințe ##
 * [Standard DICOM](https://www.dicomstandard.org/current/)
-* [Format de fișier DICOM](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [Format de fișier DICOM](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

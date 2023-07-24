@@ -68,5 +68,5 @@
 
 ## Посилання ##
 * [Стандарт DICOM](https://www.dicomstandard.org/current/)
-* [Формат файлу DICOM](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [Формат файлу DICOM](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

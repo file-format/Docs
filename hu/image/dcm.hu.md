@@ -68,5 +68,5 @@ A Media Format Layer a következő fájlkezelési információkat nyújtja, ha s
 
 ## Hivatkozások ##
 * [DICOM-szabvány](https://www.dicomstandard.org/current/)
-* [DICOM fájlformátum](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [DICOM fájlformátum](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

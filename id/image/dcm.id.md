@@ -68,5 +68,5 @@ Lapisan Format Media menyediakan Informasi Manajemen File berikut jika diperluka
 
 ## Referensi ##
 * [Standar DICOM](https://www.dicomstandard.org/current/)
-* [Format File DICOM](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [Format File DICOM](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

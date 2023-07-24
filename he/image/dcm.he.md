@@ -68,5 +68,5 @@
 
 ## הפניות ##
 * [תקן DICOM](https://www.dicomstandard.org/current/)
-* [פורמט קובץ DICOM](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [פורמט קובץ DICOM](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

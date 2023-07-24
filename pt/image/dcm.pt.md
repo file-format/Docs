@@ -68,5 +68,5 @@ A camada de formato de mídia fornece as seguintes informações de gerenciament
 
 ## Referências ##
 * [Padrão DICOM](https://www.dicomstandard.org/current/)
-* [Formato de arquivo DICOM](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [Formato de arquivo DICOM](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 
