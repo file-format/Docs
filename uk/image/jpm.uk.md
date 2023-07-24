@@ -32,5 +32,5 @@ JPM відноситься до системи кодування зображе
 
 * [Рекомендація ITU-T. T.805](http://www.itu.int/rec/T-REC-T.805/en)
 * [ISO/IEC 15444-6:2013](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=61124)
-* [Вікіпедія:JPEG 2000](http://en.wikipedia.org/wiki/JPEG_2000)
+* [Вікіпедія:JPEG 2000](https://en.wikipedia.org/wiki/JPEG_2000)
 

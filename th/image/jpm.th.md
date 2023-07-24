@@ -32,5 +32,5 @@ JPM หมายถึงระบบการเข้ารหัสภาพ 
 
 * [บันทึก ITU-T T.805](http://www.itu.int/rec/T-REC-T.805/th)
 * [ISO/IEC 15444-6:2013](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=61124)
-* [วิกิพีเดีย:JPEG 2000](http://en.wikipedia.org/wiki/JPEG_2000)
+* [วิกิพีเดีย:JPEG 2000](https://en.wikipedia.org/wiki/JPEG_2000)
 

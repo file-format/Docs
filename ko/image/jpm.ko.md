@@ -32,5 +32,5 @@ JPM 파일 형식 표준은 여러 이미지를 단일 이미지로 결합할 �
 
 * [ITU-T Rec. T.805](http://www.itu.int/rec/T-REC-T.805/en)
 * [ISO/IEC 15444-6:2013](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=61124)
-* [위키피디아:JPEG 2000](http://en.wikipedia.org/wiki/JPEG_2000)
+* [위키피디아:JPEG 2000](https://en.wikipedia.org/wiki/JPEG_2000)
 
