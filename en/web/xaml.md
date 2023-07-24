@@ -27,7 +27,7 @@ XAML is choice of use in .NET Framework 3.0 and .NET Framework 4.0 technologies 
 
 ## XAML File Format
 
-XAML is totally based on the XML format. The initial specifications of [XAML Object Mapping](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) were published in 2006, followed by another [version](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) published in 2009. These specifications define two abstract information models:
+XAML is totally based on the XML format. The initial specifications of [XAML Object Mapping](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) were published in 2006, followed by another [version](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) published in 2009. These specifications define two abstract information models:
 
 * XAML Schema Information Set Model
 * XAML Information Set Model
@@ -37,4 +37,4 @@ The Xaml Information Set ('Xaml Infoset' for short) defines the structure of inf
 ## References
 
 * [XAML - By Wikipedia](https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language)
-* [XAML File Format Specifications](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf)
+* [XAML File Format Specifications](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf)

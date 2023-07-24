@@ -27,7 +27,7 @@ Az XAML a .NET Framework 3.0 és a .NET Framework 4.0 technológiák, például 
 
 ## XAML fájlformátum
 
-Az XAML teljes mértékben az XML formátumon alapul. Az [XAML Object Mapping] kezdeti specifikációit (https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) tették közzé 2006, majd egy másik [verzió](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) 2009. Ezek a specifikációk két absztrakt információs modellt határoznak meg:
+Az XAML teljes mértékben az XML formátumon alapul. Az [XAML Object Mapping] kezdeti specifikációit (https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) tették közzé 2006, majd egy másik [verzió](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) 2009. Ezek a specifikációk két absztrakt információs modellt határoznak meg:
 
 * XAML séma információs készlet modell
 * XAML információs készlet modell
@@ -37,5 +37,5 @@ Az Xaml információkészlet (röviden 'Xaml Infoset') határozza meg az Xaml-p�
 ## Hivatkozások
 
 * [XAML – a Wikipedia által](https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language)
-* [XAML fájlformátum specifikációi](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf)
+* [XAML fájlformátum specifikációi](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf)
 

@@ -27,7 +27,7 @@ XAML est un choix d'utilisation dans les technologies .NET Framework 3.0 et .NET
 
 ## Format de fichier XAML
 
-XAML est totalement basé sur le format XML. Les spécifications initiales de [XAML Object Mapping](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) ont été publiées dans 2006, suivi d'une autre [version](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) publiée dans 2009. Ces spécifications définissent deux modèles d'information abstraits :
+XAML est totalement basé sur le format XML. Les spécifications initiales de [XAML Object Mapping](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) ont été publiées dans 2006, suivi d'une autre [version](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) publiée dans 2009. Ces spécifications définissent deux modèles d'information abstraits :
 
 * Modèle d'ensemble d'informations de schéma XAML
 * Modèle d'ensemble d'informations XAML
@@ -37,5 +37,5 @@ L'ensemble d'informations Xaml ("Xaml Infoset" en abrégé) définit la structur
 ## Références
 
 * [XAML - Par Wikipédia](https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language)
-* [Spécifications du format de fichier XAML](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf)
+* [Spécifications du format de fichier XAML](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf)
 

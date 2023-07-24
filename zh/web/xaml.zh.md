@@ -27,7 +27,7 @@ XAML 是 .NET Framework 3.0 和 .NET Framework 4.0 技术（如 WPF、Silverligh
 
 ## XAML 文件格式
 
-XAML 完全基于 XML 格式。 [XAML 对象映射](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) 的初始规范发布于2006 年，随后发布了另一个 [版本](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) 2009. 这些规范定义了两个抽象信息模型：
+XAML 完全基于 XML 格式。 [XAML 对象映射](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) 的初始规范发布于2006 年，随后发布了另一个 [版本](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) 2009. 这些规范定义了两个抽象信息模型：
 
 * XAML 架构信息集模型
 * XAML 信息集模型
@@ -37,5 +37,5 @@ Xaml 信息集（简称“Xaml Infoset"）定义了 Xaml 实例可以表示的�
 ## 参考
 
 * [XAML - 维基百科](https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language)
-* [XAML 文件格式规范](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf)
+* [XAML 文件格式规范](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf)
 

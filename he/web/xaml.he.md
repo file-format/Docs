@@ -27,7 +27,7 @@ XAML הוא בחירת השימוש בטכנולוגיות .NET Framework 3.0 ו
 
 ## פורמט קובץ XAML
 
-XAML מבוסס לחלוטין על פורמט XML. המפרט הראשוני של [מיפוי אובייקטים XAML](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) פורסמו ב- 2006, ואחריה [גרסה] נוספת (http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) שפורסמה ב- 2009. מפרטים אלה מגדירים שני מודלים מופשטים של מידע:
+XAML מבוסס לחלוטין על פורמט XML. המפרט הראשוני של [מיפוי אובייקטים XAML](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) פורסמו ב- 2006, ואחריה [גרסה] נוספת (https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) שפורסמה ב- 2009. מפרטים אלה מגדירים שני מודלים מופשטים של מידע:
 
 * XAML Schema Information Set Model
 * דגם סט מידע XAML
@@ -37,5 +37,5 @@ XAML מבוסס לחלוטין על פורמט XML. המפרט הראשוני ש
 ## הפניות
 
 * [XAML - מאת ויקיפדיה](https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language)
-* [מפרט פורמט קובץ XAML](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf)
+* [מפרט פורמט קובץ XAML](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf)
 
