@@ -72,5 +72,5 @@ WMV-9 hat dieses Problem mit der Einführung einer Vielzahl von Techniken angega
 
 * [https://bytescout.com/blog/2014/10/windows-media-videoformat.html](https://bytescout.com/blog/2014/10/windows-media-videoformat.html )
 * [https://en.wikipedia.org/wiki/Windows_Media_Video](https://en.wikipedia.org/wiki/Windows_Media_Video)
-* [http://citeseerx.ist.psu.edu/viewdoc/download?doi#10.1.1.101.488&rep#rep1&type#pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi#10.1 .1.101.488&rep#rep1&type#pdf)
+
 
