@@ -29,5 +29,5 @@ Le format de fichier MIF est un format de fichier vectoriel stocké sous forme d
 
 ## Références
 
-* [MapInfo Professional - Wikipédia](http://en.wikipedia.org/wiki/MapInfo_Professional)
+* [MapInfo Professional - Wikipédia](https://en.wikipedia.org/wiki/MapInfo_Professional)
 

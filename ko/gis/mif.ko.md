@@ -29,5 +29,5 @@ MIF 파일 형식은 일반 ASCII 텍스트 파일로 저장되는 벡터 파일
 
 ## 참조
 
-* [MapInfo Professional - Wikipedia](http://en.wikipedia.org/wiki/MapInfo_Professional)
+* [MapInfo Professional - Wikipedia](https://en.wikipedia.org/wiki/MapInfo_Professional)
 

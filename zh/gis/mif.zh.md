@@ -29,5 +29,5 @@ MIF 文件格式是一种矢量文件格式，存储为纯 ASCII 文本文件。
 
 ## 参考
 
-* [MapInfo Professional - 维基百科](http://en.wikipedia.org/wiki/MapInfo_Professional)
+* [MapInfo Professional - 维基百科](https://en.wikipedia.org/wiki/MapInfo_Professional)
 

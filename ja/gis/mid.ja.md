@@ -40,6 +40,6 @@ MID files are saved to disc in binary file format. Attributes in the MID files i
 
 ## 参考文献
 
-* [MapInfo Professional - ウィキペディア](http://en.wikipedia.org/wiki/MapInfo_Professional)
+* [MapInfo Professional - ウィキペディア](https://en.wikipedia.org/wiki/MapInfo_Professional)
 * [正確には MapInfo MIF/MID リーダー/ライター](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/mif/mif.htm)
 
