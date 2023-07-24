@@ -25,7 +25,7 @@ WebP, diperkenalkan oleh Google, adalah format file gambar web raster modern yan
 
 Gambar WebP menggunakan proses kompresi berdasarkan prediksi piksel dari blok di sekitarnya, menghasilkan piksel untuk digunakan berkali-kali dalam satu file. Ini mendukung gambar animasi dan diharapkan mendukung lebih banyak fitur di masa mendatang. Google telah menyediakan kode sumber [online](https://developers.google.com/speed/webp/download) untuk pembuat enkode dan dekodernya agar dapat digunakan jika diperlukan. Gambar WebP menyediakan dukungan untuk:
 
-* **Kompresi lossy:** Kompresi lossy didasarkan pada enkode bingkai kunci [VP8](http://en.wikipedia.org/wiki/VP8). VP8 adalah format kompresi video yang dibuat oleh On2 Technologies sebagai penerus format VP6 dan VP7.
+* **Kompresi lossy:** Kompresi lossy didasarkan pada enkode bingkai kunci [VP8](https://en.wikipedia.org/wiki/VP8). VP8 adalah format kompresi video yang dibuat oleh On2 Technologies sebagai penerus format VP6 dan VP7.
 * **Kompresi lossless:** Format kompresi lossless dikembangkan oleh tim WebP.
 * **Transparansi:** Saluran alfa 8-bit berguna untuk gambar grafis. Saluran Alpha dapat digunakan bersama dengan RGB lossy, fitur yang saat ini tidak tersedia dengan format lain.
 * **Animasi:** Ini mendukung gambar animasi dengan warna asli.

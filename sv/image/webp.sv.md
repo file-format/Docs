@@ -25,7 +25,7 @@ WebP, introducerat av Google, är ett modernt rasterwebbbildsfilformat som är b
 
 WebP-bilder använder komprimeringsprocessen baserat på förutsägelse av pixlar från deras omgivande block, vilket resulterar i att pixlar kan användas flera gånger i en enda fil. Den stöder animerade bilder och förväntas stödja fler funktioner i framtiden. Google har gjort källkoden tillgänglig [online](https://developers.google.com/speed/webp/download) för sin kodare och avkodare så att den kan användas vid behov. WebP-bilden ger stöd för:
 
-* **Kompression med förlust:** Kompressionen med förlust är baserad på kodning för nyckelramen [VP8](http://en.wikipedia.org/wiki/VP8). VP8 är ett videokomprimeringsformat skapat av On2 Technologies som en efterföljare till VP6- och VP7-formaten.
+* **Kompression med förlust:** Kompressionen med förlust är baserad på kodning för nyckelramen [VP8](https://en.wikipedia.org/wiki/VP8). VP8 är ett videokomprimeringsformat skapat av On2 Technologies som en efterföljare till VP6- och VP7-formaten.
 * **Förlustfri komprimering:** Det förlustfria komprimeringsformatet är utvecklat av WebP-teamet.
 * **Transparens:** 8-bitars alfakanal är användbar för grafiska bilder. Alfakanalen kan användas tillsammans med förlustfri RGB, en funktion som för närvarande inte är tillgänglig med något annat format.
 * **Animation:** Det stöder animerade bilder i sanna färger.

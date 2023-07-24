@@ -25,7 +25,7 @@ Google tarafından tanıtılan WebP, kayıpsız ve kayıplı sıkıştırmaya da
 
 WebP görüntüleri, çevreleyen bloklardan piksellerin tahminine dayalı sıkıştırma işlemini kullanır ve piksellerin tek bir dosyada birden çok kez kullanılmasıyla sonuçlanır. Animasyonlu görüntüleri destekler ve gelecekte daha fazla özelliği desteklemesi beklenir. Google, gerektiğinde kullanılmak üzere kodlayıcısı ve kod çözücüsü için [çevrimiçi](https://developers.google.com/speed/webp/download) kaynak kodunu kullanıma sunmuştur. WebP görüntüsü aşağıdakiler için destek sağlar:
 
-* **Kayıplı sıkıştırma:** Kayıplı sıkıştırma, [VP8](http://en.wikipedia.org/wiki/VP8) anahtar çerçeve kodlamasına dayalıdır. VP8, On2 Technologies tarafından VP6 ve VP7 biçimlerinin halefi olarak oluşturulan bir video sıkıştırma biçimidir.
+* **Kayıplı sıkıştırma:** Kayıplı sıkıştırma, [VP8](https://en.wikipedia.org/wiki/VP8) anahtar çerçeve kodlamasına dayalıdır. VP8, On2 Technologies tarafından VP6 ve VP7 biçimlerinin halefi olarak oluşturulan bir video sıkıştırma biçimidir.
 * **Kayıpsız sıkıştırma:** Kayıpsız sıkıştırma biçimi, WebP ekibi tarafından geliştirilmiştir.
 * **Şeffaflık:** 8 bit alfa kanalı, grafik görüntüler için kullanışlıdır. Alfa kanalı, şu anda başka hiçbir formatta bulunmayan bir özellik olan kayıplı RGB ile birlikte kullanılabilir.
 * **Animasyon:** Gerçek renkli animasyonlu görüntüleri destekler.

@@ -25,7 +25,7 @@ WebP, do Google giới thiệu, là một định dạng tệp hình ảnh web r
 
 Hình ảnh WebP sử dụng quy trình nén dựa trên dự đoán pixel từ các khối xung quanh chúng, dẫn đến pixel được sử dụng nhiều lần trong một tệp. Nó hỗ trợ hình ảnh động và dự kiến sẽ hỗ trợ nhiều tính năng hơn trong tương lai. Google đã cung cấp mã nguồn [trực tuyến](https://developers.google.com/speed/webp/download) cho bộ mã hóa và giải mã của mình để được sử dụng khi cần thiết. Hình ảnh WebP cung cấp hỗ trợ cho:
 
-* **Nén có mất dữ liệu:** Nén có mất dữ liệu dựa trên mã hóa khung hình chính [VP8](http://vi.wikipedia.org/wiki/VP8). VP8 là một định dạng nén video do On2 Technologies tạo ra như một sự kế thừa cho các định dạng VP6 và VP7.
+* **Nén có mất dữ liệu:** Nén có mất dữ liệu dựa trên mã hóa khung hình chính [VP8](https://en.wikipedia.org/wiki/VP8). VP8 là một định dạng nén video do On2 Technologies tạo ra như một sự kế thừa cho các định dạng VP6 và VP7.
 * **Nén không mất dữ liệu:** Định dạng nén không mất dữ liệu do nhóm WebP phát triển.
 * **Độ trong suốt:** Kênh alpha 8 bit rất hữu ích cho hình ảnh đồ họa. Kênh Alpha có thể được sử dụng cùng với RGB mất dữ liệu, một tính năng hiện không khả dụng với bất kỳ định dạng nào khác.
 * **Hoạt hình:** Nó hỗ trợ hình ảnh hoạt hình có màu sắc trung thực.

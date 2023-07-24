@@ -25,7 +25,7 @@ A Google által bevezetett WebP egy modern raszteres webes képfájl formátum, 
 
 A WebP-képek a tömörítési eljárást a környező blokkokból származó pixelek előrejelzésén alapuló tömörítési eljárást alkalmazzák, aminek eredményeként a képpontok többször használhatók egyetlen fájlban. Támogatja az animált képeket, és várhatóan több funkciót is támogat a jövőben. A Google elérhetővé tette a forráskódot [online](https://developers.google.com/speed/webp/download) kódolójához és dekódolójához, hogy szükség esetén használható legyen. A WebP lemezkép a következőket támogatja:
 
-* **Veszteséges tömörítés:** A veszteséges tömörítés a [VP8](http://en.wikipedia.org/wiki/VP8) kulcskeret kódolásán alapul. A VP8 egy videotömörítési formátum, amelyet az On2 Technologies hozott létre a VP6 és VP7 formátumok utódjaként.
+* **Veszteséges tömörítés:** A veszteséges tömörítés a [VP8](https://en.wikipedia.org/wiki/VP8) kulcskeret kódolásán alapul. A VP8 egy videotömörítési formátum, amelyet az On2 Technologies hozott létre a VP6 és VP7 formátumok utódjaként.
 * **Veszteségmentes tömörítés:** A veszteségmentes tömörítési formátumot a WebP csapata fejlesztette ki.
 * **Átlátszóság:** A 8 bites alfa-csatorna grafikus képekhez hasznos. Az Alpha-csatorna a veszteséges RGB-vel együtt használható, amely funkció jelenleg semmilyen más formátummal nem érhető el.
 * **Animáció:** Támogatja a valódi színű animált képeket.

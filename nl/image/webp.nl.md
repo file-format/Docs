@@ -25,7 +25,7 @@ WebP, geïntroduceerd door Google, is een modern rasterwebafbeeldingsbestandsfor
 
 WebP-afbeeldingen gebruiken het compressieproces op basis van de voorspelling van pixels uit hun omringende blokken, wat resulteert in pixels die meerdere keren in één bestand kunnen worden gebruikt. Het ondersteunt geanimeerde afbeeldingen en zal naar verwachting in de toekomst meer functies ondersteunen. Google heeft de broncode [online](https://developers.google.com/speed/webp/download) voor zijn encoder en decoder beschikbaar gesteld, zodat deze waar nodig kan worden gebruikt. De WebP-afbeelding biedt ondersteuning voor:
 
-* **Compressie met verlies:** De compressie met verlies is gebaseerd op [VP8](http://en.wikipedia.org/wiki/VP8) keyframe-codering. VP8 is een videocompressieformaat gemaakt door On2 Technologies als opvolger van de VP6- en VP7-formaten.
+* **Compressie met verlies:** De compressie met verlies is gebaseerd op [VP8](https://en.wikipedia.org/wiki/VP8) keyframe-codering. VP8 is een videocompressieformaat gemaakt door On2 Technologies als opvolger van de VP6- en VP7-formaten.
 * **Lossless-compressie:** Het lossless-compressieformaat is ontwikkeld door het WebP-team.
 * **Transparantie:** 8-bits alfakanaal is handig voor grafische afbeeldingen. Het alfakanaal kan samen met lossy RGB worden gebruikt, een functie die momenteel niet beschikbaar is met een ander formaat.
 * **Animatie:** Het ondersteunt geanimeerde afbeeldingen in ware kleuren.

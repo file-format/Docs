@@ -25,7 +25,7 @@ WebP, představený společností Google, je moderní formát rastrových webov�
 
 Obrázky WebP používají proces komprese založený na predikci pixelů z jejich okolních bloků, což vede k tomu, že pixely lze použít vícekrát v jednom souboru. Podporuje animované obrázky a očekává se, že v budoucnu bude podporovat další funkce. Společnost Google zpřístupnila zdrojový kód [online](https://developers.google.com/speed/webp/download) pro svůj kodér a dekodér, aby jej bylo možné použít tam, kde je to nutné. Obrázek WebP poskytuje podporu pro:
 
-* **Ztrátová komprese:** Ztrátová komprese je založena na kódování klíčových snímků [VP8](http://en.wikipedia.org/wiki/VP8). VP8 je formát pro kompresi videa vytvořený společností On2 Technologies jako nástupce formátů VP6 a VP7.
+* **Ztrátová komprese:** Ztrátová komprese je založena na kódování klíčových snímků [VP8](https://en.wikipedia.org/wiki/VP8). VP8 je formát pro kompresi videa vytvořený společností On2 Technologies jako nástupce formátů VP6 a VP7.
 * **Bezztrátová komprese:** Formát bezztrátové komprese je vyvinut týmem WebP.
 * **Transparentnost:** 8bitový alfa kanál je užitečný pro grafické obrázky. Alfa kanál lze použít spolu se ztrátovým RGB, což je funkce, která v současnosti není dostupná u žádného jiného formátu.
 * **Animace:** Podporuje animované obrázky ve skutečných barvách.

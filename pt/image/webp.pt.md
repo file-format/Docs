@@ -25,7 +25,7 @@ O WebP, introduzido pelo Google, é um formato de arquivo de imagem da Web raste
 
 As imagens WebP usam o processo de compactação com base na previsão de pixels de seus blocos circundantes, resultando em pixels a serem usados várias vezes em um único arquivo. Ele suporta imagens animadas e espera-se que suporte mais recursos no futuro. O Google disponibilizou o código-fonte [online](https://developers.google.com/speed/webp/download) para seu codificador e decodificador para ser usado quando necessário. A imagem WebP fornece suporte para:
 
-* **Compressão com perdas:** a compressão com perdas é baseada na codificação do quadro-chave [VP8](http://en.wikipedia.org/wiki/VP8). VP8 é um formato de compressão de vídeo criado pela On2 Technologies como sucessor dos formatos VP6 e VP7.
+* **Compressão com perdas:** a compressão com perdas é baseada na codificação do quadro-chave [VP8](https://en.wikipedia.org/wiki/VP8). VP8 é um formato de compressão de vídeo criado pela On2 Technologies como sucessor dos formatos VP6 e VP7.
 * **Compressão sem perdas:** o formato de compressão sem perdas foi desenvolvido pela equipe WebP.
 * **Transparência:** o canal alfa de 8 bits é útil para imagens gráficas. O canal Alpha pode ser usado junto com RGB com perdas, um recurso que atualmente não está disponível em nenhum outro formato.
 * **Animação:** Suporta imagens animadas em cores reais.

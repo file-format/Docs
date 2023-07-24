@@ -25,7 +25,7 @@ WebP, introduced by Google, is a modern raster web image file format that is bas
 
 WebP images use the compression process based on the prediction of pixels from their surrounding blocks, resulting in pixels to be used multiple times in a single file. It supports animated images and is expected to support more features in the future. Google has made available the source code [online](https://developers.google.com/speed/webp/download) for its encoder and decoder so as to be used where required.  The WebP image provides support for:
 
-* **Lossy compression:** The lossy compression is based on [VP8](http://en.wikipedia.org/wiki/VP8) key frame encoding. VP8 is a video compression format created by On2 Technologies as a successor to the VP6 and VP7 formats.
+* **Lossy compression:** The lossy compression is based on [VP8](https://en.wikipedia.org/wiki/VP8) key frame encoding. VP8 is a video compression format created by On2 Technologies as a successor to the VP6 and VP7 formats.
 * **Lossless compression:** The lossless compression format is developed by the WebP team.
 * **Transparency:** 8-bit alpha channel is useful for graphical images. The Alpha channel can be used along with lossy RGB, a feature that's currently not available with any other format.
 * **Animation:** It supports true-color animated images.

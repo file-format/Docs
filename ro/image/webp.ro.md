@@ -25,7 +25,7 @@ WebP, introdus de Google, este un format de fișier imagine web raster modern ca
 
 Imaginile WebP folosesc procesul de compresie bazat pe predicția pixelilor din blocurile din jur, rezultând pixeli care urmează să fie utilizați de mai multe ori într-un singur fișier. Acceptă imagini animate și este de așteptat să accepte mai multe funcții în viitor. Google a pus la dispoziție codul sursă [online](https://developers.google.com/speed/webp/download) pentru codificatorul și decodorul său, astfel încât să fie utilizat acolo unde este necesar. Imaginea WebP oferă suport pentru:
 
-* **Compresie cu pierderi:** Compresia cu pierderi se bazează pe codificarea cadrului cheie [VP8](http://en.wikipedia.org/wiki/VP8). VP8 este un format de compresie video creat de On2 Technologies ca succesor al formatelor VP6 și VP7.
+* **Compresie cu pierderi:** Compresia cu pierderi se bazează pe codificarea cadrului cheie [VP8](https://en.wikipedia.org/wiki/VP8). VP8 este un format de compresie video creat de On2 Technologies ca succesor al formatelor VP6 și VP7.
 * **Compresie fără pierderi:** Formatul de compresie fără pierderi este dezvoltat de echipa WebP.
 * **Transparență:** canalul alfa de 8 biți este util pentru imaginile grafice. Canalul Alpha poate fi folosit împreună cu RGB cu pierderi, o caracteristică care nu este disponibilă în prezent cu niciun alt format.
 * **Animation:** acceptă imagini animate în culori reale.
