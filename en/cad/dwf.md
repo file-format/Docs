@@ -100,4 +100,4 @@ The file termination trailer for DWF is simply a special opcode indicating the e
 
 * [DWF - By Wikipedia](https://en.wikipedia.org/wiki/Design_Web_Format)
 * [WHIP Data Format](http://paulbourke.net/dataformats/whip/)
-* [http://blogs.msdn.com/opc/archive/2009/05/18/adventures-in-packaging-episode-1.aspx](http://blogs.msdn.com/opc/archive/2009/05/18/adventures-in-packaging-episode-1.aspx)
+* [https://learn.microsoft.com/en-us/archive/blogs/opc/adventures-in-packaging-episode-1](https://learn.microsoft.com/en-us/archive/blogs/opc/adventures-in-packaging-episode-1)
