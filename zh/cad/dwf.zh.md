@@ -100,5 +100,5 @@ DWF 的文件终止预告片只是一个指示文件结尾的特殊操作码。�
 
 * [DWF - 维基百科](https://en.wikipedia.org/wiki/Design_Web_Format)
 * [WHIP 数据格式](http://paulbourke.net/dataformats/whip/)
-* [http://blogs.msdn.com/opc/archive/2009/05/18/adventures-in-packaging-episode-1.aspx](http://blogs.msdn.com/opc/archive/2009 /05/18/adventures-in-packaging-episode-1.aspx)
+* [https://learn.microsoft.com/en-us/archive/blogs/opc/adventures-in-packaging-episode-1](https://learn.microsoft.com/en-us/archive/blogs/opc/adventures-in-packaging-episode-1)
 

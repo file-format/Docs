@@ -100,5 +100,5 @@ DWF의 파일 종료 트레일러는 단순히 파일의 끝을 나타내는 특
 
 * [DWF - 위키피디아 작성](https://en.wikipedia.org/wiki/Design_Web_Format)
 * [WHIP 데이터 형식](http://paulbourke.net/dataformats/whip/)
-* [http://blogs.msdn.com/opc/archive/2009/05/18/adventures-in-packaging-episode-1.aspx](http://blogs.msdn.com/opc/archive/2009 /05/18/adventures-in-packaging-episode-1.aspx)
+* [https://learn.microsoft.com/en-us/archive/blogs/opc/adventures-in-packaging-episode-1](https://learn.microsoft.com/en-us/archive/blogs/opc/adventures-in-packaging-episode-1)
 

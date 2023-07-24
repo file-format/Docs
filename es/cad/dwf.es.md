@@ -100,5 +100,5 @@ El tráiler de terminación de archivo para DWF es simplemente un código de ope
 
 * [DWF - Por Wikipedia](https://en.wikipedia.org/wiki/Design_Web_Format)
 * [Formato de datos WHIP](http://paulbourke.net/dataformats/whip/)
-* [http://blogs.msdn.com/opc/archive/2009/05/18/adventures-in-packaging-episode-1.aspx](http://blogs.msdn.com/opc/archive/2009 /05/18/aventuras-en-embalaje-episodio-1.aspx)
+* [https://learn.microsoft.com/en-us/archive/blogs/opc/adventures-in-packaging-episode-1](https://learn.microsoft.com/en-us/archive/blogs/opc/adventures-in-packaging-episode-1)
 
