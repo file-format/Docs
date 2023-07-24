@@ -27,7 +27,7 @@ XAML เป็นทางเลือกในการใช้งานเท
 
 ## รูปแบบไฟล์ XAML
 
-XAML ขึ้นอยู่กับรูปแบบ XML โดยสิ้นเชิง ข้อมูลจำเพาะเบื้องต้นของ [XAML Object Mapping](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) ได้รับการเผยแพร่ใน 2549 ตามมาด้วย [เวอร์ชัน](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) อื่นที่เผยแพร่ใน 2009 ข้อกำหนดเหล่านี้กำหนดแบบจำลองข้อมูลเชิงนามธรรมสองแบบ:
+XAML ขึ้นอยู่กับรูปแบบ XML โดยสิ้นเชิง ข้อมูลจำเพาะเบื้องต้นของ [XAML Object Mapping](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) ได้รับการเผยแพร่ใน 2549 ตามมาด้วย [เวอร์ชัน](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) อื่นที่เผยแพร่ใน 2009 ข้อกำหนดเหล่านี้กำหนดแบบจำลองข้อมูลเชิงนามธรรมสองแบบ:
 
 * โมเดลชุดข้อมูลสคีมา XAML
 * รูปแบบชุดข้อมูล XAML

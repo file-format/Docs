@@ -32,7 +32,7 @@ XAML je volbou pro použití v technologiích .NET Framework 3.0 a .NET Framewor
 
 ## Formát souboru XAML
 
-XAML je zcela založen na formátu XML. Počáteční specifikace [XAML Object Mapping](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) byly zveřejněny v 2006, následovaná další [verzí](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) publikovanou v 2009. Tyto specifikace definují dva abstraktní informační modely:
+XAML je zcela založen na formátu XML. Počáteční specifikace [XAML Object Mapping](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) byly zveřejněny v 2006, následovaná další [verzí](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) publikovanou v 2009. Tyto specifikace definují dva abstraktní informační modely:
 
 * Model sady informací o schématu XAML
 * Model informační sady XAML

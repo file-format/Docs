@@ -27,7 +27,7 @@ XAML is de keuze voor gebruik in .NET Framework 3.0- en .NET Framework 4.0-techn
 
 ## XAML-bestandsindeling
 
-XAML is volledig gebaseerd op het XML-formaat. De eerste specificaties van [XAML Object Mapping](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) zijn gepubliceerd in 2006, gevolgd door een andere [versie](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf), gepubliceerd in 2009. Deze specificaties definiëren twee abstracte informatiemodellen:
+XAML is volledig gebaseerd op het XML-formaat. De eerste specificaties van [XAML Object Mapping](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) zijn gepubliceerd in 2006, gevolgd door een andere [versie](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf), gepubliceerd in 2009. Deze specificaties definiëren twee abstracte informatiemodellen:
 
 * XAML-schema-informatiesetmodel
 * XAML-informatiesetmodel

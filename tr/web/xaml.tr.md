@@ -27,7 +27,7 @@ XAML, WPF, Silverlight, Windows Workflow Foundation (WF) ve diğer birkaçı gib
 
 ## XAML Dosya Biçimi
 
-XAML tamamen XML formatına dayalıdır. [XAML Nesne Eşleme](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf)'nin ilk belirtimleri şurada yayınlandı: 2006, ardından başka bir [sürüm](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) yayınlandı 2009. Bu spesifikasyonlar iki soyut bilgi modelini tanımlar:
+XAML tamamen XML formatına dayalıdır. [XAML Nesne Eşleme](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf)'nin ilk belirtimleri şurada yayınlandı: 2006, ardından başka bir [sürüm](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) yayınlandı 2009. Bu spesifikasyonlar iki soyut bilgi modelini tanımlar:
 
 * XAML Şeması Bilgi Kümesi Modeli
 * XAML Bilgi Kümesi Modeli

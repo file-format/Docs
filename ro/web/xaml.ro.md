@@ -27,7 +27,7 @@ XAML este alegerea de utilizare în tehnologiile .NET Framework 3.0 și .NET Fra
 
 ## Format de fișier XAML
 
-XAML se bazează în totalitate pe formatul XML. Specificațiile inițiale ale [XAML Object Mapping](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) au fost publicate în 2006, urmată de o altă [versiune](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) publicată în 2009. Aceste specificații definesc două modele de informații abstracte:
+XAML se bazează în totalitate pe formatul XML. Specificațiile inițiale ale [XAML Object Mapping](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) au fost publicate în 2006, urmată de o altă [versiune](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) publicată în 2009. Aceste specificații definesc două modele de informații abstracte:
 
 * Modelul setului de informații pentru schemă XAML
 * Model de set de informații XAML

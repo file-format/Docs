@@ -27,7 +27,7 @@ XAML, Extensible Application Markup Language, αρχεία επέκτασης π
 
 ## Μορφή αρχείου XAML
 
-Το XAML βασίζεται εξ ολοκλήρου στη μορφή XML. Οι αρχικές προδιαγραφές του [XAML Object Mapping](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) δημοσιεύτηκαν στο 2006, ακολουθούμενη από μια άλλη [έκδοση](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) που δημοσιεύτηκε στο 2009. Αυτές οι προδιαγραφές ορίζουν δύο αφηρημένα μοντέλα πληροφοριών:
+Το XAML βασίζεται εξ ολοκλήρου στη μορφή XML. Οι αρχικές προδιαγραφές του [XAML Object Mapping](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) δημοσιεύτηκαν στο 2006, ακολουθούμενη από μια άλλη [έκδοση](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) που δημοσιεύτηκε στο 2009. Αυτές οι προδιαγραφές ορίζουν δύο αφηρημένα μοντέλα πληροφοριών:
 
 * Μοντέλο συνόλου πληροφοριών σχήματος XAML
 * Μοντέλο σετ πληροφοριών XAML

@@ -27,7 +27,7 @@ XAML adalah pilihan penggunaan dalam teknologi .NET Framework 3.0 dan .NET Frame
 
 ## Format File XAML
 
-XAML sepenuhnya didasarkan pada format XML. Spesifikasi awal [XAML Object Mapping](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) diterbitkan di 2006, diikuti oleh [versi](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) lainnya yang diterbitkan di 2009. Spesifikasi ini mendefinisikan dua model informasi abstrak:
+XAML sepenuhnya didasarkan pada format XML. Spesifikasi awal [XAML Object Mapping](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) diterbitkan di 2006, diikuti oleh [versi](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) lainnya yang diterbitkan di 2009. Spesifikasi ini mendefinisikan dua model informasi abstrak:
 
 * Model Kumpulan Informasi Skema XAML
 * Model Kumpulan Informasi XAML

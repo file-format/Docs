@@ -27,7 +27,7 @@ XAML jest używany w technologiach .NET Framework 3.0 i .NET Framework 4.0, taki
 
 ## Format pliku XAML
 
-XAML jest całkowicie oparty na formacie XML. Wstępne specyfikacje [XAML Object Mapping](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) zostały opublikowane w 2006, a następnie kolejna [wersja](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) opublikowana w 2009. Te specyfikacje definiują dwa abstrakcyjne modele informacji:
+XAML jest całkowicie oparty na formacie XML. Wstępne specyfikacje [XAML Object Mapping](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) zostały opublikowane w 2006, a następnie kolejna [wersja](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) opublikowana w 2009. Te specyfikacje definiują dwa abstrakcyjne modele informacji:
 
 * Model zestawu informacji schematu XAML
 * Model zestawu informacji XAML

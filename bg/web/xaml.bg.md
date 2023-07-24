@@ -27,7 +27,7 @@ XAML е избор за използване в технологиите .NET Fr
 
 ## XAML файлов формат
 
-XAML е изцяло базиран на XML формат. Първоначалните спецификации на [XAML Object Mapping](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) бяха публикувани в 2006 г., последвана от друга [версия](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf), публикувана в 2009. Тези спецификации дефинират два абстрактни информационни модела:
+XAML е изцяло базиран на XML формат. Първоначалните спецификации на [XAML Object Mapping](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) бяха публикувани в 2006 г., последвана от друга [версия](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf), публикувана в 2009. Тези спецификации дефинират два абстрактни информационни модела:
 
 * XAML Schema Information Set Model
 * Модел на XAML набор от информация

@@ -27,7 +27,7 @@ XAML wird bevorzugt in .NET Framework 3.0- und .NET Framework 4.0-Technologien w
 
 ## XAML-Dateiformat
 
-XAML basiert vollständig auf dem XML-Format. Die anfänglichen Spezifikationen von [XAML-Objektzuordnung](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) wurden veröffentlicht in 2006, gefolgt von einer weiteren [Version](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf), veröffentlicht in 2009. Diese Spezifikationen definieren zwei abstrakte Informationsmodelle:
+XAML basiert vollständig auf dem XML-Format. Die anfänglichen Spezifikationen von [XAML-Objektzuordnung](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) wurden veröffentlicht in 2006, gefolgt von einer weiteren [Version](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf), veröffentlicht in 2009. Diese Spezifikationen definieren zwei abstrakte Informationsmodelle:
 
 * Modell des XAML-Schemainformationssatzes
 * Modell des XAML-Informationssatzes
