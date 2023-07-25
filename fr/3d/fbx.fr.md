@@ -206,7 +206,7 @@ La chaîne ne se termine pas par zéro et peut très bien contenir des caractèr
 
 ## Références ##
 
-* [FBX - Le SDK Autodesk](http://help.autodesk.com/view/FBX/2017/ENU/?guid#__files_GUID_105ED19A_9A5A_425E_BFD7_C1BBADA67AAB_htm)
+* [FBX - Le SDK Autodesk](https://help.autodesk.com/view/FBX/2017/ENU/)
 * [Spécifications du format de fichier binaire FBX](https://code.blender.org/2013/08/fbx-binary-file-format-specification/)
 * [FBX - Wikipédia](https://en.wikipedia.org/wiki/FBX#File_format)
 

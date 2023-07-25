@@ -206,7 +206,7 @@ TypeCodes ทั้งสองนี้แสดงดังต่อไปน�
 
 ## อ้างอิง ##
 
-* [FBX - The Autodesk SDK](http://help.autodesk.com/view/FBX/2017/ENU/?guid#__files_GUID_105ED19A_9A5A_425E_BFD7_C1BBADA67AAB_htm)
+* [FBX - The Autodesk SDK](https://help.autodesk.com/view/FBX/2017/ENU/)
 * [ข้อกำหนดรูปแบบไฟล์ไบนารีของ FBX](https://code.blender.org/2013/08/fbx-binary-file-format- specifications/)
 * [FBX - วิกิพีเดีย](https://en.wikipedia.org/wiki/FBX#File_format)
 

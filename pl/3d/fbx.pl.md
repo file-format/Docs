@@ -206,7 +206,7 @@ Oba te kody typów są reprezentowane w następujący sposób:
 
 ## Bibliografia ##
 
-* [FBX — pakiet Autodesk SDK](http://help.autodesk.com/view/FBX/2017/ENU/?guid#__files_GUID_105ED19A_9A5A_425E_BFD7_C1BBADA67AAB_htm)
+* [FBX — pakiet Autodesk SDK](https://help.autodesk.com/view/FBX/2017/ENU/)
 * [Specyfikacje formatu plików binarnych FBX](https://code.blender.org/2013/08/fbx-binary-file-format-specification/)
 * [FBX - Wikipedia](https://en.wikipedia.org/wiki/FBX#File_format)
 

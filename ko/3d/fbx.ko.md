@@ -206,7 +206,7 @@ R: raw binary data
 
 ## 참조 ##
 
-* [FBX - Autodesk SDK](http://help.autodesk.com/view/FBX/2017/ENU/?guid#__files_GUID_105ED19A_9A5A_425E_BFD7_C1BBADA67AAB_htm)
+* [FBX - Autodesk SDK](https://help.autodesk.com/view/FBX/2017/ENU/)
 * [FBX 바이너리 파일 형식 사양](https://code.blender.org/2013/08/fbx-binary-file-format-specification/)
 * [FBX - 위키피디아](https://en.wikipedia.org/wiki/FBX#File_format)
 
