@@ -81,6 +81,6 @@ BMP 색상 팔레트는 디스플레이 장치의 색상 팔레트에 있는 각
 
 ## 참조 ##
 
-* [윈도우 메타파일 형식](http://msdn.microsoft.com/en-us/library/cc250370.aspx)
+* [윈도우 메타파일 형식](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-wmf/4813e7fd-52d0-4f42-965f-228c8b7488d2)
 * [BMP 파일 형식](https://en.wikipedia.org/wiki/BMP_file_format)
 

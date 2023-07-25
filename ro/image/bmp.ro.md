@@ -81,6 +81,6 @@ Imaginea este de fapt descrisă de reprezentarea DWORD pe 32 de biți a matricei
 
 ## Referințe ##
 
-* [Windows MetaFile Format](http://msdn.microsoft.com/en-us/library/cc250370.aspx)
+* [Windows MetaFile Format](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-wmf/4813e7fd-52d0-4f42-965f-228c8b7488d2)
 * [Format de fișier BMP](https://en.wikipedia.org/wiki/BMP_file_format)
 

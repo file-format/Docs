@@ -81,6 +81,6 @@ Das Bild wird tatsächlich durch die 32-Bit-DWORDs-Darstellung des Pixelarrays b
 
 ## Verweise ##
 
-* [Windows MetaFile-Format](http://msdn.microsoft.com/en-us/library/cc250370.aspx)
+* [Windows MetaFile-Format](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-wmf/4813e7fd-52d0-4f42-965f-228c8b7488d2)
 * [BMP-Dateiformat](https://en.wikipedia.org/wiki/BMP_file_format)
 
