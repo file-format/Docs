@@ -85,5 +85,3 @@ or WH-phrase.
 ## Посилання ##
 
 * [TEX - Вікіпедія](https://en.wikipedia.org/wiki/TeX)
-* [Латекс](http://mally.stanford.edu/~sr/computing/latex-example.html)
-

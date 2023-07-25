@@ -85,5 +85,3 @@ L'output del file di comando sopra dovrebbe essere simile a questo:
 ## Riferimenti ##
 
 * [TEX - Wikipedia](https://en.wikipedia.org/wiki/TeX)
-* [Latex](http://mally.stanford.edu/~sr/computing/latex-example.html)
-

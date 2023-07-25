@@ -85,5 +85,4 @@ or WH-phrase.
 ## הפניות ##
 
 * [TEX - ויקיפדיה](https://en.wikipedia.org/wiki/TeX)
-* [Latex](http://mally.stanford.edu/~sr/computing/latex-example.html)
 

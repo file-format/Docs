@@ -85,5 +85,3 @@ or WH-phrase.
 ## 참조 ##
 
 * [TEX - 위키백과](https://en.wikipedia.org/wiki/TeX)
-* [라텍스](http://mally.stanford.edu/~sr/computing/latex-example.html)
-

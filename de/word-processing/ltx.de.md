@@ -85,5 +85,3 @@ Die Ausgabe der obigen Befehlsdatei sollte wie folgt aussehen:
 ## Verweise ##
 
 * [TEX - Wikipedia](https://en.wikipedia.org/wiki/TeX)
-* [Latex](http://mally.stanford.edu/~sr/computing/latex-example.html)
-

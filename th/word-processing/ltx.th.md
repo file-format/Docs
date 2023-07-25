@@ -85,5 +85,3 @@ or WH-phrase.
 ## อ้างอิง ##
 
 * [TEX - Wikipedia](https://en.wikipedia.org/wiki/TeX)
-* [ยาง](http://mally.stanford.edu/~sr/computing/latex-example.html)
-

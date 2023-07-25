@@ -85,5 +85,3 @@ or WH-phrase.
 ## Người giới thiệu ##
 
 * [TEX - Wikipedia](https://vi.wikipedia.org/wiki/TeX)
-* [Latex](http://mally.stanford.edu/~sr/computing/latex-example.html)
-

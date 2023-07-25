@@ -85,5 +85,3 @@ Dane wyjściowe powyższego pliku poleceń powinny wyglądać następująco:
 ## Bibliografia ##
 
 * [TEX - Wikipedia](https://en.wikipedia.org/wiki/TeX)
-* [Latex](http://mally.stanford.edu/~sr/computing/latex-example.html)
-

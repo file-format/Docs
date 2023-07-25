@@ -85,5 +85,3 @@ Utdata från kommandofilen ovan bör se ut så här:
 ## Referenser ##
 
 * [TEX - Wikipedia](https://en.wikipedia.org/wiki/TeX)
-* [Latex](http://mally.stanford.edu/~sr/computing/latex-example.html)
-

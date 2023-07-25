@@ -85,5 +85,3 @@ Ieșirea fișierului de comandă de mai sus ar trebui să arate astfel:
 ## Referințe ##
 
 * [TEX - Wikipedia](https://en.wikipedia.org/wiki/TeX)
-* [Latex](http://mally.stanford.edu/~sr/computing/latex-example.html)
-

@@ -85,5 +85,4 @@ or WH-phrase.
 ## مراجع ##
 
 * [TEX - Wikipedia](https://en.wikipedia.org/wiki/TeX)
-* [لاتكس](http://mally.stanford.edu/~sr/computing/latex-example.html)
 

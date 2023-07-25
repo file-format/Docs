@@ -85,5 +85,3 @@ Yukarıdaki komut dosyasının çıktısı şöyle görünmelidir:
 ## Referanslar ##
 
 * [TEX - Wikipedia](https://en.wikipedia.org/wiki/TeX)
-* [Lateks](http://mally.stanford.edu/~sr/computing/latex-example.html)
-
