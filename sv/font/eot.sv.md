@@ -57,16 +57,16 @@ EMBEDDEDFONT-strukturen har genomgått tre revisioner, med tillägg av ytterliga
 |unsigned long|Reserved4|Reserved - måste vara 0|
 |unsigned short|Padding1|Utfyllning för att bibehålla lång inriktning. Utfyllnadsvärdet måste alltid vara inställt på 0x0000.|
 |unsigned short|FamilyNameSize|Antal byte som används av FamilyName-matrisen|
-|byte|FamilyName[FamilyNameSize]|Array av UTF-16-tecken längden på FamilyNameSize-byte. Detta är den engelska teckensnittssträngen som finns i teckensnittets namntabell (namn-ID = 1) - Se http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FamilyName[FamilyNameSize]|Array av UTF-16-tecken längden på FamilyNameSize-byte. Detta är den engelska teckensnittssträngen som finns i teckensnittets namntabell (namn-ID = 1) - Se https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|Utfyllningsvärde måste alltid sättas till 0x0000.|
 |unsigned short|StyleNameSize|Antal byte som används av StyleName|
-|byte|StyleName[StyleNameSize]|Array av UTF-16-tecken längden på StyleNameSize-byte. Detta är den engelska teckensnittssträngen som finns i namntabellen för teckensnittet (namn-ID = 2) - Se http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|Array av UTF-16-tecken längden på StyleNameSize-byte. Detta är den engelska teckensnittssträngen som finns i namntabellen för teckensnittet (namn-ID = 2) - Se https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|Utfyllningsvärde måste alltid sättas till 0x0000.|
 |unsigned short|VersionNameSize|Antal byte som används av VersionName|
-|bytes|Versionsnamn[VersionNameSize]|Array av UTF-16-tecken längden på VersionNameSize-byte. Detta är den engelska versionssträngen som finns i namntabellen för teckensnittet (namn-ID = 5) - Se http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|Versionsnamn[VersionNameSize]|Array av UTF-16-tecken längden på VersionNameSize-byte. Detta är den engelska versionssträngen som finns i namntabellen för teckensnittet (namn-ID = 5) - Se https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|Utfyllningsvärdet måste alltid sättas till 0x0000.|
 |unsigned short|FullNameSize|Antal byte som används av FullName|
-|byte|Fullnamn[FullnamnStorlek]|Array av UTF-16-tecken längden på FullNameSize-byte. Detta är den engelska fullständiga namnsträngen som finns i namntabellen för teckensnittet (namn-ID = 4) - Se http://www.microsoft.com/typography/otspec/name.htm|
+|byte|Fullnamn[FullnamnStorlek]|Array av UTF-16-tecken längden på FullNameSize-byte. Detta är den engelska fullständiga namnsträngen som finns i namntabellen för teckensnittet (namn-ID = 4) - Se https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|Utfyllningsvärde måste alltid sättas till 0x0000.|
 |unsigned short|RootStringSize|Antal byte som används av RootString-matrisen|
 |byte|RootString[RootStringSize]|Array av UTF-16-tecken längden på RootStringSize-bytes.|

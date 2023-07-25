@@ -57,16 +57,16 @@ EOT फ़ाइल प्रारूप विवरण [W3 सबमिशन
 |अहस्ताक्षरित लंबा|आरक्षित4|आरक्षित - 0 होना चाहिए|
 | अहस्ताक्षरित लघु | पैडिंग 1 | लंबे संरेखण को बनाए रखने के लिए पैडिंग। पैडिंग मान हमेशा 0x0000 पर सेट होना चाहिए।|
 |अहस्ताक्षरित लघु|FamilyNameSize|FamilyName सरणी द्वारा उपयोग किए जाने वाले बाइट्स की संख्या|
-|बाइट|FamilyName[FamilyNameSize]|UTF-16 वर्णों की सरणी, FamilyNameSize बाइट्स की लंबाई। यह अंग्रेजी भाषा की फॉन्ट फैमिली स्ट्रिंग है जो फॉन्ट की नेम टेबल में पाई जाती है (नाम आईडी = 1) - देखें http://www.microsoft.com/typography/otspec/name.htm|
+|बाइट|FamilyName[FamilyNameSize]|UTF-16 वर्णों की सरणी, FamilyNameSize बाइट्स की लंबाई। यह अंग्रेजी भाषा की फॉन्ट फैमिली स्ट्रिंग है जो फॉन्ट की नेम टेबल में पाई जाती है (नाम आईडी = 1) - देखें https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|Padding मान हमेशा 0x0000 पर सेट होना चाहिए।
 |अहस्ताक्षरित लघु|StyleNameSize|StyleName द्वारा उपयोग किए गए बाइट्स की संख्या|
-|बाइट|StyleName[StyleNameSize]|UTF-16 वर्णों की सरणी StyleNameSize बाइट्स की लंबाई है। यह अंग्रेजी भाषा का फॉन्ट सबफ़ैमिली स्ट्रिंग है जो फ़ॉन्ट की नाम तालिका में पाया जाता है (नाम आईडी = 2) - देखें http://www.microsoft.com/typography/otspec/name.htm|
+|बाइट|StyleName[StyleNameSize]|UTF-16 वर्णों की सरणी StyleNameSize बाइट्स की लंबाई है। यह अंग्रेजी भाषा का फॉन्ट सबफ़ैमिली स्ट्रिंग है जो फ़ॉन्ट की नाम तालिका में पाया जाता है (नाम आईडी = 2) - देखें https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|Padding मान हमेशा 0x0000 पर सेट होना चाहिए।
 |unsigned short|VersionNameSize|VersionName द्वारा उपयोग किए गए बाइट्स की संख्या|
-|bytes|VersionName[VersionNameSize]|UTF-16 वर्णों की सरणी, VersionNameSize बाइट्स की लंबाई। यह अंग्रेजी भाषा की संस्करण स्ट्रिंग है जो फ़ॉन्ट की नाम तालिका में पाई जाती है (नाम आईडी = 5) - देखें http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|UTF-16 वर्णों की सरणी, VersionNameSize बाइट्स की लंबाई। यह अंग्रेजी भाषा की संस्करण स्ट्रिंग है जो फ़ॉन्ट की नाम तालिका में पाई जाती है (नाम आईडी = 5) - देखें https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|Padding मान हमेशा 0x0000 पर सेट होना चाहिए।
 |unsigned short|FullNameSize|FullName द्वारा उपयोग किए गए बाइट्स की संख्या|
-|byte|FullName[FullNameSize]|UTF-16 वर्णों की सरणी FullNameSize बाइट्स की लंबाई है। यह अंग्रेजी भाषा का पूरा नाम स्ट्रिंग है जो फ़ॉन्ट की नाम तालिका में पाया जाता है (नाम आईडी = 4) - देखें http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|UTF-16 वर्णों की सरणी FullNameSize बाइट्स की लंबाई है। यह अंग्रेजी भाषा का पूरा नाम स्ट्रिंग है जो फ़ॉन्ट की नाम तालिका में पाया जाता है (नाम आईडी = 4) - देखें https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|Padding मान हमेशा 0x0000 पर सेट होना चाहिए।
 |अहस्ताक्षरित लघु|रूटस्ट्रिंगसाइज|रूटस्ट्रिंग सरणी द्वारा उपयोग किए जाने वाले बाइट्स की संख्या|
 |बाइट|रूटस्ट्रिंग[रूटस्ट्रिंगसाइज]|यूटीएफ-16 वर्णों की सरणी रूटस्ट्रिंगसाइज बाइट्स की लंबाई।

@@ -57,16 +57,16 @@ EMBEDDEDFONT 结构经历了三个修订，每个修订都在结构末尾添加�
 |unsigned long|Reserved4|保留 - 必须为 0|
 |unsigned short|Padding1|填充以保持长对齐。填充值必须始终设置为 0x0000。|
 |unsigned short|FamilyNameSize|FamilyName 数组使用的字节数|
-|byte|FamilyName[FamilyNameSize]|UTF-16 字符数组 FamilyNameSize 字节的长度。这是在字体名称表中找到的英文字体系列字符串（名称 ID = 1） - 请参阅 http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FamilyName[FamilyNameSize]|UTF-16 字符数组 FamilyNameSize 字节的长度。这是在字体名称表中找到的英文字体系列字符串（名称 ID = 1） - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|填充值必须始终设置为 0x0000。|
 |unsigned short|StyleNameSize|StyleName 使用的字节数|
-|byte|StyleName[StyleNameSize]|UTF-16 字符数组 StyleNameSize 字节的长度。这是在字体名称表中找到的英文字体子族字符串（名称 ID = 2） - 请参阅 http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|UTF-16 字符数组 StyleNameSize 字节的长度。这是在字体名称表中找到的英文字体子族字符串（名称 ID = 2） - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|填充值必须始终设置为 0x0000。|
 |unsigned short|VersionNameSize|VersionName 使用的字节数|
-|bytes|VersionName[VersionNameSize]|UTF-16 字符数组，VersionNameSize 字节的长度。这是在字体名称表中找到的英文版本字符串（名称 ID = 5） - 请参阅 http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|UTF-16 字符数组，VersionNameSize 字节的长度。这是在字体名称表中找到的英文版本字符串（名称 ID = 5） - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|填充值必须始终设置为 0x0000。|
 |unsigned short|FullNameSize|FullName 使用的字节数|
-|byte|FullName[FullNameSize]|UTF-16 字符数组 FullNameSize 字节的长度。这是在字体名称表中找到的英文全名字符串（名称 ID = 4） - 请参阅 http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|UTF-16 字符数组 FullNameSize 字节的长度。这是在字体名称表中找到的英文全名字符串（名称 ID = 4） - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|填充值必须始终设置为 0x0000。|
 |unsigned short|RootStringSize|RootString 数组使用的字节数|
 |byte|RootString[RootStringSize]|UTF-16 字符数组，RootStringSize 字节的长度。|

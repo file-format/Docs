@@ -57,16 +57,16 @@ La struttura EMBEDDEDFONT ha subito tre revisioni, con l'aggiunta di dati aggiun
 |unsigned long|Riservato4|Riservato - deve essere 0|
 |unsigned short|Padding1|Padding per mantenere l'allineamento lungo. Il valore di riempimento deve essere sempre impostato su 0x0000.|
 |unsigned short|FamilyNameSize|Numero di byte utilizzati dall'array FamilyName|
-|byte|NomeFamiglia[DimensioneNomeFamiglia]|Matrice di caratteri UTF-16 della lunghezza di byte DimensioneNomeFamiglia. Questa è la stringa della famiglia di caratteri in lingua inglese trovata nella tabella dei nomi del carattere (ID nome = 1) - Vedere http://www.microsoft.com/typography/otspec/name.htm|
+|byte|NomeFamiglia[DimensioneNomeFamiglia]|Matrice di caratteri UTF-16 della lunghezza di byte DimensioneNomeFamiglia. Questa è la stringa della famiglia di caratteri in lingua inglese trovata nella tabella dei nomi del carattere (ID nome = 1) - Vedere https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|Il valore di riempimento deve essere sempre impostato su 0x0000.|
 |unsigned short|StyleNameSize|Numero di byte utilizzati da StyleName|
-|byte|StyleName[StyleNameSize]|Matrice di caratteri UTF-16 la lunghezza dei byte StyleNameSize. Questa è la stringa della sottofamiglia di caratteri in lingua inglese trovata nella tabella dei nomi del carattere (ID nome = 2) - Vedere http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|Matrice di caratteri UTF-16 la lunghezza dei byte StyleNameSize. Questa è la stringa della sottofamiglia di caratteri in lingua inglese trovata nella tabella dei nomi del carattere (ID nome = 2) - Vedere https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|Il valore di riempimento deve essere sempre impostato su 0x0000.|
 |unsigned short|VersionNameSize|Numero di byte utilizzati da VersionName|
-|bytes|VersionName[VersionNameSize]|Matrice di caratteri UTF-16 della lunghezza dei byte VersionNameSize. Questa è la stringa della versione in lingua inglese trovata nella tabella dei nomi del carattere (ID nome = 5) - Vedere http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|Matrice di caratteri UTF-16 della lunghezza dei byte VersionNameSize. Questa è la stringa della versione in lingua inglese trovata nella tabella dei nomi del carattere (ID nome = 5) - Vedere https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|Il valore di riempimento deve essere sempre impostato su 0x0000.|
 |unsigned short|FullNameSize|Numero di byte utilizzati da FullName|
-|byte|FullName[FullNameSize]|Matrice di caratteri UTF-16 della lunghezza dei byte FullNameSize. Questa è la stringa del nome completo in lingua inglese trovata nella tabella dei nomi del carattere (ID nome = 4) - Vedere http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|Matrice di caratteri UTF-16 della lunghezza dei byte FullNameSize. Questa è la stringa del nome completo in lingua inglese trovata nella tabella dei nomi del carattere (ID nome = 4) - Vedere https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|Il valore di riempimento deve essere sempre impostato su 0x0000.|
 |unsigned short|RootStringSize|Numero di byte utilizzati dall'array RootString|
 |byte|RootString[RootStringSize]|Matrice di caratteri UTF-16 la lunghezza dei byte RootStringSize.|

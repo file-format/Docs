@@ -57,16 +57,16 @@ Struktur EMBEDDEDFONT telah mengalami tiga kali revisi, dengan penambahan data t
 |unsigned long|Reserved4|Reserved - harus 0|
 |unsigned short|Padding1|Padding untuk menjaga keselarasan panjang. Nilai pengisi harus selalu disetel ke 0x0000.|
 |unsigned short|FamilyNameSize|Jumlah byte yang digunakan oleh array FamilyName|
-|byte|FamilyName[FamilyNameSize]|Array karakter UTF-16 sepanjang byte FamilyNameSize. Ini adalah string Keluarga Font bahasa Inggris yang ditemukan di tabel nama font (name ID = 1) - Lihat http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FamilyName[FamilyNameSize]|Array karakter UTF-16 sepanjang byte FamilyNameSize. Ini adalah string Keluarga Font bahasa Inggris yang ditemukan di tabel nama font (name ID = 1) - Lihat https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|Padding value harus selalu disetel ke 0x0000.|
 |unsigned short|StyleNameSize|Jumlah byte yang digunakan oleh StyleName|
-|byte|StyleName[StyleNameSize]|Array karakter UTF-16 sepanjang byte StyleNameSize. Ini adalah string Subfamili Font bahasa Inggris yang ditemukan di tabel nama font (name ID = 2) - Lihat http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|Array karakter UTF-16 sepanjang byte StyleNameSize. Ini adalah string Subfamili Font bahasa Inggris yang ditemukan di tabel nama font (name ID = 2) - Lihat https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|Padding value harus selalu disetel ke 0x0000.|
 |unsigned short|VersionNameSize|Jumlah byte yang digunakan oleh VersionName|
-|bytes|VersionName[VersionNameSize]|Array karakter UTF-16 sepanjang byte VersionNameSize. Ini adalah string versi bahasa Inggris yang ditemukan di tabel nama font (name ID = 5) - Lihat http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|Array karakter UTF-16 sepanjang byte VersionNameSize. Ini adalah string versi bahasa Inggris yang ditemukan di tabel nama font (name ID = 5) - Lihat https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|Padding value harus selalu disetel ke 0x0000.|
 |unsigned short|FullNameSize|Jumlah byte yang digunakan oleh FullName|
-|byte|FullName[FullNameSize]|Array karakter UTF-16 sepanjang byte FullNameSize. Ini adalah string nama lengkap bahasa Inggris yang ditemukan di tabel nama font (name ID = 4) - Lihat http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|Array karakter UTF-16 sepanjang byte FullNameSize. Ini adalah string nama lengkap bahasa Inggris yang ditemukan di tabel nama font (name ID = 4) - Lihat https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|Padding value harus selalu disetel ke 0x0000.|
 |unsigned short|RootStringSize|Jumlah byte yang digunakan oleh array RootString|
 |byte|RootString[RootStringSize]|Array karakter UTF-16 sepanjang byte RootStringSize.|

@@ -57,16 +57,16 @@
 |unsigned long|Reserved4|Reserved - трябва да бъде 0|
 |unsigned short|Padding1|Попълване за поддържане на дълго подравняване. Стойността на запълване винаги трябва да бъде зададена на 0x0000.|
 |unsigned short|FamilyNameSize|Брой байтове, използвани от масива FamilyName|
-|byte|FamilyName[FamilyNameSize]|Масив от UTF-16 символи с дължина от FamilyNameSize байтове. Това е низът от семейството на шрифтовете на английски език, който се намира в таблицата с имена на шрифта (идентификатор на име = 1) – вижте http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FamilyName[FamilyNameSize]|Масив от UTF-16 символи с дължина от FamilyNameSize байтове. Това е низът от семейството на шрифтовете на английски език, който се намира в таблицата с имена на шрифта (идентификатор на име = 1) – вижте https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|Стойността на запълването винаги трябва да бъде зададена на 0x0000.|
 |unsigned short|StyleNameSize|Брой байтове, използвани от StyleName|
-|byte|StyleName[StyleNameSize]|Масив от UTF-16 символи с дължина StyleNameSize байтове. Това е низът на подсемейството на шрифта на английски език, който се намира в таблицата с имена на шрифта (ID на името = 2) – вижте http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|Масив от UTF-16 символи с дължина StyleNameSize байтове. Това е низът на подсемейството на шрифта на английски език, който се намира в таблицата с имена на шрифта (ID на името = 2) – вижте https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|Стойността на запълването винаги трябва да бъде зададена на 0x0000.|
 |unsigned short|VersionNameSize|Брой байтове, използвани от VersionName|
-|bytes|VersionName[VersionNameSize]|Масив от UTF-16 символи с дължина VersionNameSize байтове. Това е низът на версията на английски език, който се намира в таблицата с имена на шрифта (идентификатор на име = 5) - Вижте http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|Масив от UTF-16 символи с дължина VersionNameSize байтове. Това е низът на версията на английски език, който се намира в таблицата с имена на шрифта (идентификатор на име = 5) - Вижте https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|Стойността на запълването винаги трябва да бъде зададена на 0x0000.|
 |unsigned short|FullNameSize|Брой байтове, използвани от пълното име|
-|byte|FullName[FullNameSize]|Масив от UTF-16 символи с дължина FullNameSize байтове. Това е низът с пълно име на английски език, който се намира в таблицата с имена на шрифта (ID на името = 4) - Вижте http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|Масив от UTF-16 символи с дължина FullNameSize байтове. Това е низът с пълно име на английски език, който се намира в таблицата с имена на шрифта (ID на името = 4) - Вижте https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|Стойността на запълването винаги трябва да бъде зададена на 0x0000.|
 |unsigned short|RootStringSize|Брой байтове, използвани от масива RootString|
 |byte|RootString[RootStringSize]|Масив от UTF-16 символи с дължина RootStringSize байтове.|

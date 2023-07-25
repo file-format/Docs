@@ -57,16 +57,16 @@ De EMBEDDEDFONT-structuur heeft drie revisies ondergaan, met toevoeging van aanv
 |unsigned long|Gereserveerd4|Gereserveerd - moet 0 zijn|
 |unsigned short|Opvulling1|Opvulling om een lange uitlijning te behouden. Opvulwaarde moet altijd worden ingesteld op 0x0000.|
 |unsigned short|FamilyNameSize|Aantal bytes gebruikt door de FamilyName-array|
-|byte|FamilyName[FamilyNameSize]|Array van UTF-16 tekens met de lengte van FamilyNameSize-bytes. Dit is de Engelstalige Font Family-string die te vinden is in de naamtabel van het lettertype (naam-ID = 1) - Zie http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FamilyName[FamilyNameSize]|Array van UTF-16 tekens met de lengte van FamilyNameSize-bytes. Dit is de Engelstalige Font Family-string die te vinden is in de naamtabel van het lettertype (naam-ID = 1) - Zie https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Opvulling2|Opvulwaarde moet altijd op 0x0000 staan.|
 |unsigned short|StyleNameSize|Aantal bytes gebruikt door de StyleName|
-|byte|StyleName[StyleNameSize]|Array van UTF-16 tekens met de lengte van StyleNameSize-bytes. Dit is de Engelstalige Lettertype-subfamiliereeks die te vinden is in de naamtabel van het lettertype (naam-ID = 2) - Zie http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|Array van UTF-16 tekens met de lengte van StyleNameSize-bytes. Dit is de Engelstalige Lettertype-subfamiliereeks die te vinden is in de naamtabel van het lettertype (naam-ID = 2) - Zie https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Opvulling3|Opvulwaarde moet altijd worden ingesteld op 0x0000.|
 |unsigned short|VersionNameSize|Aantal bytes gebruikt door VersionName|
-|bytes|VersionName[VersionNameSize]|Array van UTF-16-tekens met de lengte van VersionNameSize-bytes. Dit is de Engelse versiereeks die te vinden is in de naamtabel van het lettertype (naam-ID = 5) - Zie http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|Array van UTF-16-tekens met de lengte van VersionNameSize-bytes. Dit is de Engelse versiereeks die te vinden is in de naamtabel van het lettertype (naam-ID = 5) - Zie https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|Opvulwaarde moet altijd worden ingesteld op 0x0000.|
 |unsigned short|FullNameSize|Aantal bytes gebruikt door FullName|
-|byte|FullName[FullNameSize]|Array van UTF-16-tekens met de lengte van FullNameSize-bytes. Dit is de Engelse volledige naamreeks die te vinden is in de naamtabel van het lettertype (naam-ID = 4) - Zie http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|Array van UTF-16-tekens met de lengte van FullNameSize-bytes. Dit is de Engelse volledige naamreeks die te vinden is in de naamtabel van het lettertype (naam-ID = 4) - Zie https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Opvulling5|Opvulwaarde moet altijd worden ingesteld op 0x0000.|
 |unsigned short|RootStringSize|Aantal bytes gebruikt door de RootString-array|
 |byte|RootString[RootStringSize]|Array van UTF-16-tekens met de lengte van RootStringSize-bytes.|

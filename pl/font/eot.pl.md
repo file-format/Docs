@@ -57,16 +57,16 @@ Struktura EMBEDDEDFONT została poddana trzem rewizjom, z dodaniem dodatkowych d
 |unsigned long|Zarezerwowany4|Zarezerwowany - musi wynosić 0|
 |unsigned short|Wypełnienie1|Wypełnienie, aby zachować długie wyrównanie. Wartość wypełnienia musi być zawsze ustawiona na 0x0000.|
 |unsigned short|FamilyNameSize|Liczba bajtów używanych przez tablicę FamilyName|
-|bajt|NazwaRodziny[RozmiarNazwyRodziny]|Tablica znaków UTF-16 o długości bajtów RozmiarNazwyRodziny. To jest ciąg rodziny czcionek w języku angielskim znaleziony w tabeli nazw czcionki (identyfikator nazwy = 1) — patrz http://www.microsoft.com/typography/otspec/name.htm|
+|bajt|NazwaRodziny[RozmiarNazwyRodziny]|Tablica znaków UTF-16 o długości bajtów RozmiarNazwyRodziny. To jest ciąg rodziny czcionek w języku angielskim znaleziony w tabeli nazw czcionki (identyfikator nazwy = 1) — patrz https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Dopełnienie2|Wartość dopełnienia musi być zawsze ustawiona na 0x0000.|
 |unsigned short|StyleNameSize|Liczba bajtów używanych przez StyleName|
-|byte|StyleName[StyleNameSize]|Tablica znaków UTF-16 o długości StyleNameSize bajtów. To jest łańcuch podrodziny czcionek w języku angielskim znaleziony w tabeli nazw czcionki (identyfikator nazwy = 2) — patrz http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|Tablica znaków UTF-16 o długości StyleNameSize bajtów. To jest łańcuch podrodziny czcionek w języku angielskim znaleziony w tabeli nazw czcionki (identyfikator nazwy = 2) — patrz https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Dopełnienie3|Wartość dopełnienia musi być zawsze ustawiona na 0x0000.|
 |unsigned short|VersionNameSize|Liczba bajtów używanych przez VersionName|
-|bajty|NazwaWersji[RozmiarNazwyWersji]|Tablica znaków UTF-16 o długości bajtówRozmiarNazwyWersji. To jest ciąg wersji języka angielskiego znaleziony w tabeli nazw czcionki (identyfikator nazwy = 5) — patrz http://www.microsoft.com/typography/otspec/name.htm|
+|bajty|NazwaWersji[RozmiarNazwyWersji]|Tablica znaków UTF-16 o długości bajtówRozmiarNazwyWersji. To jest ciąg wersji języka angielskiego znaleziony w tabeli nazw czcionki (identyfikator nazwy = 5) — patrz https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Dopełnienie4|Wartość dopełnienia musi być zawsze ustawiona na 0x0000.|
 |unsigned short|FullNameSize|Liczba bajtów używanych przez FullName|
-|byte|FullName[FullNameSize]|Tablica znaków UTF-16 o długości FullNameSize bajtów. To jest ciąg pełnej nazwy w języku angielskim znaleziony w tabeli nazw czcionki (identyfikator nazwy = 4) — patrz http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|Tablica znaków UTF-16 o długości FullNameSize bajtów. To jest ciąg pełnej nazwy w języku angielskim znaleziony w tabeli nazw czcionki (identyfikator nazwy = 4) — patrz https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Dopełnienie5|Wartość dopełnienia musi być zawsze ustawiona na 0x0000.|
 |unsigned short|RootStringSize|Liczba bajtów używanych przez tablicę RootString|
 |byte|RootString[RootStringSize]|Tablica znaków UTF-16 o długości bajtów RootStringSize.|

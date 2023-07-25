@@ -57,16 +57,16 @@ Structura EMBEDDEDFONT a suferit trei revizuiri, cu adăugarea de date supliment
 |unsigned long|Reserved4|Rezervat - trebuie să fie 0|
 |unsigned short|Padding1|Padding pentru a menține alinierea lungă. Valoarea de completare trebuie să fie întotdeauna setată la 0x0000.|
 |unsigned short|FamilyNameSize|Numărul de octeți utilizați de matricea FamilyName|
-|byte|FamilyName[FamilyNameSize]|Matrice de caractere UTF-16 cu lungimea de octeți FamilyNameSize. Acesta este șirul familiei de fonturi în limba engleză găsit în tabelul de nume al fontului (ID nume = 1) - Consultați http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FamilyName[FamilyNameSize]|Matrice de caractere UTF-16 cu lungimea de octeți FamilyNameSize. Acesta este șirul familiei de fonturi în limba engleză găsit în tabelul de nume al fontului (ID nume = 1) - Consultați https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|Valoarea padding trebuie să fie întotdeauna setată la 0x0000.|
 |unsigned short|StyleNameSize|Numărul de octeți utilizați de StyleName|
-|byte|StyleName[StyleNameSize]|Matrice de caractere UTF-16 cu lungimea de octeți StyleNameSize. Acesta este șirul subfamiliei de fonturi în limba engleză găsit în tabelul de nume al fontului (ID nume = 2) - Consultați http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|Matrice de caractere UTF-16 cu lungimea de octeți StyleNameSize. Acesta este șirul subfamiliei de fonturi în limba engleză găsit în tabelul de nume al fontului (ID nume = 2) - Consultați https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|Valoarea padding trebuie să fie întotdeauna setată la 0x0000.|
 |unsigned short|VersionNameSize|Numărul de octeți utilizați de VersionName|
-|bytes|VersionName[VersionNameSize]|Matrice de caractere UTF-16 cu lungimea octeților VersionNameSize. Acesta este șirul versiunii în limba engleză găsit în tabelul de nume al fontului (nume ID = 5) - Consultați http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|Matrice de caractere UTF-16 cu lungimea octeților VersionNameSize. Acesta este șirul versiunii în limba engleză găsit în tabelul de nume al fontului (nume ID = 5) - Consultați https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|Valoarea padding trebuie să fie întotdeauna setată la 0x0000.|
 |unsigned short|FullNameSize|Numărul de octeți utilizați de FullName|
-|byte|FullName[FullNameSize]|Matrice de caractere UTF-16 cu lungimea octeților FullNameSize. Acesta este șirul de nume complet în limba engleză găsit în tabelul de nume al fontului (ID nume = 4) - Consultați http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|Matrice de caractere UTF-16 cu lungimea octeților FullNameSize. Acesta este șirul de nume complet în limba engleză găsit în tabelul de nume al fontului (ID nume = 4) - Consultați https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|Valoarea padding trebuie să fie întotdeauna setată la 0x0000.|
 |unsigned short|RootStringSize|Numărul de octeți utilizați de matricea RootString|
 |byte|RootString[RootStringSize]|Matrice de caractere UTF-16 cu lungimea de octeți RootStringSize.|

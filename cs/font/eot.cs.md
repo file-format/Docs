@@ -57,16 +57,16 @@ Struktura EMBEDDEDFONT prošla třemi revizemi s přidáním dalších dat na ko
 |unsigned long|Reserved4|Reserved - musí být 0|
 |unsigned short|Padding1|Padding pro zachování dlouhého zarovnání. Hodnota výplně musí být vždy nastavena na 0x0000.|
 |unsigned short|FamilyNameSize|Počet bajtů použitých polem FamilyName|
-|byte|FamilyName[FamilyNameSize]|Pole znaků UTF-16 o délce bajtů FamilyNameSize. Toto je řetězec rodiny písem v anglickém jazyce nalezený v tabulce názvů písma (ID názvu = 1) – viz http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FamilyName[FamilyNameSize]|Pole znaků UTF-16 o délce bajtů FamilyNameSize. Toto je řetězec rodiny písem v anglickém jazyce nalezený v tabulce názvů písma (ID názvu = 1) – viz https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|Hodnota odsazení musí být vždy nastavena na 0x0000.|
 |unsigned short|StyleNameSize|Počet bajtů použitých StyleName|
-|byte|StyleName[StyleNameSize]|Pole znaků UTF-16 o délce bajtů StyleNameSize. Toto je řetězec podrodiny písem v anglickém jazyce nalezený v tabulce názvů písma (ID názvu = 2) – viz http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|Pole znaků UTF-16 o délce bajtů StyleNameSize. Toto je řetězec podrodiny písem v anglickém jazyce nalezený v tabulce názvů písma (ID názvu = 2) – viz https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|Hodnota odsazení musí být vždy nastavena na 0x0000.|
 |unsigned short|VersionNameSize|Počet bajtů použitých názvem VersionName|
-|bytes|VersionName[VersionNameSize]|Pole znaků UTF-16 o délce bajtů SizeNameSize. Toto je řetězec anglické verze nalezený v tabulce názvů písma (ID názvu = 5) – viz http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|Pole znaků UTF-16 o délce bajtů SizeNameSize. Toto je řetězec anglické verze nalezený v tabulce názvů písma (ID názvu = 5) – viz https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|Hodnota výplně musí být vždy nastavena na 0x0000.|
 |unsigned short|FullNameSize|Počet bajtů použitých celým jménem|
-|byte|FullName[FullNameSize]|Pole znaků UTF-16 o délce bajtů FullNameSize. Toto je řetězec úplného názvu v angličtině, který se nachází v tabulce jmen písma (ID názvu = 4) – viz http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|Pole znaků UTF-16 o délce bajtů FullNameSize. Toto je řetězec úplného názvu v angličtině, který se nachází v tabulce jmen písma (ID názvu = 4) – viz https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|Hodnota výplně musí být vždy nastavena na 0x0000.|
 |unsigned short|RootStringSize|Počet bajtů použitých polem RootString|
 |byte|RootString[RootStringSize]|Pole znaků UTF-16 o délce bajtů RootStringSize.|

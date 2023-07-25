@@ -57,16 +57,16 @@ EMBEDDEDFONT 구조는 세 번의 개정을 거쳤으며 각 개정과 함께 �
 |unsigned long|Reserved4|예약됨 - 0이어야 함|
 |unsigned short|Padding1|긴 정렬을 유지하기 위한 패딩. 패딩 값은 항상 0x0000으로 설정해야 합니다.|
 |unsigned short|FamilyNameSize|FamilyName 배열이 사용하는 바이트 수|
-|byte|FamilyName[FamilyNameSize]|FamilyNameSize 바이트 길이의 UTF-16 문자 배열. 이것은 글꼴의 이름 테이블에 있는 영어 글꼴 모음 문자열입니다(이름 ID = 1) - http://www.microsoft.com/typography/otspec/name.htm| 참조
+|byte|FamilyName[FamilyNameSize]|FamilyNameSize 바이트 길이의 UTF-16 문자 배열. 이것은 글꼴의 이름 테이블에 있는 영어 글꼴 모음 문자열입니다(이름 ID = 1) - https://learn.microsoft.com/en-us/typography/opentype/spec/name| 참조
 |unsigned short|Padding2|패딩 값은 항상 0x0000으로 설정되어야 합니다.|
 |unsigned short|StyleNameSize|StyleName이 사용하는 바이트 수|
-|byte|StyleName[StyleNameSize]|UTF-16 문자 배열 StyleNameSize 바이트 길이. 이것은 글꼴의 이름 테이블에 있는 영어 글꼴 하위 계열 문자열입니다(이름 ID = 2) - http://www.microsoft.com/typography/otspec/name.htm| 참조
+|byte|StyleName[StyleNameSize]|UTF-16 문자 배열 StyleNameSize 바이트 길이. 이것은 글꼴의 이름 테이블에 있는 영어 글꼴 하위 계열 문자열입니다(이름 ID = 2) - https://learn.microsoft.com/en-us/typography/opentype/spec/name| 참조
 |unsigned short|Padding3|패딩 값은 항상 0x0000으로 설정되어야 합니다.|
 |unsigned short|VersionNameSize|VersionName이 사용하는 바이트 수|
-|bytes|VersionName[VersionNameSize]|VersionNameSize 바이트 길이의 UTF-16 문자 배열. 이것은 글꼴의 이름 테이블에 있는 영어 버전 문자열입니다(이름 ID = 5) - http://www.microsoft.com/typography/otspec/name.htm| 참조
+|bytes|VersionName[VersionNameSize]|VersionNameSize 바이트 길이의 UTF-16 문자 배열. 이것은 글꼴의 이름 테이블에 있는 영어 버전 문자열입니다(이름 ID = 5) - https://learn.microsoft.com/en-us/typography/opentype/spec/name| 참조
 |unsigned short|Padding4|패딩 값은 항상 0x0000으로 설정되어야 합니다.|
 |unsigned short|FullNameSize|FullName이 사용하는 바이트 수|
-|byte|FullName[FullNameSize]|FullNameSize 바이트 길이의 UTF-16 문자 배열. 이것은 글꼴의 이름 테이블에 있는 영어 전체 이름 문자열입니다(이름 ID = 4) - http://www.microsoft.com/typography/otspec/name.htm| 참조
+|byte|FullName[FullNameSize]|FullNameSize 바이트 길이의 UTF-16 문자 배열. 이것은 글꼴의 이름 테이블에 있는 영어 전체 이름 문자열입니다(이름 ID = 4) - https://learn.microsoft.com/en-us/typography/opentype/spec/name| 참조
 |unsigned short|Padding5|패딩 값은 항상 0x0000으로 설정되어야 합니다.|
 |unsigned short|RootStringSize|RootString 배열이 사용하는 바이트 수|
 |byte|RootString[RootStringSize]|UTStringSize 바이트 길이의 UTF-16 문자 배열|

@@ -57,16 +57,16 @@ Az EMBEDDEDFONT struktúra három felülvizsgálaton esett át, és minden egyes
 |aláíratlan hosszú|Fenntartva4|Fenntartva - 0-nak kell lennie|
 |unsigned short|Padding1|Padding a hosszú igazítás fenntartásához. A kitöltés értékét mindig 0x0000-ra kell állítani.|
 |unsigned short|FamilyNameSize|A FamilyName tömb által használt bájtok száma|
-|byte|FamilyName[FamilyNameSize]|UTF-16 karakterek tömbje FamilyNameSize bájt hosszúságban. Ez az angol nyelvű betűtípuscsalád karakterlánc, amely a betűtípus névtáblázatában található (névazonosító = 1) - Lásd: http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FamilyName[FamilyNameSize]|UTF-16 karakterek tömbje FamilyNameSize bájt hosszúságban. Ez az angol nyelvű betűtípuscsalád karakterlánc, amely a betűtípus névtáblázatában található (névazonosító = 1) - Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|A kitöltés értékét mindig 0x0000-ra kell állítani.|
 |unsigned short|StyleNameSize|A StyleName által használt bájtok száma|
-|byte|StyleName[StyleNameSize]|UTF-16 karakterek tömbje StyleNameSize bájt hosszúságban. Ez az angol nyelvű betűtípus-alcsalád karakterlánc, amely a betűtípus névtáblázatában található (névazonosító = 2) - Lásd: http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|UTF-16 karakterek tömbje StyleNameSize bájt hosszúságban. Ez az angol nyelvű betűtípus-alcsalád karakterlánc, amely a betűtípus névtáblázatában található (névazonosító = 2) - Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|A kitöltés értékét mindig 0x0000-ra kell állítani.|
 |unsigned short|VersionNameSize|A VersionName által használt bájtok száma|
-|bytes|VersionName[VersionNameSize]|UTF-16 karakterek tömbje VersionNameSize bájt hosszúságban. Ez a betűtípus névtáblázatában található angol nyelvű verzió (névazonosító = 5) - Lásd: http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|UTF-16 karakterek tömbje VersionNameSize bájt hosszúságban. Ez a betűtípus névtáblázatában található angol nyelvű verzió (névazonosító = 5) - Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|A kitöltés értékét mindig 0x0000-ra kell állítani.|
 |unsigned short|FullNameSize|A FullName által használt bájtok száma|
-|byte|FullName[FullNameSize]|UTF-16 karakterek tömbje FullNameSize bájt hosszúságban. Ez az angol nyelvű teljes név karakterlánc, amely a betűtípus névtáblázatában található (névazonosító = 4) - Lásd: http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|UTF-16 karakterek tömbje FullNameSize bájt hosszúságban. Ez az angol nyelvű teljes név karakterlánc, amely a betűtípus névtáblázatában található (névazonosító = 4) - Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|A kitöltés értékét mindig 0x0000-ra kell állítani.|
 |unsigned short|RootStringSize|A RootString tömb által használt bájtok száma|
 |byte|RootString[RootStringSize]|RootStringSize bájt hosszúságú UTF-16 karakterek tömbje.|

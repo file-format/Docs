@@ -57,16 +57,16 @@
 |ไม่ได้ลงชื่อยาว|สงวนไว้4|สงวนไว้ - ต้องเป็น 0|
 |unsigned short|Padding1|Padding เพื่อรักษาแนวยาว ค่าการเติมจะต้องตั้งค่าเป็น 0x0000 เสมอ|
 |unsigned short|FamilyNameSize|จำนวนไบต์ที่ใช้โดยอาร์เรย์ FamilyName|
-|byte|FamilyName[FamilyNameSize]|อาร์เรย์ UTF-16 อักขระที่มีความยาวเท่ากับ FamilyNameSize ไบต์ นี่คือสตริงตระกูลฟอนต์ภาษาอังกฤษที่พบในตารางชื่อของฟอนต์ (ชื่อ ID = 1) - โปรดดูที่ http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FamilyName[FamilyNameSize]|อาร์เรย์ UTF-16 อักขระที่มีความยาวเท่ากับ FamilyNameSize ไบต์ นี่คือสตริงตระกูลฟอนต์ภาษาอังกฤษที่พบในตารางชื่อของฟอนต์ (ชื่อ ID = 1) - โปรดดูที่ https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|ค่า Padding ต้องตั้งค่าเป็น 0x0000 เสมอ|
 |unsigned short|StyleNameSize|จำนวนไบต์ที่ใช้โดย StyleName|
-|byte|StyleName[StyleNameSize]|อาร์เรย์ของอักขระ UTF-16 ที่มีความยาวเท่ากับไบต์ของ StyleNameSize นี่คือสตริงตระกูลย่อยของฟอนต์ภาษาอังกฤษที่พบในตารางชื่อของฟอนต์ (ชื่อ ID = 2) - โปรดดูที่ http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|อาร์เรย์ของอักขระ UTF-16 ที่มีความยาวเท่ากับไบต์ของ StyleNameSize นี่คือสตริงตระกูลย่อยของฟอนต์ภาษาอังกฤษที่พบในตารางชื่อของฟอนต์ (ชื่อ ID = 2) - โปรดดูที่ https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|ค่า Padding ต้องตั้งค่าเป็น 0x0000 เสมอ|
 |unsigned short|VersionNameSize|จำนวนไบต์ที่ใช้โดย VersionName|
-|bytes|VersionName[VersionNameSize]|อาร์เรย์ของอักขระ UTF-16 ที่มีความยาวเท่ากับ Bytes VersionNameSize นี่คือสตริงเวอร์ชันภาษาอังกฤษที่พบในตารางชื่อของแบบอักษร (ชื่อ ID = 5) - โปรดดูที่ http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|อาร์เรย์ของอักขระ UTF-16 ที่มีความยาวเท่ากับ Bytes VersionNameSize นี่คือสตริงเวอร์ชันภาษาอังกฤษที่พบในตารางชื่อของแบบอักษร (ชื่อ ID = 5) - โปรดดูที่ https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|ค่า Padding ต้องตั้งค่าเป็น 0x0000 เสมอ|
 |unsigned short|FullNameSize|จำนวนไบต์ที่ใช้โดย FullName|
-|byte|FullName[FullNameSize]|อาร์เรย์ของอักขระ UTF-16 ที่มีความยาวเท่ากับไบต์ FullNameSize นี่คือสตริงชื่อเต็มภาษาอังกฤษที่พบในตารางชื่อของแบบอักษร (ชื่อ ID = 4) - โปรดดูที่ http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|อาร์เรย์ของอักขระ UTF-16 ที่มีความยาวเท่ากับไบต์ FullNameSize นี่คือสตริงชื่อเต็มภาษาอังกฤษที่พบในตารางชื่อของแบบอักษร (ชื่อ ID = 4) - โปรดดูที่ https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|ค่า Padding ต้องตั้งค่าเป็น 0x0000 เสมอ|
 |unsigned short|RootStringSize|จำนวนไบต์ที่ใช้โดยอาร์เรย์ RootString|
 |byte|RootString[RootStringSize]|อาร์เรย์ของอักขระ UTF-16 ที่มีความยาวเท่ากับ RootStringSize ไบต์|

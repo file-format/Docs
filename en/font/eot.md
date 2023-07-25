@@ -57,16 +57,16 @@ The EMBEDDEDFONT structure has underwent three revisions, with addition of addit
 |unsigned long|Reserved4|Reserved - must be 0|
 |unsigned short|Padding1|Padding to maintain long alignment. Padding value must always be set to 0x0000.|
 |unsigned short|FamilyNameSize|Number of bytes used by the FamilyName array|
-|byte|FamilyName[FamilyNameSize]|Array of UTF-16 characters the length of FamilyNameSize bytes. This is the English language Font Family string found in the name table of the font (name ID = 1) - See http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FamilyName[FamilyNameSize]|Array of UTF-16 characters the length of FamilyNameSize bytes. This is the English language Font Family string found in the name table of the font (name ID = 1) - See https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|Padding value must always be set to 0x0000.|
 |unsigned short|StyleNameSize|Number of bytes used by the StyleName|
-|byte|StyleName[StyleNameSize]|Array of UTF-16 characters the length of StyleNameSize bytes. This is the English language Font Subfamily string found in the name table of the font (name ID = 2) - See http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|Array of UTF-16 characters the length of StyleNameSize bytes. This is the English language Font Subfamily string found in the name table of the font (name ID = 2) - See https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|Padding value must always be set to 0x0000.|
 |unsigned short|VersionNameSize|Number of bytes used by the VersionName|
-|bytes|VersionName[VersionNameSize]|Array of UTF-16 characters the length of VersionNameSize bytes. This is the English language version string found in the name table of the font (name ID = 5) - See http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|Array of UTF-16 characters the length of VersionNameSize bytes. This is the English language version string found in the name table of the font (name ID = 5) - See https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|Padding value must always be set to 0x0000.|
 |unsigned short|FullNameSize|Number of bytes used by the FullName|
-|byte|FullName[FullNameSize]|Array of UTF-16 characters the length of FullNameSize bytes. This is the English language full name string found in the name table of the font (name ID = 4) - See http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|Array of UTF-16 characters the length of FullNameSize bytes. This is the English language full name string found in the name table of the font (name ID = 4) - See https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|Padding value must always be set to 0x0000.|
 |unsigned short|RootStringSize|Number of bytes used by the RootString array|
 |byte|RootString[RootStringSize]|Array of UTF-16 characters the length of RootStringSize bytes.|

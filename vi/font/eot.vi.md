@@ -57,16 +57,16 @@ Cấu trúc EMBEDDEDFONT đã trải qua ba lần sửa đổi, với việc b�
 |unsigned long|Reserveed4|Reserveed - phải là 0|
 |unsigned short|Padding1|Padding để duy trì sự liên kết dài. Giá trị đệm phải luôn được đặt thành 0x0000.|
 |unsigned short|FamilyNameSize|Số byte được sử dụng bởi mảng FamilyName|
-|byte|FamilyName[FamilyNameSize]|Mảng ký tự UTF-16 có độ dài bằng byte FamilyNameSize. Đây là chuỗi Font Family ngôn ngữ tiếng Anh được tìm thấy trong bảng tên của phông chữ (tên ID = 1) - Xem http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FamilyName[FamilyNameSize]|Mảng ký tự UTF-16 có độ dài bằng byte FamilyNameSize. Đây là chuỗi Font Family ngôn ngữ tiếng Anh được tìm thấy trong bảng tên của phông chữ (tên ID = 1) - Xem https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|Giá trị đệm phải luôn được đặt thành 0x0000.|
 |unsigned short|StyleNameSize|Số byte được sử dụng bởi StyleName|
-|byte|StyleName[StyleNameSize]|Mảng ký tự UTF-16 có độ dài bằng byte StyleNameSize. Đây là chuỗi Phân họ phông chữ ngôn ngữ tiếng Anh được tìm thấy trong bảng tên của phông chữ (tên ID = 2) - Xem http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|Mảng ký tự UTF-16 có độ dài bằng byte StyleNameSize. Đây là chuỗi Phân họ phông chữ ngôn ngữ tiếng Anh được tìm thấy trong bảng tên của phông chữ (tên ID = 2) - Xem https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|Giá trị đệm phải luôn được đặt thành 0x0000.|
 |unsigned short|VersionNameSize|Số byte được sử dụng bởi VersionName|
-|bytes|VersionName[VersionNameSize]|Mảng ký tự UTF-16 có độ dài bằng VersionNameSize byte. Đây là chuỗi phiên bản tiếng Anh được tìm thấy trong bảng tên của phông chữ (tên ID = 5) - Xem http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|Mảng ký tự UTF-16 có độ dài bằng VersionNameSize byte. Đây là chuỗi phiên bản tiếng Anh được tìm thấy trong bảng tên của phông chữ (tên ID = 5) - Xem https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|Giá trị đệm phải luôn được đặt thành 0x0000.|
 |unsigned short|FullNameSize|Số byte được sử dụng bởi FullName|
-|byte|FullName[FullNameSize]|Mảng ký tự UTF-16 có độ dài bằng FullNameSize byte. Đây là chuỗi tên đầy đủ của ngôn ngữ tiếng Anh được tìm thấy trong bảng tên của phông chữ (tên ID = 4) - Xem http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|Mảng ký tự UTF-16 có độ dài bằng FullNameSize byte. Đây là chuỗi tên đầy đủ của ngôn ngữ tiếng Anh được tìm thấy trong bảng tên của phông chữ (tên ID = 4) - Xem https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|Giá trị đệm phải luôn được đặt thành 0x0000.|
 |unsigned short|RootStringSize|Số byte được sử dụng bởi mảng RootString|
 |byte|RootString[RootStringSize]|Mảng ký tự UTF-16 có độ dài bằng RootStringSize byte.|

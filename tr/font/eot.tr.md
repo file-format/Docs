@@ -57,16 +57,16 @@ EMBEDDEDFONT yapısı, her revizyonda yapının sonuna ek veriler eklenerek üç
 |işaretsiz uzun|Ayrılmış4|Ayrılmış - 0 olmalıdır|
 |unsigned short|Padding1|Uzun hizalamayı korumak için dolgu. Dolgu değeri her zaman 0x0000 olarak ayarlanmalıdır.|
 |unsigned short|FamilyNameSize|FamilyName dizisi tarafından kullanılan bayt sayısı|
-|bayt|AileAdı[AileAdıBoyutu]|AileAdıBoyutu bayt uzunluğunda UTF-16 karakter dizisi. Bu, yazı tipinin ad tablosunda bulunan İngilizce Yazı Tipi Ailesi dizesidir (ad kimliği = 1) - Bkz. http://www.microsoft.com/typography/otspec/name.htm|
+|bayt|AileAdı[AileAdıBoyutu]|AileAdıBoyutu bayt uzunluğunda UTF-16 karakter dizisi. Bu, yazı tipinin ad tablosunda bulunan İngilizce Yazı Tipi Ailesi dizesidir (ad kimliği = 1) - Bkz. https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|Padding değeri her zaman 0x0000 olarak ayarlanmalıdır.|
 |unsigned short|StyleNameSize|StilAdı tarafından kullanılan bayt sayısı|
-|byte|StyleName[StyleNameSize]|StyleNameSize bayt uzunluğunda UTF-16 karakter dizisi. Bu, yazı tipinin ad tablosunda bulunan İngilizce Yazı Tipi Alt Ailesi dizesidir (ad kimliği = 2) - Bkz. http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|StyleNameSize bayt uzunluğunda UTF-16 karakter dizisi. Bu, yazı tipinin ad tablosunda bulunan İngilizce Yazı Tipi Alt Ailesi dizesidir (ad kimliği = 2) - Bkz. https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|Padding değeri her zaman 0x0000 olarak ayarlanmalıdır.|
 |unsigned short|SürümAdıSize|SürümAdı tarafından kullanılan bayt sayısı|
-|bayt|SürümAdı[SürümAdıBoyutu]|VersiyonAdıBoyutu bayt uzunluğunda UTF-16 karakter dizisi. Bu, yazı tipinin ad tablosunda bulunan İngilizce sürüm dizesidir (ad kimliği = 5) - Bkz. http://www.microsoft.com/typography/otspec/name.htm|
+|bayt|SürümAdı[SürümAdıBoyutu]|VersiyonAdıBoyutu bayt uzunluğunda UTF-16 karakter dizisi. Bu, yazı tipinin ad tablosunda bulunan İngilizce sürüm dizesidir (ad kimliği = 5) - Bkz. https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|Padding değeri her zaman 0x0000 olarak ayarlanmalıdır.|
 |unsigned short|FullNameSize|FullName tarafından kullanılan bayt sayısı|
-|bayt|TamAdı[TamAdıBoyutu]|TamAdıBoyutu bayt uzunluğunda UTF-16 karakter dizisi. Bu, yazı tipinin ad tablosunda bulunan İngilizce tam ad dizesidir (ad kimliği = 4) - Bkz. http://www.microsoft.com/typography/otspec/name.htm|
+|bayt|TamAdı[TamAdıBoyutu]|TamAdıBoyutu bayt uzunluğunda UTF-16 karakter dizisi. Bu, yazı tipinin ad tablosunda bulunan İngilizce tam ad dizesidir (ad kimliği = 4) - Bkz. https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|Padding değeri her zaman 0x0000 olarak ayarlanmalıdır.|
 |unsigned short|RootStringSize|RootString dizisi tarafından kullanılan bayt sayısı|
 |byte|RootString[RootStringSize]|RootStringSize bayt uzunluğunda UTF-16 karakter dizisi.|

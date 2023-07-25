@@ -57,16 +57,16 @@
 |unsigned long|Reserved4|Reserved - має бути 0|
 |unsigned short|Padding1|Заповнення для підтримки довгого вирівнювання. Значення заповнення завжди має бути 0x0000.|
 |unsigned short|FamilyNameSize|Кількість байтів, які використовуються масивом FamilyName|
-|байт|НазваРодини[РозмірРодини]|Масив із символів UTF-16 довжиною в байти РозмірРодини. Це рядок сімейства шрифтів англійської мови, знайдений у таблиці імен шрифту (ідентифікатор назви = 1) – див. http://www.microsoft.com/typography/otspec/name.htm|
+|байт|НазваРодини[РозмірРодини]|Масив із символів UTF-16 довжиною в байти РозмірРодини. Це рядок сімейства шрифтів англійської мови, знайдений у таблиці імен шрифту (ідентифікатор назви = 1) – див. https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|Значення заповнення завжди має бути встановлено на 0x0000.|
 |unsigned short|StyleNameSize|Кількість байтів, використовуваних StyleName|
-|byte|StyleName[StyleNameSize]|Масив символів UTF-16 довжиною StyleNameSize байтів. Це рядок підсімейства шрифтів англійської мови, знайдений у таблиці імен шрифту (ідентифікатор імені = 2) – див. http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|Масив символів UTF-16 довжиною StyleNameSize байтів. Це рядок підсімейства шрифтів англійської мови, знайдений у таблиці імен шрифту (ідентифікатор імені = 2) – див. https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|Значення заповнення завжди має бути встановлено на 0x0000.|
 |unsigned short|VersionNameSize|Кількість байтів, які використовує VersionName|
-|bytes|VersionName[VersionNameSize]|Масив символів UTF-16 довжиною в VersionNameSize байтів. Це рядок англійської версії, знайдений у таблиці імен шрифту (ідентифікатор назви = 5) – див. http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|Масив символів UTF-16 довжиною в VersionNameSize байтів. Це рядок англійської версії, знайдений у таблиці імен шрифту (ідентифікатор назви = 5) – див. https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|Значення заповнення завжди має бути встановлено на 0x0000.|
 |unsigned short|FullNameSize|Кількість байтів, які використовує FullName|
-|byte|FullName[FullNameSize]|Масив символів UTF-16 довжиною в FullNameSize байтів. Це рядок повної назви англійською мовою, знайдений у таблиці імен шрифту (ідентифікатор назви = 4) – див. http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|Масив символів UTF-16 довжиною в FullNameSize байтів. Це рядок повної назви англійською мовою, знайдений у таблиці імен шрифту (ідентифікатор назви = 4) – див. https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|Значення заповнення завжди має бути 0x0000.|
 |unsigned short|RootStringSize|Кількість байтів, які використовуються масивом RootString|
 |byte|RootString[RootStringSize]|Масив символів UTF-16 довжиною RootStringSize байтів.|

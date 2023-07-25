@@ -57,16 +57,16 @@ Die EMBEDDEDFONT-Struktur wurde drei Revisionen unterzogen, wobei bei jeder Revi
 |unsigned long|Reserviert4|Reserviert - muss 0 sein|
 |unsigned short|Padding1|Padding, um die lange Ausrichtung beizubehalten. Der Füllwert muss immer auf 0x0000 gesetzt werden.|
 |unsigned short|FamilyNameSize|Anzahl der vom FamilyName-Array verwendeten Bytes|
-|byte|FamilyName[FamilyNameSize]|Array von UTF-16-Zeichen mit der Länge von FamilyNameSize Bytes. Dies ist die Zeichenkette der englischen Schriftfamilie, die in der Namenstabelle der Schriftart gefunden wird (Namens-ID = 1) – siehe http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FamilyName[FamilyNameSize]|Array von UTF-16-Zeichen mit der Länge von FamilyNameSize Bytes. Dies ist die Zeichenkette der englischen Schriftfamilie, die in der Namenstabelle der Schriftart gefunden wird (Namens-ID = 1) – siehe https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|Paddingwert muss immer auf 0x0000 gesetzt werden.|
 |unsigned short|StyleNameSize|Anzahl der vom StyleName verwendeten Bytes|
-|byte|StyleName[StyleNameSize]|Array von UTF-16-Zeichen mit der Länge von StyleNameSize Bytes. Dies ist die Zeichenkette der Unterfamilie der englischen Schriftart, die in der Namenstabelle der Schriftart gefunden wird (Namens-ID = 2) – siehe http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|Array von UTF-16-Zeichen mit der Länge von StyleNameSize Bytes. Dies ist die Zeichenkette der Unterfamilie der englischen Schriftart, die in der Namenstabelle der Schriftart gefunden wird (Namens-ID = 2) – siehe https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|Paddingwert muss immer auf 0x0000 gesetzt werden.|
 |unsigned short|VersionNameSize|Anzahl der von VersionName verwendeten Bytes|
-|bytes|VersionName[VersionNameSize]|Array von UTF-16-Zeichen mit der Länge von VersionNameSize Bytes. Dies ist die englischsprachige Versionszeichenfolge, die in der Namenstabelle der Schriftart gefunden wird (Namens-ID = 5) – siehe http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|Array von UTF-16-Zeichen mit der Länge von VersionNameSize Bytes. Dies ist die englischsprachige Versionszeichenfolge, die in der Namenstabelle der Schriftart gefunden wird (Namens-ID = 5) – siehe https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|Auffüllwert muss immer auf 0x0000 gesetzt werden.|
 |unsigned short|FullNameSize|Anzahl der vom FullName verwendeten Bytes|
-|byte|FullName[FullNameSize]|Array von UTF-16-Zeichen mit der Länge von FullNameSize-Bytes. Dies ist die vollständige Namenszeichenfolge in englischer Sprache, die in der Namenstabelle der Schriftart gefunden wird (Namens-ID = 4) – Siehe http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|Array von UTF-16-Zeichen mit der Länge von FullNameSize-Bytes. Dies ist die vollständige Namenszeichenfolge in englischer Sprache, die in der Namenstabelle der Schriftart gefunden wird (Namens-ID = 4) – Siehe https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|Auffüllwert muss immer auf 0x0000 gesetzt werden.|
 |unsigned short|RootStringSize|Anzahl der vom RootString-Array verwendeten Bytes|
 |byte|RootString[RootStringSize]|Array von UTF-16-Zeichen mit der Länge von RootStringSize-Bytes.|

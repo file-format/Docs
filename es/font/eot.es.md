@@ -57,16 +57,16 @@ La estructura EMBEDDEDFONT ha pasado por tres revisiones, con la adición de dat
 |unsigned long|Reservado4|Reservado - debe ser 0|
 |corto sin firmar|Padding1|Relleno para mantener la alineación larga. El valor de relleno siempre debe establecerse en 0x0000.|
 |corto sin firmar|FamilyNameSize|Número de bytes utilizados por la matriz FamilyName|
-|byte|FamilyName[FamilyNameSize]|Matriz de caracteres UTF-16 con la longitud de bytes de FamilyNameSize. Esta es la cadena de la familia de fuentes en idioma inglés que se encuentra en la tabla de nombres de la fuente (ID de nombre = 1). Consulte http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FamilyName[FamilyNameSize]|Matriz de caracteres UTF-16 con la longitud de bytes de FamilyNameSize. Esta es la cadena de la familia de fuentes en idioma inglés que se encuentra en la tabla de nombres de la fuente (ID de nombre = 1). Consulte https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|El valor de relleno siempre debe establecerse en 0x0000.|
 |sin signo corto|StyleNameSize|Número de bytes utilizados por StyleName|
-|byte|StyleName[StyleNameSize]|Matriz de caracteres UTF-16 de la longitud de StyleNameSize bytes. Esta es la cadena de subfamilia de fuentes en idioma inglés que se encuentra en la tabla de nombres de la fuente (ID de nombre = 2). Consulte http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|Matriz de caracteres UTF-16 de la longitud de StyleNameSize bytes. Esta es la cadena de subfamilia de fuentes en idioma inglés que se encuentra en la tabla de nombres de la fuente (ID de nombre = 2). Consulte https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|El valor de relleno siempre debe establecerse en 0x0000.|
 |corto sin firmar|VersionNameSize|Número de bytes utilizados por VersionName|
-|bytes|VersionName[VersionNameSize]|Matriz de caracteres UTF-16 de la longitud de VersionNameSize bytes. Esta es la cadena de la versión en inglés que se encuentra en la tabla de nombres de la fuente (ID de nombre = 5). Consulte http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|Matriz de caracteres UTF-16 de la longitud de VersionNameSize bytes. Esta es la cadena de la versión en inglés que se encuentra en la tabla de nombres de la fuente (ID de nombre = 5). Consulte https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|El valor de relleno siempre debe establecerse en 0x0000.|
 |sin signo corto|FullNameSize|Número de bytes utilizados por FullName|
-|byte|FullName[FullNameSize]|Matriz de caracteres UTF-16 con la longitud de bytes FullNameSize. Esta es la cadena de nombre completo en inglés que se encuentra en la tabla de nombres de la fuente (ID de nombre = 4). Consulte http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|Matriz de caracteres UTF-16 con la longitud de bytes FullNameSize. Esta es la cadena de nombre completo en inglés que se encuentra en la tabla de nombres de la fuente (ID de nombre = 4). Consulte https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|El valor de relleno siempre debe establecerse en 0x0000.|
 |sin signo corto|RootStringSize|Número de bytes utilizados por la matriz RootString|
 |byte|RootString[RootStringSize]|Matriz de caracteres UTF-16 con la longitud de bytes de RootStringSize.|

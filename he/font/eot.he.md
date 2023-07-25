@@ -57,16 +57,16 @@
 |לא חתום ארוך|שמור4|שמור - חייב להיות 0|
 |לא חתום קצר|ריפוד1|ריפוד לשמירה על יישור ארוך. ערך ריפוד חייב להיות מוגדר תמיד ל-0x0000.|
 |לא חתום קצר|FamilyNameSize|מספר בתים בשימוש מערך FamilyName|
-|byte|FamilyName[FamilyNameSize]|מערך של תווי UTF-16 באורך של בתים FamilyNameSize. זוהי מחרוזת ה-Font Family בשפה האנגלית שנמצאת בטבלת השמות של הגופן (שם מזהה = 1) - ראה http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FamilyName[FamilyNameSize]|מערך של תווי UTF-16 באורך של בתים FamilyNameSize. זוהי מחרוזת ה-Font Family בשפה האנגלית שנמצאת בטבלת השמות של הגופן (שם מזהה = 1) - ראה https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|ערך ריפוד חייב להיות מוגדר תמיד ל-0x0000.|
 |unsigned short|StyleNameSize|מספר בתים בשימוש ה- StyleName|
-|byte|StyleName[StyleNameSize]|מערך של תווי UTF-16 באורך של בתים StyleNameSize. זוהי מחרוזת ה-Font Subfamily בשפה האנגלית שנמצאת בטבלת השמות של הגופן (שם מזהה = 2) - ראה http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|מערך של תווי UTF-16 באורך של בתים StyleNameSize. זוהי מחרוזת ה-Font Subfamily בשפה האנגלית שנמצאת בטבלת השמות של הגופן (שם מזהה = 2) - ראה https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|ערך ריפוד חייב להיות מוגדר תמיד ל-0x0000.|
 |unsigned short|VersionNameSize|מספר בתים בשימוש על ידי VersionName|
-|bytes|VersionName[VersionNameSize]|מערך של תווי UTF-16 באורך של Bytes VersionNameSize. זוהי מחרוזת הגרסה בשפה האנגלית שנמצאת בטבלת השמות של הגופן (מזהה שם = 5) - ראה http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|מערך של תווי UTF-16 באורך של Bytes VersionNameSize. זוהי מחרוזת הגרסה בשפה האנגלית שנמצאת בטבלת השמות של הגופן (מזהה שם = 5) - ראה https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|ערך ריפוד חייב להיות מוגדר תמיד ל-0x0000.|
 |unsigned short|FullNameSize|מספר בתים בשימוש ה-FullName|
-|byte|FullName[FullNameSize]|מערך של תווי UTF-16 באורך של Bytes FullNameSize. זוהי מחרוזת השם המלא בשפה האנגלית שנמצאת בטבלת השמות של הגופן (שם מזהה = 4) - ראה http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|מערך של תווי UTF-16 באורך של Bytes FullNameSize. זוהי מחרוזת השם המלא בשפה האנגלית שנמצאת בטבלת השמות של הגופן (שם מזהה = 4) - ראה https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|ערך ריפוד חייב להיות מוגדר תמיד ל-0x0000.|
 |unsigned short|RootStringSize|מספר בתים המשמשים את מערך RootString|
 |byte|RootString[RootStringSize]|מערך של תווי UTF-16 באורך של בתים RootStringSize.|

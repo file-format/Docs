@@ -57,16 +57,16 @@ EMBEDDEDFONT 構造体は 3 回改訂され、改訂ごとに構造体の末尾�
 |unsigned long|Reserved4|予約済み - 必ず 0|
 |unsigned short|Padding1|長いアライメントを維持するためのパディング。パディング値は常に 0x0000 に設定する必要があります。|
 |unsigned short|FamilyNameSize|FamilyName 配列で使用されるバイト数|
-|byte|FamilyName[FamilyNameSize]|FamilyNameSize バイトの長さの UTF-16 文字の配列。これは、フォントの名前テーブルにある英語のフォント ファミリ文字列です (名前 ID = 1) - http://www.microsoft.com/typography/otspec/name.htm| を参照してください。
+|byte|FamilyName[FamilyNameSize]|FamilyNameSize バイトの長さの UTF-16 文字の配列。これは、フォントの名前テーブルにある英語のフォント ファミリ文字列です (名前 ID = 1) - https://learn.microsoft.com/en-us/typography/opentype/spec/name| を参照してください。
 |unsigned short|Padding2|パディング値は常に 0x0000 に設定する必要があります。|
 |unsigned short|StyleNameSize|StyleName で使用されるバイト数|
-|byte|StyleName[StyleNameSize]|StyleNameSize バイトの長さの UTF-16 文字の配列。これは、フォントの名前テーブルにある英語のフォント サブファミリ文字列です (名前 ID = 2) - http://www.microsoft.com/typography/otspec/name.htm| を参照してください。
+|byte|StyleName[StyleNameSize]|StyleNameSize バイトの長さの UTF-16 文字の配列。これは、フォントの名前テーブルにある英語のフォント サブファミリ文字列です (名前 ID = 2) - https://learn.microsoft.com/en-us/typography/opentype/spec/name| を参照してください。
 |unsigned short|Padding3|パディング値は常に 0x0000 に設定する必要があります。|
 |unsigned short|VersionNameSize|VersionName で使用されるバイト数|
-|bytes|VersionName[VersionNameSize]|VersionNameSize バイトの長さの UTF-16 文字の配列。これは、フォントの名前テーブルにある英語版の文字列です (名前 ID = 5) - http://www.microsoft.com/typography/otspec/name.htm| を参照してください。
+|bytes|VersionName[VersionNameSize]|VersionNameSize バイトの長さの UTF-16 文字の配列。これは、フォントの名前テーブルにある英語版の文字列です (名前 ID = 5) - https://learn.microsoft.com/en-us/typography/opentype/spec/name| を参照してください。
 |unsigned short|Padding4|パディング値は常に 0x0000 に設定する必要があります。|
 |unsigned short|FullNameSize|FullName が使用するバイト数|
-|byte|FullName[FullNameSize]|FullNameSize バイトの長さの UTF-16 文字の配列。これは、フォントの名前テーブルにある英語のフル ネーム文字列です (名前 ID = 4) - http://www.microsoft.com/typography/otspec/name.htm| を参照してください。
+|byte|FullName[FullNameSize]|FullNameSize バイトの長さの UTF-16 文字の配列。これは、フォントの名前テーブルにある英語のフル ネーム文字列です (名前 ID = 4) - https://learn.microsoft.com/en-us/typography/opentype/spec/name| を参照してください。
 |unsigned short|Padding5|パディング値は常に 0x0000 に設定する必要があります。|
 |unsigned short|RootStringSize|RootString 配列で使用されるバイト数|
 |byte|RootString[RootStringSize]|RootStringSize バイトの長さの UTF-16 文字の配列。|

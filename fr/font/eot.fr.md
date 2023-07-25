@@ -57,16 +57,16 @@ La structure EMBEDDEDFONT a subi trois révisions, avec ajout de données suppl�
 |unsigned long|Réservé4|Réservé - doit être 0|
 |unsigned short|Padding1|Remplissage pour maintenir l'alignement long. La valeur de rembourrage doit toujours être définie sur 0x0000.|
 |unsigned short|FamilyNameSize|Nombre d'octets utilisés par le tableau FamilyName|
-|byte|FamilyName[FamilyNameSize]|Tableau de caractères UTF-16 d'une longueur de FamilyNameSize octets. Il s'agit de la chaîne de la famille de polices en anglais trouvée dans le tableau des noms de la police (nom ID = 1) - Voir http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FamilyName[FamilyNameSize]|Tableau de caractères UTF-16 d'une longueur de FamilyNameSize octets. Il s'agit de la chaîne de la famille de polices en anglais trouvée dans le tableau des noms de la police (nom ID = 1) - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|La valeur de remplissage doit toujours être définie sur 0x0000.|
 |unsigned short|StyleNameSize|Nombre d'octets utilisés par StyleName|
-|byte|StyleName[StyleNameSize]|Tableau de caractères UTF-16 d'une longueur de StyleNameSize octets. Il s'agit de la chaîne de la sous-famille de polices en anglais trouvée dans le tableau des noms de la police (nom ID = 2) - Voir http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|Tableau de caractères UTF-16 d'une longueur de StyleNameSize octets. Il s'agit de la chaîne de la sous-famille de polices en anglais trouvée dans le tableau des noms de la police (nom ID = 2) - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|La valeur de remplissage doit toujours être définie sur 0x0000.|
 |unsigned short|VersionNameSize|Nombre d'octets utilisés par VersionName|
-|bytes|VersionName[VersionNameSize]|Tableau de caractères UTF-16 d'une longueur de VersionNameSize octets. Il s'agit de la chaîne de version en anglais trouvée dans le tableau des noms de la police (nom ID = 5) - Voir http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|Tableau de caractères UTF-16 d'une longueur de VersionNameSize octets. Il s'agit de la chaîne de version en anglais trouvée dans le tableau des noms de la police (nom ID = 5) - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|La valeur de remplissage doit toujours être définie sur 0x0000.|
 |unsigned short|FullNameSize|Nombre d'octets utilisés par le FullName|
-|byte|FullName[FullNameSize]|Tableau de caractères UTF-16 d'une longueur de FullNameSize octets. Il s'agit de la chaîne de nom complet en anglais trouvée dans le tableau des noms de la police (nom ID = 4) - Voir http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|Tableau de caractères UTF-16 d'une longueur de FullNameSize octets. Il s'agit de la chaîne de nom complet en anglais trouvée dans le tableau des noms de la police (nom ID = 4) - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|La valeur de remplissage doit toujours être définie sur 0x0000.|
 |unsigned short|RootStringSize|Nombre d'octets utilisés par le tableau RootString|
 |byte|RootString[RootStringSize]|Tableau de caractères UTF-16 d'une longueur de RootStringSize octets.|

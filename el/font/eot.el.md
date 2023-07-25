@@ -57,16 +57,16 @@
 |ανυπόγραφο long|Δέσμευση4|Δεσμευμένο - πρέπει να είναι 0|
 |unsigned short|Padding1|Padding για διατήρηση μεγάλης ευθυγράμμισης. Η τιμή πλήρωσης πρέπει πάντα να ορίζεται σε 0x0000.|
 |unsigned short|FamilyNameSize|Αριθμός byte που χρησιμοποιούνται από τον πίνακα FamilyName|
-|byte|FamilyName[FamilyNameSize]|Πίνακας χαρακτήρων UTF-16 το μήκος των byte FamilyNameSize. Αυτή είναι η συμβολοσειρά της οικογένειας γραμματοσειρών της αγγλικής γλώσσας που βρίσκεται στον πίνακα ονομάτων της γραμματοσειράς (αναγνωριστικό ονόματος = 1) - Δείτε http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FamilyName[FamilyNameSize]|Πίνακας χαρακτήρων UTF-16 το μήκος των byte FamilyNameSize. Αυτή είναι η συμβολοσειρά της οικογένειας γραμματοσειρών της αγγλικής γλώσσας που βρίσκεται στον πίνακα ονομάτων της γραμματοσειράς (αναγνωριστικό ονόματος = 1) - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|Η τιμή padding πρέπει πάντα να ορίζεται σε 0x0000.|
 |unsigned short|StyleNameSize|Αριθμός byte που χρησιμοποιούνται από το StyleName|
-|byte|StyleName[StyleNameSize]|Πίνακας χαρακτήρων UTF-16 το μήκος των byte StyleNameSize. Αυτή είναι η συμβολοσειρά Font Subfamily της αγγλικής γλώσσας που βρίσκεται στον πίνακα ονομάτων της γραμματοσειράς (όνομα ID = 2) - Δείτε http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|Πίνακας χαρακτήρων UTF-16 το μήκος των byte StyleNameSize. Αυτή είναι η συμβολοσειρά Font Subfamily της αγγλικής γλώσσας που βρίσκεται στον πίνακα ονομάτων της γραμματοσειράς (όνομα ID = 2) - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|Η τιμή padding πρέπει πάντα να ορίζεται σε 0x0000.|
 |unsigned short|VersionNameSize|Αριθμός byte που χρησιμοποιούνται από το VersionName|
-|bytes|VersionName[VersionNameSize]|Πίνακας χαρακτήρων UTF-16 το μήκος των byte VersionNameSize. Αυτή είναι η συμβολοσειρά της αγγλικής έκδοσης που βρίσκεται στον πίνακα ονομάτων της γραμματοσειράς (όνομα ID = 5) - Δείτε http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|Πίνακας χαρακτήρων UTF-16 το μήκος των byte VersionNameSize. Αυτή είναι η συμβολοσειρά της αγγλικής έκδοσης που βρίσκεται στον πίνακα ονομάτων της γραμματοσειράς (όνομα ID = 5) - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|Η τιμή padding πρέπει πάντα να ορίζεται σε 0x0000.|
 |unsigned short|FullNameSize|Αριθμός byte που χρησιμοποιούνται από το FullName|
-|byte|FullName[FullNameSize]|Πίνακας χαρακτήρων UTF-16 το μήκος των byte FullNameSize. Αυτή είναι η συμβολοσειρά πλήρους ονόματος στην αγγλική γλώσσα που βρίσκεται στον πίνακα ονομάτων της γραμματοσειράς (όνομα ID = 4) - Δείτε http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|Πίνακας χαρακτήρων UTF-16 το μήκος των byte FullNameSize. Αυτή είναι η συμβολοσειρά πλήρους ονόματος στην αγγλική γλώσσα που βρίσκεται στον πίνακα ονομάτων της γραμματοσειράς (όνομα ID = 4) - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|Η τιμή padding πρέπει πάντα να ορίζεται σε 0x0000.|
 |unsigned short|RootStringSize|Αριθμός byte που χρησιμοποιούνται από τον πίνακα RootString|
 |byte|RootString[RootStringSize]|Πίνακας UTF-16 χαρακτήρων στο μήκος των byte RootStringSize.|
