@@ -74,6 +74,6 @@ GPX 파일은 위도 및 경도 위치 데이터, 고도 값 및 기타 가능�
 
 ## 참조 ##
 
-* [GPX 파일 형식](http://www.topografix.com/gpx.asp)
+* [GPX 파일 형식](https://www.topografix.com/gpx.asp)
 * [GPX - 위키피디아 작성](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
 

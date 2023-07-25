@@ -74,6 +74,6 @@ Följande GPX-fil visar organisationen av GPS-data i en GPX-fil och kan ge en go
 
 ## Referenser ##
 
-* [GPX-filformat](http://www.topografix.com/gpx.asp)
+* [GPX-filformat](https://www.topografix.com/gpx.asp)
 * [GPX - av Wikipedia](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
 

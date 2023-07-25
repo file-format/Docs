@@ -74,6 +74,6 @@
 
 ## संदर्भ ##
 
-* [GPX फ़ाइल स्वरूप](http://www.topografix.com/gpx.asp)
+* [GPX फ़ाइल स्वरूप](https://www.topografix.com/gpx.asp)
 * [जीपीएक्स - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
 

@@ -74,6 +74,6 @@
 
 ## Βιβλιογραφικές αναφορές ##
 
-* [Μορφή αρχείου GPX](http://www.topografix.com/gpx.asp)
+* [Μορφή αρχείου GPX](https://www.topografix.com/gpx.asp)
 * [GPX - By Wikipedia](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
 

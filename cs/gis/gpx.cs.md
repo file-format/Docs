@@ -74,6 +74,6 @@ Následující soubor GPX ukazuje organizaci dat GPS v souboru GPX a může posk
 
 ## Reference ##
 
-* [Formát souboru GPX](http://www.topografix.com/gpx.asp)
+* [Formát souboru GPX](https://www.topografix.com/gpx.asp)
 * [GPX – z Wikipedie](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
 
