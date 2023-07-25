@@ -19,15 +19,15 @@
 
 ## .U3D 파일이란?
 
-**U3D**(Universal 3D)는 3D 컴퓨터 그래픽을 위한 압축 파일 형식 및 데이터 구조입니다. 삼각형 메쉬, 조명, 음영, 모션 데이터, 색상 및 구조가 있는 선 및 점과 같은 3D 모델 정보가 포함되어 있습니다. 형식은 2005년 8월에 [ ECMA-363](http://www.ecma-international.org/publications/standards/Ecma-363.htm) 표준으로 승인되었습니다. 3D [PDF](/ko/pdf/) 문서는 U3D를 지원합니다. 개체 포함 및 Adobe Reader(버전 7 이상)에서 볼 수 있습니다.
+**U3D**(Universal 3D)는 3D 컴퓨터 그래픽을 위한 압축 파일 형식 및 데이터 구조입니다. 삼각형 메쉬, 조명, 음영, 모션 데이터, 색상 및 구조가 있는 선 및 점과 같은 3D 모델 정보가 포함되어 있습니다. 형식은 2005년 8월에 [ ECMA-363](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) 표준으로 승인되었습니다. 3D [PDF](/ko/pdf/) 문서는 U3D를 지원합니다. 개체 포함 및 Adobe Reader(버전 7 이상)에서 볼 수 있습니다.
 
 U3D 형식은 3차원 데이터 저장 및 교환에 대한 보편적인 표준을 수립하는 것을 목표로 개발되었습니다. 그러나 이 형식은 교환 형식으로 사용되지 않고 3D PDF 인코딩에 주로 활용됩니다. Acrobat 3D는 지원되는 3D 파일 유형을 PDF로 변환할 때 U3D 또는 PRC로 변환합니다.
 
 ## U3D 파일 형식
 
-U3D 파일은 [ECMA-363](http://www.ecma-international.org/publications/standards/Ecma-363.htm) 참조 문서에 설명된 대로 4가지 버전을 거친 바이너리 파일 형식으로 사양 업데이트 각 에디션과 함께. PDF 파일 표준 ISO-32000은 U3D를 주석 및 멀티미디어 유형으로 허용합니다.
+U3D 파일은 [ECMA-363](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) 참조 문서에 설명된 대로 4가지 버전을 거친 바이너리 파일 형식으로 사양 업데이트 각 에디션과 함께. PDF 파일 표준 ISO-32000은 U3D를 주석 및 멀티미디어 유형으로 허용합니다.
 
-U3D의 초판은 지오메트리, 색상, 텍스처, 조명, 뼈대 및 변형 기반 애니메이션과 같은 3D 그래픽 속성의 주요 표현에 중점을 두었습니다. 두 번째 및 세 번째 버전은 첫 번째 버전의 일부 정오표를 수정했으며 세 번째 버전은 업계 소프트웨어에서 가장 일반적으로 사용되는 유형입니다. 네 번째 판은 고차 기본체(곡면)에 대한 정의를 제공합니다. [U3D 사양](http://www.ecma-international.org/publications/standards/Ecma-363.htm)은 ECMA 웹사이트에서 사용자 참조용으로 온라인으로 제공됩니다.
+U3D의 초판은 지오메트리, 색상, 텍스처, 조명, 뼈대 및 변형 기반 애니메이션과 같은 3D 그래픽 속성의 주요 표현에 중점을 두었습니다. 두 번째 및 세 번째 버전은 첫 번째 버전의 일부 정오표를 수정했으며 세 번째 버전은 업계 소프트웨어에서 가장 일반적으로 사용되는 유형입니다. 네 번째 판은 고차 기본체(곡면)에 대한 정의를 제공합니다. [U3D 사양](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/)은 ECMA 웹사이트에서 사용자 참조용으로 온라인으로 제공됩니다.
 
 ### U3D 파일의 데이터 유형
 

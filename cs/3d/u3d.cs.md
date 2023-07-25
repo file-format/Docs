@@ -19,15 +19,15 @@
 
 ## Co je soubor U3D?
 
-**U3D** (Universal 3D) je komprimovaný formát souboru a datová struktura pro 3D počítačovou grafiku. Obsahuje informace o 3D modelu, jako jsou trojúhelníkové sítě, osvětlení, stínování, pohybová data, čáry a body s barvou a strukturou. Formát byl přijat jako standard[ECMA-363](http://www.ecma-international.org/publications/standards/Ecma-363.htm) v srpnu 2005. Dokumenty 3D [PDF](/cs/pdf/) podporují U3D vkládání objektů a lze je zobrazit v aplikaci Adobe Reader (verze 7 a novější).
+**U3D** (Universal 3D) je komprimovaný formát souboru a datová struktura pro 3D počítačovou grafiku. Obsahuje informace o 3D modelu, jako jsou trojúhelníkové sítě, osvětlení, stínování, pohybová data, čáry a body s barvou a strukturou. Formát byl přijat jako standard[ECMA-363](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) v srpnu 2005. Dokumenty 3D [PDF](/cs/pdf/) podporují U3D vkládání objektů a lze je zobrazit v aplikaci Adobe Reader (verze 7 a novější).
 
 Formát U3D byl vyvinut s ohledem na cíl vytvořit univerzální standard pro trojrozměrné ukládání a výměnu dat. Formát však nachází své hlavní využití spíše v kódování pro 3D PDF, než aby byl používán jako výměnný formát. Acrobat 3D převede podporovaný typ 3D souboru po převodu do PDF buď na U3D, nebo PRC.
 
 ## Formát souboru U3D
 
-Soubory U3D jsou v binárním formátu souboru, který prošel čtyřmi vydáními, jak je popsáno v referenčním dokumentu [ECMA-363](http://www.ecma-international.org/publications/standards/Ecma-363.htm), což vede k aktualizaci specifikací s každým vydáním. Standard souboru PDF ISO-32000 přijímá U3D jako povolenou anotaci a typ multimédií.
+Soubory U3D jsou v binárním formátu souboru, který prošel čtyřmi vydáními, jak je popsáno v referenčním dokumentu [ECMA-363](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/), což vede k aktualizaci specifikací s každým vydáním. Standard souboru PDF ISO-32000 přijímá U3D jako povolenou anotaci a typ multimédií.
 
-První vydání U3D bylo zaměřeno na klíčové reprezentace vlastností 3D grafiky, jako je geometrie, barva, textury, osvětlení, kosti a animace založené na transformaci. Druhé a třetí vydání opravilo některé chyby v prvním vydání, přičemž třetí verze byla nejběžněji používaným typem průmyslového softwaru. Čtvrté vydání poskytuje definice pro primitiva vyššího řádu (zakřivené povrchy). [Specifikace U3D](http://www.ecma-international.org/publications/standards/Ecma-363.htm) jsou k dispozici online pro uživatele na webových stránkách ECMA.
+První vydání U3D bylo zaměřeno na klíčové reprezentace vlastností 3D grafiky, jako je geometrie, barva, textury, osvětlení, kosti a animace založené na transformaci. Druhé a třetí vydání opravilo některé chyby v prvním vydání, přičemž třetí verze byla nejběžněji používaným typem průmyslového softwaru. Čtvrté vydání poskytuje definice pro primitiva vyššího řádu (zakřivené povrchy). [Specifikace U3D](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) jsou k dispozici online pro uživatele na webových stránkách ECMA.
 
 ### Datové typy v souborech U3D
 

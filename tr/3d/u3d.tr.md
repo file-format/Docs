@@ -19,15 +19,15 @@
 
 ## U3D dosyası nedir?
 
-**U3D** (Universal 3D), 3D bilgisayar grafikleri için sıkıştırılmış bir dosya formatı ve veri yapısıdır. Üçgen kafesler, aydınlatma, gölgeleme, hareket verileri, çizgiler ve noktalar gibi renk ve yapıya sahip 3B model bilgilerini içerir. Biçim, Ağustos 2005'te [ ECMA-363](http://www.ecma-international.org/publications/standards/Ecma-363.htm) standardı olarak kabul edildi. 3D [PDF](/tr/pdf/) belgeleri U3D'yi destekler nesneler gömülür ve Adobe Reader'da (sürüm 7 ve sonrası) görüntülenebilir.
+**U3D** (Universal 3D), 3D bilgisayar grafikleri için sıkıştırılmış bir dosya formatı ve veri yapısıdır. Üçgen kafesler, aydınlatma, gölgeleme, hareket verileri, çizgiler ve noktalar gibi renk ve yapıya sahip 3B model bilgilerini içerir. Biçim, Ağustos 2005'te [ ECMA-363](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) standardı olarak kabul edildi. 3D [PDF](/tr/pdf/) belgeleri U3D'yi destekler nesneler gömülür ve Adobe Reader'da (sürüm 7 ve sonrası) görüntülenebilir.
 
 U3D formatı, üç boyutlu veri depolama ve alışverişi için evrensel bir standart oluşturma amacı göz önünde bulundurularak geliştirilmiştir. Bununla birlikte, format, bir değişim formatı olarak kullanılmaktansa, asıl kullanımını 3D PDF için kodlamada bulur. Acrobat 3D, desteklenen bir 3D dosya türünü PDF'ye dönüştürdükten sonra U3D'ye veya PRC'ye dönüştürür.
 
 ## U3D Dosya Biçimi
 
-U3D dosyaları, [ECMA-363](http://www.ecma-international.org/publications/standards/Ecma-363.htm) referans belgesinde açıklandığı gibi dört sürümden geçen ikili dosya biçimindedir ve bu, teknik özelliklerin güncellenmesine neden olur her sürümde. PDF dosya standardı ISO-32000, izin verilen açıklama ve multimedya türü olarak U3D'yi kabul eder.
+U3D dosyaları, [ECMA-363](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) referans belgesinde açıklandığı gibi dört sürümden geçen ikili dosya biçimindedir ve bu, teknik özelliklerin güncellenmesine neden olur her sürümde. PDF dosya standardı ISO-32000, izin verilen açıklama ve multimedya türü olarak U3D'yi kabul eder.
 
-U3D'nin ilk sürümü, geometri, renk, dokular, aydınlatma, eklemler ve dönüşüm tabanlı animasyon gibi 3B grafik özelliklerinin temel temsillerine odaklanmıştı. İkinci ve üçüncü baskılar, ilk baskıdaki bazı hataları düzeltti ve üçüncü versiyon, endüstri yazılımında en yaygın kullanılan türdü. Dördüncü baskı, üst düzey ilkel öğeler (eğri yüzeyler) için tanımlar sağlar. [U3D belirtimleri](http://www.ecma-international.org/publications/standards/Ecma-363.htm), ECMA web sitesinde kullanıcı referansı için çevrimiçi olarak mevcuttur.
+U3D'nin ilk sürümü, geometri, renk, dokular, aydınlatma, eklemler ve dönüşüm tabanlı animasyon gibi 3B grafik özelliklerinin temel temsillerine odaklanmıştı. İkinci ve üçüncü baskılar, ilk baskıdaki bazı hataları düzeltti ve üçüncü versiyon, endüstri yazılımında en yaygın kullanılan türdü. Dördüncü baskı, üst düzey ilkel öğeler (eğri yüzeyler) için tanımlar sağlar. [U3D belirtimleri](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/), ECMA web sitesinde kullanıcı referansı için çevrimiçi olarak mevcuttur.
 
 ### U3D dosyalarındaki Veri Türleri
 

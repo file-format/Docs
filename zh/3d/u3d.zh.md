@@ -19,13 +19,13 @@
 
 ## 什么是一 .u3d 文件？
 
-**U3D**（通用 3D）是一种用于 3D 计算机图形的压缩文件格式和数据结构。它包含 3D 模型信息，例如三角形网格、照明、阴影、运动数据、具有颜色和结构的线和点。该格式于 2005 年 8 月被接受为 [ECMA-363](http://www.ecma-international.org/publications/standards/Ecma-363.htm) 标准。3D [PDF](/zh/pdf/) 文档支持 U3D对象嵌入并可在 Adobe Reader（版本 7 及更高版本）中查看。开发 U3D 格式的目的是建立一个通用的三维数据存储和交换标准。但是，该格式主要用于 3D PDF 的编码，而不是用作交换格式。 Acrobat 3D 在转换为 PDF 时将支持的 3D 文件类型转换为 U3D 或 PRC。
+**U3D**（通用 3D）是一种用于 3D 计算机图形的压缩文件格式和数据结构。它包含 3D 模型信息，例如三角形网格、照明、阴影、运动数据、具有颜色和结构的线和点。该格式于 2005 年 8 月被接受为 [ECMA-363](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) 标准。3D [PDF](/zh/pdf/) 文档支持 U3D对象嵌入并可在 Adobe Reader（版本 7 及更高版本）中查看。开发 U3D 格式的目的是建立一个通用的三维数据存储和交换标准。但是，该格式主要用于 3D PDF 的编码，而不是用作交换格式。 Acrobat 3D 在转换为 PDF 时将支持的 3D 文件类型转换为 U3D 或 PRC。
 
 ## U3D 文件格式
 
-U3D 文件是二进制文件格式，如 [ECMA-363](http://www.ecma-international.org/publications/standards/Ecma-363.htm) 参考文档所述，经历了四个版本，导致规范更新每个版本。 PDF 文件标准 ISO-32000 接受 U3D 作为允许的注释和多媒体类型。
+U3D 文件是二进制文件格式，如 [ECMA-363](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) 参考文档所述，经历了四个版本，导致规范更新每个版本。 PDF 文件标准 ISO-32000 接受 U3D 作为允许的注释和多媒体类型。
 
-U3D 的第一版侧重于 3D 图形属性的关键表示，例如几何、颜色、纹理、照明、骨骼和基于变换的动画。第二版和第三版更正了第一版的一些勘误，第三版是行业软件中最常用的类型。第四版提供了高阶图元（曲面）的定义。 [U3D 规范](http://www.ecma-international.org/publications/standards/Ecma-363.htm) 在 ECMA 网站上可供用户参考。
+U3D 的第一版侧重于 3D 图形属性的关键表示，例如几何、颜色、纹理、照明、骨骼和基于变换的动画。第二版和第三版更正了第一版的一些勘误，第三版是行业软件中最常用的类型。第四版提供了高阶图元（曲面）的定义。 [U3D 规范](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) 在 ECMA 网站上可供用户参考。
 
 ### U3D 文件中的数据类型
 

@@ -19,15 +19,15 @@
 
 ## Tệp U3D là gì?
 
-**U3D** (3D phổ quát) là định dạng tệp nén và cấu trúc dữ liệu dành cho đồ họa máy tính 3D. Nó chứa thông tin mô hình 3D như lưới tam giác, ánh sáng, bóng đổ, dữ liệu chuyển động, đường và điểm có màu sắc và cấu trúc. Định dạng được chấp nhận là tiêu chuẩn [ ECMA-363](http://www.ecma-international.org/publications/standards/Ecma-363.htm) vào tháng 8 năm 2005. Tài liệu 3D [PDF](/vi/pdf/) hỗ trợ U3D các đối tượng nhúng và có thể được xem trong Adobe Reader (phiên bản 7 trở đi).
+**U3D** (3D phổ quát) là định dạng tệp nén và cấu trúc dữ liệu dành cho đồ họa máy tính 3D. Nó chứa thông tin mô hình 3D như lưới tam giác, ánh sáng, bóng đổ, dữ liệu chuyển động, đường và điểm có màu sắc và cấu trúc. Định dạng được chấp nhận là tiêu chuẩn [ ECMA-363](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) vào tháng 8 năm 2005. Tài liệu 3D [PDF](/vi/pdf/) hỗ trợ U3D các đối tượng nhúng và có thể được xem trong Adobe Reader (phiên bản 7 trở đi).
 
 Định dạng U3D được phát triển nhằm mục đích thiết lập một tiêu chuẩn chung cho việc lưu trữ và trao đổi dữ liệu ba chiều. Tuy nhiên, định dạng được sử dụng chính trong mã hóa cho PDF 3D thay vì được sử dụng làm định dạng trao đổi. Acrobat 3D chuyển đổi loại tệp 3D được hỗ trợ thành U3D hoặc PRC khi chuyển đổi thành PDF.
 
 ## Định dạng tệp U3D
 
-Các tệp U3D ở định dạng tệp nhị phân đã trải qua bốn phiên bản như được mô tả trong tài liệu tham khảo [ECMA-363](http://www.ecma-international.org/publications/standards/Ecma-363.htm), dẫn đến cập nhật thông số kỹ thuật với mỗi ấn bản. Tiêu chuẩn tệp PDF ISO-32000 chấp nhận U3D là loại chú thích và đa phương tiện được phép.
+Các tệp U3D ở định dạng tệp nhị phân đã trải qua bốn phiên bản như được mô tả trong tài liệu tham khảo [ECMA-363](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/), dẫn đến cập nhật thông số kỹ thuật với mỗi ấn bản. Tiêu chuẩn tệp PDF ISO-32000 chấp nhận U3D là loại chú thích và đa phương tiện được phép.
 
-Phiên bản đầu tiên của U3D tập trung vào các biểu diễn chính của các thuộc tính đồ họa 3D như hình học, màu sắc, kết cấu, ánh sáng, xương và hoạt hình dựa trên biến đổi. Ấn bản thứ hai và thứ ba đã sửa một số lỗi trong ấn bản đầu tiên, với phiên bản thứ ba là loại được sử dụng phổ biến nhất trong phần mềm công nghiệp. Phiên bản thứ tư cung cấp các định nghĩa cho các nguyên hàm bậc cao hơn (các mặt cong). [Thông số kỹ thuật của U3D](http://www.ecma-international.org/publications/standards/Ecma-363.htm) có sẵn trực tuyến để người dùng tham khảo trên trang web ECMA.
+Phiên bản đầu tiên của U3D tập trung vào các biểu diễn chính của các thuộc tính đồ họa 3D như hình học, màu sắc, kết cấu, ánh sáng, xương và hoạt hình dựa trên biến đổi. Ấn bản thứ hai và thứ ba đã sửa một số lỗi trong ấn bản đầu tiên, với phiên bản thứ ba là loại được sử dụng phổ biến nhất trong phần mềm công nghiệp. Phiên bản thứ tư cung cấp các định nghĩa cho các nguyên hàm bậc cao hơn (các mặt cong). [Thông số kỹ thuật của U3D](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) có sẵn trực tuyến để người dùng tham khảo trên trang web ECMA.
 
 ### Các loại dữ liệu trong tệp U3D
 
