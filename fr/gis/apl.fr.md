@@ -27,5 +27,5 @@ APL sont des fichiers SIG binaires et ses informations de format de fichier ne s
 
 ## Références ##
 
-* [ArcPad Pro](http://www.esri.com/library/brochures/pdfs/arcpadbro.pdf)
+* [ArcPad Pro](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/brochures/pdfs/arcpadbro.pdf)
 

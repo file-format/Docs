@@ -27,5 +27,5 @@ APL 是二进制 GIS 文件，其文件格式信息不公开。
 
 ## 参考 ＃＃
 
-* [ArcPad Pro](http://www.esri.com/library/brochures/pdfs/arcpadbro.pdf)
+* [ArcPad Pro](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/brochures/pdfs/arcpadbro.pdf)
 

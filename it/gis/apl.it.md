@@ -27,5 +27,5 @@ Gli APL sono file GIS binari e le informazioni sul formato del file non sono dis
 
 ## Riferimenti ##
 
-* [ArcPad Pro](http://www.esri.com/library/brochures/pdfs/arcpadbro.pdf)
+* [ArcPad Pro](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/brochures/pdfs/arcpadbro.pdf)
 

@@ -27,5 +27,5 @@ APL sunt fișiere GIS binare, iar informațiile despre formatul fișierului nu s
 
 ## Referințe ##
 
-* [ArcPad Pro](http://www.esri.com/library/brochures/pdfs/arcpadbro.pdf)
+* [ArcPad Pro](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/brochures/pdfs/arcpadbro.pdf)
 
