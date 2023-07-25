@@ -66,5 +66,5 @@ unit Unit1;
 ## อ้างอิง
 
 * [ทำความเข้าใจโครงการ Delphi และไฟล์ต้นฉบับของหน่วย](https://www.thoughtco.com/understanding-delphi-project-files-dpr-1057652)
-* [การเขียนโปรแกรม Delphi ครั้งแรกของคุณ](http://www.delphibasics.co.uk/Article.asp?Name=FirstPgm)
+* [การเขียนโปรแกรม Delphi ครั้งแรกของคุณ](http://www.delphibasics.co.uk/Article.php?Name=FirstPgm)
 

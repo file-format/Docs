@@ -66,5 +66,5 @@ unit Unit1;
 ## Hivatkozások
 
 * [A Delphi projekt és az egység forrásfájljainak ismertetése](https://www.thoughtco.com/understanding-delphi-project-files-dpr-1057652)
-* [Az első Delphi-program megírása](http://www.delphibasics.co.uk/Article.asp?Name=FirstPgm)
+* [Az első Delphi-program megírása](http://www.delphibasics.co.uk/Article.php?Name=FirstPgm)
 

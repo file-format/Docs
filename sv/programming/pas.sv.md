@@ -66,5 +66,5 @@ unit Unit1;
 ## Referenser
 
 * [Förstå Delphi Project and Unit Source Files](https://www.thoughtco.com/understanding-delphi-project-files-dpr-1057652)
-* [Skriver ditt första Delphi-program](http://www.delphibasics.co.uk/Article.asp?Name=FirstPgm)
+* [Skriver ditt första Delphi-program](http://www.delphibasics.co.uk/Article.php?Name=FirstPgm)
 

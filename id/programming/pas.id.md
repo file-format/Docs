@@ -66,5 +66,5 @@ unit Unit1;
 ## Referensi
 
 * [Memahami Proyek Delphi dan File Sumber Unit](https://www.thoughtco.com/understanding-delphi-project-files-dpr-1057652)
-* [Menulis program Delphi pertama Anda](http://www.delphibasics.co.uk/Article.asp?Name=FirstPgm)
+* [Menulis program Delphi pertama Anda](http://www.delphibasics.co.uk/Article.php?Name=FirstPgm)
 
