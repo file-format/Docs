@@ -19,7 +19,7 @@
 
 ## Czym jest plik OTG?
 
-Plik OTG to szablon rysunku utworzony przy użyciu standardu OpenDocument zgodnego ze specyfikacją OASIS Office Applications [1.0](http://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0 -os.pdf). Reprezentuje domyślną organizację elementów rysunku dla obrazu wektorowego, której można użyć do dalszego ulepszenia zawartości pliku. Pliki OTF są jak wszystkie inne pliki oparte na formacie OpenDocument, które są oparte na formacie XML do reprezentowania zawartości dokumentu. Pliki OTF można przeglądać, otwierając je w dowolnym edytorze tekstowym lub standardowym XML.
+Plik OTG to szablon rysunku utworzony przy użyciu standardu OpenDocument zgodnego ze specyfikacją OASIS Office Applications [1.0](https://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0-os.pdf). Reprezentuje domyślną organizację elementów rysunku dla obrazu wektorowego, której można użyć do dalszego ulepszenia zawartości pliku. Pliki OTF są jak wszystkie inne pliki oparte na formacie OpenDocument, które są oparte na formacie XML do reprezentowania zawartości dokumentu. Pliki OTF można przeglądać, otwierając je w dowolnym edytorze tekstowym lub standardowym XML.
 
 ## Specyfikacje formatu plików OTG ##
 

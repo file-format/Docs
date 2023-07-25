@@ -19,7 +19,7 @@
 
 ## OTG dosyası nedir?
 
-Bir OTG dosyası, OASIS Office Uygulamalarını [1.0 spesifikasyonu](http://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0) izleyen OpenDocument standardı kullanılarak oluşturulan bir çizim şablonudur. -os.pdf). Dosyanın içeriğini daha da geliştirmek için kullanılabilecek bir vektör görüntüsü için çizim öğelerinin varsayılan organizasyonunu temsil eder. OTF dosyaları, belgenin içeriğini temsil etmek için XML biçimini temel alan diğer OpenDocument biçimi tabanlı dosyalar gibidir. OTF dosyaları, herhangi bir metin veya standart XML düzenleyicide açılarak görüntülenebilir.
+Bir OTG dosyası, OASIS Office Uygulamalarını [1.0 spesifikasyonu](https://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0-os.pdf) izleyen OpenDocument standardı kullanılarak oluşturulan bir çizim şablonudur. Dosyanın içeriğini daha da geliştirmek için kullanılabilecek bir vektör görüntüsü için çizim öğelerinin varsayılan organizasyonunu temsil eder. OTF dosyaları, belgenin içeriğini temsil etmek için XML biçimini temel alan diğer OpenDocument biçimi tabanlı dosyalar gibidir. OTF dosyaları, herhangi bir metin veya standart XML düzenleyicide açılarak görüntülenebilir.
 
 ## OTG Dosya Biçimi Özellikleri ##
 

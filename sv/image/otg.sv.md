@@ -19,7 +19,7 @@
 
 ## Vad är en OTG fil?
 
-En OTG-fil är en ritmall som skapas med OpenDocument-standarden som följer OASIS Office Applications [1.0-specifikationen](http://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0 -os.pdf). Det representerar standardorganisationen för ritelement för en vektorbild som kan användas för att ytterligare förbättra innehållet i filen. OTF-filer är som alla andra OpenDocument-formatbaserade filer som är baserade på XML-format för att representera innehållet i dokumentet. OTF-filer kan ses genom att öppna dem i valfri text eller standard XML-redigerare.
+En OTG-fil är en ritmall som skapas med OpenDocument-standarden som följer OASIS Office Applications [1.0-specifikationen](https://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0-os.pdf). Det representerar standardorganisationen för ritelement för en vektorbild som kan användas för att ytterligare förbättra innehållet i filen. OTF-filer är som alla andra OpenDocument-formatbaserade filer som är baserade på XML-format för att representera innehållet i dokumentet. OTF-filer kan ses genom att öppna dem i valfri text eller standard XML-redigerare.
 
 ## OTG filformatspecifikationer ##
 

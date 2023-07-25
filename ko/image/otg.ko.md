@@ -19,7 +19,7 @@
 
 ## .OTG 파일이란?
 
-OTG 파일은 OASIS Office Applications [1.0 사양](http://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0)을 따르는 OpenDocument 표준을 사용하여 생성된 도면 템플릿입니다. -os.pdf). 파일 내용을 더욱 향상시키는 데 사용할 수 있는 벡터 이미지에 대한 그리기 요소의 기본 구성을 나타냅니다. OTF 파일은 문서의 내용을 나타내는 XML 형식을 기반으로 하는 다른 OpenDocument 형식 기반 파일과 같습니다. OTF 파일은 텍스트 또는 표준 XML 편집기에서 열어 볼 수 있습니다.
+OTG 파일은 OASIS Office Applications [1.0 사양](https://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0-os.pdf)을 따르는 OpenDocument 표준을 사용하여 생성된 도면 템플릿입니다. 파일 내용을 더욱 향상시키는 데 사용할 수 있는 벡터 이미지에 대한 그리기 요소의 기본 구성을 나타냅니다. OTF 파일은 문서의 내용을 나타내는 XML 형식을 기반으로 하는 다른 OpenDocument 형식 기반 파일과 같습니다. OTF 파일은 텍스트 또는 표준 XML 편집기에서 열어 볼 수 있습니다.
 
 ## OTG 파일 형식 사양 ##
 

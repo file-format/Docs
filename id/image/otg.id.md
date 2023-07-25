@@ -19,7 +19,7 @@
 
 ## Apa itu file OTG?
 
-File OTG adalah template gambar yang dibuat menggunakan standar OpenDocument yang mengikuti Aplikasi Office OASIS [spesifikasi 1.0](http://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0 -os.pdf). Ini mewakili organisasi default dari elemen gambar untuk gambar vektor yang dapat digunakan untuk lebih menyempurnakan konten file. File OTF seperti file berbasis format OpenDocument lainnya yang didasarkan pada format XML untuk mewakili konten dokumen. File OTF dapat dilihat dengan membukanya di teks apa pun atau editor XML standar.
+File OTG adalah template gambar yang dibuat menggunakan standar OpenDocument yang mengikuti Aplikasi Office OASIS [spesifikasi 1.0](https://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0-os.pdf). Ini mewakili organisasi default dari elemen gambar untuk gambar vektor yang dapat digunakan untuk lebih menyempurnakan konten file. File OTF seperti file berbasis format OpenDocument lainnya yang didasarkan pada format XML untuk mewakili konten dokumen. File OTF dapat dilihat dengan membukanya di teks apa pun atau editor XML standar.
 
 ## Spesifikasi Format File OTG ##
 

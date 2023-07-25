@@ -19,7 +19,7 @@
 
 ## Mi az OTG fájl?
 
-Az OTG-fájl egy rajzsablon, amelyet az OpenDocument szabvány használatával hoznak létre, amely követi az OASIS Office Applications [1.0 specifikációját](http://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0 -os.pdf). Ez a vektorkép rajzelemeinek alapértelmezett elrendezését jelenti, amely felhasználható a fájl tartalmának továbbfejlesztésére. Az OTF fájlok olyanok, mint bármely más OpenDocument formátum alapú fájlok, amelyek XML formátumon alapulnak a dokumentum tartalmának megjelenítésére. Az OTF-fájlok bármely szöveges vagy szabványos XML-szerkesztőben megtekinthetők.
+Az OTG-fájl egy rajzsablon, amelyet az OpenDocument szabvány használatával hoznak létre, amely követi az OASIS Office Applications [1.0 specifikációját](https://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0-os.pdf). Ez a vektorkép rajzelemeinek alapértelmezett elrendezését jelenti, amely felhasználható a fájl tartalmának továbbfejlesztésére. Az OTF fájlok olyanok, mint bármely más OpenDocument formátum alapú fájlok, amelyek XML formátumon alapulnak a dokumentum tartalmának megjelenítésére. Az OTF-fájlok bármely szöveges vagy szabványos XML-szerkesztőben megtekinthetők.
 
 ## OTG fájlformátum specifikációi ##
 
