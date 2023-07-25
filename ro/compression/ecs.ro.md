@@ -26,5 +26,5 @@ Fișierele ECS sunt salvate ca arhive ZIP comprimate. Poate fi deschis cu orice 
 
 ## Referințe
 
-* [Dzip](http://speeddemosarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 

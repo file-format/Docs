@@ -26,5 +26,5 @@ ECS 파일은 압축된 ZIP 아카이브로 저장됩니다. WinZip 및 WinRAR�
 
 ## 참고문헌
 
-* [Dzip](http://speeddemosarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 

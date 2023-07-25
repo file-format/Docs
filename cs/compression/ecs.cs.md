@@ -26,5 +26,5 @@ Soubory ECS se ukládají jako komprimované archivy ZIP. Lze jej otevřít jak�
 
 ## Reference
 
-* [Dzip](http://speeddemosarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 

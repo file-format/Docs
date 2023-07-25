@@ -26,5 +26,5 @@ ECS-bestanden worden opgeslagen als gecomprimeerde ZIP-archieven. Het kan worden
 
 ## Referenties
 
-* [Dzip](http://speeddemosarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 

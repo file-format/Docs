@@ -26,5 +26,5 @@ ECS-Dateien werden als komprimierte ZIP-Archive gespeichert. Es kann mit jedem S
 
 ## Verweise
 
-* [Dzip](http://speeddemosarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 

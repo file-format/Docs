@@ -26,5 +26,5 @@ Az ECS-fájlok tömörített ZIP-archívumként kerülnek mentésre. Megnyithat�
 
 ## Hivatkozások
 
-* [Dzip](http://speeddemosarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 

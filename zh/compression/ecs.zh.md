@@ -26,5 +26,5 @@ ECS 文件保存为压缩的 ZIP 档案。它可以使用任何标准解压缩�
 
 ## 参考
 
-* [Dzip](http://speeddemosarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 

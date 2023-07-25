@@ -19,7 +19,7 @@
 
 ## Vad är DZ fil?
 
-En fil med filtillägget .dz är ett komprimerat arkiv skapat med kommandoradsverktyget [Dzip](http://speeddemosarchive.com/dzip/). Den erbjuder ett högre komprimeringsförhållande än andra komprimeringsfilformat. Dzip kan också dekomprimera komprimerade filer och extrahering av filer går snabbare. Dzip kommer med full integration för Windows-skalet för att acceptera släpade filer med funktionen för att undvika duplicering av filer när de dras till arkiv. Precis som [RAR](/sv/compression/rar/)-filer kan Dzip skapa självextraherande körbara filer från sina .dz-filer. Den jämförelsevis lilla storleken på Dzip-verktyget (130k) gör det möjligt att bära detta verktyg på skiva.
+En fil med filtillägget .dz är ett komprimerat arkiv skapat med kommandoradsverktyget [Dzip](https://speeddemosarchive.com/dzip/). Den erbjuder ett högre komprimeringsförhållande än andra komprimeringsfilformat. Dzip kan också dekomprimera komprimerade filer och extrahering av filer går snabbare. Dzip kommer med full integration för Windows-skalet för att acceptera släpade filer med funktionen för att undvika duplicering av filer när de dras till arkiv. Precis som [RAR](/sv/compression/rar/)-filer kan Dzip skapa självextraherande körbara filer från sina .dz-filer. Den jämförelsevis lilla storleken på Dzip-verktyget (130k) gör det möjligt att bära detta verktyg på skiva.
 
 ## DZ filformat
 
@@ -27,5 +27,5 @@ DZ är ett proprietärt filformat och dess tekniska detaljer är inte tillgängl
 
 ## Referenser
 
-* [Dzip](http://speeddemosarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 

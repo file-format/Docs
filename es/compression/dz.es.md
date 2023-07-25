@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo DZ?
 
-Un archivo con extensión .dz es un archivo comprimido creado con la utilidad de línea de comandos [Dzip](http://speeddemosarchive.com/dzip/). Ofrece una relación de compresión más alta que otros formatos de archivo de compresión. Dzip también puede descomprimir archivos comprimidos y la extracción de archivos es más rápida. Dzip viene con una integración completa para el shell de Windows para aceptar archivos arrastrados con la función para evitar la duplicación de archivos cuando se arrastran al archivo. Al igual que los archivos [RAR](/es/compression/rar/), Dzip puede crear archivos ejecutables autoextraíbles a partir de sus archivos .dz. El tamaño comparativamente pequeño de la utilidad Dzip (130k) hace posible llevar esta utilidad en disco.
+Un archivo con extensión .dz es un archivo comprimido creado con la utilidad de línea de comandos [Dzip](https://speeddemosarchive.com/dzip/). Ofrece una relación de compresión más alta que otros formatos de archivo de compresión. Dzip también puede descomprimir archivos comprimidos y la extracción de archivos es más rápida. Dzip viene con una integración completa para el shell de Windows para aceptar archivos arrastrados con la función para evitar la duplicación de archivos cuando se arrastran al archivo. Al igual que los archivos [RAR](/es/compression/rar/), Dzip puede crear archivos ejecutables autoextraíbles a partir de sus archivos .dz. El tamaño comparativamente pequeño de la utilidad Dzip (130k) hace posible llevar esta utilidad en disco.
 
 ## Formato de archivo DZ
 
@@ -27,5 +27,5 @@ DZ es un formato de archivo propietario y sus detalles técnicos no están dispo
 
 ## Referencias
 
-* [Dzip](http://speeddemosarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 

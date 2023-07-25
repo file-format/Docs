@@ -26,5 +26,5 @@
 
 ## הפניות
 
-* [Dzip](http://speeddemosarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 

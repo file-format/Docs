@@ -19,7 +19,7 @@
 
 ## Apa itu file DZ?
 
-File dengan ekstensi .dz adalah arsip terkompresi yang dibuat dengan utilitas baris perintah [Dzip](http://speeddemosarchive.com/dzip/). Ini menawarkan rasio kompresi yang lebih tinggi daripada format file kompresi lainnya. Dzip juga dapat mendekompres file terkompresi dan ekstraksi file lebih cepat. Dzip hadir dengan integrasi penuh untuk shell Windows untuk menerima file yang diseret dengan fitur untuk menghindari duplikasi file saat diseret ke arsip. Seperti file [RAR](/id/compression/rar/), Dzip mampu membuat file executable yang dapat diekstrak sendiri dari file .dz-nya. Ukuran utilitas Dzip yang relatif kecil (130k) memungkinkan untuk membawa utilitas ini pada disk.
+File dengan ekstensi .dz adalah arsip terkompresi yang dibuat dengan utilitas baris perintah [Dzip](https://speeddemosarchive.com/dzip/). Ini menawarkan rasio kompresi yang lebih tinggi daripada format file kompresi lainnya. Dzip juga dapat mendekompres file terkompresi dan ekstraksi file lebih cepat. Dzip hadir dengan integrasi penuh untuk shell Windows untuk menerima file yang diseret dengan fitur untuk menghindari duplikasi file saat diseret ke arsip. Seperti file [RAR](/id/compression/rar/), Dzip mampu membuat file executable yang dapat diekstrak sendiri dari file .dz-nya. Ukuran utilitas Dzip yang relatif kecil (130k) memungkinkan untuk membawa utilitas ini pada disk.
 
 ## Format File DZ
 
@@ -27,5 +27,5 @@ DZ adalah format file berpemilik dan detail teknisnya tidak tersedia. Ini disimp
 
 ## Referensi
 
-* [Dzip](http://speeddemosarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 

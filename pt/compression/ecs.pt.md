@@ -26,5 +26,5 @@ Os arquivos ECS são salvos como arquivos ZIP compactados. Ele pode ser aberto c
 
 ## Referências
 
-* [Dzip](http://speeddemosarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 
