@@ -22,7 +22,7 @@ El formato de archivo EML representa los mensajes de correo electrónico guardad
 
 ## Breve historia de EML
 
-Las especificaciones de formato de archivo EML están disponibles según el formato estándar [RFC 822](http://www.ietf.org/rfc/rfc0822.txt). Antes del RFC-822, el RFC-733 regía las reglas del intercambio de mensajes de red hasta que en 1982 se creó el primero como una mejora del lateral al establecer los estándares ARPA. Al mismo tiempo, Microsoft creó sus propios módulos COM para el desarrollo de su propio cliente de correo electrónico, es decir, Outlook Express. RFC-822 tomó el camino para establecerse como un formato propietario cuando Microsoft se desvió del estándar abierto y creó el formato de archivo [PST](/es/email/pst/) donde los correos electrónicos se guardan en un formato de base de datos altamente estructurado. Esto generaba problemas para los usuarios de clientes de correo electrónico que no eran de Microsoft cuando los correos electrónicos se reenviaban desde Microsoft Outlook.
+Las especificaciones de formato de archivo EML están disponibles según el formato estándar [RFC 822](https://www.ietf.org/rfc/rfc0822.txt). Antes del RFC-822, el RFC-733 regía las reglas del intercambio de mensajes de red hasta que en 1982 se creó el primero como una mejora del lateral al establecer los estándares ARPA. Al mismo tiempo, Microsoft creó sus propios módulos COM para el desarrollo de su propio cliente de correo electrónico, es decir, Outlook Express. RFC-822 tomó el camino para establecerse como un formato propietario cuando Microsoft se desvió del estándar abierto y creó el formato de archivo [PST](/es/email/pst/) donde los correos electrónicos se guardan en un formato de base de datos altamente estructurado. Esto generaba problemas para los usuarios de clientes de correo electrónico que no eran de Microsoft cuando los correos electrónicos se reenviaban desde Microsoft Outlook.
 
 Fue en 2001 cuando el estándar 822 se mejoró a 2822 - Formato de mensajes de Internet que se utiliza actualmente para crear, leer y enviar mensajes EML en formato MIME RFC-822.
 
@@ -86,5 +86,5 @@ X-Adjunto-Id: f_jkhztmd43
 
 ## Referencias
 
-* [RFC 822](http://www.ietf.org/rfc/rfc0822.txt)
+* [RFC 822](https://www.ietf.org/rfc/rfc0822.txt)
 

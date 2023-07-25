@@ -22,7 +22,7 @@ EML-filformat representerar e-postmeddelanden som sparats med Outlook och andra 
 
 ## Kort historia av EML
 
-EML-filformatsspecifikationer finns tillgängliga enligt [RFC 822](http://www.ietf.org/rfc/rfc0822.txt) Standardformat. Före RFC-822 styrde RFC-733 reglerna för utbyte av nätverksmeddelanden tills 1982, den förra skapades som en förbättring av laterala genom att etablera ARPA-standarder. Samtidigt skapade Microsoft sina egna COM-moduler för utvecklingen av sin egen e-postklient, dvs Outlook Express. RFC-822 tog vägen att etableras som ett proprietärt format när Microsoft avvek från den öppna standarden och skapade [PST](/sv/email/pst/) filformat där e-postmeddelanden sparas i ett mycket strukturerat databasformat. Detta resulterade i problem för användare av icke-Microsofts e-postklienter när e-postmeddelanden vidarebefordrades från Microsoft Outlook.
+EML-filformatsspecifikationer finns tillgängliga enligt [RFC 822](https://www.ietf.org/rfc/rfc0822.txt) Standardformat. Före RFC-822 styrde RFC-733 reglerna för utbyte av nätverksmeddelanden tills 1982, den förra skapades som en förbättring av laterala genom att etablera ARPA-standarder. Samtidigt skapade Microsoft sina egna COM-moduler för utvecklingen av sin egen e-postklient, dvs Outlook Express. RFC-822 tog vägen att etableras som ett proprietärt format när Microsoft avvek från den öppna standarden och skapade [PST](/sv/email/pst/) filformat där e-postmeddelanden sparas i ett mycket strukturerat databasformat. Detta resulterade i problem för användare av icke-Microsofts e-postklienter när e-postmeddelanden vidarebefordrades från Microsoft Outlook.
 
 Det var 2001 när 822-standarden förbättrades till 2822 - Internet Message Format som för närvarande används för att skapa, läsa och skicka EML-meddelanden i MIME RFC-822-format.
 
@@ -86,5 +86,5 @@ X-Attachment-Id: f_jkhztmd43
 
 ## Referenser
 
-* [RFC 822](http://www.ietf.org/rfc/rfc0822.txt)
+* [RFC 822](https://www.ietf.org/rfc/rfc0822.txt)
 

@@ -22,7 +22,7 @@ Format file EML mewakili pesan email yang disimpan menggunakan Outlook dan aplik
 
 ## Sejarah Singkat EML
 
-Spesifikasi format file EML tersedia sesuai [RFC 822](http://www.ietf.org/rfc/rfc0822.txt) Format Standar. Sebelum RFC-822, RFC-733 mengatur aturan pertukaran pesan jaringan hingga pada tahun 1982, yang pertama dibuat sebagai peningkatan ke lateral dengan menetapkan standar ARPA. Pada saat yang sama, Microsoft membuat modul COM sendiri untuk pengembangan klien emailnya sendiri yaitu Outlook Express. RFC-822 mengambil jalur untuk ditetapkan sebagai format berpemilik ketika Microsoft menyimpang dari standar terbuka dan membuat format file [PST](/id/email/pst/) tempat email disimpan dalam format database yang sangat terstruktur. Hal ini mengakibatkan masalah bagi pengguna klien email non-Microsoft saat email diteruskan dari Microsoft Outlook.
+Spesifikasi format file EML tersedia sesuai [RFC 822](https://www.ietf.org/rfc/rfc0822.txt) Format Standar. Sebelum RFC-822, RFC-733 mengatur aturan pertukaran pesan jaringan hingga pada tahun 1982, yang pertama dibuat sebagai peningkatan ke lateral dengan menetapkan standar ARPA. Pada saat yang sama, Microsoft membuat modul COM sendiri untuk pengembangan klien emailnya sendiri yaitu Outlook Express. RFC-822 mengambil jalur untuk ditetapkan sebagai format berpemilik ketika Microsoft menyimpang dari standar terbuka dan membuat format file [PST](/id/email/pst/) tempat email disimpan dalam format database yang sangat terstruktur. Hal ini mengakibatkan masalah bagi pengguna klien email non-Microsoft saat email diteruskan dari Microsoft Outlook.
 
 Itu pada tahun 2001 ketika standar 822 ditingkatkan menjadi 2822 - Format Pesan Internet yang saat ini digunakan untuk membuat, membaca, dan mengirim pesan EML dalam format MIME RFC-822.
 
@@ -86,5 +86,5 @@ X-Attachment-Id: f_jkhztmd43
 
 ## Referensi
 
-* [RFC 822](http://www.ietf.org/rfc/rfc0822.txt)
+* [RFC 822](https://www.ietf.org/rfc/rfc0822.txt)
 

@@ -22,7 +22,7 @@
 
 ## Tóm tắt lịch sử của EML
 
-Thông số định dạng tệp EML có sẵn theo [RFC 822](http://www.ietf.org/rfc/rfc0822.txt) Định dạng Chuẩn. Trước RFC-822, RFC-733 điều chỉnh các quy tắc trao đổi thông báo mạng cho đến năm 1982, cái trước được tạo ra như một cải tiến cho bên bằng cách thiết lập các tiêu chuẩn ARPA. Đồng thời, Microsoft đã tạo các mô-đun COM của riêng mình để phát triển ứng dụng email khách của riêng mình, tức là Outlook Express. RFC-822 đã đi theo con đường được thiết lập dưới dạng định dạng độc quyền khi Microsoft đi chệch khỏi tiêu chuẩn mở và tạo định dạng tệp [PST](/vi/email/pst/), trong đó các email được lưu ở định dạng cơ sở dữ liệu có cấu trúc cao. Điều này dẫn đến sự cố cho người dùng ứng dụng email khách không phải của Microsoft khi email được chuyển tiếp từ Microsoft Outlook.
+Thông số định dạng tệp EML có sẵn theo [RFC 822](https://www.ietf.org/rfc/rfc0822.txt) Định dạng Chuẩn. Trước RFC-822, RFC-733 điều chỉnh các quy tắc trao đổi thông báo mạng cho đến năm 1982, cái trước được tạo ra như một cải tiến cho bên bằng cách thiết lập các tiêu chuẩn ARPA. Đồng thời, Microsoft đã tạo các mô-đun COM của riêng mình để phát triển ứng dụng email khách của riêng mình, tức là Outlook Express. RFC-822 đã đi theo con đường được thiết lập dưới dạng định dạng độc quyền khi Microsoft đi chệch khỏi tiêu chuẩn mở và tạo định dạng tệp [PST](/vi/email/pst/), trong đó các email được lưu ở định dạng cơ sở dữ liệu có cấu trúc cao. Điều này dẫn đến sự cố cho người dùng ứng dụng email khách không phải của Microsoft khi email được chuyển tiếp từ Microsoft Outlook.
 
 Đó là vào năm 2001 khi tiêu chuẩn 822 được nâng cao thành 2822 - Định dạng Thư Internet hiện đang được sử dụng để tạo, đọc và gửi thư EML ở định dạng MIME RFC-822.
 
@@ -86,5 +86,5 @@ Id tệp đính kèm X: f_jkhztmd43
 
 ## Người giới thiệu
 
-* [RFC 822](http://www.ietf.org/rfc/rfc0822.txt)
+* [RFC 822](https://www.ietf.org/rfc/rfc0822.txt)
 

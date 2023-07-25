@@ -22,7 +22,7 @@ EML 文件格式表示使用 Outlook 和其他相关应用程序保存的电子�
 
 ## EML 简史
 
-EML 文件格式规范按照 [RFC 822](http://www.ietf.org/rfc/rfc0822.txt) 标准格式提供。在 RFC-822 之前，RFC-733 管理网络消息交换的规则，直到 1982 年，前者是通过建立 ARPA 标准作为对横向的改进而创建的。同时，微软为开发自己的电子邮件客户端（即 Outlook Express）创建了自己的 COM 模块。当 Microsoft 偏离开放标准并创建 [PST](/zh/email/pst/) 文件格式，其中电子邮件以高度结构化的数据库格式保存时，RFC-822 走上了被确立为专有格式的道路。当从 Microsoft Outlook 转发电子邮件时，这会导致非 Microsoft 电子邮件客户端的用户出现问题。
+EML 文件格式规范按照 [RFC 822](https://www.ietf.org/rfc/rfc0822.txt) 标准格式提供。在 RFC-822 之前，RFC-733 管理网络消息交换的规则，直到 1982 年，前者是通过建立 ARPA 标准作为对横向的改进而创建的。同时，微软为开发自己的电子邮件客户端（即 Outlook Express）创建了自己的 COM 模块。当 Microsoft 偏离开放标准并创建 [PST](/zh/email/pst/) 文件格式，其中电子邮件以高度结构化的数据库格式保存时，RFC-822 走上了被确立为专有格式的道路。当从 Microsoft Outlook 转发电子邮件时，这会导致非 Microsoft 电子邮件客户端的用户出现问题。
 
 2001 年，822 标准被增强为 2822 - Internet 消息格式，目前用于创建、读取和发送 MIME RFC-822 格式的 EML 消息。
 
@@ -86,5 +86,5 @@ X 附件 ID：f_jkhztmd43
 
 ## 参考
 
-* [RFC 822](http://www.ietf.org/rfc/rfc0822.txt)
+* [RFC 822](https://www.ietf.org/rfc/rfc0822.txt)
 

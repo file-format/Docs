@@ -22,7 +22,7 @@ EML dosya biçimi, Outlook ve diğer ilgili uygulamalar kullanılarak kaydedilen
 
 ## EML'nin Kısa Tarihi
 
-EML dosya formatı özellikleri, [RFC 822](http://www.ietf.org/rfc/rfc0822.txt) Standart Format uyarınca mevcuttur. RFC-822'den önce, RFC-733, 1982'ye kadar ağ mesaj alışverişi kurallarını yönetiyordu, RFC-733, ARPA standartlarını oluşturarak yanal bir gelişme olarak oluşturuldu. Aynı zamanda Microsoft, kendi e-posta istemcisinin, yani Outlook Express'in geliştirilmesi için kendi COM modüllerini yarattı. RFC-822, Microsoft açık standarttan sapıp e-postaların oldukça yapılandırılmış bir veritabanı biçiminde kaydedildiği [PST](/tr/email/pst/) dosya biçimini oluşturduğunda özel bir biçim olarak kurulma yolunu tuttu. Bu, e-postalar Microsoft Outlook'tan iletildiğinde Microsoft dışı e-posta istemcilerinin kullanıcıları için sorunlara neden oldu.
+EML dosya formatı özellikleri, [RFC 822](https://www.ietf.org/rfc/rfc0822.txt) Standart Format uyarınca mevcuttur. RFC-822'den önce, RFC-733, 1982'ye kadar ağ mesaj alışverişi kurallarını yönetiyordu, RFC-733, ARPA standartlarını oluşturarak yanal bir gelişme olarak oluşturuldu. Aynı zamanda Microsoft, kendi e-posta istemcisinin, yani Outlook Express'in geliştirilmesi için kendi COM modüllerini yarattı. RFC-822, Microsoft açık standarttan sapıp e-postaların oldukça yapılandırılmış bir veritabanı biçiminde kaydedildiği [PST](/tr/email/pst/) dosya biçimini oluşturduğunda özel bir biçim olarak kurulma yolunu tuttu. Bu, e-postalar Microsoft Outlook'tan iletildiğinde Microsoft dışı e-posta istemcilerinin kullanıcıları için sorunlara neden oldu.
 
 2001 yılında 822 standardı, şu anda MIME RFC-822 formatında EML mesajları oluşturmak, okumak ve göndermek için kullanılan İnternet Mesaj Formatı olan 2822'ye yükseltildi.
 
@@ -86,5 +86,5 @@ X-Ek-Kimliği: f_jkhztmd43
 
 ## Referanslar
 
-* [RFC 822](http://www.ietf.org/rfc/rfc0822.txt)
+* [RFC 822](https://www.ietf.org/rfc/rfc0822.txt)
 

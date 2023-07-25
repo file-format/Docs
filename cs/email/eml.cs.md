@@ -22,7 +22,7 @@ Formát souboru EML představuje e-mailové zprávy uložené pomocí aplikace O
 
 ## Stručná historie EML
 
-Specifikace formátu souboru EML jsou k dispozici podle [RFC 822](http://www.ietf.org/rfc/rfc0822.txt) Standardní formát. Před RFC-822 řídil RFC-733 pravidla výměny síťových zpráv až do roku 1982, kdy byl první vytvořen jako vylepšení laterálních norem ARPA. Microsoft zároveň vytvořil vlastní COM moduly pro vývoj vlastního e-mailového klienta Outlook Express. RFC-822 se vydal cestou zavedení jako proprietární formát, když se Microsoft odchýlil od otevřeného standardu a vytvořil souborový formát [PST](/cs/email/pst/), kde jsou e-maily ukládány ve vysoce strukturovaném databázovém formátu. To vedlo k problémům pro uživatele e-mailových klientů jiných společností než Microsoft, když byly e-maily přeposílány z aplikace Microsoft Outlook.
+Specifikace formátu souboru EML jsou k dispozici podle [RFC 822](https://www.ietf.org/rfc/rfc0822.txt) Standardní formát. Před RFC-822 řídil RFC-733 pravidla výměny síťových zpráv až do roku 1982, kdy byl první vytvořen jako vylepšení laterálních norem ARPA. Microsoft zároveň vytvořil vlastní COM moduly pro vývoj vlastního e-mailového klienta Outlook Express. RFC-822 se vydal cestou zavedení jako proprietární formát, když se Microsoft odchýlil od otevřeného standardu a vytvořil souborový formát [PST](/cs/email/pst/), kde jsou e-maily ukládány ve vysoce strukturovaném databázovém formátu. To vedlo k problémům pro uživatele e-mailových klientů jiných společností než Microsoft, když byly e-maily přeposílány z aplikace Microsoft Outlook.
 
 Bylo to v roce 2001, kdy byl standard 822 rozšířen na 2822 - Internet Message Format, který se v současnosti používá pro vytváření, čtení a odesílání zpráv EML ve formátu MIME RFC-822.
 
@@ -86,5 +86,5 @@ X-Attachment-Id: f_jkhztmd43
 
 ## Reference
 
-* [RFC 822](http://www.ietf.org/rfc/rfc0822.txt)
+* [RFC 822](https://www.ietf.org/rfc/rfc0822.txt)
 

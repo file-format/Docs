@@ -22,7 +22,7 @@ Formatul de fișier EML reprezintă mesajele de e-mail salvate folosind Outlook 
 
 ## Scurt istoric al EML
 
-Specificațiile de format de fișier EML sunt disponibile conform [RFC 822](http://www.ietf.org/rfc/rfc0822.txt) Format standard. Înainte de RFC-822, RFC-733 a guvernat regulile de schimb de mesaje în rețea până în 1982, primul a fost creat ca o îmbunătățire a lateral prin stabilirea standardelor ARPA. În același timp, Microsoft și-a creat propriile module COM pentru dezvoltarea propriului client de e-mail, adică Outlook Express. RFC-822 a luat calea pentru a fi stabilit ca format proprietar atunci când Microsoft a deviat de la standardul deschis și a creat formatul de fișier [PST](/ro/email/pst/) în care e-mailurile sunt salvate într-un format de bază de date foarte structurat. Acest lucru a dus la probleme pentru utilizatorii clienților de e-mail non-Microsoft atunci când e-mailurile au fost redirecționate din Microsoft Outlook.
+Specificațiile de format de fișier EML sunt disponibile conform [RFC 822](https://www.ietf.org/rfc/rfc0822.txt) Format standard. Înainte de RFC-822, RFC-733 a guvernat regulile de schimb de mesaje în rețea până în 1982, primul a fost creat ca o îmbunătățire a lateral prin stabilirea standardelor ARPA. În același timp, Microsoft și-a creat propriile module COM pentru dezvoltarea propriului client de e-mail, adică Outlook Express. RFC-822 a luat calea pentru a fi stabilit ca format proprietar atunci când Microsoft a deviat de la standardul deschis și a creat formatul de fișier [PST](/ro/email/pst/) în care e-mailurile sunt salvate într-un format de bază de date foarte structurat. Acest lucru a dus la probleme pentru utilizatorii clienților de e-mail non-Microsoft atunci când e-mailurile au fost redirecționate din Microsoft Outlook.
 
 A fost în 2001 când standardul 822 a fost îmbunătățit la 2822 - Internet Message Format, care este utilizat în prezent pentru crearea, citirea și trimiterea mesajelor EML în format MIME RFC-822.
 
@@ -86,5 +86,5 @@ X-Atașament-Id: f_jkhztmd43
 
 ## Referințe
 
-* [RFC 822](http://www.ietf.org/rfc/rfc0822.txt)
+* [RFC 822](https://www.ietf.org/rfc/rfc0822.txt)
 
