@@ -30,6 +30,6 @@ File GZIP sering disimpan sebagai format file [GZ](/id/compression/gz/).
 
 * [gzip](http://www.gzip.org/)
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952: spesifikasi format file GZIP](http://tools.ietf.org/html/rfc1952), oleh IETF
+* [RFC1952: spesifikasi format file GZIP](https://datatracker.ietf.org/doc/html/rfc1952), oleh IETF
 * [RFC 1951](https://tools.ietf.org/html/rfc1951)
 

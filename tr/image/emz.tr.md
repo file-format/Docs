@@ -30,10 +30,10 @@ EMZ dosyaları [Gzip](/tr/compression/gz/) sıkıştırılmıştır ve içinde [
 * Sıkıştırılmış Veri
 * Dosya Altbilgisi
 
-Internet Engineering Task Force (IETF) tarafından yayınlanan GZIP dosya biçimi [özellikler sürüm 4.3](http://tools.ietf.org/html/rfc1952), dosya biçimi hakkında ayrıntılı bilgiler içerir.
+Internet Engineering Task Force (IETF) tarafından yayınlanan GZIP dosya biçimi [özellikler sürüm 4.3](https://datatracker.ietf.org/doc/html/rfc1952), dosya biçimi hakkında ayrıntılı bilgiler içerir.
 
 ## Referanslar
 
-* [RFC1952: GZIP dosya biçimi belirtimi](http://tools.ietf.org/html/rfc1952), [IETF](https://www.ietf.org/) tarafından
+* [RFC1952: GZIP dosya biçimi belirtimi](https://datatracker.ietf.org/doc/html/rfc1952), [IETF](https://www.ietf.org/) tarafından
 * [Windows Meta Dosyası - Wikipedia](https://en.wikipedia.org/wiki/Windows_Metafile)
 

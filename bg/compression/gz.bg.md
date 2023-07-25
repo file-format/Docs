@@ -96,5 +96,5 @@ Gzip използва алгоритъма [DEFLATE](https://en.wikipedia.org/wi
 ## Препратки ##
 
 * [gzip - Уикипедия](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952: спецификация на GZIP файлов формат](http://tools.ietf.org/html/rfc1952), от IETF.
+* [RFC1952: спецификация на GZIP файлов формат](https://datatracker.ietf.org/doc/html/rfc1952), от IETF.
 

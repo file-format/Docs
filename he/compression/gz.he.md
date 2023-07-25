@@ -96,5 +96,5 @@ Gzip משתמש באלגוריתם [DEFLATE](https://en.wikipedia.org/wiki/DEFLA
 ## הפניות ##
 
 * [gzip - ויקיפדיה](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952: מפרט פורמט קובץ GZIP](http://tools.ietf.org/html/rfc1952), מאת IETF.
+* [RFC1952: מפרט פורמט קובץ GZIP](https://datatracker.ietf.org/doc/html/rfc1952), מאת IETF.
 

@@ -96,5 +96,5 @@ GZ ファイルのヘッダーは、次の 10 バイトで構成されます。
 ## 参照 ##
 
 * [gzip - ウィキペディア](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952: GZIP ファイル形式仕様](http://tools.ietf.org/html/rfc1952)、IETF による。
+* [RFC1952: GZIP ファイル形式仕様](https://datatracker.ietf.org/doc/html/rfc1952)、IETF による。
 

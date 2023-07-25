@@ -96,5 +96,5 @@ Gzip ใช้อัลกอริทึมการบีบอัดไฟล
 ## อ้างอิง ##
 
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952: ข้อกำหนดรูปแบบไฟล์ GZIP](http://tools.ietf.org/html/rfc1952) โดย IETF
+* [RFC1952: ข้อกำหนดรูปแบบไฟล์ GZIP](https://datatracker.ietf.org/doc/html/rfc1952) โดย IETF
 

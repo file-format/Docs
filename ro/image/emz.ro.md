@@ -30,10 +30,10 @@ Fișierele EMZ sunt [Gzip](/ro/compression/gz/) comprimate și conțin [EMF](/ro
 * Date comprimate
 * Subsol fișier
 
-Formatul de fișier GZIP [specificații versiunea 4.3](http://tools.ietf.org/html/rfc1952) publicat de Internet Engineering Task Force (IETF) conține informații detaliate despre formatul fișierului.
+Formatul de fișier GZIP [specificații versiunea 4.3](https://datatracker.ietf.org/doc/html/rfc1952) publicat de Internet Engineering Task Force (IETF) conține informații detaliate despre formatul fișierului.
 
 ## Referințe
 
-* [RFC1952: specificația formatului fișierului GZIP](http://tools.ietf.org/html/rfc1952), de [IETF](https://www.ietf.org/)
+* [RFC1952: specificația formatului fișierului GZIP](https://datatracker.ietf.org/doc/html/rfc1952), de [IETF](https://www.ietf.org/)
 * [Windows MetaFile - Wikipedia](https://en.wikipedia.org/wiki/Windows_Metafile)
 

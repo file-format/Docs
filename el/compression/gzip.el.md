@@ -30,6 +30,6 @@
 
 * [gzip](http://www.gzip.org/)
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952: Προδιαγραφή μορφής αρχείου GZIP](http://tools.ietf.org/html/rfc1952), από την IETF
+* [RFC1952: Προδιαγραφή μορφής αρχείου GZIP](https://datatracker.ietf.org/doc/html/rfc1952), από την IETF
 * [RFC 1951](https://tools.ietf.org/html/rfc1951)
 

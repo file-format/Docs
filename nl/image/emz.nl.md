@@ -30,10 +30,10 @@ EMZ-bestanden zijn [Gzip](/nl/compression/gz/) gecomprimeerd en bevatten [EMF](/
 * Gecomprimeerde gegevens
 * Bestandsvoettekst
 
-Het GZIP-bestandsformaat [specificaties versie 4.3](http://tools.ietf.org/html/rfc1952) gepubliceerd door Internet Engineering Task Force (IETF) bevat gedetailleerde informatie over het bestandsformaat.
+Het GZIP-bestandsformaat [specificaties versie 4.3](https://datatracker.ietf.org/doc/html/rfc1952) gepubliceerd door Internet Engineering Task Force (IETF) bevat gedetailleerde informatie over het bestandsformaat.
 
 ## Referenties
 
-* [RFC1952: GZIP-bestandsformaatspecificatie](http://tools.ietf.org/html/rfc1952), door [IETF](https://www.ietf.org/)
+* [RFC1952: GZIP-bestandsformaatspecificatie](https://datatracker.ietf.org/doc/html/rfc1952), door [IETF](https://www.ietf.org/)
 * [Windows MetaFile - Wikipedia](https://en.wikipedia.org/wiki/Windows_Metafile)
 

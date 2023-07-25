@@ -30,6 +30,6 @@ Fișierele GZIP sunt adesea salvate ca format de fișier [GZ](/ro/compression/gz
 
 * [gzip](http://www.gzip.org/)
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952: specificația formatului fișierului GZIP](http://tools.ietf.org/html/rfc1952), de la IETF
+* [RFC1952: specificația formatului fișierului GZIP](https://datatracker.ietf.org/doc/html/rfc1952), de la IETF
 * [RFC 1951](https://tools.ietf.org/html/rfc1951)
 

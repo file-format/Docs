@@ -30,10 +30,10 @@ EMZ ファイルは [Gzip](/compression/gz/) 圧縮されており、内部に [
 * 圧縮データ
 * ファイルフッター
 
-Internet Engineering Task Force (IETF) によって発行された GZIP ファイル形式 [仕様バージョン 4.3](http://tools.ietf.org/html/rfc1952) には、ファイル形式に関する詳細な情報が含まれています。
+Internet Engineering Task Force (IETF) によって発行された GZIP ファイル形式 [仕様バージョン 4.3](https://datatracker.ietf.org/doc/html/rfc1952) には、ファイル形式に関する詳細な情報が含まれています。
 
 ## 参考文献
 
-* [RFC1952: GZIP ファイル形式仕様](http://tools.ietf.org/html/rfc1952)、[IETF](https://www.ietf.org/) による
+* [RFC1952: GZIP ファイル形式仕様](https://datatracker.ietf.org/doc/html/rfc1952)、[IETF](https://www.ietf.org/) による
 * [Windows メタファイル - ウィキペディア](https://en.wikipedia.org/wiki/Windows_Metafile)
 

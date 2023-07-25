@@ -96,5 +96,5 @@ Der Dateifuß ist 8 Bytes groß und enthält folgende Informationen.
 ## Verweise ##
 
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952: GZIP-Dateiformatspezifikation](http://tools.ietf.org/html/rfc1952), von IETF.
+* [RFC1952: GZIP-Dateiformatspezifikation](https://datatracker.ietf.org/doc/html/rfc1952), von IETF.
 

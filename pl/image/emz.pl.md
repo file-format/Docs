@@ -30,10 +30,10 @@ Pliki EMZ są skompresowane [Gzip](/pl/compression/gz/) i zawierają wewnątrz [
 * Skompresowane dane
 * Stopka pliku
 
-Format pliku GZIP [wersja specyfikacji 4.3](http://tools.ietf.org/html/rfc1952) opublikowany przez Internet Engineering Task Force (IETF) zawiera szczegółowe informacje o formacie pliku.
+Format pliku GZIP [wersja specyfikacji 4.3](https://datatracker.ietf.org/doc/html/rfc1952) opublikowany przez Internet Engineering Task Force (IETF) zawiera szczegółowe informacje o formacie pliku.
 
 ## Bibliografia
 
-* [RFC1952: specyfikacja formatu pliku GZIP](http://tools.ietf.org/html/rfc1952), przez [IETF](https://www.ietf.org/)
+* [RFC1952: specyfikacja formatu pliku GZIP](https://datatracker.ietf.org/doc/html/rfc1952), przez [IETF](https://www.ietf.org/)
 * [Metaplik systemu Windows – Wikipedia](https://en.wikipedia.org/wiki/Windows_Metafile)
 

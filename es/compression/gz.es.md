@@ -96,5 +96,5 @@ El pie de página del archivo tiene un tamaño de 8 bytes y contiene la siguient
 ## Referencias ##
 
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952: especificación de formato de archivo GZIP](http://tools.ietf.org/html/rfc1952), por IETF.
+* [RFC1952: especificación de formato de archivo GZIP](https://datatracker.ietf.org/doc/html/rfc1952), por IETF.
 

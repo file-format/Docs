@@ -30,6 +30,6 @@ GZIP ファイルは、[GZ](/compression/gz/) ファイル形式で保存され�
 
 * [gzip](http://www.gzip.org/)
 * [gzip - ウィキペディア](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952: GZIP ファイル形式仕様](http://tools.ietf.org/html/rfc1952)、IETF
+* [RFC1952: GZIP ファイル形式仕様](https://datatracker.ietf.org/doc/html/rfc1952)、IETF
 * [RFC 1951](https://tools.ietf.org/html/rfc1951)
 

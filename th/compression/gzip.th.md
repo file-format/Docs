@@ -30,6 +30,6 @@ GZIP ใช้อัลกอริทึม [DEFLATE](https://en.wikipedia.org/
 
 * [gzip](http://www.gzip.org/)
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952: ข้อกำหนดรูปแบบไฟล์ GZIP](http://tools.ietf.org/html/rfc1952) โดย IETF
+* [RFC1952: ข้อกำหนดรูปแบบไฟล์ GZIP](https://datatracker.ietf.org/doc/html/rfc1952) โดย IETF
 * [RFC 1951](https://tools.ietf.org/html/rfc1951)
 

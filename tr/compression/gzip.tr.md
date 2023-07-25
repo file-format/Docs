@@ -30,6 +30,6 @@ GZIP dosyaları genellikle [GZ](/tr/compression/gz/) dosya biçiminde kaydedilir
 
 * [gzip](http://www.gzip.org/)
 * [gzip - Vikipedi](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952: GZIP dosya biçimi belirtimi](http://tools.ietf.org/html/rfc1952), IETF tarafından
+* [RFC1952: GZIP dosya biçimi belirtimi](https://datatracker.ietf.org/doc/html/rfc1952), IETF tarafından
 * [RFC 1951](https://tools.ietf.org/html/rfc1951)
 

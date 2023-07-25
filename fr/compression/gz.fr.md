@@ -96,5 +96,5 @@ Le pied de page du fichier a une taille de 8 octets et contient les informations
 ## Références ##
 
 * [gzip - Wikipédia](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952 : spécification du format de fichier GZIP](http://tools.ietf.org/html/rfc1952), par l'IETF.
+* [RFC1952 : spécification du format de fichier GZIP](https://datatracker.ietf.org/doc/html/rfc1952), par l'IETF.
 

@@ -96,5 +96,5 @@ Zápatí souboru má velikost 8 bajtů a obsahuje následující informace.
 ## Reference ##
 
 * [gzip – Wikipedia](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952: Specifikace formátu souboru GZIP](http://tools.ietf.org/html/rfc1952), od IETF.
+* [RFC1952: Specifikace formátu souboru GZIP](https://datatracker.ietf.org/doc/html/rfc1952), od IETF.
 

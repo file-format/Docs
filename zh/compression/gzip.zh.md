@@ -30,6 +30,6 @@ GZIP 文件通常保存为 [GZ](/zh/compression/gz/) 文件格式。
 
 * [gzip](http://www.gzip.org/)
 * [gzip - 维基百科](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952：GZIP 文件格式规范](http://tools.ietf.org/html/rfc1952)，由 IETF
+* [RFC1952：GZIP 文件格式规范](https://datatracker.ietf.org/doc/html/rfc1952)，由 IETF
 * [RFC 1951](https://tools.ietf.org/html/rfc1951)
 

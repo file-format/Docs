@@ -30,6 +30,6 @@ GZIP 파일은 [GZ](/ko/compression/gz/) 파일 형식으로 저장되는 경우
 
 * [gzip](http://www.gzip.org/)
 * [gzip - 위키백과](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952: GZIP 파일 형식 사양](http://tools.ietf.org/html/rfc1952), IETF 제공
+* [RFC1952: GZIP 파일 형식 사양](https://datatracker.ietf.org/doc/html/rfc1952), IETF 제공
 * [RFC 1951](https://tools.ietf.org/html/rfc1951)
 

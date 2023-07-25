@@ -30,10 +30,10 @@ WMZ 文件经过 [Gzip](/zh/compression/gz/) 压缩，内部包含 [WMF](/zh/ima
 * 压缩数据
 * 文件页脚
 
-由 Internet 工程任务组 (IETF) 发布的 GZIP 文件格式 [规范版本 4.3](http://tools.ietf.org/html/rfc1952) 包含有关文件格式的详细信息。
+由 Internet 工程任务组 (IETF) 发布的 GZIP 文件格式 [规范版本 4.3](https://datatracker.ietf.org/doc/html/rfc1952) 包含有关文件格式的详细信息。
 
 ## 参考
 
-* [RFC1952：GZIP 文件格式规范](http://tools.ietf.org/html/rfc1952)，由 [IETF](https://www.ietf.org)
+* [RFC1952：GZIP 文件格式规范](https://datatracker.ietf.org/doc/html/rfc1952)，由 [IETF](https://www.ietf.org)
 * [Windows 元文件 - 维基百科](https://en.wikipedia.org/wiki/Windows_Metafile)
 

@@ -30,10 +30,10 @@ WMZ 파일은 [Gzip](/ko/compression/gz/) 압축되어 있으며 내부에 [WMF]
 * 압축 데이터
 * 파일 바닥글
 
-IETF(Internet Engineering Task Force)에서 발행한 GZIP 파일 형식[사양 버전 4.3](http://tools.ietf.org/html/rfc1952)에는 파일 형식에 대한 자세한 정보가 포함되어 있습니다.
+IETF(Internet Engineering Task Force)에서 발행한 GZIP 파일 형식[사양 버전 4.3](https://datatracker.ietf.org/doc/html/rfc1952)에는 파일 형식에 대한 자세한 정보가 포함되어 있습니다.
 
 ## 참고문헌
 
-* [RFC1952: GZIP 파일 형식 사양](http://tools.ietf.org/html/rfc1952), [IETF](https://www.ietf.org) 작성
+* [RFC1952: GZIP 파일 형식 사양](https://datatracker.ietf.org/doc/html/rfc1952), [IETF](https://www.ietf.org) 작성
 * [윈도우 메타파일 - 위키피디아](https://en.wikipedia.org/wiki/Windows_Metafile)
 

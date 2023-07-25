@@ -30,6 +30,6 @@ GZIP-bestanden worden vaak opgeslagen als [GZ](/nl/compression/gz/) bestandsform
 
 * [gzip](http://www.gzip.org/)
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952: GZIP-bestandsformaatspecificatie](http://tools.ietf.org/html/rfc1952), door IETF
+* [RFC1952: GZIP-bestandsformaatspecificatie](https://datatracker.ietf.org/doc/html/rfc1952), door IETF
 * [RFC 1951](https://tools.ietf.org/html/rfc1951)
 
