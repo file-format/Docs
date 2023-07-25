@@ -39,7 +39,7 @@ EMBEDDEDFONT 構造体は 3 回改訂され、改訂ごとに構造体の末尾�
 |unsigned long|Version|この形式のバージョン番号 - 0x00020002|
 |unsigned long|フラグ|処理フラグ|
 |byte[10]|FontPANOSE|このフォントの PANOSE 値 - http://www.microsoft.com/typography/otspec/os2.htm#pan| を参照してください。
-|byte|Charset|Windows では、これは TEXTMETRIC.tmCharSet から派生します。この値は、フォントの文字セットを指定します。 DEFAULT_CHARSET (0x01) は、設定がないことを示します。 - http://msdn2.microsoft.com/en-us/library/ms534202.aspx| を参照してください。
+|byte|Charset|Windows では、これは TEXTMETRIC.tmCharSet から派生します。この値は、フォントの文字セットを指定します。 DEFAULT_CHARSET (0x01) は、設定がないことを示します。 - https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica| を参照してください。
 |byte|Italic|OS/2.fsSelection で ITALIC のビットが設定されている場合、値は 0x01 になります - http://www.microsoft.com/typography/otspec/os2.htm#fss| を参照してください。
 |unsigned long|Weight|このフォントのウェイト値 - http://www.microsoft.com/typography/otspec/os2.htm#wtc| を参照してください。
 |unsigned short|fsType|埋め込み権限に関する情報を提供するタイプ フラグ - http://www.microsoft.com/typography/otspec/os2.htm#fst|を参照してください。

@@ -39,7 +39,7 @@ Struktura EMBEDDEDFONT została poddana trzem rewizjom, z dodaniem dodatkowych d
 |unsigned long|Wersja|Numer wersji tego formatu - 0x00020002|
 |unsigned long|Flagi|Przetwarzanie flag|
 |byte[10]|FontPANOSE|Wartość PANOSE dla tej czcionki — zobacz http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|bajt|Zestaw znaków|W systemie Windows pochodzi z TEXTMETRIC.tmCharSet. Ta wartość określa zestaw znaków czcionki. DEFAULT_CHARSET (0x01) oznacza brak preferencji. — Zobacz http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
+|bajt|Zestaw znaków|W systemie Windows pochodzi z TEXTMETRIC.tmCharSet. Ta wartość określa zestaw znaków czcionki. DEFAULT_CHARSET (0x01) oznacza brak preferencji. — Zobacz https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
 |bajt|Kursywa|Jeśli bit kursywy jest ustawiony w OS/2.fsSelection, wartość będzie równa 0x01 — patrz http://www.microsoft.com/typography/otspec/os2.htm#fss|
 |unsigned long|Waga|Wartość wagi tej czcionki — zobacz http://www.microsoft.com/typography/otspec/os2.htm#wtc|
 |unsigned short|fsType|Flagi typu, które dostarczają informacji o uprawnieniach osadzania — zobacz http://www.microsoft.com/typography/otspec/os2.htm#fst|

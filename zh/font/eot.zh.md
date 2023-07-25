@@ -39,7 +39,7 @@ EMBEDDEDFONT 结构经历了三个修订，每个修订都在结构末尾添加�
 |unsigned long|版本|此格式的版本号 - 0x00020002|
 |unsigned long|标志|处理标志|
 |byte[10]|FontPANOSE|此字体的 PANOSE 值 - 请参阅 http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|byte|Charset|在 Windows 中，这是从 TEXTMETRIC.tmCharSet 派生的。此值指定字体的字符集。 DEFAULT_CHARSET (0x01) 表示没有偏好。 - 请参阅 http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
+|byte|Charset|在 Windows 中，这是从 TEXTMETRIC.tmCharSet 派生的。此值指定字体的字符集。 DEFAULT_CHARSET (0x01) 表示没有偏好。 - 请参阅 https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
 |byte|Italic|如果在 OS/2.fsSelection 中设置了 ITALIC 位，则值为 0x01 - 请参阅 http://www.microsoft.com/typography/otspec/os2.htm#fss|
 |unsigned long|Weight|此字体的重量值 - 请参阅 http://www.microsoft.com/typography/otspec/os2.htm#wtc|
 |unsigned short|fsType|提供有关嵌入权限信息的类型标志 - 请参阅 http://www.microsoft.com/typography/otspec/os2.htm#fst|

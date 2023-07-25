@@ -39,7 +39,7 @@ EOT फ़ाइल प्रारूप विवरण [W3 सबमिशन
 |अहस्ताक्षरित लंबा|संस्करण|इस प्रारूप का संस्करण संख्या - 0x00020002|
 |अहस्ताक्षरित लंबा|झंडे|प्रसंस्करण झंडे|
 |बाइट[10]|FontPANOSE|इस फ़ॉन्ट के लिए पैनोज़ मान - देखें http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|बाइट|चारसेट|विंडोज में यह TEXTMETRIC.tmCharSet से लिया गया है। यह मान फ़ॉन्ट के वर्ण सेट को निर्दिष्ट करता है। DEFAULT_CHARSET (0x01) कोई वरीयता नहीं दर्शाता है। - देखें http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
+|बाइट|चारसेट|विंडोज में यह TEXTMETRIC.tmCharSet से लिया गया है। यह मान फ़ॉन्ट के वर्ण सेट को निर्दिष्ट करता है। DEFAULT_CHARSET (0x01) कोई वरीयता नहीं दर्शाता है। - देखें https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
 |बाइट|इटैलिक|यदि ITALIC के लिए बिट OS/2.fsSelection में सेट है, तो मान 0x01 होगा - देखें http://www.microsoft.com/typography/otspec/os2.htm#fss|
 |unsigned long|Weight|इस फ़ॉन्ट के लिए वजन मान - देखें http://www.microsoft.com/typography/otspec/os2.htm#wtc|
 |अहस्ताक्षरित लघु|fsType|फ्लैग टाइप करें जो एम्बेडिंग अनुमतियों के बारे में जानकारी प्रदान करते हैं - देखें http://www.microsoft.com/typography/otspec/os2.htm#fst|

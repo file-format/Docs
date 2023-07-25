@@ -39,7 +39,7 @@ De EMBEDDEDFONT-structuur heeft drie revisies ondergaan, met toevoeging van aanv
 |unsigned long|Versie|Versienummer van dit formaat - 0x00020002|
 |unsigned long|Vlaggen|Verwerkingsvlaggen|
 |byte[10]|FontPANOSE|De PANOSE-waarde voor dit lettertype - zie http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|byte|Charset|In Windows is dit afgeleid van TEXTMETRIC.tmCharSet. Deze waarde geeft de tekenset van het lettertype aan. DEFAULT_CHARSET (0x01) geeft geen voorkeur aan. - Zie http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
+|byte|Charset|In Windows is dit afgeleid van TEXTMETRIC.tmCharSet. Deze waarde geeft de tekenset van het lettertype aan. DEFAULT_CHARSET (0x01) geeft geen voorkeur aan. - Zie https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
 |byte|Italic|Als de bit voor ITALIC is ingesteld in OS/2.fsSelection, is de waarde 0x01 - Zie http://www.microsoft.com/typography/otspec/os2.htm#fss|
 |unsigned long|Weight|De gewichtswaarde voor dit lettertype - zie http://www.microsoft.com/typography/otspec/os2.htm#wtc|
 |unsigned short|fsType|Typ vlaggen die informatie geven over insluitrechten - zie http://www.microsoft.com/typography/otspec/os2.htm#fst|

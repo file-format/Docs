@@ -39,7 +39,7 @@
 |неподписан дълъг|Версия|Номер на версията на този формат - 0x00020002|
 |неподписани дълги|Флагове|Флагове за обработка|
 |byte[10]|FontPANOSE|Стойността на PANOSE за този шрифт – Вижте http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|byte|Charset|В Windows това се извлича от TEXTMETRIC.tmCharSet. Тази стойност определя набора от знаци на шрифта. DEFAULT_CHARSET (0x01) показва липса на предпочитание. - Вижте http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
+|byte|Charset|В Windows това се извлича от TEXTMETRIC.tmCharSet. Тази стойност определя набора от знаци на шрифта. DEFAULT_CHARSET (0x01) показва липса на предпочитание. - Вижте https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
 |byte|Italic|Ако битът за ITALIC е зададен в OS/2.fsSelection, стойността ще бъде 0x01 - Вижте http://www.microsoft.com/typography/otspec/os2.htm#fss|
 |unsigned long|Weight|Стойността на теглото за този шрифт - Вижте http://www.microsoft.com/typography/otspec/os2.htm#wtc|
 |unsigned short|fsType|Флагове за тип, които предоставят информация за разрешенията за вграждане - Вижте http://www.microsoft.com/typography/otspec/os2.htm#fst|

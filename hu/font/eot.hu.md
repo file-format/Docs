@@ -39,7 +39,7 @@ Az EMBEDDEDFONT struktúra három felülvizsgálaton esett át, és minden egyes
 |unsigned long|Verzió|Ennek a formátumnak a verziószáma - 0x00020002|
 |aláíratlan hosszú|Zászlók|Zászlók feldolgozása|
 |byte[10]|FontPANOSE|A font PANOSE értéke - Lásd: http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|byte|Charset|Windows rendszerben ez a TEXTMETRIC.tmCharSetből származik. Ez az érték határozza meg a betűtípus karakterkészletét. A DEFAULT_CHARSET (0x01) azt jelzi, hogy nincs preferencia. - Lásd: http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
+|byte|Charset|Windows rendszerben ez a TEXTMETRIC.tmCharSetből származik. Ez az érték határozza meg a betűtípus karakterkészletét. A DEFAULT_CHARSET (0x01) azt jelzi, hogy nincs preferencia. - Lásd: https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
 |byte|Dőlt|Ha az ITALIC bitje be van állítva az OS/2.fsSelectionben, az érték 0x01 lesz – Lásd: http://www.microsoft.com/typography/otspec/os2.htm#fss|
 |unsigned long|Weight|A betűtípus súlyértéke – Lásd: http://www.microsoft.com/typography/otspec/os2.htm#wtc|
 |unsigned short|fsType|Típusjelzők, amelyek információt nyújtanak a beágyazási engedélyekről – Lásd: http://www.microsoft.com/typography/otspec/os2.htm#fst|

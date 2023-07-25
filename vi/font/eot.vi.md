@@ -39,7 +39,7 @@ Cấu trúc EMBEDDEDFONT đã trải qua ba lần sửa đổi, với việc b�
 |unsigned long|Phiên bản|Số phiên bản của định dạng này - 0x00020002|
 |unsigned long|Cờ|Đang xử lý cờ|
 |byte[10]|Phông chữPANOSE|Giá trị PANOSE cho phông chữ này - Xem http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|byte|Charset|Trong Windows, điều này bắt nguồn từ TEXTMETRIC.tmCharSet. Giá trị này chỉ định bộ ký tự của phông chữ. DEFAULT_CHARSET (0x01) cho biết không có tùy chọn nào. - Xem http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
+|byte|Charset|Trong Windows, điều này bắt nguồn từ TEXTMETRIC.tmCharSet. Giá trị này chỉ định bộ ký tự của phông chữ. DEFAULT_CHARSET (0x01) cho biết không có tùy chọn nào. - Xem https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
 |byte|Italic|Nếu bit cho ITALIC được đặt trong OS/2.fsSelection, giá trị sẽ là 0x01 - Xem http://www.microsoft.com/typography/otspec/os2.htm#fss|
 |unsigned long|Trọng lượng|Giá trị trọng số cho phông chữ này - Xem http://www.microsoft.com/typography/otspec/os2.htm#wtc|
 |unsigned short|fsType|Loại cờ cung cấp thông tin về quyền nhúng - Xem http://www.microsoft.com/typography/otspec/os2.htm#fst|

@@ -39,7 +39,7 @@ EMBEDDEDFONT 구조는 세 번의 개정을 거쳤으며 각 개정과 함께 �
 |unsigned long|버전|이 형식의 버전 번호 - 0x00020002|
 |unsigned long|플래그|플래그 처리|
 |byte[10]|FontPANOSE|이 글꼴의 PANOSE 값 - 참조 http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|byte|Charset|Windows에서 이것은 TEXTMETRIC.tmCharSet에서 파생됩니다. 이 값은 글꼴의 문자 집합을 지정합니다. DEFAULT_CHARSET(0x01)은 기본 설정이 없음을 나타냅니다. - 참조 http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
+|byte|Charset|Windows에서 이것은 TEXTMETRIC.tmCharSet에서 파생됩니다. 이 값은 글꼴의 문자 집합을 지정합니다. DEFAULT_CHARSET(0x01)은 기본 설정이 없음을 나타냅니다. - 참조 https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
 |byte|기울임꼴|ITALIC에 대한 비트가 OS/2.fsSelection에서 설정되면 값은 0x01이 됩니다. - http://www.microsoft.com/typography/otspec/os2.htm#fss를 참조하십시오.
 |unsigned long|Weight|이 글꼴의 가중치 값 - http://www.microsoft.com/typography/otspec/os2.htm#wtc|를 참조하십시오.
 |unsigned short|fsType|권한 포함에 대한 정보를 제공하는 유형 플래그 - http://www.microsoft.com/typography/otspec/os2.htm#fst|를 참조하십시오.

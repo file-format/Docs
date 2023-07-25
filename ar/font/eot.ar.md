@@ -39,7 +39,7 @@
 | طويل بدون توقيع | الإصدار | رقم إصدار هذا التنسيق - 0x00020002 |
 | بدون إشارة طويلة | أعلام | أعلام معالجة |
 | بايت [10] | FontPANOSE | قيمة PANOSE لهذا الخط - راجع http: //www.microsoft.com/typography/otspec/os2.htm#pan |
-| بايت | Charset | في Windows ، هذا مشتق من TEXTMETRIC.tmCharSet. تحدد هذه القيمة مجموعة أحرف الخط. يشير DEFAULT_CHARSET (0x01) إلى عدم وجود تفضيل. - راجع http: //msdn2.microsoft.com/en-us/library/ms534202.aspx |
+| بايت | Charset | في Windows ، هذا مشتق من TEXTMETRIC.tmCharSet. تحدد هذه القيمة مجموعة أحرف الخط. يشير DEFAULT_CHARSET (0x01) إلى عدم وجود تفضيل. - راجع https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica |
 | بايت | مائل | إذا تم تعيين بت ITALIC في OS / 2.fsSelection ، ستكون القيمة 0x01 - راجع http: //www.microsoft.com/typography/otspec/os2.htm#fss |
 | الطول | الوزن | قيمة الوزن لهذا الخط - راجع http: //www.microsoft.com/typography/otspec/os2.htm#wtc |
 | قصير | fsType | إشارات النوع التي توفر معلومات حول أذونات التضمين - راجع http: //www.microsoft.com/typography/otspec/os2.htm#fst |

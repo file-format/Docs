@@ -39,7 +39,7 @@
 |ความยาวที่ไม่ได้ลงนาม|เวอร์ชัน|หมายเลขเวอร์ชันของรูปแบบนี้ - 0x00020002|
 |ความยาวที่ไม่ได้ลงนาม|แฟล็ก|กำลังประมวลผลแฟล็ก|
 |byte[10]|FontPANOSE|ค่า PANOSE สำหรับฟอนต์นี้ - โปรดดูที่ http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|byte|Charset|ใน Windows สิ่งนี้ได้มาจาก TEXTMETRIC.tmCharSet ค่านี้ระบุชุดอักขระของฟอนต์ DEFAULT_CHARSET (0x01) ระบุว่าไม่มีการตั้งค่า - ดู http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
+|byte|Charset|ใน Windows สิ่งนี้ได้มาจาก TEXTMETRIC.tmCharSet ค่านี้ระบุชุดอักขระของฟอนต์ DEFAULT_CHARSET (0x01) ระบุว่าไม่มีการตั้งค่า - ดู https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
 |byte|Italic|หากตั้งค่าบิตสำหรับ ITALIC ใน OS/2.fsSelection ค่าจะเป็น 0x01 - โปรดดูที่ http://www.microsoft.com/typography/otspec/os2.htm#fss|
 |unsigned long|Weight|ค่าน้ำหนักสำหรับแบบอักษรนี้ - โปรดดูที่ http://www.microsoft.com/typography/otspec/os2.htm#wtc|
 |unsigned short|fsType|ธงประเภทที่ให้ข้อมูลเกี่ยวกับสิทธิ์ในการฝัง - โปรดดูที่ http://www.microsoft.com/typography/otspec/os2.htm#fst|

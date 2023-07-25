@@ -39,7 +39,7 @@ Struktur EMBEDDEDFONT telah mengalami tiga kali revisi, dengan penambahan data t
 |unsigned long|Versi|Nomor versi format ini - 0x00020002|
 |unsigned long|Flags|Processing Flags|
 |byte[10]|FontPANOSE|Nilai PANOSE untuk font ini - Lihat http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|byte|Charset|Di Windows ini diturunkan dari TEXTMETRIC.tmCharSet. Nilai ini menentukan set karakter font. DEFAULT_CHARSET (0x01) menunjukkan tidak ada preferensi. - Lihat http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
+|byte|Charset|Di Windows ini diturunkan dari TEXTMETRIC.tmCharSet. Nilai ini menentukan set karakter font. DEFAULT_CHARSET (0x01) menunjukkan tidak ada preferensi. - Lihat https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
 |byte|Italic|Jika bit untuk ITALIC diatur di OS/2.fsSelection, nilainya akan menjadi 0x01 - Lihat http://www.microsoft.com/typography/otspec/os2.htm#fss|
 |unsigned long|Weight|Nilai bobot untuk font ini - Lihat http://www.microsoft.com/typography/otspec/os2.htm#wtc|
 |unsigned short|fsType|Type flags yang memberikan informasi tentang izin penyematan - Lihat http://www.microsoft.com/typography/otspec/os2.htm#fst|

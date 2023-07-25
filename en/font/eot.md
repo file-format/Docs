@@ -39,7 +39,7 @@ The EMBEDDEDFONT structure has underwent three revisions, with addition of addit
 |unsigned long|Version|Version number of this format - 0x00020002|
 |unsigned long|Flags|Processing Flags|
 |byte[10]|FontPANOSE|The PANOSE value for this font - See http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|byte|Charset|In Windows this is derived from TEXTMETRIC.tmCharSet. This value specifies the character set of the font. DEFAULT_CHARSET (0x01) indicates no preference. - See http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
+|byte|Charset|In Windows this is derived from TEXTMETRIC.tmCharSet. This value specifies the character set of the font. DEFAULT_CHARSET (0x01) indicates no preference. - See https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
 |byte|Italic|If the bit for ITALIC is set in OS/2.fsSelection, the value will be 0x01 - See http://www.microsoft.com/typography/otspec/os2.htm#fss|
 |unsigned long|Weight|The weight value for this font - See http://www.microsoft.com/typography/otspec/os2.htm#wtc|
 |unsigned short|fsType|Type flags that provide information about embedding permissions - See http://www.microsoft.com/typography/otspec/os2.htm#fst|

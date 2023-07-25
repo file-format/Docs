@@ -39,7 +39,7 @@
 |לא חתום ארוך|גרסה|מספר גרסה של פורמט זה - 0x00020002|
 |לא חתום ארוך|דגלים|עיבוד דגלים|
 |byte[10]|FontPANOSE|ערך PANOSE עבור גופן זה - ראה http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|byte|Charset|ב-Windows זה נגזר מ-TEXTMETRIC.tmCharSet. ערך זה מציין את ערכת התווים של הגופן. DEFAULT_CHARSET (0x01) מציין שאין העדפה. - ראה http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
+|byte|Charset|ב-Windows זה נגזר מ-TEXTMETRIC.tmCharSet. ערך זה מציין את ערכת התווים של הגופן. DEFAULT_CHARSET (0x01) מציין שאין העדפה. - ראה https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
 |byte|Italic|אם ה-bit עבור ITALIC מוגדר ב-OS/2.fsSelection, הערך יהיה 0x01 - ראה http://www.microsoft.com/typography/otspec/os2.htm#fss|
 |לא חתום ארוך|משקל|ערך המשקל עבור גופן זה - ראה http://www.microsoft.com/typography/otspec/os2.htm#wtc|
 |לא חתום קצר|fsType|דגלי סוג המספקים מידע על הרשאות הטמעה - ראה http://www.microsoft.com/typography/otspec/os2.htm#fst|

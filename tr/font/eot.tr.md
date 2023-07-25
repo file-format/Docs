@@ -39,7 +39,7 @@ EMBEDDEDFONT yapısı, her revizyonda yapının sonuna ek veriler eklenerek üç
 |unsigned long|Sürüm|Bu biçimin sürüm numarası - 0x00020002|
 |unsigned long|Bayraklar|İşleme İşaretleri|
 |bayt[10]|FontPANOSE|Bu yazı tipi için PANOSE değeri - Bkz. http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|bayt|Karakter Kümesi|Windows'ta bu TEXTMETRIC.tmCharSet'ten türetilmiştir. Bu değer, yazı tipinin karakter kümesini belirtir. DEFAULT_CHARSET (0x01) tercih olmadığını gösterir. - Bakınız http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
+|bayt|Karakter Kümesi|Windows'ta bu TEXTMETRIC.tmCharSet'ten türetilmiştir. Bu değer, yazı tipinin karakter kümesini belirtir. DEFAULT_CHARSET (0x01) tercih olmadığını gösterir. - Bakınız https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
 |bayt|İtalik|ITALIC için bit OS/2.fsSelection'da ayarlanmışsa, değer 0x01 olacaktır - Bkz. http://www.microsoft.com/typography/otspec/os2.htm#fss|
 |unsigned long|Ağırlık|Bu yazı tipi için ağırlık değeri - Bkz. http://www.microsoft.com/typography/otspec/os2.htm#wtc|
 |unsigned short|fsType|Gömme izinleri hakkında bilgi sağlayan tip bayrakları - Bkz. http://www.microsoft.com/typography/otspec/os2.htm#fst|

@@ -39,7 +39,7 @@
 |unsigned long|Έκδοση|Αριθμός έκδοσης αυτής της μορφής - 0x00020002|
 |ανυπόγραφο μακρύ|Σημαίες|Σημαίες επεξεργασίας|
 |byte[10]|FontPANOSE|Η τιμή PANOSE για αυτήν τη γραμματοσειρά - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|byte|Charset|Στα Windows αυτό προέρχεται από το TEXTMETRIC.tmCharSet. Αυτή η τιμή καθορίζει το σύνολο χαρακτήρων της γραμματοσειράς. DEFAULT_CHARSET (0x01) υποδηλώνει καμία προτίμηση. - Δείτε http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
+|byte|Charset|Στα Windows αυτό προέρχεται από το TEXTMETRIC.tmCharSet. Αυτή η τιμή καθορίζει το σύνολο χαρακτήρων της γραμματοσειράς. DEFAULT_CHARSET (0x01) υποδηλώνει καμία προτίμηση. - Δείτε https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
 |byte|Italic|Εάν το bit για το ITALIC έχει οριστεί στο OS/2.fsSelection, η τιμή θα είναι 0x01 - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#fss|
 |unsigned long|Weight|Η τιμή βάρους για αυτήν τη γραμματοσειρά - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#wtc|
 |unsigned short|fsType|Πληκτρολογήστε σημαίες που παρέχουν πληροφορίες σχετικά με τα δικαιώματα ενσωμάτωσης - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#fst|

@@ -39,7 +39,7 @@ Struktura EMBEDDEDFONT prošla třemi revizemi s přidáním dalších dat na ko
 |unsigned long|Verze|Číslo verze tohoto formátu - 0x00020002|
 |nepodepsané dlouhé|Příznaky|Zpracování příznaků|
 |byte[10]|FontPANOSE|Hodnota PANOSE pro toto písmo – viz http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|byte|Znaková sada|V systému Windows je odvozena z TEXTMETRIC.tmCharSet. Tato hodnota určuje znakovou sadu písma. DEFAULT_CHARSET (0x01) označuje žádnou preferenci. – Viz http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
+|byte|Znaková sada|V systému Windows je odvozena z TEXTMETRIC.tmCharSet. Tato hodnota určuje znakovou sadu písma. DEFAULT_CHARSET (0x01) označuje žádnou preferenci. – Viz https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
 |byte|Italic|Pokud je bit pro ITALIC nastaven v OS/2.fsSelection, hodnota bude 0x01 – viz http://www.microsoft.com/typography/otspec/os2.htm#fss|
 |unsigned long|Weight|Hodnota váhy pro toto písmo – viz http://www.microsoft.com/typography/otspec/os2.htm#wtc|
 |nepodepsané short|fsType|Příznaky typu, které poskytují informace o oprávněních pro vkládání – viz http://www.microsoft.com/typography/otspec/os2.htm#fst|

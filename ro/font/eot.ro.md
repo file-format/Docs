@@ -39,7 +39,7 @@ Structura EMBEDDEDFONT a suferit trei revizuiri, cu adăugarea de date supliment
 |unsigned long|Versiune|Numărul versiunii acestui format - 0x00020002|
 |nesemnat lung|Steaguri|Steagme de procesare|
 |byte[10]|FontPANOSE|Valoarea PANOSE pentru acest font - Consultați http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|byte|Charset|În Windows, acesta este derivat din TEXTMETRIC.tmCharSet. Această valoare specifică setul de caractere al fontului. DEFAULT_CHARSET (0x01) indică nicio preferință. - Consultați http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
+|byte|Charset|În Windows, acesta este derivat din TEXTMETRIC.tmCharSet. Această valoare specifică setul de caractere al fontului. DEFAULT_CHARSET (0x01) indică nicio preferință. - Consultați https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
 |byte|Italic|Dacă bitul pentru ITALIC este setat în OS/2.fsSelection, valoarea va fi 0x01 - Vezi http://www.microsoft.com/typography/otspec/os2.htm#fss|
 |unsigned long|Greutate|Valoarea greutății pentru acest font - Consultați http://www.microsoft.com/typography/otspec/os2.htm#wtc|
 |unsigned short|fsType|Type flags care oferă informații despre permisiunile de încorporare - Consultați http://www.microsoft.com/typography/otspec/os2.htm#fst|

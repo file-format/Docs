@@ -39,7 +39,7 @@ La structure EMBEDDEDFONT a subi trois révisions, avec ajout de données suppl�
 |unsigned long|Version|Numéro de version de ce format - 0x00020002|
 |unsigned long|Drapeaux|Drapeaux de traitement|
 |byte[10]|FontPANOSE|La valeur PANOSE pour cette police - Voir http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|byte|Charset|Sous Windows, ceci est dérivé de TEXTMETRIC.tmCharSet. Cette valeur spécifie le jeu de caractères de la police. DEFAULT_CHARSET (0x01) n'indique aucune préférence. - Voir http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
+|byte|Charset|Sous Windows, ceci est dérivé de TEXTMETRIC.tmCharSet. Cette valeur spécifie le jeu de caractères de la police. DEFAULT_CHARSET (0x01) n'indique aucune préférence. - Voir https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
 |byte|Italic|Si le bit pour ITALIC est défini dans OS/2.fsSelection, la valeur sera 0x01 - Voir http://www.microsoft.com/typography/otspec/os2.htm#fss|
 |unsigned long|Weight|La valeur de poids pour cette police - Voir http://www.microsoft.com/typography/otspec/os2.htm#wtc|
 |unsigned short|fsType|Indicateurs de type qui fournissent des informations sur l'intégration des autorisations - Voir http://www.microsoft.com/typography/otspec/os2.htm#fst|
