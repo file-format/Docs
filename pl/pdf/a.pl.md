@@ -58,5 +58,5 @@ PDF/A-3 zawiera wszystkie wymagania zgodności poziomu 2 i umożliwia osadzanie 
 ## Bibliografia ##
 
 * [PDF/A – z Wikipedii](https://en.wikipedia.org/wiki/PDF/A)
-* [Biała księga: PDF/A – podstawy](http://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
+* [Biała księga: PDF/A – podstawy](https://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
 

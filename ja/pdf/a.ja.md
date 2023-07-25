@@ -58,5 +58,5 @@ PDF/A-3 には、レベル 2 のすべての適合要件が含まれており、
 ## 参照 ##
 
 * [PDF/A - ウィキペディアによる](https://en.wikipedia.org/wiki/PDF/A)
-* [ホワイト ペーパー: PDF/A – 基本](http://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
+* [ホワイト ペーパー: PDF/A – 基本](https://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
 

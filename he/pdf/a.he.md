@@ -58,5 +58,5 @@ PDF/A-3 כולל את כל דרישות התאימות של רמה 2 ומאפש�
 ## הפניות ##
 
 * [PDF/A - מאת ויקיפדיה](https://en.wikipedia.org/wiki/PDF/A)
-* [ספר לבן: PDF/A - היסודות](http://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
+* [ספר לבן: PDF/A - היסודות](https://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
 

@@ -58,4 +58,4 @@ PDF/A-2 was released by ISO Standard in July 2011 as a new standard known as ISO
 ## References ##
 
 * [PDF/A - By Wikipedia](https://en.wikipedia.org/wiki/PDF/A)
-* [White Paper: PDF/A – The Basics](http://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
+* [White Paper: PDF/A – The Basics](https://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)

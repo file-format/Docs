@@ -58,5 +58,5 @@ PDF/A-3 zahrnuje všechny požadavky na shodu úrovně 2 a umožňuje vkládán�
 ## Reference ##
 
 * [PDF/A – z Wikipedie](https://en.wikipedia.org/wiki/PDF/A)
-* [Bílá kniha: PDF/A – Základy](http://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
+* [Bílá kniha: PDF/A – Základy](https://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
 

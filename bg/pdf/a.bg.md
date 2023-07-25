@@ -58,5 +58,5 @@ PDF/A-3 включва всички изисквания за съответст
 ## Препратки ##
 
 * [PDF/A - От Wikipedia](https://en.wikipedia.org/wiki/PDF/A)
-* [Бяла книга: PDF/A – Основите](http://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
+* [Бяла книга: PDF/A – Основите](https://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
 

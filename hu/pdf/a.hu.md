@@ -58,5 +58,5 @@ A PDF/A-3 tartalmazza a 2. szint összes megfelelőségi követelményét, és l
 ## Referenciák ##
 
 * [PDF/A – a Wikipédia által](https://en.wikipedia.org/wiki/PDF/A)
-* [Fehér könyv: PDF/A – Az alapok](http://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
+* [Fehér könyv: PDF/A – Az alapok](https://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
 

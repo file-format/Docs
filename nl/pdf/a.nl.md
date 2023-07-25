@@ -58,5 +58,5 @@ PDF/A-3 bevat alle conformiteitsvereisten van niveau 2 en maakt het insluiten va
 ## Referenties ##
 
 * [PDF/A - Door Wikipedia](https://en.wikipedia.org/wiki/PDF/A)
-* [White Paper: PDF/A – The Basics](http://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
+* [White Paper: PDF/A – The Basics](https://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
 

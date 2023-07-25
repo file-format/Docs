@@ -58,5 +58,5 @@
 ## Βιβλιογραφικές αναφορές ##
 
 * [PDF/A - Από τη Wikipedia](https://en.wikipedia.org/wiki/PDF/A)
-* [Λευκή Βίβλος: PDF/A – Τα βασικά](http://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
+* [Λευκή Βίβλος: PDF/A – Τα βασικά](https://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
 

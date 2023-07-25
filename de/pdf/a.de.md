@@ -58,5 +58,5 @@ PDF/A-3 enthält alle Konformitätsanforderungen von Level 2 und ermöglicht die
 ## Verweise ##
 
 * [PDF/A - Von Wikipedia](https://en.wikipedia.org/wiki/PDF/A)
-* [Whitepaper: PDF/A – Die Grundlagen](http://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
+* [Whitepaper: PDF/A – Die Grundlagen](https://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
 
