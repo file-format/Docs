@@ -28,6 +28,6 @@ DWT फ़ाइल एक [ऑटोकैड](https://www.autodesk.com/) ड�
 ### संदर्भ
 
 * [DWG फ़ाइल प्रारूप विनिर्देश](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [DWG फ़ाइल विशिष्टता](https://www.scan2cad.com/dwg/file-spec/)
+* [DWG फ़ाइल विशिष्टता](https://www.scan2cad.com/blog/dwg/file-spec/)
 * [डीडब्ल्यूजी - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/.dwg)
 

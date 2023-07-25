@@ -28,6 +28,6 @@ DWT kan betraktas som en DWG med fördefinierade värden som lätt kan användas
 ### Referenser
 
 * [DWG-filformatsspecifikationer](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [DWG-filspecifikationen](https://www.scan2cad.com/dwg/file-spec/)
+* [DWG-filspecifikationen](https://www.scan2cad.com/blog/dwg/file-spec/)
 * [DWG - av Wikipedia](https://en.wikipedia.org/wiki/.dwg)
 

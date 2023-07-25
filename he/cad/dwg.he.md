@@ -62,6 +62,6 @@ DWG היה אחד מפורמטי הקבצים הנפוצים במגוון ייש
 ## הפניות ##
 
 * [מפרט פורמט קובץ DWG](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [מפרט קובץ DWG](https://www.scan2cad.com/dwg/file-spec/)
+* [מפרט קובץ DWG](https://www.scan2cad.com/blog/dwg/file-spec/)
 * [DWG - מאת ויקיפדיה](https://en.wikipedia.org/wiki/.dwg)
 

@@ -28,6 +28,6 @@ DWT có thể được coi là một DWG với các giá trị được xác đ�
 ### Người giới thiệu
 
 * [Thông số định dạng tệp DWG](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [Đặc tả tệp DWG](https://www.scan2cad.com/dwg/file-spec/)
+* [Đặc tả tệp DWG](https://www.scan2cad.com/blog/dwg/file-spec/)
 * [DWG - Theo Wikipedia](https://vi.wikipedia.org/wiki/.dwg)
 

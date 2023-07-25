@@ -28,6 +28,6 @@ DWT può essere considerato un DWG con valori predefiniti che possono essere fac
 ### Riferimenti
 
 * [Specifiche del formato file DWG](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [Specifica del file DWG](https://www.scan2cad.com/dwg/file-spec/)
+* [Specifica del file DWG](https://www.scan2cad.com/blog/dwg/file-spec/)
 * [DWG - Di Wikipedia](https://en.wikipedia.org/wiki/.dwg)
 

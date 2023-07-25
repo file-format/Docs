@@ -28,6 +28,6 @@ DWT poate fi considerat un DWG cu valori predefinite care pot fi utilizate cu u�
 ### Referințe
 
 * [Specificații de format de fișier DWG](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [Specificația fișierului DWG](https://www.scan2cad.com/dwg/file-spec/)
+* [Specificația fișierului DWG](https://www.scan2cad.com/blog/dwg/file-spec/)
 * [DWG - După Wikipedia](https://en.wikipedia.org/wiki/.dwg)
 

@@ -62,6 +62,6 @@ DWG เป็นหนึ่งในรูปแบบไฟล์ที่ใ�
 ## อ้างอิง ##
 
 * [ข้อกำหนดรูปแบบไฟล์ DWG](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [ข้อกำหนดไฟล์ DWG](https://www.scan2cad.com/dwg/file-spec/)
+* [ข้อกำหนดไฟล์ DWG](https://www.scan2cad.com/blog/dwg/file-spec/)
 * [DWG - โดย Wikipedia](https://en.wikipedia.org/wiki/.dwg)
 

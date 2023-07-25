@@ -28,6 +28,6 @@ DWT можна вважати DWG із заздалегідь визначени
 ### Посилання
 
 * [Специфікації формату файлу DWG](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [Специфікація файлу DWG](https://www.scan2cad.com/dwg/file-spec/)
+* [Специфікація файлу DWG](https://www.scan2cad.com/blog/dwg/file-spec/)
 * [DWG - Вікіпедія](https://en.wikipedia.org/wiki/.dwg)
 

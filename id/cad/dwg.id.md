@@ -62,6 +62,6 @@ DWG telah menjadi salah satu format file yang banyak digunakan oleh berbagai apl
 ## Referensi ##
 
 * [Spesifikasi Format File DWG](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [Spesifikasi File DWG](https://www.scan2cad.com/dwg/file-spec/)
+* [Spesifikasi File DWG](https://www.scan2cad.com/blog/dwg/file-spec/)
 * [DWG - Oleh Wikipedia](https://en.wikipedia.org/wiki/.dwg)
 

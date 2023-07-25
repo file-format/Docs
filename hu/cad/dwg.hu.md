@@ -62,6 +62,6 @@ A DWG az egyik legszélesebb körben használt fájlformátum volt számos alkal
 ## Referenciák ##
 
 * [DWG fájlformátum specifikációi](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [A DWG fájl specifikációja](https://www.scan2cad.com/dwg/file-spec/)
+* [A DWG fájl specifikációja](https://www.scan2cad.com/blog/dwg/file-spec/)
 * [DWG – a Wikipédia által](https://en.wikipedia.org/wiki/.dwg)
 

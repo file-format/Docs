@@ -62,6 +62,6 @@ DWG is een van de meest gebruikte bestandsindelingen door een reeks toepassingen
 ## Referenties ##
 
 * [specificaties DWG-bestandsindeling](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [De DWG-bestandsspecificatie](https://www.scan2cad.com/dwg/file-spec/)
+* [De DWG-bestandsspecificatie](https://www.scan2cad.com/blog/dwg/file-spec/)
 * [DWG - Door Wikipedia](https://en.wikipedia.org/wiki/.dwg)
 
