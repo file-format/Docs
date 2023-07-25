@@ -26,6 +26,6 @@ Các tệp SBN được lưu vào đĩa dưới dạng tệp nhị phân và kh�
 
 ## Người giới thiệu
 
-* [Mô tả kỹ thuật ESRI ShapeFile](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf)
+* [Mô tả kỹ thuật ESRI ShapeFile](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf)
 * [ESRI ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 

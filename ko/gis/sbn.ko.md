@@ -26,6 +26,6 @@ SBN 파일은 이진 파일로 디스크에 저장되며 내부 파일 형식 �
 
 ## 참고문헌
 
-* [ESRI ShapeFile 기술 설명](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf)
+* [ESRI ShapeFile 기술 설명](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf)
 * [ESRI ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 

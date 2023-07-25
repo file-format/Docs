@@ -43,7 +43,7 @@ Es kann auch andere optionale Dateien geben, die den gleichen Namen wie die Haup
 
 ## SHP-Dateiformatspezifikationen
 
-Offene Spezifikationen von Shapefiles sind online von ESRI in Form von [Technical Description](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) verfügbar und erläutern die Gesamtstruktur der Datei im Detail. Die Informationen in der .shp-Hauptdatei bestehen aus Headern und Datensätzen. Dem Dateiheader mit fester Länge folgen Datensätze mit variabler Länge, wobei jeder Datensatz aus einem Datensatzheader mit fester Länge besteht, gefolgt von Datensatzinhalten mit variabler Länge.
+Offene Spezifikationen von Shapefiles sind online von ESRI in Form von [Technical Description](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) verfügbar und erläutern die Gesamtstruktur der Datei im Detail. Die Informationen in der .shp-Hauptdatei bestehen aus Headern und Datensätzen. Dem Dateiheader mit fester Länge folgen Datensätze mit variabler Länge, wobei jeder Datensatz aus einem Datensatzheader mit fester Länge besteht, gefolgt von Datensatzinhalten mit variabler Länge.
 
 ### Header der Haupt-SHP-Datei
 
@@ -116,5 +116,5 @@ Beispiele für andere Formtypen finden Sie im technischen Beschreibungsdokument 
 
 ## Verweise ##
 
-* [ESRI Shapefile Technical Description](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) von ESRI
+* [ESRI Shapefile Technical Description](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) von ESRI
 

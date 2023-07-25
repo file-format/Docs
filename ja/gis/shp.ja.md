@@ -43,7 +43,7 @@ SHP は、ESRI Shapefile の表現に使用される主要なファイル タイ
 
 ## SHP ファイル形式の仕様
 
-シェープファイルのオープン仕様は、[技術説明](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) の形式で ESRI からオンラインで入手でき、ファイルの全体的な構造が詳細に説明されています。メイン .shp ファイルの情報は、ヘッダーとレコードで構成されます。固定長ファイル ヘッダーの後に可変長レコードが続きます。すべてのレコードは、固定長レコード ヘッダーとそれに続く可変長レコード コンテンツで構成されます。
+シェープファイルのオープン仕様は、[技術説明](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) の形式で ESRI からオンラインで入手でき、ファイルの全体的な構造が詳細に説明されています。メイン .shp ファイルの情報は、ヘッダーとレコードで構成されます。固定長ファイル ヘッダーの後に可変長レコードが続きます。すべてのレコードは、固定長レコード ヘッダーとそれに続く可変長レコード コンテンツで構成されます。
 
 ### メインの SHP ファイル ヘッダー
 
@@ -116,5 +116,5 @@ SHP は、ESRI Shapefile の表現に使用される主要なファイル タイ
 
 ## 参照 ##
 
-* [ESRI Shapefile Technical Description](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) by ESRI
+* [ESRI Shapefile Technical Description](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) by ESRI
 

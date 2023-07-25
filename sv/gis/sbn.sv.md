@@ -26,6 +26,6 @@ SBN-filer lagras på skiva som binära filer och information om deras interna fi
 
 ## Referenser
 
-* [ESRI ShapeFile teknisk beskrivning](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf)
+* [ESRI ShapeFile teknisk beskrivning](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf)
 * [ESRI ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 

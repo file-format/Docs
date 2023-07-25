@@ -26,6 +26,6 @@ Soubory SBN se ukládají na disk jako binární soubory a podrobnosti o jejich 
 
 ## Reference
 
-* [Technický popis ESRI ShapeFile](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf)
+* [Technický popis ESRI ShapeFile](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf)
 * [ESRI ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 

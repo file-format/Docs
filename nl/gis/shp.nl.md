@@ -43,7 +43,7 @@ Er kunnen ook andere optionele bestanden zijn die dezelfde naam hebben als het h
 
 ## Specificaties SHP-bestandsindeling
 
-Open specificaties van shapefile zijn online beschikbaar bij ESRI in de vorm van [Technische beschrijving](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) en werken de algemene structuur van het bestand in detail uit. De informatie in het hoofd-.shp-bestand bestaat uit headers en records. De bestandskop met een vaste lengte wordt gevolgd door records met een variabele lengte, waarbij elk record bestaat uit een recordkop met een vaste lengte, gevolgd door de inhoud van een record met een variabele lengte.
+Open specificaties van shapefile zijn online beschikbaar bij ESRI in de vorm van [Technische beschrijving](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) en werken de algemene structuur van het bestand in detail uit. De informatie in het hoofd-.shp-bestand bestaat uit headers en records. De bestandskop met een vaste lengte wordt gevolgd door records met een variabele lengte, waarbij elk record bestaat uit een recordkop met een vaste lengte, gevolgd door de inhoud van een record met een variabele lengte.
 
 ### Hoofd SHP-bestandskop
 
@@ -116,5 +116,5 @@ Voorbeelden van andere vormtypes zijn te vinden in het technische beschrijvingsd
 
 ## Referenties ##
 
-* [ESRI Shapefile technische beschrijving](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) door ESRI
+* [ESRI Shapefile technische beschrijving](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) door ESRI
 

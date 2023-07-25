@@ -43,7 +43,7 @@ Também pode haver outros arquivos opcionais que compartilhem o mesmo nome do ar
 
 ## Especificações de formato de arquivo SHP
 
-As especificações abertas do shapefile estão disponíveis online na ESRI na forma de [Technical Description](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) e elabora a estrutura geral do arquivo em detalhes. As informações no arquivo .shp principal consistem em cabeçalhos e registros. O cabeçalho do arquivo de tamanho fixo é seguido por registros de tamanho variável, onde cada registro é composto por um cabeçalho de registro de tamanho fixo seguido pelo conteúdo do registro de tamanho variável.
+As especificações abertas do shapefile estão disponíveis online na ESRI na forma de [Technical Description](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) e elabora a estrutura geral do arquivo em detalhes. As informações no arquivo .shp principal consistem em cabeçalhos e registros. O cabeçalho do arquivo de tamanho fixo é seguido por registros de tamanho variável, onde cada registro é composto por um cabeçalho de registro de tamanho fixo seguido pelo conteúdo do registro de tamanho variável.
 
 ### Cabeçalho do arquivo SHP principal
 
@@ -116,5 +116,5 @@ Exemplos de outros tipos de formas podem ser encontrados no documento de descri�
 
 ## Referências ##
 
-* [ESRI Shapefile Technical Description](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) por ESRI
+* [ESRI Shapefile Technical Description](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) por ESRI
 

@@ -43,7 +43,7 @@ Ana dosyayla aynı adı paylaşan başka isteğe bağlı dosyalar da olabilir.
 
 ## SHP Dosya Biçimi Özellikleri
 
-Şekil dosyasının açık belirtimleri, ESRI'den [Teknik Açıklama](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) biçiminde çevrimiçi olarak edinilebilir ve dosyanın genel yapısını ayrıntılı olarak açıklar. Ana .shp dosyasındaki bilgiler başlıklardan ve kayıtlardan oluşur. Sabit uzunluklu dosya başlığını, her kaydın sabit uzunluktaki bir kayıt başlığından ve ardından değişken uzunluktaki kayıt içeriklerinden oluştuğu değişken uzunluktaki kayıtlar izler.
+Şekil dosyasının açık belirtimleri, ESRI'den [Teknik Açıklama](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) biçiminde çevrimiçi olarak edinilebilir ve dosyanın genel yapısını ayrıntılı olarak açıklar. Ana .shp dosyasındaki bilgiler başlıklardan ve kayıtlardan oluşur. Sabit uzunluklu dosya başlığını, her kaydın sabit uzunluktaki bir kayıt başlığından ve ardından değişken uzunluktaki kayıt içeriklerinden oluştuğu değişken uzunluktaki kayıtlar izler.
 
 ### Ana SHP Dosya Başlığı
 
@@ -116,5 +116,5 @@ Diğer şekil türlerinin örnekleri ESRI teknik açıklama belgesinde bulunabil
 
 ## Referanslar ##
 
-* [ESRI Shapefile Teknik Açıklaması](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) by ESRI
+* [ESRI Shapefile Teknik Açıklaması](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) by ESRI
 

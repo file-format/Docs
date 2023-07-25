@@ -43,7 +43,7 @@ Pot exista și alte fișiere opționale care au același nume ca fișierul princ
 
 ## Specificații pentru formatul fișierului SHP
 
-Specificațiile deschise ale shapefile sunt disponibile online de la ESRI sub formă de [Descriere tehnică](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) și elaborează structura generală a fișierului în detaliu. Informațiile din fișierul principal .shp sunt formate din anteturi și înregistrări. Antetul fișierului cu lungime fixă este urmat de înregistrări cu lungime variabilă, unde fiecare înregistrare este alcătuită dintr-un antet cu lungime fixă urmat de conținutul înregistrării cu lungime variabilă.
+Specificațiile deschise ale shapefile sunt disponibile online de la ESRI sub formă de [Descriere tehnică](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) și elaborează structura generală a fișierului în detaliu. Informațiile din fișierul principal .shp sunt formate din anteturi și înregistrări. Antetul fișierului cu lungime fixă este urmat de înregistrări cu lungime variabilă, unde fiecare înregistrare este alcătuită dintr-un antet cu lungime fixă urmat de conținutul înregistrării cu lungime variabilă.
 
 ### Antet principal al fișierului SHP
 
@@ -116,5 +116,5 @@ Exemple de alte tipuri de forme pot fi găsite în documentul de descriere tehni
 
 ## Referințe ##
 
-* [ESRI Shapefile Technical Description](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) de către ESRI
+* [ESRI Shapefile Technical Description](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) de către ESRI
 

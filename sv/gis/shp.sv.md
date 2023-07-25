@@ -43,7 +43,7 @@ Det kan också finnas andra valfria filer som delar samma namn som huvudfilen.
 
 ## Specifikationer för SHP-filformat
 
-Öppna specifikationer för shapefile är tillgängliga online från ESRI i form av [Technical Description](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) och utarbetar filens övergripande struktur i detalj. Informationen i .shp-huvudfilen består av rubriker och poster. Filhuvudet med fast längd följs av poster med variabel längd där varje post består av ett posthuvud med fast längd följt av postinnehåll med variabel längd.
+Öppna specifikationer för shapefile är tillgängliga online från ESRI i form av [Technical Description](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) och utarbetar filens övergripande struktur i detalj. Informationen i .shp-huvudfilen består av rubriker och poster. Filhuvudet med fast längd följs av poster med variabel längd där varje post består av ett posthuvud med fast längd följt av postinnehåll med variabel längd.
 
 ### Huvudhuvud för SHP-fil
 
@@ -116,5 +116,5 @@ Exempel på andra formtyper finns i ESRI:s tekniska beskrivningsdokument.
 
 ## Referenser ##
 
-* [ESRI Shapefile Technical Description](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) av ESRI
+* [ESRI Shapefile Technical Description](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) av ESRI
 

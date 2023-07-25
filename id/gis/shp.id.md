@@ -43,7 +43,7 @@ Mungkin ada file opsional lain yang memiliki nama yang sama dengan file utama.
 
 ## Spesifikasi Format File SHP
 
-Spesifikasi terbuka shapefile tersedia online dari ESRI dalam bentuk [Deskripsi Teknis](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) dan menguraikan struktur keseluruhan file secara mendetail. Informasi dalam file .shp utama terdiri dari header dan record. Header file dengan panjang tetap diikuti oleh record dengan panjang variabel di mana setiap record terdiri dari header record dengan panjang tetap diikuti oleh isi record dengan panjang variabel.
+Spesifikasi terbuka shapefile tersedia online dari ESRI dalam bentuk [Deskripsi Teknis](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) dan menguraikan struktur keseluruhan file secara mendetail. Informasi dalam file .shp utama terdiri dari header dan record. Header file dengan panjang tetap diikuti oleh record dengan panjang variabel di mana setiap record terdiri dari header record dengan panjang tetap diikuti oleh isi record dengan panjang variabel.
 
 ### Header Berkas SHP Utama
 
@@ -116,5 +116,5 @@ Contoh jenis bentuk lainnya dapat ditemukan di dokumen deskripsi teknis ESRI.
 
 ## Referensi ##
 
-* [Deskripsi Teknis ESRI Shapefile](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) oleh ESRI
+* [Deskripsi Teknis ESRI Shapefile](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) oleh ESRI
 

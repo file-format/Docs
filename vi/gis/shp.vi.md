@@ -43,7 +43,7 @@ Cũng có thể có các tệp tùy chọn khác có cùng tên với tệp chí
 
 ## Thông số kỹ thuật định dạng tệp SHP
 
-Thông số kỹ thuật mở của shapefile có sẵn trực tuyến từ ESRI dưới dạng [Mô tả kỹ thuật](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) và giải thích chi tiết cấu trúc tổng thể của tệp. Thông tin trong tệp .shp chính bao gồm các tiêu đề và bản ghi. Tiêu đề tệp có độ dài cố định được theo sau bởi các bản ghi có độ dài thay đổi trong đó mọi bản ghi được tạo thành từ một tiêu đề bản ghi có độ dài cố định, theo sau là nội dung bản ghi có độ dài thay đổi.
+Thông số kỹ thuật mở của shapefile có sẵn trực tuyến từ ESRI dưới dạng [Mô tả kỹ thuật](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) và giải thích chi tiết cấu trúc tổng thể của tệp. Thông tin trong tệp .shp chính bao gồm các tiêu đề và bản ghi. Tiêu đề tệp có độ dài cố định được theo sau bởi các bản ghi có độ dài thay đổi trong đó mọi bản ghi được tạo thành từ một tiêu đề bản ghi có độ dài cố định, theo sau là nội dung bản ghi có độ dài thay đổi.
 
 ### Tiêu đề tệp SHP chính
 
@@ -116,5 +116,5 @@ Ví dụ về các loại hình dạng khác có thể được tìm thấy tron
 
 ## Người giới thiệu ##
 
-* [Mô tả kỹ thuật ESRI Shapefile](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) của ESRI
+* [Mô tả kỹ thuật ESRI Shapefile](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) của ESRI
 

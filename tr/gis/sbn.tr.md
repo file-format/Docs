@@ -26,6 +26,6 @@ SBN dosyaları diskte ikili dosyalar olarak saklanır ve dahili dosya formatı a
 
 ## Referanslar
 
-* [ESRI ShapeFile Teknik Açıklaması](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf)
+* [ESRI ShapeFile Teknik Açıklaması](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf)
 * [ESRI ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 

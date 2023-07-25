@@ -26,6 +26,6 @@ SBN 文件以二进制文件的形式存储到光盘中，并且它们的内部�
 
 ## 参考
 
-* [ESRI ShapeFile 技术说明](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf)
+* [ESRI ShapeFile 技术说明](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf)
 * [ESRI ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 
