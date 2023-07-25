@@ -63,6 +63,6 @@ A GML 1.0 és 2.0 a poligonokat, pontokat és vonallánc objektumokat a követke
 
 ## Referenciák ##
 
-* [GML-specifikációk](http://www.opengeospatial.org/standards/gml)
+* [GML-specifikációk](https://www.ogc.org/standard/gml/)
 * [GML – a Wikipedia által](https://en.wikipedia.org/wiki/Geography_Markup_Language)
 

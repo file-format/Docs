@@ -63,6 +63,6 @@ GML 1.0 y 2.0 codifican los objetos Polygons, Points y LineString de la siguient
 
 ## Referencias ##
 
-* [Especificaciones GML](http://www.opengeospatial.org/standards/gml)
+* [Especificaciones GML](https://www.ogc.org/standard/gml/)
 * [GML - Por Wikipedia](https://en.wikipedia.org/wiki/Geography_Markup_Language)
 

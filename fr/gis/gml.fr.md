@@ -63,6 +63,6 @@ GML 1.0 et 2.0 encodent les objets Polygones, Points et LineString comme suit :
 
 ## Références ##
 
-* [Spécifications GML](http://www.opengeospatial.org/standards/gml)
+* [Spécifications GML](https://www.ogc.org/standard/gml/)
 * [GML - Par Wikipédia](https://en.wikipedia.org/wiki/Geography_Markup_Language)
 

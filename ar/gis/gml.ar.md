@@ -63,6 +63,6 @@
 
 ## مراجع ##
 
-* [مواصفات GML](http://www.opengeospatial.org/standards/gml)
+* [مواصفات GML](https://www.ogc.org/standard/gml/)
 * [GML - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Geography_Markup_Language)
 

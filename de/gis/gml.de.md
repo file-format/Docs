@@ -63,6 +63,6 @@ GML 1.0 und 2.0 kodieren Polygone, Punkte und LineString-Objekte wie folgt:
 
 ## Verweise ##
 
-* [GML-Spezifikationen](http://www.opengeospatial.org/standards/gml)
+* [GML-Spezifikationen](https://www.ogc.org/standard/gml/)
 * [GML – Von Wikipedia](https://en.wikipedia.org/wiki/Geography_Markup_Language)
 

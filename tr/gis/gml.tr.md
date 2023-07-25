@@ -63,6 +63,6 @@ GML 1.0 ve 2.0, Poligonları, Noktaları ve LineString nesnelerini şu şekilde 
 
 ## Referanslar ##
 
-* [GML Spesifikasyonları](http://www.opengeospatial.org/standards/gml)
+* [GML Spesifikasyonları](https://www.ogc.org/standard/gml/)
 * [GML - Wikipedia Tarafından](https://en.wikipedia.org/wiki/Geography_Markup_Language)
 

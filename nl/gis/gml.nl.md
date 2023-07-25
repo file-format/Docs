@@ -63,6 +63,6 @@ GML 1.0 en 2.0 coderen objecten Polygons, Points en LineString als volgt:
 
 ## Referenties ##
 
-* [GML-specificaties](http://www.opengeospatial.org/standards/gml)
+* [GML-specificaties](https://www.ogc.org/standard/gml/)
 * [GML - Door Wikipedia](https://en.wikipedia.org/wiki/Geography_Markup_Language)
 

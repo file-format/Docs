@@ -63,6 +63,6 @@
 
 ## Βιβλιογραφικές αναφορές ##
 
-* [Προδιαγραφές GML](http://www.opengeospatial.org/standards/gml)
+* [Προδιαγραφές GML](https://www.ogc.org/standard/gml/)
 * [GML - By Wikipedia](https://en.wikipedia.org/wiki/Geography_Markup_Language)
 

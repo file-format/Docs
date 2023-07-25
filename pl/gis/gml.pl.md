@@ -63,6 +63,6 @@ GML 1.0 i 2.0 kodują wielokąty, punkty i obiekty LineString w następujący sp
 
 ## Bibliografia ##
 
-* [Specyfikacje GML](http://www.opengeospatial.org/standards/gml)
+* [Specyfikacje GML](https://www.ogc.org/standard/gml/)
 * [GML – z Wikipedii](https://en.wikipedia.org/wiki/Geography_Markup_Language)
 

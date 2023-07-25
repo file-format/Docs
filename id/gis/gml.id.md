@@ -63,6 +63,6 @@ GML 1.0 dan 2.0 menyandikan objek Poligon, Titik, dan LineString sebagai berikut
 
 ## Referensi ##
 
-* [Spesifikasi GML](http://www.opengeospatial.org/standards/gml)
+* [Spesifikasi GML](https://www.ogc.org/standard/gml/)
 * [GML - Oleh Wikipedia](https://en.wikipedia.org/wiki/Geography_Markup_Language)
 
