@@ -59,5 +59,5 @@ Pro podporu funkcí PDF/UA je vázána odpovídající asistenční technologie.
 ## Reference ##
 
 * [PDF/UA – z Wikipedie](https://en.wikipedia.org/wiki/PDF/UA)
-* [PDF/UA v kostce](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [PDF/UA v kostce](https://pdfa.org/pdfua-in-a-nutshell/)
 

@@ -59,5 +59,5 @@ PDF/UA 기능을 지원하기 위해 준수하는 보조 기술이 필요합니�
 ## 참조 ##
 
 * [PDF/UA - 위키피디아 작성](https://en.wikipedia.org/wiki/PDF/UA)
-* [PDF/UA 요약](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [PDF/UA 요약](https://pdfa.org/pdfua-in-a-nutshell/)
 

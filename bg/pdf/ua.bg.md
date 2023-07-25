@@ -59,5 +59,5 @@ PDF/UA има някои определени изисквания в основ
 ## Препратки ##
 
 * [PDF/UA - От Wikipedia](https://en.wikipedia.org/wiki/PDF/UA)
-* [PDF/UA накратко](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [PDF/UA накратко](https://pdfa.org/pdfua-in-a-nutshell/)
 

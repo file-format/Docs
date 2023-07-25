@@ -59,5 +59,5 @@ PDF/UA มีข้อกำหนดที่ชัดเจนซึ่งท�
 ## อ้างอิง ##
 
 * [PDF/UA - โดย Wikipedia](https://en.wikipedia.org/wiki/PDF/UA)
-* [สรุป PDF/UA](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [สรุป PDF/UA](https://pdfa.org/pdfua-in-a-nutshell/)
 

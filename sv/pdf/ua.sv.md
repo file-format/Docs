@@ -59,5 +59,5 @@ En överensstämmande hjälpmedelsteknik är bunden för att stödja PDF/UA-funk
 ## Referenser ##
 
 * [PDF/UA - Av Wikipedia](https://en.wikipedia.org/wiki/PDF/UA)
-* [PDF/UA i ett nötskal](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [PDF/UA i ett nötskal](https://pdfa.org/pdfua-in-a-nutshell/)
 

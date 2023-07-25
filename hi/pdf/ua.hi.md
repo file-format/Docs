@@ -59,5 +59,5 @@ PDF/UA को अगस्त 2012 में [ISO Standard 14289-1](https://en.w
 ## संदर्भ ##
 
 * [पीडीएफ/यूए - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/PDF/UA)
-* [पीडीएफ/यूए संक्षेप में](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [पीडीएफ/यूए संक्षेप में](https://pdfa.org/pdfua-in-a-nutshell/)
 

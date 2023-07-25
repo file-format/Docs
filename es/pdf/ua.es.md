@@ -59,5 +59,5 @@ Una tecnología de asistencia conforme está destinada a soportar las caracterí
 ## Referencias ##
 
 * [PDF/UA - Por Wikipedia](https://en.wikipedia.org/wiki/PDF/UA)
-* [PDF/UA en pocas palabras](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [PDF/UA en pocas palabras](https://pdfa.org/pdfua-in-a-nutshell/)
 

@@ -59,5 +59,5 @@
 ## Βιβλιογραφικές αναφορές ##
 
 * [PDF/UA - Από τη Wikipedia](https://en.wikipedia.org/wiki/PDF/UA)
-* [PDF/UA με λίγα λόγια](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [PDF/UA με λίγα λόγια](https://pdfa.org/pdfua-in-a-nutshell/)
 

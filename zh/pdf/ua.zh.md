@@ -59,5 +59,5 @@ PDF/UA 标准定义了内容、阅读器和辅助技术的规范。这三个方�
 ## 参考 ＃＃
 
 * [PDF/UA - 维基百科](https://en.wikipedia.org/wiki/PDF/UA)
-* [简而言之 PDF/UA](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [简而言之 PDF/UA](https://pdfa.org/pdfua-in-a-nutshell/)
 

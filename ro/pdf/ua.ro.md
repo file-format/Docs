@@ -59,5 +59,5 @@ O tehnologie de asistență conformă este obligată să accepte caracteristicil
 ## Referințe ##
 
 * [PDF/UA - Prin Wikipedia](https://en.wikipedia.org/wiki/PDF/UA)
-* [PDF/UA pe scurt](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [PDF/UA pe scurt](https://pdfa.org/pdfua-in-a-nutshell/)
 

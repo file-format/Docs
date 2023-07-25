@@ -59,5 +59,5 @@ Er is een conforme ondersteunende technologie nodig om de PDF/UA-functies te ond
 ## Referenties ##
 
 * [PDF/UA - Door Wikipedia](https://en.wikipedia.org/wiki/PDF/UA)
-* [PDF/UA in een notendop](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [PDF/UA in een notendop](https://pdfa.org/pdfua-in-a-nutshell/)
 

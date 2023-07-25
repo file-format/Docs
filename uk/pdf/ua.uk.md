@@ -59,5 +59,5 @@ PDF/UA було опубліковано як [стандарт ISO 14289-1](htt
 ## Посилання ##
 
 * [PDF/UA - Вікіпедія](https://en.wikipedia.org/wiki/PDF/UA)
-* [Коротко PDF/UA](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [Коротко PDF/UA](https://pdfa.org/pdfua-in-a-nutshell/)
 

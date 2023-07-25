@@ -59,5 +59,5 @@ PDF/UA פורסם כ-[ISO Standard 14289-1](https://en.wikipedia.org/wiki/ISO_14
 ## הפניות ##
 
 * [PDF/UA - מאת ויקיפדיה](https://en.wikipedia.org/wiki/PDF/UA)
-* [PDF/UA בקצרה](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [PDF/UA בקצרה](https://pdfa.org/pdfua-in-a-nutshell/)
 

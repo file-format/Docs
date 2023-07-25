@@ -59,5 +59,5 @@ PDF/UA имеет в своей основе определенные требо
 ## Использованная литература ##
 
 * [PDF/UA - По Википедии](https://en.wikipedia.org/wiki/PDF/UA)
-* [PDF/UA в двух словах](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [PDF/UA в двух словах](https://pdfa.org/pdfua-in-a-nutshell/)
 

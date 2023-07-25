@@ -59,5 +59,5 @@ Zgodna technologia wspomagająca jest zobowiązana do obsługi funkcji PDF/UA. O
 ## Bibliografia ##
 
 * [PDF/UA – z Wikipedii](https://en.wikipedia.org/wiki/PDF/UA)
-* [PDF/UA w pigułce](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [PDF/UA w pigułce](https://pdfa.org/pdfua-in-a-nutshell/)
 

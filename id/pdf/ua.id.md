@@ -59,5 +59,5 @@ Teknologi bantuan yang sesuai terikat untuk mendukung fitur PDF/UA. Ini termasuk
 ## Referensi ##
 
 * [PDF/UA - Oleh Wikipedia](https://en.wikipedia.org/wiki/PDF/UA)
-* [PDF/UA singkatnya](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [PDF/UA singkatnya](https://pdfa.org/pdfua-in-a-nutshell/)
 

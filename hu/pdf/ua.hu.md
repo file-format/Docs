@@ -59,5 +59,5 @@ Egy megfelelő kisegítő technológia szükséges a PDF/UA funkciók támogatá
 ## Referenciák ##
 
 * [PDF/UA – a Wikipédia által](https://en.wikipedia.org/wiki/PDF/UA)
-* [PDF/UA dióhéjban](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [PDF/UA dióhéjban](https://pdfa.org/pdfua-in-a-nutshell/)
 

@@ -59,5 +59,5 @@ Una tecnologia assistiva conforme è destinata a supportare le funzionalità PDF
 ## Riferimenti ##
 
 * [PDF/UA - Di Wikipedia](https://en.wikipedia.org/wiki/PDF/UA)
-* [PDF/UA in breve](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [PDF/UA in breve](https://pdfa.org/pdfua-in-a-nutshell/)
 

@@ -59,5 +59,5 @@ PDF/UA 機能をサポートするには、適合する支援技術が必要で�
 ## 参照 ##
 
 * [PDF/UA - ウィキペディアによる](https://en.wikipedia.org/wiki/PDF/UA)
-* [PDF/UA の概要](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [PDF/UA の概要](https://pdfa.org/pdfua-in-a-nutshell/)
 

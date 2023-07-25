@@ -59,5 +59,5 @@ Uma tecnologia assistiva compatível é destinada ao suporte aos recursos PDF/UA
 ## Referências ##
 
 * [PDF/UA - Por Wikipedia](https://en.wikipedia.org/wiki/PDF/UA)
-* [PDF/UA em poucas palavras](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [PDF/UA em poucas palavras](https://pdfa.org/pdfua-in-a-nutshell/)
 

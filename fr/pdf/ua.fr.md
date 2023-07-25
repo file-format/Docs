@@ -59,5 +59,5 @@ Une technologie d'assistance conforme est destinée à prendre en charge les fon
 ## Références ##
 
 * [PDF/UA - Par Wikipédia](https://en.wikipedia.org/wiki/PDF/UA)
-* [PDF/UA en bref](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [PDF/UA en bref](https://pdfa.org/pdfua-in-a-nutshell/)
 

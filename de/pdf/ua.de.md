@@ -59,5 +59,5 @@ Zur Unterstützung der PDF/UA-Features ist eine konforme Hilfstechnologie zwinge
 ## Verweise ##
 
 * [PDF/UA - Von Wikipedia](https://en.wikipedia.org/wiki/PDF/UA)
-* [PDF/UA in Kürze](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [PDF/UA in Kürze](https://pdfa.org/pdfua-in-a-nutshell/)
 

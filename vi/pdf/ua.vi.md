@@ -59,5 +59,5 @@ Một công nghệ hỗ trợ phù hợp bị ràng buộc để hỗ trợ các
 ## Người giới thiệu ##
 
 * [PDF/UA - Theo Wikipedia](https://en.wikipedia.org/wiki/PDF/UA)
-* [Tóm tắt PDF/UA](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [Tóm tắt PDF/UA](https://pdfa.org/pdfua-in-a-nutshell/)
 
