@@ -23,7 +23,7 @@ JPM hänvisar till JPEG 2000 bildkodningssystem del 6 som används för dokument
 
 ## JPM filformat
 
-JPM-filformatet definieras av [ISO/IEC 15444-6:2003](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=61124) -- JPEG 2000-bilden kodningssystem -- Del 6: Sammansatt bildfilformat. En sammansatt bild kan innehålla skannade bilder, syntetiska bilder eller båda, vilket kräver en blandning av kontinuerlig ton och tvånivåkomprimeringsmetoder. JPM-filformatet definierar en kompositionsmodell som beskriver metoden för att kombinera flera bilder för att generera en sammansatt bild med hjälp av multi-layer Mixed Raster Content (MRC) avbildningsmodell, definierad i ITU-T T.44 | ISO/IEC 16485.
+JPM-filformatet definieras av [ISO/IEC 15444-6:2003](https://www.iso.org/standard/61124.html) -- JPEG 2000-bilden kodningssystem -- Del 6: Sammansatt bildfilformat. En sammansatt bild kan innehålla skannade bilder, syntetiska bilder eller båda, vilket kräver en blandning av kontinuerlig ton och tvånivåkomprimeringsmetoder. JPM-filformatet definierar en kompositionsmodell som beskriver metoden för att kombinera flera bilder för att generera en sammansatt bild med hjälp av multi-layer Mixed Raster Content (MRC) avbildningsmodell, definierad i ITU-T T.44 | ISO/IEC 16485.
 
 ### JPM-specifikationer
 JPM-filformatstandarden anger att den ska vara en binär behållare för att representera en sammansatt bild med vilken flera bilder kan kombineras till en enda bild. Den ställer in mekanismen för att gruppera flera bilder i en hierarki av layoutobjekt, sidor och sidsamlingar för att lagra JPEG 2000 och andra komprimerade bilddataformat. Formatet inkluderar mekanismen för att införliva metadata (ofta kallad strukturell metadata i digitala biblioteksprojekt).
@@ -31,6 +31,6 @@ JPM-filformatstandarden anger att den ska vara en binär behållare för att rep
 ## Referenser
 
 * [ITU-T Rec. T.805](http://www.itu.int/rec/T-REC-T.805/en)
-* [ISO/IEC 15444-6:2013](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=61124)
+* [ISO/IEC 15444-6:2013](https://www.iso.org/standard/61124.html)
 * [Wikipedia:JPEG 2000](https://en.wikipedia.org/wiki/JPEG_2000)
 

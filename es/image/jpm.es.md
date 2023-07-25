@@ -23,7 +23,7 @@ JPM se refiere al sistema de codificación de imágenes JPEG 2000, Parte 6, que 
 
 ## Formato de archivo JPM
 
-El formato de archivo JPM está definido por [ISO/IEC 15444-6:2003](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=61124) -- la imagen JPEG 2000 sistema de codificación -- Parte 6: Formato de archivo de imagen compuesto. Una imagen compuesta puede contener imágenes escaneadas, imágenes sintéticas o ambas, lo que requiere una combinación de métodos de compresión de tono continuo y de dos niveles. El formato de archivo JPM define un modelo de composición que describe el método de combinación de varias imágenes para generar una imagen compuesta utilizando el modelo de imágenes de contenido de ráster mixto (MRC) de múltiples capas, definido en ITU-T T.44 | ISO/CEI 16485.
+El formato de archivo JPM está definido por [ISO/IEC 15444-6:2003](https://www.iso.org/standard/61124.html) -- la imagen JPEG 2000 sistema de codificación -- Parte 6: Formato de archivo de imagen compuesto. Una imagen compuesta puede contener imágenes escaneadas, imágenes sintéticas o ambas, lo que requiere una combinación de métodos de compresión de tono continuo y de dos niveles. El formato de archivo JPM define un modelo de composición que describe el método de combinación de varias imágenes para generar una imagen compuesta utilizando el modelo de imágenes de contenido de ráster mixto (MRC) de múltiples capas, definido en ITU-T T.44 | ISO/CEI 16485.
 
 ### Especificaciones JPM
 El estándar de formato de archivo JPM especifica que es un contenedor binario para representar una imagen compuesta mediante la cual varias imágenes se pueden combinar en una sola imagen. Establece el mecanismo para agrupar varias imágenes en una jerarquía de objetos de diseño, páginas y colecciones de páginas para almacenar JPEG 2000 y otros formatos de datos de imágenes comprimidas. El formato incluye el mecanismo de incorporación de metadatos (a menudo denominados metadatos estructurales en proyectos de bibliotecas digitales).
@@ -31,6 +31,6 @@ El estándar de formato de archivo JPM especifica que es un contenedor binario p
 ## Referencias
 
 * [Rec. UIT-T. T.805](http://www.itu.int/rec/T-REC-T.805/en)
-* [ISO/IEC 15444-6:2013](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=61124)
+* [ISO/IEC 15444-6:2013](https://www.iso.org/standard/61124.html)
 * [Wikipedia:JPEG 2000](https://en.wikipedia.org/wiki/JPEG_2000)
 

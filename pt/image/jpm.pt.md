@@ -23,7 +23,7 @@ JPM refere-se ao sistema de codificação de imagem JPEG 2000 Parte 6, que é us
 
 ## Formato de arquivo JPM
 
-O formato de arquivo JPM é definido por [ISO/IEC 15444-6:2003](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=61124) -- a imagem JPEG 2000 sistema de codificação -- Parte 6: Formato de arquivo de imagem composto. Uma imagem composta pode conter imagens digitalizadas, imagens sintéticas ou ambas, exigindo uma combinação de métodos de compactação de tom contínuo e de dois níveis. O formato de arquivo JPM define um modelo de composição que descreve o método de combinação de várias imagens para gerar uma imagem composta usando o modelo de imagem MRC (Mixed Raster Content) de várias camadas, definido em ITU-T T.44 | ISO/IEC 16485.
+O formato de arquivo JPM é definido por [ISO/IEC 15444-6:2003](https://www.iso.org/standard/61124.html) -- a imagem JPEG 2000 sistema de codificação -- Parte 6: Formato de arquivo de imagem composto. Uma imagem composta pode conter imagens digitalizadas, imagens sintéticas ou ambas, exigindo uma combinação de métodos de compactação de tom contínuo e de dois níveis. O formato de arquivo JPM define um modelo de composição que descreve o método de combinação de várias imagens para gerar uma imagem composta usando o modelo de imagem MRC (Mixed Raster Content) de várias camadas, definido em ITU-T T.44 | ISO/IEC 16485.
 
 ### Especificações JPM
 O padrão de formato de arquivo JPM o especifica como um contêiner binário para representar uma imagem composta pela qual várias imagens podem ser combinadas em uma única imagem. Ele define o mecanismo para agrupar várias imagens em uma hierarquia de objetos de layout, páginas e coleções de páginas para armazenar JPEG 2000 e outros formatos de dados de imagem compactados. O formato inclui o mecanismo de incorporação de metadados (muitas vezes referido como metadados estruturais em projetos de bibliotecas digitais).
@@ -31,6 +31,6 @@ O padrão de formato de arquivo JPM o especifica como um contêiner binário par
 ## Referências
 
 * [ITU-T Rec. T.805](http://www.itu.int/rec/T-REC-T.805/en)
-* [ISO/IEC 15444-6:2013](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=61124)
+* [ISO/IEC 15444-6:2013](https://www.iso.org/standard/61124.html)
 * [Wikipedia:JPEG 2000](https://en.wikipedia.org/wiki/JPEG_2000)
 

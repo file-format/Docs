@@ -23,7 +23,7 @@ JPM verwijst naar het JPEG 2000-beeldcoderingssysteem Deel 6 dat wordt gebruikt 
 
 ## JPM-bestandsindeling
 
-Het JPM-bestandsformaat wordt gedefinieerd door [ISO/IEC 15444-6:2003](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=61124) -- de JPEG 2000-afbeelding coderingssysteem -- Deel 6: Samengesteld beeldbestandsformaat. Een samengestelde afbeelding kan gescande afbeeldingen, synthetische afbeeldingen of beide bevatten, waarvoor een combinatie van continue toon- en bi-level compressiemethoden nodig zijn. Het JPM-bestandsformaat definieert een compositiemodel dat de methode beschrijft voor het combineren van meerdere afbeeldingen om een samengestelde afbeelding te genereren met behulp van het multi-layer Mixed Raster Content (MRC) beeldvormingsmodel, gedefinieerd in ITU-T T.44 | ISO/IEC16485.
+Het JPM-bestandsformaat wordt gedefinieerd door [ISO/IEC 15444-6:2003](https://www.iso.org/standard/61124.html) -- de JPEG 2000-afbeelding coderingssysteem -- Deel 6: Samengesteld beeldbestandsformaat. Een samengestelde afbeelding kan gescande afbeeldingen, synthetische afbeeldingen of beide bevatten, waarvoor een combinatie van continue toon- en bi-level compressiemethoden nodig zijn. Het JPM-bestandsformaat definieert een compositiemodel dat de methode beschrijft voor het combineren van meerdere afbeeldingen om een samengestelde afbeelding te genereren met behulp van het multi-layer Mixed Raster Content (MRC) beeldvormingsmodel, gedefinieerd in ITU-T T.44 | ISO/IEC16485.
 
 ### JPM-specificaties
 De JPM-bestandsindelingsstandaard specificeert dat het een binaire container is om een samengestelde afbeelding weer te geven waarmee meerdere afbeeldingen kunnen worden gecombineerd tot een enkele afbeelding. Het stelt het mechanisme in voor het groeperen van meerdere afbeeldingen in een hiërarchie van lay-outobjecten, pagina's en paginaverzamelingen om JPEG 2000 en andere gecomprimeerde afbeeldingsgegevensformaten op te slaan. Het formaat omvat het mechanisme van het opnemen van metadata (vaak aangeduid als structurele metadata in digitale bibliotheekprojecten).
@@ -31,6 +31,6 @@ De JPM-bestandsindelingsstandaard specificeert dat het een binaire container is 
 ## Referenties
 
 * [ITU-T Rec. T.805](http://www.itu.int/rec/T-REC-T.805/en)
-* [ISO/IEC 15444-6:2013](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=61124)
+* [ISO/IEC 15444-6:2013](https://www.iso.org/standard/61124.html)
 * [Wikipedia:JPEG 2000](https://en.wikipedia.org/wiki/JPEG_2000)
 
