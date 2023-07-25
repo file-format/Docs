@@ -81,6 +81,6 @@ Metadane strukturalne mają fundamentalne znaczenie w pliku MXF, ponieważ zawie
 ## Bibliografia
 
 * [MXF – Wikipedia](https://en.wikipedia.org/wiki/Material_Exchange_Format)
-* [MXF — raport z postępów](http://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
+* [MXF — raport z postępów](https://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
 * [Biblioteka OpenSource C++ dla MXF](http://www.freemxf.org/)
 

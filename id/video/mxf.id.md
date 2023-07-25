@@ -81,6 +81,6 @@ Metadata struktural sangat penting dalam file MXF karena berisi informasi bergun
 ## Referensi
 
 * [MXF - Wikipedia](https://en.wikipedia.org/wiki/Material_Exchange_Format)
-* [MXF - Laporan Kemajuan](http://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
+* [MXF - Laporan Kemajuan](https://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
 * [OpenSource C++ Library untuk MXF](http://www.freemxf.org/)
 

@@ -81,6 +81,6 @@ Yapısal meta veriler, dosyanın içeriği hakkında yararlı bilgiler içerdiğ
 ## Referanslar
 
 * [MXF - Wikipedia](https://en.wikipedia.org/wiki/Material_Exchange_Format)
-* [MXF - İlerleme Raporu](http://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
+* [MXF - İlerleme Raporu](https://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
 * [MXF için OpenSource C++ Kitaplığı](http://www.freemxf.org/)
 

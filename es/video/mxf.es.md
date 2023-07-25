@@ -81,6 +81,6 @@ Los metadatos estructurales son fundamentales en un archivo MXF, ya que contiene
 ## Referencias
 
 * [MXF - Wikipedia](https://en.wikipedia.org/wiki/Material_Exchange_Format)
-* [MXF - Informe de progreso](http://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
+* [MXF - Informe de progreso](https://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
 * [Biblioteca OpenSource C++ para MXF](http://www.freemxf.org/)
 

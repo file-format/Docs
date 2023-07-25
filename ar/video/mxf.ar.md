@@ -81,6 +81,6 @@
 ## مراجع
 
 * [MXF - ويكيبيديا](https://en.wikipedia.org/wiki/Material_Exchange_Format)
-* [MXF - تقرير التقدم](http://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
+* [MXF - تقرير التقدم](https://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
 * [مكتبة OpenSource C ++ لـ MXF](http://www.freemxf.org/)
 

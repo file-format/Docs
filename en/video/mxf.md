@@ -81,5 +81,5 @@ Structural metadata is fundamental in an MXF file as it contains useful informat
 ## References
 
  * [MXF - Wikipedia](https://en.wikipedia.org/wiki/Material_Exchange_Format)
- * [MXF - Progress Report](http://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
+ * [MXF - Progress Report](https://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
  * [OpenSource C++ Library for MXF](http://www.freemxf.org/)

@@ -81,6 +81,6 @@ Strukturell metadata är grundläggande i en MXF-fil eftersom den innehåller an
 ## Referenser
 
 * [MXF - Wikipedia](https://en.wikipedia.org/wiki/Material_Exchange_Format)
-* [MXF - Framstegsrapport](http://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
+* [MXF - Framstegsrapport](https://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
 * [OpenSource C++ Library for MXF](http://www.freemxf.org/)
 

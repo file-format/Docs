@@ -81,6 +81,6 @@ Les métadonnées structurelles sont fondamentales dans un fichier MXF car elles
 ## Références
 
 * [MXF - Wikipédia](https://en.wikipedia.org/wiki/Material_Exchange_Format)
-* [MXF - Rapport d'avancement](http://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
+* [MXF - Rapport d'avancement](https://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
 * [Bibliothèque OpenSource C++ pour MXF](http://www.freemxf.org/)
 

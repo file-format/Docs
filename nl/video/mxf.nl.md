@@ -81,6 +81,6 @@ Structurele metadata is van fundamenteel belang in een MXF-bestand omdat het nut
 ## Referenties
 
 * [MXF - Wikipedia](https://en.wikipedia.org/wiki/Material_Exchange_Format)
-* [MXF - Voortgangsrapport](http://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
+* [MXF - Voortgangsrapport](https://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
 * [OpenSource C++-bibliotheek voor MXF](http://www.freemxf.org/)
 

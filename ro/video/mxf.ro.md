@@ -81,6 +81,6 @@ Metadatele structurale sunt fundamentale într-un fișier MXF, deoarece conțin 
 ## Referințe
 
 * [MXF - Wikipedia](https://en.wikipedia.org/wiki/Material_Exchange_Format)
-* [MXF - Raport de progres](http://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
+* [MXF - Raport de progres](https://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
 * [Biblioteca OpenSource C++ pentru MXF](http://www.freemxf.org/)
 

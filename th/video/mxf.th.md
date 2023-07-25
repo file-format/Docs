@@ -81,6 +81,6 @@
 ## อ้างอิง
 
 * [MXF - Wikipedia](https://en.wikipedia.org/wiki/Material_Exchange_Format)
-* [MXF - รายงานความคืบหน้า](http://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
+* [MXF - รายงานความคืบหน้า](https://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
 * [ไลบรารี OpenSource C++ สำหรับ MXF](http://www.freemxf.org/)
 

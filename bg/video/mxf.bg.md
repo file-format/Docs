@@ -81,6 +81,6 @@ MXF файловете всъщност са двоични файлове, ко
 ## Препратки
 
 * [MXF – Wikipedia](https://en.wikipedia.org/wiki/Material_Exchange_Format)
-* [MXF - Доклад за напредъка](http://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
+* [MXF - Доклад за напредъка](https://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
 * [Библиотека с отворен код C++ за MXF](http://www.freemxf.org/)
 
