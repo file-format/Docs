@@ -42,7 +42,7 @@ O padrão PDF/UA define especificações para conteúdo, leitores e tecnologia a
 
 ## Arquivos em conformidade ##
 
-Os arquivos em conformidade com o padrão PDF/UA devem conter recursos válidos de acordo com as [especificações do PDF 1.7](http://www.adobe.com/go/pdfreference). No entanto, os recursos que são proibidos especificamente pelo PDF/UA devem ser excluídos.
+Os arquivos em conformidade com o padrão PDF/UA devem conter recursos válidos de acordo com as [especificações do PDF 1.7](https://opensource.adobe.com/dc-acrobat-sdk-docs/standards/pdfstandards/pdf/PDF32000_2008.pdf). No entanto, os recursos que são proibidos especificamente pelo PDF/UA devem ser excluídos.
 
 ## Leitores em conformidade ##
 

@@ -42,7 +42,7 @@ Standard PDF/UA określa specyfikacje treści, czytników i technologii wspomaga
 
 ## Zgodność plików ##
 
-Pliki zgodne ze standardem PDF/UA powinny zawierać funkcje zgodne z [specyfikacją PDF 1.7](http://www.adobe.com/go/pdfreference). Należy jednak wykluczyć funkcje zabronione przez PDF/UA.
+Pliki zgodne ze standardem PDF/UA powinny zawierać funkcje zgodne z [specyfikacją PDF 1.7](https://opensource.adobe.com/dc-acrobat-sdk-docs/standards/pdfstandards/pdf/PDF32000_2008.pdf). Należy jednak wykluczyć funkcje zabronione przez PDF/UA.
 
 ## Zgodni czytelnicy ##
 

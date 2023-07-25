@@ -42,7 +42,7 @@ PDF/UA standardı, içerik, okuyucular ve yardımcı teknoloji için özellikler
 
 ## Uygun Dosyalar ##
 
-PDF/UA standardına uygun dosyalar, [PDF 1.7 belirtimlerine](http://www.adobe.com/go/pdfreference) göre geçerli olan özellikleri içermelidir. Ancak, PDF/UA tarafından özel olarak yasaklanan özellikler hariç tutulmalıdır.
+PDF/UA standardına uygun dosyalar, [PDF 1.7 belirtimlerine](https://opensource.adobe.com/dc-acrobat-sdk-docs/standards/pdfstandards/pdf/PDF32000_2008.pdf) göre geçerli olan özellikleri içermelidir. Ancak, PDF/UA tarafından özel olarak yasaklanan özellikler hariç tutulmalıdır.
 
 ## Uyumlu Okuyucular ##
 

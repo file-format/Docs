@@ -42,7 +42,7 @@ PDF/UA פורסם כ-[ISO Standard 14289-1](https://en.wikipedia.org/wiki/ISO_14
 
 ## תואם קבצים ##
 
-קבצים התואמים לתקן PDF/UA צריכים להכיל תכונות שתקפות לפי [מפרט PDF 1.7](http://www.adobe.com/go/pdfreference). עם זאת, יש לא לכלול תכונות האסורות על ידי PDF/UA ספציפית.
+קבצים התואמים לתקן PDF/UA צריכים להכיל תכונות שתקפות לפי [מפרט PDF 1.7](https://opensource.adobe.com/dc-acrobat-sdk-docs/standards/pdfstandards/pdf/PDF32000_2008.pdf). עם זאת, יש לא לכלול תכונות האסורות על ידי PDF/UA ספציפית.
 
 ## קוראים תואמים ##
 

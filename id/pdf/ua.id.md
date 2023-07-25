@@ -42,7 +42,7 @@ Standar PDF/UA menetapkan spesifikasi untuk konten, pembaca, dan teknologi bantu
 
 ## File yang Sesuai ##
 
-File yang sesuai dengan standar PDF/UA harus berisi fitur yang valid sesuai [spesifikasi PDF 1.7](http://www.adobe.com/go/pdfreference). Namun, fitur yang secara khusus dilarang oleh PDF/UA harus dikecualikan.
+File yang sesuai dengan standar PDF/UA harus berisi fitur yang valid sesuai [spesifikasi PDF 1.7](https://opensource.adobe.com/dc-acrobat-sdk-docs/standards/pdfstandards/pdf/PDF32000_2008.pdf). Namun, fitur yang secara khusus dilarang oleh PDF/UA harus dikecualikan.
 
 ## Pembaca yang Sesuai ##
 

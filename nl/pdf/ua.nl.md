@@ -42,7 +42,7 @@ De PDF/UA-standaard definieert specificaties voor inhoud, lezers en ondersteunen
 
 ## Conforme bestanden ##
 
-Bestanden die voldoen aan de PDF/UA-standaard moeten functies bevatten die geldig zijn volgens de [PDF 1.7-specificaties](http://www.adobe.com/go/pdfreference). Functies die specifiek door PDF/UA zijn verboden, moeten echter worden uitgesloten.
+Bestanden die voldoen aan de PDF/UA-standaard moeten functies bevatten die geldig zijn volgens de [PDF 1.7-specificaties](https://opensource.adobe.com/dc-acrobat-sdk-docs/standards/pdfstandards/pdf/PDF32000_2008.pdf). Functies die specifiek door PDF/UA zijn verboden, moeten echter worden uitgesloten.
 
 ## Conforme Lezers ##
 

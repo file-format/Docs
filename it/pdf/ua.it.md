@@ -42,7 +42,7 @@ Lo standard PDF/UA definisce le specifiche per contenuto, lettori e tecnologia a
 
 ## File conformi ##
 
-I file conformi allo standard PDF/UA devono contenere funzionalità valide secondo le [specifiche PDF 1.7](http://www.adobe.com/go/pdfreference). Tuttavia, le funzionalità vietate da PDF/UA in particolare dovrebbero essere escluse.
+I file conformi allo standard PDF/UA devono contenere funzionalità valide secondo le [specifiche PDF 1.7](https://opensource.adobe.com/dc-acrobat-sdk-docs/standards/pdfstandards/pdf/PDF32000_2008.pdf). Tuttavia, le funzionalità vietate da PDF/UA in particolare dovrebbero essere escluse.
 
 ## Lettori conformi ##
 

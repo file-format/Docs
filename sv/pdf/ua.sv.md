@@ -42,7 +42,7 @@ PDF/UA-standarden definierar specifikationer för innehåll, läsare och hjälpm
 
 ## Överensstämmande filer ##
 
-Filer som överensstämmer med PDF/UA-standarden bör innehålla funktioner som är giltiga enligt [PDF 1.7-specifikationerna](http://www.adobe.com/go/pdfreference). Funktioner som är förbjudna av PDF/UA specifikt bör dock uteslutas.
+Filer som överensstämmer med PDF/UA-standarden bör innehålla funktioner som är giltiga enligt [PDF 1.7-specifikationerna](https://opensource.adobe.com/dc-acrobat-sdk-docs/standards/pdfstandards/pdf/PDF32000_2008.pdf). Funktioner som är förbjudna av PDF/UA specifikt bör dock uteslutas.
 
 ## Konforma läsare ##
 

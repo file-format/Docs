@@ -42,7 +42,7 @@ A PDF/UA szabvány meghatározza a tartalom, az olvasók és a kisegítő techno
 
 ## Megfelelő fájlok ##
 
-A PDF/UA szabványnak megfelelő fájloknak tartalmazniuk kell a [PDF 1.7 specifikációi](http://www.adobe.com/go/pdfreference) szerint érvényes funkciókat. A PDF/UA által kifejezetten tiltott funkciókat azonban ki kell zárni.
+A PDF/UA szabványnak megfelelő fájloknak tartalmazniuk kell a [PDF 1.7 specifikációi](https://opensource.adobe.com/dc-acrobat-sdk-docs/standards/pdfstandards/pdf/PDF32000_2008.pdf) szerint érvényes funkciókat. A PDF/UA által kifejezetten tiltott funkciókat azonban ki kell zárni.
 
 ## Megfelelő olvasók ##
 

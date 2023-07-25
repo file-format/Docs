@@ -42,7 +42,7 @@ Der PDF/UA-Standard definiert Spezifikationen für Inhalte, Lesegeräte und unte
 
 ## Konforme Dateien ##
 
-Dateien, die dem PDF/UA-Standard entsprechen, sollten Funktionen enthalten, die gemäß den [PDF 1.7-Spezifikationen](http://www.adobe.com/go/pdfreference) gültig sind. Allerdings sollten Features ausgeschlossen werden, die PDF/UA ausdrücklich verbietet.
+Dateien, die dem PDF/UA-Standard entsprechen, sollten Funktionen enthalten, die gemäß den [PDF 1.7-Spezifikationen](https://opensource.adobe.com/dc-acrobat-sdk-docs/standards/pdfstandards/pdf/PDF32000_2008.pdf) gültig sind. Allerdings sollten Features ausgeschlossen werden, die PDF/UA ausdrücklich verbietet.
 
 ## Konforme Lesegeräte ##
 

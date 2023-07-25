@@ -42,7 +42,7 @@ Standardul PDF/UA definește specificațiile pentru conținut, cititori și tehn
 
 ## Fișiere conforme ##
 
-Fișierele conforme cu standardul PDF/UA ar trebui să conțină funcții care sunt valide conform [specificațiilor PDF 1.7](http://www.adobe.com/go/pdfreference). Cu toate acestea, funcțiile care sunt interzise în mod specific de PDF/UA ar trebui excluse.
+Fișierele conforme cu standardul PDF/UA ar trebui să conțină funcții care sunt valide conform [specificațiilor PDF 1.7](https://opensource.adobe.com/dc-acrobat-sdk-docs/standards/pdfstandards/pdf/PDF32000_2008.pdf). Cu toate acestea, funcțiile care sunt interzise în mod specific de PDF/UA ar trebui excluse.
 
 ## Cititori conformi ##
 

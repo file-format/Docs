@@ -42,7 +42,7 @@ PDF/UA 표준은 콘텐츠, 리더 및 보조 기술에 대한 사양을 정의�
 
 ## 준수 파일 ##
 
-PDF/UA 표준을 준수하는 파일에는 [PDF 1.7 사양](http://www.adobe.com/go/pdfreference)에 따라 유효한 기능이 포함되어야 합니다. 그러나 PDF/UA에서 특별히 금지하는 기능은 제외해야 합니다.
+PDF/UA 표준을 준수하는 파일에는 [PDF 1.7 사양](https://opensource.adobe.com/dc-acrobat-sdk-docs/standards/pdfstandards/pdf/PDF32000_2008.pdf)에 따라 유효한 기능이 포함되어야 합니다. 그러나 PDF/UA에서 특별히 금지하는 기능은 제외해야 합니다.
 
 ## 준수 독자 ##
 
