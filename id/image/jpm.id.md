@@ -30,7 +30,7 @@ Standar format file JPM menetapkannya sebagai wadah biner untuk mewakili gambar 
 
 ## Referensi
 
-* [ITU-T Rek. T.805](http://www.itu.int/rec/T-REC-T.805/en)
+* [ITU-T Rek. T.805](https://www.itu.int/rec/T-REC-T.805/en)
 * [ISO/IEC 15444-6:2013](https://www.iso.org/standard/61124.html)
 * [Wikipedia:JPEG 2000](https://en.wikipedia.org/wiki/JPEG_2000)
 

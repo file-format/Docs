@@ -30,7 +30,7 @@ JPM 文件格式标准将其指定为二进制容器来表示复合图像，通�
 
 ## 参考
 
-* [ITU-T 建议书。 T.805](http://www.itu.int/rec/T-REC-T.805/en)
+* [ITU-T 建议书。 T.805](https://www.itu.int/rec/T-REC-T.805/en)
 * [ISO/IEC 15444-6:2013](https://www.iso.org/standard/61124.html)
 * [维基百科：JPEG 2000](https://en.wikipedia.org/wiki/JPEG_2000)
 

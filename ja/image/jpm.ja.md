@@ -30,7 +30,7 @@ JPM ファイル形式標準では、複数の画像を 1 つの画像に結合�
 
 ## 参考文献
 
-* [ITU-T 勧告。 T.805](http://www.itu.int/rec/T-REC-T.805/en)
+* [ITU-T 勧告。 T.805](https://www.itu.int/rec/T-REC-T.805/en)
 * [ISO/IEC 15444-6:2013](https://www.iso.org/standard/61124.html)
 * [ウィキペディア:JPEG 2000](https://en.wikipedia.org/wiki/JPEG_2000)
 
