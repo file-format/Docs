@@ -38,18 +38,18 @@ Structura EMBEDDEDFONT a suferit trei revizuiri, cu adăugarea de date supliment
 |unsigned long|FontDataSize|Lungimea fontului OpenType (FontData) în octeți|
 |unsigned long|Versiune|Numărul versiunii acestui format - 0x00020002|
 |nesemnat lung|Steaguri|Steagme de procesare|
-|byte[10]|FontPANOSE|Valoarea PANOSE pentru acest font - Consultați http://www.microsoft.com/typography/otspec/os2.htm#pan|
+|byte[10]|FontPANOSE|Valoarea PANOSE pentru acest font - Consultați https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
 |byte|Charset|În Windows, acesta este derivat din TEXTMETRIC.tmCharSet. Această valoare specifică setul de caractere al fontului. DEFAULT_CHARSET (0x01) indică nicio preferință. - Consultați https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
-|byte|Italic|Dacă bitul pentru ITALIC este setat în OS/2.fsSelection, valoarea va fi 0x01 - Vezi http://www.microsoft.com/typography/otspec/os2.htm#fss|
-|unsigned long|Greutate|Valoarea greutății pentru acest font - Consultați http://www.microsoft.com/typography/otspec/os2.htm#wtc|
-|unsigned short|fsType|Type flags care oferă informații despre permisiunile de încorporare - Consultați http://www.microsoft.com/typography/otspec/os2.htm#fst|
+|byte|Italic|Dacă bitul pentru ITALIC este setat în OS/2.fsSelection, valoarea va fi 0x01 - Vezi https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss|
+|unsigned long|Greutate|Valoarea greutății pentru acest font - Consultați https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|
+|unsigned short|fsType|Type flags care oferă informații despre permisiunile de încorporare - Consultați https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|
 |scurt nesemnat|MagicNumber|Număr magic pentru fișierul EOT - 0x504C. Folosit pentru a verifica dacă datele sunt deteriorate.|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (biți 0-31) - Vezi http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (biții 32-63) - A se vedea http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (biți 64-95) - A se vedea http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (biții 96-127) - A se vedea http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|CodePageRange1|CodePageRange1 (biți 0-31) - Consultați http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CodePageRange2|CodePageRange2 (biții 32-63) - Consultați http://www.microsoft.com/typography/otspec/os2.htm#cpr|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (biți 0-31) - Vezi https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (biții 32-63) - A se vedea https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (biți 64-95) - A se vedea https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (biții 96-127) - A se vedea https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|CodePageRange1|CodePageRange1 (biți 0-31) - Consultați https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CodePageRange2|CodePageRange2 (biții 32-63) - Consultați https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
 |unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - Consultați https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Reserved1|Rezervat - trebuie să fie 0|
 |unsigned long|Reserved2|Rezervat - trebuie să fie 0|

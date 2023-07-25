@@ -38,18 +38,18 @@
 |ความยาวที่ไม่ได้ลงนาม|FontDataSize|ความยาวของแบบอักษร OpenType (FontData) ในหน่วยไบต์|
 |ความยาวที่ไม่ได้ลงนาม|เวอร์ชัน|หมายเลขเวอร์ชันของรูปแบบนี้ - 0x00020002|
 |ความยาวที่ไม่ได้ลงนาม|แฟล็ก|กำลังประมวลผลแฟล็ก|
-|byte[10]|FontPANOSE|ค่า PANOSE สำหรับฟอนต์นี้ - โปรดดูที่ http://www.microsoft.com/typography/otspec/os2.htm#pan|
+|byte[10]|FontPANOSE|ค่า PANOSE สำหรับฟอนต์นี้ - โปรดดูที่ https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
 |byte|Charset|ใน Windows สิ่งนี้ได้มาจาก TEXTMETRIC.tmCharSet ค่านี้ระบุชุดอักขระของฟอนต์ DEFAULT_CHARSET (0x01) ระบุว่าไม่มีการตั้งค่า - ดู https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
-|byte|Italic|หากตั้งค่าบิตสำหรับ ITALIC ใน OS/2.fsSelection ค่าจะเป็น 0x01 - โปรดดูที่ http://www.microsoft.com/typography/otspec/os2.htm#fss|
-|unsigned long|Weight|ค่าน้ำหนักสำหรับแบบอักษรนี้ - โปรดดูที่ http://www.microsoft.com/typography/otspec/os2.htm#wtc|
-|unsigned short|fsType|ธงประเภทที่ให้ข้อมูลเกี่ยวกับสิทธิ์ในการฝัง - โปรดดูที่ http://www.microsoft.com/typography/otspec/os2.htm#fst|
+|byte|Italic|หากตั้งค่าบิตสำหรับ ITALIC ใน OS/2.fsSelection ค่าจะเป็น 0x01 - โปรดดูที่ https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss|
+|unsigned long|Weight|ค่าน้ำหนักสำหรับแบบอักษรนี้ - โปรดดูที่ https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|
+|unsigned short|fsType|ธงประเภทที่ให้ข้อมูลเกี่ยวกับสิทธิ์ในการฝัง - โปรดดูที่ https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|
 |unsigned short|MagicNumber|Magic number สำหรับไฟล์ EOT - 0x504C. ใช้ในการตรวจสอบความเสียหายของข้อมูล|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (บิต 0-31) - ดู http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (บิต 32-63) - ดู http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (บิต 64-95) - ดู http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (บิต 96-127) - ดู http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|ความยาวที่ไม่ได้ลงนาม|CodePageRange1|CodePageRange1 (บิต 0-31) - ดู http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|ความยาวที่ไม่ได้ลงนาม|CodePageRange2|CodePageRange2 (บิต 32-63) - ดู http://www.microsoft.com/typography/otspec/os2.htm#cpr|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (บิต 0-31) - ดู https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (บิต 32-63) - ดู https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (บิต 64-95) - ดู https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (บิต 96-127) - ดู https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|ความยาวที่ไม่ได้ลงนาม|CodePageRange1|CodePageRange1 (บิต 0-31) - ดู https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|ความยาวที่ไม่ได้ลงนาม|CodePageRange2|CodePageRange2 (บิต 32-63) - ดู https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
 |ความยาวที่ไม่ได้ลงชื่อ|CheckSumAdjustment|head.CheckSumAdjustment - ดูที่ https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |ไม่ได้ลงนามยาว|สงวน1|สงวน - ต้องเป็น 0|
 |ไม่ได้ลงนามยาว|สงวน2|สงวน - ต้องเป็น 0|

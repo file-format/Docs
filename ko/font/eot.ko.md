@@ -38,18 +38,18 @@ EMBEDDEDFONT 구조는 세 번의 개정을 거쳤으며 각 개정과 함께 �
 |unsigned long|FontDataSize|OpenType 글꼴(FontData)의 길이(바이트)|
 |unsigned long|버전|이 형식의 버전 번호 - 0x00020002|
 |unsigned long|플래그|플래그 처리|
-|byte[10]|FontPANOSE|이 글꼴의 PANOSE 값 - 참조 http://www.microsoft.com/typography/otspec/os2.htm#pan|
+|byte[10]|FontPANOSE|이 글꼴의 PANOSE 값 - 참조 https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
 |byte|Charset|Windows에서 이것은 TEXTMETRIC.tmCharSet에서 파생됩니다. 이 값은 글꼴의 문자 집합을 지정합니다. DEFAULT_CHARSET(0x01)은 기본 설정이 없음을 나타냅니다. - 참조 https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
-|byte|기울임꼴|ITALIC에 대한 비트가 OS/2.fsSelection에서 설정되면 값은 0x01이 됩니다. - http://www.microsoft.com/typography/otspec/os2.htm#fss를 참조하십시오.
-|unsigned long|Weight|이 글꼴의 가중치 값 - http://www.microsoft.com/typography/otspec/os2.htm#wtc|를 참조하십시오.
-|unsigned short|fsType|권한 포함에 대한 정보를 제공하는 유형 플래그 - http://www.microsoft.com/typography/otspec/os2.htm#fst|를 참조하십시오.
+|byte|기울임꼴|ITALIC에 대한 비트가 OS/2.fsSelection에서 설정되면 값은 0x01이 됩니다. - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss를 참조하십시오.
+|unsigned long|Weight|이 글꼴의 가중치 값 - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|를 참조하십시오.
+|unsigned short|fsType|권한 포함에 대한 정보를 제공하는 유형 플래그 - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|를 참조하십시오.
 |unsigned short|MagicNumber|EOT 파일용 매직 넘버 - 0x504C. 데이터 손상을 확인하는 데 사용됩니다.|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1(비트 0-31) - http://www.microsoft.com/typography/otspec/os2.htm#ur| 참조
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2(비트 32-63) - http://www.microsoft.com/typography/otspec/os2.htm#ur| 참조
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3(비트 64-95) - http://www.microsoft.com/typography/otspec/os2.htm#ur| 참조
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4(비트 96-127) - http://www.microsoft.com/typography/otspec/os2.htm#ur| 참조
-|unsigned long|CodePageRange1|CodePageRange1(비트 0-31) - http://www.microsoft.com/typography/otspec/os2.htm#cpr| 참조
-|unsigned long|CodePageRange2|CodePageRange2(비트 32-63) - http://www.microsoft.com/typography/otspec/os2.htm#cpr| 참조
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1(비트 0-31) - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur| 참조
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2(비트 32-63) - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur| 참조
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3(비트 64-95) - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur| 참조
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4(비트 96-127) - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur| 참조
+|unsigned long|CodePageRange1|CodePageRange1(비트 0-31) - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr| 참조
+|unsigned long|CodePageRange2|CodePageRange2(비트 32-63) - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr| 참조
 |unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - 참조 https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Reserved1|Reserved - 0이어야 함|
 |unsigned long|Reserved2|Reserved - 0이어야 함|

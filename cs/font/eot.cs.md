@@ -38,18 +38,18 @@ Struktura EMBEDDEDFONT prošla třemi revizemi s přidáním dalších dat na ko
 |unsigned long|FontDataSize|Délka písma OpenType (FontData) v bajtech|
 |unsigned long|Verze|Číslo verze tohoto formátu - 0x00020002|
 |nepodepsané dlouhé|Příznaky|Zpracování příznaků|
-|byte[10]|FontPANOSE|Hodnota PANOSE pro toto písmo – viz http://www.microsoft.com/typography/otspec/os2.htm#pan|
+|byte[10]|FontPANOSE|Hodnota PANOSE pro toto písmo – viz https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
 |byte|Znaková sada|V systému Windows je odvozena z TEXTMETRIC.tmCharSet. Tato hodnota určuje znakovou sadu písma. DEFAULT_CHARSET (0x01) označuje žádnou preferenci. – Viz https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
-|byte|Italic|Pokud je bit pro ITALIC nastaven v OS/2.fsSelection, hodnota bude 0x01 – viz http://www.microsoft.com/typography/otspec/os2.htm#fss|
-|unsigned long|Weight|Hodnota váhy pro toto písmo – viz http://www.microsoft.com/typography/otspec/os2.htm#wtc|
-|nepodepsané short|fsType|Příznaky typu, které poskytují informace o oprávněních pro vkládání – viz http://www.microsoft.com/typography/otspec/os2.htm#fst|
+|byte|Italic|Pokud je bit pro ITALIC nastaven v OS/2.fsSelection, hodnota bude 0x01 – viz https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss|
+|unsigned long|Weight|Hodnota váhy pro toto písmo – viz https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|
+|nepodepsané short|fsType|Příznaky typu, které poskytují informace o oprávněních pro vkládání – viz https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|
 |nepodepsané zkratka|MagicNumber|Magické číslo pro soubor EOT - 0x504C. Používá se ke kontrole poškození dat.|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (bity 0-31) – viz http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (bity 32-63) – Viz http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (bity 64-95) – Viz http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bity 96-127) – Viz http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|CodePageRange1|CodePageRange1 (bity 0-31) – viz http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CodePageRange2|CodePageRange2 (bity 32-63) – viz http://www.microsoft.com/typography/otspec/os2.htm#cpr|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (bity 0-31) – viz https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (bity 32-63) – Viz https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (bity 64-95) – Viz https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bity 96-127) – Viz https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|CodePageRange1|CodePageRange1 (bity 0-31) – viz https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CodePageRange2|CodePageRange2 (bity 32-63) – viz https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
 |unsigned long|CheckSumAdjustment|head.CheckSumAdjustment – viz https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Reserved1|Reserved - musí být 0|
 |unsigned long|Reserved2|Reserved - musí být 0|

@@ -38,18 +38,18 @@
 |unsigned long|FontDataSize|Длина шрифта OpenType (FontData) в байтах|
 |unsigned long|Версия|Номер версии этого формата — 0x00020002|
 |unsigned long|Флаги|Флаги обработки|
-|byte[10]|FontPANOSE|Значение PANOSE для этого шрифта — см. http://www.microsoft.com/typography/otspec/os2.htm#pan|
+|byte[10]|FontPANOSE|Значение PANOSE для этого шрифта — см. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
 |byte|Charset|В Windows это производное от TEXTMETRIC.tmCharSet. Это значение определяет набор символов шрифта. DEFAULT_CHARSET (0x01) указывает отсутствие предпочтения. - См. https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
-|byte|Italic|Если в OS/2.fsSelection установлен бит для ITALIC, значение будет 0x01 — см. http://www.microsoft.com/typography/otspec/os2.htm#fss|
-|unsigned long|Weight|Значение веса для этого шрифта — см. http://www.microsoft.com/typography/otspec/os2.htm#wtc|
-|unsigned short|fsType|Типовые флаги, предоставляющие информацию о разрешениях на встраивание — см. http://www.microsoft.com/typography/otspec/os2.htm#fst|
+|byte|Italic|Если в OS/2.fsSelection установлен бит для ITALIC, значение будет 0x01 — см. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss|
+|unsigned long|Weight|Значение веса для этого шрифта — см. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|
+|unsigned short|fsType|Типовые флаги, предоставляющие информацию о разрешениях на встраивание — см. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|
 |unsigned short|MagicNumber|Magic number для файла EOT — 0x504C. Используется для проверки на повреждение данных.|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (биты 0–31) — см. http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (биты 32–63) — см. http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (биты 64–95) — см. http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (биты 96–127) — см. http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|CodePageRange1|CodePageRange1 (биты 0–31) — см. http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CodePageRange2|CodePageRange2 (биты 32–63) — см. http://www.microsoft.com/typography/otspec/os2.htm#cpr|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (биты 0–31) — см. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (биты 32–63) — см. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (биты 64–95) — см. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (биты 96–127) — см. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|CodePageRange1|CodePageRange1 (биты 0–31) — см. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CodePageRange2|CodePageRange2 (биты 32–63) — см. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
 |unsigned long|CheckSumAdjustment|head.CheckSumAdjustment — см. https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Reserved1|Reserved — должно быть 0|
 |unsigned long|Reserved2|Reserved — должно быть 0|

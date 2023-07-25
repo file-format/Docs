@@ -38,18 +38,18 @@ Az EMBEDDEDFONT struktúra három felülvizsgálaton esett át, és minden egyes
 |unsigned long|FontDataSize|Az OpenType betűtípus hossza (FontData) bájtban|
 |unsigned long|Verzió|Ennek a formátumnak a verziószáma - 0x00020002|
 |aláíratlan hosszú|Zászlók|Zászlók feldolgozása|
-|byte[10]|FontPANOSE|A font PANOSE értéke - Lásd: http://www.microsoft.com/typography/otspec/os2.htm#pan|
+|byte[10]|FontPANOSE|A font PANOSE értéke - Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
 |byte|Charset|Windows rendszerben ez a TEXTMETRIC.tmCharSetből származik. Ez az érték határozza meg a betűtípus karakterkészletét. A DEFAULT_CHARSET (0x01) azt jelzi, hogy nincs preferencia. - Lásd: https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
-|byte|Dőlt|Ha az ITALIC bitje be van állítva az OS/2.fsSelectionben, az érték 0x01 lesz – Lásd: http://www.microsoft.com/typography/otspec/os2.htm#fss|
-|unsigned long|Weight|A betűtípus súlyértéke – Lásd: http://www.microsoft.com/typography/otspec/os2.htm#wtc|
-|unsigned short|fsType|Típusjelzők, amelyek információt nyújtanak a beágyazási engedélyekről – Lásd: http://www.microsoft.com/typography/otspec/os2.htm#fst|
+|byte|Dőlt|Ha az ITALIC bitje be van állítva az OS/2.fsSelectionben, az érték 0x01 lesz – Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss|
+|unsigned long|Weight|A betűtípus súlyértéke – Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|
+|unsigned short|fsType|Típusjelzők, amelyek információt nyújtanak a beágyazási engedélyekről – Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|
 |unsigned short|MagicNumber|Mágikus szám az EOT-fájlhoz – 0x504C. Adatsérülések ellenőrzésére szolgál.|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (0-31 bit) – Lásd: http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (32-63 bit) – Lásd: http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (64-95 bitek) – Lásd: http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (96-127 bitek) – Lásd: http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|CodePageRange1|CodePageRange1 (0-31 bitek) – Lásd: http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CodePageRange2|CodePageRange2 (32-63 bit) – Lásd: http://www.microsoft.com/typography/otspec/os2.htm#cpr|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (0-31 bit) – Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (32-63 bit) – Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (64-95 bitek) – Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (96-127 bitek) – Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|CodePageRange1|CodePageRange1 (0-31 bitek) – Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CodePageRange2|CodePageRange2 (32-63 bit) – Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
 |unsigned long|CheckSumAdjustment|head.CheckSumAdjustment – Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |aláíratlan hosszú|Fenntartva1|Fenntartva - 0-nak kell lennie|
 |aláíratlan hosszú|Fenntartva2|Fenntartva - 0-nak kell lennie|

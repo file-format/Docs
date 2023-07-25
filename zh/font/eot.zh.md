@@ -38,18 +38,18 @@ EMBEDDEDFONT 结构经历了三个修订，每个修订都在结构末尾添加�
 |unsigned long|FontDataSize|OpenType 字体 (FontData) 的长度（以字节为单位）|
 |unsigned long|版本|此格式的版本号 - 0x00020002|
 |unsigned long|标志|处理标志|
-|byte[10]|FontPANOSE|此字体的 PANOSE 值 - 请参阅 http://www.microsoft.com/typography/otspec/os2.htm#pan|
+|byte[10]|FontPANOSE|此字体的 PANOSE 值 - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
 |byte|Charset|在 Windows 中，这是从 TEXTMETRIC.tmCharSet 派生的。此值指定字体的字符集。 DEFAULT_CHARSET (0x01) 表示没有偏好。 - 请参阅 https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
-|byte|Italic|如果在 OS/2.fsSelection 中设置了 ITALIC 位，则值为 0x01 - 请参阅 http://www.microsoft.com/typography/otspec/os2.htm#fss|
-|unsigned long|Weight|此字体的重量值 - 请参阅 http://www.microsoft.com/typography/otspec/os2.htm#wtc|
-|unsigned short|fsType|提供有关嵌入权限信息的类型标志 - 请参阅 http://www.microsoft.com/typography/otspec/os2.htm#fst|
+|byte|Italic|如果在 OS/2.fsSelection 中设置了 ITALIC 位，则值为 0x01 - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss|
+|unsigned long|Weight|此字体的重量值 - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|
+|unsigned short|fsType|提供有关嵌入权限信息的类型标志 - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|
 |unsigned short|MagicNumber|EOT 文件的幻数 - 0x504C。用于检查数据损坏。|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1（位 0-31） - 请参阅 http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2（位 32-63） - 请参阅 http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3（位 64-95） - 请参阅 http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bits 96-127) - 见 http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|CodePageRange1|CodePageRange1（位 0-31） - 请参阅 http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CodePageRange2|CodePageRange2（位 32-63） - 请参阅 http://www.microsoft.com/typography/otspec/os2.htm#cpr|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1（位 0-31） - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2（位 32-63） - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3（位 64-95） - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bits 96-127) - 见 https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|CodePageRange1|CodePageRange1（位 0-31） - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CodePageRange2|CodePageRange2（位 32-63） - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
 |unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Reserved1|保留 - 必须为 0|
 |unsigned long|Reserved2|保留 - 必须为 0|

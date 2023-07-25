@@ -38,18 +38,18 @@ Struktur EMBEDDEDFONT telah mengalami tiga kali revisi, dengan penambahan data t
 |unsigned long|FontDataSize|Panjang font OpenType (FontData) dalam byte|
 |unsigned long|Versi|Nomor versi format ini - 0x00020002|
 |unsigned long|Flags|Processing Flags|
-|byte[10]|FontPANOSE|Nilai PANOSE untuk font ini - Lihat http://www.microsoft.com/typography/otspec/os2.htm#pan|
+|byte[10]|FontPANOSE|Nilai PANOSE untuk font ini - Lihat https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
 |byte|Charset|Di Windows ini diturunkan dari TEXTMETRIC.tmCharSet. Nilai ini menentukan set karakter font. DEFAULT_CHARSET (0x01) menunjukkan tidak ada preferensi. - Lihat https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
-|byte|Italic|Jika bit untuk ITALIC diatur di OS/2.fsSelection, nilainya akan menjadi 0x01 - Lihat http://www.microsoft.com/typography/otspec/os2.htm#fss|
-|unsigned long|Weight|Nilai bobot untuk font ini - Lihat http://www.microsoft.com/typography/otspec/os2.htm#wtc|
-|unsigned short|fsType|Type flags yang memberikan informasi tentang izin penyematan - Lihat http://www.microsoft.com/typography/otspec/os2.htm#fst|
+|byte|Italic|Jika bit untuk ITALIC diatur di OS/2.fsSelection, nilainya akan menjadi 0x01 - Lihat https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss|
+|unsigned long|Weight|Nilai bobot untuk font ini - Lihat https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|
+|unsigned short|fsType|Type flags yang memberikan informasi tentang izin penyematan - Lihat https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|
 |unsigned short|MagicNumber|Nomor ajaib untuk berkas EOT - 0x504C. Digunakan untuk memeriksa kerusakan data.|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (bit 0-31) - Lihat http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (bit 32-63) - Lihat http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (bit 64-95) - Lihat http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bit 96-127) - Lihat http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|CodePageRange1|CodePageRange1 (bit 0-31) - Lihat http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CodePageRange2|CodePageRange2 (bit 32-63) - Lihat http://www.microsoft.com/typography/otspec/os2.htm#cpr|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (bit 0-31) - Lihat https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (bit 32-63) - Lihat https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (bit 64-95) - Lihat https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bit 96-127) - Lihat https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|CodePageRange1|CodePageRange1 (bit 0-31) - Lihat https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CodePageRange2|CodePageRange2 (bit 32-63) - Lihat https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
 |unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - Lihat https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Reserved1|Reserved - harus 0|
 |unsigned long|Reserved2|Reserved - harus 0|

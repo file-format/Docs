@@ -38,18 +38,18 @@ Cấu trúc EMBEDDEDFONT đã trải qua ba lần sửa đổi, với việc b�
 |unsigned long|FontDataSize|Độ dài của phông chữ OpenType (FontData) tính bằng byte|
 |unsigned long|Phiên bản|Số phiên bản của định dạng này - 0x00020002|
 |unsigned long|Cờ|Đang xử lý cờ|
-|byte[10]|Phông chữPANOSE|Giá trị PANOSE cho phông chữ này - Xem http://www.microsoft.com/typography/otspec/os2.htm#pan|
+|byte[10]|Phông chữPANOSE|Giá trị PANOSE cho phông chữ này - Xem https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
 |byte|Charset|Trong Windows, điều này bắt nguồn từ TEXTMETRIC.tmCharSet. Giá trị này chỉ định bộ ký tự của phông chữ. DEFAULT_CHARSET (0x01) cho biết không có tùy chọn nào. - Xem https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
-|byte|Italic|Nếu bit cho ITALIC được đặt trong OS/2.fsSelection, giá trị sẽ là 0x01 - Xem http://www.microsoft.com/typography/otspec/os2.htm#fss|
-|unsigned long|Trọng lượng|Giá trị trọng số cho phông chữ này - Xem http://www.microsoft.com/typography/otspec/os2.htm#wtc|
-|unsigned short|fsType|Loại cờ cung cấp thông tin về quyền nhúng - Xem http://www.microsoft.com/typography/otspec/os2.htm#fst|
+|byte|Italic|Nếu bit cho ITALIC được đặt trong OS/2.fsSelection, giá trị sẽ là 0x01 - Xem https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss|
+|unsigned long|Trọng lượng|Giá trị trọng số cho phông chữ này - Xem https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|
+|unsigned short|fsType|Loại cờ cung cấp thông tin về quyền nhúng - Xem https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|
 |unsigned short|MagicNumber|Magic number cho tệp EOT - 0x504C. Dùng để kiểm tra xem dữ liệu có bị hỏng không.|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (bit 0-31) - Xem http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (bit 32-63) - Xem http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (bit 64-95) - Xem http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bit 96-127) - Xem http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|CodePageRange1|CodePageRange1 (bit 0-31) - Xem http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CodePageRange2|CodePageRange2 (bit 32-63) - Xem http://www.microsoft.com/typography/otspec/os2.htm#cpr|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (bit 0-31) - Xem https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (bit 32-63) - Xem https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (bit 64-95) - Xem https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bit 96-127) - Xem https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|CodePageRange1|CodePageRange1 (bit 0-31) - Xem https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CodePageRange2|CodePageRange2 (bit 32-63) - Xem https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
 |unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - Xem https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Reserveed1|Reserveed - phải là 0|
 |unsigned long|Reserveed2|Reserveed - phải là 0|

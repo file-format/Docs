@@ -38,18 +38,18 @@ EOT फ़ाइल प्रारूप विवरण [W3 सबमिशन
 |अहस्ताक्षरित लंबा|FontDataSize|बाइट्स में ओपन टाइप फ़ॉन्ट (FontData) की लंबाई|
 |अहस्ताक्षरित लंबा|संस्करण|इस प्रारूप का संस्करण संख्या - 0x00020002|
 |अहस्ताक्षरित लंबा|झंडे|प्रसंस्करण झंडे|
-|बाइट[10]|FontPANOSE|इस फ़ॉन्ट के लिए पैनोज़ मान - देखें http://www.microsoft.com/typography/otspec/os2.htm#pan|
+|बाइट[10]|FontPANOSE|इस फ़ॉन्ट के लिए पैनोज़ मान - देखें https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
 |बाइट|चारसेट|विंडोज में यह TEXTMETRIC.tmCharSet से लिया गया है। यह मान फ़ॉन्ट के वर्ण सेट को निर्दिष्ट करता है। DEFAULT_CHARSET (0x01) कोई वरीयता नहीं दर्शाता है। - देखें https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
-|बाइट|इटैलिक|यदि ITALIC के लिए बिट OS/2.fsSelection में सेट है, तो मान 0x01 होगा - देखें http://www.microsoft.com/typography/otspec/os2.htm#fss|
-|unsigned long|Weight|इस फ़ॉन्ट के लिए वजन मान - देखें http://www.microsoft.com/typography/otspec/os2.htm#wtc|
-|अहस्ताक्षरित लघु|fsType|फ्लैग टाइप करें जो एम्बेडिंग अनुमतियों के बारे में जानकारी प्रदान करते हैं - देखें http://www.microsoft.com/typography/otspec/os2.htm#fst|
+|बाइट|इटैलिक|यदि ITALIC के लिए बिट OS/2.fsSelection में सेट है, तो मान 0x01 होगा - देखें https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss|
+|unsigned long|Weight|इस फ़ॉन्ट के लिए वजन मान - देखें https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|
+|अहस्ताक्षरित लघु|fsType|फ्लैग टाइप करें जो एम्बेडिंग अनुमतियों के बारे में जानकारी प्रदान करते हैं - देखें https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|
 |unsigned short|MagicNumber|EOT फाइल के लिए मैजिक नंबर - 0x504C। डेटा भ्रष्टाचार की जांच के लिए उपयोग किया जाता है।|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (बिट्स 0-31) - देखें http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (बिट्स 32-63) - देखें http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (बिट्स 64-95) - देखें http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (बिट्स 96-127) - देखें http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|CodePageRange1|CodePageRange1 (बिट्स 0-31) - देखें http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CodePageRange2|CodePageRange2 (बिट्स 32-63) - देखें http://www.microsoft.com/typography/otspec/os2.htm#cpr|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (बिट्स 0-31) - देखें https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (बिट्स 32-63) - देखें https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (बिट्स 64-95) - देखें https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (बिट्स 96-127) - देखें https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|CodePageRange1|CodePageRange1 (बिट्स 0-31) - देखें https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CodePageRange2|CodePageRange2 (बिट्स 32-63) - देखें https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
 |unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - देखें https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Reserved1|आरक्षित - 0 होना चाहिए|
 |unsigned long|Reserved2|आरक्षित - 0 होना चाहिए|

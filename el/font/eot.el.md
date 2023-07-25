@@ -38,18 +38,18 @@
 |unsigned long|FontDataSize|Μήκος της γραμματοσειράς OpenType (FontData) σε byte|
 |unsigned long|Έκδοση|Αριθμός έκδοσης αυτής της μορφής - 0x00020002|
 |ανυπόγραφο μακρύ|Σημαίες|Σημαίες επεξεργασίας|
-|byte[10]|FontPANOSE|Η τιμή PANOSE για αυτήν τη γραμματοσειρά - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#pan|
+|byte[10]|FontPANOSE|Η τιμή PANOSE για αυτήν τη γραμματοσειρά - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
 |byte|Charset|Στα Windows αυτό προέρχεται από το TEXTMETRIC.tmCharSet. Αυτή η τιμή καθορίζει το σύνολο χαρακτήρων της γραμματοσειράς. DEFAULT_CHARSET (0x01) υποδηλώνει καμία προτίμηση. - Δείτε https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
-|byte|Italic|Εάν το bit για το ITALIC έχει οριστεί στο OS/2.fsSelection, η τιμή θα είναι 0x01 - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#fss|
-|unsigned long|Weight|Η τιμή βάρους για αυτήν τη γραμματοσειρά - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#wtc|
-|unsigned short|fsType|Πληκτρολογήστε σημαίες που παρέχουν πληροφορίες σχετικά με τα δικαιώματα ενσωμάτωσης - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#fst|
+|byte|Italic|Εάν το bit για το ITALIC έχει οριστεί στο OS/2.fsSelection, η τιμή θα είναι 0x01 - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss|
+|unsigned long|Weight|Η τιμή βάρους για αυτήν τη γραμματοσειρά - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|
+|unsigned short|fsType|Πληκτρολογήστε σημαίες που παρέχουν πληροφορίες σχετικά με τα δικαιώματα ενσωμάτωσης - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|
 |ανυπόγραφο σύντομο|MagicNumber|Μαγικός αριθμός για αρχείο ΕΟΤ - 0x504C. Χρησιμοποιείται για τον έλεγχο για καταστροφή δεδομένων.|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (bit 0-31) - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (bits 32-63) - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (bit 64-95) - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bit 96-127) - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|CodePageRange1|CodePageRange1 (bit 0-31) - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CodePageRange2|CodePageRange2 (bit 32-63) - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#cpr|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (bit 0-31) - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (bits 32-63) - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (bit 64-95) - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bit 96-127) - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|CodePageRange1|CodePageRange1 (bit 0-31) - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CodePageRange2|CodePageRange2 (bit 32-63) - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
 |ανυπόγραφο long|CheckSumAdjustment|head.CheckSumAdjustment - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |ανυπόγραφο long|Δέσμευση1|Δεσμευμένο - πρέπει να είναι 0|
 |ανυπόγραφο long|Δέσμευση2|Δεσμευμένο - πρέπει να είναι 0|

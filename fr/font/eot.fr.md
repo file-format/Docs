@@ -38,18 +38,18 @@ La structure EMBEDDEDFONT a subi trois révisions, avec ajout de données suppl�
 |unsigned long|FontDataSize|Longueur de la police OpenType (FontData) en octets|
 |unsigned long|Version|Numéro de version de ce format - 0x00020002|
 |unsigned long|Drapeaux|Drapeaux de traitement|
-|byte[10]|FontPANOSE|La valeur PANOSE pour cette police - Voir http://www.microsoft.com/typography/otspec/os2.htm#pan|
+|byte[10]|FontPANOSE|La valeur PANOSE pour cette police - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
 |byte|Charset|Sous Windows, ceci est dérivé de TEXTMETRIC.tmCharSet. Cette valeur spécifie le jeu de caractères de la police. DEFAULT_CHARSET (0x01) n'indique aucune préférence. - Voir https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
-|byte|Italic|Si le bit pour ITALIC est défini dans OS/2.fsSelection, la valeur sera 0x01 - Voir http://www.microsoft.com/typography/otspec/os2.htm#fss|
-|unsigned long|Weight|La valeur de poids pour cette police - Voir http://www.microsoft.com/typography/otspec/os2.htm#wtc|
-|unsigned short|fsType|Indicateurs de type qui fournissent des informations sur l'intégration des autorisations - Voir http://www.microsoft.com/typography/otspec/os2.htm#fst|
+|byte|Italic|Si le bit pour ITALIC est défini dans OS/2.fsSelection, la valeur sera 0x01 - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss|
+|unsigned long|Weight|La valeur de poids pour cette police - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|
+|unsigned short|fsType|Indicateurs de type qui fournissent des informations sur l'intégration des autorisations - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|
 |unsigned short|MagicNumber|Numéro magique pour le fichier EOT - 0x504C. Utilisé pour vérifier la corruption des données.|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (bits 0-31) - Voir http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (bits 32-63) - Voir http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (bits 64-95) - Voir http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bits 96-127) - Voir http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|CodePageRange1|CodePageRange1 (bits 0-31) - Voir http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CodePageRange2|CodePageRange2 (bits 32-63) - Voir http://www.microsoft.com/typography/otspec/os2.htm#cpr|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (bits 0-31) - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (bits 32-63) - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (bits 64-95) - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bits 96-127) - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|CodePageRange1|CodePageRange1 (bits 0-31) - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CodePageRange2|CodePageRange2 (bits 32-63) - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
 |unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Réservé1|Réservé - doit être 0|
 |unsigned long|Réservé2|Réservé - doit être 0|

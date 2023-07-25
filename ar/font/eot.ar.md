@@ -38,18 +38,18 @@
 | طويل بدون توقيع | FontDataSize | طول خط OpenType (FontData) بالبايت |
 | طويل بدون توقيع | الإصدار | رقم إصدار هذا التنسيق - 0x00020002 |
 | بدون إشارة طويلة | أعلام | أعلام معالجة |
-| بايت [10] | FontPANOSE | قيمة PANOSE لهذا الخط - راجع http: //www.microsoft.com/typography/otspec/os2.htm#pan |
+| بايت [10] | FontPANOSE | قيمة PANOSE لهذا الخط - راجع https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan |
 | بايت | Charset | في Windows ، هذا مشتق من TEXTMETRIC.tmCharSet. تحدد هذه القيمة مجموعة أحرف الخط. يشير DEFAULT_CHARSET (0x01) إلى عدم وجود تفضيل. - راجع https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica |
-| بايت | مائل | إذا تم تعيين بت ITALIC في OS / 2.fsSelection ، ستكون القيمة 0x01 - راجع http: //www.microsoft.com/typography/otspec/os2.htm#fss |
-| الطول | الوزن | قيمة الوزن لهذا الخط - راجع http: //www.microsoft.com/typography/otspec/os2.htm#wtc |
-| قصير | fsType | إشارات النوع التي توفر معلومات حول أذونات التضمين - راجع http: //www.microsoft.com/typography/otspec/os2.htm#fst |
+| بايت | مائل | إذا تم تعيين بت ITALIC في OS / 2.fsSelection ، ستكون القيمة 0x01 - راجع https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss |
+| الطول | الوزن | قيمة الوزن لهذا الخط - راجع https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc |
+| قصير | fsType | إشارات النوع التي توفر معلومات حول أذونات التضمين - راجع https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst |
 | اختصار | MagicNumber | الرقم السحري لملف EOT - 0x504C. يُستخدم للتحقق من وجود تلف في البيانات
-| طويل بدون توقيع | UnicodeRange1 | نظام التشغيل / 2.UnicodeRange1 (بت 0-31) - راجع http: //www.microsoft.com/typography/otspec/os2.htm#ur |
-| طويل بدون توقيع | UnicodeRange2 | نظام التشغيل / 2.UnicodeRange2 (بت 32-63) - راجع http: //www.microsoft.com/typography/otspec/os2.htm#ur |
-| طويل بدون توقيع | UnicodeRange3 | نظام التشغيل / 2.UnicodeRange3 (بت 64-95) - راجع http: //www.microsoft.com/typography/otspec/os2.htm#ur |
-| طويل بدون توقيع | UnicodeRange4 | نظام التشغيل / 2.UnicodeRange4 (بت 96-127) - راجع http: //www.microsoft.com/typography/otspec/os2.htm#ur |
-| طويل بدون توقيع | CodePageRange1 | CodePageRange1 (بت 0-31) - راجع http: //www.microsoft.com/typography/otspec/os2.htm#cpr |
-| طويل بدون توقيع | CodePageRange2 | CodePageRange2 (بت 32-63) - راجع http: //www.microsoft.com/typography/otspec/os2.htm#cpr |
+| طويل بدون توقيع | UnicodeRange1 | نظام التشغيل / 2.UnicodeRange1 (بت 0-31) - راجع https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur |
+| طويل بدون توقيع | UnicodeRange2 | نظام التشغيل / 2.UnicodeRange2 (بت 32-63) - راجع https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur |
+| طويل بدون توقيع | UnicodeRange3 | نظام التشغيل / 2.UnicodeRange3 (بت 64-95) - راجع https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur |
+| طويل بدون توقيع | UnicodeRange4 | نظام التشغيل / 2.UnicodeRange4 (بت 96-127) - راجع https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur |
+| طويل بدون توقيع | CodePageRange1 | CodePageRange1 (بت 0-31) - راجع https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr |
+| طويل بدون توقيع | CodePageRange2 | CodePageRange2 (بت 32-63) - راجع https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr |
 | بدون توقيع طويل | تعديل المجموع الاختباري | head.CheckSumAdjustment - راجع https://learn.microsoft.com/en-us/typography/opentype/spec/head |
 | بدون توقيع طويل | محجوز 1 | محجوز - يجب أن يكون 0 |
 | بدون توقيع طويل | محجوز 2 | محجوز - يجب أن يكون 0 |

@@ -38,18 +38,18 @@ EMBEDDEDFONT yapısı, her revizyonda yapının sonuna ek veriler eklenerek üç
 |unsigned long|FontDataSize|OpenType yazı tipinin (FontData) bayt cinsinden uzunluğu|
 |unsigned long|Sürüm|Bu biçimin sürüm numarası - 0x00020002|
 |unsigned long|Bayraklar|İşleme İşaretleri|
-|bayt[10]|FontPANOSE|Bu yazı tipi için PANOSE değeri - Bkz. http://www.microsoft.com/typography/otspec/os2.htm#pan|
+|bayt[10]|FontPANOSE|Bu yazı tipi için PANOSE değeri - Bkz. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
 |bayt|Karakter Kümesi|Windows'ta bu TEXTMETRIC.tmCharSet'ten türetilmiştir. Bu değer, yazı tipinin karakter kümesini belirtir. DEFAULT_CHARSET (0x01) tercih olmadığını gösterir. - Bakınız https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
-|bayt|İtalik|ITALIC için bit OS/2.fsSelection'da ayarlanmışsa, değer 0x01 olacaktır - Bkz. http://www.microsoft.com/typography/otspec/os2.htm#fss|
-|unsigned long|Ağırlık|Bu yazı tipi için ağırlık değeri - Bkz. http://www.microsoft.com/typography/otspec/os2.htm#wtc|
-|unsigned short|fsType|Gömme izinleri hakkında bilgi sağlayan tip bayrakları - Bkz. http://www.microsoft.com/typography/otspec/os2.htm#fst|
+|bayt|İtalik|ITALIC için bit OS/2.fsSelection'da ayarlanmışsa, değer 0x01 olacaktır - Bkz. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss|
+|unsigned long|Ağırlık|Bu yazı tipi için ağırlık değeri - Bkz. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|
+|unsigned short|fsType|Gömme izinleri hakkında bilgi sağlayan tip bayrakları - Bkz. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|
 |unsigned short|MagicNumber|EOT dosyası için sihirli sayı - 0x504C. Veri bozulmasını kontrol etmek için kullanılır.|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (bit 0-31) - Bkz. http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (bit 32-63) - Bkz. http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (bit 64-95) - Bkz. http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bit 96-127) - Bkz. http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|CodePageRange1|CodePageRange1 (bit 0-31) - Bkz. http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CodePageRange2|CodePageRange2 (bit 32-63) - Bkz. http://www.microsoft.com/typography/otspec/os2.htm#cpr|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (bit 0-31) - Bkz. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (bit 32-63) - Bkz. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (bit 64-95) - Bkz. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bit 96-127) - Bkz. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|CodePageRange1|CodePageRange1 (bit 0-31) - Bkz. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CodePageRange2|CodePageRange2 (bit 32-63) - Bkz. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
 |unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - Bkz. https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |işaretsiz uzun|Ayrılmış1|Ayrılmış - 0 olmalıdır|
 |unsigned long|Ayrılmış2|Ayrılmış - 0 olmalıdır|

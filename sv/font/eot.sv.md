@@ -38,18 +38,18 @@ EMBEDDEDFONT-strukturen har genomgått tre revisioner, med tillägg av ytterliga
 |unsigned long|FontDataSize|Längden på OpenType-teckensnittet (FontData) i byte|
 |unsigned long|Version|Versionsnummer för detta format - 0x00020002|
 |unsigned long|Flaggor|Bearbetar flaggor|
-|byte[10]|FontPANOSE|PANOSE-värdet för detta teckensnitt - Se http://www.microsoft.com/typography/otspec/os2.htm#pan|
+|byte[10]|FontPANOSE|PANOSE-värdet för detta teckensnitt - Se https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
 |byte|Charset|I Windows härleds detta från TEXTMETRIC.tmCharSet. Detta värde anger teckenuppsättningen för teckensnittet. DEFAULT_CHARSET (0x01) indikerar ingen preferens. - Se https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
-|byte|Italic|Om biten för ITALIC är inställd i OS/2.fsSelection blir värdet 0x01 - Se http://www.microsoft.com/typography/otspec/os2.htm#fss|
-|unsigned long|Weight|Viktvärdet för detta teckensnitt - Se http://www.microsoft.com/typography/otspec/os2.htm#wtc|
-|unsigned short|fsType|Typ flaggor som ger information om inbäddningsbehörigheter - Se http://www.microsoft.com/typography/otspec/os2.htm#fst|
+|byte|Italic|Om biten för ITALIC är inställd i OS/2.fsSelection blir värdet 0x01 - Se https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss|
+|unsigned long|Weight|Viktvärdet för detta teckensnitt - Se https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|
+|unsigned short|fsType|Typ flaggor som ger information om inbäddningsbehörigheter - Se https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|
 |osignerad kort|MagicNumber|Magiskt nummer för EOT-fil - 0x504C. Används för att söka efter datakorruption.|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (bitar 0-31) - Se http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (bitar 32-63) - Se http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (bitar 64-95) - Se http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bitar 96-127) - Se http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|CodePageRange1|CodePageRange1 (bitar 0-31) - Se http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CodePageRange2|CodePageRange2 (bitar 32-63) - Se http://www.microsoft.com/typography/otspec/os2.htm#cpr|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (bitar 0-31) - Se https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (bitar 32-63) - Se https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (bitar 64-95) - Se https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bitar 96-127) - Se https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|CodePageRange1|CodePageRange1 (bitar 0-31) - Se https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CodePageRange2|CodePageRange2 (bitar 32-63) - Se https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
 |unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - Se https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Reserved1|Reserved - måste vara 0|
 |unsigned long|Reserved2|Reserved - måste vara 0|

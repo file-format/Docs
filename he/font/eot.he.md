@@ -38,18 +38,18 @@
 |לא חתום ארוך|FontDataSize|אורך גופן OpenType (FontData) בבתים|
 |לא חתום ארוך|גרסה|מספר גרסה של פורמט זה - 0x00020002|
 |לא חתום ארוך|דגלים|עיבוד דגלים|
-|byte[10]|FontPANOSE|ערך PANOSE עבור גופן זה - ראה http://www.microsoft.com/typography/otspec/os2.htm#pan|
+|byte[10]|FontPANOSE|ערך PANOSE עבור גופן זה - ראה https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
 |byte|Charset|ב-Windows זה נגזר מ-TEXTMETRIC.tmCharSet. ערך זה מציין את ערכת התווים של הגופן. DEFAULT_CHARSET (0x01) מציין שאין העדפה. - ראה https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
-|byte|Italic|אם ה-bit עבור ITALIC מוגדר ב-OS/2.fsSelection, הערך יהיה 0x01 - ראה http://www.microsoft.com/typography/otspec/os2.htm#fss|
-|לא חתום ארוך|משקל|ערך המשקל עבור גופן זה - ראה http://www.microsoft.com/typography/otspec/os2.htm#wtc|
-|לא חתום קצר|fsType|דגלי סוג המספקים מידע על הרשאות הטמעה - ראה http://www.microsoft.com/typography/otspec/os2.htm#fst|
+|byte|Italic|אם ה-bit עבור ITALIC מוגדר ב-OS/2.fsSelection, הערך יהיה 0x01 - ראה https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss|
+|לא חתום ארוך|משקל|ערך המשקל עבור גופן זה - ראה https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|
+|לא חתום קצר|fsType|דגלי סוג המספקים מידע על הרשאות הטמעה - ראה https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|
 |לא חתום קצר|MagicNumber|מספר קסם לקובץ EOT - 0x504C. משמש לבדיקת שחיתות בנתונים.|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (סיביות 0-31) - ראה http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (סיביות 32-63) - ראה http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (סיביות 64-95) - ראה http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (סיביות 96-127) - ראה http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|CodePageRange1|CodePageRange1 (סיביות 0-31) - ראה http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CodePageRange2|CodePageRange2 (סיביות 32-63) - ראה http://www.microsoft.com/typography/otspec/os2.htm#cpr|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (סיביות 0-31) - ראה https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (סיביות 32-63) - ראה https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (סיביות 64-95) - ראה https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (סיביות 96-127) - ראה https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|CodePageRange1|CodePageRange1 (סיביות 0-31) - ראה https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CodePageRange2|CodePageRange2 (סיביות 32-63) - ראה https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
 |לא חתום ארוך|CheckSumAdjustment|head.CheckSumAdjustment - ראה https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |לא חתום ארוך|שמור1|שמור - חייב להיות 0|
 |לא חתום ארוך|שמור2|שמור - חייב להיות 0|
