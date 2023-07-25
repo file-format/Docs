@@ -33,7 +33,7 @@ Les coordonnées sont l'élément de base de toute donnée géographique. Il s'a
 
 ### Position ###
 
-Un tableau ordonné de coordonnées représente la [position](http://geojson.org/geojson-spec.html#positions). C'est la plus petite unité qui peut indiquer un point sur terre.
+Un tableau ordonné de coordonnées représente la [position](https://geojson.org/geojson-spec.html#positions). C'est la plus petite unité qui peut indiquer un point sur terre.
 
 `[Longitude, latitude, élévation]`
 

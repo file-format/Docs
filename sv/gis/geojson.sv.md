@@ -33,7 +33,7 @@ Koordinat är grundelementet i alla geografiska data. Detta är en enstaka dimen
 
 ### Position ###
 
-En ordnad matris av koordinater representerar [positionen](http://geojson.org/geojson-spec.html#positions). Detta är den minsta enheten som kan indikera en punkt på jorden.
+En ordnad matris av koordinater representerar [positionen](https://geojson.org/geojson-spec.html#positions). Detta är den minsta enheten som kan indikera en punkt på jorden.
 
 `[Longitud, latitud, höjd]`
 

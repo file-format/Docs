@@ -33,7 +33,7 @@ Coordinate is the basic element of any geographic data. This is a single dimensi
 
 ### Position ###
 
-An ordered array of coordinates represent the [position](http://geojson.org/geojson-spec.html#positions).  This is the smallest unit that can indicate a point on earth.
+An ordered array of coordinates represent the [position](https://geojson.org/geojson-spec.html#positions).  This is the smallest unit that can indicate a point on earth.
 
 `[Longitude, latitude, elevation]`
 

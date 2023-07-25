@@ -33,7 +33,7 @@ La coordinata è l'elemento base di qualsiasi dato geografico. Questa è una sin
 
 ### Posizione ###
 
-Una matrice ordinata di coordinate rappresenta la [posizione](http://geojson.org/geojson-spec.html#posizioni). Questa è l'unità più piccola che può indicare un punto sulla terra.
+Una matrice ordinata di coordinate rappresenta la [posizione](https://geojson.org/geojson-spec.html#posizioni). Questa è l'unità più piccola che può indicare un punto sulla terra.
 
 `[Longitudine, latitudine, altitudine]`
 

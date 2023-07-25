@@ -33,7 +33,7 @@ Koordinat, herhangi bir coğrafi verinin temel öğesidir. Bu, tek bir sayıyı 
 
 ### Durum ###
 
-Sıralı bir koordinat dizisi [konumu](http://geojson.org/geojson-spec.html#positions) temsil eder. Bu, dünyadaki bir noktayı gösterebilen en küçük birimdir.
+Sıralı bir koordinat dizisi [konumu](https://geojson.org/geojson-spec.html#positions) temsil eder. Bu, dünyadaki bir noktayı gösterebilen en küçük birimdir.
 
 `[Boylam, enlem, yükseklik]`
 

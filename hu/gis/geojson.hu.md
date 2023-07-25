@@ -33,7 +33,7 @@ A koordináta minden földrajzi adat alapeleme. Ez egyetlen dimenzió (hosszús�
 
 ### Pozíció ###
 
-A koordináták rendezett tömbje képviseli a [pozíciót](http://geojson.org/geojson-spec.html#positions). Ez a legkisebb egység, amely egy pontot jelezhet a Földön.
+A koordináták rendezett tömbje képviseli a [pozíciót](https://geojson.org/geojson-spec.html#positions). Ez a legkisebb egység, amely egy pontot jelezhet a Földön.
 
 "[Hosszúsági fok, szélesség, magasság]".
 
