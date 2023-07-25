@@ -159,7 +159,7 @@ Como cualquier lenguaje de programación, los archivos HS están escritos en for
 
 ### Ejemplo de formato de archivo HS
 
-El código se puede escribir en un archivo .hs y compilar usando un compilador Haskell como [GHC](http://haskell.org/ghc). La siguiente línea de código se guarda como `HelloWorld.hs` como se muestra en el siguiente ejemplo.
+El código se puede escribir en un archivo .hs y compilar usando un compilador Haskell como [GHC](https://haskell.org/ghc). La siguiente línea de código se guarda como `HelloWorld.hs` como se muestra en el siguiente ejemplo.
 
 ```
 main = putStrLn "Hello, World!"

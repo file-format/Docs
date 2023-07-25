@@ -159,7 +159,7 @@ Java HS 文件为 XML 文件格式，并基于万维网联盟 (W3C) 扩展标记
 
 ### HS 文件格式示例
 
-代码可以写在 .hs 文件中，并使用 Haskell 编译器进行编译，例如 [GHC](http://haskell.org/ghc)。以下代码行保存为 `HelloWorld.hs`，如以下示例所示。
+代码可以写在 .hs 文件中，并使用 Haskell 编译器进行编译，例如 [GHC](https://haskell.org/ghc)。以下代码行保存为 `HelloWorld.hs`，如以下示例所示。
 
 ```
 main = putStrLn "Hello, World!"

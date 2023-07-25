@@ -159,7 +159,7 @@ Java HS 파일은 XML 파일 형식이며 W3C(World Wide Web Consortium) Extende
 
 ### HS 파일 형식 예
 
-코드는 .hs 파일로 작성하고 [GHC](http://haskell.org/ghc)와 같은 Haskell 컴파일러를 사용하여 컴파일할 수 있습니다. 다음 코드 줄은 다음 샘플과 같이 `HelloWorld.hs`로 저장됩니다.
+코드는 .hs 파일로 작성하고 [GHC](https://haskell.org/ghc)와 같은 Haskell 컴파일러를 사용하여 컴파일할 수 있습니다. 다음 코드 줄은 다음 샘플과 같이 `HelloWorld.hs`로 저장됩니다.
 
 ```
 main = putStrLn "Hello, World!"

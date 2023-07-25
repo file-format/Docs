@@ -159,7 +159,7 @@ Jako každý programovací jazyk jsou soubory HS psány ve formátu prostého te
 
 ### Příklad formátu souboru HS
 
-Kód lze zapsat do souboru .hs a zkompilovat pomocí kompilátoru Haskell, jako je [GHC](http://haskell.org/ghc). Následující řádek kódu je uložen jako „HelloWorld.hs“, jak je znázorněno v následující ukázce.
+Kód lze zapsat do souboru .hs a zkompilovat pomocí kompilátoru Haskell, jako je [GHC](https://haskell.org/ghc). Následující řádek kódu je uložen jako „HelloWorld.hs“, jak je znázorněno v následující ukázce.
 
 ```
 main = putStrLn "Hello, World!"

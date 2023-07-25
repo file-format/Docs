@@ -159,7 +159,7 @@
 
 ### דוגמה לפורמט קובץ HS
 
-ניתן לכתוב קוד בקובץ .hs ולהרכיב באמצעות מהדר Haskell כגון [GHC](http://haskell.org/ghc). שורת הקוד הבאה נשמרת בתור `HelloWorld.hs` כפי שמוצג בדוגמה הבאה.
+ניתן לכתוב קוד בקובץ .hs ולהרכיב באמצעות מהדר Haskell כגון [GHC](https://haskell.org/ghc). שורת הקוד הבאה נשמרת בתור `HelloWorld.hs` כפי שמוצג בדוגמה הבאה.
 
 ```
 main = putStrLn "Hello, World!"

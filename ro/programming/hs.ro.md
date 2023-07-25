@@ -159,7 +159,7 @@ Ca orice limbaj de programare, fișierele HS sunt scrise în format text simplu,
 
 ### Exemplu de format de fișier HS
 
-Codul poate fi scris într-un fișier .hs și compilat folosind un compilator Haskell, cum ar fi [GHC](http://haskell.org/ghc). Următoarea linie de cod este salvată ca „HelloWorld.hs”, așa cum se arată în exemplul următor.
+Codul poate fi scris într-un fișier .hs și compilat folosind un compilator Haskell, cum ar fi [GHC](https://haskell.org/ghc). Următoarea linie de cod este salvată ca „HelloWorld.hs”, așa cum se arată în exemplul următor.
 
 ```
 main = putStrLn "Hello, World!"

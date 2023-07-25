@@ -159,7 +159,7 @@ Seperti bahasa pemrograman lainnya, file HS ditulis dalam format teks biasa yang
 
 ### Contoh Format File HS
 
-Kode dapat ditulis dalam file .hs dan dikompilasi menggunakan kompiler Haskell seperti [GHC](http://haskell.org/ghc). Baris kode berikut disimpan sebagai `HelloWorld.hs` seperti yang ditunjukkan pada contoh berikut.
+Kode dapat ditulis dalam file .hs dan dikompilasi menggunakan kompiler Haskell seperti [GHC](https://haskell.org/ghc). Baris kode berikut disimpan sebagai `HelloWorld.hs` seperti yang ditunjukkan pada contoh berikut.
 
 ```
 main = putStrLn "Hello, World!"

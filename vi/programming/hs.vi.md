@@ -159,7 +159,7 @@ Giống như bất kỳ ngôn ngữ lập trình nào, các tệp HS được vi
 
 ### Ví dụ định dạng tệp HS
 
-Mã có thể được viết trong tệp .hs và được biên dịch bằng trình biên dịch Haskell, chẳng hạn như [GHC](http://haskell.org/ghc). Dòng mã sau đây được lưu dưới dạng `HelloWorld.hs` như được hiển thị trong mẫu sau.
+Mã có thể được viết trong tệp .hs và được biên dịch bằng trình biên dịch Haskell, chẳng hạn như [GHC](https://haskell.org/ghc). Dòng mã sau đây được lưu dưới dạng `HelloWorld.hs` như được hiển thị trong mẫu sau.
 
 ```
 main = putStrLn "Hello, World!"

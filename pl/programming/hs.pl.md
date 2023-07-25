@@ -159,7 +159,7 @@ Jak każdy język programowania, pliki HS są zapisywane w formacie zwykłego te
 
 ### Przykład formatu pliku HS
 
-Kod można zapisać w pliku .hs i skompilować przy użyciu kompilatora Haskella, takiego jak [GHC](http://haskell.org/ghc). Poniższy wiersz kodu jest zapisywany jako `HelloWorld.hs`, jak pokazano w poniższym przykładzie.
+Kod można zapisać w pliku .hs i skompilować przy użyciu kompilatora Haskella, takiego jak [GHC](https://haskell.org/ghc). Poniższy wiersz kodu jest zapisywany jako `HelloWorld.hs`, jak pokazano w poniższym przykładzie.
 
 ```
 main = putStrLn "Hello, World!"

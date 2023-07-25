@@ -159,7 +159,7 @@ Zoals elke programmeertaal, zijn HS-bestanden geschreven in platte tekst die voo
 
 ### Voorbeeld HS-bestandsindeling
 
-Code kan worden geschreven in een .hs-bestand en gecompileerd met een Haskell-compiler zoals [GHC](http://haskell.org/ghc). De volgende regel code wordt opgeslagen als 'HelloWorld.hs', zoals in het volgende voorbeeld wordt getoond.
+Code kan worden geschreven in een .hs-bestand en gecompileerd met een Haskell-compiler zoals [GHC](https://haskell.org/ghc). De volgende regel code wordt opgeslagen als 'HelloWorld.hs', zoals in het volgende voorbeeld wordt getoond.
 
 ```
 main = putStrLn "Hello, World!"

@@ -159,7 +159,7 @@ Java HS ファイルは XML ファイル形式であり、World Wide Web Consort
 
 ### HS ファイル形式の例
 
-コードは .hs ファイルに記述し、[GHC](http://haskell.org/ghc) などの Haskell コンパイラを使用してコンパイルできます。次のサンプルに示すように、次のコード行は `HelloWorld.hs` として保存されます。
+コードは .hs ファイルに記述し、[GHC](https://haskell.org/ghc) などの Haskell コンパイラを使用してコンパイルできます。次のサンプルに示すように、次のコード行は `HelloWorld.hs` として保存されます。
 
 ```
 main = putStrLn "Hello, World!"

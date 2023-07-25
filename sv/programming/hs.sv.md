@@ -159,7 +159,7 @@ Som alla programmeringsspråk är HS-filer skrivna i vanligt textformat som är 
 
 ### Exempel på HS-filformat
 
-Koden kan skrivas i en .hs-fil och kompileras med en Haskell-kompilator som t.ex. [GHC](http://haskell.org/ghc). Följande kodrad sparas som `HelloWorld.hs` som visas i följande exempel.
+Koden kan skrivas i en .hs-fil och kompileras med en Haskell-kompilator som t.ex. [GHC](https://haskell.org/ghc). Följande kodrad sparas som `HelloWorld.hs` som visas i följande exempel.
 
 ```
 main = putStrLn "Hello, World!"

@@ -159,7 +159,7 @@ Herhangi bir programlama dili gibi, HS dosyaları da insan tarafından okunabile
 
 ### HS Dosya Biçimi Örneği
 
-Kod bir .hs dosyasına yazılabilir ve [GHC](http://haskell.org/ghc) gibi bir Haskell derleyici kullanılarak derlenebilir. Aşağıdaki kod satırı, aşağıdaki örnekte gösterildiği gibi 'HelloWorld.hs' olarak kaydedilir.
+Kod bir .hs dosyasına yazılabilir ve [GHC](https://haskell.org/ghc) gibi bir Haskell derleyici kullanılarak derlenebilir. Aşağıdaki kod satırı, aşağıdaki örnekte gösterildiği gibi 'HelloWorld.hs' olarak kaydedilir.
 
 ```
 main = putStrLn "Hello, World!"

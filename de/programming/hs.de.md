@@ -159,7 +159,7 @@ Wie jede Programmiersprache sind HS-Dateien im Klartextformat geschrieben, das f
 
 ### Beispiel für ein HS-Dateiformat
 
-Code kann in eine .hs-Datei geschrieben und mit einem Haskell-Compiler wie [GHC](http://haskell.org/ghc) kompiliert werden. Die folgende Codezeile wird als „HelloWorld.hs“ gespeichert, wie im folgenden Beispiel gezeigt.
+Code kann in eine .hs-Datei geschrieben und mit einem Haskell-Compiler wie [GHC](https://haskell.org/ghc) kompiliert werden. Die folgende Codezeile wird als „HelloWorld.hs“ gespeichert, wie im folgenden Beispiel gezeigt.
 
 ```
 main = putStrLn "Hello, World!"

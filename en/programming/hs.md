@@ -159,7 +159,7 @@ Like any programming language, HS files are written in plain text format that ar
 
 ### HS File Format Example
 
-Code can be written in a .hs file and compiled using a Haskell compiler such as [GHC](http://haskell.org/ghc). The following line of code is saved as `HelloWorld.hs` as shown in the following sample.
+Code can be written in a .hs file and compiled using a Haskell compiler such as [GHC](https://haskell.org/ghc). The following line of code is saved as `HelloWorld.hs` as shown in the following sample.
 
 ```
 main = putStrLn "Hello, World!"

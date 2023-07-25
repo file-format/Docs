@@ -159,7 +159,7 @@ Mint minden programozási nyelv, a HS fájlok egyszerű szöveges formátumban k
 
 ### HS fájlformátum példa
 
-A kód .hs fájlba írható, és egy Haskell fordítóval, például [GHC](http://haskell.org/ghc) segítségével fordítható le. A következő kódsor `HelloWorld.hs` néven kerül mentésre, ahogy az a következő mintában látható.
+A kód .hs fájlba írható, és egy Haskell fordítóval, például [GHC](https://haskell.org/ghc) segítségével fordítható le. A következő kódsor `HelloWorld.hs` néven kerül mentésre, ahogy az a következő mintában látható.
 
 ```
 main = putStrLn "Hello, World!"
