@@ -29,7 +29,7 @@ Các tệp DOCM là các tài liệu được tạo từ Microsoft Word 2007 tr�
 
 Định dạng tệp DOCM tuân theo cùng cấu trúc DOCX dựa trên định dạng tệp Office OpenXML. Có thể xem nội dung của định dạng tệp DOCM bằng cách đổi tên nó thành ZIP và mở kho lưu trữ bằng bất kỳ tiện ích hỗ trợ nào. Thông số [MS-DOCX](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx) xác định chi tiết định dạng tệp Office OpenXML cho định dạng tệp DOCX để nhà phát triển tham khảo và cũng có thể áp dụng cho DOTM. Các macro được chứa trong tệp nhị phân có tên vbaProject.bin, với hai tệp hỗ trợ vbaProject.bin.rels và vbaData.xml.
 
-![](http://social.technet.microsoft.com/Forums/getfile/331363)
+![](https://social.technet.microsoft.com/Forums/getfile/331363)
 
 ## Người giới thiệu
 

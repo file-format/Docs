@@ -29,7 +29,7 @@ DOCM 文件格式基于 Office OpenXML 标准。 2000 年初，Microsoft 决定�
 
 DOCM 文件格式遵循基于 Office OpenXML 文件格式的相同 DOCX 结构。可以通过将 DOCM 文件格式重命名为 ZIP 并使用任何支持实用程序打开存档来查看 DOCM 文件格式的内容。 [MS-DOCX](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx)规范定义了DOCX文件格式的Office OpenXML文件格式细节，供开发者参考并且也适用于 DOTM。这些宏包含在一个名为 vbaProject.bin 的二进制文件中，其中包含两个支持文件 vbaProject.bin.rels 和 vbaData.xml。
 
-![](http://social.technet.microsoft.com/Forums/getfile/331363)
+![](https://social.technet.microsoft.com/Forums/getfile/331363)
 
 ## 参考
 

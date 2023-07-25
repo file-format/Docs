@@ -29,7 +29,7 @@ DOCM dosya biçimi, Office OpenXML standardına dayalıdır. Microsoft, **Office
 
 DOCM dosya biçimi, Office OpenXML dosya biçimini temel alan aynı DOCX yapısını izler. Bir DOCM dosya biçiminin içeriği, dosya ZIP olarak yeniden adlandırılarak ve herhangi bir destekleyici yardımcı program kullanılarak arşiv açılarak görüntülenebilir. [MS-DOCX](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx) belirtimleri, geliştiricilerin referansı için DOCX dosya biçimi için Office OpenXML dosya biçimi ayrıntılarını tanımlar. ve DOTM için de geçerlidir. Makrolar, vbaProject.bin.rels ve vbaData.xml olmak üzere iki destek dosyasıyla birlikte, vbaProject.bin adlı bir ikili dosyada bulunur.
 
-![](http://social.technet.microsoft.com/Forums/getfile/331363)
+![](https://social.technet.microsoft.com/Forums/getfile/331363)
 
 ## Referanslar
 

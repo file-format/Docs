@@ -29,7 +29,7 @@ Format pliku DOCM oparty jest na standardzie Office OpenXML. To było na począt
 
 Format pliku DOCM ma tę samą strukturę DOCX opartą na formacie pliku Office OpenXML. Zawartość formatu pliku DOCM można wyświetlić, zmieniając jego nazwę na ZIP i otwierając archiwum za pomocą dowolnego narzędzia pomocniczego. Specyfikacje [MS-DOCX](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx) określają szczegóły formatu plików Office OpenXML dla formatu plików DOCX w celach informacyjnych dla programistów i mają również zastosowanie do DOTM. Makra są zawarte w pliku binarnym o nazwie vbaProject.bin, z dwoma plikami pomocniczymi vbaProject.bin.rels i vbaData.xml.
 
-![](http://social.technet.microsoft.com/Forums/getfile/331363)
+![](https://social.technet.microsoft.com/Forums/getfile/331363)
 
 ## Bibliografia
 
