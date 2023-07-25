@@ -50,7 +50,7 @@ Struktur EMBEDDEDFONT telah mengalami tiga kali revisi, dengan penambahan data t
 |unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bit 96-127) - Lihat http://www.microsoft.com/typography/otspec/os2.htm#ur|
 |unsigned long|CodePageRange1|CodePageRange1 (bit 0-31) - Lihat http://www.microsoft.com/typography/otspec/os2.htm#cpr|
 |unsigned long|CodePageRange2|CodePageRange2 (bit 32-63) - Lihat http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - Lihat http://www.microsoft.com/typography/otspec/head.htm|
+|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - Lihat https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Reserved1|Reserved - harus 0|
 |unsigned long|Reserved2|Reserved - harus 0|
 |unsigned long|Reserved3|Reserved - harus 0|

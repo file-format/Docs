@@ -50,7 +50,7 @@
 |unsigned long|UnicodeRange4|os/2.UnicodeRange4 (סיביות 96-127) - ראה http://www.microsoft.com/typography/otspec/os2.htm#ur|
 |unsigned long|CodePageRange1|CodePageRange1 (סיביות 0-31) - ראה http://www.microsoft.com/typography/otspec/os2.htm#cpr|
 |unsigned long|CodePageRange2|CodePageRange2 (סיביות 32-63) - ראה http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|לא חתום ארוך|CheckSumAdjustment|head.CheckSumAdjustment - ראה http://www.microsoft.com/typography/otspec/head.htm|
+|לא חתום ארוך|CheckSumAdjustment|head.CheckSumAdjustment - ראה https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |לא חתום ארוך|שמור1|שמור - חייב להיות 0|
 |לא חתום ארוך|שמור2|שמור - חייב להיות 0|
 |לא חתום ארוך|שמור3|שמור - חייב להיות 0|

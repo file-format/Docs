@@ -50,7 +50,7 @@ Az EMBEDDEDFONT struktúra három felülvizsgálaton esett át, és minden egyes
 |unsigned long|UnicodeRange4|os/2.UnicodeRange4 (96-127 bitek) – Lásd: http://www.microsoft.com/typography/otspec/os2.htm#ur|
 |unsigned long|CodePageRange1|CodePageRange1 (0-31 bitek) – Lásd: http://www.microsoft.com/typography/otspec/os2.htm#cpr|
 |unsigned long|CodePageRange2|CodePageRange2 (32-63 bit) – Lásd: http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment – Lásd: http://www.microsoft.com/typography/otspec/head.htm|
+|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment – Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |aláíratlan hosszú|Fenntartva1|Fenntartva - 0-nak kell lennie|
 |aláíratlan hosszú|Fenntartva2|Fenntartva - 0-nak kell lennie|
 |aláíratlan hosszú|Fenntartva3|Fenntartva - 0-nak kell lennie|

@@ -50,7 +50,7 @@ EMBEDDEDFONT yapısı, her revizyonda yapının sonuna ek veriler eklenerek üç
 |unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bit 96-127) - Bkz. http://www.microsoft.com/typography/otspec/os2.htm#ur|
 |unsigned long|CodePageRange1|CodePageRange1 (bit 0-31) - Bkz. http://www.microsoft.com/typography/otspec/os2.htm#cpr|
 |unsigned long|CodePageRange2|CodePageRange2 (bit 32-63) - Bkz. http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - Bkz. http://www.microsoft.com/typography/otspec/head.htm|
+|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - Bkz. https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |işaretsiz uzun|Ayrılmış1|Ayrılmış - 0 olmalıdır|
 |unsigned long|Ayrılmış2|Ayrılmış - 0 olmalıdır|
 |işaretsiz uzun|Ayrılmış3|Ayrılmış - 0 olmalıdır|

@@ -50,7 +50,7 @@
 |unsigned long|UnicodeRange4|os/2.UnicodeRange4 (біти 96-127) – див. http://www.microsoft.com/typography/otspec/os2.htm#ur|
 |unsigned long|CodePageRange1|CodePageRange1 (біти 0-31) – див. http://www.microsoft.com/typography/otspec/os2.htm#cpr|
 |unsigned long|CodePageRange2|CodePageRange2 (біти 32-63) – див. http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment – Див. http://www.microsoft.com/typography/otspec/head.htm|
+|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment – Див. https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Reserved1|Reserved - має бути 0|
 |unsigned long|Reserved2|Reserved - має бути 0|
 |unsigned long|Reserved3|Reserved - має бути 0|

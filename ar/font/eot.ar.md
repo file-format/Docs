@@ -50,7 +50,7 @@
 | طويل بدون توقيع | UnicodeRange4 | نظام التشغيل / 2.UnicodeRange4 (بت 96-127) - راجع http: //www.microsoft.com/typography/otspec/os2.htm#ur |
 | طويل بدون توقيع | CodePageRange1 | CodePageRange1 (بت 0-31) - راجع http: //www.microsoft.com/typography/otspec/os2.htm#cpr |
 | طويل بدون توقيع | CodePageRange2 | CodePageRange2 (بت 32-63) - راجع http: //www.microsoft.com/typography/otspec/os2.htm#cpr |
-| بدون توقيع طويل | تعديل المجموع الاختباري | head.CheckSumAdjustment - راجع http: //www.microsoft.com/typography/otspec/head.htm |
+| بدون توقيع طويل | تعديل المجموع الاختباري | head.CheckSumAdjustment - راجع https://learn.microsoft.com/en-us/typography/opentype/spec/head |
 | بدون توقيع طويل | محجوز 1 | محجوز - يجب أن يكون 0 |
 | بدون توقيع طويل | محجوز 2 | محجوز - يجب أن يكون 0 |
 | بدون توقيع طويل | محجوز 3 | محجوز - يجب أن يكون 0 |

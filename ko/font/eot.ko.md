@@ -50,7 +50,7 @@ EMBEDDEDFONT 구조는 세 번의 개정을 거쳤으며 각 개정과 함께 �
 |unsigned long|UnicodeRange4|os/2.UnicodeRange4(비트 96-127) - http://www.microsoft.com/typography/otspec/os2.htm#ur| 참조
 |unsigned long|CodePageRange1|CodePageRange1(비트 0-31) - http://www.microsoft.com/typography/otspec/os2.htm#cpr| 참조
 |unsigned long|CodePageRange2|CodePageRange2(비트 32-63) - http://www.microsoft.com/typography/otspec/os2.htm#cpr| 참조
-|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - 참조 http://www.microsoft.com/typography/otspec/head.htm|
+|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - 참조 https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Reserved1|Reserved - 0이어야 함|
 |unsigned long|Reserved2|Reserved - 0이어야 함|
 |unsigned long|Reserved3|Reserved - 0이어야 함|

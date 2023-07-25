@@ -50,7 +50,7 @@
 |unsigned long|UnicodeRange4|os/2.UnicodeRange4 (บิต 96-127) - ดู http://www.microsoft.com/typography/otspec/os2.htm#ur|
 |ความยาวที่ไม่ได้ลงนาม|CodePageRange1|CodePageRange1 (บิต 0-31) - ดู http://www.microsoft.com/typography/otspec/os2.htm#cpr|
 |ความยาวที่ไม่ได้ลงนาม|CodePageRange2|CodePageRange2 (บิต 32-63) - ดู http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|ความยาวที่ไม่ได้ลงชื่อ|CheckSumAdjustment|head.CheckSumAdjustment - ดูที่ http://www.microsoft.com/typography/otspec/head.htm|
+|ความยาวที่ไม่ได้ลงชื่อ|CheckSumAdjustment|head.CheckSumAdjustment - ดูที่ https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |ไม่ได้ลงนามยาว|สงวน1|สงวน - ต้องเป็น 0|
 |ไม่ได้ลงนามยาว|สงวน2|สงวน - ต้องเป็น 0|
 |ความยาวที่ไม่ได้ลงชื่อ|สงวนไว้ 3|สงวนไว้ - ต้องเป็น 0|

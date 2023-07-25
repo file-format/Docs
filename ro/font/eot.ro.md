@@ -50,7 +50,7 @@ Structura EMBEDDEDFONT a suferit trei revizuiri, cu adăugarea de date supliment
 |unsigned long|UnicodeRange4|os/2.UnicodeRange4 (biții 96-127) - A se vedea http://www.microsoft.com/typography/otspec/os2.htm#ur|
 |unsigned long|CodePageRange1|CodePageRange1 (biți 0-31) - Consultați http://www.microsoft.com/typography/otspec/os2.htm#cpr|
 |unsigned long|CodePageRange2|CodePageRange2 (biții 32-63) - Consultați http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - Consultați http://www.microsoft.com/typography/otspec/head.htm|
+|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - Consultați https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Reserved1|Rezervat - trebuie să fie 0|
 |unsigned long|Reserved2|Rezervat - trebuie să fie 0|
 |unsigned long|Reserved3|Rezervat - trebuie să fie 0|

@@ -50,7 +50,7 @@ EMBEDDEDFONT 结构经历了三个修订，每个修订都在结构末尾添加�
 |unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bits 96-127) - 见 http://www.microsoft.com/typography/otspec/os2.htm#ur|
 |unsigned long|CodePageRange1|CodePageRange1（位 0-31） - 请参阅 http://www.microsoft.com/typography/otspec/os2.htm#cpr|
 |unsigned long|CodePageRange2|CodePageRange2（位 32-63） - 请参阅 http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - 请参阅 http://www.microsoft.com/typography/otspec/head.htm|
+|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Reserved1|保留 - 必须为 0|
 |unsigned long|Reserved2|保留 - 必须为 0|
 |unsigned long|Reserved3|保留 - 必须为 0|

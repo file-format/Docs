@@ -50,7 +50,7 @@ EMBEDDEDFONT-strukturen har genomgått tre revisioner, med tillägg av ytterliga
 |unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bitar 96-127) - Se http://www.microsoft.com/typography/otspec/os2.htm#ur|
 |unsigned long|CodePageRange1|CodePageRange1 (bitar 0-31) - Se http://www.microsoft.com/typography/otspec/os2.htm#cpr|
 |unsigned long|CodePageRange2|CodePageRange2 (bitar 32-63) - Se http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - Se http://www.microsoft.com/typography/otspec/head.htm|
+|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - Se https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Reserved1|Reserved - måste vara 0|
 |unsigned long|Reserved2|Reserved - måste vara 0|
 |unsigned long|Reserved3|Reserved - måste vara 0|

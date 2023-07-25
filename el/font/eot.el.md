@@ -50,7 +50,7 @@
 |unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bit 96-127) - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#ur|
 |unsigned long|CodePageRange1|CodePageRange1 (bit 0-31) - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#cpr|
 |unsigned long|CodePageRange2|CodePageRange2 (bit 32-63) - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|ανυπόγραφο long|CheckSumAdjustment|head.CheckSumAdjustment - Δείτε http://www.microsoft.com/typography/otspec/head.htm|
+|ανυπόγραφο long|CheckSumAdjustment|head.CheckSumAdjustment - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |ανυπόγραφο long|Δέσμευση1|Δεσμευμένο - πρέπει να είναι 0|
 |ανυπόγραφο long|Δέσμευση2|Δεσμευμένο - πρέπει να είναι 0|
 |ανυπόγραφο long|Δέσμευση3|Δεσμευμένο - πρέπει να είναι 0|

@@ -50,7 +50,7 @@ De EMBEDDEDFONT-structuur heeft drie revisies ondergaan, met toevoeging van aanv
 |unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bits 96-127) - Zie http://www.microsoft.com/typography/otspec/os2.htm#ur|
 |unsigned long|CodePageRange1|CodePageRange1 (bits 0-31) - Zie http://www.microsoft.com/typography/otspec/os2.htm#cpr|
 |unsigned long|CodePageRange2|CodePageRange2 (bits 32-63) - Zie http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - Zie http://www.microsoft.com/typography/otspec/head.htm|
+|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - Zie https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Gereserveerd1|Gereserveerd - moet 0 zijn|
 |unsigned long|Gereserveerd2|Gereserveerd - moet 0 zijn|
 |unsigned long|Gereserveerd3|Gereserveerd - moet 0 zijn|

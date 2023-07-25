@@ -50,7 +50,7 @@ EMBEDDEDFONT 構造体は 3 回改訂され、改訂ごとに構造体の末尾�
 |unsigned long|UnicodeRange4|os/2.UnicodeRange4 (ビット 96 ～ 127) - http://www.microsoft.com/typography/otspec/os2.htm#ur| を参照してください。
 |unsigned long|CodePageRange1|CodePageRange1 (ビット 0 ～ 31) - http://www.microsoft.com/typography/otspec/os2.htm#cpr| を参照してください。
 |unsigned long|CodePageRange2|CodePageRange2 (ビット 32 ～ 63) - http://www.microsoft.com/typography/otspec/os2.htm#cpr| を参照してください。
-|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - http://www.microsoft.com/typography/otspec/head.htm|を参照してください。
+|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - https://learn.microsoft.com/en-us/typography/opentype/spec/head|を参照してください。
 |unsigned long|Reserved1|予約済み - 必ず 0|
 |unsigned long|Reserved2|予約済み - 必ず 0|
 |unsigned long|Reserved3|予約済み - 必ず 0|

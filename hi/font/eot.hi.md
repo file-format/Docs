@@ -50,7 +50,7 @@ EOT फ़ाइल प्रारूप विवरण [W3 सबमिशन
 |unsigned long|UnicodeRange4|os/2.UnicodeRange4 (बिट्स 96-127) - देखें http://www.microsoft.com/typography/otspec/os2.htm#ur|
 |unsigned long|CodePageRange1|CodePageRange1 (बिट्स 0-31) - देखें http://www.microsoft.com/typography/otspec/os2.htm#cpr|
 |unsigned long|CodePageRange2|CodePageRange2 (बिट्स 32-63) - देखें http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - देखें http://www.microsoft.com/typography/otspec/head.htm|
+|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - देखें https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Reserved1|आरक्षित - 0 होना चाहिए|
 |unsigned long|Reserved2|आरक्षित - 0 होना चाहिए|
 |unsigned long|Reserved3|आरक्षित - 0 होना चाहिए|

@@ -50,7 +50,7 @@ Cấu trúc EMBEDDEDFONT đã trải qua ba lần sửa đổi, với việc b�
 |unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bit 96-127) - Xem http://www.microsoft.com/typography/otspec/os2.htm#ur|
 |unsigned long|CodePageRange1|CodePageRange1 (bit 0-31) - Xem http://www.microsoft.com/typography/otspec/os2.htm#cpr|
 |unsigned long|CodePageRange2|CodePageRange2 (bit 32-63) - Xem http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - Xem http://www.microsoft.com/typography/otspec/head.htm|
+|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - Xem https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Reserveed1|Reserveed - phải là 0|
 |unsigned long|Reserveed2|Reserveed - phải là 0|
 |unsigned long|Reserveed3|Reserveed - phải là 0|
