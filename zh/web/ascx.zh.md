@@ -50,5 +50,5 @@ ASCX 文件以纯文本格式编写，并且可以使用代码隐藏功能，例
 ## 参考
 
 * [ASCX vs ASMX](https://social.msdn.microsoft.com/Forums/en-US/a27d4c2f-b972-439e-a7fe-f4b7e3637700/how-to-work-with-ascx-files?forum=aspwebforms)
-* [ASCX 用户控制](http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
+* [ASCX 用户控制](https://beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

@@ -42,5 +42,5 @@ ASMX файловете са различни от ASPX и ASCX файловет
 ## Препратки
 
 * [Използване на ASMX услуга](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/web-services/asmx)
-* [ASCX потребителски контрол](http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
+* [ASCX потребителски контрол](https://beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

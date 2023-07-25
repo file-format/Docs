@@ -42,5 +42,5 @@ Az ASMX fájlok eltérnek az ASPX és ASCX fájloktól.
 ## Hivatkozások
 
 * [Az ASMX szolgáltatás igénybevétele](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/web-services/asmx)
-* [ASCX felhasználói vezérlés](http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
+* [ASCX felhasználói vezérlés](https://beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

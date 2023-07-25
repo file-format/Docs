@@ -50,5 +50,5 @@ Para usar um controle de usuário único em muitas páginas, o controle da web p
 ## Referências
 
 * [ASCX vs ASMX](https://social.msdn.microsoft.com/Forums/en-US/a27d4c2f-b972-439e-a7fe-f4b7e3637700/how-to-work-with-ascx-files?forum=aspwebforms)
-* [Controle de usuário ASCX](http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
+* [Controle de usuário ASCX](https://beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

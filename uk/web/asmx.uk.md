@@ -42,5 +42,5 @@
 ## Список літератури
 
 * [Використання служби ASMX](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/web-services/asmx)
-* [Керування користувача ASCX](http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
+* [Керування користувача ASCX](https://beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

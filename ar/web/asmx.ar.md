@@ -42,5 +42,5 @@
 ## مراجع
 
 * [استهلاك خدمة ASMX](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/web-services/asmx)
-* [ASCX User Control](http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
+* [ASCX User Control](https://beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

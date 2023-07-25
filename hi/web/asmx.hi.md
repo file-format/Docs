@@ -42,5 +42,5 @@ ASMX फाइलें .NET भाषाओं में लिखी जा �
 ## संदर्भ
 
 * [एएसएमएक्स सेवा का उपभोग](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/web-services/asmx)
-* [एएससीएक्स उपयोगकर्ता नियंत्रण](http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
+* [एएससीएक्स उपयोगकर्ता नियंत्रण](https://beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

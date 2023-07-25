@@ -50,5 +50,5 @@ Tek bir kullanıcı kontrolünü birden fazla sayfada kullanabilmek için web ko
 ## Referanslar
 
 * [ASCX ve ASMX](https://social.msdn.microsoft.com/Forums/en-US/a27d4c2f-b972-439e-a7fe-f4b7e3637700/how-to-work-with-ascx-files?forum=aspwebforms)
-* [ASCX Kullanıcı Kontrolü](http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
+* [ASCX Kullanıcı Kontrolü](https://beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

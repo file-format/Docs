@@ -42,5 +42,5 @@ ASMX dosyaları, ASPX ve ASCX dosyalarından farklıdır.
 ## Referanslar
 
 * [ASMX Hizmetini Kullanma](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/web-services/asmx)
-* [ASCX Kullanıcı Kontrolü](http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
+* [ASCX Kullanıcı Kontrolü](https://beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 
