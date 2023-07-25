@@ -25,5 +25,5 @@
 
 ## Препратки
 
-* [PhCNC](http://www.accuratecnc.com/PhCNC.php)
+* [PhCNC](https://www.accuratecnc.com/PhCNC.php)
 

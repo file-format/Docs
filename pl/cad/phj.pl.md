@@ -25,5 +25,5 @@ Plik z rozszerzeniem .phj to plik projektu utworzony za pomocą oprogramowania P
 
 ## Bibliografia
 
-* [PhCNC](http://www.accuratecnc.com/PhCNC.php)
+* [PhCNC](https://www.accuratecnc.com/PhCNC.php)
 

@@ -25,5 +25,5 @@ Soubor s příponou .phj je soubor projektu vytvořený pomocí softwaru PhCNC p
 
 ## Reference
 
-* [PhCNC](http://www.accuratecnc.com/PhCNC.php)
+* [PhCNC](https://www.accuratecnc.com/PhCNC.php)
 

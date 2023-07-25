@@ -25,5 +25,5 @@ Tệp có phần mở rộng .phj là tệp dự án được tạo bằng phầ
 
 ## Người giới thiệu
 
-* [PhCNC](http://www.accuratecnc.com/PhCNC.php)
+* [PhCNC](https://www.accuratecnc.com/PhCNC.php)
 

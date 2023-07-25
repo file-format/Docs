@@ -25,5 +25,5 @@ A .phj kiterjesztésű fájl egy PhCNC szoftverrel létrehozott projektfájl, am
 
 ## Hivatkozások
 
-* [PhCNC](http://www.accuratecnc.com/PhCNC.php)
+* [PhCNC](https://www.accuratecnc.com/PhCNC.php)
 

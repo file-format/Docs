@@ -25,5 +25,5 @@ Eine Datei mit der Erweiterung .phj ist eine Projektdatei, die mit der PhCNC-Sof
 
 ## Verweise
 
-* [PhCNC](http://www.accuratecnc.com/PhCNC.php)
+* [PhCNC](https://www.accuratecnc.com/PhCNC.php)
 

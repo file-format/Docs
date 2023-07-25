@@ -25,5 +25,5 @@ File dengan ekstensi .phj adalah file proyek yang dibuat dengan perangkat lunak 
 
 ## Referensi
 
-* [PhCNC](http://www.accuratecnc.com/PhCNC.php)
+* [PhCNC](https://www.accuratecnc.com/PhCNC.php)
 

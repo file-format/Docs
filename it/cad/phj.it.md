@@ -25,5 +25,5 @@ Un file con estensione .phj è un file di progetto creato con il software PhCNC 
 
 ## Riferimenti
 
-* [PhCNC](http://www.accuratecnc.com/PhCNC.php)
+* [PhCNC](https://www.accuratecnc.com/PhCNC.php)
 
