@@ -20,7 +20,7 @@
 
 ## .stc dosyası nedir?
 
-Bir STC dosyası, orijinal olarak [StarOffice](http://www.staroffice.com) yazılımı tarafından oluşturulan ve desteklenen bir elektronik tablo şablon dosyasıdır. Sayfa biçimlendirmesi, yazı tipi boyutu, kenar boşlukları, grafikler vb. gibi elektronik tablo ayarlarını yapmak için şablonun bilgilerini kullanan diğer elektronik tablo dosyalarının oluşturulmasına yönelik ayarları içerir. Dosya biçimi daha sonra Apache OpenOffice tarafından benimsendi, ancak daha sonra kullanımı ile değiştirildi. şablon dosyası bilgilerini depolamak için [.ots](/tr/spreadsheet/ots/) dosya biçimi. STC dosyaları OpenOffice Calc, Planamesa NeoOffice ve LibreOffice kullanılarak açılabilir.
+Bir STC dosyası, orijinal olarak [StarOffice](https://www.staroffice.com/) yazılımı tarafından oluşturulan ve desteklenen bir elektronik tablo şablon dosyasıdır. Sayfa biçimlendirmesi, yazı tipi boyutu, kenar boşlukları, grafikler vb. gibi elektronik tablo ayarlarını yapmak için şablonun bilgilerini kullanan diğer elektronik tablo dosyalarının oluşturulmasına yönelik ayarları içerir. Dosya biçimi daha sonra Apache OpenOffice tarafından benimsendi, ancak daha sonra kullanımı ile değiştirildi. şablon dosyası bilgilerini depolamak için [.ots](/tr/spreadsheet/ots/) dosya biçimi. STC dosyaları OpenOffice Calc, Planamesa NeoOffice ve LibreOffice kullanılarak açılabilir.
 
 ## STC Dosya Biçimi
 

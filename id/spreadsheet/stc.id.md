@@ -20,7 +20,7 @@
 
 ## Apa itu file STC?
 
-File STC adalah file template spreadsheet yang awalnya dibuat dan didukung oleh perangkat lunak [StarOffice](http://www.staroffice.com). Ini berisi pengaturan untuk membuat file spreadsheet lain yang menggunakan informasi template untuk mengatur pengaturan spreadsheet seperti pemformatan halaman, ukuran font, margin, bagan, dll. Format file kemudian diadopsi oleh Apache OpenOffice, tetapi kemudian diganti dengan penggunaan dari format file [.ots](/id/spreadsheet/ots/) untuk menyimpan informasi file template. File STC dapat dibuka menggunakan OpenOffice Calc, Planamesa NeoOffice dan LibreOffice.
+File STC adalah file template spreadsheet yang awalnya dibuat dan didukung oleh perangkat lunak [StarOffice](https://www.staroffice.com/). Ini berisi pengaturan untuk membuat file spreadsheet lain yang menggunakan informasi template untuk mengatur pengaturan spreadsheet seperti pemformatan halaman, ukuran font, margin, bagan, dll. Format file kemudian diadopsi oleh Apache OpenOffice, tetapi kemudian diganti dengan penggunaan dari format file [.ots](/id/spreadsheet/ots/) untuk menyimpan informasi file template. File STC dapat dibuka menggunakan OpenOffice Calc, Planamesa NeoOffice dan LibreOffice.
 
 ## Format File STC
 

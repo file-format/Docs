@@ -20,7 +20,7 @@
 
 ## Mi az STC fájl?
 
-Az STC-fájl egy táblázatsablonfájl, amelyet eredetileg a [StarOffice](http://www.staroffice.com) szoftver hozott létre és támogat. Beállításokat tartalmaz más táblázatfájlok létrehozásához, amelyek a sablon információit használják a táblázatbeállítások beállításához, mint például az oldal formázása, a betűméret, a margók, a diagramok stb. A fájlformátumot később az Apache OpenOffice vette át, de később felváltotta a [.ots](/hu/spreadsheet/ots/) fájlformátumból a sablonfájl információinak tárolására. Az STC fájlok megnyithatók az OpenOffice Calc, a Planamesa NeoOffice és a LibreOffice segítségével.
+Az STC-fájl egy táblázatsablonfájl, amelyet eredetileg a [StarOffice](https://www.staroffice.com/) szoftver hozott létre és támogat. Beállításokat tartalmaz más táblázatfájlok létrehozásához, amelyek a sablon információit használják a táblázatbeállítások beállításához, mint például az oldal formázása, a betűméret, a margók, a diagramok stb. A fájlformátumot később az Apache OpenOffice vette át, de később felváltotta a [.ots](/hu/spreadsheet/ots/) fájlformátumból a sablonfájl információinak tárolására. Az STC fájlok megnyithatók az OpenOffice Calc, a Planamesa NeoOffice és a LibreOffice segítségével.
 
 ## STC fájlformátum
 

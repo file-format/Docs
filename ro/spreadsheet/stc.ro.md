@@ -20,7 +20,7 @@
 
 ## Ce este un fișier STC?
 
-Un fișier STC este un fișier șablon de foaie de calcul creat și acceptat inițial de software-ul [StarOffice](http://www.staroffice.com). Conține setări pentru crearea altor fișiere de foi de calcul care utilizează informațiile șablonului pentru a configura setările foii de calcul, cum ar fi formatarea paginii, dimensiunea fontului, marginile, diagramele etc. Formatul de fișier a fost adoptat ulterior de Apache OpenOffice, dar a fost înlocuit ulterior cu utilizarea format de fișier [.ots](/ro/spreadsheet/ots/) pentru stocarea informațiilor despre fișierul șablon. Fișierele STC pot fi deschise folosind OpenOffice Calc, Planamesa NeoOffice și LibreOffice.
+Un fișier STC este un fișier șablon de foaie de calcul creat și acceptat inițial de software-ul [StarOffice](https://www.staroffice.com/). Conține setări pentru crearea altor fișiere de foi de calcul care utilizează informațiile șablonului pentru a configura setările foii de calcul, cum ar fi formatarea paginii, dimensiunea fontului, marginile, diagramele etc. Formatul de fișier a fost adoptat ulterior de Apache OpenOffice, dar a fost înlocuit ulterior cu utilizarea format de fișier [.ots](/ro/spreadsheet/ots/) pentru stocarea informațiilor despre fișierul șablon. Fișierele STC pot fi deschise folosind OpenOffice Calc, Planamesa NeoOffice și LibreOffice.
 
 ## Format de fișier STC
 

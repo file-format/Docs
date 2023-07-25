@@ -20,7 +20,7 @@
 
 ## Czym jest plik STC?
 
-Plik STC to plik szablonu arkusza kalkulacyjnego utworzony i obsługiwany pierwotnie przez oprogramowanie [StarOffice](http://www.staroffice.com). Zawiera ustawienia do tworzenia innych plików arkuszy kalkulacyjnych, które wykorzystują informacje z szablonu do konfigurowania ustawień arkusza kalkulacyjnego, takich jak formatowanie strony, rozmiar czcionki, marginesy, wykresy itp. Format pliku został później przyjęty przez Apache OpenOffice, ale później został zastąpiony użyciem formatu pliku [.ots](/pl/spreadsheet/ots/) do przechowywania informacji o pliku szablonu. Pliki STC można otwierać za pomocą OpenOffice Calc, Planamesa NeoOffice i LibreOffice.
+Plik STC to plik szablonu arkusza kalkulacyjnego utworzony i obsługiwany pierwotnie przez oprogramowanie [StarOffice](https://www.staroffice.com/). Zawiera ustawienia do tworzenia innych plików arkuszy kalkulacyjnych, które wykorzystują informacje z szablonu do konfigurowania ustawień arkusza kalkulacyjnego, takich jak formatowanie strony, rozmiar czcionki, marginesy, wykresy itp. Format pliku został później przyjęty przez Apache OpenOffice, ale później został zastąpiony użyciem formatu pliku [.ots](/pl/spreadsheet/ots/) do przechowywania informacji o pliku szablonu. Pliki STC można otwierać za pomocą OpenOffice Calc, Planamesa NeoOffice i LibreOffice.
 
 ## Format pliku STC
 

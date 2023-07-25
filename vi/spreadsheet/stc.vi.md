@@ -20,7 +20,7 @@
 
 ## Tệp STC là gì?
 
-Tệp STC là tệp mẫu bảng tính được tạo và hỗ trợ ban đầu bởi phần mềm [StarOffice](http://www.staroffice.com). Nó chứa các cài đặt để tạo các tệp bảng tính khác sử dụng thông tin của mẫu để thiết lập cài đặt bảng tính, chẳng hạn như định dạng trang, cỡ chữ, lề, biểu đồ, v.v. Định dạng tệp này sau đó đã được Apache OpenOffice sử dụng, nhưng sau đó đã được thay thế bằng của định dạng tệp [.ots](/vi/spreadsheet/ots/) để lưu trữ thông tin tệp mẫu. Các tệp STC có thể được mở bằng OpenOffice Calc, Plannamesa NeoOffice và LibreOffice.
+Tệp STC là tệp mẫu bảng tính được tạo và hỗ trợ ban đầu bởi phần mềm [StarOffice](https://www.staroffice.com/). Nó chứa các cài đặt để tạo các tệp bảng tính khác sử dụng thông tin của mẫu để thiết lập cài đặt bảng tính, chẳng hạn như định dạng trang, cỡ chữ, lề, biểu đồ, v.v. Định dạng tệp này sau đó đã được Apache OpenOffice sử dụng, nhưng sau đó đã được thay thế bằng của định dạng tệp [.ots](/vi/spreadsheet/ots/) để lưu trữ thông tin tệp mẫu. Các tệp STC có thể được mở bằng OpenOffice Calc, Plannamesa NeoOffice và LibreOffice.
 
 ## Định dạng tệp STC
 

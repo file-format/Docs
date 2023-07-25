@@ -20,7 +20,7 @@
 
 ## .STC オプション番号
 
-STC ファイルは、[StarOffice](http://www.staroffice.com) ソフトウェアによって最初に作成およびサポートされたスプレッドシート テンプレート ファイルです。テンプレートの情報を使用して、ページの書式設定、フォント サイズ、余白、グラフなどのスプレッドシート設定をセットアップする他のスプレッドシート ファイルを作成するための設定が含まれています。 [.ots](/spreadsheet/ots/) ファイル形式のテンプレート ファイル情報を格納します。 STC ファイルは、OpenOffice Calc、Planamesa NeoOffice、および LibreOffice を使用して開くことができます。
+STC ファイルは、[StarOffice](https://www.staroffice.com/) ソフトウェアによって最初に作成およびサポートされたスプレッドシート テンプレート ファイルです。テンプレートの情報を使用して、ページの書式設定、フォント サイズ、余白、グラフなどのスプレッドシート設定をセットアップする他のスプレッドシート ファイルを作成するための設定が含まれています。 [.ots](/spreadsheet/ots/) ファイル形式のテンプレート ファイル情報を格納します。 STC ファイルは、OpenOffice Calc、Planamesa NeoOffice、および LibreOffice を使用して開くことができます。
 
 ## STC ファイル形式
 
