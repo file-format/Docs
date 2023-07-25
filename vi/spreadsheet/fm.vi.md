@@ -31,5 +31,5 @@ FileMaker Pro có thể chuyển đổi trực tiếp định dạng tệp FM sa
 
 ## Người giới thiệu
 
-* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [FileMaker Pro](https://www.claris.com/filemaker/)
 * [PRONOM - Định dạng tệp FM](https://www.nationalarchives.gov.uk/PRONOM/fmt/1059)

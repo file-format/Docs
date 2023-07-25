@@ -31,5 +31,5 @@ A FileMaker Pro közvetlenül konvertálja az FM-et .fmp12 fájlformátumba. Lé
 
 ## Hivatkozások
 
-* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [FileMaker Pro](https://www.claris.com/filemaker/)
 * [PRONOM – FM fájlformátum](https://www.nationalarchives.gov.uk/PRONOM/fmt/1059)

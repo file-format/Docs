@@ -19,7 +19,7 @@
 
 ## .fp dosyası nedir?
 
-.fp uzantılı bir dosya, Claris tarafından [FileMaker Pro](https://www.claris.com/filemaker/pro/) yazılımıyla oluşturulan bir elektronik tablo dosyasıdır. Verileri Microsoft Excel'e benzer bir satır ve sütunda depolar. FileMaker Pro, verilerini içe aktarmak için CSV ve XML gibi çeşitli dosya türlerini sürükleyip bırakmanıza olanak tanır.
+.fp uzantılı bir dosya, Claris tarafından [FileMaker Pro](https://www.claris.com/filemaker/) yazılımıyla oluşturulan bir elektronik tablo dosyasıdır. Verileri Microsoft Excel'e benzer bir satır ve sütunda depolar. FileMaker Pro, verilerini içe aktarmak için CSV ve XML gibi çeşitli dosya türlerini sürükleyip bırakmanıza olanak tanır.
 
 ## FP Dosya Biçimi
 
@@ -27,6 +27,6 @@ FP dosyaları tescilli dosya biçiminde kaydedilir ve dosya biçimi ayrıntılar
 
 ## Referanslar
 
-* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [FileMaker Pro](https://www.claris.com/filemaker/)
 * [fmapi](https://github.com/stevenwhitespacesystems/fm-xml2json)
 

@@ -19,7 +19,7 @@
 
 ## Що таке файл FP?
 
-Файл із розширенням .fp – це файл електронної таблиці, створений за допомогою програмного забезпечення [FileMaker Pro](https://www.claris.com/filemaker/pro/) компанії Claris. Він зберігає дані в рядках і стовпцях, подібно до Microsoft Excel. FileMaker Pro дозволяє перетягувати кілька типів файлів, наприклад CSV і XML, щоб імпортувати їх дані.
+Файл із розширенням .fp – це файл електронної таблиці, створений за допомогою програмного забезпечення [FileMaker Pro](https://www.claris.com/filemaker/) компанії Claris. Він зберігає дані в рядках і стовпцях, подібно до Microsoft Excel. FileMaker Pro дозволяє перетягувати кілька типів файлів, наприклад CSV і XML, щоб імпортувати їх дані.
 
 ## Формат файлу FP
 
@@ -27,6 +27,6 @@
 
 ## Список літератури
 
-* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [FileMaker Pro](https://www.claris.com/filemaker/)
 * [fmapi](https://github.com/stevenwhitespacesystems/fm-xml2json)
 

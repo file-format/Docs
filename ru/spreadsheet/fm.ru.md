@@ -31,5 +31,5 @@ FileMaker Pro может напрямую конвертировать FM в ф�
 
 ## использованная литература
 
-* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [FileMaker Pro](https://www.claris.com/filemaker/)
 * [PRONOM — формат файла FM](https://www.nationalarchives.gov.uk/PRONOM/fmt/1059)

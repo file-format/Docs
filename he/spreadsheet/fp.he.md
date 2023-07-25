@@ -19,7 +19,7 @@
 
 ## מהו קובץ FP?
 
-קובץ עם סיומת .fp הוא קובץ גיליון אלקטרוני שנוצר באמצעות תוכנת [FileMaker Pro](https://www.claris.com/filemaker/pro/) על ידי Claris. הוא מאחסן נתונים בשורות ובעמודות בדומה ל-Microsoft Excel. FileMaker Pro מאפשר לך לגרור ולשחרר מספר סוגי קבצים כגון CSV ו-XML כדי לייבא את הנתונים שלהם.
+קובץ עם סיומת .fp הוא קובץ גיליון אלקטרוני שנוצר באמצעות תוכנת [FileMaker Pro](https://www.claris.com/filemaker/) על ידי Claris. הוא מאחסן נתונים בשורות ובעמודות בדומה ל-Microsoft Excel. FileMaker Pro מאפשר לך לגרור ולשחרר מספר סוגי קבצים כגון CSV ו-XML כדי לייבא את הנתונים שלהם.
 
 ## פורמט קובץ FP
 
@@ -27,6 +27,6 @@
 
 ## הפניות
 
-* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [FileMaker Pro](https://www.claris.com/filemaker/)
 * [fmapi](https://github.com/stevenwhitespacesystems/fm-xml2json)
 

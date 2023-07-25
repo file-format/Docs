@@ -19,7 +19,7 @@
 
 ## Czym jest plik FP?
 
-Plik z rozszerzeniem .fp to plik arkusza kalkulacyjnego utworzony za pomocą oprogramowania [FileMaker Pro](https://www.claris.com/filemaker/pro/) firmy Claris. Przechowuje dane w wierszach i kolumnach podobnych do programu Microsoft Excel. FileMaker Pro umożliwia przeciąganie i upuszczanie wielu typów plików, takich jak CSV i XML, w celu zaimportowania ich danych.
+Plik z rozszerzeniem .fp to plik arkusza kalkulacyjnego utworzony za pomocą oprogramowania [FileMaker Pro](https://www.claris.com/filemaker/) firmy Claris. Przechowuje dane w wierszach i kolumnach podobnych do programu Microsoft Excel. FileMaker Pro umożliwia przeciąganie i upuszczanie wielu typów plików, takich jak CSV i XML, w celu zaimportowania ich danych.
 
 ## Format pliku FP
 
@@ -27,6 +27,6 @@ Pliki FP są zapisywane w zastrzeżonym formacie pliku, a szczegóły ich format
 
 ## Bibliografia
 
-* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [FileMaker Pro](https://www.claris.com/filemaker/)
 * [fmapi](https://github.com/stevenwhitespacesystems/fm-xml2json)
 

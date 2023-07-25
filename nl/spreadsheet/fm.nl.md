@@ -31,5 +31,5 @@ FileMaker Pro kan FM rechtstreeks converteren naar het .fmp12-bestandsformaat. E
 
 ## Referenties
 
-* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [FileMaker Pro](https://www.claris.com/filemaker/)
 * [PRONOM - FM-bestandsindeling](https://www.nationalarchives.gov.uk/PRONOM/fmt/1059)

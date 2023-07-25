@@ -19,7 +19,7 @@
 
 ## Was ist eine FP-Datei?
 
-Eine Datei mit der Erweiterung .fp ist eine Tabellenkalkulationsdatei, die mit der Software [FileMaker Pro](https://www.claris.com/filemaker/pro/) von Claris erstellt wurde. Es speichert Daten in Zeilen und Spalten ähnlich wie Microsoft Excel. Mit FileMaker Pro können Sie eine Reihe von Dateitypen wie CSV und XML ziehen und ablegen, um ihre Daten zu importieren.
+Eine Datei mit der Erweiterung .fp ist eine Tabellenkalkulationsdatei, die mit der Software [FileMaker Pro](https://www.claris.com/filemaker/) von Claris erstellt wurde. Es speichert Daten in Zeilen und Spalten ähnlich wie Microsoft Excel. Mit FileMaker Pro können Sie eine Reihe von Dateitypen wie CSV und XML ziehen und ablegen, um ihre Daten zu importieren.
 
 ## FP-Dateiformat
 
@@ -27,6 +27,6 @@ FP-Dateien werden in einem proprietären Dateiformat gespeichert und ihre Dateif
 
 ## Verweise
 
-* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [FileMaker Pro](https://www.claris.com/filemaker/)
 * [fmapi](https://github.com/stevenwhitespacesystems/fm-xml2json)
 

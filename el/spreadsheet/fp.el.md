@@ -19,7 +19,7 @@
 
 ## Τι είναι ένα αρχείο FP;
 
-Ένα αρχείο με επέκταση .fp είναι ένα αρχείο υπολογιστικού φύλλου που δημιουργήθηκε με το λογισμικό [FileMaker Pro](https://www.claris.com/filemaker/pro/) από την Claris. Αποθηκεύει δεδομένα σε γραμμές και στήλες παρόμοιες με το Microsoft Excel. Το FileMaker Pro σάς επιτρέπει να σύρετε και να αποθέσετε έναν αριθμό τύπων αρχείων όπως CSV και XML για να εισαγάγετε τα δεδομένα τους.
+Ένα αρχείο με επέκταση .fp είναι ένα αρχείο υπολογιστικού φύλλου που δημιουργήθηκε με το λογισμικό [FileMaker Pro](https://www.claris.com/filemaker/) από την Claris. Αποθηκεύει δεδομένα σε γραμμές και στήλες παρόμοιες με το Microsoft Excel. Το FileMaker Pro σάς επιτρέπει να σύρετε και να αποθέσετε έναν αριθμό τύπων αρχείων όπως CSV και XML για να εισαγάγετε τα δεδομένα τους.
 
 ## Μορφή αρχείου FP
 
@@ -27,6 +27,6 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [FileMaker Pro](https://www.claris.com/filemaker/)
 * [fmapi](https://github.com/stevenwhitespacesystems/fm-xml2json)
 

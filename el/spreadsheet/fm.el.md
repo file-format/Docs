@@ -31,5 +31,5 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [FileMaker Pro](https://www.claris.com/filemaker/)
 * [PRONOM - Μορφή αρχείου FM](https://www.nationalarchives.gov.uk/PRONOM/fmt/1059)

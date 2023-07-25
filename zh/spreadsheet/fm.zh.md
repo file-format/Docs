@@ -31,5 +31,5 @@ FileMaker Pro 可以直接将 FM 转换为 .fmp12 文件格式。 [将 FM 文件
 
 ## 参考
 
-* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [FileMaker Pro](https://www.claris.com/filemaker/)
 * [PRONOM - FM 文件格式](https://www.nationalarchives.gov.uk/PRONOM/fmt/1059)

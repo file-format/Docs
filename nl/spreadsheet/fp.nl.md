@@ -19,7 +19,7 @@
 
 ## Wat is een FP-bestand?
 
-Een bestand met de extensie .fp is een spreadsheetbestand dat door Claris is gemaakt met [FileMaker Pro](https://www.claris.com/filemaker/pro/)-software. Het slaat gegevens op in rijen en kolommen, vergelijkbaar met Microsoft Excel. Met FileMaker Pro kunt u een aantal bestandstypen, zoals CSV en XML, slepen en neerzetten om hun gegevens te importeren.
+Een bestand met de extensie .fp is een spreadsheetbestand dat door Claris is gemaakt met [FileMaker Pro](https://www.claris.com/filemaker/)-software. Het slaat gegevens op in rijen en kolommen, vergelijkbaar met Microsoft Excel. Met FileMaker Pro kunt u een aantal bestandstypen, zoals CSV en XML, slepen en neerzetten om hun gegevens te importeren.
 
 ## FP-bestandsindeling
 
@@ -27,6 +27,6 @@ FP-bestanden worden opgeslagen in een eigen bestandsindeling en de details van h
 
 ## Referenties
 
-* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [FileMaker Pro](https://www.claris.com/filemaker/)
 * [fmapi](https://github.com/stevenwhitespacesystems/fm-xml2json)
 

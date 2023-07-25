@@ -19,7 +19,7 @@
 
 ## .FP ファイル拡張子
 
-拡張子が .fp のファイルは、Claris の [FileMaker Pro](https://www.claris.com/filemaker/pro/) ソフトウェアで作成されたスプレッドシート ファイルです。 Microsoft Excel と同様に、行と列にデータを格納します。 FileMaker Pro では、CSV や XML などのさまざまな種類のファイルをドラッグ アンド ドロップして、それらのデータをインポートできます。
+拡張子が .fp のファイルは、Claris の [FileMaker Pro](https://www.claris.com/filemaker/) ソフトウェアで作成されたスプレッドシート ファイルです。 Microsoft Excel と同様に、行と列にデータを格納します。 FileMaker Pro では、CSV や XML などのさまざまな種類のファイルをドラッグ アンド ドロップして、それらのデータをインポートできます。
 
 ## FP ファイル形式
 
@@ -27,6 +27,6 @@ FP ファイルは独自のファイル形式で保存され、そのファイ�
 
 ## 参考文献
 
-* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [FileMaker Pro](https://www.claris.com/filemaker/)
 * [fmapi](https://github.com/stevenwhitespacesystems/fm-xml2json)
 
