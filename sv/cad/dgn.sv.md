@@ -44,6 +44,5 @@ En MicroStation V8 DGN-fil består av en eller flera modeller. En modell är en 
 ## Referenser
 
 * [DNG - av Wikipedia](https://en.wikipedia.org/wiki/DGN)
-* [OpenDNG](http://www.bentley.com/opendgn)
 * [MicroStation V8 DGN-filformat](https://web.archive.org/web/20120713013730/http://docs.bentley.com/ko/MicroStation/ustnhelp47.html)
 

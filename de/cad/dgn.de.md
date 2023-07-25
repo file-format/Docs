@@ -44,6 +44,5 @@ Eine MicroStation V8 DGN-Datei besteht aus einem oder mehreren Modellen. Ein Mod
 ## Verweise
 
 * [DNG – Von Wikipedia](https://en.wikipedia.org/wiki/DGN)
-* [OpenDNG](http://www.bentley.com/opendgn)
 * [MicroStation V8 DGN-Dateiformat](https://web.archive.org/web/20120713013730/http://docs.bentley.com/ko/MicroStation/ustnhelp47.html)
 

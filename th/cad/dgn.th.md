@@ -44,6 +44,5 @@
 ## อ้างอิง
 
 * [DNG - โดย Wikipedia](https://en.wikipedia.org/wiki/DGN)
-* [OpenDNG](http://www.bentley.com/opendgn)
 * [รูปแบบไฟล์ MicroStation V8 DGN](https://web.archive.org/web/20120713013730/http://docs.bentley.com/ko/MicroStation/ustnhelp47.html)
 

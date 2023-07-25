@@ -44,6 +44,5 @@ Um arquivo MicroStation V8 DGN é composto por um ou mais modelos. Um modelo é 
 ## Referências
 
 * [DNG - Por Wikipedia](https://en.wikipedia.org/wiki/DGN)
-* [OpenDNG](http://www.bentley.com/opendgn)
 * [Formato de arquivo DGN MicroStation V8](https://web.archive.org/web/20120713013730/http://docs.bentley.com/ko/MicroStation/ustnhelp47.html)
 

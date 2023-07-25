@@ -44,6 +44,5 @@ Soubor MicroStation V8 DGN se skládá z jednoho nebo více modelů. Model je ko
 ## Reference
 
 * [DNG – z Wikipedie](https://en.wikipedia.org/wiki/DGN)
-* [OpenDNG](http://www.bentley.com/opendgn)
 * [Formát souboru MicroStation V8 DGN](https://web.archive.org/web/20120713013730/http://docs.bentley.com/ko/MicroStation/ustnhelp47.html)
 

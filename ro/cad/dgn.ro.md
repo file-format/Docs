@@ -44,6 +44,5 @@ Un fișier DGN MicroStation V8 este compus din unul sau mai multe modele. Un mod
 ## Referințe
 
 * [DNG - După Wikipedia](https://en.wikipedia.org/wiki/DGN)
-* [OpenDNG](http://www.bentley.com/opendgn)
 * [Format de fișier DGN MicroStation V8](https://web.archive.org/web/20120713013730/http://docs.bentley.com/ko/MicroStation/ustnhelp47.html)
 

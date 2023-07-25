@@ -44,6 +44,5 @@ MicroStation V8 DGN 文件由一个或多个模型组成。模型是元素的容
 ## 参考
 
 * [DNG - 维基百科](https://en.wikipedia.org/wiki/DGN)
-* [OpenDNG](http://www.bentley.com/opendgn)
 * [MicroStation V8 DGN 文件格式](https://web.archive.org/web/20120713013730/http://docs.bentley.com/ko/MicroStation/ustnhelp47.html)
 
