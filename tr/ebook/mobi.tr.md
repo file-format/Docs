@@ -19,7 +19,7 @@
 
 ## MOBI dosyası nedir?
 
-MOBI dosya formatı, en yaygın kullanılan e-kitap dosya formatlarından biridir. Biçim, eski OEB (Açık E-Kitap Biçimi) biçiminin geliştirilmiş halidir ve Mobipocket Reader için tescilli biçim olarak kullanılmıştır. [EPUB](/tr/ebook/epub/) gibi, özellikle düşük bant genişliğine sahip mobil cihazlar tarafından neredeyse tüm modern e-okuyucular tarafından desteklenir. Biçim, [Kindle uygulaması](https://www.amazon.com/kindle) gibi halka açık yazılım uygulamaları kullanılarak [PDF](/tr/pdf/), EPUB gibi başka biçimlere ve birkaç başka biçime dönüştürülebilir. -dbs/fd/kcp). Ücretsiz MOBI kitapları sunan [Project Gutenberg](http://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/) ve [Open Library]( https://openlibrary.org/).
+MOBI dosya formatı, en yaygın kullanılan e-kitap dosya formatlarından biridir. Biçim, eski OEB (Açık E-Kitap Biçimi) biçiminin geliştirilmiş halidir ve Mobipocket Reader için tescilli biçim olarak kullanılmıştır. [EPUB](/tr/ebook/epub/) gibi, özellikle düşük bant genişliğine sahip mobil cihazlar tarafından neredeyse tüm modern e-okuyucular tarafından desteklenir. Biçim, [Kindle uygulaması](https://www.amazon.com/kindle) gibi halka açık yazılım uygulamaları kullanılarak [PDF](/tr/pdf/), EPUB gibi başka biçimlere ve birkaç başka biçime dönüştürülebilir. -dbs/fd/kcp). Ücretsiz MOBI kitapları sunan [Project Gutenberg](https://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/) ve [Open Library]( https://openlibrary.org/).
 
 ## MOBI Dosya Formatının Kısa Tarihi
 

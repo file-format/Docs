@@ -19,7 +19,7 @@
 
 ## ไฟล์ MOBI คืออะไร??
 
-รูปแบบไฟล์ MOBI เป็นหนึ่งในรูปแบบไฟล์ ebook ที่ใช้กันอย่างแพร่หลาย รูปแบบนี้เป็นการปรับปรุงรูปแบบ OEB (รูปแบบ Open Ebook) แบบเก่า และใช้เป็นรูปแบบกรรมสิทธิ์สำหรับ Mobipocket Reader เช่นเดียวกับ [EPUB](/th/ebook/epub/) ได้รับการสนับสนุนโดย e-reader สมัยใหม่เกือบทั้งหมด โดยเฉพาะบนอุปกรณ์พกพาที่มีแบนด์วิดท์ต่ำ สามารถแปลงรูปแบบเป็นรูปแบบอื่นๆ ได้หลายรูปแบบ เช่น [PDF](/th/pdf/), EPUB และรูปแบบอื่นๆ อีกมากมายโดยใช้แอปพลิเคชันซอฟต์แวร์ที่เผยแพร่ต่อสาธารณะ เช่น [แอป Kindle](https://www.amazon.com/kindle -dbs/fd/kcp) มีหลายบริษัทที่ให้บริการหนังสือ MOBI ฟรี เช่น [Project Gutenberg](http://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/) และ [Open Library]( https://openlibrary.org/).
+รูปแบบไฟล์ MOBI เป็นหนึ่งในรูปแบบไฟล์ ebook ที่ใช้กันอย่างแพร่หลาย รูปแบบนี้เป็นการปรับปรุงรูปแบบ OEB (รูปแบบ Open Ebook) แบบเก่า และใช้เป็นรูปแบบกรรมสิทธิ์สำหรับ Mobipocket Reader เช่นเดียวกับ [EPUB](/th/ebook/epub/) ได้รับการสนับสนุนโดย e-reader สมัยใหม่เกือบทั้งหมด โดยเฉพาะบนอุปกรณ์พกพาที่มีแบนด์วิดท์ต่ำ สามารถแปลงรูปแบบเป็นรูปแบบอื่นๆ ได้หลายรูปแบบ เช่น [PDF](/th/pdf/), EPUB และรูปแบบอื่นๆ อีกมากมายโดยใช้แอปพลิเคชันซอฟต์แวร์ที่เผยแพร่ต่อสาธารณะ เช่น [แอป Kindle](https://www.amazon.com/kindle -dbs/fd/kcp) มีหลายบริษัทที่ให้บริการหนังสือ MOBI ฟรี เช่น [Project Gutenberg](https://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/) และ [Open Library]( https://openlibrary.org/).
 
 ## ประวัติโดยย่อของรูปแบบไฟล์ MOBI
 

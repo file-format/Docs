@@ -19,7 +19,7 @@
 
 ## ما هو ملف MOBI؟
 
-يعد تنسيق ملف MOBI أحد أكثر تنسيقات ملفات الكتب الإلكترونية استخدامًا. يعد التنسيق تحسينًا للتنسيق القديم OEB (تنسيق Open Ebook) وقد تم استخدامه كتنسيق خاص لـ Mobipocket Reader. مثل [EPUB](/ar/ebook/epub/) ، يتم دعمه تقريبًا بواسطة جميع أجهزة القراءة الإلكترونية الحديثة على وجه التحديد بواسطة أجهزة الجوال ذات النطاق الترددي المنخفض. يمكن تحويل التنسيق إلى عدة تنسيقات أخرى مثل [PDF](/ar/pdf/) و EPUB والعديد من التنسيقات الأخرى باستخدام تطبيقات البرامج المتاحة للجمهور مثل [تطبيق Kindle](https://www.amazon.com/kindle-dbs/fd/kcp). هناك العديد من الشركات التي تقدم كتب MOBI مجانية مثل [Project Gutenberg](http://www.gutenberg.org/) و [Feedbooks](http://www.feedbooks.com/) و [Open Library]( https://openlibrary.org/).
+يعد تنسيق ملف MOBI أحد أكثر تنسيقات ملفات الكتب الإلكترونية استخدامًا. يعد التنسيق تحسينًا للتنسيق القديم OEB (تنسيق Open Ebook) وقد تم استخدامه كتنسيق خاص لـ Mobipocket Reader. مثل [EPUB](/ar/ebook/epub/) ، يتم دعمه تقريبًا بواسطة جميع أجهزة القراءة الإلكترونية الحديثة على وجه التحديد بواسطة أجهزة الجوال ذات النطاق الترددي المنخفض. يمكن تحويل التنسيق إلى عدة تنسيقات أخرى مثل [PDF](/ar/pdf/) و EPUB والعديد من التنسيقات الأخرى باستخدام تطبيقات البرامج المتاحة للجمهور مثل [تطبيق Kindle](https://www.amazon.com/kindle-dbs/fd/kcp). هناك العديد من الشركات التي تقدم كتب MOBI مجانية مثل [Project Gutenberg](https://www.gutenberg.org/) و [Feedbooks](http://www.feedbooks.com/) و [Open Library]( https://openlibrary.org/).
 
 ## تاريخ موجز لتنسيق ملف MOBI
 

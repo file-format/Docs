@@ -19,7 +19,7 @@
 
 ## Apa itu file MOBI?
 
-Format file MOBI adalah salah satu format file ebook yang paling banyak digunakan. Format tersebut merupakan penyempurnaan dari format OEB (Open Ebook Format) lama dan digunakan sebagai format berpemilik untuk Mobipocket Reader. Seperti [EPUB](/id/ebook/epub/), ini didukung oleh hampir semua e-reader modern khususnya oleh perangkat seluler dengan bandwidth rendah. Formatnya dapat dikonversi ke beberapa format lain seperti [PDF](/id/pdf/), EPUB, dan beberapa format lainnya menggunakan aplikasi perangkat lunak yang tersedia untuk umum seperti [Kindle app](https://www.amazon.com/kindle -dbs/fd/kcp). Ada beberapa perusahaan yang menawarkan buku MOBI gratis seperti [Project Gutenberg](http://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/), dan [Open Library]( https://openlibrary.org/).
+Format file MOBI adalah salah satu format file ebook yang paling banyak digunakan. Format tersebut merupakan penyempurnaan dari format OEB (Open Ebook Format) lama dan digunakan sebagai format berpemilik untuk Mobipocket Reader. Seperti [EPUB](/id/ebook/epub/), ini didukung oleh hampir semua e-reader modern khususnya oleh perangkat seluler dengan bandwidth rendah. Formatnya dapat dikonversi ke beberapa format lain seperti [PDF](/id/pdf/), EPUB, dan beberapa format lainnya menggunakan aplikasi perangkat lunak yang tersedia untuk umum seperti [Kindle app](https://www.amazon.com/kindle -dbs/fd/kcp). Ada beberapa perusahaan yang menawarkan buku MOBI gratis seperti [Project Gutenberg](https://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/), dan [Open Library]( https://openlibrary.org/).
 
 ## Sejarah Singkat Format File MOBI
 

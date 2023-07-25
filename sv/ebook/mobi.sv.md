@@ -19,7 +19,7 @@
 
 ## Vad är en MOBI fil?
 
-MOBI-filformatet är ett av de mest använda e-boksfilformaten. Formatet är en förbättring av det gamla OEB-formatet (Open Ebook Format) och användes som det proprietära formatet för Mobipocket Reader. Precis som [EPUB](/sv/ebook/epub/) stöds den av nästan alla moderna e-läsare, speciellt av mobila enheter med låg bandbredd. Formatet kan konverteras till flera andra format som [PDF](/sv/pdf/), EPUB och flera andra format med allmänt tillgängliga program som [Kindle-appen](https://www.amazon.com/kindle -dbs/fd/kcp). Det finns flera företag som erbjuder gratis MOBI-böcker som [Project Gutenberg](http://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/) och [Open Library]( https://openlibrary.org/).
+MOBI-filformatet är ett av de mest använda e-boksfilformaten. Formatet är en förbättring av det gamla OEB-formatet (Open Ebook Format) och användes som det proprietära formatet för Mobipocket Reader. Precis som [EPUB](/sv/ebook/epub/) stöds den av nästan alla moderna e-läsare, speciellt av mobila enheter med låg bandbredd. Formatet kan konverteras till flera andra format som [PDF](/sv/pdf/), EPUB och flera andra format med allmänt tillgängliga program som [Kindle-appen](https://www.amazon.com/kindle -dbs/fd/kcp). Det finns flera företag som erbjuder gratis MOBI-böcker som [Project Gutenberg](https://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/) och [Open Library]( https://openlibrary.org/).
 
 ## Kort historik om MOBI-filformat
 

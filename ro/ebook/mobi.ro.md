@@ -19,7 +19,7 @@
 
 ## Ce este un fișier MOBI?
 
-Formatul de fișier MOBI este unul dintre cele mai utilizate formate de fișiere ebook. Formatul este o îmbunătățire a vechiului format OEB (Open Ebook Format) și a fost folosit ca format proprietar pentru Mobipocket Reader. La fel ca [EPUB](/ro/ebook/epub/), este acceptat de aproape toate cititoarele electronice moderne, în special de dispozitivele mobile cu lățime de bandă redusă. Formatul poate fi convertit în mai multe alte formate, cum ar fi [PDF](/ro/pdf/), EPUB și alte câteva formate folosind aplicații software disponibile public, cum ar fi [aplicația Kindle](https://www.amazon.com/kindle). -dbs/fd/kcp). Există mai multe companii care oferă cărți MOBI gratuite, cum ar fi [Project Gutenberg](http://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/) și [Open Library]( https://openlibrary.org/).
+Formatul de fișier MOBI este unul dintre cele mai utilizate formate de fișiere ebook. Formatul este o îmbunătățire a vechiului format OEB (Open Ebook Format) și a fost folosit ca format proprietar pentru Mobipocket Reader. La fel ca [EPUB](/ro/ebook/epub/), este acceptat de aproape toate cititoarele electronice moderne, în special de dispozitivele mobile cu lățime de bandă redusă. Formatul poate fi convertit în mai multe alte formate, cum ar fi [PDF](/ro/pdf/), EPUB și alte câteva formate folosind aplicații software disponibile public, cum ar fi [aplicația Kindle](https://www.amazon.com/kindle). -dbs/fd/kcp). Există mai multe companii care oferă cărți MOBI gratuite, cum ar fi [Project Gutenberg](https://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/) și [Open Library]( https://openlibrary.org/).
 
 ## Scurt istoric al formatului de fișier MOBI
 

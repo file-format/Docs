@@ -19,7 +19,7 @@
 
 ## Co je soubor MOBI?
 
-Formát souboru MOBI je jedním z nejpoužívanějších formátů souborů elektronických knih. Formát je vylepšením starého formátu OEB (Open Ebook Format) a byl použit jako proprietární formát pro Mobipocket Reader. Stejně jako [EPUB](/cs/ebook/epub/) jej podporují téměř všechny moderní elektronické čtečky, konkrétně mobilní zařízení s nízkou šířkou pásma. Formát lze převést na několik dalších formátů, jako je [PDF](/cs/pdf/), EPUB a několik dalších formátů pomocí veřejně dostupných softwarových aplikací, jako je [aplikace Kindle](https://www.amazon.com/kindle -dbs/fd/kcp). Existuje několik společností, které nabízejí bezplatné knihy MOBI, například [Project Gutenberg](http://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/) a [Otevřená knihovna]( https://openlibrary.org/).
+Formát souboru MOBI je jedním z nejpoužívanějších formátů souborů elektronických knih. Formát je vylepšením starého formátu OEB (Open Ebook Format) a byl použit jako proprietární formát pro Mobipocket Reader. Stejně jako [EPUB](/cs/ebook/epub/) jej podporují téměř všechny moderní elektronické čtečky, konkrétně mobilní zařízení s nízkou šířkou pásma. Formát lze převést na několik dalších formátů, jako je [PDF](/cs/pdf/), EPUB a několik dalších formátů pomocí veřejně dostupných softwarových aplikací, jako je [aplikace Kindle](https://www.amazon.com/kindle -dbs/fd/kcp). Existuje několik společností, které nabízejí bezplatné knihy MOBI, například [Project Gutenberg](https://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/) a [Otevřená knihovna]( https://openlibrary.org/).
 
 ## Stručná historie formátu souborů MOBI
 

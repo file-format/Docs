@@ -19,7 +19,7 @@
 
 ## Mi az a MOBI fájl?
 
-A MOBI fájlformátum az egyik legszélesebb körben használt ebook fájlformátum. A formátum a régi OEB (Open Ebook Format) formátum továbbfejlesztése, és a Mobipocket Reader szabadalmaztatott formátumaként használták. Az [EPUB]-hoz (/hu/ebook/epub/) hasonlóan szinte minden modern e-olvasó támogatja, kifejezetten alacsony sávszélességű mobileszközökön. A formátum számos más formátumba konvertálható, például [PDF](/hu/pdf/), EPUB és számos más formátumba nyilvánosan elérhető szoftveralkalmazásokkal, például a [Kindle alkalmazással](https://www.amazon.com/kindle -dbs/fd/kcp). Számos cég kínál ingyenes MOBI-könyveket, például a [Project Gutenberg](http://www.gutenberg.org/), a [Feedbooks](http://www.feedbooks.com/) és az [Open Library]( https://openlibrary.org/).
+A MOBI fájlformátum az egyik legszélesebb körben használt ebook fájlformátum. A formátum a régi OEB (Open Ebook Format) formátum továbbfejlesztése, és a Mobipocket Reader szabadalmaztatott formátumaként használták. Az [EPUB]-hoz (/hu/ebook/epub/) hasonlóan szinte minden modern e-olvasó támogatja, kifejezetten alacsony sávszélességű mobileszközökön. A formátum számos más formátumba konvertálható, például [PDF](/hu/pdf/), EPUB és számos más formátumba nyilvánosan elérhető szoftveralkalmazásokkal, például a [Kindle alkalmazással](https://www.amazon.com/kindle -dbs/fd/kcp). Számos cég kínál ingyenes MOBI-könyveket, például a [Project Gutenberg](https://www.gutenberg.org/), a [Feedbooks](http://www.feedbooks.com/) és az [Open Library]( https://openlibrary.org/).
 
 ## A MOBI fájlformátum rövid története
 
