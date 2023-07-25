@@ -25,7 +25,7 @@ ica uzantılı bir dosya, Independent Computing Architecture temel alınarak olu
 
 ICA dosyaları diskte düz metin biçiminde saklanır ve insanlar tarafından kolayca okunabilir. ICA dosyaları, Citrix Receiver gibi uzak masaüstü istemci uygulamalarının uzak sanal masaüstlerinde barındırılan uygulamalara bağlanmak için kullandığı parametreleri belirtir.
 
-Başarılı bağlantı için ICA dosyalarının belirli başlatma ve biçimlere uyması gerekir. Bunlar [Citrix ICA ayarları referansında](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html) belirtilmiştir ve aşağıdaki gibi alanları içerir:
+Başarılı bağlantı için ICA dosyalarının belirli başlatma ve biçimlere uyması gerekir. Bunlar [Citrix ICA ayarları referansında](https://docs.citrix.com/en-us/categories/legacy-archive) belirtilmiştir ve aşağıdaki gibi alanları içerir:
 
 * Giriş Kodlaması
 * TCP Tarayıcı Adresi
@@ -37,5 +37,5 @@ Başarılı bağlantı için ICA dosyalarının belirli başlatma ve biçimlere 
 ## Referanslar
 
 * [ICA Dosyası İçeriğini Anlama](https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
-* [Citrix ICA ayarları referansı](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
+* [Citrix ICA ayarları referansı](https://docs.citrix.com/en-us/categories/legacy-archive)
 

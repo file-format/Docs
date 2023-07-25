@@ -25,7 +25,7 @@ Tệp có phần mở rộng ica là tệp cấu hình được tạo dựa trê
 
 Các tệp ICA được lưu trữ vào đĩa ở định dạng văn bản thuần túy và con người có thể dễ dàng đọc được. Các tệp ICA chỉ định các tham số mà các ứng dụng máy khách trên máy tính từ xa, chẳng hạn như Bộ thu Citrix, sử dụng để kết nối với các ứng dụng được lưu trữ trên máy tính để bàn ảo từ xa.
 
-Các tệp ICA phải tuân thủ các định dạng và khởi tạo nhất định để kết nối thành công. Chúng được đề cập trong [Tham chiếu cài đặt Citrix ICA](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html) và bao gồm các trường như:
+Các tệp ICA phải tuân thủ các định dạng và khởi tạo nhất định để kết nối thành công. Chúng được đề cập trong [Tham chiếu cài đặt Citrix ICA](https://docs.citrix.com/en-us/categories/legacy-archive) và bao gồm các trường như:
 
 * Mã hóa đầu vào
 * Địa chỉ trình duyệt TCP
@@ -37,5 +37,5 @@ Các tệp ICA phải tuân thủ các định dạng và khởi tạo nhất đ
 ## Người giới thiệu
 
 * [Hiểu nội dung tệp ICA](https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvu Hiểuing_ica_file_contents.htm)
-* [Tham khảo cài đặt Citrix ICA](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
+* [Tham khảo cài đặt Citrix ICA](https://docs.citrix.com/en-us/categories/legacy-archive)
 

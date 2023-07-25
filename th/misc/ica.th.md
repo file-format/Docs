@@ -25,7 +25,7 @@
 
 ไฟล์ ICA ถูกจัดเก็บไว้ในดิสก์ในรูปแบบข้อความธรรมดาและมนุษย์สามารถอ่านได้ง่าย ไฟล์ ICA ระบุพารามิเตอร์ที่แอปพลิเคชันไคลเอนต์เดสก์ท็อประยะไกล เช่น Citrix Receiver ใช้เพื่อเชื่อมต่อกับแอปพลิเคชันที่โฮสต์บนเดสก์ท็อปเสมือนระยะไกล
 
-ไฟล์ ICA ควรเป็นไปตามการกำหนดค่าเริ่มต้นและรูปแบบบางอย่างเพื่อให้การเชื่อมต่อสำเร็จ ข้อมูลเหล่านี้กล่าวถึงใน [ข้อมูลอ้างอิงการตั้งค่า Citrix ICA](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html) และรวมถึงช่องต่างๆ เช่น :
+ไฟล์ ICA ควรเป็นไปตามการกำหนดค่าเริ่มต้นและรูปแบบบางอย่างเพื่อให้การเชื่อมต่อสำเร็จ ข้อมูลเหล่านี้กล่าวถึงใน [ข้อมูลอ้างอิงการตั้งค่า Citrix ICA](https://docs.citrix.com/en-us/categories/legacy-archive) และรวมถึงช่องต่างๆ เช่น :
 
 * การเข้ารหัสอินพุต
 * ที่อยู่เบราว์เซอร์ TCP
@@ -37,5 +37,5 @@
 ## อ้างอิง
 
 * [ทำความเข้าใจเนื้อหาไฟล์ ICA](https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
-* [การอ้างอิงการตั้งค่า Citrix ICA](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
+* [การอ้างอิงการตั้งค่า Citrix ICA](https://docs.citrix.com/en-us/categories/legacy-archive)
 

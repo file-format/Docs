@@ -25,7 +25,7 @@ Plik z rozszerzeniem ica to plik konfiguracyjny tworzony w oparciu o niezależn�
 
 Pliki ICA są zapisywane na dysku w formacie zwykłego tekstu i są łatwo czytelne dla ludzi. Pliki ICA określają parametry używane przez aplikacje klienta zdalnego pulpitu, takie jak Citrix Receiver, do łączenia się z aplikacjami hostowanymi na zdalnych pulpitach wirtualnych.
 
-Pliki ICA powinny być zgodne z określoną inicjalizacją i formatami, aby zapewnić pomyślne połączenie. Są one wymienione w [Citrix ICA settings reference](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html) i obejmują takie pola jak:
+Pliki ICA powinny być zgodne z określoną inicjalizacją i formatami, aby zapewnić pomyślne połączenie. Są one wymienione w [Citrix ICA settings reference](https://docs.citrix.com/en-us/categories/legacy-archive) i obejmują takie pola jak:
 
 * Kodowanie wejściowe
 * Adres przeglądarki TCP
@@ -37,5 +37,5 @@ Pliki ICA powinny być zgodne z określoną inicjalizacją i formatami, aby zape
 ## Bibliografia
 
 * [Zrozumienie zawartości pliku ICA](https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
-* [Informacje o ustawieniach Citrix ICA](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
+* [Informacje o ustawieniach Citrix ICA](https://docs.citrix.com/en-us/categories/legacy-archive)
 

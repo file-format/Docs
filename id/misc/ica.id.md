@@ -25,7 +25,7 @@ File dengan ekstensi ica adalah file konfigurasi yang dibuat berdasarkan Arsitek
 
 File ICA disimpan ke disk dalam format teks biasa dan mudah dibaca oleh manusia. File ICA menentukan parameter yang digunakan aplikasi klien desktop jarak jauh, seperti Penerima Citrix, untuk terhubung ke aplikasi yang dihosting di desktop virtual jarak jauh.
 
-File ICA harus sesuai dengan inisialisasi dan format tertentu agar konektivitas berhasil. Ini disebutkan dalam [referensi pengaturan Citrix ICA](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html) dan mencakup bidang seperti :
+File ICA harus sesuai dengan inisialisasi dan format tertentu agar konektivitas berhasil. Ini disebutkan dalam [referensi pengaturan Citrix ICA](https://docs.citrix.com/en-us/categories/legacy-archive) dan mencakup bidang seperti :
 
 * Pengkodean Masukan
 * Alamat Peramban TCP
@@ -37,5 +37,5 @@ File ICA harus sesuai dengan inisialisasi dan format tertentu agar konektivitas 
 ## Referensi
 
 * [Memahami Konten File ICA](https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
-* [Referensi setelan Citrix ICA](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
+* [Referensi setelan Citrix ICA](https://docs.citrix.com/en-us/categories/legacy-archive)
 

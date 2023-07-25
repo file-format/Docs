@@ -25,7 +25,7 @@
 
 ICA 파일은 일반 텍스트 형식으로 디스크에 저장되며 사람이 쉽게 읽을 수 있습니다. ICA 파일은 Citrix Receiver와 같은 원격 데스크톱 클라이언트 애플리케이션이 원격 가상 데스크톱에서 호스팅되는 애플리케이션에 연결하는 데 사용하는 매개변수를 지정합니다.
 
-ICA 파일은 성공적인 연결을 위해 특정 초기화 및 형식을 준수해야 합니다. 이는 [Citrix ICA 설정 참조](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)에 언급되어 있으며 다음과 같은 필드를 포함합니다.
+ICA 파일은 성공적인 연결을 위해 특정 초기화 및 형식을 준수해야 합니다. 이는 [Citrix ICA 설정 참조](https://docs.citrix.com/en-us/categories/legacy-archive)에 언급되어 있으며 다음과 같은 필드를 포함합니다.
 
 * 입력 인코딩
 * TCP 브라우저 주소
@@ -37,5 +37,5 @@ ICA 파일은 성공적인 연결을 위해 특정 초기화 및 형식을 준�
 ## 참고문헌
 
 * [ICA 파일 내용 이해하기](https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
-* [Citrix ICA 설정 참조](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
+* [Citrix ICA 설정 참조](https://docs.citrix.com/en-us/categories/legacy-archive)
 

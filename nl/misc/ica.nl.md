@@ -25,7 +25,7 @@ Een bestand met ica-extensie is een configuratiebestand dat is gemaakt op basis 
 
 ICA-bestanden worden in platte tekst op schijf opgeslagen en zijn gemakkelijk leesbaar voor mensen. ICA-bestanden specificeren de parameters die de externe desktop-clienttoepassingen, zoals Citrix Receiver, gebruiken om verbinding te maken met toepassingen die worden gehost op externe virtuele desktops.
 
-ICA-bestanden moeten voldoen aan bepaalde initialisatie en formaten voor een succesvolle verbinding. Deze worden vermeld in [Citrix ICA-instellingenreferentie](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html) en bevatten velden zoals:
+ICA-bestanden moeten voldoen aan bepaalde initialisatie en formaten voor een succesvolle verbinding. Deze worden vermeld in [Citrix ICA-instellingenreferentie](https://docs.citrix.com/en-us/categories/legacy-archive) en bevatten velden zoals:
 
 * Invoercodering
 * TCP-browseradres
@@ -37,5 +37,5 @@ ICA-bestanden moeten voldoen aan bepaalde initialisatie en formaten voor een suc
 ## Referenties
 
 * [Inhoud van ICA-bestanden](https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
-* [Naslaginformatie over Citrix ICA-instellingen](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
+* [Naslaginformatie over Citrix ICA-instellingen](https://docs.citrix.com/en-us/categories/legacy-archive)
 

@@ -25,7 +25,7 @@ Un fișier cu extensia ica este un fișier de configurare care este creat pe baz
 
 Fișierele ICA sunt stocate pe disc în format text simplu și sunt ușor de citit de oameni. Fișierele ICA specifică parametrii pe care aplicațiile client desktop la distanță, cum ar fi Citrix Receiver, îi utilizează pentru a se conecta la aplicațiile găzduite pe desktop-uri virtuale la distanță.
 
-Fișierele ICA ar trebui să se conformeze anumitor inițializare și formate pentru o conectivitate de succes. Acestea sunt menționate în [Referință pentru setările Citrix ICA](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html) și includ câmpuri precum:
+Fișierele ICA ar trebui să se conformeze anumitor inițializare și formate pentru o conectivitate de succes. Acestea sunt menționate în [Referință pentru setările Citrix ICA](https://docs.citrix.com/en-us/categories/legacy-archive) și includ câmpuri precum:
 
 * Codificare de intrare
 * Adresa browserului TCP
@@ -37,5 +37,5 @@ Fișierele ICA ar trebui să se conformeze anumitor inițializare și formate pe
 ## Referințe
 
 * [Înțelegerea conținutului fișierului ICA](https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
-* [Referință pentru setările Citrix ICA](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
+* [Referință pentru setările Citrix ICA](https://docs.citrix.com/en-us/categories/legacy-archive)
 

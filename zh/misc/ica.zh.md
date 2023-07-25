@@ -25,7 +25,7 @@
 
 ICA 文件以纯文本格式存储到光盘中，并且易于人类阅读。 ICA 文件指定远程桌面客户端应用程序（例如 Citrix Receiver）用于连接到远程虚拟桌面上托管的应用程序的参数。
 
-ICA 文件应符合某些初始化和格式，以便成功连接。这些在 [Citrix ICA 设置参考](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html) 中有所提及，包括以下字段：
+ICA 文件应符合某些初始化和格式，以便成功连接。这些在 [Citrix ICA 设置参考](https://docs.citrix.com/en-us/categories/legacy-archive) 中有所提及，包括以下字段：
 
 * 输入编码
 * TCP 浏览器地址
@@ -37,5 +37,5 @@ ICA 文件应符合某些初始化和格式，以便成功连接。这些在 [Ci
 ## 参考
 
 * [了解 ICA 文件内容](https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
-* [Citrix ICA 设置参考](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
+* [Citrix ICA 设置参考](https://docs.citrix.com/en-us/categories/legacy-archive)
 

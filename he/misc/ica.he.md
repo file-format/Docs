@@ -25,7 +25,7 @@
 
 קבצי ICA מאוחסנים על דיסק בפורמט טקסט רגיל וניתנים לקריאה בקלות על ידי בני אדם. קבצי ICA מציינים את הפרמטרים שבהם משתמשות יישומי הלקוח של שולחן העבודה המרוחק, כגון Citrix Receiver, כדי להתחבר ליישומים המתארחים במחשבים שולחניים וירטואליים מרוחקים.
 
-קבצי ICA צריכים להתאים לאתחול ולפורמטים מסוימים על מנת לקישוריות מוצלחת. אלה מוזכרים ב[עזרה להגדרות Citrix ICA](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html) וכוללים שדות כגון:
+קבצי ICA צריכים להתאים לאתחול ולפורמטים מסוימים על מנת לקישוריות מוצלחת. אלה מוזכרים ב[עזרה להגדרות Citrix ICA](https://docs.citrix.com/en-us/categories/legacy-archive) וכוללים שדות כגון:
 
 * קידוד קלט
 * כתובת דפדפן TCP
@@ -37,5 +37,5 @@
 ## הפניות
 
 * [הבנת תוכן קובץ ICA](https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
-* [הפניה להגדרות Citrix ICA](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
+* [הפניה להגדרות Citrix ICA](https://docs.citrix.com/en-us/categories/legacy-archive)
 
