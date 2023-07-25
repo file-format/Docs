@@ -25,7 +25,7 @@ XPS-viewers zijn geïntegreerd als onderdeel van Windows Vista, Windows 7, Windo
 
 ## Korte geschiedenis ##
 
-Microsoft heeft de XPS-specificatie ingediend bij Ecma International. In juni 2007 is de Ecma Technical Committee 46 (TC46) opgericht om een standaard te ontwikkelen op basis van de OpenXPS Paper Specifications. Ecma International keurde de Ecma Standard (ECMA-388) [XPS-specificaties](http://www.ecma-international.org/publications/standards/Ecma-388.htm) goed in juni 2009 tijdens de 97e Algemene Vergadering.
+Microsoft heeft de XPS-specificatie ingediend bij Ecma International. In juni 2007 is de Ecma Technical Committee 46 (TC46) opgericht om een standaard te ontwikkelen op basis van de OpenXPS Paper Specifications. Ecma International keurde de Ecma Standard (ECMA-388) [XPS-specificaties](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/) goed in juni 2009 tijdens de 97e Algemene Vergadering.
 
 ## XPS-bestandsindeling ##
 
@@ -55,6 +55,6 @@ Een typisch XPS-document ziet er als volgt uit en kan worden geanalyseerd in het
 
 ## Referenties ##
 
-* [Specificaties XPS-bestandsindeling](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+* [Specificaties XPS-bestandsindeling](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 * [XPS - Door Wikipedia](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

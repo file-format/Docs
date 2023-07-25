@@ -25,7 +25,7 @@
 
 ## Σύντομη Ιστορία ##
 
-Η Microsoft υπέβαλε τις προδιαγραφές XPS στην Ecma International. Τον Ιούνιο του 2007, η Ecma Technical Committee 46 (TC46) συστάθηκε για την ανάπτυξη ενός προτύπου βασισμένου στις Προδιαγραφές Χαρτιού OpenXPS. Η Ecma International ενέκρινε το Πρότυπο Ecma (ECMA-388) [προδιαγραφές XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm) τον Ιούνιο του 2009 στην 97η Γενική Συνέλευση.
+Η Microsoft υπέβαλε τις προδιαγραφές XPS στην Ecma International. Τον Ιούνιο του 2007, η Ecma Technical Committee 46 (TC46) συστάθηκε για την ανάπτυξη ενός προτύπου βασισμένου στις Προδιαγραφές Χαρτιού OpenXPS. Η Ecma International ενέκρινε το Πρότυπο Ecma (ECMA-388) [προδιαγραφές XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/) τον Ιούνιο του 2009 στην 97η Γενική Συνέλευση.
 
 ## Μορφή αρχείου XPS ##
 
@@ -55,6 +55,6 @@
 
 ## Βιβλιογραφικές αναφορές ##
 
-* [Προδιαγραφές μορφής αρχείου XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+* [Προδιαγραφές μορφής αρχείου XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 * [XPS - By Wikipedia](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

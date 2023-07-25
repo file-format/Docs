@@ -25,7 +25,7 @@ XPS 뷰어는 Windows Vista, Windows 7, Windows 8 및 Internet Explorer 6 이상
 
 ## 간략한 역사 ##
 
-Microsoft는 XPS 사양을 Ecma International에 제출했습니다. 2007년 6월 Ecma Technical Committee 46(TC46)은 OpenXPS Paper Specifications에 기반한 표준을 개발하기 위해 설립되었습니다. Ecma International은 2009년 6월 제97차 총회에서 Ecma 표준(ECMA-388)[XPS 사양](http://www.ecma-international.org/publications/standards/Ecma-388.htm)을 승인했습니다.
+Microsoft는 XPS 사양을 Ecma International에 제출했습니다. 2007년 6월 Ecma Technical Committee 46(TC46)은 OpenXPS Paper Specifications에 기반한 표준을 개발하기 위해 설립되었습니다. Ecma International은 2009년 6월 제97차 총회에서 Ecma 표준(ECMA-388)[XPS 사양](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)을 승인했습니다.
 
 ## XPS 파일 형식 ##
 
@@ -55,6 +55,6 @@ XPS 문서 형식에는 문서의 특정 목적을 각각 충족하는 잘 정�
 
 ## 참조 ##
 
-* [XPS 파일 형식 사양](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+* [XPS 파일 형식 사양](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 * [XPS - 위키피디아 작성](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

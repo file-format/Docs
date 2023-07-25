@@ -25,7 +25,7 @@
 
 ## היסטוריה קצרה ##
 
-מיקרוסופט הגישה את מפרט ה-XPS ל-Ecma International. ביוני 2007, הוקמה הוועדה הטכנית של Ecma 46 (TC46) כדי לפתח תקן המבוסס על מפרטי נייר OpenXPS. Ecma International אישרה את תקן Ecma (ECMA-388) [מפרט XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm) ביוני 2009 בעצרת הכללית ה-97.
+מיקרוסופט הגישה את מפרט ה-XPS ל-Ecma International. ביוני 2007, הוקמה הוועדה הטכנית של Ecma 46 (TC46) כדי לפתח תקן המבוסס על מפרטי נייר OpenXPS. Ecma International אישרה את תקן Ecma (ECMA-388) [מפרט XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/) ביוני 2009 בעצרת הכללית ה-97.
 
 ## פורמט קובץ XPS ##
 
@@ -55,6 +55,6 @@
 
 ## הפניות ##
 
-* [מפרט פורמט קובץ XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+* [מפרט פורמט קובץ XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 * [XPS - מאת ויקיפדיה](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

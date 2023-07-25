@@ -25,7 +25,7 @@ Az XPS-megtekintők a Windows Vista, a Windows 7, a Windows 8 és az Internet Ex
 
 ## Rövid története ##
 
-A Microsoft benyújtotta az XPS-specifikációt az Ecma International-nek. 2007 júniusában létrehozták az Ecma Technical Committee 46-ot (TC46), hogy az OpenXPS papírspecifikációkon alapuló szabványt dolgozzon ki. Az Ecma International 2009 júniusában, a 97. közgyűlésen jóváhagyta az Ecma szabványt (ECMA-388) [XPS-specifikáció](http://www.ecma-international.org/publications/standards/Ecma-388.htm).
+A Microsoft benyújtotta az XPS-specifikációt az Ecma International-nek. 2007 júniusában létrehozták az Ecma Technical Committee 46-ot (TC46), hogy az OpenXPS papírspecifikációkon alapuló szabványt dolgozzon ki. Az Ecma International 2009 júniusában, a 97. közgyűlésen jóváhagyta az Ecma szabványt (ECMA-388) [XPS-specifikáció](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/).
 
 ## XPS fájlformátum ##
 
@@ -55,6 +55,6 @@ Egy tipikus XPS-dokumentum a következőképpen néz ki, és az XPS-fájlformát
 
 ## Referenciák ##
 
-* [XPS fájlformátum specifikációi](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+* [XPS fájlformátum specifikációi](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 * [XPS – a Wikipedia által](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

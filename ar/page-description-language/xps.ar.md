@@ -25,7 +25,7 @@
 
 ## نبذة تاريخية ##
 
-قدمت Microsoft مواصفات XPS إلى Ecma International. في يونيو 2007 ، تم إنشاء اللجنة الفنية 46 لـ Ecma (TC46) لتطوير معيار يعتمد على مواصفات ورق OpenXPS. وافقت Ecma International على معيار Ecma (ECMA-388) [مواصفات XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm) في يونيو 2009 في الدورة السابعة والتسعين للجمعية العامة.
+قدمت Microsoft مواصفات XPS إلى Ecma International. في يونيو 2007 ، تم إنشاء اللجنة الفنية 46 لـ Ecma (TC46) لتطوير معيار يعتمد على مواصفات ورق OpenXPS. وافقت Ecma International على معيار Ecma (ECMA-388) [مواصفات XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/) في يونيو 2009 في الدورة السابعة والتسعين للجمعية العامة.
 
 ## تنسيق ملف XPS ##
 
@@ -55,6 +55,6 @@
 
 ## مراجع ##
 
-* [مواصفات تنسيق ملف XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+* [مواصفات تنسيق ملف XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 * [XPS - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

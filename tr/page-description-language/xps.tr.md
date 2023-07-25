@@ -25,7 +25,7 @@ XPS görüntüleyiciler, Windows Vista, Windows 7, Windows 8 ve Internet Explore
 
 ## Kısa Tarih ##
 
-Microsoft, XPS spesifikasyonunu Ecma International'a gönderdi. Haziran 2007'de Ecma Teknik Komitesi 46 (TC46), OpenXPS Kağıt Spesifikasyonlarına dayalı bir standart geliştirmek için kuruldu. Ecma International, Ecma Standardını (ECMA-388) [XPS spesifikasyonlarını](http://www.ecma-international.org/publications/standards/Ecma-388.htm) Haziran 2009'da 97. Genel Kurul'da onayladı.
+Microsoft, XPS spesifikasyonunu Ecma International'a gönderdi. Haziran 2007'de Ecma Teknik Komitesi 46 (TC46), OpenXPS Kağıt Spesifikasyonlarına dayalı bir standart geliştirmek için kuruldu. Ecma International, Ecma Standardını (ECMA-388) [XPS spesifikasyonlarını](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/) Haziran 2009'da 97. Genel Kurul'da onayladı.
 
 ## XPS Dosya Biçimi ##
 
@@ -55,6 +55,6 @@ Tipik bir XPS belgesi aşağıdaki gibi görünür ve XPS dosya formatı [özell
 
 ## Referanslar ##
 
-* [XPS Dosya Biçimi Özellikleri](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+* [XPS Dosya Biçimi Özellikleri](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 * [XPS - Wikipedia Tarafından](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

@@ -25,7 +25,7 @@ XPS ビューアは、Windows Vista、Windows 7、Windows 8、および Internet
 
 ## 簡単な歴史 ##
 
-Microsoft は、XPS 仕様を Ecma International に提出しました。 2007 年 6 月、OpenXPS Paper Specifications に基づく標準を開発するために、Ecma Technical Committee 46 (TC46) が設立されました。 Ecma International は、2009 年 6 月の第 97 回総会で Ecma Standard (ECMA-388) [XPS 仕様](http://www.ecma-international.org/publications/standards/Ecma-388.htm) を承認しました。
+Microsoft は、XPS 仕様を Ecma International に提出しました。 2007 年 6 月、OpenXPS Paper Specifications に基づく標準を開発するために、Ecma Technical Committee 46 (TC46) が設立されました。 Ecma International は、2009 年 6 月の第 97 回総会で Ecma Standard (ECMA-388) [XPS 仕様](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/) を承認しました。
 
 ## XPS ファイル形式 ##
 
@@ -55,6 +55,6 @@ XPS ドキュメント形式には、明確に定義されたパーツと関係�
 
 ## 参照 ##
 
-※【XPSファイル形式仕様】(http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+※【XPSファイル形式仕様】(https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 * [XPS - ウィキペディアによる](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

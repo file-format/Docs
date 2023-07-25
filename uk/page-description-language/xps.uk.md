@@ -25,7 +25,7 @@
 
 ## Коротка історія ##
 
-Microsoft подала специфікацію XPS в Ecma International. У червні 2007 року Технічний комітет Ecma 46 (TC46) був створений для розробки стандарту на основі специфікацій паперу OpenXPS. Ecma International схвалила стандарт Ecma (ECMA-388) [специфікації XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm) у червні 2009 року на 97-й Генеральній асамблеї.
+Microsoft подала специфікацію XPS в Ecma International. У червні 2007 року Технічний комітет Ecma 46 (TC46) був створений для розробки стандарту на основі специфікацій паперу OpenXPS. Ecma International схвалила стандарт Ecma (ECMA-388) [специфікації XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/) у червні 2009 року на 97-й Генеральній асамблеї.
 
 ## Формат файлу XPS ##
 
@@ -55,6 +55,6 @@ Microsoft подала специфікацію XPS в Ecma International. У ч
 
 ## Посилання ##
 
-* [Специфікації формату файлу XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+* [Специфікації формату файлу XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 * [XPS – Вікіпедія](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

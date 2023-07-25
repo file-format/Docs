@@ -25,7 +25,7 @@ XPS 查看器作为 Windows Vista、Windows 7、Windows 8 和 Internet Explorer 
 
 ## 历史简介 ＃＃
 
-Microsoft 向 Ecma International 提交了 XPS 规范。 2007 年 6 月，Ecma 第 46 技术委员会 (TC46) 成立，以制定基于 OpenXPS 论文规范的标准。 Ecma International 于 2009 年 6 月在第 97 届大会上批准了 Ecma 标准 (ECMA-388) [XPS 规范](http://www.ecma-international.org/publications/standards/Ecma-388.htm)。
+Microsoft 向 Ecma International 提交了 XPS 规范。 2007 年 6 月，Ecma 第 46 技术委员会 (TC46) 成立，以制定基于 OpenXPS 论文规范的标准。 Ecma International 于 2009 年 6 月在第 97 届大会上批准了 Ecma 标准 (ECMA-388) [XPS 规范](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)。
 
 ## XPS 文件格式##
 
@@ -55,6 +55,6 @@ XPS 文档格式包括一组明确定义的部分和关系，每个部分和关�
 
 ## 参考 ＃＃
 
-* [XPS 文件格式规范](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+* [XPS 文件格式规范](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 * [XPS - 维基百科提供](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

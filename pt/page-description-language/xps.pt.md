@@ -25,7 +25,7 @@ Os visualizadores XPS vêm integrados como parte do Windows Vista, Windows 7, Wi
 
 ## Breve história ##
 
-A Microsoft submeteu a especificação XPS à Ecma International. Em junho de 2007, o Comitê Técnico Ecma 46 (TC46) foi criado para desenvolver um padrão baseado nas Especificações de Papel OpenXPS. A Ecma International aprovou o Padrão Ecma (ECMA-388) [especificações XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm) em junho de 2009 na 97ª Assembléia Geral.
+A Microsoft submeteu a especificação XPS à Ecma International. Em junho de 2007, o Comitê Técnico Ecma 46 (TC46) foi criado para desenvolver um padrão baseado nas Especificações de Papel OpenXPS. A Ecma International aprovou o Padrão Ecma (ECMA-388) [especificações XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/) em junho de 2009 na 97ª Assembléia Geral.
 
 ## Formato de arquivo XPS ##
 
@@ -55,6 +55,6 @@ Um documento XPS típico tem a seguinte aparência e pode ser analisado à luz d
 
 ## Referências ##
 
-* [Especificações de formato de arquivo XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+* [Especificações de formato de arquivo XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 * [XPS - Por Wikipedia](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

@@ -25,7 +25,7 @@ Trình xem XPS được tích hợp như một phần của Windows Vista, Windo
 
 ## Lược Sử ##
 
-Microsoft đã gửi thông số kỹ thuật XPS cho Ecma International. Vào tháng 6 năm 2007, Ủy ban Kỹ thuật Ecma 46 (TC46) đã được thành lập để phát triển một tiêu chuẩn dựa trên Thông số kỹ thuật của OpenXPS Paper. Ecma International đã phê chuẩn Tiêu chuẩn Ecma (ECMA-388) [Thông số kỹ thuật của XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm) vào tháng 6 năm 2009 tại Đại hội đồng lần thứ 97.
+Microsoft đã gửi thông số kỹ thuật XPS cho Ecma International. Vào tháng 6 năm 2007, Ủy ban Kỹ thuật Ecma 46 (TC46) đã được thành lập để phát triển một tiêu chuẩn dựa trên Thông số kỹ thuật của OpenXPS Paper. Ecma International đã phê chuẩn Tiêu chuẩn Ecma (ECMA-388) [Thông số kỹ thuật của XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/) vào tháng 6 năm 2009 tại Đại hội đồng lần thứ 97.
 
 ## Định dạng tệp XPS ##
 
@@ -55,6 +55,6 @@ Một tài liệu XPS điển hình trông như sau và có thể được phân
 
 ## Người giới thiệu ##
 
-* [Thông số định dạng tệp XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+* [Thông số định dạng tệp XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 * [XPS - Theo Wikipedia](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 
