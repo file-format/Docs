@@ -20,7 +20,7 @@
 
 Berichtsdateien gehören zu bestimmter Berichtssoftware, die die Designstruktur zum Rendern der Daten aus einer oder mehreren Datenquellen enthalten. Eine Berichterstattungssoftware bietet bestimmte Elemente zum Erstellen der verschiedenen Abschnitte eines Berichts für die verschiedenen Geschäftszwecke. Diese Berichtselemente können Tabellen, Diagramme, visuelle Präsentationen und andere Stile sein, um die Analyse der Informationen zu erleichtern.
 
-Einige gängige Berichtsdateiformate sind [RDL](/de/reporting/rdl/), [RDLC](/de/reporting/rdlc) und [RPL](/de/reporting/rpl/)
+Einige gängige Berichtsdateiformate sind [RDL](/de/reporting/rdl/), [RDLC](/de/reporting/rdlc/) und [RPL](/de/reporting/rpl/)
 
 
 ## Liste der Berichtsdateierweiterungen und zugehörigen Dateiformate

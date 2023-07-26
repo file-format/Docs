@@ -20,7 +20,7 @@
 
 Les fichiers de reporting appartiennent à certains logiciels de reporting contenant la structure de conception pour restituer les données à partir d'une ou plusieurs sources de données. Un logiciel de reporting fournit des éléments particuliers pour créer les différentes sections d'un rapport à des fins commerciales différentes. Ces éléments de rapport peuvent être des tableaux, des graphiques, des présentations visuelles et d'autres styles pour faciliter l'analyse des informations.
 
-Certains formats de fichiers de rapport populaires sont [RDL](/fr/reporting/rdl/), [RDLC](/fr/reporting/rdlc) et [RPL](/fr/reporting/rpl/)
+Certains formats de fichiers de rapport populaires sont [RDL](/fr/reporting/rdl/), [RDLC](/fr/reporting/rdlc/) et [RPL](/fr/reporting/rpl/)
 
 
 ## Liste des extensions de fichier de rapport et des formats de fichier associés

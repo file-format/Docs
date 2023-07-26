@@ -20,7 +20,7 @@
 
 Los archivos de informes pertenecen a ciertos softwares de informes que contienen la estructura de diseño para representar los datos de una o varias fuentes de datos. Un software de informes proporciona elementos particulares para crear las diferentes secciones de un informe para los diferentes propósitos comerciales. Estos elementos de informes pueden ser tablas, gráficos, presentaciones visuales y otros estilos para facilitar el análisis de la información.
 
-Algunos formatos de archivo de informes populares son [RDL](/es/reporting/rdl/), [RDLC](/es/reporting/rdlc) y [RPL](/es/reporting/rpl/)
+Algunos formatos de archivo de informes populares son [RDL](/es/reporting/rdl/), [RDLC](/es/reporting/rdlc/) y [RPL](/es/reporting/rpl/)
 
 
 ## Lista de extensiones de archivo de informes y formatos de archivo asociados

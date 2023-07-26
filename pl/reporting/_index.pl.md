@@ -20,7 +20,7 @@
 
 Pliki raportów należą do niektórych programów do raportowania zawierających strukturę projektową do renderowania danych z jednego lub wielu źródeł danych. Oprogramowanie do raportowania zapewnia określone elementy do tworzenia różnych sekcji raportu dla różnych celów biznesowych. Tymi elementami raportowania mogą być tabele, wykresy, prezentacje wizualne i inne style ułatwiające analizę informacji.
 
-Niektóre popularne formaty plików raportów to [RDL](/pl/reporting/rdl/), [RDLC](/pl/reporting/rdlc) i [RPL](/pl/reporting/rpl/)
+Niektóre popularne formaty plików raportów to [RDL](/pl/reporting/rdl/), [RDLC](/pl/reporting/rdlc/) i [RPL](/pl/reporting/rpl/)
 
 
 ## Lista rozszerzeń plików raportowania i powiązanych formatów plików

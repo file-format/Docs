@@ -20,7 +20,7 @@
 
 File pelaporan milik perangkat lunak pelaporan tertentu yang berisi struktur desain untuk merender data dari satu atau beberapa sumber data. Perangkat lunak pelaporan menyediakan elemen tertentu untuk membuat bagian laporan yang berbeda untuk tujuan bisnis yang berbeda. Elemen pelaporan ini mungkin berupa tabel, bagan, presentasi visual, dan gaya lainnya untuk mempermudah penguraian informasi.
 
-Beberapa format file pelaporan yang populer adalah [RDL](/id/reporting/rdl/), [RDLC](/id/reporting/rdlc) dan [RPL](/id/reporting/rpl/)
+Beberapa format file pelaporan yang populer adalah [RDL](/id/reporting/rdl/), [RDLC](/id/reporting/rdlc/) dan [RPL](/id/reporting/rpl/)
 
 
 ## Daftar Ekstensi File Pelaporan dan Format File Terkait

@@ -20,7 +20,7 @@
 
 Fișierele de raportare aparțin anumitor software-uri de raportare care conțin structura de proiectare pentru a reda datele din una sau mai multe surse de date. Un software de raportare oferă elemente specifice pentru a crea diferitele secțiuni ale unui raport pentru diferite scopuri de afaceri. Aceste elemente de raportare pot fi tabele, diagrame, prezentări vizuale și alte stiluri pentru a face informațiile mai ușor de analizat.
 
-Unele formate populare de fișiere de raportare sunt [RDL](/ro/reporting/rdl/), [RDLC](/ro/reporting/rdlc) și [RPL](/ro/reporting/rpl/)
+Unele formate populare de fișiere de raportare sunt [RDL](/ro/reporting/rdl/), [RDLC](/ro/reporting/rdlc/) și [RPL](/ro/reporting/rpl/)
 
 
 ## Lista extensiilor de fișiere de raportare și formatelor de fișiere asociate

@@ -20,7 +20,7 @@
 
 Rapporteringsfiler tillhör vissa rapporteringsprogram som innehåller designstrukturen för att återge data från en eller flera datakällor. En rapporteringsprogramvara tillhandahåller särskilda element för att skapa de olika delarna av en rapport för olika affärsändamål. Dessa rapporteringselement kan vara tabeller, diagram, visuella presentationer och andra stilar för att göra informationen lättare att analysera.
 
-Några populära rapportfilformat är [RDL](/sv/reporting/rdl/), [RDLC](/sv/reporting/rdlc) och [RPL](/sv/reporting/rpl/)
+Några populära rapportfilformat är [RDL](/sv/reporting/rdl/), [RDLC](/sv/reporting/rdlc/) och [RPL](/sv/reporting/rpl/)
 
 
 ## Lista över rapporteringsfiltillägg och associerade filformat
