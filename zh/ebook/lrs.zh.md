@@ -19,7 +19,7 @@
 
 ## 什么是一 .LRS 文件？
 
-带有 .lrs（Librie Reader Source）扩展名的文件是指 Sony Portable Reader 使用的中间文件。它包含的信息可作为创建索尼宽带电子书 (BBeB) 的来源。 LRS 文件以内容和属性描述的形式包含有关电子书文件的详细信息。 LRS 文件用于使用公开可用的工具和 API 创建 [LRF](/zh/ebook/lrf) 和 LRX 文件。 Calibre、BookDesignerMkelrf 和 Canon Book Creator 等多个软件应用程序可用于在 Windows、Linux 和 MAC 上打开 LRS 文件。
+带有 .lrs（Librie Reader Source）扩展名的文件是指 Sony Portable Reader 使用的中间文件。它包含的信息可作为创建索尼宽带电子书 (BBeB) 的来源。 LRS 文件以内容和属性描述的形式包含有关电子书文件的详细信息。 LRS 文件用于使用公开可用的工具和 API 创建 [LRF](/zh/ebook/lrf/) 和 LRX 文件。 Calibre、BookDesignerMkelrf 和 Canon Book Creator 等多个软件应用程序可用于在 Windows、Linux 和 MAC 上打开 LRS 文件。
 
 ## LRS 文件格式
 

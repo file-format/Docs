@@ -19,7 +19,7 @@
 
 ## Mi az LRS fájl?
 
-Az .lrs (Librie Reader Source) kiterjesztésű fájl a Sony Portable Reader által használt köztes fájlra utal. Olyan információkat tartalmaz, amelyek forrásként szolgálnak a Sony Broadband eBook (BBeB) létrehozásához. Az LRS fájlok az eBook fájl részleteit tartalmazzák a tartalom és a tulajdonságok leírása formájában. Az LRS-fájlokat [LRF](/hu/ebook/lrf) és LRX-fájlok létrehozására használják nyilvánosan elérhető eszközök és API-k segítségével. Számos szoftveralkalmazás, például a Calibre, a BookDesignerMkelrf és a Canon Book Creator használható LRS-fájlok megnyitására Windows, Linux és MAC rendszeren.
+Az .lrs (Librie Reader Source) kiterjesztésű fájl a Sony Portable Reader által használt köztes fájlra utal. Olyan információkat tartalmaz, amelyek forrásként szolgálnak a Sony Broadband eBook (BBeB) létrehozásához. Az LRS fájlok az eBook fájl részleteit tartalmazzák a tartalom és a tulajdonságok leírása formájában. Az LRS-fájlokat [LRF](/hu/ebook/lrf/) és LRX-fájlok létrehozására használják nyilvánosan elérhető eszközök és API-k segítségével. Számos szoftveralkalmazás, például a Calibre, a BookDesignerMkelrf és a Canon Book Creator használható LRS-fájlok megnyitására Windows, Linux és MAC rendszeren.
 
 ## LRS fájlformátum
 

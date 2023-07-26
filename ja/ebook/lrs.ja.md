@@ -19,7 +19,7 @@
 
 ## .LRS オプション番号
 
-拡張子が .lrs (Librie Reader Source) のファイルは、Sony Portable Reader で使用される中間ファイルを指します。これには、Sony Broadband eBook (BBeB) を作成するためのソースとして機能する情報が含まれています。 LRSファイルには、コンテンツとプロパティの説明の形式でeBookファイルに関する詳細が含まれています。 LRS ファイルは、公開されているツールと API を使用して [LRF](/ebook/lrf) と LRX ファイルを作成するために使用されます。 Calibre、BookDesignerMkelrf、Canon Book Creator などのいくつかのソフトウェア アプリケーションを使用して、Windows、Linux、および MAC で LRS ファイルを開くことができます。
+拡張子が .lrs (Librie Reader Source) のファイルは、Sony Portable Reader で使用される中間ファイルを指します。これには、Sony Broadband eBook (BBeB) を作成するためのソースとして機能する情報が含まれています。 LRSファイルには、コンテンツとプロパティの説明の形式でeBookファイルに関する詳細が含まれています。 LRS ファイルは、公開されているツールと API を使用して [LRF](/ebook/lrf/) と LRX ファイルを作成するために使用されます。 Calibre、BookDesignerMkelrf、Canon Book Creator などのいくつかのソフトウェア アプリケーションを使用して、Windows、Linux、および MAC で LRS ファイルを開くことができます。
 
 ## LRS ファイル形式
 

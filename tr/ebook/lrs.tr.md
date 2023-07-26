@@ -19,7 +19,7 @@
 
 ## LRS dosyası nedir?
 
-.lrs (Librie Reader Source) uzantılı bir dosya, Sony Portable Reader tarafından kullanılan bir ara dosya anlamına gelir. Bir Sony Geniş Bant e-Kitabının (BBeB) oluşturulması için kaynak görevi gören bilgiler içerir. LRS dosyaları, içerik ve özelliklerin açıklamaları şeklinde e-Kitap dosyası hakkında ayrıntılar içerir. LRS dosyaları, herkese açık araçlar ve API'ler kullanılarak [LRF](/tr/ebook/lrf) ve LRX dosyaları oluşturmak için kullanılır. Windows, Linux ve MAC'de LRS dosyalarını açmak için Calibre, BookDesignerMkelrf ve Canon Book Creator gibi çeşitli yazılım uygulamaları kullanılabilir.
+.lrs (Librie Reader Source) uzantılı bir dosya, Sony Portable Reader tarafından kullanılan bir ara dosya anlamına gelir. Bir Sony Geniş Bant e-Kitabının (BBeB) oluşturulması için kaynak görevi gören bilgiler içerir. LRS dosyaları, içerik ve özelliklerin açıklamaları şeklinde e-Kitap dosyası hakkında ayrıntılar içerir. LRS dosyaları, herkese açık araçlar ve API'ler kullanılarak [LRF](/tr/ebook/lrf/) ve LRX dosyaları oluşturmak için kullanılır. Windows, Linux ve MAC'de LRS dosyalarını açmak için Calibre, BookDesignerMkelrf ve Canon Book Creator gibi çeşitli yazılım uygulamaları kullanılabilir.
 
 ## LRS Dosya Biçimi
 

@@ -19,7 +19,7 @@
 
 ## O que é um arquivo LRS?
 
-Um arquivo com extensão .lrs (Librie Reader Source) refere-se a um arquivo intermediário usado pelo Sony Portable Reader. Contém informações que funcionam como fonte para a criação de um eBook Sony Broadband (BBeB). Os arquivos LRS contêm detalhes sobre o arquivo eBook na forma de descrições do conteúdo e das propriedades. Os arquivos LRS são usados para criar arquivos [LRF](/pt/ebook/lrf) e LRX usando ferramentas e APIs disponíveis publicamente. Vários aplicativos de software, como Calibre, BookDesignerMkelrf e Canon Book Creator, podem ser usados para abrir arquivos LRS no Windows, Linux e MAC.
+Um arquivo com extensão .lrs (Librie Reader Source) refere-se a um arquivo intermediário usado pelo Sony Portable Reader. Contém informações que funcionam como fonte para a criação de um eBook Sony Broadband (BBeB). Os arquivos LRS contêm detalhes sobre o arquivo eBook na forma de descrições do conteúdo e das propriedades. Os arquivos LRS são usados para criar arquivos [LRF](/pt/ebook/lrf/) e LRX usando ferramentas e APIs disponíveis publicamente. Vários aplicativos de software, como Calibre, BookDesignerMkelrf e Canon Book Creator, podem ser usados para abrir arquivos LRS no Windows, Linux e MAC.
 
 ## Formato de arquivo LRS
 
