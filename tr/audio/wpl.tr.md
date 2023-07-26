@@ -23,7 +23,7 @@
 
 ## WPL Dosya Biçimi
 
-WPL (Windows Media Player Çalma Listesi), Microsoft Windows Media Player sürüm 9 veya üzeri sürümlerde kullanılan tescilli bir dosya biçimidir. Multimedya oynatma listelerini saklayan bir bilgisayar dosyası biçimidir. Çalma listesi varsayılan olarak bir .wpl(Windows Media Player Çalma Listesi) uzantısıyla kaydedilir. Veri disklerinizi bu uzantıyı desteklemeyen bir cihazda oynatmak istiyorsanız, bunun yerine [.m3u](/tr/audio/m3u) uzantısını kullanabilirsiniz. Bir WPL dosyasının öğeleri XML biçiminde temsil edilir.
+WPL (Windows Media Player Çalma Listesi), Microsoft Windows Media Player sürüm 9 veya üzeri sürümlerde kullanılan tescilli bir dosya biçimidir. Multimedya oynatma listelerini saklayan bir bilgisayar dosyası biçimidir. Çalma listesi varsayılan olarak bir .wpl(Windows Media Player Çalma Listesi) uzantısıyla kaydedilir. Veri disklerinizi bu uzantıyı desteklemeyen bir cihazda oynatmak istiyorsanız, bunun yerine [.m3u](/tr/audio/m3u/) uzantısını kullanabilirsiniz. Bir WPL dosyasının öğeleri XML biçiminde temsil edilir.
 
 En üst düzey öğe olan "smil", dosya öğelerinin Eşitlenmiş Multimedya Entegrasyon Dili (SMIL) yapısını takip ettiğini belirtir. Dosya .wpl uzantısıyla oluşturulur ve kaydedilir ve MIME türü application/vnd.ms-wpl'dir.
 

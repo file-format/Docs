@@ -23,7 +23,7 @@ A file with .wpl extension contains the playlist of songs to be run on the Micro
 
 ## WPL File Format
 
-WPL (Windows Media Player Playlist) is a proprietary file format used in Microsoft Windows Media Player versions 9 or greater. It is a computer file format that stores multimedia playlists. By default, the playlist is saved with a .wpl(Windows Media Player Playlist) extension. You can use the [.m3u](/audio/m3u) extension instead, If you want to play your data discs in a device that doesn't support this extension. The elements of a WPL file are represented in XML format.
+WPL (Windows Media Player Playlist) is a proprietary file format used in Microsoft Windows Media Player versions 9 or greater. It is a computer file format that stores multimedia playlists. By default, the playlist is saved with a .wpl(Windows Media Player Playlist) extension. You can use the [.m3u](/audio/m3u/) extension instead, If you want to play your data discs in a device that doesn't support this extension. The elements of a WPL file are represented in XML format.
 
 The top-level element "smil" specifies that the file's elements follow the Synchronized Multimedia Integration Language (SMIL) structure. The file is created and saved with the .wpl extension and its MIME type is application/vnd.ms-wpl.
 

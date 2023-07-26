@@ -23,7 +23,7 @@
 
 ## WPL 파일 형식
 
-WPL(Windows Media Player 재생 목록)은 Microsoft Windows Media Player 버전 9 이상에서 사용되는 독점 파일 형식입니다. 멀티미디어 재생 목록을 저장하는 컴퓨터 파일 형식입니다. 기본적으로 재생 목록은 .wpl(Windows Media Player 재생 목록) 확장자로 저장됩니다. 이 확장자를 지원하지 않는 장치에서 데이터 디스크를 재생하려면 [.m3u](/ko/audio/m3u) 확장자를 대신 사용할 수 있습니다. WPL 파일의 요소는 XML 형식으로 표시됩니다.
+WPL(Windows Media Player 재생 목록)은 Microsoft Windows Media Player 버전 9 이상에서 사용되는 독점 파일 형식입니다. 멀티미디어 재생 목록을 저장하는 컴퓨터 파일 형식입니다. 기본적으로 재생 목록은 .wpl(Windows Media Player 재생 목록) 확장자로 저장됩니다. 이 확장자를 지원하지 않는 장치에서 데이터 디스크를 재생하려면 [.m3u](/ko/audio/m3u/) 확장자를 대신 사용할 수 있습니다. WPL 파일의 요소는 XML 형식으로 표시됩니다.
 
 최상위 요소 "smil"은 파일의 요소가 SMIL(Synchronized Multimedia Integration Language) 구조를 따르도록 지정합니다. 파일은 .wpl 확장자로 생성 및 저장되며 MIME 유형은 application/vnd.ms-wpl입니다.
 

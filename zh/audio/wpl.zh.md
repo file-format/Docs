@@ -21,7 +21,7 @@
 扩展名为 .wpl 的文件包含要在 Microsoft Windows Media Player 上运行的歌曲的播放列表。这些文件通常由用户为其视频和音频收藏创建。 WPL 文件中写入的内容，只是 .wpl 文件的创建者选择的多媒体文件的目录路径或位置，因此媒体播放器应用程序可以迅速从其目录位置找到并播放多媒体内容。
 
 ## WPL 文件格式
-WPL（Windows Media Player 播放列表）是 Microsoft Windows Media Player 9 或更高版本中使用的专有文件格式。它是一种存储多媒体播放列表的计算机文件格式。默认情况下，播放列表以 .wpl（Windows Media Player 播放列表）扩展名保存。如果您想在不支持此扩展名的设备上播放数据光盘，您可以改用 [.m3u](/zh/audio/m3u) 扩展名。 WPL 文件的元素以 XML 格式表示。顶级元素“smil"指定文件的元素遵循同步多媒体集成语言 (SMIL) 结构。该文件以 .wpl 扩展名创建并保存，其 MIME 类型为 application/vnd.ms-wpl。
+WPL（Windows Media Player 播放列表）是 Microsoft Windows Media Player 9 或更高版本中使用的专有文件格式。它是一种存储多媒体播放列表的计算机文件格式。默认情况下，播放列表以 .wpl（Windows Media Player 播放列表）扩展名保存。如果您想在不支持此扩展名的设备上播放数据光盘，您可以改用 [.m3u](/zh/audio/m3u/) 扩展名。 WPL 文件的元素以 XML 格式表示。顶级元素“smil"指定文件的元素遵循同步多媒体集成语言 (SMIL) 结构。该文件以 .wpl 扩展名创建并保存，其 MIME 类型为 application/vnd.ms-wpl。
 
 ### WPL 示例
 这是一个 wpl 文件的示例：

@@ -23,7 +23,7 @@ Un file con estensione .wpl contiene la playlist di brani da eseguire su Microso
 
 ## Formato file WPL
 
-WPL (Windows Media Player Playlist) è un formato di file proprietario utilizzato in Microsoft Windows Media Player versioni 9 o successive. È un formato di file per computer che memorizza playlist multimediali. Per impostazione predefinita, la playlist viene salvata con un'estensione .wpl (Playlist Windows Media Player). Puoi invece utilizzare l'estensione [.m3u](/it/audio/m3u), se desideri riprodurre i tuoi dischi dati su un dispositivo che non supporta questa estensione. Gli elementi di un file WPL sono rappresentati in formato XML.
+WPL (Windows Media Player Playlist) è un formato di file proprietario utilizzato in Microsoft Windows Media Player versioni 9 o successive. È un formato di file per computer che memorizza playlist multimediali. Per impostazione predefinita, la playlist viene salvata con un'estensione .wpl (Playlist Windows Media Player). Puoi invece utilizzare l'estensione [.m3u](/it/audio/m3u/), se desideri riprodurre i tuoi dischi dati su un dispositivo che non supporta questa estensione. Gli elementi di un file WPL sono rappresentati in formato XML.
 
 L'elemento di primo livello "smil" specifica che gli elementi del file seguono la struttura Synchronized Multimedia Integration Language (SMIL). Il file viene creato e salvato con estensione .wpl e il suo tipo MIME è application/vnd.ms-wpl.
 

@@ -23,7 +23,7 @@ Un fichier avec l'extension .wpl contient la liste de lecture des chansons à ex
 
 ## Format de fichier WPL
 
-WPL (Windows Media Player Playlist) est un format de fichier propriétaire utilisé dans les versions 9 ou supérieures de Microsoft Windows Media Player. Il s'agit d'un format de fichier informatique qui stocke des listes de lecture multimédia. Par défaut, la liste de lecture est enregistrée avec une extension .wpl (Windows Media Player Playlist). Vous pouvez utiliser l'extension [.m3u](/fr/audio/m3u) à la place, si vous souhaitez lire vos disques de données sur un appareil qui ne prend pas en charge cette extension. Les éléments d'un fichier WPL sont représentés au format XML.
+WPL (Windows Media Player Playlist) est un format de fichier propriétaire utilisé dans les versions 9 ou supérieures de Microsoft Windows Media Player. Il s'agit d'un format de fichier informatique qui stocke des listes de lecture multimédia. Par défaut, la liste de lecture est enregistrée avec une extension .wpl (Windows Media Player Playlist). Vous pouvez utiliser l'extension [.m3u](/fr/audio/m3u/) à la place, si vous souhaitez lire vos disques de données sur un appareil qui ne prend pas en charge cette extension. Les éléments d'un fichier WPL sont représentés au format XML.
 
 L'élément de niveau supérieur "smil" spécifie que les éléments du fichier suivent la structure SMIL (Synchronized Multimedia Integration Language). Le fichier est créé et enregistré avec l'extension .wpl et son type MIME est application/vnd.ms-wpl.
 

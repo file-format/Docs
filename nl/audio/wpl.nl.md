@@ -23,7 +23,7 @@ Een bestand met de extensie .wpl bevat de afspeellijst met nummers die op Micros
 
 ## WPL-bestandsindeling
 
-WPL (Windows Media Player Playlist) is een eigen bestandsindeling die wordt gebruikt in Microsoft Windows Media Player versie 9 of hoger. Het is een computerbestandsformaat waarin multimedia-afspeellijsten worden opgeslagen. Standaard wordt de afspeellijst opgeslagen met de extensie .wpl (Windows Media Player Playlist). U kunt in plaats daarvan de extensie [.m3u](/nl/audio/m3u) gebruiken als u uw gegevensschijven wilt afspelen op een apparaat dat deze extensie niet ondersteunt. De elementen van een WPL-bestand worden weergegeven in XML-formaat.
+WPL (Windows Media Player Playlist) is een eigen bestandsindeling die wordt gebruikt in Microsoft Windows Media Player versie 9 of hoger. Het is een computerbestandsformaat waarin multimedia-afspeellijsten worden opgeslagen. Standaard wordt de afspeellijst opgeslagen met de extensie .wpl (Windows Media Player Playlist). U kunt in plaats daarvan de extensie [.m3u](/nl/audio/m3u/) gebruiken als u uw gegevensschijven wilt afspelen op een apparaat dat deze extensie niet ondersteunt. De elementen van een WPL-bestand worden weergegeven in XML-formaat.
 
 Het element op het hoogste niveau "smil" geeft aan dat de elementen van het bestand de structuur van de Synchronized Multimedia Integration Language (SMIL) volgen. Het bestand wordt gemaakt en opgeslagen met de extensie .wpl en het MIME-type is application/vnd.ms-wpl.
 

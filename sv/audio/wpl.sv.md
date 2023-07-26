@@ -23,7 +23,7 @@ En fil med filtillägget .wpl innehåller spellistan med låtar som ska köras p
 
 ## WPL filformat
 
-WPL (Windows Media Player Playlist) är ett proprietärt filformat som används i Microsoft Windows Media Player version 9 eller senare. Det är ett datorfilformat som lagrar multimediaspellistor. Som standard sparas spellistan med tillägget .wpl (Windows Media Player Spellista). Du kan använda tillägget [.m3u](/sv/audio/m3u) istället, om du vill spela dina dataskivor på en enhet som inte stöder detta tillägg. Elementen i en WPL-fil representeras i XML-format.
+WPL (Windows Media Player Playlist) är ett proprietärt filformat som används i Microsoft Windows Media Player version 9 eller senare. Det är ett datorfilformat som lagrar multimediaspellistor. Som standard sparas spellistan med tillägget .wpl (Windows Media Player Spellista). Du kan använda tillägget [.m3u](/sv/audio/m3u/) istället, om du vill spela dina dataskivor på en enhet som inte stöder detta tillägg. Elementen i en WPL-fil representeras i XML-format.
 
 Toppnivåelementet "smil" anger att filens element följer SMIL-strukturen (Synchronized Multimedia Integration Language). Filen skapas och sparas med filtillägget .wpl och dess MIME-typ är application/vnd.ms-wpl.
 

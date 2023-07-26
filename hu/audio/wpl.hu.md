@@ -23,7 +23,7 @@ A .wpl kiterjesztésű fájl tartalmazza a Microsoft Windows Media Playeren futt
 
 ## WPL fájlformátum
 
-A WPL (Windows Media Player Playlist) egy védett fájlformátum, amelyet a Microsoft Windows Media Player 9-es vagy újabb verziói használnak. Ez egy számítógépes fájlformátum, amely multimédiás lejátszási listákat tárol. Alapértelmezés szerint a lejátszási lista .wpl (Windows Media Player Playlist) kiterjesztéssel kerül mentésre. Ehelyett használhatja a [.m3u](/hu/audio/m3u) kiterjesztést, ha olyan eszközön szeretné lejátszani adatlemezeit, amely nem támogatja ezt a bővítményt. A WPL fájl elemei XML formátumban vannak ábrázolva.
+A WPL (Windows Media Player Playlist) egy védett fájlformátum, amelyet a Microsoft Windows Media Player 9-es vagy újabb verziói használnak. Ez egy számítógépes fájlformátum, amely multimédiás lejátszási listákat tárol. Alapértelmezés szerint a lejátszási lista .wpl (Windows Media Player Playlist) kiterjesztéssel kerül mentésre. Ehelyett használhatja a [.m3u](/hu/audio/m3u/) kiterjesztést, ha olyan eszközön szeretné lejátszani adatlemezeit, amely nem támogatja ezt a bővítményt. A WPL fájl elemei XML formátumban vannak ábrázolva.
 
 A "smil" legfelső szintű elem azt határozza meg, hogy a fájl elemei a Synchronized Multimedia Integration Language (SMIL) struktúrát követik. A fájl létrehozása és mentése .wpl kiterjesztéssel történik, MIME-típusa pedig application/vnd.ms-wpl.
 
