@@ -23,7 +23,7 @@ File dengan ekstensi .ndf adalah file database sekunder yang digunakan oleh [Mic
 
 ## Format File NDF
 
-Format file NDF tidak berbeda dengan [MDF](/id/database/mdf) dan menggunakan halaman sebagai unit dasar penyimpanan data. setiap halaman dimulai dengan header 96 byte yang mencakup:
+Format file NDF tidak berbeda dengan [MDF](/id/database/mdf/) dan menggunakan halaman sebagai unit dasar penyimpanan data. setiap halaman dimulai dengan header 96 byte yang mencakup:
 
 * ID halaman
 * Jenis Struktur

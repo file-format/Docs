@@ -23,7 +23,7 @@ A file wiht .ndf extension is a secondary database file used by [Microsoft SQL S
 
 ## NDF File Format
 
-NDF file format is no different than [MDF](/database/mdf) and uses pages as the fundamental unit of data storage. each page starts with 96 bytes header that includes:
+NDF file format is no different than [MDF](/database/mdf/) and uses pages as the fundamental unit of data storage. each page starts with 96 bytes header that includes:
 
  * Page ID
  * Type of Structure

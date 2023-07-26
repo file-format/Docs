@@ -23,7 +23,7 @@ Tệp có phần mở rộng .ndf là tệp cơ sở dữ liệu thứ cấp đ�
 
 ## Định dạng tệp NDF
 
-Định dạng tệp NDF không khác gì [MDF](/vi/database/mdf) và sử dụng các trang làm đơn vị lưu trữ dữ liệu cơ bản. mỗi trang bắt đầu với tiêu đề 96 byte bao gồm:
+Định dạng tệp NDF không khác gì [MDF](/vi/database/mdf/) và sử dụng các trang làm đơn vị lưu trữ dữ liệu cơ bản. mỗi trang bắt đầu với tiêu đề 96 byte bao gồm:
 
 * Mã trang
 * Loại kết cấu

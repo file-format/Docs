@@ -23,7 +23,7 @@ Un fichier avec l'extension .ndf est un fichier de base de données secondaire u
 
 ## Format de fichier NDF
 
-Le format de fichier NDF n'est pas différent de [MDF](/fr/database/mdf) et utilise les pages comme unité fondamentale de stockage de données. chaque page commence par un en-tête de 96 octets qui comprend :
+Le format de fichier NDF n'est pas différent de [MDF](/fr/database/mdf/) et utilise les pages comme unité fondamentale de stockage de données. chaque page commence par un en-tête de 96 octets qui comprend :
 
 * Identifiant de la page
 *Type d'ouvrage

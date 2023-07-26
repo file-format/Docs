@@ -23,7 +23,7 @@ En fil med filtillägget .ndf är en sekundär databasfil som används av [Micro
 
 ## NDF filformat
 
-NDF-filformat skiljer sig inte från [MDF](/sv/database/mdf) och använder sidor som den grundläggande enheten för datalagring. varje sida börjar med 96 byte header som inkluderar:
+NDF-filformat skiljer sig inte från [MDF](/sv/database/mdf/) och använder sidor som den grundläggande enheten för datalagring. varje sida börjar med 96 byte header som inkluderar:
 
 * Sid-ID
 * Typ av struktur
