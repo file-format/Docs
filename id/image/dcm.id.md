@@ -19,7 +19,7 @@
 
 ## Apa itu file DCM?
 
-File dengan ekstensi .dcm merupakan citra digital yang menyimpan informasi medis pasien seperti MRI, CT scan, dan citra USG. File DCM menggunakan format file gambar [DICOM](/id/image/dicom) (Digital Imaging and Communications in Medicine) dan dapat menyertakan informasi pasien untuk referensi. Ini dikembangkan oleh [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) dan dimaksudkan untuk membakukan format file pencitraan untuk distribusi dan tampilan gambar medis.
+File dengan ekstensi .dcm merupakan citra digital yang menyimpan informasi medis pasien seperti MRI, CT scan, dan citra USG. File DCM menggunakan format file gambar [DICOM](/id/image/dicom/) (Digital Imaging and Communications in Medicine) dan dapat menyertakan informasi pasien untuk referensi. Ini dikembangkan oleh [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) dan dimaksudkan untuk membakukan format file pencitraan untuk distribusi dan tampilan gambar medis.
 
 ## Format File DCM
 

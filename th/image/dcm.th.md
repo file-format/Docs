@@ -19,7 +19,7 @@
 
 ## ไฟล์ DCM คืออะไร??
 
-ไฟล์ที่มีนามสกุล .dcm แสดงภาพดิจิทัลที่เก็บข้อมูลทางการแพทย์ของผู้ป่วย เช่น MRIs, CT scan และภาพอัลตราซาวนด์ ไฟล์ DCM ใช้รูปแบบไฟล์ภาพ [DICOM](/th/image/dicom) (Digital Imaging and Communications in Medicine) และสามารถรวมข้อมูลของผู้ป่วยเพื่อใช้อ้างอิงได้ ได้รับการพัฒนาโดย [สมาคมผู้ผลิตไฟฟ้าแห่งชาติ](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) และตั้งใจสร้างมาตรฐานรูปแบบไฟล์ภาพสำหรับการเผยแพร่และการดูภาพทางการแพทย์
+ไฟล์ที่มีนามสกุล .dcm แสดงภาพดิจิทัลที่เก็บข้อมูลทางการแพทย์ของผู้ป่วย เช่น MRIs, CT scan และภาพอัลตราซาวนด์ ไฟล์ DCM ใช้รูปแบบไฟล์ภาพ [DICOM](/th/image/dicom/) (Digital Imaging and Communications in Medicine) และสามารถรวมข้อมูลของผู้ป่วยเพื่อใช้อ้างอิงได้ ได้รับการพัฒนาโดย [สมาคมผู้ผลิตไฟฟ้าแห่งชาติ](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) และตั้งใจสร้างมาตรฐานรูปแบบไฟล์ภาพสำหรับการเผยแพร่และการดูภาพทางการแพทย์
 
 ## รูปแบบไฟล์ DCM
 

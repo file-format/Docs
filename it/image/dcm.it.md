@@ -19,7 +19,7 @@
 
 ## Che cos'è un file DCM?
 
-I file con estensione .dcm rappresentano un'immagine digitale che memorizza informazioni mediche di pazienti come risonanza magnetica, scansioni TC e immagini ecografiche. I file DCM utilizzano il formato di file immagine [DICOM](/it/image/dicom) (Digital Imaging and Communications in Medicine) e possono includere le informazioni sul paziente come riferimento. È stato sviluppato dalla [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) e aveva lo scopo di standardizzare il formato del file di imaging per la distribuzione e la visualizzazione di immagini mediche.
+I file con estensione .dcm rappresentano un'immagine digitale che memorizza informazioni mediche di pazienti come risonanza magnetica, scansioni TC e immagini ecografiche. I file DCM utilizzano il formato di file immagine [DICOM](/it/image/dicom/) (Digital Imaging and Communications in Medicine) e possono includere le informazioni sul paziente come riferimento. È stato sviluppato dalla [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) e aveva lo scopo di standardizzare il formato del file di imaging per la distribuzione e la visualizzazione di immagini mediche.
 
 ## Formato file DCM
 

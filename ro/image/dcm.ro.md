@@ -19,7 +19,7 @@
 
 ## Ce este un fișier DCM?
 
-Fișierele cu extensia .dcm reprezintă o imagine digitală care stochează informații medicale ale pacienților, cum ar fi RMN-uri, scanări CT și imagini cu ultrasunete. Fișierele DCM utilizează formatul de fișier imagine [DICOM](/ro/image/dicom) (Imagini digitale și comunicații în medicină) și pot include informații despre pacient pentru referință. A fost dezvoltat de [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) și a fost menit să standardizeze formatul fișierului de imagistică pentru distribuirea și vizualizarea imaginilor medicale.
+Fișierele cu extensia .dcm reprezintă o imagine digitală care stochează informații medicale ale pacienților, cum ar fi RMN-uri, scanări CT și imagini cu ultrasunete. Fișierele DCM utilizează formatul de fișier imagine [DICOM](/ro/image/dicom/) (Imagini digitale și comunicații în medicină) și pot include informații despre pacient pentru referință. A fost dezvoltat de [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) și a fost menit să standardizeze formatul fișierului de imagistică pentru distribuirea și vizualizarea imaginilor medicale.
 
 ## Format de fișier DCM
 

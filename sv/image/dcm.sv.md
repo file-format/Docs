@@ -19,7 +19,7 @@
 
 ## Vad är en DCM fil?
 
-Filer med filtillägget .dcm representerar digitala bilder som lagrar medicinsk information om patienter såsom MRI, datortomografi och ultraljudsbilder. DCM-filer använder bildfilformatet [DICOM](/sv/image/dicom) (Digital Imaging and Communications in Medicine) och kan innehålla patientinformation som referens. Det utvecklades av [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) och var tänkt att standardisera bildformatet för distribution och visning av medicinska bilder.
+Filer med filtillägget .dcm representerar digitala bilder som lagrar medicinsk information om patienter såsom MRI, datortomografi och ultraljudsbilder. DCM-filer använder bildfilformatet [DICOM](/sv/image/dicom/) (Digital Imaging and Communications in Medicine) och kan innehålla patientinformation som referens. Det utvecklades av [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) och var tänkt att standardisera bildformatet för distribution och visning av medicinska bilder.
 
 ## DCM filformat
 

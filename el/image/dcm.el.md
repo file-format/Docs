@@ -19,7 +19,7 @@
 
 ## Τι είναι ένα αρχείο DCM;
 
-Τα αρχεία με επέκταση .dcm αντιπροσωπεύουν ψηφιακή εικόνα που αποθηκεύει ιατρικές πληροφορίες ασθενών όπως μαγνητική τομογραφία, αξονική τομογραφία και εικόνες υπερήχων. Τα αρχεία DCM χρησιμοποιούν μορφή αρχείου εικόνας [DICOM](/el/image/dicom) (Digital Imaging and Communications in Medicine) και μπορούν να περιλαμβάνουν πληροφορίες για τον ασθενή για αναφορά. Αναπτύχθηκε από την [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) και προοριζόταν να τυποποιήσει τη μορφή αρχείου απεικόνισης για διανομή και προβολή ιατρικών εικόνων.
+Τα αρχεία με επέκταση .dcm αντιπροσωπεύουν ψηφιακή εικόνα που αποθηκεύει ιατρικές πληροφορίες ασθενών όπως μαγνητική τομογραφία, αξονική τομογραφία και εικόνες υπερήχων. Τα αρχεία DCM χρησιμοποιούν μορφή αρχείου εικόνας [DICOM](/el/image/dicom/) (Digital Imaging and Communications in Medicine) και μπορούν να περιλαμβάνουν πληροφορίες για τον ασθενή για αναφορά. Αναπτύχθηκε από την [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) και προοριζόταν να τυποποιήσει τη μορφή αρχείου απεικόνισης για διανομή και προβολή ιατρικών εικόνων.
 
 ## Μορφή αρχείου DCM
 

@@ -19,7 +19,7 @@
 
 ## 什么是一 .dcm 文件？
 
-扩展名为 .dcm 的文件代表存储患者医疗信息的数字图像，例如 MRI、CT 扫描和超声图像。 DCM 文件使用 [DICOM](/zh/image/dicom)（医学数字成像和通信）图像文件格式，可以包含患者信息以供参考。它由 [国家电气制造商协会](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) 开发，旨在标准化用于分发和查看医学图像的成像文件格式。
+扩展名为 .dcm 的文件代表存储患者医疗信息的数字图像，例如 MRI、CT 扫描和超声图像。 DCM 文件使用 [DICOM](/zh/image/dicom/)（医学数字成像和通信）图像文件格式，可以包含患者信息以供参考。它由 [国家电气制造商协会](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) 开发，旨在标准化用于分发和查看医学图像的成像文件格式。
 
 ## DCM 文件格式
 

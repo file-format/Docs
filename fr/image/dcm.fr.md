@@ -19,7 +19,7 @@
 
 ## Qu'est-ce qu'un fichier DCM ?
 
-Les fichiers avec l'extension .dcm représentent une image numérique qui stocke les informations médicales des patients telles que les IRM, les tomodensitogrammes et les images échographiques. Les fichiers DCM utilisent le format de fichier image [DICOM](/fr/image/dicom) (Digital Imaging and Communications in Medicine) et peuvent inclure des informations sur le patient à titre de référence. Il a été développé par la [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) et visait à normaliser le format de fichier d'imagerie pour la distribution et la visualisation des images médicales.
+Les fichiers avec l'extension .dcm représentent une image numérique qui stocke les informations médicales des patients telles que les IRM, les tomodensitogrammes et les images échographiques. Les fichiers DCM utilisent le format de fichier image [DICOM](/fr/image/dicom/) (Digital Imaging and Communications in Medicine) et peuvent inclure des informations sur le patient à titre de référence. Il a été développé par la [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) et visait à normaliser le format de fichier d'imagerie pour la distribution et la visualisation des images médicales.
 
 ## Format de fichier MCD
 

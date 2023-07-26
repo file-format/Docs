@@ -19,7 +19,7 @@
 
 ## .DCM 파일이란?
 
-확장자가 .dcm인 파일은 MRI, CT 스캔 및 초음파 이미지와 같은 환자의 의료 정보를 저장하는 디지털 이미지를 나타냅니다. DCM 파일은 [DICOM](/ko/image/dicom)(Digital Imaging and Communications in Medicine) 이미지 파일 형식을 사용하며 참조용으로 환자의 정보를 포함할 수 있습니다. [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association)(NEMA)에서 개발했으며 의료 이미지 배포 및 보기를 위한 이미징 파일 형식을 표준화하기 위한 것이었습니다.
+확장자가 .dcm인 파일은 MRI, CT 스캔 및 초음파 이미지와 같은 환자의 의료 정보를 저장하는 디지털 이미지를 나타냅니다. DCM 파일은 [DICOM](/ko/image/dicom/)(Digital Imaging and Communications in Medicine) 이미지 파일 형식을 사용하며 참조용으로 환자의 정보를 포함할 수 있습니다. [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association)(NEMA)에서 개발했으며 의료 이미지 배포 및 보기를 위한 이미징 파일 형식을 표준화하기 위한 것이었습니다.
 
 ## DCM 파일 형식
 

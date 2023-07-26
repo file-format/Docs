@@ -19,7 +19,7 @@
 
 ## Was ist eine DCM-Datei?
 
-Dateien mit der Erweiterung .dcm stellen digitale Bilder dar, die medizinische Informationen von Patienten wie MRTs, CT-Scans und Ultraschallbilder speichern. DCM-Dateien verwenden das Bilddateiformat [DICOM](/de/image/dicom) (Digital Imaging and Communications in Medicine) und können Patienteninformationen als Referenz enthalten. Es wurde von der [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) entwickelt und sollte das Bilddateiformat für die Verteilung und Anzeige medizinischer Bilder standardisieren.
+Dateien mit der Erweiterung .dcm stellen digitale Bilder dar, die medizinische Informationen von Patienten wie MRTs, CT-Scans und Ultraschallbilder speichern. DCM-Dateien verwenden das Bilddateiformat [DICOM](/de/image/dicom/) (Digital Imaging and Communications in Medicine) und können Patienteninformationen als Referenz enthalten. Es wurde von der [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) entwickelt und sollte das Bilddateiformat für die Verteilung und Anzeige medizinischer Bilder standardisieren.
 
 ## DCM-Dateiformat
 
