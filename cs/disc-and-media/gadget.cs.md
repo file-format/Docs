@@ -19,7 +19,7 @@
 
 ## Co je soubor GADGET?
 
-Soubor GADGET se skládá z malého softwarového programu, který se spouští v postranním panelu Windows Vista nebo Windows 7. Komprimuje několik webových souborů a soubory mohou obsahovat soubory [.html](/cs/web/html), [.css](/cs/web/css) nebo [.js](/cs/web/js) a také další webové soubory. Soubory GADGET se používají pro malé součásti, jako jsou vyhledávací nástroje, informační kanály, systémové nástroje a malé hry. Ačkoli jsou GADGETy hostovány postranním panelem, nejsou specifické pro oblast postranního panelu; tyto lze odpojit a přesunout na plochu podle potřeby.
+Soubor GADGET se skládá z malého softwarového programu, který se spouští v postranním panelu Windows Vista nebo Windows 7. Komprimuje několik webových souborů a soubory mohou obsahovat soubory [.html](/cs/web/html), [.css](/cs/web/css) nebo [.js](/cs/web/js/) a také další webové soubory. Soubory GADGET se používají pro malé součásti, jako jsou vyhledávací nástroje, informační kanály, systémové nástroje a malé hry. Ačkoli jsou GADGETy hostovány postranním panelem, nejsou specifické pro oblast postranního panelu; tyto lze odpojit a přesunout na plochu podle potřeby.
 
 ## Formát souboru GADGET
 

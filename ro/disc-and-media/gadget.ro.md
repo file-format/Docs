@@ -19,7 +19,7 @@
 
 ## Ce este un fișier GADGET?
 
-Un fișier GADGET constă dintr-un mic program software care se execută în bara laterală Windows Vista sau Windows 7. Acesta comprimă mai multe fișiere bazate pe web, iar fișierele pot cuprinde fișierele [.html](/ro/web/html), [.css](/ro/web/css) sau [.js](/ro/web/js), precum și alte fișiere web. Fișierele GADGET sunt folosite pentru componente mici, cum ar fi instrumente de căutare, fluxuri de știri, utilitare de sistem și jocuri mici. Deși GADGET-urile sunt găzduite de Sidebar, nu sunt specifice zonei Sidebar; acestea pot fi demontate și mutate pe desktop după cum doriți.
+Un fișier GADGET constă dintr-un mic program software care se execută în bara laterală Windows Vista sau Windows 7. Acesta comprimă mai multe fișiere bazate pe web, iar fișierele pot cuprinde fișierele [.html](/ro/web/html), [.css](/ro/web/css) sau [.js](/ro/web/js/), precum și alte fișiere web. Fișierele GADGET sunt folosite pentru componente mici, cum ar fi instrumente de căutare, fluxuri de știri, utilitare de sistem și jocuri mici. Deși GADGET-urile sunt găzduite de Sidebar, nu sunt specifice zonei Sidebar; acestea pot fi demontate și mutate pe desktop după cum doriți.
 
 ## Format de fișier GADGET
 

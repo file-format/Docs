@@ -19,7 +19,7 @@
 
 ## Was ist eine GADGET-Datei?
 
-Eine GADGET-Datei besteht aus einem kleinen Softwareprogramm, das in der Seitenleiste von Windows Vista oder Windows 7 ausgeführt wird. Es komprimiert mehrere webbasierte Dateien und die Dateien können die Dateien [.html](/de/web/html), [.css](/de/web/css) oder [.js](/de/web/js) umfassen andere Webdateien. GADGET-Dateien werden für kleine Komponenten wie Suchwerkzeuge, Newsfeeds, Systemdienstprogramme und kleine Spiele verwendet. Obwohl GADGETs von der Sidebar gehostet werden, sind sie nicht spezifisch für den Sidebar-Bereich; diese können abgedockt und beliebig auf den Desktop verschoben werden.
+Eine GADGET-Datei besteht aus einem kleinen Softwareprogramm, das in der Seitenleiste von Windows Vista oder Windows 7 ausgeführt wird. Es komprimiert mehrere webbasierte Dateien und die Dateien können die Dateien [.html](/de/web/html), [.css](/de/web/css) oder [.js](/de/web/js/) umfassen andere Webdateien. GADGET-Dateien werden für kleine Komponenten wie Suchwerkzeuge, Newsfeeds, Systemdienstprogramme und kleine Spiele verwendet. Obwohl GADGETs von der Sidebar gehostet werden, sind sie nicht spezifisch für den Sidebar-Bereich; diese können abgedockt und beliebig auf den Desktop verschoben werden.
 
 ## GADGET-Dateiformat
 

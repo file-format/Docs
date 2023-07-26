@@ -19,7 +19,7 @@
 
 ## GADGET dosyası nedir?
 
-GADGET dosyası, Windows Vista veya Windows 7 kenar çubuğunda çalışan küçük bir yazılım programından oluşur. Birkaç web tabanlı dosyayı sıkıştırır ve dosyalar [.html](/tr/web/html), [.css](/tr/web/css) veya [.js](/tr/web/js) dosyalarının yanı sıra diğer web dosyaları. GADGET dosyaları, arama araçları, haber beslemeleri, sistem yardımcı programları ve küçük oyunlar gibi küçük bileşenler için kullanılır. GADGET'ler Kenar Çubuğu tarafından barındırılsa da, Kenar Çubuğu alanına özgü değildir; bunlar yuvadan çıkarılabilir ve istenildiği gibi masaüstüne taşınabilir.
+GADGET dosyası, Windows Vista veya Windows 7 kenar çubuğunda çalışan küçük bir yazılım programından oluşur. Birkaç web tabanlı dosyayı sıkıştırır ve dosyalar [.html](/tr/web/html), [.css](/tr/web/css) veya [.js](/tr/web/js/) dosyalarının yanı sıra diğer web dosyaları. GADGET dosyaları, arama araçları, haber beslemeleri, sistem yardımcı programları ve küçük oyunlar gibi küçük bileşenler için kullanılır. GADGET'ler Kenar Çubuğu tarafından barındırılsa da, Kenar Çubuğu alanına özgü değildir; bunlar yuvadan çıkarılabilir ve istenildiği gibi masaüstüne taşınabilir.
 
 ## GADGET dosya biçimi
 

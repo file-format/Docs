@@ -19,7 +19,7 @@
 
 ## Mi az a GADGET fájl?
 
-A GADGET-fájl egy kis szoftverprogramból áll, amely a Windows Vista vagy a Windows 7 oldalsávján fut. Több webalapú fájlt tömörít, és a fájlok tartalmazhatnak [.html](/hu/web/html), [.css](/hu/web/css) vagy [.js](/hu/web/js) fájlokat, valamint egyéb webes fájlok. A GADGET-fájlok kis komponensekhez, például keresőeszközökhöz, hírfolyamokhoz, rendszer-segédprogramokhoz és kis játékokhoz használhatók. Bár a modulokat az oldalsáv tárolja, nem jellemzőek az oldalsáv területére; ezek leválaszthatók és tetszés szerint áthelyezhetők az asztalra.
+A GADGET-fájl egy kis szoftverprogramból áll, amely a Windows Vista vagy a Windows 7 oldalsávján fut. Több webalapú fájlt tömörít, és a fájlok tartalmazhatnak [.html](/hu/web/html), [.css](/hu/web/css) vagy [.js](/hu/web/js/) fájlokat, valamint egyéb webes fájlok. A GADGET-fájlok kis komponensekhez, például keresőeszközökhöz, hírfolyamokhoz, rendszer-segédprogramokhoz és kis játékokhoz használhatók. Bár a modulokat az oldalsáv tárolja, nem jellemzőek az oldalsáv területére; ezek leválaszthatók és tetszés szerint áthelyezhetők az asztalra.
 
 ## GADGET fájlformátum
 
