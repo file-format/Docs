@@ -55,5 +55,5 @@ Untuk beberapa trek, wadah MKV perlu menentukan fungsionalitas setiap trek secar
 ## Referensi ##
 
 - [Catatan Spesifikasi Matroska](https://www.matroska.org/technical/notes.html)
-- [Dukungan Kontainer File MKV untuk Video 3D Stereo dan File MK3D](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d- file/)
+- [Dukungan Kontainer File MKV untuk Video 3D Stereo dan File MK3D](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d-files/)
 

@@ -55,5 +55,5 @@
 ## Βιβλιογραφικές αναφορές ##
 
 - [Σημειώσεις προδιαγραφών Matroska](https://www.matroska.org/technical/notes.html)
-- [MKV File Container Support for Stereo 3D Video and the MK3D Files](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d- αρχεία/)
+- [MKV File Container Support for Stereo 3D Video and the MK3D Files](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d-files/)
 

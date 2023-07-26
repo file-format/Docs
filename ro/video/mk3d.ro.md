@@ -55,5 +55,5 @@ Pentru mai multe piese, containerul MKV trebuie să decidă funcționalitatea fi
 ## Referințe ##
 
 - [Note privind specificațiile Matroska](https://www.matroska.org/technical/notes.html)
-- [Compatibilitate pentru containere de fișiere MKV pentru videoclipuri 3D stereo și fișiere MK3D](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d- fisiere/)
+- [Compatibilitate pentru containere de fișiere MKV pentru videoclipuri 3D stereo și fișiere MK3D](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d-files/)
 

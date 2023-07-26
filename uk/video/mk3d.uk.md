@@ -55,5 +55,5 @@
 ## Посилання ##
 
 - [Примітки до специфікацій Matroska](https://www.matroska.org/technical/notes.html)
-- [Підтримка контейнера файлів MKV для стерео3D-відео та файлів MK3D](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d- файли/)
+- [Підтримка контейнера файлів MKV для стерео3D-відео та файлів MK3D](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d-files/)
 

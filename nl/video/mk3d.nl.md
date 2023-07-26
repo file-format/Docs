@@ -55,5 +55,5 @@ Voor de meerdere sporen moet de MKV-container de functionaliteit van elk spoor a
 ## Referenties ##
 
 - [Matroska-specificaties](https://www.matroska.org/technical/notes.html)
-- [MKV-bestandscontainerondersteuning voor stereo 3D-video en de MK3D-bestanden](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d- bestanden/)
+- [MKV-bestandscontainerondersteuning voor stereo 3D-video en de MK3D-bestanden](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d-files/)
 

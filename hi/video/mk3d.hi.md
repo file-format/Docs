@@ -55,5 +55,5 @@ MKV फ़ाइल कंटेनर इन दोनों का समर�
 ## संदर्भ ##
 
 - [Matroska Specification Notes](https://www.matroska.org/technical/notes.html)
-- [स्टीरियो 3D वीडियो और MK3D फ़ाइलों के लिए MKV फ़ाइल कंटेनर समर्थन](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d- फ़ाइलें/)
+- [स्टीरियो 3D वीडियो और MK3D फ़ाइलों के लिए MKV फ़ाइल कंटेनर समर्थन](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d-files/)
 

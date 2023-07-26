@@ -55,5 +55,5 @@ MKV 파일 컨테이너는 이 두 가지를 모두 지원합니다.
 ## 참조 ##
 
 - [Matroska 사양 노트](https://www.matroska.org/technical/notes.html)
-- [스테레오 3D 비디오 및 MK3D 파일에 대한 MKV 파일 컨테이너 지원](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d- 파일/)
+- [스테레오 3D 비디오 및 MK3D 파일에 대한 MKV 파일 컨테이너 지원](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d-files/)
 
