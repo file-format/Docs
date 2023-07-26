@@ -28,7 +28,7 @@ Soubory APKS se ukládají jako komprimované soubory ve formátu souboru [ZIP](
 
 ## Jak vygenerovat soubor APKS?
 
-Když je balíček Android App Bundle (AAB) připraven, jeho chování v obchodě Google Play lze otestovat pro nasazení do zařízení. Soubory APKS lze za tímto účelem vygenerovat ze souborů AAB a nainstalovat na testovací zařízení pomocí nástroje Android [bundletool] od Googlu (https://developer.android.com/studio/command-line/bundletool). Poskytuje nástroje příkazového řádku k vytvoření archivního souboru APKS z APK pomocí následujícího příkazu.
+Když je balíček Android App Bundle (AAB) připraven, jeho chování v obchodě Google Play lze otestovat pro nasazení do zařízení. Soubory APKS lze za tímto účelem vygenerovat ze souborů AAB a nainstalovat na testovací zařízení pomocí nástroje Android [bundletool] od Googlu (https://developer.android.com/tools/bundletool). Poskytuje nástroje příkazového řádku k vytvoření archivního souboru APKS z APK pomocí následujícího příkazu.
 
 ```
 bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
@@ -46,5 +46,5 @@ bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
 
 ## Reference
 
-* [bundletool – příkazový řádek](https://developer.android.com/studio/command-line/bundletool)
+* [bundletool – příkazový řádek](https://developer.android.com/tools/bundletool)
 

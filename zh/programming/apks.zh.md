@@ -28,7 +28,7 @@ AKS 文件使用 [ZIP](/zh/compression/zip/) 文件格式保存为压缩文件�
 
 ## 如何生成APKS文件？
 
-当 Android App Bundle (AAB) 准备就绪时，可以测试其在 Google Play 商店中的行为以部署到设备。为此，可以从 AAB 文件生成 APKS 文件，并使用 Google 的 Android [bundletool](https://developer.android.com/studio/command-line/bundletool) 将其安装在测试设备上。它提供了命令行工具来使用以下命令从 APK 创建 APKS 存档文件。
+当 Android App Bundle (AAB) 准备就绪时，可以测试其在 Google Play 商店中的行为以部署到设备。为此，可以从 AAB 文件生成 APKS 文件，并使用 Google 的 Android [bundletool](https://developer.android.com/tools/bundletool) 将其安装在测试设备上。它提供了命令行工具来使用以下命令从 APK 创建 APKS 存档文件。
 
 ```
 bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
@@ -46,5 +46,5 @@ bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
 
 ## 参考
 
-* [bundletool - 命令行](https://developer.android.com/studio/command-line/bundletool)
+* [bundletool - 命令行](https://developer.android.com/tools/bundletool)
 

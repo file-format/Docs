@@ -28,7 +28,7 @@ APKS-filer sparas som komprimerade filer i filformatet [ZIP](/sv/compression/zip
 
 ## Hur genererar man en APKS-fil?
 
-När Android App Bundle (AAB) är klart kan dess beteende i Google Play Butik testas för implementering på en enhet. APKS-filer kan genereras, för detta ändamål, från AAB-filer och installeras på testenheter med hjälp av Googles Android [bundletool](https://developer.android.com/studio/command-line/bundletool). Den tillhandahåller kommandoradsverktyg för att skapa APKS-arkivfilen från APK:er med följande kommando.
+När Android App Bundle (AAB) är klart kan dess beteende i Google Play Butik testas för implementering på en enhet. APKS-filer kan genereras, för detta ändamål, från AAB-filer och installeras på testenheter med hjälp av Googles Android [bundletool](https://developer.android.com/tools/bundletool). Den tillhandahåller kommandoradsverktyg för att skapa APKS-arkivfilen från APK:er med följande kommando.
 
 ```
 bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
@@ -46,5 +46,5 @@ bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
 
 ## Referenser
 
-* [bundletool - kommandorad](https://developer.android.com/studio/command-line/bundletool)
+* [bundletool - kommandorad](https://developer.android.com/tools/bundletool)
 

@@ -28,7 +28,7 @@ APKS dosyaları, [ZIP](/tr/compression/zip/) dosya biçimi kullanılarak sıkı�
 
 ## APKS dosyası nasıl oluşturulur?
 
-Android App Bundle (AAB) hazır olduğunda, Google Play Store'daki davranışı bir cihaza dağıtım için test edilebilir. APKS dosyaları bu amaçla AAB dosyalarından oluşturulabilir ve Google'ın Android [bundletool](https://developer.android.com/studio/command-line/bundletool) kullanılarak test cihazlarına yüklenebilir. Aşağıdaki komutu kullanarak APK'lardan APKS arşiv dosyası oluşturmak için komut satırı araçları sağlar.
+Android App Bundle (AAB) hazır olduğunda, Google Play Store'daki davranışı bir cihaza dağıtım için test edilebilir. APKS dosyaları bu amaçla AAB dosyalarından oluşturulabilir ve Google'ın Android [bundletool](https://developer.android.com/tools/bundletool) kullanılarak test cihazlarına yüklenebilir. Aşağıdaki komutu kullanarak APK'lardan APKS arşiv dosyası oluşturmak için komut satırı araçları sağlar.
 
 ```
 bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
@@ -46,5 +46,5 @@ bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
 
 ## Referanslar
 
-* [paket aracı - komut satırı](https://developer.android.com/studio/command-line/bundletool)
+* [paket aracı - komut satırı](https://developer.android.com/tools/bundletool)
 

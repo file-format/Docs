@@ -28,7 +28,7 @@
 
 ## Як створити файл APKS?
 
-Коли Android App Bundle (AAB) буде готовий, його поведінку в магазині Google Play можна перевірити для розгортання на пристрої. З цією метою файли APKS можна створити з файлів AAB і встановити на тестових пристроях за допомогою [bundletool] від Google (https://developer.android.com/studio/command-line/bundletool). Він надає інструменти командного рядка для створення файлу архіву APKS з файлів APK за допомогою наступної команди.
+Коли Android App Bundle (AAB) буде готовий, його поведінку в магазині Google Play можна перевірити для розгортання на пристрої. З цією метою файли APKS можна створити з файлів AAB і встановити на тестових пристроях за допомогою [bundletool] від Google (https://developer.android.com/tools/bundletool). Він надає інструменти командного рядка для створення файлу архіву APKS з файлів APK за допомогою наступної команди.
 
 ```
 bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
@@ -46,5 +46,5 @@ bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
 
 ## Список літератури
 
-* [bundletool - командний рядок](https://developer.android.com/studio/command-line/bundletool)
+* [bundletool - командний рядок](https://developer.android.com/tools/bundletool)
 

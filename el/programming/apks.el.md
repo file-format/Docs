@@ -28,7 +28,7 @@
 
 ## Πώς να δημιουργήσετε ένα αρχείο APKS;
 
-Όταν το Android App Bundle (AAB) είναι έτοιμο, η συμπεριφορά του στο Google Play store μπορεί να δοκιμαστεί για ανάπτυξη σε μια συσκευή. Τα αρχεία APKS μπορούν να δημιουργηθούν, για το σκοπό αυτό, από αρχεία AAB και να εγκατασταθούν σε συσκευές δοκιμής χρησιμοποιώντας το [bundletool] της Google (https://developer.android.com/studio/command-line/bundletool). Παρέχει εργαλεία γραμμής εντολών για τη δημιουργία του αρχείου αρχειοθέτησης APKS από APK χρησιμοποιώντας την ακόλουθη εντολή.
+Όταν το Android App Bundle (AAB) είναι έτοιμο, η συμπεριφορά του στο Google Play store μπορεί να δοκιμαστεί για ανάπτυξη σε μια συσκευή. Τα αρχεία APKS μπορούν να δημιουργηθούν, για το σκοπό αυτό, από αρχεία AAB και να εγκατασταθούν σε συσκευές δοκιμής χρησιμοποιώντας το [bundletool] της Google (https://developer.android.com/tools/bundletool). Παρέχει εργαλεία γραμμής εντολών για τη δημιουργία του αρχείου αρχειοθέτησης APKS από APK χρησιμοποιώντας την ακόλουθη εντολή.
 
 ```
 bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
@@ -46,5 +46,5 @@ bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
 
 ## βιβλιογραφικές αναφορές
 
-* [bundletool - commandline](https://developer.android.com/studio/command-line/bundletool)
+* [bundletool - commandline](https://developer.android.com/tools/bundletool)
 

@@ -28,7 +28,7 @@
 
 ## كيف يتم إنشاء ملف APKS؟
 
-عندما تكون حزمة تطبيقات Android (AAB) جاهزة ، يمكن اختبار سلوكها على متجر Google Play للنشر على الجهاز. يمكن إنشاء ملفات APKS ، لهذا الغرض ، من ملفات AAB وتثبيتها على أجهزة الاختبار باستخدام Android [bundletool] من Google (https://developer.android.com/studio/command-line/bundletool). يوفر أدوات سطر الأوامر لإنشاء ملف أرشيف APKS من ملفات APK باستخدام الأمر التالي.
+عندما تكون حزمة تطبيقات Android (AAB) جاهزة ، يمكن اختبار سلوكها على متجر Google Play للنشر على الجهاز. يمكن إنشاء ملفات APKS ، لهذا الغرض ، من ملفات AAB وتثبيتها على أجهزة الاختبار باستخدام Android [bundletool] من Google (https://developer.android.com/tools/bundletool). يوفر أدوات سطر الأوامر لإنشاء ملف أرشيف APKS من ملفات APK باستخدام الأمر التالي.
 
 ```
 bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
@@ -46,5 +46,5 @@ bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
 
 ## مراجع
 
-* [bundletool - commandline](https://developer.android.com/studio/command-line/bundletool)
+* [bundletool - commandline](https://developer.android.com/tools/bundletool)
 

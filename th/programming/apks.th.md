@@ -28,7 +28,7 @@
 
 ## จะสร้างไฟล์ APKS ได้อย่างไร?
 
-เมื่อ Android App Bundle (AAB) พร้อมแล้ว จะสามารถทดสอบลักษณะการทำงานใน Google Play Store เพื่อปรับใช้กับอุปกรณ์ได้ สามารถสร้างไฟล์ APKS จากไฟล์ AAB และติดตั้งในอุปกรณ์ทดสอบโดยใช้ Android [bundletool] ของ Google (https://developer.android.com/studio/command-line/bundletool) ของ Google มีเครื่องมือบรรทัดคำสั่งเพื่อสร้างไฟล์เก็บถาวร APKS จาก APK โดยใช้คำสั่งต่อไปนี้
+เมื่อ Android App Bundle (AAB) พร้อมแล้ว จะสามารถทดสอบลักษณะการทำงานใน Google Play Store เพื่อปรับใช้กับอุปกรณ์ได้ สามารถสร้างไฟล์ APKS จากไฟล์ AAB และติดตั้งในอุปกรณ์ทดสอบโดยใช้ Android [bundletool] ของ Google (https://developer.android.com/tools/bundletool) ของ Google มีเครื่องมือบรรทัดคำสั่งเพื่อสร้างไฟล์เก็บถาวร APKS จาก APK โดยใช้คำสั่งต่อไปนี้
 
 ```
 bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
@@ -46,5 +46,5 @@ bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
 
 ## อ้างอิง
 
-* [bundletool - commandline](https://developer.android.com/studio/command-line/bundletool)
+* [bundletool - commandline](https://developer.android.com/tools/bundletool)
 

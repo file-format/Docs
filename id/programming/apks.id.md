@@ -28,7 +28,7 @@ File APKS disimpan sebagai file terkompresi menggunakan format file [ZIP](/id/co
 
 ## Bagaimana cara menghasilkan file APKS?
 
-Saat Android App Bundle (AAB) sudah siap, perilakunya di Google Play Store dapat diuji untuk penerapan ke perangkat. File APKS dapat dibuat, untuk tujuan ini, dari file AAB dan diinstal pada perangkat uji menggunakan [bundletool] Android Google (https://developer.android.com/studio/command-line/bundletool). Ini menyediakan alat baris perintah untuk membuat file arsip APKS dari APK menggunakan perintah berikut.
+Saat Android App Bundle (AAB) sudah siap, perilakunya di Google Play Store dapat diuji untuk penerapan ke perangkat. File APKS dapat dibuat, untuk tujuan ini, dari file AAB dan diinstal pada perangkat uji menggunakan [bundletool] Android Google (https://developer.android.com/tools/bundletool). Ini menyediakan alat baris perintah untuk membuat file arsip APKS dari APK menggunakan perintah berikut.
 
 ```
 bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
@@ -46,5 +46,5 @@ bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
 
 ## Referensi
 
-* [bundletool - baris perintah](https://developer.android.com/studio/command-line/bundletool)
+* [bundletool - baris perintah](https://developer.android.com/tools/bundletool)
 

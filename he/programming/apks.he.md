@@ -28,7 +28,7 @@
 
 ## כיצד ליצור קובץ APKS?
 
-כאשר ה-Android App Bundle (AAB) מוכן, ניתן לבדוק את ההתנהגות שלו בחנות Google Play לצורך פריסה במכשיר. ניתן להפיק, למטרה זו, קובצי APKS מקובצי AAB ולהתקין אותם במכשירי בדיקה באמצעות [bundletool] של גוגל (https://developer.android.com/studio/command-line/bundletool). הוא מספק כלי שורת פקודה ליצירת קובץ ארכיון APKS מ-APKs באמצעות הפקודה הבאה.
+כאשר ה-Android App Bundle (AAB) מוכן, ניתן לבדוק את ההתנהגות שלו בחנות Google Play לצורך פריסה במכשיר. ניתן להפיק, למטרה זו, קובצי APKS מקובצי AAB ולהתקין אותם במכשירי בדיקה באמצעות [bundletool] של גוגל (https://developer.android.com/tools/bundletool). הוא מספק כלי שורת פקודה ליצירת קובץ ארכיון APKS מ-APKs באמצעות הפקודה הבאה.
 
 ```
 bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
@@ -46,5 +46,5 @@ bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
 
 ## הפניות
 
-* [bundletool - שורת פקודה](https://developer.android.com/studio/command-line/bundletool)
+* [bundletool - שורת פקודה](https://developer.android.com/tools/bundletool)
 

@@ -28,7 +28,7 @@ Fișierele APKS sunt salvate ca fișiere comprimate folosind formatul de fișier
 
 ## Cum se generează un fișier APKS?
 
-Când Android App Bundle (AAB) este gata, comportamentul său în magazinul Google Play poate fi testat pentru implementare pe un dispozitiv. Fișierele APKS pot fi generate, în acest scop, din fișiere AAB și instalate pe dispozitive de testare folosind [bundletool] Android al Google (https://developer.android.com/studio/command-line/bundletool). Oferă instrumente de linie de comandă pentru a crea fișierul de arhivă APKS din APK-uri folosind următoarea comandă.
+Când Android App Bundle (AAB) este gata, comportamentul său în magazinul Google Play poate fi testat pentru implementare pe un dispozitiv. Fișierele APKS pot fi generate, în acest scop, din fișiere AAB și instalate pe dispozitive de testare folosind [bundletool] Android al Google (https://developer.android.com/tools/bundletool). Oferă instrumente de linie de comandă pentru a crea fișierul de arhivă APKS din APK-uri folosind următoarea comandă.
 
 ```
 bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
@@ -46,5 +46,5 @@ bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
 
 ## Referințe
 
-* [bundletool - commandline](https://developer.android.com/studio/command-line/bundletool)
+* [bundletool - commandline](https://developer.android.com/tools/bundletool)
 
