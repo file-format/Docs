@@ -18,7 +18,7 @@
 }
 
 ## Was ist eine SHX-Datei?
-Die SHX-Datei gehört zum Shape-Index-Format, das ein Positionsindex der Feature-Geometrie ist, um eine schnelle Vorwärts- und Rückwärtssuche zu ermöglichen. Die SHX ist eine Offset-Datei mit direktem Zugriff. Diese Datei enthält keine Daten, nur eine doppelte Kopie der ersten hundert Bytes, der Datensatznummer und des Offsets zum Startbyte dieses Datensatzes in der shp. Bitte beachten Sie, dass die Datei mit der Erweiterung .shx die [SHP](/de/gis/shp/) und [DBF](/de/database/dbf) nicht verknüpft.
+Die SHX-Datei gehört zum Shape-Index-Format, das ein Positionsindex der Feature-Geometrie ist, um eine schnelle Vorwärts- und Rückwärtssuche zu ermöglichen. Die SHX ist eine Offset-Datei mit direktem Zugriff. Diese Datei enthält keine Daten, nur eine doppelte Kopie der ersten hundert Bytes, der Datensatznummer und des Offsets zum Startbyte dieses Datensatzes in der shp. Bitte beachten Sie, dass die Datei mit der Erweiterung .shx die [SHP](/de/gis/shp/) und [DBF](/de/database/dbf/) nicht verknüpft.
 
 ## SHX-Dateiformat
 Das SHX-Format enthält einen Positionsindex der Feature-Geometrie und einen 100-Byte-Header ähnlich der SHP-Datei, gefolgt von einer beliebigen Anzahl von 8-Byte-Datensätzen mit fester Länge, die die folgenden zwei Felder enthalten:
