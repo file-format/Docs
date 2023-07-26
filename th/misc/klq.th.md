@@ -27,6 +27,6 @@
 
 ## อ้างอิง
 
-* [รายละเอียดของไฟล์กักเก็บ](https://community.kaspersky.com/kaspersky-total-security-14/details-of-quarantine-files-merged-8534)
+* [รายละเอียดของไฟล์กักเก็บ](https://forum.kaspersky.com/)
 * [ไฟล์ KLQ](https://community.kaspersky.com/search?q=klq%20file)
 

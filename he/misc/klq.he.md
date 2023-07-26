@@ -27,6 +27,6 @@
 
 ## הפניות
 
-* [פרטי קבצי הסגר](https://community.kaspersky.com/kaspersky-total-security-14/details-of-quarantine-files-merged-8534)
+* [פרטי קבצי הסגר](https://forum.kaspersky.com/)
 * [קובץ KLQ](https://community.kaspersky.com/search?q=klq%20file)
 

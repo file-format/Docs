@@ -27,6 +27,6 @@ Soubory KLQ se ukládají na disk v zašifrovaném formátu, takže je nemůže 
 
 ## Reference
 
-* [Podrobnosti o souborech karantény](https://community.kaspersky.com/kaspersky-total-security-14/details-of-quarantine-files-merged-8534)
+* [Podrobnosti o souborech karantény](https://forum.kaspersky.com/)
 * [Soubor KLQ](https://community.kaspersky.com/search?q=klq%20file)
 

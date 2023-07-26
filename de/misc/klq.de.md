@@ -27,6 +27,6 @@ KLQ-Dateien werden in verschlüsseltem Format auf der Disc gespeichert, sodass d
 
 ## Verweise
 
-* [Details zu Quarantänedateien](https://community.kaspersky.com/kaspersky-total-security-14/details-of-quarantine-files-merged-8534)
+* [Details zu Quarantänedateien](https://forum.kaspersky.com/)
 * [KLQ-Datei](https://community.kaspersky.com/search?q=klq%20file)
 

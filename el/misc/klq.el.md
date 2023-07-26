@@ -27,6 +27,6 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Λεπτομέρειες για τα αρχεία καραντίνας](https://community.kaspersky.com/kaspersky-total-security-14/details-of-quarantine-files-merged-8534)
+* [Λεπτομέρειες για τα αρχεία καραντίνας](https://forum.kaspersky.com/)
 * [Αρχείο KLQ](https://community.kaspersky.com/search?q=klq%20file)
 

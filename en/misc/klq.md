@@ -27,5 +27,5 @@ KLQ files are saved to disc in encrypted format so that these can't be again use
 
 ## References
 
-* [Details of Quarantine Files](https://community.kaspersky.com/kaspersky-total-security-14/details-of-quarantine-files-merged-8534)
+* [Details of Quarantine Files](https://forum.kaspersky.com/)
 * [KLQ File](https://community.kaspersky.com/search?q=klq%20file)

@@ -27,6 +27,6 @@ KLQ-bestanden worden in gecodeerde indeling op schijf opgeslagen, zodat deze nie
 
 ## Referenties
 
-* [Details van quarantainebestanden](https://community.kaspersky.com/kaspersky-total-security-14/details-of-quarantine-files-merged-8534)
+* [Details van quarantainebestanden](https://forum.kaspersky.com/)
 * [KLQ-bestand](https://community.kaspersky.com/search?q=klq%20file)
 

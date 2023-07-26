@@ -27,6 +27,6 @@ A KLQ fájlokat a rendszer titkosított formátumban menti a lemezre, így azoka
 
 ## Hivatkozások
 
-* [A karanténfájlok részletei](https://community.kaspersky.com/kaspersky-total-security-14/details-of-quarantine-files-merged-8534)
+* [A karanténfájlok részletei](https://forum.kaspersky.com/)
 * [KLQ-fájl](https://community.kaspersky.com/search?q=klq%20file)
 

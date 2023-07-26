@@ -27,6 +27,6 @@ KLQ файловете се записват на диск в криптиран
 
 ## Препратки
 
-* [Подробности за карантинните файлове](https://community.kaspersky.com/kaspersky-total-security-14/details-of-quarantine-files-merged-8534)
+* [Подробности за карантинните файлове](https://forum.kaspersky.com/)
 * [KLQ файл](https://community.kaspersky.com/search?q=klq%20file)
 

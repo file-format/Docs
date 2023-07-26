@@ -27,6 +27,6 @@
 
 ## использованная литература
 
-* [Сведения о файлах карантина](https://community.kaspersky.com/kaspersky-total-security-14/details-of-quarantine-files-merged-8534)
+* [Сведения о файлах карантина](https://forum.kaspersky.com/)
 * [Файл KLQ](https://community.kaspersky.com/search?q=klq%20file)
 
