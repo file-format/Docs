@@ -35,6 +35,6 @@ tar zxvf tgzCompressedFile.tgz
 A fenti parancs kicsomagolja a tömörített TGZ fájlt, és a TAR archívum fájljait lemezre bontja.
 ## Hivatkozások ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - Wikipédia](https://en.wikipedia.org/wiki/Gzip)
 

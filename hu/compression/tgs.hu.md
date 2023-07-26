@@ -19,7 +19,7 @@
 
 ## Mi az a TGS fájl?
 
-A .tgs kiterjesztésű fájl egy animált matricafájl, amelyet a többplatformos üzenetküldő szolgáltatás, a [Telegram](https://core.telegram.org/animated_stickers) vezetett be. Az üzenetküldő alkalmazások felhasználói animált matricákat használnak, hogy továbbfejlesztett és élénkebb tartalmat küldjenek az üzenetekben, ellentétben a statikus grafikákkal, amelyek állóképek. A Telegram kezdetben a [WEBP](/hu/image/webp/) fájlformátumot használta az állóképmatricákhoz. A TGS fájlformátum nagyobb felbontásban és kisebb fájlméretben képes animációs adatokat tárolni, mint a statikus WEBP matricák. A TGS-fájlok megnyithatók olyan alkalmazásokkal, mint a Telegram, a 7-zip, az Apple Archive Utility és a Corel WinZip.
+A .tgs kiterjesztésű fájl egy animált matricafájl, amelyet a többplatformos üzenetküldő szolgáltatás, a [Telegram](https://core.telegram.org/stickers#animated-stickers) vezetett be. Az üzenetküldő alkalmazások felhasználói animált matricákat használnak, hogy továbbfejlesztett és élénkebb tartalmat küldjenek az üzenetekben, ellentétben a statikus grafikákkal, amelyek állóképek. A Telegram kezdetben a [WEBP](/hu/image/webp/) fájlformátumot használta az állóképmatricákhoz. A TGS fájlformátum nagyobb felbontásban és kisebb fájlméretben képes animációs adatokat tárolni, mint a statikus WEBP matricák. A TGS-fájlok megnyithatók olyan alkalmazásokkal, mint a Telegram, a 7-zip, az Apple Archive Utility és a Corel WinZip.
 
 ## TGS fájlformátum
 
@@ -45,6 +45,6 @@ $ head -c 200 animated-sticker
 ```
 ## Referenciák ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - Wikipédia](https://en.wikipedia.org/wiki/Gzip)
 

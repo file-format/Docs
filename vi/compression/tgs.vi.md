@@ -19,7 +19,7 @@
 
 ## Tệp TGS là gì?
 
-Tệp có phần mở rộng .tgs là tệp hình dán hoạt hình được giới thiệu bởi dịch vụ nhắn tin đa nền tảng, [Telegram](https://core.telegram.org/animated_stickers). Hình dán hoạt hình được người dùng ứng dụng nhắn tin sử dụng để gửi nội dung sống động và nâng cao hơn trong tin nhắn không giống như đồ họa tĩnh là hình ảnh tĩnh. Telegram ban đầu sử dụng định dạng tệp [WEBP](/vi/image/webp/) cho nhãn dán ảnh tĩnh. Định dạng tệp TGS có thể lưu trữ dữ liệu hoạt hình ở độ phân giải cao hơn và kích thước tệp nhỏ hơn so với nhãn dán WEBP tĩnh. Các tệp TGS có thể được mở bằng các ứng dụng như Telegram, 7-zip, Tiện ích lưu trữ của Apple và Corel WinZip.
+Tệp có phần mở rộng .tgs là tệp hình dán hoạt hình được giới thiệu bởi dịch vụ nhắn tin đa nền tảng, [Telegram](https://core.telegram.org/stickers#animated-stickers). Hình dán hoạt hình được người dùng ứng dụng nhắn tin sử dụng để gửi nội dung sống động và nâng cao hơn trong tin nhắn không giống như đồ họa tĩnh là hình ảnh tĩnh. Telegram ban đầu sử dụng định dạng tệp [WEBP](/vi/image/webp/) cho nhãn dán ảnh tĩnh. Định dạng tệp TGS có thể lưu trữ dữ liệu hoạt hình ở độ phân giải cao hơn và kích thước tệp nhỏ hơn so với nhãn dán WEBP tĩnh. Các tệp TGS có thể được mở bằng các ứng dụng như Telegram, 7-zip, Tiện ích lưu trữ của Apple và Corel WinZip.
 
 ## Định dạng tệp TGS
 
@@ -45,6 +45,6 @@ $ head -c 200 animated-sticker
 ```
 ## Người giới thiệu ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - Wikipedia](https://vi.wikipedia.org/wiki/Gzip)
 

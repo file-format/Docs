@@ -35,6 +35,6 @@ tar zxvf tgzCompressedFile.tgz
 Ovanstående kommando dekomprimerar den komprimerade TGZ-filen och extraherar dess filer från TAR-arkivet till skiva.
 ## Referenser ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
 

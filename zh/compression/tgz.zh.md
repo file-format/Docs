@@ -35,6 +35,6 @@ tar zxvf tgzCompressedFile.tgz
 上述命令解压缩压缩的 TGZ 文件并将其文件解压缩到 TAR 存档到磁盘。
 ## 参考 ＃＃
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - 维基百科](https://en.wikipedia.org/wiki/Gzip)
 

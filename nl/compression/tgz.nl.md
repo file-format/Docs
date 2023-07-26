@@ -35,6 +35,6 @@ tar zxvf tgzCompressedFile.tgz
 De bovenstaande opdracht decomprimeert het gecomprimeerde TGZ-bestand en pakt de bestanden uit het TAR-archief op schijf.
 ## Referenties ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
 

@@ -35,6 +35,6 @@ tar zxvf tgzCompressedFile.tgz
 위의 명령은 압축된 TGZ 파일의 압축을 풀고 해당 파일의 TAR 아카이브를 디스크로 추출합니다.
 ## 참조 ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - 위키백과](https://en.wikipedia.org/wiki/Gzip)
 

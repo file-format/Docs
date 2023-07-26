@@ -35,6 +35,6 @@ tar zxvf tgzCompressedFile.tgz
 הפקודה לעיל משחררת את קובץ ה-TGZ הדחוס ומחלצת את הקבצים שלו מארכיון TAR לדיסק.
 ## הפניות ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - ויקיפדיה](https://en.wikipedia.org/wiki/Gzip)
 

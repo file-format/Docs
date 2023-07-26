@@ -19,7 +19,7 @@
 
 ## .TGS 파일이란?
 
-확장자가 .tgs인 파일은 플랫폼 간 메시징 서비스 [Telegram](https://core.telegram.org/animated_stickers)에서 도입한 애니메이션 스티커 파일입니다. 애니메이션 스티커는 메시지 앱 사용자가 정지 이미지인 정적인 그래픽과 달리 메시지에서 더욱 강화되고 생생한 콘텐츠를 보내기 위해 사용됩니다. 텔레그램은 처음에 스틸 이미지 스티커에 [WEBP](/ko/image/webp/) 파일 형식을 사용했습니다. TGS 파일 형식은 정적 WEBP 스티커에 비해 더 높은 해상도와 더 작은 파일 크기로 애니메이션 데이터를 저장할 수 있습니다. TGS 파일은 Telegram, 7-zip, Apple Archive Utility 및 Corel WinZip과 같은 응용 프로그램을 사용하여 열 수 있습니다.
+확장자가 .tgs인 파일은 플랫폼 간 메시징 서비스 [Telegram](https://core.telegram.org/stickers#animated-stickers)에서 도입한 애니메이션 스티커 파일입니다. 애니메이션 스티커는 메시지 앱 사용자가 정지 이미지인 정적인 그래픽과 달리 메시지에서 더욱 강화되고 생생한 콘텐츠를 보내기 위해 사용됩니다. 텔레그램은 처음에 스틸 이미지 스티커에 [WEBP](/ko/image/webp/) 파일 형식을 사용했습니다. TGS 파일 형식은 정적 WEBP 스티커에 비해 더 높은 해상도와 더 작은 파일 크기로 애니메이션 데이터를 저장할 수 있습니다. TGS 파일은 Telegram, 7-zip, Apple Archive Utility 및 Corel WinZip과 같은 응용 프로그램을 사용하여 열 수 있습니다.
 
 ## TGS 파일 형식
 
@@ -45,6 +45,6 @@ $ head -c 200 animated-sticker
 ```
 ## 참조 ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - 위키백과](https://en.wikipedia.org/wiki/Gzip)
 

@@ -35,6 +35,6 @@ tar zxvf tgzCompressedFile.tgz
 Горната команда декомпресира компресирания TGZ файл и извлича неговите файлове от TAR архива на диск.
 ## Препратки ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - Уикипедия](https://en.wikipedia.org/wiki/Gzip)
 

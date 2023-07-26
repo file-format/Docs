@@ -19,7 +19,7 @@
 
 ## Co je soubor TGS?
 
-Soubor s příponou .tgs je soubor animované nálepky, který byl představen službou pro zasílání zpráv napříč platformami, [Telegram](https://core.telegram.org/animated_stickers). Animované nálepky používají uživatelé aplikací pro zasílání zpráv k odesílání vylepšeného a živějšího obsahu ve zprávách na rozdíl od statické grafiky, kterou jsou statické obrázky. Telegram zpočátku používal formát souboru [WEBP](/cs/image/webp/) pro nálepky statických obrázků. Formát souboru TGS může ukládat data animace ve vyšším rozlišení a menší velikosti souboru ve srovnání se statickými nálepkami WEBP. Soubory TGS lze otevřít pomocí aplikací, jako je Telegram, 7-zip, Apple Archive Utility a Corel WinZip.
+Soubor s příponou .tgs je soubor animované nálepky, který byl představen službou pro zasílání zpráv napříč platformami, [Telegram](https://core.telegram.org/stickers#animated-stickers). Animované nálepky používají uživatelé aplikací pro zasílání zpráv k odesílání vylepšeného a živějšího obsahu ve zprávách na rozdíl od statické grafiky, kterou jsou statické obrázky. Telegram zpočátku používal formát souboru [WEBP](/cs/image/webp/) pro nálepky statických obrázků. Formát souboru TGS může ukládat data animace ve vyšším rozlišení a menší velikosti souboru ve srovnání se statickými nálepkami WEBP. Soubory TGS lze otevřít pomocí aplikací, jako je Telegram, 7-zip, Apple Archive Utility a Corel WinZip.
 
 ## Formát souboru TGS
 
@@ -45,6 +45,6 @@ $ head -c 200 animated-sticker
 ```
 ## Reference ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip – Wikipedia](https://en.wikipedia.org/wiki/Gzip)
 

@@ -35,6 +35,6 @@ tar zxvf tgzCompressedFile.tgz
 Il comando precedente decomprime il file TGZ compresso ed estrae i suoi file dall'archivio TAR su disco.
 ## Riferimenti ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
 

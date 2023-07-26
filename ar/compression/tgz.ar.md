@@ -35,6 +35,6 @@ tar zxvf tgzCompressedFile.tgz
 يقوم الأمر أعلاه بفك ضغط ملف TGZ المضغوط واستخراج ملفات أرشيف TAR إلى القرص.
 ## مراجع ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - ويكيبيديا](https://en.wikipedia.org/wiki/Gzip)
 

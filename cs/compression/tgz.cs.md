@@ -35,6 +35,6 @@ tar zxvf tgzCompressedFile.tgz
 Výše uvedený příkaz dekomprimuje komprimovaný soubor TGZ a extrahuje jeho soubory z archivu TAR na disk.
 ## Reference ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip – Wikipedia](https://en.wikipedia.org/wiki/Gzip)
 

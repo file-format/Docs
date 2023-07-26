@@ -35,6 +35,6 @@ tar zxvf tgzCompressedFile.tgz
 Powyższe polecenie dekompresuje skompresowany plik TGZ i rozpakowuje jego pliki z archiwum TAR na dysk.
 ## Bibliografia ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
 

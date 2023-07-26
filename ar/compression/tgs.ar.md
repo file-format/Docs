@@ -19,7 +19,7 @@
 
 ## ما هو ملف TGS؟
 
-الملف بامتداد tgs. هو ملف ملصقات متحرك تم تقديمه بواسطة خدمة المراسلة عبر الأنظمة الأساسية ، [Telegram](https://core.telegram.org/animated_stickers). يستخدم مستخدمو تطبيقات المراسلة الملصقات المتحركة لإرسال محتوى محسّن وحيوي أكثر في الرسائل على عكس الرسومات الثابتة التي لا تزال صورًا. استخدم Telegram في البداية تنسيق الملف [WEBP](/ar/image/webp/) لملصقات الصور الثابتة. يمكن لتنسيق ملف TGS تخزين بيانات الرسوم المتحركة بدقة أعلى وحجم ملف أصغر مقارنة بملصقات WEBP الثابتة. يمكن فتح ملفات TGS باستخدام تطبيقات مثل Telegram و 7-zip و Apple Archive Utility و Corel WinZip.
+الملف بامتداد tgs. هو ملف ملصقات متحرك تم تقديمه بواسطة خدمة المراسلة عبر الأنظمة الأساسية ، [Telegram](https://core.telegram.org/stickers#animated-stickers). يستخدم مستخدمو تطبيقات المراسلة الملصقات المتحركة لإرسال محتوى محسّن وحيوي أكثر في الرسائل على عكس الرسومات الثابتة التي لا تزال صورًا. استخدم Telegram في البداية تنسيق الملف [WEBP](/ar/image/webp/) لملصقات الصور الثابتة. يمكن لتنسيق ملف TGS تخزين بيانات الرسوم المتحركة بدقة أعلى وحجم ملف أصغر مقارنة بملصقات WEBP الثابتة. يمكن فتح ملفات TGS باستخدام تطبيقات مثل Telegram و 7-zip و Apple Archive Utility و Corel WinZip.
 
 ## تنسيق ملف TGS
 
@@ -45,6 +45,6 @@ $ head -c 200 animated-sticker
 ```
 ## مراجع ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - ويكيبيديا](https://en.wikipedia.org/wiki/Gzip)
 
