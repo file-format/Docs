@@ -23,7 +23,7 @@
 
 ## รูปแบบไฟล์ TBZ
 
-ไฟล์ TBZ เป็นไฟล์บีบอัดที่สร้างขึ้นด้วยการบีบอัด BZIP/[BZIP2](/th/compression/bz2) ไม่มีข้อกำหนดอย่างเป็นทางการสำหรับรูปแบบไฟล์นี้ อย่างไรก็ตาม [reverse engineered specifications](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) อย่างไม่เป็นทางการแสดงว่าสตรีม .bz2 ประกอบด้วยส่วนหัว 4 ไบต์ซึ่งตามมาด้วย โดยบล็อกบีบอัดเป็นศูนย์หรือมากกว่า
+ไฟล์ TBZ เป็นไฟล์บีบอัดที่สร้างขึ้นด้วยการบีบอัด BZIP/[BZIP2](/th/compression/bz2/) ไม่มีข้อกำหนดอย่างเป็นทางการสำหรับรูปแบบไฟล์นี้ อย่างไรก็ตาม [reverse engineered specifications](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) อย่างไม่เป็นทางการแสดงว่าสตรีม .bz2 ประกอบด้วยส่วนหัว 4 ไบต์ซึ่งตามมาด้วย โดยบล็อกบีบอัดเป็นศูนย์หรือมากกว่า
 
 ## อ้างอิง ##
 

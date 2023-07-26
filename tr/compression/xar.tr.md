@@ -61,7 +61,7 @@ Başlığın tüm alanlarının (sihir, boyut, sürüm, toc_length_compressed, t
 
 ### XAR İçindekiler Tablosu (TOC)
 
-İçindekiler tablosu, UTF-8 olarak kodlanmış (ve kodlanması gereken) bir XML belgesidir. Dosyanın başında saklanır, bu da tek tek dosyaları ayıklamak için arşivi taramayı kolaylaştırır. XAR arşivi, [GZIP](/tr/compression/gz/), [BZIP2](/tr/compression/bz2) ve diğer benzerleri gibi farklı sıkıştırma düzenlerini kullanarak arşivdeki tek tek dosyaları bağımsız olarak sıkıştırmanıza/kodlamanıza olanak tanır.
+İçindekiler tablosu, UTF-8 olarak kodlanmış (ve kodlanması gereken) bir XML belgesidir. Dosyanın başında saklanır, bu da tek tek dosyaları ayıklamak için arşivi taramayı kolaylaştırır. XAR arşivi, [GZIP](/tr/compression/gz/), [BZIP2](/tr/compression/bz2/) ve diğer benzerleri gibi farklı sıkıştırma düzenlerini kullanarak arşivdeki tek tek dosyaları bağımsız olarak sıkıştırmanıza/kodlamanıza olanak tanır.
 
 ```
 <?xml version="1.0"?>

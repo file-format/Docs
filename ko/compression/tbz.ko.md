@@ -23,7 +23,7 @@
 
 ## TBZ 파일 형식
 
-TBZ 파일은 실제로 BZIP/[BZIP2](/ko/compression/bz2) 압축으로 생성된 압축 아카이브입니다. 이 파일 형식에 사용할 수 있는 공식 사양이 없습니다. 그러나 비공식 [역설계 사양](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf)에 따르면 .bz2 스트림은 뒤에 오는 4바이트 헤더로 구성됩니다. 0개 이상의 압축 블록으로
+TBZ 파일은 실제로 BZIP/[BZIP2](/ko/compression/bz2/) 압축으로 생성된 압축 아카이브입니다. 이 파일 형식에 사용할 수 있는 공식 사양이 없습니다. 그러나 비공식 [역설계 사양](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf)에 따르면 .bz2 스트림은 뒤에 오는 4바이트 헤더로 구성됩니다. 0개 이상의 압축 블록으로
 
 ## 참조 ##
 

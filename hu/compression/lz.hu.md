@@ -19,7 +19,7 @@
 
 ## Mi az LZ fájl?
 
-Az .lz kiterjesztésű fájl egy tömörített archív fájl, amelyet az Lzip programmal hoztak létre, amely egy ingyenes parancssori eszköz a tömörítéshez. Támogatja az összefűzést a támogató fájlok tömörítéséhez. Az LZ-fájlok médiatípusa application/lzip, és nagyobb tömörítési arányt támogatnak, mint a [BZ2](/hu/compression/bz2). Az LZ az LZMA (Lempel-Ziv-Markov lánc) algoritmuson alapul, és egy 32 bites CRC ellenőrző összeget és azonosító bájtokat tartalmaz a fájl integritásának ellenőrzésére.
+Az .lz kiterjesztésű fájl egy tömörített archív fájl, amelyet az Lzip programmal hoztak létre, amely egy ingyenes parancssori eszköz a tömörítéshez. Támogatja az összefűzést a támogató fájlok tömörítéséhez. Az LZ-fájlok médiatípusa application/lzip, és nagyobb tömörítési arányt támogatnak, mint a [BZ2](/hu/compression/bz2/). Az LZ az LZMA (Lempel-Ziv-Markov lánc) algoritmuson alapul, és egy 32 bites CRC ellenőrző összeget és azonosító bájtokat tartalmaz a fájl integritásának ellenőrzésére.
 
 ## LZMA tömörített formátum
 

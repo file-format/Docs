@@ -23,7 +23,7 @@ File dengan ekstensi .tbz adalah arsip terkompresi yang menggunakan kompresi BZI
 
 ## Format File TBZ
 
-File TBZ sebenarnya adalah arsip terkompresi yang dibuat dengan kompresi BZIP/[BZIP2](/id/compression/bz2). Tidak ada spesifikasi formal yang tersedia untuk format file ini. Namun, [spesifikasi rekayasa terbalik] tidak resmi (https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) menunjukkan bahwa aliran .bz2 terdiri dari header 4 byte yang diikuti dengan nol atau lebih blok terkompresi.
+File TBZ sebenarnya adalah arsip terkompresi yang dibuat dengan kompresi BZIP/[BZIP2](/id/compression/bz2/). Tidak ada spesifikasi formal yang tersedia untuk format file ini. Namun, [spesifikasi rekayasa terbalik] tidak resmi (https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) menunjukkan bahwa aliran .bz2 terdiri dari header 4 byte yang diikuti dengan nol atau lebih blok terkompresi.
 
 ## Referensi ##
 

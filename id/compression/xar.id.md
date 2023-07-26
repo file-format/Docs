@@ -61,7 +61,7 @@ Perhatikan bahwa semua bidang header (magic, size, version, toc_length_compresse
 
 ### Daftar Isi XAR (TOC)
 
-Daftar isi adalah dokumen XML yang (dan harus) dikodekan sebagai UTF-8. Itu disimpan di awal file, membuatnya mudah untuk memindai melalui arsip untuk mengekstrak file satu per satu. Arsip XAR memungkinkan Anda mengompres/mengodekan file individual dalam arsip secara mandiri menggunakan skema kompresi yang berbeda seperti [GZIP](/id/compression/gz/), [BZIP2](/id/compression/bz2), dan lainnya yang serupa.
+Daftar isi adalah dokumen XML yang (dan harus) dikodekan sebagai UTF-8. Itu disimpan di awal file, membuatnya mudah untuk memindai melalui arsip untuk mengekstrak file satu per satu. Arsip XAR memungkinkan Anda mengompres/mengodekan file individual dalam arsip secara mandiri menggunakan skema kompresi yang berbeda seperti [GZIP](/id/compression/gz/), [BZIP2](/id/compression/bz2/), dan lainnya yang serupa.
 
 ```
 <?xml version="1.0"?>

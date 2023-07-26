@@ -19,7 +19,7 @@
 
 ## Ce este un fișier LZ?
 
-Un fișier cu extensia .lz este un fișier de arhivă comprimat creat cu Lzip, care este un instrument gratuit de linie de comandă pentru compresie. Acceptă concatenarea pentru a comprima fișierele de suport. Fișierele LZ au tip media application/lzip și acceptă rații de compresie mai mari decât [BZ2](/ro/compression/bz2). LZ se bazează pe algoritmul LZMA (lanț Lempel-Ziv-Markov) și includ o sumă de control CRC de 32 de biți și octeți de identificare pentru verificarea integrității fișierului.
+Un fișier cu extensia .lz este un fișier de arhivă comprimat creat cu Lzip, care este un instrument gratuit de linie de comandă pentru compresie. Acceptă concatenarea pentru a comprima fișierele de suport. Fișierele LZ au tip media application/lzip și acceptă rații de compresie mai mari decât [BZ2](/ro/compression/bz2/). LZ se bazează pe algoritmul LZMA (lanț Lempel-Ziv-Markov) și includ o sumă de control CRC de 32 de biți și octeți de identificare pentru verificarea integrității fișierului.
 
 ## Format comprimat LZMA
 

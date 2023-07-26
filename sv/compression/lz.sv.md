@@ -19,7 +19,7 @@
 
 ## Vad är LZ fil?
 
-En fil med filtillägget .lz är en komprimerad arkivfil skapad med Lzip, som är ett gratis kommandoradsverktyg för komprimering. Den stöder sammanlänkning för att komprimera stödfiler. LZ-filer har mediatyp application/lzip och stöder högre komprimeringskvoter än [BZ2](/sv/compression/bz2). LZ är baserade på LZMA-algoritmen (Lempel-Ziv-Markov-kedjan) och inkluderar en 32-bitars CRC-kontrollsumma och identifieringsbytes för att kontrollera filens integritet.
+En fil med filtillägget .lz är en komprimerad arkivfil skapad med Lzip, som är ett gratis kommandoradsverktyg för komprimering. Den stöder sammanlänkning för att komprimera stödfiler. LZ-filer har mediatyp application/lzip och stöder högre komprimeringskvoter än [BZ2](/sv/compression/bz2/). LZ är baserade på LZMA-algoritmen (Lempel-Ziv-Markov-kedjan) och inkluderar en 32-bitars CRC-kontrollsumma och identifieringsbytes för att kontrollera filens integritet.
 
 ## LZMA komprimerat format
 

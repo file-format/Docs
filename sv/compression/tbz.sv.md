@@ -23,7 +23,7 @@ En fil med tillägget .tbz är ett komprimerat arkiv som använder BZIP-komprime
 
 ## TBZ filformat
 
-TBZ-filer är faktiskt komprimerade arkiv skapade med BZIP/[BZIP2](/sv/compression/bz2)-komprimering. Det finns inga formella specifikationer tillgängliga för detta filformat. En inofficiell [omvänd specifikationer](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) visar dock att en .bz2-ström består av en 4-byte header som följs med noll eller fler komprimerade block.
+TBZ-filer är faktiskt komprimerade arkiv skapade med BZIP/[BZIP2](/sv/compression/bz2/)-komprimering. Det finns inga formella specifikationer tillgängliga för detta filformat. En inofficiell [omvänd specifikationer](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) visar dock att en .bz2-ström består av en 4-byte header som följs med noll eller fler komprimerade block.
 
 ## Referenser ##
 

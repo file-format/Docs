@@ -61,7 +61,7 @@ Zauważ, że wszystkie pola nagłówka (magic, size, version, toc_length_compres
 
 ### XAR Spis treści (TOC)
 
-Spis treści to dokument XML, który jest (i musi) być zakodowany w UTF-8. Jest przechowywany na początku pliku, co ułatwia przeglądanie archiwum w celu wyodrębnienia pojedynczego pliku. Archiwum XAR umożliwia niezależne kompresowanie/kodowanie poszczególnych plików w archiwum przy użyciu różnych schematów kompresji, takich jak [GZIP](/pl/compression/gz/), [BZIP2](/pl/compression/bz2) i inne podobne.
+Spis treści to dokument XML, który jest (i musi) być zakodowany w UTF-8. Jest przechowywany na początku pliku, co ułatwia przeglądanie archiwum w celu wyodrębnienia pojedynczego pliku. Archiwum XAR umożliwia niezależne kompresowanie/kodowanie poszczególnych plików w archiwum przy użyciu różnych schematów kompresji, takich jak [GZIP](/pl/compression/gz/), [BZIP2](/pl/compression/bz2/) i inne podobne.
 
 ```
 <?xml version="1.0"?>

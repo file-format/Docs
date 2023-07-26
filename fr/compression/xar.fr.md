@@ -61,7 +61,7 @@ Notez que tous les champs de l'en-tête (magic, size, version, toc_length_compre
 
 ### Table des matières XAR (TOC)
 
-La table des matières est un document XML qui est (et doit) être encodé en UTF-8. Il est stocké au début du fichier, ce qui facilite la lecture de l'archive pour extraire un fichier individuel. L'archive XAR vous permet de compresser/encoder les fichiers individuels de l'archive indépendamment en utilisant différents schémas de compression tels que [GZIP](/fr/compression/gz/), [BZIP2](/fr/compression/bz2) et d'autres similaires.
+La table des matières est un document XML qui est (et doit) être encodé en UTF-8. Il est stocké au début du fichier, ce qui facilite la lecture de l'archive pour extraire un fichier individuel. L'archive XAR vous permet de compresser/encoder les fichiers individuels de l'archive indépendamment en utilisant différents schémas de compression tels que [GZIP](/fr/compression/gz/), [BZIP2](/fr/compression/bz2/) et d'autres similaires.
 
 ```
 <?xml version="1.0"?>

@@ -61,7 +61,7 @@ Observe que todos os campos do cabeçalho (magic, size, version, toc_length_comp
 
 ### Índice XAR (TOC)
 
-O sumário é um documento XML que é (e deve) ser codificado como UTF-8. Ele é armazenado no início do arquivo, facilitando a varredura do arquivo para extrair um arquivo individual. O arquivo XAR permite compactar/codificar os arquivos individuais no arquivo de forma independente usando diferentes esquemas de compactação, como [GZIP](/pt/compression/gz/), [BZIP2](/pt/compression/bz2) e outros semelhantes.
+O sumário é um documento XML que é (e deve) ser codificado como UTF-8. Ele é armazenado no início do arquivo, facilitando a varredura do arquivo para extrair um arquivo individual. O arquivo XAR permite compactar/codificar os arquivos individuais no arquivo de forma independente usando diferentes esquemas de compactação, como [GZIP](/pt/compression/gz/), [BZIP2](/pt/compression/bz2/) e outros semelhantes.
 
 ```
 <?xml version="1.0"?>

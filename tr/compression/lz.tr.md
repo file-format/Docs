@@ -19,7 +19,7 @@
 
 ## .lz dosyası nedir?
 
-.lz uzantılı bir dosya, sıkıştırma için ücretsiz bir komut satırı aracı olan Lzip ile oluşturulan sıkıştırılmış bir arşiv dosyasıdır. Destek dosyalarını sıkıştırmak için birleştirmeyi destekler. LZ dosyalarının uygulama/lzip ortam türü vardır ve [BZ2](/tr/compression/bz2)'den daha yüksek sıkıştırma oranlarını destekler. LZ, LZMA (Lempel-Ziv-Markov zinciri) algoritmasına dayalıdır ve dosyanın bütünlüğünü kontrol etmek için 32 bitlik bir CRC sağlama toplamı ve kimlik baytları içerir.
+.lz uzantılı bir dosya, sıkıştırma için ücretsiz bir komut satırı aracı olan Lzip ile oluşturulan sıkıştırılmış bir arşiv dosyasıdır. Destek dosyalarını sıkıştırmak için birleştirmeyi destekler. LZ dosyalarının uygulama/lzip ortam türü vardır ve [BZ2](/tr/compression/bz2/)'den daha yüksek sıkıştırma oranlarını destekler. LZ, LZMA (Lempel-Ziv-Markov zinciri) algoritmasına dayalıdır ve dosyanın bütünlüğünü kontrol etmek için 32 bitlik bir CRC sağlama toplamı ve kimlik baytları içerir.
 
 ## LZMA Sıkıştırılmış Format
 

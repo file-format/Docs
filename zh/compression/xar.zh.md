@@ -61,7 +61,7 @@ struct xar_header {
 
 ### XAR 目录 (TOC)
 
-目录是一个 XML 文档，它（并且必须）被编码为 UTF-8。它存储在文件的开头，便于扫描存档以提取单个文件。 XAR 存档允许您使用不同的压缩方案独立压缩/编码存档中的各个文件，例如 [GZIP](/zh/compression/gz/)、[BZIP2](/zh/compression/bz2) 和其他类似方案。
+目录是一个 XML 文档，它（并且必须）被编码为 UTF-8。它存储在文件的开头，便于扫描存档以提取单个文件。 XAR 存档允许您使用不同的压缩方案独立压缩/编码存档中的各个文件，例如 [GZIP](/zh/compression/gz/)、[BZIP2](/zh/compression/bz2/) 和其他类似方案。
 
 ```
 <?xml version="1.0"?>

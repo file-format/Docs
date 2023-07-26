@@ -19,7 +19,7 @@
 
 ## Che cos'è un file LZ?
 
-Un file con estensione .lz è un file di archivio compresso creato con Lzip, che è uno strumento gratuito da riga di comando per la compressione. Supporta la concatenazione per comprimere i file di supporto. I file LZ hanno il tipo di supporto application/lzip e supportano rapporti di compressione più elevati rispetto a [BZ2](/it/compression/bz2). LZ si basa sull'algoritmo LZMA (catena Lempel-Ziv-Markov) e include un checksum CRC a 32 bit e byte ident per controllare l'integrità del file.
+Un file con estensione .lz è un file di archivio compresso creato con Lzip, che è uno strumento gratuito da riga di comando per la compressione. Supporta la concatenazione per comprimere i file di supporto. I file LZ hanno il tipo di supporto application/lzip e supportano rapporti di compressione più elevati rispetto a [BZ2](/it/compression/bz2/). LZ si basa sull'algoritmo LZMA (catena Lempel-Ziv-Markov) e include un checksum CRC a 32 bit e byte ident per controllare l'integrità del file.
 
 ## Formato compresso LZMA
 

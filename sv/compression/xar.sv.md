@@ -61,7 +61,7 @@ Observera att alla fält i rubriken (magi, storlek, version, toc_length_compress
 
 ### XAR Innehållsförteckning (TOC)
 
-Innehållsförteckningen är ett XML-dokument som är (och måste) kodas som UTF-8. Den lagras i början av filen, vilket gör det enkelt att skanna igenom arkivet för att extrahera enskild fil. XAR-arkivet låter dig komprimera/koda de enskilda filerna i arkivet oberoende med hjälp av olika komprimeringsscheman såsom [GZIP](/sv/compression/gz/), [BZIP2](/sv/compression/bz2) och andra liknande.
+Innehållsförteckningen är ett XML-dokument som är (och måste) kodas som UTF-8. Den lagras i början av filen, vilket gör det enkelt att skanna igenom arkivet för att extrahera enskild fil. XAR-arkivet låter dig komprimera/koda de enskilda filerna i arkivet oberoende med hjälp av olika komprimeringsscheman såsom [GZIP](/sv/compression/gz/), [BZIP2](/sv/compression/bz2/) och andra liknande.
 
 ```
 <?xml version="1.0"?>

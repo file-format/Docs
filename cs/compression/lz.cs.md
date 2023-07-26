@@ -19,7 +19,7 @@
 
 ## Co je soubor LZ?
 
-Soubor s příponou .lz je komprimovaný archivní soubor vytvořený pomocí Lzip, což je bezplatný nástroj příkazového řádku pro kompresi. Podporuje zřetězení pro kompresi podpůrných souborů. Soubory LZ mají typ média application/lzip a podporují vyšší kompresní poměry než [BZ2](/cs/compression/bz2). LZ jsou založeny na algoritmu LZMA (Lempel-Ziv-Markovův řetězec) a obsahují 32bitový kontrolní součet CRC a identifikační bajty pro kontrolu integrity souboru.
+Soubor s příponou .lz je komprimovaný archivní soubor vytvořený pomocí Lzip, což je bezplatný nástroj příkazového řádku pro kompresi. Podporuje zřetězení pro kompresi podpůrných souborů. Soubory LZ mají typ média application/lzip a podporují vyšší kompresní poměry než [BZ2](/cs/compression/bz2/). LZ jsou založeny na algoritmu LZMA (Lempel-Ziv-Markovův řetězec) a obsahují 32bitový kontrolní součet CRC a identifikační bajty pro kontrolu integrity souboru.
 
 ## Komprimovaný formát LZMA
 

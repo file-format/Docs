@@ -23,7 +23,7 @@
 
 ## TBZ File Format
 
-TBZ files are actually compressed archives created with BZIP/[BZIP2](/compression/bz2) compression. There are no formal specifications available for this file format. However, an unofficial [reverse engineered specifications](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) show that a .bz2 stream consists of a 4-byte header which is followed by zero or more compressed blocks.
+TBZ files are actually compressed archives created with BZIP/[BZIP2](/compression/bz2/) compression. There are no formal specifications available for this file format. However, an unofficial [reverse engineered specifications](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) show that a .bz2 stream consists of a 4-byte header which is followed by zero or more compressed blocks.
 
 ## References ##
 

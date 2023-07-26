@@ -23,7 +23,7 @@ Plik z rozszerzeniem .tbz to skompresowane archiwum, które wykorzystuje kompres
 
 ## Format pliku TBZ
 
-Pliki TBZ to w rzeczywistości skompresowane archiwa utworzone za pomocą kompresji BZIP/[BZIP2](/pl/compression/bz2). Dla tego formatu pliku nie są dostępne żadne formalne specyfikacje. Jednak nieoficjalne [specyfikacje poddane inżynierii wstecznej](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) pokazują, że strumień .bz2 składa się z 4-bajtowego nagłówka, po którym następuje przez zero lub więcej skompresowanych bloków.
+Pliki TBZ to w rzeczywistości skompresowane archiwa utworzone za pomocą kompresji BZIP/[BZIP2](/pl/compression/bz2/). Dla tego formatu pliku nie są dostępne żadne formalne specyfikacje. Jednak nieoficjalne [specyfikacje poddane inżynierii wstecznej](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) pokazują, że strumień .bz2 składa się z 4-bajtowego nagłówka, po którym następuje przez zero lub więcej skompresowanych bloków.
 
 ## Bibliografia ##
 

@@ -23,7 +23,7 @@ Tệp có phần mở rộng .tbz là tệp lưu trữ nén sử dụng nén BZI
 
 ## Định dạng tệp TBZ
 
-Các tệp TBZ thực sự là các tệp lưu trữ nén được tạo bằng nén BZIP/[BZIP2](/vi/compression/bz2). Không có thông số kỹ thuật chính thức có sẵn cho định dạng tệp này. Tuy nhiên, một [thông số kỹ thuật đảo ngược](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) không chính thức cho thấy rằng một luồng .bz2 bao gồm một tiêu đề 4 byte theo sau bằng 0 hoặc nhiều khối nén.
+Các tệp TBZ thực sự là các tệp lưu trữ nén được tạo bằng nén BZIP/[BZIP2](/vi/compression/bz2/). Không có thông số kỹ thuật chính thức có sẵn cho định dạng tệp này. Tuy nhiên, một [thông số kỹ thuật đảo ngược](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) không chính thức cho thấy rằng một luồng .bz2 bao gồm một tiêu đề 4 byte theo sau bằng 0 hoặc nhiều khối nén.
 
 ## Người giới thiệu ##
 

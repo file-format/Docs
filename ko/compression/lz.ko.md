@@ -19,7 +19,7 @@
 
 ## .LZ 파일이란?
 
-확장자가 .lz인 파일은 압축을 위한 무료 명령줄 도구인 Lzip으로 만든 압축 아카이브 파일입니다. 지원 파일을 압축하는 연결을 지원합니다. LZ 파일은 미디어 유형이 application/lzip이며 [BZ2](/ko/compression/bz2)보다 높은 압축률을 지원합니다. LZ는 LZMA(Lempel-Ziv-Markov chain) 알고리즘을 기반으로 하며 파일의 무결성을 검사하기 위한 32비트 CRC 체크섬 및 ident 바이트를 포함합니다.
+확장자가 .lz인 파일은 압축을 위한 무료 명령줄 도구인 Lzip으로 만든 압축 아카이브 파일입니다. 지원 파일을 압축하는 연결을 지원합니다. LZ 파일은 미디어 유형이 application/lzip이며 [BZ2](/ko/compression/bz2/)보다 높은 압축률을 지원합니다. LZ는 LZMA(Lempel-Ziv-Markov chain) 알고리즘을 기반으로 하며 파일의 무결성을 검사하기 위한 32비트 CRC 체크섬 및 ident 바이트를 포함합니다.
 
 ## LZMA 압축 형식
 

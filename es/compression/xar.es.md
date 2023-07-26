@@ -61,7 +61,7 @@ Tenga en cuenta que todos los campos del encabezado (magia, tamaño, versión, t
 
 ### Tabla de contenido XAR (TOC)
 
-La tabla de contenido es un documento XML que está (y debe) estar codificado como UTF-8. Se almacena al principio del archivo, lo que facilita el escaneo a través del archivo para extraer archivos individuales. El archivo XAR le permite comprimir/codificar los archivos individuales en el archivo de forma independiente usando diferentes esquemas de compresión como [GZIP](/es/compression/gz/), [BZIP2](/es/compression/bz2) y otros similares.
+La tabla de contenido es un documento XML que está (y debe) estar codificado como UTF-8. Se almacena al principio del archivo, lo que facilita el escaneo a través del archivo para extraer archivos individuales. El archivo XAR le permite comprimir/codificar los archivos individuales en el archivo de forma independiente usando diferentes esquemas de compresión como [GZIP](/es/compression/gz/), [BZIP2](/es/compression/bz2/) y otros similares.
 
 ```
 <?xml version="1.0"?>

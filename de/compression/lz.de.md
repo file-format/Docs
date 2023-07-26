@@ -19,7 +19,7 @@
 
 ## Was ist eine LZ-Datei?
 
-Eine Datei mit der Erweiterung .lz ist eine komprimierte Archivdatei, die mit Lzip erstellt wurde, einem kostenlosen Befehlszeilentool für die Komprimierung. Es unterstützt die Verkettung, um Support-Dateien zu komprimieren. LZ-Dateien haben den Medientyp application/lzip und unterstützen höhere Komprimierungsraten als [BZ2](/de/compression/bz2). LZ basieren auf dem LZMA-Algorithmus (Lempel-Ziv-Markov-Kette) und enthalten eine 32-Bit-CRC-Prüfsumme und Ident-Bytes zur Überprüfung der Integrität der Datei.
+Eine Datei mit der Erweiterung .lz ist eine komprimierte Archivdatei, die mit Lzip erstellt wurde, einem kostenlosen Befehlszeilentool für die Komprimierung. Es unterstützt die Verkettung, um Support-Dateien zu komprimieren. LZ-Dateien haben den Medientyp application/lzip und unterstützen höhere Komprimierungsraten als [BZ2](/de/compression/bz2/). LZ basieren auf dem LZMA-Algorithmus (Lempel-Ziv-Markov-Kette) und enthalten eine 32-Bit-CRC-Prüfsumme und Ident-Bytes zur Überprüfung der Integrität der Datei.
 
 ## LZMA-komprimiertes Format
 

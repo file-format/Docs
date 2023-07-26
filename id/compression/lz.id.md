@@ -19,7 +19,7 @@
 
 ## Apa itu file LZ?
 
-File dengan ekstensi .lz adalah file arsip terkompresi yang dibuat dengan Lzip, yang merupakan alat baris perintah gratis untuk kompresi. Ini mendukung penggabungan untuk mengompres file dukungan. File LZ memiliki jenis media application/lzip dan mendukung rasio kompresi yang lebih tinggi daripada [BZ2](/id/compression/bz2). LZ didasarkan pada algoritme LZMA (rantai Lempel-Ziv-Markov) dan menyertakan checksum CRC 32-bit dan byte ident untuk memeriksa integritas file.
+File dengan ekstensi .lz adalah file arsip terkompresi yang dibuat dengan Lzip, yang merupakan alat baris perintah gratis untuk kompresi. Ini mendukung penggabungan untuk mengompres file dukungan. File LZ memiliki jenis media application/lzip dan mendukung rasio kompresi yang lebih tinggi daripada [BZ2](/id/compression/bz2/). LZ didasarkan pada algoritme LZMA (rantai Lempel-Ziv-Markov) dan menyertakan checksum CRC 32-bit dan byte ident untuk memeriksa integritas file.
 
 ## Format Terkompresi LZMA
 

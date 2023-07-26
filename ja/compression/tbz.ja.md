@@ -23,7 +23,7 @@
 
 ## TBZ ファイル形式
 
-TBZ ファイルは、実際には BZIP/[BZIP2](/compression/bz2) 圧縮で作成された圧縮アーカイブです。このファイル形式に使用できる正式な仕様はありません。ただし、非公式の [リバース エンジニアリングされた仕様](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) は、.bz2 ストリームが 4 バイトのヘッダーで構成され、その後に続くことを示しています。 0 個以上の圧縮ブロックによって。
+TBZ ファイルは、実際には BZIP/[BZIP2](/compression/bz2/) 圧縮で作成された圧縮アーカイブです。このファイル形式に使用できる正式な仕様はありません。ただし、非公式の [リバース エンジニアリングされた仕様](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) は、.bz2 ストリームが 4 バイトのヘッダーで構成され、その後に続くことを示しています。 0 個以上の圧縮ブロックによって。
 
 ## 参照 ##
 

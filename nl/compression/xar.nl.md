@@ -61,7 +61,7 @@ Merk op dat alle velden van de header (magic, size, version, toc_length_compress
 
 ### XAR Inhoudsopgave (TOC)
 
-De inhoudsopgave is een XML-document dat is (en moet) worden gecodeerd als UTF-8. Het wordt aan het begin van het bestand opgeslagen, waardoor het gemakkelijk is om door het archief te scannen om een afzonderlijk bestand uit te pakken. Met het XAR-archief kunt u de afzonderlijke bestanden in het archief onafhankelijk comprimeren/coderen met behulp van verschillende compressieschema's zoals [GZIP](/nl/compression/gz/), [BZIP2](/nl/compression/bz2) en andere soortgelijke.
+De inhoudsopgave is een XML-document dat is (en moet) worden gecodeerd als UTF-8. Het wordt aan het begin van het bestand opgeslagen, waardoor het gemakkelijk is om door het archief te scannen om een afzonderlijk bestand uit te pakken. Met het XAR-archief kunt u de afzonderlijke bestanden in het archief onafhankelijk comprimeren/coderen met behulp van verschillende compressieschema's zoals [GZIP](/nl/compression/gz/), [BZIP2](/nl/compression/bz2/) en andere soortgelijke.
 
 ```
 <?xml version="1.0"?>

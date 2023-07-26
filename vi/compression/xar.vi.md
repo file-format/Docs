@@ -61,7 +61,7 @@ Lưu ý rằng tất cả các trường của tiêu đề (ma thuật, kích th
 
 ### Mục lục XAR (TOC)
 
-Mục lục là một tài liệu XML (và phải) được mã hóa dưới dạng UTF-8. Nó được lưu trữ ở phần đầu của tệp, giúp dễ dàng quét qua kho lưu trữ để giải nén từng tệp. Kho lưu trữ XAR cho phép bạn nén/mã hóa các tệp riêng lẻ trong kho lưu trữ một cách độc lập bằng cách sử dụng các lược đồ nén khác nhau, chẳng hạn như [GZIP](/vi/compression/gz/), [BZIP2](/vi/compression/bz2) và các lược đồ tương tự khác.
+Mục lục là một tài liệu XML (và phải) được mã hóa dưới dạng UTF-8. Nó được lưu trữ ở phần đầu của tệp, giúp dễ dàng quét qua kho lưu trữ để giải nén từng tệp. Kho lưu trữ XAR cho phép bạn nén/mã hóa các tệp riêng lẻ trong kho lưu trữ một cách độc lập bằng cách sử dụng các lược đồ nén khác nhau, chẳng hạn như [GZIP](/vi/compression/gz/), [BZIP2](/vi/compression/bz2/) và các lược đồ tương tự khác.
 
 ```
 <?xml version="1.0"?>
