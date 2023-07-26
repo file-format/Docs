@@ -18,12 +18,12 @@
 
 ## Co je soubor MTS?
 
-Soubor MTS je soubor videa [AVCHD](/cs/video/avchd) (Advanced Video Coding High Definition) natočený typickými videokamerami. Tento formát souboru je standardním formátem videa, který používá mnoho videokamer kompatibilních s AVCHD, jako jsou videokamery Sony a Panasonic HD. MTS vám umožňuje nahrávat videa ve vysokém rozlišení (HD) a transformovat je nebo sdílet v počítači. The
+Soubor MTS je soubor videa [AVCHD](/cs/video/avchd/) (Advanced Video Coding High Definition) natočený typickými videokamerami. Tento formát souboru je standardním formátem videa, který používá mnoho videokamer kompatibilních s AVCHD, jako jsou videokamery Sony a Panasonic HD. MTS vám umožňuje nahrávat videa ve vysokém rozlišení (HD) a transformovat je nebo sdílet v počítači. The
 Soubor MTS je v této moderní době široce používán mnoha profesionály a domácími uživateli jako formát souborů videa.
 
 ## Video formát MTS
 
-.mts je jednou z přípon souborů používaných pro videa AVCHD. Formát [AVCHD](/cs/video/avchd) byl představen společnostmi Sony a Panasonic v roce 2006, který používá mnoho slavných značek videokamer pro svá zařízení pro natáčení filmů. MTS (zkráceně MPEG Transport Stream) je formát kontejnerového souboru, který obsahuje zvuk, video a další důležitá data. Protože používá kompresi videa MPEG-4 / H.264, může podporovat videa 1080i a 720p. Zvukové toky v souboru MTS mohou být komprimovány pomocí zvuku PCM, což je nekomprimovaný lineární kodek nebo kodek Dolby AC-3.
+.mts je jednou z přípon souborů používaných pro videa AVCHD. Formát [AVCHD](/cs/video/avchd/) byl představen společnostmi Sony a Panasonic v roce 2006, který používá mnoho slavných značek videokamer pro svá zařízení pro natáčení filmů. MTS (zkráceně MPEG Transport Stream) je formát kontejnerového souboru, který obsahuje zvuk, video a další důležitá data. Protože používá kompresi videa MPEG-4 / H.264, může podporovat videa 1080i a 720p. Zvukové toky v souboru MTS mohou být komprimovány pomocí zvuku PCM, což je nekomprimovaný lineární kodek nebo kodek Dolby AC-3.
 
 ## Rozdíl mezi MTS a M2TS
 

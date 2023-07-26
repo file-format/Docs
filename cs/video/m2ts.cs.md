@@ -19,7 +19,7 @@
 
 ## Co je soubor M2TS? ##
 
-Soubor M2TS obsahuje video ve vysokém rozlišení na disku Blu-ray a AVCHD. Tento formát souboru je založen na kontejneru transportního toku MPEG-2 a používá se pro multiplexování zvuku, videa a dalších toků. Soubory M2TS lze přehrávat na zařízeních podporujících přehrávání [AVCHD](/cs/video/avchd), jako jsou Sony PlayStation 3, Sony Bravia TV, Western Digital WDTV, Xtreamer media player, Amkette FlashTV HD Media Player a Panasonic Viera TV podporující AVCHD.
+Soubor M2TS obsahuje video ve vysokém rozlišení na disku Blu-ray a AVCHD. Tento formát souboru je založen na kontejneru transportního toku MPEG-2 a používá se pro multiplexování zvuku, videa a dalších toků. Soubory M2TS lze přehrávat na zařízeních podporujících přehrávání [AVCHD](/cs/video/avchd/), jako jsou Sony PlayStation 3, Sony Bravia TV, Western Digital WDTV, Xtreamer media player, Amkette FlashTV HD Media Player a Panasonic Viera TV podporující AVCHD.
 
 ## Formát souboru M2TS
 Upravená specifikace transportního toku MPEG-2 pro média s náhodným přístupem (jako jsou DVD, Blu-ray Disc, pevný disk, paměťové karty SSD) je kontejner médií BDAV, který se neformálně nazývá M2TS. M2TS používá transportní toky s proměnnou rychlostí (VBR) namísto typických konstantních rychlostí (CBR), které se vyskytují ve vysílání MPEG-2 TS pro optimalizaci velikosti úložiště. Transportní tok s konstantní rychlostí vyhovující T-STD pro přehrávání časové známky příchodu (ATS) každého paketu musí být zaznamenán, aby bylo možné rekonstruovat.

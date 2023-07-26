@@ -19,7 +19,7 @@
 
 ## O que é o arquivo M2TS? ##
 
-Um arquivo M2TS contém o vídeo de alta definição em Blu-ray Disc e AVCHD. Este formato de arquivo é baseado no contêiner de fluxo de transporte MPEG-2 e usado para multiplexação de áudio, vídeo e outros fluxos. Os arquivos M2TS podem ser reproduzidos nos dispositivos que suportam a reprodução de [AVCHD](/pt/video/avchd), como Sony PlayStation 3s, Sony Bravia TVs, Western Digital WDTVs, Xtreamer media player, Amkette FlashTV HD Media Player e Panasonic Viera TVs que suportam AVCHD.
+Um arquivo M2TS contém o vídeo de alta definição em Blu-ray Disc e AVCHD. Este formato de arquivo é baseado no contêiner de fluxo de transporte MPEG-2 e usado para multiplexação de áudio, vídeo e outros fluxos. Os arquivos M2TS podem ser reproduzidos nos dispositivos que suportam a reprodução de [AVCHD](/pt/video/avchd/), como Sony PlayStation 3s, Sony Bravia TVs, Western Digital WDTVs, Xtreamer media player, Amkette FlashTV HD Media Player e Panasonic Viera TVs que suportam AVCHD.
 
 ## Formato de arquivo M2TS
 A especificação de fluxo de transporte MPEG-2 modificada para mídia de acesso aleatório (como DVD, Blu-ray Disc, disco rígido, cartões de memória de estado sólido) é um contêiner de mídia BDAV que é informalmente chamado de M2TS. O M2TS usa fluxos de transporte de taxa variável (VBR) em vez das taxas constantes típicas (CBR) encontradas na transmissão MPEG-2 TS para otimizar o tamanho do armazenamento. Um fluxo de transporte de taxa constante compatível com T-STD para reproduzir o timestamp de chegada (ATS) de cada pacote precisa ser gravado para poder reconstruir.

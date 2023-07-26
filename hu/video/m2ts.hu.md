@@ -19,7 +19,7 @@
 
 ## Mi az M2TS fájl? ##
 
-Egy M2TS-fájl tartalmazza a nagyfelbontású videót Blu-ray lemezen és AVCHD-n. Ez a fájlformátum az MPEG-2 szállítási adatfolyam-tárolón alapul, és audio-, video- és egyéb adatfolyamok multiplexelésére szolgál. Az M2TS fájlok lejátszhatók az [AVCHD](/hu/video/avchd) lejátszását támogató eszközökön, például Sony PlayStation 3s, Sony Bravia TV-k, Western Digital WDTV-k, Xtreamer médialejátszó, Amkette FlashTV HD Media Player és Panasonic Viera TV-k. AVCHD.
+Egy M2TS-fájl tartalmazza a nagyfelbontású videót Blu-ray lemezen és AVCHD-n. Ez a fájlformátum az MPEG-2 szállítási adatfolyam-tárolón alapul, és audio-, video- és egyéb adatfolyamok multiplexelésére szolgál. Az M2TS fájlok lejátszhatók az [AVCHD](/hu/video/avchd/) lejátszását támogató eszközökön, például Sony PlayStation 3s, Sony Bravia TV-k, Western Digital WDTV-k, Xtreamer médialejátszó, Amkette FlashTV HD Media Player és Panasonic Viera TV-k. AVCHD.
 
 ## M2TS fájlformátum
 A véletlen hozzáférésű adathordozók (például DVD, Blu-ray Disc, merevlemez, szilárdtestalapú memóriakártyák) módosított MPEG-2 szállítási adatfolyam-specifikációja egy BDAV-médiatároló, amelyet informálisan M2TS-nek hívnak. Az M2TS változó sebességű (VBR) szállítási adatfolyamot használ az MPEG-2 TS sugárzásban található tipikus állandó sebesség (CBR) helyett a tárolási méret optimalizálására. Egy T-STD-kompatibilis állandó sebességű Transport Stream-nek minden egyes csomag érkezési időbélyegének (ATS) lejátszásához rögzítenie kell a rekonstrukcióhoz.

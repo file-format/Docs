@@ -18,12 +18,12 @@
 
 ## MTS dosyası nedir?
 
-Bir MTS dosyası, tipik video kameralar tarafından çekilen bir [AVCHD](/tr/video/avchd) (Gelişmiş Video Kodlama Yüksek Çözünürlüklü) video dosyasıdır. Bu dosya biçimi, Sony ve Panasonic HD video kameralar gibi birçok AVCHD uyumlu video kamera tarafından kullanılan standart bir video formatıdır. MTS, dönüştürmek veya bilgisayarınızda paylaşmak için yüksek tanımlı (HD) videolar kaydetmenizi sağlar. bu
+Bir MTS dosyası, tipik video kameralar tarafından çekilen bir [AVCHD](/tr/video/avchd/) (Gelişmiş Video Kodlama Yüksek Çözünürlüklü) video dosyasıdır. Bu dosya biçimi, Sony ve Panasonic HD video kameralar gibi birçok AVCHD uyumlu video kamera tarafından kullanılan standart bir video formatıdır. MTS, dönüştürmek veya bilgisayarınızda paylaşmak için yüksek tanımlı (HD) videolar kaydetmenizi sağlar. bu
 MTS dosyası, bu modern çağda birçok profesyonel ve ev kullanıcısı tarafından video dosyası formatı olarak yaygın bir şekilde uygulanmaktadır.
 
 ## MTS Video Formatı
 
-.mts, AVCHD videoları için kullanılan dosya uzantılarından biridir. [AVCHD](/tr/video/avchd) formatı, Sony ve Panasonic tarafından 2006 yılında tanıtıldı ve birçok ünlü video kamera markası tarafından film çekim cihazları için kullanıldı. MTS (MPEG Aktarım Akışı olarak kısaltılır), ses, video ve diğer temel verileri içeren bir kapsayıcı dosya formatıdır. MPEG-4 / H.264 video sıkıştırma kullandığından 1080i ve 720p videoları destekleyebilir. Bir MTS dosyasındaki ses akışları, sıkıştırılmamış bir doğrusal kodek olan PCM ses veya Dolby AC-3 kodek kullanılarak sıkıştırılabilir.
+.mts, AVCHD videoları için kullanılan dosya uzantılarından biridir. [AVCHD](/tr/video/avchd/) formatı, Sony ve Panasonic tarafından 2006 yılında tanıtıldı ve birçok ünlü video kamera markası tarafından film çekim cihazları için kullanıldı. MTS (MPEG Aktarım Akışı olarak kısaltılır), ses, video ve diğer temel verileri içeren bir kapsayıcı dosya formatıdır. MPEG-4 / H.264 video sıkıştırma kullandığından 1080i ve 720p videoları destekleyebilir. Bir MTS dosyasındaki ses akışları, sıkıştırılmamış bir doğrusal kodek olan PCM ses veya Dolby AC-3 kodek kullanılarak sıkıştırılabilir.
 
 ## MTS ve M2TS arasındaki fark
 

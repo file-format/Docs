@@ -19,7 +19,7 @@
 
 ## Tập tin M2TS là gì? ##
 
-Tệp M2TS chứa video độ nét cao trên Đĩa Blu-ray và AVCHD. Định dạng tệp này dựa trên bộ chứa luồng truyền tải MPEG-2 và được sử dụng để ghép kênh âm thanh, video và các luồng khác. Có thể phát các tệp M2TS trên các thiết bị hỗ trợ phát lại [AVCHD](/vi/video/avchd), chẳng hạn như Sony PlayStation 3, Sony Bravia TV, Western Digital WDTV, trình phát phương tiện Xtreamer, Trình phát phương tiện Amkette FlashTV HD và TV Panasonic Viera hỗ trợ AVCHD.
+Tệp M2TS chứa video độ nét cao trên Đĩa Blu-ray và AVCHD. Định dạng tệp này dựa trên bộ chứa luồng truyền tải MPEG-2 và được sử dụng để ghép kênh âm thanh, video và các luồng khác. Có thể phát các tệp M2TS trên các thiết bị hỗ trợ phát lại [AVCHD](/vi/video/avchd/), chẳng hạn như Sony PlayStation 3, Sony Bravia TV, Western Digital WDTV, trình phát phương tiện Xtreamer, Trình phát phương tiện Amkette FlashTV HD và TV Panasonic Viera hỗ trợ AVCHD.
 
 ## Định dạng tệp M2TS
 Thông số kỹ thuật luồng truyền tải MPEG-2 đã sửa đổi cho phương tiện truy cập ngẫu nhiên (chẳng hạn như DVD, Đĩa Blu-ray, ổ cứng, thẻ nhớ thể rắn) là một bộ chứa phương tiện BDAV được gọi một cách không chính thức là M2TS. M2TS sử dụng Luồng truyền tải tốc độ thay đổi (VBR) thay vì tốc độ không đổi điển hình (CBR) được tìm thấy trong phát sóng MPEG-2 TS để tối ưu hóa kích thước lưu trữ. Luồng truyền tải tốc độ không đổi tuân thủ T-STD để phát lại dấu thời gian đến (ATS) của mỗi gói cần được ghi lại để có thể tái tạo.

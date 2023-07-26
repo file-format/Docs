@@ -19,7 +19,7 @@
 
 ## Apa itu file M2TS? ##
 
-File M2TS berisi video definisi tinggi pada Disk Blu-ray dan AVCHD. Format file ini didasarkan pada wadah aliran transportasi MPEG-2 dan digunakan untuk multiplexing audio, video, dan aliran lainnya. File M2TS dapat diputar di perangkat yang mendukung pemutaran [AVCHD](/id/video/avchd), seperti, Sony PlayStation 3s, Sony Bravia TV, WDTV Western Digital, pemutar media Xtreamer, Amkette FlashTV HD Media Player, dan TV Panasonic Viera yang mendukung AVCHD.
+File M2TS berisi video definisi tinggi pada Disk Blu-ray dan AVCHD. Format file ini didasarkan pada wadah aliran transportasi MPEG-2 dan digunakan untuk multiplexing audio, video, dan aliran lainnya. File M2TS dapat diputar di perangkat yang mendukung pemutaran [AVCHD](/id/video/avchd/), seperti, Sony PlayStation 3s, Sony Bravia TV, WDTV Western Digital, pemutar media Xtreamer, Amkette FlashTV HD Media Player, dan TV Panasonic Viera yang mendukung AVCHD.
 
 ## format file M2TS
 Spesifikasi stream transport MPEG-2 yang dimodifikasi untuk media akses acak (seperti DVD, Blu-ray Disc, hard drive, kartu memori solid state) adalah wadah media BDAV yang secara informal disebut M2TS. M2TS menggunakan Transport Streams laju variabel (VBR) alih-alih laju konstan tipikal (CBR) yang ditemukan dalam siaran MPEG-2 TS untuk mengoptimalkan ukuran penyimpanan. Transport Stream laju konstan yang sesuai dengan T-STD untuk pemutaran stempel waktu kedatangan (ATS) setiap paket perlu direkam agar dapat direkonstruksi.

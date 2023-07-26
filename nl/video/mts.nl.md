@@ -18,12 +18,12 @@
 
 ## Wat is een MTS-bestand?
 
-Een MTS-bestand is een [AVCHD](/nl/video/avchd) (Advanced Video Coding High Definition) videobestand dat is opgenomen met typische camcorders. Dit bestandsformaat is een standaard videoformaat dat door veel AVCHD-compatibele camcorders zoals Sony en Panasonic HD-camcorders wordt gebruikt. Met MTS kunt u high-definition (HD) video's opnemen om ze te transformeren of te delen op uw computer. De
+Een MTS-bestand is een [AVCHD](/nl/video/avchd/) (Advanced Video Coding High Definition) videobestand dat is opgenomen met typische camcorders. Dit bestandsformaat is een standaard videoformaat dat door veel AVCHD-compatibele camcorders zoals Sony en Panasonic HD-camcorders wordt gebruikt. Met MTS kunt u high-definition (HD) video's opnemen om ze te transformeren of te delen op uw computer. De
 Het MTS-bestand wordt in dit moderne tijdperk door veel professionals en thuisgebruikers op grote schaal toegepast als hun videobestandsformaat.
 
 ## MTS-videoformaat
 
-De .mts is een van de bestandsextensies die wordt gebruikt voor AVCHD-video's. Het [AVCHD](/nl/video/avchd)-formaat werd in 2006 door Sony en Panasonic geïntroduceerd en wordt door veel van de bekende camcordermerken gebruikt voor hun filmopnameapparatuur. De MTS (afgekort als MPEG Transport Stream) is een containerbestandsindeling die audio, video en andere essentiële gegevens bevat. Omdat het MPEG-4 / H.264-videocompressie gebruikt, kan het 1080i- en 720p-video's ondersteunen. De audiostreams in een MTS-bestand kunnen worden gecomprimeerd met PCM-audio, een niet-gecomprimeerde lineaire codec of Dolby AC-3-codec.
+De .mts is een van de bestandsextensies die wordt gebruikt voor AVCHD-video's. Het [AVCHD](/nl/video/avchd/)-formaat werd in 2006 door Sony en Panasonic geïntroduceerd en wordt door veel van de bekende camcordermerken gebruikt voor hun filmopnameapparatuur. De MTS (afgekort als MPEG Transport Stream) is een containerbestandsindeling die audio, video en andere essentiële gegevens bevat. Omdat het MPEG-4 / H.264-videocompressie gebruikt, kan het 1080i- en 720p-video's ondersteunen. De audiostreams in een MTS-bestand kunnen worden gecomprimeerd met PCM-audio, een niet-gecomprimeerde lineaire codec of Dolby AC-3-codec.
 
 ## Verschil tussen MTS en M2TS
 

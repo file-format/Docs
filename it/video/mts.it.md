@@ -18,12 +18,12 @@
 
 ## Che cos'è un file MTS?
 
-Un file MTS è un file video [AVCHD](/it/video/avchd) (Advanced Video Coding High Definition) ripreso da normali videocamere. Questo formato di file è un formato video standard utilizzato da molte videocamere compatibili con AVCHD come le videocamere Sony e Panasonic HD. MTS ti consente di registrare video ad alta definizione (HD) per trasformarli o condividerli sul tuo computer. Il
+Un file MTS è un file video [AVCHD](/it/video/avchd/) (Advanced Video Coding High Definition) ripreso da normali videocamere. Questo formato di file è un formato video standard utilizzato da molte videocamere compatibili con AVCHD come le videocamere Sony e Panasonic HD. MTS ti consente di registrare video ad alta definizione (HD) per trasformarli o condividerli sul tuo computer. Il
 Il file MTS viene ampiamente applicato da molti professionisti e utenti domestici come formato di file video in questa era moderna.
 
 ## Formato video MTS
 
-Il .mts è una delle estensioni di file utilizzate per i video AVCHD. Il formato [AVCHD](/it/video/avchd) è stato introdotto da Sony e Panasonic nel 2006 ed è utilizzato da molti dei famosi marchi di videocamere per i loro dispositivi di ripresa di filmati. L'MTS (abbreviato in MPEG Transport Stream) è un formato di file contenitore che contiene audio, video e altri dati essenziali. Poiché utilizza la compressione video MPEG-4 / H.264, può supportare video 1080i e 720p. I flussi audio in un file MTS possono essere compressi utilizzando l'audio PCM che è un codec lineare non compresso o un codec Dolby AC-3.
+Il .mts è una delle estensioni di file utilizzate per i video AVCHD. Il formato [AVCHD](/it/video/avchd/) è stato introdotto da Sony e Panasonic nel 2006 ed è utilizzato da molti dei famosi marchi di videocamere per i loro dispositivi di ripresa di filmati. L'MTS (abbreviato in MPEG Transport Stream) è un formato di file contenitore che contiene audio, video e altri dati essenziali. Poiché utilizza la compressione video MPEG-4 / H.264, può supportare video 1080i e 720p. I flussi audio in un file MTS possono essere compressi utilizzando l'audio PCM che è un codec lineare non compresso o un codec Dolby AC-3.
 
 ## Differenza tra MTS e M2TS
 

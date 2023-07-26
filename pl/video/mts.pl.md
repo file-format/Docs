@@ -18,12 +18,12 @@
 
 ## Czym jest plik MTS?
 
-Plik MTS to plik wideo [AVCHD](/pl/video/avchd) (Advanced Video Coding High Definition) nagrany przez typowe kamery. Ten format pliku jest standardowym formatem wideo używanym przez wiele kamer zgodnych ze standardem AVCHD, takich jak kamery Sony i Panasonic HD. MTS umożliwia nagrywanie filmów w wysokiej rozdzielczości (HD) w celu ich przekształcania lub udostępniania na komputerze. The
+Plik MTS to plik wideo [AVCHD](/pl/video/avchd/) (Advanced Video Coding High Definition) nagrany przez typowe kamery. Ten format pliku jest standardowym formatem wideo używanym przez wiele kamer zgodnych ze standardem AVCHD, takich jak kamery Sony i Panasonic HD. MTS umożliwia nagrywanie filmów w wysokiej rozdzielczości (HD) w celu ich przekształcania lub udostępniania na komputerze. The
 Plik MTS jest szeroko stosowany przez wielu profesjonalistów i użytkowników domowych jako format plików wideo w dzisiejszych czasach.
 
 ## Format wideo MTS
 
-.mts to jedno z rozszerzeń plików używanych w filmach AVCHD. Format [AVCHD](/pl/video/avchd) został wprowadzony przez firmy Sony i Panasonic w 2006 roku i jest używany przez wiele znanych marek kamer w urządzeniach do nagrywania filmów. MTS (w skrócie MPEG Transport Stream) to format pliku kontenera, który zawiera audio, wideo i inne niezbędne dane. Ponieważ wykorzystuje kompresję wideo MPEG-4 / H.264, może obsługiwać filmy 1080i i 720p. Strumienie audio w pliku MTS mogą być kompresowane przy użyciu dźwięku PCM, który jest nieskompresowanym kodekiem liniowym lub kodekiem Dolby AC-3.
+.mts to jedno z rozszerzeń plików używanych w filmach AVCHD. Format [AVCHD](/pl/video/avchd/) został wprowadzony przez firmy Sony i Panasonic w 2006 roku i jest używany przez wiele znanych marek kamer w urządzeniach do nagrywania filmów. MTS (w skrócie MPEG Transport Stream) to format pliku kontenera, który zawiera audio, wideo i inne niezbędne dane. Ponieważ wykorzystuje kompresję wideo MPEG-4 / H.264, może obsługiwać filmy 1080i i 720p. Strumienie audio w pliku MTS mogą być kompresowane przy użyciu dźwięku PCM, który jest nieskompresowanym kodekiem liniowym lub kodekiem Dolby AC-3.
 
 ## Różnica między MTS a M2TS
 

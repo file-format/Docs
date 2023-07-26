@@ -18,12 +18,12 @@
 
 ## Mi az MTS fájl?
 
-Az MTS-fájl egy [AVCHD](/hu/video/avchd) (Advanced Video Coding High Definition) videofájl, amelyet tipikus kamkorderekkel készítenek. Ez a fájlformátum egy szabványos videoformátum, amelyet számos AVCHD-kompatibilis videokamera használ, például a Sony és a Panasonic HD videokamerák. Az MTS segítségével nagyfelbontású (HD) videókat rögzíthet, hogy átalakítsa vagy megoszthassa azokat a számítógépén. Az
+Az MTS-fájl egy [AVCHD](/hu/video/avchd/) (Advanced Video Coding High Definition) videofájl, amelyet tipikus kamkorderekkel készítenek. Ez a fájlformátum egy szabványos videoformátum, amelyet számos AVCHD-kompatibilis videokamera használ, például a Sony és a Panasonic HD videokamerák. Az MTS segítségével nagyfelbontású (HD) videókat rögzíthet, hogy átalakítsa vagy megoszthassa azokat a számítógépén. Az
 Az MTS fájlt sok szakember és otthoni felhasználó széles körben alkalmazza videofájl-formátumként ebben a modern korban.
 
 ## MTS videó formátum
 
-Az .mts az AVCHD videókhoz használt fájlkiterjesztések egyike. Az [AVCHD](/hu/video/avchd) formátumot a Sony és a Panasonic vezette be 2006-ban, amelyet számos híres videokamera márka használ filmfelvételi eszközeikhez. Az MTS (rövidítve MPEG Transport Stream) egy tárolófájlformátum, amely audio-, videó- és egyéb lényeges adatokat tartalmaz. Mivel MPEG-4 / H.264 videotömörítést használ, támogatja az 1080i és 720p videókat. Az MTS-fájlban lévő hangfolyamok tömöríthetők PCM-audióval, amely egy tömörítetlen lineáris kodek vagy Dolby AC-3 kodek.
+Az .mts az AVCHD videókhoz használt fájlkiterjesztések egyike. Az [AVCHD](/hu/video/avchd/) formátumot a Sony és a Panasonic vezette be 2006-ban, amelyet számos híres videokamera márka használ filmfelvételi eszközeikhez. Az MTS (rövidítve MPEG Transport Stream) egy tárolófájlformátum, amely audio-, videó- és egyéb lényeges adatokat tartalmaz. Mivel MPEG-4 / H.264 videotömörítést használ, támogatja az 1080i és 720p videókat. Az MTS-fájlban lévő hangfolyamok tömöríthetők PCM-audióval, amely egy tömörítetlen lineáris kodek vagy Dolby AC-3 kodek.
 
 ## Az MTS és az M2TS közötti különbség
 
