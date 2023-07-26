@@ -23,7 +23,7 @@ File GADGET terdiri dari program perangkat lunak kecil yang dijalankan di sideba
 
 ## format file GADGET
 
-File GADGET adalah arsip [ZIP](/id/compression/zip) yang berganti nama yang berisi kumpulan file HTML, XML, JScript, dan CSS (Cascading Style Sheets). Penginstalan berisi pengunduhan file .gadget dan mengaktifkan proses pengunduhan untuk menginstal komponen atau menyimpan file .gadget ke sistem lokal dan mengklik dua kali untuk memulai proses penginstalan.
+File GADGET adalah arsip [ZIP](/id/compression/zip/) yang berganti nama yang berisi kumpulan file HTML, XML, JScript, dan CSS (Cascading Style Sheets). Penginstalan berisi pengunduhan file .gadget dan mengaktifkan proses pengunduhan untuk menginstal komponen atau menyimpan file .gadget ke sistem lokal dan mengklik dua kali untuk memulai proses penginstalan.
 
 Pada dasarnya, sebuah GADGET berisi dua file:
 

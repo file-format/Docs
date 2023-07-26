@@ -23,7 +23,7 @@ Soubor GADGET se skládá z malého softwarového programu, který se spouští 
 
 ## Formát souboru GADGET
 
-Soubor GADGET je přejmenovaný archiv [ZIP](/cs/compression/zip) obsahující kolekci souborů HTML, XML, JScript a CSS (Cascading Style Sheets). Instalace obsahuje stažení souboru .gadget a umožnění procesu stahování pro instalaci komponenty nebo uložení souboru .gadget do místního systému a poklepáním zahájíte proces instalace.
+Soubor GADGET je přejmenovaný archiv [ZIP](/cs/compression/zip/) obsahující kolekci souborů HTML, XML, JScript a CSS (Cascading Style Sheets). Instalace obsahuje stažení souboru .gadget a umožnění procesu stahování pro instalaci komponenty nebo uložení souboru .gadget do místního systému a poklepáním zahájíte proces instalace.
 
 GADGET v zásadě obsahuje dva soubory:
 

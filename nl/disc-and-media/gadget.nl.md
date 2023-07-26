@@ -23,7 +23,7 @@ Een GADGET-bestand bestaat uit een klein softwareprogramma dat wordt uitgevoerd 
 
 ## GADGET-bestandsindeling
 
-Het GADGET-bestand is een hernoemd [ZIP](/nl/compression/zip)-archief dat een verzameling HTML-, XML-, JScript- en CSS-bestanden (Cascading Style Sheets) bevat. De installatie omvat het downloaden van het .gadget-bestand en het inschakelen van het downloadproces om het onderdeel te installeren of het opslaan van het .gadget-bestand op het lokale systeem en dubbelklikken om het installatieproces te starten.
+Het GADGET-bestand is een hernoemd [ZIP](/nl/compression/zip/)-archief dat een verzameling HTML-, XML-, JScript- en CSS-bestanden (Cascading Style Sheets) bevat. De installatie omvat het downloaden van het .gadget-bestand en het inschakelen van het downloadproces om het onderdeel te installeren of het opslaan van het .gadget-bestand op het lokale systeem en dubbelklikken om het installatieproces te starten.
 
 In principe bevat een GADGET twee bestanden:
 

@@ -23,7 +23,7 @@ A GADGET-fájl egy kis szoftverprogramból áll, amely a Windows Vista vagy a Wi
 
 ## GADGET fájlformátum
 
-A GADGET fájl egy átnevezett [ZIP](/hu/compression/zip) archívum, amely HTML, XML, JScript és CSS (Cascading Style Sheets) fájlok gyűjteményét tartalmazza. A telepítés magában foglalja a .gadget fájl letöltését és a letöltési folyamat engedélyezését az összetevő telepítéséhez, vagy a .gadget fájl mentését a helyi rendszerbe, és a telepítési folyamat elindításához kattintson duplán.
+A GADGET fájl egy átnevezett [ZIP](/hu/compression/zip/) archívum, amely HTML, XML, JScript és CSS (Cascading Style Sheets) fájlok gyűjteményét tartalmazza. A telepítés magában foglalja a .gadget fájl letöltését és a letöltési folyamat engedélyezését az összetevő telepítéséhez, vagy a .gadget fájl mentését a helyi rendszerbe, és a telepítési folyamat elindításához kattintson duplán.
 
 Alapvetően egy GADGET két fájlt tartalmaz:
 

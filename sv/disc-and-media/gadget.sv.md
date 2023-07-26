@@ -23,7 +23,7 @@ En GADGET-fil består av ett litet program som körs i Windows Vista eller Windo
 
 ## GADGET filformat
 
-GADGET-filen är ett omdöpt [ZIP](/sv/compression/zip)-arkiv som innehåller en samling HTML-, XML-, JScript- och CSS-filer (Cascading Style Sheets). Installationen innehåller att ladda ner .gadget-filen och aktivera nedladdningsprocessen för att installera komponenten eller att spara .gadget-filen till det lokala systemet och dubbelklicka för att starta installationsprocessen.
+GADGET-filen är ett omdöpt [ZIP](/sv/compression/zip/)-arkiv som innehåller en samling HTML-, XML-, JScript- och CSS-filer (Cascading Style Sheets). Installationen innehåller att ladda ner .gadget-filen och aktivera nedladdningsprocessen för att installera komponenten eller att spara .gadget-filen till det lokala systemet och dubbelklicka för att starta installationsprocessen.
 
 I grund och botten innehåller en GADGET två filer:
 

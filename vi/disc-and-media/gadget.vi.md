@@ -23,7 +23,7 @@ Tệp GADGET bao gồm một chương trình phần mềm nhỏ thực thi trong
 
 ## Định dạng tệp GADGET
 
-Tệp GADGET là một kho lưu trữ [ZIP](/vi/compression/zip) được đổi tên chứa một tập hợp các tệp HTML, XML, JScript và CSS (Cascading Style Sheets). Quá trình cài đặt bao gồm tải xuống tệp .gadget và kích hoạt quá trình tải xuống để cài đặt thành phần hoặc lưu tệp .gadget vào hệ thống cục bộ và nhấp đúp để bắt đầu quá trình cài đặt.
+Tệp GADGET là một kho lưu trữ [ZIP](/vi/compression/zip/) được đổi tên chứa một tập hợp các tệp HTML, XML, JScript và CSS (Cascading Style Sheets). Quá trình cài đặt bao gồm tải xuống tệp .gadget và kích hoạt quá trình tải xuống để cài đặt thành phần hoặc lưu tệp .gadget vào hệ thống cục bộ và nhấp đúp để bắt đầu quá trình cài đặt.
 
 Về cơ bản, GADGET chứa hai tệp:
 

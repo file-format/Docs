@@ -23,7 +23,7 @@ Plik GADGET składa się z małego programu, który jest uruchamiany na pasku bo
 
 ## Format pliku GADŻET
 
-Plik GADGET to archiwum o zmienionej nazwie [ZIP](/pl/compression/zip), zawierające kolekcję plików HTML, XML, JScript i CSS (kaskadowe arkusze stylów). Instalacja obejmuje pobranie pliku .gadget i włączenie procesu pobierania w celu zainstalowania komponentu lub zapisanie pliku .gadget w systemie lokalnym i dwukrotne kliknięcie w celu rozpoczęcia procesu instalacji.
+Plik GADGET to archiwum o zmienionej nazwie [ZIP](/pl/compression/zip/), zawierające kolekcję plików HTML, XML, JScript i CSS (kaskadowe arkusze stylów). Instalacja obejmuje pobranie pliku .gadget i włączenie procesu pobierania w celu zainstalowania komponentu lub zapisanie pliku .gadget w systemie lokalnym i dwukrotne kliknięcie w celu rozpoczęcia procesu instalacji.
 
 Zasadniczo GADŻET zawiera dwa pliki:
 

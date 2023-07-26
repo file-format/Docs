@@ -23,7 +23,7 @@ Un file GADGET è costituito da un piccolo programma software che viene eseguito
 
 ## Formato file GADGET
 
-Il file GADGET è un archivio rinominato [ZIP](/it/compression/zip) contenente una raccolta di file HTML, XML, JScript e CSS (Cascading Style Sheets). L'installazione contiene il download del file .gadget e l'abilitazione del processo di download per installare il componente o il salvataggio del file .gadget nel sistema locale e il doppio clic per avviare il processo di installazione.
+Il file GADGET è un archivio rinominato [ZIP](/it/compression/zip/) contenente una raccolta di file HTML, XML, JScript e CSS (Cascading Style Sheets). L'installazione contiene il download del file .gadget e l'abilitazione del processo di download per installare il componente o il salvataggio del file .gadget nel sistema locale e il doppio clic per avviare il processo di installazione.
 
 Fondamentalmente, un GADGET contiene due file:
 

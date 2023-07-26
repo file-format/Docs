@@ -23,7 +23,7 @@ A GADGET file consists of a small software program that executes within the Wind
 
 ## GADGET file format
 
-The GADGET file is a renamed [ZIP](/compression/zip) archive containing a collection of HTML, XML, JScript, and CSS (Cascading Style Sheets) files. The installation contains downloading the .gadget file and enabling the download process to install the component or saving the .gadget file to the local system and double-clicking to start the installation process.
+The GADGET file is a renamed [ZIP](/compression/zip/) archive containing a collection of HTML, XML, JScript, and CSS (Cascading Style Sheets) files. The installation contains downloading the .gadget file and enabling the download process to install the component or saving the .gadget file to the local system and double-clicking to start the installation process.
 
 Basically, a GADGET contains two files:
 

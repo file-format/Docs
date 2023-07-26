@@ -23,7 +23,7 @@ Un fișier GADGET constă dintr-un mic program software care se execută în bar
 
 ## Format de fișier GADGET
 
-Fișierul GADGET este o arhivă redenumită [ZIP](/ro/compression/zip) care conține o colecție de fișiere HTML, XML, JScript și CSS (Cascading Style Sheets). Instalarea conține descărcarea fișierului .gadget și activarea procesului de descărcare pentru a instala componenta sau salvarea fișierului .gadget în sistemul local și dublu clic pentru a începe procesul de instalare.
+Fișierul GADGET este o arhivă redenumită [ZIP](/ro/compression/zip/) care conține o colecție de fișiere HTML, XML, JScript și CSS (Cascading Style Sheets). Instalarea conține descărcarea fișierului .gadget și activarea procesului de descărcare pentru a instala componenta sau salvarea fișierului .gadget în sistemul local și dublu clic pentru a începe procesul de instalare.
 
 Practic, un GADGET conține două fișiere:
 

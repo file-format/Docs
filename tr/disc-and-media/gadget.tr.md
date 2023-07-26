@@ -23,7 +23,7 @@ GADGET dosyası, Windows Vista veya Windows 7 kenar çubuğunda çalışan küç
 
 ## GADGET dosya biçimi
 
-GADGET dosyası, HTML, XML, JScript ve CSS (Basamaklı Stil Sayfaları) dosyalarının bir koleksiyonunu içeren, yeniden adlandırılmış bir [ZIP](/tr/compression/zip) arşividir. Yükleme, .gadget dosyasının indirilmesini ve bileşeni yüklemek için indirme işleminin etkinleştirilmesini veya .gadget dosyasının yerel sisteme kaydedilmesini ve yükleme işlemini başlatmak için çift tıklamayı içerir.
+GADGET dosyası, HTML, XML, JScript ve CSS (Basamaklı Stil Sayfaları) dosyalarının bir koleksiyonunu içeren, yeniden adlandırılmış bir [ZIP](/tr/compression/zip/) arşividir. Yükleme, .gadget dosyasının indirilmesini ve bileşeni yüklemek için indirme işleminin etkinleştirilmesini veya .gadget dosyasının yerel sisteme kaydedilmesini ve yükleme işlemini başlatmak için çift tıklamayı içerir.
 
 Temel olarak, bir GADGET iki dosya içerir:
 

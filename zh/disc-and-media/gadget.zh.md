@@ -23,7 +23,7 @@ GADGET 文件由在 Windows Vista 或 Windows 7 侧边栏中执行的小型软�
 
 ## 小工具文件格式
 
-GADGET 文件是一个重命名的 [ZIP](/zh/compression/zip) 存档，其中包含 HTML、XML、JScript 和 CSS（层叠样式表）文件的集合。安装包括下载 .gadget 文件并启用下载过程以安装组件或将 .gadget 文件保存到本地系统并双击以开始安装过程。
+GADGET 文件是一个重命名的 [ZIP](/zh/compression/zip/) 存档，其中包含 HTML、XML、JScript 和 CSS（层叠样式表）文件的集合。安装包括下载 .gadget 文件并启用下载过程以安装组件或将 .gadget 文件保存到本地系统并双击以开始安装过程。
 
 基本上，GADGET 包含两个文件：
 

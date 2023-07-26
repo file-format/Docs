@@ -23,7 +23,7 @@ GADGET 파일은 Windows Vista 또는 Windows 7 사이드바 내에서 실행되
 
 ## GADGET 파일 형식
 
-GADGET 파일은 HTML, XML, JScript 및 CSS(Cascading Style Sheets) 파일 모음을 포함하는 이름이 변경된 [ZIP](/ko/compression/zip) 아카이브입니다. 설치에는 .gadget 파일을 다운로드하고 다운로드 프로세스를 활성화하여 구성 요소를 설치하거나 .gadget 파일을 로컬 시스템에 저장하고 두 번 클릭하여 설치 프로세스를 시작하는 작업이 포함됩니다.
+GADGET 파일은 HTML, XML, JScript 및 CSS(Cascading Style Sheets) 파일 모음을 포함하는 이름이 변경된 [ZIP](/ko/compression/zip/) 아카이브입니다. 설치에는 .gadget 파일을 다운로드하고 다운로드 프로세스를 활성화하여 구성 요소를 설치하거나 .gadget 파일을 로컬 시스템에 저장하고 두 번 클릭하여 설치 프로세스를 시작하는 작업이 포함됩니다.
 
 기본적으로 GADGET에는 두 개의 파일이 있습니다.
 
