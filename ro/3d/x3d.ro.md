@@ -94,6 +94,6 @@ Fișierele scenei X3D au o structură de fișiere comună:
 ## Referințe ##
 
 * [X3D - După Wikipedia](https://en.wikipedia.org/wiki/X3D)
-* [Web3D Consortium site-ul oficial](http://www.web3d.org/)
-* [Site-ul web oficial X3D](http://www.web3d.org/x3d/what-x3d)
+* [Web3D Consortium site-ul oficial](https://www.web3d.org/)
+* [Site-ul web oficial X3D](https://www.web3d.org/x3d/what-x3d)
 

@@ -94,6 +94,6 @@ Pliki scen X3D mają wspólną strukturę plików:
 ## Bibliografia ##
 
 * [X3D – z Wikipedii](https://en.wikipedia.org/wiki/X3D)
-* [Oficjalna strona Web3D Consortium](http://www.web3d.org/)
-* [Oficjalna witryna X3D](http://www.web3d.org/x3d/what-x3d)
+* [Oficjalna strona Web3D Consortium](https://www.web3d.org/)
+* [Oficjalna witryna X3D](https://www.web3d.org/x3d/what-x3d)
 

@@ -94,6 +94,6 @@ Az X3D jelenetfájloknak közös fájlstruktúrájuk van:
 ## Hivatkozások ##
 
 * [X3D – a Wikipedia által](https://en.wikipedia.org/wiki/X3D)
-* [Web3D Consortium hivatalos webhelye](http://www.web3d.org/)
-* [X3D hivatalos webhely](http://www.web3d.org/x3d/what-x3d)
+* [Web3D Consortium hivatalos webhelye](https://www.web3d.org/)
+* [X3D hivatalos webhely](https://www.web3d.org/x3d/what-x3d)
 

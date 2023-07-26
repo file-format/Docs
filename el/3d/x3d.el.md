@@ -94,6 +94,6 @@
 ## Βιβλιογραφικές αναφορές ##
 
 * [X3D - Από τη Wikipedia](https://en.wikipedia.org/wiki/X3D)
-* [Επίσημος ιστότοπος της Κοινοπραξίας Web3D](http://www.web3d.org/)
-* [Επίσημος ιστότοπος X3D](http://www.web3d.org/x3d/what-x3d)
+* [Επίσημος ιστότοπος της Κοινοπραξίας Web3D](https://www.web3d.org/)
+* [Επίσημος ιστότοπος X3D](https://www.web3d.org/x3d/what-x3d)
 

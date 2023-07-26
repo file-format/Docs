@@ -94,6 +94,6 @@ File adegan X3D memiliki struktur file yang umum:
 ## Referensi ##
 
 * [X3D - Oleh Wikipedia](https://en.wikipedia.org/wiki/X3D)
-* [Situs web resmi Konsorsium Web3D](http://www.web3d.org/)
-* [Situs web resmi X3D](http://www.web3d.org/x3d/what-x3d)
+* [Situs web resmi Konsorsium Web3D](https://www.web3d.org/)
+* [Situs web resmi X3D](https://www.web3d.org/x3d/what-x3d)
 

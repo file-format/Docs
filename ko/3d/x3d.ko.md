@@ -94,6 +94,6 @@ X3D 장면 파일에는 다음과 같은 공통 파일 구조가 있습니다.
 ## 참조 ##
 
 * [X3D - 위키피디아 작성](https://en.wikipedia.org/wiki/X3D)
-* [Web3D 컨소시엄 공식 홈페이지](http://www.web3d.org/)
-* [X3D 공식 홈페이지](http://www.web3d.org/x3d/what-x3d)
+* [Web3D 컨소시엄 공식 홈페이지](https://www.web3d.org/)
+* [X3D 공식 홈페이지](https://www.web3d.org/x3d/what-x3d)
 

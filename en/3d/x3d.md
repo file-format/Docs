@@ -94,5 +94,5 @@ X3D scene files have a common file structure:
 ## References ##
 
 * [X3D - By Wikipedia](https://en.wikipedia.org/wiki/X3D)
-* [Web3D Consortium official website](http://www.web3d.org/)
-* [X3D official website](http://www.web3d.org/x3d/what-x3d)
+* [Web3D Consortium official website](https://www.web3d.org/)
+* [X3D official website](https://www.web3d.org/x3d/what-x3d)

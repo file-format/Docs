@@ -94,6 +94,6 @@ Os arquivos de cena X3D têm uma estrutura de arquivo comum:
 ## Referências ##
 
 * [X3D - Por Wikipedia](https://en.wikipedia.org/wiki/X3D)
-* [Site oficial do Consórcio Web3D](http://www.web3d.org/)
-* [site oficial do X3D](http://www.web3d.org/x3d/what-x3d)
+* [Site oficial do Consórcio Web3D](https://www.web3d.org/)
+* [site oficial do X3D](https://www.web3d.org/x3d/what-x3d)
 

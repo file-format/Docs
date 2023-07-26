@@ -94,6 +94,6 @@ X3D-Szenendateien haben eine gemeinsame Dateistruktur:
 ## Verweise ##
 
 * [X3D – von Wikipedia](https://en.wikipedia.org/wiki/X3D)
-* [Offizielle Website des Web3D-Konsortiums](http://www.web3d.org/)
-* [Offizielle X3D-Website](http://www.web3d.org/x3d/what-x3d)
+* [Offizielle Website des Web3D-Konsortiums](https://www.web3d.org/)
+* [Offizielle X3D-Website](https://www.web3d.org/x3d/what-x3d)
 
