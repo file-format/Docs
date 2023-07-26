@@ -28,5 +28,5 @@ Los archivos KLQ se guardan en el disco en formato cifrado para que ninguna otra
 ## Referencias
 
 * [Detalles de los archivos en cuarentena](https://forum.kaspersky.com/)
-* [Archivo KLQ](https://community.kaspersky.com/search?q=klq%20file)
+* [Archivo KLQ](https://forum.kaspersky.com/?q=klq%20file)
 

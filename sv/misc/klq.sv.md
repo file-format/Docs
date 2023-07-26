@@ -28,5 +28,5 @@ KLQ-filer sparas på skiva i krypterat format så att dessa inte kan användas i
 ## Referenser
 
 * [Detaljer om karantänfiler](https://forum.kaspersky.com/)
-* [KLQ-fil](https://community.kaspersky.com/search?q=klq%20file)
+* [KLQ-fil](https://forum.kaspersky.com/?q=klq%20file)
 

@@ -28,5 +28,5 @@
 ## использованная литература
 
 * [Сведения о файлах карантина](https://forum.kaspersky.com/)
-* [Файл KLQ](https://community.kaspersky.com/search?q=klq%20file)
+* [Файл KLQ](https://forum.kaspersky.com/?q=klq%20file)
 

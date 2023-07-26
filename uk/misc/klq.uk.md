@@ -28,5 +28,5 @@
 ## Список літератури
 
 * [Деталі карантинних файлів](https://forum.kaspersky.com/)
-* [файл KLQ](https://community.kaspersky.com/search?q=klq%20file)
+* [файл KLQ](https://forum.kaspersky.com/?q=klq%20file)
 

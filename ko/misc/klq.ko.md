@@ -28,5 +28,5 @@ KLQ 파일은 다른 응용 프로그램에서 다시 사용할 수 없도록 �
 ## 참고문헌
 
 * [검역 파일 세부정보](https://forum.kaspersky.com/)
-* [KLQ 파일](https://community.kaspersky.com/search?q=klq%20file)
+* [KLQ 파일](https://forum.kaspersky.com/?q=klq%20file)
 

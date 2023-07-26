@@ -28,5 +28,5 @@ Soubory KLQ se ukládají na disk v zašifrovaném formátu, takže je nemůže 
 ## Reference
 
 * [Podrobnosti o souborech karantény](https://forum.kaspersky.com/)
-* [Soubor KLQ](https://community.kaspersky.com/search?q=klq%20file)
+* [Soubor KLQ](https://forum.kaspersky.com/?q=klq%20file)
 

@@ -28,5 +28,5 @@
 ## อ้างอิง
 
 * [รายละเอียดของไฟล์กักเก็บ](https://forum.kaspersky.com/)
-* [ไฟล์ KLQ](https://community.kaspersky.com/search?q=klq%20file)
+* [ไฟล์ KLQ](https://forum.kaspersky.com/?q=klq%20file)
 

@@ -28,5 +28,5 @@
 ## הפניות
 
 * [פרטי קבצי הסגר](https://forum.kaspersky.com/)
-* [קובץ KLQ](https://community.kaspersky.com/search?q=klq%20file)
+* [קובץ KLQ](https://forum.kaspersky.com/?q=klq%20file)
 

@@ -28,5 +28,5 @@ Pliki KLQ są zapisywane na dysku w zaszyfrowanym formacie, dzięki czemu nie mo
 ## Bibliografia
 
 * [Szczegóły plików kwarantanny](https://forum.kaspersky.com/)
-* [Plik KLQ](https://community.kaspersky.com/search?q=klq%20file)
+* [Plik KLQ](https://forum.kaspersky.com/?q=klq%20file)
 

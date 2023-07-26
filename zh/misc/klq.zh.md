@@ -28,5 +28,5 @@ KLQ 文件以加密格式保存到光盘中，因此任何其他应用程序都�
 ## 参考
 
 * [隔离文件详情](https://forum.kaspersky.com/)
-* [KLQ 文件](https://community.kaspersky.com/search?q=klq%20file)
+* [KLQ 文件](https://forum.kaspersky.com/?q=klq%20file)
 

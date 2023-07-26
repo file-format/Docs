@@ -28,5 +28,5 @@ Các tệp KLQ được lưu vào đĩa ở định dạng được mã hóa đ�
 ## Người giới thiệu
 
 * [Chi tiết về tệp cách ly](https://forum.kaspersky.com/)
-* [Tệp KLQ](https://community.kaspersky.com/search?q=klq%20file)
+* [Tệp KLQ](https://forum.kaspersky.com/?q=klq%20file)
 

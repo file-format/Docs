@@ -28,5 +28,5 @@ KLQ dosyaları, başka herhangi bir uygulama tarafından tekrar kullanılamayaca
 ## Referanslar
 
 * [Karantina Dosyalarının Ayrıntıları](https://forum.kaspersky.com/)
-* [KLQ Dosyası](https://community.kaspersky.com/search?q=klq%20file)
+* [KLQ Dosyası](https://forum.kaspersky.com/?q=klq%20file)
 

@@ -28,5 +28,5 @@
 ## βιβλιογραφικές αναφορές
 
 * [Λεπτομέρειες για τα αρχεία καραντίνας](https://forum.kaspersky.com/)
-* [Αρχείο KLQ](https://community.kaspersky.com/search?q=klq%20file)
+* [Αρχείο KLQ](https://forum.kaspersky.com/?q=klq%20file)
 

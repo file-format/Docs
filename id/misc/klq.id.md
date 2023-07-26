@@ -28,5 +28,5 @@ File KLQ disimpan ke disk dalam format terenkripsi sehingga tidak dapat digunaka
 ## Referensi
 
 * [Detail File Karantina](https://forum.kaspersky.com/)
-* [File KLQ](https://community.kaspersky.com/search?q=klq%20file)
+* [File KLQ](https://forum.kaspersky.com/?q=klq%20file)
 

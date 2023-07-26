@@ -28,5 +28,5 @@ KLQ ファイルは暗号化された形式でディスクに保存されるた�
 ## 参考文献
 
 * [検疫ファイルの詳細](https://forum.kaspersky.com/)
-* [KLQ ファイル](https://community.kaspersky.com/search?q=klq%20file)
+* [KLQ ファイル](https://forum.kaspersky.com/?q=klq%20file)
 

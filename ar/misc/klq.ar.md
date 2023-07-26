@@ -28,5 +28,5 @@
 ## مراجع
 
 * [تفاصيل ملفات العزل](https://forum.kaspersky.com/)
-* [ملف KLQ](https://community.kaspersky.com/search؟q=klq٪20file)
+* [ملف KLQ](https://forum.kaspersky.com/?q=klq%20file)
 
