@@ -19,7 +19,7 @@
 
 ## Ce este un fișier VOC? ##
 
-Fișierele audio VOC sunt create de un înregistrator de voce numit RCA digital voice recorder. Interviurile și prelegerile sunt înregistrate prin intermediul acestui dispozitiv. Aceste fișiere sunt portabile și pot fi partajate prin portul USB. Fișierele VOC sunt compatibile cu sistemele de operare Windows. Aceste fișiere VOC pot fi convertite în alte formate de fișiere care sunt mai populare, cum ar fi [MP3](/ro/audio/mp3).
+Fișierele audio VOC sunt create de un înregistrator de voce numit RCA digital voice recorder. Interviurile și prelegerile sunt înregistrate prin intermediul acestui dispozitiv. Aceste fișiere sunt portabile și pot fi partajate prin portul USB. Fișierele VOC sunt compatibile cu sistemele de operare Windows. Aceste fișiere VOC pot fi convertite în alte formate de fișiere care sunt mai populare, cum ar fi [MP3](/ro/audio/mp3/).
  
 
 Datele incluse în aceste fișiere pot fi în formă brută sau în format container. Aceste fișiere au fost folosite în jocurile cu sistemul de operare pe disc. Cardurile Sound Blaster au fost folosite pentru audio și aceste fișiere au fost folosite pentru a face acest lucru.

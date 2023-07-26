@@ -19,7 +19,7 @@
 
 ## VOC dosyası nedir? ##
 
-VOC ses dosyaları, RCA dijital ses kaydedici adlı bir ses kaydedici tarafından oluşturulur. Görüşmeler ve dersler bu cihaz aracılığıyla kayıt altına alınmaktadır. Bu dosyalar taşınabilirdir ve USB bağlantı noktası aracılığıyla paylaşılabilir. VOC dosyaları, Windows işletim sistemleriyle uyumludur. Bu VOC dosyaları, [MP3](/tr/audio/mp3) gibi daha popüler olan diğer dosya biçimlerine dönüştürülebilir.
+VOC ses dosyaları, RCA dijital ses kaydedici adlı bir ses kaydedici tarafından oluşturulur. Görüşmeler ve dersler bu cihaz aracılığıyla kayıt altına alınmaktadır. Bu dosyalar taşınabilirdir ve USB bağlantı noktası aracılığıyla paylaşılabilir. VOC dosyaları, Windows işletim sistemleriyle uyumludur. Bu VOC dosyaları, [MP3](/tr/audio/mp3/) gibi daha popüler olan diğer dosya biçimlerine dönüştürülebilir.
  
 
 Bu dosyalarda bulunan veriler ham formda veya kapsayıcı biçiminde olabilir. Bu dosyalar Disk işletim sistemi oyunlarında kullanılmıştır. Sound blaster kartları ses için kullanıldı ve bu dosyalar bunu yapmak için kullanıldı.

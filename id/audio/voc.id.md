@@ -19,7 +19,7 @@
 
 ## Apa itu file VOC? ##
 
-File audio VOC dibuat oleh perekam suara bernama perekam suara digital RCA. Wawancara dan ceramah direkam melalui perangkat ini. File-file ini portabel dan dapat dibagikan melalui port USB. File VOC kompatibel dengan sistem operasi Windows. File VOC ini dapat diubah menjadi format file lain yang lebih populer seperti [MP3](/id/audio/mp3).
+File audio VOC dibuat oleh perekam suara bernama perekam suara digital RCA. Wawancara dan ceramah direkam melalui perangkat ini. File-file ini portabel dan dapat dibagikan melalui port USB. File VOC kompatibel dengan sistem operasi Windows. File VOC ini dapat diubah menjadi format file lain yang lebih populer seperti [MP3](/id/audio/mp3/).
  
 
 Data yang disertakan dalam file ini bisa dalam bentuk mentah atau format kontainer. File-file ini digunakan dalam game sistem operasi Disk. Kartu sound blaster digunakan untuk audio dan file-file ini digunakan untuk melakukannya.

@@ -19,7 +19,7 @@
 
 ## Vad är en VOC fil? ##
 
-VOC-ljudfilerna skapas av en röstinspelningsmottagare som heter RCA digital röstinspelare. Intervjuerna och föreläsningarna spelas in via denna enhet. Dessa filer är portabla och kan delas via USB-porten. VOC-filerna är kompatibla med Windows-operativsystem. Dessa VOC-filer kan konverteras till andra filformat som är mer populära såsom [MP3](/sv/audio/mp3).
+VOC-ljudfilerna skapas av en röstinspelningsmottagare som heter RCA digital röstinspelare. Intervjuerna och föreläsningarna spelas in via denna enhet. Dessa filer är portabla och kan delas via USB-porten. VOC-filerna är kompatibla med Windows-operativsystem. Dessa VOC-filer kan konverteras till andra filformat som är mer populära såsom [MP3](/sv/audio/mp3/).
  
 
 Data som ingår i dessa filer kan vara i råform eller i containerformat. Dessa filer användes i spel med diskoperativsystem. Sound Blaster-korten användes för ljud och dessa filer användes för att göra det.

@@ -19,7 +19,7 @@
 
 ## Was ist eine VOC-Datei? ##
 
-Die VOC-Audiodateien werden von einem Sprachaufzeichnungsgerät namens RCA Digital Voice Recorder erstellt. Die Interviews und Vorträge werden über dieses Gerät aufgezeichnet. Diese Dateien sind tragbar und können über den USB-Anschluss geteilt werden. Die VOC-Dateien sind mit Windows-Betriebssystemen kompatibel. Diese VOC-Dateien können in andere gängigere Dateiformate wie [MP3](/de/audio/mp3) konvertiert werden.
+Die VOC-Audiodateien werden von einem Sprachaufzeichnungsgerät namens RCA Digital Voice Recorder erstellt. Die Interviews und Vorträge werden über dieses Gerät aufgezeichnet. Diese Dateien sind tragbar und können über den USB-Anschluss geteilt werden. Die VOC-Dateien sind mit Windows-Betriebssystemen kompatibel. Diese VOC-Dateien können in andere gängigere Dateiformate wie [MP3](/de/audio/mp3/) konvertiert werden.
  
 
 Die in diesen Dateien enthaltenen Daten können im Rohformat oder im Containerformat vorliegen. Diese Dateien wurden in Disk-Betriebssystem-Spielen verwendet. Die Soundblaster-Karten wurden für Audio verwendet und diese Dateien wurden dazu verwendet.

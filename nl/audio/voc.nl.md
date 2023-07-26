@@ -19,7 +19,7 @@
 
 ## Wat is een VOC-bestand? ##
 
-De VOC-audiobestanden worden gemaakt door een spraakrecorder met de naam RCA digitale spraakrecorder. De interviews en lezingen worden via dit apparaat opgenomen. Deze bestanden zijn draagbaar en kunnen worden gedeeld via de USB-poort. De VOC-bestanden zijn compatibel met Windows-besturingssystemen. Deze VOC-bestanden kunnen worden geconverteerd naar andere bestandsindelingen die populairder zijn, zoals [MP3](/nl/audio/mp3).
+De VOC-audiobestanden worden gemaakt door een spraakrecorder met de naam RCA digitale spraakrecorder. De interviews en lezingen worden via dit apparaat opgenomen. Deze bestanden zijn draagbaar en kunnen worden gedeeld via de USB-poort. De VOC-bestanden zijn compatibel met Windows-besturingssystemen. Deze VOC-bestanden kunnen worden geconverteerd naar andere bestandsindelingen die populairder zijn, zoals [MP3](/nl/audio/mp3/).
  
 
 De gegevens in deze bestanden kunnen in onbewerkte vorm of in containerformaat zijn. Deze bestanden werden gebruikt in spellen met schijfbesturingssysteem. De soundblaster-kaarten werden gebruikt voor audio en deze bestanden werden daarvoor gebruikt.
