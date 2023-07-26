@@ -18,7 +18,7 @@
 
 ## OBML15 dosyası nedir?
 
-OBML15 dosyası, Opera Mini mobil web tarayıcısı kullanılarak mobil cihazlara kaydedilen bir web sayfasıdır. Bu tür dosya biçiminin ilk sürümü olan Opera Binary Markup Language (OBML)'ye dayanır. OBML15, Opera Mini sürüm 5'in piyasaya sürülmesiyle [OBML](/tr/web/obml) yerini alırken, daha sonra kendisi OBML16 ile değiştirildi. Her Opera Mini sürümü yalnızca bir OBML formatıyla uyumludur, yani Opera Mini'nin yükseltmeleri kaydedilen sayfaların önceki sürümlerini okuyamaz. OBML15 dosyaları çevrimiçi olarak [PDF](/tr/pdf/) ve [HTML](/tr/web/html/) biçimlerine dönüştürülebilir.
+OBML15 dosyası, Opera Mini mobil web tarayıcısı kullanılarak mobil cihazlara kaydedilen bir web sayfasıdır. Bu tür dosya biçiminin ilk sürümü olan Opera Binary Markup Language (OBML)'ye dayanır. OBML15, Opera Mini sürüm 5'in piyasaya sürülmesiyle [OBML](/tr/web/obml/) yerini alırken, daha sonra kendisi OBML16 ile değiştirildi. Her Opera Mini sürümü yalnızca bir OBML formatıyla uyumludur, yani Opera Mini'nin yükseltmeleri kaydedilen sayfaların önceki sürümlerini okuyamaz. OBML15 dosyaları çevrimiçi olarak [PDF](/tr/pdf/) ve [HTML](/tr/web/html/) biçimlerine dönüştürülebilir.
 
 ## OBML15 Dosya Biçimi
 

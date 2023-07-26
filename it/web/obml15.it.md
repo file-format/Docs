@@ -18,7 +18,7 @@
 
 ## Che cos'è un file OBML15?
 
-Un file OBML15 è una pagina Web salvata su dispositivi mobili utilizzando il browser Web mobile Opera Mini. Si basa sull'Opera Binary Markup Language (OBML) che era la versione iniziale di questo tipo di formato di file. OBML15 ha sostituito [OBML](/it/web/obml) con il rilascio di Opera Mini versione 5, mentre in seguito è stato sostituito da OBML16. Ogni versione di Opera Mini è compatibile con un solo formato OBML, ovvero gli aggiornamenti di Opera Mini non saranno in grado di leggere le versioni precedenti delle pagine salvate. I file OBML15 possono essere convertiti in [PDF](/it/pdf/) e [HTML](/it/web/html/) online.
+Un file OBML15 è una pagina Web salvata su dispositivi mobili utilizzando il browser Web mobile Opera Mini. Si basa sull'Opera Binary Markup Language (OBML) che era la versione iniziale di questo tipo di formato di file. OBML15 ha sostituito [OBML](/it/web/obml/) con il rilascio di Opera Mini versione 5, mentre in seguito è stato sostituito da OBML16. Ogni versione di Opera Mini è compatibile con un solo formato OBML, ovvero gli aggiornamenti di Opera Mini non saranno in grado di leggere le versioni precedenti delle pagine salvate. I file OBML15 possono essere convertiti in [PDF](/it/pdf/) e [HTML](/it/web/html/) online.
 
 ## Formato file OBML15
 

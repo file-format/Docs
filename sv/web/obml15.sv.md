@@ -18,7 +18,7 @@
 
 ## Vad är en OBML15 fil?
 
-En OBML15-fil är en webbsida som sparas på mobila enheter med hjälp av mobilwebbläsaren Opera Mini. Det är baserat på Opera Binary Markup Language (OBML) som var den ursprungliga versionen av denna typ av filformat. OBML15 ersatte [OBML](/sv/web/obml) med lanseringen av Opera Mini version 5, medan den själv ersattes av OBML16 senare. Varje Opera Mini-version är endast kompatibel med ett OBML-format, dvs. uppgraderingar av Opera Mini kommer inte att kunna läsa tidigare versioner av sparade sidor. OBML15-filer kan konverteras till [PDF](/sv/pdf/) och [HTML](/sv/web/html/) online.
+En OBML15-fil är en webbsida som sparas på mobila enheter med hjälp av mobilwebbläsaren Opera Mini. Det är baserat på Opera Binary Markup Language (OBML) som var den ursprungliga versionen av denna typ av filformat. OBML15 ersatte [OBML](/sv/web/obml/) med lanseringen av Opera Mini version 5, medan den själv ersattes av OBML16 senare. Varje Opera Mini-version är endast kompatibel med ett OBML-format, dvs. uppgraderingar av Opera Mini kommer inte att kunna läsa tidigare versioner av sparade sidor. OBML15-filer kan konverteras till [PDF](/sv/pdf/) och [HTML](/sv/web/html/) online.
 
 ## OBML15 filformat
 

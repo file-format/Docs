@@ -18,7 +18,7 @@
 
 ## Apa itu file OBML15?
 
-File OBML15 adalah halaman web yang disimpan ke perangkat seluler menggunakan browser web seluler Opera Mini. Itu didasarkan pada Opera Binary Markup Language (OBML) yang merupakan versi awal dari jenis format file ini. OBML15 menggantikan [OBML](/id/web/obml) dengan rilis Opera Mini versi 5, sementara OBML15 sendiri kemudian digantikan oleh OBML16. Setiap versi Opera Mini hanya kompatibel dengan satu format OBML, yaitu pemutakhiran Opera Mini tidak akan dapat membaca halaman tersimpan versi sebelumnya. File OBML15 dapat dikonversi ke [PDF](/id/pdf/) dan [HTML](/id/web/html/) secara online.
+File OBML15 adalah halaman web yang disimpan ke perangkat seluler menggunakan browser web seluler Opera Mini. Itu didasarkan pada Opera Binary Markup Language (OBML) yang merupakan versi awal dari jenis format file ini. OBML15 menggantikan [OBML](/id/web/obml/) dengan rilis Opera Mini versi 5, sementara OBML15 sendiri kemudian digantikan oleh OBML16. Setiap versi Opera Mini hanya kompatibel dengan satu format OBML, yaitu pemutakhiran Opera Mini tidak akan dapat membaca halaman tersimpan versi sebelumnya. File OBML15 dapat dikonversi ke [PDF](/id/pdf/) dan [HTML](/id/web/html/) secara online.
 
 ## Format File OBML15
 
