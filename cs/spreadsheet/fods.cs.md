@@ -19,7 +19,7 @@
 
 ## Co je soubor FODS?
 
-Soubor s příponou .fods je typ formátu dokumentu OpenDocument Spreadsheet, který ukládá data v řádcích a sloupcích. Formát je specifikován jako součást specifikací ODF 1.2 publikovaných a spravovaných OASIS. Soubory FODS nelze otevřít pomocí Excelu, další softwarové aplikace Spreadsheet od společnosti Microsoft. Soubory FODS lze uložit jako [ODS](/cs/spreadsheet/ods/) pomocí LibreOffice a lze je převést do jiných formátů, jako je [XLS](/cs/spreadsheet/xls) a [XLSX](/cs/spreadsheet/xlsx/).
+Soubor s příponou .fods je typ formátu dokumentu OpenDocument Spreadsheet, který ukládá data v řádcích a sloupcích. Formát je specifikován jako součást specifikací ODF 1.2 publikovaných a spravovaných OASIS. Soubory FODS nelze otevřít pomocí Excelu, další softwarové aplikace Spreadsheet od společnosti Microsoft. Soubory FODS lze uložit jako [ODS](/cs/spreadsheet/ods/) pomocí LibreOffice a lze je převést do jiných formátů, jako je [XLS](/cs/spreadsheet/xls/) a [XLSX](/cs/spreadsheet/xlsx/).
 
 ## Formát souboru FODS
 

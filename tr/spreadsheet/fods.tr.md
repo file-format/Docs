@@ -19,7 +19,7 @@
 
 ## FODS dosyası nedir?
 
-.fods uzantılı bir dosya, verileri satırlar ve sütunlar halinde depolayan bir OpenDocument Elektronik Tablo belge biçimi türüdür. Biçim, OASIS tarafından yayınlanan ve sürdürülen ODF 1.2 belirtimlerinin bir parçası olarak belirtilir. FODS dosyaları, Microsoft'un başka bir Elektronik Tablo yazılım uygulaması olan Excel ile açılamaz. FODS dosyaları LibreOffice kullanılarak [ODS](/tr/spreadsheet/ods/) olarak kaydedilebilir ve [XLS](/tr/spreadsheet/xls) ve [XLSX](/tr/spreadsheet/xlsx/) gibi diğer biçimlere dönüştürülebilir.
+.fods uzantılı bir dosya, verileri satırlar ve sütunlar halinde depolayan bir OpenDocument Elektronik Tablo belge biçimi türüdür. Biçim, OASIS tarafından yayınlanan ve sürdürülen ODF 1.2 belirtimlerinin bir parçası olarak belirtilir. FODS dosyaları, Microsoft'un başka bir Elektronik Tablo yazılım uygulaması olan Excel ile açılamaz. FODS dosyaları LibreOffice kullanılarak [ODS](/tr/spreadsheet/ods/) olarak kaydedilebilir ve [XLS](/tr/spreadsheet/xls/) ve [XLSX](/tr/spreadsheet/xlsx/) gibi diğer biçimlere dönüştürülebilir.
 
 ## FODS Dosya Biçimi
 

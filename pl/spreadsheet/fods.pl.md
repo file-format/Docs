@@ -19,7 +19,7 @@
 
 ## Czym jest plik FODS?
 
-Plik z rozszerzeniem .fods jest typem formatu dokumentu arkusza kalkulacyjnego OpenDocument, który przechowuje dane w wierszach i kolumnach. Format jest określony jako część specyfikacji ODF 1.2 opublikowanych i utrzymywanych przez OASIS. Plików FODS nie można otwierać za pomocą programu Excel, innej aplikacji do arkuszy kalkulacyjnych firmy Microsoft. Pliki FODS można zapisywać jako [ODS](/pl/spreadsheet/ods/) za pomocą LibreOffice i można je konwertować do innych formatów, takich jak [XLS](/pl/spreadsheet/xls) i [XLSX](/pl/spreadsheet/xlsx/).
+Plik z rozszerzeniem .fods jest typem formatu dokumentu arkusza kalkulacyjnego OpenDocument, który przechowuje dane w wierszach i kolumnach. Format jest określony jako część specyfikacji ODF 1.2 opublikowanych i utrzymywanych przez OASIS. Plików FODS nie można otwierać za pomocą programu Excel, innej aplikacji do arkuszy kalkulacyjnych firmy Microsoft. Pliki FODS można zapisywać jako [ODS](/pl/spreadsheet/ods/) za pomocą LibreOffice i można je konwertować do innych formatów, takich jak [XLS](/pl/spreadsheet/xls/) i [XLSX](/pl/spreadsheet/xlsx/).
 
 ## Format pliku FODS
 
