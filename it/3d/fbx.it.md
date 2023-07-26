@@ -80,7 +80,7 @@ Definitions: {
 
 ## Struttura dei file binari dei file FBX
 
-Come affermato in precedenza, le specifiche del formato di file FBX non sono disponibili pubblicamente per FBX. Poiché Blender Foundation implementa il formato di file FBX senza utilizzare l'SDK fornito dall'azienda, alcuni dettagli sul formato di file binario sono [disponibili](https://code.blender.org/2013/08/fbx-binary-file-format -specifica/) come parte della sua implementazione.
+Come affermato in precedenza, le specifiche del formato di file FBX non sono disponibili pubblicamente per FBX. Poiché Blender Foundation implementa il formato di file FBX senza utilizzare l'SDK fornito dall'azienda, alcuni dettagli sul formato di file binario sono [disponibili](https://code.blender.org/2013/08/fbx-binary-file-format-specification/) come parte della sua implementazione.
 
 La struttura dei file binari segue il seguente ordine:
 

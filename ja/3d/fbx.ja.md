@@ -80,7 +80,7 @@ Definitions: {
 
 ## FBX ファイルのバイナリ ファイル構造
 
-前述のとおり、FBX のファイル形式の仕様は公開されていません。 Blender Foundation は、会社が提供する SDK を使用せずに FBX ファイル形式を実装しているため、バイナリ ファイル形式に関する詳細の一部は [入手可能](https://code.blender.org/2013/08/fbx-binary-file-format -仕様/) 実装の一部として。
+前述のとおり、FBX のファイル形式の仕様は公開されていません。 Blender Foundation は、会社が提供する SDK を使用せずに FBX ファイル形式を実装しているため、バイナリ ファイル形式に関する詳細の一部は [入手可能](https://code.blender.org/2013/08/fbx-binary-file-format-specification/) 実装の一部として。
 
 バイナリ ファイルの構造は、次の順序に従います。
 
@@ -207,6 +207,6 @@ R: raw binary data
 ## 参照 ##
 
 * [FBX - Autodesk SDK](https://help.autodesk.com/view/FBX/2017/ENU/)
-※【FBXバイナリファイルフォーマット仕様書】(https://code.blender.org/2013/08/fbx-binary-file-format-specification/)
+* [FBXバイナリファイルフォーマット仕様書](https://code.blender.org/2013/08/fbx-binary-file-format-specification/)
 * [FBX - ウィキペディア](https://en.wikipedia.org/wiki/FBX#File_format)
 

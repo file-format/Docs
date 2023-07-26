@@ -80,7 +80,7 @@ Definitions: {
 
 ## Cấu trúc tệp nhị phân của tệp FBX
 
-Như đã nêu trước đó, thông số kỹ thuật định dạng tệp FBX không có sẵn công khai cho FBX. Vì Blender Foundation triển khai định dạng tệp FBX mà không sử dụng SDK do công ty cung cấp, một số chi tiết về định dạng tệp nhị phân [có sẵn](https://code.blender.org/2013/08/fbx-binary-file-format -specation/) như một phần của quá trình triển khai.
+Như đã nêu trước đó, thông số kỹ thuật định dạng tệp FBX không có sẵn công khai cho FBX. Vì Blender Foundation triển khai định dạng tệp FBX mà không sử dụng SDK do công ty cung cấp, một số chi tiết về định dạng tệp nhị phân [có sẵn](https://code.blender.org/2013/08/fbx-binary-file-format-specification/) như một phần của quá trình triển khai.
 
 Cấu trúc tệp nhị phân tuân theo thứ tự sau:
 
@@ -207,6 +207,6 @@ Chuỗi này không bị kết thúc bằng 0 và có thể chứa các ký tự
 ## Người giới thiệu ##
 
 * [FBX - SDK Autodesk](https://help.autodesk.com/view/FBX/2017/ENU/)
-* [Thông số kỹ thuật định dạng tệp nhị phân FBX](https://code.blender.org/2013/08/fbx-binary-file-format-specation/)
+* [Thông số kỹ thuật định dạng tệp nhị phân FBX](https://code.blender.org/2013/08/fbx-binary-file-format-specification/)
 * [FBX - Wikipedia](https://vi.wikipedia.org/wiki/FBX#File_format)
 

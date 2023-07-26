@@ -80,7 +80,7 @@ Definitions: {
 
 ## FBX fájlok bináris fájlstruktúrája
 
-Amint azt korábban említettük, az FBX fájlformátum specifikációi nem érhetők el nyilvánosan az FBX számára. Mivel a Blender Foundation az FBX fájlformátumot a vállalat által biztosított SDK használata nélkül valósítja meg, a bináris fájlformátumról néhány részlet [elérhető](https://code.blender.org/2013/08/fbx-binary-file-format -specifikáció/) megvalósításának részeként.
+Amint azt korábban említettük, az FBX fájlformátum specifikációi nem érhetők el nyilvánosan az FBX számára. Mivel a Blender Foundation az FBX fájlformátumot a vállalat által biztosított SDK használata nélkül valósítja meg, a bináris fájlformátumról néhány részlet [elérhető](https://code.blender.org/2013/08/fbx-binary-file-format-specification/) megvalósításának részeként.
 
 A bináris fájlok szerkezete a következő sorrendet követi:
 

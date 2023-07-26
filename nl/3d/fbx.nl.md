@@ -80,7 +80,7 @@ Definitions: {
 
 ## Binaire bestandsstructuur van FBX-bestanden
 
-Zoals eerder vermeld, zijn FBX-bestandsformaatspecificaties niet openbaar beschikbaar voor FBX. Aangezien Blender Foundation het FBX-bestandsformaat implementeert zonder de door het bedrijf verstrekte SDK te gebruiken, zijn enkele details over het binaire bestandsformaat [beschikbaar](https://code.blender.org/2013/08/fbx-binary-file-format -specificatie/) als onderdeel van de implementatie ervan.
+Zoals eerder vermeld, zijn FBX-bestandsformaatspecificaties niet openbaar beschikbaar voor FBX. Aangezien Blender Foundation het FBX-bestandsformaat implementeert zonder de door het bedrijf verstrekte SDK te gebruiken, zijn enkele details over het binaire bestandsformaat [beschikbaar](https://code.blender.org/2013/08/fbx-binary-file-format-specification/) als onderdeel van de implementatie ervan.
 
 De structuur van de binaire bestanden volgt de volgende volgorde:
 

@@ -80,7 +80,7 @@ Definitions: {
 
 ## Structura fișierelor binare a fișierelor FBX
 
-După cum sa menționat mai devreme, specificațiile de format de fișier FBX nu sunt disponibile public pentru FBX. Deoarece Blender Foundation implementează formatul de fișier FBX fără a utiliza SDK-ul furnizat de companie, unele dintre detaliile despre formatul de fișier binar sunt [disponibile](https://code.blender.org/2013/08/fbx-binary-file-format -specificația/) ca parte a implementării acesteia.
+După cum sa menționat mai devreme, specificațiile de format de fișier FBX nu sunt disponibile public pentru FBX. Deoarece Blender Foundation implementează formatul de fișier FBX fără a utiliza SDK-ul furnizat de companie, unele dintre detaliile despre formatul de fișier binar sunt [disponibile](https://code.blender.org/2013/08/fbx-binary-file-format-specification/) ca parte a implementării acesteia.
 
 Structura fișierelor binare urmează următoarea ordine:
 

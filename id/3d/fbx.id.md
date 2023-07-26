@@ -80,7 +80,7 @@ Definitions: {
 
 ## Struktur File Biner dari File FBX
 
-Seperti yang dinyatakan sebelumnya, spesifikasi format file FBX tidak tersedia untuk umum untuk FBX. Karena Blender Foundation mengimplementasikan format file FBX tanpa menggunakan SDK yang disediakan perusahaan, beberapa detail tentang format file biner [tersedia](https://code.blender.org/2013/08/fbx-binary-file-format -spesifikasi/) sebagai bagian dari implementasinya.
+Seperti yang dinyatakan sebelumnya, spesifikasi format file FBX tidak tersedia untuk umum untuk FBX. Karena Blender Foundation mengimplementasikan format file FBX tanpa menggunakan SDK yang disediakan perusahaan, beberapa detail tentang format file biner [tersedia](https://code.blender.org/2013/08/fbx-binary-file-format-specification/) sebagai bagian dari implementasinya.
 
 Struktur file biner mengikuti urutan berikut:
 

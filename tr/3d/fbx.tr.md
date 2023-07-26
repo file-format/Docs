@@ -80,7 +80,7 @@ Definitions: {
 
 ## FBX Dosyalarının İkili Dosya Yapısı
 
-Daha önce belirtildiği gibi, FBX dosya biçimi belirtimleri FBX için herkese açık değildir. Blender Foundation, şirketin sağladığı SDK'yı kullanmadan FBX dosya biçimini uyguladığından, ikili dosya biçimiyle ilgili bazı ayrıntılar [mevcuttur](https://code.blender.org/2013/08/fbx-binary-file-format -belirtim/) uygulamanın bir parçası olarak.
+Daha önce belirtildiği gibi, FBX dosya biçimi belirtimleri FBX için herkese açık değildir. Blender Foundation, şirketin sağladığı SDK'yı kullanmadan FBX dosya biçimini uyguladığından, ikili dosya biçimiyle ilgili bazı ayrıntılar [mevcuttur](https://code.blender.org/2013/08/fbx-binary-file-format-specification/) uygulamanın bir parçası olarak.
 
 İkili dosya yapısı aşağıdaki sırayı takip eder:
 
