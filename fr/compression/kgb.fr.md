@@ -23,7 +23,7 @@ Un fichier avec l'extension .kgb est un fichier d'archive compressé créé avec
 
 ## Format de fichier KGB
 
-Il n'y a pas de détails techniques de mise en œuvre disponibles sur le format de fichier KGB. Il offre un cryptage AES-256 pour protéger les fichiers archivés. L'archiveur KGB a été développé en Visual [C++](/fr/programming/cpp) par Tomasz Pawlak en avril 2006 et on pensait qu'il comprimait un [fichier de 1 Go jusqu'à 10 Mo](https://web.archive.org/ web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/).
+Il n'y a pas de détails techniques de mise en œuvre disponibles sur le format de fichier KGB. Il offre un cryptage AES-256 pour protéger les fichiers archivés. L'archiveur KGB a été développé en Visual [C++](/fr/programming/cpp/) par Tomasz Pawlak en avril 2006 et on pensait qu'il comprimait un [fichier de 1 Go jusqu'à 10 Mo](https://web.archive.org/ web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/).
 
 ## Références
 

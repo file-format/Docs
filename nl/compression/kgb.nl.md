@@ -23,7 +23,7 @@ Een bestand met de extensie .kgb is een gecomprimeerd archiefbestand dat is gema
 
 ## KGB-bestandsindeling
 
-Er zijn geen technische implementatiedetails beschikbaar over het KGB-bestandsformaat. Het biedt AES-256-codering om de gearchiveerde bestanden te beschermen. De KGB-archiver is ontwikkeld in Visual [C++](/nl/programming/cpp) door Tomasz Pawlak in april 2006 en er werd aangenomen dat het een [1 GB-bestand tot maximaal 10 MB] comprimeerde (https://web.archive.org/ web/2010522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/) bestand.
+Er zijn geen technische implementatiedetails beschikbaar over het KGB-bestandsformaat. Het biedt AES-256-codering om de gearchiveerde bestanden te beschermen. De KGB-archiver is ontwikkeld in Visual [C++](/nl/programming/cpp/) door Tomasz Pawlak in april 2006 en er werd aangenomen dat het een [1 GB-bestand tot maximaal 10 MB] comprimeerde (https://web.archive.org/ web/2010522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/) bestand.
 
 ## Referenties
 

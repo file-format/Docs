@@ -23,7 +23,7 @@ File dengan ekstensi .kgb adalah file arsip terkompresi yang dibuat dengan peran
 
 ## Format File KGB
 
-Tidak ada detail implementasi teknis yang tersedia tentang format file KGB. Ini menawarkan enkripsi AES-256 untuk melindungi file yang diarsipkan. Pengarsipan KGB dikembangkan dalam Visual [C++](/id/programming/cpp) oleh Tomasz Pawlak pada April 2006 dan dipercaya dapat mengompresi [file 1 GB hingga 10 MB](https://web.archive.org/ web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/) file.
+Tidak ada detail implementasi teknis yang tersedia tentang format file KGB. Ini menawarkan enkripsi AES-256 untuk melindungi file yang diarsipkan. Pengarsipan KGB dikembangkan dalam Visual [C++](/id/programming/cpp/) oleh Tomasz Pawlak pada April 2006 dan dipercaya dapat mengompresi [file 1 GB hingga 10 MB](https://web.archive.org/ web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/) file.
 
 ## Referensi
 

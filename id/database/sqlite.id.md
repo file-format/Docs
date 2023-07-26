@@ -19,7 +19,7 @@
 
 ## Apa itu File SQLite?
 
-File dengan ekstensi .sqlite adalah file database SQL ringan yang dibuat dengan software [SQLite](https://www.sqlite.org/index.html). Ini adalah database dalam file itu sendiri dan mengimplementasikan mesin database [SQL](/id/database/sql/) mandiri, berfitur lengkap, dan sangat andal. File database SQLite dapat digunakan untuk berbagi konten yang kaya antar sistem dengan hanya bertukar file ini melalui jaringan. Hampir semua ponsel dan komputer menggunakan SQLite untuk menyimpan dan berbagi data, dan merupakan pilihan format file untuk aplikasi lintas platform. Karena penggunaannya yang ringkas dan kegunaan yang mudah, ia dibundel di dalam aplikasi lain. Binding SQLite tersedia untuk bahasa pemrograman seperti C, [C#](/id/programming/cs/), [C++](/id/programming/cpp), [Java](/id/programming/java/), [PHP](/id/programming/php/ ), dan banyak lagi.
+File dengan ekstensi .sqlite adalah file database SQL ringan yang dibuat dengan software [SQLite](https://www.sqlite.org/index.html). Ini adalah database dalam file itu sendiri dan mengimplementasikan mesin database [SQL](/id/database/sql/) mandiri, berfitur lengkap, dan sangat andal. File database SQLite dapat digunakan untuk berbagi konten yang kaya antar sistem dengan hanya bertukar file ini melalui jaringan. Hampir semua ponsel dan komputer menggunakan SQLite untuk menyimpan dan berbagi data, dan merupakan pilihan format file untuk aplikasi lintas platform. Karena penggunaannya yang ringkas dan kegunaan yang mudah, ia dibundel di dalam aplikasi lain. Binding SQLite tersedia untuk bahasa pemrograman seperti C, [C#](/id/programming/cs/), [C++](/id/programming/cpp/), [Java](/id/programming/java/), [PHP](/id/programming/php/ ), dan banyak lagi.
 
 ## Format File SQLite
 

@@ -23,7 +23,7 @@ Soubor s příponou .kgb je komprimovaný archivní soubor vytvořený pomocí a
 
 ## Formát souboru KGB
 
-O formátu souboru KGB nejsou k dispozici žádné podrobnosti o technické implementaci. Nabízí šifrování AES-256 pro ochranu archivovaných souborů. Archivátor KGB byl vyvinut ve Visual [C++](/cs/programming/cpp) Tomaszem Pawlakem v dubnu 2006 a věřilo se, že komprimuje [1 GB soubor až na 10 MB](https://web.archive.org/ web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/).
+O formátu souboru KGB nejsou k dispozici žádné podrobnosti o technické implementaci. Nabízí šifrování AES-256 pro ochranu archivovaných souborů. Archivátor KGB byl vyvinut ve Visual [C++](/cs/programming/cpp/) Tomaszem Pawlakem v dubnu 2006 a věřilo se, že komprimuje [1 GB soubor až na 10 MB](https://web.archive.org/ web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/).
 
 ## Reference
 

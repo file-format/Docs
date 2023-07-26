@@ -23,7 +23,7 @@ Un fișier cu extensia .kgb este un fișier de arhivă comprimat creat cu softwa
 
 ## Format de fișier KGB
 
-Nu există detalii tehnice de implementare disponibile despre formatul de fișier KGB. Oferă criptare AES-256 pentru a proteja fișierele arhivate. Arhivatorul KGB a fost dezvoltat în Visual [C++](/ro/programming/cpp) de Tomasz Pawlak în aprilie 2006 și se credea că comprimă un [fișier de 1 GB până la 10 MB](https://web.archive.org/ web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/).
+Nu există detalii tehnice de implementare disponibile despre formatul de fișier KGB. Oferă criptare AES-256 pentru a proteja fișierele arhivate. Arhivatorul KGB a fost dezvoltat în Visual [C++](/ro/programming/cpp/) de Tomasz Pawlak în aprilie 2006 și se credea că comprimă un [fișier de 1 GB până la 10 MB](https://web.archive.org/ web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/).
 
 ## Referințe
 

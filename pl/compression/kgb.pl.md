@@ -23,7 +23,7 @@ Plik z rozszerzeniem .kgb to skompresowany plik archiwum utworzony za pomocą op
 
 ## Format pliku KGB
 
-Nie są dostępne żadne techniczne szczegóły implementacji formatu pliku KGB. Oferuje szyfrowanie AES-256 w celu ochrony zarchiwizowanych plików. Archiwizator KGB został opracowany w Visual [C++](/pl/programming/cpp) przez Tomasza Pawlaka w kwietniu 2006 r. web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/).
+Nie są dostępne żadne techniczne szczegóły implementacji formatu pliku KGB. Oferuje szyfrowanie AES-256 w celu ochrony zarchiwizowanych plików. Archiwizator KGB został opracowany w Visual [C++](/pl/programming/cpp/) przez Tomasza Pawlaka w kwietniu 2006 r. web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/).
 
 ## Bibliografia
 

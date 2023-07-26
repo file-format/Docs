@@ -23,7 +23,7 @@
 
 ## 克格勃文件格式
 
-没有关于克格勃文件格式的技术实施细节。它提供 AES-256 加密来保护存档文件。 KGB 存档器是 Tomasz Pawlak 于 2006 年 4 月用 Visual [C++](/zh/programming/cpp) 开发的，据信它可以将 [1 GB 文件压缩到 10 MB](https://web.archive.org/ web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/) 文件。
+没有关于克格勃文件格式的技术实施细节。它提供 AES-256 加密来保护存档文件。 KGB 存档器是 Tomasz Pawlak 于 2006 年 4 月用 Visual [C++](/zh/programming/cpp/) 开发的，据信它可以将 [1 GB 文件压缩到 10 MB](https://web.archive.org/ web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/) 文件。
 
 ## 参考
 
