@@ -23,7 +23,7 @@ Un archivo con extensión .lrx es un archivo asociado para Sony Broadband eBook 
 
 ## Formato de archivo LRX
 
-Los archivos LRX están en formato de archivo binario y todo el contenido del archivo está encriptado a diferencia de [LRS](/es/ebook/lrs), que es un formato no encriptado. Otro formato de archivo BBeB asociado es LRS, que está basado en XML y es legible por humanos en cualquier editor de texto. El encabezado de los archivos LRX contiene información como:
+Los archivos LRX están en formato de archivo binario y todo el contenido del archivo está encriptado a diferencia de [LRS](/es/ebook/lrs/), que es un formato no encriptado. Otro formato de archivo BBeB asociado es LRS, que está basado en XML y es legible por humanos en cualquier editor de texto. El encabezado de los archivos LRX contiene información como:
 
 * Versión
 * Identificación de objeto raíz

@@ -23,7 +23,7 @@ Tệp có phần mở rộng .lrx là tệp được liên kết với Sách đi
 
 ## Định dạng tệp LRX
 
-Tệp LRX ở định dạng tệp nhị phân và tất cả nội dung trong tệp được mã hóa không giống như [LRS](/vi/ebook/lrs), là định dạng không được mã hóa. Một định dạng tệp BBeB được liên kết khác là LRS dựa trên XML và con người có thể đọc được trong bất kỳ trình soạn thảo văn bản nào. Tiêu đề của tệp LRX chứa thông tin như:
+Tệp LRX ở định dạng tệp nhị phân và tất cả nội dung trong tệp được mã hóa không giống như [LRS](/vi/ebook/lrs/), là định dạng không được mã hóa. Một định dạng tệp BBeB được liên kết khác là LRS dựa trên XML và con người có thể đọc được trong bất kỳ trình soạn thảo văn bản nào. Tiêu đề của tệp LRX chứa thông tin như:
 
 * Phiên bản
 * Nhận dạng đối tượng gốc

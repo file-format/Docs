@@ -23,7 +23,7 @@ Soubor s příponou .lrx je přidružený soubor pro Sony Broadband eBook (BBeB)
 
 ## Formát souboru LRX
 
-Soubory LRX jsou v binárním formátu souboru a veškerý obsah v souboru je zašifrován na rozdíl od [LRS](/cs/ebook/lrs), což je nešifrovaný formát. Dalším přidruženým formátem souboru BBeB je LRS, který je založen na XML a je čitelný pro člověka v jakémkoli textovém editoru. Záhlaví souborů LRX obsahuje informace jako:
+Soubory LRX jsou v binárním formátu souboru a veškerý obsah v souboru je zašifrován na rozdíl od [LRS](/cs/ebook/lrs/), což je nešifrovaný formát. Dalším přidruženým formátem souboru BBeB je LRS, který je založen na XML a je čitelný pro člověka v jakémkoli textovém editoru. Záhlaví souborů LRX obsahuje informace jako:
 
 * Verze
 * Identifikace kořenového objektu
