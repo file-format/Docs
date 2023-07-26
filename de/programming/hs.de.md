@@ -39,7 +39,7 @@ Eine .hs-Datei kann die folgenden Informationen enthalten.
 
 ## Java HS-Dateiformat
 
-Die Java HS-Dateien liegen im XML-Dateiformat vor und basieren auf der vom World Wide Web Consortium (W3C) vorgeschlagenen Extended Markiup Language-Empfehlung [PR-xml-971208](http://www.w3.org/TR/PR-xml- 971208). Dies bedeutet, dass eine Java HS-Datei im menschenlesbaren XML-Dateiformat vorliegt, das in jeder XML-Reader-Anwendung geöffnet werden kann.
+Die Java HS-Dateien liegen im XML-Dateiformat vor und basieren auf der vom World Wide Web Consortium (W3C) vorgeschlagenen Extended Markiup Language-Empfehlung [PR-xml-971208](https://www.w3.org/TR/PR-xml-971208). Dies bedeutet, dass eine Java HS-Datei im menschenlesbaren XML-Dateiformat vorliegt, das in jeder XML-Reader-Anwendung geöffnet werden kann.
 
 ### Beispiel für ein Java-HS-Dateiformat
 

@@ -39,7 +39,7 @@ Tệp .hs có thể chứa thông tin sau.
 
 ## Định dạng tệp Java HS
 
-Các tệp Java HS ở định dạng tệp XML và dựa trên khuyến nghị được đề xuất về Ngôn ngữ đánh dấu mở rộng của World Wide Web Consortium (W3C) [PR-xml-971208](http://www.w3.org/TR/PR-xml- 971208). Điều này có nghĩa là tệp Java HS ở định dạng tệp XML mà con người có thể đọc được và có thể mở được trong bất kỳ ứng dụng đọc XML nào.
+Các tệp Java HS ở định dạng tệp XML và dựa trên khuyến nghị được đề xuất về Ngôn ngữ đánh dấu mở rộng của World Wide Web Consortium (W3C) [PR-xml-971208](https://www.w3.org/TR/PR-xml-971208). Điều này có nghĩa là tệp Java HS ở định dạng tệp XML mà con người có thể đọc được và có thể mở được trong bất kỳ ứng dụng đọc XML nào.
 
 ### Ví dụ về định dạng tệp Java HS
 

@@ -39,7 +39,7 @@
 
 ## Java HS файлов формат
 
-Java HS файловете са в XML файлов формат и са базирани на предложената препоръка на World Wide Web Consortium (W3C) Extended Markiup Language [PR-xml-971208](http://www.w3.org/TR/PR-xml- 971208). Това означава, че Java HS файл е в четим от хора XML файлов формат, който може да бъде отворен във всяко приложение за четене на XML.
+Java HS файловете са в XML файлов формат и са базирани на предложената препоръка на World Wide Web Consortium (W3C) Extended Markiup Language [PR-xml-971208](https://www.w3.org/TR/PR-xml-971208). Това означава, че Java HS файл е в четим от хора XML файлов формат, който може да бъде отворен във всяко приложение за четене на XML.
 
 ### Пример за файлов формат на Java HS
 

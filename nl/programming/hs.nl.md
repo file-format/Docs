@@ -39,7 +39,7 @@ Een .hs-bestand kan de volgende informatie bevatten.
 
 ## Java HS-bestandsindeling
 
-De Java HS-bestanden zijn in XML-bestandsindeling en zijn gebaseerd op de voorgestelde aanbeveling van het World Wide Web Consortium (W3C) Extended Markiup Language [PR-xml-971208](http://www.w3.org/TR/PR-xml- 971208). Dit betekent dat een Java HS-bestand een voor mensen leesbaar XML-bestandsformaat is dat in elke XML-lezertoepassing kan worden geopend.
+De Java HS-bestanden zijn in XML-bestandsindeling en zijn gebaseerd op de voorgestelde aanbeveling van het World Wide Web Consortium (W3C) Extended Markiup Language [PR-xml-971208](https://www.w3.org/TR/PR-xml-971208). Dit betekent dat een Java HS-bestand een voor mensen leesbaar XML-bestandsformaat is dat in elke XML-lezertoepassing kan worden geopend.
 
 ### Java HS-bestandsformaat voorbeeld
 

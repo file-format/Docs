@@ -39,7 +39,7 @@ File .hs mungkin berisi informasi berikut.
 
 ## Format File JavaHS
 
-File Java HS dalam format file XML dan berdasarkan rekomendasi yang diajukan oleh World Wide Web Consortium (W3C) Extended Markiup Language [PR-xml-971208](http://www.w3.org/TR/PR-xml- 971208). Ini berarti file Java HS dalam format file XML yang dapat dibaca manusia yang dapat dibuka di aplikasi pembaca XML apa pun.
+File Java HS dalam format file XML dan berdasarkan rekomendasi yang diajukan oleh World Wide Web Consortium (W3C) Extended Markiup Language [PR-xml-971208](https://www.w3.org/TR/PR-xml-971208). Ini berarti file Java HS dalam format file XML yang dapat dibaca manusia yang dapat dibuka di aplikasi pembaca XML apa pun.
 
 ### Contoh Format File Java HS
 

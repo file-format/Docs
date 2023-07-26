@@ -39,7 +39,7 @@ Java プログラミング言語の .hs 拡張子を持つファイルは、ア�
 
 ## Java HS ファイル形式
 
-Java HS ファイルは XML ファイル形式であり、World Wide Web Consortium (W3C) Extended Markiup Language 提案の勧告 [PR-xml-971208](http://www.w3.org/TR/PR-xml- 971208)。これは、Java HS ファイルが人間が判読できる XML ファイル形式であり、任意の XML リーダー アプリケーションで開くことができることを意味します。
+Java HS ファイルは XML ファイル形式であり、World Wide Web Consortium (W3C) Extended Markiup Language 提案の勧告 [PR-xml-971208](https://www.w3.org/TR/PR-xml-971208)。これは、Java HS ファイルが人間が判読できる XML ファイル形式であり、任意の XML リーダー アプリケーションで開くことができることを意味します。
 
 ### Java HS ファイル形式の例
 

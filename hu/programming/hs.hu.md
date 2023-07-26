@@ -39,7 +39,7 @@ A .hs fájl a következő információkat tartalmazhatja.
 
 ## Java HS fájlformátum
 
-A Java HS fájlok XML fájlformátumúak, és a World Wide Web Consortium (W3C) Extended Markiup Language javasolt ajánlásán alapulnak [PR-xml-971208](http://www.w3.org/TR/PR-xml- 971208). Ez azt jelenti, hogy a Java HS-fájl ember által olvasható XML-fájlformátumban van, amely bármely XML-olvasó alkalmazásban megnyitható.
+A Java HS fájlok XML fájlformátumúak, és a World Wide Web Consortium (W3C) Extended Markiup Language javasolt ajánlásán alapulnak [PR-xml-971208](https://www.w3.org/TR/PR-xml-971208). Ez azt jelenti, hogy a Java HS-fájl ember által olvasható XML-fájlformátumban van, amely bármely XML-olvasó alkalmazásban megnyitható.
 
 ### Java HS fájlformátum példa
 

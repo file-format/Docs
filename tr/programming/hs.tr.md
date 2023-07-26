@@ -39,7 +39,7 @@ Bir .hs dosyası aşağıdaki bilgileri içerebilir.
 
 ## Java HS Dosya Biçimi
 
-Java HS dosyaları XML dosya biçimindedir ve World Wide Web Konsorsiyumu (W3C) Genişletilmiş İşaretleme Dili tarafından önerilen tavsiyeye dayalıdır [PR-xml-971208](http://www.w3.org/TR/PR-xml- 971208). Bu, bir Java HS dosyasının, herhangi bir XML okuyucu uygulamasında açılabilen, insanlar tarafından okunabilen XML dosyası biçiminde olduğu anlamına gelir.
+Java HS dosyaları XML dosya biçimindedir ve World Wide Web Konsorsiyumu (W3C) Genişletilmiş İşaretleme Dili tarafından önerilen tavsiyeye dayalıdır [PR-xml-971208](https://www.w3.org/TR/PR-xml-971208). Bu, bir Java HS dosyasının, herhangi bir XML okuyucu uygulamasında açılabilen, insanlar tarafından okunabilen XML dosyası biçiminde olduğu anlamına gelir.
 
 ### Java HS Dosya Biçimi Örneği
 

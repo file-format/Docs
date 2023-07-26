@@ -39,7 +39,7 @@ Java 프로그래밍 언어에서 확장자가 .hs인 파일은 응용 프로그
 
 ## 자바 HS 파일 형식
 
-Java HS 파일은 XML 파일 형식이며 W3C(World Wide Web Consortium) Extended Markiup Language 제안 권장 사항[PR-xml-971208](http://www.w3.org/TR/PR-xml- 971208). 이는 Java HS 파일이 모든 XML 판독기 응용 프로그램에서 열 수 있는 사람이 읽을 수 있는 XML 파일 형식임을 의미합니다.
+Java HS 파일은 XML 파일 형식이며 W3C(World Wide Web Consortium) Extended Markiup Language 제안 권장 사항[PR-xml-971208](https://www.w3.org/TR/PR-xml-971208). 이는 Java HS 파일이 모든 XML 판독기 응용 프로그램에서 열 수 있는 사람이 읽을 수 있는 XML 파일 형식임을 의미합니다.
 
 ### 자바 HS 파일 형식 예
 

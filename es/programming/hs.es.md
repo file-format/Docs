@@ -39,7 +39,7 @@ Un archivo .hs puede contener la siguiente información.
 
 ## Formato de archivo Java HS
 
-Los archivos Java HS están en formato de archivo XML y se basan en la recomendación propuesta por el lenguaje de marcado extendido del World Wide Web Consortium (W3C) [PR-xml-971208](http://www.w3.org/TR/PR-xml- 971208). Esto significa que un archivo Java HS tiene un formato de archivo XML legible por humanos que se puede abrir en cualquier aplicación de lectura de XML.
+Los archivos Java HS están en formato de archivo XML y se basan en la recomendación propuesta por el lenguaje de marcado extendido del World Wide Web Consortium (W3C) [PR-xml-971208](https://www.w3.org/TR/PR-xml-971208). Esto significa que un archivo Java HS tiene un formato de archivo XML legible por humanos que se puede abrir en cualquier aplicación de lectura de XML.
 
 ### Ejemplo de formato de archivo Java HS
 

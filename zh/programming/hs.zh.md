@@ -39,7 +39,7 @@ Java 编程语言中扩展名为 .hs 的文件是一个帮助文档文件，当 
 
 ## Java HS 文件格式
 
-Java HS 文件为 XML 文件格式，并基于万维网联盟 (W3C) 扩展标记语言提出的建议 [PR-xml-971208](http://www.w3.org/TR/PR-xml- 971208）。这意味着 Java HS 文件是人类可读的 XML 文件格式，可以在任何 XML 阅读器应用程序中打开。
+Java HS 文件为 XML 文件格式，并基于万维网联盟 (W3C) 扩展标记语言提出的建议 [PR-xml-971208](https://www.w3.org/TR/PR-xml-971208）。这意味着 Java HS 文件是人类可读的 XML 文件格式，可以在任何 XML 阅读器应用程序中打开。
 
 ### Java HS 文件格式示例
 

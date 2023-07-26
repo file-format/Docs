@@ -39,7 +39,7 @@ Plik .hs może zawierać następujące informacje.
 
 ## Format pliku Java HS
 
-Pliki Java HS są w formacie XML i są oparte na zaleceniach organizacji World Wide Web Consortium (W3C) Extended Markup Language [PR-xml-971208](http://www.w3.org/TR/PR-xml- 971208). Oznacza to, że plik Java HS jest w czytelnym dla człowieka formacie pliku XML, który można otworzyć w dowolnej aplikacji czytnika XML.
+Pliki Java HS są w formacie XML i są oparte na zaleceniach organizacji World Wide Web Consortium (W3C) Extended Markup Language [PR-xml-971208](https://www.w3.org/TR/PR-xml-971208). Oznacza to, że plik Java HS jest w czytelnym dla człowieka formacie pliku XML, który można otworzyć w dowolnej aplikacji czytnika XML.
 
 ### Przykład formatu pliku Java HS
 
