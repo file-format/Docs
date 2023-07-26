@@ -19,7 +19,7 @@
 
 ## Ce este un fișier FODS?
 
-Un fișier cu extensia .fods este un tip de format de document OpenDocument Spreadsheet care stochează date în rânduri și coloane. Formatul este specificat ca parte a specificațiilor ODF 1.2 publicate și menținute de OASIS. Fișierele FODS nu pot fi deschise cu Excel, o altă aplicație software Spreadsheet de la Microsoft. Fișierele FODS pot fi salvate ca [ODS](/ro/spreadsheet/ods/) folosind LibreOffice și pot fi convertite în alte formate, cum ar fi [XLS](/ro/spreadsheet/xls) și [XLSX](/ro/spreadsheet/xlsx).
+Un fișier cu extensia .fods este un tip de format de document OpenDocument Spreadsheet care stochează date în rânduri și coloane. Formatul este specificat ca parte a specificațiilor ODF 1.2 publicate și menținute de OASIS. Fișierele FODS nu pot fi deschise cu Excel, o altă aplicație software Spreadsheet de la Microsoft. Fișierele FODS pot fi salvate ca [ODS](/ro/spreadsheet/ods/) folosind LibreOffice și pot fi convertite în alte formate, cum ar fi [XLS](/ro/spreadsheet/xls) și [XLSX](/ro/spreadsheet/xlsx/).
 
 ## Format de fișier FODS
 

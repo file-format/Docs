@@ -19,7 +19,7 @@
 
 ## AWS ファイルとは何ですか?
 
-AWS ファイルは、Ability Office スイートに付属する Ability Spreadsheet ソフトウェアで作成されたスプレッドシート ファイルです。 Microsoft Excel と同様に、行と列にデータを格納します。 AWS ファイルのデータは [XLS](/spreadsheet/xls/) および [XLSX](/spreadsheet/xlsx) に保存できます。これにより、Ability Spreadsheet ファイルが Microsoft Excel と互換性を持つようになります。スプレッドシートのデータは、[PDF](/pdf/) および [XPS](/page-description-language/xps/) ファイル形式にエクスポートできます。
+AWS ファイルは、Ability Office スイートに付属する Ability Spreadsheet ソフトウェアで作成されたスプレッドシート ファイルです。 Microsoft Excel と同様に、行と列にデータを格納します。 AWS ファイルのデータは [XLS](/spreadsheet/xls/) および [XLSX](/spreadsheet/xlsx/) に保存できます。これにより、Ability Spreadsheet ファイルが Microsoft Excel と互換性を持つようになります。スプレッドシートのデータは、[PDF](/pdf/) および [XPS](/page-description-language/xps/) ファイル形式にエクスポートできます。
 
 ## AWS ファイル形式 - 詳細情報
 

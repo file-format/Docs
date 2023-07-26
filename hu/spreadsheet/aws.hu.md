@@ -19,7 +19,7 @@
 
 ## Mi az AWS fájl?
 
-Az AWS-fájl az Ability Office csomaghoz mellékelt Ability Spreadsheet szoftverrel létrehozott táblázatkezelő fájl. Az adatokat a Microsoft Excelhez hasonlóan sorokban és oszlopokban tárolja. Az AWS-fájlok adatai az [XLS](/hu/spreadsheet/xls/) és az [XLSX](/hu/spreadsheet/xlsx) mappába menthetők. Ez az Ability Spreadsheet fájlt kompatibilissé teszi a Microsoft Excel programmal. A táblázatokban lévő adatok [PDF](/hu/pdf/) és [XPS](/hu/page-description-language/xps/) fájlformátumokba exportálhatók.
+Az AWS-fájl az Ability Office csomaghoz mellékelt Ability Spreadsheet szoftverrel létrehozott táblázatkezelő fájl. Az adatokat a Microsoft Excelhez hasonlóan sorokban és oszlopokban tárolja. Az AWS-fájlok adatai az [XLS](/hu/spreadsheet/xls/) és az [XLSX](/hu/spreadsheet/xlsx/) mappába menthetők. Ez az Ability Spreadsheet fájlt kompatibilissé teszi a Microsoft Excel programmal. A táblázatokban lévő adatok [PDF](/hu/pdf/) és [XPS](/hu/page-description-language/xps/) fájlformátumokba exportálhatók.
 
 ## AWS fájlformátum – További információ
 

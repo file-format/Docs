@@ -19,7 +19,7 @@
 
 ## AWS 파일이란?
 
-AWS 파일은 Ability Office 제품군과 함께 제공되는 Ability 스프레드시트 소프트웨어로 만든 스프레드시트 파일입니다. Microsoft Excel과 유사한 행과 열에 데이터를 저장합니다. AWS 파일 데이터는 [XLS](/ko/spreadsheet/xls/) 및 [XLSX](/ko/spreadsheet/xlsx)에 저장할 수 있습니다. 그러면 능력 스프레드시트 파일이 Microsoft Excel과 호환됩니다. 스프레드시트의 데이터는 [PDF](/ko/pdf/) 및 [XPS](/ko/page-description-language/xps/) 파일 형식으로 내보낼 수 있습니다.
+AWS 파일은 Ability Office 제품군과 함께 제공되는 Ability 스프레드시트 소프트웨어로 만든 스프레드시트 파일입니다. Microsoft Excel과 유사한 행과 열에 데이터를 저장합니다. AWS 파일 데이터는 [XLS](/ko/spreadsheet/xls/) 및 [XLSX](/ko/spreadsheet/xlsx/)에 저장할 수 있습니다. 그러면 능력 스프레드시트 파일이 Microsoft Excel과 호환됩니다. 스프레드시트의 데이터는 [PDF](/ko/pdf/) 및 [XPS](/ko/page-description-language/xps/) 파일 형식으로 내보낼 수 있습니다.
 
 ## AWS 파일 형식 - 추가 정보
 

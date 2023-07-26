@@ -19,7 +19,7 @@
 
 ## Co je soubor AWS?
 
-Soubor AWS je tabulkový soubor vytvořený pomocí softwaru Ability Spreadsheet, který je součástí sady Ability Office. Ukládá data do řádků a sloupců podobně jako Microsoft Excel. Data souborů AWS lze uložit do [XLS](/cs/tabulkový procesor/xls/) a [XLSX](/cs/tabulkový procesor/xlsx). Díky tomu je soubor Ability Spreadsheet kompatibilní s aplikací Microsoft Excel. Data v tabulkách lze exportovat do formátů souborů [PDF](/cs/pdf/) a [XPS](/cs/page-description-language/xps/).
+Soubor AWS je tabulkový soubor vytvořený pomocí softwaru Ability Spreadsheet, který je součástí sady Ability Office. Ukládá data do řádků a sloupců podobně jako Microsoft Excel. Data souborů AWS lze uložit do [XLS](/cs/spreadsheet/xls/) a [XLSX](/cs/spreadsheet/xlsx). Díky tomu je soubor Ability Spreadsheet kompatibilní s aplikací Microsoft Excel. Data v tabulkách lze exportovat do formátů souborů [PDF](/cs/pdf/) a [XPS](/cs/page-description-language/xps/).
 
 ## Formát souboru AWS – Další informace
 

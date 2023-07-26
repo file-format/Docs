@@ -19,7 +19,7 @@
 
 ## O que é um arquivo FODS?
 
-Um arquivo com extensão .fods é um tipo de formato de documento OpenDocument Spreadsheet que armazena dados em linhas e colunas. O formato é especificado como parte das especificações ODF 1.2 publicadas e mantidas pelo OASIS. Os arquivos FODS não podem ser abertos com o Excel, outro aplicativo de software de planilha da Microsoft. Os arquivos FODS podem ser salvos como [ODS](/pt/spreadsheet/ods/) usando o LibreOffice e podem ser convertidos para outros formatos, como [XLS](/pt/spreadsheet/xls) e [XLSX](/pt/spreadsheet/xlsx).
+Um arquivo com extensão .fods é um tipo de formato de documento OpenDocument Spreadsheet que armazena dados em linhas e colunas. O formato é especificado como parte das especificações ODF 1.2 publicadas e mantidas pelo OASIS. Os arquivos FODS não podem ser abertos com o Excel, outro aplicativo de software de planilha da Microsoft. Os arquivos FODS podem ser salvos como [ODS](/pt/spreadsheet/ods/) usando o LibreOffice e podem ser convertidos para outros formatos, como [XLS](/pt/spreadsheet/xls) e [XLSX](/pt/spreadsheet/xlsx/).
 
 ## Formato de arquivo FODS
 

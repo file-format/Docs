@@ -19,7 +19,7 @@
 
 ## Apa itu file AWS?
 
-File AWS adalah file spreadsheet yang dibuat dengan perangkat lunak Ability Spreadsheet yang disertakan dengan Ability Office suite. Ini menyimpan data dalam baris dan kolom yang mirip dengan Microsoft Excel. Data file AWS dapat disimpan ke [XLS](/id/spreadsheet/xls/) dan [XLSX](/id/spreadsheet/xlsx). Ini membuat file Spreadsheet Kemampuan kompatibel dengan Microsoft Excel. Data dalam spreadsheet dapat diekspor ke format file [PDF](/id/pdf/) dan [XPS](/id/page-description-language/xps/).
+File AWS adalah file spreadsheet yang dibuat dengan perangkat lunak Ability Spreadsheet yang disertakan dengan Ability Office suite. Ini menyimpan data dalam baris dan kolom yang mirip dengan Microsoft Excel. Data file AWS dapat disimpan ke [XLS](/id/spreadsheet/xls/) dan [XLSX](/id/spreadsheet/xlsx/). Ini membuat file Spreadsheet Kemampuan kompatibel dengan Microsoft Excel. Data dalam spreadsheet dapat diekspor ke format file [PDF](/id/pdf/) dan [XPS](/id/page-description-language/xps/).
 
 ## Format File AWS - Informasi Lebih Lanjut
 

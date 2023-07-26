@@ -19,7 +19,7 @@
 
 ## מהו קובץ FODS?
 
-קובץ עם סיומת .fods הוא סוג של פורמט מסמך OpenDocument Spreadsheet המאחסן נתונים בשורות ובעמודות. הפורמט מצוין כחלק ממפרט ODF 1.2 שפורסם ומתוחזק על ידי OASIS. לא ניתן לפתוח קובצי FODS עם Excel, יישום תוכנת Spreadsheet נוספת של Microsoft. ניתן לשמור קובצי FODS כ-[ODS](/he/spreadsheet/ods/) באמצעות LibreOffice וניתן להמיר אותם לפורמטים אחרים כגון [XLS](/he/spreadsheet/xls) ו-[XLSX](/he/spreadsheet/xlsx).
+קובץ עם סיומת .fods הוא סוג של פורמט מסמך OpenDocument Spreadsheet המאחסן נתונים בשורות ובעמודות. הפורמט מצוין כחלק ממפרט ODF 1.2 שפורסם ומתוחזק על ידי OASIS. לא ניתן לפתוח קובצי FODS עם Excel, יישום תוכנת Spreadsheet נוספת של Microsoft. ניתן לשמור קובצי FODS כ-[ODS](/he/spreadsheet/ods/) באמצעות LibreOffice וניתן להמיר אותם לפורמטים אחרים כגון [XLS](/he/spreadsheet/xls) ו-[XLSX](/he/spreadsheet/xlsx/).
 
 ## פורמט קובץ FODS
 

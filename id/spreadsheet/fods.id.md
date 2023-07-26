@@ -19,7 +19,7 @@
 
 ## Apa itu file FODS?
 
-File dengan ekstensi .fods adalah jenis format dokumen OpenDocument Spreadsheet yang menyimpan data dalam baris dan kolom. Format ditentukan sebagai bagian dari spesifikasi ODF 1.2 yang diterbitkan dan dikelola oleh OASIS. File FODS tidak dapat dibuka dengan Excel, aplikasi perangkat lunak Spreadsheet lain dari Microsoft. File FODS dapat disimpan sebagai [ODS](/id/spreadsheet/ods/) menggunakan LibreOffice dan dapat dikonversi ke format lain seperti [XLS](/id/spreadsheet/xls) dan [XLSX](/id/spreadsheet/xlsx).
+File dengan ekstensi .fods adalah jenis format dokumen OpenDocument Spreadsheet yang menyimpan data dalam baris dan kolom. Format ditentukan sebagai bagian dari spesifikasi ODF 1.2 yang diterbitkan dan dikelola oleh OASIS. File FODS tidak dapat dibuka dengan Excel, aplikasi perangkat lunak Spreadsheet lain dari Microsoft. File FODS dapat disimpan sebagai [ODS](/id/spreadsheet/ods/) menggunakan LibreOffice dan dapat dikonversi ke format lain seperti [XLS](/id/spreadsheet/xls) dan [XLSX](/id/spreadsheet/xlsx/).
 
 ## Format File FODS
 

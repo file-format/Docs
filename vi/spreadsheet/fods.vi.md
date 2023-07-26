@@ -19,7 +19,7 @@
 
 ## Tệp FODS là gì?
 
-Tệp có phần mở rộng .fods là một loại định dạng tài liệu Bảng tính OpenDocument lưu trữ dữ liệu theo hàng và cột. Định dạng được chỉ định như một phần của thông số kỹ thuật ODF 1.2 do OASIS xuất bản và duy trì. Không thể mở các tệp FODS bằng Excel, một ứng dụng phần mềm Bảng tính khác của Microsoft. Các tệp FODS có thể được lưu dưới dạng [ODS](/vi/spreadsheet/ods/) bằng LibreOffice và có thể được chuyển đổi sang các định dạng khác như [XLS](/vi/spreadsheet/xls) và [XLSX](/vi/spreadsheet/xlsx).
+Tệp có phần mở rộng .fods là một loại định dạng tài liệu Bảng tính OpenDocument lưu trữ dữ liệu theo hàng và cột. Định dạng được chỉ định như một phần của thông số kỹ thuật ODF 1.2 do OASIS xuất bản và duy trì. Không thể mở các tệp FODS bằng Excel, một ứng dụng phần mềm Bảng tính khác của Microsoft. Các tệp FODS có thể được lưu dưới dạng [ODS](/vi/spreadsheet/ods/) bằng LibreOffice và có thể được chuyển đổi sang các định dạng khác như [XLS](/vi/spreadsheet/xls) và [XLSX](/vi/spreadsheet/xlsx/).
 
 ## Định dạng tệp FODS
 

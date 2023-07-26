@@ -19,7 +19,7 @@
 
 ## Wat is een AWS-bestand?
 
-Een AWS-bestand is een spreadsheetbestand dat is gemaakt met de Ability Spreadsheet-software die bij de Ability Office-suite wordt geleverd. Het slaat gegevens op in rijen en kolommen, vergelijkbaar met Microsoft Excel. AWS-bestandsgegevens kunnen worden opgeslagen in [XLS](/nl/spreadsheet/xls/) en [XLSX](/nl/spreadsheet/xlsx). Dit maakt het Ability Spreadsheet-bestand compatibel met Microsoft Excel. Gegevens in spreadsheets kunnen worden geëxporteerd naar de bestandsindelingen [PDF](/nl/pdf/) en [XPS](/nl/page-description-language/xps/).
+Een AWS-bestand is een spreadsheetbestand dat is gemaakt met de Ability Spreadsheet-software die bij de Ability Office-suite wordt geleverd. Het slaat gegevens op in rijen en kolommen, vergelijkbaar met Microsoft Excel. AWS-bestandsgegevens kunnen worden opgeslagen in [XLS](/nl/spreadsheet/xls/) en [XLSX](/nl/spreadsheet/xlsx/). Dit maakt het Ability Spreadsheet-bestand compatibel met Microsoft Excel. Gegevens in spreadsheets kunnen worden geëxporteerd naar de bestandsindelingen [PDF](/nl/pdf/) en [XPS](/nl/page-description-language/xps/).
 
 ## AWS-bestandsindeling - Meer informatie
 

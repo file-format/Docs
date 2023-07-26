@@ -19,7 +19,7 @@
 
 ## .FODS ファイルとは何ですか?
 
-拡張子が .fods のファイルは、行と列にデータを格納する OpenDocument スプレッドシート ドキュメント形式の一種です。この形式は、OASIS によって公開および維持されている ODF 1.2 仕様の一部として指定されています。 FODS ファイルは、Microsoft の別のスプレッドシート ソフトウェア アプリケーションである Excel では開くことができません。 FODS ファイルは、LibreOffice を使用して [ODS](/spreadsheet/ods/) として保存でき、[XLS](/spreadsheet/xls) や [XLSX](/spreadsheet/xlsx) などの他の形式に変換できます。
+拡張子が .fods のファイルは、行と列にデータを格納する OpenDocument スプレッドシート ドキュメント形式の一種です。この形式は、OASIS によって公開および維持されている ODF 1.2 仕様の一部として指定されています。 FODS ファイルは、Microsoft の別のスプレッドシート ソフトウェア アプリケーションである Excel では開くことができません。 FODS ファイルは、LibreOffice を使用して [ODS](/spreadsheet/ods/) として保存でき、[XLS](/spreadsheet/xls) や [XLSX](/spreadsheet/xlsx/) などの他の形式に変換できます。
 
 ## FODS ファイル形式
 

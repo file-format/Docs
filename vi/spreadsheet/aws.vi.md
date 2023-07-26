@@ -19,7 +19,7 @@
 
 ## Tệp AWS là gì?
 
-Tệp AWS là một tệp bảng tính được tạo bằng phần mềm Bảng tính khả năng đi kèm với bộ Office khả năng. Nó lưu trữ dữ liệu theo hàng và cột tương tự như Microsoft Excel. Dữ liệu tệp AWS có thể được lưu vào [XLS](/vi/spreadsheet/xls/) và [XLSX](/vi/spreadsheet/xlsx). Điều này làm cho tệp Bảng tính Khả năng tương thích với Microsoft Excel. Dữ liệu trong bảng tính có thể được xuất sang định dạng tệp [PDF](/vi/pdf/) và [XPS](/vi/page-description-language/xps/).
+Tệp AWS là một tệp bảng tính được tạo bằng phần mềm Bảng tính khả năng đi kèm với bộ Office khả năng. Nó lưu trữ dữ liệu theo hàng và cột tương tự như Microsoft Excel. Dữ liệu tệp AWS có thể được lưu vào [XLS](/vi/spreadsheet/xls/) và [XLSX](/vi/spreadsheet/xlsx/). Điều này làm cho tệp Bảng tính Khả năng tương thích với Microsoft Excel. Dữ liệu trong bảng tính có thể được xuất sang định dạng tệp [PDF](/vi/pdf/) và [XPS](/vi/page-description-language/xps/).
 
 ## Định dạng tệp AWS - Thông tin khác
 

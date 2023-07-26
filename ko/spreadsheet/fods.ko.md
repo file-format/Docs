@@ -19,7 +19,7 @@
 
 ## .FODS 파일이란?
 
-확장자가 .fods인 파일은 데이터를 행과 열에 저장하는 일종의 OpenDocument 스프레드시트 문서 형식입니다. 형식은 OASIS에서 게시 및 유지 관리하는 ODF 1.2 사양의 일부로 지정됩니다. FODS 파일은 Microsoft의 다른 스프레드시트 소프트웨어 응용 프로그램인 Excel로 열 수 없습니다. FODS 파일은 LibreOffice를 사용하여 [ODS](/ko/spreadsheet/ods/)로 저장할 수 있으며 [XLS](/ko/spreadsheet/xls) 및 [XLSX](/ko/spreadsheet/xlsx)와 같은 다른 형식으로 변환할 수 있습니다.
+확장자가 .fods인 파일은 데이터를 행과 열에 저장하는 일종의 OpenDocument 스프레드시트 문서 형식입니다. 형식은 OASIS에서 게시 및 유지 관리하는 ODF 1.2 사양의 일부로 지정됩니다. FODS 파일은 Microsoft의 다른 스프레드시트 소프트웨어 응용 프로그램인 Excel로 열 수 없습니다. FODS 파일은 LibreOffice를 사용하여 [ODS](/ko/spreadsheet/ods/)로 저장할 수 있으며 [XLS](/ko/spreadsheet/xls) 및 [XLSX](/ko/spreadsheet/xlsx/)와 같은 다른 형식으로 변환할 수 있습니다.
 
 ## FODS 파일 형식
 

@@ -19,7 +19,7 @@
 
 ## ไฟล์ AWS คืออะไร??
 
-ไฟล์ AWS คือไฟล์สเปรดชีตที่สร้างขึ้นด้วยซอฟต์แวร์ Ability Spreadsheet ที่มาพร้อมกับชุดโปรแกรม Ability Office โดยจะเก็บข้อมูลเป็นแถวและคอลัมน์คล้ายกับ Microsoft Excel ข้อมูลไฟล์ AWS สามารถบันทึกเป็น [XLS](/th/spreadsheet/xls/) และ [XLSX](/th/spreadsheet/xlsx) สิ่งนี้ทำให้ไฟล์สเปรดชีตความสามารถเข้ากันได้กับ Microsoft Excel ข้อมูลในสเปรดชีตสามารถส่งออกเป็นรูปแบบไฟล์ [PDF](/th/pdf/) และ [XPS](/th/page-description-language/xps/)
+ไฟล์ AWS คือไฟล์สเปรดชีตที่สร้างขึ้นด้วยซอฟต์แวร์ Ability Spreadsheet ที่มาพร้อมกับชุดโปรแกรม Ability Office โดยจะเก็บข้อมูลเป็นแถวและคอลัมน์คล้ายกับ Microsoft Excel ข้อมูลไฟล์ AWS สามารถบันทึกเป็น [XLS](/th/spreadsheet/xls/) และ [XLSX](/th/spreadsheet/xlsx/) สิ่งนี้ทำให้ไฟล์สเปรดชีตความสามารถเข้ากันได้กับ Microsoft Excel ข้อมูลในสเปรดชีตสามารถส่งออกเป็นรูปแบบไฟล์ [PDF](/th/pdf/) และ [XPS](/th/page-description-language/xps/)
 
 ## รูปแบบไฟล์ AWS - ข้อมูลเพิ่มเติม
 

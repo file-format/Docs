@@ -19,7 +19,7 @@
 
 ## Vad är FODS fil?
 
-En fil med filtillägget .fods är en typ av OpenDocument Spreadsheet-dokumentformat som lagrar data i rader och kolumner. Formatet specificeras som en del av ODF 1.2-specifikationerna publicerade och underhållna av OASIS. FODS-filer kan inte öppnas med Excel, ett annat kalkylbladsprogram från Microsoft. FODS-filer kan sparas som [ODS](/sv/spreadsheet/ods/) med LibreOffice och kan konverteras till andra format som [XLS](/sv/spreadsheet/xls) och [XLSX](/sv/spreadsheet/xlsx).
+En fil med filtillägget .fods är en typ av OpenDocument Spreadsheet-dokumentformat som lagrar data i rader och kolumner. Formatet specificeras som en del av ODF 1.2-specifikationerna publicerade och underhållna av OASIS. FODS-filer kan inte öppnas med Excel, ett annat kalkylbladsprogram från Microsoft. FODS-filer kan sparas som [ODS](/sv/spreadsheet/ods/) med LibreOffice och kan konverteras till andra format som [XLS](/sv/spreadsheet/xls) och [XLSX](/sv/spreadsheet/xlsx/).
 
 ## FODS filformat
 

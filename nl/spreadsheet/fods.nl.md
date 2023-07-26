@@ -19,7 +19,7 @@
 
 ## Wat is een FODS-bestand?
 
-Een bestand met de extensie .fods is een type OpenDocument Spreadsheet-documentindeling waarin gegevens in rijen en kolommen worden opgeslagen. Het formaat wordt gespecificeerd als onderdeel van de ODF 1.2-specificaties die zijn gepubliceerd en onderhouden door OASIS. FODS-bestanden kunnen niet worden geopend met Excel, een andere Spreadsheet-softwaretoepassing van Microsoft. FODS-bestanden kunnen worden opgeslagen als [ODS](/nl/spreadsheet/ods/) met LibreOffice en kunnen worden geconverteerd naar andere formaten zoals [XLS](/nl/spreadsheet/xls) en [XLSX](/nl/spreadsheet/xlsx).
+Een bestand met de extensie .fods is een type OpenDocument Spreadsheet-documentindeling waarin gegevens in rijen en kolommen worden opgeslagen. Het formaat wordt gespecificeerd als onderdeel van de ODF 1.2-specificaties die zijn gepubliceerd en onderhouden door OASIS. FODS-bestanden kunnen niet worden geopend met Excel, een andere Spreadsheet-softwaretoepassing van Microsoft. FODS-bestanden kunnen worden opgeslagen als [ODS](/nl/spreadsheet/ods/) met LibreOffice en kunnen worden geconverteerd naar andere formaten zoals [XLS](/nl/spreadsheet/xls) en [XLSX](/nl/spreadsheet/xlsx/).
 
 ## FODS-bestandsindeling
 
