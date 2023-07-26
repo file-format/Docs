@@ -26,5 +26,5 @@
 
 ## อ้างอิง ##
 
-* [ไฟล์ .trm ใน oracle 11g คืออะไร](https://community.oracle.com/tech/developers/discussion/945615/what-is-trm-file-in-oracle-11g)
+* [ไฟล์ .trm ใน oracle 11g คืออะไร](https://forums.oracle.com/ords/apexds/post/what-is-trm-file-in-oracle-11g-0659)
 

@@ -26,5 +26,5 @@ Os arquivos TRM são salvos no formato de arquivo proprietário da Oracle e os d
 
 ## Referências ##
 
-* [O que é arquivo .trm no oracle 11g?](https://community.oracle.com/tech/developers/discussion/945615/what-is-trm-file-in-oracle-11g)
+* [O que é arquivo .trm no oracle 11g?](https://forums.oracle.com/ords/apexds/post/what-is-trm-file-in-oracle-11g-0659)
 

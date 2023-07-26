@@ -26,5 +26,5 @@ TRM 文件以 Oracle 的专有文件格式保存，TRM 文件格式详细信息�
 
 ## 参考 ＃＃
 
-* [oracle 11g 中的 .trm 文件是什么？](https://community.oracle.com/tech/developers/discussion/945615/what-is-trm-file-in-oracle-11g)
+* [oracle 11g 中的 .trm 文件是什么？](https://forums.oracle.com/ords/apexds/post/what-is-trm-file-in-oracle-11g-0659)
 

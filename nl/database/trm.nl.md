@@ -26,5 +26,5 @@ TRM-bestanden worden opgeslagen in de eigen bestandsindeling van Oracle en de de
 
 ## Referenties ##
 
-* [Wat is een .trm-bestand in oracle 11g?](https://community.oracle.com/tech/developers/discussion/945615/what-is-trm-file-in-oracle-11g)
+* [Wat is een .trm-bestand in oracle 11g?](https://forums.oracle.com/ords/apexds/post/what-is-trm-file-in-oracle-11g-0659)
 

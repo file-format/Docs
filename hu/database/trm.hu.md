@@ -26,5 +26,5 @@ A TRM-fájlokat az Oracle szabadalmaztatott fájlformátumában menti a rendszer
 
 ## Hivatkozások ##
 
-* [Mi az a .trm fájl az Oracle 11g-ben?](https://community.oracle.com/tech/developers/discussion/945615/what-is-trm-file-in-oracle-11g)
+* [Mi az a .trm fájl az Oracle 11g-ben?](https://forums.oracle.com/ords/apexds/post/what-is-trm-file-in-oracle-11g-0659)
 

@@ -26,5 +26,5 @@ Fișierele TRM sunt salvate în formatul de fișier proprietar al Oracle, iar de
 
 ## Referințe ##
 
-* [Ce este fișierul .trm în oracle 11g?](https://community.oracle.com/tech/developers/discussion/945615/what-is-trm-file-in-oracle-11g)
+* [Ce este fișierul .trm în oracle 11g?](https://forums.oracle.com/ords/apexds/post/what-is-trm-file-in-oracle-11g-0659)
 

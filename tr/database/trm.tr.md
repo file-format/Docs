@@ -26,5 +26,5 @@ TRM dosyaları, Oracle'ın tescilli dosya biçiminde kaydedilir ve TRM dosya bi�
 
 ## Referanslar ##
 
-* [Oracle 11g'deki .trm dosyası nedir?](https://community.oracle.com/tech/developers/discussion/945615/what-is-trm-file-in-oracle-11g)
+* [Oracle 11g'deki .trm dosyası nedir?](https://forums.oracle.com/ords/apexds/post/what-is-trm-file-in-oracle-11g-0659)
 
