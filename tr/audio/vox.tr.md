@@ -31,7 +31,7 @@ Konuşma uygulamalarında yaygın olarak kullanılan VOX dosyaları, önceden ka
 
 VOX dosyaları, DMV ve JCT of Dialogic adlı Medya Panoları ile ilişkilidir. Bunlar VoxWare'e ve diğer birçok yazılıma aittir. Eskiden modası geçmiş bir biçim olarak kabul edilirdi.
 
-Eski bir format olarak bundan sonra kullanılmadı. Diğer ADPCM formatlarına benzer şekilde 4 bit halinde sıkıştırılmıştır. Bu dosyaların özellikleri, [WAV](/tr/audio/wav) dosya özelliklerine yeterince yakındır.
+Eski bir format olarak bundan sonra kullanılmadı. Diğer ADPCM formatlarına benzer şekilde 4 bit halinde sıkıştırılmıştır. Bu dosyaların özellikleri, [WAV](/tr/audio/wav/) dosya özelliklerine yeterince yakındır.
 
 
 ## Biçim Özellikleri ##

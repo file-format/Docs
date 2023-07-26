@@ -31,7 +31,7 @@ Nó chủ yếu được sử dụng để ghi âm và nén giọng nói. Ở đ
 
 Các tệp VOX được liên kết với Bảng phương tiện được gọi là DMV và JCT của Hộp thoại. Chúng thuộc về VoxWare và nhiều phần mềm khác. Nó từng được coi là một định dạng lỗi thời.
 
-Là một định dạng lỗi thời, nó không được sử dụng sau đó. Tương tự như các định dạng ADPCM khác, nó được nén thành 4 bit. Các tính năng của các tệp này đủ gần với thông số kỹ thuật của tệp [WAV](/vi/audio/wav).
+Là một định dạng lỗi thời, nó không được sử dụng sau đó. Tương tự như các định dạng ADPCM khác, nó được nén thành 4 bit. Các tính năng của các tệp này đủ gần với thông số kỹ thuật của tệp [WAV](/vi/audio/wav/).
 
 
 ## Thông số kỹ thuật định dạng ##
