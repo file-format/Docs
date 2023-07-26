@@ -28,7 +28,7 @@ Az OEB fájlformátum egy sor fájlból áll, beleértve egy kötelező csomagf�
 Az OEBPS 1.2 az előző verzióhoz (OEBPS 1.0.1) szorosan kapcsolódó frissítés volt. Modern funkcionalitást biztosított a renderelés vezérlése terén, beleértve többek között a jelölőszókincs továbbfejlesztését (jelenleg az XHTML 1.1 valódi részhalmaza), és jelentősen kibővítette a CSS-támogatást. A fenntarthatósági tényezők változatlanok a korábbi verzióhoz képest.
   
 
-Az OEB fájlcsomagot elsősorban közepes állapotú formátumként használták, a végfelhasználóknak való közzétételt kiadókon vagy aggregátorokon keresztül kezelték, akik az e-könyveket különböző e-könyv-nézőknek megfelelő formában biztosították. Az utódváltozata, az [EPUB](/hu/ebook/epub) nagyobb valószínűséggel jut el a végfelhasználókhoz végső állapotú formátumként, valamint közepes állapotú formátumként is szolgál.
+Az OEB fájlcsomagot elsősorban közepes állapotú formátumként használták, a végfelhasználóknak való közzétételt kiadókon vagy aggregátorokon keresztül kezelték, akik az e-könyveket különböző e-könyv-nézőknek megfelelő formában biztosították. Az utódváltozata, az [EPUB](/hu/ebook/epub/) nagyobb valószínűséggel jut el a végfelhasználókhoz végső állapotú formátumként, valamint közepes állapotú formátumként is szolgál.
 
 ## Hivatkozások
 

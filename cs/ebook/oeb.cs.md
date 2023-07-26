@@ -27,7 +27,7 @@ Formát souboru OEB se skládá ze sady souborů, včetně souboru povinného ba
 
 OEBPS 1.2 byla těsně spojená aktualizace předchozí verze (OEBPS 1.0.1). Poskytoval moderní funkcionalitu v oblasti kontroly vykreslování, včetně mimo jiné vylepšení slovníku značek (nyní skutečná podmnožina XHTML 1.1), a výrazně rozšířil podporu CSS. Faktory udržitelnosti se oproti předchozí verzi nezměnily.
 
-Balík souborů OEB byl používán především jako střední formát, přičemž publikace pro koncové uživatele byla spravována prostřednictvím vydavatelů nebo agregátorů, kteří poskytovali e-knihy ve formách vhodných pro různé prohlížeče e-knih. Jeho nástupnická verze, [EPUB](/cs/ebook/epub), s větší pravděpodobností osloví koncové uživatele jako formát konečného stavu a zároveň bude sloužit jako formát středního stavu.
+Balík souborů OEB byl používán především jako střední formát, přičemž publikace pro koncové uživatele byla spravována prostřednictvím vydavatelů nebo agregátorů, kteří poskytovali e-knihy ve formách vhodných pro různé prohlížeče e-knih. Jeho nástupnická verze, [EPUB](/cs/ebook/epub/), s větší pravděpodobností osloví koncové uživatele jako formát konečného stavu a zároveň bude sloužit jako formát středního stavu.
 
 ## Reference
 

@@ -28,7 +28,7 @@ OEB dosya formatı, diğer tüm bileşen dosyalarını listeleyen bir manifesto 
 OEBPS 1.2, önceki sürüme (OEBPS 1.0.1) sıkıca bağlı bir güncellemeydi. Diğer şeylerin yanı sıra, biçimlendirme sözlüğündeki geliştirmeler (artık XHTML 1.1'in gerçek bir alt kümesi) ve büyük ölçüde genişletilmiş CSS desteği de dahil olmak üzere, işleme kontrolü alanında modern işlevsellik sağladı. Sürdürülebilirlik faktörleri, önceki sürümden farklı değildir.
   
 
-OEB dosya paketi, farklı e-kitap görüntüleyicileri için uygun formlarda e-kitaplar sağlayan yayıncılar veya toplayıcılar aracılığıyla yönetilen son kullanıcılara yayınla birlikte, öncelikle bir orta durum formatı olarak kullanıldı. Ardıl sürümü olan [EPUB](/tr/ebook/epub), son kullanıcılara bir orta durum biçimi olarak hizmet etmenin yanı sıra bir son durum biçimi olarak ulaşma olasılığı daha yüksektir.
+OEB dosya paketi, farklı e-kitap görüntüleyicileri için uygun formlarda e-kitaplar sağlayan yayıncılar veya toplayıcılar aracılığıyla yönetilen son kullanıcılara yayınla birlikte, öncelikle bir orta durum formatı olarak kullanıldı. Ardıl sürümü olan [EPUB](/tr/ebook/epub/), son kullanıcılara bir orta durum biçimi olarak hizmet etmenin yanı sıra bir son durum biçimi olarak ulaşma olasılığı daha yüksektir.
 
 ## Referanslar
 

@@ -28,7 +28,7 @@ Il formato di file OEB è costituito da un insieme di file, incluso un file di p
 L'OEBPS 1.2 era un aggiornamento strettamente collegato alla versione precedente (OEBPS 1.0.1). Ha fornito funzionalità moderne nell'area del controllo del rendering, inclusi, tra le altre cose, miglioramenti nel vocabolario di markup (ora un vero e proprio sottoinsieme di XHTML 1.1) e supporto CSS notevolmente ampliato. I fattori di sostenibilità sono invariati rispetto alla versione precedente.
   
 
-Il pacchetto di file OEB è stato utilizzato principalmente come formato di stato intermedio, con la pubblicazione per gli utenti finali gestita tramite editori o aggregatori che hanno fornito ebook in forme adatte a diversi visualizzatori di ebook. È più probabile che la sua versione successiva, [EPUB](/it/ebook/epub), raggiunga gli utenti finali come formato di stato finale, oltre a fungere da formato di stato intermedio.
+Il pacchetto di file OEB è stato utilizzato principalmente come formato di stato intermedio, con la pubblicazione per gli utenti finali gestita tramite editori o aggregatori che hanno fornito ebook in forme adatte a diversi visualizzatori di ebook. È più probabile che la sua versione successiva, [EPUB](/it/ebook/epub/), raggiunga gli utenti finali come formato di stato finale, oltre a fungere da formato di stato intermedio.
 
 ## Riferimenti
 

@@ -28,7 +28,7 @@ Format pliku OEB składa się z zestawu plików, w tym obowiązkowego pliku paki
 OEBPS 1.2 był ściśle powiązaną aktualizacją poprzedniej wersji (OEBPS 1.0.1). Zapewniał nowoczesną funkcjonalność w zakresie kontroli renderowania, w tym między innymi ulepszenia słownika znaczników (obecnie prawdziwy podzbiór XHTML 1.1) oraz znacznie rozszerzoną obsługę CSS. Czynniki zrównoważonego rozwoju pozostają niezmienione w stosunku do wcześniejszej wersji.
   
 
-Pakiet plików OEB był używany głównie jako format pośredni, z publikacją dla użytkowników końcowych zarządzaną przez wydawców lub agregatorów, którzy dostarczali e-booki w formach odpowiednich dla różnych przeglądarek e-booków. Jego następna wersja, [EPUB](/pl/ebook/epub), z większym prawdopodobieństwem dotrze do użytkowników końcowych jako format końcowy, a także jako format pośredni.
+Pakiet plików OEB był używany głównie jako format pośredni, z publikacją dla użytkowników końcowych zarządzaną przez wydawców lub agregatorów, którzy dostarczali e-booki w formach odpowiednich dla różnych przeglądarek e-booków. Jego następna wersja, [EPUB](/pl/ebook/epub/), z większym prawdopodobieństwem dotrze do użytkowników końcowych jako format końcowy, a także jako format pośredni.
 
 ## Bibliografia
 
