@@ -19,7 +19,7 @@
 
 ## Wat is een CEBX-bestand?
 
-De bestanden met de extensie .cebx (Chinees ebook) staan bekend als **Apabi eBook-bestanden**, die feitelijk de bestandsindeling [CEB](/nl/ebook/ceb) hebben vervangen. Een CEBX-bestand bevat Chinese opgemaakte tekst en andere lay-outinformatie, daarom is dit bestandsformaat stopgezet. Het CEBX-bestandsformaat is ontwikkeld door de Apabi-uitgevers van Founder Electronics. De bestanden van dit formaat zijn beschikbaar in de APABI D-Lib-bibliotheek die een verzameling Chinese eBooks bevat. Deze binair gecodeerde bestanden kunnen worden weergegeven met behulp van Apabi-software. De **Apabi Reader 4.5.2 voor meertalig** voor Microsoft Windows, **Apabi Reader voor Android 1.8.1** en **Apabi Reader voor iOS 2.4.0** ondersteunt de CEBX-bestandsindelingen.
+De bestanden met de extensie .cebx (Chinees ebook) staan bekend als **Apabi eBook-bestanden**, die feitelijk de bestandsindeling [CEB](/nl/ebook/ceb/) hebben vervangen. Een CEBX-bestand bevat Chinese opgemaakte tekst en andere lay-outinformatie, daarom is dit bestandsformaat stopgezet. Het CEBX-bestandsformaat is ontwikkeld door de Apabi-uitgevers van Founder Electronics. De bestanden van dit formaat zijn beschikbaar in de APABI D-Lib-bibliotheek die een verzameling Chinese eBooks bevat. Deze binair gecodeerde bestanden kunnen worden weergegeven met behulp van Apabi-software. De **Apabi Reader 4.5.2 voor meertalig** voor Microsoft Windows, **Apabi Reader voor Android 1.8.1** en **Apabi Reader voor iOS 2.4.0** ondersteunt de CEBX-bestandsindelingen.
 
 ## Referenties
 

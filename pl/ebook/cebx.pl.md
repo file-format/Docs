@@ -19,7 +19,7 @@
 
 ## Czym jest plik CEBX?
 
-Pliki z rozszerzeniem .cebx (chiński ebook) są znane jako **pliki Apabi eBook**, które faktycznie zastąpiły format pliku [CEB](/pl/ebook/ceb). Plik CEBX zawiera tekst w formacie chińskim i inne informacje o układzie, dlatego ten format pliku został wycofany. Format pliku CEBX został opracowany przez wydawców Apabi firmy Founder Electronics. Pliki w tym formacie są dostępne w bibliotece APABI D-Lib, która zawiera zbiór chińskich eBooków. Te pliki zakodowane binarnie można wyświetlić za pomocą oprogramowania Apabi. **Apabi Reader 4.5.2 dla wielu języków** dla Microsoft Windows, **Apabi Reader dla Androida 1.8.1** i **Apabi Reader dla iOS 2.4.0** obsługuje formaty plików CEBX.
+Pliki z rozszerzeniem .cebx (chiński ebook) są znane jako **pliki Apabi eBook**, które faktycznie zastąpiły format pliku [CEB](/pl/ebook/ceb/). Plik CEBX zawiera tekst w formacie chińskim i inne informacje o układzie, dlatego ten format pliku został wycofany. Format pliku CEBX został opracowany przez wydawców Apabi firmy Founder Electronics. Pliki w tym formacie są dostępne w bibliotece APABI D-Lib, która zawiera zbiór chińskich eBooków. Te pliki zakodowane binarnie można wyświetlić za pomocą oprogramowania Apabi. **Apabi Reader 4.5.2 dla wielu języków** dla Microsoft Windows, **Apabi Reader dla Androida 1.8.1** i **Apabi Reader dla iOS 2.4.0** obsługuje formaty plików CEBX.
 
 ## Bibliografia
 
