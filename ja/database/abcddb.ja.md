@@ -63,5 +63,5 @@ SQLite ODBC コネクタは、ODBC インターフェイスをサポートする
 ## 参考文献
 * [破損した連絡先データベースを修正](https://discussions.apple.com/docs/DOC-10581)
 * [Mac用連絡先データベース](https://nitroreward.weebly.com/blog/contact-database-for-mac)
-* [Windows 7 Excel で abcddb ファイルを開く、またはエクスポートするにはどうすればよいですか?](https://apple.stackexchange.com/questions/52888/how-can-i-open-or-export-a-abcddb-file- in-windows-7-excel)
+* [Windows 7 Excel で abcddb ファイルを開く、またはエクスポートするにはどうすればよいですか?](https://apple.stackexchange.com/questions/52888/how-can-i-open-or-export-a-abcddb-file-in-windows-7-excel)
 

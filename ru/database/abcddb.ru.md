@@ -63,5 +63,5 @@ SQLite — это популярная система управления ба�
 ## использованная литература
 * [Исправить поврежденную базу данных контактов](https://discussions.apple.com/docs/DOC-10581)
 * [Контактная база данных для Mac](https://nitroreward.weebly.com/blog/contact-database-for-mac)
-* [Как открыть или экспортировать файл abcddb в Windows 7 Excel?](https://apple.stackexchange.com/questions/52888/how-can-i-open-or-export-a-abcddb-file- в-Windows-7-Excel)
+* [Как открыть или экспортировать файл abcddb в Windows 7 Excel?](https://apple.stackexchange.com/questions/52888/how-can-i-open-or-export-a-abcddb-file-in-windows-7-excel)
 

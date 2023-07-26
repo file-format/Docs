@@ -63,5 +63,5 @@ El conector SQLite ODBC es una biblioteca de software y un controlador que permi
 ## Referencias
 * [Corregir la base de datos de contactos dañada](https://discussions.apple.com/docs/DOC-10581)
 * [Base de datos de contactos para Mac](https://nitroreward.weebly.com/blog/contact-database-for-mac)
-* [¿Cómo puedo abrir o exportar un archivo abcddb en Windows 7 Excel?](https://apple.stackexchange.com/questions/52888/how-can-i-open-or-export-a-abcddb-file- en-windows-7-excel)
+* [¿Cómo puedo abrir o exportar un archivo abcddb en Windows 7 Excel?](https://apple.stackexchange.com/questions/52888/how-can-i-open-or-export-a-abcddb-file-in-windows-7-excel)
 
