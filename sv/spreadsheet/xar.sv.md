@@ -33,5 +33,5 @@ XAR-filer kan spara alla typer av Excel-filformat som XLS, XLSX och andra. Om di
 ## Referenser
 
 * [Atuo återställningsfunktioner i Excel](https://docs.microsoft.com/en-us/office/troubleshoot/excel/autorecover-functions-in-excel)
-* [XAR File Community Hjälp](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_excel-mso_win10-mso_365hp/2016-excel-xar-files/5af5e10c-027a-4c24-a403-39e8c5)
+* [XAR File Community Hjälp](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_excel-mso_win10-mso_365hp/2016-excel-xar-files/5af5e10c-027a-4c24-a403-39e9c590ce8f)
 
