@@ -23,7 +23,7 @@ Soubor DIS je soubor sešitu vytvořený pomocí softwaru [Oracle Discoverer](ht
 
 ## Jak stáhnout sešity Discoverer ve formátu DIS?
 
-Sešity Oracle Discoverer jsou uloženy v databázi v binárním formátu a nelze je stáhnout jako [soubory DIS](https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-discoverer -workbooks-to-my-computer) přímo. Data však lze exportovat jako soubory EEX, otevřít je v aplikaci Discoverer Desktop a pomocí možnosti Uložit jako uložit soubory EEX jako soubory DIS.
+Sešity Oracle Discoverer jsou uloženy v databázi v binárním formátu a nelze je stáhnout jako [soubory DIS](https://forums.oracle.com/ords/apexds/post/can-i-download-all-discoverer-workbooks-to-my-computer-4127) přímo. Data však lze exportovat jako soubory EEX, otevřít je v aplikaci Discoverer Desktop a pomocí možnosti Uložit jako uložit soubory EEX jako soubory DIS.
 
 ## Formát souboru DIS – Další informace
 

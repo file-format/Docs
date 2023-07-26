@@ -23,7 +23,7 @@
 
 ## Как скачать рабочие книги Discoverer в формате DIS?
 
-Рабочие книги Oracle Discoverer хранятся в базе данных в двоичном формате и не могут быть загружены в виде [файлов DIS](https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-discoverer -workbooks-to-my-computer) напрямую. Однако данные можно экспортировать в виде файлов EEX, открыть их в Discoverer Desktop и использовать параметр «Сохранить как», чтобы сохранить файлы EEX в виде файлов DIS.
+Рабочие книги Oracle Discoverer хранятся в базе данных в двоичном формате и не могут быть загружены в виде [файлов DIS](https://forums.oracle.com/ords/apexds/post/can-i-download-all-discoverer-workbooks-to-my-computer-4127) напрямую. Однако данные можно экспортировать в виде файлов EEX, открыть их в Discoverer Desktop и использовать параметр «Сохранить как», чтобы сохранить файлы EEX в виде файлов DIS.
 
 ## Формат файла DIS — дополнительная информация
 

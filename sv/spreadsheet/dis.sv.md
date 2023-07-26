@@ -23,7 +23,7 @@ En DIS-fil är en arbetsboksfil som skapats med programvaran [Oracle Discoverer]
 
 ## Hur laddar man ner Discoverer-arbetsböcker i DIS-format?
 
-Oracle Discoverer Workbooks lagras i databasen i binärt format och kan inte laddas ned som [DIS-filer](https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-discoverer -arbetsböcker-till-min-dator) direkt. Data kan dock exporteras som EEX-filer, öppna dem i Discoverer Desktop och använd alternativet Spara som för att spara EEX-filerna som DIS-filer.
+Oracle Discoverer Workbooks lagras i databasen i binärt format och kan inte laddas ned som [DIS-filer](https://forums.oracle.com/ords/apexds/post/can-i-download-all-discoverer-workbooks-to-my-computer-4127) direkt. Data kan dock exporteras som EEX-filer, öppna dem i Discoverer Desktop och använd alternativet Spara som för att spara EEX-filerna som DIS-filer.
 
 ## DIS-filformat - Mer information
 

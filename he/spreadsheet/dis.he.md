@@ -23,7 +23,7 @@
 
 ## כיצד להוריד חוברות עבודה של Discoverer בפורמט DIS?
 
-חוברות העבודה של Oracle Discoverer מאוחסנות במסד הנתונים בפורמט בינארי ולא ניתן להוריד אותן כ[קבצי DIS](https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-discoverer -חוברות עבודה-למחשב שלי) ישירות. עם זאת, ניתן לייצא נתונים כקובצי EEX, פתח אותם ב-Discoverer Desktop, והשתמש באפשרות Save As כדי לשמור את קבצי EEX כקובצי DIS.
+חוברות העבודה של Oracle Discoverer מאוחסנות במסד הנתונים בפורמט בינארי ולא ניתן להוריד אותן כ[קבצי DIS](https://forums.oracle.com/ords/apexds/post/can-i-download-all-discoverer-workbooks-to-my-computer-4127) ישירות. עם זאת, ניתן לייצא נתונים כקובצי EEX, פתח אותם ב-Discoverer Desktop, והשתמש באפשרות Save As כדי לשמור את קבצי EEX כקובצי DIS.
 
 ## פורמט קובץ DIS - מידע נוסף
 

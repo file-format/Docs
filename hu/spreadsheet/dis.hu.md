@@ -23,7 +23,7 @@ A DIS-fájl az [Oracle Discoverer](https://docs.oracle.com/cd/E28389_01/bi.1111/
 
 ## Hogyan lehet letölteni a Discoverer-munkafüzeteket DIS formátumban?
 
-Az Oracle Discoverer munkafüzeteket az adatbázis bináris formátumban tárolja, és nem tölthetők le [DIS-fájlként](https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-discoverer -munkafüzetek-a-számítógépre) közvetlenül. Az adatok azonban exportálhatók EEX-fájlként, nyissa meg a Discoverer Desktopban, és használja a Mentés másként opciót az EEX-fájlok DIS-fájlként történő mentéséhez.
+Az Oracle Discoverer munkafüzeteket az adatbázis bináris formátumban tárolja, és nem tölthetők le [DIS-fájlként](https://forums.oracle.com/ords/apexds/post/can-i-download-all-discoverer-workbooks-to-my-computer-4127) közvetlenül. Az adatok azonban exportálhatók EEX-fájlként, nyissa meg a Discoverer Desktopban, és használja a Mentés másként opciót az EEX-fájlok DIS-fájlként történő mentéséhez.
 
 ## DIS fájlformátum - További információ
 

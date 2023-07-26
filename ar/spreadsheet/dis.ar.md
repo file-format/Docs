@@ -23,7 +23,7 @@
 
 ## كيفية تنزيل مصنفات Discoverer بتنسيق DIS؟
 
-يتم تخزين Oracle Discoverer Workbooks في قاعدة البيانات بتنسيق ثنائي ولا يمكن تنزيلها كـ [ملفات DIS](https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-discoverer -workbooks-to-my-computer) مباشرة. ومع ذلك ، يمكن تصدير البيانات كملفات EEX ، وفتحها في Discoverer Desktop ، واستخدام الخيار Save As لحفظ ملفات EEX كملفات DIS.
+يتم تخزين Oracle Discoverer Workbooks في قاعدة البيانات بتنسيق ثنائي ولا يمكن تنزيلها كـ [ملفات DIS](https://forums.oracle.com/ords/apexds/post/can-i-download-all-discoverer-workbooks-to-my-computer-4127) مباشرة. ومع ذلك ، يمكن تصدير البيانات كملفات EEX ، وفتحها في Discoverer Desktop ، واستخدام الخيار Save As لحفظ ملفات EEX كملفات DIS.
 
 ## تنسيق ملف DIS - مزيد من المعلومات
 

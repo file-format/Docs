@@ -23,7 +23,7 @@
 
 ## Πώς να κατεβάσετε τα βιβλία εργασίας του Discoverer σε μορφή DIS;
 
-Τα βιβλία εργασίας Oracle Discoverer αποθηκεύονται στη βάση δεδομένων σε δυαδική μορφή και δεν μπορούν να ληφθούν ως [αρχεία DIS](https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-discoverer -books-to-my-computer) απευθείας. Ωστόσο, τα δεδομένα μπορούν να εξαχθούν ως αρχεία EEX, να τα ανοίξετε στο Discoverer Desktop και να χρησιμοποιήσετε την επιλογή Αποθήκευση ως για να αποθηκεύσετε τα αρχεία EEX ως αρχεία DIS.
+Τα βιβλία εργασίας Oracle Discoverer αποθηκεύονται στη βάση δεδομένων σε δυαδική μορφή και δεν μπορούν να ληφθούν ως [αρχεία DIS](https://forums.oracle.com/ords/apexds/post/can-i-download-all-discoverer-workbooks-to-my-computer-4127) απευθείας. Ωστόσο, τα δεδομένα μπορούν να εξαχθούν ως αρχεία EEX, να τα ανοίξετε στο Discoverer Desktop και να χρησιμοποιήσετε την επιλογή Αποθήκευση ως για να αποθηκεύσετε τα αρχεία EEX ως αρχεία DIS.
 
 ## Μορφή αρχείου DIS - Περισσότερες πληροφορίες
 

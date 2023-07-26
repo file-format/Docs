@@ -23,7 +23,7 @@ Un file DIS è un file di cartella di lavoro creato con il software [Oracle Disc
 
 ## Come scaricare le cartelle di lavoro di Discoverer in formato DIS?
 
-Le cartelle di lavoro di Oracle Discoverer sono archiviate nel database in formato binario e non possono essere scaricate come [file DIS](https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-discoverer -cartelle-di-lavoro-al-mio-computer) direttamente. Tuttavia, i dati possono essere esportati come file EEX, aprirli in Discoverer Desktop e utilizzare l'opzione Salva con nome per salvare i file EEX come file DIS.
+Le cartelle di lavoro di Oracle Discoverer sono archiviate nel database in formato binario e non possono essere scaricate come [file DIS](https://forums.oracle.com/ords/apexds/post/can-i-download-all-discoverer-workbooks-to-my-computer-4127) direttamente. Tuttavia, i dati possono essere esportati come file EEX, aprirli in Discoverer Desktop e utilizzare l'opzione Salva con nome per salvare i file EEX come file DIS.
 
 ## Formato file DIS - Ulteriori informazioni
 

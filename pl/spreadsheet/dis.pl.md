@@ -23,7 +23,7 @@ Plik DIS to plik skoroszytu utworzony za pomocą oprogramowania [Oracle Discover
 
 ## Jak pobrać skoroszyty programu Discoverer w formacie DIS?
 
-Skoroszyty Oracle Discoverer są przechowywane w bazie danych w formacie binarnym i nie można ich pobrać jako [plików DIS](https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-discoverer -workbooks-to-my-computer) bezpośrednio. Jednak dane można wyeksportować jako pliki EEX, otworzyć je w programie Discoverer Desktop i użyć opcji Zapisz jako, aby zapisać pliki EEX jako pliki DIS.
+Skoroszyty Oracle Discoverer są przechowywane w bazie danych w formacie binarnym i nie można ich pobrać jako [plików DIS](https://forums.oracle.com/ords/apexds/post/can-i-download-all-discoverer-workbooks-to-my-computer-4127) bezpośrednio. Jednak dane można wyeksportować jako pliki EEX, otworzyć je w programie Discoverer Desktop i użyć opcji Zapisz jako, aby zapisać pliki EEX jako pliki DIS.
 
 ## Format pliku DIS — więcej informacji
 

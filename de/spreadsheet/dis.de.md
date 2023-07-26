@@ -23,7 +23,7 @@ Eine DIS-Datei ist eine Arbeitsmappendatei, die mit der Software [Oracle Discove
 
 ## Wie lädt man Discoverer Workbooks im DIS-Format herunter?
 
-Oracle Discoverer Workbooks werden in der Datenbank im Binärformat gespeichert und können nicht als [DIS-Dateien](https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-discoverer -workbooks-to-my-computer) direkt. Daten können jedoch als EEX-Dateien exportiert, in Discoverer Desktop geöffnet und mit der Option Speichern unter die EEX-Dateien als DIS-Dateien gespeichert werden.
+Oracle Discoverer Workbooks werden in der Datenbank im Binärformat gespeichert und können nicht als [DIS-Dateien](https://forums.oracle.com/ords/apexds/post/can-i-download-all-discoverer-workbooks-to-my-computer-4127) direkt. Daten können jedoch als EEX-Dateien exportiert, in Discoverer Desktop geöffnet und mit der Option Speichern unter die EEX-Dateien als DIS-Dateien gespeichert werden.
 
 ## DIS-Dateiformat – Weitere Informationen
 

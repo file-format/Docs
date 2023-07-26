@@ -23,7 +23,7 @@ Een DIS-bestand is een werkmapbestand dat is gemaakt met de software [Oracle Dis
 
 ## Hoe kan ik Discoverer werkboeken downloaden in DIS-formaat?
 
-Oracle Discoverer-werkboeken worden in binaire indeling in de database opgeslagen en kunnen niet worden gedownload als [DIS-bestanden](https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-discoverer -werkmappen-naar-mijn-computer) rechtstreeks. Gegevens kunnen echter worden geëxporteerd als EEX-bestanden, deze openen in Discoverer Desktop en de optie Opslaan als gebruiken om de EEX-bestanden als DIS-bestanden op te slaan.
+Oracle Discoverer-werkboeken worden in binaire indeling in de database opgeslagen en kunnen niet worden gedownload als [DIS-bestanden](https://forums.oracle.com/ords/apexds/post/can-i-download-all-discoverer-workbooks-to-my-computer-4127) rechtstreeks. Gegevens kunnen echter worden geëxporteerd als EEX-bestanden, deze openen in Discoverer Desktop en de optie Opslaan als gebruiken om de EEX-bestanden als DIS-bestanden op te slaan.
 
 ## DIS-bestandsindeling - Meer informatie
 

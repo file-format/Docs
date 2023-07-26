@@ -23,7 +23,7 @@ DIS файлът е файл на работна книга, създаден с
 
 ## Как да изтеглите работни книги на Discoverer във формат DIS?
 
-Работните книги на Oracle Discoverer се съхраняват в базата данни в двоичен формат и не могат да бъдат изтеглени като [DIS файлове](https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-discoverer -workbooks-to-my-computer) директно. Данните обаче могат да бъдат експортирани като EEX файлове, отворете ги в Discoverer Desktop и използвайте опцията Save As, за да запазите EEX файловете като DIS файлове.
+Работните книги на Oracle Discoverer се съхраняват в базата данни в двоичен формат и не могат да бъдат изтеглени като [DIS файлове](https://forums.oracle.com/ords/apexds/post/can-i-download-all-discoverer-workbooks-to-my-computer-4127) директно. Данните обаче могат да бъдат експортирани като EEX файлове, отворете ги в Discoverer Desktop и използвайте опцията Save As, за да запазите EEX файловете като DIS файлове.
 
 ## DIS файлов формат - повече информация
 
