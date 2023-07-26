@@ -35,5 +35,5 @@ ZIPX 파일은 이진 파일로 디스크에 저장되며 내부 파일 형식 �
 ## 참고문헌
 
 * [ZIPX 파일 형식](https://kb.corel.com/en/125951)
-* [ZIPX 파일 추출 방법](https://answers.microsoft.com/en-us/windows/forum/all/i-want-to-extract-zipx-files/32827ca4-ceec-4faf-93d9-d9ecffb1fb41 )
+* [ZIPX 파일 추출 방법](https://answers.microsoft.com/en-us/windows/forum/all/i-want-to-extract-zipx-files/32827ca4-ceec-4faf-93d9-d9ecffb1fb41)
 
