@@ -18,7 +18,7 @@
 }
 
 ## Tệp SHX là gì?
-Tệp SHX thuộc định dạng chỉ mục hình dạng, là chỉ mục vị trí của hình học đối tượng để cho phép tìm kiếm tiến và lùi nhanh chóng. SHX là tệp bù trừ truy cập trực tiếp. Không có dữ liệu trong tệp này, chỉ có một bản sao của hàng trăm byte đầu tiên, số bản ghi và phần bù cho byte bắt đầu của bản ghi đó trong tệp shp. Xin lưu ý rằng tệp có phần mở rộng .shx không liên kết [SHP](/vi/gis/shp) và [DBF](/vi/database/dbf).
+Tệp SHX thuộc định dạng chỉ mục hình dạng, là chỉ mục vị trí của hình học đối tượng để cho phép tìm kiếm tiến và lùi nhanh chóng. SHX là tệp bù trừ truy cập trực tiếp. Không có dữ liệu trong tệp này, chỉ có một bản sao của hàng trăm byte đầu tiên, số bản ghi và phần bù cho byte bắt đầu của bản ghi đó trong tệp shp. Xin lưu ý rằng tệp có phần mở rộng .shx không liên kết [SHP](/vi/gis/shp/) và [DBF](/vi/database/dbf).
 
 ## Định dạng tệp SHX
 Định dạng SHX chứa chỉ mục vị trí của hình dạng đối tượng và tiêu đề 100 byte tương tự như tệp SHP, theo sau là bất kỳ số bản ghi độ dài cố định 8 byte nào chứa hai trường sau:

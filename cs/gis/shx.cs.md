@@ -18,7 +18,7 @@
 }
 
 ## Co je soubor SHX?
-Soubor SHX patří do formátu indexu tvaru, což je poziční index geometrie prvku, který umožňuje rychlé vyhledávání vpřed a vzad. SHX je offsetový soubor s přímým přístupem. V tomto souboru nejsou žádná data, pouze duplikovaná kopie prvních sto bajtů, číslo záznamu a offset na počáteční bajt tohoto záznamu v shp. Vezměte prosím na vědomí, že soubor s příponou .shx nesouvisí s [SHP](/cs/gis/shp) a [DBF](/cs/database/dbf).
+Soubor SHX patří do formátu indexu tvaru, což je poziční index geometrie prvku, který umožňuje rychlé vyhledávání vpřed a vzad. SHX je offsetový soubor s přímým přístupem. V tomto souboru nejsou žádná data, pouze duplikovaná kopie prvních sto bajtů, číslo záznamu a offset na počáteční bajt tohoto záznamu v shp. Vezměte prosím na vědomí, že soubor s příponou .shx nesouvisí s [SHP](/cs/gis/shp/) a [DBF](/cs/database/dbf).
 
 ## Formát souboru SHX
 Formát SHX obsahuje poziční index geometrie prvku a 100bajtové záhlaví podobné souboru SHP, za nímž následuje libovolný počet 8bajtových záznamů pevné délky, které obsahují následující dvě pole:

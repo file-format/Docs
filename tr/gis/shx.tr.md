@@ -18,7 +18,7 @@
 }
 
 ## SHX dosyası nedir?
-SHX dosyası, hızlı bir şekilde ileri ve geri aramayı sağlamak için özellik geometrisinin konumsal bir indeksi olan şekil indeksi formatına aittir. SHX, doğrudan erişim ofset dosyasıdır. Bu dosyada veri yok, sadece ilk yüz baytın kopyası, kayıt numarası ve shp'deki o kaydın başlangıç baytına mahsup var. Lütfen .shx uzantılı dosyanın [SHP](/tr/gis/shp) ve [DBF](/tr/database/dbf)'yi bağlamadığına dikkat edin.
+SHX dosyası, hızlı bir şekilde ileri ve geri aramayı sağlamak için özellik geometrisinin konumsal bir indeksi olan şekil indeksi formatına aittir. SHX, doğrudan erişim ofset dosyasıdır. Bu dosyada veri yok, sadece ilk yüz baytın kopyası, kayıt numarası ve shp'deki o kaydın başlangıç baytına mahsup var. Lütfen .shx uzantılı dosyanın [SHP](/tr/gis/shp/) ve [DBF](/tr/database/dbf)'yi bağlamadığına dikkat edin.
 
 ## SHX dosya formatı
 SHX biçimi, özellik geometrisinin konumsal dizinini ve SHP dosyasına benzer 100 baytlık başlığı ve ardından aşağıdaki iki alanı içeren herhangi bir sayıda 8 baytlık sabit uzunluklu kaydı içerir:

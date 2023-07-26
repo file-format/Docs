@@ -18,7 +18,7 @@
 }
 
 ## Mi az SHX fájl?
-Az SHX fájl a shape index formátumhoz tartozik, amely a jellemző geometriájának helyzeti indexe, amely lehetővé teszi a gyors előre és hátra keresést. Az SHX egy közvetlen hozzáférésű offset fájl. Ebben a fájlban nincs adat, csak az első száz bájt másolata, a rekordszám és az eltolás a rekord kezdő bájtjához az shp-ben. Kérjük, vegye figyelembe, hogy a .shx kiterjesztésű fájl nem köti össze az [SHP](/hu/gis/shp) és a [DBF](/hu/database/dbf) fájlokat.
+Az SHX fájl a shape index formátumhoz tartozik, amely a jellemző geometriájának helyzeti indexe, amely lehetővé teszi a gyors előre és hátra keresést. Az SHX egy közvetlen hozzáférésű offset fájl. Ebben a fájlban nincs adat, csak az első száz bájt másolata, a rekordszám és az eltolás a rekord kezdő bájtjához az shp-ben. Kérjük, vegye figyelembe, hogy a .shx kiterjesztésű fájl nem köti össze az [SHP](/hu/gis/shp/) és a [DBF](/hu/database/dbf) fájlokat.
 
 ## SHX fájlformátum
 Az SHX formátum tartalmazza a jellemzőgeometria pozícióindexét és az SHP-fájlhoz hasonló 100 bájtos fejlécet, majd tetszőleges számú 8 bájtos rögzített hosszúságú rekordot, amely a következő két mezőt tartalmazza:

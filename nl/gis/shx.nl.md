@@ -18,7 +18,7 @@
 }
 
 ## Wat is een SHX-bestand?
-Het SHX-bestand behoort tot het vormindexformaat, een positionele index van de objectgeometrie om snel vooruit en achteruit te kunnen zoeken. De SHX is een offset-bestand met directe toegang. Dit bestand bevat geen gegevens, alleen een duplicaat van de eerste honderd bytes, het recordnummer en de offset naar de startbyte van dat record in de shp. Houd er rekening mee dat het bestand met de extensie .shx de [SHP](/nl/gis/shp) en [DBF](/nl/database/dbf) niet koppelt.
+Het SHX-bestand behoort tot het vormindexformaat, een positionele index van de objectgeometrie om snel vooruit en achteruit te kunnen zoeken. De SHX is een offset-bestand met directe toegang. Dit bestand bevat geen gegevens, alleen een duplicaat van de eerste honderd bytes, het recordnummer en de offset naar de startbyte van dat record in de shp. Houd er rekening mee dat het bestand met de extensie .shx de [SHP](/nl/gis/shp/) en [DBF](/nl/database/dbf) niet koppelt.
 
 ## SHX-bestandsindeling
 Het SHX-formaat bevat een positionele index van de objectgeometrie en een kop van 100 bytes, vergelijkbaar met het SHP-bestand, gevolgd door een willekeurig aantal records van 8 bytes met een vaste lengte die de volgende twee velden bevatten:

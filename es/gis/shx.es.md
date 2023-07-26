@@ -18,7 +18,7 @@
 }
 
 ## ¿Qué es un archivo SHX?
-El archivo SHX pertenece al formato de índice de forma, que es un índice posicional de la geometría característica para permitir buscar hacia adelante y hacia atrás rápidamente. El SHX es un archivo de compensación de acceso directo. No hay datos en este archivo, solo una copia duplicada de los primeros cien bytes, el número de registro y el desplazamiento al byte inicial de ese registro en el shp. Tenga en cuenta que el archivo con la extensión .shx no vincula [SHP](/es/gis/shp) y [DBF](/es/database/dbf).
+El archivo SHX pertenece al formato de índice de forma, que es un índice posicional de la geometría característica para permitir buscar hacia adelante y hacia atrás rápidamente. El SHX es un archivo de compensación de acceso directo. No hay datos en este archivo, solo una copia duplicada de los primeros cien bytes, el número de registro y el desplazamiento al byte inicial de ese registro en el shp. Tenga en cuenta que el archivo con la extensión .shx no vincula [SHP](/es/gis/shp/) y [DBF](/es/database/dbf).
 
 ## formato de archivo SHX
 El formato SHX contiene un índice posicional de la geometría característica y un encabezado de 100 bytes similar al archivo SHP, seguido de cualquier número de registros de longitud fija de 8 bytes que contienen los dos campos siguientes:

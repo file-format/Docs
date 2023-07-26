@@ -18,7 +18,7 @@
 }
 
 ## Apa itu file SHX?
-File SHX milik format indeks bentuk yang merupakan indeks posisi dari geometri fitur untuk memungkinkan mencari maju dan mundur dengan cepat. SHX adalah file offset akses langsung. Tidak ada data dalam file ini, hanya salinan duplikat dari seratus byte pertama, nomor record dan offset ke byte awal dari record tersebut di shp. Perhatikan bahwa file dengan ekstensi .shx tidak mengikat [SHP](/id/gis/shp) dan [DBF](/id/database/dbf).
+File SHX milik format indeks bentuk yang merupakan indeks posisi dari geometri fitur untuk memungkinkan mencari maju dan mundur dengan cepat. SHX adalah file offset akses langsung. Tidak ada data dalam file ini, hanya salinan duplikat dari seratus byte pertama, nomor record dan offset ke byte awal dari record tersebut di shp. Perhatikan bahwa file dengan ekstensi .shx tidak mengikat [SHP](/id/gis/shp/) dan [DBF](/id/database/dbf).
 
 ## format file SHX
 Format SHX berisi indeks posisi dari geometri fitur dan header 100-byte yang mirip dengan file SHP, diikuti oleh sejumlah record dengan panjang tetap 8-byte yang berisi dua bidang berikut:
