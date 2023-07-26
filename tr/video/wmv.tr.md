@@ -70,7 +70,7 @@ WMV-9, aşağıda listelenen çeşitli tekniklerin tanıtılmasıyla bu sorunu e
 
 ## Referanslar ##
 
-* [https://bytescout.com/blog/2014/10/windows-media-video-format.html](https://bytescout.com/blog/2014/10/windows-media-video-format.html )
+* [https://bytescout.com/blog/2018/02/windows-media-video-format.html](https://bytescout.com/blog/2018/02/windows-media-video-format.html)
 * [https://en.wikipedia.org/wiki/Windows_Media_Video](https://en.wikipedia.org/wiki/Windows_Media_Video)
 
 
