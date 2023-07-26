@@ -19,7 +19,7 @@
 
 ## 什么是 SQLite 文件？
 
-带有 .sqlite 扩展名的文件是使用 [SQLite](https://www.sqlite.org/index.html) 软件创建的轻量级 SQL 数据库文件。它是一个文件本身的数据库，实现了一个自包含、功能齐全、高可靠的[SQL](/zh/database/sql/)数据库引擎。通过简单地通过网络交换这些文件，SQLite 数据库文件可用于在系统之间共享丰富的内容。几乎所有的手机和电脑都使用 SQLite 来存储和共享数据，是跨平台应用程序的文件格式选择。由于其紧凑的使用和易用性，它捆绑在其他应用程序中。 SQLite 绑定存在于编程语言中，例如 C、[C#](/zh/programming/cs)、[C++](/zh/programming/cpp)、[Java](/zh/programming/java/)、[PHP](/zh/programming/php/ ) 和许多其他人。
+带有 .sqlite 扩展名的文件是使用 [SQLite](https://www.sqlite.org/index.html) 软件创建的轻量级 SQL 数据库文件。它是一个文件本身的数据库，实现了一个自包含、功能齐全、高可靠的[SQL](/zh/database/sql/)数据库引擎。通过简单地通过网络交换这些文件，SQLite 数据库文件可用于在系统之间共享丰富的内容。几乎所有的手机和电脑都使用 SQLite 来存储和共享数据，是跨平台应用程序的文件格式选择。由于其紧凑的使用和易用性，它捆绑在其他应用程序中。 SQLite 绑定存在于编程语言中，例如 C、[C#](/zh/programming/cs/)、[C++](/zh/programming/cpp)、[Java](/zh/programming/java/)、[PHP](/zh/programming/php/ ) 和许多其他人。
 
 ## SQLite 文件格式
 

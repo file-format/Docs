@@ -19,7 +19,7 @@
 
 ## SQLite 파일이란?
 
-.sqlite 확장자를 가진 파일은 [SQLite](https://www.sqlite.org/index.html) 소프트웨어로 생성된 경량 SQL 데이터베이스 파일입니다. 파일 자체에 있는 데이터베이스이며 모든 기능을 갖춘 독립형 고신뢰성 [SQL](/ko/database/sql/) 데이터베이스 엔진을 구현합니다. SQLite 데이터베이스 파일은 네트워크를 통해 이러한 파일을 간단히 교환함으로써 시스템 간에 풍부한 콘텐츠를 공유하는 데 사용할 수 있습니다. 거의 모든 모바일 및 컴퓨터는 데이터 저장 및 공유를 위해 SQLite를 사용하며 크로스 플랫폼 애플리케이션을 위한 파일 형식의 선택입니다. 컴팩트한 사용과 쉬운 사용성으로 인해 다른 애플리케이션에 번들로 제공됩니다. SQLite 바인딩은 C, [C#](/ko/programming/cs), [C++](/ko/programming/cpp), [Java](/ko/programming/java/), [PHP](/ko/programming/php/와 같은 프로그래밍 언어에 대해 존재합니다. ), 그리고 많은 다른 사람들.
+.sqlite 확장자를 가진 파일은 [SQLite](https://www.sqlite.org/index.html) 소프트웨어로 생성된 경량 SQL 데이터베이스 파일입니다. 파일 자체에 있는 데이터베이스이며 모든 기능을 갖춘 독립형 고신뢰성 [SQL](/ko/database/sql/) 데이터베이스 엔진을 구현합니다. SQLite 데이터베이스 파일은 네트워크를 통해 이러한 파일을 간단히 교환함으로써 시스템 간에 풍부한 콘텐츠를 공유하는 데 사용할 수 있습니다. 거의 모든 모바일 및 컴퓨터는 데이터 저장 및 공유를 위해 SQLite를 사용하며 크로스 플랫폼 애플리케이션을 위한 파일 형식의 선택입니다. 컴팩트한 사용과 쉬운 사용성으로 인해 다른 애플리케이션에 번들로 제공됩니다. SQLite 바인딩은 C, [C#](/ko/programming/cs/), [C++](/ko/programming/cpp), [Java](/ko/programming/java/), [PHP](/ko/programming/php/와 같은 프로그래밍 언어에 대해 존재합니다. ), 그리고 많은 다른 사람들.
 
 ## SQLite 파일 형식
 
