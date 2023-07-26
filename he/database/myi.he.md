@@ -51,5 +51,5 @@ CREATE [UNIQUE] INDEX.
 
 ## הפניות ##
 
-- [קובץ ה-.MYI](https://dev.mysql.com/doc/internals/en/the-myi-file.html)
+- [קובץ ה-.MYI](https://dev.mysql.com/doc/dev/mysql-server/latest/)
 

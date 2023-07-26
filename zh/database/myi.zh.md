@@ -51,5 +51,5 @@ myisamdef.h 文件包含以下以常量表示的信息。键的最大数量为 3
 
 ## 参考 ＃＃
 
-- [.MYI 文件](https://dev.mysql.com/doc/internals/en/the-myi-file.html)
+- [.MYI 文件](https://dev.mysql.com/doc/dev/mysql-server/latest/)
 

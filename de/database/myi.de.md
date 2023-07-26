@@ -51,5 +51,5 @@ Die Datei myisamdef.h enthält die folgenden Informationen, ausgedrückt in Kons
 
 ## Verweise ##
 
-- [Die .MYI-Datei](https://dev.mysql.com/doc/internals/en/the-myi-file.html)
+- [Die .MYI-Datei](https://dev.mysql.com/doc/dev/mysql-server/latest/)
 

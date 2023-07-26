@@ -51,5 +51,5 @@ myisamdef.h ファイルには、定数で表現された次の情報が含ま�
 
 ## 参照 ##
 
-- [.MYI ファイル](https://dev.mysql.com/doc/internals/en/the-myi-file.html)
+- [.MYI ファイル](https://dev.mysql.com/doc/dev/mysql-server/latest/)
 

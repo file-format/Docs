@@ -51,5 +51,5 @@ Plik myisamdef.h zawiera następujące informacje wyrażone w stałych. Maksymal
 
 ## Bibliografia ##
 
-- [Plik .MYI](https://dev.mysql.com/doc/internals/en/the-myi-file.html)
+- [Plik .MYI](https://dev.mysql.com/doc/dev/mysql-server/latest/)
 

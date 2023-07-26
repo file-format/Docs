@@ -51,5 +51,5 @@ Fișierul myisamdef.h conține următoarele informații exprimate în constante.
 
 ## Referințe ##
 
-- [Fișierul .MYI](https://dev.mysql.com/doc/internals/en/the-myi-file.html)
+- [Fișierul .MYI](https://dev.mysql.com/doc/dev/mysql-server/latest/)
 

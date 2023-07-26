@@ -51,5 +51,5 @@ Myisamdef.h-filen innehåller följande information uttryckt i konstanter. Det m
 
 ## Referenser ##
 
-- [.MYI-filen](https://dev.mysql.com/doc/internals/en/the-myi-file.html)
+- [.MYI-filen](https://dev.mysql.com/doc/dev/mysql-server/latest/)
 

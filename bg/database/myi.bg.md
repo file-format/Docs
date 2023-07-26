@@ -51,5 +51,5 @@ CREATE [UNIQUE] INDEX.
 
 ## Препратки ##
 
-- [Файлът .MYI](https://dev.mysql.com/doc/internals/en/the-myi-file.html)
+- [Файлът .MYI](https://dev.mysql.com/doc/dev/mysql-server/latest/)
 

@@ -51,5 +51,5 @@ CREATE [UNIQUE] INDEX.
 
 ## อ้างอิง ##
 
-- [ไฟล์ .MYI](https://dev.mysql.com/doc/internals/en/the-myi-file.html)
+- [ไฟล์ .MYI](https://dev.mysql.com/doc/dev/mysql-server/latest/)
 

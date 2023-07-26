@@ -51,5 +51,5 @@ File myisamdef.h berisi informasi berikut yang dinyatakan dalam konstanta. Jumla
 
 ## Referensi ##
 
-- [File .MYI](https://dev.mysql.com/doc/internals/en/the-myi-file.html)
+- [File .MYI](https://dev.mysql.com/doc/dev/mysql-server/latest/)
 
