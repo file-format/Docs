@@ -27,5 +27,5 @@ DO-bestanden worden opgeslagen als webbestanden die in de browser worden geopend
 
 ## Referenties
 
-* [DML](http://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
+* [DML](https://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
 

@@ -27,5 +27,5 @@ I file DO vengono salvati come file Web che vengono aperti nel browser quando un
 
 ## Riferimenti
 
-* [DML](http://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
+* [DML](https://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
 

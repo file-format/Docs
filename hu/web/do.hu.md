@@ -27,5 +27,5 @@ A DO fájlok webfájlokként kerülnek mentésre, amelyek akkor nyílnak meg a b
 
 ## Hivatkozások
 
-* [DML](http://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
+* [DML](https://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
 

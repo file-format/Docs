@@ -27,5 +27,5 @@ Các tệp DO được lưu dưới dạng tệp web được mở trong trình 
 
 ## Người giới thiệu
 
-* [DML](http://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
+* [DML](https://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
 

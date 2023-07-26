@@ -27,5 +27,5 @@ Os arquivos DO são salvos como arquivos da Web que são abertos no navegador qu
 
 ## Referências
 
-* [DML](http://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
+* [DML](https://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
 

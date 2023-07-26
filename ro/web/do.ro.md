@@ -27,5 +27,5 @@ Fișierele DO sunt salvate ca fișiere web care sunt deschise în browser atunci
 
 ## Referințe
 
-* [DML](http://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
+* [DML](https://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
 

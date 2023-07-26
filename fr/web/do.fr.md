@@ -27,5 +27,5 @@ Les fichiers DO sont enregistrés en tant que fichiers Web ouverts dans le navig
 
 ## Références
 
-* [DML](http://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
+* [DML](https://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
 

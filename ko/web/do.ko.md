@@ -27,5 +27,5 @@ DO 파일은 사용자가 서버에 요청을 보낼 때 브라우저에서 열�
 
 ## 참고문헌
 
-* [DML](http://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
+* [DML](https://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
 

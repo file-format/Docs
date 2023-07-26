@@ -27,5 +27,5 @@ DO ファイルは、ユーザーがサーバーにリクエストを送信し�
 
 ## 参考文献
 
-* [DML](http://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
+* [DML](https://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
 
