@@ -34,9 +34,9 @@ No exemplo a seguir de código ZUML, a primeira linha especifica o título da p�
 <window title="Super Hello" border="normal">
     <button label="hi" onClick='alert("hi")'/>
 ```
-O esquema ZUL pode ser baixado em http://www.zkoss.org/2005/zul/zul.xsd.
+O esquema ZUL pode ser baixado em https://www.zkoss.org/2005/zul/zul.xsd.
 ## Referências
 
 * [ZUL - Por ZK](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
-* [Esquema ZUL](http://www.zkoss.org/2005/zul/zul.xsd)
+* [Esquema ZUL](https://www.zkoss.org/2005/zul/zul.xsd)
 

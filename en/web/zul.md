@@ -34,8 +34,8 @@ In the following example of ZUML code, the first line specifies the page title, 
 <window title="Super Hello" border="normal">
     <button label="hi" onClick='alert("hi")'/>
 ```
-The ZUL schema can be downloaded from http://www.zkoss.org/2005/zul/zul.xsd.
+The ZUL schema can be downloaded from https://www.zkoss.org/2005/zul/zul.xsd.
 ## References
 
 * [ZUL - By ZK](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
-* [ZUL Schema](http://www.zkoss.org/2005/zul/zul.xsd)
+* [ZUL Schema](https://www.zkoss.org/2005/zul/zul.xsd)

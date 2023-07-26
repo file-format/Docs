@@ -34,9 +34,9 @@ ZUL 文件是基于 XML 的，由用于构建用户界面的不同元素组成�
 <window title="Super Hello" border="normal">
     <button label="hi" onClick='alert("hi")'/>
 ```
-ZUL 模式可以从 http://www.zkoss.org/2005/zul/zul.xsd 下载。
+ZUL 模式可以从 https://www.zkoss.org/2005/zul/zul.xsd 下载。
 ## 参考
 
 * [ZUL - ZK](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
-* [ZUL 架构](http://www.zkoss.org/2005/zul/zul.xsd)
+* [ZUL 架构](https://www.zkoss.org/2005/zul/zul.xsd)
 

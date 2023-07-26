@@ -34,9 +34,9 @@ ZUL ファイルは XML ベースであり、ユーザー インターフェイ�
 <window title="Super Hello" border="normal">
     <button label="hi" onClick='alert("hi")'/>
 ```
-ZUL スキーマは、http://www.zkoss.org/2005/zul/zul.xsd からダウンロードできます。
+ZUL スキーマは、https://www.zkoss.org/2005/zul/zul.xsd からダウンロードできます。
 ## 参考文献
 
 * [ZUL - ZKによる](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
-* [ZUL スキーマ](http://www.zkoss.org/2005/zul/zul.xsd)
+* [ZUL スキーマ](https://www.zkoss.org/2005/zul/zul.xsd)
 

@@ -34,9 +34,9 @@ I följande exempel på ZUML-kod anger den första raden sidtiteln, den andra ra
 <window title="Super Hello" border="normal">
     <button label="hi" onClick='alert("hi")'/>
 ```
-ZUL-schemat kan laddas ner från http://www.zkoss.org/2005/zul/zul.xsd.
+ZUL-schemat kan laddas ner från https://www.zkoss.org/2005/zul/zul.xsd.
 ## Referenser
 
 * [ZUL - Av ZK](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
-* [ZUL Schema](http://www.zkoss.org/2005/zul/zul.xsd)
+* [ZUL Schema](https://www.zkoss.org/2005/zul/zul.xsd)
 

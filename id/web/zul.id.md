@@ -34,9 +34,9 @@ Dalam contoh kode ZUML berikut, baris pertama menentukan judul halaman, baris ke
 <window title="Super Hello" border="normal">
     <button label="hi" onClick='alert("hi")'/>
 ```
-Skema ZUL dapat diunduh dari http://www.zkoss.org/2005/zul/zul.xsd.
+Skema ZUL dapat diunduh dari https://www.zkoss.org/2005/zul/zul.xsd.
 ## Referensi
 
 * [ZUL - Oleh ZK](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
-* [Skema ZUL](http://www.zkoss.org/2005/zul/zul.xsd)
+* [Skema ZUL](https://www.zkoss.org/2005/zul/zul.xsd)
 

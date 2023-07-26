@@ -34,9 +34,9 @@ ZUL 파일은 사용자 인터페이스를 구성하는 다양한 요소로 구�
 <window title="Super Hello" border="normal">
     <button label="hi" onClick='alert("hi")'/>
 ```
-ZUL 스키마는 http://www.zkoss.org/2005/zul/zul.xsd에서 다운로드할 수 있습니다.
+ZUL 스키마는 https://www.zkoss.org/2005/zul/zul.xsd에서 다운로드할 수 있습니다.
 ## 참고문헌
 
 * [ZUL - ZK 작성](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
-* [ZUL 스키마](http://www.zkoss.org/2005/zul/zul.xsd)
+* [ZUL 스키마](https://www.zkoss.org/2005/zul/zul.xsd)
 

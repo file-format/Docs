@@ -34,9 +34,9 @@
 <window title="Super Hello" border="normal">
     <button label="hi" onClick='alert("hi")'/>
 ```
-สามารถดาวน์โหลด ZUL schema ได้จาก http://www.zkoss.org/2005/zul/zul.xsd
+สามารถดาวน์โหลด ZUL schema ได้จาก https://www.zkoss.org/2005/zul/zul.xsd
 ## อ้างอิง
 
 * [ZUL - โดย ZK](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
-* [สคีมา ZUL](http://www.zkoss.org/2005/zul/zul.xsd)
+* [สคีมา ZUL](https://www.zkoss.org/2005/zul/zul.xsd)
 

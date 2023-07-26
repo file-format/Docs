@@ -34,9 +34,9 @@ Im folgenden Beispiel für ZUML-Code gibt die erste Zeile den Seitentitel an, di
 <window title="Super Hello" border="normal">
     <button label="hi" onClick='alert("hi")'/>
 ```
-Das ZUL-Schema kann von http://www.zkoss.org/2005/zul/zul.xsd heruntergeladen werden.
+Das ZUL-Schema kann von https://www.zkoss.org/2005/zul/zul.xsd heruntergeladen werden.
 ## Verweise
 
 * [ZUL - Von ZK](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
-* [ZUL-Schema](http://www.zkoss.org/2005/zul/zul.xsd)
+* [ZUL-Schema](https://www.zkoss.org/2005/zul/zul.xsd)
 

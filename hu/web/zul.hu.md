@@ -34,9 +34,9 @@ A ZUML kód következő példájában az első sor az oldal címét adja meg, a 
 <window title="Super Hello" border="normal">
     <button label="hi" onClick='alert("hi")'/>
 ```
-A ZUL séma letölthető a http://www.zkoss.org/2005/zul/zul.xsd címről.
+A ZUL séma letölthető a https://www.zkoss.org/2005/zul/zul.xsd címről.
 ## Hivatkozások
 
 * [ZUL – ZK által](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
-* [ZUL-séma](http://www.zkoss.org/2005/zul/zul.xsd)
+* [ZUL-séma](https://www.zkoss.org/2005/zul/zul.xsd)
 

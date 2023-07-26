@@ -34,9 +34,9 @@
 <window title="Super Hello" border="normal">
     <button label="hi" onClick='alert("hi")'/>
 ```
-ניתן להוריד את סכימת ZUL מהכתובת http://www.zkoss.org/2005/zul/zul.xsd.
+ניתן להוריד את סכימת ZUL מהכתובת https://www.zkoss.org/2005/zul/zul.xsd.
 ## הפניות
 
 * [ZUL - מאת ZK](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
-* [סכימה ZUL](http://www.zkoss.org/2005/zul/zul.xsd)
+* [סכימה ZUL](https://www.zkoss.org/2005/zul/zul.xsd)
 
