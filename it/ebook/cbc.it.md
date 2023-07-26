@@ -19,7 +19,7 @@
 
 ## Che cos'è un file CBC?
 
-Un file con estensione .cbc è una raccolta compressa di file di fumetti per eBook e contiene file [CBZ](/it/ebook/cbz/) e [CBR](/it/ebook/cbr/). È utilizzato da [Calibre](https://calibre-ebook.com/), un'applicazione di conversione di eBook, che è un gestore di e-book open source multipiattaforma e ti consente di gestire i tuoi ebook e convertirli in diversi formati . Un file CBC contiene un file .txt, comics.txt, che elenca altri file che fanno parte dell'archivio. Sono disponibili diverse applicazioni online in grado di convertire file CBC in [AZW3](/it/ebook/azw3), [EPUB](/it/ebook/epub/), [FB2](/it/ebook/fb2/), [MOBI](/it/ebook/ mobi/), [TXT](/it/elaborazione testi/txt/), [PDF](/it/pdf/) e altri formati di file popolari.
+Un file con estensione .cbc è una raccolta compressa di file di fumetti per eBook e contiene file [CBZ](/it/ebook/cbz/) e [CBR](/it/ebook/cbr/). È utilizzato da [Calibre](https://calibre-ebook.com/), un'applicazione di conversione di eBook, che è un gestore di e-book open source multipiattaforma e ti consente di gestire i tuoi ebook e convertirli in diversi formati . Un file CBC contiene un file .txt, comics.txt, che elenca altri file che fanno parte dell'archivio. Sono disponibili diverse applicazioni online in grado di convertire file CBC in [AZW3](/it/ebook/azw3/), [EPUB](/it/ebook/epub/), [FB2](/it/ebook/fb2/), [MOBI](/it/ebook/ mobi/), [TXT](/it/elaborazione testi/txt/), [PDF](/it/pdf/) e altri formati di file popolari.
 
 ## Formato file CBC
 

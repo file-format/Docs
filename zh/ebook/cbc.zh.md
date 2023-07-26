@@ -19,7 +19,7 @@
 
 ## 什么是一 .CBC 文件？
 
-扩展名为 .cbc 的文件是用于电子书的漫画书文件的压缩集合，包含 [CBZ](/zh/ebook/cbz/) 和 [CBR](/zh/ebook/cbr/) 文件。它被 [Calibre](https://calibre-ebook.com/) 使用，这是一个电子书转换应用程序，它是一个跨平台的开源电子书管理器，可让您管理您的电子书并将其转换为不同的格式. CBC 文件包含一个 .txt 文件，comics.txt，其中列出了存档中的其他文件。有几个在线应用程序可以将 CBC 文件转换为 [AZW3](/zh/ebook/azw3)、[EPUB](/zh/ebook/epub/)、[FB2](/zh/ebook/fb2/)、[MOBI](/zh/ebook/ mobi/)、[TXT](/zh/word-processing/txt/)、[PDF](/zh/pdf/) 和其他流行的文件格式。
+扩展名为 .cbc 的文件是用于电子书的漫画书文件的压缩集合，包含 [CBZ](/zh/ebook/cbz/) 和 [CBR](/zh/ebook/cbr/) 文件。它被 [Calibre](https://calibre-ebook.com/) 使用，这是一个电子书转换应用程序，它是一个跨平台的开源电子书管理器，可让您管理您的电子书并将其转换为不同的格式. CBC 文件包含一个 .txt 文件，comics.txt，其中列出了存档中的其他文件。有几个在线应用程序可以将 CBC 文件转换为 [AZW3](/zh/ebook/azw3/)、[EPUB](/zh/ebook/epub/)、[FB2](/zh/ebook/fb2/)、[MOBI](/zh/ebook/ mobi/)、[TXT](/zh/word-processing/txt/)、[PDF](/zh/pdf/) 和其他流行的文件格式。
 
 ## CBC 文件格式
 

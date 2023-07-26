@@ -19,7 +19,7 @@
 
 ## .CBC オプション番号
 
-拡張子が .cbc のファイルは、電子書籍用の Comic Book ファイルの圧縮コレクションであり、[CBZ](/ebook/cbz/) および [CBR](/ebook/cbr/) ファイルが含まれています。 [Calibre](https://calibre-ebook.com/) で使用されます。これは、クロスプラットフォームのオープンソース電子書籍マネージャーである電子書籍変換アプリケーションであり、電子書籍を管理し、これらをさまざまな形式に変換できます。 . CBC ファイルには、アーカイブの一部である他のファイルをリストする .txt ファイル、comics.txt が含まれています。 CBC ファイルを [AZW3](/ebook/azw3)、[EPUB](/ebook/epub/)、[FB2](/ebook/fb2/)、[MOBI](/ebook/) に変換できるいくつかのアプリケーションがオンラインで入手できます。 mobi/)、[TXT](/word-processing/txt/)、[PDF](/pdf/)、およびその他の一般的なファイル形式。
+拡張子が .cbc のファイルは、電子書籍用の Comic Book ファイルの圧縮コレクションであり、[CBZ](/ebook/cbz/) および [CBR](/ebook/cbr/) ファイルが含まれています。 [Calibre](https://calibre-ebook.com/) で使用されます。これは、クロスプラットフォームのオープンソース電子書籍マネージャーである電子書籍変換アプリケーションであり、電子書籍を管理し、これらをさまざまな形式に変換できます。 . CBC ファイルには、アーカイブの一部である他のファイルをリストする .txt ファイル、comics.txt が含まれています。 CBC ファイルを [AZW3](/ebook/azw3/)、[EPUB](/ebook/epub/)、[FB2](/ebook/fb2/)、[MOBI](/ebook/) に変換できるいくつかのアプリケーションがオンラインで入手できます。 mobi/)、[TXT](/word-processing/txt/)、[PDF](/pdf/)、およびその他の一般的なファイル形式。
 
 ## CBC ファイル形式
 

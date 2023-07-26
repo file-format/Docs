@@ -19,7 +19,7 @@
 
 ## Was ist eine CBC-Datei?
 
-Eine Datei mit der Erweiterung .cbc ist eine komprimierte Sammlung von Comicbuchdateien für eBooks und enthält [CBZ](/de/ebook/cbz/)- und [CBR](/de/ebook/cbr/)-Dateien. Es wird von [Calibre](https://calibre-ebook.com/) verwendet, einer eBook-Konvertierungsanwendung, einem plattformübergreifenden Open-Source-E-Book-Manager, mit dem Sie Ihre eBooks verwalten und in verschiedene Formate konvertieren können . Eine CBC-Datei enthält eine .txt-Datei, comics.txt, die andere Dateien auflistet, die Teil des Archivs sind. Mehrere Anwendungen sind online verfügbar, die CBC-Dateien in [AZW3](/de/ebook/azw3), [EPUB](/de/ebook/epub/), [FB2](/de/ebook/fb2/), [MOBI](/de/ebook/ mobi/), [TXT](/de/word-processing/txt/), [PDF](/de/pdf/) und andere gängige Dateiformate.
+Eine Datei mit der Erweiterung .cbc ist eine komprimierte Sammlung von Comicbuchdateien für eBooks und enthält [CBZ](/de/ebook/cbz/)- und [CBR](/de/ebook/cbr/)-Dateien. Es wird von [Calibre](https://calibre-ebook.com/) verwendet, einer eBook-Konvertierungsanwendung, einem plattformübergreifenden Open-Source-E-Book-Manager, mit dem Sie Ihre eBooks verwalten und in verschiedene Formate konvertieren können . Eine CBC-Datei enthält eine .txt-Datei, comics.txt, die andere Dateien auflistet, die Teil des Archivs sind. Mehrere Anwendungen sind online verfügbar, die CBC-Dateien in [AZW3](/de/ebook/azw3/), [EPUB](/de/ebook/epub/), [FB2](/de/ebook/fb2/), [MOBI](/de/ebook/ mobi/), [TXT](/de/word-processing/txt/), [PDF](/de/pdf/) und andere gängige Dateiformate.
 
 ## CBC-Dateiformat
 

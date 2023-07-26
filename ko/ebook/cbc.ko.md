@@ -19,7 +19,7 @@
 
 ## .CBC 파일이란?
 
-확장자가 .cbc인 파일은 eBook용 만화책 파일의 압축 모음이며 [CBZ](/ko/ebook/cbz/) 및 [CBR](/ko/ebook/cbr/) 파일을 포함합니다. 크로스 플랫폼 오픈 소스 전자책 관리자인 [Calibre](https://calibre-ebook.com/)에서 사용되며 전자책을 관리하고 다양한 형식으로 변환할 수 있는 크로스 플랫폼 오픈 소스 전자책 관리자입니다. . CBC 파일에는 아카이브의 일부인 다른 파일을 나열하는 .txt 파일인 comics.txt가 포함되어 있습니다. CBC 파일을 [AZW3](/ko/ebook/azw3), [EPUB](/ko/ebook/epub/), [FB2](/ko/ebook/fb2/), [MOBI](/ko/ebook/)로 변환할 수 있는 여러 응용 프로그램을 온라인에서 사용할 수 있습니다. mobi/), [TXT](/ko/word-processing/txt/), [PDF](/ko/pdf/) 및 기타 널리 사용되는 파일 형식.
+확장자가 .cbc인 파일은 eBook용 만화책 파일의 압축 모음이며 [CBZ](/ko/ebook/cbz/) 및 [CBR](/ko/ebook/cbr/) 파일을 포함합니다. 크로스 플랫폼 오픈 소스 전자책 관리자인 [Calibre](https://calibre-ebook.com/)에서 사용되며 전자책을 관리하고 다양한 형식으로 변환할 수 있는 크로스 플랫폼 오픈 소스 전자책 관리자입니다. . CBC 파일에는 아카이브의 일부인 다른 파일을 나열하는 .txt 파일인 comics.txt가 포함되어 있습니다. CBC 파일을 [AZW3](/ko/ebook/azw3/), [EPUB](/ko/ebook/epub/), [FB2](/ko/ebook/fb2/), [MOBI](/ko/ebook/)로 변환할 수 있는 여러 응용 프로그램을 온라인에서 사용할 수 있습니다. mobi/), [TXT](/ko/word-processing/txt/), [PDF](/ko/pdf/) 및 기타 널리 사용되는 파일 형식.
 
 ## CBC 파일 형식
 
