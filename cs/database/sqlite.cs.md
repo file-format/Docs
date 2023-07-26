@@ -19,7 +19,7 @@
 
 ## Co je soubor SQLite?
 
-Soubor s příponou .sqlite je odlehčený databázový soubor SQL vytvořený pomocí softwaru [SQLite](https://www.sqlite.org/index.html). Jedná se o databázi v samotném souboru a implementuje samostatný, plně vybavený a vysoce spolehlivý databázový stroj [SQL](/cs/database/sql/). Databázové soubory SQLite lze použít ke sdílení bohatého obsahu mezi systémy jednoduchou výměnou těchto souborů po síti. Téměř všechny mobily a počítače používají SQLite pro ukládání a sdílení dat a je to volba formátu souboru pro multiplatformní aplikace. Vzhledem ke svému kompaktnímu použití a snadné použitelnosti je součástí jiných aplikací. SQLite vazby existují pro programovací jazyky jako C, [C#](/cs/programming/cs/), [C++](/cs/programming/cpp/), [Java](/cs/programming/java/), [PHP](/cs/programming/php/ ), a mnoho dalších.
+Soubor s příponou .sqlite je odlehčený databázový soubor SQL vytvořený pomocí softwaru [SQLite](https://www.sqlite.org/index.html). Jedná se o databázi v samotném souboru a implementuje samostatný, plně vybavený a vysoce spolehlivý databázový stroj [SQL](/cs/database/sql/). Databázové soubory SQLite lze použít ke sdílení bohatého obsahu mezi systémy jednoduchou výměnou těchto souborů po síti. Téměř všechny mobily a počítače používají SQLite pro ukládání a sdílení dat a je to volba formátu souboru pro multiplatformní aplikace. Vzhledem ke svému kompaktnímu použití a snadné použitelnosti je součástí jiných aplikací. SQLite vazby existují pro programovací jazyky jako C, [C#](/cs/programming/cs/), [C++](/cs/programming/cpp/), [Java](/cs/programming/java/), [PHP](/cs/programming/php/), a mnoho dalších.
 
 ## Formát souboru SQLite
 
