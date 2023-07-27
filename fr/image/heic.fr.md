@@ -23,7 +23,7 @@ Un fichier HEIC est un format de fichier d'image de conteneur à haute efficacit
 
 ## Format de fichier HEIC
 
-HEIC est basé sur le format de fichier HEIF et utilise la norme HEVC (également connue sous le nom de H.265) pour obtenir une taille de fichier compacte sans compromettre la qualité. Lorsqu'une image est prise sur un appareil iOS (tel qu'un iPhone, un iPad ou un MacOS), elle est stockée sous forme de fichier HEIC sur ces appareils. HEIC est un format de conteneur qui peut stocker une ou plusieurs images avec des métadonnées décrivant chaque image. Un tel exemple de métadonnées est [EXIF](/fr/image/exif) qui inclut les informations de marquage et de métadonnées avec le fichier image.
+HEIC est basé sur le format de fichier HEIF et utilise la norme HEVC (également connue sous le nom de H.265) pour obtenir une taille de fichier compacte sans compromettre la qualité. Lorsqu'une image est prise sur un appareil iOS (tel qu'un iPhone, un iPad ou un MacOS), elle est stockée sous forme de fichier HEIC sur ces appareils. HEIC est un format de conteneur qui peut stocker une ou plusieurs images avec des métadonnées décrivant chaque image. Un tel exemple de métadonnées est [EXIF](/fr/image/exif/) qui inclut les informations de marquage et de métadonnées avec le fichier image.
 
 ### Stockage de données HEIF
 

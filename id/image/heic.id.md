@@ -23,7 +23,7 @@ File HEIC adalah format file Gambar Kontainer Efisiensi Tinggi yang dapat menyim
 
 ## Format File HEIC
 
-HEIC didasarkan pada format file HEIF dan menggunakan standar HEVC (juga dikenal sebagai H.265) untuk mendapatkan ukuran file yang ringkas tanpa mengorbankan kualitas. Saat gambar diambil di perangkat iOS (seperti iPhone, iPad, atau MacOS), gambar tersebut disimpan sebagai file HEIC ke perangkat tersebut. HEIC adalah format wadah yang dapat menyimpan satu atau beberapa gambar bersama dengan meta data yang menjelaskan setiap gambar. Salah satu contoh metadata tersebut adalah [EXIF](/id/image/exif) yang menyertakan informasi penandaan dan metadata dengan file gambar.
+HEIC didasarkan pada format file HEIF dan menggunakan standar HEVC (juga dikenal sebagai H.265) untuk mendapatkan ukuran file yang ringkas tanpa mengorbankan kualitas. Saat gambar diambil di perangkat iOS (seperti iPhone, iPad, atau MacOS), gambar tersebut disimpan sebagai file HEIC ke perangkat tersebut. HEIC adalah format wadah yang dapat menyimpan satu atau beberapa gambar bersama dengan meta data yang menjelaskan setiap gambar. Salah satu contoh metadata tersebut adalah [EXIF](/id/image/exif/) yang menyertakan informasi penandaan dan metadata dengan file gambar.
 
 ### Penyimpanan Data HEIF
 

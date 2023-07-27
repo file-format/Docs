@@ -23,7 +23,7 @@ Een HEIC-bestand is een High-Efficiency Container Image-bestandsindeling die mee
 
 ## HEIC-bestandsindeling
 
-HEIC is gebaseerd op het HEIF-bestandsformaat en gebruikt de HEVC-standaard (ook bekend als H.265) om een compacte bestandsgrootte te bereiken zonder afbreuk te doen aan de kwaliteit. Wanneer een afbeelding wordt gemaakt op een iOS-apparaat (zoals een iPhone, iPad of MacOS), wordt deze als HEIC-bestand op deze apparaten opgeslagen. HEIC is een containerformaat dat enkele of meerdere afbeeldingen kan opslaan, samen met metagegevens die elke afbeelding beschrijven. Een voorbeeld van zo'n metadata is [EXIF](/nl/image/exif) die de tagging en metadata-informatie bij het afbeeldingsbestand bevat.
+HEIC is gebaseerd op het HEIF-bestandsformaat en gebruikt de HEVC-standaard (ook bekend als H.265) om een compacte bestandsgrootte te bereiken zonder afbreuk te doen aan de kwaliteit. Wanneer een afbeelding wordt gemaakt op een iOS-apparaat (zoals een iPhone, iPad of MacOS), wordt deze als HEIC-bestand op deze apparaten opgeslagen. HEIC is een containerformaat dat enkele of meerdere afbeeldingen kan opslaan, samen met metagegevens die elke afbeelding beschrijven. Een voorbeeld van zo'n metadata is [EXIF](/nl/image/exif/) die de tagging en metadata-informatie bij het afbeeldingsbestand bevat.
 
 ### HEIF-gegevensopslag
 
