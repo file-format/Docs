@@ -19,7 +19,7 @@
 
 ## Ce este un fișier INI? ##
 
-Un fișier INI este un document de configurare a mesajelor pentru programe de calculator care conțin chei publice pentru caracteristici și secțiuni care organizează atributele într-un cadru și gramatică. Aceste documente de configurare în format de fișier de sistem își primesc numele de la extensia de director INI a sistemului de operare MS-DOS, care înseamnă inițiere. A popularizat această formă de configurare a software-ului. Multe programe din alte aplicații software folosesc diverse adăugări de nume de fișiere, cum ar fi CONF și [CFG](/ro/system/cfg), deși formatul a stabilit un standard neoficial în multe situații de configurare.
+Un fișier INI este un document de configurare a mesajelor pentru programe de calculator care conțin chei publice pentru caracteristici și secțiuni care organizează atributele într-un cadru și gramatică. Aceste documente de configurare în format de fișier de sistem își primesc numele de la extensia de director INI a sistemului de operare MS-DOS, care înseamnă inițiere. A popularizat această formă de configurare a software-ului. Multe programe din alte aplicații software folosesc diverse adăugări de nume de fișiere, cum ar fi CONF și [CFG](/ro/system/cfg/), deși formatul a stabilit un standard neoficial în multe situații de configurare.
 
 ## Scurt istoric al fișierelor INI##
 

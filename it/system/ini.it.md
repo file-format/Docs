@@ -19,7 +19,7 @@
 
 ## Che cos'è un file INI? ##
 
-Un file INI è un documento di configurazione dei messaggi per programmi per computer che contengono chiavi pubbliche per caratteristiche e sezioni che organizzano gli attributi in un framework e una grammatica. Questi documenti di configurazione del formato file di sistema prendono il nome dall'estensione di directory INI del sistema operativo MS-DOS, che sta per iniziazione. Ha reso popolare questa forma di configurazione del software. Molti programmi su altre applicazioni software utilizzano varie aggiunte di nomi di file, come CONF e [CFG](/it/system/cfg), sebbene il formato abbia stabilito uno standard non ufficiale in molte situazioni di configurazione.
+Un file INI è un documento di configurazione dei messaggi per programmi per computer che contengono chiavi pubbliche per caratteristiche e sezioni che organizzano gli attributi in un framework e una grammatica. Questi documenti di configurazione del formato file di sistema prendono il nome dall'estensione di directory INI del sistema operativo MS-DOS, che sta per iniziazione. Ha reso popolare questa forma di configurazione del software. Molti programmi su altre applicazioni software utilizzano varie aggiunte di nomi di file, come CONF e [CFG](/it/system/cfg/), sebbene il formato abbia stabilito uno standard non ufficiale in molte situazioni di configurazione.
 
 ## Breve storia dei file INI##
 

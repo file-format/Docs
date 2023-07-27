@@ -19,7 +19,7 @@
 
 ## Mi az INI fájl? ##
 
-Az INI-fájl olyan számítógépes programok üzenetkonfigurációs dokumentuma, amelyek nyilvános kulcsokat tartalmaznak az attribútumokat keretrendszerben és nyelvtanban rendező jellemzőkhöz és szakaszokhoz. Ezek a rendszerfájlformátumú konfigurációs dokumentumok az MS-DOS operációs rendszer INI könyvtárkiterjesztéséről kapták a nevüket, amely az iniciációt jelenti. Népszerűsítette a szoftverbeállítás ezen formáját. Más szoftveralkalmazásokon sok program különféle fájlnév-kiegészítést használ, mint például a CONF és a [CFG](/hu/system/cfg), bár a formátum számos konfigurációs helyzetben nem hivatalos szabványt hozott létre.
+Az INI-fájl olyan számítógépes programok üzenetkonfigurációs dokumentuma, amelyek nyilvános kulcsokat tartalmaznak az attribútumokat keretrendszerben és nyelvtanban rendező jellemzőkhöz és szakaszokhoz. Ezek a rendszerfájlformátumú konfigurációs dokumentumok az MS-DOS operációs rendszer INI könyvtárkiterjesztéséről kapták a nevüket, amely az iniciációt jelenti. Népszerűsítette a szoftverbeállítás ezen formáját. Más szoftveralkalmazásokon sok program különféle fájlnév-kiegészítést használ, mint például a CONF és a [CFG](/hu/system/cfg/), bár a formátum számos konfigurációs helyzetben nem hivatalos szabványt hozott létre.
 
 ## Az INI-fájlok rövid története##
 

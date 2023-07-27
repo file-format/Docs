@@ -19,7 +19,7 @@
 
 ## Apa itu file INI? ##
 
-File INI adalah dokumen konfigurasi pesan untuk program komputer yang berisi kunci publik untuk karakteristik dan bagian yang mengatur atribut dalam kerangka kerja dan tata bahasa. Dokumen konfigurasi format file sistem ini mendapatkan namanya dari ekstensi direktori sistem operasi MS-DOS INI, yang berarti inisiasi. Ini mempopulerkan bentuk pengaturan perangkat lunak ini. Banyak program pada aplikasi perangkat lunak lain menggunakan berbagai penambahan nama file, seperti CONF dan [CFG](/id/system/cfg), meskipun format tersebut telah membentuk standar tidak resmi dalam banyak situasi konfigurasi.
+File INI adalah dokumen konfigurasi pesan untuk program komputer yang berisi kunci publik untuk karakteristik dan bagian yang mengatur atribut dalam kerangka kerja dan tata bahasa. Dokumen konfigurasi format file sistem ini mendapatkan namanya dari ekstensi direktori sistem operasi MS-DOS INI, yang berarti inisiasi. Ini mempopulerkan bentuk pengaturan perangkat lunak ini. Banyak program pada aplikasi perangkat lunak lain menggunakan berbagai penambahan nama file, seperti CONF dan [CFG](/id/system/cfg/), meskipun format tersebut telah membentuk standar tidak resmi dalam banyak situasi konfigurasi.
 
 ## Sejarah Singkat File INI##
 

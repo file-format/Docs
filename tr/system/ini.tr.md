@@ -19,7 +19,7 @@
 
 ## INI dosyası nedir? ##
 
-Bir INI dosyası, nitelikleri bir çerçeve ve dilbilgisi içinde düzenleyen özellikler ve bölümler için ortak anahtarlar içeren bilgisayar programları için bir mesaj yapılandırma belgesidir. Bu sistem dosyası biçimi yapılandırma belgeleri, adlarını MS-DOS işletim sisteminin başlatma anlamına gelen dizin uzantısı INI'den alır. Bu yazılım kurulum biçimini popüler hale getirdi. Diğer yazılım uygulamalarındaki birçok program, biçim birçok yapılandırma durumunda resmi olmayan bir standart oluştursa da, CONF ve [CFG](/tr/system/cfg) gibi çeşitli dosya adı eklemeleri kullanır.
+Bir INI dosyası, nitelikleri bir çerçeve ve dilbilgisi içinde düzenleyen özellikler ve bölümler için ortak anahtarlar içeren bilgisayar programları için bir mesaj yapılandırma belgesidir. Bu sistem dosyası biçimi yapılandırma belgeleri, adlarını MS-DOS işletim sisteminin başlatma anlamına gelen dizin uzantısı INI'den alır. Bu yazılım kurulum biçimini popüler hale getirdi. Diğer yazılım uygulamalarındaki birçok program, biçim birçok yapılandırma durumunda resmi olmayan bir standart oluştursa da, CONF ve [CFG](/tr/system/cfg/) gibi çeşitli dosya adı eklemeleri kullanır.
 
 ## INI Dosyalarının Kısa Tarihi##
 

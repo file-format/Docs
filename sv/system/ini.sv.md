@@ -19,7 +19,7 @@
 
 ## Vad är en INI fil? ##
 
-En INI-fil är ett meddelandekonfigurationsdokument för datorprogram som innehåller publika nycklar för egenskaper och sektioner som organiserar attributen i ett ramverk och grammatik. Dessa systemfilformatskonfigurationsdokument får sitt namn från MS-DOS-operativsystemets katalogtillägg INI, som står för initiering. Det populariserade denna form av mjukvaruinstallation. Många program i andra program använder olika filnamnstillägg, såsom CONF och [CFG](/sv/system/cfg), även om formatet har etablerat en inofficiell standard i många konfigurationssituationer.
+En INI-fil är ett meddelandekonfigurationsdokument för datorprogram som innehåller publika nycklar för egenskaper och sektioner som organiserar attributen i ett ramverk och grammatik. Dessa systemfilformatskonfigurationsdokument får sitt namn från MS-DOS-operativsystemets katalogtillägg INI, som står för initiering. Det populariserade denna form av mjukvaruinstallation. Många program i andra program använder olika filnamnstillägg, såsom CONF och [CFG](/sv/system/cfg/), även om formatet har etablerat en inofficiell standard i många konfigurationssituationer.
 
 ## Kort historik över INI-filer##
 

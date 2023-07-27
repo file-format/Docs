@@ -19,7 +19,7 @@
 
 ## Co je soubor INI? ##
 
-Soubor INI je dokument konfigurace zpráv pro počítačové programy, které obsahují veřejné klíče pro charakteristiky a sekce, které organizují atributy v rámci a gramatice. Tyto konfigurační dokumenty formátu systémových souborů získaly svůj název podle přípony adresáře INI operačního systému MS-DOS, což je zkratka pro zahájení. Popularizovala tuto formu nastavení softwaru. Mnoho programů v jiných softwarových aplikacích používá různé přídavky k názvům souborů, jako je CONF a [CFG](/cs/system/cfg), ačkoli tento formát v mnoha situacích konfigurace vytvořil neoficiální standard.
+Soubor INI je dokument konfigurace zpráv pro počítačové programy, které obsahují veřejné klíče pro charakteristiky a sekce, které organizují atributy v rámci a gramatice. Tyto konfigurační dokumenty formátu systémových souborů získaly svůj název podle přípony adresáře INI operačního systému MS-DOS, což je zkratka pro zahájení. Popularizovala tuto formu nastavení softwaru. Mnoho programů v jiných softwarových aplikacích používá různé přídavky k názvům souborů, jako je CONF a [CFG](/cs/system/cfg/), ačkoli tento formát v mnoha situacích konfigurace vytvořil neoficiální standard.
 
 ## Stručná historie souborů INI##
 

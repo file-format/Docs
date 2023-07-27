@@ -19,7 +19,7 @@
 
 ## Tệp INI là gì? ##
 
-Tệp INI là tài liệu cấu hình thông báo cho các chương trình máy tính có chứa khóa chung cho các đặc điểm và phần tổ chức các thuộc tính theo khung và ngữ pháp. Các tài liệu cấu hình định dạng tệp hệ thống này lấy tên từ phần mở rộng thư mục INI của hệ điều hành MS-DOS, viết tắt của từ khởi tạo. Nó đã phổ biến hình thức thiết lập phần mềm này. Nhiều chương trình trên các ứng dụng phần mềm khác sử dụng nhiều phần bổ sung tên tệp khác nhau, chẳng hạn như CONF và [CFG](/vi/system/cfg), mặc dù định dạng này đã thiết lập một tiêu chuẩn không chính thức trong nhiều tình huống cấu hình.
+Tệp INI là tài liệu cấu hình thông báo cho các chương trình máy tính có chứa khóa chung cho các đặc điểm và phần tổ chức các thuộc tính theo khung và ngữ pháp. Các tài liệu cấu hình định dạng tệp hệ thống này lấy tên từ phần mở rộng thư mục INI của hệ điều hành MS-DOS, viết tắt của từ khởi tạo. Nó đã phổ biến hình thức thiết lập phần mềm này. Nhiều chương trình trên các ứng dụng phần mềm khác sử dụng nhiều phần bổ sung tên tệp khác nhau, chẳng hạn như CONF và [CFG](/vi/system/cfg/), mặc dù định dạng này đã thiết lập một tiêu chuẩn không chính thức trong nhiều tình huống cấu hình.
 
 ## Tóm tắt lịch sử của tệp INI##
 
