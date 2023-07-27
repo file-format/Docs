@@ -34,7 +34,7 @@ Junto com o lançamento de 4th Dimension v3.1 em 1993, foi lançado 4D Client v1
 
 ## Especificações de formato de arquivo 4DD ##
 
-O arquivo de dados inclui todos os dados inseridos nos registros, bem como todos os dados associados a eles. O arquivo de dados é nomeado após o nome que você digita na caixa de diálogo de criação do banco de dados, seguido pelo [4DB](/pt/database/4db).
+O arquivo de dados inclui todos os dados inseridos nos registros, bem como todos os dados associados a eles. O arquivo de dados é nomeado após o nome que você digita na caixa de diálogo de criação do banco de dados, seguido pelo [4DB](/pt/database/4db/).
 
 O arquivo de dados existente é aberto normalmente quando você carrega um arquivo de estrutura 4D. Se você alterar o nome ou o local do arquivo, a caixa de diálogo Abrir pasta de dados permite que você escolha ou construa um novo banco de dados.
 

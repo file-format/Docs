@@ -34,7 +34,7 @@ Zusammen mit der Einführung von 4th Dimension v3.1 im Jahr 1993 wurde 4D Client
 
 ## Spezifikationen des 4DD-Dateiformats ##
 
-Die Datendatei enthält alle Daten, die in die Datensätze eingegeben werden, sowie alle Daten, die ihnen zugeordnet sind. Die Datendatei wird nach dem Namen benannt, den Sie im Dialogfeld zum Erstellen der Datenbank eingeben, gefolgt von [4DB](/de/database/4db).
+Die Datendatei enthält alle Daten, die in die Datensätze eingegeben werden, sowie alle Daten, die ihnen zugeordnet sind. Die Datendatei wird nach dem Namen benannt, den Sie im Dialogfeld zum Erstellen der Datenbank eingeben, gefolgt von [4DB](/de/database/4db/).
 
 Beim Laden einer 4D Strukturdatei wird wie gewohnt die vorhandene Datendatei geöffnet. Wenn Sie den Namen oder Speicherort der Datei ändern, können Sie im Dialogfeld „Datenordner öffnen“ eine neue Datenbank auswählen oder erstellen.
 

@@ -34,7 +34,7 @@ Spolu se spuštěním 4th Dimension v3.1 v roce 1993 byl vydán 4D Client v1.1, 
 
 ## Specifikace formátu souboru 4DD ##
 
-Datový soubor obsahuje všechna data, která jsou zapsána do záznamů, a také všechna data, která jsou s nimi spojena. Datový soubor je pojmenován podle názvu, který zadáte v dialogovém okně vytvoření databáze, za nímž následuje [4DB](/cs/database/4db).
+Datový soubor obsahuje všechna data, která jsou zapsána do záznamů, a také všechna data, která jsou s nimi spojena. Datový soubor je pojmenován podle názvu, který zadáte v dialogovém okně vytvoření databáze, za nímž následuje [4DB](/cs/database/4db/).
 
 Existující datový soubor se otevře jako obvykle, když načtete soubor 4D struktury. Pokud změníte název nebo umístění souboru, dialogové okno Otevřít datovou složku vám umožní vybrat nebo vytvořit novou databázi.
 

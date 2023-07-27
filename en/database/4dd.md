@@ -34,7 +34,7 @@ Together with the launch of 4th Dimension v3.1 in 1993, 4D Client v1.1, a custom
 
 ## 4DD File Format Specifications ##
 
-The data file includes all of the data that is entered into the records, as well as all of the data that is associated with them. The data file is named after the name you type in the database creation dialogue box, followed by the [4DB](/database/4db). 
+The data file includes all of the data that is entered into the records, as well as all of the data that is associated with them. The data file is named after the name you type in the database creation dialogue box, followed by the [4DB](/database/4db/). 
 
 The existing data file is opened as usual when you load a 4D structure file. If you alter the file's name or location, the Open data folder dialogue box allows you to pick or build a new database.
 

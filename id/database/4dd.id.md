@@ -34,7 +34,7 @@ Bersamaan dengan peluncuran 4th Dimension v3.1 pada tahun 1993, 4D Client v1.1, 
 
 ## Spesifikasi Format File 4DD ##
 
-File data mencakup semua data yang dimasukkan ke dalam catatan, serta semua data yang terkait dengannya. File data diberi nama sesuai nama yang Anda ketik di kotak dialog pembuatan basis data, diikuti dengan [4DB](/id/database/4db).
+File data mencakup semua data yang dimasukkan ke dalam catatan, serta semua data yang terkait dengannya. File data diberi nama sesuai nama yang Anda ketik di kotak dialog pembuatan basis data, diikuti dengan [4DB](/id/database/4db/).
 
 File data yang ada dibuka seperti biasa saat Anda memuat file struktur 4D. Jika Anda mengubah nama atau lokasi file, kotak dialog Buka folder data memungkinkan Anda memilih atau membuat database baru.
 
