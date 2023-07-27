@@ -20,7 +20,7 @@
 
 A Microsfot Visio a Microsoft Office programcsomag része, és diagram- és vektorrajzoló alkalmazásokhoz használható. Számos különböző típusú diagram létrehozására szolgál, beleértve a folyamatábrákat, UML diagramokat, hálózati diagramokat és még sok mást.
 
-A Visio fájlformátumok közé tartoznak például a **[VSDX](/hu/visio/vsdx/)**, **[VSX](/hu/visio/vsx/)**, VTX, VDX, **[VSSX](/hu/visio) /vssx/)**, VSTX, VSDM, VSSM, VSTM fájlformátum, amelyet a rendszer a lemezre ment, amikor a felhasználó létrehoz egy projektet a Microsoft Visio programban, és lemezre menti. Az alábbiakban a Publisher fájlformátumok listája található.
+A Visio fájlformátumok közé tartoznak például a **[VSDX](/hu/visio/vsdx/)**, **[VSX](/hu/visio/vsx/)**, VTX, VDX, **[VSSX](/hu/visio/vssx/)**, VSTX, VSDM, VSSM, VSTM fájlformátum, amelyet a rendszer a lemezre ment, amikor a felhasználó létrehoz egy projektet a Microsoft Visio programban, és lemezre menti. Az alábbiakban a Publisher fájlformátumok listája található.
 
 Kérdései vannak a Visio fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/visio/31), hogy hasznot húzzon a fájlformátum-szakértők által megosztott tudásból.
 

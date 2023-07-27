@@ -20,7 +20,7 @@
 
 Microsfot Visio hadir sebagai bagian dari paket Microsoft Office dan digunakan untuk aplikasi pembuatan diagram dan gambar vektor. Ini digunakan untuk membuat beberapa jenis diagram termasuk diagram alir, diagram UML, diagram jaringan, dan banyak lainnya.
 
-Format file Visio menyertakan tipe file seperti **[VSDX](/id/visio/vsdx/)**, **[VSX](/id/visio/vsx/)**, VTX, VDX, **[VSSX](/id/visio /vssx/)**, VSTX, VSDM, VSSM, VSTM yang disimpan ke disk saat pengguna membuat proyek di Microsoft Visio dan menyimpannya ke disk. Berikut adalah daftar Format File Publisher.
+Format file Visio menyertakan tipe file seperti **[VSDX](/id/visio/vsdx/)**, **[VSX](/id/visio/vsx/)**, VTX, VDX, **[VSSX](/id/visio/vssx/)**, VSTX, VSDM, VSSM, VSTM yang disimpan ke disk saat pengguna membuat proyek di Microsoft Visio dan menyimpannya ke disk. Berikut adalah daftar Format File Publisher.
 
 Punya pertanyaan terkait format file Visio? Buka [forum] komunitas kami (https://forum.fileformat.com/c/visio/31) untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
 
