@@ -19,7 +19,7 @@
 
 ## Tệp GADGET là gì?
 
-Tệp GADGET bao gồm một chương trình phần mềm nhỏ thực thi trong thanh bên của Windows Vista hoặc Windows 7. Nó nén một số tệp dựa trên web và các tệp này có thể bao gồm các tệp [.html](/vi/web/html/), [.css](/vi/web/css) hoặc [.js](/vi/web/js/), cũng như tập tin web khác. Các tệp GADGET được sử dụng cho các thành phần nhỏ như công cụ tìm kiếm, nguồn cấp tin tức, tiện ích hệ thống và trò chơi nhỏ. Mặc dù GADGET được lưu trữ bởi Thanh bên, không dành riêng cho khu vực Thanh bên; những thứ này có thể được tháo ra và di chuyển lên màn hình nền như mong muốn.
+Tệp GADGET bao gồm một chương trình phần mềm nhỏ thực thi trong thanh bên của Windows Vista hoặc Windows 7. Nó nén một số tệp dựa trên web và các tệp này có thể bao gồm các tệp [.html](/vi/web/html/), [.css](/vi/web/css/) hoặc [.js](/vi/web/js/), cũng như tập tin web khác. Các tệp GADGET được sử dụng cho các thành phần nhỏ như công cụ tìm kiếm, nguồn cấp tin tức, tiện ích hệ thống và trò chơi nhỏ. Mặc dù GADGET được lưu trữ bởi Thanh bên, không dành riêng cho khu vực Thanh bên; những thứ này có thể được tháo ra và di chuyển lên màn hình nền như mong muốn.
 
 ## Định dạng tệp GADGET
 
