@@ -19,7 +19,7 @@
 
 ## What is a GADGET file?
 
-A GADGET file consists of a small software program that executes within the Windows Vista or Windows 7 sidebar. It compresses several web-based files and the files may comprise the [.html](/web/html), [.css](/web/css) or [.js](/web/js/) files, as well as other web files. GADGET files are used for small components such as search tools, news feeds, system utilities, and small games. Although GADGETs are hosted by the Sidebar, are not specific to the Sidebar area; these can be undocked and move onto the desktop as desired.
+A GADGET file consists of a small software program that executes within the Windows Vista or Windows 7 sidebar. It compresses several web-based files and the files may comprise the [.html](/web/html/), [.css](/web/css) or [.js](/web/js/) files, as well as other web files. GADGET files are used for small components such as search tools, news feeds, system utilities, and small games. Although GADGETs are hosted by the Sidebar, are not specific to the Sidebar area; these can be undocked and move onto the desktop as desired.
 
 ## GADGET file format
 

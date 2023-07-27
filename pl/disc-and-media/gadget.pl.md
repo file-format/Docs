@@ -19,7 +19,7 @@
 
 ## Czym jest plik GADŻET?
 
-Plik GADGET składa się z małego programu, który jest uruchamiany na pasku bocznym systemu Windows Vista lub Windows 7. Kompresuje kilka plików internetowych, a pliki mogą obejmować pliki [.html](/pl/web/html), [.css](/pl/web/css) lub [.js](/pl/web/js/), a także inne pliki internetowe. Pliki GADGET są używane w małych komponentach, takich jak narzędzia wyszukiwania, kanały informacyjne, narzędzia systemowe i małe gry. Chociaż GADŻETY są hostowane na pasku bocznym, nie są specyficzne dla obszaru paska bocznego; można je oddokować i przenieść na pulpit zgodnie z potrzebami.
+Plik GADGET składa się z małego programu, który jest uruchamiany na pasku bocznym systemu Windows Vista lub Windows 7. Kompresuje kilka plików internetowych, a pliki mogą obejmować pliki [.html](/pl/web/html/), [.css](/pl/web/css) lub [.js](/pl/web/js/), a także inne pliki internetowe. Pliki GADGET są używane w małych komponentach, takich jak narzędzia wyszukiwania, kanały informacyjne, narzędzia systemowe i małe gry. Chociaż GADŻETY są hostowane na pasku bocznym, nie są specyficzne dla obszaru paska bocznego; można je oddokować i przenieść na pulpit zgodnie z potrzebami.
 
 ## Format pliku GADŻET
 

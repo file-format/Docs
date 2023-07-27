@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo GADGET?
 
-Un archivo GADGET consiste en un pequeño programa de software que se ejecuta dentro de la barra lateral de Windows Vista o Windows 7. Comprime varios archivos basados en web y los archivos pueden comprender los archivos [.html](/es/web/html), [.css](/es/web/css) o [.js](/es/web/js/), así como otros archivos web. Los archivos GADGET se utilizan para componentes pequeños, como herramientas de búsqueda, fuentes de noticias, utilidades del sistema y juegos pequeños. Aunque los GADGET están alojados en la barra lateral, no son específicos del área de la barra lateral; estos se pueden desacoplar y mover al escritorio como se desee.
+Un archivo GADGET consiste en un pequeño programa de software que se ejecuta dentro de la barra lateral de Windows Vista o Windows 7. Comprime varios archivos basados en web y los archivos pueden comprender los archivos [.html](/es/web/html/), [.css](/es/web/css) o [.js](/es/web/js/), así como otros archivos web. Los archivos GADGET se utilizan para componentes pequeños, como herramientas de búsqueda, fuentes de noticias, utilidades del sistema y juegos pequeños. Aunque los GADGET están alojados en la barra lateral, no son específicos del área de la barra lateral; estos se pueden desacoplar y mover al escritorio como se desee.
 
 ## Formato de archivo GADGET
 
