@@ -19,7 +19,7 @@
 
 ## .mp dosyası nedir?
 
-Bir MP dosyası, resimler oluşturmak için MetaPost programlama dili tarafından oluşturulan bir vektör görüntü dosyasıdır. MP dosya biçimi kullanılarak oluşturulan vektör görüntüler, [EPS](/tr/image/eps/) (Encapsulated PostScript) dosyaları olarak kaydedilir. Ayrıca MetaPost, TeX ve Metafont çerçeveleri ile dağıtılmış olarak gelir ve bu uygulamalar tarafından kullanılan TEX ve LTX dosyalarının içinden MP dosyaları üretilebilir. MP dosyaları, çıktı EPS dosyasını işlemek için çizim ifadeleri ve matematiksel algoritmik çizim içerir. PDFTex motoru, doğrudan [PDF](/tr/pdf/) dosyaları oluşturmak için oluşturulan EPS'yi kullanabilir.
+Bir MP dosyası, resimler oluşturmak için MetaPost programlama dili tarafından oluşturulan bir vektör görüntü dosyasıdır. MP dosya biçimi kullanılarak oluşturulan vektör görüntüler, [EPS](/tr/page-description-language/eps/) (Encapsulated PostScript) dosyaları olarak kaydedilir. Ayrıca MetaPost, TeX ve Metafont çerçeveleri ile dağıtılmış olarak gelir ve bu uygulamalar tarafından kullanılan TEX ve LTX dosyalarının içinden MP dosyaları üretilebilir. MP dosyaları, çıktı EPS dosyasını işlemek için çizim ifadeleri ve matematiksel algoritmik çizim içerir. PDFTex motoru, doğrudan [PDF](/tr/pdf/) dosyaları oluşturmak için oluşturulan EPS'yi kullanabilir.
 
 ## MP Dosya Biçimi
 

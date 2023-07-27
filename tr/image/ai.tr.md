@@ -19,7 +19,7 @@
 
 ## .ai dosyası nedir?
 
-.ai uzantılı bir dosya, tek bir sayfada vektör grafikleri içeren bir Adobe Illustrator Artwork dosyasıdır. görüntü verilerini görüntülemek için yollar oluşturmak üzere noktaları kullanır, böylece büyütülürse görüntü kalitesinin kaybolmasını önler. AI dosya formatı, AI dosyalarına benzer olan PGF dosya formatının temelidir. AI formatı, logolar ve basılı medya için başlıca kullanımını bulur ve ilk sürümlerinin [EPS](/tr/image/eps/) dosyalarına benzer olduğu kabul edilir. AI dosyaları Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro ve CorelDraw Graphics araçlarıyla açılabilir.
+.ai uzantılı bir dosya, tek bir sayfada vektör grafikleri içeren bir Adobe Illustrator Artwork dosyasıdır. görüntü verilerini görüntülemek için yollar oluşturmak üzere noktaları kullanır, böylece büyütülürse görüntü kalitesinin kaybolmasını önler. AI dosya formatı, AI dosyalarına benzer olan PGF dosya formatının temelidir. AI formatı, logolar ve basılı medya için başlıca kullanımını bulur ve ilk sürümlerinin [EPS](/tr/page-description-language/eps/) dosyalarına benzer olduğu kabul edilir. AI dosyaları Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro ve CorelDraw Graphics araçlarıyla açılabilir.
 
 ## AI Dosya Biçimi
 

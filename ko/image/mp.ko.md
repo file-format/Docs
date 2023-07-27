@@ -19,7 +19,7 @@
 
 ## .MP 파일이란?
 
-MP 파일은 MetaPost 프로그래밍 언어에서 그림을 만들기 위해 생성한 벡터 이미지 파일입니다. MP 파일 형식으로 생성된 벡터 이미지는 [EPS](/ko/image/eps/)(Encapsulated PostScript) 파일로 저장됩니다. 또한 MetaPost는 TeX 및 Metafont 프레임워크와 함께 배포되며 이러한 응용 프로그램에서 사용하는 TEX 및 LTX 파일 내에서 MP 파일을 생성할 수 있습니다. MP 파일에는 출력 EPS 파일을 렌더링하기 위한 도면 문과 수학 알고리즘 도면이 포함되어 있습니다. PDFTex 엔진은 생성된 EPS를 사용하여 [PDF](/ko/pdf/) 파일을 직접 생성할 수 있습니다.
+MP 파일은 MetaPost 프로그래밍 언어에서 그림을 만들기 위해 생성한 벡터 이미지 파일입니다. MP 파일 형식으로 생성된 벡터 이미지는 [EPS](/ko/page-description-language/eps/)(Encapsulated PostScript) 파일로 저장됩니다. 또한 MetaPost는 TeX 및 Metafont 프레임워크와 함께 배포되며 이러한 응용 프로그램에서 사용하는 TEX 및 LTX 파일 내에서 MP 파일을 생성할 수 있습니다. MP 파일에는 출력 EPS 파일을 렌더링하기 위한 도면 문과 수학 알고리즘 도면이 포함되어 있습니다. PDFTex 엔진은 생성된 EPS를 사용하여 [PDF](/ko/pdf/) 파일을 직접 생성할 수 있습니다.
 
 ## MP 파일 형식
 

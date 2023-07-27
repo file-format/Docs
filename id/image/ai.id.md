@@ -19,7 +19,7 @@
 
 ## Apa itu file AI?
 
-File dengan ekstensi .ai adalah file Karya Seni Adobe Illustrator yang berisi grafik vektor dalam satu halaman. ia menggunakan titik untuk membuat jalur untuk menampilkan data gambar, sehingga aman dari kehilangan kualitas gambar jika diperbesar. Format file AI didasarkan pada format file PGF yang mirip dengan file AI. Format AI menemukan penggunaan utamanya untuk logo dan media cetak, dan versi awalnya dianggap serupa dengan file [EPS](/id/image/eps/). File AI dapat dibuka dengan alat Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro, dan CorelDraw Graphics.
+File dengan ekstensi .ai adalah file Karya Seni Adobe Illustrator yang berisi grafik vektor dalam satu halaman. ia menggunakan titik untuk membuat jalur untuk menampilkan data gambar, sehingga aman dari kehilangan kualitas gambar jika diperbesar. Format file AI didasarkan pada format file PGF yang mirip dengan file AI. Format AI menemukan penggunaan utamanya untuk logo dan media cetak, dan versi awalnya dianggap serupa dengan file [EPS](/id/page-description-language/eps/). File AI dapat dibuka dengan alat Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro, dan CorelDraw Graphics.
 
 ## Format File AI
 

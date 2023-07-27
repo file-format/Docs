@@ -19,7 +19,7 @@
 
 ## Mi az MP fájl?
 
-Az MP fájl egy vektorképfájl, amelyet a MetaPost programozási nyelv generál képek létrehozására. Az MP fájlformátummal létrehozott vektorképek [EPS](/hu/image/eps/) (Encapsulated PostScript) fájlként kerülnek mentésre. Ezenkívül a MetaPost TeX és Metafont keretrendszerrel terjeszthető, és MP fájlok generálhatók az alkalmazások által használt TEX és LTX fájlokból. Az MP fájlok rajzi utasításokat és matematikai algoritmikus rajzot tartalmaznak a kimeneti EPS fájl megjelenítéséhez. A PDFTex motor a létrehozott EPS segítségével közvetlenül [PDF](/hu/pdf/) fájlokat generálhat.
+Az MP fájl egy vektorképfájl, amelyet a MetaPost programozási nyelv generál képek létrehozására. Az MP fájlformátummal létrehozott vektorképek [EPS](/hu/page-description-language/eps/) (Encapsulated PostScript) fájlként kerülnek mentésre. Ezenkívül a MetaPost TeX és Metafont keretrendszerrel terjeszthető, és MP fájlok generálhatók az alkalmazások által használt TEX és LTX fájlokból. Az MP fájlok rajzi utasításokat és matematikai algoritmikus rajzot tartalmaznak a kimeneti EPS fájl megjelenítéséhez. A PDFTex motor a létrehozott EPS segítségével közvetlenül [PDF](/hu/pdf/) fájlokat generálhat.
 
 ## MP fájl formátum
 

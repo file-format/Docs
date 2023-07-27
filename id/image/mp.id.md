@@ -19,7 +19,7 @@
 
 ## Apa itu file MP?
 
-File MP adalah file gambar vektor yang dihasilkan oleh bahasa pemrograman MetaPost untuk membuat gambar. Gambar vektor yang dibuat menggunakan format file MP disimpan sebagai file [EPS](/id/image/eps/) (Encapsulated PostScript). Selain itu, MetaPost didistribusikan dengan kerangka TeX dan Metafont dan file MP dapat dibuat dari dalam file TEX dan LTX yang digunakan oleh aplikasi ini. File MP berisi pernyataan gambar dan gambar algoritmik matematika untuk merender file EPS keluaran. Mesin PDFTex dapat menggunakan EPS yang dibuat untuk menghasilkan file [PDF](/id/pdf/) secara langsung.
+File MP adalah file gambar vektor yang dihasilkan oleh bahasa pemrograman MetaPost untuk membuat gambar. Gambar vektor yang dibuat menggunakan format file MP disimpan sebagai file [EPS](/id/page-description-language/eps/) (Encapsulated PostScript). Selain itu, MetaPost didistribusikan dengan kerangka TeX dan Metafont dan file MP dapat dibuat dari dalam file TEX dan LTX yang digunakan oleh aplikasi ini. File MP berisi pernyataan gambar dan gambar algoritmik matematika untuk merender file EPS keluaran. Mesin PDFTex dapat menggunakan EPS yang dibuat untuk menghasilkan file [PDF](/id/pdf/) secara langsung.
 
 ## Format File MP
 

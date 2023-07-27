@@ -19,7 +19,7 @@
 
 ## Tập tin MP là gì?
 
-Tệp MP là tệp hình ảnh vector được tạo bởi ngôn ngữ lập trình MetaPost để tạo ảnh. Hình ảnh vector được tạo bằng định dạng tệp MP được lưu dưới dạng tệp [EPS](/vi/image/eps/) (PostScript được đóng gói). Ngoài ra, MetaPost được phân phối cùng với các khung công tác TeX và Metafont và các tệp MP có thể được tạo từ bên trong các tệp TEX và LTX được các ứng dụng này sử dụng. Các tệp MP chứa các câu lệnh vẽ và bản vẽ thuật toán toán học để hiển thị tệp EPS đầu ra. Công cụ PDFTex có thể sử dụng EPS đã tạo để tạo tệp [PDF](/vi/pdf/) trực tiếp.
+Tệp MP là tệp hình ảnh vector được tạo bởi ngôn ngữ lập trình MetaPost để tạo ảnh. Hình ảnh vector được tạo bằng định dạng tệp MP được lưu dưới dạng tệp [EPS](/vi/page-description-language/eps/) (PostScript được đóng gói). Ngoài ra, MetaPost được phân phối cùng với các khung công tác TeX và Metafont và các tệp MP có thể được tạo từ bên trong các tệp TEX và LTX được các ứng dụng này sử dụng. Các tệp MP chứa các câu lệnh vẽ và bản vẽ thuật toán toán học để hiển thị tệp EPS đầu ra. Công cụ PDFTex có thể sử dụng EPS đã tạo để tạo tệp [PDF](/vi/pdf/) trực tiếp.
 
 ## Định dạng tệp MP
 

@@ -19,7 +19,7 @@
 
 ## Ce este un fișier AI?
 
-Un fișier cu o extensie .ai este un fișier Adobe Illustrator Artwork care conține grafică vectorială într-o singură pagină. folosește puncte pentru a crea căi de afișare a datelor de imagine, protejând astfel de pierderea calității imaginii dacă este mărită. Formatul de fișier AI se bazează pe formatul de fișier PGF, care este similar cu fișierele AI. Formatul AI își găsește utilizarea majoră pentru logo-uri și suporturi de imprimare, iar versiunile sale inițiale au fost considerate similare cu cea a fișierelor [EPS](/ro/image/eps/). Fișierele AI pot fi deschise cu instrumentele Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro și CorelDraw Graphics.
+Un fișier cu o extensie .ai este un fișier Adobe Illustrator Artwork care conține grafică vectorială într-o singură pagină. folosește puncte pentru a crea căi de afișare a datelor de imagine, protejând astfel de pierderea calității imaginii dacă este mărită. Formatul de fișier AI se bazează pe formatul de fișier PGF, care este similar cu fișierele AI. Formatul AI își găsește utilizarea majoră pentru logo-uri și suporturi de imprimare, iar versiunile sale inițiale au fost considerate similare cu cea a fișierelor [EPS](/ro/page-description-language/eps/). Fișierele AI pot fi deschise cu instrumentele Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro și CorelDraw Graphics.
 
 ## Format de fișier AI
 

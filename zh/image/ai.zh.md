@@ -19,7 +19,7 @@
 
 ## 什么是一 .ai 文件？
 
-具有 .ai 扩展名的文件是 Adobe Illustrator Artwork 文件，在单个页面中包含矢量图形。它使用点来创建显示图像数据的路径，从而确保在放大时不会丢失图像质量。 AI 文件格式是类似于 AI 文件的 PGF 文件格式的基础。 AI 格式主要用于徽标和印刷媒体，其初始版本被认为类似于 [EPS](/zh/image/eps/) 文件。 AI 文件可以使用 Adobe Illustrator、Adobe Acrobat DC、PaintShop Pro 和 CorelDraw 图形工具打开。
+具有 .ai 扩展名的文件是 Adobe Illustrator Artwork 文件，在单个页面中包含矢量图形。它使用点来创建显示图像数据的路径，从而确保在放大时不会丢失图像质量。 AI 文件格式是类似于 AI 文件的 PGF 文件格式的基础。 AI 格式主要用于徽标和印刷媒体，其初始版本被认为类似于 [EPS](/zh/page-description-language/eps/) 文件。 AI 文件可以使用 Adobe Illustrator、Adobe Acrobat DC、PaintShop Pro 和 CorelDraw 图形工具打开。
 
 ## 人工智能文件格式
 

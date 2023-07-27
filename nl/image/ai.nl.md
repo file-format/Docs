@@ -19,7 +19,7 @@
 
 ## Wat is een AI-bestand?
 
-Een bestand met de extensie .ai is een Adobe Illustrator Artwork-bestand dat vectorafbeeldingen op één pagina bevat. het gebruikt punten om paden te creëren voor het weergeven van de afbeeldingsgegevens, waardoor het veilig is voor verlies van beeldkwaliteit als het wordt vergroot. AI-bestandsformaat is gebaseerd op het PGF-bestandsformaat dat vergelijkbaar is met AI-bestanden. Het AI-formaat wordt het meest gebruikt voor logo's en gedrukte media, en de eerste versies werden beschouwd als vergelijkbaar met die van [EPS](/nl/image/eps/)-bestanden. AI-bestanden kunnen worden geopend met Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro en CorelDraw Graphics-tools.
+Een bestand met de extensie .ai is een Adobe Illustrator Artwork-bestand dat vectorafbeeldingen op één pagina bevat. het gebruikt punten om paden te creëren voor het weergeven van de afbeeldingsgegevens, waardoor het veilig is voor verlies van beeldkwaliteit als het wordt vergroot. AI-bestandsformaat is gebaseerd op het PGF-bestandsformaat dat vergelijkbaar is met AI-bestanden. Het AI-formaat wordt het meest gebruikt voor logo's en gedrukte media, en de eerste versies werden beschouwd als vergelijkbaar met die van [EPS](/nl/page-description-language/eps/)-bestanden. AI-bestanden kunnen worden geopend met Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro en CorelDraw Graphics-tools.
 
 ## AI-bestandsindeling
 

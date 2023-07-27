@@ -19,7 +19,7 @@
 
 ## .AI ファイルとは何ですか?
 
-拡張子が .ai のファイルは、単一ページにベクター グラフィックスを含む Adobe Illustrator アートワーク ファイルです。ポイントを使用して画像データを表示するためのパスを作成するため、拡大しても画質が低下することはありません。 AI ファイル形式は、AI ファイルに似た PGF ファイル形式をベースとしています。 AI 形式は、ロゴや印刷媒体に主に使用され、初期バージョンは [EPS](/image/eps/) ファイルと同様と見なされていました。 AI ファイルは、Adobe Illustrator、Adobe Acrobat DC、PaintShop Pro、CorelDraw Graphics ツールで開くことができます。
+拡張子が .ai のファイルは、単一ページにベクター グラフィックスを含む Adobe Illustrator アートワーク ファイルです。ポイントを使用して画像データを表示するためのパスを作成するため、拡大しても画質が低下することはありません。 AI ファイル形式は、AI ファイルに似た PGF ファイル形式をベースとしています。 AI 形式は、ロゴや印刷媒体に主に使用され、初期バージョンは [EPS](/page-description-language/eps/) ファイルと同様と見なされていました。 AI ファイルは、Adobe Illustrator、Adobe Acrobat DC、PaintShop Pro、CorelDraw Graphics ツールで開くことができます。
 
 ## AI ファイル形式
 

@@ -19,7 +19,7 @@
 
 ## Czym jest plik AI?
 
-Plik z rozszerzeniem .ai to plik Adobe Illustrator Artwork, który zawiera grafikę wektorową na jednej stronie. używa punktów do tworzenia ścieżek do wyświetlania danych obrazu, chroniąc go w ten sposób przed utratą jakości obrazu w przypadku powiększenia. Format pliku AI jest oparty na formacie pliku PGF, który jest podobny do plików AI. Format AI znajduje swoje główne zastosowanie w przypadku logo i mediów drukowanych, a jego początkowe wersje uznano za podobne do plików [EPS](/pl/image/eps/). Pliki AI można otwierać za pomocą narzędzi Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro i CorelDraw Graphics.
+Plik z rozszerzeniem .ai to plik Adobe Illustrator Artwork, który zawiera grafikę wektorową na jednej stronie. używa punktów do tworzenia ścieżek do wyświetlania danych obrazu, chroniąc go w ten sposób przed utratą jakości obrazu w przypadku powiększenia. Format pliku AI jest oparty na formacie pliku PGF, który jest podobny do plików AI. Format AI znajduje swoje główne zastosowanie w przypadku logo i mediów drukowanych, a jego początkowe wersje uznano za podobne do plików [EPS](/pl/page-description-language/eps/). Pliki AI można otwierać za pomocą narzędzi Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro i CorelDraw Graphics.
 
 ## Format pliku AI
 

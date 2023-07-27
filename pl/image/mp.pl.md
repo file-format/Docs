@@ -19,7 +19,7 @@
 
 ## Czym jest plik MP?
 
-Plik MP to plik obrazu wektorowego generowany przez język programowania MetaPost do tworzenia obrazów. Obrazy wektorowe utworzone w formacie plików MP są zapisywane jako pliki [EPS](/pl/image/eps/) (Encapsulated PostScript). Ponadto MetaPost jest dystrybuowany z frameworkami TeX i Metafont, a pliki MP można generować z plików TEX i LTX używanych przez te aplikacje. Pliki MP zawierają instrukcje rysunkowe i matematyczny rysunek algorytmiczny do renderowania wyjściowego pliku EPS. Silnik PDFTex może wykorzystywać utworzony plik EPS do bezpośredniego generowania plików [PDF](/pl/pdf/).
+Plik MP to plik obrazu wektorowego generowany przez język programowania MetaPost do tworzenia obrazów. Obrazy wektorowe utworzone w formacie plików MP są zapisywane jako pliki [EPS](/pl/page-description-language/eps/) (Encapsulated PostScript). Ponadto MetaPost jest dystrybuowany z frameworkami TeX i Metafont, a pliki MP można generować z plików TEX i LTX używanych przez te aplikacje. Pliki MP zawierają instrukcje rysunkowe i matematyczny rysunek algorytmiczny do renderowania wyjściowego pliku EPS. Silnik PDFTex może wykorzystywać utworzony plik EPS do bezpośredniego generowania plików [PDF](/pl/pdf/).
 
 ## Format pliku MP
 

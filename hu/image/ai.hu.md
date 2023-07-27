@@ -19,7 +19,7 @@
 
 ## Mi az AI fájl?
 
-Az .ai kiterjesztésű fájl egy Adobe Illustrator Artwork fájl, amely egyetlen oldalon vektorgrafikát tartalmaz. pontokat használ a képadatok megjelenítéséhez szükséges útvonalak létrehozásához, így megóvja a képminőség elvesztését a nagyításkor. Az AI fájlformátum alapja a PGF fájlformátum, amely hasonló az AI fájlokhoz. Az AI formátumot főként logók és nyomtatott médiák esetében használják, és eredeti verzióit az [EPS](/hu/image/eps/) fájlokhoz hasonlónak tekintették. Az AI-fájlok megnyithatók az Adobe Illustrator, az Adobe Acrobat DC, a PaintShop Pro és a CorelDraw Graphics eszközökkel.
+Az .ai kiterjesztésű fájl egy Adobe Illustrator Artwork fájl, amely egyetlen oldalon vektorgrafikát tartalmaz. pontokat használ a képadatok megjelenítéséhez szükséges útvonalak létrehozásához, így megóvja a képminőség elvesztését a nagyításkor. Az AI fájlformátum alapja a PGF fájlformátum, amely hasonló az AI fájlokhoz. Az AI formátumot főként logók és nyomtatott médiák esetében használják, és eredeti verzióit az [EPS](/hu/page-description-language/eps/) fájlokhoz hasonlónak tekintették. Az AI-fájlok megnyithatók az Adobe Illustrator, az Adobe Acrobat DC, a PaintShop Pro és a CorelDraw Graphics eszközökkel.
 
 ## AI fájlformátum
 

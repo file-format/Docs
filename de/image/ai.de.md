@@ -19,7 +19,7 @@
 
 ## Was ist eine AI-Datei?
 
-Eine Datei mit der Erweiterung .ai ist eine Adobe Illustrator-Artwork-Datei, die Vektorgrafiken auf einer einzelnen Seite enthält. Es verwendet Punkte, um Pfade für die Anzeige der Bilddaten zu erstellen, und schützt so vor einem Verlust der Bildqualität, wenn es vergrößert wird. Das AI-Dateiformat basiert auf dem PGF-Dateiformat, das AI-Dateien ähnelt. Das AI-Format wird hauptsächlich für Logos und Printmedien verwendet, und seine anfänglichen Versionen wurden als ähnlich denen von [EPS](/de/image/eps/)-Dateien angesehen. AI-Dateien können mit den Grafikwerkzeugen Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro und CorelDraw geöffnet werden.
+Eine Datei mit der Erweiterung .ai ist eine Adobe Illustrator-Artwork-Datei, die Vektorgrafiken auf einer einzelnen Seite enthält. Es verwendet Punkte, um Pfade für die Anzeige der Bilddaten zu erstellen, und schützt so vor einem Verlust der Bildqualität, wenn es vergrößert wird. Das AI-Dateiformat basiert auf dem PGF-Dateiformat, das AI-Dateien ähnelt. Das AI-Format wird hauptsächlich für Logos und Printmedien verwendet, und seine anfänglichen Versionen wurden als ähnlich denen von [EPS](/de/page-description-language/eps/)-Dateien angesehen. AI-Dateien können mit den Grafikwerkzeugen Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro und CorelDraw geöffnet werden.
 
 ## AI-Dateiformat
 

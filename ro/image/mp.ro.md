@@ -19,7 +19,7 @@
 
 ## Ce este un fișier MP?
 
-Un fișier MP este un fișier imagine vectorială generat de limbajul de programare MetaPost pentru a crea imagini. Imaginile vectoriale create folosind formatul de fișier MP sunt salvate ca fișiere [EPS](/ro/image/eps/) (Encapsulated PostScript). În plus, MetaPost vine distribuit cu cadre TeX și Metafont, iar fișierele MP pot fi generate din fișierele TEX și LTX utilizate de aceste aplicații. Fișierele MP conțin instrucțiuni de desen și desen algoritmic matematic pentru redarea fișierului EPS de ieșire. Motorul PDFTex poate folosi EPS creat pentru a genera direct fișiere [PDF](/ro/pdf/).
+Un fișier MP este un fișier imagine vectorială generat de limbajul de programare MetaPost pentru a crea imagini. Imaginile vectoriale create folosind formatul de fișier MP sunt salvate ca fișiere [EPS](/ro/page-description-language/eps/) (Encapsulated PostScript). În plus, MetaPost vine distribuit cu cadre TeX și Metafont, iar fișierele MP pot fi generate din fișierele TEX și LTX utilizate de aceste aplicații. Fișierele MP conțin instrucțiuni de desen și desen algoritmic matematic pentru redarea fișierului EPS de ieșire. Motorul PDFTex poate folosi EPS creat pentru a genera direct fișiere [PDF](/ro/pdf/).
 
 ## Format de fișier MP
 
