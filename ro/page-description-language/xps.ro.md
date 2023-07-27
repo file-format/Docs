@@ -25,7 +25,7 @@ Vizualizatoarele XPS sunt integrate ca parte a Windows Vista, Windows 7, Windows
 
 ## Scurt istoric ##
 
-Microsoft a transmis specificația XPS către Ecma International. În iunie 2007, Ecma Technical Committee 46 (TC46) a fost înființat pentru a dezvolta un standard bazat pe OpenXPS Paper Specifications. Ecma International a aprobat Standardul Ecma (ECMA-388) [specificații XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm) în iunie 2009 la cea de-a 97-a Adunare Generală.
+Microsoft a transmis specificația XPS către Ecma International. În iunie 2007, Ecma Technical Committee 46 (TC46) a fost înființat pentru a dezvolta un standard bazat pe OpenXPS Paper Specifications. Ecma International a aprobat Standardul Ecma (ECMA-388) [specificații XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/) în iunie 2009 la cea de-a 97-a Adunare Generală.
 
 ## Format fișier XPS ##
 
@@ -55,6 +55,6 @@ Un document XPS tipic arată după cum urmează și poate fi analizat în lumina
 
 ## Referințe ##
 
-* [Specificații de format de fișier XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+* [Specificații de format de fișier XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 * [XPS - Prin Wikipedia](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

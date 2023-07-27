@@ -19,7 +19,7 @@
 
 ## מהו קובץ LRS?
 
-קובץ עם סיומת .lrs (Librie Reader Source) מתייחס לקובץ ביניים המשמש את Sony Portable Reader. הוא מכיל מידע שפועל כמקור ליצירת ספר אלקטרוני של Sony Broadbandband (BBeB). קבצי LRS מכילים פרטים על קובץ הספר האלקטרוני בצורה של תיאורים של התוכן והמאפיינים. קובצי LRS משמשים ליצירת קבצי [LRF](/he/ebook/lrf) ו-LRX באמצעות כלים וממשקי API זמינים לציבור. ניתן להשתמש במספר יישומי תוכנה כגון Calibre, BookDesignerMkelrf ו-Canon Book Creator לפתיחת קובצי LRS ב-Windows, Linux ו-MAC.
+קובץ עם סיומת .lrs (Librie Reader Source) מתייחס לקובץ ביניים המשמש את Sony Portable Reader. הוא מכיל מידע שפועל כמקור ליצירת ספר אלקטרוני של Sony Broadbandband (BBeB). קבצי LRS מכילים פרטים על קובץ הספר האלקטרוני בצורה של תיאורים של התוכן והמאפיינים. קובצי LRS משמשים ליצירת קבצי [LRF](/he/ebook/lrf/) ו-LRX באמצעות כלים וממשקי API זמינים לציבור. ניתן להשתמש במספר יישומי תוכנה כגון Calibre, BookDesignerMkelrf ו-Canon Book Creator לפתיחת קובצי LRS ב-Windows, Linux ו-MAC.
 
 ## פורמט קובץ LRS
 

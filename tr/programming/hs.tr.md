@@ -39,7 +39,7 @@ Bir .hs dosyası aşağıdaki bilgileri içerebilir.
 
 ## Java HS Dosya Biçimi
 
-Java HS dosyaları XML dosya biçimindedir ve World Wide Web Konsorsiyumu (W3C) Genişletilmiş İşaretleme Dili tarafından önerilen tavsiyeye dayalıdır [PR-xml-971208](http://www.w3.org/TR/PR-xml- 971208). Bu, bir Java HS dosyasının, herhangi bir XML okuyucu uygulamasında açılabilen, insanlar tarafından okunabilen XML dosyası biçiminde olduğu anlamına gelir.
+Java HS dosyaları XML dosya biçimindedir ve World Wide Web Konsorsiyumu (W3C) Genişletilmiş İşaretleme Dili tarafından önerilen tavsiyeye dayalıdır [PR-xml-971208](https://www.w3.org/TR/PR-xml-971208). Bu, bir Java HS dosyasının, herhangi bir XML okuyucu uygulamasında açılabilen, insanlar tarafından okunabilen XML dosyası biçiminde olduğu anlamına gelir.
 
 ### Java HS Dosya Biçimi Örneği
 
@@ -159,7 +159,7 @@ Herhangi bir programlama dili gibi, HS dosyaları da insan tarafından okunabile
 
 ### HS Dosya Biçimi Örneği
 
-Kod bir .hs dosyasına yazılabilir ve [GHC](http://haskell.org/ghc) gibi bir Haskell derleyici kullanılarak derlenebilir. Aşağıdaki kod satırı, aşağıdaki örnekte gösterildiği gibi 'HelloWorld.hs' olarak kaydedilir.
+Kod bir .hs dosyasına yazılabilir ve [GHC](https://haskell.org/ghc) gibi bir Haskell derleyici kullanılarak derlenebilir. Aşağıdaki kod satırı, aşağıdaki örnekte gösterildiği gibi 'HelloWorld.hs' olarak kaydedilir.
 
 ```
 main = putStrLn "Hello, World!"

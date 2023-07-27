@@ -39,7 +39,7 @@ Plik .hs może zawierać następujące informacje.
 
 ## Format pliku Java HS
 
-Pliki Java HS są w formacie XML i są oparte na zaleceniach organizacji World Wide Web Consortium (W3C) Extended Markup Language [PR-xml-971208](http://www.w3.org/TR/PR-xml- 971208). Oznacza to, że plik Java HS jest w czytelnym dla człowieka formacie pliku XML, który można otworzyć w dowolnej aplikacji czytnika XML.
+Pliki Java HS są w formacie XML i są oparte na zaleceniach organizacji World Wide Web Consortium (W3C) Extended Markup Language [PR-xml-971208](https://www.w3.org/TR/PR-xml-971208). Oznacza to, że plik Java HS jest w czytelnym dla człowieka formacie pliku XML, który można otworzyć w dowolnej aplikacji czytnika XML.
 
 ### Przykład formatu pliku Java HS
 
@@ -159,7 +159,7 @@ Jak każdy język programowania, pliki HS są zapisywane w formacie zwykłego te
 
 ### Przykład formatu pliku HS
 
-Kod można zapisać w pliku .hs i skompilować przy użyciu kompilatora Haskella, takiego jak [GHC](http://haskell.org/ghc). Poniższy wiersz kodu jest zapisywany jako `HelloWorld.hs`, jak pokazano w poniższym przykładzie.
+Kod można zapisać w pliku .hs i skompilować przy użyciu kompilatora Haskella, takiego jak [GHC](https://haskell.org/ghc). Poniższy wiersz kodu jest zapisywany jako `HelloWorld.hs`, jak pokazano w poniższym przykładzie.
 
 ```
 main = putStrLn "Hello, World!"

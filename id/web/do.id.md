@@ -27,5 +27,5 @@ File DO disimpan sebagai file web yang dibuka di browser saat pengguna mengirim 
 
 ## Referensi
 
-* [DML](http://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
+* [DML](https://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
 

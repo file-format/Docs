@@ -25,5 +25,5 @@ En fil med filtillägget .phj är en projektfil skapad med PhCNC-programvara som
 
 ## Referenser
 
-* [PhCNC](http://www.accuratecnc.com/PhCNC.php)
+* [PhCNC](https://www.accuratecnc.com/PhCNC.php)
 

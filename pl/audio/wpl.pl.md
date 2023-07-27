@@ -23,7 +23,7 @@ Plik z rozszerzeniem .wpl zawiera listę odtwarzania utworów do uruchomienia w 
 
 ## Format pliku WPL
 
-WPL (Windows Media Player Playlist) to zastrzeżony format plików używany w programie Microsoft Windows Media Player w wersji 9 lub nowszej. Jest to format pliku komputerowego, który przechowuje multimedialne listy odtwarzania. Domyślnie lista odtwarzania jest zapisywana z rozszerzeniem .wpl (Windows Media Player Playlist). Zamiast tego możesz użyć rozszerzenia [.m3u](/pl/audio/m3u), jeśli chcesz odtwarzać płyty z danymi w urządzeniu, które nie obsługuje tego rozszerzenia. Elementy pliku WPL są reprezentowane w formacie XML.
+WPL (Windows Media Player Playlist) to zastrzeżony format plików używany w programie Microsoft Windows Media Player w wersji 9 lub nowszej. Jest to format pliku komputerowego, który przechowuje multimedialne listy odtwarzania. Domyślnie lista odtwarzania jest zapisywana z rozszerzeniem .wpl (Windows Media Player Playlist). Zamiast tego możesz użyć rozszerzenia [.m3u](/pl/audio/m3u/), jeśli chcesz odtwarzać płyty z danymi w urządzeniu, które nie obsługuje tego rozszerzenia. Elementy pliku WPL są reprezentowane w formacie XML.
 
 Element najwyższego poziomu „smil” określa, że elementy pliku są zgodne ze strukturą Synchronized Multimedia Integration Language (SMIL). Plik jest tworzony i zapisywany z rozszerzeniem .wpl, a jego typem MIME jest application/vnd.ms-wpl.
 

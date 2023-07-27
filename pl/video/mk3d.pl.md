@@ -55,5 +55,5 @@ W przypadku wielu ścieżek kontener MKV musi oddzielnie decydować o funkcjonal
 ## Bibliografia ##
 
 - [Uwagi dotyczące specyfikacji Matroska](https://www.matroska.org/technical/notes.html)
-- [Obsługa kontenerów plików MKV dla wideo stereo 3D i plików MK3D](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d- akta/)
+- [Obsługa kontenerów plików MKV dla wideo stereo 3D i plików MK3D](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d-files/)
 

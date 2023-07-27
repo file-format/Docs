@@ -23,7 +23,7 @@ Soubor s příponou .wpl obsahuje seznam skladeb, které mají být spuštěny v
 
 ## Formát souboru WPL
 
-WPL (Windows Media Player Playlist) je proprietární formát souboru používaný v programu Microsoft Windows Media Player verze 9 nebo vyšší. Jedná se o počítačový formát souborů, který ukládá multimediální seznamy skladeb. Ve výchozím nastavení je seznam stop uložen s příponou .wpl (seznam stop Windows Media Player). Místo toho můžete použít rozšíření [.m3u](/cs/audio/m3u), pokud chcete přehrávat své datové disky v zařízení, které toto rozšíření nepodporuje. Prvky souboru WPL jsou reprezentovány ve formátu XML.
+WPL (Windows Media Player Playlist) je proprietární formát souboru používaný v programu Microsoft Windows Media Player verze 9 nebo vyšší. Jedná se o počítačový formát souborů, který ukládá multimediální seznamy skladeb. Ve výchozím nastavení je seznam stop uložen s příponou .wpl (seznam stop Windows Media Player). Místo toho můžete použít rozšíření [.m3u](/cs/audio/m3u/), pokud chcete přehrávat své datové disky v zařízení, které toto rozšíření nepodporuje. Prvky souboru WPL jsou reprezentovány ve formátu XML.
 
 Prvek nejvyšší úrovně „smil“ určuje, že prvky souboru se řídí strukturou SMIL (Synchronized Multimedia Integration Language). Soubor je vytvořen a uložen s příponou .wpl a jeho typ MIME je application/vnd.ms-wpl.
 

@@ -29,7 +29,7 @@ DOCM файловете са документи, генерирани от Micro
 
 Файловият формат DOCM следва същата DOCX структура, базирана на файловия формат Office OpenXML. Съдържанието на файлов формат DOCM може да се види, като го преименувате на ZIP и отворите архива с помощта на която и да е помощна програма. Спецификациите [MS-DOCX](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx) определят подробности за файловия формат на Office OpenXML за файловия формат DOCX за справка на разработчиците и са приложими и за DOTM. Макросите се съдържат в двоичен файл с име vbaProject.bin, с два поддържащи файла vbaProject.bin.rels и vbaData.xml.
 
-![](http://social.technet.microsoft.com/Forums/getfile/331363)
+![](https://social.technet.microsoft.com/Forums/getfile/331363)
 
 ## Препратки
 

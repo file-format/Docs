@@ -19,7 +19,7 @@
 
 ## Co je soubor MP?
 
-Soubor MP je soubor vektorového obrázku generovaný programovacím jazykem MetaPost pro vytváření obrázků. Vektorové obrázky vytvořené pomocí formátu MP se ukládají jako soubory [EPS](/cs/image/eps/) (Encapsulated PostScript). Kromě toho je MetaPost distribuován s rámci TeX a Metafont a soubory MP lze generovat ze souborů TEX a LTX používaných těmito aplikacemi. Soubory MP obsahují příkazy výkresu a matematický algoritmický výkres pro vykreslení výstupního souboru EPS. PDFTex engine může použít vytvořený EPS k přímému generování [PDF](/cs/pdf/) souborů.
+Soubor MP je soubor vektorového obrázku generovaný programovacím jazykem MetaPost pro vytváření obrázků. Vektorové obrázky vytvořené pomocí formátu MP se ukládají jako soubory [EPS](/cs/page-description-language/eps/) (Encapsulated PostScript). Kromě toho je MetaPost distribuován s rámci TeX a Metafont a soubory MP lze generovat ze souborů TEX a LTX používaných těmito aplikacemi. Soubory MP obsahují příkazy výkresu a matematický algoritmický výkres pro vykreslení výstupního souboru EPS. PDFTex engine může použít vytvořený EPS k přímému generování [PDF](/cs/pdf/) souborů.
 
 ## Formát souboru MP
 

@@ -34,7 +34,7 @@ Odată cu lansarea 4th Dimension v3.1 în 1993, a fost lansat 4D Client v1.1, o 
 
 ## Specificații pentru formatul fișierului 4DD ##
 
-Fișierul de date include toate datele care sunt introduse în înregistrări, precum și toate datele care sunt asociate acestora. Fișierul de date este numit după numele pe care îl introduceți în caseta de dialog pentru crearea bazei de date, urmat de [4DB](/ro/database/4db).
+Fișierul de date include toate datele care sunt introduse în înregistrări, precum și toate datele care sunt asociate acestora. Fișierul de date este numit după numele pe care îl introduceți în caseta de dialog pentru crearea bazei de date, urmat de [4DB](/ro/database/4db/).
 
 Fișierul de date existent este deschis ca de obicei atunci când încărcați un fișier de structură 4D. Dacă modificați numele sau locația fișierului, caseta de dialog Open data folder vă permite să alegeți sau să construiți o nouă bază de date.
 

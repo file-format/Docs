@@ -29,7 +29,7 @@ DOCM-bestandsindeling is gebaseerd op de Office OpenXML-standaard. Het was in he
 
 De DOCM-bestandsindeling volgt dezelfde DOCX-structuur op basis van de Office OpenXML-bestandsindeling. De inhoud van een DOCM-bestandsformaat kan worden bekeken door het te hernoemen naar ZIP en het archief te openen met een ondersteunend hulpprogramma. De specificaties van [MS-DOCX](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx) definiëren de details van de Office OpenXML-bestandsindeling voor de DOCX-bestandsindeling ter referentie voor ontwikkelaars en zijn ook van toepassing op DOTM. De macro's zijn opgenomen in een binair bestand met de naam vbaProject.bin, met twee ondersteunende bestanden vbaProject.bin.rels en vbaData.xml.
 
-![](http://social.technet.microsoft.com/Forums/getfile/331363)
+![](https://social.technet.microsoft.com/Forums/getfile/331363)
 
 ## Referenties
 

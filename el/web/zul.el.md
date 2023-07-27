@@ -34,9 +34,9 @@
 <window title="Super Hello" border="normal">
     <button label="hi" onClick='alert("hi")'/>
 ```
-Το σχήμα ZUL μπορεί να ληφθεί από τη διεύθυνση http://www.zkoss.org/2005/zul/zul.xsd.
+Το σχήμα ZUL μπορεί να ληφθεί από τη διεύθυνση https://www.zkoss.org/2005/zul/zul.xsd.
 ## βιβλιογραφικές αναφορές
 
 * [ZUL - By ZK](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
-* [Σχήμα ZUL](http://www.zkoss.org/2005/zul/zul.xsd)
+* [Σχήμα ZUL](https://www.zkoss.org/2005/zul/zul.xsd)
 

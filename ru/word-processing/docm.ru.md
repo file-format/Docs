@@ -29,7 +29,7 @@
 
 Формат файла DOCM следует той же структуре DOCX, основанной на формате файла Office OpenXML. Содержимое файла формата DOCM можно просмотреть, переименовав его в ZIP и открыв архив с помощью любой вспомогательной утилиты. Спецификации [MS-DOCX](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx) определяют сведения о формате файла Office OpenXML для формата файла DOCX для справки разработчиков. и применимы и к DOTM. Макросы содержатся в двоичном файле с именем vbaProject.bin с двумя вспомогательными файлами vbaProject.bin.rels и vbaData.xml.
 
-![](http://social.technet.microsoft.com/Forums/getfile/331363)
+![](https://social.technet.microsoft.com/Forums/getfile/331363)
 
 ## использованная литература
 

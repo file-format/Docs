@@ -30,6 +30,6 @@ GZIP-filer sparas ofta som [GZ](/sv/compression/gz/) filformat.
 
 * [gzip](http://www.gzip.org/)
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952: GZIP filformatspecifikation](http://tools.ietf.org/html/rfc1952), av IETF
+* [RFC1952: GZIP filformatspecifikation](https://datatracker.ietf.org/doc/html/rfc1952), av IETF
 * [RFC 1951](https://tools.ietf.org/html/rfc1951)
 

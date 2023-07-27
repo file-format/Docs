@@ -30,10 +30,10 @@
 * بيانات مضغوطة
 * تذييل الملف
 
-يحتوي تنسيق ملف GZIP [المواصفات الإصدار 4.3](http://tools.ietf.org/html/rfc1952) الذي نشرته فرقة عمل هندسة الإنترنت (IETF) على معلومات مفصلة حول تنسيق الملف.
+يحتوي تنسيق ملف GZIP [المواصفات الإصدار 4.3](https://datatracker.ietf.org/doc/html/rfc1952) الذي نشرته فرقة عمل هندسة الإنترنت (IETF) على معلومات مفصلة حول تنسيق الملف.
 
 ## مراجع
 
-* [RFC1952: مواصفات تنسيق ملف GZIP](http://tools.ietf.org/html/rfc1952) ، بواسطة [IETF](https://www.ietf.org/)
+* [RFC1952: مواصفات تنسيق ملف GZIP](https://datatracker.ietf.org/doc/html/rfc1952) ، بواسطة [IETF](https://www.ietf.org/)
 * [Windows MetaFile - Wikipedia](https://en.wikipedia.org/wiki/Windows_Metafile)
 

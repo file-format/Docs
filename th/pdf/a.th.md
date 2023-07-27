@@ -58,5 +58,5 @@ PDF/A-3 รวมข้อกำหนดความสอดคล้องท
 ## อ้างอิง ##
 
 * [PDF/A - โดย Wikipedia](https://en.wikipedia.org/wiki/PDF/A)
-* [สมุดปกขาว: PDF/A – พื้นฐาน](http://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
+* [สมุดปกขาว: PDF/A – พื้นฐาน](https://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
 

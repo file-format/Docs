@@ -23,7 +23,7 @@ Un fișier cu extensia .wpl conține lista de redare a melodiilor care urmează 
 
 ## Format de fișier WPL
 
-WPL (Windows Media Player Playlist) este un format de fișier proprietar utilizat în Microsoft Windows Media Player versiunile 9 sau mai mari. Este un format de fișier de computer care stochează liste de redare multimedia. În mod implicit, lista de redare este salvată cu o extensie .wpl (Windows Media Player Playlist). Puteți utiliza în schimb extensia [.m3u](/ro/audio/m3u), dacă doriți să redați discurile de date pe un dispozitiv care nu acceptă această extensie. Elementele unui fișier WPL sunt reprezentate în format XML.
+WPL (Windows Media Player Playlist) este un format de fișier proprietar utilizat în Microsoft Windows Media Player versiunile 9 sau mai mari. Este un format de fișier de computer care stochează liste de redare multimedia. În mod implicit, lista de redare este salvată cu o extensie .wpl (Windows Media Player Playlist). Puteți utiliza în schimb extensia [.m3u](/ro/audio/m3u/), dacă doriți să redați discurile de date pe un dispozitiv care nu acceptă această extensie. Elementele unui fișier WPL sunt reprezentate în format XML.
 
 Elementul de nivel superior „smil” specifică faptul că elementele fișierului urmează structura Synchronized Multimedia Integration Language (SMIL). Fișierul este creat și salvat cu extensia .wpl, iar tipul său MIME este application/vnd.ms-wpl.
 

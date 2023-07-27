@@ -25,7 +25,7 @@ En fil med ica-tillägg är en konfigurationsfil som skapas baserat på Independ
 
 ICA-filer lagras på skiva i vanlig textformat och är lätt att läsa av människor. ICA-filer anger parametrarna som klientapplikationerna för fjärrskrivbordsklienter, som Citrix Receiver, använder för att ansluta till applikationer som finns på virtuella fjärrskrivbord.
 
-ICA-filer bör överensstämma med vissa initialiseringar och format för att lyckas med anslutning. Dessa nämns i [Inställningsreferens för Citrix ICA](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html) och inkluderar fält som:
+ICA-filer bör överensstämma med vissa initialiseringar och format för att lyckas med anslutning. Dessa nämns i [Inställningsreferens för Citrix ICA](https://docs.citrix.com/en-us/categories/legacy-archive) och inkluderar fält som:
 
 * Ingångskodning
 * TCP webbläsaradress
@@ -37,5 +37,5 @@ ICA-filer bör överensstämma med vissa initialiseringar och format för att ly
 ## Referenser
 
 * [Förstå ICA-filinnehåll](https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
-* [Inställningsreferens för Citrix ICA](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
+* [Inställningsreferens för Citrix ICA](https://docs.citrix.com/en-us/categories/legacy-archive)
 

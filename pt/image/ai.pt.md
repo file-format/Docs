@@ -19,7 +19,7 @@
 
 ## O que é um arquivo AI?
 
-Um arquivo com extensão .ai é um arquivo de arte do Adobe Illustrator que contém gráficos vetoriais em uma única página. ele usa pontos para criar caminhos para exibir os dados da imagem, evitando assim a perda de qualidade da imagem se for ampliada. O formato de arquivo AI é baseado no formato de arquivo PGF, que é semelhante aos arquivos AI. O formato AI encontra seu maior uso para logotipos e mídia impressa, e suas versões iniciais foram consideradas semelhantes às dos arquivos [EPS](/pt/image/eps/). Os arquivos AI podem ser abertos com as ferramentas Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro e CorelDraw Graphics.
+Um arquivo com extensão .ai é um arquivo de arte do Adobe Illustrator que contém gráficos vetoriais em uma única página. ele usa pontos para criar caminhos para exibir os dados da imagem, evitando assim a perda de qualidade da imagem se for ampliada. O formato de arquivo AI é baseado no formato de arquivo PGF, que é semelhante aos arquivos AI. O formato AI encontra seu maior uso para logotipos e mídia impressa, e suas versões iniciais foram consideradas semelhantes às dos arquivos [EPS](/pt/page-description-language/eps/). Os arquivos AI podem ser abertos com as ferramentas Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro e CorelDraw Graphics.
 
 ## Formato de arquivo AI
 

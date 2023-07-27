@@ -58,5 +58,5 @@ PDF/A-3 include toate cerințele de conformitate ale nivelului 2 și permite în
 ## Referințe ##
 
 * [PDF/A - După Wikipedia](https://en.wikipedia.org/wiki/PDF/A)
-* [Cartea albă: PDF/A – Noțiuni de bază](http://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
+* [Cartea albă: PDF/A – Noțiuni de bază](https://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
 

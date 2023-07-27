@@ -31,7 +31,7 @@ Este folosit mai ales pentru înregistrări vocale și compresie. În acest form
 
 Fișierele VOX sunt asociate cu plăcile media numite DMV și JCT ale Dialogic. Acestea aparțin VoxWare și multor alte programe software. Înainte era considerat un format învechit.
 
-Fiind un format învechit, nu a fost folosit după aceea. Similar cu alte formate ADPCM, a fost comprimat în 4 biți. Caracteristicile acestor fișiere sunt suficient de apropiate de specificațiile fișierului [WAV](/ro/audio/wav).
+Fiind un format învechit, nu a fost folosit după aceea. Similar cu alte formate ADPCM, a fost comprimat în 4 biți. Caracteristicile acestor fișiere sunt suficient de apropiate de specificațiile fișierului [WAV](/ro/audio/wav/).
 
 
 ## Specificații de format ##

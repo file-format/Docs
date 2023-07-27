@@ -28,7 +28,7 @@ Tệp APKS được lưu dưới dạng tệp nén sử dụng định dạng t�
 
 ## Làm cách nào để tạo tệp APKS?
 
-Khi Android App Bundle (AAB) sẵn sàng, hành vi của nó trên cửa hàng Google Play có thể được thử nghiệm để triển khai cho một thiết bị. Các tệp APKS có thể được tạo, cho mục đích này, từ các tệp AAB và được cài đặt trên các thiết bị thử nghiệm bằng [công cụ gói] Android của Google (https://developer.android.com/studio/command-line/bundletool). Nó cung cấp các công cụ dòng lệnh để tạo tệp lưu trữ APKS từ APK bằng cách sử dụng lệnh sau.
+Khi Android App Bundle (AAB) sẵn sàng, hành vi của nó trên cửa hàng Google Play có thể được thử nghiệm để triển khai cho một thiết bị. Các tệp APKS có thể được tạo, cho mục đích này, từ các tệp AAB và được cài đặt trên các thiết bị thử nghiệm bằng [công cụ gói] Android của Google (https://developer.android.com/tools/bundletool). Nó cung cấp các công cụ dòng lệnh để tạo tệp lưu trữ APKS từ APK bằng cách sử dụng lệnh sau.
 
 ```
 bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
@@ -46,5 +46,5 @@ bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
 
 ## Người giới thiệu
 
-* [bundletool - dòng lệnh](https://developer.android.com/studio/command-line/bundletool)
+* [bundletool - dòng lệnh](https://developer.android.com/tools/bundletool)
 

@@ -25,7 +25,7 @@
 
 Файли ICA зберігаються на диску у форматі звичайного тексту та легко читаються людьми. Файли ICA визначають параметри, які клієнтські програми віддаленого робочого столу, такі як Citrix Receiver, використовують для підключення до програм, розміщених на віддалених віртуальних робочих столах.
 
-Для успішного підключення файли ICA повинні відповідати певним параметрам ініціалізації та форматам. Вони згадуються в [Довідці про параметри Citrix ICA](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html) і включають такі поля, як:
+Для успішного підключення файли ICA повинні відповідати певним параметрам ініціалізації та форматам. Вони згадуються в [Довідці про параметри Citrix ICA](https://docs.citrix.com/en-us/categories/legacy-archive) і включають такі поля, як:
 
 * Вхідне кодування
 * Адреса браузера TCP
@@ -37,5 +37,5 @@
 ## Список літератури
 
 * [Розуміння вмісту файлу ICA](https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
-* [Довідка про налаштування Citrix ICA](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
+* [Довідка про налаштування Citrix ICA](https://docs.citrix.com/en-us/categories/legacy-archive)
 

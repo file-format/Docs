@@ -23,7 +23,7 @@
 
 ## TBZ Dosya Biçimi
 
-TBZ dosyaları aslında BZIP/[BZIP2](/tr/compression/bz2) sıkıştırmasıyla oluşturulan sıkıştırılmış arşivlerdir. Bu dosya biçimi için resmi bir belirtim yoktur. Bununla birlikte, resmi olmayan bir [tersine mühendislik spesifikasyonu](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf), bir .bz2 akışının 4 baytlık bir başlıktan oluştuğunu ve bunu izleyen sıfır veya daha fazla sıkıştırılmış blok ile.
+TBZ dosyaları aslında BZIP/[BZIP2](/tr/compression/bz2/) sıkıştırmasıyla oluşturulan sıkıştırılmış arşivlerdir. Bu dosya biçimi için resmi bir belirtim yoktur. Bununla birlikte, resmi olmayan bir [tersine mühendislik spesifikasyonu](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf), bir .bz2 akışının 4 baytlık bir başlıktan oluştuğunu ve bunu izleyen sıfır veya daha fazla sıkıştırılmış blok ile.
 
 ## Referanslar ##
 

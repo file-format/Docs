@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo OTG?
 
-Un archivo OTG es una plantilla de dibujo que se crea utilizando el estándar OpenDocument que sigue las aplicaciones de Office OASIS [especificación 1.0](http://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0 -os.pdf). Representa la organización predeterminada de elementos de dibujo para una imagen vectorial que se puede utilizar para mejorar aún más el contenido del archivo. Los archivos OTF son como cualquier otro archivo basado en formato OpenDocument que se basa en formato XML para representar el contenido del documento. Los archivos OTF se pueden ver abriéndolos en cualquier editor de texto o XML estándar.
+Un archivo OTG es una plantilla de dibujo que se crea utilizando el estándar OpenDocument que sigue las aplicaciones de Office OASIS [especificación 1.0](https://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0-os.pdf). Representa la organización predeterminada de elementos de dibujo para una imagen vectorial que se puede utilizar para mejorar aún más el contenido del archivo. Los archivos OTF son como cualquier otro archivo basado en formato OpenDocument que se basa en formato XML para representar el contenido del documento. Los archivos OTF se pueden ver abriéndolos en cualquier editor de texto o XML estándar.
 
 ## Especificaciones de formato de archivo OTG ##
 

@@ -19,15 +19,15 @@
 
 ## Czym jest plik U3D?
 
-**U3D** (Universal 3D) to skompresowany format plików i struktura danych do grafiki komputerowej 3D. Zawiera informacje o modelu 3D, takie jak siatki trójkątów, oświetlenie, cieniowanie, dane ruchu, linie i punkty z kolorem i strukturą. Format został zaakceptowany jako standard [ECMA-363](http://www.ecma-international.org/publications/standards/Ecma-363.htm) w sierpniu 2005 r. Dokumenty 3D [PDF](/pl/pdf/) obsługują format U3D osadzanie obiektów i można je przeglądać w programie Adobe Reader (wersja 7 i nowsze).
+**U3D** (Universal 3D) to skompresowany format plików i struktura danych do grafiki komputerowej 3D. Zawiera informacje o modelu 3D, takie jak siatki trójkątów, oświetlenie, cieniowanie, dane ruchu, linie i punkty z kolorem i strukturą. Format został zaakceptowany jako standard [ECMA-363](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) w sierpniu 2005 r. Dokumenty 3D [PDF](/pl/pdf/) obsługują format U3D osadzanie obiektów i można je przeglądać w programie Adobe Reader (wersja 7 i nowsze).
 
 Format U3D został opracowany z myślą o ustanowieniu uniwersalnego standardu trójwymiarowego przechowywania i wymiany danych. Jednak format znajduje swoje główne zastosowanie w kodowaniu 3D PDF, a nie jako format wymiany. Program Acrobat 3D konwertuje obsługiwany typ pliku 3D na format U3D lub PRC po konwersji do formatu PDF.
 
 ## Format pliku U3D
 
-Pliki U3D są w formacie pliku binarnego, który przeszedł cztery edycje zgodnie z opisem w dokumencie referencyjnym [ECMA-363](http://www.ecma-international.org/publications/standards/Ecma-363.htm), co spowodowało aktualizację specyfikacji z każdą edycją. Standard pliku PDF ISO-32000 akceptuje U3D jako dozwolony typ adnotacji i multimediów.
+Pliki U3D są w formacie pliku binarnego, który przeszedł cztery edycje zgodnie z opisem w dokumencie referencyjnym [ECMA-363](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/), co spowodowało aktualizację specyfikacji z każdą edycją. Standard pliku PDF ISO-32000 akceptuje U3D jako dozwolony typ adnotacji i multimediów.
 
-Pierwsza edycja U3D koncentrowała się na kluczowych reprezentacjach właściwości grafiki 3D, takich jak geometria, kolor, tekstury, oświetlenie, kości i animacja oparta na transformacji. Wydanie drugie i trzecie poprawiło niektóre błędy w wydaniu pierwszym, przy czym wersja trzecia jest najczęściej używanym typem oprogramowania branżowego. Czwarta edycja zawiera definicje prymitywów wyższego rzędu (powierzchnie zakrzywione). [Specyfikacje U3D](http://www.ecma-international.org/publications/standards/Ecma-363.htm) są dostępne online do wglądu dla użytkowników na stronie internetowej ECMA.
+Pierwsza edycja U3D koncentrowała się na kluczowych reprezentacjach właściwości grafiki 3D, takich jak geometria, kolor, tekstury, oświetlenie, kości i animacja oparta na transformacji. Wydanie drugie i trzecie poprawiło niektóre błędy w wydaniu pierwszym, przy czym wersja trzecia jest najczęściej używanym typem oprogramowania branżowego. Czwarta edycja zawiera definicje prymitywów wyższego rzędu (powierzchnie zakrzywione). [Specyfikacje U3D](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) są dostępne online do wglądu dla użytkowników na stronie internetowej ECMA.
 
 ### Typy danych w plikach U3D
 

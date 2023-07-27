@@ -26,5 +26,5 @@ Các tệp TRM được lưu ở định dạng tệp độc quyền của Oracl
 
 ## Người giới thiệu ##
 
-* [Tệp .trm trong oracle 11g là gì?](https://community.oracle.com/tech/developers/discussion/945615/what-is-trm-file-in-oracle-11g)
+* [Tệp .trm trong oracle 11g là gì?](https://forums.oracle.com/ords/apexds/post/what-is-trm-file-in-oracle-11g-0659)
 

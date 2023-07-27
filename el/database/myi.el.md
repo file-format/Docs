@@ -51,5 +51,5 @@ CREATE [UNIQUE] INDEX.
 
 ## Βιβλιογραφικές αναφορές ##
 
-- [Το αρχείο .MYI](https://dev.mysql.com/doc/internals/en/the-myi-file.html)
+- [Το αρχείο .MYI](https://dev.mysql.com/doc/dev/mysql-server/latest/)
 

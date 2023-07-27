@@ -23,7 +23,7 @@ En fil med tillägget .kgb är en komprimerad arkivfil som skapats med KGB-arkiv
 
 ## KGB filformat
 
-Det finns inga tekniska implementeringsdetaljer tillgängliga om KGB-filformatet. Den erbjuder AES-256-kryptering för att skydda de arkiverade filerna. KGB-arkivet utvecklades i Visual [C++](/sv/programming/cpp) av Tomasz Pawlak i april 2006 och det antogs komprimera en [1 GB-fil till upp till 10 MB](https://web.archive.org/ web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/) fil.
+Det finns inga tekniska implementeringsdetaljer tillgängliga om KGB-filformatet. Den erbjuder AES-256-kryptering för att skydda de arkiverade filerna. KGB-arkivet utvecklades i Visual [C++](/sv/programming/cpp/) av Tomasz Pawlak i april 2006 och det antogs komprimera en [1 GB-fil till upp till 10 MB](https://web.archive.org/ web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/) fil.
 
 ## Referenser
 

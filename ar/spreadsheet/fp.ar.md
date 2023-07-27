@@ -19,7 +19,7 @@
 
 ## ما هو ملف FP؟
 
-الملف بامتداد .fp هو ملف جدول بيانات تم إنشاؤه باستخدام برنامج [FileMaker Pro](https://www.claris.com/filemaker/pro/) بواسطة Claris. يقوم بتخزين البيانات في صفوف وأعمدة مماثلة لبرنامج Microsoft Excel. يتيح لك FileMaker Pro سحب وإفلات عدد من أنواع الملفات مثل CSV و XML لاستيراد بياناتها.
+الملف بامتداد .fp هو ملف جدول بيانات تم إنشاؤه باستخدام برنامج [FileMaker Pro](https://www.claris.com/filemaker/) بواسطة Claris. يقوم بتخزين البيانات في صفوف وأعمدة مماثلة لبرنامج Microsoft Excel. يتيح لك FileMaker Pro سحب وإفلات عدد من أنواع الملفات مثل CSV و XML لاستيراد بياناتها.
 
 ## تنسيق ملف FP
 
@@ -27,6 +27,6 @@
 
 ## مراجع
 
-* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [FileMaker Pro](https://www.claris.com/filemaker/)
 * [fmapi](https://github.com/stevenwhitespacesystems/fm-xml2json)
 

@@ -19,11 +19,11 @@
 
 ## Apa itu file GADGET?
 
-File GADGET terdiri dari program perangkat lunak kecil yang dijalankan di sidebar Windows Vista atau Windows 7. Ini memampatkan beberapa file berbasis web dan file dapat terdiri dari file [.html](/id/web/html), [.css](/id/web/css) atau [.js](/id/web/js), serta file web lainnya. File GADGET digunakan untuk komponen kecil seperti alat pencarian, feed berita, utilitas sistem, dan game kecil. Meskipun GADGET dihosting oleh Sidebar, tidak khusus untuk area Sidebar; ini dapat dilepas dan dipindahkan ke desktop sesuai keinginan.
+File GADGET terdiri dari program perangkat lunak kecil yang dijalankan di sidebar Windows Vista atau Windows 7. Ini memampatkan beberapa file berbasis web dan file dapat terdiri dari file [.html](/id/web/html/), [.css](/id/web/css/) atau [.js](/id/web/js/), serta file web lainnya. File GADGET digunakan untuk komponen kecil seperti alat pencarian, feed berita, utilitas sistem, dan game kecil. Meskipun GADGET dihosting oleh Sidebar, tidak khusus untuk area Sidebar; ini dapat dilepas dan dipindahkan ke desktop sesuai keinginan.
 
 ## format file GADGET
 
-File GADGET adalah arsip [ZIP](/id/compression/zip) yang berganti nama yang berisi kumpulan file HTML, XML, JScript, dan CSS (Cascading Style Sheets). Penginstalan berisi pengunduhan file .gadget dan mengaktifkan proses pengunduhan untuk menginstal komponen atau menyimpan file .gadget ke sistem lokal dan mengklik dua kali untuk memulai proses penginstalan.
+File GADGET adalah arsip [ZIP](/id/compression/zip/) yang berganti nama yang berisi kumpulan file HTML, XML, JScript, dan CSS (Cascading Style Sheets). Penginstalan berisi pengunduhan file .gadget dan mengaktifkan proses pengunduhan untuk menginstal komponen atau menyimpan file .gadget ke sistem lokal dan mengklik dua kali untuk memulai proses penginstalan.
 
 Pada dasarnya, sebuah GADGET berisi dua file:
 

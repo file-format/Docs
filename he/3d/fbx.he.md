@@ -80,7 +80,7 @@ Definitions: {
 
 ## מבנה קבצים בינאריים של קבצי FBX
 
-כפי שצוין קודם לכן, מפרטי פורמט קובץ FBX אינם זמינים באופן ציבורי עבור FBX. מכיוון ש-Blender Foundation מיישמת את פורמט הקובץ FBX מבלי להשתמש ב-SDK שסופק על ידי החברה, חלק מהפרטים על פורמט קובץ בינארי הם [זמינים](https://code.blender.org/2013/08/fbx-binary-file-format -specification/) כחלק מהטמעתו.
+כפי שצוין קודם לכן, מפרטי פורמט קובץ FBX אינם זמינים באופן ציבורי עבור FBX. מכיוון ש-Blender Foundation מיישמת את פורמט הקובץ FBX מבלי להשתמש ב-SDK שסופק על ידי החברה, חלק מהפרטים על פורמט קובץ בינארי הם [זמינים](https://code.blender.org/2013/08/fbx-binary-file-format-specification/) כחלק מהטמעתו.
 
 מבנה הקבצים הבינאריים פועל לפי הסדר הבא:
 
@@ -206,7 +206,7 @@ R: raw binary data
 
 ## הפניות ##
 
-* [FBX - The Autodesk SDK](http://help.autodesk.com/view/FBX/2017/ENU/?guid#__files_GUID_105ED19A_9A5A_425E_BFD7_C1BBADA67AAB_htm)
+* [FBX - The Autodesk SDK](https://help.autodesk.com/view/FBX/2017/ENU/)
 * [מפרטי פורמט קובץ בינארי של FBX](https://code.blender.org/2013/08/fbx-binary-file-format-specification/)
 * [FBX - ויקיפדיה](https://en.wikipedia.org/wiki/FBX#File_format)
 

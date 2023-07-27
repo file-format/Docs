@@ -23,7 +23,7 @@ Een bestand met de extensie .tbz is een gecomprimeerd archief dat BZIP-compressi
 
 ## TBZ-bestandsindeling
 
-TBZ-bestanden zijn eigenlijk gecomprimeerde archieven die zijn gemaakt met BZIP/[BZIP2](/nl/compression/bz2)-compressie. Er zijn geen formele specificaties beschikbaar voor dit bestandsformaat. Een onofficiële [reverse engineered specificaties](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) laat echter zien dat een .bz2-stream bestaat uit een 4-byte header die wordt gevolgd door nul of meer gecomprimeerde blokken.
+TBZ-bestanden zijn eigenlijk gecomprimeerde archieven die zijn gemaakt met BZIP/[BZIP2](/nl/compression/bz2/)-compressie. Er zijn geen formele specificaties beschikbaar voor dit bestandsformaat. Een onofficiële [reverse engineered specificaties](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) laat echter zien dat een .bz2-stream bestaat uit een 4-byte header die wordt gevolgd door nul of meer gecomprimeerde blokken.
 
 ## Referenties ##
 

@@ -19,7 +19,7 @@
 
 ## O que é um arquivo LZ?
 
-Um arquivo com extensão .lz é um arquivo compactado criado com Lzip, que é uma ferramenta de linha de comando gratuita para compactação. Ele suporta concatenação para compactar arquivos de suporte. Os arquivos LZ têm o tipo de mídia application/lzip e suportam taxas de compactação mais altas que [BZ2](/pt/compression/bz2). LZ são baseados no algoritmo LZMA (cadeia de Lempel-Ziv-Markov) e incluem uma soma de verificação CRC de 32 bits e bytes de identificação para verificar a integridade do arquivo.
+Um arquivo com extensão .lz é um arquivo compactado criado com Lzip, que é uma ferramenta de linha de comando gratuita para compactação. Ele suporta concatenação para compactar arquivos de suporte. Os arquivos LZ têm o tipo de mídia application/lzip e suportam taxas de compactação mais altas que [BZ2](/pt/compression/bz2/). LZ são baseados no algoritmo LZMA (cadeia de Lempel-Ziv-Markov) e incluem uma soma de verificação CRC de 32 bits e bytes de identificação para verificar a integridade do arquivo.
 
 ## Formato compactado LZMA
 

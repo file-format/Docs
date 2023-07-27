@@ -94,6 +94,6 @@ Soubory scén X3D mají společnou strukturu souborů:
 ## Reference ##
 
 * [X3D – z Wikipedie](https://en.wikipedia.org/wiki/X3D)
-* [Oficiální stránky Web3D Consortium](http://www.web3d.org/)
-* [oficiální webové stránky X3D](http://www.web3d.org/x3d/what-x3d)
+* [Oficiální stránky Web3D Consortium](https://www.web3d.org/)
+* [oficiální webové stránky X3D](https://www.web3d.org/x3d/what-x3d)
 

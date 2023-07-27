@@ -18,7 +18,7 @@
 
 ## 什么是 OBML15 文件？
 
-OBML15 文件是使用 Opera Mini 移动网络浏览器保存到移动设备的网页。它基于 Opera 二进制标记语言 (OBML)，这是此类文件格式的初始版本。 OBML15 用 Opera Mini 版本 5 的发布取代了 [OBML](/zh/web/obml)，而后来它本身又被 OBML16 取代。每个 Opera Mini 版本仅兼容一种 OBML 格式，即升级 Opera Mini 后将无法读取之前版本的已保存页面。 OBML15文件可以在线转换为[PDF](/zh/pdf/)和[HTML](/zh/web/html/)。
+OBML15 文件是使用 Opera Mini 移动网络浏览器保存到移动设备的网页。它基于 Opera 二进制标记语言 (OBML)，这是此类文件格式的初始版本。 OBML15 用 Opera Mini 版本 5 的发布取代了 [OBML](/zh/web/obml/)，而后来它本身又被 OBML16 取代。每个 Opera Mini 版本仅兼容一种 OBML 格式，即升级 Opera Mini 后将无法读取之前版本的已保存页面。 OBML15文件可以在线转换为[PDF](/zh/pdf/)和[HTML](/zh/web/html/)。
 
 ## OBML15 文件格式
 

@@ -26,5 +26,5 @@ File ECS disimpan sebagai arsip ZIP terkompresi. Itu dapat dibuka dengan program
 
 ## Referensi
 
-* [Dzip](http://speeddemosarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 

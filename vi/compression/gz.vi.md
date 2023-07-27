@@ -96,5 +96,5 @@ Chân trang tệp có kích thước 8 byte và chứa thông tin sau.
 ## Người giới thiệu ##
 
 * [gzip - Wikipedia](https://vi.wikipedia.org/wiki/Gzip)
-* [RFC1952: Đặc tả định dạng tệp GZIP](http://tools.ietf.org/html/rfc1952), bởi IETF.
+* [RFC1952: Đặc tả định dạng tệp GZIP](https://datatracker.ietf.org/doc/html/rfc1952), bởi IETF.
 

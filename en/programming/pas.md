@@ -66,4 +66,4 @@ unit Unit1;
 ## References
 
  * [Understanding Delphi Project and Unit Source Files](https://www.thoughtco.com/understanding-delphi-project-files-dpr-1057652)
- * [Writing your first Delphi program](http://www.delphibasics.co.uk/Article.asp?Name=FirstPgm)
+ * [Writing your first Delphi program](http://www.delphibasics.co.uk/Article.php?Name=FirstPgm)

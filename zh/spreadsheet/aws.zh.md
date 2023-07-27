@@ -19,7 +19,7 @@
 
 ## 什么是 AWS 文件？
 
-AWS 文件是使用 Ability Office 套件随附的 Ability Spreadsheet 软件创建的电子表格文件。它将数据存储在类似于 Microsoft Excel 的行和列中。 AWS 文件数据可以保存到 [XLS](/zh/spreadsheet/xls/) 和 [XLSX](/zh/spreadsheet/xlsx)。这使得能力电子表格文件与 Microsoft Excel 兼容。电子表格中的数据可以导出为 [PDF](/zh/pdf/) 和 [XPS](/zh/page-description-language/xps/) 文件格式。
+AWS 文件是使用 Ability Office 套件随附的 Ability Spreadsheet 软件创建的电子表格文件。它将数据存储在类似于 Microsoft Excel 的行和列中。 AWS 文件数据可以保存到 [XLS](/zh/spreadsheet/xls/) 和 [XLSX](/zh/spreadsheet/xlsx/)。这使得能力电子表格文件与 Microsoft Excel 兼容。电子表格中的数据可以导出为 [PDF](/zh/pdf/) 和 [XPS](/zh/page-description-language/xps/) 文件格式。
 
 ## AWS 文件格式 - 更多信息
 

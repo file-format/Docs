@@ -35,6 +35,6 @@ tar zxvf tgzCompressedFile.tgz
 Yukarıdaki komut, sıkıştırılmış TGZ dosyasını açar ve dosyalarını TAR arşivinden diske çıkarır.
 ## Referanslar ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - Vikipedi](https://en.wikipedia.org/wiki/Gzip)
 

@@ -26,5 +26,5 @@ Các tệp ECS được lưu dưới dạng tệp nén ZIP. Nó có thể đư�
 
 ## Người giới thiệu
 
-* [Dzip](http://speeddemosarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 

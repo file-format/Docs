@@ -35,5 +35,5 @@ ZIPX ファイルはバイナリ ファイルとしてディスクに保存さ�
 ## 参考文献
 
 * [ZIPX ファイル形式](https://kb.corel.com/ja/125951)
-* [ZIPX ファイルの解凍方法](https://answers.microsoft.com/en-us/windows/forum/all/i-want-to-extract-zipx-files/32827ca4-ceec-4faf-93d9-d9ecffb1fb41 )
+* [ZIPX ファイルの解凍方法](https://answers.microsoft.com/en-us/windows/forum/all/i-want-to-extract-zipx-files/32827ca4-ceec-4faf-93d9-d9ecffb1fb41)
 

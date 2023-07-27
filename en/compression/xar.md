@@ -61,7 +61,7 @@ Note that all fields of the header (magic, size, version, toc_length_compressed,
 
 ### XAR Table of Contents (TOC)
 
-The table of contents is an XML document that is (and must) be encoded as UTF-8. It is stored in the beginning of the file, making it easy to scan through the archive to extract individual file. The XAR archive lets you compress/encode the individual files in the archive independently using different compression schemes such as [GZIP](/compression/gz/), [BZIP2](/compression/bz2), and other similar.  
+The table of contents is an XML document that is (and must) be encoded as UTF-8. It is stored in the beginning of the file, making it easy to scan through the archive to extract individual file. The XAR archive lets you compress/encode the individual files in the archive independently using different compression schemes such as [GZIP](/compression/gz/), [BZIP2](/compression/bz2/), and other similar.  
 
 ```
 <?xml version="1.0"?>

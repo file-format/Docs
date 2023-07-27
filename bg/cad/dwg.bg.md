@@ -62,6 +62,6 @@ DWG е един от широко използваните файлови фор
 ## Препратки ##
 
 * [Спецификации на DWG файлов формат](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [Спецификацията на DWG файла](https://www.scan2cad.com/dwg/file-spec/)
+* [Спецификацията на DWG файла](https://www.scan2cad.com/blog/dwg/file-spec/)
 * [DWG – от Wikipedia](https://en.wikipedia.org/wiki/.dwg)
 

@@ -25,7 +25,7 @@ Soubor s příponou ica je konfigurační soubor, který je vytvořen na základ
 
 Soubory ICA se ukládají na disk ve formátu prostého textu a jsou snadno čitelné pro lidi. Soubory ICA určují parametry, které klientské aplikace vzdálené plochy, jako je Citrix Receiver, používají k připojení k aplikacím hostovaným na vzdálených virtuálních plochách.
 
-Pro úspěšné připojení by soubory ICA měly odpovídat určité inicializaci a formátům. Ty jsou zmíněny v [Reference nastavení Citrix ICA](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html) a zahrnují pole jako:
+Pro úspěšné připojení by soubory ICA měly odpovídat určité inicializaci a formátům. Ty jsou zmíněny v [Reference nastavení Citrix ICA](https://docs.citrix.com/en-us/categories/legacy-archive) a zahrnují pole jako:
 
 * Kódování vstupu
 * Adresa prohlížeče TCP
@@ -37,5 +37,5 @@ Pro úspěšné připojení by soubory ICA měly odpovídat určité inicializac
 ## Reference
 
 * [Porozumění obsahu souboru ICA](https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
-* [Referenční informace o nastavení Citrix ICA](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
+* [Referenční informace o nastavení Citrix ICA](https://docs.citrix.com/en-us/categories/legacy-archive)
 

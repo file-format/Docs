@@ -30,10 +30,10 @@ WMZ-Dateien sind [Gzip](/de/compression/gz/) komprimiert und enthalten [WMF](/de
 * Komprimierte Daten
 * Datei-Fußzeile
 
-Das von der Internet Engineering Task Force (IETF) veröffentlichte GZIP-Dateiformat [Spezifikationen Version 4.3](http://tools.ietf.org/html/rfc1952) enthält detaillierte Informationen zum Dateiformat.
+Das von der Internet Engineering Task Force (IETF) veröffentlichte GZIP-Dateiformat [Spezifikationen Version 4.3](https://datatracker.ietf.org/doc/html/rfc1952) enthält detaillierte Informationen zum Dateiformat.
 
 ## Verweise
 
-* [RFC1952: GZIP-Dateiformatspezifikation](http://tools.ietf.org/html/rfc1952), von [IETF](https://www.ietf.org)
+* [RFC1952: GZIP-Dateiformatspezifikation](https://datatracker.ietf.org/doc/html/rfc1952), von [IETF](https://www.ietf.org)
 * [Windows-Metadatei – Wikipedia](https://en.wikipedia.org/wiki/Windows_Metafile)
 

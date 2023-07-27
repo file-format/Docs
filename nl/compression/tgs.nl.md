@@ -19,7 +19,7 @@
 
 ## Wat is een TGS-bestand?
 
-Een bestand met de extensie .tgs is een geanimeerd stickerbestand dat is geïntroduceerd door de platformonafhankelijke berichtenservice [Telegram](https://core.telegram.org/animated_stickers). Geanimeerde stickers worden gebruikt door gebruikers van berichten-apps om meer verbeterde en levendige inhoud in berichten te verzenden, in tegenstelling tot de statische afbeeldingen die stilstaande beelden zijn. Telegram gebruikte aanvankelijk de bestandsindeling [WEBP](/nl/image/webp/) voor stickers met stilstaande beelden. Het TGS-bestandsformaat kan animatiegegevens opslaan met hogere resoluties en kleinere bestandsgroottes in vergelijking met de statische WEBP-stickers. TGS-bestanden kunnen worden geopend met toepassingen zoals Telegram, 7-zip, Apple Archive Utility en Corel WinZip.
+Een bestand met de extensie .tgs is een geanimeerd stickerbestand dat is geïntroduceerd door de platformonafhankelijke berichtenservice [Telegram](https://core.telegram.org/stickers#animated-stickers). Geanimeerde stickers worden gebruikt door gebruikers van berichten-apps om meer verbeterde en levendige inhoud in berichten te verzenden, in tegenstelling tot de statische afbeeldingen die stilstaande beelden zijn. Telegram gebruikte aanvankelijk de bestandsindeling [WEBP](/nl/image/webp/) voor stickers met stilstaande beelden. Het TGS-bestandsformaat kan animatiegegevens opslaan met hogere resoluties en kleinere bestandsgroottes in vergelijking met de statische WEBP-stickers. TGS-bestanden kunnen worden geopend met toepassingen zoals Telegram, 7-zip, Apple Archive Utility en Corel WinZip.
 
 ## TGS-bestandsindeling
 
@@ -45,6 +45,6 @@ $ head -c 200 animated-sticker
 ```
 ## Referenties ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
 

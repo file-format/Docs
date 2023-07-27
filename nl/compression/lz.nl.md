@@ -19,7 +19,7 @@
 
 ## Wat is een LZ-bestand?
 
-Een bestand met de extensie .lz is een gecomprimeerd archiefbestand dat is gemaakt met Lzip, een gratis opdrachtregelprogramma voor compressie. Het ondersteunt aaneenschakeling om ondersteuningsbestanden te comprimeren. LZ-bestanden hebben het mediatype application/lzip en ondersteunen hogere compressieverhoudingen dan [BZ2](/nl/compression/bz2). LZ zijn gebaseerd op het LZMA-algoritme (Lempel-Ziv-Markov chain) en bevatten een 32-bits CRC-controlesom en ident-bytes voor het controleren van de integriteit van het bestand.
+Een bestand met de extensie .lz is een gecomprimeerd archiefbestand dat is gemaakt met Lzip, een gratis opdrachtregelprogramma voor compressie. Het ondersteunt aaneenschakeling om ondersteuningsbestanden te comprimeren. LZ-bestanden hebben het mediatype application/lzip en ondersteunen hogere compressieverhoudingen dan [BZ2](/nl/compression/bz2/). LZ zijn gebaseerd op het LZMA-algoritme (Lempel-Ziv-Markov chain) en bevatten een 32-bits CRC-controlesom en ident-bytes voor het controleren van de integriteit van het bestand.
 
 ## LZMA gecomprimeerd formaat
 

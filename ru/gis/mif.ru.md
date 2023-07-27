@@ -29,5 +29,5 @@
 
 ## использованная литература
 
-* [MapInfo Professional — Википедия](http://en.wikipedia.org/wiki/MapInfo_Professional)
+* [MapInfo Professional — Википедия](https://en.wikipedia.org/wiki/MapInfo_Professional)
 

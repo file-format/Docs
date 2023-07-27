@@ -55,5 +55,5 @@ U více kolejí musí kontejner MKV rozhodnout o funkčnosti každé koleje samo
 ## Reference ##
 
 - [Poznámky ke specifikaci Matrosky](https://www.matroska.org/technical/notes.html)
-- [Podpora kontejneru souborů MKV pro stereo 3D video a soubory MK3D](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d- soubory/)
+- [Podpora kontejneru souborů MKV pro stereo 3D video a soubory MK3D](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d-files/)
 

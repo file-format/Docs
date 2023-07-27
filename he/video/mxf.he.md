@@ -81,6 +81,6 @@
 ## הפניות
 
 * [MXF - ויקיפדיה](https://en.wikipedia.org/wiki/Material_Exchange_Format)
-* [MXF - דוח התקדמות](http://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
+* [MXF - דוח התקדמות](https://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
 * [ספריית OpenSource C++ עבור MXF](http://www.freemxf.org/)
 

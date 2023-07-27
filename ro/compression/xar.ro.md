@@ -61,7 +61,7 @@ Rețineți că toate câmpurile antetului (magic, size, version, toc_length_comp
 
 ### XAR Cuprins (TOC)
 
-Cuprinsul este un document XML care este (și trebuie) codificat ca UTF-8. Este stocat la începutul fișierului, facilitând scanarea arhivei pentru a extrage fișierul individual. Arhiva XAR vă permite să comprimați/codați fișierele individuale din arhivă în mod independent, folosind diferite scheme de compresie, cum ar fi [GZIP](/ro/compression/gz/), [BZIP2](/ro/compression/bz2) și altele similare.
+Cuprinsul este un document XML care este (și trebuie) codificat ca UTF-8. Este stocat la începutul fișierului, facilitând scanarea arhivei pentru a extrage fișierul individual. Arhiva XAR vă permite să comprimați/codați fișierele individuale din arhivă în mod independent, folosind diferite scheme de compresie, cum ar fi [GZIP](/ro/compression/gz/), [BZIP2](/ro/compression/bz2/) și altele similare.
 
 ```
 <?xml version="1.0"?>

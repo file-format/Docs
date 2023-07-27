@@ -62,6 +62,6 @@ DWG je jedním z široce používaných formátů souborů v řadě aplikací a 
 ## Reference ##
 
 * [Specifikace formátu souboru DWG](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [Specifikace souboru DWG](https://www.scan2cad.com/dwg/file-spec/)
+* [Specifikace souboru DWG](https://www.scan2cad.com/blog/dwg/file-spec/)
 * [DWG – podle Wikipedie](https://en.wikipedia.org/wiki/.dwg)
 

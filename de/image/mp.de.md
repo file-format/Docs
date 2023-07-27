@@ -19,7 +19,7 @@
 
 ## Was ist eine MP-Datei?
 
-Eine MP-Datei ist eine Vektorbilddatei, die von der MetaPost-Programmiersprache generiert wird, um Bilder zu erstellen. Im MP-Dateiformat erstellte Vektorbilder werden als [EPS](/de/image/eps/)-Dateien (Encapsulated PostScript) gespeichert. Darüber hinaus wird MetaPost mit TeX- und Metafont-Frameworks ausgeliefert, und MP-Dateien können aus den TEX- und LTX-Dateien generiert werden, die von diesen Anwendungen verwendet werden. MP-Dateien enthalten Zeichnungsanweisungen und mathematische algorithmische Zeichnungen zum Rendern der EPS-Ausgabedatei. Die PDFTex-Engine kann das erstellte EPS verwenden, um [PDF](/de/pdf/)-Dateien direkt zu generieren.
+Eine MP-Datei ist eine Vektorbilddatei, die von der MetaPost-Programmiersprache generiert wird, um Bilder zu erstellen. Im MP-Dateiformat erstellte Vektorbilder werden als [EPS](/de/page-description-language/eps/)-Dateien (Encapsulated PostScript) gespeichert. Darüber hinaus wird MetaPost mit TeX- und Metafont-Frameworks ausgeliefert, und MP-Dateien können aus den TEX- und LTX-Dateien generiert werden, die von diesen Anwendungen verwendet werden. MP-Dateien enthalten Zeichnungsanweisungen und mathematische algorithmische Zeichnungen zum Rendern der EPS-Ausgabedatei. Die PDFTex-Engine kann das erstellte EPS verwenden, um [PDF](/de/pdf/)-Dateien direkt zu generieren.
 
 ## MP-Dateiformat
 

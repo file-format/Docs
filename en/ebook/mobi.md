@@ -19,7 +19,7 @@
 
 ## What is a MOBI file?
 
-The MOBI file format is one of the most widely used ebook file formats. The format is an enhancement to the old OEB (Open Ebook Format) format and was used as the proprietary format for Mobipocket Reader. Like [EPUB](/ebook/epub/), it is supported by almost all modern e-readers specifically by mobile devices with low bandwidth. The format can be converted to several other formats such as [PDF](/pdf/), EPUB, and several other formats using publicly available software applications such as the [Kindle app](https://www.amazon.com/kindle-dbs/fd/kcp). There are several companies that offer free MOBI books such as [Project Gutenberg](http://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/), and [Open Library](https://openlibrary.org/).
+The MOBI file format is one of the most widely used ebook file formats. The format is an enhancement to the old OEB (Open Ebook Format) format and was used as the proprietary format for Mobipocket Reader. Like [EPUB](/ebook/epub/), it is supported by almost all modern e-readers specifically by mobile devices with low bandwidth. The format can be converted to several other formats such as [PDF](/pdf/), EPUB, and several other formats using publicly available software applications such as the [Kindle app](https://www.amazon.com/kindle-dbs/fd/kcp). There are several companies that offer free MOBI books such as [Project Gutenberg](https://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/), and [Open Library](https://openlibrary.org/).
 
 ## Brief History of MOBI File Format
 

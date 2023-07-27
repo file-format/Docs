@@ -33,7 +33,7 @@ Internet Engineering Task Force (IETF) は、フォーマットの作成者と�
 
 ＃＃＃ 位置 ＃＃＃
 
-[位置](http://geojson.org/geojson-spec.html#positions)を表す座標の順序付き配列。これは、地球上の点を示すことができる最小単位です。
+[位置](https://geojson.org/geojson-spec.html#positions)を表す座標の順序付き配列。これは、地球上の点を示すことができる最小単位です。
 
 `[経度、緯度、標高]`
 

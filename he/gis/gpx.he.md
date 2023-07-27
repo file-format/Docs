@@ -74,6 +74,6 @@
 
 ## הפניות ##
 
-* [פורמט קובץ GPX](http://www.topografix.com/gpx.asp)
+* [פורמט קובץ GPX](https://www.topografix.com/gpx.asp)
 * [GPX - מאת ויקיפדיה](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
 

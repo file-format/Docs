@@ -20,7 +20,7 @@
 
 Microsfot Visio ist Teil der Microsoft Office-Suite und wird für Diagramm- und Vektorzeichenanwendungen verwendet. Es wird verwendet, um verschiedene Arten von Diagrammen zu erstellen, darunter Flussdiagramme, UML-Diagramme, Netzwerkdiagramme und viele andere.
 
-Visio-Dateiformate umfassen Dateitypen wie **[VSDX](/de/visio/vsdx/)**, **[VSX](/de/visio/vsx/)**, VTX, VDX, **[VSSX](/de/visio /vssx/)**, VSTX, VSDM, VSSM, VSTM-Dateiformat, das auf der Disc gespeichert wird, wenn der Benutzer ein Projekt in Microsoft Visio erstellt und auf der Disc speichert. Nachfolgend finden Sie eine Liste der Publisher-Dateiformate.
+Visio-Dateiformate umfassen Dateitypen wie **[VSDX](/de/visio/vsdx/)**, **[VSX](/de/visio/vsx/)**, VTX, VDX, **[VSSX](/de/visio/vssx/)**, VSTX, VSDM, VSSM, VSTM-Dateiformat, das auf der Disc gespeichert wird, wenn der Benutzer ein Projekt in Microsoft Visio erstellt und auf der Disc speichert. Nachfolgend finden Sie eine Liste der Publisher-Dateiformate.
 
 Haben Sie Fragen zu Visio-Dateiformaten? Besuchen Sie unsere Community [Foren](https://forum.fileformat.com/c/visio/31), um vom Wissen der Dateiformatexperten zu profitieren.
 

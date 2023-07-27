@@ -19,11 +19,11 @@
 
 ## GADGET dosyası nedir?
 
-GADGET dosyası, Windows Vista veya Windows 7 kenar çubuğunda çalışan küçük bir yazılım programından oluşur. Birkaç web tabanlı dosyayı sıkıştırır ve dosyalar [.html](/tr/web/html), [.css](/tr/web/css) veya [.js](/tr/web/js) dosyalarının yanı sıra diğer web dosyaları. GADGET dosyaları, arama araçları, haber beslemeleri, sistem yardımcı programları ve küçük oyunlar gibi küçük bileşenler için kullanılır. GADGET'ler Kenar Çubuğu tarafından barındırılsa da, Kenar Çubuğu alanına özgü değildir; bunlar yuvadan çıkarılabilir ve istenildiği gibi masaüstüne taşınabilir.
+GADGET dosyası, Windows Vista veya Windows 7 kenar çubuğunda çalışan küçük bir yazılım programından oluşur. Birkaç web tabanlı dosyayı sıkıştırır ve dosyalar [.html](/tr/web/html/), [.css](/tr/web/css/) veya [.js](/tr/web/js/) dosyalarının yanı sıra diğer web dosyaları. GADGET dosyaları, arama araçları, haber beslemeleri, sistem yardımcı programları ve küçük oyunlar gibi küçük bileşenler için kullanılır. GADGET'ler Kenar Çubuğu tarafından barındırılsa da, Kenar Çubuğu alanına özgü değildir; bunlar yuvadan çıkarılabilir ve istenildiği gibi masaüstüne taşınabilir.
 
 ## GADGET dosya biçimi
 
-GADGET dosyası, HTML, XML, JScript ve CSS (Basamaklı Stil Sayfaları) dosyalarının bir koleksiyonunu içeren, yeniden adlandırılmış bir [ZIP](/tr/compression/zip) arşividir. Yükleme, .gadget dosyasının indirilmesini ve bileşeni yüklemek için indirme işleminin etkinleştirilmesini veya .gadget dosyasının yerel sisteme kaydedilmesini ve yükleme işlemini başlatmak için çift tıklamayı içerir.
+GADGET dosyası, HTML, XML, JScript ve CSS (Basamaklı Stil Sayfaları) dosyalarının bir koleksiyonunu içeren, yeniden adlandırılmış bir [ZIP](/tr/compression/zip/) arşividir. Yükleme, .gadget dosyasının indirilmesini ve bileşeni yüklemek için indirme işleminin etkinleştirilmesini veya .gadget dosyasının yerel sisteme kaydedilmesini ve yükleme işlemini başlatmak için çift tıklamayı içerir.
 
 Temel olarak, bir GADGET iki dosya içerir:
 

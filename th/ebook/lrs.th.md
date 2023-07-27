@@ -19,7 +19,7 @@
 
 ## ไฟล์ LRS คืออะไร??
 
-ไฟล์ที่มีนามสกุล .lrs (Librie Reader Source) หมายถึงไฟล์ระดับกลางที่ใช้โดย Sony Portable Reader ประกอบด้วยข้อมูลที่ทำหน้าที่เป็นแหล่งข้อมูลสำหรับการสร้าง Sony Broadband eBook (BBeB) ไฟล์ LRS มีรายละเอียดเกี่ยวกับไฟล์ eBook ในรูปแบบของคำอธิบายเนื้อหาและคุณสมบัติ ไฟล์ LRS ใช้เพื่อสร้าง [LRF](/th/ebook/lrf) และไฟล์ LRX โดยใช้เครื่องมือและ API ที่เผยแพร่ต่อสาธารณะ สามารถใช้แอปพลิเคชันซอฟต์แวร์หลายตัว เช่น Calibre, BookDesignerMkelrf และ Canon Book Creator เพื่อเปิดไฟล์ LRS บน Windows, Linux และ MAC
+ไฟล์ที่มีนามสกุล .lrs (Librie Reader Source) หมายถึงไฟล์ระดับกลางที่ใช้โดย Sony Portable Reader ประกอบด้วยข้อมูลที่ทำหน้าที่เป็นแหล่งข้อมูลสำหรับการสร้าง Sony Broadband eBook (BBeB) ไฟล์ LRS มีรายละเอียดเกี่ยวกับไฟล์ eBook ในรูปแบบของคำอธิบายเนื้อหาและคุณสมบัติ ไฟล์ LRS ใช้เพื่อสร้าง [LRF](/th/ebook/lrf/) และไฟล์ LRX โดยใช้เครื่องมือและ API ที่เผยแพร่ต่อสาธารณะ สามารถใช้แอปพลิเคชันซอฟต์แวร์หลายตัว เช่น Calibre, BookDesignerMkelrf และ Canon Book Creator เพื่อเปิดไฟล์ LRS บน Windows, Linux และ MAC
 
 ## รูปแบบไฟล์ LRS
 

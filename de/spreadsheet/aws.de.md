@@ -19,7 +19,7 @@
 
 ## Was ist eine AWS-Datei?
 
-Eine AWS-Datei ist eine Tabellenkalkulationsdatei, die mit der Ability Spreadsheet-Software erstellt wurde, die in der Ability Office-Suite enthalten ist. Es speichert Daten in Zeilen und Spalten ähnlich wie Microsoft Excel. AWS-Dateidaten können in [XLS](/de/spreadsheet/xls/) und [XLSX](/de/spreadsheet/xlsx) gespeichert werden. Dadurch wird die Ability Spreadsheet-Datei mit Microsoft Excel kompatibel. Daten in Tabellenkalkulationen können in die Dateiformate [PDF](/de/pdf/) und [XPS](/de/page-description-language/xps/) exportiert werden.
+Eine AWS-Datei ist eine Tabellenkalkulationsdatei, die mit der Ability Spreadsheet-Software erstellt wurde, die in der Ability Office-Suite enthalten ist. Es speichert Daten in Zeilen und Spalten ähnlich wie Microsoft Excel. AWS-Dateidaten können in [XLS](/de/spreadsheet/xls/) und [XLSX](/de/spreadsheet/xlsx/) gespeichert werden. Dadurch wird die Ability Spreadsheet-Datei mit Microsoft Excel kompatibel. Daten in Tabellenkalkulationen können in die Dateiformate [PDF](/de/pdf/) und [XPS](/de/page-description-language/xps/) exportiert werden.
 
 ## AWS-Dateiformat – Weitere Informationen
 

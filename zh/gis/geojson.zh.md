@@ -33,7 +33,7 @@ GeoJSON 是一种基于 JSON 的格式，旨在表示具有非空间属性的地
 
 ＃＃＃ 位置 ＃＃＃
 
-有序的坐标数组表示 [位置](http://geojson.org/geojson-spec.html#positions)。这是可以指示地球上一个点的最小单位。
+有序的坐标数组表示 [位置](https://geojson.org/geojson-spec.html#positions)。这是可以指示地球上一个点的最小单位。
 
 `[经度、纬度、海拔]`
 

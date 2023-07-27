@@ -19,7 +19,7 @@
 
 ## 什么是一 .fods 文件？
 
-具有 .fods 扩展名的文件是一种 OpenDocument 电子表格文档格式，可将数据存储在行和列中。该格式被指定为 OASIS 发布和维护的 ODF 1.2 规范的一部分。 FODS 文件无法使用 Excel（Microsoft 的另一个电子表格软件应用程序）打开。 FODS 文件可以使用 LibreOffice 保存为 [ODS](/zh/spreadsheet/ods/)，并且可以转换为其他格式，例如 [XLS](/zh/spreadsheet/xls) 和 [XLSX](/zh/spreadsheet/xlsx)。
+具有 .fods 扩展名的文件是一种 OpenDocument 电子表格文档格式，可将数据存储在行和列中。该格式被指定为 OASIS 发布和维护的 ODF 1.2 规范的一部分。 FODS 文件无法使用 Excel（Microsoft 的另一个电子表格软件应用程序）打开。 FODS 文件可以使用 LibreOffice 保存为 [ODS](/zh/spreadsheet/ods/)，并且可以转换为其他格式，例如 [XLS](/zh/spreadsheet/xls/) 和 [XLSX](/zh/spreadsheet/xlsx/)。
 
 ## FODS 文件格式
 

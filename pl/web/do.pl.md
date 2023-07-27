@@ -27,5 +27,5 @@ Pliki DO są zapisywane jako pliki internetowe, które są otwierane w przegląd
 
 ## Bibliografia
 
-* [DML](http://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
+* [DML](https://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
 

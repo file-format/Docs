@@ -43,7 +43,7 @@ SHP הוא סיומת הקובץ עבור אחד מסוגי הקבצים העי�
 
 ## מפרטי פורמט קובץ SHP
 
-מפרטים פתוחים של shapefile זמינים באופן מקוון מ-ESRI בצורה של [תיאור טכני](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) ומפרטת את המבנה הכללי של הקובץ בפירוט. המידע בקובץ .shp הראשי מורכב מכותרות ורשומות. כותרת הקובץ באורך קבוע מלווה ברשומות באורך משתנה כאשר כל רשומה מורכבת מכותרת רשומה באורך קבוע ואחריה תוכן רשומה באורך משתנה.
+מפרטים פתוחים של shapefile זמינים באופן מקוון מ-ESRI בצורה של [תיאור טכני](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) ומפרטת את המבנה הכללי של הקובץ בפירוט. המידע בקובץ .shp הראשי מורכב מכותרות ורשומות. כותרת הקובץ באורך קבוע מלווה ברשומות באורך משתנה כאשר כל רשומה מורכבת מכותרת רשומה באורך קבוע ואחריה תוכן רשומה באורך משתנה.
 
 ### כותרת קובץ SHP ראשית
 
@@ -116,5 +116,5 @@ SHP הוא סיומת הקובץ עבור אחד מסוגי הקבצים העי�
 
 ## הפניות ##
 
-* [תיאור טכני של ESRI Shapefile](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) מאת ESRI
+* [תיאור טכני של ESRI Shapefile](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) מאת ESRI
 

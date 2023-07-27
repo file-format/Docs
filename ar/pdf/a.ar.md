@@ -58,5 +58,5 @@ PDF / A هو تنسيق قياسي ISO لأرشفة المستندات الإل�
 ## مراجع ##
 
 * [PDF / A - بواسطة Wikipedia](https://en.wikipedia.org/wiki/PDF/A)
-* [مستند تقني: PDF / A - الأساسيات](http://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
+* [مستند تقني: PDF / A - الأساسيات](https://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
 

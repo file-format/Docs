@@ -34,9 +34,9 @@ Aşağıdaki ZUML kodu örneğinde, ilk satır sayfa başlığını belirtir, ik
 <window title="Super Hello" border="normal">
     <button label="hi" onClick='alert("hi")'/>
 ```
-ZUL şeması http://www.zkoss.org/2005/zul/zul.xsd adresinden indirilebilir.
+ZUL şeması https://www.zkoss.org/2005/zul/zul.xsd adresinden indirilebilir.
 ## Referanslar
 
 * [ZUL - ZK Tarafından](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
-* [ZUL Şeması](http://www.zkoss.org/2005/zul/zul.xsd)
+* [ZUL Şeması](https://www.zkoss.org/2005/zul/zul.xsd)
 

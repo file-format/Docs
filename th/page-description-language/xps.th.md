@@ -25,7 +25,7 @@
 
 ## ประวัติย่อ ##
 
-Microsoft ส่งข้อกำหนด XPS ไปยัง Ecma International ในเดือนมิถุนายน 2550 Ecma Technical Committee 46 (TC46) ได้รับการจัดตั้งขึ้นเพื่อพัฒนามาตรฐานตาม OpenXPS Paper Specifications Ecma International อนุมัติมาตรฐาน Ecma (ECMA-388) [ข้อกำหนด XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm) ในเดือนมิถุนายน 2552 ในการประชุมสมัชชาใหญ่ครั้งที่ 97
+Microsoft ส่งข้อกำหนด XPS ไปยัง Ecma International ในเดือนมิถุนายน 2550 Ecma Technical Committee 46 (TC46) ได้รับการจัดตั้งขึ้นเพื่อพัฒนามาตรฐานตาม OpenXPS Paper Specifications Ecma International อนุมัติมาตรฐาน Ecma (ECMA-388) [ข้อกำหนด XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/) ในเดือนมิถุนายน 2552 ในการประชุมสมัชชาใหญ่ครั้งที่ 97
 
 ## รูปแบบไฟล์ XPS ##
 
@@ -55,6 +55,6 @@ Microsoft ส่งข้อกำหนด XPS ไปยัง Ecma Internation
 
 ## อ้างอิง ##
 
-* [ข้อกำหนดรูปแบบไฟล์ XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+* [ข้อกำหนดรูปแบบไฟล์ XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 * [XPS - โดย Wikipedia](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

@@ -34,7 +34,7 @@ Parallèlement au lancement de 4e Dimension v3.1 en 1993, 4D Client v1.1, une va
 
 ## Spécifications du format de fichier 4DD ##
 
-Le fichier de données comprend toutes les données saisies dans les enregistrements, ainsi que toutes les données qui leur sont associées. Le fichier de données est nommé d'après le nom que vous saisissez dans la boîte de dialogue de création de la base de données, suivi de [4DB](/fr/database/4db).
+Le fichier de données comprend toutes les données saisies dans les enregistrements, ainsi que toutes les données qui leur sont associées. Le fichier de données est nommé d'après le nom que vous saisissez dans la boîte de dialogue de création de la base de données, suivi de [4DB](/fr/database/4db/).
 
 Le fichier de données existant s'ouvre normalement lorsque vous chargez un fichier de structure 4D. Si vous modifiez le nom ou l'emplacement du fichier, la boîte de dialogue Ouvrir le dossier de données vous permet de sélectionner ou de créer une nouvelle base de données.
 

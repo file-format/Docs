@@ -35,6 +35,6 @@ tar zxvf tgzCompressedFile.tgz
 Приведенная выше команда распаковывает сжатый файл TGZ и извлекает его файлы из архива TAR на диск.
 ## Использованная литература ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip — Википедия](https://en.wikipedia.org/wiki/Gzip)
 

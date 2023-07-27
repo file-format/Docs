@@ -62,6 +62,6 @@ DWG अनुप्रयोगों की एक श्रृंखला द
 ## संदर्भ ##
 
 * [डीडब्ल्यूजी फ़ाइल प्रारूप विनिर्देश](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [DWG फ़ाइल विशिष्टता](https://www.scan2cad.com/dwg/file-spec/)
+* [DWG फ़ाइल विशिष्टता](https://www.scan2cad.com/blog/dwg/file-spec/)
 * [डीडब्ल्यूजी - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/.dwg)
 

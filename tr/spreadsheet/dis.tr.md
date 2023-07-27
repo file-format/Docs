@@ -23,7 +23,7 @@ Bir DIS dosyası, [Oracle Discoverer](https://docs.oracle.com/cd/E28389_01/bi.11
 
 ## Discoverer Çalışma Kitaplarını DIS Formatında nasıl indirebilirim?
 
-Oracle Discoverer Çalışma Kitapları, veritabanında ikili biçimde depolanır ve [DIS dosyaları](https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-discoverer) olarak indirilemez -çalışma kitaplarından bilgisayarıma) doğrudan. Ancak, veriler EEX dosyaları olarak dışa aktarılabilir, onu Discoverer Desktop'ta açabilir ve EEX dosyalarını DIS dosyaları olarak kaydetmek için Farklı Kaydet seçeneğini kullanabilir.
+Oracle Discoverer Çalışma Kitapları, veritabanında ikili biçimde depolanır ve [DIS dosyaları](https://forums.oracle.com/ords/apexds/post/can-i-download-all-discoverer-workbooks-to-my-computer-4127) doğrudan. Ancak, veriler EEX dosyaları olarak dışa aktarılabilir, onu Discoverer Desktop'ta açabilir ve EEX dosyalarını DIS dosyaları olarak kaydetmek için Farklı Kaydet seçeneğini kullanabilir.
 
 ## DIS Dosya Biçimi - Daha Fazla Bilgi
 

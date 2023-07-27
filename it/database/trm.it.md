@@ -26,5 +26,5 @@ I file TRM vengono salvati nel formato di file proprietario di Oracle e i dettag
 
 ## Riferimenti ##
 
-* [Cos'è il file .trm in Oracle 11g?](https://community.oracle.com/tech/developers/discussion/945615/what-is-trm-file-in-oracle-11g)
+* [Cos'è il file .trm in Oracle 11g?](https://forums.oracle.com/ords/apexds/post/what-is-trm-file-in-oracle-11g-0659)
 

@@ -19,11 +19,11 @@
 
 ## Wat is een GADGET-bestand?
 
-Een GADGET-bestand bestaat uit een klein softwareprogramma dat wordt uitgevoerd in de zijbalk van Windows Vista of Windows 7. Het comprimeert verschillende webgebaseerde bestanden en de bestanden kunnen de [.html](/nl/web/html), [.css](/nl/web/css) of [.js](/nl/web/js) bestanden bevatten, evenals andere webbestanden. GADGET-bestanden worden gebruikt voor kleine componenten zoals zoekhulpmiddelen, nieuwsfeeds, systeemhulpprogramma's en kleine games. Hoewel GADGET's worden gehost door de zijbalk, zijn ze niet specifiek voor het zijbalkgebied; deze kunnen worden losgekoppeld en naar wens naar het bureaublad worden verplaatst.
+Een GADGET-bestand bestaat uit een klein softwareprogramma dat wordt uitgevoerd in de zijbalk van Windows Vista of Windows 7. Het comprimeert verschillende webgebaseerde bestanden en de bestanden kunnen de [.html](/nl/web/html/), [.css](/nl/web/css/) of [.js](/nl/web/js/) bestanden bevatten, evenals andere webbestanden. GADGET-bestanden worden gebruikt voor kleine componenten zoals zoekhulpmiddelen, nieuwsfeeds, systeemhulpprogramma's en kleine games. Hoewel GADGET's worden gehost door de zijbalk, zijn ze niet specifiek voor het zijbalkgebied; deze kunnen worden losgekoppeld en naar wens naar het bureaublad worden verplaatst.
 
 ## GADGET-bestandsindeling
 
-Het GADGET-bestand is een hernoemd [ZIP](/nl/compression/zip)-archief dat een verzameling HTML-, XML-, JScript- en CSS-bestanden (Cascading Style Sheets) bevat. De installatie omvat het downloaden van het .gadget-bestand en het inschakelen van het downloadproces om het onderdeel te installeren of het opslaan van het .gadget-bestand op het lokale systeem en dubbelklikken om het installatieproces te starten.
+Het GADGET-bestand is een hernoemd [ZIP](/nl/compression/zip/)-archief dat een verzameling HTML-, XML-, JScript- en CSS-bestanden (Cascading Style Sheets) bevat. De installatie omvat het downloaden van het .gadget-bestand en het inschakelen van het downloadproces om het onderdeel te installeren of het opslaan van het .gadget-bestand op het lokale systeem en dubbelklikken om het installatieproces te starten.
 
 In principe bevat een GADGET twee bestanden:
 

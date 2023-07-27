@@ -22,7 +22,7 @@ EML-bestandsindeling vertegenwoordigt e-mailberichten die zijn opgeslagen met Ou
 
 ## Korte geschiedenis van EML
 
-EML-bestandsformaatspecificaties zijn beschikbaar volgens [RFC 822](http://www.ietf.org/rfc/rfc0822.txt) Standard Format. Voorafgaand aan RFC-822, beheerste RFC-733 de regels van de uitwisseling van netwerkberichten tot in 1982, de eerste werd gecreëerd als een verbetering van lateraal door ARPA-normen vast te stellen. Tegelijkertijd creëerde Microsoft zijn eigen COM-modules voor de ontwikkeling van zijn eigen e-mailclient, namelijk Outlook Express. RFC-822 nam het pad om te worden gevestigd als een eigen formaat toen Microsoft afweek van de open standaard en creëerde het [PST](/nl/email/pst/) bestandsformaat waarin e-mails worden opgeslagen in een zeer gestructureerde database-indeling. Dit resulteerde in problemen voor gebruikers van niet-Microsoft e-mailclients wanneer e-mails werden doorgestuurd vanuit Microsoft Outlook.
+EML-bestandsformaatspecificaties zijn beschikbaar volgens [RFC 822](https://www.ietf.org/rfc/rfc0822.txt) Standard Format. Voorafgaand aan RFC-822, beheerste RFC-733 de regels van de uitwisseling van netwerkberichten tot in 1982, de eerste werd gecreëerd als een verbetering van lateraal door ARPA-normen vast te stellen. Tegelijkertijd creëerde Microsoft zijn eigen COM-modules voor de ontwikkeling van zijn eigen e-mailclient, namelijk Outlook Express. RFC-822 nam het pad om te worden gevestigd als een eigen formaat toen Microsoft afweek van de open standaard en creëerde het [PST](/nl/email/pst/) bestandsformaat waarin e-mails worden opgeslagen in een zeer gestructureerde database-indeling. Dit resulteerde in problemen voor gebruikers van niet-Microsoft e-mailclients wanneer e-mails werden doorgestuurd vanuit Microsoft Outlook.
 
 Het was in 2001 toen de 822-standaard werd verbeterd tot 2822 - Internet Message Format dat momenteel wordt gebruikt voor het maken, lezen en verzenden van EML-berichten in MIME RFC-822-formaat.
 
@@ -86,5 +86,5 @@ X-bijlage-ID: f_jkhztmd43
 
 ## Referenties
 
-* [RFC 822](http://www.ietf.org/rfc/rfc0822.txt)
+* [RFC 822](https://www.ietf.org/rfc/rfc0822.txt)
 

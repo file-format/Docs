@@ -43,7 +43,7 @@ SHP هو امتداد الملف لأحد أنواع الملفات الأساس
 
 ## مواصفات تنسيق ملف SHP
 
-المواصفات المفتوحة لملف الأشكال متاحة على الإنترنت من ESRI في شكل [الوصف الفني](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) وتوضح الهيكل العام للملف بالتفصيل. تتكون المعلومات في ملف .shp الرئيسي من رؤوس وسجلات. يتبع رأس الملف ذو الطول الثابت سجلات متغيرة الطول حيث يتكون كل سجل من رأس سجل بطول ثابت متبوعًا بمحتويات سجل متغيرة الطول.
+المواصفات المفتوحة لملف الأشكال متاحة على الإنترنت من ESRI في شكل [الوصف الفني](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) وتوضح الهيكل العام للملف بالتفصيل. تتكون المعلومات في ملف .shp الرئيسي من رؤوس وسجلات. يتبع رأس الملف ذو الطول الثابت سجلات متغيرة الطول حيث يتكون كل سجل من رأس سجل بطول ثابت متبوعًا بمحتويات سجل متغيرة الطول.
 
 ### رأس ملف SHP الرئيسي
 
@@ -116,5 +116,5 @@ SHP هو امتداد الملف لأحد أنواع الملفات الأساس
 
 ## مراجع ##
 
-* [ESRI Shapefile Technical Description](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) بواسطة ESRI
+* [ESRI Shapefile Technical Description](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) بواسطة ESRI
 

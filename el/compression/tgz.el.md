@@ -35,6 +35,6 @@ tar zxvf tgzCompressedFile.tgz
 Η παραπάνω εντολή αποσυμπιέζει το συμπιεσμένο αρχείο TGZ και εξάγει τα αρχεία του από το αρχείο TAR σε δίσκο.
 ## Βιβλιογραφικές αναφορές ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
 

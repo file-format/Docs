@@ -19,7 +19,7 @@
 
 ## .tgs dosyası nedir?
 
-.tgs uzantılı bir dosya, platformlar arası mesajlaşma hizmeti [Telegram](https://core.telegram.org/animated_stickers) tarafından sunulan animasyonlu bir çıkartma dosyasıdır. Animasyonlu çıkartmalar, hareketsiz görüntüler olan statik grafiklerin aksine, mesajlaşma uygulamaları kullanıcıları tarafından mesajlarda daha gelişmiş ve canlı içerik göndermek için kullanılır. Telegram başlangıçta hareketsiz görüntü etiketleri için [WEBP](/tr/image/webp/) dosya biçimini kullandı. TGS dosya biçimi, statik WEBP etiketleri ile karşılaştırıldığında animasyon verilerini daha yüksek çözünürlüklerde ve daha küçük dosya boyutlarında depolayabilir. TGS dosyaları, Telegram, 7-zip, Apple Archive Utility ve Corel WinZip gibi uygulamalar kullanılarak açılabilir.
+.tgs uzantılı bir dosya, platformlar arası mesajlaşma hizmeti [Telegram](https://core.telegram.org/stickers#animated-stickers) tarafından sunulan animasyonlu bir çıkartma dosyasıdır. Animasyonlu çıkartmalar, hareketsiz görüntüler olan statik grafiklerin aksine, mesajlaşma uygulamaları kullanıcıları tarafından mesajlarda daha gelişmiş ve canlı içerik göndermek için kullanılır. Telegram başlangıçta hareketsiz görüntü etiketleri için [WEBP](/tr/image/webp/) dosya biçimini kullandı. TGS dosya biçimi, statik WEBP etiketleri ile karşılaştırıldığında animasyon verilerini daha yüksek çözünürlüklerde ve daha küçük dosya boyutlarında depolayabilir. TGS dosyaları, Telegram, 7-zip, Apple Archive Utility ve Corel WinZip gibi uygulamalar kullanılarak açılabilir.
 
 ## TGS Dosya Biçimi
 
@@ -45,6 +45,6 @@ $ head -c 200 animated-sticker
 ```
 ## Referanslar ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - Vikipedi](https://en.wikipedia.org/wiki/Gzip)
 

@@ -39,7 +39,7 @@ File .hs mungkin berisi informasi berikut.
 
 ## Format File JavaHS
 
-File Java HS dalam format file XML dan berdasarkan rekomendasi yang diajukan oleh World Wide Web Consortium (W3C) Extended Markiup Language [PR-xml-971208](http://www.w3.org/TR/PR-xml- 971208). Ini berarti file Java HS dalam format file XML yang dapat dibaca manusia yang dapat dibuka di aplikasi pembaca XML apa pun.
+File Java HS dalam format file XML dan berdasarkan rekomendasi yang diajukan oleh World Wide Web Consortium (W3C) Extended Markiup Language [PR-xml-971208](https://www.w3.org/TR/PR-xml-971208). Ini berarti file Java HS dalam format file XML yang dapat dibaca manusia yang dapat dibuka di aplikasi pembaca XML apa pun.
 
 ### Contoh Format File Java HS
 
@@ -159,7 +159,7 @@ Seperti bahasa pemrograman lainnya, file HS ditulis dalam format teks biasa yang
 
 ### Contoh Format File HS
 
-Kode dapat ditulis dalam file .hs dan dikompilasi menggunakan kompiler Haskell seperti [GHC](http://haskell.org/ghc). Baris kode berikut disimpan sebagai `HelloWorld.hs` seperti yang ditunjukkan pada contoh berikut.
+Kode dapat ditulis dalam file .hs dan dikompilasi menggunakan kompiler Haskell seperti [GHC](https://haskell.org/ghc). Baris kode berikut disimpan sebagai `HelloWorld.hs` seperti yang ditunjukkan pada contoh berikut.
 
 ```
 main = putStrLn "Hello, World!"

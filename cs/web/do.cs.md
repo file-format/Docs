@@ -27,5 +27,5 @@ Soubory DO se ukládají jako webové soubory, které se otevřou v prohlížeč
 
 ## Reference
 
-* [DML](http://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
+* [DML](https://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
 

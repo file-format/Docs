@@ -27,6 +27,6 @@ Fișierele KLQ sunt salvate pe disc în format criptat, astfel încât acestea s
 
 ## Referințe
 
-* [Detalii despre fișierele de carantină](https://community.kaspersky.com/kaspersky-total-security-14/details-of-quarantine-files-merged-8534)
-* [Fișier KLQ](https://community.kaspersky.com/search?q=klq%20file)
+* [Detalii despre fișierele de carantină](https://forum.kaspersky.com/)
+* [Fișier KLQ](https://forum.kaspersky.com/?q=klq%20file)
 

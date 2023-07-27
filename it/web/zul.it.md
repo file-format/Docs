@@ -34,9 +34,9 @@ Nell'esempio seguente di codice ZUML, la prima riga specifica il titolo della pa
 <window title="Super Hello" border="normal">
     <button label="hi" onClick='alert("hi")'/>
 ```
-Lo schema ZUL può essere scaricato da http://www.zkoss.org/2005/zul/zul.xsd.
+Lo schema ZUL può essere scaricato da https://www.zkoss.org/2005/zul/zul.xsd.
 ## Riferimenti
 
 * [ZUL - Di ZK](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
-* [Schema ZUL](http://www.zkoss.org/2005/zul/zul.xsd)
+* [Schema ZUL](https://www.zkoss.org/2005/zul/zul.xsd)
 

@@ -23,7 +23,7 @@ Un file con estensione .ndf è un file di database secondario utilizzato da [Mic
 
 ## Formato file NDF
 
-Il formato del file NDF non è diverso da [MDF](/it/database/mdf) e utilizza le pagine come unità fondamentale di archiviazione dei dati. ogni pagina inizia con un'intestazione di 96 byte che include:
+Il formato del file NDF non è diverso da [MDF](/it/database/mdf/) e utilizza le pagine come unità fondamentale di archiviazione dei dati. ogni pagina inizia con un'intestazione di 96 byte che include:
 
 * ID pagina
 * Tipo di struttura

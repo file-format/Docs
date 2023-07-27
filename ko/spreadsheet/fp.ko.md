@@ -19,7 +19,7 @@
 
 ## .FP 파일이란?
 
-확장자가 .fp인 파일은 Claris에서 [FileMaker Pro](https://www.claris.com/filemaker/pro/) 소프트웨어로 만든 스프레드시트 파일입니다. Microsoft Excel과 유사한 행과 열에 데이터를 저장합니다. FileMaker Pro를 사용하면 CSV 및 XML과 같은 여러 파일 유형을 끌어서 놓아 데이터를 가져올 수 있습니다.
+확장자가 .fp인 파일은 Claris에서 [FileMaker Pro](https://www.claris.com/filemaker/) 소프트웨어로 만든 스프레드시트 파일입니다. Microsoft Excel과 유사한 행과 열에 데이터를 저장합니다. FileMaker Pro를 사용하면 CSV 및 XML과 같은 여러 파일 유형을 끌어서 놓아 데이터를 가져올 수 있습니다.
 
 ## FP 파일 형식
 
@@ -27,6 +27,6 @@ FP 파일은 독점 파일 형식으로 저장되며 파일 형식 세부 정보
 
 ## 참고문헌
 
-* [파일메이커 프로](https://www.claris.com/filemaker/pro/)
+* [파일메이커 프로](https://www.claris.com/filemaker/)
 * [fmapi](https://github.com/stevenwhitespacesystems/fm-xml2json)
 

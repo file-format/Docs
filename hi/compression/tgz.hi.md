@@ -35,6 +35,6 @@ tar zxvf tgzCompressedFile.tgz
 उपरोक्त आदेश संपीड़ित TGZ फ़ाइल को विघटित करता है और इसकी फ़ाइलों को TAR संग्रह को डिस्क पर निकालता है।
 ## संदर्भ ##
 
-* [टीजीएस](https://core.telegram.org/animated_stickers)
+* [टीजीएस](https://core.telegram.org/stickers#animated-stickers)
 * [गज़िप - विकिपीडिया](https://en.wikipedia.org/wiki/Gzip)
 

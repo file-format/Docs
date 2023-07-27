@@ -81,6 +81,6 @@ A strukturális metaadatok alapvetőek az MXF-fájlokban, mivel hasznos informá
 ## Hivatkozások
 
 * [MXF - Wikipedia](https://en.wikipedia.org/wiki/Material_Exchange_Format)
-* [MXF – Előrehaladási jelentés](http://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
+* [MXF – Előrehaladási jelentés](https://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
 * [OpenSource C++ Library for MXF](http://www.freemxf.org/)
 

@@ -20,7 +20,7 @@
 
 Microsfot Visio kommer som en del av Microsoft Office-paketet och används för diagram- och vektorritningsapplikationer. Den används för att skapa flera olika typer av diagram inklusive flödesscheman, UML-diagram, nätverksdiagram och många andra.
 
-Visio-filformat inkluderar filtyper som **[VSDX](/sv/visio/vsdx/)**, **[VSX](/sv/visio/vsx/)**, VTX, VDX, **[VSSX](/sv/visio /vssx/)**, VSTX, VSDM, VSSM, VSTM filformat som sparas på skiva när användaren skapar ett projekt i Microsoft Visio och sparar det på skiva. Följande är en lista över utgivarfilformat.
+Visio-filformat inkluderar filtyper som **[VSDX](/sv/visio/vsdx/)**, **[VSX](/sv/visio/vsx/)**, VTX, VDX, **[VSSX](/sv/visio/vssx/)**, VSTX, VSDM, VSSM, VSTM filformat som sparas på skiva när användaren skapar ett projekt i Microsoft Visio och sparar det på skiva. Följande är en lista över utgivarfilformat.
 
 Har du frågor relaterade till Visio-filformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/visio/31) för att dra nytta av kunskapen som delas av filformatsexperter.
 

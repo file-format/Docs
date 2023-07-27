@@ -19,7 +19,7 @@
 
 ## Tệp VOC là gì? ##
 
-Các tệp âm thanh VOC được tạo bởi một máy ghi âm có tên là máy ghi âm kỹ thuật số RCA. Các cuộc phỏng vấn và bài giảng được ghi lại thông qua thiết bị này. Các tệp này có thể mang theo được và có thể được chia sẻ qua cổng USB. Các tệp VOC tương thích với hệ điều hành Windows. Các tệp VOC này có thể được chuyển đổi thành các định dạng tệp khác phổ biến hơn, chẳng hạn như [MP3](/vi/audio/mp3).
+Các tệp âm thanh VOC được tạo bởi một máy ghi âm có tên là máy ghi âm kỹ thuật số RCA. Các cuộc phỏng vấn và bài giảng được ghi lại thông qua thiết bị này. Các tệp này có thể mang theo được và có thể được chia sẻ qua cổng USB. Các tệp VOC tương thích với hệ điều hành Windows. Các tệp VOC này có thể được chuyển đổi thành các định dạng tệp khác phổ biến hơn, chẳng hạn như [MP3](/vi/audio/mp3/).
  
 
 Dữ liệu có trong các tệp này có thể ở dạng thô hoặc định dạng vùng chứa. Các tệp này đã được sử dụng trong các trò chơi hệ điều hành Disk. Thẻ blaster âm thanh được sử dụng cho âm thanh và các tệp này được sử dụng để làm như vậy.

@@ -30,10 +30,10 @@ Les fichiers EMZ sont [Gzip](/fr/compression/gz/) compressés et contiennent [EM
 * Données compressées
 * Pied de page du fichier
 
-Le format de fichier GZIP [spécifications version 4.3](http://tools.ietf.org/html/rfc1952) publié par Internet Engineering Task Force (IETF) contient des informations détaillées sur le format de fichier.
+Le format de fichier GZIP [spécifications version 4.3](https://datatracker.ietf.org/doc/html/rfc1952) publié par Internet Engineering Task Force (IETF) contient des informations détaillées sur le format de fichier.
 
 ## Références
 
-* [RFC1952 : spécification du format de fichier GZIP](http://tools.ietf.org/html/rfc1952), par [IETF](https://www.ietf.org/)
+* [RFC1952 : spécification du format de fichier GZIP](https://datatracker.ietf.org/doc/html/rfc1952), par [IETF](https://www.ietf.org/)
 * [Métafichier Windows - Wikipédia](https://en.wikipedia.org/wiki/Windows_Metafile)
 

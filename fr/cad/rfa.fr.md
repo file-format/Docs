@@ -27,5 +27,5 @@ Chaque élément que vous ajoutez aux projets Revit est composé de familles. Pa
 
 ## Références
 
-* [Exemples de fichiers de famille Revit](https://knowledge.autodesk.com/support/revit/getting-started/caas/CloudHelp/cloudhelp/2021/ENU/Revit-GetStarted/files/GUID-73E0E508-B9DA-4405-BAB4-C46D803BC1DE-htm.html)
+* [Exemples de fichiers de famille Revit](https://help.autodesk.com/view/RVT/2021/ENU/?guid=GUID-73E0E508-B9DA-4405-BAB4-C46D803BC1DE)
 

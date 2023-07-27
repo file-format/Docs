@@ -34,7 +34,7 @@ ACI şirketi, 4th Dimension'ın pazar payı önümüzdeki birkaç yıl içinde g
 
 ## 4DD Dosya Biçimi Özellikleri ##
 
-Veri dosyası, kayıtlara girilen tüm verileri ve bunlarla ilişkili tüm verileri içerir. Veri dosyası, veritabanı oluşturma iletişim kutusuna yazdığınız adın ardından [4DB](/tr/database/4db) adını alır.
+Veri dosyası, kayıtlara girilen tüm verileri ve bunlarla ilişkili tüm verileri içerir. Veri dosyası, veritabanı oluşturma iletişim kutusuna yazdığınız adın ardından [4DB](/tr/database/4db/) adını alır.
 
 Bir 4D yapı dosyası yüklediğinizde mevcut veri dosyası her zamanki gibi açılır. Dosyanın adını veya konumunu değiştirirseniz, Veri klasörü aç iletişim kutusu yeni bir veritabanı seçmenize veya oluşturmanıza olanak tanır.
 

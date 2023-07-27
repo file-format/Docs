@@ -30,5 +30,5 @@ GZIP files are often saved as [GZ](/compression/gz/) file format.
 
 * [gzip](http://www.gzip.org/)
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952: GZIP file format specification](http://tools.ietf.org/html/rfc1952), by IETF
+* [RFC1952: GZIP file format specification](https://datatracker.ietf.org/doc/html/rfc1952), by IETF
 * [RFC 1951](https://tools.ietf.org/html/rfc1951)

@@ -31,7 +31,7 @@ Většinou se používá pro znělé nahrávky a kompresi. V tomto formátu nelz
 
 Soubory VOX jsou spojeny s mediálními deskami nazývanými DMV a JCT společnosti Dialogic. Patří k VoxWare a mnoha dalším softwarům. Dříve byl považován za zastaralý formát.
 
-Jako zastaralý formát se poté nepoužíval. Podobně jako ostatní formáty ADPCM byl komprimován do 4 bitů. Vlastnosti těchto souborů jsou dostatečně blízké specifikacím souborů [WAV](/cs/audio/wav).
+Jako zastaralý formát se poté nepoužíval. Podobně jako ostatní formáty ADPCM byl komprimován do 4 bitů. Vlastnosti těchto souborů jsou dostatečně blízké specifikacím souborů [WAV](/cs/audio/wav/).
 
 
 ## Specifikace formátu ##

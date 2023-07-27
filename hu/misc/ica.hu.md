@@ -25,7 +25,7 @@ Az ica kiterjesztésű fájl egy konfigurációs fájl, amely az Independent Com
 
 Az ICA fájlok egyszerű szöveges formátumban kerülnek a lemezre, és könnyen olvashatók az emberek számára. Az ICA-fájlok meghatározzák azokat a paramétereket, amelyeket a távoli asztali ügyfélalkalmazások (például a Citrix Receiver) használnak a távoli virtuális asztalokon tárolt alkalmazásokhoz való csatlakozáshoz.
 
-Az ICA-fájloknak meg kell felelniük bizonyos inicializálásoknak és formátumoknak a sikeres kapcsolódás érdekében. Ezeket a [Citrix ICA beállítások hivatkozása](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html) tartalmazza, és olyan mezőket tartalmaznak, mint például:
+Az ICA-fájloknak meg kell felelniük bizonyos inicializálásoknak és formátumoknak a sikeres kapcsolódás érdekében. Ezeket a [Citrix ICA beállítások hivatkozása](https://docs.citrix.com/en-us/categories/legacy-archive) tartalmazza, és olyan mezőket tartalmaznak, mint például:
 
 * Bemeneti kódolás
 * TCP böngésző címe
@@ -37,5 +37,5 @@ Az ICA-fájloknak meg kell felelniük bizonyos inicializálásoknak és formátu
 ## Hivatkozások
 
 * [Az ICA-fájl tartalmának megértése](https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
-* [A Citrix ICA beállításainak hivatkozása](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
+* [A Citrix ICA beállításainak hivatkozása](https://docs.citrix.com/en-us/categories/legacy-archive)
 

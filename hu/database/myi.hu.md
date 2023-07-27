@@ -51,5 +51,5 @@ A myisamdef.h fájl a következő információkat tartalmazza konstansokban kife
 
 ## Referenciák ##
 
-- [A .MYI fájl](https://dev.mysql.com/doc/internals/en/the-myi-file.html)
+- [A .MYI fájl](https://dev.mysql.com/doc/dev/mysql-server/latest/)
 

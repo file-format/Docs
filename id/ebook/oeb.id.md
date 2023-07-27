@@ -28,7 +28,7 @@ Format file OEB terdiri dari satu set file, termasuk file paket wajib, yang meny
 OEBPS 1.2 adalah pembaruan yang digabungkan erat dengan versi sebelumnya (OEBPS 1.0.1). Ini memberikan fungsionalitas modern di bidang kontrol rendering, termasuk, antara lain, peningkatan dalam kosa kata markup (sekarang subset asli dari XHTML 1.1), dan dukungan CSS yang sangat diperluas. Faktor keberlanjutan tidak berubah dari versi sebelumnya.
   
 
-Bundel file OEB digunakan terutama sebagai format mid-state, dengan publikasi ke pengguna akhir yang dikelola melalui penerbit atau agregator yang menyediakan ebook dalam bentuk yang sesuai untuk pemirsa ebook yang berbeda. Versi penggantinya, [EPUB](/id/ebook/epub), kemungkinan besar akan menjangkau pengguna akhir sebagai format status akhir, serta berfungsi sebagai format status menengah.
+Bundel file OEB digunakan terutama sebagai format mid-state, dengan publikasi ke pengguna akhir yang dikelola melalui penerbit atau agregator yang menyediakan ebook dalam bentuk yang sesuai untuk pemirsa ebook yang berbeda. Versi penggantinya, [EPUB](/id/ebook/epub/), kemungkinan besar akan menjangkau pengguna akhir sebagai format status akhir, serta berfungsi sebagai format status menengah.
 
 ## Referensi
 

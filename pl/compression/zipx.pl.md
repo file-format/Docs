@@ -35,5 +35,5 @@ Pliki ZIPX są zapisywane na dysku jako pliki binarne, a szczegóły wewnętrzne
 ## Bibliografia
 
 * [Format pliku ZIPX](https://kb.corel.com/en/125951)
-* [Jak wyodrębnić pliki ZIPX](https://answers.microsoft.com/en-us/windows/forum/all/i-want-to-extract-zipx-files/32827ca4-ceec-4faf-93d9-d9ecffb1fb41 )
+* [Jak wyodrębnić pliki ZIPX](https://answers.microsoft.com/en-us/windows/forum/all/i-want-to-extract-zipx-files/32827ca4-ceec-4faf-93d9-d9ecffb1fb41)
 

@@ -62,6 +62,6 @@ DWG был одним из широко используемых файловы�
 ## Использованная литература ##
 
 * [Спецификации формата файла DWG](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [Спецификация файла DWG](https://www.scan2cad.com/dwg/file-spec/)
+* [Спецификация файла DWG](https://www.scan2cad.com/blog/dwg/file-spec/)
 * [DWG — Википедия](https://en.wikipedia.org/wiki/.dwg)
 

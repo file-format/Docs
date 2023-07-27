@@ -23,7 +23,7 @@ Soubor s příponou .ndf je sekundární databázový soubor používaný [Micro
 
 ## Formát souboru NDF
 
-Formát souboru NDF se neliší od [MDF](/cs/database/mdf) a používá stránky jako základní jednotku pro ukládání dat. každá stránka začíná 96 bajtovým záhlavím, které obsahuje:
+Formát souboru NDF se neliší od [MDF](/cs/database/mdf/) a používá stránky jako základní jednotku pro ukládání dat. každá stránka začíná 96 bajtovým záhlavím, které obsahuje:
 
 * ID stránky
 * Typ struktury

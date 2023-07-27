@@ -29,4 +29,4 @@ MIF file format is a vector file format that is stored as plain ASCII text file.
 
 ## References
 
-* [MapInfo Professional - Wikipedia](http://en.wikipedia.org/wiki/MapInfo_Professional)
+* [MapInfo Professional - Wikipedia](https://en.wikipedia.org/wiki/MapInfo_Professional)

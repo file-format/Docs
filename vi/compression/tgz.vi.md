@@ -35,6 +35,6 @@ tar zxvf tgzCompressedFile.tgz
 Lệnh trên giải nén tệp TGZ đã nén và giải nén các tệp của tệp lưu trữ TAR vào đĩa.
 ## Người giới thiệu ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
 

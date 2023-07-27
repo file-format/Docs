@@ -58,5 +58,5 @@ PDF/A-3 include tutti i requisiti di conformità del Livello 2 e consente l'inco
 ## Riferimenti ##
 
 * [PDF/A - Di Wikipedia](https://en.wikipedia.org/wiki/PDF/A)
-* [White Paper: PDF/A – Nozioni di base](http://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
+* [White Paper: PDF/A – Nozioni di base](https://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
 

@@ -25,7 +25,7 @@ Eine Datei mit der Erweiterung ica ist eine Konfigurationsdatei, die basierend a
 
 ICA-Dateien werden im Nur-Text-Format auf der Disc gespeichert und sind für Menschen leicht lesbar. ICA-Dateien geben die Parameter an, die Remotedesktop-Clientanwendungen wie Citrix Receiver zum Herstellen einer Verbindung mit Anwendungen verwenden, die auf virtuellen Remotedesktops gehostet werden.
 
-ICA-Dateien sollten bestimmten Initialisierungen und Formaten entsprechen, um eine erfolgreiche Konnektivität zu gewährleisten. Diese werden in [Citrix ICA-Einstellungsreferenz](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html) erwähnt und enthalten Felder wie:
+ICA-Dateien sollten bestimmten Initialisierungen und Formaten entsprechen, um eine erfolgreiche Konnektivität zu gewährleisten. Diese werden in [Citrix ICA-Einstellungsreferenz](https://docs.citrix.com/en-us/categories/legacy-archive) erwähnt und enthalten Felder wie:
 
 * Eingabecodierung
 * TCP-Browseradresse
@@ -37,5 +37,5 @@ ICA-Dateien sollten bestimmten Initialisierungen und Formaten entsprechen, um ei
 ## Verweise
 
 * [Inhalte der ICA-Datei verstehen](https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
-* [Citrix ICA-Einstellungsreferenz](http://support.citrix.com/proddocs/topic/ica-settings/ica-settings-wrapper.html)
+* [Citrix ICA-Einstellungsreferenz](https://docs.citrix.com/en-us/categories/legacy-archive)
 

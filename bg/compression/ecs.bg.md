@@ -26,5 +26,5 @@ ECS файловете се записват като компресирани Z
 
 ## Препратки
 
-* [Dzip](http://speeddemosarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 

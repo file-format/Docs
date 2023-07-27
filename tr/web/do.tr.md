@@ -27,5 +27,5 @@ DO dosyaları, bir kullanıcı sunucuya istek gönderdiğinde tarayıcıda açı
 
 ## Referanslar
 
-* [DML](http://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
+* [DML](https://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
 

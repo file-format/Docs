@@ -85,5 +85,4 @@ or WH-phrase.
 ## Βιβλιογραφικές αναφορές ##
 
 * [TEX - Wikipedia](https://en.wikipedia.org/wiki/TeX)
-* [Λάτεξ](http://mally.stanford.edu/~sr/computing/latex-example.html)
 

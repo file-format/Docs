@@ -38,35 +38,35 @@
 |unsigned long|FontDataSize|Длина шрифта OpenType (FontData) в байтах|
 |unsigned long|Версия|Номер версии этого формата — 0x00020002|
 |unsigned long|Флаги|Флаги обработки|
-|byte[10]|FontPANOSE|Значение PANOSE для этого шрифта — см. http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|byte|Charset|В Windows это производное от TEXTMETRIC.tmCharSet. Это значение определяет набор символов шрифта. DEFAULT_CHARSET (0x01) указывает отсутствие предпочтения. - См. http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
-|byte|Italic|Если в OS/2.fsSelection установлен бит для ITALIC, значение будет 0x01 — см. http://www.microsoft.com/typography/otspec/os2.htm#fss|
-|unsigned long|Weight|Значение веса для этого шрифта — см. http://www.microsoft.com/typography/otspec/os2.htm#wtc|
-|unsigned short|fsType|Типовые флаги, предоставляющие информацию о разрешениях на встраивание — см. http://www.microsoft.com/typography/otspec/os2.htm#fst|
+|byte[10]|FontPANOSE|Значение PANOSE для этого шрифта — см. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
+|byte|Charset|В Windows это производное от TEXTMETRIC.tmCharSet. Это значение определяет набор символов шрифта. DEFAULT_CHARSET (0x01) указывает отсутствие предпочтения. - См. https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
+|byte|Italic|Если в OS/2.fsSelection установлен бит для ITALIC, значение будет 0x01 — см. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss|
+|unsigned long|Weight|Значение веса для этого шрифта — см. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|
+|unsigned short|fsType|Типовые флаги, предоставляющие информацию о разрешениях на встраивание — см. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|
 |unsigned short|MagicNumber|Magic number для файла EOT — 0x504C. Используется для проверки на повреждение данных.|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (биты 0–31) — см. http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (биты 32–63) — см. http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (биты 64–95) — см. http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (биты 96–127) — см. http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|CodePageRange1|CodePageRange1 (биты 0–31) — см. http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CodePageRange2|CodePageRange2 (биты 32–63) — см. http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment — см. http://www.microsoft.com/typography/otspec/head.htm|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (биты 0–31) — см. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (биты 32–63) — см. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (биты 64–95) — см. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (биты 96–127) — см. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|CodePageRange1|CodePageRange1 (биты 0–31) — см. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CodePageRange2|CodePageRange2 (биты 32–63) — см. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment — см. https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Reserved1|Reserved — должно быть 0|
 |unsigned long|Reserved2|Reserved — должно быть 0|
 |unsigned long|Reserved3|Reserved — должно быть 0|
 |unsigned long|Reserved4|Reserved — должно быть 0|
 |unsigned short|Padding1|Padding для сохранения выравнивания по длине. Значение заполнения всегда должно быть установлено на 0x0000.|
 |unsigned short|FamilyNameSize|Число байтов, используемых массивом FamilyName|
-|byte|FamilyName[FamilyNameSize]|Массив символов UTF-16 длиной FamilyNameSize в байтах. Это строка семейства шрифтов для английского языка, найденная в таблице имен шрифта (идентификатор имени = 1). См. http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FamilyName[FamilyNameSize]|Массив символов UTF-16 длиной FamilyNameSize в байтах. Это строка семейства шрифтов для английского языка, найденная в таблице имен шрифта (идентификатор имени = 1). См. https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|Значение заполнения всегда должно быть установлено на 0x0000.|
 |unsigned short|StyleNameSize|Число байтов, используемых StyleName|
-|byte|StyleName[StyleNameSize]|Массив символов UTF-16 длиной StyleNameSize в байтах. Это строка подсемейства шрифтов английского языка, найденная в таблице имен шрифта (идентификатор имени = 2). См. http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|Массив символов UTF-16 длиной StyleNameSize в байтах. Это строка подсемейства шрифтов английского языка, найденная в таблице имен шрифта (идентификатор имени = 2). См. https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|Значение заполнения всегда должно быть установлено на 0x0000.|
 |unsigned short|VersionNameSize|Число байтов, используемых VersionName|
-|bytes|VersionName[VersionNameSize]|Массив символов UTF-16 длиной в байтах VersionNameSize. Это строка версии на английском языке, найденная в таблице имен шрифта (идентификатор имени = 5). См. http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|Массив символов UTF-16 длиной в байтах VersionNameSize. Это строка версии на английском языке, найденная в таблице имен шрифта (идентификатор имени = 5). См. https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|Значение заполнения всегда должно быть установлено на 0x0000.|
 |unsigned short|FullNameSize|Число байтов, используемых FullName|
-|byte|FullName[FullNameSize]|Массив символов UTF-16 длиной FullNameSize в байтах. Это строка полного имени на английском языке, найденная в таблице имен шрифта (идентификатор имени = 4). См. http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|Массив символов UTF-16 длиной FullNameSize в байтах. Это строка полного имени на английском языке, найденная в таблице имен шрифта (идентификатор имени = 4). См. https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|Значение заполнения всегда должно быть установлено на 0x0000.|
 |unsigned short|RootStringSize|Число байтов, используемых массивом RootString|
 |byte|RootString[RootStringSize]|Массив символов UTF-16 длиной RootStringSize в байтах.|

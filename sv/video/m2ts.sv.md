@@ -19,7 +19,7 @@
 
 ## Vad är M2TS fil? ##
 
-En M2TS-fil innehåller högupplöst video på Blu-ray Disc och AVCHD. Det här filformatet är baserat på MPEG-2-transportströmbehållaren och används för multiplexering av ljud, video och andra strömmar. M2TS-filer kan spelas upp på enheter som stöder uppspelning av [AVCHD](/sv/video/avchd), såsom Sony PlayStation 3s, Sony Bravia TVs, Western Digital WDTVs, Xtreamer media player, Amkette FlashTV HD Media Player och Panasonic Viera TVs som stöder AVCHD.
+En M2TS-fil innehåller högupplöst video på Blu-ray Disc och AVCHD. Det här filformatet är baserat på MPEG-2-transportströmbehållaren och används för multiplexering av ljud, video och andra strömmar. M2TS-filer kan spelas upp på enheter som stöder uppspelning av [AVCHD](/sv/video/avchd/), såsom Sony PlayStation 3s, Sony Bravia TVs, Western Digital WDTVs, Xtreamer media player, Amkette FlashTV HD Media Player och Panasonic Viera TVs som stöder AVCHD.
 
 ## M2TS filformat
 Den modifierade MPEG-2-transportströmsspecifikationen för media med slumpmässig åtkomst (som DVD, Blu-ray Disc, hårddisk, solid state-minneskort) är en BDAV-mediebehållare som informellt kallas M2TS. M2TS använder transportströmmar med variabel hastighet (VBR) istället för de typiska konstanta hastigheterna (CBR) som finns i MPEG-2 TS-sändningar för att optimera lagringsstorleken. En T-STD-kompatibel transportström med konstant hastighet för uppspelning av ankomsttidsstämpeln (ATS) för varje paket måste spelas in för att kunna rekonstruera.

@@ -27,7 +27,7 @@ XAML은 WPF, Silverlight, Windows WF(Workflow Foundation) 및 기타 몇 가지�
 
 ## XAML 파일 형식
 
-XAML은 전적으로 XML 형식을 기반으로 합니다. [XAML 개체 매핑](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf)의 초기 사양이 게시되었습니다. 2006년에 이어 다른 [버전](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) 게시 2009. 이 사양은 두 가지 추상 정보 모델을 정의합니다.
+XAML은 전적으로 XML 형식을 기반으로 합니다. [XAML 개체 매핑](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf)의 초기 사양이 게시되었습니다. 2006년에 이어 다른 [버전](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) 게시 2009. 이 사양은 두 가지 추상 정보 모델을 정의합니다.
 
 * XAML 스키마 정보 집합 모델
 * XAML 정보 집합 모델
@@ -37,5 +37,5 @@ Xaml 정보 집합(줄여서 'Xaml Infoset')은 Xaml 인스턴스가 나타낼 �
 ## 참고문헌
 
 * [XAML - 위키백과 제공](https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language)
-* [XAML 파일 형식 사양](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf)
+* [XAML 파일 형식 사양](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf)
 

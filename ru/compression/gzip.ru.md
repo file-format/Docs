@@ -30,6 +30,6 @@ GZIP использует алгоритм [DEFLATE](https://en.wikipedia.org/wi
 
 * [gzip](http://www.gzip.org/)
 * [gzip — Википедия](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952: Спецификация формата файла GZIP](http://tools.ietf.org/html/rfc1952), подготовлено IETF.
+* [RFC1952: Спецификация формата файла GZIP](https://datatracker.ietf.org/doc/html/rfc1952), подготовлено IETF.
 * [RFC 1951](https://tools.ietf.org/html/rfc1951)
 

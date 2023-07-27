@@ -23,7 +23,7 @@ A .kgb kiterjesztésű fájl egy tömörített archív fájl, amelyet a KGB arch
 
 ## KGB fájl formátum
 
-A KGB fájlformátumról nem állnak rendelkezésre technikai megvalósítási részletek. Az archivált fájlok védelme érdekében AES-256 titkosítást kínál. A KGB archiválót Visual [C++](/hu/programming/cpp) nyelven fejlesztette ki Tomasz Pawlak 2006 áprilisában, és úgy gondolták, hogy [1 GB-os fájlt 10 MB-ig tömörít](https://web.archive.org/ web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/) fájl.
+A KGB fájlformátumról nem állnak rendelkezésre technikai megvalósítási részletek. Az archivált fájlok védelme érdekében AES-256 titkosítást kínál. A KGB archiválót Visual [C++](/hu/programming/cpp/) nyelven fejlesztette ki Tomasz Pawlak 2006 áprilisában, és úgy gondolták, hogy [1 GB-os fájlt 10 MB-ig tömörít](https://web.archive.org/ web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/) fájl.
 
 ## Hivatkozások
 

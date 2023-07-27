@@ -19,7 +19,7 @@
 
 ## Co je soubor LRS?
 
-Soubor s příponou .lrs (Librie Reader Source) označuje přechodný soubor používaný aplikací Sony Portable Reader. Obsahuje informace, které slouží jako zdroj pro vytvoření širokopásmové elektronické knihy Sony (BBeB). Soubory LRS obsahují podrobnosti o souboru eBook ve formě popisů obsahu a vlastností. Soubory LRS se používají k vytváření souborů [LRF](/cs/ebook/lrf) a LRX pomocí veřejně dostupných nástrojů a rozhraní API. K otevření souborů LRS v systémech Windows, Linux a MAC lze použít několik softwarových aplikací, jako jsou Calibre, BookDesignerMkelrf a Canon Book Creator.
+Soubor s příponou .lrs (Librie Reader Source) označuje přechodný soubor používaný aplikací Sony Portable Reader. Obsahuje informace, které slouží jako zdroj pro vytvoření širokopásmové elektronické knihy Sony (BBeB). Soubory LRS obsahují podrobnosti o souboru eBook ve formě popisů obsahu a vlastností. Soubory LRS se používají k vytváření souborů [LRF](/cs/ebook/lrf/) a LRX pomocí veřejně dostupných nástrojů a rozhraní API. K otevření souborů LRS v systémech Windows, Linux a MAC lze použít několik softwarových aplikací, jako jsou Calibre, BookDesignerMkelrf a Canon Book Creator.
 
 ## Formát souboru LRS
 

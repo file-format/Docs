@@ -38,35 +38,35 @@ Struktura EMBEDDEDFONT została poddana trzem rewizjom, z dodaniem dodatkowych d
 |unsigned long|FontDataSize|Długość czcionki OpenType (FontData) w bajtach|
 |unsigned long|Wersja|Numer wersji tego formatu - 0x00020002|
 |unsigned long|Flagi|Przetwarzanie flag|
-|byte[10]|FontPANOSE|Wartość PANOSE dla tej czcionki — zobacz http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|bajt|Zestaw znaków|W systemie Windows pochodzi z TEXTMETRIC.tmCharSet. Ta wartość określa zestaw znaków czcionki. DEFAULT_CHARSET (0x01) oznacza brak preferencji. — Zobacz http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
-|bajt|Kursywa|Jeśli bit kursywy jest ustawiony w OS/2.fsSelection, wartość będzie równa 0x01 — patrz http://www.microsoft.com/typography/otspec/os2.htm#fss|
-|unsigned long|Waga|Wartość wagi tej czcionki — zobacz http://www.microsoft.com/typography/otspec/os2.htm#wtc|
-|unsigned short|fsType|Flagi typu, które dostarczają informacji o uprawnieniach osadzania — zobacz http://www.microsoft.com/typography/otspec/os2.htm#fst|
+|byte[10]|FontPANOSE|Wartość PANOSE dla tej czcionki — zobacz https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
+|bajt|Zestaw znaków|W systemie Windows pochodzi z TEXTMETRIC.tmCharSet. Ta wartość określa zestaw znaków czcionki. DEFAULT_CHARSET (0x01) oznacza brak preferencji. — Zobacz https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
+|bajt|Kursywa|Jeśli bit kursywy jest ustawiony w OS/2.fsSelection, wartość będzie równa 0x01 — patrz https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss|
+|unsigned long|Waga|Wartość wagi tej czcionki — zobacz https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|
+|unsigned short|fsType|Flagi typu, które dostarczają informacji o uprawnieniach osadzania — zobacz https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|
 |unsigned short|MagicNumber|Magiczny numer dla pliku EOT - 0x504C. Służy do sprawdzania uszkodzeń danych.|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (bity 0-31) — patrz http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (bity 32-63) — patrz http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (bity 64-95) — patrz http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bity 96-127) — patrz http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|CodePageRange1|CodePageRange1 (bity 0-31) — patrz http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CodePageRange2|CodePageRange2 (bity 32-63) — patrz http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment — zobacz http://www.microsoft.com/typography/otspec/head.htm|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (bity 0-31) — patrz https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (bity 32-63) — patrz https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (bity 64-95) — patrz https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bity 96-127) — patrz https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|CodePageRange1|CodePageRange1 (bity 0-31) — patrz https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CodePageRange2|CodePageRange2 (bity 32-63) — patrz https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment — zobacz https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Zarezerwowany1|Zarezerwowany - musi wynosić 0|
 |unsigned long|Zarezerwowany2|Zarezerwowany - musi wynosić 0|
 |unsigned long|Zarezerwowany3|Zarezerwowany - musi wynosić 0|
 |unsigned long|Zarezerwowany4|Zarezerwowany - musi wynosić 0|
 |unsigned short|Wypełnienie1|Wypełnienie, aby zachować długie wyrównanie. Wartość wypełnienia musi być zawsze ustawiona na 0x0000.|
 |unsigned short|FamilyNameSize|Liczba bajtów używanych przez tablicę FamilyName|
-|bajt|NazwaRodziny[RozmiarNazwyRodziny]|Tablica znaków UTF-16 o długości bajtów RozmiarNazwyRodziny. To jest ciąg rodziny czcionek w języku angielskim znaleziony w tabeli nazw czcionki (identyfikator nazwy = 1) — patrz http://www.microsoft.com/typography/otspec/name.htm|
+|bajt|NazwaRodziny[RozmiarNazwyRodziny]|Tablica znaków UTF-16 o długości bajtów RozmiarNazwyRodziny. To jest ciąg rodziny czcionek w języku angielskim znaleziony w tabeli nazw czcionki (identyfikator nazwy = 1) — patrz https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Dopełnienie2|Wartość dopełnienia musi być zawsze ustawiona na 0x0000.|
 |unsigned short|StyleNameSize|Liczba bajtów używanych przez StyleName|
-|byte|StyleName[StyleNameSize]|Tablica znaków UTF-16 o długości StyleNameSize bajtów. To jest łańcuch podrodziny czcionek w języku angielskim znaleziony w tabeli nazw czcionki (identyfikator nazwy = 2) — patrz http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|Tablica znaków UTF-16 o długości StyleNameSize bajtów. To jest łańcuch podrodziny czcionek w języku angielskim znaleziony w tabeli nazw czcionki (identyfikator nazwy = 2) — patrz https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Dopełnienie3|Wartość dopełnienia musi być zawsze ustawiona na 0x0000.|
 |unsigned short|VersionNameSize|Liczba bajtów używanych przez VersionName|
-|bajty|NazwaWersji[RozmiarNazwyWersji]|Tablica znaków UTF-16 o długości bajtówRozmiarNazwyWersji. To jest ciąg wersji języka angielskiego znaleziony w tabeli nazw czcionki (identyfikator nazwy = 5) — patrz http://www.microsoft.com/typography/otspec/name.htm|
+|bajty|NazwaWersji[RozmiarNazwyWersji]|Tablica znaków UTF-16 o długości bajtówRozmiarNazwyWersji. To jest ciąg wersji języka angielskiego znaleziony w tabeli nazw czcionki (identyfikator nazwy = 5) — patrz https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Dopełnienie4|Wartość dopełnienia musi być zawsze ustawiona na 0x0000.|
 |unsigned short|FullNameSize|Liczba bajtów używanych przez FullName|
-|byte|FullName[FullNameSize]|Tablica znaków UTF-16 o długości FullNameSize bajtów. To jest ciąg pełnej nazwy w języku angielskim znaleziony w tabeli nazw czcionki (identyfikator nazwy = 4) — patrz http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|Tablica znaków UTF-16 o długości FullNameSize bajtów. To jest ciąg pełnej nazwy w języku angielskim znaleziony w tabeli nazw czcionki (identyfikator nazwy = 4) — patrz https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Dopełnienie5|Wartość dopełnienia musi być zawsze ustawiona na 0x0000.|
 |unsigned short|RootStringSize|Liczba bajtów używanych przez tablicę RootString|
 |byte|RootString[RootStringSize]|Tablica znaków UTF-16 o długości bajtów RootStringSize.|

@@ -31,7 +31,7 @@ Leginkább hangos felvételekhez és tömörítéshez használják. Ebben a form
 
 A VOX fájlok a Dialogic DMV és JCT nevű médiatábláihoz kapcsolódnak. Ezek a VoxWare-hez és sok más szoftverhez tartoznak. Régen elavult formátumnak számított.
 
-Elavult formátumként ezt követően nem használták. Más ADPCM formátumokhoz hasonlóan 4 bitre tömörítették. Ezen fájlok jellemzői elég közel állnak a [WAV](/hu/audio/wav) fájl specifikációihoz.
+Elavult formátumként ezt követően nem használták. Más ADPCM formátumokhoz hasonlóan 4 bitre tömörítették. Ezen fájlok jellemzői elég közel állnak a [WAV](/hu/audio/wav/) fájl specifikációihoz.
 
 
 ## Formátumspecifikációk ##

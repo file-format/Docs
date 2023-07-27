@@ -42,7 +42,7 @@ PDF/UA 标准定义了内容、阅读器和辅助技术的规范。这三个方�
 
 ## 符合文件##
 
-符合 PDF/UA 标准的文件应包含根据 [PDF 1.7 规范](http://www.adobe.com/go/pdfreference) 有效的功能。但是，应排除 PDF/UA 明确禁止的功能。
+符合 PDF/UA 标准的文件应包含根据 [PDF 1.7 规范](https://opensource.adobe.com/dc-acrobat-sdk-docs/standards/pdfstandards/pdf/PDF32000_2008.pdf) 有效的功能。但是，应排除 PDF/UA 明确禁止的功能。
 
 ## 符合标准的读者##
 
@@ -59,5 +59,5 @@ PDF/UA 标准定义了内容、阅读器和辅助技术的规范。这三个方�
 ## 参考 ＃＃
 
 * [PDF/UA - 维基百科](https://en.wikipedia.org/wiki/PDF/UA)
-* [简而言之 PDF/UA](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [简而言之 PDF/UA](https://pdfa.org/pdfua-in-a-nutshell/)
 

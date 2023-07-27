@@ -19,7 +19,7 @@
 
 ## 什么是一 .otg 文件？
 
-OTG 文件是使用遵循 OASIS Office 应用程序 [1.0 规范](http://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0) 的 OpenDocument 标准创建的绘图模板-os.pdf)。它表示矢量图像的绘图元素的默认组织，可用于进一步增强文件的内容。 OTF 文件与任何其他基于 OpenDocument 格式的文件一样，它们基于 XML 格式来表示文档的内容。可以通过在任何文本或标准 XML 编辑器中打开 OTF 文件来查看它们。
+OTG 文件是使用遵循 OASIS Office 应用程序 [1.0 规范](https://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0-os.pdf) 的 OpenDocument 标准创建的绘图模板。它表示矢量图像的绘图元素的默认组织，可用于进一步增强文件的内容。 OTF 文件与任何其他基于 OpenDocument 格式的文件一样，它们基于 XML 格式来表示文档的内容。可以通过在任何文本或标准 XML 编辑器中打开 OTF 文件来查看它们。
 
 ## OTG 文件格式规范 ##
 

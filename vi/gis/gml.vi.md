@@ -63,6 +63,6 @@ GML 1.0 và 2.0 mã hóa các đối tượng Đa giác, Điểm và LineString 
 
 ## Người giới thiệu ##
 
-* [Thông số GML](http://www.opengeospatial.org/standards/gml)
+* [Thông số GML](https://www.ogc.org/standard/gml/)
 * [GML - Theo Wikipedia](https://en.wikipedia.org/wiki/Geography_Markup_Language)
 

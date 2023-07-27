@@ -19,7 +19,7 @@
 
 ## ไฟล์ M2TS คืออะไร?? ##
 
-ไฟล์ M2TS มีวิดีโอความละเอียดสูงใน Blu-ray Disc และ AVCHD รูปแบบไฟล์นี้อ้างอิงจากคอนเทนเนอร์สตรีมการขนส่ง MPEG-2 และใช้สำหรับมัลติเพล็กซ์เสียง วิดีโอ และสตรีมอื่นๆ สามารถเล่นไฟล์ M2TS บนอุปกรณ์ที่รองรับการเล่น [AVCHD](/th/video/avchd) เช่น Sony PlayStation 3s, Sony Bravia TV, Western Digital WDTV, Xtreamer media player, Amkette FlashTV HD Media Player และ Panasonic Viera TV ที่รองรับ AVCHD.
+ไฟล์ M2TS มีวิดีโอความละเอียดสูงใน Blu-ray Disc และ AVCHD รูปแบบไฟล์นี้อ้างอิงจากคอนเทนเนอร์สตรีมการขนส่ง MPEG-2 และใช้สำหรับมัลติเพล็กซ์เสียง วิดีโอ และสตรีมอื่นๆ สามารถเล่นไฟล์ M2TS บนอุปกรณ์ที่รองรับการเล่น [AVCHD](/th/video/avchd/) เช่น Sony PlayStation 3s, Sony Bravia TV, Western Digital WDTV, Xtreamer media player, Amkette FlashTV HD Media Player และ Panasonic Viera TV ที่รองรับ AVCHD.
 
 ## รูปแบบไฟล์ M2TS
 ข้อกำหนดสตรีมการขนส่ง MPEG-2 ที่แก้ไขแล้วสำหรับสื่อเข้าถึงโดยสุ่ม (เช่น DVD, Blu-ray Disc, ฮาร์ดไดรฟ์, การ์ดหน่วยความจำโซลิดสเตต) เป็นคอนเทนเนอร์สื่อ BDAV ซึ่งเรียกอย่างไม่เป็นทางการว่า M2TS M2TS ใช้อัตราตัวแปร (VBR) Transport Streams แทนอัตราคงที่ทั่วไป (CBR) ที่พบในการแพร่ภาพ MPEG-2 TS เพื่อปรับขนาดพื้นที่จัดเก็บให้เหมาะสม สตรีมการขนส่งอัตราคงที่ที่สอดคล้องกับ T-STD สำหรับการเล่นการประทับเวลาการมาถึง (ATS) ของแต่ละแพ็คเก็ตจำเป็นต้องได้รับการบันทึกเพื่อให้สามารถสร้างใหม่ได้

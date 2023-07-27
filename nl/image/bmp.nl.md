@@ -81,6 +81,6 @@ De afbeelding wordt eigenlijk beschreven door de 32-bits DWORDs-weergave van de 
 
 ## Referenties ##
 
-* [Windows MetaFile-indeling](http://msdn.microsoft.com/en-us/library/cc250370.aspx)
+* [Windows MetaFile-indeling](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-wmf/4813e7fd-52d0-4f42-965f-228c8b7488d2)
 * [BMP-bestandsindeling](https://en.wikipedia.org/wiki/BMP_file_format)
 

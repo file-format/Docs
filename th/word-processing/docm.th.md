@@ -29,7 +29,7 @@
 
 รูปแบบไฟล์ DOCM เป็นไปตามโครงสร้าง DOCX เดียวกันตามรูปแบบไฟล์ Office OpenXML เนื้อหาของรูปแบบไฟล์ DOCM สามารถดูได้โดยการเปลี่ยนชื่อเป็น ZIP และเปิดไฟล์เก็บถาวรโดยใช้ยูทิลิตี้ที่รองรับ ข้อกำหนด [MS-DOCX](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx) กำหนดรายละเอียดรูปแบบไฟล์ Office OpenXML สำหรับรูปแบบไฟล์ DOCX สำหรับการอ้างอิงของนักพัฒนา และใช้ได้กับ DOTM เช่นกัน มาโครอยู่ในไฟล์ไบนารีชื่อ vbaProject.bin โดยมีไฟล์สนับสนุนสองไฟล์คือ vbaProject.bin.rels และ vbaData.xml
 
-![](http://social.technet.microsoft.com/Forums/getfile/331363)
+![](https://social.technet.microsoft.com/Forums/getfile/331363)
 
 ## อ้างอิง
 

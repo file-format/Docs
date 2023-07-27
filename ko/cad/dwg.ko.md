@@ -62,6 +62,6 @@ DWG는 다양한 응용 프로그램에서 널리 사용되는 파일 형식 중
 ## 참조 ##
 
 * [DWG 파일 형식 사양](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [DWG 파일 사양](https://www.scan2cad.com/dwg/file-spec/)
+* [DWG 파일 사양](https://www.scan2cad.com/blog/dwg/file-spec/)
 * [DWG - 위키피디아 작성](https://en.wikipedia.org/wiki/.dwg)
 

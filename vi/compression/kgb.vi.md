@@ -23,7 +23,7 @@ Tệp có phần mở rộng .kgb là tệp lưu trữ nén được tạo bằn
 
 ## Định dạng tệp KGB
 
-Không có chi tiết triển khai kỹ thuật nào về định dạng tệp KGB. Nó cung cấp mã hóa AES-256 để bảo vệ các tệp lưu trữ. Trình lưu trữ KGB được Tomasz Pawlak phát triển trong Visual [C++](/vi/programming/cpp) vào tháng 4 năm 2006 và nó được cho là có thể nén [tệp 1 GB lên tối đa 10 MB](https://web.archive.org/ web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/).
+Không có chi tiết triển khai kỹ thuật nào về định dạng tệp KGB. Nó cung cấp mã hóa AES-256 để bảo vệ các tệp lưu trữ. Trình lưu trữ KGB được Tomasz Pawlak phát triển trong Visual [C++](/vi/programming/cpp/) vào tháng 4 năm 2006 và nó được cho là có thể nén [tệp 1 GB lên tối đa 10 MB](https://web.archive.org/ web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/).
 
 ## Người giới thiệu
 

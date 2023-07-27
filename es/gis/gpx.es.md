@@ -74,6 +74,6 @@ El siguiente archivo GPX muestra la organización de los datos GPS en un archivo
 
 ## Referencias ##
 
-* [Formato de archivo GPX](http://www.topografix.com/gpx.asp)
+* [Formato de archivo GPX](https://www.topografix.com/gpx.asp)
 * [GPX - Por Wikipedia](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
 

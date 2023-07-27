@@ -44,6 +44,5 @@ Plik MicroStation V8 DGN składa się z co najmniej jednego modelu. Model to poj
 ## Bibliografia
 
 * [DNG – z Wikipedii](https://en.wikipedia.org/wiki/DGN)
-* [OpenDNG](http://www.bentley.com/opendgn)
 * [Format pliku MicroStation V8 DGN](https://web.archive.org/web/20120713013730/http://docs.bentley.com/ko/MicroStation/ustnhelp47.html)
 

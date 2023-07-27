@@ -19,7 +19,7 @@
 
 ## Co je soubor AZW?
 
-AZW je formát digitálních e-knih vyvinutý společností Amazon pro zařízení Kindle. Formát byl převzat z formátu souborů MobiPocket eBook [MOBI](/cs/ebook/mobi/) a pro jejich použití byla použita ochrana DRM pouze na zařízeních Kindle. Soubory AZW mohou ukládat věci, jako je formátovaný text, záložky a další informace, které jsou součástí souborů Mobipocket .PRC. Soubory AZW chráněné DRM nelze číst jinými zařízeními a lze je číst pomocí zařízení Kindle. Soubory AZW lze převést do řady dalších formátů souborů, například [PDF](/cs/pdf/), [EPUB](/cs/ebook/epub/), [AZW3](/cs/ebook/azw3), [DOCX](/cs/word -processing/docx/) a [RTF](/cs/text-processing/rtf/). Soubory AZW mají typ internetového média *application/vnd.amazon.mobi8-ebook*.
+AZW je formát digitálních e-knih vyvinutý společností Amazon pro zařízení Kindle. Formát byl převzat z formátu souborů MobiPocket eBook [MOBI](/cs/ebook/mobi/) a pro jejich použití byla použita ochrana DRM pouze na zařízeních Kindle. Soubory AZW mohou ukládat věci, jako je formátovaný text, záložky a další informace, které jsou součástí souborů Mobipocket .PRC. Soubory AZW chráněné DRM nelze číst jinými zařízeními a lze je číst pomocí zařízení Kindle. Soubory AZW lze převést do řady dalších formátů souborů, například [PDF](/cs/pdf/), [EPUB](/cs/ebook/epub/), [AZW3](/cs/ebook/azw3/), [DOCX](/cs/word-processing/docx/) a [RTF](/cs/text-processing/rtf/). Soubory AZW mají typ internetového média *application/vnd.amazon.mobi8-ebook*.
 
 ## Formát souboru AZW
 

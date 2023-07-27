@@ -19,7 +19,7 @@
 
 ## What is a VOC file? ##
 
-The VOC audio files are created by a voice récordee named RCA digital voice recorder. The interviews and lectures are recorded through this device. These files are portable and can be shared through the USB port. The VOC files are compatible with Windows operating systems. These VOC files can be converted into other file formats which are more popular such as [MP3](/audio/mp3).
+The VOC audio files are created by a voice récordee named RCA digital voice recorder. The interviews and lectures are recorded through this device. These files are portable and can be shared through the USB port. The VOC files are compatible with Windows operating systems. These VOC files can be converted into other file formats which are more popular such as [MP3](/audio/mp3/).
  
 The data included in these files can be in raw form or container format. These files were used in Disk operating system games. The sound blaster cards were used for audio and these files were used to do so. 
 

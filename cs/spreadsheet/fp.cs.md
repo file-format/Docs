@@ -19,7 +19,7 @@
 
 ## Co je soubor FP?
 
-Soubor s příponou .fp je tabulkový soubor vytvořený pomocí softwaru [FileMaker Pro](https://www.claris.com/filemaker/pro/) od společnosti Claris. Ukládá data do řádků a sloupců podobně jako Microsoft Excel. FileMaker Pro umožňuje importovat data přetažením mnoha typů souborů, jako jsou CSV a XML.
+Soubor s příponou .fp je tabulkový soubor vytvořený pomocí softwaru [FileMaker Pro](https://www.claris.com/filemaker/) od společnosti Claris. Ukládá data do řádků a sloupců podobně jako Microsoft Excel. FileMaker Pro umožňuje importovat data přetažením mnoha typů souborů, jako jsou CSV a XML.
 
 ## Formát souboru FP
 
@@ -27,6 +27,6 @@ Soubory FP jsou uloženy v proprietárním formátu souboru a podrobnosti o jeji
 
 ## Reference
 
-* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [FileMaker Pro](https://www.claris.com/filemaker/)
 * [fmapi](https://github.com/stevenwhitespacesystems/fm-xml2json)
 

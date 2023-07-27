@@ -28,7 +28,7 @@ OEB-filformatet består av en uppsättning filer, inklusive en obligatorisk pake
 OEBPS 1.2 var en tätt kopplad uppdatering till den tidigare versionen (OEBPS 1.0.1). Det gav modern funktionalitet inom området för renderingskontroll, inklusive bland annat förbättringar av uppmärkningsordförrådet (nu en äkta delmängd av XHTML 1.1), och kraftigt utökat CSS-stöd. Hållbarhetsfaktorer är oförändrade från den tidigare versionen.
   
 
-OEB-filpaketet användes främst som ett mellanstatsformat, med publicering till slutanvändare som hanterades genom förlag eller aggregatorer som tillhandahållit e-böcker i former som är lämpliga för olika e-bokstittare. Dess efterföljande version, [EPUB](/sv/ebook/epub), är mer sannolikt att nå slutanvändare som ett sluttillståndsformat, samt fungerar som ett mellantillståndsformat.
+OEB-filpaketet användes främst som ett mellanstatsformat, med publicering till slutanvändare som hanterades genom förlag eller aggregatorer som tillhandahållit e-böcker i former som är lämpliga för olika e-bokstittare. Dess efterföljande version, [EPUB](/sv/ebook/epub/), är mer sannolikt att nå slutanvändare som ett sluttillståndsformat, samt fungerar som ett mellantillståndsformat.
 
 ## Referenser
 

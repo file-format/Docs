@@ -19,7 +19,7 @@
 
 ## Vad är en MP fil?
 
-En MP-fil är en vektorbildfil som genereras av MetaPosts programmeringsspråk för att skapa bilder. Vektorbilder skapade med MP-filformat sparas som [EPS](/sv/image/eps/) (Encapsulated PostScript)-filer. Dessutom kommer MetaPost distribueras med TeX- och Metafont-ramverk och MP-filer kan genereras från TEX- och LTX-filerna som används av dessa applikationer. MP-filer innehåller ritningssatser och matematisk algoritmisk ritning för att återge den utgående EPS-filen. PDFTex-motorn kan använda den skapade EPS för att generera [PDF](/sv/pdf/)-filer direkt.
+En MP-fil är en vektorbildfil som genereras av MetaPosts programmeringsspråk för att skapa bilder. Vektorbilder skapade med MP-filformat sparas som [EPS](/sv/page-description-language/eps/) (Encapsulated PostScript)-filer. Dessutom kommer MetaPost distribueras med TeX- och Metafont-ramverk och MP-filer kan genereras från TEX- och LTX-filerna som används av dessa applikationer. MP-filer innehåller ritningssatser och matematisk algoritmisk ritning för att återge den utgående EPS-filen. PDFTex-motorn kan använda den skapade EPS för att generera [PDF](/sv/pdf/)-filer direkt.
 
 ## MP filformat
 

@@ -50,5 +50,5 @@ Các tệp ASCX đang ghi ở định dạng văn bản thuần túy và có th�
 ## Người giới thiệu
 
 * [ASCX so với ASMX](https://social.msdn.microsoft.com/Forums/en-US/a27d4c2f-b972-439e-a7fe-f4b7e3637700/how-to-work-with-ascx-files?forum=aspwebforms)
-* [Kiểm soát người dùng ASCX](http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
+* [Kiểm soát người dùng ASCX](https://beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

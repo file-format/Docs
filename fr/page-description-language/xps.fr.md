@@ -25,7 +25,7 @@ Les visionneuses XPS sont intégrées dans Windows Vista, Windows 7, Windows 8 e
 
 ## Bref historique ##
 
-Microsoft a soumis la spécification XPS à Ecma International. En juin 2007, le comité technique Ecma 46 (TC46) a été créé pour développer une norme basée sur les spécifications papier OpenXPS. Ecma International a approuvé la norme Ecma (ECMA-388) [spécifications XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm) en juin 2009 lors de la 97e Assemblée générale.
+Microsoft a soumis la spécification XPS à Ecma International. En juin 2007, le comité technique Ecma 46 (TC46) a été créé pour développer une norme basée sur les spécifications papier OpenXPS. Ecma International a approuvé la norme Ecma (ECMA-388) [spécifications XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/) en juin 2009 lors de la 97e Assemblée générale.
 
 ## Format de fichier XPS ##
 
@@ -55,6 +55,6 @@ Un document XPS typique se présente comme suit et peut être analysé à la lum
 
 ## Références ##
 
-* [Spécifications du format de fichier XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+* [Spécifications du format de fichier XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 * [XPS - Par Wikipédia](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

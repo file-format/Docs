@@ -23,7 +23,7 @@ Eine Datei mit der Erweiterung .lrx ist eine zugehörige Datei für Sony Broadba
 
 ## LRX-Dateiformat
 
-LRX-Dateien haben ein binäres Dateiformat und alle Inhalte in der Datei sind verschlüsselt, im Gegensatz zu [LRS](/de/ebook/lrs), einem unverschlüsselten Format. Ein weiteres zugehöriges BBeB-Dateiformat ist LRS, das auf XML basiert und in jedem Texteditor lesbar ist. Der Header von LRX-Dateien enthält Informationen wie:
+LRX-Dateien haben ein binäres Dateiformat und alle Inhalte in der Datei sind verschlüsselt, im Gegensatz zu [LRS](/de/ebook/lrs/), einem unverschlüsselten Format. Ein weiteres zugehöriges BBeB-Dateiformat ist LRS, das auf XML basiert und in jedem Texteditor lesbar ist. Der Header von LRX-Dateien enthält Informationen wie:
 
 * Ausführung
 * Root-Objekt-Identifikation

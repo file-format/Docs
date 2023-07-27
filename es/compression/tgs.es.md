@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo TGS?
 
-Un archivo con la extensión .tgs es un archivo de etiqueta animada que introdujo el servicio de mensajería multiplataforma, [Telegram](https://core.telegram.org/animated_stickers). Los usuarios de aplicaciones de mensajería utilizan pegatinas animadas para enviar contenido más mejorado y animado en los mensajes, a diferencia de los gráficos estáticos que son imágenes fijas. Telegram utilizó inicialmente el formato de archivo [WEBP](/es/image/webp/) para pegatinas de imágenes fijas. El formato de archivo TGS puede almacenar datos de animación en resoluciones más altas y un tamaño de archivo más pequeño en comparación con las pegatinas WEBP estáticas. Los archivos TGS se pueden abrir con aplicaciones como Telegram, 7-zip, Apple Archive Utility y Corel WinZip.
+Un archivo con la extensión .tgs es un archivo de etiqueta animada que introdujo el servicio de mensajería multiplataforma, [Telegram](https://core.telegram.org/stickers#animated-stickers). Los usuarios de aplicaciones de mensajería utilizan pegatinas animadas para enviar contenido más mejorado y animado en los mensajes, a diferencia de los gráficos estáticos que son imágenes fijas. Telegram utilizó inicialmente el formato de archivo [WEBP](/es/image/webp/) para pegatinas de imágenes fijas. El formato de archivo TGS puede almacenar datos de animación en resoluciones más altas y un tamaño de archivo más pequeño en comparación con las pegatinas WEBP estáticas. Los archivos TGS se pueden abrir con aplicaciones como Telegram, 7-zip, Apple Archive Utility y Corel WinZip.
 
 ## Formato de archivo TGS
 
@@ -45,6 +45,6 @@ $ head -c 200 animated-sticker
 ```
 ## Referencias ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
 

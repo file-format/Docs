@@ -26,6 +26,6 @@ Pliki SBN są zapisywane na dysku jako pliki binarne, a szczegóły ich wewnętr
 
 ## Bibliografia
 
-* [Opis techniczny ESRI ShapeFile](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf)
+* [Opis techniczny ESRI ShapeFile](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf)
 * [ESRI ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 

@@ -19,7 +19,7 @@
 
 ## Wat is een DCM-bestand?
 
-Bestanden met de extensie .dcm vertegenwoordigen een digitaal beeld waarin medische informatie van patiënten is opgeslagen, zoals MRI's, CT-scans en echografiebeelden. DCM-bestanden gebruiken het [DICOM](/nl/image/dicom) (Digital Imaging and Communications in Medicine) beeldbestandsformaat en kunnen patiëntinformatie bevatten ter referentie. Het is ontwikkeld door de [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) en was bedoeld om het bestandsformaat voor beeldvorming te standaardiseren voor het distribueren en bekijken van medische beelden.
+Bestanden met de extensie .dcm vertegenwoordigen een digitaal beeld waarin medische informatie van patiënten is opgeslagen, zoals MRI's, CT-scans en echografiebeelden. DCM-bestanden gebruiken het [DICOM](/nl/image/dicom/) (Digital Imaging and Communications in Medicine) beeldbestandsformaat en kunnen patiëntinformatie bevatten ter referentie. Het is ontwikkeld door de [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) en was bedoeld om het bestandsformaat voor beeldvorming te standaardiseren voor het distribueren en bekijken van medische beelden.
 
 ## DCM-bestandsindeling
 
@@ -68,5 +68,5 @@ De media-indelingslaag biedt indien nodig de volgende bestandsbeheerinformatie v
 
 ## Referenties ##
 * [DICOM-standaard](https://www.dicomstandard.org/current/)
-* [DICOM-bestandsindeling](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [DICOM-bestandsindeling](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

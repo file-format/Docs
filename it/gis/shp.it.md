@@ -43,7 +43,7 @@ Possono esserci anche altri file facoltativi che condividono lo stesso nome del 
 
 ## Specifiche del formato file SHP
 
-Le specifiche aperte di shapefile sono disponibili online da ESRI sotto forma di [Descrizione tecnica](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) ed elabora in dettaglio la struttura generale del file. Le informazioni nel file .shp principale sono costituite da intestazioni e record. L'intestazione del file a lunghezza fissa è seguita da record a lunghezza variabile in cui ogni record è costituito da un'intestazione di record a lunghezza fissa seguita da contenuti di record a lunghezza variabile.
+Le specifiche aperte di shapefile sono disponibili online da ESRI sotto forma di [Descrizione tecnica](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) ed elabora in dettaglio la struttura generale del file. Le informazioni nel file .shp principale sono costituite da intestazioni e record. L'intestazione del file a lunghezza fissa è seguita da record a lunghezza variabile in cui ogni record è costituito da un'intestazione di record a lunghezza fissa seguita da contenuti di record a lunghezza variabile.
 
 ### Intestazione del file SHP principale
 
@@ -116,5 +116,5 @@ Esempi di altri tipi di forma possono essere trovati nel documento di descrizion
 
 ## Riferimenti ##
 
-* [Descrizione tecnica di ESRI Shapefile](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) di ESRI
+* [Descrizione tecnica di ESRI Shapefile](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) di ESRI
 

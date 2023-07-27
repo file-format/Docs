@@ -19,7 +19,7 @@
 
 ## 什么是 .m2ts 文件？ ##
 
-M2TS 文件包含蓝光光盘和 AVCHD 上的高清视频。此文件格式基于 MPEG-2 传输流容器，用于多路复用音频、视频和其他流。 M2TS 文件可以在支持播放 [AVCHD](/zh/video/avchd) 的设备上播放，例如，索尼 PlayStation 3s、索尼 Bravia 电视、西部数据 WDTV、Xtreamer 媒体播放器、Amkette FlashTV 高清媒体播放器和松下 Viera 电视支持AVCHD。
+M2TS 文件包含蓝光光盘和 AVCHD 上的高清视频。此文件格式基于 MPEG-2 传输流容器，用于多路复用音频、视频和其他流。 M2TS 文件可以在支持播放 [AVCHD](/zh/video/avchd/) 的设备上播放，例如，索尼 PlayStation 3s、索尼 Bravia 电视、西部数据 WDTV、Xtreamer 媒体播放器、Amkette FlashTV 高清媒体播放器和松下 Viera 电视支持AVCHD。
 
 ## M2TS 文件格式
 用于随机访问媒体（例如 DVD、蓝光光盘、硬盘驱动器、固态存储卡）的修改后的 MPEG-2 传输流规范是一种 BDAV 媒体容器，非正式地称为 M2TS。 M2TS 使用可变速率 (VBR) 传输流而不是 MPEG-2 TS 广播中的典型恒定速率 (CBR) 来优化存储大小。需要记录用于回放每个数据包的到达时间戳 (ATS) 的符合 T-STD 的恒定速率传输流，以便能够重建。

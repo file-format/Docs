@@ -62,6 +62,6 @@ DWG a fost unul dintre formatele de fișiere utilizate pe scară largă de o ser
 ## Referințe ##
 
 * [Specificații de format de fișier DWG](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [Specificația fișierului DWG](https://www.scan2cad.com/dwg/file-spec/)
+* [Specificația fișierului DWG](https://www.scan2cad.com/blog/dwg/file-spec/)
 * [DWG - După Wikipedia](https://en.wikipedia.org/wiki/.dwg)
 

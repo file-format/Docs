@@ -18,7 +18,7 @@
 }
 
 ## Czym jest plik SHX?
-Plik SHX należy do formatu indeksu kształtu, który jest indeksem pozycyjnym geometrii obiektu, umożliwiającym szybkie wyszukiwanie do przodu i do tyłu. SHX to plik offsetowy z bezpośrednim dostępem. W tym pliku nie ma żadnych danych, tylko duplikat pierwszych stu bajtów, numer rekordu i przesunięcie do początkowego bajtu tego rekordu w shp. Należy pamiętać, że plik z rozszerzeniem .shx nie łączy [SHP](/pl/gis/shp) i [DBF](/pl/database/dbf).
+Plik SHX należy do formatu indeksu kształtu, który jest indeksem pozycyjnym geometrii obiektu, umożliwiającym szybkie wyszukiwanie do przodu i do tyłu. SHX to plik offsetowy z bezpośrednim dostępem. W tym pliku nie ma żadnych danych, tylko duplikat pierwszych stu bajtów, numer rekordu i przesunięcie do początkowego bajtu tego rekordu w shp. Należy pamiętać, że plik z rozszerzeniem .shx nie łączy [SHP](/pl/gis/shp/) i [DBF](/pl/database/dbf/).
 
 ## Format pliku SHX
 Format SHX zawiera indeks pozycyjny geometrii elementu i 100-bajtowy nagłówek podobny do pliku SHP, po którym następuje dowolna liczba 8-bajtowych rekordów o stałej długości, które zawierają następujące dwa pola:

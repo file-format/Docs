@@ -35,5 +35,5 @@ ZIPX dosyaları diske ikili dosyalar olarak kaydedilir ve dahili dosya biçimi a
 ## Referanslar
 
 * [ZIPX Dosya Biçimi](https://kb.corel.com/en/125951)
-* [ZIPX Dosyaları Nasıl Çıkarılır](https://answers.microsoft.com/en-us/windows/forum/all/i-want-to-extract-zipx-files/32827ca4-ceec-4faf-93d9-d9ecffb1fb41 )
+* [ZIPX Dosyaları Nasıl Çıkarılır](https://answers.microsoft.com/en-us/windows/forum/all/i-want-to-extract-zipx-files/32827ca4-ceec-4faf-93d9-d9ecffb1fb41)
 

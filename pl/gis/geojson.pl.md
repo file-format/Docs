@@ -33,7 +33,7 @@ Współrzędne to podstawowy element wszelkich danych geograficznych. Jest to po
 
 ### Pozycja ###
 
-Uporządkowana tablica współrzędnych reprezentuje [pozycję](http://geojson.org/geojson-spec.html#positions). Jest to najmniejsza jednostka, która może wskazać punkt na ziemi.
+Uporządkowana tablica współrzędnych reprezentuje [pozycję](https://geojson.org/geojson-spec.html#positions). Jest to najmniejsza jednostka, która może wskazać punkt na ziemi.
 
 `[Długość, szerokość geograficzna, wysokość]`
 

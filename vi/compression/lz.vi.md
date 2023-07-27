@@ -19,7 +19,7 @@
 
 ## Tệp LZ là gì?
 
-Tệp có phần mở rộng .lz là tệp lưu trữ nén được tạo bằng Lzip, đây là một công cụ nén dòng lệnh miễn phí. Nó hỗ trợ nối để nén các tập tin hỗ trợ. Các tệp LZ có loại phương tiện application/lzip và hỗ trợ tỷ lệ nén cao hơn [BZ2](/vi/compression/bz2). LZ dựa trên thuật toán LZMA (chuỗi Lempel-Ziv-Markov) và bao gồm tổng kiểm tra CRC 32 bit và các byte nhận dạng để kiểm tra tính toàn vẹn của tệp.
+Tệp có phần mở rộng .lz là tệp lưu trữ nén được tạo bằng Lzip, đây là một công cụ nén dòng lệnh miễn phí. Nó hỗ trợ nối để nén các tập tin hỗ trợ. Các tệp LZ có loại phương tiện application/lzip và hỗ trợ tỷ lệ nén cao hơn [BZ2](/vi/compression/bz2/). LZ dựa trên thuật toán LZMA (chuỗi Lempel-Ziv-Markov) và bao gồm tổng kiểm tra CRC 32 bit và các byte nhận dạng để kiểm tra tính toàn vẹn của tệp.
 
 ## Định dạng nén LZMA
 

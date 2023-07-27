@@ -23,7 +23,7 @@ File DIS adalah file buku kerja yang dibuat dengan perangkat lunak [Oracle Disco
 
 ## Bagaimana cara mengunduh Buku Kerja Penemu dalam Format DIS?
 
-Buku Kerja Oracle Discoverer disimpan dalam database dalam format biner dan tidak dapat diunduh sebagai [file DIS](https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-discoverer -workbooks-to-my-computer) secara langsung. Namun, data dapat diekspor sebagai file EEX, buka di Discoverer Desktop, dan gunakan opsi Simpan Sebagai untuk menyimpan file EEX sebagai file DIS.
+Buku Kerja Oracle Discoverer disimpan dalam database dalam format biner dan tidak dapat diunduh sebagai [file DIS](https://forums.oracle.com/ords/apexds/post/can-i-download-all-discoverer-workbooks-to-my-computer-4127) secara langsung. Namun, data dapat diekspor sebagai file EEX, buka di Discoverer Desktop, dan gunakan opsi Simpan Sebagai untuk menyimpan file EEX sebagai file DIS.
 
 ## Format File DIS - Informasi Lebih Lanjut
 

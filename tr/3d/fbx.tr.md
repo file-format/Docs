@@ -80,7 +80,7 @@ Definitions: {
 
 ## FBX Dosyalarının İkili Dosya Yapısı
 
-Daha önce belirtildiği gibi, FBX dosya biçimi belirtimleri FBX için herkese açık değildir. Blender Foundation, şirketin sağladığı SDK'yı kullanmadan FBX dosya biçimini uyguladığından, ikili dosya biçimiyle ilgili bazı ayrıntılar [mevcuttur](https://code.blender.org/2013/08/fbx-binary-file-format -belirtim/) uygulamanın bir parçası olarak.
+Daha önce belirtildiği gibi, FBX dosya biçimi belirtimleri FBX için herkese açık değildir. Blender Foundation, şirketin sağladığı SDK'yı kullanmadan FBX dosya biçimini uyguladığından, ikili dosya biçimiyle ilgili bazı ayrıntılar [mevcuttur](https://code.blender.org/2013/08/fbx-binary-file-format-specification/) uygulamanın bir parçası olarak.
 
 İkili dosya yapısı aşağıdaki sırayı takip eder:
 
@@ -206,7 +206,7 @@ Dize sıfır sonlu değildir ve \0 karakterleri içerebilir (bu aslında bazı F
 
 ## Referanslar ##
 
-* [FBX - Autodesk SDK](http://help.autodesk.com/view/FBX/2017/ENU/?guid#__files_GUID_105ED19A_9A5A_425E_BFD7_C1BBADA67AAB_htm)
+* [FBX - Autodesk SDK](https://help.autodesk.com/view/FBX/2017/ENU/)
 * [FBX İkili Dosya Biçimi Özellikleri](https://code.blender.org/2013/08/fbx-binary-file-format-specification/)
 * [FBX - Wikipedia](https://en.wikipedia.org/wiki/FBX#File_format)
 

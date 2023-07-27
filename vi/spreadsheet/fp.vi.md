@@ -19,7 +19,7 @@
 
 ## Tệp FP là gì?
 
-Tệp có phần mở rộng .fp là tệp bảng tính được tạo bằng phần mềm [FileMaker Pro](https://www.claris.com/filemaker/pro/) của Claris. Nó lưu trữ dữ liệu theo hàng và cột tương tự như Microsoft Excel. FileMaker Pro cho phép bạn kéo và thả một số loại tệp như CSV và XML để nhập dữ liệu của chúng.
+Tệp có phần mở rộng .fp là tệp bảng tính được tạo bằng phần mềm [FileMaker Pro](https://www.claris.com/filemaker/) của Claris. Nó lưu trữ dữ liệu theo hàng và cột tương tự như Microsoft Excel. FileMaker Pro cho phép bạn kéo và thả một số loại tệp như CSV và XML để nhập dữ liệu của chúng.
 
 ## Định dạng tệp FP
 
@@ -27,6 +27,6 @@ Các tệp FP được lưu ở định dạng tệp độc quyền và chi ti�
 
 ## Người giới thiệu
 
-* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [FileMaker Pro](https://www.claris.com/filemaker/)
 * [fmapi](https://github.com/stevenwhitespacesystems/fm-xml2json)
 

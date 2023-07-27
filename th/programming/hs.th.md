@@ -39,7 +39,7 @@
 
 ## รูปแบบไฟล์ Java HS
 
-ไฟล์ Java HS อยู่ในรูปแบบไฟล์ XML และอิงตามคำแนะนำที่เสนอของ World Wide Web Consortium (W3C) Extended Markiup Language [PR-xml-971208](http://www.w3.org/TR/PR-xml- 971208). ซึ่งหมายความว่าไฟล์ Java HS อยู่ในรูปแบบไฟล์ XML ที่มนุษย์อ่านได้ ซึ่งสามารถเปิดได้ในแอปพลิเคชันตัวอ่าน XML ใดๆ
+ไฟล์ Java HS อยู่ในรูปแบบไฟล์ XML และอิงตามคำแนะนำที่เสนอของ World Wide Web Consortium (W3C) Extended Markiup Language [PR-xml-971208](https://www.w3.org/TR/PR-xml-971208). ซึ่งหมายความว่าไฟล์ Java HS อยู่ในรูปแบบไฟล์ XML ที่มนุษย์อ่านได้ ซึ่งสามารถเปิดได้ในแอปพลิเคชันตัวอ่าน XML ใดๆ
 
 ### ตัวอย่างรูปแบบไฟล์ Java HS
 
@@ -159,7 +159,7 @@
 
 ### ตัวอย่างรูปแบบไฟล์ HS
 
-สามารถเขียนโค้ดในไฟล์ .hs และคอมไพล์โดยใช้คอมไพเลอร์ Haskell เช่น [GHC](http://haskell.org/ghc) โค้ดบรรทัดต่อไปนี้บันทึกเป็น `HelloWorld.hs` ตามที่แสดงในตัวอย่างต่อไปนี้
+สามารถเขียนโค้ดในไฟล์ .hs และคอมไพล์โดยใช้คอมไพเลอร์ Haskell เช่น [GHC](https://haskell.org/ghc) โค้ดบรรทัดต่อไปนี้บันทึกเป็น `HelloWorld.hs` ตามที่แสดงในตัวอย่างต่อไปนี้
 
 ```
 main = putStrLn "Hello, World!"

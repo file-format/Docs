@@ -25,7 +25,7 @@ XPS визуализаторите са интегрирани като част
 
 ## Кратка история ##
 
-Microsoft предостави XPS спецификацията на Ecma International. През юни 2007 г. Техническият комитет 46 на Ecma (TC46) беше създаден, за да разработи стандарт, базиран на спецификациите за хартия OpenXPS. Ecma International одобри стандарта Ecma (ECMA-388) [XPS спецификации](http://www.ecma-international.org/publications/standards/Ecma-388.htm) през юни 2009 г. на 97-ото Общо събрание.
+Microsoft предостави XPS спецификацията на Ecma International. През юни 2007 г. Техническият комитет 46 на Ecma (TC46) беше създаден, за да разработи стандарт, базиран на спецификациите за хартия OpenXPS. Ecma International одобри стандарта Ecma (ECMA-388) [XPS спецификации](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/) през юни 2009 г. на 97-ото Общо събрание.
 
 ## XPS файлов формат ##
 
@@ -55,6 +55,6 @@ Microsoft предостави XPS спецификацията на Ecma Intern
 
 ## Препратки ##
 
-* [Спецификации на файловия формат XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+* [Спецификации на файловия формат XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 * [XPS – от Wikipedia](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

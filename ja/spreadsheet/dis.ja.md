@@ -23,7 +23,7 @@ DIS ファイルは、クエリ、レポート、およびOracle データベー
 
 ## Discoverer ワークブックを DIS 形式でダウンロードする方法を教えてください。
 
-Oracle Discoverer ワークブックはバイナリ形式でデータベースに保存され、[DIS ファイル](https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-discoverer) としてダウンロードすることはできません。 -workbooks-to-my-computer) を直接。ただし、データを EEX ファイルとしてエクスポートし、Discoverer Desktop で開き、[名前を付けて保存] オプションを使用して EEX ファイルを DIS ファイルとして保存できます。
+Oracle Discoverer ワークブックはバイナリ形式でデータベースに保存され、[DIS ファイル](https://forums.oracle.com/ords/apexds/post/can-i-download-all-discoverer-workbooks-to-my-computer-4127) を直接。ただし、データを EEX ファイルとしてエクスポートし、Discoverer Desktop で開き、[名前を付けて保存] オプションを使用して EEX ファイルを DIS ファイルとして保存できます。
 
 ## DIS ファイル形式 - 詳細情報
 

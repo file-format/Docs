@@ -18,7 +18,7 @@
 
 ## Wat is een OBML15-bestand?
 
-Een OBML15-bestand is een webpagina die is opgeslagen op mobiele apparaten met de mobiele webbrowser Opera Mini. Het is gebaseerd op de Opera Binary Markup Language (OBML), de eerste versie van dit type bestandsformaat. OBML15 verving [OBML](/nl/web/obml) met de release van Opera Mini versie 5, terwijl het zelf later werd vervangen door OBML16. Elke Opera Mini-versie is compatibel met slechts één OBML-formaat, dwz upgrades van Opera Mini kunnen de vorige versies van opgeslagen pagina's niet lezen. OBML15-bestanden kunnen online worden geconverteerd naar [PDF](/nl/pdf/) en [HTML](/nl/web/html/).
+Een OBML15-bestand is een webpagina die is opgeslagen op mobiele apparaten met de mobiele webbrowser Opera Mini. Het is gebaseerd op de Opera Binary Markup Language (OBML), de eerste versie van dit type bestandsformaat. OBML15 verving [OBML](/nl/web/obml/) met de release van Opera Mini versie 5, terwijl het zelf later werd vervangen door OBML16. Elke Opera Mini-versie is compatibel met slechts één OBML-formaat, dwz upgrades van Opera Mini kunnen de vorige versies van opgeslagen pagina's niet lezen. OBML15-bestanden kunnen online worden geconverteerd naar [PDF](/nl/pdf/) en [HTML](/nl/web/html/).
 
 ## OBML15-bestandsindeling
 

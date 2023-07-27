@@ -19,7 +19,7 @@
 
 ## DCM dosyası nedir?
 
-.dcm uzantılı dosyalar, MR, CT taramaları ve ultrason görüntüleri gibi hastaların tıbbi bilgilerini depolayan dijital görüntüleri temsil eder. DCM dosyaları, [DICOM](/tr/image/dicom) (Tıpta Dijital Görüntüleme ve İletişim) görüntü dosyası biçimini kullanır ve referans için hastanın bilgilerini içerebilir. [Ulusal Elektrik Üreticileri Birliği](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) tarafından geliştirilmiştir ve tıbbi görüntülerin dağıtılması ve görüntülenmesi için görüntüleme dosyası biçimini standartlaştırması amaçlanmıştır.
+.dcm uzantılı dosyalar, MR, CT taramaları ve ultrason görüntüleri gibi hastaların tıbbi bilgilerini depolayan dijital görüntüleri temsil eder. DCM dosyaları, [DICOM](/tr/image/dicom/) (Tıpta Dijital Görüntüleme ve İletişim) görüntü dosyası biçimini kullanır ve referans için hastanın bilgilerini içerebilir. [Ulusal Elektrik Üreticileri Birliği](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) tarafından geliştirilmiştir ve tıbbi görüntülerin dağıtılması ve görüntülenmesi için görüntüleme dosyası biçimini standartlaştırması amaçlanmıştır.
 
 ## DCM Dosya Biçimi
 
@@ -68,5 +68,5 @@ Ortam Formatı Katmanı, belirli bir DICOM Uygulama Profili için gerekirse aşa
 
 ## Referanslar ##
 * [DICOM Standardı](https://www.dicomstandard.org/current/)
-* [DICOM Dosya Biçimi](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [DICOM Dosya Biçimi](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

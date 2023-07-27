@@ -42,5 +42,5 @@ ASMX-bestanden zijn anders dan ASPX- en ASCX-bestanden.
 ## Referenties
 
 * [ASMX-service verbruiken](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/web-services/asmx)
-* [ASCX-gebruikersbediening](http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
+* [ASCX-gebruikersbediening](https://beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

@@ -74,6 +74,6 @@ Următorul fișier GPX arată organizarea datelor GPS într-un fișier GPX și p
 
 ## Referințe ##
 
-* [Format fișier GPX](http://www.topografix.com/gpx.asp)
+* [Format fișier GPX](https://www.topografix.com/gpx.asp)
 * [GPX - Prin Wikipedia](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
 

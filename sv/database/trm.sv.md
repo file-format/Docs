@@ -26,5 +26,5 @@ TRM-filer sparas i Oracles proprietära filformat och TRM-filformatsinformatione
 
 ## Referenser ##
 
-* [Vad är .trm-fil i oracle 11g?](https://community.oracle.com/tech/developers/discussion/945615/what-is-trm-file-in-oracle-11g)
+* [Vad är .trm-fil i oracle 11g?](https://forums.oracle.com/ords/apexds/post/what-is-trm-file-in-oracle-11g-0659)
 

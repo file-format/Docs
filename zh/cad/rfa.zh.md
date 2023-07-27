@@ -27,5 +27,5 @@ RFA 文件是可以加载到 Revit 项目（使用 Revit 创建的项目）中�
 
 ## 参考
 
-* [Revit 示例族文件](https://knowledge.autodesk.com/support/revit/getting-started/caas/CloudHelp/cloudhelp/2021/ENU/Revit-GetStarted/files/GUID-73E0E508-B9DA-4405-BAB4-C46D803BC1DE-htm.html)
+* [Revit 示例族文件](https://help.autodesk.com/view/RVT/2021/ENU/?guid=GUID-73E0E508-B9DA-4405-BAB4-C46D803BC1DE)
 

@@ -35,6 +35,6 @@ tar zxvf tgzCompressedFile.tgz
 คำสั่งดังกล่าวจะคลายไฟล์ TGZ ที่ถูกบีบอัดและแตกไฟล์ในไฟล์เก็บถาวร TAR ลงในดิสก์
 ## อ้างอิง ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
 

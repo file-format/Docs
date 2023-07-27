@@ -19,7 +19,7 @@
 
 ## Czym jest plik TGS?
 
-Plik z rozszerzeniem .tgs to plik animowanej naklejki, który został wprowadzony przez międzyplatformową usługę przesyłania wiadomości [Telegram](https://core.telegram.org/animated_stickers). Animowane naklejki są używane przez użytkowników aplikacji do przesyłania wiadomości do wysyłania bardziej ulepszonych i żywych treści w wiadomościach, w przeciwieństwie do statycznych grafik, które są nieruchomymi obrazami. Telegram początkowo używał formatu pliku [WEBP](/pl/image/webp/) dla naklejek ze zdjęciami. Format pliku TGS może przechowywać dane animacji w wyższych rozdzielczościach i mniejszym rozmiarze pliku w porównaniu ze statycznymi naklejkami WEBP. Pliki TGS można otwierać za pomocą aplikacji takich jak Telegram, 7-zip, Apple Archive Utility i Corel WinZip.
+Plik z rozszerzeniem .tgs to plik animowanej naklejki, który został wprowadzony przez międzyplatformową usługę przesyłania wiadomości [Telegram](https://core.telegram.org/stickers#animated-stickers). Animowane naklejki są używane przez użytkowników aplikacji do przesyłania wiadomości do wysyłania bardziej ulepszonych i żywych treści w wiadomościach, w przeciwieństwie do statycznych grafik, które są nieruchomymi obrazami. Telegram początkowo używał formatu pliku [WEBP](/pl/image/webp/) dla naklejek ze zdjęciami. Format pliku TGS może przechowywać dane animacji w wyższych rozdzielczościach i mniejszym rozmiarze pliku w porównaniu ze statycznymi naklejkami WEBP. Pliki TGS można otwierać za pomocą aplikacji takich jak Telegram, 7-zip, Apple Archive Utility i Corel WinZip.
 
 ## Format pliku TGS
 
@@ -45,6 +45,6 @@ $ head -c 200 animated-sticker
 ```
 ## Bibliografia ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
 

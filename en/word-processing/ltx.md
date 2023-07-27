@@ -85,4 +85,3 @@ The output of the command file above should look like this:
 ## References ##
 
 * [TEX - Wikipedia](https://en.wikipedia.org/wiki/TeX)
-* [Latex](http://mally.stanford.edu/~sr/computing/latex-example.html)

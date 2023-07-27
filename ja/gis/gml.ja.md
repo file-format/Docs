@@ -63,6 +63,6 @@ GML 1.0 および 2.0 は、Polygons、Points、および LineString オブジ�
 
 ## 参照 ##
 
-* [GML仕様](http://www.opengeospatial.org/standards/gml)
+* [GML仕様](https://www.ogc.org/standard/gml/)
 * [GML - ウィキペディアによる](https://en.wikipedia.org/wiki/Geography_Markup_Language)
 

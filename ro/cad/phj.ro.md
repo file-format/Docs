@@ -25,5 +25,5 @@ Un fișier cu extensia .phj este un fișier proiect creat cu software-ul PhCNC u
 
 ## Referințe
 
-* [PhCNC](http://www.accuratecnc.com/PhCNC.php)
+* [PhCNC](https://www.accuratecnc.com/PhCNC.php)
 

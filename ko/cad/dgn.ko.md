@@ -44,6 +44,5 @@ MicroStation V8 DGN 파일은 하나 이상의 모델로 구성됩니다. 모델
 ## 참고문헌
 
 * [DNG - 위키피디아 작성](https://en.wikipedia.org/wiki/DGN)
-* [OpenDNG](http://www.bentley.com/opendgn)
 * [MicroStation V8 DGN 파일 형식](https://web.archive.org/web/20120713013730/http://docs.bentley.com/ko/MicroStation/ustnhelp47.html)
 

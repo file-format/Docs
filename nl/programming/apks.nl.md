@@ -28,7 +28,7 @@ APKS-bestanden worden opgeslagen als gecomprimeerde bestanden met de bestandsind
 
 ## Hoe een APKS-bestand genereren?
 
-Wanneer de Android App Bundle (AAB) gereed is, kan het gedrag ervan in de Google Play Store worden getest voor implementatie op een apparaat. Voor dit doel kunnen APKS-bestanden worden gegenereerd uit AAB-bestanden en op testapparaten worden geïnstalleerd met behulp van Google's Android [bundletool](https://developer.android.com/studio/command-line/bundletool). Het biedt opdrachtregelhulpmiddelen om het APKS-archiefbestand van APK's te maken met behulp van de volgende opdracht.
+Wanneer de Android App Bundle (AAB) gereed is, kan het gedrag ervan in de Google Play Store worden getest voor implementatie op een apparaat. Voor dit doel kunnen APKS-bestanden worden gegenereerd uit AAB-bestanden en op testapparaten worden geïnstalleerd met behulp van Google's Android [bundletool](https://developer.android.com/tools/bundletool). Het biedt opdrachtregelhulpmiddelen om het APKS-archiefbestand van APK's te maken met behulp van de volgende opdracht.
 
 ```
 bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
@@ -46,5 +46,5 @@ bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
 
 ## Referenties
 
-* [bundeltool - opdrachtregel](https://developer.android.com/studio/command-line/bundletool)
+* [bundeltool - opdrachtregel](https://developer.android.com/tools/bundletool)
 

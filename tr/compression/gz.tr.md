@@ -96,5 +96,5 @@ Dosya altbilgisi 8 bayt boyutundadır ve aşağıdaki bilgileri içerir.
 ## Referanslar ##
 
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952: GZIP dosya biçimi belirtimi](http://tools.ietf.org/html/rfc1952), IETF tarafından.
+* [RFC1952: GZIP dosya biçimi belirtimi](https://datatracker.ietf.org/doc/html/rfc1952), IETF tarafından.
 

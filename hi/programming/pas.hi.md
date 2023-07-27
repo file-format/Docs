@@ -66,5 +66,5 @@ unit Unit1;
 ## संदर्भ
 
 * [डेल्फी प्रोजेक्ट और यूनिट सोर्स फाइलों को समझना](https://www.thoughtco.com/understanding-delphi-project-files-dpr-1057652)
-* [अपना पहला डेल्फी प्रोग्राम लिखना](http://www.delphibasics.co.uk/Article.asp?Name=FirstPgm)
+* [अपना पहला डेल्फी प्रोग्राम लिखना](http://www.delphibasics.co.uk/Article.php?Name=FirstPgm)
 

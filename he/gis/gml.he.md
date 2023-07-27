@@ -63,6 +63,6 @@ GML 1.0 ו-2.0 מקודדים אובייקטים של מצולעים, נקודו
 
 ## הפניות ##
 
-* [מפרטי GML](http://www.opengeospatial.org/standards/gml)
+* [מפרטי GML](https://www.ogc.org/standard/gml/)
 * [GML - מאת ויקיפדיה](https://en.wikipedia.org/wiki/Geography_Markup_Language)
 

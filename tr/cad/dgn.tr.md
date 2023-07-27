@@ -44,6 +44,5 @@ Bir MicroStation V8 DGN dosyası, bir veya daha fazla modelden oluşur. Model, �
 ## Referanslar
 
 * [DNG - Wikipedia Tarafından](https://en.wikipedia.org/wiki/DGN)
-* [OpenDNG](http://www.bentley.com/opendgn)
 * [MicroStation V8 DGN Dosya Biçimi](https://web.archive.org/web/20120713013730/http://docs.bentley.com/ko/MicroStation/ustnhelp47.html)
 

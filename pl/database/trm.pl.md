@@ -26,5 +26,5 @@ Pliki TRM są zapisywane w zastrzeżonym formacie plików Oracle, a szczegóły 
 
 ## Bibliografia ##
 
-* [Co to jest plik .trm w oracle 11g?](https://community.oracle.com/tech/developers/discussion/945615/what-is-trm-file-in-oracle-11g)
+* [Co to jest plik .trm w oracle 11g?](https://forums.oracle.com/ords/apexds/post/what-is-trm-file-in-oracle-11g-0659)
 

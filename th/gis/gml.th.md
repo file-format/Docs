@@ -63,6 +63,6 @@ GML 1.0 และ 2.0 เข้ารหัสวัตถุ Polygon, Points �
 
 ## อ้างอิง ##
 
-* [ข้อกำหนด GML](http://www.opengeospatial.org/standards/gml)
+* [ข้อกำหนด GML](https://www.ogc.org/standard/gml/)
 * [GML - โดย Wikipedia](https://en.wikipedia.org/wiki/Geography_Markup_Language)
 

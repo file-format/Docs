@@ -42,7 +42,7 @@
 
 ## ملفات مطابقة ##
 
-يجب أن تحتوي الملفات المتوافقة مع معيار PDF / UA على ميزات صالحة وفقًا لمواصفات [PDF 1.7](http://www.adobe.com/go/pdfreference). ومع ذلك ، يجب استبعاد الميزات المحظورة بواسطة PDF / UA على وجه التحديد.
+يجب أن تحتوي الملفات المتوافقة مع معيار PDF / UA على ميزات صالحة وفقًا لمواصفات [PDF 1.7](https://opensource.adobe.com/dc-acrobat-sdk-docs/standards/pdfstandards/pdf/PDF32000_2008.pdf). ومع ذلك ، يجب استبعاد الميزات المحظورة بواسطة PDF / UA على وجه التحديد.
 
 ## توافق القراء ##
 
@@ -59,5 +59,5 @@
 ## مراجع ##
 
 * [PDF / UA - بواسطة Wikipedia](https://en.wikipedia.org/wiki/PDF/UA)
-* [PDF / UA in a Nutshell](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [PDF / UA in a Nutshell](https://pdfa.org/pdfua-in-a-nutshell/)
 

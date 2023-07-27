@@ -100,5 +100,5 @@ DWF के लिए फ़ाइल समाप्ति ट्रेलर �
 
 * [डीडब्ल्यूएफ - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Design_Web_Format)
 * [व्हिप डेटा प्रारूप](http://paulbourke.net/dataformats/whip/)
-* [http://blogs.msdn.com/opc/archive/2009/05/18/adventures-in-packaging-episode-1.aspx](http://blogs.msdn.com/opc/archive/2009 /05/18/adventures-in-packaging-episode-1.aspx)
+* [https://learn.microsoft.com/en-us/archive/blogs/opc/adventures-in-packaging-episode-1](https://learn.microsoft.com/en-us/archive/blogs/opc/adventures-in-packaging-episode-1)
 

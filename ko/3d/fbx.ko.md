@@ -80,7 +80,7 @@ Definitions: {
 
 ## FBX 파일의 바이너리 파일 구조
 
-앞서 언급했듯이 FBX 파일 형식 사양은 FBX에 대해 공개적으로 제공되지 않습니다. 블렌더 파운데이션은 회사에서 제공하는 SDK를 사용하지 않고 FBX 파일 형식을 구현하기 때문에 바이너리 파일 형식에 대한 일부 세부 정보는 [사용 가능](https://code.blender.org/2013/08/fbx-binary-file-format -specification/) 구현의 일부로.
+앞서 언급했듯이 FBX 파일 형식 사양은 FBX에 대해 공개적으로 제공되지 않습니다. 블렌더 파운데이션은 회사에서 제공하는 SDK를 사용하지 않고 FBX 파일 형식을 구현하기 때문에 바이너리 파일 형식에 대한 일부 세부 정보는 [사용 가능](https://code.blender.org/2013/08/fbx-binary-file-format-specification/) 구현의 일부로.
 
 이진 파일 구조는 다음 순서를 따릅니다.
 
@@ -206,7 +206,7 @@ R: raw binary data
 
 ## 참조 ##
 
-* [FBX - Autodesk SDK](http://help.autodesk.com/view/FBX/2017/ENU/?guid#__files_GUID_105ED19A_9A5A_425E_BFD7_C1BBADA67AAB_htm)
+* [FBX - Autodesk SDK](https://help.autodesk.com/view/FBX/2017/ENU/)
 * [FBX 바이너리 파일 형식 사양](https://code.blender.org/2013/08/fbx-binary-file-format-specification/)
 * [FBX - 위키피디아](https://en.wikipedia.org/wiki/FBX#File_format)
 

@@ -39,7 +39,7 @@ Soubor .hs může obsahovat následující informace.
 
 ## Formát souborů Java HS
 
-Soubory Java HS jsou ve formátu XML a jsou založeny na doporučení navrženém konsorciem World Wide Web Consortium (W3C) Extended Markiup Language [PR-xml-971208](http://www.w3.org/TR/PR-xml- 971208). To znamená, že soubor Java HS je ve formátu souboru XML čitelném pro člověka, který lze otevřít v jakékoli aplikaci pro čtení XML.
+Soubory Java HS jsou ve formátu XML a jsou založeny na doporučení navrženém konsorciem World Wide Web Consortium (W3C) Extended Markiup Language [PR-xml-971208](https://www.w3.org/TR/PR-xml-971208). To znamená, že soubor Java HS je ve formátu souboru XML čitelném pro člověka, který lze otevřít v jakékoli aplikaci pro čtení XML.
 
 ### Příklad formátu souboru Java HS
 
@@ -159,7 +159,7 @@ Jako každý programovací jazyk jsou soubory HS psány ve formátu prostého te
 
 ### Příklad formátu souboru HS
 
-Kód lze zapsat do souboru .hs a zkompilovat pomocí kompilátoru Haskell, jako je [GHC](http://haskell.org/ghc). Následující řádek kódu je uložen jako „HelloWorld.hs“, jak je znázorněno v následující ukázce.
+Kód lze zapsat do souboru .hs a zkompilovat pomocí kompilátoru Haskell, jako je [GHC](https://haskell.org/ghc). Následující řádek kódu je uložen jako „HelloWorld.hs“, jak je znázorněno v následující ukázce.
 
 ```
 main = putStrLn "Hello, World!"

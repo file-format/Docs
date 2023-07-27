@@ -23,7 +23,7 @@ En fil med filtillägget .lrx är en associerad fil för Sony Broadband eBook (B
 
 ## LRX filformat
 
-LRX-filer är i binärt filformat och allt innehåll i filen är krypterat till skillnad från [LRS](/sv/ebook/lrs), som är ett icke-krypterat format. Ett annat associerat BBeB-filformat är LRS som är XML-baserat och är läsbart för människor i vilken textredigerare som helst. Rubriken på LRX-filer innehåller information som:
+LRX-filer är i binärt filformat och allt innehåll i filen är krypterat till skillnad från [LRS](/sv/ebook/lrs/), som är ett icke-krypterat format. Ett annat associerat BBeB-filformat är LRS som är XML-baserat och är läsbart för människor i vilken textredigerare som helst. Rubriken på LRX-filer innehåller information som:
 
 * Version
 * Identifiering av rotobjekt

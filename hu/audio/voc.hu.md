@@ -19,7 +19,7 @@
 
 ## Mi az a VOC fájl? ##
 
-A VOC audio fájlokat egy RCA digitális hangrögzítő nevű hangrögzítő hozza létre. Az interjúk és előadások rögzítése ezen a készüléken keresztül történik. Ezek a fájlok hordozhatóak és megoszthatók az USB-porton keresztül. A VOC fájlok kompatibilisek a Windows operációs rendszerekkel. Ezek a VOC fájlok más népszerűbb fájlformátumokká konvertálhatók, például [MP3](/hu/audio/mp3).
+A VOC audio fájlokat egy RCA digitális hangrögzítő nevű hangrögzítő hozza létre. Az interjúk és előadások rögzítése ezen a készüléken keresztül történik. Ezek a fájlok hordozhatóak és megoszthatók az USB-porton keresztül. A VOC fájlok kompatibilisek a Windows operációs rendszerekkel. Ezek a VOC fájlok más népszerűbb fájlformátumokká konvertálhatók, például [MP3](/hu/audio/mp3/).
  
 
 Az ezekben a fájlokban található adatok nyers formában vagy konténer formátumban lehetnek. Ezeket a fájlokat a lemezes operációs rendszerű játékokban használták. A Sound Blaster kártyákat hanghoz használták, és ezeket a fájlokat használták erre.

@@ -23,7 +23,7 @@
 
 ## פורמט קובץ KGB
 
-אין פרטי יישום טכניים זמינים לגבי פורמט הקובץ KGB. הוא מציע הצפנה AES-256 כדי להגן על הקבצים המאוחסנים בארכיון. הארכיון של KGB פותח ב-Visual [C++](/he/programming/cpp) על ידי Tomasz Pawlak באפריל 2006, והוא האמין שהוא דוחס קובץ [1 GB עד 10 MB](https://web.archive.org/ web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/).
+אין פרטי יישום טכניים זמינים לגבי פורמט הקובץ KGB. הוא מציע הצפנה AES-256 כדי להגן על הקבצים המאוחסנים בארכיון. הארכיון של KGB פותח ב-Visual [C++](/he/programming/cpp/) על ידי Tomasz Pawlak באפריל 2006, והוא האמין שהוא דוחס קובץ [1 GB עד 10 MB](https://web.archive.org/ web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/).
 
 ## הפניות
 

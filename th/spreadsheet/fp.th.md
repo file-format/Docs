@@ -19,7 +19,7 @@
 
 ## ไฟล์ FP คืออะไร??
 
-ไฟล์ที่มีนามสกุล .fp คือไฟล์สเปรดชีตที่สร้างด้วยซอฟต์แวร์ [FileMaker Pro](https://www.claris.com/filemaker/pro/) โดย Claris โดยจะเก็บข้อมูลเป็นแถวและคอลัมน์คล้ายกับ Microsoft Excel FileMaker Pro ให้คุณลากและวางไฟล์ประเภทต่างๆ เช่น CSV และ XML เพื่อนำเข้าข้อมูล
+ไฟล์ที่มีนามสกุล .fp คือไฟล์สเปรดชีตที่สร้างด้วยซอฟต์แวร์ [FileMaker Pro](https://www.claris.com/filemaker/) โดย Claris โดยจะเก็บข้อมูลเป็นแถวและคอลัมน์คล้ายกับ Microsoft Excel FileMaker Pro ให้คุณลากและวางไฟล์ประเภทต่างๆ เช่น CSV และ XML เพื่อนำเข้าข้อมูล
 
 ## รูปแบบไฟล์ FP
 
@@ -27,6 +27,6 @@
 
 ## อ้างอิง
 
-* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [FileMaker Pro](https://www.claris.com/filemaker/)
 * [fmapi](https://github.com/stevenwhitespacesystems/fm-xml2json)
 

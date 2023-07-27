@@ -19,7 +19,7 @@
 
 ## Czym jest plik VOC? ##
 
-Pliki audio VOC są tworzone przez rejestrator głosu o nazwie cyfrowy dyktafon RCA. Wywiady i wykłady są nagrywane za pomocą tego urządzenia. Pliki te są przenośne i można je udostępniać przez port USB. Pliki VOC są kompatybilne z systemami operacyjnymi Windows. Te pliki VOC można konwertować na inne formaty plików, które są bardziej popularne, takie jak [MP3](/pl/audio/mp3).
+Pliki audio VOC są tworzone przez rejestrator głosu o nazwie cyfrowy dyktafon RCA. Wywiady i wykłady są nagrywane za pomocą tego urządzenia. Pliki te są przenośne i można je udostępniać przez port USB. Pliki VOC są kompatybilne z systemami operacyjnymi Windows. Te pliki VOC można konwertować na inne formaty plików, które są bardziej popularne, takie jak [MP3](/pl/audio/mp3/).
  
 
 Dane zawarte w tych plikach mogą być w postaci surowej lub w formacie kontenera. Pliki te były używane w grach na dyskowy system operacyjny. Karty Sound Blaster były używane do dźwięku i te pliki były do tego używane.

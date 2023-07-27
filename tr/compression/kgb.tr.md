@@ -23,7 +23,7 @@
 
 ## KGB Dosya Biçimi
 
-KGB dosya formatı hakkında teknik uygulama detayları mevcut değildir. Arşivlenen dosyaları korumak için AES-256 şifreleme sunar. KGB arşivleyici, Nisan 2006'da Tomasz Pawlak tarafından Visual [C++](/tr/programming/cpp) ile geliştirildi ve [1 GB'lık bir dosyayı 10 MB'a kadar](https://web.archive.org/) sıkıştırdığına inanılıyordu. web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/) dosyası.
+KGB dosya formatı hakkında teknik uygulama detayları mevcut değildir. Arşivlenen dosyaları korumak için AES-256 şifreleme sunar. KGB arşivleyici, Nisan 2006'da Tomasz Pawlak tarafından Visual [C++](/tr/programming/cpp/) ile geliştirildi ve [1 GB'lık bir dosyayı 10 MB'a kadar](https://web.archive.org/) sıkıştırdığına inanılıyordu. web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/) dosyası.
 
 ## Referanslar
 

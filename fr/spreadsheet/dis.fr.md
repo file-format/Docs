@@ -23,7 +23,7 @@ Un fichier DIS est un fichier de classeur créé avec le logiciel [Oracle Discov
 
 ## Comment télécharger les classeurs Discoverer au format DIS ?
 
-Les classeurs Oracle Discoverer sont stockés dans la base de données au format binaire et ne peuvent pas être téléchargés en tant que [fichiers DIS](https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-discoverer -classeurs-sur-mon-ordinateur) directement. Cependant, les données peuvent être exportées en tant que fichiers EEX, les ouvrir dans Discoverer Desktop et utiliser l'option Enregistrer sous pour enregistrer les fichiers EEX en tant que fichiers DIS.
+Les classeurs Oracle Discoverer sont stockés dans la base de données au format binaire et ne peuvent pas être téléchargés en tant que [fichiers DIS](https://forums.oracle.com/ords/apexds/post/can-i-download-all-discoverer-workbooks-to-my-computer-4127) directement. Cependant, les données peuvent être exportées en tant que fichiers EEX, les ouvrir dans Discoverer Desktop et utiliser l'option Enregistrer sous pour enregistrer les fichiers EEX en tant que fichiers DIS.
 
 ## Format de fichier DIS - Plus d'informations
 

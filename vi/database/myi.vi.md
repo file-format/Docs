@@ -51,5 +51,5 @@ Tệp myisamdef.h chứa thông tin sau được biểu thị bằng hằng số
 
 ## Người giới thiệu ##
 
-- [Tệp .MYI](https://dev.mysql.com/doc/internals/en/the-myi-file.html)
+- [Tệp .MYI](https://dev.mysql.com/doc/dev/mysql-server/latest/)
 

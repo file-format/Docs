@@ -19,7 +19,7 @@
 
 ## AWS dosyası nedir?
 
-Bir AWS dosyası, Ability Office paketiyle birlikte gelen Ability Elektronik Tablo yazılımıyla oluşturulan bir elektronik tablo dosyasıdır. Verileri Microsoft Excel'e benzer satırlarda ve sütunlarda depolar. AWS dosya verileri [XLS](/tr/spreadsheet/xls/) ve [XLSX](/tr/spreadsheet/xlsx)'e kaydedilebilir. Bu, Yetenek Elektronik Tablo dosyasını Microsoft Excel ile uyumlu hale getirir. Elektronik tablolardaki veriler [PDF](/tr/pdf/) ve [XPS](/tr/page-description-language/xps/) dosya formatlarında dışa aktarılabilir.
+Bir AWS dosyası, Ability Office paketiyle birlikte gelen Ability Elektronik Tablo yazılımıyla oluşturulan bir elektronik tablo dosyasıdır. Verileri Microsoft Excel'e benzer satırlarda ve sütunlarda depolar. AWS dosya verileri [XLS](/tr/spreadsheet/xls/) ve [XLSX](/tr/spreadsheet/xlsx/)'e kaydedilebilir. Bu, Yetenek Elektronik Tablo dosyasını Microsoft Excel ile uyumlu hale getirir. Elektronik tablolardaki veriler [PDF](/tr/pdf/) ve [XPS](/tr/page-description-language/xps/) dosya formatlarında dışa aktarılabilir.
 
 ## AWS Dosya Biçimi - Daha Fazla Bilgi
 

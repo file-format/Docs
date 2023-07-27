@@ -23,7 +23,7 @@ Un archivo DIS es un archivo de libro de trabajo creado con el software [Oracle 
 
 ## ¿Cómo descargar los libros de trabajo de Discoverer en formato DIS?
 
-Los libros de trabajo de Oracle Discoverer se almacenan en la base de datos en formato binario y no se pueden descargar como [archivos DIS](https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-discoverer -workbooks-to-my-computer) directamente. Sin embargo, los datos se pueden exportar como archivos EEX, abrirlos en Discoverer Desktop y usar la opción Guardar como para guardar los archivos EEX como archivos DIS.
+Los libros de trabajo de Oracle Discoverer se almacenan en la base de datos en formato binario y no se pueden descargar como [archivos DIS](https://forums.oracle.com/ords/apexds/post/can-i-download-all-discoverer-workbooks-to-my-computer-4127) directamente. Sin embargo, los datos se pueden exportar como archivos EEX, abrirlos en Discoverer Desktop y usar la opción Guardar como para guardar los archivos EEX como archivos DIS.
 
 ## Formato de archivo DIS - Más información
 

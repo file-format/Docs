@@ -19,7 +19,7 @@
 
 ## CEBX dosyası nedir?
 
-.cebx (Çince e-kitap) uzantılı dosyalar, aslında [CEB](/tr/ebook/ceb) dosya biçiminin yerini alan **Apabi e-Kitap dosyaları** olarak bilinir. Bir CEBX dosyası, Çince formatlı metin ve diğer düzen bilgilerini içerir, bu nedenle bu dosya formatı kullanımdan kaldırılmıştır. CEBX dosya formatı, Founder Electronics'in Apabi yayıncıları tarafından geliştirilmiştir. Bu formattaki dosyalar, bir Çince e-Kitap koleksiyonu içeren APABI D-Lib kitaplığından edinilebilir. Bu ikili kodlanmış dosyalar, Apabi yazılımı kullanılarak görüntülenebilir. **Microsoft Windows için **Apabi Reader 4.5.2 for Multi-Language**, **Apabi Reader for Android 1.8.1** ve **Apabi Reader for iOS 2.4.0** CEBX dosya formatlarını destekler.
+.cebx (Çince e-kitap) uzantılı dosyalar, aslında [CEB](/tr/ebook/ceb/) dosya biçiminin yerini alan **Apabi e-Kitap dosyaları** olarak bilinir. Bir CEBX dosyası, Çince formatlı metin ve diğer düzen bilgilerini içerir, bu nedenle bu dosya formatı kullanımdan kaldırılmıştır. CEBX dosya formatı, Founder Electronics'in Apabi yayıncıları tarafından geliştirilmiştir. Bu formattaki dosyalar, bir Çince e-Kitap koleksiyonu içeren APABI D-Lib kitaplığından edinilebilir. Bu ikili kodlanmış dosyalar, Apabi yazılımı kullanılarak görüntülenebilir. **Microsoft Windows için **Apabi Reader 4.5.2 for Multi-Language**, **Apabi Reader for Android 1.8.1** ve **Apabi Reader for iOS 2.4.0** CEBX dosya formatlarını destekler.
 
 ## Referanslar
 

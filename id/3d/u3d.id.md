@@ -19,15 +19,15 @@
 
 ## Apa itu file U3D?
 
-**U3D** (Universal 3D) adalah format file terkompresi dan struktur data untuk grafik komputer 3D. Ini berisi informasi model 3D seperti jerat segitiga, pencahayaan, bayangan, data gerak, garis dan titik dengan warna dan struktur. Format ini diterima sebagai standar [ECMA-363](http://www.ecma-international.org/publications/standards/Ecma-363.htm) pada Agustus 2005. Dokumen 3D [PDF](/id/pdf/) mendukung U3D penyematan objek dan dapat dilihat di Adobe Reader (versi 7 dan seterusnya).
+**U3D** (Universal 3D) adalah format file terkompresi dan struktur data untuk grafik komputer 3D. Ini berisi informasi model 3D seperti jerat segitiga, pencahayaan, bayangan, data gerak, garis dan titik dengan warna dan struktur. Format ini diterima sebagai standar [ECMA-363](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) pada Agustus 2005. Dokumen 3D [PDF](/id/pdf/) mendukung U3D penyematan objek dan dapat dilihat di Adobe Reader (versi 7 dan seterusnya).
 
 Format U3D dikembangkan dengan tujuan untuk menetapkan standar universal untuk penyimpanan dan pertukaran data tiga dimensi. Namun, format tersebut menemukan kegunaan utamanya dalam pengkodean untuk PDF 3D daripada digunakan sebagai format pertukaran. Acrobat 3D mengonversi jenis file 3D yang didukung menjadi U3D atau PRC setelah konversi ke PDF.
 
 ## Berformat U3D
 
-File U3D dalam format file biner yang menjalani empat edisi seperti yang dijelaskan oleh dokumen referensi [ECMA-363](http://www.ecma-international.org/publications/standards/Ecma-363.htm), yang menghasilkan pembaruan spesifikasi dengan setiap edisi. Standar file PDF ISO-32000 menerima U3D sebagai jenis anotasi dan multimedia yang diizinkan.
+File U3D dalam format file biner yang menjalani empat edisi seperti yang dijelaskan oleh dokumen referensi [ECMA-363](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/), yang menghasilkan pembaruan spesifikasi dengan setiap edisi. Standar file PDF ISO-32000 menerima U3D sebagai jenis anotasi dan multimedia yang diizinkan.
 
-Edisi pertama U3D difokuskan pada representasi kunci dari properti grafik 3D seperti geometri, warna, tekstur, pencahayaan, tulang, dan animasi berbasis transformasi. Edisi kedua dan ketiga mengoreksi beberapa kesalahan pada edisi pertama, dengan versi ketiga menjadi jenis perangkat lunak industri yang paling umum digunakan. Edisi keempat memberikan definisi untuk primitif tingkat tinggi (permukaan melengkung). [Spesifikasi U3D](http://www.ecma-international.org/publications/standards/Ecma-363.htm) tersedia online untuk referensi pengguna di situs web ECMA.
+Edisi pertama U3D difokuskan pada representasi kunci dari properti grafik 3D seperti geometri, warna, tekstur, pencahayaan, tulang, dan animasi berbasis transformasi. Edisi kedua dan ketiga mengoreksi beberapa kesalahan pada edisi pertama, dengan versi ketiga menjadi jenis perangkat lunak industri yang paling umum digunakan. Edisi keempat memberikan definisi untuk primitif tingkat tinggi (permukaan melengkung). [Spesifikasi U3D](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) tersedia online untuk referensi pengguna di situs web ECMA.
 
 ### Tipe Data dalam file U3D
 

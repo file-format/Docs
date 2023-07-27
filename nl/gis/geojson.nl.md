@@ -33,7 +33,7 @@ Coördinaat is het basiselement van alle geografische gegevens. Dit is een enkel
 
 ### Positie ###
 
-Een geordende reeks coördinaten vertegenwoordigt de [positie](http://geojson.org/geojson-spec.html#positions). Dit is de kleinste eenheid die een punt op aarde kan aangeven.
+Een geordende reeks coördinaten vertegenwoordigt de [positie](https://geojson.org/geojson-spec.html#positions). Dit is de kleinste eenheid die een punt op aarde kan aangeven.
 
 `[Lengtegraad, breedtegraad, hoogte]`
 

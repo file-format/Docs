@@ -74,6 +74,6 @@
 
 ## Посилання ##
 
-* [Формат файлу GPX](http://www.topografix.com/gpx.asp)
+* [Формат файлу GPX](https://www.topografix.com/gpx.asp)
 * [GPX – Вікіпедія](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
 

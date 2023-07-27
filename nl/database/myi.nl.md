@@ -51,5 +51,5 @@ Het bestand myisamdef.h bevat de volgende informatie uitgedrukt in constanten. H
 
 ## Referenties ##
 
-- [Het .MYI-bestand](https://dev.mysql.com/doc/internals/en/the-myi-file.html)
+- [Het .MYI-bestand](https://dev.mysql.com/doc/dev/mysql-server/latest/)
 

@@ -18,7 +18,7 @@
 
 ## Co je soubor OBML15?
 
-Soubor OBML15 je webová stránka uložená do mobilních zařízení pomocí mobilního webového prohlížeče Opera Mini. Je založen na jazyce Opera Binary Markup Language (OBML), který byl počáteční verzí tohoto typu formátu souborů. OBML15 nahradil [OBML](/cs/web/obml) s vydáním Opery Mini verze 5, zatímco sám byl později nahrazen OBML16. Každá verze Opery Mini je kompatibilní pouze s jedním formátem OBML, tj. upgrady Opery Mini nebudou schopny číst předchozí verze uložených stránek. Soubory OBML15 lze převést do [PDF](/cs/pdf/) a [HTML](/cs/web/html/) online.
+Soubor OBML15 je webová stránka uložená do mobilních zařízení pomocí mobilního webového prohlížeče Opera Mini. Je založen na jazyce Opera Binary Markup Language (OBML), který byl počáteční verzí tohoto typu formátu souborů. OBML15 nahradil [OBML](/cs/web/obml/) s vydáním Opery Mini verze 5, zatímco sám byl později nahrazen OBML16. Každá verze Opery Mini je kompatibilní pouze s jedním formátem OBML, tj. upgrady Opery Mini nebudou schopny číst předchozí verze uložených stránek. Soubory OBML15 lze převést do [PDF](/cs/pdf/) a [HTML](/cs/web/html/) online.
 
 ## Formát souboru OBML15
 

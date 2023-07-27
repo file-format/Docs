@@ -19,7 +19,7 @@
 
 ## Co je soubor AI?
 
-Soubor s příponou .ai je soubor uměleckého díla Adobe Illustrator, který obsahuje vektorovou grafiku na jedné stránce. používá body k vytvoření cest pro zobrazení obrazových dat, čímž je chráněno před ztrátou kvality obrazu, pokud je zvětšen. Formát souboru AI je základem formátu souboru PGF, který je podobný souborům AI. Formát AI nachází své hlavní použití pro loga a tištěná média a jeho počáteční verze byly považovány za podobné jako u souborů [EPS](/cs/image/eps/). Soubory AI lze otevřít pomocí nástrojů Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro a CorelDraw Graphics.
+Soubor s příponou .ai je soubor uměleckého díla Adobe Illustrator, který obsahuje vektorovou grafiku na jedné stránce. používá body k vytvoření cest pro zobrazení obrazových dat, čímž je chráněno před ztrátou kvality obrazu, pokud je zvětšen. Formát souboru AI je základem formátu souboru PGF, který je podobný souborům AI. Formát AI nachází své hlavní použití pro loga a tištěná média a jeho počáteční verze byly považovány za podobné jako u souborů [EPS](/cs/page-description-language/eps/). Soubory AI lze otevřít pomocí nástrojů Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro a CorelDraw Graphics.
 
 ## Formát souboru AI
 

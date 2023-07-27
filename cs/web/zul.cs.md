@@ -34,9 +34,9 @@ V následujícím příkladu kódu ZUML první řádek určuje název stránky, 
 <window title="Super Hello" border="normal">
     <button label="hi" onClick='alert("hi")'/>
 ```
-Schéma ZUL lze stáhnout z http://www.zkoss.org/2005/zul/zul.xsd.
+Schéma ZUL lze stáhnout z https://www.zkoss.org/2005/zul/zul.xsd.
 ## Reference
 
 * [ZUL – od ZK](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
-* [Schéma ZUL](http://www.zkoss.org/2005/zul/zul.xsd)
+* [Schéma ZUL](https://www.zkoss.org/2005/zul/zul.xsd)
 

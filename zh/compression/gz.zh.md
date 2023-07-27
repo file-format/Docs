@@ -96,5 +96,5 @@ GZ 文件头由 10 个字节组成，如下所示：
 ## 参考 ＃＃
 
 * [gzip - 维基百科](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952：GZIP 文件格式规范](http://tools.ietf.org/html/rfc1952)，由 IETF 提供。
+* [RFC1952：GZIP 文件格式规范](https://datatracker.ietf.org/doc/html/rfc1952)，由 IETF 提供。
 

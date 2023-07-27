@@ -33,7 +33,7 @@ Coordonatele este elementul de bază al oricărei date geografice. Aceasta este 
 
 ### Poziție ###
 
-O matrice ordonată de coordonate reprezintă [poziția](http://geojson.org/geojson-spec.html#positions). Aceasta este cea mai mică unitate care poate indica un punct de pe pământ.
+O matrice ordonată de coordonate reprezintă [poziția](https://geojson.org/geojson-spec.html#positions). Aceasta este cea mai mică unitate care poate indica un punct de pe pământ.
 
 `[Longitudine, latitudine, altitudine]`
 

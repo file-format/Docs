@@ -31,7 +31,7 @@ Comumente usados em aplicativos de fala, os arquivos VOX contêm avisos de voz p
 
 Os arquivos VOX estão associados aos Media Boards chamados DMV e JCT da Dialogic. Estes pertencem ao VoxWare e muitos outros softwares. Costumava ser considerado um formato obsoleto.
 
-Como um formato desatualizado, não foi usado depois disso. Semelhante a outros formatos ADPCM, foi compactado em 4 bits. Os recursos desses arquivos estão próximos o suficiente das especificações do arquivo [WAV](/pt/audio/wav).
+Como um formato desatualizado, não foi usado depois disso. Semelhante a outros formatos ADPCM, foi compactado em 4 bits. Os recursos desses arquivos estão próximos o suficiente das especificações do arquivo [WAV](/pt/audio/wav/).
 
 
 ## Especificações de formato ##

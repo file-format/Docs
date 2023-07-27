@@ -30,10 +30,10 @@
 * Συμπιεσμένα δεδομένα
 * Υποσέλιδο αρχείου
 
-Η μορφή αρχείου GZIP [προδιαγραφές έκδοση 4.3](http://tools.ietf.org/html/rfc1952) που δημοσιεύτηκε από το Internet Engineering Task Force (IETF) περιέχει λεπτομερείς πληροφορίες σχετικά με τη μορφή αρχείου.
+Η μορφή αρχείου GZIP [προδιαγραφές έκδοση 4.3](https://datatracker.ietf.org/doc/html/rfc1952) που δημοσιεύτηκε από το Internet Engineering Task Force (IETF) περιέχει λεπτομερείς πληροφορίες σχετικά με τη μορφή αρχείου.
 
 ## βιβλιογραφικές αναφορές
 
-* [RFC1952: Προδιαγραφή μορφής αρχείου GZIP](http://tools.ietf.org/html/rfc1952), από [IETF](https://www.ietf.org)
+* [RFC1952: Προδιαγραφή μορφής αρχείου GZIP](https://datatracker.ietf.org/doc/html/rfc1952), από [IETF](https://www.ietf.org)
 * [Windows MetaFile - Wikipedia](https://en.wikipedia.org/wiki/Windows_Metafile)
 

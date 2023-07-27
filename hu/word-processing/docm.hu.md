@@ -29,7 +29,7 @@ A DOCM fájlformátum az Office OpenXML szabványon alapul. 2000 elején a Micro
 
 A DOCM fájlformátum ugyanazt a DOCX-struktúrát követi, amely az Office OpenXML fájlformátumon alapul. A DOCM fájlformátum tartalma megtekinthető, ha átnevezi ZIP-re, és megnyitja az archívumot bármely támogató segédprogrammal. Az [MS-DOCX](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx) specifikációk meghatározzák a DOCX fájlformátum Office OpenXML fájlformátumának részleteit a fejlesztők számára. és a DOTM-re is alkalmazhatók. A makrók egy vbaProject.bin nevű bináris fájlban találhatók, két támogató fájllal: vbaProject.bin.rels és vbaData.xml.
 
-![](http://social.technet.microsoft.com/Forums/getfile/331363)
+![](https://social.technet.microsoft.com/Forums/getfile/331363)
 
 ## Hivatkozások
 

@@ -19,7 +19,7 @@
 
 ## Apa itu file FP?
 
-File dengan ekstensi .fp adalah file spreadsheet yang dibuat dengan software [FileMaker Pro](https://www.claris.com/filemaker/pro/) oleh Claris. Ini menyimpan data dalam baris dan kolom yang mirip dengan Microsoft Excel. FileMaker Pro memungkinkan Anda menarik dan melepaskan sejumlah jenis file seperti CSV dan XML untuk mengimpor datanya.
+File dengan ekstensi .fp adalah file spreadsheet yang dibuat dengan software [FileMaker Pro](https://www.claris.com/filemaker/) oleh Claris. Ini menyimpan data dalam baris dan kolom yang mirip dengan Microsoft Excel. FileMaker Pro memungkinkan Anda menarik dan melepaskan sejumlah jenis file seperti CSV dan XML untuk mengimpor datanya.
 
 ## Format File FP
 
@@ -27,6 +27,6 @@ File FP disimpan dalam format file hak milik dan detail format filenya tidak ter
 
 ## Referensi
 
-* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [FileMaker Pro](https://www.claris.com/filemaker/)
 * [fmapi](https://github.com/stevenwhitespacesystems/fm-xml2json)
 

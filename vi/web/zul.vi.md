@@ -34,9 +34,9 @@ Trong ví dụ sau về mã ZUML, dòng đầu tiên chỉ định tiêu đề t
 <window title="Super Hello" border="normal">
     <button label="hi" onClick='alert("hi")'/>
 ```
-Có thể tải xuống lược đồ ZUL từ http://www.zkoss.org/2005/zul/zul.xsd.
+Có thể tải xuống lược đồ ZUL từ https://www.zkoss.org/2005/zul/zul.xsd.
 ## Người giới thiệu
 
 * [ZUL - Bởi ZK](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
-* [Lược đồ ZUL](http://www.zkoss.org/2005/zul/zul.xsd)
+* [Lược đồ ZUL](https://www.zkoss.org/2005/zul/zul.xsd)
 

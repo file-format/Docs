@@ -23,7 +23,7 @@
 
 ## จะดาวน์โหลดสมุดงาน Discoverer ในรูปแบบ DIS ได้อย่างไร
 
-สมุดงาน Oracle Discoverer จัดเก็บอยู่ในฐานข้อมูลในรูปแบบไบนารี และไม่สามารถดาวน์โหลดเป็น [ไฟล์ DIS](https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-discoverer -workbooks-to-my-computer) โดยตรง อย่างไรก็ตาม สามารถส่งออกข้อมูลเป็นไฟล์ EEX เปิดใน Discoverer Desktop และใช้ตัวเลือกบันทึกเป็นเพื่อบันทึกไฟล์ EEX เป็นไฟล์ DIS
+สมุดงาน Oracle Discoverer จัดเก็บอยู่ในฐานข้อมูลในรูปแบบไบนารี และไม่สามารถดาวน์โหลดเป็น [ไฟล์ DIS](https://forums.oracle.com/ords/apexds/post/can-i-download-all-discoverer-workbooks-to-my-computer-4127) โดยตรง อย่างไรก็ตาม สามารถส่งออกข้อมูลเป็นไฟล์ EEX เปิดใน Discoverer Desktop และใช้ตัวเลือกบันทึกเป็นเพื่อบันทึกไฟล์ EEX เป็นไฟล์ DIS
 
 ## รูปแบบไฟล์ DIS - ข้อมูลเพิ่มเติม
 

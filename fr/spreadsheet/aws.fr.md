@@ -19,7 +19,7 @@
 
 ## Qu'est-ce qu'un fichier AWS ?
 
-Un fichier AWS est un fichier de feuille de calcul créé avec le logiciel Ability Spreadsheet fourni avec la suite Ability Office. Il stocke les données dans des lignes et des colonnes similaires à Microsoft Excel. Les données des fichiers AWS peuvent être enregistrées dans [XLS](/fr/spreadsheet/xls/) et [XLSX](/fr/spreadsheet/xlsx). Cela rend le fichier Ability Spreadsheet compatible avec Microsoft Excel. Les données des feuilles de calcul peuvent être exportées aux formats de fichier [PDF](/fr/pdf/) et [XPS](/fr/page-description-language/xps/).
+Un fichier AWS est un fichier de feuille de calcul créé avec le logiciel Ability Spreadsheet fourni avec la suite Ability Office. Il stocke les données dans des lignes et des colonnes similaires à Microsoft Excel. Les données des fichiers AWS peuvent être enregistrées dans [XLS](/fr/spreadsheet/xls/) et [XLSX](/fr/spreadsheet/xlsx/). Cela rend le fichier Ability Spreadsheet compatible avec Microsoft Excel. Les données des feuilles de calcul peuvent être exportées aux formats de fichier [PDF](/fr/pdf/) et [XPS](/fr/page-description-language/xps/).
 
 ## Format de fichier AWS - Plus d'informations
 

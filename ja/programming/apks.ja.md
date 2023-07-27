@@ -28,7 +28,7 @@ APKS ファイルは、[ZIP](/compression/zip/) ファイル形式を使用し�
 
 ## APKSファイルを生成するには?
 
-Android アプリ バンドル (AAB) の準備ができたら、Google Play ストアでの動作をテストしてデバイスに展開できます。この目的のために、AAB ファイルから APKS ファイルを生成し、Google の Android [bundletool](https://developer.android.com/studio/command-line/bundletool) を使用してテスト デバイスにインストールできます。次のコマンドを使用して、APK から APKS アーカイブ ファイルを作成するためのコマンド ライン ツールを提供します。
+Android アプリ バンドル (AAB) の準備ができたら、Google Play ストアでの動作をテストしてデバイスに展開できます。この目的のために、AAB ファイルから APKS ファイルを生成し、Google の Android [bundletool](https://developer.android.com/tools/bundletool) を使用してテスト デバイスにインストールできます。次のコマンドを使用して、APK から APKS アーカイブ ファイルを作成するためのコマンド ライン ツールを提供します。
 
 ```
 bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
@@ -46,5 +46,5 @@ bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
 
 ## 参考文献
 
-* [バンドルツール - コマンドライン](https://developer.android.com/studio/command-line/bundletool)
+* [バンドルツール - コマンドライン](https://developer.android.com/tools/bundletool)
 

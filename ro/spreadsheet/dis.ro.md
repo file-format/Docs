@@ -23,7 +23,7 @@ Un fișier DIS este un fișier de registru de lucru creat cu software-ul [Oracle
 
 ## Cum se descarcă Discoverer Workbooks în format DIS?
 
-Registrele de lucru Oracle Discoverer sunt stocate în baza de date în format binar și nu pot fi descărcate ca [fișiere DIS](https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-discoverer -caietele de lucru-la-computerul-meu) direct. Cu toate acestea, datele pot fi exportate ca fișiere EEX, deschideți-le în Discoverer Desktop și utilizați opțiunea Salvare ca pentru a salva fișierele EEX ca fișiere DIS.
+Registrele de lucru Oracle Discoverer sunt stocate în baza de date în format binar și nu pot fi descărcate ca [fișiere DIS](https://forums.oracle.com/ords/apexds/post/can-i-download-all-discoverer-workbooks-to-my-computer-4127) direct. Cu toate acestea, datele pot fi exportate ca fișiere EEX, deschideți-le în Discoverer Desktop și utilizați opțiunea Salvare ca pentru a salva fișierele EEX ca fișiere DIS.
 
 ## Format de fișier DIS - Mai multe informații
 

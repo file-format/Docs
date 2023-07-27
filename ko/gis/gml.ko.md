@@ -63,6 +63,6 @@ GML 1.0 및 2.0은 Polygons, Points 및 LineString 개체를 다음과 같이 �
 
 ## 참조 ##
 
-* [GML 사양](http://www.opengeospatial.org/standards/gml)
+* [GML 사양](https://www.ogc.org/standard/gml/)
 * [GML - 위키피디아 작성](https://en.wikipedia.org/wiki/Geography_Markup_Language)
 

@@ -23,7 +23,7 @@
 
 ## TBZ 文件格式
 
-TBZ 文件实际上是使用 BZIP/[BZIP2](/zh/compression/bz2) 压缩创建的压缩档案。此文件格式没有可用的正式规范。然而，一个非官方的 [逆向工程规范](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) 表明 .bz2 流由一个 4 字节的标头组成，其后跟通过零个或多个压缩块。
+TBZ 文件实际上是使用 BZIP/[BZIP2](/zh/compression/bz2/) 压缩创建的压缩档案。此文件格式没有可用的正式规范。然而，一个非官方的 [逆向工程规范](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) 表明 .bz2 流由一个 4 字节的标头组成，其后跟通过零个或多个压缩块。
 
 ## 参考 ＃＃
 

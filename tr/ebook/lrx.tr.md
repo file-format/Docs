@@ -23,7 +23,7 @@
 
 ## LRX Dosya Biçimi
 
-LRX dosyaları ikili dosya biçimindedir ve şifrelenmemiş bir biçim olan [LRS](/tr/ebook/lrs)'den farklı olarak dosyadaki tüm içerikler şifrelenmiştir. İlişkili başka bir BBeB dosya formatı, XML tabanlı ve herhangi bir metin düzenleyicide insan tarafından okunabilen LRS'dir. LRX dosyalarının başlığı aşağıdaki gibi bilgileri içerir:
+LRX dosyaları ikili dosya biçimindedir ve şifrelenmemiş bir biçim olan [LRS](/tr/ebook/lrs/)'den farklı olarak dosyadaki tüm içerikler şifrelenmiştir. İlişkili başka bir BBeB dosya formatı, XML tabanlı ve herhangi bir metin düzenleyicide insan tarafından okunabilen LRS'dir. LRX dosyalarının başlığı aşağıdaki gibi bilgileri içerir:
 
 * Sürüm
 * Kök nesne tanımlama

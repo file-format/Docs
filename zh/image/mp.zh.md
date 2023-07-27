@@ -19,7 +19,7 @@
 
 ## 什么是 .mp 文件？
 
-MP 文件是由 MetaPost 编程语言生成的用于创建图片的矢量图像文件。使用 MP 文件格式创建的矢量图像保存为 [EPS](/zh/image/eps/)（封装 PostScript）文件。此外，MetaPost 与 TeX 和 Metafont 框架一起分发，并且可以从这些应用程序使用的 TEX 和 LTX 文件中生成 MP 文件。 MP 文件包含用于渲染输出 EPS 文件的绘图语句和数学算法绘图。 PDFTex 引擎可以使用创建的 EPS 直接生成 [PDF](/zh/pdf/) 文件。
+MP 文件是由 MetaPost 编程语言生成的用于创建图片的矢量图像文件。使用 MP 文件格式创建的矢量图像保存为 [EPS](/zh/page-description-language/eps/)（封装 PostScript）文件。此外，MetaPost 与 TeX 和 Metafont 框架一起分发，并且可以从这些应用程序使用的 TEX 和 LTX 文件中生成 MP 文件。 MP 文件包含用于渲染输出 EPS 文件的绘图语句和数学算法绘图。 PDFTex 引擎可以使用创建的 EPS 直接生成 [PDF](/zh/pdf/) 文件。
 
 ## MP 文件格式
 

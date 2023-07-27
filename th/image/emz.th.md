@@ -30,10 +30,10 @@
 * ข้อมูลที่บีบอัด
 * ส่วนท้ายของไฟล์
 
-รูปแบบไฟล์ GZIP [ข้อมูลจำเพาะเวอร์ชัน 4.3](http://tools.ietf.org/html/rfc1952) ที่เผยแพร่โดย Internet Engineering Task Force (IETF) มีข้อมูลโดยละเอียดเกี่ยวกับรูปแบบไฟล์
+รูปแบบไฟล์ GZIP [ข้อมูลจำเพาะเวอร์ชัน 4.3](https://datatracker.ietf.org/doc/html/rfc1952) ที่เผยแพร่โดย Internet Engineering Task Force (IETF) มีข้อมูลโดยละเอียดเกี่ยวกับรูปแบบไฟล์
 
 ## อ้างอิง
 
-* [RFC1952: ข้อกำหนดรูปแบบไฟล์ GZIP](http://tools.ietf.org/html/rfc1952) โดย [IETF](https://www.ietf.org/)
+* [RFC1952: ข้อกำหนดรูปแบบไฟล์ GZIP](https://datatracker.ietf.org/doc/html/rfc1952) โดย [IETF](https://www.ietf.org/)
 * [Windows MetaFile - Wikipedia](https://en.wikipedia.org/wiki/Windows_Metafile)
 

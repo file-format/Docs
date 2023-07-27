@@ -94,6 +94,6 @@ Các tệp cảnh X3D có cấu trúc tệp chung:
 ## Người giới thiệu ##
 
 * [X3D - Theo Wikipedia](https://vi.wikipedia.org/wiki/X3D)
-* [Web3D Consortium trang web chính thức](http://www.web3d.org/)
-* [Trang web chính thức của X3D](http://www.web3d.org/x3d/what-x3d)
+* [Web3D Consortium trang web chính thức](https://www.web3d.org/)
+* [Trang web chính thức của X3D](https://www.web3d.org/x3d/what-x3d)
 

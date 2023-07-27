@@ -94,6 +94,6 @@ X3D sahne dosyalarının ortak bir dosya yapısı vardır:
 ## Referanslar ##
 
 * [X3D - Wikipedia Tarafından](https://en.wikipedia.org/wiki/X3D)
-* [Web3D Konsorsiyumu resmi web sitesi](http://www.web3d.org/)
-* [X3D resmi web sitesi](http://www.web3d.org/x3d/what-x3d)
+* [Web3D Konsorsiyumu resmi web sitesi](https://www.web3d.org/)
+* [X3D resmi web sitesi](https://www.web3d.org/x3d/what-x3d)
 

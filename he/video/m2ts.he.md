@@ -19,7 +19,7 @@
 
 ## מהו קובץ M2TS? ##
 
-קובץ M2TS מכיל את הווידאו בחדות גבוהה ב-Blu-ray Disc ו-AVCHD. פורמט קובץ זה מבוסס על מיכל זרם התעבורה MPEG-2 ומשמש לריבוי אודיו, וידאו וזרמים אחרים. ניתן להפעיל קבצי M2TS במכשירים התומכים בהפעלה של [AVCHD](/he/video/avchd), כגון Sony PlayStation 3s, Sony Bravia TVs, Western Digital WDTVs, Xtreamer Media Player, Amkette FlashTV HD Media Player וטלוויזיות Panasonic Viera התומכות AVCHD.
+קובץ M2TS מכיל את הווידאו בחדות גבוהה ב-Blu-ray Disc ו-AVCHD. פורמט קובץ זה מבוסס על מיכל זרם התעבורה MPEG-2 ומשמש לריבוי אודיו, וידאו וזרמים אחרים. ניתן להפעיל קבצי M2TS במכשירים התומכים בהפעלה של [AVCHD](/he/video/avchd/), כגון Sony PlayStation 3s, Sony Bravia TVs, Western Digital WDTVs, Xtreamer Media Player, Amkette FlashTV HD Media Player וטלוויזיות Panasonic Viera התומכות AVCHD.
 
 ## פורמט קובץ M2TS
 מפרט זרם התעבורה MPEG-2 שהשתנה עבור מדיה בגישה אקראית (כגון DVD, Blu-ray Disc, כונן קשיח, כרטיסי זיכרון מוצק) הוא מיכל מדיה של BDAV שנקרא באופן לא רשמי M2TS. ה-M2TS משתמש בזרמי תעבורה בקצב משתנה (VBR) במקום בקצבים הקבועים הטיפוסיים (CBR) שנמצאים בשידור MPEG-2 TS לצורך אופטימיזציה של גודל האחסון. יש להקליט זרם תעבורה בקצב קבוע תואם T-STD להפעלת חותמת זמן ההגעה (ATS) של כל חבילה כדי להיות מסוגל לשחזר.

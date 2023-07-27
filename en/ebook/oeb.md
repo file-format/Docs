@@ -27,7 +27,7 @@ The OEB file format consists of a set of files, including a compulsory package f
 
 The OEBPS 1.2 was a tightly coupled update to the prior version (OEBPS 1.0.1). It provided modern functionality in the area of rendering control, including, among other things, enhancements in the markup vocabulary (now a genuine subset of XHTML 1.1), and greatly expanded CSS support. Sustainability factors are unchanged from the earlier version.
   
-The OEB bundle of files was used primarily as a mid-state format, with publication to end-users managed through publishers or aggregators who provided ebooks in forms suitable for different ebook viewers. Its successor version, [EPUB](/ebook/epub), is more likely to reach end-users as a final-state format, as well as serving as a middle-state format.
+The OEB bundle of files was used primarily as a mid-state format, with publication to end-users managed through publishers or aggregators who provided ebooks in forms suitable for different ebook viewers. Its successor version, [EPUB](/ebook/epub/), is more likely to reach end-users as a final-state format, as well as serving as a middle-state format.
 
 ## References
 

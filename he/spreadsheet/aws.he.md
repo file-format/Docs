@@ -19,7 +19,7 @@
 
 ## מהו קובץ AWS?
 
-קובץ AWS הוא קובץ גיליון אלקטרוני שנוצר עם תוכנת Ability Spreadsheet שמגיעה עם חבילת Ability Office. הוא מאחסן נתונים בשורות ובעמודות בדומה ל-Microsoft Excel. ניתן לשמור נתוני קבצי AWS ב-[XLS](/he/spreadsheet/xls/) ו-[XLSX](/he/spreadsheet/xlsx). זה הופך את קובץ הגיליון האלקטרוני של Ability לתואם ל-Microsoft Excel. ניתן לייצא נתונים בגיליונות אלקטרוניים לפורמטים של קבצים [PDF](/he/pdf/) ו-[XPS](/he/page-description-language/xps/).
+קובץ AWS הוא קובץ גיליון אלקטרוני שנוצר עם תוכנת Ability Spreadsheet שמגיעה עם חבילת Ability Office. הוא מאחסן נתונים בשורות ובעמודות בדומה ל-Microsoft Excel. ניתן לשמור נתוני קבצי AWS ב-[XLS](/he/spreadsheet/xls/) ו-[XLSX](/he/spreadsheet/xlsx/). זה הופך את קובץ הגיליון האלקטרוני של Ability לתואם ל-Microsoft Excel. ניתן לייצא נתונים בגיליונות אלקטרוניים לפורמטים של קבצים [PDF](/he/pdf/) ו-[XPS](/he/page-description-language/xps/).
 
 ## פורמט קובץ AWS - מידע נוסף
 

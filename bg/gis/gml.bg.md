@@ -63,6 +63,6 @@ GML 1.0 и 2.0 кодират обекти Polygons, Points и LineString, ка�
 
 ## Препратки ##
 
-* [Спецификации на GML](http://www.opengeospatial.org/standards/gml)
+* [Спецификации на GML](https://www.ogc.org/standard/gml/)
 * [GML – от Wikipedia](https://en.wikipedia.org/wiki/Geography_Markup_Language)
 

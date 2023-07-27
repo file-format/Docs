@@ -23,7 +23,7 @@ Plik HEIC to format pliku obrazu kontenera o wysokiej wydajności, który może 
 
 ## Format pliku HEIC
 
-HEIC jest oparty na formacie pliku HEIF i wykorzystuje standard HEVC (znany również jako H.265) w celu uzyskania kompaktowego rozmiaru pliku bez uszczerbku dla jakości. Gdy obraz jest wykonywany na urządzeniu z systemem iOS (takim jak iPhone, iPad lub MacOS), jest zapisywany jako plik HEIC na tych urządzeniach. HEIC to format kontenera, który może przechowywać jeden lub wiele obrazów wraz z metadanymi opisującymi każdy obraz. Jednym z takich przykładów metadanych jest [EXIF](/pl/image/exif), który zawiera tagi i informacje o metadanych z plikiem obrazu.
+HEIC jest oparty na formacie pliku HEIF i wykorzystuje standard HEVC (znany również jako H.265) w celu uzyskania kompaktowego rozmiaru pliku bez uszczerbku dla jakości. Gdy obraz jest wykonywany na urządzeniu z systemem iOS (takim jak iPhone, iPad lub MacOS), jest zapisywany jako plik HEIC na tych urządzeniach. HEIC to format kontenera, który może przechowywać jeden lub wiele obrazów wraz z metadanymi opisującymi każdy obraz. Jednym z takich przykładów metadanych jest [EXIF](/pl/image/exif/), który zawiera tagi i informacje o metadanych z plikiem obrazu.
 
 ### Przechowywanie danych HEIF
 

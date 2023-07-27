@@ -34,9 +34,9 @@ Fișierele ZUL sunt bazate pe XML, constând din diferite elemente pentru a cons
 <window title="Super Hello" border="normal">
     <button label="hi" onClick='alert("hi")'/>
 ```
-Schema ZUL poate fi descărcată de la http://www.zkoss.org/2005/zul/zul.xsd.
+Schema ZUL poate fi descărcată de la https://www.zkoss.org/2005/zul/zul.xsd.
 ## Referințe
 
 * [ZUL - De ZK](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
-* [Schema ZUL](http://www.zkoss.org/2005/zul/zul.xsd)
+* [Schema ZUL](https://www.zkoss.org/2005/zul/zul.xsd)
 

@@ -19,7 +19,7 @@
 
 ## Vad är FP fil?
 
-En fil med filtillägget .fp är en kalkylarksfil som skapats med programvaran [FileMaker Pro](https://www.claris.com/filemaker/pro/) av Claris. Den lagrar data i rader och kolumner som liknar Microsoft Excel. FileMaker Pro låter dig dra och släppa ett antal filtyper som CSV och XML för att importera deras data.
+En fil med filtillägget .fp är en kalkylarksfil som skapats med programvaran [FileMaker Pro](https://www.claris.com/filemaker/) av Claris. Den lagrar data i rader och kolumner som liknar Microsoft Excel. FileMaker Pro låter dig dra och släppa ett antal filtyper som CSV och XML för att importera deras data.
 
 ## FP filformat
 
@@ -27,6 +27,6 @@ FP-filer sparas i proprietärt filformat och deras filformatdetaljer är inte ti
 
 ## Referenser
 
-* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [FileMaker Pro](https://www.claris.com/filemaker/)
 * [fmapi](https://github.com/stevenwhitespacesystems/fm-xml2json)
 

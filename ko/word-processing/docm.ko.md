@@ -29,7 +29,7 @@ DOCM 파일 형식은 Office OpenXML 표준을 기반으로 합니다. Microsoft
 
 DOCM 파일 형식은 Office OpenXML 파일 형식을 기반으로 하는 동일한 DOCX 구조를 따릅니다. DOCM 파일 형식의 내용은 ZIP으로 이름을 바꾸고 지원 유틸리티를 사용하여 아카이브를 열어 볼 수 있습니다. [MS-DOCX](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx) 사양은 개발자 참조용 DOCX 파일 형식에 대한 Office OpenXML 파일 형식 세부 정보를 정의합니다. DOTM에도 적용됩니다. 매크로는 vbaProject.bin이라는 이진 파일에 포함되어 있으며 두 개의 지원 파일 vbaProject.bin.rels 및 vbaData.xml이 있습니다.
 
-![](http://social.technet.microsoft.com/Forums/getfile/331363)
+![](https://social.technet.microsoft.com/Forums/getfile/331363)
 
 ## 참고문헌
 

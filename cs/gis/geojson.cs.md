@@ -33,7 +33,7 @@ Souřadnice jsou základním prvkem všech geografických dat. Jedná se o jeden
 
 ### Pozice ###
 
-Uspořádané pole souřadnic představuje [pozice](http://geojson.org/geojson-spec.html#positions). Jedná se o nejmenší jednotku, která může označovat bod na Zemi.
+Uspořádané pole souřadnic představuje [pozice](https://geojson.org/geojson-spec.html#positions). Jedná se o nejmenší jednotku, která může označovat bod na Zemi.
 
 `[Zeměpisná délka, šířka, nadmořská výška]`
 

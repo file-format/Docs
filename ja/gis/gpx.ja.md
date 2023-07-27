@@ -74,6 +74,6 @@ GPX ファイルは、緯度と経度の位置データ、標高値、および�
 
 ## 参照 ##
 
-* [GPX ファイル形式](http://www.topografix.com/gpx.asp)
+* [GPX ファイル形式](https://www.topografix.com/gpx.asp)
 * [GPX - ウィキペディアによる](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
 

@@ -19,7 +19,7 @@
 
 ## .AI 파일이란?
 
-확장자가 .ai인 파일은 단일 페이지에 벡터 그래픽이 포함된 Adobe Illustrator 아트워크 파일입니다. 포인트를 사용하여 이미지 데이터를 표시하기 위한 경로를 생성하므로 확대해도 이미지 품질이 저하되는 것을 방지합니다. AI 파일 형식은 AI 파일과 유사한 PGF 파일 형식을 기반으로 합니다. AI 형식은 로고 및 인쇄 매체에 주로 사용되며 초기 버전은 [EPS](/ko/image/eps/) 파일과 유사한 것으로 간주되었습니다. AI 파일은 Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro 및 CorelDraw Graphics 도구로 열 수 있습니다.
+확장자가 .ai인 파일은 단일 페이지에 벡터 그래픽이 포함된 Adobe Illustrator 아트워크 파일입니다. 포인트를 사용하여 이미지 데이터를 표시하기 위한 경로를 생성하므로 확대해도 이미지 품질이 저하되는 것을 방지합니다. AI 파일 형식은 AI 파일과 유사한 PGF 파일 형식을 기반으로 합니다. AI 형식은 로고 및 인쇄 매체에 주로 사용되며 초기 버전은 [EPS](/ko/page-description-language/eps/) 파일과 유사한 것으로 간주되었습니다. AI 파일은 Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro 및 CorelDraw Graphics 도구로 열 수 있습니다.
 
 ## AI 파일 형식
 

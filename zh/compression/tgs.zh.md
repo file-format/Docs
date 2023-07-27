@@ -19,7 +19,7 @@
 
 ## 什么是一 .tgs 文件？
 
-扩展名为 .tgs 的文件是由跨平台消息服务 [Telegram](https://core.telegram.org/animated_stickers) 引入的动画贴纸文件。消息应用程序用户使用动画贴纸在消息中发送更多增强和生动的内容，这与静态图像的静态图形不同。 Telegram 最初使用 [WEBP](/zh/image/webp/) 文件格式用于静态图像贴纸。与静态 WEBP 贴纸相比，TGS 文件格式可以以更高分辨率和更小的文件大小存储动画数据。可以使用 Telegram、7-zip、Apple Archive Utility 和 Corel WinZip 等应用程序打开 TGS 文件。
+扩展名为 .tgs 的文件是由跨平台消息服务 [Telegram](https://core.telegram.org/stickers#animated-stickers) 引入的动画贴纸文件。消息应用程序用户使用动画贴纸在消息中发送更多增强和生动的内容，这与静态图像的静态图形不同。 Telegram 最初使用 [WEBP](/zh/image/webp/) 文件格式用于静态图像贴纸。与静态 WEBP 贴纸相比，TGS 文件格式可以以更高分辨率和更小的文件大小存储动画数据。可以使用 Telegram、7-zip、Apple Archive Utility 和 Corel WinZip 等应用程序打开 TGS 文件。
 
 ## TGS 文件格式
 
@@ -45,6 +45,6 @@ $ head -c 200 animated-sticker
 ```
 ## 参考 ＃＃
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - 维基百科](https://en.wikipedia.org/wiki/Gzip)
 

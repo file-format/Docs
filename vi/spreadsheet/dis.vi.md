@@ -23,7 +23,7 @@ Tệp DIS là một tệp sổ làm việc được tạo bằng phần mềm [O
 
 ## Làm cách nào để tải xuống Sổ làm việc của Người khám phá ở Định dạng DIS?
 
-Sổ làm việc của Oracle Discoverer được lưu trữ trong cơ sở dữ liệu ở định dạng nhị phân và không thể tải xuống dưới dạng [tệp DIS](https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-detecter -workbooks-to-my-computer) trực tiếp. Tuy nhiên, dữ liệu có thể được xuất dưới dạng tệp EEX, mở nó trong Discoverer Desktop và sử dụng tùy chọn Lưu dưới dạng để lưu tệp EEX dưới dạng tệp DIS.
+Sổ làm việc của Oracle Discoverer được lưu trữ trong cơ sở dữ liệu ở định dạng nhị phân và không thể tải xuống dưới dạng [tệp DIS](https://forums.oracle.com/ords/apexds/post/can-i-download-all-discoverer-workbooks-to-my-computer-4127) trực tiếp. Tuy nhiên, dữ liệu có thể được xuất dưới dạng tệp EEX, mở nó trong Discoverer Desktop và sử dụng tùy chọn Lưu dưới dạng để lưu tệp EEX dưới dạng tệp DIS.
 
 ## Định dạng tệp DIS - Thông tin thêm
 

@@ -19,7 +19,7 @@
 
 ## Co je soubor DCM?
 
-Soubory s příponou .dcm představují digitální obraz, který uchovává lékařské informace pacientů, jako jsou MRI, CT skeny a ultrazvukové snímky. Soubory DCM používají formát obrazového souboru [DICOM](/cs/image/dicom) (Digital Imaging and Communications in Medicine) a mohou obsahovat referenční informace o pacientovi. Byl vyvinut [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) a měl standardizovat formát zobrazovacích souborů pro distribuci a prohlížení lékařských snímků.
+Soubory s příponou .dcm představují digitální obraz, který uchovává lékařské informace pacientů, jako jsou MRI, CT skeny a ultrazvukové snímky. Soubory DCM používají formát obrazového souboru [DICOM](/cs/image/dicom/) (Digital Imaging and Communications in Medicine) a mohou obsahovat referenční informace o pacientovi. Byl vyvinut [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) a měl standardizovat formát zobrazovacích souborů pro distribuci a prohlížení lékařských snímků.
 
 ## Formát souboru DCM
 
@@ -68,5 +68,5 @@ Vrstva formátu médií poskytuje v případě potřeby pro daný aplikační pr
 
 ## Reference ##
 * [DICOM Standard](https://www.dicomstandard.org/current/)
-* [Formát souboru DICOM](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [Formát souboru DICOM](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

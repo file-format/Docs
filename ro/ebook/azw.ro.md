@@ -19,7 +19,7 @@
 
 ## Ce este un fișier AZW?
 
-AZW este un format de fișier digital de cărți electronice dezvoltat de Amazon pentru dispozitivele sale Kindle. Formatul a fost adoptat din formatul de fișier MobiPocket eBook [MOBI](/ro/ebook/mobi/), iar protecția DRM a fost aplicată numai pentru utilizarea lor pe dispozitivele Kindle. Fișierele AZW pot stoca lucruri precum text formatat, marcaje și alte informații care fac parte din fișierele Mobipocket .PRC. Fișierele AZW protejate DRM nu pot fi citite de alte dispozitive și pot fi citite folosind dispozitive Kindle. Fișierele AZW pot fi convertite într-un număr de alte formate de fișiere, cum ar fi [PDF](/ro/pdf/), [EPUB](/ro/ebook/epub/), [AZW3](/ro/ebook/azw3), [DOCX](/ro/word -processing/docx/) și [RTF](/ro/word-processing/rtf/). Fișierele AZW au tipul media de internet *application/vnd.amazon.mobi8-ebook*.
+AZW este un format de fișier digital de cărți electronice dezvoltat de Amazon pentru dispozitivele sale Kindle. Formatul a fost adoptat din formatul de fișier MobiPocket eBook [MOBI](/ro/ebook/mobi/), iar protecția DRM a fost aplicată numai pentru utilizarea lor pe dispozitivele Kindle. Fișierele AZW pot stoca lucruri precum text formatat, marcaje și alte informații care fac parte din fișierele Mobipocket .PRC. Fișierele AZW protejate DRM nu pot fi citite de alte dispozitive și pot fi citite folosind dispozitive Kindle. Fișierele AZW pot fi convertite într-un număr de alte formate de fișiere, cum ar fi [PDF](/ro/pdf/), [EPUB](/ro/ebook/epub/), [AZW3](/ro/ebook/azw3/), [DOCX](/ro/word-processing/docx/) și [RTF](/ro/word-processing/rtf/). Fișierele AZW au tipul media de internet *application/vnd.amazon.mobi8-ebook*.
 
 ## Format de fișier AZW
 

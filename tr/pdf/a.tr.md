@@ -58,5 +58,5 @@ PDF/A-3, Düzey 2'nin tüm uyumluluk gereksinimlerini içerir ve ek dosya biçim
 ## Referanslar ##
 
 * [PDF/A - Wikipedia'dan](https://en.wikipedia.org/wiki/PDF/A)
-* [Teknik Belge: PDF/A – Temel Bilgiler](http://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
+* [Teknik Belge: PDF/A – Temel Bilgiler](https://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
 

@@ -51,5 +51,5 @@ Soubor myisamdef.h obsahuje následující informace vyjádřené v konstantách
 
 ## Reference ##
 
-- [Soubor .MYI](https://dev.mysql.com/doc/internals/en/the-myi-file.html)
+- [Soubor .MYI](https://dev.mysql.com/doc/dev/mysql-server/latest/)
 

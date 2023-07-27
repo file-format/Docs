@@ -38,35 +38,35 @@ A estrutura EMBEDDEDFONT passou por três revisões, com adição de dados adici
 |unsigned long|FontDataSize|Comprimento da fonte OpenType (FontData) em bytes|
 |unsigned long|Versão|Número da versão deste formato - 0x00020002|
 |unsigned long|Flags|Processing Flags|
-|byte[10]|FontPANOSE|O valor PANOSE para esta fonte - Consulte http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|byte|Charset|No Windows isso é derivado de TEXTMETRIC.tmCharSet. Este valor especifica o conjunto de caracteres da fonte. DEFAULT_CHARSET (0x01) indica nenhuma preferência. - Consulte http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
-|byte|Italic|Se o bit para ITALIC estiver definido em OS/2.fsSelection, o valor será 0x01 - Consulte http://www.microsoft.com/typography/otspec/os2.htm#fss|
-|unsigned long|Weight|O valor do peso para esta fonte - Consulte http://www.microsoft.com/typography/otspec/os2.htm#wtc|
-|unsigned short|fsType|Tipo sinalizadores que fornecem informações sobre permissões de incorporação - Consulte http://www.microsoft.com/typography/otspec/os2.htm#fst|
+|byte[10]|FontPANOSE|O valor PANOSE para esta fonte - Consulte https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
+|byte|Charset|No Windows isso é derivado de TEXTMETRIC.tmCharSet. Este valor especifica o conjunto de caracteres da fonte. DEFAULT_CHARSET (0x01) indica nenhuma preferência. - Consulte https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
+|byte|Italic|Se o bit para ITALIC estiver definido em OS/2.fsSelection, o valor será 0x01 - Consulte https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss|
+|unsigned long|Weight|O valor do peso para esta fonte - Consulte https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|
+|unsigned short|fsType|Tipo sinalizadores que fornecem informações sobre permissões de incorporação - Consulte https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|
 |unsigned short|MagicNumber|Número mágico para arquivo EOT - 0x504C. Usado para verificar se há corrupção de dados.|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (bits 0-31) - Consulte http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (bits 32-63) - Consulte http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (bits 64-95) - Consulte http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bits 96-127) - Consulte http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|CodePageRange1|CodePageRange1 (bits 0-31) - Consulte http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CodePageRange2|CodePageRange2 (bits 32-63) - Consulte http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - Consulte http://www.microsoft.com/typography/otspec/head.htm|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (bits 0-31) - Consulte https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (bits 32-63) - Consulte https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (bits 64-95) - Consulte https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bits 96-127) - Consulte https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|CodePageRange1|CodePageRange1 (bits 0-31) - Consulte https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CodePageRange2|CodePageRange2 (bits 32-63) - Consulte https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - Consulte https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Reserved1|Reserved - deve ser 0|
 |unsigned long|Reserved2|Reservado - deve ser 0|
 |unsigned long|Reserved3|Reserved - deve ser 0|
 |unsigned long|Reserved4|Reserved - deve ser 0|
 |unsigned short|Padding1|Padding para manter o alinhamento longo. O valor de preenchimento sempre deve ser definido como 0x0000.|
 |unsigned short|FamilyNameSize|Número de bytes usados pelo array FamilyName|
-|byte|FamilyName[FamilyNameSize]|Matriz de caracteres UTF-16 com o comprimento de bytes FamilyNameSize. Esta é a cadeia de caracteres da família de fontes do idioma inglês encontrada na tabela de nomes da fonte (ID do nome = 1) - Consulte http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FamilyName[FamilyNameSize]|Matriz de caracteres UTF-16 com o comprimento de bytes FamilyNameSize. Esta é a cadeia de caracteres da família de fontes do idioma inglês encontrada na tabela de nomes da fonte (ID do nome = 1) - Consulte https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|O valor de preenchimento deve sempre ser definido como 0x0000.|
 |unsigned short|StyleNameSize|Número de bytes usados pelo StyleName|
-|byte|StyleName[StyleNameSize]|Matriz de caracteres UTF-16 com o comprimento de bytes StyleNameSize. Esta é a cadeia de caracteres da subfamília de fontes do idioma inglês encontrada na tabela de nomes da fonte (ID do nome = 2) - Consulte http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|Matriz de caracteres UTF-16 com o comprimento de bytes StyleNameSize. Esta é a cadeia de caracteres da subfamília de fontes do idioma inglês encontrada na tabela de nomes da fonte (ID do nome = 2) - Consulte https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|O valor de preenchimento deve sempre ser definido como 0x0000.|
 |unsigned short|VersionNameSize|Número de bytes usados pelo VersionName|
-|bytes|VersionName[VersionNameSize]|Matriz de caracteres UTF-16 com o comprimento de bytes VersionNameSize. Esta é a string da versão do idioma inglês encontrada na tabela de nomes da fonte (ID do nome = 5) - Consulte http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|Matriz de caracteres UTF-16 com o comprimento de bytes VersionNameSize. Esta é a string da versão do idioma inglês encontrada na tabela de nomes da fonte (ID do nome = 5) - Consulte https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|O valor de preenchimento deve sempre ser definido como 0x0000.|
 |unsigned short|FullNameSize|Número de bytes usados pelo FullName|
-|byte|FullName[FullNameSize]|Matriz de caracteres UTF-16 com o comprimento de bytes FullNameSize. Esta é a cadeia de caracteres de nome completo do idioma inglês encontrada na tabela de nomes da fonte (ID do nome = 4) - Consulte http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|Matriz de caracteres UTF-16 com o comprimento de bytes FullNameSize. Esta é a cadeia de caracteres de nome completo do idioma inglês encontrada na tabela de nomes da fonte (ID do nome = 4) - Consulte https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|O valor de preenchimento deve sempre ser definido como 0x0000.|
 |unsigned short|RootStringSize|Número de bytes usados pelo array RootString|
 |byte|RootString[RootStringSize]|Matriz de caracteres UTF-16 com o comprimento de bytes RootStringSize.|

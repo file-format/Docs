@@ -42,7 +42,7 @@ La norme PDF/UA définit les spécifications pour le contenu, les lecteurs et la
 
 ## Fichiers conformes ##
 
-Les fichiers conformes à la norme PDF/UA doivent contenir des fonctionnalités valides conformément aux [spécifications PDF 1.7](http://www.adobe.com/go/pdfreference). Cependant, les fonctionnalités spécifiquement interdites par PDF/UA doivent être exclues.
+Les fichiers conformes à la norme PDF/UA doivent contenir des fonctionnalités valides conformément aux [spécifications PDF 1.7](https://opensource.adobe.com/dc-acrobat-sdk-docs/standards/pdfstandards/pdf/PDF32000_2008.pdf). Cependant, les fonctionnalités spécifiquement interdites par PDF/UA doivent être exclues.
 
 ## Lecteurs conformes ##
 
@@ -59,5 +59,5 @@ Une technologie d'assistance conforme est destinée à prendre en charge les fon
 ## Références ##
 
 * [PDF/UA - Par Wikipédia](https://en.wikipedia.org/wiki/PDF/UA)
-* [PDF/UA en bref](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [PDF/UA en bref](https://pdfa.org/pdfua-in-a-nutshell/)
 

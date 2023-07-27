@@ -23,7 +23,7 @@ Um arquivo DIS é um arquivo de pasta de trabalho criado com o software [Oracle 
 
 ## Como baixar pastas de trabalho do Discoverer no formato DIS?
 
-As pastas de trabalho do Oracle Discoverer são armazenadas no banco de dados em formato binário e não podem ser baixadas como [arquivos DIS](https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-discoverer -workbooks-to-my-computer) diretamente. No entanto, os dados podem ser exportados como arquivos EEX, abri-los no Discoverer Desktop e usar a opção Salvar como para salvar os arquivos EEX como arquivos DIS.
+As pastas de trabalho do Oracle Discoverer são armazenadas no banco de dados em formato binário e não podem ser baixadas como [arquivos DIS](https://forums.oracle.com/ords/apexds/post/can-i-download-all-discoverer-workbooks-to-my-computer-4127) diretamente. No entanto, os dados podem ser exportados como arquivos EEX, abri-los no Discoverer Desktop e usar a opção Salvar como para salvar os arquivos EEX como arquivos DIS.
 
 ## Formato de arquivo DIS - Mais informações
 

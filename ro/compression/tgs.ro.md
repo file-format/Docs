@@ -19,7 +19,7 @@
 
 ## Ce este un fișier TGS?
 
-Un fișier cu extensia .tgs este un fișier autocolant animat care a fost introdus de serviciul de mesagerie multiplatformă, [Telegram](https://core.telegram.org/animated_stickers). Autocolantele animate sunt folosite de utilizatorii aplicațiilor de mesagerie pentru a trimite conținut mai îmbunătățit și mai plin de viață în mesaje, spre deosebire de grafica statică care sunt imagini statice. Telegram a folosit inițial formatul de fișier [WEBP](/ro/image/webp/) pentru autocolante cu imagini statice. Formatul de fișier TGS poate stoca date de animație la rezoluții mai mari și dimensiuni mai mici ale fișierului în comparație cu autocolantele statice WEBP. Fișierele TGS pot fi deschise folosind aplicații precum Telegram, 7-zip, Apple Archive Utility și Corel WinZip.
+Un fișier cu extensia .tgs este un fișier autocolant animat care a fost introdus de serviciul de mesagerie multiplatformă, [Telegram](https://core.telegram.org/stickers#animated-stickers). Autocolantele animate sunt folosite de utilizatorii aplicațiilor de mesagerie pentru a trimite conținut mai îmbunătățit și mai plin de viață în mesaje, spre deosebire de grafica statică care sunt imagini statice. Telegram a folosit inițial formatul de fișier [WEBP](/ro/image/webp/) pentru autocolante cu imagini statice. Formatul de fișier TGS poate stoca date de animație la rezoluții mai mari și dimensiuni mai mici ale fișierului în comparație cu autocolantele statice WEBP. Fișierele TGS pot fi deschise folosind aplicații precum Telegram, 7-zip, Apple Archive Utility și Corel WinZip.
 
 ## Format de fișier TGS
 
@@ -45,6 +45,6 @@ $ head -c 200 animated-sticker
 ```
 ## Referințe ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
 

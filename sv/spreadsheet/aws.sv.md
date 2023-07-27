@@ -19,7 +19,7 @@
 
 ## Vad är AWS fil?
 
-En AWS-fil är en kalkylarksfil skapad med programvaran Ability Spreadsheet som följer med Ability Office-paketet. Den lagrar data i rader och kolumner som liknar Microsoft Excel. AWS-fildata kan sparas till [XLS](/sv/spreadsheet/xls/) och [XLSX](/sv/spreadsheet/xlsx). Detta gör Ability Spreadsheet-fil kompatibel med Microsoft Excel. Data i kalkylblad kan exporteras till filformaten [PDF](/sv/pdf/) och [XPS](/sv/page-description-language/xps/).,
+En AWS-fil är en kalkylarksfil skapad med programvaran Ability Spreadsheet som följer med Ability Office-paketet. Den lagrar data i rader och kolumner som liknar Microsoft Excel. AWS-fildata kan sparas till [XLS](/sv/spreadsheet/xls/) och [XLSX](/sv/spreadsheet/xlsx/). Detta gör Ability Spreadsheet-fil kompatibel med Microsoft Excel. Data i kalkylblad kan exporteras till filformaten [PDF](/sv/pdf/) och [XPS](/sv/page-description-language/xps/).,
 
 ## AWS-filformat - Mer information
 

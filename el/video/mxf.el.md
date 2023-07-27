@@ -81,6 +81,6 @@
 ## βιβλιογραφικές αναφορές
 
 * [MXF - Wikipedia](https://en.wikipedia.org/wiki/Material_Exchange_Format)
-* [MXF - Αναφορά προόδου](http://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
+* [MXF - Αναφορά προόδου](https://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
 * [Βιβλιοθήκη OpenSource C++ για MXF](http://www.freemxf.org/)
 

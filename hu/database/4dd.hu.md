@@ -34,7 +34,7 @@ A 4th Dimension v3.1 1993-as bevezetésével együtt megjelent a 4D Client v1.1,
 
 ## 4DD fájlformátum specifikációi ##
 
-Az adatállomány tartalmazza a rekordokba bevitt összes adatot, valamint a hozzájuk tartozó összes adatot. Az adatfájl nevét az adatbázis-létrehozási párbeszédpanelen beírt név után kapja, amelyet a [4DB](/hu/database/4db) követ.
+Az adatállomány tartalmazza a rekordokba bevitt összes adatot, valamint a hozzájuk tartozó összes adatot. Az adatfájl nevét az adatbázis-létrehozási párbeszédpanelen beírt név után kapja, amelyet a [4DB](/hu/database/4db/) követ.
 
 A meglévő adatfájl a szokásos módon megnyílik, amikor betölt egy 4D-s szerkezetfájlt. Ha megváltoztatja a fájl nevét vagy helyét, az Adatmappa megnyitása párbeszédpanel lehetővé teszi új adatbázis kiválasztását vagy létrehozását.
 

@@ -74,6 +74,6 @@ Tệp GPX sau đây hiển thị tổ chức dữ liệu GPS trong tệp GPX và
 
 ## Người giới thiệu ##
 
-* [Định dạng tệp GPX](http://www.topografix.com/gpx.asp)
+* [Định dạng tệp GPX](https://www.topografix.com/gpx.asp)
 * [GPX - Theo Wikipedia](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
 

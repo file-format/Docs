@@ -34,7 +34,7 @@ Samen met de lancering van 4th Dimension v3.1 in 1993, werd 4D Client v1.1, een 
 
 ## Specificaties 4DD-bestandsindeling ##
 
-Het gegevensbestand bevat alle gegevens die in de records zijn ingevoerd, evenals alle gegevens die eraan zijn gekoppeld. Het gegevensbestand is genoemd naar de naam die u typt in het dialoogvenster voor het maken van de database, gevolgd door [4DB](/nl/database/4db).
+Het gegevensbestand bevat alle gegevens die in de records zijn ingevoerd, evenals alle gegevens die eraan zijn gekoppeld. Het gegevensbestand is genoemd naar de naam die u typt in het dialoogvenster voor het maken van de database, gevolgd door [4DB](/nl/database/4db/).
 
 Het bestaande gegevensbestand wordt zoals gewoonlijk geopend wanneer u een 4D-structuurbestand laadt. Als u de naam of locatie van het bestand wijzigt, kunt u in het dialoogvenster Gegevensmap openen een nieuwe database kiezen of bouwen.
 

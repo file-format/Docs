@@ -38,35 +38,35 @@
 |unsigned long|FontDataSize|Μήκος της γραμματοσειράς OpenType (FontData) σε byte|
 |unsigned long|Έκδοση|Αριθμός έκδοσης αυτής της μορφής - 0x00020002|
 |ανυπόγραφο μακρύ|Σημαίες|Σημαίες επεξεργασίας|
-|byte[10]|FontPANOSE|Η τιμή PANOSE για αυτήν τη γραμματοσειρά - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|byte|Charset|Στα Windows αυτό προέρχεται από το TEXTMETRIC.tmCharSet. Αυτή η τιμή καθορίζει το σύνολο χαρακτήρων της γραμματοσειράς. DEFAULT_CHARSET (0x01) υποδηλώνει καμία προτίμηση. - Δείτε http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
-|byte|Italic|Εάν το bit για το ITALIC έχει οριστεί στο OS/2.fsSelection, η τιμή θα είναι 0x01 - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#fss|
-|unsigned long|Weight|Η τιμή βάρους για αυτήν τη γραμματοσειρά - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#wtc|
-|unsigned short|fsType|Πληκτρολογήστε σημαίες που παρέχουν πληροφορίες σχετικά με τα δικαιώματα ενσωμάτωσης - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#fst|
+|byte[10]|FontPANOSE|Η τιμή PANOSE για αυτήν τη γραμματοσειρά - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
+|byte|Charset|Στα Windows αυτό προέρχεται από το TEXTMETRIC.tmCharSet. Αυτή η τιμή καθορίζει το σύνολο χαρακτήρων της γραμματοσειράς. DEFAULT_CHARSET (0x01) υποδηλώνει καμία προτίμηση. - Δείτε https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
+|byte|Italic|Εάν το bit για το ITALIC έχει οριστεί στο OS/2.fsSelection, η τιμή θα είναι 0x01 - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss|
+|unsigned long|Weight|Η τιμή βάρους για αυτήν τη γραμματοσειρά - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|
+|unsigned short|fsType|Πληκτρολογήστε σημαίες που παρέχουν πληροφορίες σχετικά με τα δικαιώματα ενσωμάτωσης - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|
 |ανυπόγραφο σύντομο|MagicNumber|Μαγικός αριθμός για αρχείο ΕΟΤ - 0x504C. Χρησιμοποιείται για τον έλεγχο για καταστροφή δεδομένων.|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (bit 0-31) - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (bits 32-63) - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (bit 64-95) - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bit 96-127) - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|CodePageRange1|CodePageRange1 (bit 0-31) - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CodePageRange2|CodePageRange2 (bit 32-63) - Δείτε http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|ανυπόγραφο long|CheckSumAdjustment|head.CheckSumAdjustment - Δείτε http://www.microsoft.com/typography/otspec/head.htm|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (bit 0-31) - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (bits 32-63) - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (bit 64-95) - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bit 96-127) - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|CodePageRange1|CodePageRange1 (bit 0-31) - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CodePageRange2|CodePageRange2 (bit 32-63) - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|ανυπόγραφο long|CheckSumAdjustment|head.CheckSumAdjustment - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |ανυπόγραφο long|Δέσμευση1|Δεσμευμένο - πρέπει να είναι 0|
 |ανυπόγραφο long|Δέσμευση2|Δεσμευμένο - πρέπει να είναι 0|
 |ανυπόγραφο long|Δέσμευση3|Δεσμευμένο - πρέπει να είναι 0|
 |ανυπόγραφο long|Δέσμευση4|Δεσμευμένο - πρέπει να είναι 0|
 |unsigned short|Padding1|Padding για διατήρηση μεγάλης ευθυγράμμισης. Η τιμή πλήρωσης πρέπει πάντα να ορίζεται σε 0x0000.|
 |unsigned short|FamilyNameSize|Αριθμός byte που χρησιμοποιούνται από τον πίνακα FamilyName|
-|byte|FamilyName[FamilyNameSize]|Πίνακας χαρακτήρων UTF-16 το μήκος των byte FamilyNameSize. Αυτή είναι η συμβολοσειρά της οικογένειας γραμματοσειρών της αγγλικής γλώσσας που βρίσκεται στον πίνακα ονομάτων της γραμματοσειράς (αναγνωριστικό ονόματος = 1) - Δείτε http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FamilyName[FamilyNameSize]|Πίνακας χαρακτήρων UTF-16 το μήκος των byte FamilyNameSize. Αυτή είναι η συμβολοσειρά της οικογένειας γραμματοσειρών της αγγλικής γλώσσας που βρίσκεται στον πίνακα ονομάτων της γραμματοσειράς (αναγνωριστικό ονόματος = 1) - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|Η τιμή padding πρέπει πάντα να ορίζεται σε 0x0000.|
 |unsigned short|StyleNameSize|Αριθμός byte που χρησιμοποιούνται από το StyleName|
-|byte|StyleName[StyleNameSize]|Πίνακας χαρακτήρων UTF-16 το μήκος των byte StyleNameSize. Αυτή είναι η συμβολοσειρά Font Subfamily της αγγλικής γλώσσας που βρίσκεται στον πίνακα ονομάτων της γραμματοσειράς (όνομα ID = 2) - Δείτε http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|Πίνακας χαρακτήρων UTF-16 το μήκος των byte StyleNameSize. Αυτή είναι η συμβολοσειρά Font Subfamily της αγγλικής γλώσσας που βρίσκεται στον πίνακα ονομάτων της γραμματοσειράς (όνομα ID = 2) - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|Η τιμή padding πρέπει πάντα να ορίζεται σε 0x0000.|
 |unsigned short|VersionNameSize|Αριθμός byte που χρησιμοποιούνται από το VersionName|
-|bytes|VersionName[VersionNameSize]|Πίνακας χαρακτήρων UTF-16 το μήκος των byte VersionNameSize. Αυτή είναι η συμβολοσειρά της αγγλικής έκδοσης που βρίσκεται στον πίνακα ονομάτων της γραμματοσειράς (όνομα ID = 5) - Δείτε http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|Πίνακας χαρακτήρων UTF-16 το μήκος των byte VersionNameSize. Αυτή είναι η συμβολοσειρά της αγγλικής έκδοσης που βρίσκεται στον πίνακα ονομάτων της γραμματοσειράς (όνομα ID = 5) - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|Η τιμή padding πρέπει πάντα να ορίζεται σε 0x0000.|
 |unsigned short|FullNameSize|Αριθμός byte που χρησιμοποιούνται από το FullName|
-|byte|FullName[FullNameSize]|Πίνακας χαρακτήρων UTF-16 το μήκος των byte FullNameSize. Αυτή είναι η συμβολοσειρά πλήρους ονόματος στην αγγλική γλώσσα που βρίσκεται στον πίνακα ονομάτων της γραμματοσειράς (όνομα ID = 4) - Δείτε http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|Πίνακας χαρακτήρων UTF-16 το μήκος των byte FullNameSize. Αυτή είναι η συμβολοσειρά πλήρους ονόματος στην αγγλική γλώσσα που βρίσκεται στον πίνακα ονομάτων της γραμματοσειράς (όνομα ID = 4) - Δείτε https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|Η τιμή padding πρέπει πάντα να ορίζεται σε 0x0000.|
 |unsigned short|RootStringSize|Αριθμός byte που χρησιμοποιούνται από τον πίνακα RootString|
 |byte|RootString[RootStringSize]|Πίνακας UTF-16 χαρακτήρων στο μήκος των byte RootStringSize.|

@@ -25,7 +25,7 @@ WebP 由 Google 推出，是一种基于无损和有损压缩的现代光栅 Web
 
 WebP 图像使用基于对其周围块的像素预测的压缩过程，从而导致在单个文件中多次使用像素。它支持动画图像，预计未来将支持更多功能。 Google 已提供其编码器和解码器的源代码 [在线](https://developers.google.com/speed/webp/download)，以便在需要时使用。 WebP 图像支持：
 
-* **有损压缩：**有损压缩基于 [VP8](http://en.wikipedia.org/wiki/VP8) 关键帧编码。 VP8 是 On2 Technologies 创建的一种视频压缩格式，是 VP6 和 VP7 格式的继承者。
+* **有损压缩：**有损压缩基于 [VP8](https://en.wikipedia.org/wiki/VP8) 关键帧编码。 VP8 是 On2 Technologies 创建的一种视频压缩格式，是 VP6 和 VP7 格式的继承者。
 * **无损压缩：** 无损压缩格式由 WebP 团队开发。
 * **透明度：** 8 位 Alpha 通道对图形图像很有用。 Alpha 通道可以与有损 RGB 一起使用，这是目前任何其他格式都没有的功能。
 * **动画：**它支持真彩色动画图像。

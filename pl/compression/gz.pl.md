@@ -96,5 +96,5 @@ Stopka pliku ma rozmiar 8 bajtów i zawiera następujące informacje.
 ## Bibliografia ##
 
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952: specyfikacja formatu pliku GZIP](http://tools.ietf.org/html/rfc1952), przez IETF.
+* [RFC1952: specyfikacja formatu pliku GZIP](https://datatracker.ietf.org/doc/html/rfc1952), przez IETF.
 

@@ -66,5 +66,5 @@ unit Unit1;
 ## הפניות
 
 * [הבנת קבצי פרויקט דלפי ומקור יחידה](https://www.thoughtco.com/understanding-delphi-project-files-dpr-1057652)
-* [כותבת תוכנית דלפי הראשונה שלך](http://www.delphibasics.co.uk/Article.asp?Name=FirstPgm)
+* [כותבת תוכנית דלפי הראשונה שלך](http://www.delphibasics.co.uk/Article.php?Name=FirstPgm)
 

@@ -51,5 +51,5 @@ Myisamdef.h फ़ाइल में स्थिरांक में व्�
 
 ## संदर्भ ##
 
-- [.MYI फ़ाइल](https://dev.mysql.com/doc/internals/en/the-myi-file.html)
+- [.MYI फ़ाइल](https://dev.mysql.com/doc/dev/mysql-server/latest/)
 

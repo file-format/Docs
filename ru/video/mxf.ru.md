@@ -81,6 +81,6 @@
 ## использованная литература
 
 * [MXF — Википедия](https://en.wikipedia.org/wiki/Material_Exchange_Format)
-* [MXF — Отчет о проделанной работе](http://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
+* [MXF — Отчет о проделанной работе](https://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
 * [Библиотека OpenSource C++ для MXF](http://www.freemxf.org/)
 

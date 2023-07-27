@@ -20,7 +20,7 @@
 
 ## Wat is een STC-bestand?
 
-Een STC-bestand is een spreadsheetsjabloonbestand dat oorspronkelijk is gemaakt en ondersteund door de software [StarOffice](http://www.staroffice.com). Het bevat instellingen voor het maken van andere spreadsheetbestanden die de informatie van de sjabloon gebruiken om de spreadsheetinstellingen in te stellen, zoals pagina-opmaak, lettergrootte, marges, grafieken, enz. Het bestandsformaat werd later overgenomen door Apache OpenOffice, maar werd later vervangen door het gebruik van [.ots](/nl/spreadsheet/ots/) bestandsformaat voor het opslaan van de sjabloonbestandsinformatie. STC-bestanden kunnen worden geopend met OpenOffice Calc, Planamesa NeoOffice en LibreOffice.
+Een STC-bestand is een spreadsheetsjabloonbestand dat oorspronkelijk is gemaakt en ondersteund door de software [StarOffice](https://www.staroffice.com/). Het bevat instellingen voor het maken van andere spreadsheetbestanden die de informatie van de sjabloon gebruiken om de spreadsheetinstellingen in te stellen, zoals pagina-opmaak, lettergrootte, marges, grafieken, enz. Het bestandsformaat werd later overgenomen door Apache OpenOffice, maar werd later vervangen door het gebruik van [.ots](/nl/spreadsheet/ots/) bestandsformaat voor het opslaan van de sjabloonbestandsinformatie. STC-bestanden kunnen worden geopend met OpenOffice Calc, Planamesa NeoOffice en LibreOffice.
 
 ## STC-bestandsindeling
 

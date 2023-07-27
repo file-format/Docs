@@ -85,5 +85,4 @@ La salida del archivo de comando anterior debería verse así:
 ## Referencias ##
 
 * [TEX - Wikipedia](https://en.wikipedia.org/wiki/TeX)
-* [Látex](http://mally.stanford.edu/~sr/computing/latex-example.html)
 

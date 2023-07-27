@@ -29,7 +29,7 @@
 
 פורמט הקובץ DOCM עוקב אחר אותו מבנה DOCX המבוסס על פורמט קובץ Office OpenXML. ניתן לצפות בתוכן של פורמט קובץ DOCM על ידי שינוי שמו ל-ZIP ופתיחת הארכיון באמצעות כל כלי עזר תומך. מפרטי [MS-DOCX](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx) מגדירים את פרטי פורמט הקובץ של Office OpenXML עבור פורמט קובץ DOCX לעיון המפתחים וישימים גם ל-DOTM. פקודות המאקרו כלולות בקובץ בינארי בשם vbaProject.bin, עם שני קבצים תומכים vbaProject.bin.rels ו-vbaData.xml.
 
-![](http://social.technet.microsoft.com/Forums/getfile/331363)
+![](https://social.technet.microsoft.com/Forums/getfile/331363)
 
 ## הפניות
 

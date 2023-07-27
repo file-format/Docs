@@ -25,5 +25,5 @@ Een bestand met de extensie .phj is een projectbestand dat is gemaakt met PhCNC-
 
 ## Referenties
 
-* [PhCNC](http://www.accuratecnc.com/PhCNC.php)
+* [PhCNC](https://www.accuratecnc.com/PhCNC.php)
 

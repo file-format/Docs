@@ -23,7 +23,7 @@ File dengan ekstensi .lrx adalah file terkait untuk Sony Broadband eBook (BBeB).
 
 ## Format File LRX
 
-File LRX dalam format file biner dan semua konten dalam file dienkripsi tidak seperti [LRS](/id/ebook/lrs), yang merupakan format non-enkripsi. Format file BBeB terkait lainnya adalah LRS yang berbasis XML dan dapat dibaca manusia di editor teks apa pun. Header file LRX berisi informasi seperti:
+File LRX dalam format file biner dan semua konten dalam file dienkripsi tidak seperti [LRS](/id/ebook/lrs/), yang merupakan format non-enkripsi. Format file BBeB terkait lainnya adalah LRS yang berbasis XML dan dapat dibaca manusia di editor teks apa pun. Header file LRX berisi informasi seperti:
 
 * Versi: kapan
 * Identifikasi objek akar

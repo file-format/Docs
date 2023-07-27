@@ -28,7 +28,7 @@ Les fichiers APKS sont enregistrés sous forme de fichiers compressés au format
 
 ## Comment générer un fichier APKS ?
 
-Lorsque l'Android App Bundle (AAB) est prêt, son comportement sur Google Play Store peut être testé pour le déploiement sur un appareil. Les fichiers APKS peuvent être générés, à cette fin, à partir de fichiers AAB et installés sur des appareils de test à l'aide de l'outil Android [bundletool](https://developer.android.com/studio/command-line/bundletool) de Google. Il fournit des outils de ligne de commande pour créer le fichier d'archive APKS à partir d'APK à l'aide de la commande suivante.
+Lorsque l'Android App Bundle (AAB) est prêt, son comportement sur Google Play Store peut être testé pour le déploiement sur un appareil. Les fichiers APKS peuvent être générés, à cette fin, à partir de fichiers AAB et installés sur des appareils de test à l'aide de l'outil Android [bundletool](https://developer.android.com/tools/bundletool) de Google. Il fournit des outils de ligne de commande pour créer le fichier d'archive APKS à partir d'APK à l'aide de la commande suivante.
 
 ```
 bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
@@ -46,5 +46,5 @@ bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
 
 ## Références
 
-* [bundletool - ligne de commande](https://developer.android.com/studio/command-line/bundletool)
+* [bundletool - ligne de commande](https://developer.android.com/tools/bundletool)
 

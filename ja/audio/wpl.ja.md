@@ -23,7 +23,7 @@
 
 ## WPL ファイル形式
 
-WPL (Windows Media Player Playlist) は、Microsoft Windows Media Player バージョン 9 以降で使用される独自のファイル形式です。マルチメディア プレイリストを格納するコンピュータ ファイル形式です。デフォルトでは、プレイリストは .wpl (Windows Media Player Playlist) 拡張子で保存されます。 [.m3u](/audio/m3u) 拡張子をサポートしていないデバイスでデータ ディスクを再生する場合は、代わりに [.m3u](/audio/m3u) 拡張子を使用できます。 WPL ファイルの要素は XML 形式で表されます。
+WPL (Windows Media Player Playlist) は、Microsoft Windows Media Player バージョン 9 以降で使用される独自のファイル形式です。マルチメディア プレイリストを格納するコンピュータ ファイル形式です。デフォルトでは、プレイリストは .wpl (Windows Media Player Playlist) 拡張子で保存されます。 [.m3u](/audio/m3u/) 拡張子をサポートしていないデバイスでデータ ディスクを再生する場合は、代わりに [.m3u](/audio/m3u/) 拡張子を使用できます。 WPL ファイルの要素は XML 形式で表されます。
 
 最上位要素「smil」は、ファイルの要素が Synchronized Multimedia Integration Language (SMIL) 構造に従うことを指定します。ファイルは .wpl 拡張子で作成および保存され、その MIME タイプは application/vnd.ms-wpl です。
 

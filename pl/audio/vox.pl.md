@@ -31,7 +31,7 @@ Jest używany głównie do nagrań dźwięcznych i kompresji. W tym formacie nie
 
 Pliki VOX są powiązane z Media Boards o nazwie DMV i JCT of Dialogic. Należą one do VoxWare i wielu innych programów. Kiedyś uważano go za przestarzały format.
 
-Jako przestarzały format nie był później używany. Podobnie jak inne formaty ADPCM, został skompresowany do 4 bitów. Funkcje tych plików są wystarczająco zbliżone do specyfikacji plików [WAV](/pl/audio/wav).
+Jako przestarzały format nie był później używany. Podobnie jak inne formaty ADPCM, został skompresowany do 4 bitów. Funkcje tych plików są wystarczająco zbliżone do specyfikacji plików [WAV](/pl/audio/wav/).
 
 
 ## Specyfikacje formatu ##

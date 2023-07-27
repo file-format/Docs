@@ -55,5 +55,5 @@ A több pálya esetén az MKV konténernek külön kell eldöntenie az egyes pá
 ## Hivatkozások ##
 
 - [Matroska specifikációs megjegyzések](https://www.matroska.org/technical/notes.html)
-- [MKV fájltároló támogatása sztereó 3D-s videókhoz és az MK3D-fájlokhoz](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d- fájlok/)
+- [MKV fájltároló támogatása sztereó 3D-s videókhoz és az MK3D-fájlokhoz](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d-files/)
 

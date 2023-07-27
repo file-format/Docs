@@ -19,7 +19,7 @@
 
 ## Czym jest plik LZ?
 
-Plik z rozszerzeniem .lz to skompresowany plik archiwum utworzony za pomocą Lzip, który jest darmowym narzędziem wiersza poleceń do kompresji. Obsługuje konkatenację w celu kompresji plików pomocniczych. Pliki LZ mają typ nośnika application/lzip i obsługują wyższe współczynniki kompresji niż [BZ2](/pl/compression/bz2). LZ są oparte na algorytmie LZMA (łańcuch Lempel-Ziv-Markov) i zawierają 32-bitową sumę kontrolną CRC oraz bajty identyfikacyjne do sprawdzania integralności pliku.
+Plik z rozszerzeniem .lz to skompresowany plik archiwum utworzony za pomocą Lzip, który jest darmowym narzędziem wiersza poleceń do kompresji. Obsługuje konkatenację w celu kompresji plików pomocniczych. Pliki LZ mają typ nośnika application/lzip i obsługują wyższe współczynniki kompresji niż [BZ2](/pl/compression/bz2/). LZ są oparte na algorytmie LZMA (łańcuch Lempel-Ziv-Markov) i zawierają 32-bitową sumę kontrolną CRC oraz bajty identyfikacyjne do sprawdzania integralności pliku.
 
 ## Format skompresowany LZMA
 

@@ -81,6 +81,6 @@ Siêu dữ liệu cấu trúc là cơ bản trong tệp MXF vì nó chứa thôn
 ## Người giới thiệu
 
 * [MXF - Wikipedia](https://en.wikipedia.org/wiki/Material_Exchange_Format)
-* [MXF - Báo cáo tiến độ](http://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
+* [MXF - Báo cáo tiến độ](https://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
 * [Thư viện mã nguồn mở C++ cho MXF](http://www.freemxf.org/)
 

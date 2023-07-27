@@ -19,7 +19,7 @@
 
 ## Co je soubor CBC?
 
-Soubor s příponou .cbc je komprimovanou sbírkou souborů komiksů pro elektronické knihy a obsahuje soubory [CBZ](/cs/ebook/cbz/) a [CBR](/cs/ebook/cbr/). Používá jej [Calibre](https://calibre-ebook.com/), aplikace pro převod elektronických knih, což je multiplatformní open-source správce elektronických knih a umožňuje vám spravovat vaše elektronické knihy a převádět je do různých formátů. . Soubor CBC obsahuje soubor .txt, comics.txt, který uvádí další soubory, které jsou součástí archivu. Online je k dispozici několik aplikací, které dokážou převést soubory CBC na [AZW3](/cs/ebook/azw3), [EPUB](/cs/ebook/epub/), [FB2](/cs/ebook/fb2/), [MOBI](/cs/ebook/ mobi/), [TXT](/cs/textový editor/txt/), [PDF](/cs/pdf/) a další oblíbené formáty souborů.
+Soubor s příponou .cbc je komprimovanou sbírkou souborů komiksů pro elektronické knihy a obsahuje soubory [CBZ](/cs/ebook/cbz/) a [CBR](/cs/ebook/cbr/). Používá jej [Calibre](https://calibre-ebook.com/), aplikace pro převod elektronických knih, což je multiplatformní open-source správce elektronických knih a umožňuje vám spravovat vaše elektronické knihy a převádět je do různých formátů. . Soubor CBC obsahuje soubor .txt, comics.txt, který uvádí další soubory, které jsou součástí archivu. Online je k dispozici několik aplikací, které dokážou převést soubory CBC na [AZW3](/cs/ebook/azw3/), [EPUB](/cs/ebook/epub/), [FB2](/cs/ebook/fb2/), [MOBI](/cs/ebook/ mobi/), [TXT](/cs/textový editor/txt/), [PDF](/cs/pdf/) a další oblíbené formáty souborů.
 
 ## Formát souboru CBC
 

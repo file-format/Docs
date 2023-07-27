@@ -55,5 +55,5 @@
 ## הפניות ##
 
 - [הערות למפרט Matroska](https://www.matroska.org/technical/notes.html)
-- [תמיכה במכולת קבצים של MKV עבור וידאו 3D בסטריאו וקובצי MK3D](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d- קבצים/)
+- [תמיכה במכולת קבצים של MKV עבור וידאו 3D בסטריאו וקובצי MK3D](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d-files/)
 

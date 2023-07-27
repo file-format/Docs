@@ -55,5 +55,5 @@ Per le tracce multiple, il contenitore MKV deve decidere la funzionalità di cia
 ## Riferimenti ##
 
 - [Note sulle specifiche Matroska](https://www.matroska.org/technical/notes.html)
-- [Supporto contenitore file MKV per video 3D stereo e file MK3D](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d- File/)
+- [Supporto contenitore file MKV per video 3D stereo e file MK3D](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d-files/)
 

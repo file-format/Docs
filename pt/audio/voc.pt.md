@@ -19,7 +19,7 @@
 
 ## O que é um arquivo VOC? ##
 
-Os arquivos de áudio VOC são criados por um gravador de voz chamado gravador de voz digital RCA. As entrevistas e palestras são gravadas por meio deste dispositivo. Esses arquivos são portáteis e podem ser compartilhados através da porta USB. Os arquivos VOC são compatíveis com os sistemas operacionais Windows. Esses arquivos VOC podem ser convertidos em outros formatos de arquivo mais populares, como [MP3](/pt/audio/mp3).
+Os arquivos de áudio VOC são criados por um gravador de voz chamado gravador de voz digital RCA. As entrevistas e palestras são gravadas por meio deste dispositivo. Esses arquivos são portáteis e podem ser compartilhados através da porta USB. Os arquivos VOC são compatíveis com os sistemas operacionais Windows. Esses arquivos VOC podem ser convertidos em outros formatos de arquivo mais populares, como [MP3](/pt/audio/mp3/).
  
 
 Os dados incluídos nesses arquivos podem estar em formato bruto ou em formato de contêiner. Esses arquivos foram usados em jogos do sistema operacional Disk. As placas de som blaster foram usadas para áudio e esses arquivos foram usados para isso.

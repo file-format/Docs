@@ -27,5 +27,5 @@ APL은 바이너리 GIS 파일이며 파일 형식 정보는 공개적으로 사
 
 ## 참조 ##
 
-* [아크패드 프로](http://www.esri.com/library/brochures/pdfs/arcpadbro.pdf)
+* [아크패드 프로](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/brochures/pdfs/arcpadbro.pdf)
 

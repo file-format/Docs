@@ -26,5 +26,5 @@ ECS dosyaları sıkıştırılmış ZIP arşivleri olarak kaydedilir. WinZip ve 
 
 ## Referanslar
 
-* [Dzip](http://speeddemosarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 

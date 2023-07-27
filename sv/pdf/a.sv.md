@@ -58,5 +58,5 @@ PDF/A-3 inkluderar alla överensstämmelsekrav för nivå 2 och tillåter inbäd
 ## Referenser ##
 
 * [PDF/A - av Wikipedia](https://en.wikipedia.org/wiki/PDF/A)
-* [Vitbok: PDF/A – Grunderna](http://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
+* [Vitbok: PDF/A – Grunderna](https://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
 

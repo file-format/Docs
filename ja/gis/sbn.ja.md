@@ -26,6 +26,6 @@ SBN ファイルはバイナリ ファイルとしてディスクに保存され
 
 ## 参考文献
 
-* [ESRI ShapeFile 技術説明](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf)
+* [ESRI ShapeFile 技術説明](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf)
 * [ESRI ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 

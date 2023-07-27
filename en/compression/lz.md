@@ -19,7 +19,7 @@
 
 ## What is an LZ file?
 
-A file with .lz extension is a compressed archive file created with Lzip, which is a free command-line tool for compression. It supports concatenation to compress support files. LZ files have media type application/lzip and support higher compression rations than [BZ2](/compression/bz2). LZ are based on the LZMA (Lempel-Ziv-Markov chain) algorithm and include a 32-bit CRC checksum and ident bytes for checking the integrity of the file.
+A file with .lz extension is a compressed archive file created with Lzip, which is a free command-line tool for compression. It supports concatenation to compress support files. LZ files have media type application/lzip and support higher compression rations than [BZ2](/compression/bz2/). LZ are based on the LZMA (Lempel-Ziv-Markov chain) algorithm and include a 32-bit CRC checksum and ident bytes for checking the integrity of the file.
 
 ## LZMA Compressed Format
 

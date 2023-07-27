@@ -28,7 +28,7 @@ Het OEB-bestandsformaat bestaat uit een set bestanden, inclusief een verplicht p
 De OEBPS 1.2 was een nauw gekoppelde update van de vorige versie (OEBPS 1.0.1). Het bood moderne functionaliteit op het gebied van weergavecontrole, inclusief onder andere verbeteringen in de markup-vocabulaire (nu een echte subset van XHTML 1.1), en sterk uitgebreide CSS-ondersteuning. Duurzaamheidsfactoren zijn ongewijzigd ten opzichte van de eerdere versie.
   
 
-De OEB-bundel met bestanden werd voornamelijk gebruikt als een middelgrote indeling, waarbij de publicatie aan eindgebruikers werd beheerd door uitgevers of aggregators die e-boeken aanleverden in vormen die geschikt waren voor verschillende e-boekkijkers. De opvolger van de versie, [EPUB](/nl/ebook/epub), zal de eindgebruikers eerder bereiken als een definitief formaat, maar ook als een middelgroot formaat.
+De OEB-bundel met bestanden werd voornamelijk gebruikt als een middelgrote indeling, waarbij de publicatie aan eindgebruikers werd beheerd door uitgevers of aggregators die e-boeken aanleverden in vormen die geschikt waren voor verschillende e-boekkijkers. De opvolger van de versie, [EPUB](/nl/ebook/epub/), zal de eindgebruikers eerder bereiken als een definitief formaat, maar ook als een middelgroot formaat.
 
 ## Referenties
 

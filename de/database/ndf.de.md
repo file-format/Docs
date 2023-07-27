@@ -23,7 +23,7 @@ Eine Datei mit der Erweiterung .ndf ist eine sekundäre Datenbankdatei, die von 
 
 ## NDF-Dateiformat
 
-Das NDF-Dateiformat unterscheidet sich nicht von [MDF](/de/database/mdf) und verwendet Seiten als grundlegende Einheit der Datenspeicherung. Jede Seite beginnt mit einem 96-Byte-Header, der Folgendes enthält:
+Das NDF-Dateiformat unterscheidet sich nicht von [MDF](/de/database/mdf/) und verwendet Seiten als grundlegende Einheit der Datenspeicherung. Jede Seite beginnt mit einem 96-Byte-Header, der Folgendes enthält:
 
 * Seiten-ID
 * Art der Struktur

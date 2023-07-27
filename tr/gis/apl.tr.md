@@ -27,5 +27,5 @@ APL, ikili GIS dosyalarıdır ve dosya biçimi bilgisi herkese açık değildir.
 
 ## Referanslar ##
 
-* [ArcPad Pro](http://www.esri.com/library/brochures/pdfs/arcpadbro.pdf)
+* [ArcPad Pro](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/brochures/pdfs/arcpadbro.pdf)
 

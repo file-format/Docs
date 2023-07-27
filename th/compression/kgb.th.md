@@ -23,7 +23,7 @@
 
 ## รูปแบบไฟล์ KGB
 
-ไม่มีรายละเอียดการใช้งานด้านเทคนิคเกี่ยวกับรูปแบบไฟล์ KGB มีการเข้ารหัส AES-256 เพื่อป้องกันไฟล์ที่เก็บถาวร KGB archiver ได้รับการพัฒนาใน Visual [C++](/th/programming/cpp) โดย Tomasz Pawlak ในเดือนเมษายน 2549 และเชื่อว่าจะบีบอัด [ไฟล์ 1 GB สูงสุด 10 MB](https://web.archive.org/ ไฟล์web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/)
+ไม่มีรายละเอียดการใช้งานด้านเทคนิคเกี่ยวกับรูปแบบไฟล์ KGB มีการเข้ารหัส AES-256 เพื่อป้องกันไฟล์ที่เก็บถาวร KGB archiver ได้รับการพัฒนาใน Visual [C++](/th/programming/cpp/) โดย Tomasz Pawlak ในเดือนเมษายน 2549 และเชื่อว่าจะบีบอัด [ไฟล์ 1 GB สูงสุด 10 MB](https://web.archive.org/ ไฟล์web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/)
 
 ## อ้างอิง
 

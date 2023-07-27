@@ -20,7 +20,7 @@
 
 A jelentéskészítő fájlok bizonyos jelentéskészítő szoftverekhez tartoznak, amelyek tartalmazzák az adatok egy vagy több adatforrásból történő megjelenítéséhez szükséges tervezési struktúrát. A jelentéskészítő szoftver bizonyos elemeket biztosít a jelentés különböző szakaszainak létrehozásához a különböző üzleti célokra. Ezek a jelentési elemek lehetnek táblázatok, diagramok, vizuális prezentációk és egyéb stílusok, amelyek megkönnyítik az információk elemzését.
 
-Néhány népszerű jelentési fájlformátum: [RDL](/hu/reporting/rdl/), [RDLC](/hu/reporting/rdlc) és [RPL](/hu/reporting/rpl/)
+Néhány népszerű jelentési fájlformátum: [RDL](/hu/reporting/rdl/), [RDLC](/hu/reporting/rdlc/) és [RPL](/hu/reporting/rpl/)
 
 
 ## A jelentésfájl-kiterjesztések és a kapcsolódó fájlformátumok listája

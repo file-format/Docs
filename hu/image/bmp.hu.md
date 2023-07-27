@@ -81,6 +81,6 @@ A képet valójában a pixeltömb 32 bites duplaszó-ábrázolása írja le. A p
 
 ## Referenciák ##
 
-* [Windows MetaFile formátum](http://msdn.microsoft.com/en-us/library/cc250370.aspx)
+* [Windows MetaFile formátum](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-wmf/4813e7fd-52d0-4f42-965f-228c8b7488d2)
 * [BMP fájlformátum](https://en.wikipedia.org/wiki/BMP_file_format)
 

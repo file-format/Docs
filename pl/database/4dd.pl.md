@@ -34,7 +34,7 @@ Wraz z wprowadzeniem na rynek 4th Dimension v3.1 w 1993 roku wydano 4D Client v1
 
 ## Specyfikacje formatu plików 4DD ##
 
-Plik danych zawiera wszystkie dane, które są wprowadzane do rekordów, jak również wszystkie dane, które są z nimi powiązane. Nazwa pliku danych pochodzi od nazwy wpisanej w oknie dialogowym tworzenia bazy danych, po której następuje [4DB](/pl/database/4db).
+Plik danych zawiera wszystkie dane, które są wprowadzane do rekordów, jak również wszystkie dane, które są z nimi powiązane. Nazwa pliku danych pochodzi od nazwy wpisanej w oknie dialogowym tworzenia bazy danych, po której następuje [4DB](/pl/database/4db/).
 
 Istniejący plik danych jest otwierany jak zwykle podczas ładowania pliku struktury 4D. W przypadku zmiany nazwy lub lokalizacji pliku okno dialogowe Otwórz folder danych umożliwia wybranie lub zbudowanie nowej bazy danych.
 

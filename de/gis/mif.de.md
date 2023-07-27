@@ -29,5 +29,5 @@ Das MIF-Dateiformat ist ein Vektordateiformat, das als reine ASCII-Textdatei ges
 
 ## Verweise
 
-* [MapInfo Professional – Wikipedia](http://en.wikipedia.org/wiki/MapInfo_Professional)
+* [MapInfo Professional – Wikipedia](https://en.wikipedia.org/wiki/MapInfo_Professional)
 

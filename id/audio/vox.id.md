@@ -31,7 +31,7 @@ Ini sebagian besar digunakan untuk rekaman suara dan kompresi. Dalam format ini,
 
 File VOX dikaitkan dengan Papan Media yang disebut DMV dan JCT of Dialogic. Ini milik VoxWare dan banyak perangkat lunak lainnya. Dulu dianggap sebagai format usang.
 
-Sebagai format yang ketinggalan jaman, itu tidak digunakan setelah itu. Mirip dengan format ADPCM lainnya, itu dikompresi menjadi 4 bit. Fitur file ini cukup mirip dengan spesifikasi file [WAV](/id/audio/wav).
+Sebagai format yang ketinggalan jaman, itu tidak digunakan setelah itu. Mirip dengan format ADPCM lainnya, itu dikompresi menjadi 4 bit. Fitur file ini cukup mirip dengan spesifikasi file [WAV](/id/audio/wav/).
 
 
 ## Spesifikasi Format ##

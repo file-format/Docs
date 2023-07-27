@@ -23,7 +23,7 @@ Een bestand met de extensie .lrx is een bijbehorend bestand voor Sony Broadband 
 
 ## LRX-bestandsindeling
 
-LRX-bestanden zijn in binaire bestandsindeling en alle inhoud in het bestand is gecodeerd in tegenstelling tot [LRS](/nl/ebook/lrs), wat een niet-gecodeerde indeling is. Een ander bijbehorend BBeB-bestandsformaat is LRS, dat op XML is gebaseerd en voor mensen leesbaar is in elke teksteditor. De header van LRX-bestanden bevat informatie zoals:
+LRX-bestanden zijn in binaire bestandsindeling en alle inhoud in het bestand is gecodeerd in tegenstelling tot [LRS](/nl/ebook/lrs/), wat een niet-gecodeerde indeling is. Een ander bijbehorend BBeB-bestandsformaat is LRS, dat op XML is gebaseerd en voor mensen leesbaar is in elke teksteditor. De header van LRX-bestanden bevat informatie zoals:
 
 * Versie
 * Identificatie van rootobjecten

@@ -43,7 +43,7 @@ Mogą istnieć również inne opcjonalne pliki, które mają taką samą nazwę 
 
 ## Specyfikacje formatu plików SHP
 
-Otwarte specyfikacje pliku shapefile są dostępne online w ESRI w formie [Opisu technicznego](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) i szczegółowo opisują ogólną strukturę pliku. Informacje w głównym pliku .shp składają się z nagłówków i rekordów. Po nagłówku pliku o stałej długości następują rekordy o zmiennej długości, gdzie każdy rekord składa się z nagłówka rekordu o stałej długości, po którym następuje zawartość rekordu o zmiennej długości.
+Otwarte specyfikacje pliku shapefile są dostępne online w ESRI w formie [Opisu technicznego](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) i szczegółowo opisują ogólną strukturę pliku. Informacje w głównym pliku .shp składają się z nagłówków i rekordów. Po nagłówku pliku o stałej długości następują rekordy o zmiennej długości, gdzie każdy rekord składa się z nagłówka rekordu o stałej długości, po którym następuje zawartość rekordu o zmiennej długości.
 
 ### Główny nagłówek pliku SHP
 
@@ -116,5 +116,5 @@ Przykłady innych typów kształtów można znaleźć w dokumencie opisu technic
 
 ## Bibliografia ##
 
-* [Opis techniczny ESRI Shapefile](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) autorstwa ESRI
+* [Opis techniczny ESRI Shapefile](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) autorstwa ESRI
 

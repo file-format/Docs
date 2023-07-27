@@ -29,5 +29,5 @@ MIF ファイル形式は、プレーン ASCII テキスト ファイルとし�
 
 ## 参考文献
 
-* [MapInfo Professional - ウィキペディア](http://en.wikipedia.org/wiki/MapInfo_Professional)
+* [MapInfo Professional - ウィキペディア](https://en.wikipedia.org/wiki/MapInfo_Professional)
 

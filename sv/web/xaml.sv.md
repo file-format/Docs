@@ -27,7 +27,7 @@ XAML är ett val av användning i .NET Framework 3.0- och .NET Framework 4.0-tek
 
 ## XAML filformat
 
-XAML är helt baserat på XML-formatet. De initiala specifikationerna för [XAML Object Mapping](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) publicerades i 2006, följt av en annan [version](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) publicerad i 2009. Dessa specifikationer definierar två abstrakta informationsmodeller:
+XAML är helt baserat på XML-formatet. De initiala specifikationerna för [XAML Object Mapping](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) publicerades i 2006, följt av en annan [version](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) publicerad i 2009. Dessa specifikationer definierar två abstrakta informationsmodeller:
 
 * XAML Schema Information Set Model
 * XAML Information Set Model
@@ -37,5 +37,5 @@ Xaml-informationsuppsättningen (förkortat 'Xaml Infoset') definierar strukture
 ## Referenser
 
 * [XAML - av Wikipedia](https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language)
-* [XAML-filformatspecifikationer](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf)
+* [XAML-filformatspecifikationer](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf)
 

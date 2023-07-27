@@ -27,7 +27,7 @@ XAML は、WPF、Silverlight、Windows Workflow Foundation (WF) などの .NET F
 
 ## XAML ファイル形式
 
-XAML は完全に XML 形式に基づいています。 [XAML オブジェクト マッピング](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) の初期仕様は、 2006 年に別の [バージョン](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) で公開されました。 2009. これらの仕様では、2 つの抽象情報モデルが定義されています。
+XAML は完全に XML 形式に基づいています。 [XAML オブジェクト マッピング](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) の初期仕様は、 2006 年に別の [バージョン](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) で公開されました。 2009. これらの仕様では、2 つの抽象情報モデルが定義されています。
 
 * XAML スキーマ情報セット モデル
 * XAML 情報セット モデル
@@ -37,5 +37,5 @@ Xaml 情報セット (略して「Xaml Infoset」) は、Xaml インスタンス
 ## 参考文献
 
 * [XAML - ウィキペディアによる](https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language)
-* [XAML ファイル形式の仕様](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf)
+* [XAML ファイル形式の仕様](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf)
 

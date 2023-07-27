@@ -22,7 +22,7 @@ Il formato di file EML rappresenta i messaggi di posta elettronica salvati utili
 
 ## Breve storia di EML
 
-Le specifiche del formato file EML sono disponibili secondo [RFC 822](http://www.ietf.org/rfc/rfc0822.txt) Formato standard. Prima di RFC-822, RFC-733 governava le regole dello scambio di messaggi di rete fino a quando nel 1982 il primo è stato creato come miglioramento del laterale stabilendo standard ARPA. Allo stesso tempo, Microsoft ha creato i propri moduli COM per lo sviluppo del proprio client di posta elettronica, ovvero Outlook Express. RFC-822 ha intrapreso la strada per essere stabilito come formato proprietario quando Microsoft ha deviato dallo standard aperto e ha creato il formato di file [PST](/it/email/pst/) in cui le e-mail vengono salvate in un formato di database altamente strutturato. Ciò ha comportato problemi per gli utenti di client di posta elettronica non Microsoft quando le e-mail venivano inoltrate da Microsoft Outlook.
+Le specifiche del formato file EML sono disponibili secondo [RFC 822](https://www.ietf.org/rfc/rfc0822.txt) Formato standard. Prima di RFC-822, RFC-733 governava le regole dello scambio di messaggi di rete fino a quando nel 1982 il primo è stato creato come miglioramento del laterale stabilendo standard ARPA. Allo stesso tempo, Microsoft ha creato i propri moduli COM per lo sviluppo del proprio client di posta elettronica, ovvero Outlook Express. RFC-822 ha intrapreso la strada per essere stabilito come formato proprietario quando Microsoft ha deviato dallo standard aperto e ha creato il formato di file [PST](/it/email/pst/) in cui le e-mail vengono salvate in un formato di database altamente strutturato. Ciò ha comportato problemi per gli utenti di client di posta elettronica non Microsoft quando le e-mail venivano inoltrate da Microsoft Outlook.
 
 Era il 2001 quando lo standard 822 è stato migliorato in 2822 - Internet Message Format, attualmente in uso per creare, leggere e inviare messaggi EML in formato MIME RFC-822.
 
@@ -86,5 +86,5 @@ ID allegato X: f_jkhztmd43
 
 ## Riferimenti
 
-* [RFC 822](http://www.ietf.org/rfc/rfc0822.txt)
+* [RFC 822](https://www.ietf.org/rfc/rfc0822.txt)
 

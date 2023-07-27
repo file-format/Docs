@@ -19,11 +19,11 @@
 
 ## Ce este un fișier GADGET?
 
-Un fișier GADGET constă dintr-un mic program software care se execută în bara laterală Windows Vista sau Windows 7. Acesta comprimă mai multe fișiere bazate pe web, iar fișierele pot cuprinde fișierele [.html](/ro/web/html), [.css](/ro/web/css) sau [.js](/ro/web/js), precum și alte fișiere web. Fișierele GADGET sunt folosite pentru componente mici, cum ar fi instrumente de căutare, fluxuri de știri, utilitare de sistem și jocuri mici. Deși GADGET-urile sunt găzduite de Sidebar, nu sunt specifice zonei Sidebar; acestea pot fi demontate și mutate pe desktop după cum doriți.
+Un fișier GADGET constă dintr-un mic program software care se execută în bara laterală Windows Vista sau Windows 7. Acesta comprimă mai multe fișiere bazate pe web, iar fișierele pot cuprinde fișierele [.html](/ro/web/html/), [.css](/ro/web/css/) sau [.js](/ro/web/js/), precum și alte fișiere web. Fișierele GADGET sunt folosite pentru componente mici, cum ar fi instrumente de căutare, fluxuri de știri, utilitare de sistem și jocuri mici. Deși GADGET-urile sunt găzduite de Sidebar, nu sunt specifice zonei Sidebar; acestea pot fi demontate și mutate pe desktop după cum doriți.
 
 ## Format de fișier GADGET
 
-Fișierul GADGET este o arhivă redenumită [ZIP](/ro/compression/zip) care conține o colecție de fișiere HTML, XML, JScript și CSS (Cascading Style Sheets). Instalarea conține descărcarea fișierului .gadget și activarea procesului de descărcare pentru a instala componenta sau salvarea fișierului .gadget în sistemul local și dublu clic pentru a începe procesul de instalare.
+Fișierul GADGET este o arhivă redenumită [ZIP](/ro/compression/zip/) care conține o colecție de fișiere HTML, XML, JScript și CSS (Cascading Style Sheets). Instalarea conține descărcarea fișierului .gadget și activarea procesului de descărcare pentru a instala componenta sau salvarea fișierului .gadget în sistemul local și dublu clic pentru a începe procesul de instalare.
 
 Practic, un GADGET conține două fișiere:
 

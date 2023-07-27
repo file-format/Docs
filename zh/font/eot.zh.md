@@ -38,35 +38,35 @@ EMBEDDEDFONT 结构经历了三个修订，每个修订都在结构末尾添加�
 |unsigned long|FontDataSize|OpenType 字体 (FontData) 的长度（以字节为单位）|
 |unsigned long|版本|此格式的版本号 - 0x00020002|
 |unsigned long|标志|处理标志|
-|byte[10]|FontPANOSE|此字体的 PANOSE 值 - 请参阅 http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|byte|Charset|在 Windows 中，这是从 TEXTMETRIC.tmCharSet 派生的。此值指定字体的字符集。 DEFAULT_CHARSET (0x01) 表示没有偏好。 - 请参阅 http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
-|byte|Italic|如果在 OS/2.fsSelection 中设置了 ITALIC 位，则值为 0x01 - 请参阅 http://www.microsoft.com/typography/otspec/os2.htm#fss|
-|unsigned long|Weight|此字体的重量值 - 请参阅 http://www.microsoft.com/typography/otspec/os2.htm#wtc|
-|unsigned short|fsType|提供有关嵌入权限信息的类型标志 - 请参阅 http://www.microsoft.com/typography/otspec/os2.htm#fst|
+|byte[10]|FontPANOSE|此字体的 PANOSE 值 - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
+|byte|Charset|在 Windows 中，这是从 TEXTMETRIC.tmCharSet 派生的。此值指定字体的字符集。 DEFAULT_CHARSET (0x01) 表示没有偏好。 - 请参阅 https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
+|byte|Italic|如果在 OS/2.fsSelection 中设置了 ITALIC 位，则值为 0x01 - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss|
+|unsigned long|Weight|此字体的重量值 - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|
+|unsigned short|fsType|提供有关嵌入权限信息的类型标志 - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|
 |unsigned short|MagicNumber|EOT 文件的幻数 - 0x504C。用于检查数据损坏。|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1（位 0-31） - 请参阅 http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2（位 32-63） - 请参阅 http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3（位 64-95） - 请参阅 http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bits 96-127) - 见 http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|CodePageRange1|CodePageRange1（位 0-31） - 请参阅 http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CodePageRange2|CodePageRange2（位 32-63） - 请参阅 http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - 请参阅 http://www.microsoft.com/typography/otspec/head.htm|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1（位 0-31） - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2（位 32-63） - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3（位 64-95） - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bits 96-127) - 见 https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|CodePageRange1|CodePageRange1（位 0-31） - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CodePageRange2|CodePageRange2（位 32-63） - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Reserved1|保留 - 必须为 0|
 |unsigned long|Reserved2|保留 - 必须为 0|
 |unsigned long|Reserved3|保留 - 必须为 0|
 |unsigned long|Reserved4|保留 - 必须为 0|
 |unsigned short|Padding1|填充以保持长对齐。填充值必须始终设置为 0x0000。|
 |unsigned short|FamilyNameSize|FamilyName 数组使用的字节数|
-|byte|FamilyName[FamilyNameSize]|UTF-16 字符数组 FamilyNameSize 字节的长度。这是在字体名称表中找到的英文字体系列字符串（名称 ID = 1） - 请参阅 http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FamilyName[FamilyNameSize]|UTF-16 字符数组 FamilyNameSize 字节的长度。这是在字体名称表中找到的英文字体系列字符串（名称 ID = 1） - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|填充值必须始终设置为 0x0000。|
 |unsigned short|StyleNameSize|StyleName 使用的字节数|
-|byte|StyleName[StyleNameSize]|UTF-16 字符数组 StyleNameSize 字节的长度。这是在字体名称表中找到的英文字体子族字符串（名称 ID = 2） - 请参阅 http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|UTF-16 字符数组 StyleNameSize 字节的长度。这是在字体名称表中找到的英文字体子族字符串（名称 ID = 2） - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|填充值必须始终设置为 0x0000。|
 |unsigned short|VersionNameSize|VersionName 使用的字节数|
-|bytes|VersionName[VersionNameSize]|UTF-16 字符数组，VersionNameSize 字节的长度。这是在字体名称表中找到的英文版本字符串（名称 ID = 5） - 请参阅 http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|UTF-16 字符数组，VersionNameSize 字节的长度。这是在字体名称表中找到的英文版本字符串（名称 ID = 5） - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|填充值必须始终设置为 0x0000。|
 |unsigned short|FullNameSize|FullName 使用的字节数|
-|byte|FullName[FullNameSize]|UTF-16 字符数组 FullNameSize 字节的长度。这是在字体名称表中找到的英文全名字符串（名称 ID = 4） - 请参阅 http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|UTF-16 字符数组 FullNameSize 字节的长度。这是在字体名称表中找到的英文全名字符串（名称 ID = 4） - 请参阅 https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|填充值必须始终设置为 0x0000。|
 |unsigned short|RootStringSize|RootString 数组使用的字节数|
 |byte|RootString[RootStringSize]|UTF-16 字符数组，RootStringSize 字节的长度。|

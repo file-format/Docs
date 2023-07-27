@@ -20,7 +20,7 @@
 
 ## Vad är STC fil?
 
-En STC-fil är en kalkylarksmallfil som skapades och stöddes ursprungligen av programvaran [StarOffice](http://www.staroffice.com). Den innehåller inställningar för att skapa andra kalkylbladsfiler som använder mallens information för att ställa in kalkylbladsinställningarna som sidformatering, teckenstorlek, marginaler, diagram etc. Filformatet antogs senare av Apache OpenOffice, men ersattes senare med användningen av filformatet [.ots](/sv/spreadsheet/ots/) för att lagra mallfilinformationen. STC-filer kan öppnas med OpenOffice Calc, Planamesa NeoOffice och LibreOffice.
+En STC-fil är en kalkylarksmallfil som skapades och stöddes ursprungligen av programvaran [StarOffice](https://www.staroffice.com/). Den innehåller inställningar för att skapa andra kalkylbladsfiler som använder mallens information för att ställa in kalkylbladsinställningarna som sidformatering, teckenstorlek, marginaler, diagram etc. Filformatet antogs senare av Apache OpenOffice, men ersattes senare med användningen av filformatet [.ots](/sv/spreadsheet/ots/) för att lagra mallfilinformationen. STC-filer kan öppnas med OpenOffice Calc, Planamesa NeoOffice och LibreOffice.
 
 ## STC filformat
 

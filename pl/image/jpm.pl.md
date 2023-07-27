@@ -23,14 +23,14 @@ JPM odnosi się do systemu kodowania obrazu JPEG 2000, część 6, który jest u
 
 ## Format pliku JPM
 
-Format pliku JPM jest zdefiniowany przez [ISO/IEC 15444-6:2003](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=61124) — obraz JPEG 2000 system kodowania -- Część 6: Złożony format pliku obrazu. Obraz złożony może zawierać obrazy zeskanowane, obrazy syntetyczne lub oba, co wymaga połączenia metod kompresji ciągłej i dwupoziomowej. Format pliku JPM definiuje model kompozycji, który opisuje metodę łączenia wielu obrazów w celu wygenerowania złożonego obrazu przy użyciu wielowarstwowego modelu obrazowania Mixed Raster Content (MRC), zdefiniowanego w ITU-T T.44 | ISO/IEC 16485.
+Format pliku JPM jest zdefiniowany przez [ISO/IEC 15444-6:2003](https://www.iso.org/standard/61124.html) — obraz JPEG 2000 system kodowania -- Część 6: Złożony format pliku obrazu. Obraz złożony może zawierać obrazy zeskanowane, obrazy syntetyczne lub oba, co wymaga połączenia metod kompresji ciągłej i dwupoziomowej. Format pliku JPM definiuje model kompozycji, który opisuje metodę łączenia wielu obrazów w celu wygenerowania złożonego obrazu przy użyciu wielowarstwowego modelu obrazowania Mixed Raster Content (MRC), zdefiniowanego w ITU-T T.44 | ISO/IEC 16485.
 
 ### Specyfikacje JPM
 Standard formatu plików JPM określa, że jest to kontener binarny reprezentujący złożony obraz, za pomocą którego wiele obrazów można połączyć w jeden obraz. Ustawia mechanizm grupowania wielu obrazów w hierarchii obiektów układu, stron i kolekcji stron w celu przechowywania JPEG 2000 i innych skompresowanych formatów danych obrazu. Format zawiera mechanizm włączania metadanych (często określanych jako metadane strukturalne w projektach bibliotek cyfrowych).
 
 ## Bibliografia
 
-* [Zalecenia ITU-T. T.805](http://www.itu.int/rec/T-REC-T.805/en)
-* [ISO/IEC 15444-6:2013](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=61124)
-* [Wikipedia: JPEG 2000](http://en.wikipedia.org/wiki/JPEG_2000)
+* [Zalecenia ITU-T. T.805](https://www.itu.int/rec/T-REC-T.805/en)
+* [ISO/IEC 15444-6:2013](https://www.iso.org/standard/61124.html)
+* [Wikipedia: JPEG 2000](https://en.wikipedia.org/wiki/JPEG_2000)
 

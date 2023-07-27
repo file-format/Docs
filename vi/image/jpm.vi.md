@@ -23,14 +23,14 @@ JPM đề cập đến hệ thống mã hóa hình ảnh JPEG 2000 Phần 6 đư
 
 ## Định dạng tệp JPM
 
-Định dạng tệp JPM được xác định bởi [ISO/IEC 15444-6:2003](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=61124) -- hình ảnh JPEG 2000 hệ thống mã hóa - Phần 6: Định dạng tệp ảnh ghép. Một hình ảnh ghép có thể chứa hình ảnh được quét, hình ảnh tổng hợp hoặc cả hai, yêu cầu kết hợp các phương pháp nén hai cấp độ và tông màu liên tục. Định dạng tệp JPM xác định mô hình tổng hợp mô tả phương pháp kết hợp nhiều ảnh để tạo ảnh ghép bằng cách sử dụng mô hình ảnh Nội dung Raster hỗn hợp (MRC) nhiều lớp, được định nghĩa trong ITU-T T.44 | ISO/IEC 16485.
+Định dạng tệp JPM được xác định bởi [ISO/IEC 15444-6:2003](https://www.iso.org/standard/61124.html) -- hình ảnh JPEG 2000 hệ thống mã hóa - Phần 6: Định dạng tệp ảnh ghép. Một hình ảnh ghép có thể chứa hình ảnh được quét, hình ảnh tổng hợp hoặc cả hai, yêu cầu kết hợp các phương pháp nén hai cấp độ và tông màu liên tục. Định dạng tệp JPM xác định mô hình tổng hợp mô tả phương pháp kết hợp nhiều ảnh để tạo ảnh ghép bằng cách sử dụng mô hình ảnh Nội dung Raster hỗn hợp (MRC) nhiều lớp, được định nghĩa trong ITU-T T.44 | ISO/IEC 16485.
 
 ### Thông số JPM
 Tiêu chuẩn định dạng tệp JPM chỉ định nó là một vùng chứa nhị phân để biểu thị một hình ảnh ghép theo đó nhiều hình ảnh có thể được kết hợp thành một hình ảnh duy nhất. Nó thiết lập cơ chế để nhóm nhiều hình ảnh trong một hệ thống phân cấp các đối tượng bố cục, trang và bộ sưu tập trang để lưu trữ JPEG 2000 và các định dạng dữ liệu hình ảnh nén khác. Định dạng bao gồm cơ chế kết hợp siêu dữ liệu (thường được gọi là siêu dữ liệu cấu trúc trong các dự án thư viện số).
 
 ## Người giới thiệu
 
-* [ITU-T Rec. T.805](http://www.itu.int/rec/T-REC-T.805/en)
-* [ISO/IEC 15444-6:2013](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=61124)
-* [Wikipedia:JPEG 2000](http://vi.wikipedia.org/wiki/JPEG_2000)
+* [ITU-T Rec. T.805](https://www.itu.int/rec/T-REC-T.805/en)
+* [ISO/IEC 15444-6:2013](https://www.iso.org/standard/61124.html)
+* [Wikipedia:JPEG 2000](https://en.wikipedia.org/wiki/JPEG_2000)
 

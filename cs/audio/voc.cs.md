@@ -19,7 +19,7 @@
 
 ## Co je soubor VOC? ##
 
-Zvukové soubory VOC jsou vytvářeny hlasovým záznamníkem s názvem RCA digital voice recorder. Prostřednictvím tohoto zařízení jsou nahrávány rozhovory a přednášky. Tyto soubory jsou přenosné a lze je sdílet prostřednictvím portu USB. Soubory VOC jsou kompatibilní s operačními systémy Windows. Tyto soubory VOC lze převést do jiných formátů souborů, které jsou populárnější, například [MP3](/cs/audio/mp3).
+Zvukové soubory VOC jsou vytvářeny hlasovým záznamníkem s názvem RCA digital voice recorder. Prostřednictvím tohoto zařízení jsou nahrávány rozhovory a přednášky. Tyto soubory jsou přenosné a lze je sdílet prostřednictvím portu USB. Soubory VOC jsou kompatibilní s operačními systémy Windows. Tyto soubory VOC lze převést do jiných formátů souborů, které jsou populárnější, například [MP3](/cs/audio/mp3/).
  
 
 Data obsažená v těchto souborech mohou být v nezpracované formě nebo ve formátu kontejneru. Tyto soubory byly použity ve hrách operačního systému Disk. Sound blaster karty byly použity pro zvuk a tyto soubory byly použity k tomu.

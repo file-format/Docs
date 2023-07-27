@@ -28,6 +28,6 @@ DWT는 쉽게 사용할 수 있는 미리 정의된 값이 있는 DWG로 간주�
 ### 참조
 
 * [DWG 파일 형식 사양](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [DWG 파일 사양](https://www.scan2cad.com/dwg/file-spec/)
+* [DWG 파일 사양](https://www.scan2cad.com/blog/dwg/file-spec/)
 * [DWG - 위키피디아 작성](https://en.wikipedia.org/wiki/.dwg)
 

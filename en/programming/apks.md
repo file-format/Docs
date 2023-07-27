@@ -28,7 +28,7 @@ APKS files are saved as compressed files using [ZIP](/compression/zip/) file for
 
 ## How to generate an APKS file?
 
-When the Android App Bundle (AAB) is ready, its behaviour on Google Play store can be tested for deployment to a device. APKS files can be generated, for this purpose, from AAB files and installed on test devices using the Google's Android [bundletool](https://developer.android.com/studio/command-line/bundletool). It provides command line tools to create the APKS archive file from APKs using the following command.
+When the Android App Bundle (AAB) is ready, its behaviour on Google Play store can be tested for deployment to a device. APKS files can be generated, for this purpose, from AAB files and installed on test devices using the Google's Android [bundletool](https://developer.android.com/tools/bundletool). It provides command line tools to create the APKS archive file from APKs using the following command.
 
 ```
 bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
@@ -46,4 +46,4 @@ bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
 
 ## References
 
- * [bundletool - commandline](https://developer.android.com/studio/command-line/bundletool)
+ * [bundletool - commandline](https://developer.android.com/tools/bundletool)

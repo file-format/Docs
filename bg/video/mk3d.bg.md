@@ -55,5 +55,5 @@ MKV файловият контейнер поддържа и двете.
 ## Препратки ##
 
 - [Бележки за спецификациите на Matroska](https://www.matroska.org/technical/notes.html)
-- [Поддръжка на MKV файлов контейнер за стерео 3D видео и MK3D файловете](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d- файлове/)
+- [Поддръжка на MKV файлов контейнер за стерео 3D видео и MK3D файловете](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d-files/)
 

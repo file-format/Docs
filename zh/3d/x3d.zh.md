@@ -94,6 +94,6 @@ X3D 场景文件有一个通用的文件结构：
 ## 参考 ＃＃
 
 * [X3D - 维基百科](https://en.wikipedia.org/wiki/X3D)
-* [Web3D 联盟官方网站](http://www.web3d.org/)
-* [X3D官网](http://www.web3d.org/x3d/what-x3d)
+* [Web3D 联盟官方网站](https://www.web3d.org/)
+* [X3D官网](https://www.web3d.org/x3d/what-x3d)
 

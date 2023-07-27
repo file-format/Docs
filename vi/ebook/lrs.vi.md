@@ -19,7 +19,7 @@
 
 ## Tệp LRS là gì?
 
-Một tệp có phần mở rộng .lrs (Librie Reader Source) đề cập đến một tệp trung gian được Sony Portable Reader sử dụng. Nó chứa thông tin đóng vai trò là nguồn để tạo Sách điện tử băng thông rộng của Sony (BBeB). Các tệp LRS chứa thông tin chi tiết về tệp Sách điện tử dưới dạng mô tả nội dung và thuộc tính. Các tệp LRS được dùng để tạo các tệp [LRF](/vi/ebook/lrf) và LRX bằng cách sử dụng các công cụ và API có sẵn công khai. Có thể sử dụng một số ứng dụng phần mềm như Calibre, BookDesignerMkelrf và Canon Book Creator để mở các tệp LRS trên Windows, Linux và MAC.
+Một tệp có phần mở rộng .lrs (Librie Reader Source) đề cập đến một tệp trung gian được Sony Portable Reader sử dụng. Nó chứa thông tin đóng vai trò là nguồn để tạo Sách điện tử băng thông rộng của Sony (BBeB). Các tệp LRS chứa thông tin chi tiết về tệp Sách điện tử dưới dạng mô tả nội dung và thuộc tính. Các tệp LRS được dùng để tạo các tệp [LRF](/vi/ebook/lrf/) và LRX bằng cách sử dụng các công cụ và API có sẵn công khai. Có thể sử dụng một số ứng dụng phần mềm như Calibre, BookDesignerMkelrf và Canon Book Creator để mở các tệp LRS trên Windows, Linux và MAC.
 
 ## Định dạng tệp LRS
 

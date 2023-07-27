@@ -39,7 +39,7 @@ En .hs-fil kan innehålla följande information.
 
 ## Java HS filformat
 
-Java HS-filerna är i XML-filformat och är baserade på World Wide Web Consortium (W3C) Extended Markiup Language föreslagen rekommendation [PR-xml-971208](http://www.w3.org/TR/PR-xml- 971208). Detta innebär att en Java HS-fil är i mänskligt läsbart XML-filformat som kan öppnas i alla XML-läsarapplikationer.
+Java HS-filerna är i XML-filformat och är baserade på World Wide Web Consortium (W3C) Extended Markiup Language föreslagen rekommendation [PR-xml-971208](https://www.w3.org/TR/PR-xml-971208). Detta innebär att en Java HS-fil är i mänskligt läsbart XML-filformat som kan öppnas i alla XML-läsarapplikationer.
 
 ### Exempel på Java HS-filformat
 
@@ -159,7 +159,7 @@ Som alla programmeringsspråk är HS-filer skrivna i vanligt textformat som är 
 
 ### Exempel på HS-filformat
 
-Koden kan skrivas i en .hs-fil och kompileras med en Haskell-kompilator som t.ex. [GHC](http://haskell.org/ghc). Följande kodrad sparas som `HelloWorld.hs` som visas i följande exempel.
+Koden kan skrivas i en .hs-fil och kompileras med en Haskell-kompilator som t.ex. [GHC](https://haskell.org/ghc). Följande kodrad sparas som `HelloWorld.hs` som visas i följande exempel.
 
 ```
 main = putStrLn "Hello, World!"

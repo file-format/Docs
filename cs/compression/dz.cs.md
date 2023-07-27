@@ -19,7 +19,7 @@
 
 ## Co je soubor DZ?
 
-Soubor s příponou .dz je komprimovaný archiv vytvořený pomocí nástroje příkazového řádku [Dzip](http://speeddemosarchive.com/dzip/). Nabízí vyšší kompresní poměr než jiné formáty kompresních souborů. Dzip umí také dekomprimovat komprimované soubory a extrakce souborů je rychlejší. Dzip přichází s plnou integrací pro prostředí Windows pro přijímání přetažených souborů s funkcí, která zabraňuje duplikaci souborů při přetažení do archivu. Stejně jako soubory [RAR](/cs/compression/rar/) dokáže Dzip ze svých souborů .dz vytvářet samorozbalovací spustitelné soubory. Poměrně malá velikost nástroje Dzip (130 kB) umožňuje přenášet tento nástroj na disk.
+Soubor s příponou .dz je komprimovaný archiv vytvořený pomocí nástroje příkazového řádku [Dzip](https://speeddemosarchive.com/dzip/). Nabízí vyšší kompresní poměr než jiné formáty kompresních souborů. Dzip umí také dekomprimovat komprimované soubory a extrakce souborů je rychlejší. Dzip přichází s plnou integrací pro prostředí Windows pro přijímání přetažených souborů s funkcí, která zabraňuje duplikaci souborů při přetažení do archivu. Stejně jako soubory [RAR](/cs/compression/rar/) dokáže Dzip ze svých souborů .dz vytvářet samorozbalovací spustitelné soubory. Poměrně malá velikost nástroje Dzip (130 kB) umožňuje přenášet tento nástroj na disk.
 
 ## Formát souboru DZ
 
@@ -27,5 +27,5 @@ DZ je proprietární formát souboru a jeho technické podrobnosti nejsou k disp
 
 ## Reference
 
-* [Dzip](http://speeddemosarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 

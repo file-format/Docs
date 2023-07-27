@@ -19,7 +19,7 @@
 
 ## Ce este un fișier DZ?
 
-Un fișier cu extensia .dz este o arhivă comprimată creată cu utilitarul de linie de comandă [Dzip](http://speeddemosarchive.com/dzip/). Oferă un raport de compresie mai mare decât alte formate de fișiere de compresie. Dzip poate decomprima și fișierele comprimate, iar extragerea fișierelor este mai rapidă. Dzip vine cu o integrare completă pentru shell-ul Windows pentru a accepta fișiere trasate cu funcția de a evita duplicarea fișierelor atunci când sunt trase în arhivă. La fel ca fișierele [RAR](/ro/compression/rar/), Dzip este capabil să creeze fișiere executabile auto-extractabile din fișierele sale .dz. Dimensiunea relativ mică a utilitarului Dzip (130k) face posibilă transportarea acestui utilitar pe disc.
+Un fișier cu extensia .dz este o arhivă comprimată creată cu utilitarul de linie de comandă [Dzip](https://speeddemosarchive.com/dzip/). Oferă un raport de compresie mai mare decât alte formate de fișiere de compresie. Dzip poate decomprima și fișierele comprimate, iar extragerea fișierelor este mai rapidă. Dzip vine cu o integrare completă pentru shell-ul Windows pentru a accepta fișiere trasate cu funcția de a evita duplicarea fișierelor atunci când sunt trase în arhivă. La fel ca fișierele [RAR](/ro/compression/rar/), Dzip este capabil să creeze fișiere executabile auto-extractabile din fișierele sale .dz. Dimensiunea relativ mică a utilitarului Dzip (130k) face posibilă transportarea acestui utilitar pe disc.
 
 ## Format de fișier DZ
 
@@ -27,5 +27,5 @@ DZ este un format de fișier proprietar și detaliile sale tehnice nu sunt dispo
 
 ## Referințe
 
-* [Dzip](http://speeddemosarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 

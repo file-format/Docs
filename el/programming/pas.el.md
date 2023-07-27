@@ -66,5 +66,5 @@ unit Unit1;
 ## βιβλιογραφικές αναφορές
 
 * [Κατανόηση των Αρχείων Προέλευσης Έργου και Μονάδας των Δελφών](https://www.thoughtco.com/understanding-delphi-project-files-dpr-1057652)
-* [Γράφοντας το πρώτο σας πρόγραμμα Delphi](http://www.delphibasics.co.uk/Article.asp?Name=FirstPgm)
+* [Γράφοντας το πρώτο σας πρόγραμμα Delphi](http://www.delphibasics.co.uk/Article.php?Name=FirstPgm)
 

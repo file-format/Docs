@@ -19,7 +19,7 @@
 
 ## Wat is een MP-bestand?
 
-Een MP-bestand is een vectorafbeeldingsbestand dat is gegenereerd door de programmeertaal MetaPost om afbeeldingen te maken. Vectorafbeeldingen die zijn gemaakt met het MP-bestandsformaat worden opgeslagen als [EPS](/nl/image/eps/) (Encapsulated PostScript)-bestanden. Bovendien wordt MetaPost geleverd met TeX- en Metafont-frameworks en kunnen MP-bestanden worden gegenereerd vanuit de TEX- en LTX-bestanden die door deze applicaties worden gebruikt. MP-bestanden bevatten tekeninstructies en wiskundige algoritmische tekeningen voor het renderen van het EPS-uitvoerbestand. De PDFTex-engine kan de gemaakte EPS gebruiken om [PDF](/nl/pdf/)-bestanden rechtstreeks te genereren.
+Een MP-bestand is een vectorafbeeldingsbestand dat is gegenereerd door de programmeertaal MetaPost om afbeeldingen te maken. Vectorafbeeldingen die zijn gemaakt met het MP-bestandsformaat worden opgeslagen als [EPS](/nl/page-description-language/eps/) (Encapsulated PostScript)-bestanden. Bovendien wordt MetaPost geleverd met TeX- en Metafont-frameworks en kunnen MP-bestanden worden gegenereerd vanuit de TEX- en LTX-bestanden die door deze applicaties worden gebruikt. MP-bestanden bevatten tekeninstructies en wiskundige algoritmische tekeningen voor het renderen van het EPS-uitvoerbestand. De PDFTex-engine kan de gemaakte EPS gebruiken om [PDF](/nl/pdf/)-bestanden rechtstreeks te genereren.
 
 ## MP-bestandsindeling
 

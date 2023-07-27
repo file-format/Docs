@@ -26,5 +26,5 @@ TRM फ़ाइलें Oracle के स्वामित्व फ़ाइ
 
 ## संदर्भ ##
 
-* [ओरेकल 11जी में .trm फाइल क्या है?](https://community.oracle.com/tech/developers/discussion/945615/what-is-trm-file-in-oracle-11g)
+* [ओरेकल 11जी में .trm फाइल क्या है?](https://forums.oracle.com/ords/apexds/post/what-is-trm-file-in-oracle-11g-0659)
 

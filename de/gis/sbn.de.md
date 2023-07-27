@@ -26,6 +26,6 @@ SBN-Dateien werden als Binärdateien auf der Disc gespeichert und ihre internen 
 
 ## Verweise
 
-* [ESRI ShapeFile Technische Beschreibung](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf)
+* [ESRI ShapeFile Technische Beschreibung](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf)
 * [ESRI ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 

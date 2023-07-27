@@ -61,7 +61,7 @@ Beachten Sie, dass alle Felder des Headers (magic, size, version, toc_length_com
 
 ### XAR-Inhaltsverzeichnis (TOC)
 
-Das Inhaltsverzeichnis ist ein XML-Dokument, das als UTF-8 codiert ist (und muss). Es wird am Anfang der Datei gespeichert, was es einfach macht, das Archiv zu durchsuchen, um einzelne Dateien zu extrahieren. Mit dem XAR-Archiv können Sie die einzelnen Dateien im Archiv unabhängig voneinander komprimieren/codieren, indem Sie verschiedene Komprimierungsschemata wie [GZIP](/de/compression/gz/), [BZIP2](/de/compression/bz2) und andere ähnliche verwenden.
+Das Inhaltsverzeichnis ist ein XML-Dokument, das als UTF-8 codiert ist (und muss). Es wird am Anfang der Datei gespeichert, was es einfach macht, das Archiv zu durchsuchen, um einzelne Dateien zu extrahieren. Mit dem XAR-Archiv können Sie die einzelnen Dateien im Archiv unabhängig voneinander komprimieren/codieren, indem Sie verschiedene Komprimierungsschemata wie [GZIP](/de/compression/gz/), [BZIP2](/de/compression/bz2/) und andere ähnliche verwenden.
 
 ```
 <?xml version="1.0"?>

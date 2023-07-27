@@ -19,7 +19,7 @@
 
 ## O que é um arquivo INI? ##
 
-Um arquivo INI é um documento de configuração de mensagens para programas de computador que contêm chaves públicas para características e seções que organizam os atributos em uma estrutura e gramática. Esses documentos de configuração de formato de arquivo do sistema obtêm seus nomes da extensão de diretório INI do sistema operacional MS-DOS, que significa iniciação. Ele popularizou essa forma de configuração de software. Muitos programas em outros aplicativos de software usam várias adições de nome de arquivo, como CONF e [CFG](/pt/system/cfg), embora o formato tenha estabelecido um padrão não oficial em muitas situações de configuração.
+Um arquivo INI é um documento de configuração de mensagens para programas de computador que contêm chaves públicas para características e seções que organizam os atributos em uma estrutura e gramática. Esses documentos de configuração de formato de arquivo do sistema obtêm seus nomes da extensão de diretório INI do sistema operacional MS-DOS, que significa iniciação. Ele popularizou essa forma de configuração de software. Muitos programas em outros aplicativos de software usam várias adições de nome de arquivo, como CONF e [CFG](/pt/system/cfg/), embora o formato tenha estabelecido um padrão não oficial em muitas situações de configuração.
 
 ## Breve História dos Arquivos INI##
 

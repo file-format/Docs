@@ -80,7 +80,7 @@ Definitions: {
 
 ## 二进制文件结构##
 
-如前所述，FBX 文件格式规范未公开用于 FBX。由于 Blender 基金会在没有使用公司提供的 SDK 的情况下实现了 FBX 文件格式，所以关于二进制文件格式的一些细节是 [available](https://code.blender.org/2013/08/fbx-binary-file-format -specification/) 作为它实现的一部分。
+如前所述，FBX 文件格式规范未公开用于 FBX。由于 Blender 基金会在没有使用公司提供的 SDK 的情况下实现了 FBX 文件格式，所以关于二进制文件格式的一些细节是 [available](https://code.blender.org/2013/08/fbx-binary-file-format-specification/) 作为它实现的一部分。
 
 二进制文件结构遵循以下顺序：
 
@@ -206,7 +206,7 @@ R: raw binary data
 
 ## 参考 ＃＃
 
-* [FBX - Autodesk SDK](http://help.autodesk.com/view/FBX/2017/ENU/?guid#__files_GUID_105ED19A_9A5A_425E_BFD7_C1BBADA67AAB_htm)
+* [FBX - Autodesk SDK](https://help.autodesk.com/view/FBX/2017/ENU/)
 * [FBX 二进制文件格式规范](https://code.blender.org/2013/08/fbx-binary-file-format-specification/)
 * [FBX - 维基百科](https://en.wikipedia.org/wiki/FBX#File_format)
 

@@ -85,5 +85,3 @@ or WH-phrase.
 ## 参考 ＃＃
 
 * [TEX - 维基百科](https://en.wikipedia.org/wiki/TeX)
-* [乳胶](http://mally.stanford.edu/~sr/computing/latex-example.html)
-

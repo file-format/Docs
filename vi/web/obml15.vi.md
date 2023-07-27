@@ -18,7 +18,7 @@
 
 ## Tệp OBML15 là gì?
 
-Tệp OBML15 là một trang web được lưu vào thiết bị di động bằng trình duyệt web di động Opera Mini. Nó dựa trên Ngôn ngữ đánh dấu nhị phân Opera (OBML) là phiên bản ban đầu của loại định dạng tệp này. OBML15 đã thay thế [OBML](/vi/web/obml) bằng việc phát hành Opera Mini phiên bản 5, trong khi bản thân nó đã được thay thế bởi OBML16 sau này. Mỗi phiên bản Opera Mini chỉ tương thích với một định dạng OBML, nghĩa là các bản nâng cấp của Opera Mini sẽ không thể đọc các phiên bản trước đó của các trang đã lưu. Các tệp OBML15 có thể được chuyển đổi thành [PDF](/vi/pdf/) và [HTML](/vi/web/html/) trực tuyến.
+Tệp OBML15 là một trang web được lưu vào thiết bị di động bằng trình duyệt web di động Opera Mini. Nó dựa trên Ngôn ngữ đánh dấu nhị phân Opera (OBML) là phiên bản ban đầu của loại định dạng tệp này. OBML15 đã thay thế [OBML](/vi/web/obml/) bằng việc phát hành Opera Mini phiên bản 5, trong khi bản thân nó đã được thay thế bởi OBML16 sau này. Mỗi phiên bản Opera Mini chỉ tương thích với một định dạng OBML, nghĩa là các bản nâng cấp của Opera Mini sẽ không thể đọc các phiên bản trước đó của các trang đã lưu. Các tệp OBML15 có thể được chuyển đổi thành [PDF](/vi/pdf/) và [HTML](/vi/web/html/) trực tuyến.
 
 ## Định dạng tệp OBML15
 

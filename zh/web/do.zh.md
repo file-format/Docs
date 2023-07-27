@@ -27,5 +27,5 @@ DO 文件保存为当用户向服务器发送请求时在浏览器中打开的 W
 
 ## 参考
 
-* [DML](http://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
+* [DML](https://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
 

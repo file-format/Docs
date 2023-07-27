@@ -70,7 +70,5 @@ WMV-9 له تنسيق ألوان داخلي 8 بت 4: 2: 0. مثل جميع مع
 
 ## مراجع ##
 
-* [https://bytescout.com/blog/2014/10/windows-media-video-format.html](https://bytescout.com/blog/2014/10/windows-media-video-format.html )
+* [https://bytescout.com/blog/2018/02/windows-media-video-format.html](https://bytescout.com/blog/2018/02/windows-media-video-format.html)
 * [https://en.wikipedia.org/wiki/Windows_Media_Video](https://en.wikipedia.org/wiki/Windows_Media_Video)
-* [http://citeseerx.ist.psu.edu/viewdoc/download؟doi#10.1.1.101.488&rep#rep1&type#pdf](http://citeseerx.ist.psu.edu/viewdoc/download؟doi#10.1 .1.101.488 & rep # rep1 & type # pdf)
-

@@ -25,5 +25,5 @@ Un fichier avec l'extension .phj est un fichier de projet créé avec le logicie
 
 ## Références
 
-* [PhCNC](http://www.accuratecnc.com/PhCNC.php)
+* [PhCNC](https://www.accuratecnc.com/PhCNC.php)
 

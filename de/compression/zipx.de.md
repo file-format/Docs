@@ -35,5 +35,5 @@ ZIPX-Dateien werden als Binärdateien auf der Disc gespeichert und die internen 
 ## Verweise
 
 * [ZIPX-Dateiformat](https://kb.corel.com/en/125951)
-* [So extrahieren Sie ZIPX-Dateien](https://answers.microsoft.com/en-us/windows/forum/all/i-want-to-extract-zipx-files/32827ca4-ceec-4faf-93d9-d9ecffb1fb41 )
+* [So extrahieren Sie ZIPX-Dateien](https://answers.microsoft.com/en-us/windows/forum/all/i-want-to-extract-zipx-files/32827ca4-ceec-4faf-93d9-d9ecffb1fb41)
 

@@ -34,7 +34,7 @@ Insieme al lancio di 4th Dimension v3.1 nel 1993, è stata rilasciata 4D Client 
 
 ## Specifiche del formato file 4DD ##
 
-Il file di dati include tutti i dati inseriti nei record, nonché tutti i dati ad essi associati. Il file di dati prende il nome dal nome digitato nella finestra di dialogo di creazione del database, seguito da [4DB](/it/database/4db).
+Il file di dati include tutti i dati inseriti nei record, nonché tutti i dati ad essi associati. Il file di dati prende il nome dal nome digitato nella finestra di dialogo di creazione del database, seguito da [4DB](/it/database/4db/).
 
 Il file di dati esistente viene aperto come di consueto quando si carica un file di struttura 4D. Se modifichi il nome o la posizione del file, la finestra di dialogo Apri cartella dati ti consente di selezionare o creare un nuovo database.
 

@@ -19,7 +19,7 @@
 
 ## .MOBI ファイルとは何ですか?
 
-MOBI ファイル形式は、最も広く使用されている電子ブック ファイル形式の 1 つです。この形式は、古い OEB (Open Ebook Format) 形式を拡張したもので、Mobipocket Reader の独自の形式として使用されていました。 [EPUB](/ebook/epub/) と同様に、ほとんどすべての最新の電子書籍リーダー、特に低帯域幅のモバイル デバイスでサポートされています。この形式は、[PDF](/pdf/)、EPUB、および [Kindle アプリ](https://www.amazon.com/kindle) などの公開されているソフトウェア アプリケーションを使用して、他のいくつかの形式などの他のいくつかの形式に変換できます。 -dbs/fd/kcp)。 [Project Gutenberg](http://www.gutenberg.org/)、[Feedbooks](http://www.feedbooks.com/)、[Open Library]( https://openlibrary.org/)。
+MOBI ファイル形式は、最も広く使用されている電子ブック ファイル形式の 1 つです。この形式は、古い OEB (Open Ebook Format) 形式を拡張したもので、Mobipocket Reader の独自の形式として使用されていました。 [EPUB](/ebook/epub/) と同様に、ほとんどすべての最新の電子書籍リーダー、特に低帯域幅のモバイル デバイスでサポートされています。この形式は、[PDF](/pdf/)、EPUB、および [Kindle アプリ](https://www.amazon.com/kindle) などの公開されているソフトウェア アプリケーションを使用して、他のいくつかの形式などの他のいくつかの形式に変換できます。 -dbs/fd/kcp)。 [Project Gutenberg](https://www.gutenberg.org/)、[Feedbooks](http://www.feedbooks.com/)、[Open Library]( https://openlibrary.org/)。
 
 ## MOBIファイル形式の歴史
 

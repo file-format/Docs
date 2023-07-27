@@ -19,7 +19,7 @@
 
 ## Qu'est-ce qu'un fichier AI ?
 
-Un fichier avec une extension .ai est un fichier Adobe Illustrator Artwork qui contient des graphiques vectoriels sur une seule page. il utilise des points pour créer des chemins pour afficher les données d'image, ce qui le protège contre la perte de qualité d'image si elle est agrandie. Le format de fichier AI est basé sur le format de fichier PGF qui est similaire aux fichiers AI. Le format AI trouve son utilisation principale pour les logos et les supports d'impression, et ses versions initiales étaient considérées comme similaires à celles des fichiers [EPS](/fr/image/eps/). Les fichiers AI peuvent être ouverts avec les outils Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro et CorelDraw Graphics.
+Un fichier avec une extension .ai est un fichier Adobe Illustrator Artwork qui contient des graphiques vectoriels sur une seule page. il utilise des points pour créer des chemins pour afficher les données d'image, ce qui le protège contre la perte de qualité d'image si elle est agrandie. Le format de fichier AI est basé sur le format de fichier PGF qui est similaire aux fichiers AI. Le format AI trouve son utilisation principale pour les logos et les supports d'impression, et ses versions initiales étaient considérées comme similaires à celles des fichiers [EPS](/fr/page-description-language/eps/). Les fichiers AI peuvent être ouverts avec les outils Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro et CorelDraw Graphics.
 
 ## Format de fichier IA
 

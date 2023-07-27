@@ -85,5 +85,3 @@ A fenti parancsfájl kimenetének így kell kinéznie:
 ## Referenciák ##
 
 * [TEX – Wikipédia](https://en.wikipedia.org/wiki/TeX)
-* [Latex](http://mally.stanford.edu/~sr/computing/latex-example.html)
-

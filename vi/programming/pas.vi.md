@@ -66,5 +66,5 @@ unit Unit1;
 ## Người giới thiệu
 
 * [Tìm hiểu tệp nguồn đơn vị và dự án Delphi](https://www.thoughtco.com/under Hiểu-delphi-project-files-dpr-1057652)
-* [Viết chương trình Delphi đầu tiên của bạn](http://www.delphibasics.co.uk/Article.asp?Name=FirstPgm)
+* [Viết chương trình Delphi đầu tiên của bạn](http://www.delphibasics.co.uk/Article.php?Name=FirstPgm)
 

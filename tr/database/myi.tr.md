@@ -51,5 +51,5 @@ myisamdef.h dosyası, sabitlerle ifade edilen aşağıdaki bilgileri içerir. Ma
 
 ## Referanslar ##
 
-- [.MYI Dosyası](https://dev.mysql.com/doc/internals/en/the-myi-file.html)
+- [.MYI Dosyası](https://dev.mysql.com/doc/dev/mysql-server/latest/)
 

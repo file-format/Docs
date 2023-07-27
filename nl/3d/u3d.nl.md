@@ -19,15 +19,15 @@
 
 ## Wat is een U3D-bestand?
 
-**U3D** (Universal 3D) is een gecomprimeerde bestandsindeling en gegevensstructuur voor 3D-computergraphics. Het bevat 3D-modelinformatie zoals driehoeksmazen, belichting, schaduw, bewegingsgegevens, lijnen en punten met kleur en structuur. Het formaat werd in augustus 2005 geaccepteerd als [ECMA-363](http://www.ecma-international.org/publications/standards/Ecma-363.htm) standaard. 3D [PDF](/nl/pdf/)-documenten ondersteunen U3D objecten insluiten en kunnen worden bekeken in Adobe Reader (versie 7 en hoger).
+**U3D** (Universal 3D) is een gecomprimeerde bestandsindeling en gegevensstructuur voor 3D-computergraphics. Het bevat 3D-modelinformatie zoals driehoeksmazen, belichting, schaduw, bewegingsgegevens, lijnen en punten met kleur en structuur. Het formaat werd in augustus 2005 geaccepteerd als [ECMA-363](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) standaard. 3D [PDF](/nl/pdf/)-documenten ondersteunen U3D objecten insluiten en kunnen worden bekeken in Adobe Reader (versie 7 en hoger).
 
 U3D-formaat is ontwikkeld met het oog op het doel om een universele standaard voor driedimensionale gegevensopslag en -uitwisseling vast te stellen. Het formaat wordt echter vooral gebruikt in codering voor 3D PDF in plaats van te worden gebruikt als een uitwisselingsformaat. Acrobat 3D converteert een ondersteund 3D-bestandstype naar U3D of PRC bij conversie naar de PDF.
 
 ## U3D-bestandsindeling
 
-U3D-bestanden hebben een binaire bestandsindeling die vier edities heeft ondergaan, zoals beschreven in het referentiedocument [ECMA-363](http://www.ecma-international.org/publications/standards/Ecma-363.htm), wat resulteerde in een update van de specificaties bij elke editie. De PDF-bestandsstandaard ISO-32000 accepteert U3D als toegestaan annotatie- en multimediatype.
+U3D-bestanden hebben een binaire bestandsindeling die vier edities heeft ondergaan, zoals beschreven in het referentiedocument [ECMA-363](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/), wat resulteerde in een update van de specificaties bij elke editie. De PDF-bestandsstandaard ISO-32000 accepteert U3D als toegestaan annotatie- en multimediatype.
 
-De eerste editie van U3D was gericht op de belangrijkste representaties van 3D-grafische eigenschappen zoals geometrie, kleur, texturen, belichting, botten en op transformatie gebaseerde animatie. De tweede en derde editie corrigeerden enkele fouten in de eerste editie, waarbij de derde versie het meest gebruikte type in industriële software was. De vierde editie geeft definities voor primitieven van hogere orde (gekromde oppervlakken). [U3D-specificaties](http://www.ecma-international.org/publications/standards/Ecma-363.htm) zijn online beschikbaar voor gebruikersreferentie op de ECMA-website.
+De eerste editie van U3D was gericht op de belangrijkste representaties van 3D-grafische eigenschappen zoals geometrie, kleur, texturen, belichting, botten en op transformatie gebaseerde animatie. De tweede en derde editie corrigeerden enkele fouten in de eerste editie, waarbij de derde versie het meest gebruikte type in industriële software was. De vierde editie geeft definities voor primitieven van hogere orde (gekromde oppervlakken). [U3D-specificaties](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) zijn online beschikbaar voor gebruikersreferentie op de ECMA-website.
 
 ### Gegevenstypen in U3D-bestanden
 

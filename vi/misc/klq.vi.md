@@ -27,6 +27,6 @@ Các tệp KLQ được lưu vào đĩa ở định dạng được mã hóa đ�
 
 ## Người giới thiệu
 
-* [Chi tiết về tệp cách ly](https://community.kaspersky.com/kaspersky-total-security-14/details-of-quarantine-files-merged-8534)
-* [Tệp KLQ](https://community.kaspersky.com/search?q=klq%20file)
+* [Chi tiết về tệp cách ly](https://forum.kaspersky.com/)
+* [Tệp KLQ](https://forum.kaspersky.com/?q=klq%20file)
 

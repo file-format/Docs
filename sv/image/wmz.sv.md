@@ -30,10 +30,10 @@ WMZ-filer är [Gzip](/sv/compression/gz/) komprimerade och innehåller [WMF](/sv
 * Komprimerad data
 * Filsidfot
 
-GZIP-filformatet [specifikationer version 4.3](http://tools.ietf.org/html/rfc1952) publicerat av Internet Engineering Task Force (IETF) innehåller detaljerad information om filformatet.
+GZIP-filformatet [specifikationer version 4.3](https://datatracker.ietf.org/doc/html/rfc1952) publicerat av Internet Engineering Task Force (IETF) innehåller detaljerad information om filformatet.
 
 ## Referenser
 
-* [RFC1952: GZIP filformatspecifikation](http://tools.ietf.org/html/rfc1952), av [IETF](https://www.ietf.org)
+* [RFC1952: GZIP filformatspecifikation](https://datatracker.ietf.org/doc/html/rfc1952), av [IETF](https://www.ietf.org)
 * [Windows MetaFile - Wikipedia](https://en.wikipedia.org/wiki/Windows_Metafile)
 

@@ -23,7 +23,7 @@ DIS 文件是使用 [Oracle Discoverer](https://docs.oracle.com/cd/E28389_01/bi.
 
 ## 如何下载 DIS 格式的 Discoverer 工作簿？
 
-Oracle Discoverer 工作簿以二进制格式存储在数据库中，不能作为 [DIS 文件] 下载（https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-discoverer -workbooks-to-my-computer) 直接。但是，可以将数据导出为 EEX 文件，在 Discoverer Desktop 中将其打开，然后使用另存为选项将 EEX 文件另存为 DIS 文件。
+Oracle Discoverer 工作簿以二进制格式存储在数据库中，不能作为 [DIS 文件] 下载（https://forums.oracle.com/ords/apexds/post/can-i-download-all-discoverer-workbooks-to-my-computer-4127) 直接。但是，可以将数据导出为 EEX 文件，在 Discoverer Desktop 中将其打开，然后使用另存为选项将 EEX 文件另存为 DIS 文件。
 
 ## DIS 文件格式 - 更多信息
 

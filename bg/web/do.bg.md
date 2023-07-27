@@ -27,5 +27,5 @@ DO файловете се записват като уеб файлове, ко
 
 ## Препратки
 
-* [DML](http://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
+* [DML](https://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
 

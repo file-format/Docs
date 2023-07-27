@@ -33,7 +33,7 @@ IETF(Internet Engineering Task Force)는 형식 작성자와 함께 [GeoJSON WG]
 
 ### 위치 ###
 
-정렬된 좌표 배열은 [위치](http://geojson.org/geojson-spec.html#positions)를 나타냅니다. 이것은 지구상의 한 지점을 나타낼 수 있는 가장 작은 단위입니다.
+정렬된 좌표 배열은 [위치](https://geojson.org/geojson-spec.html#positions)를 나타냅니다. 이것은 지구상의 한 지점을 나타낼 수 있는 가장 작은 단위입니다.
 
 `[경도, 위도, 고도]`
 

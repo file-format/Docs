@@ -25,7 +25,7 @@ XPS-visningsprogram är integrerade som en del av Windows Vista, Windows 7, Wind
 
 ## Kortfattad bakgrund ##
 
-Microsoft lämnade in XPS-specifikationen till Ecma International. I juni 2007 inrättades Ecma Technical Committee 46 (TC46) för att utveckla en standard baserad på OpenXPS Paper Specifications. Ecma International godkände Ecma Standard (ECMA-388) [XPS-specifikationer](http://www.ecma-international.org/publications/standards/Ecma-388.htm) i juni 2009 vid den 97:e generalförsamlingen.
+Microsoft lämnade in XPS-specifikationen till Ecma International. I juni 2007 inrättades Ecma Technical Committee 46 (TC46) för att utveckla en standard baserad på OpenXPS Paper Specifications. Ecma International godkände Ecma Standard (ECMA-388) [XPS-specifikationer](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/) i juni 2009 vid den 97:e generalförsamlingen.
 
 ## XPS-filformat ##
 
@@ -55,6 +55,6 @@ Ett typiskt XPS-dokument ser ut som följer och kan analyseras i ljuset av XPS-f
 
 ## Referenser ##
 
-* [XPS-filformatsspecifikationer](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+* [XPS-filformatsspecifikationer](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 * [XPS - av Wikipedia](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

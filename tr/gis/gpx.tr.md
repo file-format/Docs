@@ -74,6 +74,6 @@ Aşağıdaki GPX dosyası, bir GPX dosyasındaki GPS verilerinin organizasyonunu
 
 ## Referanslar ##
 
-* [GPX Dosya Biçimi](http://www.topografix.com/gpx.asp)
+* [GPX Dosya Biçimi](https://www.topografix.com/gpx.asp)
 * [GPX - Wikipedia Tarafından](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
 

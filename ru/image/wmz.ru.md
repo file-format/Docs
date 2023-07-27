@@ -30,10 +30,10 @@
 * Сжатые данные
 * Нижний колонтитул файла
 
-Формат файла GZIP [спецификация версии 4.3](http://tools.ietf.org/html/rfc1952), опубликованный Инженерной группой Интернета (IETF), содержит подробную информацию о формате файла.
+Формат файла GZIP [спецификация версии 4.3](https://datatracker.ietf.org/doc/html/rfc1952), опубликованный Инженерной группой Интернета (IETF), содержит подробную информацию о формате файла.
 
 ## использованная литература
 
-* [RFC1952: Спецификация формата файла GZIP](http://tools.ietf.org/html/rfc1952), [IETF](https://www.ietf.org)
+* [RFC1952: Спецификация формата файла GZIP](https://datatracker.ietf.org/doc/html/rfc1952), [IETF](https://www.ietf.org)
 * [Метафайл Windows — Википедия](https://en.wikipedia.org/wiki/Windows_Metafile)
 

@@ -42,5 +42,5 @@ ASMX ファイルは、ASPX および ASCX ファイルとは異なります。
 ## 参考文献
 
 * [ASMX サービスの利用](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/web-services/asmx)
-* [ASCX ユーザー コントロール](http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
+* [ASCX ユーザー コントロール](https://beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

@@ -23,7 +23,7 @@ Sebuah file dengan ekstensi .wpl berisi playlist lagu-lagu yang akan dijalankan 
 
 ## Format File WPL
 
-WPL (Windows Media Player Playlist) adalah format file berpemilik yang digunakan di Microsoft Windows Media Player versi 9 atau lebih tinggi. Ini adalah format file komputer yang menyimpan daftar putar multimedia. Secara default, playlist disimpan dengan ekstensi .wpl(Windows Media Player Playlist). Anda dapat menggunakan ekstensi [.m3u](/id/audio/m3u), Jika Anda ingin memutar disk data di perangkat yang tidak mendukung ekstensi ini. Elemen file WPL direpresentasikan dalam format XML.
+WPL (Windows Media Player Playlist) adalah format file berpemilik yang digunakan di Microsoft Windows Media Player versi 9 atau lebih tinggi. Ini adalah format file komputer yang menyimpan daftar putar multimedia. Secara default, playlist disimpan dengan ekstensi .wpl(Windows Media Player Playlist). Anda dapat menggunakan ekstensi [.m3u](/id/audio/m3u/), Jika Anda ingin memutar disk data di perangkat yang tidak mendukung ekstensi ini. Elemen file WPL direpresentasikan dalam format XML.
 
 Elemen tingkat atas "smil" menentukan bahwa elemen file mengikuti struktur Synchronized Multimedia Integration Language (SMIL). File dibuat dan disimpan dengan ekstensi .wpl dan tipe MIME-nya adalah application/vnd.ms-wpl.
 

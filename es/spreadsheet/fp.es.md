@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo FP?
 
-Un archivo con la extensión .fp es un archivo de hoja de cálculo creado con el software [FileMaker Pro](https://www.claris.com/filemaker/pro/) de Claris. Almacena datos en filas y columnas similares a Microsoft Excel. FileMaker Pro le permite arrastrar y soltar varios tipos de archivos, como CSV y XML, para importar sus datos.
+Un archivo con la extensión .fp es un archivo de hoja de cálculo creado con el software [FileMaker Pro](https://www.claris.com/filemaker/) de Claris. Almacena datos en filas y columnas similares a Microsoft Excel. FileMaker Pro le permite arrastrar y soltar varios tipos de archivos, como CSV y XML, para importar sus datos.
 
 ## Formato de archivo FP
 
@@ -27,6 +27,6 @@ Los archivos FP se guardan en formato de archivo propietario y los detalles de s
 
 ## Referencias
 
-* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [FileMaker Pro](https://www.claris.com/filemaker/)
 * [fmapi](https://github.com/stevenwhitespacesystems/fm-xml2json)
 

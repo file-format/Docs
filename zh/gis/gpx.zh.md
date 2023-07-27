@@ -74,6 +74,6 @@ GPX 文件由纬度和经度位置数据、海拔值和其他可能的其他描�
 
 ## 参考 ＃＃
 
-* [GPX 文件格式](http://www.topografix.com/gpx.asp)
+* [GPX 文件格式](https://www.topografix.com/gpx.asp)
 * [GPX - 维基百科](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
 

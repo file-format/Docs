@@ -42,7 +42,7 @@ Tiêu chuẩn PDF/UA xác định thông số kỹ thuật cho nội dung, trìn
 
 ## Tập tin phù hợp ##
 
-Các tệp tuân theo tiêu chuẩn PDF/UA phải chứa các tính năng hợp lệ theo [thông số kỹ thuật PDF 1.7](http://www.adobe.com/go/pdfreference). Tuy nhiên, nên loại trừ các tính năng bị cấm cụ thể bởi PDF/UA.
+Các tệp tuân theo tiêu chuẩn PDF/UA phải chứa các tính năng hợp lệ theo [thông số kỹ thuật PDF 1.7](https://opensource.adobe.com/dc-acrobat-sdk-docs/standards/pdfstandards/pdf/PDF32000_2008.pdf). Tuy nhiên, nên loại trừ các tính năng bị cấm cụ thể bởi PDF/UA.
 
 ## Người đọc phù hợp ##
 
@@ -59,5 +59,5 @@ Một công nghệ hỗ trợ phù hợp bị ràng buộc để hỗ trợ các
 ## Người giới thiệu ##
 
 * [PDF/UA - Theo Wikipedia](https://en.wikipedia.org/wiki/PDF/UA)
-* [Tóm tắt PDF/UA](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [Tóm tắt PDF/UA](https://pdfa.org/pdfua-in-a-nutshell/)
 

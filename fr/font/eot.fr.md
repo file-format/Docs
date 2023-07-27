@@ -38,35 +38,35 @@ La structure EMBEDDEDFONT a subi trois révisions, avec ajout de données suppl�
 |unsigned long|FontDataSize|Longueur de la police OpenType (FontData) en octets|
 |unsigned long|Version|Numéro de version de ce format - 0x00020002|
 |unsigned long|Drapeaux|Drapeaux de traitement|
-|byte[10]|FontPANOSE|La valeur PANOSE pour cette police - Voir http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|byte|Charset|Sous Windows, ceci est dérivé de TEXTMETRIC.tmCharSet. Cette valeur spécifie le jeu de caractères de la police. DEFAULT_CHARSET (0x01) n'indique aucune préférence. - Voir http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
-|byte|Italic|Si le bit pour ITALIC est défini dans OS/2.fsSelection, la valeur sera 0x01 - Voir http://www.microsoft.com/typography/otspec/os2.htm#fss|
-|unsigned long|Weight|La valeur de poids pour cette police - Voir http://www.microsoft.com/typography/otspec/os2.htm#wtc|
-|unsigned short|fsType|Indicateurs de type qui fournissent des informations sur l'intégration des autorisations - Voir http://www.microsoft.com/typography/otspec/os2.htm#fst|
+|byte[10]|FontPANOSE|La valeur PANOSE pour cette police - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
+|byte|Charset|Sous Windows, ceci est dérivé de TEXTMETRIC.tmCharSet. Cette valeur spécifie le jeu de caractères de la police. DEFAULT_CHARSET (0x01) n'indique aucune préférence. - Voir https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
+|byte|Italic|Si le bit pour ITALIC est défini dans OS/2.fsSelection, la valeur sera 0x01 - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss|
+|unsigned long|Weight|La valeur de poids pour cette police - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|
+|unsigned short|fsType|Indicateurs de type qui fournissent des informations sur l'intégration des autorisations - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|
 |unsigned short|MagicNumber|Numéro magique pour le fichier EOT - 0x504C. Utilisé pour vérifier la corruption des données.|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (bits 0-31) - Voir http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (bits 32-63) - Voir http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (bits 64-95) - Voir http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bits 96-127) - Voir http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|CodePageRange1|CodePageRange1 (bits 0-31) - Voir http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CodePageRange2|CodePageRange2 (bits 32-63) - Voir http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - Voir http://www.microsoft.com/typography/otspec/head.htm|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (bits 0-31) - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (bits 32-63) - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (bits 64-95) - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bits 96-127) - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|CodePageRange1|CodePageRange1 (bits 0-31) - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CodePageRange2|CodePageRange2 (bits 32-63) - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Réservé1|Réservé - doit être 0|
 |unsigned long|Réservé2|Réservé - doit être 0|
 |unsigned long|Réservé3|Réservé - doit être 0|
 |unsigned long|Réservé4|Réservé - doit être 0|
 |unsigned short|Padding1|Remplissage pour maintenir l'alignement long. La valeur de rembourrage doit toujours être définie sur 0x0000.|
 |unsigned short|FamilyNameSize|Nombre d'octets utilisés par le tableau FamilyName|
-|byte|FamilyName[FamilyNameSize]|Tableau de caractères UTF-16 d'une longueur de FamilyNameSize octets. Il s'agit de la chaîne de la famille de polices en anglais trouvée dans le tableau des noms de la police (nom ID = 1) - Voir http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FamilyName[FamilyNameSize]|Tableau de caractères UTF-16 d'une longueur de FamilyNameSize octets. Il s'agit de la chaîne de la famille de polices en anglais trouvée dans le tableau des noms de la police (nom ID = 1) - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|La valeur de remplissage doit toujours être définie sur 0x0000.|
 |unsigned short|StyleNameSize|Nombre d'octets utilisés par StyleName|
-|byte|StyleName[StyleNameSize]|Tableau de caractères UTF-16 d'une longueur de StyleNameSize octets. Il s'agit de la chaîne de la sous-famille de polices en anglais trouvée dans le tableau des noms de la police (nom ID = 2) - Voir http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|Tableau de caractères UTF-16 d'une longueur de StyleNameSize octets. Il s'agit de la chaîne de la sous-famille de polices en anglais trouvée dans le tableau des noms de la police (nom ID = 2) - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|La valeur de remplissage doit toujours être définie sur 0x0000.|
 |unsigned short|VersionNameSize|Nombre d'octets utilisés par VersionName|
-|bytes|VersionName[VersionNameSize]|Tableau de caractères UTF-16 d'une longueur de VersionNameSize octets. Il s'agit de la chaîne de version en anglais trouvée dans le tableau des noms de la police (nom ID = 5) - Voir http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|Tableau de caractères UTF-16 d'une longueur de VersionNameSize octets. Il s'agit de la chaîne de version en anglais trouvée dans le tableau des noms de la police (nom ID = 5) - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|La valeur de remplissage doit toujours être définie sur 0x0000.|
 |unsigned short|FullNameSize|Nombre d'octets utilisés par le FullName|
-|byte|FullName[FullNameSize]|Tableau de caractères UTF-16 d'une longueur de FullNameSize octets. Il s'agit de la chaîne de nom complet en anglais trouvée dans le tableau des noms de la police (nom ID = 4) - Voir http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|Tableau de caractères UTF-16 d'une longueur de FullNameSize octets. Il s'agit de la chaîne de nom complet en anglais trouvée dans le tableau des noms de la police (nom ID = 4) - Voir https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|La valeur de remplissage doit toujours être définie sur 0x0000.|
 |unsigned short|RootStringSize|Nombre d'octets utilisés par le tableau RootString|
 |byte|RootString[RootStringSize]|Tableau de caractères UTF-16 d'une longueur de RootStringSize octets.|

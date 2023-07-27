@@ -42,7 +42,7 @@ PDF/UA 標準は、コンテンツ、リーダー、支援技術の仕様を定�
 
 ## 適合ファイル ##
 
-PDF/UA 標準に準拠するファイルには、[PDF 1.7 仕様](http://www.adobe.com/go/pdfreference) に従って有効な機能が含まれている必要があります。ただし、PDF/UA で特に禁止されている機能は除外する必要があります。
+PDF/UA 標準に準拠するファイルには、[PDF 1.7 仕様](https://opensource.adobe.com/dc-acrobat-sdk-docs/standards/pdfstandards/pdf/PDF32000_2008.pdf) に従って有効な機能が含まれている必要があります。ただし、PDF/UA で特に禁止されている機能は除外する必要があります。
 
 ## 適合読者 ##
 
@@ -59,5 +59,5 @@ PDF/UA 機能をサポートするには、適合する支援技術が必要で�
 ## 参照 ##
 
 * [PDF/UA - ウィキペディアによる](https://en.wikipedia.org/wiki/PDF/UA)
-* [PDF/UA の概要](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [PDF/UA の概要](https://pdfa.org/pdfua-in-a-nutshell/)
 

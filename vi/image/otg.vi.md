@@ -19,7 +19,7 @@
 
 ## Tệp OTG là gì?
 
-Tệp OTG là mẫu bản vẽ được tạo bằng tiêu chuẩn OpenDocument tuân theo Ứng dụng Office OASIS [đặc điểm kỹ thuật 1.0](http://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0 -os.pdf). Nó đại diện cho tổ chức mặc định của các thành phần vẽ cho một hình ảnh vector có thể được sử dụng để nâng cao hơn nữa nội dung của tệp. Các tệp OTF giống như bất kỳ tệp dựa trên định dạng OpenDocument nào khác dựa trên định dạng XML để thể hiện nội dung của tài liệu. Có thể xem các tệp OTF bằng cách mở chúng trong bất kỳ trình soạn thảo văn bản hoặc XML tiêu chuẩn nào.
+Tệp OTG là mẫu bản vẽ được tạo bằng tiêu chuẩn OpenDocument tuân theo Ứng dụng Office OASIS [đặc điểm kỹ thuật 1.0](https://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0-os.pdf). Nó đại diện cho tổ chức mặc định của các thành phần vẽ cho một hình ảnh vector có thể được sử dụng để nâng cao hơn nữa nội dung của tệp. Các tệp OTF giống như bất kỳ tệp dựa trên định dạng OpenDocument nào khác dựa trên định dạng XML để thể hiện nội dung của tài liệu. Có thể xem các tệp OTF bằng cách mở chúng trong bất kỳ trình soạn thảo văn bản hoặc XML tiêu chuẩn nào.
 
 ## Thông số kỹ thuật định dạng tệp OTG ##
 

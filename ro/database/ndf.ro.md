@@ -23,7 +23,7 @@ Un fișier cu extensia .ndf este un fișier de bază de date secundar utilizat d
 
 ## Format de fișier NDF
 
-Formatul de fișier NDF nu este diferit de [MDF](/ro/database/mdf) și folosește paginile ca unitate fundamentală de stocare a datelor. fiecare pagină începe cu antet de 96 de octeți care include:
+Formatul de fișier NDF nu este diferit de [MDF](/ro/database/mdf/) și folosește paginile ca unitate fundamentală de stocare a datelor. fiecare pagină începe cu antet de 96 de octeți care include:
 
 * ID-ul paginii
 * Tip de structură

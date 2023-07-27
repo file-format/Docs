@@ -81,6 +81,6 @@ MXF 파일 형식은 다음 SMPTE 사양에 의해 정의되었습니다.
 ## 참고문헌
 
 * [MXF - Wikipedia](https://en.wikipedia.org/wiki/Material_Exchange_Format)
-* [MXF - 진행 보고서](http://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
+* [MXF - 진행 보고서](https://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
 * [MXF용 오픈소스 C++ 라이브러리](http://www.freemxf.org/)
 

@@ -19,7 +19,7 @@
 
 ## 什么是一 .mobi 文件？
 
-MOBI 文件格式是使用最广泛的电子书文件格式之一。该格式是对旧 OEB（开放电子书格式）格式的增强，并被用作 Mobipocket Reader 的专有格式。与 [EPUB](/zh/ebook/epub/) 一样，几乎所有现代电子阅读器都支持它，尤其是低带宽的移动设备。该格式可以转换为其他几种格式，例如 [PDF](/zh/pdf/)、EPUB，以及使用诸如 [Kindle 应用程序](https://www.amazon.com/kindle) 等公开可用的软件应用程序的其他几种格式-dbs/fd/kcp)。有几家公司提供免费的 MOBI 书籍，例如 [Project Gutenberg](http://www.gutenberg.org/)、[Feedbooks](http://www.feedbooks.com/) 和 [Open Library]( https://openlibrary.org/）。
+MOBI 文件格式是使用最广泛的电子书文件格式之一。该格式是对旧 OEB（开放电子书格式）格式的增强，并被用作 Mobipocket Reader 的专有格式。与 [EPUB](/zh/ebook/epub/) 一样，几乎所有现代电子阅读器都支持它，尤其是低带宽的移动设备。该格式可以转换为其他几种格式，例如 [PDF](/zh/pdf/)、EPUB，以及使用诸如 [Kindle 应用程序](https://www.amazon.com/kindle) 等公开可用的软件应用程序的其他几种格式-dbs/fd/kcp)。有几家公司提供免费的 MOBI 书籍，例如 [Project Gutenberg](https://www.gutenberg.org/)、[Feedbooks](http://www.feedbooks.com/) 和 [Open Library]( https://openlibrary.org/）。
 
 ## MOBI 文件格式简史
 

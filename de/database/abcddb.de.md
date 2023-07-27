@@ -63,5 +63,5 @@ Der SQLite-ODBC-Connector ist eine Softwarebibliothek und ein Treiber, mit denen
 ## Verweise
 * [Beschädigte Kontaktdatenbank reparieren](https://discussions.apple.com/docs/DOC-10581)
 * [Kontaktdatenbank für Mac](https://nitroreward.weebly.com/blog/contact-database-for-mac)
-* [Wie kann ich eine abcddb-Datei in Windows 7 Excel öffnen oder exportieren?](https://apple.stackexchange.com/questions/52888/how-can-i-open-or-export-a-abcddb-file- in-Windows-7-Excel)
+* [Wie kann ich eine abcddb-Datei in Windows 7 Excel öffnen oder exportieren?](https://apple.stackexchange.com/questions/52888/how-can-i-open-or-export-a-abcddb-file-in-windows-7-excel)
 

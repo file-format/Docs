@@ -23,7 +23,7 @@
 
 ## NDF Dosya Biçimi
 
-NDF dosya formatı [MDF](/tr/database/mdf)'den farklı değildir ve veri depolamanın temel birimi olarak sayfaları kullanır. her sayfa, aşağıdakileri içeren 96 baytlık bir başlıkla başlar:
+NDF dosya formatı [MDF](/tr/database/mdf/)'den farklı değildir ve veri depolamanın temel birimi olarak sayfaları kullanır. her sayfa, aşağıdakileri içeren 96 baytlık bir başlıkla başlar:
 
 * Sayfa Kimliği
 * Yapı Tipi

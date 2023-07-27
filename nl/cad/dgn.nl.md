@@ -44,6 +44,5 @@ Een MicroStation V8 DGN-bestand bestaat uit een of meer modellen. Een model is e
 ## Referenties
 
 * [DNG - Door Wikipedia](https://en.wikipedia.org/wiki/DGN)
-* [OpenDNG](http://www.bentley.com/opendgn)
 * [MicroStation V8 DGN-bestandsindeling](https://web.archive.org/web/20120713013730/http://docs.bentley.com/ko/MicroStation/ustnhelp47.html)
 

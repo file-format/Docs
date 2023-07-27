@@ -19,7 +19,7 @@
 
 ## Ce este un fișier FP?
 
-Un fișier cu extensia .fp este un fișier tabelar creat cu software-ul [FileMaker Pro](https://www.claris.com/filemaker/pro/) de către Claris. Stochează date în rânduri și coloane similare cu Microsoft Excel. FileMaker Pro vă permite să glisați și să plasați o serie de tipuri de fișiere, cum ar fi CSV și XML, pentru a le importa datele.
+Un fișier cu extensia .fp este un fișier tabelar creat cu software-ul [FileMaker Pro](https://www.claris.com/filemaker/) de către Claris. Stochează date în rânduri și coloane similare cu Microsoft Excel. FileMaker Pro vă permite să glisați și să plasați o serie de tipuri de fișiere, cum ar fi CSV și XML, pentru a le importa datele.
 
 ## Format de fișier FP
 
@@ -27,6 +27,6 @@ Fișierele FP sunt salvate în format de fișier proprietar, iar detaliile forma
 
 ## Referințe
 
-* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [FileMaker Pro](https://www.claris.com/filemaker/)
 * [fmapi](https://github.com/stevenwhitespacesystems/fm-xml2json)
 

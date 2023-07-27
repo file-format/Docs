@@ -30,10 +30,10 @@ Các tệp EMZ được nén [Gzip](/vi/compression/gz/) và chứa [EMF](/vi/im
 * Dữ liệu nén
 * Chân trang tệp
 
-Định dạng tệp GZIP [thông số kỹ thuật phiên bản 4.3](http://tools.ietf.org/html/rfc1952) do Lực lượng Đặc nhiệm Kỹ thuật Internet (IETF) xuất bản chứa thông tin chi tiết về định dạng tệp.
+Định dạng tệp GZIP [thông số kỹ thuật phiên bản 4.3](https://datatracker.ietf.org/doc/html/rfc1952) do Lực lượng Đặc nhiệm Kỹ thuật Internet (IETF) xuất bản chứa thông tin chi tiết về định dạng tệp.
 
 ## Người giới thiệu
 
-* [RFC1952: Đặc tả định dạng tệp GZIP](http://tools.ietf.org/html/rfc1952), bởi [IETF](https://www.ietf.org/)
+* [RFC1952: Đặc tả định dạng tệp GZIP](https://datatracker.ietf.org/doc/html/rfc1952), bởi [IETF](https://www.ietf.org/)
 * [Siêu tệp Windows - Wikipedia](https://en.wikipedia.org/wiki/Windows_Metafile)
 

@@ -58,5 +58,5 @@ PDF/A-3 mencakup semua persyaratan kesesuaian Level 2 dan memungkinkan penyemata
 ## Referensi ##
 
 * [PDF/A - Oleh Wikipedia](https://en.wikipedia.org/wiki/PDF/A)
-* [Laporan Resmi: PDF/A – Dasar-Dasar](http://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
+* [Laporan Resmi: PDF/A – Dasar-Dasar](https://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
 

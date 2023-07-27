@@ -61,7 +61,7 @@ Vegye figyelembe, hogy a fejléc összes mezője (magic, size, version, toc_leng
 
 ### XAR tartalomjegyzék (TOC)
 
-A tartalomjegyzék egy XML dokumentum, amely UTF-8 kódolású (és kell). A fájl elején tárolódik, így könnyen átvizsgálható az archívumban az egyes fájlok kibontásához. Az XAR archívum lehetővé teszi az archívumban lévő egyes fájlok önálló tömörítését/kódolását különböző tömörítési sémák, például [GZIP](/hu/compression/gz/), [BZIP2](/hu/compression/bz2) és más hasonlók használatával.
+A tartalomjegyzék egy XML dokumentum, amely UTF-8 kódolású (és kell). A fájl elején tárolódik, így könnyen átvizsgálható az archívumban az egyes fájlok kibontásához. Az XAR archívum lehetővé teszi az archívumban lévő egyes fájlok önálló tömörítését/kódolását különböző tömörítési sémák, például [GZIP](/hu/compression/gz/), [BZIP2](/hu/compression/bz2/) és más hasonlók használatával.
 
 ```
 <?xml version="1.0"?>

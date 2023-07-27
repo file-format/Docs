@@ -19,11 +19,11 @@
 
 ## 什么是小工具文件？
 
-GADGET 文件由在 Windows Vista 或 Windows 7 侧边栏中执行的小型软件程序组成。它压缩了几个基于 Web 的文件，这些文件可能包含 [.html](/zh/web/html)、[.css](/zh/web/css) 或 [.js](/zh/web/js) 文件，以及其他网页文件。 GADGET 文件用于小型组件，例如搜索工具、新闻提要、系统实用程序和小型游戏。尽管小工具由侧边栏托管，但并不特定于侧边栏区域；这些可以根据需要取消停靠并移动到桌面上。
+GADGET 文件由在 Windows Vista 或 Windows 7 侧边栏中执行的小型软件程序组成。它压缩了几个基于 Web 的文件，这些文件可能包含 [.html](/zh/web/html/)、[.css](/zh/web/css/) 或 [.js](/zh/web/js/) 文件，以及其他网页文件。 GADGET 文件用于小型组件，例如搜索工具、新闻提要、系统实用程序和小型游戏。尽管小工具由侧边栏托管，但并不特定于侧边栏区域；这些可以根据需要取消停靠并移动到桌面上。
 
 ## 小工具文件格式
 
-GADGET 文件是一个重命名的 [ZIP](/zh/compression/zip) 存档，其中包含 HTML、XML、JScript 和 CSS（层叠样式表）文件的集合。安装包括下载 .gadget 文件并启用下载过程以安装组件或将 .gadget 文件保存到本地系统并双击以开始安装过程。
+GADGET 文件是一个重命名的 [ZIP](/zh/compression/zip/) 存档，其中包含 HTML、XML、JScript 和 CSS（层叠样式表）文件的集合。安装包括下载 .gadget 文件并启用下载过程以安装组件或将 .gadget 文件保存到本地系统并双击以开始安装过程。
 
 基本上，GADGET 包含两个文件：
 

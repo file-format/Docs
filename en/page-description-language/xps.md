@@ -25,7 +25,7 @@ XPS viewers come integrated as part of Windows Vista, Windows 7, Windows 8, and 
 
 ## Brief History ##
 
-Microsoft submitted the XPS specification to Ecma International. In June 2007, Ecma Technical Committee 46 (TC46) was set up to develop a standard based on the OpenXPS Paper Specifications. Ecma International approved the Ecma Standard (ECMA-388) [XPS specifications](http://www.ecma-international.org/publications/standards/Ecma-388.htm) in June 2009 at the 97th General Assembly.
+Microsoft submitted the XPS specification to Ecma International. In June 2007, Ecma Technical Committee 46 (TC46) was set up to develop a standard based on the OpenXPS Paper Specifications. Ecma International approved the Ecma Standard (ECMA-388) [XPS specifications](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/) in June 2009 at the 97th General Assembly.
 
 ## XPS File Format ##
 
@@ -55,5 +55,5 @@ A typical XPS document looks as follows and can be analyzed in light of XPS file
 
 ## References ##
 
-* [XPS File Format Specifications](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+* [XPS File Format Specifications](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 * [XPS - By Wikipedia](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)

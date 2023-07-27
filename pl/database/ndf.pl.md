@@ -23,7 +23,7 @@ Plik z rozszerzeniem .ndf to dodatkowy plik bazy danych używany przez [Microsof
 
 ## Format pliku NDF
 
-Format pliku NDF nie różni się od formatu [MDF](/pl/database/mdf) i wykorzystuje strony jako podstawową jednostkę przechowywania danych. każda strona zaczyna się od 96-bajtowego nagłówka, który zawiera:
+Format pliku NDF nie różni się od formatu [MDF](/pl/database/mdf/) i wykorzystuje strony jako podstawową jednostkę przechowywania danych. każda strona zaczyna się od 96-bajtowego nagłówka, który zawiera:
 
 * Identyfikator strony
 * Typ konstrukcji

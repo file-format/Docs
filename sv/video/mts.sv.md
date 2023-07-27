@@ -18,12 +18,12 @@
 
 ## Vad är en MTS fil?
 
-En MTS-fil är en [AVCHD](/sv/video/avchd) (Advanced Video Coding High Definition) videofil som tagits med vanliga videokameror. Detta filformat är ett standardvideoformat som används av många AVCHD-kompatibla videokameror som Sony och Panasonic HD-videokameror. MTS låter dig spela in videor med hög upplösning (HD) för att transformera eller dela dem på din dator. De
+En MTS-fil är en [AVCHD](/sv/video/avchd/) (Advanced Video Coding High Definition) videofil som tagits med vanliga videokameror. Detta filformat är ett standardvideoformat som används av många AVCHD-kompatibla videokameror som Sony och Panasonic HD-videokameror. MTS låter dig spela in videor med hög upplösning (HD) för att transformera eller dela dem på din dator. De
 MTS-filen används i stor utsträckning av många proffs och hemanvändare som deras videofilformat i denna moderna tid.
 
 ## MTS videoformat
 
-.mts är ett av filtilläggen som används för AVCHD-videor. Formatet [AVCHD](/sv/video/avchd) introducerades av Sony och Panasonic 2006 som används av många av de kända videokameramärkena för deras filminspelningsenheter. MTS (förkortat MPEG Transport Stream) är ett containerfilformat som innehåller ljud, video och andra viktiga data. Eftersom den använder MPEG-4 / H.264 videokomprimering kan den stödja 1080i och 720p videor. Ljudströmmarna i en MTS-fil kan komprimeras med PCM-ljud som är en okomprimerad linjär codec eller Dolby AC-3 codec.
+.mts är ett av filtilläggen som används för AVCHD-videor. Formatet [AVCHD](/sv/video/avchd/) introducerades av Sony och Panasonic 2006 som används av många av de kända videokameramärkena för deras filminspelningsenheter. MTS (förkortat MPEG Transport Stream) är ett containerfilformat som innehåller ljud, video och andra viktiga data. Eftersom den använder MPEG-4 / H.264 videokomprimering kan den stödja 1080i och 720p videor. Ljudströmmarna i en MTS-fil kan komprimeras med PCM-ljud som är en okomprimerad linjär codec eller Dolby AC-3 codec.
 
 ## Skillnaden mellan MTS och M2TS
 

@@ -19,7 +19,7 @@
 
 ## Vad är TGS fil?
 
-En fil med filtillägget .tgs är en animerad klistermärkefil som introducerades av den plattformsoberoende meddelandetjänsten [Telegram](https://core.telegram.org/animated_stickers). Animerade klistermärken används av användare av meddelandeappar för att skicka mer förbättrat och livligt innehåll i meddelanden till skillnad från den statiska grafiken som är stillbilder. Telegram använde ursprungligen filformatet [WEBP](/sv/image/webp/) för stillbildsetiketter. TGS-filformatet kan lagra animationsdata med högre upplösningar och mindre filstorlek jämfört med statiska WEBP-klistermärken. TGS-filer kan öppnas med applikationer som Telegram, 7-zip, Apple Archive Utility och Corel WinZip.
+En fil med filtillägget .tgs är en animerad klistermärkefil som introducerades av den plattformsoberoende meddelandetjänsten [Telegram](https://core.telegram.org/stickers#animated-stickers). Animerade klistermärken används av användare av meddelandeappar för att skicka mer förbättrat och livligt innehåll i meddelanden till skillnad från den statiska grafiken som är stillbilder. Telegram använde ursprungligen filformatet [WEBP](/sv/image/webp/) för stillbildsetiketter. TGS-filformatet kan lagra animationsdata med högre upplösningar och mindre filstorlek jämfört med statiska WEBP-klistermärken. TGS-filer kan öppnas med applikationer som Telegram, 7-zip, Apple Archive Utility och Corel WinZip.
 
 ## TGS filformat
 
@@ -45,6 +45,6 @@ $ head -c 200 animated-sticker
 ```
 ## Referenser ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
 

@@ -55,5 +55,5 @@ Bộ chứa tệp MKV hỗ trợ cả hai.
 ## Người giới thiệu ##
 
 - [Ghi chú đặc điểm kỹ thuật Matroska](https://www.matroska.org/technical/notes.html)
-- [Hỗ trợ bộ chứa tệp MKV cho video 3D âm thanh nổi và tệp MK3D](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d- các tập tin/)
+- [Hỗ trợ bộ chứa tệp MKV cho video 3D âm thanh nổi và tệp MK3D](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d-files/)
 

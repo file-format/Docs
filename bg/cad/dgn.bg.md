@@ -44,6 +44,5 @@ DGN файл на MicroStation V8 е съставен от един или по�
 ## Препратки
 
 * [DNG – от Wikipedia](https://en.wikipedia.org/wiki/DGN)
-* [OpenDNG](http://www.bentley.com/opendgn)
 * [Файлов формат MicroStation V8 DGN](https://web.archive.org/web/20120713013730/http://docs.bentley.com/ko/MicroStation/ustnhelp47.html)
 

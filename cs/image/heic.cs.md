@@ -23,7 +23,7 @@ Soubor HEIC je formát souboru High-Efficiency Container Image, který dokáže 
 
 ## Formát souboru HEIC
 
-HEIC je založen na formátu souboru HEIF a používá standard HEVC (také známý jako H.265) pro dosažení kompaktní velikosti souboru bez kompromisů v kvalitě. Když je snímek pořízen na iOS zařízení (jako je IPhone, IPad nebo MacOS), uloží se do těchto zařízení jako soubor HEIC. HEIC je formát kontejneru, který může ukládat jeden nebo více obrázků spolu s metadaty, která popisují každý obrázek. Jedním z takových příkladů metadat je [EXIF](/cs/image/exif), které obsahuje tagování a informace metadat se souborem obrázku.
+HEIC je založen na formátu souboru HEIF a používá standard HEVC (také známý jako H.265) pro dosažení kompaktní velikosti souboru bez kompromisů v kvalitě. Když je snímek pořízen na iOS zařízení (jako je IPhone, IPad nebo MacOS), uloží se do těchto zařízení jako soubor HEIC. HEIC je formát kontejneru, který může ukládat jeden nebo více obrázků spolu s metadaty, která popisují každý obrázek. Jedním z takových příkladů metadat je [EXIF](/cs/image/exif/), které obsahuje tagování a informace metadat se souborem obrázku.
 
 ### Úložiště dat HEIF
 

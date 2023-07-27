@@ -19,7 +19,7 @@
 
 ## Що таке файл AWS?
 
-Файл AWS — це файл електронної таблиці, створений за допомогою програмного забезпечення Ability Spreadsheet, яке постачається з пакетом Ability Office. Він зберігає дані в рядках і стовпцях, подібно до Microsoft Excel. Дані файлів AWS можна зберігати в [XLS](/uk/spreadsheet/xls/) і [XLSX](/uk/spreadsheet/xlsx). Це робить файл таблиці можливостей сумісним із Microsoft Excel. Дані в електронних таблицях можна експортувати у формати [PDF](/uk/pdf/) і [XPS](/uk/page-description-language/xps/).
+Файл AWS — це файл електронної таблиці, створений за допомогою програмного забезпечення Ability Spreadsheet, яке постачається з пакетом Ability Office. Він зберігає дані в рядках і стовпцях, подібно до Microsoft Excel. Дані файлів AWS можна зберігати в [XLS](/uk/spreadsheet/xls/) і [XLSX](/uk/spreadsheet/xlsx/). Це робить файл таблиці можливостей сумісним із Microsoft Excel. Дані в електронних таблицях можна експортувати у формати [PDF](/uk/pdf/) і [XPS](/uk/page-description-language/xps/).
 
 ## Формат файлу AWS – Додаткова інформація
 

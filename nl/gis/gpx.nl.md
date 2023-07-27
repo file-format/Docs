@@ -74,6 +74,6 @@ Het volgende GPX-bestand toont de organisatie van GPS-gegevens in een GPX-bestan
 
 ## Referenties ##
 
-* [GPX-bestandsindeling](http://www.topografix.com/gpx.asp)
+* [GPX-bestandsindeling](https://www.topografix.com/gpx.asp)
 * [GPX - Door Wikipedia](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
 

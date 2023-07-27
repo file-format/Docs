@@ -30,10 +30,10 @@
 * נתונים דחוסים
 * כותרת תחתונה של קובץ
 
-פורמט הקובץ GZIP [מפרט גרסה 4.3](http://tools.ietf.org/html/rfc1952) שפורסם על ידי Internet Engineering Task Force (IETF) מכיל מידע מפורט על פורמט הקובץ.
+פורמט הקובץ GZIP [מפרט גרסה 4.3](https://datatracker.ietf.org/doc/html/rfc1952) שפורסם על ידי Internet Engineering Task Force (IETF) מכיל מידע מפורט על פורמט הקובץ.
 
 ## הפניות
 
-* [RFC1952: מפרט פורמט קובץ GZIP](http://tools.ietf.org/html/rfc1952), מאת [IETF](https://www.ietf.org/)
+* [RFC1952: מפרט פורמט קובץ GZIP](https://datatracker.ietf.org/doc/html/rfc1952), מאת [IETF](https://www.ietf.org/)
 * [Windows MetaFile - ויקיפדיה](https://en.wikipedia.org/wiki/Windows_Metafile)
 

@@ -94,6 +94,6 @@ X3D הוא פורמט קובץ גרפי תלת-ממדי מבוסס [XML](/he/web
 ## הפניות ##
 
 * [X3D - מאת ויקיפדיה](https://en.wikipedia.org/wiki/X3D)
-* [אתר האינטרנט הרשמי של קונסורציום Web3D](http://www.web3d.org/)
-* [אתר רשמי של X3D](http://www.web3d.org/x3d/what-x3d)
+* [אתר האינטרנט הרשמי של קונסורציום Web3D](https://www.web3d.org/)
+* [אתר רשמי של X3D](https://www.web3d.org/x3d/what-x3d)
 

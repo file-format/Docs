@@ -62,6 +62,6 @@ DWG tem sido um dos formatos de arquivo amplamente utilizados por uma variedade 
 ## Referências ##
 
 * [Especificações de formato de arquivo DWG](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [A especificação do arquivo DWG](https://www.scan2cad.com/dwg/file-spec/)
+* [A especificação do arquivo DWG](https://www.scan2cad.com/blog/dwg/file-spec/)
 * [DWG - Por Wikipedia](https://en.wikipedia.org/wiki/.dwg)
 

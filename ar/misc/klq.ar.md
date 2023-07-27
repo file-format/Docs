@@ -27,6 +27,6 @@
 
 ## مراجع
 
-* [تفاصيل ملفات العزل](https://community.kaspersky.com/kaspersky-total-security-14/details-of-quarantine-files-merged-8534)
-* [ملف KLQ](https://community.kaspersky.com/search؟q=klq٪20file)
+* [تفاصيل ملفات العزل](https://forum.kaspersky.com/)
+* [ملف KLQ](https://forum.kaspersky.com/?q=klq%20file)
 

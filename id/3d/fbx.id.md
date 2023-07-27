@@ -80,7 +80,7 @@ Definitions: {
 
 ## Struktur File Biner dari File FBX
 
-Seperti yang dinyatakan sebelumnya, spesifikasi format file FBX tidak tersedia untuk umum untuk FBX. Karena Blender Foundation mengimplementasikan format file FBX tanpa menggunakan SDK yang disediakan perusahaan, beberapa detail tentang format file biner [tersedia](https://code.blender.org/2013/08/fbx-binary-file-format -spesifikasi/) sebagai bagian dari implementasinya.
+Seperti yang dinyatakan sebelumnya, spesifikasi format file FBX tidak tersedia untuk umum untuk FBX. Karena Blender Foundation mengimplementasikan format file FBX tanpa menggunakan SDK yang disediakan perusahaan, beberapa detail tentang format file biner [tersedia](https://code.blender.org/2013/08/fbx-binary-file-format-specification/) sebagai bagian dari implementasinya.
 
 Struktur file biner mengikuti urutan berikut:
 
@@ -206,7 +206,7 @@ String tidak diakhiri dengan nol, dan mungkin berisi \0 karakter (ini sebenarnya
 
 ## Referensi ##
 
-* [FBX - SDK Autodesk](http://help.autodesk.com/view/FBX/2017/ENU/?guid#__files_GUID_105ED19A_9A5A_425E_BFD7_C1BBADA67AAB_htm)
+* [FBX - SDK Autodesk](https://help.autodesk.com/view/FBX/2017/ENU/)
 * [Spesifikasi Format File Biner FBX](https://code.blender.org/2013/08/fbx-binary-file-format-specification/)
 * [FBX - Wikipedia](https://en.wikipedia.org/wiki/FBX#File_format)
 

@@ -23,7 +23,7 @@
 
 ## KGB ファイル形式
 
-KGB ファイル形式に関する技術的な実装の詳細はありません。アーカイブされたファイルを保護するために AES-256 暗号化を提供します。 KGB アーカイバは、2006 年 4 月に Tomasz Pawlak によって Visual [C++](/programming/cpp) で開発され、[1 GB のファイルを最大 10 MB に圧縮](https://web.archive.org/ web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/) ファイル。
+KGB ファイル形式に関する技術的な実装の詳細はありません。アーカイブされたファイルを保護するために AES-256 暗号化を提供します。 KGB アーカイバは、2006 年 4 月に Tomasz Pawlak によって Visual [C++](/programming/cpp/) で開発され、[1 GB のファイルを最大 10 MB に圧縮](https://web.archive.org/ web/20100522074017/http://cshared.com/compress-1-gb-to-10-mb-kgb-archiver/) ファイル。
 
 ## 参考文献
 

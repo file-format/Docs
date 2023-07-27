@@ -29,7 +29,7 @@
 
 Η μορφή αρχείου DOCM ακολουθεί την ίδια δομή DOCX που βασίζεται στη μορφή αρχείου του Office OpenXML. Τα περιεχόμενα μιας μορφής αρχείου DOCM μπορούν να προβληθούν μετονομάζοντάς το σε ZIP και ανοίγοντας το αρχείο χρησιμοποιώντας οποιοδήποτε βοηθητικό πρόγραμμα υποστήριξης. Οι προδιαγραφές [MS-DOCX](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx) καθορίζουν τις λεπτομέρειες μορφής αρχείου του Office OpenXML για τη μορφή αρχείου DOCX για αναφορά προγραμματιστών και ισχύουν και για το DOTM. Οι μακροεντολές περιέχονται σε ένα δυαδικό αρχείο με το όνομα vbaProject.bin, με δύο υποστηρικτικά αρχεία vbaProject.bin.rels και vbaData.xml.
 
-![](http://social.technet.microsoft.com/Forums/getfile/331363)
+![](https://social.technet.microsoft.com/Forums/getfile/331363)
 
 ## βιβλιογραφικές αναφορές
 

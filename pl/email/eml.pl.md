@@ -22,7 +22,7 @@ Format pliku EML reprezentuje wiadomości e-mail zapisane za pomocą programu Ou
 
 ## Krótka historia EML
 
-Specyfikacje formatu plików EML są dostępne zgodnie ze standardowym formatem [RFC 822](http://www.ietf.org/rfc/rfc0822.txt). Przed RFC-822, RFC-733 rządził zasadami wymiany komunikatów sieciowych do 1982 roku, ten pierwszy powstał jako ulepszenie lateral przez ustanowienie standardów ARPA. W tym samym czasie Microsoft stworzył własne moduły COM do rozwoju własnego klienta pocztowego, czyli Outlook Express. RFC-822 został ustanowiony jako zastrzeżony format, gdy firma Microsoft odeszła od otwartego standardu i stworzyła format pliku [PST](/pl/email/pst/), w którym wiadomości e-mail są zapisywane w wysoce ustrukturyzowanym formacie bazy danych. Spowodowało to problemy dla użytkowników klientów poczty e-mail firm innych niż Microsoft, gdy wiadomości e-mail były przekazywane z programu Microsoft Outlook.
+Specyfikacje formatu plików EML są dostępne zgodnie ze standardowym formatem [RFC 822](https://www.ietf.org/rfc/rfc0822.txt). Przed RFC-822, RFC-733 rządził zasadami wymiany komunikatów sieciowych do 1982 roku, ten pierwszy powstał jako ulepszenie lateral przez ustanowienie standardów ARPA. W tym samym czasie Microsoft stworzył własne moduły COM do rozwoju własnego klienta pocztowego, czyli Outlook Express. RFC-822 został ustanowiony jako zastrzeżony format, gdy firma Microsoft odeszła od otwartego standardu i stworzyła format pliku [PST](/pl/email/pst/), w którym wiadomości e-mail są zapisywane w wysoce ustrukturyzowanym formacie bazy danych. Spowodowało to problemy dla użytkowników klientów poczty e-mail firm innych niż Microsoft, gdy wiadomości e-mail były przekazywane z programu Microsoft Outlook.
 
 W 2001 roku standard 822 został rozszerzony do 2822 - Internet Message Format, który jest obecnie używany do tworzenia, odczytywania i wysyłania wiadomości EML w formacie MIME RFC-822.
 
@@ -86,5 +86,5 @@ Identyfikator załącznika X: f_jkhztmd43
 
 ## Bibliografia
 
-* [RFC 822](http://www.ietf.org/rfc/rfc0822.txt)
+* [RFC 822](https://www.ietf.org/rfc/rfc0822.txt)
 

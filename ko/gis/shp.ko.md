@@ -43,7 +43,7 @@ SHP는 ESRI Shapefile의 표현에 사용되는 기본 파일 유형 중 하나�
 
 ## SHP 파일 형식 사양
 
-shapefile의 공개 사양은 [Technical Description](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) 형식으로 ESRI에서 온라인으로 제공되며 파일의 전체 구조를 자세히 설명합니다. 기본 .shp 파일의 정보는 헤더와 레코드로 구성됩니다. 고정 길이 파일 헤더 다음에 가변 길이 레코드가 옵니다. 여기서 모든 레코드는 고정 길이 레코드 헤더와 가변 길이 레코드 내용으로 구성됩니다.
+shapefile의 공개 사양은 [Technical Description](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) 형식으로 ESRI에서 온라인으로 제공되며 파일의 전체 구조를 자세히 설명합니다. 기본 .shp 파일의 정보는 헤더와 레코드로 구성됩니다. 고정 길이 파일 헤더 다음에 가변 길이 레코드가 옵니다. 여기서 모든 레코드는 고정 길이 레코드 헤더와 가변 길이 레코드 내용으로 구성됩니다.
 
 ### 메인 SHP 파일 헤더
 
@@ -116,5 +116,5 @@ shapefile의 공개 사양은 [Technical Description](http://www.esri.com/librar
 
 ## 참조 ##
 
-* [ESRI Shapefile 기술 설명](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) by ESRI
+* [ESRI Shapefile 기술 설명](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) by ESRI
 

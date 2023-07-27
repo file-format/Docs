@@ -34,9 +34,9 @@
 <window title="Super Hello" border="normal">
     <button label="hi" onClick='alert("hi")'/>
 ```
-Схему ZUL можна завантажити з http://www.zkoss.org/2005/zul/zul.xsd.
+Схему ZUL можна завантажити з https://www.zkoss.org/2005/zul/zul.xsd.
 ## Список літератури
 
 * [ZUL - Автор ZK](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
-* [Схема ZUL](http://www.zkoss.org/2005/zul/zul.xsd)
+* [Схема ZUL](https://www.zkoss.org/2005/zul/zul.xsd)
 

@@ -74,6 +74,6 @@ GPX файлът се състои от данни за географска ш�
 
 ## Препратки ##
 
-* [GPX файлов формат](http://www.topografix.com/gpx.asp)
+* [GPX файлов формат](https://www.topografix.com/gpx.asp)
 * [GPX – от Wikipedia](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
 

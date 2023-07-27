@@ -44,6 +44,5 @@ A MicroStation V8 DGN fájl egy vagy több modellből áll. A modell egy tárol�
 ## Hivatkozások
 
 * [DNG – a Wikipedia által](https://en.wikipedia.org/wiki/DGN)
-* [OpenDNG](http://www.bentley.com/opendgn)
 * [MicroStation V8 DGN fájlformátum](https://web.archive.org/web/20120713013730/http://docs.bentley.com/ko/MicroStation/ustnhelp47.html)
 

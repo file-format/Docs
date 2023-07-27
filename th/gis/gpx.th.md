@@ -74,6 +74,6 @@
 
 ## อ้างอิง ##
 
-* [รูปแบบไฟล์ GPX](http://www.topografix.com/gpx.asp)
+* [รูปแบบไฟล์ GPX](https://www.topografix.com/gpx.asp)
 * [GPX - โดย Wikipedia](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
 

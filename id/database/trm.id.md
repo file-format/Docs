@@ -26,5 +26,5 @@ File TRM disimpan dalam format file milik Oracle dan detail format file TRM tida
 
 ## Referensi ##
 
-* [Apa itu file .trm di oracle 11g?](https://community.oracle.com/tech/developers/discussion/945615/what-is-trm-file-in-Oracle-11g)
+* [Apa itu file .trm di oracle 11g?](https://forums.oracle.com/ords/apexds/post/what-is-trm-file-in-oracle-11g-0659)
 

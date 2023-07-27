@@ -19,7 +19,7 @@
 
 ## Che cos'è un file MP?
 
-Un file MP è un file di immagine vettoriale generato dal linguaggio di programmazione MetaPost per creare immagini. Le immagini vettoriali create utilizzando il formato file MP vengono salvate come file [EPS](/it/image/eps/) (Encapsulated PostScript). Inoltre, MetaPost viene distribuito con i framework TeX e Metafont e i file MP possono essere generati dall'interno dei file TEX e LTX utilizzati da queste applicazioni. I file MP contengono istruzioni di disegno e disegni algoritmici matematici per il rendering del file EPS di output. Il motore PDFTex può utilizzare l'EPS creato per generare direttamente file [PDF](/it/pdf/).
+Un file MP è un file di immagine vettoriale generato dal linguaggio di programmazione MetaPost per creare immagini. Le immagini vettoriali create utilizzando il formato file MP vengono salvate come file [EPS](/it/page-description-language/eps/) (Encapsulated PostScript). Inoltre, MetaPost viene distribuito con i framework TeX e Metafont e i file MP possono essere generati dall'interno dei file TEX e LTX utilizzati da queste applicazioni. I file MP contengono istruzioni di disegno e disegni algoritmici matematici per il rendering del file EPS di output. Il motore PDFTex può utilizzare l'EPS creato per generare direttamente file [PDF](/it/pdf/).
 
 ## Formato file MP
 

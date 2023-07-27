@@ -42,7 +42,7 @@ PDF/UA имеет в своей основе определенные требо
 
 ## Соответствующие файлы ##
 
-Файлы, соответствующие стандарту PDF/UA, должны содержать функции, соответствующие [спецификациям PDF 1.7](http://www.adobe.com/go/pdfreference). Однако функции, запрещенные PDF/UA, должны быть исключены.
+Файлы, соответствующие стандарту PDF/UA, должны содержать функции, соответствующие [спецификациям PDF 1.7](https://opensource.adobe.com/dc-acrobat-sdk-docs/standards/pdfstandards/pdf/PDF32000_2008.pdf). Однако функции, запрещенные PDF/UA, должны быть исключены.
 
 ## Соответствующие читатели ##
 
@@ -59,5 +59,5 @@ PDF/UA имеет в своей основе определенные требо
 ## Использованная литература ##
 
 * [PDF/UA - По Википедии](https://en.wikipedia.org/wiki/PDF/UA)
-* [PDF/UA в двух словах](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [PDF/UA в двух словах](https://pdfa.org/pdfua-in-a-nutshell/)
 

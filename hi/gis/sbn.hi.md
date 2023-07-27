@@ -26,6 +26,6 @@ SBN फ़ाइलें बाइनरी फ़ाइलों के रू
 
 ## संदर्भ
 
-* [ईएसआरआई शेपफाइल तकनीकी विवरण](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf)
+* [ईएसआरआई शेपफाइल तकनीकी विवरण](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf)
 * [ईएसआरआई आर्कगिस प्रो](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 

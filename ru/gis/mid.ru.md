@@ -27,6 +27,6 @@
 
 ## использованная литература
 
-* [MapInfo Professional — Википедия](http://en.wikipedia.org/wiki/MapInfo_Professional)
+* [MapInfo Professional — Википедия](https://en.wikipedia.org/wiki/MapInfo_Professional)
 * [Точно MapInfo MIF/MID Reader/Writer](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/mif/mif.htm)
 

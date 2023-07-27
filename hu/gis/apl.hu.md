@@ -27,5 +27,5 @@ Az APL bináris GIS fájlok, és a fájlformátum információi nem elérhetők 
 
 ## Referenciák ##
 
-* [ArcPad Pro](http://www.esri.com/library/brochures/pdfs/arcpadbro.pdf)
+* [ArcPad Pro](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/brochures/pdfs/arcpadbro.pdf)
 

@@ -27,6 +27,6 @@ MID-Dateien werden im Binärdateiformat auf der Disc gespeichert. Attribute in d
 
 ## Verweise
 
-* [MapInfo Professional – Wikipedia](http://en.wikipedia.org/wiki/MapInfo_Professional)
+* [MapInfo Professional – Wikipedia](https://en.wikipedia.org/wiki/MapInfo_Professional)
 * [Genau MapInfo MIF/MID Reader/Writer](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/mif/mif.htm)
 

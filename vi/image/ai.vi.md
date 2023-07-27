@@ -19,7 +19,7 @@
 
 ## Tệp AI là gì?
 
-Tệp có phần mở rộng .ai là tệp Tác phẩm nghệ thuật Adobe Illustrator chứa đồ họa vector trong một trang. nó sử dụng các điểm để tạo đường dẫn hiển thị dữ liệu hình ảnh, do đó đảm bảo an toàn không bị giảm chất lượng hình ảnh nếu nó được phóng to. Định dạng tệp AI dựa trên định dạng tệp PGF tương tự như tệp AI. Định dạng AI được sử dụng chủ yếu cho logo và phương tiện in, đồng thời các phiên bản ban đầu của nó được coi là tương tự như phiên bản của tệp [EPS](/vi/image/eps/). Các tệp AI có thể được mở bằng các công cụ Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro và CorelDraw Graphics.
+Tệp có phần mở rộng .ai là tệp Tác phẩm nghệ thuật Adobe Illustrator chứa đồ họa vector trong một trang. nó sử dụng các điểm để tạo đường dẫn hiển thị dữ liệu hình ảnh, do đó đảm bảo an toàn không bị giảm chất lượng hình ảnh nếu nó được phóng to. Định dạng tệp AI dựa trên định dạng tệp PGF tương tự như tệp AI. Định dạng AI được sử dụng chủ yếu cho logo và phương tiện in, đồng thời các phiên bản ban đầu của nó được coi là tương tự như phiên bản của tệp [EPS](/vi/page-description-language/eps/). Các tệp AI có thể được mở bằng các công cụ Adobe Illustrator, Adobe Acrobat DC, PaintShop Pro và CorelDraw Graphics.
 
 ## Định dạng tệp AI
 

@@ -19,7 +19,7 @@
 
 ## Ce este un fișier OTG?
 
-Un fișier OTG este un șablon de desen care este creat folosind standardul OpenDocument care urmează OASIS Office Applications [specificația 1.0](http://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0 -os.pdf). Reprezintă organizarea implicită a elementelor de desen pentru o imagine vectorială care poate fi folosită pentru a îmbunătăți și mai mult conținutul fișierului. Fișierele OTF sunt ca orice alte fișiere bazate pe format OpenDocument care se bazează pe formatul XML pentru a reprezenta conținutul documentului. Fișierele OTF pot fi vizualizate prin deschiderea lor în orice editor de text sau XML standard.
+Un fișier OTG este un șablon de desen care este creat folosind standardul OpenDocument care urmează OASIS Office Applications [specificația 1.0](https://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0-os.pdf). Reprezintă organizarea implicită a elementelor de desen pentru o imagine vectorială care poate fi folosită pentru a îmbunătăți și mai mult conținutul fișierului. Fișierele OTF sunt ca orice alte fișiere bazate pe format OpenDocument care se bazează pe formatul XML pentru a reprezenta conținutul documentului. Fișierele OTF pot fi vizualizate prin deschiderea lor în orice editor de text sau XML standard.
 
 ## Specificații pentru formatul fișierului OTG ##
 

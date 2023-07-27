@@ -94,6 +94,6 @@ X3D-scenfiler har en gemensam filstruktur:
 ## Referenser ##
 
 * [X3D - av Wikipedia](https://en.wikipedia.org/wiki/X3D)
-* [Web3D Consortium officiella webbplats](http://www.web3d.org/)
-* [X3D officiella webbplats](http://www.web3d.org/x3d/what-x3d)
+* [Web3D Consortium officiella webbplats](https://www.web3d.org/)
+* [X3D officiella webbplats](https://www.web3d.org/x3d/what-x3d)
 

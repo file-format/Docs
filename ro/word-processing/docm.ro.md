@@ -29,7 +29,7 @@ Formatul de fișier DOCM se bazează pe standardul Office OpenXML. A fost la în
 
 Formatul de fișier DOCM urmează aceeași structură DOCX bazată pe formatul de fișier Office OpenXML. Conținutul unui format de fișier DOCM poate fi vizualizat prin redenumirea lui în ZIP și deschiderea arhivei folosind orice utilitar de suport. Specificațiile [MS-DOCX](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx) definesc detaliile despre formatul de fișier Office OpenXML pentru formatul de fișier DOCX pentru referința dezvoltatorilor și sunt aplicabile și pentru DOTM. Macrocomenzile sunt conținute într-un fișier binar numit vbaProject.bin, cu două fișiere suport vbaProject.bin.rels și vbaData.xml.
 
-![](http://social.technet.microsoft.com/Forums/getfile/331363)
+![](https://social.technet.microsoft.com/Forums/getfile/331363)
 
 ## Referințe
 

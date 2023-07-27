@@ -34,7 +34,7 @@ Cùng với sự ra mắt của 4th Dimension v3.1 vào năm 1993, 4D Client v1.
 
 ## Thông số kỹ thuật định dạng tệp 4DD ##
 
-Tệp dữ liệu bao gồm tất cả dữ liệu được nhập vào bản ghi, cũng như tất cả dữ liệu được liên kết với chúng. Tệp dữ liệu được đặt tên theo tên bạn nhập trong hộp thoại tạo cơ sở dữ liệu, theo sau là [4DB](/vi/database/4db).
+Tệp dữ liệu bao gồm tất cả dữ liệu được nhập vào bản ghi, cũng như tất cả dữ liệu được liên kết với chúng. Tệp dữ liệu được đặt tên theo tên bạn nhập trong hộp thoại tạo cơ sở dữ liệu, theo sau là [4DB](/vi/database/4db/).
 
 Tệp dữ liệu hiện có được mở như bình thường khi bạn tải tệp cấu trúc 4D. Nếu bạn thay đổi tên hoặc vị trí của tệp, hộp thoại Mở thư mục dữ liệu cho phép bạn chọn hoặc tạo cơ sở dữ liệu mới.
 

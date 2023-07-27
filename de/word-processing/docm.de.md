@@ -29,7 +29,7 @@ Das DOCM-Dateiformat basiert auf dem Office OpenXML-Standard. Anfang des Jahres 
 
 Das DOCM-Dateiformat folgt der gleichen DOCX-Struktur basierend auf dem Office OpenXML-Dateiformat. Der Inhalt eines DOCM-Dateiformats kann angezeigt werden, indem Sie es in ZIP umbenennen und das Archiv mit einem beliebigen unterstützenden Dienstprogramm öffnen. Die [MS-DOCX](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx)-Spezifikationen definieren die Office OpenXML-Dateiformatdetails für das DOCX-Dateiformat als Referenz für Entwickler und gelten auch für DOTM. Die Makros sind in einer Binärdatei namens vbaProject.bin mit zwei unterstützenden Dateien vbaProject.bin.rels und vbaData.xml enthalten.
 
-![](http://social.technet.microsoft.com/Forums/getfile/331363)
+![](https://social.technet.microsoft.com/Forums/getfile/331363)
 
 ## Verweise
 

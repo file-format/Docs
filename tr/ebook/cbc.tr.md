@@ -19,7 +19,7 @@
 
 ## CBC dosyası nedir?
 
-.cbc uzantılı bir dosya, e-Kitaplar için Çizgi Roman dosyalarının sıkıştırılmış bir koleksiyonudur ve [CBZ](/tr/ebook/cbz/) ve [CBR](/tr/ebook/cbr/) dosyalarını içerir. Platformlar arası açık kaynaklı bir e-kitap yöneticisi olan ve e-kitaplarınızı yönetmenize ve bunları farklı biçimlere dönüştürmenize olanak sağlayan bir e-Kitap dönüştürme uygulaması olan [Calibre](https://calibre-ebook.com/) tarafından kullanılır. . CBC dosyası, arşivin parçası olan diğer dosyaları listeleyen çizgi roman.txt adlı bir .txt dosyası içerir. CBC dosyalarını [AZW3](/tr/ebook/azw3), [EPUB](/tr/ebook/epub/), [FB2](/tr/ebook/fb2/), [MOBI](/tr/ebook/) biçimlerine dönüştürebilen çeşitli çevrimiçi uygulamalar mevcuttur. mobi/), [TXT](/tr/word-processing/txt/), [PDF](/tr/pdf/) ve diğer popüler dosya biçimleri.
+.cbc uzantılı bir dosya, e-Kitaplar için Çizgi Roman dosyalarının sıkıştırılmış bir koleksiyonudur ve [CBZ](/tr/ebook/cbz/) ve [CBR](/tr/ebook/cbr/) dosyalarını içerir. Platformlar arası açık kaynaklı bir e-kitap yöneticisi olan ve e-kitaplarınızı yönetmenize ve bunları farklı biçimlere dönüştürmenize olanak sağlayan bir e-Kitap dönüştürme uygulaması olan [Calibre](https://calibre-ebook.com/) tarafından kullanılır. . CBC dosyası, arşivin parçası olan diğer dosyaları listeleyen çizgi roman.txt adlı bir .txt dosyası içerir. CBC dosyalarını [AZW3](/tr/ebook/azw3/), [EPUB](/tr/ebook/epub/), [FB2](/tr/ebook/fb2/), [MOBI](/tr/ebook/) biçimlerine dönüştürebilen çeşitli çevrimiçi uygulamalar mevcuttur. mobi/), [TXT](/tr/word-processing/txt/), [PDF](/tr/pdf/) ve diğer popüler dosya biçimleri.
 
 ## CBC Dosya Biçimi
 

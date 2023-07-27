@@ -19,11 +19,11 @@
 
 ## Vad är en GADGET-fil?
 
-En GADGET-fil består av ett litet program som körs i Windows Vista eller Windows 7 sidofältet. Den komprimerar flera webbaserade filer och filerna kan bestå av filerna [.html](/sv/web/html), [.css](/sv/web/css) eller [.js](/sv/web/js), samt andra webbfiler. GADGET-filer används för små komponenter som sökverktyg, nyhetsflöden, systemverktyg och små spel. Även om GADGET är värd för sidofältet, är de inte specifika för sidofältsområdet; dessa kan lossas och flyttas till skrivbordet efter önskemål.
+En GADGET-fil består av ett litet program som körs i Windows Vista eller Windows 7 sidofältet. Den komprimerar flera webbaserade filer och filerna kan bestå av filerna [.html](/sv/web/html/), [.css](/sv/web/css/) eller [.js](/sv/web/js/), samt andra webbfiler. GADGET-filer används för små komponenter som sökverktyg, nyhetsflöden, systemverktyg och små spel. Även om GADGET är värd för sidofältet, är de inte specifika för sidofältsområdet; dessa kan lossas och flyttas till skrivbordet efter önskemål.
 
 ## GADGET filformat
 
-GADGET-filen är ett omdöpt [ZIP](/sv/compression/zip)-arkiv som innehåller en samling HTML-, XML-, JScript- och CSS-filer (Cascading Style Sheets). Installationen innehåller att ladda ner .gadget-filen och aktivera nedladdningsprocessen för att installera komponenten eller att spara .gadget-filen till det lokala systemet och dubbelklicka för att starta installationsprocessen.
+GADGET-filen är ett omdöpt [ZIP](/sv/compression/zip/)-arkiv som innehåller en samling HTML-, XML-, JScript- och CSS-filer (Cascading Style Sheets). Installationen innehåller att ladda ner .gadget-filen och aktivera nedladdningsprocessen för att installera komponenten eller att spara .gadget-filen till det lokala systemet och dubbelklicka för att starta installationsprocessen.
 
 I grund och botten innehåller en GADGET två filer:
 

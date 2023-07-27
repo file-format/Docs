@@ -27,5 +27,5 @@ DO-Dateien werden als Webdateien gespeichert, die im Browser geöffnet werden, w
 
 ## Verweise
 
-* [DML](http://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
+* [DML](https://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
 

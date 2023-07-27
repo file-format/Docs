@@ -55,5 +55,5 @@
 ## مراجع ##
 
 - [ملاحظات مواصفات ماتروسكا](https://www.matroska.org/technical/notes.html)
-- [دعم حاوية ملفات MKV لفيديو استريو ثلاثي الأبعاد وملفات MK3D](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d- ملفات /)
+- [دعم حاوية ملفات MKV لفيديو استريو ثلاثي الأبعاد وملفات MK3D](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d-files/)
 

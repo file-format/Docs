@@ -100,5 +100,5 @@ Zwiastun zakończenia pliku dla DWF jest po prostu specjalnym kodem operacji wsk
 
 * [DWF – z Wikipedii](https://en.wikipedia.org/wiki/Design_Web_Format)
 * [Format danych WHIP](http://paulbourke.net/dataformats/whip/)
-* [http://blogs.msdn.com/opc/archive/2009/05/18/adventures-in-packaging-episode-1.aspx](http://blogs.msdn.com/opc/archive/2009 /05/18/adventures-in-packaging-episode-1.aspx)
+* [https://learn.microsoft.com/en-us/archive/blogs/opc/adventures-in-packaging-episode-1](https://learn.microsoft.com/en-us/archive/blogs/opc/adventures-in-packaging-episode-1)
 

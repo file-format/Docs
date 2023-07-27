@@ -38,35 +38,35 @@ Die EMBEDDEDFONT-Struktur wurde drei Revisionen unterzogen, wobei bei jeder Revi
 |unsigned long|FontDataSize|Länge der OpenType-Schriftart (FontData) in Bytes|
 |unsigned long|Version|Versionsnummer dieses Formats - 0x00020002|
 |unsigned long|Flags|Flags werden verarbeitet|
-|byte[10]|FontPANOSE|Der PANOSE-Wert für diese Schriftart – Siehe http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|byte|Charset|In Windows wird dies von TEXTMETRIC.tmCharSet abgeleitet. Dieser Wert gibt den Zeichensatz der Schriftart an. DEFAULT_CHARSET (0x01) gibt keine Präferenz an. - Siehe http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
-|byte|Italic|Wenn das Bit für ITALIC in OS/2.fsSelection gesetzt ist, ist der Wert 0x01 – siehe http://www.microsoft.com/typography/otspec/os2.htm#fss|
-|unsigned long|Weight|Der Gewichtswert für diese Schriftart – Siehe http://www.microsoft.com/typography/otspec/os2.htm#wtc|
-|unsigned short|fsType|Type-Flags, die Informationen über Einbettungsberechtigungen bereitstellen – Siehe http://www.microsoft.com/typography/otspec/os2.htm#fst|
+|byte[10]|FontPANOSE|Der PANOSE-Wert für diese Schriftart – Siehe https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
+|byte|Charset|In Windows wird dies von TEXTMETRIC.tmCharSet abgeleitet. Dieser Wert gibt den Zeichensatz der Schriftart an. DEFAULT_CHARSET (0x01) gibt keine Präferenz an. - Siehe https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
+|byte|Italic|Wenn das Bit für ITALIC in OS/2.fsSelection gesetzt ist, ist der Wert 0x01 – siehe https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss|
+|unsigned long|Weight|Der Gewichtswert für diese Schriftart – Siehe https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|
+|unsigned short|fsType|Type-Flags, die Informationen über Einbettungsberechtigungen bereitstellen – Siehe https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|
 |unsigned short|MagicNumber|Magische Nummer für EOT-Datei - 0x504C. Wird verwendet, um auf Datenbeschädigung zu prüfen.|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (Bits 0-31) – Siehe http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (Bits 32-63) – Siehe http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (Bits 64-95) – Siehe http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (Bits 96-127) – Siehe http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|CodePageRange1|CodePageRange1 (Bits 0–31) – Siehe http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CodePageRange2|CodePageRange2 (Bits 32–63) – Siehe http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment – Siehe http://www.microsoft.com/typography/otspec/head.htm|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (Bits 0-31) – Siehe https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (Bits 32-63) – Siehe https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (Bits 64-95) – Siehe https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (Bits 96-127) – Siehe https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|CodePageRange1|CodePageRange1 (Bits 0–31) – Siehe https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CodePageRange2|CodePageRange2 (Bits 32–63) – Siehe https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment – Siehe https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Reserviert1|Reserviert - muss 0 sein|
 |unsigned long|Reserviert2|Reserviert - muss 0 sein|
 |unsigned long|Reserviert3|Reserviert - muss 0 sein|
 |unsigned long|Reserviert4|Reserviert - muss 0 sein|
 |unsigned short|Padding1|Padding, um die lange Ausrichtung beizubehalten. Der Füllwert muss immer auf 0x0000 gesetzt werden.|
 |unsigned short|FamilyNameSize|Anzahl der vom FamilyName-Array verwendeten Bytes|
-|byte|FamilyName[FamilyNameSize]|Array von UTF-16-Zeichen mit der Länge von FamilyNameSize Bytes. Dies ist die Zeichenkette der englischen Schriftfamilie, die in der Namenstabelle der Schriftart gefunden wird (Namens-ID = 1) – siehe http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FamilyName[FamilyNameSize]|Array von UTF-16-Zeichen mit der Länge von FamilyNameSize Bytes. Dies ist die Zeichenkette der englischen Schriftfamilie, die in der Namenstabelle der Schriftart gefunden wird (Namens-ID = 1) – siehe https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|Paddingwert muss immer auf 0x0000 gesetzt werden.|
 |unsigned short|StyleNameSize|Anzahl der vom StyleName verwendeten Bytes|
-|byte|StyleName[StyleNameSize]|Array von UTF-16-Zeichen mit der Länge von StyleNameSize Bytes. Dies ist die Zeichenkette der Unterfamilie der englischen Schriftart, die in der Namenstabelle der Schriftart gefunden wird (Namens-ID = 2) – siehe http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|Array von UTF-16-Zeichen mit der Länge von StyleNameSize Bytes. Dies ist die Zeichenkette der Unterfamilie der englischen Schriftart, die in der Namenstabelle der Schriftart gefunden wird (Namens-ID = 2) – siehe https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|Paddingwert muss immer auf 0x0000 gesetzt werden.|
 |unsigned short|VersionNameSize|Anzahl der von VersionName verwendeten Bytes|
-|bytes|VersionName[VersionNameSize]|Array von UTF-16-Zeichen mit der Länge von VersionNameSize Bytes. Dies ist die englischsprachige Versionszeichenfolge, die in der Namenstabelle der Schriftart gefunden wird (Namens-ID = 5) – siehe http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|Array von UTF-16-Zeichen mit der Länge von VersionNameSize Bytes. Dies ist die englischsprachige Versionszeichenfolge, die in der Namenstabelle der Schriftart gefunden wird (Namens-ID = 5) – siehe https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|Auffüllwert muss immer auf 0x0000 gesetzt werden.|
 |unsigned short|FullNameSize|Anzahl der vom FullName verwendeten Bytes|
-|byte|FullName[FullNameSize]|Array von UTF-16-Zeichen mit der Länge von FullNameSize-Bytes. Dies ist die vollständige Namenszeichenfolge in englischer Sprache, die in der Namenstabelle der Schriftart gefunden wird (Namens-ID = 4) – Siehe http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|Array von UTF-16-Zeichen mit der Länge von FullNameSize-Bytes. Dies ist die vollständige Namenszeichenfolge in englischer Sprache, die in der Namenstabelle der Schriftart gefunden wird (Namens-ID = 4) – Siehe https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|Auffüllwert muss immer auf 0x0000 gesetzt werden.|
 |unsigned short|RootStringSize|Anzahl der vom RootString-Array verwendeten Bytes|
 |byte|RootString[RootStringSize]|Array von UTF-16-Zeichen mit der Länge von RootStringSize-Bytes.|

@@ -28,7 +28,7 @@ Formatul de fișier OEB constă dintr-un set de fișiere, inclusiv un fișier pa
 OEBPS 1.2 a fost o actualizare strâns cuplată cu versiunea anterioară (OEBPS 1.0.1). Acesta a oferit funcționalități moderne în zona controlului randării, inclusiv, printre altele, îmbunătățiri ale vocabularului de marcare (acum un subset autentic al XHTML 1.1) și a extins foarte mult suportul CSS. Factorii de sustenabilitate sunt neschimbați față de versiunea anterioară.
   
 
-Pachetul de fișiere OEB a fost folosit în primul rând ca format de stat mediu, publicarea către utilizatorii finali fiind gestionată prin editori sau agregatori care au furnizat cărți electronice în forme potrivite pentru diferiți vizualizatori de cărți electronice. Versiunea sa succesoare, [EPUB](/ro/ebook/epub), este mai probabil să ajungă la utilizatorii finali ca format de stare finală, precum și ca format de stare de mijloc.
+Pachetul de fișiere OEB a fost folosit în primul rând ca format de stat mediu, publicarea către utilizatorii finali fiind gestionată prin editori sau agregatori care au furnizat cărți electronice în forme potrivite pentru diferiți vizualizatori de cărți electronice. Versiunea sa succesoare, [EPUB](/ro/ebook/epub/), este mai probabil să ajungă la utilizatorii finali ca format de stare finală, precum și ca format de stare de mijloc.
 
 ## Referințe
 

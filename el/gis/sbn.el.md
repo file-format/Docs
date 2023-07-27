@@ -26,6 +26,6 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Τεχνική περιγραφή ESRI ShapeFile](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf)
+* [Τεχνική περιγραφή ESRI ShapeFile](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf)
 * [ESRI ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 

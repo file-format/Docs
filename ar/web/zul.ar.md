@@ -34,9 +34,9 @@
 <window title="Super Hello" border="normal">
     <button label="hi" onClick='alert("hi")'/>
 ```
-يمكن تنزيل مخطط ZUL من http://www.zkoss.org/2005/zul/zul.xsd.
+يمكن تنزيل مخطط ZUL من https://www.zkoss.org/2005/zul/zul.xsd.
 ## مراجع
 
 * [ZUL - بواسطة ZK](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
-* [مخطط ZUL](http://www.zkoss.org/2005/zul/zul.xsd)
+* [مخطط ZUL](https://www.zkoss.org/2005/zul/zul.xsd)
 

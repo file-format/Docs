@@ -19,11 +19,11 @@
 
 ## Czym jest plik GADŻET?
 
-Plik GADGET składa się z małego programu, który jest uruchamiany na pasku bocznym systemu Windows Vista lub Windows 7. Kompresuje kilka plików internetowych, a pliki mogą obejmować pliki [.html](/pl/web/html), [.css](/pl/web/css) lub [.js](/pl/web/js), a także inne pliki internetowe. Pliki GADGET są używane w małych komponentach, takich jak narzędzia wyszukiwania, kanały informacyjne, narzędzia systemowe i małe gry. Chociaż GADŻETY są hostowane na pasku bocznym, nie są specyficzne dla obszaru paska bocznego; można je oddokować i przenieść na pulpit zgodnie z potrzebami.
+Plik GADGET składa się z małego programu, który jest uruchamiany na pasku bocznym systemu Windows Vista lub Windows 7. Kompresuje kilka plików internetowych, a pliki mogą obejmować pliki [.html](/pl/web/html/), [.css](/pl/web/css/) lub [.js](/pl/web/js/), a także inne pliki internetowe. Pliki GADGET są używane w małych komponentach, takich jak narzędzia wyszukiwania, kanały informacyjne, narzędzia systemowe i małe gry. Chociaż GADŻETY są hostowane na pasku bocznym, nie są specyficzne dla obszaru paska bocznego; można je oddokować i przenieść na pulpit zgodnie z potrzebami.
 
 ## Format pliku GADŻET
 
-Plik GADGET to archiwum o zmienionej nazwie [ZIP](/pl/compression/zip), zawierające kolekcję plików HTML, XML, JScript i CSS (kaskadowe arkusze stylów). Instalacja obejmuje pobranie pliku .gadget i włączenie procesu pobierania w celu zainstalowania komponentu lub zapisanie pliku .gadget w systemie lokalnym i dwukrotne kliknięcie w celu rozpoczęcia procesu instalacji.
+Plik GADGET to archiwum o zmienionej nazwie [ZIP](/pl/compression/zip/), zawierające kolekcję plików HTML, XML, JScript i CSS (kaskadowe arkusze stylów). Instalacja obejmuje pobranie pliku .gadget i włączenie procesu pobierania w celu zainstalowania komponentu lub zapisanie pliku .gadget w systemie lokalnym i dwukrotne kliknięcie w celu rozpoczęcia procesu instalacji.
 
 Zasadniczo GADŻET zawiera dwa pliki:
 

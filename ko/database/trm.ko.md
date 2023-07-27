@@ -26,5 +26,5 @@ TRM 파일은 Oracle의 독점 파일 형식으로 저장되며 TRM 파일 형�
 
 ## 참조 ##
 
-* [oracle 11g에서 .trm 파일이란?](https://community.oracle.com/tech/developers/discussion/945615/what-is-trm-file-in-oracle-11g)
+* [oracle 11g에서 .trm 파일이란?](https://forums.oracle.com/ords/apexds/post/what-is-trm-file-in-oracle-11g-0659)
 

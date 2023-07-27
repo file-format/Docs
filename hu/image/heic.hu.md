@@ -23,7 +23,7 @@ A HEIC-fájl egy nagy hatékonyságú konténerkép-fájlformátum, amely több 
 
 ## HEIC fájlformátum
 
-A HEIC a HEIF fájlformátumon alapul, és a HEVC szabványt (más néven H.265-öt) használja a kompakt fájlméret eléréséhez a minőség rovására. Ha egy képet iOS-eszközön (például IPhone-on, IPad-on vagy MacOS-on) készítenek, a rendszer HEIC-fájlként tárolja ezeket az eszközöket. A HEIC egy konténerformátum, amely egyetlen vagy több képet is tárolhat az egyes képeket leíró metaadatokkal együtt. A metaadatok egyik ilyen példája az [EXIF](/hu/image/exif), amely tartalmazza a képfájl címkézési és metaadat-információit.
+A HEIC a HEIF fájlformátumon alapul, és a HEVC szabványt (más néven H.265-öt) használja a kompakt fájlméret eléréséhez a minőség rovására. Ha egy képet iOS-eszközön (például IPhone-on, IPad-on vagy MacOS-on) készítenek, a rendszer HEIC-fájlként tárolja ezeket az eszközöket. A HEIC egy konténerformátum, amely egyetlen vagy több képet is tárolhat az egyes képeket leíró metaadatokkal együtt. A metaadatok egyik ilyen példája az [EXIF](/hu/image/exif/), amely tartalmazza a képfájl címkézési és metaadat-információit.
 
 ### HEIF adattárolás
 

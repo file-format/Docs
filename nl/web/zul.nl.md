@@ -34,9 +34,9 @@ In het volgende voorbeeld van ZUML-code specificeert de eerste regel de paginati
 <window title="Super Hello" border="normal">
     <button label="hi" onClick='alert("hi")'/>
 ```
-Het ZUL-schema kan worden gedownload van http://www.zkoss.org/2005/zul/zul.xsd.
+Het ZUL-schema kan worden gedownload van https://www.zkoss.org/2005/zul/zul.xsd.
 ## Referenties
 
 * [ZUL - Door ZK](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
-* [ZUL-schema](http://www.zkoss.org/2005/zul/zul.xsd)
+* [ZUL-schema](https://www.zkoss.org/2005/zul/zul.xsd)
 

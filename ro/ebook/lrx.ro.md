@@ -23,7 +23,7 @@ Un fișier cu extensia .lrx este un fișier asociat pentru Sony Broadband eBook 
 
 ## Format de fișier LRX
 
-Fișierele LRX sunt în format binar și tot conținutul fișierului este criptat, spre deosebire de [LRS](/ro/ebook/lrs), care este un format necriptat. Un alt format de fișier BBeB asociat este LRS, care este bazat pe XML și poate fi citit de om în orice editor de text. Antetul fișierelor LRX conține informații precum:
+Fișierele LRX sunt în format binar și tot conținutul fișierului este criptat, spre deosebire de [LRS](/ro/ebook/lrs/), care este un format necriptat. Un alt format de fișier BBeB asociat este LRS, care este bazat pe XML și poate fi citit de om în orice editor de text. Antetul fișierelor LRX conține informații precum:
 
 * Versiune
 * Identificarea obiectului rădăcină

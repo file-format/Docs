@@ -23,7 +23,7 @@ Tệp HEIC là định dạng tệp Hình ảnh vùng chứa hiệu quả cao c�
 
 ## Định dạng tệp HEIC
 
-HEIC dựa trên định dạng tệp HEIF và sử dụng tiêu chuẩn HEVC (còn được gọi là H.265) để đạt được kích thước tệp nhỏ gọn mà không ảnh hưởng đến chất lượng. Khi một hình ảnh được chụp trên thiết bị iOS (chẳng hạn như IPhone, IPad hoặc MacOS), nó sẽ được lưu trữ dưới dạng tệp HEIC trên các thiết bị này. HEIC là định dạng vùng chứa có thể lưu trữ một hoặc nhiều hình ảnh cùng với dữ liệu meta mô tả từng hình ảnh. Một ví dụ về siêu dữ liệu như vậy là [EXIF](/vi/image/exif) bao gồm thông tin gắn thẻ và siêu dữ liệu với tệp hình ảnh.
+HEIC dựa trên định dạng tệp HEIF và sử dụng tiêu chuẩn HEVC (còn được gọi là H.265) để đạt được kích thước tệp nhỏ gọn mà không ảnh hưởng đến chất lượng. Khi một hình ảnh được chụp trên thiết bị iOS (chẳng hạn như IPhone, IPad hoặc MacOS), nó sẽ được lưu trữ dưới dạng tệp HEIC trên các thiết bị này. HEIC là định dạng vùng chứa có thể lưu trữ một hoặc nhiều hình ảnh cùng với dữ liệu meta mô tả từng hình ảnh. Một ví dụ về siêu dữ liệu như vậy là [EXIF](/vi/image/exif/) bao gồm thông tin gắn thẻ và siêu dữ liệu với tệp hình ảnh.
 
 ### Lưu trữ dữ liệu HEIF
 

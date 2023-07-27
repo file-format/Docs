@@ -23,7 +23,7 @@ HEIC dosyası, birden çok görüntüyü tek bir dosyada bir koleksiyon olarak d
 
 ## HEIC Dosya Biçimi
 
-HEIC, HEIF dosya biçimini temel alır ve kaliteden ödün vermeden kompakt dosya boyutu elde etmek için HEVC standardını (H.265 olarak da bilinir) kullanır. iOS cihazında (iPhone, IPad veya MacOS gibi) bir görüntü çekildiğinde, bu cihazlara HEIC dosyası olarak kaydedilir. HEIC, her görüntüyü açıklayan meta verilerle birlikte tek veya birden çok görüntüyü depolayabilen bir kap formatıdır. Böyle bir meta veri örneği, görüntü dosyasıyla birlikte etiketleme ve meta veri bilgilerini içeren [EXIF](/tr/image/exif) örneğidir.
+HEIC, HEIF dosya biçimini temel alır ve kaliteden ödün vermeden kompakt dosya boyutu elde etmek için HEVC standardını (H.265 olarak da bilinir) kullanır. iOS cihazında (iPhone, IPad veya MacOS gibi) bir görüntü çekildiğinde, bu cihazlara HEIC dosyası olarak kaydedilir. HEIC, her görüntüyü açıklayan meta verilerle birlikte tek veya birden çok görüntüyü depolayabilen bir kap formatıdır. Böyle bir meta veri örneği, görüntü dosyasıyla birlikte etiketleme ve meta veri bilgilerini içeren [EXIF](/tr/image/exif/) örneğidir.
 
 ### HEIF Veri Depolama
 

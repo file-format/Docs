@@ -61,7 +61,7 @@ Nota che tutti i campi dell'intestazione (magic, size, version, toc_length_compr
 
 ### XAR Sommario (TOC)
 
-Il sommario è un documento XML che è (e deve) essere codificato come UTF-8. Viene memorizzato all'inizio del file, semplificando la scansione dell'archivio per estrarre il singolo file. L'archivio XAR consente di comprimere/codificare i singoli file nell'archivio in modo indipendente utilizzando diversi schemi di compressione come [GZIP](/it/compression/gz/), [BZIP2](/it/compression/bz2) e altri simili.
+Il sommario è un documento XML che è (e deve) essere codificato come UTF-8. Viene memorizzato all'inizio del file, semplificando la scansione dell'archivio per estrarre il singolo file. L'archivio XAR consente di comprimere/codificare i singoli file nell'archivio in modo indipendente utilizzando diversi schemi di compressione come [GZIP](/it/compression/gz/), [BZIP2](/it/compression/bz2/) e altri simili.
 
 ```
 <?xml version="1.0"?>

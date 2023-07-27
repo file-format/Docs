@@ -18,12 +18,12 @@
 
 ## Apa itu file MTS?
 
-File MTS adalah file video [AVCHD](/id/video/avchd) (Advanced Video Coding High Definition) yang direkam oleh camcorder biasa. Format file ini adalah format video standar yang digunakan oleh banyak camcorder yang kompatibel dengan AVCHD seperti camcorder HD Sony dan Panasonic. MTS memungkinkan Anda merekam video definisi tinggi (HD) untuk diubah atau dibagikan di komputer Anda. Itu
+File MTS adalah file video [AVCHD](/id/video/avchd/) (Advanced Video Coding High Definition) yang direkam oleh camcorder biasa. Format file ini adalah format video standar yang digunakan oleh banyak camcorder yang kompatibel dengan AVCHD seperti camcorder HD Sony dan Panasonic. MTS memungkinkan Anda merekam video definisi tinggi (HD) untuk diubah atau dibagikan di komputer Anda. Itu
 File MTS banyak digunakan oleh banyak profesional dan pengguna rumahan sebagai format file video mereka di era modern ini.
 
 ## Format Video MTS
 
-.mts adalah salah satu ekstensi file yang digunakan untuk video AVCHD. Format [AVCHD](/id/video/avchd) diperkenalkan oleh Sony dan Panasonic pada tahun 2006 yang digunakan oleh banyak merek camcorder terkenal untuk perangkat pembuatan film mereka. MTS (disingkat MPEG Transport Stream) adalah format file kontainer yang berisi audio, video, dan data penting lainnya. Karena menggunakan kompresi video MPEG-4 / H.264, ini dapat mendukung video 1080i dan 720p. Stream audio dalam file MTS dapat dikompresi menggunakan audio PCM yang merupakan codec linier yang tidak terkompresi atau codec Dolby AC-3.
+.mts adalah salah satu ekstensi file yang digunakan untuk video AVCHD. Format [AVCHD](/id/video/avchd/) diperkenalkan oleh Sony dan Panasonic pada tahun 2006 yang digunakan oleh banyak merek camcorder terkenal untuk perangkat pembuatan film mereka. MTS (disingkat MPEG Transport Stream) adalah format file kontainer yang berisi audio, video, dan data penting lainnya. Karena menggunakan kompresi video MPEG-4 / H.264, ini dapat mendukung video 1080i dan 720p. Stream audio dalam file MTS dapat dikompresi menggunakan audio PCM yang merupakan codec linier yang tidak terkompresi atau codec Dolby AC-3.
 
 ## Perbedaan antara MTS dan M2TS
 

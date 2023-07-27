@@ -19,7 +19,7 @@
 
 ## Mi az a CBC fájl?
 
-A .cbc kiterjesztésű fájl képregény-fájlok tömörített gyűjteménye e-könyvekhez, és [CBZ](/hu/ebook/cbz/) és [CBR](/hu/ebook/cbr/) fájlokat tartalmaz. A [Calibre](https://calibre-ebook.com/) e-könyv-konverziós alkalmazás használja, amely egy többplatformos nyílt forráskódú e-könyvkezelő, és lehetővé teszi az e-könyvek kezelését és azok különböző formátumokba való konvertálását. . A CBC-fájl egy .txt fájlt (comics.txt) tartalmaz, amely felsorolja az archívum részét képező egyéb fájlokat. Számos olyan alkalmazás érhető el online, amelyek CBC-fájlokat konvertálhatnak [AZW3](/hu/ebook/azw3), [EPUB](/hu/ebook/epub/), [FB2](/hu/ebook/fb2/), [MOBI](/hu/ebook/) mobi/), [TXT](/hu/word-processing/txt/), [PDF](/hu/pdf/) és más népszerű fájlformátumok.
+A .cbc kiterjesztésű fájl képregény-fájlok tömörített gyűjteménye e-könyvekhez, és [CBZ](/hu/ebook/cbz/) és [CBR](/hu/ebook/cbr/) fájlokat tartalmaz. A [Calibre](https://calibre-ebook.com/) e-könyv-konverziós alkalmazás használja, amely egy többplatformos nyílt forráskódú e-könyvkezelő, és lehetővé teszi az e-könyvek kezelését és azok különböző formátumokba való konvertálását. . A CBC-fájl egy .txt fájlt (comics.txt) tartalmaz, amely felsorolja az archívum részét képező egyéb fájlokat. Számos olyan alkalmazás érhető el online, amelyek CBC-fájlokat konvertálhatnak [AZW3](/hu/ebook/azw3/), [EPUB](/hu/ebook/epub/), [FB2](/hu/ebook/fb2/), [MOBI](/hu/ebook/) mobi/), [TXT](/hu/word-processing/txt/), [PDF](/hu/pdf/) és más népszerű fájlformátumok.
 
 ## CBC fájl formátum
 

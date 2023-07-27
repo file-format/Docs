@@ -35,5 +35,5 @@ ZIPX 文件以二进制文件的形式保存到光盘中，内部文件格式的
 ## 参考
 
 * [ZIPX 文件格式](https://kb.corel.com/en/125951)
-* [如何提取 ZIPX 文件](https://answers.microsoft.com/en-us/windows/forum/all/i-want-to-extract-zipx-files/32827ca4-ceec-4faf-93d9-d9ecffb1fb41 )
+* [如何提取 ZIPX 文件](https://answers.microsoft.com/en-us/windows/forum/all/i-want-to-extract-zipx-files/32827ca4-ceec-4faf-93d9-d9ecffb1fb41)
 

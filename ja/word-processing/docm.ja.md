@@ -29,7 +29,7 @@ DOCM ファイル形式は、Office OpenXML 標準に基づいています。 Mi
 
 DOCM ファイル形式は、Office OpenXML ファイル形式に基づく同じ DOCX 構造に従います。 DOCM ファイル形式の内容は、名前を ZIP に変更し、サポートされているユーティリティを使用してアーカイブを開くことで表示できます。 [MS-DOCX](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx) 仕様は、開発者の参照用に DOCX ファイル形式の Office OpenXML ファイル形式の詳細を定義しますDOTMにも適用できます。マクロは、2 つのサポート ファイル vbaProject.bin.rels および vbaData.xml と共に、vbaProject.bin という名前のバイナリ ファイルに含まれています。
 
-![](http://social.technet.microsoft.com/Forums/getfile/331363)
+![](https://social.technet.microsoft.com/Forums/getfile/331363)
 
 ## 参考文献
 

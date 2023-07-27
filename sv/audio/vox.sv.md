@@ -31,7 +31,7 @@ Det används mest för röstinspelningar och komprimering. I detta format kan po
 
 VOX-filerna är associerade med Media Boards som kallas DMV och JCT of Dialogic. Dessa tillhör VoxWare och mycket annan programvara. Det brukade betraktas som ett föråldrat format.
 
-Som ett föråldrat format användes det inte efter det. I likhet med andra ADPCM-format komprimerades den till 4 bitar. Funktionerna i dessa filer är tillräckligt nära [WAV](/sv/audio/wav) filspecifikationer.
+Som ett föråldrat format användes det inte efter det. I likhet med andra ADPCM-format komprimerades den till 4 bitar. Funktionerna i dessa filer är tillräckligt nära [WAV](/sv/audio/wav/) filspecifikationer.
 
 
 ## Formatspecifikationer ##

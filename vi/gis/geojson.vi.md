@@ -33,7 +33,7 @@ Tọa độ là yếu tố cơ bản của bất kỳ dữ liệu địa lý nà
 
 ### Chức vụ ###
 
-Một mảng tọa độ được sắp xếp đại diện cho [vị trí](http://geojson.org/geojson-spec.html#positions). Đây là đơn vị nhỏ nhất có thể chỉ ra một điểm trên trái đất.
+Một mảng tọa độ được sắp xếp đại diện cho [vị trí](https://geojson.org/geojson-spec.html#positions). Đây là đơn vị nhỏ nhất có thể chỉ ra một điểm trên trái đất.
 
 `[Kinh độ, vĩ độ, độ cao]`
 

@@ -27,6 +27,6 @@ MID 文件以二进制文件格式保存到光盘。 MID 文件中的属性以�
 
 ## 参考
 
-* [MapInfo Professional - 维基百科](http://en.wikipedia.org/wiki/MapInfo_Professional)
+* [MapInfo Professional - 维基百科](https://en.wikipedia.org/wiki/MapInfo_Professional)
 * [精确 MapInfo MIF/MID Reader/Writer](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/mif/mif.htm)
 

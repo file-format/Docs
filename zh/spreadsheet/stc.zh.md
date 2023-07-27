@@ -20,7 +20,7 @@
 
 ## 什么是一 .stc 文件？
 
-STC 文件是由 [StarOffice](http://www.staroffice.com) 软件创建和支持的电子表格模板文件。它包含用于创建其他电子表格文件的设置，这些文件使用模板的信息来设置电子表格设置，例如页面格式、字体大小、边距、图表等。文件格式后来被 Apache OpenOffice 采用，但后来被替换为使用[.ots](/zh/spreadsheet/ots/) 文件格式，用于存储模板文件信息。 STC 文件可以使用 OpenOffice Calc、Planamesa NeoOffice 和 LibreOffice 打开。
+STC 文件是由 [StarOffice](https://www.staroffice.com/) 软件创建和支持的电子表格模板文件。它包含用于创建其他电子表格文件的设置，这些文件使用模板的信息来设置电子表格设置，例如页面格式、字体大小、边距、图表等。文件格式后来被 Apache OpenOffice 采用，但后来被替换为使用[.ots](/zh/spreadsheet/ots/) 文件格式，用于存储模板文件信息。 STC 文件可以使用 OpenOffice Calc、Planamesa NeoOffice 和 LibreOffice 打开。
 
 ## STC 文件格式
 

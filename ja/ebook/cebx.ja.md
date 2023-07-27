@@ -19,7 +19,7 @@
 
 ## .CEBX オプション番号
 
-拡張子が .cebx (中国語の電子ブック) のファイルは **Apabi eBook ファイル**として知られ、[CEB](/ebook/ceb) ファイル形式を実際に置き換えました。 CEBX ファイルには中国語形式のテキストやその他のレイアウト情報が含まれているため、このファイル形式は廃止されました。 CEBX ファイル形式は、Founder Electronics の Apabi パブリッシャーによって開発されました。この形式のファイルは、中国語の電子ブックのコレクションを含む APABI D-Lib ライブラリから入手できます。これらのバイナリ エンコード ファイルは、Apabi ソフトウェアを使用して表示できます。 Microsoft Windows 用の **Apabi Reader 4.5.2 for Multi-Language**、**Android 1.8.1 用の Apabi Reader**、および **iOS 2.4.0 用の Apabi Reader** は、CEBX ファイル形式をサポートしています。
+拡張子が .cebx (中国語の電子ブック) のファイルは **Apabi eBook ファイル**として知られ、[CEB](/ebook/ceb/) ファイル形式を実際に置き換えました。 CEBX ファイルには中国語形式のテキストやその他のレイアウト情報が含まれているため、このファイル形式は廃止されました。 CEBX ファイル形式は、Founder Electronics の Apabi パブリッシャーによって開発されました。この形式のファイルは、中国語の電子ブックのコレクションを含む APABI D-Lib ライブラリから入手できます。これらのバイナリ エンコード ファイルは、Apabi ソフトウェアを使用して表示できます。 Microsoft Windows 用の **Apabi Reader 4.5.2 for Multi-Language**、**Android 1.8.1 用の Apabi Reader**、および **iOS 2.4.0 用の Apabi Reader** は、CEBX ファイル形式をサポートしています。
 
 ## 参考文献
 

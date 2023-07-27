@@ -27,6 +27,6 @@ Les fichiers KLQ sont enregistrés sur le disque au format crypté afin qu'ils n
 
 ## Références
 
-* [Détails des fichiers de quarantaine](https://community.kaspersky.com/kaspersky-total-security-14/details-of-quarantine-files-merged-8534)
-* [Fichier KLQ](https://community.kaspersky.com/search?q=klq%20file)
+* [Détails des fichiers de quarantaine](https://forum.kaspersky.com/)
+* [Fichier KLQ](https://forum.kaspersky.com/?q=klq%20file)
 

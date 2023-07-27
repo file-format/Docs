@@ -80,7 +80,7 @@ Definitions: {
 
 ## Δομή δυαδικού αρχείου αρχείων FBX
 
-Όπως αναφέρθηκε προηγουμένως, οι προδιαγραφές μορφής αρχείου FBX δεν είναι διαθέσιμες δημόσια για το FBX. Εφόσον, το Blender Foundation εφαρμόζει τη μορφή αρχείου FBX χωρίς τη χρήση του SDK που παρέχει η εταιρεία, ορισμένες από τις λεπτομέρειες σχετικά με τη δυαδική μορφή αρχείου είναι [διαθέσιμες](https://code.blender.org/2013/08/fbx-binary-file-format -προδιαγραφή/) ως μέρος της εφαρμογής του.
+Όπως αναφέρθηκε προηγουμένως, οι προδιαγραφές μορφής αρχείου FBX δεν είναι διαθέσιμες δημόσια για το FBX. Εφόσον, το Blender Foundation εφαρμόζει τη μορφή αρχείου FBX χωρίς τη χρήση του SDK που παρέχει η εταιρεία, ορισμένες από τις λεπτομέρειες σχετικά με τη δυαδική μορφή αρχείου είναι [διαθέσιμες](https://code.blender.org/2013/08/fbx-binary-file-format-specification/) ως μέρος της εφαρμογής του.
 
 Η δομή των δυαδικών αρχείων ακολουθεί την ακόλουθη σειρά:
 
@@ -206,7 +206,7 @@ R: raw binary data
 
 ## Βιβλιογραφικές αναφορές ##
 
-* [FBX - Το Autodesk SDK](http://help.autodesk.com/view/FBX/2017/ENU/?guid#__files_GUID_105ED19A_9A5A_425E_BFD7_C1BBADA67AAB_htm)
+* [FBX - Το Autodesk SDK](https://help.autodesk.com/view/FBX/2017/ENU/)
 * [Προδιαγραφές μορφής δυαδικού αρχείου FBX](https://code.blender.org/2013/08/fbx-binary-file-format-specification/)
 * [FBX - Wikipedia](https://en.wikipedia.org/wiki/FBX#File_format)
 

@@ -19,7 +19,7 @@
 
 ## Czym jest plik INI? ##
 
-Plik INI to dokument konfiguracyjny wiadomości dla programów komputerowych, który zawiera klucze publiczne dla cech i sekcji, które organizują atrybuty w ramach i gramatyce. Te dokumenty konfiguracji formatu plików systemowych biorą swoją nazwę od rozszerzenia katalogu systemu operacyjnego MS-DOS INI, co oznacza inicjację. To spopularyzowało tę formę instalacji oprogramowania. Wiele programów w innych aplikacjach używa różnych rozszerzeń nazw plików, takich jak CONF i [CFG](/pl/system/cfg), chociaż format ten ustanowił nieoficjalny standard w wielu sytuacjach konfiguracyjnych.
+Plik INI to dokument konfiguracyjny wiadomości dla programów komputerowych, który zawiera klucze publiczne dla cech i sekcji, które organizują atrybuty w ramach i gramatyce. Te dokumenty konfiguracji formatu plików systemowych biorą swoją nazwę od rozszerzenia katalogu systemu operacyjnego MS-DOS INI, co oznacza inicjację. To spopularyzowało tę formę instalacji oprogramowania. Wiele programów w innych aplikacjach używa różnych rozszerzeń nazw plików, takich jak CONF i [CFG](/pl/system/cfg/), chociaż format ten ustanowił nieoficjalny standard w wielu sytuacjach konfiguracyjnych.
 
 ## Krótka historia plików INI##
 

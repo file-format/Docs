@@ -28,6 +28,6 @@ DWT, kolayca kullanılabilen önceden tanımlanmış değerlere sahip bir DWG ol
 ### Referanslar
 
 * [DWG Dosya Biçimi Özellikleri](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [DWG Dosya Spesifikasyonu](https://www.scan2cad.com/dwg/file-spec/)
+* [DWG Dosya Spesifikasyonu](https://www.scan2cad.com/blog/dwg/file-spec/)
 * [DWG - Wikipedia Tarafından](https://en.wikipedia.org/wiki/.dwg)
 

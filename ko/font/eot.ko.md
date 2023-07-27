@@ -38,35 +38,35 @@ EMBEDDEDFONT 구조는 세 번의 개정을 거쳤으며 각 개정과 함께 �
 |unsigned long|FontDataSize|OpenType 글꼴(FontData)의 길이(바이트)|
 |unsigned long|버전|이 형식의 버전 번호 - 0x00020002|
 |unsigned long|플래그|플래그 처리|
-|byte[10]|FontPANOSE|이 글꼴의 PANOSE 값 - 참조 http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|byte|Charset|Windows에서 이것은 TEXTMETRIC.tmCharSet에서 파생됩니다. 이 값은 글꼴의 문자 집합을 지정합니다. DEFAULT_CHARSET(0x01)은 기본 설정이 없음을 나타냅니다. - 참조 http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
-|byte|기울임꼴|ITALIC에 대한 비트가 OS/2.fsSelection에서 설정되면 값은 0x01이 됩니다. - http://www.microsoft.com/typography/otspec/os2.htm#fss를 참조하십시오.
-|unsigned long|Weight|이 글꼴의 가중치 값 - http://www.microsoft.com/typography/otspec/os2.htm#wtc|를 참조하십시오.
-|unsigned short|fsType|권한 포함에 대한 정보를 제공하는 유형 플래그 - http://www.microsoft.com/typography/otspec/os2.htm#fst|를 참조하십시오.
+|byte[10]|FontPANOSE|이 글꼴의 PANOSE 값 - 참조 https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
+|byte|Charset|Windows에서 이것은 TEXTMETRIC.tmCharSet에서 파생됩니다. 이 값은 글꼴의 문자 집합을 지정합니다. DEFAULT_CHARSET(0x01)은 기본 설정이 없음을 나타냅니다. - 참조 https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
+|byte|기울임꼴|ITALIC에 대한 비트가 OS/2.fsSelection에서 설정되면 값은 0x01이 됩니다. - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss를 참조하십시오.
+|unsigned long|Weight|이 글꼴의 가중치 값 - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|를 참조하십시오.
+|unsigned short|fsType|권한 포함에 대한 정보를 제공하는 유형 플래그 - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|를 참조하십시오.
 |unsigned short|MagicNumber|EOT 파일용 매직 넘버 - 0x504C. 데이터 손상을 확인하는 데 사용됩니다.|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1(비트 0-31) - http://www.microsoft.com/typography/otspec/os2.htm#ur| 참조
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2(비트 32-63) - http://www.microsoft.com/typography/otspec/os2.htm#ur| 참조
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3(비트 64-95) - http://www.microsoft.com/typography/otspec/os2.htm#ur| 참조
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4(비트 96-127) - http://www.microsoft.com/typography/otspec/os2.htm#ur| 참조
-|unsigned long|CodePageRange1|CodePageRange1(비트 0-31) - http://www.microsoft.com/typography/otspec/os2.htm#cpr| 참조
-|unsigned long|CodePageRange2|CodePageRange2(비트 32-63) - http://www.microsoft.com/typography/otspec/os2.htm#cpr| 참조
-|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - 참조 http://www.microsoft.com/typography/otspec/head.htm|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1(비트 0-31) - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur| 참조
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2(비트 32-63) - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur| 참조
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3(비트 64-95) - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur| 참조
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4(비트 96-127) - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur| 참조
+|unsigned long|CodePageRange1|CodePageRange1(비트 0-31) - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr| 참조
+|unsigned long|CodePageRange2|CodePageRange2(비트 32-63) - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr| 참조
+|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - 참조 https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Reserved1|Reserved - 0이어야 함|
 |unsigned long|Reserved2|Reserved - 0이어야 함|
 |unsigned long|Reserved3|Reserved - 0이어야 함|
 |unsigned long|Reserved4|예약됨 - 0이어야 함|
 |unsigned short|Padding1|긴 정렬을 유지하기 위한 패딩. 패딩 값은 항상 0x0000으로 설정해야 합니다.|
 |unsigned short|FamilyNameSize|FamilyName 배열이 사용하는 바이트 수|
-|byte|FamilyName[FamilyNameSize]|FamilyNameSize 바이트 길이의 UTF-16 문자 배열. 이것은 글꼴의 이름 테이블에 있는 영어 글꼴 모음 문자열입니다(이름 ID = 1) - http://www.microsoft.com/typography/otspec/name.htm| 참조
+|byte|FamilyName[FamilyNameSize]|FamilyNameSize 바이트 길이의 UTF-16 문자 배열. 이것은 글꼴의 이름 테이블에 있는 영어 글꼴 모음 문자열입니다(이름 ID = 1) - https://learn.microsoft.com/en-us/typography/opentype/spec/name| 참조
 |unsigned short|Padding2|패딩 값은 항상 0x0000으로 설정되어야 합니다.|
 |unsigned short|StyleNameSize|StyleName이 사용하는 바이트 수|
-|byte|StyleName[StyleNameSize]|UTF-16 문자 배열 StyleNameSize 바이트 길이. 이것은 글꼴의 이름 테이블에 있는 영어 글꼴 하위 계열 문자열입니다(이름 ID = 2) - http://www.microsoft.com/typography/otspec/name.htm| 참조
+|byte|StyleName[StyleNameSize]|UTF-16 문자 배열 StyleNameSize 바이트 길이. 이것은 글꼴의 이름 테이블에 있는 영어 글꼴 하위 계열 문자열입니다(이름 ID = 2) - https://learn.microsoft.com/en-us/typography/opentype/spec/name| 참조
 |unsigned short|Padding3|패딩 값은 항상 0x0000으로 설정되어야 합니다.|
 |unsigned short|VersionNameSize|VersionName이 사용하는 바이트 수|
-|bytes|VersionName[VersionNameSize]|VersionNameSize 바이트 길이의 UTF-16 문자 배열. 이것은 글꼴의 이름 테이블에 있는 영어 버전 문자열입니다(이름 ID = 5) - http://www.microsoft.com/typography/otspec/name.htm| 참조
+|bytes|VersionName[VersionNameSize]|VersionNameSize 바이트 길이의 UTF-16 문자 배열. 이것은 글꼴의 이름 테이블에 있는 영어 버전 문자열입니다(이름 ID = 5) - https://learn.microsoft.com/en-us/typography/opentype/spec/name| 참조
 |unsigned short|Padding4|패딩 값은 항상 0x0000으로 설정되어야 합니다.|
 |unsigned short|FullNameSize|FullName이 사용하는 바이트 수|
-|byte|FullName[FullNameSize]|FullNameSize 바이트 길이의 UTF-16 문자 배열. 이것은 글꼴의 이름 테이블에 있는 영어 전체 이름 문자열입니다(이름 ID = 4) - http://www.microsoft.com/typography/otspec/name.htm| 참조
+|byte|FullName[FullNameSize]|FullNameSize 바이트 길이의 UTF-16 문자 배열. 이것은 글꼴의 이름 테이블에 있는 영어 전체 이름 문자열입니다(이름 ID = 4) - https://learn.microsoft.com/en-us/typography/opentype/spec/name| 참조
 |unsigned short|Padding5|패딩 값은 항상 0x0000으로 설정되어야 합니다.|
 |unsigned short|RootStringSize|RootString 배열이 사용하는 바이트 수|
 |byte|RootString[RootStringSize]|UTStringSize 바이트 길이의 UTF-16 문자 배열|

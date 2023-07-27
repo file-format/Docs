@@ -19,11 +19,11 @@
 
 ## Mi az a GADGET fájl?
 
-A GADGET-fájl egy kis szoftverprogramból áll, amely a Windows Vista vagy a Windows 7 oldalsávján fut. Több webalapú fájlt tömörít, és a fájlok tartalmazhatnak [.html](/hu/web/html), [.css](/hu/web/css) vagy [.js](/hu/web/js) fájlokat, valamint egyéb webes fájlok. A GADGET-fájlok kis komponensekhez, például keresőeszközökhöz, hírfolyamokhoz, rendszer-segédprogramokhoz és kis játékokhoz használhatók. Bár a modulokat az oldalsáv tárolja, nem jellemzőek az oldalsáv területére; ezek leválaszthatók és tetszés szerint áthelyezhetők az asztalra.
+A GADGET-fájl egy kis szoftverprogramból áll, amely a Windows Vista vagy a Windows 7 oldalsávján fut. Több webalapú fájlt tömörít, és a fájlok tartalmazhatnak [.html](/hu/web/html/), [.css](/hu/web/css/) vagy [.js](/hu/web/js/) fájlokat, valamint egyéb webes fájlok. A GADGET-fájlok kis komponensekhez, például keresőeszközökhöz, hírfolyamokhoz, rendszer-segédprogramokhoz és kis játékokhoz használhatók. Bár a modulokat az oldalsáv tárolja, nem jellemzőek az oldalsáv területére; ezek leválaszthatók és tetszés szerint áthelyezhetők az asztalra.
 
 ## GADGET fájlformátum
 
-A GADGET fájl egy átnevezett [ZIP](/hu/compression/zip) archívum, amely HTML, XML, JScript és CSS (Cascading Style Sheets) fájlok gyűjteményét tartalmazza. A telepítés magában foglalja a .gadget fájl letöltését és a letöltési folyamat engedélyezését az összetevő telepítéséhez, vagy a .gadget fájl mentését a helyi rendszerbe, és a telepítési folyamat elindításához kattintson duplán.
+A GADGET fájl egy átnevezett [ZIP](/hu/compression/zip/) archívum, amely HTML, XML, JScript és CSS (Cascading Style Sheets) fájlok gyűjteményét tartalmazza. A telepítés magában foglalja a .gadget fájl letöltését és a letöltési folyamat engedélyezését az összetevő telepítéséhez, vagy a .gadget fájl mentését a helyi rendszerbe, és a telepítési folyamat elindításához kattintson duplán.
 
 Alapvetően egy GADGET két fájlt tartalmaz:
 

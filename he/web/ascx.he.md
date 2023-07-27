@@ -50,5 +50,5 @@
 ## הפניות
 
 * [ASCX לעומת ASMX](https://social.msdn.microsoft.com/Forums/en-US/a27d4c2f-b972-439e-a7fe-f4b7e3637700/how-to-work-with-ascx-files?forum=aspwebforms)
-* [בקרת משתמש ASCX](http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
+* [בקרת משתמש ASCX](https://beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

@@ -19,7 +19,7 @@
 
 ## .DCM オプション番号
 
-拡張子が .dcm のファイルは、MRI、CT スキャン、超音波画像などの患者の医療情報を保存するデジタル画像を表します。 DCM ファイルは、[DICOM](/image/dicom) (医学におけるデジタル画像と通信) 画像ファイル形式を使用し、参照用に患者の情報を含めることができます。 [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) によって開発され、医療画像の配布と表示のための画像ファイル形式を標準化することを目的としていました。
+拡張子が .dcm のファイルは、MRI、CT スキャン、超音波画像などの患者の医療情報を保存するデジタル画像を表します。 DCM ファイルは、[DICOM](/image/dicom/) (医学におけるデジタル画像と通信) 画像ファイル形式を使用し、参照用に患者の情報を含めることができます。 [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) によって開発され、医療画像の配布と表示のための画像ファイル形式を標準化することを目的としていました。
 
 ## DCM ファイル形式
 
@@ -68,5 +68,5 @@ DICOMファイルには、単一のSOPクラスに関連する単一のSOPイン
 
 ## 参照 ##
 ※【DICOM規格】(https://www.dicomstandard.org/current/)
-* [DICOM ファイル形式](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [DICOM ファイル形式](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

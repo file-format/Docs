@@ -19,7 +19,7 @@
 
 ## Vad är LRS fil?
 
-En fil med filtillägget .lrs (Librie Reader Source) hänvisar till en mellanfil som används av Sony Portable Reader. Den innehåller information som fungerar som en källa för skapandet av en Sony Broadband eBook (BBeB). LRS-filer innehåller detaljer om e-boksfilen i form av beskrivningar av innehåll och egenskaper. LRS-filer används för att skapa [LRF](/sv/ebook/lrf) och LRX-filer med hjälp av allmänt tillgängliga verktyg och API:er. Flera program som Calibre, BookDesignerMkelrf och Canon Book Creator kan användas för att öppna LRS-filer på Windows, Linux och MAC.
+En fil med filtillägget .lrs (Librie Reader Source) hänvisar till en mellanfil som används av Sony Portable Reader. Den innehåller information som fungerar som en källa för skapandet av en Sony Broadband eBook (BBeB). LRS-filer innehåller detaljer om e-boksfilen i form av beskrivningar av innehåll och egenskaper. LRS-filer används för att skapa [LRF](/sv/ebook/lrf/) och LRX-filer med hjälp av allmänt tillgängliga verktyg och API:er. Flera program som Calibre, BookDesignerMkelrf och Canon Book Creator kan användas för att öppna LRS-filer på Windows, Linux och MAC.
 
 ## LRS filformat
 

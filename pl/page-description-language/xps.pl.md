@@ -25,7 +25,7 @@ Przeglądarki XPS są zintegrowane z systemami Windows Vista, Windows 7, Windows
 
 ## Krótka historia ##
 
-Firma Microsoft przedłożyła specyfikację XPS firmie Ecma International. W czerwcu 2007 r. powołano Komitet Techniczny Ecma 46 (TC46) w celu opracowania standardu opartego na specyfikacjach papieru OpenXPS. Firma Ecma International zatwierdziła standard Ecma (ECMA-388) [specyfikacje XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm) w czerwcu 2009 r. na 97. Zgromadzeniu Ogólnym.
+Firma Microsoft przedłożyła specyfikację XPS firmie Ecma International. W czerwcu 2007 r. powołano Komitet Techniczny Ecma 46 (TC46) w celu opracowania standardu opartego na specyfikacjach papieru OpenXPS. Firma Ecma International zatwierdziła standard Ecma (ECMA-388) [specyfikacje XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/) w czerwcu 2009 r. na 97. Zgromadzeniu Ogólnym.
 
 ## Format pliku XPS ##
 
@@ -55,6 +55,6 @@ Typowy dokument XPS wygląda następująco i można go analizować w świetle [s
 
 ## Bibliografia ##
 
-* [Specyfikacje formatu plików XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+* [Specyfikacje formatu plików XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 * [XPS — z Wikipedii](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

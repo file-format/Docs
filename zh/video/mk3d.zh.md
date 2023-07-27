@@ -55,5 +55,5 @@ MKV 文件容器支持这两者。
 ## 参考 ＃＃
 
 - [Matroska 规范说明](https://www.matroska.org/technical/notes.html)
-- [对立体 3D 视频和 MK3D 文件的 MKV 文件容器支持](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d-文件/)
+- [对立体 3D 视频和 MK3D 文件的 MKV 文件容器支持](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d-files/)
 

@@ -43,7 +43,7 @@ There can be other optional files as well that share the same name as the main f
 
 ## SHP File Format Specifications
 
-Open specifications of shapefile are available online from ESRI in the form of [Technical Description](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) and elaborates the overall structure of the file in detail. Information in main .shp file consists of headers and records. The fixed-length file header is followed by variable-length records where every record is made up of a fixed-length record header followed by variable-length record contents.
+Open specifications of shapefile are available online from ESRI in the form of [Technical Description](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) and elaborates the overall structure of the file in detail. Information in main .shp file consists of headers and records. The fixed-length file header is followed by variable-length records where every record is made up of a fixed-length record header followed by variable-length record contents.
 
 ### Main SHP File Header
 
@@ -116,4 +116,4 @@ Examples of other shape types can be found the ESRI technical description docume
 
 ## References ##
 
-* [ESRI Shapefile Technical Description](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) by ESRI
+* [ESRI Shapefile Technical Description](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) by ESRI

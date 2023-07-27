@@ -28,6 +28,6 @@ DWT 可被视为具有易于使用的预定义值的 DWG。 DWG 已成为一系�
 ＃＃＃ 参考
 
 * [DWG 文件格式规范](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [DWG 文件规范](https://www.scan2cad.com/dwg/file-spec/)
+* [DWG 文件规范](https://www.scan2cad.com/blog/dwg/file-spec/)
 * [DWG - 维基百科](https://en.wikipedia.org/wiki/.dwg)
 

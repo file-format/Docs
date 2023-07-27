@@ -19,7 +19,7 @@
 
 ## Czym jest plik DCM?
 
-Pliki z rozszerzeniem .dcm reprezentują obraz cyfrowy, który przechowuje informacje medyczne pacjentów, takie jak MRI, tomografia komputerowa i obrazy ultrasonograficzne. Pliki DCM używają formatu pliku obrazu [DICOM](/pl/image/dicom) (Digital Imaging and Communications in Medicine) i mogą zawierać informacje o pacjencie w celach informacyjnych. Został opracowany przez [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) i miał na celu standaryzację formatu plików obrazowania do dystrybucji i przeglądania obrazów medycznych.
+Pliki z rozszerzeniem .dcm reprezentują obraz cyfrowy, który przechowuje informacje medyczne pacjentów, takie jak MRI, tomografia komputerowa i obrazy ultrasonograficzne. Pliki DCM używają formatu pliku obrazu [DICOM](/pl/image/dicom/) (Digital Imaging and Communications in Medicine) i mogą zawierać informacje o pacjencie w celach informacyjnych. Został opracowany przez [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) i miał na celu standaryzację formatu plików obrazowania do dystrybucji i przeglądania obrazów medycznych.
 
 ## Format pliku DCM
 
@@ -68,5 +68,5 @@ Warstwa formatu multimediów udostępnia następujące informacje o zarządzaniu
 
 ## Bibliografia ##
 * [Standard DICOM](https://www.dicomstandard.org/current/)
-* [Format pliku DICOM](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [Format pliku DICOM](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

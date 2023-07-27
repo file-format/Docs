@@ -30,10 +30,10 @@ EMZ файловете са [Gzip](/bg/compression/gz/) компресирани
 * Компресирани данни
 * Долен колонтитул на файла
 
-Файловият формат GZIP [спецификации версия 4.3](http://tools.ietf.org/html/rfc1952), публикуван от Internet Engineering Task Force (IETF), съдържа подробна информация за файловия формат.
+Файловият формат GZIP [спецификации версия 4.3](https://datatracker.ietf.org/doc/html/rfc1952), публикуван от Internet Engineering Task Force (IETF), съдържа подробна информация за файловия формат.
 
 ## Препратки
 
-* [RFC1952: спецификация на GZIP файлов формат](http://tools.ietf.org/html/rfc1952), от [IETF](https://www.ietf.org/)
+* [RFC1952: спецификация на GZIP файлов формат](https://datatracker.ietf.org/doc/html/rfc1952), от [IETF](https://www.ietf.org/)
 * [Метафайл на Windows - Уикипедия](https://en.wikipedia.org/wiki/Метафайл на Windows)
 

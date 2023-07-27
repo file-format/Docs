@@ -38,35 +38,35 @@ Az EMBEDDEDFONT struktúra három felülvizsgálaton esett át, és minden egyes
 |unsigned long|FontDataSize|Az OpenType betűtípus hossza (FontData) bájtban|
 |unsigned long|Verzió|Ennek a formátumnak a verziószáma - 0x00020002|
 |aláíratlan hosszú|Zászlók|Zászlók feldolgozása|
-|byte[10]|FontPANOSE|A font PANOSE értéke - Lásd: http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|byte|Charset|Windows rendszerben ez a TEXTMETRIC.tmCharSetből származik. Ez az érték határozza meg a betűtípus karakterkészletét. A DEFAULT_CHARSET (0x01) azt jelzi, hogy nincs preferencia. - Lásd: http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
-|byte|Dőlt|Ha az ITALIC bitje be van állítva az OS/2.fsSelectionben, az érték 0x01 lesz – Lásd: http://www.microsoft.com/typography/otspec/os2.htm#fss|
-|unsigned long|Weight|A betűtípus súlyértéke – Lásd: http://www.microsoft.com/typography/otspec/os2.htm#wtc|
-|unsigned short|fsType|Típusjelzők, amelyek információt nyújtanak a beágyazási engedélyekről – Lásd: http://www.microsoft.com/typography/otspec/os2.htm#fst|
+|byte[10]|FontPANOSE|A font PANOSE értéke - Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
+|byte|Charset|Windows rendszerben ez a TEXTMETRIC.tmCharSetből származik. Ez az érték határozza meg a betűtípus karakterkészletét. A DEFAULT_CHARSET (0x01) azt jelzi, hogy nincs preferencia. - Lásd: https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
+|byte|Dőlt|Ha az ITALIC bitje be van állítva az OS/2.fsSelectionben, az érték 0x01 lesz – Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss|
+|unsigned long|Weight|A betűtípus súlyértéke – Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|
+|unsigned short|fsType|Típusjelzők, amelyek információt nyújtanak a beágyazási engedélyekről – Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|
 |unsigned short|MagicNumber|Mágikus szám az EOT-fájlhoz – 0x504C. Adatsérülések ellenőrzésére szolgál.|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (0-31 bit) – Lásd: http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (32-63 bit) – Lásd: http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (64-95 bitek) – Lásd: http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (96-127 bitek) – Lásd: http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|CodePageRange1|CodePageRange1 (0-31 bitek) – Lásd: http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CodePageRange2|CodePageRange2 (32-63 bit) – Lásd: http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment – Lásd: http://www.microsoft.com/typography/otspec/head.htm|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (0-31 bit) – Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (32-63 bit) – Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (64-95 bitek) – Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (96-127 bitek) – Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|CodePageRange1|CodePageRange1 (0-31 bitek) – Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CodePageRange2|CodePageRange2 (32-63 bit) – Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment – Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |aláíratlan hosszú|Fenntartva1|Fenntartva - 0-nak kell lennie|
 |aláíratlan hosszú|Fenntartva2|Fenntartva - 0-nak kell lennie|
 |aláíratlan hosszú|Fenntartva3|Fenntartva - 0-nak kell lennie|
 |aláíratlan hosszú|Fenntartva4|Fenntartva - 0-nak kell lennie|
 |unsigned short|Padding1|Padding a hosszú igazítás fenntartásához. A kitöltés értékét mindig 0x0000-ra kell állítani.|
 |unsigned short|FamilyNameSize|A FamilyName tömb által használt bájtok száma|
-|byte|FamilyName[FamilyNameSize]|UTF-16 karakterek tömbje FamilyNameSize bájt hosszúságban. Ez az angol nyelvű betűtípuscsalád karakterlánc, amely a betűtípus névtáblázatában található (névazonosító = 1) - Lásd: http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FamilyName[FamilyNameSize]|UTF-16 karakterek tömbje FamilyNameSize bájt hosszúságban. Ez az angol nyelvű betűtípuscsalád karakterlánc, amely a betűtípus névtáblázatában található (névazonosító = 1) - Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|A kitöltés értékét mindig 0x0000-ra kell állítani.|
 |unsigned short|StyleNameSize|A StyleName által használt bájtok száma|
-|byte|StyleName[StyleNameSize]|UTF-16 karakterek tömbje StyleNameSize bájt hosszúságban. Ez az angol nyelvű betűtípus-alcsalád karakterlánc, amely a betűtípus névtáblázatában található (névazonosító = 2) - Lásd: http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|UTF-16 karakterek tömbje StyleNameSize bájt hosszúságban. Ez az angol nyelvű betűtípus-alcsalád karakterlánc, amely a betűtípus névtáblázatában található (névazonosító = 2) - Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|A kitöltés értékét mindig 0x0000-ra kell állítani.|
 |unsigned short|VersionNameSize|A VersionName által használt bájtok száma|
-|bytes|VersionName[VersionNameSize]|UTF-16 karakterek tömbje VersionNameSize bájt hosszúságban. Ez a betűtípus névtáblázatában található angol nyelvű verzió (névazonosító = 5) - Lásd: http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|UTF-16 karakterek tömbje VersionNameSize bájt hosszúságban. Ez a betűtípus névtáblázatában található angol nyelvű verzió (névazonosító = 5) - Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|A kitöltés értékét mindig 0x0000-ra kell állítani.|
 |unsigned short|FullNameSize|A FullName által használt bájtok száma|
-|byte|FullName[FullNameSize]|UTF-16 karakterek tömbje FullNameSize bájt hosszúságban. Ez az angol nyelvű teljes név karakterlánc, amely a betűtípus névtáblázatában található (névazonosító = 4) - Lásd: http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|UTF-16 karakterek tömbje FullNameSize bájt hosszúságban. Ez az angol nyelvű teljes név karakterlánc, amely a betűtípus névtáblázatában található (névazonosító = 4) - Lásd: https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|A kitöltés értékét mindig 0x0000-ra kell állítani.|
 |unsigned short|RootStringSize|A RootString tömb által használt bájtok száma|
 |byte|RootString[RootStringSize]|RootStringSize bájt hosszúságú UTF-16 karakterek tömbje.|

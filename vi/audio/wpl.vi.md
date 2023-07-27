@@ -23,7 +23,7 @@ Một tệp có phần mở rộng .wpl chứa danh sách bài hát sẽ chạy 
 
 ## Định dạng tệp WPL
 
-WPL (Windows Media Player Playlist) là định dạng tệp độc quyền được sử dụng trong Microsoft Windows Media Player phiên bản 9 trở lên. Nó là một định dạng tệp máy tính lưu trữ danh sách phát đa phương tiện. Theo mặc định, danh sách phát được lưu với phần mở rộng .wpl(Windows Media Player Playlist). Thay vào đó, bạn có thể sử dụng tiện ích mở rộng [.m3u](/vi/audio/m3u) nếu bạn muốn phát đĩa dữ liệu của mình trên một thiết bị không hỗ trợ tiện ích mở rộng này. Các thành phần của tệp WPL được thể hiện ở định dạng XML.
+WPL (Windows Media Player Playlist) là định dạng tệp độc quyền được sử dụng trong Microsoft Windows Media Player phiên bản 9 trở lên. Nó là một định dạng tệp máy tính lưu trữ danh sách phát đa phương tiện. Theo mặc định, danh sách phát được lưu với phần mở rộng .wpl(Windows Media Player Playlist). Thay vào đó, bạn có thể sử dụng tiện ích mở rộng [.m3u](/vi/audio/m3u/) nếu bạn muốn phát đĩa dữ liệu của mình trên một thiết bị không hỗ trợ tiện ích mở rộng này. Các thành phần của tệp WPL được thể hiện ở định dạng XML.
 
 Phần tử cấp cao nhất "smil" chỉ định rằng các phần tử của tệp tuân theo cấu trúc Ngôn ngữ tích hợp đa phương tiện được đồng bộ hóa (SMIL). Tệp được tạo và lưu với phần mở rộng .wpl và kiểu MIME của nó là application/vnd.ms-wpl.
 

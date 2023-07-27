@@ -19,7 +19,7 @@
 
 ## 什么是一 .lz 文件？
 
-扩展名为 .lz 的文件是使用 Lzip 创建的压缩存档文件，Lzip 是一个免费的命令行压缩工具。它支持连接以压缩支持文件。 LZ 文件的媒体类型为 application/lzip，并且支持比 [BZ2](/zh/compression/bz2) 更高的压缩比。 LZ 基于 LZMA（Lempel-Ziv-Markov 链）算法，包括 32 位 CRC 校验和和用于检查文件完整性的 ident 字节。
+扩展名为 .lz 的文件是使用 Lzip 创建的压缩存档文件，Lzip 是一个免费的命令行压缩工具。它支持连接以压缩支持文件。 LZ 文件的媒体类型为 application/lzip，并且支持比 [BZ2](/zh/compression/bz2/) 更高的压缩比。 LZ 基于 LZMA（Lempel-Ziv-Markov 链）算法，包括 32 位 CRC 校验和和用于检查文件完整性的 ident 字节。
 
 ## LZMA 压缩格式
 

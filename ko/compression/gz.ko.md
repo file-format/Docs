@@ -96,5 +96,5 @@ GZ 파일 헤더는 다음과 같이 10바이트로 구성됩니다.
 ## 참조 ##
 
 * [gzip - 위키백과](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952: GZIP 파일 형식 사양](http://tools.ietf.org/html/rfc1952), IETF 제공.
+* [RFC1952: GZIP 파일 형식 사양](https://datatracker.ietf.org/doc/html/rfc1952), IETF 제공.
 

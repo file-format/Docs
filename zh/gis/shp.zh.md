@@ -43,7 +43,7 @@ SHP 是用于表示 ESRI Shapefile 的主要文件类型之一的文件扩展名
 
 ## SHP 文件格式规范
 
-ESRI 以 [技术说明](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) 的形式在线提供 shapefile 的开放规范，并详细阐述了文件的整体结构。主 .shp 文件中的信息由标题和记录组成。固定长度的文件头后面是可变长度的记录，其中每条记录由固定长度的记录头和可变长度的记录内容组成。
+ESRI 以 [技术说明](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) 的形式在线提供 shapefile 的开放规范，并详细阐述了文件的整体结构。主 .shp 文件中的信息由标题和记录组成。固定长度的文件头后面是可变长度的记录，其中每条记录由固定长度的记录头和可变长度的记录内容组成。
 
 ### 主 SHP 文件头
 
@@ -116,5 +116,5 @@ shapefile 记录内容由形状类型和该形状的几何数据组成。形状�
 
 ## 参考 ＃＃
 
-* [ESRI Shapefile 技术说明](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) by ESRI
+* [ESRI Shapefile 技术说明](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) by ESRI
 

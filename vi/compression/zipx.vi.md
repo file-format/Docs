@@ -35,5 +35,5 @@ Các tệp ZIPX được lưu vào đĩa dưới dạng tệp nhị phân và ch
 ## Người giới thiệu
 
 * [Định dạng tệp ZIPX](https://kb.corel.com/vi/125951)
-* [Cách giải nén tệp ZIPX](https://answers.microsoft.com/en-us/windows/forum/all/i-want-to-extract-zipx-files/32827ca4-ceec-4faf-93d9-d9ecffb1fb41 )
+* [Cách giải nén tệp ZIPX](https://answers.microsoft.com/en-us/windows/forum/all/i-want-to-extract-zipx-files/32827ca4-ceec-4faf-93d9-d9ecffb1fb41)
 

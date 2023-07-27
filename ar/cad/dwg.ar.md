@@ -62,6 +62,6 @@
 ## مراجع ##
 
 * [مواصفات تنسيق ملف DWG](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [مواصفات ملف DWG](https://www.scan2cad.com/dwg/file-spec/)
+* [مواصفات ملف DWG](https://www.scan2cad.com/blog/dwg/file-spec/)
 * [DWG - بواسطة Wikipedia](https://en.wikipedia.org/wiki/.dwg)
 

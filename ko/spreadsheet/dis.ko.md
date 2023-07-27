@@ -23,7 +23,7 @@ DIS 파일은 쿼리, 보고 및 Oracle Database에 대한 데이터 분석. Ora
 
 ## DIS 형식으로 Discoverer 워크북을 다운로드하는 방법은 무엇입니까?
 
-Oracle Discoverer 워크북은 데이터베이스에 바이너리 형식으로 저장되며 [DIS 파일](https://community.oracle.com/tech/apps-infra/discussion/4103918/can-i-download-all-discoverer)로 다운로드할 수 없습니다. -workbooks-to-my-computer) 직접. 그러나 데이터를 EEX 파일로 내보내고 Discoverer Desktop에서 열고 다른 이름으로 저장 옵션을 사용하여 EEX 파일을 DIS 파일로 저장할 수 있습니다.
+Oracle Discoverer 워크북은 데이터베이스에 바이너리 형식으로 저장되며 [DIS 파일](https://forums.oracle.com/ords/apexds/post/can-i-download-all-discoverer-workbooks-to-my-computer-4127) 직접. 그러나 데이터를 EEX 파일로 내보내고 Discoverer Desktop에서 열고 다른 이름으로 저장 옵션을 사용하여 EEX 파일을 DIS 파일로 저장할 수 있습니다.
 
 ## DIS 파일 형식 - 추가 정보
 

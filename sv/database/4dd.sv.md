@@ -34,7 +34,7 @@ Tillsammans med lanseringen av 4th Dimension v3.1 1993 släpptes 4D Client v1.1,
 
 ## 4DD filformatspecifikationer ##
 
-Datafilen innehåller all data som matas in i posterna, såväl som all data som är associerad med dem. Datafilen är döpt efter namnet du skriver i dialogrutan för att skapa databasen, följt av [4DB](/sv/database/4db).
+Datafilen innehåller all data som matas in i posterna, såväl som all data som är associerad med dem. Datafilen är döpt efter namnet du skriver i dialogrutan för att skapa databasen, följt av [4DB](/sv/database/4db/).
 
 Den befintliga datafilen öppnas som vanligt när du laddar en 4D-strukturfil. Om du ändrar filens namn eller plats, låter dialogrutan Öppna datamapp dig välja eller bygga en ny databas.
 

@@ -63,5 +63,5 @@ SQLite ODBC 连接器是一个软件库和驱动程序，它使支持 ODBC 接�
 ## 参考
 * [修复损坏的联系人数据库](https://discussions.apple.com/docs/DOC-10581)
 * [适用于 Mac 的联系人数据库](https://nitroreward.weebly.com/blog/contact-database-for-mac)
-* [如何在 Windows 7 Excel 中打开或导出 abcddb 文件？](https://apple.stackexchange.com/questions/52888/how-can-i-open-or-export-a-abcddb-file-在-windows-7-excel)
+* [如何在 Windows 7 Excel 中打开或导出 abcddb 文件？](https://apple.stackexchange.com/questions/52888/how-can-i-open-or-export-a-abcddb-file-in-windows-7-excel)
 

@@ -19,7 +19,7 @@
 
 ## Wat is een DZ-bestand?
 
-Een bestand met de extensie .dz is een gecomprimeerd archief dat is gemaakt met het opdrachtregelprogramma [Dzip](http://speeddemosarchive.com/dzip/). Het biedt een hogere compressieverhouding dan andere compressiebestandsformaten. Dzip kan ook gecomprimeerde bestanden decomprimeren en het uitpakken van bestanden gaat sneller. Dzip wordt geleverd met volledige integratie voor de Windows-shell om gesleepte bestanden te accepteren met de functie om duplicatie van bestanden te voorkomen wanneer ze naar het archief worden gesleept. Net als [RAR](/nl/compression/rar/)-bestanden, kan Dzip zelfuitpakkende uitvoerbare bestanden maken van zijn .dz-bestanden. De relatief kleine omvang van Dzip-hulpprogramma (130k) maakt het mogelijk om dit hulpprogramma op schijf te dragen.
+Een bestand met de extensie .dz is een gecomprimeerd archief dat is gemaakt met het opdrachtregelprogramma [Dzip](https://speeddemosarchive.com/dzip/). Het biedt een hogere compressieverhouding dan andere compressiebestandsformaten. Dzip kan ook gecomprimeerde bestanden decomprimeren en het uitpakken van bestanden gaat sneller. Dzip wordt geleverd met volledige integratie voor de Windows-shell om gesleepte bestanden te accepteren met de functie om duplicatie van bestanden te voorkomen wanneer ze naar het archief worden gesleept. Net als [RAR](/nl/compression/rar/)-bestanden, kan Dzip zelfuitpakkende uitvoerbare bestanden maken van zijn .dz-bestanden. De relatief kleine omvang van Dzip-hulpprogramma (130k) maakt het mogelijk om dit hulpprogramma op schijf te dragen.
 
 ## DZ-bestandsindeling
 
@@ -27,5 +27,5 @@ DZ is een eigen bestandsformaat en de technische details zijn niet beschikbaar. 
 
 ## Referenties
 
-* [Dzip](http://speeddemosarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 

@@ -31,7 +31,7 @@ Viene utilizzato principalmente per registrazioni vocali e compressione. In ques
 
 I file VOX sono associati alle Media Board denominate DMV e JCT di Dialogic. Questi appartengono a VoxWare e molti altri software. Era considerato un formato obsoleto.
 
-In quanto formato obsoleto, non è stato utilizzato in seguito. Simile ad altri formati ADPCM, è stato compresso in 4 bit. Le caratteristiche di questi file sono abbastanza simili alle specifiche del file [WAV](/it/audio/wav).
+In quanto formato obsoleto, non è stato utilizzato in seguito. Simile ad altri formati ADPCM, è stato compresso in 4 bit. Le caratteristiche di questi file sono abbastanza simili alle specifiche del file [WAV](/it/audio/wav/).
 
 
 ## Specifiche del formato ##

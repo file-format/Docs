@@ -18,7 +18,7 @@
 }
 
 ## Vad är en SHX fil?
-SHX-filen tillhör formindexformatet som är ett positionsindex för funktionsgeometrin för att snabbt kunna söka framåt och bakåt. SHX är en offsetfil för direktåtkomst. Det finns inga data i den här filen, bara en kopia av de första hundra byten, postnummer och offset till startbyten för den posten i shp. Observera att filen med tillägget .shx inte binder [SHP](/sv/gis/shp) och [DBF](/sv/database/dbf).
+SHX-filen tillhör formindexformatet som är ett positionsindex för funktionsgeometrin för att snabbt kunna söka framåt och bakåt. SHX är en offsetfil för direktåtkomst. Det finns inga data i den här filen, bara en kopia av de första hundra byten, postnummer och offset till startbyten för den posten i shp. Observera att filen med tillägget .shx inte binder [SHP](/sv/gis/shp/) och [DBF](/sv/database/dbf/).
 
 ## SHX filformat
 SHX-formatet innehåller positionsindex för funktionsgeometrin och 100-byte-huvud som liknar SHP-filen, följt av valfritt antal 8-byte poster med fast längd som innehåller följande två fält:

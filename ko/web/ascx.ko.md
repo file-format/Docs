@@ -50,5 +50,5 @@ ASCX 파일은 일반 텍스트 형식으로 작성되며 .ascx.cs로 끝나는 
 ## 참고문헌
 
 * [ASCX 대 ASMX](https://social.msdn.microsoft.com/Forums/en-US/a27d4c2f-b972-439e-a7fe-f4b7e3637700/how-to-work-with-ascx-files?forum=aspwebforms)
-* [ASCX 사용자 컨트롤](http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
+* [ASCX 사용자 컨트롤](https://beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

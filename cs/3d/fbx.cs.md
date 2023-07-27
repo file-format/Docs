@@ -80,7 +80,7 @@ Definitions: {
 
 ## Binární struktura souborů FBX souborů
 
-Jak bylo uvedeno dříve, specifikace formátu souborů FBX nejsou pro FBX veřejně dostupné. Vzhledem k tomu, že Blender Foundation implementuje formát souboru FBX bez použití sady SDK poskytované společností, některé podrobnosti o formátu binárního souboru jsou [k dispozici](https://code.blender.org/2013/08/fbx-binary-file-format -specifikace/) jako součást jeho implementace.
+Jak bylo uvedeno dříve, specifikace formátu souborů FBX nejsou pro FBX veřejně dostupné. Vzhledem k tomu, že Blender Foundation implementuje formát souboru FBX bez použití sady SDK poskytované společností, některé podrobnosti o formátu binárního souboru jsou [k dispozici](https://code.blender.org/2013/08/fbx-binary-file-format-specification/) jako součást jeho implementace.
 
 Struktura binárních souborů má následující pořadí:
 
@@ -206,7 +206,7 @@ Oba tyto kódy typu jsou reprezentovány následovně:
 
 ## Reference ##
 
-* [FBX – The Autodesk SDK](http://help.autodesk.com/view/FBX/2017/ENU/?guid#__files_GUID_105ED19A_9A5A_425E_BFD7_C1BBADA67AAB_htm)
+* [FBX – The Autodesk SDK](https://help.autodesk.com/view/FBX/2017/ENU/)
 * [Specifikace formátu binárního souboru FBX](https://code.blender.org/2013/08/fbx-binary-file-format-specification/)
 * [FBX – Wikipedie](https://en.wikipedia.org/wiki/FBX#File_format)
 

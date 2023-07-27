@@ -19,7 +19,7 @@
 
 ## Vad är en SQLite-fil?
 
-En fil med tillägget .sqlite är en lättviktig SQL-databasfil som skapats med programvaran [SQLite](https://www.sqlite.org/index.html). Det är en databas i själva filen och implementerar en fristående, fullfjädrad, mycket pålitlig [SQL](/sv/database/sql/) databasmotor. SQLite-databasfiler kan användas för att dela rikt innehåll mellan system genom att enkelt utbyta dessa filer över nätverket. Nästan alla mobiler och datorer använder SQLite för lagring och delning av data, och är valet av filformat för plattformsoberoende applikationer. På grund av dess kompakta användning och enkla användbarhet levereras den med i andra applikationer. SQLite-bindningar finns för programmeringsspråk som C, [C#](/sv/programmering/cs), [C++](/sv/programmering/cpp), [Java](/sv/programmering/java/), [PHP](/sv/programmering/php/ ), och många andra.
+En fil med tillägget .sqlite är en lättviktig SQL-databasfil som skapats med programvaran [SQLite](https://www.sqlite.org/index.html). Det är en databas i själva filen och implementerar en fristående, fullfjädrad, mycket pålitlig [SQL](/sv/database/sql/) databasmotor. SQLite-databasfiler kan användas för att dela rikt innehåll mellan system genom att enkelt utbyta dessa filer över nätverket. Nästan alla mobiler och datorer använder SQLite för lagring och delning av data, och är valet av filformat för plattformsoberoende applikationer. På grund av dess kompakta användning och enkla användbarhet levereras den med i andra applikationer. SQLite-bindningar finns för programmeringsspråk som C, [C#](/sv/programming/cs/), [C++](/sv/programming/cpp/), [Java](/sv/programming/java/), [PHP](/sv/programming/php/), och många andra.
 
 ## SQLite filformat
 

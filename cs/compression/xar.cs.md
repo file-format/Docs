@@ -61,7 +61,7 @@ Všimněte si, že všechna pole hlavičky (magic, size, version, toc_length_com
 
 ### Obsah XAR (TOC)
 
-Obsah je dokument XML, který je (a musí) být kódován jako UTF-8. Je uložen na začátku souboru, což usnadňuje procházení archivu a extrahování jednotlivých souborů. Archiv XAR vám umožňuje komprimovat/kódovat jednotlivé soubory v archivu nezávisle pomocí různých kompresních schémat, jako je [GZIP](/cs/compression/gz/), [BZIP2](/cs/compression/bz2) a další podobná.
+Obsah je dokument XML, který je (a musí) být kódován jako UTF-8. Je uložen na začátku souboru, což usnadňuje procházení archivu a extrahování jednotlivých souborů. Archiv XAR vám umožňuje komprimovat/kódovat jednotlivé soubory v archivu nezávisle pomocí různých kompresních schémat, jako je [GZIP](/cs/compression/gz/), [BZIP2](/cs/compression/bz2/) a další podobná.
 
 ```
 <?xml version="1.0"?>

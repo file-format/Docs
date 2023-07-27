@@ -27,6 +27,6 @@ MID 파일은 바이너리 파일 형식으로 디스크에 저장됩니다. MID
 
 ## 참조
 
-* [MapInfo Professional - Wikipedia](http://en.wikipedia.org/wiki/MapInfo_Professional)
+* [MapInfo Professional - Wikipedia](https://en.wikipedia.org/wiki/MapInfo_Professional)
 * [정확히 MapInfo MIF/MID 판독기/작성기](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/mif/mif.htm)
 

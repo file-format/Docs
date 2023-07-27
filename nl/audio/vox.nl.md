@@ -31,7 +31,7 @@ Het wordt meestal gebruikt voor stemopnames en compressie. In dit formaat kunnen
 
 De VOX-bestanden zijn gekoppeld aan de Media Boards genaamd DMV en JCT van Dialogic. Deze behoren tot VoxWare en veel andere software. Vroeger werd het beschouwd als een achterhaald formaat.
 
-Als verouderd formaat werd het daarna niet meer gebruikt. Net als bij andere ADPCM-formaten, werd het gecomprimeerd tot 4 bits. De kenmerken van deze bestanden liggen dicht genoeg bij de bestandsspecificaties van [WAV](/nl/audio/wav).
+Als verouderd formaat werd het daarna niet meer gebruikt. Net als bij andere ADPCM-formaten, werd het gecomprimeerd tot 4 bits. De kenmerken van deze bestanden liggen dicht genoeg bij de bestandsspecificaties van [WAV](/nl/audio/wav/).
 
 
 ## Formaatspecificaties ##

@@ -34,9 +34,9 @@ ZUL файловете са базирани на XML, състоящи се о�
 <window title="Super Hello" border="normal">
     <button label="hi" onClick='alert("hi")'/>
 ```
-ZUL схемата може да бъде изтеглена от http://www.zkoss.org/2005/zul/zul.xsd.
+ZUL схемата може да бъде изтеглена от https://www.zkoss.org/2005/zul/zul.xsd.
 ## Препратки
 
 * [ZUL – от ZK](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
-* [ZUL схема](http://www.zkoss.org/2005/zul/zul.xsd)
+* [ZUL схема](https://www.zkoss.org/2005/zul/zul.xsd)
 

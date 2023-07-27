@@ -19,7 +19,7 @@
 
 ## Was ist eine INI-Datei? ##
 
-Eine INI-Datei ist ein Nachrichtenkonfigurationsdokument für Computerprogramme, die öffentliche Schlüssel für Merkmale und Abschnitte enthalten, die die Attribute in einem Rahmenwerk und einer Grammatik organisieren. Diese Konfigurationsdokumente für das Systemdateiformat erhalten ihren Namen von der Verzeichniserweiterung INI des MS-DOS-Betriebssystems, die für Initiierung steht. Es hat diese Form des Software-Setups populär gemacht. Viele Programme in anderen Softwareanwendungen verwenden verschiedene Dateinamenzusätze, wie CONF und [CFG](/de/system/cfg), obwohl das Format in vielen Konfigurationssituationen einen inoffiziellen Standard etabliert hat.
+Eine INI-Datei ist ein Nachrichtenkonfigurationsdokument für Computerprogramme, die öffentliche Schlüssel für Merkmale und Abschnitte enthalten, die die Attribute in einem Rahmenwerk und einer Grammatik organisieren. Diese Konfigurationsdokumente für das Systemdateiformat erhalten ihren Namen von der Verzeichniserweiterung INI des MS-DOS-Betriebssystems, die für Initiierung steht. Es hat diese Form des Software-Setups populär gemacht. Viele Programme in anderen Softwareanwendungen verwenden verschiedene Dateinamenzusätze, wie CONF und [CFG](/de/system/cfg/), obwohl das Format in vielen Konfigurationssituationen einen inoffiziellen Standard etabliert hat.
 
 ## Kurze Geschichte der INI-Dateien##
 

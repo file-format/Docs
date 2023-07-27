@@ -19,7 +19,7 @@
 
 ## Tệp CEBX là gì?
 
-Các tệp có phần mở rộng .cebx (sách điện tử tiếng Trung) được gọi là **tệp Sách điện tử Apabi** thực tế đã thay thế định dạng tệp [CEB](/vi/ebook/ceb). Tệp CEBX bao gồm văn bản có định dạng tiếng Trung và thông tin bố cục khác, do đó, định dạng tệp này đã bị ngừng sử dụng. Định dạng tệp CEBX được phát triển bởi nhà xuất bản Apabi của Founder Electronics. Các tệp ở định dạng này có sẵn từ thư viện APABI D-Lib bao gồm một bộ sách điện tử tiếng Trung. Các tệp được mã hóa nhị phân này có thể được hiển thị bằng cách sử dụng phần mềm Apabi. **Apabi Reader 4.5.2 cho Đa ngôn ngữ** cho Microsoft Windows, **Apabi Reader cho Android 1.8.1** và **Apabi Reader cho iOS 2.4.0** hỗ trợ các định dạng tệp CEBX.
+Các tệp có phần mở rộng .cebx (sách điện tử tiếng Trung) được gọi là **tệp Sách điện tử Apabi** thực tế đã thay thế định dạng tệp [CEB](/vi/ebook/ceb/). Tệp CEBX bao gồm văn bản có định dạng tiếng Trung và thông tin bố cục khác, do đó, định dạng tệp này đã bị ngừng sử dụng. Định dạng tệp CEBX được phát triển bởi nhà xuất bản Apabi của Founder Electronics. Các tệp ở định dạng này có sẵn từ thư viện APABI D-Lib bao gồm một bộ sách điện tử tiếng Trung. Các tệp được mã hóa nhị phân này có thể được hiển thị bằng cách sử dụng phần mềm Apabi. **Apabi Reader 4.5.2 cho Đa ngôn ngữ** cho Microsoft Windows, **Apabi Reader cho Android 1.8.1** và **Apabi Reader cho iOS 2.4.0** hỗ trợ các định dạng tệp CEBX.
 
 ## Người giới thiệu
 

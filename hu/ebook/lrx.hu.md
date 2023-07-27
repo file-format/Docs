@@ -23,7 +23,7 @@ Az .lrx kiterjesztésű fájl a Sony Broadband eBook (BBeB) társított fájlja.
 
 ## LRX fájlformátum
 
-Az LRX fájlok bináris fájlformátumúak, és a fájlban lévő összes tartalom titkosított, ellentétben az [LRS]-vel (/hu/ebook/lrs), amely nem titkosított formátum. Egy másik kapcsolódó BBeB fájlformátum az LRS, amely XML alapú, és bármely szövegszerkesztőben ember által olvasható. Az LRX fájlok fejléce olyan információkat tartalmaz, mint:
+Az LRX fájlok bináris fájlformátumúak, és a fájlban lévő összes tartalom titkosított, ellentétben az [LRS]-vel (/hu/ebook/lrs/), amely nem titkosított formátum. Egy másik kapcsolódó BBeB fájlformátum az LRS, amely XML alapú, és bármely szövegszerkesztőben ember által olvasható. Az LRX fájlok fejléce olyan információkat tartalmaz, mint:
 
 * Verzió
 * Gyökérobjektum azonosítás

@@ -42,5 +42,5 @@ Fișierele ASMX sunt diferite de fișierele ASPX și ASCX.
 ## Referințe
 
 * [Consumând serviciul ASMX](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/web-services/asmx)
-* [Control utilizator ASCX](http://www.beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
+* [Control utilizator ASCX](https://beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

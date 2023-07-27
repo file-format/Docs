@@ -39,7 +39,7 @@
 
 ## פורמט קובץ Java HS
 
-קבצי Java HS הם בפורמט קובץ XML ומבוססים על ההמלצה המוצעת של World Wide Web Consortium (W3C) Extended Markiup Language [PR-xml-971208](http://www.w3.org/TR/PR-xml- 971208). משמעות הדבר היא שקובץ Java HS הוא בפורמט קובץ XML קריא אנושי, שניתן לפתוח בכל יישום קורא XML.
+קבצי Java HS הם בפורמט קובץ XML ומבוססים על ההמלצה המוצעת של World Wide Web Consortium (W3C) Extended Markiup Language [PR-xml-971208](https://www.w3.org/TR/PR-xml-971208). משמעות הדבר היא שקובץ Java HS הוא בפורמט קובץ XML קריא אנושי, שניתן לפתוח בכל יישום קורא XML.
 
 ### דוגמה לפורמט קובץ Java HS
 
@@ -159,7 +159,7 @@
 
 ### דוגמה לפורמט קובץ HS
 
-ניתן לכתוב קוד בקובץ .hs ולהרכיב באמצעות מהדר Haskell כגון [GHC](http://haskell.org/ghc). שורת הקוד הבאה נשמרת בתור `HelloWorld.hs` כפי שמוצג בדוגמה הבאה.
+ניתן לכתוב קוד בקובץ .hs ולהרכיב באמצעות מהדר Haskell כגון [GHC](https://haskell.org/ghc). שורת הקוד הבאה נשמרת בתור `HelloWorld.hs` כפי שמוצג בדוגמה הבאה.
 
 ```
 main = putStrLn "Hello, World!"

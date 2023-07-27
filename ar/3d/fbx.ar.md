@@ -80,7 +80,7 @@ Definitions: {
 
 ## بنية الملف الثنائي لملفات FBX
 
-كما ذكرنا سابقًا ، مواصفات تنسيق ملف FBX غير متاحة للجمهور لـ FBX. نظرًا لأن Blender Foundation تنفذ تنسيق ملف FBX دون استخدام SDK المقدم من الشركة ، فإن بعض التفاصيل حول تنسيق الملف الثنائي [متوفرة](https://code.blender.org/2013/08/fbx-binary-file-format -المواصفات /) كجزء من تنفيذه.
+كما ذكرنا سابقًا ، مواصفات تنسيق ملف FBX غير متاحة للجمهور لـ FBX. نظرًا لأن Blender Foundation تنفذ تنسيق ملف FBX دون استخدام SDK المقدم من الشركة ، فإن بعض التفاصيل حول تنسيق الملف الثنائي [متوفرة](https://code.blender.org/2013/08/fbx-binary-file-format-specification/) كجزء من تنفيذه.
 
 تتبع بنية الملفات الثنائية الترتيب التالي:
 
@@ -206,7 +206,7 @@ R: raw binary data
 
 ## مراجع ##
 
-* [FBX - The Autodesk SDK](http://help.autodesk.com/view/FBX/2017/ENU/؟guid#__files_GUID_105ED19A_9A5A_425E_BFD7_C1BBADA67AAB_htm)
+* [FBX - The Autodesk SDK](https://help.autodesk.com/view/FBX/2017/ENU/)
 * [مواصفات تنسيق ملف FBX الثنائي](https://code.blender.org/2013/08/fbx-binary-file-format-specification/)
 * [FBX - ويكيبيديا](https://en.wikipedia.org/wiki/FBX#File_format)
 

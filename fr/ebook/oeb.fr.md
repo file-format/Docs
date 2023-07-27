@@ -28,7 +28,7 @@ Le format de fichier OEB se compose d'un ensemble de fichiers, y compris un fich
 L'OEBPS 1.2 était une mise à jour étroitement couplée à la version précédente (OEBPS 1.0.1). Il a fourni des fonctionnalités modernes dans le domaine du contrôle du rendu, y compris, entre autres, des améliorations dans le vocabulaire de balisage (désormais un véritable sous-ensemble de XHTML 1.1) et une prise en charge CSS considérablement étendue. Les facteurs de durabilité sont inchangés par rapport à la version précédente.
   
 
-L'ensemble de fichiers OEB était principalement utilisé comme format intermédiaire, la publication aux utilisateurs finaux étant gérée par des éditeurs ou des agrégateurs qui fournissaient des livres électroniques sous des formes adaptées à différents lecteurs de livres électroniques. Sa version qui lui succède, [EPUB](/fr/ebook/epub), est plus susceptible d'atteindre les utilisateurs finaux en tant que format de l'état final, ainsi que de servir de format de l'état intermédiaire.
+L'ensemble de fichiers OEB était principalement utilisé comme format intermédiaire, la publication aux utilisateurs finaux étant gérée par des éditeurs ou des agrégateurs qui fournissaient des livres électroniques sous des formes adaptées à différents lecteurs de livres électroniques. Sa version qui lui succède, [EPUB](/fr/ebook/epub/), est plus susceptible d'atteindre les utilisateurs finaux en tant que format de l'état final, ainsi que de servir de format de l'état intermédiaire.
 
 ## Références
 

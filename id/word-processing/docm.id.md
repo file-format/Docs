@@ -29,7 +29,7 @@ Format file DOCM didasarkan pada standar Office OpenXML. Pada awal tahun 2000, M
 
 Format file DOCM mengikuti struktur DOCX yang sama berdasarkan format file Office OpenXML. Konten format file DOCM dapat dilihat dengan mengganti namanya menjadi ZIP dan membuka arsip menggunakan utilitas pendukung apa pun. Spesifikasi [MS-DOCX](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx) menentukan detail format file Office OpenXML untuk format file DOCX untuk referensi pengembang dan berlaku untuk DOTM juga. Makro terkandung dalam file biner bernama vbaProject.bin, dengan dua file pendukung vbaProject.bin.rels dan vbaData.xml.
 
-![](http://social.technet.microsoft.com/Forums/getfile/331363)
+![](https://social.technet.microsoft.com/Forums/getfile/331363)
 
 ## Referensi
 

@@ -74,6 +74,6 @@
 
 ## مراجع ##
 
-* [تنسيق ملف GPX](http://www.topografix.com/gpx.asp)
+* [تنسيق ملف GPX](https://www.topografix.com/gpx.asp)
 * [GPX - بواسطة Wikipedia](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
 

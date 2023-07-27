@@ -26,5 +26,5 @@ ECS ファイルは、圧縮された ZIP アーカイブとして保存され�
 
 ## 参考文献
 
-* [Dzip](http://speeddemoarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 

@@ -19,7 +19,7 @@
 
 ## Qu'est-ce qu'un fichier TGS ?
 
-Un fichier avec l'extension .tgs est un fichier d'autocollant animé qui a été introduit par le service de messagerie multiplateforme, [Telegram](https://core.telegram.org/animated_stickers). Les autocollants animés sont utilisés par les utilisateurs d'applications de messagerie pour envoyer un contenu plus amélioré et plus vivant dans les messages, contrairement aux graphiques statiques qui sont des images fixes. Telegram utilisait initialement le format de fichier [WEBP](/fr/image/webp/) pour les autocollants d'images fixes. Le format de fichier TGS peut stocker des données d'animation à des résolutions plus élevées et une taille de fichier plus petite par rapport aux autocollants WEBP statiques. Les fichiers TGS peuvent être ouverts à l'aide d'applications telles que Telegram, 7-zip, Apple Archive Utility et Corel WinZip.
+Un fichier avec l'extension .tgs est un fichier d'autocollant animé qui a été introduit par le service de messagerie multiplateforme, [Telegram](https://core.telegram.org/stickers#animated-stickers). Les autocollants animés sont utilisés par les utilisateurs d'applications de messagerie pour envoyer un contenu plus amélioré et plus vivant dans les messages, contrairement aux graphiques statiques qui sont des images fixes. Telegram utilisait initialement le format de fichier [WEBP](/fr/image/webp/) pour les autocollants d'images fixes. Le format de fichier TGS peut stocker des données d'animation à des résolutions plus élevées et une taille de fichier plus petite par rapport aux autocollants WEBP statiques. Les fichiers TGS peuvent être ouverts à l'aide d'applications telles que Telegram, 7-zip, Apple Archive Utility et Corel WinZip.
 
 ## Format de fichier TGS
 
@@ -45,6 +45,6 @@ $ head -c 200 animated-sticker
 ```
 ## Références ##
 
-* [TGS](https://core.telegram.org/animated_stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 * [gzip - Wikipédia](https://en.wikipedia.org/wiki/Gzip)
 

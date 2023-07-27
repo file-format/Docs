@@ -19,7 +19,7 @@
 
 ## Wat is een INI-bestand? ##
 
-Een INI-bestand is een berichtconfiguratiedocument voor computerprogramma's die openbare sleutels bevatten voor kenmerken en secties die de attributen in een raamwerk en grammatica organiseren. Deze configuratiedocumenten voor systeembestandsindelingen ontlenen hun naam aan de directory-extensie INI van het MS-DOS-besturingssysteem, wat staat voor initiatie. Het maakte deze vorm van software-installatie populair. Veel programma's in andere softwaretoepassingen gebruiken verschillende toevoegingen aan bestandsnamen, zoals CONF en [CFG](/nl/system/cfg), hoewel het formaat in veel configuratiesituaties een onofficiële standaard heeft vastgesteld.
+Een INI-bestand is een berichtconfiguratiedocument voor computerprogramma's die openbare sleutels bevatten voor kenmerken en secties die de attributen in een raamwerk en grammatica organiseren. Deze configuratiedocumenten voor systeembestandsindelingen ontlenen hun naam aan de directory-extensie INI van het MS-DOS-besturingssysteem, wat staat voor initiatie. Het maakte deze vorm van software-installatie populair. Veel programma's in andere softwaretoepassingen gebruiken verschillende toevoegingen aan bestandsnamen, zoals CONF en [CFG](/nl/system/cfg/), hoewel het formaat in veel configuratiesituaties een onofficiële standaard heeft vastgesteld.
 
 ## Korte geschiedenis van INI-bestanden##
 

@@ -38,35 +38,35 @@ De EMBEDDEDFONT-structuur heeft drie revisies ondergaan, met toevoeging van aanv
 |unsigned long|FontDataSize|Lengte van het OpenType-lettertype (FontData) in bytes|
 |unsigned long|Versie|Versienummer van dit formaat - 0x00020002|
 |unsigned long|Vlaggen|Verwerkingsvlaggen|
-|byte[10]|FontPANOSE|De PANOSE-waarde voor dit lettertype - zie http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|byte|Charset|In Windows is dit afgeleid van TEXTMETRIC.tmCharSet. Deze waarde geeft de tekenset van het lettertype aan. DEFAULT_CHARSET (0x01) geeft geen voorkeur aan. - Zie http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
-|byte|Italic|Als de bit voor ITALIC is ingesteld in OS/2.fsSelection, is de waarde 0x01 - Zie http://www.microsoft.com/typography/otspec/os2.htm#fss|
-|unsigned long|Weight|De gewichtswaarde voor dit lettertype - zie http://www.microsoft.com/typography/otspec/os2.htm#wtc|
-|unsigned short|fsType|Typ vlaggen die informatie geven over insluitrechten - zie http://www.microsoft.com/typography/otspec/os2.htm#fst|
+|byte[10]|FontPANOSE|De PANOSE-waarde voor dit lettertype - zie https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
+|byte|Charset|In Windows is dit afgeleid van TEXTMETRIC.tmCharSet. Deze waarde geeft de tekenset van het lettertype aan. DEFAULT_CHARSET (0x01) geeft geen voorkeur aan. - Zie https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
+|byte|Italic|Als de bit voor ITALIC is ingesteld in OS/2.fsSelection, is de waarde 0x01 - Zie https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss|
+|unsigned long|Weight|De gewichtswaarde voor dit lettertype - zie https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|
+|unsigned short|fsType|Typ vlaggen die informatie geven over insluitrechten - zie https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|
 |unsigned short|MagicNumber|Magisch nummer voor EOT-bestand - 0x504C. Wordt gebruikt om te controleren op gegevenscorruptie.|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (bits 0-31) - Zie http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (bits 32-63) - Zie http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (bits 64-95) - Zie http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bits 96-127) - Zie http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|CodePageRange1|CodePageRange1 (bits 0-31) - Zie http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CodePageRange2|CodePageRange2 (bits 32-63) - Zie http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - Zie http://www.microsoft.com/typography/otspec/head.htm|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (bits 0-31) - Zie https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (bits 32-63) - Zie https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (bits 64-95) - Zie https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (bits 96-127) - Zie https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|CodePageRange1|CodePageRange1 (bits 0-31) - Zie https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CodePageRange2|CodePageRange2 (bits 32-63) - Zie https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - Zie https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Gereserveerd1|Gereserveerd - moet 0 zijn|
 |unsigned long|Gereserveerd2|Gereserveerd - moet 0 zijn|
 |unsigned long|Gereserveerd3|Gereserveerd - moet 0 zijn|
 |unsigned long|Gereserveerd4|Gereserveerd - moet 0 zijn|
 |unsigned short|Opvulling1|Opvulling om een lange uitlijning te behouden. Opvulwaarde moet altijd worden ingesteld op 0x0000.|
 |unsigned short|FamilyNameSize|Aantal bytes gebruikt door de FamilyName-array|
-|byte|FamilyName[FamilyNameSize]|Array van UTF-16 tekens met de lengte van FamilyNameSize-bytes. Dit is de Engelstalige Font Family-string die te vinden is in de naamtabel van het lettertype (naam-ID = 1) - Zie http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FamilyName[FamilyNameSize]|Array van UTF-16 tekens met de lengte van FamilyNameSize-bytes. Dit is de Engelstalige Font Family-string die te vinden is in de naamtabel van het lettertype (naam-ID = 1) - Zie https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Opvulling2|Opvulwaarde moet altijd op 0x0000 staan.|
 |unsigned short|StyleNameSize|Aantal bytes gebruikt door de StyleName|
-|byte|StyleName[StyleNameSize]|Array van UTF-16 tekens met de lengte van StyleNameSize-bytes. Dit is de Engelstalige Lettertype-subfamiliereeks die te vinden is in de naamtabel van het lettertype (naam-ID = 2) - Zie http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|Array van UTF-16 tekens met de lengte van StyleNameSize-bytes. Dit is de Engelstalige Lettertype-subfamiliereeks die te vinden is in de naamtabel van het lettertype (naam-ID = 2) - Zie https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Opvulling3|Opvulwaarde moet altijd worden ingesteld op 0x0000.|
 |unsigned short|VersionNameSize|Aantal bytes gebruikt door VersionName|
-|bytes|VersionName[VersionNameSize]|Array van UTF-16-tekens met de lengte van VersionNameSize-bytes. Dit is de Engelse versiereeks die te vinden is in de naamtabel van het lettertype (naam-ID = 5) - Zie http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|Array van UTF-16-tekens met de lengte van VersionNameSize-bytes. Dit is de Engelse versiereeks die te vinden is in de naamtabel van het lettertype (naam-ID = 5) - Zie https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|Opvulwaarde moet altijd worden ingesteld op 0x0000.|
 |unsigned short|FullNameSize|Aantal bytes gebruikt door FullName|
-|byte|FullName[FullNameSize]|Array van UTF-16-tekens met de lengte van FullNameSize-bytes. Dit is de Engelse volledige naamreeks die te vinden is in de naamtabel van het lettertype (naam-ID = 4) - Zie http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|Array van UTF-16-tekens met de lengte van FullNameSize-bytes. Dit is de Engelse volledige naamreeks die te vinden is in de naamtabel van het lettertype (naam-ID = 4) - Zie https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Opvulling5|Opvulwaarde moet altijd worden ingesteld op 0x0000.|
 |unsigned short|RootStringSize|Aantal bytes gebruikt door de RootString-array|
 |byte|RootString[RootStringSize]|Array van UTF-16-tekens met de lengte van RootStringSize-bytes.|

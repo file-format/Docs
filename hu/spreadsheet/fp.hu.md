@@ -19,7 +19,7 @@
 
 ## Mi az FP fájl?
 
-Az .fp kiterjesztésű fájl a Claris [FileMaker Pro](https://www.claris.com/filemaker/pro/) szoftverével létrehozott táblázatkezelő fájl. Az adatokat a Microsoft Excelhez hasonló sorokban és oszlopokban tárolja. A FileMaker Pro segítségével számos fájltípust, például CSV-t és XML-t húzhat át az adatok importálásához.
+Az .fp kiterjesztésű fájl a Claris [FileMaker Pro](https://www.claris.com/filemaker/) szoftverével létrehozott táblázatkezelő fájl. Az adatokat a Microsoft Excelhez hasonló sorokban és oszlopokban tárolja. A FileMaker Pro segítségével számos fájltípust, például CSV-t és XML-t húzhat át az adatok importálásához.
 
 ## FP fájlformátum
 
@@ -27,6 +27,6 @@ Az FP fájlok védett fájlformátumban kerülnek mentésre, és a fájlformátu
 
 ## Hivatkozások
 
-* [FileMaker Pro](https://www.claris.com/filemaker/pro/)
+* [FileMaker Pro](https://www.claris.com/filemaker/)
 * [fmapi](https://github.com/stevenwhitespacesystems/fm-xml2json)
 

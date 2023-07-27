@@ -23,7 +23,7 @@ Um arquivo com extensão .ndf é um arquivo de banco de dados secundário usado 
 
 ## Formato de arquivo NDF
 
-O formato de arquivo NDF não é diferente de [MDF](/pt/database/mdf) e usa páginas como a unidade fundamental de armazenamento de dados. cada página começa com um cabeçalho de 96 bytes que inclui:
+O formato de arquivo NDF não é diferente de [MDF](/pt/database/mdf/) e usa páginas como a unidade fundamental de armazenamento de dados. cada página começa com um cabeçalho de 96 bytes que inclui:
 
 * ID da página
 * Tipo de Estrutura

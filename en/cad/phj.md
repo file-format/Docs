@@ -25,4 +25,4 @@ A file with .phj extension is a project file created with PhCNC software used fo
 
 ## References
 
- * [PhCNC](http://www.accuratecnc.com/PhCNC.php)
+ * [PhCNC](https://www.accuratecnc.com/PhCNC.php)

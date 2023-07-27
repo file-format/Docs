@@ -19,7 +19,7 @@
 
 ## .dz dosyası nedir?
 
-.dz uzantılı bir dosya, komut satırı yardımcı programı [Dzip](http://speeddemosarchive.com/dzip/) ile oluşturulan sıkıştırılmış bir arşivdir. Diğer sıkıştırma dosyası formatlarından daha yüksek bir sıkıştırma oranı sunar. Dzip ayrıca sıkıştırılmış dosyaları açabilir ve dosyaların çıkarılması daha hızlıdır. Dzip, Windows kabuğunun, arşive sürüklendiğinde dosyaların tekrarlanmasını önleme özelliği ile sürüklenen dosyaları kabul etmesi için tam entegrasyonla birlikte gelir. [RAR](/tr/compression/rar/) dosyaları gibi, Dzip de kendi .dz dosyalarından kendi kendine açılan yürütülebilir dosyalar oluşturabilir. Dzip yardımcı programının nispeten küçük boyutu (130k), bu yardımcı programı diskte taşımayı mümkün kılar.
+.dz uzantılı bir dosya, komut satırı yardımcı programı [Dzip](https://speeddemosarchive.com/dzip/) ile oluşturulan sıkıştırılmış bir arşivdir. Diğer sıkıştırma dosyası formatlarından daha yüksek bir sıkıştırma oranı sunar. Dzip ayrıca sıkıştırılmış dosyaları açabilir ve dosyaların çıkarılması daha hızlıdır. Dzip, Windows kabuğunun, arşive sürüklendiğinde dosyaların tekrarlanmasını önleme özelliği ile sürüklenen dosyaları kabul etmesi için tam entegrasyonla birlikte gelir. [RAR](/tr/compression/rar/) dosyaları gibi, Dzip de kendi .dz dosyalarından kendi kendine açılan yürütülebilir dosyalar oluşturabilir. Dzip yardımcı programının nispeten küçük boyutu (130k), bu yardımcı programı diskte taşımayı mümkün kılar.
 
 ## DZ Dosya Biçimi
 
@@ -27,5 +27,5 @@ DZ tescilli bir dosya formatıdır ve teknik detayları mevcut değildir. Bunlar
 
 ## Referanslar
 
-* [Dzip](http://speeddemosarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 

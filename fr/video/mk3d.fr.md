@@ -55,5 +55,5 @@ Pour les pistes multiples, le conteneur MKV doit décider de la fonctionnalité 
 ## Références ##
 
 - [Notes de spécification Matroska](https://www.matroska.org/technical/notes.html)
-- [Prise en charge du conteneur de fichiers MKV pour la vidéo 3D stéréo et les fichiers MK3D](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d- des dossiers/)
+- [Prise en charge du conteneur de fichiers MKV pour la vidéo 3D stéréo et les fichiers MK3D](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d-files/)
 

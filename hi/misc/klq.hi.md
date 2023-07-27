@@ -27,6 +27,6 @@ KLQ फ़ाइलों को एन्क्रिप्टेड प्र�
 
 ## संदर्भ
 
-* [संगरोध फ़ाइलों का विवरण](https://community.kaspersky.com/kaspersky-total-security-14/details-of-quarantine-files-merged-8534)
-* [KLQ फ़ाइल](https://community.kaspersky.com/search?q=klq%20file)
+* [संगरोध फ़ाइलों का विवरण](https://forum.kaspersky.com/)
+* [KLQ फ़ाइल](https://forum.kaspersky.com/?q=klq%20file)
 

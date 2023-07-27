@@ -26,5 +26,5 @@
 
 ## อ้างอิง
 
-* [Dzip](http://speeddemosarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 

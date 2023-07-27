@@ -29,7 +29,7 @@ DOCM-filformatet är baserat på Office OpenXML-standarden. Det var i början av
 
 DOCM-filformatet följer samma DOCX-struktur baserat på Office OpenXML-filformat. Innehållet i ett DOCM-filformat kan ses genom att döpa om det till ZIP och öppna arkivet med hjälp av något stödjande verktyg. Specifikationerna [MS-DOCX](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx) definierar Office OpenXML-filformatdetaljerna för DOCX-filformatet för utvecklarnas referens och är även tillämpliga på DOTM. Makron finns i en binär fil med namnet vbaProject.bin, med två stödfiler vbaProject.bin.rels och vbaData.xml.
 
-![](http://social.technet.microsoft.com/Forums/getfile/331363)
+![](https://social.technet.microsoft.com/Forums/getfile/331363)
 
 ## Referenser
 

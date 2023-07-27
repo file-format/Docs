@@ -18,7 +18,7 @@
 }
 
 ## What is an SHX file?
-The SHX file belongs to shape index format which is a positional index of the feature geometry to enable seeking forwards and backwards quickly. The SHX is a direct access offset file. There is no data in this file, only a duplicate copy of the first hundred bytes, record number and offset to the starting byte of that record in the shp. Please note that the file with .shx extension does not tie the [SHP](/gis/shp) and [DBF](/database/dbf).
+The SHX file belongs to shape index format which is a positional index of the feature geometry to enable seeking forwards and backwards quickly. The SHX is a direct access offset file. There is no data in this file, only a duplicate copy of the first hundred bytes, record number and offset to the starting byte of that record in the shp. Please note that the file with .shx extension does not tie the [SHP](/gis/shp/) and [DBF](/database/dbf/).
 
 ## SHX file format
 The SHX format contains positional index of the feature geometry and 100-byte header similar to the SHP file, followed by any number of 8-byte fixed-length records which contain the following two fields:

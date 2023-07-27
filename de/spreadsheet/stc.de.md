@@ -20,7 +20,7 @@
 
 ## Was ist eine STC-Datei?
 
-Eine STC-Datei ist eine Vorlagendatei für Tabellenkalkulationen, die ursprünglich von der Software [StarOffice](http://www.staroffice.com) erstellt und unterstützt wird. Es enthält Einstellungen zum Erstellen anderer Tabellenkalkulationsdateien, die die Informationen der Vorlage verwenden, um die Tabellenkalkulationseinstellungen wie Seitenformatierung, Schriftgröße, Ränder, Diagramme usw. einzurichten. Das Dateiformat wurde später von Apache OpenOffice übernommen, aber später durch die Verwendung ersetzt des Dateiformats [.ots](/de/spreadsheet/ots/) zum Speichern der Vorlagendateiinformationen. STC-Dateien können mit OpenOffice Calc, Planamesa NeoOffice und LibreOffice geöffnet werden.
+Eine STC-Datei ist eine Vorlagendatei für Tabellenkalkulationen, die ursprünglich von der Software [StarOffice](https://www.staroffice.com/) erstellt und unterstützt wird. Es enthält Einstellungen zum Erstellen anderer Tabellenkalkulationsdateien, die die Informationen der Vorlage verwenden, um die Tabellenkalkulationseinstellungen wie Seitenformatierung, Schriftgröße, Ränder, Diagramme usw. einzurichten. Das Dateiformat wurde später von Apache OpenOffice übernommen, aber später durch die Verwendung ersetzt des Dateiformats [.ots](/de/spreadsheet/ots/) zum Speichern der Vorlagendateiinformationen. STC-Dateien können mit OpenOffice Calc, Planamesa NeoOffice und LibreOffice geöffnet werden.
 
 ## STC-Dateiformat
 

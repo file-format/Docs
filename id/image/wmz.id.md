@@ -30,10 +30,10 @@ File WMZ dikompresi [Gzip](/id/compression/gz/) dan berisi [WMF](/id/image/WMF/)
 * Data Terkompresi
 * File Footer
 
-Format file GZIP [spesifikasi versi 4.3](http://tools.ietf.org/html/rfc1952) yang diterbitkan oleh Internet Engineering Task Force (IETF) berisi informasi mendetail tentang format file.
+Format file GZIP [spesifikasi versi 4.3](https://datatracker.ietf.org/doc/html/rfc1952) yang diterbitkan oleh Internet Engineering Task Force (IETF) berisi informasi mendetail tentang format file.
 
 ## Referensi
 
-* [RFC1952: spesifikasi format file GZIP](http://tools.ietf.org/html/rfc1952), oleh [IETF](https://www.ietf.org)
+* [RFC1952: spesifikasi format file GZIP](https://datatracker.ietf.org/doc/html/rfc1952), oleh [IETF](https://www.ietf.org)
 * [Windows MetaFile - Wikipedia](https://en.wikipedia.org/wiki/Windows_Metafile)
 

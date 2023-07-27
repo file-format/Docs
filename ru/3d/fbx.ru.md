@@ -80,7 +80,7 @@ Definitions: {
 
 ## Двоичная файловая структура файлов FBX
 
-Как указывалось ранее, спецификации формата файла FBX недоступны для FBX. Поскольку Blender Foundation реализует формат файла FBX без использования предоставленного компанией SDK, некоторые подробности о двоичном формате файла [доступны](https://code.blender.org/2013/08/fbx-binary-file-format -спецификация/) как часть его реализации.
+Как указывалось ранее, спецификации формата файла FBX недоступны для FBX. Поскольку Blender Foundation реализует формат файла FBX без использования предоставленного компанией SDK, некоторые подробности о двоичном формате файла [доступны](https://code.blender.org/2013/08/fbx-binary-file-format-specification/) как часть его реализации.
 
 Структура бинарных файлов следует следующему порядку:
 
@@ -206,7 +206,7 @@ R: raw binary data
 
 ## Использованная литература ##
 
-* [FBX — Autodesk SDK](http://help.autodesk.com/view/FBX/2017/ENU/?guid#__files_GUID_105ED19A_9A5A_425E_BFD7_C1BBADA67AAB_htm)
+* [FBX — Autodesk SDK](https://help.autodesk.com/view/FBX/2017/ENU/)
 * [Спецификации формата двоичных файлов FBX](https://code.blender.org/2013/08/fbx-binary-file-format-specification/)
 * [FBX — Википедия](https://en.wikipedia.org/wiki/FBX#File_format)
 

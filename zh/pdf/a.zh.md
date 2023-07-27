@@ -58,5 +58,5 @@ PDF/A-3 包括第 2 级的所有一致性要求，并允许嵌入其他文件格
 ## 参考 ＃＃
 
 * [PDF/A - 维基百科提供](https://en.wikipedia.org/wiki/PDF/A)
-* [白皮书：PDF/A – 基础](http://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
+* [白皮书：PDF/A – 基础](https://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
 

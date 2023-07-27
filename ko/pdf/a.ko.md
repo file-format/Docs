@@ -58,5 +58,5 @@ PDF/A-3에는 레벨 2의 모든 적합성 요구 사항이 포함되어 있으�
 ## 참조 ##
 
 * [PDF/A - 위키피디아 작성](https://en.wikipedia.org/wiki/PDF/A)
-* [백서: PDF/A – 기본 사항](http://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
+* [백서: PDF/A – 기본 사항](https://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
 

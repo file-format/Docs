@@ -29,7 +29,7 @@
 
 يتبع تنسيق ملف DOCM نفس بنية DOCX بناءً على تنسيق ملف Office OpenXML. يمكن عرض محتويات تنسيق ملف DOCM عن طريق إعادة تسميته إلى ZIP وفتح الأرشيف باستخدام أي أداة مساعدة داعمة. تحدد مواصفات [MS-DOCX](https://msdn.microsoft.com/en-us/library/dd773189 (v # office.12) .aspx) تفاصيل تنسيق ملف Office OpenXML لتنسيق ملف DOCX كمرجع للمطورين وقابلة للتطبيق على DOTM أيضًا. يتم تضمين وحدات الماكرو في ملف ثنائي يسمى vbaProject.bin ، مع ملفين داعمين هما vbaProject.bin.rels و vbaData.xml.
 
-![](http://social.technet.microsoft.com/Forums/getfile/331363)
+![](https://social.technet.microsoft.com/Forums/getfile/331363)
 
 ## مراجع
 

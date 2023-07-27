@@ -19,15 +19,15 @@
 
 ## Vad är en U3D fil?
 
-**U3D** (Universal 3D) är ett komprimerat filformat och datastruktur för 3D-datorgrafik. Den innehåller 3D-modellinformation som triangelnät, belysning, skuggning, rörelsedata, linjer och punkter med färg och struktur. Formatet accepterades som[ ECMA-363](http://www.ecma-international.org/publications/standards/Ecma-363.htm) standard i augusti 2005. 3D [PDF](/sv/pdf/) dokument stöder U3D objekt som bäddas in och kan visas i Adobe Reader (version 7 och senare).
+**U3D** (Universal 3D) är ett komprimerat filformat och datastruktur för 3D-datorgrafik. Den innehåller 3D-modellinformation som triangelnät, belysning, skuggning, rörelsedata, linjer och punkter med färg och struktur. Formatet accepterades som[ ECMA-363](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) standard i augusti 2005. 3D [PDF](/sv/pdf/) dokument stöder U3D objekt som bäddas in och kan visas i Adobe Reader (version 7 och senare).
 
 U3D-formatet utvecklades med syftet att etablera en universell standard för tredimensionell datalagring och utbyte. Formatet finner dock sin huvudsakliga användning i kodning för 3D PDF snarare än att användas som ett utbytesformat. Acrobat 3D konverterar en 3D-filtyp som stöds till antingen U3D eller PRC vid konvertering till PDF.
 
 ## U3D filformat
 
-U3D-filer är i binärt filformat som genomgick fyra utgåvor enligt beskrivningen av referensdokumentet [ECMA-363](http://www.ecma-international.org/publications/standards/Ecma-363.htm), vilket resulterade i uppdatering av specifikationerna med varje upplaga. PDF-filstandarden ISO-32000 accepterar U3D som tillåten anteckning och multimediatyp.
+U3D-filer är i binärt filformat som genomgick fyra utgåvor enligt beskrivningen av referensdokumentet [ECMA-363](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/), vilket resulterade i uppdatering av specifikationerna med varje upplaga. PDF-filstandarden ISO-32000 accepterar U3D som tillåten anteckning och multimediatyp.
 
-Den första utgåvan av U3D var fokuserad på nyckelrepresentationerna av 3D-grafikegenskaper som geometri, färg, texturer, belysning, ben och transformationsbaserad animation. Den andra och tredje utgåvan korrigerade vissa fel i den första utgåvan, där tredje versionen var den vanligaste typen i industriprogramvara. Den fjärde upplagan ger definitioner för primitiver av högre ordning (krökta ytor). [U3D-specifikationer](http://www.ecma-international.org/publications/standards/Ecma-363.htm) finns tillgängliga online för användarreferens på ECMA:s webbplats.
+Den första utgåvan av U3D var fokuserad på nyckelrepresentationerna av 3D-grafikegenskaper som geometri, färg, texturer, belysning, ben och transformationsbaserad animation. Den andra och tredje utgåvan korrigerade vissa fel i den första utgåvan, där tredje versionen var den vanligaste typen i industriprogramvara. Den fjärde upplagan ger definitioner för primitiver av högre ordning (krökta ytor). [U3D-specifikationer](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) finns tillgängliga online för användarreferens på ECMA:s webbplats.
 
 ### Datatyper i U3D-filer
 

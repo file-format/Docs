@@ -63,6 +63,6 @@ GML 1.0 和 2.0 对 Polygons、Points 和 LineString 对象进行如下编码：
 
 ## 参考 ＃＃
 
-* [GML 规范](http://www.opengeospatial.org/standards/gml)
+* [GML 规范](https://www.ogc.org/standard/gml/)
 * [GML - 维基百科](https://en.wikipedia.org/wiki/Geography_Markup_Language)
 

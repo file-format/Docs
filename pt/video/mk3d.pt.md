@@ -55,5 +55,5 @@ Para as várias faixas, o contêiner MKV precisa decidir a funcionalidade de cad
 ## Referências ##
 
 - [Notas de especificação Matroska](https://www.matroska.org/technical/notes.html)
-- [Suporte de contêiner de arquivo MKV para vídeo 3D estéreo e arquivos MK3D](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d- arquivos/)
+- [Suporte de contêiner de arquivo MKV para vídeo 3D estéreo e arquivos MK3D](https://3dvision-blog.com/5520-mkv-file-container-support-for-stereo-3d-video-and-the-mk3d-files/)
 

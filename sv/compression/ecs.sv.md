@@ -26,5 +26,5 @@ ECS-filer sparas som komprimerade ZIP-arkiv. Den kan öppnas med vilket standard
 
 ## Referenser
 
-* [Dzip](http://speeddemosarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 

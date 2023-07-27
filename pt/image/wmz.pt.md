@@ -30,10 +30,10 @@ Os arquivos WMZ são [Gzip](/pt/compression/gz/) compactados e contêm [WMF](/pt
 * Dados compactados
 * Rodapé de arquivo
 
-O formato de arquivo GZIP [especificações versão 4.3](http://tools.ietf.org/html/rfc1952) publicado pela Internet Engineering Task Force (IETF) contém informações detalhadas sobre o formato do arquivo.
+O formato de arquivo GZIP [especificações versão 4.3](https://datatracker.ietf.org/doc/html/rfc1952) publicado pela Internet Engineering Task Force (IETF) contém informações detalhadas sobre o formato do arquivo.
 
 ## Referências
 
-* [RFC1952: especificação de formato de arquivo GZIP](http://tools.ietf.org/html/rfc1952), por [IETF](https://www.ietf.org)
+* [RFC1952: especificação de formato de arquivo GZIP](https://datatracker.ietf.org/doc/html/rfc1952), por [IETF](https://www.ietf.org)
 * [Windows MetaFile - Wikipedia](https://en.wikipedia.org/wiki/Windows_Metafile)
 

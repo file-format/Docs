@@ -81,6 +81,6 @@ Strukturelle Metadaten sind in einer MXF-Datei von grundlegender Bedeutung, da s
 ## Verweise
 
 * [MXF - Wikipedia](https://en.wikipedia.org/wiki/Material_Exchange_Format)
-* [MXF - Fortschrittsbericht](http://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
+* [MXF - Fortschrittsbericht](https://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
 * [OpenSource C++ Bibliothek für MXF](http://www.freemxf.org/)
 

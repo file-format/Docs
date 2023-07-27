@@ -43,7 +43,7 @@ También puede haber otros archivos opcionales que compartan el mismo nombre que
 
 ## Especificaciones del formato de archivo SHP
 
-Las especificaciones abiertas de shapefile están disponibles en línea en ESRI en forma de [Descripción técnica](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) y elabora la estructura general del archivo en detalle. La información en el archivo .shp principal consta de encabezados y registros. El encabezado del archivo de longitud fija es seguido por registros de longitud variable donde cada registro se compone de un encabezado de registro de longitud fija seguido por contenidos de registros de longitud variable.
+Las especificaciones abiertas de shapefile están disponibles en línea en ESRI en forma de [Descripción técnica](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) y elabora la estructura general del archivo en detalle. La información en el archivo .shp principal consta de encabezados y registros. El encabezado del archivo de longitud fija es seguido por registros de longitud variable donde cada registro se compone de un encabezado de registro de longitud fija seguido por contenidos de registros de longitud variable.
 
 ### Encabezado principal del archivo SHP
 
@@ -116,5 +116,5 @@ Se pueden encontrar ejemplos de otros tipos de formas en el documento de descrip
 
 ## Referencias ##
 
-* [Descripción técnica de ESRI Shapefile](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) por ESRI
+* [Descripción técnica de ESRI Shapefile](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) por ESRI
 

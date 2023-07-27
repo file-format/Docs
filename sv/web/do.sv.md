@@ -27,5 +27,5 @@ DO-filer sparas som webbfiler som öppnas i webbläsaren när en användare skic
 
 ## Referenser
 
-* [DML](http://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
+* [DML](https://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
 

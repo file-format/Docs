@@ -29,7 +29,7 @@ Formát souboru DOCM je založen na standardu Office OpenXML. Bylo to počátkem
 
 Formát souboru DOCM má stejnou strukturu DOCX založenou na formátu souboru Office OpenXML. Obsah souboru ve formátu DOCM lze zobrazit jeho přejmenováním na ZIP a otevřením archivu pomocí libovolného podpůrného nástroje. Specifikace [MS-DOCX](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx) definují podrobnosti o formátu souboru Office OpenXML pro formát souboru DOCX pro reference vývojářů a jsou použitelné i pro DOTM. Makra jsou obsažena v binárním souboru s názvem vbaProject.bin se dvěma podpůrnými soubory vbaProject.bin.rels a vbaData.xml.
 
-![](http://social.technet.microsoft.com/Forums/getfile/331363)
+![](https://social.technet.microsoft.com/Forums/getfile/331363)
 
 ## Reference
 

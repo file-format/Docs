@@ -66,5 +66,5 @@ unit Unit1;
 ## 참고문헌
 
 * [델파이 프로젝트 및 유닛 소스 파일 이해하기](https://www.thoughtco.com/understanding-delphi-project-files-dpr-1057652)
-* [첫 델파이 프로그램 작성하기](http://www.delphibasics.co.uk/Article.asp?Name=FirstPgm)
+* [첫 델파이 프로그램 작성하기](http://www.delphibasics.co.uk/Article.php?Name=FirstPgm)
 

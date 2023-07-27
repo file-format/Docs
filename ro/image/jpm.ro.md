@@ -23,14 +23,14 @@ JPM se referă la sistemul de codare a imaginii JPEG 2000 Partea 6, care este ut
 
 ## Format de fișier JPM
 
-Formatul de fișier JPM este definit de [ISO/IEC 15444-6:2003](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=61124) -- imaginea JPEG 2000 sistem de codare -- Partea 6: Format de fișier imagine compus. O imagine compusă poate conține imagini scanate, imagini sintetice sau ambele, necesitând o combinație de tonuri continue și metode de compresie pe două niveluri. Formatul de fișier JPM definește un model de compoziție care descrie metoda de combinare a mai multor imagini pentru a genera o imagine compusă utilizând modelul de imagini cu mai multe straturi Mixed Raster Content (MRC), definit în ITU-T T.44 | ISO/IEC 16485.
+Formatul de fișier JPM este definit de [ISO/IEC 15444-6:2003](https://www.iso.org/standard/61124.html) -- imaginea JPEG 2000 sistem de codare -- Partea 6: Format de fișier imagine compus. O imagine compusă poate conține imagini scanate, imagini sintetice sau ambele, necesitând o combinație de tonuri continue și metode de compresie pe două niveluri. Formatul de fișier JPM definește un model de compoziție care descrie metoda de combinare a mai multor imagini pentru a genera o imagine compusă utilizând modelul de imagini cu mai multe straturi Mixed Raster Content (MRC), definit în ITU-T T.44 | ISO/IEC 16485.
 
 ### Specificații JPM
 Standardul de format de fișier JPM specifică ca acesta să fie un container binar pentru a reprezenta o imagine compusă prin care mai multe imagini pot fi combinate într-o singură imagine. Acesta stabilește mecanismul pentru gruparea mai multor imagini într-o ierarhie de obiecte de aspect, pagini și colecții de pagini pentru a stoca JPEG 2000 și alte formate de date de imagine comprimate. Formatul include mecanismul de încorporare a metadatelor (denumite adesea metadate structurale în proiectele bibliotecii digitale).
 
 ## Referințe
 
-* [UIT-T Rec. T.805](http://www.itu.int/rec/T-REC-T.805/en)
-* [ISO/IEC 15444-6:2013](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=61124)
-* [Wikipedia:JPEG 2000](http://en.wikipedia.org/wiki/JPEG_2000)
+* [UIT-T Rec. T.805](https://www.itu.int/rec/T-REC-T.805/en)
+* [ISO/IEC 15444-6:2013](https://www.iso.org/standard/61124.html)
+* [Wikipedia:JPEG 2000](https://en.wikipedia.org/wiki/JPEG_2000)
 

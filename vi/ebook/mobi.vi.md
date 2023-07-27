@@ -19,7 +19,7 @@
 
 ## Tệp MOBI là gì?
 
-Định dạng tệp MOBI là một trong những định dạng tệp ebook được sử dụng rộng rãi nhất. Định dạng này là một cải tiến cho định dạng OEB (Định dạng sách điện tử mở) cũ và được sử dụng làm định dạng độc quyền cho Mobipocket Reader. Giống như [EPUB](/vi/ebook/epub/), nó được hỗ trợ bởi hầu hết tất cả các trình đọc sách điện tử hiện đại, đặc biệt là trên các thiết bị di động có băng thông thấp. Định dạng này có thể được chuyển đổi sang một số định dạng khác như [PDF](/vi/pdf/), EPUB và một số định dạng khác bằng các ứng dụng phần mềm có sẵn công khai như [Ứng dụng Kindle](https://www.amazon.com/kindle -dbs/fd/kcp). Có một số công ty cung cấp sách MOBI miễn phí như [Project Gutenberg](http://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/), và [Open Library]( https://openlibrary.org/).
+Định dạng tệp MOBI là một trong những định dạng tệp ebook được sử dụng rộng rãi nhất. Định dạng này là một cải tiến cho định dạng OEB (Định dạng sách điện tử mở) cũ và được sử dụng làm định dạng độc quyền cho Mobipocket Reader. Giống như [EPUB](/vi/ebook/epub/), nó được hỗ trợ bởi hầu hết tất cả các trình đọc sách điện tử hiện đại, đặc biệt là trên các thiết bị di động có băng thông thấp. Định dạng này có thể được chuyển đổi sang một số định dạng khác như [PDF](/vi/pdf/), EPUB và một số định dạng khác bằng các ứng dụng phần mềm có sẵn công khai như [Ứng dụng Kindle](https://www.amazon.com/kindle -dbs/fd/kcp). Có một số công ty cung cấp sách MOBI miễn phí như [Project Gutenberg](https://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/), và [Open Library]( https://openlibrary.org/).
 
 ## Lịch sử tóm tắt về định dạng tệp MOBI
 

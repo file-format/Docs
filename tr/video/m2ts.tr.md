@@ -19,7 +19,7 @@
 
 ## M2TS dosyası nedir? ##
 
-Bir M2TS dosyası, Blu-ray Disc ve AVCHD'deki yüksek tanımlı videoyu içerir. Bu dosya formatı, MPEG-2 aktarım akışı kapsayıcısına dayalıdır ve ses, video ve diğer akışları çoğullamak için kullanılır. M2TS dosyaları, Sony PlayStation 3'ler, Sony Bravia TV'ler, Western Digital WDTV'ler, Xtreamer medya oynatıcı, Amkette FlashTV HD Medya Oynatıcı ve destekleyen Panasonic Viera TV'ler gibi [AVCHD](/tr/video/avchd) oynatmayı destekleyen cihazlarda oynatılabilir. AVCHD.
+Bir M2TS dosyası, Blu-ray Disc ve AVCHD'deki yüksek tanımlı videoyu içerir. Bu dosya formatı, MPEG-2 aktarım akışı kapsayıcısına dayalıdır ve ses, video ve diğer akışları çoğullamak için kullanılır. M2TS dosyaları, Sony PlayStation 3'ler, Sony Bravia TV'ler, Western Digital WDTV'ler, Xtreamer medya oynatıcı, Amkette FlashTV HD Medya Oynatıcı ve destekleyen Panasonic Viera TV'ler gibi [AVCHD](/tr/video/avchd/) oynatmayı destekleyen cihazlarda oynatılabilir. AVCHD.
 
 ## M2TS dosya formatı
 Rastgele erişim ortamı (DVD, Blu-ray Disk, sabit sürücü, katı hal bellek kartları gibi) için değiştirilmiş MPEG-2 taşıma akışı belirtimi, gayri resmi olarak M2TS olarak adlandırılan bir BDAV ortam kabıdır. M2TS, depolama boyutunu optimize etmek için MPEG-2 TS yayınında bulunan tipik sabit oranlar (CBR) yerine değişken oranlı (VBR) Taşıma Akışlarını kullanır. Her paketin varış zaman damgasının (ATS) yeniden yapılandırılabilmesi için kaydedilmesi gerekir.

@@ -38,35 +38,35 @@
 |unsigned long|FontDataSize|Довжина шрифту OpenType (FontData) у байтах|
 |unsigned long|Version|Номер версії цього формату - 0x00020002|
 |unsigned long|Flags|Processing Flags|
-|byte[10]|FontPANOSE|Значення PANOSE для цього шрифту – див. http://www.microsoft.com/typography/otspec/os2.htm#pan|
-|byte|Charset|У Windows це похідне від TEXTMETRIC.tmCharSet. Це значення визначає набір символів шрифту. DEFAULT_CHARSET (0x01) вказує на відсутність уподобань. - Див. http://msdn2.microsoft.com/en-us/library/ms534202.aspx|
-|byte|курсив|Якщо біт для ITALIC установлено в OS/2.fsSelection, значення буде 0x01 - див. http://www.microsoft.com/typography/otspec/os2.htm#fss|
-|unsigned long|Вага|Значення ваги для цього шрифту – див. http://www.microsoft.com/typography/otspec/os2.htm#wtc|
-|unsigned short|fsType|Позначки типу, які надають інформацію про дозволи на вбудовування – див. http://www.microsoft.com/typography/otspec/os2.htm#fst|
+|byte[10]|FontPANOSE|Значення PANOSE для цього шрифту – див. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan|
+|byte|Charset|У Windows це похідне від TEXTMETRIC.tmCharSet. Це значення визначає набір символів шрифту. DEFAULT_CHARSET (0x01) вказує на відсутність уподобань. - Див. https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica|
+|byte|курсив|Якщо біт для ITALIC установлено в OS/2.fsSelection, значення буде 0x01 - див. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss|
+|unsigned long|Вага|Значення ваги для цього шрифту – див. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc|
+|unsigned short|fsType|Позначки типу, які надають інформацію про дозволи на вбудовування – див. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|
 |unsigned short|MagicNumber|Магічне число для файлу EOT - 0x504C. Використовується для перевірки даних на пошкодження.|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (біти 0-31) – див. http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (біти 32-63) – див. http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (біти 64-95) – див. http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (біти 96-127) – див. http://www.microsoft.com/typography/otspec/os2.htm#ur|
-|unsigned long|CodePageRange1|CodePageRange1 (біти 0-31) – див. http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CodePageRange2|CodePageRange2 (біти 32-63) – див. http://www.microsoft.com/typography/otspec/os2.htm#cpr|
-|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment – Див. http://www.microsoft.com/typography/otspec/head.htm|
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (біти 0-31) – див. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (біти 32-63) – див. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (біти 64-95) – див. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (біти 96-127) – див. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur|
+|unsigned long|CodePageRange1|CodePageRange1 (біти 0-31) – див. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CodePageRange2|CodePageRange2 (біти 32-63) – див. https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr|
+|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment – Див. https://learn.microsoft.com/en-us/typography/opentype/spec/head|
 |unsigned long|Reserved1|Reserved - має бути 0|
 |unsigned long|Reserved2|Reserved - має бути 0|
 |unsigned long|Reserved3|Reserved - має бути 0|
 |unsigned long|Reserved4|Reserved - має бути 0|
 |unsigned short|Padding1|Заповнення для підтримки довгого вирівнювання. Значення заповнення завжди має бути 0x0000.|
 |unsigned short|FamilyNameSize|Кількість байтів, які використовуються масивом FamilyName|
-|байт|НазваРодини[РозмірРодини]|Масив із символів UTF-16 довжиною в байти РозмірРодини. Це рядок сімейства шрифтів англійської мови, знайдений у таблиці імен шрифту (ідентифікатор назви = 1) – див. http://www.microsoft.com/typography/otspec/name.htm|
+|байт|НазваРодини[РозмірРодини]|Масив із символів UTF-16 довжиною в байти РозмірРодини. Це рядок сімейства шрифтів англійської мови, знайдений у таблиці імен шрифту (ідентифікатор назви = 1) – див. https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding2|Значення заповнення завжди має бути встановлено на 0x0000.|
 |unsigned short|StyleNameSize|Кількість байтів, використовуваних StyleName|
-|byte|StyleName[StyleNameSize]|Масив символів UTF-16 довжиною StyleNameSize байтів. Це рядок підсімейства шрифтів англійської мови, знайдений у таблиці імен шрифту (ідентифікатор імені = 2) – див. http://www.microsoft.com/typography/otspec/name.htm|
+|byte|StyleName[StyleNameSize]|Масив символів UTF-16 довжиною StyleNameSize байтів. Це рядок підсімейства шрифтів англійської мови, знайдений у таблиці імен шрифту (ідентифікатор імені = 2) – див. https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding3|Значення заповнення завжди має бути встановлено на 0x0000.|
 |unsigned short|VersionNameSize|Кількість байтів, які використовує VersionName|
-|bytes|VersionName[VersionNameSize]|Масив символів UTF-16 довжиною в VersionNameSize байтів. Це рядок англійської версії, знайдений у таблиці імен шрифту (ідентифікатор назви = 5) – див. http://www.microsoft.com/typography/otspec/name.htm|
+|bytes|VersionName[VersionNameSize]|Масив символів UTF-16 довжиною в VersionNameSize байтів. Це рядок англійської версії, знайдений у таблиці імен шрифту (ідентифікатор назви = 5) – див. https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding4|Значення заповнення завжди має бути встановлено на 0x0000.|
 |unsigned short|FullNameSize|Кількість байтів, які використовує FullName|
-|byte|FullName[FullNameSize]|Масив символів UTF-16 довжиною в FullNameSize байтів. Це рядок повної назви англійською мовою, знайдений у таблиці імен шрифту (ідентифікатор назви = 4) – див. http://www.microsoft.com/typography/otspec/name.htm|
+|byte|FullName[FullNameSize]|Масив символів UTF-16 довжиною в FullNameSize байтів. Це рядок повної назви англійською мовою, знайдений у таблиці імен шрифту (ідентифікатор назви = 4) – див. https://learn.microsoft.com/en-us/typography/opentype/spec/name|
 |unsigned short|Padding5|Значення заповнення завжди має бути 0x0000.|
 |unsigned short|RootStringSize|Кількість байтів, які використовуються масивом RootString|
 |byte|RootString[RootStringSize]|Масив символів UTF-16 довжиною RootStringSize байтів.|

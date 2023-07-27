@@ -33,7 +33,7 @@ Koordinaten sind das Grundelement aller geografischen Daten. Dies ist eine einze
 
 ### Position ###
 
-Ein geordnetes Array von Koordinaten repräsentiert die [Position](http://geojson.org/geojson-spec.html#positions). Dies ist die kleinste Einheit, die einen Punkt auf der Erde anzeigen kann.
+Ein geordnetes Array von Koordinaten repräsentiert die [Position](https://geojson.org/geojson-spec.html#positions). Dies ist die kleinste Einheit, die einen Punkt auf der Erde anzeigen kann.
 
 `[Längengrad, Breitengrad, Höhe]`
 

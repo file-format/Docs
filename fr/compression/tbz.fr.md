@@ -23,7 +23,7 @@ Un fichier avec l'extension .tbz est une archive compressée qui utilise la comp
 
 ## Format de fichier TBZ
 
-Les fichiers TBZ sont en fait des archives compressées créées avec la compression BZIP/[BZIP2](/fr/compression/bz2). Il n'y a pas de spécifications formelles disponibles pour ce format de fichier. Cependant, une [spécifications d'ingénierie inverse] non officielle (https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) montre qu'un flux .bz2 consiste en un en-tête de 4 octets qui est suivi par zéro ou plusieurs blocs compressés.
+Les fichiers TBZ sont en fait des archives compressées créées avec la compression BZIP/[BZIP2](/fr/compression/bz2/). Il n'y a pas de spécifications formelles disponibles pour ce format de fichier. Cependant, une [spécifications d'ingénierie inverse] non officielle (https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) montre qu'un flux .bz2 consiste en un en-tête de 4 octets qui est suivi par zéro ou plusieurs blocs compressés.
 
 ## Références ##
 

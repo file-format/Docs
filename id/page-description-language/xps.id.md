@@ -25,7 +25,7 @@ Penampil XPS terintegrasi sebagai bagian dari Windows Vista, Windows 7, Windows 
 
 ## Sejarah Singkat ##
 
-Microsoft mengirimkan spesifikasi XPS ke Ecma International. Pada bulan Juni 2007, Komite Teknis Ecma 46 (TC46) dibentuk untuk mengembangkan standar berdasarkan Spesifikasi Kertas OpenXPS. Ecma International menyetujui Standar Ecma (ECMA-388) [spesifikasi XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm) pada bulan Juni 2009 di Majelis Umum ke-97.
+Microsoft mengirimkan spesifikasi XPS ke Ecma International. Pada bulan Juni 2007, Komite Teknis Ecma 46 (TC46) dibentuk untuk mengembangkan standar berdasarkan Spesifikasi Kertas OpenXPS. Ecma International menyetujui Standar Ecma (ECMA-388) [spesifikasi XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/) pada bulan Juni 2009 di Majelis Umum ke-97.
 
 ## Format File XPS ##
 
@@ -55,6 +55,6 @@ Dokumen XPS tipikal terlihat seperti berikut dan dapat dianalisis berdasarkan fo
 
 ## Referensi ##
 
-* [Spesifikasi Format File XPS](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+* [Spesifikasi Format File XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 * [XPS - Oleh Wikipedia](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

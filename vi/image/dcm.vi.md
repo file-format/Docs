@@ -19,7 +19,7 @@
 
 ## Tệp DCM là gì?
 
-Các tệp có phần mở rộng .dcm đại diện cho hình ảnh kỹ thuật số lưu trữ thông tin y tế của bệnh nhân như ảnh chụp cộng hưởng từ (MRI), ảnh chụp CT và ảnh siêu âm. Các tệp DCM sử dụng định dạng tệp hình ảnh [DICOM](/vi/image/dicom) (Hình ảnh kỹ thuật số và Truyền thông trong Y học) và có thể bao gồm thông tin của bệnh nhân để tham khảo. Nó được phát triển bởi [Hiệp hội các nhà sản xuất điện quốc gia](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) và nhằm chuẩn hóa định dạng tệp hình ảnh để phân phối và xem hình ảnh y tế.
+Các tệp có phần mở rộng .dcm đại diện cho hình ảnh kỹ thuật số lưu trữ thông tin y tế của bệnh nhân như ảnh chụp cộng hưởng từ (MRI), ảnh chụp CT và ảnh siêu âm. Các tệp DCM sử dụng định dạng tệp hình ảnh [DICOM](/vi/image/dicom/) (Hình ảnh kỹ thuật số và Truyền thông trong Y học) và có thể bao gồm thông tin của bệnh nhân để tham khảo. Nó được phát triển bởi [Hiệp hội các nhà sản xuất điện quốc gia](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) và nhằm chuẩn hóa định dạng tệp hình ảnh để phân phối và xem hình ảnh y tế.
 
 ## Định dạng tệp DCM
 
@@ -68,5 +68,5 @@ Lớp định dạng phương tiện cung cấp Thông tin quản lý tệp sau 
 
 ## Người giới thiệu ##
 * [Tiêu chuẩn DICOM](https://www.dicomstandard.org/current/)
-* [Định dạng tệp DICOM](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [Định dạng tệp DICOM](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

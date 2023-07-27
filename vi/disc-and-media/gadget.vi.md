@@ -19,11 +19,11 @@
 
 ## Tệp GADGET là gì?
 
-Tệp GADGET bao gồm một chương trình phần mềm nhỏ thực thi trong thanh bên của Windows Vista hoặc Windows 7. Nó nén một số tệp dựa trên web và các tệp này có thể bao gồm các tệp [.html](/vi/web/html), [.css](/vi/web/css) hoặc [.js](/vi/web/js), cũng như tập tin web khác. Các tệp GADGET được sử dụng cho các thành phần nhỏ như công cụ tìm kiếm, nguồn cấp tin tức, tiện ích hệ thống và trò chơi nhỏ. Mặc dù GADGET được lưu trữ bởi Thanh bên, không dành riêng cho khu vực Thanh bên; những thứ này có thể được tháo ra và di chuyển lên màn hình nền như mong muốn.
+Tệp GADGET bao gồm một chương trình phần mềm nhỏ thực thi trong thanh bên của Windows Vista hoặc Windows 7. Nó nén một số tệp dựa trên web và các tệp này có thể bao gồm các tệp [.html](/vi/web/html/), [.css](/vi/web/css/) hoặc [.js](/vi/web/js/), cũng như tập tin web khác. Các tệp GADGET được sử dụng cho các thành phần nhỏ như công cụ tìm kiếm, nguồn cấp tin tức, tiện ích hệ thống và trò chơi nhỏ. Mặc dù GADGET được lưu trữ bởi Thanh bên, không dành riêng cho khu vực Thanh bên; những thứ này có thể được tháo ra và di chuyển lên màn hình nền như mong muốn.
 
 ## Định dạng tệp GADGET
 
-Tệp GADGET là một kho lưu trữ [ZIP](/vi/compression/zip) được đổi tên chứa một tập hợp các tệp HTML, XML, JScript và CSS (Cascading Style Sheets). Quá trình cài đặt bao gồm tải xuống tệp .gadget và kích hoạt quá trình tải xuống để cài đặt thành phần hoặc lưu tệp .gadget vào hệ thống cục bộ và nhấp đúp để bắt đầu quá trình cài đặt.
+Tệp GADGET là một kho lưu trữ [ZIP](/vi/compression/zip/) được đổi tên chứa một tập hợp các tệp HTML, XML, JScript và CSS (Cascading Style Sheets). Quá trình cài đặt bao gồm tải xuống tệp .gadget và kích hoạt quá trình tải xuống để cài đặt thành phần hoặc lưu tệp .gadget vào hệ thống cục bộ và nhấp đúp để bắt đầu quá trình cài đặt.
 
 Về cơ bản, GADGET chứa hai tệp:
 

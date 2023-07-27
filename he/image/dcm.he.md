@@ -19,7 +19,7 @@
 
 ## מהו קובץ DCM?
 
-קבצים עם סיומת .dcm מייצגים תמונה דיגיטלית המאחסנת מידע רפואי של מטופלים כגון MRI, סריקות CT ותמונות אולטרסאונד. קובצי DCM משתמשים בפורמט קובץ תמונה [DICOM](/he/image/dicom) (הדמיה דיגיטלית ותקשורת ברפואה) ויכולים לכלול מידע של המטופל לעיון. הוא פותח על ידי [איגוד יצרני החשמל הלאומי](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) ונועד לתקן את פורמט קובץ ההדמיה להפצה וצפייה בתמונות רפואיות.
+קבצים עם סיומת .dcm מייצגים תמונה דיגיטלית המאחסנת מידע רפואי של מטופלים כגון MRI, סריקות CT ותמונות אולטרסאונד. קובצי DCM משתמשים בפורמט קובץ תמונה [DICOM](/he/image/dicom/) (הדמיה דיגיטלית ותקשורת ברפואה) ויכולים לכלול מידע של המטופל לעיון. הוא פותח על ידי [איגוד יצרני החשמל הלאומי](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) ונועד לתקן את פורמט קובץ ההדמיה להפצה וצפייה בתמונות רפואיות.
 
 ## פורמט קובץ DCM
 
@@ -68,5 +68,5 @@
 
 ## הפניות ##
 * [תקן DICOM](https://www.dicomstandard.org/current/)
-* [פורמט קובץ DICOM](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [פורמט קובץ DICOM](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

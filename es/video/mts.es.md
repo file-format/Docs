@@ -18,12 +18,12 @@
 
 ## ¿Qué es un archivo MTS?
 
-Un archivo MTS es un archivo de video [AVCHD](/es/video/avchd) (Codificación de video avanzada de alta definición) filmado por videocámaras típicas. Este formato de archivo es un formato de video estándar que utilizan muchas videocámaras compatibles con AVCHD, como las videocámaras HD de Sony y Panasonic. MTS le permite grabar videos de alta definición (HD) para transformarlos o compartirlos en su computadora. los
+Un archivo MTS es un archivo de video [AVCHD](/es/video/avchd/) (Codificación de video avanzada de alta definición) filmado por videocámaras típicas. Este formato de archivo es un formato de video estándar que utilizan muchas videocámaras compatibles con AVCHD, como las videocámaras HD de Sony y Panasonic. MTS le permite grabar videos de alta definición (HD) para transformarlos o compartirlos en su computadora. los
 Muchos profesionales y usuarios domésticos están aplicando ampliamente el archivo MTS como formato de archivo de video en esta era moderna.
 
 ## Formato de vídeo MTS
 
-El .mts es una de las extensiones de archivo utilizadas para videos AVCHD. El formato [AVCHD](/es/video/avchd) fue introducido por Sony y Panasonic en 2006 y es utilizado por muchas de las marcas de videocámaras famosas para sus dispositivos de grabación de películas. El MTS (abreviado como MPEG Transport Stream) es un formato de archivo contenedor que contiene audio, video y otros datos esenciales. Dado que utiliza compresión de video MPEG-4/H.264, puede admitir videos de 1080i y 720p. Los flujos de audio en un archivo MTS se pueden comprimir usando el audio PCM, que es un códec lineal sin comprimir o un códec Dolby AC-3.
+El .mts es una de las extensiones de archivo utilizadas para videos AVCHD. El formato [AVCHD](/es/video/avchd/) fue introducido por Sony y Panasonic en 2006 y es utilizado por muchas de las marcas de videocámaras famosas para sus dispositivos de grabación de películas. El MTS (abreviado como MPEG Transport Stream) es un formato de archivo contenedor que contiene audio, video y otros datos esenciales. Dado que utiliza compresión de video MPEG-4/H.264, puede admitir videos de 1080i y 720p. Los flujos de audio en un archivo MTS se pueden comprimir usando el audio PCM, que es un códec lineal sin comprimir o un códec Dolby AC-3.
 
 ## Diferencia entre MTS y M2TS
 

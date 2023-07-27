@@ -42,7 +42,7 @@ El estándar PDF/UA define especificaciones para contenido, lectores y tecnolog�
 
 ## Archivos conformes ##
 
-Los archivos que cumplen con el estándar PDF/UA deben contener funciones válidas según las [especificaciones de PDF 1.7](http://www.adobe.com/go/pdfreference). Sin embargo, las funciones que están prohibidas específicamente por PDF/UA deben excluirse.
+Los archivos que cumplen con el estándar PDF/UA deben contener funciones válidas según las [especificaciones de PDF 1.7](https://opensource.adobe.com/dc-acrobat-sdk-docs/standards/pdfstandards/pdf/PDF32000_2008.pdf). Sin embargo, las funciones que están prohibidas específicamente por PDF/UA deben excluirse.
 
 ## Lectores conformes ##
 
@@ -59,5 +59,5 @@ Una tecnología de asistencia conforme está destinada a soportar las caracterí
 ## Referencias ##
 
 * [PDF/UA - Por Wikipedia](https://en.wikipedia.org/wiki/PDF/UA)
-* [PDF/UA en pocas palabras](http://www.pdfa.org/publication/pdfua-in-a-nutshell/)
+* [PDF/UA en pocas palabras](https://pdfa.org/pdfua-in-a-nutshell/)
 

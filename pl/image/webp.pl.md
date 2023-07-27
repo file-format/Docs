@@ -25,7 +25,7 @@ WebP, wprowadzony przez Google, to nowoczesny format plików rastrowych obrazów
 
 Obrazy WebP wykorzystują proces kompresji oparty na przewidywaniu pikseli z otaczających je bloków, w wyniku czego piksele są używane wielokrotnie w jednym pliku. Obsługuje animowane obrazy i oczekuje się, że w przyszłości będzie obsługiwał więcej funkcji. Firma Google udostępniła kod źródłowy [online](https://developers.google.com/speed/webp/download) swojego kodera i dekodera, aby można go było używać w razie potrzeby. Obraz WebP zapewnia obsługę:
 
-* **Kompresja stratna:** Kompresja stratna jest oparta na kodowaniu klatek kluczowych [VP8](http://en.wikipedia.org/wiki/VP8). VP8 to format kompresji wideo stworzony przez On2 Technologies jako następca formatów VP6 i VP7.
+* **Kompresja stratna:** Kompresja stratna jest oparta na kodowaniu klatek kluczowych [VP8](https://en.wikipedia.org/wiki/VP8). VP8 to format kompresji wideo stworzony przez On2 Technologies jako następca formatów VP6 i VP7.
 * **Kompresja bezstratna:** Format kompresji bezstratnej został opracowany przez zespół WebP.
 * **Przezroczystość:** 8-bitowy kanał alfa jest przydatny w przypadku obrazów graficznych. Kanał alfa może być używany razem ze stratnym RGB, funkcją, która nie jest obecnie dostępna w żadnym innym formacie.
 * **Animacja:** Obsługuje animowane obrazy w prawdziwych kolorach.

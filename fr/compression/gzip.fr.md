@@ -30,6 +30,6 @@ Les fichiers GZIP sont souvent enregistrés au format de fichier [GZ](/fr/compre
 
 * [gzip](http://www.gzip.org/)
 * [gzip - Wikipédia](https://en.wikipedia.org/wiki/Gzip)
-* [RFC1952 : spécification du format de fichier GZIP](http://tools.ietf.org/html/rfc1952), par l'IETF
+* [RFC1952 : spécification du format de fichier GZIP](https://datatracker.ietf.org/doc/html/rfc1952), par l'IETF
 * [RFC1951](https://tools.ietf.org/html/rfc1951)
 

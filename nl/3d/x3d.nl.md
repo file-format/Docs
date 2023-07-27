@@ -94,6 +94,6 @@ X3D-scènebestanden hebben een gemeenschappelijke bestandsstructuur:
 ## Referenties ##
 
 * [X3D - Door Wikipedia](https://en.wikipedia.org/wiki/X3D)
-* [Officiële website van het Web3D Consortium](http://www.web3d.org/)
-* [X3D officiële website](http://www.web3d.org/x3d/what-x3d)
+* [Officiële website van het Web3D Consortium](https://www.web3d.org/)
+* [X3D officiële website](https://www.web3d.org/x3d/what-x3d)
 

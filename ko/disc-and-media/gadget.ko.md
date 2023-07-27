@@ -19,11 +19,11 @@
 
 ## .GADGET 파일이란?
 
-GADGET 파일은 Windows Vista 또는 Windows 7 사이드바 내에서 실행되는 작은 소프트웨어 프로그램으로 구성됩니다. 여러 웹 기반 파일을 압축하며 파일은 [.html](/ko/web/html), [.css](/ko/web/css) 또는 [.js](/ko/web/js) 파일 및 다른 웹 파일. GADGET 파일은 검색 도구, 뉴스 피드, 시스템 유틸리티 및 작은 게임과 같은 작은 구성 요소에 사용됩니다. GADGET은 사이드바에서 호스팅되지만 사이드바 영역에만 국한되지는 않습니다. 이들은 도킹을 해제하고 원하는 대로 데스크탑으로 이동할 수 있습니다.
+GADGET 파일은 Windows Vista 또는 Windows 7 사이드바 내에서 실행되는 작은 소프트웨어 프로그램으로 구성됩니다. 여러 웹 기반 파일을 압축하며 파일은 [.html](/ko/web/html/), [.css](/ko/web/css/) 또는 [.js](/ko/web/js/) 파일 및 다른 웹 파일. GADGET 파일은 검색 도구, 뉴스 피드, 시스템 유틸리티 및 작은 게임과 같은 작은 구성 요소에 사용됩니다. GADGET은 사이드바에서 호스팅되지만 사이드바 영역에만 국한되지는 않습니다. 이들은 도킹을 해제하고 원하는 대로 데스크탑으로 이동할 수 있습니다.
 
 ## GADGET 파일 형식
 
-GADGET 파일은 HTML, XML, JScript 및 CSS(Cascading Style Sheets) 파일 모음을 포함하는 이름이 변경된 [ZIP](/ko/compression/zip) 아카이브입니다. 설치에는 .gadget 파일을 다운로드하고 다운로드 프로세스를 활성화하여 구성 요소를 설치하거나 .gadget 파일을 로컬 시스템에 저장하고 두 번 클릭하여 설치 프로세스를 시작하는 작업이 포함됩니다.
+GADGET 파일은 HTML, XML, JScript 및 CSS(Cascading Style Sheets) 파일 모음을 포함하는 이름이 변경된 [ZIP](/ko/compression/zip/) 아카이브입니다. 설치에는 .gadget 파일을 다운로드하고 다운로드 프로세스를 활성화하여 구성 요소를 설치하거나 .gadget 파일을 로컬 시스템에 저장하고 두 번 클릭하여 설치 프로세스를 시작하는 작업이 포함됩니다.
 
 기본적으로 GADGET에는 두 개의 파일이 있습니다.
 

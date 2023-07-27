@@ -23,7 +23,7 @@ Een bestand met de extensie .ndf is een secundair databasebestand dat door [Micr
 
 ## NDF-bestandsindeling
 
-Het NDF-bestandsformaat is niet anders dan [MDF](/nl/database/mdf) en gebruikt pagina's als de fundamentele eenheid van gegevensopslag. elke pagina begint met een header van 96 bytes die het volgende omvat:
+Het NDF-bestandsformaat is niet anders dan [MDF](/nl/database/mdf/) en gebruikt pagina's als de fundamentele eenheid van gegevensopslag. elke pagina begint met een header van 96 bytes die het volgende omvat:
 
 * Pagina-ID
 * Type structuur

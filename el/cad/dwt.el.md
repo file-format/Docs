@@ -28,6 +28,6 @@
 ### Βιβλιογραφικές αναφορές
 
 * [Προδιαγραφές μορφής αρχείου DWG](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
-* [Η προδιαγραφή αρχείου DWG](https://www.scan2cad.com/dwg/file-spec/)
+* [Η προδιαγραφή αρχείου DWG](https://www.scan2cad.com/blog/dwg/file-spec/)
 * [DWG - Από τη Wikipedia](https://en.wikipedia.org/wiki/.dwg)
 

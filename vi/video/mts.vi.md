@@ -18,12 +18,12 @@
 
 ## Tệp MTS là gì?
 
-Tệp MTS là tệp video [AVCHD](/vi/video/avchd) (Độ phân giải cao mã hóa video nâng cao) được quay bằng máy quay thông thường. Định dạng tệp này là định dạng video tiêu chuẩn được sử dụng bởi nhiều máy quay tương thích với AVCHD như máy quay HD của Sony và Panasonic. MTS cho phép bạn quay video độ phân giải cao (HD) để biến đổi hoặc chia sẻ chúng trên máy tính của mình. Các
+Tệp MTS là tệp video [AVCHD](/vi/video/avchd/) (Độ phân giải cao mã hóa video nâng cao) được quay bằng máy quay thông thường. Định dạng tệp này là định dạng video tiêu chuẩn được sử dụng bởi nhiều máy quay tương thích với AVCHD như máy quay HD của Sony và Panasonic. MTS cho phép bạn quay video độ phân giải cao (HD) để biến đổi hoặc chia sẻ chúng trên máy tính của mình. Các
 Tệp MTS đang được nhiều chuyên gia và người dùng gia đình áp dụng rộng rãi làm định dạng tệp video của họ trong thời kỳ hiện đại này.
 
 ## Định dạng video MTS
 
-.mts là một trong những phần mở rộng tệp được sử dụng cho video AVCHD. Định dạng [AVCHD](/vi/video/avchd) được giới thiệu bởi Sony và Panasonic vào năm 2006, được nhiều thương hiệu máy quay phim nổi tiếng sử dụng cho các thiết bị quay phim của họ. MTS (viết tắt là MPEG Transport Stream) là định dạng tệp vùng chứa có chứa âm thanh, video và các dữ liệu cần thiết khác. Vì nó sử dụng nén video MPEG-4 / H.264 nên nó có thể hỗ trợ video 1080i và 720p. Các luồng âm thanh trong tệp MTS có thể được nén bằng âm thanh PCM là codec tuyến tính không nén hoặc codec Dolby AC-3.
+.mts là một trong những phần mở rộng tệp được sử dụng cho video AVCHD. Định dạng [AVCHD](/vi/video/avchd/) được giới thiệu bởi Sony và Panasonic vào năm 2006, được nhiều thương hiệu máy quay phim nổi tiếng sử dụng cho các thiết bị quay phim của họ. MTS (viết tắt là MPEG Transport Stream) là định dạng tệp vùng chứa có chứa âm thanh, video và các dữ liệu cần thiết khác. Vì nó sử dụng nén video MPEG-4 / H.264 nên nó có thể hỗ trợ video 1080i và 720p. Các luồng âm thanh trong tệp MTS có thể được nén bằng âm thanh PCM là codec tuyến tính không nén hoặc codec Dolby AC-3.
 
 ## Sự khác biệt giữa MTS và M2TS
 

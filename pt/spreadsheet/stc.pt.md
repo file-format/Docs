@@ -20,7 +20,7 @@
 
 ## O que é um arquivo STC?
 
-Um arquivo STC é um arquivo de modelo de planilha criado e suportado originalmente pelo software [StarOffice](http://www.staroffice.com). Ele contém configurações para criar outros arquivos de planilhas que usam as informações do modelo para definir as configurações da planilha, como formatação da página, tamanho da fonte, margens, gráficos, etc. O formato do arquivo foi posteriormente adotado pelo Apache OpenOffice, mas posteriormente substituído pelo uso do formato de arquivo [.ots](/pt/spreadsheet/ots/) para armazenar as informações do arquivo de modelo. Os arquivos STC podem ser abertos usando OpenOffice Calc, Planamesa NeoOffice e LibreOffice.
+Um arquivo STC é um arquivo de modelo de planilha criado e suportado originalmente pelo software [StarOffice](https://www.staroffice.com/). Ele contém configurações para criar outros arquivos de planilhas que usam as informações do modelo para definir as configurações da planilha, como formatação da página, tamanho da fonte, margens, gráficos, etc. O formato do arquivo foi posteriormente adotado pelo Apache OpenOffice, mas posteriormente substituído pelo uso do formato de arquivo [.ots](/pt/spreadsheet/ots/) para armazenar as informações do arquivo de modelo. Os arquivos STC podem ser abertos usando OpenOffice Calc, Planamesa NeoOffice e LibreOffice.
 
 ## Formato de arquivo STC
 

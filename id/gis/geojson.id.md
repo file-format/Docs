@@ -33,7 +33,7 @@ Koordinat adalah elemen dasar dari setiap data geografis. Ini adalah dimensi tun
 
 ### Posisi ###
 
-Susunan koordinat yang terurut mewakili [posisi](http://geojson.org/geojson-spec.html#positions). Ini adalah satuan terkecil yang dapat menunjukkan suatu titik di bumi.
+Susunan koordinat yang terurut mewakili [posisi](https://geojson.org/geojson-spec.html#positions). Ini adalah satuan terkecil yang dapat menunjukkan suatu titik di bumi.
 
 `[Bujur, lintang, elevasi]`
 

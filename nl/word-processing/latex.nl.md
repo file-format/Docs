@@ -85,5 +85,3 @@ De uitvoer van het bovenstaande opdrachtbestand zou er als volgt uit moeten zien
 ## Referenties ##
 
 * [TEX - Wikipedia](https://en.wikipedia.org/wiki/TeX)
-* [Latex](http://mally.stanford.edu/~sr/computing/latex-example.html)
-

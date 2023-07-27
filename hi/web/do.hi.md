@@ -27,5 +27,5 @@ DO फ़ाइलें वेब फ़ाइलों के रूप मे
 
 ## संदर्भ
 
-* [डीएमएल](http://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
+* [डीएमएल](https://www.upi.pr.it/docs/dynref/pdreferencep8.htm)
 

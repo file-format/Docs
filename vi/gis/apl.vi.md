@@ -27,5 +27,5 @@ APL là các tệp tin GIS nhị phân và thông tin định dạng tệp của
 
 ## Người giới thiệu ##
 
-* [ArcPad Pro](http://www.esri.com/library/brochures/pdfs/arcpadbro.pdf)
+* [ArcPad Pro](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/brochures/pdfs/arcpadbro.pdf)
 

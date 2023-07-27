@@ -74,6 +74,6 @@ File GPX berikut menunjukkan organisasi data GPS dalam file GPX dan dapat member
 
 ## Referensi ##
 
-* [Format File GPX](http://www.topografix.com/gpx.asp)
+* [Format File GPX](https://www.topografix.com/gpx.asp)
 * [GPX - Oleh Wikipedia](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
 

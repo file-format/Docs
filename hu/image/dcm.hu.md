@@ -19,7 +19,7 @@
 
 ## Mi az a DCM fájl?
 
-A .dcm kiterjesztésű fájlok olyan digitális képet képviselnek, amely a betegek orvosi adatait, például MRI-ket, CT-vizsgálatokat és ultrahangképeket tárolja. A DCM-fájlok [DICOM](/hu/image/dicom) (Digital Imaging and Communications in Medicine) képfájlformátumot használnak, és referenciaként tartalmazhatják a páciens adatait. A [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) fejlesztette ki, és célja az volt, hogy szabványosítsa a képalkotó fájlformátumot az orvosi képek terjesztéséhez és megtekintéséhez.
+A .dcm kiterjesztésű fájlok olyan digitális képet képviselnek, amely a betegek orvosi adatait, például MRI-ket, CT-vizsgálatokat és ultrahangképeket tárolja. A DCM-fájlok [DICOM](/hu/image/dicom/) (Digital Imaging and Communications in Medicine) képfájlformátumot használnak, és referenciaként tartalmazhatják a páciens adatait. A [National Electrical Manufacturers Association](https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association) (NEMA) fejlesztette ki, és célja az volt, hogy szabványosítsa a képalkotó fájlformátumot az orvosi képek terjesztéséhez és megtekintéséhez.
 
 ## DCM fájlformátum
 
@@ -68,5 +68,5 @@ A Media Format Layer a következő fájlkezelési információkat nyújtja, ha s
 
 ## Hivatkozások ##
 * [DICOM-szabvány](https://www.dicomstandard.org/current/)
-* [DICOM fájlformátum](http://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
+* [DICOM fájlformátum](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

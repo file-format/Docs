@@ -38,35 +38,35 @@ EMBEDDEDFONT 構造体は 3 回改訂され、改訂ごとに構造体の末尾�
 |unsigned long|FontDataSize|OpenType フォント (FontData) の長さ (バイト単位)|
 |unsigned long|Version|この形式のバージョン番号 - 0x00020002|
 |unsigned long|フラグ|処理フラグ|
-|byte[10]|FontPANOSE|このフォントの PANOSE 値 - http://www.microsoft.com/typography/otspec/os2.htm#pan| を参照してください。
-|byte|Charset|Windows では、これは TEXTMETRIC.tmCharSet から派生します。この値は、フォントの文字セットを指定します。 DEFAULT_CHARSET (0x01) は、設定がないことを示します。 - http://msdn2.microsoft.com/en-us/library/ms534202.aspx| を参照してください。
-|byte|Italic|OS/2.fsSelection で ITALIC のビットが設定されている場合、値は 0x01 になります - http://www.microsoft.com/typography/otspec/os2.htm#fss| を参照してください。
-|unsigned long|Weight|このフォントのウェイト値 - http://www.microsoft.com/typography/otspec/os2.htm#wtc| を参照してください。
-|unsigned short|fsType|埋め込み権限に関する情報を提供するタイプ フラグ - http://www.microsoft.com/typography/otspec/os2.htm#fst|を参照してください。
+|byte[10]|FontPANOSE|このフォントの PANOSE 値 - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#pan| を参照してください。
+|byte|Charset|Windows では、これは TEXTMETRIC.tmCharSet から派生します。この値は、フォントの文字セットを指定します。 DEFAULT_CHARSET (0x01) は、設定がないことを示します。 - https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-textmetrica| を参照してください。
+|byte|Italic|OS/2.fsSelection で ITALIC のビットが設定されている場合、値は 0x01 になります - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fss| を参照してください。
+|unsigned long|Weight|このフォントのウェイト値 - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#wtc| を参照してください。
+|unsigned short|fsType|埋め込み権限に関する情報を提供するタイプ フラグ - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#fst|を参照してください。
 |unsigned short|MagicNumber|EOT ファイルのマジック ナンバー - 0x504C。データの破損をチェックするために使用されます。|
-|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (ビット 0 ～ 31) - http://www.microsoft.com/typography/otspec/os2.htm#ur| を参照してください。
-|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (ビット 32 ～ 63) - http://www.microsoft.com/typography/otspec/os2.htm#ur| を参照してください。
-|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (ビット 64 ～ 95) - http://www.microsoft.com/typography/otspec/os2.htm#ur| を参照してください。
-|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (ビット 96 ～ 127) - http://www.microsoft.com/typography/otspec/os2.htm#ur| を参照してください。
-|unsigned long|CodePageRange1|CodePageRange1 (ビット 0 ～ 31) - http://www.microsoft.com/typography/otspec/os2.htm#cpr| を参照してください。
-|unsigned long|CodePageRange2|CodePageRange2 (ビット 32 ～ 63) - http://www.microsoft.com/typography/otspec/os2.htm#cpr| を参照してください。
-|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - http://www.microsoft.com/typography/otspec/head.htm|を参照してください。
+|unsigned long|UnicodeRange1|os/2.UnicodeRange1 (ビット 0 ～ 31) - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur| を参照してください。
+|unsigned long|UnicodeRange2|os/2.UnicodeRange2 (ビット 32 ～ 63) - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur| を参照してください。
+|unsigned long|UnicodeRange3|os/2.UnicodeRange3 (ビット 64 ～ 95) - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur| を参照してください。
+|unsigned long|UnicodeRange4|os/2.UnicodeRange4 (ビット 96 ～ 127) - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#ur| を参照してください。
+|unsigned long|CodePageRange1|CodePageRange1 (ビット 0 ～ 31) - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr| を参照してください。
+|unsigned long|CodePageRange2|CodePageRange2 (ビット 32 ～ 63) - https://learn.microsoft.com/en-us/typography/opentype/spec/os2#cpr| を参照してください。
+|unsigned long|CheckSumAdjustment|head.CheckSumAdjustment - https://learn.microsoft.com/en-us/typography/opentype/spec/head|を参照してください。
 |unsigned long|Reserved1|予約済み - 必ず 0|
 |unsigned long|Reserved2|予約済み - 必ず 0|
 |unsigned long|Reserved3|予約済み - 必ず 0|
 |unsigned long|Reserved4|予約済み - 必ず 0|
 |unsigned short|Padding1|長いアライメントを維持するためのパディング。パディング値は常に 0x0000 に設定する必要があります。|
 |unsigned short|FamilyNameSize|FamilyName 配列で使用されるバイト数|
-|byte|FamilyName[FamilyNameSize]|FamilyNameSize バイトの長さの UTF-16 文字の配列。これは、フォントの名前テーブルにある英語のフォント ファミリ文字列です (名前 ID = 1) - http://www.microsoft.com/typography/otspec/name.htm| を参照してください。
+|byte|FamilyName[FamilyNameSize]|FamilyNameSize バイトの長さの UTF-16 文字の配列。これは、フォントの名前テーブルにある英語のフォント ファミリ文字列です (名前 ID = 1) - https://learn.microsoft.com/en-us/typography/opentype/spec/name| を参照してください。
 |unsigned short|Padding2|パディング値は常に 0x0000 に設定する必要があります。|
 |unsigned short|StyleNameSize|StyleName で使用されるバイト数|
-|byte|StyleName[StyleNameSize]|StyleNameSize バイトの長さの UTF-16 文字の配列。これは、フォントの名前テーブルにある英語のフォント サブファミリ文字列です (名前 ID = 2) - http://www.microsoft.com/typography/otspec/name.htm| を参照してください。
+|byte|StyleName[StyleNameSize]|StyleNameSize バイトの長さの UTF-16 文字の配列。これは、フォントの名前テーブルにある英語のフォント サブファミリ文字列です (名前 ID = 2) - https://learn.microsoft.com/en-us/typography/opentype/spec/name| を参照してください。
 |unsigned short|Padding3|パディング値は常に 0x0000 に設定する必要があります。|
 |unsigned short|VersionNameSize|VersionName で使用されるバイト数|
-|bytes|VersionName[VersionNameSize]|VersionNameSize バイトの長さの UTF-16 文字の配列。これは、フォントの名前テーブルにある英語版の文字列です (名前 ID = 5) - http://www.microsoft.com/typography/otspec/name.htm| を参照してください。
+|bytes|VersionName[VersionNameSize]|VersionNameSize バイトの長さの UTF-16 文字の配列。これは、フォントの名前テーブルにある英語版の文字列です (名前 ID = 5) - https://learn.microsoft.com/en-us/typography/opentype/spec/name| を参照してください。
 |unsigned short|Padding4|パディング値は常に 0x0000 に設定する必要があります。|
 |unsigned short|FullNameSize|FullName が使用するバイト数|
-|byte|FullName[FullNameSize]|FullNameSize バイトの長さの UTF-16 文字の配列。これは、フォントの名前テーブルにある英語のフル ネーム文字列です (名前 ID = 4) - http://www.microsoft.com/typography/otspec/name.htm| を参照してください。
+|byte|FullName[FullNameSize]|FullNameSize バイトの長さの UTF-16 文字の配列。これは、フォントの名前テーブルにある英語のフル ネーム文字列です (名前 ID = 4) - https://learn.microsoft.com/en-us/typography/opentype/spec/name| を参照してください。
 |unsigned short|Padding5|パディング値は常に 0x0000 に設定する必要があります。|
 |unsigned short|RootStringSize|RootString 配列で使用されるバイト数|
 |byte|RootString[RootStringSize]|RootStringSize バイトの長さの UTF-16 文字の配列。|

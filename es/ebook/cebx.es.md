@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo CEBX?
 
-Los archivos con la extensión .cebx (libro electrónico chino) se conocen como **archivos de libros electrónicos Apabi**, que en realidad reemplazaron el formato de archivo [CEB](/es/ebook/ceb). Un archivo CEBX incluye texto con formato chino y otra información de diseño, por lo tanto, este formato de archivo se ha discontinuado. El formato de archivo CEBX fue desarrollado por los editores Apabi de Founder Electronics. Los archivos de este formato están disponibles en la biblioteca APABI D-Lib, que incluye una colección de libros electrónicos en chino. Estos archivos codificados en binario se pueden visualizar utilizando el software Apabi. **Apabi Reader 4.5.2 para varios idiomas** para Microsoft Windows, **Apabi Reader para Android 1.8.1** y **Apabi Reader para iOS 2.4.0** son compatibles con los formatos de archivo CEBX.
+Los archivos con la extensión .cebx (libro electrónico chino) se conocen como **archivos de libros electrónicos Apabi**, que en realidad reemplazaron el formato de archivo [CEB](/es/ebook/ceb/). Un archivo CEBX incluye texto con formato chino y otra información de diseño, por lo tanto, este formato de archivo se ha discontinuado. El formato de archivo CEBX fue desarrollado por los editores Apabi de Founder Electronics. Los archivos de este formato están disponibles en la biblioteca APABI D-Lib, que incluye una colección de libros electrónicos en chino. Estos archivos codificados en binario se pueden visualizar utilizando el software Apabi. **Apabi Reader 4.5.2 para varios idiomas** para Microsoft Windows, **Apabi Reader para Android 1.8.1** y **Apabi Reader para iOS 2.4.0** son compatibles con los formatos de archivo CEBX.
 
 ## Referencias
 

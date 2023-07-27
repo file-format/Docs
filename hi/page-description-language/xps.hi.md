@@ -25,7 +25,7 @@ XPS व्यूअर Windows Vista, Windows 7, Windows 8, और Internet Expl
 
 ## संक्षिप्त इतिहास ##
 
-Microsoft ने एक्मा इंटरनेशनल को XPS विनिर्देश प्रस्तुत किया। जून 2007 में, एक्मा तकनीकी समिति 46 (टीसी46) की स्थापना ओपनएक्सपीएस पेपर विनिर्देशों के आधार पर एक मानक विकसित करने के लिए की गई थी। एक्मा इंटरनेशनल ने जून 2009 में 97वीं आम सभा में एक्मा मानक (ईसीएमए-388) [एक्सपीएस विनिर्देश](http://www.ecma-international.org/publications/standards/Ecma-388.htm) को मंजूरी दी।
+Microsoft ने एक्मा इंटरनेशनल को XPS विनिर्देश प्रस्तुत किया। जून 2007 में, एक्मा तकनीकी समिति 46 (टीसी46) की स्थापना ओपनएक्सपीएस पेपर विनिर्देशों के आधार पर एक मानक विकसित करने के लिए की गई थी। एक्मा इंटरनेशनल ने जून 2009 में 97वीं आम सभा में एक्मा मानक (ईसीएमए-388) [एक्सपीएस विनिर्देश](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/) को मंजूरी दी।
 
 ## एक्सपीएस फ़ाइल स्वरूप ##
 
@@ -55,6 +55,6 @@ XPS दस्तावेज़ प्रारूप में भागों 
 
 ## संदर्भ ##
 
-* [एक्सपीएस फ़ाइल प्रारूप विनिर्देश](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
+* [एक्सपीएस फ़ाइल प्रारूप विनिर्देश](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 * [XPS - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 
