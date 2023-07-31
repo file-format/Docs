@@ -22,7 +22,7 @@ FZP ファイルは、[Fritzing](https://fritzing.org/) 電子回路プロトタ
 
 ## FZP ファイル形式 - 詳細情報
 
-FZP ファイルは、パーツのプロパティ、コネクタ、およびバスに関する情報を含む XML ファイルです。これらに加えて、FZP ファイルには、FZP ファイルのタイトル、説明、作成者、発行日に関する情報も含まれています。 Fritzing パーツ ファイルがエクスポートされると、Fritzing アプリは、FZP ファイルと 4 つの [SVG](/image/svg/) ファイルを含む [FZPZ](/compression/fzpz/) 圧縮アーカイブを作成します。
+FZP ファイルは、パーツのプロパティ、コネクタ、およびバスに関する情報を含む XML ファイルです。これらに加えて、FZP ファイルには、FZP ファイルのタイトル、説明、作成者、発行日に関する情報も含まれています。 Fritzing パーツ ファイルがエクスポートされると、Fritzing アプリは、FZP ファイルと 4 つの [SVG](/page-description-language/svg/) ファイルを含む [FZPZ](/compression/fzpz/) 圧縮アーカイブを作成します。
 
 [FZP ファイル形式仕様](https://github.com/fritzing/fzp/blob/master/docs/README.md) は Fritzing の Github で公開されています。
 

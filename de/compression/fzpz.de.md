@@ -18,7 +18,7 @@
 
 ## Was ist eine FZPZ-Datei?
 
-Eine FZPZ-Datei ist eine Komponente/ein Teil, das in einem elektronischen Schaltungsdesign verwendet wird, das mit der Schaltkreis-Prototyping- und Designanwendung **Fritzing** erstellt wurde. Es ist ein komprimiertes Archiv, das eine [FZP](/de/cad/fzp/)-Datei und vier [SVG](/de/image/svg/)-Bilder enthält, die den gesamten Teil in Fritzing beschreiben. Der Vorteil der Verwendung dieser Dateien besteht darin, dass Benutzer ihre FZPZ-Dateien aus Sicht der Wiederverwendbarkeit mit jedem teilen können. Die gemeinsame Nutzung von FZPZ-Teilen hilft bei der Integration von Schaltungsteilen, um schnell größere PCB-Designs zu erstellen.
+Eine FZPZ-Datei ist eine Komponente/ein Teil, das in einem elektronischen Schaltungsdesign verwendet wird, das mit der Schaltkreis-Prototyping- und Designanwendung **Fritzing** erstellt wurde. Es ist ein komprimiertes Archiv, das eine [FZP](/de/cad/fzp/)-Datei und vier [SVG](/de/page-description-language/svg/)-Bilder enthält, die den gesamten Teil in Fritzing beschreiben. Der Vorteil der Verwendung dieser Dateien besteht darin, dass Benutzer ihre FZPZ-Dateien aus Sicht der Wiederverwendbarkeit mit jedem teilen können. Die gemeinsame Nutzung von FZPZ-Teilen hilft bei der Integration von Schaltungsteilen, um schnell größere PCB-Designs zu erstellen.
 
 ## FZPZ-Dateiformat - Weitere Informationen
 

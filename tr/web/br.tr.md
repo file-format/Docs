@@ -18,7 +18,7 @@
 
 ## .br dosyası nedir?
 
-BR dosyası, açık kaynaklı veri sıkıştırma algoritması **Brotli** uygulanarak oluşturulan sıkıştırılmış bir web dosyasıdır. Stil sayfaları ([CSS](/tr/web/css/)), resimler ([SVG](/tr/image/svg/)), [XML](/tr/web/xml/) ve komut dosyası oluşturma gibi web sayfası varlıklarını depolamak için kullanılır. dosyalar ([JS](/tr/web/js/)). Chrome ve Firefox gibi modern web siteleri, sayfa yükleme süresini azaltmak için BR dosyalarını kullanır ve bu da daha iyi bir kullanıcı deneyimi sağlar.
+BR dosyası, açık kaynaklı veri sıkıştırma algoritması **Brotli** uygulanarak oluşturulan sıkıştırılmış bir web dosyasıdır. Stil sayfaları ([CSS](/tr/web/css/)), resimler ([SVG](/tr/page-description-language/svg/)), [XML](/tr/web/xml/) ve komut dosyası oluşturma gibi web sayfası varlıklarını depolamak için kullanılır. dosyalar ([JS](/tr/web/js/)). Chrome ve Firefox gibi modern web siteleri, sayfa yükleme süresini azaltmak için BR dosyalarını kullanır ve bu da daha iyi bir kullanıcı deneyimi sağlar.
 
 ## BR Dosya Biçimi
 

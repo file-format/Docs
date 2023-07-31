@@ -22,7 +22,7 @@ Eine FZP-Datei ist eine XML-Datei, die von [Fritzing](https://fritzing.org/) Ele
 
 ## FZP-Dateiformat - Weitere Informationen
 
-FZP-Dateien sind XML-Dateien, die Informationen zu den Eigenschaften, Anschlüssen und Bussen des Teils enthalten. Darüber hinaus enthalten FZP-Dateien auch Informationen über Titel, Beschreibung, Autor und Veröffentlichungsdatum der FZP-Datei. Wenn eine Fritzing-Teildatei exportiert wird, erstellt die Fritzing-App ein komprimiertes [FZPZ](/de/compression/fzpz/)-Archiv, das eine FZP-Datei und vier [SVG](/de/image/svg/)-Dateien enthält.
+FZP-Dateien sind XML-Dateien, die Informationen zu den Eigenschaften, Anschlüssen und Bussen des Teils enthalten. Darüber hinaus enthalten FZP-Dateien auch Informationen über Titel, Beschreibung, Autor und Veröffentlichungsdatum der FZP-Datei. Wenn eine Fritzing-Teildatei exportiert wird, erstellt die Fritzing-App ein komprimiertes [FZPZ](/de/compression/fzpz/)-Archiv, das eine FZP-Datei und vier [SVG](/de/page-description-language/svg/)-Dateien enthält.
 
 Die [Spezifikationen des FZP-Dateiformats](https://github.com/fritzing/fzp/blob/master/docs/README.md) sind auf Github von Fritzing verfügbar.
 

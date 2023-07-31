@@ -18,7 +18,7 @@
 
 ## Co je soubor FZPZ?
 
-Soubor FZPZ je součást/část používaná v návrhu elektronických obvodů vytvořená pomocí aplikace prototypování a návrhu obvodů **Fritzing**. Jedná se o komprimovaný archiv, který obsahuje soubor [FZP](/cs/cad/fzp/) a čtyři obrázky [SVG](/cs/image/svg/) popisující celkovou část Fritzingu. Výhodou použití těchto souborů je, že uživatelé mohou s každým sdílet své soubory FZPZ z hlediska opětovné použitelnosti. Sdílení dílů FZPZ pomáhá při integraci částí obvodů pro rychlé vytváření větších návrhů PCB.
+Soubor FZPZ je součást/část používaná v návrhu elektronických obvodů vytvořená pomocí aplikace prototypování a návrhu obvodů **Fritzing**. Jedná se o komprimovaný archiv, který obsahuje soubor [FZP](/cs/cad/fzp/) a čtyři obrázky [SVG](/cs/page-description-language/svg/) popisující celkovou část Fritzingu. Výhodou použití těchto souborů je, že uživatelé mohou s každým sdílet své soubory FZPZ z hlediska opětovné použitelnosti. Sdílení dílů FZPZ pomáhá při integraci částí obvodů pro rychlé vytváření větších návrhů PCB.
 
 ## Formát souboru FZPZ - Další informace
 

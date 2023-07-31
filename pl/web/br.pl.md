@@ -18,7 +18,7 @@
 
 ## Czym jest plik BR?
 
-Plik BR to skompresowany plik internetowy wygenerowany przez zastosowanie algorytmu kompresji danych typu open source **Brotli**. Służy do przechowywania zasobów strony internetowej, takich jak arkusze stylów ([CSS](/pl/web/css/)), obrazy ([SVG](/pl/image/svg/)), [XML](/pl/web/xml/) i skrypty pliki ([JS](/pl/web/js/)). Współczesne strony internetowe, takie jak Chrome i Firefox, używają plików BR, aby skrócić czas ładowania strony, co skutkuje lepszym doświadczeniem użytkownika.
+Plik BR to skompresowany plik internetowy wygenerowany przez zastosowanie algorytmu kompresji danych typu open source **Brotli**. Służy do przechowywania zasobów strony internetowej, takich jak arkusze stylów ([CSS](/pl/web/css/)), obrazy ([SVG](/pl/page-description-language/svg/)), [XML](/pl/web/xml/) i skrypty pliki ([JS](/pl/web/js/)). Współczesne strony internetowe, takie jak Chrome i Firefox, używają plików BR, aby skrócić czas ładowania strony, co skutkuje lepszym doświadczeniem użytkownika.
 
 ## Format pliku BR
 

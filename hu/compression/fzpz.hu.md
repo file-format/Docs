@@ -18,7 +18,7 @@
 
 ## Mi az FZPZ fájl?
 
-Az FZPZ fájl a **Fritzing** áramköri prototípus- és tervezőalkalmazással létrehozott elektronikus áramkör-tervezésben használt alkatrész/alkatrész. Ez egy tömörített archívum, amely egy [FZP](/hu/cad/fzp/) fájlt és négy [SVG](/hu/image/svg/) képet tartalmaz, amelyek leírják a Fritzing teljes részét. E fájlok használatának előnye, hogy a felhasználók megoszthatják FZPZ fájljaikat mindegyikkel az újrafelhasználhatóság szempontjából. Az FZPZ-alkatrészek megosztása segít az áramköri alkatrészek integrálásában a nagyobb PCB-tervek gyors létrehozásához.
+Az FZPZ fájl a **Fritzing** áramköri prototípus- és tervezőalkalmazással létrehozott elektronikus áramkör-tervezésben használt alkatrész/alkatrész. Ez egy tömörített archívum, amely egy [FZP](/hu/cad/fzp/) fájlt és négy [SVG](/hu/page-description-language/svg/) képet tartalmaz, amelyek leírják a Fritzing teljes részét. E fájlok használatának előnye, hogy a felhasználók megoszthatják FZPZ fájljaikat mindegyikkel az újrafelhasználhatóság szempontjából. Az FZPZ-alkatrészek megosztása segít az áramköri alkatrészek integrálásában a nagyobb PCB-tervek gyors létrehozásához.
 
 ## FZPZ fájlformátum - További információ
 

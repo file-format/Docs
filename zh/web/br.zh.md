@@ -18,7 +18,7 @@
 
 ## 什么是一 .br 文件？
 
-BR 文件是通过应用开源数据压缩算法 **Brotli** 生成的压缩 Web 文件。它用于存储网页资产，例如样式表 ([CSS](/zh/web/css/))、图像 ([SVG](/zh/image/svg/))、[XML](/zh/web/xml/) 和脚本文件（[JS]（/web/js/））。现代网站，如 Chrome 和 Firefox，使用 BR 文件来减少页面加载时间，从而带来更好的用户体验。
+BR 文件是通过应用开源数据压缩算法 **Brotli** 生成的压缩 Web 文件。它用于存储网页资产，例如样式表 ([CSS](/zh/web/css/))、图像 ([SVG](/zh/page-description-language/svg/))、[XML](/zh/web/xml/) 和脚本文件（[JS]（/web/js/））。现代网站，如 Chrome 和 Firefox，使用 BR 文件来减少页面加载时间，从而带来更好的用户体验。
 
 ## BR 文件格式
 

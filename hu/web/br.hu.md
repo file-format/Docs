@@ -18,7 +18,7 @@
 
 ## Mi az a BR fájl?
 
-A BR-fájl egy tömörített webfájl, amelyet a nyílt forráskódú adattömörítési algoritmus, a **Brotli** alkalmazásával hoznak létre. A weboldal elemeinek, például stíluslapok ([CSS](/hu/web/css/)), képek ([SVG](/hu/image/svg/)), [XML](/hu/web/xml/) és szkriptek tárolására szolgál. fájlokat ([JS](/hu/web/js/)). A modern webhelyek, például a Chrome és a Firefox, BR-fájlokat használnak az oldalbetöltési idő csökkentésére, ami jobb felhasználói élményt eredményez.
+A BR-fájl egy tömörített webfájl, amelyet a nyílt forráskódú adattömörítési algoritmus, a **Brotli** alkalmazásával hoznak létre. A weboldal elemeinek, például stíluslapok ([CSS](/hu/web/css/)), képek ([SVG](/hu/page-description-language/svg/)), [XML](/hu/web/xml/) és szkriptek tárolására szolgál. fájlokat ([JS](/hu/web/js/)). A modern webhelyek, például a Chrome és a Firefox, BR-fájlokat használnak az oldalbetöltési idő csökkentésére, ami jobb felhasználói élményt eredményez.
 
 ## BR fájlformátum
 

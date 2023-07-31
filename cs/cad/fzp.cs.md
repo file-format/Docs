@@ -22,7 +22,7 @@ Soubor FZP je soubor XML vytvořený aplikací [Fritzing](https://fritzing.org/)
 
 ## Formát souboru FZP – Další informace
 
-Soubory FZP jsou soubory XML, které obsahují informace o vlastnostech součásti, konektorech a sběrnicích. Kromě nich obsahují soubory FZP také informace o názvu, popisu, autorovi a datu zveřejnění souboru FZP. Při exportu souboru součásti Fritzing vytvoří aplikace Fritzing komprimovaný archiv [FZPZ](/cs/compression/fzpz/), který obsahuje soubor FZP a čtyři soubory [SVG](/cs/image/svg/).
+Soubory FZP jsou soubory XML, které obsahují informace o vlastnostech součásti, konektorech a sběrnicích. Kromě nich obsahují soubory FZP také informace o názvu, popisu, autorovi a datu zveřejnění souboru FZP. Při exportu souboru součásti Fritzing vytvoří aplikace Fritzing komprimovaný archiv [FZPZ](/cs/compression/fzpz/), který obsahuje soubor FZP a čtyři soubory [SVG](/cs/page-description-language/svg/).
 
 [Specifikace formátu souboru FZP](https://github.com/fritzing/fzp/blob/master/docs/README.md) jsou k dispozici na Github od Fritzing.
 

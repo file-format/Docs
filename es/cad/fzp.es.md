@@ -22,7 +22,7 @@ Un archivo FZP es un archivo XML creado por [Fritzing](https://fritzing.org/) ap
 
 ## Formato de archivo FZP - Más información
 
-Los archivos FZP son archivos XML que contienen información sobre las propiedades, los conectores y los buses de la pieza. Además de estos, los archivos FZP también contienen información sobre el título, la descripción, el autor y la fecha de publicación del archivo FZP. Cuando se exporta un archivo de pieza de Fritzing, la aplicación Fritzing crea un archivo comprimido [FZPZ](/es/compression/fzpz/) que contiene un archivo FZP y cuatro archivos [SVG](/es/image/svg/).
+Los archivos FZP son archivos XML que contienen información sobre las propiedades, los conectores y los buses de la pieza. Además de estos, los archivos FZP también contienen información sobre el título, la descripción, el autor y la fecha de publicación del archivo FZP. Cuando se exporta un archivo de pieza de Fritzing, la aplicación Fritzing crea un archivo comprimido [FZPZ](/es/compression/fzpz/) que contiene un archivo FZP y cuatro archivos [SVG](/es/page-description-language/svg/).
 
 Las [especificaciones de formato de archivo FZP](https://github.com/fritzing/fzp/blob/master/docs/README.md) están disponibles en Github by Fritzing.
 

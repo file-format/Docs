@@ -18,7 +18,7 @@
 
 ## ¿Qué es un archivo FZPZ?
 
-Un archivo FZPZ es un componente o pieza que se utiliza en el diseño de un circuito electrónico creado con la aplicación de diseño y creación de prototipos de circuitos **Fritzing**. Es un archivo comprimido que contiene un archivo [FZP](/es/cad/fzp/) y cuatro imágenes [SVG](/es/image/svg/) que describen la parte general de Fritzing. La ventaja de usar estos archivos es que los usuarios pueden compartir sus archivos FZPZ con cada uno desde el punto de vista de la reutilización. Compartir partes de FZPZ ayuda a integrar partes de circuitos para crear diseños de PCB más grandes de manera rápida.
+Un archivo FZPZ es un componente o pieza que se utiliza en el diseño de un circuito electrónico creado con la aplicación de diseño y creación de prototipos de circuitos **Fritzing**. Es un archivo comprimido que contiene un archivo [FZP](/es/cad/fzp/) y cuatro imágenes [SVG](/es/page-description-language/svg/) que describen la parte general de Fritzing. La ventaja de usar estos archivos es que los usuarios pueden compartir sus archivos FZPZ con cada uno desde el punto de vista de la reutilización. Compartir partes de FZPZ ayuda a integrar partes de circuitos para crear diseños de PCB más grandes de manera rápida.
 
 ## Formato de archivo FZPZ - Más información
 

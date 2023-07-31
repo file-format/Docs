@@ -22,7 +22,7 @@ Plik FZP to plik XML utworzony przez [Fritzing](https://fritzing.org/) aplikacj�
 
 ## Format pliku FZP — więcej informacji
 
-Pliki FZP to pliki XML, które zawierają informacje o właściwościach części, złączach i magistralach. Oprócz tego pliki FZP zawierają również informacje o tytule, opisie, autorze i dacie publikacji pliku FZP. Podczas eksportowania pliku części Fritzing aplikacja Fritzing tworzy skompresowane archiwum [FZPZ](/pl/compression/fzpz/), które zawiera plik FZP i cztery pliki [SVG](/pl/image/svg/).
+Pliki FZP to pliki XML, które zawierają informacje o właściwościach części, złączach i magistralach. Oprócz tego pliki FZP zawierają również informacje o tytule, opisie, autorze i dacie publikacji pliku FZP. Podczas eksportowania pliku części Fritzing aplikacja Fritzing tworzy skompresowane archiwum [FZPZ](/pl/compression/fzpz/), które zawiera plik FZP i cztery pliki [SVG](/pl/page-description-language/svg/).
 
 [Specyfikacje formatu plików FZP](https://github.com/fritzing/fzp/blob/master/docs/README.md) są dostępne na Github przez Fritzing.
 

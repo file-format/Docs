@@ -18,7 +18,7 @@
 
 ## Was ist eine BR-Datei?
 
-Eine BR-Datei ist eine komprimierte Webdatei, die durch Anwendung des Open-Source-Datenkomprimierungsalgorithmus **Brotli** generiert wird. Es wird verwendet, um Webseiten-Assets wie Stylesheets ([CSS](/de/web/css/)), Bilder ([SVG](/de/image/svg/)), [XML](/de/web/xml/) und Skripte zu speichern Dateien ([JS](/de/web/js/)). Moderne Websites wie Chrome und Firefox verwenden BR-Dateien, um die Seitenladezeit zu verkürzen, was zu einer besseren Benutzererfahrung führt.
+Eine BR-Datei ist eine komprimierte Webdatei, die durch Anwendung des Open-Source-Datenkomprimierungsalgorithmus **Brotli** generiert wird. Es wird verwendet, um Webseiten-Assets wie Stylesheets ([CSS](/de/web/css/)), Bilder ([SVG](/de/page-description-language/svg/)), [XML](/de/web/xml/) und Skripte zu speichern Dateien ([JS](/de/web/js/)). Moderne Websites wie Chrome und Firefox verwenden BR-Dateien, um die Seitenladezeit zu verkürzen, was zu einer besseren Benutzererfahrung führt.
 
 ## BR-Dateiformat
 

@@ -22,7 +22,7 @@ FZP 파일은 [Fritzing](https://fritzing.org/) 전자 회로 프로토타이핑
 
 ## FZP 파일 형식 - 추가 정보
 
-FZP 파일은 부품의 속성, 커넥터 및 버스에 대한 정보가 포함된 XML 파일입니다. 이 외에도 FZP 파일에는 FZP 파일의 제목, 설명, 작성자 및 게시 날짜에 대한 정보도 포함되어 있습니다. Fritzing 부품 파일을 내보낼 때 Fritzing 앱은 FZP 파일과 4개의 [SVG](/ko/image/svg/) 파일을 포함하는 [FZPZ](/ko/compression/fzpz/) 압축 아카이브를 생성합니다.
+FZP 파일은 부품의 속성, 커넥터 및 버스에 대한 정보가 포함된 XML 파일입니다. 이 외에도 FZP 파일에는 FZP 파일의 제목, 설명, 작성자 및 게시 날짜에 대한 정보도 포함되어 있습니다. Fritzing 부품 파일을 내보낼 때 Fritzing 앱은 FZP 파일과 4개의 [SVG](/ko/page-description-language/svg/) 파일을 포함하는 [FZPZ](/ko/compression/fzpz/) 압축 아카이브를 생성합니다.
 
 [FZP 파일 형식 사양](https://github.com/fritzing/fzp/blob/master/docs/README.md)은 Fritzing의 Github에서 확인할 수 있습니다.
 

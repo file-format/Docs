@@ -22,7 +22,7 @@
 
 ## פורמט קובץ FZP - מידע נוסף
 
-קבצי FZP הם קבצי XML המכילים מידע על מאפייני החלק, המחברים והאוטובוסים של החלק. בנוסף לאלה, קבצי FZP מכילים גם מידע על הכותרת, התיאור, המחבר ותאריך הפרסום של קובץ ה-FZP. כאשר מיוצא קובץ חלק של Fritzing, אפליקציית Fritzing יוצרת ארכיון דחוס [FZPZ](/he/compression/fzpz/) המכיל קובץ FZP וארבעה קבצי [SVG](/he/image/svg/).
+קבצי FZP הם קבצי XML המכילים מידע על מאפייני החלק, המחברים והאוטובוסים של החלק. בנוסף לאלה, קבצי FZP מכילים גם מידע על הכותרת, התיאור, המחבר ותאריך הפרסום של קובץ ה-FZP. כאשר מיוצא קובץ חלק של Fritzing, אפליקציית Fritzing יוצרת ארכיון דחוס [FZPZ](/he/compression/fzpz/) המכיל קובץ FZP וארבעה קבצי [SVG](/he/page-description-language/svg/).
 
 [מפרט פורמט קובץ FZP](https://github.com/fritzing/fzp/blob/master/docs/README.md) זמינים ב-Github מאת Fritzing.
 
