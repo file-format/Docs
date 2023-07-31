@@ -27,5 +27,5 @@ Die ASR-Datei enthält ein Skript, das in einer Standard-Skriptsprache entwickel
 ## Verweise
 
 * [Adobe Contribute – Von Wikipedia](https://en.wikipedia.org/wiki/Adobe_Contribute)
-* [Einfache ASP-Seiten erstellen](https://learn.microsoft.com/en-us/ previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Einfache ASP-Seiten erstellen](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 
