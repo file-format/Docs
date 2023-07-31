@@ -19,7 +19,7 @@
 
 ## XML 파일이란?
 
-XML은 **[HTML](/ko/web/html/)**과 비슷하지만 태그를 사용하여 객체를 정의한다는 점에서 다른 Extensible Markup Language의 약자입니다. XML 파일 형식 생성의 배경은 소프트웨어나 하드웨어 도구에 의존하지 않고 데이터를 저장하고 전송하는 것이었습니다. 그 인기는 사람과 기계가 읽을 수 있기 때문입니다. 이를 통해 WWW(월드 와이드 웹)와 같은 네트워크를 통해 저장 및 공유할 개체 형태의 공통 데이터 프로토콜을 만들 수 있습니다. XML의 "X"는 확장 가능하므로 사용자 요구 사항에 따라 언어를 원하는 수의 기호로 확장할 수 있습니다. Microsoft Open XML, LibreOffice OpenDocument, **[XHTML](/ko/web/xhtml/)** 및 **[SVG](/ko/page-description-language)와 같은 많은 표준 파일 형식에서 이러한 기능을 사용합니다. /svg/)**.
+XML은 **[HTML](/ko/web/html/)**과 비슷하지만 태그를 사용하여 객체를 정의한다는 점에서 다른 Extensible Markup Language의 약자입니다. XML 파일 형식 생성의 배경은 소프트웨어나 하드웨어 도구에 의존하지 않고 데이터를 저장하고 전송하는 것이었습니다. 그 인기는 사람과 기계가 읽을 수 있기 때문입니다. 이를 통해 WWW(월드 와이드 웹)와 같은 네트워크를 통해 저장 및 공유할 개체 형태의 공통 데이터 프로토콜을 만들 수 있습니다. XML의 "X"는 확장 가능하므로 사용자 요구 사항에 따라 언어를 원하는 수의 기호로 확장할 수 있습니다. Microsoft Open XML, LibreOffice OpenDocument, **[XHTML](/ko/web/xhtml/)** 및 **[SVG](/ko/page-description-language/svg/)** 와 같은 많은 표준 파일 형식에서 이러한 기능을 사용합니다. 
 
 ## XML 파일 형식
 
