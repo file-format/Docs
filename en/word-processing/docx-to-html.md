@@ -20,6 +20,23 @@
 
 DOCX to HTML is one of the widely used operation on Word documents to publish pages as HTML webpages. These webpages can be readily used to be hosted online on a web server to be accessible via World Wide Web (WWW). You can convert [DOCX](/word-processing/docx/) to [HTML](/web/html/) from within Microsoft Word software using the "Save As" option. But if you don't have Word installed on your PC, there are online tools available that can convert your DOCX files to HTML for FREE.
 
+## DOCX to HTML Conversion - Free Demo
+
+You can use Aspose.Words conversion app for FREE to convert DOCX to HTML. Click the following button to convert your DOCX files to HTML now.
+
+[![DOCX to HTML](../docx-to-html.png?width=120px&height=60px)](https://products.aspose.app/words/conversion/docx-to-html)
+
+### Steps to Convert DOCX to HTML
+
+Here are the steps you need to follow to convert your DOCX files to HTML.
+
+1. Go to [Aspose.Words conversion app](https://products.aspose.app/words/conversion/docx-to-html)
+1. Upload your DOCX file to the browser
+1. Select HTML as output image file format
+1. Press the Convert button
+
+This will start the process of conversion of your DOCX file to HTML and a download option will appear for saving the file to your PC.
+
 ## Aspose.Words APIs
 
 Aspose.Words APIs offer a variety of features that can be used by developers to create apps for working with DOCX files. It supports multiple programming languages such as:
@@ -30,17 +47,6 @@ Aspose.Words APIs offer a variety of features that can be used by developers to 
  * C++
 
 This variety of support for different programming languages gives you the opportunity to convert DOCX to HTML in any of these languages.
-
-## DOCX to HTML Conversion - Free Demo
-
-You can use Aspose.Words conversion app for FREE to [convert DOCX to HTML](https://products.aspose.app/words/conversion/docx-to-html). Here are the steps you need to follow to convert your DOCX files to HTML.
-
-1. Go to [Aspose.Words conversion app](https://products.aspose.app/words/conversion/docx-to-html)
-1. Upload your DOCX file to the browser
-1. Select HTML as output image file format
-1. Press the Convert button
-
-This will start the process of conversion of your DOCX file to HTML and a download option will appear for saving the file to your PC.
 
 ## Convert DOCX to HTML in .NET, Java, C++ and Python
 

@@ -22,7 +22,12 @@ Webpages can be saved in a number of different formats. MHTML is one of them whe
 
 ## DOCX to MHTML Conversion - FREE DEMO
 
-You can use Aspose.Words conversion app for FREE to [convert DOCX to MHTML](https://products.aspose.app/words/conversion/docx-to-mhtml). Here are the steps you need to follow to convert your DOCX files to MHTML.
+You can use Aspose.Words conversion app for FREE to convert DOCX to MHTML by clicking the following button. 
+
+[![DOCX to MHTML](../docx-to-mhtml.png?width=120px&height=60px)](https://products.aspose.app/words/conversion/docx-to-mhtml)
+
+### Steps to Convert DOCX to MHTML
+Here are the steps you need to follow to convert your DOCX files to MHTML.
 
 1. Go to [Aspose.Words conversion app](https://products.aspose.app/words/conversion/docx-to-mhtml)
 1. Upload your DOCX file to the browser

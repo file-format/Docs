@@ -20,6 +20,8 @@
 
 One of the widely used application of DOCX file format is conversion to PDF file format. Depending on your choice of programming language, there are several APIs available online that can convert DOCX files to PDF.
 
+[![DOCX to PDF](../docx-to-pdf.png?width=120px&height=60px)](https://products.aspose.app/words/conversion/docx-to-pdf)
+
 ## DOCX vs PDF
 
 DOCX and PDF are popular document file formats for writing content and sharing. We provide a comparison of both these file formats by comparing their features as below.
