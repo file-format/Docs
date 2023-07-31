@@ -34,7 +34,7 @@ Crystal Reports permite dezvoltatorilor de rapoarte să livreze rapoarte în lim
 Proiectați rapoarte sub formă de declarații, facturi, rapoarte de vânzări și operațiuni, scrisori, documente de expediere, materiale de marketing, documente de conformitate, indicatori de performanță și multe altele.
 
 ### Compatibilitate
-Rezultatele pot fi exportate în formate precum [XLS](/ro/spreadsheet/xlsx/), [CSV](/ro/spreadsheet/csv/), [PDF](/ro/pdf/), [DOCX](/ro/word-processing/docx /), text sau imprimare cu o precizie perfectă de pixeli a designului.
+Rezultatele pot fi exportate în formate precum [XLS](/ro/spreadsheet/xlsx/), [CSV](/ro/spreadsheet/csv/), [PDF](/ro/pdf/), [DOCX](/ro/word-processing/docx/), text sau imprimare cu o precizie perfectă de pixeli a designului.
 
 
 

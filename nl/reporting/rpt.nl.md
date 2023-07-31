@@ -34,7 +34,7 @@ Met Crystal Reports kunnen rapportontwikkelaars rapporten leveren in de moederta
 Ontwerp rapporten als verklaringen, facturen, verkoop- en bedrijfsrapporten, brieven, verzenddocumenten, marketingmateriaal, nalevingsdocumenten, prestatie-indicatoren en nog veel meer.
 
 ### Compatibiliteit
-De uitvoer kan worden geëxporteerd naar formaten zoals [XLS](/nl/spreadsheet/xlsx/), [CSV](/nl/spreadsheet/csv/), [PDF](/nl/pdf/), [DOCX](/nl/word-processing/docx /), tekst of print met pixel-perfecte precisie van ontwerp.
+De uitvoer kan worden geëxporteerd naar formaten zoals [XLS](/nl/spreadsheet/xlsx/), [CSV](/nl/spreadsheet/csv/), [PDF](/nl/pdf/), [DOCX](/nl/word-processing/docx/), tekst of print met pixel-perfecte precisie van ontwerp.
 
 
 

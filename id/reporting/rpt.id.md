@@ -34,7 +34,7 @@ Crystal Reports memungkinkan pengembang laporan untuk mengirimkan laporan dalam 
 Mendesain laporan sebagai pernyataan, faktur, laporan penjualan dan operasi, surat, dokumen pengiriman, materi pemasaran, dokumen kepatuhan, indikator kinerja, dan banyak lagi.
 
 ### Kompatibilitas
-Output dapat Diekspor ke format seperti [XLS](/id/spreadsheet/xlsx/), [CSV](/id/spreadsheet/csv/), [PDF](/id/pdf/), [DOCX](/id/word-processing/docx /), teks, atau cetak dengan presisi desain piksel sempurna.
+Output dapat Diekspor ke format seperti [XLS](/id/spreadsheet/xlsx/), [CSV](/id/spreadsheet/csv/), [PDF](/id/pdf/), [DOCX](/id/word-processing/docx/), teks, atau cetak dengan presisi desain piksel sempurna.
 
 
 

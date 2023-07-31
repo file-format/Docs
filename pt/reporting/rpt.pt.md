@@ -34,7 +34,7 @@ O Crystal Reports permite que os desenvolvedores de relatórios entreguem relat�
 Crie relatórios como extratos, faturas, relatórios de vendas e operações, cartas, documentos de remessa, materiais de marketing, documentos de conformidade, indicadores de desempenho e muito mais.
 
 ### Compatibilidade
-A saída pode ser exportada para formatos como [XLS](/pt/spreadsheet/xlsx/), [CSV](/pt/spreadsheet/csv/), [PDF](/pt/pdf/), [DOCX](/pt/word-processing/docx /), texto ou impressão com precisão de design de pixel perfeito.
+A saída pode ser exportada para formatos como [XLS](/pt/spreadsheet/xlsx/), [CSV](/pt/spreadsheet/csv/), [PDF](/pt/pdf/), [DOCX](/pt/word-processing/docx/), texto ou impressão com precisão de design de pixel perfeito.
 
 
 

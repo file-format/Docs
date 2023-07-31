@@ -34,7 +34,7 @@ Crystal Reports를 사용하면 보고서 개발자가 비즈니스 사용자의
 보고서를 명세서, 송장, 판매 및 운영 보고서, 서신, 배송 문서, 마케팅 자료, 규정 준수 문서, 성과 지표 등으로 디자인합니다.
 
 ### 호환성
-출력은 [XLS](/ko/spreadsheet/xlsx/), [CSV](/ko/spreadsheet/csv/), [PDF](/ko/pdf/), [DOCX](/ko/word-processing/docx)와 같은 형식으로 내보낼 수 있습니다. /), 텍스트 또는 인쇄를 픽셀 단위로 완벽하게 정밀하게 디자인합니다.
+출력은 [XLS](/ko/spreadsheet/xlsx/), [CSV](/ko/spreadsheet/csv/), [PDF](/ko/pdf/), [DOCX](/ko/word-processing/docx/)와 같은 형식으로 내보낼 수 있습니다., 텍스트 또는 인쇄를 픽셀 단위로 완벽하게 정밀하게 디자인합니다.
 
 
 
