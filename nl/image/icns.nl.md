@@ -19,7 +19,7 @@
 
 ## Wat is een ICNS-bestand? ##
 
-Een pictogramformaat dat door macOS-programma's wordt gebruikt, wordt een ICNS-bestand genoemd. Het staat 1-bits en 8-bits alfabanden toe en slaat een of meer afbeeldingen op, meestal gemaakt van [PNG](/nl/image/png)-documenten. Het programmapictogram in de macOS-browser en -interface wordt weergegeven met behulp van ICNS-bestanden.
+Een pictogramformaat dat door macOS-programma's wordt gebruikt, wordt een ICNS-bestand genoemd. Het staat 1-bits en 8-bits alfabanden toe en slaat een of meer afbeeldingen op, meestal gemaakt van [PNG](/nl/image/png/)-documenten. Het programmapictogram in de macOS-browser en -interface wordt weergegeven met behulp van ICNS-bestanden.
 
 Op basis van de locatie kan hetzelfde stijlicoon meerdere instellingen hebben. Het ICNS-formaat heeft talloze wijzigingen ondergaan en is zo geëvolueerd dat het nu kan worden gebruikt als basis voor verschillende compatibele formaten. Hier zijn enkele andere belangrijke punten die u moet weten:
 
@@ -31,7 +31,7 @@ Op basis van de locatie kan hetzelfde stijlicoon meerdere instellingen hebben. H
 ## ICNS-bestandsindeling ##
 
 Het ICNS-gegevensformaat is een capsule voor een of meer afbeeldingen, die 1-bit-banden en talrijke afbeeldingsstatussen ondersteunt.
-Het besturingssysteem kan de grootte van pictogramafbeeldingen aanpassen aan de vereiste weergavegrootte. De grotere pictogramafbeeldingen worden meestal opgeslagen als [JPEG](/nl/image/jpeg/) 2000- of [PNG](/nl/image/png)-bestanden. Een type van zowel gecomprimeerde als niet-gecomprimeerde ICNS-bestanden is mogelijk.
+Het besturingssysteem kan de grootte van pictogramafbeeldingen aanpassen aan de vereiste weergavegrootte. De grotere pictogramafbeeldingen worden meestal opgeslagen als [JPEG](/nl/image/jpeg/) 2000- of [PNG](/nl/image/png/)-bestanden. Een type van zowel gecomprimeerde als niet-gecomprimeerde ICNS-bestanden is mogelijk.
 
 Een header en binaire pictogramgegevens vormen de structuur van een ICNS-bestand. De header bevat 8 bytes aan gegevens, waarvan vier de magische letterlijke waarde en vier de lengte van het bestand. Het type en de grootte van elke pictogramafbeelding worden opgeslagen in de pictogramgegevenssectie, gevolgd door de binaire afbeeldingsgegevens. De afbeeldingsgrootte bepaalt de grootte van de binaire sectie.
 

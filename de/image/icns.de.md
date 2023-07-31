@@ -19,7 +19,7 @@
 
 ## Was ist eine ICNS-Datei? ##
 
-Ein von macOS-Programmen verwendetes Symbolformat wird als ICNS-Datei bezeichnet. Es erlaubt 1-Bit- und 8-Bit-Alphabänder und speichert ein oder mehrere Bilder, normalerweise aus [PNG](/de/image/png)-Dokumenten. Das Programmsymbol im macOS-Browser und der Benutzeroberfläche wird mithilfe von ICNS-Dateien angezeigt.
+Ein von macOS-Programmen verwendetes Symbolformat wird als ICNS-Datei bezeichnet. Es erlaubt 1-Bit- und 8-Bit-Alphabänder und speichert ein oder mehrere Bilder, normalerweise aus [PNG](/de/image/png/)-Dokumenten. Das Programmsymbol im macOS-Browser und der Benutzeroberfläche wird mithilfe von ICNS-Dateien angezeigt.
 
 Je nach Standort kann dasselbe Stilsymbol mehrere Einstellungen haben. Das ICNS-Format wurde zahlreichen Änderungen unterzogen und hat sich bis zu dem Punkt entwickelt, an dem es nun als Grundlage für verschiedene kompatible Formate verwendet werden kann. Hier sind einige andere wichtige Punkte, die Sie wissen müssen:
 
@@ -31,7 +31,7 @@ Je nach Standort kann dasselbe Stilsymbol mehrere Einstellungen haben. Das ICNS-
 ## ICNS-Dateiformat ##
 
 Das ICNS-Datenformat ist eine Kapsel für ein oder mehrere Bilder, die 1-Bit-Bänder und zahlreiche Bildzustände unterstützt.
-Das Betriebssystem kann Symbolbilder an die erforderliche Anzeigegröße anpassen. Die größeren Symbolbilder werden normalerweise als [JPEG](/de/image/jpeg/) 2000- oder [PNG](/de/image/png)-Dateien gespeichert. Eine Art sowohl komprimierter als auch unkomprimierter ICNS-Dateien ist möglich.
+Das Betriebssystem kann Symbolbilder an die erforderliche Anzeigegröße anpassen. Die größeren Symbolbilder werden normalerweise als [JPEG](/de/image/jpeg/) 2000- oder [PNG](/de/image/png/)-Dateien gespeichert. Eine Art sowohl komprimierter als auch unkomprimierter ICNS-Dateien ist möglich.
 
 Ein Header und binäre Symboldaten bilden die Struktur einer ICNS-Datei. Der Header enthält 8 Datenbytes, von denen vier das magische Literal und vier die Länge der Datei sind. Typ und Größe jedes Symbolbildes werden im Symboldatenabschnitt gespeichert, dem die binären Bilddaten folgen. Die Bildgröße bestimmt die Größe des Binärabschnitts.
 

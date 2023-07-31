@@ -19,7 +19,7 @@
 
 ## Ce este un fișier ICNS? ##
 
-Un format de pictogramă utilizat de programele macOS se numește fișier ICNS. Permite benzi alfa de 1 și 8 biți și salvează una sau mai multe imagini, de obicei realizate din documente [PNG](/ro/image/png). Pictograma programului din browserul și interfața macOS este afișată folosind fișiere ICNS.
+Un format de pictogramă utilizat de programele macOS se numește fișier ICNS. Permite benzi alfa de 1 și 8 biți și salvează una sau mai multe imagini, de obicei realizate din documente [PNG](/ro/image/png/). Pictograma programului din browserul și interfața macOS este afișată folosind fișiere ICNS.
 
 În funcție de locație, aceeași pictogramă de stil poate avea mai multe setări. Formatul ICNS a suferit numeroase modificări și a evoluat până la punctul în care poate fi folosit acum ca bază pentru diferite formate compatibile. Iată câteva alte puncte importante pe care trebuie să le știți:
 
@@ -31,7 +31,7 @@ Un format de pictogramă utilizat de programele macOS se numește fișier ICNS. 
 ## Format de fișier ICNS ##
 
 Formatul de date ICNS este o capsulă pentru una sau mai multe imagini, care acceptă benzi de 1 bit și numeroase stări de imagine.
-Sistemul de operare poate redimensiona imaginile pictogramelor pentru a se potrivi cu dimensiunea de afișare necesară. Imaginile cu pictograme mai mari sunt de obicei salvate ca fișiere [JPEG](/ro/image/jpeg/) 2000 sau [PNG](/ro/image/png). Este posibil un tip de fișiere ICNS comprimate și necomprimate.
+Sistemul de operare poate redimensiona imaginile pictogramelor pentru a se potrivi cu dimensiunea de afișare necesară. Imaginile cu pictograme mai mari sunt de obicei salvate ca fișiere [JPEG](/ro/image/jpeg/) 2000 sau [PNG](/ro/image/png/). Este posibil un tip de fișiere ICNS comprimate și necomprimate.
 
 Un antet și datele de pictogramă binare formează structura unui fișier ICNS. Antetul conține 8 octeți de date, dintre care patru sunt literalul magic și patru sunt lungimea fișierului. Tipul și dimensiunea fiecărei imagini pictograme sunt stocate în secțiunea de date pictograme, care este urmată de datele binare ale imaginii. Dimensiunea imaginii determină dimensiunea secțiunii binare.
 

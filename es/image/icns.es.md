@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo ICNS? ##
 
-Un formato de icono utilizado por los programas macOS se denomina archivo ICNS. Permite bandas alfa de 1 y 8 bits y guarda una o más imágenes, generalmente hechas a partir de documentos [PNG](/es/image/png). El ícono del programa en el navegador y la interfaz de macOS se muestra usando archivos ICNS.
+Un formato de icono utilizado por los programas macOS se denomina archivo ICNS. Permite bandas alfa de 1 y 8 bits y guarda una o más imágenes, generalmente hechas a partir de documentos [PNG](/es/image/png/). El ícono del programa en el navegador y la interfaz de macOS se muestra usando archivos ICNS.
 
 Según la ubicación, el mismo icono de estilo puede tener varias configuraciones. El formato ICNS ha sufrido numerosas modificaciones y ha evolucionado hasta el punto en que ahora puede utilizarse como base para varios formatos compatibles. Aquí hay algunos otros puntos importantes que necesita saber:
 
@@ -31,7 +31,7 @@ Según la ubicación, el mismo icono de estilo puede tener varias configuracione
 ## Formato de archivo ICNS ##
 
 El formato de datos ICNS es una cápsula para una o más imágenes, que admite bandas de 1 bit y numerosos estados de imagen.
-El sistema operativo puede cambiar el tamaño de las imágenes de los iconos para que se ajusten al tamaño de visualización requerido. Las imágenes de iconos más grandes normalmente se guardan como archivos [JPEG](/es/image/jpeg/) 2000 o [PNG](/es/image/png). Es posible un tipo de archivos ICNS tanto comprimidos como sin comprimir.
+El sistema operativo puede cambiar el tamaño de las imágenes de los iconos para que se ajusten al tamaño de visualización requerido. Las imágenes de iconos más grandes normalmente se guardan como archivos [JPEG](/es/image/jpeg/) 2000 o [PNG](/es/image/png/). Es posible un tipo de archivos ICNS tanto comprimidos como sin comprimir.
 
 Un encabezado y datos de iconos binarios conforman la estructura de un archivo ICNS. El encabezado contiene 8 bytes de datos, cuatro de los cuales son el literal mágico y cuatro de los cuales son la longitud del archivo. El tipo y el tamaño de cada imagen de icono se almacenan en la sección de datos de iconos, a la que siguen los datos de imagen binarios. El tamaño de la imagen determina el tamaño de la sección binaria.
 

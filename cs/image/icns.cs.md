@@ -19,7 +19,7 @@
 
 ## Co je soubor ICNS? ##
 
-Formát ikon používaný programy macOS se nazývá soubor ICNS. Umožňuje 1bitová a 8bitová pásma alfa a ukládá jeden nebo více obrázků, obvykle vytvořených z dokumentů [PNG](/cs/image/png). Ikona programu v prohlížeči a rozhraní macOS se zobrazuje pomocí souborů ICNS.
+Formát ikon používaný programy macOS se nazývá soubor ICNS. Umožňuje 1bitová a 8bitová pásma alfa a ukládá jeden nebo více obrázků, obvykle vytvořených z dokumentů [PNG](/cs/image/png/). Ikona programu v prohlížeči a rozhraní macOS se zobrazuje pomocí souborů ICNS.
 
 V závislosti na umístění může mít ikona stejného stylu více nastavení. Formát ICNS prošel četnými změnami a vyvinul se do bodu, kdy jej lze nyní použít jako základ pro různé kompatibilní formáty. Zde je několik dalších důležitých bodů, které potřebujete vědět:
 
@@ -31,7 +31,7 @@ V závislosti na umístění může mít ikona stejného stylu více nastavení.
 ## Formát souboru ICNS ##
 
 Datový formát ICNS je kapsle pro jeden nebo více snímků, podporuje 1bitová pásma a četné stavy snímků.
-Operační systém může změnit velikost obrázků ikon tak, aby odpovídaly požadované velikosti zobrazení. Větší obrázky ikon se obvykle ukládají jako soubory [JPEG](/cs/image/jpeg/) 2000 nebo [PNG](/cs/image/png). Je možný typ komprimovaných i nekomprimovaných souborů ICNS.
+Operační systém může změnit velikost obrázků ikon tak, aby odpovídaly požadované velikosti zobrazení. Větší obrázky ikon se obvykle ukládají jako soubory [JPEG](/cs/image/jpeg/) 2000 nebo [PNG](/cs/image/png/). Je možný typ komprimovaných i nekomprimovaných souborů ICNS.
 
 Data záhlaví a binární ikony tvoří strukturu souboru ICNS. Hlavička obsahuje 8 bajtů dat, z nichž čtyři jsou magický literál a čtyři z nich jsou délky souboru. Typ a velikost každého obrázku ikony jsou uloženy v sekci dat ikony, po které následují data binárního obrázku. Velikost obrázku určuje velikost binárního úseku.
 

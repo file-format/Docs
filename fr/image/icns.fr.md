@@ -19,7 +19,7 @@
 
 ## Qu'est-ce qu'un fichier ICNS ? ##
 
-Un format d'icône utilisé par les programmes macOS est appelé fichier ICNS. Il autorise les bandes alpha 1 bit et 8 bits et enregistre une ou plusieurs images, généralement réalisées à partir de documents [PNG](/fr/image/png). L'icône du programme dans le navigateur et l'interface macOS s'affiche à l'aide de fichiers ICNS.
+Un format d'icône utilisé par les programmes macOS est appelé fichier ICNS. Il autorise les bandes alpha 1 bit et 8 bits et enregistre une ou plusieurs images, généralement réalisées à partir de documents [PNG](/fr/image/png/). L'icône du programme dans le navigateur et l'interface macOS s'affiche à l'aide de fichiers ICNS.
 
 En fonction de l'emplacement, la même icône de style peut avoir plusieurs paramètres. Le format ICNS a subi de nombreuses modifications et a évolué au point où il peut maintenant être utilisé comme base pour divers formats compatibles. Voici quelques autres points importants que vous devez savoir :
 
@@ -31,7 +31,7 @@ En fonction de l'emplacement, la même icône de style peut avoir plusieurs para
 ## Format de fichier ICNS ##
 
 Le format de données ICNS est une capsule pour une ou plusieurs images, prenant en charge des bandes de 1 bit et de nombreux états d'image.
-Le système d'exploitation peut redimensionner les images d'icônes pour s'adapter à la taille d'affichage requise. Les images d'icônes plus grandes sont généralement enregistrées en tant que fichiers [JPEG](/fr/image/jpeg/) 2000 ou [PNG](/fr/image/png). Un type de fichiers ICNS compressés et non compressés est possible.
+Le système d'exploitation peut redimensionner les images d'icônes pour s'adapter à la taille d'affichage requise. Les images d'icônes plus grandes sont généralement enregistrées en tant que fichiers [JPEG](/fr/image/jpeg/) 2000 ou [PNG](/fr/image/png/). Un type de fichiers ICNS compressés et non compressés est possible.
 
 Un en-tête et des données d'icône binaires constituent la structure d'un fichier ICNS. L'en-tête contient 8 octets de données, dont quatre sont le littéral magique et quatre sont la longueur du fichier. Le type et la taille de chaque image d'icône sont stockés dans la section de données d'icône, qui est suivie par les données d'image binaires. La taille de l'image détermine la taille de la section binaire.
 

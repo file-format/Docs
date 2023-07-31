@@ -19,7 +19,7 @@
 
 ## What is an ICNS file? ##
 
-An icon format used by macOS programs is called an ICNS file. It allows 1-bit and 8-bit alpha bands and saves one or more pictures, usually made from [PNG](/image/png) documents. The program icon in the macOS browser and interface is displayed using ICNS files.
+An icon format used by macOS programs is called an ICNS file. It allows 1-bit and 8-bit alpha bands and saves one or more pictures, usually made from [PNG](/image/png/) documents. The program icon in the macOS browser and interface is displayed using ICNS files.
 
 Based on the location, the same style icon can have multiple settings. The ICNS format has undergone numerous alterations and has evolved to the point where it may now be used as the foundation for various compatible formats. Here are some other important points you need to know:
 
@@ -31,7 +31,7 @@ Based on the location, the same style icon can have multiple settings. The ICNS 
 ## ICNS File Format ##
 
 The ICNS data format is a capsule for one or more images, supporting 1-bit bands and numerous image states. 
-The operating system can resize icon pictures to fit the required display size. The larger icon pictures are typically saved as [JPEG](/image/jpeg/) 2000 or [PNG](/image/png) files. A type of both compressed and uncompressed ICNS files is possible. 
+The operating system can resize icon pictures to fit the required display size. The larger icon pictures are typically saved as [JPEG](/image/jpeg/) 2000 or [PNG](/image/png/) files. A type of both compressed and uncompressed ICNS files is possible. 
 
 A header and binary icon data make up the structure of an ICNS file. The header contains 8 bytes of data, four of which are the magic literal and four of which are the file's length. The type and size of each icon picture are stored in the icon data section, which is followed by the binary image data. The picture size determines the binary section's size.
 

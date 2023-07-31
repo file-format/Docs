@@ -19,7 +19,7 @@
 
 ## Tệp ICNS là gì? ##
 
-Một định dạng biểu tượng được sử dụng bởi các chương trình macOS được gọi là tệp ICNS. Nó cho phép các dải alpha 1 bit và 8 bit và lưu một hoặc nhiều ảnh, thường được tạo từ tài liệu [PNG](/vi/image/png). Biểu tượng chương trình trong giao diện và trình duyệt macOS được hiển thị bằng các tệp ICNS.
+Một định dạng biểu tượng được sử dụng bởi các chương trình macOS được gọi là tệp ICNS. Nó cho phép các dải alpha 1 bit và 8 bit và lưu một hoặc nhiều ảnh, thường được tạo từ tài liệu [PNG](/vi/image/png/). Biểu tượng chương trình trong giao diện và trình duyệt macOS được hiển thị bằng các tệp ICNS.
 
 Dựa trên vị trí, cùng một biểu tượng kiểu có thể có nhiều cài đặt. Định dạng ICNS đã trải qua nhiều lần thay đổi và đã phát triển đến mức giờ đây nó có thể được sử dụng làm nền tảng cho các định dạng tương thích khác nhau. Dưới đây là một số điểm quan trọng khác mà bạn cần biết:
 
@@ -31,7 +31,7 @@ Dựa trên vị trí, cùng một biểu tượng kiểu có thể có nhiều 
 ## Định dạng tệp ICNS ##
 
 Định dạng dữ liệu ICNS là một viên nang cho một hoặc nhiều hình ảnh, hỗ trợ các dải 1 bit và nhiều trạng thái hình ảnh.
-Hệ điều hành có thể thay đổi kích thước hình ảnh biểu tượng để phù hợp với kích thước hiển thị được yêu cầu. Ảnh biểu tượng lớn hơn thường được lưu dưới dạng tệp [JPEG](/vi/image/jpeg/) 2000 hoặc [PNG](/vi/image/png). Có thể có một loại tệp ICNS nén và không nén.
+Hệ điều hành có thể thay đổi kích thước hình ảnh biểu tượng để phù hợp với kích thước hiển thị được yêu cầu. Ảnh biểu tượng lớn hơn thường được lưu dưới dạng tệp [JPEG](/vi/image/jpeg/) 2000 hoặc [PNG](/vi/image/png/). Có thể có một loại tệp ICNS nén và không nén.
 
 Dữ liệu tiêu đề và biểu tượng nhị phân tạo nên cấu trúc của tệp ICNS. Tiêu đề chứa 8 byte dữ liệu, bốn trong số đó là ký tự ma thuật và bốn trong số đó là độ dài của tệp. Loại và kích thước của mỗi ảnh biểu tượng được lưu trữ trong phần dữ liệu biểu tượng, theo sau là dữ liệu ảnh nhị phân. Kích thước ảnh xác định kích thước của phần nhị phân.
 

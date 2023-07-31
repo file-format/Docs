@@ -19,7 +19,7 @@
 
 ## Che cos'è un file ICNS? ##
 
-Un formato icona utilizzato dai programmi macOS è chiamato file ICNS. Consente bande alfa a 1 bit e 8 bit e salva una o più immagini, generalmente create da documenti [PNG](/it/image/png). L'icona del programma nel browser e nell'interfaccia di macOS viene visualizzata utilizzando i file ICNS.
+Un formato icona utilizzato dai programmi macOS è chiamato file ICNS. Consente bande alfa a 1 bit e 8 bit e salva una o più immagini, generalmente create da documenti [PNG](/it/image/png/). L'icona del programma nel browser e nell'interfaccia di macOS viene visualizzata utilizzando i file ICNS.
 
 In base alla posizione, la stessa icona di stile può avere più impostazioni. Il formato ICNS ha subito numerose modifiche e si è evoluto al punto che ora può essere utilizzato come base per vari formati compatibili. Ecco alcuni altri punti importanti che devi sapere:
 
@@ -31,7 +31,7 @@ In base alla posizione, la stessa icona di stile può avere più impostazioni. I
 ## Formato file ICNS ##
 
 Il formato dati ICNS è una capsula per una o più immagini, che supporta bande a 1 bit e numerosi stati dell'immagine.
-Il sistema operativo può ridimensionare le immagini delle icone per adattarle alle dimensioni di visualizzazione richieste. Le immagini delle icone più grandi vengono in genere salvate come file [JPEG](/it/image/jpeg/) 2000 o [PNG](/it/image/png). È possibile un tipo di file ICNS compresso e non compresso.
+Il sistema operativo può ridimensionare le immagini delle icone per adattarle alle dimensioni di visualizzazione richieste. Le immagini delle icone più grandi vengono in genere salvate come file [JPEG](/it/image/jpeg/) 2000 o [PNG](/it/image/png/). È possibile un tipo di file ICNS compresso e non compresso.
 
 Un'intestazione e un'icona binaria costituiscono la struttura di un file ICNS. L'intestazione contiene 8 byte di dati, quattro dei quali sono il valore letterale magico e quattro sono la lunghezza del file. Il tipo e la dimensione di ciascuna immagine dell'icona sono memorizzati nella sezione dei dati dell'icona, seguita dai dati dell'immagine binaria. La dimensione dell'immagine determina la dimensione della sezione binaria.
 
