@@ -94,5 +94,5 @@ Sarcinile trebuie să fie întotdeauna conținute în elementele [Target](https:
 
 ## Referințe
 
-* [Înțelegerea fișierului de proiect - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- fişier)
+* [Înțelegerea fișierului de proiect - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
 

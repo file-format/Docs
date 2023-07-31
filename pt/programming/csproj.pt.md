@@ -94,5 +94,5 @@ As tarefas sempre devem estar contidas nos elementos [Destino](https://msdn.micr
 
 ## Referências
 
-* [Compreendendo o arquivo de projeto - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- Arquivo)
+* [Compreendendo o arquivo de projeto - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
 

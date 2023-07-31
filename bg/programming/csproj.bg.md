@@ -94,5 +94,5 @@
 
 ## Препратки
 
-* [Разбиране на файла на проекта - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- файл)
+* [Разбиране на файла на проекта - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
 

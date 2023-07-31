@@ -94,5 +94,5 @@ MSBuild は、このプロパティ定義を処理するときに、最初に **
 
 ## 参考文献
 
-* [プロジェクト ファイルについて - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-ファイル）
+* [プロジェクト ファイルについて - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
 

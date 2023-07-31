@@ -94,5 +94,5 @@ Aufgaben müssen immer in [Target](https://msdn.microsoft.com/library/t50z2hka.a
 
 ## Verweise
 
-* [Die Projektdatei verstehen – MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- Datei)
+* [Die Projektdatei verstehen – MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
 

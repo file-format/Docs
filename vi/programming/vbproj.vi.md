@@ -42,6 +42,6 @@ Bảng sau đây mô tả ngắn gọn về các yếu tố này.
 
 ## Người giới thiệu
 
-* [Hiểu tệp dự án](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/under Hiểu-the-project-file)
+* [Hiểu tệp dự án](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
 * [Các thành phần lược đồ MSBuild](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
 

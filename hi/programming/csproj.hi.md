@@ -94,5 +94,5 @@ CSPROJ एक्सटेंशन वाली फाइलें एक C# प
 
 ## संदर्भ
 
-* [प्रोजेक्ट फ़ाइल को समझना - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- फ़ाइल)
+* [प्रोजेक्ट फ़ाइल को समझना - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
 

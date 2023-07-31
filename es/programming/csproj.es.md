@@ -94,5 +94,5 @@ Las tareas siempre deben estar contenidas dentro de los elementos [Target](https
 
 ## Referencias
 
-* [Comprender el archivo del proyecto - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- expediente)
+* [Comprender el archivo del proyecto - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
 

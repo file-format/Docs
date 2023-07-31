@@ -94,5 +94,5 @@
 
 ## использованная литература
 
-* [Понимание файла проекта — MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- файл)
+* [Понимание файла проекта — MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
 

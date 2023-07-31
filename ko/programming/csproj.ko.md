@@ -94,5 +94,5 @@ MSBuild는 이 속성 정의를 처리할 때 먼저 **$(OutputRoot)** 속성 �
 
 ## 참고문헌
 
-* [프로젝트 파일 이해 - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- 파일)
+* [프로젝트 파일 이해 - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
 

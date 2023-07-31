@@ -94,5 +94,5 @@
 
 ## อ้างอิง
 
-* [การทำความเข้าใจไฟล์โครงการ - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- ไฟล์)
+* [การทำความเข้าใจไฟล์โครงการ - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
 

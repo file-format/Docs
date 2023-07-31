@@ -94,5 +94,5 @@ Zadania muszą zawsze być zawarte w elementach [Target](https://msdn.microsoft.
 
 ## Bibliografia
 
-* [Zrozumienie pliku projektu — MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- plik)
+* [Zrozumienie pliku projektu — MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
 

@@ -94,5 +94,5 @@ Taken moeten altijd binnen [Target](https://msdn.microsoft.com/library/t50z2hka.
 
 ## Referenties
 
-* [Het projectbestand begrijpen - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- het dossier)
+* [Het projectbestand begrijpen - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
 
