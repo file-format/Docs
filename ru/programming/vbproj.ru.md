@@ -23,7 +23,7 @@
 
 ## Формат файла VBPROJ — дополнительная информация
 
-Файлы VBPROJ представляют собой текстовые файлы, записанные в формате файлов [XML](/ru/web/xml/) на основе [схемы MSBuild XML](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild- ссылка на схему-файл-проекта?view=vs-2019). Файл VBPROJ содержит информацию в виде тегов XML, определяющих информацию, относящуюся к этой конкретной группе настроек. Настоятельно рекомендуется открывать и редактировать эти файлы настроек в Microsoft Visual Studio IDE.
+Файлы VBPROJ представляют собой текстовые файлы, записанные в формате файлов [XML](/ru/web/xml/) на основе [схемы MSBuild XML](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019). Файл VBPROJ содержит информацию в виде тегов XML, определяющих информацию, относящуюся к этой конкретной группе настроек. Настоятельно рекомендуется открывать и редактировать эти файлы настроек в Microsoft Visual Studio IDE.
 
 ### Элементы VBPROJ
 

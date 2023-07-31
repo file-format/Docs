@@ -23,7 +23,7 @@
 
 ## פורמט קובץ VBPROJ - מידע נוסף
 
-קבצי VBPROJ הם קבצי טקסט שנכתבים בפורמט קובץ [XML](/he/web/xml/) המבוסס על [סכמת XML של MSBuild](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild- project-file-schema-reference?view=vs-2019). קובץ VBPROJ מכיל מידע בצורה של תגי XML המגדירים מידע הקשור לאותה קבוצת הגדרות מסוימת. מומלץ מאוד לפתוח ולערוך את קבצי ההגדרות הללו ב-Microsoft Visual Studio IDE.
+קבצי VBPROJ הם קבצי טקסט שנכתבים בפורמט קובץ [XML](/he/web/xml/) המבוסס על [סכמת XML של MSBuild](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019). קובץ VBPROJ מכיל מידע בצורה של תגי XML המגדירים מידע הקשור לאותה קבוצת הגדרות מסוימת. מומלץ מאוד לפתוח ולערוך את קבצי ההגדרות הללו ב-Microsoft Visual Studio IDE.
 
 ### אלמנטים של VBPROJ
 
