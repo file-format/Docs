@@ -27,7 +27,7 @@
 
 ## Приклад файлу XSD
 
-Простий файл XSD зі схемою замовлення на купівлю визначає елементи за допомогою тегів, як показано в наведеному нижче [прикладі XSD від Microsoft](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -simple-schema?view=vs-2022).
+Простий файл XSD зі схемою замовлення на купівлю визначає елементи за допомогою тегів, як показано в наведеному нижче [прикладі XSD від Microsoft](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022).
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"

@@ -27,7 +27,7 @@ Các tệp XSD được lưu vào đĩa ở định dạng tệp văn bản thu�
 
 ## Ví dụ về tệp XSD
 
-Một tệp XSD đơn giản có lược đồ đơn đặt hàng xác định các thành phần bằng cách sử dụng các thẻ như trong [ví dụ XSD của Microsoft] sau đây (https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -simple-schema?view=vs-2022).
+Một tệp XSD đơn giản có lược đồ đơn đặt hàng xác định các thành phần bằng cách sử dụng các thẻ như trong [ví dụ XSD của Microsoft](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022) sau đây.
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"

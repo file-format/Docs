@@ -27,7 +27,7 @@ Az XSD fájlok egyszerű szöveges fájlformátumban kerülnek a lemezre, amely 
 
 ## Példa XSD fájlra
 
-Egy egyszerű, beszerzési rendelési sémával rendelkező XSD-fájl címkék segítségével határozza meg az elemeket a következő [XSD-példa a Microsofttól] szerint](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -simple-schema?view=vs-2022).
+Egy egyszerű, beszerzési rendelési sémával rendelkező XSD-fájl címkék segítségével határozza meg az elemeket a következő [XSD-példa a Microsofttól] szerint](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022).
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"

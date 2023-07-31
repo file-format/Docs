@@ -27,7 +27,7 @@ Fișierele XSD sunt stocate pe disc în format text simplu, care poate fi citit 
 
 ## Exemplu de fișier XSD
 
-Un fișier XSD simplu având o schemă de comandă definește elementele folosind etichete, așa cum se arată în următorul [exemplu XSD de la Microsoft](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -simple-schema?view=vs-2022).
+Un fișier XSD simplu având o schemă de comandă definește elementele folosind etichete, așa cum se arată în următorul [exemplu XSD de la Microsoft](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022).
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
