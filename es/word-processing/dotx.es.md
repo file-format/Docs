@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo DOTX?
 
-Los archivos con extensión DOTX son archivos de plantilla creados por Microsoft Word para tener configuraciones preformateadas para la generación de más archivos [DOCX](/es/Word%20Processing/DOCX/). Se crea un archivo de plantilla para tener configuraciones de usuario específicas que se deben aplicar a moscas posteriores creadas a partir de estas. Estas configuraciones incluyen márgenes de página, bordes, encabezados, pies de página y otras configuraciones de página. Estas plantillas se utilizan en documentos oficiales, como membretes de empresas y formularios estandarizados.
+Los archivos con extensión DOTX son archivos de plantilla creados por Microsoft Word para tener configuraciones preformateadas para la generación de más archivos [DOCX](/es/word-processing/docx/). Se crea un archivo de plantilla para tener configuraciones de usuario específicas que se deben aplicar a moscas posteriores creadas a partir de estas. Estas configuraciones incluyen márgenes de página, bordes, encabezados, pies de página y otras configuraciones de página. Estas plantillas se utilizan en documentos oficiales, como membretes de empresas y formularios estandarizados.
 
 El formato de archivo DOTX se introdujo con el lanzamiento de Microsoft Office 2007 para reemplazar el formato de archivo binario [DOT](/es/word-processing/dot/), pero también es compatible con versiones superiores. Microsoft Word por defecto abre cada nuevo documento basado en el archivo normal.dot. Si se modifica, todos los nuevos archivos creados tendrán la misma configuración que el archivo de plantilla. En Microsoft Word 2007, el formato de archivo DOT se reemplazó con el formato de archivo DOTX basado en Office OpenXML.
 

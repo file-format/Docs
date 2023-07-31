@@ -19,7 +19,7 @@
 
 ## Apa itu file DOCM?
 
-File DOCM adalah dokumen yang dihasilkan Microsoft Word 2007 atau lebih tinggi dengan kemampuan untuk menjalankan makro. Ini mirip dengan format file [DOCX](https://docs.fileformat.com/Word%20Processing/DOCX/) tetapi kemampuannya untuk menjalankan makro membuatnya berbeda dari DOCX. Seperti DOCX, file DOCM dapat menyimpan teks, gambar, tabel, bentuk, bagan, dan konten lainnya. Kemampuan untuk menjalankan makro memudahkan menghemat waktu dengan menjalankan serangkaian perintah dalam bentuk tindakan yang direkam untuk penyelesaian tugas secara otomatis . File DOCM dapat dibuka dan diedit di Microsoft Word 2007 ke atas.
+File DOCM adalah dokumen yang dihasilkan Microsoft Word 2007 atau lebih tinggi dengan kemampuan untuk menjalankan makro. Ini mirip dengan format file [DOCX](https://docs.fileformat.com/word-processing/docx/) tetapi kemampuannya untuk menjalankan makro membuatnya berbeda dari DOCX. Seperti DOCX, file DOCM dapat menyimpan teks, gambar, tabel, bentuk, bagan, dan konten lainnya. Kemampuan untuk menjalankan makro memudahkan menghemat waktu dengan menjalankan serangkaian perintah dalam bentuk tindakan yang direkam untuk penyelesaian tugas secara otomatis . File DOCM dapat dibuka dan diedit di Microsoft Word 2007 ke atas.
 
 ## Sejarah Singkat
 

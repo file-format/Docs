@@ -19,7 +19,7 @@
 
 ## Ce este un fișier DOCM?
 
-Fișierele DOCM sunt documente Microsoft Word 2007 sau o versiune ulterioară, cu posibilitatea de a rula macrocomenzi. Este similar cu formatul de fișier [DOCX](https://docs.fileformat.com/Word%20Processing/DOCX/), dar capacitatea de a rula macrocomenzi îl face diferit de DOCX. Ca și DOCX, fișierele DOCM pot stoca text, imagini, tabele, forme, diagrame și alte conținuturi. Capacitatea de a rula macrocomenzi facilitează economisirea timpului prin executarea unei serii de comenzi sub formă de acțiuni înregistrate pentru finalizarea automată a unei sarcini. . Fișierele DOCM pot fi deschise și editate în Microsoft Word 2007 și versiuni ulterioare.
+Fișierele DOCM sunt documente Microsoft Word 2007 sau o versiune ulterioară, cu posibilitatea de a rula macrocomenzi. Este similar cu formatul de fișier [DOCX](https://docs.fileformat.com/word-processing/docx/), dar capacitatea de a rula macrocomenzi îl face diferit de DOCX. Ca și DOCX, fișierele DOCM pot stoca text, imagini, tabele, forme, diagrame și alte conținuturi. Capacitatea de a rula macrocomenzi facilitează economisirea timpului prin executarea unei serii de comenzi sub formă de acțiuni înregistrate pentru finalizarea automată a unei sarcini. . Fișierele DOCM pot fi deschise și editate în Microsoft Word 2007 și versiuni ulterioare.
 
 ## Scurt istoric
 

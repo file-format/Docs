@@ -19,7 +19,7 @@
 
 ## Co je soubor DOTX?
 
-Soubory s příponou DOTX jsou soubory šablon vytvořené aplikací Microsoft Word, které mají předem naformátovaná nastavení pro generování dalších souborů [DOCX](/cs/Word%20Processing/DOCX/). Vytvoří se soubor šablony, aby bylo možné mít specifická uživatelská nastavení, která by měla být aplikována na následující mušky vytvořené z nich. Tato nastavení zahrnují okraje stránky, ohraničení, záhlaví, zápatí a další nastavení stránky. Takové šablony se používají v oficiálních dokumentech, jako jsou hlavičkové papíry společností a standardizované formuláře.
+Soubory s příponou DOTX jsou soubory šablon vytvořené aplikací Microsoft Word, které mají předem naformátovaná nastavení pro generování dalších souborů [DOCX](/cs/word-processing/docx/). Vytvoří se soubor šablony, aby bylo možné mít specifická uživatelská nastavení, která by měla být aplikována na následující mušky vytvořené z nich. Tato nastavení zahrnují okraje stránky, ohraničení, záhlaví, zápatí a další nastavení stránky. Takové šablony se používají v oficiálních dokumentech, jako jsou hlavičkové papíry společností a standardizované formuláře.
 
 Formát souboru DOTX byl zaveden s vydáním sady Microsoft Office 2007, aby nahradil binární formát souboru [DOT ](/cs/word-processing/tečka/), ale je podporován i vyššími verzemi. Microsoft Word ve výchozím nastavení otevře každý nový dokument založený na souboru normal.dot. Pokud se změní, všechny nově vytvořené soubory budou mít za následek stejná nastavení jako ze souboru šablony. V aplikaci Microsoft Word 2007 byl formát souboru DOT nahrazen formátem souborů DOTX založeným na Office OpenXML.
 

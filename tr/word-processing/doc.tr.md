@@ -19,7 +19,7 @@
 
 ## DOC dosyası nedir?
 
-.doc uzantılı dosyalar, Microsoft Word tarafından oluşturulan belgeleri veya ikili dosya biçimindeki diğer kelime işlem belgelerini temsil eder. Uzantı başlangıçta birkaç farklı işletim sisteminde düz metin belgeleri için kullanıldı. Düz metin, grafikler, çizelgeler, katıştırılmış nesneler, bağlantılar, sayfalar, sayfa biçimlendirme, yazdırma ayarları ve daha pek çok şeyin yanı sıra biçimlendirilmiş görüntüler gibi birkaç farklı türde veri içerebilir. Bu biçim, kullanıcılara kılavuzlar, teklifler, şartnameler, özgeçmişler, makaleler veya benzeri belgeler yazmak için sunduğu çeşitli seçenekler nedeniyle her türlü belgeleme için popülerdi. DOC'nin güncellenmiş sürümü, özellikleri açık bir şekilde kullanılabilen Office OpenXML tabanlı [DOCX](/tr/Word%20Processing/DOCX/) sürümüdür.
+.doc uzantılı dosyalar, Microsoft Word tarafından oluşturulan belgeleri veya ikili dosya biçimindeki diğer kelime işlem belgelerini temsil eder. Uzantı başlangıçta birkaç farklı işletim sisteminde düz metin belgeleri için kullanıldı. Düz metin, grafikler, çizelgeler, katıştırılmış nesneler, bağlantılar, sayfalar, sayfa biçimlendirme, yazdırma ayarları ve daha pek çok şeyin yanı sıra biçimlendirilmiş görüntüler gibi birkaç farklı türde veri içerebilir. Bu biçim, kullanıcılara kılavuzlar, teklifler, şartnameler, özgeçmişler, makaleler veya benzeri belgeler yazmak için sunduğu çeşitli seçenekler nedeniyle her türlü belgeleme için popülerdi. DOC'nin güncellenmiş sürümü, özellikleri açık bir şekilde kullanılabilen Office OpenXML tabanlı [DOCX](/tr/word-processing/docx/) sürümüdür.
 
 ## Kısa Tarih ##
 

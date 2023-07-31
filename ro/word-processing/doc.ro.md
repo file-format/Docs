@@ -19,7 +19,7 @@
 
 ## Ce este un fișier DOC?
 
-Fișierele cu extensia .doc reprezintă documente generate de Microsoft Word sau alte documente de procesare de text în format de fișier binar. Extensia a fost folosită inițial pentru documentarea text simplu pe mai multe sisteme de operare diferite. Poate conține mai multe tipuri diferite de date, cum ar fi imagini, formatate, precum și text simplu, grafice, diagrame, obiecte încorporate, link-uri, pagini, formatare a paginii, setări de imprimare și multe altele. Formatul a fost popular pentru tot felul de documentație datorită varietății de opțiuni pe care le oferă utilizatorilor pentru redactarea de manuale, propuneri, specificații, CV-uri, articole sau orice documente similare. Versiunea actualizată a DOC este [DOCX](/ro/Word%20Processing/DOCX/) care se bazează pe Office OpenXML ale cărui specificații sunt disponibile în mod deschis.
+Fișierele cu extensia .doc reprezintă documente generate de Microsoft Word sau alte documente de procesare de text în format de fișier binar. Extensia a fost folosită inițial pentru documentarea text simplu pe mai multe sisteme de operare diferite. Poate conține mai multe tipuri diferite de date, cum ar fi imagini, formatate, precum și text simplu, grafice, diagrame, obiecte încorporate, link-uri, pagini, formatare a paginii, setări de imprimare și multe altele. Formatul a fost popular pentru tot felul de documentație datorită varietății de opțiuni pe care le oferă utilizatorilor pentru redactarea de manuale, propuneri, specificații, CV-uri, articole sau orice documente similare. Versiunea actualizată a DOC este [DOCX](/ro/word-processing/docx/) care se bazează pe Office OpenXML ale cărui specificații sunt disponibile în mod deschis.
 
 ## Scurt istoric ##
 

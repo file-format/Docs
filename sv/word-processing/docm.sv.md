@@ -19,7 +19,7 @@
 
 ## Vad är DOCM fil?
 
-DOCM-filer är Microsoft Word 2007 eller högre genererade dokument med möjlighet att köra makron. Det liknar filformatet [DOCX](https://docs.fileformat.com/Word%20Processing/DOCX/) men möjligheten att köra makron skiljer det från DOCX. Liksom DOCX kan DOCM-filer vara text, bilder, tabeller, former, diagram och annat innehåll. Möjligheten att köra makron gör det enkelt att spara tid genom att utföra en serie av kommandon i form av inspelade åtgärder för automatiskt slutförande av en uppgift . DOCM-filer kan öppnas och redigeras i Microsoft Word 2007 och senare.
+DOCM-filer är Microsoft Word 2007 eller högre genererade dokument med möjlighet att köra makron. Det liknar filformatet [DOCX](https://docs.fileformat.com/word-processing/docx/) men möjligheten att köra makron skiljer det från DOCX. Liksom DOCX kan DOCM-filer vara text, bilder, tabeller, former, diagram och annat innehåll. Möjligheten att köra makron gör det enkelt att spara tid genom att utföra en serie av kommandon i form av inspelade åtgärder för automatiskt slutförande av en uppgift . DOCM-filer kan öppnas och redigeras i Microsoft Word 2007 och senare.
 
 ## Kortfattad bakgrund
 

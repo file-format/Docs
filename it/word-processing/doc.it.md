@@ -19,7 +19,7 @@
 
 ## Che cos'è un file DOC?
 
-I file con estensione .doc rappresentano documenti generati da Microsoft Word o altri documenti di elaborazione testi in formato binario. L'estensione è stata inizialmente utilizzata per la documentazione in testo normale su diversi sistemi operativi. Può contenere diversi tipi di dati come immagini, formattati e testo normale, grafici, grafici, oggetti incorporati, collegamenti, pagine, formattazione della pagina, impostazioni di stampa e molti altri. Il formato era popolare per tutti i tipi di documentazione grazie alla varietà di opzioni che offre agli utenti per la scrittura di manuali, proposte, specifiche, curriculum, articoli o documenti simili. La versione aggiornata di DOC è [DOCX](/it/Word%20Processing/DOCX/) che si basa su Office OpenXML le cui specifiche sono pubblicamente disponibili.
+I file con estensione .doc rappresentano documenti generati da Microsoft Word o altri documenti di elaborazione testi in formato binario. L'estensione è stata inizialmente utilizzata per la documentazione in testo normale su diversi sistemi operativi. Può contenere diversi tipi di dati come immagini, formattati e testo normale, grafici, grafici, oggetti incorporati, collegamenti, pagine, formattazione della pagina, impostazioni di stampa e molti altri. Il formato era popolare per tutti i tipi di documentazione grazie alla varietà di opzioni che offre agli utenti per la scrittura di manuali, proposte, specifiche, curriculum, articoli o documenti simili. La versione aggiornata di DOC è [DOCX](/it/word-processing/docx/) che si basa su Office OpenXML le cui specifiche sono pubblicamente disponibili.
 
 ## Breve storia ##
 

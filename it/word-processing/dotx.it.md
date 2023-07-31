@@ -19,7 +19,7 @@
 
 ## Che cos'è un file DOTX?
 
-I file con estensione DOTX sono file modello creati da Microsoft Word per avere impostazioni preformattate per la generazione di ulteriori file [DOCX](/it/Word%20Processing/DOCX/). Viene creato un file modello per avere impostazioni utente specifiche che dovrebbero essere applicate alle mosche successive create da queste. Queste impostazioni includono i margini della pagina, i bordi, le intestazioni, i piè di pagina e altre impostazioni della pagina. Tali modelli sono utilizzati in documenti ufficiali come carta intestata aziendale e moduli standardizzati.
+I file con estensione DOTX sono file modello creati da Microsoft Word per avere impostazioni preformattate per la generazione di ulteriori file [DOCX](/it/word-processing/docx/). Viene creato un file modello per avere impostazioni utente specifiche che dovrebbero essere applicate alle mosche successive create da queste. Queste impostazioni includono i margini della pagina, i bordi, le intestazioni, i piè di pagina e altre impostazioni della pagina. Tali modelli sono utilizzati in documenti ufficiali come carta intestata aziendale e moduli standardizzati.
 
 Il formato di file DOTX è stato introdotto con il rilascio di Microsoft Office 2007 per sostituire il formato di file binario [DOT ](/it/word-processing/dot/), ma è supportato anche da versioni successive. Microsoft Word per impostazione predefinita apre ogni nuovo documento in base al file normal.dot. Se modificati, tutti i nuovi file creati risulteranno nelle stesse impostazioni del file modello. In Microsoft Word 2007, il formato di file DOT è stato sostituito con il formato di file DOTX basato su Office OpenXML.
 

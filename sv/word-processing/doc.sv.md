@@ -19,7 +19,7 @@
 
 ## Vad är en DOC fil?
 
-Filer med filtillägget .doc representerar dokument som genererats av Microsoft Word eller andra ordbehandlingsdokument i binärt filformat. Tillägget användes från början för klartextdokumentation på flera olika operativsystem. Den kan innehålla flera olika typer av data som bilder, formaterad såväl som vanlig text, grafer, diagram, inbäddade objekt, länkar, sidor, sidformatering, utskriftsinställningar och mycket annat. Formatet var populärt för alla typer av dokumentation på grund av de olika alternativ som det erbjuder användarna för att skriva manualer, förslag, specifikationer, CV, artiklar eller liknande dokument. Den uppdaterade versionen av DOC är [DOCX](/sv/Word%20Processing/DOCX/) som är baserad på Office OpenXML vars specifikationer är öppet tillgängliga.
+Filer med filtillägget .doc representerar dokument som genererats av Microsoft Word eller andra ordbehandlingsdokument i binärt filformat. Tillägget användes från början för klartextdokumentation på flera olika operativsystem. Den kan innehålla flera olika typer av data som bilder, formaterad såväl som vanlig text, grafer, diagram, inbäddade objekt, länkar, sidor, sidformatering, utskriftsinställningar och mycket annat. Formatet var populärt för alla typer av dokumentation på grund av de olika alternativ som det erbjuder användarna för att skriva manualer, förslag, specifikationer, CV, artiklar eller liknande dokument. Den uppdaterade versionen av DOC är [DOCX](/sv/word-processing/docx/) som är baserad på Office OpenXML vars specifikationer är öppet tillgängliga.
 
 ## Kortfattad bakgrund ##
 

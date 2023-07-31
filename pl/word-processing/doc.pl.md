@@ -19,7 +19,7 @@
 
 ## Czym jest plik DOC?
 
-Pliki z rozszerzeniem .doc reprezentują dokumenty wygenerowane przez program Microsoft Word lub inne dokumenty tekstowe w formacie pliku binarnego. Rozszerzenie było początkowo używane do dokumentacji zwykłego tekstu w kilku różnych systemach operacyjnych. Może zawierać kilka różnych typów danych, takich jak obrazy, sformatowany i zwykły tekst, wykresy, wykresy, obiekty osadzone, linki, strony, formatowanie strony, ustawienia drukowania i wiele innych. Format był popularny w przypadku wszelkiego rodzaju dokumentacji ze względu na różnorodność opcji, jakie oferuje użytkownikom w zakresie pisania instrukcji, propozycji, specyfikacji, życiorysów, artykułów lub wszelkich podobnych dokumentów. Zaktualizowana wersja DOC to [DOCX](/pl/Word%20Processing/DOCX/), która jest oparta na pakiecie Office OpenXML, którego specyfikacje są powszechnie dostępne.
+Pliki z rozszerzeniem .doc reprezentują dokumenty wygenerowane przez program Microsoft Word lub inne dokumenty tekstowe w formacie pliku binarnego. Rozszerzenie było początkowo używane do dokumentacji zwykłego tekstu w kilku różnych systemach operacyjnych. Może zawierać kilka różnych typów danych, takich jak obrazy, sformatowany i zwykły tekst, wykresy, wykresy, obiekty osadzone, linki, strony, formatowanie strony, ustawienia drukowania i wiele innych. Format był popularny w przypadku wszelkiego rodzaju dokumentacji ze względu na różnorodność opcji, jakie oferuje użytkownikom w zakresie pisania instrukcji, propozycji, specyfikacji, życiorysów, artykułów lub wszelkich podobnych dokumentów. Zaktualizowana wersja DOC to [DOCX](/pl/word-processing/docx/), która jest oparta na pakiecie Office OpenXML, którego specyfikacje są powszechnie dostępne.
 
 ## Krótka historia ##
 
