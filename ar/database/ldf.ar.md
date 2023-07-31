@@ -40,6 +40,6 @@
 
 ## مراجع
 
-* [ملفات قاعدة البيانات ومجموعات الملفات](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups؟view=sql-server-ver15)
-* [دليل هندسة وإدارة سجل المعاملات](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide؟view=sql- الخادم الإصدار 15)
+* [ملفات قاعدة البيانات ومجموعات الملفات](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
+* [دليل هندسة وإدارة سجل المعاملات](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql- الخادم الإصدار 15)
 

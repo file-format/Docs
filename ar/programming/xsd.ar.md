@@ -67,5 +67,5 @@
 ## مراجع ##
 
 - [Microsoft XML Notepad](https://microsoft.github.io/XmlNotepad/)
-- [مثال نموذج XSD](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema؟view=vs-2022)
+- [مثال نموذج XSD](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
 
