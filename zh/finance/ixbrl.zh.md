@@ -20,7 +20,7 @@
 
 ## 什么是一 .iXBRL 文件？
 
-iXBRL (ilnine XBRL) 文件格式允许将 [XBRL](/zh/web/xbrl/) 数据嵌入到 HTML 文件中，使其既机器可读又人类可读。它实际上是一个使用 XBRL 标签的 [xHTML](/zh/web/xhtml/) 文件，由 XBRL International 开发，以满足英国 HMRC 的要求。使用 iXBRL，可以在保持原始文档布局不变的情况下创建财务报表。 iXBRL 文件可以在任何文本编辑器中打开，例如 Windows 操作系统上的记事本和 MacOS 上的 TextEdit。
+iXBRL (ilnine XBRL) 文件格式允许将 [XBRL](/zh/finance/xbrl/) 数据嵌入到 HTML 文件中，使其既机器可读又人类可读。它实际上是一个使用 XBRL 标签的 [xHTML](/zh/web/xhtml/) 文件，由 XBRL International 开发，以满足英国 HMRC 的要求。使用 iXBRL，可以在保持原始文档布局不变的情况下创建财务报表。 iXBRL 文件可以在任何文本编辑器中打开，例如 Windows 操作系统上的记事本和 MacOS 上的 TextEdit。
 
 ## iXBRL 文件格式
 

@@ -20,7 +20,7 @@
 
 ## Co je soubor iXBRL?
 
-Formát souboru iXBRL (ilnine XBRL) umožňuje vložení dat [XBRL](/cs/web/xbrl/) do souboru HTML, aby byly čitelné pro stroje i pro lidi. Je to ve skutečnosti soubor [xHTML](/cs/web/xhtml/), který používá značky XBRL a byl vyvinut společností XBRL International, aby splnil požadavky britského HMRC. Pomocí iXBRL lze vytvářet finanční výkazy se zachováním vzhledu původního dokumentu. Soubory iXBRL lze otevřít v libovolném textovém editoru, jako je Poznámkový blok v operačním systému Windows a TextEdit v systému MacOS.
+Formát souboru iXBRL (ilnine XBRL) umožňuje vložení dat [XBRL](/cs/finance/xbrl/) do souboru HTML, aby byly čitelné pro stroje i pro lidi. Je to ve skutečnosti soubor [xHTML](/cs/web/xhtml/), který používá značky XBRL a byl vyvinut společností XBRL International, aby splnil požadavky britského HMRC. Pomocí iXBRL lze vytvářet finanční výkazy se zachováním vzhledu původního dokumentu. Soubory iXBRL lze otevřít v libovolném textovém editoru, jako je Poznámkový blok v operačním systému Windows a TextEdit v systému MacOS.
 
 ## Formát souboru iXBRL
 

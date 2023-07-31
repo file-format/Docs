@@ -20,7 +20,7 @@
 
 ## Che cos'è un file iXBRL?
 
-Il formato di file iXBRL (ilnine XBRL) consente di incorporare i dati [XBRL](/it/web/xbrl/) in un file HTML per renderlo leggibile sia dalla macchina che dall'uomo. In realtà è un file [xHTML](/it/web/xhtml/) che utilizza i tag XBRL ed è stato sviluppato da XBRL International per soddisfare i requisiti dell'HMRC del Regno Unito. Utilizzando iXBRL, è possibile creare rendiconti finanziari mantenendo intatto il layout del documento originale. I file iXBRL possono essere aperti in qualsiasi editor di testo come Blocco note sul sistema operativo Windows e TextEdit su MacOS.
+Il formato di file iXBRL (ilnine XBRL) consente di incorporare i dati [XBRL](/it/finance/xbrl/) in un file HTML per renderlo leggibile sia dalla macchina che dall'uomo. In realtà è un file [xHTML](/it/web/xhtml/) che utilizza i tag XBRL ed è stato sviluppato da XBRL International per soddisfare i requisiti dell'HMRC del Regno Unito. Utilizzando iXBRL, è possibile creare rendiconti finanziari mantenendo intatto il layout del documento originale. I file iXBRL possono essere aperti in qualsiasi editor di testo come Blocco note sul sistema operativo Windows e TextEdit su MacOS.
 
 ## Formato file iXBRL
 

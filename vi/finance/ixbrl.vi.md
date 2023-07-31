@@ -20,7 +20,7 @@
 
 ## Tệp iXBRL là gì?
 
-Định dạng tệp iXBRL (ilnine XBRL) cho phép nhúng dữ liệu [XBRL](/vi/web/xbrl/) vào tệp HTML để máy và người có thể đọc được. Nó thực sự là một tệp [xHTML](/vi/web/xhtml/) sử dụng các thẻ XBRL và được XBRL International phát triển để đáp ứng các yêu cầu của HMRC của Vương quốc Anh. Sử dụng iXBRL, báo cáo tài chính có thể được tạo mà vẫn giữ nguyên bố cục của tài liệu gốc. Các tệp iXBRL có thể được mở trong bất kỳ trình soạn thảo văn bản nào, chẳng hạn như Notepad trên Hệ điều hành Windows và TextEdit trên MacOS.
+Định dạng tệp iXBRL (ilnine XBRL) cho phép nhúng dữ liệu [XBRL](/vi/finance/xbrl/) vào tệp HTML để máy và người có thể đọc được. Nó thực sự là một tệp [xHTML](/vi/web/xhtml/) sử dụng các thẻ XBRL và được XBRL International phát triển để đáp ứng các yêu cầu của HMRC của Vương quốc Anh. Sử dụng iXBRL, báo cáo tài chính có thể được tạo mà vẫn giữ nguyên bố cục của tài liệu gốc. Các tệp iXBRL có thể được mở trong bất kỳ trình soạn thảo văn bản nào, chẳng hạn như Notepad trên Hệ điều hành Windows và TextEdit trên MacOS.
 
 ## Định dạng tệp iXBRL
 
