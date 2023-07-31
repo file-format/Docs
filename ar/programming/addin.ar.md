@@ -23,11 +23,11 @@
 
 ## تنسيق ملف ADDIN - مزيد من المعلومات
 
-يتم حفظ ملفات ADDIN على قرص بتنسيق ملف XML يمكن للبشر قراءته. يمكن فتحه في برامج تحرير النصوص الشائعة بما في ذلك Notepad و Notepad ++ و Microsoft Visual Studio IDE وغيرها الكثير. قامت Microsoft بتعريف [ملف بيان XML](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests؟tabs=tabid-1) الخاص بـ Office Add -في هذا يصف كيفية تنشيط الوظيفة الإضافية بعد تثبيتها واستخدامها مع مستندات وتطبيقات Office.
+يتم حفظ ملفات ADDIN على قرص بتنسيق ملف XML يمكن للبشر قراءته. يمكن فتحه في برامج تحرير النصوص الشائعة بما في ذلك Notepad و Notepad ++ و Microsoft Visual Studio IDE وغيرها الكثير. قامت Microsoft بتعريف [ملف بيان XML](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) الخاص بـ Office Add -في هذا يصف كيفية تنشيط الوظيفة الإضافية بعد تثبيتها واستخدامها مع مستندات وتطبيقات Office.
 
 ** راجع أيضًا: ** [كيفية إنشاء وظيفة إضافية لـ Office COM باستخدام Visual C # .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer / office-com-add-in-using-visual-c)
 
 ## مراجع
 
-* [بيان XML لوظائف Office الإضافية](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests؟tabs=tabid-1)
+* [بيان XML لوظائف Office الإضافية](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1)
 
