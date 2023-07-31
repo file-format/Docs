@@ -25,13 +25,13 @@ Bạn có thể mở các tệp DirectX X bằng Microsoft DirectX và các trì
 
 ## Định dạng tệp X
 
-[Tham chiếu tệp X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) chứa thông tin tham chiếu cho các phần tử API được sử dụng để làm việc với các tệp DirectX .x. Định dạng này cung cấp các nguyên hàm dữ liệu cấp thấp được các ứng dụng khác sử dụng để xác định các nguyên hàm cấp cao hơn thông qua các mẫu dữ liệu. DirectX 6.0 đã giới thiệu các giao diện và phương thức cho phép đọc và ghi vào tệp .x. DirectX 3.0 đã giới thiệu phiên bản nhị phân của định dạng tệp này.
+[Tham chiếu tệp X](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) chứa thông tin tham chiếu cho các phần tử API được sử dụng để làm việc với các tệp DirectX .x. Định dạng này cung cấp các nguyên hàm dữ liệu cấp thấp được các ứng dụng khác sử dụng để xác định các nguyên hàm cấp cao hơn thông qua các mẫu dữ liệu. DirectX 6.0 đã giới thiệu các giao diện và phương thức cho phép đọc và ghi vào tệp .x. DirectX 3.0 đã giới thiệu phiên bản nhị phân của định dạng tệp này.
 
-[Tham chiếu định dạng tệp X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) do DirectX 9 xác định chứa thông tin tham chiếu cho .x các tệp ở dạng nhị phân cũng như Mã hóa văn bản.
+[Tham chiếu định dạng tệp X](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) do DirectX 9 xác định chứa thông tin tham chiếu cho .x các tệp ở dạng nhị phân cũng như Mã hóa văn bản.
 
 ### Mã hóa nhị phân
 
-[Định dạng nhị phân](https://docs.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) xác định định dạng DirectX X dưới dạng đại diện được mã hóa của định dạng văn bản. Các mã thông báo này có thể độc lập để cung cấp cấu trúc ngữ pháp hoặc có thể là mã thông báo mang bản ghi cung cấp dữ liệu cần thiết.
+[Định dạng nhị phân](https://learn.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) xác định định dạng DirectX X dưới dạng đại diện được mã hóa của định dạng văn bản. Các mã thông báo này có thể độc lập để cung cấp cấu trúc ngữ pháp hoặc có thể là mã thông báo mang bản ghi cung cấp dữ liệu cần thiết.
 
 #### Tiêu đề
 
@@ -84,6 +84,6 @@ Tiêu đề có độ dài thay đổi là bắt buộc và phải ở đầu lu
 
 ## Người giới thiệu
 
-* [X Files Legacy](https://docs.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
-* [Tham chiếu định dạng tệp DirectX 9](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
+* [X Files Legacy](https://learn.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
+* [Tham chiếu định dạng tệp DirectX 9](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
 

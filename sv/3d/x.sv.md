@@ -25,13 +25,13 @@ Du kan öppna DirectX X-filer med Microsoft DirectX och vanliga textredigerare.
 
 ## X filformat
 
-[X-filreferensen](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) innehåller referensinformation för API-elementen som används för att arbeta med DirectX .x-filer. Formatet tillhandahåller dataprimitiver på låg nivå som används av andra applikationer för att definiera primitiver på högre nivå genom datamallar. DirectX 6.0 introducerade gränssnitt och metoder som möjliggör läsning från och skrivning till .x-filer. DirectX 3.0 introducerade en binär version av detta filformat.
+[X-filreferensen](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) innehåller referensinformation för API-elementen som används för att arbeta med DirectX .x-filer. Formatet tillhandahåller dataprimitiver på låg nivå som används av andra applikationer för att definiera primitiver på högre nivå genom datamallar. DirectX 6.0 introducerade gränssnitt och metoder som möjliggör läsning från och skrivning till .x-filer. DirectX 3.0 introducerade en binär version av detta filformat.
 
-[X filformatreferens](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) som definieras av DirectX 9 innehåller referensinformation för .x filer i binära såväl som textkodningar.
+[X filformatreferens](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) som definieras av DirectX 9 innehåller referensinformation för .x filer i binära såväl som textkodningar.
 
 ### Binär kodning
 
-Det [binära formatet](https://docs.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) definierar DirectX X-formatet som en tokeniserad representation av textformatet. Dessa tokens kan vara fristående för att ge grammatisk struktur eller kan vara rekordbärande tokens som tillhandahåller nödvändig data.
+Det [binära formatet](https://learn.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) definierar DirectX X-formatet som en tokeniserad representation av textformatet. Dessa tokens kan vara fristående för att ge grammatisk struktur eller kan vara rekordbärande tokens som tillhandahåller nödvändig data.
 
 #### Rubrik
 
@@ -84,6 +84,6 @@ Rubriken med variabel längd är obligatorisk och måste finnas i början av dat
 
 ## Referenser
 
-* [X Files Legacy](https://docs.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
-* [DirectX 9 File Format Reference](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
+* [X Files Legacy](https://learn.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
+* [DirectX 9 File Format Reference](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
 

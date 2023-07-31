@@ -25,13 +25,13 @@ Vous pouvez ouvrir des fichiers DirectX X à l'aide de Microsoft DirectX et des 
 
 ## Format de fichier X
 
-La [référence du fichier X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) contient des informations de référence pour les éléments d'API utilisés pour travailler avec les fichiers DirectX .x. Le format fournit des primitives de données de bas niveau qui sont utilisées par d'autres applications pour définir des primitives de niveau supérieur via des modèles de données. DirectX 6.0 a introduit des interfaces et des méthodes qui permettent de lire et d'écrire dans des fichiers .x. DirectX 3.0 a introduit une version binaire de ce format de fichier.
+La [référence du fichier X](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) contient des informations de référence pour les éléments d'API utilisés pour travailler avec les fichiers DirectX .x. Le format fournit des primitives de données de bas niveau qui sont utilisées par d'autres applications pour définir des primitives de niveau supérieur via des modèles de données. DirectX 6.0 a introduit des interfaces et des méthodes qui permettent de lire et d'écrire dans des fichiers .x. DirectX 3.0 a introduit une version binaire de ce format de fichier.
 
-La [référence du format de fichier X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) définie par DirectX 9 contient des informations de référence pour .x fichiers en binaire ainsi que des encodages de texte.
+La [référence du format de fichier X](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) définie par DirectX 9 contient des informations de référence pour .x fichiers en binaire ainsi que des encodages de texte.
 
 ### Encodage binaire
 
-Le [format binaire](https://docs.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) définit le format DirectX X comme une représentation symbolique du format texte. Ces jetons peuvent être autonomes pour donner une structure grammaticale ou peuvent être des jetons porteurs d'enregistrement fournissant les données nécessaires.
+Le [format binaire](https://learn.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) définit le format DirectX X comme une représentation symbolique du format texte. Ces jetons peuvent être autonomes pour donner une structure grammaticale ou peuvent être des jetons porteurs d'enregistrement fournissant les données nécessaires.
 
 #### Entête
 
@@ -84,6 +84,6 @@ L'en-tête de longueur variable est obligatoire et doit se trouver au début du 
 
 ## Références
 
-* [X Files Legacy](https://docs.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
-* [Référence du format de fichier DirectX 9](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
+* [X Files Legacy](https://learn.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
+* [Référence du format de fichier DirectX 9](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
 

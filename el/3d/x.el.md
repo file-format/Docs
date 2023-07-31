@@ -25,13 +25,13 @@
 
 ## Μορφή αρχείου X
 
-Η [αναφορά αρχείου X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) περιέχει πληροφορίες αναφοράς για τα στοιχεία API που χρησιμοποιούνται για εργασία με αρχεία DirectX .x. Η μορφή παρέχει πρωτόγονα δεδομένα χαμηλού επιπέδου που χρησιμοποιούνται από άλλες εφαρμογές για να ορίσουν πρωτόγονα υψηλότερου επιπέδου μέσω προτύπων δεδομένων. Το DirectX 6.0 εισήγαγε διεπαφές και μεθόδους που επιτρέπουν την ανάγνωση και εγγραφή σε αρχεία .x. Το DirectX 3.0 εισήγαγε μια δυαδική έκδοση αυτής της μορφής αρχείου.
+Η [αναφορά αρχείου X](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) περιέχει πληροφορίες αναφοράς για τα στοιχεία API που χρησιμοποιούνται για εργασία με αρχεία DirectX .x. Η μορφή παρέχει πρωτόγονα δεδομένα χαμηλού επιπέδου που χρησιμοποιούνται από άλλες εφαρμογές για να ορίσουν πρωτόγονα υψηλότερου επιπέδου μέσω προτύπων δεδομένων. Το DirectX 6.0 εισήγαγε διεπαφές και μεθόδους που επιτρέπουν την ανάγνωση και εγγραφή σε αρχεία .x. Το DirectX 3.0 εισήγαγε μια δυαδική έκδοση αυτής της μορφής αρχείου.
 
-Η [αναφορά μορφής αρχείου X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) που ορίζεται από το DirectX 9 περιέχει πληροφορίες αναφοράς για .x αρχεία σε Binary καθώς και σε Κωδικοποιήσεις Κειμένου.
+Η [αναφορά μορφής αρχείου X](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) που ορίζεται από το DirectX 9 περιέχει πληροφορίες αναφοράς για .x αρχεία σε Binary καθώς και σε Κωδικοποιήσεις Κειμένου.
 
 ### Δυαδική Κωδικοποίηση
 
-Η [δυαδική μορφή](https://docs.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) ορίζει τη μορφή DirectX X ως μια συμβολική αναπαράσταση της μορφής κειμένου. Αυτά τα διακριτικά μπορεί να είναι αυτόνομα για να δώσουν γραμματική δομή ή μπορεί να είναι μάρκες που φέρουν ρεκόρ που παρέχουν τα απαραίτητα δεδομένα.
+Η [δυαδική μορφή](https://learn.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) ορίζει τη μορφή DirectX X ως μια συμβολική αναπαράσταση της μορφής κειμένου. Αυτά τα διακριτικά μπορεί να είναι αυτόνομα για να δώσουν γραμματική δομή ή μπορεί να είναι μάρκες που φέρουν ρεκόρ που παρέχουν τα απαραίτητα δεδομένα.
 
 #### Κεφαλίδα
 
@@ -84,6 +84,6 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [X Files Legacy](https://docs.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
-* [Αναφορά μορφής αρχείου DirectX 9](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
+* [X Files Legacy](https://learn.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
+* [Αναφορά μορφής αρχείου DirectX 9](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
 

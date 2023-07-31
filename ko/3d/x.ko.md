@@ -25,13 +25,13 @@ Microsoft DirectX 및 일반 텍스트 편집기를 사용하여 DirectX X 파�
 
 ## X 파일 형식
 
-[X 파일 참조](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file)에는 다음을 수행하는 데 사용되는 API 요소에 대한 참조 정보가 포함되어 있습니다. DirectX .x 파일로 작업합니다. 이 형식은 다른 응용 프로그램에서 데이터 템플릿을 통해 상위 수준 기본 요소를 정의하는 데 사용하는 하위 수준 데이터 기본 요소를 제공합니다. DirectX 6.0에는 .x 파일을 읽고 쓸 수 있는 인터페이스와 메서드가 도입되었습니다. DirectX 3.0은 이 파일 형식의 바이너리 버전을 도입했습니다.
+[X 파일 참조](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file)에는 다음을 수행하는 데 사용되는 API 요소에 대한 참조 정보가 포함되어 있습니다. DirectX .x 파일로 작업합니다. 이 형식은 다른 응용 프로그램에서 데이터 템플릿을 통해 상위 수준 기본 요소를 정의하는 데 사용하는 하위 수준 데이터 기본 요소를 제공합니다. DirectX 6.0에는 .x 파일을 읽고 쓸 수 있는 인터페이스와 메서드가 도입되었습니다. DirectX 3.0은 이 파일 형식의 바이너리 버전을 도입했습니다.
 
-DirectX 9에서 정의한 [X 파일 형식 참조](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)에는 .x에 대한 참조 정보가 포함되어 있습니다. 바이너리 및 텍스트 인코딩의 파일.
+DirectX 9에서 정의한 [X 파일 형식 참조](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)에는 .x에 대한 참조 정보가 포함되어 있습니다. 바이너리 및 텍스트 인코딩의 파일.
 
 ### 이진 인코딩
 
-[이진 형식](https://docs.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding)은 DirectX X 형식을 텍스트 형식의 토큰화된 표현으로 정의합니다. 이러한 토큰은 문법적 구조를 제공하기 위해 독립형일 수 있거나 필요한 데이터를 제공하는 기록 보유 토큰일 수 있습니다.
+[이진 형식](https://learn.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding)은 DirectX X 형식을 텍스트 형식의 토큰화된 표현으로 정의합니다. 이러한 토큰은 문법적 구조를 제공하기 위해 독립형일 수 있거나 필요한 데이터를 제공하는 기록 보유 토큰일 수 있습니다.
 
 #### 헤더
 
@@ -84,6 +84,6 @@ DirectX .x 파일은 파일이 사용되는 방식에 의존하지 않으며 특
 
 ## 참고문헌
 
-* [X 파일 레거시](https://docs.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
-* [DirectX 9 파일 형식 참조](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
+* [X 파일 레거시](https://learn.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
+* [DirectX 9 파일 형식 참조](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
 

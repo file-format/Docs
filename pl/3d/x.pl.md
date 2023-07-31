@@ -25,13 +25,13 @@ Możesz otwierać pliki DirectX X za pomocą Microsoft DirectX i popularnych edy
 
 ## Format pliku X
 
-[Odniesienie do pliku X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) zawiera informacje referencyjne dotyczące elementów interfejsu API używanych do pracować z plikami DirectX .x. Format zapewnia prymitywy danych niskiego poziomu, które są używane przez inne aplikacje do definiowania prymitywów wyższego poziomu za pomocą szablonów danych. DirectX 6.0 wprowadził interfejsy i metody umożliwiające odczyt i zapis do plików .x. DirectX 3.0 wprowadził binarną wersję tego formatu plików.
+[Odniesienie do pliku X](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) zawiera informacje referencyjne dotyczące elementów interfejsu API używanych do pracować z plikami DirectX .x. Format zapewnia prymitywy danych niskiego poziomu, które są używane przez inne aplikacje do definiowania prymitywów wyższego poziomu za pomocą szablonów danych. DirectX 6.0 wprowadził interfejsy i metody umożliwiające odczyt i zapis do plików .x. DirectX 3.0 wprowadził binarną wersję tego formatu plików.
 
-[Odniesienie do formatu pliku X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) zdefiniowane przez DirectX 9 zawiera informacje referencyjne dla .x pliki w kodowaniu binarnym i tekstowym.
+[Odniesienie do formatu pliku X](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) zdefiniowane przez DirectX 9 zawiera informacje referencyjne dla .x pliki w kodowaniu binarnym i tekstowym.
 
 ### Kodowanie binarne
 
-[Format binarny](https://docs.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) definiuje format DirectX X jako tokenizowaną reprezentację formatu tekstowego. Te tokeny mogą być samodzielne, aby nadać strukturę gramatyczną, lub mogą być tokenami zawierającymi rekordy, dostarczającymi niezbędnych danych.
+[Format binarny](https://learn.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) definiuje format DirectX X jako tokenizowaną reprezentację formatu tekstowego. Te tokeny mogą być samodzielne, aby nadać strukturę gramatyczną, lub mogą być tokenami zawierającymi rekordy, dostarczającymi niezbędnych danych.
 
 #### Nagłówek
 
@@ -84,6 +84,6 @@ Nagłówek o zmiennej długości jest obowiązkowy i musi znajdować się na poc
 
 ## Bibliografia
 
-* [Starsza wersja plików X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
-* [Informacje o formacie plików DirectX 9](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
+* [Starsza wersja plików X](https://learn.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
+* [Informacje o formacie plików DirectX 9](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
 

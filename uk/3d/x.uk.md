@@ -25,13 +25,13 @@
 
 ## Формат файлу X
 
-[Посилання на файл X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) містить довідкову інформацію для елементів API, які використовуються для працювати з файлами DirectX .x. Формат надає примітиви даних низького рівня, які використовуються іншими програмами для визначення примітивів вищого рівня за допомогою шаблонів даних. DirectX 6.0 представив інтерфейси та методи, які дозволяють читати та записувати файли .x. У DirectX 3.0 представлена двійкова версія цього формату файлу.
+[Посилання на файл X](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) містить довідкову інформацію для елементів API, які використовуються для працювати з файлами DirectX .x. Формат надає примітиви даних низького рівня, які використовуються іншими програмами для визначення примітивів вищого рівня за допомогою шаблонів даних. DirectX 6.0 представив інтерфейси та методи, які дозволяють читати та записувати файли .x. У DirectX 3.0 представлена двійкова версія цього формату файлу.
 
-[Довідка про формат файлу X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format), визначена DirectX 9, містить довідкову інформацію для .x файли у двійковому та текстовому кодуваннях.
+[Довідка про формат файлу X](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format), визначена DirectX 9, містить довідкову інформацію для .x файли у двійковому та текстовому кодуваннях.
 
 ### Двійкове кодування
 
-[Двійковий формат](https://docs.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) визначає формат DirectX X як токенізоване представлення текстового формату. Ці лексеми можуть бути окремими, щоб надати граматичної структури, або можуть бути записаними лексемами, які надають необхідні дані.
+[Двійковий формат](https://learn.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) визначає формат DirectX X як токенізоване представлення текстового формату. Ці лексеми можуть бути окремими, щоб надати граматичної структури, або можуть бути записаними лексемами, які надають необхідні дані.
 
 #### Заголовок
 
@@ -84,6 +84,6 @@
 
 ## Список літератури
 
-* [X Files Legacy](https://docs.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
-* [Довідка про формат файлу DirectX 9](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
+* [X Files Legacy](https://learn.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
+* [Довідка про формат файлу DirectX 9](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
 

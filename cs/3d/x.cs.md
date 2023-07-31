@@ -25,13 +25,13 @@ Soubory DirectX X můžete otevřít pomocí Microsoft DirectX a běžných text
 
 ## Formát souboru X
 
-[Odkaz na soubor X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) obsahuje referenční informace pro prvky API, které se používají k pracovat se soubory DirectX .x. Formát poskytuje datová primitiva nízké úrovně, která používají jiné aplikace k definování primitiv vyšší úrovně prostřednictvím datových šablon. DirectX 6.0 zavedlo rozhraní a metody, které umožňují čtení a zápis do souborů .x. DirectX 3.0 představil binární verzi tohoto formátu souboru.
+[Odkaz na soubor X](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) obsahuje referenční informace pro prvky API, které se používají k pracovat se soubory DirectX .x. Formát poskytuje datová primitiva nízké úrovně, která používají jiné aplikace k definování primitiv vyšší úrovně prostřednictvím datových šablon. DirectX 6.0 zavedlo rozhraní a metody, které umožňují čtení a zápis do souborů .x. DirectX 3.0 představil binární verzi tohoto formátu souboru.
 
-[Odkaz na formát souboru X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) definovaný DirectX 9 obsahuje referenční informace pro .x soubory v binárním i textovém kódování.
+[Odkaz na formát souboru X](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) definovaný DirectX 9 obsahuje referenční informace pro .x soubory v binárním i textovém kódování.
 
 ### Binární kódování
 
-[binární formát](https://docs.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) definuje formát DirectX X jako tokenizovanou reprezentaci textového formátu. Tyto tokeny mohou být samostatné, aby poskytovaly gramatickou strukturu, nebo to mohou být tokeny nesoucí záznamy, které poskytují potřebná data.
+[binární formát](https://learn.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) definuje formát DirectX X jako tokenizovanou reprezentaci textového formátu. Tyto tokeny mohou být samostatné, aby poskytovaly gramatickou strukturu, nebo to mohou být tokeny nesoucí záznamy, které poskytují potřebná data.
 
 #### Záhlaví
 
@@ -84,6 +84,6 @@ Hlavička s proměnnou délkou je povinná a musí být na začátku datového t
 
 ## Reference
 
-* [Soubory X Legacy](https://docs.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
-* [Referenční informace o formátu souboru DirectX 9](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
+* [Soubory X Legacy](https://learn.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
+* [Referenční informace o formátu souboru DirectX 9](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
 

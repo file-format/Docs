@@ -25,13 +25,13 @@ Anda dapat membuka file DirectX X menggunakan Microsoft DirectX dan editor teks 
 
 ## Format File X
 
-[Referensi file X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) berisi informasi referensi untuk elemen API yang digunakan untuk bekerja dengan file DirectX .x. Format ini menyediakan primitif data tingkat rendah yang digunakan oleh aplikasi lain untuk menentukan primitif tingkat lebih tinggi melalui templat data. DirectX 6.0 memperkenalkan antarmuka dan metode yang memungkinkan membaca dari dan menulis ke file .x. DirectX 3.0 memperkenalkan versi biner dari format file ini.
+[Referensi file X](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) berisi informasi referensi untuk elemen API yang digunakan untuk bekerja dengan file DirectX .x. Format ini menyediakan primitif data tingkat rendah yang digunakan oleh aplikasi lain untuk menentukan primitif tingkat lebih tinggi melalui templat data. DirectX 6.0 memperkenalkan antarmuka dan metode yang memungkinkan membaca dari dan menulis ke file .x. DirectX 3.0 memperkenalkan versi biner dari format file ini.
 
-[Referensi format file X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) yang ditentukan oleh DirectX 9 berisi informasi referensi untuk .x file dalam Pengodean Biner dan Teks.
+[Referensi format file X](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) yang ditentukan oleh DirectX 9 berisi informasi referensi untuk .x file dalam Pengodean Biner dan Teks.
 
 ### Pengodean Biner
 
-[format biner](https://docs.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) mendefinisikan format DirectX X sebagai representasi token dari format teks. Token ini dapat berdiri sendiri untuk memberikan struktur tata bahasa atau dapat menjadi token pembawa catatan yang memasok data yang diperlukan.
+[format biner](https://learn.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) mendefinisikan format DirectX X sebagai representasi token dari format teks. Token ini dapat berdiri sendiri untuk memberikan struktur tata bahasa atau dapat menjadi token pembawa catatan yang memasok data yang diperlukan.
 
 #### Judul
 
@@ -84,6 +84,6 @@ Header dengan panjang variabel adalah wajib dan harus berada di awal aliran data
 
 ## Referensi
 
-* [X Files Legacy](https://docs.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
-* [Referensi Format File DirectX 9](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
+* [X Files Legacy](https://learn.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
+* [Referensi Format File DirectX 9](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
 

@@ -25,13 +25,13 @@ A DirectX X fájlokat Microsoft DirectX és általános szövegszerkesztők seg�
 
 ## X Fájlformátum
 
-Az [X fájl hivatkozás](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) hivatkozási információkat tartalmaz az API-elemekről, amelyeket dolgozni DirectX .x fájlokkal. A formátum alacsony szintű adatprimitíveket biztosít, amelyeket más alkalmazások használnak magasabb szintű primitívek meghatározására adatsablonokon keresztül. A DirectX 6.0 olyan felületeket és módszereket vezetett be, amelyek lehetővé teszik az .x fájlok olvasását és írását. A DirectX 3.0 bevezette ennek a fájlformátumnak a bináris változatát.
+Az [X fájl hivatkozás](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) hivatkozási információkat tartalmaz az API-elemekről, amelyeket dolgozni DirectX .x fájlokkal. A formátum alacsony szintű adatprimitíveket biztosít, amelyeket más alkalmazások használnak magasabb szintű primitívek meghatározására adatsablonokon keresztül. A DirectX 6.0 olyan felületeket és módszereket vezetett be, amelyek lehetővé teszik az .x fájlok olvasását és írását. A DirectX 3.0 bevezette ennek a fájlformátumnak a bináris változatát.
 
-A DirectX 9 által meghatározott [X fájlformátum hivatkozás](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) referencia információkat tartalmaz a .x fájlhoz bináris fájlokat, valamint szövegkódolásokat.
+A DirectX 9 által meghatározott [X fájlformátum hivatkozás](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) referencia információkat tartalmaz a .x fájlhoz bináris fájlokat, valamint szövegkódolásokat.
 
 ### Bináris kódolás
 
-A [bináris formátum](https://docs.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) a DirectX X formátumot a szövegformátum tokenizált megjelenítéseként határozza meg. Ezek a tokenek lehetnek önállóak, hogy nyelvtani szerkezetet adjanak, vagy lehetnek rekordot hordozó tokenek, amelyek biztosítják a szükséges adatokat.
+A [bináris formátum](https://learn.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) a DirectX X formátumot a szövegformátum tokenizált megjelenítéseként határozza meg. Ezek a tokenek lehetnek önállóak, hogy nyelvtani szerkezetet adjanak, vagy lehetnek rekordot hordozó tokenek, amelyek biztosítják a szükséges adatokat.
 
 #### Fejléc
 
@@ -84,6 +84,6 @@ A változó hosszúságú fejléc kötelező, és az adatfolyam elején kell len
 
 ## Hivatkozások
 
-* [X Files Legacy](https://docs.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
-* [DirectX 9 fájlformátum-referencia](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
+* [X Files Legacy](https://learn.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
+* [DirectX 9 fájlformátum-referencia](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
 
