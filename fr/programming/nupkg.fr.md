@@ -28,5 +28,5 @@ Les fichiers NUPKG sont des archives [ZIP](/fr/compression/zip/) qui contiennent
 
 * [Nuget.org](https://nuget.org)
 * [Démarrage rapide : installer et utiliser un package dans Visual Studio (Windows uniquement)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual- studio)
-* [Comment créer et publier un package Nuget](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore- cli)
+* [Comment créer et publier un package Nuget](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore-cli)
 

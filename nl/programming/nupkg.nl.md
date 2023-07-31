@@ -28,5 +28,5 @@ NUPKG-bestanden zijn [ZIP](/nl/compression/zip/)-archieven die de verpakte bibli
 
 * [Nuget.org](https://nuget.org)
 * [Snelstart: een pakket installeren en gebruiken in Visual Studio (alleen Windows)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual- studio)
-* [Een Nuget-pakket maken en publiceren](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore- cli)
+* [Een Nuget-pakket maken en publiceren](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore-cli)
 

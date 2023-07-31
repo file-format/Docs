@@ -28,5 +28,5 @@ A NUPKG fájlok [ZIP](/hu/compression/zip/) archívumok, amelyek a benne lévő 
 
 * [Nuget.org](https://nuget.org)
 * [Gyorsindítás: Telepítsen és használjon csomagot a Visual Studióban (csak Windows)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual- stúdió)
-* [Nuget-csomag létrehozása és közzététele](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore- cli)
+* [Nuget-csomag létrehozása és közzététele](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore-cli)
 

@@ -28,5 +28,5 @@ NUPKG फ़ाइलें [ज़िप](/hi/संपीड़न/ज़ि�
 
 * [Nuget.org](https://nuget.org)
 * [क्विकस्टार्ट: विजुअल स्टूडियो (केवल विंडोज़) में एक पैकेज स्थापित करें और उसका उपयोग करें](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual- स्टूडियो)
-* [नगेट पैकेज कैसे बनाएं और प्रकाशित करें](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-use-visual-studio?tabs=netcore- क्ली)
+* [नगेट पैकेज कैसे बनाएं और प्रकाशित करें](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore-cli)
 

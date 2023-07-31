@@ -28,5 +28,5 @@
 
 * [Nuget.org](https://nuget.org)
 * [Γρήγορη εκκίνηση: Εγκαταστήστε και χρησιμοποιήστε ένα πακέτο στο Visual Studio (μόνο για Windows)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual- Στούντιο)
-* [How to Create and Publish a Nuget Package](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore- cli)
+* [How to Create and Publish a Nuget Package](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore-cli)
 
