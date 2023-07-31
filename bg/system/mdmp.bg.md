@@ -51,5 +51,5 @@ Windows поддържа списък с всички дъмп файлове н
 
 ## справка
 
-* [Как да прочетем малкия дъмп файл на паметта, който е създаден от Windows, ако възникне срив](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -файл)
+* [Как да прочетем малкия дъмп файл на паметта, който е създаден от Windows, ако възникне срив](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
 

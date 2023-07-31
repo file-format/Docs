@@ -51,5 +51,5 @@ Los siguientes pasos se pueden usar para abrir un archivo MDMP en Visual Studio.
 
 ## Referencia
 
-* [Cómo leer el archivo de volcado de memoria pequeña que crea Windows si se produce un bloqueo](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -expediente)
+* [Cómo leer el archivo de volcado de memoria pequeña que crea Windows si se produce un bloqueo](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
 

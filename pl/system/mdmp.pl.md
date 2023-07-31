@@ -51,5 +51,5 @@ Aby otworzyć plik MDMP w programie Visual Studio, można wykonać następujące
 
 ## Odniesienie
 
-* [Jak odczytać mały plik zrzutu pamięci tworzony przez system Windows w przypadku awarii](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -plik)
+* [Jak odczytać mały plik zrzutu pamięci tworzony przez system Windows w przypadku awarii](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
 

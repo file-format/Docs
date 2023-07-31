@@ -51,5 +51,5 @@ Windows は、すべてのメモリ ダンプ ファイルのリストを %Syste
 
 ## 参照
 
-* [クラッシュが発生した場合に Windows によって作成される小さなメモリ ダンプ ファイルを読み取る方法](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -ファイル）
+* [クラッシュが発生した場合に Windows によって作成される小さなメモリ ダンプ ファイルを読み取る方法](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
 

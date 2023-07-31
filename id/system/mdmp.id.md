@@ -51,5 +51,5 @@ Langkah-langkah berikut dapat digunakan untuk membuka file MDMP di Visual Studio
 
 ## Referensi
 
-* [Cara membaca file dump memori kecil yang dibuat oleh Windows jika terjadi kerusakan](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -mengajukan)
+* [Cara membaca file dump memori kecil yang dibuat oleh Windows jika terjadi kerusakan](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
 
