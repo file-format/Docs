@@ -25,7 +25,7 @@
 
 קובצי ADDIN נשמרים על דיסק בפורמט קובץ XML הניתן לקריאה אנושית. ניתן לפתוח אותו בעורכי טקסט פופולריים כולל Notepad, Notepad++, Microsoft Visual Studio IDE ועוד רבים אחרים. מיקרוסופט הגדירה את [קובץ המניפסט של XML](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) של הוספה של Office -in המתאר כיצד יש להפעיל תוסף לאחר התקנתו והשימוש בו עם מסמכים ויישומי Office.
 
-**ראה גם:** [כיצד לבנות תוספת Office COM באמצעות Visual C# .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
+**ראה גם:** [כיצד לבנות תוספת Office COM באמצעות Visual C# .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer/office-com-add-in-using-visual-c)
 
 ## הפניות
 

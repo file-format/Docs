@@ -25,7 +25,7 @@ Tệp có phần mở rộng .addin là tệp định nghĩa Phần bổ trợ �
 
 Các tệp ADDIN được lưu vào đĩa ở định dạng tệp XML mà con người có thể đọc được. Nó có thể được mở trong các trình soạn thảo văn bản phổ biến bao gồm Notepad, Notepad++, Microsoft Visual Studio IDE và nhiều trình soạn thảo khác. Microsoft đã xác định [tệp kê khai XML](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) của Office Add -in mô tả cách kích hoạt bổ trợ sau khi được cài đặt và sử dụng với các tài liệu và ứng dụng Office.
 
-**Xem thêm:** [Cách xây dựng bổ trợ Office COM bằng Visual C# .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
+**Xem thêm:** [Cách xây dựng bổ trợ Office COM bằng Visual C# .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer/office-com-add-in-using-visual-c)
 
 ## Người giới thiệu
 

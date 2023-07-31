@@ -25,7 +25,7 @@ En fil med tillägget .addin är en definitionsfil för tillägg som skapats av 
 
 ADDIN-filer sparas på skiva i XML-filformat som är läsbart för människor. Den kan öppnas i populära textredigerare inklusive Notepad, Notepad++, Microsoft Visual Studio IDE och många andra. Microsoft har definierat [XML-manifestfilen](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) för en Office-tillägg -in som beskriver hur ett tillägg ska aktiveras efter att det har installerats och använts med Office-dokument och applikationer.
 
-**Se även:** [Hur man bygger ett Office COM-tillägg med Visual C# .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
+**Se även:** [Hur man bygger ett Office COM-tillägg med Visual C# .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer/office-com-add-in-using-visual-c)
 
 ## Referenser
 

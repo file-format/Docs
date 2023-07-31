@@ -25,7 +25,7 @@ Een bestand met de extensie .addin is een definitiebestand voor invoegtoepassing
 
 ADDIN-bestanden worden op schijf opgeslagen in XML-bestandsindeling die voor mensen leesbaar is. Het kan worden geopend in populaire teksteditors, waaronder Notepad, Notepad++, Microsoft Visual Studio IDE en vele andere. Microsoft heeft het [XML-manifestbestand](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) van een Office Add-bestand gedefinieerd -in die beschrijft hoe een invoegtoepassing moet worden geactiveerd nadat deze is geïnstalleerd en gebruikt met Office-documenten en -toepassingen.
 
-**Zie ook:** [Een Office COM-invoegtoepassing bouwen met Visual C# .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-met-visual-c)
+**Zie ook:** [Een Office COM-invoegtoepassing bouwen met Visual C# .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer/office-com-add-in-using-visual-c)
 
 ## Referenties
 

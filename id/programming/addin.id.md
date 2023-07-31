@@ -25,7 +25,7 @@ File dengan ekstensi .addin adalah file definisi Add-in yang dibuat oleh Microso
 
 File ADDIN disimpan ke disk dalam format file XML yang dapat dibaca manusia. Itu dapat dibuka di editor teks populer termasuk Notepad, Notepad ++, Microsoft Visual Studio IDE, dan banyak lainnya. Microsoft telah menentukan [file manifes XML](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) dari Office Add -in yang menjelaskan bagaimana add-in harus diaktifkan setelah diinstal dan digunakan dengan dokumen dan aplikasi Office.
 
-**Lihat Juga:** [Cara membuat add-in Office COM menggunakan Visual C# .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
+**Lihat Juga:** [Cara membuat add-in Office COM menggunakan Visual C# .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer/office-com-add-in-using-visual-c)
 
 ## Referensi
 

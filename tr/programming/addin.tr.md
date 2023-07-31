@@ -25,7 +25,7 @@
 
 ADDIN dosyaları, insan tarafından okunabilen XML dosya biçiminde diske kaydedilir. Notepad, Notepad++, Microsoft Visual Studio IDE ve diğerleri gibi popüler metin editörlerinde açılabilir. Microsoft, bir Office Eklentisinin [XML bildirim dosyasını](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) tanımladı -in, bir eklentinin yüklendikten ve Office belgeleri ve uygulamalarıyla birlikte kullanıldıktan sonra nasıl etkinleştirilmesi gerektiğini açıklar.
 
-**Ayrıca Bakınız:** [Visual C# .NET kullanılarak bir Office COM eklentisi nasıl oluşturulur](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-kullanarak-görsel-c)
+**Ayrıca Bakınız:** [Visual C# .NET kullanılarak bir Office COM eklentisi nasıl oluşturulur](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer/office-com-add-in-using-visual-c)
 
 ## Referanslar
 

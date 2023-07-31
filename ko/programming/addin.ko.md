@@ -25,7 +25,7 @@
 
 ADDIN 파일은 사람이 읽을 수 있는 XML 파일 형식으로 디스크에 저장됩니다. 메모장, 메모장++, Microsoft Visual Studio IDE 등을 포함한 인기 있는 텍스트 편집기에서 열 수 있습니다. Microsoft는 Office Add의 [XML 매니페스트 파일](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1)을 정의했습니다. -인은 추가 기능을 설치하고 Office 문서 및 응용 프로그램과 함께 사용한 후 활성화해야 하는 방법을 설명합니다.
 
-**참고 항목:** [Visual C# .NET을 사용하여 Office COM 추가 기능을 빌드하는 방법](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
+**참고 항목:** [Visual C# .NET을 사용하여 Office COM 추가 기능을 빌드하는 방법](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer/office-com-add-in-using-visual-c)
 
 ## 참고문헌
 

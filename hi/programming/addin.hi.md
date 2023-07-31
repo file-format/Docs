@@ -25,7 +25,7 @@
 
 ADDIN फाइलें डिस्क में XML फ़ाइल स्वरूप में सहेजी जाती हैं जो मानव पठनीय है। इसे नोटपैड, नोटपैड ++, माइक्रोसॉफ्ट विजुअल स्टूडियो आईडीई और कई अन्य लोकप्रिय टेक्स्ट एडिटर्स में खोला जा सकता है। Microsoft ने Office Add की [XML मेनिफ़ेस्ट फ़ाइल](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) परिभाषित की है -इन यह वर्णन करता है कि ऐड-इन को स्थापित करने और कार्यालय दस्तावेजों और अनुप्रयोगों के साथ उपयोग करने के बाद कैसे सक्रिय किया जाना चाहिए।
 
-**यह भी देखें:** [विज़ुअल सी# .NET का उपयोग करके ऑफिस COM ऐड-इन कैसे बनाएं](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer / ऑफिस-कॉम-ऐड-इन-यूजिंग-विजुअल-सी)
+**यह भी देखें:** [विज़ुअल सी# .NET का उपयोग करके ऑफिस COM ऐड-इन कैसे बनाएं](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer/office-com-add-in-using-visual-c)
 
 ## संदर्भ
 

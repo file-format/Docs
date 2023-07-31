@@ -25,7 +25,7 @@
 
 ไฟล์ ADDIN จะถูกบันทึกลงดิสก์ในรูปแบบไฟล์ XML ที่มนุษย์สามารถอ่านได้ สามารถเปิดได้ในโปรแกรมแก้ไขข้อความยอดนิยม เช่น Notepad, Notepad++, Microsoft Visual Studio IDE และอื่นๆ อีกมากมาย Microsoft ได้กำหนด [ไฟล์รายการ XML](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) ของ Office Add -in ที่อธิบายวิธีเปิดใช้งาน Add-in หลังจากติดตั้งและใช้งานกับเอกสารและแอปพลิเคชัน Office
 
-**ดูเพิ่มเติมที่:** [วิธีสร้าง Add-in ของ Office COM โดยใช้ Visual C# .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
+**ดูเพิ่มเติมที่:** [วิธีสร้าง Add-in ของ Office COM โดยใช้ Visual C# .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer/office-com-add-in-using-visual-c)
 
 ## อ้างอิง
 
