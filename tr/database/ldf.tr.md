@@ -41,5 +41,5 @@ LDF dosyası, günlük kayıtları dizisi olarak düzenlenmiş SQL Server işlem
 ## Referanslar
 
 * [Veritabanı Dosyaları ve Dosya Grupları](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [İşlem Günlüğü Mimarisi ve Yönetim Kılavuzu](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql- sunucu-ver15)
+* [İşlem Günlüğü Mimarisi ve Yönetim Kılavuzu](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql-server-ver15)
 

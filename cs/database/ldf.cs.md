@@ -41,5 +41,4 @@ Soubor LDF se skládá ze záznamů transakcí serveru SQL Server, které jsou u
 ## Reference
 
 * [Databázové soubory a skupiny souborů](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [Průvodce architekturou a správou protokolu transakcí](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql- server-ver15)
-
+* [Průvodce architekturou a správou protokolu transakcí](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql-server-ver15)

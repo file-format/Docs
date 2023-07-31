@@ -41,5 +41,5 @@ Het LDF-bestand bestaat uit SQL Server-transactierecords die zijn gerangschikt a
 ## Referenties
 
 * [Databasebestanden en bestandsgroepen](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [Handleiding voor architectuur en beheer van transactielogboeken](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql- server-ver15)
+* [Handleiding voor architectuur en beheer van transactielogboeken](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql-server-ver15)
 

@@ -41,5 +41,5 @@ Tệp LDF bao gồm các bản ghi giao dịch SQL Server được sắp xếp d
 ## Người giới thiệu
 
 * [Tệp cơ sở dữ liệu và nhóm tệp](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [Hướng dẫn quản lý và kiến trúc nhật ký giao dịch](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-man Quản lý-guide?view=sql- máy chủ-ver15)
+* [Hướng dẫn quản lý và kiến trúc nhật ký giao dịch](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql-server-ver15)
 

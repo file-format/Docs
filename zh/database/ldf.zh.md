@@ -41,5 +41,5 @@ LDF 文件由排列为日志记录字符串的 SQL Server 事务记录组成。�
 ## 参考
 
 * [数据库文件和文件组](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [事务日志架构和管理指南](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql-服务器-ver15)
+* [事务日志架构和管理指南](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql-server-ver15)
 
