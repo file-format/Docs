@@ -34,7 +34,7 @@ Crystal Reports を使用すると、レポート開発者はビジネス ユー
 レポートを、明細書、請求書、販売および運用レポート、レター、出荷書類、マーケティング資料、コンプライアンス ドキュメント、業績評価指標などとしてデザインします。
 
 ### 互換性
-出力は、[XLS](/spreadsheet/xlsx/)、[CSV](/spreadsheet/csv/)、[PDF](/pdf/)、[DOCX](/word-processing/docx/) などの形式にエクスポートできます。、テキスト、またはピクセル単位の正確なデザインで印刷できます。
+出力は、[XLS](/ja/spreadsheet/xlsx/)、[CSV](/ja/spreadsheet/csv/)、[PDF](/ja/pdf/)、[DOCX](/ja/word-processing/docx/) などの形式にエクスポートできます。、テキスト、またはピクセル単位の正確なデザインで印刷できます。
 
 
 
