@@ -19,7 +19,7 @@
 
 ## Wat is een EOT-bestand?
 
-Een bestand met de extensie .eot is een OpenType-lettertype dat is ingesloten in een document. Deze worden meestal gebruikt in webbestanden zoals een webpagina. Het is gemaakt door Microsoft en wordt ondersteund door Microsoft-producten, inclusief het PowerPoint-presentatiebestand [.pps](/nl/presentation/pps). Het bestand is niet van primair gebruik en is een soort begeleidend document bij het hoofddocument of de webpagina. Net als bij OTF-lettertypen ondersteunt EOT zowel Postscript- als TrueType-contouren voor de glyphs. EOT-bestanden zijn kleiner omdat ze zijn gecomprimeerd met LZ-compressie. EOT gebruikt een Microsoft-tool om een lettertype te maken van bestaande TTF/OTF-lettertypen.
+Een bestand met de extensie .eot is een OpenType-lettertype dat is ingesloten in een document. Deze worden meestal gebruikt in webbestanden zoals een webpagina. Het is gemaakt door Microsoft en wordt ondersteund door Microsoft-producten, inclusief het PowerPoint-presentatiebestand [.pps](/nl/presentation/pps/). Het bestand is niet van primair gebruik en is een soort begeleidend document bij het hoofddocument of de webpagina. Net als bij OTF-lettertypen ondersteunt EOT zowel Postscript- als TrueType-contouren voor de glyphs. EOT-bestanden zijn kleiner omdat ze zijn gecomprimeerd met LZ-compressie. EOT gebruikt een Microsoft-tool om een lettertype te maken van bestaande TTF/OTF-lettertypen.
 
 ## Korte geschiedenis
 

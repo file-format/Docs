@@ -19,7 +19,7 @@
 
 ## 什么是一 .eot 文件？
 
-带有 .eot 扩展名的文件是嵌入在文档中的 OpenType 字体。这些主要用于 Web 文件，例如网页。它由 Microsoft 创建并受 Microsoft 产品支持，包括 PowerPoint 演示文稿 [.pps](/zh/presentation/pps) 文件。该文件不是主要用途，是主文档或网页的附带文档。与 OTF 字体类似，EOT 支持字形的 Postscript 和 TrueType 轮廓。 EOT 文件的大小较小，因为它们使用 LZ 压缩进行压缩。 EOT 使用 Microsoft 工具从现有的 TTF/OTF 字体创建字体。
+带有 .eot 扩展名的文件是嵌入在文档中的 OpenType 字体。这些主要用于 Web 文件，例如网页。它由 Microsoft 创建并受 Microsoft 产品支持，包括 PowerPoint 演示文稿 [.pps](/zh/presentation/pps/) 文件。该文件不是主要用途，是主文档或网页的附带文档。与 OTF 字体类似，EOT 支持字形的 Postscript 和 TrueType 轮廓。 EOT 文件的大小较小，因为它们使用 LZ 压缩进行压缩。 EOT 使用 Microsoft 工具从现有的 TTF/OTF 字体创建字体。
 
 ## 历史简介
 

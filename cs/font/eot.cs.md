@@ -19,7 +19,7 @@
 
 ## Co je soubor EOT?
 
-Soubor s příponou .eot je písmo OpenType, které je vložené do dokumentu. Ty se většinou používají ve webových souborech, jako je webová stránka. Byl vytvořen společností Microsoft a je podporován produkty společnosti Microsoft včetně souboru prezentace PowerPoint [.pps](/cs/presentation/pps). Soubor nemá primární použití a je jakýmsi doprovodným dokumentem s hlavním dokumentem nebo webovou stránkou. Podobně jako u písem OTF podporuje EOT pro glyfy obrysy Postscript i TrueType. Soubory EOT mají menší velikost z toho důvodu, že jsou komprimovány pomocí komprese LZ. EOT používá nástroj Microsoftu k vytvoření písma z existujících písem TTF/OTF.
+Soubor s příponou .eot je písmo OpenType, které je vložené do dokumentu. Ty se většinou používají ve webových souborech, jako je webová stránka. Byl vytvořen společností Microsoft a je podporován produkty společnosti Microsoft včetně souboru prezentace PowerPoint [.pps](/cs/presentation/pps/). Soubor nemá primární použití a je jakýmsi doprovodným dokumentem s hlavním dokumentem nebo webovou stránkou. Podobně jako u písem OTF podporuje EOT pro glyfy obrysy Postscript i TrueType. Soubory EOT mají menší velikost z toho důvodu, že jsou komprimovány pomocí komprese LZ. EOT používá nástroj Microsoftu k vytvoření písma z existujících písem TTF/OTF.
 
 ## Stručná historie
 

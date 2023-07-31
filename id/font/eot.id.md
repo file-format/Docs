@@ -19,7 +19,7 @@
 
 ## Apa itu file EOT?
 
-File dengan ekstensi .eot adalah font OpenType yang tertanam dalam dokumen. Ini sebagian besar digunakan dalam file web seperti halaman Web. Itu dibuat oleh Microsoft dan didukung oleh Produk Microsoft termasuk file presentasi PowerPoint [.pps](/id/presentation/pps). File tersebut bukan penggunaan utama dan semacam dokumen pendamping dengan dokumen utama atau halaman web. Mirip dengan font OTF, EOT mendukung kerangka Postscript dan TrueType untuk mesin terbang. File EOT berukuran lebih kecil karena dikompresi menggunakan kompresi LZ. EOT menggunakan alat Microsoft untuk membuat font dari font TTF/OTF yang ada.
+File dengan ekstensi .eot adalah font OpenType yang tertanam dalam dokumen. Ini sebagian besar digunakan dalam file web seperti halaman Web. Itu dibuat oleh Microsoft dan didukung oleh Produk Microsoft termasuk file presentasi PowerPoint [.pps](/id/presentation/pps/). File tersebut bukan penggunaan utama dan semacam dokumen pendamping dengan dokumen utama atau halaman web. Mirip dengan font OTF, EOT mendukung kerangka Postscript dan TrueType untuk mesin terbang. File EOT berukuran lebih kecil karena dikompresi menggunakan kompresi LZ. EOT menggunakan alat Microsoft untuk membuat font dari font TTF/OTF yang ada.
 
 ## Sejarah Singkat
 

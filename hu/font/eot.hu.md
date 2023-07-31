@@ -19,7 +19,7 @@
 
 ## Mi az EOT fájl?
 
-Az .eot kiterjesztésű fájl egy dokumentumba ágyazott OpenType betűtípus. Ezeket többnyire webfájlokban, például weboldalakban használják. A Microsoft készítette, és a Microsoft Products támogatja, beleértve a PowerPoint prezentáció [.pps](/hu/presentation/pps) fájlt is. A fájl nem elsődleges használat, és egyfajta kísérő dokumentum a fő dokumentummal vagy weboldallal. Az OTF betűtípusokhoz hasonlóan az EOT is támogatja a Postscript és a TrueType körvonalakat a karakterjelekhez. Az EOT-fájlok kisebb méretűek, mert LZ-tömörítéssel tömörítik őket. Az EOT egy Microsoft-eszközt használ a meglévő TTF/OTF betűtípusok létrehozásához.
+Az .eot kiterjesztésű fájl egy dokumentumba ágyazott OpenType betűtípus. Ezeket többnyire webfájlokban, például weboldalakban használják. A Microsoft készítette, és a Microsoft Products támogatja, beleértve a PowerPoint prezentáció [.pps](/hu/presentation/pps/) fájlt is. A fájl nem elsődleges használat, és egyfajta kísérő dokumentum a fő dokumentummal vagy weboldallal. Az OTF betűtípusokhoz hasonlóan az EOT is támogatja a Postscript és a TrueType körvonalakat a karakterjelekhez. Az EOT-fájlok kisebb méretűek, mert LZ-tömörítéssel tömörítik őket. Az EOT egy Microsoft-eszközt használ a meglévő TTF/OTF betűtípusok létrehozásához.
 
 ## Rövid története
 

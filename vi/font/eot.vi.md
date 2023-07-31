@@ -19,7 +19,7 @@
 
 ## Tệp EOT là gì?
 
-Tệp có phần mở rộng .eot là phông chữ OpenType được nhúng trong tài liệu. Chúng chủ yếu được sử dụng trong các tệp web, chẳng hạn như trang Web. Nó được tạo bởi Microsoft và được hỗ trợ bởi các Sản phẩm của Microsoft bao gồm tệp bản trình bày PowerPoint [.pps](/vi/presentation/pps). Tệp không được sử dụng chính và là loại tài liệu đi kèm với tài liệu hoặc trang web chính. Tương tự như các phông chữ OTF, EOT hỗ trợ cả phác thảo Postscript và TrueType cho các nét tượng trưng. Các tệp EOT có kích thước nhỏ hơn vì lý do chúng được nén bằng cách nén LZ. EOT sử dụng công cụ của Microsoft để tạo phông chữ từ các phông chữ TTF/OTF hiện có.
+Tệp có phần mở rộng .eot là phông chữ OpenType được nhúng trong tài liệu. Chúng chủ yếu được sử dụng trong các tệp web, chẳng hạn như trang Web. Nó được tạo bởi Microsoft và được hỗ trợ bởi các Sản phẩm của Microsoft bao gồm tệp bản trình bày PowerPoint [.pps](/vi/presentation/pps/). Tệp không được sử dụng chính và là loại tài liệu đi kèm với tài liệu hoặc trang web chính. Tương tự như các phông chữ OTF, EOT hỗ trợ cả phác thảo Postscript và TrueType cho các nét tượng trưng. Các tệp EOT có kích thước nhỏ hơn vì lý do chúng được nén bằng cách nén LZ. EOT sử dụng công cụ của Microsoft để tạo phông chữ từ các phông chữ TTF/OTF hiện có.
 
 ## Tóm tắt lịch sử
 

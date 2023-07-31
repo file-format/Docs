@@ -19,7 +19,7 @@
 
 ## Qu'est-ce qu'un fichier EOT ?
 
-Un fichier avec l'extension .eot est une police OpenType intégrée dans un document. Ceux-ci sont principalement utilisés dans les fichiers Web tels qu'une page Web. Il a été créé par Microsoft et est pris en charge par les produits Microsoft, y compris le fichier de présentation PowerPoint [.pps](/fr/presentation/pps). Le fichier n'est pas d'usage principal et est une sorte de document d'accompagnement avec le document principal ou la page Web. Semblable aux polices OTF, EOT prend en charge les contours Postscript et TrueType pour les glyphes. Les fichiers EOT sont plus petits car ils sont compressés à l'aide de la compression LZ. EOT utilise un outil Microsoft pour créer une police à partir de polices TTF/OTF existantes.
+Un fichier avec l'extension .eot est une police OpenType intégrée dans un document. Ceux-ci sont principalement utilisés dans les fichiers Web tels qu'une page Web. Il a été créé par Microsoft et est pris en charge par les produits Microsoft, y compris le fichier de présentation PowerPoint [.pps](/fr/presentation/pps/). Le fichier n'est pas d'usage principal et est une sorte de document d'accompagnement avec le document principal ou la page Web. Semblable aux polices OTF, EOT prend en charge les contours Postscript et TrueType pour les glyphes. Les fichiers EOT sont plus petits car ils sont compressés à l'aide de la compression LZ. EOT utilise un outil Microsoft pour créer une police à partir de polices TTF/OTF existantes.
 
 ## Bref historique
 
