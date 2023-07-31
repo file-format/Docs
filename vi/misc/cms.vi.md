@@ -31,5 +31,5 @@ Tệp cấu hình CMS được tạo bằng Trình quản lý kết nối và đ
 
 ## Người giới thiệu
 
-* [Hiểu và định cấu hình Trình quản lý kết nối Windows](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/under Hiểu-and-configure-windows-connection-manager)
+* [Hiểu và định cấu hình Trình quản lý kết nối Windows](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
 
