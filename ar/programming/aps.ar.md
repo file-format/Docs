@@ -26,7 +26,6 @@
 
 ## مراجع
 
-* [Resource Files (C ++)](https://learn.microsoft.com/en-us/cpp/windows/resource-files-visual-studio؟view=msvc-160)
- 
+* [Resource Files (C ++)](https://learn.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160) 
 
 
