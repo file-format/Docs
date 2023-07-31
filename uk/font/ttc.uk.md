@@ -55,6 +55,6 @@ TTC скорочено називається TrueType Collection — це ро�
 |uint32| dsigOffset |Зсув (у байтах) таблиці DSIG від початку файлу TTC (null, якщо немає підпису)|
 
 ## Список літератури
-* [Файл шрифту OpenType](https://docs.microsoft.com/en-us/typography/opentype/spec/otff)
+* [Файл шрифту OpenType](https://learn.microsoft.com/en-us/typography/opentype/spec/otff)
 * [TrueType (Вікіпедія)](https://en.wikipedia.org/wiki/TrueType)
 

@@ -35,6 +35,6 @@ MSIX файловете са [ZIP](/bg/compression/zip/)-компресиран�
 
 ## Препратки
 
-* [Общ преглед на MSIX](https://docs.microsoft.com/en-us/windows/msix/overview)
-* [Създайте APPX файлове с помощта на Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Общ преглед на MSIX](https://learn.microsoft.com/en-us/windows/msix/overview)
+* [Създайте APPX файлове с помощта на Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

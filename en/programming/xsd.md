@@ -27,7 +27,7 @@ XSD files are stored to disc in plain text file format that is human readable. A
 
 ## Example of XSD File
 
-A simple XSD file having a purchase order schema defines the elements using tags as shown in following [XSD example by Microsoft](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022).
+A simple XSD file having a purchase order schema defines the elements using tags as shown in following [XSD example by Microsoft](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022).
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
@@ -67,4 +67,4 @@ Here, the following tags are used.
 ## References ##
 
 - [Microsoft XML Notepad](https://microsoft.github.io/XmlNotepad/)
-- [XSD Sample Example](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
+- [XSD Sample Example](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)

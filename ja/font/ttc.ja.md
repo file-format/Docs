@@ -55,6 +55,6 @@ TTC ファイル内のテーブルは、それぞれのフォントのテーブ�
 |uint32| dsigOffset |TTC ファイルの先頭からの DSIG テーブルのオフセット (バイト単位) (署名がない場合は null)|
 
 ## 参考文献
-* [OpenType フォント ファイル](https://docs.microsoft.com/en-us/typography/opentype/spec/otff)
+* [OpenType フォント ファイル](https://learn.microsoft.com/en-us/typography/opentype/spec/otff)
 * [TrueType (ウィキペディア)](https://en.wikipedia.org/wiki/TrueType)
 

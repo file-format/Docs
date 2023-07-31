@@ -27,7 +27,7 @@ XLSX 文件格式于 2007 年推出，使用 Microsoft 早在 2000 年采用的 
 
 ## XLSX 文件格式规范
 
-官方的 [XLSX 文件格式规范](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) 可从 Microsoft 在线获得。为了查看 XLSX 文件中的内容，只需通过更改其扩展名将其重命名为 [ZIP](/zh/compression/zip/) 文件，然后将其解压缩以查看此 Excel 工作簿的组成文件。空白工作簿在提取到其文件时具有以下组成文件和文件夹。
+官方的 [XLSX 文件格式规范](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) 可从 Microsoft 在线获得。为了查看 XLSX 文件中的内容，只需通过更改其扩展名将其重命名为 [ZIP](/zh/compression/zip/) 文件，然后将其解压缩以查看此 Excel 工作簿的组成文件。空白工作簿在提取到其文件时具有以下组成文件和文件夹。
 
 ### [Content_Types].xml ###
 
@@ -77,6 +77,6 @@ XLSX 文件格式于 2007 年推出，使用 Microsoft 早在 2000 年采用的 
 
 ## 参考
 
-* [[MS-XLSX] - XLSX 文件格式](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [[MS-XLSX] - XLSX 文件格式](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 * [打开 Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

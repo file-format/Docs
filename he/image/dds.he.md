@@ -26,7 +26,7 @@
 
 ### פריסת קובץ DDS
 
-[פריסת הקובץ DDS](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) תועדה על ידי Microsoft בפירוט. קובץ DDS בינארי מכיל את המידע הבא.
+[פריסת הקובץ DDS](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) תועדה על ידי Microsoft בפירוט. קובץ DDS בינארי מכיל את המידע הבא.
 
 * DWORD (מספר קסם) המכיל את ערך הקוד של ארבעה תווים 'DDS' (0x20534444).
 * תיאור הנתונים בקובץ.
@@ -38,7 +38,7 @@ DWORD               dwMagic;
 DDS_HEADER          header;
 ```
 
-[מדריך התכנות של פורמט קובץ DDS](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) מרחיב עוד יותר את הפרטים הטכניים של פורמט קובץ זה.
+[מדריך התכנות של פורמט קובץ DDS](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) מרחיב עוד יותר את הפרטים הטכניים של פורמט קובץ זה.
 
 ## הפניות
 

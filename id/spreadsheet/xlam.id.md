@@ -30,5 +30,5 @@ Setelah ini, simpan file dengan ekstensi .xlam.
 
 ## Referensi ##
 
-- [Referensi format file - ](https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
+- [Referensi format file - ](https://learn.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
 

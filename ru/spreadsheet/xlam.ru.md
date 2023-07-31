@@ -30,5 +30,5 @@ End Function
 
 ## Использованная литература ##
 
-- [Справочник по формату файла -](https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
+- [Справочник по формату файла -](https://learn.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
 

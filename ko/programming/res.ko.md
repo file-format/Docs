@@ -56,7 +56,7 @@ RES 파일 형식은 Microsoft 리소스 컴파일러(rc)에 속합니다. 리�
 
 ## 참고문헌
 
-* [리소스 파일 형식](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
+* [리소스 파일 형식](https://learn.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
 
 

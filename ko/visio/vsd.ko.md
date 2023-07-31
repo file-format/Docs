@@ -32,6 +32,6 @@ Visio는 1992년 Shapeware Corporation에서 버전 1.0으로 독립 실행형 �
 
 ## 참조 ##
 
-* [Visio 파일 형식 소개](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
-* [스키마 맵 - Visio XML](https://docs.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
+* [Visio 파일 형식 소개](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [스키마 맵 - Visio XML](https://learn.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
 

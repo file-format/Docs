@@ -26,7 +26,7 @@ Format file APS hanyalah langkah kompilasi dan hanya menyimpan data simbolik. In
 
 ## Referensi
 
-* [File Sumber Daya (C++)](https://docs.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
+* [File Sumber Daya (C++)](https://learn.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
  
 
 

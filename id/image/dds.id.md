@@ -26,7 +26,7 @@ File DDS disimpan sebagai file biner dan dapat digunakan dengan DirectX SDK. Ini
 
 ### Tata Letak Berkas DDS
 
-[Tata letak file DDS](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) telah didokumentasikan oleh Microsoft secara mendetail. File DDS biner berisi informasi berikut.
+[Tata letak file DDS](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) telah didokumentasikan oleh Microsoft secara mendetail. File DDS biner berisi informasi berikut.
 
 * DWORD (angka ajaib) yang berisi nilai kode empat karakter 'DDS' (0x20534444).
 * Deskripsi data dalam file.
@@ -38,7 +38,7 @@ DWORD               dwMagic;
 DDS_HEADER          header;
 ```
 
-[Panduan pemrograman format file DDS](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) menguraikan lebih lanjut detail teknis format file ini.
+[Panduan pemrograman format file DDS](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) menguraikan lebih lanjut detail teknis format file ini.
 
 ## Referensi
 

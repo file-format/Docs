@@ -54,6 +54,6 @@ Con questa intestazione, il preprocessore controlla se `ANY_UNIQUE_NAME_HERE_HPP
 
 ## Riferimenti
 
-* [File di intestazione - Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [File di intestazione - Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 * [Differenza tra i formati di file .h e .hh](https://stackoverflow.com/questions/10354321/c-reason-why-using-hh-as-extension-for-c-header-files)
 

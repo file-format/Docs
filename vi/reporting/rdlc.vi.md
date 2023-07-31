@@ -43,5 +43,5 @@ Bạn chỉ có thể xem trước báo cáo bằng cách chạy nó trong đi�
 
 ## Người giới thiệu ##
 
-- [Tạo tệp định nghĩa báo cáo khách hàng (.rdlc)](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
+- [Tạo tệp định nghĩa báo cáo khách hàng (.rdlc)](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
 

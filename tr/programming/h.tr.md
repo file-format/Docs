@@ -120,5 +120,5 @@ namespace N  // namespace declaration
 
 ## Referanslar
 
-* [Başlık Dosyalayıcıları - Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [Başlık Dosyalayıcıları - Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 

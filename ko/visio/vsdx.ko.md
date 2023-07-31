@@ -50,5 +50,5 @@ Visio 파일의 관계 부분은 "\_rels" 폴더에 저장되며 패키지 내�
 
 ## 참조 ##
 
-* [Visio 파일 형식 소개](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Visio 파일 형식 소개](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

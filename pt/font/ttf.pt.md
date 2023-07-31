@@ -90,5 +90,5 @@ Cada tabela em um arquivo de fonte deve ter sua própria entrada de diretório d
 
 ## Referências
 * [Manual de referência de fonte TrueType](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [Visão geral do TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Visão geral do TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

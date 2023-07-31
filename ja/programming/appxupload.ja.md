@@ -27,5 +27,5 @@ APPXBUNDLE ファイルはバイナリ ファイル形式でディスクに保�
 
 ## 参考文献
 
-* [アプリ パッケージの種類](https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
+* [アプリ パッケージの種類](https://learn.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
 

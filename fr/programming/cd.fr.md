@@ -45,5 +45,5 @@ Visual Studio permet de convertir/exporter des diagrammes de classes vers des im
 
 ## Références
 
-* [Classes de conception dans Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
+* [Classes de conception dans Visual Studio](https://learn.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
 

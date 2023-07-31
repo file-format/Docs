@@ -55,6 +55,6 @@ Hier sind die TTC-Header-Tabellen beider Versionen:
 |uint32| dsigOffset |Der Offset (in Bytes) der DSIG-Tabelle vom Anfang der TTC-Datei (null, wenn keine Signatur)|
 
 ## Verweise
-* [Die OpenType-Schriftartdatei](https://docs.microsoft.com/en-us/typography/opentype/spec/otff)
+* [Die OpenType-Schriftartdatei](https://learn.microsoft.com/en-us/typography/opentype/spec/otff)
 * [TrueType (Wikipedia)](https://en.wikipedia.org/wiki/TrueType)
 

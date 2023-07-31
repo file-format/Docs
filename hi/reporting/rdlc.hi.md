@@ -43,5 +43,5 @@ ReportViewer नियंत्रण का उपयोग नियंत्�
 
 ## संदर्भ ##
 
-- [ग्राहक रिपोर्ट परिभाषा (.rdlc) फ़ाइलें बनाना](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
+- [ग्राहक रिपोर्ट परिभाषा (.rdlc) फ़ाइलें बनाना](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
 

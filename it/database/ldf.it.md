@@ -40,6 +40,6 @@ Il file LDF è costituito da record di transazione di SQL Server organizzati com
 
 ## Riferimenti
 
-* [File di database e filegroup](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [Guida all'architettura e alla gestione del registro delle transazioni](https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql- server-ver15)
+* [File di database e filegroup](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
+* [Guida all'architettura e alla gestione del registro delle transazioni](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql- server-ver15)
 

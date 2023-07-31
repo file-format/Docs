@@ -54,6 +54,6 @@ HTML Yardımı birkaç bileşenden oluşur. Bunlar aşağıdakileri içerir:
 
 ## Referanslar
 
-* [Microsoft HTML Yardımı](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [Microsoft HTML Yardımı](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 * [Microsoft Derlenmiş HTML Yardımı](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 

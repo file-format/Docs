@@ -40,6 +40,6 @@ TRANSFORMS=transform1.mst;transform2.mst;transform3.mst
 ## อ้างอิง
 
 * [ไฟล์การแปลง MST](https://www.exemsi.com/documentation/mst-transformation-files/)
-* [คุณสมบัติ TRANSFORMS](https://docs.microsoft.com/en-us/windows/win32/msi/transforms)
+* [คุณสมบัติ TRANSFORMS](https://learn.microsoft.com/en-us/windows/win32/msi/transforms)
 
 

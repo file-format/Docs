@@ -54,6 +54,6 @@ A HTML Help több összetevőből áll. Ezek a következők:
 
 ## Hivatkozások
 
-* [Microsoft HTML súgó](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [Microsoft HTML súgó](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 * [Microsoft Compiled HTML Help](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 

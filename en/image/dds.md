@@ -26,7 +26,7 @@ DDS files are saved as binary files and can be used with DirectX SDK. It utilize
 
 ### DDS File Layout
 
-The [DDS file layout](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) has been documented by Microsoft in detail. A binary DDS file contains the following information.
+The [DDS file layout](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) has been documented by Microsoft in detail. A binary DDS file contains the following information.
 
  * A DWORD (magic number) containing the four character code value 'DDS ' (0x20534444).
  * A description of the data in the file.
@@ -38,7 +38,7 @@ DWORD               dwMagic;
 DDS_HEADER          header;
 ```
 
-The [programming guide of DDS file format](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) further elaborates the technical details of this file format.
+The [programming guide of DDS file format](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) further elaborates the technical details of this file format.
 
 ## References
 

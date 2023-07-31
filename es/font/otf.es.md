@@ -82,6 +82,6 @@ Para cada tabla de nivel superior en la fuente, hay un registro de tabla que con
 Cada tabla en el archivo de fuente OpenType está representada por nombres conocidos como etiquetas de tabla. Es imprescindible que todos los registros de la matriz se ordenen en orden ascendente por etiqueta.
 
 ## Referencias
-* [Especificaciones de fuentes OpenType de Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [Descripción general de TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Especificaciones de fuentes OpenType de Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [Descripción general de TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

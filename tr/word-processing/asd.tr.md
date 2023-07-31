@@ -31,5 +31,5 @@ Orijinal dosyalara göre oluşturulan ASD dosyaları, orijinal belgenin yanında
 
 ## Referanslar
 
-* [Microsoft Word Belgesini Kurtarın](https://docs.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
+* [Microsoft Word Belgesini Kurtarın](https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
 

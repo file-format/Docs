@@ -63,5 +63,5 @@ ASPError 개체는 ASP 3.0에서 구현되었으며 IIS5 이상에서 사용할 
 ## 참고문헌
 
 * [ASP - By W3C](https://www.w3schools.com/asp/default.asp)
-* [간단한 ASP 페이지 만들기](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [간단한 ASP 페이지 만들기](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

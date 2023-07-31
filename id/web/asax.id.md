@@ -59,5 +59,5 @@ File ASAX tunggal terdiri dari beberapa bagian yang ditulis untuk menangani keja
 ## Referensi
 
 * [Ringkasan HTTP Handler dan Modul HTTP](https://msdn.microsoft.com/en-us/library/bb398986(v=vs.100))
-* [Sintaks Global.asax](https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
+* [Sintaks Global.asax](https://learn.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
 

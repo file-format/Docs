@@ -23,7 +23,7 @@ Soubor s příponou .vbproj je soubor projektu Microsoft Visual Basic, který po
 
 ## Formát souboru VBPROJ - Další informace
 
-Soubory VBPROJ jsou textové soubory, které jsou napsány ve formátu souboru [XML](/cs/web/xml/) na základě [MSBuild XML Schema](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild- project-file-schema-reference?view=vs-2019). Soubor VBPROJ obsahuje informace ve formě značek XML, které definují informace související s konkrétní skupinou nastavení. Důrazně se doporučuje otevřít a upravit tyto soubory nastavení v Microsoft Visual Studio IDE.
+Soubory VBPROJ jsou textové soubory, které jsou napsány ve formátu souboru [XML](/cs/web/xml/) na základě [MSBuild XML Schema](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild- project-file-schema-reference?view=vs-2019). Soubor VBPROJ obsahuje informace ve formě značek XML, které definují informace související s konkrétní skupinou nastavení. Důrazně se doporučuje otevřít a upravit tyto soubory nastavení v Microsoft Visual Studio IDE.
 
 ### Prvky VBPROJ
 
@@ -42,6 +42,6 @@ Následující tabulka poskytuje stručný popis těchto prvků.
 
 ## Reference
 
-* [Porozumění souboru projektu](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
-* [Prvky schématu MSBuild](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
+* [Porozumění souboru projektu](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
+* [Prvky schématu MSBuild](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
 

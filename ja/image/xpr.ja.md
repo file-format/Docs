@@ -27,5 +27,5 @@ XPR ファイルは、Microsoft Expression Design の脆弱性を利用してリ
 
 ## 参考文献
 
-* [式の設計の脆弱性により、リモートでコードが実行される (2651018)](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
+* [式の設計の脆弱性により、リモートでコードが実行される (2651018)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
 

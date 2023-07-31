@@ -23,7 +23,7 @@ DOCX es un formato muy conocido para documentos de Microsoft Word. Introducido a
 
 ## Breve historia ##
 
-Después de que Microsoft abrió las especificaciones para el formato de archivo DOC, fue fácil para sus competidores aplicar ingeniería inversa al formato y proporcionar el mismo soporte en sus propias aplicaciones. Además, la competencia de Open Office en forma de formato de documento abierto obligó a Microsoft a adoptar estándares más abiertos y amplios. Fue a principios de 2000 cuando Microsoft decidió apostar por el cambio para adaptarse al estándar de **Office Open XML**. Los documentos bajo este nuevo estándar recibieron [extensión .docx](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), la "X" siendo para XML. En 2007, este nuevo formato de archivo pasó a formar parte de Office 2007 y también se mantiene en las nuevas versiones de Microsoft Office. El nuevo tipo de archivo ha agregado ventajas de tamaño de archivo pequeño, menos cambios de corrupción y representación de imágenes con buen formato.
+Después de que Microsoft abrió las especificaciones para el formato de archivo DOC, fue fácil para sus competidores aplicar ingeniería inversa al formato y proporcionar el mismo soporte en sus propias aplicaciones. Además, la competencia de Open Office en forma de formato de documento abierto obligó a Microsoft a adoptar estándares más abiertos y amplios. Fue a principios de 2000 cuando Microsoft decidió apostar por el cambio para adaptarse al estándar de **Office Open XML**. Los documentos bajo este nuevo estándar recibieron [extensión .docx](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), la "X" siendo para XML. En 2007, este nuevo formato de archivo pasó a formar parte de Office 2007 y también se mantiene en las nuevas versiones de Microsoft Office. El nuevo tipo de archivo ha agregado ventajas de tamaño de archivo pequeño, menos cambios de corrupción y representación de imágenes con buen formato.
 
 ## Especificaciones del formato de archivo DOCX: más información
 
@@ -105,6 +105,6 @@ Un párrafo es el titular del contenido principal dentro de un documento. Está 
 
 ## Referencias ##
 
-* [MS - Formato de archivo DOCX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
+* [MS - Formato de archivo DOCX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
 * [Office Open XML](http://officeopenxml.com/)
 

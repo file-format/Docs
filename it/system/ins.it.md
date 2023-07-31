@@ -48,6 +48,6 @@ Le possibili impostazioni INS sono riportate nella tabella seguente:
 
 ## Riferimenti
 
-* [Utilizzo di file di impostazioni Internet (.INS) con IEAK 11](https://docs.microsoft.com/en-us/internet-explorer/ie11-ieak/using-internet-settings-ins-files)
+* [Utilizzo di file di impostazioni Internet (.INS) con IEAK 11](https://learn.microsoft.com/en-us/internet-explorer/ie11-ieak/using-internet-settings-ins-files)
 
 

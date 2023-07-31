@@ -24,7 +24,7 @@
 
 นักพัฒนาสามารถสร้างไฟล์โครงการได้ด้วยตนเอง รวมทั้งใช้ [MSBuild XML Schema](https://msdn.microsoft.com/library/5dy88c2e.aspx) โครงสร้างแบบเปิดและโปร่งใสของไฟล์โครงการช่วยให้นักพัฒนาแอปพลิเคชันกำหนดวิธีการสร้างและปรับใช้โครงการที่ซับซ้อนและละเอียด เนื้อหาของไฟล์โครงการดังกล่าวมีความสัมพันธ์ที่ชัดเจนระหว่างกัน รูปภาพต่อไปนี้แสดงองค์ประกอบหลักและความสัมพันธ์ระหว่างองค์ประกอบเหล่านี้สำหรับไฟล์โครงการดังกล่าว
 
-![](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
+![](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
 
 ส่วนต่อไปนี้อธิบายองค์ประกอบของรูปแบบไฟล์สำหรับไฟล์โครงการ
 
@@ -94,5 +94,5 @@
 
 ## อ้างอิง
 
-* [การทำความเข้าใจไฟล์โครงการ - MSDN](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- ไฟล์)
+* [การทำความเข้าใจไฟล์โครงการ - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- ไฟล์)
 

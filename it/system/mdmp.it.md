@@ -51,5 +51,5 @@ I passaggi seguenti possono essere usati per aprire un file MDMP in Visual Studi
 
 ## Riferimento
 
-* [Come leggere il file di dump della memoria di piccole dimensioni creato da Windows in caso di arresto anomalo](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -file)
+* [Come leggere il file di dump della memoria di piccole dimensioni creato da Windows in caso di arresto anomalo](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -file)
 

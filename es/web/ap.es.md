@@ -27,5 +27,5 @@ Los archivos AP se alojan en el servidor web con la ayuda de un software compati
 ## Referencias
 
 * [ASP - Por W3C](https://www.w3schools.com/asp/default.asp)
-* [Creación de páginas ASP simples](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Creación de páginas ASP simples](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

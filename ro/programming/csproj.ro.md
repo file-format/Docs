@@ -24,7 +24,7 @@ Fișierele cu extensia CSPROJ reprezintă un fișier de proiect C# care conține
 
 Dezvoltatorii pot crea fișiere de proiect singuri și respectând [MSBuild XML Schema](https://msdn.microsoft.com/library/5dy88c2e.aspx). Structura deschisă și transparentă a fișierelor de proiect permite dezvoltatorilor de aplicații să impună un control sofisticat și precis asupra modului în care proiectele sunt construite și implementate. Conținutul unui astfel de fișier de proiect are o relație foarte clară între ele. Figura următoare prezintă elemente cheie și relația dintre acestea pentru un astfel de fișier de proiect.
 
-![](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
+![](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
 
 Următoarele secțiuni elaborează elementele de format de fișier pentru un fișier de proiect.
 
@@ -94,5 +94,5 @@ Sarcinile trebuie să fie întotdeauna conținute în elementele [Target](https:
 
 ## Referințe
 
-* [Înțelegerea fișierului de proiect - MSDN](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- fişier)
+* [Înțelegerea fișierului de proiect - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- fişier)
 

@@ -27,5 +27,5 @@ ASR-filen innehåller skript som är utvecklat i standardskriptspråk. Den kan �
 ## Referenser
 
 * [Adobe Contribute - av Wikipedia](https://en.wikipedia.org/wiki/Adobe_Contribute)
-* [Skapa enkla ASP-sidor](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Skapa enkla ASP-sidor](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

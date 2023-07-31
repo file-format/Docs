@@ -23,11 +23,11 @@ Soubor s příponou .addin je soubor definice doplňku vytvořený aplikací Mic
 
 ## ADDIN File Format – Další informace
 
-Soubory ADDIN se ukládají na disk ve formátu souboru XML, který je čitelný člověkem. Lze jej otevřít v oblíbených textových editorech včetně Notepadu, Notepad++, Microsoft Visual Studio IDE a mnoha dalších. Microsoft definoval [soubor manifestu XML](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) Office Add -in popisuje, jak by se měl doplněk aktivovat po jeho instalaci a použití s dokumenty a aplikacemi Office.
+Soubory ADDIN se ukládají na disk ve formátu souboru XML, který je čitelný člověkem. Lze jej otevřít v oblíbených textových editorech včetně Notepadu, Notepad++, Microsoft Visual Studio IDE a mnoha dalších. Microsoft definoval [soubor manifestu XML](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) Office Add -in popisuje, jak by se měl doplněk aktivovat po jeho instalaci a použití s dokumenty a aplikacemi Office.
 
-**Viz také:** [Jak vytvořit doplněk Office COM pomocí Visual C# .NET](https://docs.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
+**Viz také:** [Jak vytvořit doplněk Office COM pomocí Visual C# .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
 
 ## Reference
 
-* [Manifest XML doplňků Office](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1)
+* [Manifest XML doplňků Office](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1)
 

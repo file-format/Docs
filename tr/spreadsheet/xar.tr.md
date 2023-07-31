@@ -32,6 +32,6 @@ XAR dosyaları, XLS, XLSX ve diğerleri gibi her tür Excel dosya biçimini kayd
 
 ## Referanslar
 
-* [Excel'de Otomatik Kurtarma İşlevleri](https://docs.microsoft.com/en-us/office/troubleshoot/excel/autorecover-functions-in-excel)
+* [Excel'de Otomatik Kurtarma İşlevleri](https://learn.microsoft.com/en-us/office/troubleshoot/excel/autorecover-functions-in-excel)
 * [XAR Dosya Topluluğu Yardımı](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_excel-mso_win10-mso_365hp/2016-excel-xar-files/5af5e10c-027a-4c24-a403-39e9c590ce8f)
 

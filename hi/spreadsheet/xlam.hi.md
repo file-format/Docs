@@ -30,5 +30,5 @@ End Function
 
 ## संदर्भ ##
 
-- [फ़ाइल प्रारूप संदर्भ -](https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
+- [फ़ाइल प्रारूप संदर्भ -](https://learn.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
 

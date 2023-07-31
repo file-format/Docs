@@ -43,5 +43,5 @@ Sie können einen Bericht nur in der Vorschau anzeigen, indem Sie ihn in einem *
 
 ## Verweise ##
 
-- [Erstellen von Client-Berichtsdefinitionsdateien (.rdlc)](https://docs.microsoft.com/en-us/ previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
+- [Erstellen von Client-Berichtsdefinitionsdateien (.rdlc)](https://learn.microsoft.com/en-us/ previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
 

@@ -40,6 +40,6 @@ TRANSFORMS=transform1.mst;transform2.mst;transform3.mst
 ## הפניות
 
 * [קבצי טרנספורמציה MST](https://www.exemsi.com/documentation/mst-transformation-files/)
-* [מאפיין TRANSFORMS](https://docs.microsoft.com/en-us/windows/win32/msi/transforms)
+* [מאפיין TRANSFORMS](https://learn.microsoft.com/en-us/windows/win32/msi/transforms)
 
 

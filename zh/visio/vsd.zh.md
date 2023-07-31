@@ -32,6 +32,6 @@ Visio 最初是由 Shapeware Corporation 于 1992 年以其 1.0 版作为独立�
 
 ## 参考 ＃＃
 
-* [Visio 文件格式简介](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
-* [架构图 - Visio XML](https://docs.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
+* [Visio 文件格式简介](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [架构图 - Visio XML](https://learn.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
 

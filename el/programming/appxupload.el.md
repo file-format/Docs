@@ -27,5 +27,5 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Τύποι πακέτων εφαρμογών](https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
+* [Τύποι πακέτων εφαρμογών](https://learn.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
 

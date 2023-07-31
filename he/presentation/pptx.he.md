@@ -27,7 +27,7 @@
 
 ## מפרטי פורמט קובץ PPTX
 
-קבצים שנוצרו בפורמט קובץ Open XML של Office הוא אוסף של קובצי XML יחד עם קבצים אחרים המספקים קישורים בין כל הקבצים המרכיבים אותם. אוסף זה הוא למעשה ארכיון דחוס שניתן לחלץ כדי לראות את תוכנו. כדי לעשות זאת, פשוט שנה את שם סיומת הקובץ PPTX ל-zip וחלץ אותה לצורך התבוננות בתוכן שלה (ראה [מפרט פורמט קובץ PPTX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/ efd8bb2d-d888-4e2e-af25-cad476730c9f) מאת מיקרוסופט).
+קבצים שנוצרו בפורמט קובץ Open XML של Office הוא אוסף של קובצי XML יחד עם קבצים אחרים המספקים קישורים בין כל הקבצים המרכיבים אותם. אוסף זה הוא למעשה ארכיון דחוס שניתן לחלץ כדי לראות את תוכנו. כדי לעשות זאת, פשוט שנה את שם סיומת הקובץ PPTX ל-zip וחלץ אותה לצורך התבוננות בתוכן שלה (ראה [מפרט פורמט קובץ PPTX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/ efd8bb2d-d888-4e2e-af25-cad476730c9f) מאת מיקרוסופט).
 
 הסעיפים הבאים שופכים מעט אור על כל אחד מאלה.
 
@@ -90,6 +90,6 @@
 
 ## הפניות ##
 
-* [[MS-PPTX] - פורמט קובץ PPTX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
+* [[MS-PPTX] - פורמט קובץ PPTX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
 

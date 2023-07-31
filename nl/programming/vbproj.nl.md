@@ -23,7 +23,7 @@ Een bestand met de extensie .vbproj is een Microsoft Visual Basic-projectbestand
 
 ## VBPROJ-bestandsindeling - Meer informatie
 
-VBPROJ-bestanden zijn tekstbestanden die zijn geschreven in de bestandsindeling [XML](/nl/web/xml/) op basis van het [MSBuild XML Schema](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild- project-file-schema-reference?view=vs-2019). Een VBPROJ-bestand bevat informatie in de vorm van XML-tags die informatie definiëren met betrekking tot die specifieke groep instellingen. Het wordt ten zeerste aanbevolen om deze instellingsbestanden te openen en te bewerken in Microsoft Visual Studio IDE.
+VBPROJ-bestanden zijn tekstbestanden die zijn geschreven in de bestandsindeling [XML](/nl/web/xml/) op basis van het [MSBuild XML Schema](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild- project-file-schema-reference?view=vs-2019). Een VBPROJ-bestand bevat informatie in de vorm van XML-tags die informatie definiëren met betrekking tot die specifieke groep instellingen. Het wordt ten zeerste aanbevolen om deze instellingsbestanden te openen en te bewerken in Microsoft Visual Studio IDE.
 
 ### VBPROJ-elementen
 
@@ -42,6 +42,6 @@ De volgende tabel geeft een korte beschrijving van deze elementen.
 
 ## Referenties
 
-* [Het projectbestand begrijpen](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
-* [MSBuild-schema-elementen](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
+* [Het projectbestand begrijpen](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
+* [MSBuild-schema-elementen](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
 

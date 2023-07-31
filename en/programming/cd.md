@@ -45,4 +45,4 @@ Visual Studio allows to convert/export class diagrams to images such as [PNG](/i
 
 ## References
 
-* [Design Classes in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
+* [Design Classes in Visual Studio](https://learn.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)

@@ -19,7 +19,7 @@
 
 ## 什么是一 .bcp 文件？
 
-BCP（批量复制格式）是 Microsoft SQL Server 的技术数据格式，它定义数据结构以存储不同的数据库数据类型值以进行导入/导出。该格式完全定义了每个数据列的解释，以便可以读取数据文件中指定的一组值。 [BCP](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/ms162802(v=sql.105)) 实用程序使用 BCP 文件格式读取来自此类文件的数据并识别它。
+BCP（批量复制格式）是 Microsoft SQL Server 的技术数据格式，它定义数据结构以存储不同的数据库数据类型值以进行导入/导出。该格式完全定义了每个数据列的解释，以便可以读取数据文件中指定的一组值。 [BCP](https://learn.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/ms162802(v=sql.105)) 实用程序使用 BCP 文件格式读取来自此类文件的数据并识别它。
 
 
 ## BCP 文件格式
@@ -59,5 +59,5 @@ BCP 格式文件是定义列顺序、名称和数据类型的 XML 文档。它�
 
 ## 参考
 
-* [BCP 格式 - 微软](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
+* [BCP 格式 - 微软](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
 

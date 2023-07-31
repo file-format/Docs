@@ -32,5 +32,5 @@ HDMP는 압축되지 않은 메모리 덤프 파일입니다. 대조적으로 MD
 
 ## 참조 ##
 
-* [DMP - 마이크로소프트](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
+* [DMP - 마이크로소프트](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
 

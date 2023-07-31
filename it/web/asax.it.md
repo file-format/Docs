@@ -59,5 +59,5 @@ Un singolo file ASAX è costituito da più sezioni scritte per gestire gli event
 ## Riferimenti
 
 * [Panoramica dei gestori HTTP e dei moduli HTTP](https://msdn.microsoft.com/en-us/library/bb398986(v=vs.100))
-* [Sintassi Global.asax](https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
+* [Sintassi Global.asax](https://learn.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
 

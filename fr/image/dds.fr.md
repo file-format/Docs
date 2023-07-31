@@ -26,7 +26,7 @@ Les fichiers DDS sont enregistrés sous forme de fichiers binaires et peuvent ê
 
 ### Disposition du fichier DDS
 
-La [mise en page du fichier DDS](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) a été documentée en détail par Microsoft. Un fichier DDS binaire contient les informations suivantes.
+La [mise en page du fichier DDS](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) a été documentée en détail par Microsoft. Un fichier DDS binaire contient les informations suivantes.
 
 * Un DWORD (numéro magique) contenant la valeur de code à quatre caractères 'DDS' (0x20534444).
 * Une description des données dans le fichier.
@@ -38,7 +38,7 @@ DWORD               dwMagic;
 DDS_HEADER          header;
 ```
 
-Le [guide de programmation du format de fichier DDS](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) détaille les détails techniques de ce format de fichier.
+Le [guide de programmation du format de fichier DDS](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) détaille les détails techniques de ce format de fichier.
 
 ## Références
 

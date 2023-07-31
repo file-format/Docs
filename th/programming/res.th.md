@@ -56,7 +56,7 @@
 
 ## อ้างอิง
 
-* [รูปแบบไฟล์ทรัพยากร](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
+* [รูปแบบไฟล์ทรัพยากร](https://learn.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
 
 

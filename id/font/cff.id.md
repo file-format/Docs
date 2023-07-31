@@ -23,7 +23,7 @@ File dengan ekstensi .cff adalah Compact Font Format dan juga dikenal sebagai Po
 
 ## Format File CFF
 
-File CFF adalah file biner yang berisi tata letak data terstruktur, memiliki tipe data yang ditentukan, header, organisasi mesin terbang, dan kamus tabel. Detail selengkapnya tentang ini dapat ditemukan di [spesifikasi format font ringkas](https://docs.microsoft.com/en-us/typography/opentype/spec/cff).
+File CFF adalah file biner yang berisi tata letak data terstruktur, memiliki tipe data yang ditentukan, header, organisasi mesin terbang, dan kamus tabel. Detail selengkapnya tentang ini dapat ditemukan di [spesifikasi format font ringkas](https://learn.microsoft.com/en-us/typography/opentype/spec/cff).
 
 ### Tata Letak Data
 Tata letak data format file CFF adalah seperti yang ditunjukkan di bawah ini.
@@ -68,7 +68,7 @@ Data biner dimulai dengan header yang memiliki format yang ditunjukkan pada tabe
 
 ## Referensi
 
-* [Tabel Format Font Ringkas](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+* [Tabel Format Font Ringkas](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
 * [Format File CFF](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
-* [Set Bagan CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+* [Set Bagan CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

@@ -27,7 +27,7 @@ Các tệp có phần mở rộng PPTX là các tệp trình bày được tạo
 
 ## Thông số kỹ thuật định dạng tệp PPTX
 
-Các tệp được tạo bằng định dạng tệp Office Open XML là một tập hợp các tệp XML cùng với các tệp khác cung cấp liên kết giữa tất cả các tệp cấu thành. Bộ sưu tập này thực sự là một kho lưu trữ nén có thể được giải nén để xem nội dung của nó. Để làm như vậy, chỉ cần đổi tên phần mở rộng tệp PPTX bằng zip và giải nén nó để quan sát nội dung của nó (Xem [Thông số định dạng tệp PPTX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/ efd8bb2d-d888-4e2e-af25-cad476730c9f) của Microsoft).
+Các tệp được tạo bằng định dạng tệp Office Open XML là một tập hợp các tệp XML cùng với các tệp khác cung cấp liên kết giữa tất cả các tệp cấu thành. Bộ sưu tập này thực sự là một kho lưu trữ nén có thể được giải nén để xem nội dung của nó. Để làm như vậy, chỉ cần đổi tên phần mở rộng tệp PPTX bằng zip và giải nén nó để quan sát nội dung của nó (Xem [Thông số định dạng tệp PPTX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/ efd8bb2d-d888-4e2e-af25-cad476730c9f) của Microsoft).
 
 Các phần sau đây làm sáng tỏ từng phần trong số này.
 
@@ -90,6 +90,6 @@ và các tệp xml sau:
 
 ## Người giới thiệu ##
 
-* [[MS-PPTX] - Định dạng tệp PPTX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
+* [[MS-PPTX] - Định dạng tệp PPTX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
 

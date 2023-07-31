@@ -31,7 +31,7 @@ Excel ger lättanvända steg för att spela in ett makro. Det kräver att du har
 
 ## Excel-objektmodell ##
 
-Makron använder VBA-rutiner på baksidan och följer [Excel Object Model](https://docs.microsoft.com/en-us/office/vba/api/overview/excel/object-model) för detta ändamål. Denna modell identifierar objekten i ett kalkylblad för interaktion med kalkylarket genom användardefinierade kommandoverktygsfält, kommandofält eller meddelanderutor. Till exempel beviljas åtkomst till arbetsbokens egenskaper med Workbook-objektet. På samma sätt finns det ett kalkylbladsobjekt i modellen för att arbeta med kalkylbladen i arbetsboken programmatiskt.
+Makron använder VBA-rutiner på baksidan och följer [Excel Object Model](https://learn.microsoft.com/en-us/office/vba/api/overview/excel/object-model) för detta ändamål. Denna modell identifierar objekten i ett kalkylblad för interaktion med kalkylarket genom användardefinierade kommandoverktygsfält, kommandofält eller meddelanderutor. Till exempel beviljas åtkomst till arbetsbokens egenskaper med Workbook-objektet. På samma sätt finns det ett kalkylbladsobjekt i modellen för att arbeta med kalkylbladen i arbetsboken programmatiskt.
 
 ## Makron och säkerhet ##
 

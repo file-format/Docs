@@ -27,5 +27,5 @@
 
 ## Список літератури
 
-* [Типи пакетів програм](https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
+* [Типи пакетів програм](https://learn.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
 

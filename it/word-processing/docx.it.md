@@ -23,7 +23,7 @@ DOCX è un formato ben noto per i documenti di Microsoft Word. Introdotto dal 20
 
 ## Breve storia ##
 
-Dopo che Microsoft ha aperto le specifiche per il formato di file DOC, è stato facile per i suoi concorrenti decodificare il formato e fornire lo stesso supporto nelle proprie applicazioni. Inoltre, la concorrenza di Open Office nella forma del suo Open Document Format, ha costretto Microsoft ad adottare standard più aperti e ampi. Fu all'inizio del 2000 quando Microsoft decise di adottare la modifica per accogliere lo standard per **Office Open XML**. Ai documenti in base a questo nuovo standard è stata assegnata [estensione .docx](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), la "X" essendo per XML. Entro il 2007, questo nuovo formato di file è entrato a far parte di Office 2007 e viene mantenuto anche nelle nuove versioni di Microsoft Office. Il nuovo tipo di file ha aggiunto vantaggi di file di piccole dimensioni, meno modifiche alla corruzione e rappresentazione delle immagini ben formattata.
+Dopo che Microsoft ha aperto le specifiche per il formato di file DOC, è stato facile per i suoi concorrenti decodificare il formato e fornire lo stesso supporto nelle proprie applicazioni. Inoltre, la concorrenza di Open Office nella forma del suo Open Document Format, ha costretto Microsoft ad adottare standard più aperti e ampi. Fu all'inizio del 2000 quando Microsoft decise di adottare la modifica per accogliere lo standard per **Office Open XML**. Ai documenti in base a questo nuovo standard è stata assegnata [estensione .docx](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), la "X" essendo per XML. Entro il 2007, questo nuovo formato di file è entrato a far parte di Office 2007 e viene mantenuto anche nelle nuove versioni di Microsoft Office. Il nuovo tipo di file ha aggiunto vantaggi di file di piccole dimensioni, meno modifiche alla corruzione e rappresentazione delle immagini ben formattata.
 
 ## Specifiche del formato file DOCX - Ulteriori informazioni
 
@@ -105,6 +105,6 @@ Un paragrafo è il principale titolare del contenuto all'interno di un documento
 
 ## Riferimenti ##
 
-* [Formato file MS - DOCX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
+* [Formato file MS - DOCX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
 * [Office Open XML](http://officeopenxml.com/)
 

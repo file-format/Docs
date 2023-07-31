@@ -56,7 +56,7 @@ Het hoofdpatroon in een versiebron is de **VS_FIXEDFILEINFO**. Aanvullende patro
 
 ## Referenties
 
-* [Bronbestandsindelingen](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
+* [Bronbestandsindelingen](https://learn.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
 
 

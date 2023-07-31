@@ -27,5 +27,5 @@
 
 ## Препратки
 
-* [Типове пакети на приложения](https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
+* [Типове пакети на приложения](https://learn.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
 

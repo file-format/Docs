@@ -120,5 +120,5 @@ namespace N  // namespace declaration
 
 ## Riferimenti
 
-* [File di intestazione - Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [File di intestazione - Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 

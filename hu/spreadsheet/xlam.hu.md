@@ -30,5 +30,5 @@ Ezt követően mentse el a fájlt .xlam kiterjesztéssel.
 
 ## Referenciák ##
 
-- [Fájlformátum hivatkozás - ](https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
+- [Fájlformátum hivatkozás - ](https://learn.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
 

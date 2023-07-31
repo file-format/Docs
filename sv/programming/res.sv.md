@@ -56,7 +56,7 @@ Huvudmönstret i en versionsresurs är **VS_FIXEDFILEINFO**. Ytterligare mönste
 
 ## Referenser
 
-* [Resursfilformat](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
+* [Resursfilformat](https://learn.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
 
 

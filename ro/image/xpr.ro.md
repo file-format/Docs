@@ -27,5 +27,5 @@ Fișierele XPR au fost identificate pentru a beneficia de o vulnerabilitate în 
 
 ## Referințe
 
-* [Vulnerabilitatea în designul expresiei ar putea permite executarea codului de la distanță (2651018)](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
+* [Vulnerabilitatea în designul expresiei ar putea permite executarea codului de la distanță (2651018)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
 

@@ -38,6 +38,6 @@ Karena platform Windows Sidebar di Windows 7 memiliki kerentanan serius, Gadget 
 
 ## Referensi
 
-* [Windows Sidebar - oleh Microsoft](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
-* [Mengembangkan Gadget untuk Windows Sidebar Bagian 1](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
+* [Windows Sidebar - oleh Microsoft](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
+* [Mengembangkan Gadget untuk Windows Sidebar Bagian 1](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
 

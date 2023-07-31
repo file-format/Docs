@@ -61,5 +61,5 @@ Următorul tabel listează tipurile și atributele utilizate în elementele RDL.
 ## Referințe ##
 
 - [Limba definiției raportului (Wikipedia)](https://en.wikipedia.org/wiki/Limba_definiției_raportului)
-- [Limbajul de definire a rapoartelor (SSRS)](https://docs.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
+- [Limbajul de definire a rapoartelor (SSRS)](https://learn.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
 

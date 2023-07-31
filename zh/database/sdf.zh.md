@@ -27,6 +27,6 @@ SDF 文件包含一个通常称为紧凑关系数据库的数据库。 SDF 文�
 ## 参考
 
 * [SQL Server Compact - 维基百科](https://en.wikipedia.org/wiki/SQL_Server_Compact)
-* [将 SQL Server Compact 用于 ASP.NET Web 应用程序](https://docs.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
+* [将 SQL Server Compact 用于 ASP.NET Web 应用程序](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
 
 

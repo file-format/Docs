@@ -47,7 +47,7 @@ VCXPROJ 文件是以 [XML](/zh/web/xml/) 文件格式创建的文本文件。这
 ```
 ### VCXPROJ 文件元素
 
-一个典型的 VCXPROJ 文件包含许多元素，如上面的示例 XML 所示。微软的【VCXPROJ结构】(https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)对每个文件元素进行了详细解释，可以参考从开发者的角度来看。
+一个典型的 VCXPROJ 文件包含许多元素，如上面的示例 XML 所示。微软的【VCXPROJ结构】(https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)对每个文件元素进行了详细解释，可以参考从开发者的角度来看。
 
 #### 项目元素
 
@@ -72,6 +72,6 @@ VCXPROJ 文件中的 ProjectConfiguration 元素包含有关加载项目的构�
 
 ## 参考
 
-* [VCXPROJ 结构 - MSDN](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
-* [C++ 项目文件](https://docs.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
+* [VCXPROJ 结构 - MSDN](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
+* [C++ 项目文件](https://learn.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
 

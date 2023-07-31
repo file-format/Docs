@@ -23,11 +23,11 @@ Plik z rozszerzeniem .addin to plik definicji dodatku utworzony przez Microsoft 
 
 ## Format pliku ADDIN — więcej informacji
 
-Pliki ADDIN są zapisywane na dysku w formacie pliku XML, który jest czytelny dla człowieka. Można go otworzyć w popularnych edytorach tekstu, takich jak Notatnik, Notepad ++, Microsoft Visual Studio IDE i wielu innych. Firma Microsoft zdefiniowała [plik manifestu XML](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) dodatku pakietu Office -in, który opisuje sposób aktywowania dodatku po jego zainstalowaniu i używaniu z dokumentami i aplikacjami pakietu Office.
+Pliki ADDIN są zapisywane na dysku w formacie pliku XML, który jest czytelny dla człowieka. Można go otworzyć w popularnych edytorach tekstu, takich jak Notatnik, Notepad ++, Microsoft Visual Studio IDE i wielu innych. Firma Microsoft zdefiniowała [plik manifestu XML](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) dodatku pakietu Office -in, który opisuje sposób aktywowania dodatku po jego zainstalowaniu i używaniu z dokumentami i aplikacjami pakietu Office.
 
-**Zobacz też:** [Jak zbudować dodatek Office COM przy użyciu programu Visual C# .NET](https://docs.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
+**Zobacz też:** [Jak zbudować dodatek Office COM przy użyciu programu Visual C# .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
 
 ## Bibliografia
 
-* [Manifest XML dodatków pakietu Office](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1)
+* [Manifest XML dodatków pakietu Office](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1)
 

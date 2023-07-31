@@ -63,5 +63,5 @@ Obiectul ASPError a fost implementat în ASP 3.0 și este disponibil în IIS5 ș
 ## Referințe
 
 * [ASP - Prin W3C](https://www.w3schools.com/asp/default.asp)
-* [Crearea de pagini ASP simple](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Crearea de pagini ASP simple](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

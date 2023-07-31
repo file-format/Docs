@@ -30,5 +30,5 @@ Efter detta sparar du filen med filtillägget .xlam.
 
 ## Referenser ##
 
-- [Filformatreferens - ](https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
+- [Filformatreferens - ](https://learn.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
 

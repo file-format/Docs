@@ -27,5 +27,5 @@ XPR 文件被确定为利用 Microsoft Expression Design 中的一个漏洞，�
 
 ## 参考
 
-* [表达式设计中的漏洞可能允许远程执行代码 (2651018)](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
+* [表达式设计中的漏洞可能允许远程执行代码 (2651018)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
 

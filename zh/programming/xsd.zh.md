@@ -27,7 +27,7 @@ XSD 文件以人类可读的纯文本文件格式存储到光盘中。 XSD 定�
 
 ## XSD 文件示例
 
-具有采购订单架构的简单 XSD 文件使用标签定义元素，如以下 [Microsoft 的 XSD 示例](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -simple-schema?view=vs-2022）。
+具有采购订单架构的简单 XSD 文件使用标签定义元素，如以下 [Microsoft 的 XSD 示例](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -simple-schema?view=vs-2022）。
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
@@ -67,5 +67,5 @@ XSD 文件以人类可读的纯文本文件格式存储到光盘中。 XSD 定�
 ## 参考 ＃＃
 
 - [微软 XML 记事本](https://microsoft.github.io/XmlNotepad/)
-- [XSD 示例示例](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
+- [XSD 示例示例](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
 

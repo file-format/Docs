@@ -47,7 +47,7 @@ VCXPROJ файловете са текстови файлове, които са
 ```
 ### VCXPROJ файлови елементи
 
-Типичният VCXPROJ файл съдържа редица елементи, както може да се види в примерния XML по-горе. [VCXPROJ структура](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) от Microsoft обяснява подробно всеки файлов елемент и може да бъде препратен от гледна точка на разработчика.
+Типичният VCXPROJ файл съдържа редица елементи, както може да се види в примерния XML по-горе. [VCXPROJ структура](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) от Microsoft обяснява подробно всеки файлов елемент и може да бъде препратен от гледна точка на разработчика.
 
 #### Проектен елемент
 
@@ -72,6 +72,6 @@ VCXPROJ файловете са текстови файлове, които са
 
 ## Препратки
 
-* [VCXPROJ структура - MSDN](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
-* [C++ проектни файлове](https://docs.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
+* [VCXPROJ структура - MSDN](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
+* [C++ проектни файлове](https://learn.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
 

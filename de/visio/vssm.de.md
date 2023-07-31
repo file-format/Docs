@@ -38,5 +38,5 @@ Jede Visio-Datei wird als Paket bezeichnet, das andere Dateien oder Teile enthä
 
 ## Verweise ##
 
-* [Einführung in das Visio-Dateiformat](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Einführung in das Visio-Dateiformat](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

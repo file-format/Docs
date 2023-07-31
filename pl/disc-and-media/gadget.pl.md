@@ -38,6 +38,6 @@ Ponieważ platforma paska bocznego systemu Windows w systemie Windows 7 ma powa�
 
 ## Bibliografia
 
-* [Pasek boczny systemu Windows — firma Microsoft](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
-* [Tworzenie gadżetu dla paska bocznego systemu Windows, część 1](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
+* [Pasek boczny systemu Windows — firma Microsoft](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
+* [Tworzenie gadżetu dla paska bocznego systemu Windows, część 1](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
 

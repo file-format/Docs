@@ -54,6 +54,6 @@ HTML ヘルプは、いくつかのコンポーネントで構成されていま
 
 ## 参考文献
 
-* [Microsoft HTML ヘルプ](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [Microsoft HTML ヘルプ](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 * [Microsoft コンパイル済み HTML ヘルプ](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 

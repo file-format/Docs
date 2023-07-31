@@ -32,5 +32,5 @@ HDMP jsou nekomprimované soubory výpisu paměti. Naproti tomu MDMP jsou soubor
 
 ## reference ##
 
-* [DMP – Microsoft](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
+* [DMP – Microsoft](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
 

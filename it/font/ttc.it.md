@@ -55,6 +55,6 @@ Ecco le tabelle di intestazione TTC di entrambe le versioni:
 |uint32| dsigOffset |L'offset (in byte) della tabella DSIG dall'inizio del file TTC (null se nessuna firma)|
 
 ## Riferimenti
-* [Il file dei caratteri OpenType](https://docs.microsoft.com/en-us/typography/opentype/spec/otff)
+* [Il file dei caratteri OpenType](https://learn.microsoft.com/en-us/typography/opentype/spec/otff)
 * [TrueType (Wikipedia)](https://en.wikipedia.org/wiki/TrueType)
 

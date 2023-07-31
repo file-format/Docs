@@ -95,6 +95,6 @@ HDC CreateEnhMetaFileExample(
 
 ## مراجع ##
 
-* [ملفات تعريف ذات تنسيق محسّن | Microsoft Docs](https://docs.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
+* [ملفات تعريف ذات تنسيق محسّن | Microsoft Docs](https://learn.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
 * [تنسيق ومواصفات مُحسَّنة لملف التعريف](https://msdn.microsoft.com/en-us/library/cc230514.aspx)
 

@@ -27,6 +27,6 @@
 ## Список літератури
 
 * [SQL Server Compact – Вікіпедія](https://en.wikipedia.org/wiki/SQL_Server_Compact)
-* [Використання SQL Server Compact для веб-програм ASP.NET](https://docs.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
+* [Використання SQL Server Compact для веб-програм ASP.NET](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
 
 

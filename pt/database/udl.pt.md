@@ -47,5 +47,5 @@ As seguintes propriedades podem ser definidas em um UDL para garantir a conectiv
 ## Referências ##
 
 * [Componentes de acesso a dados da Microsoft](https://en.wikipedia.org/wiki/Microsoft_Data_Access_Components#Universal_data_link)
-* [Configuração do Universal Data Link (UDL)](https://docs.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
+* [Configuração do Universal Data Link (UDL)](https://learn.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
 

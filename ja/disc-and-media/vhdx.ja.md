@@ -24,7 +24,7 @@ VHDX ファイルは、Hyper-V Manager で [VHD](/disc-and-media/vhd/) に、Vir
 
 ## VHDX ファイル形式 - 詳細情報
 
-VHDX ファイル形式の詳細は完全に文書化されており、[VHDX ファイル形式の仕様](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477) としてオンラインで入手できます。 ) Microsoft ドキュメンテーション。これは VHD 形式の拡張であり、拡張機能が含まれています。 VHDX ファイル形式は、仮想ハード ディスクおよび仮想ハード ディスク ファイル層で使用できる追加機能を提供します。より最適化されており、ストレージ ハードウェアの構成と機能の結果が向上しています。 VHDXファイルを開くことができます
+VHDX ファイル形式の詳細は完全に文書化されており、[VHDX ファイル形式の仕様](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477) としてオンラインで入手できます。 ) Microsoft ドキュメンテーション。これは VHD 形式の拡張であり、拡張機能が含まれています。 VHDX ファイル形式は、仮想ハード ディスクおよび仮想ハード ディスク ファイル層で使用できる追加機能を提供します。より最適化されており、ストレージ ハードウェアの構成と機能の結果が向上しています。 VHDXファイルを開くことができます
 
 ### VHDX での仮想ハードディスクのサポート
 
@@ -38,6 +38,6 @@ VHDX ファイル形式の詳細は完全に文書化されており、[VHDX フ
 
 ## 参考文献
 
-* [VHDX ファイル形式の仕様](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
+* [VHDX ファイル形式の仕様](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
 * [VHD - ウィキペディアによる](https://en.wikipedia.org/wiki/VHD_(file_format))
 

@@ -27,7 +27,7 @@ XSD файловете се съхраняват на диск във форма
 
 ## Пример за XSD файл
 
-Прост XSD файл със схема на поръчка за покупка дефинира елементите с помощта на тагове, както е показано в следния [XSD пример от Microsoft](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -проста схема?view=vs-2022).
+Прост XSD файл със схема на поръчка за покупка дефинира елементите с помощта на тагове, както е показано в следния [XSD пример от Microsoft](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -проста схема?view=vs-2022).
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
@@ -67,5 +67,5 @@ XSD файловете се съхраняват на диск във форма
 ## Препратки ##
 
 - [Microsoft XML Notepad](https://microsoft.github.io/XmlNotepad/)
-- [XSD примерен пример](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
+- [XSD примерен пример](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
 

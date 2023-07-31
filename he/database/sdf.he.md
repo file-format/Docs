@@ -27,6 +27,6 @@
 ## הפניות
 
 * [SQL Server Compact - ויקיפדיה](https://en.wikipedia.org/wiki/SQL_Server_Compact)
-* [שימוש ב-SQL Server Compact עבור יישומי אינטרנט של ASP.NET](https://docs.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
+* [שימוש ב-SQL Server Compact עבור יישומי אינטרנט של ASP.NET](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
 
 

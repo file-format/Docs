@@ -31,7 +31,7 @@ O Excel fornece etapas fáceis de usar para gravar uma macro. Requer que você t
 
 ## Modelo de objeto do Excel ##
 
-As macros usam rotinas VBA nas costas e seguem o [Excel Object Model](https://docs.microsoft.com/en-us/office/vba/api/overview/excel/object-model) para essa finalidade. Este modelo identifica os objetos de uma planilha para interação com a planilha por meio de barras de ferramentas de comando definidas pelo usuário, barras de comando ou caixas de mensagens. Por exemplo, o acesso às propriedades da pasta de trabalho é concedido com o objeto Workbook. Da mesma forma, há um objeto Worksheet no modelo para trabalhar com as planilhas da pasta de trabalho programaticamente.
+As macros usam rotinas VBA nas costas e seguem o [Excel Object Model](https://learn.microsoft.com/en-us/office/vba/api/overview/excel/object-model) para essa finalidade. Este modelo identifica os objetos de uma planilha para interação com a planilha por meio de barras de ferramentas de comando definidas pelo usuário, barras de comando ou caixas de mensagens. Por exemplo, o acesso às propriedades da pasta de trabalho é concedido com o objeto Workbook. Da mesma forma, há um objeto Worksheet no modelo para trabalhar com as planilhas da pasta de trabalho programaticamente.
 
 ## Macros e Segurança ##
 

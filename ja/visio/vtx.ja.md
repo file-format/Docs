@@ -32,5 +32,5 @@ Visio 2013 ファイル形式を構成するその他のファイルの種類に
 
 ## 参照 ##
 
-* [Visio ファイル形式の概要](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Visio ファイル形式の概要](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

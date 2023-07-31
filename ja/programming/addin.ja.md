@@ -23,11 +23,11 @@
 
 ## ADDIN ファイル形式 - 詳細情報
 
-ADDIN ファイルは、人間が読める XML ファイル形式でディスクに保存されます。 Notepad、Notepad++、Microsoft Visual Studio IDE などの一般的なテキスト エディターで開くことができます。 Microsoft は Office Add の [XML マニフェスト ファイル](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) を定義しています-アドインがインストールされ、Office ドキュメントやアプリケーションで使用された後にアドインをアクティブ化する方法を記述します。
+ADDIN ファイルは、人間が読める XML ファイル形式でディスクに保存されます。 Notepad、Notepad++、Microsoft Visual Studio IDE などの一般的なテキスト エディターで開くことができます。 Microsoft は Office Add の [XML マニフェスト ファイル](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) を定義しています-アドインがインストールされ、Office ドキュメントやアプリケーションで使用された後にアドインをアクティブ化する方法を記述します。
 
-**参照:** [Visual C# .NET を使用して Office COM アドインを構築する方法](https://docs.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
+**参照:** [Visual C# .NET を使用して Office COM アドインを構築する方法](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
 
 ## 参考文献
 
-* [Office アドイン XML マニフェスト](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1)
+* [Office アドイン XML マニフェスト](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1)
 

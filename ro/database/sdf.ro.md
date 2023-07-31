@@ -27,6 +27,6 @@ Convenția de denumire .sdf este opțională și orice extensie poate fi folosit
 ## Referințe
 
 * [SQL Server Compact - Wikipedia](https://en.wikipedia.org/wiki/SQL_Server_Compact)
-* [Utilizarea SQL Server Compact pentru aplicații web ASP.NET](https://docs.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
+* [Utilizarea SQL Server Compact pentru aplicații web ASP.NET](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
 
 

@@ -27,7 +27,7 @@ XSD-filer lagras på skiva i vanligt textfilformat som är läsbart för männis
 
 ## Exempel på XSD-fil
 
-En enkel XSD-fil med ett inköpsorderschema definierar elementen med taggar som visas i följande [XSD-exempel av Microsoft](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -simple-schema?view=vs-2022).
+En enkel XSD-fil med ett inköpsorderschema definierar elementen med taggar som visas i följande [XSD-exempel av Microsoft](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -simple-schema?view=vs-2022).
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
@@ -67,5 +67,5 @@ Här används följande taggar.
 ## Referenser ##
 
 - [Microsoft XML Notepad](https://microsoft.github.io/XmlNotepad/)
-- [XSD-exempel](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
+- [XSD-exempel](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
 

@@ -31,7 +31,7 @@ Excel biedt eenvoudig te gebruiken stappen voor het opnemen van een macro. Het v
 
 ## Excel-objectmodel ##
 
-Macro's gebruiken VBA-routines op hun rug en volgen hiervoor het [Excel Object Model](https://docs.microsoft.com/en-us/office/vba/api/overview/excel/object-model). Dit model identificeert de objecten van een spreadsheet voor interactie met de spreadsheet via door de gebruiker gedefinieerde opdrachtwerkbalken, opdrachtbalken of berichtenvensters. Toegang tot de eigenschappen van de werkmap wordt bijvoorbeeld verleend met het object Workbook. Evenzo is er een werkbladobject in het model om programmatisch met de werkbladen van de werkmap te werken.
+Macro's gebruiken VBA-routines op hun rug en volgen hiervoor het [Excel Object Model](https://learn.microsoft.com/en-us/office/vba/api/overview/excel/object-model). Dit model identificeert de objecten van een spreadsheet voor interactie met de spreadsheet via door de gebruiker gedefinieerde opdrachtwerkbalken, opdrachtbalken of berichtenvensters. Toegang tot de eigenschappen van de werkmap wordt bijvoorbeeld verleend met het object Workbook. Evenzo is er een werkbladobject in het model om programmatisch met de werkbladen van de werkmap te werken.
 
 ## Macro's en beveiliging ##
 

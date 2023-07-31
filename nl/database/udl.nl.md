@@ -47,5 +47,5 @@ De volgende eigenschappen kunnen in een UDL worden ingesteld om de juiste connec
 ## Referenties ##
 
 * [Microsoft Data Access Components](https://en.wikipedia.org/wiki/Microsoft_Data_Access_Components#Universal_data_link)
-* [Universal Data Link (UDL)-configuratie](https://docs.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
+* [Universal Data Link (UDL)-configuratie](https://learn.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
 

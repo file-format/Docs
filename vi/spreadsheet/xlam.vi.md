@@ -30,5 +30,5 @@ Sau đó, lưu tệp với phần mở rộng .xlam.
 
 ## Người giới thiệu ##
 
-- [Tham khảo định dạng tệp - ](https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
+- [Tham khảo định dạng tệp - ](https://learn.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
 

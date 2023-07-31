@@ -27,6 +27,6 @@ NUPKG файловете са [ZIP](/bg/компресия/zip/) архиви, �
 ## справка
 
 * [Nuget.org](https://nuget.org)
-* [Бърз старт: Инсталирайте и използвайте пакет във Visual Studio (само за Windows)](https://docs.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual- студио)
-* [Как да създадете и публикувате пакет Nuget](https://docs.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore- cli)
+* [Бърз старт: Инсталирайте и използвайте пакет във Visual Studio (само за Windows)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual- студио)
+* [Как да създадете и публикувате пакет Nuget](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore- cli)
 

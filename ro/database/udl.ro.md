@@ -47,5 +47,5 @@ Următoarele proprietăți pot fi setate într-un UDL pentru a asigura conectivi
 ## Referințe ##
 
 * [Componente de acces la date Microsoft](https://en.wikipedia.org/wiki/Microsoft_Data_Access_Components#Universal_data_link)
-* [Configurație Universal Data Link (UDL)](https://docs.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
+* [Configurație Universal Data Link (UDL)](https://learn.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
 

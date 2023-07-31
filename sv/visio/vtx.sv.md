@@ -32,5 +32,5 @@ Vissa andra filtyper som utgör filformatet Visio 2013 inkluderar:
 
 ## Referenser ##
 
-* [Introduktion till Visio-filformat](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Introduktion till Visio-filformat](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

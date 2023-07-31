@@ -32,5 +32,5 @@ Visio 2013 dosya biçimini oluşturan diğer bazı dosya türleri şunları içe
 
 ## Referanslar ##
 
-* [Visio Dosya Biçimine Giriş](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Visio Dosya Biçimine Giriş](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

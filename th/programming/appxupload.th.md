@@ -27,5 +27,5 @@
 
 ## อ้างอิง
 
-* [ประเภทของ App Packages](https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
+* [ประเภทของ App Packages](https://learn.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
 

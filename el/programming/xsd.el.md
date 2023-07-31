@@ -27,7 +27,7 @@
 
 ## Παράδειγμα αρχείου XSD
 
-Ένα απλό αρχείο XSD με σχήμα παραγγελίας αγοράς ορίζει τα στοιχεία χρησιμοποιώντας ετικέτες όπως φαίνεται στο ακόλουθο [παράδειγμα XSD από τη Microsoft](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -simple-schema?view=vs-2022).
+Ένα απλό αρχείο XSD με σχήμα παραγγελίας αγοράς ορίζει τα στοιχεία χρησιμοποιώντας ετικέτες όπως φαίνεται στο ακόλουθο [παράδειγμα XSD από τη Microsoft](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -simple-schema?view=vs-2022).
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
@@ -67,5 +67,5 @@
 ## Βιβλιογραφικές αναφορές ##
 
 - [Microsoft XML Notepad](https://microsoft.github.io/XmlNotepad/)
-- [Δείγμα XSD](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
+- [Δείγμα XSD](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
 

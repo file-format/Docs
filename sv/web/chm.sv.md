@@ -54,6 +54,6 @@ HTML-hjälpen består av flera komponenter. Dessa inkluderar följande:
 
 ## Referenser
 
-* [Microsoft HTML-hjälp](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [Microsoft HTML-hjälp](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 * [Microsoft Compiled HTML Help](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 

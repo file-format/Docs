@@ -29,10 +29,10 @@
 
 {{< figure src="../DataFlowDTSX.png" alt="זרימת נתונים DTSX" >}}
 
-DTSX מבוסס על [XML](/he/web/xml/) ומתועד ב-[MS-DTSX](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd). ה-Refactoring המשופר של DTSX XML הוא DTSX 2.0 הכולל תכונות חדשות למבנים, החלפה של מאפיינים בעלי שם כתכונות XML אב, מציין ברירות מחדל עבור רוב ערכי התכונות ומיקום של רכיבים חוזרים בתוך אלמנט אב. מבני DTSX מתוארים באמצעות [סכימות XML](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1) והוא הפורמט המבנה XML של טקסט סלולרי.
+DTSX מבוסס על [XML](/he/web/xml/) ומתועד ב-[MS-DTSX](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd). ה-Refactoring המשופר של DTSX XML הוא DTSX 2.0 הכולל תכונות חדשות למבנים, החלפה של מאפיינים בעלי שם כתכונות XML אב, מציין ברירות מחדל עבור רוב ערכי התכונות ומיקום של רכיבים חוזרים בתוך אלמנט אב. מבני DTSX מתוארים באמצעות [סכימות XML](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1) והוא הפורמט המבנה XML של טקסט סלולרי.
 
 ## הפניות
 
-* [פורמט DTSX - Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd)
-* [פורמט DTSX 2 - מאת Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx2/fb216aa4-62ab-41c8-a6d5-5b1002739d21)
+* [פורמט DTSX - Microsoft](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd)
+* [פורמט DTSX 2 - מאת Microsoft](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx2/fb216aa4-62ab-41c8-a6d5-5b1002739d21)
 

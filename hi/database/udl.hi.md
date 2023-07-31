@@ -47,5 +47,5 @@
 ## संदर्भ ##
 
 * [माइक्रोसॉफ्ट डेटा एक्सेस कंपोनेंट्स](https://en.wikipedia.org/wiki/Microsoft_Data_Access_Components#Universal_data_link)
-* [यूनिवर्सल डेटा लिंक (UDL) कॉन्फ़िगरेशन](https://docs.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
+* [यूनिवर्सल डेटा लिंक (UDL) कॉन्फ़िगरेशन](https://learn.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
 

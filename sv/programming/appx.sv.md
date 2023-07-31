@@ -36,11 +36,11 @@ För att se innehållet eller filerna i en APPX-fil bör följande steg följas.
 
 Det finns två metoder som kan användas för att skapa APPX-filer.
 
-1. Använda MakeApp.exe - [MakeApp.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) används för att skapa både apppaket (.msix eller .appx) och apppaketpaketfiler .msixbundle eller .appxbundle). Dessutom kan den extrahera filer från ett apppaket. MakeApp.exe är tillgängligt med Windows 10 SDK och kan användas från kommandotolken.
-1. Använda Microsoft Visual Studio – Utvecklare [skapar vanligtvis APPX-filer](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) med Microsoft Visual Studio. När applikationsutvecklingen är klar och appen är redo att publiceras, kan APPX-paketfilen skapas genom att publicera den från Visual Studio.
+1. Använda MakeApp.exe - [MakeApp.exe](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) används för att skapa både apppaket (.msix eller .appx) och apppaketpaketfiler .msixbundle eller .appxbundle). Dessutom kan den extrahera filer från ett apppaket. MakeApp.exe är tillgängligt med Windows 10 SDK och kan användas från kommandotolken.
+1. Använda Microsoft Visual Studio – Utvecklare [skapar vanligtvis APPX-filer](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) med Microsoft Visual Studio. När applikationsutvecklingen är klar och appen är redo att publiceras, kan APPX-paketfilen skapas genom att publicera den från Visual Studio.
 
 ## Referenser
 
-* [Skapa ett MSIX-paket eller -paket med MakeAppx.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
-* [Skapa APPX-filer med Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Skapa ett MSIX-paket eller -paket med MakeAppx.exe](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
+* [Skapa APPX-filer med Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

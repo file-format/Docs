@@ -27,6 +27,6 @@ Namnkonventionen .sdf är valfri och vilken filändelse som helst kan användas 
 ## Referenser
 
 * [SQL Server Compact - Wikipedia](https://en.wikipedia.org/wiki/SQL_Server_Compact)
-* [Använder SQL Server Compact för ASP.NET-webbapplikationer](https://docs.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
+* [Använder SQL Server Compact för ASP.NET-webbapplikationer](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
 
 

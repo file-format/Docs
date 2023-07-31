@@ -28,5 +28,5 @@ APPXBUNDLE फाइलें ZIP फाइल फॉर्मेट में �
 ## संदर्भ
 
 * [.appx और .appxbundle पैकेज के लिए निर्भरता पैकेज](https://www.ibm.com/docs/en/maas360?topic=catalog-dependency-packages-appx-appxbundle-packages)
-* [Microsoft Visual Studio का उपयोग करके APPX फ़ाइलें बनाएं](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Microsoft Visual Studio का उपयोग करके APPX फ़ाइलें बनाएं](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

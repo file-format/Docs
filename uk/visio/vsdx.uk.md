@@ -50,5 +50,5 @@
 
 ## Посилання ##
 
-* [Знайомство з форматом файлу Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Знайомство з форматом файлу Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

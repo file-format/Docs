@@ -19,7 +19,7 @@
 
 ## Tệp PDB là gì?
 
-Tệp có phần mở rộng .pdb là tệp cơ sở dữ liệu chương trình chứa thông tin gỡ lỗi cho tệp thực thi đã biên dịch (EXE/DLL). Các tệp PDB được tạo bởi Trình biên dịch Microsoft khi một chương trình ứng dụng được biên dịch ở chế độ gỡ lỗi. Sự hiện diện của tệp PDB có thể giúp kỹ thuật đảo ngược một tệp thực thi vì nó chứa thông tin quan trọng về tất cả các ký hiệu của mô-đun. Vì lý do này mà các tệp này được giữ tách biệt với tệp thực thi cuối cùng. [API DgbHelp] của Microsoft(https://docs.microsoft.com/en-us/windows/win32/debug/dbghelp-functions) có thể mở tệp PDB để lấy thông tin như công khai và xuất khẩu, ký hiệu chung, ký hiệu cục bộ, nhập dữ liệu, tệp nguồn và số dòng.
+Tệp có phần mở rộng .pdb là tệp cơ sở dữ liệu chương trình chứa thông tin gỡ lỗi cho tệp thực thi đã biên dịch (EXE/DLL). Các tệp PDB được tạo bởi Trình biên dịch Microsoft khi một chương trình ứng dụng được biên dịch ở chế độ gỡ lỗi. Sự hiện diện của tệp PDB có thể giúp kỹ thuật đảo ngược một tệp thực thi vì nó chứa thông tin quan trọng về tất cả các ký hiệu của mô-đun. Vì lý do này mà các tệp này được giữ tách biệt với tệp thực thi cuối cùng. [API DgbHelp] của Microsoft(https://learn.microsoft.com/en-us/windows/win32/debug/dbghelp-functions) có thể mở tệp PDB để lấy thông tin như công khai và xuất khẩu, ký hiệu chung, ký hiệu cục bộ, nhập dữ liệu, tệp nguồn và số dòng.
 
 ## Định dạng tệp PDB
 

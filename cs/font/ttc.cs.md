@@ -55,6 +55,6 @@ Zde jsou tabulky záhlaví TTC obou verzí:
 |uint32| dsigOffset |Offset (v bajtech) tabulky DSIG od začátku souboru TTC (null, pokud není žádný podpis)|
 
 ## Reference
-* [Soubor písem OpenType](https://docs.microsoft.com/en-us/typography/opentype/spec/otff)
+* [Soubor písem OpenType](https://learn.microsoft.com/en-us/typography/opentype/spec/otff)
 * [TrueType (Wikipedia)](https://en.wikipedia.org/wiki/TrueType)
 

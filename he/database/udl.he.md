@@ -47,5 +47,5 @@
 ## הפניות ##
 
 * [רכיבי גישה לנתונים של Microsoft](https://en.wikipedia.org/wiki/Microsoft_Data_Access_Components#Universal_data_link)
-* [תצורת קישור נתונים אוניברסלי (UDL)](https://docs.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
+* [תצורת קישור נתונים אוניברסלי (UDL)](https://learn.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
 

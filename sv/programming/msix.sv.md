@@ -35,6 +35,6 @@ Ett MSIX-paket består av följande filer.
 
 ## Referenser
 
-* [MSIX-översikt](https://docs.microsoft.com/en-us/windows/msix/overview)
-* [Skapa APPX-filer med Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [MSIX-översikt](https://learn.microsoft.com/en-us/windows/msix/overview)
+* [Skapa APPX-filer med Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

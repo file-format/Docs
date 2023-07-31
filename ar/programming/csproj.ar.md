@@ -24,7 +24,7 @@
 
 يمكن للمطورين إنشاء ملفات المشروع بأنفسهم وكذلك تكريم [MSBuild XML Schema](https://msdn.microsoft.com/library/5dy88c2e.aspx). يتيح الهيكل المفتوح والشفاف لملفات المشروع لمطوري التطبيقات فرض تحكم متطور ودقيق في كيفية إنشاء المشاريع ونشرها. تحتوي محتويات ملف المشروع هذا على علاقة واضحة جدًا فيما بينها. يوضح الشكل التالي العناصر الأساسية والعلاقة بينها لملف المشروع.
 
-![](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
+![](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
 
 توضح الأقسام التالية بالتفصيل عناصر تنسيق الملف لملف المشروع.
 
@@ -94,5 +94,5 @@
 
 ## مراجع
 
-* [Understanding the Project File - MSDN](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- ملف)
+* [Understanding the Project File - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- ملف)
 

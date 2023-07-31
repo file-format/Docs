@@ -86,6 +86,6 @@ In base alle informazioni contenute nella sezione del progetto del file .sln, l'
 
 ### **Riferimenti** ###
 
-* [File di soluzione - Da MSDN](https://docs.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
+* [File di soluzione - Da MSDN](https://learn.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
 * [GUID del tipo di progetto](https://www.codeproject.com/Reference/720512/List-of-Visual-Studio-Project-Type-GUIDs)
 

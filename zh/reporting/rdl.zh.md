@@ -61,5 +61,5 @@ XML 架构定义 (XSD) 文件验证 RDL 文件。架构定义了 RDL 元素可�
 ## 参考 ＃＃
 
 - [报告定义语言（维基百科）]（https://en.wikipedia.org/wiki/Report_Definition_Language）
-- [报告定义语言 (SSRS)](https://docs.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
+- [报告定义语言 (SSRS)](https://learn.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
 

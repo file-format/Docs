@@ -24,7 +24,7 @@ VHDX 文件可以使用 Hyper-V 管理器转换为 [VHD](/zh/disc-and-media/vhd/
 
 ## VHDX 文件格式 - 更多信息
 
-VHDX 文件格式详细信息已完整记录并作为 [VHDX 文件格式规范]（https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477）在线提供) 在 Microsoft 文档中。它是 VHD 格式的扩展，包括增强的功能。 VHDX 文件格式提供了在虚拟硬盘和虚拟硬盘文件层可用的附加功能。它更加优化，并为存储硬件配置和功能提供了更好的结果。可以打开 VHDX 文件
+VHDX 文件格式详细信息已完整记录并作为 [VHDX 文件格式规范]（https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477）在线提供) 在 Microsoft 文档中。它是 VHD 格式的扩展，包括增强的功能。 VHDX 文件格式提供了在虚拟硬盘和虚拟硬盘文件层可用的附加功能。它更加优化，并为存储硬件配置和功能提供了更好的结果。可以打开 VHDX 文件
 
 ### 支持 VHDX 中的虚拟硬盘
 
@@ -38,6 +38,6 @@ VHDX 文件格式详细信息已完整记录并作为 [VHDX 文件格式规范]�
 
 ## 参考
 
-* [VHDX 文件格式规范](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
+* [VHDX 文件格式规范](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
 * [VHD - 维基百科](https://en.wikipedia.org/wiki/VHD_(file_format))
 

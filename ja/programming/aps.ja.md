@@ -26,7 +26,7 @@ APS ファイル形式は単なるコンパイル手順であり、シンボリ�
 
 ## 参考文献
 
-* [リソース ファイル (C++)](https://docs.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
+* [リソース ファイル (C++)](https://learn.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
  
 
 

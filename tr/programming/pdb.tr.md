@@ -19,7 +19,7 @@
 
 ## Bir PDB dosyası nedir?
 
-.pdb uzantılı bir dosya, derlenmiş bir yürütülebilir dosya (EXE/DLL) için hata ayıklama bilgileri içeren bir program veritabanı dosyasıdır. PDB dosyaları, bir uygulama programı hata ayıklama modunda derlendiğinde Microsoft Compilers tarafından oluşturulur. PDB dosyasının varlığı, modüllerin tüm sembolleri hakkında önemli bilgiler içerdiğinden yürütülebilir bir dosyanın tersine mühendislik işlemine yardımcı olabilir. Bu nedenle bu dosyalar son yürütülebilir dosyadan ayrı tutulur. Microsoft'un [DgbHelp API'si](https://docs.Microsoft.com/en-us/windows/win32/debug/dbghelp-functions), ortaklar ve dışa aktarmalar, genel semboller, yerel semboller gibi bilgileri elde etmek için bir PDB dosyası açabilir. veri, kaynak dosyaları ve satır numaralarını yazın.
+.pdb uzantılı bir dosya, derlenmiş bir yürütülebilir dosya (EXE/DLL) için hata ayıklama bilgileri içeren bir program veritabanı dosyasıdır. PDB dosyaları, bir uygulama programı hata ayıklama modunda derlendiğinde Microsoft Compilers tarafından oluşturulur. PDB dosyasının varlığı, modüllerin tüm sembolleri hakkında önemli bilgiler içerdiğinden yürütülebilir bir dosyanın tersine mühendislik işlemine yardımcı olabilir. Bu nedenle bu dosyalar son yürütülebilir dosyadan ayrı tutulur. Microsoft'un [DgbHelp API'si](https://learn.microsoft.com/en-us/windows/win32/debug/dbghelp-functions), ortaklar ve dışa aktarmalar, genel semboller, yerel semboller gibi bilgileri elde etmek için bir PDB dosyası açabilir. veri, kaynak dosyaları ve satır numaralarını yazın.
 
 ## PDB Dosya Biçimi
 

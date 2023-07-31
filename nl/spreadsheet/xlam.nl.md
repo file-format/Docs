@@ -30,5 +30,5 @@ Sla daarna het bestand op met de extensie .xlam.
 
 ## Referenties ##
 
-- [Verwijzing naar bestandsindeling - ](https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
+- [Verwijzing naar bestandsindeling - ](https://learn.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
 

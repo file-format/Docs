@@ -36,11 +36,11 @@ Pentru a vizualiza conținutul sau fișierele din interiorul unui fișier APPX, 
 
 Există două metode care pot fi folosite pentru a crea fișiere APPX.
 
-1. Folosind MakeApp.exe - [MakeApp.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) este folosit pentru a crea ambele pachete de aplicații (.msix sau .appx) și fișiere de pachete de aplicații .msixbundle sau .appxbundle). În plus, poate extrage fișiere dintr-un pachet de aplicații. MakeApp.exe este disponibil cu Windows 10 SDK și poate fi utilizat din promptul de comandă.
-1. Folosind Microsoft Visual Studio - Dezvoltatorii de obicei [creează fișiere APPX](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) folosind Microsoft Visual Studio. Odată ce dezvoltarea aplicației este completă și aplicația este gata pentru a fi publicată, fișierul pachet APPX poate fi creat prin publicarea acestuia din Visual Studio.
+1. Folosind MakeApp.exe - [MakeApp.exe](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) este folosit pentru a crea ambele pachete de aplicații (.msix sau .appx) și fișiere de pachete de aplicații .msixbundle sau .appxbundle). În plus, poate extrage fișiere dintr-un pachet de aplicații. MakeApp.exe este disponibil cu Windows 10 SDK și poate fi utilizat din promptul de comandă.
+1. Folosind Microsoft Visual Studio - Dezvoltatorii de obicei [creează fișiere APPX](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) folosind Microsoft Visual Studio. Odată ce dezvoltarea aplicației este completă și aplicația este gata pentru a fi publicată, fișierul pachet APPX poate fi creat prin publicarea acestuia din Visual Studio.
 
 ## Referințe
 
-* [Creați un pachet sau un pachet MSIX cu MakeAppx.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
-* [Creați fișiere APPX utilizând Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Creați un pachet sau un pachet MSIX cu MakeAppx.exe](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
+* [Creați fișiere APPX utilizând Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

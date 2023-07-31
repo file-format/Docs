@@ -38,6 +38,6 @@ Plusieurs instances d'un fichier GADGET peuvent être exécutées simultanément
 
 ## Références
 
-* [Barre latérale Windows - par Microsoft](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
-* [Développement d'un gadget pour la barre latérale Windows Partie 1](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
+* [Barre latérale Windows - par Microsoft](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
+* [Développement d'un gadget pour la barre latérale Windows Partie 1](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
 

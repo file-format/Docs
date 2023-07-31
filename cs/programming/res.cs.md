@@ -56,7 +56,7 @@ Hlavním vzorem prostředku verze je **VS_FIXEDFILEINFO**. Mezi další vzory pa
 
 ## Reference
 
-* [Formáty zdrojových souborů](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
+* [Formáty zdrojových souborů](https://learn.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
 
 

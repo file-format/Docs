@@ -24,7 +24,7 @@ File VHDX dapat dikonversi ke [VHD](/id/disc-and-media/vhd/) dengan Hyper-V Mana
 
 ## Format File VHDX - Informasi Lebih Lanjut
 
-Detail format file VHDX sepenuhnya didokumentasikan dan tersedia online sebagai [Spesifikasi Format File VHDX](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477 ) pada Dokumentasi Microsoft. Ini adalah ekstensi ke format VHD dan menyertakan kemampuan yang ditingkatkan. Format file VHDX menyediakan fitur tambahan yang tersedia pada hard disk virtual dan lapisan file hard disk virtual. Ini lebih dioptimalkan dan memberikan hasil yang lebih baik untuk konfigurasi dan kemampuan perangkat keras penyimpanan. File VHDX dapat dibuka
+Detail format file VHDX sepenuhnya didokumentasikan dan tersedia online sebagai [Spesifikasi Format File VHDX](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477 ) pada Dokumentasi Microsoft. Ini adalah ekstensi ke format VHD dan menyertakan kemampuan yang ditingkatkan. Format file VHDX menyediakan fitur tambahan yang tersedia pada hard disk virtual dan lapisan file hard disk virtual. Ini lebih dioptimalkan dan memberikan hasil yang lebih baik untuk konfigurasi dan kemampuan perangkat keras penyimpanan. File VHDX dapat dibuka
 
 ### Dukungan untuk Hard Disk Virtual di VHDX
 
@@ -38,6 +38,6 @@ Ini mendukung tiga jenis hard disk virtual.
 
 ## Referensi
 
-* [Spesifikasi Format File VHDX](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
+* [Spesifikasi Format File VHDX](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
 * [VHD - oleh Wikipedia](https://en.wikipedia.org/wiki/VHD_(file_format))
 

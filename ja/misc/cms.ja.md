@@ -31,5 +31,5 @@ CMS プロファイル ファイルは、接続マネージャーを使用して
 
 ## 参考文献
 
-* [Windows 接続マネージャーの理解と構成](https://docs.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
+* [Windows 接続マネージャーの理解と構成](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
 

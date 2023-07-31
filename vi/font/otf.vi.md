@@ -82,6 +82,6 @@ thư mục bảng bắt đầu được chỉ định trong TTCHeader.
 Mỗi bảng trong tệp phông chữ OpenType được biểu thị bằng các tên được gọi là thẻ bảng. Tất cả các bản ghi trong mảng phải được sắp xếp theo thứ tự tăng dần theo thẻ.
 
 ## Người giới thiệu
-* [Thông số kỹ thuật phông chữ OpenType của Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [Tổng quan về TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Thông số kỹ thuật phông chữ OpenType của Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [Tổng quan về TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

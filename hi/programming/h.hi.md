@@ -120,5 +120,5 @@ namespace N  // namespace declaration
 
 ## संदर्भ
 
-* [हेडर फाइलर्स - माइक्रोसॉफ्ट](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [हेडर फाइलर्स - माइक्रोसॉफ्ट](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 

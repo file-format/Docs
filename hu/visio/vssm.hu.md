@@ -38,5 +38,5 @@ Minden Visio-fájlt más fájlokat vagy részeket tartalmazó csomagnak neveznek
 
 ## Referenciák ##
 
-* [Bevezetés a Visio fájlformátumba](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Bevezetés a Visio fájlformátumba](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

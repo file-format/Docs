@@ -53,7 +53,7 @@ xmlns="http://schemas.openxmlformats.org/package/2006/content-types">
 
 ## הפניות
 
-* [אפליקציות שכבת נתונים - יתרונות](https://docs.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
-* [פריסת יישום שכבת נתונים - Microsoft](https://docs.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
+* [אפליקציות שכבת נתונים - יתרונות](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
+* [פריסת יישום שכבת נתונים - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
 * [כיצד ליצור קובץ DACPAC?](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
 

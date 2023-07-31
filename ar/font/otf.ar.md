@@ -82,6 +82,6 @@
 يتم تمثيل كل جدول في ملف خطوط OpenType بأسماء تعرف باسم علامات الجدول. من الضروري أن يتم فرز جميع السجلات في المصفوفة بترتيب تصاعدي حسب العلامة.
 
 ## مراجع
-* [مواصفات خط OpenType بواسطة Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [TrueType Overview](https://docs.microsoft.com/en-us/typography/truetype/)
+* [مواصفات خط OpenType بواسطة Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [TrueType Overview](https://learn.microsoft.com/en-us/typography/truetype/)
 

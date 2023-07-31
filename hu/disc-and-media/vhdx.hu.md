@@ -24,7 +24,7 @@ A VHDX fájl konvertálható [VHD](/hu/lemez-és-média/vhd/) formátumba a Hype
 
 ## VHDX fájlformátum – További információ
 
-A VHDX fájlformátum részletei teljes mértékben dokumentáltak, és online elérhetők [VHDX fájlformátum specifikációi](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477) ) a Microsoft dokumentációjában. Ez a VHD formátum kiterjesztése, és továbbfejlesztett képességekkel rendelkezik. A VHDX fájlformátum további szolgáltatásokat biztosít, amelyek a virtuális merevlemezen és a virtuális merevlemezen elérhető fájlrétegekben érhetők el. Jobban optimalizált, és jobb eredményeket ad a tárolóhardver-konfiguráció és -képességek tekintetében. A VHDX fájlok megnyithatók
+A VHDX fájlformátum részletei teljes mértékben dokumentáltak, és online elérhetők [VHDX fájlformátum specifikációi](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477) ) a Microsoft dokumentációjában. Ez a VHD formátum kiterjesztése, és továbbfejlesztett képességekkel rendelkezik. A VHDX fájlformátum további szolgáltatásokat biztosít, amelyek a virtuális merevlemezen és a virtuális merevlemezen elérhető fájlrétegekben érhetők el. Jobban optimalizált, és jobb eredményeket ad a tárolóhardver-konfiguráció és -képességek tekintetében. A VHDX fájlok megnyithatók
 
 ### Virtuális merevlemezek támogatása VHDX-ben
 
@@ -38,6 +38,6 @@ Háromféle virtuális merevlemezt támogat.
 
 ## Hivatkozások
 
-* [VHDX fájlformátum specifikációi](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
+* [VHDX fájlformátum specifikációi](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
 * [VHD – Wikipedia](https://en.wikipedia.org/wiki/VHD_(file_format))
 

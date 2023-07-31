@@ -23,7 +23,7 @@ Un file con estensione .cff è un Compact Font Format ed è anche noto come Post
 
 ## Formato file CFF
 
-I file CFF sono file binari che contengono un layout di dati strutturato, hanno tipi di dati definiti, un'intestazione, un'organizzazione dei glifi e dizionari di tabelle. Maggiori dettagli su questi possono essere trovati nelle [specifiche del formato dei caratteri compatti](https://docs.microsoft.com/en-us/typography/opentype/spec/cff).
+I file CFF sono file binari che contengono un layout di dati strutturato, hanno tipi di dati definiti, un'intestazione, un'organizzazione dei glifi e dizionari di tabelle. Maggiori dettagli su questi possono essere trovati nelle [specifiche del formato dei caratteri compatti](https://learn.microsoft.com/en-us/typography/opentype/spec/cff).
 
 ### Disposizione dei dati
 Il layout dei dati del formato file CFF è come mostrato di seguito.
@@ -68,7 +68,7 @@ I dati binari iniziano con un'intestazione con il formato mostrato nella tabella
 
 ## Riferimenti
 
-* [Tabella del formato dei caratteri compatto](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+* [Tabella del formato dei caratteri compatto](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
 * [Formato file CFF](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
-* [Set di grafici CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+* [Set di grafici CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

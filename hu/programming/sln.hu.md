@@ -86,6 +86,6 @@ Az .sln fájl projektrészében található információk alapján a környezet 
 
 ### **Referenciák** ###
 
-* [Megoldásfájl – MSDN-től](https://docs.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
+* [Megoldásfájl – MSDN-től](https://learn.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
 * [Project Type GUIDs](https://www.codeproject.com/Reference/720512/List-of-Visual-Studio-Project-Type-GUIDs)
 

@@ -31,5 +31,5 @@
 
 ## อ้างอิง
 
-* [การทำความเข้าใจและกำหนดค่า Windows Connection Manager](https://docs.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
+* [การทำความเข้าใจและกำหนดค่า Windows Connection Manager](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
 

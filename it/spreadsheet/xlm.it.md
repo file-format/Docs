@@ -31,7 +31,7 @@ Excel fornisce passaggi facili da usare per la registrazione di una macro. Richi
 
 ## Modello a oggetti di Excel ##
 
-Le macro utilizzano le routine VBA sul retro e seguono il [Modello a oggetti di Excel](https://docs.microsoft.com/en-us/office/vba/api/overview/excel/object-model) per questo scopo. Questo modello identifica gli oggetti di un foglio di calcolo per l'interazione con il foglio di calcolo tramite barre degli strumenti dei comandi, barre dei comandi o finestre di messaggi definite dall'utente. Ad esempio, l'accesso alle proprietà della cartella di lavoro viene concesso con l'oggetto Cartella di lavoro. Allo stesso modo, nel modello è presente un oggetto Foglio di lavoro per lavorare con i fogli di lavoro della cartella di lavoro a livello di codice.
+Le macro utilizzano le routine VBA sul retro e seguono il [Modello a oggetti di Excel](https://learn.microsoft.com/en-us/office/vba/api/overview/excel/object-model) per questo scopo. Questo modello identifica gli oggetti di un foglio di calcolo per l'interazione con il foglio di calcolo tramite barre degli strumenti dei comandi, barre dei comandi o finestre di messaggi definite dall'utente. Ad esempio, l'accesso alle proprietà della cartella di lavoro viene concesso con l'oggetto Cartella di lavoro. Allo stesso modo, nel modello è presente un oggetto Foglio di lavoro per lavorare con i fogli di lavoro della cartella di lavoro a livello di codice.
 
 ## Macro e sicurezza ##
 

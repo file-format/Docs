@@ -23,7 +23,7 @@
 
 ## Μορφή αρχείου CFF
 
-Τα αρχεία CFF είναι δυαδικά αρχεία που περιέχουν μια διάταξη δομημένων δεδομένων, έχουν καθορισμένους τύπους δεδομένων, μια κεφαλίδα, οργάνωση γλυφών και λεξικά πινάκων. Περισσότερες λεπτομέρειες σχετικά με αυτές μπορείτε να βρείτε στις [προδιαγραφές μορφής συμπαγούς γραμματοσειράς](https://docs.microsoft.com/en-us/typography/opentype/spec/cff).
+Τα αρχεία CFF είναι δυαδικά αρχεία που περιέχουν μια διάταξη δομημένων δεδομένων, έχουν καθορισμένους τύπους δεδομένων, μια κεφαλίδα, οργάνωση γλυφών και λεξικά πινάκων. Περισσότερες λεπτομέρειες σχετικά με αυτές μπορείτε να βρείτε στις [προδιαγραφές μορφής συμπαγούς γραμματοσειράς](https://learn.microsoft.com/en-us/typography/opentype/spec/cff).
 
 ### Διάταξη δεδομένων
 Η διάταξη δεδομένων της μορφής αρχείου CFF είναι όπως φαίνεται παρακάτω.
@@ -68,7 +68,7 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Πίνακας μορφής συμπαγούς γραμματοσειράς](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+* [Πίνακας μορφής συμπαγούς γραμματοσειράς](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
 * [Μορφή αρχείου CFF](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
-* [Σύνολο γραφημάτων CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+* [Σύνολο γραφημάτων CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

@@ -23,7 +23,7 @@ A DOCX a Microsoft Word dokumentumok jól ismert formátuma. A 2007-től, a Micr
 
 ## Rövid története ##
 
-Miután a Microsoft megnyitotta a DOC fájlformátum specifikációit, versenytársai könnyen visszafordíthatták a formátumot, és ugyanazt a támogatást biztosították saját alkalmazásaikban. Ezenkívül az Open Office versenye az Open Document Format formájában nyitottabb és szélesebb szabványok elfogadására kényszerítette a Microsoftot. 2000 elején a Microsoft úgy döntött, hogy a **Office Open XML** szabványhoz igazodó változtatás mellett döntött. Az új szabvány szerinti dokumentumok [.docx kiterjesztést](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), az "X"-et kapták. lévén XML-hez. 2007-re ez az új fájlformátum az Office 2007 részévé vált, és a Microsoft Office új verzióiban is érvényesül. Az új fájltípus további előnyökkel jár: kis fájlméret, kevesebb sérülési változás és jól formázott képmegjelenítés.
+Miután a Microsoft megnyitotta a DOC fájlformátum specifikációit, versenytársai könnyen visszafordíthatták a formátumot, és ugyanazt a támogatást biztosították saját alkalmazásaikban. Ezenkívül az Open Office versenye az Open Document Format formájában nyitottabb és szélesebb szabványok elfogadására kényszerítette a Microsoftot. 2000 elején a Microsoft úgy döntött, hogy a **Office Open XML** szabványhoz igazodó változtatás mellett döntött. Az új szabvány szerinti dokumentumok [.docx kiterjesztést](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), az "X"-et kapták. lévén XML-hez. 2007-re ez az új fájlformátum az Office 2007 részévé vált, és a Microsoft Office új verzióiban is érvényesül. Az új fájltípus további előnyökkel jár: kis fájlméret, kevesebb sérülési változás és jól formázott képmegjelenítés.
 
 ## DOCX fájlformátum specifikációi – További információ
 
@@ -105,6 +105,6 @@ A bekezdés a dokumentum fő tartalomhordozója. Ezt ** képviseli<w:p> ** elem 
 
 ## Hivatkozások ##
 
-* [MS – DOCX fájlformátum](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
+* [MS – DOCX fájlformátum](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
 * [Office Open XML](http://officeopenxml.com/)
 

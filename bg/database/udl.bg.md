@@ -47,5 +47,5 @@
 ## Препратки ##
 
 * [Компоненти за достъп до данни на Microsoft](https://en.wikipedia.org/wiki/Microsoft_Data_Access_Components#Universal_data_link)
-* [Конфигурация на универсална връзка за данни (UDL)](https://docs.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
+* [Конфигурация на универсална връзка за данни (UDL)](https://learn.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
 

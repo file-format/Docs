@@ -31,7 +31,7 @@ Excel provides easy to use steps for recording a macro. It requires you have Dev
 
 ## Excel Object Model ##
 
-Macros use VBA routines at their back and follow the [Excel Object Model](https://docs.microsoft.com/en-us/office/vba/api/overview/excel/object-model) for this purpose. This model identifies the objects of a spreadsheet for interaction with the spreadsheet through user-defined command toolbars, command bars or messages boxes. For example, access to the workbook's properties is granted with the Workbook object. Similarly, there is Worksheet object in the model to work with the worksheets of workbook programmatically.
+Macros use VBA routines at their back and follow the [Excel Object Model](https://learn.microsoft.com/en-us/office/vba/api/overview/excel/object-model) for this purpose. This model identifies the objects of a spreadsheet for interaction with the spreadsheet through user-defined command toolbars, command bars or messages boxes. For example, access to the workbook's properties is granted with the Workbook object. Similarly, there is Worksheet object in the model to work with the worksheets of workbook programmatically.
 
 ## Macros and Security ##
 

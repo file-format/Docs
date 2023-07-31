@@ -53,6 +53,6 @@ Naast eenvoudige berichtoverdracht, zou de oorspronkelijke toepassing van TNEF w
 ## Referenties
 
 * [Transport Neutral Encapsulation Format](https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
-* [E-mailadressen en adresboeken in Exchange Server](https://docs.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# ruilserver-2019)
+* [E-mailadressen en adresboeken in Exchange Server](https://learn.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# ruilserver-2019)
 * [[MS-OXTNEF]: TNEF-gegevensalgoritme (Transport Neutral Encapsulation Format)](https://msdn.microsoft.com/en-us/library/cc425498(v#exchg.80).aspx)
 

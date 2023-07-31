@@ -23,7 +23,7 @@ DOCX je dobře známý formát pro dokumenty Microsoft Word. Zaváděný od roku
 
 ## Stručná historie ##
 
-Poté, co Microsoft otevřel specifikace pro formát souboru DOC, bylo pro jeho konkurenty snadné zpětně analyzovat formát a poskytovat stejnou podporu ve svých vlastních aplikacích. Konkurence Open Office v podobě formátu Open Document Format navíc přinutila Microsoft přijmout otevřenější a širší standardy. Bylo to počátkem roku 2000, kdy se Microsoft rozhodl přistoupit ke změně, aby vyhovoval standardu pro **Office Open XML**. Dokumentům podle tohoto nového standardu byla přidělena [přípona .docx](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), „X“ být pro XML. V roce 2007 se tento nový formát souborů stal součástí sady Office 2007 a je používán i v nových verzích sady Microsoft Office. Nový typ souboru přidal výhody malých velikostí souborů, méně změn poškození a dobře formátované reprezentace obrázků.
+Poté, co Microsoft otevřel specifikace pro formát souboru DOC, bylo pro jeho konkurenty snadné zpětně analyzovat formát a poskytovat stejnou podporu ve svých vlastních aplikacích. Konkurence Open Office v podobě formátu Open Document Format navíc přinutila Microsoft přijmout otevřenější a širší standardy. Bylo to počátkem roku 2000, kdy se Microsoft rozhodl přistoupit ke změně, aby vyhovoval standardu pro **Office Open XML**. Dokumentům podle tohoto nového standardu byla přidělena [přípona .docx](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), „X“ být pro XML. V roce 2007 se tento nový formát souborů stal součástí sady Office 2007 a je používán i v nových verzích sady Microsoft Office. Nový typ souboru přidal výhody malých velikostí souborů, méně změn poškození a dobře formátované reprezentace obrázků.
 
 ## Specifikace formátu souboru DOCX – Další informace
 
@@ -105,6 +105,6 @@ Odstavec je hlavním držitelem obsahu v dokumentu. Je reprezentován **<w:p> **
 
 ## Reference ##
 
-* [formát souboru MS – DOCX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
+* [formát souboru MS – DOCX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
 * [Office Open XML](http://officeopenxml.com/)
 

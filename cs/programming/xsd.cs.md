@@ -27,7 +27,7 @@ Soubory XSD se ukládají na disk ve formátu prostého textu, který je čiteln
 
 ## Příklad souboru XSD
 
-Jednoduchý soubor XSD se schématem nákupní objednávky definuje prvky pomocí značek, jak je znázorněno v následujícím [příkladu XSD od společnosti Microsoft](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -simple-schema?view=vs-2022).
+Jednoduchý soubor XSD se schématem nákupní objednávky definuje prvky pomocí značek, jak je znázorněno v následujícím [příkladu XSD od společnosti Microsoft](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -simple-schema?view=vs-2022).
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
@@ -67,5 +67,5 @@ Zde se používají následující značky.
 ## Reference ##
 
 - [Microsoft XML Notepad](https://microsoft.github.io/XmlNotepad/)
-- [Ukázkový příklad XSD](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
+- [Ukázkový příklad XSD](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
 

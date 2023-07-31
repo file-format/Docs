@@ -55,6 +55,6 @@
 |uint32| dsigOffset |Η μετατόπιση (σε byte) του πίνακα DSIG από την αρχή του αρχείου TTC (μηδενική αν δεν υπάρχει υπογραφή)|
 
 ## βιβλιογραφικές αναφορές
-* [Το αρχείο γραμματοσειράς OpenType](https://docs.microsoft.com/en-us/typography/opentype/spec/otff)
+* [Το αρχείο γραμματοσειράς OpenType](https://learn.microsoft.com/en-us/typography/opentype/spec/otff)
 * [TrueType (Wikipedia)](https://en.wikipedia.org/wiki/TrueType)
 

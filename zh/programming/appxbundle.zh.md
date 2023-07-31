@@ -28,5 +28,5 @@ APPXBUNDLE 文件以 ZIP 文件格式发布。如果您想查看应用程序包�
 ## 参考
 
 * [.appx 和 .appxbundle 包的依赖包](https://www.ibm.com/docs/en/maas360?topic=catalog-dependency-packages-appx-appxbundle-packages)
-* [使用 Microsoft Visual Studio 创建 APPX 文件](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [使用 Microsoft Visual Studio 创建 APPX 文件](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

@@ -90,5 +90,5 @@
 
 ## Список літератури
 * [Довідковий посібник із шрифтів TrueType](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [Огляд TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Огляд TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

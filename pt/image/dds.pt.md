@@ -26,7 +26,7 @@ Os arquivos DDS são salvos como arquivos binários e podem ser usados com o Dir
 
 ### Layout do arquivo DDS
 
-O [layout do arquivo DDS](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) foi documentado pela Microsoft em detalhes. Um arquivo DDS binário contém as seguintes informações.
+O [layout do arquivo DDS](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) foi documentado pela Microsoft em detalhes. Um arquivo DDS binário contém as seguintes informações.
 
 * Um DWORD (número mágico) contendo o valor do código de quatro caracteres 'DDS' (0x20534444).
 * Uma descrição dos dados no arquivo.
@@ -38,7 +38,7 @@ DWORD               dwMagic;
 DDS_HEADER          header;
 ```
 
-O [guia de programação do formato de arquivo DDS](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) elabora ainda mais os detalhes técnicos desse formato de arquivo.
+O [guia de programação do formato de arquivo DDS](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) elabora ainda mais os detalhes técnicos desse formato de arquivo.
 
 ## Referências
 

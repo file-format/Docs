@@ -40,6 +40,6 @@
 
 ## Список літератури
 
-* [Файли бази даних і файлові групи](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [Посібник з архітектури та керування журналом транзакцій](https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql- server-ver15)
+* [Файли бази даних і файлові групи](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
+* [Посібник з архітектури та керування журналом транзакцій](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql- server-ver15)
 

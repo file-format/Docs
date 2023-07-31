@@ -90,4 +90,4 @@ Each table in a font file must have its own table directory entry. Entries in a 
 
 ## References
  * [TrueType Font Reference Manual](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
- * [TrueType Overview](https://docs.microsoft.com/en-us/typography/truetype/)
+ * [TrueType Overview](https://learn.microsoft.com/en-us/typography/truetype/)

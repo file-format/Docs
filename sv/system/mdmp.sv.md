@@ -51,5 +51,5 @@ Följande steg kan användas för att öppna en MDMP-fil i Visual Studio.
 
 ## Referens
 
-* [Hur man läser den lilla minnesdumpfilen som skapas av Windows om en krasch inträffar](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -fil)
+* [Hur man läser den lilla minnesdumpfilen som skapas av Windows om en krasch inträffar](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -fil)
 

@@ -41,6 +41,6 @@
 
 ## อ้างอิง
 
-* [การใช้บริการ ASMX](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/web-services/asmx)
+* [การใช้บริการ ASMX](https://learn.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/web-services/asmx)
 * [การควบคุมผู้ใช้ ASCX](https://beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

@@ -29,6 +29,6 @@ ADE 파일은 이러한 파일을 만드는 데 사용된 Microsoft Access 버�
 
 ## 참고문헌
 
-* [Access ADE 파일 관련 문제](https://docs.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
+* [Access ADE 파일 관련 문제](https://learn.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
 * [사용할 액세스 파일 형식](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

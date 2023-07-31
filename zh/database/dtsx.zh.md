@@ -29,10 +29,10 @@ DTSX 描述的数据流如下图所示。
 
 {{< figure src="../DataFlowDTSX.png" alt="数据流 DTSX" >}}
 
-DTSX 基于 [XML](/zh/web/xml/) 并记录在 [MS-DTSX](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd）。 DTSX XML 的增强重构是 DTSX 2.0，它包括结构的新属性、将命名属性替换为父 XML 属性、指定大多数属性值的默认值以及在父元素内放置重复元素。 DTSX 结构使用这些 [XML 模式](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1) 描述，结构格式为明文 XML。
+DTSX 基于 [XML](/zh/web/xml/) 并记录在 [MS-DTSX](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd）。 DTSX XML 的增强重构是 DTSX 2.0，它包括结构的新属性、将命名属性替换为父 XML 属性、指定大多数属性值的默认值以及在父元素内放置重复元素。 DTSX 结构使用这些 [XML 模式](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1) 描述，结构格式为明文 XML。
 
 ## 参考
 
-* [DTSX 格式 - 微软](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd)
-* [DTSX 2 格式 - Microsoft 提供](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx2/fb216aa4-62ab-41c8-a6d5-5b1002739d21)
+* [DTSX 格式 - 微软](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd)
+* [DTSX 2 格式 - Microsoft 提供](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx2/fb216aa4-62ab-41c8-a6d5-5b1002739d21)
 

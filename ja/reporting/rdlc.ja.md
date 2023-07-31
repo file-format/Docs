@@ -43,5 +43,5 @@ ReportViewer コントロールは、コントロールの組み込み処理機�
 
 ## 参照 ##
 
-- [クライアント レポート定義 (.rdlc) ファイルの作成](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
+- [クライアント レポート定義 (.rdlc) ファイルの作成](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
 

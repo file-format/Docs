@@ -27,5 +27,5 @@ AP файловете се хостват на уеб сървъра с помо
 ## Препратки
 
 * [ASP - От W3C](https://www.w3schools.com/asp/default.asp)
-* [Създаване на прости ASP страници](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Създаване на прости ASP страници](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

@@ -90,5 +90,5 @@ Microsoft за първи път използва шрифтовете TrueType 
 
 ## Препратки
 * [Справочно ръководство за шрифтове TrueType](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [Общ преглед на TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Общ преглед на TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

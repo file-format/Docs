@@ -55,6 +55,6 @@
 |uint32| dsigOffset |ההיסט (בבתים) של טבלת DSIG מתחילת קובץ TTC (null אם אין חתימה)|
 
 ## הפניות
-* [קובץ הגופן של OpenType](https://docs.microsoft.com/en-us/typography/opentype/spec/otff)
+* [קובץ הגופן של OpenType](https://learn.microsoft.com/en-us/typography/opentype/spec/otff)
 * [TrueType (Wikipedia)](https://en.wikipedia.org/wiki/TrueType)
 

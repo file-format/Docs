@@ -86,6 +86,6 @@ Op basis van de informatie in de projectsectie van het .sln-bestand laadt de omg
 
 ### **Referenties** ###
 
-* [Oplossingsbestand - door MSDN](https://docs.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
+* [Oplossingsbestand - door MSDN](https://learn.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
 * [Guid's voor projecttype](https://www.codeproject.com/Reference/720512/List-of-Visual-Studio-Project-Type-GUIDs)
 

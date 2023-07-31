@@ -27,9 +27,9 @@ ETL files are saved to disc in compressed binary format to reduce disk space.
 
 ## Open ETL Files using Windows Performance Analyzer
 
-ETL files data can be read and visualized in tabular as well as graphical format using the Microsoft Windows Performance Analyzer (WPA) application. The [Opening and Analyzing ETL files](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) guide provides information about working with ETL files.
+ETL files data can be read and visualized in tabular as well as graphical format using the Microsoft Windows Performance Analyzer (WPA) application. The [Opening and Analyzing ETL files](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) guide provides information about working with ETL files.
 
 ## References
 
-* [Windows Performance Analyzer](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
-* [WPA Quick Start Guide](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
+* [Windows Performance Analyzer](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
+* [WPA Quick Start Guide](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)

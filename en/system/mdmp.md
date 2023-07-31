@@ -51,4 +51,4 @@ The following steps can be used to open an MDMP file in Visual Studio.
 
 ## Reference
 
-* [How to read the small memory dump file that is created by Windows if a crash occurs](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
+* [How to read the small memory dump file that is created by Windows if a crash occurs](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)

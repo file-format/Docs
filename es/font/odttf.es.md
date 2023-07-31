@@ -28,6 +28,6 @@ NiXPS Ver y NiXPS Editar.
 La estructura de formato de archivo interno del formato de archivo ODTTF no se conoce, ya que se almacenan como formato ofuscado incrustado. Estos se pueden incrustar en documentos digitales como .PDF o .DOCX.
 
 ## Referencias
-* [Especificaciones de fuentes OpenType de Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [Descripción general de TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Especificaciones de fuentes OpenType de Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [Descripción general de TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

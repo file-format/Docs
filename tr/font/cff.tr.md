@@ -23,7 +23,7 @@
 
 ## CFF Dosya Biçimi
 
-CFF dosyaları, yapılandırılmış bir veri düzeni içeren, tanımlanmış veri türleri, bir başlık, glif organizasyonu ve tablo sözlükleri içeren ikili dosyalardır. Bunlar hakkında daha fazla ayrıntı [kompakt yazı tipi biçimi belirtimlerinde](https://docs.Microsoft.com/en-us/typography/opentype/spec/cff) bulunabilir.
+CFF dosyaları, yapılandırılmış bir veri düzeni içeren, tanımlanmış veri türleri, bir başlık, glif organizasyonu ve tablo sözlükleri içeren ikili dosyalardır. Bunlar hakkında daha fazla ayrıntı [kompakt yazı tipi biçimi belirtimlerinde](https://learn.microsoft.com/en-us/typography/opentype/spec/cff) bulunabilir.
 
 ### Veri Düzeni
 CFF dosya formatının veri düzeni aşağıda gösterildiği gibidir.
@@ -68,7 +68,7 @@ CFF veri türleri aşağıdaki tabloda gösterildiği gibidir.
 
 ## Referanslar
 
-* [Kompakt Yazı Tipi Biçimi Tablosu](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+* [Kompakt Yazı Tipi Biçimi Tablosu](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
 * [CFF Dosya Biçimi](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
-* [CFF2 Chartset](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+* [CFF2 Chartset](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

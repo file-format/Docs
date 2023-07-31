@@ -23,7 +23,7 @@ DOCX ist ein bekanntes Format für Microsoft Word-Dokumente. Die Struktur dieses
 
 ## Kurze Geschichte ##
 
-Nachdem Microsoft die Spezifikationen für das DOC-Dateiformat geöffnet hatte, war es für seine Konkurrenten einfach, das Format zurückzuentwickeln und die gleiche Unterstützung in ihren eigenen Anwendungen bereitzustellen. Darüber hinaus zwang die Konkurrenz von Open Office in Form seines Open Document Format Microsoft dazu, offenere und breitere Standards einzuführen. Anfang des Jahres 2000 beschloss Microsoft, die Änderung vorzunehmen, um den Standard für **Office Open XML** aufzunehmen. Dokumente unter diesem neuen Standard erhielten die Erweiterung [.docx](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), das „X“ für XML sein. 2007 wurde dieses neue Dateiformat Teil von Office 2007 und wird auch in den neuen Versionen von Microsoft Office weitergeführt. Der neue Dateityp hat zusätzliche Vorteile wie kleine Dateigrößen, weniger Änderungen durch Beschädigung und gut formatierte Bilddarstellung.
+Nachdem Microsoft die Spezifikationen für das DOC-Dateiformat geöffnet hatte, war es für seine Konkurrenten einfach, das Format zurückzuentwickeln und die gleiche Unterstützung in ihren eigenen Anwendungen bereitzustellen. Darüber hinaus zwang die Konkurrenz von Open Office in Form seines Open Document Format Microsoft dazu, offenere und breitere Standards einzuführen. Anfang des Jahres 2000 beschloss Microsoft, die Änderung vorzunehmen, um den Standard für **Office Open XML** aufzunehmen. Dokumente unter diesem neuen Standard erhielten die Erweiterung [.docx](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), das „X“ für XML sein. 2007 wurde dieses neue Dateiformat Teil von Office 2007 und wird auch in den neuen Versionen von Microsoft Office weitergeführt. Der neue Dateityp hat zusätzliche Vorteile wie kleine Dateigrößen, weniger Änderungen durch Beschädigung und gut formatierte Bilddarstellung.
 
 ## DOCX-Dateiformatspezifikationen – Weitere Informationen
 
@@ -105,6 +105,6 @@ Ein Absatz ist der Hauptinhaltshalter innerhalb eines Dokuments. Es wird dargest
 
 ## Verweise ##
 
-* [MS - DOCX-Dateiformat](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
+* [MS - DOCX-Dateiformat](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
 * [Office Open XML](http://officeopenxml.com/)
 

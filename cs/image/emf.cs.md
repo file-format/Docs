@@ -95,6 +95,6 @@ Formát souboru EMF byl dvakrát revidován. Změněné verze jsou původní, ro
 
 ## Reference ##
 
-* [Enhanced-Format Metafiles | Microsoft Docs](https://docs.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
+* [Enhanced-Format Metafiles | Microsoft Docs](https://learn.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
 * [Vylepšený formát a specifikace metasouborů](https://msdn.microsoft.com/en-us/library/cc230514.aspx)
 

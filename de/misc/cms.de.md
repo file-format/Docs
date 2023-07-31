@@ -31,5 +31,5 @@ Eine CMS-Profildatei wird mit Connection Manager erstellt und mit anderen Konfig
 
 ## Verweise
 
-* [Windows Connection Manager verstehen und konfigurieren](https://docs.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
+* [Windows Connection Manager verstehen und konfigurieren](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
 

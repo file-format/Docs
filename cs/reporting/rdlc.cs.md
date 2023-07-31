@@ -43,5 +43,5 @@ Náhled sestavy můžete zobrazit pouze jejím spuštěním v ovládacím prvku 
 
 ## Reference ##
 
-- [Vytváření souborů definice klientských sestav (.rdlc)](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
+- [Vytváření souborů definice klientských sestav (.rdlc)](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
 

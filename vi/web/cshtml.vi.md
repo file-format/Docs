@@ -66,5 +66,5 @@ End Code
 
 ## Người giới thiệu
 
-* [Tham khảo cú pháp dao cạo - Microsoft](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0)
+* [Tham khảo cú pháp dao cạo - Microsoft](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0)
 

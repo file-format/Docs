@@ -45,5 +45,5 @@ Visual Studio では、クラス図を [PNG](/image/png/)、[JPEG](/image/jpeg/)
 
 ## 参考文献
 
-* [Visual Studio のデザイン クラス](https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
+* [Visual Studio のデザイン クラス](https://learn.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
 

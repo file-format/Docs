@@ -53,6 +53,6 @@ Ngoài việc truyền thông báo đơn giản, ứng dụng ban đầu của T
 ## Người giới thiệu
 
 * [Định dạng đóng gói trung lập vận chuyển](https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
-* [Địa chỉ email và sổ địa chỉ trong Exchange Server](https://docs.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
+* [Địa chỉ email và sổ địa chỉ trong Exchange Server](https://learn.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
 * [[MS-OXTNEF]: Thuật toán dữ liệu định dạng đóng gói trung tính vận chuyển (TNEF)](https://msdn.microsoft.com/en-us/library/cc425498(v#exchg.80).aspx)
 

@@ -29,6 +29,6 @@ ADE файловете могат да създадат проблеми при 
 
 ## Препратки
 
-* [Проблем с ADE файлове на Access](https://docs.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
+* [Проблем с ADE файлове на Access](https://learn.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
 * [Кои файлови формати за достъп да използвате](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

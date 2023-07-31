@@ -27,7 +27,7 @@ PPTX 파일 형식은 2007년에 도입되었으며 2000년에 Microsoft에서 �
 
 ## PPTX 파일 형식 사양
 
-Office Open XML 파일 형식으로 생성된 파일은 모든 구성 파일 간의 링크를 제공하는 다른 파일과 함께 XML 파일의 모음입니다. 이 컬렉션은 실제로 콘텐츠를 보기 위해 추출할 수 있는 압축된 아카이브입니다. 이렇게 하려면 PPTX 파일 확장자의 이름을 zip으로 바꾸고 내용을 관찰하기 위해 압축을 풉니다([PPTX 파일 형식 사양](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/ 참조). efd8bb2d-d888-4e2e-af25-cad476730c9f) Microsoft).
+Office Open XML 파일 형식으로 생성된 파일은 모든 구성 파일 간의 링크를 제공하는 다른 파일과 함께 XML 파일의 모음입니다. 이 컬렉션은 실제로 콘텐츠를 보기 위해 추출할 수 있는 압축된 아카이브입니다. 이렇게 하려면 PPTX 파일 확장자의 이름을 zip으로 바꾸고 내용을 관찰하기 위해 압축을 풉니다([PPTX 파일 형식 사양](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/ 참조). efd8bb2d-d888-4e2e-af25-cad476730c9f) Microsoft).
 
 다음 섹션에서는 이들 각각에 대해 설명합니다.
 
@@ -90,6 +90,6 @@ r:id#"rId2"는 슬라이드(slide1.xml.rels)의 관계 부분 내에서 다음 �
 
 ## 참조 ##
 
-* [[MS-PPTX] - PPTX 파일 형식](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
+* [[MS-PPTX] - PPTX 파일 형식](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
 * [오픈오피스 XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
 

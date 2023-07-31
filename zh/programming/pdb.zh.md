@@ -19,7 +19,7 @@
 
 ## 什么是一 .pdb 文件？
 
-扩展名为 .pdb 的文件是一个程序数据库文件，其中包含已编译的可执行文件 (EXE/DLL) 的调试信息。在调试模式下编译应用程序时，Microsoft 编译器会生成 PDB 文件。 PDB 文件的存在有助于对可执行文件进行逆向工程，因为它包含有关模块所有符号的重要信息。正是由于这个原因，这些文件与最终的可执行文件分开。微软的[DgbHelp API](https://docs.microsoft.com/en-us/windows/win32/debug/dbghelp-functions)可以打开一个PDB文件来获取publics和exports、全局符号、局部符号、输入数据、源文件和行号。
+扩展名为 .pdb 的文件是一个程序数据库文件，其中包含已编译的可执行文件 (EXE/DLL) 的调试信息。在调试模式下编译应用程序时，Microsoft 编译器会生成 PDB 文件。 PDB 文件的存在有助于对可执行文件进行逆向工程，因为它包含有关模块所有符号的重要信息。正是由于这个原因，这些文件与最终的可执行文件分开。微软的[DgbHelp API](https://learn.microsoft.com/en-us/windows/win32/debug/dbghelp-functions)可以打开一个PDB文件来获取publics和exports、全局符号、局部符号、输入数据、源文件和行号。
 
 ## PDB 文件格式
 

@@ -66,5 +66,5 @@ End Code
 
 ## مراجع
 
-* [مرجع بنية الشفرة - Microsoft](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor؟view=aspnetcore-5.0)
+* [مرجع بنية الشفرة - Microsoft](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/razor؟view=aspnetcore-5.0)
 

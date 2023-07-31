@@ -26,7 +26,7 @@
 
 ### เค้าโครงไฟล์ DDS
 
-[รูปแบบไฟล์ DDS](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) ได้รับการบันทึกโดย Microsoft อย่างละเอียด ไฟล์ Binary DDS มีข้อมูลต่อไปนี้
+[รูปแบบไฟล์ DDS](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) ได้รับการบันทึกโดย Microsoft อย่างละเอียด ไฟล์ Binary DDS มีข้อมูลต่อไปนี้
 
 * DWORD (ตัวเลขมหัศจรรย์) ที่มีค่ารหัสอักขระสี่ตัว 'DDS' (0x20534444)
 * คำอธิบายของข้อมูลในไฟล์
@@ -38,7 +38,7 @@ DWORD               dwMagic;
 DDS_HEADER          header;
 ```
 
-[คู่มือการเขียนโปรแกรมของรูปแบบไฟล์ DDS](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) ให้รายละเอียดเพิ่มเติมทางเทคนิคของรูปแบบไฟล์นี้
+[คู่มือการเขียนโปรแกรมของรูปแบบไฟล์ DDS](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) ให้รายละเอียดเพิ่มเติมทางเทคนิคของรูปแบบไฟล์นี้
 
 ## อ้างอิง
 

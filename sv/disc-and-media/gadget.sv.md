@@ -38,6 +38,6 @@ Eftersom Windows Sidebar-plattformen i Windows 7 har allvarliga sårbarheter är
 
 ## Referenser
 
-* [Windows Sidebar - av Microsoft](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
-* [Utveckla en gadget för Windows Sidebar del 1](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
+* [Windows Sidebar - av Microsoft](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
+* [Utveckla en gadget för Windows Sidebar del 1](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
 

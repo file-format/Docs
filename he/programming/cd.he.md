@@ -45,5 +45,5 @@ Visual Studio מאפשר להמיר/לייצא דיאגרמות מחלקות ל�
 
 ## הפניות
 
-* [שיעורי עיצוב ב-Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
+* [שיעורי עיצוב ב-Visual Studio](https://learn.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
 

@@ -53,6 +53,6 @@ TNEF 中的数据流以旧版本号、签名、原始键值和表示代码页的
 ## 参考
 
 * [传输中性封装格式](https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
-* [Exchange Server 中的电子邮件地址和通讯簿](https://docs.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
+* [Exchange Server 中的电子邮件地址和通讯簿](https://learn.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
 * [[MS-OXTNEF]：传输中性封装格式 (TNEF) 数据算法](https://msdn.microsoft.com/en-us/library/cc425498(v#exchg.80).aspx)
 

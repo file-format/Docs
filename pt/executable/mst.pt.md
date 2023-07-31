@@ -40,6 +40,6 @@ TRANSFORMS=transform1.mst;transform2.mst;transform3.mst
 ## Referências
 
 * [Arquivos de transformação do MST](https://www.exemsi.com/documentation/mst-transformation-files/)
-* [propriedade TRANSFORMS](https://docs.microsoft.com/en-us/windows/win32/msi/transforms)
+* [propriedade TRANSFORMS](https://learn.microsoft.com/en-us/windows/win32/msi/transforms)
 
 

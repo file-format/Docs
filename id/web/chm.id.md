@@ -54,6 +54,6 @@ Bantuan HTML terdiri dari beberapa komponen. Ini termasuk yang berikut:
 
 ## Referensi
 
-* [Bantuan Microsoft HTML](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [Bantuan Microsoft HTML](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 * [Bantuan HTML Terkompilasi Microsoft](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 

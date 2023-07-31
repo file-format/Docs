@@ -27,7 +27,7 @@
 
 ## Специфікації формату файлу XLSX
 
-Офіційні [специфікації формату файлу XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) доступні онлайн від Microsoft. Щоб побачити, що знаходиться всередині файлу XLSX, просто перейменуйте його на файл [ZIP](/uk/стиснення/zip/), змінивши його розширення, а потім розпакуйте його, щоб переглянути складові файли цієї книги Excel. Пуста робоча книга, розпакована до своїх файлів, має такі складові файли та папки.
+Офіційні [специфікації формату файлу XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) доступні онлайн від Microsoft. Щоб побачити, що знаходиться всередині файлу XLSX, просто перейменуйте його на файл [ZIP](/uk/стиснення/zip/), змінивши його розширення, а потім розпакуйте його, щоб переглянути складові файли цієї книги Excel. Пуста робоча книга, розпакована до своїх файлів, має такі складові файли та папки.
 
 ### [Content_Types].xml ###
 
@@ -77,6 +77,6 @@
 
 ## Список літератури
 
-* [[MS-XLSX] – формат файлу XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [[MS-XLSX] – формат файлу XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

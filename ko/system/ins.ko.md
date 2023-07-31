@@ -48,6 +48,6 @@ IEAK 11(Internet Explorer Administration Kit 11)과 함께 INS(인터넷 설정 
 
 ## 참고문헌
 
-* [IEAK 11에서 인터넷 설정(.INS) 파일 사용](https://docs.microsoft.com/en-us/internet-explorer/ie11-ieak/using-internet-settings-ins-files)
+* [IEAK 11에서 인터넷 설정(.INS) 파일 사용](https://learn.microsoft.com/en-us/internet-explorer/ie11-ieak/using-internet-settings-ins-files)
 
 

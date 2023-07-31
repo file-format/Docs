@@ -61,5 +61,5 @@ Trong RDL, DataType Enumeration xác định kiểu dữ liệu của một thu�
 ## Người giới thiệu ##
 
 - [Ngôn ngữ Định nghĩa Báo cáo (Wikipedia)](https://en.wikipedia.org/wiki/Report_Definition_Language)
-- [Ngôn ngữ Định nghĩa Báo cáo (SSRS)](https://docs.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
+- [Ngôn ngữ Định nghĩa Báo cáo (SSRS)](https://learn.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
 

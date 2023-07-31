@@ -31,5 +31,5 @@ CMS профилен файл се създава с помощта на Connect
 
 ## Препратки
 
-* [Разбиране и конфигуриране на Windows Connection Manager](https://docs.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
+* [Разбиране и конфигуриране на Windows Connection Manager](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
 

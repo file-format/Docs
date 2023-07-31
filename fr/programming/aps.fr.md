@@ -26,7 +26,7 @@ Le format de fichier APS n'est qu'une étape de compilation et ne stocke que des
 
 ## Références
 
-* [Fichiers de ressources (C++)](https://docs.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
+* [Fichiers de ressources (C++)](https://learn.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
  
 
 

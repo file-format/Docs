@@ -31,5 +31,5 @@
 
 ## مراجع
 
-* [فهم وتكوين مدير اتصال Windows](https://docs.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
+* [فهم وتكوين مدير اتصال Windows](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
 

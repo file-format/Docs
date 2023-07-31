@@ -86,5 +86,5 @@ typedef struct tagRGBQUAD {
 |32 bites formátum|32 bites képek maximum 2^24 színt tartalmazhatnak (biBitCount == 24).
 
 ## Referenciák ##
-* [Eszközfüggetlen bittérképek – Microsoft](https://docs.microsoft.com/en-us/windows/win32/gdi/device-independent-bitmaps)
+* [Eszközfüggetlen bittérképek – Microsoft](https://learn.microsoft.com/en-us/windows/win32/gdi/device-independent-bitmaps)
 

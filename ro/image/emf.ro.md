@@ -95,6 +95,6 @@ Formatul fișierului EMF a fost revizuit de două ori. Versiunile modificate sun
 
 ## Referințe ##
 
-* [Metafișiere cu format îmbunătățit | Microsoft Docs](https://docs.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
+* [Metafișiere cu format îmbunătățit | Microsoft Docs](https://learn.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
 * [Format și specificații îmbunătățite pentru metafișier](https://msdn.microsoft.com/en-us/library/cc230514.aspx)
 

@@ -29,6 +29,6 @@ CMS-Dateien werden im Webformat gespeichert und enthalten verschiedene Arten von
 
 ## Verweise
 
-* [Microsoft HTML-Hilfe](https://docs.microsoft.com/en-us/ previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [Microsoft HTML-Hilfe](https://learn.microsoft.com/en-us/ previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 * [Microsoft Compiled HTML Help](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 

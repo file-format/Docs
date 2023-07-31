@@ -59,5 +59,5 @@ Um único arquivo ASAX consiste em várias seções que são escritas para lidar
 ## Referências
 
 * [Visão geral de manipuladores HTTP e módulos HTTP](https://msdn.microsoft.com/en-us/library/bb398986(v=vs.100))
-* [Sintaxe Global.asax](https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
+* [Sintaxe Global.asax](https://learn.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
 

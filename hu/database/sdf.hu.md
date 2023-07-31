@@ -27,6 +27,6 @@ Az .sdf elnevezési konvenció nem kötelező, és bármilyen kiterjesztéssel m
 ## Hivatkozások
 
 * [SQL Server Compact – Wikipedia](https://en.wikipedia.org/wiki/SQL_Server_Compact)
-* [Az SQL Server Compact használata ASP.NET webalkalmazásokhoz](https://docs.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
+* [Az SQL Server Compact használata ASP.NET webalkalmazásokhoz](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
 
 

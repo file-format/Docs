@@ -23,7 +23,7 @@ En fil med filtillägget .cff är ett kompakt teckensnittsformat och kallas äve
 
 ## CFF filformat
 
-CFF-filer är binära filer som innehåller en strukturerad datalayout, har definierade datatyper, en rubrik, glyph-organisation och tabellordböcker. Mer information om dessa finns i [specifikationerna för kompakta teckensnittsformat](https://docs.microsoft.com/en-us/typography/opentype/spec/cff).
+CFF-filer är binära filer som innehåller en strukturerad datalayout, har definierade datatyper, en rubrik, glyph-organisation och tabellordböcker. Mer information om dessa finns i [specifikationerna för kompakta teckensnittsformat](https://learn.microsoft.com/en-us/typography/opentype/spec/cff).
 
 ### Datalayout
 Datalayouten för CFF-filformatet är som visas nedan.
@@ -68,7 +68,7 @@ Den binära datan börjar med en rubrik med formatet som visas i följande tabel
 
 ## Referenser
 
-* [Compact Font Format Table](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+* [Compact Font Format Table](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
 * [CFF-filformat](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
-* [CFF2 Chartset](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+* [CFF2 Chartset](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

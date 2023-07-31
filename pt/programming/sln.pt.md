@@ -86,6 +86,6 @@ Com base nas informações contidas na seção de projeto do arquivo .sln, o amb
 
 ### **Referências** ###
 
-* [Arquivo de solução - por MSDN](https://docs.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
+* [Arquivo de solução - por MSDN](https://learn.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
 * [GUIDs de tipo de projeto](https://www.codeproject.com/Reference/720512/List-of-Visual-Studio-Project-Type-GUIDs)
 

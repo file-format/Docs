@@ -53,6 +53,6 @@ Förutom enkel meddelandeöverföring, skulle den ursprungliga applikationen av 
 ## Referenser
 
 * [Transport Neutral Encapsulation Format](https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
-* [E-postadresser och adressböcker i Exchange Server](https://docs.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
+* [E-postadresser och adressböcker i Exchange Server](https://learn.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
 * [[MS-OXTNEF]: Transport Neutral Encapsulation Format (TNEF) Data Algorithm](https://msdn.microsoft.com/en-us/library/cc425498(v#exchg.80).aspx)
 

@@ -29,6 +29,6 @@ CMS-bestanden worden opgeslagen in webformaat en deze bevatten verschillende soo
 
 ## Referenties
 
-* [Microsoft HTML Help](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [Microsoft HTML Help](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 * [Microsoft Compiled HTML Help](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 

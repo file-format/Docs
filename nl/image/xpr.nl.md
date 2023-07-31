@@ -27,5 +27,5 @@ XPR-bestanden werden geïdentificeerd om te profiteren van een kwetsbaarheid in 
 
 ## Referenties
 
-* [Kwetsbaarheid in expressieontwerp kan leiden tot uitvoering van externe code (2651018)](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
+* [Kwetsbaarheid in expressieontwerp kan leiden tot uitvoering van externe code (2651018)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
 

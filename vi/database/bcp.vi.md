@@ -19,7 +19,7 @@
 
 ## Tệp BCP là gì?
 
-BCP (Định dạng sao chép hàng loạt) là định dạng dữ liệu kỹ thuật của Microsoft SQL Server xác định cấu trúc dữ liệu để lưu trữ các giá trị loại dữ liệu cơ sở dữ liệu khác nhau để nhập/xuất. Định dạng xác định đầy đủ cách giải thích của từng cột dữ liệu để có thể đọc được tập hợp các giá trị được chỉ định trong tệp dữ liệu. Tiện ích [BCP](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/ms162802(v=sql.105)) sử dụng định dạng tệp BCP để đọc dữ liệu từ một tập tin như vậy và xác định nó.
+BCP (Định dạng sao chép hàng loạt) là định dạng dữ liệu kỹ thuật của Microsoft SQL Server xác định cấu trúc dữ liệu để lưu trữ các giá trị loại dữ liệu cơ sở dữ liệu khác nhau để nhập/xuất. Định dạng xác định đầy đủ cách giải thích của từng cột dữ liệu để có thể đọc được tập hợp các giá trị được chỉ định trong tệp dữ liệu. Tiện ích [BCP](https://learn.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/ms162802(v=sql.105)) sử dụng định dạng tệp BCP để đọc dữ liệu từ một tập tin như vậy và xác định nó.
 
 
 ## Định dạng tệp BCP
@@ -59,5 +59,5 @@ Cấu trúc của tệp định dạng được biểu diễn dưới dạng sau
 
 ## Người giới thiệu
 
-* [Định dạng BCP - Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
+* [Định dạng BCP - Microsoft](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
 

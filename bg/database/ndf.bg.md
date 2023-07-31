@@ -71,7 +71,7 @@ PFS идентифицира състоянието на разпределен�
 
 ## Препратки
 
-* [Файлове с бази данни и файлови групи](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?redirectedfrom=MSDN&view=sql-server-ver15)
-* [Отделяне и прикачване на база данни - SQL Server](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
+* [Файлове с бази данни и файлови групи](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?redirectedfrom=MSDN&view=sql-server-ver15)
+* [Отделяне и прикачване на база данни - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
 * [Анализиране на анатомията на файла с данни на SQL Server](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

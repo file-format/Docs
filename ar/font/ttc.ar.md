@@ -55,6 +55,6 @@
 | uint32 | dsigOffset | الإزاحة (بالبايت) لجدول DSIG من بداية ملف TTC (خالية إذا لم يكن هناك توقيع) |
 
 ## مراجع
-* [ملف خط OpenType](https://docs.microsoft.com/en-us/typography/opentype/spec/otff)
+* [ملف خط OpenType](https://learn.microsoft.com/en-us/typography/opentype/spec/otff)
 * [تروتايب (ويكيبيديا)](https://en.wikipedia.org/wiki/TrueType)
 

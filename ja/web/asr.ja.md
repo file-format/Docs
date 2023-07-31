@@ -27,5 +27,5 @@ ASR ファイルには、標準のスクリプト言語で開発されたスク�
 ## 参考文献
 
 * [Adobe Contribute - ウィキペディアによる](https://en.wikipedia.org/wiki/Adobe_Contribute)
-* [簡単な ASP ページの作成](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [簡単な ASP ページの作成](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

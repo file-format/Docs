@@ -29,6 +29,6 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Βοήθεια HTML της Microsoft](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [Βοήθεια HTML της Microsoft](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 * [Βοήθεια μεταγλωττισμένης HTML της Microsoft](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 

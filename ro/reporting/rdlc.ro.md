@@ -43,5 +43,5 @@ Puteți previzualiza un raport numai rulând-l într-un control **ReportViewer**
 
 ## Referințe ##
 
-- [Crearea fișierelor de definiție a raportului client (.rdlc)](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
+- [Crearea fișierelor de definiție a raportului client (.rdlc)](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
 

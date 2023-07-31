@@ -66,5 +66,5 @@ End Code
 
 ## 参考
 
-* [Razor 语法参考 - Microsoft](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0)
+* [Razor 语法参考 - Microsoft](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0)
 

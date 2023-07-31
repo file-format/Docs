@@ -24,7 +24,7 @@ Bestanden met de extensie CSPROJ vertegenwoordigen een C#-projectbestand dat de 
 
 Ontwikkelaars kunnen zelf projectbestanden maken en het [MSBuild XML Schema](https://msdn.microsoft.com/library/5dy88c2e.aspx) respecteren. Door de open en transparante structuur van projectbestanden kunnen applicatieontwikkelaars geavanceerde en fijnmazige controle opleggen over hoe de projecten worden gebouwd en geïmplementeerd. De inhoud van zo'n projectdossier heeft een heel duidelijke onderlinge relatie. De volgende figuur toont de belangrijkste elementen en de relatie daartussen voor een dergelijk projectdossier.
 
-![](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
+![](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
 
 De volgende paragrafen werken de bestandsformaatelementen voor een projectbestand uit.
 
@@ -94,5 +94,5 @@ Taken moeten altijd binnen [Target](https://msdn.microsoft.com/library/t50z2hka.
 
 ## Referenties
 
-* [Het projectbestand begrijpen - MSDN](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- het dossier)
+* [Het projectbestand begrijpen - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- het dossier)
 

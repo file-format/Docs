@@ -38,6 +38,6 @@ Windows 7 の Windows サイドバー プラットフォームには重大な脆
 
 ## 参考文献
 
-* [Windows サイドバー - Microsoft による](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
-* [Windows サイドバー用ガジェットの開発パート 1](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
+* [Windows サイドバー - Microsoft による](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
+* [Windows サイドバー用ガジェットの開発パート 1](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
 

@@ -66,5 +66,5 @@ End Code
 
 ## Referências
 
-* [Referência de sintaxe do Razor - Microsoft](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0)
+* [Referência de sintaxe do Razor - Microsoft](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0)
 

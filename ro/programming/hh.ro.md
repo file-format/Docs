@@ -54,6 +54,6 @@ Cu acest antet, preprocesorul verifică dacă `ANY_UNIQUE_NAME_HERE_HPP` a fost 
 
 ## Referințe
 
-* [Filere antet - Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [Filere antet - Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 * [Diferența dintre formatele de fișiere .h și .hh](https://stackoverflow.com/questions/10354321/c-reason-why-using-hh-as-extension-for-c-header-files)
 

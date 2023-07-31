@@ -52,5 +52,5 @@ Relatiedelen zijn XML-documenten die de relaties tussen verschillende documentde
 
 ## Referenties ##
 
-* [Inleiding tot Visio-bestandsindeling](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Inleiding tot Visio-bestandsindeling](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

@@ -34,5 +34,5 @@ Te informacje są osadzone przy użyciu technologii Public-Key Cryptography Stan
 
 ## Bibliografia ##
 
-* [Narzędzie do podpisywania firmy Microsoft](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
+* [Narzędzie do podpisywania firmy Microsoft](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
 

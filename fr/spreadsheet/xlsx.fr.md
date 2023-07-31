@@ -27,7 +27,7 @@ Le format de fichier XLSX a été introduit en 2007 et utilise la norme Open XML
 
 ## Spécifications du format de fichier XLSX
 
-Les [spécifications officielles du format de fichier XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) sont disponibles en ligne auprès de Microsoft. Afin de voir ce qu'il y a à l'intérieur du fichier XLSX, il suffit de le renommer en fichier [ZIP](/fr/compression/zip/) en modifiant son extension puis de l'extraire pour afficher les fichiers constitutifs de ce classeur Excel. Un classeur vide, lorsqu'il est extrait dans ses fichiers, contient les fichiers et dossiers constitutifs suivants.
+Les [spécifications officielles du format de fichier XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) sont disponibles en ligne auprès de Microsoft. Afin de voir ce qu'il y a à l'intérieur du fichier XLSX, il suffit de le renommer en fichier [ZIP](/fr/compression/zip/) en modifiant son extension puis de l'extraire pour afficher les fichiers constitutifs de ce classeur Excel. Un classeur vide, lorsqu'il est extrait dans ses fichiers, contient les fichiers et dossiers constitutifs suivants.
 
 ### [Content_Types].xml ###
 
@@ -77,6 +77,6 @@ Vous devez partager quelque chose sur les formats de fichier XLSX ou Spreadsheet
 
 ## Références
 
-* [[MS-XLSX] - Format de fichier XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [[MS-XLSX] - Format de fichier XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

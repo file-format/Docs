@@ -34,5 +34,5 @@
 
 ## อ้างอิง ##
 
-* [เครื่องมือลงชื่อเข้าใช้ของ Microsoft](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
+* [เครื่องมือลงชื่อเข้าใช้ของ Microsoft](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
 

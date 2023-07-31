@@ -120,5 +120,5 @@ namespace N  // namespace declaration
 
 ## Reference
 
-* [Filery záhlaví – Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [Filery záhlaví – Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 

@@ -43,5 +43,5 @@ ReportViewer 控件用于使用控件的内置处理能力运行客户端报表�
 
 ## 参考 ＃＃
 
-- [创建客户端报告定义 (.rdlc) 文件](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
+- [创建客户端报告定义 (.rdlc) 文件](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
 

@@ -27,6 +27,6 @@
 ## использованная литература
 
 * [SQL Server Compact — Википедия](https://en.wikipedia.org/wiki/SQL_Server_Compact)
-* [Использование SQL Server Compact для веб-приложений ASP.NET](https://docs.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
+* [Использование SQL Server Compact для веб-приложений ASP.NET](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
 
 

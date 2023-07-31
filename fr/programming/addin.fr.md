@@ -23,11 +23,11 @@ Un fichier avec l'extension .addin est un fichier de définition de complément 
 
 ## Format de fichier ADDIN - Plus d'informations
 
-Les fichiers ADDIN sont enregistrés sur le disque au format de fichier XML lisible par l'homme. Il peut être ouvert dans les éditeurs de texte populaires, notamment le Bloc-notes, le Bloc-notes ++, l'IDE Microsoft Visual Studio et bien d'autres. Microsoft a défini le [fichier manifeste XML](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) d'un Office Add -in qui décrit comment un complément doit être activé après son installation et son utilisation avec des documents et des applications Office.
+Les fichiers ADDIN sont enregistrés sur le disque au format de fichier XML lisible par l'homme. Il peut être ouvert dans les éditeurs de texte populaires, notamment le Bloc-notes, le Bloc-notes ++, l'IDE Microsoft Visual Studio et bien d'autres. Microsoft a défini le [fichier manifeste XML](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) d'un Office Add -in qui décrit comment un complément doit être activé après son installation et son utilisation avec des documents et des applications Office.
 
-**Voir aussi :** [Comment créer un complément Office COM à l'aide de Visual C# .NET](https://docs.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
+**Voir aussi :** [Comment créer un complément Office COM à l'aide de Visual C# .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
 
 ## Références
 
-* [Manifeste XML des compléments Office](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1)
+* [Manifeste XML des compléments Office](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1)
 

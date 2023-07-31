@@ -86,5 +86,5 @@ typedef struct tagRGBQUAD {
 | تنسيق 32 بت | الصور ذات 32 بت بحد أقصى 2 ^ 24 لونًا (biBitCount == 24).
 
 ## مراجع ##
-* [صور نقطية مستقلة عن الجهاز - بواسطة Microsoft](https://docs.microsoft.com/en-us/windows/win32/gdi/device-independent-bitmaps)
+* [صور نقطية مستقلة عن الجهاز - بواسطة Microsoft](https://learn.microsoft.com/en-us/windows/win32/gdi/device-independent-bitmaps)
 

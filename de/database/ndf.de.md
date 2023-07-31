@@ -71,7 +71,7 @@ Dieses Beispiel zeigt Seitenzahlen in einer Datenbank mit einer primären Datend
 
 ## Verweise
 
-* [Datenbankdateien und Dateigruppen](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?redirectedfrom=MSDN&view=sql-server-ver15)
-* [Datenbank trennen und anhängen – SQL Server](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -Ver15)
+* [Datenbankdateien und Dateigruppen](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?redirectedfrom=MSDN&view=sql-server-ver15)
+* [Datenbank trennen und anhängen – SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -Ver15)
 * [Anatomie der SQL Server-Datendatei analysieren](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

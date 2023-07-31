@@ -35,6 +35,6 @@ Pakiet MSIX składa się z następujących plików.
 
 ## Bibliografia
 
-* [Przegląd MSIX](https://docs.microsoft.com/en-us/windows/msix/overview)
-* [Utwórz pliki APPX za pomocą Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Przegląd MSIX](https://learn.microsoft.com/en-us/windows/msix/overview)
+* [Utwórz pliki APPX za pomocą Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

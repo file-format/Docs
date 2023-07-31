@@ -52,5 +52,5 @@ Bagian hubungan adalah dokumen XML yang menjelaskan hubungan antara bagian dokum
 
 ## Referensi ##
 
-* [Pengantar Format File Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Pengantar Format File Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

@@ -59,5 +59,5 @@ Un singur fișier ASAX constă din mai multe secțiuni care sunt scrise pentru a
 ## Referințe
 
 * [Prezentare generală a manevrelor HTTP și a modulelor HTTP](https://msdn.microsoft.com/en-us/library/bb398986(v=vs.100))
-* [Sintaxă Global.asax](https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
+* [Sintaxă Global.asax](https://learn.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
 

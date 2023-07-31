@@ -66,5 +66,5 @@ End Code
 
 ## Bibliografia
 
-* [Informacje o składni Razor — Microsoft](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0)
+* [Informacje o składni Razor — Microsoft](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0)
 

@@ -82,6 +82,6 @@ A betűtípus minden legfelső szintű táblázatához tartozik egy táblázatre
 Az OpenType betűtípusfájlban minden táblát táblázatcímkékként ismert nevek képviselnek. A tömbben lévő összes rekordot kötelező címkénként növekvő sorrendbe rendezni.
 
 ## Hivatkozások
-* [A Microsoft OpenType betűtípus-specifikációi](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [TrueType áttekintése](https://docs.microsoft.com/en-us/typography/truetype/)
+* [A Microsoft OpenType betűtípus-specifikációi](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [TrueType áttekintése](https://learn.microsoft.com/en-us/typography/truetype/)
 

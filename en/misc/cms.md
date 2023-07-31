@@ -31,4 +31,4 @@ A CMS profile file is created using Connection Manager and is packaged with othe
 
 ## References
 
-* [Understanding and configuring Windows Connection Manager](https://docs.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
+* [Understanding and configuring Windows Connection Manager](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)

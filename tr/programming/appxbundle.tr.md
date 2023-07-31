@@ -28,5 +28,5 @@ APPXBUNDLE dosyaları ZIP dosya biçiminde yayınlanır. Uygulama paketinin içe
 ## Referanslar
 
 * [.appx ve .appxbundle paketleri için bağımlılık paketleri](https://www.ibm.com/docs/en/maas360?topic=catalog-dependency-packages-appx-appxbundle-packages)
-* [Microsoft Visual Studio kullanarak APPX dosyaları oluşturun](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Microsoft Visual Studio kullanarak APPX dosyaları oluşturun](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

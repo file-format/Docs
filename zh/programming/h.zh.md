@@ -120,5 +120,5 @@ namespace N  // namespace declaration
 
 ## 参考
 
-* [头文件管理器 - Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [头文件管理器 - Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 

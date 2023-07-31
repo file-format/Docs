@@ -27,7 +27,7 @@ Formát souboru PPTX byl představen v roce 2007 a používá standard Open XML 
 
 ## Specifikace formátu souboru PPTX
 
-Soubory generované pomocí Office Open XML file format je kolekce souborů XML spolu s dalšími soubory, které poskytují propojení mezi všemi základními soubory. Tato kolekce je ve skutečnosti komprimovaný archiv, který lze rozbalit a zobrazit jeho obsah. Chcete-li tak učinit, přejmenujte příponu souboru PPTX na zip a rozbalte ji, abyste si mohli prohlédnout její obsah (viz [Specifikace formátu souboru PPTX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/ efd8bb2d-d888-4e2e-af25-cad476730c9f) od společnosti Microsoft).
+Soubory generované pomocí Office Open XML file format je kolekce souborů XML spolu s dalšími soubory, které poskytují propojení mezi všemi základními soubory. Tato kolekce je ve skutečnosti komprimovaný archiv, který lze rozbalit a zobrazit jeho obsah. Chcete-li tak učinit, přejmenujte příponu souboru PPTX na zip a rozbalte ji, abyste si mohli prohlédnout její obsah (viz [Specifikace formátu souboru PPTX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/ efd8bb2d-d888-4e2e-af25-cad476730c9f) od společnosti Microsoft).
 
 Následující části osvětlují každý z nich.
 
@@ -91,6 +91,6 @@ a následující xml soubory:
 
 ## Reference ##
 
-* [[MS-PPTX] – Formát souboru PPTX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
+* [[MS-PPTX] – Formát souboru PPTX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
 

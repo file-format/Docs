@@ -40,5 +40,5 @@ SQL Server Profiler dapat digunakan untuk membuka log kinerja Microsoft Windows,
 
 ## Referensi ##
 
-* [SQL Server Profiler](https://docs.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler?view=sql-server-ver15)
+* [SQL Server Profiler](https://learn.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler?view=sql-server-ver15)
 

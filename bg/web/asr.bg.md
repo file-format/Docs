@@ -27,5 +27,5 @@ ASR файлът съдържа скрипт, който е разработен
 ## Препратки
 
 * [Adobe Contribute – от Wikipedia](https://en.wikipedia.org/wiki/Adobe_Contribute)
-* [Създаване на прости ASP страници](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Създаване на прости ASP страници](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

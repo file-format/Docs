@@ -38,6 +38,6 @@ Mivel a Windows Sidebar platform a Windows 7 rendszerben komoly biztonsági rés
 
 ## Hivatkozások
 
-* [Windows oldalsáv – a Microsofttól](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
-* [Gadget fejlesztése Windows oldalsávhoz, 1. rész](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
+* [Windows oldalsáv – a Microsofttól](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
+* [Gadget fejlesztése Windows oldalsávhoz, 1. rész](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
 

@@ -120,5 +120,5 @@ namespace N  // namespace declaration
 
 ## Referencias
 
-* [Archivadores de encabezado: Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [Archivadores de encabezado: Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 

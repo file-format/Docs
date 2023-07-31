@@ -27,5 +27,5 @@
 ## مراجع
 
 * [Adobe Contribute - By Wikipedia](https://en.wikipedia.org/wiki/Adobe_Contribute)
-* [إنشاء صفحات ASP بسيطة](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741 (الإصدار = مقابل 90))
+* [إنشاء صفحات ASP بسيطة](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741 (الإصدار = مقابل 90))
 

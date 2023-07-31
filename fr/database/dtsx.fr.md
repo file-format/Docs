@@ -29,10 +29,10 @@ Le flux de données décrit par DTSX est illustré dans l'image suivante.
 
 {{< figure src="../DataFlowDTSX.png" alt="Flux de données DTSX" >}}
 
-DTSX est basé sur [XML](/fr/web/xml/) et est documenté dans [MS-DTSX](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd). La refactorisation améliorée de DTSX XML est DTSX 2.0 qui inclut de nouveaux attributs pour les structures, le remplacement des propriétés nommées en tant qu'attributs XML parents, spécifie les valeurs par défaut pour la plupart des valeurs d'attribut et le placement des éléments répétés dans un élément parent. Les structures DTSX sont décrites à l'aide de ces [schémas XML](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1) et le format structurel est celar-texte XML.
+DTSX est basé sur [XML](/fr/web/xml/) et est documenté dans [MS-DTSX](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd). La refactorisation améliorée de DTSX XML est DTSX 2.0 qui inclut de nouveaux attributs pour les structures, le remplacement des propriétés nommées en tant qu'attributs XML parents, spécifie les valeurs par défaut pour la plupart des valeurs d'attribut et le placement des éléments répétés dans un élément parent. Les structures DTSX sont décrites à l'aide de ces [schémas XML](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1) et le format structurel est celar-texte XML.
 
 ## Références
 
-* [Format DTSX - Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd)
-* [Format DTSX 2 - Par Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx2/fb216aa4-62ab-41c8-a6d5-5b1002739d21)
+* [Format DTSX - Microsoft](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd)
+* [Format DTSX 2 - Par Microsoft](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx2/fb216aa4-62ab-41c8-a6d5-5b1002739d21)
 

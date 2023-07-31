@@ -24,7 +24,7 @@ Le fichier VHDX peut être converti en [VHD](/fr/disc-and-media/vhd/) avec Hyper
 
 ## Format de fichier VHDX - Plus d'informations
 
-Les détails du format de fichier VHDX sont entièrement documentés et disponibles en ligne sous [Spécifications du format de fichier VHDX](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477 ) sur la documentation Microsoft. Il s'agit d'une extension du format VHD et inclut des fonctionnalités améliorées. Le format de fichier VHDX fournit des fonctionnalités supplémentaires qui sont disponibles au niveau des couches de fichier du disque dur virtuel et du disque dur virtuel. Il est plus optimisé et donne de meilleurs résultats pour la configuration et les capacités du matériel de stockage. Les fichiers VHDX peuvent être ouverts
+Les détails du format de fichier VHDX sont entièrement documentés et disponibles en ligne sous [Spécifications du format de fichier VHDX](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477 ) sur la documentation Microsoft. Il s'agit d'une extension du format VHD et inclut des fonctionnalités améliorées. Le format de fichier VHDX fournit des fonctionnalités supplémentaires qui sont disponibles au niveau des couches de fichier du disque dur virtuel et du disque dur virtuel. Il est plus optimisé et donne de meilleurs résultats pour la configuration et les capacités du matériel de stockage. Les fichiers VHDX peuvent être ouverts
 
 ### Prise en charge des disques durs virtuels dans VHDX
 
@@ -38,6 +38,6 @@ Il prend en charge trois types de disques durs virtuels.
 
 ## Références
 
-* [Spécifications du format de fichier VHDX](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
+* [Spécifications du format de fichier VHDX](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
 * [VHD - par Wikipédia](https://en.wikipedia.org/wiki/VHD_(file_format))
 

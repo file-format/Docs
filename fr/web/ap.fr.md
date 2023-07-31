@@ -27,5 +27,5 @@ Les fichiers AP sont hébergés sur le serveur Web à l'aide d'un logiciel de su
 ## Références
 
 * [ASP - Par W3C](https://www.w3schools.com/asp/default.asp)
-* [Création de pages ASP simples](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Création de pages ASP simples](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

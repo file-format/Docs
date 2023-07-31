@@ -19,7 +19,7 @@
 
 ## .BCP 파일이란?
 
-BCP(대량 복사 형식)는 가져오기/내보내기를 위해 서로 다른 데이터베이스 데이터 유형 값을 저장하기 위한 데이터 구조를 정의하는 Microsoft SQL Server의 기술 데이터 형식입니다. 형식은 데이터 파일에 지정된 값 집합을 읽을 수 있도록 각 데이터 열의 해석을 완전히 정의합니다. [BCP](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/ms162802(v=sql.105)) 유틸리티는 BCP 파일 형식을 사용하여 그러한 파일에서 데이터를 찾아 식별합니다.
+BCP(대량 복사 형식)는 가져오기/내보내기를 위해 서로 다른 데이터베이스 데이터 유형 값을 저장하기 위한 데이터 구조를 정의하는 Microsoft SQL Server의 기술 데이터 형식입니다. 형식은 데이터 파일에 지정된 값 집합을 읽을 수 있도록 각 데이터 열의 해석을 완전히 정의합니다. [BCP](https://learn.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/ms162802(v=sql.105)) 유틸리티는 BCP 파일 형식을 사용하여 그러한 파일에서 데이터를 찾아 식별합니다.
 
 
 ## BCP 파일 형식
@@ -59,5 +59,5 @@ BCP 형식 파일은 열 순서, 이름 및 데이터 유형을 정의하는 XML
 
 ## 참고문헌
 
-* [BCP 형식 - Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
+* [BCP 형식 - Microsoft](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
 

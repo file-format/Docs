@@ -29,6 +29,6 @@ Az ADE-fájlok megnyitási problémákat okozhatnak a fájlok létrehozásához 
 
 ## Hivatkozások
 
-* [Probléma az Access ADE fájlokkal](https://docs.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
+* [Probléma az Access ADE fájlokkal](https://learn.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
 * [Melyik hozzáférési fájlformátumok használhatók](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

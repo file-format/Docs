@@ -27,5 +27,5 @@ Soubory XPR byly identifikovány jako přínos zranitelnosti v Microsoft Express
 
 ## Reference
 
-* [Chyba zabezpečení v návrhu výrazů by mohla umožnit vzdálené spuštění kódu (2651018)](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
+* [Chyba zabezpečení v návrhu výrazů by mohla umožnit vzdálené spuštění kódu (2651018)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
 

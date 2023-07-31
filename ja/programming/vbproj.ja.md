@@ -23,7 +23,7 @@
 
 ## VBPROJ ファイル形式 - 詳細情報
 
-VBPROJ ファイルは、[MSBuild XML スキーマ](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-プロジェクト ファイル スキーマ参照?view=vs-2019)。 VBPROJ ファイルには、特定の設定グループに関連する情報を定義する XML タグの形式で情報が含まれています。 Microsoft Visual Studio IDE でこれらの設定ファイルを開いて編集することを強くお勧めします。
+VBPROJ ファイルは、[MSBuild XML スキーマ](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-プロジェクト ファイル スキーマ参照?view=vs-2019)。 VBPROJ ファイルには、特定の設定グループに関連する情報を定義する XML タグの形式で情報が含まれています。 Microsoft Visual Studio IDE でこれらの設定ファイルを開いて編集することを強くお勧めします。
 
 ### VBPROJ 要素
 
@@ -42,6 +42,6 @@ VB 設定ファイルの構成要素は、次の図のようになります。
 
 ## 参考文献
 
-* [プロジェクト ファイルについて](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
-* [MSBuild スキーマ要素](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
+* [プロジェクト ファイルについて](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
+* [MSBuild スキーマ要素](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
 

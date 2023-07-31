@@ -35,6 +35,6 @@
 
 ## Список літератури
 
-* [Огляд MSIX](https://docs.microsoft.com/en-us/windows/msix/overview)
-* [Створіть файли APPX за допомогою Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Огляд MSIX](https://learn.microsoft.com/en-us/windows/msix/overview)
+* [Створіть файли APPX за допомогою Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

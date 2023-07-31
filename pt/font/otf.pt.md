@@ -82,6 +82,6 @@ Para cada tabela de nível superior na fonte, há um registro de tabela que cons
 Cada tabela no arquivo de fonte OpenType é representada por nomes conhecidos como tags de tabela. É obrigatório que todos os registros na matriz sejam classificados em ordem crescente por tag.
 
 ## Referências
-* [Especificações de fonte OpenType da Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [Visão geral do TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Especificações de fonte OpenType da Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [Visão geral do TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

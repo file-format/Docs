@@ -27,5 +27,5 @@ Es wurde festgestellt, dass XPR-Dateien einer Schwachstelle in Microsoft Express
 
 ## Verweise
 
-* [Sicherheitsanfälligkeit im Ausdrucksdesign kann Remotecodeausführung ermöglichen (2651018)](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
+* [Sicherheitsanfälligkeit im Ausdrucksdesign kann Remotecodeausführung ermöglichen (2651018)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
 

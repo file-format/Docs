@@ -53,7 +53,7 @@
 ## مراجع
 
 * [إنشاء تعليمات قائمة على XML باستخدام PlatyPS
-](https://docs.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps؟view=powershell-7.2)
+](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps؟view=powershell-7.2)
 * [لغة ترميز مساعدة Microsoft](https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
 
 # AML - ملف لغة Arc Macro

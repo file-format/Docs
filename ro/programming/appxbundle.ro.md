@@ -28,5 +28,5 @@ Fișierele APPXBUNDLE sunt publicate în format de fișier ZIP. Dacă doriți s�
 ## Referințe
 
 * [Pachete de dependență pentru pachetele .appx și .appxbundle](https://www.ibm.com/docs/en/maas360?topic=catalog-dependency-packages-appx-appxbundle-packages)
-* [Creați fișiere APPX utilizând Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Creați fișiere APPX utilizând Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

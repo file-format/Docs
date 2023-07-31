@@ -27,6 +27,6 @@ Konvensi penamaan .sdf bersifat opsional, dan ekstensi apa pun dapat digunakan u
 ## Referensi
 
 * [SQL Server Compact - Wikipedia](https://en.wikipedia.org/wiki/SQL_Server_Compact)
-* [Menggunakan SQL Server Compact untuk Aplikasi Web ASP.NET](https://docs.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
+* [Menggunakan SQL Server Compact untuk Aplikasi Web ASP.NET](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
 
 

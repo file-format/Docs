@@ -27,10 +27,10 @@
 
 ## Відкрийте файли ETL за допомогою Windows Performance Analyzer
 
-Дані файлів ETL можна читати та візуалізувати в табличному та графічному форматі за допомогою програми Microsoft Windows Performance Analyzer (WPA). Посібник [Відкриття та аналіз файлів ETL](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) містить інформацію про роботу з файлами ETL.
+Дані файлів ETL можна читати та візуалізувати в табличному та графічному форматі за допомогою програми Microsoft Windows Performance Analyzer (WPA). Посібник [Відкриття та аналіз файлів ETL](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) містить інформацію про роботу з файлами ETL.
 
 ## Список літератури
 
-* [Аналізатор продуктивності Windows](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
-* [Короткий посібник WPA](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
+* [Аналізатор продуктивності Windows](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
+* [Короткий посібник WPA](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
 

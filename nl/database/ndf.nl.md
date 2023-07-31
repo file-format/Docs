@@ -71,7 +71,7 @@ Dit voorbeeld toont paginanummers in een database met een primair gegevensbestan
 
 ## Referenties
 
-* [Databasebestanden en bestandsgroepen](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?redirectedfrom=MSDN&view=sql-server-ver15)
-* [Database ontkoppelen en koppelen - SQL Server](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
+* [Databasebestanden en bestandsgroepen](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?redirectedfrom=MSDN&view=sql-server-ver15)
+* [Database ontkoppelen en koppelen - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
 * [Anatomie van SQL Server-gegevensbestand analyseren](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

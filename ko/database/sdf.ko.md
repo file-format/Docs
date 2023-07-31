@@ -27,6 +27,6 @@ SDF 파일에는 일반적으로 컴팩트 관계형 데이터베이스라고 �
 ## 참고문헌
 
 * [SQL Server Compact - Wikipedia](https://en.wikipedia.org/wiki/SQL_Server_Compact)
-* [ASP.NET 웹 응용 프로그램에 SQL Server Compact 사용](https://docs.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
+* [ASP.NET 웹 응용 프로그램에 SQL Server Compact 사용](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
 
 

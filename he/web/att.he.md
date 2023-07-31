@@ -24,5 +24,5 @@
 
 ## הפניות
 
-* [טפסי אינטרנט - Microsoft](https://docs.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
+* [טפסי אינטרנט - Microsoft](https://learn.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
 

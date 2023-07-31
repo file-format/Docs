@@ -27,10 +27,10 @@ ETL 파일은 디스크 공간을 줄이기 위해 압축된 바이너리 형식
 
 ## Windows 성능 분석기를 사용하여 ETL 파일 열기
 
-ETL 파일 데이터는 Microsoft WPA(Windows 성능 분석기) 응용 프로그램을 사용하여 표 형식과 그래픽 형식으로 읽고 시각화할 수 있습니다. [ETL 파일 열기 및 분석](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) 가이드는 작업에 대한 정보를 제공합니다. ETL 파일로.
+ETL 파일 데이터는 Microsoft WPA(Windows 성능 분석기) 응용 프로그램을 사용하여 표 형식과 그래픽 형식으로 읽고 시각화할 수 있습니다. [ETL 파일 열기 및 분석](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) 가이드는 작업에 대한 정보를 제공합니다. ETL 파일로.
 
 ## 참고문헌
 
-* [Windows 성능 분석기](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
-* [WPA 퀵 스타트 가이드](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
+* [Windows 성능 분석기](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
+* [WPA 퀵 스타트 가이드](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
 

@@ -32,6 +32,6 @@ Visio को शुरू में 1992 में शेपवेयर कॉ�
 
 ## संदर्भ ##
 
-* [Visio फ़ाइल फ़ॉर्मैट का परिचय](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
-* [स्कीमा मैप - Visio XML](https://docs.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
+* [Visio फ़ाइल फ़ॉर्मैट का परिचय](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [स्कीमा मैप - Visio XML](https://learn.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
 

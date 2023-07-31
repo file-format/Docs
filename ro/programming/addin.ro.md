@@ -23,11 +23,11 @@ Un fișier cu extensia .addin este un fișier de definire a suplimentului creat 
 
 ## Format de fișier ADDIN - Mai multe informații
 
-Fișierele ADDIN sunt salvate pe disc în format de fișier XML care poate fi citit de om. Poate fi deschis în editoarele de text populare, inclusiv Notepad, Notepad++, Microsoft Visual Studio IDE și multe altele. Microsoft a definit [fișierul manifest XML](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) al unui Office Add -în care descrie modul în care un program de completare ar trebui să fie activat după ce a fost instalat și utilizat cu documentele și aplicațiile Office.
+Fișierele ADDIN sunt salvate pe disc în format de fișier XML care poate fi citit de om. Poate fi deschis în editoarele de text populare, inclusiv Notepad, Notepad++, Microsoft Visual Studio IDE și multe altele. Microsoft a definit [fișierul manifest XML](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) al unui Office Add -în care descrie modul în care un program de completare ar trebui să fie activat după ce a fost instalat și utilizat cu documentele și aplicațiile Office.
 
-**Vezi și:** [Cum se construiește un program de completare Office COM utilizând Visual C# .NET](https://docs.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
+**Vezi și:** [Cum se construiește un program de completare Office COM utilizând Visual C# .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
 
 ## Referințe
 
-* [Manifest XML Office Add-ins](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1)
+* [Manifest XML Office Add-ins](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1)
 

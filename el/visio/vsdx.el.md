@@ -50,5 +50,5 @@
 
 ## Βιβλιογραφικές αναφορές ##
 
-* [Εισαγωγή στη μορφή αρχείου Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Εισαγωγή στη μορφή αρχείου Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

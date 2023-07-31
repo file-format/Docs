@@ -61,5 +61,5 @@ RDL'de DataType Enumeration, bir özniteliğin, ifadenin veya parametrenin veri 
 ## Referanslar ##
 
 - [Rapor Tanımlama Dili (Wikipedia)](https://en.wikipedia.org/wiki/Report_Definition_Language)
-- [Rapor Tanımlama Dili (SSRS)](https://docs.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
+- [Rapor Tanımlama Dili (SSRS)](https://learn.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
 

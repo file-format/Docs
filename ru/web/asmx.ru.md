@@ -41,6 +41,6 @@
 
 ## использованная литература
 
-* [Использование службы ASMX](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/web-services/asmx)
+* [Использование службы ASMX](https://learn.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/web-services/asmx)
 * [Пользовательский контроль ASCX](https://beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

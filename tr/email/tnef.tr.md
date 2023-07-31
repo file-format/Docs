@@ -53,6 +53,6 @@ Basit mesaj iletimine ek olarak, TNEF'in orijinal uygulaması, mesaj sınıflar�
 ## Referanslar
 
 * [Transport Nötr Kapsülleme Biçimi](https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
-* [Exchange Server'daki e-posta adresleri ve adres defterleri](https://docs.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
+* [Exchange Server'daki e-posta adresleri ve adres defterleri](https://learn.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
 * [[MS-OXTNEF]: Aktarım Tarafsız Kapsülleme Biçimi (TNEF) Veri Algoritması](https://msdn.microsoft.com/en-us/library/cc425498(v#exchg.80).aspx)
 

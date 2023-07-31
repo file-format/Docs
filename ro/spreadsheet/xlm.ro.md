@@ -31,7 +31,7 @@ Excel oferă pași ușor de utilizat pentru înregistrarea unei macrocomenzi. Es
 
 ## Model obiect Excel ##
 
-Macro-urile folosesc rutine VBA în spatele lor și urmează [Excel Object Model](https://docs.microsoft.com/en-us/office/vba/api/overview/excel/object-model) în acest scop. Acest model identifică obiectele unei foi de calcul pentru interacțiunea cu foaia de calcul prin bare de instrumente de comandă, bare de comandă sau casete de mesaje definite de utilizator. De exemplu, accesul la proprietățile registrului de lucru este acordat cu obiectul Workbook. În mod similar, în model există obiectul Foaie de lucru pentru a lucra cu foile de lucru ale registrului de lucru în mod programatic.
+Macro-urile folosesc rutine VBA în spatele lor și urmează [Excel Object Model](https://learn.microsoft.com/en-us/office/vba/api/overview/excel/object-model) în acest scop. Acest model identifică obiectele unei foi de calcul pentru interacțiunea cu foaia de calcul prin bare de instrumente de comandă, bare de comandă sau casete de mesaje definite de utilizator. De exemplu, accesul la proprietățile registrului de lucru este acordat cu obiectul Workbook. În mod similar, în model există obiectul Foaie de lucru pentru a lucra cu foile de lucru ale registrului de lucru în mod programatic.
 
 ## Macrocomenzi și securitate ##
 

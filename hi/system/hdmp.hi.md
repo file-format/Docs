@@ -32,5 +32,5 @@ HDMP असम्पीडित मेमोरी डंप फ़ाइले
 
 ## संदर्भ ##
 
-* [डीएमपी - माइक्रोसॉफ्ट](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
+* [डीएमपी - माइक्रोसॉफ्ट](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
 

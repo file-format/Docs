@@ -43,4 +43,4 @@ You can only preview a report by running it in a **ReportViewer** control. Pleas
 
 ## References ##
 
-- [Creating Client Report Definition (.rdlc) Files](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
+- [Creating Client Report Definition (.rdlc) Files](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))

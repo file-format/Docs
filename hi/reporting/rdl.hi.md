@@ -61,5 +61,5 @@ XML स्कीमा परिभाषा (XSD) फ़ाइल RDL फ़ा
 ## संदर्भ ##
 
 - [रिपोर्ट परिभाषा भाषा (विकिपीडिया)](https://en.wikipedia.org/wiki/Report_Definition_Language)
-- [रिपोर्ट परिभाषा भाषा (SSRS)](https://docs.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
+- [रिपोर्ट परिभाषा भाषा (SSRS)](https://learn.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
 

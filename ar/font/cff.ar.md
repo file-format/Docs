@@ -23,7 +23,7 @@
 
 ## تنسيق ملف CFF
 
-ملفات CFF هي ملفات ثنائية تحتوي على تخطيط بيانات منظم ، ولها أنواع بيانات محددة ، ورأس ، وتنظيم الصورة الرمزية وقواميس الجدول. يمكن العثور على مزيد من التفاصيل حول هذه في [مواصفات تنسيق الخط المضغوط](https://docs.microsoft.com/en-us/typography/opentype/spec/cff).
+ملفات CFF هي ملفات ثنائية تحتوي على تخطيط بيانات منظم ، ولها أنواع بيانات محددة ، ورأس ، وتنظيم الصورة الرمزية وقواميس الجدول. يمكن العثور على مزيد من التفاصيل حول هذه في [مواصفات تنسيق الخط المضغوط](https://learn.microsoft.com/en-us/typography/opentype/spec/cff).
 
 ### تخطيط البيانات
 تخطيط البيانات لتنسيق ملف CFF كما هو موضح أدناه.
@@ -68,7 +68,7 @@
 
 ## مراجع
 
-* [جدول تنسيق الخط المضغوط](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+* [جدول تنسيق الخط المضغوط](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
 * [تنسيق ملف CFF](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
-* [CFF2 Chartset](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+* [CFF2 Chartset](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

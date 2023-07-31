@@ -24,5 +24,5 @@ Applikationer som kan **öppna ATT-filer** inkluderar textredigerare som Microso
 
 ## Referenser
 
-* [Webbformulär - Microsoft](https://docs.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
+* [Webbformulär - Microsoft](https://learn.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
 

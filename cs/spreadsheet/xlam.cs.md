@@ -30,5 +30,5 @@ Poté uložte soubor s příponou .xlam.
 
 ## Reference ##
 
-- [Odkaz na formát souboru - ](https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
+- [Odkaz na formát souboru - ](https://learn.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
 

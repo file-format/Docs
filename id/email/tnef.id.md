@@ -53,6 +53,6 @@ Selain transmisi pesan sederhana, aplikasi asli TNEF akan dibuat untuk menggunak
 ## Referensi
 
 * [Format Enkapsulasi Transportasi Netral](https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
-* [Alamat email dan buku alamat di Exchange Server](https://docs.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
+* [Alamat email dan buku alamat di Exchange Server](https://learn.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
 * [[MS-OXTNEF]: Algoritma Data Transport Neutral Encapsulation Format (TNEF)](https://msdn.microsoft.com/en-us/library/cc425498(v#exchg.80).aspx)
 

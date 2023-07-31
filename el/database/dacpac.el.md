@@ -53,7 +53,7 @@ xmlns="http://schemas.openxmlformats.org/package/2006/content-types">
 
 ## βιβλιογραφικές αναφορές
 
-* [Εφαρμογές επιπέδου δεδομένων - Οφέλη](https://docs.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
-* [Ανάπτυξη εφαρμογής επιπέδου δεδομένων - Microsoft](https://docs.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
+* [Εφαρμογές επιπέδου δεδομένων - Οφέλη](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
+* [Ανάπτυξη εφαρμογής επιπέδου δεδομένων - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
 * [Πώς να δημιουργήσω αρχείο DACPAC;](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
 

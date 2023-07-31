@@ -19,7 +19,7 @@
 
 ## Ce este un fișier PDB?
 
-Un fișier cu extensia .pdb este un fișier de bază de date de program care conține informații de depanare pentru un executabil compilat (EXE/DLL). Fișierele PDB sunt generate de Microsoft Compilers atunci când un program de aplicație este compilat în modul de depanare. Prezența fișierului PDB poate ajuta la ingineria inversă a unui executabil, deoarece conține informații semnificative despre toate simbolurile modulelor. Din acest motiv, aceste fișiere sunt păstrate separat de executabilul final. [API-ul DgbHelp] de la Microsoft (https://docs.microsoft.com/en-us/windows/win32/debug/dbghelp-functions) poate deschide un fișier PDB pentru a obține informații precum public și exporturi, simboluri globale, simboluri locale, date de tip, fișiere sursă și numere de rând.
+Un fișier cu extensia .pdb este un fișier de bază de date de program care conține informații de depanare pentru un executabil compilat (EXE/DLL). Fișierele PDB sunt generate de Microsoft Compilers atunci când un program de aplicație este compilat în modul de depanare. Prezența fișierului PDB poate ajuta la ingineria inversă a unui executabil, deoarece conține informații semnificative despre toate simbolurile modulelor. Din acest motiv, aceste fișiere sunt păstrate separat de executabilul final. [API-ul DgbHelp] de la Microsoft (https://learn.microsoft.com/en-us/windows/win32/debug/dbghelp-functions) poate deschide un fișier PDB pentru a obține informații precum public și exporturi, simboluri globale, simboluri locale, date de tip, fișiere sursă și numere de rând.
 
 ## Format de fișier PDB
 

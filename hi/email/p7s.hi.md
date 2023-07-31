@@ -34,5 +34,5 @@ P7S फ़ाइल में निम्न जानकारी होती
 
 ## संदर्भ ##
 
-* [माइक्रोसॉफ्ट साइन टूल](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
+* [माइक्रोसॉफ्ट साइन टूल](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
 

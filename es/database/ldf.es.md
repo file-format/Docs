@@ -40,6 +40,6 @@ El archivo LDF consta de registros de transacciones de SQL Server que se organiz
 
 ## Referencias
 
-* [Archivos de base de datos y grupos de archivos](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [Guía de administración y arquitectura de registros de transacciones](https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql- servidor-ver15)
+* [Archivos de base de datos y grupos de archivos](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
+* [Guía de administración y arquitectura de registros de transacciones](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql- servidor-ver15)
 

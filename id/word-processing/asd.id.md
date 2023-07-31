@@ -31,5 +31,5 @@ File ASD yang dibuat dengan file asli tetap tersedia bersama dan digunakan untuk
 
 ## Referensi
 
-* [Pulihkan Dokumen Microsoft Word](https://docs.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
+* [Pulihkan Dokumen Microsoft Word](https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
 

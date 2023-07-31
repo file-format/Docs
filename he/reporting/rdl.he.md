@@ -61,5 +61,5 @@
 ## הפניות ##
 
 - [שפת הגדרת דוח (ויקיפדיה)](https://en.wikipedia.org/wiki/Report_Definition_Language)
-- [שפת הגדרת דוח (SSRS)](https://docs.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
+- [שפת הגדרת דוח (SSRS)](https://learn.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
 

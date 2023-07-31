@@ -307,5 +307,5 @@ Daftar berikut menunjukkan pencacahan yang dapat digunakan dalam aliran RPL:
 
 ## Referensi ##
 
-- [Laporan Tata Letak Halaman (RPL) Format Aliran Biner](https://docs.microsoft.com/en-us/openspecs/sql_server_protocols/ms-rpl/9c4ff7ba-f6da-4092-9670-aa0e54e73887)
+- [Laporan Tata Letak Halaman (RPL) Format Aliran Biner](https://learn.microsoft.com/en-us/openspecs/sql_server_protocols/ms-rpl/9c4ff7ba-f6da-4092-9670-aa0e54e73887)
 

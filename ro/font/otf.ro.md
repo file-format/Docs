@@ -82,6 +82,6 @@ Pentru fiecare tabel de nivel superior din font, există o înregistrare de tabe
 Fiecare tabel din fișierul de font OpenType este reprezentat de nume cunoscute ca etichete de tabel. Este obligatoriu ca toate înregistrările din matrice să fie sortate în ordine crescătoare după etichetă.
 
 ## Referințe
-* [Specificații pentru font OpenType de la Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [Prezentare generală TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Specificații pentru font OpenType de la Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [Prezentare generală TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

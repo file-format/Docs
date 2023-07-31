@@ -40,6 +40,6 @@ LDF ファイルは、ログ レコードの文字列として配置された SQ
 
 ## 参考文献
 
-* [データベース ファイルとファイル グループ](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [トランザクション ログのアーキテクチャと管理ガイド](https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql-サーバー-ver15)
+* [データベース ファイルとファイル グループ](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
+* [トランザクション ログのアーキテクチャと管理ガイド](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql-サーバー-ver15)
 

@@ -45,5 +45,5 @@ Visual Studio permite convertirea/exportarea diagramelor de clasă în imagini p
 
 ## Referințe
 
-* [Clasuri de proiectare în Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
+* [Clasuri de proiectare în Visual Studio](https://learn.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
 

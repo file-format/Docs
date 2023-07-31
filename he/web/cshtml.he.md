@@ -66,5 +66,5 @@ End Code
 
 ## הפניות
 
-* [הפניה לתחביר תער - Microsoft](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0)
+* [הפניה לתחביר תער - Microsoft](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0)
 

@@ -307,5 +307,5 @@ Danh sách sau đây hiển thị các liệt kê có thể được sử dụng
 
 ## Người giới thiệu ##
 
-- [Định dạng luồng nhị phân Bố cục trang báo cáo (RPL)](https://docs.microsoft.com/en-us/openspecs/sql_server_protocols/ms-rpl/9c4ff7ba-f6da-4092-9670-aa0e54e73887)
+- [Định dạng luồng nhị phân Bố cục trang báo cáo (RPL)](https://learn.microsoft.com/en-us/openspecs/sql_server_protocols/ms-rpl/9c4ff7ba-f6da-4092-9670-aa0e54e73887)
 

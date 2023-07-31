@@ -55,6 +55,6 @@ TTC файлът се състои от TTC Header таблица, Table Directo
 |uint32| dsigOffset |Отместването (в байтове) на DSIG таблицата от началото на TTC файла (нула, ако няма подпис)|
 
 ## Препратки
-* [Файлът с шрифт OpenType](https://docs.microsoft.com/en-us/typography/opentype/spec/otff)
+* [Файлът с шрифт OpenType](https://learn.microsoft.com/en-us/typography/opentype/spec/otff)
 * [TrueType (Уикипедия)](https://en.wikipedia.org/wiki/TrueType)
 

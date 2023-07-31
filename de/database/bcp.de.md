@@ -19,7 +19,7 @@
 
 ## Was ist eine BCP-Datei?
 
-BCP (Bulk Copy Format) ist das technische Datenformat von Microsoft SQL Server, das Datenstrukturen definiert, um verschiedene Datenbankdatentypwerte für den Import/Export zu speichern. Das Format definiert die Interpretation jeder Datenspalte vollständig, sodass der in der Datendatei angegebene Wertesatz gelesen werden kann. Das Dienstprogramm [BCP](https://docs.microsoft.com/en-us/ previous-versions/sql/sql-server-2008-r2/ms162802(v=sql.105)) verwendet das BCP-Dateiformat zum Lesen Daten aus einer solchen Datei und identifizieren sie.
+BCP (Bulk Copy Format) ist das technische Datenformat von Microsoft SQL Server, das Datenstrukturen definiert, um verschiedene Datenbankdatentypwerte für den Import/Export zu speichern. Das Format definiert die Interpretation jeder Datenspalte vollständig, sodass der in der Datendatei angegebene Wertesatz gelesen werden kann. Das Dienstprogramm [BCP](https://learn.microsoft.com/en-us/ previous-versions/sql/sql-server-2008-r2/ms162802(v=sql.105)) verwendet das BCP-Dateiformat zum Lesen Daten aus einer solchen Datei und identifizieren sie.
 
 
 ## BCP-Dateiformat
@@ -59,5 +59,5 @@ Die Struktur der Formatdatei wird im folgenden Format dargestellt.
 
 ## Verweise
 
-* [BCP-Format – Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
+* [BCP-Format – Microsoft](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
 

@@ -31,7 +31,7 @@ Excel 提供了易于使用的录制宏的步骤。它需要您安装开发者�
 
 ## Excel 对象模型##
 
-为此，宏使用 VBA 例程并遵循 [Excel 对象模型](https://docs.microsoft.com/en-us/office/vba/api/overview/excel/object-model)。该模型通过用户定义的命令工具栏、命令栏或消息框识别电子表格的对象以与电子表格交互。例如，使用 Workbook 对象授予对工作簿属性的访问权限。同样，模型中有 Worksheet 对象以编程方式处理工作簿的工作表。
+为此，宏使用 VBA 例程并遵循 [Excel 对象模型](https://learn.microsoft.com/en-us/office/vba/api/overview/excel/object-model)。该模型通过用户定义的命令工具栏、命令栏或消息框识别电子表格的对象以与电子表格交互。例如，使用 Workbook 对象授予对工作簿属性的访问权限。同样，模型中有 Worksheet 对象以编程方式处理工作簿的工作表。
 
 ## 宏和安全##
 

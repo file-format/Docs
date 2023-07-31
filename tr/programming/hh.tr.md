@@ -54,6 +54,6 @@ Bu üst bilgi ile ön işlemci, "ANY_UNIQUE_NAME_HERE_HPP" öğesinin zaten tan�
 
 ## Referanslar
 
-* [Başlık Dosyalayıcıları - Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [Başlık Dosyalayıcıları - Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 * [.h ve .hh dosya biçimleri arasındaki fark](https://stackoverflow.com/questions/10354321/c-reason-why-using-hh-as-extension-for-c-header-files)
 

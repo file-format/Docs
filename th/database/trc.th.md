@@ -40,5 +40,5 @@
 
 ## อ้างอิง ##
 
-* [ตัวสร้างโปรไฟล์เซิร์ฟเวอร์ SQL](https://docs.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler?view=sql-server-ver15)
+* [ตัวสร้างโปรไฟล์เซิร์ฟเวอร์ SQL](https://learn.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler?view=sql-server-ver15)
 

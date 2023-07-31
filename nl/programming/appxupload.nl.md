@@ -27,5 +27,5 @@ De APPXBUNDLE-bestanden worden op schijf opgeslagen in binaire bestandsindeling,
 
 ## Referenties
 
-* [Soorten app-pakketten](https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
+* [Soorten app-pakketten](https://learn.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
 

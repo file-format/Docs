@@ -36,11 +36,11 @@ APPX ファイル内のコンテンツまたはファイルを表示するには
 
 APPX ファイルの作成に使用できる方法は 2 つあります。
 
-1. MakeApp.exe の使用 - [MakeApp.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) を使用して両方を作成します。アプリ パッケージ (.msix または .appx) およびアプリ パッケージ バンドル ファイル (.msixbundle または .appxbundle)。さらに、アプリ パッケージからファイルを抽出できます。 MakeApp.exe は Windows 10 SDK で利用でき、コマンド プロンプトから使用できます。
-1. Microsoft Visual Studio の使用 - 開発者は通常、[APPX ファイルを作成](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) Microsoft Visual Studio を使用します。アプリケーションの開発が完了し、アプリを公開する準備ができたら、Visual Studio 内から公開することで APPX パッケージ ファイルを作成できます。
+1. MakeApp.exe の使用 - [MakeApp.exe](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) を使用して両方を作成します。アプリ パッケージ (.msix または .appx) およびアプリ パッケージ バンドル ファイル (.msixbundle または .appxbundle)。さらに、アプリ パッケージからファイルを抽出できます。 MakeApp.exe は Windows 10 SDK で利用でき、コマンド プロンプトから使用できます。
+1. Microsoft Visual Studio の使用 - 開発者は通常、[APPX ファイルを作成](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) Microsoft Visual Studio を使用します。アプリケーションの開発が完了し、アプリを公開する準備ができたら、Visual Studio 内から公開することで APPX パッケージ ファイルを作成できます。
 
 ## 参考文献
 
-* [MakeAppx.exe で MSIX パッケージまたはバンドルを作成する](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
-* [Microsoft Visual Studio を使用して APPX ファイルを作成する](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [MakeAppx.exe で MSIX パッケージまたはバンドルを作成する](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
+* [Microsoft Visual Studio を使用して APPX ファイルを作成する](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

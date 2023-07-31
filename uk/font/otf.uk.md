@@ -82,6 +82,6 @@
 Кожна таблиця у файлі шрифту OpenType представлена іменами, відомими як теги таблиці. Необхідно, щоб усі записи в масиві були відсортовані в порядку зростання за тегами.
 
 ## Список літератури
-* [Специфікації шрифтів OpenType від Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [Огляд TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Специфікації шрифтів OpenType від Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [Огляд TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

@@ -34,5 +34,5 @@ Aceste informații sunt încorporate folosind tehnologia Public-Key Cryptography
 
 ## Referințe ##
 
-* [Microsoft Sign Tool](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
+* [Microsoft Sign Tool](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
 

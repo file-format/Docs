@@ -27,5 +27,5 @@ File AP dihosting di server Web dengan bantuan perangkat lunak pendukung. Ini ke
 ## Referensi
 
 * [ASP - Oleh W3C](https://www.w3schools.com/asp/default.asp)
-* [Membuat Halaman ASP Sederhana](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Membuat Halaman ASP Sederhana](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

@@ -56,7 +56,7 @@
 
 ## Список літератури
 
-* [Формати файлів ресурсів](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
+* [Формати файлів ресурсів](https://learn.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
 
 

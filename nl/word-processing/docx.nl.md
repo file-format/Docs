@@ -23,7 +23,7 @@ DOCX is een bekend formaat voor Microsoft Word-documenten. Geïntroduceerd vanaf
 
 ## Korte geschiedenis ##
 
-Nadat Microsoft de specificaties voor het DOC-bestandsformaat had geopend, was het voor zijn concurrenten gemakkelijk om het formaat te reverse-engineeren en dezelfde ondersteuning te bieden in hun eigen applicaties. Bovendien dwong de concurrentie van Open Office in de vorm van zijn Open Document Format, Microsoft om meer open en brede standaarden te hanteren. Het was begin 2000 toen Microsoft besloot om voor de verandering te gaan om de standaard voor **Office Open XML** te accommoderen. Documenten onder deze nieuwe standaard kregen [.docx extensie](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), de "X" voor XML zijn. In 2007 werd dit nieuwe bestandsformaat onderdeel van Office 2007 en wordt het ook voortgezet in de nieuwe versies van Microsoft Office. Het nieuwe bestandstype heeft voordelen toegevoegd van kleine bestandsgroottes, minder veranderingen van corruptie en goed opgemaakte afbeeldingen.
+Nadat Microsoft de specificaties voor het DOC-bestandsformaat had geopend, was het voor zijn concurrenten gemakkelijk om het formaat te reverse-engineeren en dezelfde ondersteuning te bieden in hun eigen applicaties. Bovendien dwong de concurrentie van Open Office in de vorm van zijn Open Document Format, Microsoft om meer open en brede standaarden te hanteren. Het was begin 2000 toen Microsoft besloot om voor de verandering te gaan om de standaard voor **Office Open XML** te accommoderen. Documenten onder deze nieuwe standaard kregen [.docx extensie](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), de "X" voor XML zijn. In 2007 werd dit nieuwe bestandsformaat onderdeel van Office 2007 en wordt het ook voortgezet in de nieuwe versies van Microsoft Office. Het nieuwe bestandstype heeft voordelen toegevoegd van kleine bestandsgroottes, minder veranderingen van corruptie en goed opgemaakte afbeeldingen.
 
 ## Specificaties DOCX-bestandsindeling - Meer informatie
 
@@ -105,6 +105,6 @@ Een alinea is de belangrijkste inhoudshouder in een document. Het wordt vertegen
 
 ## Referenties ##
 
-* [MS - DOCX-bestandsindeling](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
+* [MS - DOCX-bestandsindeling](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
 * [Office Open XML](http://officeopenxml.com/)
 

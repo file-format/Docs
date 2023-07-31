@@ -19,7 +19,7 @@
 
 ## .PDB 파일이란?
 
-확장자가 .pdb인 파일은 컴파일된 실행 파일(EXE/DLL)에 대한 디버깅 정보가 포함된 프로그램 데이터베이스 파일입니다. PDB 파일은 응용 프로그램이 디버그 모드에서 컴파일될 때 Microsoft 컴파일러에 의해 생성됩니다. PDB 파일이 있으면 모듈의 모든 기호에 대한 중요한 정보가 포함되어 있으므로 실행 파일을 리버스 엔지니어링하는 데 도움이 될 수 있습니다. 이러한 이유로 이러한 파일은 최종 실행 파일과 별도로 보관됩니다. Microsoft의 [DgbHelp API](https://docs.microsoft.com/en-us/windows/win32/debug/dbghelp-functions)는 PDB 파일을 열어 공개 및 내보내기, 전역 기호, 로컬 기호, 유형 데이터, 소스 파일 및 행 번호.
+확장자가 .pdb인 파일은 컴파일된 실행 파일(EXE/DLL)에 대한 디버깅 정보가 포함된 프로그램 데이터베이스 파일입니다. PDB 파일은 응용 프로그램이 디버그 모드에서 컴파일될 때 Microsoft 컴파일러에 의해 생성됩니다. PDB 파일이 있으면 모듈의 모든 기호에 대한 중요한 정보가 포함되어 있으므로 실행 파일을 리버스 엔지니어링하는 데 도움이 될 수 있습니다. 이러한 이유로 이러한 파일은 최종 실행 파일과 별도로 보관됩니다. Microsoft의 [DgbHelp API](https://learn.microsoft.com/en-us/windows/win32/debug/dbghelp-functions)는 PDB 파일을 열어 공개 및 내보내기, 전역 기호, 로컬 기호, 유형 데이터, 소스 파일 및 행 번호.
 
 ## PDB 파일 형식
 

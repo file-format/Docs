@@ -47,7 +47,7 @@ A VCXPROJ mintafájl tartalma a következő.
 ```
 ### VCXPROJ fájlelemek
 
-Egy tipikus VCXPROJ fájl számos elemet tartalmaz, amint az a fenti XML példában látható. A Microsoft [VCXPROJ szerkezete](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) részletesen elmagyarázza az egyes fájlelemeket, és hivatkozni is lehet rá. a fejlesztő szemszögéből.
+Egy tipikus VCXPROJ fájl számos elemet tartalmaz, amint az a fenti XML példában látható. A Microsoft [VCXPROJ szerkezete](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) részletesen elmagyarázza az egyes fájlelemeket, és hivatkozni is lehet rá. a fejlesztő szemszögéből.
 
 #### Projektelem
 
@@ -72,6 +72,6 @@ Ez a szakasz olyan beállításokat tartalmaz, amelyek projektszintű informáci
 
 ## Hivatkozások
 
-* [VCXPROJ Structure – MSDN](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
-* [C++ Project Files](https://docs.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
+* [VCXPROJ Structure – MSDN](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
+* [C++ Project Files](https://learn.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
 

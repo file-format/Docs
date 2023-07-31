@@ -82,5 +82,5 @@ For each top-level table in the font, there is a Table Record which consists of 
 Each table in the OpenType font file is represented by names known as table tags. It is a must for all the records in the array to be sorted in ascending order by tag.
 
 ## References
- * [OpenType Font Specifications by Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
- * [TrueType Overview](https://docs.microsoft.com/en-us/typography/truetype/)
+ * [OpenType Font Specifications by Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+ * [TrueType Overview](https://learn.microsoft.com/en-us/typography/truetype/)

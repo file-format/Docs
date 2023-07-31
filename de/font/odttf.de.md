@@ -28,6 +28,6 @@ NiXPS-Ansicht und NiXPS-Bearbeitung.
 Die interne Dateiformatstruktur des ODTTF-Dateiformats ist nicht bekannt, da diese als eingebettetes verschleiertes Format gespeichert werden. Diese können in digitale Dokumente wie .PDF oder .DOCX eingebettet werden.
 
 ## Verweise
-* [OpenType-Schriftspezifikationen von Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [TrueType-Übersicht](https://docs.microsoft.com/en-us/typography/truetype/)
+* [OpenType-Schriftspezifikationen von Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [TrueType-Übersicht](https://learn.microsoft.com/en-us/typography/truetype/)
 

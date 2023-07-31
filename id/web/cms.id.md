@@ -29,6 +29,6 @@ File CMS disimpan dalam format web dan ini mencakup beberapa jenis elemen yang b
 
 ## Referensi
 
-* [Bantuan Microsoft HTML](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [Bantuan Microsoft HTML](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 * [Bantuan HTML Terkompilasi Microsoft](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 

@@ -31,5 +31,5 @@ Un archivo de perfil de CMS se crea mediante Connection Manager y se empaqueta c
 
 ## Referencias
 
-* [Comprender y configurar Windows Connection Manager](https://docs.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
+* [Comprender y configurar Windows Connection Manager](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
 

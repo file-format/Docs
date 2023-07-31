@@ -27,5 +27,5 @@ Soubory AP jsou hostovány na webovém serveru s pomocí podpůrného softwaru. 
 ## Reference
 
 * [ASP – od W3C](https://www.w3schools.com/asp/default.asp)
-* [Vytváření jednoduchých stránek ASP](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Vytváření jednoduchých stránek ASP](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

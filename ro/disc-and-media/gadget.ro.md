@@ -38,6 +38,6 @@ Deoarece platforma Windows Sidebar din Windows 7 are vulnerabilități grave, ga
 
 ## Referințe
 
-* [Bară laterală Windows - de la Microsoft](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
-* [Dezvoltarea unui gadget pentru bara laterală Windows Partea 1](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
+* [Bară laterală Windows - de la Microsoft](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
+* [Dezvoltarea unui gadget pentru bara laterală Windows Partea 1](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
 

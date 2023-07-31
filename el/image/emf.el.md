@@ -95,6 +95,6 @@ HDC CreateEnhMetaFileExample(
 
 ## Βιβλιογραφικές αναφορές ##
 
-* [Μετααρχεία βελτιωμένης μορφής | Έγγραφα Microsoft](https://docs.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
+* [Μετααρχεία βελτιωμένης μορφής | Έγγραφα Microsoft](https://learn.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
 * [Βελτιωμένη μορφή και προδιαγραφή μετα-αρχείου](https://msdn.microsoft.com/en-us/library/cc230514.aspx)
 

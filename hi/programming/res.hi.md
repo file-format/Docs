@@ -56,7 +56,7 @@
 
 ## संदर्भ
 
-* [संसाधन फ़ाइल प्रारूप](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
+* [संसाधन फ़ाइल प्रारूप](https://learn.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
 
 

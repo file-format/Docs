@@ -32,6 +32,6 @@ Các tệp XAR có thể lưu tất cả các loại định dạng tệp Excel 
 
 ## Người giới thiệu
 
-* [Các hàm khôi phục Atuo trong Excel](https://docs.microsoft.com/en-us/office/troubleshoot/excel/autorecover-functions-in-excel)
+* [Các hàm khôi phục Atuo trong Excel](https://learn.microsoft.com/en-us/office/troubleshoot/excel/autorecover-functions-in-excel)
 * [Trợ giúp cộng đồng tệp XAR](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_excel-mso_win10-mso_365hp/2016-excel-xar-files/5af5e10c-027a-4c24-a403-39e9c590ce8f)
 

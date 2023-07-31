@@ -31,5 +31,5 @@ Microsoft Word 自动恢复文件以二进制文件格式与主文档文件一�
 
 ## 参考
 
-* [恢复 Microsoft Word 文档](https://docs.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
+* [恢复 Microsoft Word 文档](https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
 

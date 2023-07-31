@@ -38,6 +38,6 @@ GADGET फ़ाइल के एकाधिक उदाहरण एक स�
 
 ## संदर्भ
 
-* [विंडोज साइडबार - माइक्रोसॉफ्ट द्वारा](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
-* [विंडोज साइडबार पार्ट 1 के लिए गैजेट विकसित करना](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
+* [विंडोज साइडबार - माइक्रोसॉफ्ट द्वारा](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
+* [विंडोज साइडबार पार्ट 1 के लिए गैजेट विकसित करना](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
 

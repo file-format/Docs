@@ -40,5 +40,5 @@ SQL Server プロファイラーを使用して、Microsoft Windows パフォー
 
 ## 参照 ##
 
-* [SQL Server プロファイラー](https://docs.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler?view=sql-server-ver15)
+* [SQL Server プロファイラー](https://learn.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler?view=sql-server-ver15)
 

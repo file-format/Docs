@@ -53,7 +53,7 @@ Các tệp MAML có thể được tạo bằng cách sử dụng Sandcastle, m�
 ## Người giới thiệu
 
 * [Tạo trợ giúp dựa trên XML bằng PlatyPS
-](https://docs.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
+](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
 * [Ngôn ngữ đánh dấu hỗ trợ của Microsoft](https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
 
 # AML - Tệp Ngôn ngữ Macro Arc

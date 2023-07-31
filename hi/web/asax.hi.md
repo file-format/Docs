@@ -59,5 +59,5 @@ ASAX फाइलें सादे पाठ फ़ाइल प्रार�
 ## संदर्भ
 
 * [एचटीटीपी हैंडलर और एचटीटीपी मॉड्यूल अवलोकन](https://msdn.microsoft.com/en-us/library/bb398986(v=vs.100))
-* [Global.asax Syntax](https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
+* [Global.asax Syntax](https://learn.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
 

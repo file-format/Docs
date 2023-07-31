@@ -28,5 +28,5 @@ APPXBUNDLE-filer publiceras i ZIP-filformat. Om du vill se innehållet i apppake
 ## Referenser
 
 * [Beroendepaket för .appx- och .appxbundle-paket](https://www.ibm.com/docs/en/maas360?topic=catalog-dependency-packages-appx-appxbundle-packages)
-* [Skapa APPX-filer med Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Skapa APPX-filer med Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

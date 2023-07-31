@@ -27,7 +27,7 @@ Het XLSX-bestandsformaat werd geïntroduceerd in 2007 en maakt gebruik van de Op
 
 ## Specificaties XLSX-bestandsindeling
 
-De officiële [specificaties van XLSX-bestandsindelingen](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) zijn online beschikbaar bij Microsoft. Om te zien wat er in het XLSX-bestand staat, hernoemt u het naar het bestand [ZIP](/nl/compression/zip/) door de extensie te wijzigen en het vervolgens uit te pakken om de samenstellende bestanden van deze Excel-werkmap te bekijken. Een lege werkmap heeft, wanneer deze wordt uitgepakt naar zijn bestanden, de volgende samenstellende bestanden en mappen.
+De officiële [specificaties van XLSX-bestandsindelingen](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) zijn online beschikbaar bij Microsoft. Om te zien wat er in het XLSX-bestand staat, hernoemt u het naar het bestand [ZIP](/nl/compression/zip/) door de extensie te wijzigen en het vervolgens uit te pakken om de samenstellende bestanden van deze Excel-werkmap te bekijken. Een lege werkmap heeft, wanneer deze wordt uitgepakt naar zijn bestanden, de volgende samenstellende bestanden en mappen.
 
 ### [Content_Types].xml ###
 
@@ -77,6 +77,6 @@ Moet u iets delen over XLSX- of Spreadsheet-bestandsindelingen? U kunt uw bevind
 
 ## Referenties
 
-* [[MS-XLSX] - XLSX-bestandsindeling](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [[MS-XLSX] - XLSX-bestandsindeling](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

@@ -45,5 +45,5 @@ Visual Studio permite convertir/exportar diagramas de clase a imágenes como [PN
 
 ## Referencias
 
-* [Clases de diseño en Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
+* [Clases de diseño en Visual Studio](https://learn.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
 

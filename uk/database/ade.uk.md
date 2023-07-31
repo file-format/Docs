@@ -29,6 +29,6 @@ ADE — це скомпільовані файли бази даних Access, �
 
 ## Список літератури
 
-* [Проблема з файлами Access ADE](https://docs.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
+* [Проблема з файлами Access ADE](https://learn.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
 * [Які формати файлів Access використовувати](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

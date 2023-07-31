@@ -26,7 +26,7 @@
 
 ### Макет файла DDS
 
-[Макет файла DDS](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) был подробно задокументирован Microsoft. Двоичный файл DDS содержит следующую информацию.
+[Макет файла DDS](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) был подробно задокументирован Microsoft. Двоичный файл DDS содержит следующую информацию.
 
 * DWORD (магическое число), содержащее четырехзначное кодовое значение «DDS» (0x20534444).
 * Описание данных в файле.
@@ -38,7 +38,7 @@ DWORD               dwMagic;
 DDS_HEADER          header;
 ```
 
-В [руководстве по программированию формата файла DDS](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) подробно описаны технические детали этого формата файла.
+В [руководстве по программированию формата файла DDS](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) подробно описаны технические детали этого формата файла.
 
 ## использованная литература
 

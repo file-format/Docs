@@ -32,5 +32,5 @@ HDMP sunt fișiere de descărcare a memoriei necomprimate. În schimb, MDMP sunt
 
 ## Referință ##
 
-* [DMP - Microsoft](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
+* [DMP - Microsoft](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
 

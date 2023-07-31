@@ -61,5 +61,5 @@ Em RDL, a Enumeração DataType define o tipo de dados de um atributo, expressã
 ## Referências ##
 
 - [Report Definition Language (Wikipedia)](https://en.wikipedia.org/wiki/Report_Definition_Language)
-- [Report Definition Language (SSRS)](https://docs.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
+- [Report Definition Language (SSRS)](https://learn.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
 

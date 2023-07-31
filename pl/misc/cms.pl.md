@@ -31,5 +31,5 @@ Plik profilu CMS jest tworzony za pomocą Menedżera połączeń i jest pakowany
 
 ## Bibliografia
 
-* [Zrozumienie i konfiguracja Menedżera połączeń systemu Windows](https://docs.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
+* [Zrozumienie i konfiguracja Menedżera połączeń systemu Windows](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
 

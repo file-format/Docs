@@ -53,6 +53,6 @@ Transport Neutral Encapsulation Format (TNEF) เป็นกรรมสิท�
 ## อ้างอิง
 
 * [รูปแบบการห่อหุ้มที่เป็นกลางในการขนส่ง](https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
-* [ที่อยู่อีเมลและสมุดที่อยู่ใน Exchange Server](https://docs.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
+* [ที่อยู่อีเมลและสมุดที่อยู่ใน Exchange Server](https://learn.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
 * [[MS-OXTNEF]: อัลกอริทึมข้อมูล Transport Neutral Encapsulation Format (TNEF)](https://msdn.microsoft.com/en-us/library/cc425498(v#exchg.80).aspx)
 

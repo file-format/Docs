@@ -28,5 +28,5 @@ Soubory APPXBUNDLE jsou publikovány ve formátu ZIP. Pokud chcete vidět obsah 
 ## Reference
 
 * [Závislé balíčky pro balíčky .appx a .appxbundle](https://www.ibm.com/docs/en/maas360?topic=catalog-dependency-packages-appx-appxbundle-packages)
-* [Vytvářejte soubory APPX pomocí Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Vytvářejte soubory APPX pomocí Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

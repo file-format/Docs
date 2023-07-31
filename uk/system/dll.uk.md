@@ -56,4 +56,4 @@ LPVOID lpReserved ) // Reserved
 
 ## Посилання ##
 
-* [DLL - Microsoft](https://docs.microsoft.com/en-us/troubleshoot/windows-client/deployment/dynamic-link-library)
+* [DLL - Microsoft](https://learn.microsoft.com/en-us/troubleshoot/windows-client/deployment/dynamic-link-library)

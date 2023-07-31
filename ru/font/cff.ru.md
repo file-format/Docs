@@ -23,7 +23,7 @@
 
 ## Формат файла CFF
 
-Файлы CFF представляют собой двоичные файлы, которые содержат структурированный макет данных, имеют определенные типы данных, заголовок, организацию глифов и табличные словари. Дополнительные сведения об этом можно найти в [спецификациях формата компактных шрифтов](https://docs.microsoft.com/en-us/typography/opentype/spec/cff).
+Файлы CFF представляют собой двоичные файлы, которые содержат структурированный макет данных, имеют определенные типы данных, заголовок, организацию глифов и табличные словари. Дополнительные сведения об этом можно найти в [спецификациях формата компактных шрифтов](https://learn.microsoft.com/en-us/typography/opentype/spec/cff).
 
 ### Макет данных
 Структура данных формата файла CFF показана ниже.
@@ -68,7 +68,7 @@
 
 ## использованная литература
 
-* [Таблица компактных форматов шрифтов](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+* [Таблица компактных форматов шрифтов](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
 * [Формат файла CFF](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
-* [Набор диаграмм CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+* [Набор диаграмм CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

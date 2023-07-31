@@ -40,5 +40,5 @@ SQL Server Profiler se puede usar para abrir un registro de rendimiento de Micro
 
 ## Referencias ##
 
-* [Perfilador de SQL Server](https://docs.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler?view=sql-server-ver15)
+* [Perfilador de SQL Server](https://learn.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler?view=sql-server-ver15)
 

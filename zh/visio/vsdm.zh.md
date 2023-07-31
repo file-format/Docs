@@ -40,5 +40,5 @@ Visio 文件的关系部分存储在“\_rels"文件夹中，并描述包中的�
 
 ## 参考 ＃＃
 
-* [Visio 文件格式简介](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Visio 文件格式简介](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

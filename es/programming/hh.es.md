@@ -54,6 +54,6 @@ Con este encabezado, el preprocesador verifica si `ANY_UNIQUE_NAME_HERE_HPP` ya 
 
 ## Referencias
 
-* [Archivadores de encabezado: Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [Archivadores de encabezado: Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 * [Diferencia entre los formatos de archivo .h y .hh](https://stackoverflow.com/questions/10354321/c-reason-why-using-hh-as-extension-for-c-header-files)
 

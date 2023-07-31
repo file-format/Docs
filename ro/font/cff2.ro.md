@@ -23,7 +23,7 @@ Formatul de fișier CFF2 este versiunea 2.0 a formatului de fișier CFF și perm
 
 ## Format de fișier CFF2
 
-[Specificațiile formatului fișierului CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2) conține detalii despre aspectul intern al datelor, tipurile de date, tabele și alte informații interne despre formatul fișierului. Acesta poate fi referit pentru referința dezvoltatorului. Unele dintre detaliile despre acestea sunt următoarele.
+[Specificațiile formatului fișierului CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2) conține detalii despre aspectul intern al datelor, tipurile de date, tabele și alte informații interne despre formatul fișierului. Acesta poate fi referit pentru referința dezvoltatorului. Unele dintre detaliile despre acestea sunt următoarele.
 
 ### Aspect de date
 
@@ -81,5 +81,5 @@ Datele binare încep cu un antet având formatul prezentat în tabelul de mai jo
 
 ## Referințe
 
-* [Format de fișier CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2)
+* [Format de fișier CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2)
 

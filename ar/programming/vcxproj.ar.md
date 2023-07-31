@@ -47,7 +47,7 @@
 ```
 ### عناصر ملف VCXPROJ
 
-يحتوي ملف VCXPROJ النموذجي على عدد من العناصر كما يمكن رؤيته في مثال XML أعلاه. تشرح [بنية VCXPROJ](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure؟view=msvc-160) بواسطة Microsoft كل عنصر ملف بالتفصيل ويمكن الرجوع إليه من منظور المطور.
+يحتوي ملف VCXPROJ النموذجي على عدد من العناصر كما يمكن رؤيته في مثال XML أعلاه. تشرح [بنية VCXPROJ](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure؟view=msvc-160) بواسطة Microsoft كل عنصر ملف بالتفصيل ويمكن الرجوع إليه من منظور المطور.
 
 #### عنصر المشروع
 
@@ -72,6 +72,6 @@
 
 ## مراجع
 
-* [بنية VCXPROJ - MSDN](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure؟view=msvc-160)
-* [ملفات مشروع C ++](https://docs.microsoft.com/en-us/cpp/build/reference/project-files؟view=msvc-160)
+* [بنية VCXPROJ - MSDN](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure؟view=msvc-160)
+* [ملفات مشروع C ++](https://learn.microsoft.com/en-us/cpp/build/reference/project-files؟view=msvc-160)
 

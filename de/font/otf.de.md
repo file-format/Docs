@@ -82,6 +82,6 @@ Für jede Tabelle der obersten Ebene in der Schriftart gibt es einen Tabellendat
 Jede Tabelle in der OpenType-Schriftartdatei wird durch Namen dargestellt, die als Tabellen-Tags bezeichnet werden. Es ist ein Muss, dass alle Datensätze im Array in aufsteigender Reihenfolge nach Tag sortiert werden.
 
 ## Verweise
-* [OpenType-Schriftspezifikationen von Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [TrueType-Übersicht](https://docs.microsoft.com/en-us/typography/truetype/)
+* [OpenType-Schriftspezifikationen von Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [TrueType-Übersicht](https://learn.microsoft.com/en-us/typography/truetype/)
 

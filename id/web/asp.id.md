@@ -63,5 +63,5 @@ Objek ASPError diimplementasikan di ASP 3.0 dan tersedia di IIS5 dan yang lebih 
 ## Referensi
 
 * [ASP - Oleh W3C](https://www.w3schools.com/asp/default.asp)
-* [Membuat Halaman ASP Sederhana](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Membuat Halaman ASP Sederhana](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

@@ -31,5 +31,5 @@ Un fichier de profil CMS est créé à l'aide de Connection Manager et est fourn
 
 ## Références
 
-* [Comprendre et configurer le gestionnaire de connexion Windows](https://docs.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
+* [Comprendre et configurer le gestionnaire de connexion Windows](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
 

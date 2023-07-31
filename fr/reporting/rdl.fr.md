@@ -61,5 +61,5 @@ Dans RDL, l'énumération DataType définit le type de données d'un attribut, d
 ## Références ##
 
 - [Langage de définition de rapport (Wikipédia)](https://en.wikipedia.org/wiki/Report_Definition_Language)
-- [Langage de définition de rapport (SSRS)](https://docs.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
+- [Langage de définition de rapport (SSRS)](https://learn.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
 

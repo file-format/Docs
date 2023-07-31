@@ -31,5 +31,5 @@ Bağlantı Yöneticisi kullanılarak bir CMS profil dosyası oluşturulur ve uza
 
 ## Referanslar
 
-* [Windows Bağlantı Yöneticisini anlama ve yapılandırma](https://docs.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
+* [Windows Bağlantı Yöneticisini anlama ve yapılandırma](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
 

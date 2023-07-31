@@ -26,7 +26,7 @@ DDS-bestanden worden opgeslagen als binaire bestanden en kunnen worden gebruikt 
 
 ### DDS-bestandsindeling
 
-De [DDS-bestandsindeling](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) is door Microsoft in detail gedocumenteerd. Een binair DDS-bestand bevat de volgende informatie.
+De [DDS-bestandsindeling](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) is door Microsoft in detail gedocumenteerd. Een binair DDS-bestand bevat de volgende informatie.
 
 * Een DWORD (magisch getal) met de viercijferige codewaarde 'DDS' (0x20534444).
 * Een beschrijving van de gegevens in het bestand.
@@ -38,7 +38,7 @@ DWORD               dwMagic;
 DDS_HEADER          header;
 ```
 
-De [programmeergids van DDS-bestandsformaat](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) werkt de technische details van dit bestandsformaat verder uit.
+De [programmeergids van DDS-bestandsformaat](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) werkt de technische details van dit bestandsformaat verder uit.
 
 ## Referenties
 

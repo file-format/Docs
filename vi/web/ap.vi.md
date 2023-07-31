@@ -27,5 +27,5 @@ Các tệp AP được lưu trữ trên máy chủ Web với sự trợ giúp c�
 ## Người giới thiệu
 
 * [ASP - Bởi W3C](https://www.w3schools.com/asp/default.asp)
-* [Tạo trang ASP đơn giản](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Tạo trang ASP đơn giản](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

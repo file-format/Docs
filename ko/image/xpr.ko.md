@@ -27,5 +27,5 @@ XPR 파일은 Microsoft Expression Design의 취약점을 이용하여 원격 �
 
 ## 참고문헌
 
-* [표현식 디자인의 취약점으로 인한 원격 코드 실행 문제점(2651018)](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
+* [표현식 디자인의 취약점으로 인한 원격 코드 실행 문제점(2651018)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
 

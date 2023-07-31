@@ -82,6 +82,6 @@ OTF 파일은 테이블 디렉토리로 시작합니다. 이 디렉토리는 글
 OpenType 글꼴 파일의 각 테이블은 테이블 태그라는 이름으로 표시됩니다. 배열의 모든 레코드를 태그별로 오름차순으로 정렬하는 것은 필수입니다.
 
 ## 참고문헌
-* [Microsoft의 OpenType 글꼴 사양](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [트루타입 개요](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Microsoft의 OpenType 글꼴 사양](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [트루타입 개요](https://learn.microsoft.com/en-us/typography/truetype/)
 

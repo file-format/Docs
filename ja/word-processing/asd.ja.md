@@ -31,5 +31,5 @@ Microsoft Word Auto-Recovery ファイルは、メインのドキュメント �
 
 ## 参考文献
 
-* [Microsoft Word ドキュメントの復元](https://docs.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
+* [Microsoft Word ドキュメントの復元](https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
 

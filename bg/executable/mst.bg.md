@@ -40,6 +40,6 @@ TRANSFORMS=transform1.mst;transform2.mst;transform3.mst
 ## Препратки
 
 * [MST трансформационни файлове](https://www.exemsi.com/documentation/mst-transformation-files/)
-* [свойство TRANSFORMS](https://docs.microsoft.com/en-us/windows/win32/msi/transforms)
+* [свойство TRANSFORMS](https://learn.microsoft.com/en-us/windows/win32/msi/transforms)
 
 

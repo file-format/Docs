@@ -307,5 +307,5 @@ A lista a seguir mostra as enumerações que podem ser usadas no fluxo RPL:
 
 ## Referências ##
 
-- [Formato de fluxo binário de layout de página de relatório (RPL)](https://docs.microsoft.com/en-us/openspecs/sql_server_protocols/ms-rpl/9c4ff7ba-f6da-4092-9670-aa0e54e73887)
+- [Formato de fluxo binário de layout de página de relatório (RPL)](https://learn.microsoft.com/en-us/openspecs/sql_server_protocols/ms-rpl/9c4ff7ba-f6da-4092-9670-aa0e54e73887)
 

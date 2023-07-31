@@ -38,5 +38,5 @@ VSSM 파일 형식은 OpenOffice XML 사양을 기반으로 하는 Microsoft Vis
 
 ## 참조 ##
 
-* [Visio 파일 형식 소개](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Visio 파일 형식 소개](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

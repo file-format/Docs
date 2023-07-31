@@ -27,7 +27,7 @@ Format file PPTX diperkenalkan pada tahun 2007 dan menggunakan standar Open XML 
 
 ## Spesifikasi Format File PPTX
 
-File yang dihasilkan dengan format file Office Open XML adalah kumpulan file XML bersama dengan file lain yang menyediakan tautan antara semua file penyusunnya. Koleksi ini sebenarnya adalah arsip terkompresi yang dapat diekstraksi untuk melihat isinya. Untuk melakukannya, cukup ganti nama ekstensi file PPTX dengan zip dan ekstrak untuk mengamati kontennya (Lihat [spesifikasi format file PPTX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/ efd8bb2d-d888-4e2e-af25-cad476730c9f) oleh Microsoft).
+File yang dihasilkan dengan format file Office Open XML adalah kumpulan file XML bersama dengan file lain yang menyediakan tautan antara semua file penyusunnya. Koleksi ini sebenarnya adalah arsip terkompresi yang dapat diekstraksi untuk melihat isinya. Untuk melakukannya, cukup ganti nama ekstensi file PPTX dengan zip dan ekstrak untuk mengamati kontennya (Lihat [spesifikasi format file PPTX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/ efd8bb2d-d888-4e2e-af25-cad476730c9f) oleh Microsoft).
 
 Bagian berikut menjelaskan masing-masing bagian ini.
 
@@ -90,6 +90,6 @@ dan file xml berikut:
 
 ## Referensi ##
 
-* [[MS-PPTX] - Format File PPTX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
+* [[MS-PPTX] - Format File PPTX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
 * [Buka Office XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
 

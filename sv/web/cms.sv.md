@@ -29,6 +29,6 @@ CMS-filer sparas i webbformat och dessa inkluderar flera olika typer av element 
 
 ## Referenser
 
-* [Microsoft HTML-hjälp](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [Microsoft HTML-hjälp](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 * [Microsoft Compiled HTML Help](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 

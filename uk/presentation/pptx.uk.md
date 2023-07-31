@@ -27,7 +27,7 @@
 
 ## Специфікації формату файлу PPTX
 
-Файли, згенеровані у форматі Office Open XML, — це колекція XML-файлів разом з іншими файлами, які забезпечують зв’язки між усіма складовими файлами. Ця колекція насправді є стислим архівом, який можна розпакувати, щоб переглянути його вміст. Для цього просто перейменуйте розширення файлу PPTX на zip і розпакуйте його, щоб переглянути його вміст (Див. [специфікації формату файлу PPTX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/ efd8bb2d-d888-4e2e-af25-cad476730c9f) від Microsoft).
+Файли, згенеровані у форматі Office Open XML, — це колекція XML-файлів разом з іншими файлами, які забезпечують зв’язки між усіма складовими файлами. Ця колекція насправді є стислим архівом, який можна розпакувати, щоб переглянути його вміст. Для цього просто перейменуйте розширення файлу PPTX на zip і розпакуйте його, щоб переглянути його вміст (Див. [специфікації формату файлу PPTX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/ efd8bb2d-d888-4e2e-af25-cad476730c9f) від Microsoft).
 
 Наступні розділи проливають світло на кожен із них.
 
@@ -90,6 +90,6 @@ r:id#"rId2" посилається на наступний зв’язок у ч
 
 ## Посилання ##
 
-* [[MS-PPTX] – формат файлу PPTX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
+* [[MS-PPTX] – формат файлу PPTX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
 

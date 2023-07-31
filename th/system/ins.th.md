@@ -48,6 +48,6 @@ Microsoft Windows จะใช้ไฟล์ที่มีนามสกุ�
 
 ## อ้างอิง
 
-* [การใช้ไฟล์การตั้งค่าอินเทอร์เน็ต (.INS) กับ IEAK 11](https://docs.microsoft.com/en-us/internet-explorer/ie11-ieak/using-internet-settings-ins-files)
+* [การใช้ไฟล์การตั้งค่าอินเทอร์เน็ต (.INS) กับ IEAK 11](https://learn.microsoft.com/en-us/internet-explorer/ie11-ieak/using-internet-settings-ins-files)
 
 

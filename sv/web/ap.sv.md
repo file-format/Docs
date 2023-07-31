@@ -27,5 +27,5 @@ AP-filer lagras på webbservern med hjälp av stödprogram. Det exekveras sedan 
 ## Referenser
 
 * [ASP – av W3C](https://www.w3schools.com/asp/default.asp)
-* [Skapa enkla ASP-sidor](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Skapa enkla ASP-sidor](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

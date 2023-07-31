@@ -27,7 +27,7 @@ XSD-Dateien werden im Nur-Text-Dateiformat auf der Disc gespeichert, das für Me
 
 ## Beispiel einer XSD-Datei
 
-Eine einfache XSD-Datei mit einem Bestellschema definiert die Elemente mithilfe von Tags, wie im folgenden [XSD-Beispiel von Microsoft](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -simple-schema?view=vs-2022).
+Eine einfache XSD-Datei mit einem Bestellschema definiert die Elemente mithilfe von Tags, wie im folgenden [XSD-Beispiel von Microsoft](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -simple-schema?view=vs-2022).
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
@@ -67,5 +67,5 @@ Hier werden die folgenden Tags verwendet.
 ## Verweise ##
 
 - [Microsoft XML-Editor](https://microsoft.github.io/XmlNotepad/)
-- [XSD-Beispielbeispiel](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
+- [XSD-Beispielbeispiel](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
 

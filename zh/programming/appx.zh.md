@@ -36,11 +36,11 @@ APPX 文件以 [ZIP](/zh/compression/zip/) 文件格式保存为压缩文件。�
 
 有两种方法可用于创建 APPX 文件。
 
-1. 使用 MakeApp.exe - [MakeApp.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) 用于创建两者应用程序包（.msix 或 .appx）和应用程序包捆绑文件 .msixbundle 或 .appxbundle）。此外，它可以从应用程序包中提取文件。 MakeApp.exe 随 Windows 10 SDK 提供，可从命令提示符使用。
-1. 使用 Microsoft Visual Studio - 开发人员通常使用 Microsoft Visual Studio [创建 APPX 文件](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)。应用程序开发完成并准备好发布应用程序后，可以通过从 Visual Studio 中发布它来创建 APPX 包文件。
+1. 使用 MakeApp.exe - [MakeApp.exe](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) 用于创建两者应用程序包（.msix 或 .appx）和应用程序包捆绑文件 .msixbundle 或 .appxbundle）。此外，它可以从应用程序包中提取文件。 MakeApp.exe 随 Windows 10 SDK 提供，可从命令提示符使用。
+1. 使用 Microsoft Visual Studio - 开发人员通常使用 Microsoft Visual Studio [创建 APPX 文件](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)。应用程序开发完成并准备好发布应用程序后，可以通过从 Visual Studio 中发布它来创建 APPX 包文件。
 
 ## 参考
 
-* [使用 MakeAppx.exe 创建 MSIX 包或捆绑包](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
-* [使用 Microsoft Visual Studio 创建 APPX 文件](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [使用 MakeAppx.exe 创建 MSIX 包或捆绑包](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
+* [使用 Microsoft Visual Studio 创建 APPX 文件](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

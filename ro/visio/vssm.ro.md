@@ -38,5 +38,5 @@ Fiecare fișier Visio este denumit pachet care conține alte fișiere sau părț
 
 ## Referințe ##
 
-* [Introducere în formatul de fișier Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Introducere în formatul de fișier Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

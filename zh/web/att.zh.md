@@ -24,5 +24,5 @@ ATT 文件是用户在 Web 浏览器中使用表单提交数据时由 Web 表单
 
 ## 参考
 
-* [Web 表单 - 微软](https://docs.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
+* [Web 表单 - 微软](https://learn.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
 

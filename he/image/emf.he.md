@@ -95,6 +95,6 @@ HDC CreateEnhMetaFileExample(
 
 ## הפניות ##
 
-* [ Metafiles בפורמט משופר | Microsoft Docs](https://docs.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
+* [ Metafiles בפורמט משופר | Microsoft Docs](https://learn.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
 * [פורמט ומפרט משופר של Metafile](https://msdn.microsoft.com/en-us/library/cc230514.aspx)
 

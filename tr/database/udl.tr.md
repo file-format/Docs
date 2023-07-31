@@ -47,5 +47,5 @@ Uygun bağlantıyı sağlamak için bir UDL'de aşağıdaki özellikler ayarlana
 ## Referanslar ##
 
 * [Microsoft Veri Erişim Bileşenleri](https://en.wikipedia.org/wiki/Microsoft_Data_Access_Components#Universal_data_link)
-* [Evrensel Veri Bağlantısı (UDL) yapılandırması](https://docs.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
+* [Evrensel Veri Bağlantısı (UDL) yapılandırması](https://learn.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
 

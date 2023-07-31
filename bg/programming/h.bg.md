@@ -120,5 +120,5 @@ namespace N  // namespace declaration
 
 ## Препратки
 
-* [Филери за заглавки - Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [Филери за заглавки - Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 

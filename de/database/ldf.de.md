@@ -40,6 +40,6 @@ Die LDF-Datei besteht aus SQL Server-Transaktionsdatensätzen, die als Zeichenfo
 
 ## Verweise
 
-* [Datenbankdateien und Dateigruppen](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [Transaction Log Architecture and Management Guide](https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql- Server-Version 15)
+* [Datenbankdateien und Dateigruppen](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
+* [Transaction Log Architecture and Management Guide](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql- Server-Version 15)
 

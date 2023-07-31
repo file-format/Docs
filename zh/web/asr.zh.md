@@ -27,5 +27,5 @@ ASR 文件包含以标准脚本语言开发的脚本。它可以使用 Adobe Dre
 ## 参考
 
 * [Adobe Contribute - 维基百科提供](https://en.wikipedia.org/wiki/Adobe_Contribute)
-* [创建简单的 ASP 页面](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [创建简单的 ASP 页面](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

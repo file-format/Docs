@@ -90,5 +90,5 @@
 
 ## הפניות
 * [מדריך עזר לגופן TrueType](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [סקירה כללית של TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [סקירה כללית של TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

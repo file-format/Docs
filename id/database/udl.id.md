@@ -47,5 +47,5 @@ Properti berikut dapat diatur dalam UDL untuk memastikan konektivitas yang tepat
 ## Referensi ##
 
 * [Komponen Akses Data Microsoft](https://en.wikipedia.org/wiki/Microsoft_Data_Access_Components#Universal_data_link)
-* [Konfigurasi Universal Data Link (UDL)](https://docs.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
+* [Konfigurasi Universal Data Link (UDL)](https://learn.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
 

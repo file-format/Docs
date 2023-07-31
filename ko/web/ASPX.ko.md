@@ -96,5 +96,5 @@ namespace MyStuff
 
 ## 참고문헌
 
-* [ASP.NET 웹앱 - 마이크로소프트](https://docs.microsoft.com/en-us/troubleshoot/webapps/welcome-webapps)
+* [ASP.NET 웹앱 - 마이크로소프트](https://learn.microsoft.com/en-us/troubleshoot/webapps/welcome-webapps)
 

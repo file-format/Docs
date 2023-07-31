@@ -29,10 +29,10 @@ DTSX で記述されたデータ フローは、次の図のようになりま�
 
 {{< figure src="../DataFlowDTSX.png" alt="データ フロー DTSX" >}}
 
-DTSX は [XML](/web/xml/) ベースであり、[MS-DTSX](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd)。 DTSX XML の強化されたリファクタリングは DTSX 2.0 であり、構造に対する新しい属性、親 XML 属性としての名前付きプロパティの置き換え、ほとんどの属性値の既定値の指定、および親要素内の繰り返し要素の配置が含まれています。 DTSX 構造は、これらの [XML スキーマ](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1) を使用して記述され、構造形式は次のとおりです。セラーテキスト XML。
+DTSX は [XML](/web/xml/) ベースであり、[MS-DTSX](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd)。 DTSX XML の強化されたリファクタリングは DTSX 2.0 であり、構造に対する新しい属性、親 XML 属性としての名前付きプロパティの置き換え、ほとんどの属性値の既定値の指定、および親要素内の繰り返し要素の配置が含まれています。 DTSX 構造は、これらの [XML スキーマ](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1) を使用して記述され、構造形式は次のとおりです。セラーテキスト XML。
 
 ## 参考文献
 
-* [DTSX 形式 - Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd)
-* [DTSX 2 形式 - Microsoft による](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx2/fb216aa4-62ab-41c8-a6d5-5b1002739d21)
+* [DTSX 形式 - Microsoft](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd)
+* [DTSX 2 形式 - Microsoft による](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx2/fb216aa4-62ab-41c8-a6d5-5b1002739d21)
 

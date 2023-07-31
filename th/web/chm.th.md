@@ -54,6 +54,6 @@
 
 ## อ้างอิง
 
-* [วิธีใช้ Microsoft HTML](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [วิธีใช้ Microsoft HTML](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 * [วิธีใช้ HTML ที่คอมไพล์โดย Microsoft](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 

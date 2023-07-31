@@ -120,5 +120,5 @@ namespace N  // namespace declaration
 
 ## Références
 
-* [Fichiers d'en-tête - Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [Fichiers d'en-tête - Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 

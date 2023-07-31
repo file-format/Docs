@@ -90,5 +90,5 @@ TrueType フォントの最初のテーブルは、他のテーブルのデー�
 
 ## 参考文献
 * [TrueType フォント リファレンス マニュアル](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [TrueType の概要](https://docs.microsoft.com/en-us/typography/truetype/)
+* [TrueType の概要](https://learn.microsoft.com/en-us/typography/truetype/)
 

@@ -27,5 +27,5 @@
 ## Список літератури
 
 * [ASP - від W3C](https://www.w3schools.com/asp/default.asp)
-* [Створення простих сторінок ASP](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Створення простих сторінок ASP](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

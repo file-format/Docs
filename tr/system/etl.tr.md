@@ -27,10 +27,10 @@ ETL dosyaları, disk alanını azaltmak için diske sıkıştırılmış ikili b
 
 ## ETL Dosyalarını Windows Performance Analyzer'ı kullanarak açın
 
-ETL dosyaları verileri, Microsoft Windows Performance Analyzer (WPA) uygulaması kullanılarak tablo ve grafik biçiminde okunabilir ve görselleştirilebilir. [ETL dosyalarını Açma ve Analiz Etme](https://docs.Microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) kılavuzu, çalışma hakkında bilgi sağlar ETL dosyaları ile.
+ETL dosyaları verileri, Microsoft Windows Performance Analyzer (WPA) uygulaması kullanılarak tablo ve grafik biçiminde okunabilir ve görselleştirilebilir. [ETL dosyalarını Açma ve Analiz Etme](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) kılavuzu, çalışma hakkında bilgi sağlar ETL dosyaları ile.
 
 ## Referanslar
 
-* [Windows Performans Analiz Aracı](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
-* [WPA Hızlı Başlangıç Kılavuzu](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
+* [Windows Performans Analiz Aracı](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
+* [WPA Hızlı Başlangıç Kılavuzu](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
 

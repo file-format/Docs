@@ -59,5 +59,5 @@ ASAX ファイルはプレーン テキスト ファイル形式で記述され�
 ## 参考文献
 
 * [HTTP ハンドラーと HTTP モジュールの概要](https://msdn.microsoft.com/en-us/library/bb398986(v=vs.100))
-* [Global.asax 構文](https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
+* [Global.asax 構文](https://learn.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
 

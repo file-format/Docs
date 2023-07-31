@@ -27,5 +27,5 @@ AP-bestanden worden gehost op de webserver met behulp van ondersteunende softwar
 ## Referenties
 
 * [ASP - Door W3C](https://www.w3schools.com/asp/default.asp)
-* [Eenvoudige ASP-pagina's maken](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Eenvoudige ASP-pagina's maken](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

@@ -24,7 +24,7 @@ VHDX 파일은 Hyper-V Manager를 사용하여 [VHD](/ko/disc-and-media/vhd/)로
 
 ## VHDX 파일 형식 - 추가 정보
 
-VHDX 파일 형식 세부 정보는 완전히 문서화되어 있으며 [VHDX 파일 형식 사양](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)으로 온라인에서 사용할 수 있습니다. ) Microsoft 설명서에 있습니다. VHD 형식의 확장이며 향상된 기능을 포함합니다. VHDX 파일 형식은 가상 하드 디스크 및 가상 하드 디스크 파일 계층에서 사용할 수 있는 추가 기능을 제공합니다. 스토리지 하드웨어 구성 및 기능에 대해 더 최적화되고 더 나은 결과를 제공합니다. VHDX 파일을 열 수 있습니다.
+VHDX 파일 형식 세부 정보는 완전히 문서화되어 있으며 [VHDX 파일 형식 사양](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)으로 온라인에서 사용할 수 있습니다. ) Microsoft 설명서에 있습니다. VHD 형식의 확장이며 향상된 기능을 포함합니다. VHDX 파일 형식은 가상 하드 디스크 및 가상 하드 디스크 파일 계층에서 사용할 수 있는 추가 기능을 제공합니다. 스토리지 하드웨어 구성 및 기능에 대해 더 최적화되고 더 나은 결과를 제공합니다. VHDX 파일을 열 수 있습니다.
 
 ### VHDX에서 가상 하드 디스크 지원
 
@@ -38,6 +38,6 @@ VHDX 파일 형식 세부 정보는 완전히 문서화되어 있으며 [VHDX �
 
 ## 참고문헌
 
-* [VHDX 파일 형식 사양](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
+* [VHDX 파일 형식 사양](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
 * [VHD - 위키피디아 제공](https://en.wikipedia.org/wiki/VHD_(file_format))
 

@@ -45,5 +45,5 @@ Visual Studio cho phép chuyển đổi/xuất sơ đồ lớp sang hình ảnh 
 
 ## Người giới thiệu
 
-* [Lớp thiết kế trong Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
+* [Lớp thiết kế trong Visual Studio](https://learn.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
 

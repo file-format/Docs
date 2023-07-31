@@ -90,5 +90,5 @@ Setiap tabel dalam file font harus memiliki entri direktori tabelnya sendiri. En
 
 ## Referensi
 * [Manual Referensi Font TrueType](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [Ringkasan TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Ringkasan TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

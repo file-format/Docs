@@ -53,6 +53,6 @@ Transport Neutral Encapsulation Format (TNEF) הוא מוצר קנייני של 
 ## הפניות
 
 * [Transport Neutral Encapsulation Format](https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
-* [כתובות אימייל ופנקסי כתובות ב-Exchange Server](https://docs.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
+* [כתובות אימייל ופנקסי כתובות ב-Exchange Server](https://learn.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
 * [[MS-OXTNEF]: אלגוריתם נתונים של תחבורה ניטרלי אנקפסולציה (TNEF)](https://msdn.microsoft.com/en-us/library/cc425498(v#exchg.80).aspx)
 

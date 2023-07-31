@@ -38,5 +38,5 @@ VSSM 文件格式是在基于 OpenOffice XML 规范的 Microsoft Visio 2013 中�
 
 ## 参考 ＃＃
 
-* [Visio 文件格式简介](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Visio 文件格式简介](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

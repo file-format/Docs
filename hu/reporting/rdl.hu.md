@@ -61,5 +61,5 @@ Az RDL-ben a DataType Enumeration határozza meg egy attribútum, kifejezés vag
 ## Hivatkozások ##
 
 - [A jelentés definíciójának nyelve (Wikipedia)](https://en.wikipedia.org/wiki/Report_Definition_Language)
-- [Jelentésdefiníciós nyelv (SSRS)](https://docs.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
+- [Jelentésdefiníciós nyelv (SSRS)](https://learn.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
 

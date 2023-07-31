@@ -52,5 +52,5 @@ Bir Visio dosyasının ilişki bölümleri "_rels" klasöründe saklanır ve pak
 
 ## Referanslar ##
 
-* [Visio Dosya Biçimine Giriş](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Visio Dosya Biçimine Giriş](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

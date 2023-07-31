@@ -27,5 +27,5 @@
 
 ## อ้างอิง
 
-* [ช่องโหว่ในการออกแบบนิพจน์อาจอนุญาตให้มีการเรียกใช้โค้ดจากระยะไกล (2651018)](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
+* [ช่องโหว่ในการออกแบบนิพจน์อาจอนุญาตให้มีการเรียกใช้โค้ดจากระยะไกล (2651018)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
 

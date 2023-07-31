@@ -27,5 +27,5 @@ El archivo ASR contiene una secuencia de comandos que se desarrolla en un lengua
 ## Referencias
 
 * [Adobe Contribute - Por Wikipedia](https://en.wikipedia.org/wiki/Adobe_Contribute)
-* [Creación de páginas ASP simples](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Creación de páginas ASP simples](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

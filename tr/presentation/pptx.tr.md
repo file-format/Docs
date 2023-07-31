@@ -90,6 +90,6 @@ ve aşağıdaki xml dosyaları:
 
 ## Referanslar ##
 
-* [[MS-PPTX] - PPTX Dosya Biçimi](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
+* [[MS-PPTX] - PPTX Dosya Biçimi](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
 

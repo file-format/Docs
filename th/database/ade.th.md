@@ -29,6 +29,6 @@ ADE จะรวบรวมไฟล์ฐานข้อมูล Access ท�
 
 ## อ้างอิง
 
-* [ปัญหาเกี่ยวกับไฟล์ Access ADE](https://docs.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
+* [ปัญหาเกี่ยวกับไฟล์ Access ADE](https://learn.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
 * [รูปแบบไฟล์ Access ใดที่จะใช้](https://support.microsoft.com/en-us/office/ which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

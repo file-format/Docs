@@ -52,5 +52,5 @@
 
 ## הפניות ##
 
-* [מבוא לפורמט קובץ Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [מבוא לפורמט קובץ Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

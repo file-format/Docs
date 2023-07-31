@@ -53,6 +53,6 @@ Transport Neutral Encapsulation Format (TNEF) — это собственный 
 ## использованная литература
 
 * [Формат нейтральной инкапсуляции транспорта](https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
-* [Адреса электронной почты и адресные книги в Exchange Server](https://docs.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
+* [Адреса электронной почты и адресные книги в Exchange Server](https://learn.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
 * [[MS-OXTNEF]: алгоритм данных транспортного нейтрального формата инкапсуляции (TNEF)](https://msdn.microsoft.com/en-us/library/cc425498(v#exchg.80).aspx)
 

@@ -24,7 +24,7 @@ CSPROJ uzantılı dosyalar, sistem derlemelerine yapılan başvurularla birlikte
 
 Geliştiriciler [MSBuild XML Şemasını](https://msdn.microsoft.com/library/5dy88c2e.aspx) dikkate alarak proje dosyalarını kendileri oluşturabilirler. Proje dosyalarının açık ve şeffaf yapısı, uygulama geliştiricilerin projelerin nasıl oluşturulduğu ve konuşlandırıldığı üzerinde gelişmiş ve ince ayarlı kontroller uygulamalarını sağlar. Böyle bir proje dosyasının içerikleri arasında çok net bir ilişki vardır. Aşağıdaki şekil, böyle bir proje dosyası için temel öğeleri ve bunlar arasındaki ilişkiyi göstermektedir.
 
-![](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
+![](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
 
 Aşağıdaki bölümler, bir proje dosyası için dosya formatı öğelerini detaylandırır.
 
@@ -94,5 +94,5 @@ Görevler her zaman [Target](https://msdn.microsoft.com/library/t50z2hka.aspx) �
 
 ## Referanslar
 
-* [Proje Dosyasını Anlama - MSDN](https://docs.Microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- dosya)
+* [Proje Dosyasını Anlama - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- dosya)
 

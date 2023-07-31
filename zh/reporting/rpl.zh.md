@@ -307,5 +307,5 @@ RPL 流必须只有一个报告记录，并且流必须是一系列保持报告�
 
 ## 参考 ＃＃
 
-- [报告页面布局 (RPL) 二进制流格式](https://docs.microsoft.com/en-us/openspecs/sql_server_protocols/ms-rpl/9c4ff7ba-f6da-4092-9670-aa0e54e73887)
+- [报告页面布局 (RPL) 二进制流格式](https://learn.microsoft.com/en-us/openspecs/sql_server_protocols/ms-rpl/9c4ff7ba-f6da-4092-9670-aa0e54e73887)
 

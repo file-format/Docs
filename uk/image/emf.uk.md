@@ -95,6 +95,6 @@ HDC CreateEnhMetaFileExample(
 
 ## Посилання ##
 
-* [Метафайли розширеного формату | Microsoft Docs](https://docs.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
+* [Метафайли розширеного формату | Microsoft Docs](https://learn.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
 * [Покращений формат і специфікація метафайлу](https://msdn.microsoft.com/en-us/library/cc230514.aspx)
 

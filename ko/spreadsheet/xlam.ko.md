@@ -30,5 +30,5 @@ End Function
 
 ## 참조 ##
 
-- [파일 형식 참조 - ](https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
+- [파일 형식 참조 - ](https://learn.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
 

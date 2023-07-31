@@ -53,6 +53,6 @@ Zusätzlich zur einfachen Nachrichtenübertragung sollte die ursprüngliche Anwe
 ## Verweise
 
 * [Transportneutrales Kapselungsformat](https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
-* [E-Mail-Adressen und Adressbücher in Exchange Server](https://docs.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# Exchangeserver-2019)
+* [E-Mail-Adressen und Adressbücher in Exchange Server](https://learn.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# Exchangeserver-2019)
 * [[MS-OXTNEF]: TNEF-Datenalgorithmus (Transport Neutral Encapsulation Format)](https://msdn.microsoft.com/en-us/library/cc425498(v#exchg.80).aspx)
 

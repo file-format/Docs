@@ -23,7 +23,7 @@ O formato de arquivo CFF2 é a versão 2.0 do formato de arquivo CFF e permite o
 
 ## Formato de arquivo CFF2
 
-As [especificações de formato de arquivo CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2) contém detalhes sobre layout de dados internos, tipos de dados, tabelas e outras informações internas sobre o formato de arquivo. Ele pode ser referido para referência do desenvolvedor. Alguns dos detalhes sobre estes são os seguintes.
+As [especificações de formato de arquivo CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2) contém detalhes sobre layout de dados internos, tipos de dados, tabelas e outras informações internas sobre o formato de arquivo. Ele pode ser referido para referência do desenvolvedor. Alguns dos detalhes sobre estes são os seguintes.
 
 ### Layout de dados
 
@@ -81,5 +81,5 @@ Os dados binários começam com um cabeçalho com o formato mostrado na Tabela a
 
 ## Referências
 
-* [Formato de arquivo CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2)
+* [Formato de arquivo CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2)
 

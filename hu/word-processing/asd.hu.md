@@ -31,5 +31,5 @@ Az eredeti fájlokhoz képest létrehozott ASD-fájlok továbbra is elérhetők 
 
 ## Hivatkozások
 
-* [A Microsoft Word dokumentum visszaállítása](https://docs.microsoft.com/en-us/office/troubleshoot/word/recover-lost-usaved-corrupted-document)
+* [A Microsoft Word dokumentum visszaállítása](https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-usaved-corrupted-document)
 

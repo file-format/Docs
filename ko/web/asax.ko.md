@@ -59,5 +59,5 @@ ASAX 파일은 일반 텍스트 파일 형식으로 작성되며 사람이 읽�
 ## 참고문헌
 
 * [HTTP 핸들러 및 HTTP 모듈 개요](https://msdn.microsoft.com/en-us/library/bb398986(v=vs.100))
-* [Global.asax 구문](https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
+* [Global.asax 구문](https://learn.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
 

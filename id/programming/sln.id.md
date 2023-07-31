@@ -86,6 +86,6 @@ Berdasarkan informasi yang terdapat di bagian proyek dari file .sln, lingkungan 
 
 ### **Referensi** ###
 
-* [File Solusi - Oleh MSDN](https://docs.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
+* [File Solusi - Oleh MSDN](https://learn.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
 * [GUID Jenis Proyek](https://www.codeproject.com/Reference/720512/List-of-Visual-Studio-Project-Type-GUIDs)
 

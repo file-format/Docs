@@ -27,7 +27,7 @@ Format file XLSX diperkenalkan pada tahun 2007 dan menggunakan standar Open XML 
 
 ## Spesifikasi Format File XLSX
 
-[Spesifikasi format file XLSX resmi](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) tersedia online dari Microsoft. Untuk melihat apa yang ada di dalam file XLSX, cukup ganti namanya menjadi file [ZIP](/id/compression/zip/) dengan mengubah ekstensinya lalu ekstrak untuk melihat file konstituen buku kerja Excel ini. Buku kerja kosong, saat diekstrak ke filenya, memiliki file dan folder konstituen berikut.
+[Spesifikasi format file XLSX resmi](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) tersedia online dari Microsoft. Untuk melihat apa yang ada di dalam file XLSX, cukup ganti namanya menjadi file [ZIP](/id/compression/zip/) dengan mengubah ekstensinya lalu ekstrak untuk melihat file konstituen buku kerja Excel ini. Buku kerja kosong, saat diekstrak ke filenya, memiliki file dan folder konstituen berikut.
 
 ### [Content_Types].xml ###
 
@@ -77,6 +77,6 @@ Harus berbagi sesuatu tentang format file XLSX atau Spreadsheet? Anda dapat memp
 
 ## Referensi
 
-* [[MS-XLSX] - Format File XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [[MS-XLSX] - Format File XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 * [Buka Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

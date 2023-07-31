@@ -56,7 +56,7 @@ RES ファイル形式は、Microsoft Resource Compiler (rc) に属します。�
 
 ## 参考文献
 
-* [リソース ファイルの形式](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
+* [リソース ファイルの形式](https://learn.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
 
 

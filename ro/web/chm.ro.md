@@ -54,6 +54,6 @@ Ajutorul HTML este alcătuit din mai multe componente. Acestea includ următoare
 
 ## Referințe
 
-* [Microsoft HTML Help](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [Microsoft HTML Help](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 * [Ajutor HTML compilat Microsoft](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 

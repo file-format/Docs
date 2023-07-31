@@ -27,5 +27,5 @@ File ASR berisi skrip yang dikembangkan dalam bahasa skrip standar. Itu dapat di
 ## Referensi
 
 * [Adobe Contribute - Oleh Wikipedia](https://en.wikipedia.org/wiki/Adobe_Contribute)
-* [Membuat Halaman ASP Sederhana](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Membuat Halaman ASP Sederhana](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

@@ -19,7 +19,7 @@
 
 ## Vad är en PDB fil?
 
-En fil med filtillägget .pdb är en programdatabasfil som innehåller felsökningsinformation för en kompilerad körbar fil (EXE/DLL). PDB-filer genereras av Microsofts kompilatorer när ett applikationsprogram kompileras i felsökningsläge. Förekomsten av PDB-fil kan hjälpa till med omvänd konstruktion av en körbar fil eftersom den innehåller betydande information om alla symboler i modulerna. Det är av denna anledning som dessa filer hålls åtskilda från den slutliga körbara filen. Microsofts [DgbHelp API](https://docs.microsoft.com/en-us/windows/win32/debug/dbghelp-functions) kan öppna en PDB-fil för att erhålla information som publik och export, globala symboler, lokala symboler, typdata, källfiler och radnummer.
+En fil med filtillägget .pdb är en programdatabasfil som innehåller felsökningsinformation för en kompilerad körbar fil (EXE/DLL). PDB-filer genereras av Microsofts kompilatorer när ett applikationsprogram kompileras i felsökningsläge. Förekomsten av PDB-fil kan hjälpa till med omvänd konstruktion av en körbar fil eftersom den innehåller betydande information om alla symboler i modulerna. Det är av denna anledning som dessa filer hålls åtskilda från den slutliga körbara filen. Microsofts [DgbHelp API](https://learn.microsoft.com/en-us/windows/win32/debug/dbghelp-functions) kan öppna en PDB-fil för att erhålla information som publik och export, globala symboler, lokala symboler, typdata, källfiler och radnummer.
 
 ## PDB filformat
 

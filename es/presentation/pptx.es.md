@@ -27,7 +27,7 @@ El formato de archivo PPTX se introdujo en 2007 y utiliza el estándar Open XML 
 
 ## Especificaciones del formato de archivo PPTX
 
-Los archivos generados con el formato de archivo Office Open XML son una colección de archivos XML junto con otros archivos que proporcionan vínculos entre todos los archivos constituyentes. Esta colección es en realidad un archivo comprimido que se puede extraer para ver su contenido. Para hacerlo, simplemente cambie el nombre de la extensión de archivo PPTX con zip y extráigalo para observar su contenido (consulte [Especificaciones de formato de archivo PPTX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/ efd8bb2d-d888-4e2e-af25-cad476730c9f) de Microsoft).
+Los archivos generados con el formato de archivo Office Open XML son una colección de archivos XML junto con otros archivos que proporcionan vínculos entre todos los archivos constituyentes. Esta colección es en realidad un archivo comprimido que se puede extraer para ver su contenido. Para hacerlo, simplemente cambie el nombre de la extensión de archivo PPTX con zip y extráigalo para observar su contenido (consulte [Especificaciones de formato de archivo PPTX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/ efd8bb2d-d888-4e2e-af25-cad476730c9f) de Microsoft).
 
 Las siguientes secciones arrojan algo de luz sobre cada uno de estos.
 
@@ -90,6 +90,6 @@ y siguientes archivos xml:
 
 ## Referencias ##
 
-* [[MS-PPTX] - Formato de archivo PPTX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
+* [[MS-PPTX] - Formato de archivo PPTX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
 

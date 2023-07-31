@@ -27,5 +27,5 @@
 
 ## Список літератури
 
-* [Уразливість у Expression Design може дозволити віддалене виконання коду (2651018)](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
+* [Уразливість у Expression Design може дозволити віддалене виконання коду (2651018)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
 

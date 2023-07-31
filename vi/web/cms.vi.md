@@ -29,6 +29,6 @@ Các tệp CMS được lưu ở định dạng web và chúng bao gồm một s
 
 ## Người giới thiệu
 
-* [Trợ giúp HTML của Microsoft](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [Trợ giúp HTML của Microsoft](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 * [Trợ giúp HTML do Microsoft biên dịch](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 

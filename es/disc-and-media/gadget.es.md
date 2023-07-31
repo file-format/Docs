@@ -38,6 +38,6 @@ Dado que la plataforma Windows Sidebar en Windows 7 tiene vulnerabilidades grave
 
 ## Referencias
 
-* [Barra lateral de Windows: de Microsoft](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
-* [Desarrollo de un gadget para Windows Sidebar Parte 1](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
+* [Barra lateral de Windows: de Microsoft](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
+* [Desarrollo de un gadget para Windows Sidebar Parte 1](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
 

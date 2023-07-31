@@ -35,6 +35,6 @@ MSIX 包由以下文件组成。
 
 ## 参考
 
-* [MSIX 概述](https://docs.microsoft.com/en-us/windows/msix/overview)
-* [使用 Microsoft Visual Studio 创建 APPX 文件](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [MSIX 概述](https://learn.microsoft.com/en-us/windows/msix/overview)
+* [使用 Microsoft Visual Studio 创建 APPX 文件](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

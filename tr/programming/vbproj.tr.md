@@ -23,7 +23,7 @@
 
 ## VBPROJ Dosya Biçimi - Daha Fazla Bilgi
 
-VBPROJ dosyaları, [MSBuild XML Şeması](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-) temelinde [XML](/tr/web/xml/) dosya biçiminde yazılmış metin dosyalarıdır. proje-dosya-şema referansı?view=vs-2019). Bir VBPROJ dosyası, belirli bir ayar grubuyla ilgili bilgileri tanımlayan XML etiketleri biçiminde bilgiler içerir. Bu ayar dosyalarının Microsoft Visual Studio IDE'de açılması ve düzenlenmesi önemle tavsiye edilir.
+VBPROJ dosyaları, [MSBuild XML Şeması](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-) temelinde [XML](/tr/web/xml/) dosya biçiminde yazılmış metin dosyalarıdır. proje-dosya-şema referansı?view=vs-2019). Bir VBPROJ dosyası, belirli bir ayar grubuyla ilgili bilgileri tanımlayan XML etiketleri biçiminde bilgiler içerir. Bu ayar dosyalarının Microsoft Visual Studio IDE'de açılması ve düzenlenmesi önemle tavsiye edilir.
 
 ### VBPROJ Öğeleri
 
@@ -42,6 +42,6 @@ Aşağıdaki tabloda bu öğelerin kısa bir açıklaması verilmektedir.
 
 ## Referanslar
 
-* [Proje Dosyasını Anlama](https://docs.Microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
-* [MSBuild Şema Öğeleri](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
+* [Proje Dosyasını Anlama](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
+* [MSBuild Şema Öğeleri](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
 

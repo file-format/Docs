@@ -90,5 +90,5 @@ Ciascuna tabella in un file di font deve avere la propria voce di directory dell
 
 ## Riferimenti
 * [Manuale di riferimento dei caratteri TrueType](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [Panoramica TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Panoramica TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

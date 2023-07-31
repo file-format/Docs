@@ -27,7 +27,7 @@
 
 ## מפרטי פורמט קובץ XLSX
 
-[מפרט פורמט הקובץ של XLSX] הרשמיים (https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) זמינים באופן מקוון מ-Microsoft. כדי לראות מה יש בתוך קובץ XLSX, פשוט שנה את שמו לקובץ [ZIP](/he/compression/zip/) על ידי שינוי הסיומת שלו ולאחר מכן חלץ אותו כדי להציג את הקבצים המרכיבים את חוברת העבודה הזו של Excel. חוברת עבודה ריקה, כאשר היא חולצת לקבצים שלה, כוללת את הקבצים והתיקיות המרכיבים הבאים.
+[מפרט פורמט הקובץ של XLSX] הרשמיים (https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) זמינים באופן מקוון מ-Microsoft. כדי לראות מה יש בתוך קובץ XLSX, פשוט שנה את שמו לקובץ [ZIP](/he/compression/zip/) על ידי שינוי הסיומת שלו ולאחר מכן חלץ אותו כדי להציג את הקבצים המרכיבים את חוברת העבודה הזו של Excel. חוברת עבודה ריקה, כאשר היא חולצת לקבצים שלה, כוללת את הקבצים והתיקיות המרכיבים הבאים.
 
 ### [Content_Types].xml ###
 
@@ -77,6 +77,6 @@
 
 ## הפניות
 
-* [[MS-XLSX] - פורמט קובץ XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [[MS-XLSX] - פורמט קובץ XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

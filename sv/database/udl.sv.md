@@ -47,5 +47,5 @@ Följande egenskaper kan ställas in i en UDL för att säkerställa korrekt ans
 ## Referenser ##
 
 * [Microsoft Data Access Components](https://en.wikipedia.org/wiki/Microsoft_Data_Access_Components#Universal_data_link)
-* [Universal Data Link (UDL)-konfiguration](https://docs.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
+* [Universal Data Link (UDL)-konfiguration](https://learn.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
 

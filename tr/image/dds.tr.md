@@ -26,7 +26,7 @@ DDS dosyaları ikili dosyalar olarak kaydedilir ve DirectX SDK ile kullanılabil
 
 ### DDS Dosya Düzeni
 
-[DDS dosya düzeni](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) Microsoft tarafından ayrıntılı olarak belgelenmiştir. Bir ikili DDS dosyası aşağıdaki bilgileri içerir.
+[DDS dosya düzeni](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) Microsoft tarafından ayrıntılı olarak belgelenmiştir. Bir ikili DDS dosyası aşağıdaki bilgileri içerir.
 
 * Dört karakterli kod değeri 'DDS' (0x20534444) içeren bir DWORD (sihirli sayı).
 * Dosyadaki verilerin açıklaması.
@@ -38,7 +38,7 @@ DWORD               dwMagic;
 DDS_HEADER          header;
 ```
 
-[DDS dosya biçiminin programlama kılavuzu](https://docs.Microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) bu dosya biçiminin teknik ayrıntılarını daha ayrıntılı olarak açıklar.
+[DDS dosya biçiminin programlama kılavuzu](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) bu dosya biçiminin teknik ayrıntılarını daha ayrıntılı olarak açıklar.
 
 ## Referanslar
 

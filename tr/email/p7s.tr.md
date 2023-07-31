@@ -34,5 +34,5 @@ Bu bilgiler, şifrelenmiş imzaları e-postaya dijital olarak eklemek için Aç�
 
 ## Referanslar ##
 
-* [Microsoft Sign Aracı](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
+* [Microsoft Sign Aracı](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
 

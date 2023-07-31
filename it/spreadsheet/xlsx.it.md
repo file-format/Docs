@@ -27,7 +27,7 @@ Il formato di file XLSX è stato introdotto nel 2007 e utilizza lo standard Open
 
 ## Specifiche del formato file XLSX
 
-Le [specifiche del formato file XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) sono disponibili online da Microsoft. Per vedere cosa c'è all'interno del file XLSX, rinominalo in file [ZIP](/it/compression/zip/) modificandone l'estensione, quindi estrailo per visualizzare i file costitutivi di questa cartella di lavoro di Excel. Una cartella di lavoro vuota, quando estratta nei suoi file, ha i seguenti file e cartelle costitutivi.
+Le [specifiche del formato file XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) sono disponibili online da Microsoft. Per vedere cosa c'è all'interno del file XLSX, rinominalo in file [ZIP](/it/compression/zip/) modificandone l'estensione, quindi estrailo per visualizzare i file costitutivi di questa cartella di lavoro di Excel. Una cartella di lavoro vuota, quando estratta nei suoi file, ha i seguenti file e cartelle costitutivi.
 
 ### [Tipi_di_contenuto].xml ###
 
@@ -77,6 +77,6 @@ Devi condividere qualcosa sui formati di file XLSX o Spreadsheet? Puoi pubblicar
 
 ## Riferimenti
 
-* [[MS-XLSX] - Formato file XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [[MS-XLSX] - Formato file XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

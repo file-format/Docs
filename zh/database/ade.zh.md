@@ -29,6 +29,6 @@ ADE 文件可能会根据用于创建这些文件的 Microsoft Access 版本在�
 
 ## 参考
 
-* [访问 ADE 文件的问题](https://docs.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
+* [访问 ADE 文件的问题](https://learn.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
 * [使用哪种访问文件格式](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

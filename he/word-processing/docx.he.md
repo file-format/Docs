@@ -23,7 +23,7 @@ DOCX הוא פורמט ידוע עבור מסמכי Microsoft Word. הוצג מ�
 
 ## היסטוריה קצרה ##
 
-לאחר שמיקרוסופט פתחה את המפרטים של פורמט הקובץ DOC, קל היה למתחרותיה לבצע הנדסה לאחור של הפורמט ולספק את אותה תמיכה ביישומים שלהם. בנוסף, התחרות של Open Office בצורת Open Document Format שלה, אילצה את מיקרוסופט לאמץ סטנדרטים פתוחים ורחבים יותר. זה היה בתחילת שנת 2000 כאשר מיקרוסופט החליטה ללכת על השינוי כדי להתאים את התקן עבור **Office Open XML**. מסמכים לפי תקן חדש זה קיבלו [.docx סיומת](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), ה-"X" להיות עבור XML. עד 2007, פורמט הקובץ החדש הזה הפך לחלק מ-Office 2007 והוא ממשיך גם בגרסאות החדשות של Microsoft Office. סוג הקובץ החדש הוסיף יתרונות של גדלי קבצים קטנים, פחות שינויים של שחיתות וייצוג תמונות מעוצבות היטב.
+לאחר שמיקרוסופט פתחה את המפרטים של פורמט הקובץ DOC, קל היה למתחרותיה לבצע הנדסה לאחור של הפורמט ולספק את אותה תמיכה ביישומים שלהם. בנוסף, התחרות של Open Office בצורת Open Document Format שלה, אילצה את מיקרוסופט לאמץ סטנדרטים פתוחים ורחבים יותר. זה היה בתחילת שנת 2000 כאשר מיקרוסופט החליטה ללכת על השינוי כדי להתאים את התקן עבור **Office Open XML**. מסמכים לפי תקן חדש זה קיבלו [.docx סיומת](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), ה-"X" להיות עבור XML. עד 2007, פורמט הקובץ החדש הזה הפך לחלק מ-Office 2007 והוא ממשיך גם בגרסאות החדשות של Microsoft Office. סוג הקובץ החדש הוסיף יתרונות של גדלי קבצים קטנים, פחות שינויים של שחיתות וייצוג תמונות מעוצבות היטב.
 
 ## מפרטי פורמט קובץ DOCX - מידע נוסף
 
@@ -105,6 +105,6 @@ Microsoft Word משתמש בקבצים אלה כדי למצוא את הקשר ב
 
 ## הפניות ##
 
-* [MS - פורמט קובץ DOCX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
+* [MS - פורמט קובץ DOCX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
 * [Office Open XML](http://officeopenxml.com/)
 

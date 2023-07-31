@@ -27,7 +27,7 @@ El formato de archivo XLSX se introdujo en 2007 y utiliza el estándar Open XML 
 
 ## Especificaciones del formato de archivo XLSX
 
-Las [especificaciones oficiales del formato de archivo XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) están disponibles en línea en Microsoft. Para ver lo que hay dentro del archivo XLSX, simplemente cámbiele el nombre a archivo [ZIP](/es/compression/zip/) cambiando su extensión y luego extráigalo para ver los archivos constituyentes de este libro de Excel. Un libro de trabajo en blanco, cuando se extrae a sus archivos, tiene los siguientes archivos y carpetas constituyentes.
+Las [especificaciones oficiales del formato de archivo XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) están disponibles en línea en Microsoft. Para ver lo que hay dentro del archivo XLSX, simplemente cámbiele el nombre a archivo [ZIP](/es/compression/zip/) cambiando su extensión y luego extráigalo para ver los archivos constituyentes de este libro de Excel. Un libro de trabajo en blanco, cuando se extrae a sus archivos, tiene los siguientes archivos y carpetas constituyentes.
 
 ### [Tipos_de_contenido].xml ###
 
@@ -77,6 +77,6 @@ Como se puede ver, esta hoja de trabajo contiene contenido en las celdas A1 a B2
 
 ## Referencias
 
-* [[MS-XLSX] - Formato de archivo XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [[MS-XLSX] - Formato de archivo XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

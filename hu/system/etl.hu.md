@@ -27,10 +27,10 @@ Az ETL fájlokat a rendszer tömörített bináris formátumban menti lemezre a 
 
 ## Nyissa meg az ETL fájlokat a Windows Performance Analyzer segítségével
 
-Az ETL fájlok adatai táblázatos és grafikus formátumban is olvashatók és megjeleníthetők a Microsoft Windows Performance Analyzer (WPA) alkalmazás segítségével. Az [ETL-fájlok megnyitása és elemzése](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) útmutató a munkavégzésről nyújt tájékoztatást. ETL fájlokkal.
+Az ETL fájlok adatai táblázatos és grafikus formátumban is olvashatók és megjeleníthetők a Microsoft Windows Performance Analyzer (WPA) alkalmazás segítségével. Az [ETL-fájlok megnyitása és elemzése](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) útmutató a munkavégzésről nyújt tájékoztatást. ETL fájlokkal.
 
 ## Hivatkozások
 
-* [Windows Performance Analyzer](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
-* [WPA rövid útmutató](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
+* [Windows Performance Analyzer](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
+* [WPA rövid útmutató](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
 

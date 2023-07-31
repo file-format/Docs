@@ -27,10 +27,10 @@
 
 ## פתח קבצי ETL באמצעות מנתח הביצועים של Windows
 
-ניתן לקרוא את נתוני קובצי ה-ETL ולהמחיש אותם בפורמט טבלאי כמו גם בפורמט גרפי באמצעות היישום Microsoft Windows Performance Analyzer (WPA). המדריך [פתיחה וניתוח של קובצי ETL](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) מספק מידע על עבודה עם קבצי ETL.
+ניתן לקרוא את נתוני קובצי ה-ETL ולהמחיש אותם בפורמט טבלאי כמו גם בפורמט גרפי באמצעות היישום Microsoft Windows Performance Analyzer (WPA). המדריך [פתיחה וניתוח של קובצי ETL](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) מספק מידע על עבודה עם קבצי ETL.
 
 ## הפניות
 
-* [מנתח ביצועי Windows](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
-* [מדריך התחלה מהירה של WPA](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
+* [מנתח ביצועי Windows](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
+* [מדריך התחלה מהירה של WPA](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
 

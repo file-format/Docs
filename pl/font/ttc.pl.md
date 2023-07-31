@@ -55,6 +55,6 @@ Oto tabele nagłówków TTC obu wersji:
 |uint32| dsigOffset |Przesunięcie (w bajtach) tabeli DSIG od początku pliku TTC (puste, jeśli brak podpisu)|
 
 ## Bibliografia
-* [Plik czcionek OpenType](https://docs.microsoft.com/en-us/typography/opentype/spec/otff)
+* [Plik czcionek OpenType](https://learn.microsoft.com/en-us/typography/opentype/spec/otff)
 * [TrueType (Wikipedia)](https://en.wikipedia.org/wiki/TrueType)
 

@@ -27,6 +27,6 @@ Soubory NUPKG jsou archivy [ZIP](/cs/compression/zip/), které obsahují zabalen
 ## Odkaz
 
 * [Nuget.org](https://nuget.org)
-* [Rychlý start: Nainstalujte a použijte balíček ve Visual Studiu (pouze Windows)](https://docs.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual- studio)
-* [Jak vytvořit a publikovat balíček Nuget](https://docs.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore- cli)
+* [Rychlý start: Nainstalujte a použijte balíček ve Visual Studiu (pouze Windows)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual- studio)
+* [Jak vytvořit a publikovat balíček Nuget](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore- cli)
 

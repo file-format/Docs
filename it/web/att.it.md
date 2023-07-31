@@ -24,5 +24,5 @@ Le applicazioni che possono **aprire file ATT** includono editor di testo come M
 
 ## Riferimenti
 
-* [Moduli Web - Microsoft](https://docs.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
+* [Moduli Web - Microsoft](https://learn.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
 

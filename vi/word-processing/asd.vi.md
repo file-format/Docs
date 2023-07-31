@@ -31,5 +31,5 @@ Các tệp ASD được tạo dựa trên các tệp gốc vẫn có sẵn cùng
 
 ## Người giới thiệu
 
-* [Khôi phục tài liệu Microsoft Word](https://docs.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
+* [Khôi phục tài liệu Microsoft Word](https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
 

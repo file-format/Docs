@@ -30,5 +30,5 @@ End Function
 
 ## הפניות ##
 
-- [הפניה לפורמט קובץ - ](https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
+- [הפניה לפורמט קובץ - ](https://learn.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
 

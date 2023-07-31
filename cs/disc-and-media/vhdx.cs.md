@@ -24,7 +24,7 @@ Soubor VHDX lze převést na [VHD](/cs/disc-and-media/vhd/) pomocí Hyper-V Mana
 
 ## Formát souboru VHDX – Další informace
 
-Podrobnosti o formátu souboru VHDX jsou kompletně zdokumentovány a dostupné online jako [Specifikace formátu souboru VHDX](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477 ) v dokumentaci společnosti Microsoft. Jedná se o rozšíření formátu VHD a zahrnuje rozšířené možnosti. Formát souboru VHDX poskytuje další funkce, které jsou dostupné ve vrstvách souborů virtuálního pevného disku a virtuálního pevného disku. Je více optimalizovaný a poskytuje lepší výsledky pro konfiguraci hardwaru úložiště a možnosti. Soubory VHDX lze otevřít
+Podrobnosti o formátu souboru VHDX jsou kompletně zdokumentovány a dostupné online jako [Specifikace formátu souboru VHDX](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477 ) v dokumentaci společnosti Microsoft. Jedná se o rozšíření formátu VHD a zahrnuje rozšířené možnosti. Formát souboru VHDX poskytuje další funkce, které jsou dostupné ve vrstvách souborů virtuálního pevného disku a virtuálního pevného disku. Je více optimalizovaný a poskytuje lepší výsledky pro konfiguraci hardwaru úložiště a možnosti. Soubory VHDX lze otevřít
 
 ### Podpora virtuálních pevných disků ve VHDX
 
@@ -38,6 +38,6 @@ Podporuje tři typy virtuálních pevných disků.
 
 ## Reference
 
-* [Specifikace formátu souboru VHDX](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
+* [Specifikace formátu souboru VHDX](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
 * [VHD – z Wikipedie](https://en.wikipedia.org/wiki/VHD_(formát_souboru))
 

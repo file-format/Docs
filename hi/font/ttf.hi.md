@@ -90,5 +90,5 @@ Apple द्वारा Microsoft को ट्रू टाइप का ल�
 
 ## संदर्भ
 * [ट्रू टाइप फॉन्ट रेफरेंस मैनुअल](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [ट्रू टाइप ओवरव्यू](https://docs.microsoft.com/en-us/typography/truetype/)
+* [ट्रू टाइप ओवरव्यू](https://learn.microsoft.com/en-us/typography/truetype/)
 

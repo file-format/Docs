@@ -19,7 +19,7 @@
 
 ## Czym jest plik PDB?
 
-Plik z rozszerzeniem .pdb to plik bazy danych programu, który zawiera informacje debugowania dla skompilowanego pliku wykonywalnego (EXE/DLL). Pliki PDB są generowane przez Microsoft Compilers, gdy aplikacja jest kompilowana w trybie debugowania. Obecność pliku PDB może pomóc w inżynierii wstecznej pliku wykonywalnego, ponieważ zawiera istotne informacje o wszystkich symbolach modułów. Z tego powodu pliki te są przechowywane oddzielnie od ostatecznego pliku wykonywalnego. [DgbHelp API](https://docs.microsoft.com/en-us/windows/win32/debug/dbghelp-functions) firmy Microsoft może otworzyć plik PDB w celu uzyskania informacji, takich jak informacje publiczne i eksporty, symbole globalne, symbole lokalne, wpisz dane, pliki źródłowe i numery linii.
+Plik z rozszerzeniem .pdb to plik bazy danych programu, który zawiera informacje debugowania dla skompilowanego pliku wykonywalnego (EXE/DLL). Pliki PDB są generowane przez Microsoft Compilers, gdy aplikacja jest kompilowana w trybie debugowania. Obecność pliku PDB może pomóc w inżynierii wstecznej pliku wykonywalnego, ponieważ zawiera istotne informacje o wszystkich symbolach modułów. Z tego powodu pliki te są przechowywane oddzielnie od ostatecznego pliku wykonywalnego. [DgbHelp API](https://learn.microsoft.com/en-us/windows/win32/debug/dbghelp-functions) firmy Microsoft może otworzyć plik PDB w celu uzyskania informacji, takich jak informacje publiczne i eksporty, symbole globalne, symbole lokalne, wpisz dane, pliki źródłowe i numery linii.
 
 ## Format pliku PDB
 

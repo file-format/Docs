@@ -47,7 +47,7 @@ Obsah ukázkového souboru VCXPROJ je následující.
 ```
 ### Prvky souboru VCXPROJ
 
-Typický soubor VCXPROJ obsahuje řadu prvků, jak je vidět na příkladu XML výše. [Struktura VCXPROJ](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) od společnosti Microsoft podrobně vysvětluje každý prvek souboru a lze na ni odkazovat z pohledu vývojáře.
+Typický soubor VCXPROJ obsahuje řadu prvků, jak je vidět na příkladu XML výše. [Struktura VCXPROJ](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) od společnosti Microsoft podrobně vysvětluje každý prvek souboru a lze na ni odkazovat z pohledu vývojáře.
 
 #### Prvek projektu
 
@@ -72,6 +72,6 @@ Tato část obsahuje nastavení, která poskytují informace pro úroveň projek
 
 ## Reference
 
-* [Struktura VCXPROJ – MSDN](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
-* [C++ Project Files](https://docs.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
+* [Struktura VCXPROJ – MSDN](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
+* [C++ Project Files](https://learn.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
 

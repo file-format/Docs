@@ -40,6 +40,6 @@ Fișierul LDF constă din înregistrări ale tranzacțiilor SQL Server care sunt
 
 ## Referințe
 
-* [Fișiere și grupuri de fișiere baze de date](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [Ghid de arhitectură și management al jurnalului de tranzacții](https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql- server-ver15)
+* [Fișiere și grupuri de fișiere baze de date](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
+* [Ghid de arhitectură și management al jurnalului de tranzacții](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql- server-ver15)
 

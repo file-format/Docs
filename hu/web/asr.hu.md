@@ -27,5 +27,5 @@ Az ASR fájl szabványos szkriptnyelven kifejlesztett szkriptet tartalmaz. Megny
 ## Hivatkozások
 
 * [Adobe Contribute – a Wikipedia által](https://en.wikipedia.org/wiki/Adobe_Contribute)
-* [Egyszerű ASP-oldalak létrehozása](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Egyszerű ASP-oldalak létrehozása](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

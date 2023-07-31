@@ -26,7 +26,7 @@ Format pliku APS to tylko krok kompilacji i przechowuje tylko dane symboliczne. 
 
 ## Bibliografia
 
-* [Pliki zasobów (C++)](https://docs.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
+* [Pliki zasobów (C++)](https://learn.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
  
 
 

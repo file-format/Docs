@@ -86,6 +86,6 @@ Dựa trên thông tin có trong phần dự án của tệp .sln, môi trườn
 
 ### **Người giới thiệu** ###
 
-* [Tệp giải pháp - Bởi MSDN](https://docs.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
+* [Tệp giải pháp - Bởi MSDN](https://learn.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
 * [GUID loại dự án](https://www.codeproject.com/Reference/720512/List-of-Visual-Studio-Project-Type-GUIDs)
 

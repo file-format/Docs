@@ -35,6 +35,6 @@ MSIX फ़ाइलें [ZIP](/hi/compress/zip/)-संपीड़ित ह
 
 ## संदर्भ
 
-* [MSIX ओवरव्यू](https://docs.microsoft.com/en-us/windows/msix/overview)
-* [Microsoft Visual Studio का उपयोग करके APPX फ़ाइलें बनाएं](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [MSIX ओवरव्यू](https://learn.microsoft.com/en-us/windows/msix/overview)
+* [Microsoft Visual Studio का उपयोग करके APPX फ़ाइलें बनाएं](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

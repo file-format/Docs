@@ -82,6 +82,6 @@ Adobe ในปี 1996 เข้าร่วมกับ Microsoft ในคว
 แต่ละตารางในไฟล์ฟอนต์ OpenType จะแสดงด้วยชื่อที่เรียกว่าแท็กตาราง จำเป็นอย่างยิ่งที่ระเบียนทั้งหมดในอาร์เรย์จะต้องเรียงลำดับจากน้อยไปหามากตามแท็ก
 
 ## อ้างอิง
-* [ข้อกำหนดแบบอักษร OpenType โดย Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [ภาพรวม TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [ข้อกำหนดแบบอักษร OpenType โดย Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [ภาพรวม TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

@@ -23,7 +23,7 @@
 
 ## CFF ファイル形式
 
-CFF ファイルは、構造化されたデータ レイアウトを含むバイナリ ファイルであり、データ型、ヘッダー、グリフ構成、およびテーブル ディクショナリが定義されています。これらの詳細については、[コンパクト フォント形式の仕様](https://docs.microsoft.com/en-us/typography/opentype/spec/cff) を参照してください。
+CFF ファイルは、構造化されたデータ レイアウトを含むバイナリ ファイルであり、データ型、ヘッダー、グリフ構成、およびテーブル ディクショナリが定義されています。これらの詳細については、[コンパクト フォント形式の仕様](https://learn.microsoft.com/en-us/typography/opentype/spec/cff) を参照してください。
 
 ### データレイアウト
 CFFファイル形式のデータ配置は以下の通りです。
@@ -68,7 +68,7 @@ CFF のデータ型は次の表のとおりです。
 
 ## 参考文献
 
-* [コンパクト フォント フォーマット表](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+* [コンパクト フォント フォーマット表](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
 ※【CFFファイル形式】(https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
-* [CFF2 チャートセット](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+* [CFF2 チャートセット](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

@@ -86,6 +86,6 @@ Baserat på informationen i projektdelen av .sln-filen, laddar miljön varje pro
 
 ### **Referenser** ###
 
-* [Lösningsfil - av MSDN](https://docs.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
+* [Lösningsfil - av MSDN](https://learn.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
 * [Project Type GUIDs](https://www.codeproject.com/Reference/720512/List-of-Visual-Studio-Project-Type-GUIDs)
 

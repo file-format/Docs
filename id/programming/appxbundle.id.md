@@ -28,5 +28,5 @@ File APPXBUNDLE diterbitkan dalam format file ZIP. Jika Anda ingin melihat konte
 ## Referensi
 
 * [Paket ketergantungan untuk paket .appx dan .appxbundle](https://www.ibm.com/docs/en/maas360?topic=catalog-dependency-packages-appx-appxbundle-packages)
-* [Buat file APPX menggunakan Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Buat file APPX menggunakan Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

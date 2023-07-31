@@ -43,5 +43,5 @@ RDLC ย่อมาจากฝั่งไคลเอ็นต์ภาษา
 
 ## อ้างอิง ##
 
-- [การสร้างไฟล์ข้อกำหนดรายงานลูกค้า (.rdlc)](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
+- [การสร้างไฟล์ข้อกำหนดรายงานลูกค้า (.rdlc)](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
 

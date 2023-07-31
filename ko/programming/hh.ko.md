@@ -54,6 +54,6 @@
 
 ## 참고문헌
 
-* [헤더 파일러 - Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [헤더 파일러 - Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 * [.h 및 .hh 파일 형식의 차이점](https://stackoverflow.com/questions/10354321/c-reason-why-using-hh-as-extension-for-c-header-files)
 

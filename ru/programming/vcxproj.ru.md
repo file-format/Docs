@@ -47,7 +47,7 @@
 ```
 ### Элементы файла VCXPROJ
 
-Типичный файл VCXPROJ содержит ряд элементов, как показано в приведенном выше примере XML. [Структура VCXPROJ](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) Microsoft подробно объясняет каждый элемент файла и может быть указан с точки зрения разработчика.
+Типичный файл VCXPROJ содержит ряд элементов, как показано в приведенном выше примере XML. [Структура VCXPROJ](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) Microsoft подробно объясняет каждый элемент файла и может быть указан с точки зрения разработчика.
 
 #### Элемент проекта
 
@@ -72,6 +72,6 @@
 
 ## использованная литература
 
-* [Структура VCXPROJ — MSDN](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
-* [Файлы проекта C++](https://docs.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
+* [Структура VCXPROJ — MSDN](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
+* [Файлы проекта C++](https://learn.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
 

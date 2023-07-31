@@ -27,5 +27,5 @@
 
 ## مراجع
 
-* [أنواع حزم التطبيقات](https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
+* [أنواع حزم التطبيقات](https://learn.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
 

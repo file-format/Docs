@@ -45,5 +45,5 @@
 
 ## संदर्भ
 
-* [विजुअल स्टूडियो में डिज़ाइन क्लासेस](https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
+* [विजुअल स्टूडियो में डिज़ाइन क्लासेस](https://learn.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
 

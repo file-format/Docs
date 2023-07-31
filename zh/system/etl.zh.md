@@ -27,10 +27,10 @@ ETL 文件以压缩二进制格式保存到磁盘以减少磁盘空间。
 
 ## 使用 Windows 性能分析器打开 ETL 文件
 
-可以使用 Microsoft Windows 性能分析器 (WPA) 应用程序以表格和图形格式读取和可视化 ETL 文件数据。 [打开和分析 ETL 文件](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) 指南提供了有关工作的信息与 ETL 文件。
+可以使用 Microsoft Windows 性能分析器 (WPA) 应用程序以表格和图形格式读取和可视化 ETL 文件数据。 [打开和分析 ETL 文件](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) 指南提供了有关工作的信息与 ETL 文件。
 
 ## 参考
 
-* [Windows 性能分析器](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
-* [WPA 快速入门指南](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
+* [Windows 性能分析器](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
+* [WPA 快速入门指南](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
 

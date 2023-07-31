@@ -23,7 +23,7 @@
 
 ## Định dạng tệp CFF2
 
-[Thông số định dạng tệp CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2) chứa thông tin chi tiết về bố cục dữ liệu nội bộ, loại dữ liệu, bảng và thông tin nội bộ khác về định dạng tệp. Nó có thể được giới thiệu để tham khảo của nhà phát triển. Một số chi tiết về những điều này như sau.
+[Thông số định dạng tệp CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2) chứa thông tin chi tiết về bố cục dữ liệu nội bộ, loại dữ liệu, bảng và thông tin nội bộ khác về định dạng tệp. Nó có thể được giới thiệu để tham khảo của nhà phát triển. Một số chi tiết về những điều này như sau.
 
 ### Bố cục dữ liệu
 
@@ -81,5 +81,5 @@ Dữ liệu nhị phân bắt đầu bằng tiêu đề có định dạng đư�
 
 ## Người giới thiệu
 
-* [Định dạng tệp CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2)
+* [Định dạng tệp CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2)
 

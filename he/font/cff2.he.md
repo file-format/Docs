@@ -23,7 +23,7 @@
 
 ## פורמט קובץ CFF2
 
-[מפרט פורמט הקובץ CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2) מכיל פרטים על פריסת נתונים פנימית, סוגי נתונים, טבלאות ומידע פנימי אחר על פורמט הקובץ. ניתן להפנות אותו לעיון המפתח. חלק מהפרטים על אלה הם כדלקמן.
+[מפרט פורמט הקובץ CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2) מכיל פרטים על פריסת נתונים פנימית, סוגי נתונים, טבלאות ומידע פנימי אחר על פורמט הקובץ. ניתן להפנות אותו לעיון המפתח. חלק מהפרטים על אלה הם כדלקמן.
 
 ### פריסת נתונים
 
@@ -81,5 +81,5 @@
 
 ## הפניות
 
-* [פורמט קובץ CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2)
+* [פורמט קובץ CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2)
 

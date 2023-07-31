@@ -24,7 +24,7 @@
 
 Οι προγραμματιστές μπορούν να δημιουργήσουν μόνοι τους αρχεία έργου, καθώς και να τιμήσουν το [Σχήμα MSBuild XML](https://msdn.microsoft.com/library/5dy88c2e.aspx). Η ανοιχτή και διαφανής δομή των αρχείων έργου επιτρέπει στους προγραμματιστές εφαρμογών να επιβάλλουν εξελιγμένο και λεπτόκοκκο έλεγχο στον τρόπο κατασκευής και ανάπτυξης των έργων. Τα περιεχόμενα ενός τέτοιου αρχείου έργου έχουν πολύ σαφή σχέση μεταξύ τους. Το παρακάτω σχήμα δείχνει βασικά στοιχεία και τη σχέση μεταξύ τους για ένα τέτοιο αρχείο έργου.
 
-![](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
+![](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
 
 Οι ακόλουθες ενότητες επεξεργάζονται τα στοιχεία μορφής αρχείου για ένα αρχείο έργου.
 
@@ -94,5 +94,5 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Κατανόηση του αρχείου έργου - MSDN](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- αρχείο)
+* [Κατανόηση του αρχείου έργου - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- αρχείο)
 

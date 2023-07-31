@@ -31,5 +31,5 @@ Un fișier de profil CMS este creat utilizând Connection Manager și este împa
 
 ## Referințe
 
-* [Înțelegerea și configurarea Windows Connection Manager](https://docs.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
+* [Înțelegerea și configurarea Windows Connection Manager](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
 

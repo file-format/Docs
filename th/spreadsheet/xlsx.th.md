@@ -27,7 +27,7 @@
 
 ## ข้อมูลจำเพาะรูปแบบไฟล์ XLSX
 
-[ข้อมูลจำเพาะของรูปแบบไฟล์ XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) อย่างเป็นทางการจาก Microsoft มีให้บริการทางออนไลน์ หากต้องการดูว่ามีอะไรอยู่ในไฟล์ XLSX ให้เปลี่ยนชื่อเป็นไฟล์ [ZIP](/th/compression/zip/) โดยเปลี่ยนนามสกุลแล้วแตกไฟล์เพื่อดูไฟล์ที่เป็นส่วนประกอบของสมุดงาน Excel นี้ สมุดงานเปล่า เมื่อแยกเป็นไฟล์แล้ว จะมีไฟล์และโฟลเดอร์ที่เป็นส่วนประกอบดังต่อไปนี้
+[ข้อมูลจำเพาะของรูปแบบไฟล์ XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) อย่างเป็นทางการจาก Microsoft มีให้บริการทางออนไลน์ หากต้องการดูว่ามีอะไรอยู่ในไฟล์ XLSX ให้เปลี่ยนชื่อเป็นไฟล์ [ZIP](/th/compression/zip/) โดยเปลี่ยนนามสกุลแล้วแตกไฟล์เพื่อดูไฟล์ที่เป็นส่วนประกอบของสมุดงาน Excel นี้ สมุดงานเปล่า เมื่อแยกเป็นไฟล์แล้ว จะมีไฟล์และโฟลเดอร์ที่เป็นส่วนประกอบดังต่อไปนี้
 
 ### [Content_Types].xml ###
 
@@ -77,6 +77,6 @@
 
 ## อ้างอิง
 
-* [[MS-XLSX] - รูปแบบไฟล์ XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [[MS-XLSX] - รูปแบบไฟล์ XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

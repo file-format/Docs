@@ -32,6 +32,6 @@ Visio เริ่มผลิตเป็นผลิตภัณฑ์แบ�
 
 ## อ้างอิง ##
 
-* [ความรู้เบื้องต้นเกี่ยวกับรูปแบบไฟล์ Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
-* [แผนที่สคีมา - Visio XML](https://docs.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
+* [ความรู้เบื้องต้นเกี่ยวกับรูปแบบไฟล์ Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [แผนที่สคีมา - Visio XML](https://learn.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
 

@@ -90,5 +90,5 @@ ServerName=Unknown
 
 ## 参照 ＃＃
 
-* [DMP - マイクロソフト](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
+* [DMP - マイクロソフト](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
 

@@ -47,7 +47,7 @@ O conteúdo de um arquivo VCXPROJ de amostra é o seguinte.
 ```
 ### Elementos do arquivo VCXPROJ
 
-Um arquivo VCXPROJ típico contém vários elementos como pode ser visto no exemplo XML acima. A [estrutura VCXPROJ](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) da Microsoft explica cada elemento de arquivo em detalhes e pode ser consultado do ponto de vista do desenvolvedor.
+Um arquivo VCXPROJ típico contém vários elementos como pode ser visto no exemplo XML acima. A [estrutura VCXPROJ](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) da Microsoft explica cada elemento de arquivo em detalhes e pode ser consultado do ponto de vista do desenvolvedor.
 
 #### Elemento do projeto
 
@@ -72,6 +72,6 @@ Esta seção contém configurações que fornecem informações para o nível do
 
 ## Referências
 
-* [Estrutura VCXPROJ - MSDN](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
-* [Arquivos de projeto C++](https://docs.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
+* [Estrutura VCXPROJ - MSDN](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
+* [Arquivos de projeto C++](https://learn.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
 

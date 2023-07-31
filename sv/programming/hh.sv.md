@@ -54,6 +54,6 @@ Med denna rubrik kontrollerar förprocessorn om `ANY_UNIQUE_NAME_HERE_HPP` redan
 
 ## Referenser
 
-* [Header Filers - Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [Header Filers - Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 * [Skillnaden mellan .h och .hh filformat](https://stackoverflow.com/questions/10354321/c-reason-why-using-hh-as-extension-for-c-header-files)
 

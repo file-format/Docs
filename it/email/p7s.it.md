@@ -34,5 +34,5 @@ Queste informazioni vengono incorporate utilizzando la tecnologia Public-Key Cry
 
 ## Riferimenti ##
 
-* [Strumento firma Microsoft](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
+* [Strumento firma Microsoft](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
 

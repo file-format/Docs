@@ -31,5 +31,5 @@ ASD-filer som skapats mot originalfilerna förblir tillgängliga bredvid och anv
 
 ## Referenser
 
-* [Återställ Microsoft Word-dokument](https://docs.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
+* [Återställ Microsoft Word-dokument](https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
 

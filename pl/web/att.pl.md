@@ -24,5 +24,5 @@ Aplikacje, które mogą **otwierać pliki ATT**, obejmują edytory tekstu, takie
 
 ## Bibliografia
 
-* [Formularze internetowe — Microsoft](https://docs.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
+* [Formularze internetowe — Microsoft](https://learn.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
 

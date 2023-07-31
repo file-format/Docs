@@ -27,5 +27,5 @@ File XPR diidentifikasi menguntungkan kerentanan dalam Microsoft Expression Desi
 
 ## Referensi
 
-* [Kerentanan dalam Desain Ekspresi Dapat Mengizinkan Eksekusi Kode Jarak Jauh (2651018)](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
+* [Kerentanan dalam Desain Ekspresi Dapat Mengizinkan Eksekusi Kode Jarak Jauh (2651018)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
 

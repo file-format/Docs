@@ -31,5 +31,5 @@ Los archivos ASD creados con los archivos originales permanecen disponibles y se
 
 ## Referencias
 
-* [Recuperar documento de Microsoft Word](https://docs.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
+* [Recuperar documento de Microsoft Word](https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
 

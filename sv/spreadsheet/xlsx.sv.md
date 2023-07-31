@@ -27,7 +27,7 @@ XLSX-filformatet introducerades 2007 och använder Open XML-standarden anpassad 
 
 ## XLSX filformatspecifikationer
 
-De officiella [XLSX-filformatsspecifikationerna](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) är tillgängliga online från Microsoft. För att se vad som finns inuti XLSX-filen byter du bara namn på den till [ZIP](/sv/compression/zip/)-filen genom att ändra dess tillägg och sedan extrahera den för att se de ingående filerna i denna Excel-arbetsbok. En tom arbetsbok, när den extraheras till sina filer, har följande ingående filer och mappar.
+De officiella [XLSX-filformatsspecifikationerna](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) är tillgängliga online från Microsoft. För att se vad som finns inuti XLSX-filen byter du bara namn på den till [ZIP](/sv/compression/zip/)-filen genom att ändra dess tillägg och sedan extrahera den för att se de ingående filerna i denna Excel-arbetsbok. En tom arbetsbok, när den extraheras till sina filer, har följande ingående filer och mappar.
 
 ### [Content_Types].xml ###
 
@@ -77,6 +77,6 @@ Måste dela något om filformaten XLSX eller Spreadsheet? Du kan lägga upp dina
 
 ## Referenser
 
-* [[MS-XLSX] - XLSX-filformat](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [[MS-XLSX] - XLSX-filformat](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

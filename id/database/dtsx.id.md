@@ -29,10 +29,10 @@ Aliran data yang dijelaskan oleh DTSX adalah seperti yang ditunjukkan pada gamba
 
 {{< figure src="../DataFlowDTSX.png" alt="Aliran Data DTSX" >}}
 
-DTSX berbasis [XML](/id/web/xml/) dan didokumentasikan dalam [MS-DTSX](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd). Peningkatan pemfaktoran ulang DTSX XML adalah DTSX 2.0 yang menyertakan atribut baru ke struktur, penggantian properti bernama sebagai atribut XML induk, menentukan default untuk sebagian besar nilai atribut, dan penempatan elemen berulang di dalam elemen induk. Struktur DTSX dijelaskan menggunakan [Skema XML](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1) dan format strukturalnya adalah XML teks celar.
+DTSX berbasis [XML](/id/web/xml/) dan didokumentasikan dalam [MS-DTSX](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd). Peningkatan pemfaktoran ulang DTSX XML adalah DTSX 2.0 yang menyertakan atribut baru ke struktur, penggantian properti bernama sebagai atribut XML induk, menentukan default untuk sebagian besar nilai atribut, dan penempatan elemen berulang di dalam elemen induk. Struktur DTSX dijelaskan menggunakan [Skema XML](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1) dan format strukturalnya adalah XML teks celar.
 
 ## Referensi
 
-* [Format DTSX - Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd)
-* [Format DTSX 2 - Oleh Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx2/fb216aa4-62ab-41c8-a6d5-5b1002739d21)
+* [Format DTSX - Microsoft](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd)
+* [Format DTSX 2 - Oleh Microsoft](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx2/fb216aa4-62ab-41c8-a6d5-5b1002739d21)
 

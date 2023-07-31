@@ -59,5 +59,5 @@ Jeden soubor ASAX se skládá z několika sekcí, které jsou napsány pro zprac
 ## Reference
 
 * [Přehled obslužných rutin HTTP a modulů HTTP](https://msdn.microsoft.com/en-us/library/bb398986(v=vs.100))
-* [Global.asax syntaxe](https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
+* [Global.asax syntaxe](https://learn.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
 

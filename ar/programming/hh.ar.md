@@ -54,6 +54,6 @@
 
 ## مراجع
 
-* [Header Filers - Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp؟view=msvc-160)
+* [Header Filers - Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp؟view=msvc-160)
 * [الفرق بين تنسيقات الملفات .h و. hh](https://stackoverflow.com/questions/10354321/c-reason-why-using-hh-as-extension-for-c-header-files)
 

@@ -53,6 +53,6 @@ Poza prostą transmisją komunikatów, oryginalna aplikacja TNEF miała powstać
 ## Bibliografia
 
 * [Transport Neutral Encapsulation Format](https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
-* [Adresy e-mail i książki adresowe w Exchange Server](https://docs.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
+* [Adresy e-mail i książki adresowe w Exchange Server](https://learn.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
 * [[MS-OXTNEF]: algorytm danych Transport Neutral Encapsulation Format (TNEF)](https://msdn.microsoft.com/en-us/library/cc425498(v#exchg.80).aspx)
 

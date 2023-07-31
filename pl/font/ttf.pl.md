@@ -90,5 +90,5 @@ Każda tabela w pliku czcionek musi mieć własny wpis w katalogu tabeli. Wpisy 
 
 ## Bibliografia
 * [Instrukcja obsługi czcionek TrueType](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [Omówienie formatu TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Omówienie formatu TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

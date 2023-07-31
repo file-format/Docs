@@ -24,7 +24,7 @@ VHDX file can be converted to [VHD](/disc-and-media/vhd/) with Hyper-V Manager, 
 
 ## VHDX File Format - More Information
 
-The VHDX file format details are completely documented and available online as [VHDX File Format Specifications](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477) on Microsoft Documentation. It is an extension to the VHD format and includes enhanced capabilities. VHDX file format provides additional features that are available at the virtual hard disk and virtual hard disk file layers. It is more optimized and gives better results for storage hardware configuration and capabilities. VHDX files can be opened
+The VHDX file format details are completely documented and available online as [VHDX File Format Specifications](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477) on Microsoft Documentation. It is an extension to the VHD format and includes enhanced capabilities. VHDX file format provides additional features that are available at the virtual hard disk and virtual hard disk file layers. It is more optimized and gives better results for storage hardware configuration and capabilities. VHDX files can be opened
 
 ### Support for Virtual Hard Disks in VHDX
 
@@ -38,5 +38,5 @@ It supports three types of virtual hard disks.
 
 ## References
 
-* [VHDX File Format Specifications](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
+* [VHDX File Format Specifications](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
 * [VHD - by Wikipedia](https://en.wikipedia.org/wiki/VHD_(file_format))

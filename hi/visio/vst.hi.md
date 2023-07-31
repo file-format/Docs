@@ -32,5 +32,5 @@ Visio 2013 फ़ाइल स्वरूप वाले कुछ अन्�
 
 ## संदर्भ ##
 
-* [Visio फाइल फॉर्मेट का परिचय](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Visio फाइल फॉर्मेट का परिचय](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

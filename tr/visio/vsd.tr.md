@@ -32,6 +32,6 @@ Visio, ilk olarak 1992 yılında Shapeware Corporation tarafından 1.0 sürümü
 
 ## Referanslar ##
 
-* [Visio Dosya Biçimine Giriş](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
-* [Şema Haritası - Visio XML](https://docs.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
+* [Visio Dosya Biçimine Giriş](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Şema Haritası - Visio XML](https://learn.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
 

@@ -55,6 +55,6 @@ Dưới đây là các bảng Tiêu đề TTC của cả hai phiên bản:
 |uint32| dsigOffset |Phần bù (tính bằng byte) của bảng DSIG từ đầu tệp TTC (không có giá trị nếu không có chữ ký)|
 
 ## Người giới thiệu
-* [Tệp Phông chữ OpenType](https://docs.microsoft.com/en-us/typography/opentype/spec/otff)
+* [Tệp Phông chữ OpenType](https://learn.microsoft.com/en-us/typography/opentype/spec/otff)
 * [TrueType (Wikipedia)](https://vi.wikipedia.org/wiki/TrueType)
 

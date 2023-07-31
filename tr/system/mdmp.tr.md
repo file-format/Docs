@@ -51,5 +51,5 @@ Bir MDMP dosyasını Visual Studio'da açmak için aşağıdaki adımlar kullan�
 
 ## Referans
 
-* [Bir çökme meydana geldiğinde Windows tarafından oluşturulan küçük bellek dökümü dosyası nasıl okunur](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -dosya)
+* [Bir çökme meydana geldiğinde Windows tarafından oluşturulan küçük bellek dökümü dosyası nasıl okunur](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -dosya)
 

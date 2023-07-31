@@ -31,5 +31,5 @@ Soubory ASD vytvořené proti původním souborům zůstávají k dispozici spol
 
 ## Reference
 
-* [Obnovit dokument Microsoft Word](https://docs.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
+* [Obnovit dokument Microsoft Word](https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
 

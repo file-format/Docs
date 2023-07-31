@@ -53,6 +53,6 @@ Transport Neutral Encapsulation Format (TNEF) є власністю Microsoft д
 ## Список літератури
 
 * [Формат транспортної нейтральної інкапсуляції](https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
-* [Адреси електронної пошти та адресні книги в Exchange Server](https://docs.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
+* [Адреси електронної пошти та адресні книги в Exchange Server](https://learn.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
 * [[MS-OXTNEF]: алгоритм даних транспортного нейтрального формату інкапсуляції (TNEF)](https://msdn.microsoft.com/en-us/library/cc425498(v#exchg.80).aspx)
 

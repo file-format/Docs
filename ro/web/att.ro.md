@@ -24,5 +24,5 @@ Aplicațiile care pot **deschide fișierele ATT** includ editori de text precum 
 
 ## Referințe
 
-* [Formulare Web - Microsoft](https://docs.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
+* [Formulare Web - Microsoft](https://learn.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
 

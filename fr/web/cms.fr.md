@@ -29,6 +29,6 @@ Les fichiers CMS sont enregistrés au format Web et comprennent plusieurs types 
 
 ## Références
 
-* [Aide Microsoft HTML](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [Aide Microsoft HTML](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 * [Aide HTML compilée Microsoft](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 

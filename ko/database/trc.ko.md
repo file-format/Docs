@@ -40,5 +40,5 @@ SQL Server 프로파일러를 사용하여 Microsoft Windows 성능 로그를 �
 
 ## 참조 ##
 
-* [SQL 서버 프로파일러](https://docs.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler?view=sql-server-ver15)
+* [SQL 서버 프로파일러](https://learn.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler?view=sql-server-ver15)
 

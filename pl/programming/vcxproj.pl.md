@@ -47,7 +47,7 @@ Zawartość przykładowego pliku VCXPROJ jest następująca.
 ```
 ### Elementy pliku VCXPROJ
 
-Typowy plik VCXPROJ zawiera wiele elementów, jak widać w powyższym przykładzie XML. [Struktura VCXPROJ](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) firmy Microsoft szczegółowo wyjaśnia każdy element pliku i można się do niego odnieść z perspektywy dewelopera.
+Typowy plik VCXPROJ zawiera wiele elementów, jak widać w powyższym przykładzie XML. [Struktura VCXPROJ](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) firmy Microsoft szczegółowo wyjaśnia każdy element pliku i można się do niego odnieść z perspektywy dewelopera.
 
 #### Element projektu
 
@@ -72,6 +72,6 @@ Ta sekcja zawiera ustawienia, które dostarczają informacji na poziomie projekt
 
 ## Bibliografia
 
-* [Struktura VCXPROJ — MSDN](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
-* [Pliki projektu C++](https://docs.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
+* [Struktura VCXPROJ — MSDN](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
+* [Pliki projektu C++](https://learn.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
 

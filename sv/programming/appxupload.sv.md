@@ -27,5 +27,5 @@ APPXBUNDLE-filerna sparas på skiva i binärt filformat, med deras filformatspec
 
 ## Referenser
 
-* [Typer av apppaket](https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
+* [Typer av apppaket](https://learn.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
 

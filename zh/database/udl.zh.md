@@ -47,5 +47,5 @@
 ## 参考 ＃＃
 
 * [Microsoft 数据访问组件](https://en.wikipedia.org/wiki/Microsoft_Data_Access_Components#Universal_data_link)
-* [通用数据链接 (UDL) 配置](https://docs.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
+* [通用数据链接 (UDL) 配置](https://learn.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
 

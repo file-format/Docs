@@ -27,5 +27,5 @@ NUPKG files are [ZIP](/compression/zip/) archives that contain the packaged libr
 ## Reference
 
 * [Nuget.org](https://nuget.org)
-* [Quickstart: Install and use a package in Visual Studio (Windows only)](https://docs.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual-studio)
-* [How to Create and Publish a Nuget Package](https://docs.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore-cli)
+* [Quickstart: Install and use a package in Visual Studio (Windows only)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual-studio)
+* [How to Create and Publish a Nuget Package](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore-cli)

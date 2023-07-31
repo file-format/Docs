@@ -66,5 +66,5 @@ End Code
 
 ## संदर्भ
 
-* [रेजर सिंटैक्स संदर्भ - माइक्रोसॉफ्ट](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0)
+* [रेजर सिंटैक्स संदर्भ - माइक्रोसॉफ्ट](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0)
 

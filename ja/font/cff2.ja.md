@@ -23,7 +23,7 @@ CFF2 ファイル形式は、CFF ファイル形式のバージョン 2.0 であ
 
 ## CFF2 ファイル形式
 
-[CFF2 ファイル形式の仕様](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2) には、内部データ レイアウト、データ型、テーブル、およびファイル形式に関するその他の内部情報に関する詳細が含まれています。開発者の参照用に参照できます。これらの詳細の一部は次のとおりです。
+[CFF2 ファイル形式の仕様](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2) には、内部データ レイアウト、データ型、テーブル、およびファイル形式に関するその他の内部情報に関する詳細が含まれています。開発者の参照用に参照できます。これらの詳細の一部は次のとおりです。
 
 ### データレイアウト
 
@@ -81,5 +81,5 @@ CFF2 ファイルには、コンパクトなトークン化形式のキーと値
 
 ## 参考文献
 
-* [CFF2 ファイル形式](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2)
+* [CFF2 ファイル形式](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2)
 

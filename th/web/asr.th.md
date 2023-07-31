@@ -27,5 +27,5 @@
 ## อ้างอิง
 
 * [Adobe Contribute - โดย Wikipedia](https://en.wikipedia.org/wiki/Adobe_Contribute)
-* [การสร้างหน้า ASP อย่างง่าย](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [การสร้างหน้า ASP อย่างง่าย](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

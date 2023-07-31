@@ -43,5 +43,5 @@ Il controllo ReportViewer viene utilizzato per eseguire i file di definizione de
 
 ## Riferimenti ##
 
-- [Creazione di file di definizione report client (.rdlc)](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
+- [Creazione di file di definizione report client (.rdlc)](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
 

@@ -56,5 +56,5 @@ Une marque de fichier est utilisée pour une séparation logique et un accès ra
 
 ## Références ##
 
-* [[MS-BCP] : format de copie en masse](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5?redirectedfrom=MSDN)
+* [[MS-BCP] : format de copie en masse](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5?redirectedfrom=MSDN)
 

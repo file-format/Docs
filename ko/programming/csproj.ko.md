@@ -24,7 +24,7 @@ CSPROJ 확장자를 가진 파일은 시스템 어셈블리에 대한 참조와 
 
 개발자는 [MSBuild XML 스키마](https://msdn.microsoft.com/library/5dy88c2e.aspx)를 준수하면서 스스로 프로젝트 파일을 생성할 수 있습니다. 프로젝트 파일의 개방적이고 투명한 구조를 통해 애플리케이션 개발자는 프로젝트 구축 및 배포 방법을 정교하고 세밀하게 제어할 수 있습니다. 그러한 프로젝트 파일의 내용은 그들 사이에 매우 명확한 관계가 있습니다. 다음 그림은 이러한 프로젝트 파일에 대한 주요 요소와 이들 간의 관계를 보여줍니다.
 
-![](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
+![](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
 
 다음 섹션에서는 프로젝트 파일의 파일 형식 요소를 자세히 설명합니다.
 
@@ -94,5 +94,5 @@ MSBuild는 이 속성 정의를 처리할 때 먼저 **$(OutputRoot)** 속성 �
 
 ## 참고문헌
 
-* [프로젝트 파일 이해 - MSDN](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- 파일)
+* [프로젝트 파일 이해 - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- 파일)
 

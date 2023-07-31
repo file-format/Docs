@@ -27,7 +27,7 @@ Het PPTX-bestandsformaat werd geïntroduceerd in 2007 en maakt gebruik van de Op
 
 ## Specificaties PPTX-bestandsindeling
 
-Bestanden die zijn gegenereerd met Office Open XML-bestandsindeling is een verzameling XML-bestanden samen met andere bestanden die koppelingen bieden tussen alle samenstellende bestanden. Deze verzameling is eigenlijk een gecomprimeerd archief dat kan worden uitgepakt om de inhoud ervan te bekijken. Om dit te doen, hernoemt u de PPTX-bestandsextensie met zip en extraheert u deze om de inhoud te bekijken (zie [specificaties voor PPTX-bestandsindeling](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/ efd8bb2d-d888-4e2e-af25-cad476730c9f) door Microsoft).
+Bestanden die zijn gegenereerd met Office Open XML-bestandsindeling is een verzameling XML-bestanden samen met andere bestanden die koppelingen bieden tussen alle samenstellende bestanden. Deze verzameling is eigenlijk een gecomprimeerd archief dat kan worden uitgepakt om de inhoud ervan te bekijken. Om dit te doen, hernoemt u de PPTX-bestandsextensie met zip en extraheert u deze om de inhoud te bekijken (zie [specificaties voor PPTX-bestandsindeling](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/ efd8bb2d-d888-4e2e-af25-cad476730c9f) door Microsoft).
 
 De volgende paragrafen werpen enig licht op elk van deze.
 
@@ -90,6 +90,6 @@ en volgende xml-bestanden:
 
 ## Referenties ##
 
-* [[MS-PPTX] - PPTX-bestandsindeling](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
+* [[MS-PPTX] - PPTX-bestandsindeling](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
 

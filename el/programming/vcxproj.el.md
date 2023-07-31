@@ -47,7 +47,7 @@
 ```
 ### Στοιχεία αρχείου VCXPROJ
 
-Ένα τυπικό αρχείο VCXPROJ περιέχει έναν αριθμό στοιχείων όπως φαίνεται στο παραπάνω παράδειγμα XML. Η [δομή VCXPROJ](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) από τη Microsoft εξηγεί κάθε στοιχείο αρχείου λεπτομερώς και μπορεί να παραπεμφθεί από την πλευρά του προγραμματιστή.
+Ένα τυπικό αρχείο VCXPROJ περιέχει έναν αριθμό στοιχείων όπως φαίνεται στο παραπάνω παράδειγμα XML. Η [δομή VCXPROJ](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) από τη Microsoft εξηγεί κάθε στοιχείο αρχείου λεπτομερώς και μπορεί να παραπεμφθεί από την πλευρά του προγραμματιστή.
 
 #### Στοιχείο έργου
 
@@ -72,6 +72,6 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Δομή VCXPROJ - MSDN](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
-* [Αρχεία έργου C++](https://docs.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
+* [Δομή VCXPROJ - MSDN](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
+* [Αρχεία έργου C++](https://learn.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
 

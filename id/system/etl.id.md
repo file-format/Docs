@@ -27,10 +27,10 @@ File ETL disimpan ke disk dalam format biner terkompresi untuk mengurangi ruang 
 
 ## Buka File ETL menggunakan Windows Performance Analyzer
 
-Data file ETL dapat dibaca dan divisualisasikan dalam format tabel serta grafik menggunakan aplikasi Microsoft Windows Performance Analyzer (WPA). Panduan [Membuka dan Menganalisis file ETL](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) memberikan informasi tentang bekerja dengan file ETL.
+Data file ETL dapat dibaca dan divisualisasikan dalam format tabel serta grafik menggunakan aplikasi Microsoft Windows Performance Analyzer (WPA). Panduan [Membuka dan Menganalisis file ETL](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) memberikan informasi tentang bekerja dengan file ETL.
 
 ## Referensi
 
-* [Penganalisis Kinerja Windows](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
-* [Panduan Memulai Cepat WPA](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
+* [Penganalisis Kinerja Windows](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
+* [Panduan Memulai Cepat WPA](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
 

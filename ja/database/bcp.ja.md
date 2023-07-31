@@ -19,7 +19,7 @@
 
 ## .BCP オプション番号
 
-BCP (バルク コピー フォーマット) は、Microsoft SQL Server の技術的なデータ フォーマットであり、データ構造を定義して、インポート/エクスポート用のさまざまなデータベース データ型の値を格納します。この形式は、データ ファイルで指定された一連の値を読み取ることができるように、各データ列の解釈を完全に定義します。 [BCP](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/ms162802(v=sql.105)) ユーティリティは、BCP ファイル形式を使用して読み取りますそのようなファイルからデータを取得し、それを識別します。
+BCP (バルク コピー フォーマット) は、Microsoft SQL Server の技術的なデータ フォーマットであり、データ構造を定義して、インポート/エクスポート用のさまざまなデータベース データ型の値を格納します。この形式は、データ ファイルで指定された一連の値を読み取ることができるように、各データ列の解釈を完全に定義します。 [BCP](https://learn.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/ms162802(v=sql.105)) ユーティリティは、BCP ファイル形式を使用して読み取りますそのようなファイルからデータを取得し、それを識別します。
 
 
 ## BCP ファイル形式
@@ -59,5 +59,5 @@ BCP フォーマット ファイルは、列の順序、名前、およびデー
 
 ## 参考文献
 
-* [BCP 形式 - Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
+* [BCP 形式 - Microsoft](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
 

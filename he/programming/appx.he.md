@@ -36,11 +36,11 @@
 
 ישנן שתי שיטות שניתן להשתמש בהן ליצירת קבצי APPX.
 
-1. שימוש ב-MakeApp.exe - [MakeApp.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) משמש ליצירת שניהם חבילות אפליקציות (.msix או .appx) וקבצי חבילת אפליקציות .msixbundle או .appxbundle). בנוסף, הוא יכול לחלץ קבצים מחבילת אפליקציה. MakeApp.exe זמין עם Windows 10 SDK וניתן להשתמש בו משורת הפקודה.
-1. שימוש ב-Microsoft Visual Studio - מפתחים בדרך כלל [יוצרים קבצי APPX](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) באמצעות Microsoft Visual Studio. לאחר השלמת פיתוח האפליקציה והאפליקציה מוכנה לפרסום, ניתן ליצור קובץ חבילת APPX על ידי פרסומו מתוך Visual Studio.
+1. שימוש ב-MakeApp.exe - [MakeApp.exe](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) משמש ליצירת שניהם חבילות אפליקציות (.msix או .appx) וקבצי חבילת אפליקציות .msixbundle או .appxbundle). בנוסף, הוא יכול לחלץ קבצים מחבילת אפליקציה. MakeApp.exe זמין עם Windows 10 SDK וניתן להשתמש בו משורת הפקודה.
+1. שימוש ב-Microsoft Visual Studio - מפתחים בדרך כלל [יוצרים קבצי APPX](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) באמצעות Microsoft Visual Studio. לאחר השלמת פיתוח האפליקציה והאפליקציה מוכנה לפרסום, ניתן ליצור קובץ חבילת APPX על ידי פרסומו מתוך Visual Studio.
 
 ## הפניות
 
-* [צור חבילה או חבילה של MSIX עם MakeAppx.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
-* [צור קובצי APPX באמצעות Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [צור חבילה או חבילה של MSIX עם MakeAppx.exe](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
+* [צור קובצי APPX באמצעות Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

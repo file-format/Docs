@@ -31,5 +31,5 @@ CMS फ़ाइल एक डेटा फ़ाइल है जिसमे�
 
 ## संदर्भ
 
-* [Windows कनेक्शन प्रबंधक को समझना और कॉन्फ़िगर करना](https://docs.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
+* [Windows कनेक्शन प्रबंधक को समझना और कॉन्फ़िगर करना](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
 

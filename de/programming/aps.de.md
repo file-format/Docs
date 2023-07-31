@@ -26,7 +26,7 @@ Das APS-Dateiformat ist nur ein Kompilierschritt und speichert nur symbolische D
 
 ## Verweise
 
-* [Ressourcendateien (C++)](https://docs.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
+* [Ressourcendateien (C++)](https://learn.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
  
 
 

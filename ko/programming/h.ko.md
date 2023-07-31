@@ -120,5 +120,5 @@ namespace N  // namespace declaration
 
 ## 참고문헌
 
-* [헤더 파일러 - Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [헤더 파일러 - Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 

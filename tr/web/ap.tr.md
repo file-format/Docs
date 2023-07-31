@@ -27,5 +27,5 @@ AP dosyaları, destekleyici yazılımların yardımıyla Web sunucusunda barınd
 ## Referanslar
 
 * [ASP - W3C Tarafından](https://www.w3schools.com/asp/default.asp)
-* [Basit ASP Sayfaları Oluşturma](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Basit ASP Sayfaları Oluşturma](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

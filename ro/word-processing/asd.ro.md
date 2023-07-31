@@ -31,5 +31,5 @@ Fișierele ASD create față de fișierele originale rămân disponibile alătur
 
 ## Referințe
 
-* [Recuperare document Microsoft Word](https://docs.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
+* [Recuperare document Microsoft Word](https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
 

@@ -27,7 +27,7 @@ XSD 파일은 사람이 읽을 수 있는 일반 텍스트 파일 형식으로 �
 
 ## XSD 파일의 예
 
-구매 주문 스키마가 있는 간단한 XSD 파일은 다음 [Microsoft XSD 예제](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file)와 같이 태그를 사용하여 요소를 정의합니다. -simple-schema?view=vs-2022).
+구매 주문 스키마가 있는 간단한 XSD 파일은 다음 [Microsoft XSD 예제](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file)와 같이 태그를 사용하여 요소를 정의합니다. -simple-schema?view=vs-2022).
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
@@ -67,5 +67,5 @@ XSD 파일은 사람이 읽을 수 있는 일반 텍스트 파일 형식으로 �
 ## 참조 ##
 
 - [마이크로소프트 XML 메모장](https://microsoft.github.io/XmlNotepad/)
-- [XSD 샘플 예시](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
+- [XSD 샘플 예시](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
 

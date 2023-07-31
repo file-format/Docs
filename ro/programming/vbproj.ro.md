@@ -23,7 +23,7 @@ Un fișier cu extensia .vbproj este un fișier de proiect Microsoft Visual Basic
 
 ## Format de fișier VBPROJ - Mai multe informații
 
-Fișierele VBPROJ sunt fișiere textuale care sunt scrise în format de fișier [XML](/ro/web/xml/) bazat pe [MSBuild XML Schema](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild- proiect-file-schema-reference?view=vs-2019). Un fișier VBPROJ conține informații sub formă de etichete XML care definesc informații legate de acel grup special de setări. Este foarte recomandat să deschideți și să editați aceste fișiere de setare în Microsoft Visual Studio IDE.
+Fișierele VBPROJ sunt fișiere textuale care sunt scrise în format de fișier [XML](/ro/web/xml/) bazat pe [MSBuild XML Schema](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild- proiect-file-schema-reference?view=vs-2019). Un fișier VBPROJ conține informații sub formă de etichete XML care definesc informații legate de acel grup special de setări. Este foarte recomandat să deschideți și să editați aceste fișiere de setare în Microsoft Visual Studio IDE.
 
 ### Elemente VBPROJ
 
@@ -42,6 +42,6 @@ Următorul tabel oferă o scurtă descriere a acestor elemente.
 
 ## Referințe
 
-* [Înțelegerea fișierului de proiect](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
-* [Elemente Schema MSBuild](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
+* [Înțelegerea fișierului de proiect](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
+* [Elemente Schema MSBuild](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
 

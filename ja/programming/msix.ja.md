@@ -35,6 +35,6 @@ MSIX パッケージは、次のファイルで構成されます。
 
 ## 参考文献
 
-* [MSIX の概要](https://docs.microsoft.com/en-us/windows/msix/overview)
-* [Microsoft Visual Studio を使用して APPX ファイルを作成する](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [MSIX の概要](https://learn.microsoft.com/en-us/windows/msix/overview)
+* [Microsoft Visual Studio を使用して APPX ファイルを作成する](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

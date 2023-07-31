@@ -28,5 +28,5 @@ I file APPXBUNDLE vengono pubblicati in formato ZIP. Se vuoi vedere il contenuto
 ## Riferimenti
 
 * [Pacchetti di dipendenza per i pacchetti .appx e .appxbundle](https://www.ibm.com/docs/en/maas360?topic=catalog-dependency-packages-appx-appxbundle-packages)
-* [Crea file APPX utilizzando Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Crea file APPX utilizzando Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

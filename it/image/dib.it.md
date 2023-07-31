@@ -86,5 +86,5 @@ typedef struct tagRGBQUAD {
 |Formato a 32 bit|Le immagini a 32 bit hanno un massimo di 2^24 colori (biBitCount == 24).
 
 ## Riferimenti ##
-* [Bitmap indipendenti dal dispositivo - Di Microsoft](https://docs.microsoft.com/en-us/windows/win32/gdi/device-independent-bitmaps)
+* [Bitmap indipendenti dal dispositivo - Di Microsoft](https://learn.microsoft.com/en-us/windows/win32/gdi/device-independent-bitmaps)
 
