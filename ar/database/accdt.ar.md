@@ -57,5 +57,5 @@
 
 ## مراجع ##
 
-* [تنسيق ملف قالب الوصول](https://docs.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
+* [تنسيق ملف قالب الوصول](https://learn.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
 

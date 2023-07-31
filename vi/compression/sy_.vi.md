@@ -38,5 +38,5 @@ Tệp SY_ tương tự như tệp EX_ và DL_.
 ## Người giới thiệu
 
 * [StuffIt - Theo Wikipedia](https://vi.wikipedia.org/wiki/StuffIt)
-* [Microsoft Expand](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
+* [Microsoft Expand](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
 

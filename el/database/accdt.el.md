@@ -57,5 +57,5 @@
 
 ## Βιβλιογραφικές αναφορές ##
 
-* [Πρόσβαση σε μορφή αρχείου προτύπου](https://docs.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
+* [Πρόσβαση σε μορφή αρχείου προτύπου](https://learn.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
 

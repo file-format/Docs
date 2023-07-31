@@ -38,5 +38,5 @@ SY_ 파일은 EX_ 및 DL_ 파일과 유사합니다.
 ## 참고문헌
 
 * [StuffIt - 위키피디아 작성](https://en.wikipedia.org/wiki/StuffIt)
-* [마이크로소프트 익스팬드](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
+* [마이크로소프트 익스팬드](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
 

@@ -38,5 +38,5 @@ SY_ файловете са подобни на EX_ и DL_ файловете.
 ## Препратки
 
 * [StuffIt - от Wikipedia](https://en.wikipedia.org/wiki/StuffIt)
-* [Microsoft Expand](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
+* [Microsoft Expand](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
 

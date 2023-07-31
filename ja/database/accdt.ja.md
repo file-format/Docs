@@ -57,5 +57,5 @@ ACCDT ファイルは、関連するパーツのコレクションを含むパ�
 
 ## 参照 ##
 
-* [アクセス テンプレート ファイル形式](https://docs.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
+* [アクセス テンプレート ファイル形式](https://learn.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
 

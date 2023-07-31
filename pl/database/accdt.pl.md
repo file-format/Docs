@@ -57,5 +57,5 @@ Część to strumień bajtów, który ma powiązany typ określający naturę i 
 
 ## Bibliografia ##
 
-* [Format pliku szablonu dostępu](https://docs.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
+* [Format pliku szablonu dostępu](https://learn.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
 

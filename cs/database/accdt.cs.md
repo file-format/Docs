@@ -57,5 +57,5 @@ Balíček je archiv [ZIP](/cs/compression/zip/), který obsahuje více částí 
 
 ## Reference ##
 
-* [Formát souboru šablony přístupu](https://docs.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
+* [Formát souboru šablony přístupu](https://learn.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
 

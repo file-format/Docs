@@ -57,5 +57,5 @@ O parte este un flux de octeți care are un tip asociat pentru specificarea natu
 
 ## Referințe ##
 
-* [Format de fișier șablon de acces](https://docs.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
+* [Format de fișier șablon de acces](https://learn.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
 
