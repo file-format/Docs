@@ -27,6 +27,5 @@
 ## อ้างอิง
 
 * [Nuget.org](https://nuget.org)
-* [การเริ่มต้นอย่างรวดเร็ว: ติดตั้งและใช้แพ็คเกจใน Visual Studio (Windows เท่านั้น)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual- สตูดิโอ)
-* [วิธีสร้างและเผยแพร่แพ็คเกจ Nuget](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore- คลิ)
-
+* [การเริ่มต้นอย่างรวดเร็ว: ติดตั้งและใช้แพ็คเกจใน Visual Studio (Windows เท่านั้น)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual-studio)
+* [วิธีสร้างและเผยแพร่แพ็คเกจ Nuget](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore-cli)

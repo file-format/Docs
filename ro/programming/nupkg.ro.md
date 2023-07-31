@@ -27,6 +27,6 @@ Fișierele NUPKG sunt arhive [ZIP](/ro/compression/zip/) care conțin biblioteci
 ## Referinţă
 
 * [Nuget.org](https://nuget.org)
-* [Pornire rapidă: Instalați și utilizați un pachet în Visual Studio (numai Windows)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual- studio)
+* [Pornire rapidă: Instalați și utilizați un pachet în Visual Studio (numai Windows)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual-studio)
 * [Cum se creează și se publică un pachet Nuget](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore-cli)
 

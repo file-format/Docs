@@ -27,6 +27,6 @@ NUPKG 文件是 [ZIP](/zh/compression/zip/) 档案，其中包含打包的库。
 ## 参考
 
 * [Nuget.org](https://nuget.org)
-* [快速入门：在 Visual Studio 中安装和使用包（仅限 Windows）](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual-工作室）
+* [快速入门：在 Visual Studio 中安装和使用包（仅限 Windows）](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual-studio)
 * [如何创建和发布 Nuget 包](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore-cli)
 

@@ -27,6 +27,6 @@
 ## довідка
 
 * [Nuget.org](https://nuget.org)
-* [Швидкий старт: установіть і використовуйте пакет у Visual Studio (тільки для Windows)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual- студія)
+* [Швидкий старт: установіть і використовуйте пакет у Visual Studio (тільки для Windows)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual-studio)
 * [Як створити та опублікувати пакет Nuget](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore-cli)
 

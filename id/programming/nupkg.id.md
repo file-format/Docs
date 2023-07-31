@@ -27,6 +27,6 @@ File NUPKG adalah arsip [ZIP](/id/compression/zip/) yang berisi pustaka terpaket
 ## Referensi
 
 * [Nuget.org](https://nuget.org)
-* [Mulai cepat: Instal dan gunakan paket di Visual Studio (khusus Windows)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual- studio)
+* [Mulai cepat: Instal dan gunakan paket di Visual Studio (khusus Windows)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual-studio)
 * [Cara Membuat dan Memublikasikan Paket Nuget](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore-cli)
 

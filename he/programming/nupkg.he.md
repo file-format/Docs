@@ -27,6 +27,6 @@
 ## התייחסות
 
 * [Nuget.org](https://nuget.org)
-* [התחלה מהירה: התקן והשתמש בחבילה ב-Visual Studio (Windows בלבד)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual- סטוּדִיוֹ)
+* [התחלה מהירה: התקן והשתמש בחבילה ב-Visual Studio (Windows בלבד)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual-studio)
 * [כיצד ליצור ולפרסם חבילת Nuget](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore-cli)
 

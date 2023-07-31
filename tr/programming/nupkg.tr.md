@@ -27,6 +27,6 @@ NUPKG dosyaları, içindeki paketlenmiş kitaplıkları içeren [ZIP](/tr/compre
 ## Referans
 
 * [Nuget.org](https://nuget.org)
-* [Hızlı Başlangıç: Visual Studio'da bir paket yükleyin ve kullanın (yalnızca Windows)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual- stüdyo)
+* [Hızlı Başlangıç: Visual Studio'da bir paket yükleyin ve kullanın (yalnızca Windows)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual-studio)
 * [Bir Nuget Paketi Nasıl Oluşturulur ve Yayınlanır](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore-cli)
 
