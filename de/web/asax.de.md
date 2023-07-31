@@ -59,5 +59,5 @@ Eine einzelne ASAX-Datei besteht aus mehreren Abschnitten, die geschrieben werde
 ## Verweise
 
 * [Übersicht über HTTP-Handler und HTTP-Module](https://msdn.microsoft.com/en-us/library/bb398986(v=vs.100))
-* [Global.asax-Syntax](https://learn.microsoft.com/en-us/ previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
+* [Global.asax-Syntax](https://learn.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
 
