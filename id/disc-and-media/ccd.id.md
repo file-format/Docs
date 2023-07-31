@@ -25,7 +25,7 @@ File CCD dikenal sebagai file gambar disk yang dibuat dengan menggunakan format 
 
 Format file CCD adalah deskriptor teks CloneCD dengan ekstensi .ccd untuk menandai properti gambar CD atau DVD. Untuk membakar CD atau DVD, file CCD harus digabungkan dengan file gambar. Itu juga bisa datang dengan file subchannel. Format ini dapat digunakan langsung oleh emulator disk atau Virtual CloneDrive. Selain itu, file CCD dapat dipasang dengan drive virtual pihak ketiga, seperti Daemon atau Alat Alkohol. Aplikasi CCDISO digunakan untuk mengonversi file CCD yang sesuai dengan ISO9660 menjadi gambar [ISO](/id/compression/iso/).
 
-Format seperti format [CUE](/id/disc-and-media/cue), [BIN](/id/disc-and-media/bin/), [MDS]() [MDF]() memiliki struktur yang mirip dengan CCD format, berisi gambar disk mentah bersama dengan file deskriptor.
+Format seperti format [CUE](/id/disc-and-media/cue/), [BIN](/id/disc-and-media/bin/), [MDS]() [MDF]() memiliki struktur yang mirip dengan CCD format, berisi gambar disk mentah bersama dengan file deskriptor.
 
 ## Referensi
 

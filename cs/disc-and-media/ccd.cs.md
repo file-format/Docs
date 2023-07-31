@@ -25,7 +25,7 @@ Soubor CCD je známý jako soubor obrazu disku vytvořený pomocí formátu Clon
 
 Formát souboru CCD je textový deskriptor CloneCD s příponou .ccd pro označení vlastností obrazu CD nebo DVD. Chcete-li vypálit disk CD nebo DVD, je třeba soubor CCD zkombinovat se souborem obrazu. Může také přijít se souborem subkanálu. Tento formát může být použit přímo emulátorem disku nebo Virtual CloneDrive. Soubory CCD lze také připojit k virtuálním jednotkám třetích stran, jako jsou Daemon nebo Alcohol Tools. Aplikace CCDISO se používá k převodu souboru CCD vyhovujícího normě ISO9660 na obraz [ISO](/cs/compression/iso/).
 
-Formáty jako [CUE](/cs/disc-and-media/cue),[BIN](/cs/disc-and-media/bin/), [MDS]() [MDF]() formáty mají podobnou strukturu jako CCD formátu, který obsahuje jak nezpracovaný obraz disku, tak soubor deskriptoru.
+Formáty jako [CUE](/cs/disc-and-media/cue/),[BIN](/cs/disc-and-media/bin/), [MDS]() [MDF]() formáty mají podobnou strukturu jako CCD formátu, který obsahuje jak nezpracovaný obraz disku, tak soubor deskriptoru.
 
 ## Reference
 

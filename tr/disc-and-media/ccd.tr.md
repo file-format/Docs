@@ -25,7 +25,7 @@ CCD dosyası, CloneCD Control (CCD) formatı kullanılarak oluşturulan bir disk
 
 CCD dosya formatı, bir CD veya DVD görüntüsünün özelliklerini işaretlemek için .ccd uzantılı bir CloneCD metin tanımlayıcısıdır. Bir CD veya DVD yazmak için CCD dosyasının bir görüntü dosyasıyla birleştirilmesi gerekir. Ayrıca bir alt kanal dosyasıyla birlikte gelebilir. Bu biçim, doğrudan bir disk emülatörü veya Virtual CloneDrive tarafından kullanılabilir. Ayrıca, CCD dosyaları, Daemon veya Alcohol Tools gibi üçüncü taraf sanal sürücülere bağlanabilmektedir. CCDISO uygulaması, ISO9660 uyumlu bir CCD dosyasını bir [ISO](/tr/compression/iso/) görüntüsüne dönüştürmek için kullanılır.
 
-[CUE](/tr/disc-and-media/cue),[BIN](/tr/disc-and-media/bin/), [MDS]() [MDF]() biçimleri gibi biçimler CCD'ye benzer bir yapıya sahiptir hem bir ham disk görüntüsü hem de bir tanımlayıcı dosya içeren format.
+[CUE](/tr/disc-and-media/cue/),[BIN](/tr/disc-and-media/bin/), [MDS]() [MDF]() biçimleri gibi biçimler CCD'ye benzer bir yapıya sahiptir hem bir ham disk görüntüsü hem de bir tanımlayıcı dosya içeren format.
 
 ## Referanslar
 
