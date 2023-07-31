@@ -53,6 +53,6 @@ Az egyszerű üzenetátvitelen túlmenően a TNEF eredeti alkalmazását üzenet
 ## Hivatkozások
 
 * [Transport Neutral Encapsulation Format](https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
-* [E-mail címek és címjegyzékek az Exchange Serverben](https://docs.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
+* [E-mail címek és címjegyzékek az Exchange Serverben](https://learn.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
 * [[MS-OXTNEF]: Transport Neutral Encapsulation Format (TNEF) adatalgoritmus](https://msdn.microsoft.com/en-us/library/cc425498(v#exchg.80).aspx)
 

@@ -55,6 +55,6 @@ TTC 파일의 테이블은 해당 글꼴의 테이블 디렉토리를 통해 참
 |uint32| dsigOffset |TTC 파일의 시작 부분에서 DSIG 테이블의 오프셋(바이트 단위)(서명이 없으면 null)|
 
 ## 참고문헌
-* [오픈타입 글꼴 파일](https://docs.microsoft.com/en-us/typography/opentype/spec/otff)
+* [오픈타입 글꼴 파일](https://learn.microsoft.com/en-us/typography/opentype/spec/otff)
 * [트루타입(위키피디아)](https://en.wikipedia.org/wiki/TrueType)
 

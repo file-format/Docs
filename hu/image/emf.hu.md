@@ -95,6 +95,6 @@ Az EMF fájlformátumot kétszer módosították. A módosított verziók az ere
 
 ## Hivatkozások ##
 
-* [Továbbfejlesztett formátumú metafájlok | Microsoft Docs](https://docs.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
+* [Továbbfejlesztett formátumú metafájlok | Microsoft Docs](https://learn.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
 * [Továbbfejlesztett metafájl formátum és specifikáció](https://msdn.microsoft.com/en-us/library/cc230514.aspx)
 

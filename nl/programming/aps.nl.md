@@ -26,7 +26,7 @@ Het APS-bestandsformaat is slechts een compileerstap en slaat alleen symbolische
 
 ## Referenties
 
-* [Bronbestanden (C++)](https://docs.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
+* [Bronbestanden (C++)](https://learn.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
  
 
 

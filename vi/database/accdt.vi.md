@@ -57,5 +57,5 @@ Một phần là một luồng byte có loại được liên kết để chỉ 
 
 ## Người giới thiệu ##
 
-* [Định dạng tệp mẫu truy cập](https://docs.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
+* [Định dạng tệp mẫu truy cập](https://learn.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
 

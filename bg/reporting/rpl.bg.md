@@ -307,5 +307,5 @@ RPL потокът трябва да има само един запис на о
 
 ## Препратки ##
 
-- [Формат на двоичния поток на оформлението на отчетната страница (RPL)](https://docs.microsoft.com/en-us/openspecs/sql_server_protocols/ms-rpl/9c4ff7ba-f6da-4092-9670-aa0e54e73887)
+- [Формат на двоичния поток на оформлението на отчетната страница (RPL)](https://learn.microsoft.com/en-us/openspecs/sql_server_protocols/ms-rpl/9c4ff7ba-f6da-4092-9670-aa0e54e73887)
 

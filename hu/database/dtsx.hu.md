@@ -29,10 +29,10 @@ A DTSX által leírt adatfolyam a következő képen látható.
 
 {{< figure src="../DataFlowDTSX.png" alt="Adatfolyam DTSX" >}}
 
-A DTSX [XML](/hu/web/xml/) alapú, és az [MS-DTSX]-ben van dokumentálva (https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd). A DTSX XML továbbfejlesztett átalakítása a DTSX 2.0, amely új attribútumokat tartalmaz a struktúrákhoz, a megnevezett tulajdonságok szülő XML-attribútumként való cseréjét, a legtöbb attribútumérték alapértelmezett értékét, valamint az ismétlődő elemek szülőelemen belüli elhelyezését. A DTSX-struktúrák leírása ezekkel az [XML-sémákkal](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1) cellar-text XML.
+A DTSX [XML](/hu/web/xml/) alapú, és az [MS-DTSX]-ben van dokumentálva (https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd). A DTSX XML továbbfejlesztett átalakítása a DTSX 2.0, amely új attribútumokat tartalmaz a struktúrákhoz, a megnevezett tulajdonságok szülő XML-attribútumként való cseréjét, a legtöbb attribútumérték alapértelmezett értékét, valamint az ismétlődő elemek szülőelemen belüli elhelyezését. A DTSX-struktúrák leírása ezekkel az [XML-sémákkal](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1) cellar-text XML.
 
 ## Hivatkozások
 
-* [DTSX formátum – Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd)
-* [DTSX 2 formátum – a Microsofttól](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx2/fb216aa4-62ab-41c8-a6d5-5b1002739d21)
+* [DTSX formátum – Microsoft](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd)
+* [DTSX 2 formátum – a Microsofttól](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx2/fb216aa4-62ab-41c8-a6d5-5b1002739d21)
 

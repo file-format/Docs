@@ -45,5 +45,5 @@ Visual Studio gör det möjligt att konvertera/exportera klassdiagram till bilde
 
 ## Referenser
 
-* [Designklasser i Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
+* [Designklasser i Visual Studio](https://learn.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
 

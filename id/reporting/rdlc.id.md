@@ -43,5 +43,5 @@ Anda hanya dapat mempratinjau laporan dengan menjalankannya di kontrol **ReportV
 
 ## Referensi ##
 
-- [Membuat File Client Report Definition (.rdlc)](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
+- [Membuat File Client Report Definition (.rdlc)](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
 

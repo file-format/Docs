@@ -37,7 +37,7 @@ Một tệp hình ảnh HDR bao gồm ba phần sau:
 ## API HDR/HDRI mã nguồn mở
 
 * **[imageinfo](https://github.com/xiaozhuai/imageinfo )** - Thư viện tiêu đề đơn siêu nhanh đa nền tảng [C++](/vi/programming/cpp/) để lấy kích thước và định dạng hình ảnh mà không cần tải/giải mã.
-* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Thư viện Rust để lấy kích thước và định dạng hình ảnh mà không cần tải/giải mã. Hỗ trợ [.avif](/vi/image/avif/), [.bmp](/vi/image/bmp), [.cur](/vi/image/cur/), [.dds](/vi/image/dds/), [. gif](/vi/image/gif/), hdr (pic), [heic (heif)](/vi/image/heic/), [.icns](/vi/image/icns/), [.ico](/vi/image/ico /), [.jp2](/vi/image/jp2/), [jpeg (jpg)](/vi/image/jpeg/), [jpx](/vi/image/jpx/), ktx, [png](/vi/image/png /), [psd](/vi/image/psd/), qoi, tga, tiff (tif) và webp.
+* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Thư viện Rust để lấy kích thước và định dạng hình ảnh mà không cần tải/giải mã. Hỗ trợ [.avif](/vi/image/avif/), [.bmp](/vi/image/bmp/), [.cur](/vi/image/cur/), [.dds](/vi/image/dds/), [. gif](/vi/image/gif/), hdr (pic), [heic (heif)](/vi/image/heic/), [.icns](/vi/image/icns/), [.ico](/vi/image/ico /), [.jp2](/vi/image/jp2/), [jpeg (jpg)](/vi/image/jpeg/), [jpx](/vi/image/jpx/), ktx, [png](/vi/image/png /), [psd](/vi/image/psd/), qoi, tga, tiff (tif) và webp.
 * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** - Triển khai Java của HdrHistogram.
 
 ## Người giới thiệu

@@ -59,5 +59,5 @@ Một tệp ASAX duy nhất bao gồm nhiều phần được viết để xử 
 ## Người giới thiệu
 
 * [Tổng quan về trình xử lý HTTP và mô-đun HTTP](https://msdn.microsoft.com/en-us/library/bb398986(v=vs.100))
-* [Cú pháp Global.asax](https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
+* [Cú pháp Global.asax](https://learn.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
 

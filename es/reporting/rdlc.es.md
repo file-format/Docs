@@ -43,5 +43,5 @@ Solo puede obtener una vista previa de un informe ejecutándolo en un control **
 
 ## Referencias ##
 
-- [Creación de archivos de definición de informe de cliente (.rdlc)](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
+- [Creación de archivos de definición de informe de cliente (.rdlc)](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
 

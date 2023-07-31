@@ -59,5 +59,5 @@ Een enkel ASAX-bestand bestaat uit meerdere secties die zijn geschreven om de ge
 ## Referenties
 
 * [Overzicht HTTP-handlers en HTTP-modules](https://msdn.microsoft.com/en-us/library/bb398986(v=vs.100))
-* [Global.asax-syntaxis](https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
+* [Global.asax-syntaxis](https://learn.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
 

@@ -19,7 +19,7 @@
 
 ## Czym jest plik ICNS? ##
 
-Format ikon używany przez programy macOS nazywa się plikiem ICNS. Pozwala na 1-bitowe i 8-bitowe pasma alfa i zapisuje jeden lub więcej obrazów, zwykle wykonanych z dokumentów [PNG](/pl/image/png). Ikona programu w przeglądarce i interfejsie macOS jest wyświetlana za pomocą plików ICNS.
+Format ikon używany przez programy macOS nazywa się plikiem ICNS. Pozwala na 1-bitowe i 8-bitowe pasma alfa i zapisuje jeden lub więcej obrazów, zwykle wykonanych z dokumentów [PNG](/pl/image/png/). Ikona programu w przeglądarce i interfejsie macOS jest wyświetlana za pomocą plików ICNS.
 
 W zależności od lokalizacji ta sama ikona stylu może mieć wiele ustawień. Format ICNS przeszedł liczne zmiany i ewoluował do tego stopnia, że może być obecnie używany jako podstawa dla różnych kompatybilnych formatów. Oto kilka innych ważnych punktów, o których musisz wiedzieć:
 
@@ -31,7 +31,7 @@ W zależności od lokalizacji ta sama ikona stylu może mieć wiele ustawień. F
 ## Format pliku ICNS ##
 
 Format danych ICNS to kapsułka na jeden lub więcej obrazów, obsługująca pasma 1-bitowe i liczne stany obrazu.
-System operacyjny może zmienić rozmiar obrazów ikon, aby dopasować je do wymaganego rozmiaru wyświetlacza. Większe obrazy ikon są zwykle zapisywane jako pliki [JPEG](/pl/image/jpeg/) 2000 lub [PNG](/pl/image/png). Możliwy jest typ zarówno skompresowanych, jak i nieskompresowanych plików ICNS.
+System operacyjny może zmienić rozmiar obrazów ikon, aby dopasować je do wymaganego rozmiaru wyświetlacza. Większe obrazy ikon są zwykle zapisywane jako pliki [JPEG](/pl/image/jpeg/) 2000 lub [PNG](/pl/image/png/). Możliwy jest typ zarówno skompresowanych, jak i nieskompresowanych plików ICNS.
 
 Nagłówek i binarne dane ikony tworzą strukturę pliku ICNS. Nagłówek zawiera 8 bajtów danych, z których cztery to literał magiczny, a cztery to długość pliku. Typ i rozmiar każdego obrazu ikony są przechowywane w sekcji danych ikony, po której następują binarne dane obrazu. Rozmiar obrazu określa rozmiar sekcji binarnej.
 

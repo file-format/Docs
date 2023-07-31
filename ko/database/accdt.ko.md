@@ -57,5 +57,5 @@ ACCDT 파일은 관련 부품 모음을 포함하는 패키지입니다. 각 **�
 
 ## 참조 ##
 
-* [액세스 템플릿 파일 형식](https://docs.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
+* [액세스 템플릿 파일 형식](https://learn.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
 

@@ -38,6 +38,6 @@
 
 ## Список літератури
 
-* [Бічна панель Windows – від Microsoft](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
-* [Розробка гаджета для Windows Sidebar, частина 1](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
+* [Бічна панель Windows – від Microsoft](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
+* [Розробка гаджета для Windows Sidebar, частина 1](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
 

@@ -27,7 +27,7 @@ XLSX dosya formatı 2007'de tanıtıldı ve Microsoft tarafından 2000'de uyarla
 
 ## XLSX Dosya Biçimi Özellikleri
 
-Resmi [XLSX dosya biçimi belirtimleri](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) Microsoft'tan çevrimiçi olarak edinilebilir. XLSX dosyasının içinde ne olduğunu görmek için, uzantısını değiştirerek onu [ZIP](/tr/compression/zip/) dosyası olarak yeniden adlandırın ve ardından bu Excel çalışma kitabının kurucu dosyalarını görüntülemek için ayıklayın. Boş bir çalışma kitabı, dosyalarına ayıklandığında aşağıdaki kurucu dosya ve klasörlere sahiptir.
+Resmi [XLSX dosya biçimi belirtimleri](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) Microsoft'tan çevrimiçi olarak edinilebilir. XLSX dosyasının içinde ne olduğunu görmek için, uzantısını değiştirerek onu [ZIP](/tr/compression/zip/) dosyası olarak yeniden adlandırın ve ardından bu Excel çalışma kitabının kurucu dosyalarını görüntülemek için ayıklayın. Boş bir çalışma kitabı, dosyalarına ayıklandığında aşağıdaki kurucu dosya ve klasörlere sahiptir.
 
 ### [Content_Types].xml ###
 
@@ -77,6 +77,6 @@ XLSX veya Elektronik Tablo dosya formatları hakkında bir şeyler mi paylaşmak
 
 ## Referanslar
 
-* [[MS-XLSX] - XLSX Dosya Biçimi](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [[MS-XLSX] - XLSX Dosya Biçimi](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

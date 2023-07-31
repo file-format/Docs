@@ -63,5 +63,5 @@ ASP עבר רק כמה גרסאות, אך הוא הוחלף על ידי ASP.NET 
 ## הפניות
 
 * [ASP - מאת W3C](https://www.w3schools.com/asp/default.asp)
-* [יצירת דפי ASP פשוטים](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [יצירת דפי ASP פשוטים](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

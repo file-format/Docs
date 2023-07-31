@@ -18,7 +18,7 @@
 
 ## Co je soubor BR?
 
-Soubor BR je komprimovaný webový soubor vytvořený použitím algoritmu komprese dat s otevřeným zdrojovým kódem **Brotli**. Používá se k ukládání položek webových stránek, jako jsou šablony stylů ([CSS](/cs/web/css/)), obrázky ([SVG](/cs/image/svg/)), [XML](/cs/web/xml/) a skriptování soubory ([JS](/cs/web/js/)). Moderní webové stránky, jako je Chrome a Firefox, používají soubory BR ke zkrácení doby načítání stránky, což vede k lepší uživatelské zkušenosti.
+Soubor BR je komprimovaný webový soubor vytvořený použitím algoritmu komprese dat s otevřeným zdrojovým kódem **Brotli**. Používá se k ukládání položek webových stránek, jako jsou šablony stylů ([CSS](/cs/web/css/)), obrázky ([SVG](/cs/page-description-language/svg/)), [XML](/cs/web/xml/) a skriptování soubory ([JS](/cs/web/js/)). Moderní webové stránky, jako je Chrome a Firefox, používají soubory BR ke zkrácení doby načítání stránky, což vede k lepší uživatelské zkušenosti.
 
 ## Formát souboru BR
 

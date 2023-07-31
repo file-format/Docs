@@ -45,5 +45,5 @@ Visual Studio 允许将类图转换/导出为图像，例如 [PNG](/zh/image/png
 
 ## 参考
 
-* [Visual Studio 中的设计类](https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
+* [Visual Studio 中的设计类](https://learn.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
 

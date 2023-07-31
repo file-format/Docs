@@ -48,6 +48,6 @@
 
 ## הפניות
 
-* [שימוש בקבצי הגדרות אינטרנט (.INS) עם IEAK 11](https://docs.microsoft.com/en-us/internet-explorer/ie11-ieak/using-internet-settings-ins-files)
+* [שימוש בקבצי הגדרות אינטרנט (.INS) עם IEAK 11](https://learn.microsoft.com/en-us/internet-explorer/ie11-ieak/using-internet-settings-ins-files)
 
 

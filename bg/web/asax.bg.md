@@ -59,5 +59,5 @@ ASAX файловете са написани в обикновен тексто
 ## Препратки
 
 * [Общ преглед на HTTP манипулатори и HTTP модули](https://msdn.microsoft.com/en-us/library/bb398986(v=vs.100))
-* [Синтаксис на Global.asax](https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
+* [Синтаксис на Global.asax](https://learn.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
 

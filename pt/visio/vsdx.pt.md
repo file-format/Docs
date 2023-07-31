@@ -50,5 +50,5 @@ Partes de relacionamento são documentos XML que descrevem os relacionamentos en
 
 ## Referências ##
 
-* [Introdução ao formato de arquivo do Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Introdução ao formato de arquivo do Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

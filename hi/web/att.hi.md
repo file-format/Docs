@@ -24,5 +24,5 @@
 
 ## संदर्भ
 
-* [वेब फॉर्म - माइक्रोसॉफ्ट](https://docs.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
+* [वेब फॉर्म - माइक्रोसॉफ्ट](https://learn.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
 

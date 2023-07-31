@@ -27,10 +27,10 @@ ETL-bestanden worden op schijf opgeslagen in gecomprimeerd binair formaat om sch
 
 ## Open ETL-bestanden met Windows Performance Analyzer
 
-Gegevens van ETL-bestanden kunnen zowel in tabelvorm als in grafisch formaat worden gelezen en gevisualiseerd met behulp van de Microsoft Windows Performance Analyzer (WPA) -toepassing. De gids [ETL-bestanden openen en analyseren](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) geeft informatie over het werken met met ETL-bestanden.
+Gegevens van ETL-bestanden kunnen zowel in tabelvorm als in grafisch formaat worden gelezen en gevisualiseerd met behulp van de Microsoft Windows Performance Analyzer (WPA) -toepassing. De gids [ETL-bestanden openen en analyseren](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) geeft informatie over het werken met met ETL-bestanden.
 
 ## Referenties
 
-* [Windows Performance Analyzer](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/aan de slag--windows-performance-analyzer--wpa-)
-* [WPA Snelstartgids](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
+* [Windows Performance Analyzer](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/aan de slag--windows-performance-analyzer--wpa-)
+* [WPA Snelstartgids](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
 

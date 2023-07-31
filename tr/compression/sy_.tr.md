@@ -38,5 +38,5 @@ SY_ dosyaları, EX_ ve DL_ dosyalarına benzer.
 ## Referanslar
 
 * [StuffIt - Wikipedia Tarafından](https://en.wikipedia.org/wiki/StuffIt)
-* [Microsoft Genişlet](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
+* [Microsoft Genişlet](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
 

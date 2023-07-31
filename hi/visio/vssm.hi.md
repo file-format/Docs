@@ -38,5 +38,5 @@ VSSM फ़ाइल स्वरूप को Microsoft Visio 2013 के स�
 
 ## संदर्भ ##
 
-* [Visio फ़ाइल फ़ॉर्मैट का परिचय](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Visio फ़ाइल फ़ॉर्मैट का परिचय](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

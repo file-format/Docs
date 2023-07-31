@@ -47,7 +47,7 @@ Innehållet i en VCXPROJ-exempelfil är som följer.
 ```
 ### VCXPROJ-filelement
 
-En typisk VCXPROJ-fil innehåller ett antal element som kan ses i exemplet XML ovan. [VCXPROJ-strukturen](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) från Microsoft förklarar varje filelement i detalj och kan hänvisas till ur utvecklarens perspektiv.
+En typisk VCXPROJ-fil innehåller ett antal element som kan ses i exemplet XML ovan. [VCXPROJ-strukturen](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) från Microsoft förklarar varje filelement i detalj och kan hänvisas till ur utvecklarens perspektiv.
 
 #### Projektelement
 
@@ -72,6 +72,6 @@ Det här avsnittet innehåller inställningar som ger information för projektni
 
 ## Referenser
 
-* [VCXPROJ-struktur - MSDN](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
-* [C++ Project Files](https://docs.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
+* [VCXPROJ-struktur - MSDN](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
+* [C++ Project Files](https://learn.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
 

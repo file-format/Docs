@@ -86,5 +86,5 @@ typedef struct tagRGBQUAD {
 |32비트 형식|32비트 이미지에는 최대 2^24개의 색상이 있습니다(biBitCount == 24).
 
 ## 참조 ##
-* [장치 독립 비트맵 - Microsoft 제공](https://docs.microsoft.com/en-us/windows/win32/gdi/device-independent-bitmaps)
+* [장치 독립 비트맵 - Microsoft 제공](https://learn.microsoft.com/en-us/windows/win32/gdi/device-independent-bitmaps)
 

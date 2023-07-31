@@ -18,7 +18,7 @@
 
 ## Apa itu file BR?
 
-File BR adalah file web terkompresi yang dibuat dengan menerapkan algoritme kompresi data sumber terbuka, **Brotli**. Ini digunakan untuk menyimpan aset halaman web seperti stylesheet ([CSS](/id/web/css/)), gambar ([SVG](/id/image/svg/)), [XML](/id/web/xml/), dan skrip file ([JS](/id/web/js/)). Situs web modern, seperti Chrome dan Firefox, menggunakan file BR untuk mengurangi waktu pemuatan halaman, menghasilkan pengalaman pengguna yang lebih baik.
+File BR adalah file web terkompresi yang dibuat dengan menerapkan algoritme kompresi data sumber terbuka, **Brotli**. Ini digunakan untuk menyimpan aset halaman web seperti stylesheet ([CSS](/id/web/css/)), gambar ([SVG](/id/page-description-language/svg/)), [XML](/id/web/xml/), dan skrip file ([JS](/id/web/js/)). Situs web modern, seperti Chrome dan Firefox, menggunakan file BR untuk mengurangi waktu pemuatan halaman, menghasilkan pengalaman pengguna yang lebih baik.
 
 ## Format File BR
 

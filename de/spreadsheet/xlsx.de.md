@@ -27,7 +27,7 @@ Das XLSX-Dateiformat wurde 2007 eingeführt und verwendet den Open XML-Standard,
 
 ## XLSX-Dateiformatspezifikationen
 
-Die offiziellen [XLSX-Dateiformatspezifikationen](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) sind online bei Microsoft erhältlich. Um zu sehen, was sich in der XLSX-Datei befindet, benennen Sie sie einfach in [ZIP](/de/compression/zip/)-Datei um, indem Sie ihre Erweiterung ändern, und extrahieren Sie sie dann, um die konstituierenden Dateien dieser Excel-Arbeitsmappe anzuzeigen. Eine leere Arbeitsmappe enthält nach dem Extrahieren in ihre Dateien die folgenden Dateien und Ordner.
+Die offiziellen [XLSX-Dateiformatspezifikationen](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) sind online bei Microsoft erhältlich. Um zu sehen, was sich in der XLSX-Datei befindet, benennen Sie sie einfach in [ZIP](/de/compression/zip/)-Datei um, indem Sie ihre Erweiterung ändern, und extrahieren Sie sie dann, um die konstituierenden Dateien dieser Excel-Arbeitsmappe anzuzeigen. Eine leere Arbeitsmappe enthält nach dem Extrahieren in ihre Dateien die folgenden Dateien und Ordner.
 
 ### [Content_Types].xml ###
 
@@ -77,6 +77,6 @@ Müssen Sie etwas über XLSX- oder Spreadsheet-Dateiformate mitteilen? Sie könn
 
 ## Verweise
 
-* [[MS-XLSX] - XLSX-Dateiformat](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [[MS-XLSX] - XLSX-Dateiformat](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

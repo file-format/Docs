@@ -82,6 +82,6 @@ OTF файл започва с директория на таблица. Таз�
 Всяка таблица във файла с шрифтове OpenType е представена с имена, известни като тагове на таблица. Задължително е всички записи в масива да са сортирани във възходящ ред по етикет.
 
 ## Препратки
-* [Спецификации на шрифта OpenType от Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [Общ преглед на TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Спецификации на шрифта OpenType от Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [Общ преглед на TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

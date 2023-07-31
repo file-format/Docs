@@ -54,6 +54,6 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Αρχεία κεφαλίδας - Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [Αρχεία κεφαλίδας - Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 * [Διαφορά μεταξύ των μορφών αρχείων .h και .hh](https://stackoverflow.com/questions/10354321/c-reason-why-using-hh-as-extension-for-c-header-files)
 

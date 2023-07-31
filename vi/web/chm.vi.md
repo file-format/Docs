@@ -54,6 +54,6 @@ Trợ giúp HTML được tạo thành từ một số thành phần. Chúng bao
 
 ## Người giới thiệu
 
-* [Trợ giúp HTML của Microsoft](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [Trợ giúp HTML của Microsoft](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 * [Trợ giúp HTML do Microsoft biên dịch](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 

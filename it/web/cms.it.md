@@ -29,6 +29,6 @@ I file CMS vengono salvati in formato web e questi includono diversi tipi di ele
 
 ## Riferimenti
 
-* [Guida di Microsoft HTML](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [Guida di Microsoft HTML](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 * [Guida HTML compilato Microsoft](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 

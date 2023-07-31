@@ -82,6 +82,6 @@ Fonttaki her üst düzey tablo için aşağıdaki alanlardan oluşan bir Tablo K
 OpenType yazı tipi dosyasındaki her tablo, tablo etiketleri olarak bilinen adlarla temsil edilir. Dizideki tüm kayıtların etikete göre artan sırada sıralanması zorunludur.
 
 ## Referanslar
-* [Microsoft'tan OpenType Yazı Tipi Özellikleri](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [TrueType'a Genel Bakış](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Microsoft'tan OpenType Yazı Tipi Özellikleri](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [TrueType'a Genel Bakış](https://learn.microsoft.com/en-us/typography/truetype/)
 

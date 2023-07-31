@@ -55,6 +55,6 @@ Her iki versiyonun da TTC Başlık tabloları şunlardır:
 |uint32| dsigOffset |DSIG tablosunun TTC dosyasının başından farkı (bayt cinsinden) (imza yoksa boş)|
 
 ## Referanslar
-* [OpenType Yazı Tipi Dosyası](https://docs.microsoft.com/en-us/typography/opentype/spec/otff)
+* [OpenType Yazı Tipi Dosyası](https://learn.microsoft.com/en-us/typography/opentype/spec/otff)
 * [TrueType (Wikipedia)](https://en.wikipedia.org/wiki/TrueType)
 

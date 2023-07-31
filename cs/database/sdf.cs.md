@@ -27,6 +27,6 @@ Konvence pojmenování .sdf je volitelná a k uložení souboru lze použít lib
 ## Reference
 
 * [SQL Server Compact – Wikipedia](https://en.wikipedia.org/wiki/SQL_Server_Compact)
-* [Používání SQL Server Compact pro webové aplikace ASP.NET](https://docs.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
+* [Používání SQL Server Compact pro webové aplikace ASP.NET](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
 
 

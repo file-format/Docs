@@ -54,6 +54,6 @@
 
 ## 参考文献
 
-* [ヘッダー ファイラー - Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [ヘッダー ファイラー - Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 * [.h と .hh ファイル形式の違い](https://stackoverflow.com/questions/10354321/c-reason-why-using-hh-as-extension-for-c-header-files)
 

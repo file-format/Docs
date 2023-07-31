@@ -47,7 +47,7 @@
 ```
 ### องค์ประกอบไฟล์ VCXPROJ
 
-ไฟล์ VCXPROJ ทั่วไปมีองค์ประกอบจำนวนหนึ่งดังที่เห็นได้จากตัวอย่าง XML ด้านบน [โครงสร้าง VCXPROJ](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) โดย Microsoft อธิบายองค์ประกอบไฟล์แต่ละรายการโดยละเอียดและสามารถอ้างอิงได้ จากมุมมองของนักพัฒนา
+ไฟล์ VCXPROJ ทั่วไปมีองค์ประกอบจำนวนหนึ่งดังที่เห็นได้จากตัวอย่าง XML ด้านบน [โครงสร้าง VCXPROJ](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) โดย Microsoft อธิบายองค์ประกอบไฟล์แต่ละรายการโดยละเอียดและสามารถอ้างอิงได้ จากมุมมองของนักพัฒนา
 
 #### องค์ประกอบโครงการ
 
@@ -72,6 +72,6 @@
 
 ## อ้างอิง
 
-* [โครงสร้าง VCXPROJ - MSDN](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
-* [ไฟล์โครงการ C++](https://docs.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
+* [โครงสร้าง VCXPROJ - MSDN](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
+* [ไฟล์โครงการ C++](https://learn.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
 

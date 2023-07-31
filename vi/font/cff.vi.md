@@ -23,7 +23,7 @@ Tệp có phần mở rộng .cff là Định dạng Phông chữ Nhỏ gọn v�
 
 ## Định dạng tệp CFF
 
-Các tệp CFF là các tệp nhị phân chứa bố cục dữ liệu có cấu trúc, đã xác định các loại dữ liệu, tiêu đề, tổ chức glyph và từ điển bảng. Bạn có thể tìm thêm chi tiết về những điều này trong [thông số định dạng phông chữ nhỏ gọn](https://docs.microsoft.com/en-us/typography/opentype/spec/cff).
+Các tệp CFF là các tệp nhị phân chứa bố cục dữ liệu có cấu trúc, đã xác định các loại dữ liệu, tiêu đề, tổ chức glyph và từ điển bảng. Bạn có thể tìm thêm chi tiết về những điều này trong [thông số định dạng phông chữ nhỏ gọn](https://learn.microsoft.com/en-us/typography/opentype/spec/cff).
 
 ### Bố cục dữ liệu
 Bố cục dữ liệu của định dạng tệp CFF như hình bên dưới.
@@ -68,7 +68,7 @@ Dữ liệu nhị phân bắt đầu bằng tiêu đề có định dạng đư�
 
 ## Người giới thiệu
 
-* [Bảng định dạng phông chữ nhỏ gọn](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+* [Bảng định dạng phông chữ nhỏ gọn](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
 * [Định dạng tệp CFF](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
-* [Bộ biểu đồ CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+* [Bộ biểu đồ CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

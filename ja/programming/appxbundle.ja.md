@@ -28,5 +28,5 @@ APPXBUNDLE ファイルは ZIP ファイル形式で公開されています。�
 ## 参考文献
 
 * [.appx および .appxbundle パッケージの依存関係パッケージ](https://www.ibm.com/docs/en/maas360?topic=catalog-dependency-packages-appx-appxbundle-packages)
-* [Microsoft Visual Studio を使用して APPX ファイルを作成する](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Microsoft Visual Studio を使用して APPX ファイルを作成する](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

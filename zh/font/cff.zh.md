@@ -23,7 +23,7 @@
 
 ## CFF 文件格式
 
-CFF 文件是包含结构化数据布局、已定义数据类型、标题、字形组织和表字典的二进制文件。有关这些的更多详细信息，请参阅 [紧凑字体格式规范](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)。
+CFF 文件是包含结构化数据布局、已定义数据类型、标题、字形组织和表字典的二进制文件。有关这些的更多详细信息，请参阅 [紧凑字体格式规范](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)。
 
 ### 数据布局
 CFF 文件格式的数据布局如下图所示。
@@ -68,7 +68,7 @@ CFF 数据类型如下表所示。
 
 ## 参考
 
-* [紧凑字体格式表](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+* [紧凑字体格式表](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
 * [CFF 文件格式](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
-* [CFF2 图表集](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+* [CFF2 图表集](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

@@ -34,5 +34,5 @@ Thông tin này được nhúng bằng công nghệ Tiêu chuẩn mã hóa khóa
 
 ## Người giới thiệu ##
 
-* [Công cụ Microsoft Sign](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
+* [Công cụ Microsoft Sign](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
 

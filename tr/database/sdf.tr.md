@@ -27,6 +27,6 @@ Bir SDF dosyası, genellikle kompakt ilişkisel veritabanı olarak adlandırıla
 ## Referanslar
 
 * [SQL Server Kompakt - Wikipedia](https://en.wikipedia.org/wiki/SQL_Server_Compact)
-* [ASP.NET Web Uygulamaları için SQL Server Compact Kullanımı](https://docs.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
+* [ASP.NET Web Uygulamaları için SQL Server Compact Kullanımı](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
 
 

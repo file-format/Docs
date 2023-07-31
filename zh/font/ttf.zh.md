@@ -90,5 +90,5 @@ TrueType 字体中的第一个表是提供对访问其他表中数据所需信�
 
 ## 参考
 * [TrueType 字体参考手册](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [TrueType 概述](https://docs.microsoft.com/en-us/typography/truetype/)
+* [TrueType 概述](https://learn.microsoft.com/en-us/typography/truetype/)
 

@@ -63,5 +63,5 @@ Het ASPError-object is geïmplementeerd in ASP 3.0 en is beschikbaar in IIS5 en 
 ## Referenties
 
 * [ASP - Door W3C](https://www.w3schools.com/asp/default.asp)
-* [Eenvoudige ASP-pagina's maken](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Eenvoudige ASP-pagina's maken](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

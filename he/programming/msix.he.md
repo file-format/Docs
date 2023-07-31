@@ -35,6 +35,6 @@
 
 ## הפניות
 
-* [סקירה כללית של MSIX](https://docs.microsoft.com/en-us/windows/msix/overview)
-* [צור קובצי APPX באמצעות Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [סקירה כללית של MSIX](https://learn.microsoft.com/en-us/windows/msix/overview)
+* [צור קובצי APPX באמצעות Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

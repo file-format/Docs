@@ -27,7 +27,7 @@ O formato de arquivo XLSX foi introduzido em 2007 e usa o padrão Open XML adapt
 
 ## Especificações de formato de arquivo XLSX
 
-As [especificações de formato de arquivo XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) oficiais estão disponíveis online na Microsoft. Para ver o que está dentro do arquivo XLSX, basta renomeá-lo para arquivo [ZIP](/pt/compression/zip/) alterando sua extensão e depois extraí-lo para visualizar os arquivos constituintes desta pasta de trabalho do Excel. Uma pasta de trabalho em branco, quando extraída para seus arquivos, tem os seguintes arquivos e pastas constituintes.
+As [especificações de formato de arquivo XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) oficiais estão disponíveis online na Microsoft. Para ver o que está dentro do arquivo XLSX, basta renomeá-lo para arquivo [ZIP](/pt/compression/zip/) alterando sua extensão e depois extraí-lo para visualizar os arquivos constituintes desta pasta de trabalho do Excel. Uma pasta de trabalho em branco, quando extraída para seus arquivos, tem os seguintes arquivos e pastas constituintes.
 
 ### [Content_Types].xml ###
 
@@ -77,6 +77,6 @@ Precisa compartilhar algo sobre os formatos de arquivo XLSX ou Planilha? Você p
 
 ## Referências
 
-* [[MS-XLSX] - Formato de arquivo XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [[MS-XLSX] - Formato de arquivo XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

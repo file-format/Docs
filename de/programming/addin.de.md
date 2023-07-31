@@ -23,11 +23,11 @@ Eine Datei mit der Erweiterung .addin ist eine Add-In-Definitionsdatei, die von 
 
 ## ADDIN-Dateiformat – Weitere Informationen
 
-ADDIN-Dateien werden im für Menschen lesbaren XML-Dateiformat auf der Disc gespeichert. Es kann in gängigen Texteditoren wie Notepad, Notepad++, Microsoft Visual Studio IDE und vielen anderen geöffnet werden. Microsoft hat die [XML-Manifestdatei](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) eines Office Add definiert -in, das beschreibt, wie ein Add-In aktiviert werden soll, nachdem es installiert und mit Office-Dokumenten und -Anwendungen verwendet wurde.
+ADDIN-Dateien werden im für Menschen lesbaren XML-Dateiformat auf der Disc gespeichert. Es kann in gängigen Texteditoren wie Notepad, Notepad++, Microsoft Visual Studio IDE und vielen anderen geöffnet werden. Microsoft hat die [XML-Manifestdatei](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) eines Office Add definiert -in, das beschreibt, wie ein Add-In aktiviert werden soll, nachdem es installiert und mit Office-Dokumenten und -Anwendungen verwendet wurde.
 
-**Siehe auch:** [How to build an Office COM add-in by using Visual C# .NET](https://docs.microsoft.com/en-us/ previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
+**Siehe auch:** [How to build an Office COM add-in by using Visual C# .NET](https://learn.microsoft.com/en-us/ previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
 
 ## Verweise
 
-* [XML-Manifest für Office-Add-Ins](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1)
+* [XML-Manifest für Office-Add-Ins](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1)
 

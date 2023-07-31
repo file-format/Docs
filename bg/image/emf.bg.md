@@ -95,6 +95,6 @@ EMF файловият формат е ревизиран два пъти. Пр�
 
 ## Препратки ##
 
-* [Метафайлове с подобрен формат | Microsoft Docs](https://docs.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
+* [Метафайлове с подобрен формат | Microsoft Docs](https://learn.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
 * [Подобрен метафайлов формат и спецификация](https://msdn.microsoft.com/en-us/library/cc230514.aspx)
 

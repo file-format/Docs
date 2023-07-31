@@ -20,7 +20,7 @@
 
 ## Ce este un fișier iXBRL?
 
-Formatul de fișier iXBRL (ilnine XBRL) permite ca datele [XBRL](/ro/web/xbrl/) să fie încorporate într-un fișier HTML pentru a-l face atât citibil de mașină, cât și de om. Este de fapt un fișier [xHTML](/ro/web/xhtml/) care folosește etichetele XBRL și a fost dezvoltat de XBRL International pentru a îndeplini cerințele HMRC din Marea Britanie. Folosind iXBRL, situațiile financiare pot fi create păstrând intactă aspectul documentului original. Fișierele iXBRL pot fi deschise în orice editor de text, cum ar fi Notepad pe sistemul de operare Windows și TextEdit pe MacOS.
+Formatul de fișier iXBRL (ilnine XBRL) permite ca datele [XBRL](/ro/finance/xbrl/) să fie încorporate într-un fișier HTML pentru a-l face atât citibil de mașină, cât și de om. Este de fapt un fișier [xHTML](/ro/web/xhtml/) care folosește etichetele XBRL și a fost dezvoltat de XBRL International pentru a îndeplini cerințele HMRC din Marea Britanie. Folosind iXBRL, situațiile financiare pot fi create păstrând intactă aspectul documentului original. Fișierele iXBRL pot fi deschise în orice editor de text, cum ar fi Notepad pe sistemul de operare Windows și TextEdit pe MacOS.
 
 ## Format de fișier iXBRL
 

@@ -27,6 +27,6 @@ SDF файл съдържа база данни, която обикновено
 ## Препратки
 
 * [SQL Server Compact - Wikipedia](https://en.wikipedia.org/wiki/SQL_Server_Compact)
-* [Използване на SQL Server Compact за ASP.NET уеб приложения](https://docs.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
+* [Използване на SQL Server Compact за ASP.NET уеб приложения](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
 
 

@@ -28,5 +28,5 @@
 ## อ้างอิง
 
 * [แพ็กเกจการพึ่งพาสำหรับแพ็กเกจ .appx และ .appxbundle](https://www.ibm.com/docs/en/maas360?topic=catalog-dependency-packages-appx-appxbundle-packages)
-* [สร้างไฟล์ APPX โดยใช้ Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [สร้างไฟล์ APPX โดยใช้ Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

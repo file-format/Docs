@@ -54,6 +54,6 @@
 
 ## использованная литература
 
-* [Файлы заголовков — Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [Файлы заголовков — Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 * [Разница между форматами файлов .h и .hh](https://stackoverflow.com/questions/10354321/c-reason-why-using-hh-as-extension-for-c-header-files)
 

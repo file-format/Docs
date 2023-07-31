@@ -27,7 +27,7 @@
 
 ## Спецификации на файловия формат XLSX
 
-Официалните [спецификации на файлов формат XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) са достъпни онлайн от Microsoft. За да видите какво има вътре в XLSX файла, просто го преименувайте на [ZIP](/bg/compression/zip/) файл, като промените разширението му и след това го извлечете, за да видите съставните файлове на тази работна книга на Excel. Празна работна книга, когато бъде извлечена в своите файлове, има следните съставни файлове и папки.
+Официалните [спецификации на файлов формат XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) са достъпни онлайн от Microsoft. За да видите какво има вътре в XLSX файла, просто го преименувайте на [ZIP](/bg/compression/zip/) файл, като промените разширението му и след това го извлечете, за да видите съставните файлове на тази работна книга на Excel. Празна работна книга, когато бъде извлечена в своите файлове, има следните съставни файлове и папки.
 
 ### [Content_Types].xml ###
 
@@ -77,6 +77,6 @@
 
 ## Препратки
 
-* [[MS-XLSX] - XLSX файлов формат](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [[MS-XLSX] - XLSX файлов формат](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

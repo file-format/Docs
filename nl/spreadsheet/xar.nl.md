@@ -32,6 +32,6 @@ XAR-bestanden kunnen alle soorten Excel-bestandsindelingen opslaan, zoals XLS, X
 
 ## Referenties
 
-* [Atuo Recover-functies in Excel](https://docs.microsoft.com/en-us/office/troubleshoot/excel/autorecover-functions-in-excel)
+* [Atuo Recover-functies in Excel](https://learn.microsoft.com/en-us/office/troubleshoot/excel/autorecover-functions-in-excel)
 * [XAR File Community Help](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_excel-mso_win10-mso_365hp/2016-excel-xar-files/5af5e10c-027a-4c24-a403-39e9c590ce8f)
 

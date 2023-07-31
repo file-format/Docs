@@ -31,5 +31,5 @@ Un file di profilo CMS viene creato utilizzando Connection Manager e viene impac
 
 ## Riferimenti
 
-* [Comprensione e configurazione di Windows Connection Manager](https://docs.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
+* [Comprensione e configurazione di Windows Connection Manager](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
 

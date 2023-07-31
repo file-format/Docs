@@ -25,13 +25,13 @@
 
 ## X รูปแบบไฟล์
 
-[การอ้างอิงไฟล์ X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) มีข้อมูลอ้างอิงสำหรับองค์ประกอบ API ที่ใช้ในการ ทำงานกับไฟล์ DirectX .x รูปแบบจัดเตรียมข้อมูลเบื้องต้นระดับต่ำที่แอปพลิเคชันอื่นใช้เพื่อกำหนดข้อมูลเบื้องต้นระดับสูงกว่าผ่านเทมเพลตข้อมูล DirectX 6.0 แนะนำอินเทอร์เฟซและวิธีการที่ช่วยให้สามารถอ่านและเขียนไฟล์ .x ได้ DirectX 3.0 แนะนำรูปแบบไฟล์ไบนารีเวอร์ชันนี้
+[การอ้างอิงไฟล์ X](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) มีข้อมูลอ้างอิงสำหรับองค์ประกอบ API ที่ใช้ในการ ทำงานกับไฟล์ DirectX .x รูปแบบจัดเตรียมข้อมูลเบื้องต้นระดับต่ำที่แอปพลิเคชันอื่นใช้เพื่อกำหนดข้อมูลเบื้องต้นระดับสูงกว่าผ่านเทมเพลตข้อมูล DirectX 6.0 แนะนำอินเทอร์เฟซและวิธีการที่ช่วยให้สามารถอ่านและเขียนไฟล์ .x ได้ DirectX 3.0 แนะนำรูปแบบไฟล์ไบนารีเวอร์ชันนี้
 
-[การอ้างอิงรูปแบบไฟล์ X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) ที่กำหนดโดย DirectX 9 มีข้อมูลอ้างอิงสำหรับ .x ไฟล์ในไบนารีเช่นเดียวกับการเข้ารหัสข้อความ
+[การอ้างอิงรูปแบบไฟล์ X](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) ที่กำหนดโดย DirectX 9 มีข้อมูลอ้างอิงสำหรับ .x ไฟล์ในไบนารีเช่นเดียวกับการเข้ารหัสข้อความ
 
 ### การเข้ารหัสไบนารี
 
-[รูปแบบไบนารี](https://docs.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) กำหนดรูปแบบ DirectX X เป็นการแสดงโทเค็นของรูปแบบข้อความ โทเค็นเหล่านี้สามารถเป็นแบบสแตนด์อโลนเพื่อให้มีโครงสร้างทางไวยากรณ์หรือสามารถเป็นโทเค็นที่มีการบันทึกซึ่งให้ข้อมูลที่จำเป็น
+[รูปแบบไบนารี](https://learn.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) กำหนดรูปแบบ DirectX X เป็นการแสดงโทเค็นของรูปแบบข้อความ โทเค็นเหล่านี้สามารถเป็นแบบสแตนด์อโลนเพื่อให้มีโครงสร้างทางไวยากรณ์หรือสามารถเป็นโทเค็นที่มีการบันทึกซึ่งให้ข้อมูลที่จำเป็น
 
 #### หัวข้อ
 
@@ -84,6 +84,6 @@
 
 ## อ้างอิง
 
-* [X Files Legacy](https://docs.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
-* [การอ้างอิงรูปแบบไฟล์ DirectX 9](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
+* [X Files Legacy](https://learn.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
+* [การอ้างอิงรูปแบบไฟล์ DirectX 9](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
 

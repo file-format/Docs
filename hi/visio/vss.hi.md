@@ -32,6 +32,6 @@ VSSX के विपरीत, जो कि Office Open XML फ़ाइल �
 
 ## संदर्भ ##
 
-* [Visio फाइल फॉर्मेट का परिचय](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
-* [स्कीमा मैप - Visio XML](https://docs.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
+* [Visio फाइल फॉर्मेट का परिचय](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [स्कीमा मैप - Visio XML](https://learn.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
 

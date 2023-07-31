@@ -38,5 +38,5 @@ Varje Visio-fil kallas paket som innehåller andra filer eller delar. En paketde
 
 ## Referenser ##
 
-* [Introduktion till Visio-filformat](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Introduktion till Visio-filformat](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

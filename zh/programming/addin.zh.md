@@ -23,11 +23,11 @@
 
 ## ADDIN 文件格式 - 更多信息
 
-ADDIN 文件以人类可读的 XML 文件格式保存到光盘中。它可以在流行的文本编辑器中打开，包括 Notepad、Notepad++、Microsoft Visual Studio IDE 等。 Microsoft 已定义 Office Add 的 [XML 清单文件](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) -in 描述了在安装外接程序并与 Office 文档和应用程序一起使用后应如何激活它。
+ADDIN 文件以人类可读的 XML 文件格式保存到光盘中。它可以在流行的文本编辑器中打开，包括 Notepad、Notepad++、Microsoft Visual Studio IDE 等。 Microsoft 已定义 Office Add 的 [XML 清单文件](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) -in 描述了在安装外接程序并与 Office 文档和应用程序一起使用后应如何激活它。
 
-**另请参阅：** [如何使用 Visual C# .NET 构建 Office COM 加载项](https://docs.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
+**另请参阅：** [如何使用 Visual C# .NET 构建 Office COM 加载项](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
 
 ## 参考
 
-* [Office 加载项 XML 清单](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1)
+* [Office 加载项 XML 清单](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1)
 

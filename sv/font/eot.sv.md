@@ -19,7 +19,7 @@
 
 ## Vad är en EOT fil?
 
-En fil med filtillägget .eot är ett OpenType-teckensnitt som är inbäddat i ett dokument. Dessa används mest i webbfiler såsom en webbsida. Den skapades av Microsoft och stöds av Microsoft-produkter inklusive PowerPoint-presentationsfilen [.pps](/sv/presentation/pps). Filen är inte av primär användning och är ett slags medföljande dokument med huvuddokumentet eller webbsidan. I likhet med OTF-teckensnitt stöder EOT både Postscript- och TrueType-konturer för glyferna. EOT-filer är mindre i storlek av den anledningen att de komprimeras med LZ-komprimering. EOT använder ett Microsoft-verktyg för att skapa ett typsnitt från befintliga TTF/OTF-teckensnitt.
+En fil med filtillägget .eot är ett OpenType-teckensnitt som är inbäddat i ett dokument. Dessa används mest i webbfiler såsom en webbsida. Den skapades av Microsoft och stöds av Microsoft-produkter inklusive PowerPoint-presentationsfilen [.pps](/sv/presentation/pps/). Filen är inte av primär användning och är ett slags medföljande dokument med huvuddokumentet eller webbsidan. I likhet med OTF-teckensnitt stöder EOT både Postscript- och TrueType-konturer för glyferna. EOT-filer är mindre i storlek av den anledningen att de komprimeras med LZ-komprimering. EOT använder ett Microsoft-verktyg för att skapa ett typsnitt från befintliga TTF/OTF-teckensnitt.
 
 ## Kortfattad bakgrund
 

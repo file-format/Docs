@@ -18,7 +18,7 @@
 
 ## Apa itu file FZPZ?
 
-File FZPZ adalah komponen/bagian yang digunakan dalam desain sirkuit elektronik yang dibuat dengan aplikasi desain dan prototipe sirkuit **Fritzing**. Ini adalah arsip terkompresi yang berisi file [FZP](/id/cad/fzp/) dan empat gambar [SVG](/id/image/svg/) yang menjelaskan keseluruhan bagian dalam Fritzing. Keuntungan menggunakan file ini adalah pengguna dapat membagikan file FZPZ mereka dengan masing-masing file dari sudut pandang yang dapat digunakan kembali. Berbagi bagian FZPZ membantu dalam mengintegrasikan bagian sirkuit untuk membuat desain PCB yang lebih besar dengan cepat.
+File FZPZ adalah komponen/bagian yang digunakan dalam desain sirkuit elektronik yang dibuat dengan aplikasi desain dan prototipe sirkuit **Fritzing**. Ini adalah arsip terkompresi yang berisi file [FZP](/id/cad/fzp/) dan empat gambar [SVG](/id/page-description-language/svg/) yang menjelaskan keseluruhan bagian dalam Fritzing. Keuntungan menggunakan file ini adalah pengguna dapat membagikan file FZPZ mereka dengan masing-masing file dari sudut pandang yang dapat digunakan kembali. Berbagi bagian FZPZ membantu dalam mengintegrasikan bagian sirkuit untuk membuat desain PCB yang lebih besar dengan cepat.
 
 ## Format File FZPZ - Informasi Lebih Lanjut
 

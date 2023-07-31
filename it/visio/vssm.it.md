@@ -38,5 +38,5 @@ Ogni file di Visio è definito come pacchetto che contiene altri file o parti. U
 
 ## Riferimenti ##
 
-* [Introduzione al formato file di Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Introduzione al formato file di Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

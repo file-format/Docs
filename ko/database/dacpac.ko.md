@@ -53,7 +53,7 @@ DACPAC에는 DATA 및 기타 서버 수준 개체가 포함되어 있지 않습�
 
 ## 참고문헌
 
-* [데이터 계층 응용 프로그램 - 이점](https://docs.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
-* [데이터 계층 애플리케이션 배포 - Microsoft](https://docs.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
+* [데이터 계층 응용 프로그램 - 이점](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
+* [데이터 계층 애플리케이션 배포 - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
 * [DACPAC 파일 생성은 어떻게 하나요?](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
 

@@ -54,6 +54,6 @@ Ezzel a fejléccel az előfeldolgozó ellenőrzi, hogy az `ANY_UNIQUE_NAME_HERE_
 
 ## Hivatkozások
 
-* [Header Filers – Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [Header Filers – Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 * [Különbség a .h és a .hh fájlformátumok között](https://stackoverflow.com/questions/10354321/c-reason-why-using-hh-as-extension-for-c-header-files)
 

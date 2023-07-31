@@ -23,7 +23,7 @@ DOCX là một định dạng nổi tiếng cho các tài liệu Microsoft Word.
 
 ## Lược Sử ##
 
-Sau khi Microsoft mở các thông số kỹ thuật cho định dạng tệp DOC, các đối thủ cạnh tranh của nó đã dễ dàng thiết kế ngược định dạng này và cung cấp hỗ trợ tương tự trong các ứng dụng của riêng họ. Ngoài ra, sự cạnh tranh từ Open Office dưới dạng Định dạng Tài liệu Mở của nó đã buộc Microsoft phải áp dụng các tiêu chuẩn mở và rộng rãi hơn. Đó là vào đầu năm 2000 khi Microsoft quyết định thực hiện thay đổi để phù hợp với tiêu chuẩn cho **Office Open XML**. Các tài liệu theo Tiêu chuẩn mới này đã được cung cấp [phần mở rộng .docx](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), chữ "X" dành cho XML. Đến năm 2007, định dạng tệp mới này đã trở thành một phần của Office 2007 và cũng được đưa vào các phiên bản mới của Microsoft Office. Loại tệp mới có thêm lợi thế về kích thước tệp nhỏ, ít thay đổi về hỏng hóc hơn và thể hiện hình ảnh được định dạng tốt.
+Sau khi Microsoft mở các thông số kỹ thuật cho định dạng tệp DOC, các đối thủ cạnh tranh của nó đã dễ dàng thiết kế ngược định dạng này và cung cấp hỗ trợ tương tự trong các ứng dụng của riêng họ. Ngoài ra, sự cạnh tranh từ Open Office dưới dạng Định dạng Tài liệu Mở của nó đã buộc Microsoft phải áp dụng các tiêu chuẩn mở và rộng rãi hơn. Đó là vào đầu năm 2000 khi Microsoft quyết định thực hiện thay đổi để phù hợp với tiêu chuẩn cho **Office Open XML**. Các tài liệu theo Tiêu chuẩn mới này đã được cung cấp [phần mở rộng .docx](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), chữ "X" dành cho XML. Đến năm 2007, định dạng tệp mới này đã trở thành một phần của Office 2007 và cũng được đưa vào các phiên bản mới của Microsoft Office. Loại tệp mới có thêm lợi thế về kích thước tệp nhỏ, ít thay đổi về hỏng hóc hơn và thể hiện hình ảnh được định dạng tốt.
 
 ## Thông số kỹ thuật định dạng tệp DOCX - Thông tin thêm
 
@@ -105,6 +105,6 @@ Một đoạn văn là chủ sở hữu nội dung chính trong một tài liệ
 
 ## Người giới thiệu ##
 
-* [Định dạng tệp MS - DOCX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
+* [Định dạng tệp MS - DOCX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
 * [Office Open XML](http://officeopenxml.com/)
 

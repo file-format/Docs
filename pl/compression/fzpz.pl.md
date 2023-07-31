@@ -18,7 +18,7 @@
 
 ## Czym jest plik FZPZ?
 
-Plik FZPZ to komponent/część używana w projektowaniu obwodów elektronicznych utworzonych za pomocą aplikacji do prototypowania obwodów i projektowania **Fritzing**. Jest to skompresowane archiwum zawierające plik [FZP](/pl/cad/fzp/) i cztery obrazy [SVG](/pl/image/svg/) opisujące całość we Fritzing. Zaletą korzystania z tych plików jest to, że użytkownicy mogą udostępniać swoje pliki FZPZ każdemu z punktu widzenia ponownego użycia. Udostępnianie części FZPZ pomaga w integracji części obwodów w celu szybkiego tworzenia większych projektów PCB.
+Plik FZPZ to komponent/część używana w projektowaniu obwodów elektronicznych utworzonych za pomocą aplikacji do prototypowania obwodów i projektowania **Fritzing**. Jest to skompresowane archiwum zawierające plik [FZP](/pl/cad/fzp/) i cztery obrazy [SVG](/pl/page-description-language/svg/) opisujące całość we Fritzing. Zaletą korzystania z tych plików jest to, że użytkownicy mogą udostępniać swoje pliki FZPZ każdemu z punktu widzenia ponownego użycia. Udostępnianie części FZPZ pomaga w integracji części obwodów w celu szybkiego tworzenia większych projektów PCB.
 
 ## Format pliku FZPZ — więcej informacji
 

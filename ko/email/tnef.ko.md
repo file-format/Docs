@@ -53,6 +53,6 @@ TNEF의 데이터 스트림은 레거시 버전 번호, 서명, 기본 키 값 �
 ## 참고문헌
 
 * [전송 중립 캡슐화 형식](https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
-* [Exchange Server의 이메일 주소 및 주소록](https://docs.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
+* [Exchange Server의 이메일 주소 및 주소록](https://learn.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
 * [[MS-OXTNEF]: TNEF(Transport Neutral Encapsulation Format) 데이터 알고리즘](https://msdn.microsoft.com/en-us/library/cc425498(v#exchg.80).aspx)
 

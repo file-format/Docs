@@ -27,5 +27,5 @@
 
 ## הפניות
 
-* [סוגי חבילות אפליקציות](https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
+* [סוגי חבילות אפליקציות](https://learn.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
 

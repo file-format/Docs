@@ -27,4 +27,4 @@ XPR files were identified to benefit a vulnerability in Microsoft Expression Des
 
 ## References
 
-* [Vulnerability in Expression Design Could Allow Remote Code Execution (2651018)](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
+* [Vulnerability in Expression Design Could Allow Remote Code Execution (2651018)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)

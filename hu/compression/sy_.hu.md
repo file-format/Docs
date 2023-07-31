@@ -38,5 +38,5 @@ A SY_ fájlok hasonlóak az EX_ és DL_ fájlokhoz.
 ## Hivatkozások
 
 * [StuffIt – a Wikipédia által](https://en.wikipedia.org/wiki/StuffIt)
-* [Microsoft Expand](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
+* [Microsoft Expand](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
 

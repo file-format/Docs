@@ -23,7 +23,7 @@
 
 ## सीएफएफ फ़ाइल प्रारूप
 
-CFF फाइलें बाइनरी फाइलें होती हैं जिनमें एक संरचित डेटा लेआउट होता है, जिसमें डेटा प्रकार, एक हेडर, ग्लिफ़ संगठन और टेबल डिक्शनरी परिभाषित होते हैं। इनके बारे में अधिक विवरण [कॉम्पैक्ट फ़ॉन्ट प्रारूप विनिर्देशों](https://docs.microsoft.com/en-us/typography/opentype/spec/cff) में पाया जा सकता है।
+CFF फाइलें बाइनरी फाइलें होती हैं जिनमें एक संरचित डेटा लेआउट होता है, जिसमें डेटा प्रकार, एक हेडर, ग्लिफ़ संगठन और टेबल डिक्शनरी परिभाषित होते हैं। इनके बारे में अधिक विवरण [कॉम्पैक्ट फ़ॉन्ट प्रारूप विनिर्देशों](https://learn.microsoft.com/en-us/typography/opentype/spec/cff) में पाया जा सकता है।
 
 ### डेटा लेआउट
 CFF फ़ाइल स्वरूप का डेटा लेआउट नीचे दिखाया गया है।
@@ -68,7 +68,7 @@ CFF डेटा प्रकार निम्न तालिका में
 
 ## संदर्भ
 
-* [कॉम्पैक्ट फ़ॉन्ट प्रारूप तालिका](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+* [कॉम्पैक्ट फ़ॉन्ट प्रारूप तालिका](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
 * [सीएफएफ फ़ाइल प्रारूप](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
-* [CFF2 चार्टसेट](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+* [CFF2 चार्टसेट](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

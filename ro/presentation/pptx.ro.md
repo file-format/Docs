@@ -27,7 +27,7 @@ Formatul de fișier PPTX a fost introdus în 2007 și folosește standardul Open
 
 ## Specificații de format de fișier PPTX
 
-Fișierele generate cu formatul de fișier Office Open XML sunt o colecție de fișiere XML împreună cu alte fișiere care oferă legături între toate fișierele constitutive. Această colecție este de fapt o arhivă comprimată care poate fi extrasă pentru a-și vizualiza conținutul. Pentru a face acest lucru, trebuie doar să redenumiți extensia de fișier PPTX cu zip și să o extrageți pentru a-i observa conținutul (consultați [Specificațiile formatului fișierului PPTX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/) efd8bb2d-d888-4e2e-af25-cad476730c9f) de la Microsoft).
+Fișierele generate cu formatul de fișier Office Open XML sunt o colecție de fișiere XML împreună cu alte fișiere care oferă legături între toate fișierele constitutive. Această colecție este de fapt o arhivă comprimată care poate fi extrasă pentru a-și vizualiza conținutul. Pentru a face acest lucru, trebuie doar să redenumiți extensia de fișier PPTX cu zip și să o extrageți pentru a-i observa conținutul (consultați [Specificațiile formatului fișierului PPTX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/) efd8bb2d-d888-4e2e-af25-cad476730c9f) de la Microsoft).
 
 Următoarele secțiuni aruncă puțină lumină asupra fiecăruia dintre acestea.
 
@@ -90,6 +90,6 @@ Acesta este folderul principal care conține toate detaliile despre conținutul 
 
 ## Referințe ##
 
-* [[MS-PPTX] - Format fișier PPTX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
+* [[MS-PPTX] - Format fișier PPTX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
 

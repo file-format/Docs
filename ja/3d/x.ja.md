@@ -25,13 +25,13 @@ Microsoft DirectX および一般的なテキスト エディタを使用して�
 
 ## X ファイル形式
 
-[X ファイル リファレンス](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) には、使用される API 要素のリファレンス情報が含まれています。 DirectX .x ファイルを操作します。この形式は、データ テンプレートを介して高レベルのプリミティブを定義するために他のアプリケーションで使用される低レベルのデータ プリミティブを提供します。 DirectX 6.0 では、.x ファイルの読み取りと書き込みを可能にするインターフェイスとメソッドが導入されました。 DirectX 3.0 では、このファイル形式のバイナリ バージョンが導入されました。
+[X ファイル リファレンス](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) には、使用される API 要素のリファレンス情報が含まれています。 DirectX .x ファイルを操作します。この形式は、データ テンプレートを介して高レベルのプリミティブを定義するために他のアプリケーションで使用される低レベルのデータ プリミティブを提供します。 DirectX 6.0 では、.x ファイルの読み取りと書き込みを可能にするインターフェイスとメソッドが導入されました。 DirectX 3.0 では、このファイル形式のバイナリ バージョンが導入されました。
 
-DirectX 9 で定義されている [X ファイル フォーマット リファレンス](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) には、.x のリファレンス情報が含まれています。バイナリおよびテキストエンコーディングのファイル。
+DirectX 9 で定義されている [X ファイル フォーマット リファレンス](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) には、.x のリファレンス情報が含まれています。バイナリおよびテキストエンコーディングのファイル。
 
 ### バイナリエンコーディング
 
-[バイナリ形式](https://docs.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) は、テキスト形式のトークン化された表現として DirectX X 形式を定義します。これらのトークンは、文法構造を与えるためにスタンドアロンにすることも、必要なデータを提供する記録保持トークンにすることもできます。
+[バイナリ形式](https://learn.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) は、テキスト形式のトークン化された表現として DirectX X 形式を定義します。これらのトークンは、文法構造を与えるためにスタンドアロンにすることも、必要なデータを提供する記録保持トークンにすることもできます。
 
 #### ヘッダー
 
@@ -84,6 +84,6 @@ DirectX .x ファイルは、ファイルの使用方法に依存せず、どの
 
 ## 参考文献
 
-* [X ファイル レガシー](https://docs.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
-* [DirectX 9 ファイル フォーマット リファレンス](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
+* [X ファイル レガシー](https://learn.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
+* [DirectX 9 ファイル フォーマット リファレンス](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
 

@@ -19,7 +19,7 @@
 
 ## 什么是一 .dotx 文件？
 
-带有 DOTX 扩展名的文件是由 Microsoft Word 创建的模板文件，具有用于生成更多 [DOCX](/zh/Word%20Processing/DOCX/) 文件的预格式化设置。创建一个模板文件是为了具有应该应用于从这些创建的后续苍蝇的特定用户设置。这些设置包括页边距、边框、页眉、页脚和其他页面设置。此类模板用于公司信头和标准化表格等官方文件。
+带有 DOTX 扩展名的文件是由 Microsoft Word 创建的模板文件，具有用于生成更多 [DOCX](/zh/word-processing/docx/) 文件的预格式化设置。创建一个模板文件是为了具有应该应用于从这些创建的后续苍蝇的特定用户设置。这些设置包括页边距、边框、页眉、页脚和其他页面设置。此类模板用于公司信头和标准化表格等官方文件。
 
 DOTX 文件格式是随 Microsoft Office 2007 的发布而引入的，以取代二进制 [DOT](/zh/word-processing/dot/) 文件格式，但更高版本也支持。 Microsoft Word 默认打开基于 normal.dot 文件的每个新文档。如果修改，所有创建的新文件将产生与模板文件相同的设置。在 Microsoft Word 2007 中，DOT 文件格式已替换为基于 Office OpenXML 的 DOTX 文件格式。
 

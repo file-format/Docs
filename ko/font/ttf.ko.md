@@ -90,5 +90,5 @@ TrueType 글꼴의 첫 번째 테이블은 다른 테이블의 데이터에 액�
 
 ## 참고문헌
 * [트루타입 폰트 레퍼런스 매뉴얼](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [트루타입 개요](https://docs.microsoft.com/en-us/typography/truetype/)
+* [트루타입 개요](https://learn.microsoft.com/en-us/typography/truetype/)
 

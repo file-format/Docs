@@ -19,7 +19,7 @@
 
 ## Tệp DOCM là gì?
 
-Các tệp DOCM là các tài liệu được tạo từ Microsoft Word 2007 trở lên với khả năng chạy macro. Nó tương tự như định dạng tệp [DOCX](https://docs.fileformat.com/Word%20Processing/DOCX/) nhưng khả năng chạy macro làm cho nó khác với DOCX. Giống như DOCX, các tệp DOCM có thể lưu trữ văn bản, hình ảnh, bảng, hình dạng, biểu đồ và các nội dung khác. Khả năng chạy macro giúp dễ dàng tiết kiệm thời gian bằng cách thực hiện một loạt lệnh dưới dạng hành động được ghi lại để tự động hoàn thành tác vụ . Các tệp DOCM có thể được mở và chỉnh sửa trong Microsoft Word 2007 trở lên.
+Các tệp DOCM là các tài liệu được tạo từ Microsoft Word 2007 trở lên với khả năng chạy macro. Nó tương tự như định dạng tệp [DOCX](https://docs.fileformat.com/word-processing/docx/) nhưng khả năng chạy macro làm cho nó khác với DOCX. Giống như DOCX, các tệp DOCM có thể lưu trữ văn bản, hình ảnh, bảng, hình dạng, biểu đồ và các nội dung khác. Khả năng chạy macro giúp dễ dàng tiết kiệm thời gian bằng cách thực hiện một loạt lệnh dưới dạng hành động được ghi lại để tự động hoàn thành tác vụ . Các tệp DOCM có thể được mở và chỉnh sửa trong Microsoft Word 2007 trở lên.
 
 ## Tóm tắt lịch sử
 

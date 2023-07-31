@@ -66,4 +66,4 @@ End Code
 
 ## References
 
-* [Razor Syntax Reference - Microsoft](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0)
+* [Razor Syntax Reference - Microsoft](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0)

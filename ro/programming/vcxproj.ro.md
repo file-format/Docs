@@ -47,7 +47,7 @@ Conținutul unui exemplu de fișier VCXPROJ este după cum urmează.
 ```
 ### Elementele fișierului VCXPROJ
 
-Un fișier VCXPROJ tipic conține un număr de elemente, așa cum se poate vedea în exemplul XML de mai sus. [Structura VCXPROJ](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) de la Microsoft explică fiecare element de fișier în detaliu și poate fi referit din perspectiva dezvoltatorului.
+Un fișier VCXPROJ tipic conține un număr de elemente, așa cum se poate vedea în exemplul XML de mai sus. [Structura VCXPROJ](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) de la Microsoft explică fiecare element de fișier în detaliu și poate fi referit din perspectiva dezvoltatorului.
 
 #### Element de proiect
 
@@ -72,6 +72,6 @@ Această secțiune conține setări care oferă informații la nivel de proiect,
 
 ## Referințe
 
-* [VCXPROJ Structure - MSDN](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
-* [Fișiere de proiect C++](https://docs.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
+* [VCXPROJ Structure - MSDN](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
+* [Fișiere de proiect C++](https://learn.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
 

@@ -56,7 +56,7 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Μορφές αρχείων πόρων](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
+* [Μορφές αρχείων πόρων](https://learn.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
 
 

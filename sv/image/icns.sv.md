@@ -19,7 +19,7 @@
 
 ## Vad är en ICNS fil? ##
 
-Ett ikonformat som används av macOS-program kallas en ICNS-fil. Den tillåter 1-bitars och 8-bitars alfaband och sparar en eller flera bilder, vanligtvis gjorda av [PNG](/sv/image/png)-dokument. Programikonen i macOS-webbläsaren och gränssnittet visas med ICNS-filer.
+Ett ikonformat som används av macOS-program kallas en ICNS-fil. Den tillåter 1-bitars och 8-bitars alfaband och sparar en eller flera bilder, vanligtvis gjorda av [PNG](/sv/image/png/)-dokument. Programikonen i macOS-webbläsaren och gränssnittet visas med ICNS-filer.
 
 Baserat på platsen kan samma stilikon ha flera inställningar. ICNS-formatet har genomgått många förändringar och har utvecklats till den punkt där det nu kan användas som grund för olika kompatibla format. Här är några andra viktiga punkter du behöver veta:
 
@@ -31,7 +31,7 @@ Baserat på platsen kan samma stilikon ha flera inställningar. ICNS-formatet ha
 ## ICNS filformat ##
 
 ICNS-dataformatet är en kapsel för en eller flera bilder, som stöder 1-bitars band och många bildtillstånd.
-Operativsystemet kan ändra storlek på ikonbilder för att passa den önskade skärmstorleken. De större ikonbilderna sparas vanligtvis som [JPEG](/sv/image/jpeg/) 2000- eller [PNG](/sv/image/png)-filer. En typ av både komprimerade och okomprimerade ICNS-filer är möjlig.
+Operativsystemet kan ändra storlek på ikonbilder för att passa den önskade skärmstorleken. De större ikonbilderna sparas vanligtvis som [JPEG](/sv/image/jpeg/) 2000- eller [PNG](/sv/image/png/)-filer. En typ av både komprimerade och okomprimerade ICNS-filer är möjlig.
 
 En rubrik och binära ikondata utgör strukturen för en ICNS-fil. Rubriken innehåller 8 byte med data, varav fyra är den magiska bokstaven och fyra av dem är filens längd. Typen och storleken för varje ikonbild lagras i ikondatasektionen, som följs av binära bilddata. Bildstorleken bestämmer den binära sektionens storlek.
 

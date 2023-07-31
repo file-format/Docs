@@ -28,5 +28,5 @@ Az APPXBUNDLE fájlokat ZIP fájlformátumban teszik közzé. Ha meg szeretné t
 ## Hivatkozások
 
 * [Függőségi csomagok .appx és .appxbundle csomagokhoz](https://www.ibm.com/docs/en/maas360?topic=catalog-dependency-packages-appx-appxbundle-packages)
-* [APPX-fájlok létrehozása a Microsoft Visual Studio segítségével](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [APPX-fájlok létrehozása a Microsoft Visual Studio segítségével](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

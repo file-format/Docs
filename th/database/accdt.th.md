@@ -57,5 +57,5 @@
 
 ## อ้างอิง ##
 
-* [รูปแบบไฟล์เทมเพลตการเข้าถึง](https://docs.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
+* [รูปแบบไฟล์เทมเพลตการเข้าถึง](https://learn.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
 

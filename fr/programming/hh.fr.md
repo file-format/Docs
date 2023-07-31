@@ -54,6 +54,6 @@ Avec cet en-tête, le préprocesseur vérifie si le `ANY_UNIQUE_NAME_HERE_HPP` a
 
 ## Références
 
-* [Fichiers d'en-tête - Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [Fichiers d'en-tête - Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 * [Différence entre les formats de fichiers .h et .hh](https://stackoverflow.com/questions/10354321/c-reason-why-using-hh-as-extension-for-c-header-files)
 

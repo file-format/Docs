@@ -90,5 +90,5 @@ Varje tabell i en teckensnittsfil måste ha sin egen tabellkatalogpost. Poster i
 
 ## Referenser
 * [TrueType Font Reference Manual](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [TrueType-översikt](https://docs.microsoft.com/en-us/typography/truetype/)
+* [TrueType-översikt](https://learn.microsoft.com/en-us/typography/truetype/)
 

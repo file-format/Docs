@@ -23,7 +23,7 @@ DOCX este un format binecunoscut pentru documentele Microsoft Word. Introdusă d
 
 ## Scurt istoric ##
 
-După ce Microsoft a deschis specificațiile pentru formatul de fișier DOC, a fost ușor pentru concurenții săi să facă inginerie inversă a formatului și să ofere același suport în propriile aplicații. În plus, concurența de la Open Office sub forma sa Open Document Format, a obligat Microsoft să adopte standarde mai deschise și mai ample. A fost la începutul anului 2000 când Microsoft a decis să opteze pentru modificarea pentru a se adapta standardului pentru **Office Open XML**. Documentele conform acestui nou standard au primit [extensia .docx](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), „X” fiind pentru XML. Până în 2007, acest nou format de fișier a devenit parte a Office 2007 și este continuat și în noile versiuni ale Microsoft Office. Noul tip de fișier a adăugat avantaje de dimensiuni mici ale fișierelor, mai puține modificări ale corupției și reprezentarea imaginilor bine formatate.
+După ce Microsoft a deschis specificațiile pentru formatul de fișier DOC, a fost ușor pentru concurenții săi să facă inginerie inversă a formatului și să ofere același suport în propriile aplicații. În plus, concurența de la Open Office sub forma sa Open Document Format, a obligat Microsoft să adopte standarde mai deschise și mai ample. A fost la începutul anului 2000 când Microsoft a decis să opteze pentru modificarea pentru a se adapta standardului pentru **Office Open XML**. Documentele conform acestui nou standard au primit [extensia .docx](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), „X” fiind pentru XML. Până în 2007, acest nou format de fișier a devenit parte a Office 2007 și este continuat și în noile versiuni ale Microsoft Office. Noul tip de fișier a adăugat avantaje de dimensiuni mici ale fișierelor, mai puține modificări ale corupției și reprezentarea imaginilor bine formatate.
 
 ## Specificații format fișier DOCX - Mai multe informații
 
@@ -105,6 +105,6 @@ Un paragraf este principalul deținător de conținut al unui document. Este rep
 
 ## Referințe ##
 
-* [MS - Format de fișier DOCX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
+* [MS - Format de fișier DOCX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
 * [Office Open XML](http://officeopenxml.com/)
 

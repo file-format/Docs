@@ -32,5 +32,5 @@ HDMP הם קבצי dump של זיכרון לא דחוסים. לעומת זאת, 
 
 ## התייחסות ##
 
-* [DMP - Microsoft](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
+* [DMP - Microsoft](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
 

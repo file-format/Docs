@@ -22,7 +22,7 @@ File FZP adalah file XML yang dibuat oleh aplikasi desain dan prototipe sirkuit 
 
 ## Format File FZP - Informasi Lebih Lanjut
 
-File FZP adalah file XML yang berisi informasi tentang properti, konektor, dan bus bagian. Selain itu, file FZP juga berisi informasi tentang judul, deskripsi, penulis, dan tanggal penerbitan file FZP. Saat file komponen Fritzing diekspor, aplikasi Fritzing membuat arsip terkompresi [FZPZ](/id/compression/fzpz/) yang berisi file FZP dan empat file [SVG](/id/image/svg/).
+File FZP adalah file XML yang berisi informasi tentang properti, konektor, dan bus bagian. Selain itu, file FZP juga berisi informasi tentang judul, deskripsi, penulis, dan tanggal penerbitan file FZP. Saat file komponen Fritzing diekspor, aplikasi Fritzing membuat arsip terkompresi [FZPZ](/id/compression/fzpz/) yang berisi file FZP dan empat file [SVG](/id/page-description-language/svg/).
 
 [Spesifikasi format file FZP](https://github.com/fritzing/fzp/blob/master/docs/README.md) tersedia di Github oleh Fritzing.
 

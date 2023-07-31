@@ -54,6 +54,6 @@ HTML 帮助由几个组件组成。其中包括：
 
 ## 参考
 
-* [Microsoft HTML 帮助](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [Microsoft HTML 帮助](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 * [Microsoft 编译的 HTML 帮助](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 

@@ -24,5 +24,5 @@ ATT dosyası, bir kullanıcı formu bir web tarayıcısında kullanarak veri gö
 
 ## Referanslar
 
-* [Web Formları - Microsoft](https://docs.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
+* [Web Formları - Microsoft](https://learn.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
 

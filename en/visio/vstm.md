@@ -40,4 +40,4 @@ Relationship parts are XML documents that describe the relationships between dif
 
 ## References ##
 
-* [Introduction to Visio File Format](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Introduction to Visio File Format](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)

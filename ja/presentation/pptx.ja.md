@@ -27,7 +27,7 @@ PPTX ファイル形式は 2007 年に導入され、2000 年に Microsoft に�
 
 ## PPTX ファイル形式の仕様
 
-オフィス オープン XML ファイル形式で生成されたファイルは、すべての構成ファイル間のリンクを提供する他のファイルと共に XML ファイルのコレクションです。このコレクションは実際には圧縮されたアーカイブであり、解凍してその内容を表示できます。これを行うには、PPTX ファイル拡張子の名前を zip に変更し、内容を確認するために解凍します ([PPTX ファイル形式の仕様](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/ efd8bb2d-d888-4e2e-af25-cad476730c9f) (マイクロソフト)。
+オフィス オープン XML ファイル形式で生成されたファイルは、すべての構成ファイル間のリンクを提供する他のファイルと共に XML ファイルのコレクションです。このコレクションは実際には圧縮されたアーカイブであり、解凍してその内容を表示できます。これを行うには、PPTX ファイル拡張子の名前を zip に変更し、内容を確認するために解凍します ([PPTX ファイル形式の仕様](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/ efd8bb2d-d888-4e2e-af25-cad476730c9f) (マイクロソフト)。
 
 次のセクションでは、これらのそれぞれについて説明します。
 
@@ -90,6 +90,6 @@ r:id#"rId2" は、スライドの関係部分 (slide1.xml.rels) 内の次の関�
 
 ## 参照 ##
 
-* [[MS-PPTX] - PPTX ファイル形式](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
+* [[MS-PPTX] - PPTX ファイル形式](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
 * [オープン オフィス XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
 

@@ -36,11 +36,11 @@ APPX файловете се записват като компресирани 
 
 Има два метода, които могат да се използват за създаване на APPX файлове.
 
-1. Използване на MakeApp.exe - [MakeApp.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) се използва за създаване на двете пакети с приложения (.msix или .appx) и файлове с пакети с приложения .msixbundle или .appxbundle). Освен това може да извлича файлове от пакет на приложение. MakeApp.exe се предлага с Windows 10 SDK и може да се използва от командния ред.
-1. Използване на Microsoft Visual Studio – Разработчиците обикновено [създават APPX файлове](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) с помощта на Microsoft Visual Studio. След като разработката на приложението приключи и приложението е готово за публикуване, файлът на пакета APPX може да бъде създаден чрез публикуването му от Visual Studio.
+1. Използване на MakeApp.exe - [MakeApp.exe](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) се използва за създаване на двете пакети с приложения (.msix или .appx) и файлове с пакети с приложения .msixbundle или .appxbundle). Освен това може да извлича файлове от пакет на приложение. MakeApp.exe се предлага с Windows 10 SDK и може да се използва от командния ред.
+1. Използване на Microsoft Visual Studio – Разработчиците обикновено [създават APPX файлове](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) с помощта на Microsoft Visual Studio. След като разработката на приложението приключи и приложението е готово за публикуване, файлът на пакета APPX може да бъде създаден чрез публикуването му от Visual Studio.
 
 ## Препратки
 
-* [Създайте MSIX пакет или пакет с MakeAppx.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
-* [Създайте APPX файлове с помощта на Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Създайте MSIX пакет или пакет с MakeAppx.exe](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
+* [Създайте APPX файлове с помощта на Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

@@ -23,7 +23,7 @@ Een bestand met de extensie .cff is een Compact Font Format en wordt ook wel Pos
 
 ## CFF-bestandsindeling
 
-CFF-bestanden zijn binaire bestanden met een gestructureerde gegevenslay-out, gedefinieerde gegevenstypen, een koptekst, glyph-organisatie en tabelwoordenboeken. Meer details hierover zijn te vinden in de [specificaties voor compacte lettertypeformaten](https://docs.microsoft.com/en-us/typography/opentype/spec/cff).
+CFF-bestanden zijn binaire bestanden met een gestructureerde gegevenslay-out, gedefinieerde gegevenstypen, een koptekst, glyph-organisatie en tabelwoordenboeken. Meer details hierover zijn te vinden in de [specificaties voor compacte lettertypeformaten](https://learn.microsoft.com/en-us/typography/opentype/spec/cff).
 
 ### Gegevenslay-out
 De gegevenslay-out van het CFF-bestandsformaat is zoals hieronder weergegeven.
@@ -68,7 +68,7 @@ De binaire gegevens beginnen met een kop met het formaat dat in de volgende tabe
 
 ## Referenties
 
-* [Compacte lettertype-indelingstabel](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+* [Compacte lettertype-indelingstabel](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
 * [CFF-bestandsindeling](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
-* [CFF2-kaartenset](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+* [CFF2-kaartenset](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

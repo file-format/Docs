@@ -35,6 +35,6 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Επισκόπηση MSIX](https://docs.microsoft.com/en-us/windows/msix/overview)
-* [Δημιουργία αρχείων APPX χρησιμοποιώντας το Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Επισκόπηση MSIX](https://learn.microsoft.com/en-us/windows/msix/overview)
+* [Δημιουργία αρχείων APPX χρησιμοποιώντας το Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

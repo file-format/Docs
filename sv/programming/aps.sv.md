@@ -26,7 +26,7 @@ APS-filformatet är bara ett kompileringssteg och lagrar endast symbolisk data. 
 
 ## Referenser
 
-* [Resursfiler (C++)](https://docs.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
+* [Resursfiler (C++)](https://learn.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
  
 
 

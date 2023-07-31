@@ -32,5 +32,5 @@ Niektóre inne typy plików składające się na format pliku programu Visio 201
 
 ## Bibliografia ##
 
-* [Wprowadzenie do formatu plików programu Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Wprowadzenie do formatu plików programu Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

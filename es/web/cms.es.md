@@ -29,6 +29,6 @@ Los archivos CMS se guardan en formato web y estos incluyen varios tipos diferen
 
 ## Referencias
 
-* [Ayuda HTML de Microsoft](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [Ayuda HTML de Microsoft](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 * [Ayuda HTML compilada de Microsoft](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 

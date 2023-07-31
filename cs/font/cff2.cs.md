@@ -23,7 +23,7 @@ Formát souboru CFF2 je verze 2.0 formátu souboru CFF a umožňuje efektivní u
 
 ## Formát souboru CFF2
 
-[Specifikace formátu souboru CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2) obsahuje podrobnosti o vnitřním rozložení dat, datových typech, tabulkách a další interní informace o formátu souboru. Může být odkazováno pro vývojáře. Některé podrobnosti o nich jsou následující.
+[Specifikace formátu souboru CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2) obsahuje podrobnosti o vnitřním rozložení dat, datových typech, tabulkách a další interní informace o formátu souboru. Může být odkazováno pro vývojáře. Některé podrobnosti o nich jsou následující.
 
 ### Rozložení dat
 
@@ -81,5 +81,5 @@ Binární data začínají záhlavím ve formátu uvedeném v tabulce níže.
 
 ## Reference
 
-* [Formát souboru CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2)
+* [Formát souboru CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2)
 

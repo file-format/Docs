@@ -56,7 +56,7 @@ Modelul principal dintr-o resursă de versiune este **VS_FIXEDFILEINFO**. Modele
 
 ## Referințe
 
-* [Formate de fișiere de resurse](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
+* [Formate de fișiere de resurse](https://learn.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
 
 

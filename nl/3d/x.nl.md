@@ -25,13 +25,13 @@ U kunt DirectX X-bestanden openen met Microsoft DirectX en algemene teksteditors
 
 ## X-bestandsindeling
 
-De [X-bestandsreferentie](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) bevat referentie-informatie voor de API-elementen die worden gebruikt om werken met DirectX .x-bestanden. Het formaat biedt gegevensprimitieven op een laag niveau die door andere toepassingen worden gebruikt om primitieven op een hoger niveau te definiëren door middel van gegevenssjablonen. DirectX 6.0 introduceerde interfaces en methoden die het lezen van en schrijven naar .x-bestanden mogelijk maken. DirectX 3.0 heeft een binaire versie van dit bestandsformaat geïntroduceerd.
+De [X-bestandsreferentie](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) bevat referentie-informatie voor de API-elementen die worden gebruikt om werken met DirectX .x-bestanden. Het formaat biedt gegevensprimitieven op een laag niveau die door andere toepassingen worden gebruikt om primitieven op een hoger niveau te definiëren door middel van gegevenssjablonen. DirectX 6.0 introduceerde interfaces en methoden die het lezen van en schrijven naar .x-bestanden mogelijk maken. DirectX 3.0 heeft een binaire versie van dit bestandsformaat geïntroduceerd.
 
-De [X-bestandsindelingsreferentie](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) gedefinieerd door DirectX 9 bevat referentie-informatie voor .x bestanden in zowel binair als tekstcoderingen.
+De [X-bestandsindelingsreferentie](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) gedefinieerd door DirectX 9 bevat referentie-informatie voor .x bestanden in zowel binair als tekstcoderingen.
 
 ### Binaire codering
 
-Het [binaire formaat](https://docs.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) definieert het DirectX X-formaat als een tokenized representatie van het tekstformaat. Deze tokens kunnen op zichzelf staan om grammaticale structuur te geven of kunnen recorddragende tokens zijn die de nodige gegevens leveren.
+Het [binaire formaat](https://learn.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) definieert het DirectX X-formaat als een tokenized representatie van het tekstformaat. Deze tokens kunnen op zichzelf staan om grammaticale structuur te geven of kunnen recorddragende tokens zijn die de nodige gegevens leveren.
 
 #### Koptekst
 
@@ -84,6 +84,6 @@ De koptekst met variabele lengte is verplicht en moet aan het begin van de gegev
 
 ## Referenties
 
-* [X Files Legacy](https://docs.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
-* [DirectX 9-bestandsindelingreferentie](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
+* [X Files Legacy](https://learn.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
+* [DirectX 9-bestandsindelingreferentie](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
 

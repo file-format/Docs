@@ -56,7 +56,7 @@
 
 ## Препратки
 
-* [Ресурсни файлови формати](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
+* [Ресурсни файлови формати](https://learn.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
 
 

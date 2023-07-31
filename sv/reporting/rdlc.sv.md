@@ -43,5 +43,5 @@ Du kan bara förhandsgranska en rapport genom att köra den i en **ReportViewer*
 
 ## Referenser ##
 
-- [Skapa klientrapportdefinitionsfiler (.rdlc)](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
+- [Skapa klientrapportdefinitionsfiler (.rdlc)](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
 

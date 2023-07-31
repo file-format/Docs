@@ -51,5 +51,5 @@ Windows שומרת רשימה של כל קבצי dump הזיכרון בתיקי�
 
 ## התייחסות
 
-* [כיצד לקרוא את קובץ dump הזיכרון הקטן שנוצר על ידי Windows אם מתרחשת קריסה](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -קוֹבֶץ)
+* [כיצד לקרוא את קובץ dump הזיכרון הקטן שנוצר על ידי Windows אם מתרחשת קריסה](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -קוֹבֶץ)
 

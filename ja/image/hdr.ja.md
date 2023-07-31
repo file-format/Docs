@@ -37,7 +37,7 @@ HDR イメージ ファイルは、次の 3 つのセクションで構成され
 ## オープンソースの HDR/HDRI API
 
 * **[imageinfo](https://github.com/xiaozhuai/imageinfo )** - クロス プラットフォームの超高速シングル ヘッダー [C++](/programming/cpp/) ライブラリを使用して、ロード/デコードせずに画像のサイズと形式を取得します。
-* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - ロード/デコードせずに画像サイズとフォーマットを取得する Rust ライブラリ。 [.avif](/image/avif/)、[.bmp](/image/bmp)、[.cur](/image/cur/)、[.dds](/image/dds/)、[. gif](/image/gif/), hdr (写真), [heic (heif)](/image/heic/), [.icns](/image/icns/), [.ico](/image/ico /)、[.jp2](/image/jp2/)、[jpeg (jpg)](/image/jpeg/)、[jpx](/image/jpx/)、ktx、[png](/image/png /)、[psd](/image/psd/)、qoi、tga、tiff (tif)、および webp。
+* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - ロード/デコードせずに画像サイズとフォーマットを取得する Rust ライブラリ。 [.avif](/image/avif/)、[.bmp](/image/bmp/)、[.cur](/image/cur/)、[.dds](/image/dds/)、[. gif](/image/gif/), hdr (写真), [heic (heif)](/image/heic/), [.icns](/image/icns/), [.ico](/image/ico /)、[.jp2](/image/jp2/)、[jpeg (jpg)](/image/jpeg/)、[jpx](/image/jpx/)、ktx、[png](/image/png /)、[psd](/image/psd/)、qoi、tga、tiff (tif)、および webp。
 * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** - HdrHistogram の Java 実装。
 
 ## 参考文献

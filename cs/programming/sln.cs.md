@@ -86,6 +86,6 @@ Na základě informací obsažených v části projektu souboru .sln prostředí
 
 ### **Reference** ###
 
-* [Soubor řešení – od MSDN](https://docs.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
+* [Soubor řešení – od MSDN](https://learn.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
 * [GUID typu projektu](https://www.codeproject.com/Reference/720512/List-of-Visual-Studio-Project-Type-GUIDs)
 

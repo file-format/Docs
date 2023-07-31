@@ -120,5 +120,5 @@ namespace N  // namespace declaration
 
 ## βιβλιογραφικές αναφορές
 
-* [Αρχεία κεφαλίδας - Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [Αρχεία κεφαλίδας - Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 

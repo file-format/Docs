@@ -24,5 +24,5 @@
 
 ## อ้างอิง
 
-* [เว็บฟอร์ม - Microsoft](https://docs.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
+* [เว็บฟอร์ม - Microsoft](https://learn.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
 

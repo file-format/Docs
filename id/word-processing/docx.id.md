@@ -23,7 +23,7 @@ DOCX adalah format terkenal untuk dokumen Microsoft Word. Diperkenalkan dari tah
 
 ## Sejarah Singkat ##
 
-Setelah Microsoft membuka spesifikasi untuk format file DOC, mudah bagi para pesaingnya untuk merekayasa balik format tersebut dan memberikan dukungan yang sama pada aplikasi mereka sendiri. Selain itu, persaingan dari Open Office dalam bentuk Open Document Format-nya, memaksa Microsoft mengadopsi standar yang lebih terbuka dan luas. Pada awal tahun 2000, Microsoft memutuskan untuk melakukan perubahan untuk mengakomodasi standar **Office Open XML**. Dokumen di bawah Standar baru ini diberikan [.docx extension](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), "X" menjadi untuk XML. Pada tahun 2007, format file baru ini menjadi bagian dari Office 2007 dan dijalankan di versi baru Microsoft Office juga. Jenis file baru telah menambahkan keunggulan ukuran file kecil, lebih sedikit perubahan korupsi dan representasi gambar yang diformat dengan baik.
+Setelah Microsoft membuka spesifikasi untuk format file DOC, mudah bagi para pesaingnya untuk merekayasa balik format tersebut dan memberikan dukungan yang sama pada aplikasi mereka sendiri. Selain itu, persaingan dari Open Office dalam bentuk Open Document Format-nya, memaksa Microsoft mengadopsi standar yang lebih terbuka dan luas. Pada awal tahun 2000, Microsoft memutuskan untuk melakukan perubahan untuk mengakomodasi standar **Office Open XML**. Dokumen di bawah Standar baru ini diberikan [.docx extension](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), "X" menjadi untuk XML. Pada tahun 2007, format file baru ini menjadi bagian dari Office 2007 dan dijalankan di versi baru Microsoft Office juga. Jenis file baru telah menambahkan keunggulan ukuran file kecil, lebih sedikit perubahan korupsi dan representasi gambar yang diformat dengan baik.
 
 ## Spesifikasi Format File DOCX - Informasi Lebih Lanjut
 
@@ -105,6 +105,6 @@ Sebuah paragraf adalah pemegang konten utama dalam sebuah dokumen. Diwakili oleh
 
 ## Referensi ##
 
-* [MS - Format File DOCX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
+* [MS - Format File DOCX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
 * [Office Open XML](http://officeopenxml.com/)
 

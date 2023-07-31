@@ -36,11 +36,11 @@ Om de inhoud of bestanden in een APPX-bestand te bekijken, moeten de volgende st
 
 Er zijn twee methoden die kunnen worden gebruikt om APPX-bestanden te maken.
 
-1. MakeApp.exe gebruiken - [MakeApp.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) wordt gebruikt om beide te maken app-pakketten (.msix of .appx) en app-pakketbundelbestanden .msixbundle of .appxbundle). Bovendien kan het bestanden uit een app-pakket extraheren. MakeApp.exe is beschikbaar met Windows 10 SDK en kan worden gebruikt vanaf de opdrachtprompt.
-1. Microsoft Visual Studio gebruiken - Ontwikkelaars [maken gewoonlijk APPX-bestanden](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) met Microsoft Visual Studio. Zodra de applicatie-ontwikkeling is voltooid en de app klaar is om te worden gepubliceerd, kan het APPX-pakketbestand worden gemaakt door het vanuit Visual Studio te publiceren.
+1. MakeApp.exe gebruiken - [MakeApp.exe](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) wordt gebruikt om beide te maken app-pakketten (.msix of .appx) en app-pakketbundelbestanden .msixbundle of .appxbundle). Bovendien kan het bestanden uit een app-pakket extraheren. MakeApp.exe is beschikbaar met Windows 10 SDK en kan worden gebruikt vanaf de opdrachtprompt.
+1. Microsoft Visual Studio gebruiken - Ontwikkelaars [maken gewoonlijk APPX-bestanden](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) met Microsoft Visual Studio. Zodra de applicatie-ontwikkeling is voltooid en de app klaar is om te worden gepubliceerd, kan het APPX-pakketbestand worden gemaakt door het vanuit Visual Studio te publiceren.
 
 ## Referenties
 
-* [Maak een MSIX-pakket of bundel met MakeAppx.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
-* [Maak APPX-bestanden met Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Maak een MSIX-pakket of bundel met MakeAppx.exe](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
+* [Maak APPX-bestanden met Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

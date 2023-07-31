@@ -38,5 +38,5 @@ SY_-Dateien ähneln EX_- und DL_-Dateien.
 ## Verweise
 
 * [StuffIt – Von Wikipedia](https://en.wikipedia.org/wiki/StuffIt)
-* [Microsoft Expand](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
+* [Microsoft Expand](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
 

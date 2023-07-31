@@ -24,7 +24,7 @@ File SYS adalah "File sistem" yang digunakan di OS Windows dan aplikasi MS-DOS. 
 
 ## Spesifikasi Teknis ##
 
-File .sys sebenarnya adalah subset dari format [BMP](/id/image/bmp) karena hanya memungkinkan kombinasi tertentu. Format biasa dari file-file ini adalah seperti LOGOS.SYS, LOGOW.SYS, dan LOGO.SYS. File lain tidak memiliki format ini.
+File .sys sebenarnya adalah subset dari format [BMP](/id/image/bmp/) karena hanya memungkinkan kombinasi tertentu. Format biasa dari file-file ini adalah seperti LOGOS.SYS, LOGOW.SYS, dan LOGO.SYS. File lain tidak memiliki format ini.
 
 File-file ini sebagian besar digunakan dalam direktori *C* Windows pada saat instalasi. Sebagian besar masalah seputar driver perangkat diselesaikan dengan memperbarui OS Windows. Detail dan informasi dari file-file ini dapat dilihat dengan menggunakan program bawaan OS Windows. Ini juga terdiri dari referensi ke berbagai modul dalam sistem operasi.
 Beberapa contoh file sistem adalah:

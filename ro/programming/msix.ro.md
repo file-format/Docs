@@ -35,6 +35,6 @@ Un pachet MSIX constă din următoarele fișiere.
 
 ## Referințe
 
-* [Prezentare generală MSIX](https://docs.microsoft.com/en-us/windows/msix/overview)
-* [Creați fișiere APPX utilizând Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Prezentare generală MSIX](https://learn.microsoft.com/en-us/windows/msix/overview)
+* [Creați fișiere APPX utilizând Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

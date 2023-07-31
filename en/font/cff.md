@@ -23,7 +23,7 @@ A file with .cff extension is a Compact Font Format and is also known as a PostS
 
 ## CFF File Format
 
-CFF files are binary files that contain a structured data layout, has defined data types, a header, glyph organization and table dictionaries. More details about these can be found in the [compact font format specifications](https://docs.microsoft.com/en-us/typography/opentype/spec/cff).
+CFF files are binary files that contain a structured data layout, has defined data types, a header, glyph organization and table dictionaries. More details about these can be found in the [compact font format specifications](https://learn.microsoft.com/en-us/typography/opentype/spec/cff).
 
 ### Data Layout
 The data layout of CFF file format is as shown below.
@@ -68,6 +68,6 @@ The binary data begins with a header having the format shown in the following ta
 
 ## References
 
- * [Compact Font Format Table](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+ * [Compact Font Format Table](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
  * [CFF File Format](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
- * [CFF2 Chartset](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+ * [CFF2 Chartset](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)

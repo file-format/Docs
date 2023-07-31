@@ -31,5 +31,5 @@ CMS 프로필 파일은 연결 관리자를 사용하여 생성되며 원격 사
 
 ## 참고문헌
 
-* [Windows 연결 관리자 이해 및 구성](https://docs.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
+* [Windows 연결 관리자 이해 및 구성](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
 

@@ -26,7 +26,7 @@ Formatul de fișier APS este doar un pas de compilare și stochează doar date s
 
 ## Referințe
 
-* [Fișiere de resurse (C++)](https://docs.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
+* [Fișiere de resurse (C++)](https://learn.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
  
 
 

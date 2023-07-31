@@ -19,7 +19,7 @@
 
 ## Czym jest plik DOTX?
 
-Pliki z rozszerzeniem DOTX to pliki szablonów utworzone przez program Microsoft Word w celu uzyskania wstępnie sformatowanych ustawień do generowania kolejnych plików [DOCX](/pl/Word%20Processing/DOCX/). Plik szablonu jest tworzony, aby mieć określone ustawienia użytkownika, które należy zastosować do kolejnych tworzonych z nich much. Te ustawienia obejmują marginesy strony, obramowania, nagłówki, stopki i inne ustawienia strony. Takie szablony są używane w oficjalnych dokumentach, takich jak firmowy papier firmowy i standardowe formularze.
+Pliki z rozszerzeniem DOTX to pliki szablonów utworzone przez program Microsoft Word w celu uzyskania wstępnie sformatowanych ustawień do generowania kolejnych plików [DOCX](/pl/word-processing/docx/). Plik szablonu jest tworzony, aby mieć określone ustawienia użytkownika, które należy zastosować do kolejnych tworzonych z nich much. Te ustawienia obejmują marginesy strony, obramowania, nagłówki, stopki i inne ustawienia strony. Takie szablony są używane w oficjalnych dokumentach, takich jak firmowy papier firmowy i standardowe formularze.
 
 Format pliku DOTX został wprowadzony wraz z wydaniem pakietu Microsoft Office 2007 w celu zastąpienia binarnego formatu pliku [DOT ](/pl/word-processing/dot/), ale jest również obsługiwany przez wyższe wersje. Microsoft Word domyślnie otwiera każdy nowy dokument na podstawie pliku normal.dot. W przypadku modyfikacji wszystkie nowo utworzone pliki będą miały takie same ustawienia jak w pliku szablonu. W programie Microsoft Word 2007 format pliku DOT został zastąpiony formatem pliku DOTX opartym na pakiecie Office OpenXML.
 

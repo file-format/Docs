@@ -36,11 +36,11 @@ Bir APPX dosyası içindeki içerikleri veya dosyaları görüntülemek için a�
 
 APPX dosyaları oluşturmak için kullanılabilecek iki yöntem vardır.
 
-1. MakeApp.exe'yi kullanma - [MakeApp.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) her ikisini de oluşturmak için kullanılır uygulama paketleri (.msix veya .appx) ve uygulama paketi paket dosyaları .msixbundle veya .appxbundle). Ayrıca, bir uygulama paketinden dosya ayıklayabilir. MakeApp.exe, Windows 10 SDK ile birlikte sunulur ve komut isteminden kullanılabilir.
-1. Microsoft Visual Studio'yu kullanma - Geliştiriciler genellikle Microsoft Visual Studio'yu kullanarak [APX dosyaları oluşturur](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview). Uygulama geliştirme tamamlandıktan ve uygulama yayınlanmaya hazır hale geldiğinde, Visual Studio içinden yayınlanarak APPX paket dosyası oluşturulabilir.
+1. MakeApp.exe'yi kullanma - [MakeApp.exe](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) her ikisini de oluşturmak için kullanılır uygulama paketleri (.msix veya .appx) ve uygulama paketi paket dosyaları .msixbundle veya .appxbundle). Ayrıca, bir uygulama paketinden dosya ayıklayabilir. MakeApp.exe, Windows 10 SDK ile birlikte sunulur ve komut isteminden kullanılabilir.
+1. Microsoft Visual Studio'yu kullanma - Geliştiriciler genellikle Microsoft Visual Studio'yu kullanarak [APX dosyaları oluşturur](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview). Uygulama geliştirme tamamlandıktan ve uygulama yayınlanmaya hazır hale geldiğinde, Visual Studio içinden yayınlanarak APPX paket dosyası oluşturulabilir.
 
 ## Referanslar
 
-* [MakeAppx.exe ile bir MSIX paketi veya paketi oluşturun](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
-* [Microsoft Visual Studio kullanarak APPX dosyaları oluşturun](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [MakeAppx.exe ile bir MSIX paketi veya paketi oluşturun](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
+* [Microsoft Visual Studio kullanarak APPX dosyaları oluşturun](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

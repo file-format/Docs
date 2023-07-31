@@ -18,7 +18,7 @@
 
 ## Bir FZPZ dosyası nedir?
 
-Bir FZPZ dosyası, devre prototipleme ve tasarım uygulaması **Fritzing** ile oluşturulan bir elektronik devre tasarımında kullanılan bir bileşen/parçadır. Bir [FZP](/tr/cad/fzp/) dosyası ve Fritzing'in genel bölümünü açıklayan dört [SVG](/tr/image/svg/) görüntüsü içeren sıkıştırılmış bir arşivdir. Bu dosyaları kullanmanın avantajı, kullanıcıların FZPZ dosyalarını yeniden kullanılabilirlik açısından birbirleriyle paylaşabilmeleridir. FZPZ parçalarının paylaşımı, daha büyük PCB tasarımlarını hızlı bir şekilde oluşturmak için devre parçalarının entegre edilmesine yardımcı olur.
+Bir FZPZ dosyası, devre prototipleme ve tasarım uygulaması **Fritzing** ile oluşturulan bir elektronik devre tasarımında kullanılan bir bileşen/parçadır. Bir [FZP](/tr/cad/fzp/) dosyası ve Fritzing'in genel bölümünü açıklayan dört [SVG](/tr/page-description-language/svg/) görüntüsü içeren sıkıştırılmış bir arşivdir. Bu dosyaları kullanmanın avantajı, kullanıcıların FZPZ dosyalarını yeniden kullanılabilirlik açısından birbirleriyle paylaşabilmeleridir. FZPZ parçalarının paylaşımı, daha büyük PCB tasarımlarını hızlı bir şekilde oluşturmak için devre parçalarının entegre edilmesine yardımcı olur.
 
 ## FZPZ Dosya Biçimi - Daha Fazla Bilgi
 

@@ -95,6 +95,6 @@ EMF dosya biçimi iki kez revize edilmiştir. Değiştirilen sürümler orijinal
 
 ## Referanslar ##
 
-* [Gelişmiş Biçimli Meta Dosyalar | Microsoft Belgeleri](https://docs.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
+* [Gelişmiş Biçimli Meta Dosyalar | Microsoft Belgeleri](https://learn.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
 * [Geliştirilmiş Meta Dosyası Formatı ve Özelliği](https://msdn.microsoft.com/en-us/library/cc230514.aspx)
 

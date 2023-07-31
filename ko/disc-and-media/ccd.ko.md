@@ -25,7 +25,7 @@ CCD 파일은 CCD(CloneCD Control) 형식을 사용하여 만든 디스크 이�
 
 CCD 파일 형식은 CD 또는 DVD 이미지의 속성을 표시하기 위해 확장자가 .ccd인 CloneCD 텍스트 설명자입니다. CD 또는 DVD를 구우려면 CCD 파일을 이미지 파일과 결합해야 합니다. 하위 채널 파일과 함께 제공될 수도 있습니다. 이 형식은 디스크 에뮬레이터 또는 Virtual CloneDrive에서 직접 사용할 수 있습니다. 또한 CCD 파일은 Daemon 또는 Alcohol Tools와 같은 타사 가상 드라이브와 함께 탑재할 수 있습니다. CCDISO 응용 프로그램은 ISO9660 호환 CCD 파일을 [ISO](/ko/compression/iso/) 이미지로 변환하는 데 사용됩니다.
 
-[CUE](/ko/disc-and-media/cue),[BIN](/ko/disc-and-media/bin/), [MDS]() [MDF]() 형식과 같은 형식은 CCD와 유사한 구조를 가지고 있습니다. 디스크립터 파일과 함께 원시 디스크 이미지를 모두 포함하는 형식입니다.
+[CUE](/ko/disc-and-media/cue/),[BIN](/ko/disc-and-media/bin/), [MDS]() [MDF]() 형식과 같은 형식은 CCD와 유사한 구조를 가지고 있습니다. 디스크립터 파일과 함께 원시 디스크 이미지를 모두 포함하는 형식입니다.
 
 ## 참고문헌
 

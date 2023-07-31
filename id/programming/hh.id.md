@@ -54,6 +54,6 @@ Dengan header ini, preprosesor memeriksa apakah `ANY_UNIQUE_NAME_HERE_HPP` telah
 
 ## Referensi
 
-* [Filer Header - Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [Filer Header - Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 * [Perbedaan antara format file .h dan .hh](https://stackoverflow.com/questions/10354321/c-reason-why-using-hh-as-extension-for-c-header-files)
 

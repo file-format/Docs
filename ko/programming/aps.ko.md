@@ -26,7 +26,7 @@ APS 파일 형식은 컴파일 단계일 뿐이며 기호 데이터만 저장합
 
 ## 참고문헌
 
-* [리소스 파일(C++)](https://docs.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
+* [리소스 파일(C++)](https://learn.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
  
 
 

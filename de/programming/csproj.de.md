@@ -24,7 +24,7 @@ Dateien mit der Erweiterung CSPROJ stellen eine C#-Projektdatei dar, die die Lis
 
 Entwickler können Projektdateien auch selbst erstellen und dabei das [MSBuild-XML-Schema](https://msdn.microsoft.com/library/5dy88c2e.aspx) berücksichtigen. Die offene und transparente Struktur von Projektdateien ermöglicht Anwendungsentwicklern eine ausgefeilte und feinkörnige Kontrolle darüber, wie die Projekte erstellt und bereitgestellt werden. Die Inhalte einer solchen Projektdatei stehen untereinander in einem sehr klaren Zusammenhang. Die folgende Abbildung zeigt Schlüsselelemente und die Beziehung zwischen diesen für eine solche Projektdatei.
 
-![](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
+![](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
 
 In den folgenden Abschnitten werden die Dateiformatelemente für eine Projektdatei erläutert.
 
@@ -94,5 +94,5 @@ Aufgaben müssen immer in [Target](https://msdn.microsoft.com/library/t50z2hka.a
 
 ## Verweise
 
-* [Die Projektdatei verstehen – MSDN](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- Datei)
+* [Die Projektdatei verstehen – MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- Datei)
 

@@ -27,7 +27,7 @@ A PPTX fájlformátumot 2007-ben vezették be, és a Microsoft által 2000-ben a
 
 ## PPTX fájlformátum specifikációi
 
-Az Office Open XML fájlformátummal generált fájlok XML fájlok gyűjteménye más fájlokkal együtt, amelyek hivatkozásokat biztosítanak az összes fájl között. Ez a gyűjtemény tulajdonképpen egy tömörített archívum, amelyet ki lehet bontani a tartalom megtekintéséhez. Ehhez egyszerűen nevezze át a PPTX fájlkiterjesztést zip-re, és bontsa ki a tartalmának megfigyeléséhez (lásd a [PPTX fájlformátum specifikációit](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/). efd8bb2d-d888-4e2e-af25-cad476730c9f) a Microsoft).
+Az Office Open XML fájlformátummal generált fájlok XML fájlok gyűjteménye más fájlokkal együtt, amelyek hivatkozásokat biztosítanak az összes fájl között. Ez a gyűjtemény tulajdonképpen egy tömörített archívum, amelyet ki lehet bontani a tartalom megtekintéséhez. Ehhez egyszerűen nevezze át a PPTX fájlkiterjesztést zip-re, és bontsa ki a tartalmának megfigyeléséhez (lásd a [PPTX fájlformátum specifikációit](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/). efd8bb2d-d888-4e2e-af25-cad476730c9f) a Microsoft).
 
 A következő szakaszok mindegyikre rávilágítanak.
 
@@ -90,6 +90,6 @@ Ez a fő mappa, amely a Prezentáció tartalmával kapcsolatos összes részlete
 
 ## Referenciák ##
 
-* [[MS-PPTX] – PPTX fájlformátum](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
+* [[MS-PPTX] – PPTX fájlformátum](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
 

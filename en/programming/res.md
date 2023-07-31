@@ -56,6 +56,6 @@ The main pattern in a version resource is the **VS_FIXEDFILEINFO**. Additional p
 
 ## References
 
- * [Resource File Formats](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
+ * [Resource File Formats](https://learn.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
  

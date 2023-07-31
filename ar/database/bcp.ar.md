@@ -19,7 +19,7 @@
 
 ## ما هو ملف BCP؟
 
-BCP (تنسيق النسخ بالجملة) هو تنسيق بيانات تقني لـ Microsoft SQL Server يحدد هياكل البيانات لتخزين قيم مختلفة لأنواع بيانات قاعدة البيانات للاستيراد / التصدير. يحدد التنسيق تمامًا تفسير كل عمود بيانات بحيث يمكن قراءة مجموعة القيم المحددة في ملف البيانات. تستخدم الأداة [BCP](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/ms162802 (v = sql.105)) تنسيق ملف BCP لقراءة البيانات من هذا الملف والتعرف عليه.
+BCP (تنسيق النسخ بالجملة) هو تنسيق بيانات تقني لـ Microsoft SQL Server يحدد هياكل البيانات لتخزين قيم مختلفة لأنواع بيانات قاعدة البيانات للاستيراد / التصدير. يحدد التنسيق تمامًا تفسير كل عمود بيانات بحيث يمكن قراءة مجموعة القيم المحددة في ملف البيانات. تستخدم الأداة [BCP](https://learn.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/ms162802 (v = sql.105)) تنسيق ملف BCP لقراءة البيانات من هذا الملف والتعرف عليه.
 
 
 ## تنسيق ملف BCP
@@ -59,5 +59,5 @@ BCP (تنسيق النسخ بالجملة) هو تنسيق بيانات تقني
 
 ## مراجع
 
-* [تنسيق BCP - Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
+* [تنسيق BCP - Microsoft](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
 

@@ -24,7 +24,7 @@ CSPROJ एक्सटेंशन वाली फाइलें एक C# प
 
 [MSBuild XML स्कीमा](https://msdn.microsoft.com/library/5dy88c2e.aspx) का सम्मान करते हुए डेवलपर स्वयं प्रोजेक्ट फ़ाइलें बना सकते हैं। प्रोजेक्ट फाइलों की खुली और पारदर्शी संरचना एप्लिकेशन डेवलपर्स को प्रोजेक्ट बनाने और तैनात करने के तरीके पर परिष्कृत और बढ़िया नियंत्रण लगाने देती है। ऐसी परियोजना फ़ाइल की सामग्री आपस में बहुत स्पष्ट संबंध रखती है। निम्नलिखित आंकड़ा ऐसी परियोजना फ़ाइल के लिए प्रमुख तत्वों और इनके बीच के संबंध को दर्शाता है।
 
-![](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
+![](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
 
 निम्न खंड प्रोजेक्ट फ़ाइल के लिए फ़ाइल स्वरूप तत्वों को विस्तृत करते हैं।
 
@@ -94,5 +94,5 @@ CSPROJ एक्सटेंशन वाली फाइलें एक C# प
 
 ## संदर्भ
 
-* [प्रोजेक्ट फ़ाइल को समझना - MSDN](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- फ़ाइल)
+* [प्रोजेक्ट फ़ाइल को समझना - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- फ़ाइल)
 

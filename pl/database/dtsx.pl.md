@@ -29,10 +29,10 @@ Przepływ danych opisany przez DTSX jest pokazany na poniższej ilustracji.
 
 {{< figure src="../DataFlowDTSX.png" alt="Przepływ danych DTSX" >}}
 
-DTSX jest oparty na [XML](/pl/web/xml/) i jest udokumentowany w [MS-DTSX](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd). Udoskonalona refaktoryzacja DTSX XML to DTSX 2.0, która obejmuje nowe atrybuty struktur, zastąpienie nazwanych właściwości jako nadrzędnych atrybutów XML, określenie wartości domyślnych dla większości wartości atrybutów oraz umieszczenie powtarzających się elementów wewnątrz elementu nadrzędnego. Struktury DTSX są opisane przy użyciu tych [schematów XML](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1), a format strukturalny to tekst celarowy XML.
+DTSX jest oparty na [XML](/pl/web/xml/) i jest udokumentowany w [MS-DTSX](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd). Udoskonalona refaktoryzacja DTSX XML to DTSX 2.0, która obejmuje nowe atrybuty struktur, zastąpienie nazwanych właściwości jako nadrzędnych atrybutów XML, określenie wartości domyślnych dla większości wartości atrybutów oraz umieszczenie powtarzających się elementów wewnątrz elementu nadrzędnego. Struktury DTSX są opisane przy użyciu tych [schematów XML](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1), a format strukturalny to tekst celarowy XML.
 
 ## Bibliografia
 
-* [Format DSX — Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd)
-* [Format DSX 2 — firma Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx2/fb216aa4-62ab-41c8-a6d5-5b1002739d21)
+* [Format DSX — Microsoft](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd)
+* [Format DSX 2 — firma Microsoft](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx2/fb216aa4-62ab-41c8-a6d5-5b1002739d21)
 

@@ -23,7 +23,7 @@
 
 ## Формат файлу CFF
 
-Файли CFF – це двійкові файли, які містять структурований макет даних, визначені типи даних, заголовок, організацію гліфів і словники таблиць. Додаткову інформацію про них можна знайти в [специфікаціях формату компактного шрифту](https://docs.microsoft.com/en-us/typography/opentype/spec/cff).
+Файли CFF – це двійкові файли, які містять структурований макет даних, визначені типи даних, заголовок, організацію гліфів і словники таблиць. Додаткову інформацію про них можна знайти в [специфікаціях формату компактного шрифту](https://learn.microsoft.com/en-us/typography/opentype/spec/cff).
 
 ### Макет даних
 Розташування даних у форматі файлу CFF показано нижче.
@@ -68,7 +68,7 @@
 
 ## Список літератури
 
-* [Таблиця форматів компактного шрифту](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+* [Таблиця форматів компактного шрифту](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
 * [Формат файлу CFF](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
-* [CFF2 Chartset](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+* [CFF2 Chartset](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

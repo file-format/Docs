@@ -56,7 +56,7 @@ O padrão principal em um recurso de versão é o **VS_FIXEDFILEINFO**. Padrões
 
 ## Referências
 
-* [Formatos de arquivo de recurso](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
+* [Formatos de arquivo de recurso](https://learn.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
 
 

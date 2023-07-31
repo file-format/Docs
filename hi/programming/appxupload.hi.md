@@ -27,5 +27,5 @@ APPXBUNDLE फ़ाइलों को बाइनरी फ़ाइल स�
 
 ## संदर्भ
 
-* [ऐप पैकेज के प्रकार](https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
+* [ऐप पैकेज के प्रकार](https://learn.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
 

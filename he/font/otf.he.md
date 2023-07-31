@@ -82,6 +82,6 @@
 כל טבלה בקובץ הגופן של OpenType מיוצגת על ידי שמות המכונים תגי טבלה. חובה שכל הרשומות במערך יהיו ממוינות בסדר עולה לפי תג.
 
 ## הפניות
-* [מפרטי גופן OpenType מאת Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [סקירה כללית של TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [מפרטי גופן OpenType מאת Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [סקירה כללית של TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

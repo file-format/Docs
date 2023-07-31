@@ -24,7 +24,7 @@ File dengan ekstensi CSPROJ mewakili file proyek C# yang berisi daftar file yang
 
 Pengembang dapat membuat file proyek sendiri serta menghormati [Skema MSBuild XML](https://msdn.microsoft.com/library/5dy88c2e.aspx). Struktur file proyek yang terbuka dan transparan memungkinkan pengembang aplikasi memaksakan kontrol yang canggih dan halus atas bagaimana proyek dibangun dan disebarkan. Isi file proyek semacam itu memiliki hubungan yang sangat jelas satu sama lain. Gambar berikut menunjukkan elemen kunci dan hubungan antara elemen tersebut untuk file proyek tersebut.
 
-![](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
+![](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
 
 Bagian berikut menguraikan elemen format file untuk file proyek.
 
@@ -94,5 +94,5 @@ Tugas harus selalu berada di dalam elemen [Target](https://msdn.microsoft.com/li
 
 ## Referensi
 
-* [Memahami File Proyek - MSDN](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- mengajukan)
+* [Memahami File Proyek - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- mengajukan)
 

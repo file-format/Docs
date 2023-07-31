@@ -54,6 +54,6 @@ Với tiêu đề này, bộ tiền xử lý sẽ kiểm tra xem `ANY_UNIQUE_NAM
 
 ## Người giới thiệu
 
-* [Header Filers - Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [Header Filers - Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 * [Sự khác biệt giữa định dạng tệp .h và .hh](https://stackoverflow.com/questions/10354321/c-reason-why-using-hh-as-extension-for-c-header-files)
 

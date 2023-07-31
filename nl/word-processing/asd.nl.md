@@ -31,5 +31,5 @@ ASD-bestanden die zijn gemaakt met de originele bestanden, blijven beschikbaar n
 
 ## Referenties
 
-* [Microsoft Word-document herstellen](https://docs.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
+* [Microsoft Word-document herstellen](https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
 

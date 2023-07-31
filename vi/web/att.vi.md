@@ -24,5 +24,5 @@ Các ứng dụng có thể **mở tệp ATT** bao gồm các trình soạn th�
 
 ## Người giới thiệu
 
-* [Biểu mẫu web - Microsoft](https://docs.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
+* [Biểu mẫu web - Microsoft](https://learn.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
 

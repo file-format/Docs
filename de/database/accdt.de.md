@@ -57,5 +57,5 @@ Ein Teil ist ein Strom von Bytes, dem ein Typ zugeordnet ist, um die Art und den
 
 ## Verweise ##
 
-* [Dateiformat für Zugriffsvorlage](https://docs.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
+* [Dateiformat für Zugriffsvorlage](https://learn.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
 

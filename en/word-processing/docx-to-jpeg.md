@@ -20,6 +20,24 @@
 
 Almost everyone of us is familiar with working with word documents. Microsoft Office saves these documents in popular [DOCX](/word-processing/docx/) file format, but it does not have any option to save DOCX to image file formats such as [JPEG](/image/jpeg/) or [PNG](/image/png/). Situations can arise where a DOCX file needs to be embedded in a presentation as an JPEG image or you need to upload a document to online website that only accepts image files. That is where certain online tools come forward to help you convert your DOCX files to JPEG online.
 
+
+## DOCX to JPEG Conversion - Free Demo
+
+You can use Aspose.Words conversion app for free to convert DOCX to JPEG by clicking the following button. 
+
+[![DOCX to JPEG](../docx-to-jpg.png?width=120px&height=60px)](https://products.aspose.app/words/conversion/docx-to-jpg)
+
+### Steps to Convert DOCX to JPEG
+
+Here are the steps you need to follow to convert your DOCX files to JPEG.
+
+1. Go to [Aspose.Words conversion app](https://products.aspose.app/words/conversion/docx-to-jpg)
+1. Upload your DOCX file to the browser
+1. Select JPEG as output image file format
+1. Press the Convert button
+
+The app will process your uploaded file and will generate the output JPEG file for download that you can save to your PC.
+
 ## Aspose.Words APIs
 
 Aspose.Words is a set of APIs that offers developers to write applications for working with DOCX files. It is available for multiple programming languages such as:
@@ -30,17 +48,6 @@ Aspose.Words is a set of APIs that offers developers to write applications for w
  * C++
 
 You can use Aspose.Words API to convert DOCX to JPEG in your choice of programming language.
-
-## DOCX to JPEG Conversion - Free Demo
-
-You can use Aspose.Words conversion app for free to [convert DOCX to JPEG](https://products.aspose.app/words/conversion/docx-to-jpg). Here are the steps you need to follow to convert your DOCX files to JPEG.
-
-1. Go to [Aspose.Words conversion app](https://products.aspose.app/words/conversion/docx-to-jpg)
-1. Upload your DOCX file to the browser
-1. Select JPEG as output image file format
-1. Press the Convert button
-
-The app will process your uploaded file and will generate the output JPEG file for download that you can save to your PC.
 
 ## Convert DOCX to JPEG in .NET, Java, C++ and Python
 

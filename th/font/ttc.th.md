@@ -55,6 +55,6 @@ TTC ย่อมาจาก TrueType Collection เป็นส่วนเส�
 |uint32| dsigOffset |ออฟเซ็ต (เป็นไบต์) ของตาราง DSIG จากจุดเริ่มต้นของไฟล์ TTC (null หากไม่มีลายเซ็น)|
 
 ## อ้างอิง
-* [ไฟล์แบบอักษร OpenType](https://docs.microsoft.com/en-us/typography/opentype/spec/otff)
+* [ไฟล์แบบอักษร OpenType](https://learn.microsoft.com/en-us/typography/opentype/spec/otff)
 * [TrueType (วิกิพีเดีย)](https://en.wikipedia.org/wiki/TrueType)
 

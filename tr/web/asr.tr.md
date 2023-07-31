@@ -27,5 +27,5 @@ ASR dosyası, standart betik dilinde geliştirilmiş betiği içerir. Adobe Drea
 ## Referanslar
 
 * [Adobe Contribute - Wikipedia'dan](https://en.wikipedia.org/wiki/Adobe_Contribute)
-* [Basit ASP Sayfaları Oluşturma](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Basit ASP Sayfaları Oluşturma](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

@@ -31,5 +31,5 @@ Soubor profilu CMS je vytvořen pomocí Connection Manager a je zabalen s dalš�
 
 ## Reference
 
-* [Pochopení a konfigurace Správce připojení systému Windows](https://docs.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
+* [Pochopení a konfigurace Správce připojení systému Windows](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
 

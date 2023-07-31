@@ -24,7 +24,7 @@ Pliki SYS to „pliki systemowe” używane w aplikacjach systemu operacyjnego W
 
 ## Specyfikacja techniczna ##
 
-Pliki .sys są w rzeczywistości podzbiorem formatu [BMP](/pl/image/bmp), ponieważ zezwalają tylko na określone kombinacje. Typowy format tych plików to LOGOS.SYS, LOGOW.SYS i LOGO.SYS. Żadne inne pliki nie mają tego formatu.
+Pliki .sys są w rzeczywistości podzbiorem formatu [BMP](/pl/image/bmp/), ponieważ zezwalają tylko na określone kombinacje. Typowy format tych plików to LOGOS.SYS, LOGOW.SYS i LOGO.SYS. Żadne inne pliki nie mają tego formatu.
 
 Te pliki są najczęściej używane w katalogu *C* systemu Windows w czasie instalacji. Większość problemów związanych ze sterownikami urządzeń można rozwiązać, aktualizując system operacyjny Windows. Szczegóły i informacje o tych plikach można przeglądać za pomocą wbudowanych programów systemu operacyjnego Windows. Obejmują one również odniesienia do różnych modułów w systemie operacyjnym.
 Niektóre przykłady plików systemowych to:

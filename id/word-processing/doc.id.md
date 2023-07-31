@@ -19,7 +19,7 @@
 
 ## Apa itu file DOC?
 
-File dengan ekstensi .doc mewakili dokumen yang dihasilkan oleh Microsoft Word atau dokumen pengolah kata lainnya dalam format file biner. Ekstensi awalnya digunakan untuk dokumentasi teks biasa pada beberapa sistem operasi yang berbeda. Itu dapat berisi beberapa jenis data yang berbeda seperti gambar, diformat serta teks biasa, grafik, bagan, objek yang disematkan, tautan, halaman, pemformatan halaman, pengaturan cetak dan banyak lainnya. Formatnya populer untuk semua jenis dokumentasi karena beragam opsi yang ditawarkannya kepada pengguna untuk menulis manual, proposal, spesifikasi, resume, artikel, atau dokumen serupa lainnya. Versi terbaru DOC adalah [DOCX](/id/Word%20Processing/DOCX/) yang didasarkan pada Office OpenXML yang spesifikasinya tersedia secara terbuka.
+File dengan ekstensi .doc mewakili dokumen yang dihasilkan oleh Microsoft Word atau dokumen pengolah kata lainnya dalam format file biner. Ekstensi awalnya digunakan untuk dokumentasi teks biasa pada beberapa sistem operasi yang berbeda. Itu dapat berisi beberapa jenis data yang berbeda seperti gambar, diformat serta teks biasa, grafik, bagan, objek yang disematkan, tautan, halaman, pemformatan halaman, pengaturan cetak dan banyak lainnya. Formatnya populer untuk semua jenis dokumentasi karena beragam opsi yang ditawarkannya kepada pengguna untuk menulis manual, proposal, spesifikasi, resume, artikel, atau dokumen serupa lainnya. Versi terbaru DOC adalah [DOCX](/id/word-processing/docx/) yang didasarkan pada Office OpenXML yang spesifikasinya tersedia secara terbuka.
 
 ## Sejarah Singkat ##
 

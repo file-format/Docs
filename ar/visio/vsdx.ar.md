@@ -50,5 +50,5 @@
 
 ## مراجع ##
 
-* [مقدمة إلى تنسيق ملف Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [مقدمة إلى تنسيق ملف Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

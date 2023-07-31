@@ -27,6 +27,6 @@
 ## อ้างอิง
 
 * [SQL Server Compact - Wikipedia](https://en.wikipedia.org/wiki/SQL_Server_Compact)
-* [การใช้ SQL Server Compact สำหรับเว็บแอปพลิเคชัน ASP.NET](https://docs.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
+* [การใช้ SQL Server Compact สำหรับเว็บแอปพลิเคชัน ASP.NET](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
 
 

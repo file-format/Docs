@@ -23,7 +23,7 @@ DOCX to dobrze znany format dokumentów programu Microsoft Word. Wprowadzony od 
 
 ## Krótka historia ##
 
-Po tym, jak Microsoft otworzył specyfikację formatu pliku DOC, jego konkurenci z łatwością mogli dokonać inżynierii wstecznej formatu i zapewnić taką samą obsługę we własnych aplikacjach. Ponadto konkurencja ze strony Open Office w postaci Open Document Format zmusiła Microsoft do przyjęcia bardziej otwartych i szerokich standardów. Na początku 2000 roku firma Microsoft zdecydowała się na zmianę w celu dostosowania do standardu **Office Open XML**. Dokumenty objęte tym nowym standardem otrzymały [rozszerzenie .docx](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), znak „X” jest dla XML. Do 2007 roku ten nowy format plików stał się częścią pakietu Office 2007 i jest również stosowany w nowych wersjach pakietu Microsoft Office. Nowy typ pliku ma dodatkowe zalety w postaci małych rozmiarów plików, mniejszej liczby zmian powodujących uszkodzenie i dobrze sformatowanej reprezentacji obrazów.
+Po tym, jak Microsoft otworzył specyfikację formatu pliku DOC, jego konkurenci z łatwością mogli dokonać inżynierii wstecznej formatu i zapewnić taką samą obsługę we własnych aplikacjach. Ponadto konkurencja ze strony Open Office w postaci Open Document Format zmusiła Microsoft do przyjęcia bardziej otwartych i szerokich standardów. Na początku 2000 roku firma Microsoft zdecydowała się na zmianę w celu dostosowania do standardu **Office Open XML**. Dokumenty objęte tym nowym standardem otrzymały [rozszerzenie .docx](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), znak „X” jest dla XML. Do 2007 roku ten nowy format plików stał się częścią pakietu Office 2007 i jest również stosowany w nowych wersjach pakietu Microsoft Office. Nowy typ pliku ma dodatkowe zalety w postaci małych rozmiarów plików, mniejszej liczby zmian powodujących uszkodzenie i dobrze sformatowanej reprezentacji obrazów.
 
 ## Specyfikacje formatu plików DOCX — więcej informacji
 
@@ -105,6 +105,6 @@ Akapit jest głównym nośnikiem treści w dokumencie. Jest reprezentowany przez
 
 ## Bibliografia ##
 
-* [Format pliku MS — DOCX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
+* [Format pliku MS — DOCX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
 * [Office Open XML](http://officeopenxml.com/)
 

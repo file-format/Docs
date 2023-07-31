@@ -58,7 +58,7 @@ PFS は割り当てステータスを識別し、空き領域の量を決定し�
 
 ## 参考文献
 
-* [データベース ファイルとファイル グループ](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [データベースのデタッチとアタッチ - SQL Server](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
+* [データベース ファイルとファイル グループ](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
+* [データベースのデタッチとアタッチ - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
 * [SQL Server データ ファイルの分析](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

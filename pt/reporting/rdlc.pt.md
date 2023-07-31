@@ -43,5 +43,5 @@ Você só pode visualizar um relatório executando-o em um controle **ReportView
 
 ## Referências ##
 
-- [Criando arquivos de definição de relatório de cliente (.rdlc)](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
+- [Criando arquivos de definição de relatório de cliente (.rdlc)](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
 

@@ -40,5 +40,5 @@ struct WMA_TYPE_SPECIFIC_DATA
 ```
 ## 参考文献
 
-* [ASF の概要 - マイクロソフト](https://docs.microsoft.com/en-us/windows/win32/wmformat/overview-of-the-asf-format?redirectedfrom=MSDN)
+* [ASF の概要 - マイクロソフト](https://learn.microsoft.com/en-us/windows/win32/wmformat/overview-of-the-asf-format)
 

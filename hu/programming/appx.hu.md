@@ -36,11 +36,11 @@ Az APPX-fájl tartalmának vagy fájljainak megtekintéséhez kövesse az alább
 
 Az APPX-fájlok létrehozásához két módszer használható.
 
-1. A MakeApp.exe használatával – a [MakeApp.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) mindkettő létrehozására szolgál alkalmazáscsomagok (.msix vagy .appx) és alkalmazáscsomag-csomagfájlok (.msixbundle vagy .appxbundle). Ezen túlmenően ki tudja bontani a fájlokat egy alkalmazáscsomagból. A MakeApp.exe a Windows 10 SDK-val érhető el, és parancssorból használható.
-1. A Microsoft Visual Studio használata – A fejlesztők általában [hoznak létre APPX fájlokat](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) a Microsoft Visual Studio használatával. Miután az alkalmazás fejlesztése befejeződött, és az alkalmazás készen áll a közzétételre, az APPX-csomagfájl létrehozása a Visual Studióból való közzététellel lehetséges.
+1. A MakeApp.exe használatával – a [MakeApp.exe](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) mindkettő létrehozására szolgál alkalmazáscsomagok (.msix vagy .appx) és alkalmazáscsomag-csomagfájlok (.msixbundle vagy .appxbundle). Ezen túlmenően ki tudja bontani a fájlokat egy alkalmazáscsomagból. A MakeApp.exe a Windows 10 SDK-val érhető el, és parancssorból használható.
+1. A Microsoft Visual Studio használata – A fejlesztők általában [hoznak létre APPX fájlokat](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) a Microsoft Visual Studio használatával. Miután az alkalmazás fejlesztése befejeződött, és az alkalmazás készen áll a közzétételre, az APPX-csomagfájl létrehozása a Visual Studióból való közzététellel lehetséges.
 
 ## Hivatkozások
 
-* [MSIX-csomag vagy csomag létrehozása a MakeAppx.exe segítségével](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
-* [APPX-fájlok létrehozása a Microsoft Visual Studio segítségével](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [MSIX-csomag vagy csomag létrehozása a MakeAppx.exe segítségével](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
+* [APPX-fájlok létrehozása a Microsoft Visual Studio segítségével](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

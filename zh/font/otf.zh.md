@@ -82,6 +82,6 @@ OTF 文件以表目录开头。该目录是字体文件中表的顶级集合。�
 OpenType 字体文件中的每个表格都由称为表格标签的名称表示。数组中的所有记录必须按标签升序排序。
 
 ## 参考
-* [Microsoft 的 OpenType 字体规范](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [TrueType 概述](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Microsoft 的 OpenType 字体规范](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [TrueType 概述](https://learn.microsoft.com/en-us/typography/truetype/)
 

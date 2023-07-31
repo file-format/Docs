@@ -45,5 +45,5 @@ Visual Studio, sınıf diyagramlarını [PNG](/tr/image/png/), [JPEG](/tr/image/
 
 ## Referanslar
 
-* [Visual Studio'da Tasarım Dersleri](https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
+* [Visual Studio'da Tasarım Dersleri](https://learn.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
 

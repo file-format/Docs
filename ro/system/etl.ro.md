@@ -27,10 +27,10 @@ Fișierele ETL sunt salvate pe disc în format binar comprimat pentru a reduce s
 
 ## Deschideți fișierele ETL utilizând Windows Performance Analyzer
 
-Datele fișierelor ETL pot fi citite și vizualizate în format tabelar și grafic folosind aplicația Microsoft Windows Performance Analyzer (WPA). Ghidul [Deschiderea și analiza fișierelor ETL](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) oferă informații despre lucru cu fișiere ETL.
+Datele fișierelor ETL pot fi citite și vizualizate în format tabelar și grafic folosind aplicația Microsoft Windows Performance Analyzer (WPA). Ghidul [Deschiderea și analiza fișierelor ETL](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) oferă informații despre lucru cu fișiere ETL.
 
 ## Referințe
 
-* [Windows Performance Analyzer](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
-* [Ghid de pornire rapidă WPA](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
+* [Windows Performance Analyzer](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
+* [Ghid de pornire rapidă WPA](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
 

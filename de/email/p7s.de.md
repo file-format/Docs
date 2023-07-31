@@ -34,5 +34,5 @@ Diese Informationen werden mithilfe der Public-Key Cryptography Standard #7 (PKC
 
 ## Verweise ##
 
-* [Microsoft Sign Tool](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
+* [Microsoft Sign Tool](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
 

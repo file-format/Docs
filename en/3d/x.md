@@ -25,13 +25,13 @@ You can open DirectX X files using Microsoft DirectX and common text editors.
 
 ## X File Format
 
-The [X file reference](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) contains reference information for the API elements that are used to work with DirectX .x files. The format provides low-level data primitives that are used by other applications to define higher-level primitives through data templates. DirectX 6.0 introduced interfaces and methods that enable reading from and writing to .x files. DirectX 3.0 introduced a binary version of this file format.
+The [X file reference](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) contains reference information for the API elements that are used to work with DirectX .x files. The format provides low-level data primitives that are used by other applications to define higher-level primitives through data templates. DirectX 6.0 introduced interfaces and methods that enable reading from and writing to .x files. DirectX 3.0 introduced a binary version of this file format.
 
-The [X file format reference](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) defined by DirectX 9 contains reference information for .x files in Binary as well as Text Encodings.
+The [X file format reference](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) defined by DirectX 9 contains reference information for .x files in Binary as well as Text Encodings.
 
 ### Binary Encoding
 
-The [binary format](https://docs.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) defines the DirectX X format as a tokenized representation of the text format. These tokens can be standalone to give grammatical structure or can be record-bearing tokens supplying the necessary data.
+The [binary format](https://learn.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) defines the DirectX X format as a tokenized representation of the text format. These tokens can be standalone to give grammatical structure or can be record-bearing tokens supplying the necessary data.
 
 #### Header
 
@@ -84,5 +84,5 @@ The variable-length header is compulsory and must be at the beginning of the dat
 
 ## References
 
- * [X Files Legacy](https://docs.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
- * [DirectX 9 File Format Reference](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
+ * [X Files Legacy](https://learn.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
+ * [DirectX 9 File Format Reference](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)

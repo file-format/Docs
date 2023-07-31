@@ -27,7 +27,7 @@ XLSX 파일 형식은 2007년에 도입되었으며 2000년에 Microsoft에서 �
 
 ## XLSX 파일 형식 사양
 
-공식 [XLSX 파일 형식 사양](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)은 Microsoft에서 온라인으로 제공됩니다. XLSX 파일 내부에 있는 내용을 보려면 확장자를 변경하여 [ZIP](/ko/compression/zip/) 파일로 이름을 바꾼 다음 추출하여 이 Excel 통합 문서의 구성 파일을 봅니다. 파일에 압축을 푼 빈 통합 문서에는 다음과 같은 구성 파일과 폴더가 있습니다.
+공식 [XLSX 파일 형식 사양](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)은 Microsoft에서 온라인으로 제공됩니다. XLSX 파일 내부에 있는 내용을 보려면 확장자를 변경하여 [ZIP](/ko/compression/zip/) 파일로 이름을 바꾼 다음 추출하여 이 Excel 통합 문서의 구성 파일을 봅니다. 파일에 압축을 푼 빈 통합 문서에는 다음과 같은 구성 파일과 폴더가 있습니다.
 
 ### [콘텐츠 유형].xml ###
 
@@ -77,6 +77,6 @@ XLSX 또는 스프레드시트 파일 형식에 대해 공유해야 합니까? [
 
 ## 참고문헌
 
-* [[MS-XLSX] - XLSX 파일 형식](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [[MS-XLSX] - XLSX 파일 형식](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 * [오픈오피스 XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

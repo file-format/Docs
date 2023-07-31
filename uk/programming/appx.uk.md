@@ -36,11 +36,11 @@
 
 Для створення файлів APPX можна використовувати два методи.
 
-1. Використання MakeApp.exe – [MakeApp.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) використовується для створення обох пакети програм (.msix або .appx) і файли пакетів програм .msixbundle або .appxbundle). Крім того, він може видобувати файли з пакета програми. MakeApp.exe доступний із Windows 10 SDK і може використовуватися з командного рядка.
-1. Використання Microsoft Visual Studio – розробники зазвичай [створюють файли APPX](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) за допомогою Microsoft Visual Studio. Після того, як розробка програми завершена і програма готова до публікації, файл пакета APPX можна створити, опублікувавши його в Visual Studio.
+1. Використання MakeApp.exe – [MakeApp.exe](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) використовується для створення обох пакети програм (.msix або .appx) і файли пакетів програм .msixbundle або .appxbundle). Крім того, він може видобувати файли з пакета програми. MakeApp.exe доступний із Windows 10 SDK і може використовуватися з командного рядка.
+1. Використання Microsoft Visual Studio – розробники зазвичай [створюють файли APPX](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) за допомогою Microsoft Visual Studio. Після того, як розробка програми завершена і програма готова до публікації, файл пакета APPX можна створити, опублікувавши його в Visual Studio.
 
 ## Список літератури
 
-* [Створіть пакет або комплект MSIX за допомогою MakeAppx.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
-* [Створіть файли APPX за допомогою Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Створіть пакет або комплект MSIX за допомогою MakeAppx.exe](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
+* [Створіть файли APPX за допомогою Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

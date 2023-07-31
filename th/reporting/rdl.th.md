@@ -61,5 +61,5 @@ RDL (Report Definition Language) เป็นเกณฑ์มาตรฐา�
 ## อ้างอิง ##
 
 - [ภาษาคำจำกัดความของรายงาน (วิกิพีเดีย)](https://en.wikipedia.org/wiki/Report_Definition_Language)
-- [ภาษาคำจำกัดความของรายงาน (SSRS)](https://docs.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
+- [ภาษาคำจำกัดความของรายงาน (SSRS)](https://learn.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
 

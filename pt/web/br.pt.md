@@ -18,7 +18,7 @@
 
 ## O que é um arquivo BR?
 
-Um arquivo BR é um arquivo da Web compactado gerado pela aplicação do algoritmo de compactação de dados de código aberto, **Brotli**. Ele é usado para armazenar recursos de página da Web, como folhas de estilo ([CSS](/pt/web/css/)), imagens ([SVG](/pt/image/svg/)), [XML](/pt/web/xml/) e scripts arquivos ([JS](/pt/web/js/)). Sites modernos, como Chrome e Firefox, usam arquivos BR para reduzir o tempo de carregamento da página, resultando em uma melhor experiência do usuário.
+Um arquivo BR é um arquivo da Web compactado gerado pela aplicação do algoritmo de compactação de dados de código aberto, **Brotli**. Ele é usado para armazenar recursos de página da Web, como folhas de estilo ([CSS](/pt/web/css/)), imagens ([SVG](/pt/page-description-language/svg/)), [XML](/pt/web/xml/) e scripts arquivos ([JS](/pt/web/js/)). Sites modernos, como Chrome e Firefox, usam arquivos BR para reduzir o tempo de carregamento da página, resultando em uma melhor experiência do usuário.
 
 ## Formato de arquivo BR
 

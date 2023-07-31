@@ -57,5 +57,5 @@ Een deel is een stroom van bytes die een bijbehorend type heeft voor het specifi
 
 ## Referenties ##
 
-* [Access Template File Format](https://docs.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
+* [Access Template File Format](https://learn.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
 

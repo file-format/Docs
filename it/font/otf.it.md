@@ -82,6 +82,6 @@ Per ogni tabella di primo livello nel carattere, c'è un record tabella che cons
 Ogni tabella nel file di font OpenType è rappresentata da nomi noti come tag di tabella. È necessario che tutti i record nell'array siano ordinati in ordine crescente per tag.
 
 ## Riferimenti
-* [Specifiche dei caratteri OpenType di Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [Panoramica TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Specifiche dei caratteri OpenType di Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [Panoramica TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

@@ -26,7 +26,7 @@ APS файл се създава от Visual C++, приложение за ра
 
 ## Препратки
 
-* [Ресурсни файлове (C++)](https://docs.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
+* [Ресурсни файлове (C++)](https://learn.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
  
 
 

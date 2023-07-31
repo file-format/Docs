@@ -38,5 +38,5 @@ Los archivos SY_ son similares a los archivos EX_ y DL_.
 ## Referencias
 
 * [StuffIt - Por Wikipedia](https://en.wikipedia.org/wiki/StuffIt)
-* [Expandir de Microsoft](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
+* [Expandir de Microsoft](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
 

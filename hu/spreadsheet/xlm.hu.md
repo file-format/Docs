@@ -31,7 +31,7 @@ Az Excel könnyen használható lépéseket kínál a makró rögzítéséhez. A
 
 ## Excel objektummodell ##
 
-A makrók hátul VBA-rutinokat használnak, és ehhez az [Excel-objektummodellt](https://docs.microsoft.com/en-us/office/vba/api/overview/excel/object-model) követik. Ez a modell azonosítja a táblázat objektumait a táblázattal való interakcióhoz a felhasználó által definiált parancseszköztárak, parancssorok vagy üzenetmezők segítségével. Például a munkafüzet tulajdonságaihoz a munkafüzet objektum hozzáférést biztosít. Ehhez hasonlóan a modellben található egy Munkalap objektum, amely programozottan dolgozik a munkafüzet munkalapjaival.
+A makrók hátul VBA-rutinokat használnak, és ehhez az [Excel-objektummodellt](https://learn.microsoft.com/en-us/office/vba/api/overview/excel/object-model) követik. Ez a modell azonosítja a táblázat objektumait a táblázattal való interakcióhoz a felhasználó által definiált parancseszköztárak, parancssorok vagy üzenetmezők segítségével. Például a munkafüzet tulajdonságaihoz a munkafüzet objektum hozzáférést biztosít. Ehhez hasonlóan a modellben található egy Munkalap objektum, amely programozottan dolgozik a munkafüzet munkalapjaival.
 
 ## Makrók és biztonság ##
 

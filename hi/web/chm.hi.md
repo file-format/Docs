@@ -54,6 +54,6 @@ HTML मदद कई घटकों से बनी होती है। �
 
 ## संदर्भ
 
-* [माइक्रोसॉफ्ट एचटीएमएल सहायता](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [माइक्रोसॉफ्ट एचटीएमएल सहायता](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 * [माइक्रोसॉफ्ट संकलित एचटीएमएल सहायता](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 

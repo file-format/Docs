@@ -34,5 +34,5 @@ Tyto informace jsou vloženy pomocí technologie Public-Key Cryptography Standar
 
 ## Reference ##
 
-* [Microsoft Sign Tool](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
+* [Microsoft Sign Tool](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
 

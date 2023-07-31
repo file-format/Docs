@@ -58,7 +58,7 @@ PFS identifică starea de alocare și determină cantitatea de spațiu liber.
 
 ## Referințe
 
-* [Fișiere și grupuri de fișiere baze de date](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [Detașarea și atașarea bazei de date - SQL Server](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
+* [Fișiere și grupuri de fișiere baze de date](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
+* [Detașarea și atașarea bazei de date - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
 * [Analizarea anatomiei fișierelor de date SQL Server](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

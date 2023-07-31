@@ -56,7 +56,7 @@
 
 ## הפניות
 
-* [פורמטי קובץ משאבים](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
+* [פורמטי קובץ משאבים](https://learn.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
 
 

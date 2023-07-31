@@ -38,6 +38,6 @@
 
 ## הפניות
 
-* [סרגל הצד של Windows - מאת Microsoft](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
-* [פיתוח גאדג'ט עבור Windows Sidebar חלק 1](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
+* [סרגל הצד של Windows - מאת Microsoft](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
+* [פיתוח גאדג'ט עבור Windows Sidebar חלק 1](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
 

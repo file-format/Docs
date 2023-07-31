@@ -41,6 +41,6 @@ Soubory ASMX se liší od souborů ASPX a ASCX.
 
 ## Reference
 
-* [Spotřeba služby ASMX](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/web-services/asmx)
+* [Spotřeba služby ASMX](https://learn.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/web-services/asmx)
 * [ASCX User Control](https://beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

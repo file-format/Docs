@@ -23,7 +23,7 @@ DOCX é um formato bem conhecido para documentos do Microsoft Word. Introduzido 
 
 ## Breve história ##
 
-Depois que a Microsoft abriu as especificações para o formato de arquivo DOC, foi fácil para seus concorrentes fazer engenharia reversa do formato e fornecer o mesmo suporte em seus próprios aplicativos. Além disso, a concorrência do Open Office na forma de seu Open Document Format, obrigou a Microsoft a adotar padrões mais abertos e amplos. Foi no início de 2000 quando a Microsoft decidiu fazer a mudança para acomodar o padrão para **Office Open XML**. Os documentos sob este novo Padrão receberam [extensão .docx](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), o "X" sendo para XML. Em 2007, esse novo formato de arquivo passou a fazer parte do Office 2007 e é mantido também nas novas versões do Microsoft Office. O novo tipo de arquivo adicionou vantagens de tamanhos de arquivo pequenos, menos alterações de corrupção e representação de imagens bem formatadas.
+Depois que a Microsoft abriu as especificações para o formato de arquivo DOC, foi fácil para seus concorrentes fazer engenharia reversa do formato e fornecer o mesmo suporte em seus próprios aplicativos. Além disso, a concorrência do Open Office na forma de seu Open Document Format, obrigou a Microsoft a adotar padrões mais abertos e amplos. Foi no início de 2000 quando a Microsoft decidiu fazer a mudança para acomodar o padrão para **Office Open XML**. Os documentos sob este novo Padrão receberam [extensão .docx](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), o "X" sendo para XML. Em 2007, esse novo formato de arquivo passou a fazer parte do Office 2007 e é mantido também nas novas versões do Microsoft Office. O novo tipo de arquivo adicionou vantagens de tamanhos de arquivo pequenos, menos alterações de corrupção e representação de imagens bem formatadas.
 
 ## Especificações de formato de arquivo DOCX - Mais informações
 
@@ -105,6 +105,6 @@ Um parágrafo é o principal detentor de conteúdo dentro de um documento. É re
 
 ## Referências ##
 
-* [MS - Formato de arquivo DOCX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
+* [MS - Formato de arquivo DOCX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
 * [Office Open XML](http://officeopenxml.com/)
 

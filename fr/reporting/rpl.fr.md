@@ -307,5 +307,5 @@ La liste suivante montre les énumérations qui peuvent être utilisées dans le
 
 ## Références ##
 
-- [Format de flux binaire de présentation de page de rapport (RPL)](https://docs.microsoft.com/en-us/openspecs/sql_server_protocols/ms-rpl/9c4ff7ba-f6da-4092-9670-aa0e54e73887)
+- [Format de flux binaire de présentation de page de rapport (RPL)](https://learn.microsoft.com/en-us/openspecs/sql_server_protocols/ms-rpl/9c4ff7ba-f6da-4092-9670-aa0e54e73887)
 

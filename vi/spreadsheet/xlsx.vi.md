@@ -27,7 +27,7 @@
 
 ## Định dạng tệp XLSX Thông số kỹ thuật
 
-[Thông số định dạng tệp XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) chính thức có sẵn trực tuyến từ Microsoft. Để xem nội dung bên trong tệp XLSX, chỉ cần đổi tên tệp thành tệp [ZIP](/vi/compression/zip/) bằng cách thay đổi phần mở rộng của tệp rồi giải nén tệp để xem các tệp cấu thành của sổ làm việc Excel này. Một sổ làm việc trống, khi được giải nén vào các tệp của nó, có các tệp và thư mục cấu thành sau đây.
+[Thông số định dạng tệp XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) chính thức có sẵn trực tuyến từ Microsoft. Để xem nội dung bên trong tệp XLSX, chỉ cần đổi tên tệp thành tệp [ZIP](/vi/compression/zip/) bằng cách thay đổi phần mở rộng của tệp rồi giải nén tệp để xem các tệp cấu thành của sổ làm việc Excel này. Một sổ làm việc trống, khi được giải nén vào các tệp của nó, có các tệp và thư mục cấu thành sau đây.
 
 ### [Content_Types].xml ###
 
@@ -77,6 +77,6 @@ Phải chia sẻ điều gì đó về định dạng tệp XLSX hoặc Bảng t
 
 ## Người giới thiệu
 
-* [[MS-XLSX] - Định dạng tệp XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [[MS-XLSX] - Định dạng tệp XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

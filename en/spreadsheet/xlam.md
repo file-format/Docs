@@ -30,4 +30,4 @@ After this, save the file with the .xlam extension.
 
 ## References ##
 
-- [File format reference - ](https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
+- [File format reference - ](https://learn.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)

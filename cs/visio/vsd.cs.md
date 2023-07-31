@@ -32,6 +32,6 @@ Visio bylo původně vyrobeno jako samostatný produkt společností Shapeware C
 
 ## Reference ##
 
-* [Úvod do formátu souboru Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
-* [Mapa schémat – Visio XML](https://docs.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
+* [Úvod do formátu souboru Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Mapa schémat – Visio XML](https://learn.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
 

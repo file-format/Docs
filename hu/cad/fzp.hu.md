@@ -22,7 +22,7 @@ Az FZP-fájl egy XML-fájl, amelyet a [Fritzing](https://fritzing.org/) elektron
 
 ## FZP fájlformátum - További információ
 
-Az FZP fájlok olyan XML fájlok, amelyek információkat tartalmaznak az alkatrész tulajdonságairól, csatlakozóiról és buszairól. Ezeken kívül az FZP fájlok az FZP fájl címére, leírására, szerzőjére és közzétételi dátumára vonatkozó információkat is tartalmaznak. Fritzing-alkatrészfájl exportálásakor a Fritzing alkalmazás létrehoz egy [FZPZ](/hu/compression/fzpz/) tömörített archívumot, amely egy FZP-fájlt és négy [SVG](/hu/image/svg/) fájlt tartalmaz.
+Az FZP fájlok olyan XML fájlok, amelyek információkat tartalmaznak az alkatrész tulajdonságairól, csatlakozóiról és buszairól. Ezeken kívül az FZP fájlok az FZP fájl címére, leírására, szerzőjére és közzétételi dátumára vonatkozó információkat is tartalmaznak. Fritzing-alkatrészfájl exportálásakor a Fritzing alkalmazás létrehoz egy [FZPZ](/hu/compression/fzpz/) tömörített archívumot, amely egy FZP-fájlt és négy [SVG](/hu/page-description-language/svg/) fájlt tartalmaz.
 
 Az [FZP fájlformátum specifikációi](https://github.com/fritzing/fzp/blob/master/docs/README.md) elérhetők a Github by Fritzing webhelyen.
 

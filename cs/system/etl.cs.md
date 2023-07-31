@@ -27,10 +27,10 @@ Soubory ETL se ukládají na disk v komprimovaném binárním formátu, aby se s
 
 ## Otevřete soubory ETL pomocí nástroje Windows Performance Analyzer
 
-Data souborů ETL lze číst a vizualizovat v tabulkovém i grafickém formátu pomocí aplikace Microsoft Windows Performance Analyzer (WPA). Příručka [Otevírání a analýza souborů ETL](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) poskytuje informace o práci se soubory ETL.
+Data souborů ETL lze číst a vizualizovat v tabulkovém i grafickém formátu pomocí aplikace Microsoft Windows Performance Analyzer (WPA). Příručka [Otevírání a analýza souborů ETL](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) poskytuje informace o práci se soubory ETL.
 
 ## Reference
 
-* [Windows Performance Analyzer](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
-* [Rychlý průvodce WPA](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
+* [Windows Performance Analyzer](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
+* [Rychlý průvodce WPA](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
 

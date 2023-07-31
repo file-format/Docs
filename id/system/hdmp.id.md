@@ -32,5 +32,5 @@ HDMP adalah file dump memori yang tidak dikompresi. Sebaliknya, MDMP adalah file
 
 ## Referensi ##
 
-* [DMP - Microsoft](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
+* [DMP - Microsoft](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
 

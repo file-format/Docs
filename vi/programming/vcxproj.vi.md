@@ -47,7 +47,7 @@ Nội dung của tệp VCXPROJ mẫu như sau.
 ```
 ### Thành phần tệp VCXPROJ
 
-Một tệp VCXPROJ điển hình chứa một số thành phần như có thể thấy trong ví dụ XML ở trên. [Cấu trúc VCXPROJ](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) của Microsoft giải thích chi tiết từng thành phần tệp và có thể tham khảo từ quan điểm của nhà phát triển.
+Một tệp VCXPROJ điển hình chứa một số thành phần như có thể thấy trong ví dụ XML ở trên. [Cấu trúc VCXPROJ](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) của Microsoft giải thích chi tiết từng thành phần tệp và có thể tham khảo từ quan điểm của nhà phát triển.
 
 #### Phần tử dự án
 
@@ -72,6 +72,6 @@ Phần này chứa các cài đặt cung cấp thông tin cho cấp độ dự �
 
 ## Người giới thiệu
 
-* [Cấu trúc VCXPROJ - MSDN](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
-* [Tệp dự án C++](https://docs.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
+* [Cấu trúc VCXPROJ - MSDN](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
+* [Tệp dự án C++](https://learn.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
 

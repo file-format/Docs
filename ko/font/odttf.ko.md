@@ -28,6 +28,6 @@ NiXPS 보기 및 NiXPS 편집.
 ODTTF 파일 형식의 내부 파일 형식 구조는 임베디드 난독화 형식으로 저장되므로 알 수 없습니다. 이들은 .PDF 또는 .DOCX와 같은 디지털 문서에 포함될 수 있습니다.
 
 ## 참조
-* [Microsoft의 OpenType 글꼴 사양](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [트루타입 개요](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Microsoft의 OpenType 글꼴 사양](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [트루타입 개요](https://learn.microsoft.com/en-us/typography/truetype/)
 

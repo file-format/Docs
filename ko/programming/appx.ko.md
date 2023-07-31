@@ -36,11 +36,11 @@ APPX 파일 내의 내용이나 파일을 보려면 다음 단계를 따라야 �
 
 APPX 파일을 만드는 데 사용할 수 있는 두 가지 방법이 있습니다.
 
-1. MakeApp.exe 사용 - [MakeApp.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)를 사용하여 둘 다 생성 앱 패키지(.msix 또는 .appx) 및 앱 패키지 번들 파일 .msixbundle 또는 .appxbundle). 또한 앱 패키지에서 파일을 추출할 수 있습니다. MakeApp.exe는 Windows 10 SDK에서 사용할 수 있으며 명령 프롬프트에서 사용할 수 있습니다.
-1. Microsoft Visual Studio 사용 - 개발자는 일반적으로 Microsoft Visual Studio를 사용하여 [APPX 파일 생성](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)을 사용합니다. 애플리케이션 개발이 완료되고 앱을 게시할 준비가 되면 Visual Studio 내에서 앱을 게시하여 APPX 패키지 파일을 생성할 수 있습니다.
+1. MakeApp.exe 사용 - [MakeApp.exe](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)를 사용하여 둘 다 생성 앱 패키지(.msix 또는 .appx) 및 앱 패키지 번들 파일 .msixbundle 또는 .appxbundle). 또한 앱 패키지에서 파일을 추출할 수 있습니다. MakeApp.exe는 Windows 10 SDK에서 사용할 수 있으며 명령 프롬프트에서 사용할 수 있습니다.
+1. Microsoft Visual Studio 사용 - 개발자는 일반적으로 Microsoft Visual Studio를 사용하여 [APPX 파일 생성](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)을 사용합니다. 애플리케이션 개발이 완료되고 앱을 게시할 준비가 되면 Visual Studio 내에서 앱을 게시하여 APPX 패키지 파일을 생성할 수 있습니다.
 
 ## 참고문헌
 
-* [MakeAppx.exe로 MSIX 패키지 또는 번들 생성](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
-* [Microsoft Visual Studio를 사용하여 APPX 파일 만들기](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [MakeAppx.exe로 MSIX 패키지 또는 번들 생성](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
+* [Microsoft Visual Studio를 사용하여 APPX 파일 만들기](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

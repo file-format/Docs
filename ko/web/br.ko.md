@@ -18,7 +18,7 @@
 
 ## .BR 파일이란?
 
-BR 파일은 오픈 소스 데이터 압축 알고리즘 **Brotli**를 적용하여 생성된 압축 웹 파일입니다. 스타일시트([CSS](/ko/web/css/)), 이미지([SVG](/ko/image/svg/)), [XML](/ko/web/xml/) 및 스크립팅과 같은 웹페이지 자산을 저장하는 데 사용됩니다. 파일([JS](/ko/web/js/)). Chrome 및 Firefox와 같은 최신 웹 사이트는 BR 파일을 사용하여 페이지 로딩 시간을 줄여 사용자 경험을 개선합니다.
+BR 파일은 오픈 소스 데이터 압축 알고리즘 **Brotli**를 적용하여 생성된 압축 웹 파일입니다. 스타일시트([CSS](/ko/web/css/)), 이미지([SVG](/ko/page-description-language/svg/)), [XML](/ko/web/xml/) 및 스크립팅과 같은 웹페이지 자산을 저장하는 데 사용됩니다. 파일([JS](/ko/web/js/)). Chrome 및 Firefox와 같은 최신 웹 사이트는 BR 파일을 사용하여 페이지 로딩 시간을 줄여 사용자 경험을 개선합니다.
 
 ## BR 파일 형식
 

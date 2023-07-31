@@ -86,5 +86,5 @@ typedef struct tagRGBQUAD {
 |Μορφή 32 bit|Οι εικόνες 32 bit έχουν έως 2^24 χρώματα (biBitCount == 24).
 
 ## Βιβλιογραφικές αναφορές ##
-* [Device-Independent Bitmaps - By Microsoft](https://docs.microsoft.com/en-us/windows/win32/gdi/device-independent-bitmaps)
+* [Device-Independent Bitmaps - By Microsoft](https://learn.microsoft.com/en-us/windows/win32/gdi/device-independent-bitmaps)
 

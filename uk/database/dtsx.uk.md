@@ -29,10 +29,10 @@
 
 {{< figure src="../DataFlowDTSX.png" alt="Потік даних DTSX" >}}
 
-DTSX базується на [XML](/uk/web/xml/) і задокументовано в [MS-DTSX](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd). Покращений рефакторинг DTSX XML — це DTSX 2.0, який включає нові атрибути структур, заміну іменованих властивостей як батьківських атрибутів XML, визначає значення за замовчуванням для більшості значень атрибутів і розміщення повторюваних елементів усередині батьківського елемента. Структури DTSX описані за допомогою цих [XML-схем](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1), а структурний формат celar-text XML.
+DTSX базується на [XML](/uk/web/xml/) і задокументовано в [MS-DTSX](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd). Покращений рефакторинг DTSX XML — це DTSX 2.0, який включає нові атрибути структур, заміну іменованих властивостей як батьківських атрибутів XML, визначає значення за замовчуванням для більшості значень атрибутів і розміщення повторюваних елементів усередині батьківського елемента. Структури DTSX описані за допомогою цих [XML-схем](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1), а структурний формат celar-text XML.
 
 ## Список літератури
 
-* [Формат DTSX – Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd)
-* [Формат DTSX 2 – від Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx2/fb216aa4-62ab-41c8-a6d5-5b1002739d21)
+* [Формат DTSX – Microsoft](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd)
+* [Формат DTSX 2 – від Microsoft](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx2/fb216aa4-62ab-41c8-a6d5-5b1002739d21)
 

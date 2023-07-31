@@ -28,6 +28,6 @@ NiXPS ビュー、および NiXPS 編集。
 ODTTF ファイル形式の内部ファイル形式構造は、難読化された埋め込み形式として格納されているため不明です。これらは、.PDF や .DOCX などのデジタル ドキュメントに埋め込むことができます。
 
 ## 参考文献
-* [マイクロソフトによる OpenType フォント仕様](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [TrueType の概要](https://docs.microsoft.com/en-us/typography/truetype/)
+* [マイクロソフトによる OpenType フォント仕様](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [TrueType の概要](https://learn.microsoft.com/en-us/typography/truetype/)
 

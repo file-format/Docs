@@ -20,7 +20,7 @@
 
 ## iXBRL dosyası nedir?
 
-iXBRL (ilnine XBRL) dosya biçimi, [XBRL](/tr/web/xbrl/) verilerinin hem makine hem de insanlar tarafından okunabilir olması için bir HTML dosyasına gömülmesine olanak tanır. Bu aslında XBRL etiketlerini kullanan bir [xHTML](/tr/web/xhtml/) dosyasıdır ve XBRL International tarafından İngiltere'nin HMRC gereksinimlerini karşılamak için geliştirilmiştir. iXBRL kullanılarak, orijinal belgenin düzeni korunarak mali tablolar oluşturulabilir. iXBRL dosyaları, Windows İşletim Sisteminde Not Defteri ve MacOS'ta TextEdit gibi herhangi bir metin düzenleyicide açılabilir.
+iXBRL (ilnine XBRL) dosya biçimi, [XBRL](/tr/finance/xbrl/) verilerinin hem makine hem de insanlar tarafından okunabilir olması için bir HTML dosyasına gömülmesine olanak tanır. Bu aslında XBRL etiketlerini kullanan bir [xHTML](/tr/web/xhtml/) dosyasıdır ve XBRL International tarafından İngiltere'nin HMRC gereksinimlerini karşılamak için geliştirilmiştir. iXBRL kullanılarak, orijinal belgenin düzeni korunarak mali tablolar oluşturulabilir. iXBRL dosyaları, Windows İşletim Sisteminde Not Defteri ve MacOS'ta TextEdit gibi herhangi bir metin düzenleyicide açılabilir.
 
 ## iXBRL Dosya Biçimi
 

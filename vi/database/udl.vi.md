@@ -47,5 +47,5 @@ Các thuộc tính sau có thể được đặt trong UDL để đảm bảo k�
 ## Người giới thiệu ##
 
 * [Các thành phần truy cập dữ liệu của Microsoft](https://en.wikipedia.org/wiki/Microsoft_Data_Access_Components#Universal_data_link)
-* [Cấu hình Liên kết dữ liệu chung (UDL)](https://docs.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
+* [Cấu hình Liên kết dữ liệu chung (UDL)](https://learn.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
 

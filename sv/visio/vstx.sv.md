@@ -52,5 +52,5 @@ Relationsdelar är XML-dokument som beskriver relationerna mellan olika dokument
 
 ## Referenser ##
 
-* [Introduktion till Visio-filformat](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Introduktion till Visio-filformat](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

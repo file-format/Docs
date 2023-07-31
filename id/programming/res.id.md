@@ -56,7 +56,7 @@ Pola utama dalam sumber daya versi adalah **VS_FIXEDFILEINFO**. Pola tambahan me
 
 ## Referensi
 
-* [Format File Sumber Daya](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
+* [Format File Sumber Daya](https://learn.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
 
 

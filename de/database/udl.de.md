@@ -47,5 +47,5 @@ Die folgenden Eigenschaften können in einer UDL festgelegt werden, um die ordnu
 ## Verweise ##
 
 * [Microsoft-Datenzugriffskomponenten](https://en.wikipedia.org/wiki/Microsoft_Data_Access_Components#Universal_data_link)
-* [Universal Data Link (UDL)-Konfiguration](https://docs.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
+* [Universal Data Link (UDL)-Konfiguration](https://learn.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
 

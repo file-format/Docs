@@ -23,11 +23,11 @@ Az .addin kiterjesztésű fájl egy bővítménydefiníciós fájl, amelyet a Mi
 
 ## ADDIN fájlformátum - További információ
 
-Az ADDIN fájlokat a rendszer a lemezre menti XML fájlformátumban, amely ember által olvasható. Megnyitható olyan népszerű szövegszerkesztőkkel, mint a Notepad, Notepad++, Microsoft Visual Studio IDE és sok más. A Microsoft meghatározta az Office-hozzáadás [XML-jegyzékfájlját](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1). -in, amely leírja, hogyan kell egy bővítményt aktiválni, miután telepítették, és az Office dokumentumokkal és alkalmazásokkal együtt használják.
+Az ADDIN fájlokat a rendszer a lemezre menti XML fájlformátumban, amely ember által olvasható. Megnyitható olyan népszerű szövegszerkesztőkkel, mint a Notepad, Notepad++, Microsoft Visual Studio IDE és sok más. A Microsoft meghatározta az Office-hozzáadás [XML-jegyzékfájlját](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1). -in, amely leírja, hogyan kell egy bővítményt aktiválni, miután telepítették, és az Office dokumentumokkal és alkalmazásokkal együtt használják.
 
-**Lásd még:** [Hogyan készítsünk Office COM-bővítményt Visual C# .NET használatával](https://docs.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
+**Lásd még:** [Hogyan készítsünk Office COM-bővítményt Visual C# .NET használatával](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
 
 ## Hivatkozások
 
-* [Office-bővítmények XML-jegyzékfájlja](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1)
+* [Office-bővítmények XML-jegyzékfájlja](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1)
 

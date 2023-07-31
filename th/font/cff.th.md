@@ -23,7 +23,7 @@
 
 ## รูปแบบไฟล์ CFF
 
-ไฟล์ CFF เป็นไฟล์ไบนารีที่มีโครงร่างข้อมูลที่มีโครงสร้าง มีประเภทข้อมูลที่กำหนด ส่วนหัว การจัดระเบียบสัญลักษณ์ และพจนานุกรมตาราง สามารถดูรายละเอียดเพิ่มเติมเกี่ยวกับสิ่งเหล่านี้ได้ใน[ข้อมูลจำเพาะเกี่ยวกับรูปแบบตัวอักษรขนาดเล็ก](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+ไฟล์ CFF เป็นไฟล์ไบนารีที่มีโครงร่างข้อมูลที่มีโครงสร้าง มีประเภทข้อมูลที่กำหนด ส่วนหัว การจัดระเบียบสัญลักษณ์ และพจนานุกรมตาราง สามารถดูรายละเอียดเพิ่มเติมเกี่ยวกับสิ่งเหล่านี้ได้ใน[ข้อมูลจำเพาะเกี่ยวกับรูปแบบตัวอักษรขนาดเล็ก](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
 
 ### เค้าโครงข้อมูล
 เค้าโครงข้อมูลของรูปแบบไฟล์ CFF แสดงไว้ด้านล่าง
@@ -68,7 +68,7 @@
 
 ## อ้างอิง
 
-* [ตารางรูปแบบอักษรย่อ](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+* [ตารางรูปแบบอักษรย่อ](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
 * [รูปแบบไฟล์ CFF](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
-* [ชุดแผนภูมิ CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+* [ชุดแผนภูมิ CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

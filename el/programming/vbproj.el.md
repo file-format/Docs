@@ -23,7 +23,7 @@
 
 ## Μορφή αρχείου VBPROJ - Περισσότερες πληροφορίες
 
-Τα αρχεία VBPROJ είναι αρχεία κειμένου που είναι γραμμένα σε μορφή αρχείου [XML](/el/web/xml/) με βάση το [Σχήμα MSBuild XML](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild- project-file-schema-reference?view=vs-2019). Ένα αρχείο VBPROJ περιέχει πληροφορίες με τη μορφή ετικετών XML που ορίζουν πληροφορίες που σχετίζονται με τη συγκεκριμένη ομάδα ρυθμίσεων. Συνιστάται ιδιαίτερα να ανοίξετε και να επεξεργαστείτε αυτά τα αρχεία ρυθμίσεων στο Microsoft Visual Studio IDE.
+Τα αρχεία VBPROJ είναι αρχεία κειμένου που είναι γραμμένα σε μορφή αρχείου [XML](/el/web/xml/) με βάση το [Σχήμα MSBuild XML](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild- project-file-schema-reference?view=vs-2019). Ένα αρχείο VBPROJ περιέχει πληροφορίες με τη μορφή ετικετών XML που ορίζουν πληροφορίες που σχετίζονται με τη συγκεκριμένη ομάδα ρυθμίσεων. Συνιστάται ιδιαίτερα να ανοίξετε και να επεξεργαστείτε αυτά τα αρχεία ρυθμίσεων στο Microsoft Visual Studio IDE.
 
 ### Στοιχεία VBPROJ
 
@@ -42,6 +42,6 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Κατανόηση του αρχείου έργου](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
-* [MSBuild Schema Elements](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
+* [Κατανόηση του αρχείου έργου](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
+* [MSBuild Schema Elements](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
 

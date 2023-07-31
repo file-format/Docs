@@ -18,7 +18,7 @@
 
 ## Wat is een BR-bestand?
 
-Een BR-bestand is een gecomprimeerd webbestand dat is gegenereerd door toepassing van het open source-algoritme voor gegevenscompressie, **Brotli**. Het wordt gebruikt om webpagina-items op te slaan, zoals stylesheets ([CSS](/nl/web/css/)), afbeeldingen ([SVG](/nl/image/svg/)), [XML](/nl/web/xml/) en scripting bestanden ([JS](/nl/web/js/)). Moderne websites, zoals Chrome en Firefox, gebruiken BR-bestanden om de laadtijd van pagina's te verkorten, wat resulteert in een betere gebruikerservaring.
+Een BR-bestand is een gecomprimeerd webbestand dat is gegenereerd door toepassing van het open source-algoritme voor gegevenscompressie, **Brotli**. Het wordt gebruikt om webpagina-items op te slaan, zoals stylesheets ([CSS](/nl/web/css/)), afbeeldingen ([SVG](/nl/page-description-language/svg/)), [XML](/nl/web/xml/) en scripting bestanden ([JS](/nl/web/js/)). Moderne websites, zoals Chrome en Firefox, gebruiken BR-bestanden om de laadtijd van pagina's te verkorten, wat resulteert in een betere gebruikerservaring.
 
 ## BR-bestandsindeling
 

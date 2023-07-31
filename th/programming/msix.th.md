@@ -35,6 +35,6 @@
 
 ## อ้างอิง
 
-* [ภาพรวม MSIX](https://docs.microsoft.com/en-us/windows/msix/overview)
-* [สร้างไฟล์ APPX โดยใช้ Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [ภาพรวม MSIX](https://learn.microsoft.com/en-us/windows/msix/overview)
+* [สร้างไฟล์ APPX โดยใช้ Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

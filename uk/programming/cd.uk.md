@@ -45,5 +45,5 @@ Visual Studio дозволяє конвертувати/експортувати
 
 ## Список літератури
 
-* [Класи проектування у Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
+* [Класи проектування у Visual Studio](https://learn.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
 

@@ -34,7 +34,7 @@ Crystal Reports consente agli sviluppatori di report di fornire report nelle lin
 Progetta report come resoconti, fatture, rapporti di vendita e operativi, lettere, documenti di spedizione, materiali di marketing, documenti di conformità, indicatori di prestazioni e molti altri.
 
 ### Compatibilità
-L'output può essere esportato in formati come [XLS](/it/spreadsheet/xlsx/), [CSV](/it/spreadsheet/csv/), [PDF](/it/pdf/), [DOCX](/it/word-processing/docx /), testo o stampa con precisione di progettazione pixel-perfetta.
+L'output può essere esportato in formati come [XLS](/it/spreadsheet/xlsx/), [CSV](/it/spreadsheet/csv/), [PDF](/it/pdf/), [DOCX](/it/word-processing/docx/), testo o stampa con precisione di progettazione pixel-perfetta.
 
 
 

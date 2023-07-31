@@ -34,7 +34,7 @@ Mit Crystal Reports können Berichtsentwickler Berichte in den Muttersprachen ih
 Gestalten Sie Berichte als Kontoauszüge, Rechnungen, Verkaufs- und Betriebsberichte, Briefe, Versanddokumente, Marketingmaterialien, Compliance-Dokumente, Leistungsindikatoren und vieles mehr.
 
 ### Kompatibilität
-Die Ausgabe kann in Formate wie [XLS](/de/spreadsheet/xlsx/), [CSV](/de/spreadsheet/csv/), [PDF](/de/pdf/), [DOCX](/de/word-processing/docx /), Text oder Druck mit pixelgenauer Designpräzision.
+Die Ausgabe kann in Formate wie [XLS](/de/spreadsheet/xlsx/), [CSV](/de/spreadsheet/csv/), [PDF](/de/pdf/), [DOCX](/de/word-processing/docx/), Text oder Druck mit pixelgenauer Designpräzision.
 
 
 

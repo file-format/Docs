@@ -63,5 +63,5 @@ ASPError ऑब्जेक्ट ASP 3.0 में लागू किया �
 ## संदर्भ
 
 * [ASP - W3C द्वारा](https://www.w3schools.com/asp/default.asp)
-* [सरल ASP पेज बनाना](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [सरल ASP पेज बनाना](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

@@ -20,6 +20,14 @@
 
 SVG (Scalar Vector Graphics) is a type of image file that uses XML based text format for representing the appearance of an image. The beauty of this file format is that images saved as SVG files can be scaled to different sizes without losing the quality. DOCX (being one of the mostly used document file format for saving word files) to SVG is one of the commonly used operations that Microsoft Word users carry out on DOCX files. There are a number of apps and tools available online to carry out DOCX to SVG conversion. Aspose.Words app is one such online tool that lets you convert [DOCX](/word-processing/docx/) to [SVG](/page-description-language/svg/) for free.
 
+
+## Convert DOCX to SVG - FREE DEMO
+
+You can use Aspose.Words conversion app for FREE to convert DOCX to SVG by clicking the following button. 
+
+[![DOCX to SVG](../docx-to-svg.png?width=120px&height=60px)](https://products.aspose.app/words/conversion/docx-to-svg)
+
+
 ### Steps to Convert DOCX to SVG online - FREE DEMO
 
 Converting DOCX to SVG using Aspose.Words online app is simple and includes the following steps.

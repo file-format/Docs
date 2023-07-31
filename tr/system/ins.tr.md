@@ -48,6 +48,6 @@ Olası INS ayarları aşağıdaki tabloda verilmiştir:
 
 ## Referanslar
 
-* [Internet Ayarları (.INS) dosyalarını IEAK 11 ile kullanma](https://docs.microsoft.com/en-us/internet-explorer/ie11-ieak/using-internet-settings-ins-files)
+* [Internet Ayarları (.INS) dosyalarını IEAK 11 ile kullanma](https://learn.microsoft.com/en-us/internet-explorer/ie11-ieak/using-internet-settings-ins-files)
 
 

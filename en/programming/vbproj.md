@@ -23,7 +23,7 @@ A file with .vbproj extension is a Microsoft Visual Basic project file that is u
 
 ## VBPROJ File Format - More Information
 
-VBPROJ files are textual files that are written in [XML](/web/xml/) file format based on the [MSBuild XML Schema](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019). A VBPROJ file contains information in the form of XML tags that define information related to that particular group of settings. It is highly recommended to open and edit these setting files in Microsoft Visual Studio IDE.
+VBPROJ files are textual files that are written in [XML](/web/xml/) file format based on the [MSBuild XML Schema](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019). A VBPROJ file contains information in the form of XML tags that define information related to that particular group of settings. It is highly recommended to open and edit these setting files in Microsoft Visual Studio IDE.
 
 ### VBPROJ Elements
 
@@ -42,5 +42,5 @@ The following table gives a brief description of these elements.
 
 ## References
 
-* [Understanding the Project File](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
-* [MSBuild Schema Elements](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
+* [Understanding the Project File](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
+* [MSBuild Schema Elements](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)

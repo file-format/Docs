@@ -38,6 +38,6 @@
 
 ## مراجع
 
-* [شريط Windows الجانبي - بواسطة Microsoft](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
-* [Develop a Gadget for Windows Sidebar Part 1](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
+* [شريط Windows الجانبي - بواسطة Microsoft](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
+* [Develop a Gadget for Windows Sidebar Part 1](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
 

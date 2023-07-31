@@ -24,5 +24,5 @@
 
 ## использованная литература
 
-* [Веб-формы — Microsoft](https://docs.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
+* [Веб-формы — Microsoft](https://learn.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
 

@@ -32,5 +32,5 @@ Jenis file tertentu lainnya yang terdiri dari format file Visio 2013 meliputi:
 
 ## Referensi ##
 
-* [Pengantar Format File Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Pengantar Format File Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

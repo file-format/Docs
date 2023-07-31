@@ -27,7 +27,7 @@
 
 ## مواصفات تنسيق ملف PPTX
 
-الملفات التي تم إنشاؤها باستخدام تنسيق ملف Office Open XML عبارة عن مجموعة من ملفات XML جنبًا إلى جنب مع الملفات الأخرى التي توفر روابط بين جميع الملفات المكونة. هذه المجموعة هي في الواقع أرشيف مضغوط يمكن استخراجه لعرض محتوياته. للقيام بذلك ، ما عليك سوى إعادة تسمية امتداد ملف PPTX باستخدام zip واستخراجه لمراقبة محتوياته (راجع [مواصفات تنسيق ملف PPTX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/ efd8bb2d-d888-4e2e-af25-cad476730c9f) بواسطة Microsoft).
+الملفات التي تم إنشاؤها باستخدام تنسيق ملف Office Open XML عبارة عن مجموعة من ملفات XML جنبًا إلى جنب مع الملفات الأخرى التي توفر روابط بين جميع الملفات المكونة. هذه المجموعة هي في الواقع أرشيف مضغوط يمكن استخراجه لعرض محتوياته. للقيام بذلك ، ما عليك سوى إعادة تسمية امتداد ملف PPTX باستخدام zip واستخراجه لمراقبة محتوياته (راجع [مواصفات تنسيق ملف PPTX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/ efd8bb2d-d888-4e2e-af25-cad476730c9f) بواسطة Microsoft).
 
 المقاطع التالية تلقي بعض الضوء على كل واحد من هؤلاء.
 
@@ -90,6 +90,6 @@
 
 ## مراجع ##
 
-* [[MS-PPTX] - تنسيق ملف PPTX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
+* [[MS-PPTX] - تنسيق ملف PPTX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
 

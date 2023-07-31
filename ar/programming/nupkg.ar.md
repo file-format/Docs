@@ -27,6 +27,6 @@
 ## المرجعي
 
 * [Nuget.org](https://nuget.org)
-* [Quickstart: تثبيت واستخدام حزمة في Visual Studio (Windows فقط)](https://docs.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual- استوديو)
-* [كيفية إنشاء حزمة Nuget ونشرها](https://docs.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio؟tabs=netcore- cli)
+* [Quickstart: تثبيت واستخدام حزمة في Visual Studio (Windows فقط)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual- استوديو)
+* [كيفية إنشاء حزمة Nuget ونشرها](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio؟tabs=netcore- cli)
 

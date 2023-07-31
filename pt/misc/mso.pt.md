@@ -18,7 +18,7 @@
 
 ## O que é um arquivo MSO?
 
-Um arquivo MSO é um formato de arquivo de contêiner de dados criado quando uma mensagem HTML é enviada usando o Microsoft Outlook. Isso acontece principalmente com aplicativos do Microsoft Office 2000. Na maioria dos casos, a mensagem de e-mail é anexada com o nome do arquivo **Oledata.mso**. O destinatário do e-mail, ao abrir tal e-mail, pode visualizar o arquivo corretamente mesmo que não tenha o mesmo software instalado. Os arquivos MSO referem-se ao [Microsoft Compound Document File Format (MCDF)](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/53989ce4-7b05-4f8d-829b-d08d6148375b).
+Um arquivo MSO é um formato de arquivo de contêiner de dados criado quando uma mensagem HTML é enviada usando o Microsoft Outlook. Isso acontece principalmente com aplicativos do Microsoft Office 2000. Na maioria dos casos, a mensagem de e-mail é anexada com o nome do arquivo **Oledata.mso**. O destinatário do e-mail, ao abrir tal e-mail, pode visualizar o arquivo corretamente mesmo que não tenha o mesmo software instalado. Os arquivos MSO referem-se ao [Microsoft Compound Document File Format (MCDF)](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/53989ce4-7b05-4f8d-829b-d08d6148375b).
 
 ## Formato de arquivo Microsoft MSO
 
@@ -26,10 +26,10 @@ Os arquivos MSO são salvos no formato de arquivo composto de documento composto
 
 ### Estrutura de formato de arquivo MSO
 
-A estrutura de formato de arquivo interno do formato de arquivo MSO é bem definida nas [Estruturas](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/28488197-8193-49d7-84d8-dfd692418ccd ) da documentação do MCDF. A Tabela de Alocação de Arquivos (FAT) gerencia a alocação do setor e as cadeias do setor. Ele contém uma matriz de números de setor de 32 bits. Cada índice na matriz representa um número de setor, enquanto seu valor representa o próximo setor na cadeia ou um valor especial.
+A estrutura de formato de arquivo interno do formato de arquivo MSO é bem definida nas [Estruturas](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/28488197-8193-49d7-84d8-dfd692418ccd ) da documentação do MCDF. A Tabela de Alocação de Arquivos (FAT) gerencia a alocação do setor e as cadeias do setor. Ele contém uma matriz de números de setor de 32 bits. Cada índice na matriz representa um número de setor, enquanto seu valor representa o próximo setor na cadeia ou um valor especial.
 
 ## Referências
 
 * [Armazenamento Estruturado COM](https://en.wikipedia.org/wiki/COM_Structured_Storage)
-* [Microsoft Compound Document File Format (MCDF)](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/53989ce4-7b05-4f8d-829b-d08d6148375b)
+* [Microsoft Compound Document File Format (MCDF)](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/53989ce4-7b05-4f8d-829b-d08d6148375b)
 

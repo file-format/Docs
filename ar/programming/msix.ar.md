@@ -35,6 +35,6 @@
 
 ## مراجع
 
-* [نظرة عامة على MSIX](https://docs.microsoft.com/en-us/windows/msix/overview)
-* [إنشاء ملفات APPX باستخدام Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [نظرة عامة على MSIX](https://learn.microsoft.com/en-us/windows/msix/overview)
+* [إنشاء ملفات APPX باستخدام Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

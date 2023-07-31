@@ -27,7 +27,7 @@ XLSX ファイル形式は 2007 年に導入され、2000 年に Microsoft に�
 
 ## XLSX ファイル形式の仕様
 
-公式の [XLSX ファイル形式の仕様](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) は、Microsoft からオンラインで入手できます。 XLSX ファイルの内容を確認するには、拡張子を変更して [ZIP](/compression/zip/) ファイルに名前を変更し、解凍してこの Excel ワークブックの構成ファイルを表示します。空白のブックをファイルに展開すると、次の構成ファイルとフォルダーが含まれます。
+公式の [XLSX ファイル形式の仕様](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) は、Microsoft からオンラインで入手できます。 XLSX ファイルの内容を確認するには、拡張子を変更して [ZIP](/compression/zip/) ファイルに名前を変更し、解凍してこの Excel ワークブックの構成ファイルを表示します。空白のブックをファイルに展開すると、次の構成ファイルとフォルダーが含まれます。
 
 ### [Content_Types].xml ###
 
@@ -77,6 +77,6 @@ XLSX またはスプレッドシート ファイル形式について共有す�
 
 ## 参考文献
 
-* [[MS-XLSX] - XLSX ファイル形式](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [[MS-XLSX] - XLSX ファイル形式](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 * [オープン オフィス XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

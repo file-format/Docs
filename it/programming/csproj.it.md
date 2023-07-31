@@ -24,7 +24,7 @@ I file con estensione CSPROJ rappresentano un file di progetto C# che contiene l
 
 Gli sviluppatori possono creare file di progetto da soli e rispettare lo [schema XML MSBuild](https://msdn.microsoft.com/library/5dy88c2e.aspx). La struttura aperta e trasparente dei file di progetto consente agli sviluppatori di applicazioni di imporre un controllo sofisticato e dettagliato sulla modalità di creazione e distribuzione dei progetti. I contenuti di un tale file di progetto hanno una relazione molto chiara tra loro. La figura seguente mostra gli elementi chiave e la relazione tra questi per un tale file di progetto.
 
-![](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
+![](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
 
 Le sezioni seguenti elaborano gli elementi del formato file per un file di progetto.
 
@@ -94,5 +94,5 @@ Le attività devono sempre essere contenute negli elementi [Target](https://msdn
 
 ## Riferimenti
 
-* [Capire il file di progetto - MSDN](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- file)
+* [Capire il file di progetto - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- file)
 

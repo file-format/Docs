@@ -34,5 +34,5 @@ Deze informatie is ingebed met behulp van de Public-Key Cryptography Standard #7
 
 ## Referenties ##
 
-* [Microsoft Sign Tool](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
+* [Microsoft Sign Tool](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
 

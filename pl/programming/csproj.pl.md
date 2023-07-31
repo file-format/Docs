@@ -24,7 +24,7 @@ Pliki z rozszerzeniem CSPROJ reprezentują plik projektu C#, który zawiera list
 
 Deweloperzy mogą samodzielnie tworzyć pliki projektów, przestrzegając [schematu MSBuild XML](https://msdn.microsoft.com/library/5dy88c2e.aspx). Otwarta i przejrzysta struktura plików projektów pozwala twórcom aplikacji narzucić wyrafinowaną i precyzyjną kontrolę nad sposobem tworzenia i wdrażania projektów. Zawartość takiego pliku projektu ma bardzo wyraźny związek między sobą. Poniższy rysunek przedstawia kluczowe elementy i relacje między nimi dla takiego pliku projektu.
 
-![](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
+![](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
 
 W poniższych sekcjach omówiono elementy formatu pliku dla pliku projektu.
 
@@ -94,5 +94,5 @@ Zadania muszą zawsze być zawarte w elementach [Target](https://msdn.microsoft.
 
 ## Bibliografia
 
-* [Zrozumienie pliku projektu — MSDN](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- plik)
+* [Zrozumienie pliku projektu — MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- plik)
 

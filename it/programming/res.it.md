@@ -56,7 +56,7 @@ Il modello principale in una risorsa di versione è **VS_FIXEDFILEINFO**. Ulteri
 
 ## Riferimenti
 
-* [Formati file di risorse](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
+* [Formati file di risorse](https://learn.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
 
 

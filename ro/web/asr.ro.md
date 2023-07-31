@@ -27,5 +27,5 @@ Fișierul ASR conține script care este dezvoltat în limbajul de scripting stan
 ## Referințe
 
 * [Adobe Contribute - De Wikipedia](https://en.wikipedia.org/wiki/Adobe_Contribute)
-* [Crearea unor pagini ASP simple](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Crearea unor pagini ASP simple](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

@@ -56,7 +56,7 @@ RES 文件格式属于 Microsoft 资源编译器 (rc)。资源编译器是一种
 
 ## 参考
 
-* [资源文件格式](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
+* [资源文件格式](https://learn.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
 
 

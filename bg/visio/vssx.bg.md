@@ -40,6 +40,6 @@ VSDX файловете са базирани на Open Packaging Conventions и
 
 ## Препратки ##
 
-* [Въведение във файловия формат на Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
-* [Карта на схемата - Visio XML](https://docs.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
+* [Въведение във файловия формат на Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Карта на схемата - Visio XML](https://learn.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
 

@@ -31,5 +31,5 @@ En CMS-profilfil skapas med Connection Manager och paketeras med andra konfigura
 
 ## Referenser
 
-* [Förstå och konfigurera Windows Connection Manager](https://docs.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
+* [Förstå och konfigurera Windows Connection Manager](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
 

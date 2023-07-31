@@ -27,7 +27,7 @@
 
 ## Спецификации формата файла XLSX
 
-Официальные [спецификации формата файла XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) доступны в Интернете на сайте Microsoft. Чтобы увидеть, что находится внутри файла XLSX, просто переименуйте его в файл [ZIP](/ru/compression/zip/), изменив его расширение, а затем извлеките его, чтобы просмотреть файлы, составляющие эту книгу Excel. Пустая книга при извлечении в файлы содержит следующие составляющие файлы и папки.
+Официальные [спецификации формата файла XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) доступны в Интернете на сайте Microsoft. Чтобы увидеть, что находится внутри файла XLSX, просто переименуйте его в файл [ZIP](/ru/compression/zip/), изменив его расширение, а затем извлеките его, чтобы просмотреть файлы, составляющие эту книгу Excel. Пустая книга при извлечении в файлы содержит следующие составляющие файлы и папки.
 
 ### [Типы содержимого].xml ###
 
@@ -77,6 +77,6 @@
 
 ## использованная литература
 
-* [[MS-XLSX] — формат файла XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [[MS-XLSX] — формат файла XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

@@ -56,7 +56,7 @@ A verzió-erőforrás fő mintája a **VS_FIXEDFILEINFO**. További minták köz
 
 ## Hivatkozások
 
-* [Forrásfájl-formátumok](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
+* [Forrásfájl-formátumok](https://learn.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
 
 

@@ -19,7 +19,7 @@
 
 ## Mi az a DOC fájl?
 
-A .doc kiterjesztésű fájlok a Microsoft Word vagy más szövegszerkesztő dokumentumok által generált dokumentumok bináris fájlformátumban. A bővítményt kezdetben egyszerű szöveges dokumentációhoz használták több különböző operációs rendszeren. Számos különböző típusú adatot tartalmazhat, például képeket, formázott, valamint egyszerű szöveget, grafikonokat, diagramokat, beágyazott objektumokat, hivatkozásokat, oldalakat, oldalformázást, nyomtatási beállításokat és még sok mást. A formátum népszerű volt mindenféle dokumentáció esetében, mivel számos lehetőséget kínál a felhasználóknak kézikönyvek, javaslatok, specifikációk, önéletrajzok, cikkek vagy hasonló dokumentumok írásához. A DOC frissített verziója a [DOCX](/hu/Word%20Processing/DOCX/), amely az Office OpenXML-en alapul, amelynek specifikációi nyíltan elérhetők.
+A .doc kiterjesztésű fájlok a Microsoft Word vagy más szövegszerkesztő dokumentumok által generált dokumentumok bináris fájlformátumban. A bővítményt kezdetben egyszerű szöveges dokumentációhoz használták több különböző operációs rendszeren. Számos különböző típusú adatot tartalmazhat, például képeket, formázott, valamint egyszerű szöveget, grafikonokat, diagramokat, beágyazott objektumokat, hivatkozásokat, oldalakat, oldalformázást, nyomtatási beállításokat és még sok mást. A formátum népszerű volt mindenféle dokumentáció esetében, mivel számos lehetőséget kínál a felhasználóknak kézikönyvek, javaslatok, specifikációk, önéletrajzok, cikkek vagy hasonló dokumentumok írásához. A DOC frissített verziója a [DOCX](/hu/word-processing/docx/), amely az Office OpenXML-en alapul, amelynek specifikációi nyíltan elérhetők.
 
 ## Rövid története ##
 

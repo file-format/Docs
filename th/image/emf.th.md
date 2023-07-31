@@ -95,6 +95,6 @@ HDC CreateEnhMetaFileExample(
 
 ## อ้างอิง ##
 
-* [Metafiles รูปแบบที่ปรับปรุงแล้ว | Microsoft Docs](https://docs.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
+* [Metafiles รูปแบบที่ปรับปรุงแล้ว | Microsoft Docs](https://learn.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
 * [รูปแบบและข้อมูลจำเพาะของ Metafile ที่ปรับปรุงแล้ว](https://msdn.microsoft.com/en-us/library/cc230514.aspx)
 

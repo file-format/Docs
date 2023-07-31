@@ -27,5 +27,5 @@ AP 파일은 지원 소프트웨어의 도움으로 웹 서버에서 호스팅�
 ## 참고문헌
 
 * [ASP - By W3C](https://www.w3schools.com/asp/default.asp)
-* [간단한 ASP 페이지 만들기](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [간단한 ASP 페이지 만들기](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

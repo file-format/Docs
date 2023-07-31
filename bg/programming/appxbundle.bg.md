@@ -28,5 +28,5 @@ APPXBUNDLE файловете се публикуват в ZIP файлов фо
 ## Препратки
 
 * [Пакети на зависимости за пакети .appx и .appxbundle](https://www.ibm.com/docs/en/maas360?topic=catalog-dependency-packages-appx-appxbundle-packages)
-* [Създайте APPX файлове с помощта на Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Създайте APPX файлове с помощта на Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

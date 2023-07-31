@@ -32,6 +32,6 @@ Ursprungligen producerades Visio som en fristående produkt av Shapeware Corpora
 
 ## Referenser ##
 
-* [Introduktion till Visio-filformat](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
-* [Schemakarta - Visio XML](https://docs.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
+* [Introduktion till Visio-filformat](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Schemakarta - Visio XML](https://learn.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
 

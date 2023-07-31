@@ -27,7 +27,7 @@
 
 ## ตัวอย่างไฟล์ XSD
 
-ไฟล์ XSD อย่างง่ายที่มีสคีมาของใบสั่งซื้อจะกำหนดองค์ประกอบโดยใช้แท็กตามที่แสดงใน [ตัวอย่าง XSD โดย Microsoft](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file) ต่อไปนี้ -simple-schema?view=vs-2022)
+ไฟล์ XSD อย่างง่ายที่มีสคีมาของใบสั่งซื้อจะกำหนดองค์ประกอบโดยใช้แท็กตามที่แสดงใน [ตัวอย่าง XSD โดย Microsoft](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file) ต่อไปนี้ -simple-schema?view=vs-2022)
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
@@ -67,5 +67,5 @@
 ## อ้างอิง ##
 
 - [Microsoft XML Notepad](https://microsoft.github.io/XmlNotepad/)
-- [ตัวอย่าง XSD](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
+- [ตัวอย่าง XSD](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
 

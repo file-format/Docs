@@ -38,5 +38,5 @@ VSSM ファイル形式は、OpenOffice XML 仕様に基づく Microsoft Visio 2
 
 ## 参照 ##
 
-* [Visio ファイル形式の概要](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Visio ファイル形式の概要](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

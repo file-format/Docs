@@ -120,5 +120,5 @@ namespace N  // namespace declaration
 
 ## 参考文献
 
-* [ヘッダー ファイラー - Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [ヘッダー ファイラー - Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 

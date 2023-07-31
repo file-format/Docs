@@ -27,5 +27,5 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Η ευπάθεια στη σχεδίαση έκφρασης θα μπορούσε να επιτρέψει την απομακρυσμένη εκτέλεση κώδικα (2651018)](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
+* [Η ευπάθεια στη σχεδίαση έκφρασης θα μπορούσε να επιτρέψει την απομακρυσμένη εκτέλεση κώδικα (2651018)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
 

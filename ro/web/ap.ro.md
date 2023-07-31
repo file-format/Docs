@@ -27,5 +27,5 @@ Fișierele AP sunt găzduite pe serverul Web cu ajutorul unui software de suport
 ## Referințe
 
 * [ASP - Prin W3C](https://www.w3schools.com/asp/default.asp)
-* [Crearea de pagini ASP simple](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Crearea de pagini ASP simple](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

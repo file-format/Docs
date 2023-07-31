@@ -43,5 +43,5 @@
 
 ## Βιβλιογραφικές αναφορές ##
 
-- [Δημιουργία αρχείων ορισμού αναφοράς πελάτη (.rdlc)](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
+- [Δημιουργία αρχείων ορισμού αναφοράς πελάτη (.rdlc)](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
 

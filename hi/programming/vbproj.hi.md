@@ -23,7 +23,7 @@
 
 ## VBPROJ फ़ाइल स्वरूप - अधिक जानकारी
 
-वीबीपीआरओजे फाइलें पाठ्य फाइलें हैं जो [एमएसबिल्ड एक्सएमएल स्कीमा](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-) पर आधारित [XML](/hi/web/xml/) फ़ाइल प्रारूप में लिखी गई हैं। प्रोजेक्ट-फ़ाइल-स्कीमा-संदर्भ? देखें = बनाम-2019)। एक VBPROJ फ़ाइल में XML टैग के रूप में जानकारी होती है जो सेटिंग्स के उस विशेष समूह से संबंधित जानकारी को परिभाषित करती है। Microsoft Visual Studio IDE में इन सेटिंग फ़ाइलों को खोलने और संपादित करने की अत्यधिक अनुशंसा की जाती है।
+वीबीपीआरओजे फाइलें पाठ्य फाइलें हैं जो [एमएसबिल्ड एक्सएमएल स्कीमा](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-) पर आधारित [XML](/hi/web/xml/) फ़ाइल प्रारूप में लिखी गई हैं। प्रोजेक्ट-फ़ाइल-स्कीमा-संदर्भ? देखें = बनाम-2019)। एक VBPROJ फ़ाइल में XML टैग के रूप में जानकारी होती है जो सेटिंग्स के उस विशेष समूह से संबंधित जानकारी को परिभाषित करती है। Microsoft Visual Studio IDE में इन सेटिंग फ़ाइलों को खोलने और संपादित करने की अत्यधिक अनुशंसा की जाती है।
 
 ### वीबीपीआरओजे तत्व
 
@@ -42,6 +42,6 @@ VB सेटिंग्स फ़ाइल के घटक तत्व नि
 
 ## संदर्भ
 
-* [प्रोजेक्ट फाइल को समझना](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
-* [एमएसबिल्ड स्कीमा एलिमेंट्स](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
+* [प्रोजेक्ट फाइल को समझना](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
+* [एमएसबिल्ड स्कीमा एलिमेंट्स](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
 

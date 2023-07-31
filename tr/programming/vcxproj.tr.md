@@ -47,7 +47,7 @@ VCXPROJ dosyaları, [XML](/tr/web/xml/) dosya biçiminde oluşturulan metin dosy
 ```
 ### VCXPROJ Dosya Öğeleri
 
-Tipik bir VCXPROJ dosyası, yukarıdaki örnek XML'de görülebileceği gibi bir dizi öğe içerir. Microsoft'un [VCXPROJ yapısı](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) her dosya öğesini ayrıntılı olarak açıklar ve başvurulabilir geliştiricinin bakış açısından.
+Tipik bir VCXPROJ dosyası, yukarıdaki örnek XML'de görülebileceği gibi bir dizi öğe içerir. Microsoft'un [VCXPROJ yapısı](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) her dosya öğesini ayrıntılı olarak açıklar ve başvurulabilir geliştiricinin bakış açısından.
 
 #### Proje Elemanı
 
@@ -72,6 +72,6 @@ Bu bölüm, aşağıdakiler gibi proje düzeyi için bilgi sağlayan ayarları i
 
 ## Referanslar
 
-* [VCXPROJ Yapısı - MSDN](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
-* [C++ Proje Dosyaları](https://docs.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
+* [VCXPROJ Yapısı - MSDN](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
+* [C++ Proje Dosyaları](https://learn.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
 

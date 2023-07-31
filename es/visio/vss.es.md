@@ -32,6 +32,6 @@ Inicialmente Visio fue producido como un producto independiente por Shapeware Co
 
 ## Referencias ##
 
-* [Introducción al formato de archivo de Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
-* [Mapa de esquema - Visio XML](https://docs.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
+* [Introducción al formato de archivo de Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Mapa de esquema - Visio XML](https://learn.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
 

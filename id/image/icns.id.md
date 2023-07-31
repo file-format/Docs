@@ -19,7 +19,7 @@
 
 ## Apa itu berkas ICNS? ##
 
-Format ikon yang digunakan oleh program macOS disebut file ICNS. Ini memungkinkan pita alfa 1-bit dan 8-bit dan menyimpan satu gambar atau lebih, biasanya dibuat dari dokumen [PNG](/id/image/png). Ikon program di browser dan antarmuka macOS ditampilkan menggunakan file ICNS.
+Format ikon yang digunakan oleh program macOS disebut file ICNS. Ini memungkinkan pita alfa 1-bit dan 8-bit dan menyimpan satu gambar atau lebih, biasanya dibuat dari dokumen [PNG](/id/image/png/). Ikon program di browser dan antarmuka macOS ditampilkan menggunakan file ICNS.
 
 Berdasarkan lokasinya, ikon gaya yang sama dapat memiliki beberapa setelan. Format ICNS telah mengalami banyak perubahan dan telah berkembang ke titik di mana sekarang dapat digunakan sebagai dasar untuk berbagai format yang kompatibel. Berikut adalah beberapa poin penting lainnya yang perlu Anda ketahui:
 
@@ -31,7 +31,7 @@ Berdasarkan lokasinya, ikon gaya yang sama dapat memiliki beberapa setelan. Form
 ## Format File ICNS ##
 
 Format data ICNS adalah kapsul untuk satu atau lebih gambar, mendukung pita 1-bit dan banyak status gambar.
-Sistem operasi dapat mengubah ukuran gambar ikon agar sesuai dengan ukuran tampilan yang diperlukan. Gambar ikon yang lebih besar biasanya disimpan sebagai file [JPEG](/id/image/jpeg/) 2000 atau [PNG](/id/image/png). Jenis file ICNS terkompresi dan tidak terkompresi dimungkinkan.
+Sistem operasi dapat mengubah ukuran gambar ikon agar sesuai dengan ukuran tampilan yang diperlukan. Gambar ikon yang lebih besar biasanya disimpan sebagai file [JPEG](/id/image/jpeg/) 2000 atau [PNG](/id/image/png/). Jenis file ICNS terkompresi dan tidak terkompresi dimungkinkan.
 
 Data header dan ikon biner membentuk struktur file ICNS. Header berisi 8 byte data, empat di antaranya adalah literal ajaib dan empat di antaranya adalah panjang file. Jenis dan ukuran setiap gambar ikon disimpan di bagian data ikon, yang diikuti oleh data gambar biner. Ukuran gambar menentukan ukuran bagian biner.
 

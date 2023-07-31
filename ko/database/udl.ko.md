@@ -47,5 +47,5 @@
 ## 참조 ##
 
 * [Microsoft 데이터 액세스 구성 요소](https://en.wikipedia.org/wiki/Microsoft_Data_Access_Components#Universal_data_link)
-* [UDL(Universal Data Link) 구성](https://docs.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
+* [UDL(Universal Data Link) 구성](https://learn.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
 

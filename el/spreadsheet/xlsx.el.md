@@ -27,7 +27,7 @@
 
 ## Προδιαγραφές μορφής αρχείου XLSX
 
-Οι επίσημες [προδιαγραφές μορφής αρχείου XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) είναι διαθέσιμες στο διαδίκτυο από τη Microsoft. Για να δείτε τι βρίσκεται μέσα στο αρχείο XLSX, απλώς μετονομάστε το σε αρχείο [ZIP](/el/compression/zip/) αλλάζοντας την επέκτασή του και, στη συνέχεια, εξαγάγετε το για να προβάλετε τα συστατικά αρχεία αυτού του βιβλίου εργασίας του Excel. Ένα κενό βιβλίο εργασίας, όταν εξάγεται στα αρχεία του, έχει τα ακόλουθα συστατικά αρχεία και φακέλους.
+Οι επίσημες [προδιαγραφές μορφής αρχείου XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) είναι διαθέσιμες στο διαδίκτυο από τη Microsoft. Για να δείτε τι βρίσκεται μέσα στο αρχείο XLSX, απλώς μετονομάστε το σε αρχείο [ZIP](/el/compression/zip/) αλλάζοντας την επέκτασή του και, στη συνέχεια, εξαγάγετε το για να προβάλετε τα συστατικά αρχεία αυτού του βιβλίου εργασίας του Excel. Ένα κενό βιβλίο εργασίας, όταν εξάγεται στα αρχεία του, έχει τα ακόλουθα συστατικά αρχεία και φακέλους.
 
 ### [Τύποι_περιεχομένου].xml ###
 
@@ -77,6 +77,6 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [[MS-XLSX] - Μορφή αρχείου XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [[MS-XLSX] - Μορφή αρχείου XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

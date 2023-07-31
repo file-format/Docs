@@ -32,5 +32,5 @@ Bepaalde andere bestandstypen die deel uitmaken van de Visio 2013-bestandsindeli
 
 ## Referenties ##
 
-* [Inleiding tot Visio-bestandsindeling](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Inleiding tot Visio-bestandsindeling](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

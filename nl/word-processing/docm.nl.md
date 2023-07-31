@@ -19,7 +19,7 @@
 
 ## Wat is een DOCM-bestand?
 
-DOCM-bestanden zijn door Microsoft Word 2007 of hoger gegenereerde documenten met de mogelijkheid om macro's uit te voeren. Het is vergelijkbaar met het [DOCX](https://docs.fileformat.com/Word%20Processing/DOCX/) bestandsformaat, maar de mogelijkheid om macro's uit te voeren maakt het anders dan DOCX. Net als DOCX kunnen DOCM-bestanden tekst, afbeeldingen, tabellen, vormen, grafieken en andere inhoud bevatten. De mogelijkheid om macro's uit te voeren, maakt het gemakkelijk om tijd te besparen door de reeks opdrachten uit te voeren in de vorm van opgenomen acties voor het automatisch voltooien van een taak . DOCM-bestanden kunnen worden geopend en bewerkt in Microsoft Word 2007 en hoger.
+DOCM-bestanden zijn door Microsoft Word 2007 of hoger gegenereerde documenten met de mogelijkheid om macro's uit te voeren. Het is vergelijkbaar met het [DOCX](https://docs.fileformat.com/word-processing/docx/) bestandsformaat, maar de mogelijkheid om macro's uit te voeren maakt het anders dan DOCX. Net als DOCX kunnen DOCM-bestanden tekst, afbeeldingen, tabellen, vormen, grafieken en andere inhoud bevatten. De mogelijkheid om macro's uit te voeren, maakt het gemakkelijk om tijd te besparen door de reeks opdrachten uit te voeren in de vorm van opgenomen acties voor het automatisch voltooien van een taak . DOCM-bestanden kunnen worden geopend en bewerkt in Microsoft Word 2007 en hoger.
 
 ## Korte geschiedenis
 

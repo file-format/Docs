@@ -23,7 +23,7 @@ DOCX är ett välkänt format för Microsoft Word-dokument. Introducerad från 2
 
 ## Kortfattad bakgrund ##
 
-Efter att Microsoft öppnade specifikationerna för DOC-filformatet var det lätt för sina konkurrenter att omvända formatet och ge samma stöd i sina egna applikationer. Dessutom tvingade konkurrensen från Open Office i form av dess Open Document Format, Microsoft att anta mer öppna och breda standarder. Det var i början av 2000 när Microsoft bestämde sig för att gå för förändringen för att tillgodose standarden för **Office Open XML**. Dokument under denna nya standard fick [.docx-tillägg](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), "X" vara för XML. År 2007 blev detta nya filformat en del av Office 2007 och används även i de nya versionerna av Microsoft Office. Den nya filtypen har lagt till fördelarna med små filstorlekar, färre ändringar av korruption och välformaterad bildrepresentation.
+Efter att Microsoft öppnade specifikationerna för DOC-filformatet var det lätt för sina konkurrenter att omvända formatet och ge samma stöd i sina egna applikationer. Dessutom tvingade konkurrensen från Open Office i form av dess Open Document Format, Microsoft att anta mer öppna och breda standarder. Det var i början av 2000 när Microsoft bestämde sig för att gå för förändringen för att tillgodose standarden för **Office Open XML**. Dokument under denna nya standard fick [.docx-tillägg](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), "X" vara för XML. År 2007 blev detta nya filformat en del av Office 2007 och används även i de nya versionerna av Microsoft Office. Den nya filtypen har lagt till fördelarna med små filstorlekar, färre ändringar av korruption och välformaterad bildrepresentation.
 
 ## DOCX filformatspecifikationer - Mer information
 
@@ -105,6 +105,6 @@ Ett stycke är huvudinnehållsinnehavaren i ett dokument. Det representeras av *
 
 ## Referenser ##
 
-* [MS - DOCX-filformat](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
+* [MS - DOCX-filformat](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
 * [Office Open XML](http://officeopenxml.com/)
 

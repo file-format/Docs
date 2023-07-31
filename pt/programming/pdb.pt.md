@@ -19,7 +19,7 @@
 
 ## O que é um arquivo PDB?
 
-Um arquivo com extensão .pdb é um arquivo de banco de dados de programa que contém informações de depuração para um executável compilado (EXE/DLL). Os arquivos PDB são gerados por compiladores da Microsoft quando um programa de aplicativo é compilado no modo de depuração. A presença do arquivo PDB pode ajudar na engenharia reversa de um executável, pois contém informações significativas sobre todos os símbolos dos módulos. É por esse motivo que esses arquivos são mantidos separados do executável final. A [API DgbHelp] da Microsoft (https://docs.microsoft.com/en-us/windows/win32/debug/dbghelp-functions) pode abrir um arquivo PDB para obter informações como públicos e exportações, símbolos globais, símbolos locais, tipo de dados, arquivos de origem e números de linha.
+Um arquivo com extensão .pdb é um arquivo de banco de dados de programa que contém informações de depuração para um executável compilado (EXE/DLL). Os arquivos PDB são gerados por compiladores da Microsoft quando um programa de aplicativo é compilado no modo de depuração. A presença do arquivo PDB pode ajudar na engenharia reversa de um executável, pois contém informações significativas sobre todos os símbolos dos módulos. É por esse motivo que esses arquivos são mantidos separados do executável final. A [API DgbHelp] da Microsoft (https://learn.microsoft.com/en-us/windows/win32/debug/dbghelp-functions) pode abrir um arquivo PDB para obter informações como públicos e exportações, símbolos globais, símbolos locais, tipo de dados, arquivos de origem e números de linha.
 
 ## Formato de arquivo PDB
 

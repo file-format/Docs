@@ -19,7 +19,7 @@
 
 ## Czym jest plik EOT?
 
-Plik z rozszerzeniem .eot to czcionka OpenType osadzona w dokumencie. Są one najczęściej używane w plikach internetowych, takich jak strony internetowe. Został stworzony przez firmę Microsoft i jest obsługiwany przez produkty firmy Microsoft, w tym plik prezentacji programu PowerPoint [.pps](/pl/presentation/pps). Plik nie ma podstawowego zastosowania i jest rodzajem dokumentu towarzyszącego głównemu dokumentowi lub stronie internetowej. Podobnie jak czcionki OTF, EOT obsługuje zarówno kontury Postscript, jak i TrueType dla glifów. Pliki EOT mają mniejszy rozmiar z tego powodu, że są kompresowane przy użyciu kompresji LZ. EOT używa narzędzia firmy Microsoft do tworzenia czcionki z istniejących czcionek TTF/OTF.
+Plik z rozszerzeniem .eot to czcionka OpenType osadzona w dokumencie. Są one najczęściej używane w plikach internetowych, takich jak strony internetowe. Został stworzony przez firmę Microsoft i jest obsługiwany przez produkty firmy Microsoft, w tym plik prezentacji programu PowerPoint [.pps](/pl/presentation/pps/). Plik nie ma podstawowego zastosowania i jest rodzajem dokumentu towarzyszącego głównemu dokumentowi lub stronie internetowej. Podobnie jak czcionki OTF, EOT obsługuje zarówno kontury Postscript, jak i TrueType dla glifów. Pliki EOT mają mniejszy rozmiar z tego powodu, że są kompresowane przy użyciu kompresji LZ. EOT używa narzędzia firmy Microsoft do tworzenia czcionki z istniejących czcionek TTF/OTF.
 
 ## Krótka historia
 

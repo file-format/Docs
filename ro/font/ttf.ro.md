@@ -90,5 +90,5 @@ Fiecare tabel dintr-un fișier cu fonturi trebuie să aibă propria sa intrare �
 
 ## Referințe
 * [Manual de referință pentru font TrueType](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [Prezentare generală TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Prezentare generală TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

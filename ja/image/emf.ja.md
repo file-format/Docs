@@ -95,6 +95,6 @@ EMF ファイル形式は 2 回改訂されました。変更されたバージ�
 
 ## 参照 ##
 
-* [拡張形式のメタファイル | Microsoft Docs](https://docs.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
+* [拡張形式のメタファイル | Microsoft Docs](https://learn.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
 * [強化されたメタファイルのフォーマットと仕様](https://msdn.microsoft.com/en-us/library/cc230514.aspx)
 

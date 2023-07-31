@@ -28,5 +28,5 @@
 ## הפניות
 
 * [חבילות תלות עבור חבילות .appx ו-.appxbundle](https://www.ibm.com/docs/en/maas360?topic=catalog-dependency-packages-appx-appxbundle-packages)
-* [צור קובצי APPX באמצעות Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [צור קובצי APPX באמצעות Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

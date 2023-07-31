@@ -61,5 +61,5 @@ RDL에서 DataType 열거는 속성, 표현식 또는 매개변수의 데이터 
 ## 참조 ##
 
 - [보고서 정의 언어(위키피디아)](https://en.wikipedia.org/wiki/Report_Definition_Language)
-- [보고서 정의 언어(SSRS)](https://docs.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
+- [보고서 정의 언어(SSRS)](https://learn.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
 

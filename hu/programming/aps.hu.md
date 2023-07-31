@@ -26,7 +26,7 @@ Az APS fájlformátum csak egy fordítási lépés, és csak szimbolikus adatoka
 
 ## Hivatkozások
 
-* [Resource Files (C++)](https://docs.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
+* [Resource Files (C++)](https://learn.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
  
 
 

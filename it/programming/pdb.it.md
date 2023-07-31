@@ -19,7 +19,7 @@
 
 ## Che cos'è un file PDB?
 
-Un file con estensione .pdb è un file di database di programma che contiene informazioni di debug per un eseguibile compilato (EXE/DLL). I file PDB vengono generati dai compilatori Microsoft quando un programma applicativo viene compilato in modalità di debug. La presenza del file PDB può aiutare nel reverse engineering di un eseguibile in quanto contiene informazioni significative su tutti i simboli dei moduli. È per questo motivo che questi file vengono mantenuti separati dall'eseguibile finale. L'[API DgbHelp] di Microsoft (https://docs.microsoft.com/en-us/windows/win32/debug/dbghelp-functions) può aprire un file PDB per ottenere informazioni quali public ed esportazioni, simboli globali, simboli locali, digitare dati, file di origine e numeri di riga.
+Un file con estensione .pdb è un file di database di programma che contiene informazioni di debug per un eseguibile compilato (EXE/DLL). I file PDB vengono generati dai compilatori Microsoft quando un programma applicativo viene compilato in modalità di debug. La presenza del file PDB può aiutare nel reverse engineering di un eseguibile in quanto contiene informazioni significative su tutti i simboli dei moduli. È per questo motivo che questi file vengono mantenuti separati dall'eseguibile finale. L'[API DgbHelp] di Microsoft (https://learn.microsoft.com/en-us/windows/win32/debug/dbghelp-functions) può aprire un file PDB per ottenere informazioni quali public ed esportazioni, simboli globali, simboli locali, digitare dati, file di origine e numeri di riga.
 
 ## Formato file PDB
 

@@ -24,7 +24,7 @@ CSPROJ 拡張子を持つファイルは、プロジェクトに含まれるフ�
 
 開発者は、[MSBuild XML スキーマ](https://msdn.microsoft.com/library/5dy88c2e.aspx) に従って、自分でプロジェクト ファイルを作成できます。プロジェクト ファイルのオープンで透過的な構造により、アプリケーション開発者は、プロジェクトのビルドおよびデプロイ方法を高度かつきめ細かく制御できます。このようなプロジェクト ファイルの内容は、相互に非常に明確な関係を持っています。次の図は、このようなプロジェクト ファイルの主要な要素とこれらの関係を示しています。
 
-![](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
+![](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
 
 次のセクションでは、プロジェクト ファイルのファイル形式要素について詳しく説明します。
 
@@ -94,5 +94,5 @@ MSBuild は、このプロパティ定義を処理するときに、最初に **
 
 ## 参考文献
 
-* [プロジェクト ファイルについて - MSDN](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-ファイル）
+* [プロジェクト ファイルについて - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-ファイル）
 

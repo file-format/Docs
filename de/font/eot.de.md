@@ -19,7 +19,7 @@
 
 ## Was ist eine EOT-Datei?
 
-Eine Datei mit der Erweiterung .eot ist eine OpenType-Schriftart, die in ein Dokument eingebettet ist. Diese werden hauptsächlich in Webdateien wie einer Webseite verwendet. Es wurde von Microsoft erstellt und wird von Microsoft-Produkten unterstützt, einschließlich der PowerPoint-Präsentationsdatei [.pps](/de/presentation/pps). Die Datei wird nicht primär verwendet und ist eine Art Begleitdokument zum Hauptdokument oder zur Webseite. Ähnlich wie OTF-Schriftarten unterstützt EOT sowohl Postscript- als auch TrueType-Konturen für die Glyphen. EOT-Dateien sind kleiner, da sie mit LZ-Komprimierung komprimiert werden. EOT verwendet ein Microsoft-Tool, um eine Schriftart aus vorhandenen TTF/OTF-Schriftarten zu erstellen.
+Eine Datei mit der Erweiterung .eot ist eine OpenType-Schriftart, die in ein Dokument eingebettet ist. Diese werden hauptsächlich in Webdateien wie einer Webseite verwendet. Es wurde von Microsoft erstellt und wird von Microsoft-Produkten unterstützt, einschließlich der PowerPoint-Präsentationsdatei [.pps](/de/presentation/pps/). Die Datei wird nicht primär verwendet und ist eine Art Begleitdokument zum Hauptdokument oder zur Webseite. Ähnlich wie OTF-Schriftarten unterstützt EOT sowohl Postscript- als auch TrueType-Konturen für die Glyphen. EOT-Dateien sind kleiner, da sie mit LZ-Komprimierung komprimiert werden. EOT verwendet ein Microsoft-Tool, um eine Schriftart aus vorhandenen TTF/OTF-Schriftarten zu erstellen.
 
 ## Kurze Geschichte
 

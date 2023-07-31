@@ -63,5 +63,5 @@ Một đối tượng phiên giống như một liên kết giữa trình duyệ
 ## Người giới thiệu
 
 * [ASP - Bởi W3C](https://www.w3schools.com/asp/default.asp)
-* [Tạo trang ASP đơn giản](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Tạo trang ASP đơn giản](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

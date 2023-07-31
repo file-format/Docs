@@ -40,6 +40,6 @@ Visio 2013 파일 형식을 구성하는 다른 특정 파일 형식은 다음�
 
 ## 참조 ##
 
-* [Visio 파일 형식 소개](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
-* [스키마 맵 - Visio XML](https://docs.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
+* [Visio 파일 형식 소개](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [스키마 맵 - Visio XML](https://learn.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
 

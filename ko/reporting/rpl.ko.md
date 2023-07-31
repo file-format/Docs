@@ -307,5 +307,5 @@ RPL 스트림에는 보고서 레코드가 하나만 있어야 하며 스트림�
 
 ## 참조 ##
 
-- [보고서 페이지 레이아웃(RPL) 바이너리 스트림 형식](https://docs.microsoft.com/en-us/openspecs/sql_server_protocols/ms-rpl/9c4ff7ba-f6da-4092-9670-aa0e54e73887)
+- [보고서 페이지 레이아웃(RPL) 바이너리 스트림 형식](https://learn.microsoft.com/en-us/openspecs/sql_server_protocols/ms-rpl/9c4ff7ba-f6da-4092-9670-aa0e54e73887)
 

@@ -25,13 +25,13 @@
 
 ## פורמט קובץ X
 
-[הפניה לקובץ X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) מכיל מידע התייחסות עבור רכיבי ה-API המשמשים כדי עבודה עם קבצי DirectX .x. הפורמט מספק פרימיטיבים של נתונים ברמה נמוכה המשמשים יישומים אחרים כדי להגדיר פרימיטיבים ברמה גבוהה יותר באמצעות תבניות נתונים. DirectX 6.0 הציגה ממשקים ושיטות המאפשרות קריאה וכתיבה לקבצי .x. DirectX 3.0 הציגה גרסה בינארית של פורמט קובץ זה.
+[הפניה לקובץ X](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) מכיל מידע התייחסות עבור רכיבי ה-API המשמשים כדי עבודה עם קבצי DirectX .x. הפורמט מספק פרימיטיבים של נתונים ברמה נמוכה המשמשים יישומים אחרים כדי להגדיר פרימיטיבים ברמה גבוהה יותר באמצעות תבניות נתונים. DirectX 6.0 הציגה ממשקים ושיטות המאפשרות קריאה וכתיבה לקבצי .x. DirectX 3.0 הציגה גרסה בינארית של פורמט קובץ זה.
 
-[הפניה לפורמט קובץ X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) שהוגדר על ידי DirectX 9 מכיל מידע עזר עבור ‎.x קבצים בקידוד בינארי כמו גם בטקסט.
+[הפניה לפורמט קובץ X](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) שהוגדר על ידי DirectX 9 מכיל מידע עזר עבור ‎.x קבצים בקידוד בינארי כמו גם בטקסט.
 
 ### קידוד בינארי
 
-[הפורמט הבינארי](https://docs.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) מגדיר את פורמט DirectX X כייצוג סמלי של פורמט הטקסט. אסימונים אלה יכולים להיות עצמאיים כדי לתת מבנה דקדוקי או יכולים להיות אסימונים נושאי תיעוד המספקים את הנתונים הדרושים.
+[הפורמט הבינארי](https://learn.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) מגדיר את פורמט DirectX X כייצוג סמלי של פורמט הטקסט. אסימונים אלה יכולים להיות עצמאיים כדי לתת מבנה דקדוקי או יכולים להיות אסימונים נושאי תיעוד המספקים את הנתונים הדרושים.
 
 #### כותרת
 
@@ -84,6 +84,6 @@
 
 ## הפניות
 
-* [X Files Legacy](https://docs.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
-* [הפניה לפורמט קובץ DirectX 9](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
+* [X Files Legacy](https://learn.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
+* [הפניה לפורמט קובץ DirectX 9](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
 

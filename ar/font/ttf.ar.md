@@ -90,5 +90,5 @@
 
 ## مراجع
 * [دليل مرجعي لخطوط TrueType](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [TrueType Overview](https://docs.microsoft.com/en-us/typography/truetype/)
+* [TrueType Overview](https://learn.microsoft.com/en-us/typography/truetype/)
 

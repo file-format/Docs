@@ -59,5 +59,5 @@ Tek bir ASAX dosyası, uygulama düzeyindeki olayları işlemek için yazılmı�
 ## Referanslar
 
 * [HTTP İşleyicileri ve HTTP Modüllerine Genel Bakış](https://msdn.microsoft.com/en-us/library/bb398986(v=vs.100))
-* [Global.asax Söz Dizimi](https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
+* [Global.asax Söz Dizimi](https://learn.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
 

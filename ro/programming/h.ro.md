@@ -120,5 +120,5 @@ namespace N  // namespace declaration
 
 ## Referințe
 
-* [Filere antet - Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [Filere antet - Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 

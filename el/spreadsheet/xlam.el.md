@@ -30,5 +30,5 @@ End Function
 
 ## Βιβλιογραφικές αναφορές ##
 
-- [Αναφορά μορφής αρχείου - ](https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
+- [Αναφορά μορφής αρχείου - ](https://learn.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
 

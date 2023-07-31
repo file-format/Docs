@@ -26,7 +26,7 @@ Fișierele DDS sunt salvate ca fișiere binare și pot fi utilizate cu DirectX S
 
 ### Aspect fișier DDS
 
-[Aspectul fișierului DDS](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) a fost documentat de Microsoft în detaliu. Un fișier DDS binar conține următoarele informații.
+[Aspectul fișierului DDS](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) a fost documentat de Microsoft în detaliu. Un fișier DDS binar conține următoarele informații.
 
 * Un DWORD (număr magic) care conține valoarea codului de patru caractere „DDS” (0x20534444).
 * O descriere a datelor din fișier.
@@ -38,7 +38,7 @@ DWORD               dwMagic;
 DDS_HEADER          header;
 ```
 
-[Ghidul de programare al formatului de fișier DDS](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) elaborează în continuare detaliile tehnice ale acestui format de fișier.
+[Ghidul de programare al formatului de fișier DDS](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) elaborează în continuare detaliile tehnice ale acestui format de fișier.
 
 ## Referințe
 

@@ -23,7 +23,7 @@ CFF2 dosya formatı, CFF dosya formatının 2.0 sürümüdür ve CFF dosya forma
 
 ## CFF2 Dosya Biçimi
 
-[CFF2 dosya biçimi belirtimleri](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2), dosya biçimiyle ilgili dahili veri düzeni, veri türleri, tablolar ve diğer dahili bilgiler hakkında ayrıntılar içerir. Geliştiricinin referansı için başvurulabilir. Bunlarla ilgili bazı detaylar aşağıdaki gibidir.
+[CFF2 dosya biçimi belirtimleri](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2), dosya biçimiyle ilgili dahili veri düzeni, veri türleri, tablolar ve diğer dahili bilgiler hakkında ayrıntılar içerir. Geliştiricinin referansı için başvurulabilir. Bunlarla ilgili bazı detaylar aşağıdaki gibidir.
 
 ### Veri Düzeni
 
@@ -81,5 +81,5 @@ CFF2 dosyaları, yazı tipi sözlüğü verilerini kompakt, belirtilmiş bir bi�
 
 ## Referanslar
 
-* [CFF2 Dosya Biçimi](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2)
+* [CFF2 Dosya Biçimi](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2)
 

@@ -61,5 +61,5 @@ RDL では、DataType 列挙は、属性、式、またはパラメーターの�
 ## 参照 ##
 
 - [レポート定義言語 (ウィキペディア)](https://en.wikipedia.org/wiki/Report_Definition_Language)
-- [レポート定義言語 (SSRS)](https://docs.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
+- [レポート定義言語 (SSRS)](https://learn.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
 

@@ -56,7 +56,7 @@ Głównym wzorcem w zasobie wersji jest **VS_FIXEDFILEINFO**. Dodatkowe wzorce o
 
 ## Bibliografia
 
-* [Formaty plików zasobów](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
+* [Formaty plików zasobów](https://learn.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
 
 

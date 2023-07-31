@@ -28,5 +28,5 @@ APPXBUNDLE 파일은 ZIP 파일 형식으로 게시됩니다. 앱 패키지의 �
 ## 참고문헌
 
 * [.appx 및 .appxbundle 패키지에 대한 종속성 패키지](https://www.ibm.com/docs/en/maas360?topic=catalog-dependency-packages-appx-appxbundle-packages)
-* [Microsoft Visual Studio를 사용하여 APPX 파일 만들기](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Microsoft Visual Studio를 사용하여 APPX 파일 만들기](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

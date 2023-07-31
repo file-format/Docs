@@ -31,5 +31,5 @@ ASD файловете, създадени спрямо оригиналните
 
 ## Препратки
 
-* [Възстановяване на документ на Microsoft Word](https://docs.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
+* [Възстановяване на документ на Microsoft Word](https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
 

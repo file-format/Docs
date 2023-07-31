@@ -24,7 +24,7 @@ Arquivos com extensão CSPROJ representam um arquivo de projeto C# que contém a
 
 Os desenvolvedores podem criar arquivos de projeto por conta própria, respeitando o [MSBuild XML Schema](https://msdn.microsoft.com/library/5dy88c2e.aspx). A estrutura aberta e transparente dos arquivos de projeto permite que os desenvolvedores de aplicativos imponham um controle sofisticado e refinado sobre como os projetos são criados e implantados. O conteúdo de tal arquivo de projeto tem uma relação muito clara entre si. A figura a seguir mostra os elementos-chave e o relacionamento entre eles para esse arquivo de projeto.
 
-![](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
+![](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
 
 As seções a seguir elaboram os elementos de formato de arquivo para um arquivo de projeto.
 
@@ -94,5 +94,5 @@ As tarefas sempre devem estar contidas nos elementos [Destino](https://msdn.micr
 
 ## Referências
 
-* [Compreendendo o arquivo de projeto - MSDN](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- Arquivo)
+* [Compreendendo o arquivo de projeto - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- Arquivo)
 

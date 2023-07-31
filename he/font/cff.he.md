@@ -23,7 +23,7 @@
 
 ## פורמט קובץ CFF
 
-קבצי CFF הם קבצים בינאריים המכילים פריסת נתונים מובנית, בעלי סוגי נתונים מוגדרים, כותרת, ארגון גליפים ומילוני טבלה. פרטים נוספים על אלה ניתן למצוא ב[מפרט פורמט גופן קומפקטי](https://docs.microsoft.com/en-us/typography/opentype/spec/cff).
+קבצי CFF הם קבצים בינאריים המכילים פריסת נתונים מובנית, בעלי סוגי נתונים מוגדרים, כותרת, ארגון גליפים ומילוני טבלה. פרטים נוספים על אלה ניתן למצוא ב[מפרט פורמט גופן קומפקטי](https://learn.microsoft.com/en-us/typography/opentype/spec/cff).
 
 ### פריסת נתונים
 פריסת הנתונים של פורמט קובץ CFF היא כפי שמוצג להלן.
@@ -68,7 +68,7 @@
 
 ## הפניות
 
-* [טבלת פורמט גופנים קומפקטי](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+* [טבלת פורמט גופנים קומפקטי](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
 * [פורמט קובץ CFF](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
-* [CFF2 Chartset](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+* [CFF2 Chartset](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

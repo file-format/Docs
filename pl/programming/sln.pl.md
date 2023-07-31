@@ -86,6 +86,6 @@ Na podstawie informacji zawartych w sekcji projektu pliku .sln środowisko ładu
 
 ### **Bibliografia** ###
 
-* [Plik rozwiązania — według MSDN](https://docs.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
+* [Plik rozwiązania — według MSDN](https://learn.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
 * [identyfikatory GUID typu projektu](https://www.codeproject.com/Reference/720512/List-of-Visual-Studio-Project-Type-GUIDs)
 

@@ -53,6 +53,6 @@ TNEF のデータ ストリームは、レガシ バージョン番号、署名�
 ## 参考文献
 
 * [Transport Neutral Encapsulation Format](https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
-* [Exchange Server の電子メール アドレスとアドレス帳](https://docs.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
+* [Exchange Server の電子メール アドレスとアドレス帳](https://learn.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
 * [[MS-OXTNEF]: Transport Neutral Encapsulation Format (TNEF) データ アルゴリズム](https://msdn.microsoft.com/en-us/library/cc425498(v#exchg.80).aspx)
 

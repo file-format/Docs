@@ -35,6 +35,6 @@ Gói MSIX bao gồm các tệp sau.
 
 ## Người giới thiệu
 
-* [Tổng quan về MSIX](https://docs.microsoft.com/en-us/windows/msix/overview)
-* [Tạo tệp APPX bằng Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Tổng quan về MSIX](https://learn.microsoft.com/en-us/windows/msix/overview)
+* [Tạo tệp APPX bằng Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

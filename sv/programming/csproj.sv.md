@@ -24,7 +24,7 @@ Filer med tillägget CSPROJ representerar en C#-projektfil som innehåller lista
 
 Utvecklare kan skapa projektfiler själva och respektera [MSBuild XML Schema](https://msdn.microsoft.com/library/5dy88c2e.aspx). Den öppna och transparenta strukturen för projektfiler låter applikationsutvecklare införa sofistikerad och finkornig kontroll över hur projekten byggs och distribueras. Innehållet i en sådan projektfil har en mycket tydlig relation sinsemellan. Följande figur visar nyckelelement och förhållandet mellan dessa för en sådan projektfil.
 
-![](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
+![](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
 
 Följande avsnitt utvecklar filformatelementen för en projektfil.
 
@@ -94,5 +94,5 @@ Uppgifter måste alltid finnas i [Target](https://msdn.microsoft.com/library/t50
 
 ## Referenser
 
-* [Förstå projektfilen - MSDN](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- fil)
+* [Förstå projektfilen - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- fil)
 

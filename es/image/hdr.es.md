@@ -37,7 +37,7 @@ Un archivo de imagen HDR consta de las siguientes tres secciones:
 ## API HDR/HDRI de código abierto
 
 * **[imageinfo](https://github.com/xiaozhuai/imageinfo )** - Biblioteca [C++](/es/programming/cpp/) de encabezado único súper rápido multiplataforma para obtener el tamaño y el formato de la imagen sin cargar/decodificar.
-* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Biblioteca Rust para obtener el tamaño y el formato de la imagen sin cargar/decodificar. Admite [.avif](/es/image/avif/), [.bmp](/es/image/bmp), [.cur](/es/image/cur/), [.dds](/es/image/dds/), [. gif](/es/imagen/gif/), hdr (imagen), [heic (heif)](/es/imagen/heic/), [.icns](/es/imagen/icns/), [.ico](/es/imagen/ico /), [.jp2](/es/image/jp2/), [jpeg (jpg)](/es/image/jpeg/), [jpx](/es/image/jpx/), ktx, [png](/es/image/png /), [psd](/es/image/psd/), qoi, tga, tiff (tif) y webp.
+* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Biblioteca Rust para obtener el tamaño y el formato de la imagen sin cargar/decodificar. Admite [.avif](/es/image/avif/), [.bmp](/es/image/bmp/), [.cur](/es/image/cur/), [.dds](/es/image/dds/), [. gif](/es/imagen/gif/), hdr (imagen), [heic (heif)](/es/imagen/heic/), [.icns](/es/imagen/icns/), [.ico](/es/imagen/ico /), [.jp2](/es/image/jp2/), [jpeg (jpg)](/es/image/jpeg/), [jpx](/es/image/jpx/), ktx, [png](/es/image/png /), [psd](/es/image/psd/), qoi, tga, tiff (tif) y webp.
 * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** - Implementación Java de HdrHistogram.
 
 ## Referencias

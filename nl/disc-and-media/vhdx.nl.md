@@ -24,7 +24,7 @@ VHDX-bestand kan worden geconverteerd naar [VHD](/nl/disc-and-media/vhd/) met Hy
 
 ## VHDX-bestandsindeling - Meer informatie
 
-De details van de VHDX-bestandsindeling zijn volledig gedocumenteerd en online beschikbaar als [VHDX-bestandsindelingsspecificaties](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477 ) op Microsoft-documentatie. Het is een uitbreiding op het VHD-formaat en bevat verbeterde mogelijkheden. VHDX-bestandsindeling biedt extra functies die beschikbaar zijn op de virtuele harde schijf en virtuele harde schijf-bestandslagen. Het is meer geoptimaliseerd en geeft betere resultaten voor de configuratie en mogelijkheden van opslaghardware. VHDX-bestanden kunnen worden geopend
+De details van de VHDX-bestandsindeling zijn volledig gedocumenteerd en online beschikbaar als [VHDX-bestandsindelingsspecificaties](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477 ) op Microsoft-documentatie. Het is een uitbreiding op het VHD-formaat en bevat verbeterde mogelijkheden. VHDX-bestandsindeling biedt extra functies die beschikbaar zijn op de virtuele harde schijf en virtuele harde schijf-bestandslagen. Het is meer geoptimaliseerd en geeft betere resultaten voor de configuratie en mogelijkheden van opslaghardware. VHDX-bestanden kunnen worden geopend
 
 ### Ondersteuning voor virtuele harde schijven in VHDX
 
@@ -38,6 +38,6 @@ Het ondersteunt drie soorten virtuele harde schijven.
 
 ## Referenties
 
-* [VHDX-bestandsindelingsspecificaties](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
+* [VHDX-bestandsindelingsspecificaties](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
 * [VHD - door Wikipedia](https://en.wikipedia.org/wiki/VHD_(file_format))
 

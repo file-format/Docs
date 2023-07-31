@@ -47,7 +47,7 @@
 ```
 ### רכיבי קובץ VCXPROJ
 
-קובץ VCXPROJ טיפוסי מכיל מספר אלמנטים כפי שניתן לראות ב-XML לדוגמה למעלה. [מבנה VCXPROJ](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) מאת מיקרוסופט מסביר כל רכיב קובץ בפירוט וניתן להתייחס אליו מנקודת מבטו של המפתח.
+קובץ VCXPROJ טיפוסי מכיל מספר אלמנטים כפי שניתן לראות ב-XML לדוגמה למעלה. [מבנה VCXPROJ](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) מאת מיקרוסופט מסביר כל רכיב קובץ בפירוט וניתן להתייחס אליו מנקודת מבטו של המפתח.
 
 #### אלמנט פרויקט
 
@@ -72,6 +72,6 @@
 
 ## הפניות
 
-* [מבנה VCXPROJ - MSDN](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
-* [קבצי פרויקט C++](https://docs.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
+* [מבנה VCXPROJ - MSDN](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
+* [קבצי פרויקט C++](https://learn.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
 

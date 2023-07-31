@@ -26,7 +26,7 @@ Tệp APS được tạo bởi Visual C++, một ứng dụng phát triển ph�
 
 ## Người giới thiệu
 
-* [Tệp tài nguyên (C++)](https://docs.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
+* [Tệp tài nguyên (C++)](https://learn.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
  
 
 

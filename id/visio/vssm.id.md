@@ -38,5 +38,5 @@ Setiap file Visio disebut sebagai paket yang menampung file atau bagian lain. Ba
 
 ## Referensi ##
 
-* [Pengantar Format File Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Pengantar Format File Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

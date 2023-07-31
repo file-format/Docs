@@ -25,13 +25,13 @@ DirectX X dosyalarını Microsoft DirectX ve genel metin editörlerini kullanara
 
 ## X Dosya Biçimi
 
-[X dosyası referansı](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file), API öğeleri için kullanılan referans bilgilerini içerir. DirectX .x dosyalarıyla çalışın. Format, diğer uygulamalar tarafından veri şablonları aracılığıyla daha yüksek seviyeli ilkelleri tanımlamak için kullanılan düşük seviyeli veri ilkellerini sağlar. DirectX 6.0, .x dosyalarından okumaya ve dosyalara yazmaya olanak tanıyan arabirimler ve yöntemler sunmuştur. DirectX 3.0, bu dosya biçiminin ikili bir sürümünü tanıttı.
+[X dosyası referansı](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file), API öğeleri için kullanılan referans bilgilerini içerir. DirectX .x dosyalarıyla çalışın. Format, diğer uygulamalar tarafından veri şablonları aracılığıyla daha yüksek seviyeli ilkelleri tanımlamak için kullanılan düşük seviyeli veri ilkellerini sağlar. DirectX 6.0, .x dosyalarından okumaya ve dosyalara yazmaya olanak tanıyan arabirimler ve yöntemler sunmuştur. DirectX 3.0, bu dosya biçiminin ikili bir sürümünü tanıttı.
 
-DirectX 9 tarafından tanımlanan [X dosya formatı referansı](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format), .x için referans bilgileri içerir Metin Kodlamalarının yanı sıra Binary'deki dosyalar.
+DirectX 9 tarafından tanımlanan [X dosya formatı referansı](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format), .x için referans bilgileri içerir Metin Kodlamalarının yanı sıra Binary'deki dosyalar.
 
 ### İkili Kodlama
 
-[İkili format](https://docs.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding), DirectX X formatını metin formatının belirteçleştirilmiş bir temsili olarak tanımlar. Bu belirteçler, gramer yapısı vermek için bağımsız olabilir veya gerekli verileri sağlayan kayıt taşıyan belirteçler olabilir.
+[İkili format](https://learn.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding), DirectX X formatını metin formatının belirteçleştirilmiş bir temsili olarak tanımlar. Bu belirteçler, gramer yapısı vermek için bağımsız olabilir veya gerekli verileri sağlayan kayıt taşıyan belirteçler olabilir.
 
 #### Başlık
 
@@ -84,6 +84,6 @@ Değişken uzunluklu başlık zorunludur ve veri akışının başında olmalıd
 
 ## Referanslar
 
-* [X Dosyaları Eski](https://docs.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
-* [DirectX 9 Dosya Biçimi Referansı](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
+* [X Dosyaları Eski](https://learn.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
+* [DirectX 9 Dosya Biçimi Referansı](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
 

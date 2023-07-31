@@ -57,5 +57,5 @@ A rész egy bájtfolyam, amelyhez társított típus tartozik a benne tárolt ta
 
 ## Hivatkozások ##
 
-* [Hozzáférési sablon fájlformátuma](https://docs.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
+* [Hozzáférési sablon fájlformátuma](https://learn.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
 

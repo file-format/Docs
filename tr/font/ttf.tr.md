@@ -90,5 +90,5 @@ Font dosyasındaki her tablonun kendi tablo dizini girişi olmalıdır. Bir tabl
 
 ## Referanslar
 * [TrueType Yazı Tipi Referans Kılavuzu](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [TrueType'a Genel Bakış](https://docs.microsoft.com/en-us/typography/truetype/)
+* [TrueType'a Genel Bakış](https://learn.microsoft.com/en-us/typography/truetype/)
 

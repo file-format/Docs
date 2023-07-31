@@ -31,7 +31,7 @@ Excel, makro kaydetmek için kullanımı kolay adımlar sağlar. Makrolarla çal
 
 ## Excel Nesne Modeli ##
 
-Makrolar arkalarında VBA rutinlerini kullanır ve bu amaçla [Excel Nesne Modeli](https://docs.microsoft.com/en-us/office/vba/api/overview/excel/object-model)'i takip eder. Bu model, kullanıcı tanımlı komut araç çubukları, komut çubukları veya mesaj kutuları aracılığıyla elektronik tabloyla etkileşim için bir elektronik tablonun nesnelerini tanımlar. Örneğin, çalışma kitabının özelliklerine erişim Workbook nesnesi ile verilir. Benzer şekilde, çalışma kitabının çalışma sayfalarıyla programlı olarak çalışmak için modelde Worksheet nesnesi vardır.
+Makrolar arkalarında VBA rutinlerini kullanır ve bu amaçla [Excel Nesne Modeli](https://learn.microsoft.com/en-us/office/vba/api/overview/excel/object-model)'i takip eder. Bu model, kullanıcı tanımlı komut araç çubukları, komut çubukları veya mesaj kutuları aracılığıyla elektronik tabloyla etkileşim için bir elektronik tablonun nesnelerini tanımlar. Örneğin, çalışma kitabının özelliklerine erişim Workbook nesnesi ile verilir. Benzer şekilde, çalışma kitabının çalışma sayfalarıyla programlı olarak çalışmak için modelde Worksheet nesnesi vardır.
 
 ## Makrolar ve Güvenlik ##
 

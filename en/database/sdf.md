@@ -27,5 +27,5 @@ The .sdf naming convention is optional, and any extension can be used to save th
 ## References
 
  * [SQL Server Compact - Wikipedia](https://en.wikipedia.org/wiki/SQL_Server_Compact)
- * [Using SQL Server Compact for ASP.NET Web Applications](https://docs.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
+ * [Using SQL Server Compact for ASP.NET Web Applications](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
 

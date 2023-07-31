@@ -34,7 +34,7 @@ A Crystal Reports lehetővé teszi a jelentéskészítők számára, hogy üzlet
 Tervezze meg a jelentéseket nyilatkozatok, számlák, értékesítési és működési jelentések, levelek, szállítási dokumentumok, marketinganyagok, megfelelőségi dokumentumok, teljesítménymutatók és még sok más formájában.
 
 ### Kompatibilitás
-A kimenet olyan formátumokba exportálható, mint [XLS](/hu/spreadsheet/xlsx/), [CSV](/hu/spreadsheet/csv/), [PDF](/hu/pdf/), [DOCX](/hu/word-processing/docx /), szöveg vagy nyomtatás pixel-tökéletes tervezési pontossággal.
+A kimenet olyan formátumokba exportálható, mint [XLS](/hu/spreadsheet/xlsx/), [CSV](/hu/spreadsheet/csv/), [PDF](/hu/pdf/), [DOCX](/hu/word-processing/docx/), szöveg vagy nyomtatás pixel-tökéletes tervezési pontossággal.
 
 
 

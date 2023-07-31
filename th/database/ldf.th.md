@@ -40,6 +40,6 @@
 
 ## อ้างอิง
 
-* [ไฟล์ฐานข้อมูลและกลุ่มไฟล์](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [สถาปัตยกรรมบันทึกการทำธุรกรรมและคู่มือการจัดการ](https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql- เซิร์ฟเวอร์-ver15)
+* [ไฟล์ฐานข้อมูลและกลุ่มไฟล์](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
+* [สถาปัตยกรรมบันทึกการทำธุรกรรมและคู่มือการจัดการ](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql- เซิร์ฟเวอร์-ver15)
 

@@ -63,5 +63,5 @@ ASP претерпел лишь несколько изменений, пока 
 ## использованная литература
 
 * [ASP — W3C](https://www.w3schools.com/asp/default.asp)
-* [Создание простых страниц ASP](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Создание простых страниц ASP](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

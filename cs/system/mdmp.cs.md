@@ -51,5 +51,5 @@ Následující kroky lze použít k otevření souboru MDMP v sadě Visual Studi
 
 ## Odkaz
 
-* [Jak číst soubor s malým výpisem paměti, který je vytvořen systémem Windows, pokud dojde k selhání](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -soubor)
+* [Jak číst soubor s malým výpisem paměti, který je vytvořen systémem Windows, pokud dojde k selhání](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -soubor)
 

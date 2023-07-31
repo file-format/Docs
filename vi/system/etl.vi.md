@@ -27,10 +27,10 @@ Các tệp ETL được lưu vào đĩa ở định dạng nhị phân được 
 
 ## Mở tệp ETL bằng Trình phân tích hiệu suất Windows
 
-Dữ liệu tệp ETL có thể được đọc và hiển thị trực quan ở định dạng bảng cũng như đồ họa bằng ứng dụng Microsoft Windows Performance Analyzer (WPA). Hướng dẫn [Mở và phân tích tệp ETL](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) cung cấp thông tin về cách làm việc với các tệp ETL.
+Dữ liệu tệp ETL có thể được đọc và hiển thị trực quan ở định dạng bảng cũng như đồ họa bằng ứng dụng Microsoft Windows Performance Analyzer (WPA). Hướng dẫn [Mở và phân tích tệp ETL](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) cung cấp thông tin về cách làm việc với các tệp ETL.
 
 ## Người giới thiệu
 
-* [Trình phân tích hiệu suất Windows](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
-* [Hướng dẫn bắt đầu nhanh WPA](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
+* [Trình phân tích hiệu suất Windows](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
+* [Hướng dẫn bắt đầu nhanh WPA](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
 

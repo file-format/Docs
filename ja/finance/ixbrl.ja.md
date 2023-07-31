@@ -20,7 +20,7 @@
 
 ## .iXBRL ファイルとは何ですか?
 
-iXBRL (ilnine XBRL) ファイル形式を使用すると、[XBRL](/web/xbrl/) データを HTML ファイルに埋め込んで、マシンと人間の両方が読み取れるようにすることができます。実際には、XBRL タグを使用する [xHTML](/web/xhtml/) ファイルであり、英国の HMRC の要件を満たすために XBRL International によって開発されました。 iXBRL を使用すると、元の文書のレイアウトを維持したまま財務諸表を作成できます。 iXBRL ファイルは、Windows オペレーティング システムのメモ帳や MacOS の TextEdit などの任意のテキスト エディタで開くことができます。
+iXBRL (ilnine XBRL) ファイル形式を使用すると、[XBRL](/finance/xbrl/) データを HTML ファイルに埋め込んで、マシンと人間の両方が読み取れるようにすることができます。実際には、XBRL タグを使用する [xHTML](/web/xhtml/) ファイルであり、英国の HMRC の要件を満たすために XBRL International によって開発されました。 iXBRL を使用すると、元の文書のレイアウトを維持したまま財務諸表を作成できます。 iXBRL ファイルは、Windows オペレーティング システムのメモ帳や MacOS の TextEdit などの任意のテキスト エディタで開くことができます。
 
 ## iXBRL ファイル形式
 

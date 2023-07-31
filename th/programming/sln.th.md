@@ -86,6 +86,6 @@ Project("{Project-Type-GUID}") # "Project-Name", "Project-Path.extension", "{Pro
 
 ### **ข้อมูลอ้างอิง** ###
 
-* [ไฟล์โซลูชัน - โดย MSDN](https://docs.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
+* [ไฟล์โซลูชัน - โดย MSDN](https://learn.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
 * [GUID ประเภทโครงการ](https://www.codeproject.com/Reference/720512/List-of-Visual-Studio-Project-Type-GUIDs)
 

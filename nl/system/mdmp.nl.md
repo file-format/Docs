@@ -51,5 +51,5 @@ De volgende stappen kunnen worden gebruikt om een MDMP-bestand te openen in Visu
 
 ## Referentie
 
-* [Het kleine geheugendumpbestand lezen dat door Windows is gemaakt als er een crash optreedt](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -het dossier)
+* [Het kleine geheugendumpbestand lezen dat door Windows is gemaakt als er een crash optreedt](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -het dossier)
 

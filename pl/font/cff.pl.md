@@ -23,7 +23,7 @@ Plik z rozszerzeniem .cff to Compact Font Format i jest również znany jako Pos
 
 ## Format pliku CFF
 
-Pliki CFF to pliki binarne, które zawierają uporządkowany układ danych, mają zdefiniowane typy danych, nagłówek, organizację glifów i słowniki tabel. Więcej informacji na ten temat można znaleźć w [specyfikacjach kompaktowego formatu czcionek](https://docs.microsoft.com/en-us/typography/opentype/spec/cff).
+Pliki CFF to pliki binarne, które zawierają uporządkowany układ danych, mają zdefiniowane typy danych, nagłówek, organizację glifów i słowniki tabel. Więcej informacji na ten temat można znaleźć w [specyfikacjach kompaktowego formatu czcionek](https://learn.microsoft.com/en-us/typography/opentype/spec/cff).
 
 ### Układ danych
 Układ danych w formacie pliku CFF pokazano poniżej.
@@ -68,7 +68,7 @@ Dane binarne rozpoczynają się nagłówkiem o formacie pokazanym w poniższej t
 
 ## Bibliografia
 
-* [Tabela kompaktowych formatów czcionek](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+* [Tabela kompaktowych formatów czcionek](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
 * [Format pliku CFF](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
-* [Zestaw wykresów CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+* [Zestaw wykresów CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

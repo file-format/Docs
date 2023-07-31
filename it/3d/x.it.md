@@ -25,13 +25,13 @@ Puoi aprire i file DirectX X utilizzando Microsoft DirectX e comuni editor di te
 
 ## Formato file X
 
-Il [riferimento al file X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) contiene informazioni di riferimento per gli elementi dell'API utilizzati per lavorare con i file DirectX .x. Il formato fornisce primitive di dati di basso livello che vengono utilizzate da altre applicazioni per definire primitive di livello superiore tramite modelli di dati. DirectX 6.0 ha introdotto interfacce e metodi che consentono di leggere e scrivere su file .x. DirectX 3.0 ha introdotto una versione binaria di questo formato di file.
+Il [riferimento al file X](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) contiene informazioni di riferimento per gli elementi dell'API utilizzati per lavorare con i file DirectX .x. Il formato fornisce primitive di dati di basso livello che vengono utilizzate da altre applicazioni per definire primitive di livello superiore tramite modelli di dati. DirectX 6.0 ha introdotto interfacce e metodi che consentono di leggere e scrivere su file .x. DirectX 3.0 ha introdotto una versione binaria di questo formato di file.
 
-Il [riferimento al formato file X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) definito da DirectX 9 contiene informazioni di riferimento per .x file in binari e codifiche di testo.
+Il [riferimento al formato file X](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) definito da DirectX 9 contiene informazioni di riferimento per .x file in binari e codifiche di testo.
 
 ### Codifica binaria
 
-Il [formato binario](https://docs.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) definisce il formato DirectX X come una rappresentazione tokenizzata del formato di testo. Questi token possono essere autonomi per fornire una struttura grammaticale o possono essere token di registrazione che forniscono i dati necessari.
+Il [formato binario](https://learn.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) definisce il formato DirectX X come una rappresentazione tokenizzata del formato di testo. Questi token possono essere autonomi per fornire una struttura grammaticale o possono essere token di registrazione che forniscono i dati necessari.
 
 #### Intestazione
 
@@ -84,6 +84,6 @@ L'intestazione a lunghezza variabile è obbligatoria e deve trovarsi all'inizio 
 
 ## Riferimenti
 
-* [X File Legacy](https://docs.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
-* [Riferimento al formato file DirectX 9](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
+* [X File Legacy](https://learn.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
+* [Riferimento al formato file DirectX 9](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
 

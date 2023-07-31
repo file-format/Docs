@@ -30,5 +30,5 @@ După aceasta, salvați fișierul cu extensia .xlam.
 
 ## Referințe ##
 
-- [Referință format de fișier - ](https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
+- [Referință format de fișier - ](https://learn.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
 

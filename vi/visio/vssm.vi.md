@@ -38,5 +38,5 @@ Mỗi tệp Visio được gọi là gói chứa các tệp hoặc phần khác.
 
 ## Người giới thiệu ##
 
-* [Giới thiệu về Định dạng tệp Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Giới thiệu về Định dạng tệp Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

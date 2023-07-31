@@ -25,7 +25,7 @@ Tệp CCD được gọi là tệp ảnh đĩa được tạo bằng cách sử 
 
 Định dạng tệp CCD là một bộ mô tả văn bản CloneCD có phần mở rộng .ccd để đánh dấu các thuộc tính của hình ảnh CD hoặc DVD. Để ghi đĩa CD hoặc DVD, tệp CCD cần được kết hợp với tệp hình ảnh. Nó cũng có thể đi kèm với một tập tin kênh phụ. Định dạng này có thể được sử dụng trực tiếp bởi trình giả lập đĩa hoặc Virtual CloneDrive. Ngoài ra, các tệp CCD có khả năng được gắn với các ổ đĩa ảo của bên thứ ba, chẳng hạn như Daemon hoặc Alcohol Tools. Ứng dụng CCDISO được sử dụng để chuyển đổi tệp CCD tuân thủ ISO9660 thành ảnh [ISO](/vi/compression/iso/).
 
-Các định dạng như [CUE](/vi/disc-and-media/cue),[BIN](/vi/disc-and-media/bin/), [MDS]() [MDF]() có cấu trúc tương tự như CCD định dạng, chứa cả hình ảnh đĩa thô cùng với tệp mô tả.
+Các định dạng như [CUE](/vi/disc-and-media/cue/),[BIN](/vi/disc-and-media/bin/), [MDS]() [MDF]() có cấu trúc tương tự như CCD định dạng, chứa cả hình ảnh đĩa thô cùng với tệp mô tả.
 
 ## Người giới thiệu
 

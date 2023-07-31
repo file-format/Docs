@@ -34,7 +34,7 @@ Crystal Reports, rapor geliştiricilerin raporları iş kullanıcılarının ana
 Ekstreler, faturalar, satış ve operasyon raporları, mektuplar, sevkıyat belgeleri, pazarlama materyalleri, uygunluk belgeleri, performans göstergeleri ve çok daha fazlası şeklinde raporlar tasarlayın.
 
 ### Uyumluluk
-Çıktı, [XLS](/tr/spreadsheet/xlsx/), [CSV](/tr/spreadsheet/csv/), [PDF](/tr/pdf/), [DOCX](/tr/word-processing/docx) gibi biçimlerde Dışa Aktarılabilir /), metin veya mükemmel piksel tasarım hassasiyetiyle yazdırın.
+Çıktı, [XLS](/tr/spreadsheet/xlsx/), [CSV](/tr/spreadsheet/csv/), [PDF](/tr/pdf/), [DOCX](/tr/word-processing/docx/) gibi biçimlerde Dışa Aktarılabilir, metin veya mükemmel piksel tasarım hassasiyetiyle yazdırın.
 
 
 

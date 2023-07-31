@@ -29,6 +29,6 @@ File ADE dapat menimbulkan masalah saat dibuka berdasarkan versi Microsoft Acces
 
 ## Referensi
 
-* [Masalah dengan Access ADE Files](https://docs.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
+* [Masalah dengan Access ADE Files](https://learn.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
 * [Format File Akses Mana yang Digunakan](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

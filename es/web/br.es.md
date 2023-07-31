@@ -18,7 +18,7 @@
 
 ## ¿Qué es un archivo BR?
 
-Un archivo BR es un archivo web comprimido generado al aplicar el algoritmo de compresión de datos de código abierto, **Brotli**. Se utiliza para almacenar activos de páginas web como hojas de estilo ([CSS](/es/web/css/)), imágenes ([SVG](/es/image/svg/)), [XML](/es/web/xml/) y secuencias de comandos. archivos ([JS](/es/web/js/)). Los sitios web modernos, como Chrome y Firefox, usan archivos BR para reducir el tiempo de carga de la página, lo que resulta en una mejor experiencia del usuario.
+Un archivo BR es un archivo web comprimido generado al aplicar el algoritmo de compresión de datos de código abierto, **Brotli**. Se utiliza para almacenar activos de páginas web como hojas de estilo ([CSS](/es/web/css/)), imágenes ([SVG](/es/page-description-language/svg/)), [XML](/es/web/xml/) y secuencias de comandos. archivos ([JS](/es/web/js/)). Los sitios web modernos, como Chrome y Firefox, usan archivos BR para reducir el tiempo de carga de la página, lo que resulta en una mejor experiencia del usuario.
 
 ## Formato de archivo BR
 

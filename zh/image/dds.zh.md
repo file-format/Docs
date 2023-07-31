@@ -26,7 +26,7 @@ DDS 文件保存为二进制文件，可与 DirectX SDK 一起使用。它利用
 
 ### DDS 文件布局
 
-[DDS 文件布局](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) 已被 Microsoft 详细记录。二进制 DDS 文件包含以下信息。
+[DDS 文件布局](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) 已被 Microsoft 详细记录。二进制 DDS 文件包含以下信息。
 
 * 包含四个字符代码值“DDS"（0x20534444）的 DWORD（幻数）。
 * 文件中数据的描述。
@@ -38,7 +38,7 @@ DWORD               dwMagic;
 DDS_HEADER          header;
 ```
 
-[DDS文件格式的编程指南](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide)进一步阐述了这种文件格式的技术细节。
+[DDS文件格式的编程指南](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide)进一步阐述了这种文件格式的技术细节。
 
 ## 参考
 

@@ -63,5 +63,5 @@ Az ASPERror objektumot az ASP 3.0-ban valósították meg, és elérhető az IIS
 ## Hivatkozások
 
 * [ASP – W3C](https://www.w3schools.com/asp/default.asp)
-* [Egyszerű ASP-oldalak létrehozása](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Egyszerű ASP-oldalak létrehozása](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

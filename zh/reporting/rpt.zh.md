@@ -34,7 +34,7 @@ Crystal Reports 允许报表开发人员以其业务用户的本地语言交付�
 将报告设计为报表、发票、销售和运营报告、信件、运输文件、营销材料、合规文件、绩效指标等等。
 
 ### 兼容性
-输出可以导出为[XLS](/zh/spreadsheet/xlsx/)、[CSV](/zh/spreadsheet/csv/)、[PDF](/zh/pdf/)、[DOCX](/zh/word-processing/docx)等格式/)、文本或以像素完美的设计精度打印。
+输出可以导出为[XLS](/zh/spreadsheet/xlsx/)、[CSV](/zh/spreadsheet/csv/)、[PDF](/zh/pdf/)、[DOCX](/zh/word-processing/docx/)等格式、文本或以像素完美的设计精度打印。
 
 
 

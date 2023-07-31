@@ -58,7 +58,7 @@ PFS identifica el estado de asignación y determina la cantidad de espacio libre
 
 ## Referencias
 
-* [Archivos de base de datos y grupos de archivos](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [Separar y adjuntar base de datos - SQL Server](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
+* [Archivos de base de datos y grupos de archivos](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
+* [Separar y adjuntar base de datos - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
 * [Análisis de la anatomía del archivo de datos de SQL Server](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

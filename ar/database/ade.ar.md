@@ -29,6 +29,6 @@ ADE هي ملفات قاعدة بيانات Access مجمعة يتم تخزين�
 
 ## مراجع
 
-* [مشكلة في الوصول إلى ملفات ADE](https://docs.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
+* [مشكلة في الوصول إلى ملفات ADE](https://learn.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
 * [ما هي تنسيقات ملفات الوصول المراد استخدامها](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

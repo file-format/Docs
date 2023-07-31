@@ -27,10 +27,10 @@ Los archivos ETL se guardan en el disco en formato binario comprimido para reduc
 
 ## Abra archivos ETL con el Analizador de rendimiento de Windows
 
-Los datos de los archivos ETL se pueden leer y visualizar en formato tabular y gráfico utilizando la aplicación Microsoft Windows Performance Analyzer (WPA). La guía [Abrir y analizar archivos ETL](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) proporciona información sobre cómo trabajar con archivos ETL.
+Los datos de los archivos ETL se pueden leer y visualizar en formato tabular y gráfico utilizando la aplicación Microsoft Windows Performance Analyzer (WPA). La guía [Abrir y analizar archivos ETL](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) proporciona información sobre cómo trabajar con archivos ETL.
 
 ## Referencias
 
-* [Analizador de rendimiento de Windows](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
-* [Guía de inicio rápido de WPA](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
+* [Analizador de rendimiento de Windows](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
+* [Guía de inicio rápido de WPA](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
 

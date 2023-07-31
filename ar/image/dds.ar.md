@@ -26,7 +26,7 @@
 
 ### تخطيط ملف DDS
 
-قامت Microsoft بتوثيق [تخطيط ملف DDS](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) بالتفصيل. يحتوي ملف DDS الثنائي على المعلومات التالية.
+قامت Microsoft بتوثيق [تخطيط ملف DDS](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) بالتفصيل. يحتوي ملف DDS الثنائي على المعلومات التالية.
 
 * كلمة DWORD (رقم سحري) تحتوي على قيمة رمز أربعة أحرف "DDS" (0x20534444).
 * وصف للبيانات في الملف.
@@ -38,7 +38,7 @@ DWORD               dwMagic;
 DDS_HEADER          header;
 ```
 
-يوضح [دليل البرمجة لتنسيق ملف DDS](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) مزيدًا من التفاصيل الفنية لتنسيق الملف هذا.
+يوضح [دليل البرمجة لتنسيق ملف DDS](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) مزيدًا من التفاصيل الفنية لتنسيق الملف هذا.
 
 ## مراجع
 

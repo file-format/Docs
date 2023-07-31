@@ -27,7 +27,7 @@ Os arquivos XSD são armazenados no disco em formato de arquivo de texto simples
 
 ## Exemplo de arquivo XSD
 
-Um arquivo XSD simples com um esquema de ordem de compra define os elementos usando tags conforme mostrado a seguir [exemplo XSD da Microsoft](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -simple-schema?view=vs-2022).
+Um arquivo XSD simples com um esquema de ordem de compra define os elementos usando tags conforme mostrado a seguir [exemplo XSD da Microsoft](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -simple-schema?view=vs-2022).
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
@@ -67,5 +67,5 @@ Aqui, as seguintes tags são usadas.
 ## Referências ##
 
 - [Microsoft XML Notepad](https://microsoft.github.io/XmlNotepad/)
-- [Exemplo de exemplo de XSD](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
+- [Exemplo de exemplo de XSD](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
 

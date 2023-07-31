@@ -18,7 +18,7 @@
 
 ## Vad är en FZPZ fil?
 
-En FZPZ-fil är en komponent/del som används i en elektronisk kretsdesign skapad med kretsprototyp- och designapplikationen **Fritzing**. Det är ett komprimerat arkiv som innehåller en [FZP](/sv/cad/fzp/) fil och fyra [SVG](/sv/image/svg/) bilder som beskriver den övergripande delen i Fritzing. Fördelen med att använda dessa filer är att användare kan dela sina FZPZ-filer med var och en ur återanvändbarhetssynpunkt. Att dela FZPZ-delar hjälper till att integrera kretsdelar för att skapa större PCB-designer på ett snabbt sätt.
+En FZPZ-fil är en komponent/del som används i en elektronisk kretsdesign skapad med kretsprototyp- och designapplikationen **Fritzing**. Det är ett komprimerat arkiv som innehåller en [FZP](/sv/cad/fzp/) fil och fyra [SVG](/sv/page-description-language/svg/) bilder som beskriver den övergripande delen i Fritzing. Fördelen med att använda dessa filer är att användare kan dela sina FZPZ-filer med var och en ur återanvändbarhetssynpunkt. Att dela FZPZ-delar hjälper till att integrera kretsdelar för att skapa större PCB-designer på ett snabbt sätt.
 
 ## FZPZ-filformat - Mer information
 

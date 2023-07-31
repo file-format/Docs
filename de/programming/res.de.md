@@ -56,7 +56,7 @@ Das Hauptmuster in einer Versionsressource ist **VS_FIXEDFILEINFO**. Zusätzlich
 
 ## Verweise
 
-* [Ressourcendateiformate](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
+* [Ressourcendateiformate](https://learn.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
 
 

@@ -24,5 +24,5 @@ Os aplicativos que podem **abrir arquivos ATT** incluem editores de texto como M
 
 ## Referências
 
-* [Formulários da Web - Microsoft](https://docs.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
+* [Formulários da Web - Microsoft](https://learn.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
 

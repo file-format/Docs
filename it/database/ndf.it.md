@@ -71,7 +71,7 @@ Questo esempio mostra i numeri di pagina in un database che ha un file di dati p
 
 ## Riferimenti
 
-* [File di database e filegroup](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?redirectedfrom=MSDN&view=sql-server-ver15)
-* [Database Stacca e collega - SQL Server](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
+* [File di database e filegroup](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?redirectedfrom=MSDN&view=sql-server-ver15)
+* [Database Stacca e collega - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
 * [Analisi dell'anatomia del file di dati di SQL Server](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

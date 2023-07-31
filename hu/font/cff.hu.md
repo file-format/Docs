@@ -23,7 +23,7 @@ A .cff kiterjesztésű fájl kompakt betűformátum, és PostScript Type 1 vagy 
 
 ## CFF fájlformátum
 
-A CFF fájlok olyan bináris fájlok, amelyek strukturált adatelrendezést, meghatározott adattípusokat, fejlécet, karakterjel-szervezést és táblázatszótárakat tartalmaznak. Ezekről további részletek a [kompakt betűtípus-specifikációk](https://docs.microsoft.com/en-us/typography/opentype/spec/cff) részben találhatók.
+A CFF fájlok olyan bináris fájlok, amelyek strukturált adatelrendezést, meghatározott adattípusokat, fejlécet, karakterjel-szervezést és táblázatszótárakat tartalmaznak. Ezekről további részletek a [kompakt betűtípus-specifikációk](https://learn.microsoft.com/en-us/typography/opentype/spec/cff) részben találhatók.
 
 ### Adatelrendezés
 A CFF fájlformátum adatelrendezése az alábbiak szerint látható.
@@ -68,7 +68,7 @@ A bináris adat a következő táblázatban látható formátumú fejléccel kez
 
 ## Hivatkozások
 
-* [Compact Font Format Table](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+* [Compact Font Format Table](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
 * [CFF fájlformátum](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
-* [CFF2 diagramkészlet](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+* [CFF2 diagramkészlet](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

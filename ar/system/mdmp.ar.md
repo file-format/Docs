@@ -51,5 +51,5 @@
 
 ## المرجعي
 
-* [كيفية قراءة ملف تفريغ الذاكرة الصغيرة الذي تم إنشاؤه بواسطة Windows في حالة حدوث عطل](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -ملف)
+* [كيفية قراءة ملف تفريغ الذاكرة الصغيرة الذي تم إنشاؤه بواسطة Windows في حالة حدوث عطل](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -ملف)
 

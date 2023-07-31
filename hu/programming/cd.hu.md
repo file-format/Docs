@@ -45,5 +45,5 @@ A Visual Studio lehetővé teszi az osztálydiagramok konvertálását/exportál
 
 ## Hivatkozások
 
-* [Tervezési osztályok a Visual Studioban](https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
+* [Tervezési osztályok a Visual Studioban](https://learn.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
 

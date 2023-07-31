@@ -90,5 +90,5 @@
 
 ## βιβλιογραφικές αναφορές
 * [Εγχειρίδιο αναφοράς γραμματοσειράς TrueType](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [Επισκόπηση TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Επισκόπηση TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

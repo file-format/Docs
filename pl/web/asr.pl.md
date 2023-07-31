@@ -27,5 +27,5 @@ Plik ASR zawiera skrypt opracowany w standardowym języku skryptowym. Można go 
 ## Bibliografia
 
 * [Adobe Contribute – z Wikipedii](https://en.wikipedia.org/wiki/Adobe_Contribute)
-* [Tworzenie prostych stron ASP](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Tworzenie prostych stron ASP](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

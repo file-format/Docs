@@ -40,5 +40,5 @@ SQL सर्वर प्रोफाइलर का उपयोग माइ
 
 ## संदर्भ ##
 
-* [एसक्यूएल सर्वर प्रोफाइलर](https://docs.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler?view=sql-server-ver15)
+* [एसक्यूएल सर्वर प्रोफाइलर](https://learn.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler?view=sql-server-ver15)
 

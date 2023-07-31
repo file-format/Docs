@@ -35,6 +35,6 @@ Egy MSIX-csomag a következő fájlokból áll.
 
 ## Hivatkozások
 
-* [MSIX áttekintés](https://docs.microsoft.com/en-us/windows/msix/overview)
-* [APPX-fájlok létrehozása a Microsoft Visual Studio segítségével](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [MSIX áttekintés](https://learn.microsoft.com/en-us/windows/msix/overview)
+* [APPX-fájlok létrehozása a Microsoft Visual Studio segítségével](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

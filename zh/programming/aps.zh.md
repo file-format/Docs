@@ -26,7 +26,7 @@ APS 文件格式只是一个编译步骤，只存储符号数据。在编译过�
 
 ## 参考
 
-* [资源文件 (C++)](https://docs.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
+* [资源文件 (C++)](https://learn.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
  
 
 

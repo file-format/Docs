@@ -82,6 +82,6 @@ Dla każdej tabeli najwyższego poziomu w czcionce istnieje Rekord tabeli, któr
 Każda tabela w pliku czcionek OpenType jest reprezentowana przez nazwy znane jako znaczniki tabeli. Konieczne jest, aby wszystkie rekordy w tablicy były posortowane rosnąco według tagów.
 
 ## Bibliografia
-* [Specyfikacje czcionek OpenType firmy Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [Omówienie formatu TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Specyfikacje czcionek OpenType firmy Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [Omówienie formatu TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

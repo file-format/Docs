@@ -30,5 +30,5 @@ End Function
 
 ## อ้างอิง ##
 
-- [การอ้างอิงรูปแบบไฟล์ - ](https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
+- [การอ้างอิงรูปแบบไฟล์ - ](https://learn.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
 

@@ -47,7 +47,7 @@ VCXPROJ फ़ाइलें टेक्स्ट फ़ाइलें है
 ```
 ### VCXPROJ फ़ाइल तत्व
 
-एक विशिष्ट VCXPROJ फ़ाइल में कई तत्व होते हैं जैसा कि उपरोक्त XML उदाहरण में देखा जा सकता है। [VCXPROJ structure](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) Microsoft द्वारा प्रत्येक फ़ाइल तत्व को विस्तार से समझाया गया है और इसे संदर्भित किया जा सकता है डेवलपर के नजरिए से।
+एक विशिष्ट VCXPROJ फ़ाइल में कई तत्व होते हैं जैसा कि उपरोक्त XML उदाहरण में देखा जा सकता है। [VCXPROJ structure](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) Microsoft द्वारा प्रत्येक फ़ाइल तत्व को विस्तार से समझाया गया है और इसे संदर्भित किया जा सकता है डेवलपर के नजरिए से।
 
 #### परियोजना तत्व
 
@@ -72,6 +72,6 @@ VCXPROJ फ़ाइल में ProjectConfiguration तत्वों मे
 
 ## संदर्भ
 
-* [VCXPROJ संरचना - MSDN](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
-* [सी++ प्रोजेक्ट फ़ाइलें](https://docs.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
+* [VCXPROJ संरचना - MSDN](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
+* [सी++ प्रोजेक्ट फ़ाइलें](https://learn.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
 

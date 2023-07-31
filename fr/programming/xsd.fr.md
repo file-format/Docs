@@ -27,7 +27,7 @@ Les fichiers XSD sont stockés sur disque dans un format de fichier texte brut l
 
 ## Exemple de fichier XSD
 
-Un simple fichier XSD ayant un schéma de bon de commande définit les éléments à l'aide de balises comme indiqué dans [exemple XSD par Microsoft](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -schéma-simple?view=vs-2022).
+Un simple fichier XSD ayant un schéma de bon de commande définit les éléments à l'aide de balises comme indiqué dans [exemple XSD par Microsoft](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -schéma-simple?view=vs-2022).
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
@@ -67,5 +67,5 @@ Ici, les balises suivantes sont utilisées.
 ## Références ##
 
 - [Bloc-notes Microsoft XML](https://microsoft.github.io/XmlNotepad/)
-- [Exemple d'exemple XSD](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
+- [Exemple d'exemple XSD](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
 

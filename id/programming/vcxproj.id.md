@@ -47,7 +47,7 @@ Isi dari file sampel VCXPROJ adalah sebagai berikut.
 ```
 ### Elemen Berkas VCXPROJ
 
-File VCXPROJ biasa berisi sejumlah elemen seperti yang dapat dilihat pada contoh XML di atas. [Struktur VCXPROJ](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) oleh Microsoft menjelaskan setiap elemen file secara mendetail dan dapat dirujuk dari perspektif pengembang.
+File VCXPROJ biasa berisi sejumlah elemen seperti yang dapat dilihat pada contoh XML di atas. [Struktur VCXPROJ](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) oleh Microsoft menjelaskan setiap elemen file secara mendetail dan dapat dirujuk dari perspektif pengembang.
 
 #### Elemen Proyek
 
@@ -72,6 +72,6 @@ Bagian ini berisi pengaturan yang memberikan informasi untuk tingkat proyek sepe
 
 ## Referensi
 
-* [Struktur VCXPROJ - MSDN](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
-* [File Proyek C++](https://docs.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
+* [Struktur VCXPROJ - MSDN](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
+* [File Proyek C++](https://learn.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
 

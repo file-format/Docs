@@ -53,6 +53,6 @@
 ## βιβλιογραφικές αναφορές
 
 * [Transport Neutral Encapsulation Format](https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
-* [Διευθύνσεις ηλεκτρονικού ταχυδρομείου και βιβλία διευθύνσεων στον Exchange Server](https://docs.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
+* [Διευθύνσεις ηλεκτρονικού ταχυδρομείου και βιβλία διευθύνσεων στον Exchange Server](https://learn.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
 * [[MS-OXTNEF]: Μεταφορά ουδέτερη μορφή ενθυλάκωσης (TNEF) Αλγόριθμος δεδομένων](https://msdn.microsoft.com/en-us/library/cc425498(v#exchg.80).aspx)
 

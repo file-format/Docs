@@ -50,5 +50,5 @@
 
 ## อ้างอิง ##
 
-* [ความรู้เบื้องต้นเกี่ยวกับรูปแบบไฟล์ Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [ความรู้เบื้องต้นเกี่ยวกับรูปแบบไฟล์ Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

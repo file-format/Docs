@@ -23,7 +23,7 @@ Un fișier cu extensia .cff este un format de font compact și este cunoscut și
 
 ## Format de fișier CFF
 
-Fișierele CFF sunt fișiere binare care conțin un aspect structurat de date, au definite tipuri de date, un antet, organizare de glife și dicționare de tabel. Mai multe detalii despre acestea pot fi găsite în [specificațiile formatului de font compact](https://docs.microsoft.com/en-us/typography/opentype/spec/cff).
+Fișierele CFF sunt fișiere binare care conțin un aspect structurat de date, au definite tipuri de date, un antet, organizare de glife și dicționare de tabel. Mai multe detalii despre acestea pot fi găsite în [specificațiile formatului de font compact](https://learn.microsoft.com/en-us/typography/opentype/spec/cff).
 
 ### Aspect de date
 Aspectul de date al formatului de fișier CFF este prezentat mai jos.
@@ -68,7 +68,7 @@ Datele binare încep cu un antet având formatul prezentat în tabelul următor.
 
 ## Referințe
 
-* [Tabel format compact font](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+* [Tabel format compact font](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
 * [Format de fișier CFF](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
-* [CFF2 Chartset](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+* [CFF2 Chartset](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

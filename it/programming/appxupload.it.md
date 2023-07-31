@@ -27,5 +27,5 @@ I file APPXBUNDLE vengono salvati su disco in formato file binario, con le relat
 
 ## Riferimenti
 
-* [Tipi di pacchetti di app](https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
+* [Tipi di pacchetti di app](https://learn.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
 

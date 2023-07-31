@@ -32,5 +32,5 @@ HDMP 是未压缩的内存转储文件。相比之下，MDMP 是经过压缩以�
 
 ## 参考 ＃＃
 
-* [DMP - 微软](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
+* [DMP - 微软](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
 

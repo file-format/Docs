@@ -63,5 +63,5 @@ ASPError nesnesi, ASP 3.0'da uygulanmıştır ve IIS5 ve sonrasında mevcuttur. 
 ## Referanslar
 
 * [ASP - W3C Tarafından](https://www.w3schools.com/asp/default.asp)
-* [Basit ASP Sayfaları Oluşturma](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Basit ASP Sayfaları Oluşturma](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

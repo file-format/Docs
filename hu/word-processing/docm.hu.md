@@ -19,7 +19,7 @@
 
 ## Mi az a DOCM fájl?
 
-A DOCM fájlok Microsoft Word 2007 vagy újabb verziójú dokumentumok, amelyek makrók futtatására is alkalmasak. Hasonló a [DOCX](https://docs.fileformat.com/Word%20Processing/DOCX/) fájlformátumhoz, de a makrók futtatásának képessége különbözteti meg a DOCX-től. A DOCX-hez hasonlóan a DOCM-fájlok is tárolhatnak szöveget, képeket, táblázatokat, alakzatokat, diagramokat és egyéb tartalmakat. A makrók futtatásának képessége megkönnyíti az időmegtakarítást azáltal, hogy parancssorokat hajt végre rögzített műveletek formájában a feladat automatikus befejezéséhez. . A DOCM-fájlok megnyithatók és szerkeszthetők a Microsoft Word 2007 és újabb verzióiban.
+A DOCM fájlok Microsoft Word 2007 vagy újabb verziójú dokumentumok, amelyek makrók futtatására is alkalmasak. Hasonló a [DOCX](https://docs.fileformat.com/word-processing/docx/) fájlformátumhoz, de a makrók futtatásának képessége különbözteti meg a DOCX-től. A DOCX-hez hasonlóan a DOCM-fájlok is tárolhatnak szöveget, képeket, táblázatokat, alakzatokat, diagramokat és egyéb tartalmakat. A makrók futtatásának képessége megkönnyíti az időmegtakarítást azáltal, hogy parancssorokat hajt végre rögzített műveletek formájában a feladat automatikus befejezéséhez. . A DOCM-fájlok megnyithatók és szerkeszthetők a Microsoft Word 2007 és újabb verzióiban.
 
 ## Rövid története
 

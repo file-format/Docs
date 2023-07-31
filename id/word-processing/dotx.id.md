@@ -19,7 +19,7 @@
 
 ## Apa itu file DOTX?
 
-File dengan ekstensi DOTX adalah file template yang dibuat oleh Microsoft Word untuk memiliki pengaturan pra-format untuk pembuatan file [DOCX](/id/Word%20Processing/DOCX/) lebih lanjut. File template dibuat untuk memiliki pengaturan pengguna khusus yang harus diterapkan ke lalat berikutnya yang dibuat dari ini. Pengaturan ini mencakup margin halaman, batas, header, footer, dan pengaturan halaman lainnya. Templat semacam itu digunakan dalam dokumen resmi seperti kop surat perusahaan dan formulir standar.
+File dengan ekstensi DOTX adalah file template yang dibuat oleh Microsoft Word untuk memiliki pengaturan pra-format untuk pembuatan file [DOCX](/id/word-processing/docx/) lebih lanjut. File template dibuat untuk memiliki pengaturan pengguna khusus yang harus diterapkan ke lalat berikutnya yang dibuat dari ini. Pengaturan ini mencakup margin halaman, batas, header, footer, dan pengaturan halaman lainnya. Templat semacam itu digunakan dalam dokumen resmi seperti kop surat perusahaan dan formulir standar.
 
 Format file DOTX diperkenalkan dengan rilis Microsoft Office 2007 untuk menggantikan format file [DOT](/id/word-processing/dot/) biner, tetapi juga didukung oleh versi yang lebih tinggi. Microsoft Word secara default membuka setiap dokumen baru berdasarkan file normal.dot. Jika dimodifikasi, semua file baru yang dibuat akan menghasilkan pengaturan yang sama seperti dari file template. Di Microsoft Word 2007, format file DOT telah diganti dengan format file DOTX berbasis Office OpenXML.
 

@@ -34,7 +34,7 @@ Crystal Reports cho phép các nhà phát triển báo cáo cung cấp báo cáo
 Thiết kế các báo cáo dưới dạng báo cáo, hóa đơn, báo cáo bán hàng và hoạt động, thư từ, tài liệu vận chuyển, tài liệu tiếp thị, tài liệu tuân thủ, chỉ số hiệu suất, v.v.
 
 ### Khả năng tương thích
-Đầu ra có thể được Xuất sang các định dạng như [XLS](/vi/spreadsheet/xlsx/), [CSV](/vi/spreadsheet/csv/), [PDF](/vi/pdf/), [DOCX](/vi/word-processing/docx /), văn bản hoặc bản in với thiết kế chính xác đến từng pixel.
+Đầu ra có thể được Xuất sang các định dạng như [XLS](/vi/spreadsheet/xlsx/), [CSV](/vi/spreadsheet/csv/), [PDF](/vi/pdf/), [DOCX](/vi/word-processing/docx/), văn bản hoặc bản in với thiết kế chính xác đến từng pixel.
 
 
 

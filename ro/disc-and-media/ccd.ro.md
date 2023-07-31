@@ -25,7 +25,7 @@ Un fișier CCD este cunoscut ca un fișier imagine disc creat utilizând formatu
 
 Un format de fișier CCD este un descriptor de text CloneCD cu extensia .ccd pentru a marca proprietățile unei imagini CD sau DVD. Pentru a inscripționa un CD sau DVD, fișierul CCD trebuie să fie combinat cu un fișier imagine. Poate veni și cu un fișier subcanal. Acest format poate fi utilizat direct de un emulator de disc sau Virtual CloneDrive. De asemenea, fișierele CCD pot fi montate cu unități virtuale terțe, cum ar fi Daemon sau Alcohol Tools. Aplicația CCDISO este utilizată pentru a converti un fișier CCD compatibil ISO9660 într-o imagine [ISO](/ro/compression/iso/).
 
-Formatele precum [CUE](/ro/disc-and-media/cue),[BIN](/ro/disc-and-media/bin/), [MDS]() [MDF]() au o structură similară cu CCD format, care conține atât o imagine de disc brută, cât și un fișier descriptor.
+Formatele precum [CUE](/ro/disc-and-media/cue/),[BIN](/ro/disc-and-media/bin/), [MDS]() [MDF]() au o structură similară cu CCD format, care conține atât o imagine de disc brută, cât și un fișier descriptor.
 
 ## Referințe
 

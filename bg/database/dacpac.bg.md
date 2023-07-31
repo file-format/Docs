@@ -53,7 +53,7 @@ xmlns="http://schemas.openxmlformats.org/package/2006/content-types">
 
 ## Препратки
 
-* [Приложения от ниво на данни - предимства](https://docs.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
-* [Внедряване на приложение от ниво данни - Microsoft](https://docs.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
+* [Приложения от ниво на данни - предимства](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
+* [Внедряване на приложение от ниво данни - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
 * [Как да създадете DACPAC файл?](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
 

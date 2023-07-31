@@ -61,5 +61,5 @@ In RDL definiert die DataType-Enumeration den Datentyp eines Attributs, Ausdruck
 ## Verweise ##
 
 - [Berichtsdefinitionssprache (Wikipedia)](https://en.wikipedia.org/wiki/Report_Definition_Language)
-- [Berichtsdefinitionssprache (SSRS)](https://docs.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
+- [Berichtsdefinitionssprache (SSRS)](https://learn.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
 

@@ -45,5 +45,5 @@ Visual Studio memungkinkan untuk mengonversi/mengekspor diagram kelas ke gambar 
 
 ## Referensi
 
-* [Kelas Desain di Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
+* [Kelas Desain di Visual Studio](https://learn.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
 

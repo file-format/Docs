@@ -24,5 +24,5 @@ ATT 파일은 사용자가 웹 브라우저에서 양식을 사용하여 데이�
 
 ## 참고문헌
 
-* [웹 양식 - Microsoft](https://docs.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
+* [웹 양식 - Microsoft](https://learn.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
 

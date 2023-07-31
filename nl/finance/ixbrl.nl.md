@@ -20,7 +20,7 @@
 
 ## Wat is een iXBRL-bestand?
 
-Met de iXBRL-bestandsindeling (ilnine XBRL) kunnen [XBRL](/nl/web/xbrl/)-gegevens worden ingesloten in een HTML-bestand om het zowel door machines als door mensen leesbaar te maken. Het is eigenlijk een [xHTML](/nl/web/xhtml/)-bestand dat de XBRL-tags gebruikt en is ontwikkeld door XBRL International om te voldoen aan de eisen van de Britse HMRC. Met iXBRL kunnen financiële overzichten worden gemaakt waarbij de lay-out van het originele document intact blijft. iXBRL-bestanden kunnen worden geopend in elke teksteditor, zoals Kladblok op het Windows-besturingssysteem en Teksteditor op MacOS.
+Met de iXBRL-bestandsindeling (ilnine XBRL) kunnen [XBRL](/nl/finance/xbrl/)-gegevens worden ingesloten in een HTML-bestand om het zowel door machines als door mensen leesbaar te maken. Het is eigenlijk een [xHTML](/nl/web/xhtml/)-bestand dat de XBRL-tags gebruikt en is ontwikkeld door XBRL International om te voldoen aan de eisen van de Britse HMRC. Met iXBRL kunnen financiële overzichten worden gemaakt waarbij de lay-out van het originele document intact blijft. iXBRL-bestanden kunnen worden geopend in elke teksteditor, zoals Kladblok op het Windows-besturingssysteem en Teksteditor op MacOS.
 
 ## iXBRL-bestandsindeling
 

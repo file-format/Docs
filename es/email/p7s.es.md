@@ -34,5 +34,5 @@ Esta información se incrusta mediante la tecnología Public-Key Cryptography St
 
 ## Referencias ##
 
-* [Herramienta de inicio de sesión de Microsoft](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
+* [Herramienta de inicio de sesión de Microsoft](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
 

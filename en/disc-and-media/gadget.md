@@ -38,5 +38,5 @@ Since the Windows Sidebar platform in Windows 7 has serious vulnerabilities, the
 
 ## References 
 
-* [Windows Sidebar - by Microsoft](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
-* [Developing a Gadget for Windows Sidebar Part 1](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
+* [Windows Sidebar - by Microsoft](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
+* [Developing a Gadget for Windows Sidebar Part 1](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)

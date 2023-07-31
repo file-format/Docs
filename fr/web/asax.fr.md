@@ -59,5 +59,5 @@ Un seul fichier ASAX se compose de plusieurs sections écrites pour gérer les �
 ## Références
 
 * [Présentation des gestionnaires HTTP et des modules HTTP](https://msdn.microsoft.com/en-us/library/bb398986(v=vs.100))
-* [Global.asax Syntax](https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
+* [Global.asax Syntax](https://learn.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
 

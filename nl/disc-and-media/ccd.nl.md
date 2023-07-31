@@ -25,7 +25,7 @@ Een CCD-bestand staat bekend als een schijfkopiebestand dat is gemaakt met behul
 
 Een CCD-bestandsindeling is een CloneCD-tekstdescriptor met de extensie .ccd om de eigenschappen van een cd- of dvd-afbeelding te markeren. Om een cd of dvd te branden, moet het CCD-bestand worden gecombineerd met een afbeeldingsbestand. Het kan ook worden geleverd met een subkanaalbestand. Dit formaat kan rechtstreeks worden gebruikt door een schijfemulator of Virtual CloneDrive. De CCD-bestanden kunnen ook worden gemount met virtuele schijven van derden, zoals Daemon of Alcohol Tools. De CCDISO-toepassing wordt gebruikt om een ISO9660-compatibel CCD-bestand om te zetten in een [ISO](/nl/compression/iso/)-afbeelding.
 
-De formaten zoals [CUE](/nl/disc-and-media/cue),[BIN](/nl/disc-and-media/bin/), [MDS]() [MDF]() formaten hebben een vergelijkbare structuur als de CCD formaat, dat zowel een onbewerkte schijfkopie als een descriptorbestand bevat.
+De formaten zoals [CUE](/nl/disc-and-media/cue/),[BIN](/nl/disc-and-media/bin/), [MDS]() [MDF]() formaten hebben een vergelijkbare structuur als de CCD formaat, dat zowel een onbewerkte schijfkopie als een descriptorbestand bevat.
 
 ## Referenties
 

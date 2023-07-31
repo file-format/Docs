@@ -31,5 +31,5 @@ File profil CMS dibuat menggunakan Connection Manager dan dikemas dengan file ko
 
 ## Referensi
 
-* [Memahami dan mengonfigurasi Windows Connection Manager](https://docs.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
+* [Memahami dan mengonfigurasi Windows Connection Manager](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
 

@@ -59,5 +59,5 @@ Un solo archivo ASAX consta de varias secciones que se escriben para manejar los
 ## Referencias
 
 * [Descripción general de controladores HTTP y módulos HTTP](https://msdn.microsoft.com/en-us/library/bb398986(v=vs.100))
-* [Sintaxis global.asax](https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
+* [Sintaxis global.asax](https://learn.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
 

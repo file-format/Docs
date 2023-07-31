@@ -27,5 +27,5 @@ Các tệp APPXBUNDLE được lưu vào đĩa ở định dạng tệp nhị ph
 
 ## Người giới thiệu
 
-* [Các loại gói ứng dụng](https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
+* [Các loại gói ứng dụng](https://learn.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
 

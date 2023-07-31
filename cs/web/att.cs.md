@@ -24,5 +24,5 @@ Aplikace, které mohou **otevřít soubory ATT**, zahrnují textové editory, ja
 
 ## Reference
 
-* [Webové formuláře – Microsoft](https://docs.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
+* [Webové formuláře – Microsoft](https://learn.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
 

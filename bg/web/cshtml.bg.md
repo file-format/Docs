@@ -66,5 +66,5 @@ End Code
 
 ## Препратки
 
-* [Справка за синтаксис на Razor - Microsoft](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0)
+* [Справка за синтаксис на Razor - Microsoft](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0)
 

@@ -38,6 +38,6 @@ GADGET 文件的多个实例可以同时运行。例如，如果有人想知道�
 
 ## 参考
 
-* [Windows 边栏 - Microsoft 提供](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
-* [为 Windows 边栏开发小工具第 1 部分](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
+* [Windows 边栏 - Microsoft 提供](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
+* [为 Windows 边栏开发小工具第 1 部分](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
 

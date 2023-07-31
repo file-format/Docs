@@ -55,6 +55,6 @@ Iată tabelele TTC Header ale ambelor versiuni:
 |uint32| dsigOffset |Decalajul (în octeți) a tabelului DSIG de la începutul fișierului TTC (null dacă nu există semnătură)|
 
 ## Referințe
-* [Fișierul fontului OpenType](https://docs.microsoft.com/en-us/typography/opentype/spec/otff)
+* [Fișierul fontului OpenType](https://learn.microsoft.com/en-us/typography/opentype/spec/otff)
 * [TrueType (Wikipedia)](https://en.wikipedia.org/wiki/TrueType)
 

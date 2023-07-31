@@ -19,7 +19,7 @@
 
 ## Mi az ICNS fájl? ##
 
-A macOS-programok által használt ikonformátumot ICNS-fájlnak nevezik. Lehetővé teszi az 1 bites és a 8 bites alfa sávokat, és egy vagy több képet ment, általában [PNG](/hu/image/png) dokumentumokból. A program ikonja a macOS böngészőben és felületen ICNS-fájlok használatával jelenik meg.
+A macOS-programok által használt ikonformátumot ICNS-fájlnak nevezik. Lehetővé teszi az 1 bites és a 8 bites alfa sávokat, és egy vagy több képet ment, általában [PNG](/hu/image/png/) dokumentumokból. A program ikonja a macOS böngészőben és felületen ICNS-fájlok használatával jelenik meg.
 
 A helytől függően ugyanannak a stílusikonnak több beállítása is lehet. Az ICNS formátum számos módosításon ment keresztül, és odáig fejlődött, hogy mára különféle kompatibilis formátumok alapjaként használható. Íme néhány további fontos szempont, amit tudnia kell:
 
@@ -31,7 +31,7 @@ A helytől függően ugyanannak a stílusikonnak több beállítása is lehet. A
 ## ICNS fájlformátum ##
 
 Az ICNS adatformátum egy vagy több kép kapszula, amely támogatja az 1 bites sávokat és számos képállapotot.
-Az operációs rendszer át tudja méretezni az ikonképeket, hogy azok megfeleljenek a kívánt kijelzőméretnek. A nagyobb ikonképek általában [JPEG](/hu/image/jpeg/) 2000 vagy [PNG](/hu/image/png) fájlként kerülnek mentésre. Tömörített és tömörítetlen ICNS-fájlok egyaránt lehetségesek.
+Az operációs rendszer át tudja méretezni az ikonképeket, hogy azok megfeleljenek a kívánt kijelzőméretnek. A nagyobb ikonképek általában [JPEG](/hu/image/jpeg/) 2000 vagy [PNG](/hu/image/png/) fájlként kerülnek mentésre. Tömörített és tömörítetlen ICNS-fájlok egyaránt lehetségesek.
 
 A fejléc és a bináris ikonadatok alkotják az ICNS-fájl szerkezetét. A fejléc 8 bájtnyi adatot tartalmaz, amelyek közül négy a mágikus literál, négy pedig a fájl hossza. Az egyes ikonképek típusát és méretét az ikonadatok részben tároljuk, amit a bináris képadatok követnek. A kép mérete határozza meg a bináris rész méretét.
 

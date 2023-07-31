@@ -59,5 +59,5 @@ Egyetlen ASAX-fájl több szakaszból áll, amelyek az alkalmazásszintű esemé
 ## Hivatkozások
 
 * [HTTP-kezelők és HTTP-modulok áttekintése](https://msdn.microsoft.com/en-us/library/bb398986(v=vs.100))
-* [Global.asax szintaxis](https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
+* [Global.asax szintaxis](https://learn.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
 

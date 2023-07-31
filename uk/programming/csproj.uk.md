@@ -24,7 +24,7 @@
 
 Розробники можуть самостійно створювати файли проекту, дотримуючись [MSBuild XML Schema](https://msdn.microsoft.com/library/5dy88c2e.aspx). Відкрита та прозора структура файлів проекту дозволяє розробникам додатків здійснювати складний і детальний контроль над створенням і розгортанням проектів. Вміст такого файлу проекту має чіткий зв'язок між собою. На наступному малюнку показано ключові елементи та зв’язок між ними для такого файлу проекту.
 
-![](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
+![](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
 
 У наступних розділах описано елементи формату файлу проекту.
 
@@ -94,5 +94,5 @@
 
 ## Список літератури
 
-* [Розуміння файлу проекту - MSDN](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- файл)
+* [Розуміння файлу проекту - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- файл)
 

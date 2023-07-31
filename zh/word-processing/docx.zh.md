@@ -23,7 +23,7 @@ DOCX 是一种众所周知的 Microsoft Word 文档格式。从 2007 年随着 M
 
 ## 历史简介 ＃＃
 
-微软开放 DOC 文件格式规范后，竞争对手很容易对格式进行逆向工程，并在自己的应用程序中提供相同的支持。此外，来自 Open Office 的开放文档格式的竞争，迫使微软采用更开放和更广泛的标准。 2000 年初，Microsoft 决定进行更改以适应 **Office Open XML** 的标准。此新标准下的文档被赋予 [.docx 扩展名](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)，“X"用于 XML。到 2007 年，这种新的文件格式成为 Office 2007 的一部分，并且在新版本的 Microsoft Office 中也得到了延续。新的文件类型增加了文件大小小、损坏更改少和格式良好的图像表示的优点。
+微软开放 DOC 文件格式规范后，竞争对手很容易对格式进行逆向工程，并在自己的应用程序中提供相同的支持。此外，来自 Open Office 的开放文档格式的竞争，迫使微软采用更开放和更广泛的标准。 2000 年初，Microsoft 决定进行更改以适应 **Office Open XML** 的标准。此新标准下的文档被赋予 [.docx 扩展名](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)，“X"用于 XML。到 2007 年，这种新的文件格式成为 Office 2007 的一部分，并且在新版本的 Microsoft Office 中也得到了延续。新的文件类型增加了文件大小小、损坏更改少和格式良好的图像表示的优点。
 
 ## DOCX 文件格式规范 - 更多信息
 
@@ -105,6 +105,6 @@ Microsoft Word 使用这些文件来查找文件之间的关系并定位文档�
 
 ## 参考 ＃＃
 
-* [MS - DOCX 文件格式](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
+* [MS - DOCX 文件格式](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
 * [Office Open XML](http://officeopenxml.com/)
 

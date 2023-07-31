@@ -53,7 +53,7 @@
 ## Список літератури
 
 * [Створіть довідку на основі XML за допомогою PlatyPS
-](https://docs.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
+](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
 * [Мова розмітки Microsoft Assistance](https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
 
 # AML - мовний файл макросів Arc

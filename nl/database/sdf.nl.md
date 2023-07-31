@@ -27,6 +27,6 @@ De .sdf-naamgevingsconventie is optioneel en elke extensie kan worden gebruikt o
 ## Referenties
 
 * [SQL Server Compact - Wikipedia](https://en.wikipedia.org/wiki/SQL_Server_Compact)
-* [SQL Server Compact gebruiken voor ASP.NET-webtoepassingen](https://docs.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
+* [SQL Server Compact gebruiken voor ASP.NET-webtoepassingen](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
 
 

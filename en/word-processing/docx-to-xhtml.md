@@ -24,7 +24,14 @@ There are several online tools available online that are used for conversion of 
 
 ## DOCX to XHTML Conversion - FREE DEMO
 
-You can use Aspose.Words conversion app for FREE to [convert DOCX to XHTML](https://products.aspose.app/words/conversion/docx-to-xhtml). Here are the steps you need to follow to convert your DOCX files to XHTML.
+You can use Aspose.Words conversion app for FREE to convert DOCX to XHTML. To give it a try, click the following button. 
+
+[![DOCX to XHTML](../docx-to-xhtml.png?width=120px&height=60px)](https://products.aspose.app/words/conversion/docx-to-xhtml)
+
+
+### Steps to Convert DOCX to XHTML
+
+Here are the steps you need to follow to convert your DOCX files to XHTML.
 
 1. Go to [Aspose.Words conversion app](https://products.aspose.app/words/conversion/docx-to-xhtml)
 1. Upload your DOCX file to the browser

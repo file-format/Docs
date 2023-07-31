@@ -23,7 +23,7 @@ Um arquivo com extensão .cff é um formato de fonte compacta e também é conhe
 
 ## Formato de arquivo CFF
 
-Os arquivos CFF são arquivos binários que contêm um layout de dados estruturado, tipos de dados definidos, um cabeçalho, organização de glifos e dicionários de tabelas. Mais detalhes sobre eles podem ser encontrados nas [especificações de formato de fonte compacta](https://docs.microsoft.com/en-us/typography/opentype/spec/cff).
+Os arquivos CFF são arquivos binários que contêm um layout de dados estruturado, tipos de dados definidos, um cabeçalho, organização de glifos e dicionários de tabelas. Mais detalhes sobre eles podem ser encontrados nas [especificações de formato de fonte compacta](https://learn.microsoft.com/en-us/typography/opentype/spec/cff).
 
 ### Layout de dados
 O layout de dados do formato de arquivo CFF é mostrado abaixo.
@@ -68,7 +68,7 @@ Os dados binários começam com um cabeçalho com o formato mostrado na tabela a
 
 ## Referências
 
-* [Tabela de formato de fonte compacta](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+* [Tabela de formato de fonte compacta](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
 * [Formato de arquivo CFF](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
-* [Conjunto de gráficos CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+* [Conjunto de gráficos CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

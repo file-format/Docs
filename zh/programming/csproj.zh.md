@@ -24,7 +24,7 @@
 
 开发人员可以自己创建项目文件，也可以遵循 [MSBuild XML Schema](https://msdn.microsoft.com/library/5dy88c2e.aspx)。项目文件的开放和透明结构使应用程序开发人员可以对项目的构建和部署方式进行复杂和细粒度的控制。这样一个工程文件的内容，相互之间有着非常明确的关系。下图显示了此类项目文件的关键元素以及它们之间的关系。
 
-![](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
+![](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
 
 以下部分详细说明了项目文件的文件格式元素。
 
@@ -94,5 +94,5 @@
 
 ## 参考
 
-* [了解项目文件 - MSDN](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-文件）
+* [了解项目文件 - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-文件）
 

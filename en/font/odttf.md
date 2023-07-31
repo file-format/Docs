@@ -28,5 +28,5 @@ NiXPS View, and NiXPS Edit.
 The internal file format structure of ODTTF file format is not known as these are stored as embedded obfuscated format. These can be embedded in digital documents such as .PDF or .DOCX.
 
 ## References
- * [OpenType Font Specifications by Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
- * [TrueType Overview](https://docs.microsoft.com/en-us/typography/truetype/)
+ * [OpenType Font Specifications by Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+ * [TrueType Overview](https://learn.microsoft.com/en-us/typography/truetype/)

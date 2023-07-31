@@ -27,10 +27,10 @@
 
 ## افتح ملفات ETL باستخدام محلل أداء Windows
 
-يمكن قراءة بيانات ملفات ETL وتصورها بتنسيق جدولي بالإضافة إلى تنسيق رسومي باستخدام تطبيق Microsoft Windows Performance Analyzer (WPA). يوفر دليل [فتح ملفات ETL وتحليلها](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) معلومات حول العمل مع ملفات ETL.
+يمكن قراءة بيانات ملفات ETL وتصورها بتنسيق جدولي بالإضافة إلى تنسيق رسومي باستخدام تطبيق Microsoft Windows Performance Analyzer (WPA). يوفر دليل [فتح ملفات ETL وتحليلها](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) معلومات حول العمل مع ملفات ETL.
 
 ## مراجع
 
-* [محلل أداء Windows](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
-* [دليل البدء السريع لـ WPA](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
+* [محلل أداء Windows](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
+* [دليل البدء السريع لـ WPA](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
 

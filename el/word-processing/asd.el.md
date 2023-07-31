@@ -31,5 +31,5 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Ανάκτηση εγγράφου Microsoft Word](https://docs.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
+* [Ανάκτηση εγγράφου Microsoft Word](https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
 

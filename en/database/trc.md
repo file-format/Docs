@@ -40,4 +40,4 @@ The SQL Server Profiler can be used to open a Microsoft Windows performance log,
 
 ## References ##
 
-* [SQL Server Profiler](https://docs.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler?view=sql-server-ver15)
+* [SQL Server Profiler](https://learn.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler?view=sql-server-ver15)

@@ -22,7 +22,7 @@ FZP 文件是由 [Fritzing](https://fritzing.org/) 电子电路原型设计和�
 
 ## FZP 文件格式 - 更多信息
 
-FZP 文件是 XML 文件，其中包含有关部件属性、连接器和总线的信息。除了这些，FZP 文件还包含有关 FZP 文件的标题、描述、作者和发布日期的信息。导出 Fritzing 零件文件时，Fritzing 应用程序会创建一个 [FZPZ](/zh/compression/fzpz/) 压缩存档，其中包含一个 FZP 文件和四个 [SVG](/zh/image/svg/) 文件。
+FZP 文件是 XML 文件，其中包含有关部件属性、连接器和总线的信息。除了这些，FZP 文件还包含有关 FZP 文件的标题、描述、作者和发布日期的信息。导出 Fritzing 零件文件时，Fritzing 应用程序会创建一个 [FZPZ](/zh/compression/fzpz/) 压缩存档，其中包含一个 FZP 文件和四个 [SVG](/zh/page-description-language/svg/) 文件。
 
 [FZP 文件格式规范](https://github.com/fritzing/fzp/blob/master/docs/README.md) 由 Fritzing 在 Github 上提供。
 

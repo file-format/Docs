@@ -26,7 +26,7 @@ Các tệp DDS được lưu dưới dạng tệp nhị phân và có thể đư
 
 ### Bố cục tệp DDS
 
-[Bố cục tệp DDS](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) đã được Microsoft ghi lại chi tiết. Tệp DDS nhị phân chứa thông tin sau.
+[Bố cục tệp DDS](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) đã được Microsoft ghi lại chi tiết. Tệp DDS nhị phân chứa thông tin sau.
 
 * DWORD (số ma thuật) chứa giá trị mã bốn ký tự 'DDS ' (0x20534444).
 * Mô tả dữ liệu trong tệp.
@@ -38,7 +38,7 @@ DWORD               dwMagic;
 DDS_HEADER          header;
 ```
 
-[Hướng dẫn lập trình định dạng tệp DDS](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) giải thích thêm các chi tiết kỹ thuật của định dạng tệp này.
+[Hướng dẫn lập trình định dạng tệp DDS](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) giải thích thêm các chi tiết kỹ thuật của định dạng tệp này.
 
 ## Người giới thiệu
 

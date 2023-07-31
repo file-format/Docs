@@ -56,7 +56,7 @@ El patrón principal en un recurso de versión es **VS_FIXEDFILEINFO**. Los patr
 
 ## Referencias
 
-* [Formatos de archivo de recursos](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
+* [Formatos de archivo de recursos](https://learn.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
 
 

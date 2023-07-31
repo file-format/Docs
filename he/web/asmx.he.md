@@ -41,6 +41,6 @@
 
 ## הפניות
 
-* [צורך שירות ASMX](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/web-services/asmx)
+* [צורך שירות ASMX](https://learn.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/web-services/asmx)
 * [בקרת משתמש ASCX](https://beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

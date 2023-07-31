@@ -24,7 +24,7 @@ VHDX dosyası, Hyper-V Manager ile [VHD](/tr/disc-and-media/vhd/) dosyasına vey
 
 ## VHDX Dosya Biçimi - Daha Fazla Bilgi
 
-VHDX dosya biçimi ayrıntıları tamamen belgelenmiştir ve çevrimiçi olarak [VHDX Dosya Biçimi Spesifikasyonları](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477) adresinde mevcuttur. ) Microsoft Dokümantasyonunda. VHD biçiminin bir uzantısıdır ve gelişmiş yetenekler içerir. VHDX dosya biçimi, sanal sabit disk ve sanal sabit disk dosya katmanlarında bulunan ek özellikler sağlar. Daha optimize edilmiştir ve depolama donanımı yapılandırması ve yetenekleri için daha iyi sonuçlar verir. VHDX dosyaları açılabilir
+VHDX dosya biçimi ayrıntıları tamamen belgelenmiştir ve çevrimiçi olarak [VHDX Dosya Biçimi Spesifikasyonları](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477) adresinde mevcuttur. ) Microsoft Dokümantasyonunda. VHD biçiminin bir uzantısıdır ve gelişmiş yetenekler içerir. VHDX dosya biçimi, sanal sabit disk ve sanal sabit disk dosya katmanlarında bulunan ek özellikler sağlar. Daha optimize edilmiştir ve depolama donanımı yapılandırması ve yetenekleri için daha iyi sonuçlar verir. VHDX dosyaları açılabilir
 
 ### VHDX'te Sanal Sabit Disk Desteği
 
@@ -38,6 +38,6 @@ VHDX dosya biçimi ayrıntıları tamamen belgelenmiştir ve çevrimiçi olarak 
 
 ## Referanslar
 
-* [VHDX Dosya Biçimi Özellikleri](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
+* [VHDX Dosya Biçimi Özellikleri](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
 * [VHD - Wikipedia'dan](https://en.wikipedia.org/wiki/VHD_(file_format))
 

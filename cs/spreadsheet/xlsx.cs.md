@@ -27,7 +27,7 @@ Formát souboru XLSX byl představen v roce 2007 a používá standard Open XML 
 
 ## Specifikace formátu souboru XLSX
 
-Oficiální [specifikace formátu souboru XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) jsou k dispozici online od společnosti Microsoft. Chcete-li vidět, co je uvnitř souboru XLSX, stačí jej přejmenovat na soubor [ZIP](/cs/compression/zip/) změnou jeho přípony a poté jej rozbalit, abyste mohli zobrazit základní soubory tohoto sešitu aplikace Excel. Prázdný sešit, když je extrahován do svých souborů, má následující základní soubory a složky.
+Oficiální [specifikace formátu souboru XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) jsou k dispozici online od společnosti Microsoft. Chcete-li vidět, co je uvnitř souboru XLSX, stačí jej přejmenovat na soubor [ZIP](/cs/compression/zip/) změnou jeho přípony a poté jej rozbalit, abyste mohli zobrazit základní soubory tohoto sešitu aplikace Excel. Prázdný sešit, když je extrahován do svých souborů, má následující základní soubory a složky.
 
 ### [Content_Types].xml ###
 
@@ -77,6 +77,6 @@ Potřebujete se podělit o něco o formátech souborů XLSX nebo Tabulkový proc
 
 ## Reference
 
-* [[MS-XLSX] – formát souboru XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [[MS-XLSX] – formát souboru XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

@@ -35,6 +35,6 @@ Een MSIX-pakket bestaat uit de volgende bestanden.
 
 ## Referenties
 
-* [MSIX-overzicht](https://docs.microsoft.com/en-us/windows/msix/overview)
-* [Maak APPX-bestanden met Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [MSIX-overzicht](https://learn.microsoft.com/en-us/windows/msix/overview)
+* [Maak APPX-bestanden met Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

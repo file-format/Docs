@@ -47,7 +47,7 @@ VCXPROJ ファイルは、[XML](/web/xml/) ファイル形式で作成された�
 ```
 ### VCXPROJ ファイルの要素
 
-典型的な VCXPROJ ファイルには、上記の XML の例に見られるように、多数の要素が含まれています。 Microsoft の [VCXPROJ 構造](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) では、各ファイル要素が詳細に説明されており、参照できます。開発者の視点から。
+典型的な VCXPROJ ファイルには、上記の XML の例に見られるように、多数の要素が含まれています。 Microsoft の [VCXPROJ 構造](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) では、各ファイル要素が詳細に説明されており、参照できます。開発者の視点から。
 
 #### プロジェクト要素
 
@@ -72,6 +72,6 @@ VCXPROJ ファイルの ProjectConfiguration 要素には、プロジェクト�
 
 ## 参考文献
 
-* [VCXPROJ 構造 - MSDN](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
-* [C++ プロジェクト ファイル](https://docs.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
+* [VCXPROJ 構造 - MSDN](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
+* [C++ プロジェクト ファイル](https://learn.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
 

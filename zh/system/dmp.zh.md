@@ -136,5 +136,5 @@ Followup: MachineOwner
 
 ## 参考 ＃＃
 
-* [DMP - 微软](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
+* [DMP - 微软](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
 

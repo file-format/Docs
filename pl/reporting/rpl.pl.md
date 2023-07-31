@@ -307,5 +307,5 @@ Poniższa lista przedstawia wyliczenia, których można użyć w strumieniu RPL:
 
 ## Bibliografia ##
 
-- [Format strumienia binarnego układu strony raportu (RPL)](https://docs.microsoft.com/en-us/openspecs/sql_server_protocols/ms-rpl/9c4ff7ba-f6da-4092-9670-aa0e54e73887)
+- [Format strumienia binarnego układu strony raportu (RPL)](https://learn.microsoft.com/en-us/openspecs/sql_server_protocols/ms-rpl/9c4ff7ba-f6da-4092-9670-aa0e54e73887)
 

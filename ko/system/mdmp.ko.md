@@ -51,5 +51,5 @@ Windows는 모든 메모리 덤프 파일 목록을 %SystemRoot%\Minidump 폴더
 
 ## 참조
 
-* [크래시 발생 시 Windows에서 생성되는 작은 메모리 덤프 파일을 읽는 방법](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -파일)
+* [크래시 발생 시 Windows에서 생성되는 작은 메모리 덤프 파일을 읽는 방법](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -파일)
 

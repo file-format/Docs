@@ -18,7 +18,7 @@
 
 ## Wat is een FZPZ-bestand?
 
-Een FZPZ-bestand is een component/onderdeel dat wordt gebruikt in een elektronisch circuitontwerp dat is gemaakt met de circuitprototyping- en ontwerptoepassing **Fritzing**. Het is een gecomprimeerd archief dat een [FZP](/nl/cad/fzp/)-bestand en vier [SVG](/nl/image/svg/)-afbeeldingen bevat die het algehele deel in Fritzing beschrijven. Het voordeel van het gebruik van deze bestanden is dat gebruikers hun FZPZ-bestanden met elk kunnen delen vanuit het oogpunt van herbruikbaarheid. Het delen van FZPZ-onderdelen helpt bij het integreren van circuitonderdelen om op een snelle manier grotere PCB-ontwerpen te maken.
+Een FZPZ-bestand is een component/onderdeel dat wordt gebruikt in een elektronisch circuitontwerp dat is gemaakt met de circuitprototyping- en ontwerptoepassing **Fritzing**. Het is een gecomprimeerd archief dat een [FZP](/nl/cad/fzp/)-bestand en vier [SVG](/nl/page-description-language/svg/)-afbeeldingen bevat die het algehele deel in Fritzing beschrijven. Het voordeel van het gebruik van deze bestanden is dat gebruikers hun FZPZ-bestanden met elk kunnen delen vanuit het oogpunt van herbruikbaarheid. Het delen van FZPZ-onderdelen helpt bij het integreren van circuitonderdelen om op een snelle manier grotere PCB-ontwerpen te maken.
 
 ## FZPZ-bestandsindeling - Meer informatie
 

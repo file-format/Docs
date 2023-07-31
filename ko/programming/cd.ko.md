@@ -45,5 +45,5 @@ Visual Studio를 사용하면 클래스 다이어그램을 [PNG](/ko/image/png/)
 
 ## 참고문헌
 
-* [Visual Studio의 디자인 클래스](https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
+* [Visual Studio의 디자인 클래스](https://learn.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
 

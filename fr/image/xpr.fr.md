@@ -27,5 +27,5 @@ Les fichiers XPR ont été identifiés comme bénéficiant d'une vulnérabilité
 
 ## Références
 
-* [Une vulnérabilité dans la conception d'expression pourrait permettre l'exécution de code à distance (2651018)](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
+* [Une vulnérabilité dans la conception d'expression pourrait permettre l'exécution de code à distance (2651018)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
 

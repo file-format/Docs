@@ -23,7 +23,7 @@ Un archivo con la extensión .vbproj es un archivo de proyecto de Microsoft Visu
 
 ## Formato de archivo VBPROJ - Más información
 
-Los archivos VBPROJ son archivos de texto escritos en formato de archivo [XML](/es/web/xml/) basado en el [Esquema XML de MSBuild](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild- proyecto-archivo-esquema-referencia?view=vs-2019). Un archivo VBPROJ contiene información en forma de etiquetas XML que definen información relacionada con ese grupo particular de configuraciones. Se recomienda encarecidamente abrir y editar estos archivos de configuración en Microsoft Visual Studio IDE.
+Los archivos VBPROJ son archivos de texto escritos en formato de archivo [XML](/es/web/xml/) basado en el [Esquema XML de MSBuild](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild- proyecto-archivo-esquema-referencia?view=vs-2019). Un archivo VBPROJ contiene información en forma de etiquetas XML que definen información relacionada con ese grupo particular de configuraciones. Se recomienda encarecidamente abrir y editar estos archivos de configuración en Microsoft Visual Studio IDE.
 
 ### Elementos VBPROJ
 
@@ -42,6 +42,6 @@ La siguiente tabla da una breve descripción de estos elementos.
 
 ## Referencias
 
-* [Comprender el archivo del proyecto](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
-* [Elementos del esquema de MSBuild](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
+* [Comprender el archivo del proyecto](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
+* [Elementos del esquema de MSBuild](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
 

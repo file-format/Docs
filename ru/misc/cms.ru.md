@@ -31,5 +31,5 @@
 
 ## использованная литература
 
-* [Понимание и настройка диспетчера подключений Windows](https://docs.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
+* [Понимание и настройка диспетчера подключений Windows](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
 

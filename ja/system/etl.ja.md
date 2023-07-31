@@ -27,10 +27,10 @@ ETL ファイルは圧縮されたバイナリ形式でディスクに保存さ�
 
 ## Windows パフォーマンス アナライザーを使用して ETL ファイルを開く
 
-ETL ファイルのデータは、Microsoft Windows Performance Analyzer (WPA) アプリケーションを使用して、表形式およびグラフ形式で読み取り、視覚化できます。 [ETL ファイルを開いて分析する](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) ガイドには、作業に関する情報が記載されています。 ETLファイルで。
+ETL ファイルのデータは、Microsoft Windows Performance Analyzer (WPA) アプリケーションを使用して、表形式およびグラフ形式で読み取り、視覚化できます。 [ETL ファイルを開いて分析する](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/opening-and-analyzing-etl-files-in-wpa) ガイドには、作業に関する情報が記載されています。 ETLファイルで。
 
 ## 参考文献
 
-* [Windows パフォーマンス アナライザー](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
-* [WPA クイック スタート ガイド](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
+* [Windows パフォーマンス アナライザー](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
+* [WPA クイック スタート ガイド](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
 

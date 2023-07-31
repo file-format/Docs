@@ -36,11 +36,11 @@
 
 มีสองวิธีที่สามารถใช้ในการสร้างไฟล์ APPX
 
-1. การใช้ MakeApp.exe - ใช้ [MakeApp.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) เพื่อสร้างทั้งสองอย่าง แพ็กเกจแอป (.msix หรือ .appx) และไฟล์แพ็กเกจแอป .msixbundle หรือ .appxbundle) นอกจากนี้ยังสามารถแยกไฟล์จากแพ็คเกจแอพ MakeApp.exe พร้อมใช้งานกับ Windows 10 SDK และสามารถใช้งานได้จากพรอมต์คำสั่ง
-1. การใช้ Microsoft Visual Studio - นักพัฒนามักจะ [สร้างไฟล์ APPX](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) โดยใช้ Microsoft Visual Studio เมื่อการพัฒนาแอปพลิเคชันเสร็จสิ้นและแอปพร้อมที่จะเผยแพร่แล้ว คุณสามารถสร้างไฟล์แพ็คเกจ APPX ได้โดยการเผยแพร่จากภายใน Visual Studio
+1. การใช้ MakeApp.exe - ใช้ [MakeApp.exe](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) เพื่อสร้างทั้งสองอย่าง แพ็กเกจแอป (.msix หรือ .appx) และไฟล์แพ็กเกจแอป .msixbundle หรือ .appxbundle) นอกจากนี้ยังสามารถแยกไฟล์จากแพ็คเกจแอพ MakeApp.exe พร้อมใช้งานกับ Windows 10 SDK และสามารถใช้งานได้จากพรอมต์คำสั่ง
+1. การใช้ Microsoft Visual Studio - นักพัฒนามักจะ [สร้างไฟล์ APPX](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) โดยใช้ Microsoft Visual Studio เมื่อการพัฒนาแอปพลิเคชันเสร็จสิ้นและแอปพร้อมที่จะเผยแพร่แล้ว คุณสามารถสร้างไฟล์แพ็คเกจ APPX ได้โดยการเผยแพร่จากภายใน Visual Studio
 
 ## อ้างอิง
 
-* [สร้างแพ็คเกจ MSIX หรือบันเดิลด้วย MakeAppx.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
-* [สร้างไฟล์ APPX โดยใช้ Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [สร้างแพ็คเกจ MSIX หรือบันเดิลด้วย MakeAppx.exe](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
+* [สร้างไฟล์ APPX โดยใช้ Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

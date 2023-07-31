@@ -23,7 +23,7 @@ CFF2 파일 형식은 CFF 파일 형식의 버전 2.0이며 CFF 파일 형식과
 
 ## CFF2 파일 형식
 
-[CFF2 파일 형식 사양](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2)에는 내부 데이터 레이아웃, 데이터 유형, 테이블 및 파일 형식에 대한 기타 내부 정보에 대한 세부 정보가 포함되어 있습니다. 개발자 참조용으로 참조할 수 있습니다. 이들에 대한 세부사항 중 일부는 다음과 같습니다.
+[CFF2 파일 형식 사양](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2)에는 내부 데이터 레이아웃, 데이터 유형, 테이블 및 파일 형식에 대한 기타 내부 정보에 대한 세부 정보가 포함되어 있습니다. 개발자 참조용으로 참조할 수 있습니다. 이들에 대한 세부사항 중 일부는 다음과 같습니다.
 
 ### 데이터 레이아웃
 
@@ -81,5 +81,5 @@ CFF2 파일에는 컴팩트 토큰 형식의 키-값 쌍으로 글꼴 사전 데
 
 ## 참고문헌
 
-* [CFF2 파일 형식](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2)
+* [CFF2 파일 형식](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2)
 

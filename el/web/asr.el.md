@@ -27,5 +27,5 @@
 ## βιβλιογραφικές αναφορές
 
 * [Adobe Contribute - By Wikipedia](https://en.wikipedia.org/wiki/Adobe_Contribute)
-* [Δημιουργία απλών σελίδων ASP](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Δημιουργία απλών σελίδων ASP](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

@@ -27,5 +27,5 @@ Il file ASR contiene uno script sviluppato nel linguaggio di scripting standard.
 ## Riferimenti
 
 * [Adobe Contribute - Di Wikipedia](https://en.wikipedia.org/wiki/Adobe_Contribute)
-* [Creazione di pagine ASP semplici](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Creazione di pagine ASP semplici](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

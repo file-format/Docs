@@ -52,5 +52,5 @@ Vztahové části souboru Visio jsou uloženy ve složce "_rels" a popisují, ja
 
 ## Reference ##
 
-* [Úvod do formátu souboru Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Úvod do formátu souboru Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

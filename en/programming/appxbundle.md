@@ -28,4 +28,4 @@ APPXBUNDLE files are published in ZIP file format. If you want to see the conten
 ## References
 
  * [Dependency packages for .appx and .appxbundle packages](https://www.ibm.com/docs/en/maas360?topic=catalog-dependency-packages-appx-appxbundle-packages)
- * [Create APPX files using Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+ * [Create APPX files using Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)

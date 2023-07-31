@@ -26,7 +26,7 @@ DDS 파일은 바이너리 파일로 저장되며 DirectX SDK와 함께 사용�
 
 ### DDS 파일 레이아웃
 
-[DDS 파일 레이아웃](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout)은 Microsoft에서 자세히 문서화했습니다. 바이너리 DDS 파일에는 다음 정보가 포함되어 있습니다.
+[DDS 파일 레이아웃](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout)은 Microsoft에서 자세히 문서화했습니다. 바이너리 DDS 파일에는 다음 정보가 포함되어 있습니다.
 
 * 4자리 코드 값 'DDS'(0x20534444)를 포함하는 DWORD(매직 넘버).
 * 파일의 데이터에 대한 설명입니다.
@@ -38,7 +38,7 @@ DWORD               dwMagic;
 DDS_HEADER          header;
 ```
 
-[DDS 파일 형식 프로그래밍 가이드](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide)에서 이 파일 형식의 기술적인 세부 사항을 자세히 설명합니다.
+[DDS 파일 형식 프로그래밍 가이드](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide)에서 이 파일 형식의 기술적인 세부 사항을 자세히 설명합니다.
 
 ## 참고문헌
 

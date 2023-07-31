@@ -43,5 +43,5 @@ Bir raporu yalnızca bir **ReportViewer** denetiminde çalıştırarak önizleye
 
 ## Referanslar ##
 
-- [İstemci Raporu Tanımı (.rdlc) Dosyaları Oluşturma](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
+- [İstemci Raporu Tanımı (.rdlc) Dosyaları Oluşturma](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
 

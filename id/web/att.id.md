@@ -24,5 +24,5 @@ Aplikasi yang dapat **membuka file ATT** meliputi editor teks seperti Microsoft 
 
 ## Referensi
 
-* [Formulir Web - Microsoft](https://docs.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
+* [Formulir Web - Microsoft](https://learn.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
 

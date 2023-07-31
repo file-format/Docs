@@ -90,5 +90,5 @@ Každá tabulka v souboru písem musí mít svůj vlastní záznam v adresáři 
 
 ## Reference
 * [Referenční příručka písem TrueType](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [Přehled TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Přehled TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

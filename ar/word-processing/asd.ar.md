@@ -31,5 +31,5 @@
 
 ## مراجع
 
-* [استرداد مستند Microsoft Word](https://docs.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupt-document)
+* [استرداد مستند Microsoft Word](https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupt-document)
 

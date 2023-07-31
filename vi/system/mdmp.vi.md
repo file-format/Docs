@@ -51,5 +51,5 @@ Có thể sử dụng các bước sau để mở tệp MDMP trong Visual Studio
 
 ## Tài liệu tham khảo
 
-* [Cách đọc tệp kết xuất bộ nhớ nhỏ được tạo bởi Windows nếu xảy ra sự cố](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -tập tin)
+* [Cách đọc tệp kết xuất bộ nhớ nhỏ được tạo bởi Windows nếu xảy ra sự cố](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -tập tin)
 

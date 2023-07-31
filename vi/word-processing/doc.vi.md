@@ -19,7 +19,7 @@
 
 ## Tệp DOC là gì?
 
-Các tệp có phần mở rộng .doc đại diện cho các tài liệu được tạo bởi Microsoft Word hoặc các tài liệu xử lý văn bản khác ở định dạng tệp nhị phân. Phần mở rộng ban đầu được sử dụng cho tài liệu văn bản thuần túy trên một số hệ điều hành khác nhau. Nó có thể chứa một số loại dữ liệu khác nhau như hình ảnh, được định dạng cũng như văn bản thuần túy, đồ thị, biểu đồ, đối tượng được nhúng, liên kết, trang, định dạng trang, cài đặt in và nhiều thứ khác. Định dạng này phổ biến cho tất cả các loại tài liệu do có nhiều tùy chọn mà nó cung cấp cho người dùng để viết hướng dẫn sử dụng, đề xuất, thông số kỹ thuật, sơ yếu lý lịch, bài báo hoặc bất kỳ tài liệu tương tự nào. Phiên bản cập nhật của DOC là [DOCX](/vi/Word%20Processing/DOCX/) dựa trên Office OpenXML có thông số kỹ thuật sẵn có công khai.
+Các tệp có phần mở rộng .doc đại diện cho các tài liệu được tạo bởi Microsoft Word hoặc các tài liệu xử lý văn bản khác ở định dạng tệp nhị phân. Phần mở rộng ban đầu được sử dụng cho tài liệu văn bản thuần túy trên một số hệ điều hành khác nhau. Nó có thể chứa một số loại dữ liệu khác nhau như hình ảnh, được định dạng cũng như văn bản thuần túy, đồ thị, biểu đồ, đối tượng được nhúng, liên kết, trang, định dạng trang, cài đặt in và nhiều thứ khác. Định dạng này phổ biến cho tất cả các loại tài liệu do có nhiều tùy chọn mà nó cung cấp cho người dùng để viết hướng dẫn sử dụng, đề xuất, thông số kỹ thuật, sơ yếu lý lịch, bài báo hoặc bất kỳ tài liệu tương tự nào. Phiên bản cập nhật của DOC là [DOCX](/vi/word-processing/docx/) dựa trên Office OpenXML có thông số kỹ thuật sẵn có công khai.
 
 ## Lược Sử ##
 

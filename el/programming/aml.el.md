@@ -53,7 +53,7 @@
 ## βιβλιογραφικές αναφορές
 
 * [Δημιουργήστε βοήθεια που βασίζεται σε XML χρησιμοποιώντας το PlatyPS
-](https://docs.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
+](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
 * [Microsoft Assistance Markup Language](https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
 
 # AML - Αρχείο γλώσσας Arc Macro

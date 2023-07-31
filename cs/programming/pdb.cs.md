@@ -19,7 +19,7 @@
 
 ## Co je soubor PDB?
 
-Soubor s příponou .pdb je soubor databáze programu, který obsahuje informace o ladění kompilovaného spustitelného souboru (EXE/DLL). Soubory PDB jsou generovány kompilátory společnosti Microsoft, když je aplikační program kompilován v režimu ladění. Přítomnost souboru PDB může pomoci při zpětném inženýrství spustitelného souboru, protože obsahuje významné informace o všech symbolech modulů. Z tohoto důvodu jsou tyto soubory uchovávány odděleně od konečného spustitelného souboru. Microsoft [DgbHelp API](https://docs.microsoft.com/en-us/windows/win32/debug/dbghelp-functions) může otevřít soubor PDB a získat informace, jako jsou publics a exports, globální symboly, místní symboly, typová data, zdrojové soubory a čísla řádků.
+Soubor s příponou .pdb je soubor databáze programu, který obsahuje informace o ladění kompilovaného spustitelného souboru (EXE/DLL). Soubory PDB jsou generovány kompilátory společnosti Microsoft, když je aplikační program kompilován v režimu ladění. Přítomnost souboru PDB může pomoci při zpětném inženýrství spustitelného souboru, protože obsahuje významné informace o všech symbolech modulů. Z tohoto důvodu jsou tyto soubory uchovávány odděleně od konečného spustitelného souboru. Microsoft [DgbHelp API](https://learn.microsoft.com/en-us/windows/win32/debug/dbghelp-functions) může otevřít soubor PDB a získat informace, jako jsou publics a exports, globální symboly, místní symboly, typová data, zdrojové soubory a čísla řádků.
 
 ## Formát souboru PDB
 

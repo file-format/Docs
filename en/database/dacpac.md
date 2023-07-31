@@ -53,5 +53,5 @@ Following are few files that are found inside a DACPAC file.
 
 ## References
 
-* [Data Tier Applications - Benefits](https://docs.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
-* [Deploying a Data Tier Application - Microsoft](https://docs.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
+* [Data Tier Applications - Benefits](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
+* [Deploying a Data Tier Application - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)

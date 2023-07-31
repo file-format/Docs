@@ -47,5 +47,5 @@ Następujące właściwości można ustawić w UDL, aby zapewnić odpowiednią �
 ## Bibliografia ##
 
 * [Składniki dostępu do danych firmy Microsoft](https://en.wikipedia.org/wiki/Microsoft_Data_Access_Components#Universal_data_link)
-* [Konfiguracja uniwersalnego łącza danych (UDL)](https://docs.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
+* [Konfiguracja uniwersalnego łącza danych (UDL)](https://learn.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
 

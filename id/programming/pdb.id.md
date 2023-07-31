@@ -19,7 +19,7 @@
 
 ## Apa itu file PDB?
 
-File dengan ekstensi .pdb adalah file database program yang berisi informasi debug untuk file executable yang dikompilasi (EXE/DLL). File PDB dihasilkan oleh Microsoft Compilers saat program aplikasi dikompilasi dalam mode debug. Kehadiran file PDB dapat membantu merekayasa balik sebuah file yang dapat dieksekusi karena berisi informasi penting tentang semua simbol modul. Karena alasan inilah file-file ini dipisahkan dari file yang dapat dieksekusi terakhir. [DgbHelp API] Microsoft (https://docs.microsoft.com/en-us/windows/win32/debug/dbghelp-functions) dapat membuka file PDB untuk mendapatkan informasi seperti publik dan ekspor, simbol global, simbol lokal, ketik data, file sumber, dan nomor baris.
+File dengan ekstensi .pdb adalah file database program yang berisi informasi debug untuk file executable yang dikompilasi (EXE/DLL). File PDB dihasilkan oleh Microsoft Compilers saat program aplikasi dikompilasi dalam mode debug. Kehadiran file PDB dapat membantu merekayasa balik sebuah file yang dapat dieksekusi karena berisi informasi penting tentang semua simbol modul. Karena alasan inilah file-file ini dipisahkan dari file yang dapat dieksekusi terakhir. [DgbHelp API] Microsoft (https://learn.microsoft.com/en-us/windows/win32/debug/dbghelp-functions) dapat membuka file PDB untuk mendapatkan informasi seperti publik dan ekspor, simbol global, simbol lokal, ketik data, file sumber, dan nomor baris.
 
 ## Format File PDB
 

@@ -61,5 +61,5 @@ V RDL definuje DataType Enumeration datový typ atributu, výrazu nebo parametru
 ## Reference ##
 
 – [Jazyk definice přehledu (Wikipedie)](https://en.wikipedia.org/wiki/Report_Definition_Language)
-- [Report Definition Language (SSRS)](https://docs.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
+- [Report Definition Language (SSRS)](https://learn.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
 

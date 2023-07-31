@@ -20,7 +20,7 @@
 
 ## Apa itu file iXBRL?
 
-Format file iXBRL (ilnine XBRL) memungkinkan data [XBRL](/id/web/xbrl/) disematkan dalam file HTML agar dapat dibaca oleh mesin dan manusia. Ini sebenarnya adalah file [xHTML](/id/web/xhtml/) yang menggunakan tag XBRL dan dikembangkan oleh XBRL International untuk memenuhi persyaratan HMRC Inggris. Menggunakan iXBRL, laporan keuangan dapat dibuat dengan menjaga tata letak dokumen asli tetap utuh. File iXBRL dapat dibuka di editor teks apa pun seperti Notepad di Sistem Operasi Windows dan TextEdit di MacOS.
+Format file iXBRL (ilnine XBRL) memungkinkan data [XBRL](/id/finance/xbrl/) disematkan dalam file HTML agar dapat dibaca oleh mesin dan manusia. Ini sebenarnya adalah file [xHTML](/id/web/xhtml/) yang menggunakan tag XBRL dan dikembangkan oleh XBRL International untuk memenuhi persyaratan HMRC Inggris. Menggunakan iXBRL, laporan keuangan dapat dibuat dengan menjaga tata letak dokumen asli tetap utuh. File iXBRL dapat dibuka di editor teks apa pun seperti Notepad di Sistem Operasi Windows dan TextEdit di MacOS.
 
 ## Format File iXBRL
 

@@ -19,7 +19,7 @@
 
 ## Bir ICNS dosyası nedir? ##
 
-macOS programları tarafından kullanılan bir simge formatına ICNS dosyası denir. 1-bit ve 8-bit alfa bantlarına izin verir ve genellikle [PNG](/tr/image/png) belgelerinden yapılan bir veya daha fazla resmi kaydeder. macOS tarayıcısındaki ve arayüzündeki program simgesi, ICNS dosyaları kullanılarak görüntülenir.
+macOS programları tarafından kullanılan bir simge formatına ICNS dosyası denir. 1-bit ve 8-bit alfa bantlarına izin verir ve genellikle [PNG](/tr/image/png/) belgelerinden yapılan bir veya daha fazla resmi kaydeder. macOS tarayıcısındaki ve arayüzündeki program simgesi, ICNS dosyaları kullanılarak görüntülenir.
 
 Konuma bağlı olarak, aynı stil ikonunun birden çok ayarı olabilir. ICNS formatı çok sayıda değişikliğe uğradı ve artık çeşitli uyumlu formatların temeli olarak kullanılabileceği bir noktaya geldi. İşte bilmeniz gereken diğer bazı önemli noktalar:
 
@@ -31,7 +31,7 @@ Konuma bağlı olarak, aynı stil ikonunun birden çok ayarı olabilir. ICNS for
 ## ICNS Dosya Biçimi ##
 
 ICNS veri formatı, 1 bitlik bantları ve çok sayıda görüntü durumunu destekleyen, bir veya daha fazla görüntü için bir kapsüldür.
-İşletim sistemi, gerekli ekran boyutuna sığdırmak için simge resimlerini yeniden boyutlandırabilir. Daha büyük simge resimleri genellikle [JPEG](/tr/image/jpeg/) 2000 veya [PNG](/tr/image/png) dosyaları olarak kaydedilir. Hem sıkıştırılmış hem de sıkıştırılmamış ICNS dosyalarının bir türü mümkündür.
+İşletim sistemi, gerekli ekran boyutuna sığdırmak için simge resimlerini yeniden boyutlandırabilir. Daha büyük simge resimleri genellikle [JPEG](/tr/image/jpeg/) 2000 veya [PNG](/tr/image/png/) dosyaları olarak kaydedilir. Hem sıkıştırılmış hem de sıkıştırılmamış ICNS dosyalarının bir türü mümkündür.
 
 Bir başlık ve ikili simge verileri, bir ICNS dosyasının yapısını oluşturur. Başlık, dördü sihirli hazır bilgi ve dördü dosyanın uzunluğu olan 8 baytlık veri içerir. Her bir ikon resminin türü ve boyutu, ardından ikili resim verilerinin geldiği ikon verileri bölümünde saklanır. Resim boyutu, ikili bölümün boyutunu belirler.
 

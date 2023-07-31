@@ -38,6 +38,6 @@ Windows 7의 Windows 사이드바 플랫폼에는 심각한 취약점이 있으�
 
 ## 참고문헌
 
-* [Windows 사이드바 - Microsoft 제공](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
-* [Windows 사이드바용 가젯 개발 1부](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
+* [Windows 사이드바 - Microsoft 제공](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
+* [Windows 사이드바용 가젯 개발 1부](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
 

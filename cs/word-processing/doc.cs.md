@@ -19,7 +19,7 @@
 
 ## Co je soubor DOC?
 
-Soubory s příponou .doc představují dokumenty generované aplikací Microsoft Word nebo jinými dokumenty pro zpracování textu v binárním formátu souboru. Rozšíření bylo původně používáno pro dokumentaci ve formátu prostého textu na několika různých operačních systémech. Může obsahovat několik různých typů dat, jako jsou obrázky, formátované i prostý text, grafy, tabulky, vložené objekty, odkazy, stránky, formátování stránky, nastavení tisku a mnoho dalších. Formát byl oblíbený pro všechny druhy dokumentace kvůli rozmanitosti možností, které uživatelům nabízí pro psaní manuálů, návrhů, specifikací, životopisů, článků nebo jakýchkoli podobných dokumentů. Aktualizovaná verze DOC je [DOCX](/cs/Word%20Processing/DOCX/), která je založena na Office OpenXML, jehož specifikace jsou volně dostupné.
+Soubory s příponou .doc představují dokumenty generované aplikací Microsoft Word nebo jinými dokumenty pro zpracování textu v binárním formátu souboru. Rozšíření bylo původně používáno pro dokumentaci ve formátu prostého textu na několika různých operačních systémech. Může obsahovat několik různých typů dat, jako jsou obrázky, formátované i prostý text, grafy, tabulky, vložené objekty, odkazy, stránky, formátování stránky, nastavení tisku a mnoho dalších. Formát byl oblíbený pro všechny druhy dokumentace kvůli rozmanitosti možností, které uživatelům nabízí pro psaní manuálů, návrhů, specifikací, životopisů, článků nebo jakýchkoli podobných dokumentů. Aktualizovaná verze DOC je [DOCX](/cs/word-processing/docx/), která je založena na Office OpenXML, jehož specifikace jsou volně dostupné.
 
 ## Stručná historie ##
 

@@ -22,7 +22,7 @@ Un fișier FZP este un fișier XML creat de [Fritzing](https://fritzing.org/) ap
 
 ## Format de fișier FZP - Mai multe informații
 
-Fișierele FZP sunt fișiere XML care conțin informații despre proprietățile piesei, conectorii și magistralele. Pe lângă acestea, fișierele FZP conțin și informații despre titlul, descrierea, autorul și data publicării fișierului FZP. Când un fișier de parte Fritzing este exportat, aplicația Fritzing creează o arhivă comprimată [FZPZ](/ro/compression/fzpz/) care conține un fișier FZP și patru fișiere [SVG](/ro/image/svg/).
+Fișierele FZP sunt fișiere XML care conțin informații despre proprietățile piesei, conectorii și magistralele. Pe lângă acestea, fișierele FZP conțin și informații despre titlul, descrierea, autorul și data publicării fișierului FZP. Când un fișier de parte Fritzing este exportat, aplicația Fritzing creează o arhivă comprimată [FZPZ](/ro/compression/fzpz/) care conține un fișier FZP și patru fișiere [SVG](/ro/page-description-language/svg/).
 
 [Specificațiile formatului fișierului FZP](https://github.com/fritzing/fzp/blob/master/docs/README.md) sunt disponibile pe Github by Fritzing.
 

@@ -29,6 +29,6 @@ ADE ファイルは、これらのファイルの作成に使用された Micros
 
 ## 参考文献
 
-* [Access ADE ファイルの問題](https://docs.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
+* [Access ADE ファイルの問題](https://learn.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
 * [使用する Access ファイル形式](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

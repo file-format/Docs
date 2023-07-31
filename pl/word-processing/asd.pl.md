@@ -31,5 +31,5 @@ Pliki ASD utworzone na podstawie oryginalnych plików pozostają dostępne obok 
 
 ## Bibliografia
 
-* [Odzyskaj dokument Microsoft Word](https://docs.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
+* [Odzyskaj dokument Microsoft Word](https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
 

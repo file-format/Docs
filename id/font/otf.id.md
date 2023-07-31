@@ -82,6 +82,6 @@ Untuk setiap tabel tingkat teratas dalam font, terdapat Catatan Tabel yang terdi
 Setiap tabel dalam file font OpenType diwakili oleh nama yang dikenal sebagai tag tabel. Semua catatan dalam larik harus diurutkan dalam urutan menaik berdasarkan tag.
 
 ## Referensi
-* [Spesifikasi Font OpenType oleh Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [Ringkasan TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Spesifikasi Font OpenType oleh Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [Ringkasan TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

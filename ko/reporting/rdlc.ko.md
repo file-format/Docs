@@ -43,5 +43,5 @@ ReportViewer 컨트롤은 컨트롤의 기본 제공 처리 기능을 사용하�
 
 ## 참조 ##
 
-- [클라이언트 보고서 정의(.rdlc) 파일 생성](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
+- [클라이언트 보고서 정의(.rdlc) 파일 생성](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
 

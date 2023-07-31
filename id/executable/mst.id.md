@@ -40,6 +40,6 @@ TRANSFORMS=transform1.mst;transform2.mst;transform3.mst
 ## Referensi
 
 * [File Transformasi MST](https://www.exemsi.com/documentation/mst-transformation-files/)
-* [TRANSFORMS property](https://docs.microsoft.com/en-us/windows/win32/msi/transforms)
+* [TRANSFORMS property](https://learn.microsoft.com/en-us/windows/win32/msi/transforms)
 
 

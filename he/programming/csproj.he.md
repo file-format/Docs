@@ -24,7 +24,7 @@
 
 מפתחים יכולים ליצור קבצי פרויקט בעצמם, כמו גם לכבד את [MSBuild XML Schema](https://msdn.microsoft.com/library/5dy88c2e.aspx). המבנה הפתוח והשקוף של קבצי הפרויקט מאפשר למפתחי יישומים להטיל שליטה מתוחכמת ועדינה על אופן הבנייה והפריסה של הפרויקטים. לתוכן של קובץ פרויקט כזה יש קשר מאוד ברור בינם לבין עצמם. האיור הבא מציג אלמנטים מרכזיים והקשר ביניהם עבור קובץ פרויקט כזה.
 
-![](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
+![](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
 
 הסעיפים הבאים מרחיבים את רכיבי פורמט הקובץ עבור קובץ פרוייקט.
 
@@ -94,5 +94,5 @@
 
 ## הפניות
 
-* [הבנת קובץ הפרויקט - MSDN](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- קוֹבֶץ)
+* [הבנת קובץ הפרויקט - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- קוֹבֶץ)
 

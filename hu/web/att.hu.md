@@ -24,5 +24,5 @@ Az **ATT-fájlok megnyitására** képes alkalmazások közé tartoznak a szöve
 
 ## Hivatkozások
 
-* [Webes űrlapok – Microsoft](https://docs.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
+* [Webes űrlapok – Microsoft](https://learn.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
 

@@ -95,6 +95,6 @@ Format file EMF telah direvisi dua kali. Versi yang diubah adalah asli, ekstensi
 
 ## Referensi ##
 
-* [File Meta Format yang Disempurnakan | Microsoft Docs](https://docs.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
+* [File Meta Format yang Disempurnakan | Microsoft Docs](https://learn.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
 * [Format dan Spesifikasi Metafile yang Disempurnakan](https://msdn.microsoft.com/en-us/library/cc230514.aspx)
 

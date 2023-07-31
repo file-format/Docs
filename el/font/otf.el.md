@@ -82,6 +82,6 @@
 Κάθε πίνακας στο αρχείο γραμματοσειράς OpenType αντιπροσωπεύεται από ονόματα γνωστά ως ετικέτες πίνακα. Είναι απαραίτητο για όλες τις εγγραφές του πίνακα να ταξινομηθούν σε αύξουσα σειρά ανά ετικέτα.
 
 ## βιβλιογραφικές αναφορές
-* [Προδιαγραφές γραμματοσειράς OpenType από τη Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [Επισκόπηση TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Προδιαγραφές γραμματοσειράς OpenType από τη Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [Επισκόπηση TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

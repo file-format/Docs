@@ -38,5 +38,5 @@ Soubory SY_ jsou podobné souborům EX_ a DL_.
 ## Reference
 
 * [StuffIt – podle Wikipedie](https://en.wikipedia.org/wiki/StuffIt)
-* [Microsoft Expand](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
+* [Microsoft Expand](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
 

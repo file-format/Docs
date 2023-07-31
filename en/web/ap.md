@@ -27,4 +27,4 @@ AP files are hosted on the Web server with the help of supporting software. It i
 ## References
 
 * [ASP - By W3C](https://www.w3schools.com/asp/default.asp)
-* [Creating Simple ASP Pages](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Creating Simple ASP Pages](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))

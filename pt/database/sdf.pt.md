@@ -27,6 +27,6 @@ A convenção de nomenclatura .sdf é opcional e qualquer extensão pode ser usa
 ## Referências
 
 * [SQL Server Compact - Wikipedia](https://en.wikipedia.org/wiki/SQL_Server_Compact)
-* [Usando o SQL Server Compact para aplicativos Web ASP.NET](https://docs.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
+* [Usando o SQL Server Compact para aplicativos Web ASP.NET](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
 
 

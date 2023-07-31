@@ -18,7 +18,7 @@
 
 ## Ce este un fișier BR?
 
-Un fișier BR este un fișier web comprimat generat prin aplicarea algoritmului de comprimare a datelor open source, **Brotli**. Este folosit pentru a stoca elemente ale paginilor web, cum ar fi foi de stil ([CSS](/ro/web/css/)), imagini ([SVG](/ro/image/svg/)), [XML](/ro/web/xml/) și scripturi fișiere ([JS](/ro/web/js/)). Site-urile web moderne, cum ar fi Chrome și Firefox, folosesc fișiere BR pentru a reduce timpul de încărcare a paginii, rezultând o experiență mai bună pentru utilizator.
+Un fișier BR este un fișier web comprimat generat prin aplicarea algoritmului de comprimare a datelor open source, **Brotli**. Este folosit pentru a stoca elemente ale paginilor web, cum ar fi foi de stil ([CSS](/ro/web/css/)), imagini ([SVG](/ro/page-description-language/svg/)), [XML](/ro/web/xml/) și scripturi fișiere ([JS](/ro/web/js/)). Site-urile web moderne, cum ar fi Chrome și Firefox, folosesc fișiere BR pentru a reduce timpul de încărcare a paginii, rezultând o experiență mai bună pentru utilizator.
 
 ## Format de fișier BR
 

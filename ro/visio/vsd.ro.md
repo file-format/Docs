@@ -32,6 +32,6 @@ Visio a fost produs inițial ca produs independent de Shapeware Corporation în 
 
 ## Referințe ##
 
-* [Introducere în formatul de fișier Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
-* [Hartă Schema - Visio XML](https://docs.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
+* [Introducere în formatul de fișier Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Hartă Schema - Visio XML](https://learn.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
 

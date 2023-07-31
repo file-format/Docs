@@ -27,5 +27,5 @@
 
 ## использованная литература
 
-* [Типы пакетов приложений](https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
+* [Типы пакетов приложений](https://learn.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
 

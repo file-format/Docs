@@ -40,5 +40,5 @@ SQL Server Profiler có thể được sử dụng để mở nhật ký hiệu 
 
 ## Người giới thiệu ##
 
-* [Trình cấu hình máy chủ SQL](https://docs.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler?view=sql-server-ver15)
+* [Trình cấu hình máy chủ SQL](https://learn.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler?view=sql-server-ver15)
 

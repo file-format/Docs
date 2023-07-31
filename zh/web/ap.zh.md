@@ -27,5 +27,5 @@ AP 文件是在 Web 服务器上运行的活动网页，用于创建动态网页
 ## 参考
 
 * [ASP - W3C](https://www.w3schools.com/asp/default.asp)
-* [创建简单的 ASP 页面](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [创建简单的 ASP 页面](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

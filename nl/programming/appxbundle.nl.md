@@ -28,5 +28,5 @@ APPXBUNDLE-bestanden worden gepubliceerd in ZIP-bestandsindeling. Als u de inhou
 ## Referenties
 
 * [Dependency-pakketten voor .appx- en .appxbundle-pakketten](https://www.ibm.com/docs/en/maas360?topic=catalog-dependency-packages-appx-appxbundle-packages)
-* [Maak APPX-bestanden met Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Maak APPX-bestanden met Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

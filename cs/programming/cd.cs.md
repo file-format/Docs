@@ -45,5 +45,5 @@ Visual Studio umožňuje převádět/exportovat diagramy tříd do obrázků jak
 
 ## Reference
 
-* [Kurzy designu ve Visual Studiu](https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
+* [Kurzy designu ve Visual Studiu](https://learn.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
 

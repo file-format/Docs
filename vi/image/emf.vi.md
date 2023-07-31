@@ -95,6 +95,6 @@ Trong các hoạt động vẽ và sơn, các đối tượng đồ họa có th
 
 ## Người giới thiệu ##
 
-* [Siêu tệp định dạng nâng cao | Microsoft Docs](https://docs.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
+* [Siêu tệp định dạng nâng cao | Microsoft Docs](https://learn.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
 * [Đặc tả và định dạng siêu tệp nâng cao](https://msdn.microsoft.com/en-us/library/cc230514.aspx)
 

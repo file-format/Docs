@@ -40,6 +40,6 @@ TRANSFORMS=transform1.mst;transform2.mst;transform3.mst
 ## مراجع
 
 * [ملفات تحويل MST](https://www.exemsi.com/documentation/mst-transformation-files/)
-* [خاصية النقل](https://docs.microsoft.com/en-us/windows/win32/msi/transforms)
+* [خاصية النقل](https://learn.microsoft.com/en-us/windows/win32/msi/transforms)
 
 

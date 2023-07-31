@@ -90,5 +90,5 @@ Microsoft ใช้แบบอักษร TrueType ใน Windows 3.1 เป�
 
 ## อ้างอิง
 * [คู่มืออ้างอิงแบบอักษร TrueType](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [ภาพรวม TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [ภาพรวม TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

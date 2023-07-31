@@ -25,13 +25,13 @@ Puteți deschide fișiere DirectX X folosind Microsoft DirectX și editoarele de
 
 ## X Format de fișier
 
-[Referința fișierului X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) conține informații de referință pentru elementele API care sunt utilizate pentru lucrați cu fișiere DirectX .x. Formatul oferă primitive de date de nivel scăzut care sunt utilizate de alte aplicații pentru a defini primitive de nivel superior prin șabloane de date. DirectX 6.0 a introdus interfețe și metode care permit citirea și scrierea în fișiere .x. DirectX 3.0 a introdus o versiune binară a acestui format de fișier.
+[Referința fișierului X](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) conține informații de referință pentru elementele API care sunt utilizate pentru lucrați cu fișiere DirectX .x. Formatul oferă primitive de date de nivel scăzut care sunt utilizate de alte aplicații pentru a defini primitive de nivel superior prin șabloane de date. DirectX 6.0 a introdus interfețe și metode care permit citirea și scrierea în fișiere .x. DirectX 3.0 a introdus o versiune binară a acestui format de fișier.
 
-[Referința formatului de fișier X](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) definit de DirectX 9 conține informații de referință pentru .x fișiere în binar, precum și codificări text.
+[Referința formatului de fișier X](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) definit de DirectX 9 conține informații de referință pentru .x fișiere în binar, precum și codificări text.
 
 ### Codificare binară
 
-[Formatul binar](https://docs.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) definește formatul DirectX X ca o reprezentare tokenizată a formatului text. Aceste jetoane pot fi de sine stătătoare pentru a oferi structură gramaticală sau pot fi jetoane purtătoare de înregistrări care furnizează datele necesare.
+[Formatul binar](https://learn.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) definește formatul DirectX X ca o reprezentare tokenizată a formatului text. Aceste jetoane pot fi de sine stătătoare pentru a oferi structură gramaticală sau pot fi jetoane purtătoare de înregistrări care furnizează datele necesare.
 
 #### Antet
 
@@ -84,6 +84,6 @@ Antetul cu lungime variabilă este obligatoriu și trebuie să fie la începutul
 
 ## Referințe
 
-* [X Files Legacy](https://docs.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
-* [Referință pentru formatul fișierului DirectX 9](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
+* [X Files Legacy](https://learn.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
+* [Referință pentru formatul fișierului DirectX 9](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
 

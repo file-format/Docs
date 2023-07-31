@@ -23,7 +23,7 @@ DOCX, Microsoft Word belgeleri için iyi bilinen bir biçimdir. 2007'den itibare
 
 ## Kısa Tarih ##
 
-Microsoft, DOC dosya formatının belirtimlerini açtıktan sonra, rakiplerinin formatı tersine çevirmesi ve aynı desteği kendi uygulamalarında sağlaması kolay oldu. Ek olarak, Open Office'in Açık Belge Biçimi biçimindeki rekabeti, Microsoft'u daha açık ve geniş standartlar benimsemeye zorladı. Microsoft, **Office Açık XML** standardına uyum sağlamak için değişikliğe gitmeye karar verdiğinde 2000 yılının başlarındaydı. Bu yeni Standart kapsamındaki belgelere [.docx uzantısı](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), "X" verildi XML için olmak. 2007 yılına gelindiğinde, bu yeni dosya biçimi Office 2007'nin bir parçası haline geldi ve Microsoft Office'in yeni sürümlerinde de sürdürülüyor. Yeni dosya türü, küçük dosya boyutları, daha az bozulma değişikliği ve iyi biçimlendirilmiş görüntülerin temsili gibi avantajlar ekledi.
+Microsoft, DOC dosya formatının belirtimlerini açtıktan sonra, rakiplerinin formatı tersine çevirmesi ve aynı desteği kendi uygulamalarında sağlaması kolay oldu. Ek olarak, Open Office'in Açık Belge Biçimi biçimindeki rekabeti, Microsoft'u daha açık ve geniş standartlar benimsemeye zorladı. Microsoft, **Office Açık XML** standardına uyum sağlamak için değişikliğe gitmeye karar verdiğinde 2000 yılının başlarındaydı. Bu yeni Standart kapsamındaki belgelere [.docx uzantısı](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), "X" verildi XML için olmak. 2007 yılına gelindiğinde, bu yeni dosya biçimi Office 2007'nin bir parçası haline geldi ve Microsoft Office'in yeni sürümlerinde de sürdürülüyor. Yeni dosya türü, küçük dosya boyutları, daha az bozulma değişikliği ve iyi biçimlendirilmiş görüntülerin temsili gibi avantajlar ekledi.
 
 ## DOCX Dosya Biçimi Özellikleri - Daha Fazla Bilgi
 
@@ -105,6 +105,6 @@ Paragraf, bir belgedeki ana içerik sahibidir. ** ile temsil edilir<w:p> ** belg
 
 ## Referanslar ##
 
-* [MS - DOCX Dosya Biçimi](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
+* [MS - DOCX Dosya Biçimi](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
 * [Office Açık XML](http://officeopenxml.com/)
 

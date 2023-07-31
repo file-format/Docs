@@ -22,7 +22,9 @@ DOC file type has been popular document file format used by 2007 and previous ve
 
 ## DOCX to DOC Conversion - Free Demo
 
-You can convert DOCX to DOC file format using the FREE online app, Aspose.app. It is a set of apps that can load, view, and convert DOCX files to file formats such as DOC, PDF, TXT, RTF, and others. Aspose apps are powered and run by Aspose APIs at the backend that can perform a number of operations on different file types. Try the Aspose.Words online app now to [convert DOCX to DOC](https://products.aspose.app/words/conversion/docx-to-doc) hassle free.
+You can convert DOCX to DOC file format using the FREE online app, Aspose.app. It is a set of apps that can load, view, and convert DOCX files to file formats such as DOC, PDF, TXT, RTF, and others. Aspose apps are powered and run by Aspose APIs at the backend that can perform a number of operations on different file types. Try the Aspose.Words online app now to by clicking the following button.
+
+[![DOCX to DOC](../docx-to-doc.png?width=120px&height=60px)](https://products.aspose.app/words/conversion/docx-to-doc)
 
 ### Steps to Convert DOCX to DOC online
 

@@ -27,5 +27,5 @@ Fișierele APPXBUNDLE sunt salvate pe disc în format de fișier binar, cu speci
 
 ## Referințe
 
-* [Tipuri de pachete de aplicații](https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
+* [Tipuri de pachete de aplicații](https://learn.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
 

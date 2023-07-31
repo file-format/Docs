@@ -31,7 +31,7 @@ Excel menyediakan langkah-langkah yang mudah digunakan untuk merekam makro. Ini 
 
 ## Model Objek Excel ##
 
-Makro menggunakan rutinitas VBA di belakangnya dan mengikuti [Excel Object Model](https://docs.microsoft.com/en-us/office/vba/api/overview/excel/object-model) untuk tujuan ini. Model ini mengidentifikasi objek spreadsheet untuk berinteraksi dengan spreadsheet melalui toolbar perintah yang ditentukan pengguna, bilah perintah, atau kotak pesan. Misalnya, akses ke properti buku kerja diberikan dengan objek Buku Kerja. Demikian pula, ada objek Lembar Kerja dalam model untuk bekerja dengan lembar kerja buku kerja secara terprogram.
+Makro menggunakan rutinitas VBA di belakangnya dan mengikuti [Excel Object Model](https://learn.microsoft.com/en-us/office/vba/api/overview/excel/object-model) untuk tujuan ini. Model ini mengidentifikasi objek spreadsheet untuk berinteraksi dengan spreadsheet melalui toolbar perintah yang ditentukan pengguna, bilah perintah, atau kotak pesan. Misalnya, akses ke properti buku kerja diberikan dengan objek Buku Kerja. Demikian pula, ada objek Lembar Kerja dalam model untuk bekerja dengan lembar kerja buku kerja secara terprogram.
 
 ## Makro dan Keamanan ##
 

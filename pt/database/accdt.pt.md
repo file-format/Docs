@@ -57,5 +57,5 @@ Uma parte é um fluxo de bytes que possui um tipo associado para especificar a n
 
 ## Referências ##
 
-* [Formato de arquivo de modelo de acesso](https://docs.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
+* [Formato de arquivo de modelo de acesso](https://learn.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
 

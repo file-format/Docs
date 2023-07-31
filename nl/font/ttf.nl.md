@@ -90,5 +90,5 @@ Elke tabel in een lettertypebestand moet zijn eigen tabeldirectory-item hebben. 
 
 ## Referenties
 * [TrueType-lettertypereferentiehandleiding](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [TrueType-overzicht](https://docs.microsoft.com/en-us/typography/truetype/)
+* [TrueType-overzicht](https://learn.microsoft.com/en-us/typography/truetype/)
 

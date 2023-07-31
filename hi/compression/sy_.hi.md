@@ -38,5 +38,5 @@ SY_ फ़ाइलें EX_ और DL_ फ़ाइलों के समा�
 ## संदर्भ
 
 * [StuffIt - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/StuffIt)
-* [माइक्रोसॉफ्ट एक्सपैंड](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
+* [माइक्रोसॉफ्ट एक्सपैंड](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
 

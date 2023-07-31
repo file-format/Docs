@@ -24,7 +24,7 @@ Soubory SYS jsou "systémové soubory" používané v aplikacích OS Windows a M
 
 ## Technická specifikace ##
 
-Soubory .sys jsou ve skutečnosti podmnožinou formátu [BMP](/cs/image/bmp), protože umožňují pouze specifické kombinace. Obvyklý formát těchto souborů je LOGOS.SYS, LOGOW.SYS a LOGO.SYS. Žádné jiné soubory tento formát nemají.
+Soubory .sys jsou ve skutečnosti podmnožinou formátu [BMP](/cs/image/bmp/), protože umožňují pouze specifické kombinace. Obvyklý formát těchto souborů je LOGOS.SYS, LOGOW.SYS a LOGO.SYS. Žádné jiné soubory tento formát nemají.
 
 Tyto soubory se většinou používají v adresáři *C* systému Windows v době instalace. Většina problémů, které se točí kolem ovladačů zařízení, je vyřešena aktualizací operačního systému Windows. Podrobnosti a informace o těchto souborech lze zobrazit pomocí vestavěných programů operačního systému Windows. Patří sem také odkazy na různé moduly v operačním systému.
 Některé z příkladů systémových souborů jsou:

@@ -23,7 +23,7 @@ Format file CFF2 adalah versi 2.0 dari format file CFF dan memungkinkan penyimpa
 
 ## Format File CFF2
 
-[Spesifikasi format file CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2) berisi detail tentang tata letak data internal, tipe data, tabel, dan informasi internal lainnya tentang format file. Itu dapat dirujuk untuk referensi pengembang. Beberapa rincian tentang ini adalah sebagai berikut.
+[Spesifikasi format file CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2) berisi detail tentang tata letak data internal, tipe data, tabel, dan informasi internal lainnya tentang format file. Itu dapat dirujuk untuk referensi pengembang. Beberapa rincian tentang ini adalah sebagai berikut.
 
 ### Tata Letak Data
 
@@ -81,5 +81,5 @@ Data biner dimulai dengan header yang memiliki format yang ditunjukkan pada Tabe
 
 ## Referensi
 
-* [Format File CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2)
+* [Format File CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2)
 

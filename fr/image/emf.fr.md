@@ -95,6 +95,6 @@ Le format de fichier EMF a été révisé deux fois. Les versions modifiées son
 
 ## Références ##
 
-* [Métafichiers au format amélioré | Microsoft Docs](https://docs.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
+* [Métafichiers au format amélioré | Microsoft Docs](https://learn.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
 * [Format et spécification de métafichier améliorés](https://msdn.microsoft.com/en-us/library/cc230514.aspx)
 

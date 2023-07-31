@@ -26,7 +26,7 @@ Il formato del file APS è solo un passaggio di compilazione e memorizza solo da
 
 ## Riferimenti
 
-* [File di risorse (C++)](https://docs.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
+* [File di risorse (C++)](https://learn.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
  
 
 

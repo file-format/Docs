@@ -38,6 +38,6 @@ Do nền tảng Windows Sidebar trong Windows 7 có các lỗ hổng nghiêm tr�
 
 ## Người giới thiệu
 
-* [Thanh bên Windows - của Microsoft](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
-* [Phát triển Tiện ích cho Thanh bên của Windows Phần 1](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
+* [Thanh bên Windows - của Microsoft](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
+* [Phát triển Tiện ích cho Thanh bên của Windows Phần 1](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
 

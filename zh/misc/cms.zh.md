@@ -31,5 +31,5 @@ CMS 配置文件是使用连接管理器创建的，并在提供给远程用户�
 
 ## 参考
 
-* [了解和配置 Windows 连接管理器](https://docs.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
+* [了解和配置 Windows 连接管理器](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
 

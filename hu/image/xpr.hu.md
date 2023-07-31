@@ -27,5 +27,5 @@ Az XPR-fájlokról megállapították, hogy a Microsoft Expression Design bizton
 
 ## Hivatkozások
 
-* [A kifejezéstervezés biztonsági rése távoli kódfuttatást tehet lehetővé (2651018)](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
+* [A kifejezéstervezés biztonsági rése távoli kódfuttatást tehet lehetővé (2651018)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
 

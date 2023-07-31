@@ -43,5 +43,5 @@ U kunt alleen een voorbeeld van een rapport bekijken door het uit te voeren in e
 
 ## Referenties ##
 
-- [Creëren van clientrapportdefinitiebestanden (.rdlc)](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
+- [Creëren van clientrapportdefinitiebestanden (.rdlc)](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
 

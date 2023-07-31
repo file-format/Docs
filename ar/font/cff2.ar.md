@@ -23,7 +23,7 @@
 
 ## تنسيق ملف CFF2
 
-تحتوي [مواصفات تنسيق ملف CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2) على تفاصيل حول تخطيط البيانات الداخلية وأنواع البيانات والجداول والمعلومات الداخلية الأخرى حول تنسيق الملف. يمكن الرجوع إليها كمرجع للمطور. فيما يلي بعض التفاصيل حول هذه.
+تحتوي [مواصفات تنسيق ملف CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2) على تفاصيل حول تخطيط البيانات الداخلية وأنواع البيانات والجداول والمعلومات الداخلية الأخرى حول تنسيق الملف. يمكن الرجوع إليها كمرجع للمطور. فيما يلي بعض التفاصيل حول هذه.
 
 ### تخطيط البيانات
 
@@ -81,5 +81,5 @@
 
 ## مراجع
 
-* [تنسيق ملف CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2)
+* [تنسيق ملف CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2)
 

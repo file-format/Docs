@@ -61,5 +61,5 @@ RDL (Report Definition Language) — це стандарт, встановлен
 ## Посилання ##
 
 - [Мова визначення звіту (Вікіпедія)](https://en.wikipedia.org/wiki/Report_Definition_Language)
-- [Мова визначення звітів (SSRS)](https://docs.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
+- [Мова визначення звітів (SSRS)](https://learn.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
 

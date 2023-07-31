@@ -32,5 +32,5 @@ Ciertos otros tipos de archivos que comprenden el formato de archivo de Visio 20
 
 ## Referencias ##
 
-* [Introducción al formato de archivo de Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Introducción al formato de archivo de Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

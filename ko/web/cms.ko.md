@@ -29,6 +29,6 @@ CMS 파일은 웹 형식으로 저장되며 이미지(JPG, PNG), 스크립트(JS
 
 ## 참고문헌
 
-* [Microsoft HTML 도움말](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [Microsoft HTML 도움말](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 * [Microsoft Compiled HTML 도움말](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 

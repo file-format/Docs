@@ -32,6 +32,6 @@ VSS 是使用 Microsoft Visio 2007 及更早版本创建的模具文件。一种
 
 ## 参考 ＃＃
 
-* [Visio 文件格式简介](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
-* [架构图 - Visio XML](https://docs.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
+* [Visio 文件格式简介](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [架构图 - Visio XML](https://learn.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
 

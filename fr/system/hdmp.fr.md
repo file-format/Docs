@@ -32,5 +32,5 @@ HDMP sont des fichiers de vidage de mémoire non compressés. En revanche, MDMP 
 
 ## Référence ##
 
-* [DMP - Microsoft](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
+* [DMP - Microsoft](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
 

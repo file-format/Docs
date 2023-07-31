@@ -45,5 +45,5 @@ Visual Studio umożliwia konwertowanie/eksportowanie diagramów klas do obrazów
 
 ## Bibliografia
 
-* [Klasy projektowania w programie Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
+* [Klasy projektowania w programie Visual Studio](https://learn.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
 

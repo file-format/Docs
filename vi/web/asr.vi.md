@@ -27,5 +27,5 @@ Tệp ASR chứa tập lệnh được phát triển bằng ngôn ngữ tập l�
 ## Người giới thiệu
 
 * [Đóng góp của Adobe - Bởi Wikipedia](https://en.wikipedia.org/wiki/Adobe_Contribute)
-* [Tạo trang ASP đơn giản](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Tạo trang ASP đơn giản](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

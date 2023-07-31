@@ -55,6 +55,6 @@ A TTC fejléctáblázatnak eddig két változata érhető el:
 |uint32| dsigOffset |A DSIG tábla eltolása (bájtban) a TTC fájl elejétől (null, ha nincs aláírás)|
 
 ## Hivatkozások
-* [Az OpenType betűtípusfájl](https://docs.microsoft.com/en-us/typography/opentype/spec/otff)
+* [Az OpenType betűtípusfájl](https://learn.microsoft.com/en-us/typography/opentype/spec/otff)
 * [TrueType (Wikipedia)](https://en.wikipedia.org/wiki/TrueType)
 

@@ -45,5 +45,5 @@ Visual Studio позволяет преобразовывать/экспорти
 
 ## использованная литература
 
-* [Классы дизайна в Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
+* [Классы дизайна в Visual Studio](https://learn.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
 

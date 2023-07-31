@@ -34,5 +34,5 @@ Essas informações são incorporadas usando a tecnologia Public-Key Cryptograph
 
 ## Referências ##
 
-* [Ferramenta de assinatura da Microsoft](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
+* [Ferramenta de assinatura da Microsoft](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
 

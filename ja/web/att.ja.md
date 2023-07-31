@@ -24,5 +24,5 @@ ATT ファイルは、ユーザーが Web ブラウザーでフォームを使�
 
 ## 参考文献
 
-* [Web フォーム - マイクロソフト](https://docs.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
+* [Web フォーム - マイクロソフト](https://learn.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
 

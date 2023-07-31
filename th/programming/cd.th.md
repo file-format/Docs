@@ -45,5 +45,5 @@ Visual Studio อนุญาตให้แปลง/ส่งออกคล�
 
 ## อ้างอิง
 
-* [คลาสการออกแบบใน Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
+* [คลาสการออกแบบใน Visual Studio](https://learn.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
 

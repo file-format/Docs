@@ -23,7 +23,7 @@ DOCX est un format bien connu pour les documents Microsoft Word. Introduit à pa
 
 ## Bref historique ##
 
-Après que Microsoft a ouvert les spécifications du format de fichier DOC, il était facile pour ses concurrents de rétroconcevoir le format et de fournir le même support dans leurs propres applications. De plus, la concurrence d'Open Office sous la forme de son Open Document Format, a contraint Microsoft à adopter des normes plus ouvertes et plus larges. C'est au début des années 2000 que Microsoft a décidé d'opter pour le changement afin de s'adapter à la norme **Office Open XML**. Les documents sous cette nouvelle norme ont reçu [extension .docx](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), le "X" étant pour XML. En 2007, ce nouveau format de fichier a été intégré à Office 2007 et est également repris dans les nouvelles versions de Microsoft Office. Le nouveau type de fichier a ajouté des avantages de petites tailles de fichiers, moins de changements de corruption et une représentation d'images bien formatées.
+Après que Microsoft a ouvert les spécifications du format de fichier DOC, il était facile pour ses concurrents de rétroconcevoir le format et de fournir le même support dans leurs propres applications. De plus, la concurrence d'Open Office sous la forme de son Open Document Format, a contraint Microsoft à adopter des normes plus ouvertes et plus larges. C'est au début des années 2000 que Microsoft a décidé d'opter pour le changement afin de s'adapter à la norme **Office Open XML**. Les documents sous cette nouvelle norme ont reçu [extension .docx](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), le "X" étant pour XML. En 2007, ce nouveau format de fichier a été intégré à Office 2007 et est également repris dans les nouvelles versions de Microsoft Office. Le nouveau type de fichier a ajouté des avantages de petites tailles de fichiers, moins de changements de corruption et une représentation d'images bien formatées.
 
 ## Spécifications du format de fichier DOCX - Plus d'informations
 
@@ -105,6 +105,6 @@ Un paragraphe est le principal support de contenu d'un document. Il est représe
 
 ## Références ##
 
-* [MS - Format de fichier DOCX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
+* [MS - Format de fichier DOCX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
 * [Office Open XML](http://officeopenxml.com/)
 

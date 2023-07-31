@@ -24,7 +24,7 @@ Các tệp có phần mở rộng CSPROJ đại diện cho một tệp dự án 
 
 Các nhà phát triển có thể tự tạo các tệp dự án cũng như tôn trọng [Lược đồ XML MSBuild](https://msdn.microsoft.com/library/5dy88c2e.aspx). Cấu trúc mở và minh bạch của các tệp dự án cho phép các nhà phát triển ứng dụng áp đặt quyền kiểm soát tinh vi và chi tiết đối với cách các dự án được xây dựng và triển khai. Nội dung của một hồ sơ dự án như vậy có mối quan hệ rất rõ ràng với nhau. Hình dưới đây cho thấy các yếu tố chính và mối quan hệ giữa các yếu tố này đối với một tệp dự án như vậy.
 
-![](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
+![](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file/_static/image2.png)
 
 Các phần sau xây dựng các thành phần định dạng tệp cho tệp dự án.
 
@@ -94,5 +94,5 @@ Các tác vụ phải luôn nằm trong phần tử [Target](https://msdn.micros
 
 ## Người giới thiệu
 
-* [Hiểu tệp dự án - MSDN](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/under hiểu-the-project- tập tin)
+* [Hiểu tệp dự án - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/under hiểu-the-project- tập tin)
 

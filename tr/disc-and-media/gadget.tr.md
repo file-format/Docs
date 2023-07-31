@@ -38,6 +38,6 @@ Windows 7'deki Windows Kenar Çubuğu platformunda ciddi güvenlik açıkları b
 
 ## Referanslar
 
-* [Windows Kenar Çubuğu - Microsoft tarafından](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
-* [Windows Kenar Çubuğu Bölüm 1 için Bir Araç Geliştirme](https://docs.Microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
+* [Windows Kenar Çubuğu - Microsoft tarafından](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
+* [Windows Kenar Çubuğu Bölüm 1 için Bir Araç Geliştirme](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
 

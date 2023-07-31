@@ -19,7 +19,7 @@
 
 ## Mi az a PDB fájl?
 
-A .pdb kiterjesztésű fájl egy programadatbázis-fájl, amely egy lefordított futtatható fájl (EXE/DLL) hibakeresési információit tartalmazza. A PDB fájlokat a Microsoft Compilers állítja elő, amikor egy alkalmazást hibakeresési módban fordítanak. A PDB fájl jelenléte segíthet a végrehajtható fájl visszafejtésében, mivel jelentős információkat tartalmaz a modulok összes szimbólumáról. Ez az oka annak, hogy ezeket a fájlokat külön kell tartani a végső végrehajtható fájltól. A Microsoft [DgbHelp API](https://docs.microsoft.com/en-us/windows/win32/debug/dbghelp-functions) megnyithat egy PDB-fájlt, hogy olyan információkat szerezzen be, mint például a nyilvános és exportált adatok, globális szimbólumok, helyi szimbólumok, írja be az adatokat, a forrásfájlokat és a sorszámokat.
+A .pdb kiterjesztésű fájl egy programadatbázis-fájl, amely egy lefordított futtatható fájl (EXE/DLL) hibakeresési információit tartalmazza. A PDB fájlokat a Microsoft Compilers állítja elő, amikor egy alkalmazást hibakeresési módban fordítanak. A PDB fájl jelenléte segíthet a végrehajtható fájl visszafejtésében, mivel jelentős információkat tartalmaz a modulok összes szimbólumáról. Ez az oka annak, hogy ezeket a fájlokat külön kell tartani a végső végrehajtható fájltól. A Microsoft [DgbHelp API](https://learn.microsoft.com/en-us/windows/win32/debug/dbghelp-functions) megnyithat egy PDB-fájlt, hogy olyan információkat szerezzen be, mint például a nyilvános és exportált adatok, globális szimbólumok, helyi szimbólumok, írja be az adatokat, a forrásfájlokat és a sorszámokat.
 
 ## PDB fájl formátum
 

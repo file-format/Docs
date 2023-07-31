@@ -32,5 +32,5 @@ Některé další typy souborů, které tvoří formát souboru Visio 2013, zahr
 
 ## Reference ##
 
-* [Úvod do formátu souboru Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Úvod do formátu souboru Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

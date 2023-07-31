@@ -31,5 +31,5 @@ Microsoft Word 자동 복구 파일은 기본 문서 파일과 함께 바이너�
 
 ## 참고문헌
 
-* [Microsoft Word 문서 복구](https://docs.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
+* [Microsoft Word 문서 복구](https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
 

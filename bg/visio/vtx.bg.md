@@ -32,5 +32,5 @@
 
 ## Препратки ##
 
-* [Въведение във файловия формат на Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Въведение във файловия формат на Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

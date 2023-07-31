@@ -27,5 +27,5 @@ XPR dosyalarının, Microsoft Expression Design'daki bir güvenlik açığından
 
 ## Referanslar
 
-* [İfade Tasarımındaki Güvenlik Açığı Uzaktan Kod Yürütülmesine İzin Verebilir (2651018)](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
+* [İfade Tasarımındaki Güvenlik Açığı Uzaktan Kod Yürütülmesine İzin Verebilir (2651018)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
 

@@ -18,7 +18,7 @@
 
 ## Vad är BR fil?
 
-En BR-fil är en komprimerad webbfil som genereras genom att använda datakomprimeringsalgoritmen med öppen källkod, **Brotli**. Den används för att lagra webbsidor som stilmallar ([CSS](/sv/web/css/)), bilder ([SVG](/sv/image/svg/)), [XML](/sv/web/xml/) och skript filer ([JS](/sv/web/js/)). Moderna webbplatser, som Chrome och Firefox, använder BR-filer för att minska sidladdningstiden, vilket resulterar i en bättre användarupplevelse.
+En BR-fil är en komprimerad webbfil som genereras genom att använda datakomprimeringsalgoritmen med öppen källkod, **Brotli**. Den används för att lagra webbsidor som stilmallar ([CSS](/sv/web/css/)), bilder ([SVG](/sv/page-description-language/svg/)), [XML](/sv/web/xml/) och skript filer ([JS](/sv/web/js/)). Moderna webbplatser, som Chrome och Firefox, använder BR-filer för att minska sidladdningstiden, vilket resulterar i en bättre användarupplevelse.
 
 ## BR filformat
 

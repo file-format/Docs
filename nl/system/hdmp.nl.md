@@ -32,5 +32,5 @@ HDMP zijn niet-gecomprimeerde geheugendumpbestanden. MDMP daarentegen zijn minid
 
 ## Referentie ##
 
-* [DMP - Microsoft](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
+* [DMP - Microsoft](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
 

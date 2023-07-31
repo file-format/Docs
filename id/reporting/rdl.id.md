@@ -61,5 +61,5 @@ Di RDL, DataType Enumeration mendefinisikan tipe data dari atribut, ekspresi, at
 ## Referensi ##
 
 - [Bahasa Definisi Laporan (Wikipedia)](https://en.wikipedia.org/wiki/Report_Definition_Language)
-- [Report Definition Language (SSRS)](https://docs.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
+- [Report Definition Language (SSRS)](https://learn.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
 

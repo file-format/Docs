@@ -28,6 +28,6 @@ Affichage NiXPS et édition NiXPS.
 La structure de format de fichier interne du format de fichier ODTTF n'est pas connue car ceux-ci sont stockés au format obscurci intégré. Ceux-ci peuvent être intégrés dans des documents numériques tels que .PDF ou .DOCX.
 
 ## Références
-* [Spécifications des polices OpenType par Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [Aperçu de TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Spécifications des polices OpenType par Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [Aperçu de TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

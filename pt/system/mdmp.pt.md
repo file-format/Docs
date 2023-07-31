@@ -51,5 +51,5 @@ As etapas a seguir podem ser usadas para abrir um arquivo MDMP no Visual Studio.
 
 ## Referência
 
-* [Como ler o pequeno arquivo de despejo de memória que é criado pelo Windows se ocorrer uma falha](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -Arquivo)
+* [Como ler o pequeno arquivo de despejo de memória que é criado pelo Windows se ocorrer uma falha](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -Arquivo)
 

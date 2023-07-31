@@ -59,5 +59,5 @@
 ## อ้างอิง
 
 * [ภาพรวมตัวจัดการ HTTP และโมดูล HTTP](https://msdn.microsoft.com/en-us/library/bb398986(v=vs.100))
-* [ไวยากรณ์ Global.asax](https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
+* [ไวยากรณ์ Global.asax](https://learn.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
 

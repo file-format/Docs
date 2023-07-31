@@ -27,5 +27,5 @@ APPXBUNDLE dosyaları, dosya biçimi belirtimleri genel olarak mevcut olmayan ik
 
 ## Referanslar
 
-* [Uygulama Paketi Türleri](https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
+* [Uygulama Paketi Türleri](https://learn.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
 

@@ -40,5 +40,5 @@ struct WMA_TYPE_SPECIFIC_DATA
 ```
 ## Hivatkozások
 
-* [ASF áttekintése – Microsoft](https://docs.microsoft.com/en-us/windows/win32/wmformat/overview-of-the-asf-format?redirectedfrom=MSDN)
+* [ASF áttekintése – Microsoft](https://learn.microsoft.com/en-us/windows/win32/wmformat/overview-of-the-asf-format)
 

@@ -23,7 +23,7 @@
 
 ## CFF 파일 형식
 
-CFF 파일은 구조화된 데이터 레이아웃을 포함하고 정의된 데이터 유형, 헤더, 글리프 구성 및 테이블 사전을 포함하는 이진 파일입니다. 이에 대한 자세한 내용은 [컴팩트 글꼴 형식 사양](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)에서 확인할 수 있습니다.
+CFF 파일은 구조화된 데이터 레이아웃을 포함하고 정의된 데이터 유형, 헤더, 글리프 구성 및 테이블 사전을 포함하는 이진 파일입니다. 이에 대한 자세한 내용은 [컴팩트 글꼴 형식 사양](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)에서 확인할 수 있습니다.
 
 ### 데이터 레이아웃
 CFF 파일 형식의 데이터 레이아웃은 다음과 같습니다.
@@ -68,7 +68,7 @@ CFF 데이터 유형은 다음 표와 같습니다.
 
 ## 참고문헌
 
-* [컴팩트한 글꼴 형식 테이블](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+* [컴팩트한 글꼴 형식 테이블](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
 * [CFF 파일 형식](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
-* [CFF2 차트셋](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+* [CFF2 차트셋](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

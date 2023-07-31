@@ -31,5 +31,5 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Κατανόηση και ρύθμιση παραμέτρων του Windows Connection Manager](https://docs.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
+* [Κατανόηση και ρύθμιση παραμέτρων του Windows Connection Manager](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
 

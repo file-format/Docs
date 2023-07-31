@@ -27,6 +27,6 @@ NUPKG ファイルは、パッケージ化されたライブラリを含む [ZIP
 ## 参照
 
 * [Nuget.org](https://nuget.org)
-* [クイック スタート: Visual Studio でパッケージをインストールして使用する (Windows のみ)](https://docs.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual-スタジオ）
-* [Nuget パッケージを作成して公開する方法](https://docs.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore-クリ）
+* [クイック スタート: Visual Studio でパッケージをインストールして使用する (Windows のみ)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual-スタジオ）
+* [Nuget パッケージを作成して公開する方法](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore-クリ）
 

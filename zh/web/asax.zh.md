@@ -59,5 +59,5 @@ ASAX 文件以纯文本文件格式编写，并且是人类可读的。最常用
 ## 参考
 
 * [HTTP 处理程序和 HTTP 模块概述](https://msdn.microsoft.com/en-us/library/bb398986(v=vs.100))
-* [Global.asax 语法](https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
+* [Global.asax 语法](https://learn.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
 

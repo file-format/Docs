@@ -23,10 +23,10 @@ A file with .addin extension is an Add-in definition file created by Microsoft V
 
 ## ADDIN File Format - More Information
 
-ADDIN files are saved to disc in XML file format that is human readable. It can be opened in popular text editors including Notepad, Notepad++, Microsoft Visual Studio IDE, and many others. Microsoft has defined the [XML manifest file](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) of an Office Add-in that describes how an add-in should be activated after it is been installed and used with Office documents and applications.
+ADDIN files are saved to disc in XML file format that is human readable. It can be opened in popular text editors including Notepad, Notepad++, Microsoft Visual Studio IDE, and many others. Microsoft has defined the [XML manifest file](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) of an Office Add-in that describes how an add-in should be activated after it is been installed and used with Office documents and applications.
 
-**See Also:** [How to build an Office COM add-in by using Visual C# .NET](https://docs.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer/office-com-add-in-using-visual-c)
+**See Also:** [How to build an Office COM add-in by using Visual C# .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer/office-com-add-in-using-visual-c)
 
 ## References
 
- * [Office Add-ins XML manifest](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1)
+ * [Office Add-ins XML manifest](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1)

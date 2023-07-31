@@ -38,6 +38,6 @@
 
 ## อ้างอิง
 
-* [Windows Sidebar - โดย Microsoft](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
-* [การพัฒนา Gadget สำหรับ Windows Sidebar ตอนที่ 1](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
+* [Windows Sidebar - โดย Microsoft](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
+* [การพัฒนา Gadget สำหรับ Windows Sidebar ตอนที่ 1](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
 

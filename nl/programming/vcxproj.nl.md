@@ -47,7 +47,7 @@ De inhoud van een voorbeeld VCXPROJ-bestand is als volgt.
 ```
 ### VCXPROJ-bestandselementen
 
-Een typisch VCXPROJ-bestand bevat een aantal elementen zoals te zien is in het voorbeeld-XML hierboven. De [VCXPROJ-structuur](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) van Microsoft legt elk bestandselement in detail uit en er kan naar worden verwezen vanuit het perspectief van de ontwikkelaar.
+Een typisch VCXPROJ-bestand bevat een aantal elementen zoals te zien is in het voorbeeld-XML hierboven. De [VCXPROJ-structuur](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160) van Microsoft legt elk bestandselement in detail uit en er kan naar worden verwezen vanuit het perspectief van de ontwikkelaar.
 
 #### Projectelement
 
@@ -72,6 +72,6 @@ Dit gedeelte bevat instellingen die informatie geven op projectniveau, zoals:
 
 ## Referenties
 
-* [VCXPROJ-structuur - MSDN](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
-* [C++-projectbestanden](https://docs.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
+* [VCXPROJ-structuur - MSDN](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
+* [C++-projectbestanden](https://learn.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
 

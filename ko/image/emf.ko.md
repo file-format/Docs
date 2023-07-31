@@ -95,6 +95,6 @@ EMF 파일 형식이 두 번 수정되었습니다. 변경된 버전은 원본, 
 
 ## 참조 ##
 
-* [향상된 형식 메타파일 | 마이크로소프트 문서](https://docs.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
+* [향상된 형식 메타파일 | 마이크로소프트 문서](https://learn.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
 * [향상된 메타파일 형식 및 사양](https://msdn.microsoft.com/en-us/library/cc230514.aspx)
 

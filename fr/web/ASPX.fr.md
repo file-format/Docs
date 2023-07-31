@@ -96,5 +96,5 @@ namespace MyStuff
 
 ## Références
 
-* [Applications Web ASP.NET - Microsoft](https://docs.microsoft.com/en-us/troubleshoot/webapps/welcome-webapps)
+* [Applications Web ASP.NET - Microsoft](https://learn.microsoft.com/en-us/troubleshoot/webapps/welcome-webapps)
 

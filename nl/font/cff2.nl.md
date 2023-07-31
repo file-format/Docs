@@ -23,7 +23,7 @@ Het CFF2-bestandsformaat is de versie 2.0 van het CFF-bestandsformaat en maakt e
 
 ## CFF2-bestandsindeling
 
-De [CFF2-specificaties voor bestandsindelingen](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2) bevat details over de interne gegevenslay-out, gegevenstypen, tabellen en andere interne informatie over de bestandsindeling. Het kan worden doorverwezen ter referentie van de ontwikkelaar. Enkele details hierover zijn als volgt.
+De [CFF2-specificaties voor bestandsindelingen](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2) bevat details over de interne gegevenslay-out, gegevenstypen, tabellen en andere interne informatie over de bestandsindeling. Het kan worden doorverwezen ter referentie van de ontwikkelaar. Enkele details hierover zijn als volgt.
 
 ### Gegevenslay-out
 
@@ -81,5 +81,5 @@ De binaire gegevens beginnen met een kop met het formaat dat wordt weergegeven i
 
 ## Referenties
 
-* [CFF2-bestandsindeling](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2)
+* [CFF2-bestandsindeling](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2)
 

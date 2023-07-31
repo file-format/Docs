@@ -19,7 +19,7 @@
 
 ## Ce este un fișier EOT?
 
-Un fișier cu extensia .eot este un font OpenType care este încorporat într-un document. Acestea sunt utilizate mai ales în fișiere web, cum ar fi o pagină Web. A fost creat de Microsoft și este acceptat de produsele Microsoft, inclusiv fișierul de prezentare PowerPoint [.pps](/ro/presentation/pps). Fișierul nu este de uz principal și este un fel de document care însoțește documentul principal sau pagina web. Similar cu fonturile OTF, EOT acceptă atât contururile Postscript, cât și TrueType pentru glife. Fișierele EOT sunt mai mici ca dimensiune, deoarece sunt comprimate folosind compresia LZ. EOT folosește un instrument Microsoft pentru a crea un font din fonturile TTF/OTF existente.
+Un fișier cu extensia .eot este un font OpenType care este încorporat într-un document. Acestea sunt utilizate mai ales în fișiere web, cum ar fi o pagină Web. A fost creat de Microsoft și este acceptat de produsele Microsoft, inclusiv fișierul de prezentare PowerPoint [.pps](/ro/presentation/pps/). Fișierul nu este de uz principal și este un fel de document care însoțește documentul principal sau pagina web. Similar cu fonturile OTF, EOT acceptă atât contururile Postscript, cât și TrueType pentru glife. Fișierele EOT sunt mai mici ca dimensiune, deoarece sunt comprimate folosind compresia LZ. EOT folosește un instrument Microsoft pentru a crea un font din fonturile TTF/OTF existente.
 
 ## Scurt istoric
 

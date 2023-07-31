@@ -53,6 +53,6 @@ Pe lângă transmiterea simplă a mesajelor, aplicația originală a TNEF urma s
 ## Referințe
 
 * [Format de încapsulare neutru pentru transport](https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
-* [Adrese de e-mail și agende de adrese în Exchange Server](https://docs.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
+* [Adrese de e-mail și agende de adrese în Exchange Server](https://learn.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
 * [[MS-OXTNEF]: Algoritm de date pentru formatul de încapsulare neutru de transport (TNEF)](https://msdn.microsoft.com/en-us/library/cc425498(v#exchg.80).aspx)
 

@@ -95,6 +95,6 @@ EMF 文件格式已修改两次。更改的版本是原始版本、扩展 1 和�
 
 ## 参考 ＃＃
 
-* [增强格式元文件 | Microsoft Docs](https://docs.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
+* [增强格式元文件 | Microsoft Docs](https://learn.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
 * [增强的元文件格式和规范](https://msdn.microsoft.com/en-us/library/cc230514.aspx)
 

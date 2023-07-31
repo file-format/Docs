@@ -32,6 +32,6 @@ Visio הופק בתחילה כמוצר עצמאי על ידי Shapeware Corporat
 
 ## הפניות ##
 
-* [מבוא לפורמט קובץ Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
-* [מפת סכימה - Visio XML](https://docs.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
+* [מבוא לפורמט קובץ Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [מפת סכימה - Visio XML](https://learn.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
 

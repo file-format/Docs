@@ -63,5 +63,5 @@ ASPError 对象在 ASP 3.0 中实现，在 IIS5 及更高版本中可用。ASPEr
 ## 参考
 
 * [ASP - W3C](https://www.w3schools.com/asp/default.asp)
-* [创建简单的 ASP 页面](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [创建简单的 ASP 页面](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

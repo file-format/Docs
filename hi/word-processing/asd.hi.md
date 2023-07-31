@@ -31,5 +31,5 @@ Microsoft Word ऑटो-रिकवरी फ़ाइलें मुख्�
 
 ## संदर्भ
 
-* [माइक्रोसॉफ्ट वर्ड दस्तावेज़ पुनर्प्राप्त करें](https://docs.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
+* [माइक्रोसॉफ्ट वर्ड दस्तावेज़ पुनर्प्राप्त करें](https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
 

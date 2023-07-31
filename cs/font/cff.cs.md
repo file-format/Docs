@@ -23,7 +23,7 @@ Soubor s příponou .cff je kompaktní formát písma a je také známý jako Po
 
 ## Formát souboru CFF
 
-Soubory CFF jsou binární soubory, které obsahují strukturované rozložení dat, mají definované datové typy, záhlaví, organizaci glyfů a slovníky tabulek. Další podrobnosti o nich lze nalézt ve [specifikacích formátu kompaktního písma](https://docs.microsoft.com/en-us/typography/opentype/spec/cff).
+Soubory CFF jsou binární soubory, které obsahují strukturované rozložení dat, mají definované datové typy, záhlaví, organizaci glyfů a slovníky tabulek. Další podrobnosti o nich lze nalézt ve [specifikacích formátu kompaktního písma](https://learn.microsoft.com/en-us/typography/opentype/spec/cff).
 
 ### Rozložení dat
 Rozložení dat formátu souboru CFF je znázorněno níže.
@@ -68,7 +68,7 @@ Binární data začínají záhlavím ve formátu uvedeném v následující tab
 
 ## Reference
 
-* [Tabulka kompaktních formátů písem](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+* [Tabulka kompaktních formátů písem](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
 * [Formát souboru CFF](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
-* [CFF2 Chartset](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+* [CFF2 Chartset](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

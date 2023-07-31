@@ -19,7 +19,7 @@
 
 ## Was ist eine PDB-Datei?
 
-Eine Datei mit der Erweiterung .pdb ist eine Programmdatenbankdatei, die Debugging-Informationen für eine kompilierte ausführbare Datei (EXE/DLL) enthält. PDB-Dateien werden von Microsoft-Compilern generiert, wenn ein Anwendungsprogramm im Debugmodus kompiliert wird. Das Vorhandensein einer PDB-Datei kann beim Reverse Engineering einer ausführbaren Datei hilfreich sein, da sie wichtige Informationen zu allen Symbolen der Module enthält. Aus diesem Grund werden diese Dateien von der endgültigen ausführbaren Datei getrennt aufbewahrt. Die [DgbHelp-API] von Microsoft (https://docs.microsoft.com/en-us/windows/win32/debug/dbghelp-functions) kann eine PDB-Datei öffnen, um Informationen wie öffentliche und Exporte, globale Symbole, lokale Symbole, Typdaten, Quelldateien und Zeilennummern.
+Eine Datei mit der Erweiterung .pdb ist eine Programmdatenbankdatei, die Debugging-Informationen für eine kompilierte ausführbare Datei (EXE/DLL) enthält. PDB-Dateien werden von Microsoft-Compilern generiert, wenn ein Anwendungsprogramm im Debugmodus kompiliert wird. Das Vorhandensein einer PDB-Datei kann beim Reverse Engineering einer ausführbaren Datei hilfreich sein, da sie wichtige Informationen zu allen Symbolen der Module enthält. Aus diesem Grund werden diese Dateien von der endgültigen ausführbaren Datei getrennt aufbewahrt. Die [DgbHelp-API] von Microsoft (https://learn.microsoft.com/en-us/windows/win32/debug/dbghelp-functions) kann eine PDB-Datei öffnen, um Informationen wie öffentliche und Exporte, globale Symbole, lokale Symbole, Typdaten, Quelldateien und Zeilennummern.
 
 ## PDB-Dateiformat
 

@@ -27,5 +27,5 @@ Các tệp XPR được xác định là có lợi cho lỗ hổng trong Microso
 
 ## Người giới thiệu
 
-* [Lỗ hổng trong thiết kế biểu thức có thể cho phép thực thi mã từ xa (2651018)](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
+* [Lỗ hổng trong thiết kế biểu thức có thể cho phép thực thi mã từ xa (2651018)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
 

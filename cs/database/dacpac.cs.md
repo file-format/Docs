@@ -53,7 +53,7 @@ Je třeba poznamenat, že DACPAC neobsahuje DATA a další objekty na úrovni se
 
 ## Reference
 
-* [Aplikace datové úrovně – výhody](https://docs.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
-* [Nasazení aplikace datové vrstvy – Microsoft](https://docs.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
+* [Aplikace datové úrovně – výhody](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
+* [Nasazení aplikace datové vrstvy – Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
 * [Jak vytvořit soubor DACPAC?](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
 

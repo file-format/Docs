@@ -23,7 +23,7 @@
 
 ## CFF файлов формат
 
-CFF файловете са двоични файлове, които съдържат оформление на структурирани данни, имат дефинирани типове данни, заглавка, организация на глифове и речници на таблици. Повече подробности за тях можете да намерите в [спецификациите на формата на компактния шрифт](https://docs.microsoft.com/en-us/typography/opentype/spec/cff).
+CFF файловете са двоични файлове, които съдържат оформление на структурирани данни, имат дефинирани типове данни, заглавка, организация на глифове и речници на таблици. Повече подробности за тях можете да намерите в [спецификациите на формата на компактния шрифт](https://learn.microsoft.com/en-us/typography/opentype/spec/cff).
 
 ### Оформление на данните
 Оформлението на данните във файловия формат CFF е както е показано по-долу.
@@ -68,7 +68,7 @@ CFF файловете са двоични файлове, които съдър
 
 ## Препратки
 
-* [Таблица с компактни формати на шрифтове](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+* [Таблица с компактни формати на шрифтове](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
 * [Файлов формат CFF](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
-* [CFF2 Chartset](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+* [CFF2 Chartset](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

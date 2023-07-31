@@ -23,11 +23,11 @@
 
 ## Файлов формат ADDIN - Повече информация
 
-ADDIN файловете се записват на диск в XML файлов формат, който е четим от хора. Може да се отваря в популярни текстови редактори, включително Notepad, Notepad++, Microsoft Visual Studio IDE и много други. Microsoft е дефинирал [XML файл с манифест](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) на Office Add -in, който описва как трябва да се активира добавка, след като е инсталирана и използвана с документи и приложения на Office.
+ADDIN файловете се записват на диск в XML файлов формат, който е четим от хора. Може да се отваря в популярни текстови редактори, включително Notepad, Notepad++, Microsoft Visual Studio IDE и много други. Microsoft е дефинирал [XML файл с манифест](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) на Office Add -in, който описва как трябва да се активира добавка, след като е инсталирана и използвана с документи и приложения на Office.
 
-**Вижте също:** [Как да създадете Office COM добавка с помощта на Visual C# .NET](https://docs.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
+**Вижте също:** [Как да създадете Office COM добавка с помощта на Visual C# .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
 
 ## Препратки
 
-* [XML манифест на добавките на Office](https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1)
+* [XML манифест на добавките на Office](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1)
 

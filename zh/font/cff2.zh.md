@@ -23,7 +23,7 @@ CFF2 文件格式是 CFF 文件格式的 2.0 版，允许有效存储字形轮�
 
 ## CFF2 文件格式
 
-[CFF2 文件格式规范](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2) 包含有关文件格式的内部数据布局、数据类型、表格和其他内部信息的详细信息。可供开发者参考。关于这些的一些细节如下。
+[CFF2 文件格式规范](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2) 包含有关文件格式的内部数据布局、数据类型、表格和其他内部信息的详细信息。可供开发者参考。关于这些的一些细节如下。
 
 ### 数据布局
 
@@ -81,5 +81,5 @@ CFF2 文件包含字体字典数据，作为紧凑标记化格式的键值对。
 
 ## 参考
 
-* [CFF2 文件格式](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2)
+* [CFF2 文件格式](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2)
 

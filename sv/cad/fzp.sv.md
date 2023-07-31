@@ -22,7 +22,7 @@ En FZP-fil är en XML-fil skapad av [Fritzing](https://fritzing.org/) prototyp- 
 
 ## FZP-filformat - Mer information
 
-FZP-filer är XML-filer som innehåller information om delens egenskaper, kopplingar och bussar. Utöver dessa innehåller FZP-filer även information om titel, beskrivning, författare och publiceringsdatum för FZP-filen. När en Fritzing-delfil exporteras skapar Fritzing-appen ett [FZPZ](/sv/compression/fzpz/) komprimerat arkiv som innehåller en FZP-fil och fyra [SVG](/sv/image/svg/)-filer.
+FZP-filer är XML-filer som innehåller information om delens egenskaper, kopplingar och bussar. Utöver dessa innehåller FZP-filer även information om titel, beskrivning, författare och publiceringsdatum för FZP-filen. När en Fritzing-delfil exporteras skapar Fritzing-appen ett [FZPZ](/sv/compression/fzpz/) komprimerat arkiv som innehåller en FZP-fil och fyra [SVG](/sv/page-description-language/svg/)-filer.
 
 [FZP filformatspecifikationer](https://github.com/fritzing/fzp/blob/master/docs/README.md) finns på Github av Fritzing.
 

@@ -29,6 +29,6 @@ ADE-filerna kan skapa problem vid öppning baserat på den version av Microsoft 
 
 ## Referenser
 
-* [Problem med Access ADE-filer](https://docs.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
+* [Problem med Access ADE-filer](https://learn.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
 * [Vilka åtkomstfilformat att använda](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

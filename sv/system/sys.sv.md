@@ -24,7 +24,7 @@ SYS-filerna är "Systemfiler" som används i Windows OS och MS-DOS-applikationer
 
 ## Teknisk specifikation ##
 
-.sys-filerna är faktiskt en delmängd av formatet [BMP](/sv/image/bmp) eftersom det bara tillåter specifika kombinationer. Det vanliga formatet för dessa filer är som LOGOS.SYS, LOGOW.SYS och LOGO.SYS. Andra filer har inte detta format.
+.sys-filerna är faktiskt en delmängd av formatet [BMP](/sv/image/bmp/) eftersom det bara tillåter specifika kombinationer. Det vanliga formatet för dessa filer är som LOGOS.SYS, LOGOW.SYS och LOGO.SYS. Andra filer har inte detta format.
 
 Dessa filer används oftast i katalogen *C* i Windows vid installationstillfället. De flesta problem som kretsar kring drivrutiner löses genom att uppdatera Windows OS. Detaljerna och informationen om dessa filer kan ses med hjälp av de inbyggda programmen i Windows OS. Dessa omfattar även referenserna till olika moduler i ett operativsystem.
 Några av exemplen på systemfiler är:

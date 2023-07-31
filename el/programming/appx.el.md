@@ -36,11 +36,11 @@
 
 Υπάρχουν δύο μέθοδοι που μπορούν να χρησιμοποιηθούν για τη δημιουργία αρχείων APPX.
 
-1. Χρήση του MakeApp.exe - Το [MakeApp.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) χρησιμοποιείται για τη δημιουργία και των δύο πακέτα εφαρμογών (.msix ή .appx) και αρχεία πακέτου εφαρμογών .msixbundle ή .appxbundle). Επιπλέον, μπορεί να εξαγάγει αρχεία από ένα πακέτο εφαρμογών. Το MakeApp.exe είναι διαθέσιμο με το Windows 10 SDK και μπορεί να χρησιμοποιηθεί από τη γραμμή εντολών.
-1. Χρήση του Microsoft Visual Studio - Οι προγραμματιστές συνήθως [δημιουργούν αρχεία APPX](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) χρησιμοποιώντας το Microsoft Visual Studio. Μόλις ολοκληρωθεί η ανάπτυξη της εφαρμογής και η εφαρμογή είναι έτοιμη για δημοσίευση, το αρχείο πακέτου APPX μπορεί να δημιουργηθεί δημοσιεύοντας το μέσα από το Visual Studio.
+1. Χρήση του MakeApp.exe - Το [MakeApp.exe](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) χρησιμοποιείται για τη δημιουργία και των δύο πακέτα εφαρμογών (.msix ή .appx) και αρχεία πακέτου εφαρμογών .msixbundle ή .appxbundle). Επιπλέον, μπορεί να εξαγάγει αρχεία από ένα πακέτο εφαρμογών. Το MakeApp.exe είναι διαθέσιμο με το Windows 10 SDK και μπορεί να χρησιμοποιηθεί από τη γραμμή εντολών.
+1. Χρήση του Microsoft Visual Studio - Οι προγραμματιστές συνήθως [δημιουργούν αρχεία APPX](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) χρησιμοποιώντας το Microsoft Visual Studio. Μόλις ολοκληρωθεί η ανάπτυξη της εφαρμογής και η εφαρμογή είναι έτοιμη για δημοσίευση, το αρχείο πακέτου APPX μπορεί να δημιουργηθεί δημοσιεύοντας το μέσα από το Visual Studio.
 
 ## βιβλιογραφικές αναφορές
 
-* [Δημιουργήστε ένα πακέτο ή πακέτο MSIX με το MakeAppx.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
-* [Δημιουργία αρχείων APPX χρησιμοποιώντας το Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Δημιουργήστε ένα πακέτο ή πακέτο MSIX με το MakeAppx.exe](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
+* [Δημιουργία αρχείων APPX χρησιμοποιώντας το Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

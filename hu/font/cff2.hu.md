@@ -23,7 +23,7 @@ A CFF2 fájlformátum a CFF fájlformátum 2.0-s verziója, és lehetővé teszi
 
 ## CFF2 fájlformátum
 
-A [CFF2 fájlformátum specifikációi](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2) részleteket tartalmaz a belső adatelrendezésről, adattípusokról, táblázatokról és a fájlformátummal kapcsolatos egyéb belső információkról. Fejlesztői referenciaként hivatkozhat rá. Néhány részlet ezekről a következők.
+A [CFF2 fájlformátum specifikációi](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2) részleteket tartalmaz a belső adatelrendezésről, adattípusokról, táblázatokról és a fájlformátummal kapcsolatos egyéb belső információkról. Fejlesztői referenciaként hivatkozhat rá. Néhány részlet ezekről a következők.
 
 ### Adatelrendezés
 
@@ -81,5 +81,5 @@ A bináris adat egy fejléccel kezdődik, amelynek formátuma az alábbi táblá
 
 ## Hivatkozások
 
-* [CFF2 fájlformátum](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2)
+* [CFF2 fájlformátum](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2)
 

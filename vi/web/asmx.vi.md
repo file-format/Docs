@@ -41,6 +41,6 @@ Tệp ASMX khác với tệp ASPX và ASCX.
 
 ## Người giới thiệu
 
-* [Sử dụng dịch vụ ASMX](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/web-services/asmx)
+* [Sử dụng dịch vụ ASMX](https://learn.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/web-services/asmx)
 * [Kiểm soát người dùng ASCX](https://beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

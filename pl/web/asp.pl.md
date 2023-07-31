@@ -63,5 +63,5 @@ Obiekt ASPError został zaimplementowany w ASP 3.0 i jest dostępny w usługach 
 ## Bibliografia
 
 * [ASP – przez W3C](https://www.w3schools.com/asp/default.asp)
-* [Tworzenie prostych stron ASP](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Tworzenie prostych stron ASP](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

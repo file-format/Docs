@@ -27,5 +27,5 @@ ASR 파일에는 표준 스크립팅 언어로 개발된 스크립트가 포함�
 ## 참고문헌
 
 * [Adobe Contribute - Wikipedia 작성](https://en.wikipedia.org/wiki/Adobe_Contribute)
-* [간단한 ASP 페이지 만들기](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [간단한 ASP 페이지 만들기](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

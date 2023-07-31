@@ -27,6 +27,6 @@ Quy ước đặt tên .sdf là tùy chọn và bất kỳ phần mở rộng n�
 ## Người giới thiệu
 
 * [SQL Server Compact - Wikipedia](https://en.wikipedia.org/wiki/SQL_Server_Compact)
-* [Sử dụng SQL Server Compact cho các ứng dụng web ASP.NET](https://docs.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
+* [Sử dụng SQL Server Compact cho các ứng dụng web ASP.NET](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
 
 

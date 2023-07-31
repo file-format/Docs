@@ -86,5 +86,5 @@ typedef struct tagRGBQUAD {
 |32bitový formát|32bitové obrázky mají maximálně 2^24 barev (biBitCount == 24).
 
 ## Reference ##
-* [Bitmapy nezávislé na zařízení – od společnosti Microsoft](https://docs.microsoft.com/en-us/windows/win32/gdi/device-independent-bitmaps)
+* [Bitmapy nezávislé na zařízení – od společnosti Microsoft](https://learn.microsoft.com/en-us/windows/win32/gdi/device-independent-bitmaps)
 

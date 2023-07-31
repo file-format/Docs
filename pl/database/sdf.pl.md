@@ -27,6 +27,6 @@ Konwencja nazewnictwa .sdf jest opcjonalna, a do zapisania pliku można użyć d
 ## Bibliografia
 
 * [SQL Server Compact – Wikipedia](https://en.wikipedia.org/wiki/SQL_Server_Compact)
-* [Korzystanie z SQL Server Compact dla aplikacji internetowych ASP.NET](https://docs.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
+* [Korzystanie z SQL Server Compact dla aplikacji internetowych ASP.NET](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
 
 

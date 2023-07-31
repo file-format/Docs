@@ -32,6 +32,6 @@ Visio ban đầu được sản xuất như một sản phẩm độc lập củ
 
 ## Người giới thiệu ##
 
-* [Giới thiệu về Định dạng tệp Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
-* [Sơ đồ lược đồ - Visio XML](https://docs.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
+* [Giới thiệu về Định dạng tệp Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Sơ đồ lược đồ - Visio XML](https://learn.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
 

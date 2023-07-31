@@ -27,7 +27,7 @@
 
 ## مثال على ملف XSD
 
-يحدد ملف XSD البسيط الذي يحتوي على مخطط أمر شراء العناصر باستخدام العلامات كما هو موضح في [مثال XSD بواسطة Microsoft](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -simple-schema؟ view = vs-2022).
+يحدد ملف XSD البسيط الذي يحتوي على مخطط أمر شراء العناصر باستخدام العلامات كما هو موضح في [مثال XSD بواسطة Microsoft](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -simple-schema؟ view = vs-2022).
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
@@ -67,5 +67,5 @@
 ## مراجع ##
 
 - [Microsoft XML Notepad](https://microsoft.github.io/XmlNotepad/)
-- [مثال نموذج XSD](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema؟view=vs-2022)
+- [مثال نموذج XSD](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema؟view=vs-2022)
 

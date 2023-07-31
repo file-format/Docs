@@ -32,6 +32,6 @@ Aanvankelijk werd Visio in 1992 door Shapeware Corporation als een op zichzelf s
 
 ## Referenties ##
 
-* [Inleiding tot Visio-bestandsindeling](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
-* [Schemakaart - Visio XML](https://docs.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
+* [Inleiding tot Visio-bestandsindeling](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Schemakaart - Visio XML](https://learn.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
 

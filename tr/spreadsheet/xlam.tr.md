@@ -30,5 +30,5 @@ Bundan sonra dosyayı .xlam uzantılı kaydedin.
 
 ## Referanslar ##
 
-- [Dosya formatı referansı -](https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
+- [Dosya formatı referansı -](https://learn.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
 

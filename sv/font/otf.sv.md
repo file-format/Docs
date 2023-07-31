@@ -82,6 +82,6 @@ För varje toppnivåtabell i typsnittet finns det en tabellpost som består av f
 Varje tabell i OpenType-teckensnittsfilen representeras av namn som kallas tabelltaggar. Det är ett måste för alla poster i arrayen att sorteras i stigande ordning efter tagg.
 
 ## Referenser
-* [OpenType Font Specifications by Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [TrueType-översikt](https://docs.microsoft.com/en-us/typography/truetype/)
+* [OpenType Font Specifications by Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [TrueType-översikt](https://learn.microsoft.com/en-us/typography/truetype/)
 

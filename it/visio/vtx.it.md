@@ -32,5 +32,5 @@ Alcuni altri tipi di file che comprendono il formato di file di Visio 2013 inclu
 
 ## Riferimenti ##
 
-* [Introduzione al formato file di Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Introduzione al formato file di Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

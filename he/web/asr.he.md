@@ -27,5 +27,5 @@
 ## הפניות
 
 * [Adobe Contribute - מאת ויקיפדיה](https://en.wikipedia.org/wiki/Adobe_Contribute)
-* [יצירת דפי ASP פשוטים](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [יצירת דפי ASP פשוטים](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

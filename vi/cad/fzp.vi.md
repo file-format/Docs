@@ -22,7 +22,7 @@ Tệp FZP là một tệp XML được tạo bởi ứng dụng thiết kế và
 
 ## Định dạng tệp FZP - Thông tin khác
 
-Các tệp FZP là các tệp XML chứa thông tin về các thuộc tính, trình kết nối và xe buýt của bộ phận. Ngoài ra, các tệp FZP còn chứa thông tin về tiêu đề, mô tả, tác giả và ngày xuất bản của tệp FZP. Khi một tệp phần Fritzing được xuất, ứng dụng Fritzing sẽ tạo một kho lưu trữ nén [FZPZ](/vi/compression/fzpz/) chứa một tệp FZP và bốn tệp [SVG](/vi/image/svg/).
+Các tệp FZP là các tệp XML chứa thông tin về các thuộc tính, trình kết nối và xe buýt của bộ phận. Ngoài ra, các tệp FZP còn chứa thông tin về tiêu đề, mô tả, tác giả và ngày xuất bản của tệp FZP. Khi một tệp phần Fritzing được xuất, ứng dụng Fritzing sẽ tạo một kho lưu trữ nén [FZPZ](/vi/compression/fzpz/) chứa một tệp FZP và bốn tệp [SVG](/vi/page-description-language/svg/).
 
 [Thông số định dạng tệp FZP](https://github.com/fritzing/fzp/blob/master/docs/README.md) hiện có trên Github của Fritzing.
 

@@ -48,6 +48,6 @@
 
 ## Список літератури
 
-* [Використання файлів параметрів Інтернету (.INS) з IEAK 11](https://docs.microsoft.com/en-us/internet-explorer/ie11-ieak/using-internet-settings-ins-files)
+* [Використання файлів параметрів Інтернету (.INS) з IEAK 11](https://learn.microsoft.com/en-us/internet-explorer/ie11-ieak/using-internet-settings-ins-files)
 
 

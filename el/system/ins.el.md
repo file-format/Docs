@@ -48,6 +48,6 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Χρήση αρχείων ρυθμίσεων Internet (.INS) με το IEAK 11](https://docs.microsoft.com/en-us/internet-explorer/ie11-ieak/using-internet-settings-ins-files)
+* [Χρήση αρχείων ρυθμίσεων Internet (.INS) με το IEAK 11](https://learn.microsoft.com/en-us/internet-explorer/ie11-ieak/using-internet-settings-ins-files)
 
 

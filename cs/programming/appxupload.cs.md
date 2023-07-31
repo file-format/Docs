@@ -27,5 +27,5 @@ Soubory APPXBUNDLE se ukládají na disk v binárním formátu souboru, přičem
 
 ## Reference
 
-* [Typy balíčků aplikací](https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
+* [Typy balíčků aplikací](https://learn.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
 

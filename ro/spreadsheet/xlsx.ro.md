@@ -27,7 +27,7 @@ Formatul de fișier XLSX a fost introdus în 2007 și folosește standardul Open
 
 ## Specificații de format de fișier XLSX
 
-[Specificațiile oficiale de format de fișier XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) sunt disponibile online de la Microsoft. Pentru a vedea ce este în interiorul fișierului XLSX, trebuie doar să-l redenumiți în fișierul [ZIP](/ro/compression/zip/) schimbându-i extensia și apoi extrageți-l pentru a vizualiza fișierele constitutive ale acestui registru de lucru Excel. Un registru de lucru gol, atunci când este extras în fișierele sale, are următoarele fișiere și foldere constitutive.
+[Specificațiile oficiale de format de fișier XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) sunt disponibile online de la Microsoft. Pentru a vedea ce este în interiorul fișierului XLSX, trebuie doar să-l redenumiți în fișierul [ZIP](/ro/compression/zip/) schimbându-i extensia și apoi extrageți-l pentru a vizualiza fișierele constitutive ale acestui registru de lucru Excel. Un registru de lucru gol, atunci când este extras în fișierele sale, are următoarele fișiere și foldere constitutive.
 
 ### [Content_Types].xml ###
 
@@ -77,6 +77,6 @@ Trebuie să împărtășiți ceva despre formatele de fișiere XLSX sau Spreadsh
 
 ## Referințe
 
-* [[MS-XLSX] - Format de fișier XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [[MS-XLSX] - Format de fișier XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

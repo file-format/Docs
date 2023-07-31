@@ -86,5 +86,5 @@ typedef struct tagRGBQUAD {
 |Format 32 bit|Gambar 32 bit memiliki maksimum 2^24 warna (biBitCount == 24).
 
 ## Referensi ##
-* [Bitmap Perangkat-Independen - Oleh Microsoft](https://docs.microsoft.com/en-us/windows/win32/gdi/device-independent-bitmaps)
+* [Bitmap Perangkat-Independen - Oleh Microsoft](https://learn.microsoft.com/en-us/windows/win32/gdi/device-independent-bitmaps)
 

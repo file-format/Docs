@@ -27,5 +27,5 @@ APPXBUNDLE 文件以二进制文件格式保存到光盘中，其文件格式规
 
 ## 参考
 
-* [应用程序包的类型](https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
+* [应用程序包的类型](https://learn.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
 

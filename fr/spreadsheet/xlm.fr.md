@@ -31,7 +31,7 @@ Excel fournit des étapes faciles à utiliser pour enregistrer une macro. Il né
 
 ## Modèle d'objet Excel ##
 
-Les macros utilisent des routines VBA dans leur dos et suivent le [Excel Object Model](https://docs.microsoft.com/en-us/office/vba/api/overview/excel/object-model) à cette fin. Ce modèle identifie les objets d'une feuille de calcul pour une interaction avec la feuille de calcul via des barres d'outils de commandes définies par l'utilisateur, des barres de commandes ou des boîtes de messages. Par exemple, l'accès aux propriétés du classeur est accordé avec l'objet Workbook. De même, il existe un objet Worksheet dans le modèle pour travailler avec les feuilles de calcul du classeur par programmation.
+Les macros utilisent des routines VBA dans leur dos et suivent le [Excel Object Model](https://learn.microsoft.com/en-us/office/vba/api/overview/excel/object-model) à cette fin. Ce modèle identifie les objets d'une feuille de calcul pour une interaction avec la feuille de calcul via des barres d'outils de commandes définies par l'utilisateur, des barres de commandes ou des boîtes de messages. Par exemple, l'accès aux propriétés du classeur est accordé avec l'objet Workbook. De même, il existe un objet Worksheet dans le modèle pour travailler avec les feuilles de calcul du classeur par programmation.
 
 ## Macros et sécurité ##
 

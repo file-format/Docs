@@ -28,6 +28,6 @@ NiXPS 查看和 NiXPS 编辑。
 ODTTF 文件格式的内部文件格式结构是未知的，因为它们存储为嵌入式混淆格式。这些可以嵌入到数字文档中，例如 .PDF 或 .DOCX。
 
 ## 参考
-* [Microsoft 的 OpenType 字体规范](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [TrueType 概述](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Microsoft 的 OpenType 字体规范](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [TrueType 概述](https://learn.microsoft.com/en-us/typography/truetype/)
 

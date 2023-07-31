@@ -37,7 +37,7 @@ An HDR image file consists of the following three sections:
 ## Open-Source HDR/HDRI APIs
 
  * **[imageinfo](https://github.com/xiaozhuai/imageinfo )** - Cross platform super fast single header [C++](/programming/cpp/) library to get image size and format without loading/decoding.
- * **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Rust library to get image size and format without loading/decoding. Supports [.avif](/image/avif/), [.bmp](/image/bmp), [.cur](/image/cur/), [.dds](/image/dds/), [.gif](/image/gif/), hdr (pic), [heic (heif)](/image/heic/), [.icns](/image/icns/), [.ico](/image/ico/), [.jp2](/image/jp2/), [jpeg (jpg)](/image/jpeg/), [jpx](/image/jpx/), ktx, [png](/image/png/), [psd](/image/psd/), qoi, tga, tiff (tif), and webp.
+ * **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Rust library to get image size and format without loading/decoding. Supports [.avif](/image/avif/), [.bmp](/image/bmp/), [.cur](/image/cur/), [.dds](/image/dds/), [.gif](/image/gif/), hdr (pic), [heic (heif)](/image/heic/), [.icns](/image/icns/), [.ico](/image/ico/), [.jp2](/image/jp2/), [jpeg (jpg)](/image/jpeg/), [jpx](/image/jpx/), ktx, [png](/image/png/), [psd](/image/psd/), qoi, tga, tiff (tif), and webp.
  * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** - Java implementation of HdrHistogram.
 
 ## References

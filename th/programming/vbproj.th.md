@@ -23,7 +23,7 @@
 
 ## รูปแบบไฟล์ VBPROJ - ข้อมูลเพิ่มเติม
 
-ไฟล์ VBPROJ เป็นไฟล์ข้อความที่เขียนในรูปแบบไฟล์ [XML](/th/web/xml/) ตาม [MSBuild XML Schema](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild- โครงการ-ไฟล์-schema-reference?view=vs-2019) ไฟล์ VBPROJ มีข้อมูลในรูปแบบของแท็ก XML ที่กำหนดข้อมูลที่เกี่ยวข้องกับกลุ่มการตั้งค่านั้นๆ ขอแนะนำให้เปิดและแก้ไขไฟล์การตั้งค่าเหล่านี้ใน Microsoft Visual Studio IDE
+ไฟล์ VBPROJ เป็นไฟล์ข้อความที่เขียนในรูปแบบไฟล์ [XML](/th/web/xml/) ตาม [MSBuild XML Schema](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild- โครงการ-ไฟล์-schema-reference?view=vs-2019) ไฟล์ VBPROJ มีข้อมูลในรูปแบบของแท็ก XML ที่กำหนดข้อมูลที่เกี่ยวข้องกับกลุ่มการตั้งค่านั้นๆ ขอแนะนำให้เปิดและแก้ไขไฟล์การตั้งค่าเหล่านี้ใน Microsoft Visual Studio IDE
 
 ### องค์ประกอบ VBPROJ
 
@@ -42,6 +42,6 @@
 
 ## อ้างอิง
 
-* [การทำความเข้าใจไฟล์โครงการ](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
-* [MSBuild Schema Elements](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
+* [การทำความเข้าใจไฟล์โครงการ](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
+* [MSBuild Schema Elements](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
 

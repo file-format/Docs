@@ -27,6 +27,6 @@ SDF ファイルには、通常コンパクト リレーショナル データ�
 ## 参考文献
 
 * [SQL Server Compact - ウィキペディア](https://en.wikipedia.org/wiki/SQL_Server_Compact)
-* [ASP.NET Web アプリケーションに SQL Server Compact を使用する](https://docs.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
+* [ASP.NET Web アプリケーションに SQL Server Compact を使用する](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
 
 

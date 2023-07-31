@@ -20,7 +20,7 @@
 
 ## Mi az iXBRL fájl?
 
-Az iXBRL (ilnine XBRL) fájlformátum lehetővé teszi az [XBRL](/hu/web/xbrl/) adatok HTML-fájlba ágyazását, hogy azok gépi és ember által is olvashatóvá váljanak. Ez valójában egy [xHTML](/hu/web/xhtml/) fájl, amely XBRL címkéket használ, és az XBRL International fejlesztette ki, hogy megfeleljen az Egyesült Királyság HMRC követelményeinek. Az iXBRL használatával pénzügyi kimutatások készíthetők úgy, hogy az eredeti dokumentum elrendezése érintetlen marad. Az iXBRL fájlok bármely szövegszerkesztőben megnyithatók, például a Notepad Windows operációs rendszeren és a TextEdit MacOS rendszeren.
+Az iXBRL (ilnine XBRL) fájlformátum lehetővé teszi az [XBRL](/hu/finance/xbrl/) adatok HTML-fájlba ágyazását, hogy azok gépi és ember által is olvashatóvá váljanak. Ez valójában egy [xHTML](/hu/web/xhtml/) fájl, amely XBRL címkéket használ, és az XBRL International fejlesztette ki, hogy megfeleljen az Egyesült Királyság HMRC követelményeinek. Az iXBRL használatával pénzügyi kimutatások készíthetők úgy, hogy az eredeti dokumentum elrendezése érintetlen marad. Az iXBRL fájlok bármely szövegszerkesztőben megnyithatók, például a Notepad Windows operációs rendszeren és a TextEdit MacOS rendszeren.
 
 ## iXBRL fájlformátum
 

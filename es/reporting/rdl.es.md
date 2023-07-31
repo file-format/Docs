@@ -61,5 +61,5 @@ En RDL, la enumeración de tipo de datos define el tipo de datos de un atributo,
 ## Referencias ##
 
 - [Lenguaje de definición de informe (Wikipedia)](https://en.wikipedia.org/wiki/Report_Definition_Language)
-- [Lenguaje de definición de informes (SSRS)](https://docs.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
+- [Lenguaje de definición de informes (SSRS)](https://learn.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
 

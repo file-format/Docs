@@ -45,5 +45,5 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Μαθήματα σχεδίασης στο Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
+* [Μαθήματα σχεδίασης στο Visual Studio](https://learn.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
 

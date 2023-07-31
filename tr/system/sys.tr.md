@@ -24,7 +24,7 @@ SYS dosyaları, Windows işletim sistemi ve MS-DOS uygulamalarında kullanılan 
 
 ## Teknik Şartname ##
 
-.sys dosyaları, yalnızca belirli birleşimlere izin verdiği için aslında [BMP](/tr/image/bmp) biçiminin alt kümesidir. Bu dosyaların genel biçimi LOGOS.SYS, LOGOW.SYS ve LOGO.SYS gibidir. Diğer dosyalarda bu biçim yoktur.
+.sys dosyaları, yalnızca belirli birleşimlere izin verdiği için aslında [BMP](/tr/image/bmp/) biçiminin alt kümesidir. Bu dosyaların genel biçimi LOGOS.SYS, LOGOW.SYS ve LOGO.SYS gibidir. Diğer dosyalarda bu biçim yoktur.
 
 Bu dosyalar, kurulum sırasında çoğunlukla Windows'un *C* dizininde kullanılır. Aygıt sürücüleriyle ilgili sorunların çoğu, Windows işletim sistemi güncelleştirilerek çözülür. Bu dosyaların ayrıntıları ve bilgileri, Windows işletim sisteminin yerleşik programları kullanılarak görüntülenebilir. Bunlar ayrıca bir işletim sistemindeki farklı modüllere yapılan referansları içerir.
 Sistem dosyalarının bazı örnekleri şunlardır:

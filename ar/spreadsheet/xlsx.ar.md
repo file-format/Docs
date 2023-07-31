@@ -27,7 +27,7 @@
 
 ## مواصفات تنسيق ملف XLSX
 
-تتوفر [مواصفات تنسيق ملف XLSX] الرسمية (https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) عبر الإنترنت من Microsoft. لمعرفة ما يوجد داخل ملف XLSX ، ما عليك سوى إعادة تسميته إلى ملف [ZIP](/ar/compression/zip/) عن طريق تغيير امتداده ثم استخراجه لعرض الملفات المكونة لمصنف Excel هذا. يحتوي المصنف الفارغ ، عند استخراجه إلى ملفاته ، على الملفات والمجلدات المكونة التالية.
+تتوفر [مواصفات تنسيق ملف XLSX] الرسمية (https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) عبر الإنترنت من Microsoft. لمعرفة ما يوجد داخل ملف XLSX ، ما عليك سوى إعادة تسميته إلى ملف [ZIP](/ar/compression/zip/) عن طريق تغيير امتداده ثم استخراجه لعرض الملفات المكونة لمصنف Excel هذا. يحتوي المصنف الفارغ ، عند استخراجه إلى ملفاته ، على الملفات والمجلدات المكونة التالية.
 
 ### [أنواع_المحتوى] .xml ###
 
@@ -77,6 +77,6 @@
 
 ## مراجع
 
-* [[MS-XLSX] - تنسيق ملف XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [[MS-XLSX] - تنسيق ملف XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

@@ -19,7 +19,7 @@
 
 ## DOCM dosyası nedir?
 
-DOCM dosyaları, Microsoft Word 2007 veya daha yüksek sürümlerde oluşturulmuş, makro çalıştırabilen belgelerdir. [DOCX](https://docs.fileformat.com/Word%20Processing/DOCX/) dosya biçimine benzer, ancak makroları çalıştırabilme özelliği onu DOCX'ten farklı kılar. DOCX gibi, DOCM dosyaları da metin, resimler, tablolar, şekiller, çizelgeler ve diğer içerikleri depolayabilir. Makroları çalıştırma özelliği, bir görevin otomatik olarak tamamlanması için kaydedilmiş eylemler biçimindeki komut dizilerini yürüterek zamandan tasarruf etmeyi kolaylaştırır. . DOCM dosyaları Microsoft Word 2007 ve sonraki sürümlerde açılabilir ve düzenlenebilir.
+DOCM dosyaları, Microsoft Word 2007 veya daha yüksek sürümlerde oluşturulmuş, makro çalıştırabilen belgelerdir. [DOCX](https://docs.fileformat.com/word-processing/docx/) dosya biçimine benzer, ancak makroları çalıştırabilme özelliği onu DOCX'ten farklı kılar. DOCX gibi, DOCM dosyaları da metin, resimler, tablolar, şekiller, çizelgeler ve diğer içerikleri depolayabilir. Makroları çalıştırma özelliği, bir görevin otomatik olarak tamamlanması için kaydedilmiş eylemler biçimindeki komut dizilerini yürüterek zamandan tasarruf etmeyi kolaylaştırır. . DOCM dosyaları Microsoft Word 2007 ve sonraki sürümlerde açılabilir ve düzenlenebilir.
 
 ## Kısa Tarihçe
 

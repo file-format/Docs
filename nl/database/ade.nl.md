@@ -29,6 +29,6 @@ De ADE-bestanden kunnen problemen veroorzaken bij het openen op basis van de ver
 
 ## Referenties
 
-* [Probleem met Access ADE-bestanden](https://docs.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
+* [Probleem met Access ADE-bestanden](https://learn.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
 * [Welke toegangsbestandsindelingen moeten worden gebruikt](https://support.microsoft.com/en-us/office/who-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

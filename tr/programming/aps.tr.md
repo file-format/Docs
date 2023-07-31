@@ -26,7 +26,7 @@ APS dosya biçimi yalnızca bir derleme adımıdır ve yalnızca sembolik verile
 
 ## Referanslar
 
-* [Kaynak Dosyaları (C++)](https://docs.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
+* [Kaynak Dosyaları (C++)](https://learn.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
  
 
 

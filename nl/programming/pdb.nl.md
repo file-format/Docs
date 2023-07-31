@@ -19,7 +19,7 @@
 
 ## Wat is een PDB-bestand?
 
-Een bestand met de extensie .pdb is een programmadatabasebestand dat foutopsporingsinformatie bevat voor een gecompileerd uitvoerbaar bestand (EXE/DLL). PDB-bestanden worden gegenereerd door Microsoft Compilers wanneer een toepassingsprogramma wordt gecompileerd in de foutopsporingsmodus. De aanwezigheid van een PDB-bestand kan helpen bij het reverse-engineeren van een uitvoerbaar bestand, omdat het belangrijke informatie bevat over alle symbolen van de modules. Het is om deze reden dat deze bestanden gescheiden worden gehouden van het uiteindelijke uitvoerbare bestand. Microsoft's [DgbHelp API](https://docs.microsoft.com/en-us/windows/win32/debug/dbghelp-functions) kan een PDB-bestand openen om informatie te verkrijgen zoals publics en exports, globale symbolen, lokale symbolen, type gegevens, bronbestanden en regelnummers.
+Een bestand met de extensie .pdb is een programmadatabasebestand dat foutopsporingsinformatie bevat voor een gecompileerd uitvoerbaar bestand (EXE/DLL). PDB-bestanden worden gegenereerd door Microsoft Compilers wanneer een toepassingsprogramma wordt gecompileerd in de foutopsporingsmodus. De aanwezigheid van een PDB-bestand kan helpen bij het reverse-engineeren van een uitvoerbaar bestand, omdat het belangrijke informatie bevat over alle symbolen van de modules. Het is om deze reden dat deze bestanden gescheiden worden gehouden van het uiteindelijke uitvoerbare bestand. Microsoft's [DgbHelp API](https://learn.microsoft.com/en-us/windows/win32/debug/dbghelp-functions) kan een PDB-bestand openen om informatie te verkrijgen zoals publics en exports, globale symbolen, lokale symbolen, type gegevens, bronbestanden en regelnummers.
 
 ## PDB-bestandsindeling
 

@@ -23,7 +23,7 @@ File dengan ekstensi .vbproj adalah file proyek Microsoft Visual Basic yang digu
 
 ## Format File VBPROJ - Informasi Lebih Lanjut
 
-File VBPROJ adalah file tekstual yang ditulis dalam format file [XML](/id/web/xml/) berdasarkan [Skema MSBuild XML](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild- project-file-schema-reference?view=vs-2019). File VBPROJ berisi informasi dalam bentuk tag XML yang menentukan informasi yang terkait dengan grup pengaturan tertentu. Sangat disarankan untuk membuka dan mengedit file pengaturan ini di Microsoft Visual Studio IDE.
+File VBPROJ adalah file tekstual yang ditulis dalam format file [XML](/id/web/xml/) berdasarkan [Skema MSBuild XML](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild- project-file-schema-reference?view=vs-2019). File VBPROJ berisi informasi dalam bentuk tag XML yang menentukan informasi yang terkait dengan grup pengaturan tertentu. Sangat disarankan untuk membuka dan mengedit file pengaturan ini di Microsoft Visual Studio IDE.
 
 ### Elemen VBPROJ
 
@@ -42,6 +42,6 @@ Tabel berikut memberikan gambaran singkat tentang unsur-unsur tersebut.
 
 ## Referensi
 
-* [Memahami File Proyek](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
-* [Elemen Skema MSBuild](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
+* [Memahami File Proyek](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
+* [Elemen Skema MSBuild](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
 

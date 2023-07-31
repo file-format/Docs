@@ -56,7 +56,7 @@ Mẫu chính trong tài nguyên phiên bản là **VS_FIXEDFILEINFO**. Các mẫ
 
 ## Người giới thiệu
 
-* [Định dạng tệp tài nguyên](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
+* [Định dạng tệp tài nguyên](https://learn.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
 
 

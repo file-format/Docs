@@ -54,6 +54,6 @@
 
 ## संदर्भ
 
-* [हेडर फाइलर्स - माइक्रोसॉफ्ट](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [हेडर फाइलर्स - माइक्रोसॉफ्ट](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 * [.h और .hh फ़ाइल स्वरूपों के बीच अंतर](https://stackoverflow.com/questions/10354321/c-reason-why-using-hh-as-extension-for-c-header-files)
 

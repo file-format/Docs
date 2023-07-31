@@ -31,7 +31,7 @@ Excel bietet benutzerfreundliche Schritte zum Aufzeichnen eines Makros. Es erfor
 
 ## Excel-Objektmodell ##
 
-Makros verwenden hinter sich VBA-Routinen und folgen zu diesem Zweck dem [Excel Object Model](https://docs.microsoft.com/en-us/office/vba/api/overview/excel/object-model). Dieses Modell identifiziert die Objekte einer Tabellenkalkulation für die Interaktion mit der Tabellenkalkulation durch benutzerdefinierte Befehlssymbolleisten, Befehlsleisten oder Meldungsfelder. Der Zugriff auf die Eigenschaften der Arbeitsmappe wird beispielsweise mit dem Workbook-Objekt gewährt. In ähnlicher Weise gibt es im Modell ein Arbeitsblattobjekt, um programmgesteuert mit den Arbeitsblättern der Arbeitsmappe zu arbeiten.
+Makros verwenden hinter sich VBA-Routinen und folgen zu diesem Zweck dem [Excel Object Model](https://learn.microsoft.com/en-us/office/vba/api/overview/excel/object-model). Dieses Modell identifiziert die Objekte einer Tabellenkalkulation für die Interaktion mit der Tabellenkalkulation durch benutzerdefinierte Befehlssymbolleisten, Befehlsleisten oder Meldungsfelder. Der Zugriff auf die Eigenschaften der Arbeitsmappe wird beispielsweise mit dem Workbook-Objekt gewährt. In ähnlicher Weise gibt es im Modell ein Arbeitsblattobjekt, um programmgesteuert mit den Arbeitsblättern der Arbeitsmappe zu arbeiten.
 
 ## Makros und Sicherheit ##
 

@@ -53,6 +53,6 @@ Além da transmissão simples de mensagens, o aplicativo original do TNEF deveri
 ## Referências
 
 * [Formato de encapsulamento neutro de transporte](https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
-* [Endereços de e-mail e catálogos de endereços no Exchange Server](https://docs.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
+* [Endereços de e-mail e catálogos de endereços no Exchange Server](https://learn.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
 * [[MS-OXTNEF]: Algoritmo de dados de formato de encapsulamento neutro de transporte (TNEF)](https://msdn.microsoft.com/en-us/library/cc425498(v#exchg.80).aspx)
 

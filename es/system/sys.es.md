@@ -24,7 +24,7 @@ Los archivos SYS son "archivos de sistema" utilizados en el sistema operativo Wi
 
 ## Especificación técnica ##
 
-Los archivos .sys son en realidad el subconjunto del formato [BMP](/es/image/bmp), ya que solo permite combinaciones específicas. El formato habitual de estos archivos es como LOGOS.SYS, LOGOW.SYS y LOGO.SYS. Cualquier otro archivo no tiene este formato.
+Los archivos .sys son en realidad el subconjunto del formato [BMP](/es/image/bmp/), ya que solo permite combinaciones específicas. El formato habitual de estos archivos es como LOGOS.SYS, LOGOW.SYS y LOGO.SYS. Cualquier otro archivo no tiene este formato.
 
 Estos archivos se utilizan principalmente en el directorio *C* de Windows en el momento de la instalación. La mayoría de los problemas relacionados con los controladores de dispositivos se resuelven actualizando el sistema operativo Windows. Los detalles y la información de estos archivos se pueden ver utilizando los programas integrados del sistema operativo Windows. Estos también comprenden las referencias a diferentes módulos en un sistema operativo.
 Algunos de los ejemplos de archivos del sistema son:

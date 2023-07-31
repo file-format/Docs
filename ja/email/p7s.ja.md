@@ -34,5 +34,5 @@ P7S ファイルには、次の情報が含まれています。
 
 ## 参照 ##
 
-* [Microsoft 署名ツール](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
+* [Microsoft 署名ツール](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
 

@@ -22,7 +22,7 @@ Bir FZP dosyası, [Fritzing](https://fritzing.org/) elektronik devre prototiplem
 
 ## FZP Dosya Biçimi - Daha Fazla Bilgi
 
-FZP dosyaları, parçanın özellikleri, bağlayıcıları ve veri yolları hakkında bilgi içeren XML dosyalarıdır. Bunlara ek olarak FZP dosyaları ayrıca FZP dosyasının başlığı, açıklaması, yazarı ve yayınlanma tarihi hakkında bilgiler içerir. Bir Fritzing parça dosyası dışa aktarıldığında, Fritzing uygulaması bir FZP dosyası ve dört [SVG](/tr/image/svg/) dosyası içeren bir [FZPZ](/tr/compression/fzpz/) sıkıştırılmış arşiv oluşturur.
+FZP dosyaları, parçanın özellikleri, bağlayıcıları ve veri yolları hakkında bilgi içeren XML dosyalarıdır. Bunlara ek olarak FZP dosyaları ayrıca FZP dosyasının başlığı, açıklaması, yazarı ve yayınlanma tarihi hakkında bilgiler içerir. Bir Fritzing parça dosyası dışa aktarıldığında, Fritzing uygulaması bir FZP dosyası ve dört [SVG](/tr/page-description-language/svg/) dosyası içeren bir [FZPZ](/tr/compression/fzpz/) sıkıştırılmış arşiv oluşturur.
 
 [FZP dosya biçimi belirtimleri](https://github.com/fritzing/fzp/blob/master/docs/README.md) Github by Fritzing'de mevcuttur.
 

@@ -53,7 +53,7 @@ File MAML dapat dibuat menggunakan Sandcastle, rangkaian skema .XSL dan program 
 ## Referensi
 
 * [Buat bantuan berbasis XML menggunakan PlatyPS
-](https://docs.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
+](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
 * [Bahasa Markup Bantuan Microsoft](https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
 
 # AML - File Bahasa Makro Arc

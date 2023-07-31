@@ -307,5 +307,5 @@ RPL ストリームにはレポート レコードが 1 つだけ含まれてい
 
 ## 参照 ##
 
-- [レポート ページ レイアウト (RPL) バイナリ ストリーム形式](https://docs.microsoft.com/en-us/openspecs/sql_server_protocols/ms-rpl/9c4ff7ba-f6da-4092-9670-aa0e54e73887)
+- [レポート ページ レイアウト (RPL) バイナリ ストリーム形式](https://learn.microsoft.com/en-us/openspecs/sql_server_protocols/ms-rpl/9c4ff7ba-f6da-4092-9670-aa0e54e73887)
 

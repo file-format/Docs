@@ -23,7 +23,7 @@ Un fichier avec l'extension .cff est un format de police compact et est égaleme
 
 ## Format de fichier CFF
 
-Les fichiers CFF sont des fichiers binaires qui contiennent une disposition de données structurées, des types de données définis, un en-tête, une organisation de glyphes et des dictionnaires de tables. Vous trouverez plus de détails à ce sujet dans les [spécifications du format de police compacte](https://docs.microsoft.com/en-us/typography/opentype/spec/cff).
+Les fichiers CFF sont des fichiers binaires qui contiennent une disposition de données structurées, des types de données définis, un en-tête, une organisation de glyphes et des dictionnaires de tables. Vous trouverez plus de détails à ce sujet dans les [spécifications du format de police compacte](https://learn.microsoft.com/en-us/typography/opentype/spec/cff).
 
 ### Disposition des données
 La disposition des données du format de fichier CFF est comme indiqué ci-dessous.
@@ -68,7 +68,7 @@ Les données binaires commencent par un en-tête ayant le format indiqué dans l
 
 ## Références
 
-* [Tableau des formats de police compacts](https://docs.microsoft.com/en-us/typography/opentype/spec/cff)
+* [Tableau des formats de police compacts](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
 * [Format de fichier CFF](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
-* [Jeu de cartes CFF2](https://docs.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+* [Jeu de cartes CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

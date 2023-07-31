@@ -31,7 +31,7 @@ Program Excel zapewnia łatwe w użyciu kroki rejestrowania makra. Do pracy z ma
 
 ## Model obiektowy programu Excel ##
 
-Makra używają w tym celu procedur VBA i stosują się do [modelu obiektowego programu Excel](https://docs.microsoft.com/en-us/office/vba/api/overview/excel/object-model). Ten model identyfikuje obiekty arkusza kalkulacyjnego do interakcji z arkuszem kalkulacyjnym za pomocą zdefiniowanych przez użytkownika pasków narzędzi poleceń, pasków poleceń lub okien komunikatów. Na przykład dostęp do właściwości skoroszytu jest udzielany za pomocą obiektu Workbook. Podobnie w modelu istnieje obiekt Worksheet do programistycznej pracy z arkuszami skoroszytu.
+Makra używają w tym celu procedur VBA i stosują się do [modelu obiektowego programu Excel](https://learn.microsoft.com/en-us/office/vba/api/overview/excel/object-model). Ten model identyfikuje obiekty arkusza kalkulacyjnego do interakcji z arkuszem kalkulacyjnym za pomocą zdefiniowanych przez użytkownika pasków narzędzi poleceń, pasków poleceń lub okien komunikatów. Na przykład dostęp do właściwości skoroszytu jest udzielany za pomocą obiektu Workbook. Podobnie w modelu istnieje obiekt Worksheet do programistycznej pracy z arkuszami skoroszytu.
 
 ## Makra i bezpieczeństwo ##
 

@@ -71,7 +71,7 @@ Ez a példa egy 4 MB-os elsődleges adatfájlt és 1 MB-os másodlagos adatfájl
 
 ## Hivatkozások
 
-* [Adatbázisfájlok és fájlcsoportok](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?redirectedfrom=MSDN&view=sql-server-ver15)
-* [Adatbázis leválasztás és csatolás – SQL Server](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
+* [Adatbázisfájlok és fájlcsoportok](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?redirectedfrom=MSDN&view=sql-server-ver15)
+* [Adatbázis leválasztás és csatolás – SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
 * [Az SQL Server adatfájl-anatómiájának elemzése](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

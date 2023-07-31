@@ -27,5 +27,5 @@
 
 ## использованная литература
 
-* [Уязвимость в Expression Design делает возможным удаленное выполнение кода (2651018)](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
+* [Уязвимость в Expression Design делает возможным удаленное выполнение кода (2651018)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
 

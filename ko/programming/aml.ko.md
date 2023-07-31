@@ -53,7 +53,7 @@ MAML 파일은 .XSL 스키마 및 프로그램 실행 파일 모음인 Sandcastl
 ## 참고문헌
 
 * [PlayyPS를 사용하여 XML 기반 도움말 만들기
-](https://docs.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
+](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
 * [Microsoft 지원 마크업 언어](https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
 
 # AML - 아크 매크로 언어 파일

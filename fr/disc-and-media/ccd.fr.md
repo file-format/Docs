@@ -25,7 +25,7 @@ Un fichier CCD est connu sous le nom de fichier image disque créé à l'aide du
 
 Un format de fichier CCD est un descripteur de texte CloneCD avec l'extension .ccd pour marquer les propriétés d'une image CD ou DVD. Pour graver un CD ou un DVD, le fichier CCD doit être combiné avec un fichier image. Il peut également être fourni avec un fichier de sous-canal. Ce format peut être utilisé directement par un émulateur de disque ou Virtual CloneDrive. En outre, les fichiers CCD peuvent être montés avec des lecteurs virtuels tiers, tels que Daemon ou Alcohol Tools. L'application CCDISO est utilisée pour convertir un fichier CCD conforme à la norme ISO9660 en une image [ISO](/fr/compression/iso/).
 
-Les formats comme [CUE](/fr/disc-and-media/cue),[BIN](/fr/disc-and-media/bin/), [MDS]() [MDF]() ont une structure similaire au CCD format, contenant à la fois une image disque brute et un fichier descripteur.
+Les formats comme [CUE](/fr/disc-and-media/cue/),[BIN](/fr/disc-and-media/bin/), [MDS]() [MDF]() ont une structure similaire au CCD format, contenant à la fois une image disque brute et un fichier descripteur.
 
 ## Références
 

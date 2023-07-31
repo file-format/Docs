@@ -19,7 +19,7 @@
 
 ## Wat is een BCP-bestand?
 
-BCP (Bulk Copy Format) is het technische gegevensformaat van Microsoft SQL Server dat gegevensstructuren definieert om verschillende databasegegevenstypewaarden op te slaan voor import/export. Het formaat definieert volledig de interpretatie van elke gegevenskolom, zodat de reeks waarden die in het gegevensbestand is gespecificeerd, kan worden gelezen. Het hulpprogramma [BCP](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/ms162802(v=sql.105)) gebruikt de BCP-bestandsindeling om gegevens uit een dergelijk bestand en identificeer het.
+BCP (Bulk Copy Format) is het technische gegevensformaat van Microsoft SQL Server dat gegevensstructuren definieert om verschillende databasegegevenstypewaarden op te slaan voor import/export. Het formaat definieert volledig de interpretatie van elke gegevenskolom, zodat de reeks waarden die in het gegevensbestand is gespecificeerd, kan worden gelezen. Het hulpprogramma [BCP](https://learn.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/ms162802(v=sql.105)) gebruikt de BCP-bestandsindeling om gegevens uit een dergelijk bestand en identificeer het.
 
 
 ## BCP-bestandsindeling
@@ -59,5 +59,5 @@ De structuur van het formaatbestand wordt weergegeven in het volgende formaat.
 
 ## Referenties
 
-* [BCP-indeling - Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
+* [BCP-indeling - Microsoft](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
 

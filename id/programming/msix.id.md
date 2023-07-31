@@ -35,6 +35,6 @@ Paket MSIX terdiri dari file-file berikut.
 
 ## Referensi
 
-* [Ikhtisar MSIX](https://docs.microsoft.com/en-us/windows/msix/overview)
-* [Buat file APPX menggunakan Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Ikhtisar MSIX](https://learn.microsoft.com/en-us/windows/msix/overview)
+* [Buat file APPX menggunakan Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

@@ -23,13 +23,13 @@
 
 ## X 文件格式
 
-[X 文件参考](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) 包含 API 元素的参考信息，这些元素用于使用 DirectX .x 文件。该格式提供低级数据原语，其他应用程序使用这些原语通过数据模板定义高级原语。 DirectX 6.0 引入了能够读取和写入 .x 文件的接口和方法。 DirectX 3.0 引入了这种文件格式的二进制版本。
+[X 文件参考](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-d3dx-x-file) 包含 API 元素的参考信息，这些元素用于使用 DirectX .x 文件。该格式提供低级数据原语，其他应用程序使用这些原语通过数据模板定义高级原语。 DirectX 6.0 引入了能够读取和写入 .x 文件的接口和方法。 DirectX 3.0 引入了这种文件格式的二进制版本。
 
-DirectX 9 定义的[X 文件格式参考](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) 包含.x 的参考信息二进制文件和文本编码。
+DirectX 9 定义的[X 文件格式参考](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format) 包含.x 的参考信息二进制文件和文本编码。
 
 ### 二进制编码
 
-[二进制格式](https://docs.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) 将 DirectX X 格式定义为文本格式的标记化表示。这些标记可以是独立的以提供语法结构，也可以是提供必要数据的记录标记。
+[二进制格式](https://learn.microsoft.com/en-us/windows/win32/direct3d9/binary-encoding) 将 DirectX X 格式定义为文本格式的标记化表示。这些标记可以是独立的以提供语法结构，也可以是提供必要数据的记录标记。
 
 #### 标题
 
@@ -82,6 +82,6 @@ DirectX .x 文件不依赖于文件的使用方式，也不特定于任何应用
 
 ## 参考
 
-* [X 文件旧版](https://docs.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
-* [DirectX 9 文件格式参考](https://docs.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
+* [X 文件旧版](https://learn.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
+* [DirectX 9 文件格式参考](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
 

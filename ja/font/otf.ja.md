@@ -82,6 +82,6 @@ OTF ファイルは、テーブル ディレクトリで始まります。この
 OpenType フォント ファイル内の各テーブルは、テーブル タグと呼ばれる名前で表されます。配列内のすべてのレコードをタグで昇順にソートする必要があります。
 
 ## 参考文献
-* [マイクロソフトによる OpenType フォント仕様](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [TrueType の概要](https://docs.microsoft.com/en-us/typography/truetype/)
+* [マイクロソフトによる OpenType フォント仕様](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [TrueType の概要](https://learn.microsoft.com/en-us/typography/truetype/)
 

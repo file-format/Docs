@@ -82,6 +82,6 @@ Pour chaque table de niveau supérieur dans la police, il existe un enregistreme
 Chaque tableau du fichier de polices OpenType est représenté par des noms connus sous le nom de balises de tableau. Il est indispensable que tous les enregistrements du tableau soient triés par ordre croissant par balise.
 
 ## Références
-* [Spécifications des polices OpenType par Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [Aperçu de TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Spécifications des polices OpenType par Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [Aperçu de TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

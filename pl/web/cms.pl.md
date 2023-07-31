@@ -29,6 +29,6 @@ Pliki CMS są zapisywane w formacie internetowym i obejmują kilka różnych typ
 
 ## Bibliografia
 
-* [Pomoc Microsoft HTML](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [Pomoc Microsoft HTML](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 * [Skompilowana pomoc HTML firmy Microsoft](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 

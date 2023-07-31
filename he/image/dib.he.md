@@ -86,5 +86,5 @@ typedef struct tagRGBQUAD {
 |פורמט 32 סיביות|לתמונות 32 סיביות יש לכל היותר 2^24 צבעים (biBitCount == 24).
 
 ## הפניות ##
-* [מפות סיביות בלתי תלויות בהתקן - מאת Microsoft](https://docs.microsoft.com/en-us/windows/win32/gdi/device-independent-bitmaps)
+* [מפות סיביות בלתי תלויות בהתקן - מאת Microsoft](https://learn.microsoft.com/en-us/windows/win32/gdi/device-independent-bitmaps)
 

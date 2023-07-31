@@ -26,7 +26,7 @@ O formato de arquivo APS é apenas uma etapa de compilação e armazena apenas d
 
 ## Referências
 
-* [Arquivos de recursos (C++)](https://docs.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
+* [Arquivos de recursos (C++)](https://learn.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
  
 
 

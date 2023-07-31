@@ -40,5 +40,5 @@ SQL Server Profiler 可用于打开 Microsoft Windows 性能日志，选择与�
 
 ## 参考 ＃＃
 
-* [SQL Server Profiler](https://docs.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler?view=sql-server-ver15)
+* [SQL Server Profiler](https://learn.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler?view=sql-server-ver15)
 

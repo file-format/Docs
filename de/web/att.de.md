@@ -24,5 +24,5 @@ Zu den Anwendungen, die **ATT-Dateien öffnen** können, gehören Texteditoren w
 
 ## Verweise
 
-* [Webformulare – Microsoft](https://docs.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
+* [Webformulare – Microsoft](https://learn.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
 

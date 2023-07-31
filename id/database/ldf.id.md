@@ -40,6 +40,6 @@ File LDF terdiri dari catatan transaksi SQL Server yang disusun sebagai rangkaia
 
 ## Referensi
 
-* [File dan Grup File Database](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [Panduan Manajemen dan Arsitektur Log Transaksi](https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql- server-ver15)
+* [File dan Grup File Database](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
+* [Panduan Manajemen dan Arsitektur Log Transaksi](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql- server-ver15)
 

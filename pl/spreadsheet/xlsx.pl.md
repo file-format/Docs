@@ -27,7 +27,7 @@ Format pliku XLSX został wprowadzony w 2007 roku i wykorzystuje standard Open X
 
 ## Specyfikacje formatu plików XLSX
 
-Oficjalna [specyfikacja formatu plików XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) jest dostępna online w firmie Microsoft. Aby zobaczyć, co znajduje się w pliku XLSX, po prostu zmień jego nazwę na plik [ZIP](/pl/compression/zip/), zmieniając jego rozszerzenie, a następnie rozpakuj go, aby wyświetlić pliki składowe tego skoroszytu programu Excel. Pusty skoroszyt po wyodrębnieniu do swoich plików zawiera następujące składowe pliki i foldery.
+Oficjalna [specyfikacja formatu plików XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e) jest dostępna online w firmie Microsoft. Aby zobaczyć, co znajduje się w pliku XLSX, po prostu zmień jego nazwę na plik [ZIP](/pl/compression/zip/), zmieniając jego rozszerzenie, a następnie rozpakuj go, aby wyświetlić pliki składowe tego skoroszytu programu Excel. Pusty skoroszyt po wyodrębnieniu do swoich plików zawiera następujące składowe pliki i foldery.
 
 ### [Typy_zawartości].xml ###
 
@@ -77,6 +77,6 @@ Chcesz podzielić się czymś na temat formatów plików XLSX lub arkuszy kalkul
 
 ## Bibliografia
 
-* [[MS-XLSX] — format pliku XLSX](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [[MS-XLSX] — format pliku XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 * [Open Office XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

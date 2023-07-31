@@ -27,5 +27,5 @@ File APPXBUNDLE disimpan ke disk dalam format file biner, dengan spesifikasi for
 
 ## Referensi
 
-* [Jenis Paket Aplikasi](https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
+* [Jenis Paket Aplikasi](https://learn.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
 

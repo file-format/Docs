@@ -24,5 +24,5 @@ Toepassingen die **ATT-bestanden** kunnen openen, zijn onder meer teksteditors z
 
 ## Referenties
 
-* [Webformulieren - Microsoft](https://docs.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
+* [Webformulieren - Microsoft](https://learn.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
 

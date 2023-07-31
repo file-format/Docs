@@ -55,6 +55,6 @@ Aquí están las tablas de encabezado TTC de ambas versiones:
 |uint32| dsigOffset |El desplazamiento (en bytes) de la tabla DSIG desde el principio del archivo TTC (nulo si no hay firma)|
 
 ## Referencias
-* [El archivo de fuentes OpenType](https://docs.microsoft.com/en-us/typography/opentype/spec/otff)
+* [El archivo de fuentes OpenType](https://learn.microsoft.com/en-us/typography/opentype/spec/otff)
 * [TrueType (Wikipedia)](https://en.wikipedia.org/wiki/TrueType)
 

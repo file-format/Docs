@@ -36,11 +36,11 @@ Các tệp APPX được lưu dưới dạng tệp nén ở định dạng tệp
 
 Có hai phương pháp có thể được sử dụng để tạo tệp APPX.
 
-1. Sử dụng MakeApp.exe - [MakeApp.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) được sử dụng để tạo cả hai gói ứng dụng (.msix hoặc .appx) và tệp gói gói ứng dụng .msixbundle hoặc .appxbundle). Ngoài ra, nó có thể trích xuất các tệp từ gói ứng dụng. MakeApp.exe khả dụng với Windows 10 SDK và có thể được sử dụng từ dấu nhắc lệnh.
-1. Sử dụng Microsoft Visual Studio - Nhà phát triển thường [tạo tệp APPX](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) bằng Microsoft Visual Studio. Khi quá trình phát triển ứng dụng hoàn tất và ứng dụng đã sẵn sàng để xuất bản, tệp gói APPX có thể được tạo bằng cách xuất bản tệp từ bên trong Visual Studio.
+1. Sử dụng MakeApp.exe - [MakeApp.exe](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool) được sử dụng để tạo cả hai gói ứng dụng (.msix hoặc .appx) và tệp gói gói ứng dụng .msixbundle hoặc .appxbundle). Ngoài ra, nó có thể trích xuất các tệp từ gói ứng dụng. MakeApp.exe khả dụng với Windows 10 SDK và có thể được sử dụng từ dấu nhắc lệnh.
+1. Sử dụng Microsoft Visual Studio - Nhà phát triển thường [tạo tệp APPX](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview) bằng Microsoft Visual Studio. Khi quá trình phát triển ứng dụng hoàn tất và ứng dụng đã sẵn sàng để xuất bản, tệp gói APPX có thể được tạo bằng cách xuất bản tệp từ bên trong Visual Studio.
 
 ## Người giới thiệu
 
-* [Tạo gói hoặc gói MSIX với MakeAppx.exe](https://docs.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
-* [Tạo tệp APPX bằng Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Tạo gói hoặc gói MSIX với MakeAppx.exe](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
+* [Tạo tệp APPX bằng Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

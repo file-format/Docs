@@ -30,5 +30,5 @@ Après cela, enregistrez le fichier avec l'extension .xlam.
 
 ## Références ##
 
-- [Référence du format de fichier - ](https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
+- [Référence du format de fichier - ](https://learn.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
 

@@ -20,13 +20,15 @@
 
 DOCX to MD is a common requirement for generating Markdown content that is used for formatting and styling text documents. Just in case you don't know the [MD file](/word-processing/md/) format, it is a plain text file that uses simple syntax to represent formatting in a document such as headers, styling, lists, bullets, links, and images. Microsoft Word does not provide the option for converting DOCX to MD, but there are tools available online that can convert your DOCX files to MD for FREE.
 
-## Aspose.Words APIs
-
-Aspose.Words APIs offer a variety of features that can be used by developers to create apps for working with DOCX files. You can use Aspose.Words APIs in your .NET, Java, Python, and C++ applications to work with DOCX files. This variety of support for different programming languages gives you the flexibility to convert DOCX to MD file in any of these languages.
-
 ## Convert DOCX to MD - Free Demo
 
-Interested in converting your DOCX files to MD files for FREE online? Try the Aspose.Words conversion app for FREE to [convert DOCX to MD](https://products.aspose.app/words/conversion/docx-to-md). Here are the steps you need to follow to convert your DOCX files to MD file format.
+Interested in converting your DOCX files to MD files for FREE online? Try the Aspose.Words conversion app for FREE by clicking the following button. 
+
+[![DOCX to MD](../docx-to-md.png?width=120px&height=60px)](https://products.aspose.app/words/conversion/docx-to-md)
+
+### Steps to Convert DOCX to MD
+
+Here are the steps you need to follow to convert your DOCX files to MD file format.
 
 1. Go to [Aspose.Words conversion app](https://products.aspose.app/words/conversion/docx-to-md)
 1. Upload your DOCX file to the browser
@@ -34,6 +36,11 @@ Interested in converting your DOCX files to MD files for FREE online? Try the As
 1. Press the Convert button
 
 This will start the process of conversion of your DOCX file to MD and a download option will appear for saving the file to your PC.
+
+## Aspose.Words APIs
+
+Aspose.Words APIs offer a variety of features that can be used by developers to create apps for working with DOCX files. You can use Aspose.Words APIs in your .NET, Java, Python, and C++ applications to work with DOCX files. This variety of support for different programming languages gives you the flexibility to convert DOCX to MD file in any of these languages.
+
 
 ## Convert DOCX to MD in .NET, Java, C++ and Python
 

@@ -29,10 +29,10 @@
 
 {{< figure src="../DataFlowDTSX.png" alt="Поток на данни DTSX" >}}
 
-DTSX е базиран на [XML](/bg/web/xml/) и е документиран в [MS-DTSX](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd). Подобреното рефакторинг на DTSX XML е DTSX 2.0, което включва нови атрибути към структурите, замяна на наименувани свойства като родителски XML атрибути, посочва стойности по подразбиране за повечето стойности на атрибути и поставяне на повтарящи се елементи вътре в родителски елемент. DTSX структурите са описани с помощта на тези [XML схеми](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1) и структурният формат е celar-текст XML.
+DTSX е базиран на [XML](/bg/web/xml/) и е документиран в [MS-DTSX](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd). Подобреното рефакторинг на DTSX XML е DTSX 2.0, което включва нови атрибути към структурите, замяна на наименувани свойства като родителски XML атрибути, посочва стойности по подразбиране за повечето стойности на атрибути и поставяне на повтарящи се елементи вътре в родителски елемент. DTSX структурите са описани с помощта на тези [XML схеми](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1) и структурният формат е celar-текст XML.
 
 ## Препратки
 
-* [DTSX формат - Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd)
-* [Формат DTSX 2 - от Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx2/fb216aa4-62ab-41c8-a6d5-5b1002739d21)
+* [DTSX формат - Microsoft](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd)
+* [Формат DTSX 2 - от Microsoft](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx2/fb216aa4-62ab-41c8-a6d5-5b1002739d21)
 

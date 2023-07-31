@@ -82,6 +82,6 @@ Voor elke tabel op het hoogste niveau in het lettertype is er een tabelrecord di
 Elke tabel in het OpenType-lettertypebestand wordt weergegeven door namen die bekend staan als tabeltags. Het is een must dat alle records in de array in oplopende volgorde op tag worden gesorteerd.
 
 ## Referenties
-* [OpenType-lettertypespecificaties door Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [TrueType-overzicht](https://docs.microsoft.com/en-us/typography/truetype/)
+* [OpenType-lettertypespecificaties door Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [TrueType-overzicht](https://learn.microsoft.com/en-us/typography/truetype/)
 

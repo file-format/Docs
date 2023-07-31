@@ -27,5 +27,5 @@ Az APPXBUNDLE fájlokat a rendszer bináris fájlformátumban menti a lemezre, a
 
 ## Hivatkozások
 
-* [Alkalmazáscsomagok típusai](https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
+* [Alkalmazáscsomagok típusai](https://learn.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
 

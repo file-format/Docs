@@ -47,7 +47,7 @@ VCXPROJ 파일은 [XML](/ko/web/xml/) 파일 형식으로 생성된 텍스트 �
 ```
 ### VCXPROJ 파일 요소
 
-일반적인 VCXPROJ 파일에는 위의 예제 XML에서 볼 수 있는 여러 요소가 포함되어 있습니다. Microsoft의 [VCXPROJ 구조](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)에서 각 파일 요소에 대해 자세히 설명하고 참조할 수 있습니다. 개발자의 관점에서.
+일반적인 VCXPROJ 파일에는 위의 예제 XML에서 볼 수 있는 여러 요소가 포함되어 있습니다. Microsoft의 [VCXPROJ 구조](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)에서 각 파일 요소에 대해 자세히 설명하고 참조할 수 있습니다. 개발자의 관점에서.
 
 #### 프로젝트 요소
 
@@ -72,6 +72,6 @@ VCXPROJ 파일의 ProjectConfiguration 요소에는 프로젝트가 로드되는
 
 ## 참고문헌
 
-* [VCXPROJ 구조 - MSDN](https://docs.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
-* [C++ 프로젝트 파일](https://docs.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
+* [VCXPROJ 구조 - MSDN](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
+* [C++ 프로젝트 파일](https://learn.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
 

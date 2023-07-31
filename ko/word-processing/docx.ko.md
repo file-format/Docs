@@ -23,7 +23,7 @@ DOCX는 Microsoft Word 문서용으로 잘 알려진 형식입니다. 2007년 Mi
 
 ## 간략한 역사 ##
 
-Microsoft가 DOC 파일 형식에 대한 사양을 공개한 후 경쟁업체에서 형식을 역설계하고 자체 응용 프로그램에서 동일한 지원을 제공하는 것이 쉬웠습니다. 또한 Open Document 형식 형태의 Open Office와의 경쟁으로 인해 Microsoft는 보다 개방적이고 광범위한 표준을 채택하게 되었습니다. Microsoft가 **Office Open XML** 표준을 수용하기 위해 변경하기로 결정한 것은 2000년 초였습니다. 이 새로운 표준에 따른 문서에는 [.docx 확장자](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), "X" XML을 위한 것입니다. 2007년에 이 새로운 파일 형식은 Office 2007의 일부가 되었으며 새 버전의 Microsoft Office에서도 계속 사용됩니다. 새로운 파일 형식은 작은 파일 크기, 적은 손상 변경 및 올바른 형식의 이미지 표현이라는 이점을 추가했습니다.
+Microsoft가 DOC 파일 형식에 대한 사양을 공개한 후 경쟁업체에서 형식을 역설계하고 자체 응용 프로그램에서 동일한 지원을 제공하는 것이 쉬웠습니다. 또한 Open Document 형식 형태의 Open Office와의 경쟁으로 인해 Microsoft는 보다 개방적이고 광범위한 표준을 채택하게 되었습니다. Microsoft가 **Office Open XML** 표준을 수용하기 위해 변경하기로 결정한 것은 2000년 초였습니다. 이 새로운 표준에 따른 문서에는 [.docx 확장자](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd), "X" XML을 위한 것입니다. 2007년에 이 새로운 파일 형식은 Office 2007의 일부가 되었으며 새 버전의 Microsoft Office에서도 계속 사용됩니다. 새로운 파일 형식은 작은 파일 크기, 적은 손상 변경 및 올바른 형식의 이미지 표현이라는 이점을 추가했습니다.
 
 ## DOCX 파일 형식 사양 - 추가 정보
 
@@ -105,6 +105,6 @@ Microsoft Word는 이러한 파일을 사용하여 파일 간의 관계를 찾�
 
 ## 참조 ##
 
-* [MS - DOCX 파일 형식](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
+* [MS - DOCX 파일 형식](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
 * [오피스 오픈 XML](http://officeopenxml.com/)
 

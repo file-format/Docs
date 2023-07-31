@@ -24,5 +24,5 @@
 
 ## مراجع
 
-* [Web Forms - Microsoft](https://docs.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
+* [Web Forms - Microsoft](https://learn.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
 

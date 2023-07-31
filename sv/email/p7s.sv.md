@@ -34,5 +34,5 @@ Denna information är inbäddad med hjälp av Public-Key Cryptography Standard #
 
 ## Referenser ##
 
-* [Microsoft Sign Tool](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
+* [Microsoft Sign Tool](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
 

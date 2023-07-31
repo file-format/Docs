@@ -30,5 +30,5 @@ End Function
 
 ## مراجع ##
 
-- [مرجع تنسيق الملف -](https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
+- [مرجع تنسيق الملف -](https://learn.microsoft.com/en-us/deployoffice/compat/office-file-format-reference)
 

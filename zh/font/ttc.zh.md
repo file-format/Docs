@@ -55,6 +55,6 @@ TTC 文件中的表格通过其各自字体的表格目录进行引用。一些 
 |uint32| dsigOffset |DSIG 表从 TTC 文件开头的偏移量（以字节为单位）（如果没有签名，则为 null）|
 
 ## 参考
-* [OpenType 字体文件](https://docs.microsoft.com/en-us/typography/opentype/spec/otff)
+* [OpenType 字体文件](https://learn.microsoft.com/en-us/typography/opentype/spec/otff)
 * [TrueType (维基百科)](https://en.wikipedia.org/wiki/TrueType)
 

@@ -35,6 +35,6 @@ Bir MSIX paketi aşağıdaki dosyalardan oluşur.
 
 ## Referanslar
 
-* [MSIX'e Genel Bakış](https://docs.microsoft.com/en-us/windows/msix/overview)
-* [Microsoft Visual Studio kullanarak APPX dosyaları oluşturun](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [MSIX'e Genel Bakış](https://learn.microsoft.com/en-us/windows/msix/overview)
+* [Microsoft Visual Studio kullanarak APPX dosyaları oluşturun](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

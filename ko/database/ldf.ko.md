@@ -40,6 +40,6 @@ LDF 파일은 로그 레코드의 문자열로 정렬된 SQL Server 트랜잭션
 
 ## 참고문헌
 
-* [데이터베이스 파일 및 파일 그룹](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [트랜잭션 로그 아키텍처 및 관리 가이드](https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql- 서버-ver15)
+* [데이터베이스 파일 및 파일 그룹](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
+* [트랜잭션 로그 아키텍처 및 관리 가이드](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql- 서버-ver15)
 

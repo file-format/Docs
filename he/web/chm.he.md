@@ -54,6 +54,6 @@ HTML עזרה מורכבת ממספר רכיבים. אלה כוללים את ה�
 
 ## הפניות
 
-* [עזרה של Microsoft HTML](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [עזרה של Microsoft HTML](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 * [עזרה של Microsoft Compiled HTML](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 

@@ -38,6 +38,6 @@ Aangezien het Windows Sidebar-platform in Windows 7 ernstige kwetsbaarheden heef
 
 ## Referenties
 
-* [Windows Sidebar - door Microsoft](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
-* [Een gadget ontwikkelen voor Windows Sidebar Part 1](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
+* [Windows Sidebar - door Microsoft](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
+* [Een gadget ontwikkelen voor Windows Sidebar Part 1](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
 

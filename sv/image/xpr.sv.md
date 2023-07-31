@@ -27,5 +27,5 @@ XPR-filer identifierades för att gynna en sårbarhet i Microsoft Expression Des
 
 ## Referenser
 
-* [Sårbarhet i uttrycksdesign kan tillåta fjärrexekvering av kod (2651018)](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
+* [Sårbarhet i uttrycksdesign kan tillåta fjärrexekvering av kod (2651018)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
 

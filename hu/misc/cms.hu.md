@@ -31,5 +31,5 @@ A CMS-profilfájl a Connection Manager segítségével jön létre, és más kon
 
 ## Hivatkozások
 
-* [A Windows Connection Manager megértése és konfigurálása](https://docs.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
+* [A Windows Connection Manager megértése és konfigurálása](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
 

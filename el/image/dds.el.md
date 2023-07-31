@@ -26,7 +26,7 @@
 
 ### Διάταξη αρχείου DDS
 
-Η [διάταξη αρχείου DDS](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) έχει τεκμηριωθεί λεπτομερώς από τη Microsoft. Ένα δυαδικό αρχείο DDS περιέχει τις ακόλουθες πληροφορίες.
+Η [διάταξη αρχείου DDS](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) έχει τεκμηριωθεί λεπτομερώς από τη Microsoft. Ένα δυαδικό αρχείο DDS περιέχει τις ακόλουθες πληροφορίες.
 
 * Ένα DWORD (μαγικός αριθμός) που περιέχει την τιμή κωδικού τεσσάρων χαρακτήρων «DDS» (0x20534444).
 * Περιγραφή των δεδομένων στο αρχείο.
@@ -38,7 +38,7 @@ DWORD               dwMagic;
 DDS_HEADER          header;
 ```
 
-Ο [οδηγός προγραμματισμού της μορφής αρχείου DDS](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) επεξεργάζεται περαιτέρω τις τεχνικές λεπτομέρειες αυτής της μορφής αρχείου.
+Ο [οδηγός προγραμματισμού της μορφής αρχείου DDS](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) επεξεργάζεται περαιτέρω τις τεχνικές λεπτομέρειες αυτής της μορφής αρχείου.
 
 ## βιβλιογραφικές αναφορές
 

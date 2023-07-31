@@ -35,6 +35,6 @@ Balíček MSIX se skládá z následujících souborů.
 
 ## Reference
 
-* [Přehled MSIX](https://docs.microsoft.com/en-us/windows/msix/overview)
-* [Vytvářejte soubory APPX pomocí Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Přehled MSIX](https://learn.microsoft.com/en-us/windows/msix/overview)
+* [Vytvářejte soubory APPX pomocí Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

@@ -43,5 +43,5 @@ A jelentés előnézetét csak a **ReportViewer** vezérlőben futtatva tekinthe
 
 ## Referenciák ##
 
-- [Creating Client Report Definition (.rdlc) fájlok](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
+- [Creating Client Report Definition (.rdlc) fájlok](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms252067(v=vs.100))
 

@@ -24,5 +24,5 @@ ATT файлът е междинен файл, генериран от уеб ф
 
 ## Препратки
 
-* [Уеб формуляри – Microsoft](https://docs.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
+* [Уеб формуляри – Microsoft](https://learn.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
 

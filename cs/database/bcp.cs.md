@@ -19,7 +19,7 @@
 
 ## Co je soubor BCP?
 
-BCP (Bulk Copy Format) je formát technických dat serveru Microsoft SQL Server, který definuje datové struktury pro ukládání různých hodnot datových typů databáze pro import/export. Formát plně definuje interpretaci každého sloupce dat tak, aby bylo možné číst sadu hodnot zadaných v datovém souboru. Nástroj [BCP](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/ms162802(v=sql.105)) používá ke čtení formát souboru BCP údaje z takového souboru a identifikovat jej.
+BCP (Bulk Copy Format) je formát technických dat serveru Microsoft SQL Server, který definuje datové struktury pro ukládání různých hodnot datových typů databáze pro import/export. Formát plně definuje interpretaci každého sloupce dat tak, aby bylo možné číst sadu hodnot zadaných v datovém souboru. Nástroj [BCP](https://learn.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/ms162802(v=sql.105)) používá ke čtení formát souboru BCP údaje z takového souboru a identifikovat jej.
 
 
 ## Formát souboru BCP
@@ -59,5 +59,5 @@ Struktura souboru formátu je znázorněna v následujícím formátu.
 
 ## Reference
 
-* [Formát BCP – Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
+* [Formát BCP – Microsoft](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
 

@@ -32,6 +32,6 @@ Ursprünglich wurde Visio 1992 in der Version 1.0 als eigenständiges Produkt vo
 
 ## Verweise ##
 
-* [Einführung in das Visio-Dateiformat](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
-* [Schema Map – Visio XML](https://docs.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
+* [Einführung in das Visio-Dateiformat](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Schema Map – Visio XML](https://learn.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
 

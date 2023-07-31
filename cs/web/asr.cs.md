@@ -27,5 +27,5 @@ Soubor ASR obsahuje skript, který je vyvinut ve standardním skriptovacím jazy
 ## Reference
 
 * [Adobe Contribute – z Wikipedie](https://en.wikipedia.org/wiki/Adobe_Contribute)
-* [Vytváření jednoduchých stránek ASP](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Vytváření jednoduchých stránek ASP](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

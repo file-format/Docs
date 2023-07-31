@@ -18,7 +18,7 @@
 
 ## Tệp BR là gì?
 
-Tệp BR là tệp web nén được tạo bằng cách áp dụng thuật toán nén dữ liệu mã nguồn mở, **Brotli**. Nó được sử dụng để lưu trữ nội dung trang web như biểu định kiểu ([CSS](/vi/web/css/)), hình ảnh ([SVG](/vi/image/svg/)), [XML](/vi/web/xml/) và tập lệnh tệp ([JS](/vi/web/js/)). Các trang web hiện đại, chẳng hạn như Chrome và Firefox, sử dụng tệp BR để giảm thời gian tải trang, mang lại trải nghiệm người dùng tốt hơn.
+Tệp BR là tệp web nén được tạo bằng cách áp dụng thuật toán nén dữ liệu mã nguồn mở, **Brotli**. Nó được sử dụng để lưu trữ nội dung trang web như biểu định kiểu ([CSS](/vi/web/css/)), hình ảnh ([SVG](/vi/page-description-language/svg/)), [XML](/vi/web/xml/) và tập lệnh tệp ([JS](/vi/web/js/)). Các trang web hiện đại, chẳng hạn như Chrome và Firefox, sử dụng tệp BR để giảm thời gian tải trang, mang lại trải nghiệm người dùng tốt hơn.
 
 ## Định dạng tệp BR
 

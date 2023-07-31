@@ -90,5 +90,5 @@ A betűtípusfájl minden táblájának saját táblakönyvtár-bejegyzéssel ke
 
 ## Hivatkozások
 * [TrueType Font Reference Manual](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [TrueType áttekintése](https://docs.microsoft.com/en-us/typography/truetype/)
+* [TrueType áttekintése](https://learn.microsoft.com/en-us/typography/truetype/)
 

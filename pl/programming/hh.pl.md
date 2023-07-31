@@ -54,6 +54,6 @@ Za pomocą tego nagłówka preprocesor sprawdza, czy `ANY_UNIQUE_NAME_HERE_HPP` 
 
 ## Bibliografia
 
-* [Pliki nagłówkowe — Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [Pliki nagłówkowe — Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 * [Różnice między formatami plików .h i .hh](https://stackoverflow.com/questions/10354321/c-reason-why-using-hh-as-extension-for-c-header-files)
 

@@ -22,7 +22,7 @@ Een FZP-bestand is een XML-bestand gemaakt door [Fritzing](https://fritzing.org/
 
 ## FZP-bestandsindeling - Meer informatie
 
-FZP-bestanden zijn XML-bestanden die informatie bevatten over de eigenschappen, connectoren en bussen van het onderdeel. Daarnaast bevatten FZP-bestanden ook informatie over de titel, beschrijving, auteur en publicatiedatum van het FZP-bestand. Wanneer een Fritzing-onderdeelbestand wordt geëxporteerd, maakt de Fritzing-app een [FZPZ](/nl/compression/fzpz/) gecomprimeerd archief aan dat een FZP-bestand en vier [SVG](/nl/image/svg/)-bestanden bevat.
+FZP-bestanden zijn XML-bestanden die informatie bevatten over de eigenschappen, connectoren en bussen van het onderdeel. Daarnaast bevatten FZP-bestanden ook informatie over de titel, beschrijving, auteur en publicatiedatum van het FZP-bestand. Wanneer een Fritzing-onderdeelbestand wordt geëxporteerd, maakt de Fritzing-app een [FZPZ](/nl/compression/fzpz/) gecomprimeerd archief aan dat een FZP-bestand en vier [SVG](/nl/page-description-language/svg/)-bestanden bevat.
 
 De [FZP bestandsformaatspecificaties](https://github.com/fritzing/fzp/blob/master/docs/README.md) zijn beschikbaar op Github door Fritzing.
 

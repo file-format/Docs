@@ -27,5 +27,5 @@ Zidentyfikowano, że pliki XPR wykorzystują lukę w Microsoft Expression Design
 
 ## Bibliografia
 
-* [Luka w zabezpieczeniach projektu wyrażenia może umożliwić zdalne wykonanie kodu (2651018)](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
+* [Luka w zabezpieczeniach projektu wyrażenia może umożliwić zdalne wykonanie kodu (2651018)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
 

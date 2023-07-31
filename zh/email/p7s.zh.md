@@ -34,5 +34,5 @@ P7S 文件包含以下信息：
 
 ## 参考 ＃＃
 
-* [微软签名工具](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
+* [微软签名工具](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
 

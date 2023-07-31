@@ -28,5 +28,5 @@
 ## Список літератури
 
 * [Пакети залежностей для пакетів .appx і .appxbundle](https://www.ibm.com/docs/en/maas360?topic=catalog-dependency-packages-appx-appxbundle-packages)
-* [Створіть файли APPX за допомогою Microsoft Visual Studio](https://docs.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+* [Створіть файли APPX за допомогою Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

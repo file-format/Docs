@@ -51,5 +51,5 @@ A következő lépésekkel nyithat meg egy MDMP-fájlt a Visual Studio alkalmaz�
 
 ## Referencia
 
-* [A Windows által létrehozott kis memóriaképfájl olvasása összeomlás esetén](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -fájl)
+* [A Windows által létrehozott kis memóriaképfájl olvasása összeomlás esetén](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -fájl)
 

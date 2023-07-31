@@ -27,5 +27,5 @@ APPXBUNDLE 파일은 파일 형식 사양을 공개적으로 사용할 수 없�
 
 ## 참고문헌
 
-* [앱 패키지 유형](https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
+* [앱 패키지 유형](https://learn.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
 

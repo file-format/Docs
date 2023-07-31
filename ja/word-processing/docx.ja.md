@@ -23,7 +23,7 @@ DOCX は、Microsoft Word ドキュメントのよく知られた形式です。
 
 ## 簡単な歴史 ##
 
-Microsoft が DOC ファイル形式の仕様を公開した後、競合他社が形式をリバース エンジニアリングし、独自のアプリケーションで同じサポートを提供することは容易になりました。さらに、Open Document Format という形での Open Office との競合により、Microsoft はよりオープンで幅広い標準を採用することを余儀なくされました。 Microsoft が **Office Open XML** の標準に対応するために変更を行うことを決定したのは、2000 年初頭のことでした。この新しい標準に基づくドキュメントには、[.docx 拡張子](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)、「X」が付けられました。 XML用です。 2007 年までに、この新しいファイル形式は Office 2007 の一部となり、Microsoft Office の新しいバージョンでも引き継がれています。新しいファイル タイプには、ファイル サイズが小さい、破損の変更が少ない、適切にフォーマットされた画像表現などの利点が追加されています。
+Microsoft が DOC ファイル形式の仕様を公開した後、競合他社が形式をリバース エンジニアリングし、独自のアプリケーションで同じサポートを提供することは容易になりました。さらに、Open Document Format という形での Open Office との競合により、Microsoft はよりオープンで幅広い標準を採用することを余儀なくされました。 Microsoft が **Office Open XML** の標準に対応するために変更を行うことを決定したのは、2000 年初頭のことでした。この新しい標準に基づくドキュメントには、[.docx 拡張子](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)、「X」が付けられました。 XML用です。 2007 年までに、この新しいファイル形式は Office 2007 の一部となり、Microsoft Office の新しいバージョンでも引き継がれています。新しいファイル タイプには、ファイル サイズが小さい、破損の変更が少ない、適切にフォーマットされた画像表現などの利点が追加されています。
 
 ## DOCX ファイル形式の仕様 - 詳細情報
 
@@ -105,6 +105,6 @@ Microsoft Word は、これらのファイルを使用して、ファイル間�
 
 ## 参照 ##
 
-* [MS - DOCX ファイル形式](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
+* [MS - DOCX ファイル形式](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
 * [Office Open XML](http://officeopenxml.com/)
 

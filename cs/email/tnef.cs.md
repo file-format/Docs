@@ -53,6 +53,6 @@ Kromě jednoduchého přenosu zpráv měla být původní aplikace TNEF vytvoře
 ## Reference
 
 * [Transport Neutral Encapsulation Format](https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
-* [E-mailové adresy a adresáře na Exchange Server](https://docs.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
+* [E-mailové adresy a adresáře na Exchange Server](https://learn.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
 * [[MS-OXTNEF]: Datový algoritmus TNEF (Transport Neutral Encapsulation Format)](https://msdn.microsoft.com/en-us/library/cc425498(v#exchg.80).aspx)
 

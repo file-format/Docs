@@ -38,5 +38,5 @@ SY_ 文件类似于 EX_ 和 DL_ 文件。
 ## 参考
 
 * [StuffIt - 来自维基百科](https://en.wikipedia.org/wiki/StuffIt)
-* [微软展开](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
+* [微软展开](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
 

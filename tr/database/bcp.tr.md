@@ -19,7 +19,7 @@
 
 ## BCP dosyası nedir?
 
-BCP (Bulk Copy Format), içe/dışa aktarma için farklı veritabanı veri türü değerlerini depolamak üzere veri yapılarını tanımlayan Microsoft SQL Server'ın teknik veri biçimidir. Biçim, veri dosyasında belirtilen değerler kümesinin okunabilmesi için her bir veri sütununun yorumlanmasını tam olarak tanımlar. [BCP](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/ms162802(v=sql.105)) yardımcı programı, okumak için BCP dosya biçimini kullanır böyle bir dosyadan veri ve onu tanımlayın.
+BCP (Bulk Copy Format), içe/dışa aktarma için farklı veritabanı veri türü değerlerini depolamak üzere veri yapılarını tanımlayan Microsoft SQL Server'ın teknik veri biçimidir. Biçim, veri dosyasında belirtilen değerler kümesinin okunabilmesi için her bir veri sütununun yorumlanmasını tam olarak tanımlar. [BCP](https://learn.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/ms162802(v=sql.105)) yardımcı programı, okumak için BCP dosya biçimini kullanır böyle bir dosyadan veri ve onu tanımlayın.
 
 
 ## BCP Dosya Biçimi
@@ -59,5 +59,5 @@ Biçim dosyasının yapısı aşağıdaki biçimde temsil edilir.
 
 ## Referanslar
 
-* [BCP Biçimi - Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
+* [BCP Biçimi - Microsoft](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
 

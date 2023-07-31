@@ -90,5 +90,5 @@ Mỗi bảng trong tệp phông chữ phải có mục nhập thư mục bảng 
 
 ## Người giới thiệu
 * [Hướng dẫn tham khảo phông chữ TrueType](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [Tổng quan về TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Tổng quan về TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

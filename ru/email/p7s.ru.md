@@ -34,5 +34,5 @@
 
 ## Использованная литература ##
 
-* [Инструмент Microsoft Sign](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
+* [Инструмент Microsoft Sign](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
 

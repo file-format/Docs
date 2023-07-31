@@ -90,5 +90,5 @@ Cada tabla en un archivo de fuente debe tener su propia entrada de directorio de
 
 ## Referencias
 * [Manual de referencia de fuentes TrueType](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [Descripción general de TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Descripción general de TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

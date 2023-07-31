@@ -26,7 +26,7 @@ Soubory DDS se ukládají jako binární soubory a lze je použít s DirectX SDK
 
 ### Rozložení souboru DDS
 
-[Rozvržení souboru DDS](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) bylo podrobně zdokumentováno společností Microsoft. Binární soubor DDS obsahuje následující informace.
+[Rozvržení souboru DDS](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide#dds-file-layout) bylo podrobně zdokumentováno společností Microsoft. Binární soubor DDS obsahuje následující informace.
 
 * DWORD (magické číslo) obsahující čtyřznakovou hodnotu kódu 'DDS' (0x20534444).
 * Popis dat v souboru.
@@ -38,7 +38,7 @@ DWORD               dwMagic;
 DDS_HEADER          header;
 ```
 
-[Průvodce programováním formátu souboru DDS](https://docs.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) dále rozvádí technické podrobnosti tohoto formátu souboru.
+[Průvodce programováním formátu souboru DDS](https://learn.microsoft.com/en-us/windows/win32/direct3ddds/dx-graphics-dds-pguide) dále rozvádí technické podrobnosti tohoto formátu souboru.
 
 ## Reference
 

@@ -40,5 +40,5 @@ struct WMA_TYPE_SPECIFIC_DATA
 ```
 ## Препратки
 
-* [Общ преглед на ASF - Microsoft](https://docs.microsoft.com/en-us/windows/win32/wmformat/overview-of-the-asf-format?redirectedfrom=MSDN)
+* [Общ преглед на ASF - Microsoft](https://learn.microsoft.com/en-us/windows/win32/wmformat/overview-of-the-asf-format)
 

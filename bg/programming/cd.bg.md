@@ -45,5 +45,5 @@ Visual Studio позволява конвертиране/експортиран
 
 ## Препратки
 
-* [Класове по проектиране във Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
+* [Класове по проектиране във Visual Studio](https://learn.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
 

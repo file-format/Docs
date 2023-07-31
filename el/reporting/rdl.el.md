@@ -61,5 +61,5 @@
 ## Βιβλιογραφικές αναφορές ##
 
 - [Γλώσσα ορισμού αναφοράς (Wikipedia)](https://en.wikipedia.org/wiki/Report_Definition_Language)
-- [Γλώσσα ορισμού αναφοράς (SSRS)](https://docs.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
+- [Γλώσσα ορισμού αναφοράς (SSRS)](https://learn.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
 

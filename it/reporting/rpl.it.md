@@ -307,5 +307,5 @@ L'elenco seguente mostra le enumerazioni che possono essere utilizzate nel fluss
 
 ## Riferimenti ##
 
-- [Formato di flusso binario del layout di pagina del report (RPL)](https://docs.microsoft.com/en-us/openspecs/sql_server_protocols/ms-rpl/9c4ff7ba-f6da-4092-9670-aa0e54e73887)
+- [Formato di flusso binario del layout di pagina del report (RPL)](https://learn.microsoft.com/en-us/openspecs/sql_server_protocols/ms-rpl/9c4ff7ba-f6da-4092-9670-aa0e54e73887)
 

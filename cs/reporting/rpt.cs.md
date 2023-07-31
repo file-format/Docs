@@ -34,7 +34,7 @@ Crystal Reports umožňuje vývojářům sestav poskytovat sestavy v rodných ja
 Navrhujte sestavy jako výpisy, faktury, prodejní a provozní zprávy, dopisy, přepravní dokumenty, marketingové materiály, dokumenty o shodě, ukazatele výkonu a mnoho dalších.
 
 ### Kompatibilita
-Výstup lze exportovat do formátů jako [XLS](/cs/tabulkový procesor/xlsx/), [CSV](/cs/tabulkový procesor/csv/), [PDF](/cs/pdf/), [DOCX](/cs/textový procesor/docx /), text nebo tisk s pixelově dokonalou přesností designu.
+Výstup lze exportovat do formátů jako [XLS](/cs/spreadsheet/xlsx/), [CSV](/cs/spreadsheet/csv/), [PDF](/cs/pdf/), [DOCX](/cs/word-processing/docx/), text nebo tisk s pixelově dokonalou přesností designu.
 
 
 

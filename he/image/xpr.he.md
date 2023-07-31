@@ -27,5 +27,5 @@
 
 ## הפניות
 
-* [פגיעות בעיצוב ביטוי עלולה לאפשר ביצוע קוד מרחוק (2651018)](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
+* [פגיעות בעיצוב ביטוי עלולה לאפשר ביצוע קוד מרחוק (2651018)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
 

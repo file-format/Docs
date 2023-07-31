@@ -31,7 +31,7 @@ Excel cung cấp các bước dễ sử dụng để ghi macro. Nó yêu cầu b
 
 ## Mô hình đối tượng Excel ##
 
-Macro sử dụng các quy trình VBA ở phía sau và tuân theo [Mô hình đối tượng Excel](https://docs.microsoft.com/en-us/office/vba/api/overview/excel/object-model) cho mục đích này. Mô hình này xác định các đối tượng của bảng tính để tương tác với bảng tính thông qua thanh công cụ lệnh, thanh lệnh hoặc hộp thông báo do người dùng xác định. Ví dụ: quyền truy cập vào các thuộc tính của sổ làm việc được cấp cho đối tượng Sổ làm việc. Tương tự, có đối tượng Worksheet trong mô hình để làm việc với các trang tính của sổ làm việc theo chương trình.
+Macro sử dụng các quy trình VBA ở phía sau và tuân theo [Mô hình đối tượng Excel](https://learn.microsoft.com/en-us/office/vba/api/overview/excel/object-model) cho mục đích này. Mô hình này xác định các đối tượng của bảng tính để tương tác với bảng tính thông qua thanh công cụ lệnh, thanh lệnh hoặc hộp thông báo do người dùng xác định. Ví dụ: quyền truy cập vào các thuộc tính của sổ làm việc được cấp cho đối tượng Sổ làm việc. Tương tự, có đối tượng Worksheet trong mô hình để làm việc với các trang tính của sổ làm việc theo chương trình.
 
 ## Macro và Bảo mật ##
 

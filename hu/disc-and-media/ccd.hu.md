@@ -25,7 +25,7 @@ A CCD-fájl a CloneCD Control (CCD) formátummal létrehozott lemezképfájlja. 
 
 A CCD-fájlformátum egy CloneCD szövegleíró .ccd kiterjesztéssel, amely a CD- vagy DVD-kép tulajdonságait jelöli. CD vagy DVD írásához a CCD-fájlt képfájllal kell kombinálni. Lehet hozzá egy alcsatorna fájl is. Ezt a formátumot közvetlenül használhatja a lemezemulátor vagy a Virtual CloneDrive. Ezenkívül a CCD-fájlok harmadik féltől származó virtuális meghajtókhoz is csatlakoztathatók, például a Daemon vagy az Alcohol Tools. A CCDISO alkalmazás az ISO9660-kompatibilis CCD-fájlok [ISO](/hu/compression/iso/) képpé alakítására szolgál.
 
-Az olyan formátumok, mint a [CUE](/hu/disc-and-media/cue), [BIN](/hu/disc-and-media/bin/), [MDS]() [MDF]() formátumok szerkezete hasonló a CCD-hez formátumban, amely egy nyers lemezképet és egy leíró fájlt tartalmaz.
+Az olyan formátumok, mint a [CUE](/hu/disc-and-media/cue/), [BIN](/hu/disc-and-media/bin/), [MDS]() [MDF]() formátumok szerkezete hasonló a CCD-hez formátumban, amely egy nyers lemezképet és egy leíró fájlt tartalmaz.
 
 ## Hivatkozások
 

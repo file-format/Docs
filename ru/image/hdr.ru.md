@@ -37,7 +37,7 @@
 ## API-интерфейсы HDR/HDRI с открытым исходным кодом
 
 * **[imageinfo](https://github.com/xiaozhuai/imageinfo)** — сверхбыстрая межплатформенная библиотека с одним заголовком [C++](/ru/programming/cpp/) для получения размера и формата изображения без загрузки/декодирования.
-* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** — библиотека Rust для получения размера и формата изображения без загрузки/декодирования. Поддерживает [.avif](/ru/image/avif/), [.bmp](/ru/image/bmp), [.cur](/ru/image/cur/), [.dds](/ru/image/dds/), [. gif](/ru/image/gif/), hdr (pic), [heic (heif)](/ru/image/heic/), [.icns](/ru/image/icns/), [.ico](/ru/image/ico /), [.jp2](/ru/image/jp2/), [jpeg (jpg)](/ru/image/jpeg/), [jpx](/ru/image/jpx/), ktx, [png](/ru/image/png /), [psd](/ru/image/psd/), qoi, tga, tiff (tif) и webp.
+* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** — библиотека Rust для получения размера и формата изображения без загрузки/декодирования. Поддерживает [.avif](/ru/image/avif/), [.bmp](/ru/image/bmp/), [.cur](/ru/image/cur/), [.dds](/ru/image/dds/), [. gif](/ru/image/gif/), hdr (pic), [heic (heif)](/ru/image/heic/), [.icns](/ru/image/icns/), [.ico](/ru/image/ico /), [.jp2](/ru/image/jp2/), [jpeg (jpg)](/ru/image/jpeg/), [jpx](/ru/image/jpx/), ktx, [png](/ru/image/png /), [psd](/ru/image/psd/), qoi, tga, tiff (tif) и webp.
 * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** — Java-реализация HdrHistogram.
 
 ## использованная литература

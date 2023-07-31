@@ -40,6 +40,6 @@
 
 ## Βιβλιογραφικές αναφορές ##
 
-* [Εισαγωγή στη μορφή αρχείου Visio](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
-* [Χάρτης σχήματος - Visio XML](https://docs.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
+* [Εισαγωγή στη μορφή αρχείου Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Χάρτης σχήματος - Visio XML](https://learn.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
 

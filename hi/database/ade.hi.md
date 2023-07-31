@@ -29,6 +29,6 @@ ADE संकलित एक्सेस डेटाबेस फ़ाइल�
 
 ## संदर्भ
 
-* [एक्सेस एडीई फाइलों के साथ समस्या](https://docs.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
+* [एक्सेस एडीई फाइलों के साथ समस्या](https://learn.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
 * [कौन से एक्सेस फ़ाइल स्वरूपों का उपयोग करना है](https://support.microsoft.com/en-us/office/who-access-file-format- should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

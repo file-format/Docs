@@ -18,7 +18,7 @@
 
 ## Tệp FZPZ là gì?
 
-Tệp FZPZ là một thành phần/bộ phận được sử dụng trong thiết kế mạch điện tử được tạo bằng ứng dụng thiết kế và tạo nguyên mẫu mạch **Fritzing**. Nó là một kho lưu trữ nén chứa tệp [FZP](/vi/cad/fzp/) và bốn hình ảnh [SVG](/vi/image/svg/) mô tả phần tổng thể trong Fritzing. Ưu điểm của việc sử dụng các tệp này là người dùng có thể chia sẻ các tệp FZPZ của họ với nhau từ quan điểm sử dụng lại. Việc chia sẻ các bộ phận FZPZ giúp tích hợp các bộ phận mạch để tạo ra các thiết kế PCB lớn hơn một cách nhanh chóng.
+Tệp FZPZ là một thành phần/bộ phận được sử dụng trong thiết kế mạch điện tử được tạo bằng ứng dụng thiết kế và tạo nguyên mẫu mạch **Fritzing**. Nó là một kho lưu trữ nén chứa tệp [FZP](/vi/cad/fzp/) và bốn hình ảnh [SVG](/vi/page-description-language/svg/) mô tả phần tổng thể trong Fritzing. Ưu điểm của việc sử dụng các tệp này là người dùng có thể chia sẻ các tệp FZPZ của họ với nhau từ quan điểm sử dụng lại. Việc chia sẻ các bộ phận FZPZ giúp tích hợp các bộ phận mạch để tạo ra các thiết kế PCB lớn hơn một cách nhanh chóng.
 
 ## Định dạng tệp FZPZ - Thông tin khác
 

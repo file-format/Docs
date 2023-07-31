@@ -82,6 +82,6 @@ Pro každou tabulku nejvyšší úrovně v písmu existuje záznam tabulky, kter
 Každá tabulka v souboru písem OpenType je reprezentována názvy známými jako značky tabulky. Je nutné, aby všechny záznamy v poli byly seřazeny vzestupně podle značky.
 
 ## Reference
-* [Specifikace písem OpenType od společnosti Microsoft](https://docs.microsoft.com/en-us/typography/opentype/spec/overview)
-* [Přehled TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Specifikace písem OpenType od společnosti Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+* [Přehled TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

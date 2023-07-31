@@ -32,5 +32,5 @@ HDMP là các tệp kết xuất bộ nhớ không nén. Ngược lại, MDMP l�
 
 ## Tài liệu tham khảo ##
 
-* [DMP - Microsoft](https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
+* [DMP - Microsoft](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
 

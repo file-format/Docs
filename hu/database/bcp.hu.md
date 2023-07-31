@@ -19,7 +19,7 @@
 
 ## Mi az a BCP fájl?
 
-A BCP (Bulk Copy Format) a Microsoft SQL Server műszaki adatformátuma, amely adatstruktúrákat határoz meg a különböző adatbázis-adattípus-értékek tárolására importálás/exportálás céljából. A formátum teljes mértékben meghatározza az egyes adatoszlopok értelmezését, hogy az adatfájlban megadott értékkészlet olvasható legyen. A [BCP](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/ms162802(v=sql.105)) segédprogram a BCP fájlformátumot használja az olvasáshoz egy ilyen fájlból származó adatokat, és azonosítsa azokat.
+A BCP (Bulk Copy Format) a Microsoft SQL Server műszaki adatformátuma, amely adatstruktúrákat határoz meg a különböző adatbázis-adattípus-értékek tárolására importálás/exportálás céljából. A formátum teljes mértékben meghatározza az egyes adatoszlopok értelmezését, hogy az adatfájlban megadott értékkészlet olvasható legyen. A [BCP](https://learn.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/ms162802(v=sql.105)) segédprogram a BCP fájlformátumot használja az olvasáshoz egy ilyen fájlból származó adatokat, és azonosítsa azokat.
 
 
 ## BCP fájlformátum
@@ -59,5 +59,5 @@ A formátumfájl szerkezete a következő formátumban látható.
 
 ## Hivatkozások
 
-* [BCP-formátum – Microsoft](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
+* [BCP-formátum – Microsoft](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
 

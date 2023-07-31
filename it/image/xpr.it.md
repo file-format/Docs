@@ -27,5 +27,5 @@ I file XPR sono stati identificati per avvantaggiare una vulnerabilità in Micro
 
 ## Riferimenti
 
-* [Una vulnerabilità nella progettazione delle espressioni potrebbe consentire l'esecuzione di codice in modalità remota (2651018)](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
+* [Una vulnerabilità nella progettazione delle espressioni potrebbe consentire l'esecuzione di codice in modalità remota (2651018)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
 

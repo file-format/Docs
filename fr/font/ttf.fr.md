@@ -90,5 +90,5 @@ Chaque table d'un fichier de police doit avoir sa propre entrée de répertoire 
 
 ## Références
 * [Manuel de référence des polices TrueType](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [Aperçu de TrueType](https://docs.microsoft.com/en-us/typography/truetype/)
+* [Aperçu de TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

@@ -38,4 +38,4 @@ Each Visio file is termed as package that holds other files or parts. A package 
 
 ## References ##
 
-* [Introduction to Visio File Format](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Introduction to Visio File Format](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)

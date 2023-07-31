@@ -54,6 +54,6 @@ HTML 도움말은 여러 구성 요소로 구성됩니다. 여기에는 다음�
 
 ## 참고문헌
 
-* [Microsoft HTML 도움말](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [Microsoft HTML 도움말](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 * [Microsoft Compiled HTML 도움말](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 

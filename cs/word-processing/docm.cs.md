@@ -19,7 +19,7 @@
 
 ## Co je soubor DOCM?
 
-Soubory DOCM jsou dokumenty generované aplikací Microsoft Word 2007 nebo vyšší s možností spouštět makra. Je podobný formátu souboru [DOCX](https://docs.fileformat.com/Word%20Processing/DOCX/), ale schopnost spouštět makra jej odlišuje od DOCX. Stejně jako DOCX lze do souborů DOCM ukládat text, obrázky, tabulky, tvary, grafy a další obsah. Schopnost spouštět makra usnadňuje úsporu času prováděním série příkazů ve formě zaznamenaných akcí pro automatické dokončení úkolu. . Soubory DOCM lze otevírat a upravovat v aplikaci Microsoft Word 2007 a vyšší.
+Soubory DOCM jsou dokumenty generované aplikací Microsoft Word 2007 nebo vyšší s možností spouštět makra. Je podobný formátu souboru [DOCX](https://docs.fileformat.com/word-processing/docx/), ale schopnost spouštět makra jej odlišuje od DOCX. Stejně jako DOCX lze do souborů DOCM ukládat text, obrázky, tabulky, tvary, grafy a další obsah. Schopnost spouštět makra usnadňuje úsporu času prováděním série příkazů ve formě zaznamenaných akcí pro automatické dokončení úkolu. . Soubory DOCM lze otevírat a upravovat v aplikaci Microsoft Word 2007 a vyšší.
 
 ## Stručná historie
 

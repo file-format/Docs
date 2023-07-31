@@ -56,5 +56,5 @@ Un marcaj de fișier este utilizat pentru separarea logică și accesul rapid î
 
 ## Referințe ##
 
-* [[MS-BCP]: Format de copiere în bloc](https://docs.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5?redirectedfrom=MSDN)
+* [[MS-BCP]: Format de copiere în bloc](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5?redirectedfrom=MSDN)
 

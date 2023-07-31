@@ -57,5 +57,5 @@ Una parte è un flusso di byte a cui è associato un tipo per specificare la nat
 
 ## Riferimenti ##
 
-* [Accesso al formato file modello](https://docs.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
+* [Accesso al formato file modello](https://learn.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-accdt/0a4a68d7-7a85-4a27-ad74-730db57862d7)
 

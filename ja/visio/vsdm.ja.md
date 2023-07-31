@@ -40,5 +40,5 @@ Visio ファイルのリレーションシップ パーツは "\_rels" フォル
 
 ## 参照 ##
 
-* [Visio ファイル形式の概要](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Visio ファイル形式の概要](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

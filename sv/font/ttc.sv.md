@@ -55,6 +55,6 @@ Här är TTC Header-tabellerna för båda versionerna:
 |uint32| dsigOffset |Offset (i byte) för DSIG-tabellen från början av TTC-filen (null om ingen signatur)|
 
 ## Referenser
-* [OpenType Font File](https://docs.microsoft.com/en-us/typography/opentype/spec/otff)
+* [OpenType Font File](https://learn.microsoft.com/en-us/typography/opentype/spec/otff)
 * [TrueType (Wikipedia)](https://en.wikipedia.org/wiki/TrueType)
 

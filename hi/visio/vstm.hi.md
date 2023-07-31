@@ -40,5 +40,5 @@ Visio फ़ाइल के संबंध भाग "_rels" फ़ोल्�
 
 ## संदर्भ ##
 
-* [Visio फाइल फॉर्मेट का परिचय](https://docs.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Visio फाइल फॉर्मेट का परिचय](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 

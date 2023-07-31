@@ -27,7 +27,7 @@ PPTX 文件格式于 2007 年推出，使用 Microsoft 早在 2000 年采用的 
 
 ## PPTX 文件格式规范
 
-使用 office Open XML 文件格式生成的文件是 XML 文件以及提供所有组成文件之间链接的其他文件的集合。这个集合实际上是一个压缩存档，可以提取它来查看它的内容。为此，只需使用 zip 重命名 PPTX 文件扩展名并将其解压缩以观察其内容（请参阅 [PPTX 文件格式规范](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/ efd8bb2d-d888-4e2e-af25-cad476730c9f) 由 Microsoft）。
+使用 office Open XML 文件格式生成的文件是 XML 文件以及提供所有组成文件之间链接的其他文件的集合。这个集合实际上是一个压缩存档，可以提取它来查看它的内容。为此，只需使用 zip 重命名 PPTX 文件扩展名并将其解压缩以观察其内容（请参阅 [PPTX 文件格式规范](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/ efd8bb2d-d888-4e2e-af25-cad476730c9f) 由 Microsoft）。
 
 以下部分对其中的每一个进行了说明。
 
@@ -90,6 +90,6 @@ r:id#"rId2" 引用幻灯片的关系部分 (slide1.xml.rels) 中的以下关系�
 
 ## 参考 ＃＃
 
-* [[MS-PPTX] - PPTX 文件格式](https://docs.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
+* [[MS-PPTX] - PPTX 文件格式](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
 * [打开 Office XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
 

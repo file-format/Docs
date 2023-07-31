@@ -86,5 +86,5 @@ typedef struct tagRGBQUAD {
 |Format 32 de biți|Imaginile pe 32 de biți au maximum 2^24 de culori (biBitCount == 24).
 
 ## Referințe ##
-* [Bitmaps independente de dispozitiv - de la Microsoft](https://docs.microsoft.com/en-us/windows/win32/gdi/device-independent-bitmaps)
+* [Bitmaps independente de dispozitiv - de la Microsoft](https://learn.microsoft.com/en-us/windows/win32/gdi/device-independent-bitmaps)
 

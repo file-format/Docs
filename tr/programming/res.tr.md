@@ -56,7 +56,7 @@ Sürüm kaynağındaki ana model **VS_FIXEDFILEINFO**'dur. Ek modeller, dil bilg
 
 ## Referanslar
 
-* [Kaynak Dosya Biçimleri](https://docs.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
+* [Kaynak Dosya Biçimleri](https://learn.microsoft.com/en-us/windows/win32/menurc/resource-file-formats)
  
 
 

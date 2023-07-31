@@ -90,5 +90,5 @@ Jede Tabelle in einer Schriftartdatei muss einen eigenen Tabellenverzeichniseint
 
 ## Verweise
 * [Referenzhandbuch für TrueType-Schriftarten](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-* [TrueType-Übersicht](https://docs.microsoft.com/en-us/typography/truetype/)
+* [TrueType-Übersicht](https://learn.microsoft.com/en-us/typography/truetype/)
 

@@ -27,7 +27,7 @@ XSD dosyaları, insan tarafından okunabilen düz metin dosyası biçiminde disk
 
 ## XSD Dosyası Örneği
 
-Bir satınalma siparişi şemasına sahip basit bir XSD dosyası, aşağıdaki [Microsoft tarafından sunulan XSD örneğinde](https://docs.Microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file) gösterildiği gibi etiketleri kullanan öğeleri tanımlar. -simple-schema?view=vs-2022).
+Bir satınalma siparişi şemasına sahip basit bir XSD dosyası, aşağıdaki [Microsoft tarafından sunulan XSD örneğinde](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file) gösterildiği gibi etiketleri kullanan öğeleri tanımlar. -simple-schema?view=vs-2022).
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
@@ -67,5 +67,5 @@ Burada aşağıdaki etiketler kullanılmaktadır.
 ## Referanslar ##
 
 - [Microsoft XML Not Defteri](https://microsoft.github.io/XmlNotepad/)
-- [XSD Örnek Örneği](https://docs.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
+- [XSD Örnek Örneği](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022)
 

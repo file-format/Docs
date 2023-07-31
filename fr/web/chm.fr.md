@@ -54,6 +54,6 @@ L'aide HTML est composée de plusieurs composants. Il s'agit notamment des élé
 
 ## Références
 
-* [Aide Microsoft HTML](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [Aide Microsoft HTML](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 * [Aide HTML compilée Microsoft](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 
