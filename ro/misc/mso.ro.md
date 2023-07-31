@@ -26,7 +26,7 @@ Fișierele MSO sunt salvate în Microsoft Compound Document File Format (MCDF), 
 
 ### Structura formatului fișierului MSO
 
-Structura internă a formatului de fișier a formatului de fișier MSO este bine definită în [Structuri](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/28488197-8193-49d7-84d8-dfd692418ccd ) secțiunea documentației MCDF. Tabelul de alocare a fișierelor (FAT) gestionează alocarea sectorului și lanțurile de sector. Conține o matrice de numere de sector pe 32 de biți. Fiecare index din matrice reprezintă un număr de sector, în timp ce valoarea acestuia reprezintă următorul sector din lanț sau o valoare specială.
+Structura internă a formatului de fișier a formatului de fișier MSO este bine definită în [Structuri](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/28488197-8193-49d7-84d8-dfd692418ccd) secțiunea documentației MCDF. Tabelul de alocare a fișierelor (FAT) gestionează alocarea sectorului și lanțurile de sector. Conține o matrice de numere de sector pe 32 de biți. Fiecare index din matrice reprezintă un număr de sector, în timp ce valoarea acestuia reprezintă următorul sector din lanț sau o valoare specială.
 
 ## Referințe
 

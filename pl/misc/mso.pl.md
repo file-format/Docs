@@ -26,7 +26,7 @@ Pliki MSO są zapisywane w formacie Microsoft Compound Document File Format (MCD
 
 ### Struktura formatu plików MSO
 
-Wewnętrzna struktura formatu plików MSO jest dobrze zdefiniowana w [Struktury](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/28488197-8193-49d7-84d8-dfd692418ccd ) sekcja dokumentacji MCDF. Tabela alokacji plików (FAT) zarządza alokacją sektorów i łańcuchami sektorów. Zawiera tablicę 32-bitowych numerów sektorów. Każdy indeks w tablicy reprezentuje numer sektora, podczas gdy jego wartość reprezentuje następny sektor w łańcuchu lub wartość specjalną.
+Wewnętrzna struktura formatu plików MSO jest dobrze zdefiniowana w [Struktury](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/28488197-8193-49d7-84d8-dfd692418ccd) sekcja dokumentacji MCDF. Tabela alokacji plików (FAT) zarządza alokacją sektorów i łańcuchami sektorów. Zawiera tablicę 32-bitowych numerów sektorów. Każdy indeks w tablicy reprezentuje numer sektora, podczas gdy jego wartość reprezentuje następny sektor w łańcuchu lub wartość specjalną.
 
 ## Bibliografia
 

@@ -26,7 +26,7 @@ MSO-bestanden worden opgeslagen in Microsoft Compound Document File Format (MCDF
 
 ### Structuur van MSO-bestandsindeling
 
-De interne bestandsindelingsstructuur van de MSO-bestandsindeling is goed gedefinieerd in de [Structures](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/28488197-8193-49d7-84d8-dfd692418ccd ) sectie van de MCDF-documentatie. De File Allocation Table (FAT) beheert de sectorverdeling en sectorketens. Het bevat een array van 32-bits sectornummers. Elke index in de array vertegenwoordigt een sectornummer, terwijl de waarde de volgende sector in de keten of een speciale waarde vertegenwoordigt.
+De interne bestandsindelingsstructuur van de MSO-bestandsindeling is goed gedefinieerd in de [Structures](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/28488197-8193-49d7-84d8-dfd692418ccd) sectie van de MCDF-documentatie. De File Allocation Table (FAT) beheert de sectorverdeling en sectorketens. Het bevat een array van 32-bits sectornummers. Elke index in de array vertegenwoordigt een sectornummer, terwijl de waarde de volgende sector in de keten of een speciale waarde vertegenwoordigt.
 
 ## Referenties
 

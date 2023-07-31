@@ -26,7 +26,7 @@ Os arquivos MSO são salvos no formato de arquivo composto de documento composto
 
 ### Estrutura de formato de arquivo MSO
 
-A estrutura de formato de arquivo interno do formato de arquivo MSO é bem definida nas [Estruturas](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/28488197-8193-49d7-84d8-dfd692418ccd ) da documentação do MCDF. A Tabela de Alocação de Arquivos (FAT) gerencia a alocação do setor e as cadeias do setor. Ele contém uma matriz de números de setor de 32 bits. Cada índice na matriz representa um número de setor, enquanto seu valor representa o próximo setor na cadeia ou um valor especial.
+A estrutura de formato de arquivo interno do formato de arquivo MSO é bem definida nas [Estruturas](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/28488197-8193-49d7-84d8-dfd692418ccd) da documentação do MCDF. A Tabela de Alocação de Arquivos (FAT) gerencia a alocação do setor e as cadeias do setor. Ele contém uma matriz de números de setor de 32 bits. Cada índice na matriz representa um número de setor, enquanto seu valor representa o próximo setor na cadeia ou um valor especial.
 
 ## Referências
 

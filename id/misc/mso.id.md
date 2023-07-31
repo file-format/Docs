@@ -26,7 +26,7 @@ File MSO disimpan dalam Microsoft Compound Document File Format (MCDF) yang juga
 
 ### Struktur Format File MSO
 
-Struktur format file internal format file MSO didefinisikan dengan baik di [Struktur](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/28488197-8193-49d7-84d8-dfd692418ccd ) bagian dari dokumentasi MCDF. Tabel Alokasi File (FAT) mengelola alokasi sektor dan rantai sektor. Ini berisi array nomor sektor 32-bit. Setiap indeks dalam larik mewakili nomor sektor sedangkan nilainya mewakili sektor berikutnya dalam rantai atau nilai khusus.
+Struktur format file internal format file MSO didefinisikan dengan baik di [Struktur](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/28488197-8193-49d7-84d8-dfd692418ccd) bagian dari dokumentasi MCDF. Tabel Alokasi File (FAT) mengelola alokasi sektor dan rantai sektor. Ini berisi array nomor sektor 32-bit. Setiap indeks dalam larik mewakili nomor sektor sedangkan nilainya mewakili sektor berikutnya dalam rantai atau nilai khusus.
 
 ## Referensi
 
