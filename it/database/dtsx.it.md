@@ -29,7 +29,7 @@ Il flusso di dati descritto da DTSX è come mostrato nell'immagine seguente.
 
 {{< figure src="../DataFlowDTSX.png" alt="Flusso di dati DTSX" >}}
 
-DTSX è basato su [XML](/it/web/xml/) ed è documentato in [MS-DTSX](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd). Il refactoring avanzato di DTSX XML è DTSX 2.0 che include nuovi attributi per le strutture, la sostituzione delle proprietà denominate come attributi XML principali, specifica i valori predefiniti per la maggior parte dei valori degli attributi e il posizionamento di elementi ripetuti all'interno di un elemento padre. Le strutture DTSX sono descritte utilizzando questi [schemi XML](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1) e il formato strutturale è celar-text XML.
+DTSX è basato su [XML](/it/web/xml/) ed è documentato in [MS-DTSX](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd). Il refactoring avanzato di DTSX XML è DTSX 2.0 che include nuovi attributi per le strutture, la sostituzione delle proprietà denominate come attributi XML principali, specifica i valori predefiniti per la maggior parte dei valori degli attributi e il posizionamento di elementi ripetuti all'interno di un elemento padre. Le strutture DTSX sono descritte utilizzando questi [schemi XML](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1) e il formato strutturale è celar-text XML.
 
 ## Riferimenti
 

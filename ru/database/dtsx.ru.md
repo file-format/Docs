@@ -29,7 +29,7 @@
 
 {{< figure src="../DataFlowDTSX.png" alt="Поток данных DTSX" >}}
 
-DTSX основан на [XML](/ru/web/xml/) и задокументирован в [MS-DTSX](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd). Расширенный рефакторинг DTSX XML — это DTSX 2.0, который включает в себя новые атрибуты структур, замену именованных свойств родительскими XML-атрибутами, определяет значения по умолчанию для большинства значений атрибутов и размещение повторяющихся элементов внутри родительского элемента. Структуры DTSX описываются с использованием этих [XML-схем](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1), а структурный формат незашифрованный текст XML.
+DTSX основан на [XML](/ru/web/xml/) и задокументирован в [MS-DTSX](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd). Расширенный рефакторинг DTSX XML — это DTSX 2.0, который включает в себя новые атрибуты структур, замену именованных свойств родительскими XML-атрибутами, определяет значения по умолчанию для большинства значений атрибутов и размещение повторяющихся элементов внутри родительского элемента. Структуры DTSX описываются с использованием этих [XML-схем](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1), а структурный формат незашифрованный текст XML.
 
 ## использованная литература
 

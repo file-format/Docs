@@ -29,7 +29,7 @@ Luồng dữ liệu được mô tả bởi DTSX như trong hình dưới đây.
 
 {{< figure src="../DataFlowDTSX.png" alt="Luồng dữ liệu DTSX" >}}
 
-DTSX dựa trên [XML](/vi/web/xml/) và được ghi lại trong [MS-DTSX](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13- 4b5b-a388-aa3c65aec1dd). Việc tái cấu trúc nâng cao của DTSX XML là DTSX 2.0 bao gồm các thuộc tính mới cho cấu trúc, thay thế các thuộc tính được đặt tên làm thuộc tính XML gốc, chỉ định các giá trị mặc định cho hầu hết các giá trị thuộc tính và vị trí của các phần tử lặp lại bên trong phần tử gốc. Cấu trúc DTSX được mô tả bằng [Lược đồ XML](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1) này và định dạng cấu trúc là XML văn bản rõ ràng.
+DTSX dựa trên [XML](/vi/web/xml/) và được ghi lại trong [MS-DTSX](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd). Việc tái cấu trúc nâng cao của DTSX XML là DTSX 2.0 bao gồm các thuộc tính mới cho cấu trúc, thay thế các thuộc tính được đặt tên làm thuộc tính XML gốc, chỉ định các giá trị mặc định cho hầu hết các giá trị thuộc tính và vị trí của các phần tử lặp lại bên trong phần tử gốc. Cấu trúc DTSX được mô tả bằng [Lược đồ XML](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1) này và định dạng cấu trúc là XML văn bản rõ ràng.
 
 ## Người giới thiệu
 
