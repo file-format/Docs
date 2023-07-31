@@ -24,7 +24,7 @@ Fișierele SYS sunt „fișiere de sistem” utilizate în aplicațiile Windows 
 
 ## Specificatii tehnice ##
 
-Fișierele .sys sunt de fapt subsetul formatului [BMP](/ro/image/bmp), deoarece permite doar combinații specifice. Formatul obișnuit al acestor fișiere este ca LOGOS.SYS, LOGOW.SYS și LOGO.SYS. Orice alte fișiere nu au acest format.
+Fișierele .sys sunt de fapt subsetul formatului [BMP](/ro/image/bmp/), deoarece permite doar combinații specifice. Formatul obișnuit al acestor fișiere este ca LOGOS.SYS, LOGOW.SYS și LOGO.SYS. Orice alte fișiere nu au acest format.
 
 Aceste fișiere sunt utilizate în principal în directorul *C* al Windows la momentul instalării. Cele mai multe probleme care gravitează în jurul driverelor de dispozitiv sunt rezolvate prin actualizarea sistemului de operare Windows. Detaliile și informațiile acestor fișiere pot fi vizualizate utilizând programele încorporate ale sistemului de operare Windows. Acestea cuprind, de asemenea, referințe la diferite module dintr-un sistem de operare.
 Câteva dintre exemplele de fișiere de sistem sunt:

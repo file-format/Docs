@@ -37,7 +37,7 @@ File gambar HDR terdiri dari tiga bagian berikut:
 ## API HDR/HDRI Sumber Terbuka
 
 * **[imageinfo](https://github.com/xiaozhuai/imageinfo )** - Pustaka [C++](/id/programming/cpp/) header tunggal super cepat lintas platform untuk mendapatkan ukuran dan format gambar tanpa memuat/decoding.
-* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Rust library untuk mendapatkan ukuran dan format gambar tanpa memuat/decoding. Mendukung [.avif](/id/image/avif/), [.bmp](/id/image/bmp), [.cur](/id/image/cur/), [.dds](/id/image/dds/), [. gif](/id/image/gif/), hdr (gambar), [heic (heif)](/id/image/heic/), [.icns](/id/image/icns/), [.ico](/id/image/ico /), [.jp2](/id/image/jp2/), [jpeg (jpg)](/id/image/jpeg/), [jpx](/id/image/jpx/), ktx, [png](/id/image/png /), [psd](/id/image/psd/), qoi, tga, tiff (tif), dan webp.
+* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Rust library untuk mendapatkan ukuran dan format gambar tanpa memuat/decoding. Mendukung [.avif](/id/image/avif/), [.bmp](/id/image/bmp/), [.cur](/id/image/cur/), [.dds](/id/image/dds/), [. gif](/id/image/gif/), hdr (gambar), [heic (heif)](/id/image/heic/), [.icns](/id/image/icns/), [.ico](/id/image/ico /), [.jp2](/id/image/jp2/), [jpeg (jpg)](/id/image/jpeg/), [jpx](/id/image/jpx/), ktx, [png](/id/image/png /), [psd](/id/image/psd/), qoi, tga, tiff (tif), dan webp.
 * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** - Implementasi Java untuk HdrHistogram.
 
 ## Referensi

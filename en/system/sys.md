@@ -24,7 +24,7 @@ The SYS files are "System files" used in Windows OS and MS-DOS applications. The
 
 ## Technichal Specification ##
 
-The .sys files are actually the subset of the [BMP](/image/bmp) format as it only allows specific combinations. The usual format of these files is like LOGOS.SYS, LOGOW.SYS, and LOGO.SYS. Any other files do not have this format.
+The .sys files are actually the subset of the [BMP](/image/bmp/) format as it only allows specific combinations. The usual format of these files is like LOGOS.SYS, LOGOW.SYS, and LOGO.SYS. Any other files do not have this format.
 
 These files are mostly used within the *C* directory of Windows at the time of installation. Most issues that revolve around device drivers are resolved by updating the Windows OS. The details and information of these files can be viewed by using the built-in programs of Windows OS. These also comprise the references to different modules in an operating system.
 Some of the examples of system files are :

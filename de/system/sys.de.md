@@ -24,7 +24,7 @@ Die SYS-Dateien sind "Systemdateien", die in Windows-Betriebssystemen und MS-DOS
 
 ## Technische Spezifikation ##
 
-Die .sys-Dateien sind eigentlich die Teilmenge des [BMP](/de/image/bmp)-Formats, da es nur bestimmte Kombinationen zulässt. Das übliche Format dieser Dateien ist wie LOGOS.SYS, LOGOW.SYS und LOGO.SYS. Alle anderen Dateien haben dieses Format nicht.
+Die .sys-Dateien sind eigentlich die Teilmenge des [BMP](/de/image/bmp/)-Formats, da es nur bestimmte Kombinationen zulässt. Das übliche Format dieser Dateien ist wie LOGOS.SYS, LOGOW.SYS und LOGO.SYS. Alle anderen Dateien haben dieses Format nicht.
 
 Diese Dateien werden zum Zeitpunkt der Installation hauptsächlich im *C*-Verzeichnis von Windows verwendet. Die meisten Probleme im Zusammenhang mit Gerätetreibern werden durch die Aktualisierung des Windows-Betriebssystems behoben. Die Details und Informationen dieser Dateien können mit den integrierten Programmen des Windows-Betriebssystems angezeigt werden. Dazu gehören auch die Verweise auf verschiedene Module in einem Betriebssystem.
 Einige der Beispiele für Systemdateien sind:

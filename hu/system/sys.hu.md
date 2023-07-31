@@ -24,7 +24,7 @@ A SYS fájlok a Windows operációs rendszerben és az MS-DOS alkalmazásokban h
 
 ## Műszaki specifikáció ##
 
-A .sys fájlok valójában a [BMP](/hu/image/bmp) formátum részhalmazai, mivel csak meghatározott kombinációkat tesz lehetővé. A fájlok szokásos formátuma a LOGOS.SYS, LOGOW.SYS és LOGO.SYS. A többi fájl nem rendelkezik ezzel a formátummal.
+A .sys fájlok valójában a [BMP](/hu/image/bmp/) formátum részhalmazai, mivel csak meghatározott kombinációkat tesz lehetővé. A fájlok szokásos formátuma a LOGOS.SYS, LOGOW.SYS és LOGO.SYS. A többi fájl nem rendelkezik ezzel a formátummal.
 
 Ezeket a fájlokat többnyire a Windows *C* könyvtárában használják a telepítéskor. Az eszközillesztőkkel kapcsolatos legtöbb probléma megoldható a Windows operációs rendszer frissítésével. A fájlok részleteit és információit a Windows operációs rendszer beépített programjaival tekintheti meg. Ezek tartalmazzák az operációs rendszer különböző moduljaira való hivatkozásokat is.
 Néhány példa a rendszerfájlokra:

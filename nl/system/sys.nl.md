@@ -24,7 +24,7 @@ De SYS-bestanden zijn "Systeembestanden" die worden gebruikt in Windows OS- en M
 
 ## Technische specificatie ##
 
-De .sys-bestanden zijn eigenlijk de subset van het [BMP](/nl/image/bmp)-formaat omdat het alleen specifieke combinaties toestaat. Het gebruikelijke formaat van deze bestanden is zoals LOGOS.SYS, LOGOW.SYS en LOGO.SYS. Alle andere bestanden hebben dit formaat niet.
+De .sys-bestanden zijn eigenlijk de subset van het [BMP](/nl/image/bmp/)-formaat omdat het alleen specifieke combinaties toestaat. Het gebruikelijke formaat van deze bestanden is zoals LOGOS.SYS, LOGOW.SYS en LOGO.SYS. Alle andere bestanden hebben dit formaat niet.
 
 Deze bestanden worden tijdens de installatie meestal gebruikt in de *C*-directory van Windows. De meeste problemen met apparaatstuurprogramma's worden opgelost door het Windows-besturingssysteem bij te werken. De details en informatie van deze bestanden kunnen worden bekeken met behulp van de ingebouwde programma's van Windows OS. Deze omvatten ook de verwijzingen naar verschillende modules in een besturingssysteem.
 Enkele voorbeelden van systeembestanden zijn:

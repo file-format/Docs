@@ -24,7 +24,7 @@ Các tệp SYS là "Tệp hệ thống" được sử dụng trong các ứng d�
 
 ## Đặc điểm kỹ thuật ##
 
-Các tệp .sys thực sự là tập hợp con của định dạng [BMP](/vi/image/bmp) vì nó chỉ cho phép các kết hợp cụ thể. Định dạng thông thường của các tệp này là LOGOS.SYS, LOGOW.SYS và LOGO.SYS. Bất kỳ tệp nào khác không có định dạng này.
+Các tệp .sys thực sự là tập hợp con của định dạng [BMP](/vi/image/bmp/) vì nó chỉ cho phép các kết hợp cụ thể. Định dạng thông thường của các tệp này là LOGOS.SYS, LOGOW.SYS và LOGO.SYS. Bất kỳ tệp nào khác không có định dạng này.
 
 Các tệp này chủ yếu được sử dụng trong thư mục *C* của Windows tại thời điểm cài đặt. Hầu hết các sự cố xoay quanh trình điều khiển thiết bị đều được giải quyết bằng cách cập nhật HĐH Windows. Có thể xem chi tiết và thông tin của các tệp này bằng cách sử dụng các chương trình tích hợp sẵn của HĐH Windows. Chúng cũng bao gồm các tham chiếu đến các mô-đun khác nhau trong một hệ điều hành.
 Một số ví dụ về tệp hệ thống là:

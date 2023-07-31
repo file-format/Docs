@@ -37,7 +37,7 @@
 ## Open-Source HDR/HDRI APIs
 
 * **[imageinfo](https://github.com/xiaozhuai/imageinfo )** - ไลบรารีส่วนหัวเดียวที่เร็วเป็นพิเศษข้ามแพลตฟอร์ม [C++](/th/programming/cpp/) เพื่อรับขนาดและรูปแบบรูปภาพโดยไม่ต้องโหลด/ถอดรหัส
-* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - ห้องสมุด Rust เพื่อรับขนาดและรูปแบบภาพโดยไม่ต้องโหลด/ถอดรหัส รองรับ [.avif](/th/image/avif/), [.bmp](/th/image/bmp), [.cur](/th/image/cur/), [.dds](/th/image/dds/), [ . gif](/th/image/gif/), hdr (รูปภาพ), [heic (heif)](/th/image/heic/), [.icns](/th/image/icns/), [.ico](/th/image/ico /), [.jp2](/th/image/jp2/), [jpeg (jpg)](/th/image/jpeg/), [jpx](/th/image/jpx/), ktx, [png](/th/image/png /), [psd](/th/image/psd/), qoi, tga, tiff (tif) และ webp
+* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - ห้องสมุด Rust เพื่อรับขนาดและรูปแบบภาพโดยไม่ต้องโหลด/ถอดรหัส รองรับ [.avif](/th/image/avif/), [.bmp](/th/image/bmp/), [.cur](/th/image/cur/), [.dds](/th/image/dds/), [ . gif](/th/image/gif/), hdr (รูปภาพ), [heic (heif)](/th/image/heic/), [.icns](/th/image/icns/), [.ico](/th/image/ico /), [.jp2](/th/image/jp2/), [jpeg (jpg)](/th/image/jpeg/), [jpx](/th/image/jpx/), ktx, [png](/th/image/png /), [psd](/th/image/psd/), qoi, tga, tiff (tif) และ webp
 * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** - การใช้งาน Java ของ HdrHistogram
 
 ## อ้างอิง
