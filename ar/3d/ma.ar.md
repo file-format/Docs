@@ -23,7 +23,7 @@
 
 ## تنسيق ملف MA
 
-يتم حفظ ملفات MA على القرص بتنسيق نصي ASCII بخلاف ملفات MB التي يتم حفظها بتنسيق ملف ثنائي على القرص. يتوفر مرجع مفصل لتنسيق ملف MA في [Autodesk Maya Documentation](https://download.autodesk.com/us/maya/2010help/index.html؟url=Glossary_M_ma_file_format.htm،topicNumber=d0e192001) ويمكن الرجوع إليه كمرجع للمطور.
+يتم حفظ ملفات MA على القرص بتنسيق نصي ASCII بخلاف ملفات MB التي يتم حفظها بتنسيق ملف ثنائي على القرص. يتوفر مرجع مفصل لتنسيق ملف MA في [Autodesk Maya Documentation](https://download.autodesk.com/us/maya/2010help/index.html?url=Glossary_M_ma_file_format.htm،topicNumber=d0e192001) ويمكن الرجوع إليه كمرجع للمطور.
 
 ### رأس ملف MA
 
@@ -75,5 +75,5 @@ requires specialPlugIn "1.2";
 
 ## مراجع
 
-* [تنظيم ملفات Maya ASCII - Autodesk](https://download.autodesk.com/us/maya/2010help/index.html؟url=Glossary_M_ma_file_format.htm،topicNumber=d0e192001)
+* [تنظيم ملفات Maya ASCII - Autodesk](https://download.autodesk.com/us/maya/2010help/index.html?url=Glossary_M_ma_file_format.htm،topicNumber=d0e192001)
 
