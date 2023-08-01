@@ -19,7 +19,7 @@
 
 ## Apa itu file APPXBUNDLE?
 
-File APPXBUNDLE adalah file paket yang dibuat dengan [Microsoft Visual Studio](https://visualstudio.microsoft.com/) dan digunakan untuk distribusi aplikasi Windows (Desktop dan UWP) di [Microsoft Store](https:// www.microsoft.com/en-us/store/apps/windows). Ini berisi satu atau lebih versi aplikasi, yang menargetkan arsitektur prosesor tertentu seperti x86, x64, atau ARM. Ini memungkinkan pengguna akhir untuk menerima dan menerapkan versi aplikasi yang sesuai berdasarkan arsitektur komputer. File APPXBUNDLE dikelompokkan bersama menggunakan format file [ZIP](/id/compression/zip/) standar. Metode Publikasi Microsoft Visual Studio digunakan untuk menerbitkan aplikasi sebagai bundel. Aplikasi paket tunggal didistribusikan sebagai file [APPX](/id/programming/appx/).
+File APPXBUNDLE adalah file paket yang dibuat dengan [Microsoft Visual Studio](https://visualstudio.microsoft.com/) dan digunakan untuk distribusi aplikasi Windows (Desktop dan UWP) di [Microsoft Store](https://apps.microsoft.com/store/apps). Ini berisi satu atau lebih versi aplikasi, yang menargetkan arsitektur prosesor tertentu seperti x86, x64, atau ARM. Ini memungkinkan pengguna akhir untuk menerima dan menerapkan versi aplikasi yang sesuai berdasarkan arsitektur komputer. File APPXBUNDLE dikelompokkan bersama menggunakan format file [ZIP](/id/compression/zip/) standar. Metode Publikasi Microsoft Visual Studio digunakan untuk menerbitkan aplikasi sebagai bundel. Aplikasi paket tunggal didistribusikan sebagai file [APPX](/id/programming/appx/).
 
 ## Format File APPXBUNDLE
 

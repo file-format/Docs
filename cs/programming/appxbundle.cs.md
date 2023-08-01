@@ -19,7 +19,7 @@
 
 ## Co je soubor APPXBUNDLE?
 
-Soubor APPXBUNDLE je soubor balíčku vytvořený pomocí [Microsoft Visual Studio](https://visualstudio.microsoft.com/) a používá se k distribuci aplikací pro Windows (pro počítače i UWP) v [Microsoft Store](https:// www.microsoft.com/en-us/store/apps/windows). Obsahuje jednu nebo více verzí aplikace zaměřených na konkrétní architekturu procesoru, jako je x86, x64 nebo ARM. To umožňuje koncovému uživateli přijímat a nasazovat příslušnou verzi aplikace na základě architektury počítače. Soubory APPXBUNDLE jsou seskupeny pomocí standardního formátu souboru [ZIP](/cs/compression/zip/). K publikování aplikací jako balíčku se používá metoda Publish v aplikaci Microsoft Visual Studio. Aplikace s jedním balíčkem jsou distribuovány jako soubory [APPX](/cs/programming/appx/).
+Soubor APPXBUNDLE je soubor balíčku vytvořený pomocí [Microsoft Visual Studio](https://visualstudio.microsoft.com/) a používá se k distribuci aplikací pro Windows (pro počítače i UWP) v [Microsoft Store](https://apps.microsoft.com/store/apps). Obsahuje jednu nebo více verzí aplikace zaměřených na konkrétní architekturu procesoru, jako je x86, x64 nebo ARM. To umožňuje koncovému uživateli přijímat a nasazovat příslušnou verzi aplikace na základě architektury počítače. Soubory APPXBUNDLE jsou seskupeny pomocí standardního formátu souboru [ZIP](/cs/compression/zip/). K publikování aplikací jako balíčku se používá metoda Publish v aplikaci Microsoft Visual Studio. Aplikace s jedním balíčkem jsou distribuovány jako soubory [APPX](/cs/programming/appx/).
 
 ## Formát souboru APPXBUNDLE
 

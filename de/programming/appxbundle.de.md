@@ -19,7 +19,7 @@
 
 ## Was ist eine APPXBUNDLE-Datei?
 
-Eine APPXBUNDLE-Datei ist eine Paketdatei, die mit [Microsoft Visual Studio](https://visualstudio.microsoft.com/) erstellt wurde und für die Verteilung von Windows-Apps (sowohl Desktop als auch UWP) im [Microsoft Store](https:// www.microsoft.com/en-us/store/apps/windows). Es enthält eine oder mehrere Versionen einer App, die auf eine bestimmte Prozessorarchitektur wie x86, x64 oder ARM abzielt. Dadurch kann der Endbenutzer die geeignete Version der App basierend auf der Computerarchitektur empfangen und bereitstellen. APPXBUNDLE-Dateien werden unter Verwendung des Standarddateiformats [ZIP](/de/compression/zip/) gruppiert. Die Publish-Methode von Microsoft Visual Studio wird verwendet, um die Apps als Bundle zu veröffentlichen. Einzelpaket-Apps werden als [APPX](/de/programming/appx/)-Dateien verteilt.
+Eine APPXBUNDLE-Datei ist eine Paketdatei, die mit [Microsoft Visual Studio](https://visualstudio.microsoft.com/) erstellt wurde und für die Verteilung von Windows-Apps (sowohl Desktop als auch UWP) im [Microsoft Store](https://apps.microsoft.com/store/apps). Es enthält eine oder mehrere Versionen einer App, die auf eine bestimmte Prozessorarchitektur wie x86, x64 oder ARM abzielt. Dadurch kann der Endbenutzer die geeignete Version der App basierend auf der Computerarchitektur empfangen und bereitstellen. APPXBUNDLE-Dateien werden unter Verwendung des Standarddateiformats [ZIP](/de/compression/zip/) gruppiert. Die Publish-Methode von Microsoft Visual Studio wird verwendet, um die Apps als Bundle zu veröffentlichen. Einzelpaket-Apps werden als [APPX](/de/programming/appx/)-Dateien verteilt.
 
 ## APPXBUNDLE-Dateiformat
 

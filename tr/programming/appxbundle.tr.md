@@ -19,7 +19,7 @@
 
 ## APPXBUNDLE dosyası nedir?
 
-APPXBUNDLE dosyası, [Microsoft Visual Studio](https://visualstudio.microsoft.com/) ile oluşturulan bir paket dosyasıdır ve Windows uygulamalarının (hem Masaüstü hem de UWP) [Microsoft Store](https://) üzerinde dağıtımı için kullanılır. www.microsoft.com/en-us/store/apps/windows). x86, x64 veya ARM gibi belirli işlemci mimarisini hedefleyen bir uygulamanın bir veya daha fazla sürümünü içerir. Bu, son kullanıcının bilgisayar mimarisine dayalı olarak uygulamanın uygun sürümünü almasına ve dağıtmasına olanak tanır. APPXBUNDLE dosyaları, standart [ZIP](/tr/compression/zip/) dosya formatı kullanılarak birlikte gruplandırılır. Microsoft Visual Studio'nun Yayınlama yöntemi, uygulamaları bir paket olarak yayınlamak için kullanılır. Tek paket uygulamalar, [APPX](/tr/programming/appx/) dosyaları olarak dağıtılır.
+APPXBUNDLE dosyası, [Microsoft Visual Studio](https://visualstudio.microsoft.com/) ile oluşturulan bir paket dosyasıdır ve Windows uygulamalarının (hem Masaüstü hem de UWP) [Microsoft Store](https://apps.microsoft.com/store/apps) üzerinde dağıtımı için kullanılır. x86, x64 veya ARM gibi belirli işlemci mimarisini hedefleyen bir uygulamanın bir veya daha fazla sürümünü içerir. Bu, son kullanıcının bilgisayar mimarisine dayalı olarak uygulamanın uygun sürümünü almasına ve dağıtmasına olanak tanır. APPXBUNDLE dosyaları, standart [ZIP](/tr/compression/zip/) dosya formatı kullanılarak birlikte gruplandırılır. Microsoft Visual Studio'nun Yayınlama yöntemi, uygulamaları bir paket olarak yayınlamak için kullanılır. Tek paket uygulamalar, [APPX](/tr/programming/appx/) dosyaları olarak dağıtılır.
 
 ## APPXBUNDLE Dosya Biçimi
 
