@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo RTF?
 
-Presentado y documentado por Microsoft, el formato de texto enriquecido (**RTF**) representa un método de codificación de texto y gráficos con formato para su uso dentro de las aplicaciones. El formato facilita el intercambio de documentos multiplataforma con otros Productos de Microsoft, cumpliendo así el propósito de la interoperabilidad. Esta capacidad lo convierte en un estándar de transferencia de datos entre software de procesamiento de texto y, por lo tanto, los contenidos se pueden transferir de un sistema operativo a otro sin perder el formato del documento. Las especificaciones de formato de archivo están disponibles por Microsoft para [descarga] pública (https://www.microsoft.com/en-us/download/details.aspx?id#10725) y se pueden consultar desde la perspectiva del desarrollador.
+Presentado y documentado por Microsoft, el formato de texto enriquecido (**RTF**) representa un método de codificación de texto y gráficos con formato para su uso dentro de las aplicaciones. El formato facilita el intercambio de documentos multiplataforma con otros Productos de Microsoft, cumpliendo así el propósito de la interoperabilidad. Esta capacidad lo convierte en un estándar de transferencia de datos entre software de procesamiento de texto y, por lo tanto, los contenidos se pueden transferir de un sistema operativo a otro sin perder el formato del documento. Las especificaciones de formato de archivo están disponibles por Microsoft para [descarga] pública (https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf) y se pueden consultar desde la perspectiva del desarrollador.
 
 ## Breve historia del formato de archivo RTF ##
 
@@ -63,7 +63,7 @@ Un grupo puede constar de texto, palabras de control o símbolos de control ence
 
 Un archivo RTF tiene la siguiente sintaxis estándar:
 
-Presentado y documentado por Microsoft, el formato de texto enriquecido (**RTF**) representa un método de codificación de texto y gráficos con formato para su uso dentro de las aplicaciones. El formato facilita el intercambio de documentos multiplataforma con otros Productos de Microsoft, cumpliendo así el propósito de la interoperabilidad. Esta capacidad lo convierte en un estándar de transferencia de datos entre software de procesamiento de texto y, por lo tanto, los contenidos se pueden transferir de un sistema operativo a otro sin perder el formato del documento. Las especificaciones de formato de archivo están disponibles por Microsoft para [descarga] pública (https://www.microsoft.com/en-us/download/details.aspx?id#10725) y se pueden consultar desde la perspectiva del desarrollador.
+Presentado y documentado por Microsoft, el formato de texto enriquecido (**RTF**) representa un método de codificación de texto y gráficos con formato para su uso dentro de las aplicaciones. El formato facilita el intercambio de documentos multiplataforma con otros Productos de Microsoft, cumpliendo así el propósito de la interoperabilidad. Esta capacidad lo convierte en un estándar de transferencia de datos entre software de procesamiento de texto y, por lo tanto, los contenidos se pueden transferir de un sistema operativo a otro sin perder el formato del documento. Las especificaciones de formato de archivo están disponibles por Microsoft para [descarga] pública (https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf) y se pueden consultar desde la perspectiva del desarrollador.
 
 #### Encabezado RTF ####
 
@@ -128,6 +128,6 @@ Todo documento RTF debe terminar con un }, para cerrar el grupo abierto por el {
 
 ## Referencias ##
 
-* [Especificaciones de RTF 1.9.1](https://www.microsoft.com/en-us/download/details.aspx?id#10725)
+* [Especificaciones de RTF 1.9.1](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf)
 * [Formato de texto enriquecido](https://en.wikipedia.org/wiki/Rich_Text_Format)
 

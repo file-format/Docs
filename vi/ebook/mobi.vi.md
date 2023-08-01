@@ -43,5 +43,5 @@ Vì MOBI là định dạng tệp độc quyền nên thông tin chi tiết về
 
 ## Người giới thiệu
 
-* [Định dạng tệp MobiPocket](https://web.archive.org/web/20160414103204/http://www.mobipocket.com/dev/article.asp?BaseFolder#prcgen&File#mobiformat.htm)
+* [Định dạng tệp MobiPocket](https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
 

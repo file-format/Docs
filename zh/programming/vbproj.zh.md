@@ -23,7 +23,7 @@
 
 ## VBPROJ 文件格式 - 更多信息
 
-VBPROJ 文件是基于 [MSBuild XML 架构](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-) 以 [XML](/zh/web/xml/) 文件格式编写的文本文件项目文件架构参考？view=vs-2019）。 VBPROJ 文件包含 XML 标记形式的信息，这些标记定义与该特定设置组相关的信息。强烈建议在 Microsoft Visual Studio IDE 中打开和编辑这些设置文件。
+VBPROJ 文件是基于 [MSBuild XML 架构](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019) 以 [XML](/zh/web/xml/) 文件格式编写的文本文件项目文件架构参考 VBPROJ 文件包含 XML 标记形式的信息，这些标记定义与该特定设置组相关的信息。强烈建议在 Microsoft Visual Studio IDE 中打开和编辑这些设置文件。
 
 ### VBPROJ 元素
 

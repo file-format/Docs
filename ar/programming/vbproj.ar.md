@@ -23,7 +23,7 @@
 
 ## تنسيق ملف VBPROJ - مزيد من المعلومات
 
-ملفات VBPROJ هي ملفات نصية مكتوبة بتنسيق ملف [XML](/ar/web/xml/) بناءً على [MSBuild XML Schema](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild- مشروع-ملف-مخطط-مرجع؟ عرض = مقابل -2019). يحتوي ملف VBPROJ على معلومات في شكل علامات XML التي تحدد المعلومات المتعلقة بمجموعة الإعدادات المحددة. يوصى بشدة بفتح ملفات الإعداد هذه وتحريرها في Microsoft Visual Studio IDE.
+ملفات VBPROJ هي ملفات نصية مكتوبة بتنسيق ملف [XML](/ar/web/xml/) بناءً على [MSBuild XML Schema](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019). يحتوي ملف VBPROJ على معلومات في شكل علامات XML التي تحدد المعلومات المتعلقة بمجموعة الإعدادات المحددة. يوصى بشدة بفتح ملفات الإعداد هذه وتحريرها في Microsoft Visual Studio IDE.
 
 ### عناصر VBPROJ
 
@@ -43,5 +43,5 @@
 ## مراجع
 
 * [Understanding the Project File](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
-* [عناصر مخطط MSBuild](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference؟view=vs-2019)
+* [عناصر مخطط MSBuild](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
 

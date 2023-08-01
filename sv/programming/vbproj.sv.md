@@ -23,7 +23,7 @@ En fil med tillägget .vbproj är en Microsoft Visual Basic-projektfil som anvä
 
 ## VBPROJ-filformat - Mer information
 
-VBPROJ-filer är textfiler som är skrivna i [XML](/sv/web/xml/) filformat baserat på [MSBuild XML Schema](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild- project-file-schema-reference?view=vs-2019). En VBPROJ-fil innehåller information i form av XML-taggar som definierar information relaterad till den specifika gruppen av inställningar. Det rekommenderas starkt att öppna och redigera dessa inställningsfiler i Microsoft Visual Studio IDE.
+VBPROJ-filer är textfiler som är skrivna i [XML](/sv/web/xml/) filformat baserat på [MSBuild XML Schema](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019). En VBPROJ-fil innehåller information i form av XML-taggar som definierar information relaterad till den specifika gruppen av inställningar. Det rekommenderas starkt att öppna och redigera dessa inställningsfiler i Microsoft Visual Studio IDE.
 
 ### VBPROJ-element
 

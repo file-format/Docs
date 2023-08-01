@@ -26,7 +26,7 @@ MSO-filer sparas i Microsoft Compound Document File Format (MCDF) som också är
 
 ### MSO-filformatstruktur
 
-Den interna filformatstrukturen för MSO-filformat är väldefinierad i [Structures](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/28488197-8193-49d7-84d8-dfd692418ccd ) i MCDF-dokumentationen. Filallokeringstabellen (FAT) hanterar sektorallokeringen och sektorkedjorna. Den innehåller en matris med 32-bitars sektornummer. Varje index i arrayen representerar ett sektornummer medan dess värde representerar nästa sektor i kedjan eller ett speciellt värde.
+Den interna filformatstrukturen för MSO-filformat är väldefinierad i [Structures](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/28488197-8193-49d7-84d8-dfd692418ccd) i MCDF-dokumentationen. Filallokeringstabellen (FAT) hanterar sektorallokeringen och sektorkedjorna. Den innehåller en matris med 32-bitars sektornummer. Varje index i arrayen representerar ett sektornummer medan dess värde representerar nästa sektor i kedjan eller ett speciellt värde.
 
 ## Referenser
 

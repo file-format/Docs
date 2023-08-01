@@ -51,5 +51,5 @@ Windows เก็บรายการไฟล์การถ่ายโอน
 
 ## อ้างอิง
 
-* [วิธีอ่านไฟล์การถ่ายโอนข้อมูลหน่วยความจำขนาดเล็กที่สร้างโดย Windows หากเกิดปัญหาขึ้น](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -ไฟล์)
+* [วิธีอ่านไฟล์การถ่ายโอนข้อมูลหน่วยความจำขนาดเล็กที่สร้างโดย Windows หากเกิดปัญหาขึ้น](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
 

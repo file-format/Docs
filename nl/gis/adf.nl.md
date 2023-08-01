@@ -35,6 +35,4 @@ GRID-rasters worden opgeslagen in werkruimten, waar een werkruimte één info-su
 
 ## Referenties ##
 
-* [ESRI-rasterindeling](https://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//009t0000000w000000)
-* [FAQ: Wat is de bestandsstructuur van een Arc/INFO Grid?](https://support.esri.com/en/technical-article/000008526)
-
+* [ESRI-rasterindeling](https://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/esri-grid-format.htm)

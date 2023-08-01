@@ -29,6 +29,6 @@ Formát AMV byl navržen tak, aby umožnil levným a snadno dostupným čínský
 
 ## Reference ##
 
-– [formát videa AMV – Wikipedie](https://en.wikipedia.org/wiki/formát_AMV_video)
+– [formát videa AMV – Wikipedie](https://en.wikipedia.org/wiki/AMV_video_format)
 
 

@@ -23,7 +23,7 @@
 
 ## تنسيق ملف MEL - مزيد من المعلومات
 
-يتوفر [دليل مرجعي] للمبرمج (https://download.autodesk.com/us/maya/2009help/index.html؟url=Glossary_M_.mb_file_format.htm،topicNumber=d0e193865) للمطورين في قسم وثائق Maya. يعتمد MEL على أوامر البرمجة النصية للقذيفة ، على غرار UINX ، لتحقيق الأشياء. الأوامر المستندة إلى البرمجة النصية تجعلها غير ذات صلة بالبرمجة التقليدية والموجهة للكائنات (OOP) ، مما يؤدي إلى عدم استخدام هياكل البيانات أو وظائف الاستدعاء أو استخدام OOP كما هو الحال في اللغات الأخرى.
+يتوفر [دليل مرجعي] للمبرمج (https://download.autodesk.com/us/maya/2009help/index.html?url=Glossary_M_.mb_file_format.htm,topicNumber=d0e193865) للمطورين في قسم وثائق Maya. يعتمد MEL على أوامر البرمجة النصية للقذيفة ، على غرار UINX ، لتحقيق الأشياء. الأوامر المستندة إلى البرمجة النصية تجعلها غير ذات صلة بالبرمجة التقليدية والموجهة للكائنات (OOP) ، مما يؤدي إلى عدم استخدام هياكل البيانات أو وظائف الاستدعاء أو استخدام OOP كما هو الحال في اللغات الأخرى.
 
 فيما يلي بعض النقاط الرئيسية حول MEL.
 
@@ -57,5 +57,5 @@ $b = `getAttr mySphere.translateY`; // Command syntax
 
 ## مراجع
 
-* [MEL](https://download.autodesk.com/us/maya/2009help/index.html؟url=Glossary_M_.mb_file_format.htm،topicNumber=d0e193865)
+* [MEL](https://download.autodesk.com/us/maya/2009help/index.html?url=Glossary_M_.mb_file_format.htm,topicNumber=d0e193865)
 

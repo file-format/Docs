@@ -48,6 +48,6 @@
 
 ## संदर्भ
 
-* [IEAK 11 के साथ इंटरनेट सेटिंग्स (.INS) फ़ाइलों का उपयोग करना](https://learn.microsoft.com/en-us/internet-explorer/ie11-ieak/use-internet-settings-ins-files)
+* [IEAK 11 के साथ इंटरनेट सेटिंग्स (.INS) फ़ाइलों का उपयोग करना](https://learn.microsoft.com/en-us/internet-explorer/ie11-ieak/using-internet-settings-ins-files)
 
 

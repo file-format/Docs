@@ -27,6 +27,6 @@ NUPKG 파일은 내부에 패키지 라이브러리를 포함하는 [ZIP](/ko/co
 ## 참조
 
 * [Nuget.org](https://nuget.org)
-* [빠른 시작: Visual Studio에서 패키지 설치 및 사용(Windows만 해당)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual- 사진관)
-* [Nuget 패키지 생성 및 게시 방법](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore- 클리)
+* [빠른 시작: Visual Studio에서 패키지 설치 및 사용(Windows만 해당)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual-studio)
+* [Nuget 패키지 생성 및 게시 방법](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore-cli)
 

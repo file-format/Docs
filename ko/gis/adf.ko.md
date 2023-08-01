@@ -35,6 +35,5 @@ GRID 래스터는 작업 공간에 저장되며, 작업 공간에는 각 GRID에
 
 ## 참조 ##
 
-* [ESRI 그리드 형식](https://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//009t0000000w000000)
-* [FAQ: Arc/INFO Grid의 파일 구조는 무엇인가요?](https://support.esri.com/en/technical-article/000008526)
+* [ESRI 그리드 형식](https://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/esri-grid-format.htm)
 

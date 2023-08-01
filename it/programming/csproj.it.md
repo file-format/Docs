@@ -94,5 +94,5 @@ Le attività devono sempre essere contenute negli elementi [Target](https://msdn
 
 ## Riferimenti
 
-* [Capire il file di progetto - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- file)
+* [Capire il file di progetto - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
 

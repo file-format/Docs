@@ -94,5 +94,5 @@
 
 ## הפניות
 
-* [הבנת קובץ הפרויקט - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- קוֹבֶץ)
+* [הבנת קובץ הפרויקט - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
 

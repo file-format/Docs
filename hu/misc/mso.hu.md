@@ -26,7 +26,7 @@ Az MSO-fájlok mentése Microsoft összetett dokumentumfájl-formátumban (MCDF)
 
 ### MSO fájlformátum szerkezete
 
-Az MSO-fájlformátum belső fájlformátum-struktúrája jól meghatározott a [Struktúrák](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/28488197-8193-49d7-84d8-dfd692418ccd ) szakasza az MCDF dokumentációjában. A File Allocation Table (FAT) kezeli a szektorok elosztását és a szektorláncokat. 32 bites szektorszámok tömbjét tartalmazza. A tömb minden indexe egy szektorszámot jelöl, míg az értéke a lánc következő szektorát vagy egy speciális értéket képvisel.
+Az MSO-fájlformátum belső fájlformátum-struktúrája jól meghatározott a [Struktúrák](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/28488197-8193-49d7-84d8-dfd692418ccd) szakasza az MCDF dokumentációjában. A File Allocation Table (FAT) kezeli a szektorok elosztását és a szektorláncokat. 32 bites szektorszámok tömbjét tartalmazza. A tömb minden indexe egy szektorszámot jelöl, míg az értéke a lánc következő szektorát vagy egy speciális értéket képvisel.
 
 ## Hivatkozások
 

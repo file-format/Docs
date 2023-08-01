@@ -35,6 +35,4 @@ GRID ラスターはワークスペースに格納されます。ワークスペ
 
 ## 参照 ##
 
-* [ESRI グリッド形式](https://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//009t0000000w000000)
-* [よくある質問: Arc/INFO Grid のファイル構造は?](https://support.esri.com/en/technical-article/000008526)
-
+* [ESRI グリッド形式](https://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/esri-grid-format.htm)

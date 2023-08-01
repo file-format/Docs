@@ -35,6 +35,6 @@ Los rásteres de GRID se almacenan en espacios de trabajo, donde un espacio de t
 
 ## Referencias ##
 
-* [Formato de cuadrícula ESRI](https://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//009t0000000w000000)
-* [FAQ: ¿Cuál es la estructura de archivos de un Arc/INFO Grid?](https://support.esri.com/en/technical-article/000008526)
+* [Formato de cuadrícula ESRI](https://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/esri-grid-format.htm)
+
 

@@ -51,5 +51,5 @@ Windows 在 %SystemRoot%\Minidump 文件夹中保留所有内存转储文件的�
 
 ## 参考
 
-* [发生崩溃时如何读取Windows创建的小内存转储文件](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -文件）
+* [发生崩溃时如何读取Windows创建的小内存转储文件](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
 

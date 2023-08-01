@@ -31,5 +31,5 @@ Een CMS-profielbestand wordt gemaakt met Verbindingsbeheer en wordt samen met an
 
 ## Referenties
 
-* [Windows-verbindingsbeheer begrijpen en configureren](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configure-windows-connection-manager)
+* [Windows-verbindingsbeheer begrijpen en configureren](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
 

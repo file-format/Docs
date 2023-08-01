@@ -27,6 +27,6 @@ Các tệp NUPKG là các tệp lưu trữ [ZIP](/vi/compression/zip/) chứa c�
 ## Tài liệu tham khảo
 
 * [Nuget.org](https://nuget.org)
-* [Khởi động nhanh: Cài đặt và sử dụng gói trong Visual Studio (chỉ dành cho Windows)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual- phòng thu)
-* [Cách tạo và xuất bản gói Nuget](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore- cli)
+* [Khởi động nhanh: Cài đặt và sử dụng gói trong Visual Studio (chỉ dành cho Windows)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual-studio)
+* [Cách tạo và xuất bản gói Nuget](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore-cli)
 

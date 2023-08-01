@@ -19,7 +19,7 @@
 
 ## Mi az RTF fájl?
 
-A Microsoft által bevezetett és dokumentált Rich Text Format (**RTF**) a formázott szöveg és grafika kódolási módszere alkalmazásokon belül. A formátum megkönnyíti a platformok közötti dokumentumcserét más Microsoft-termékekkel, így az interoperabilitást szolgálja. Ez a képesség szabványossá teszi a szövegszerkesztő szoftverek közötti adatátvitelt, és így a tartalom átvihető egyik operációs rendszerről a másikra anélkül, hogy elveszítené a dokumentum formázását. A fájlformátum-specifikációkat a Microsoft nyilvános [letöltésre] teszi elérhetővé (https://www.microsoft.com/en-us/download/details.aspx?id#10725), és a fejlesztő szemszögéből is hivatkozni lehet rájuk.
+A Microsoft által bevezetett és dokumentált Rich Text Format (**RTF**) a formázott szöveg és grafika kódolási módszere alkalmazásokon belül. A formátum megkönnyíti a platformok közötti dokumentumcserét más Microsoft-termékekkel, így az interoperabilitást szolgálja. Ez a képesség szabványossá teszi a szövegszerkesztő szoftverek közötti adatátvitelt, és így a tartalom átvihető egyik operációs rendszerről a másikra anélkül, hogy elveszítené a dokumentum formázását. A fájlformátum-specifikációkat a Microsoft nyilvános [letöltésre] teszi elérhetővé (https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf), és a fejlesztő szemszögéből is hivatkozni lehet rájuk.
 
 ## Az RTF fájlformátum rövid története ##
 
@@ -63,7 +63,7 @@ Egy csoport állhat szövegből, vezérlőszavakból vagy kapcsos zárójelekbe 
 
 Az RTF fájl a következő szabványos szintaxissal rendelkezik:
 
-A Microsoft által bevezetett és dokumentált Rich Text Format (**RTF**) a formázott szöveg és grafika kódolási módszere alkalmazásokon belül. A formátum megkönnyíti a platformok közötti dokumentumcserét más Microsoft-termékekkel, így az interoperabilitást szolgálja. Ez a képesség szabványossá teszi a szövegszerkesztő szoftverek közötti adatátvitelt, és így a tartalom átvihető egyik operációs rendszerről a másikra anélkül, hogy elveszítené a dokumentum formázását. A fájlformátum-specifikációkat a Microsoft nyilvános [letöltésre] teszi elérhetővé (https://www.microsoft.com/en-us/download/details.aspx?id#10725), és a fejlesztő szemszögéből is hivatkozni lehet rájuk.
+A Microsoft által bevezetett és dokumentált Rich Text Format (**RTF**) a formázott szöveg és grafika kódolási módszere alkalmazásokon belül. A formátum megkönnyíti a platformok közötti dokumentumcserét más Microsoft-termékekkel, így az interoperabilitást szolgálja. Ez a képesség szabványossá teszi a szövegszerkesztő szoftverek közötti adatátvitelt, és így a tartalom átvihető egyik operációs rendszerről a másikra anélkül, hogy elveszítené a dokumentum formázását. A fájlformátum-specifikációkat a Microsoft nyilvános [letöltésre] teszi elérhetővé (https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf), és a fejlesztő szemszögéből is hivatkozni lehet rájuk.
 
 #### RTF fejléc ####
 
@@ -128,6 +128,6 @@ Minden RTF-dokumentumnak }-re kell végződnie, hogy bezárja a csoportot, amely
 
 ## Hivatkozások ##
 
-* [RTF 1.9.1 specifikációi](https://www.microsoft.com/en-us/download/details.aspx?id#10725)
+* [RTF 1.9.1 specifikációi](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf)
 * [Rich Text Format](https://en.wikipedia.org/wiki/Rich_Text_Format)
 

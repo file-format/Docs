@@ -25,7 +25,7 @@
 
 Τα αρχεία ADDIN αποθηκεύονται σε δίσκο σε μορφή αρχείου XML που είναι αναγνώσιμη από τον άνθρωπο. Μπορεί να ανοιχτεί σε δημοφιλείς επεξεργαστές κειμένου, όπως το Notepad, το Notepad++, το Microsoft Visual Studio IDE και πολλά άλλα. Η Microsoft έχει ορίσει το [αρχείο μανιφέστου XML](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) μιας προσθήκης του Office -in που περιγράφει πώς θα πρέπει να ενεργοποιηθεί ένα πρόσθετο αφού εγκατασταθεί και χρησιμοποιηθεί με έγγραφα και εφαρμογές του Office.
 
-**Δείτε επίσης: ** [Πώς να δημιουργήσετε ένα πρόσθετο COM του Office χρησιμοποιώντας το Visual C# .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
+**Δείτε επίσης: ** [Πώς να δημιουργήσετε ένα πρόσθετο COM του Office χρησιμοποιώντας το Visual C# .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer/office-com-add-in-using-visual-c)
 
 ## βιβλιογραφικές αναφορές
 

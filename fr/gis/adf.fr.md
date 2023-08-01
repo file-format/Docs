@@ -35,6 +35,6 @@ Les rasters GRID sont stockés dans des espaces de travail, où un espace de tra
 
 ## Références ##
 
-* [Format de grille ESRI](https://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//009t0000000w000000)
-* [FAQ : Quelle est la structure de fichier d'une grille Arc/INFO ?](https://support.esri.com/en/technical-article/000008526)
+* [Format de grille ESRI](https://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/esri-grid-format.htm)
+
 

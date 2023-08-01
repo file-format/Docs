@@ -25,7 +25,7 @@
 
 Файлы ADDIN сохраняются на диск в формате XML, который удобочитаем. Его можно открыть в популярных текстовых редакторах, включая Notepad, Notepad++, Microsoft Visual Studio IDE и многих других. Microsoft определила [файл манифеста XML](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) для Office Add -in, описывающий, как следует активировать надстройку после ее установки и использования с документами и приложениями Office.
 
-**См. также:** [Как создать надстройку Office COM с помощью Visual C# .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-using-visual-c)
+**См. также:** [Как создать надстройку Office COM с помощью Visual C# .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer/office-com-add-in-using-visual-c)
 
 ## использованная литература
 

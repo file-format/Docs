@@ -23,7 +23,7 @@ Plik z rozszerzeniem .vbproj to plik projektu Microsoft Visual Basic, który jes
 
 ## Format pliku VBPROJ — więcej informacji
 
-Pliki VBPROJ to pliki tekstowe zapisane w formacie [XML](/pl/web/xml/) opartym na [schemacie MSBuild XML](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild- plik-schematu-referencji-pliku projektu?view=vs-2019). Plik VBPROJ zawiera informacje w postaci znaczników XML, które definiują informacje związane z tą konkretną grupą ustawień. Zdecydowanie zaleca się otwieranie i edytowanie tych plików ustawień w środowisku Microsoft Visual Studio IDE.
+Pliki VBPROJ to pliki tekstowe zapisane w formacie [XML](/pl/web/xml/) opartym na [schemacie MSBuild XML](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019). Plik VBPROJ zawiera informacje w postaci znaczników XML, które definiują informacje związane z tą konkretną grupą ustawień. Zdecydowanie zaleca się otwieranie i edytowanie tych plików ustawień w środowisku Microsoft Visual Studio IDE.
 
 ### Elementy VBPROJ
 

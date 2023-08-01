@@ -94,5 +94,4 @@ Các tác vụ phải luôn nằm trong phần tử [Target](https://msdn.micros
 
 ## Người giới thiệu
 
-* [Hiểu tệp dự án - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/under hiểu-the-project- tập tin)
-
+* [Hiểu tệp dự án - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)

@@ -35,6 +35,4 @@ GRID 栅格存储在工作空间中，其中工作空间包含一个 info 子目
 
 ## 参考 ＃＃
 
-* [ESRI 网格格式](https://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//009t0000000w000000)
-* [常见问题：Arc/INFO 网格的文件结构是什么？](https://support.esri.com/en/technical-article/000008526)
-
+* [ESRI 网格格式](https://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/esri-grid-format.htm)

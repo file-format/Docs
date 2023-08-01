@@ -19,7 +19,7 @@
 
 ## Apa itu file RTF?
 
-Diperkenalkan dan didokumentasikan oleh Microsoft, Rich Text Format (**RTF**) mewakili metode pengkodean teks dan grafik yang diformat untuk digunakan dalam aplikasi. Format ini memfasilitasi pertukaran dokumen lintas platform dengan Produk Microsoft lainnya, sehingga melayani tujuan interoperabilitas. Kemampuan ini menjadikannya standar transfer data antara perangkat lunak pengolah kata dan, karenanya, konten dapat ditransfer dari satu sistem operasi ke sistem operasi lainnya tanpa kehilangan pemformatan dokumen. Spesifikasi format file tersedia oleh Microsoft untuk umum [unduh](https://www.microsoft.com/en-us/download/details.aspx?id#10725) dan dapat dirujuk dari perspektif pengembang.
+Diperkenalkan dan didokumentasikan oleh Microsoft, Rich Text Format (**RTF**) mewakili metode pengkodean teks dan grafik yang diformat untuk digunakan dalam aplikasi. Format ini memfasilitasi pertukaran dokumen lintas platform dengan Produk Microsoft lainnya, sehingga melayani tujuan interoperabilitas. Kemampuan ini menjadikannya standar transfer data antara perangkat lunak pengolah kata dan, karenanya, konten dapat ditransfer dari satu sistem operasi ke sistem operasi lainnya tanpa kehilangan pemformatan dokumen. Spesifikasi format file tersedia oleh Microsoft untuk umum [unduh](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf) dan dapat dirujuk dari perspektif pengembang.
 
 ## Sejarah Singkat Format File RTF ##
 
@@ -63,7 +63,7 @@ Grup dapat terdiri dari teks, kata kontrol, atau simbol kontrol yang diapit tand
 
 File RTF memiliki sintaks Standar berikut:
 
-Diperkenalkan dan didokumentasikan oleh Microsoft, Rich Text Format (**RTF**) mewakili metode pengkodean teks dan grafik yang diformat untuk digunakan dalam aplikasi. Format ini memfasilitasi pertukaran dokumen lintas platform dengan Produk Microsoft lainnya, sehingga melayani tujuan interoperabilitas. Kemampuan ini menjadikannya standar transfer data antara perangkat lunak pengolah kata dan, karenanya, konten dapat ditransfer dari satu sistem operasi ke sistem operasi lainnya tanpa kehilangan pemformatan dokumen. Spesifikasi format file tersedia oleh Microsoft untuk umum [unduh](https://www.microsoft.com/en-us/download/details.aspx?id#10725) dan dapat dirujuk dari perspektif pengembang.
+Diperkenalkan dan didokumentasikan oleh Microsoft, Rich Text Format (**RTF**) mewakili metode pengkodean teks dan grafik yang diformat untuk digunakan dalam aplikasi. Format ini memfasilitasi pertukaran dokumen lintas platform dengan Produk Microsoft lainnya, sehingga melayani tujuan interoperabilitas. Kemampuan ini menjadikannya standar transfer data antara perangkat lunak pengolah kata dan, karenanya, konten dapat ditransfer dari satu sistem operasi ke sistem operasi lainnya tanpa kehilangan pemformatan dokumen. Spesifikasi format file tersedia oleh Microsoft untuk umum [unduh](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf) dan dapat dirujuk dari perspektif pengembang.
 
 #### Tajuk RTF ####
 
@@ -128,6 +128,6 @@ Setiap dokumen RTF harus diakhiri dengan }, untuk menutup grup yang dibuka oleh 
 
 ## Referensi ##
 
-* [Spesifikasi RTF 1.9.1](https://www.microsoft.com/en-us/download/details.aspx?id#10725)
+* [Spesifikasi RTF 1.9.1](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf)
 * [Format Teks Kaya](https://en.wikipedia.org/wiki/Rich_Text_Format)
 

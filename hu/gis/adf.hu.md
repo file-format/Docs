@@ -35,6 +35,4 @@ A GRID rasztereket munkaterületeken tárolják, ahol egy munkaterület minden G
 
 ## Hivatkozások ##
 
-* [ESRI Grid Format](https://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//009t0000000w000000)
-* [GYIK: Mi az Arc/INFO Grid fájlszerkezete?](https://support.esri.com/en/technical-article/000008526)
-
+* [ESRI Grid Format](https://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/esri-grid-format.htm)

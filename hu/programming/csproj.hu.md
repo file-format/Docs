@@ -94,5 +94,5 @@ A feladatoknak mindig a [Target](https://msdn.microsoft.com/library/t50z2hka.asp
 
 ## Hivatkozások
 
-* [A projektfájl ismertetése – MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- fájl)
+* [A projektfájl ismertetése – MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
 

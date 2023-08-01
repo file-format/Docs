@@ -28,5 +28,5 @@ ALF फ़ाइलें बाइनरी फ़ाइलों के रू
 
 ## संदर्भ
 
-* [एक अधिनियम की रचना करने वाली फाइलों की समझ! सेज डेटाबेस द्वारा](https://help.act.com/hc/en-us/articles/360024238854-An-Understand-of-the-Files-that-Compose-an-ACT-by-Sage-Database#s2 )
+* [ACT! ADF](/database/adf/)
 

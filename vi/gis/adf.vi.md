@@ -35,6 +35,4 @@ Trình quét GRID được lưu trữ trong không gian làm việc, trong đó 
 
 ## Người giới thiệu ##
 
-* [Định dạng lưới ESRI](https://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//009t0000000w000000)
-* [Câu hỏi thường gặp: Cấu trúc tệp của Lưới Arc/INFO là gì?](https://support.esri.com/en/technical-article/000008526)
-
+* [Định dạng lưới ESRI](https://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/esri-grid-format.htm)

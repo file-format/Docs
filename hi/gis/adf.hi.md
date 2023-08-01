@@ -35,6 +35,6 @@ GRID रेखापुंज कार्यस्थानों में स
 
 ## संदर्भ ##
 
-* [ईएसआरआई ग्रिड प्रारूप](https://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//009t0000000w000000)
-* [अक्सर पूछे जाने वाले प्रश्न: आर्क/इन्फो ग्रिड की फ़ाइल संरचना क्या है?](https://support.esri.com/en/technical-article/000008526)
+* [ईएसआरआई ग्रिड प्रारूप](https://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/esri-grid-format.htm)
+
 

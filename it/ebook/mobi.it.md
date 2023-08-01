@@ -43,5 +43,5 @@ Il formato di file MOBI ha alcune limitazioni come elencato di seguito.
 
 ## Riferimenti
 
-* [Formato file MobiPocket](https://web.archive.org/web/20160414103204/http://www.mobipocket.com/dev/article.asp?BaseFolder#prcgen&File#mobiformat.htm)
+* [Formato file MobiPocket](https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
 

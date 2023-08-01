@@ -27,6 +27,6 @@ Los archivos NUPKG son archivos [ZIP](/es/compression/zip/) que contienen las bi
 ## Referencia
 
 * [Nuget.org](https://nuget.org)
-* [Inicio rápido: instalar y usar un paquete en Visual Studio (solo Windows)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual- estudio)
-* [Cómo crear y publicar un paquete Nuget](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore- cli)
+* [Inicio rápido: instalar y usar un paquete en Visual Studio (solo Windows)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual-studio)
+* [Cómo crear y publicar un paquete Nuget](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore-cli)
 

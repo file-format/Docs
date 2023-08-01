@@ -29,6 +29,6 @@ Là một biến thể của tệp [AVI](/vi/video/avi/), một số trình phá
 
 ## Người giới thiệu ##
 
-- [Định dạng video AMV - Wikipedia](https://vi.wikipedia.org/wiki/AMV_video_format)
+- [Định dạng video AMV - Wikipedia](https://en.wikipedia.org/wiki/AMV_video_format)
 
 

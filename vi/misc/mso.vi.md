@@ -26,7 +26,7 @@ Các tệp MSO được lưu ở Định dạng tệp tài liệu tổng hợp c
 
 ### Cấu trúc định dạng tệp MSO
 
-Cấu trúc định dạng tệp nội bộ của định dạng tệp MSO được xác định rõ trong [Cấu trúc](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/28488197-8193-49d7-84d8-dfd692418ccd ) phần của tài liệu MCDF. Bảng phân bổ tệp (FAT) quản lý phân bổ ngành và chuỗi ngành. Nó chứa một mảng các số cung 32 bit. Mỗi chỉ mục trong mảng đại diện cho một số khu vực trong khi giá trị của nó đại diện cho khu vực tiếp theo trong chuỗi hoặc một giá trị đặc biệt.
+Cấu trúc định dạng tệp nội bộ của định dạng tệp MSO được xác định rõ trong [Cấu trúc](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/28488197-8193-49d7-84d8-dfd692418ccd) phần của tài liệu MCDF. Bảng phân bổ tệp (FAT) quản lý phân bổ ngành và chuỗi ngành. Nó chứa một mảng các số cung 32 bit. Mỗi chỉ mục trong mảng đại diện cho một số khu vực trong khi giá trị của nó đại diện cho khu vực tiếp theo trong chuỗi hoặc một giá trị đặc biệt.
 
 ## Người giới thiệu
 

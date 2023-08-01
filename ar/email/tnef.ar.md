@@ -53,6 +53,6 @@
 ## مراجع
 
 * [تنسيق تغليف محايد للنقل](https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
-* [عناوين البريد الإلكتروني ودفاتر العناوين في Exchange Server](https://learn.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books؟view# exchserver-2019)
+* [عناوين البريد الإلكتروني ودفاتر العناوين في Exchange Server](https://learn.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# exchserver-2019)
 * [[MS-OXTNEF]: خوارزمية بيانات تنسيق النقل المحايد (TNEF)](https://msdn.microsoft.com/en-us/library/cc425498 (v # exchg.80) .aspx)
 

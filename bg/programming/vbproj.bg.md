@@ -23,7 +23,7 @@
 
 ## VBPROJ файлов формат - повече информация
 
-VBPROJ файловете са текстови файлове, които са написани във файлов формат [XML](/bg/web/xml/) въз основа на [MSBuild XML схема](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild- проект-файл-схема-справка?view=vs-2019). Файлът VBPROJ съдържа информация под формата на XML тагове, които дефинират информация, свързана с тази конкретна група настройки. Силно се препоръчва да отваряте и редактирате тези файлове с настройки в Microsoft Visual Studio IDE.
+VBPROJ файловете са текстови файлове, които са написани във файлов формат [XML](/bg/web/xml/) въз основа на [MSBuild XML схема](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019). Файлът VBPROJ съдържа информация под формата на XML тагове, които дефинират информация, свързана с тази конкретна група настройки. Силно се препоръчва да отваряте и редактирате тези файлове с настройки в Microsoft Visual Studio IDE.
 
 ### VBPROJ елементи
 

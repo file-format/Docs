@@ -94,5 +94,4 @@ Görevler her zaman [Target](https://msdn.microsoft.com/library/t50z2hka.aspx) �
 
 ## Referanslar
 
-* [Proje Dosyasını Anlama - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- dosya)
-
+* [Proje Dosyasını Anlama - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)

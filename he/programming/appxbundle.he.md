@@ -19,7 +19,7 @@
 
 ## מהו קובץ APPXBUNDLE?
 
-קובץ APPXBUNDLE הוא קובץ חבילה שנוצר באמצעות [Microsoft Visual Studio](https://visualstudio.microsoft.com/) ומשמש להפצה של יישומי Windows (הן שולחן העבודה והן UWP) ב-[Microsoft Store](https:// www.microsoft.com/en-us/store/apps/windows). הוא מכיל גרסה אחת או יותר של אפליקציה, המכוונת לארכיטקטורת מעבד ספציפית כגון x86, x64 או ARM. זה מאפשר למשתמש הקצה לקבל ולפרוס את הגרסה המתאימה של האפליקציה בהתבסס על ארכיטקטורת המחשב. קבצי APPXBUNDLE מקובצים יחד באמצעות פורמט הקובץ [ZIP](/he/compression/zip/) הסטנדרטי. שיטת הפרסום של Microsoft Visual Studio משמשת לפרסום האפליקציות כחבילה. אפליקציות חבילה בודדות מופצות כקבצי [APPX](/he/programming/appx/).
+קובץ APPXBUNDLE הוא קובץ חבילה שנוצר באמצעות [Microsoft Visual Studio](https://visualstudio.microsoft.com/) ומשמש להפצה של יישומי Windows (הן שולחן העבודה והן UWP) ב-[Microsoft Store](https://apps.microsoft.com/store/apps). הוא מכיל גרסה אחת או יותר של אפליקציה, המכוונת לארכיטקטורת מעבד ספציפית כגון x86, x64 או ARM. זה מאפשר למשתמש הקצה לקבל ולפרוס את הגרסה המתאימה של האפליקציה בהתבסס על ארכיטקטורת המחשב. קבצי APPXBUNDLE מקובצים יחד באמצעות פורמט הקובץ [ZIP](/he/compression/zip/) הסטנדרטי. שיטת הפרסום של Microsoft Visual Studio משמשת לפרסום האפליקציות כחבילה. אפליקציות חבילה בודדות מופצות כקבצי [APPX](/he/programming/appx/).
 
 ## פורמט קובץ APPXBUNDLE
 

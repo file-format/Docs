@@ -27,7 +27,7 @@ XSD ファイルは、人間が判読できるプレーン テキスト ファ�
 
 ## XSD ファイルの例
 
-注文書スキーマを持つ単純な XSD ファイルは、次の [Microsoft による XSD の例](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file) に示すように、タグを使用して要素を定義します。 -simple-schema?view=vs-2022)。
+注文書スキーマを持つ単純な XSD ファイルは、次の [Microsoft による XSD の例](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022) に示すように、タグを使用して要素を定義します。
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"

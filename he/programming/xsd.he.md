@@ -27,7 +27,7 @@
 
 ## דוגמה לקובץ XSD
 
-קובץ XSD פשוט בעל סכימת הזמנת רכש מגדיר את האלמנטים באמצעות תגים כפי שמוצג ב [דוגמה XSD מאת Microsoft](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file) -simple-schema?view=vs-2022).
+קובץ XSD פשוט בעל סכימת הזמנת רכש מגדיר את האלמנטים באמצעות תגים כפי שמוצג ב [דוגמה XSD מאת Microsoft](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022).
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"

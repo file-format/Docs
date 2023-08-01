@@ -51,5 +51,5 @@ Următorii pași pot fi utilizați pentru a deschide un fișier MDMP în Visual 
 
 ## Referinţă
 
-* [Cum să citiți fișierul mic de descărcare a memoriei care este creat de Windows dacă are loc o blocare](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -fişier)
+* [Cum să citiți fișierul mic de descărcare a memoriei care este creat de Windows dacă are loc o blocare](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
 

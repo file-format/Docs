@@ -19,7 +19,7 @@
 
 ## .RTF 파일이란?
 
-Microsoft에서 도입하고 문서화한 서식 있는 텍스트 형식(**RTF**)은 응용 프로그램 내에서 사용할 서식이 지정된 텍스트와 그래픽을 인코딩하는 방법을 나타냅니다. 이 형식은 다른 Microsoft 제품과 플랫폼 간 문서 교환을 용이하게 하여 상호 운용성을 제공합니다. 이 기능은 워드 프로세싱 소프트웨어 간의 데이터 전송 표준이 되므로 문서 형식을 잃지 않고 한 운영 체제에서 다른 운영 체제로 콘텐츠를 전송할 수 있습니다. 파일 형식 사양은 Microsoft에서 공개[다운로드](https://www.microsoft.com/en-us/download/details.aspx?id#10725)할 수 있으며 개발자의 관점에서 참조할 수 있습니다.
+Microsoft에서 도입하고 문서화한 서식 있는 텍스트 형식(**RTF**)은 응용 프로그램 내에서 사용할 서식이 지정된 텍스트와 그래픽을 인코딩하는 방법을 나타냅니다. 이 형식은 다른 Microsoft 제품과 플랫폼 간 문서 교환을 용이하게 하여 상호 운용성을 제공합니다. 이 기능은 워드 프로세싱 소프트웨어 간의 데이터 전송 표준이 되므로 문서 형식을 잃지 않고 한 운영 체제에서 다른 운영 체제로 콘텐츠를 전송할 수 있습니다. 파일 형식 사양은 Microsoft에서 공개[다운로드](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf)할 수 있으며 개발자의 관점에서 참조할 수 있습니다.
 
 ## RTF 파일 형식의 간략한 역사 ##
 
@@ -63,7 +63,7 @@ RTF 파일은 다음으로 구성된 7비트 ASCII 일반 텍스트를 사용합
 
 RTF 파일에는 다음과 같은 표준 구문이 있습니다.
 
-Microsoft에서 도입하고 문서화한 서식 있는 텍스트 형식(**RTF**)은 응용 프로그램 내에서 사용할 서식이 지정된 텍스트 및 그래픽을 인코딩하는 방법을 나타냅니다. 이 형식은 다른 Microsoft 제품과 플랫폼 간 문서 교환을 용이하게 하여 상호 운용성을 제공합니다. 이 기능은 워드 프로세싱 소프트웨어 간의 데이터 전송 표준이 되므로 문서 형식을 잃지 않고 한 운영 체제에서 다른 운영 체제로 내용을 전송할 수 있습니다. 파일 형식 사양은 Microsoft에서 공개[다운로드](https://www.microsoft.com/en-us/download/details.aspx?id#10725)할 수 있으며 개발자의 관점에서 참조할 수 있습니다.
+Microsoft에서 도입하고 문서화한 서식 있는 텍스트 형식(**RTF**)은 응용 프로그램 내에서 사용할 서식이 지정된 텍스트 및 그래픽을 인코딩하는 방법을 나타냅니다. 이 형식은 다른 Microsoft 제품과 플랫폼 간 문서 교환을 용이하게 하여 상호 운용성을 제공합니다. 이 기능은 워드 프로세싱 소프트웨어 간의 데이터 전송 표준이 되므로 문서 형식을 잃지 않고 한 운영 체제에서 다른 운영 체제로 내용을 전송할 수 있습니다. 파일 형식 사양은 Microsoft에서 공개[다운로드](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf)할 수 있으며 개발자의 관점에서 참조할 수 있습니다.
 
 #### RTF 헤더 ####
 
@@ -128,6 +128,6 @@ RTF 문서는 다음 6자로 시작해야 합니다.
 
 ## 참조 ##
 
-* [RTF 1.9.1 사양](https://www.microsoft.com/en-us/download/details.aspx?id#10725)
+* [RTF 1.9.1 사양](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf)
 * [서식 있는 텍스트 형식](https://en.wikipedia.org/wiki/Rich_Text_Format)
 

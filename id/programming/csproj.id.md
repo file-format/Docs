@@ -94,5 +94,5 @@ Tugas harus selalu berada di dalam elemen [Target](https://msdn.microsoft.com/li
 
 ## Referensi
 
-* [Memahami File Proyek - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- mengajukan)
+* [Memahami File Proyek - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
 

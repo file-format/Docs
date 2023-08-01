@@ -23,7 +23,7 @@ Tệp có phần mở rộng .vbproj là tệp dự án Microsoft Visual Basic �
 
 ## Định dạng tệp VBPROJ - Thông tin khác
 
-Tệp VBPROJ là tệp văn bản được viết ở định dạng tệp [XML](/vi/web/xml/) dựa trên [Lược đồ XML MSBuild](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild- project-file-schema-reference?view=vs-2019). Tệp VBPROJ chứa thông tin ở dạng thẻ XML xác định thông tin liên quan đến nhóm cài đặt cụ thể đó. Bạn nên mở và chỉnh sửa các tệp cài đặt này trong Microsoft Visual Studio IDE.
+Tệp VBPROJ là tệp văn bản được viết ở định dạng tệp [XML](/vi/web/xml/) dựa trên [Lược đồ XML MSBuild](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019). Tệp VBPROJ chứa thông tin ở dạng thẻ XML xác định thông tin liên quan đến nhóm cài đặt cụ thể đó. Bạn nên mở và chỉnh sửa các tệp cài đặt này trong Microsoft Visual Studio IDE.
 
 ### Phần tử VBPROJ
 
@@ -42,6 +42,6 @@ Bảng sau đây mô tả ngắn gọn về các yếu tố này.
 
 ## Người giới thiệu
 
-* [Hiểu tệp dự án](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/under Hiểu-the-project-file)
+* [Hiểu tệp dự án](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
 * [Các thành phần lược đồ MSBuild](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
 

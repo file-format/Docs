@@ -23,7 +23,7 @@ Soubor s příponou .vbproj je soubor projektu Microsoft Visual Basic, který po
 
 ## Formát souboru VBPROJ - Další informace
 
-Soubory VBPROJ jsou textové soubory, které jsou napsány ve formátu souboru [XML](/cs/web/xml/) na základě [MSBuild XML Schema](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild- project-file-schema-reference?view=vs-2019). Soubor VBPROJ obsahuje informace ve formě značek XML, které definují informace související s konkrétní skupinou nastavení. Důrazně se doporučuje otevřít a upravit tyto soubory nastavení v Microsoft Visual Studio IDE.
+Soubory VBPROJ jsou textové soubory, které jsou napsány ve formátu souboru [XML](/cs/web/xml/) na základě [MSBuild XML Schema](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019). Soubor VBPROJ obsahuje informace ve formě značek XML, které definují informace související s konkrétní skupinou nastavení. Důrazně se doporučuje otevřít a upravit tyto soubory nastavení v Microsoft Visual Studio IDE.
 
 ### Prvky VBPROJ
 

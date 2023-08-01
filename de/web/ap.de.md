@@ -27,5 +27,5 @@ AP-Dateien werden mithilfe unterstützender Software auf dem Webserver gehostet.
 ## Verweise
 
 * [ASP - Von W3C](https://www.w3schools.com/asp/default.asp)
-* [Einfache ASP-Seiten erstellen](https://learn.microsoft.com/en-us/ previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
+* [Einfache ASP-Seiten erstellen](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

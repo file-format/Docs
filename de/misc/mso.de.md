@@ -26,7 +26,7 @@ MSO-Dateien werden im Microsoft Compound Document File Format (MCDF) gespeichert
 
 ### Struktur des MSO-Dateiformats
 
-Die interne Dateiformatstruktur des MSO-Dateiformats ist in den [Strukturen](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/28488197-8193-49d7-84d8-dfd692418ccd ) Abschnitt der MCDF-Dokumentation. Die Dateizuordnungstabelle (FAT) verwaltet die Sektorzuordnung und die Sektorketten. Es enthält ein Array von 32-Bit-Sektornummern. Jeder Index im Array stellt eine Sektornummer dar, während sein Wert den nächsten Sektor in der Kette oder einen speziellen Wert darstellt.
+Die interne Dateiformatstruktur des MSO-Dateiformats ist in den [Strukturen](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/28488197-8193-49d7-84d8-dfd692418ccd) Abschnitt der MCDF-Dokumentation. Die Dateizuordnungstabelle (FAT) verwaltet die Sektorzuordnung und die Sektorketten. Es enthält ein Array von 32-Bit-Sektornummern. Jeder Index im Array stellt eine Sektornummer dar, während sein Wert den nächsten Sektor in der Kette oder einen speziellen Wert darstellt.
 
 ## Verweise
 

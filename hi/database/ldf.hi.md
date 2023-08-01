@@ -41,5 +41,5 @@ LDF फ़ाइल में SQL सर्वर लेनदेन रिक�
 ## संदर्भ
 
 * [डेटाबेस फ़ाइलें और फ़ाइल समूह](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [लेन-देन लॉग आर्किटेक्चर और प्रबंधन गाइड](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql- सर्वर-ver15)
+* [लेन-देन लॉग आर्किटेक्चर और प्रबंधन गाइड](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql-server-ver15)
 

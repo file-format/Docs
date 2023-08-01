@@ -51,5 +51,5 @@
 
 ## Αναφορά
 
-* [Τρόπος ανάγνωσης του μικρού αρχείου ένδειξης σφαλμάτων μνήμης που δημιουργείται από τα Windows εάν παρουσιαστεί σφάλμα](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -αρχείο)
+* [Τρόπος ανάγνωσης του μικρού αρχείου ένδειξης σφαλμάτων μνήμης που δημιουργείται από τα Windows εάν παρουσιαστεί σφάλμα](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
 

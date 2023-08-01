@@ -19,7 +19,7 @@
 
 ## What is an APPXUPLOAD file?
 
-An APPXUPLOAD file is a single package file that contains multiple app packages or app bundle for uploading to Microsoft Store. It is generated automatically by [Microsoft Visual Studio](https://visualstudio.microsoft.com/) when developers package their app for publishing to the [Microsoft Store](https://www.microsoft.com/en-us/store/apps/windows). In addition to an [APPX](/programming/appx/) file, the APPXUPLOAD file contains a symbol file that analyzes app performance after it is published to the Microsoft Store.
+An APPXUPLOAD file is a single package file that contains multiple app packages or app bundle for uploading to Microsoft Store. It is generated automatically by [Microsoft Visual Studio](https://visualstudio.microsoft.com/) when developers package their app for publishing to the [Microsoft Store](https://apps.microsoft.com/store/apps). In addition to an [APPX](/programming/appx/) file, the APPXUPLOAD file contains a symbol file that analyzes app performance after it is published to the Microsoft Store.
 
 ## AAPXUPLOAD File Format - More Information
 

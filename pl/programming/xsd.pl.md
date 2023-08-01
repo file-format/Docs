@@ -27,7 +27,7 @@ Pliki XSD są zapisywane na dysku w formacie zwykłego pliku tekstowego, który 
 
 ## Przykład pliku XSD
 
-Prosty plik XSD ze schematem zamówienia definiuje elementy przy użyciu tagów, jak pokazano w poniższym [przykładzie XSD firmy Microsoft](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -simple-schema?view=vs-2022).
+Prosty plik XSD ze schematem zamówienia definiuje elementy przy użyciu tagów, jak pokazano w poniższym [przykładzie XSD firmy Microsoft](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022).
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"

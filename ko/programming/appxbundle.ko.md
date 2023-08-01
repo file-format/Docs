@@ -19,7 +19,7 @@
 
 ## .APPXBUNDLE 파일이란?
 
-APPXBUNDLE 파일은 [Microsoft Visual Studio](https://visualstudio.microsoft.com/)로 만든 패키지 파일로 [Microsoft Store](https:// www.microsoft.com/en-us/store/apps/windows). 여기에는 x86, x64 또는 ARM과 같은 특정 프로세서 아키텍처를 대상으로 하는 하나 이상의 앱 버전이 포함되어 있습니다. 이를 통해 최종 사용자는 컴퓨터 아키텍처에 따라 적절한 버전의 앱을 받고 배포할 수 있습니다. APPXBUNDLE 파일은 표준 [ZIP](/ko/compression/zip/) 파일 형식을 사용하여 함께 그룹화됩니다. Microsoft Visual Studio의 Publish 메서드는 앱을 번들로 게시하는 데 사용됩니다. 단일 패키지 앱은 [APPX](/ko/programming/appx/) 파일로 배포됩니다.
+APPXBUNDLE 파일은 [Microsoft Visual Studio](https://visualstudio.microsoft.com/)로 만든 패키지 파일로 [Microsoft Store](https://apps.microsoft.com/store/apps). 여기에는 x86, x64 또는 ARM과 같은 특정 프로세서 아키텍처를 대상으로 하는 하나 이상의 앱 버전이 포함되어 있습니다. 이를 통해 최종 사용자는 컴퓨터 아키텍처에 따라 적절한 버전의 앱을 받고 배포할 수 있습니다. APPXBUNDLE 파일은 표준 [ZIP](/ko/compression/zip/) 파일 형식을 사용하여 함께 그룹화됩니다. Microsoft Visual Studio의 Publish 메서드는 앱을 번들로 게시하는 데 사용됩니다. 단일 패키지 앱은 [APPX](/ko/programming/appx/) 파일로 배포됩니다.
 
 ## APPXBUNDLE 파일 형식
 

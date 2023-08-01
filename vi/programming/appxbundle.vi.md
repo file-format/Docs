@@ -19,7 +19,7 @@
 
 ## Tệp APPXBUNDLE là gì?
 
-Tệp APPXBUNDLE là tệp gói được tạo bằng [Microsoft Visual Studio](https://visualstudio.microsoft.com/) và được sử dụng để phân phối ứng dụng Windows (cả Máy tính để bàn và UWP) trên [Microsoft Store](https:// www.microsoft.com/en-us/store/apps/windows). Nó chứa một hoặc nhiều phiên bản của ứng dụng, nhắm mục tiêu kiến trúc bộ xử lý cụ thể như x86, x64 hoặc ARM. Điều này cho phép người dùng cuối nhận và triển khai phiên bản phù hợp của ứng dụng dựa trên kiến trúc máy tính. Các tệp APPXBUNDLE được nhóm lại với nhau bằng định dạng tệp [ZIP](/vi/compression/zip/) tiêu chuẩn. Phương thức Xuất bản của Microsoft Visual Studio được sử dụng để xuất bản ứng dụng dưới dạng gói. Các ứng dụng gói đơn lẻ được phân phối dưới dạng tệp [APPX](/vi/programming/appx/).
+Tệp APPXBUNDLE là tệp gói được tạo bằng [Microsoft Visual Studio](https://visualstudio.microsoft.com/) và được sử dụng để phân phối ứng dụng Windows (cả Máy tính để bàn và UWP) trên [Microsoft Store](https://apps.microsoft.com/store/apps). Nó chứa một hoặc nhiều phiên bản của ứng dụng, nhắm mục tiêu kiến trúc bộ xử lý cụ thể như x86, x64 hoặc ARM. Điều này cho phép người dùng cuối nhận và triển khai phiên bản phù hợp của ứng dụng dựa trên kiến trúc máy tính. Các tệp APPXBUNDLE được nhóm lại với nhau bằng định dạng tệp [ZIP](/vi/compression/zip/) tiêu chuẩn. Phương thức Xuất bản của Microsoft Visual Studio được sử dụng để xuất bản ứng dụng dưới dạng gói. Các ứng dụng gói đơn lẻ được phân phối dưới dạng tệp [APPX](/vi/programming/appx/).
 
 ## Định dạng tệp APPXBUNDLE
 

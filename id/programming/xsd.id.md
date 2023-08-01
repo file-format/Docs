@@ -27,7 +27,7 @@ File XSD disimpan ke disk dalam format file teks biasa yang dapat dibaca manusia
 
 ## Contoh File XSD
 
-File XSD sederhana yang memiliki skema pesanan pembelian menentukan elemen menggunakan tag seperti yang ditampilkan dalam [contoh XSD oleh Microsoft](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file) berikut -skema-sederhana?view=vs-2022).
+File XSD sederhana yang memiliki skema pesanan pembelian menentukan elemen menggunakan tag seperti yang ditampilkan dalam [contoh XSD oleh Microsoft](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022).
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"

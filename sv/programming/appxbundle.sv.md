@@ -19,7 +19,7 @@
 
 ## Vad är en APPXBUNDLE fil?
 
-En APPXBUNDLE-fil är en paketfil skapad med [Microsoft Visual Studio](https://visualstudio.microsoft.com/) och används för distribution av Windows-appar (både Desktop och UWP) på [Microsoft Store](https:// www.microsoft.com/en-us/store/apps/windows). Den innehåller en eller flera versioner av en app, inriktad på specifik processorarkitektur som x86, x64 eller ARM. Detta låter slutanvändaren ta emot och distribuera lämplig version av appen baserat på datorarkitekturen. APPXBUNDLE-filer grupperas tillsammans med standardfilformatet [ZIP](/sv/compression/zip/). Microsoft Visual Studios Publish-metod används för att publicera apparna som ett paket. Enstaka paketappar distribueras som [APPX](/sv/programming/appx/)-filer.
+En APPXBUNDLE-fil är en paketfil skapad med [Microsoft Visual Studio](https://visualstudio.microsoft.com/) och används för distribution av Windows-appar (både Desktop och UWP) på [Microsoft Store](https://apps.microsoft.com/store/apps). Den innehåller en eller flera versioner av en app, inriktad på specifik processorarkitektur som x86, x64 eller ARM. Detta låter slutanvändaren ta emot och distribuera lämplig version av appen baserat på datorarkitekturen. APPXBUNDLE-filer grupperas tillsammans med standardfilformatet [ZIP](/sv/compression/zip/). Microsoft Visual Studios Publish-metod används för att publicera apparna som ett paket. Enstaka paketappar distribueras som [APPX](/sv/programming/appx/)-filer.
 
 ## APPXBUNDLE filformat
 

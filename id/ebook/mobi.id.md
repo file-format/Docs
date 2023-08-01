@@ -43,5 +43,5 @@ Format file MOBI memiliki batasan tertentu seperti yang tercantum di bawah ini.
 
 ## Referensi
 
-* [Format File MobiPocket](https://web.archive.org/web/20160414103204/http://www.mobipocket.com/dev/article.asp?BaseFolder#prcgen&File#mobiformat.htm)
+* [Format File MobiPocket](https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
 

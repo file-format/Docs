@@ -43,5 +43,5 @@ MOBI 파일 형식에는 아래와 같은 특정 제한 사항이 있습니다.
 
 ## 참고문헌
 
-* [모비포켓 파일 형식](https://web.archive.org/web/20160414103204/http://www.mobipocket.com/dev/article.asp?BaseFolder#prcgen&File#mobiformat.htm)
+* [모비포켓 파일 형식](https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
 

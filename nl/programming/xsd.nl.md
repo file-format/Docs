@@ -27,7 +27,7 @@ XSD-bestanden worden op schijf opgeslagen in platte tekstbestandsindeling die vo
 
 ## Voorbeeld van XSD-bestand
 
-Een eenvoudig XSD-bestand met een inkooporderschema definieert de elementen met behulp van tags zoals weergegeven in het volgende [XSD-voorbeeld door Microsoft](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file -simple-schema?view=vs-2022).
+Een eenvoudig XSD-bestand met een inkooporderschema definieert de elementen met behulp van tags zoals weergegeven in het volgende [XSD-voorbeeld door Microsoft](https://learn.microsoft.com/en-us/visualstudio/xml-tools/sample-xsd-file-simple-schema?view=vs-2022).
 
 ```
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"

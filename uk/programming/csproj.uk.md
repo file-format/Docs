@@ -94,5 +94,4 @@
 
 ## Список літератури
 
-* [Розуміння файлу проекту - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- файл)
-
+* [Розуміння файлу проекту - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)

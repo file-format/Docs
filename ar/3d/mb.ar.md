@@ -35,5 +35,5 @@
 
 ## مراجع
 
-* [تنظيم ملفات Maya ASCII - Autodesk](https://download.autodesk.com/us/maya/2010help/index.html؟url=Glossary_M_ma_file_format.htm،topicNumber=d0e192001)
+* [تنظيم ملفات Maya ASCII - Autodesk](https://download.autodesk.com/us/maya/2010help/index.html?url=Glossary_M_ma_file_format.htm،topicNumber=d0e192001)
 

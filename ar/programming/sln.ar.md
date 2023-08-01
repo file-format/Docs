@@ -86,6 +86,6 @@ Project-Type-GUID: يعتبر Project-Type-GUID فريدًا لأنواع الم
 
 ### **مراجع** ###
 
-* [ملف الحل - بواسطة MSDN](https://learn.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file؟view#vs-2017)
+* [ملف الحل - بواسطة MSDN](https://learn.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
 * [Project Type GUIDs](https://www.codeproject.com/Reference/720512/List-of-Visual-Studio-Project-Type-GUIDs)
 

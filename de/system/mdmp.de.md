@@ -51,5 +51,5 @@ Die folgenden Schritte können verwendet werden, um eine MDMP-Datei in Visual St
 
 ## Bezug
 
-* [So lesen Sie die kleine Speicherabbilddatei, die von Windows erstellt wird, wenn ein Absturz auftritt](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -Datei)
+* [So lesen Sie die kleine Speicherabbilddatei, die von Windows erstellt wird, wenn ein Absturz auftritt](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
 

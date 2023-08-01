@@ -25,7 +25,7 @@ Un file con estensione .addin è un file di definizione del componente aggiuntiv
 
 I file ADDIN vengono salvati su disco in un formato di file XML leggibile dall'uomo. Può essere aperto nei più diffusi editor di testo tra cui Blocco note, Notepad++, Microsoft Visual Studio IDE e molti altri. Microsoft ha definito il [file manifest XML](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests?tabs=tabid-1) di un Office Add -in che descrive come attivare un componente aggiuntivo dopo che è stato installato e utilizzato con documenti e applicazioni di Office.
 
-**Vedi anche:** [Come creare un componente aggiuntivo COM di Office utilizzando Visual C# .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer /office-com-add-in-utilizzando-visual-c)
+**Vedi anche:** [Come creare un componente aggiuntivo COM di Office utilizzando Visual C# .NET](https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer/office-com-add-in-using-visual-c)
 
 ## Riferimenti
 

@@ -23,7 +23,7 @@ A .vbproj kiterjesztésű fájl egy Microsoft Visual Basic projektfájl, amelyet
 
 ## VBPROJ fájlformátum - További információ
 
-A VBPROJ fájlok olyan szöveges fájlok, amelyeket [XML](/hu/web/xml/) fájlformátumban írtak az [MSBuild XML séma] alapján (https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild- project-file-schema-reference?view=vs-2019). A VBPROJ fájl XML-címkék formájában tartalmaz információkat, amelyek az adott beállításcsoporthoz kapcsolódó információkat határoznak meg. Erősen ajánlott ezeket a beállításokat a Microsoft Visual Studio IDE-ben megnyitni és szerkeszteni.
+A VBPROJ fájlok olyan szöveges fájlok, amelyeket [XML](/hu/web/xml/) fájlformátumban írtak az [MSBuild XML séma] alapján (https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019). A VBPROJ fájl XML-címkék formájában tartalmaz információkat, amelyek az adott beállításcsoporthoz kapcsolódó információkat határoznak meg. Erősen ajánlott ezeket a beállításokat a Microsoft Visual Studio IDE-ben megnyitni és szerkeszteni.
 
 ### VBPROJ elemek
 

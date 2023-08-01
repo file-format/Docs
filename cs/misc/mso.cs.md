@@ -26,7 +26,7 @@ Soubory MSO se ukládají ve formátu Microsoft Compound Document File Format (M
 
 ### Struktura formátu souborů MSO
 
-Vnitřní struktura formátu souboru formátu MSO je dobře definována v [Strukturách](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/28488197-8193-49d7-84d8-dfd692418ccd ) sekce dokumentace MCDF. File Allocation Table (FAT) spravuje alokaci sektorů a sektorové řetězce. Obsahuje pole 32bitových čísel sektorů. Každý index v poli představuje číslo sektoru, zatímco jeho hodnota představuje další sektor v řetězci nebo speciální hodnotu.
+Vnitřní struktura formátu souboru formátu MSO je dobře definována v [Strukturách](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/28488197-8193-49d7-84d8-dfd692418ccd) sekce dokumentace MCDF. File Allocation Table (FAT) spravuje alokaci sektorů a sektorové řetězce. Obsahuje pole 32bitových čísel sektorů. Každý index v poli představuje číslo sektoru, zatímco jeho hodnota představuje další sektor v řetězci nebo speciální hodnotu.
 
 ## Reference
 

@@ -51,5 +51,5 @@ Windows хранит список всех файлов дампа памяти 
 
 ## Ссылка
 
-* [Как прочитать небольшой файл дампа памяти, созданный Windows, в случае сбоя](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -файл)
+* [Как прочитать небольшой файл дампа памяти, созданный Windows, в случае сбоя](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump-file)
 

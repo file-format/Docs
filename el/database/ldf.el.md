@@ -41,5 +41,5 @@
 ## βιβλιογραφικές αναφορές
 
 * [Αρχεία βάσης δεδομένων και ομάδες αρχείων](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [Οδηγός Αρχιτεκτονικής και Διαχείρισης Καταγραφής Συναλλαγών](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql- διακομιστής-έκδοση 15)
+* [Οδηγός Αρχιτεκτονικής και Διαχείρισης Καταγραφής Συναλλαγών](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql-server-ver15)
 

@@ -94,5 +94,5 @@ Uppgifter måste alltid finnas i [Target](https://msdn.microsoft.com/library/t50
 
 ## Referenser
 
-* [Förstå projektfilen - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- fil)
+* [Förstå projektfilen - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
 
