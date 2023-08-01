@@ -43,5 +43,5 @@ A MOBI fájlformátumnak vannak bizonyos korlátozásai, amelyeket alább felsor
 
 ## Hivatkozások
 
-* [MobiPocket fájlformátum](https://web.archive.org/web/20160414103204/http://www.mobipocket.com/dev/article.asp?BaseFolder#prcgen&File#mobiformat.htm)
+* [MobiPocket fájlformátum](https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
 

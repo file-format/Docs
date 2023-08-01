@@ -43,5 +43,5 @@ Formát souboru MOBI má určitá omezení, jak je uvedeno níže.
 
 ## Reference
 
-* [Formát souboru MobiPocket](https://web.archive.org/web/20160414103204/http://www.mobipocket.com/dev/article.asp?BaseFolder#prcgen&File#mobiformat.htm)
+* [Formát souboru MobiPocket](https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
 

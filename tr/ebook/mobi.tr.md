@@ -43,5 +43,5 @@ MOBI dosya formatının aşağıda listelenen belirli sınırlamaları vardır.
 
 ## Referanslar
 
-* [MobiPocket Dosya Biçimi](https://web.archive.org/web/20160414103204/http://www.mobipocket.com/dev/article.asp?BaseFolder#prcgen&File#mobiformat.htm)
+* [MobiPocket Dosya Biçimi](https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
 

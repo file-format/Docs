@@ -43,5 +43,5 @@ MOBI फ़ाइल स्वरूप की कुछ सीमाएँ ह�
 
 ## संदर्भ
 
-* [मोबीपॉकेट फाइल फॉर्मेट](https://web.archive.org/web/20160414103204/http://www.mobipocket.com/dev/article.asp?BaseFolder#prcgen&File#mobiformat.htm)
+* [मोबीपॉकेट फाइल फॉर्मेट](https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
 
