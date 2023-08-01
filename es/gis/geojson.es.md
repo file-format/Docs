@@ -120,6 +120,6 @@ Una gran cantidad de paquetes de software GIS y de mapeo son compatibles con Geo
 
 ## Referencias ##
 
-* [macwright.org](https://macwright.org/2015/03/23/geojson-segundo-mordisco.html)
+* [macwright.org](https://macwright.org/2015/03/23/geojson-second-bite.html)
 * [GeoJSON - Por Wikipedia](https://en.wikipedia.org/wiki/GeoJSON)
 
