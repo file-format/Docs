@@ -86,5 +86,5 @@ typedef struct tagRGBQUAD {
 |32 बिट प्रारूप|32 बिट छवियों में अधिकतम 2^24 रंग होते हैं (biBitCount == 24)।
 
 ## संदर्भ ##
-* [डिवाइस-इंडिपेंडेंट बिटमैप्स - माइक्रोसॉफ्ट द्वारा](https://learn.microsoft.com/en-us/windows/win32/gdi/device-inential-bitmaps)
+* [डिवाइस-इंडिपेंडेंट बिटमैप्स - माइक्रोसॉफ्ट द्वारा](https://learn.microsoft.com/en-us/windows/win32/gdi/device-independent-bitmaps)
 
