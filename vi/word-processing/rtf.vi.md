@@ -19,7 +19,7 @@
 
 ## Tệp RTF là gì?
 
-Được Microsoft giới thiệu và ghi lại, Định dạng văn bản có định dạng (**RTF**) đại diện cho một phương pháp mã hóa văn bản và đồ họa được định dạng để sử dụng trong các ứng dụng. Định dạng tạo điều kiện trao đổi tài liệu đa nền tảng với các Sản phẩm khác của Microsoft, do đó phục vụ mục đích tương tác. Khả năng này làm cho nó trở thành tiêu chuẩn truyền dữ liệu giữa phần mềm xử lý văn bản và do đó, nội dung có thể được chuyển từ hệ điều hành này sang hệ điều hành khác mà không làm mất định dạng tài liệu. Thông số định dạng tệp được Microsoft cung cấp để [tải xuống](https://www.microsoft.com/en-us/download/details.aspx?id#10725) công khai và có thể được tham khảo từ quan điểm của nhà phát triển.
+Được Microsoft giới thiệu và ghi lại, Định dạng văn bản có định dạng (**RTF**) đại diện cho một phương pháp mã hóa văn bản và đồ họa được định dạng để sử dụng trong các ứng dụng. Định dạng tạo điều kiện trao đổi tài liệu đa nền tảng với các Sản phẩm khác của Microsoft, do đó phục vụ mục đích tương tác. Khả năng này làm cho nó trở thành tiêu chuẩn truyền dữ liệu giữa phần mềm xử lý văn bản và do đó, nội dung có thể được chuyển từ hệ điều hành này sang hệ điều hành khác mà không làm mất định dạng tài liệu. Thông số định dạng tệp được Microsoft cung cấp để [tải xuống](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf) công khai và có thể được tham khảo từ quan điểm của nhà phát triển.
 
 ## Lịch sử tóm tắt về định dạng tệp RTF ##
 
@@ -63,7 +63,7 @@ Một nhóm có thể bao gồm văn bản, từ điều khiển hoặc ký hi�
 
 Tệp RTF có cú pháp Chuẩn sau:
 
-Được Microsoft giới thiệu và ghi lại, Định dạng văn bản có định dạng (**RTF**) đại diện cho một phương pháp mã hóa văn bản và đồ họa được định dạng để sử dụng trong các ứng dụng. Định dạng tạo điều kiện trao đổi tài liệu đa nền tảng với các Sản phẩm khác của Microsoft, do đó phục vụ mục đích tương tác. Khả năng này làm cho nó trở thành tiêu chuẩn truyền dữ liệu giữa phần mềm xử lý văn bản và do đó, nội dung có thể được chuyển từ hệ điều hành này sang hệ điều hành khác mà không làm mất định dạng tài liệu. Thông số định dạng tệp được Microsoft cung cấp để [tải xuống](https://www.microsoft.com/en-us/download/details.aspx?id#10725) công khai và có thể được tham khảo từ quan điểm của nhà phát triển.
+Được Microsoft giới thiệu và ghi lại, Định dạng văn bản có định dạng (**RTF**) đại diện cho một phương pháp mã hóa văn bản và đồ họa được định dạng để sử dụng trong các ứng dụng. Định dạng tạo điều kiện trao đổi tài liệu đa nền tảng với các Sản phẩm khác của Microsoft, do đó phục vụ mục đích tương tác. Khả năng này làm cho nó trở thành tiêu chuẩn truyền dữ liệu giữa phần mềm xử lý văn bản và do đó, nội dung có thể được chuyển từ hệ điều hành này sang hệ điều hành khác mà không làm mất định dạng tài liệu. Thông số định dạng tệp được Microsoft cung cấp để [tải xuống](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf) công khai và có thể được tham khảo từ quan điểm của nhà phát triển.
 
 #### Tiêu đề RTF ####
 
@@ -128,6 +128,6 @@ Mọi tài liệu RTF phải kết thúc bằng }, để đóng nhóm được m
 
 ## Người giới thiệu ##
 
-* [Thông số kỹ thuật RTF 1.9.1](https://www.microsoft.com/en-us/download/details.aspx?id#10725)
+* [Thông số kỹ thuật RTF 1.9.1](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf)
 * [Định dạng văn bản có định dạng](https://en.wikipedia.org/wiki/Rich_Text_Format)
 

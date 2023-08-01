@@ -19,7 +19,7 @@
 
 ## Czym jest plik RTF?
 
-Wprowadzony i udokumentowany przez firmę Microsoft format tekstu sformatowanego (**RTF**) reprezentuje metodę kodowania sformatowanego tekstu i grafiki do użytku w aplikacjach. Format ułatwia międzyplatformową wymianę dokumentów z innymi produktami firmy Microsoft, służąc w ten sposób interoperacyjności. Ta funkcja sprawia, że jest to standard przesyłania danych między programami do edycji tekstu, dzięki czemu zawartość może być przenoszona z jednego systemu operacyjnego do drugiego bez utraty formatowania dokumentu. Specyfikacje formatu plików są dostępne przez firmę Microsoft do [pobrania](https://www.microsoft.com/en-us/download/details.aspx?id#10725) i można się do nich odwoływać z perspektywy programisty.
+Wprowadzony i udokumentowany przez firmę Microsoft format tekstu sformatowanego (**RTF**) reprezentuje metodę kodowania sformatowanego tekstu i grafiki do użytku w aplikacjach. Format ułatwia międzyplatformową wymianę dokumentów z innymi produktami firmy Microsoft, służąc w ten sposób interoperacyjności. Ta funkcja sprawia, że jest to standard przesyłania danych między programami do edycji tekstu, dzięki czemu zawartość może być przenoszona z jednego systemu operacyjnego do drugiego bez utraty formatowania dokumentu. Specyfikacje formatu plików są dostępne przez firmę Microsoft do [pobrania](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf) i można się do nich odwoływać z perspektywy programisty.
 
 ## Krótka historia formatu plików RTF ##
 
@@ -63,7 +63,7 @@ Grupa może składać się z tekstu, słów kontrolnych lub symboli kontrolnych 
 
 Plik RTF ma następującą standardową składnię:
 
-Wprowadzony i udokumentowany przez firmę Microsoft format tekstu sformatowanego (**RTF**) reprezentuje metodę kodowania sformatowanego tekstu i grafiki do użytku w aplikacjach. Format ułatwia międzyplatformową wymianę dokumentów z innymi produktami firmy Microsoft, służąc w ten sposób interoperacyjności. Ta funkcja sprawia, że jest to standard przesyłania danych między programami do edycji tekstu, dzięki czemu zawartość może być przenoszona z jednego systemu operacyjnego do drugiego bez utraty formatowania dokumentu. Specyfikacje formatu plików są dostępne przez firmę Microsoft do [pobrania](https://www.microsoft.com/en-us/download/details.aspx?id#10725) i można się do nich odwoływać z perspektywy programisty.
+Wprowadzony i udokumentowany przez firmę Microsoft format tekstu sformatowanego (**RTF**) reprezentuje metodę kodowania sformatowanego tekstu i grafiki do użytku w aplikacjach. Format ułatwia międzyplatformową wymianę dokumentów z innymi produktami firmy Microsoft, służąc w ten sposób interoperacyjności. Ta funkcja sprawia, że jest to standard przesyłania danych między programami do edycji tekstu, dzięki czemu zawartość może być przenoszona z jednego systemu operacyjnego do drugiego bez utraty formatowania dokumentu. Specyfikacje formatu plików są dostępne przez firmę Microsoft do [pobrania](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf) i można się do nich odwoływać z perspektywy programisty.
 
 #### Nagłówek RTF ####
 
@@ -128,6 +128,6 @@ Każdy dokument RTF musi kończyć się znakiem }, aby zamknąć grupę otwartą
 
 ## Bibliografia ##
 
-* [Specyfikacje RTF 1.9.1](https://www.microsoft.com/en-us/download/details.aspx?id#10725)
+* [Specyfikacje RTF 1.9.1](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf)
 * [Rich_Text_Format](https://en.wikipedia.org/wiki/Rich_Text_Format)
 

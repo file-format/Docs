@@ -19,7 +19,7 @@
 
 ## .rtf dosyası nedir?
 
-Microsoft tarafından tanıtılan ve belgelenen Zengin Metin Biçimi (**RTF**), uygulamalarda kullanılmak üzere biçimlendirilmiş metin ve grafikleri kodlama yöntemini temsil eder. Biçim, diğer Microsoft Ürünleri ile platformlar arası belge alışverişini kolaylaştırır ve böylece birlikte çalışabilirlik amacına hizmet eder. Bu yetenek, onu kelime işlem yazılımları arasında bir veri aktarımı standardı haline getirir ve bu nedenle içerikler, belge formatını kaybetmeden bir işletim sisteminden diğerine aktarılabilir. Dosya formatı belirtimleri, Microsoft tarafından genel [indirme](https://www.microsoft.com/en-us/download/details.aspx?id#10725) için mevcuttur ve geliştiricinin bakış açısından atıfta bulunulabilir.
+Microsoft tarafından tanıtılan ve belgelenen Zengin Metin Biçimi (**RTF**), uygulamalarda kullanılmak üzere biçimlendirilmiş metin ve grafikleri kodlama yöntemini temsil eder. Biçim, diğer Microsoft Ürünleri ile platformlar arası belge alışverişini kolaylaştırır ve böylece birlikte çalışabilirlik amacına hizmet eder. Bu yetenek, onu kelime işlem yazılımları arasında bir veri aktarımı standardı haline getirir ve bu nedenle içerikler, belge formatını kaybetmeden bir işletim sisteminden diğerine aktarılabilir. Dosya formatı belirtimleri, Microsoft tarafından genel [indirme](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf) için mevcuttur ve geliştiricinin bakış açısından atıfta bulunulabilir.
 
 ## RTF Dosya Biçiminin Kısa Tarihi ##
 
@@ -63,7 +63,7 @@ Bir grup, köşeli ayraçlar (**{ }**) içine alınmış metin, kontrol sözcük
 
 Bir RTF dosyası aşağıdaki Standart sözdizimine sahiptir:
 
-Microsoft tarafından tanıtılan ve belgelenen Zengin Metin Biçimi (**RTF**), uygulamalarda kullanılmak üzere biçimlendirilmiş metin ve grafikleri kodlama yöntemini temsil eder. Biçim, diğer Microsoft Ürünleri ile platformlar arası belge alışverişini kolaylaştırır ve böylece birlikte çalışabilirlik amacına hizmet eder. Bu yetenek, onu kelime işlem yazılımları arasında bir veri aktarımı standardı haline getirir ve bu nedenle içerikler, belge formatını kaybetmeden bir işletim sisteminden diğerine aktarılabilir. Dosya formatı belirtimleri, Microsoft tarafından genel [indirme](https://www.microsoft.com/en-us/download/details.aspx?id#10725) için mevcuttur ve geliştiricinin bakış açısından atıfta bulunulabilir.
+Microsoft tarafından tanıtılan ve belgelenen Zengin Metin Biçimi (**RTF**), uygulamalarda kullanılmak üzere biçimlendirilmiş metin ve grafikleri kodlama yöntemini temsil eder. Biçim, diğer Microsoft Ürünleri ile platformlar arası belge alışverişini kolaylaştırır ve böylece birlikte çalışabilirlik amacına hizmet eder. Bu yetenek, onu kelime işlem yazılımları arasında bir veri aktarımı standardı haline getirir ve bu nedenle içerikler, belge formatını kaybetmeden bir işletim sisteminden diğerine aktarılabilir. Dosya formatı belirtimleri, Microsoft tarafından genel [indirme](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf) için mevcuttur ve geliştiricinin bakış açısından atıfta bulunulabilir.
 
 #### RTF Başlığı ####
 
@@ -128,6 +128,6 @@ Belgedeki ilk karakter olan { tarafından açılan grubu kapatmak için her RTF 
 
 ## Referanslar ##
 
-* [RTF 1.9.1 Spesifikasyonları](https://www.microsoft.com/en-us/download/details.aspx?id#10725)
+* [RTF 1.9.1 Spesifikasyonları](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf)
 * [Zengin Metin Biçimi](https://en.wikipedia.org/wiki/Rich_Text_Format)
 
