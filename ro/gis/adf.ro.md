@@ -35,6 +35,4 @@ Rasterele GRID sunt stocate în spații de lucru, unde un spațiu de lucru conț
 
 ## Referințe ##
 
-* [Format grilă ESRI](https://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//009t0000000w000000)
-* [Întrebări frecvente: Care este structura de fișiere a unei rețele Arc/INFO?](https://support.esri.com/en/technical-article/000008526)
-
+* [Format grilă ESRI](https://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/esri-grid-format.htm)

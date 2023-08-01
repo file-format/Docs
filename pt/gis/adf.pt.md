@@ -35,6 +35,4 @@ Os rasters GRID são armazenados em áreas de trabalho, onde uma área de trabal
 
 ## Referências ##
 
-* [Formato de grade ESRI](https://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//009t0000000w000000)
-* [FAQ: Qual é a estrutura do arquivo de um Arc/INFO Grid?](https://support.esri.com/en/technical-article/000008526)
-
+* [Formato de grade ESRI](https://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/esri-grid-format.htm)
