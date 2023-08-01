@@ -24,13 +24,13 @@ Imagine you have a report in Microsoft Word DOCX file format from which you want
 
 Aspose.Words app offers free conversion of DOCX to PPTX online. You can convert your word documents to Powerpoint presentation online without the need to write any code. Try the Aspose.Words online app now to by clicking the following button.
 
-[![DOCX to PPTX](../docx-to-pptx.png?width=120px&height=60px)](https://products.aspose.app/words/conversion/docx-to-pptx)
+[![DOCX to PPTX](../docx-to-pptx.png?width=120px&height=60px)](https://products.aspose.app/total/conversion/docx-to-pptx)
 
 ### Steps to Convert DOCX to PPTX online
 
 Converting DOCX to PPTX using Aspose.Words online app is simple and includes the following steps.
 
-1. Go to Aspose.Words app for [DOCX to PPTX converter](https://products.aspose.app/words/conversion/docx-to-pptx)
+1. Go to Aspose.Words app for [DOCX to PPTX converter](https://products.aspose.app/total/conversion/docx-to-pptx)
 1. Upload your DOCX file by clicking the upload button
 1. Once done, press the Convert button. This will start the process of converting the DOCX file to PPTX in the background
 1. You will be asked to download the converted PPTX file once the DOCX to PPTX conversion process completes
