@@ -56,5 +56,5 @@ string etiketinin kullanılmasının iki yolu vardır:
 
 * [XML ile Nesne Yönelimli Mesajlaşma](https://docs.oracle.com/cd/A87860_01/doc/appdev.817/a86030/adx16nt5.htm)
 * [Fiziksel İşaretleme Dili](http://web.mit.edu/mecheng/pml/standards.htm)
-* [Bean İşaretleme Dili](https://all4dev.blogspot.com/2019/06/bean-markup-language-tutorial.html)
+
 

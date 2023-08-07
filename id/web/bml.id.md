@@ -56,5 +56,5 @@ Ada dua cara tag string dapat digunakan:
 
 * [Pesan Berorientasi Objek dengan XML](https://docs.oracle.com/cd/A87860_01/doc/appdev.817/a86030/adx16nt5.htm)
 * [Bahasa Markup Fisik](http://web.mit.edu/mecheng/pml/standards.htm)
-* [Bahasa Markup Bean](https://all4dev.blogspot.com/2019/06/bean-markup-language-tutorial.html)
+
 

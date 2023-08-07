@@ -56,5 +56,5 @@ Există două moduri în care eticheta șir poate fi utilizată:
 
 * [Mesajie orientată pe obiecte cu XML](https://docs.oracle.com/cd/A87860_01/doc/appdev.817/a86030/adx16nt5.htm)
 * [Limbajul de marcare fizică](http://web.mit.edu/mecheng/pml/standards.htm)
-* [The Bean Markup Language](https://all4dev.blogspot.com/2019/06/bean-markup-language-tutorial.html)
+
 
