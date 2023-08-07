@@ -43,7 +43,7 @@ Java HS dosyaları XML dosya biçimindedir ve World Wide Web Konsorsiyumu (W3C) 
 
 ### Java HS Dosya Biçimi Örneği
 
-Aşağıda, [Oracle Yardım Seti belgeleri](https://docs.Oracle.com/cd/E19253-01/819-0913/yazar/helpset.html)'den bir yardım seti dosyası örneği verilmiştir.
+Aşağıda, [Oracle Yardım Seti belgeleri](https://docs.Oracle.com/cd/E19253-01/819-0913/author/helpset.html)'den bir yardım seti dosyası örneği verilmiştir.
 
 ```html
 <?xml version='1.0' encoding='ISO-8859-1' ?>
