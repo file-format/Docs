@@ -58,5 +58,5 @@
 ## Посилання ##
 
 * [[MS-WMF]: Формат метафайлу Windows](https://msdn.microsoft.com/en-us/library/cc250370.aspx)
-* [Метафайл Windows – Вікіпедія](https://en.wikipedia.org/wiki/Метафайл_Windows)
+* [Метафайл Windows – Вікіпедія](https://en.wikipedia.org/wiki/Windows_Metafile)
 

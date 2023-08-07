@@ -35,5 +35,5 @@
 ## Список літератури
 
 * [RFC1952: Специфікація формату файлу GZIP](https://datatracker.ietf.org/doc/html/rfc1952), автор [IETF](https://www.ietf.org)
-* [Метафайл Windows – Вікіпедія](https://en.wikipedia.org/wiki/Метафайл_Windows)
+* [Метафайл Windows – Вікіпедія](https://en.wikipedia.org/wiki/Windows_Metafile)
 
