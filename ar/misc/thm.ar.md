@@ -30,9 +30,9 @@
 
 ## كيف تصنع ثيمات Sony Ericsson؟
 
-يمكن استخدام برنامج Sony Themes Creator لإنشاء سمات جديدة لهواتف Sony Ericsson المحمولة. يمكن للمستخدمين متابعة Sony [Themes Creator Developer Guide](https://developer.sony.com/develop/theme-creator/get-started) لإنشاء سمات.
+يمكن استخدام برنامج Sony Themes Creator لإنشاء سمات جديدة لهواتف Sony Ericsson المحمولة. يمكن للمستخدمين متابعة Sony [Themes Creator Developer Guide](https://developer.sony.com/theme-creator/get-started) لإنشاء سمات.
 
 ## مراجع
 
-* [Sony Themes Creator Developer Guide](https://developer.sony.com/develop/theme-creator/get-started)
+* [Sony Themes Creator Developer Guide](https://developer.sony.com/theme-creator/get-started)
 

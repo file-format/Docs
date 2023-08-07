@@ -30,9 +30,9 @@
 
 ## כיצד ליצור ערכות נושא של סוני אריקסון?
 
-ניתן להשתמש בתוכנת Sony Themes Creator כדי ליצור ערכות נושא חדשות עבור ניידים של Sony Ericsson. משתמשים יכולים לעקוב אחר Sony [מדריך למפתחים ליוצרי נושאים](https://developer.sony.com/develop/theme-creator/get-started) כדי ליצור ערכות נושא.
+ניתן להשתמש בתוכנת Sony Themes Creator כדי ליצור ערכות נושא חדשות עבור ניידים של Sony Ericsson. משתמשים יכולים לעקוב אחר Sony [מדריך למפתחים ליוצרי נושאים](https://developer.sony.com/theme-creator/get-started) כדי ליצור ערכות נושא.
 
 ## הפניות
 
-* [מדריך למפתחים של Sony Themes Creator](https://developer.sony.com/develop/theme-creator/get-started)
+* [מדריך למפתחים של Sony Themes Creator](https://developer.sony.com/theme-creator/get-started)
 

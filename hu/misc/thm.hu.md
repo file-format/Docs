@@ -30,9 +30,9 @@ Egy THM-fájl egy XML-fájlt, több képfájlt tartalmaz [.png](/hu/image/png/),
 
 ## Hogyan készítsünk Sony Ericsson témákat?
 
-A Sony Themes Creator szoftverrel új témákat generálhatunk Sony Ericsson mobiltelefonokhoz. A felhasználók a Sony [Themes Creator fejlesztői útmutatóját](https://developer.sony.com/develop/theme-creator/get-started) követhetik témák létrehozásához.
+A Sony Themes Creator szoftverrel új témákat generálhatunk Sony Ericsson mobiltelefonokhoz. A felhasználók a Sony [Themes Creator fejlesztői útmutatóját](https://developer.sony.com/theme-creator/get-started) követhetik témák létrehozásához.
 
 ## Hivatkozások
 
-* [Sony Themes Creator fejlesztői útmutató](https://developer.sony.com/develop/theme-creator/get-started)
+* [Sony Themes Creator fejlesztői útmutató](https://developer.sony.com/theme-creator/get-started)
 

@@ -30,9 +30,9 @@ En THM-fil innehåller en XML-fil, flera bildfilsformat [.png](/sv/image/png/), 
 
 ## Hur skapar man Sony Ericsson-teman?
 
-Programvaran Sony Themes Creator kan användas för att skapa nya teman för Sony Ericsson-mobiler. Användare kan följa Sony [Themes Creator Developer Guide](https://developer.sony.com/develop/theme-creator/get-started) för att skapa teman.
+Programvaran Sony Themes Creator kan användas för att skapa nya teman för Sony Ericsson-mobiler. Användare kan följa Sony [Themes Creator Developer Guide](https://developer.sony.com/theme-creator/get-started) för att skapa teman.
 
 ## Referenser
 
-* [Sony Themes Creator Developer Guide](https://developer.sony.com/develop/theme-creator/get-started)
+* [Sony Themes Creator Developer Guide](https://developer.sony.com/theme-creator/get-started)
 
