@@ -77,5 +77,5 @@ EOF
 
 ## مراجع
 
-- [ARC (تنسيق الملف) - ويكيبيديا](https://en.wikipedia.org/wiki/ARC_ (file_format))
+- [ARC (تنسيق الملف) - ويكيبيديا](https://en.wikipedia.org/wiki/ARC_(file_format))
 

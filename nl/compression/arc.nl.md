@@ -77,5 +77,5 @@ De byte van de compressiemethode geeft de gebruikte compressiemethode aan. Hiero
 
 ## Referenties
 
-- [ARC (bestandsformaat) - Wikipedia](https://en.wikipedia.org/wiki/ARC_(bestandsformaat))
+- [ARC (bestandsformaat) - Wikipedia](https://en.wikipedia.org/wiki/ARC_(file_format))
 

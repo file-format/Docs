@@ -77,5 +77,5 @@ Bajt metody komprese označuje použitou metodu komprese. Níže jsou uvedeny me
 
 ## Reference
 
-- [ARC (formát souboru) - Wikipedie](https://en.wikipedia.org/wiki/ARC_(formát_souboru))
+- [ARC (formát souboru) - Wikipedie](https://en.wikipedia.org/wiki/ARC_(file_format))
 

@@ -77,5 +77,5 @@ Komprimeringsmetodbyten anger vilken komprimeringsmetod som används. Följande 
 
 ## Referenser
 
-- [ARC (filformat) - Wikipedia](https://en.wikipedia.org/wiki/ARC_(filformat))
+- [ARC (filformat) - Wikipedia](https://en.wikipedia.org/wiki/ARC_(file_format))
 
