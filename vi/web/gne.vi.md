@@ -26,5 +26,5 @@ Các tệp GNE đã được sử dụng bởi trò chơi máy tính, Game Never
 
 ## Người giới thiệu
 
-* [Ludicorp](https://vi.wikipedia.org/wiki/Ludicorp)
+* [Ludicorp](https://en.wikipedia.org/wiki/Ludicorp)
 

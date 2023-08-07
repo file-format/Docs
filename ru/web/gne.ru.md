@@ -26,5 +26,5 @@
 
 ## использованная литература
 
-* [Лудикорп](https://en.wikipedia.org/wiki/Лудикорп)
+* [Лудикорп](https://en.wikipedia.org/wiki/Ludicorp)
 
