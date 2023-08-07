@@ -44,5 +44,5 @@ Pliki te mogą być kompatybilne z różnymi urządzeniami. Odtwarzacze tych pli
 
 ## Bibliografia ##
 
-* [AA – z Wikipedii](https://en.wikipedia.org/wiki/Audible_(usługa))
+* [AA – z Wikipedii](https://en.wikipedia.org/wiki/Audible_(service))
 

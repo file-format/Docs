@@ -44,5 +44,5 @@
 
 ## مراجع ##
 
-* [AA - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Audible_ (الخدمة))
+* [AA - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Audible_(service))
 

@@ -44,5 +44,5 @@ File-file ini dapat kompatibel dengan berbagai perangkat. Pemutar untuk file-fil
 
 ## Referensi ##
 
-* [AA - Oleh Wikipedia](https://en.wikipedia.org/wiki/Audible_(layanan))
+* [AA - Oleh Wikipedia](https://en.wikipedia.org/wiki/Audible_(service))
 

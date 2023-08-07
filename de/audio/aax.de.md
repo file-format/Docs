@@ -45,6 +45,6 @@ Aber Sie können noch viele andere Software-Tools finden, die die DRM-Kontrolle 
 
 ## Verweise ##
 
-* [Audible (Dienst) - Von Wikipedia](https://en.wikipedia.org/wiki/Audible_(Dienst))
+* [Audible (Dienst) - Von Wikipedia](https://en.wikipedia.org/wiki/Audible_(service))
 * [Audiodateiformat – von Wikipedia](https://en.wikipedia.org/wiki/Audio_file_format)
 
