@@ -28,5 +28,5 @@
 ## הפניות ##
 
 * [FB2 - מאת ויקיפדיה](https://en.wikipedia.org/wiki/FictionBook)
-* [מפרט ספר ספרותי](http://gribuser.ru/xml/fictionbook/index.html.iw)
+* [מפרט ספר ספרותי](http://gribuser.ru/xml/fictionbook/index.html.en)
 
