@@ -27,5 +27,5 @@
 ## مراجع ##
 
 * [ESRI ArcGIS Pro](https://fileinfo.com/software/esri/arcgis_for_desktop)
-* [تنسيق ملف أبريل - معهد ماساتشوستس للتكنولوجيا](http://kb.mit.edu/confluence/pages/viewpage.action؟pageId=11338198)
+* [تنسيق ملف أبريل - معهد ماساتشوستس للتكنولوجيا](http://kb.mit.edu/confluence/pages/viewpage.action?pageId=11338198)
 
