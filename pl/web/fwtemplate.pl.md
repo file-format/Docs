@@ -26,5 +26,5 @@ Pliki FWTEMPLATE są tworzone i zapisywane w zastrzeżonym formacie plików Free
 
 ## Bibliografia
 
-* [Korzystanie z szablonów w Freeway](https://www.softpress.com/kb/questions/142/Using+Templates+in+Freeway)
+* N/A
 

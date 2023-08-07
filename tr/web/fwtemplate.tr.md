@@ -26,5 +26,5 @@ FWTEMPLATE dosyaları, Freeway'e özel dosya biçiminde oluşturulur ve kaydedil
 
 ## Referanslar
 
-* [Otoyolda Şablonları Kullanma](https://www.softpress.com/kb/questions/142/Using+Templates+in+Freeway)
+* N/A
 

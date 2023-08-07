@@ -26,5 +26,5 @@ FWTEMPLATE — це шаблон документа для створення в
 
 ## Список літератури
 
-* [Використання шаблонів у Freeway](https://www.softpress.com/kb/questions/142/Using+Templates+in+Freeway)
+* N/A
 

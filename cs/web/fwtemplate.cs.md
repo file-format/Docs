@@ -26,5 +26,5 @@ Soubory FWTEMPLATE se vytvářejí a ukládají v proprietárním formátu soubo
 
 ## Reference
 
-* [Using Templates in Freeway](https://www.softpress.com/kb/questions/142/Using+Templates+in+Freeway)
+* N/A
 

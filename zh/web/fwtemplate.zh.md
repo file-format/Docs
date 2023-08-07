@@ -26,5 +26,5 @@ FWTEMPLATE 文件以 Freeway 专有文件格式创建和保存。用于创建网
 
 ## 参考
 
-* [在 Freeway 中使用模板](https://www.softpress.com/kb/questions/142/Using+Templates+in+Freeway)
+* N/A
 

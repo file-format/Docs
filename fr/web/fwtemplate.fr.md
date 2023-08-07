@@ -26,5 +26,5 @@ Les fichiers FWTEMPLATE sont créés et enregistrés au format de fichier propri
 
 ## Références
 
-* [Utilisation de modèles dans Freeway](https://www.softpress.com/kb/questions/142/Using+Templates+in+Freeway)
+* N/A
 

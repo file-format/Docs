@@ -26,5 +26,5 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Χρήση προτύπων στον αυτοκινητόδρομο](https://www.softpress.com/kb/questions/142/Using+Templates+in+Freeway)
+* N/A
 

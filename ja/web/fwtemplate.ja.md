@@ -26,5 +26,5 @@ FWTEMPLATE ファイルは、Freeway 独自のファイル形式で作成およ�
 
 ## 参考文献
 
-* [Freeway でのテンプレートの使用](https://www.softpress.com/kb/questions/142/Using+Templates+in+Freeway)
+* N/A
 

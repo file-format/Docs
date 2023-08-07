@@ -26,5 +26,5 @@ FWTEMPLATE-filer skapas och sparas i Freeways proprietära filformat. De vanliga
 
 ## Referenser
 
-* [Använda mallar i Freeway](https://www.softpress.com/kb/questions/142/Using+Templates+in+Freeway)
+* N/A
 

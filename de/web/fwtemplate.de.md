@@ -26,5 +26,5 @@ FWTEMPLATE-Dateien werden im proprietären Freeway-Dateiformat erstellt und gesp
 
 ## Verweise
 
-* [Vorlagen in Freeway verwenden](https://www.softpress.com/kb/questions/142/Using+Templates+in+Freeway)
+* N/A
 

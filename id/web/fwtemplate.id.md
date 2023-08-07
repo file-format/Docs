@@ -26,5 +26,5 @@ File FWTEMPLATE dibuat dan disimpan dalam format file milik Freeway. Template [H
 
 ## Referensi
 
-* [Menggunakan Template di Freeway](https://www.softpress.com/kb/questions/142/Menggunakan+Templates+in+Freeway)
+* N/A
 
