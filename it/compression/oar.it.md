@@ -24,7 +24,7 @@ Un file con estensione .oar è un file di archivio utilizzato dall'applicazione 
 
 ## Formato file OAR
 
-OAR sono file binari archiviati in un formato di file di archivio compresso. L'ultima versione del formato file OAR è la [versione 1.0](http://opensimulator.org/wiki/OAR_Format_1.0) che presenta importanti modifiche rispetto alla precedente [versione 0.8](http://opensimulator.org/wiki/OAR_Format_0 .8). L'ultima versione supporta l'archiviazione di più regioni in un unico OAR e non è retrocompatibile con le versioni di OpenSimulator precedenti alla 0.7.5. Un file OAR è un file tar compresso con gzip (tar.gz) nel formato tar unix originale (non USTAR).
+OAR sono file binari archiviati in un formato di file di archivio compresso. L'ultima versione del formato file OAR è la [versione 1.0](http://opensimulator.org/wiki/OAR_Format_1.0) che presenta importanti modifiche rispetto alla precedente [versione 0.8](http://opensimulator.org/wiki/OAR_Format_0.8). L'ultima versione supporta l'archiviazione di più regioni in un unico OAR e non è retrocompatibile con le versioni di OpenSimulator precedenti alla 0.7.5. Un file OAR è un file tar compresso con gzip (tar.gz) nel formato tar unix originale (non USTAR).
 
 ## Esempio di regioni OAR
 I file AOR possono contenere più regioni. La struttura dell'archivio è la seguente (questo esempio contiene 4 regioni):

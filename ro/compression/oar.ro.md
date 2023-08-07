@@ -24,7 +24,7 @@ Un fișier cu extensia .oar este un fișier de arhivă utilizat de aplicația Op
 
 ## Format de fișier OAR
 
-OAR sunt fișiere binare care sunt stocate în format de fișier arhivă comprimat. Cea mai recentă versiune a formatului de fișier OAR este [versiunea 1.0](http://opensimulator.org/wiki/OAR_Format_1.0) care are modificări majore față de anterioară [versiunea 0.8](http://opensimulator.org/wiki/OAR_Format_0) .8). Cea mai recentă versiune acceptă stocarea mai multor regiuni într-un singur OAR și nu este compatibilă cu versiunile de OpenSimulator anterioare 0.7.5. Un fișier OAR este un fișier tar cu gzip (tar.gz) în formatul original unix tar (nu USTAR).
+OAR sunt fișiere binare care sunt stocate în format de fișier arhivă comprimat. Cea mai recentă versiune a formatului de fișier OAR este [versiunea 1.0](http://opensimulator.org/wiki/OAR_Format_1.0) care are modificări majore față de anterioară [versiunea 0.8](http://opensimulator.org/wiki/OAR_Format_0.8). Cea mai recentă versiune acceptă stocarea mai multor regiuni într-un singur OAR și nu este compatibilă cu versiunile de OpenSimulator anterioare 0.7.5. Un fișier OAR este un fișier tar cu gzip (tar.gz) în formatul original unix tar (nu USTAR).
 
 ## Exemplu de regiuni OAR
 Fișierele AOR pot conține mai multe regiuni. Structura arhivei este următoarea (acest exemplu conține 4 regiuni):

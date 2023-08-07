@@ -24,7 +24,7 @@ File dengan ekstensi .oar adalah file arsip yang digunakan oleh aplikasi OpenSim
 
 ## Format File OA
 
-OAR adalah file biner yang disimpan dalam format file arsip terkompresi. Versi terbaru format file OAR adalah [versi 1.0](http://opensimulator.org/wiki/OAR_Format_1.0) yang memiliki perubahan besar dari sebelumnya [versi 0.8](http://opensimulator.org/wiki/OAR_Format_0 .8). Versi terbaru mendukung penyimpanan banyak wilayah dalam satu OAR dan tidak kompatibel dengan versi OpenSimulator sebelum 0.7.5. File OAR adalah file tar yang di-gzip (tar.gz) dalam format tar unix asli (bukan USTAR).
+OAR adalah file biner yang disimpan dalam format file arsip terkompresi. Versi terbaru format file OAR adalah [versi 1.0](http://opensimulator.org/wiki/OAR_Format_1.0) yang memiliki perubahan besar dari sebelumnya [versi 0.8](http://opensimulator.org/wiki/OAR_Format_0.8). Versi terbaru mendukung penyimpanan banyak wilayah dalam satu OAR dan tidak kompatibel dengan versi OpenSimulator sebelum 0.7.5. File OAR adalah file tar yang di-gzip (tar.gz) dalam format tar unix asli (bukan USTAR).
 
 ## Contoh Wilayah OAR
 File AOR dapat berisi banyak wilayah. Struktur arsip adalah sebagai berikut (contoh ini berisi 4 wilayah):
