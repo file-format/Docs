@@ -36,5 +36,5 @@ PSPIMAGE 文件可以从 PaintShop Pro 中创建为新文件。由于支持图�
 
 ## 参考
 
-* [PSPIMAGE 转换](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/mp/5288141)
+* [PSPIMAGE 转换](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/m-p/5288141)
 

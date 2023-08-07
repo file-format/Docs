@@ -36,5 +36,5 @@ Các tệp PSPIMAGE có thể được tạo dưới dạng Tệp mới từ bê
 
 ## Người giới thiệu
 
-* [Chuyển đổi PSPIMAGE](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/mp/5288141)
+* [Chuyển đổi PSPIMAGE](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/m-p/5288141)
 
