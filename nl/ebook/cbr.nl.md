@@ -28,5 +28,5 @@ Een CBR-bestand is een [RAR](/nl/compression/rar/)-archief dat als een binair be
 ## Referenties
 
 * [Stripboekarchief](https://en.wikipedia.org/wiki/Comic_book_archive)
-* [Kaliber](https://caliber-ebook.com/)
+* [Kaliber](https://calibre-ebook.com/)
 

@@ -43,5 +43,5 @@ Lezers verwerken het comic.txt-bestand en genereren de inhoudsopgave op basis va
 
 ## Referenties
 
-* [Kaliber](https://caliber-ebook.com/)
+* [Kaliber](https://calibre-ebook.com/)
 
