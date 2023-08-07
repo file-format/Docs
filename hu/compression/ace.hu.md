@@ -24,5 +24,5 @@ Az ACE egy szabadalmaztatott fájlformátum, és technikai részletei nem hozzá
 
 ## Hivatkozások
 
-- [ACE-fájlformátum - Wikipédia](https://en.wikipedia.org/wiki/ACE_(tömörített_fájlformátum))
+- [ACE-fájlformátum - Wikipédia](https://en.wikipedia.org/wiki/ACE_(compressed_file_format))
 

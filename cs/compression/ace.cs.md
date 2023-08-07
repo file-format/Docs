@@ -24,5 +24,5 @@ ACE je proprietární formát souboru a jeho technické podrobnosti nejsou veře
 
 ## Reference
 
-– [Formát souboru ACE – Wikipedie](https://en.wikipedia.org/wiki/ACE_(formát_komprimovaného_souboru))
+– [Formát souboru ACE – Wikipedie](https://en.wikipedia.org/wiki/ACE_(compressed_file_format))
 

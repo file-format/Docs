@@ -24,5 +24,5 @@ ACE è un formato di file proprietario e i suoi dettagli tecnici non sono dispon
 
 ## Riferimenti
 
-- [Formato file ACE - Wikipedia](https://en.wikipedia.org/wiki/ACE_(formato_file_compresso))
+- [Formato file ACE - Wikipedia](https://en.wikipedia.org/wiki/ACE_(compressed_file_format))
 

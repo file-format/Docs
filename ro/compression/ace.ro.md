@@ -24,5 +24,5 @@ ACE este un format de fișier proprietar și detaliile sale tehnice nu sunt disp
 
 ## Referințe
 
-- [Format de fișier ACE - Wikipedia](https://en.wikipedia.org/wiki/ACE_(format_fișier_comprimat))
+- [Format de fișier ACE - Wikipedia](https://en.wikipedia.org/wiki/ACE_(compressed_file_format))
 
