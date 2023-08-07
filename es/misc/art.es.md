@@ -38,5 +38,5 @@ El formato de archivo ART contiene la siguiente información:
 ## Referencias
 
 * [BERNINA](https://www.bernina.com/en-US/Home-United-States)
-* [Software de bordado de BERNINA V8: sobre formatos, extensiones y archivos](https://blog.bernina.com/es/2019/07/leccion-14-software-de-bordado-de-bernina-v8/)
+* [Software de bordado de BERNINA V8: sobre formatos, extensiones y archivos](https://blog.bernina.com/en/2019/07/lesson-14-bernina-embroidery-software-v8/)
 

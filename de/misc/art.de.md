@@ -38,5 +38,5 @@ Das ART-Dateiformat enthält die folgenden Informationen:
 ## Verweise
 
 * [BERNINA](https://www.bernina.com/en-US/Home-United-States)
-* [BERNINA-Sticksoftware V8: Informationen zu Formaten, Erweiterungen und Dateien](https://blog.bernina.com/de/2019/07/lektion-14-bernina-sticksoftware-v8/)
+* [BERNINA-Sticksoftware V8: Informationen zu Formaten, Erweiterungen und Dateien](https://blog.bernina.com/en/2019/07/lesson-14-bernina-embroidery-software-v8/)
 
