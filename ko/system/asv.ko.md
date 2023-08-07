@@ -30,5 +30,5 @@ ASV 파일은 바이너리 파일 형식으로 저장되며 그 내용은 사람
 
 ## 참고문헌
 
-* [어도비 포토샵에서 ASV 파일 불러오기](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/mp/12587356)
+* [어도비 포토샵에서 ASV 파일 불러오기](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/m-p/12587356)
 

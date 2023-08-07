@@ -30,5 +30,5 @@ ASV ファイルはバイナリ ファイル形式で保存され、その内容
 
 ## 参考文献
 
-* [Adobe Photoshop で ASV ファイルを読み込む](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/mp/12587356)
+* [Adobe Photoshop で ASV ファイルを読み込む](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/m-p/12587356)
 

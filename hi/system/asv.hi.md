@@ -30,5 +30,5 @@
 
 ## संदर्भ
 
-* [एडोब फोटोशॉप में एएसवी फ़ाइल लोड करें](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/mp/12587356)
+* [एडोब फोटोशॉप में एएसवी फ़ाइल लोड करें](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/m-p/12587356)
 

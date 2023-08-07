@@ -30,5 +30,5 @@ Los archivos ASV se guardan en formato de archivo binario y su contenido no est√
 
 ## Referencias
 
-* [Cargar archivo ASV en Adobe Photoshop](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/mp/12587356)
+* [Cargar archivo ASV en Adobe Photoshop](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/m-p/12587356)
 

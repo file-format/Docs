@@ -30,5 +30,5 @@ Pliki ASV są zapisywane w formacie pliku binarnego, a ich zawartość nie jest 
 
 ## Bibliografia
 
-* [Załaduj plik ASV w programie Adobe Photoshop](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/mp/12587356)
+* [Załaduj plik ASV w programie Adobe Photoshop](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/m-p/12587356)
 

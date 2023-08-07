@@ -30,5 +30,5 @@ ASV dosyaları ikili dosya biçiminde kaydedilir ve içerikleri insan tarafında
 
 ## Referanslar
 
-* [ASV Dosyasını Adobe Photoshop'ta yükleyin](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/mp/12587356)
+* [ASV Dosyasını Adobe Photoshop'ta yükleyin](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/m-p/12587356)
 

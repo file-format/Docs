@@ -30,5 +30,5 @@ ASV-filer sparas i binärt filformat och deras innehåll är inte i läsbar form
 
 ## Referenser
 
-* [Ladda in ASV-fil i Adobe Photoshop](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/mp/12587356)
+* [Ladda in ASV-fil i Adobe Photoshop](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/m-p/12587356)
 
