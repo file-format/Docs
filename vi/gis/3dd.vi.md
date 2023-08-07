@@ -27,6 +27,6 @@ Các tệp 3DD được lưu vào đĩa ở định dạng tệp nhị phân và
 ## Người giới thiệu
 
 * [ESRI ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
-* [Lưu tài liệu 3D](https://desktop.arcgis.com/en/arcmap/10.3/guide-books/extensions/3d-analyst/about-save-a-3d-document.htm)
+* [Lưu tài liệu 3D](https://desktop.arcgis.com/en/arcmap/10.3/guide-books/extensions/3d-analyst/about-saving-a-3d-document.htm)
 * [Nhà phân tích 3D và ArcGlobe](https://desktop.arcgis.com/en/arcmap/latest/extensions/3d-analyst/3d-analyst-and-arcglobe.htm)
 
