@@ -23,6 +23,6 @@ Un fichier FCS est un fichier tableur créé avec le logiciel PFS:First Choice q
 
 ## Références
 
-* [PFD : First Choice](http://justsolve.archiveteam.org/wiki/PFS : First_Choice)
+* [PFD : First Choice](http://justsolve.archiveteam.org/wiki/PFS:First_Choice)
 * [Société d'édition de logiciels](https://en.wikipedia.org/wiki/Software_Publishing_Corporation)
 
