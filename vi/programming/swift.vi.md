@@ -37,7 +37,7 @@ Tệp có phần mở rộng .swift đề cập đến ngôn ngữ lập trình 
 
 ## Định dạng tệp Swift - Thông tin khác
 
-Các tệp Swift là các tệp văn bản thuần túy có thể được mở bằng bất kỳ trình soạn thảo văn bản nào. Trình soạn thảo văn bản chính được sử dụng để mở và chỉnh sửa các tệp Swift là Xcode của Apple. Nhiều phần của Swift quen thuộc với việc phát triển ứng dụng bằng C và Objective-C. Tài liệu Swift cung cấp [hướng dẫn phát triển ứng dụng](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) chi tiết để viết mã bằng Swift.
+Các tệp Swift là các tệp văn bản thuần túy có thể được mở bằng bất kỳ trình soạn thảo văn bản nào. Trình soạn thảo văn bản chính được sử dụng để mở và chỉnh sửa các tệp Swift là Xcode của Apple. Nhiều phần của Swift quen thuộc với việc phát triển ứng dụng bằng C và Objective-C. Tài liệu Swift cung cấp [hướng dẫn phát triển ứng dụng](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) chi tiết để viết mã bằng Swift.
 
 ## Tính năng ngôn ngữ Swift
 

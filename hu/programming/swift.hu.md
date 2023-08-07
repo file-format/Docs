@@ -37,7 +37,7 @@ A .swift kiterjesztésű fájl az Apple által bevezetett SWIFT programozási ny
 
 ## Swift fájlformátum – További információ
 
-A Swift fájlok egyszerű szöveges fájlok, amelyek bármely szövegszerkesztővel megnyithatók. A swift fájlok megnyitásához és szerkesztéséhez használt elsődleges szövegszerkesztő az Apple Xcode. A Swift számos része ismeri a C és Objective-C használatával történő alkalmazásfejlesztést. A Swift dokumentációja részletes [alkalmazásfejlesztési útmutatót](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) tartalmaz a Swift használatával történő kódíráshoz.
+A Swift fájlok egyszerű szöveges fájlok, amelyek bármely szövegszerkesztővel megnyithatók. A swift fájlok megnyitásához és szerkesztéséhez használt elsődleges szövegszerkesztő az Apple Xcode. A Swift számos része ismeri a C és Objective-C használatával történő alkalmazásfejlesztést. A Swift dokumentációja részletes [alkalmazásfejlesztési útmutatót](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) tartalmaz a Swift használatával történő kódíráshoz.
 
 ## Swift nyelvi funkciók
 

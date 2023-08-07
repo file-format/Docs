@@ -37,7 +37,7 @@ Un fichier avec l'extension .swift fait référence au langage de programmation 
 
 ## Format de fichier Swift - Plus d'informations
 
-Les fichiers Swift sont des fichiers texte brut qui peuvent être ouverts avec n'importe quel éditeur de texte. Le principal éditeur de texte utilisé pour ouvrir et modifier les fichiers Swift est Xcode d'Apple. De nombreuses parties de Swift sont familiarisées avec le développement d'applications en C et Objective-C. La documentation Swift fournit un [guide de développement d'application](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) détaillé pour l'écriture de code à l'aide de Swift.
+Les fichiers Swift sont des fichiers texte brut qui peuvent être ouverts avec n'importe quel éditeur de texte. Le principal éditeur de texte utilisé pour ouvrir et modifier les fichiers Swift est Xcode d'Apple. De nombreuses parties de Swift sont familiarisées avec le développement d'applications en C et Objective-C. La documentation Swift fournit un [guide de développement d'application](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) détaillé pour l'écriture de code à l'aide de Swift.
 
 ## Fonctionnalités du langage Swift
 

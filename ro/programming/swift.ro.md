@@ -37,7 +37,7 @@ Un fișier cu extensia .swift se referă la limbajul de programare SWIFT introdu
 
 ## Format de fișier Swift - Mai multe informații
 
-Fișierele Swift sunt fișiere text simplu care pot fi deschise cu orice editor de text. Editorul de text principal utilizat pentru deschiderea și editarea fișierelor Swift este Xcode de la Apple. Multe părți ale Swift sunt familiarizate cu dezvoltarea aplicațiilor folosind C și Objective-C. Documentația Swift oferă [ghid de dezvoltare a aplicației](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) detaliat pentru scrierea codului folosind Swift.
+Fișierele Swift sunt fișiere text simplu care pot fi deschise cu orice editor de text. Editorul de text principal utilizat pentru deschiderea și editarea fișierelor Swift este Xcode de la Apple. Multe părți ale Swift sunt familiarizate cu dezvoltarea aplicațiilor folosind C și Objective-C. Documentația Swift oferă [ghid de dezvoltare a aplicației](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) detaliat pentru scrierea codului folosind Swift.
 
 ## Caracteristici Swift Language
 

@@ -37,7 +37,7 @@ File dengan ekstensi .swift mengacu pada bahasa pemrograman SWIFT yang diperkena
 
 ## Format File Swift - Informasi Lebih Lanjut
 
-File Swift adalah file teks biasa yang dapat dibuka dengan editor teks apa pun. Editor teks utama yang digunakan untuk membuka dan mengedit file cepat adalah Xcode Apple. Banyak bagian Swift yang akrab dengan pengembangan aplikasi menggunakan C dan Objective-C. Dokumentasi Swift menyediakan [panduan pengembangan aplikasi](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) mendetail untuk menulis kode menggunakan Swift.
+File Swift adalah file teks biasa yang dapat dibuka dengan editor teks apa pun. Editor teks utama yang digunakan untuk membuka dan mengedit file cepat adalah Xcode Apple. Banyak bagian Swift yang akrab dengan pengembangan aplikasi menggunakan C dan Objective-C. Dokumentasi Swift menyediakan [panduan pengembangan aplikasi](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) mendetail untuk menulis kode menggunakan Swift.
 
 ## Fitur Bahasa Cepat
 

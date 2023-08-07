@@ -37,7 +37,7 @@
 
 ## פורמט קובץ Swift - מידע נוסף
 
-קבצי Swift הם קבצי טקסט רגיל שניתן לפתוח עם כל עורך טקסט. עורך הטקסט העיקרי המשמש לפתיחה ועריכה של קבצים מהירים הוא Xcode של אפל. חלקים רבים של Swift מכירים את פיתוח האפליקציות באמצעות C ו-Objective-C. התיעוד של Swift מספק [מדריך לפיתוח יישומים](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) מפורט לכתיבת קוד באמצעות Swift.
+קבצי Swift הם קבצי טקסט רגיל שניתן לפתוח עם כל עורך טקסט. עורך הטקסט העיקרי המשמש לפתיחה ועריכה של קבצים מהירים הוא Xcode של אפל. חלקים רבים של Swift מכירים את פיתוח האפליקציות באמצעות C ו-Objective-C. התיעוד של Swift מספק [מדריך לפיתוח יישומים](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) מפורט לכתיבת קוד באמצעות Swift.
 
 ## תכונות שפה של Swift
 
