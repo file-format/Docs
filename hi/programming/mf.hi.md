@@ -56,5 +56,5 @@
 ## संदर्भ
 
 * [ओरेकल - जार फ़ाइल स्वरूप](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html)
-* [JAR फाइल फॉर्मेट](https://en.wikipedia.org/wiki/JAR_(file_format)#:~:text=A%20JAR%20(Java%20ARchive)%20is,into%20one%20file%20for% 20 वितरण। और पाठ = वे% 20 हैं% 20 निर्मित% 20% 20 पर, जार% 20 फ़ाइल% 20 विस्तार।)
+* [JAR फाइल फॉर्मेट](https://en.wikipedia.org/wiki/JAR_(file_format))
 

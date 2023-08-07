@@ -74,5 +74,5 @@ Main-Class: com.example.MyClassName
 ## Referenser
 
 * [JAR-filöversikt](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jarGuide.html)
-* [JAR-filformat](https://en.wikipedia.org/wiki/JAR_(file_format)#:~:text=A%20JAR%20(Java%20ARchive)%20is,into%20one%20file%20for% 20distribution.&text=De%20är%20byggda%20på%20,jar%20filen%20tillägget.)
+* [JAR-filformat](https://en.wikipedia.org/wiki/JAR_(file_format))
 

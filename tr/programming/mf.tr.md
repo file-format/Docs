@@ -56,5 +56,5 @@ Ayrı bir bölüm, bir JAR dosyasının paketleri veya dosyaları için çeşitl
 ## Referanslar
 
 * [Oracle - JAR Dosya Biçimi](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html)
-* [JAR Dosya Biçimi](https://en.wikipedia.org/wiki/JAR_(file_format)#:~:text=A%20JAR%20(Java%20ARchive)%20is,into%20one%20file%20for% 20distribution.&text=Bunlar,jar%20file%20uzantısı üzerinde%20%20oluşturulmuşlardır%20%20.)
+* [JAR Dosya Biçimi](https://en.wikipedia.org/wiki/JAR_(file_format))
 
