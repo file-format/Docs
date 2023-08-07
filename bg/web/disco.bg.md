@@ -26,7 +26,7 @@ DISCO файловете се записват в XML файлов формат.
 
 ## Препратки
 
-* [ДИСКО](https://appsource.microsoft.com/en-us/product/office/WA104381894?tab=Overview)
+* [ДИСКО](https://appsource.microsoft.com/en-us/product/office/WA104381894)
 * [Откриване на уеб услуги](https://en.wikipedia.org/wiki/Web_Services_Discovery)
 * [C# пример за клас DiscoveryClient](https://learn.microsoft.com/en-us/dotnet/api/system.web.services.discovery.discoveryclientprotocol?view=netframework-4.8)
 

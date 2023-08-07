@@ -22,7 +22,7 @@ DISCOMAP 파일은 Microsoft 웹 서비스 검색 도구 **Disco.exe**에서 만
 
 ## 참고문헌
 
-* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894?tab=Overview)
+* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894)
 * [웹 서비스 검색](https://en.wikipedia.org/wiki/Web_Services_Discovery)
 * [DiscoveryClient 클래스의 C# 예제](https://learn.microsoft.com/en-us/dotnet/api/system.web.services.discovery.discoveryclientprotocol?view=netframework-4.8)
 

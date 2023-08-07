@@ -26,7 +26,7 @@
 
 ## อ้างอิง
 
-* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894?tab=Overview)
+* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894)
 * [การค้นพบบริการเว็บ](https://en.wikipedia.org/wiki/Web_Services_Discovery)
 * [ตัวอย่าง C# ของคลาส DiscoveryClient](https://learn.microsoft.com/en-us/dotnet/api/system.web.services.discovery.discoveryclientprotocol?view=netframework-4.8)
 

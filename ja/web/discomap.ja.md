@@ -22,7 +22,7 @@ DISCOMAP ファイルは、Microsoft Web Services Discovery Tool **Disco.exe** �
 
 ## 参考文献
 
-* [ディスコ](https://appsource.microsoft.com/en-us/product/office/WA104381894?tab=概要)
+* [ディスコ](https://appsource.microsoft.com/en-us/product/office/WA104381894)
 * [Web サービスの発見](https://en.wikipedia.org/wiki/Web_Services_Discovery)
 * [C# DiscoveryClient クラスの例](https://learn.microsoft.com/en-us/dotnet/api/system.web.services.discovery.discoveryclientprotocol?view=netframework-4.8)
 

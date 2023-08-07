@@ -26,7 +26,7 @@ DISCO 文件以 XML 文件格式保存。与 Microsoft ASP.NET 开发软件（�
 
 ## 参考
 
-* [迪斯科](https://appsource.microsoft.com/en-us/product/office/WA104381894?tab=Overview)
+* [迪斯科](https://appsource.microsoft.com/en-us/product/office/WA104381894)
 * [网络服务发现](https://en.wikipedia.org/wiki/Web_Services_Discovery)
 * [C# DiscoveryClient 类示例](https://learn.microsoft.com/en-us/dotnet/api/system.web.services.discovery.discoveryclientprotocol?view=netframework-4.8)
 

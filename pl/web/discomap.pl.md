@@ -22,7 +22,7 @@ Plik DISCOMAP to plik wyjściowy tworzony przez narzędzie Microsoft Web Service
 
 ## Bibliografia
 
-* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894?tab=Overview)
+* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894)
 * [Wykrywanie usług sieciowych](https://en.wikipedia.org/wiki/Web_Services_Discovery)
 * [C# Przykład klasy DiscoveryClient](https://learn.microsoft.com/en-us/dotnet/api/system.web.services.discovery.discoveryclientprotocol?view=netframework-4.8)
 

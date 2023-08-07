@@ -22,7 +22,7 @@ Un fișier DISCOMAP este un fișier de ieșire care este creat de Microsoft Web 
 
 ## Referințe
 
-* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894?tab=Overview)
+* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894)
 * [Web Services Discovery](https://en.wikipedia.org/wiki/Web_Services_Discovery)
 * [Exemplu C# de clasă DiscoveryClient](https://learn.microsoft.com/en-us/dotnet/api/system.web.services.discovery.discoveryclientprotocol?view=netframework-4.8)
 

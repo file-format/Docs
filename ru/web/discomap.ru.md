@@ -22,7 +22,7 @@
 
 ## использованная литература
 
-* [ДИСКО](https://appsource.microsoft.com/en-us/product/office/WA104381894?tab=Overview)
+* [ДИСКО](https://appsource.microsoft.com/en-us/product/office/WA104381894)
 * [Обнаружение веб-служб](https://en.wikipedia.org/wiki/Web_Services_Discovery)
 * [Пример C# класса DiscoveryClient](https://learn.microsoft.com/en-us/dotnet/api/system.web.services.discovery.discoveryclientprotocol?view=netframework-4.8)
 

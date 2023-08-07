@@ -26,7 +26,7 @@ Các tệp DISCO được lưu ở định dạng tệp XML. Microsoft Discovery
 
 ## Người giới thiệu
 
-* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894?tab=Overview)
+* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894)
 * [Khám phá dịch vụ web](https://en.wikipedia.org/wiki/Web_Services_Discovery)
 * [Ví dụ C# về Lớp DiscoveryClient](https://learn.microsoft.com/en-us/dotnet/api/system.web.services.Discovery.Discoveryclientprotocol?view=netframework-4.8)
 

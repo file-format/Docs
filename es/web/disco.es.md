@@ -26,7 +26,7 @@ Los archivos DISCO se guardan en formato de archivo XML. Microsoft Discovery Too
 
 ## Referencias
 
-* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894?tab=Overview)
+* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894)
 * [Descubrimiento de servicios web](https://en.wikipedia.org/wiki/Web_Services_Discovery)
 * [Ejemplo en C# de clase DiscoveryClient](https://learn.microsoft.com/en-us/dotnet/api/system.web.services.discovery.discoveryclientprotocol?view=netframework-4.8)
 

@@ -26,7 +26,7 @@ DISCO 파일은 XML 파일 형식으로 저장됩니다. Microsoft Studio와 같
 
 ## 참고문헌
 
-* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894?tab=Overview)
+* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894)
 * [웹 서비스 검색](https://en.wikipedia.org/wiki/Web_Services_Discovery)
 * [DiscoveryClient 클래스의 C# 예제](https://learn.microsoft.com/en-us/dotnet/api/system.web.services.discovery.discoveryclientprotocol?view=netframework-4.8)
 

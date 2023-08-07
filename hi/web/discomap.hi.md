@@ -22,7 +22,7 @@ DISCOMAP फ़ाइल एक आउटपुट फ़ाइल है जो
 
 ## संदर्भ
 
-* [डिस्को](https://appsource.microsoft.com/en-us/product/office/WA104381894?tab=Overview)
+* [डिस्को](https://appsource.microsoft.com/en-us/product/office/WA104381894)
 * [वेब सर्विसेज डिस्कवरी](https://en.wikipedia.org/wiki/Web_Services_Discovery)
 * [डिस्कवरीक्लाइंट क्लास का सी# उदाहरण](https://learn.microsoft.com/en-us/dotnet/api/system.web.services.discovery.discoveryclientprotocol?view=netframework-4.8)
 

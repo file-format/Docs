@@ -22,7 +22,7 @@ Um arquivo DISCOMAP é um arquivo de saída criado pela Microsoft Web Services D
 
 ## Referências
 
-* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894?tab=Overview)
+* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894)
 * [Descoberta de serviços da Web](https://en.wikipedia.org/wiki/Web_Services_Discovery)
 * [Exemplo C# da classe DiscoveryClient](https://learn.microsoft.com/en-us/dotnet/api/system.web.services.discovery.discoveryclientprotocol?view=netframework-4.8)
 

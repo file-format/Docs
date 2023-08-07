@@ -22,7 +22,7 @@ File DISCOMAP adalah file keluaran yang dibuat oleh Alat Penemuan Layanan Web Mi
 
 ## Referensi
 
-* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894?tab=Overview)
+* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894)
 * [Penemuan Layanan Web](https://en.wikipedia.org/wiki/Web_Services_Discovery)
 * [C# Contoh Kelas DiscoveryClient](https://learn.microsoft.com/en-us/dotnet/api/system.web.services.discovery.discoveryclientprotocol?view=netframework-4.8)
 
