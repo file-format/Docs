@@ -27,5 +27,5 @@ Các tệp WUX được lưu dưới dạng tệp nén có thể được giải
 ## Người giới thiệu
 
 * [Trình giả lập Wii U - Cemu](https://cemu.info/)
-* [Cemu - Wikipedia](https://vi.wikipedia.org/wiki/Cemu)
+* [Cemu - Wikipedia](https://en.wikipedia.org/wiki/Cemu)
 
