@@ -44,5 +44,5 @@ Některé specifické nástroje lze použít během prezentace pomocí těchto f
 
 ## Reference ##
 
-* [Keynote – Wikipedia](https://en.wikipedia.org/wiki/Keynote_(prezentační_software))
+* [Keynote – Wikipedia](https://en.wikipedia.org/wiki/Keynote_(presentation_software))
 

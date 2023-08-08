@@ -44,5 +44,5 @@ Einige spezielle Tools können während einer Präsentation mit diesen Dateiform
 
 ## Verweise ##
 
-* [Keynote - Wikipedia](https://en.wikipedia.org/wiki/Keynote_(Präsentationssoftware))
+* [Keynote - Wikipedia](https://en.wikipedia.org/wiki/Keynote_(presentation_software))
 
