@@ -25,5 +25,5 @@ Fișierele PYX sunt fișiere text simplu și sintaxa lor este foarte apropiată 
 ## Referințe
 
 * [Python Wiki](https://wiki.python.org/moin/Pyrex)
-* [Python (limbaj de programare) - Wikipedia](https://en.wikipedia.org/wiki/Python_(limbaj_de_programare))
+* [Python (limbaj de programare) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 

@@ -25,5 +25,5 @@ A PYX fájlok egyszerű szöveges fájlok, és szintaxisuk nagyon közel áll a 
 ## Hivatkozások
 
 * [Python Wiki](https://wiki.python.org/moin/Pyrex)
-* [Python (programozási nyelv) – Wikipédia](https://en.wikipedia.org/wiki/Python_(programozási_nyelv))
+* [Python (programozási nyelv) – Wikipédia](https://en.wikipedia.org/wiki/Python_(programming_language))
 
