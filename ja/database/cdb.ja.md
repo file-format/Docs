@@ -55,6 +55,6 @@ CDB は、最大 4 ギガバイトのデータベースを管理できます。�
 
 ## 参照 ##
 
-* [cdb (ソフトウェア) - ウィキペディア](https://en.wikipedia.org/wiki/Cdb_(ソフトウェア))
+* [cdb (ソフトウェア) - ウィキペディア](https://en.wikipedia.org/wiki/Cdb_(software))
 * [CDB仕様](http://cr.yp.to/cdb.html)
 

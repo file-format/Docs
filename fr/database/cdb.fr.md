@@ -55,6 +55,6 @@ La commande **cdbmake** peut réécrire une base de données entière en deux or
 
 ## Références ##
 
-* [cdb (logiciel) - Wikipédia](https://en.wikipedia.org/wiki/Cdb_(logiciel))
+* [cdb (logiciel) - Wikipédia](https://en.wikipedia.org/wiki/Cdb_(software))
 * [Spécification CDB](http://cr.yp.to/cdb.html)
 

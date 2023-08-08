@@ -55,6 +55,6 @@ Perintah **cdbmake** dapat menulis ulang seluruh database menjadi dua kali lipat
 
 ## Referensi ##
 
-* [cdb (perangkat lunak) - Wikipedia](https://en.wikipedia.org/wiki/Cdb_(perangkat lunak))
+* [cdb (perangkat lunak) - Wikipedia](https://en.wikipedia.org/wiki/Cdb_(software))
 * [spesifikasi CDB](http://cr.yp.to/cdb.html)
 

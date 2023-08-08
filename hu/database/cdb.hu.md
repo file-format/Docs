@@ -55,6 +55,6 @@ A **cdbdump** képes kinyomtatni az adatbázis tartalmát cdbmake-kompatibilis f
 
 ## Hivatkozások ##
 
-* [cdb (szoftver) - Wikipédia](https://en.wikipedia.org/wiki/Cdb_(szoftver))
+* [cdb (szoftver) - Wikipédia](https://en.wikipedia.org/wiki/Cdb_(software))
 * [CDB specifikáció](http://cr.yp.to/cdb.html)
 

@@ -55,6 +55,6 @@
 
 ## Βιβλιογραφικές αναφορές ##
 
-* [cdb (λογισμικό) - Wikipedia](https://en.wikipedia.org/wiki/Cdb_(λογισμικό))
+* [cdb (λογισμικό) - Wikipedia](https://en.wikipedia.org/wiki/Cdb_(software))
 * [προδιαγραφή CDB](http://cr.yp.to/cdb.html)
 

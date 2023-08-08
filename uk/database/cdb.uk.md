@@ -55,6 +55,6 @@ CDB може керувати будь-якою базою даних розмі
 
 ## Посилання ##
 
-* [cdb (програмне забезпечення) - Вікіпедія](https://en.wikipedia.org/wiki/Cdb_(програмне забезпечення))
+* [cdb (програмне забезпечення) - Вікіпедія](https://en.wikipedia.org/wiki/Cdb_(software))
 * [Специфікація CDB](http://cr.yp.to/cdb.html)
 
