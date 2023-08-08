@@ -24,5 +24,5 @@ ACE هو تنسيق ملف خاص ولا تتوفر تفاصيله الفنية 
 
 ## مراجع
 
-- [تنسيق ملف ACE - ويكيبيديا](https://en.wikipedia.org/wiki/ACE_ (compressed_file_format))
+- [تنسيق ملف ACE - ويكيبيديا](https://en.wikipedia.org/wiki/ACE_(compressed_file_format))
 
