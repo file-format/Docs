@@ -73,5 +73,5 @@ JT Open Toolkit (jako standard) a pokročilá komprese jsou zatím dvě kompresn
 ## Reference ##
 
 * [Referenční informace o formátu souboru JT](https://www.plm.automation.siemens.com/en_us/Images/JT-v10-file-format-reference-rev-B_tcm1023-233786.pdf)
-* [JT (formát vizualizace)](https://en.wikipedia.org/wiki/JT_(formát_vizualizace)#Data_model)
+* [JT (formát vizualizace)](https://en.wikipedia.org/wiki/JT_(visualization_format)#Data_model)
 

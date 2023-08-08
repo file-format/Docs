@@ -73,5 +73,5 @@ Până acum, JT Open Toolkit (ca standard) și compresia avansată sunt două te
 ## Referințe ##
 
 * [JT File Format Reference](https://www.plm.automation.siemens.com/en_us/Images/JT-v10-file-format-reference-rev-B_tcm1023-233786.pdf)
-* [JT (format de vizualizare)](https://en.wikipedia.org/wiki/JT_(format_vizualizare)#Data_model)
+* [JT (format de vizualizare)](https://en.wikipedia.org/wiki/JT_(visualization_format)#Data_model)
 

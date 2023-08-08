@@ -73,4 +73,4 @@ Hasta ahora, JT Open Toolkit (como estándar) y la compresión avanzada son dos 
 ## Referencias
 
 * [Referencia de formato de archivo JT](https://www.plm.automation.siemens.com/en_us/Images/JT-v10-file-format-reference-rev-B_tcm1023-233786.pdf)
-* [JT (formato de visualización)](https://en.wikipedia.org/wiki/JT_(visualization_format))
+* [JT (formato de visualización)](https://en.wikipedia.org/wiki/JT_(visualization_format)#Data_model)

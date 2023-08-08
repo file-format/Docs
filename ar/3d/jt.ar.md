@@ -73,5 +73,5 @@
 ## مراجع ##
 
 * [مرجع تنسيق ملف JT](https://www.plm.automation.siemens.com/en_us/Images/JT-v10-file-format-reference-rev-B_tcm1023-233786.pdf)
-* [JT (تنسيق المرئيات)](https://en.wikipedia.org/wiki/JT_ (visualization_format) #Data_model)
+* [JT (تنسيق المرئيات)](https://en.wikipedia.org/wiki/JT_(visualization_format)#Data_model)
 

@@ -73,5 +73,5 @@ JT ファイルは、データ セグメント内に格納されているすべ�
 ## 参照 ##
 
 * [JT ファイル形式リファレンス](https://www.plm.automation.siemens.com/en_us/Images/JT-v10-file-format-reference-rev-B_tcm1023-233786.pdf)
-※【JT(可視化フォーマット)】(https://en.wikipedia.org/wiki/JT_(visualization_format)#Data_model)
+* [JT(可視化フォーマット)](https://en.wikipedia.org/wiki/JT_(visualization_format)#Data_model)
 
