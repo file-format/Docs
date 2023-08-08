@@ -94,5 +94,5 @@ for name in names:
 
 ## Препратки ##
 
-- [Python (език за програмиране) - Уикипедия](https://en.wikipedia.org/wiki/Python_(език за_програмиране))
+- [Python (език за програмиране) - Уикипедия](https://en.wikipedia.org/wiki/Python_(programming_language))
 
