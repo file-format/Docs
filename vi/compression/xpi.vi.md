@@ -38,6 +38,6 @@ Hầu hết mọi người đều tò mò muốn biết liệu các tệp XPI c�
 
 ## Người giới thiệu
 
-* [XPInstall - Wikipedia](https://vi.wikipedia.org/wiki/XPInstall)
+* [XPInstall - Wikipedia](https://en.wikipedia.org/wiki/XPInstall)
 * [Làm cách nào tôi có thể mở Phần mở rộng tệp XPI?](https://support.mozilla.org/en-US/questions/1009049)
 
