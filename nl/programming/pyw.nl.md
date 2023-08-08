@@ -30,5 +30,5 @@ Het PYW-bestandstype wordt voornamelijk geassocieerd met Python door Python Soft
 ## Referenties
 
 * [Python Wiki](https://wiki.python.org/moin/Pyrex)
-* [Python (programmeertaal) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programmeertaal))
+* [Python (programmeertaal) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 

@@ -30,5 +30,5 @@ python.exe е свързан с . py файлове и се отваря и из
 ## Препратки
 
 * [Python Wiki](https://wiki.python.org/moin/Pyrex)
-* [Python (програмен език) - Уикипедия](https://en.wikipedia.org/wiki/Python_(програмен_език))
+* [Python (програмен език) - Уикипедия](https://en.wikipedia.org/wiki/Python_(programming_language))
 
