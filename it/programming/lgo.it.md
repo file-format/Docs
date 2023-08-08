@@ -26,5 +26,5 @@ I file LGO vengono salvati in un formato di file proprietario e la loro struttur
 
 ## Riferimento ##
 
-* [LUA - di Wikipedia](https://en.wikipedia.org/wiki/Lua_(linguaggio_di_programmazione))
+* [LUA - di Wikipedia](https://en.wikipedia.org/wiki/Lua_(programming_language))
 

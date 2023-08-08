@@ -26,5 +26,5 @@
 
 ## المرجعي ##
 
-* [LUA - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Lua_ (printing_language))
+* [LUA - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Lua_(programming_language))
 
