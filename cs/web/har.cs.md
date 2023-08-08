@@ -47,5 +47,5 @@ Následující kroky lze provést na webové stránce, kde se potýkají s probl
 
 ## Reference
 
-* [Formát souboru HAR – Wikipedie](https://en.wikipedia.org/wiki/HAR_(formát_souboru))
+* [Formát souboru HAR – Wikipedie](https://en.wikipedia.org/wiki/HAR_(file_format))
 

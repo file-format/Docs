@@ -47,5 +47,5 @@ Các bước sau đây có thể được thực hiện trên một trang web đ
 
 ## Người giới thiệu
 
-* [Định dạng tệp HAR - Wikipedia](https://vi.wikipedia.org/wiki/HAR_(file_format))
+* [Định dạng tệp HAR - Wikipedia](https://en.wikipedia.org/wiki/HAR_(file_format))
 
