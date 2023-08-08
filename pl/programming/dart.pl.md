@@ -125,6 +125,6 @@ void main() {
 
 ## Bibliografia ##
 
-- [Dart (język programowania) - Wikipedia](https://en.wikipedia.org/wiki/Dart_(język_programowania))
+- [Dart (język programowania) - Wikipedia](https://en.wikipedia.org/wiki/Dart_(programming_language))
 - [Dart](https://dart.dev/)
 

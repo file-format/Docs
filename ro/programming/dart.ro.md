@@ -125,6 +125,6 @@ void main() {
 
 ## Referințe ##
 
-- [Dart (limbaj de programare) - Wikipedia](https://en.wikipedia.org/wiki/Dart_(limbaj_de_programare))
+- [Dart (limbaj de programare) - Wikipedia](https://en.wikipedia.org/wiki/Dart_(programming_language))
 - [Dart](https://dart.dev/)
 

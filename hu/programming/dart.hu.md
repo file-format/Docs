@@ -125,6 +125,6 @@ void main() {
 
 ## Hivatkozások ##
 
-- [Dart (programozási nyelv) - Wikipédia](https://en.wikipedia.org/wiki/Dart_(programozási_nyelv))
+- [Dart (programozási nyelv) - Wikipédia](https://en.wikipedia.org/wiki/Dart_(programming_language))
 - [Dart](https://dart.dev/)
 

@@ -125,6 +125,6 @@ void main() {
 
 ## Người giới thiệu ##
 
-- [Phi tiêu (ngôn ngữ lập trình) - Wikipedia](https://vi.wikipedia.org/wiki/Dart_(programming_language))
+- [Phi tiêu (ngôn ngữ lập trình) - Wikipedia](https://en.wikipedia.org/wiki/Dart_(programming_language))
 - [Phi tiêu](https://dart.dev/)
 

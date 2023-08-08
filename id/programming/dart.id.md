@@ -125,6 +125,6 @@ void main() {
 
 ## Referensi ##
 
-- [Dart (bahasa pemrograman) - Wikipedia](https://en.wikipedia.org/wiki/Dart_(bahasa_program))
+- [Dart (bahasa pemrograman) - Wikipedia](https://en.wikipedia.org/wiki/Dart_(programming_language))
 - [Dart](https://dart.dev/)
 
