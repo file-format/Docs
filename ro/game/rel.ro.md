@@ -82,6 +82,6 @@ Datele de relocare sunt una sau mai multe liste de structuri de 0x8 octeți. Sf�
 ## Referințe
 
 
-* [Format modul modul obiect relocabil](https://en.wikipedia.org/wiki/Format_modul_obiect_relocabil)
+* [Format modul modul obiect relocabil](https://en.wikipedia.org/wiki/Relocatable_Object_Module_Format)
 
 
