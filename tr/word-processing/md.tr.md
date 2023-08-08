@@ -36,7 +36,7 @@ Markdown artık dünyanın en popüler biçimlendirme dillerinden biridir. Micro
 
 John Gruber ve Aaron Swartz, 2004 yılında Markdown dilini, insanların "okuması ve yazması kolay düz metin biçimini kullanarak ve onu XHTML veya HTML'ye dönüştürme seçeneğiyle yazmasını" sağlama fikriyle yarattı. Tasarımının arkasındaki amaç okunabilirliktir - dil, etiketlerin ve biçimlendirme talimatlarının açık olduğu RTF veya HTML gibi biçimlendirme dillerinde yapıldığı gibi biçimlendirme yönergeleriyle etiketlenmiş veya eklenmiş gibi görünmeden olduğu gibi okunabilir. Temel ilham, e-postadaki düz metni işaretlemek için mevcut kuralları kullanmaktır.
 
-O zamandan beri Markdown, [CPAN](https://en.wikipedia.org/) üzerinde bulunan bir Perl [modülünde](https://en.wikipedia.org/wiki/Modular_programming) olduğu gibi başkaları tarafından da yeniden uygulandı. wiki/CPAN) ve diğer çeşitli programlama dillerinde. [BSD tarzı bir lisans](https://en.wikipedia.org/wiki/BSD_license) altında dağıtılır ve birkaç [içerik yönetim sistemi](https://en.wikipedia.org/wiki/Content_management_system) ile birlikte gelir veya bunlar için bir eklenti olarak kullanılabilir.
+O zamandan beri Markdown, [CPAN](https://en.wikipedia.org/wiki/CPAN) üzerinde bulunan bir Perl [modülünde](https://en.wikipedia.org/wiki/Modular_programming) olduğu gibi başkaları tarafından da yeniden uygulandı. ve diğer çeşitli programlama dillerinde. [BSD tarzı bir lisans](https://en.wikipedia.org/wiki/BSD_license) altında dağıtılır ve birkaç [içerik yönetim sistemi](https://en.wikipedia.org/wiki/Content_management_system) ile birlikte gelir veya bunlar için bir eklenti olarak kullanılabilir.
 
 ## Teknik özellikler
 

@@ -36,7 +36,7 @@ Markdown 现在是世界上最流行的标记语言之一。在使用 Microsoft 
 
 John Gruber 和 Aaron Swartz 在 2004 年创建了 Markdown 语言，其理念是让人们“使用易于阅读和编写的纯文本格式进行书写，并可选择将其转换为 XHTML 或 HTML。其设计背后的目标是可读性 - 语言是可读的，而不是看起来像在 RTF 或 HTML 等标记语言中那样标记或添加了格式化指令，其中标记和格式化指令是显而易见的。基本灵感是使用现有的惯例来标记电子邮件中的纯文本。
 
-从那时起，其他人重新实现了 Markdown，就像在 [CPAN](https://en.wikipedia.org/) 上提供的 Perl [模块](https://en.wikipedia.org/wiki/Modular_programming) 中一样wiki/CPAN）和其他各种编程语言。它是根据 [BSD 风格的许可证](https://en.wikipedia.org/wiki/BSD_license) 分发的，并且包含在多个 [内容管理系统](https://en.wikipedia.org/wiki/Content_management_system)。
+从那时起，其他人重新实现了 Markdown，就像在 [CPAN](https://en.wikipedia.org/wiki/CPAN) 上提供的 Perl [模块](https://en.wikipedia.org/wiki/Modular_programming) 中一样 和其他各种编程语言。它是根据 [BSD 风格的许可证](https://en.wikipedia.org/wiki/BSD_license) 分发的，并且包含在多个 [内容管理系统](https://en.wikipedia.org/wiki/Content_management_system)。
 
 ## 技术规格
 
