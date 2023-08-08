@@ -56,4 +56,4 @@ An individual section defines various attributes for packages or files of a JAR 
 ## References
 
  * [Oracle - JAR File Format](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html)
- * [JAR File Format](https://en.wikipedia.org/wiki/JAR_(file_format)
+ * [JAR File Format](https://en.wikipedia.org/wiki/JAR_(file_format))
