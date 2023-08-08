@@ -27,5 +27,5 @@
 
 ## อ้างอิง ##
 
-* [ข้อกำหนดทางเทคนิคของ OpenDocument - โดย Wikipedia](https://en.wikipedia.org/wiki/OpenDocument_technical_ specification)
+* [ข้อกำหนดทางเทคนิคของ OpenDocument - โดย Wikipedia](https://en.wikipedia.org/wiki/OpenDocument_technical_specification)
 
