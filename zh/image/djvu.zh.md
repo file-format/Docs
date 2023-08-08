@@ -25,7 +25,7 @@ DjVu 可以被评为 [PDF](/zh/pdf/) 的优秀替代品。与 DjVu 关联的文�
 
 ## 历史简介 ＃＃
 
-DjVu 技术由 [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)、[Léon Bottou](https://en.wikipedia.org/wiki/L%C3%) 在 AT&T 实验室开发A9on_Bottou)、Patrick Haffner 和 Paul G 从 1996 年到 2001 年。DjVu 文件格式经过了各种修订，最近一次是从 2005 年开始。
+DjVu 技术由 [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)、[Léon Bottou](https://en.wikipedia.org/wiki/L%C3%A9on_Bottou) 在 AT&T 实验室开发、Patrick Haffner 和 Paul G 从 1996 年到 2001 年。DjVu 文件格式经过了各种修订，最近一次是从 2005 年开始。
 
 
 |版本|发布日期|备注

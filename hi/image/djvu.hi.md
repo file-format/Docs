@@ -25,7 +25,7 @@ DjVu को [PDF](/hi/pdf/) के बेहतर विकल्प के र
 
 ## संक्षिप्त इतिहास ##
 
-DjVu तकनीक को [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3%) द्वारा AT&T लैब में विकसित किया गया था। A9on_Bottou), पैट्रिक हैफनर, और पॉल जी 1996 से 2001 तक। DjVu फ़ाइल प्रारूप विभिन्न संशोधनों से गुजरा है, सबसे हाल ही में 2005 से है।
+DjVu तकनीक को [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3%A9on_Bottou) द्वारा AT&T लैब में विकसित किया गया था।, पैट्रिक हैफनर, और पॉल जी 1996 से 2001 तक। DjVu फ़ाइल प्रारूप विभिन्न संशोधनों से गुजरा है, सबसे हाल ही में 2005 से है।
 
 
 |संस्करण|रिलीज़ की तारीख|नोट्स

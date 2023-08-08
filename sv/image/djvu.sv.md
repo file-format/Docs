@@ -25,7 +25,7 @@ DjVu kan klassas som ett överlägset alternativ till [PDF](/sv/pdf/). Filtillä
 
 ## Kortfattad bakgrund ##
 
-DjVu-tekniken utvecklades i AT&T-labb av [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3% A9on_Bottou), Patrick Haffner och Paul G från 1996 till 2001. DjVu-filformatet har gått igenom olika versioner, den senaste från 2005.
+DjVu-tekniken utvecklades i AT&T-labb av [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3%A9on_Bottou), Patrick Haffner och Paul G från 1996 till 2001. DjVu-filformatet har gått igenom olika versioner, den senaste från 2005.
 
 
 |Version|Utgivningsdatum|Anteckningar

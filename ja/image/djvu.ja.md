@@ -25,7 +25,7 @@ DjVu は、[PDF](/pdf/) よりも優れていると評価できます。 DjVu �
 
 ## 簡単な歴史 ##
 
-DjVu 技術は、[Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)、[Léon Bottou](https://en.wikipedia.org/wiki/L%C3%) によって AT&T ラボで開発されました。 A9on_Bottou)、Patrick Haffner、および Paul G が 1996 年から 2001 年まで作成しました。DjVu ファイル形式はさまざまな改訂を経ており、最新のものは 2005 年のものです。
+DjVu 技術は、[Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)、[Léon Bottou](https://en.wikipedia.org/wiki/L%C3%A9on_Bottou) によって AT&T ラボで開発されました。Patrick Haffner、および Paul G が 1996 年から 2001 年まで作成しました。DjVu ファイル形式はさまざまな改訂を経ており、最新のものは 2005 年のものです。
 
 
 |バージョン|リリース日|注意事項

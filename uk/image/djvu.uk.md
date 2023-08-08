@@ -25,7 +25,7 @@ DjVu можна оцінити як кращу альтернативу [PDF](/u
 
 ## Коротка історія ##
 
-Технологія DjVu була розроблена в лабораторіях AT&T [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3% A9on_Bottou), Patrick Haffner і Paul G з 1996 по 2001 рік. Формат файлу DjVu зазнавав різних переглядів, останній був у 2005 році.
+Технологія DjVu була розроблена в лабораторіях AT&T [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3%A9on_Bottou), Patrick Haffner і Paul G з 1996 по 2001 рік. Формат файлу DjVu зазнавав різних переглядів, останній був у 2005 році.
 
 
 |Версія|Дата випуску|Примітки

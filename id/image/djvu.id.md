@@ -25,7 +25,7 @@ DjVu dapat dinilai sebagai alternatif yang lebih unggul dari [PDF](/id/pdf/). Ek
 
 ## Sejarah Singkat ##
 
-Teknologi DjVu dikembangkan di laboratorium AT&T oleh [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3% A9on_Bottou), Patrick Haffner, dan Paul G dari tahun 1996 hingga 2001. Format file DjVu telah melewati berbagai revisi, yang terbaru dari tahun 2005.
+Teknologi DjVu dikembangkan di laboratorium AT&T oleh [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3%A9on_Bottou), Patrick Haffner, dan Paul G dari tahun 1996 hingga 2001. Format file DjVu telah melewati berbagai revisi, yang terbaru dari tahun 2005.
 
 
 |Versi|Tanggal rilis|Catatan
