@@ -104,5 +104,5 @@ $connumstr = $constr . $add;# concatenation of string and number.
 
 ## Bibliografia ##
 
-- [Python (język programowania) - Wikipedia](https://en.wikipedia.org/wiki/Python_(język_programowania))
+- [Python (język programowania) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 
