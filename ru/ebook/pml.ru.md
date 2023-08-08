@@ -67,5 +67,5 @@ Palm Inc представила формат файла PML, который оз
 ## использованная литература
 
 * [Язык разметки Palm — от MobileRead](https://wiki.mobileread.com/wiki/EReader)
-* [Электронная книга для чтения – от MobileRead](https://en.wikipedia.org/wiki/Электронная книга)
+* [Электронная книга для чтения – от MobileRead](https://en.wikipedia.org/wiki/E-reader)
 

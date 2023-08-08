@@ -67,5 +67,5 @@ Bảng sau chỉ định các lệnh PML:
 ## Người giới thiệu
 
 * [Ngôn ngữ đánh dấu lòng bàn tay - Bởi MobileRead](https://wiki.mobileread.com/wiki/EReader)
-* [E-Reader - By MobileRead](https://vi.wikipedia.org/wiki/E-reader)
+* [E-Reader - By MobileRead](https://en.wikipedia.org/wiki/E-reader)
 

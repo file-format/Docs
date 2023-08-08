@@ -43,5 +43,5 @@ W większości przypadków następuje spis treści (przy przesunięciu 128). Roz
 
 ## Bibliografia
 
-* [Czytnik elektroniczny — przez MobileRead](https://en.wikipedia.org/wiki/Czytnik elektroniczny)
+* [Czytnik elektroniczny — przez MobileRead](https://en.wikipedia.org/wiki/E-reader)
 
