@@ -44,6 +44,6 @@ Optiska medias skivbilder åtföljs oftast av deskriptorfilen. Den förklarar sk
 
 ## Referenser ##
 
-* [IMG - av Wikipedia](https://en.wikipedia.org/wiki/IMG_(filformat))
+* [IMG - av Wikipedia](https://en.wikipedia.org/wiki/IMG_(file_format))
 
 

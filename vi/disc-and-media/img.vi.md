@@ -44,6 +44,6 @@ Hình ảnh đĩa của phương tiện quang hầu hết được kèm theo t�
 
 ## Người giới thiệu ##
 
-* [IMG - theo Wikipedia](https://vi.wikipedia.org/wiki/IMG_(file_format))
+* [IMG - theo Wikipedia](https://en.wikipedia.org/wiki/IMG_(file_format))
 
 

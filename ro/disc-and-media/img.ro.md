@@ -44,6 +44,6 @@ Imaginile de disc ale suporturilor optice sunt în mare parte însoțite de fiș
 
 ## Referințe ##
 
-* [IMG - de Wikipedia](https://en.wikipedia.org/wiki/IMG_(format_fișier))
+* [IMG - de Wikipedia](https://en.wikipedia.org/wiki/IMG_(file_format))
 
 
