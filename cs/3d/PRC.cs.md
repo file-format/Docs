@@ -70,7 +70,7 @@ Mobipocket Reader má knihovnu domovských stránek. Čtenáři mohou vkládat p
 
 ## Reference
 
-– [PRC – Wikipedia](https://en.wikipedia.org/wiki/PRC_(formát_souboru))
+– [PRC – Wikipedia](https://en.wikipedia.org/wiki/PRC_(file_format))
 - [Specifikace formátu PRC](https://web.archive.org/web/20081202034541/http://livedocs.adobe.com/acrobat_sdk/9/Acrobat9_HTMLHelp/API_References/PRCReference/PRC_Format_Specification/index.html)
 – [Porovnání formátů e-knih – Wikipedie](https://en.wikipedia.org/wiki/Comparison_of_e-book_formats)
 
