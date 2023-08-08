@@ -23,5 +23,5 @@
 
 ## مراجع
 
-* [لغة برمجة ML - بواسطة ويكيبيديا](https://en.wikipedia.org/wiki/ML_ (printing_language))
+* [لغة برمجة ML - بواسطة ويكيبيديا](https://en.wikipedia.org/wiki/ML_(programming_language))
 

@@ -23,5 +23,5 @@ Tệp ML là một tệp văn bản được tạo bằng ngôn ngữ lập trì
 
 ## Người giới thiệu
 
-* [Ngôn ngữ lập trình ML - Theo Wikipedia](https://vi.wikipedia.org/wiki/ML_(programming_language))
+* [Ngôn ngữ lập trình ML - Theo Wikipedia](https://en.wikipedia.org/wiki/ML_(programming_language))
 

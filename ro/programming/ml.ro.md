@@ -23,5 +23,5 @@ Un fișier ML este un fișier text creat cu limbajul de programare funcțional g
 
 ## Referințe
 
-* [Limbaj de programare ML - de Wikipedia](https://en.wikipedia.org/wiki/ML_(limbaj_de_programare))
+* [Limbaj de programare ML - de Wikipedia](https://en.wikipedia.org/wiki/ML_(programming_language))
 
