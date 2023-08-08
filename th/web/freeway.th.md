@@ -26,5 +26,5 @@
 
 ## อ้างอิง
 
-* [ซอฟต์แวร์ทางด่วน](https://en.wikipedia.org/wiki/Freeway_(ซอฟต์แวร์))
+* [ซอฟต์แวร์ทางด่วน](https://en.wikipedia.org/wiki/Freeway_(software))
 

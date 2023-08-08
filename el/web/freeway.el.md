@@ -26,5 +26,5 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Λογισμικό Freeway](https://en.wikipedia.org/wiki/Freeway_(λογισμικό))
+* [Λογισμικό Freeway](https://en.wikipedia.org/wiki/Freeway_(software))
 

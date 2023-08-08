@@ -26,5 +26,5 @@ Les fichiers FREEWAY sont enregistrés dans un format de fichier propriétaire e
 
 ## Références
 
-* [Logiciel Freeway](https://en.wikipedia.org/wiki/Freeway_(logiciel))
+* [Logiciel Freeway](https://en.wikipedia.org/wiki/Freeway_(software))
 

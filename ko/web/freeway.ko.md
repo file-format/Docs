@@ -26,5 +26,5 @@ FREEWAY 파일은 독점 파일 형식으로 저장되며 내부 파일 형식 �
 
 ## 참고문헌
 
-* [프리웨이 소프트웨어](https://en.wikipedia.org/wiki/Freeway_(소프트웨어))
+* [프리웨이 소프트웨어](https://en.wikipedia.org/wiki/Freeway_(software))
 

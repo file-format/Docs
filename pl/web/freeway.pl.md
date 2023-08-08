@@ -26,5 +26,5 @@ Pliki FREEWAY są zapisywane w zastrzeżonym formacie pliku, a szczegóły ich w
 
 ## Bibliografia
 
-* [Oprogramowanie Freeway](https://en.wikipedia.org/wiki/Freeway_(oprogramowanie))
+* [Oprogramowanie Freeway](https://en.wikipedia.org/wiki/Freeway_(software))
 

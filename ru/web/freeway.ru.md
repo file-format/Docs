@@ -26,5 +26,5 @@
 
 ## использованная литература
 
-* [Программное обеспечение Freeway](https://en.wikipedia.org/wiki/Freeway_(программное обеспечение))
+* [Программное обеспечение Freeway](https://en.wikipedia.org/wiki/Freeway_(software))
 
