@@ -52,7 +52,7 @@ IWork Numbers が提供するいくつかの顕著な機能のリストを次に
 
 ## 参照 ##
 
-* [数値 (スプレッドシート) - ウィキペディア](https://en.wikipedia.org/wiki/Numbers_(スプレッドシート))
+* [数値 (スプレッドシート) - ウィキペディア](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))
 * [Numbers でデータに命を吹き込む](https://www.apple.com/numbers/)
 
 

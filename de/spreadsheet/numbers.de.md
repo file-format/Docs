@@ -52,7 +52,7 @@ Hier ist die Liste einiger herausragender Funktionen, die von IWork Numbers ange
 
 ## Verweise ##
 
-* [Zahlen (Tabellenkalkulation) - Wikipedia](https://en.wikipedia.org/wiki/Numbers_(Tabellenkalkulation))
+* [Zahlen (Tabellenkalkulation) - Wikipedia](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))
 * [Numbers erweckt Ihre Daten zum Leben](https://www.apple.com/numbers/)
 
 

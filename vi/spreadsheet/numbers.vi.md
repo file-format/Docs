@@ -52,7 +52,7 @@ Dưới đây là danh sách một số tính năng nổi bật được cung c�
 
 ## Người giới thiệu ##
 
-* [Số (bảng tính) - Wikipedia](https://en.wikipedia.org/wiki/Numbers_(bảng tính))
+* [Số (bảng tính) - Wikipedia](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))
 * [Numbers giúp dữ liệu của bạn trở nên sống động](https://www.apple.com/numbers/)
 
 

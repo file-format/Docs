@@ -52,7 +52,7 @@
 
 ## مراجع ##
 
-* [أرقام (جدول بيانات) - ويكيبيديا](https://en.wikipedia.org/wiki/Numbers_ (جدول بيانات))
+* [أرقام (جدول بيانات) - ويكيبيديا](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))
 * [تضفي الأرقام الحيوية على بياناتك](https://www.apple.com/numbers/)
 
 

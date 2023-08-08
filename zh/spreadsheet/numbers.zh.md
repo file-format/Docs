@@ -52,7 +52,7 @@ Numbers 还包括几个时髦的增强功能，以改进电子表格的视觉外
 
 ## 参考 ＃＃
 
-* [数字（电子表格）-维基百科]（https://en.wikipedia.org/wiki/Numbers_（电子表格））
+* [数字（电子表格）-维基百科](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))
 * [Numbers 让您的数据栩栩如生](https://www.apple.com/numbers/)
 
 

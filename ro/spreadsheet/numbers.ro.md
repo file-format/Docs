@@ -52,7 +52,7 @@ Iată lista cu câteva caracteristici importante oferite de IWork Numbers:
 
 ## Referințe ##
 
-* [Numerele (foaia de calcul) - Wikipedia](https://en.wikipedia.org/wiki/Numerele_(foaia de calcul))
+* [Numerele (foaia de calcul) - Wikipedia](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))
 * [Numerele îți dă viață datelor](https://www.apple.com/numbers/)
 
 

@@ -52,7 +52,7 @@ Voici la liste de quelques fonctionnalités saillantes offertes par IWork Number
 
 ## Références ##
 
-* [Nombres (feuille de calcul) - Wikipédia](https://en.wikipedia.org/wiki/Numbers_(feuille de calcul))
+* [Nombres (feuille de calcul) - Wikipédia](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))
 * [Numbers donne vie à vos données](https://www.apple.com/numbers/)
 
 

@@ -52,7 +52,7 @@ Aquí está la lista de algunas características destacadas que ofrece IWork Num
 
 ## Referencias ##
 
-* [Números (hoja de cálculo) - Wikipedia](https://en.wikipedia.org/wiki/Numbers_(hoja de cálculo))
+* [Números (hoja de cálculo) - Wikipedia](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))
 * [Numbers da vida a tus datos](https://www.apple.com/numbers/)
 
 

@@ -52,7 +52,7 @@ Numbers также включает в себя несколько модных 
 
 ## Использованная литература ##
 
-* [Числа (электронная таблица) - Википедия](https://en.wikipedia.org/wiki/Numbers_(электронная таблица))
+* [Числа (электронная таблица) - Википедия](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))
 * [Numbers оживляет ваши данные](https://www.apple.com/numbers/)
 
 
