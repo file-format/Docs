@@ -128,5 +128,5 @@ Si ce flux est présent, le stockage de l'espace de données de gestion des droi
 ## Références ##
 
 * [Spécifications de formation de fichiers MS-DOC](https://msdn.microsoft.com/en-us/library/cc313153(v#office.12).aspx)
-* [Doc Informatique](https://en.wikipedia.org/wiki/Doc_(informatique))
+* [Doc Informatique](https://en.wikipedia.org/wiki/Doc_(computing))
 

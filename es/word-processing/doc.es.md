@@ -128,5 +128,5 @@ Si este flujo está presente, el almacenamiento del espacio de datos de gestión
 ## Referencias ##
 
 * [Especificaciones de formación de archivos MS-DOC](https://msdn.microsoft.com/en-us/library/cc313153(v#office.12).aspx)
-* [Informática Doc](https://en.wikipedia.org/wiki/Doc_(informática))
+* [Informática Doc](https://en.wikipedia.org/wiki/Doc_(computing))
 

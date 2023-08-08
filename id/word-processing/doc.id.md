@@ -128,5 +128,5 @@ Jika aliran ini ada, Penyimpanan Ruang Data Manajemen Hak Informasi HARUS juga a
 ## Referensi ##
 
 * [Spesifikasi Formasi File MS-DOC](https://msdn.microsoft.com/en-us/library/cc313153(v#office.12).aspx)
-* [Komputasi Doc](https://en.wikipedia.org/wiki/Doc_(komputasi))
+* [Komputasi Doc](https://en.wikipedia.org/wiki/Doc_(computing))
 

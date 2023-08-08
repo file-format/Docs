@@ -128,5 +128,5 @@ Se questo flusso è presente, DEVE essere presente anche l'Information Rights Ma
 ## Riferimenti ##
 
 * [Specifiche di formazione dei file MS-DOC](https://msdn.microsoft.com/en-us/library/cc313153(v#office.12).aspx)
-* [Doc Computing](https://en.wikipedia.org/wiki/Doc_(informatica))
+* [Doc Computing](https://en.wikipedia.org/wiki/Doc_(computing))
 

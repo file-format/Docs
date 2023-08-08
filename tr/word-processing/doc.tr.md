@@ -128,5 +128,5 @@ Bu akış mevcutsa, Bilgi Hakları Yönetimi Veri Alanı Deposu da mevcut OLMALI
 ## Referanslar ##
 
 * [MS-DOC Dosya Oluşturma Spesifikasyonları](https://msdn.microsoft.com/en-us/library/cc313153(v#office.12).aspx)
-* [Doc Bilgi İşlem](https://en.wikipedia.org/wiki/Doc_(bilgi işlem))
+* [Doc Bilgi İşlem](https://en.wikipedia.org/wiki/Doc_(computing))
 

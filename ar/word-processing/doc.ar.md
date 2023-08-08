@@ -128,5 +128,5 @@
 ## مراجع ##
 
 * [مواصفات تشكيل ملف MS-DOC](https://msdn.microsoft.com/en-us/library/cc313153 (v # office.12) .aspx)
-* [Doc Computing](https://en.wikipedia.org/wiki/Doc_ (الحوسبة))
+* [Doc Computing](https://en.wikipedia.org/wiki/Doc_(computing))
 
