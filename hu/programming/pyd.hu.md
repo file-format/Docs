@@ -32,5 +32,5 @@ PYD fájlt úgy lehet létrehozni, hogy pl. exmaple.pyd nevű modult hozunk lét
 ## Referenciák ##
 
 * [Python-kiterjesztések létrehozása C/C++ nyelven](https://sebsauvage.net/python/mingw.html)
-* [Python (programozási nyelv) – Wikipédia](https://en.wikipedia.org/wiki/Python_(programozási_nyelv))
+* [Python (programozási nyelv) – Wikipédia](https://en.wikipedia.org/wiki/Python_(programming_language))
 

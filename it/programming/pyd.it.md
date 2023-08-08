@@ -32,5 +32,5 @@ Un file PYD può essere creato creando un modulo con un nome ad esempio exmaple.
 ## Riferimenti ##
 
 * [Creazione di estensioni Python in C/C++](https://sebsauvage.net/python/mingw.html)
-* [Python (linguaggio di programmazione) - Wikipedia](https://en.wikipedia.org/wiki/Python_(linguaggio_di_programmazione))
+* [Python (linguaggio di programmazione) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 

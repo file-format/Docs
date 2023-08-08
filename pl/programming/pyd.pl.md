@@ -32,5 +32,5 @@ Plik PYD można utworzyć, tworząc moduł o nazwie np. exmaple.pyd. Moduł ten 
 ## Bibliografia ##
 
 * [Tworzenie rozszerzeń Pythona w C/C++](https://sebsauvage.net/python/mingw.html)
-* [Python (język programowania) - Wikipedia](https://en.wikipedia.org/wiki/Python_(język_programowania))
+* [Python (język programowania) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 
