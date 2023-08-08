@@ -29,5 +29,5 @@ Tệp có phần mở rộng .lbr là tệp lưu trữ được tạo bằng ch�
 
 ## Người giới thiệu
 
-* [LBR - Wikipedia](https://vi.wikipedia.org/wiki/LBR_(file_format))
+* [LBR - Wikipedia](https://en.wikipedia.org/wiki/LBR_(file_format))
 

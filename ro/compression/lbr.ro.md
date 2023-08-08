@@ -29,5 +29,5 @@ Formatul de fișier LBR a fost conceput de Gary P. Novosielski și nu are detali
 
 ## Referințe
 
-* [LBR - Wikipedia](https://en.wikipedia.org/wiki/LBR_(format_fișier))
+* [LBR - Wikipedia](https://en.wikipedia.org/wiki/LBR_(file_format))
 

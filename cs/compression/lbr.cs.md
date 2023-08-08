@@ -29,5 +29,5 @@ Formát souboru LBR navrhl Gary P. Novosielski a nemá veřejně dostupné žád
 
 ## Reference
 
-* [LBR – Wikipedie](https://en.wikipedia.org/wiki/LBR_(formát_souboru))
+* [LBR – Wikipedie](https://en.wikipedia.org/wiki/LBR_(file_format))
 
