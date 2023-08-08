@@ -26,5 +26,5 @@
 
 ## مراجع
 
-* [نظام ملفات Coda](https://en.wikipedia.org/wiki/Coda_ (file_system))
+* [نظام ملفات Coda](https://en.wikipedia.org/wiki/Coda_(file_system))
 
