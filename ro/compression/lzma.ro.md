@@ -55,5 +55,5 @@ Dimensiunea necomprimată este stocată ca un întreg mic endian nesemnat pe 64 
 ## Referințe
 
 * [Format de fișier LZMA](https://svn.python.org/projects/external/xz-5.0.3/doc/lzma-file-format.txt)
-* [Algoritmul lanțului Lempel–Ziv–Markov](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Algoritmul_lanțului_Markov)
+* [Algoritmul lanțului Lempel–Ziv–Markov](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm)
 
