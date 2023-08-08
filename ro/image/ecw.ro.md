@@ -35,6 +35,6 @@ Iată câteva proprietăți tipice ale formatului ECW:
 
 ## Referințe ##
 
-* [ECW (format fișier) - De Wikipedia](https://en.wikipedia.org/wiki/ECW_(format_fișier))
+* [ECW (format fișier) - De Wikipedia](https://en.wikipedia.org/wiki/ECW_(file_format))
 
 
