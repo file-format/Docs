@@ -37,6 +37,6 @@ MOD 文件模式实际上在音序器用户界面中设计为一个表，每个�
 
 ## 参考
 
-* [MOD（文件格式） - 维基百科]（https://en.wikipedia.org/wiki/MOD_(file_format)）
+* [MOD（文件格式） - 维基百科](https://en.wikipedia.org/wiki/MOD_(file_format))
 
 

@@ -42,5 +42,5 @@ Het minimale tijdsbestek was 0,02 seconden in het originele MOD-bestand, of een 
 
 ## Referenties
 
-* [MOD (bestandsformaat) - Door Wikipedia](https://en.wikipedia.org/wiki/MOD_(bestandsformaat))
+* [MOD (bestandsformaat) - Door Wikipedia](https://en.wikipedia.org/wiki/MOD_(file_format))
 
