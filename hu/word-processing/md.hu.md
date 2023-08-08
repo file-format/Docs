@@ -36,7 +36,7 @@ A Markdown mára a világ egyik legnépszerűbb jelölőnyelve. A Microsoft Word
 
 John Gruber és Aaron Swartz 2004-ben megalkotta a Markdown nyelvet azzal az ötlettel, hogy lehetővé tegye az emberek számára, hogy „könnyen olvasható és írható egyszerű szöveges formátumban írjanak, és lehetőség legyen XHTML-re vagy HTML-re konvertálni. Kialakításának célja az olvashatóság – a nyelv úgy olvasható, ahogy van, anélkül, hogy úgy nézne ki, mintha fel lett volna címkézve vagy formázási utasításokkal egészítették ki, ahogy az olyan jelölőnyelvekben, mint az RTF vagy a HTML, ahol a címkék és a formázási utasítások nyilvánvalóak. Az alapvető inspiráció a meglévő konvenciók használata az egyszerű szöveg e-mailben történő megjelölésére.
 
-Azóta a Markdown-t mások is újra implementálták, mint egy Perl [modulban](https://en.wikipedia.org/wiki/Modular_programming), amely elérhető a [CPAN] oldalon (https://en.wikipedia.org/ wiki/CPAN) és számos más programozási nyelven. [BSD-stílusú licenc](https://en.wikipedia.org/wiki/BSD_license) alatt terjesztik, és több [tartalomkezelő rendszerhez](https://) tartozik, vagy beépülő modulként érhető el. hu.wikipedia.org/wiki/Content_management_system).
+Azóta a Markdown-t mások is újra implementálták, mint egy Perl [modulban](https://en.wikipedia.org/wiki/Modular_programming), amely elérhető a [CPAN](https://en.wikipedia.org/wiki/CPAN) oldalon és számos más programozási nyelven. [BSD-stílusú licenc](https://en.wikipedia.org/wiki/BSD_license) alatt terjesztik, és több [tartalomkezelő rendszerhez](https://en.wikipedia.org/wiki/Content_management_system) tartozik, vagy beépülő modulként érhető el.
 
 ## Műszaki adatok
 
