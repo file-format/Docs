@@ -36,7 +36,7 @@ Markdown este acum unul dintre cele mai populare limbaje de marcare din lume. Î
 
 John Gruber și Aaron Swartz în 2004 au creat limbajul Markdown cu ideea de a permite oamenilor „să scrie folosind un format simplu de citit și scris simplu și cu opțiunea de a-l converti în XHTML sau HTML. Scopul din spatele designului său este lizibilitatea - limbajul este lizibil așa cum este, fără să arate ca a fost etichetat sau adăugat cu instrucțiuni de formatare, așa cum se face în limbaje de marcare precum RTF sau HTML, unde etichetele și instrucțiunile de formatare sunt evidente. Inspirația de bază este utilizarea convențiilor existente pentru marcarea textului simplu în e-mail.
 
-De atunci Markdown a fost re-implementat de alții, la fel ca într-un [modul] Perl (https://en.wikipedia.org/wiki/Modular_programming) disponibil pe [CPAN](https://en.wikipedia.org/ wiki/CPAN) și în diverse alte limbaje de programare. Este distribuit sub o [licență în stil BSD](https://en.wikipedia.org/wiki/BSD_license) și este inclus cu sau disponibil ca plugin pentru mai multe [sisteme de gestionare a conținutului](https:// en.wikipedia.org/wiki/Content_management_system).
+De atunci Markdown a fost re-implementat de alții, la fel ca într-un [modul](https://en.wikipedia.org/wiki/Modular_programming) Perl disponibil pe [CPAN](https://en.wikipedia.org/wiki/CPAN) și în diverse alte limbaje de programare. Este distribuit sub o [licență în stil BSD](https://en.wikipedia.org/wiki/BSD_license) și este inclus cu sau disponibil ca plugin pentru mai multe [sisteme de gestionare a conținutului](https://en.wikipedia.org/wiki/Content_management_system).
 
 ## Specificatii tehnice
 

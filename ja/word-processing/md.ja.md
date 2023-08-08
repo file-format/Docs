@@ -36,7 +36,7 @@ Markdown は現在、世界で最も人気のあるマークアップ言語の 1
 
 2004 年に John Gruber と Aaron Swartz は、「読みやすく、書きやすいプレーン テキスト形式を使用して、XHTML または HTML に変換するオプションを使用して記述できるようにする」という考えで、Markdown 言語を作成しました。その設計の背後にある目標は読みやすさです。タグや書式設定の指示が明らかな RTF や HTML などのマークアップ言語で行われるように、言語がタグ付けされたり、書式設定の指示が追加されたりしているように見えることなく、言語がそのまま読めます。基本的な着想は、電子メールのプレーン テキストをマークアップするための既存の規則を使用することです。
 
-それ以来、Markdown は [CPAN](https://en.wikipedia.org/ wiki/CPAN) およびその他のさまざまなプログラミング言語で使用できます。 [BSD スタイルのライセンス](https://en.wikipedia.org/wiki/BSD_license) の下で配布され、いくつかの [コンテンツ管理システム](https:// en.wikipedia.org/wiki/Content_management_system)。
+それ以来、Markdown は [CPAN](https://en.wikipedia.org/wiki/CPAN) およびその他のさまざまなプログラミング言語で使用できます。 [BSD スタイルのライセンス](https://en.wikipedia.org/wiki/BSD_license) の下で配布され、いくつかの [コンテンツ管理システム](https://en.wikipedia.org/wiki/Content_management_system)。
 
 ## 技術仕様
 

@@ -36,7 +36,7 @@ Markdown היא כעת אחת משפות הסימון הפופולריות בע�
 
 ג'ון גרובר ואהרון שוורץ ב-2004 יצרו את שפת Markdown מתוך רעיון לאפשר לאנשים "לכתוב באמצעות פורמט קל לקריאה ולכתיבה של טקסט רגיל ועם אפשרות להמיר אותו ל-XHTML או HTML. המטרה מאחורי העיצוב שלו היא קריאה - השפה ניתנת לקריאה כפי שהיא, מבלי להיראות כאילו תויגה או נוספה עם הוראות עיצוב כפי שנעשה בשפות סימון כמו RTF או HTML שבהן תגיות והוראות עיצוב ברורות. ההשראה הבסיסית היא שימוש במוסכמות קיימות לסימון טקסט רגיל בדוא"ל.
 
-מאז Markdown הוטמע מחדש על ידי אחרים, כמו גם ב-Perl [מודול](https://en.wikipedia.org/wiki/Modular_programming) הזמין ב-[CPAN](https://en.wikipedia.org/ wiki/CPAN) ובשפות תכנות שונות אחרות. הוא מופץ תחת [רישיון בסגנון BSD](https://en.wikipedia.org/wiki/BSD_license) והוא כלול או זמין כפלאגין עבור מספר [מערכות ניהול תוכן](https:// en.wikipedia.org/wiki/Content_management_system).
+מאז Markdown הוטמע מחדש על ידי אחרים, כמו גם ב-Perl [מודול](https://en.wikipedia.org/wiki/Modular_programming) הזמין ב-[CPAN](https://en.wikipedia.org/wiki/CPAN) ובשפות תכנות שונות אחרות. הוא מופץ תחת [רישיון בסגנון BSD](https://en.wikipedia.org/wiki/BSD_license) והוא כלול או זמין כפלאגין עבור מספר [מערכות ניהול תוכן](https://en.wikipedia.org/wiki/Content_management_system).
 
 ## מפרט טכני
 

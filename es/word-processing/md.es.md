@@ -36,7 +36,7 @@ Markdown es ahora uno de los lenguajes de marcado más populares del mundo. Mien
 
 John Gruber y Aaron Swartz en 2004 crearon el lenguaje Markdown con la idea de permitir a las personas “escribir utilizando un formato de texto sin formato fácil de leer y escribir y con la opción de convertirlo a XHTML o HTML. El objetivo detrás de su diseño es la legibilidad: el lenguaje es legible tal como es, sin que parezca que ha sido etiquetado o agregado con instrucciones de formato como se hace en lenguajes de marcado como RTF o HTML, donde las etiquetas y las instrucciones de formato son obvias. La inspiración básica es utilizar las convenciones existentes para marcar texto sin formato en el correo electrónico.
 
-Desde entonces, Markdown ha sido reimplementado por otros, así como en un [módulo] de Perl (https://en.wikipedia.org/wiki/Modular_programming) disponible en [CPAN](https://en.wikipedia.org/ wiki/CPAN) y en varios otros lenguajes de programación. Se distribuye bajo una [licencia de estilo BSD](https://en.wikipedia.org/wiki/BSD_license) y se incluye o está disponible como complemento para varios [sistemas de gestión de contenido](https:// en.wikipedia.org/wiki/Content_management_system).
+Desde entonces, Markdown ha sido reimplementado por otros, así como en un [módulo](https://en.wikipedia.org/wiki/Modular_programming) de Perl disponible en [CPAN](https://en.wikipedia.org/wiki/CPAN) y en varios otros lenguajes de programación. Se distribuye bajo una [licencia de estilo BSD](https://en.wikipedia.org/wiki/BSD_license) y se incluye o está disponible como complemento para varios [sistemas de gestión de contenido](https://en.wikipedia.org/wiki/Content_management_system).
 
 ## Especificaciones técnicas
 

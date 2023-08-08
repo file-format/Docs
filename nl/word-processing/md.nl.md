@@ -36,7 +36,7 @@ Markdown is nu een van 's werelds populairste opmaaktalen. Tijdens het gebruik v
 
 John Gruber en Aaron Swartz creëerden in 2004 de Markdown-taal met het idee om mensen “in staat te stellen om te schrijven in een gemakkelijk te lezen en te schrijven tekst zonder opmaak en met de optie om het naar XHTML of HTML te converteren. Het doel achter het ontwerp is leesbaarheid - taal is leesbaar zoals het is, zonder eruit te zien alsof het is getagd of is toegevoegd met opmaakinstructies zoals gedaan in opmaaktalen zoals RTF of HTML, waar tags en opmaakinstructies voor de hand liggen. De basisinspiratie is het gebruik van bestaande conventies voor het markeren van platte tekst in e-mail.
 
-Sindsdien is Markdown opnieuw geïmplementeerd door anderen, zoals in een Perl [module](https://en.wikipedia.org/wiki/Modular_programming) beschikbaar op [CPAN](https://en.wikipedia.org/ wiki/CPAN) en in verschillende andere programmeertalen. Het wordt gedistribueerd onder een [BSD-achtige licentie](https://en.wikipedia.org/wiki/BSD_license) en wordt meegeleverd met, of is beschikbaar als plug-in voor, verschillende [contentmanagementsystemen](https:// en.wikipedia.org/wiki/Content_management_system).
+Sindsdien is Markdown opnieuw geïmplementeerd door anderen, zoals in een Perl [module](https://en.wikipedia.org/wiki/Modular_programming) beschikbaar op [CPAN](https://en.wikipedia.org/wiki/CPAN) en in verschillende andere programmeertalen. Het wordt gedistribueerd onder een [BSD-achtige licentie](https://en.wikipedia.org/wiki/BSD_license) en wordt meegeleverd met, of is beschikbaar als plug-in voor, verschillende [contentmanagementsystemen](https://en.wikipedia.org/wiki/Content_management_system).
 
 ## Technische specificaties
 

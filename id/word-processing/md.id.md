@@ -36,7 +36,7 @@ Penurunan harga sekarang menjadi salah satu bahasa markup paling populer di duni
 
 John Gruber dan Aaron Swartz pada tahun 2004 menciptakan bahasa Markdown dengan ide untuk memungkinkan orang “menulis menggunakan format teks biasa yang mudah dibaca dan ditulis dan dengan opsi untuk mengubahnya menjadi XHTML atau HTML. Tujuan di balik desainnya adalah keterbacaan – bahasa dapat dibaca apa adanya, tanpa terlihat seperti telah diberi tag atau ditambahkan dengan instruksi pemformatan seperti yang dilakukan dalam bahasa markup seperti RTF atau HTML di mana tag dan instruksi pemformatan terlihat jelas. Inspirasi dasarnya menggunakan konvensi yang ada untuk menandai teks biasa di email.
 
-Sejak saat itu Markdown telah diimplementasikan ulang oleh orang lain juga seperti dalam [modul] Perl(https://en.wikipedia.org/wiki/Modular_programming) yang tersedia di [CPAN](https://en.wikipedia.org/ wiki/CPAN) dan dalam berbagai bahasa pemrograman lainnya. Itu didistribusikan di bawah [lisensi gaya BSD](https://en.wikipedia.org/wiki/BSD_license) dan disertakan dengan, atau tersedia sebagai plugin untuk, beberapa [sistem manajemen konten](https:// en.wikipedia.org/wiki/Content_management_system).
+Sejak saat itu Markdown telah diimplementasikan ulang oleh orang lain juga seperti dalam [modul](https://en.wikipedia.org/wiki/Modular_programming) Perl yang tersedia di [CPAN](https://en.wikipedia.org/wiki/CPAN) dan dalam berbagai bahasa pemrograman lainnya. Itu didistribusikan di bawah [lisensi gaya BSD](https://en.wikipedia.org/wiki/BSD_license) dan disertakan dengan, atau tersedia sebagai plugin untuk, beberapa [sistem manajemen konten](https://en.wikipedia.org/wiki/Content_management_system).
 
 ## Spesifikasi teknis
 
