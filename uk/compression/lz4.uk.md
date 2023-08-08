@@ -64,5 +64,5 @@ Content_Checksum перевіряє дійсність вмісту, який п
 ## Список літератури
 
 * [Формат фрейму LZ4](https://github.com/lz4/lz4/blob/dev/doc/lz4_Frame_format.md)
-* [Алгоритм стиснення LZ4 - Вікіпедія](https://en.wikipedia.org/wiki/LZ4_(алгоритм_стиснення))
+* [Алгоритм стиснення LZ4 - Вікіпедія](https://en.wikipedia.org/wiki/LZ4_(compression_algorithm))
 

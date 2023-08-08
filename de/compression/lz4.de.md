@@ -64,5 +64,5 @@ Die Content_Checksum verifiziert die Gültigkeit des korrekt decodierten Inhalts
 ## Verweise
 
 * [LZ4-Rahmenformat](https://github.com/lz4/lz4/blob/dev/doc/lz4_Frame_format.md)
-* [LZ4-Komprimierungsalgorithmus – Wikipedia](https://en.wikipedia.org/wiki/LZ4_(Komprimierungsalgorithmus))
+* [LZ4-Komprimierungsalgorithmus – Wikipedia](https://en.wikipedia.org/wiki/LZ4_(compression_algorithm))
 

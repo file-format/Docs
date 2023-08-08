@@ -64,5 +64,5 @@ Content_Checksum memverifikasi validitas konten yang didekodekan dengan benar da
 ## Referensi
 
 * [Format Bingkai LZ4](https://github.com/lz4/lz4/blob/dev/doc/lz4_Frame_format.md)
-* [Algoritma Kompresi LZ4 - Wikipedia](https://en.wikipedia.org/wiki/LZ4_(algoritma_kompresi))
+* [Algoritma Kompresi LZ4 - Wikipedia](https://en.wikipedia.org/wiki/LZ4_(compression_algorithm))
 
