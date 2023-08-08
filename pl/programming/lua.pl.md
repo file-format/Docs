@@ -190,7 +190,7 @@ print(vec.y)
 
 ## Odniesienie ##
 
-* [LUA - z Wikipedii](https://en.wikipedia.org/wiki/Lua_(język_programowania))
+* [LUA - z Wikipedii](https://en.wikipedia.org/wiki/Lua_(programming_language))
 
 
 

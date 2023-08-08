@@ -190,7 +190,7 @@ print(vec.y)
 
 ## Hivatkozási szám
 
-* [LUA – a Wikipedia által](https://en.wikipedia.org/wiki/Lua_(programozási_nyelv))
+* [LUA – a Wikipedia által](https://en.wikipedia.org/wiki/Lua_(programming_language))
 
 
 
