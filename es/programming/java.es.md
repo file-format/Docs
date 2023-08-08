@@ -56,5 +56,5 @@ El nombre de archivo de los archivos Java debe ser el mismo que el nombre de la 
 
 ## Referencias ##
 
-- [Java (lenguaje de programación) - Wikipedia](https://en.wikipedia.org/wiki/Java_(lenguaje_de_programación))
+- [Java (lenguaje de programación) - Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))
 

@@ -56,5 +56,5 @@ Numele fișierelor Java ar trebui să fie același cu numele clasei. Deci fișie
 
 ## Referințe ##
 
-- [Java (limbaj de programare) - Wikipedia](https://en.wikipedia.org/wiki/Java_(limbaj_de_programare))
+- [Java (limbaj de programare) - Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))
 

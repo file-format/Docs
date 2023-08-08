@@ -56,5 +56,5 @@ A Java fájlok fájlnevének meg kell egyeznie az osztály nevével. Tehát a p�
 
 ## Hivatkozások ##
 
-- [Java (programozási nyelv) - Wikipédia](https://en.wikipedia.org/wiki/Java_(programozási_nyelv))
+- [Java (programozási nyelv) - Wikipédia](https://en.wikipedia.org/wiki/Java_(programming_language))
 

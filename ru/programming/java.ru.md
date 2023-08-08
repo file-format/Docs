@@ -56,5 +56,5 @@ Hello World from Java to the console.
 
 ## Использованная литература ##
 
-- [Java (язык программирования) - Википедия](https://en.wikipedia.org/wiki/Java_(язык_программирования))
+- [Java (язык программирования) - Википедия](https://en.wikipedia.org/wiki/Java_(programming_language))
 

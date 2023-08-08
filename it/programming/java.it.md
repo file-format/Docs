@@ -56,5 +56,5 @@ Il nome del file dei file Java dovrebbe essere lo stesso del nome della classe. 
 
 ## Riferimenti ##
 
-- [Java (linguaggio di programmazione) - Wikipedia](https://en.wikipedia.org/wiki/Java_(linguaggio_di_programmazione))
+- [Java (linguaggio di programmazione) - Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))
 

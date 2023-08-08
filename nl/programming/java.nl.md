@@ -56,5 +56,5 @@ De bestandsnaam van de Java-bestanden moet hetzelfde zijn als de klassenaam. Het
 
 ## Referenties ##
 
-- [Java (programmeertaal) - Wikipedia](https://en.wikipedia.org/wiki/Java_(programmeertaal))
+- [Java (programmeertaal) - Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))
 

@@ -56,5 +56,5 @@ Der Dateiname der Java-Dateien sollte mit dem Klassennamen übereinstimmen. Die 
 
 ## Verweise ##
 
-- [Java (Programmiersprache) - Wikipedia](https://en.wikipedia.org/wiki/Java_(Programmiersprache))
+- [Java (Programmiersprache) - Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))
 
