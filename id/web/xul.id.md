@@ -20,7 +20,7 @@
 ## Apa itu file XUL?
 
 File dengan ekstensi .xul ([XUL](https://wiki.mozilla.org/XUL:Home_Page) singkatan dari XML User Interface Language) adalah file bahasa markup berbasis [XML](/id/web/xml/) untuk membuat antarmuka pengguna. Itu dikembangkan oleh Mozilla untuk pengembang untuk membuat elemen antarmuka pengguna grafis yang mirip dengan bahasa markup lain yang digunakan untuk membuat halaman web. XUL telah banyak digunakan oleh Mozilla di browser Firefox di mana ia menggunakan basis kode Mozilla. Rendering XUL dilakukan dengan menggunakan
-[Mesin tokek](https://en.wikipedia.org/wiki/Gecko_(perangkat lunak)). Garpu Firefox seperti Pale Moon, Basilisk, dan Waterfox mempertahankan dukungan untuk add-on XUL. File XUL diidentifikasi dengan tipe MIME: application/vnd.mozilla.xul+xml.
+[Mesin tokek](https://en.wikipedia.org/wiki/Gecko_(software)). Garpu Firefox seperti Pale Moon, Basilisk, dan Waterfox mempertahankan dukungan untuk add-on XUL. File XUL diidentifikasi dengan tipe MIME: application/vnd.mozilla.xul+xml.
 
 ## Format File XUL
 

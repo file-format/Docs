@@ -20,7 +20,7 @@
 ## Czym jest plik XUL?
 
 Plik z rozszerzeniem .xul ([XUL](https://wiki.mozilla.org/XUL:Home_Page) oznacza XML User Interface Language) to plik języka znaczników oparty na [XML](/pl/web/xml/) dla tworzenie interfejsów użytkownika. Został opracowany przez Mozillę dla programistów do tworzenia graficznych elementów interfejsu użytkownika podobnych do innych języków znaczników używanych do tworzenia stron internetowych. XUL był szeroko używany przez Mozillę w jej przeglądarce Firefox, gdzie wykorzystywał bazę kodu Mozilli. Renderowanie XUL odbywa się za pomocą
-[Silnik Gecko](https://en.wikipedia.org/wiki/Gecko_(oprogramowanie)). Rozwidlenia Firefoksa, takie jak Pale Moon, Basilisk i Waterfox, zachowują obsługę dodatków XUL. Pliki XUL są identyfikowane za pomocą typu MIME: application/vnd.mozilla.xul+xml.
+[Silnik Gecko](https://en.wikipedia.org/wiki/Gecko_(software)). Rozwidlenia Firefoksa, takie jak Pale Moon, Basilisk i Waterfox, zachowują obsługę dodatków XUL. Pliki XUL są identyfikowane za pomocą typu MIME: application/vnd.mozilla.xul+xml.
 
 ## Format pliku XUL
 
