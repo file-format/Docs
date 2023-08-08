@@ -33,5 +33,5 @@ WDB dosyasının yapısı aşağıda verilmiştir:
 
 ## Referanslar ##
 
-* [Kullanıcı:JesseW/wdb biçimi](https://en.wikipedia.org/wiki/Kullanıcı:JesseW/wdb_format)
+* [Kullanıcı:JesseW/wdb biçimi](https://en.wikipedia.org/wiki/User:JesseW/wdb_format)
 

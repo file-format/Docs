@@ -33,5 +33,5 @@ De structuur van het WDB-bestand wordt hieronder gegeven:
 
 ## Referenties ##
 
-* [Gebruiker:JesseW/wdb-formaat](https://en.wikipedia.org/wiki/Gebruiker:JesseW/wdb_format)
+* [Gebruiker:JesseW/wdb-formaat](https://en.wikipedia.org/wiki/User:JesseW/wdb_format)
 

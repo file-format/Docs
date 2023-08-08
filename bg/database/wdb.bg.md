@@ -33,5 +33,5 @@
 
 ## Препратки ##
 
-* [Потребител:JesseW/wdb формат](https://en.wikipedia.org/wiki/Потребител:JesseW/wdb_format)
+* [Потребител:JesseW/wdb формат](https://en.wikipedia.org/wiki/User:JesseW/wdb_format)
 
