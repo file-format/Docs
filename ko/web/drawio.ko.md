@@ -77,7 +77,7 @@ DRAWIO 파일은 표준 XML 파일 형식으로 저장된 벡터 이미지 파�
 
 ## 참조 ##
 
-* [DRAWIO - Github](https://github.com/jgraph/draio)
+* [DRAWIO - Github](https://github.com/jgraph/drawio)
 * [DRAWIO - 온라인 앱](https://app.diagrams.net/)
 * [Diagrams.Net](https://www.diagrams.net/)
 
