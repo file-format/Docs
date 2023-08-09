@@ -34,5 +34,5 @@ Fișierele XS sunt salvate ca fișiere text simplu care pot fi deschise și edit
 ## Referințe
 
 * [Age of Empires III - Subiecte](https://github.com/topics/aoe)
-* [Forum - Age of Empires III](https://forums.ageofempires.com/t/please-make-the-ai-fight-for-map-control-and-resources-long-post-but-worth- it/176307)
+* [Forum - Age of Empires III](https://forums.ageofempires.com/t/please-make-the-ai-fight-for-map-control-and-resources-long-post-but-worth-it/176307)
 

@@ -34,5 +34,5 @@ Les fichiers XS sont enregistrés sous forme de fichiers texte brut qui peuvent 
 ## Références
 
 * [Age of Empires III - Sujets](https://github.com/topics/aoe)
-* [Forum - Age of Empires III](https://forums.ageofempires.com/t/Please-make-the-ai-fight-for-map-control-and-resources-long-post-but-worth- it/176307)
+* [Forum - Age of Empires III](https://forums.ageofempires.com/t/please-make-the-ai-fight-for-map-control-and-resources-long-post-but-worth-it/176307)
 

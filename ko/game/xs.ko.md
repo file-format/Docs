@@ -34,5 +34,5 @@ XS 파일은 텍스트 편집기로 열고 편집할 수 있는 일반 텍스트
 ## 참조
 
 * [Age of Empires III - 주제](https://github.com/topics/aoe)
-* [포럼 - 에이지 오브 엠파이어 III](https://forums.ageofempires.com/t/Please-make-the-ai-fight-for-map-control-and-resources-long-post-but-worth- it/176307)
+* [포럼 - 에이지 오브 엠파이어 III](https://forums.ageofempires.com/t/please-make-the-ai-fight-for-map-control-and-resources-long-post-but-worth-it/176307)
 
