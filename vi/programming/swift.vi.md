@@ -55,5 +55,5 @@ Swift được phân biệt với các ngôn ngữ chương trình khác dựa t
 
 ## Người giới thiệu
 * [Swift - GitHub](https://github.com/apple/swift)
-* [Swift - Wikipedia](https://vi.wikipedia.org/wiki/Swift_(programming_language))
+* [Swift - Wikipedia](https://en.wikipedia.org/wiki/Swift_(programming_language))
 

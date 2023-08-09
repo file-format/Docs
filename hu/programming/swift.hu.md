@@ -55,5 +55,5 @@ A Swift a következő jellemzők alapján különbözik meg a többi programnyel
 
 ## Hivatkozások
 * [Swift – GitHub](https://github.com/apple/swift)
-* [Swift – Wikipédia](https://en.wikipedia.org/wiki/Swift_(programozási_nyelv))
+* [Swift – Wikipédia](https://en.wikipedia.org/wiki/Swift_(programming_language))
 

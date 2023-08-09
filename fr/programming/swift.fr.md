@@ -55,5 +55,5 @@ Swift se distingue des autres langages de programme en fonction des fonctionnali
 
 ## Références
 * [Swift - GitHub](https://github.com/apple/swift)
-* [Swift - Wikipédia](https://en.wikipedia.org/wiki/Swift_(langage_de_programmation))
+* [Swift - Wikipédia](https://en.wikipedia.org/wiki/Swift_(programming_language))
 

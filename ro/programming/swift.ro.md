@@ -55,5 +55,5 @@ Swift se distinge de alte limbaje de program pe baza următoarelor caracteristic
 
 ## Referințe
 * [Swift - GitHub](https://github.com/apple/swift)
-* [Swift - Wikipedia](https://en.wikipedia.org/wiki/Swift_(limbaj_de_programare))
+* [Swift - Wikipedia](https://en.wikipedia.org/wiki/Swift_(programming_language))
 

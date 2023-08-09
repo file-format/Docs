@@ -55,5 +55,5 @@
 
 ## مراجع
 * [Swift - GitHub](https://github.com/apple/swift)
-* [سويفت - ويكيبيديا](https://en.wikipedia.org/wiki/Swift_ (architecture_language))
+* [سويفت - ويكيبيديا](https://en.wikipedia.org/wiki/Swift_(programming_language))
 

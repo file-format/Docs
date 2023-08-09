@@ -55,5 +55,5 @@ Swift отличается от других языков программиро
 
 ## использованная литература
 * [Свифт — GitHub](https://github.com/apple/swift)
-* [Свифт - Википедия](https://en.wikipedia.org/wiki/Swift_(язык_программирования))
+* [Свифт - Википедия](https://en.wikipedia.org/wiki/Swift_(programming_language))
 

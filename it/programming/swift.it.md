@@ -55,5 +55,5 @@ Swift si distingue dagli altri linguaggi di programma in base alle seguenti cara
 
 ## Riferimenti
 * [Swift - GitHub](https://github.com/apple/swift)
-* [Swift - Wikipedia](https://en.wikipedia.org/wiki/Swift_(linguaggio_di_programmazione))
+* [Swift - Wikipedia](https://en.wikipedia.org/wiki/Swift_(programming_language))
 

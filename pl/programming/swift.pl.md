@@ -55,5 +55,5 @@ Swift różni się od innych języków programowania następującymi cechami.
 
 ## Bibliografia
 * [Swift – GitHub](https://github.com/apple/swift)
-* [Swift - Wikipedia](https://en.wikipedia.org/wiki/Swift_(język_programowania))
+* [Swift - Wikipedia](https://en.wikipedia.org/wiki/Swift_(programming_language))
 
