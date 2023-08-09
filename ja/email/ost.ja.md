@@ -79,5 +79,5 @@ OST ファイルの HEADER 構造は、ファイルの最初の 0 オフセッ�
 ## 参考文献
 
 * [Outlook 個人用フォルダー (.ost) ファイル形式](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
-※【個人フォルダのファイル形式仕様】(https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [個人フォルダのファイル形式仕様](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 
