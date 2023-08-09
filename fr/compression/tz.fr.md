@@ -26,6 +26,6 @@ Les fichiers TZ sont enregistrés en tant que fichiers binaires à l'aide de l'a
 
 ## Références
 
-* [TAR - Par Wikipédia](https://en.wikipedia.org/wiki/Tar_(informatique))
+* [TAR - Par Wikipédia](https://en.wikipedia.org/wiki/Tar_(computing))
 * [Format de base TAR](https://www.gnu.org/software/tar/manual/html_node/Standard.html)
 

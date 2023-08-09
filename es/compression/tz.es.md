@@ -26,6 +26,6 @@ Los archivos TZ se guardan como archivos binarios utilizando el algoritmo de com
 
 ## Referencias
 
-* [TAR - Por Wikipedia](https://en.wikipedia.org/wiki/Tar_(informática))
+* [TAR - Por Wikipedia](https://en.wikipedia.org/wiki/Tar_(computing))
 * [Formato básico TAR](https://www.gnu.org/software/tar/manual/html_node/Standard.html)
 
