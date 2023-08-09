@@ -40,6 +40,6 @@
 
 * [Редактор мира для Minecraft](https://www.mcedit.net/)
 * [О Minecraft](https://www.minecraft.net/en-us)
-* [Формат файла региона](https://minecraft.fandom.com/wiki/формат_файла_региона)
+* [Формат файла региона](https://minecraft.fandom.com/wiki/Region_file_format)
 * [Формат NBT](https://minecraft.fandom.com/wiki/NBT_format)
 
