@@ -39,5 +39,5 @@ Den stöder tre typer av virtuella hårddiskar.
 ## Referenser
 
 * [VHDX filformatspecifikationer](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
-* [VHD - av Wikipedia](https://en.wikipedia.org/wiki/VHD_(filformat))
+* [VHD - av Wikipedia](https://en.wikipedia.org/wiki/VHD_(file_format))
 

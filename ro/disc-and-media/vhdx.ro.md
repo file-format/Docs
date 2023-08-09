@@ -39,5 +39,5 @@ Acceptă trei tipuri de hard disk virtuale.
 ## Referințe
 
 * [Specificații de format de fișier VHDX](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
-* [VHD - de la Wikipedia](https://en.wikipedia.org/wiki/VHD_(format_fișier))
+* [VHD - de la Wikipedia](https://en.wikipedia.org/wiki/VHD_(file_format))
 
