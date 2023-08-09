@@ -94,7 +94,7 @@ class BaseVector {
 
 ## Riferimento ##
 
-* [NUT - di Wikipedia](https://en.wikipedia.org/wiki/Squirrel_(linguaggio_di_programmazione))
+* [NUT - di Wikipedia](https://en.wikipedia.org/wiki/Squirrel_(programming_language))
 
 
 

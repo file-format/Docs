@@ -94,7 +94,7 @@ class BaseVector {
 
 ## Hivatkozási szám
 
-* [NUT – a Wikipédia által](https://en.wikipedia.org/wiki/Squirrel_(programing_language))
+* [NUT – a Wikipédia által](https://en.wikipedia.org/wiki/Squirrel_(programming_language))
 
 
 
