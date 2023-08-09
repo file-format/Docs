@@ -49,5 +49,5 @@ Dopo l'intestazione arrivano i pacchetti. Il file FLV è suddiviso in più pacch
 
 ## Riferimenti ##
 
-- [Video Flash - Wikipedia](https://en.wikipedia.org/wiki/Video_Flash)
+- [Video Flash - Wikipedia](https://en.wikipedia.org/wiki/Flash_Video)
 

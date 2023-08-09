@@ -49,5 +49,5 @@ Sau tiêu đề là các Gói. Tệp FLV được chia thành nhiều gói đư�
 
 ## Người giới thiệu ##
 
-- [Video Flash - Wikipedia](https://vi.wikipedia.org/wiki/Flash_Video)
+- [Video Flash - Wikipedia](https://en.wikipedia.org/wiki/Flash_Video)
 

@@ -45,5 +45,5 @@ F4V (Flash MP4 Video File) là một tệp video được lưu với phần mở
 
 ## Người giới thiệu ##
 
-- [Video Flash - Wikipedia](https://vi.wikipedia.org/wiki/Flash_Video)
+- [Video Flash - Wikipedia](https://en.wikipedia.org/wiki/Flash_Video)
 
