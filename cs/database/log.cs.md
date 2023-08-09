@@ -35,5 +35,5 @@ Protokol serveru je vlastně soubor protokolu obsahující seznam činností, kt
 
 ## Reference ##
 
-* [Soubor protokolu – Wikipedie](https://en.wikipedia.org/wiki/Soubor protokolu)
+* [Soubor protokolu – Wikipedie](https://en.wikipedia.org/wiki/Log_file)
 
