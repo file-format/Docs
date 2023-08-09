@@ -22,7 +22,7 @@ File PYC adalah file keluaran terkompilasi yang dihasilkan dari kode sumber yang
 
 ## Struktur Format File PYC
 
-File PYC dalam bytecode dan spesifikasi format filenya tidak tersedia untuk umum. Namun, penyelidikan oleh beberapa sumber menunjukkan bahwa [struktur file PYC](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A% 20marshalled%20code%20object.) terdiri dari:
+File PYC dalam bytecode dan spesifikasi format filenya tidak tersedia untuk umum. Namun, penyelidikan oleh beberapa sumber menunjukkan bahwa [struktur file PYC](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html) terdiri dari:
 
 * `Numbe`r ajaib empat byte - Cukup dua byte yang berubah dengan setiap perubahan pada kode marshalling, lalu dua byte 0d0a.
 * `Stempel waktu modifikasi empat byte` - Stempel waktu modifikasi Unix dari file sumber yang menghasilkan .pyc, sehingga dapat dikompilasi ulang jika sumbernya berubah.
@@ -30,5 +30,5 @@ File PYC dalam bytecode dan spesifikasi format filenya tidak tersedia untuk umum
 
 ## Referensi
 
-* [Struktur file .pyc](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A%20marshalled%20code%20object.)
+* [Struktur file .pyc](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html)
 

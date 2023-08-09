@@ -22,7 +22,7 @@ Een PYC-bestand is een gecompileerd uitvoerbestand dat is gegenereerd op basis v
 
 ## Structuur van PYC-bestandsindeling
 
-PYC-bestanden zijn in bytecode en hun specificaties voor bestandsindelingen zijn niet openbaar beschikbaar. Uit onderzoek door sommige bronnen blijkt echter dat de [structuur van een PYC-bestand](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A% 20marshalled%20code%20object.) bestaat uit:
+PYC-bestanden zijn in bytecode en hun specificaties voor bestandsindelingen zijn niet openbaar beschikbaar. Uit onderzoek door sommige bronnen blijkt echter dat de [structuur van een PYC-bestand](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html) bestaat uit:
 
 * `Een magisch getal van vier bytes` - Gewoon twee bytes die veranderen bij elke wijziging in de rangeercode, en dan twee bytes van 0d0a.
 * `Een vier-byte wijzigingstijdstempel` - Unix wijzigingstijdstempel van het bronbestand dat de .pyc heeft gegenereerd, zodat het opnieuw kan worden gecompileerd als de broncode verandert.
@@ -30,5 +30,5 @@ PYC-bestanden zijn in bytecode en hun specificaties voor bestandsindelingen zijn
 
 ## Referenties
 
-* [De structuur van .pyc-bestanden](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A%20marshalled%20code%20object.)
+* [De structuur van .pyc-bestanden](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html)
 

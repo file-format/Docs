@@ -22,7 +22,7 @@
 
 ## โครงสร้างของรูปแบบไฟล์ PYC
 
-ไฟล์ PYC อยู่ในรหัสไบต์และข้อกำหนดรูปแบบไฟล์ไม่เปิดเผยต่อสาธารณะ อย่างไรก็ตาม การตรวจสอบโดยบางแหล่งแสดงให้เห็นว่า [โครงสร้างของไฟล์ PYC](https://nedbatchhelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A% 20marshalled%20code%20object.) ประกอบด้วย:
+ไฟล์ PYC อยู่ในรหัสไบต์และข้อกำหนดรูปแบบไฟล์ไม่เปิดเผยต่อสาธารณะ อย่างไรก็ตาม การตรวจสอบโดยบางแหล่งแสดงให้เห็นว่า [โครงสร้างของไฟล์ PYC](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html) ประกอบด้วย:
 
 * `A สี่ไบต์เวทย์มนตร์ number`r - เพียงสองไบต์ที่เปลี่ยนแปลงตามการเปลี่ยนแปลงรหัสมาร์แชลลิ่งแต่ละครั้ง และตามด้วย 0d0a สองไบต์
 * `การประทับเวลาการแก้ไขสี่ไบต์` - การประทับเวลาการแก้ไข Unix ของไฟล์ต้นฉบับที่สร้าง .pyc เพื่อให้สามารถคอมไพล์ใหม่ได้หากต้นฉบับมีการเปลี่ยนแปลง
@@ -30,5 +30,5 @@
 
 ## อ้างอิง
 
-* [โครงสร้างของไฟล์ .pyc](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A%20marshalled%20code%20object.)
+* [โครงสร้างของไฟล์ .pyc](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html)
 

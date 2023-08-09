@@ -22,7 +22,7 @@ Soubor PYC je zkompilovaný výstupní soubor generovaný ze zdrojového kódu n
 
 ## Struktura formátu souboru PYC
 
-Soubory PYC jsou v bajtovém kódu a specifikace jejich formátu souborů nejsou veřejně dostupné. Průzkum některých zdrojů však ukazuje, že [struktura souboru PYC](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A% 20marshalled%20code%20object.) se skládá z:
+Soubory PYC jsou v bajtovém kódu a specifikace jejich formátu souborů nejsou veřejně dostupné. Průzkum některých zdrojů však ukazuje, že [struktura souboru PYC](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html) se skládá z:
 
 * `Čtyřbajtové magické číslo`r – Jednoduše dva bajty, které se mění s každou změnou zařazovacího kódu, a pak dva bajty 0d0a.
 * `Čtyřbajtové časové razítko modifikace` - Unixové časové razítko modifikace zdrojového souboru, který vygeneroval .pyc, takže jej lze znovu zkompilovat, pokud se zdroj změní.
@@ -30,5 +30,5 @@ Soubory PYC jsou v bajtovém kódu a specifikace jejich formátu souborů nejsou
 
 ## Reference
 
-* [Struktura souborů .pyc](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A%20marshalled%20code%20object.)
+* [Struktura souborů .pyc](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html)
 

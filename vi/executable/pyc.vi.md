@@ -22,7 +22,7 @@ Tệp PYC là tệp đầu ra được biên dịch được tạo từ mã ngu�
 
 ## Cấu trúc của định dạng tệp PYC
 
-Các tệp PYC ở dạng mã byte và thông số định dạng tệp của chúng không có sẵn công khai. Tuy nhiên, điều tra của một số nguồn cho thấy rằng [cấu trúc của tệp PYC](https://nedbatchelder.com/blog/200804/the_struct_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A% 20marshalled%20code%20object.) bao gồm:
+Các tệp PYC ở dạng mã byte và thông số định dạng tệp của chúng không có sẵn công khai. Tuy nhiên, điều tra của một số nguồn cho thấy rằng [cấu trúc của tệp PYC](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html) bao gồm:
 
 * `Một số ma thuật bốn byte`r - Chỉ đơn giản là hai byte thay đổi với mỗi thay đổi đối với mã sắp xếp và sau đó là hai byte 0d0a.
 * `Dấu thời gian sửa đổi bốn byte` - Dấu thời gian sửa đổi Unix của tệp nguồn đã tạo ra .pyc, để nó có thể được biên dịch lại nếu nguồn thay đổi.
@@ -30,5 +30,5 @@ Các tệp PYC ở dạng mã byte và thông số định dạng tệp của ch
 
 ## Người giới thiệu
 
-* [Cấu trúc của tệp .pyc](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A%20marshalled%20code%20object.)
+* [Cấu trúc của tệp .pyc](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html)
 

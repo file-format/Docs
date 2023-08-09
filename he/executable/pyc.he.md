@@ -22,7 +22,7 @@
 
 ## מבנה פורמט קובץ PYC
 
-קובצי PYC נמצאים בקוד בתים ומפרטי פורמט הקובץ שלהם אינם זמינים לציבור. עם זאת, חקירה של מקורות מסוימים מראה ש[מבנה של קובץ PYC](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A% 20marshalled%20code%20object.) מורכב מ:
+קובצי PYC נמצאים בקוד בתים ומפרטי פורמט הקובץ שלהם אינם זמינים לציבור. עם זאת, חקירה של מקורות מסוימים מראה ש[מבנה של קובץ PYC](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html) מורכב מ:
 
 * `מספר קסם של ארבעה בתים` - פשוט שני בתים המשתנים עם כל שינוי בקוד ה-Marshalling, ולאחר מכן שני בתים של 0d0a.
 * `A four-byte modification timestamp` - חותמת זמן שינוי Unix של קובץ המקור שיצר את ה-.pyc, כך שניתן להידור מחדש אם המקור משתנה.
@@ -30,5 +30,5 @@
 
 ## הפניות
 
-* [המבנה של קבצי .pyc](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A%20marshalled%20code%20object.)
+* [המבנה של קבצי .pyc](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html)
 

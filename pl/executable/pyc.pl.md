@@ -22,7 +22,7 @@ Plik PYC to skompilowany plik wyjściowy wygenerowany z kodu źródłowego napis
 
 ## Struktura formatu pliku PYC
 
-Pliki PYC są w kodzie bajtowym, a ich specyfikacje formatu plików nie są dostępne publicznie. Jednak badanie przeprowadzone przez niektóre źródła wykazało, że [struktura pliku PYC](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A% 20marshalled%20code%20object.) składa się z:
+Pliki PYC są w kodzie bajtowym, a ich specyfikacje formatu plików nie są dostępne publicznie. Jednak badanie przeprowadzone przez niektóre źródła wykazało, że [struktura pliku PYC](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html) składa się z:
 
 * `Czterobajtowa liczba magiczna`r - Po prostu dwa bajty, które zmieniają się przy każdej zmianie kodu porządkowego, a następnie dwa bajty 0d0a.
 * `Czterobajtowy znacznik czasu modyfikacji` - Uniksowy znacznik czasu modyfikacji pliku źródłowego, który wygenerował plik .pyc, dzięki czemu można go ponownie skompilować w przypadku zmiany źródła.
@@ -30,5 +30,5 @@ Pliki PYC są w kodzie bajtowym, a ich specyfikacje formatu plików nie są dost
 
 ## Bibliografia
 
-* [Struktura plików .pyc](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A%20marshalled%20code%20object.)
+* [Struktura plików .pyc](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html)
 

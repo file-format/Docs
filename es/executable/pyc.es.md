@@ -22,7 +22,7 @@ Un archivo PYC es un archivo de salida compilado generado a partir del código f
 
 ## Estructura del formato de archivo PYC
 
-Los archivos PYC están en código de bytes y sus especificaciones de formato de archivo no están disponibles públicamente. Sin embargo, la investigación de algunas fuentes muestra que la [estructura de un archivo PYC](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A% 20ordenado%20código%20objeto.) consta de:
+Los archivos PYC están en código de bytes y sus especificaciones de formato de archivo no están disponibles públicamente. Sin embargo, la investigación de algunas fuentes muestra que la [estructura de un archivo PYC](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html) consta de:
 
 * `Un número mágico de cuatro bytes`r: simplemente dos bytes que cambian con cada cambio en el código de clasificación y luego dos bytes de 0d0a.
 * `Una marca de tiempo de modificación de cuatro bytes`: marca de tiempo de modificación de Unix del archivo fuente que generó el .pyc, para que pueda volver a compilarse si la fuente cambia.
@@ -30,5 +30,5 @@ Los archivos PYC están en código de bytes y sus especificaciones de formato de
 
 ## Referencias
 
-* [La estructura de los archivos .pyc](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A%20marshalled%20code%20object.)
+* [La estructura de los archivos .pyc](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html)
 

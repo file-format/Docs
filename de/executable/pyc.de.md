@@ -22,7 +22,7 @@ Eine PYC-Datei ist eine kompilierte Ausgabedatei, die aus Quellcode generiert wi
 
 ## Struktur des PYC-Dateiformats
 
-PYC-Dateien sind im Bytecode und ihre Dateiformatspezifikationen sind nicht öffentlich verfügbar. Untersuchungen einiger Quellen zeigen jedoch, dass die [Struktur einer PYC-Datei](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A% 20marshalled%20code%20object.) besteht aus:
+PYC-Dateien sind im Bytecode und ihre Dateiformatspezifikationen sind nicht öffentlich verfügbar. Untersuchungen einiger Quellen zeigen jedoch, dass die [Struktur einer PYC-Datei](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html) besteht aus:
 
 * „Eine magische Vier-Byte-Zahl“ – Einfach zwei Bytes, die sich bei jeder Änderung des Marshalling-Codes ändern, und dann zwei Bytes von 0d0a.
 * „Ein Vier-Byte-Änderungszeitstempel“ – Unix-Änderungszeitstempel der Quelldatei, die die .pyc-Datei generiert hat, damit sie neu kompiliert werden kann, wenn sich die Quelle ändert.
@@ -30,5 +30,5 @@ PYC-Dateien sind im Bytecode und ihre Dateiformatspezifikationen sind nicht öff
 
 ## Verweise
 
-* [Die Struktur von .pyc-Dateien](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A%20marshalled%20code%20object.)
+* [Die Struktur von .pyc-Dateien](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html)
 
