@@ -23,7 +23,7 @@ Az .mgx kiterjesztésű fájl az Age of Empires II: The Conquerors játék rögz
 
 ## MGX fájlformátum - További információ
 
-Az MGX fájl belső fájlformátumát kidolgozták, és részben hitelesített információként elérhető az [Age of Empires 2: The Conquerors – Savegame File Format Specification](https://github.com/stefan-kolb/aoc-mgx-) oldalon. formátum). A specifikációk a következő szakaszokban ismertetik a részleteket.
+Az MGX fájl belső fájlformátumát kidolgozták, és részben hitelesített információként elérhető az [Age of Empires 2: The Conquerors – Savegame File Format Specification](https://github.com/stefan-kolb/aoc-mgx-format) oldalon. A specifikációk a következő szakaszokban ismertetik a részleteket.
 
 ### Struktúra definíciók
 

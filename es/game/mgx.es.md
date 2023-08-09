@@ -23,7 +23,7 @@ Un archivo con la extensión .mgx es un archivo grabado para el juego Age of Emp
 
 ## Formato de archivo MGX - Más información
 
-El formato de archivo interno del archivo MGX se elaboró y está disponible como información parcialmente validada en [Age of Empires 2: The Conquerors — Especificación de formato de archivo de guardado](https://github.com/stefan-kolb/aoc-mgx- formato). Las especificaciones describen los detalles en las siguientes secciones.
+El formato de archivo interno del archivo MGX se elaboró y está disponible como información parcialmente validada en [Age of Empires 2: The Conquerors — Especificación de formato de archivo de guardado](https://github.com/stefan-kolb/aoc-mgx-format). Las especificaciones describen los detalles en las siguientes secciones.
 
 ### Definiciones de estructura
 

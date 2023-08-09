@@ -23,7 +23,7 @@ Een bestand met de extensie .mgx is een opgenomen bestand voor Age of Empires II
 
 ## MGX-bestandsindeling - Meer informatie
 
-Het interne bestandsformaat van het MGX-bestand is uitgewerkt en beschikbaar als gedeeltelijk gevalideerde informatie op [Age of Empires 2: The Conquerors — Savegame File Format Specification](https://github.com/stefan-kolb/aoc-mgx- formaat). De specificaties beschrijven de details in de volgende secties.
+Het interne bestandsformaat van het MGX-bestand is uitgewerkt en beschikbaar als gedeeltelijk gevalideerde informatie op [Age of Empires 2: The Conquerors — Savegame File Format Specification](https://github.com/stefan-kolb/aoc-mgx-format). De specificaties beschrijven de details in de volgende secties.
 
 ### Structuurdefinities
 

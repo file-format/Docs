@@ -23,7 +23,7 @@
 
 ## MGX 파일 형식 - 추가 정보
 
-MGX 파일의 내부 파일 형식은 [Age of Empires 2: The Conquerors - Savegame 파일 형식 사양](https://github.com/stefan-kolb/aoc-mgx- 체재). 사양은 다음 섹션에서 세부 정보를 간략하게 설명합니다.
+MGX 파일의 내부 파일 형식은 [Age of Empires 2: The Conquerors - Savegame 파일 형식 사양](https://github.com/stefan-kolb/aoc-mgx-format). 사양은 다음 섹션에서 세부 정보를 간략하게 설명합니다.
 
 ### 구조 정의
 

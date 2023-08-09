@@ -23,7 +23,7 @@
 
 ## פורמט קובץ MGX - מידע נוסף
 
-פורמט הקובץ הפנימי של קובץ MGX עובד וזמין כמידע מאומת חלקית על [Age of Empires 2: The Conquerors — Savegame Format File Format](https://github.com/stefan-kolb/aoc-mgx- פוּרמָט). המפרטים מתארים את הפרטים בסעיפים הבאים.
+פורמט הקובץ הפנימי של קובץ MGX עובד וזמין כמידע מאומת חלקית על [Age of Empires 2: The Conquerors — Savegame Format File Format](https://github.com/stefan-kolb/aoc-mgx-format) פוּרמָט. המפרטים מתארים את הפרטים בסעיפים הבאים.
 
 ### הגדרות מבנה
 

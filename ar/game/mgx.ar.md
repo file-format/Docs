@@ -23,7 +23,7 @@
 
 ## تنسيق ملف MGX - مزيد من المعلومات
 
-تم إعداد تنسيق الملف الداخلي لملف MGX وإتاحته كمعلومات تم التحقق من صحتها جزئيًا حول [Age of Empires 2: The Conquerors - Savegame File Format Specification](https://github.com/stefan-kolb/aoc-mgx- صيغة). تحدد المواصفات التفاصيل في الأقسام التالية.
+تم إعداد تنسيق الملف الداخلي لملف MGX وإتاحته كمعلومات تم التحقق من صحتها جزئيًا حول [Age of Empires 2: The Conquerors - Savegame File Format Specification](https://github.com/stefan-kolb/aoc-mgx-format). تحدد المواصفات التفاصيل في الأقسام التالية.
 
 ### تعريفات الهيكل
 

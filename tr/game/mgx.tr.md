@@ -23,7 +23,7 @@
 
 ## MGX Dosya Biçimi - Daha Fazla Bilgi
 
-MGX dosyasının dahili dosya formatı üzerinde çalışılmıştır ve [Age of Empires 2: The Conquerors — Savegame File Format Spesifikasyonu](https://github.com/stefan-kolb/aoc-mgx-) hakkında kısmen doğrulanmış bilgi olarak mevcuttur. biçim). Spesifikasyonlar, aşağıdaki bölümlerde ayrıntıları özetlemektedir.
+MGX dosyasının dahili dosya formatı üzerinde çalışılmıştır ve [Age of Empires 2: The Conquerors — Savegame File Format Spesifikasyonu](https://github.com/stefan-kolb/aoc-mgx-format) hakkında kısmen doğrulanmış bilgi olarak mevcuttur. Spesifikasyonlar, aşağıdaki bölümlerde ayrıntıları özetlemektedir.
 
 ### Yapı Tanımları
 
