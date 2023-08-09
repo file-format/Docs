@@ -32,5 +32,5 @@
 
 ## הפניות
 
-* [תכנות סכימה - ויקיפדיה](https://en.wikipedia.org/wiki/Schema_(programming_language))
+* [תכנות סכימה - ויקיפדיה](https://en.wikipedia.org/wiki/Scheme_(programming_language))
 

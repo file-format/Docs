@@ -32,5 +32,5 @@ Pliki SCM są tworzone i zapisywane w formacie zwykłego tekstu za pomocą dowol
 
 ## Bibliografia
 
-* [Programowanie według schematów – Wikipedia](https://en.wikipedia.org/wiki/Scheme_(język_programowania))
+* [Programowanie według schematów – Wikipedia](https://en.wikipedia.org/wiki/Scheme_(programming_language))
 

@@ -32,5 +32,5 @@ Az SCM fájlok egyszerű szöveges formátumban jönnek létre és menthetők b�
 
 ## Hivatkozások
 
-* [Sémaprogramozás – Wikipédia](https://en.wikipedia.org/wiki/Scheme_(programozási_nyelv))
+* [Sémaprogramozás – Wikipédia](https://en.wikipedia.org/wiki/Scheme_(programming_language))
 
