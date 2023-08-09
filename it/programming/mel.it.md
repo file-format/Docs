@@ -23,7 +23,7 @@ Un file con estensione .mel (Maya Embedded Language) è un linguaggio di scripti
 
 ## Formato file MEL - Ulteriori informazioni
 
-Un [manuale di riferimento] del programmatore (https://download.autodesk.com/us/maya/2009help/index.html?url=Glossary_M_.mb_file_format.htm,topicNumber=d0e193865) è disponibile per gli sviluppatori nella sezione della documentazione di Maya. MEL si basa su comandi di scripting di shell, simili a UINX, per ottenere risultati. I comandi basati su script lo rendono irrilevante per la programmazione convenzionale e orientata agli oggetti (OOP), risultando in nessun utilizzo di strutture dati, funzioni di chiamata o utilizzo di OOP come in altri linguaggi.
+Un [manuale di riferimento](https://download.autodesk.com/us/maya/2009help/index.html?url=Glossary_M_.mb_file_format.htm,topicNumber=d0e193865) del programmatore è disponibile per gli sviluppatori nella sezione della documentazione di Maya. MEL si basa su comandi di scripting di shell, simili a UINX, per ottenere risultati. I comandi basati su script lo rendono irrilevante per la programmazione convenzionale e orientata agli oggetti (OOP), risultando in nessun utilizzo di strutture dati, funzioni di chiamata o utilizzo di OOP come in altri linguaggi.
 
 Alcuni punti chiave su MEL sono i seguenti.
 

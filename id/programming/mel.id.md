@@ -23,7 +23,7 @@ File dengan ekstensi .mel (Maya Embedded Language) adalah bahasa skrip yang digu
 
 ## Format File MEL - Informasi Lebih Lanjut
 
-[Manual referensi] programmer (https://download.autodesk.com/us/maya/2009help/index.html?url=Glossary_M_.mb_file_format.htm,topicNumber=d0e193865) tersedia untuk developer di bagian dokumentasi Maya. MEL didasarkan pada perintah skrip shell, mirip dengan UINX, untuk mencapai sesuatu. Perintah berbasis skrip membuatnya tidak relevan dengan pemrograman konvensional dan berorientasi objek (OOP), sehingga tidak ada penggunaan struktur data, fungsi pemanggilan, atau penggunaan OOP seperti dalam bahasa lain.
+[Manual referensi](https://download.autodesk.com/us/maya/2009help/index.html?url=Glossary_M_.mb_file_format.htm,topicNumber=d0e193865) programmer tersedia untuk developer di bagian dokumentasi Maya. MEL didasarkan pada perintah skrip shell, mirip dengan UINX, untuk mencapai sesuatu. Perintah berbasis skrip membuatnya tidak relevan dengan pemrograman konvensional dan berorientasi objek (OOP), sehingga tidak ada penggunaan struktur data, fungsi pemanggilan, atau penggunaan OOP seperti dalam bahasa lain.
 
 Beberapa poin penting tentang MEL adalah sebagai berikut.
 
