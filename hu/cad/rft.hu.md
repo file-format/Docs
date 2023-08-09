@@ -27,5 +27,5 @@ Az RFT-fájlok családi sablonfájlok, amelyek betölthetők (az RFA-fájlokkal 
 
 ## Hivatkozások
 
-* [Revit fájltípusok](https://knowledge.autodesk.com/support/revit/learn-explore/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
+* [Revit fájltípusok](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
 

@@ -27,4 +27,4 @@
 
 ## использованная литература
 
-* [Типы файлов Revit](https://knowledge.autodesk.com/support/revit/troubleshooting/caas/sfdcarticles/sfdcarticles/Standards-and-file-formats-supported-by-Revit.html)
+* [Типы файлов Revit](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)

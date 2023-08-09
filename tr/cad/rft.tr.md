@@ -27,5 +27,5 @@ RFT dosyaları, bir projeye (RFA dosyalarıyla birlikte) yüklenebilen veya stan
 
 ## Referanslar
 
-* [Revit dosya türleri](https://knowledge.autodesk.com/support/revit/learn-explore/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
+* [Revit dosya türleri](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
 

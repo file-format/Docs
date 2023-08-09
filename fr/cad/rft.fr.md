@@ -27,5 +27,5 @@ Les fichiers RFT sont des fichiers de gabarit de famille qui peuvent être charg
 
 ## Références
 
-* [Types de fichiers Revit](https://knowledge.autodesk.com/support/revit/learn-explore/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
+* [Types de fichiers Revit](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
 

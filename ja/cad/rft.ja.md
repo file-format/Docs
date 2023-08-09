@@ -27,5 +27,5 @@ RFT ファイルはファミリ テンプレート ファイルで、(RFA ファ
 
 ## 参考文献
 
-* [Revit ファイル タイプ](https://knowledge.autodesk.com/support/revit/learn-explore/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
+* [Revit ファイル タイプ](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
 

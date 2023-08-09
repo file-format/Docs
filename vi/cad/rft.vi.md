@@ -27,5 +27,5 @@ Các tệp RFT là các tệp mẫu gia đình có thể được tải (cùng v
 
 ## Người giới thiệu
 
-* [Các loại tệp Revit](https://knowledge.autodesk.com/support/revit/learn-explore/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
+* [Các loại tệp Revit](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
 

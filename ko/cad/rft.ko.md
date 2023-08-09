@@ -27,5 +27,5 @@ RFT 파일은 표준 Revit 패밀리 파일이 .rfa 확장자로 저장되는 �
 
 ## 참고문헌
 
-* [Revit 파일 형식](https://knowledge.autodesk.com/support/revit/learn-explore/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
+* [Revit 파일 형식](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
 

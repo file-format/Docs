@@ -27,5 +27,5 @@ File RFT adalah file template keluarga yang dapat dimuat (bersama dengan file RF
 
 ## Referensi
 
-* [Jenis file Revit](https://knowledge.autodesk.com/support/revit/learn-explore/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
+* [Jenis file Revit](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
 
