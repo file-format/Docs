@@ -63,7 +63,7 @@
 |3D-текстура|Содержит текстуру, используемую для применения цвета к 3D-объекту в части 3D-модели (доступно для расширений)|3D-модель|ДОПОЛНИТЕЛЬНО
 |Пользовательские части|Части OPC, связанные с метаданными|Пакет|ДОПОЛНИТЕЛЬНО
 
-[Части и отношения](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-2-parts-and-relationships), [3D-модели](https:/ /github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-3-3d-models), [ресурсы объектов](https://github.com/3MFConsortium/spec_core/blob/master /3MF%20Core%20Specification.md#chapter-4-object-resources), [Материальные ресурсы](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-5 -material-resources) и разделы [Возможности пакета](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-6-3mf-document-package-features) спецификаций. документ дает подробную информацию о документе 3MF.
+[Части и отношения](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-2-parts-and-relationships), [3D-модели](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-3-3d-models), [ресурсы объектов](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-4-object-resources), [Материальные ресурсы](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-5-material-resources) и разделы [Возможности пакета](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-6-3mf-document-package-features) спецификаций. документ дает подробную информацию о документе 3MF.
 
 ## Использованная литература ##
 

@@ -63,7 +63,7 @@
 |3D Texture|Містить текстуру, яка використовується для застосування кольору до 3D-об’єкта в частині 3D-моделі (доступна для розширень)|3D-модель|НЕОБОВ’ЯЗКОВО
 |Користувацькі частини|частини OPC, пов'язані з метаданими|пакетом|НЕОБОВ'ЯЗКОВО
 
-[Частини та зв’язки](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-2-parts-and-relationships), [3D-моделі](https:/ /github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-3-3d-models), [Об’єктні ресурси](https://github.com/3MFConsortium/spec_core/blob/master /3MF%20Core%20Specification.md#chapter-4-object-resources), [Матеріальні ресурси](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-5 -material-resources) і [Package Features](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-6-3mf-document-package-features) розділи специфікацій документ надає детальну інформацію про документ 3MF.
+[Частини та зв’язки](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-2-parts-and-relationships), [3D-моделі](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-3-3d-models), [Об’єктні ресурси](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-4-object-resources), [Матеріальні ресурси](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-5-material-resources) і [Package Features](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-6-3mf-document-package-features) розділи специфікацій документ надає детальну інформацію про документ 3MF.
 
 ## Посилання ##
 

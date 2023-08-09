@@ -63,7 +63,7 @@
 |3D बनावट|इसमें 3D मॉडल भाग (एक्सटेंशन के लिए उपलब्ध) में 3D ऑब्जेक्ट पर रंग लागू करने के लिए उपयोग की जाने वाली बनावट है|3D मॉडल|वैकल्पिक
 |कस्टम पार्ट्स|ओपीसी भाग जो मेटाडेटा से जुड़े हैं|पैकेज|वैकल्पिक
 
-[भाग और संबंध](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-2-parts-and-relationships), [3D मॉडल](https:/ /github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-3-3d-models), [वस्तु संसाधन](https://github.com/3MFConsortium/spec_core/blob/master /3MF%20Core%20Specification.md#chapter-4-object-resources), [Material Resources](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-5 -सामग्री-संसाधन) और [पैकेज सुविधाएँ](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-6-3mf-document-package-features) विनिर्देशों के अनुभाग दस्तावेज़ 3MF दस्तावेज़ के बारे में विस्तृत जानकारी देता है।
+[भाग और संबंध](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-2-parts-and-relationships), [3D मॉडल](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-3-3d-models), [वस्तु संसाधन](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-4-object-resources), [Material Resources](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-5 -सामग्री-संसाधन) और [पैकेज सुविधाएँ](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-6-3mf-document-package-features) विनिर्देशों के अनुभाग दस्तावेज़ 3MF दस्तावेज़ के बारे में विस्तृत जानकारी देता है।
 
 ## संदर्भ ##
 

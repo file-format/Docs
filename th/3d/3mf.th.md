@@ -63,7 +63,7 @@
 |พื้นผิว 3 มิติ|มีพื้นผิวที่ใช้ในการใส่สีให้กับวัตถุ 3 มิติในส่วนของโมเดล 3 มิติ (มีให้สำหรับส่วนขยาย)|โมเดล 3 มิติ|ไม่บังคับ
 |ส่วนที่กำหนดเอง|ส่วน OPC ที่เกี่ยวข้องกับข้อมูลเมตา|แพคเกจ|ไม่บังคับ
 
-[ชิ้นส่วนและความสัมพันธ์](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-2-parts-and-relationships), [โมเดล 3 มิติ](https:/ /github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-3-3d-models), [ทรัพยากรวัตถุ](https://github.com/3MFConsortium/spec_core/blob/master /3MF%20Core%20Specification.md#chapter-4-object-resources), [แหล่งข้อมูลวัสดุ](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-5 -material-resources) และ [คุณสมบัติของแพ็คเกจ](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-6-3mf-document-package-features) ส่วนของข้อมูลจำเพาะ เอกสารให้ข้อมูลโดยละเอียดเกี่ยวกับเอกสาร 3MF
+[ชิ้นส่วนและความสัมพันธ์](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-2-parts-and-relationships), [โมเดล 3 มิติ](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-3-3d-models), [ทรัพยากรวัตถุ](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-4-object-resources), [แหล่งข้อมูลวัสดุ](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-5-material-resources) และ [คุณสมบัติของแพ็คเกจ](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-6-3mf-document-package-features) ส่วนของข้อมูลจำเพาะ เอกสารให้ข้อมูลโดยละเอียดเกี่ยวกับเอกสาร 3MF
 
 ## อ้างอิง ##
 
