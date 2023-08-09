@@ -27,6 +27,6 @@ AZW1 هو تنسيق ملف كتاب إلكتروني يُعرف أيضًا با
 
 ## مراجع
 
-* [Kindle_User's_Guide_English.pdf](https://kindle.s3.amazonaws.com/Kindle_User٪27s_Guide_English.pdf)
+* [Kindle_User's_Guide_English.pdf](https://kindle.s3.amazonaws.com/Kindle_User%27s_Guide_English.pdf)
 
 
