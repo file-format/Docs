@@ -29,7 +29,7 @@ Các phương pháp phân phối nội dung được sử dụng bởi glTF dẫ
 * glTF JSON trỏ đến dữ liệu nhị phân bên ngoài (hình học, khung hình chính, giao diện) và hình ảnh.
 * glTF JSON nhúng dữ liệu nhị phân được mã hóa base64 và hình ảnh nội tuyến bằng cách sử dụng URI dữ liệu.
 
-GLB dưới dạng định dạng vùng chứa đã được giới thiệu dưới dạng định dạng tệp nhị phân để biểu thị nội dung glTF ở dạng đốm màu nhị phân nhằm tránh các sự cố do glTF gây ra. Định dạng tệp GLB [thông số kỹ thuật](https://github.com/KhronosGroup/glTF/tree/master/specutions/2.0#glb-file-format-specutions) nên được giới thiệu cho mọi triển khai trình đọc/ghi tương tự để phát triển ứng dụng .
+GLB dưới dạng định dạng vùng chứa đã được giới thiệu dưới dạng định dạng tệp nhị phân để biểu thị nội dung glTF ở dạng đốm màu nhị phân nhằm tránh các sự cố do glTF gây ra. Định dạng tệp GLB [thông số kỹ thuật](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0#glb-file-format-specification) nên được giới thiệu cho mọi triển khai trình đọc/ghi tương tự để phát triển ứng dụng .
 
 ## Cấu trúc tệp GLB
 
