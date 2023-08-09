@@ -79,7 +79,7 @@ fn main() {
 
 ## Riferimento ##
 
-* [RS - di Wikipedia](https://en.wikipedia.org/wiki/Rust_(linguaggio_di_programmazione))
+* [RS - di Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language))
 
 
 

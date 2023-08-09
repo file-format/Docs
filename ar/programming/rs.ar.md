@@ -79,7 +79,7 @@ fn main() {
 
 ## المرجعي ##
 
-* [RS - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Rust_ (architecture_language))
+* [RS - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language))
 
 
 
