@@ -26,7 +26,7 @@
 
 ### Файлы примеров 3DM
 
-Некоторые примеры файлов 3DM можно загрузить из раздела [примеры] openNURBS (https://github.com/mcneel/opennurbs/tree/7.x/example_files). Их можно загрузить и отобразить с помощью набора инструментов openNURBS.
+Некоторые примеры файлов 3DM можно загрузить из раздела [примеры](https://github.com/mcneel/opennurbs/tree/7.x/example_files) openNURBS. Их можно загрузить и отобразить с помощью набора инструментов openNURBS.
 
 ## Как читать или записывать файлы 3DM?
 
