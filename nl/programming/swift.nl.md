@@ -37,7 +37,7 @@ Een bestand met de extensie .swift verwijst naar de SWIFT-programmeertaal die do
 
 ## Swift-bestandsindeling - Meer informatie
 
-Swift-bestanden zijn platte tekstbestanden die met elke teksteditor kunnen worden geopend. De primaire teksteditor die wordt gebruikt om Swift-bestanden te openen en te bewerken, is Xcode van Apple. Veel onderdelen van Swift zijn bekend met het ontwikkelen van applicaties met C en Objective-C. De Swift-documentatie biedt gedetailleerde [handleiding voor applicatieontwikkeling](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) voor het schrijven van code met Swift.
+Swift-bestanden zijn platte tekstbestanden die met elke teksteditor kunnen worden geopend. De primaire teksteditor die wordt gebruikt om Swift-bestanden te openen en te bewerken, is Xcode van Apple. Veel onderdelen van Swift zijn bekend met het ontwikkelen van applicaties met C en Objective-C. De Swift-documentatie biedt gedetailleerde [handleiding voor applicatieontwikkeling](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) voor het schrijven van code met Swift.
 
 ## Snelle taalfuncties
 

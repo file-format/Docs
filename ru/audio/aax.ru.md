@@ -44,6 +44,6 @@ AAX — это формат файла аудиокниги, который пр
 
 ## Использованная литература ##
 
-* [Audible (сервис) — по Википедии](https://en.wikipedia.org/wiki/Audible_(сервис))
+* [Audible (сервис) — по Википедии](https://en.wikipedia.org/wiki/Audible_(service))
 * [Формат аудиофайла — по Википедии](https://en.wikipedia.org/wiki/Audio_file_format)
 

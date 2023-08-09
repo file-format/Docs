@@ -44,6 +44,6 @@ audible で入手できる AAX ファイル形式の品質仕様の詳細を以�
 
 ## 参照 ##
 
-* [Audible (サービス) - ウィキペディアによる](https://en.wikipedia.org/wiki/Audible_(サービス))
+* [Audible (サービス) - ウィキペディアによる](https://en.wikipedia.org/wiki/Audible_(service))
 * [音声ファイル形式 - ウィキペディアによる](https://en.wikipedia.org/wiki/Audio_file_format)
 

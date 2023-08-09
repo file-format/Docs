@@ -97,7 +97,7 @@ Diversi lettori multimediali ed editor video, tra cui VideoLAN VLC media player 
 
 ## API Open Source per file MOV
 
-* [React Native API per convertire MOV in MP4](https://github.com/tultultc/react-native-mov-to-mp4)
+* [React Native API per convertire MOV in MP4](https://github.com/taltultc/react-native-mov-to-mp4)
 * [API Python per riparare i file MOV](https://github.com/nrosenstein-stuff/movrepair)
 * [API Ruby per convertire MOV in GIF](https://github.com/skygroundmedia/convert-mov-to-gif)
 

@@ -32,5 +32,5 @@ Các tệp SCM được tạo và lưu ở định dạng văn bản thuần tú
 
 ## Người giới thiệu
 
-* [Lập trình lược đồ - Wikipedia](https://vi.wikipedia.org/wiki/Scheme_(programming_language))
+* [Lập trình lược đồ - Wikipedia](https://en.wikipedia.org/wiki/Scheme_(programming_language))
 

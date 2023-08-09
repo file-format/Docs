@@ -82,6 +82,6 @@ SEE ALSO
 
 ## Người giới thiệu
 
-* [Thông số Kỹ thuật OpenDocument - Theo Wikipedia](https://en.wikipedia.org/wiki/OpenDocument_technical_specution)
+* [Thông số Kỹ thuật OpenDocument - Theo Wikipedia](https://en.wikipedia.org/wiki/OpenDocument_technical_specification)
 * [man(1) — Trang hướng dẫn sử dụng Linux](https://man7.org/linux/man-pages/man1/man.1.html)
 

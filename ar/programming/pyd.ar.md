@@ -32,5 +32,5 @@ lastmod: 2022-05-09
 ## مراجع ##
 
 * [إنشاء امتدادات Python في C / C ++](https://sebsauvage.net/python/mingw.html)
-* [Python (لغة برمجة) - ويكيبيديا](https://en.wikipedia.org/wiki/Python_ (architecture_language))
+* [Python (لغة برمجة) - ويكيبيديا](https://en.wikipedia.org/wiki/Python_(programming_language))
 

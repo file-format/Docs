@@ -47,5 +47,5 @@
 
 ## مراجع
 
-* [تنسيق ملف HAR - ويكيبيديا](https://en.wikipedia.org/wiki/HAR_ (file_format))
+* [تنسيق ملف HAR - ويكيبيديا](https://en.wikipedia.org/wiki/HAR_(file_format))
 

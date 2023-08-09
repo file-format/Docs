@@ -25,7 +25,7 @@ DjVu có thể được phân loại thay thế tốt hơn cho [PDF](/vi/pdf/). 
 
 ## Lược Sử ##
 
-Công nghệ DjVu được phát triển trong phòng thí nghiệm AT&T bởi [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://vi.wikipedia.org/wiki/L%C3% A9on_Bottou), Patrick Haffner và Paul G từ 1996 đến 2001. Định dạng tệp DjVu đã trải qua nhiều lần sửa đổi, lần gần đây nhất là từ năm 2005.
+Công nghệ DjVu được phát triển trong phòng thí nghiệm AT&T bởi [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3%A9on_Bottou), Patrick Haffner và Paul G từ 1996 đến 2001. Định dạng tệp DjVu đã trải qua nhiều lần sửa đổi, lần gần đây nhất là từ năm 2005.
 
 
 |Phiên bản|Ngày phát hành|Ghi chú

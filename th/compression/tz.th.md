@@ -26,6 +26,6 @@
 
 ## อ้างอิง
 
-* [TAR - โดย Wikipedia](https://en.wikipedia.org/wiki/Tar_(คอมพิวเตอร์))
+* [TAR - โดย Wikipedia](https://en.wikipedia.org/wiki/Tar_(computing))
 * [รูปแบบพื้นฐานของ TAR](https://www.gnu.org/software/tar/manual/html_node/Standard.html)
 

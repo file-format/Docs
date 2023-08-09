@@ -67,5 +67,5 @@ De Kotlin is een officiële taal om Android-apps te schrijven met veel geavancee
 
 ## Referenties ##
 
-- [Kotlin (programmeertaal) - Wikipedia](https://en.wikipedia.org/wiki/Kotlin_(programmeertaal))
+- [Kotlin (programmeertaal) - Wikipedia](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
 

@@ -36,7 +36,7 @@
 * ** لا لبس فيه: ** تضمن اختبارات اللغة والمطابقة الواضحة أن الملف ثابت دائمًا من رقمي إلى مادي
 * ** مجاني: ** الوصول إلى مواصفات 3MF وتنفيذها خالي دائمًا من الإتاوات وبراءات الاختراع والترخيص
 
-تتم استضافة مواصفات تنسيق ملف 3MF عبر [Github](https://github.com/3MFConsortium/spec_core/blob/master/3MF٪20Core٪20Specification.md) للوصول العام والتحديثات المستمرة. الإصدار الحالي المنشور هو 1.2.3 الذي يصف مجموعة من الاصطلاحات لاستخدام XML والتقنيات الأخرى المتاحة على نطاق واسع لوصف محتوى ومظهر واحد أو أكثر من النماذج ثلاثية الأبعاد. يمكن للمطورين ، الذين يرغبون في إنشاء أنظمة لمعالجة تنسيقات ملفات 3MF ، الرجوع إلى هذه المواصفات لغرض التنفيذ.
+تتم استضافة مواصفات تنسيق ملف 3MF عبر [Github](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md) للوصول العام والتحديثات المستمرة. الإصدار الحالي المنشور هو 1.2.3 الذي يصف مجموعة من الاصطلاحات لاستخدام XML والتقنيات الأخرى المتاحة على نطاق واسع لوصف محتوى ومظهر واحد أو أكثر من النماذج ثلاثية الأبعاد. يمكن للمطورين ، الذين يرغبون في إنشاء أنظمة لمعالجة تنسيقات ملفات 3MF ، الرجوع إلى هذه المواصفات لغرض التنفيذ.
 
 ## مواصفات تنسيق ملف 3MF
 
@@ -63,7 +63,7 @@
 | نسيج ثلاثي الأبعاد | يحتوي على نسيج يستخدم لتطبيق اللون على كائن ثلاثي الأبعاد في جزء النموذج ثلاثي الأبعاد (متاح للامتدادات) | نموذج ثلاثي الأبعاد | اختياري
 | الأجزاء المخصصة | أجزاء OPC المرتبطة بالبيانات الوصفية | الحزمة | اختياري
 
-[الأجزاء والعلاقات](https://github.com/3MFConsortium/spec_core/blob/master/3MF٪20Core٪20Specification.md#chapter-2-parts-and-relationships) ، [النماذج ثلاثية الأبعاد](https: / /github.com/3MFConsortium/spec_core/blob/master/3MF٪20Core٪20Specification.md#chapter-3-3d-models) ، [موارد الكائنات](https://github.com/3MFConsortium/spec_core/blob/master /3MF٪20Core٪20Specification.md#chapter-4-object-resources) ، [الموارد المادية](https://github.com/3MFConsortium/spec_core/blob/master/3MF٪20Core٪20Specification.md#chapter-5 -material-resources) و [Package Features](https://github.com/3MFConsortium/spec_core/blob/master/3MF٪20Core٪20Specification.md#chapter-6-3mf-document-package-features) أقسام المواصفات تعطي الوثيقة معلومات مفصلة حول وثيقة 3MF.
+[الأجزاء والعلاقات](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-2-parts-and-relationships) ، [النماذج ثلاثية الأبعاد](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-3-3d-models) ، [موارد الكائنات](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-4-object-resources) ، [الموارد المادية](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-5-material-resources) و [Package Features](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-6-3mf-document-package-features) أقسام المواصفات تعطي الوثيقة معلومات مفصلة حول وثيقة 3MF.
 
 ## مراجع ##
 

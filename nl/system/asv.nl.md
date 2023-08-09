@@ -30,5 +30,5 @@ ASV-bestanden worden opgeslagen in binaire bestandsindeling en hun inhoud is nie
 
 ## Referenties
 
-* [ASV-bestand laden in Adobe Photoshop](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/mp/12587356)
+* [ASV-bestand laden in Adobe Photoshop](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/m-p/12587356)
 

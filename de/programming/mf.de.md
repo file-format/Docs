@@ -56,5 +56,5 @@ Ein eigener Abschnitt definiert verschiedene Attribute für Pakete oder Dateien 
 ## Verweise
 
 * [Oracle – JAR-Dateiformat](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html)
-* [JAR-Dateiformat](https://en.wikipedia.org/wiki/JAR_(file_format)#:~:text=A%20JAR%20(Java%20ARchive)%20is,in%20one%20file%20for% 20distribution.&text=Sie%20sind%20auf%20der,jar%20Datei-%20Erweiterung aufgebaut%20.)
+* [JAR-Dateiformat](https://en.wikipedia.org/wiki/JAR_(file_format))
 

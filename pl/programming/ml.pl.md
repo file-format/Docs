@@ -23,5 +23,5 @@ Plik ML to plik tekstowy utworzony za pomocą funkcjonalnego języka programowan
 
 ## Bibliografia
 
-* [Język programowania ML – według Wikipedii](https://en.wikipedia.org/wiki/ML_(język_programowania))
+* [Język programowania ML – według Wikipedii](https://en.wikipedia.org/wiki/ML_(programming_language))
 

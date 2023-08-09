@@ -37,5 +37,5 @@
 
 ## Препратки ##
 
-* [TXT файлов формат](https://en.wikipedia.org/wiki/Текстов_файл)
+* [TXT файлов формат](https://en.wikipedia.org/wiki/Text_file)
 

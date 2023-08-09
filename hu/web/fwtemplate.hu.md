@@ -26,5 +26,5 @@ Az FWTEMPLATE fájlokat a Freeway szabadalmaztatott fájlformátumban hozza lét
 
 ## Hivatkozások
 
-* [Sablonok használata a Freeway-ben](https://www.softpress.com/kb/questions/142/Using+Templates+in+Freeway)
+* N/A
 

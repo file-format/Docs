@@ -55,6 +55,6 @@ CDB, 4 gigabayta kadar herhangi bir veritabanını yönetebilir. Başka bir kıs
 
 ## Referanslar ##
 
-* [cdb (yazılım) - Wikipedia](https://en.wikipedia.org/wiki/Cdb_(yazılım))
+* [cdb (yazılım) - Wikipedia](https://en.wikipedia.org/wiki/Cdb_(software))
 * [CDB spesifikasyonu](http://cr.yp.to/cdb.html)
 

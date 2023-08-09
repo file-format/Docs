@@ -26,7 +26,7 @@ DISCO dosyaları XML dosya biçiminde kaydedilir. Microsoft Studio gibi Microsof
 
 ## Referanslar
 
-* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894?tab=Genel Bakış)
+* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894)
 * [Web Hizmetleri Keşfi](https://en.wikipedia.org/wiki/Web_Services_Discovery)
 * [C# DiscoveryClient Sınıfı Örneği](https://learn.microsoft.com/en-us/dotnet/api/system.web.services.discovery.discoveryclientprotocol?view=netframework-4.8)
 

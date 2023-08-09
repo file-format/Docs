@@ -42,5 +42,5 @@ Minimální časový rámec byl 0,02 sekundy v původním souboru MOD nebo inter
 
 ## Reference
 
-* [MOD (formát souboru) – podle Wikipedie](https://en.wikipedia.org/wiki/MOD_(formát_souboru))
+* [MOD (formát souboru) – podle Wikipedie](https://en.wikipedia.org/wiki/MOD_(file_format))
 

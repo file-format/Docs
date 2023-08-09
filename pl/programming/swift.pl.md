@@ -37,7 +37,7 @@ Plik z rozszerzeniem .swift odnosi się do języka programowania SWIFT wprowadzo
 
 ## Format pliku Swift — więcej informacji
 
-Pliki Swift to zwykłe pliki tekstowe, które można otworzyć w dowolnym edytorze tekstu. Podstawowym edytorem tekstu używanym do otwierania i edytowania plików Swift jest Xcode firmy Apple. Wiele części Swifta jest zaznajomionych z tworzeniem aplikacji przy użyciu C i Objective-C. Dokumentacja Swift zawiera szczegółowy [przewodnik po programowaniu aplikacji](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) dotyczący pisania kodu przy użyciu języka Swift.
+Pliki Swift to zwykłe pliki tekstowe, które można otworzyć w dowolnym edytorze tekstu. Podstawowym edytorem tekstu używanym do otwierania i edytowania plików Swift jest Xcode firmy Apple. Wiele części Swifta jest zaznajomionych z tworzeniem aplikacji przy użyciu C i Objective-C. Dokumentacja Swift zawiera szczegółowy [przewodnik po programowaniu aplikacji](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) dotyczący pisania kodu przy użyciu języka Swift.
 
 ## Funkcje języka Swift
 
@@ -55,5 +55,5 @@ Swift różni się od innych języków programowania następującymi cechami.
 
 ## Bibliografia
 * [Swift – GitHub](https://github.com/apple/swift)
-* [Swift - Wikipedia](https://en.wikipedia.org/wiki/Swift_(język_programowania))
+* [Swift - Wikipedia](https://en.wikipedia.org/wiki/Swift_(programming_language))
 

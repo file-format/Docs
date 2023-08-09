@@ -37,7 +37,7 @@ En fil med filtillägget .swift hänvisar till SWIFT-programmeringsspråket som 
 
 ## Swift filformat - Mer information
 
-Swift-filer är vanliga textfiler som kan öppnas med vilken textredigerare som helst. Den primära textredigeraren som används för att öppna och redigera swift-filer är Apples Xcode. Många delar av Swift är bekanta med applikationsutveckling med C och Objective-C. Swift-dokumentationen tillhandahåller detaljerad [guide för applikationsutveckling](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) för att skriva kod med Swift.
+Swift-filer är vanliga textfiler som kan öppnas med vilken textredigerare som helst. Den primära textredigeraren som används för att öppna och redigera swift-filer är Apples Xcode. Många delar av Swift är bekanta med applikationsutveckling med C och Objective-C. Swift-dokumentationen tillhandahåller detaljerad [guide för applikationsutveckling](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) för att skriva kod med Swift.
 
 ## Swift språkfunktioner
 

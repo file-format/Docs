@@ -37,7 +37,7 @@ A file with .swift extension refers to SWIFT programming language introduced by 
 
 ## Swift File Format - More Information
 
-Swift files are plain text files that can be opened with any text editor. The primary text editor used to open and edit swift files is Apple’s Xcode. Many parts of Swift are familiar with application developing using C and Objective-C. The Swift documentation provides detailed [application development guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) for writing code using Swift.
+Swift files are plain text files that can be opened with any text editor. The primary text editor used to open and edit swift files is Apple’s Xcode. Many parts of Swift are familiar with application developing using C and Objective-C. The Swift documentation provides detailed [application development guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) for writing code using Swift.
 
 ## Swift Language Features
 

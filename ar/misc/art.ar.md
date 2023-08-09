@@ -38,4 +38,4 @@
 ## مراجع
 
 * [بيرنينا](https://www.bernina.com/en-US/Home-United-States)
-* [برنامج BERNINA للتطريز V8: حول التنسيقات والإضافات والملفات](https://blog.bernina.com/en/2019/07/lesson-14-bernina-embstract-software-v8/)
+* [برنامج BERNINA للتطريز V8: حول التنسيقات والإضافات والملفات](https://blog.bernina.com/en/2019/07/lesson-14-bernina-embroidery-software-v8/)

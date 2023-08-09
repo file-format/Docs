@@ -35,6 +35,6 @@ Hier zijn enkele typische eigenschappen van het ECW-formaat:
 
 ## Referenties ##
 
-* [ECW (bestandsformaat) - Door Wikipedia](https://en.wikipedia.org/wiki/ECW_(bestandsformaat))
+* [ECW (bestandsformaat) - Door Wikipedia](https://en.wikipedia.org/wiki/ECW_(file_format))
 
 

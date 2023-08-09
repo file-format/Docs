@@ -37,6 +37,6 @@ Các tệp VHD này có thể được trao đổi dễ dàng từ đĩa cứng 
 
 ## Người giới thiệu ##
 
-* [VHD - theo Wikipedia](https://vi.wikipedia.org/wiki/VHD_(file_format))
+* [VHD - theo Wikipedia](https://en.wikipedia.org/wiki/VHD_(file_format))
 
 

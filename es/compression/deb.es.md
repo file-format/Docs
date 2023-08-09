@@ -46,6 +46,6 @@ El archivo de control puede incluir contenidos de la siguiente manera.
 
 ## Referencias
 
-* [DEB - Wikipedia](https://en.wikipedia.org/wiki/Deb_(formato_de_archivo))
+* [DEB - Wikipedia](https://en.wikipedia.org/wiki/Deb_(file_format))
 * [formato del paquete binario de Debian](https://manpages.debian.org/buster/dpkg-dev/deb.5.en.html)
 

@@ -94,5 +94,5 @@ for name in names:
 
 ## Hivatkozások ##
 
-- [Python (programozási nyelv) - Wikipédia](https://en.wikipedia.org/wiki/Python_(programozási_nyelv))
+- [Python (programozási nyelv) - Wikipédia](https://en.wikipedia.org/wiki/Python_(programming_language))
 

@@ -24,7 +24,7 @@
 
 ## OAR ファイル形式
 
-OAR は、圧縮されたアーカイブ ファイル形式で保存されるバイナリ ファイルです。 OAR ファイル形式の最新バージョンは [バージョン 1.0](http://opensimulator.org/wiki/OAR_Format_1.0) で、以前の [バージョン 0.8](http://opensimulator.org/wiki/OAR_Format_0) から大幅に変更されています。 .8)。最新バージョンは、1 つの OAR に複数のリージョンを格納することをサポートしており、0.7.5 より前のバージョンの OpenSimulator との下位互換性はありません。 OAR ファイルは、元の UNIX tar 形式 (USTAR ではない) の gzip された tar ファイル (tar.gz) です。
+OAR は、圧縮されたアーカイブ ファイル形式で保存されるバイナリ ファイルです。 OAR ファイル形式の最新バージョンは [バージョン 1.0](http://opensimulator.org/wiki/OAR_Format_1.0) で、以前の [バージョン 0.8](http://opensimulator.org/wiki/OAR_Format_0.8) から大幅に変更されています。。最新バージョンは、1 つの OAR に複数のリージョンを格納することをサポートしており、0.7.5 より前のバージョンの OpenSimulator との下位互換性はありません。 OAR ファイルは、元の UNIX tar 形式 (USTAR ではない) の gzip された tar ファイル (tar.gz) です。
 
 ## OAR リージョンの例
 AOR ファイルには、複数のリージョンを含めることができます。アーカイブの構造は次のとおりです (この例には 4 つのリージョンが含まれています)。

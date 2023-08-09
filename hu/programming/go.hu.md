@@ -69,5 +69,5 @@ func main() {
 
 ## Hivatkozási szám
 
-* [GO - by Wikipedia](https://en.wikipedia.org/wiki/Go_(programing_language))
+* [GO - by Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language))
 

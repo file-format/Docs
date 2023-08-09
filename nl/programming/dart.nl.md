@@ -125,6 +125,6 @@ void main() {
 
 ## Referenties ##
 
-- [Dart (programmeertaal) - Wikipedia](https://en.wikipedia.org/wiki/Dart_(programmeertaal))
+- [Dart (programmeertaal) - Wikipedia](https://en.wikipedia.org/wiki/Dart_(programming_language))
 - [Dart](https://dart.dev/)
 

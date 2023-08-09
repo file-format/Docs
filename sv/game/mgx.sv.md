@@ -23,7 +23,7 @@ En fil med filtillägget .mgx är en inspelad fil för spelet Age of Empires II:
 
 ## MGX-filformat - Mer information
 
-Det interna filformatet för MGX-filen har utarbetats och tillgängligt som delvis validerad information om [Age of Empires 2: The Conquerors — Savegame File Format Specification](https://github.com/stefan-kolb/aoc-mgx- formatera). Specifikationerna beskriver detaljerna i följande avsnitt.
+Det interna filformatet för MGX-filen har utarbetats och tillgängligt som delvis validerad information om [Age of Empires 2: The Conquerors — Savegame File Format Specification](https://github.com/stefan-kolb/aoc-mgx-format). Specifikationerna beskriver detaljerna i följande avsnitt.
 
 ### Strukturdefinitioner
 

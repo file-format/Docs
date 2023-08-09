@@ -56,5 +56,5 @@ Hello World from Java to the console.
 
 ## Препратки ##
 
-- [Java (език за програмиране) - Уикипедия](https://en.wikipedia.org/wiki/Java_(език за програмиране))
+- [Java (език за програмиране) - Уикипедия](https://en.wikipedia.org/wiki/Java_(programming_language))
 

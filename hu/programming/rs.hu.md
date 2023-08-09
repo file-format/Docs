@@ -79,7 +79,7 @@ fn main() {
 
 ## Hivatkozási szám
 
-* [RS – a Wikipedia által](https://en.wikipedia.org/wiki/Rust_(programozási_nyelv))
+* [RS – a Wikipedia által](https://en.wikipedia.org/wiki/Rust_(programming_language))
 
 
 

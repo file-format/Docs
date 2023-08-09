@@ -44,6 +44,6 @@ Ale nadal można znaleźć wiele innych narzędzi programowych, które mogą ła
 
 ## Bibliografia ##
 
-* [Audible (usługa) - Według Wikipedii](https://en.wikipedia.org/wiki/Audible_(usługa))
+* [Audible (usługa) - Według Wikipedii](https://en.wikipedia.org/wiki/Audible_(service))
 * [Format pliku audio – według Wikipedii](https://en.wikipedia.org/wiki/Audio_file_format)
 

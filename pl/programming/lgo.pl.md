@@ -26,5 +26,5 @@ Pliki LGO są zapisywane w zastrzeżonym formacie pliku, a ich wewnętrzna struk
 
 ## Odniesienie ##
 
-* [LUA - z Wikipedii](https://en.wikipedia.org/wiki/Lua_(język_programowania))
+* [LUA - z Wikipedii](https://en.wikipedia.org/wiki/Lua_(programming_language))
 

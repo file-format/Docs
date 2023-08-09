@@ -77,5 +77,5 @@ Il byte del metodo di compressione indica il metodo di compressione utilizzato. 
 
 ## Riferimenti
 
-- [ARC (formato file) - Wikipedia](https://en.wikipedia.org/wiki/ARC_(formato_file))
+- [ARC (formato file) - Wikipedia](https://en.wikipedia.org/wiki/ARC_(file_format))
 

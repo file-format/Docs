@@ -26,6 +26,6 @@ Pliki TZ są zapisywane jako pliki binarne przy użyciu algorytmu kompresji UNIX
 
 ## Bibliografia
 
-* [TAR – z Wikipedii](https://en.wikipedia.org/wiki/Tar_(komputery))
+* [TAR – z Wikipedii](https://en.wikipedia.org/wiki/Tar_(computing))
 * [Podstawowy format TAR](https://www.gnu.org/software/tar/manual/html_node/Standard.html)
 

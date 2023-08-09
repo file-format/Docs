@@ -67,5 +67,5 @@ Poniższa tabela przedstawia polecenia PML:
 ## Bibliografia
 
 * [Palm Markup Language – MobileRead](https://wiki.mobileread.com/wiki/EReader)
-* [Czytnik elektroniczny — przez MobileRead](https://en.wikipedia.org/wiki/Czytnik elektroniczny)
+* [Czytnik elektroniczny — przez MobileRead](https://en.wikipedia.org/wiki/E-reader)
 

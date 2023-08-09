@@ -25,7 +25,7 @@
 
 ## نبذة تاريخية ##
 
-تم تطوير تقنية DjVu في معامل AT&T بواسطة [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun) ، [Léon Bottou](https://en.wikipedia.org/wiki/L٪C3٪ A9on_Bottou) و Patrick Haffner و Paul G من عام 1996 إلى عام 2001. وقد مر تنسيق ملف DjVu عبر العديد من المراجعات ، كان آخرها من عام 2005.
+تم تطوير تقنية DjVu في معامل AT&T بواسطة [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun) ، [Léon Bottou](https://en.wikipedia.org/wiki/L%C3%A9on_Bottou) و Patrick Haffner و Paul G من عام 1996 إلى عام 2001. وقد مر تنسيق ملف DjVu عبر العديد من المراجعات ، كان آخرها من عام 2005.
 
 
 | الإصدار | تاريخ الإصدار | ملاحظات

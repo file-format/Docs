@@ -26,5 +26,5 @@ DSC-Dateien werden als Nur-Text-Dateien erstellt und auf der Disc gespeichert. D
 
 ## Verweise
 
-* [TXT-Dateiformat](https://en.wikipedia.org/wiki/Textdatei)
+* [TXT-Dateiformat](https://en.wikipedia.org/wiki/Text_file)
 

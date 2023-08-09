@@ -50,5 +50,5 @@ Sau đây là một số vấn đề có thể khiến định dạng tệp LZO 
 
 ## Người giới thiệu ##
 
-* [LZO - Theo Wikipedia](https://vi.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Oberhumer)
+* [LZO - Theo Wikipedia](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Oberhumer)
 

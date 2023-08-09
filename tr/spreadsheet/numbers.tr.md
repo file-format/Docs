@@ -52,7 +52,7 @@ IWork Numbers tarafından sunulan bazı göze çarpan özelliklerin listesi aşa
 
 ## Referanslar ##
 
-* [Sayılar (elektronik tablo) - Wikipedia](https://en.wikipedia.org/wiki/Numbers_(elektronik tablo))
+* [Sayılar (elektronik tablo) - Wikipedia](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))
 * [Sayılar, verilerinize hayat verir](https://www.apple.com/numbers/)
 
 

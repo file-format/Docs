@@ -29,5 +29,5 @@ Das LBR-Dateiformat wurde von Gary P. Novosielski entworfen und hat keine öffen
 
 ## Verweise
 
-* [LBR - Wikipedia](https://en.wikipedia.org/wiki/LBR_(Dateiformat))
+* [LBR - Wikipedia](https://en.wikipedia.org/wiki/LBR_(file_format))
 

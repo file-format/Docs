@@ -35,6 +35,6 @@ ECW е собствен формат на изображението, базир
 
 ## Препратки ##
 
-* [ECW (файлов формат) – от Wikipedia](https://en.wikipedia.org/wiki/ECW_(файлов_формат))
+* [ECW (файлов формат) – от Wikipedia](https://en.wikipedia.org/wiki/ECW_(file_format))
 
 

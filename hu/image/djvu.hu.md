@@ -25,7 +25,7 @@ A DjVu a [PDF](/hu/pdf/) kiváló alternatívájaként értékelhető. A DjVu-ho
 
 ## Rövid története ##
 
-A DjVu technológiát az AT&T laborokban fejlesztette ki [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3% A9on_Bottou), Patrick Haffner és Paul G 1996-tól 2001-ig. A DjVu fájlformátum különböző felülvizsgálatokon ment keresztül, a legutóbbi 2005-ből származik.
+A DjVu technológiát az AT&T laborokban fejlesztette ki [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3%A9on_Bottou), Patrick Haffner és Paul G 1996-tól 2001-ig. A DjVu fájlformátum különböző felülvizsgálatokon ment keresztül, a legutóbbi 2005-ből származik.
 
 
 |Verzió|Kiadás dátuma|Megjegyzések

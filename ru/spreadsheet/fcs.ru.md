@@ -23,6 +23,6 @@
 
 ## использованная литература
 
-* [PFD:Первый выбор](http://justsolve.archiveteam.org/wiki/PFS:Первый_выбор)
+* [PFD:Первый выбор](http://justsolve.archiveteam.org/wiki/PFS:First_Choice)
 * [Издательская корпорация программного обеспечения](https://en.wikipedia.org/wiki/Software_Publishing_Corporation)
 

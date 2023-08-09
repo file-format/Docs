@@ -26,5 +26,5 @@ Các tệp FWTEMPLATE được tạo và lưu ở định dạng tệp độc qu
 
 ## Người giới thiệu
 
-* [Sử dụng mẫu trong Freeway](https://www.softpress.com/kb/questions/142/Using+Templates+in+Freeway)
+* N/A
 

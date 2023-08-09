@@ -27,5 +27,5 @@ Formatul Opus folosește atât codecurile SILK (utilizate de Skype) cât și Xip
 
 ## Referințe ##
 
-* [OPUS - După Wikipedia](https://en.wikipedia.org/wiki/Opus_(format_audio))
+* [OPUS - După Wikipedia](https://en.wikipedia.org/wiki/Opus_(audio_format))
 

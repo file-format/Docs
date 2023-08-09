@@ -77,5 +77,5 @@ Das Komprimierungsverfahren-Byte gibt das verwendete Komprimierungsverfahren an.
 
 ## Verweise
 
-- [ARC (Dateiformat) - Wikipedia](https://en.wikipedia.org/wiki/ARC_(Dateiformat))
+- [ARC (Dateiformat) - Wikipedia](https://en.wikipedia.org/wiki/ARC_(file_format))
 

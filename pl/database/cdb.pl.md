@@ -55,6 +55,6 @@ Polecenie **cdbmake** może przepisać całą bazę danych do dwóch rzędów wi
 
 ## Bibliografia ##
 
-* [cdb (oprogramowanie) - Wikipedia](https://en.wikipedia.org/wiki/Cdb_(oprogramowanie))
+* [cdb (oprogramowanie) - Wikipedia](https://en.wikipedia.org/wiki/Cdb_(software))
 * [Specyfikacja CDB](http://cr.yp.to/cdb.html)
 

@@ -25,7 +25,7 @@ DjVu může být hodnocena jako lepší alternativa k [PDF](/cs/pdf/). Přípony
 
 ## Stručná historie ##
 
-Technologie DjVu byla vyvinuta v laboratořích AT&T [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3% A9on_Bottou), Patrick Haffner a Paul G od roku 1996 do roku 2001. Formát souboru DjVu prošel různými revizemi, z nichž poslední pochází z roku 2005.
+Technologie DjVu byla vyvinuta v laboratořích AT&T [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3%A9on_Bottou), Patrick Haffner a Paul G od roku 1996 do roku 2001. Formát souboru DjVu prošel různými revizemi, z nichž poslední pochází z roku 2005.
 
 
 |Verze|Datum vydání|Poznámky

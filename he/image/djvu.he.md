@@ -25,7 +25,7 @@ DjVu, מבוטא בשם "déjà vu", הוא פורמט קובץ גרפי המי�
 
 ## היסטוריה קצרה ##
 
-טכנולוגיית DjVu פותחה במעבדות AT&T על ידי [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3% A9on_Bottou), Patrick Haffner ו-Paul G משנת 1996 עד 2001. פורמט הקובץ DjVu עבר תיקונים שונים, האחרון היה מ-2005.
+טכנולוגיית DjVu פותחה במעבדות AT&T על ידי [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3%A9on_Bottou), Patrick Haffner ו-Paul G משנת 1996 עד 2001. פורמט הקובץ DjVu עבר תיקונים שונים, האחרון היה מ-2005.
 
 
 |גרסה|תאריך פרסום|הערות

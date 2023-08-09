@@ -74,5 +74,5 @@ Main-Class: com.example.MyClassName
 ## Referensi
 
 * [Ringkasan File JAR](https://docs.Oracle.com/javase/8/docs/technotes/guides/jar/jarGuide.html)
-* [Format File JAR](https://en.wikipedia.org/wiki/JAR_(file_format)#:~:text=A%20JAR%20(Java%20ARchive)%20is,ke%20one%20file%20for% 20distribution.&text=Mereka%20%20dibangun%20on%20the,jar%20file%20extension.)
+* [Format File JAR](https://en.wikipedia.org/wiki/JAR_(file_format))
 

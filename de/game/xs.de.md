@@ -34,5 +34,5 @@ XS-Dateien werden als einfache Textdateien gespeichert, die mit jedem Texteditor
 ## Verweise
 
 * [Age of Empires III - Themen](https://github.com/topics/aoe)
-* [Forum - Age of Empires III](https://forums.ageofempires.com/t/please-make-the-ai-fight-for-map-control-and-resources-long-post-but-worth- it/176307)
+* [Forum - Age of Empires III](https://forums.ageofempires.com/t/please-make-the-ai-fight-for-map-control-and-resources-long-post-but-worth-it/176307)
 

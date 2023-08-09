@@ -25,7 +25,7 @@ DjVu는 [PDF](/ko/pdf/)에 대한 우수한 대안으로 평가될 수 있습니
 
 ## 간략한 역사 ##
 
-DjVu 기술은 AT&T 연구소에서 [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3%)에 의해 개발되었습니다. A9on_Bottou), Patrick Haffner 및 Paul G(1996년부터 2001년까지). DjVu 파일 형식은 2005년부터 최신 버전까지 다양한 개정을 거쳤습니다.
+DjVu 기술은 AT&T 연구소에서 [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3%A9on_Bottou)에 의해 개발되었습니다., Patrick Haffner 및 Paul G(1996년부터 2001년까지). DjVu 파일 형식은 2005년부터 최신 버전까지 다양한 개정을 거쳤습니다.
 
 
 |버전|출시일|참고

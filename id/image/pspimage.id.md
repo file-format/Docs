@@ -36,5 +36,5 @@ File PSPIMAGE dapat dibuat sebagai File baru dari dalam PaintShop Pro. Karena du
 
 ## Referensi
 
-* [Konversi PSPIMAGE](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/mp/5288141)
+* [Konversi PSPIMAGE](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/m-p/5288141)
 

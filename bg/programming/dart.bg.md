@@ -125,6 +125,6 @@ void main() {
 
 ## Препратки ##
 
-– [Dart (език за програмиране) – Уикипедия](https://en.wikipedia.org/wiki/Dart_(език за програмиране))
+– [Dart (език за програмиране) – Уикипедия](https://en.wikipedia.org/wiki/Dart_(programming_language))
 - [Dart](https://dart.dev/)
 

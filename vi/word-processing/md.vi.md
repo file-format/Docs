@@ -36,7 +36,7 @@ Markdown hiện là một trong những ngôn ngữ đánh dấu phổ biến nh
 
 John Gruber và Aaron Swartz vào năm 2004 đã tạo ra ngôn ngữ Markdown với ý tưởng cho phép mọi người “viết bằng cách sử dụng định dạng văn bản thuần túy dễ đọc và dễ viết cùng với tùy chọn chuyển đổi sang XHTML hoặc HTML. Mục tiêu đằng sau thiết kế của nó là khả năng đọc – ngôn ngữ có thể đọc được mà không có vẻ như nó đã được gắn thẻ hoặc thêm các hướng dẫn định dạng như được thực hiện trong các ngôn ngữ đánh dấu như RTF hoặc HTML, nơi các thẻ và hướng dẫn định dạng là rõ ràng. Cảm hứng cơ bản là sử dụng các quy ước hiện có để đánh dấu văn bản thuần túy trong email.
 
-Kể từ đó, Markdown đã được những người khác triển khai lại giống như trong [mô-đun] Perl(https://en.wikipedia.org/wiki/Modular_programming) có sẵn trên [CPAN](https://en.wikipedia.org/ wiki/CPAN) và bằng nhiều ngôn ngữ lập trình khác. Nó được phân phối theo [giấy phép kiểu BSD](https://en.wikipedia.org/wiki/BSD_license) và được bao gồm hoặc có sẵn dưới dạng plugin cho một số [hệ thống quản lý nội dung](https:// en.wikipedia.org/wiki/Content_manager_system).
+Kể từ đó, Markdown đã được những người khác triển khai lại giống như trong [mô-đun](https://en.wikipedia.org/wiki/Modular_programming) Perl có sẵn trên [CPAN](https://en.wikipedia.org/wiki/CPAN) và bằng nhiều ngôn ngữ lập trình khác. Nó được phân phối theo [giấy phép kiểu BSD](https://en.wikipedia.org/wiki/BSD_license) và được bao gồm hoặc có sẵn dưới dạng plugin cho một số [hệ thống quản lý nội dung](https://en.wikipedia.org/wiki/Content_management_system).
 
 ## Thông số kỹ thuật
 

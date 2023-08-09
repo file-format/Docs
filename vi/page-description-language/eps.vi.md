@@ -33,7 +33,7 @@ EPS, kết hợp với cơ chế mở rộng Quy ước cấu trúc mở đượ
 
 ## Định dạng tệp EPS
 
-EPS là định dạng tài liệu độc quyền nhưng được công khai và thông số kỹ thuật định dạng tệp EPS có sẵn công khai để nhà phát triển tham khảo. EPS là định dạng tệp tuân thủ [DSC](https://en.wikipedia.org/wiki/Document_Structure_Conventions) (Quy ước cấu trúc tài liệu) và tuân thủ tất cả các quy tắc do DSC thiết lập. DSC là một định dạng tệp đặc biệt cho các tài liệu PostScript của Adobe. Bất kỳ ứng dụng nào tuyên bố có thể đọc tệp EPS đều phải tuân thủ DSC.
+EPS là định dạng tài liệu độc quyền nhưng được công khai và thông số kỹ thuật định dạng tệp EPS có sẵn công khai để nhà phát triển tham khảo. EPS là định dạng tệp tuân thủ [DSC](https://en.wikipedia.org/wiki/Document_Structuring_Conventions) (Quy ước cấu trúc tài liệu) và tuân thủ tất cả các quy tắc do DSC thiết lập. DSC là một định dạng tệp đặc biệt cho các tài liệu PostScript của Adobe. Bất kỳ ứng dụng nào tuyên bố có thể đọc tệp EPS đều phải tuân thủ DSC.
 
 Tệp EPS bao gồm hai phần chính như được giải thích bên dưới.
 

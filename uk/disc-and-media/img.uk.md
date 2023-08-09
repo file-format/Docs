@@ -44,6 +44,6 @@
 
 ## Посилання ##
 
-* [IMG - від Вікіпедії](https://en.wikipedia.org/wiki/IMG_(формат_файлу))
+* [IMG - від Вікіпедії](https://en.wikipedia.org/wiki/IMG_(file_format))
 
 

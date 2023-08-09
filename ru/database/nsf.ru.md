@@ -23,7 +23,7 @@
 
 ## Спецификации формата файла NSF
 
-Файлы NSF являются бинарными по своей природе, и их спецификации доступны Иоахиму Метцу на [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database% 20file%20format.asciidoc). Согласно этим деталям, файл NSF состоит из:
+Файлы NSF являются бинарными по своей природе, и их спецификации доступны Иоахиму Метцу на [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc). Согласно этим деталям, файл NSF состоит из:
 
 * Заголовок файла
 * Заголовок базы данных

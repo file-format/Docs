@@ -24,7 +24,7 @@ Tệp có phần mở rộng .oar là tệp lưu trữ được sử dụng bở
 
 ## Định dạng tệp OAR
 
-OAR là các tệp nhị phân được lưu trữ ở định dạng tệp lưu trữ nén. Phiên bản mới nhất của định dạng tệp OAR là [phiên bản 1.0](http://opensimulator.org/wiki/OAR_Format_1.0) có những thay đổi lớn so với [phiên bản 0.8](http://opensimulator.org/wiki/OAR_Format_0) trước đó .số 8). Phiên bản mới nhất hỗ trợ lưu trữ nhiều vùng trong một OAR duy nhất và không tương thích ngược với các phiên bản OpenSimulator trước 0.7.5. Tệp OAR là tệp tar được nén gzipped (tar.gz) ở định dạng unix tar ban đầu (không phải USTAR).
+OAR là các tệp nhị phân được lưu trữ ở định dạng tệp lưu trữ nén. Phiên bản mới nhất của định dạng tệp OAR là [phiên bản 1.0](http://opensimulator.org/wiki/OAR_Format_1.0) có những thay đổi lớn so với [phiên bản 0.8](http://opensimulator.org/wiki/OAR_Format_0.8) trước đó .số Phiên bản mới nhất hỗ trợ lưu trữ nhiều vùng trong một OAR duy nhất và không tương thích ngược với các phiên bản OpenSimulator trước 0.7.5. Tệp OAR là tệp tar được nén gzipped (tar.gz) ở định dạng unix tar ban đầu (không phải USTAR).
 
 ## Ví dụ về vùng OAR
 Các tệp AOR có thể chứa nhiều vùng. Cấu trúc của kho lưu trữ như sau (ví dụ này có 4 vùng):

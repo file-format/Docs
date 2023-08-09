@@ -94,5 +94,5 @@ for name in names:
 
 ## Références ##
 
-- [Python (langage de programmation) - Wikipédia](https://en.wikipedia.org/wiki/Python_(langage_de_programmation))
+- [Python (langage de programmation) - Wikipédia](https://en.wikipedia.org/wiki/Python_(programming_language))
 

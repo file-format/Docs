@@ -26,7 +26,7 @@ A DISCO fájlok XML fájlformátumban kerülnek mentésre. A Microsoft Discovery
 
 ## Hivatkozások
 
-* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894?tab=Overview)
+* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894)
 * [Web Services Discovery](https://en.wikipedia.org/wiki/Web_Services_Discovery)
 * [C# példa a DiscoveryClient osztályra](https://learn.microsoft.com/en-us/dotnet/api/system.web.services.discovery.discoveryclientprotocol?view=netframework-4.8)
 

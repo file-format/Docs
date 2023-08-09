@@ -28,5 +28,5 @@ Een CBZ-bestand is een ZIP-archief dat e-boekpagina's bevat als afbeeldingen in 
 ## Referenties
 
 * [Stripboekarchief](https://en.wikipedia.org/wiki/Comic_book_archive)
-* [Kaliber](https://caliber-ebook.com/)
+* [Kaliber](https://calibre-ebook.com/)
 

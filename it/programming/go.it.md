@@ -69,5 +69,5 @@ func main() {
 
 ## Riferimento ##
 
-* [GO - di Wikipedia](https://en.wikipedia.org/wiki/Go_(linguaggio_di_programmazione))
+* [GO - di Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language))
 

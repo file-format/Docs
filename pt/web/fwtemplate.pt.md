@@ -26,5 +26,5 @@ Os arquivos FWTEMPLATE são criados e salvos no formato de arquivo proprietário
 
 ## Referências
 
-* [Usando modelos na rodovia](https://www.softpress.com/kb/questions/142/Using+Templates+in+Freeway)
+* N/A
 

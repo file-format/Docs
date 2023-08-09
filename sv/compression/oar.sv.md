@@ -24,7 +24,7 @@ En fil med tillägget .oar är en arkivfil som används av OpenSimulator-applika
 
 ## OAR filformat
 
-OAR är binära filer som lagras i komprimerat arkivfilformat. Den senaste versionen av OAR-filformatet är [version 1.0](http://opensimulator.org/wiki/OAR_Format_1.0) som har stora förändringar från sin tidigare [version 0.8](http://opensimulator.org/wiki/OAR_Format_0 .8). Den senaste versionen stöder lagring av flera regioner i en enda OAR och är inte bakåtkompatibel med versioner av OpenSimulator före 0.7.5. En OAR-fil är en gzippad tar-fil (tar.gz) i det ursprungliga unix-tar-formatet (inte USTAR).
+OAR är binära filer som lagras i komprimerat arkivfilformat. Den senaste versionen av OAR-filformatet är [version 1.0](http://opensimulator.org/wiki/OAR_Format_1.0) som har stora förändringar från sin tidigare [version 0.8](http://opensimulator.org/wiki/OAR_Format_0.8). Den senaste versionen stöder lagring av flera regioner i en enda OAR och är inte bakåtkompatibel med versioner av OpenSimulator före 0.7.5. En OAR-fil är en gzippad tar-fil (tar.gz) i det ursprungliga unix-tar-formatet (inte USTAR).
 
 ## Exempel på OAR-regioner
 AOR-filer kan innehålla flera regioner. Strukturen för arkivet är som följer (detta exempel innehåller 4 regioner):

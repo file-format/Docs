@@ -43,5 +43,5 @@ Dar puteți găsi în continuare multe alte instrumente software care pot ocoli 
 
 ## Referințe
 
-* [Audible (serviciu) - Prin Wikipedia](https://en.wikipedia.org/wiki/Audible_(serviciu))
+* [Audible (serviciu) - Prin Wikipedia](https://en.wikipedia.org/wiki/Audible_(service))
 * [Format fișier audio - de Wikipedia](https://en.wikipedia.org/wiki/Audio_file_format)

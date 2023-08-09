@@ -36,7 +36,7 @@ Markdown är nu ett av världens mest populära märkningsspråk. När du använ
 
 John Gruber och Aaron Swartz 2004 skapade Markdown-språket med idén att göra det möjligt för människor att "skriva med lättläst och lättläst textformat och med möjligheten att konvertera det till XHTML eller HTML. Målet bakom dess design är läsbarhet – språket är läsbart som det är, utan att se ut som om det har taggats eller lagts till med formateringsinstruktioner som görs i märkningsspråk som RTF eller HTML där taggar och formateringsinstruktioner är uppenbara. Den grundläggande inspirationen är att använda befintliga konventioner för att markera vanlig text i e-post.
 
-Sedan dess har Markdown återimplementerats av andra, liksom i en Perl [modul](https://en.wikipedia.org/wiki/Modular_programming) tillgänglig på [CPAN](https://en.wikipedia.org/ wiki/CPAN) och på olika andra programmeringsspråk. Den distribueras under en [BSD-liknande licens](https://en.wikipedia.org/wiki/BSD_license) och ingår i, eller tillgänglig som en plugin för, flera [innehållshanteringssystem](https:// en.wikipedia.org/wiki/Content_management_system).
+Sedan dess har Markdown återimplementerats av andra, liksom i en Perl [modul](https://en.wikipedia.org/wiki/Modular_programming) tillgänglig på [CPAN](https://en.wikipedia.org/wiki/CPAN) och på olika andra programmeringsspråk. Den distribueras under en [BSD-liknande licens](https://en.wikipedia.org/wiki/BSD_license) och ingår i, eller tillgänglig som en plugin för, flera [innehållshanteringssystem](https://en.wikipedia.org/wiki/Content_management_system).
 
 ## Tekniska specifikationer
 

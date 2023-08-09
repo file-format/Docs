@@ -77,5 +77,5 @@ Octetul metodei de compresie indică metoda de compresie utilizată. Următoarel
 
 ## Referințe
 
-- [ARC (format fișier) - Wikipedia](https://en.wikipedia.org/wiki/ARC_(format_fișier))
+- [ARC (format fișier) - Wikipedia](https://en.wikipedia.org/wiki/ARC_(file_format))
 

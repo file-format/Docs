@@ -23,5 +23,5 @@ Die Dateien mit der Erweiterung .ceb (chinesisches eBook) werden als **Apabi eBo
 
 ## Verweise
 
-* [Ilias – von Wikipedia](https://en.wikipedia.org/wiki/ILias)
+* [Ilias – von Wikipedia](https://en.wikipedia.org/wiki/ILiad)
 

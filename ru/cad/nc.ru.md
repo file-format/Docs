@@ -28,5 +28,5 @@
 ## использованная литература
 
 * [Программное обеспечение Mastercam CNC](https://www.mastercam.com/)
-* [Числовое управление — Википедия](https://en.wikipedia.org/wiki/Числовое_управление)
+* [Числовое управление — Википедия](https://en.wikipedia.org/wiki/Numerical_control)
 

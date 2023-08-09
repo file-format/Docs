@@ -20,7 +20,7 @@
 ## .XUL ファイルとは?
 
 拡張子が .xul ([XUL](https://wiki.mozilla.org/XUL:Home_Page) は XML User Interface Language の略) の付いたファイルは、[XML](/web/xml/) ベースのマークアップ言語ファイルです。ユーザー インターフェイスの作成。 Web ページの作成に使用される他のマークアップ言語と同様のグラフィカル ユーザー インターフェイス要素を開発者が作成するために、Mozilla によって開発されました。 XUL は、Mozilla コードベースを使用した Firefox ブラウザーで Mozilla によって広く使用されています。 XUL レンダリングは、
-[Gecko エンジン](https://en.wikipedia.org/wiki/Gecko_(ソフトウェア))。 Pale Moon、Basilisk、Waterfox などの Firefox フォークは、XUL アドオンのサポートを維持します。 XUL ファイルは、MIME タイプ application/vnd.mozilla.xul+xml で識別されます。
+[Gecko エンジン](https://en.wikipedia.org/wiki/Gecko_(software))。 Pale Moon、Basilisk、Waterfox などの Firefox フォークは、XUL アドオンのサポートを維持します。 XUL ファイルは、MIME タイプ application/vnd.mozilla.xul+xml で識別されます。
 
 ## XUL ファイル形式
 

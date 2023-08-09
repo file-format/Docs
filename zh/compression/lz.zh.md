@@ -25,7 +25,7 @@
 
 LZMA 压缩格式由使用自适应二进制范围编码器编码的压缩比特流组成。流被分成数据包。每个数据包描述单个字节或 LZ77 序列。每个数据包的长度和距离都被隐式或显式编码。
 
-七种数据包类型如下（[Wikipedia](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm#Compressed_format_overview)）
+七种数据包类型如下 ([Wikipedia](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm#Compressed_format_overview))
 
 |打包代码（位序列） |包名 |包描述|
 ---|---|---|

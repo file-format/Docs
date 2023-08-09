@@ -67,5 +67,5 @@ Kotlin هي لغة رسمية لكتابة تطبيقات Android مع تقدي�
 
 ## مراجع ##
 
-- [Kotlin (لغة برمجة) - ويكيبيديا](https://en.wikipedia.org/wiki/Kotlin_ (printing_language))
+- [Kotlin (لغة برمجة) - ويكيبيديا](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
 

@@ -39,5 +39,5 @@
 ## Список літератури
 
 * [Специфікації формату файлу VHDX](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
-* [VHD - від Вікіпедії](https://en.wikipedia.org/wiki/VHD_(формат_файлу))
+* [VHD - від Вікіпедії](https://en.wikipedia.org/wiki/VHD_(file_format))
 

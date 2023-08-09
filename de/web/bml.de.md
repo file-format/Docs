@@ -56,5 +56,5 @@ Es gibt zwei Möglichkeiten, das String-Tag zu verwenden:
 
 * [Objektorientiertes Messaging mit XML](https://docs.oracle.com/cd/A87860_01/doc/appdev.817/a86030/adx16nt5.htm)
 * [Die physische Auszeichnungssprache](http://web.mit.edu/mecheng/pml/standards.htm)
-* [Die Bean-Markup-Sprache](https://all4dev.blogspot.com/2019/06/bean-markup-language-tutorial.html)
+
 

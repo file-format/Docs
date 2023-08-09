@@ -20,7 +20,7 @@
 ## Τι είναι ένα αρχείο XUL;
 
 Ένα αρχείο με επέκταση .xul ([XUL](https://wiki.mozilla.org/XUL:Home_Page) σημαίνει XML User Interface Language) είναι ένα αρχείο γλώσσας σήμανσης που βασίζεται σε [XML](/el/web/xml/) για δημιουργία διεπαφών χρήστη. Αναπτύχθηκε από τη Mozilla για προγραμματιστές να δημιουργούν στοιχεία γραφικής διεπαφής χρήστη παρόμοια με άλλες γλώσσες σήμανσης που χρησιμοποιούνται για τη δημιουργία ιστοσελίδων. Το XUL χρησιμοποιείται ευρέως από τη Mozilla στο πρόγραμμα περιήγησης Firefox, όπου χρησιμοποίησε τη βάση κώδικα Mozilla. Η απόδοση XUL πραγματοποιείται χρησιμοποιώντας το
-[Gecko engine](https://en.wikipedia.org/wiki/Gecko_(λογισμικό)). Τα πιρούνια Firefox όπως τα Pale Moon, Basilisk και Waterfox διατηρούν υποστήριξη για τα πρόσθετα XUL. Τα αρχεία XUL προσδιορίζονται με τύπο MIME: application/vnd.mozilla.xul+xml.
+[Gecko engine](https://en.wikipedia.org/wiki/Gecko_(software)). Τα πιρούνια Firefox όπως τα Pale Moon, Basilisk και Waterfox διατηρούν υποστήριξη για τα πρόσθετα XUL. Τα αρχεία XUL προσδιορίζονται με τύπο MIME: application/vnd.mozilla.xul+xml.
 
 ## Μορφή αρχείου XUL
 

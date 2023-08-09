@@ -30,5 +30,5 @@
 
 ## הפניות
 
-* [טען קובץ ASV ב-Adobe Photoshop](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/mp/12587356)
+* [טען קובץ ASV ב-Adobe Photoshop](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/m-p/12587356)
 

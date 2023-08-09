@@ -25,5 +25,5 @@ Pliki PYX to zwykłe pliki tekstowe, a ich składnia jest bardzo zbliżona do Py
 ## Bibliografia
 
 * [Python Wiki](https://wiki.python.org/moin/Pyrex)
-* [Python (język programowania) - Wikipedia](https://en.wikipedia.org/wiki/Python_(język_programowania))
+* [Python (język programowania) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 

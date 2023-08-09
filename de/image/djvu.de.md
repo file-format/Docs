@@ -25,7 +25,7 @@ DjVu kann als überlegene Alternative zu [PDF](/de/pdf/) eingestuft werden. DjVu
 
 ## Kurze Geschichte ##
 
-Die DjVu-Technologie wurde in AT&T-Labors von [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3% A9on_Bottou), Patrick Haffner und Paul G von 1996 bis 2001. Das DjVu-Dateiformat wurde mehrfach überarbeitet, zuletzt 2005.
+Die DjVu-Technologie wurde in AT&T-Labors von [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3%A9on_Bottou), Patrick Haffner und Paul G von 1996 bis 2001. Das DjVu-Dateiformat wurde mehrfach überarbeitet, zuletzt 2005.
 
 
 |Version|Veröffentlichungsdatum|Anmerkungen

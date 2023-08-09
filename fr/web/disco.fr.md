@@ -26,7 +26,7 @@ Les fichiers DISCO sont enregistrés au format de fichier XML. Microsoft Discove
 
 ## Références
 
-* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894?tab=Overview)
+* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894)
 * [Découverte des services Web](https://en.wikipedia.org/wiki/Web_Services_Discovery)
 * [Exemple C# de classe DiscoveryClient](https://learn.microsoft.com/en-us/dotnet/api/system.web.services.discovery.discoveryclientprotocol?view=netframework-4.8)
 

@@ -29,5 +29,5 @@
 
 ## Список літератури
 
-* [LBR – Вікіпедія](https://en.wikipedia.org/wiki/LBR_(формат_файлу))
+* [LBR – Вікіпедія](https://en.wikipedia.org/wiki/LBR_(file_format))
 

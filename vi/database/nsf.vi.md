@@ -23,7 +23,7 @@ Tệp có phần mở rộng .nsf (Thiết bị lưu trữ ghi chú) là định
 
 ## Thông số kỹ thuật định dạng tệp NSF
 
-Các tệp NSF có bản chất là nhị phân và thông số kỹ thuật của chúng có sẵn bởi Joachim Metz trên [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database% 20file%20format.asciidoc). Theo các chi tiết này, một tệp NSF bao gồm:
+Các tệp NSF có bản chất là nhị phân và thông số kỹ thuật của chúng có sẵn bởi Joachim Metz trên [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc). Theo các chi tiết này, một tệp NSF bao gồm:
 
 * Tiêu đề tệp
 * Tiêu đề cơ sở dữ liệu

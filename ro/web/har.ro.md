@@ -47,5 +47,5 @@ Următorii pași pot fi efectuati pe o pagină web în care se confruntă proble
 
 ## Referințe
 
-* [Format de fișier HAR - Wikipedia](https://en.wikipedia.org/wiki/HAR_(format_fișier))
+* [Format de fișier HAR - Wikipedia](https://en.wikipedia.org/wiki/HAR_(file_format))
 

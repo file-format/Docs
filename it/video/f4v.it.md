@@ -45,5 +45,5 @@ Il formato file F4V si basa sul formato file multimediale di base ISO (MPEG-4 Pa
 
 ## Riferimenti ##
 
-- [Video Flash - Wikipedia](https://en.wikipedia.org/wiki/Video_Flash)
+- [Video Flash - Wikipedia](https://en.wikipedia.org/wiki/Flash_Video)
 

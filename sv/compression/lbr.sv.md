@@ -29,5 +29,5 @@ LBR-filformatet har designats av Gary P. Novosielski och har inga tekniska detal
 
 ## Referenser
 
-* [LBR - Wikipedia](https://en.wikipedia.org/wiki/LBR_(filformat))
+* [LBR - Wikipedia](https://en.wikipedia.org/wiki/LBR_(file_format))
 

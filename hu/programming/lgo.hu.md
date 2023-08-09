@@ -26,5 +26,5 @@ Az LGO fájlok védett fájlformátumban vannak mentve, és belső fájlstruktú
 
 ## Hivatkozási szám
 
-* [LUA – a Wikipedia által](https://en.wikipedia.org/wiki/Lua_(programozási_nyelv))
+* [LUA – a Wikipedia által](https://en.wikipedia.org/wiki/Lua_(programming_language))
 

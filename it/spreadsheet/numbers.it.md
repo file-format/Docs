@@ -52,7 +52,7 @@ Ecco l'elenco di alcune caratteristiche salienti offerte da IWork Numbers:
 
 ## Riferimenti ##
 
-* [Numeri (foglio di lavoro) - Wikipedia](https://en.wikipedia.org/wiki/Numeri_(foglio di lavoro))
+* [Numeri (foglio di lavoro) - Wikipedia](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))
 * [I numeri danno vita ai tuoi dati](https://www.apple.com/numbers/)
 
 

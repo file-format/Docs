@@ -52,7 +52,7 @@ Numbers כולל גם מספר שיפורים מסוגננים במאמץ לחד
 
 ## הפניות ##
 
-* [מספרים (גיליון אלקטרוני) - ויקיפדיה](https://en.wikipedia.org/wiki/Numbers_(גיליון אלקטרוני))
+* [מספרים (גיליון אלקטרוני) - ויקיפדיה](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))
 * [מספרים מחייה את הנתונים שלך](https://www.apple.com/numbers/)
 
 

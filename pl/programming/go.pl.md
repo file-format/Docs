@@ -69,5 +69,5 @@ func main() {
 
 ## Odniesienie ##
 
-* [GO – przez Wikipedia](https://en.wikipedia.org/wiki/Go_(język_programowania))
+* [GO – przez Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language))
 

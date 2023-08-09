@@ -74,5 +74,5 @@ Main-Class: com.example.MyClassName
 ## Bibliografia
 
 * [Omówienie pliku JAR](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jarGuide.html)
-* [Format pliku JAR](https://en.wikipedia.org/wiki/JAR_(file_format)#:~:text=A%20JAR%20(Java%20ARchive)%20is,into%20one%20file%20for% 20dystrybucja.&text=One%20są%20zbudowane%20na%20rozszerzeniu,jar%20file%20.)
+* [Format pliku JAR](https://en.wikipedia.org/wiki/JAR_(file_format))
 

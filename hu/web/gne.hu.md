@@ -22,7 +22,7 @@ A GNE-fájl egy olyan weboldal, amelyet a Flickr fotómegosztó webhely dinamiku
 
 ## GNE fájlformátum - További információ
 
-A GNE fájlokat a Game Never Ending számítógépes játék használta, amelyet a [Ludicorp] fejlesztett ki (https://en.wikipedia.org/wiki/Ludicorp). A Flickert később a yahoo! 2005 márciusában.
+A GNE fájlokat a Game Never Ending számítógépes játék használta, amelyet a [Ludicorp](https://en.wikipedia.org/wiki/Ludicorp) fejlesztett ki. A Flickert később a yahoo! 2005 márciusában.
 
 ## Hivatkozások
 

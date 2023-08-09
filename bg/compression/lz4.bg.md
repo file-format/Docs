@@ -64,5 +64,5 @@ Content_Checksum проверява валидността на съдържан
 ## Препратки
 
 * [LZ4 формат на рамка](https://github.com/lz4/lz4/blob/dev/doc/lz4_Frame_format.md)
-* [Алгоритъм за компресиране LZ4 - Уикипедия](https://en.wikipedia.org/wiki/LZ4_(алгоритъм за компресиране))
+* [Алгоритъм за компресиране LZ4 - Уикипедия](https://en.wikipedia.org/wiki/LZ4_(compression_algorithm))
 

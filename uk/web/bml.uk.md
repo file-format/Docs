@@ -56,5 +56,5 @@ The<bean> елемент використовується для створен�
 
 * [Об’єктно-орієнтований обмін повідомленнями з XML](https://docs.oracle.com/cd/A87860_01/doc/appdev.817/a86030/adx16nt5.htm)
 * [Мова фізичної розмітки](http://web.mit.edu/mecheng/pml/standards.htm)
-* [Мова розмітки Bean](https://all4dev.blogspot.com/2019/06/bean-markup-language-tutorial.html)
+
 

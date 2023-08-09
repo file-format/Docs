@@ -23,7 +23,7 @@ Plik z rozszerzeniem .nsf (Notes Storage Facility) to format pliku bazy danych u
 
 ## Specyfikacje formatu plików NSF
 
-Pliki NSF mają charakter binarny, a ich specyfikacje są dostępne u Joachima Metza na [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database% 20plik%20format.asciidoc). Zgodnie z tymi szczegółami plik NSF składa się z:
+Pliki NSF mają charakter binarny, a ich specyfikacje są dostępne u Joachima Metza na [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc). Zgodnie z tymi szczegółami plik NSF składa się z:
 
 * Nagłówek pliku
 * Nagłówek bazy danych

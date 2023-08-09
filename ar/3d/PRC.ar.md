@@ -70,7 +70,7 @@ PRC model file data
 
 ## مراجع
 
-- [جمهورية الصين الشعبية - ويكيبيديا](https://en.wikipedia.org/wiki/PRC_ (file_format))
+- [جمهورية الصين الشعبية - ويكيبيديا](https://en.wikipedia.org/wiki/PRC_(file_format))
 - [مواصفات تنسيق جمهورية الصين الشعبية](https://web.archive.org/web/20081202034541/http://livedocs.adobe.com/acrobat_sdk/9/Acrobat9_HTMLHelp/API_References/PRCReference/PRC_Format_Specification/index.html)
 - [مقارنة تنسيقات الكتب الإلكترونية - بواسطة ويكيبيديا](https://en.wikipedia.org/wiki/Comparison_of_e-book_formats)
 

@@ -25,7 +25,7 @@ DjVu kan worden beoordeeld als superieur alternatief voor [PDF](/nl/pdf/). Besta
 
 ## Korte geschiedenis ##
 
-De DjVu-technologie is ontwikkeld in AT&T-labs door [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3% A9on_Bottou), Patrick Haffner en Paul G van 1996 tot 2001. Het DjVu-bestandsformaat heeft verschillende revisies ondergaan, waarvan de meest recente uit 2005.
+De DjVu-technologie is ontwikkeld in AT&T-labs door [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3%A9on_Bottou), Patrick Haffner en Paul G van 1996 tot 2001. Het DjVu-bestandsformaat heeft verschillende revisies ondergaan, waarvan de meest recente uit 2005.
 
 
 |Versie|Releasedatum|Opmerkingen

@@ -36,5 +36,5 @@ A PSPIMAGE fájlok új fájlként hozhatók létre a PaintShop Pro programból. 
 
 ## Hivatkozások
 
-* [PSPIMAGE konverzió](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/mp/5288141)
+* [PSPIMAGE konverzió](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/m-p/5288141)
 

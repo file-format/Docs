@@ -36,6 +36,6 @@ Adobe 的 [FDF 工具包](https://opensource.adobe.com/dc-acrobat-sdk-docs/) 允
 
 ## 参考 ＃＃
 
-* [Acrobat 支持的 FDF 格式](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assemble-pdf-documents/fdf-format-support-for -acroforms.html)
+* [Acrobat 支持的 FDF 格式](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
 * [Adobe 开发人员资源](https://opensource.adobe.com/dc-acrobat-sdk-docs/)
 

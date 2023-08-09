@@ -31,7 +31,7 @@ glTF 2.0 đã được xuất bản vào ngày 5 tháng 6 năm 2017 tại Hội 
 
 ## Định dạng tệp GLTF
 
-Thông số định dạng tệp cho glTF 2.0 có sẵn [trực tuyến](https://github.com/KhronosGroup/glTF/tree/master/specation/2.0) để tham khảo và nên được tư vấn trong mọi triển khai liên quan đến đọc/ghi để được hỗ trợ định dạng tệp glTF.
+Thông số định dạng tệp cho glTF 2.0 có sẵn [trực tuyến](https://github.com/KhronosGroup/glTF/tree/main/specification/2.0) để tham khảo và nên được tư vấn trong mọi triển khai liên quan đến đọc/ghi để được hỗ trợ định dạng tệp glTF.
 
 glTF xác định nội dung dưới dạng tệp JSON có hỗ trợ dữ liệu bên ngoài. Nó đại diện cho các mô hình 3D với sự trợ giúp của:
 

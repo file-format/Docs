@@ -27,5 +27,5 @@ Các tệp WUD được lưu vào đĩa ở định dạng tệp độc quyền 
 ## Người giới thiệu
 
 * [Trình giả lập Wii U - Cemu](https://cemu.info/)
-* [Cemu - Wikipedia](https://vi.wikipedia.org/wiki/Cemu)
+* [Cemu - Wikipedia](https://en.wikipedia.org/wiki/Cemu)
 

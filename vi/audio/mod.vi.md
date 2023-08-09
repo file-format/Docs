@@ -42,5 +42,5 @@ Khung thời gian tối thiểu là 0,02 giây trong tệp MOD gốc hoặc kho�
 
 ## Người giới thiệu
 
-* [MOD (định dạng tệp) - Theo Wikipedia](https://vi.wikipedia.org/wiki/MOD_(file_format))
+* [MOD (định dạng tệp) - Theo Wikipedia](https://en.wikipedia.org/wiki/MOD_(file_format))
 

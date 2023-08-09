@@ -52,7 +52,7 @@ A Numbers számos modern fejlesztést is tartalmaz a táblázatok vizuális megj
 
 ## Hivatkozások ##
 
-* [Számok (táblázat) - Wikipédia](https://en.wikipedia.org/wiki/Numbers_(táblázat))
+* [Számok (táblázat) - Wikipédia](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))
 * [A számok életre keltik adatait](https://www.apple.com/numbers/)
 
 

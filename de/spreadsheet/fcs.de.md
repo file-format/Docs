@@ -23,6 +23,6 @@ Eine FCS-Datei ist eine Tabellenkalkulationsdatei, die mit der PFS:First Choice-
 
 ## Verweise
 
-* [PFD:Erste Wahl](http://justsolve.archiveteam.org/wiki/PFS:Erste_Wahl)
+* [PFD:Erste Wahl](http://justsolve.archiveteam.org/wiki/PFS:First_Choice)
 * [Software Publishing Corporation](https://en.wikipedia.org/wiki/Software_Publishing_Corporation)
 

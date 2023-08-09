@@ -47,4 +47,4 @@ Följande steg kan utföras på en webbsida där problem uppstår.
 
 ## Referenser
 
-* [HAR-filformat - Wikipedia](https://en.wikipedia.org/wiki/HAR_(filformat))
+* [HAR-filformat - Wikipedia](https://en.wikipedia.org/wiki/HAR_(file_format))

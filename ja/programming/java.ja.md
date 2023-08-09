@@ -56,5 +56,5 @@ Java ファイルのファイル名は、クラス名と同じにする必要が
 
 ## 参照 ##
 
-- [Java (プログラミング言語) - ウィキペディア](https://en.wikipedia.org/wiki/Java_(プログラミング言語))
+- [Java (プログラミング言語) - ウィキペディア](https://en.wikipedia.org/wiki/Java_(programming_language))
 

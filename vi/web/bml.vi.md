@@ -56,5 +56,5 @@ Có hai cách thẻ chuỗi có thể được sử dụng:
 
 * [Nhắn tin hướng đối tượng bằng XML](https://docs.oracle.com/cd/A87860_01/doc/appdev.817/a86030/adx16nt5.htm)
 * [Ngôn ngữ đánh dấu vật lý](http://web.mit.edu/mecheng/pml/standards.htm)
-* [Ngôn ngữ đánh dấu Bean](https://all4dev.blogspot.com/2019/06/bean-markup-lingu-tutorial.html)
+
 

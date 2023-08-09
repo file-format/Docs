@@ -37,7 +37,7 @@ Soubor s příponou .swift označuje programovací jazyk SWIFT zavedený společ
 
 ## Swift File Format – Další informace
 
-Soubory Swift jsou soubory ve formátu prostého textu, které lze otevřít v libovolném textovém editoru. Primárním textovým editorem používaným k otevírání a úpravě rychlých souborů je Apple Xcode. Mnoho částí Swiftu je obeznámeno s vývojem aplikací pomocí C a Objective-C. Dokumentace Swift poskytuje podrobný [průvodce vývojem aplikací](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) pro psaní kódu pomocí Swift.
+Soubory Swift jsou soubory ve formátu prostého textu, které lze otevřít v libovolném textovém editoru. Primárním textovým editorem používaným k otevírání a úpravě rychlých souborů je Apple Xcode. Mnoho částí Swiftu je obeznámeno s vývojem aplikací pomocí C a Objective-C. Dokumentace Swift poskytuje podrobný [průvodce vývojem aplikací](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) pro psaní kódu pomocí Swift.
 
 ## Funkce rychlého jazyka
 

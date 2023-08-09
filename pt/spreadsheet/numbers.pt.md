@@ -52,7 +52,7 @@ Aqui está a lista de alguns recursos importantes oferecidos pelo IWork Numbers:
 
 ## Referências ##
 
-* [Numbers (planilha) - Wikipedia](https://en.wikipedia.org/wiki/Numbers_(planilha))
+* [Numbers (planilha) - Wikipedia](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))
 * [Numbers dá vida aos seus dados](https://www.apple.com/numbers/)
 
 

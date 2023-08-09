@@ -24,10 +24,10 @@
 
 ## تنسيق ملف RBMX - مزيد من المعلومات
 
-يتم إنشاء ملفات RBXM وحفظها بتنسيق ملف ثنائي ولا تتوفر مواصفات تنسيق الملفات الداخلية الخاصة بها للجمهور. هذا يختلف عن تنسيق ملف RBXMX الذي يعتمد على تنسيق ملف [XML](/ar/web/xml/). هناك الكثير من الأدوات / المستودعات المتاحة على Github والتي يمكن استخدامها [لمعالجة ملفات Roblox RBXM](https://github.com/search؟q=rbxm).
+يتم إنشاء ملفات RBXM وحفظها بتنسيق ملف ثنائي ولا تتوفر مواصفات تنسيق الملفات الداخلية الخاصة بها للجمهور. هذا يختلف عن تنسيق ملف RBXMX الذي يعتمد على تنسيق ملف [XML](/ar/web/xml/). هناك الكثير من الأدوات / المستودعات المتاحة على Github والتي يمكن استخدامها [لمعالجة ملفات Roblox RBXM](https://github.com/search?q=rbxm).
 
 ## مراجع
 
-* [Roblox RBXM على Github](https://github.com/search؟q=rbxm)
+* [Roblox RBXM على Github](https://github.com/search?q=rbxm)
 * [تحويل ملف RBXM إلى OBJ 3D](https://devforum.roblox.com/t/how-do-i-make-a-rbxm-file-be-a-obj-file/1522460)
 

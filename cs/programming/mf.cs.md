@@ -56,5 +56,5 @@ Jednotlivá sekce definuje různé atributy pro balíčky nebo soubory souboru J
 ## Reference
 
 * [Oracle – formát souboru JAR](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html)
-* [Formát souboru JAR](https://cs.wikipedia.org/wiki/JAR_(formát_souboru)#:~:text=A%20JAR%20(Java%20ARchive)%20is,into%20one%20file%20for% 20distribuce.&text=Jsou%20postaveny%20na%20rozšíření%20souboru%20jar.)
+* [Formát souboru JAR](https://en.wikipedia.org/wiki/JAR_(file_format))
 

@@ -36,7 +36,7 @@ Markdown은 이제 세계에서 가장 인기 있는 마크업 언어 중 하나
 
 John Gruber와 Aaron Swartz는 2004년에 "읽기 쉬운 일반 텍스트 형식을 사용하여 작성하고 이를 XHTML 또는 HTML로 변환할 수 있는 옵션으로 작성할 수 있도록 하는" 아이디어로 Markdown 언어를 만들었습니다. 디자인의 목표는 가독성입니다. 언어는 태그와 형식 지정 지침이 분명한 RTF 또는 HTML과 같은 마크업 언어에서 수행되는 것처럼 형식 지정 지침이 추가되거나 태그가 지정된 것처럼 보이지 않고 있는 그대로 읽을 수 있습니다. 기본적인 영감은 이메일에서 일반 텍스트를 마크업하기 위해 기존 규칙을 사용하는 것입니다.
 
-그 이후로 Markdown은 [CPAN](https://en.wikipedia.org/)에서 사용할 수 있는 Perl [모듈](https://en.wikipedia.org/wiki/Modular_programming)과 같이 다른 사람들에 의해 다시 구현되었습니다. wiki/CPAN) 및 다양한 기타 프로그래밍 언어로 제공됩니다. [BSD 스타일 라이선스](https://en.wikipedia.org/wiki/BSD_license)에 따라 배포되며 여러 [콘텐츠 관리 시스템](https:// en.wikipedia.org/wiki/Content_management_system).
+그 이후로 Markdown은 [CPAN](https://en.wikipedia.org/wiki/CPAN) 에서 사용할 수 있는 Perl [모듈](https://en.wikipedia.org/wiki/Modular_programming)과 같이 다른 사람들에 의해 다시 구현되었습니다. 및 다양한 기타 프로그래밍 언어로 제공됩니다. [BSD 스타일 라이선스](https://en.wikipedia.org/wiki/BSD_license)에 따라 배포되며 여러 [콘텐츠 관리 시스템](https://en.wikipedia.org/wiki/Content_management_system).
 
 ## 기술 사양
 

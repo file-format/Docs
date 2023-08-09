@@ -38,5 +38,5 @@ Per generare il modello RML in Elixir Repertoire, è possibile seguire i seguent
 
 ## Riferimenti
 
-* [Repertorio elisir](https://elisirtech.com/repertoire-2/)
+* [Repertorio elisir](https://elixirtech.com/repertoire-2/)
 

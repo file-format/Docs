@@ -52,7 +52,7 @@ Zde je seznam některých významných funkcí nabízených IWork Numbers:
 
 ## Reference ##
 
-* [Čísla (tabulkový procesor) – Wikipedie](https://en.wikipedia.org/wiki/Čísla_(tabulkový procesor))
+* [Čísla (tabulkový procesor) – Wikipedie](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))
 * [Čísla oživí vaše data](https://www.apple.com/numbers/)
 
 

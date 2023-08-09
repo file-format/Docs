@@ -30,5 +30,5 @@ Az ASV fájlok bináris fájlformátumban kerülnek mentésre, és tartalmuk nem
 
 ## Hivatkozások
 
-* [ASV-fájl betöltése az Adobe Photoshopba](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/mp/12587356)
+* [ASV-fájl betöltése az Adobe Photoshopba](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/m-p/12587356)
 

@@ -26,5 +26,5 @@ FWTEMPLATE फाइलें फ्रीवे मालिकाना फ़
 
 ## संदर्भ
 
-* [फ्रीवे में टेम्प्लेट का उपयोग करना](https://www.softpress.com/kb/questions/142/Using+Templates+in+Freeway)
+* N/A
 

@@ -44,5 +44,5 @@ Amazon เก็บไฟล์เสียงและไฟล์เหล่�
 
 ## อ้างอิง ##
 
-* [AA - โดย Wikipedia](https://en.wikipedia.org/wiki/Audible_(บริการ))
+* [AA - โดย Wikipedia](https://en.wikipedia.org/wiki/Audible_(service))
 

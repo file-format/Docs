@@ -37,6 +37,6 @@ Der minimale Zeitrahmen betrug in der ursprünglichen MOD-Datei 0,02 Sekunden od
 
 ## Verweise
 
-* [MOD (Dateiformat) - Von Wikipedia](https://en.wikipedia.org/wiki/MOD_(Dateiformat))
+* [MOD (Dateiformat) - Von Wikipedia](https://en.wikipedia.org/wiki/MOD_(file_format))
 
 

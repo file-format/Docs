@@ -35,5 +35,5 @@ Nhật ký máy chủ thực sự là một tệp nhật ký chứa danh sách c
 
 ## Người giới thiệu ##
 
-* [Tệp nhật ký - Wikipedia](https://vi.wikipedia.org/wiki/Log_file)
+* [Tệp nhật ký - Wikipedia](https://en.wikipedia.org/wiki/Log_file)
 

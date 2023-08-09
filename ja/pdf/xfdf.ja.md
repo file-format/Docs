@@ -33,6 +33,6 @@ XFDF ファイルは、データのインポートとエクスポートに使用
 
 ## 参考文献
 
-* [Acrobat による FDF 形式のサポート](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembly-pdf-documents/fdf-format-support-for -acroforms.html)
+* [Acrobat による FDF 形式のサポート](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
 * [アドビ開発者向けリソース](https://opensource.adobe.com/dc-acrobat-sdk-docs/)
 

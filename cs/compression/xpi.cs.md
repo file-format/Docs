@@ -38,6 +38,6 @@ Lidé jsou většinou zvědaví, zda lze soubory XPI nainstalovat do Firefoxu na
 
 ## Reference
 
-* [XPIInstall – Wikipedia](https://en.wikipedia.org/wiki/XPIInstall)
+* [XPIInstall – Wikipedia](https://en.wikipedia.org/wiki/XPInstall)
 * [Jak mohu otevřít rozšíření souboru XPI?](https://support.mozilla.org/en-US/questions/1009049)
 

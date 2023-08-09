@@ -24,7 +24,7 @@
 
 ## OAR 파일 형식
 
-OAR은 압축된 아카이브 파일 형식으로 저장된 바이너리 파일입니다. OAR 파일 형식의 최신 버전은 [버전 1.0](http://opensimulator.org/wiki/OAR_Format_1.0)으로 이전 [버전 0.8](http://opensimulator.org/wiki/OAR_Format_0 .8). 최신 버전은 단일 OAR에 여러 영역 저장을 지원하며 0.7.5 이전 버전의 OpenSimulator와 역호환되지 않습니다. OAR 파일은 USTAR가 아닌 원래 유닉스 tar 형식의 gzipped tar 파일(tar.gz)입니다.
+OAR은 압축된 아카이브 파일 형식으로 저장된 바이너리 파일입니다. OAR 파일 형식의 최신 버전은 [버전 1.0](http://opensimulator.org/wiki/OAR_Format_1.0)으로 이전 [버전 0.8](http://opensimulator.org/wiki/OAR_Format_0.8). 최신 버전은 단일 OAR에 여러 영역 저장을 지원하며 0.7.5 이전 버전의 OpenSimulator와 역호환되지 않습니다. OAR 파일은 USTAR가 아닌 원래 유닉스 tar 형식의 gzipped tar 파일(tar.gz)입니다.
 
 ## OAR 지역 예
 AOR 파일에는 여러 영역이 포함될 수 있습니다. 아카이브의 구조는 다음과 같습니다(이 예에는 4개의 영역이 포함됨).

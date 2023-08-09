@@ -46,6 +46,6 @@ Soubor DEB je archivní soubor **ar**, který má magickou hodnotu `!<arch> `. O
 
 ## Reference
 
-* [DEB – Wikipedie](https://en.wikipedia.org/wiki/Deb_(formát_souboru))
+* [DEB – Wikipedie](https://en.wikipedia.org/wiki/Deb_(file_format))
 * [Formát binárního balíčku Debianu](https://manpages.debian.org/buster/dpkg-dev/deb.5.en.html)
 

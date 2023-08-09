@@ -25,5 +25,5 @@ PYX-bestanden zijn platte tekstbestanden en hun syntaxis lijkt erg op Python. Py
 ## Referenties
 
 * [Python Wiki](https://wiki.python.org/moin/Pyrex)
-* [Python (programmeertaal) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programmeertaal))
+* [Python (programmeertaal) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 

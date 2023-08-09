@@ -37,7 +37,7 @@
 
 ## Swift ファイル形式 - 詳細情報
 
-Swift ファイルは、任意のテキスト エディターで開くことができるプレーン テキスト ファイルです。 Swift ファイルを開いて編集するために使用される主要なテキスト エディターは、Apple の Xcode です。 Swift の多くの部分は、C および Objective-C を使用したアプリケーション開発に精通しています。 Swift のドキュメントは、Swift を使用してコードを記述するための詳細な [アプリケーション開発ガイド](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) を提供します。
+Swift ファイルは、任意のテキスト エディターで開くことができるプレーン テキスト ファイルです。 Swift ファイルを開いて編集するために使用される主要なテキスト エディターは、Apple の Xcode です。 Swift の多くの部分は、C および Objective-C を使用したアプリケーション開発に精通しています。 Swift のドキュメントは、Swift を使用してコードを記述するための詳細な [アプリケーション開発ガイド](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) を提供します。
 
 ## Swift 言語機能
 

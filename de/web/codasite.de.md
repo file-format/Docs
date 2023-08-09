@@ -26,5 +26,5 @@ Die CODASITE-Projektdatei wird als Binärdateien im Verzeichnis ~/​Library/​
 
 ## Verweise
 
-* [Coda-Dateisystem](https://en.wikipedia.org/wiki/Coda_(Dateisystem))
+* [Coda-Dateisystem](https://en.wikipedia.org/wiki/Coda_(file_system))
 

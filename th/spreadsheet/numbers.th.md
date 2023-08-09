@@ -52,7 +52,7 @@ Numbers ยังรวมถึงการปรับปรุงที่ท
 
 ## อ้างอิง ##
 
-* [ตัวเลข (สเปรดชีต) - Wikipedia](https://en.wikipedia.org/wiki/Numbers_(สเปรดชีต))
+* [ตัวเลข (สเปรดชีต) - Wikipedia](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))
 * [Numbers ทำให้ข้อมูลของคุณมีชีวิตชีวา](https://www.apple.com/numbers/)
 
 

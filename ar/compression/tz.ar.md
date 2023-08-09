@@ -26,6 +26,6 @@
 
 ## مراجع
 
-* [TAR - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Tar_ (الحوسبة))
+* [TAR - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Tar_(computing))
 * [تنسيق أساسي في تقرير التقييم الثالث](https://www.gnu.org/software/tar/manual/html_node/Standard.html)
 

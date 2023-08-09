@@ -26,5 +26,5 @@
 
 ## อ้างอิง
 
-* [ลูดิคอร์ป](https://en.wikipedia.org/wiki/ลูดิคอร์ป)
+* [ลูดิคอร์ป](https://en.wikipedia.org/wiki/Ludicorp)
 

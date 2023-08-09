@@ -46,6 +46,6 @@
 
 ## مراجع
 
-* [DEB - Wikipedia](https://en.wikipedia.org/wiki/Deb_ (file_format))
+* [DEB - Wikipedia](https://en.wikipedia.org/wiki/Deb_(file_format))
 * [تنسيق حزمة دبيان الثنائية](https://manpages.debian.org/buster/dpkg-dev/deb.5.en.html)
 

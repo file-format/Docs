@@ -20,7 +20,7 @@
 ## Qu'est-ce qu'un fichier XUL ?
 
 Un fichier avec une extension .xul ([XUL](https://wiki.mozilla.org/XUL:Home_Page) signifie XML User Interface Language) est un fichier de langage de balisage basé sur [XML](/fr/web/xml/) pour création d'interfaces utilisateur. Il a été développé par Mozilla pour que les développeurs créent des éléments d'interface utilisateur graphique similaires à d'autres langages de balisage utilisés pour créer des pages Web. XUL a été largement utilisé par Mozilla dans son navigateur Firefox où il a utilisé la base de code Mozilla. Le rendu XUL est réalisé à l'aide de la
-[Moteur Gecko](https://en.wikipedia.org/wiki/Gecko_(logiciel)). Les fourches Firefox telles que Pale Moon, Basilisk et Waterfox conservent la prise en charge des modules complémentaires XUL. Les fichiers XUL sont identifiés par le type MIME : application/vnd.mozilla.xul+xml.
+[Moteur Gecko](https://en.wikipedia.org/wiki/Gecko_(software)). Les fourches Firefox telles que Pale Moon, Basilisk et Waterfox conservent la prise en charge des modules complémentaires XUL. Les fichiers XUL sont identifiés par le type MIME : application/vnd.mozilla.xul+xml.
 
 ## Format de fichier XUL
 

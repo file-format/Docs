@@ -19,7 +19,7 @@
 
 ## ما هو ملف LZ4؟
 
-الملف بامتداد .lz4 هو ملف أرشيف مضغوط تم إنشاؤه باستخدام تطبيقات / أدوات مساعدة تدعم ضغط [LZ4](https://en.wikipedia.org/wiki/LZ4_ (compression_algorithm)). تركز خوارزمية LZ4 على المفاضلة بين السرعة ونسبة الضغط. يمكن إنشاء أرشيفات LZ4 المضغوطة باستخدام الأداة المساعدة لسطر الأوامر LZ4 ويمكن فك ضغطها باستخدام نفس الأداة.
+الملف بامتداد .lz4 هو ملف أرشيف مضغوط تم إنشاؤه باستخدام تطبيقات / أدوات مساعدة تدعم ضغط [LZ4](https://en.wikipedia.org/wiki/LZ4_(compression_algorithm)). تركز خوارزمية LZ4 على المفاضلة بين السرعة ونسبة الضغط. يمكن إنشاء أرشيفات LZ4 المضغوطة باستخدام الأداة المساعدة لسطر الأوامر LZ4 ويمكن فك ضغطها باستخدام نفس الأداة.
 
 ## تنسيق ملف LZ4
 
@@ -64,5 +64,5 @@
 ## مراجع
 
 * [تنسيق إطار LZ4](https://github.com/lz4/lz4/blob/dev/doc/lz4_Frame_format.md)
-* [LZ4 Compression Algorithm - Wikipedia](https://en.wikipedia.org/wiki/LZ4_ (compression_algorithm))
+* [LZ4 Compression Algorithm - Wikipedia](https://en.wikipedia.org/wiki/LZ4_(compression_algorithm))
 

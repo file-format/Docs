@@ -42,6 +42,6 @@ WIM поддържа следните семейства алгоритми за
 ## Препратки
 
 
-* [Формат за изображения на Windows - от Wikipedia](https://en.wikipedia.org/wiki/Format_Windows_Imaging_Format)
+* [Формат за изображения на Windows - от Wikipedia](https://en.wikipedia.org/wiki/Windows_Imaging_Format)
 
 

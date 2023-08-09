@@ -23,7 +23,7 @@ Un fichier avec l'extension .mgx est un fichier enregistré pour le jeu Age of E
 
 ## Format de fichier MGX - Plus d'informations
 
-Le format de fichier interne du fichier MGX a été élaboré et disponible en tant qu'informations partiellement validées sur [Age of Empires 2 : The Conquerors — Savegame File Format Specification](https://github.com/stefan-kolb/aoc-mgx- format). Les spécifications décrivent les détails dans les sections suivantes.
+Le format de fichier interne du fichier MGX a été élaboré et disponible en tant qu'informations partiellement validées sur [Age of Empires 2 : The Conquerors — Savegame File Format Specification](https://github.com/stefan-kolb/aoc-mgx-format). Les spécifications décrivent les détails dans les sections suivantes.
 
 ### Définitions des structures
 

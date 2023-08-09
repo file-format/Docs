@@ -44,6 +44,6 @@ Ma puoi ancora trovare molti altri strumenti software che possono facilmente agg
 
 ## Riferimenti ##
 
-* [Audible (servizio) - Di Wikipedia](https://en.wikipedia.org/wiki/Audible_(servizio))
+* [Audible (servizio) - Di Wikipedia](https://en.wikipedia.org/wiki/Audible_(service))
 * [Formato file audio - Di Wikipedia](https://en.wikipedia.org/wiki/Audio_file_format)
 

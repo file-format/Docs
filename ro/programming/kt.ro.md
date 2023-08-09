@@ -67,5 +67,5 @@ Kotlin este o limbă oficială pentru a scrie aplicații Android, oferind multe 
 
 ## Referințe ##
 
-- [Kotlin (limbaj de programare) - Wikipedia](https://en.wikipedia.org/wiki/Kotlin_(limbaj_de_programare))
+- [Kotlin (limbaj de programare) - Wikipedia](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
 

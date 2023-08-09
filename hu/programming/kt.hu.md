@@ -67,5 +67,5 @@ A Kotlin egy hivatalos nyelv az Android-alkalmazások írásához, számos fejle
 
 ## Referenciák ##
 
-- [Kotlin (programozási nyelv) - Wikipédia](https://en.wikipedia.org/wiki/Kotlin_(programozási_nyelv))
+- [Kotlin (programozási nyelv) - Wikipédia](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
 

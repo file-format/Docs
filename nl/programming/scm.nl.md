@@ -32,5 +32,5 @@ SCM-bestanden worden gemaakt en opgeslagen in platte tekst met elke teksteditor.
 
 ## Referenties
 
-* [Schemaprogrammering - Wikipedia](https://en.wikipedia.org/wiki/Schema_(programmeertaal))
+* [Schemaprogrammering - Wikipedia](https://en.wikipedia.org/wiki/Scheme_(programming_language))
 

@@ -151,7 +151,7 @@ F-statistic: 91.88 on 1 and 4 DF,  p-value: 0.000662
 
 ## Hivatkozási szám
 
-* [R – a Wikipedia által](https://en.wikipedia.org/wiki/R_(programozási_nyelv))
+* [R – a Wikipedia által](https://en.wikipedia.org/wiki/R_(programming_language))
 
 
 

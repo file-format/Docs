@@ -37,7 +37,7 @@
 
 ## Swift 파일 형식 - 추가 정보
 
-Swift 파일은 모든 텍스트 편집기로 열 수 있는 일반 텍스트 파일입니다. 신속한 파일을 열고 편집하는 데 사용되는 기본 텍스트 편집기는 Apple의 Xcode입니다. Swift의 많은 부분이 C 및 Objective-C를 사용하여 개발하는 애플리케이션에 익숙합니다. Swift 문서는 Swift를 사용하여 코드를 작성하기 위한 자세한 [애플리케이션 개발 가이드](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)를 제공합니다.
+Swift 파일은 모든 텍스트 편집기로 열 수 있는 일반 텍스트 파일입니다. 신속한 파일을 열고 편집하는 데 사용되는 기본 텍스트 편집기는 Apple의 Xcode입니다. Swift의 많은 부분이 C 및 Objective-C를 사용하여 개발하는 애플리케이션에 익숙합니다. Swift 문서는 Swift를 사용하여 코드를 작성하기 위한 자세한 [애플리케이션 개발 가이드](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/)를 제공합니다.
 
 ## 스위프트 언어 기능
 

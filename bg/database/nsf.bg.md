@@ -23,7 +23,7 @@
 
 ## Спецификации на файловия формат на NSF
 
-NSF файловете са двоични по природа и техните спецификации са достъпни от Joachim Metz в [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database% 20file%20format.asciidoc). Според тези подробности NSF файл се състои от:
+NSF файловете са двоични по природа и техните спецификации са достъпни от Joachim Metz в [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc). Според тези подробности NSF файл се състои от:
 
 * Заглавка на файл
 * Заглавка на базата данни

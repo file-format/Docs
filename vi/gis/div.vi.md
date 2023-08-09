@@ -26,5 +26,5 @@ Các tệp DIV được lưu trữ trên đĩa dưới dạng định dạng t�
 
 ## Người giới thiệu
 
-* [DIVA-GIS](https://vi.wikipedia.org/wiki/DIVA-GIS)
+* [DIVA-GIS](https://en.wikipedia.org/wiki/DIVA-GIS)
 

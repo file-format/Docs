@@ -32,5 +32,5 @@ I file SCM vengono creati e salvati in formato di testo normale utilizzando qual
 
 ## Riferimenti
 
-* [Programmazione di schemi - Wikipedia](https://en.wikipedia.org/wiki/Scheme_(linguaggio_di_programmazione))
+* [Programmazione di schemi - Wikipedia](https://en.wikipedia.org/wiki/Scheme_(programming_language))
 

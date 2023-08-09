@@ -32,5 +32,5 @@ PYD файл може да бъде създаден чрез създаване
 ## Препратки ##
 
 * [Създаване на Python разширения в C/C++](https://sebsauvage.net/python/mingw.html)
-* [Python (програмен език) – Уикипедия](https://en.wikipedia.org/wiki/Python_(програмен_език))
+* [Python (програмен език) – Уикипедия](https://en.wikipedia.org/wiki/Python_(programming_language))
 

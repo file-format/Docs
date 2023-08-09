@@ -20,7 +20,7 @@
 ## Mi az a XUL fájl?
 
 A .xul kiterjesztésű fájl ([XUL](https://wiki.mozilla.org/XUL:Home_Page) az XML felhasználói felület nyelve) egy [XML](/hu/web/xml/) alapú jelölőnyelvi fájl felhasználói felületek létrehozása. A Mozilla fejlesztette ki a fejlesztők számára, hogy a weboldalak készítéséhez használt más jelölőnyelvekhez hasonló grafikus felhasználói felületelemeket hozzanak létre. Az XUL-t a Mozilla széles körben használta a Firefox böngészőjében, ahol a Mozilla kódbázist használta. Az XUL renderelés a
-[Gecko motor](https://en.wikipedia.org/wiki/Gecko_(szoftver)). A Firefox villái, például a Pale Moon, a Basilisk és a Waterfox továbbra is támogatják az XUL-bővítményeket. A XUL-fájlokat a MIME-típus azonosítja: application/vnd.mozilla.xul+xml.
+[Gecko motor](https://en.wikipedia.org/wiki/Gecko_(software)). A Firefox villái, például a Pale Moon, a Basilisk és a Waterfox továbbra is támogatják az XUL-bővítményeket. A XUL-fájlokat a MIME-típus azonosítja: application/vnd.mozilla.xul+xml.
 
 ## XUL fájlformátum
 

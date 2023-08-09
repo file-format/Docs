@@ -22,7 +22,7 @@ Un archivo DISCOMAP es un archivo de salida creado por la herramienta de detecci
 
 ## Referencias
 
-* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894?tab=Overview)
+* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894)
 * [Descubrimiento de servicios web](https://en.wikipedia.org/wiki/Web_Services_Discovery)
 * [Ejemplo en C# de clase DiscoveryClient](https://learn.microsoft.com/en-us/dotnet/api/system.web.services.discovery.discoveryclientprotocol?view=netframework-4.8)
 

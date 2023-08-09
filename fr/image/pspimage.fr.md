@@ -36,5 +36,5 @@ Les fichiers PSPIMAGE peuvent être créés en tant que nouveau fichier à parti
 
 ## Références
 
-* [Conversion PSPIMAGE](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/mp/5288141)
+* [Conversion PSPIMAGE](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/m-p/5288141)
 

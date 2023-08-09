@@ -36,7 +36,7 @@ Markdown ist heute eine der weltweit beliebtesten Auszeichnungssprachen. Bei der
 
 John Gruber und Aaron Swartz schufen 2004 die Markdown-Sprache mit der Idee, Menschen zu ermöglichen, „in einem einfach zu lesenden und zu schreibenden Klartextformat zu schreiben und es in XHTML oder HTML umzuwandeln. Das Ziel hinter seinem Design ist die Lesbarkeit – die Sprache ist lesbar, wie sie ist, ohne dass es aussieht, als wäre sie mit Tags versehen oder mit Formatierungsanweisungen versehen worden, wie dies in Auszeichnungssprachen wie RTF oder HTML der Fall ist, wo Tags und Formatierungsanweisungen offensichtlich sind. Die grundlegende Inspiration ist die Verwendung bestehender Konventionen zum Markieren von Klartext in E-Mails.
 
-Seitdem wurde Markdown auch von anderen neu implementiert, wie in einem Perl-[Modul](https://en.wikipedia.org/wiki/Modular_programming), das auf [CPAN](https://en.wikipedia.org/) verfügbar ist. wiki/CPAN) und in diversen anderen Programmiersprachen. Es wird unter einer [Lizenz im BSD-Stil](https://en.wikipedia.org/wiki/BSD_license) vertrieben und ist in mehreren [Content-Management-Systemen](https:// en.wikipedia.org/wiki/Content_management_system).
+Seitdem wurde Markdown auch von anderen neu implementiert, wie in einem Perl-[Modul](https://en.wikipedia.org/wiki/Modular_programming), das auf [CPAN](https://en.wikipedia.org/wiki/CPAN) verfügbar ist. und in diversen anderen Programmiersprachen. Es wird unter einer [Lizenz im BSD-Stil](https://en.wikipedia.org/wiki/BSD_license) vertrieben und ist in mehreren [Content-Management-Systemen](https://en.wikipedia.org/wiki/Content_management_system).
 
 ## Technische Spezifikationen
 

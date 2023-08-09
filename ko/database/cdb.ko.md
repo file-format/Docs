@@ -55,6 +55,6 @@ CDB는 최대 4GB의 모든 데이터베이스를 관리할 수 있습니다. �
 
 ## 참조 ##
 
-* [cdb(소프트웨어) - 위키백과](https://en.wikipedia.org/wiki/Cdb_(소프트웨어))
+* [cdb(소프트웨어) - 위키백과](https://en.wikipedia.org/wiki/Cdb_(software))
 * [CDB 사양](http://cr.yp.to/cdb.html)
 

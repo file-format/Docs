@@ -26,5 +26,5 @@ Los archivos FWTEMPLATE se crean y guardan en formato de archivo propietario de 
 
 ## Referencias
 
-* [Uso de plantillas en Freeway](https://www.softpress.com/kb/questions/142/Using+Templates+in+Freeway)
+* N/A
 

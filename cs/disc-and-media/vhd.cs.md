@@ -37,6 +37,6 @@ Tyto soubory VHD lze snadno vyměňovat z virtuálního pevného disku do soubor
 
 ## Reference ##
 
-* [VHD – z Wikipedie](https://en.wikipedia.org/wiki/VHD_(formát_souboru))
+* [VHD – z Wikipedie](https://en.wikipedia.org/wiki/VHD_(file_format))
 
 

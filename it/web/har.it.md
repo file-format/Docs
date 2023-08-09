@@ -47,5 +47,5 @@ I seguenti passaggi possono essere eseguiti su una pagina Web in cui vengono aff
 
 ## Riferimenti
 
-* [Formato file HAR - Wikipedia](https://en.wikipedia.org/wiki/HAR_(formato_file))
+* [Formato file HAR - Wikipedia](https://en.wikipedia.org/wiki/HAR_(file_format))
 

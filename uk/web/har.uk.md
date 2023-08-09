@@ -47,5 +47,5 @@
 
 ## Список літератури
 
-* [Формат файлу HAR - Вікіпедія](https://en.wikipedia.org/wiki/HAR_(формат_файлу))
+* [Формат файлу HAR - Вікіпедія](https://en.wikipedia.org/wiki/HAR_(file_format))
 

@@ -25,7 +25,7 @@ DjVu poate fi clasificat ca alternativă superioară [PDF](/ro/pdf/). Extensiile
 
 ## Scurt istoric ##
 
-Tehnologia DjVu a fost dezvoltată în laboratoarele AT&T de către [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3% A9on_Bottou), Patrick Haffner și Paul G din 1996 până în 2001. Formatul de fișier DjVu a trecut prin diferite revizuiri, cea mai recentă fiind din 2005.
+Tehnologia DjVu a fost dezvoltată în laboratoarele AT&T de către [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3%A9on_Bottou), Patrick Haffner și Paul G din 1996 până în 2001. Formatul de fișier DjVu a trecut prin diferite revizuiri, cea mai recentă fiind din 2005.
 
 
 |Versiune|Data lansării|Note

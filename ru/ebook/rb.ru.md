@@ -43,5 +43,5 @@
 
 ## использованная литература
 
-* [Электронная книга для чтения – от MobileRead](https://en.wikipedia.org/wiki/Электронная книга)
+* [Электронная книга для чтения – от MobileRead](https://en.wikipedia.org/wiki/E-reader)
 

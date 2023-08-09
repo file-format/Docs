@@ -23,7 +23,7 @@
 
 ## Μορφή αρχείου MGX - Περισσότερες πληροφορίες
 
-Η εσωτερική μορφή αρχείου του αρχείου MGX έχει επεξεργαστεί και είναι διαθέσιμη ως μερικώς επικυρωμένες πληροφορίες στο [Age of Empires 2: The Conquerors — Savegame File Format Specification](https://github.com/stefan-kolb/aoc-mgx- μορφή). Οι προδιαγραφές περιγράφουν τις λεπτομέρειες στις ακόλουθες ενότητες.
+Η εσωτερική μορφή αρχείου του αρχείου MGX έχει επεξεργαστεί και είναι διαθέσιμη ως μερικώς επικυρωμένες πληροφορίες στο [Age of Empires 2: The Conquerors — Savegame File Format Specification](https://github.com/stefan-kolb/aoc-mgx-format). Οι προδιαγραφές περιγράφουν τις λεπτομέρειες στις ακόλουθες ενότητες.
 
 ### Ορισμοί δομής
 

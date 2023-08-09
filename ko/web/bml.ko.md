@@ -56,5 +56,5 @@ IBM alphaworks 웹 사이트는 두 가지 BML 구현을 제공했습니다. 첫
 
 * [XML을 사용한 객체 지향 메시징](https://docs.oracle.com/cd/A87860_01/doc/appdev.817/a86030/adx16nt5.htm)
 * [물리적 마크업 언어](http://web.mit.edu/mecheng/pml/standards.htm)
-* [빈 마크업 언어](https://all4dev.blogspot.com/2019/06/bean-markup-language-tutorial.html)
+
 

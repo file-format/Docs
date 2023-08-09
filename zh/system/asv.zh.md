@@ -30,5 +30,5 @@ ASV 文件以二进制文件格式保存，其内容不是人类可读的形式�
 
 ## 参考
 
-* [在 Adobe Photoshop 中加载 ASV 文件](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/mp/12587356)
+* [在 Adobe Photoshop 中加载 ASV 文件](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/m-p/12587356)
 

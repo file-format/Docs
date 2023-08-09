@@ -32,5 +32,5 @@ Un fișier PYD poate fi creat prin crearea unui modul cu un nume de exemplu exma
 ## Referințe ##
 
 * [Crearea extensiilor Python în C/C++](https://sebsauvage.net/python/mingw.html)
-* [Python (limbaj de programare) - Wikipedia](https://en.wikipedia.org/wiki/Python_(limbaj_de_programare))
+* [Python (limbaj de programare) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 

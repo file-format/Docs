@@ -67,5 +67,5 @@ Kotlin adalah bahasa resmi untuk menulis aplikasi Android dengan menawarkan bany
 
 ## Referensi ##
 
-- [Kotlin (bahasa pemrograman) - Wikipedia](https://en.wikipedia.org/wiki/Kotlin_(bahasa_pemrograman))
+- [Kotlin (bahasa pemrograman) - Wikipedia](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
 

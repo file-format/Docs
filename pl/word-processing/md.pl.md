@@ -36,7 +36,7 @@ Markdown jest obecnie jednym z najpopularniejszych języków znaczników na świ
 
 John Gruber i Aaron Swartz w 2004 roku stworzyli język Markdown z ideą umożliwienia ludziom „pisania w łatwym do odczytania i zapisania formacie zwykłego tekstu z opcją konwersji do XHTML lub HTML. Celem jego projektu jest czytelność – język jest czytelny tak, jak jest, bez wyglądania, jakby został otagowany lub dodany z instrukcjami formatowania, jak ma to miejsce w językach znaczników, takich jak RTF lub HTML, gdzie znaczniki i instrukcje formatowania są oczywiste. Podstawową inspiracją jest wykorzystanie istniejących konwencji oznaczania zwykłego tekstu w wiadomościach e-mail.
 
-Od tego czasu Markdown został ponownie zaimplementowany przez innych, jak również w [module] Perla (https://en.wikipedia.org/wiki/Modular_programming) dostępnym na [CPAN](https://en.wikipedia.org/ wiki/CPAN) oraz w różnych innych językach programowania. Jest rozpowszechniany na [licencji w stylu BSD](https://en.wikipedia.org/wiki/BSD_license) i jest dołączony lub dostępny jako wtyczka do kilku [systemów zarządzania treścią](https:// en.wikipedia.org/wiki/Content_management_system).
+Od tego czasu Markdown został ponownie zaimplementowany przez innych, jak również w [module](https://en.wikipedia.org/wiki/Modular_programming) Perla dostępnym na [CPAN](https://en.wikipedia.org/wiki/CPAN) oraz w różnych innych językach programowania. Jest rozpowszechniany na [licencji w stylu BSD](https://en.wikipedia.org/wiki/BSD_license) i jest dołączony lub dostępny jako wtyczka do kilku [systemów zarządzania treścią](https://en.wikipedia.org/wiki/Content_management_system).
 
 ## Specyfikacja techniczna
 

@@ -36,5 +36,5 @@ Los archivos PSPIMAGE se pueden crear como un archivo nuevo desde PaintShop Pro.
 
 ## Referencias
 
-* [Conversión de PSPIMAGE](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/mp/5288141)
+* [Conversión de PSPIMAGE](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/m-p/5288141)
 

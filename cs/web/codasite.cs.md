@@ -26,5 +26,5 @@ Soubor projektu CODASITE se uloží na disk jako binární soubory v adresáři 
 
 ## Reference
 
-* [Systém souborů Coda](https://en.wikipedia.org/wiki/Coda_(systém_souborů))
+* [Systém souborů Coda](https://en.wikipedia.org/wiki/Coda_(file_system))
 

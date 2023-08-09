@@ -23,7 +23,7 @@ Un archivo con la extensión .nsf (Notes Storage Facility) es un formato de arch
 
 ## Especificaciones de formato de archivo NSF
 
-Los archivos NSF son de naturaleza binaria y sus especificaciones están disponibles por Joachim Metz en [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database% 20archivo%20formato.asciidoc). Según estos detalles, un archivo NSF se compone de:
+Los archivos NSF son de naturaleza binaria y sus especificaciones están disponibles por Joachim Metz en [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc). Según estos detalles, un archivo NSF se compone de:
 
 * Encabezado de archivo
 * Cabecera de la base de datos

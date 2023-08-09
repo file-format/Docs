@@ -30,5 +30,5 @@ Dahua Smart Player có thể được sử dụng để mở và phát các tệ
 ## Người giới thiệu ##
 
 * [Công nghệ Dahua](https://www.dahuasecurity.com/)
-* [Tích hợp Dahua trợ lý tại nhà](https://github.com/rrroller/dahua)
+* [Tích hợp Dahua trợ lý tại nhà](https://github.com/rroller/dahua)
 

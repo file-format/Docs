@@ -26,5 +26,5 @@
 
 ## مراجع
 
-* [برنامج Freeway](https://en.wikipedia.org/wiki/Freeway_ (برنامج))
+* [برنامج Freeway](https://en.wikipedia.org/wiki/Freeway_(software))
 

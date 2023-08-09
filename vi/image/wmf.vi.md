@@ -58,5 +58,5 @@ Bản ghi WMF có định dạng chung, được chỉ định trong tài liệu
 ## Người giới thiệu ##
 
 * [[MS-WMF]: Định dạng siêu tệp Windows](https://msdn.microsoft.com/en-us/library/cc250370.aspx)
-* [Siêu tệp Windows - Wikipedia](https://vi.wikipedia.org/wiki/Windows_Metafile)
+* [Siêu tệp Windows - Wikipedia](https://en.wikipedia.org/wiki/Windows_Metafile)
 

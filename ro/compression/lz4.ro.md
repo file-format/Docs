@@ -64,5 +64,5 @@ Content_Checksum verifică validitatea conținutului care este decodat corect ș
 ## Referințe
 
 * [LZ4 Frame Format](https://github.com/lz4/lz4/blob/dev/doc/lz4_Frame_format.md)
-* [Algoritm de compresie LZ4 - Wikipedia](https://en.wikipedia.org/wiki/LZ4_(algoritm_de_compresie))
+* [Algoritm de compresie LZ4 - Wikipedia](https://en.wikipedia.org/wiki/LZ4_(compression_algorithm))
 

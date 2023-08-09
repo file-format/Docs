@@ -30,5 +30,5 @@
 
 ## อ้างอิง
 
-* [โหลดไฟล์ ASV ใน Adobe Photoshop](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/mp/12587356)
+* [โหลดไฟล์ ASV ใน Adobe Photoshop](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/m-p/12587356)
 

@@ -55,6 +55,6 @@ Lệnh **cdbmake** có thể ghi lại toàn bộ cơ sở dữ liệu thành ha
 
 ## Người giới thiệu ##
 
-* [cdb (phần mềm) - Wikipedia](https://vi.wikipedia.org/wiki/Cdb_(phần mềm))
+* [cdb (phần mềm) - Wikipedia](https://en.wikipedia.org/wiki/Cdb_(software))
 * [Đặc tả CDB](http://cr.yp.to/cdb.html)
 

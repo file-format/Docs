@@ -35,6 +35,6 @@ Vývoj open source společnosti Gnumeric je hostován a udržován v [oficiáln�
 
 ## Reference
 
-* [Projekt GNOME](https://en.wikipedia.org/wiki/Projekt_GNOME)
+* [Projekt GNOME](https://en.wikipedia.org/wiki/The_GNOME_Project)
 * [Gnumeric – podle Wikipedie](https://en.wikipedia.org/wiki/Gnumeric)
 

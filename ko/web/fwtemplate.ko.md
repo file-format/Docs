@@ -26,5 +26,5 @@ FWTEMPLATE 파일은 Freeway 독점 파일 형식으로 생성 및 저장됩니�
 
 ## 참고문헌
 
-* [Freeway에서 템플릿 사용](https://www.softpress.com/kb/questions/142/Using+Templates+in+Freeway)
+* N/A
 

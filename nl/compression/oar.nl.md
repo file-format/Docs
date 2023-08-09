@@ -24,7 +24,7 @@ Een bestand met de extensie .oar is een archiefbestand dat wordt gebruikt door d
 
 ## OAR-bestandsindeling
 
-OAR zijn binaire bestanden die zijn opgeslagen in gecomprimeerde archiefbestandsindeling. De nieuwste versie van de OAR-bestandsindeling is [versie 1.0](http://opensimulator.org/wiki/OAR_Format_1.0) die grote veranderingen heeft ondergaan ten opzichte van de vorige [versie 0.8](http://opensimulator.org/wiki/OAR_Format_0 .8). De nieuwste versie ondersteunt het opslaan van meerdere regio's in een enkele OAR en is niet achterwaarts compatibel met versies van OpenSimulator vóór 0.7.5. Een OAR-bestand is een gzipped tar-bestand (tar.gz) in het originele Unix tar-formaat (niet USTAR).
+OAR zijn binaire bestanden die zijn opgeslagen in gecomprimeerde archiefbestandsindeling. De nieuwste versie van de OAR-bestandsindeling is [versie 1.0](http://opensimulator.org/wiki/OAR_Format_1.0) die grote veranderingen heeft ondergaan ten opzichte van de vorige [versie 0.8](http://opensimulator.org/wiki/OAR_Format_0.8). De nieuwste versie ondersteunt het opslaan van meerdere regio's in een enkele OAR en is niet achterwaarts compatibel met versies van OpenSimulator vóór 0.7.5. Een OAR-bestand is een gzipped tar-bestand (tar.gz) in het originele Unix tar-formaat (niet USTAR).
 
 ## Voorbeeld OAR-regio's
 AOR-bestanden kunnen meerdere regio's bevatten. De structuur van het archief is als volgt (dit voorbeeld bevat 4 regio's):

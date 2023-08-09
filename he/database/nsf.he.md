@@ -23,7 +23,7 @@
 
 ## מפרטי פורמט קובץ NSF
 
-קבצי NSF הם בינאריים באופיים והמפרטים שלהם זמינים על ידי Joachim Metz ב-[Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database% 20file%20format.asciidoc). לפי פרטים אלה, קובץ NSF מורכב מ:
+קבצי NSF הם בינאריים באופיים והמפרטים שלהם זמינים על ידי Joachim Metz ב-[Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc). לפי פרטים אלה, קובץ NSF מורכב מ:
 
 * כותרת הקובץ
 * כותרת מסד נתונים

@@ -56,5 +56,5 @@ Há duas maneiras de usar a tag string:
 
 * [Mensagens orientadas a objetos com XML](https://docs.oracle.com/cd/A87860_01/doc/appdev.817/a86030/adx16nt5.htm)
 * [A Linguagem de Marcação Física](http://web.mit.edu/mecheng/pml/standards.htm)
-* [The Bean Markup Language](https://all4dev.blogspot.com/2019/06/bean-markup-language-tutorial.html)
+
 

@@ -44,6 +44,6 @@ Obrazy disků optických médií jsou většinou doprovázeny souborem deskripto
 
 ## Reference ##
 
-* [IMG – z Wikipedie](https://en.wikipedia.org/wiki/IMG_(formát_souboru))
+* [IMG – z Wikipedie](https://en.wikipedia.org/wiki/IMG_(file_format))
 
 

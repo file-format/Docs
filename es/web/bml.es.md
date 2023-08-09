@@ -56,5 +56,5 @@ Hay dos formas en que se puede usar la etiqueta de cadena:
 
 * [Mensajería orientada a objetos con XML](https://docs.oracle.com/cd/A87860_01/doc/appdev.817/a86030/adx16nt5.htm)
 * [El lenguaje de marcado físico](http://web.mit.edu/mecheng/pml/standards.htm)
-* [El lenguaje de marcado Bean](https://all4dev.blogspot.com/2019/06/bean-markup-language-tutorial.html)
+
 

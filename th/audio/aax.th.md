@@ -44,6 +44,6 @@ AAX เป็นรูปแบบไฟล์ Audiobook ซึ่งเป็�
 
 ## อ้างอิง ##
 
-* [เสียง (บริการ) - โดย Wikipedia](https://en.wikipedia.org/wiki/Audible_(บริการ))
+* [เสียง (บริการ) - โดย Wikipedia](https://en.wikipedia.org/wiki/Audible_(service))
 * [รูปแบบไฟล์เสียง - โดย Wikipedia](https://en.wikipedia.org/wiki/Audio_file_format)
 

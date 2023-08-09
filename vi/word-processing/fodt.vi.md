@@ -27,5 +27,5 @@ Các tệp FODT được lưu trữ ở định dạng tệp XML thuần túy (c
 
 ## Người giới thiệu ##
 
-* [Thông số Kỹ thuật OpenDocument - Theo Wikipedia](https://en.wikipedia.org/wiki/OpenDocument_technical_specution)
+* [Thông số Kỹ thuật OpenDocument - Theo Wikipedia](https://en.wikipedia.org/wiki/OpenDocument_technical_specification)
 

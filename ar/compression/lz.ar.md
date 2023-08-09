@@ -25,7 +25,7 @@
 
 يتكون تنسيق LZMA المضغوط من دفق مضغوط من البتات المشفرة باستخدام مشفر النطاق الثنائي التكيفي. الدفق مقسم إلى حزم. تصف كل حزمة إما بايت واحد أو تسلسل LZ77. طول ومسافة كل حزمة مشفرة ضمنيًا أو صريحًا.
 
-الأنواع السبعة من الحزم هي كما يلي ([Wikipedia](https://en.wikipedia.org/wiki/Lempel٪E2٪80٪93Ziv٪E2٪80٪93Markov_chain_algorithm#Compressed_format_overview))
+الأنواع السبعة من الحزم هي كما يلي ([Wikipedia](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm#Compressed_format_overview))
 
 | التعليمات البرمجية المعبأة (تسلسل بت) | اسم الحزمة | وصف الحزمة |
 ---|---|---|
@@ -40,6 +40,6 @@
 
 ## مراجع
 
-* [LZMA - ويكيبيديا](https://en.wikipedia.org/wiki/Lempel٪E2٪80٪93Ziv٪E2٪80٪93Markov_chain_algorithm#Compressed_format_overview)
+* [LZMA - ويكيبيديا](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm#Compressed_format_overview)
 * [Lzip](https://en.wikipedia.org/wiki/Lzip)
 

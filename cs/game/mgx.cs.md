@@ -23,7 +23,7 @@ Soubor s příponou .mgx je nahraný soubor pro hru Age of Empires II: The Conqu
 
 ## Formát souboru MGX – Další informace
 
-Interní formát souboru souboru MGX byl vypracován a je k dispozici jako částečně ověřená informace o [Age of Empires 2: The Conquerors — Savegame File Format Specification](https://github.com/stefan-kolb/aoc-mgx- formát). Specifikace uvádějí podrobnosti v následujících částech.
+Interní formát souboru souboru MGX byl vypracován a je k dispozici jako částečně ověřená informace o [Age of Empires 2: The Conquerors — Savegame File Format Specification](https://github.com/stefan-kolb/aoc-mgx-format). Specifikace uvádějí podrobnosti v následujících částech.
 
 ### Definice struktury
 

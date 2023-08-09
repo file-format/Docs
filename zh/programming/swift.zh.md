@@ -37,7 +37,7 @@
 
 ## Swift 文件格式 - 更多信息
 
-Swift 文件是可以用任何文本编辑器打开的纯文本文件。用于打开和编辑 swift 文件的主要文本编辑器是 Apple 的 Xcode。 Swift 的许多部分都熟悉使用 C 和 Objective-C 进行应用程序开发。 Swift 文档为使用 Swift 编写代码提供了详细的 [应用程序开发指南](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)。
+Swift 文件是可以用任何文本编辑器打开的纯文本文件。用于打开和编辑 swift 文件的主要文本编辑器是 Apple 的 Xcode。 Swift 的许多部分都熟悉使用 C 和 Objective-C 进行应用程序开发。 Swift 文档为使用 Swift 编写代码提供了详细的 [应用程序开发指南](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/)。
 
 ## Swift 语言特性
 

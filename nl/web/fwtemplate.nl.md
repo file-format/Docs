@@ -26,5 +26,5 @@ FWTEMPLATE-bestanden worden gemaakt en opgeslagen in het eigen bestandsformaat v
 
 ## Referenties
 
-* [Sjablonen gebruiken in Freeway](https://www.softpress.com/kb/questions/142/Using+Templates+in+Freeway)
+* N/A
 

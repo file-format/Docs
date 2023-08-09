@@ -25,6 +25,6 @@
 
 ## مراجع
 
-* [صوت القرد - بواسطة ويكيبيديا](https://en.wikipedia.org/wiki/Monkey٪27s_Audio)
+* [صوت القرد - بواسطة ويكيبيديا](https://en.wikipedia.org/wiki/Monkey%27s_Audio)
 * [Monkey's Audio - ضاغط صوت سريع وقوي بدون فقدان البيانات](https://monkeysaudio.com/index.html)
 

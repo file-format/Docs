@@ -94,5 +94,5 @@ for name in names:
 
 ## Referenties ##
 
-- [Python (programmeertaal) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programmeertaal))
+- [Python (programmeertaal) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 

@@ -79,7 +79,7 @@ fn main() {
 
 ## Referință ##
 
-* [RS - de Wikipedia](https://en.wikipedia.org/wiki/Rust_(limbaj_de_programare))
+* [RS - de Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language))
 
 
 

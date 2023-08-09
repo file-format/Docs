@@ -20,7 +20,7 @@
 ## ไฟล์ XUL คืออะไร??
 
 ไฟล์ที่มีนามสกุล .xul ([XUL](https://wiki.mozilla.org/XUL:Home_Page) ย่อมาจาก XML User Interface Language) เป็นไฟล์ภาษามาร์กอัปที่ใช้ [XML](/th/web/xml/) สำหรับ การสร้างส่วนติดต่อผู้ใช้ ได้รับการพัฒนาโดย Mozilla เพื่อให้นักพัฒนาสร้างองค์ประกอบส่วนติดต่อผู้ใช้แบบกราฟิกที่คล้ายกับภาษามาร์กอัปอื่น ๆ ที่ใช้สำหรับสร้างหน้าเว็บ XUL ได้รับการใช้งานอย่างกว้างขวางโดย Mozilla ในเบราว์เซอร์ Firefox ซึ่งใช้ Mozilla codebase การแสดงผล XUL ดำเนินการโดยใช้
-[เครื่องยนต์ Gecko](https://en.wikipedia.org/wiki/Gecko_(ซอฟต์แวร์)) ส้อมของ Firefox เช่น Pale Moon, Basilisk และ Waterfox ยังคงรองรับโปรแกรมเสริม XUL ไฟล์ XUL ถูกระบุด้วยประเภท MIME: application/vnd.mozilla.xul+xml
+[เครื่องยนต์ Gecko](https://en.wikipedia.org/wiki/Gecko_(software)) ส้อมของ Firefox เช่น Pale Moon, Basilisk และ Waterfox ยังคงรองรับโปรแกรมเสริม XUL ไฟล์ XUL ถูกระบุด้วยประเภท MIME: application/vnd.mozilla.xul+xml
 
 ## รูปแบบไฟล์ XUL
 

@@ -43,5 +43,5 @@ Trong hầu hết các trường hợp, mục lục theo sau (ở độ lệch 1
 
 ## Người giới thiệu
 
-* [E-Reader - By MobileRead](https://vi.wikipedia.org/wiki/E-reader)
+* [E-Reader - By MobileRead](https://en.wikipedia.org/wiki/E-reader)
 

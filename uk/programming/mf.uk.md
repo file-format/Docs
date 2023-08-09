@@ -56,5 +56,5 @@
 ## Список літератури
 
 * [Oracle – формат файлу JAR](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html)
-* [Формат файлу JAR](https://en.wikipedia.org/wiki/JAR_(file_format)#:~:text=A%20JAR%20(Java%20ARchive)%20is,into%20one%20file%20for% 20distribution.&text=Вони%20побудовані%20на%20розширенні%20файлу%20jar%20.)
+* [Формат файлу JAR](https://en.wikipedia.org/wiki/JAR_(file_format))
 

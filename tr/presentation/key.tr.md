@@ -44,5 +44,5 @@ Bu dosya formatlarını kullanan bir sunum sırasında veya bir Apple cihazında
 
 ## Referanslar ##
 
-* [Keynote - Wikipedia](https://en.wikipedia.org/wiki/Keynote_(sunum_yazılımı))
+* [Keynote - Wikipedia](https://en.wikipedia.org/wiki/Keynote_(presentation_software))
 

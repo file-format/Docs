@@ -63,7 +63,7 @@
 |טקסטורה תלת מימדית|מכיל מרקם המשמש להחלת צבע על אובייקט תלת מימדי בחלק של דגם תלת מימד (זמין להרחבות)|דגם תלת מימד|אופציונלי
 |חלקים מותאמים אישית|חלקי OPC המשויכים למטא נתונים|חבילה|אופציונלי
 
-[חלקים ויחסים](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-2-parts-and-relationships), [מודלים תלת מימדיים](https:/ /github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-3-3d-models), [Object Resources](https://github.com/3MFConsortium/spec_core/blob/master /3MF%20Core%20Specification.md#chapter-4-object-resources), [משאבי חומר](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-5 -material-resources) ו-[Package Features](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-6-3mf-document-package-features) קטעי מפרטים מסמך מספק מידע מפורט על מסמך 3MF.
+[חלקים ויחסים](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-2-parts-and-relationships), [מודלים תלת מימדיים](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-3-3d-models), [Object Resources](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-4-object-resources), [משאבי חומר](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-5-material-resources) ו-[Package Features](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-6-3mf-document-package-features) קטעי מפרטים מסמך מספק מידע מפורט על מסמך 3MF.
 
 ## הפניות ##
 

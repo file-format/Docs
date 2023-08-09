@@ -23,7 +23,7 @@ Tệp có phần mở rộng .mgx là tệp được ghi cho trò chơi Age of E
 
 ## Định dạng tệp MGX - Thông tin khác
 
-Định dạng tệp nội bộ của tệp MGX đã được xử lý và có sẵn dưới dạng thông tin được xác thực một phần trên [Age of Empires 2: The Conquerors — Savegame File Format Specification](https://github.com/stefan-kolb/aoc-mgx- định dạng). Các thông số kỹ thuật phác thảo các chi tiết trong các phần sau.
+Định dạng tệp nội bộ của tệp MGX đã được xử lý và có sẵn dưới dạng thông tin được xác thực một phần trên [Age of Empires 2: The Conquerors — Savegame File Format Specification](https://github.com/stefan-kolb/aoc-mgx-format). Các thông số kỹ thuật phác thảo các chi tiết trong các phần sau.
 
 ### Định nghĩa cấu trúc
 

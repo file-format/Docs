@@ -94,5 +94,5 @@ for name in names:
 
 ## Người giới thiệu ##
 
-- [Python (ngôn ngữ lập trình) - Wikipedia](https://vi.wikipedia.org/wiki/Python_(programming_language))
+- [Python (ngôn ngữ lập trình) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 

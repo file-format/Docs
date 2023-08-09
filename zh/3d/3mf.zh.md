@@ -63,7 +63,7 @@
 |3D 纹理|包含用于将颜色应用于 3D 模型部分中的 3D 对象的纹理（可用于扩展）|3D 模型|可选
 |自定义部件|与元数据关联的 OPC 部件|包|可选
 
-[部件和关系](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-2-parts-and-relationships)、[3D 模型](https:// /github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-3-3d-models)，[对象资源](https://github.com/3MFConsortium/spec_core/blob/master /3MF%20Core%20Specification.md#chapter-4-object-resources), [材料资源](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-5 -material-resources) 和 [Package Features](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-6-3mf-document-package-features) 部分的规范文档提供有关 3MF 文档的详细信息。
+[部件和关系](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-2-parts-and-relationships)、[3D 模型](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-3-3d-models)，[对象资源](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-4-object-resources), [材料资源](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-5-material-resources) 和 [Package Features](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-6-3mf-document-package-features) 部分的规范文档提供有关 3MF 文档的详细信息。
 
 ## 参考 ＃＃
 

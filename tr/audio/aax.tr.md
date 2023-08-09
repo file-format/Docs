@@ -44,6 +44,6 @@ Ancak yine de Audible'ın DRM kontrolünü kolayca atlayabilen başka birçok ya
 
 ## Referanslar ##
 
-* [Sesli (hizmet) - Wikipedia'dan](https://en.wikipedia.org/wiki/Audible_(hizmet))
+* [Sesli (hizmet) - Wikipedia'dan](https://en.wikipedia.org/wiki/Audible_(service))
 * [Ses dosyası biçimi - Wikipedia'ya göre](https://en.wikipedia.org/wiki/Audio_file_format)
 

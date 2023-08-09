@@ -25,7 +25,7 @@
 
 ## Σύντομη Ιστορία ##
 
-Η τεχνολογία DjVu αναπτύχθηκε στα εργαστήρια AT&T από τους [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3% A9on_Bottou), Patrick Haffner και Paul G από το 1996 έως το 2001. Η μορφή αρχείου DjVu έχει περάσει από διάφορες αναθεωρήσεις, η πιο πρόσφατη από το 2005.
+Η τεχνολογία DjVu αναπτύχθηκε στα εργαστήρια AT&T από τους [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3%A9on_Bottou), Patrick Haffner και Paul G από το 1996 έως το 2001. Η μορφή αρχείου DjVu έχει περάσει από διάφορες αναθεωρήσεις, η πιο πρόσφατη από το 2005.
 
 
 |Έκδοση|Ημερομηνία κυκλοφορίας|Σημειώσεις

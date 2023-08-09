@@ -42,5 +42,5 @@ Intervalul de timp minim a fost de 0,02 secunde în fișierul MOD original sau u
 
 ## Referințe
 
-* [MOD (format fișier) - De Wikipedia](https://en.wikipedia.org/wiki/MOD_(format_fișier))
+* [MOD (format fișier) - De Wikipedia](https://en.wikipedia.org/wiki/MOD_(file_format))
 

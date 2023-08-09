@@ -151,7 +151,7 @@ F-statistic: 91.88 on 1 and 4 DF,  p-value: 0.000662
 
 ## المرجعي ##
 
-* [R - بواسطة Wikipedia](https://en.wikipedia.org/wiki/R_ (developer_language))
+* [R - بواسطة Wikipedia](https://en.wikipedia.org/wiki/R_(programming_language))
 
 
 

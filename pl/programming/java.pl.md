@@ -56,5 +56,5 @@ Nazwa pliku plików Java powinna być taka sama jak nazwa klasy. Tak więc plik 
 
 ## Bibliografia ##
 
-- [Java (język programowania) - Wikipedia](https://en.wikipedia.org/wiki/Java_(język_programowania))
+- [Java (język programowania) - Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))
 

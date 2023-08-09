@@ -24,7 +24,7 @@
 
 ## OAR 文件格式
 
-OAR 是以压缩归档文件格式存储的二进制文件。 OAR 文件格式的最新版本是 [version 1.0](http://opensimulator.org/wiki/OAR_Format_1.0)，与之前的 [version 0.8](http://opensimulator.org/wiki/OAR_Format_0) 相比有重大变化.8)。最新版本支持在单个 OAR 中存储多个区域，并且不向后兼容 0.7.5 之前的 OpenSimulator 版本。 OAR 文件是原始 unix tar 格式（不是 USTAR）的 gzip 压缩 tar 文件 (tar.gz)。
+OAR 是以压缩归档文件格式存储的二进制文件。 OAR 文件格式的最新版本是 [version 1.0](http://opensimulator.org/wiki/OAR_Format_1.0)，与之前的 [version 0.8](http://opensimulator.org/wiki/OAR_Format_0.8) 相比有重大变化。最新版本支持在单个 OAR 中存储多个区域，并且不向后兼容 0.7.5 之前的 OpenSimulator 版本。 OAR 文件是原始 unix tar 格式（不是 USTAR）的 gzip 压缩 tar 文件 (tar.gz)。
 
 ## OAR 区域示例
 AOR 文件可以包含多个区域。存档的结构如下（本示例包含 4 个区域）：

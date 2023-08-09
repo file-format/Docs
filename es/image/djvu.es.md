@@ -25,7 +25,7 @@ DjVu puede calificarse como una alternativa superior a [PDF](/es/pdf/). Las exte
 
 ## Breve historia ##
 
-La tecnología DjVu fue desarrollada en los laboratorios de AT&T por [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3% A9on_Bottou), Patrick Haffner y Paul G de 1996 a 2001. El formato de archivo DjVu ha pasado por varias revisiones, la más reciente de 2005.
+La tecnología DjVu fue desarrollada en los laboratorios de AT&T por [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3%A9on_Bottou), Patrick Haffner y Paul G de 1996 a 2001. El formato de archivo DjVu ha pasado por varias revisiones, la más reciente de 2005.
 
 
 |Versión|Fecha de lanzamiento|Notas

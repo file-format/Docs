@@ -23,7 +23,7 @@ File dengan ekstensi .nsf (Fasilitas Penyimpanan Notes) adalah format file datab
 
 ## Spesifikasi Format File NSF
 
-File NSF bersifat biner dan spesifikasinya tersedia oleh Joachim Metz di [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database% 20file%20format.asciidoc). Sesuai perincian ini, file NSF terdiri dari:
+File NSF bersifat biner dan spesifikasinya tersedia oleh Joachim Metz di [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc). Sesuai perincian ini, file NSF terdiri dari:
 
 * Judul File
 * Kepala Basis Data

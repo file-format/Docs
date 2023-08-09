@@ -23,6 +23,6 @@ FCS файлът е файл с електронна таблица, създа�
 
 ## Препратки
 
-* [PFD:Първи избор](http://justsolve.archiveteam.org/wiki/PFS:Първи_избор)
+* [PFD:Първи избор](http://justsolve.archiveteam.org/wiki/PFS:First_Choice)
 * [Software Publishing Corporation](https://en.wikipedia.org/wiki/Software_Publishing_Corporation)
 

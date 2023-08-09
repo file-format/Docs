@@ -36,7 +36,7 @@ Markdown est aujourd'hui l'un des langages de balisage les plus populaires au mo
 
 John Gruber et Aaron Swartz ont créé en 2004 le langage Markdown avec l'idée de permettre aux gens "d'écrire en utilisant un format de texte brut facile à lire et à écrire et avec la possibilité de le convertir en XHTML ou HTML. L'objectif derrière sa conception est la lisibilité - le langage est lisible tel quel, sans donner l'impression qu'il a été balisé ou ajouté avec des instructions de formatage comme cela se fait dans les langages de balisage comme RTF ou HTML où les balises et les instructions de formatage sont évidentes. L'inspiration de base consiste à utiliser les conventions existantes pour marquer le texte brut dans les e-mails.
 
-Depuis lors, Markdown a également été réimplémenté par d'autres, comme dans un [module] Perl(https://en.wikipedia.org/wiki/Modular_programming) disponible sur [CPAN](https://en.wikipedia.org/ wiki/CPAN) et dans divers autres langages de programmation. Il est distribué sous une [licence de type BSD](https://en.wikipedia.org/wiki/BSD_license) et est inclus ou disponible en tant que plug-in pour plusieurs [systèmes de gestion de contenu](https:// en.wikipedia.org/wiki/Content_management_system).
+Depuis lors, Markdown a également été réimplémenté par d'autres, comme dans un [module](https://en.wikipedia.org/wiki/Modular_programming) Perl disponible sur [CPAN](https://en.wikipedia.org/wiki/CPAN) et dans divers autres langages de programmation. Il est distribué sous une [licence de type BSD](https://en.wikipedia.org/wiki/BSD_license) et est inclus ou disponible en tant que plug-in pour plusieurs [systèmes de gestion de contenu](https://en.wikipedia.org/wiki/Content_management_system).
 
 ## Spécifications techniques
 

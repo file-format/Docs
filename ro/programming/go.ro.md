@@ -69,5 +69,5 @@ func main() {
 
 ## Referință ##
 
-* [GO - de Wikipedia](https://en.wikipedia.org/wiki/Go_(limbaj_de_programare))
+* [GO - de Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language))
 

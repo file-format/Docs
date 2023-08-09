@@ -74,5 +74,5 @@ Main-Class: com.example.MyClassName
 ## βιβλιογραφικές αναφορές
 
 * [Επισκόπηση αρχείου JAR](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jarGuide.html)
-* [Μορφή αρχείου JAR](https://en.wikipedia.org/wiki/JAR_(file_format)#:~:text=A%20JAR%20(Java%20ARchive)%20is,into%20one%20file%20for% 20distribution.&text=Είναι%20%20built%20on%20the,jar%20file%20extension.)
+* [Μορφή αρχείου JAR](https://en.wikipedia.org/wiki/JAR_(file_format))
 

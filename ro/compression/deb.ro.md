@@ -46,6 +46,6 @@ Arhiva de control poate include conținut după cum urmează.
 
 ## Referințe
 
-* [DEB - Wikipedia](https://en.wikipedia.org/wiki/Deb_(format_fișier))
+* [DEB - Wikipedia](https://en.wikipedia.org/wiki/Deb_(file_format))
 * [Format pachet binar Debian](https://manpages.debian.org/buster/dpkg-dev/deb.5.en.html)
 

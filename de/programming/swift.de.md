@@ -37,7 +37,7 @@ Eine Datei mit der Erweiterung .swift bezieht sich auf die Programmiersprache SW
 
 ## Swift-Dateiformat – Weitere Informationen
 
-Swift-Dateien sind einfache Textdateien, die mit jedem Texteditor geöffnet werden können. Der primäre Texteditor zum Öffnen und Bearbeiten von Swift-Dateien ist Xcode von Apple. Viele Teile von Swift sind mit der Anwendungsentwicklung mit C und Objective-C vertraut. Die Swift-Dokumentation enthält einen detaillierten [Leitfaden zur Anwendungsentwicklung](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) zum Schreiben von Code mit Swift.
+Swift-Dateien sind einfache Textdateien, die mit jedem Texteditor geöffnet werden können. Der primäre Texteditor zum Öffnen und Bearbeiten von Swift-Dateien ist Xcode von Apple. Viele Teile von Swift sind mit der Anwendungsentwicklung mit C und Objective-C vertraut. Die Swift-Dokumentation enthält einen detaillierten [Leitfaden zur Anwendungsentwicklung](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) zum Schreiben von Code mit Swift.
 
 ## Swift-Sprachfunktionen
 

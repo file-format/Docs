@@ -26,5 +26,5 @@ FREEWAY ファイルは独自のファイル形式で保存され、内部ファ
 
 ## 参考文献
 
-* [Freeway ソフトウェア](https://en.wikipedia.org/wiki/Freeway_(ソフトウェア))
+* [Freeway ソフトウェア](https://en.wikipedia.org/wiki/Freeway_(software))
 

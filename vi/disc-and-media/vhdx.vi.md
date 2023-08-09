@@ -39,5 +39,5 @@ Nó hỗ trợ ba loại đĩa cứng ảo.
 ## Người giới thiệu
 
 * [Thông số định dạng tệp VHDX](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477)
-* [VHD - theo Wikipedia](https://vi.wikipedia.org/wiki/VHD_(file_format))
+* [VHD - theo Wikipedia](https://en.wikipedia.org/wiki/VHD_(file_format))
 

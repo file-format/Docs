@@ -26,5 +26,5 @@ FWTEMPLATE הוא מסמך תבנית ליצירת אתרי אינטרנט מב�
 
 ## הפניות
 
-* [שימוש בתבניות בכביש מהיר](https://www.softpress.com/kb/questions/142/Using+Templates+in+Freeway)
+* N/A
 

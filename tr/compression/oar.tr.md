@@ -24,7 +24,7 @@
 
 ## OAR Dosya Biçimi
 
-OAR, sıkıştırılmış arşiv dosyası biçiminde depolanan ikili dosyalardır. OAR dosya biçiminin en son sürümü, önceki [sürüm 0.8'den](http://opensimulator.org/wiki/OAR_Format_0) önemli değişiklikler içeren [sürüm 1.0](http://opensimulator.org/wiki/OAR_Format_1.0)'dır. .8). En son sürüm, birden çok bölgenin tek bir OAR'da depolanmasını destekler ve 0.7.5'ten önceki OpenSimulator sürümleriyle geriye dönük olarak uyumlu değildir. Bir OAR dosyası, orijinal unix tar formatında (USTAR değil) gziplenmiş bir tar dosyasıdır (tar.gz).
+OAR, sıkıştırılmış arşiv dosyası biçiminde depolanan ikili dosyalardır. OAR dosya biçiminin en son sürümü, önceki [sürüm 0.8'den](http://opensimulator.org/wiki/OAR_Format_0.8) önemli değişiklikler içeren [sürüm 1.0](http://opensimulator.org/wiki/OAR_Format_1.0)'dır. En son sürüm, birden çok bölgenin tek bir OAR'da depolanmasını destekler ve 0.7.5'ten önceki OpenSimulator sürümleriyle geriye dönük olarak uyumlu değildir. Bir OAR dosyası, orijinal unix tar formatında (USTAR değil) gziplenmiş bir tar dosyasıdır (tar.gz).
 
 ## OAR Bölgeleri Örneği
 AOR dosyaları birden fazla bölge içerebilir. Arşivin yapısı aşağıdaki gibidir (bu örnek 4 bölge içerir):

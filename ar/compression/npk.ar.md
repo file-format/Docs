@@ -30,5 +30,5 @@
 ## مراجع
 
 * [MikroTik - Upgrading Router OS](https://mikrotik.com/download)
-* [كيفية إنشاء ملفات NPK](https://forum.mikrotik.com/viewtopic.php؟t=87126)
+* [كيفية إنشاء ملفات NPK](https://forum.mikrotik.com/viewtopic.php?t=87126)
 

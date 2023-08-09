@@ -25,5 +25,5 @@ I file PYX sono file di testo semplice e la loro sintassi è molto simile a Pyth
 ## Riferimenti
 
 * [Wiki Python](https://wiki.python.org/moin/Pyrex)
-* [Python (linguaggio di programmazione) - Wikipedia](https://en.wikipedia.org/wiki/Python_(linguaggio_di_programmazione))
+* [Python (linguaggio di programmazione) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 

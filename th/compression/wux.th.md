@@ -27,5 +27,5 @@
 ## อ้างอิง
 
 * [โปรแกรมจำลอง Wii U - Cemu](https://cemu.info/)
-* [ซีมู - วิกิพีเดีย](https://en.wikipedia.org/wiki/ซีมู)
+* [ซีมู - วิกิพีเดีย](https://en.wikipedia.org/wiki/Cemu)
 

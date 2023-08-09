@@ -23,7 +23,7 @@
 
 ## NSF Dosya Biçimi Özellikleri
 
-NSF dosyaları ikili yapıdadır ve özellikleri Joachim Metz tarafından [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database% adresinde mevcuttur) 20file%20format.asciidoc). Bu ayrıntılara göre, bir NSF dosyası aşağıdakilerden oluşur:
+NSF dosyaları ikili yapıdadır ve özellikleri Joachim Metz tarafından [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc). Bu ayrıntılara göre, bir NSF dosyası aşağıdakilerden oluşur:
 
 * Dosya Başlığı
 * Veritabanı Başlığı

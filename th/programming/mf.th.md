@@ -56,5 +56,5 @@
 ## อ้างอิง
 
 * [Oracle - รูปแบบไฟล์ JAR](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html)
-* [รูปแบบไฟล์ JAR](https://en.wikipedia.org/wiki/JAR_(file_format)#:~:text=A%20JAR%20(Java%20ARchive)%20is,into%20one%20file%20for% 20distribution.&text=พวกเขา%20are%20build%20on%20the,jar%20file%20extension.)
+* [รูปแบบไฟล์ JAR](https://en.wikipedia.org/wiki/JAR_(file_format))
 

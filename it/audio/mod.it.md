@@ -42,5 +42,5 @@ L'intervallo di tempo minimo era di 0,02 secondi nel file MOD originale, o un in
 
 ## Riferimenti
 
-* [MOD (formato file) - Di Wikipedia](https://en.wikipedia.org/wiki/MOD_(formato_file))
+* [MOD (formato file) - Di Wikipedia](https://en.wikipedia.org/wiki/MOD_(file_format))
 

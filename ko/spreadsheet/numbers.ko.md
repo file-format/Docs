@@ -52,7 +52,7 @@ Numbers에는 스프레드시트의 시각적 모양을 개선하기 위한 노�
 
 ## 참조 ##
 
-* [숫자(스프레드시트) - Wikipedia](https://en.wikipedia.org/wiki/Numbers_(스프레드시트))
+* [숫자(스프레드시트) - Wikipedia](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))
 * [Numbers는 데이터에 생명을 불어넣습니다](https://www.apple.com/numbers/)
 
 

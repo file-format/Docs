@@ -104,5 +104,5 @@ $connumstr = $constr . $add;# concatenation of string and number.
 
 ## Referințe ##
 
-- [Python (limbaj de programare) - Wikipedia](https://en.wikipedia.org/wiki/Python_(limbaj_de_programare))
+- [Python (limbaj de programare) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 

@@ -23,7 +23,7 @@
 
 ## ข้อมูลจำเพาะรูปแบบไฟล์ NSF
 
-ไฟล์ NSF มีลักษณะเป็นเลขฐานสองและ Joachim Metz สามารถดูข้อกำหนดของไฟล์ได้ที่ [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database% 20file%20format.asciidoc). ตามรายละเอียดเหล่านี้ ไฟล์ NSF ประกอบด้วย:
+ไฟล์ NSF มีลักษณะเป็นเลขฐานสองและ Joachim Metz สามารถดูข้อกำหนดของไฟล์ได้ที่ [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc). ตามรายละเอียดเหล่านี้ ไฟล์ NSF ประกอบด้วย:
 
 * ส่วนหัวของไฟล์
 * ส่วนหัวของฐานข้อมูล

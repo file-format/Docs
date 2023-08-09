@@ -25,5 +25,5 @@ PYX файловете са обикновени текстови файлове
 ## Препратки
 
 * [Python Wiki](https://wiki.python.org/moin/Pyrex)
-* [Python (програмен език) – Уикипедия](https://en.wikipedia.org/wiki/Python_(програмен_език))
+* [Python (програмен език) – Уикипедия](https://en.wikipedia.org/wiki/Python_(programming_language))
 

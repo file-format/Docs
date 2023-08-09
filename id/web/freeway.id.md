@@ -26,5 +26,5 @@ File FREEWAY disimpan dalam format file hak milik dan detail format file interna
 
 ## Referensi
 
-* [Perangkat Lunak Freeway](https://en.wikipedia.org/wiki/Freeway_(perangkat lunak))
+* [Perangkat Lunak Freeway](https://en.wikipedia.org/wiki/Freeway_(software))
 

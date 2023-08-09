@@ -52,7 +52,7 @@ Oto lista niektórych najistotniejszych funkcji oferowanych przez IWork Numbers:
 
 ## Bibliografia ##
 
-* [Liczby (arkusz kalkulacyjny) - Wikipedia](https://en.wikipedia.org/wiki/Numbers_(arkusz kalkulacyjny))
+* [Liczby (arkusz kalkulacyjny) - Wikipedia](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))
 * [Liczby ożywiają Twoje dane](https://www.apple.com/numbers/)
 
 

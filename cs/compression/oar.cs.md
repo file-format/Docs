@@ -24,7 +24,7 @@ Soubor s příponou .oar je archivní soubor používaný aplikací OpenSimulato
 
 ## Formát souboru OAR
 
-OAR jsou binární soubory, které jsou uloženy ve formátu komprimovaného archivního souboru. Nejnovější verze formátu souboru OAR je [verze 1.0](http://opensimulator.org/wiki/OAR_Format_1.0), která má velké změny oproti předchozí [verze 0.8](http://opensimulator.org/wiki/OAR_Format_0 .8). Nejnovější verze podporuje ukládání více oblastí do jednoho OAR a není zpětně kompatibilní s verzemi OpenSimulatoru staršími než 0.7.5. Soubor OAR je soubor gzip tar (tar.gz) v původním unixovém formátu tar (ne USTAR).
+OAR jsou binární soubory, které jsou uloženy ve formátu komprimovaného archivního souboru. Nejnovější verze formátu souboru OAR je [verze 1.0](http://opensimulator.org/wiki/OAR_Format_1.0), která má velké změny oproti předchozí [verze 0.8](http://opensimulator.org/wiki/OAR_Format_0.8). Nejnovější verze podporuje ukládání více oblastí do jednoho OAR a není zpětně kompatibilní s verzemi OpenSimulatoru staršími než 0.7.5. Soubor OAR je soubor gzip tar (tar.gz) v původním unixovém formátu tar (ne USTAR).
 
 ## Příklad regionů OAR
 Soubory AOR mohou obsahovat více oblastí. Struktura archivu je následující (tento příklad obsahuje 4 oblasti):

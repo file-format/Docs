@@ -25,7 +25,7 @@ DjVu, [PDF](/tr/pdf/) için üstün bir alternatif olarak derecelendirilebilir. 
 
 ## Kısa Tarih ##
 
-DjVu teknolojisi AT&T laboratuvarlarında [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3%) tarafından geliştirilmiştir. A9on_Bottou), Patrick Haffner ve Paul G 1996'dan 2001'e kadar. DjVu dosya formatı, en sonuncusu 2005'ten olmak üzere çeşitli revizyonlardan geçti.
+DjVu teknolojisi AT&T laboratuvarlarında [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3%A9on_Bottou) tarafından geliştirilmiştir., Patrick Haffner ve Paul G 1996'dan 2001'e kadar. DjVu dosya formatı, en sonuncusu 2005'ten olmak üzere çeşitli revizyonlardan geçti.
 
 
 |Sürüm|Yayın tarihi|Notlar

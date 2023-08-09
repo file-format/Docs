@@ -94,7 +94,7 @@ class BaseVector {
 
 ## المرجعي ##
 
-* [NUT - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Squirrel_ (printing_language))
+* [NUT - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Squirrel_(programming_language))
 
 
 

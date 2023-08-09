@@ -26,5 +26,5 @@ FWTEMPLATE เป็นเอกสารเทมเพลตสำหรับ
 
 ## อ้างอิง
 
-* [การใช้เทมเพลตในทางด่วน](https://www.softpress.com/kb/questions/142/Using+Templates+in+Freeway)
+* N/A
 

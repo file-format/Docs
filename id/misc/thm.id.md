@@ -30,9 +30,9 @@ File THM berisi file XML, beberapa file gambar dalam format [.png](/id/image/png
 
 ## Bagaimana cara membuat Tema Sony Ericsson?
 
-Perangkat lunak Sony Themes Creator dapat digunakan untuk menghasilkan tema baru untuk ponsel Sony Ericsson. Pengguna dapat mengikuti Sony [Themes Creator Developer Guide](https://developer.sony.com/develop/theme-creator/get-started) untuk membuat tema.
+Perangkat lunak Sony Themes Creator dapat digunakan untuk menghasilkan tema baru untuk ponsel Sony Ericsson. Pengguna dapat mengikuti Sony [Themes Creator Developer Guide](https://developer.sony.com/theme-creator/get-started) untuk membuat tema.
 
 ## Referensi
 
-* [Panduan Pengembang Pembuat Tema Sony](https://developer.sony.com/develop/theme-creator/get-started)
+* [Panduan Pengembang Pembuat Tema Sony](https://developer.sony.com/theme-creator/get-started)
 

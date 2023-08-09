@@ -63,7 +63,7 @@ STL 및 기타와 같은 사용 가능한 모델 설명 파일 형식의 기존 
 |3D 텍스처|3D 모델 부품(확장에 사용 가능)에서 3D 개체에 색상을 적용하는 데 사용되는 텍스처를 포함합니다.|3D 모델|선택 사항
 |사용자 지정 부품|메타데이터와 연결된 OPC 부품|패키지|선택 사항
 
-[부품 및 관계](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-2-parts-and-relationships), [3D 모델](https:/ /github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-3-3d-models), [객체 리소스](https://github.com/3MFConsortium/spec_core/blob/master /3MF%20Core%20Specification.md#chapter-4-object-resources), [자료 자원](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-5 -material-resources) 및 [패키지 기능](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-6-3mf-document-package-features) 사양 섹션 문서 3MF 문서에 대한 자세한 정보를 제공합니다.
+[부품 및 관계](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-2-parts-and-relationships), [3D 모델](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-3-3d-models), [객체 리소스](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-4-object-resources), [자료 자원](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-5-material-resources) 및 [패키지 기능](https://github.com/3MFConsortium/spec_core/blob/master/3MF%20Core%20Specification.md#chapter-6-3mf-document-package-features) 사양 섹션 문서 3MF 문서에 대한 자세한 정보를 제공합니다.
 
 ## 참조 ##
 

@@ -23,5 +23,5 @@ Les fichiers avec l'extension .ceb (ebook chinois) sont connus sous le nom de **
 
 ## Références
 
-* [Iliade - par Wikipédia](https://en.wikipedia.org/wiki/ILiade)
+* [Iliade - par Wikipédia](https://en.wikipedia.org/wiki/ILiad)
 

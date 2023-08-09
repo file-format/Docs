@@ -25,7 +25,7 @@ DjVu สามารถให้คะแนนทางเลือกที่
 
 ## ประวัติย่อ ##
 
-เทคโนโลยี DjVu ได้รับการพัฒนาในห้องปฏิบัติการของ AT&T โดย [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3% A9on_Bottou), Patrick Haffner และ Paul G ตั้งแต่ปี 1996 ถึง 2001 รูปแบบไฟล์ DjVu ได้ผ่านการแก้ไขหลายครั้ง ล่าสุดคือตั้งแต่ปี 2005
+เทคโนโลยี DjVu ได้รับการพัฒนาในห้องปฏิบัติการของ AT&T โดย [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3%A9on_Bottou), Patrick Haffner และ Paul G ตั้งแต่ปี 1996 ถึง 2001 รูปแบบไฟล์ DjVu ได้ผ่านการแก้ไขหลายครั้ง ล่าสุดคือตั้งแต่ปี 2005
 
 
 |เวอร์ชัน|วันที่วางจำหน่าย|หมายเหตุ

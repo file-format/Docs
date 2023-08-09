@@ -26,5 +26,5 @@ CODASITE-projectbestand wordt op schijf opgeslagen als binaire bestanden in de m
 
 ## Referenties
 
-* [Coda-bestandssysteem](https://en.wikipedia.org/wiki/Coda_(bestandssysteem))
+* [Coda-bestandssysteem](https://en.wikipedia.org/wiki/Coda_(file_system))
 

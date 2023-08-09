@@ -73,5 +73,5 @@ Até agora, o JT Open Toolkit (como padrão) e a compactação avançada são du
 ## Referências ##
 
 * [Referência de formato de arquivo JT](https://www.plm.automation.siemens.com/en_us/Images/JT-v10-file-format-reference-rev-B_tcm1023-233786.pdf)
-* [JT (formato de visualização)](https://en.wikipedia.org/wiki/JT_(formato de visualização)#Data_model)
+* [JT (formato de visualização)](https://en.wikipedia.org/wiki/JT_(visualization_format)#Data_model)
 

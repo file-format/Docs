@@ -42,5 +42,5 @@ MOD هو تنسيق ملف كمبيوتر يستخدم وظيفته الأساس
 
 ## مراجع
 
-* [MOD (تنسيق الملف) - بواسطة Wikipedia](https://en.wikipedia.org/wiki/MOD_ (file_format))
+* [MOD (تنسيق الملف) - بواسطة Wikipedia](https://en.wikipedia.org/wiki/MOD_(file_format))
 

@@ -44,6 +44,6 @@ AAX هو تنسيق ملف Audiobook ، وهو ملف M4B بجودة عالية 
 
 ## مراجع ##
 
-* [مسموع (خدمة) - بواسطة ويكيبيديا](https://en.wikipedia.org/wiki/Audible_ (الخدمة))
+* [مسموع (خدمة) - بواسطة ويكيبيديا](https://en.wikipedia.org/wiki/Audible_(service))
 * [تنسيق ملف الصوت - بواسطة ويكيبيديا](https://en.wikipedia.org/wiki/Audio_file_format)
 

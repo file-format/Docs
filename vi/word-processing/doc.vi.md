@@ -128,5 +128,5 @@ Nếu có luồng này, thì Bộ lưu trữ Không gian Dữ liệu Quản lý 
 ## Người giới thiệu ##
 
 * [Thông số kỹ thuật tạo tệp MS-DOC](https://msdn.microsoft.com/en-us/library/cc313153(v#office.12).aspx)
-* [Doc máy tính](https://en.wikipedia.org/wiki/Doc_(máy tính))
+* [Doc máy tính](https://en.wikipedia.org/wiki/Doc_(computing))
 

@@ -26,4 +26,4 @@ FWTEMPLATE files are created and saved in Freeway proprietary file format. The r
 
 ## References
 
-* [Using Templates in Freeway](https://www.softpress.com/kb/questions/142/Using+Templates+in+Freeway)
+* N/A

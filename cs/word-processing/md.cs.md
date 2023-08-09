@@ -36,7 +36,7 @@ Markdown je nyní jedním z nejpopulárnějších značkovacích jazyků na svě
 
 John Gruber a Aaron Swartz v roce 2004 vytvořili jazyk Markdown s myšlenkou umožnit lidem „psát pomocí snadno čitelného a zapisovatelného formátu prostého textu as možností převodu do XHTML nebo HTML. Cílem za jeho designem je čitelnost – jazyk je čitelný tak, jak je, aniž by vypadal, jako by byl označen nebo přidán s pokyny pro formátování, jako je tomu ve značkovacích jazycích, jako je RTF nebo HTML, kde jsou značky a pokyny pro formátování zřejmé. Základní inspirací je použití stávajících konvencí pro označování prostého textu v e-mailu.
 
-Od té doby byl Markdown znovu implementován ostatními, stejně jako v [modulu] v Perlu (https://en.wikipedia.org/wiki/Modular_programming) dostupném na [CPAN](https://en.wikipedia.org/ wiki/CPAN) a v různých dalších programovacích jazycích. Je distribuován pod [licence ve stylu BSD](https://en.wikipedia.org/wiki/BSD_license) a je součástí nebo je dostupný jako plugin pro několik [systémů pro správu obsahu](https:// en.wikipedia.org/wiki/Content_management_system).
+Od té doby byl Markdown znovu implementován ostatními, stejně jako v [modulu](https://en.wikipedia.org/wiki/Modular_programming) v Perlu dostupném na [CPAN](https://en.wikipedia.org/wiki/CPAN) a v různých dalších programovacích jazycích. Je distribuován pod [licence ve stylu BSD](https://en.wikipedia.org/wiki/BSD_license) a je součástí nebo je dostupný jako plugin pro několik [systémů pro správu obsahu](https://en.wikipedia.org/wiki/Content_management_system).
 
 ## Technické specifikace
 

@@ -70,7 +70,7 @@ Mobipocket Reader có một thư viện trang chủ. Người đọc có thể c
 
 ## Người giới thiệu
 
-- [PRC - Wikipedia](https://vi.wikipedia.org/wiki/PRC_(file_format))
+- [PRC - Wikipedia](https://en.wikipedia.org/wiki/PRC_(file_format))
 - [Đặc tả định dạng PRC](https://web.archive.org/web/20081202034541/http://livedocs.adobe.com/acrobat_sdk/9/Acrobat9_HTMLHelp/API_References/PRCReference/PRC_Format_Specification/index.html)
 - [So sánh các định dạng sách điện tử - Theo Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_e-book_formats)
 

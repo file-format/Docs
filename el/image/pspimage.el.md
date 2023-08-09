@@ -36,5 +36,5 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Μετατροπή PSPIMAGE](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/mp/5288141)
+* [Μετατροπή PSPIMAGE](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/m-p/5288141)
 

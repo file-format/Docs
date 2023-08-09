@@ -70,7 +70,7 @@ Cititorul are un mod ecran complet pentru citire și suport pentru multe PDA-uri
 
 ## Referințe
 
-- [PRC - Wikipedia](https://en.wikipedia.org/wiki/PRC_(format_fișier))
+- [PRC - Wikipedia](https://en.wikipedia.org/wiki/PRC_(file_format))
 - [Specificație format PRC](https://web.archive.org/web/20081202034541/http://livedocs.adobe.com/acrobat_sdk/9/Acrobat9_HTMLHelp/API_References/PRCReference/PRC_Format_Specification/index.html)
 - [Comparație a formatelor de cărți electronice - De Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_e-book_formats)
 

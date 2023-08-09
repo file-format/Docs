@@ -37,7 +37,7 @@
 
 ## Swift Dosya Formatı - Daha Fazla Bilgi
 
-Swift dosyaları, herhangi bir metin düzenleyiciyle açılabilen düz metin dosyalarıdır. Swift dosyalarını açmak ve düzenlemek için kullanılan birincil metin düzenleyici, Apple'ın Xcode'udur. Swift'in birçok bölümü, C ve Objective-C kullanarak uygulama geliştirmeye aşinadır. Swift belgeleri, Swift kullanarak kod yazmak için ayrıntılı [uygulama geliştirme kılavuzu](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) sağlar.
+Swift dosyaları, herhangi bir metin düzenleyiciyle açılabilen düz metin dosyalarıdır. Swift dosyalarını açmak ve düzenlemek için kullanılan birincil metin düzenleyici, Apple'ın Xcode'udur. Swift'in birçok bölümü, C ve Objective-C kullanarak uygulama geliştirmeye aşinadır. Swift belgeleri, Swift kullanarak kod yazmak için ayrıntılı [uygulama geliştirme kılavuzu](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) sağlar.
 
 ## Swift Dil Özellikleri
 

@@ -77,5 +77,5 @@ EOF
 
 ## Препратки
 
-- [ARC (файлов формат) - Уикипедия](https://en.wikipedia.org/wiki/ARC_(файлов_формат))
+- [ARC (файлов формат) - Уикипедия](https://en.wikipedia.org/wiki/ARC_(file_format))
 

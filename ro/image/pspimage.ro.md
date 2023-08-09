@@ -36,5 +36,5 @@ Fișierele PSPIMAGE pot fi create ca fișier nou din PaintShop Pro. Datorită su
 
 ## Referințe
 
-* [Conversie PSPIMAGE](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/mp/5288141)
+* [Conversie PSPIMAGE](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/m-p/5288141)
 

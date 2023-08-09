@@ -74,5 +74,5 @@ Main-Class: com.example.MyClassName
 ## Hivatkozások
 
 * [A JAR-fájl áttekintése](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jarGuide.html)
-* [JAR fájlformátum](https://en.wikipedia.org/wiki/JAR_(file_format)#:~:text=A%20JAR%20(Java%20ARchive)%20is,into%20one%20file%20for% 20distribution.&text=Ezek%20are%20built%20on%20the,jar%20file%20extension.)
+* [JAR fájlformátum](https://en.wikipedia.org/wiki/JAR_(file_format))
 

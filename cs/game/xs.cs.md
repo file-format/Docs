@@ -34,5 +34,5 @@ Soubory XS se ukládají jako prosté textové soubory, které lze otevřít a u
 ## Reference
 
 * [Age of Empires III – Témata](https://github.com/topics/aoe)
-* [Fórum – Age of Empires III](https://forums.ageofempires.com/t/please-make-the-ai-fight-for-map-control-and-resources-long-post-but-worth- it/176307)
+* [Fórum – Age of Empires III](https://forums.ageofempires.com/t/please-make-the-ai-fight-for-map-control-and-resources-long-post-but-worth-it/176307)
 

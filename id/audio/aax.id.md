@@ -44,6 +44,6 @@ Tetapi Anda masih dapat menemukan banyak perangkat lunak lain yang dapat dengan 
 
 ## Referensi ##
 
-* [Terdengar (layanan) - Oleh Wikipedia](https://en.wikipedia.org/wiki/Audible_(layanan))
+* [Terdengar (layanan) - Oleh Wikipedia](https://en.wikipedia.org/wiki/Audible_(service))
 * [Format file audio - Oleh Wikipedia](https://en.wikipedia.org/wiki/Audio_file_format)
 

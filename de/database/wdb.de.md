@@ -33,5 +33,5 @@ Die Struktur der WDB-Datei ist unten angegeben:
 
 ## Verweise ##
 
-* [Benutzer:JesseW/wdb-Format](https://en.wikipedia.org/wiki/Benutzer:JesseW/wdb_format)
+* [Benutzer:JesseW/wdb-Format](https://en.wikipedia.org/wiki/User:JesseW/wdb_format)
 

@@ -28,5 +28,5 @@ SSF ファイルは、Trimble 独自のファイル形式としてディスク�
 
 ## 参考文献
 
-※【Trimbleニュースリリース】(https://www.trimble.com/news/release.aspx?id=050510b)
+* [Trimbleニュースリリース](https://www.trimble.com/news/release.aspx?id=050510b)
 

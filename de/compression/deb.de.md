@@ -46,6 +46,6 @@ Das Steuerarchiv kann folgende Inhalte enthalten.
 
 ## Verweise
 
-* [DEB - Wikipedia](https://en.wikipedia.org/wiki/Deb_(Dateiformat))
+* [DEB - Wikipedia](https://en.wikipedia.org/wiki/Deb_(file_format))
 * [Debian-Binärpaketformat](https://manpages.debian.org/buster/dpkg-dev/deb.5.en.html)
 

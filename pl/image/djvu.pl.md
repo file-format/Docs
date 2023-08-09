@@ -25,7 +25,7 @@ DjVu można ocenić jako lepszą alternatywę dla [PDF](/pl/pdf/). Rozszerzenia 
 
 ## Krótka historia ##
 
-Technologia DjVu została opracowana w laboratoriach AT&T przez [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3% A9on_Bottou), Patrick Haffner i Paul G od 1996 do 2001. Format pliku DjVu przeszedł różne wersje, z których ostatnia pochodzi z 2005 roku.
+Technologia DjVu została opracowana w laboratoriach AT&T przez [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Léon Bottou](https://en.wikipedia.org/wiki/L%C3%A9on_Bottou), Patrick Haffner i Paul G od 1996 do 2001. Format pliku DjVu przeszedł różne wersje, z których ostatnia pochodzi z 2005 roku.
 
 
 |Wersja|Data wydania|Uwagi

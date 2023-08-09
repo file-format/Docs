@@ -23,7 +23,7 @@
 
 ## NSF ファイル形式の仕様
 
-NSF ファイルは本質的にバイナリであり、その仕様は Joachim Metz によって [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%) で入手できます。 20file%20format.asciidoc)。これらの詳細に従って、NSF ファイルは次のもので構成されます。
+NSF ファイルは本質的にバイナリであり、その仕様は Joachim Metz によって [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc) で入手できます。これらの詳細に従って、NSF ファイルは次のもので構成されます。
 
 * ファイルヘッダー
 * データベース ヘッダー

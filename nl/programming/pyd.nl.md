@@ -32,5 +32,5 @@ Een PYD-bestand kan worden gemaakt door een module te maken met een naam, bijvoo
 ## Referenties ##
 
 * [Python-extensies maken in C/C++](https://sebsauvage.net/python/mingw.html)
-* [Python (programmeertaal) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programmeertaal))
+* [Python (programmeertaal) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 

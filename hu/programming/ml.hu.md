@@ -23,5 +23,5 @@ Az ML fájl egy szöveges fájl, amelyet az ML általános célú funkcionális 
 
 ## Hivatkozások
 
-* [ML programozási nyelv – a Wikipédia által](https://en.wikipedia.org/wiki/ML_(programozási_nyelv))
+* [ML programozási nyelv – a Wikipédia által](https://en.wikipedia.org/wiki/ML_(programming_language))
 

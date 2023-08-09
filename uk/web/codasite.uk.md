@@ -26,5 +26,5 @@
 
 ## Список літератури
 
-* [Файлова система Coda](https://en.wikipedia.org/wiki/Coda_(файлова_система))
+* [Файлова система Coda](https://en.wikipedia.org/wiki/Coda_(file_system))
 

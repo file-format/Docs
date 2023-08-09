@@ -77,5 +77,5 @@ EOF
 
 ## использованная литература
 
-- [ARC (формат файла) - Википедия](https://en.wikipedia.org/wiki/ARC_(формат_файла))
+- [ARC (формат файла) - Википедия](https://en.wikipedia.org/wiki/ARC_(file_format))
 

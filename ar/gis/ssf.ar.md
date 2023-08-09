@@ -28,5 +28,5 @@
 
 ## مراجع
 
-* [بيان صحفي تريمبل](https://www.trimble.com/news/release.aspx؟id=050510b)
+* [بيان صحفي تريمبل](https://www.trimble.com/news/release.aspx?id=050510b)
 

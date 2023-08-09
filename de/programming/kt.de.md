@@ -67,5 +67,5 @@ Kotlin ist eine offizielle Sprache zum Schreiben von Android-Apps mit vielen erw
 
 ## Verweise ##
 
-- [Kotlin (Programmiersprache) - Wikipedia](https://en.wikipedia.org/wiki/Kotlin_(Programmiersprache))
+- [Kotlin (Programmiersprache) - Wikipedia](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
 

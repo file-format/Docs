@@ -30,5 +30,5 @@ Tipul de fișier PYW este asociat în principal cu Python de către Python Softw
 ## Referințe
 
 * [Python Wiki](https://wiki.python.org/moin/Pyrex)
-* [Python (limbaj de programare) - Wikipedia](https://en.wikipedia.org/wiki/Python_(limbaj_de_programare))
+* [Python (limbaj de programare) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 

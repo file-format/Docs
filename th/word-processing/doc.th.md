@@ -128,5 +128,5 @@ Table Stream ต้องมีขนาดไม่เกิน 2147 MB
 ## อ้างอิง ##
 
 * [ข้อกำหนดการสร้างไฟล์ MS-DOC](https://msdn.microsoft.com/en-us/library/cc313153(v#office.12).aspx)
-* [คอมพิวเตอร์เอกสาร](https://en.wikipedia.org/wiki/Doc_(คอมพิวเตอร์))
+* [คอมพิวเตอร์เอกสาร](https://en.wikipedia.org/wiki/Doc_(computing))
 

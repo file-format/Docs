@@ -26,5 +26,5 @@ Fișierele FWTEMPLATE sunt create și salvate în format de fișier proprietar F
 
 ## Referințe
 
-* [Utilizarea șabloanelor în Freeway](https://www.softpress.com/kb/questions/142/Using+Templates+in+Freeway)
+* N/A
 

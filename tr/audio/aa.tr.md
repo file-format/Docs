@@ -44,5 +44,5 @@ Bu dosyalar çeşitli cihazlarla uyumlu olabilir. Bu dosyalar için oynatıcıla
 
 ## Referanslar ##
 
-* [AA - Wikipedia'dan](https://en.wikipedia.org/wiki/Audible_(hizmet))
+* [AA - Wikipedia'dan](https://en.wikipedia.org/wiki/Audible_(service))
 
