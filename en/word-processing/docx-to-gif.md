@@ -33,6 +33,8 @@ This will start the process of conversion of your DOCX file to GIF and a downloa
 
 ## Aspose.Words APIs
 
+[![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
+
 Aspose.Words is a set of APIs that are available for multiple programming languages including .NET, Java, Python and C++. As an application developer, you can use the APIs in any of these languages and manipulate Word documents. This variety of support for different programming languages gives you the opportunity to convert DOCX to GIF in any of these languages.
 
 ## Convert DOCX to GIF in .NET, Java, C++ and Python

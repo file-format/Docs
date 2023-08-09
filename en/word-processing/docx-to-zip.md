@@ -16,10 +16,6 @@
   "lastmod" : "2023-05-01"
 }
 
-## About DOCX to ZIP
-
-Microsoft Word 2007 and later uses DOCX as default file format for saving documents. It can contain thousands of words, images, media items, tables, and other relevant data. This makes the size of DOCX file very large and makes it difficult for sharing online via internet. This also takes large space when uploaded to a file storage medium online such as Google Drive or Dropbox. DOCX to ZIP resolves this issue as the DOCX file is converted to a compressed file with reduced file size. There are several online tools and apps that can convert DOCX to ZIP file format. Aspose.Words is one such app for conversion of [DOCX](/word-processing/docx/) to [ZIP](/compression/zip/).
-
 ## DOCX to ZIP Conversion - FREE DEMO
 
 You can use Aspose.Words conversion app for FREE to [convert DOCX to ZIP](https://products.aspose.app/words/conversion/docx-to-zip). Here are the steps you need to follow to convert your DOCX files to ZIP.
@@ -40,7 +36,13 @@ Aspose.Words APIs offer a variety of features that can be used by developers to 
  * Python
  * C++
 
+[![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
+
 This variety of support for different programming languages gives you the opportunity to convert DOCX to ZIP in any of these languages.
+
+## About DOCX to ZIP
+
+Microsoft Word 2007 and later uses DOCX as default file format for saving documents. It can contain thousands of words, images, media items, tables, and other relevant data. This makes the size of DOCX file very large and makes it difficult for sharing online via internet. This also takes large space when uploaded to a file storage medium online such as Google Drive or Dropbox. DOCX to ZIP resolves this issue as the DOCX file is converted to a compressed file with reduced file size. There are several online tools and apps that can convert DOCX to ZIP file format. Aspose.Words is one such app for conversion of [DOCX](/word-processing/docx/) to [ZIP](/compression/zip/).
 
 ## Convert DOCX to ZIP in .NET, Java, C++ and Python
 

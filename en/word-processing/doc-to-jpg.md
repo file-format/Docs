@@ -37,6 +37,8 @@ So, how you convert DOC to JPG? You can convert DOC to JPG file format using the
 
 ## Aspose.Words APIs
 
+[![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
+
 Aspose.Words suite of APIs lets any developer convert [DOC](/word-processing/doc/) to [JPG](/image/jpg/) format with just a few lines of code. It is available for many programming languages including C#, Java, Python and C++. In addition to DOCX, Aspose.Words APIs let you convert DOC files to many other popular file formats.
 
 ## Aspose.Words Resources

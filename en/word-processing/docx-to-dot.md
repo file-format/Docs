@@ -39,6 +39,8 @@ You can convert DOCX to DOT file format using the [Aspose.Words DOCX to DOT app]
 
 ## Aspose.Words APIs
 
+[![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
+
 [Aspose.Words](https://products.aspose.com/words/) is a set of APIs that lets any developer convert [DOCX](/word-processing/docx/) to [DOC](/word-processing/doc/) format using simple lines of code. It is available for many programming languages including [C#](/programming/cs/), [Java](/programming/java/), [Python](/programming/py/) and [C++](/programming/cpp/). In addition to DOT, Aspose.Words APIs let you convert DOCX files to many other popular file formats.
 
 ## References
