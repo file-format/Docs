@@ -23,7 +23,7 @@ En fil med tillägget .nsf (Notes Storage Facility) är ett databasfilformat som
 
 ## NSF filformatspecifikationer
 
-NSF-filer är binära till sin natur och deras specifikationer är tillgängliga av Joachim Metz på [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database% 20fil%20format.asciidoc). Enligt dessa detaljer består en NSF-fil av:
+NSF-filer är binära till sin natur och deras specifikationer är tillgängliga av Joachim Metz på [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc). Enligt dessa detaljer består en NSF-fil av:
 
 * Filhuvud
 * Databashuvud

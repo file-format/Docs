@@ -23,7 +23,7 @@ Az .nsf (Notes Storage Facility) kiterjesztésű fájl az [IBM Notes szoftver](h
 
 ## Az NSF fájlformátum specifikációi
 
-Az NSF-fájlok bináris jellegűek, és specifikációikat Joachim Metz a [Github] webhelyen (https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database% 20file%20format.asciidoc). Az alábbiak szerint egy NSF-fájl a következőket tartalmazza:
+Az NSF-fájlok bináris jellegűek, és specifikációikat Joachim Metz a [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc) webhelyen. Az alábbiak szerint egy NSF-fájl a következőket tartalmazza:
 
 * Fájl fejléc
 * Adatbázis fejléc

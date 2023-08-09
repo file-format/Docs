@@ -23,7 +23,7 @@ Een bestand met de extensie .nsf (Notes Storage Facility) is een databasebestand
 
 ## Specificaties NSF-bestandsindeling
 
-NSF-bestanden zijn binair van aard en hun specificaties zijn beschikbaar door Joachim Metz op [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database% 20file%20format.asciidoc). Volgens deze details bestaat een NSF-bestand uit:
+NSF-bestanden zijn binair van aard en hun specificaties zijn beschikbaar door Joachim Metz op [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc). Volgens deze details bestaat een NSF-bestand uit:
 
 * Bestandskoptekst
 * Databasekoptekst

@@ -23,7 +23,7 @@
 
 ## NSF फ़ाइल स्वरूप निर्दिष्टीकरण
 
-NSF फाइलें प्रकृति में द्विआधारी हैं और उनके विनिर्देश जोआचिम मेट्ज़ द्वारा [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database% पर उपलब्ध हैं। 20फ़ाइल%20format.asciidoc)। इन विवरणों के अनुसार, एक NSF फ़ाइल में निम्न शामिल हैं:
+NSF फाइलें प्रकृति में द्विआधारी हैं और उनके विनिर्देश जोआचिम मेट्ज़ द्वारा [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc) पर उपलब्ध हैं। इन विवरणों के अनुसार, एक NSF फ़ाइल में निम्न शामिल हैं:
 
 * फ़ाइल हैडर
 * डेटाबेस हैडर

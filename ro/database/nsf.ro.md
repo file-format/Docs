@@ -23,7 +23,7 @@ Un fișier cu extensia .nsf (Notes Storage Facility) este un format de fișier d
 
 ## Specificații de format de fișier NSF
 
-Fișierele NSF sunt de natură binară, iar specificațiile lor sunt disponibile de către Joachim Metz pe [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database% 20file%20format.asciidoc). Conform acestor detalii, un fișier NSF cuprinde:
+Fișierele NSF sunt de natură binară, iar specificațiile lor sunt disponibile de către Joachim Metz pe [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc). Conform acestor detalii, un fișier NSF cuprinde:
 
 * Antet fișier
 * Antetul bazei de date

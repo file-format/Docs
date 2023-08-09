@@ -23,7 +23,7 @@ Soubor s příponou .nsf (Notes Storage Facility) je formát databázového soub
 
 ## Specifikace formátu souborů NSF
 
-Soubory NSF jsou binární povahy a jejich specifikace jsou dostupné od Joachima Metze na [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database% 20file%20format.asciidoc). Podle těchto podrobností obsahuje soubor NSF:
+Soubory NSF jsou binární povahy a jejich specifikace jsou dostupné od Joachima Metze na [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc). Podle těchto podrobností obsahuje soubor NSF:
 
 * Záhlaví souboru
 * Záhlaví databáze

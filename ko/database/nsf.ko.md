@@ -23,7 +23,7 @@
 
 ## NSF 파일 형식 사양
 
-NSF 파일은 본질적으로 바이너리이며 해당 사양은 [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%)에서 Joachim Metz가 제공합니다. 20file%20format.asciidoc). 이러한 세부 정보에 따라 NSF 파일은 다음으로 구성됩니다.
+NSF 파일은 본질적으로 바이너리이며 해당 사양은 [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc) 에서 Joachim Metz가 제공합니다. 이러한 세부 정보에 따라 NSF 파일은 다음으로 구성됩니다.
 
 * 파일 헤더
 * 데이터베이스 헤더

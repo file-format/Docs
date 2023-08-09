@@ -23,7 +23,7 @@
 
 ## NSF 文件格式规范
 
-NSF 文件本质上是二进制文件，它们的规范由 Joachim Metz 在 [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database% 20file%20format.asciidoc)。根据这些详细信息，NSF 文件包括：
+NSF 文件本质上是二进制文件，它们的规范由 Joachim Metz 在 [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc)。根据这些详细信息，NSF 文件包括：
 
 * 文件头
 * 数据库头

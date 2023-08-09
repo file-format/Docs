@@ -23,7 +23,7 @@
 
 ## مواصفات تنسيق ملف NSF
 
-ملفات NSF ثنائية بطبيعتها وتتوفر مواصفاتها بواسطة Joachim Metz على [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes٪20Storage٪20Facility٪20 (NSF)٪ 20database٪ 20file٪ 20format.asciidoc). وفقًا لهذه التفاصيل ، يتكون ملف NSF من:
+ملفات NSF ثنائية بطبيعتها وتتوفر مواصفاتها بواسطة Joachim Metz على [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc). وفقًا لهذه التفاصيل ، يتكون ملف NSF من:
 
 * رأس الملف
 * رأس قاعدة البيانات
@@ -71,5 +71,5 @@
 
 ## مراجع
 
-* [تنسيق NSF - جيثب](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes٪20Storage٪20Facility٪20 (NSF)٪ 20database٪ 20file٪ 20format.asciidoc)
+* [تنسيق NSF - جيثب](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc)
 
