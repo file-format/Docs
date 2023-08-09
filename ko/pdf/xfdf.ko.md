@@ -33,6 +33,6 @@ XFDF 파일은 데이터 가져오기 및 내보내기에 사용되는 범용 �
 
 ## 참고문헌
 
-* [Acrobat의 FDF 형식 지원](https://helpx.adobe.com/coldfusion/develping-applications/working-with-documents-charts-and-reports/assembly-pdf-documents/fdf-format-support-for -acroforms.html)
+* [Acrobat의 FDF 형식 지원](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
 * [Adobe 개발자 리소스](https://opensource.adobe.com/dc-acrobat-sdk-docs/)
 

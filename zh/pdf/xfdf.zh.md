@@ -33,6 +33,6 @@ XFDF 文件以 XML 文件格式保存，该格式是用于导入和导出数据�
 
 ## 参考
 
-* [Acrobat 支持的 FDF 格式](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assemble-pdf-documents/fdf-format-support-for -acroforms.html)
+* [Acrobat 支持的 FDF 格式](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
 * [Adobe 开发人员资源](https://opensource.adobe.com/dc-acrobat-sdk-docs/)
 
