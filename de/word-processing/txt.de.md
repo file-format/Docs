@@ -37,5 +37,5 @@ Alle diese Systeme definieren eine Textdatei als eine Datei, deren Zeichen in nu
 
 ## Verweise ##
 
-* [TXT-Dateiformat](https://en.wikipedia.org/wiki/Textdatei)
+* [TXT-Dateiformat](https://en.wikipedia.org/wiki/Text_file)
 
