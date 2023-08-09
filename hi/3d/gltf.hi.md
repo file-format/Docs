@@ -67,6 +67,6 @@ glTF JSON फ़ाइल प्रारूप पर अतिरिक्त 
 
 ## संदर्भ ##
 
-* [glTF 2.0 स्पेसिफिकेशंस - ख्रोनोस](https://github.com/KhronasGroup/glTF)
+* [glTF 2.0 स्पेसिफिकेशंस - ख्रोनोस](https://github.com/KhronosGroup/glTF)
 * [glTF फ़ाइल प्रारूप - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/GlTF)
 
