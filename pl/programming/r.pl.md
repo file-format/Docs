@@ -151,7 +151,7 @@ F-statistic: 91.88 on 1 and 4 DF,  p-value: 0.000662
 
 ## Odniesienie ##
 
-* [R – z Wikipedii](https://en.wikipedia.org/wiki/R_(język_programowania))
+* [R – z Wikipedii](https://en.wikipedia.org/wiki/R_(programming_language))
 
 
 
