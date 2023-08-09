@@ -37,6 +37,6 @@ Aceste fișiere VHD pot fi schimbate cu ușurință de pe hard diskul virtual la
 
 ## Referințe ##
 
-* [VHD - de la Wikipedia](https://en.wikipedia.org/wiki/VHD_(format_fișier))
+* [VHD - de la Wikipedia](https://en.wikipedia.org/wiki/VHD_(file_format))
 
 

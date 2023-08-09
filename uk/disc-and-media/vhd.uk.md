@@ -37,6 +37,6 @@ VHD є абревіатурою Virtual Hard Disk. Це формати файл�
 
 ## Посилання ##
 
-* [VHD - від Вікіпедії](https://en.wikipedia.org/wiki/VHD_(формат_файлу))
+* [VHD - від Вікіпедії](https://en.wikipedia.org/wiki/VHD_(file_format))
 
 

@@ -37,6 +37,6 @@ Dessa VHD-filer kan enkelt utbytas från den virtuella hårddisken till värdens
 
 ## Referenser ##
 
-* [VHD - av Wikipedia](https://en.wikipedia.org/wiki/VHD_(filformat))
+* [VHD - av Wikipedia](https://en.wikipedia.org/wiki/VHD_(file_format))
 
 
