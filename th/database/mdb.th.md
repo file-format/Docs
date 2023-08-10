@@ -39,6 +39,6 @@
 
 ## อ้างอิง ##
 
-* [ข้อกำหนดการเข้าถึง](https://support.microsoft.com/en-us/office/access- specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
+* [ข้อกำหนดการเข้าถึง](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
 * [คู่มือ MDB อย่างไม่เป็นทางการ](http://jabakobob.net/mdb/)
 

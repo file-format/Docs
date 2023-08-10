@@ -39,6 +39,6 @@ MDB 形式には公開仕様があり、Microsoft 独自のファイル形式の
 
 ## 参照 ##
 
-※【アクセス仕様】(https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
+* [アクセス仕様](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
 * [非公式 MDB ガイド](http://jabakobob.net/mdb/)
 
