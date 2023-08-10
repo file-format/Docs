@@ -52,5 +52,5 @@ Tiêu đề lưu trữ là 10 byte và được cấu trúc như sau.
 ## Người giới thiệu
 
 * [Thông số định dạng tệp PEA](https://peazip.github.io/pea_help.pdf)
-* [Định dạng tệp PEA](https://peazip.github.io/pea-file-format.html#.pea_specations)
+* [Định dạng tệp PEA](https://peazip.github.io/pea-file-format.html#.pea_specifications)
 

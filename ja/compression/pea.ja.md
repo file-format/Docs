@@ -51,6 +51,6 @@ PEA ファイルは、EAX または HMAC モードで AES を使用するオプ�
 
 ## 参考文献
 
-※【PEAファイル形式仕様】(https://peazip.github.io/pea_help.pdf)
+* [PEAファイル形式仕様](https://peazip.github.io/pea_help.pdf)
 * [PEA ファイル形式](https://peazip.github.io/pea-file-format.html#.pea_specifications)
 
