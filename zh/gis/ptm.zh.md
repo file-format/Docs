@@ -26,6 +26,6 @@ PTM 归档格式是专有文件格式，.ptm 文件的内部文件结构未公�
 
 ## 参考 ＃＃
 
-* [PTM 文件](https://social.microsoft.com/Forums/zh-CN/home?forum=streetsandtrips)
+* [PTM 文件](https://social.microsoft.com/Forums/en-US/home?forum=streetsandtrips)
 * [MapPoint 替代品](https://www.microsoft.com/en-us/maps/mappoint-alternatives)
 
