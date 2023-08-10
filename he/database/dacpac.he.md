@@ -20,7 +20,7 @@
 ## מהו קובץ DACPAC?
 
 קובץ עם סיומת .dacpac (המשמעות של Data Tier AppliCation Package) הוא קובץ מסד נתונים, שנוצר עם יישום שכבת הנתונים של Microsoft SQL Server, המכיל את מודל מסד הנתונים לייצוג של אובייקטי מסד נתונים. מכיוון שהוא מכיל את המודל המלא של מסד הנתונים, הוא משמש לשחזור מסד נתונים מהפרטים הזמינים במודל. קבצי DACPAC נמסרים בדרך כלל לצוותי פריסה להתקנה בחצרים של הלקוח כדי לשחזר מסד נתונים. אלה ניתן לפתוח עם
-[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-XSp30B6cXpiTS89eo =1&OCID=AID2200057_aff_7593_1243925&tduid=%28ir__gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00%29%287593%29%281243925%29%284LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw%29%28%29&irclickid=_gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00).
+[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019).
 
 ## פורמט קובץ DACPAC - מידע נוסף
 

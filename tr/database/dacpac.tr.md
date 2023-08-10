@@ -20,7 +20,7 @@
 ## DACPAC dosyası nedir?
 
 .dacpac (Veri Katmanı Uygulama Paketi anlamına gelir) uzantılı bir dosya, Microsoft SQL Server veri katmanı uygulamasıyla oluşturulan ve veritabanı nesnelerinin temsili için veritabanı modelini içeren bir veritabanı dosyasıdır. Veritabanının tüm modelini içerdiğinden, modelde bulunan ayrıntılardan bir veritabanını geri yüklemek için kullanılır. DACPAC dosyaları, veritabanını geri yüklemek için genellikle müşterinin tesislerinde kurulum için dağıtım ekiplerine teslim edilir. Bunlar ile açılabilir
-[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw&epi=4LioSo.jxMc-XSpw90p30B6cXpi=4LioSo. =1&OCID=AID2200057_aff_7593_1243925&tduid=%28ir__gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00%29%287593%29%281243925%29%284LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw%29%28%29&irclickid=_gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00).
+[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019).
 
 ## DACPAC Dosya Biçimi - Daha Fazla Bilgi
 

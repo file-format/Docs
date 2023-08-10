@@ -20,7 +20,7 @@
 ## Mi az a DACPAC fájl?
 
 A .dacpac kiterjesztésű fájl (a Data Tier AppliCation Package rövidítése) olyan adatbázisfájl, amelyet a Microsoft SQL Server adatréteg-alkalmazással hoztak létre, és amely tartalmazza az adatbázis-objektumok ábrázolására szolgáló adatbázismodellt. Mivel az adatbázis teljes modelljét tartalmazza, a modellben elérhető adatokból egy adatbázis visszaállítására szolgál. A DACPAC fájlokat rendszerint átadják a telepítési csoportoknak, hogy az adatbázis visszaállítása érdekében az ügyfél telephelyén telepítsék őket. Ezekkel lehet kinyitni
-[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-XSp30-TSzwSc0BB-XSp30B6cXjwopx06pYts89B6cXjwoxi =1&OCID=AID2200057_aff_7593_1243925&tduid=%28ir__gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00%29%287593%29%281243925%29%284LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw%29%28%29&irclickid=_gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00).
+[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019).
 
 ## DACPAC fájlformátum – További információ
 

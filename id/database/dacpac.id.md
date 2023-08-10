@@ -20,7 +20,7 @@
 ## Apa itu file DACPAC?
 
 File dengan ekstensi .dacpac (singkatan dari Data Tier AppliCation Package) adalah file database, dibuat dengan aplikasi data tier Microsoft SQL Server, yang berisi model database untuk representasi objek database. Karena berisi model database yang lengkap, ini digunakan untuk memulihkan database dari detail yang tersedia di model. File DACPAC biasanya diserahkan ke tim penerapan untuk dipasang di lokasi pelanggan guna memulihkan database. Ini bisa dibuka dengan
-[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw&epi=4LioSo.jxMc-XSp30B6cXpiTSw&wo0jcYz =1&OCID=AID2200057_aff_7593_1243925&tduid=%28ir__gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00%29%287593%29%281243925%29%284LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw%29%28%29&irclickid=_gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00).
+[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019).
 
 ## Format File DACPAC - Informasi Lebih Lanjut
 

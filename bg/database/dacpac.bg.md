@@ -20,7 +20,7 @@
 ## Какво е DACPAC файл?
 
 Файл с разширение .dacpac (съкращение от Data Tier AppliCation Package) е файл на база данни, създаден с приложение за ниво на данни на Microsoft SQL Server, който съдържа модела на базата данни за представяне на обекти на база данни. Тъй като съдържа пълния модел на базата данни, той се използва за възстановяване на база данни от детайлите, налични в модела. DACPAC файловете обикновено се предават на екипите за внедряване за инсталиране в помещенията на клиента за възстановяване на база данни. Те могат да се отварят с
-[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw&epi=4LioSoirXyz8B96cX0Sp =1&OCID=AID2200057_aff_7593_1243925&tduid=%28ir__gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00%29%287593%29%281243925%29%284LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw%29%28%29&irclickid=_gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00).
+[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019).
 
 ## DACPAC файлов формат - повече информация
 
