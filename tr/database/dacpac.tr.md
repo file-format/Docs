@@ -53,7 +53,7 @@ DACPAC'ın DATA ve diğer sunucu düzeyinde nesneleri içermediğine dikkat edil
 
 ## Referanslar
 
-* [Veri Katmanı Uygulamaları - Avantajlar](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
+* [Veri Katmanı Uygulamaları - Avantajlar](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [Veri Katmanı Uygulamasını Dağıtma - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
 * [DACPAC Dosyası nasıl oluşturulur?](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
 

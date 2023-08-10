@@ -53,7 +53,7 @@ Det bör noteras att DACPAC inte innehåller DATA och andra objekt på serverniv
 
 ## Referenser
 
-* [Data Tier Applications - Benefits](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
+* [Data Tier Applications - Benefits](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [Deploying a Data Tier Application - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
 * [Hur skapar man DACPAC-fil?](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
 

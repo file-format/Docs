@@ -53,7 +53,7 @@ Es ist anzumerken, dass DACPAC keine DATA und andere Objekte auf Serverebene ent
 
 ## Verweise
 
-* [Anwendungen auf Datenebene – Vorteile](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
+* [Anwendungen auf Datenebene – Vorteile](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [Bereitstellen einer Datenebenenanwendung – Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
 * [Wie erstelle ich eine DACPAC-Datei?](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
 

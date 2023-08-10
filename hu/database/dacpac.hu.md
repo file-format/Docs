@@ -53,7 +53,7 @@ Meg kell jegyezni, hogy a DACPAC nem tartalmaz DATA-t és egyéb szerverszintű 
 
 ## Hivatkozások
 
-* [Data Tier Applications – Előnyök](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
+* [Data Tier Applications – Előnyök](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [Adatszintű alkalmazás telepítése – Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
 * [Hogyan hozhatunk létre DACPAC-fájlt?](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
 

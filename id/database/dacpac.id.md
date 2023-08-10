@@ -53,7 +53,7 @@ Perlu dicatat bahwa DACPAC tidak berisi DATA dan objek tingkat server lainnya. F
 
 ## Referensi
 
-* [Aplikasi Tingkat Data - Manfaat](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
+* [Aplikasi Tingkat Data - Manfaat](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [Menerapkan Aplikasi Tingkat Data - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
 * [Bagaimana cara membuat File DACPAC?](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
 
