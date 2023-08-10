@@ -27,5 +27,5 @@ Soubory RFT jsou soubory šablon rodiny, které lze buď načíst (spolu se soub
 
 ## Reference
 
-* [Typy souborů Revit](https://knowledge.autodesk.com/support/revit/learn-explore/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
+* [Typy souborů Revit](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
 

@@ -45,6 +45,6 @@
 
 ## مراجع ##
 
-* [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html؟highlight=ipynb#notebook-documents)
+* [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html?highlight=ipynb#notebook-documents)
 * [Jupyter Notebook - Github](https://github.com/jupyter/notebook)
 

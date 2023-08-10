@@ -20,7 +20,7 @@
 ## 什么是一 .DACPAC 文件？
 
 带有 .dacpac（代表数据层应用程序包）扩展名的文件是一个数据库文件，由 Microsoft SQL Server 数据层应用程序创建，其中包含用于表示数据库对象的数据库模型。由于它包含数据库的完整模型，因此它用于从模型中可用的详细信息中恢复数据库。 DACPAC 文件通常移交给部署团队，以便在客户场所安装以恢复数据库。这些可以打开
-[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw&epi=4LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw&ir =1&OCID=AID2200057_aff_7593_1243925&tduid=%28ir__gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00%29%287593%29%281243925%29%284LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw%29%28%29&irclickid=_gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00).
+[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019).
 
 ## DACPAC 文件格式 - 更多信息
 
@@ -53,7 +53,7 @@ xmlns="http://schemas.openxmlformats.org/package/2006/content-types">
 
 ## 参考
 
-* [数据层应用程序 - 好处](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
+* [数据层应用程序 - 好处](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [部署数据层应用程序 - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
-* [如何创建 DACPAC 文件？](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
+* [如何创建 DACPAC 文件？](https://azureplayer.net/2018/10/how-to-create-dacpac-file/)
 

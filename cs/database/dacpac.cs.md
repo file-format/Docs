@@ -20,7 +20,7 @@
 ## Co je soubor DACPAC?
 
 Soubor s příponou .dacpac (zkratka pro Data Tier AppliCation Package) je databázový soubor vytvořený aplikací datové vrstvy Microsoft SQL Server, který obsahuje databázový model pro reprezentaci databázových objektů. Protože obsahuje kompletní model databáze, používá se k obnovení databáze z podrobností dostupných v modelu. Soubory DACPAC jsou obvykle předány týmům pro nasazení k instalaci v prostorách zákazníka za účelem obnovení databáze. Ty lze otevřít pomocí
-[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-XSp30B6cXjwopiTS89-Ye =1&OCID=AID2200057_aff_7593_1243925&tduid=%28ir__gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00%29%287593%29%281243925%29%284LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw%29%28%29&irclickid=_gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00).
+[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019).
 
 ## Formát souboru DACPAC – Další informace
 
@@ -53,7 +53,7 @@ Je třeba poznamenat, že DACPAC neobsahuje DATA a další objekty na úrovni se
 
 ## Reference
 
-* [Aplikace datové úrovně – výhody](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
+* [Aplikace datové úrovně – výhody](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [Nasazení aplikace datové vrstvy – Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
-* [Jak vytvořit soubor DACPAC?](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
+* [Jak vytvořit soubor DACPAC?](https://azureplayer.net/2018/10/how-to-create-dacpac-file/)
 

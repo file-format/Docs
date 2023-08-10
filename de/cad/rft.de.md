@@ -27,5 +27,5 @@ RFT-Dateien sind Familienvorlagendateien, die entweder (zusammen mit RFA-Dateien
 
 ## Verweise
 
-* [Revit-Dateitypen](https://knowledge.autodesk.com/support/revit/learn-explore/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
+* [Revit-Dateitypen](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
 

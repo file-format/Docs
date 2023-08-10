@@ -84,6 +84,5 @@ simutrans_src
 
 ## βιβλιογραφικές αναφορές
 
-* https://simutrans-germany.com/wiki/wiki/en_doPak
-* https://en.wikipedia.org/wiki/Simutrans
+* [Simutrans](https://en.wikipedia.org/wiki/Simutrans)
 

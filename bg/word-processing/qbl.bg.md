@@ -32,5 +32,5 @@ QBL файлът съдържа два вида информация.
 ## Препратки
 
 * [QuickBooks от Intuit](https://quickbooks.intuit.com/)
-* [QuickBooks - Генериране на файла qbregistration.dat](https://quickbooks.intuit.com/learn-support/en-us/license-information/create-or-re-create-the-qbregistration-dat-file/ 00/186082)
+* [QuickBooks - Генериране на файла qbregistration.dat](https://quickbooks.intuit.com/learn-support/en-us/help-article/license-information/create-create-qbregistration-dat-file/L7S5BwSst_US_en_US)
 

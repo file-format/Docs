@@ -27,5 +27,5 @@ RFT файловете са семейни шаблонни файлове, ко
 
 ## Препратки
 
-* [Типове файлове в Revit](https://knowledge.autodesk.com/support/revit/learn-explore/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
+* [Типове файлове в Revit](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
 

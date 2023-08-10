@@ -27,5 +27,5 @@ RFT फ़ाइलें पारिवारिक टेम्पलेट �
 
 ## संदर्भ
 
-* [फ़ाइल प्रकार फिर से भेजें](https://knowledge.autodesk.com/support/revit/learn-explore/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
+* [फ़ाइल प्रकार फिर से भेजें](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
 

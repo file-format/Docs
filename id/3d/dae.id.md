@@ -19,7 +19,7 @@
 
 ## Apa itu file DAE?
 
-File DAE adalah format file Pertukaran Aset Digital yang digunakan untuk bertukar data antara aplikasi 3D interaktif. Format file ini didasarkan pada skema XML COLLADA (COLLAborative Design Activity) yang merupakan skema XML standar terbuka untuk pertukaran aset digital di antara aplikasi perangkat lunak grafis. Ini telah diadopsi oleh ISO sebagai spesifikasi yang tersedia untuk umum, ISO/pAS 17506. File DAE dapat dibuka di aplikasi seperti Adobe Photoshop, AutoDesk Maya, AutoDesk AutoCAD, dan API seperti [Aspose.CAD](https://products .aspose.com/cad).
+File DAE adalah format file Pertukaran Aset Digital yang digunakan untuk bertukar data antara aplikasi 3D interaktif. Format file ini didasarkan pada skema XML COLLADA (COLLAborative Design Activity) yang merupakan skema XML standar terbuka untuk pertukaran aset digital di antara aplikasi perangkat lunak grafis. Ini telah diadopsi oleh ISO sebagai spesifikasi yang tersedia untuk umum, ISO/pAS 17506. File DAE dapat dibuka di aplikasi seperti Adobe Photoshop, AutoDesk Maya, AutoDesk AutoCAD, dan API seperti [Aspose.CAD](https://products.aspose.com/cad/).
 
 ## Format File DAE
 

@@ -27,5 +27,5 @@ Los archivos RFT son archivos de plantilla de familia que pueden cargarse (junto
 
 ## Referencias
 
-* [Tipos de archivos de Revit](https://knowledge.autodesk.com/support/revit/learn-explore/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
+* [Tipos de archivos de Revit](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
 

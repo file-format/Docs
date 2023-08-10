@@ -29,8 +29,8 @@ OSZ 文件类型的内部文件格式详细信息不公开。它包含 [ZIP](/zh
 
 ## 如何创建 OSZ 文件？
 
-俄勒冈州立大学！有关于[创建 OSZ] 的详细说明(https://osu.ppy.sh/wiki/en/Client/File_formats#creating-.osz-and-.osk-files
-) 和 OSK 文件。以下步骤可用于使用 OSU! 创建 OSZ 文件。
+俄勒冈州立大学！有关于[创建 OSZ](https://osu.ppy.sh/wiki/en/Client/File_formats#creating-.osz-and-.osk-files) 的详细说明
+ 和 OSK 文件。以下步骤可用于使用 OSU! 创建 OSZ 文件。
 
 1. 通过编辑器打开谱面。
 1. 从顶部菜单中，选择文件 > 导出包...。
@@ -39,5 +39,3 @@ OSZ 文件类型的内部文件格式详细信息不公开。它包含 [ZIP](/zh
 ## 参考
 
 * [俄勒冈州立大学！节奏游戏](https://osu.ppy.sh/home)
-* [OSZ 文件格式](https://osu.ppy.sh/wiki/en/Client/File_formats/Osz_%28file_format%29https://osu.ppy.sh/wiki/en/Client/File_formats/Osr_%28file_format %29#数据类型）
-

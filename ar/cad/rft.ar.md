@@ -27,5 +27,5 @@
 
 ## مراجع
 
-* [أنواع ملفات Revit](https://knowledge.autodesk.com/support/revit/learn-explore/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
+* [أنواع ملفات Revit](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
 

@@ -38,6 +38,5 @@ OSZ ファイル タイプの内部ファイル形式の詳細は公開されて
 
 ## 参考文献
 
-※【押忍！リズムゲーム】(https://osu.ppy.sh/home)
-* [OSZ ファイル形式](https://osu.ppy.sh/wiki/en/Client/File_formats/Osz_%28file_format%29https://osu.ppy.sh/wiki/en/Client/File_formats/Osr_%28file_format %29#データ型)
+* [押忍！リズムゲーム](https://osu.ppy.sh/home)
 

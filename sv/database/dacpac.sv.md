@@ -20,7 +20,7 @@
 ## Vad är en DACPAC fil?
 
 En fil med tillägget .dacpac (står för Data Tier AppliCation Package) är en databasfil, skapad med Microsoft SQL Server-applikationen för datanivåer, som innehåller databasmodellen för representation av databasobjekt. Eftersom den innehåller hela modellen av databasen, används den för att återställa en databas från den information som finns tillgänglig i modellen. DACPAC-filer överlämnas vanligtvis till distributionsteam för installation i kundens lokaler för att återställa databasen. Dessa kan öppnas med
-] =1&OCID=AID2200057_aff_7593_1243925&tduid=%28ir__gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00%29%287593%29%281243925%29%284LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw%29%28%29&irclickid=_gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00).
+[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019).
 
 ## DACPAC-filformat - Mer information
 
@@ -53,7 +53,7 @@ Det bör noteras att DACPAC inte innehåller DATA och andra objekt på serverniv
 
 ## Referenser
 
-* [Data Tier Applications - Benefits](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
+* [Data Tier Applications - Benefits](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [Deploying a Data Tier Application - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
-* [Hur skapar man DACPAC-fil?](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
+* [Hur skapar man DACPAC-fil?](https://azureplayer.net/2018/10/how-to-create-dacpac-file/)
 

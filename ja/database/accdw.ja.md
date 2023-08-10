@@ -27,8 +27,7 @@ ACCDW ファイルは、Access Services がホストされている SharePoint �
 
 ## 参考文献
 
-* [ダウンロードした .accdw ファイル](https://learn.microsoft.com/en-us/shows/)
-* [Access 2016 仕様](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c?ui=en-us&rs=en-us&ad=us)
-* [.accdw ファイルのダウンロード](https://social.technet.microsoft.com/Forums/en-US/7bf02e9e-6246-44da-9513-4cf8f2cc2fb2/downloaded-accdw-file?forum=sharepointgeneral前)
-* [どの Access ファイル形式を使用すればよいですか?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617- be66f9070b41?ui=en-us&rs=en-us&ad=us)
+* [Access 2016 仕様](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
+* [.accdw ファイルのダウンロード](https://social.technet.microsoft.com/Forums/en-US/7bf02e9e-6246-44da-9513-4cf8f2cc2fb2/downloaded-accdw-file)
+* [どの Access ファイル形式を使用すればよいですか?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

@@ -22,7 +22,7 @@ PYC ファイルは、Python プログラミング言語で記述されたソー
 
 ## PYC ファイル形式の構造
 
-PYC ファイルはバイトコードであり、そのファイル形式の仕様は公開されていません。ただし、一部のソースによる調査では、[PYC ファイルの構造](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A% 20marshalled%20code%20object.) は次のもので構成されます。
+PYC ファイルはバイトコードであり、そのファイル形式の仕様は公開されていません。ただし、一部のソースによる調査では、[PYC ファイルの構造](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html) は次のもので構成されます。
 
 * `4 バイトのマジック番号`r - マーシャリング コードが変更されるたびに変化する単純な 2 バイトと、2 バイトの 0d0a。
 * `4 バイトの変更タイムスタンプ` - ソースが変更された場合に再コンパイルできるように、.pyc を生成したソース ファイルの Unix 変更タイムスタンプ。
@@ -30,5 +30,5 @@ PYC ファイルはバイトコードであり、そのファイル形式の仕�
 
 ## 参考文献
 
-* [.pyc ファイルの構造](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A%20marshalled%20code%20object.)
+* [.pyc ファイルの構造](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html)
 

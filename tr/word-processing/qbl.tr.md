@@ -32,5 +32,5 @@ Bir QBL dosyası iki tür bilgi içerir.
 ## Referanslar
 
 * [Intuit'ten QuickBooks](https://quickbooks.intuit.com/)
-* [QuickBooks - qbregistration.dat dosyası oluşturuluyor](https://quickbooks.intuit.com/learn-support/en-us/license-information/create-or-re-create-the-qbregistration-dat-file/ 00/186082)
+* [QuickBooks - qbregistration.dat dosyası oluşturuluyor](https://quickbooks.intuit.com/learn-support/en-us/help-article/license-information/create-create-qbregistration-dat-file/L7S5BwSst_US_en_US)
 

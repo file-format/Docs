@@ -27,5 +27,5 @@ RFT 文件是族模板文件，可以（与 RFA 文件一起）加载到项目�
 
 ## 参考
 
-* [Revit 文件类型](https://knowledge.autodesk.com/support/revit/learn-explore/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
+* [Revit 文件类型](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
 

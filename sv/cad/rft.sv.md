@@ -27,5 +27,5 @@ RFT-filer är familjemallfiler som antingen kan laddas (tillsammans med RFA-file
 
 ## Referenser
 
-* [Revit-filtyper](https://knowledge.autodesk.com/support/revit/learn-explore/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
+* [Revit-filtyper](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
 

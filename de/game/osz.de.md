@@ -29,8 +29,7 @@ Die internen Dateiformatdetails von OSZ-Dateitypen sind nicht öffentlich verfü
 
 ## Wie erstelle ich eine OSZ-Datei?
 
-OSU! enthält detaillierte Anweisungen zum [Erstellen von OSZ](https://osu.ppy.sh/wiki/en/Client/File_formats#creating-.osz-and-.osk-files
-) und OSK-Dateien. Die folgenden Schritte können verwendet werden, um eine OSZ-Datei mit OSU! zu erstellen.
+OSU! enthält detaillierte Anweisungen zum [Erstellen von OSZ](https://osu.ppy.sh/wiki/en/Client/File_formats#creating-.osz-and-.osk-files) und OSK-Dateien. Die folgenden Schritte können verwendet werden, um eine OSZ-Datei mit OSU! zu erstellen.
 
 1. Öffnen Sie eine Beatmap über den Editor.
 1. Wählen Sie im oberen Menü Datei > Paket exportieren....
@@ -39,5 +38,4 @@ OSU! enthält detaillierte Anweisungen zum [Erstellen von OSZ](https://osu.ppy.s
 ## Verweise
 
 * [OSU! Rhythmusspiel](https://osu.ppy.sh/home)
-* [OSZ-Dateiformat](https://osu.ppy.sh/wiki/en/Client/File_formats/Osz_%28file_format%29https://osu.ppy.sh/wiki/en/Client/File_formats/Osr_%28file_format %29#Datentypen)
 

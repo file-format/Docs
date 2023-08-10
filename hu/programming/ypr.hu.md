@@ -18,7 +18,7 @@
 
 ## Mi az YPR fájl?
 
-Az YPR-fájl a BYOB (Build Your Own Blocks) vizuális programozási környezet által létrehozott projektfájl. Információkat tartalmaz a blokkok vizuális elrendezéséről és a blokkok közötti munkafolyamatok programozásáról. Ezek a blokkok együttesen határozzák meg az alkalmazási program általános adatait és logikáját. Az YPR projektfájl tartalmazza az összes többi kapcsolódó információt a projektek mentéséhez és betöltéséhez. A BYOB eredetileg az MIT Scratch szoftverének kiterjesztése volt (az MIT Media Lab Lifelong Kindergarten Group projektje), most pedig [Snap] néven fejlesztik (https://snap.berkeley.edu/about).
+Az YPR-fájl a BYOB (Build Your Own Blocks) vizuális programozási környezet által létrehozott projektfájl. Információkat tartalmaz a blokkok vizuális elrendezéséről és a blokkok közötti munkafolyamatok programozásáról. Ezek a blokkok együttesen határozzák meg az alkalmazási program általános adatait és logikáját. Az YPR projektfájl tartalmazza az összes többi kapcsolódó információt a projektek mentéséhez és betöltéséhez. A BYOB eredetileg az MIT Scratch szoftverének kiterjesztése volt (az MIT Media Lab Lifelong Kindergarten Group projektje), most pedig [Snap](https://snap.berkeley.edu/about) néven fejlesztik.
 
 ## YPR fájlformátum – További információ
 

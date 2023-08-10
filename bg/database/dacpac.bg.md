@@ -20,7 +20,7 @@
 ## Какво е DACPAC файл?
 
 Файл с разширение .dacpac (съкращение от Data Tier AppliCation Package) е файл на база данни, създаден с приложение за ниво на данни на Microsoft SQL Server, който съдържа модела на базата данни за представяне на обекти на база данни. Тъй като съдържа пълния модел на базата данни, той се използва за възстановяване на база данни от детайлите, налични в модела. DACPAC файловете обикновено се предават на екипите за внедряване за инсталиране в помещенията на клиента за възстановяване на база данни. Те могат да се отварят с
-[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw&epi=4LioSoirXyz8B96cX0Sp =1&OCID=AID2200057_aff_7593_1243925&tduid=%28ir__gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00%29%287593%29%281243925%29%284LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw%29%28%29&irclickid=_gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00).
+[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019).
 
 ## DACPAC файлов формат - повече информация
 
@@ -53,7 +53,7 @@ xmlns="http://schemas.openxmlformats.org/package/2006/content-types">
 
 ## Препратки
 
-* [Приложения от ниво на данни - предимства](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
+* [Приложения от ниво на данни - предимства](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [Внедряване на приложение от ниво данни - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
-* [Как да създадете DACPAC файл?](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
+* [Как да създадете DACPAC файл?](https://azureplayer.net/2018/10/how-to-create-dacpac-file/)
 

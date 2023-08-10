@@ -51,6 +51,6 @@ O cabeçalho do arquivo tem 10 bytes e está estruturado da seguinte forma.
 
 ## Referências
 
-* [Especificações de formato de arquivo PEA](https://peazp.github.io/pea_help.pdf)
+* [Especificações de formato de arquivo PEA](https://peazip.github.io/pea_help.pdf)
 * [Formato de arquivo PEA](https://peazip.github.io/pea-file-format.html#.pea_specifications)
 

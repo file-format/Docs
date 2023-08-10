@@ -19,7 +19,7 @@
 
 ## 什么是一 .dae 文件？
 
-DAE 文件是一种数字资产交换文件格式，用于在交互式 3D 应用程序之间交换数据。此文件格式基于 COLLADA（COLLAborative Design Activity）XML 模式，它是一种开放标准 XML 模式，用于在图形软件应用程序之间交换数字资产。它已被 ISO 采用为公开可用的规范 ISO/pAS 17506。DAE 文件可以在 Adobe Photoshop、AutoDesk Maya、AutoDesk AutoCAD 等应用程序以及 [Aspose.CAD](https://products) 等 API 中打开.aspose.com/cad）。
+DAE 文件是一种数字资产交换文件格式，用于在交互式 3D 应用程序之间交换数据。此文件格式基于 COLLADA（COLLAborative Design Activity）XML 模式，它是一种开放标准 XML 模式，用于在图形软件应用程序之间交换数字资产。它已被 ISO 采用为公开可用的规范 ISO/pAS 17506。DAE 文件可以在 Adobe Photoshop、AutoDesk Maya、AutoDesk AutoCAD 等应用程序以及 [Aspose.CAD](https://products.aspose.com/cad/) 等 API 中打开。
 
 ## DAE 文件格式
 

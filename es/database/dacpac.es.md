@@ -20,7 +20,7 @@
 ## ¿Qué es un archivo DACPAC?
 
 Un archivo con la extensión .dacpac (siglas de Data Tier AppliCation Package) es un archivo de base de datos, creado con la aplicación de nivel de datos de Microsoft SQL Server, que contiene el modelo de base de datos para la representación de los objetos de la base de datos. Como contiene el modelo completo de la base de datos, se utiliza para restaurar una base de datos a partir de los detalles disponibles en el modelo. Los archivos DACPAC generalmente se entregan a los equipos de implementación para su instalación en las instalaciones del cliente para restaurar la base de datos. Estos se pueden abrir con
-[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw&epi=4LioSo.jxMc-XSp30B9j0Xpiwzw&woircXpiwTS8B9j0gXpiwTS8 =1&OCID=AID2200057_aff_7593_1243925&tduid=%28ir__gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00%29%287593%29%281243925%29%284LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw%29%28%29&irclickid=_gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00).
+[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019).
 
 ## Formato de archivo DACPAC - Más información
 
@@ -53,7 +53,7 @@ Cabe señalar que DACPAC no contiene DATOS ni otros objetos a nivel de servidor.
 
 ## Referencias
 
-* [Aplicaciones de nivel de datos - Beneficios](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
+* [Aplicaciones de nivel de datos - Beneficios](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [Implementación de una aplicación de nivel de datos - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
-* [¿Cómo crear un archivo DACPAC?](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
+* [¿Cómo crear un archivo DACPAC?](https://azureplayer.net/2018/10/how-to-create-dacpac-file/)
 

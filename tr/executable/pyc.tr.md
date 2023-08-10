@@ -22,7 +22,7 @@ PYC dosyası, Python programlama dilinde yazılmış kaynak kodundan oluşturula
 
 ## PYC Dosya Biçiminin Yapısı
 
-PYC dosyaları bayt kodundadır ve dosya formatı özellikleri herkese açık değildir. Ancak, bazı kaynaklar tarafından yapılan araştırmalar, [bir PYC dosyasının yapısının](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A% olduğunu gösteriyor. 20marshalled%20code%20object.) şunlardan oluşur:
+PYC dosyaları bayt kodundadır ve dosya formatı özellikleri herkese açık değildir. Ancak, bazı kaynaklar tarafından yapılan araştırmalar, [bir PYC dosyasının yapısının](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html) şunlardan oluşur:
 
 * `Dört baytlık sihirli bir sayı`r - Sıralama kodundaki her değişiklikle değişen yalnızca iki bayt ve ardından iki bayt 0d0a.
 * `Dört baytlık bir değişiklik zaman damgası` - .pyc dosyasını oluşturan kaynak dosyanın Unix değişiklik zaman damgası, böylece kaynak değişirse dosya yeniden derlenebilir.
@@ -30,5 +30,5 @@ PYC dosyaları bayt kodundadır ve dosya formatı özellikleri herkese açık de
 
 ## Referanslar
 
-* [.pyc dosyalarının yapısı](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A%20marshalled%20code%20object.)
+* [.pyc dosyalarının yapısı](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html)
 

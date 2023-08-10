@@ -20,7 +20,7 @@
 ## Τι είναι ένα αρχείο DACPAC;
 
 Ένα αρχείο με επέκταση .dacpac (αντιπροσωπεύει Data Tier AppliCation Package) είναι ένα αρχείο βάσης δεδομένων, που δημιουργήθηκε με την εφαρμογή επιπέδου δεδομένων του Microsoft SQL Server, το οποίο περιέχει το μοντέλο βάσης δεδομένων για την αναπαράσταση αντικειμένων βάσης δεδομένων. Καθώς περιέχει το πλήρες μοντέλο της βάσης δεδομένων, χρησιμοποιείται για την επαναφορά μιας βάσης δεδομένων από τις λεπτομέρειες που είναι διαθέσιμες στο μοντέλο. Τα αρχεία DACPAC συνήθως παραδίδονται σε ομάδες ανάπτυξης για εγκατάσταση στις εγκαταστάσεις του πελάτη για επαναφορά της βάσης δεδομένων. Αυτά μπορούν να ανοίξουν με
-[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019?ranmid=24542&raneaid=4lioso* jxmc&ransiteid=4lioso.jxmc-xsp30cxpits89wocococococococyzwoh =1&OCID=AID2200057_aff_7593_1243925&tduid=%28ir__gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00%29%287593%29%281243925%29%284LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw%29%28%29&irclickid=_gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00).
+[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019).
 
 ## Μορφή αρχείου DACPAC - Περισσότερες πληροφορίες
 
@@ -53,7 +53,7 @@ xmlns="http://schemas.openxmlformats.org/package/2006/content-types">
 
 ## βιβλιογραφικές αναφορές
 
-* [Εφαρμογές επιπέδου δεδομένων - Οφέλη](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
+* [Εφαρμογές επιπέδου δεδομένων - Οφέλη](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [Ανάπτυξη εφαρμογής επιπέδου δεδομένων - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
-* [Πώς να δημιουργήσω αρχείο DACPAC;](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
+* [Πώς να δημιουργήσω αρχείο DACPAC;](https://azureplayer.net/2018/10/how-to-create-dacpac-file/)
 

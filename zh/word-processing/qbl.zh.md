@@ -32,5 +32,5 @@ QBL 文件包含两种类型的信息。
 ## 参考
 
 * [Intuit 的 QuickBooks](https://quickbooks.intuit.com/)
-* [QuickBooks - 生成 qbregistration.dat 文件](https://quickbooks.intuit.com/learn-support/en-us/license-information/create-or-re-create-the-qbregistration-dat-file/ 00/186082)
+* [QuickBooks - 生成 qbregistration.dat 文件](https://quickbooks.intuit.com/learn-support/en-us/help-article/license-information/create-create-qbregistration-dat-file/L7S5BwSst_US_en_US)
 

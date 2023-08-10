@@ -20,7 +20,7 @@
 ## Ce este un fișier DACPAC?
 
 Un fișier cu extensia .dacpac (stand pentru Data Tier AppliCation Package) este un fișier de bază de date, creat cu aplicația de nivel de date Microsoft SQL Server, care conține modelul bazei de date pentru reprezentarea obiectelor bazei de date. Deoarece conține modelul complet al bazei de date, este folosit pentru a restaura o bază de date din detaliile disponibile în model. Fișierele DACPAC sunt de obicei predate echipelor de implementare pentru instalare la sediul clientului pentru a restaura baza de date. Acestea pot fi deschise cu
-[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-XSp30B6B60cXpiTS30B60cXpiTS30B60cXpiTS30B60cXpiTS30B60cXpiTS30B60cXpiTS30B60cXpiTS30B6 =1&OCID=AID2200057_aff_7593_1243925&tduid=%28ir__gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00%29%287593%29%281243925%29%284LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw%29%28%29&irclickid=_gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00).
+[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019).
 
 ## Format de fișier DACPAC - Mai multe informații
 
@@ -53,7 +53,7 @@ Este de remarcat faptul că DACPAC nu conține DATE și alte obiecte la nivel de
 
 ## Referințe
 
-* [Aplicații de nivel de date - Beneficii](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
+* [Aplicații de nivel de date - Beneficii](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [Implementarea unei aplicații de nivel de date - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
-* [Cum se creează fișierul DACPAC?](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
+* [Cum se creează fișierul DACPAC?](https://azureplayer.net/2018/10/how-to-create-dacpac-file/)
 

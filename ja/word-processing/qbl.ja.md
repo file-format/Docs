@@ -32,5 +32,5 @@ QBL ファイルには、2 種類の情報が含まれています。
 ## 参考文献
 
 * [QuickBooks by Intuit](https://quickbooks.intuit.com/)
-* [QuickBooks - qbregistration.dat ファイルの生成](https://quickbooks.intuit.com/learn-support/en-us/license-information/create-or-re-create-the-qbregistration-dat-file/ 00/186082)
+* [QuickBooks - qbregistration.dat ファイルの生成](https://quickbooks.intuit.com/learn-support/en-us/help-article/license-information/create-create-qbregistration-dat-file/L7S5BwSst_US_en_US)
 

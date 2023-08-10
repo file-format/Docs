@@ -27,5 +27,5 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Τύποι αρχείων Revit](https://knowledge.autodesk.com/support/revit/learn-explore/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
+* [Τύποι αρχείων Revit](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
 

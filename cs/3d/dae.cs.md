@@ -19,7 +19,7 @@
 
 ## Co je soubor DAE?
 
-Soubor DAE je formát souboru Digital Asset Exchange, který se používá pro výměnu dat mezi interaktivními 3D aplikacemi. Tento formát souboru je založen na schématu XML COLLADA (COLLAborative Design Activity), což je otevřené standardní schéma XML pro výměnu digitálních aktiv mezi grafickými softwarovými aplikacemi. Byla přijata organizací ISO jako veřejně dostupná specifikace, ISO/pAS 17506. Soubory DAE lze otevřít v aplikacích, jako je Adobe Photoshop, AutoDesk Maya, AutoDesk AutoCAD, a v rozhraních API, jako je [Aspose.CAD](https://products .aspose.com/cad).
+Soubor DAE je formát souboru Digital Asset Exchange, který se používá pro výměnu dat mezi interaktivními 3D aplikacemi. Tento formát souboru je založen na schématu XML COLLADA (COLLAborative Design Activity), což je otevřené standardní schéma XML pro výměnu digitálních aktiv mezi grafickými softwarovými aplikacemi. Byla přijata organizací ISO jako veřejně dostupná specifikace, ISO/pAS 17506. Soubory DAE lze otevřít v aplikacích, jako je Adobe Photoshop, AutoDesk Maya, AutoDesk AutoCAD, a v rozhraních API, jako je [Aspose.CAD](https://products.aspose.com/cad/).
 
 ## Formát souboru DAE
 

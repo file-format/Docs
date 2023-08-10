@@ -27,8 +27,7 @@ Le fichier ACCDW est un fichier XML qui fournit un lien vers le site SharePoint 
 
 ## Références
 
-* [Fichier .accdw téléchargé](https://learn.microsoft.com/en-us/shows/)
-* [Spécifications d'accès 2016](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c?ui=en-us&rs=en-us&ad=us)
-* [Téléchargement du fichier .accdw](https://social.technet.microsoft.com/Forums/en-US/7bf02e9e-6246-44da-9513-4cf8f2cc2fb2/downloaded-accdw-file?forum=sharepointgeneralprevious)
-* [Quel format de fichier Access dois-je utiliser ?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617- be66f9070b41?ui=en-us&rs=en-us&ad=us)
+* [Spécifications d'accès 2016](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
+* [Téléchargement du fichier .accdw](https://social.technet.microsoft.com/Forums/en-US/7bf02e9e-6246-44da-9513-4cf8f2cc2fb2/downloaded-accdw-file)
+* [Quel format de fichier Access dois-je utiliser ?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

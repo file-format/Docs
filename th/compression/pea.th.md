@@ -52,5 +52,5 @@
 ## อ้างอิง
 
 * [ข้อกำหนดรูปแบบไฟล์ PEA](https://peazip.github.io/pea_help.pdf)
-* [รูปแบบไฟล์ PEA](https://peazip.github.io/pea-file-format.html#.pea_ specifications)
+* [รูปแบบไฟล์ PEA](https://peazip.github.io/pea-file-format.html#.pea_specifications)
 

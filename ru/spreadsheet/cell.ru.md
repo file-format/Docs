@@ -19,7 +19,7 @@
 
 ## .CELL вариант №
 
-Файл с расширением .cell представляет собой файл рабочей книги, созданный с помощью приложения [Cell](https://office.hancom.com/product/desktop/cell/). Он хранит данные, организованные в строки и столбцы в ячейках, и поддерживает форматирование данных, такое как жирный шрифт, курсив, подчеркивание и т. д. Ячейки поставляются в комплекте с пакетом Thinkfree Office NEO и аналогичны Microsoft Excel. Cells позволяет сохранять электронные таблицы в других форматах файлов, таких как [XLSX](/ru/spreadsheet/xlsx/), [ODS](/ru/spreadsheet/ods/) и [PDF](/ru/pdf/). Рабочие книги, созданные с помощью ячеек, поддерживают несколько типов диаграмм, формул и графиков и полностью совместимы с MS Excel. Пакет Thinkfree, помимо Cell, также содержит приложения [Word](https://office.hancom.com/office2020/word/) и [Show](https://office.hancom.com/office2020/show/). которые функционально похожи на Microsoft Word и PowerPoint.
+Файл с расширением .cell представляет собой файл рабочей книги, созданный с помощью приложения [Cell](https://office.hancom.com/). Он хранит данные, организованные в строки и столбцы в ячейках, и поддерживает форматирование данных, такое как жирный шрифт, курсив, подчеркивание и т. д. Ячейки поставляются в комплекте с пакетом Thinkfree Office NEO и аналогичны Microsoft Excel. Cells позволяет сохранять электронные таблицы в других форматах файлов, таких как [XLSX](/ru/spreadsheet/xlsx/), [ODS](/ru/spreadsheet/ods/) и [PDF](/ru/pdf/). Рабочие книги, созданные с помощью ячеек, поддерживают несколько типов диаграмм, формул и графиков и полностью совместимы с MS Excel. Пакет Thinkfree, помимо Cell, также содержит приложения [Word](https://office.hancom.com/) и [Show](https://office.hancom.com/). которые функционально похожи на Microsoft Word и PowerPoint.
 
 ## Формат файла CELL — дополнительная информация
 
@@ -27,5 +27,5 @@
 
 ## Использованная литература ##
 
-* [Thinkfree Office NEO — Cell](https://office.hancom.com/product/desktop/cell/)
+* [Thinkfree Office NEO — Cell](https://office.hancom.com/)
 

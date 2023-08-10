@@ -19,7 +19,7 @@
 
 ## ما هو ملف DAE؟
 
-ملف DAE هو تنسيق ملف تبادل الأصول الرقمية يُستخدم لتبادل البيانات بين التطبيقات ثلاثية الأبعاد التفاعلية. يعتمد تنسيق الملف هذا على مخطط XML COLLADA (نشاط تصميم COLLAborative) وهو مخطط XML قياسي مفتوح لتبادل الأصول الرقمية بين تطبيقات برامج الرسوم. تم اعتماده من قبل ISO كمواصفات متاحة للجمهور ، ISO / pAS 17506. يمكن فتح ملفات DAE في تطبيقات مثل Adobe Photoshop و AutoDesk Maya و AutoDesk AutoCAD و APIs مثل [Aspose.CAD](https: // products .aspose.com / cad).
+ملف DAE هو تنسيق ملف تبادل الأصول الرقمية يُستخدم لتبادل البيانات بين التطبيقات ثلاثية الأبعاد التفاعلية. يعتمد تنسيق الملف هذا على مخطط XML COLLADA (نشاط تصميم COLLAborative) وهو مخطط XML قياسي مفتوح لتبادل الأصول الرقمية بين تطبيقات برامج الرسوم. تم اعتماده من قبل ISO كمواصفات متاحة للجمهور ، ISO / pAS 17506. يمكن فتح ملفات DAE في تطبيقات مثل Adobe Photoshop و AutoDesk Maya و AutoDesk AutoCAD و APIs مثل [Aspose.CAD](https://products.aspose.com/cad/).
 
 ## تنسيق ملف DAE
 

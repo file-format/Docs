@@ -20,7 +20,7 @@
 ## ما هو ملف DACPAC؟
 
 الملف بامتداد .dacpac (يرمز إلى Data Tier AppliCation Package) هو ملف قاعدة بيانات ، تم إنشاؤه باستخدام تطبيق طبقة بيانات Microsoft SQL Server ، والذي يحتوي على نموذج قاعدة البيانات لتمثيل كائنات قاعدة البيانات. نظرًا لاحتوائه على النموذج الكامل لقاعدة البيانات ، يتم استخدامه لاستعادة قاعدة البيانات من التفاصيل المتاحة في النموذج. عادةً ما يتم تسليم ملفات DACPAC إلى فرق النشر لتثبيتها في مقر العميل لاستعادة قاعدة البيانات. يمكن فتح هذه باستخدام
-Microsoft SQL Server 2019 =1&OCID=AID2200057_aff_7593_1243925&tduid=%28ir__gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00%29%287593%29%281243925%29%284LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw%29%28%29&irclickid=_gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00).
+[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019).
 
 ## تنسيق ملف DACPAC - مزيد من المعلومات
 
@@ -53,7 +53,7 @@ xmlns = "http://schemas.openxmlformats.org/package/2006/content-types">
 
 ## مراجع
 
-* [تطبيقات طبقة البيانات - الفوائد](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
+* [تطبيقات طبقة البيانات - الفوائد](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [نشر تطبيق طبقة البيانات - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
-* [كيف تنشئ ملف DACPAC؟](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
+* [كيف تنشئ ملف DACPAC؟](https://azureplayer.net/2018/10/how-to-create-dacpac-file/)
 

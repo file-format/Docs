@@ -19,7 +19,7 @@
 
 ## DAE dosyası nedir?
 
-DAE dosyası, etkileşimli 3B uygulamalar arasında veri alışverişi için kullanılan bir Dijital Varlık Değişimi dosya biçimidir. Bu dosya formatı, grafik yazılım uygulamaları arasında dijital varlıkların değiş tokuşu için açık standart bir XML şeması olan COLLADA (COLLAborative Design Activity) XML şemasına dayanmaktadır. ISO tarafından halka açık bir spesifikasyon olan ISO/pAS 17506 olarak benimsenmiştir. DAE dosyaları Adobe Photoshop, AutoDesk Maya, AutoDesk AutoCAD gibi uygulamalarda ve [Aspose.CAD](https://products) gibi API'lerde açılabilir. .aspose.com/cad).
+DAE dosyası, etkileşimli 3B uygulamalar arasında veri alışverişi için kullanılan bir Dijital Varlık Değişimi dosya biçimidir. Bu dosya formatı, grafik yazılım uygulamaları arasında dijital varlıkların değiş tokuşu için açık standart bir XML şeması olan COLLADA (COLLAborative Design Activity) XML şemasına dayanmaktadır. ISO tarafından halka açık bir spesifikasyon olan ISO/pAS 17506 olarak benimsenmiştir. DAE dosyaları Adobe Photoshop, AutoDesk Maya, AutoDesk AutoCAD gibi uygulamalarda ve [Aspose.CAD](https://products.aspose.com/cad/) gibi API'lerde açılabilir.
 
 ## DAE Dosya Biçimi
 

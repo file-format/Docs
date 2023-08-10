@@ -19,7 +19,7 @@
 
 ## HÜCRE dosyası nedir?
 
-.cell uzantılı bir dosya, [Cell](https://office.hancom.com/product/desktop/cell/) uygulamasıyla oluşturulmuş bir çalışma kitabı dosyasıdır. Hücrelerde satırlar ve sütunlar halinde düzenlenmiş verileri depolar ve BOLD, Italic, Underline, vb. gibi verilerin biçimlendirilmesini destekler. Cells, Thinkfree Office NEO paketiyle birlikte gelir ve Microsoft Excel'e benzer. Hücreler, elektronik tabloyu [XLSX](/tr/spreadsheet/xlsx/), [ODS](/tr/spreadsheet/ods/) ve [PDF](/tr/pdf/) gibi diğer dosya biçimlerinde kaydetmenize olanak tanır. Hücrelerle oluşturulan çalışma kitapları, çeşitli grafik türlerini, formülleri ve grafikleri destekler ve MS Excel ile tam uyumludur. Thinkfree paketi, Cell'e ek olarak [Word](https://office.hancom.com/office2020/word/) ve [Show](https://office.hancom.com/office2020/show/) uygulamalarını da içerir işlevsel olarak Microsoft Word ve PowerPoint'e benzer.
+.cell uzantılı bir dosya, [Cell](https://office.hancom.com/) uygulamasıyla oluşturulmuş bir çalışma kitabı dosyasıdır. Hücrelerde satırlar ve sütunlar halinde düzenlenmiş verileri depolar ve BOLD, Italic, Underline, vb. gibi verilerin biçimlendirilmesini destekler. Cells, Thinkfree Office NEO paketiyle birlikte gelir ve Microsoft Excel'e benzer. Hücreler, elektronik tabloyu [XLSX](/tr/spreadsheet/xlsx/), [ODS](/tr/spreadsheet/ods/) ve [PDF](/tr/pdf/) gibi diğer dosya biçimlerinde kaydetmenize olanak tanır. Hücrelerle oluşturulan çalışma kitapları, çeşitli grafik türlerini, formülleri ve grafikleri destekler ve MS Excel ile tam uyumludur. Thinkfree paketi, Cell'e ek olarak [Word](https://office.hancom.com/) ve [Show](https://office.hancom.com/) uygulamalarını da içerir işlevsel olarak Microsoft Word ve PowerPoint'e benzer.
 
 ## HÜCRE Dosya Biçimi - Daha Fazla Bilgi
 
@@ -27,5 +27,5 @@ Hücre dosyaları diske ikili dosya biçiminde kaydedilir ve dosya biçimi belir
 
 ## Referanslar ##
 
-* [Thinkfree Office NEO - Hücre](https://office.hancom.com/product/desktop/cell/)
+* [Thinkfree Office NEO - Hücre](https://office.hancom.com/)
 

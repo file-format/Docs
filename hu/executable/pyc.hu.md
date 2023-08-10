@@ -22,7 +22,7 @@ A PYC fájl egy lefordított kimeneti fájl, amelyet Python programozási nyelve
 
 ## A PYC fájlformátum felépítése
 
-A PYC fájlok bájtkódban vannak, és a fájlformátum-specifikációik nem érhetők el nyilvánosan. Egyes források vizsgálata azonban azt mutatja, hogy a [egy PYC-fájl szerkezete](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A% 20marshalled%20code%20object.) a következőkből áll:
+A PYC fájlok bájtkódban vannak, és a fájlformátum-specifikációik nem érhetők el nyilvánosan. Egyes források vizsgálata azonban azt mutatja, hogy a [egy PYC-fájl szerkezete](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html) a következőkből áll:
 
 * `Négybájtos mágikus szám`r - Egyszerűen két bájt, amely a rendezőkód minden változásával változik, majd két bájt 0d0a.
 * `Négybájtos módosítási időbélyeg` – A .pyc-et létrehozó forrásfájl Unix módosítási időbélyege, hogy újra lehessen fordítani, ha a forrás megváltozik.
@@ -30,5 +30,5 @@ A PYC fájlok bájtkódban vannak, és a fájlformátum-specifikációik nem ér
 
 ## Hivatkozások
 
-* [A .pyc fájlok szerkezete](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A%20marshalled%20code%20object.)
+* [A .pyc fájlok szerkezete](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html)
 

@@ -22,7 +22,7 @@ En PYC-fil är en kompilerad utdatafil som genereras från källkod skriven i Py
 
 ## Struktur för PYC-filformat
 
-PYC-filer är i bytekod och deras filformatspecifikationer är inte tillgängliga offentligt. Undersökningar från vissa källor visar dock att [strukturen av en PYC-fil](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A% 20marshalled%20code%20object.) består av:
+PYC-filer är i bytekod och deras filformatspecifikationer är inte tillgängliga offentligt. Undersökningar från vissa källor visar dock att [strukturen av en PYC-fil](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html) består av:
 
 * `En fyra-byte magisk numbe`r - Helt enkelt två byte som ändras med varje ändring av rangeringskoden, och sedan två byte av 0d0a.
 * `En fyra-byte modifieringstidsstämpel` - Unix modifieringstidsstämpel för källfilen som genererade .pyc, så att den kan kompileras om om källkoden ändras.
@@ -30,5 +30,5 @@ PYC-filer är i bytekod och deras filformatspecifikationer är inte tillgänglig
 
 ## Referenser
 
-* [Strukturen av .pyc-filer](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A%20marshalled%20code%20object.)
+* [Strukturen av .pyc-filer](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html)
 

@@ -20,7 +20,7 @@
 ## Wat is een DACPAC-bestand?
 
 Een bestand met de extensie .dacpac (staat voor Data Tier AppliCation Package) is een databasebestand, gemaakt met de Microsoft SQL Server-gegevenslaagtoepassing, dat het databasemodel bevat voor de weergave van databaseobjecten. Omdat het het volledige model van de database bevat, wordt het gebruikt om een database te herstellen op basis van de details die in het model beschikbaar zijn. DACPAC-bestanden worden meestal overgedragen aan implementatieteams voor installatie bij de klant om de database te herstellen. Deze kunnen worden geopend met
-[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw&epij=4Mc-Soj. =1&OCID=AID2200057_aff_7593_1243925&tduid=%28ir__gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00%29%287593%29%281243925%29%284LioSo.jxMc-XSp30B60j29&period;
+[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
 
 ## DACPAC-bestandsindeling - Meer informatie
 
@@ -53,7 +53,7 @@ Opgemerkt moet worden dat DACPAC geen DATA en andere objecten op serverniveau be
 
 ## Referenties
 
-* [Data Tier Applications - Voordelen](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
+* [Data Tier Applications - Voordelen](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [Een Data Tier-applicatie implementeren - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
-* [Hoe maak je een DACPAC-bestand aan?](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
+* [Hoe maak je een DACPAC-bestand aan?](https://azureplayer.net/2018/10/how-to-create-dacpac-file/)
 

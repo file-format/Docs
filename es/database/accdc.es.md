@@ -27,8 +27,7 @@ No hay especificaciones públicas disponibles para el formato de archivo ACCDC p
 
 ## Referencias
 
-* [Formato de archivo de acceso](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41?redirectSourcePath=% 252fen-us%252farticle%252fIntroducción-al-formato-de-archivo-de-Access-2007-8cf93630-0b68-4a40-a13c-7528b9f074b6&ui=en-US&rs=en-US&ad=US)
-* [Especificaciones de Access 2016](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c?ui=en-us&rs=en-us&ad=us)
+* [Especificaciones de Access 2016](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
 * [Motor de base de datos Microsoft Jet](https://en.wikipedia.org/wiki/Microsoft_Jet_Database_Engine)
-* [¿Qué formato de archivo de Access debo usar?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617- be66f9070b41?ui=en-us&rs=en-us&ad=us)
+* [¿Qué formato de archivo de Access debo usar?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

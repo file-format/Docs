@@ -19,7 +19,7 @@
 
 ## Mi az a DAE fájl?
 
-A DAE fájl egy Digital Asset Exchange fájlformátum, amelyet interaktív 3D alkalmazások közötti adatcserére használnak. Ez a fájlformátum a COLLADA (COLLAborative Design Activity) XML sémán alapul, amely egy nyílt szabványú XML séma a digitális eszközök grafikus szoftveralkalmazások közötti cseréjére. Az ISO nyilvánosan elérhető specifikációként fogadta el, az ISO/pAS 17506. A DAE fájlok megnyithatók olyan alkalmazásokban, mint az Adobe Photoshop, az AutoDesk Maya, az AutoDesk AutoCAD és az API-k, mint például az [Aspose.CAD](https://products .aspose.com/cad).
+A DAE fájl egy Digital Asset Exchange fájlformátum, amelyet interaktív 3D alkalmazások közötti adatcserére használnak. Ez a fájlformátum a COLLADA (COLLAborative Design Activity) XML sémán alapul, amely egy nyílt szabványú XML séma a digitális eszközök grafikus szoftveralkalmazások közötti cseréjére. Az ISO nyilvánosan elérhető specifikációként fogadta el, az ISO/pAS 17506. A DAE fájlok megnyithatók olyan alkalmazásokban, mint az Adobe Photoshop, az AutoDesk Maya, az AutoDesk AutoCAD és az API-k, mint például az [Aspose.CAD](https://products.aspose.com/cad/).
 
 ## DAE fájlformátum
 

@@ -19,7 +19,7 @@
 
 ## O que é um arquivo DAE?
 
-Um arquivo DAE é um formato de arquivo Digital Asset Exchange usado para trocar dados entre aplicativos 3D interativos. Este formato de arquivo é baseado no esquema XML COLLADA (COLLAborative Design Activity), que é um esquema XML de padrão aberto para a troca de ativos digitais entre aplicativos de software gráfico. Foi adotado pela ISO como uma especificação publicamente disponível, ISO/pAS 17506. Os arquivos DAE podem ser abertos em aplicativos como Adobe Photoshop, AutoDesk Maya, AutoDesk AutoCAD e APIs como [Aspose.CAD](https://products .aspose.com/cad).
+Um arquivo DAE é um formato de arquivo Digital Asset Exchange usado para trocar dados entre aplicativos 3D interativos. Este formato de arquivo é baseado no esquema XML COLLADA (COLLAborative Design Activity), que é um esquema XML de padrão aberto para a troca de ativos digitais entre aplicativos de software gráfico. Foi adotado pela ISO como uma especificação publicamente disponível, ISO/pAS 17506. Os arquivos DAE podem ser abertos em aplicativos como Adobe Photoshop, AutoDesk Maya, AutoDesk AutoCAD e APIs como [Aspose.CAD](https://products.aspose.com/cad/).
 
 ## Formato de arquivo DAE
 

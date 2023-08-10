@@ -27,5 +27,5 @@ Pliki RFT to pliki szablonów rodzin, które można załadować (wraz z plikami 
 
 ## Bibliografia
 
-* [Typy plików programu Revit](https://knowledge.autodesk.com/support/revit/learn-explore/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
+* [Typy plików programu Revit](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
 

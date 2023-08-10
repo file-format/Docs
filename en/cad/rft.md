@@ -27,4 +27,4 @@ RFT files are family template files that can either be loaded (along with RFA fi
 
 ## References
 
- * [Revit file types](https://knowledge.autodesk.com/support/revit/learn-explore/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
+ * [Revit file types](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)

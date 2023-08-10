@@ -27,5 +27,5 @@ RFT-bestanden zijn familiesjabloonbestanden die ofwel (samen met RFA-bestanden) 
 
 ## Referenties
 
-* [Revit-bestandstypen](https://knowledge.autodesk.com/support/revit/learn-explore/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
+* [Revit-bestandstypen](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
 

@@ -20,7 +20,7 @@
 ## DACPAC फ़ाइल क्या है?
 
 .dacpac (डेटा टियर एप्लीकेशन पैकेज के लिए खड़ा है) एक्सटेंशन वाली एक फ़ाइल एक डेटाबेस फ़ाइल है, जिसे Microsoft SQL सर्वर डेटा टियर एप्लिकेशन के साथ बनाया गया है, जिसमें डेटाबेस ऑब्जेक्ट के प्रतिनिधित्व के लिए डेटाबेस मॉडल शामिल है। चूंकि इसमें डेटाबेस का पूरा मॉडल होता है, इसलिए इसका उपयोग मॉडल में उपलब्ध विवरण से डेटाबेस को पुनर्स्थापित करने के लिए किया जाता है। DACPAC फाइलें आमतौर पर डेटाबेस को पुनर्स्थापित करने के लिए ग्राहक के परिसर में स्थापना के लिए तैनाती टीमों को सौंप दी जाती हैं। इन्हें के साथ खोला जा सकता है
-[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw0B6wcwTS89B6wc89wx896xpi=4LioSo. =1&OCID=AID2200057_aff_7593_1243925&tduid=%28ir__gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00%29%287593%29%281243925%29%284LioSo.jxMc-XSp30B6qu_w2qniq2kn1tqusqf0kf6whl2qni के बारे में।
+[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019) के बारे में।
 
 ## DACPAC फ़ाइल स्वरूप - अधिक जानकारी
 
@@ -53,7 +53,7 @@ xmlns="http://schemas.openxmlformats.org/package/2006/content-types">
 
 ## संदर्भ
 
-* [डेटा टियर एप्लिकेशन - लाभ](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
+* [डेटा टियर एप्लिकेशन - लाभ](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [डेटा टियर एप्लिकेशन की तैनाती - माइक्रोसॉफ्ट](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
-* [DACPAC फ़ाइल कैसे बनाएं?](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
+* [DACPAC फ़ाइल कैसे बनाएं?](https://azureplayer.net/2018/10/how-to-create-dacpac-file/)
 

@@ -20,7 +20,7 @@
 ## What is a DACPAC file?
 
 A file with .dacpac (stands for Data Tier AppliCation Package) extension is a database file, created with Microsoft SQL Server data tier application, that contains the database model for representation of database objects. As it contains the complete model of the database, it is used to restore a database from the details available in the model. DACPAC files are usually handed over to deployment teams for installation at customer's premises to restore database. These can be opened with
-[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw&epi=4LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw&irgwc=1&OCID=AID2200057_aff_7593_1243925&tduid=%28ir__gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00%29%287593%29%281243925%29%284LioSo.jxMc-XSp30B6cXpiTS89wo0jYzw%29%28%29&irclickid=_gn1tqusqf0kf6whl2qniaboutn2xruqfmyy1hzec00).
+[Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019).
 
 ## DACPAC File Format - More Information
 
@@ -53,5 +53,6 @@ Following are few files that are found inside a DACPAC file.
 
 ## References
 
-* [Data Tier Applications - Benefits](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver15)
+* [Data Tier Applications - Benefits](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [Deploying a Data Tier Application - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
+* [How to create DACPAC File?](https://azureplayer.net/2018/10/how-to-create-dacpac-file/)

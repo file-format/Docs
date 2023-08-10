@@ -27,5 +27,5 @@ Fișierele RFT sunt fișiere șablon de familie care pot fi fie încărcate (îm
 
 ## Referințe
 
-* [Tipuri de fișiere Revit](https://knowledge.autodesk.com/support/revit/learn-explore/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
+* [Tipuri de fișiere Revit](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
 

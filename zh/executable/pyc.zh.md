@@ -22,7 +22,7 @@ PYC 文件是从用 Python 编程语言编写的源代码生成的编译输出�
 
 ## PYC 文件格式的结构
 
-PYC 文件是字节码，它们的文件格式规范不公开。然而，一些消息来源的调查表明，[PYC 文件的结构](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A% 20marshalled%20code%20object.) 包括：
+PYC 文件是字节码，它们的文件格式规范不公开。然而，一些消息来源的调查表明，[PYC 文件的结构](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html) 包括：
 
 * `一个四字节的幻数`r - 只是随着编组代码的每次更改而更改的两个字节，然后是 0d0a 的两个字节。
 * `四字节修改时间戳` - 生成 .pyc 的源文件的 Unix 修改时间戳，以便在源更改时可以重新编译。
@@ -30,5 +30,5 @@ PYC 文件是字节码，它们的文件格式规范不公开。然而，一些�
 
 ## 参考
 
-* [.pyc 文件的结构](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html#:~:text=pyc%20file%20is%20a%20binary,A%20marshalled%20code%20object.)
+* [.pyc 文件的结构](https://nedbatchelder.com/blog/200804/the_structure_of_pyc_files.html)
 
