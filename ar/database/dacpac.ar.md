@@ -55,5 +55,5 @@ xmlns = "http://schemas.openxmlformats.org/package/2006/content-types">
 
 * [تطبيقات طبقة البيانات - الفوائد](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [نشر تطبيق طبقة البيانات - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
-* [كيف تنشئ ملف DACPAC؟](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
+* [كيف تنشئ ملف DACPAC؟](https://azureplayer.net/2018/10/how-to-create-dacpac-file/)
 

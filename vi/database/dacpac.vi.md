@@ -55,5 +55,5 @@ Cần lưu ý rằng DACPAC không chứa DATA và các đối tượng cấp m�
 
 * [Ứng dụng bậc dữ liệu - Lợi ích](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [Triển khai ứng dụng bậc dữ liệu - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
-* [Cách tạo tệp DACPAC?](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
+* [Cách tạo tệp DACPAC?](https://azureplayer.net/2018/10/how-to-create-dacpac-file/)
 

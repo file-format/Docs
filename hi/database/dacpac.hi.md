@@ -55,5 +55,5 @@ xmlns="http://schemas.openxmlformats.org/package/2006/content-types">
 
 * [डेटा टियर एप्लिकेशन - लाभ](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [डेटा टियर एप्लिकेशन की तैनाती - माइक्रोसॉफ्ट](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
-* [DACPAC फ़ाइल कैसे बनाएं?](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
+* [DACPAC फ़ाइल कैसे बनाएं?](https://azureplayer.net/2018/10/how-to-create-dacpac-file/)
 

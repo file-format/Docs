@@ -55,5 +55,5 @@ Este de remarcat faptul că DACPAC nu conține DATE și alte obiecte la nivel de
 
 * [Aplicații de nivel de date - Beneficii](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [Implementarea unei aplicații de nivel de date - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
-* [Cum se creează fișierul DACPAC?](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
+* [Cum se creează fișierul DACPAC?](https://azureplayer.net/2018/10/how-to-create-dacpac-file/)
 

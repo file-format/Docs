@@ -55,5 +55,5 @@ Il convient de noter que DACPAC ne contient pas de DATA ni d'autres objets au ni
 
 * [Applications de niveau de données - Avantages](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [Déploiement d'une application de niveau de données - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
-* [Comment créer un fichier DACPAC ?](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
+* [Comment créer un fichier DACPAC ?](https://azureplayer.net/2018/10/how-to-create-dacpac-file/)
 

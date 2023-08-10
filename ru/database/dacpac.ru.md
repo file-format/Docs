@@ -55,5 +55,5 @@ xmlns="http://schemas.openxmlformats.org/package/2006/content-types">
 
 * [Приложения уровня данных — преимущества](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [Развертывание приложения уровня данных — Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
-* [Как создать файл DACPAC?](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
+* [Как создать файл DACPAC?](https://azureplayer.net/2018/10/how-to-create-dacpac-file/)
 

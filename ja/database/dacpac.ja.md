@@ -55,5 +55,5 @@ DACPAC には DATA やその他のサーバー レベルのオブジェクトが
 
 * [データ層アプリケーション - 利点](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [データ層アプリケーションのデプロイ - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
-※【DACPACファイルの作り方】(https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
+* [DACPACファイルの作り方](https://azureplayer.net/2018/10/how-to-create-dacpac-file/)
 

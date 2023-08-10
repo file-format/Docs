@@ -55,5 +55,5 @@ Opgemerkt moet worden dat DACPAC geen DATA en andere objecten op serverniveau be
 
 * [Data Tier Applications - Voordelen](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [Een Data Tier-applicatie implementeren - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
-* [Hoe maak je een DACPAC-bestand aan?](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
+* [Hoe maak je een DACPAC-bestand aan?](https://azureplayer.net/2018/10/how-to-create-dacpac-file/)
 

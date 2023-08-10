@@ -55,5 +55,5 @@ xmlns="http://schemas.openxmlformats.org/package/2006/content-types">
 
 * [แอปพลิเคชันระดับข้อมูล - ประโยชน์](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 * [การปรับใช้แอปพลิเคชัน Data Tier - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
-* [วิธีสร้างไฟล์ DACPAC](https://sqlplayer.net/2018/10/how-to-create-dacpac-file/)
+* [วิธีสร้างไฟล์ DACPAC](https://azureplayer.net/2018/10/how-to-create-dacpac-file/)
 
