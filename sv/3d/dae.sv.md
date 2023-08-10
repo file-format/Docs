@@ -19,7 +19,7 @@
 
 ## Vad är DAE fil?
 
-En DAE-fil är ett Digital Asset Exchange-filformat som används för att utbyta data mellan interaktiva 3D-applikationer. Det här filformatet är baserat på COLLADA (COLLAborative Design Activity) XML-schema som är ett öppet standard-XML-schema för utbyte av digitala tillgångar mellan grafikprogram. Det har antagits av ISO som en allmänt tillgänglig specifikation, ISO/pAS 17506. DAE-filer kan öppnas i applikationer som Adobe Photoshop, AutoDesk Maya, AutoDesk AutoCAD och API:er som [Aspose.CAD](https://products .aspose.com/cad).
+En DAE-fil är ett Digital Asset Exchange-filformat som används för att utbyta data mellan interaktiva 3D-applikationer. Det här filformatet är baserat på COLLADA (COLLAborative Design Activity) XML-schema som är ett öppet standard-XML-schema för utbyte av digitala tillgångar mellan grafikprogram. Det har antagits av ISO som en allmänt tillgänglig specifikation, ISO/pAS 17506. DAE-filer kan öppnas i applikationer som Adobe Photoshop, AutoDesk Maya, AutoDesk AutoCAD och API:er som [Aspose.CAD](https://products.aspose.com/cad/).
 
 ## DAE-filformat
 

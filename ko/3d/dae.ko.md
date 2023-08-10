@@ -19,7 +19,7 @@
 
 ## .DAE 파일이란?
 
-DAE 파일은 대화형 3D 응용 프로그램 간에 데이터를 교환하는 데 사용되는 디지털 자산 교환 파일 형식입니다. 이 파일 형식은 그래픽 소프트웨어 응용 프로그램 간의 디지털 자산 교환을 위한 개방형 표준 XML 스키마인 COLLADA(COLLAborative Design Activity) XML 스키마를 기반으로 합니다. ISO에서 공개 사양인 ISO/pAS 17506으로 채택했습니다. DAE 파일은 Adobe Photoshop, AutoDesk Maya, AutoDesk AutoCAD와 같은 응용 프로그램 및 [Aspose.CAD](https://products)와 같은 API에서 열 수 있습니다. .aspose.com/cad).
+DAE 파일은 대화형 3D 응용 프로그램 간에 데이터를 교환하는 데 사용되는 디지털 자산 교환 파일 형식입니다. 이 파일 형식은 그래픽 소프트웨어 응용 프로그램 간의 디지털 자산 교환을 위한 개방형 표준 XML 스키마인 COLLADA(COLLAborative Design Activity) XML 스키마를 기반으로 합니다. ISO에서 공개 사양인 ISO/pAS 17506으로 채택했습니다. DAE 파일은 Adobe Photoshop, AutoDesk Maya, AutoDesk AutoCAD와 같은 응용 프로그램 및 [Aspose.CAD](https://products.aspose.com/cad/) 와 같은 API에서 열 수 있습니다.
 
 ## DAE 파일 형식
 

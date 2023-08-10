@@ -19,7 +19,7 @@
 
 ## .DAE オプション番号
 
-DAE ファイルは、インタラクティブな 3D アプリケーション間でデータを交換するために使用される Digital Asset Exchange ファイル形式です。このファイル形式は、グラフィック ソフトウェア アプリケーション間でデジタル アセットを交換するためのオープン スタンダード XML スキーマである COLLADA (COLLAborative Design Activity) XML スキーマに基づいています。これは、公開されている仕様 ISO/pAS 17506 として ISO によって採用されています。DAE ファイルは、Adobe Photoshop、AutoDesk Maya、AutoDesk AutoCAD などのアプリケーション、および [Aspose.CAD](https://products .aspose.com/cad)。
+DAE ファイルは、インタラクティブな 3D アプリケーション間でデータを交換するために使用される Digital Asset Exchange ファイル形式です。このファイル形式は、グラフィック ソフトウェア アプリケーション間でデジタル アセットを交換するためのオープン スタンダード XML スキーマである COLLADA (COLLAborative Design Activity) XML スキーマに基づいています。これは、公開されている仕様 ISO/pAS 17506 として ISO によって採用されています。DAE ファイルは、Adobe Photoshop、AutoDesk Maya、AutoDesk AutoCAD などのアプリケーション、および [Aspose.CAD](https://products.aspose.com/cad/)。
 
 ## DAE ファイル形式
 

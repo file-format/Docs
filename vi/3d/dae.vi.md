@@ -19,7 +19,7 @@
 
 ## Tệp DAE là gì?
 
-Tệp DAE là định dạng tệp Trao đổi tài sản kỹ thuật số được sử dụng để trao đổi dữ liệu giữa các ứng dụng 3D tương tác. Định dạng tệp này dựa trên lược đồ XML COLLADA (COLLAborative Design Activity) là một lược đồ XML tiêu chuẩn mở để trao đổi tài sản kỹ thuật số giữa các ứng dụng phần mềm đồ họa. Nó đã được ISO chấp nhận dưới dạng thông số kỹ thuật có sẵn công khai, ISO/pAS 17506. Các tệp DAE có thể được mở trong các ứng dụng như Adobe Photoshop, AutoDesk Maya, AutoDesk AutoCAD và các API như [Aspose.CAD](https://products .aspose.com/cad).
+Tệp DAE là định dạng tệp Trao đổi tài sản kỹ thuật số được sử dụng để trao đổi dữ liệu giữa các ứng dụng 3D tương tác. Định dạng tệp này dựa trên lược đồ XML COLLADA (COLLAborative Design Activity) là một lược đồ XML tiêu chuẩn mở để trao đổi tài sản kỹ thuật số giữa các ứng dụng phần mềm đồ họa. Nó đã được ISO chấp nhận dưới dạng thông số kỹ thuật có sẵn công khai, ISO/pAS 17506. Các tệp DAE có thể được mở trong các ứng dụng như Adobe Photoshop, AutoDesk Maya, AutoDesk AutoCAD và các API như [Aspose.CAD](https://products.aspose.com/cad/).
 
 ## Định dạng tệp DAE
 

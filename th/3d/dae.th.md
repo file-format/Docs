@@ -19,7 +19,7 @@
 
 ## ไฟล์ DAE คืออะไร??
 
-ไฟล์ DAE เป็นรูปแบบไฟล์ Digital Asset Exchange ที่ใช้สำหรับแลกเปลี่ยนข้อมูลระหว่างแอปพลิเคชัน 3 มิติแบบโต้ตอบ รูปแบบไฟล์นี้อ้างอิงจาก COLLADA (COLLAborative Design Activity) XML schema ซึ่งเป็น XML schema มาตรฐานเปิดสำหรับการแลกเปลี่ยนสินทรัพย์ดิจิทัลระหว่างแอปพลิเคชันซอฟต์แวร์กราฟิก ISO/pAS 17506 ได้รับการรับรองมาตรฐาน ISO/pAS 17506 ไฟล์ DAE สามารถเปิดได้ในแอปพลิเคชันต่างๆ เช่น Adobe Photoshop, AutoDesk Maya, AutoDesk AutoCAD และ API เช่น [Aspose.CAD](https://products .aspose.com/cad).
+ไฟล์ DAE เป็นรูปแบบไฟล์ Digital Asset Exchange ที่ใช้สำหรับแลกเปลี่ยนข้อมูลระหว่างแอปพลิเคชัน 3 มิติแบบโต้ตอบ รูปแบบไฟล์นี้อ้างอิงจาก COLLADA (COLLAborative Design Activity) XML schema ซึ่งเป็น XML schema มาตรฐานเปิดสำหรับการแลกเปลี่ยนสินทรัพย์ดิจิทัลระหว่างแอปพลิเคชันซอฟต์แวร์กราฟิก ISO/pAS 17506 ได้รับการรับรองมาตรฐาน ISO/pAS 17506 ไฟล์ DAE สามารถเปิดได้ในแอปพลิเคชันต่างๆ เช่น Adobe Photoshop, AutoDesk Maya, AutoDesk AutoCAD และ API เช่น [Aspose.CAD](https://products.aspose.com/cad/).
 
 ## รูปแบบไฟล์ DAE
 

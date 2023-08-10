@@ -19,7 +19,7 @@
 
 ## Wat is een DAE-bestand?
 
-Een DAE-bestand is een Digital Asset Exchange-bestandsindeling die wordt gebruikt voor het uitwisselen van gegevens tussen interactieve 3D-toepassingen. Dit bestandsformaat is gebaseerd op het COLLADA (COLLAborative Design Activity) XML-schema, een open standaard XML-schema voor de uitwisseling van digitale middelen tussen grafische softwaretoepassingen. Het is door ISO aangenomen als een openbaar beschikbare specificatie, ISO/pAS 17506. DAE-bestanden kunnen worden geopend in toepassingen zoals Adobe Photoshop, AutoDesk Maya, AutoDesk AutoCAD en API's zoals [Aspose.CAD](https://products .aspose.com/cad).
+Een DAE-bestand is een Digital Asset Exchange-bestandsindeling die wordt gebruikt voor het uitwisselen van gegevens tussen interactieve 3D-toepassingen. Dit bestandsformaat is gebaseerd op het COLLADA (COLLAborative Design Activity) XML-schema, een open standaard XML-schema voor de uitwisseling van digitale middelen tussen grafische softwaretoepassingen. Het is door ISO aangenomen als een openbaar beschikbare specificatie, ISO/pAS 17506. DAE-bestanden kunnen worden geopend in toepassingen zoals Adobe Photoshop, AutoDesk Maya, AutoDesk AutoCAD en API's zoals [Aspose.CAD](https://products.aspose.com/cad/).
 
 ## DAE-bestandsindeling
 

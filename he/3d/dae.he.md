@@ -19,7 +19,7 @@
 
 ## מהו קובץ DAE?
 
-קובץ DAE הוא פורמט קובץ Digital Asset Exchange המשמש להחלפת נתונים בין יישומי תלת מימד אינטראקטיביים. פורמט קובץ זה מבוסס על סכימת ה-XML COLLADA (COLLAborative Design Activity) שהיא סכימת XML סטנדרטית פתוחה להחלפת נכסים דיגיטליים בין יישומי תוכנה גרפית. זה אומץ על ידי ISO כמפרט זמין לציבור, ISO/pAS 17506. ניתן לפתוח קבצי DAE ביישומים כגון Adobe Photoshop, AutoDesk Maya, AutoDesk AutoCAD וממשקי API כגון [Aspose.CAD](https://products .aspose.com/cad).
+קובץ DAE הוא פורמט קובץ Digital Asset Exchange המשמש להחלפת נתונים בין יישומי תלת מימד אינטראקטיביים. פורמט קובץ זה מבוסס על סכימת ה-XML COLLADA (COLLAborative Design Activity) שהיא סכימת XML סטנדרטית פתוחה להחלפת נכסים דיגיטליים בין יישומי תוכנה גרפית. זה אומץ על ידי ISO כמפרט זמין לציבור, ISO/pAS 17506. ניתן לפתוח קבצי DAE ביישומים כגון Adobe Photoshop, AutoDesk Maya, AutoDesk AutoCAD וממשקי API כגון [Aspose.CAD](https://products.aspose.com/cad/).
 
 ## פורמט קובץ DAE
 
