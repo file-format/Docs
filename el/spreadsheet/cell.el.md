@@ -19,7 +19,7 @@
 
 ## Τι είναι ένα αρχείο CELL;
 
-Ένα αρχείο με επέκταση .cell είναι ένα αρχείο βιβλίου εργασίας που δημιουργήθηκε με την εφαρμογή [Cell](https://office.hancom.com/product/desktop/cell/). Αποθηκεύει δεδομένα οργανωμένα σε σειρές και στήλες σε κελιά και υποστηρίζει μορφοποίηση δεδομένων όπως BOLD, πλάγια, υπογράμμιση κ.λπ. Τα κελιά συνοδεύονται από τη σουίτα Thinkfree Office NEO και είναι παρόμοια με το Microsoft Excel. Το Cells σάς επιτρέπει να αποθηκεύετε το υπολογιστικό φύλλο σε άλλες μορφές αρχείων, όπως [XLSX](/el/spreadsheet/xlsx/), [ODS](/el/spreadsheet/ods/) και [PDF](/el/pdf/). Τα βιβλία εργασίας που δημιουργούνται με κελιά υποστηρίζουν διάφορους τύπους γραφημάτων, τύπους και γραφήματα και είναι πλήρως συμβατά με το MS Excel. Η σουίτα Thinkfree, εκτός από το Cell, περιέχει επίσης εφαρμογές [Word](https://office.hancom.com/office2020/word/) και [Show](https://office.hancom.com/office2020/show/) που είναι λειτουργικά παρόμοια με το Microsoft Word και το PowerPoint.
+Ένα αρχείο με επέκταση .cell είναι ένα αρχείο βιβλίου εργασίας που δημιουργήθηκε με την εφαρμογή [Cell](https://office.hancom.com/). Αποθηκεύει δεδομένα οργανωμένα σε σειρές και στήλες σε κελιά και υποστηρίζει μορφοποίηση δεδομένων όπως BOLD, πλάγια, υπογράμμιση κ.λπ. Τα κελιά συνοδεύονται από τη σουίτα Thinkfree Office NEO και είναι παρόμοια με το Microsoft Excel. Το Cells σάς επιτρέπει να αποθηκεύετε το υπολογιστικό φύλλο σε άλλες μορφές αρχείων, όπως [XLSX](/el/spreadsheet/xlsx/), [ODS](/el/spreadsheet/ods/) και [PDF](/el/pdf/). Τα βιβλία εργασίας που δημιουργούνται με κελιά υποστηρίζουν διάφορους τύπους γραφημάτων, τύπους και γραφήματα και είναι πλήρως συμβατά με το MS Excel. Η σουίτα Thinkfree, εκτός από το Cell, περιέχει επίσης εφαρμογές [Word](https://office.hancom.com/office2020/word/) και [Show](https://office.hancom.com/office2020/show/) που είναι λειτουργικά παρόμοια με το Microsoft Word και το PowerPoint.
 
 ## Μορφή αρχείου CELL - Περισσότερες πληροφορίες
 
@@ -27,5 +27,5 @@
 
 ## Βιβλιογραφικές αναφορές ##
 
-* [Thinkfree Office NEO - Cell](https://office.hancom.com/product/desktop/cell/)
+* [Thinkfree Office NEO - Cell](https://office.hancom.com/)
 

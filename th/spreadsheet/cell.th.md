@@ -19,7 +19,7 @@
 
 ## ไฟล์ CELL คืออะไร??
 
-ไฟล์ที่มีนามสกุล .cell คือไฟล์สมุดงานที่สร้างด้วยแอปพลิเคชัน [Cell](https://office.hancom.com/product/desktop/cell/) โดยจะเก็บข้อมูลที่จัดระเบียบเป็นแถวและคอลัมน์ในเซลล์ และรองรับการจัดรูปแบบข้อมูล เช่น ตัวหนา ตัวเอียง ขีดเส้นใต้ เป็นต้น เซลล์มาพร้อมกับชุดโปรแกรม Thinkfree Office NEO และคล้ายกับ Microsoft Excel เซลล์ช่วยให้คุณบันทึกสเปรดชีตในรูปแบบไฟล์อื่นๆ เช่น [XLSX](/th/spreadsheet/xlsx/), [ODS](/th/spreadsheet/ods/) และ [PDF](/th/pdf/) สมุดงานที่สร้างด้วยเซลล์รองรับประเภทแผนภูมิ สูตร และกราฟหลายประเภท และเข้ากันได้กับ MS Excel อย่างเต็มรูปแบบ ชุดโปรแกรม Thinkfree นอกจาก Cell แล้ว ยังมีแอปพลิเคชัน [Word](https://office.hancom.com/office2020/word/) และ [Show](https://office.hancom.com/office2020/show/) ที่มีการทำงานคล้ายกับ Microsoft Word และ PowerPoint
+ไฟล์ที่มีนามสกุล .cell คือไฟล์สมุดงานที่สร้างด้วยแอปพลิเคชัน [Cell](https://office.hancom.com/) โดยจะเก็บข้อมูลที่จัดระเบียบเป็นแถวและคอลัมน์ในเซลล์ และรองรับการจัดรูปแบบข้อมูล เช่น ตัวหนา ตัวเอียง ขีดเส้นใต้ เป็นต้น เซลล์มาพร้อมกับชุดโปรแกรม Thinkfree Office NEO และคล้ายกับ Microsoft Excel เซลล์ช่วยให้คุณบันทึกสเปรดชีตในรูปแบบไฟล์อื่นๆ เช่น [XLSX](/th/spreadsheet/xlsx/), [ODS](/th/spreadsheet/ods/) และ [PDF](/th/pdf/) สมุดงานที่สร้างด้วยเซลล์รองรับประเภทแผนภูมิ สูตร และกราฟหลายประเภท และเข้ากันได้กับ MS Excel อย่างเต็มรูปแบบ ชุดโปรแกรม Thinkfree นอกจาก Cell แล้ว ยังมีแอปพลิเคชัน [Word](https://office.hancom.com/office2020/word/) และ [Show](https://office.hancom.com/office2020/show/) ที่มีการทำงานคล้ายกับ Microsoft Word และ PowerPoint
 
 ## รูปแบบไฟล์ CELL - ข้อมูลเพิ่มเติม
 
@@ -27,5 +27,5 @@
 
 ## อ้างอิง ##
 
-* [Thinkfree Office NEO - เซลล์](https://office.hancom.com/product/desktop/cell/)
+* [Thinkfree Office NEO - เซลล์](https://office.hancom.com/)
 

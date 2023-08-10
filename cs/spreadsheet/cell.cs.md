@@ -19,7 +19,7 @@
 
 ## Co je soubor CELL?
 
-Soubor s příponou .cell je soubor sešitu vytvořený pomocí aplikace [Cell](https://office.hancom.com/product/desktop/cell/). Ukládá data organizovaná do řádků a sloupců v buňkách a podporuje formátování dat jako TUČNÉ, kurzíva, podtržené atd. Buňky jsou součástí sady Thinkfree Office NEO a jsou podobné Microsoft Excelu. Buňky vám umožňují uložit tabulku v jiných formátech souborů, jako je [XLSX](/cs/tabulkový procesor/xlsx/), [ODS](/cs/tabulkový procesor/ods/) a [PDF](/cs/pdf/). Sešity vytvořené s buňkami podporují několik typů grafů, vzorců a grafů a jsou plně kompatibilní s MS Excel. Thinkfree suite kromě Cell obsahuje také aplikace [Word](https://office.hancom.com/office2020/word/) a [Show](https://office.hancom.com/office2020/show/) které jsou funkčně podobné aplikacím Microsoft Word a PowerPoint.
+Soubor s příponou .cell je soubor sešitu vytvořený pomocí aplikace [Cell](https://office.hancom.com/). Ukládá data organizovaná do řádků a sloupců v buňkách a podporuje formátování dat jako TUČNÉ, kurzíva, podtržené atd. Buňky jsou součástí sady Thinkfree Office NEO a jsou podobné Microsoft Excelu. Buňky vám umožňují uložit tabulku v jiných formátech souborů, jako je [XLSX](/cs/tabulkový procesor/xlsx/), [ODS](/cs/tabulkový procesor/ods/) a [PDF](/cs/pdf/). Sešity vytvořené s buňkami podporují několik typů grafů, vzorců a grafů a jsou plně kompatibilní s MS Excel. Thinkfree suite kromě Cell obsahuje také aplikace [Word](https://office.hancom.com/office2020/word/) a [Show](https://office.hancom.com/office2020/show/) které jsou funkčně podobné aplikacím Microsoft Word a PowerPoint.
 
 ## Formát souboru CELL – Další informace
 
@@ -27,5 +27,5 @@ Soubory buněk jsou uloženy na disk v binárním formátu souboru a jeho specif
 
 ## Reference ##
 
-* [Thinkfree Office NEO – Cell](https://office.hancom.com/product/desktop/cell/)
+* [Thinkfree Office NEO – Cell](https://office.hancom.com/)
 
