@@ -36,6 +36,6 @@ Snap đã mở rộng danh sách lớp đầu tiên của Scratch, cho phép t�
 
 ## Người giới thiệu
 
-- [YAML - Wikipedia](https://vi.wikipedia.org/wiki/YAML)
+- [YAML - Wikipedia](https://en.wikipedia.org/wiki/YAML)
 - [YAML](https://yaml.org/spec/1.2/spec.html)
 
