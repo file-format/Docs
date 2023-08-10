@@ -29,8 +29,7 @@ Los detalles del formato de archivo interno de los tipos de archivo OSZ no está
 
 ## ¿Cómo crear un archivo OSZ?
 
-¡OSU! tiene instrucciones detalladas para [crear OSZ](https://osu.ppy.sh/wiki/en/Client/File_formats#creating-.osz-and-.osk-files
-) y archivos OSK. Los siguientes pasos se pueden usar para crear un archivo OSZ usando OSU!.
+¡OSU! tiene instrucciones detalladas para [crear OSZ](https://osu.ppy.sh/wiki/en/Client/File_formats#creating-.osz-and-.osk-files) y archivos OSK. Los siguientes pasos se pueden usar para crear un archivo OSZ usando OSU!.
 
 1. Abra un mapa de ritmos a través del editor.
 1. En el menú superior, seleccione Archivo > Exportar paquete....
@@ -39,5 +38,4 @@ Los detalles del formato de archivo interno de los tipos de archivo OSZ no está
 ## Referencias
 
 * [OSU! Juego de ritmo](https://osu.ppy.sh/home)
-* [Formato de archivo OSZ](https://osu.ppy.sh/wiki/en/Client/File_formats/Osz_%28file_format%29https://osu.ppy.sh/wiki/en/Client/File_formats/Osr_%28file_format %29#tipos de datos)
 

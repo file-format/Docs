@@ -29,8 +29,8 @@ OSZ 파일 형식의 내부 파일 형식 세부 정보는 공개적으로 사�
 
 ## OSZ 파일을 만드는 방법?
 
-OSU! [OSZ 생성](https://osu.ppy.sh/wiki/en/Client/File_formats#creating-.osz-and-.osk-files에 대한 자세한 지침이 있습니다.
-) 및 OSK 파일. OSU!를 사용하여 OSZ 파일을 생성하려면 다음 단계를 사용할 수 있습니다.
+OSU! [OSZ 생성](https://osu.ppy.sh/wiki/en/Client/File_formats#creating-.osz-and-.osk-files) 에 대한 자세한 지침이 있습니다.
+및 OSK 파일. OSU!를 사용하여 OSZ 파일을 생성하려면 다음 단계를 사용할 수 있습니다.
 
 1. 편집기를 통해 비트맵을 엽니다.
 1. 상단 메뉴에서 파일 > 패키지 내보내기...를 선택합니다.
@@ -39,5 +39,3 @@ OSU! [OSZ 생성](https://osu.ppy.sh/wiki/en/Client/File_formats#creating-.osz-a
 ## 참조
 
 * [오쓰! 리듬게임](https://osu.ppy.sh/home)
-* [OSZ 파일 형식](https://osu.ppy.sh/wiki/en/Client/File_formats/Osz_%28file_format%29https://osu.ppy.sh/wiki/en/Client/File_formats/Osr_%28file_format %29#data-types)
-

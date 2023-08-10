@@ -29,8 +29,7 @@
 
 ## Как создать файл OSZ?
 
-ОСУ! есть подробные инструкции по [созданию OSZ](https://osu.ppy.sh/wiki/en/Client/File_formats#creating-.osz-and-.osk-files
-) и файлы OSK. Следующие шаги можно использовать для создания файла OSZ с помощью OSU!.
+ОСУ! есть подробные инструкции по [созданию OSZ](https://osu.ppy.sh/wiki/en/Client/File_formats#creating-.osz-and-.osk-files) и файлы OSK. Следующие шаги можно использовать для создания файла OSZ с помощью OSU!.
 
 1. Откройте карту битов в редакторе.
 1. В верхнем меню выберите Файл > Экспортировать пакет....
@@ -39,5 +38,3 @@
 ## использованная литература
 
 * [ОСУ! Ритм-игра](https://osu.ppy.sh/home)
-* [Формат файла OSZ](https://osu.ppy.sh/wiki/en/Client/File_formats/Osz_%28file_format%29https://osu.ppy.sh/wiki/en/Client/File_formats/Osr_%28file_format %29#типы данных)
-
