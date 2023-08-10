@@ -27,7 +27,7 @@
 
 ## 参考
 
-* [Access 2016 规范](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c?ui=en-us&rs=en-us&ad=us)
+* [Access 2016 规范](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
 * [Microsoft Jet 数据库引擎](https://en.wikipedia.org/wiki/Microsoft_Jet_Database_Engine)
 * [我应该使用哪种 Access 文件格式？](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617- be66f9070b41?ui=en-us&rs=en-us&ad=us)
 
