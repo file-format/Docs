@@ -32,5 +32,5 @@ QBL फ़ाइल में दो प्रकार की जानका�
 ## संदर्भ
 
 * [Intuit द्वारा QuickBooks](https://quickbooks.intuit.com/)
-* [क्विकबुक - qbregistration.dat फ़ाइल बनाना](https://quickbooks.intuit.com/learn-support/en-us/license-information/create-or-re-create-the-qbregistration-dat-file/ 00/186082)
+* [क्विकबुक - qbregistration.dat फ़ाइल बनाना](https://quickbooks.intuit.com/learn-support/en-us/help-article/license-information/create-create-qbregistration-dat-file/L7S5BwSst_US_en_US)
 

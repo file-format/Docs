@@ -32,5 +32,5 @@ En QBL-fil innehåller två typer av information.
 ## Referenser
 
 * [QuickBooks by Intuit](https://quickbooks.intuit.com/)
-* [QuickBooks - Genererar filen qbregistration.dat](https://quickbooks.intuit.com/learn-support/en-us/license-information/create-or-re-create-the-qbregistration-dat-file/ 00/186082)
+* [QuickBooks - Genererar filen qbregistration.dat](https://quickbooks.intuit.com/learn-support/en-us/help-article/license-information/create-create-qbregistration-dat-file/L7S5BwSst_US_en_US)
 

@@ -32,5 +32,5 @@ Un fichier QBL contient deux types d'informations.
 ## Références
 
 * [QuickBooks par Intuit](https://quickbooks.intuit.com/)
-* [QuickBooks - Génération du fichier qbregistration.dat](https://quickbooks.intuit.com/learn-support/en-us/license-information/create-or-re-create-the-qbregistration-dat-file/ 00/186082)
+* [QuickBooks - Génération du fichier qbregistration.dat](https://quickbooks.intuit.com/learn-support/en-us/help-article/license-information/create-create-qbregistration-dat-file/L7S5BwSst_US_en_US)
 
