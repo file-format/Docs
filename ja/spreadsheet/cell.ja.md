@@ -19,7 +19,7 @@
 
 ## .CELL ファイルとは何ですか?
 
-拡張子が .cell のファイルは、[Cell](https://office.hancom.com/) アプリケーションで作成されたワークブック ファイルです。行と列に編成されたデータをセルに保存し、太字、斜体、下線などのデータの書式設定をサポートします。セルは Thinkfree Office NEO スイートにバンドルされており、Microsoft Excel に似ています。 Cells では、スプレッドシートを [XLSX](/spreadsheet/xlsx/)、[ODS](/spreadsheet/ods/)、[PDF](/pdf/) などの他のファイル形式で保存できます。セルで作成されたワークブックは、いくつかのチャート タイプ、数式、およびグラフをサポートし、MS Excel と完全に互換性があります。 Thinkfree スイートには、Cell に加えて、[Word](https://office.hancom.com/office2020/word/) および [Show](https://office.hancom.com/office2020/show/) アプリケーションも含まれています。 Microsoft Word や PowerPoint と機能的に似ています。
+拡張子が .cell のファイルは、[Cell](https://office.hancom.com/) アプリケーションで作成されたワークブック ファイルです。行と列に編成されたデータをセルに保存し、太字、斜体、下線などのデータの書式設定をサポートします。セルは Thinkfree Office NEO スイートにバンドルされており、Microsoft Excel に似ています。 Cells では、スプレッドシートを [XLSX](/spreadsheet/xlsx/)、[ODS](/spreadsheet/ods/)、[PDF](/pdf/) などの他のファイル形式で保存できます。セルで作成されたワークブックは、いくつかのチャート タイプ、数式、およびグラフをサポートし、MS Excel と完全に互換性があります。 Thinkfree スイートには、Cell に加えて、[Word](https://office.hancom.com/) および [Show](https://office.hancom.com/) アプリケーションも含まれています。 Microsoft Word や PowerPoint と機能的に似ています。
 
 ## CELL ファイル形式 - 詳細情報
 

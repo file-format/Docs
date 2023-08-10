@@ -19,7 +19,7 @@
 
 ## מהו קובץ CELL?
 
-קובץ עם סיומת .cell הוא קובץ חוברת עבודה שנוצר באמצעות יישום [Cell](https://office.hancom.com/). הוא מאחסן נתונים המאורגנים בשורות ובעמודות בתאים ותומך בעיצוב נתונים כגון BOLD, Italic, Underline וכו'. Cells מגיע עם חבילת Thinkfree Office NEO ודומה ל-Microsoft Excel. תאים מאפשרים לך לשמור את הגיליון האלקטרוני בפורמטים אחרים של קבצים כגון [XLSX](/he/spreadsheet/xlsx/), [ODS](/he/spreadsheet/ods/) ו-[PDF](/he/pdf/). חוברות עבודה שנוצרו עם תאים תומכות במספר סוגי תרשימים, נוסחאות וגרפים, ותואמות באופן מלא ל-MS Excel. חבילת Thinkfree, בנוסף ל-Cell, מכילה גם אפליקציות [Word](https://office.hancom.com/office2020/word/) ו-[Show](https://office.hancom.com/office2020/show/) הדומים מבחינה פונקציונלית ל-Microsoft Word ו-PowerPoint.
+קובץ עם סיומת .cell הוא קובץ חוברת עבודה שנוצר באמצעות יישום [Cell](https://office.hancom.com/). הוא מאחסן נתונים המאורגנים בשורות ובעמודות בתאים ותומך בעיצוב נתונים כגון BOLD, Italic, Underline וכו'. Cells מגיע עם חבילת Thinkfree Office NEO ודומה ל-Microsoft Excel. תאים מאפשרים לך לשמור את הגיליון האלקטרוני בפורמטים אחרים של קבצים כגון [XLSX](/he/spreadsheet/xlsx/), [ODS](/he/spreadsheet/ods/) ו-[PDF](/he/pdf/). חוברות עבודה שנוצרו עם תאים תומכות במספר סוגי תרשימים, נוסחאות וגרפים, ותואמות באופן מלא ל-MS Excel. חבילת Thinkfree, בנוסף ל-Cell, מכילה גם אפליקציות [Word](https://office.hancom.com/) ו-[Show](https://office.hancom.com/) הדומים מבחינה פונקציונלית ל-Microsoft Word ו-PowerPoint.
 
 ## פורמט קובץ CELL - מידע נוסף
 
