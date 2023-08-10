@@ -31,6 +31,6 @@ La base de datos auxiliar es en realidad un sistema de base de datos en espera q
 
 ## Referencias
 
-* [QGZ – Un nuevo formato de archivo de proyecto predeterminado para QGIS](https://oslandia.com/es/2018/06/01/qgz-un-nuevo-formato-de-archivo-de-proyecto-predeterminado-para-qgis/)
+* [QGZ – Un nuevo formato de archivo de proyecto predeterminado para QGIS](https://oslandia.com/en/2018/06/01/qgz-a-new-default-project-file-format-for-qgis/)
 * [Formatos de archivo QGIS](https://docs.qgis.org/3.16/en/docs/user_manual/appendices/qgis_file_formats.html)
 
