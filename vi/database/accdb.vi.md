@@ -32,6 +32,6 @@ Kết xuất hex của tệp ACCDB đơn giản gợi ý rằng có những đi�
 
 ## Người giới thiệu
 
-* [Thông số kỹ thuật Access 2016](https://support.microsoft.com/en-us/office/access-specations-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
+* [Thông số kỹ thuật Access 2016](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
 * [Công cụ cơ sở dữ liệu Microsoft Jet](https://en.wikipedia.org/wiki/Microsoft_Jet_Database_Engine)
-* [Tôi nên sử dụng định dạng tệp Access nào?](https://support.microsoft.com/en-us/office/which-access-file-format-nên-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
+* [Tôi nên sử dụng định dạng tệp Access nào?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
