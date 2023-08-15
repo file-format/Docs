@@ -32,6 +32,6 @@ Un volcado hexadecimal de un archivo ACCDB simple sugiere que existen similitude
 
 ## Referencias
 
-* [Especificaciones de Access 2016](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c?ui=en-us&rs=en-us&ad=us)
+* [Especificaciones de Access 2016](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
 * [Motor de base de datos Microsoft Jet](https://en.wikipedia.org/wiki/Microsoft_Jet_Database_Engine)
 * [¿Qué formato de archivo de Access debo usar?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41?ui=en-us&rs=en-us&ad=us)
