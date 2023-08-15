@@ -32,7 +32,7 @@ Kết xuất hex của tệp ACCDB đơn giản gợi ý rằng có những đi�
 
 ## Người giới thiệu
 
-* [Định dạng tệp truy cập](https://support.microsoft.com/en-us/office/ which-access-file-format-nên-i-use-012d9ab3-d14c-479e-b617-be66f9070b41?redirectSourcePath=% 252fen-us%252farticle%252fIntroduction-to-the-Access-2007-file-format-8cf93630-0b68-4a40-a13c-7528b9f074b6&ui=en-US&rs=en-US&ad=US)
+* [Định dạng tệp truy cập](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 * [Thông số kỹ thuật Access 2016](https://support.microsoft.com/en-us/office/access-specations-0cf3c66f-9cf2-4e32-9568-98c1025bb47c?ui=en-us&rs=en-us&ad=us)
 * [Công cụ cơ sở dữ liệu Microsoft Jet](https://en.wikipedia.org/wiki/Microsoft_Jet_Database_Engine)
 * [Tôi nên sử dụng định dạng tệp Access nào?](https://support.microsoft.com/en-us/office/which-access-file-format-nên-i-use-012d9ab3-d14c-479e-b617-be66f9070b41?ui=en-us&rs=en-us&ad=us)
