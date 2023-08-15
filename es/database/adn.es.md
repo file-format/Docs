@@ -27,5 +27,5 @@ ADN son archivos de plantilla de base de datos que se almacenan en el disco como
 
 ## Referencias
 
-* [Microsoft Access - ¿Qué formato de acceso debo usar?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e- b617-be66f9070b41)
+* [Microsoft Access - ¿Qué formato de acceso debo usar?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

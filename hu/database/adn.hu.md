@@ -27,5 +27,5 @@ Az ADN adatbázis-sablonfájlok, amelyek bináris fájlként kerülnek a lemezre
 
 ## Hivatkozások
 
-* [Microsoft Access – Melyik hozzáférési formátumot használjam?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e- b617-be66f9070b41)
+* [Microsoft Access – Melyik hozzáférési formátumot használjam?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

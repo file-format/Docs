@@ -27,5 +27,5 @@ ADN 是作为二进制文件存储到磁盘的数据库模板文件。 ADN 文�
 
 ## 参考
 
-* [Microsoft Access - 我应该使用哪种访问格式？](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e- b617-be66f9070b41)
+* [Microsoft Access - 我应该使用哪种访问格式？](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

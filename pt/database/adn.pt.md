@@ -27,5 +27,5 @@ ADN são arquivos de modelo de banco de dados que são armazenados em disco como
 
 ## Referências
 
-* [Microsoft Access - Qual formato de acesso devo usar?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e- b617-be66f9070b41)
+* [Microsoft Access - Qual formato de acesso devo usar?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

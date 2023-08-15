@@ -27,5 +27,5 @@ ADN sunt fișiere șablon de bază de date care sunt stocate pe disc ca fișiere
 
 ## Referințe
 
-* [Microsoft Access - Ce format de acces ar trebui să folosesc?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e- b617-be66f9070b41)
+* [Microsoft Access - Ce format de acces ar trebui să folosesc?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

@@ -27,5 +27,5 @@ ADN là các tệp mẫu cơ sở dữ liệu được lưu vào đĩa dưới d
 
 ## Người giới thiệu
 
-* [Microsoft Access - Tôi nên sử dụng Định dạng truy cập nào?](https://support.microsoft.com/en-us/office/which-access-file-format-nên-i-use-012d9ab3-d14c-479e- b617-be66f9070b41)
+* [Microsoft Access - Tôi nên sử dụng Định dạng truy cập nào?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

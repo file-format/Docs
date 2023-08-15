@@ -27,5 +27,5 @@ ADN הם קבצי תבניות של מסד נתונים המאוחסנים בד�
 
 ## הפניות
 
-* [Microsoft Access - באיזה פורמט גישה עלי להשתמש?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e- b617-be66f9070b41)
+* [Microsoft Access - באיזה פורמט גישה עלי להשתמש?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 
