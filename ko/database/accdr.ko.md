@@ -27,6 +27,6 @@ ACCDR 파일은 ACCDB 파일과 구조가 동일하지만 데이터베이스의 
 
 ## 참고문헌
 
-* [액세스 2016 사양](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c?ui=en-us&rs=en-us&ad=us)
+* [액세스 2016 사양](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
 * [마이크로소프트 젯 데이터베이스 엔진](https://en.wikipedia.org/wiki/Microsoft_Jet_Database_Engine)
 * [어떤 Access 파일 형식을 사용해야 하나요?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
