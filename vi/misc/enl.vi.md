@@ -26,5 +26,5 @@ Các tệp ENL được lưu trữ dưới dạng tệp nhị phân mà không c
 
 ## Người giới thiệu
 
-* [Tầm quan trọng của thư mục dữ liệu EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= vi_US)
+* [Tầm quan trọng của thư mục dữ liệu EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files)
 

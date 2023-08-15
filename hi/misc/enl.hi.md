@@ -26,5 +26,5 @@
 
 ## संदर्भ
 
-* [एंडनोट डेटा फ़ोल्डर का महत्व](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= en_US)
+* [एंडनोट डेटा फ़ोल्डर का महत्व](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files)
 

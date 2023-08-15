@@ -26,5 +26,5 @@ ENL-bestanden worden opgeslagen als binaire bestanden zonder de beschikbaarheid 
 
 ## Referenties
 
-* [Belang van de EndNote-gegevensmap](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= nl_US)
+* [Belang van de EndNote-gegevensmap](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files)
 

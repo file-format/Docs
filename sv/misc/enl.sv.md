@@ -26,5 +26,5 @@ ENL-filer lagras som binära filer utan tillgång till några detaljer om det in
 
 ## Referenser
 
-* [Improtance of the EndNote Data Folder](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= sv_US)
+* [Improtance of the EndNote Data Folder](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files)
 

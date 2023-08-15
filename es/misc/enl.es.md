@@ -26,5 +26,5 @@ Los archivos ENL se almacenan como archivos binarios sin la disponibilidad de ni
 
 ## Referencias
 
-* [Importancia de la carpeta de datos EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= en_US)
+* [Importancia de la carpeta de datos EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files)
 

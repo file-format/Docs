@@ -26,5 +26,5 @@
 
 ## อ้างอิง
 
-* [ความสำคัญของโฟลเดอร์ข้อมูล EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= th_US)
+* [ความสำคัญของโฟลเดอร์ข้อมูล EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files)
 

@@ -26,5 +26,5 @@ Fișierele ENL sunt stocate ca fișiere binare fără a fi disponibilă orice de
 
 ## Referințe
 
-* [Improtanța folderului de date EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= ro_US)
+* [Improtanța folderului de date EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files)
 
