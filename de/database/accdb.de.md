@@ -33,4 +33,4 @@ Ein Hex-Dump einer einfachen ACCDB-Datei legt nahe, dass es allgemeine Ähnlichk
 
 * [Access 2016-Spezifikationen](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
 * [Microsoft Jet-Datenbankmodul](https://en.wikipedia.org/wiki/Microsoft_Jet_Database_Engine)
-* [Welches Access-Dateiformat sollte ich verwenden?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41?ui=en-us&rs=en-us&ad=us)
+* [Welches Access-Dateiformat sollte ich verwenden?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)

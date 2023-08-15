@@ -34,4 +34,4 @@ Een hex-dump van een eenvoudig ACCDB-bestand suggereert dat er algemene overeenk
 
 * [Access 2016-specificaties](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
 * [Microsoft Jet Database Engine](https://en.wikipedia.org/wiki/Microsoft_Jet_Database_Engine)
-* [Welke Access-bestandsindeling moet ik gebruiken?](https://support.microsoft.com/en-us/office/who-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41?ui=nl-nl&rs=nl-nl&ad=ons)
+* [Welke Access-bestandsindeling moet ik gebruiken?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)

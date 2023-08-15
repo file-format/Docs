@@ -34,4 +34,4 @@ Un dump esadecimale di un semplice file ACCDB suggerisce che ci sono somiglianze
 
 * [Specifiche di accesso 2016](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
 * [Motore di database Microsoft Jet](https://en.wikipedia.org/wiki/Microsoft_Jet_Database_Engine)
-* [Quale formato di file di Access dovrei usare?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41?ui=en-us&rs=en-us&ad=us)
+* [Quale formato di file di Access dovrei usare?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)

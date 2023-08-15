@@ -34,4 +34,4 @@ Zrzut szesnastkowy prostego pliku ACCDB sugeruje, że istnieją ogólne podobie�
 
 * [Specyfikacje programu Access 2016](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
 * [Aparat bazy danych Microsoft Jet](https://en.wikipedia.org/wiki/Microsoft_Jet_Database_Engine)
-* [Którego formatu pliku programu Access powinienem użyć?](https://support.microsoft.com/en-us/office/ Which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41?ui=en-us&rs=en-us&ad=us)
+* [Którego formatu pliku programu Access powinienem użyć?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
