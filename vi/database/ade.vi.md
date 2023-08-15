@@ -30,5 +30,5 @@ Các tệp ADE có thể tạo ra sự cố khi mở dựa trên phiên bản Mi
 ## Người giới thiệu
 
 * [Sự cố với tệp Access ADE](https://learn.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
-* [Sử dụng định dạng tệp truy cập nào](https://support.microsoft.com/en-us/office/what-access-file-format-nên-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
+* [Sử dụng định dạng tệp truy cập nào](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 
