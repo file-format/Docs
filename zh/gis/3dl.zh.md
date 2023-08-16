@@ -19,7 +19,7 @@
 
 ## 什么是 3DL 文件？
 
-3DL 文件是 iGO 导航软件使用的 iGO 地标文件。它存储兴趣点 (POI) 和地标的位置信息。此信息可以包括名称、位置以及有关 POI 或地标的其他详细信息。 iGO Landmark 文件格式是专有的，仅供 [iGO 导航软件](https://www.nng.com/navigation/) 使用。 3DL 文件可与地图数据文件结合使用，为用户提供导航指导。
+3DL 文件是 iGO 导航软件使用的 iGO 地标文件。它存储兴趣点 (POI) 和地标的位置信息。此信息可以包括名称、位置以及有关 POI 或地标的其他详细信息。 iGO Landmark 文件格式是专有的，仅供 [iGO 导航软件](https://en.wikipedia.org/wiki/IGO_(software)) 使用。 3DL 文件可与地图数据文件结合使用，为用户提供导航指导。
 
 ## 3DL 文件格式
 
