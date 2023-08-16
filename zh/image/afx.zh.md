@@ -27,5 +27,5 @@ AFX 文件保存为二进制文件，可以使用 Auto FX PhotoGraphic Edges 软
 
 ## 参考
 
-* [汽车外汇](https://www.autofx.com/july-4-sale/pge-details.html)
+* N/A
 

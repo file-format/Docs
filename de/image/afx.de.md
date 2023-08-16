@@ -27,5 +27,5 @@ AFX-Dateien werden als Binärdateien gespeichert, die mit der Auto FX PhotoGraph
 
 ## Verweise
 
-* [Auto-FX](https://www.autofx.com/july-4-sale/pge-details.html)
+* N/A
 

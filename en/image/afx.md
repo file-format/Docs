@@ -27,4 +27,4 @@ AFX files are saved as binary files that can be opened by using the Auto FX Phot
 
 ## References
 
-Not available at the moment
+* N/A

@@ -27,5 +27,5 @@ Az AFX-fájlok bináris fájlokként kerülnek mentésre, amelyeket az Auto FX P
 
 ## Hivatkozások
 
-* [Auto FX](https://www.autofx.com/july-4-sale/pge-details.html)
+* N/A
 

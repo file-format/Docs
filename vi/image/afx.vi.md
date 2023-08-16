@@ -27,5 +27,5 @@ Các tệp AFX được lưu dưới dạng tệp nhị phân có thể được
 
 ## Người giới thiệu
 
-* [Tự động FX](https://www.autofx.com/july-4-sale/pge-details.html)
+* N/A
 

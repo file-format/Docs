@@ -27,5 +27,5 @@ Les fichiers AFX sont enregistrés sous forme de fichiers binaires pouvant être
 
 ## Références
 
-* [Auto FX](https://www.autofx.com/july-4-sale/pge-details.html)
+* N/A
 

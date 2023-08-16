@@ -27,5 +27,5 @@ AFX-filer sparas som binära filer som kan öppnas med programvaran Auto FX Phot
 
 ## Referenser
 
-* [Auto FX](https://www.autofx.com/july-4-sale/pge-details.html)
+* N/A
 
