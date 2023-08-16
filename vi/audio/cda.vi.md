@@ -51,5 +51,5 @@ Bảng sau đây hiển thị thông tin về độ lệch chuẩn:
 
 ## Người giới thiệu
 
-* [tệp .cda - Theo Wikipedia](https://vi.wikipedia.org/wiki/.cda_file)
+* [tệp .cda - Theo Wikipedia](https://en.wikipedia.org/wiki/.cda_file)
 
