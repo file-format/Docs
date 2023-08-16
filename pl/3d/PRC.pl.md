@@ -71,6 +71,6 @@ Czytnik posiada tryb pełnoekranowy do czytania i obsługuje wiele PDA, Komunika
 ## Bibliografia
 
 - [PRC - Wikipedia](https://en.wikipedia.org/wiki/PRC_(file_format))
-- [Specyfikacja formatu PRC](https://web.archive.org/web/20081202034541/http://livedocs.adobe.com/acrobat_sdk/9/Acrobat9_HTMLHelp/API_References/PRCRReference/PRC_Format_Specification/index.html)
+- [Specyfikacja formatu PRC](https://web.archive.org/web/20081202034541/http://livedocs.adobe.com/acrobat_sdk/9/Acrobat9_HTMLHelp/API_References/PRCReference/PRC_Format_Specification/index.html)
 - [Porównanie formatów e-booków – Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_e-book_formats)
 
