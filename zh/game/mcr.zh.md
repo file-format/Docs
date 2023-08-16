@@ -39,7 +39,7 @@ Minecraft MCR 文件格式支持压缩。 MCR 文件格式基于允许数据以�
 ## 参考
 
 * [我的世界世界编辑器](https://www.mcedit.net/)
-* [关于我的世界](https://www.minecraft.net/zh-cn)
+* [关于我的世界](https://www.minecraft.net/)
 * [区域文件格式](https://minecraft.fandom.com/wiki/Region_file_format)
 * [NBT格式](https://minecraft.fandom.com/wiki/NBT_format)
 

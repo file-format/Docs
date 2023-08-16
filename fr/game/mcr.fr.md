@@ -39,7 +39,7 @@ Le format de fichier Minecraft MCR prend en charge la compression. Le format de 
 ## Références
 
 * [Éditeur mondial pour Minecraft](https://www.mcedit.net/)
-* [À propos de Minecraft](https://www.minecraft.net/en-us)
+* [À propos de Minecraft](https://www.minecraft.net/)
 * [Format de fichier de région](https://minecraft.fandom.com/wiki/Region_file_format)
 * [Format NBT](https://minecraft.fandom.com/wiki/NBT_format)
 
