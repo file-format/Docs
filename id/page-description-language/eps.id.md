@@ -79,7 +79,7 @@ File EPS tidak dapat menggunakan operator berikut:
 
 File EPS dapat dikonversi ke format gambar standar seperti [JPG](/id/image/jpeg/), [PNG](/id/image/png/), [TIFF](/id/image/tiff/), dan [PDF](/id/pdf /) menggunakan aplikasi yang berbeda misalnya Adobe Illustrator, Photoshop dan PaintShop Pro.
 
-Karena [kerentanan keamanan](https://support.office.com/en-us/article/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e- a1b5-cbb0c334a840) dalam file EPS, Office 2016, Office 2013, Office 2010, dan Office 365 telah menonaktifkan kemampuan untuk memasukkan file EPS ke dalam dokumen Office.
+Karena [kerentanan keamanan](https://support.microsoft.com/en-us/office/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e-a1b5-cbb0c334a840) dalam file EPS, Office 2016, Office 2013, Office 2010, dan Office 365 telah menonaktifkan kemampuan untuk memasukkan file EPS ke dalam dokumen Office.
 
 ## Referensi
 

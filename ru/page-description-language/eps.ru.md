@@ -79,7 +79,7 @@ PICT и Windows Metafile могут включать как растровые �
 
 Файлы EPS можно преобразовать в стандартные форматы изображений, такие как [JPG](/ru/image/jpeg/), [PNG](/ru/image/png/), [TIFF](/ru/image/tiff/) и [PDF](/ru/pdf). /) с использованием различных приложений, например Adobe Illustrator, Photoshop и PaintShop Pro.
 
-Из-за [уязвимости системы безопасности](https://support.office.com/en-us/article/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e- a1b5-cbb0c334a840) в файлах EPS, Office 2016, Office 2013, Office 2010 и Office 365 отключили возможность вставки файлов EPS в документы Office.
+Из-за [уязвимости системы безопасности](https://support.microsoft.com/en-us/office/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e-a1b5-cbb0c334a840) в файлах EPS, Office 2016, Office 2013, Office 2010 и Office 365 отключили возможность вставки файлов EPS в документы Office.
 
 ## использованная литература
 

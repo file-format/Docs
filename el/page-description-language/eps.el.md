@@ -79,7 +79,7 @@
 
 Τα αρχεία EPS μπορούν να μετατραπούν σε τυπικές μορφές εικόνας όπως [JPG](/el/image/jpeg/), [PNG](/el/image/png/), [TIFF](/el/image/tiff/) και [PDF](/el/pdf /) χρησιμοποιώντας διαφορετικές εφαρμογές π.χ. Adobe Illustrator, Photoshop και PaintShop Pro.
 
-Λόγω μιας [ευπάθειας ασφαλείας](https://support.office.com/en-us/article/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e- a1b5-cbb0c334a840) σε αρχεία EPS, το Office 2016, το Office 2013, το Office 2010 και το Office 365 έχουν απενεργοποιήσει τη δυνατότητα εισαγωγής αρχείων EPS σε έγγραφα του Office.
+Λόγω μιας [ευπάθειας ασφαλείας](https://support.microsoft.com/en-us/office/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e-a1b5-cbb0c334a840) σε αρχεία EPS, το Office 2016, το Office 2013, το Office 2010 και το Office 365 έχουν απενεργοποιήσει τη δυνατότητα εισαγωγής αρχείων EPS σε έγγραφα του Office.
 
 ## βιβλιογραφικές αναφορές
 

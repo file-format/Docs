@@ -79,7 +79,7 @@ Un fișier EPS nu poate folosi niciunul dintre următorii operatori:
 
 Fișierele EPS pot fi convertite în formate standard de imagine, cum ar fi [JPG](/ro/image/jpeg/), [PNG](/ro/image/png/), [TIFF](/ro/image/tiff/) și [PDF](/ro/pdf /) folosind diferite aplicații, de exemplu Adobe Illustrator, Photoshop și PaintShop Pro.
 
-Din cauza unei [vulnerabilitati de securitate](https://support.office.com/en-us/article/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e- a1b5-cbb0c334a840) în fișierele EPS, Office 2016, Office 2013, Office 2010 și Office 365 au dezactivat capacitatea de a insera fișiere EPS în documentele Office.
+Din cauza unei [vulnerabilitati de securitate](https://support.microsoft.com/en-us/office/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e-a1b5-cbb0c334a840) în fișierele EPS, Office 2016, Office 2013, Office 2010 și Office 365 au dezactivat capacitatea de a insera fișiere EPS în documentele Office.
 
 ## Referințe
 

@@ -79,7 +79,7 @@ Bir EPS dosyası aşağıdaki işleçlerden herhangi birini kullanamaz:
 
 EPS dosyaları, [JPG](/tr/image/jpeg/), [PNG](/tr/image/png/), [TIFF](/tr/image/tiff/) ve [PDF](/tr/pdf) gibi standart görüntü formatlarına dönüştürülebilir. /) Adobe Illustrator, Photoshop ve PaintShop Pro gibi farklı uygulamalar kullanarak.
 
-[Güvenlik açığı](https://support.office.com/en-us/article/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e- nedeniyle) a1b5-cbb0c334a840) EPS dosyalarında, Office 2016, Office 2013, Office 2010 ve Office 365, EPS dosyalarını Office belgelerine ekleme özelliğini kapatmıştır.
+[Güvenlik açığı](https://support.microsoft.com/en-us/office/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e-a1b5-cbb0c334a840) a1b5-cbb0c334a840) EPS dosyalarında, Office 2016, Office 2013, Office 2010 ve Office 365, EPS dosyalarını Office belgelerine ekleme özelliğini kapatmıştır.
 
 ## Referanslar
 

@@ -79,7 +79,7 @@ EPS 파일은 다음 연산자를 사용할 수 없습니다.
 
 EPS 파일은 [JPG](/ko/image/jpeg/), [PNG](/ko/image/png/), [TIFF](/ko/image/tiff/) 및 [PDF](/ko/pdf)와 같은 표준 이미지 형식으로 변환할 수 있습니다. /) Adobe Illustrator, Photoshop 및 PaintShop Pro와 같은 다른 응용 프로그램을 사용합니다.
 
-[보안 취약점](https://support.office.com/en-us/article/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e- a1b5-cbb0c334a840) EPS 파일의 Office 2016, Office 2013, Office 2010 및 Office 365는 EPS 파일을 Office 문서에 삽입하는 기능을 해제했습니다.
+[보안 취약점](https://support.microsoft.com/en-us/office/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e-a1b5-cbb0c334a840) EPS 파일의 Office 2016, Office 2013, Office 2010 및 Office 365는 EPS 파일을 Office 문서에 삽입하는 기능을 해제했습니다.
 
 ## 참고문헌
 
