@@ -38,6 +38,6 @@ Vì cả MTS và M2TS đều liên quan đến định dạng AVCHD nên có th�
 
 ## Người giới thiệu ##
 
-- [.m2ts - Wikipedia](https://vi.wikipedia.org/wiki/.m2ts)
+- [.m2ts - Wikipedia](https://en.wikipedia.org/wiki/.m2ts)
 - [Định dạng video AVCHD: Sự khác biệt giữa MTS và M2TS](https://www.videosolo.com/tutorials/mts-vs-m2ts.html)
 

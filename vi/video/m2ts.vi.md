@@ -36,7 +36,7 @@ Một số người có thể nhầm lẫn về tệp MTS và M2TS. Hãy giải 
 
 ## Người giới thiệu ##
 
-- [.m2ts - Wikipedia](https://vi.wikipedia.org/wiki/.m2ts)
+- [.m2ts - Wikipedia](https://en.wikipedia.org/wiki/.m2ts)
 - [Định dạng video AVCHD: Sự khác biệt giữa MTS và M2TS](https://www.videosolo.com/tutorials/mts-vs-m2ts.html)
 
 
