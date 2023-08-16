@@ -28,5 +28,5 @@ Các tệp BOK được lưu dưới dạng các trang web thường ở định
 
 ## Người giới thiệu
 
-* [ProStores - Wikipedia](https://vi.wikipedia.org/wiki/ProStores)
+* [ProStores - Wikipedia](https://en.wikipedia.org/wiki/ProStores)
 

@@ -68,5 +68,5 @@ Bộ đệm và tài nguyên hình ảnh được tham chiếu qua URI. Hai lo�
 ## Người giới thiệu ##
 
 * [Thông số kỹ thuật glTF 2.0 - Khronos](https://github.com/KhronosGroup/glTF)
-* [Định dạng tệp glTF - Theo Wikipedia](https://vi.wikipedia.org/wiki/GlTF)
+* [Định dạng tệp glTF - Theo Wikipedia](https://en.wikipedia.org/wiki/GlTF)
 

@@ -27,5 +27,5 @@ Các tệp BKS được lưu vào đĩa dưới dạng tệp nhị phân và th�
 
 ## Người giới thiệu ##
 
-* [Microsoft Works - Theo Wikipedia](https://vi.wikipedia.org/wiki/Microsoft_Works)
+* [Microsoft Works - Theo Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Works)
 

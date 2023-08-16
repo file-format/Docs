@@ -26,5 +26,5 @@ DivXNetworks đã thành lập OpenDivX vào tháng 1 năm 2001 như một phầ
 
 ## Người giới thiệu ##
 
-- [Xvid - Wikipedia](https://vi.wikipedia.org/wiki/Xvid)
+- [Xvid - Wikipedia](https://en.wikipedia.org/wiki/Xvid)
 - [Xvid](https://www.xvid.com/)

@@ -27,5 +27,5 @@ AZW là một định dạng tệp đóng và thông số kỹ thuật của nó
 
 ## Người giới thiệu ##
 
-* [Định dạng tệp Kindle - Wikipedia](https://vi.wikipedia.org/wiki/Kindle_File_Format)
+* [Định dạng tệp Kindle - Wikipedia](https://en.wikipedia.org/wiki/Kindle_File_Format)
 

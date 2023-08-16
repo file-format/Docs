@@ -26,5 +26,5 @@ Tệp ứng dụng BTAPP được lưu dưới dạng tệp nhị phân. Nó ch�
 
 ## Người giới thiệu
 
-* [Tệp Torrent - wikipedia](https://vi.wikipedia.org/wiki/Torrent_file)
+* [Tệp Torrent - wikipedia](https://en.wikipedia.org/wiki/Torrent_file)
 

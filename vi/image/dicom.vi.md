@@ -109,7 +109,7 @@ DICOM sử dụng các cổng TCP và UDP sau:
 
 ## Người giới thiệu ##
 
-* [https://vi.wikipedia.org/wiki/DICOM](https://vi.wikipedia.org/wiki/DICOM)
+* [https://vi.wikipedia.org/wiki/DICOM](https://en.wikipedia.org/wiki/DICOM)
 * [https://www.leadtools.com/sdk/medical/dicom-spec](https://www.leadtools.com/sdk/medical/dicom-spec)
 * [https://www.dicomstandard.org/concepts/](https://www.dicomstandard.org/concepts/)
 * [https://www.dicomlibrary.com/dicom/](https://www.dicomlibrary.com/dicom/)

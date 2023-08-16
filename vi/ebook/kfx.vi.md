@@ -27,6 +27,6 @@ KFX là một định dạng phức tạp vì nó kết hợp một số tính n
 
 ## Người giới thiệu ##
 
-* [Phông chữ Bookerly - Wikipedia](https://vi.wikipedia.org/wiki/Bookerly)
+* [Phông chữ Bookerly - Wikipedia](https://en.wikipedia.org/wiki/Bookerly)
 * [KFX - Theo Wikipedia](https://wiki.mobileread.com/wiki/KFX)
 

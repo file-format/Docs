@@ -46,5 +46,5 @@ $ head -c 200 animated-sticker
 ## Người giới thiệu ##
 
 * [TGS](https://core.telegram.org/stickers#animated-stickers)
-* [gzip - Wikipedia](https://vi.wikipedia.org/wiki/Gzip)
+* [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
 

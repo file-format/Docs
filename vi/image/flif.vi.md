@@ -126,6 +126,6 @@ Trong phương pháp này, việc mã hóa các cây MANIAC bắt đầu ngay sa
 
 ## Người giới thiệu ##
 
-- [FLIF - Wikipedia](https://vi.wikipedia.org/wiki/Free_Lossless_Image_Format)
+- [FLIF - Wikipedia](https://en.wikipedia.org/wiki/Free_Lossless_Image_Format)
 - [FLIF](http://flif.info/)
 

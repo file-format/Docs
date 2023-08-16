@@ -52,5 +52,5 @@ Tệp ARJ chứa hai loại tiêu đề:
 
 ## Người giới thiệu ##
 
-- [ARJ - Wikipedia](https://vi.wikipedia.org/wiki/ARJ)
+- [ARJ - Wikipedia](https://en.wikipedia.org/wiki/ARJ)
 

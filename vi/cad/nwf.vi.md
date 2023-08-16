@@ -27,5 +27,5 @@ Chi tiết định dạng tệp nội bộ của NWF không có sẵn vì đây 
 
 ## Người giới thiệu ##
 
-* [Navisworks theo wikipedia](https://vi.wikipedia.org/wiki/Navisworks)
+* [Navisworks theo wikipedia](https://en.wikipedia.org/wiki/Navisworks)
 

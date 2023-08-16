@@ -34,7 +34,7 @@ WScript.Quit
 
 ## Người giới thiệu
 
-* [Máy chủ Windows Script - theo Wikipedia](https://vi.wikipedia.org/wiki/Windows_Script_Host)
+* [Máy chủ Windows Script - theo Wikipedia](https://en.wikipedia.org/wiki/Windows_Script_Host)
 
 
 

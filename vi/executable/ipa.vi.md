@@ -43,6 +43,6 @@ Trên đây là cấu trúc có sẵn để iTunes và App Store nhận diện. 
 
 ## Người giới thiệu
 
-* [.ipa - theo Wikipedia](https://vi.wikipedia.org/wiki/.ipa)
+* [.ipa - theo Wikipedia](https://en.wikipedia.org/wiki/.ipa)
 
 

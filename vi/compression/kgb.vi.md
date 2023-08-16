@@ -19,7 +19,7 @@
 
 ## Tệp KGB là gì?
 
-Tệp có phần mở rộng .kgb là tệp lưu trữ nén được tạo bằng phần mềm lưu trữ KGB. Trình lưu trữ KGB sử dụng thuật toán nén [PAQ6](https://vi.wikipedia.org/wiki/PAQ6) để nén các tệp vào kho lưu trữ KGB. Trình lưu trữ KGB đã ngừng hoạt động và không còn được sử dụng nữa. Định dạng tệp KGB cung cấp tốc độ nén cao hơn nhưng phải trả giá bằng các yêu cầu phần cứng tối thiểu (khuyến nghị bộ xử lý có xung nhịp 1,5 GHz và 256 MB RAM) và thời gian nén/giải nén kéo dài.
+Tệp có phần mở rộng .kgb là tệp lưu trữ nén được tạo bằng phần mềm lưu trữ KGB. Trình lưu trữ KGB sử dụng thuật toán nén [PAQ6](https://en.wikipedia.org/wiki/PAQ6) để nén các tệp vào kho lưu trữ KGB. Trình lưu trữ KGB đã ngừng hoạt động và không còn được sử dụng nữa. Định dạng tệp KGB cung cấp tốc độ nén cao hơn nhưng phải trả giá bằng các yêu cầu phần cứng tối thiểu (khuyến nghị bộ xử lý có xung nhịp 1,5 GHz và 256 MB RAM) và thời gian nén/giải nén kéo dài.
 
 ## Định dạng tệp KGB
 
@@ -27,6 +27,6 @@ Không có chi tiết triển khai kỹ thuật nào về định dạng tệp K
 
 ## Người giới thiệu
 
-* [KGB - Wikipedia](https://vi.wikipedia.org/wiki/KGB_Archiver)
+* [KGB - Wikipedia](https://en.wikipedia.org/wiki/KGB_Archiver)
 * [KGB Archiver](https://sourceforge.net/projects/kgbarchiver/)
 

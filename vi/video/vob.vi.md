@@ -34,6 +34,6 @@ Nhiều DVD video được mã hóa và ngăn chặn việc sao chép dữ liệ
 
 ## Người giới thiệu ##
 
-- [VOB - Wikipedia](https://vi.wikipedia.org/wiki/VOB)
+- [VOB - Wikipedia](https://en.wikipedia.org/wiki/VOB)
 - [Cấu trúc thư mục/Video bên trong DVD](https://en.wikibooks.org/wiki/Inside_DVD-Video/Directory_Structure)
 

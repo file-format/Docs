@@ -27,4 +27,4 @@ Các tệp ASK được lưu vào đĩa ở định dạng tệp nhị phân đ�
 
 ## Người giới thiệu
 
-* [AskSam - Wikipedia](https://vi.wikipedia.org/wiki/AskSam)
+* [AskSam - Wikipedia](https://en.wikipedia.org/wiki/AskSam)

@@ -71,6 +71,6 @@ Các tệp HPGL ở định dạng ASCII (tệp văn bản) và bắt đầu b�
 |LBXin chào thế giới*;|vẽ nhãn|
 
 ## Người giới thiệu
-* [HPGL của Wikipedia](https://vi.wikipedia.org/wiki/HP-GL)
+* [HPGL của Wikipedia](https://en.wikipedia.org/wiki/HP-GL)
 * [Hướng dẫn tham khảo HPGL](https://www.isoplotec.co.jp/HPGL/eHPGL.htm)
 

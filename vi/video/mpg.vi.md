@@ -73,7 +73,7 @@ Bảng sau đây hiển thị định dạng tiêu đề một phần hệ thố
 
 ## Người giới thiệu ##
 
-- [MPEG-1 - Wikipedia](https://vi.wikipedia.org/wiki/MPEG-1)
+- [MPEG-1 - Wikipedia](https://en.wikipedia.org/wiki/MPEG-1)
 
 
 

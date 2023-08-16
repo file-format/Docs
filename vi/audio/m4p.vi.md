@@ -36,6 +36,6 @@ Lặp lại các đoạn, cho đến khi phát hiện thấy đoạn không xác
 
 ## Người giới thiệu ##
 
-* [MPEG-4 Phần 14 - Theo Wikipedia](https://vi.wikipedia.org/wiki/MPEG-4_Part_14)
+* [MPEG-4 Phần 14 - Theo Wikipedia](https://en.wikipedia.org/wiki/MPEG-4_Part_14)
 * [Ví dụ khôi phục và định dạng âm thanh MPEG-4 Phần 14 (M4A,M4B,M4P)](https://www.file-recovery.com/m4a-signature-format.htm)
 

@@ -103,5 +103,5 @@ Một số trình phát phương tiện và trình chỉnh sửa video, bao gồ
 
 ## Người giới thiệu
 
-* [https://en.wikipedia.org/wiki/QuickTime_File_Format](https://vi.wikipedia.org/wiki/QuickTime_File_Format)
+* [https://en.wikipedia.org/wiki/QuickTime_File_Format](https://en.wikipedia.org/wiki/QuickTime_File_Format)
 

@@ -92,6 +92,6 @@ Sau đây là một số tính năng/lợi ích cơ bản của MS Visio:
 
 ## Người giới thiệu ##
 
-* [Microsoft Visio - Theo Wikipedia](https://vi.wikipedia.org/wiki/Microsoft_Visio)
+* [Microsoft Visio - Theo Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Visio)
 * [Tổng quan về Visio - Bởi Microsoft](https://www.microsoft.com/en-ww/microsoft-365/visio/flowchart-software)
 

@@ -56,6 +56,6 @@ Với GIF đã có sẵn và được sử dụng trong một thời gian dài, 
 
 ## Người giới thiệu
 
-* [Định dạng tệp APNG](https://vi.wikipedia.org/wiki/APNG)
+* [Định dạng tệp APNG](https://en.wikipedia.org/wiki/APNG)
 * [Thông số định dạng PNG chính thức](https://www.w3.org/TR/PNG/)
 

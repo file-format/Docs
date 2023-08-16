@@ -63,5 +63,5 @@ DWG là một trong những định dạng tệp được sử dụng rộng rã
 
 * [Thông số định dạng tệp DWG](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
 * [Đặc tả tệp DWG](https://www.scan2cad.com/blog/dwg/file-spec/)
-* [DWG - Theo Wikipedia](https://vi.wikipedia.org/wiki/.dwg)
+* [DWG - Theo Wikipedia](https://en.wikipedia.org/wiki/.dwg)
 

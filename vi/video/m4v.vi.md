@@ -42,6 +42,6 @@ Mã hóa âm thanh nâng cao (AAC) là một bộ giải mã âm thanh để né
 
 ### Người giới thiệu ###
 
-* [Wikipedia - M4V](https://vi.wikipedia.org/wiki/M4V)
-* [Wikipedia - MPEG-4_AVC](https://vi.wikipedia.org/wiki/H.264/MPEG-4_AVC)
+* [Wikipedia - M4V](https://en.wikipedia.org/wiki/M4V)
+* [Wikipedia - MPEG-4_AVC](https://en.wikipedia.org/wiki/H.264/MPEG-4_AVC)
 

@@ -47,5 +47,5 @@ Tài liệu Apple PAGES có thể được chuyển đổi sang một số đị
 ## Người giới thiệu
 
 * [Chuyển đổi tài liệu trang](https://support.apple.com/en-us/HT202227)
-* [Trang Apple - Wikipedia](https://vi.wikipedia.org/wiki/Pages_(word_processor))
+* [Trang Apple - Wikipedia](https://en.wikipedia.org/wiki/Pages_(word_processor))
 

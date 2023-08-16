@@ -107,6 +107,6 @@ tên = { đầu = "Tom", cuối = "Pitt" }
 
 ## Người giới thiệu ##
 
-- [TOML - Wikipedia](https://vi.wikipedia.org/wiki/TOML)
+- [TOML - Wikipedia](https://en.wikipedia.org/wiki/TOML)
 - [TOML](https://toml.io/en/)
 

@@ -166,6 +166,6 @@ Về cơ bản, cả JSON và YAML đều được phát triển để cung cấ
 
 ## Người giới thiệu ##
 
-- [YAML - Wikipedia](https://vi.wikipedia.org/wiki/YAML)
+- [YAML - Wikipedia](https://en.wikipedia.org/wiki/YAML)
 - [YAML](https://yaml.org/spec/1.2/spec.html)
 

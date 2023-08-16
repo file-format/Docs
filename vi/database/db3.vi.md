@@ -31,6 +31,6 @@ Thông thường, định dạng tệp db liên quan đến SQLite, phiên bản
 
 ## Người giới thiệu ##
 
-* [SQLite - Wikipedia](https://vi.wikipedia.org/wiki/SQLite)
+* [SQLite - Wikipedia](https://en.wikipedia.org/wiki/SQLite)
 * [SQLite, Phiên bản 3](https://www.loc.gov/preservation/digital/formats/fdd/fdd000461.shtml)
 

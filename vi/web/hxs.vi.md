@@ -28,5 +28,5 @@ Các tệp HXS được tạo và lưu dưới dạng tệp nén từ nội dung
 
 ## Người giới thiệu
 
-* [Tệp trợ giúp của Microsoft 2.0](https://vi.wikipedia.org/wiki/Microsoft_Help_2)
+* [Tệp trợ giúp của Microsoft 2.0](https://en.wikipedia.org/wiki/Microsoft_Help_2)
 

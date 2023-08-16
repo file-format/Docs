@@ -27,5 +27,5 @@ OpenDocument định nghĩa các tiêu chuẩn [ZIP](/vi/compression/zip/) cũng
 
 ## Người giới thiệu ##
 
-* [OpenDocument - Bởi Wikipedia](https://vi.wikipedia.org/wiki/OpenDocument)
+* [OpenDocument - Bởi Wikipedia](https://en.wikipedia.org/wiki/OpenDocument)
 

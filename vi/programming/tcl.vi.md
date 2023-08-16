@@ -86,7 +86,7 @@ $b eat               → error "unknown command"
 
 ## Tài liệu tham khảo ##
 
-* [TCL - theo Wikipedia](https://vi.wikipedia.org/wiki/Tcl)
+* [TCL - theo Wikipedia](https://en.wikipedia.org/wiki/Tcl)
 
 
 

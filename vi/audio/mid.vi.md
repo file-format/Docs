@@ -36,6 +36,6 @@ Nhạc cụ đầu tiên, Roland Jupiter-6 và Prophet 600, được giới thi�
 
 ## Người giới thiệu
 
-* [MIDI – Wikipedia](https://vi.wikipedia.org/wiki/MIDI)
+* [MIDI – Wikipedia](https://en.wikipedia.org/wiki/MIDI)
 * Swift, Andrew. (May 1997), "A Brief Introduction to MIDI", SURPRISE, Imperial College of Science Technology and Medicine, Bản gốc lưu trữ ngày 30 tháng 8 năm 2012, truy cập ngày 22 tháng 8 năm 2012
 

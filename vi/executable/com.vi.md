@@ -43,5 +43,5 @@ hello:   db   'Hello, .COM programmer!',13,10,'$'
 
 ## Người giới thiệu
 
-* [Tệp COM - của Wikipewdia](https://vi.wikipedia.org/wiki/COM_file)
+* [Tệp COM - của Wikipewdia](https://en.wikipedia.org/wiki/COM_file)
 

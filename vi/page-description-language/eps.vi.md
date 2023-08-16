@@ -83,5 +83,5 @@ Do [lỗ hổng bảo mật](https://support.office.com/en-us/article/support-fo
 
 ## Người giới thiệu
 
-* [PostScript được đóng gói - Theo Wikipedia](https://vi.wikipedia.org/wiki/Encapsulated_PostScript)
+* [PostScript được đóng gói - Theo Wikipedia](https://en.wikipedia.org/wiki/Encapsulated_PostScript)
 

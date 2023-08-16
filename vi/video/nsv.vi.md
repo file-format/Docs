@@ -26,5 +26,5 @@ NSV là một định dạng tệp video vùng chứa hấp dẫn được phát
 
 ## Người giới thiệu
 
-* [Video phát trực tuyến NullSoft - Wikipedia](https://vi.wikipedia.org/wiki/Nullsoft_Streaming_Video)
+* [Video phát trực tuyến NullSoft - Wikipedia](https://en.wikipedia.org/wiki/Nullsoft_Streaming_Video)
 

@@ -39,6 +39,6 @@ Sử dụng AML để trao đổi thông tin kỹ thuật đòi hỏi một số
 ## Người giới thiệu
 
 * [AutomationML là gì](https://www.automationml.org/about-automationml/automationml/)
-* [AutomationML - Wikipedia](https://vi.wikipedia.org/wiki/AutomationML)
+* [AutomationML - Wikipedia](https://en.wikipedia.org/wiki/AutomationML)
 * [Thông số kỹ thuật của AutomatationML](https://www.automationml.org/about-automationml/specutions/)
 

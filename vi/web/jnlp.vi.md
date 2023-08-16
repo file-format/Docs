@@ -67,5 +67,5 @@ Với việc ngừng sử dụng JWS, các ứng dụng được phát triển d
 
 * [Java Web Start là gì và nó được khởi chạy như thế nào?](https://www.java.com/en/download/help/java_webstart.html)
 * [Chạy JNLP với Phiên bản Java mới nhất](https://openwebstart.com/)
-* [Java Web Start - Wikipedia](https://vi.wikipedia.org/wiki/Java_Web_Start)
+* [Java Web Start - Wikipedia](https://en.wikipedia.org/wiki/Java_Web_Start)
 

@@ -23,6 +23,6 @@ Các tệp PYI được lưu dưới dạng tệp văn bản thuần túy có th
 
 ## Người giới thiệu ##
 
-* [Giao diện - Java](https://vi.wikipedia.org/wiki/Giao diện_(Java))
+* [Giao diện - Java](https://en.wikipedia.org/wiki/Giao diện_(Java))
 * [Thông dịch viên PYM](https://github.com/interpreters/pym)
 

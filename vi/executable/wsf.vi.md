@@ -128,6 +128,6 @@ Notes for this very formal example:
 
 ## Người giới thiệu
 
-* [Trình cài đặt Windows - theo Wikipedia](https://vi.wikipedia.org/wiki/Windows_Installer)
+* [Trình cài đặt Windows - theo Wikipedia](https://en.wikipedia.org/wiki/Windows_Installer)
 
 

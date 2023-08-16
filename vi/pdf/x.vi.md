@@ -31,5 +31,5 @@ Nhóm tiêu chuẩn PDF/X bao gồm một số phiên bản, mỗi phiên bản 
 
 ## Người giới thiệu ##
 
-* [PDF/X - Theo Wikipedia](https://vi.wikipedia.org/wiki/PDF/X)
+* [PDF/X - Theo Wikipedia](https://en.wikipedia.org/wiki/PDF/X)
 

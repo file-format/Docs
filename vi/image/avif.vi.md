@@ -30,5 +30,5 @@ Hai vấn đề lớn nhất với AVIF vào lúc này là tốc độ mã hóa 
 
 ## Người giới thiệu ##
 
-* [AVIF - Wikipedia](https://vi.wikipedia.org/wiki/AV1#AV1_Image_File_Format_(AVIF))
+* [AVIF - Wikipedia](https://en.wikipedia.org/wiki/AV1#AV1_Image_File_Format_(AVIF))
 

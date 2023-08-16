@@ -62,6 +62,6 @@ call    _ExitProcess@4
 
 ## Tài liệu tham khảo ##
 
-* [Ngôn ngữ hợp ngữ - theo Wikipedia](https://vi.wikipedia.org/wiki/Assembly_language)
+* [Ngôn ngữ hợp ngữ - theo Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
 * [Ngôn ngữ hợp ngữ - Cú pháp cơ bản](https://www.tutorialspoint.com/assembly_programming/assembly_basic_syntax.htm)
 

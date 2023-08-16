@@ -86,6 +86,6 @@ Tiêu đề cơ sở dữ liệu SQLite nằm trong 100 byte đầu tiên của 
 ## Người giới thiệu ##
 
 * [Định dạng tệp SQLite - SQLite](https://www.sqlite.org/fileformat2.html)
-* [SQLite - Wikipedia](https://vi.wikipedia.org/wiki/SQLite)
+* [SQLite - Wikipedia](https://en.wikipedia.org/wiki/SQLite)
 * [Thông số ngôn ngữ SQLite - C](https://www.sqlite.org/c3ref/intro.html)
 

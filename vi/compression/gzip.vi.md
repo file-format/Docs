@@ -29,7 +29,7 @@ Các tệp GZIP thường được lưu ở định dạng tệp [GZ](/vi/compre
 ## Người giới thiệu
 
 * [gzip](http://www.gzip.org/)
-* [gzip - Wikipedia](https://vi.wikipedia.org/wiki/Gzip)
+* [gzip - Wikipedia](https://en.wikipedia.org/wiki/Gzip)
 * [RFC1952: Đặc tả định dạng tệp GZIP](https://datatracker.ietf.org/doc/html/rfc1952), bởi IETF
 * [RFC 1951](https://tools.ietf.org/html/rfc1951)
 

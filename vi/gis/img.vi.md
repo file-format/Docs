@@ -30,5 +30,5 @@ Tệp GMAP tương tự như ảnh đĩa cứng và dựa trên hệ thống t�
 
 ## Người giới thiệu ##
 
-* [Định dạng tệp GARMIN IMG - Wikipedia](https://vi.wikipedia.org/wiki/Garmin_.img)
+* [Định dạng tệp GARMIN IMG - Wikipedia](https://en.wikipedia.org/wiki/Garmin_.img)
 

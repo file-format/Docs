@@ -24,6 +24,6 @@ Các tệp SPC được lưu vào đĩa dưới dạng tệp nhị phân có th�
 
 ## Người giới thiệu
 
-* [PKCS 7](https://vi.wikipedia.org/wiki/PKCS_7)
+* [PKCS 7](https://en.wikipedia.org/wiki/PKCS_7)
 * [Tham khảo SSP](https://scalate.github.io/scalate/documentation/ssp-reference.html)
 

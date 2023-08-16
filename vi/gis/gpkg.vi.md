@@ -54,6 +54,6 @@ Mục lục cho GeoPackage. Các cột bắt buộc trong bảng này là:
 
 ## Người giới thiệu
 
-* [Gói địa lý - theo Wikipedia)](https://vi.wikipedia.org/wiki/GeoPackage)
+* [Gói địa lý - theo Wikipedia)](https://en.wikipedia.org/wiki/GeoPackage)
 * [Bắt đầu với GeoPackage](http://www.geopackage.org/guidance/getting-started.html)
 

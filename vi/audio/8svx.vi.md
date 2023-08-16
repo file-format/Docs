@@ -39,5 +39,5 @@ Dưới đây là ví dụ về tệp âm thanh 8SVX IFF chỉ có âm thanh:
 
 ## Người giới thiệu ##
 
-* [8SVX - Theo Wikipedia](https://vi.wikipedia.org/wiki/8SVX)
+* [8SVX - Theo Wikipedia](https://en.wikipedia.org/wiki/8SVX)
 

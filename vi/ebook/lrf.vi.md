@@ -62,5 +62,5 @@ Tất cả các giá trị này đều theo thứ tự Intel (LSB trước).
 ## Người giới thiệu
 
 * [Định dạng tệp LRF](https://web.archive.org/web/20110809071744/http://www.sven.de/librie/Librie/LrfFormat)
-* [BBeB - Theo Wikipedia](https://vi.wikipedia.org/wiki/BBeB)
+* [BBeB - Theo Wikipedia](https://en.wikipedia.org/wiki/BBeB)
 

@@ -48,5 +48,5 @@ Các tệp tài liệu bảng tính là tập hợp con của các tệp ODF nơ
 
 ## Người giới thiệu ##
 
-* [OpenDocument - Bởi Wikipedia](https://vi.wikipedia.org/wiki/OpenDocument)
+* [OpenDocument - Bởi Wikipedia](https://en.wikipedia.org/wiki/OpenDocument)
 

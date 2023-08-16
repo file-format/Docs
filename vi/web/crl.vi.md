@@ -40,5 +40,5 @@ Có thể có một số lý do khiến chứng chỉ trang web của bạn bị
 
 * [Viện Tiêu chuẩn và Công nghệ Quốc gia (NIST)](https://csrc.nist.gov/glossary/term/CRL)
 * [Lực lượng đặc nhiệm kỹ thuật Internet (IETF) RFC 5280](https://tools.ietf.org/html/rfc5280)
-* [Danh sách thu hồi chứng chỉ](https://vi.wikipedia.org/wiki/Certificate_revoc_list)
+* [Danh sách thu hồi chứng chỉ](https://en.wikipedia.org/wiki/Certificate_revoc_list)
 

@@ -24,6 +24,6 @@ Tệp MPC sử dụng thuật toán MPEG-1 Layer-2 để nén các tệp âm tha
 
 ## Người giới thiệu
 
-* [Musepack MPC - Wikipedia](https://vi.wikipedia.org/wiki/Musepack)
+* [Musepack MPC - Wikipedia](https://en.wikipedia.org/wiki/Musepack)
 * [Musepack MPC](https://musepack.net/)
 

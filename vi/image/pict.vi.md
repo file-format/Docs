@@ -26,5 +26,5 @@ Các tệp PICT được lưu dưới dạng tệp hình ảnh nhị phân có t
 
 ## Người giới thiệu
 
-* [Định dạng tệp PICT - Theo Wikipedia](https://vi.wikipedia.org/wiki/PICT)
+* [Định dạng tệp PICT - Theo Wikipedia](https://en.wikipedia.org/wiki/PICT)
 

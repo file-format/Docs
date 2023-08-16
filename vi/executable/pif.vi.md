@@ -92,7 +92,7 @@ Tệp PIF về cơ bản chỉ bao gồm một khối dữ liệu lưu trữ cá
 ## Người giới thiệu
 
 * [Tệp thông tin chương trình (PIF)](http://justsolve.archiveteam.org/wiki/Program_information_file)
-* [Tệp thông tin chương trình - theo Wikipedia ](https://vi.wikipedia.org/wiki/Tệp_thông_tin_chương_trình)
+* [Tệp thông tin chương trình - theo Wikipedia ](https://en.wikipedia.org/wiki/Tệp_thông_tin_chương_trình)
 
 
 

@@ -46,5 +46,5 @@ Ngoài những thứ này, trong gói có thể có nhiều tài liệu con khá
 
 ## Người giới thiệu ##
 
-* [OpenDocument - Bởi Wikipedia](https://vi.wikipedia.org/wiki/OpenDocument)
+* [OpenDocument - Bởi Wikipedia](https://en.wikipedia.org/wiki/OpenDocument)
 

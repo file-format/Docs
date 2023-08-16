@@ -31,6 +31,6 @@ Các tệp DIS được lưu vào đĩa dưới dạng tệp nhị phân nhưng 
 
 ## Người giới thiệu
 
-* [Trình khám phá Oracle - Wikipedia](https://vi.wikipedia.org/wiki/Oracle_Discoverer)
+* [Trình khám phá Oracle - Wikipedia](https://en.wikipedia.org/wiki/Oracle_Discoverer)
 * [Hướng dẫn dành cho người dùng Phần mềm trung gian Fusion dành cho Dòng lệnh Java EUL của Oracle Business Intelligence Discoverer](https://docs.oracle.com/cd/E28280_01/bi.1111/b40108/toc.htm)
 

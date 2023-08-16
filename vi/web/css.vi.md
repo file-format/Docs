@@ -123,5 +123,5 @@ Phía bên trái của hình ảnh hiển thị tài liệu HTML mà không áp 
 
 ## Người giới thiệu ##
 
-- [CSS - Wikipedia](https://vi.wikipedia.org/wiki/CSS)
+- [CSS - Wikipedia](https://en.wikipedia.org/wiki/CSS)
 

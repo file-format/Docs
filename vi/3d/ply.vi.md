@@ -124,5 +124,5 @@ Có hai loại kiểu dữ liệu mà một thuộc tính có thể có.
 ## Người giới thiệu ##
 
 * [Định dạng tệp PLY](http://paulbourke.net/dataformats/ply/)
-* [PLY - Theo Wikipedia](https://vi.wikipedia.org/wiki/PLY_(file_format))
+* [PLY - Theo Wikipedia](https://en.wikipedia.org/wiki/PLY_(file_format))
 

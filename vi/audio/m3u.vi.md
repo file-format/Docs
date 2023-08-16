@@ -93,6 +93,6 @@ C:\Music\ExampleMusic.mp3
 ```
 ## Người giới thiệu ##
 
-- [M3U - Wikipedia](https://vi.wikipedia.org/wiki/M3U)
+- [M3U - Wikipedia](https://en.wikipedia.org/wiki/M3U)
 - [Phát trực tiếp HTTP](https://tools.ietf.org/html/rfc8216)
 

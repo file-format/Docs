@@ -28,7 +28,7 @@ Các tệp SDC được lưu ở định dạng tệp độc quyền và định
 ## Người giới thiệu ##
 
 * [GIỚI THIỆU VỀ BẢNG BÁO CÁO CALC](https://www.pitt.edu/~poole/libreofficeTutorials/libreofficeLesson4.pdf)
-* [StarOffice - Theo Wikipedia](https://vi.wikipedia.org/wiki/StarOffice)
+* [StarOffice - Theo Wikipedia](https://en.wikipedia.org/wiki/StarOffice)
 * [Các loại MIME - Apache](https://www.openoffice.org/framework/documentation/mimetypes/mimetypes.html)
 * [Calc - Libreoffice](https://www.libreoffice.org/discover/calc/)
 

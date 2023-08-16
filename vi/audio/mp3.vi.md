@@ -49,9 +49,9 @@ Các tệp có phần mở rộng .mp3 là các định dạng tệp được m�
 
 Tệp MP3 bao gồm các khung MP3 trong đó mỗi khung bao gồm tiêu đề và khối dữ liệu. Các khung không độc lập và thường không thể được trích xuất tại các ranh giới khung tùy ý. Các khối dữ liệu của tệp chứa thông tin về âm thanh về tần số và biên độ. Từ đồng bộ trong tiêu đề xác định phần đầu của khung hợp lệ. Tiếp theo là 3 bit trong đó bit đầu tiên cho biết đó là tiêu chuẩn MPEG và 2 bit còn lại cho thấy lớp 3 được sử dụng; do đó MPEG-1 Audio Layer 3 hoặc MP3. Sau đó, các giá trị sẽ khác nhau, tùy thuộc vào tệp MP3.
 
-[ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization)/[IEC](https://en.wikipedia.org/wiki/International_Electrotechnical_Commission) 11172-3 xác định phạm vi giá trị cho từng phần của tiêu đề cùng với đặc điểm kỹ thuật của tiêu đề. Hầu hết các tệp MP3 ngày nay chứa [ID3](https://en.wikipedia.org/wiki/ID3) [siêu dữ liệu](https://vi.wikipedia.org/wiki/Siêu dữ liệu), đứng trước hoặc sau khung MP3, như đã lưu ý trong sơ đồ. Luồng dữ liệu có thể chứa một tổng kiểm tra tùy chọn.
+[ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization)/[IEC](https://en.wikipedia.org/wiki/International_Electrotechnical_Commission) 11172-3 xác định phạm vi giá trị cho từng phần của tiêu đề cùng với đặc điểm kỹ thuật của tiêu đề. Hầu hết các tệp MP3 ngày nay chứa [ID3](https://en.wikipedia.org/wiki/ID3) [siêu dữ liệu](https://en.wikipedia.org/wiki/Siêu dữ liệu), đứng trước hoặc sau khung MP3, như đã lưu ý trong sơ đồ. Luồng dữ liệu có thể chứa một tổng kiểm tra tùy chọn.
 
 ## Người giới thiệu ##
 
-* [MP3 - Theo Wikipedia](https://vi.wikipedia.org/wiki/MP3)
+* [MP3 - Theo Wikipedia](https://en.wikipedia.org/wiki/MP3)
 

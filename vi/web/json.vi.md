@@ -92,6 +92,6 @@ Bạn có thể trở thành người đóng góp tại FileFormat.com để gi�
 
 ## Người giới thiệu
 
-- [JSON - Wikipedia](https://vi.wikipedia.org/wiki/CSS)
+- [JSON - Wikipedia](https://en.wikipedia.org/wiki/CSS)
 - [Giới thiệu về JSON](https://www.digitalocean.com/community/tutorials/an-introduction-to-json)
 

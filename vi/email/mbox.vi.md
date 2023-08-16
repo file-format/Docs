@@ -35,5 +35,5 @@ Nội dung của tệp MBox có thể bị trộn lẫn không thể đảo ngư
 ## Người giới thiệu ##
 
 * [MBox - RFC4155](https://tools.ietf.org/rfc/rfc4155.txt)
-* [Mbox - Wikipedia](https://vi.wikipedia.org/wiki/Mbox)
+* [Mbox - Wikipedia](https://en.wikipedia.org/wiki/Mbox)
 

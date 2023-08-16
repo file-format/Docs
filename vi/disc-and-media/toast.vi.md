@@ -54,6 +54,6 @@ Do đó, Roxio Toast có thể tạo các tệp Toast, chứa dữ liệu ảnh 
 
 ## Người giới thiệu
 
-* [Roxio Toast - Wikipedia](https://vi.wikipedia.org/wiki/Roxio_Toast)
+* [Roxio Toast - Wikipedia](https://en.wikipedia.org/wiki/Roxio_Toast)
 
 

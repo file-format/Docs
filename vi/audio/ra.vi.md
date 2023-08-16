@@ -48,5 +48,5 @@ Dưới đây là danh sách các codec âm thanh, mỗi codec được xác đ�
 
 ## Người giới thiệu ##
 
-- [RealAudio - Wikipedia](https://vi.wikipedia.org/wiki/RealAudio)
+- [RealAudio - Wikipedia](https://en.wikipedia.org/wiki/RealAudio)
 

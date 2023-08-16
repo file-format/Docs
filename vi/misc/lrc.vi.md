@@ -71,5 +71,5 @@ Nó bao gồm Khả năng thay đổi và chỉ định giới tính của lời
 
 ## Người giới thiệu
 
-* [Định dạng tệp lời bài hát LRC - Wikipedia](https://vi.wikipedia.org/wiki/LRC_(file_format))
+* [Định dạng tệp lời bài hát LRC - Wikipedia](https://en.wikipedia.org/wiki/LRC_(file_format))
 

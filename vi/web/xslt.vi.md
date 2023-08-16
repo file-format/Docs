@@ -62,6 +62,6 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 ```
 ## Người giới thiệu ##
 
-* [XSLT - Theo Wikipedia](https://vi.wikipedia.org/wiki/XSLT)
+* [XSLT - Theo Wikipedia](https://en.wikipedia.org/wiki/XSLT)
 * [Các yếu tố XSLT](https://en.wikipedia.org/wiki/XSLT_elements)
 

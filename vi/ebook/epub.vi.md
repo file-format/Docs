@@ -62,5 +62,5 @@ Như các mô tả ở trên đã làm rõ, tài liệu EPUB bao gồm một lo�
 
 ## Người giới thiệu ##
 
-* [EPUB - Theo Wikipedia](https://vi.wikipedia.org/wiki/EPUB)
+* [EPUB - Theo Wikipedia](https://en.wikipedia.org/wiki/EPUB)
 

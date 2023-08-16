@@ -64,5 +64,5 @@ Phần sau đây trình bày một ví dụ sử dụng đơn giản tệp CFM.
 
 ## Người giới thiệu ##
 
-- [CFM - Wikipedia](https://vi.wikipedia.org/wiki/ColdFusion_Markup_Language)
+- [CFM - Wikipedia](https://en.wikipedia.org/wiki/ColdFusion_Markup_Language)
 

@@ -27,7 +27,7 @@ Bằng cách sử dụng thiết bị đọc sách điện tử Amazon Kindle, n
 
 ## Người giới thiệu
 
-* [Xem mục nổi bật phổ biến trên Kindles](https://vi.wikipedia.org/wiki/Orb_Books)
+* [Xem mục nổi bật phổ biến trên Kindles](https://en.wikipedia.org/wiki/Orb_Books)
 * [Nội dung nổi bật phổ biến tiết lộ nội dung được nhấp](https://www.searchenginepeople.com/blog/kindle-highlights.html)
 * [Cách tắt các mục nổi bật phổ biến trên Kindle của bạn](https://www.howtogeek.com/355701/how-to-turn-off-popular-highlights-on-your-kindle)
 

@@ -33,6 +33,6 @@ Một gói chỉ định việc cài đặt một hoặc nhiều sản phẩm đ
 
 ## Người giới thiệu
 
-* [Trình cài đặt Windows - theo Wikipedia](https://vi.wikipedia.org/wiki/Windows_Installer)
+* [Trình cài đặt Windows - theo Wikipedia](https://en.wikipedia.org/wiki/Windows_Installer)
 
 
