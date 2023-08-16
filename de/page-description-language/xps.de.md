@@ -48,7 +48,7 @@ Diese Dateien behalten den Inhalt des Dokuments so bei, dass der XPS-Viewer dies
 
 Das XPS-Dokumentformat enthält einen klar definierten Satz von Teilen und Beziehungen, die jeweils einen bestimmten Zweck im Dokument erfüllen. Das Format erweitert auch die Paketfunktionen, einschließlich digitaler Signaturen, Miniaturansichten und Interleaving.
 
-Ein typisches XPS-Dokument sieht wie folgt aus und kann anhand des XPS-Dateiformats [Spezifikationen] analysiert werden (https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf).
+Ein typisches XPS-Dokument sieht wie folgt aus und kann anhand des XPS-Dateiformats [Spezifikationen](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf) analysiert werden.
 
 {{< figure src="../XPS-2.png" alt="XPS-Dateiformat" >}}
 

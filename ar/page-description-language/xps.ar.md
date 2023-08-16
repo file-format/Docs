@@ -48,7 +48,7 @@
 
 يتضمن تنسيق مستند XPS مجموعة محددة جيدًا من الأجزاء والعلاقات ، كل منها يحقق غرضًا معينًا في المستند. يوسع التنسيق أيضًا ميزات الحزمة ، بما في ذلك التوقيعات الرقمية والصور المصغرة والتداخل.
 
-يبدو مستند XPS النموذجي على النحو التالي ويمكن تحليله في ضوء تنسيق ملف XPS [المواصفات](https://www.ecma-international.org/activities/XML٪20Paper٪20Specification/XPS٪20Standard.pdf).
+يبدو مستند XPS النموذجي على النحو التالي ويمكن تحليله في ضوء تنسيق ملف XPS [المواصفات](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf).
 
 {{< figure src="../XPS-2.png" alt="تنسيق ملف XPS" >}}
 

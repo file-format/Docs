@@ -55,6 +55,6 @@ XPS ドキュメント形式には、明確に定義されたパーツと関係�
 
 ## 参照 ##
 
-※【XPSファイル形式仕様】(https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
+* [XPSファイル形式仕様](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 * [XPS - ウィキペディアによる](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

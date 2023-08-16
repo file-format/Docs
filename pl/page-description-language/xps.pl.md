@@ -48,7 +48,7 @@ Pliki te zachowują zawartość dokumentu w taki sposób, że jeśli na przykła
 
 Format dokumentu XPS obejmuje dobrze zdefiniowany zestaw części i relacji, z których każda spełnia określony cel w dokumencie. Format rozszerza również funkcje pakietu, w tym podpisy cyfrowe, miniatury i przeplatanie.
 
-Typowy dokument XPS wygląda następująco i można go analizować w świetle [specyfikacji] formatu pliku XPS (https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf).
+Typowy dokument XPS wygląda następująco i można go analizować w świetle [specyfikacji](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf) formatu pliku XPS.
 
 {{< figure src="../XPS-2.png" alt="Format pliku XPS" >}}
 
