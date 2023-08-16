@@ -27,5 +27,5 @@ AGIF là một tệp dự án được lưu dưới dạng tệp hình ảnh ras
 
 ## Người giới thiệu
 
-* [Tự động FX](https://www.autofx.com/july-4-sale/pge-details.html)
+* N/A
 

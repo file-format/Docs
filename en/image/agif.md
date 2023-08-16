@@ -27,4 +27,4 @@ AGIF is a project file that is saved as raster image file format. The finalized 
 
 ## References
 
-* [Auto FX](https://www.autofx.com/july-4-sale/pge-details.html)
+* N/A

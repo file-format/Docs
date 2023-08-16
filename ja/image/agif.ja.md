@@ -27,5 +27,5 @@ AGIF は、ラスター イメージ ファイル形式として保存される�
 
 ## 参考文献
 
-* [オート FX](https://www.autofx.com/july-4-sale/pge-details.html)
+* N/A
 

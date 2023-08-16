@@ -27,5 +27,5 @@ AGIF는 래스터 이미지 파일 형식으로 저장되는 프로젝트 파일
 
 ## 참조
 
-* [자동 FX](https://www.autofx.com/july-4-sale/pge-details.html)
+* N/A
 

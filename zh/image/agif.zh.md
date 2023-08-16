@@ -27,5 +27,5 @@ AGIF 是一种保存为光栅图像文件格式的项目文件。完成后的[GI
 
 ## 参考
 
-* [汽车外汇](https://www.autofx.com/july-4-sale/pge-details.html)
+* N/A
 

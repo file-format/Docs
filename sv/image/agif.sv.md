@@ -27,5 +27,5 @@ AGIF är en projektfil som sparas som rasterbildsfilformat. Den färdiga [GIF](/
 
 ## Referenser
 
-* [Auto FX](https://www.autofx.com/july-4-sale/pge-details.html)
+* N/A
 

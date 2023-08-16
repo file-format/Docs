@@ -27,5 +27,5 @@ AGIF este un fișier de proiect care este salvat în format de fișier imagine r
 
 ## Referințe
 
-* [Auto FX](https://www.autofx.com/july-4-sale/pge-details.html)
+* N/A
 
