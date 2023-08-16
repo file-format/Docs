@@ -27,5 +27,5 @@ Kodu ファイルは、Microsoft 独自のファイル形式で保存された�
 
 ## 参考文献
 
-※【コドゥゲームラボ】(https://www.kodugamelab.com/)
+* [コドゥゲームラボ](https://www.kodugamelab.com/)
 
