@@ -37,7 +37,7 @@ EXIF использует следующие форматы файлов с до
 
 1. [JPEG](/ru/image/jpeg/) - дискретное косинусное преобразование (ДКП) для сжатых файлов изображений.
 1. [TIFF](/ru/image/tiff/) версии 6.0 (RGB или YCbCr) для несжатых файлов изображений.
-1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) для аудиофайлов (Linear [PCM](https:/ /en.wikipedia.org/wiki/Pulse-code_modulation) или ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM для несжатых аудиоданных и [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) для сжатых аудиоданных).
+1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) для аудиофайлов (Linear [PCM](https://en.wikipedia.org/wiki/Pulse-code_modulation) или ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM для несжатых аудиоданных и [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) для сжатых аудиоданных).
 
 ### Маркер, используемый EXIF ###
 

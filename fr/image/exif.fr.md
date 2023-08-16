@@ -37,7 +37,7 @@ EXIF utilise les formats de fichiers suivants avec l'ajout de métadonnées spé
 
 1. [JPEG](/fr/image/jpeg/) - transformée en cosinus discrète (DCT) pour les fichiers image compressés.
 1. [TIFF](/fr/image/tiff/) Rev. 6.0 (RVB ou YCbCr) pour les fichiers image non compressés.
-1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) pour les fichiers audio (Linéaire [PCM](https:/ /en.wikipedia.org/wiki/Pulse-code_modulation) ou ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM pour les données audio non compressées, et [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) pour les données audio compressées).
+1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) pour les fichiers audio (Linéaire [PCM](https://en.wikipedia.org/wiki/Pulse-code_modulation) ou ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM pour les données audio non compressées, et [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) pour les données audio compressées).
 
 ### Marqueur utilisé par EXIF ###
 

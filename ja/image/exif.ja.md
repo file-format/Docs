@@ -37,7 +37,7 @@ EXIF は、特定のメタデータを追加して、次のファイル形式を
 
 1. [JPEG](/image/jpeg/) - 圧縮画像ファイルの離散コサイン変換 (DCT)。
 1. 非圧縮画像ファイル用の [TIFF](/image/tiff/) Rev. 6.0 (RGB または YCbCr)。
-1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) 音声ファイル (リニア [PCM](https:/ /en.wikipedia.org/wiki/Pulse-code_modulation) または ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) 非圧縮音声データ用の μ-Law PCM、および [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) (圧縮音声データ用))。
+1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) 音声ファイル (リニア [PCM](https://en.wikipedia.org/wiki/Pulse-code_modulation) または ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) 非圧縮音声データ用の μ-Law PCM、および [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) (圧縮音声データ用))。
 
 ### EXIF で使用されるマーカー ###
 

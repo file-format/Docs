@@ -37,7 +37,7 @@
 
 1. [JPEG](/el/image/jpeg/) - διακριτός μετασχηματισμός συνημιτόνου (DCT) για συμπιεσμένα αρχεία εικόνας.
 1. [TIFF](/el/image/tiff/) Αναθ. 6.0 (RGB ή YCbCr) για μη συμπιεσμένα αρχεία εικόνας.
-1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) για αρχεία ήχου (γραμμικό [PCM](https:/ /en.wikipedia.org/wiki/Pulse-code_modulation) ή ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM για μη συμπιεσμένα δεδομένα ήχου και [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) για συμπιεσμένα δεδομένα ήχου).
+1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) για αρχεία ήχου (γραμμικό [PCM](https://en.wikipedia.org/wiki/Pulse-code_modulation) ή ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM για μη συμπιεσμένα δεδομένα ήχου και [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) για συμπιεσμένα δεδομένα ήχου).
 
 ### Δείκτης που χρησιμοποιείται από το EXIF ###
 

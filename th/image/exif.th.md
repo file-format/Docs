@@ -37,7 +37,7 @@ EXIF ใช้รูปแบบไฟล์ต่อไปนี้พร้อ
 
 1. [JPEG](/th/image/jpeg/) - การแปลงโคไซน์แบบไม่ต่อเนื่อง (DCT) สำหรับไฟล์ภาพที่ถูกบีบอัด
 1. [TIFF](/th/image/tiff/) Rev. 6.0 (RGB หรือ YCbCr) สำหรับไฟล์รูปภาพที่ไม่มีการบีบอัด
-1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) สำหรับไฟล์เสียง (เชิงเส้น [PCM](https:/ /en.wikipedia.org/wiki/Pulse-code_modulation) หรือ ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM สำหรับข้อมูลเสียงที่ไม่บีบอัด และ [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) สำหรับข้อมูลเสียงที่บีบอัด)
+1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) สำหรับไฟล์เสียง (เชิงเส้น [PCM](https://en.wikipedia.org/wiki/Pulse-code_modulation) หรือ ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM สำหรับข้อมูลเสียงที่ไม่บีบอัด และ [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) สำหรับข้อมูลเสียงที่บีบอัด)
 
 ### เครื่องหมายที่ใช้โดย EXIF ###
 

@@ -37,7 +37,7 @@ EXIF utilizează următoarele formate de fișiere cu adăugarea de metadate spec
 
 1. [JPEG](/ro/image/jpeg/) - transformare cosinus discret (DCT) pentru fișiere de imagine comprimate.
 1. [TIFF](/ro/image/tiff/) Rev. 6.0 (RGB sau YCbCr) pentru fișiere de imagine necomprimate.
-1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) pentru fișiere audio (liniar [PCM](https:/) /en.wikipedia.org/wiki/Pulse-code_modulation) sau ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM pentru date audio necomprimate și [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) pentru date audio comprimate).
+1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) pentru fișiere audio (liniar [PCM](https://en.wikipedia.org/wiki/Pulse-code_modulation) sau ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM pentru date audio necomprimate și [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) pentru date audio comprimate).
 
 ### Marker folosit de EXIF ###
 

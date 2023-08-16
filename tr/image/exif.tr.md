@@ -37,7 +37,7 @@ EXIF, belirli meta verilerin eklenmesiyle aşağıdaki dosya biçimlerini kullan
 
 1. [JPEG](/tr/image/jpeg/) - sıkıştırılmış görüntü dosyaları için ayrık kosinüs dönüşümü (DCT).
 1. Sıkıştırılmamış görüntü dosyaları için [TIFF](/tr/image/tiff/) Rev. 6.0 (RGB veya YCbCr).
-1. Ses dosyaları için [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) (Doğrusal [PCM](https:/) /en.wikipedia.org/wiki/Pulse-code_modulation) veya ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) sıkıştırılmamış ses verileri için μ-Law PCM ve [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) sıkıştırılmış ses verileri için).
+1. Ses dosyaları için [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) (Doğrusal [PCM](https://en.wikipedia.org/wiki/Pulse-code_modulation) veya ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) sıkıştırılmamış ses verileri için μ-Law PCM ve [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) sıkıştırılmış ses verileri için).
 
 ### EXIF tarafından kullanılan işaretçi ###
 
