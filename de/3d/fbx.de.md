@@ -208,5 +208,5 @@ Die Zeichenfolge ist nicht nullterminiert und kann durchaus \0-Zeichen enthalten
 
 * [FBX – Das Autodesk-SDK](https://help.autodesk.com/view/FBX/2017/ENU/)
 * [FBX-Binärdateiformatspezifikationen](https://code.blender.org/2013/08/fbx-binary-file-format-specification/)
-* [FBX – Wikipedia](https://en.wikipedia.org/wiki/FBX#Dateiformat)
+* [FBX – Wikipedia](https://en.wikipedia.org/wiki/FBX#File_format)
 
