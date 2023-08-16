@@ -19,7 +19,7 @@
 
 ## What is a 3DC file?
 
-A 3DC file is a GPS data file used by the GPS navigation software application, [iGO](https://www.igonavigation.com/). It contains 3D building data information along with metadata for application display. 3DC files are saved to the memory card of the navigation unit and are mostly stored to the \​iGO\​content\​building\​ directory.
+A 3DC file is a GPS data file used by the GPS navigation software application, [iGO](https://en.wikipedia.org/wiki/IGO_(software)). It contains 3D building data information along with metadata for application display. 3DC files are saved to the memory card of the navigation unit and are mostly stored to the \​iGO\​content\​building\​ directory.
 
 ## About iGO Navigation
 
@@ -27,4 +27,4 @@ iGO software is used for navigation purposes. It gets user's location informatio
 
 ## References
 
-* [iGO Navigation Software](https://www.igonavigation.com/)
+* [iGO Navigation Software](https://en.wikipedia.org/wiki/IGO_(software))
