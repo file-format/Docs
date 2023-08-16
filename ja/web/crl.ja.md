@@ -40,5 +40,5 @@ Web サイトの証明書が取り消され、CRL に追加される理由はい
 
 * [国立標準技術研究所 (NIST)](https://csrc.nist.gov/glossary/term/CRL)
 * [インターネット技術特別調査委員会 (IETF) の RFC 5280](https://tools.ietf.org/html/rfc5280)
-※【認証失効リスト】(https://en.wikipedia.org/wiki/Certificate_revocation_list)
+* [認証失効リスト](https://en.wikipedia.org/wiki/Certificate_revocation_list)
 
