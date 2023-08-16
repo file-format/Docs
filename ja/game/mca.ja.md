@@ -67,6 +67,6 @@ MCEdit をインストールしたら、次の手順に従って Anvil リージ
 ## 参考文献
 
 * [Minecraft のワールド エディター](https://www.mcedit.net/)
-* 【マインクラフトについて】(https://www.minecraft.net/en-us)
+* [マインクラフトについて](https://www.minecraft.net/)
 * [地域ファイル形式](https://minecraft.fandom.com/wiki/Region_file_format)
 
