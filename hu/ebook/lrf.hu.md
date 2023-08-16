@@ -27,7 +27,7 @@ Az LRF fájltípus mindenekelőtt az [inXile Entertainment](https://en.wikipedia
 
 ## LRF fájlformátum
 
-Az LRF fájlformátum részletes specifikációi a [webarchívum] címen érhetők el (https://web.archive.org/web/20110809071744/http://www.sven.de/librie/Librie/LrfFormat). Az LRF fájl a következőkből áll:
+Az LRF fájlformátum részletes specifikációi a [webarchívum](https://web.archive.org/web/20110809071744/http://www.sven.de/librie/Librie/LrfFormat) címen érhetők el. Az LRF fájl a következőkből áll:
 * egy fejléc
 * számos objektum
 * egy objektum index.
