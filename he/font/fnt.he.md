@@ -40,5 +40,5 @@
 
 ## הפניות
 * [פורמט קובץ גופן](https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
-* [כיצד להתקין או להסיר גופן ב-Windows](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8 -7613-c76f-88d043b334b8)
+* [כיצד להתקין או להסיר גופן ב-Windows](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8-7613-c76f-88d043b334b8)
 

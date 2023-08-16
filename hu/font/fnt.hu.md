@@ -40,5 +40,5 @@ A Windows 3.0 és 2.0 fejléceivel kapcsolatos részletes információkért kere
 
 ## Hivatkozások
 * [Font fájlformátum](https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
-* [A betűtípus telepítése vagy eltávolítása Windows rendszerben](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8 -7613-c76f-88d043b334b8)
+* [A betűtípus telepítése vagy eltávolítása Windows rendszerben](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8-7613-c76f-88d043b334b8)
 

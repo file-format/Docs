@@ -40,5 +40,5 @@
 
 ## βιβλιογραφικές αναφορές
 * [Μορφή αρχείου γραμματοσειράς](https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
-* [Πώς να εγκαταστήσετε ή να αφαιρέσετε μια γραμματοσειρά στα Windows](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8 -7613-c76f-88d043b334b8)
+* [Πώς να εγκαταστήσετε ή να αφαιρέσετε μια γραμματοσειρά στα Windows](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8-7613-c76f-88d043b334b8)
 

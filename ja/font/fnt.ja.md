@@ -40,5 +40,5 @@ Windows 3.0 および 2.0 のヘッダーの詳細については、[Microsoft K
 
 ## 参考文献
 * [フォントファイル形式](https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
-* [Windows でフォントをインストールまたは削除する方法](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8 -7613-c76f-88d043b334b8)
+* [Windows でフォントをインストールまたは削除する方法](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8-7613-c76f-88d043b334b8)
 

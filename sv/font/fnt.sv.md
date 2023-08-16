@@ -40,5 +40,5 @@ För detaljerad information om rubrikerna för Windows 3.0 och 2.0, besök [Micr
 
 ## Referenser
 * [Teckensnittsfilformat](https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
-* [Hur man installerar eller tar bort ett teckensnitt i Windows](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8 -7613-c76f-88d043b334b8)
+* [Hur man installerar eller tar bort ett teckensnitt i Windows](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8-7613-c76f-88d043b334b8)
 

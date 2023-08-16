@@ -40,5 +40,5 @@ FNT файловете могат да съхраняват един расте�
 
 ## Препратки
 * [Файлов формат на шрифта](https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
-* [Как да инсталирате или премахнете шрифт в Windows](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8 -7613-c76f-88d043b334b8)
+* [Как да инсталирате или премахнете шрифт в Windows](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8-7613-c76f-88d043b334b8)
 

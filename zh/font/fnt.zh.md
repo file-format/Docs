@@ -40,5 +40,5 @@ FNT 文件能够存储单个光栅或矢量字体。与使用小位图定义每�
 
 ## 参考
 * [字体文件格式](https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
-* [如何在 Windows 中安装或删除字体](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8 -7613-c76f-88d043b334b8)
+* [如何在 Windows 中安装或删除字体](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8-7613-c76f-88d043b334b8)
 
