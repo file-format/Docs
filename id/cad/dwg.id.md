@@ -39,7 +39,7 @@ Format file DWG telah berkembang seiring waktu sejak diperkenalkan secara formal
 
 ## Struktur File ##
 
-DWG telah menjadi salah satu format file yang banyak digunakan oleh berbagai aplikasi dan memiliki struktur file yang kuat. Karena DWG adalah format file biner, DWG tidak dapat dibaca manusia seperti format file ASCII [DXF](/id/cad/dxf/) biasa. File DWG biasanya menyertakan informasi tentang koordinat gambar dan metadata apa pun yang terkait dengannya. [Spesifikasi] lengkap (https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf) format file DWG tersedia untuk diunduh oleh OpenDesign. Struktur file format file DWG dirangkum sebagai berikut.
+DWG telah menjadi salah satu format file yang banyak digunakan oleh berbagai aplikasi dan memiliki struktur file yang kuat. Karena DWG adalah format file biner, DWG tidak dapat dibaca manusia seperti format file ASCII [DXF](/id/cad/dxf/) biasa. File DWG biasanya menyertakan informasi tentang koordinat gambar dan metadata apa pun yang terkait dengannya. [Spesifikasi](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf) lengkap format file DWG tersedia untuk diunduh oleh OpenDesign. Struktur file format file DWG dirangkum sebagai berikut.
 
 **Header**: File header terdiri dari variabel DWG Header dan informasi tentang Cyclic Redundancy Check (CRC) yang digunakan untuk deteksi kesalahan. Setiap subbagian adalah vektor khusus di mana panjang bit yang berbeda digunakan untuk mewakili label yang berbeda. Misalnya, 6 bit pertama dari variabel DWG Header adalah string versi.
 

@@ -39,7 +39,7 @@ Il formato del file DWG si è evoluto nel tempo dalla sua introduzione formale n
 
 ## Struttura del file ##
 
-DWG è stato uno dei formati di file ampiamente utilizzati da una vasta gamma di applicazioni e ha una struttura di file robusta. Poiché DWG è un formato di file binario, non è leggibile come il semplice formato di file ASCII [DXF](/it/cad/dxf/). I file DWG di solito includono informazioni sulle coordinate dell'immagine e su eventuali metadati ad essa associati. Le [specifiche] complete (https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf) del formato file DWG sono disponibili per il download da OpenDesign. La struttura del file del formato di file DWG è riassunta come segue.
+DWG è stato uno dei formati di file ampiamente utilizzati da una vasta gamma di applicazioni e ha una struttura di file robusta. Poiché DWG è un formato di file binario, non è leggibile come il semplice formato di file ASCII [DXF](/it/cad/dxf/). I file DWG di solito includono informazioni sulle coordinate dell'immagine e su eventuali metadati ad essa associati. Le [specifiche](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf) complete del formato file DWG sono disponibili per il download da OpenDesign. La struttura del file del formato di file DWG è riassunta come segue.
 
 **Intestazione**: l'intestazione del file è composta da variabili di intestazione DWG e informazioni su Cyclic Redundancy Check (CRC) che viene utilizzato per il rilevamento degli errori. Ogni sottosezione è un vettore specializzato in cui vengono utilizzate diverse lunghezze di bit per rappresentare etichette diverse. Ad esempio, i primi 6 bit della variabile DWG Header rappresentano la stringa della versione.
 

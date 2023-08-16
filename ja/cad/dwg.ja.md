@@ -61,7 +61,7 @@ DWG は、さまざまなアプリケーションで広く使用されている�
 
 ## 参照 ##
 
-※【DWGファイル形式仕様書】(https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
+* [DWGファイル形式仕様書](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
 * [DWG ファイル仕様](https://www.scan2cad.com/blog/dwg/file-spec/)
 * [DWG - ウィキペディアによる](https://en.wikipedia.org/wiki/.dwg)
 
