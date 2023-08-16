@@ -52,7 +52,7 @@ Die MCA-Nutzdaten bestehen aus Chunks, wobei die Chunk-Daten mit einem (Big-Endi
 
 ## So öffnen Sie MCA-Dateien
 
-Sie können MCA-Dateien mit dem Programm MCEdit öffnen und bearbeiten, einem kostenlosen Open-Source-Editor für Minecraft. Sie können MCEdit (https://www.mcedit.net/) von der offiziellen Website [herunterladen] und es verwenden, um den Inhalt Ihrer Anvil-Regionsdatei zu öffnen und anzuzeigen.
+Sie können MCA-Dateien mit dem Programm MCEdit öffnen und bearbeiten, einem kostenlosen Open-Source-Editor für Minecraft. Sie können MCEdit von der offiziellen Website [herunterladen](https://www.mcedit.net/) und es verwenden, um den Inhalt Ihrer Anvil-Regionsdatei zu öffnen und anzuzeigen.
 
 Sobald Sie MCEdit installiert haben, können Sie Ihre Anvil-Regionsdatei öffnen, indem Sie diesen Schritten folgen:
 
