@@ -54,6 +54,7 @@ PWD=password
 Однако для использования файла DSN для подключения к базе данных и выполнения таких операций, как SELECT, INSERT, UPDATE, DELETE и т. д., программа с поддержкой ODBC, например язык программирования, такой как Python, Java, C#, или инструмент управления базой данных, такой как Microsoft Access , требуется SQL Server Management Studio. Эти программы могут использовать информацию в файле DSN для подключения к базе данных и выполнения требуемой операции.
 
 ## использованная литература
-* [Что такое DSN (имя источника данных)?](https://support.microsoft.com/en-us/topic/what-is-a-dsn-data-source-name-ae9a0c76-22fc-8a30- 606e-2436fe26e89f)
-* [Как создать File DSN для использования в качестве источника данных для импорта ODBC?](https://www.ibm.com/support/pages/how-do-i-create-file-dsn-use-data- источник-odbc-импорт)
+
+* [Что такое DSN (имя источника данных)?](https://support.microsoft.com/en-us/topic/what-is-a-dsn-data-source-name-ae9a0c76-22fc-8a30-606e-2436fe26e89f)
+
 

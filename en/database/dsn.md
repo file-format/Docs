@@ -54,5 +54,6 @@ To open and view the contents of a DSN file, you can use any text editor such as
 However, to use the DSN file to connect to a database and execute operations like SELECT, INSERT, UPDATE, DELETE etc, a program with ODBC support, such as a programming language like Python, Java, C# or a database management tool like Microsoft Access, SQL Server Management Studio is required. These programs can use the information in the DSN file to connect to the database and perform the desired operation.
 
 ## References
+
 * [What is a DSN (Data Source Name)?](https://support.microsoft.com/en-us/topic/what-is-a-dsn-data-source-name-ae9a0c76-22fc-8a30-606e-2436fe26e89f)
-* [How do I create a File DSN to use as data source for ODBC imports?](https://www.ibm.com/support/pages/how-do-i-create-file-dsn-use-data-source-odbc-imports)
+

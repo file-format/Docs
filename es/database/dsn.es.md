@@ -54,6 +54,7 @@ Para abrir y ver el contenido de un archivo DSN, puede usar cualquier editor de 
 Sin embargo, para usar el archivo DSN para conectarse a una base de datos y ejecutar operaciones como SELECCIONAR, INSERTAR, ACTUALIZAR, ELIMINAR, etc., un programa compatible con ODBC, como un lenguaje de programación como Python, Java, C# o una herramienta de administración de bases de datos como Microsoft Access , se requiere SQL Server Management Studio. Estos programas pueden utilizar la información del archivo DSN para conectarse a la base de datos y realizar la operación deseada.
 
 ## Referencias
-* [¿Qué es un DSN (nombre de origen de datos)?](https://support.microsoft.com/en-us/topic/what-is-a-dsn-data-source-name-ae9a0c76-22fc-8a30- 606e-2436fe26e89f)
-* [¿Cómo creo un DSN de archivo para usarlo como fuente de datos para las importaciones de ODBC?](https://www.ibm.com/support/pages/how-do-i-create-file-dsn-use-data- fuente-odbc-importaciones)
+
+* [¿Qué es un DSN (nombre de origen de datos)?](https://support.microsoft.com/en-us/topic/what-is-a-dsn-data-source-name-ae9a0c76-22fc-8a30-606e-2436fe26e89f)
+
 

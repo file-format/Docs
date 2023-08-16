@@ -54,6 +54,7 @@ DSN 文件是一个纯文本文件，它存储用于连接到数据库的信息�
 但是，要使用 DSN 文件连接到数据库并执行 SELECT、INSERT、UPDATE、DELETE 等操作，需要支持 ODBC 的程序，例如 Python、Java、C# 等编程语言或 Microsoft Access 等数据库管理工具, SQL Server Management Studio 是必需的。这些程序可以使用 DSN 文件中的信息连接到数据库并执行所需的操作。
 
 ## 参考
-* [什么是 DSN（数据源名称）？](https://support.microsoft.com/en-us/topic/what-is-a-dsn-data-source-name-ae9a0c76-22fc-8a30- 606e-2436fe26e89f)
-* [如何创建文件 DSN 以用作 ODBC 导入的数据源？](https://www.ibm.com/support/pages/how-do-i-create-file-dsn-use-data-源 odbc 导入）
+
+* [什么是 DSN（数据源名称）？](https://support.microsoft.com/en-us/topic/what-is-a-dsn-data-source-name-ae9a0c76-22fc-8a30-606e-2436fe26e89f)
+
 
