@@ -116,5 +116,5 @@ IFD1 の Compression(0x0103) Tag の値が '1' の場合、サムネイル画像
 ## 参照 ##
 
 * [EXIF - ウィキペディアによる](https://en.wikipedia.org/wiki/Exif)
-※【EXIFファイル形式】(https://www.media.mit.edu/pia/Research/deepview/exif.html)
+* [EXIFファイル形式](https://www.media.mit.edu/pia/Research/deepview/exif.html)
 
