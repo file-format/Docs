@@ -54,6 +54,6 @@ GeoPackages содержат ряд таблиц, как и другие рел�
 
 ## использованная литература
 
-* [GeoPackage — по Википедии)](https://en.wikipedia.org/wiki/GeoPackage)
+* [GeoPackage — по Википедии](https://en.wikipedia.org/wiki/GeoPackage)
 * [Начало работы с GeoPackage](http://www.geopackage.org/guidance/getting-started.html)
 

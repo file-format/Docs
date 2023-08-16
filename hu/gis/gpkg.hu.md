@@ -54,6 +54,6 @@ Térbeli referenciatartalomhoz; beleértve, de nem kizárólagosan a csempéket 
 
 ## Hivatkozások
 
-* [GeoPackage – a Wikipedia által)](https://en.wikipedia.org/wiki/GeoPackage)
+* [GeoPackage – a Wikipedia által](https://en.wikipedia.org/wiki/GeoPackage)
 * [Getting Started With GeoPackage](http://www.geopackage.org/guidance/getting-started.html)
 

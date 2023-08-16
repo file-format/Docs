@@ -54,6 +54,6 @@ Für Raumbezugsinhalte; einschließlich, aber nicht beschränkt auf Kacheln und 
 
 ## Verweise
 
-* [GeoPackage - von Wikipedia)](https://en.wikipedia.org/wiki/GeoPackage)
+* [GeoPackage - von Wikipedia](https://en.wikipedia.org/wiki/GeoPackage)
 * [Erste Schritte mit GeoPackage](http://www.geopackage.org/guidance/getting-started.html)
 

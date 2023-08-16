@@ -54,5 +54,5 @@ For spatial reference content; including but not limited to tiles and features, 
 
 ## References
 
-* [GeoPackage - by Wikipedia)](https://en.wikipedia.org/wiki/GeoPackage)
+* [GeoPackage - by Wikipedia](https://en.wikipedia.org/wiki/GeoPackage)
 * [Getting Started With GeoPackage](http://www.geopackage.org/guidance/getting-started.html)

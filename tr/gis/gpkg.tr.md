@@ -54,6 +54,6 @@ Mekansal referans içeriği için; kutucuklar ve özellikler dahil ancak bunlarl
 
 ## Referanslar
 
-* [GeoPackage - Wikipedia'dan)](https://en.wikipedia.org/wiki/GeoPackage)
+* [GeoPackage - Wikipedia'dan](https://en.wikipedia.org/wiki/GeoPackage)
 * [GeoPackage'a Başlarken](http://www.geopackage.org/guidance/getting-started.html)
 

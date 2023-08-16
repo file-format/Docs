@@ -54,6 +54,6 @@ GeoPackages съдържат редица таблици, подобно на д
 
 ## Препратки
 
-* [GeoPackage - от Wikipedia)](https://en.wikipedia.org/wiki/GeoPackage)
+* [GeoPackage - от Wikipedia](https://en.wikipedia.org/wiki/GeoPackage)
 * [Първи стъпки с GeoPackage](http://www.geopackage.org/guidance/getting-started.html)
 

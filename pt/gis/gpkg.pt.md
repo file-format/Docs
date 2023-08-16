@@ -54,6 +54,6 @@ Para conteúdo de referência espacial; incluindo, mas não limitado a blocos e 
 
 ## Referências
 
-* [GeoPackage - por Wikipedia)](https://en.wikipedia.org/wiki/GeoPackage)
+* [GeoPackage - por Wikipedia](https://en.wikipedia.org/wiki/GeoPackage)
 * [Introdução ao GeoPackage](http://www.geopackage.org/guidance/getting-started.html)
 

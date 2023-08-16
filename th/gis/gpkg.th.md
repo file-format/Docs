@@ -54,6 +54,6 @@ GeoPackages ประกอบด้วยตารางจำนวนหน�
 
 ## อ้างอิง
 
-* [GeoPackage - โดย Wikipedia)](https://en.wikipedia.org/wiki/GeoPackage)
+* [GeoPackage - โดย Wikipedia](https://en.wikipedia.org/wiki/GeoPackage)
 * [เริ่มต้นใช้งาน GeoPackage](http://www.geopackage.org/guidance/getting-started.html)
 

@@ -54,6 +54,6 @@ Pour le contenu de référence spatiale ; y compris, mais sans s'y limiter, les
 
 ## Références
 
-* [GeoPackage - par Wikipédia)](https://en.wikipedia.org/wiki/GeoPackage)
+* [GeoPackage - par Wikipédia](https://en.wikipedia.org/wiki/GeoPackage)
 * [Démarrer avec GeoPackage](http://www.geopackage.org/guidance/getting-started.html)
 

@@ -54,6 +54,6 @@ GeoPackage 的目录。此表中的必填列是：
 
 ## 参考
 
-* [GeoPackage - 由维基百科提供）]（https://en.wikipedia.org/wiki/GeoPackage）
+* [GeoPackage - 由维基百科提供）](https://en.wikipedia.org/wiki/GeoPackage)
 * [GeoPackage 入门](http://www.geopackage.org/guidance/getting-started.html)
 

@@ -54,6 +54,6 @@ Pro prostorový referenční obsah; včetně, ale bez omezení na dlaždice a pr
 
 ## Reference
 
-* [GeoPackage – od Wikipedie)](https://en.wikipedia.org/wiki/GeoPackage)
+* [GeoPackage – od Wikipedie](https://en.wikipedia.org/wiki/GeoPackage)
 * [Začínáme s GeoPackage](http://www.geopackage.org/guidance/getting-started.html)
 

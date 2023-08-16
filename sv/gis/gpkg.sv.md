@@ -54,6 +54,6 @@ För rumsligt referensinnehåll; inklusive men inte begränsat till brickor och 
 
 ## Referenser
 
-* [GeoPackage - av Wikipedia)](https://en.wikipedia.org/wiki/GeoPackage)
+* [GeoPackage - av Wikipedia](https://en.wikipedia.org/wiki/GeoPackage)
 * [Komma igång med GeoPackage](http://www.geopackage.org/guidance/getting-started.html)
 

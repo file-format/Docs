@@ -54,6 +54,6 @@ GeoPackage の目次。この表の必須列は次のとおりです。
 
 ## 参考文献
 
-* [GeoPackage - ウィキペディアによる)](https://en.wikipedia.org/wiki/GeoPackage)
+* [GeoPackage - ウィキペディアによる](https://en.wikipedia.org/wiki/GeoPackage)
 * [GeoPackage を始める](http://www.geopackage.org/guidance/getting-started.html)
 

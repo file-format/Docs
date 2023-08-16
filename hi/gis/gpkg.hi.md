@@ -54,6 +54,6 @@
 
 ## संदर्भ
 
-* [जियोपैकेज - विकिपीडिया द्वारा)](https://en.wikipedia.org/wiki/GeoPackage)
+* [जियोपैकेज - विकिपीडिया द्वारा](https://en.wikipedia.org/wiki/GeoPackage)
 * [जियोपैकेज के साथ शुरुआत करना](http://www.geopackage.org/guidance/getting-started.html)
 
