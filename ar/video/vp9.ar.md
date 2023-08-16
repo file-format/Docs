@@ -48,7 +48,7 @@
 
 ## مراجع
 
-* [VP9 Wikipedia](https://en.wikipedia.org/wiki/VP9#:~:text=VP9٪20is٪20an٪20open٪20and،on٪20Google's٪20video٪20platform٪20YouTube)
+* [VP9 Wikipedia](https://en.wikipedia.org/wiki/VP9)
 * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs#vp9)
 * [جوز الهند](https://www.coconut.co/)
 

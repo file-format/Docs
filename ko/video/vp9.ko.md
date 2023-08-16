@@ -48,7 +48,7 @@ Google은 VP8의 후속 제품으로 VP9 코덱을 로열티 프리, 오픈 소�
 
 ## 참고문헌
 
-* [VP9 위키백과](https://en.wikipedia.org/wiki/VP9#:~:text=VP9%20is%20an%20open%20and,on%20Google's%20video%20platform%20YouTube)
+* [VP9 위키백과](https://en.wikipedia.org/wiki/VP9)
 * [MDN 웹 문서](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs#vp9)
 * [코코넛](https://www.coconut.co/)
 

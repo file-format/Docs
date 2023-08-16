@@ -48,7 +48,7 @@ Thông thường, video 4K nâng cao chất lượng hình ảnh bằng cách l�
 
 ## Người giới thiệu
 
-* [VP9 Wikipedia](https://en.wikipedia.org/wiki/VP9#:~:text=VP9%20is%20an%20open%20and,on%20Google's%20video%20platform%20YouTube)
+* [VP9 Wikipedia](https://en.wikipedia.org/wiki/VP9)
 * [Tài liệu web MDN](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs#vp9)
 * [Dừa](https://www.coconut.co/)
 

@@ -48,7 +48,7 @@ Google розробив кодек VP9 як безкоштовний станд�
 
 ## Список літератури
 
-* [VP9 Wikipedia](https://en.wikipedia.org/wiki/VP9#:~:text=VP9%20is%20an%20open%20and,on%20Google%20video%20platform%20YouTube)
+* [VP9 Wikipedia](https://en.wikipedia.org/wiki/VP9)
 * [Веб-документи MDN](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs#vp9)
 * [Кокос](https://www.coconut.co/)
 
