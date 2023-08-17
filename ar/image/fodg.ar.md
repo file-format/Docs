@@ -32,6 +32,6 @@
 
 ## مراجع ##
 * [المواصفات المستقبلية للإصدار 1.3 القياسي](https://docs.oasis-open.org/office/OpenDocument/v1.3/cs01/OpenDocument-v1.3-cs01.zip)
-* [OASIS Open Document Format for Office Applications](https://www.oasis-open.org/committee/tc_home.php؟wg_abbrev=office)
+* [OASIS Open Document Format for Office Applications](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
 * [تنسيق OpenDocument - ويكيبيديا](https://en.wikipedia.org/wiki/OpenDocument)
 

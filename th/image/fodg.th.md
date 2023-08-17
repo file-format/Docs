@@ -32,6 +32,6 @@ FODG ใช้รูปแบบไฟล์ XML ของ OpenDocument ที�
 
 ## อ้างอิง ##
 * [ข้อกำหนดในอนาคตสำหรับการกำหนดมาตรฐาน v 1.3 ](https://docs.oasis-open.org/office/OpenDocument/v1.3/cs01/OpenDocument-v1.3-cs01.zip)
-* [รูปแบบเอกสาร OASIS Open สำหรับแอปพลิเคชัน Office](https://www.oasis-open.org/ คณะกรรมการ/tc_home.php?wg_abbrev=office)
+* [รูปแบบเอกสาร OASIS Open สำหรับแอปพลิเคชัน Office](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
 * [รูปแบบ OpenDocument - Wikipedia](https://en.wikipedia.org/wiki/OpenDocument)
 

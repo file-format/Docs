@@ -32,6 +32,6 @@ FODG dựa trên định dạng tệp XML của OpenDocument tuân theo Định 
 
 ## Người giới thiệu ##
 * [Thông số kỹ thuật trong tương lai cho tiêu chuẩn hóa v 1.3 ](https://docs.oasis-open.org/office/OpenDocument/v1.3/cs01/OpenDocument-v1.3-cs01.zip)
-* [Định dạng Tài liệu Mở OASIS dành cho Ứng dụng Office](https://www.oasis-open.org/committees/tc_home.php?wg_abrev=office)
+* [Định dạng Tài liệu Mở OASIS dành cho Ứng dụng Office](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
 * [Định dạng Tài liệu Mở - Wikipedia](https://en.wikipedia.org/wiki/OpenDocument)
 
