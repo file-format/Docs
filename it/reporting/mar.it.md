@@ -50,5 +50,5 @@ La progettazione di un report di Access è suddivisa in diverse sezioni che poss
 ## Riferimenti ##
 
 - [Introduzione ai report in Access](https://support.microsoft.com/en-us/office/introduction-to-reports-in-access-e0869f59-7536-4d19-8e05-7158dcd3681c)
-- [Progettazione di report in Access](https://www.uis.edu/informationtechnologyservices/wp-content/uploads/sites/106/2013/04/DesigningReportsinAccess2010.pdf)
+- [Progettazione di report in Access](https://github.com/prijuly2000/DBMS/blob/master/DesigningReportsinAccess2010.pdf)
 
