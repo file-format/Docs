@@ -129,6 +129,6 @@ img, a img {border: none;}
 
 ## อ้างอิง
 
-* [HFS](https://www.rejetto.com/wiki/index.php/การปรับแต่ง)
+* [HFS](https://www.rejetto.com/wiki/index.php/Refinements)
 * [ตัวอย่าง TPL - Github](https://github.com/heiswayi/hfs-templates/blob/master/HFSTemplate_myHFS.tpl)
 
