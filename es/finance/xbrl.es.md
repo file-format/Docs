@@ -32,7 +32,7 @@ Información completa sobre las [etiquetas XBRL 2.1](https://www.xbrl.org/Specif
 
 **`XBRL Instance`**: la instancia XBRL comienza con el<xbrl> elemento raíz. Un documento XML grande puede contener más de una instancia XBRL incrustada.
 
-**`Taxonomía XBRL`** - La [Taxonomía XBRL](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31 +errata-corregida-2013-02-20.html#_5) se define como una estructura de esquema XML y un conjunto de elementos de enlaces externos referenciados directamente. Un esquema de taxonomía escalable que muestra las referencias de la base de enlaces es el siguiente.
+**`Taxonomía XBRL`** - La [Taxonomía XBRL](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5) se define como una estructura de esquema XML y un conjunto de elementos de enlaces externos referenciados directamente. Un esquema de taxonomía escalable que muestra las referencias de la base de enlaces es el siguiente.
 
 ```
 <schema
