@@ -35,5 +35,5 @@ Phiên bản 3 đã mở rộng về điều này, sử dụng đáng kể công
 Các tài liệu WPD chủ yếu được sử dụng để xử lý văn bản đã chuẩn bị. Kết quả là, những tệp đó bao gồm các đoạn văn bản. Thẻ được sử dụng để chứa thông tin định dạng mà WordPerfect nhận dạng là mã. Điều này làm cho việc tìm kiếm các vấn đề về định dạng trở nên dễ dàng hơn nhiều vì ứng dụng đánh dấu các vùng của văn bản và hiển thị định dạng kế thừa. Các tài liệu WPD, giống như các loại tệp xử lý văn bản phổ biến hơn như [DOC](/vi/word-processing/doc/), có thể kết hợp dữ liệu từ các nguồn khác nhau như tệp, cơ sở dữ liệu hoặc thiết kế.
 ## Người giới thiệu ##
 
-* [WPD - Wikipedia](https://vi.wikipedia.org/wiki/WordPerfect)
+* [WPD - Wikipedia](https://en.wikipedia.org/wiki/WordPerfect)
 

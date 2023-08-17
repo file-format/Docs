@@ -26,5 +26,5 @@
 
 ## использованная литература
 
-* [Важность папки данных EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= en_US)
+* [Важность папки данных EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files)
 

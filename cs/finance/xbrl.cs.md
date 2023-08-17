@@ -20,7 +20,7 @@
 
 ## Co je soubor XBRL?
 
-Soubor s příponou .xbrl (eXtensible Business Reporting Language) je volně dostupný a globální rámec pro výměnu obchodních informací. Nyní je široce používán jako jeden ze standardních formátů, který nahradil starší papírové zprávy užitečnějšími a přesnějšími digitálními záznamy. Data vyměňovaná pomocí souborů XBRL zahrnují účetní knihy, finanční podrobnosti a rozvahy. Podporuje datové značky, které umožňují zpracování dat od přípravy až po fázi analýzy obchodních informací všeho druhu. Soubory XBRL lze otevřít pomocí softwaru, jako je Rivet Software Dragon View XBRL Viewer, a rozhraní API jako [Aspose.Finance](https://products.aspose.com/finance).
+Soubor s příponou .xbrl (eXtensible Business Reporting Language) je volně dostupný a globální rámec pro výměnu obchodních informací. Nyní je široce používán jako jeden ze standardních formátů, který nahradil starší papírové zprávy užitečnějšími a přesnějšími digitálními záznamy. Data vyměňovaná pomocí souborů XBRL zahrnují účetní knihy, finanční podrobnosti a rozvahy. Podporuje datové značky, které umožňují zpracování dat od přípravy až po fázi analýzy obchodních informací všeho druhu. Soubory XBRL lze otevřít pomocí softwaru, jako je Rivet Software Dragon View XBRL Viewer, a rozhraní API jako [Aspose.Finance](https://products.aspose.com/finance/).
 
 ## Formát souboru XBRL
 
@@ -28,11 +28,11 @@ XBRL je otevřený mezinárodní standard pro digitální obchodní výkaznictv�
 
 ### Struktura dokumentu XBRL
 
-Kompletní informace o [značkách XBRL 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata- 2013-02-20.html) mohou programátoři odkázat na psaní aplikací pro práci s tímto formátem souborů. XBRL se skládá z instance XBRL a kolekce taxonomií.
+Kompletní informace o [značkách XBRL 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) mohou programátoři odkázat na psaní aplikací pro práci s tímto formátem souborů. XBRL se skládá z instance XBRL a kolekce taxonomií.
 
 **`Instance XBRL`** – Instance XBRL začíná znakem<xbrl> kořenový prvek. Velký dokument XML může obsahovat více než jednu instanci XBRL.
 
-**`XBRL Taxonomy`** – The [XBRL Taxonomy](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31 +corrected-errata-2013-02-20.html#_5) je definován jako struktura XML schématu a sada přímo odkazovaných prvků externích odkazů. Škálovatelné schéma taxonomie zobrazující odkazy na báze odkazů je následující.
+**`XBRL Taxonomy`** – The [XBRL Taxonomy](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5) je definován jako struktura XML schématu a sada přímo odkazovaných prvků externích odkazů. Škálovatelné schéma taxonomie zobrazující odkazy na báze odkazů je následující.
 
 ```
 <schema
@@ -57,5 +57,5 @@ Kompletní informace o [značkách XBRL 2.1](https://www.xbrl.org/Specification/
 ## Reference ##
 
 * [XBRL – podle Wikipedie](https://en.wikipedia.org/wiki/XBRL)
-* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected- errata-2013-02-20.html)
+* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html)
 

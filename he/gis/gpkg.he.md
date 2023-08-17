@@ -54,6 +54,6 @@ GeoPackage מורכב כקובץ מסד נתונים מורחב של SQLite 3; �
 
 ## הפניות
 
-* [GeoPackage - מאת ויקיפדיה)](https://en.wikipedia.org/wiki/GeoPackage)
+* [GeoPackage - מאת ויקיפדיה](https://en.wikipedia.org/wiki/GeoPackage)
 * [תחילת העבודה עם GeoPackage](http://www.geopackage.org/guidance/getting-started.html)
 

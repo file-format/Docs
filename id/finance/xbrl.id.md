@@ -20,7 +20,7 @@
 
 ## Apa itu file XBRL?
 
-File dengan ekstensi .xbrl (eXtensible Business Reporting Language) adalah kerangka kerja global yang tersedia secara gratis untuk bertukar informasi bisnis. Sekarang banyak digunakan sebagai salah satu format standar yang telah menggantikan laporan berbasis kertas yang lebih tua dengan catatan digital yang lebih berguna dan akurat. Pertukaran data menggunakan file XBRL termasuk buku besar, detail keuangan, dan neraca. Ini mendukung tag data yang memungkinkan pemrosesan data dari persiapan hingga tahap analisis informasi bisnis dari semua jenis. File XBRL dapat dibuka menggunakan software seperti Rivet Software Dragon View XBRL Viewer dan API seperti [Aspose.Finance](https://products.aspose.com/finance).
+File dengan ekstensi .xbrl (eXtensible Business Reporting Language) adalah kerangka kerja global yang tersedia secara gratis untuk bertukar informasi bisnis. Sekarang banyak digunakan sebagai salah satu format standar yang telah menggantikan laporan berbasis kertas yang lebih tua dengan catatan digital yang lebih berguna dan akurat. Pertukaran data menggunakan file XBRL termasuk buku besar, detail keuangan, dan neraca. Ini mendukung tag data yang memungkinkan pemrosesan data dari persiapan hingga tahap analisis informasi bisnis dari semua jenis. File XBRL dapat dibuka menggunakan software seperti Rivet Software Dragon View XBRL Viewer dan API seperti [Aspose.Finance](https://products.aspose.com/finance/).
 
 ## Format File XBRL
 
@@ -28,11 +28,11 @@ XBRL adalah standar internasional terbuka untuk pelaporan bisnis digital yang ba
 
 ### Struktur Dokumen XBRL
 
-Informasi lengkap tentang [XBRL 2.1 tag](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata- 2013-02-20.html) dapat dirujuk oleh pemrogram untuk menulis aplikasi untuk mengerjakan format file ini. XBRL terdiri dari instance XBRL, dan kumpulan taksonomi.
+Informasi lengkap tentang [XBRL 2.1 tag](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) dapat dirujuk oleh pemrogram untuk menulis aplikasi untuk mengerjakan format file ini. XBRL terdiri dari instance XBRL, dan kumpulan taksonomi.
 
 **`XBRL Instance`** - Instance XBRL diawali dengan<xbrl> elemen akar. Dokumen XML yang besar dapat berisi lebih dari satu contoh XBRL yang disematkan di dalamnya.
 
-**`Taksonomi XBRL`** - [Taksonomi XBRL](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31 +corrected-errata-2013-02-20.html#_5) didefinisikan sebagai struktur skema XML dan kumpulan elemen tautan eksternal yang dirujuk langsung. Skema taksonomi terukur yang menunjukkan referensi linkbase adalah sebagai berikut.
+**`Taksonomi XBRL`** - [Taksonomi XBRL](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5) didefinisikan sebagai struktur skema XML dan kumpulan elemen tautan eksternal yang dirujuk langsung. Skema taksonomi terukur yang menunjukkan referensi linkbase adalah sebagai berikut.
 
 ```
 <schema
@@ -57,5 +57,5 @@ Informasi lengkap tentang [XBRL 2.1 tag](https://www.xbrl.org/Specification/XBRL
 ## Referensi ##
 
 * [XBRL - Oleh Wikipedia](https://en.wikipedia.org/wiki/XBRL)
-* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected- ralat-2013-02-20.html)
+* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html)
 

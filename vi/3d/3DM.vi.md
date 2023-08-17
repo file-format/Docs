@@ -35,6 +35,6 @@ Thư viện [openNURBS](https://github.com/mcneel/opennurbs) cho phép mọi ng�
 ## Người giới thiệu ##
 
 * [Tê giác](https://www.rhino3d.com/download/openNURBS)
-* [Tê giác - Wikipedia](https://vi.wikipedia.org/wiki/Rhinoceros_3D)
+* [Tê giác - Wikipedia](https://en.wikipedia.org/wiki/Rhinoceros_3D)
 * [openNURBS trên GitHub](https://github.com/mcneel/opennurbs)
 

@@ -37,7 +37,7 @@ EXIF používá následující formáty souborů s přidáním specifických met
 
 1. [JPEG](/cs/image/jpeg/) – diskrétní kosinusová transformace (DCT) pro komprimované obrazové soubory.
 1. [TIFF](/cs/image/tiff/) Rev. 6.0 (RGB nebo YCbCr) pro nekomprimované obrazové soubory.
-1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) pro zvukové soubory (Lineární [PCM](https:/ /en.wikipedia.org/wiki/Pulse-code_modulation) nebo ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM pro nekomprimovaná zvuková data a [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) pro komprimovaná zvuková data).
+1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) pro zvukové soubory (Lineární [PCM](https://en.wikipedia.org/wiki/Pulse-code_modulation) nebo ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM pro nekomprimovaná zvuková data a [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) pro komprimovaná zvuková data).
 
 ### Značka používaná EXIFem ###
 

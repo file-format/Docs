@@ -91,5 +91,5 @@ Chữ ký RAR là một tiêu đề 8 byte bao gồm số ma thuật sau:
 ## Người giới thiệu
 
 * [Định dạng lưu trữ RAR 5.0](https://www.rarlab.com/technote.htm)
-* [RAR - Theo Wikipedia](https://vi.wikipedia.org/wiki/RAR_(file_format))
+* [RAR - Theo Wikipedia](https://en.wikipedia.org/wiki/RAR_(file_format))
 

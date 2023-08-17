@@ -64,5 +64,5 @@ BB3D
 
 ## Người giới thiệu
 * [B3D](https://moddb.fandom.com/wiki/B3D)
-* [CƠ BẢN Blitz](https://vi.wikipedia.org/wiki/Blitz_BASIC)
+* [CƠ BẢN Blitz](https://en.wikipedia.org/wiki/Blitz_BASIC)
 

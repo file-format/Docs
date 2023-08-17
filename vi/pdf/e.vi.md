@@ -43,6 +43,6 @@ Tiêu chuẩn PDF/E có các lợi ích sau;
 
 ## Người giới thiệu ##
 
-* [PDF/E - Theo Wikipedia](https://vi.wikipedia.org/wiki/PDF/E)
+* [PDF/E - Theo Wikipedia](https://en.wikipedia.org/wiki/PDF/E)
 * [ISO 24517](https://www.iso.org/standard/42274.html)
 

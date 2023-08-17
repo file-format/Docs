@@ -29,7 +29,7 @@ Nella maggior parte dei casi, i file PAK vengono salvati in [formato file ZIP](/
 
 ## Come aprire i file PAK?
 
-È possibile aprire file PAK con applicazioni come [PakExplorer](https://www.quaketerminas.com/tools.shtml) e [SpriteExplorer](http://www.slackiller.com/hlprograms.htm).
+È possibile aprire file PAK con applicazioni come [PakExplorer](https://www.quaketerminus.com/tools.shtml) e [SpriteExplorer](http://www.slackiller.com/hlprograms.htm).
 
 **------------------------------------------------ -------------------------------------------------- ------------------------**
 

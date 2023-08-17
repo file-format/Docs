@@ -32,7 +32,7 @@ A .swift kiterjesztésű fájl az Apple által bevezetett SWIFT programozási ny
 * A Swift 3.0 2016. szeptember 13-án jelent meg.
 * A Swift 4.0 2017. szeptember 19-én jelent meg.
 * A Swift 4.1 2018. március 29-én jelent meg.
-* A Swift nyelv 2015. december 3-án nyílt forráskódú, a támogató könyvtárakkal, a hibakeresővel és a csomagkezelővel együtt az Apache 2.0 licenc alatt. A projektet a [Swift.org](https://swift.org/), forráskódja pedig a [GitHub] webhelyen tárolja (https://github.com/apple/swift).
+* A Swift nyelv 2015. december 3-án nyílt forráskódú, a támogató könyvtárakkal, a hibakeresővel és a csomagkezelővel együtt az Apache 2.0 licenc alatt. A projektet a [Swift.org](https://swift.org/), forráskódja pedig a [GitHub](https://github.com/apple/swift) webhelyen tárolja.
 * A 2019-es WWDC során az Apple bejelentette a SwiftUI keretrendszert a felhasználói felület szerkezetének kialakításához az összes Apple platformon
 
 ## Swift fájlformátum – További információ

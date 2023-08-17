@@ -67,6 +67,6 @@ MCA Payload 由块组成，其中每个块数据都以（大端）四字节长�
 ## 参考
 
 * [我的世界世界编辑器](https://www.mcedit.net/)
-* [关于我的世界](https://www.minecraft.net/zh-cn)
+* [关于我的世界](https://www.minecraft.net/)
 * [区域文件格式](https://minecraft.fandom.com/wiki/Region_file_format)
 

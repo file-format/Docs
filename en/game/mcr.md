@@ -39,6 +39,6 @@ The Minecraft MCR file format supports compression. MCR file format is based on 
 ## References
 
 * [World Editor for Minecraft](https://www.mcedit.net/)
-* [About Minecraft](https://www.minecraft.net/en-us)
+* [About Minecraft](https://www.minecraft.net/)
 * [Region File Format](https://minecraft.fandom.com/wiki/Region_file_format)
 * [NBT Format](https://minecraft.fandom.com/wiki/NBT_format)

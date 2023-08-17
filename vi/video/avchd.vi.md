@@ -46,7 +46,7 @@ Sự khác biệt cho cả hai định dạng được đưa ra trong bảng dư
 
 ## Người giới thiệu ##
 
-- [AVCHD - Wikipedia](https://vi.wikipedia.org/wiki/AVCHD)
+- [AVCHD - Wikipedia](https://en.wikipedia.org/wiki/AVCHD)
 - [Định dạng AVCHD là gì?](https://www.sony.com/electronics/support/articles/00016537)
 
 

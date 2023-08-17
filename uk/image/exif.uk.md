@@ -37,7 +37,7 @@ EXIF використовує такі формати файлів із дода
 
 1. [JPEG](/uk/image/jpeg/) - дискретне косинусне перетворення (DCT) для файлів стислих зображень.
 1. [TIFF](/uk/image/tiff/) Rev. 6.0 (RGB або YCbCr) для файлів зображень без стиснення.
-1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) для аудіофайлів (лінійний [PCM](https:/ /en.wikipedia.org/wiki/Pulse-code_modulation) або ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM для нестиснених аудіоданих та [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) для стиснених аудіоданих).
+1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) для аудіофайлів (лінійний [PCM](https://en.wikipedia.org/wiki/Pulse-code_modulation) або ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM для нестиснених аудіоданих та [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) для стиснених аудіоданих).
 
 ### Маркер, який використовується EXIF ###
 

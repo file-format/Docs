@@ -19,7 +19,7 @@
 
 ## Co je soubor USDZ?
 
-Soubor s .usdz je nekomprimovaný a nešifrovaný ZIP archiv pro souborový formát [USD](/cs/3d/usd/) (Universal Scene Description), který obsahuje a proxy soubory jiných formátů (jako jsou textury a animace) vložené do archiv a spouští je přímo s běhovým časem USD bez nutnosti rozbalování. Soubory USDZ jsou balíčky, jejichž design je založen na nové abstrakci balíčku na úrovni Ar. Usdz byl registrován u IANA a má název typu média modelu a název podtypu vnd.usd+zip a jeho podrobnosti lze nalézt na [registrační stránce IANA](https://www.iana.org/assignments/media-typy/model/vnd.usdz+zip).
+Soubor s .usdz je nekomprimovaný a nešifrovaný ZIP archiv pro souborový formát [USD](/cs/3d/usd/) (Universal Scene Description), který obsahuje a proxy soubory jiných formátů (jako jsou textury a animace) vložené do archiv a spouští je přímo s běhovým časem USD bez nutnosti rozbalování. Soubory USDZ jsou balíčky, jejichž design je založen na nové abstrakci balíčku na úrovni Ar. Usdz byl registrován u IANA a má název typu média modelu a název podtypu vnd.usd+zip a jeho podrobnosti lze nalézt na [registrační stránce IANA](https://www.iana.org/assignments/media-types/model/vnd.usdz+zip).
 
 ## Formát souboru USDZ
 

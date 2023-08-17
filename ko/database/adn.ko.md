@@ -27,5 +27,5 @@ ADN은 이진 파일로 디스크에 저장되는 데이터베이스 템플릿 �
 
 ## 참고문헌
 
-* [Microsoft Access - 어떤 액세스 형식을 사용해야 하나요?](https://support.microsoft.com/en-us/office/what-access-file-format-should-i-use-012d9ab3-d14c-479e- b617-be66f9070b41)
+* [Microsoft Access - 어떤 액세스 형식을 사용해야 하나요?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

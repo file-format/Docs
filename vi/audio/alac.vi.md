@@ -40,7 +40,7 @@ Các tệp dựa trên codec ALAC là các tệp nhị phân có sẵn dưới d
 
 ## Người giới thiệu
 
-* [ALAC - Wikipedia](https://vi.wikipedia.org/wiki/Apple_Lossless)
+* [ALAC - Wikipedia](https://en.wikipedia.org/wiki/Apple_Lossless)
 * [Bộ giải mã âm thanh không mất dữ liệu của Apple](https://macosforge.github.io/alac/)
 * [macosforge - alac trên GitHub](https://github.com/macosforge/alac)
 

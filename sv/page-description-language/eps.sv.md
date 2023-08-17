@@ -79,7 +79,7 @@ En EPS-fil kan inte använda någon av följande operatorer:
 
 EPS-filer kan konverteras till standardbildformat som [JPG](/sv/image/jpeg/), [PNG](/sv/image/png/), [TIFF](/sv/image/tiff/) och [PDF](/sv/pdf /) med olika applikationer t.ex. Adobe Illustrator, Photoshop och PaintShop Pro.
 
-På grund av en [säkerhetssårbarhet](https://support.office.com/en-us/article/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e- a1b5-cbb0c334a840) i EPS-filer, Office 2016, Office 2013, Office 2010 och Office 365 har stängt av möjligheten att infoga EPS-filer i Office-dokument.
+På grund av en [säkerhetssårbarhet](https://support.microsoft.com/en-us/office/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e-a1b5-cbb0c334a840) i EPS-filer, Office 2016, Office 2013, Office 2010 och Office 365 har stängt av möjligheten att infoga EPS-filer i Office-dokument.
 
 ## Referenser
 

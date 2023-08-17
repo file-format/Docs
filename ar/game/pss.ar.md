@@ -28,5 +28,5 @@ PSS هي ملفات ثنائية لا تتوفر تفاصيل تنسيق الم�
 
 ## مراجع
 
-* [نسخ ملفات فيلم Playstation 2 PSS](https://www.youtube.com/watch؟v=_4nlHBoLp3o)
+* [نسخ ملفات فيلم Playstation 2 PSS](https://www.youtube.com/watch?v=_4nlHBoLp3o)
 

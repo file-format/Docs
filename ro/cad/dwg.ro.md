@@ -39,7 +39,7 @@ Formatul de fișier DWG a evoluat cu timpul de la introducerea sa oficială în 
 
 ## Structura fișierului ##
 
-DWG a fost unul dintre formatele de fișiere utilizate pe scară largă de o serie de aplicații și are o structură de fișiere robustă. Deoarece DWG este un format de fișier binar, nu poate fi citit de om ca formatul de fișier simplu ASCII [DXF](/ro/cad/dxf/). Fișierele DWG includ de obicei informații despre coordonatele imaginii și orice metadate asociate cu acestea. [Specificațiile] complete (https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf) în format de fișier DWG sunt disponibile pentru descărcare de către OpenDesign. Structura fișierului formatului de fișier DWG este rezumată după cum urmează.
+DWG a fost unul dintre formatele de fișiere utilizate pe scară largă de o serie de aplicații și are o structură de fișiere robustă. Deoarece DWG este un format de fișier binar, nu poate fi citit de om ca formatul de fișier simplu ASCII [DXF](/ro/cad/dxf/). Fișierele DWG includ de obicei informații despre coordonatele imaginii și orice metadate asociate cu acestea. [Specificațiile](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf) complete în format de fișier DWG sunt disponibile pentru descărcare de către OpenDesign. Structura fișierului formatului de fișier DWG este rezumată după cum urmează.
 
 **Header**: antetul fișierului constă din variabile DWG Header și informații despre Cyclic Redundancy Check (CRC) care sunt utilizate pentru detectarea erorilor. Fiecare subsecțiune este un vector specializat în care se folosesc diferite lungimi de biți pentru a reprezenta diferite etichete. De exemplu, primii 6 biți ai variabilei DWG Header reprezintă șirul de versiune.
 

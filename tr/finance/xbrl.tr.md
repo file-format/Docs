@@ -20,7 +20,7 @@
 
 ## XBRL dosyası nedir?
 
-.xbrl (eXtensible Business Reporting Language) uzantılı bir dosya, işletme bilgilerini değiş tokuş etmek için ücretsiz olarak kullanılabilen ve küresel bir çerçevedir. Artık, eski kağıt tabanlı raporları daha kullanışlı ve doğru dijital kayıtlarla değiştiren standart biçimlerden biri olarak yaygın şekilde kullanılmaktadır. XBRL dosyaları kullanılarak değiş tokuş edilen veriler, defterleri, finansal ayrıntıları ve bilançoları içerir. Her türlü iş bilgisinin hazırlanmasından analiz aşamasına kadar veri işlemeye izin veren veri etiketlerini destekler. XBRL dosyaları, Rivet Software Dragon View XBRL Viewer gibi yazılımlar ve [Aspose.Finance](https://products.aspose.com/finance) gibi API'ler kullanılarak açılabilir.
+.xbrl (eXtensible Business Reporting Language) uzantılı bir dosya, işletme bilgilerini değiş tokuş etmek için ücretsiz olarak kullanılabilen ve küresel bir çerçevedir. Artık, eski kağıt tabanlı raporları daha kullanışlı ve doğru dijital kayıtlarla değiştiren standart biçimlerden biri olarak yaygın şekilde kullanılmaktadır. XBRL dosyaları kullanılarak değiş tokuş edilen veriler, defterleri, finansal ayrıntıları ve bilançoları içerir. Her türlü iş bilgisinin hazırlanmasından analiz aşamasına kadar veri işlemeye izin veren veri etiketlerini destekler. XBRL dosyaları, Rivet Software Dragon View XBRL Viewer gibi yazılımlar ve [Aspose.Finance](https://products.aspose.com/finance/) gibi API'ler kullanılarak açılabilir.
 
 ## XBRL Dosya Biçimi
 
@@ -28,11 +28,11 @@ XBRL, dünya çapında yaygın olarak kullanılan, dijital iş raporlaması içi
 
 ### XBRL Belge Yapısı
 
-[XBRL 2.1 etiketleri] hakkında eksiksiz bilgi(https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata- 2013-02-20.html) programcılar tarafından bu dosya biçimini çalıştırmak için uygulamalar yazmaya yönlendirilebilir. Bir XBRL, bir XBRL örneğinden ve bir taksonomi koleksiyonundan oluşur.
+[XBRL 2.1 etiketleri](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) hakkında eksiksiz bilgi programcılar tarafından bu dosya biçimini çalıştırmak için uygulamalar yazmaya yönlendirilebilir. Bir XBRL, bir XBRL örneğinden ve bir taksonomi koleksiyonundan oluşur.
 
 **`XBRL Örneği`** - XBRL örneği,<xbrl> kök eleman. Büyük bir XML belgesi, içine katıştırılmış birden fazla XBRL örneği içerebilir.
 
-**`XBRL Taksonomisi`** - [XBRL Taksonomisi](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31 +corrected-errata-2013-02-20.html#_5), XML şema yapıları ve doğrudan başvurulan dış bağlantılar öğesi kümesi olarak tanımlanır. Bağlantı tabanı referanslarını gösteren ölçeklenebilir bir taksonomi şeması aşağıdaki gibidir.
+**`XBRL Taksonomisi`** - [XBRL Taksonomisi](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5), XML şema yapıları ve doğrudan başvurulan dış bağlantılar öğesi kümesi olarak tanımlanır. Bağlantı tabanı referanslarını gösteren ölçeklenebilir bir taksonomi şeması aşağıdaki gibidir.
 
 ```
 <schema
@@ -57,5 +57,5 @@ XBRL, dünya çapında yaygın olarak kullanılan, dijital iş raporlaması içi
 ## Referanslar ##
 
 * [XBRL - Wikipedia Tarafından](https://en.wikipedia.org/wiki/XBRL)
-* [Genişletilebilir İş Raporlama Dili (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected- hata-2013-02-20.html)
+* [Genişletilebilir İş Raporlama Dili (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html)
 

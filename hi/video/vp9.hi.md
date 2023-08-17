@@ -48,7 +48,7 @@ Google ने VP9 कोडेक को VP8 के उत्तराधिक�
 
 ## संदर्भ
 
-* [VP9 विकिपीडिया](https://en.wikipedia.org/wiki/VP9#:~:text=VP9%20is%20an%20open%20and,on%20Google's%20video%20platform%20YouTube)
+* [VP9 विकिपीडिया](https://en.wikipedia.org/wiki/VP9)
 * [एमडीएन वेब डॉक्स](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs#vp9)
 * [नारियल](https://www.coconut.co/)
 

@@ -32,7 +32,6 @@ Een hex-dump van een eenvoudig ACCDB-bestand suggereert dat er algemene overeenk
 
 ## Referenties
 
-* [Access File Format](https://support.microsoft.com/en-us/office/who-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41?redirectSourcePath=% 252fen-us%252farticle%252fInleiding-to-the-Access-2007-file-format-8cf93630-0b68-4a40-a13c-7528b9f074b6&ui=nl-US&rs=nl-US&ad=US)
-* [Access 2016-specificaties](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c?ui=en-us&rs=en-us&ad=us)
+* [Access 2016-specificaties](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
 * [Microsoft Jet Database Engine](https://en.wikipedia.org/wiki/Microsoft_Jet_Database_Engine)
-* [Welke Access-bestandsindeling moet ik gebruiken?](https://support.microsoft.com/en-us/office/who-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41?ui=nl-nl&rs=nl-nl&ad=ons)
+* [Welke Access-bestandsindeling moet ik gebruiken?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)

@@ -67,6 +67,6 @@
 ## использованная литература
 
 * [Редактор мира для Minecraft](https://www.mcedit.net/)
-* [О Minecraft](https://www.minecraft.net/en-us)
+* [О Minecraft](https://www.minecraft.net/)
 * [Формат файла региона](https://minecraft.fandom.com/wiki/Region_file_format)
 

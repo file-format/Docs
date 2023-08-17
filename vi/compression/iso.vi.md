@@ -57,5 +57,5 @@ Mỗi bộ mô tả âm lượng có kích thước 2048 byte và có cấu trú
 
 * [Hình ảnh đĩa quang - Wikipedia](https://en.wikipedia.org/wiki/Optical_disc_image)
 * [Chữ ký tệp](https://www.garykessler.net/library/file_sigs.html)
-* [ISO 9660 - Wikipedia](https://vi.wikipedia.org/wiki/ISO_9660)
+* [ISO 9660 - Wikipedia](https://en.wikipedia.org/wiki/ISO_9660)
 

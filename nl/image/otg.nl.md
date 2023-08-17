@@ -19,7 +19,7 @@
 
 ## Wat is een OTG-bestand?
 
-Een OTG-bestand is een tekensjabloon die is gemaakt met behulp van de OpenDocument-standaard die de OASIS Office Applications [1.0-specificatie] volgt (https://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0-os.pdf). Het vertegenwoordigt de standaardorganisatie van tekenelementen voor een vectorafbeelding die kan worden gebruikt om de inhoud van het bestand verder te verbeteren. OTF-bestanden zijn net als alle andere op OpenDocument-indeling gebaseerde bestanden die zijn gebaseerd op XML-indeling om de inhoud van het document weer te geven. OTF-bestanden kunnen worden bekeken door ze in een willekeurige tekst- of standaard XML-editor te openen.
+Een OTG-bestand is een tekensjabloon die is gemaakt met behulp van de OpenDocument-standaard die de OASIS Office Applications [1.0-specificatie](https://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0-os.pdf) volgt. Het vertegenwoordigt de standaardorganisatie van tekenelementen voor een vectorafbeelding die kan worden gebruikt om de inhoud van het bestand verder te verbeteren. OTF-bestanden zijn net als alle andere op OpenDocument-indeling gebaseerde bestanden die zijn gebaseerd op XML-indeling om de inhoud van het document weer te geven. OTF-bestanden kunnen worden bekeken door ze in een willekeurige tekst- of standaard XML-editor te openen.
 
 ## Specificaties OTG-bestandsindeling ##
 

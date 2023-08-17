@@ -32,5 +32,5 @@ Các tệp có phần mở rộng .otp đại diện cho các tệp mẫu bản 
 
 ## Người giới thiệu
 
-* [OpenDocument - Bởi Wikipedia](https://vi.wikipedia.org/wiki/OpenDocument)
+* [OpenDocument - Bởi Wikipedia](https://en.wikipedia.org/wiki/OpenDocument)
 

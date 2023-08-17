@@ -48,7 +48,7 @@ Normalerweise erhöht das 4K-Video die Bildqualität, indem bestimmte Pixel klei
 
 ## Verweise
 
-* [VP9 Wikipedia](https://en.wikipedia.org/wiki/VP9#:~:text=VP9%20ist%20an%20offen%20und auf%20Googles%20Video%20Plattform%20YouTube)
+* [VP9 Wikipedia](https://en.wikipedia.org/wiki/VP9)
 * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs#vp9)
 * [Kokosnuss](https://www.coconut.co/)
 

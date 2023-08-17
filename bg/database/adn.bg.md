@@ -27,5 +27,5 @@ ADN са шаблонни файлове на бази данни, които с
 
 ## Препратки
 
-* [Microsoft Access – Кой формат за достъп трябва да използвам?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e- b617-be66f9070b41)
+* [Microsoft Access – Кой формат за достъп трябва да използвам?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

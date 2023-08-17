@@ -26,5 +26,5 @@ ENL ファイルはバイナリ ファイルとして保存され、内部ファ
 
 ## 参考文献
 
-* [EndNote データ フォルダの重要性](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= en_US)
+* [EndNote データ フォルダの重要性](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files)
 

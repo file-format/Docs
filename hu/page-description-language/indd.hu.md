@@ -33,7 +33,7 @@ Az INDD fájlok számos más fájlformátumba konvertálhatók. A leggyakoribb �
 
 ## Hogyan jön létre az INDD fájl?
 
-Indd-fájl jön létre, amikor új projektet hoz létre az [Adobe InDesign] segítségével (https://www.adobe.com/products/indesign.html), és lemezre menti. Megnyithatja az Indd projektfájlt, módosíthatja azt, és elmentheti a frissített fájlt a módosításokhoz.
+Indd-fájl jön létre, amikor új projektet hoz létre az [Adobe InDesign](https://www.adobe.com/products/indesign.html) segítségével, és lemezre menti. Megnyithatja az Indd projektfájlt, módosíthatja azt, és elmentheti a frissített fájlt a módosításokhoz.
 
 ## Hivatkozások
 

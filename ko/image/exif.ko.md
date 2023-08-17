@@ -37,7 +37,7 @@ EXIF는 특정 메타데이터를 추가하여 다음 파일 형식을 사용합
 
 1. [JPEG](/ko/image/jpeg/) - 압축된 이미지 파일에 대한 이산 코사인 변환(DCT).
 1. 압축되지 않은 이미지 파일용 [TIFF](/ko/image/tiff/) Rev. 6.0(RGB 또는 YCbCr).
-1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) 오디오 파일용(Linear [PCM](https:/) /en.wikipedia.org/wiki/Pulse-code_modulation) 또는 ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) 비압축 오디오 데이터용 μ-Law PCM 및 [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) 압축 오디오 데이터).
+1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) 오디오 파일용(Linear [PCM](https://en.wikipedia.org/wiki/Pulse-code_modulation) 또는 ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) 비압축 오디오 데이터용 μ-Law PCM 및 [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) 압축 오디오 데이터).
 
 ### EXIF에서 사용하는 마커 ###
 

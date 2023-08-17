@@ -27,5 +27,5 @@ ADN は、バイナリ ファイルとしてディスクに保存されるデー
 
 ## 参考文献
 
-* [Microsoft Access - どの Access 形式を使用すればよいですか?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e- b617-be66f9070b41)
+* [Microsoft Access - どの Access 形式を使用すればよいですか?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

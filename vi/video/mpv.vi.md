@@ -26,5 +26,5 @@ Các tệp MPV được lưu vào đĩa dưới dạng tệp nhị phân đơn g
 
 ## Người giới thiệu ##
 
-- [MPEG-1 - Wikipedia](https://vi.wikipedia.org/wiki/MPEG-1)
+- [MPEG-1 - Wikipedia](https://en.wikipedia.org/wiki/MPEG-1)
 

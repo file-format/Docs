@@ -50,5 +50,5 @@ Projekt raportu programu Access jest podzielony na różne sekcje, które można
 ## Bibliografia ##
 
 - [Wprowadzenie do raportów w programie Access](https://support.microsoft.com/en-us/office/introduction-to-reports-in-access-e0869f59-7536-4d19-8e05-7158dcd3681c)
-- [Projektowanie raportów w programie Access](https://www.uis.edu/informationtechnologyservices/wp-content/uploads/sites/106/2013/04/DesigningReportsinAccess2010.pdf)
+- [Projektowanie raportów w programie Access](https://github.com/prijuly2000/DBMS/blob/master/DesigningReportsinAccess2010.pdf)
 

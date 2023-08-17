@@ -54,6 +54,7 @@ DSN 파일의 내용을 열고 보려면 메모장, Sublime Text, Atom 등과 �
 그러나 DSN 파일을 사용하여 데이터베이스에 연결하고 SELECT, INSERT, UPDATE, DELETE 등과 같은 작업을 실행하려면 Python, Java, C#과 같은 프로그래밍 언어 또는 Microsoft Access와 같은 데이터베이스 관리 도구와 같은 ODBC 지원 프로그램이 필요합니다. , SQL Server Management Studio가 필요합니다. 이러한 프로그램은 DSN 파일의 정보를 사용하여 데이터베이스에 연결하고 원하는 작업을 수행할 수 있습니다.
 
 ## 참조
-* [DSN(데이터 원본 이름)이란 무엇입니까?](https://support.microsoft.com/en-us/topic/what-is-a-dsn-data-source-name-ae9a0c76-22fc-8a30- 606e-2436fe26e89f)
-* [ODBC 가져오기의 데이터 소스로 사용할 파일 DSN을 어떻게 생성합니까?](https://www.ibm.com/support/pages/how-do-i-create-file-dsn-use-data- 소스-odbc-가져오기)
+
+* [DSN(데이터 원본 이름)이란 무엇입니까?](https://support.microsoft.com/en-us/topic/what-is-a-dsn-data-source-name-ae9a0c76-22fc-8a30-606e-2436fe26e89f)
+
 

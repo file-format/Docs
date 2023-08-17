@@ -27,5 +27,5 @@ ADN zijn databasesjabloonbestanden die als binaire bestanden op schijf worden op
 
 ## Referenties
 
-* [Microsoft Access - Welke toegangsindeling moet ik gebruiken?](https://support.microsoft.com/en-us/office/who-access-file-format-should-i-use-012d9ab3-d14c-479e- b617-be66f9070b41)
+* [Microsoft Access - Welke toegangsindeling moet ik gebruiken?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

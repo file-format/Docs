@@ -39,7 +39,7 @@ El formato de archivo MCR de Minecraft admite la compresión. El formato de arch
 ## Referencias
 
 * [Editor mundial para Minecraft](https://www.mcedit.net/)
-* [Acerca de Minecraft](https://www.minecraft.net/en-us)
+* [Acerca de Minecraft](https://www.minecraft.net/)
 * [Formato de archivo de región](https://minecraft.fandom.com/wiki/Region_file_format)
 * [Formato NBT](https://minecraft.fandom.com/wiki/NBT_format)
 

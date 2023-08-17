@@ -54,6 +54,6 @@ Untuk konten referensi spasial; termasuk namun tidak terbatas pada petak dan fit
 
 ## Referensi
 
-* [GeoPackage - oleh Wikipedia)](https://en.wikipedia.org/wiki/GeoPackage)
+* [GeoPackage - oleh Wikipedia](https://en.wikipedia.org/wiki/GeoPackage)
 * [Memulai Dengan GeoPackage](http://www.geopackage.org/guidance/getting-started.html)
 

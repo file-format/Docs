@@ -129,6 +129,6 @@ De uploadsectie retourneert het daadwerkelijke HTML-antwoord van de server op ba
 
 ## Referenties
 
-* [HFS](https://www.rejeto.com/wiki/index.php/Refinements)
+* [HFS](https://www.rejetto.com/wiki/index.php/Refinements)
 * [TPL-voorbeeld - Github](https://github.com/heiswayi/hfs-templates/blob/master/HFSTemplate_myHFS.tpl)
 

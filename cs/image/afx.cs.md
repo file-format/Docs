@@ -27,5 +27,5 @@ Soubory AFX se ukládají jako binární soubory, které lze otevřít pomocí s
 
 ## Reference
 
-* [Auto FX](https://www.autofx.com/july-4-sale/pge-details.html)
+* N/A
 

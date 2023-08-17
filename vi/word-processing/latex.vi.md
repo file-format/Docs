@@ -84,4 +84,4 @@ or WH-phrase.
 
 ## Người giới thiệu ##
 
-* [TEX - Wikipedia](https://vi.wikipedia.org/wiki/TeX)
+* [TEX - Wikipedia](https://en.wikipedia.org/wiki/TeX)

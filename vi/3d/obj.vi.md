@@ -70,5 +70,5 @@ Tệp OBJ cho phép lưu trữ thông tin về màu sắc và kết cấu ở đ
 
 ## Người giới thiệu
 
-* [Tệp .obj của Wavefront](https://vi.wikipedia.org/wiki/Wavefront_.obj_file)
+* [Tệp .obj của Wavefront](https://en.wikipedia.org/wiki/Wavefront_.obj_file)
 

@@ -19,7 +19,7 @@
 
 ## What is a 3DL file?
 
-A 3DL file is an iGO Landmark file used by the iGO navigation software. It stores location information for points of interest (POIs) and landmarks. This information can include the name, location, and other details about the POI or landmark. The iGO Landmark file format is proprietary and is only used by the [iGO navigation software](https://www.nng.com/navigation/). 3DL files may be used in conjunction with map data files to provide navigation guidance to users.
+A 3DL file is an iGO Landmark file used by the iGO navigation software. It stores location information for points of interest (POIs) and landmarks. This information can include the name, location, and other details about the POI or landmark. The iGO Landmark file format is proprietary and is only used by the [iGO navigation software](https://en.wikipedia.org/wiki/IGO_(software)). 3DL files may be used in conjunction with map data files to provide navigation guidance to users.
 
 ## 3DL File Format
 

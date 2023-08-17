@@ -26,5 +26,5 @@ File ENL disimpan sebagai file biner tanpa ketersediaan detail apa pun tentang f
 
 ## Referensi
 
-* [Pentingnya Folder Data EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= en_US)
+* [Pentingnya Folder Data EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files)
 

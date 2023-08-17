@@ -20,7 +20,7 @@
 
 ## Ce este un fișier XBRL?
 
-Un fișier cu extensia .xbrl (eXtensible Business Reporting Language) este un cadru global disponibil gratuit pentru schimbul de informații despre afaceri. Acum este utilizat pe scară largă ca unul dintre formatele standard care a înlocuit rapoartele mai vechi pe hârtie cu înregistrări digitale mai utile și mai precise. Datele schimbate folosind fișierele XBRL includ registre, detalii financiare și bilanţuri. Suportă etichete de date care permit prelucrarea datelor de la pregătire până la etapa de analiză a informațiilor de afaceri de toate tipurile. Fișierele XBRL pot fi deschise folosind software precum Rivet Software Dragon View XBRL Viewer și API-uri precum [Aspose.Finance](https://products.aspose.com/finance).
+Un fișier cu extensia .xbrl (eXtensible Business Reporting Language) este un cadru global disponibil gratuit pentru schimbul de informații despre afaceri. Acum este utilizat pe scară largă ca unul dintre formatele standard care a înlocuit rapoartele mai vechi pe hârtie cu înregistrări digitale mai utile și mai precise. Datele schimbate folosind fișierele XBRL includ registre, detalii financiare și bilanţuri. Suportă etichete de date care permit prelucrarea datelor de la pregătire până la etapa de analiză a informațiilor de afaceri de toate tipurile. Fișierele XBRL pot fi deschise folosind software precum Rivet Software Dragon View XBRL Viewer și API-uri precum [Aspose.Finance](https://products.aspose.com/finance/).
 
 ## Format de fișier XBRL
 
@@ -28,11 +28,11 @@ XBRL este un standard internațional deschis pentru raportarea digitală a aface
 
 ### Structura documentului XBRL
 
-Informații complete despre [etichetele XBRL 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata- 2013-02-20.html) pot fi îndrumați de către programatori pentru a scrie aplicații pentru lucrul cu acest format de fișier. Un XBRL constă dintr-o instanță XBRL și o colecție de taxonomii.
+Informații complete despre [etichetele XBRL 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) pot fi îndrumați de către programatori pentru a scrie aplicații pentru lucrul cu acest format de fișier. Un XBRL constă dintr-o instanță XBRL și o colecție de taxonomii.
 
 **`XBRL Instance`** - Instanța XBRL începe cu<xbrl> element rădăcină. Un document XML mare poate conține mai mult de o instanță XBRL încorporată în el.
 
-**`Taxonomia XBRL`** - [Taxonomia XBRL](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31 +corrected-errata-2013-02-20.html#_5) este definit ca o schemă XML și un set de elemente de link-uri externe la care se face referire directă. O schemă de taxonomie scalabilă care arată referințele la baza de linkuri este următoarea.
+**`Taxonomia XBRL`** - [Taxonomia XBRL](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5) este definit ca o schemă XML și un set de elemente de link-uri externe la care se face referire directă. O schemă de taxonomie scalabilă care arată referințele la baza de linkuri este următoarea.
 
 ```
 <schema
@@ -57,5 +57,5 @@ Informații complete despre [etichetele XBRL 2.1](https://www.xbrl.org/Specifica
 ## Referințe ##
 
 * [XBRL - După Wikipedia](https://en.wikipedia.org/wiki/XBRL)
-* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected- errata-2013-02-20.html)
+* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html)
 

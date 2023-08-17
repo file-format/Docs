@@ -29,5 +29,5 @@ Nó đã được tạp chí Game Developer đưa vào Front Line Awards Hall of
 
 ## Người giới thiệu ##
 
-- [Video Bink - của Wikipedia](https://vi.wikipedia.org/wiki/Bink_Video)
+- [Video Bink - của Wikipedia](https://en.wikipedia.org/wiki/Bink_Video)
 

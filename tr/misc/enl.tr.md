@@ -26,5 +26,5 @@ ENL dosyaları, dahili dosya formatı hakkında herhangi bir ayrıntı bulunmada
 
 ## Referanslar
 
-* [EndNote Veri Klasörünün Önemi](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= tr_TR)
+* [EndNote Veri Klasörünün Önemi](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files)
 

@@ -43,6 +43,6 @@ Tệp MicroStation V8 DGN bao gồm một hoặc nhiều kiểu máy. Một mô 
 
 ## Người giới thiệu
 
-* [DNG - Theo Wikipedia](https://vi.wikipedia.org/wiki/DGN)
+* [DNG - Theo Wikipedia](https://en.wikipedia.org/wiki/DGN)
 * [Định dạng tệp DGN của MicroStation V8](https://web.archive.org/web/20120713013730/http://docs.bentley.com/ko/MicroStation/ustnhelp47.html)
 

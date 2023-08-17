@@ -36,5 +36,5 @@ Quá trình phát triển mã nguồn mở của Gnumeric được lưu trữ v�
 ## Người giới thiệu
 
 * [Dự án GNOME](https://en.wikipedia.org/wiki/The_GNOME_Project)
-* [Gnumeric - Theo Wikipedia](https://vi.wikipedia.org/wiki/Gnumeric)
+* [Gnumeric - Theo Wikipedia](https://en.wikipedia.org/wiki/Gnumeric)
 

@@ -55,5 +55,5 @@ typedef struct _PcxHeader
 
 ## Người giới thiệu
 
-* [PCX - Theo Wikipedia](https://vi.wikipedia.org/wiki/PCX)
+* [PCX - Theo Wikipedia](https://en.wikipedia.org/wiki/PCX)
 

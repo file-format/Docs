@@ -26,5 +26,5 @@ Soubory ENL jsou uloženy jako binární soubory bez dostupnosti jakýchkoli pod
 
 ## Reference
 
-* [Význam datové složky EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= en_US)
+* [Význam datové složky EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files)
 

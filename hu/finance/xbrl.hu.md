@@ -20,7 +20,7 @@
 
 ## Mi az XBRL fájl?
 
-Az .xbrl (eXtensible Business Reporting Language) kiterjesztésű fájl egy ingyenesen elérhető és globális keretrendszer az üzleti információk cseréjéhez. Manapság széles körben használják egyik szabványos formátumként, amely a régebbi papíralapú jelentéseket felváltotta hasznosabb és pontosabb digitális nyilvántartásokkal. Az XBRL-fájlok használatával kicserélt adatok főkönyveket, pénzügyi részleteket és mérlegeket tartalmaznak. Támogatja az adatcímkéket, amelyek lehetővé teszik mindenféle üzleti információ adatfeldolgozását az előkészítéstől az elemzési szakaszig. Az XBRL-fájlok olyan szoftverekkel nyithatók meg, mint a Rivet Software Dragon View XBRL Viewer, és olyan API-k segítségével, mint az [Aspose.Finance](https://products.aspose.com/finance).
+Az .xbrl (eXtensible Business Reporting Language) kiterjesztésű fájl egy ingyenesen elérhető és globális keretrendszer az üzleti információk cseréjéhez. Manapság széles körben használják egyik szabványos formátumként, amely a régebbi papíralapú jelentéseket felváltotta hasznosabb és pontosabb digitális nyilvántartásokkal. Az XBRL-fájlok használatával kicserélt adatok főkönyveket, pénzügyi részleteket és mérlegeket tartalmaznak. Támogatja az adatcímkéket, amelyek lehetővé teszik mindenféle üzleti információ adatfeldolgozását az előkészítéstől az elemzési szakaszig. Az XBRL-fájlok olyan szoftverekkel nyithatók meg, mint a Rivet Software Dragon View XBRL Viewer, és olyan API-k segítségével, mint az [Aspose.Finance](https://products.aspose.com/finance/).
 
 ## XBRL fájlformátum
 
@@ -28,11 +28,11 @@ Az XBRL a digitális üzleti jelentéskészítés nyílt nemzetközi szabványa,
 
 ### XBRL-dokumentumstruktúra
 
-Teljes információ az [XBRL 2.1 címkékről](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata- 2013-02-20.html) a programozók arra hivatkozhatnak, hogy írjanak alkalmazásokat ennek a fájlformátumnak a használatához. Az XBRL egy XBRL-példányból és taxonómiák gyűjteményéből áll.
+Teljes információ az [XBRL 2.1 címkékről](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) a programozók arra hivatkozhatnak, hogy írjanak alkalmazásokat ennek a fájlformátumnak a használatához. Az XBRL egy XBRL-példányból és taxonómiák gyűjteményéből áll.
 
 **`XBRL-példány`** – Az XBRL-példány a következővel kezdődik<xbrl> gyökérelem. Egy nagy XML-dokumentum egynél több XBRL-példányt is tartalmazhat beágyazva.
 
-**`XBRL taxonómia`** – Az [XBRL taxonómia](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31 A +corrected-errata-2013-02-20.html#_5) XML-sémaszerkezetként és közvetlenül hivatkozott külső hivatkozáselemek halmazaként van definiálva. A linkbázis hivatkozásokat bemutató méretezhető taxonómiai séma a következő.
+**`XBRL taxonómia`** – Az [XBRL taxonómia](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5) XML-sémaszerkezetként és közvetlenül hivatkozott külső hivatkozáselemek halmazaként van definiálva. A linkbázis hivatkozásokat bemutató méretezhető taxonómiai séma a következő.
 
 ```
 <schema
@@ -57,5 +57,5 @@ Teljes információ az [XBRL 2.1 címkékről](https://www.xbrl.org/Specificatio
 ## Referenciák ##
 
 * [XBRL – a Wikipedia által](https://en.wikipedia.org/wiki/XBRL)
-* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected- errata-2013-02-20.html)
+* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html)
 

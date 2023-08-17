@@ -47,5 +47,5 @@ Dưới đây là danh sách các nguyên tử cấp hai được sử dụng tr
 
 ## Người giới thiệu ##
 
-- [MP4 - Wikipedia](https://vi.wikipedia.org/wiki/MPEG-4_Part_14)
+- [MP4 - Wikipedia](https://en.wikipedia.org/wiki/MPEG-4_Part_14)
 

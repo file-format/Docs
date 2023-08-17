@@ -27,6 +27,6 @@ Các tệp có phần mở rộng .fb2 là các tệp Sách điện tử Fiction
 
 ## Người giới thiệu ##
 
-* [FB2 - Theo Wikipedia](https://vi.wikipedia.org/wiki/FictionBook)
+* [FB2 - Theo Wikipedia](https://en.wikipedia.org/wiki/FictionBook)
 * [Thông số kỹ thuật của sách hư cấu](http://gribuser.ru/xml/fictionbook/index.html.en)
 

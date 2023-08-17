@@ -79,7 +79,7 @@ EPS هو تنسيق مملوك ولكنه موثق بشكل عام ومواصف�
 
 يمكن تحويل ملفات EPS إلى تنسيقات صور قياسية مثل [JPG](/ar/image/jpeg/) و [PNG](/ar/image/png/) و [TIFF](/ar/image/tiff/) و [PDF](/ar/pdf/) باستخدام تطبيقات مختلفة مثل Adobe Illustrator و Photoshop و PaintShop Pro.
 
-بسبب [ثغرة أمنية](https://support.office.com/en-us/article/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e- a1b5-cbb0c334a840) في ملفات EPS ، قام Office 2016 و Office 2013 و Office 2010 و Office 365 بإيقاف تشغيل القدرة على إدراج ملفات EPS في مستندات Office.
+بسبب [ثغرة أمنية](https://support.microsoft.com/en-us/office/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e-a1b5-cbb0c334a840) في ملفات EPS ، قام Office 2016 و Office 2013 و Office 2010 و Office 365 بإيقاف تشغيل القدرة على إدراج ملفات EPS في مستندات Office.
 
 ## مراجع
 

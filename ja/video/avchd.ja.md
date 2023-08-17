@@ -47,7 +47,7 @@ Advanced Video Codec High Definition (AVCHD) ファイル形式は、Blu-ray Dis
 ## 参照 ##
 
 - [AVCHD - ウィキペディア](https://en.wikipedia.org/wiki/AVCHD)
-・【AVCHDフォーマットとは】(https://www.sony.com/electronics/support/articles/00016537)
+* [AVCHDフォーマットとは](https://www.sony.com/electronics/support/articles/00016537)
 
 
 

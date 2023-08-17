@@ -67,6 +67,6 @@ MCEdit이 설치되면 다음 단계에 따라 Anvil 지역 파일을 열 수 �
 ## 참조
 
 * [마인크래프트용 월드 에디터](https://www.mcedit.net/)
-* [Minecraft 소개](https://www.minecraft.net/en-us)
+* [Minecraft 소개](https://www.minecraft.net/)
 * [지역 파일 형식](https://minecraft.fandom.com/wiki/Region_file_format)
 

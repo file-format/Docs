@@ -35,5 +35,5 @@ Tệp ESS là một tệp bảng tính được tạo và hỗ trợ bởi phầ
 
 ## Người giới thiệu
 
-* [EasyOffice - Theo Wikipedia](https://vi.wikipedia.org/wiki/EasyOffice)
+* [EasyOffice - Theo Wikipedia](https://en.wikipedia.org/wiki/EasyOffice)
 

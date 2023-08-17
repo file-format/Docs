@@ -79,7 +79,7 @@ Egy EPS-fájl nem használhatja a következő operátorok egyikét sem:
 
 Az EPS-fájlok szabványos képformátumokká konvertálhatók, például [JPG](/hu/image/jpeg/), [PNG](/hu/image/png/), [TIFF](/hu/image/tiff/) és [PDF](/hu/pdf) /) különböző alkalmazásokkal, pl. Adobe Illustrator, Photoshop és PaintShop Pro.
 
-[Biztonsági rés](https://support.office.com/en-us/article/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e- a1b5-cbb0c334a840) az EPS-fájlokban, az Office 2016, Office 2013, Office 2010 és Office 365 kikapcsolta az EPS-fájlok Office-dokumentumokba való beszúrásának lehetőségét.
+[Biztonsági rés](https://support.microsoft.com/en-us/office/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e-a1b5-cbb0c334a840) az EPS-fájlokban, az Office 2016, Office 2013, Office 2010 és Office 365 kikapcsolta az EPS-fájlok Office-dokumentumokba való beszúrásának lehetőségét.
 
 ## Hivatkozások
 

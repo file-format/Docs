@@ -37,7 +37,7 @@ EXIF menggunakan format file berikut dengan penambahan metadata tertentu.
 
 1. [JPEG](/id/image/jpeg/) - transformasi kosinus diskrit (DCT) untuk file gambar terkompresi.
 1. [TIFF](/id/image/tiff/) Rev. 6.0 (RGB atau YCbCr) untuk file gambar yang tidak dikompresi.
-1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) untuk file audio (Linear [PCM](https:// /en.wikipedia.org/wiki/Pulse-code_modulation) atau ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM untuk data audio yang tidak terkompresi, dan [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) untuk data audio terkompresi).
+1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) untuk file audio (Linear [PCM](https://en.wikipedia.org/wiki/Pulse-code_modulation) atau ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM untuk data audio yang tidak terkompresi, dan [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) untuk data audio terkompresi).
 
 ### Penanda yang digunakan oleh EXIF ###
 

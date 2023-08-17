@@ -54,6 +54,6 @@ GeoPackage의 목차. 이 테이블의 필수 열은 다음과 같습니다.
 
 ## 참고문헌
 
-* [GeoPackage - 위키피디아 제공)](https://en.wikipedia.org/wiki/GeoPackage)
+* [GeoPackage - 위키피디아 제공](https://en.wikipedia.org/wiki/GeoPackage)
 * [GeoPackage 시작하기](http://www.geopackage.org/guidance/getting-started.html)
 

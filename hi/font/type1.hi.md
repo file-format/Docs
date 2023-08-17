@@ -45,7 +45,7 @@
 2. “.PFM” एक्सटेंशन वाली फ़ाइल में मेट्रिक्स डेटा होता है।
 
 ## संदर्भ
-* [टाइप 1 फोंट](https://www.pre pressure.com/fonts/basics/type1)
+* [टाइप 1 फोंट](https://www.prepressure.com/fonts/basics/type1)
 * [पोस्टस्क्रिप्ट टाइप 1 फोंट समर्थन का अंत](https://helpx.adobe.com/fonts/kb/postscript-type-1-fonts-end-of-support.html)
 * [पोस्टस्क्रिप्ट फोंट (विकिपीडिया)](https://en.wikipedia.org/wiki/PostScript_fonts)
 

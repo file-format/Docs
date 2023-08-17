@@ -27,5 +27,5 @@ Tệp ART là tệp hình ảnh bitmap nén được tạo và sử dụng bởi
 Định dạng tệp ART sử dụng nén để dễ dàng chuyển trên internet và chia sẻ giữa những người dùng AOL. Nó đã được sử dụng để trình bày hình ảnh trong dịch vụ trực tuyến bằng trình duyệt web của khách hàng. Kích thước giảm của các tệp ART tạo điều kiện tải xuống nhanh hơn ngay cả trên các kết nối internet chậm hơn trong những ngày đầu.
 
 ## Người giới thiệu
-* [Định dạng tệp hình ảnh ART - Theo Wikipedia](https://vi.wikipedia.org/wiki/ART_image_file_format)
+* [Định dạng tệp hình ảnh ART - Theo Wikipedia](https://en.wikipedia.org/wiki/ART_image_file_format)
 

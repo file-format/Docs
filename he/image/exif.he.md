@@ -37,7 +37,7 @@ EXIF משתמש בפורמטים הבאים של קבצים עם תוספת של
 
 1. [JPEG](/he/image/jpeg/) - טרנספורמציה קוסינוס דיסקרטית (DCT) עבור קבצי תמונה דחוסים.
 1. [TIFF](/he/image/tiff/) Rev. 6.0 (RGB או YCbCr) עבור קובצי תמונה לא דחוסים.
-1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) עבור קובצי אודיו (ליניארי [PCM](https:/ /en.wikipedia.org/wiki/Pulse-code_modulation) או ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM עבור נתוני אודיו לא דחוסים, ו-[ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) עבור נתוני אודיו דחוסים).
+1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) עבור קובצי אודיו (ליניארי [PCM](https://en.wikipedia.org/wiki/Pulse-code_modulation) או ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM עבור נתוני אודיו לא דחוסים, ו-[ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) עבור נתוני אודיו דחוסים).
 
 ### סמן בשימוש על ידי EXIF ###
 

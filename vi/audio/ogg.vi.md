@@ -52,5 +52,5 @@ OGM được tạo ra vào năm 2002 do thiếu hỗ trợ video chính thức t
 
 ## Người giới thiệu ##
 
-- [OGG - Wikipedia](https://vi.wikipedia.org/wiki/Ogg)
+- [OGG - Wikipedia](https://en.wikipedia.org/wiki/Ogg)
 

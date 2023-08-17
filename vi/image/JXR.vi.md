@@ -48,5 +48,5 @@ Vì nó dựa trên định dạng TIFF nên nó kế thừa tất cả các gi�
 
 ## Người giới thiệu ##
 
-- [JPEG XR - Wikipedia](https://vi.wikipedia.org/wiki/JPEG_XR)
+- [JPEG XR - Wikipedia](https://en.wikipedia.org/wiki/JPEG_XR)
 

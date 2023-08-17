@@ -68,6 +68,6 @@ Thông tin bổ sung cho các đối tượng được khai báo trong khối Kh
 
 ## Người giới thiệu ##
 
-* [Định dạng tệp U3D - Wikipedia](https://vi.wikipedia.org/wiki/Universal_3D)
+* [Định dạng tệp U3D - Wikipedia](https://en.wikipedia.org/wiki/Universal_3D)
 * [Thông số kỹ thuật định dạng tệp ECMA U3D](https://www.ecma-international.org/publications/standards/Ecma-363.htm)
 

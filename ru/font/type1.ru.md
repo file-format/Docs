@@ -45,7 +45,7 @@
 2. Файл с расширением «.PFM» содержит данные метрик.
 
 ## использованная литература
-* [Шрифты Type 1](https://www.prepression.com/fonts/basics/type1)
+* [Шрифты Type 1](https://www.prepressure.com/fonts/basics/type1)
 * [Прекращение поддержки шрифтов PostScript Type 1](https://helpx.adobe.com/fonts/kb/postscript-type-1-fonts-end-of-support.html)
 * [Шрифты PostScript (Википедия)](https://en.wikipedia.org/wiki/PostScript_fonts)
 

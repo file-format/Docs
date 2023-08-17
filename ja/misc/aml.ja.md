@@ -38,7 +38,7 @@ AML は、[XML](/web/xml/) ベースのオブジェクト指向データ モデ�
 
 ## 参考文献
 
-※【AutomationMLとは】(https://www.automationml.org/about-automationml/automationml/)
+* [AutomationMLとは](https://www.automationml.org/about-automationml/automationml/)
 * [AutomationML - ウィキペディア](https://en.wikipedia.org/wiki/AutomationML)
 * [AutomationML の仕様](https://www.automationml.org/about-automationml/specifications/)
 

@@ -48,7 +48,7 @@ Google は、VP8 の後継として、ロイヤルティ フリーのオープ�
 
 ## 参考文献
 
-* [VP9 Wikipedia](https://en.wikipedia.org/wiki/VP9#:~:text=VP9%20is%20an%20open%20and,on%20Google's%20video%20platform%20YouTube)
+* [VP9 Wikipedia](https://en.wikipedia.org/wiki/VP9)
 * [MDN ウェブ ドキュメント](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs#vp9)
-※【ココナッツ】(https://www.coconut.co/)
+* [ココナッツ](https://www.coconut.co/)
 

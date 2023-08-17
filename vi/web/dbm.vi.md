@@ -28,5 +28,5 @@ Các tệp DBM được tạo và lưu dưới dạng tệp văn bản thuần t
 ## Người giới thiệu
 
 * [Ngôn ngữ đánh dấu ColdFusion](https://people.apache.org/~jim/NewArchitect/webtech/2000/08/junk/index.html)
-* [Adobe ColdFusion](https://vi.wikipedia.org/wiki/Adobe_ColdFusion)
+* [Adobe ColdFusion](https://en.wikipedia.org/wiki/Adobe_ColdFusion)
 

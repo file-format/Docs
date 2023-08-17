@@ -64,6 +64,6 @@ Các giới hạn của VP8 về độ phân giải, tốc độ dữ liệu và
 
 ## Người giới thiệu
 
-* [Wikipedia VP8](https://vi.wikipedia.org/wiki/VP8#:~:text=VP8%20was%20first%20released%20by,%2C%20replacing%20its%20predecessor%2C%20VP7.&text= Vào%20May%2019%2C%20at%20its,an%20irrecable%20free%20patent%20giấy phép)
+* [Wikipedia VP8](https://en.wikipedia.org/wiki/VP8#:~:text=VP8%20was%20first%20released%20by,%2C%20replacing%20its%20predecessor%2C%20VP7.&text= Vào%20May%2019%2C%20at%20its,an%20irrecable%20free%20patent%20giấy phép)
 * [Liên kết Springer](https://link.springer.com/chapter/10.1007/978-81-322-1157-0_32)
 

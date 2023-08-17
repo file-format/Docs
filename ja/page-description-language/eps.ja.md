@@ -79,7 +79,7 @@ EPS ファイルでは、次の演算子は使用できません。
 
 EPS ファイルは、[JPG](/image/jpeg/)、[PNG](/image/png/)、[TIFF](/image/tiff/)、[PDF](/pdf) などの標準的な画像形式に変換できます。 /) Adobe Illustrator、Photoshop、PaintShop Pro などのさまざまなアプリケーションの使用。
 
-[セキュリティの脆弱性](https://support.office.com/en-us/article/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e- a1b5-cbb0c334a840) の EPS ファイル、Office 2016、Office 2013、Office 2010、および Office 365 では、EPS ファイルを Office ドキュメントに挿入する機能がオフになっています。
+[セキュリティの脆弱性](https://support.microsoft.com/en-us/office/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e-a1b5-cbb0c334a840) の EPS ファイル、Office 2016、Office 2013、Office 2010、および Office 365 では、EPS ファイルを Office ドキュメントに挿入する機能がオフになっています。
 
 ## 参考文献
 

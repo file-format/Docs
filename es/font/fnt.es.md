@@ -40,5 +40,5 @@ Para obtener información detallada sobre los encabezados para Windows 3.0 y 2.0
 
 ## Referencias
 * [Formato de archivo de fuente](https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
-* [Cómo instalar o eliminar una fuente en Windows](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8 -7613-c76f-88d043b334b8)
+* [Cómo instalar o eliminar una fuente en Windows](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8-7613-c76f-88d043b334b8)
 

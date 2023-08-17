@@ -77,5 +77,5 @@ Mã này viết văn bản "Xin chào thế giới" để xuất ra trình duy�
 
 ## Người giới thiệu
 
-* [HTML động - Wikipedia](https://vi.wikipedia.org/wiki/Dynamic_HTML)
+* [HTML động - Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
 

@@ -40,5 +40,5 @@ Windows 3.0 및 2.0용 헤더에 대한 자세한 내용은 [Microsoft 기술 �
 
 ## 참고문헌
 * [글꼴 파일 형식](https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
-* [Windows에서 글꼴을 설치하거나 제거하는 방법](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8 -7613-c76f-88d043b334b8)
+* [Windows에서 글꼴을 설치하거나 제거하는 방법](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8-7613-c76f-88d043b334b8)
 

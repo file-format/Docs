@@ -27,5 +27,5 @@ Thông số kỹ thuật định dạng tệp chính xác của tệp FWP không
 
 ## Người giới thiệu
 
-* [Microsoft Expression Web - Wikipedia](https://vi.wikipedia.org/wiki/Microsoft_Expression_Web)
+* [Microsoft Expression Web - Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Expression_Web)
 

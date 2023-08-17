@@ -27,5 +27,5 @@ AGIF je soubor projektu, který je uložen ve formátu rastrového obrázku. Fin
 
 ## Reference
 
-* [Auto FX](https://www.autofx.com/july-4-sale/pge-details.html)
+* N/A
 

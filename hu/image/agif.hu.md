@@ -27,5 +27,5 @@ Az AGIF egy projektfájl, amely raszteres képfájl formátumban van mentve. A v
 
 ## Hivatkozások
 
-* [Auto FX](https://www.autofx.com/july-4-sale/pge-details.html)
+* N/A
 

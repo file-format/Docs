@@ -20,7 +20,7 @@
 
 ## O que é um arquivo XBRL?
 
-Um arquivo com extensão .xbrl (eXtensible Business Reporting Language) é uma estrutura global disponível gratuitamente para troca de informações comerciais. Atualmente, é amplamente utilizado como um dos formatos padrão que substituiu os antigos relatórios em papel por registros digitais mais úteis e precisos. Os dados trocados usando os arquivos XBRL incluem livros-razão, detalhes financeiros e balanços. Ele suporta tags de dados que permitem o processamento de dados desde a preparação até a fase de análise de informações comerciais de todos os tipos. Arquivos XBRL podem ser abertos usando software como Rivet Software Dragon View XBRL Viewer e APIs como [Aspose.Finance](https://products.aspose.com/finance).
+Um arquivo com extensão .xbrl (eXtensible Business Reporting Language) é uma estrutura global disponível gratuitamente para troca de informações comerciais. Atualmente, é amplamente utilizado como um dos formatos padrão que substituiu os antigos relatórios em papel por registros digitais mais úteis e precisos. Os dados trocados usando os arquivos XBRL incluem livros-razão, detalhes financeiros e balanços. Ele suporta tags de dados que permitem o processamento de dados desde a preparação até a fase de análise de informações comerciais de todos os tipos. Arquivos XBRL podem ser abertos usando software como Rivet Software Dragon View XBRL Viewer e APIs como [Aspose.Finance](https://products.aspose.com/finance/).
 
 ## Formato de arquivo XBRL
 
@@ -28,11 +28,11 @@ XBRL é um padrão internacional aberto para relatórios de negócios digitais a
 
 ### Estrutura do Documento XBRL
 
-Informações completas sobre as [tags XBRL 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata- 2013-02-20.html) pode ser consultado por programadores para escrever aplicativos para trabalhar neste formato de arquivo. Um XBRL consiste em uma instância XBRL e uma coleção de taxonomias.
+Informações completas sobre as [tags XBRL 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) pode ser consultado por programadores para escrever aplicativos para trabalhar neste formato de arquivo. Um XBRL consiste em uma instância XBRL e uma coleção de taxonomias.
 
 **`XBRL Instance`** - A instância XBRL começa com o<xbrl> elemento raiz. Um documento XML grande pode conter mais de uma instância XBRL incorporada nele.
 
-**`Taxonomia XBRL`** - A [Taxonomia XBRL](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31 +corrected-errata-2013-02-20.html#_5) é definido como estruturas de esquema XML e conjunto de elementos de links externos diretamente referenciados. Um esquema de taxonomia escalável mostrando as referências do linkbase é o seguinte.
+**`Taxonomia XBRL`** - A [Taxonomia XBRL](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5) é definido como estruturas de esquema XML e conjunto de elementos de links externos diretamente referenciados. Um esquema de taxonomia escalável mostrando as referências do linkbase é o seguinte.
 
 ```
 <schema
@@ -57,5 +57,5 @@ Informações completas sobre as [tags XBRL 2.1](https://www.xbrl.org/Specificat
 ## Referências ##
 
 * [XBRL - Por Wikipedia](https://en.wikipedia.org/wiki/XBRL)
-* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected- errata-2013-02-20.html)
+* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html)
 

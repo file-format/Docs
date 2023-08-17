@@ -40,5 +40,5 @@ Ga voor gedetailleerde informatie over de headers voor Windows 3.0 en 2.0 naar h
 
 ## Referenties
 * [Lettertype Bestandsformaat](https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
-* [Een lettertype installeren of verwijderen in Windows](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8 -7613-c76f-88d043b334b8)
+* [Een lettertype installeren of verwijderen in Windows](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8-7613-c76f-88d043b334b8)
 

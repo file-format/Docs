@@ -50,5 +50,5 @@ Access 보고서의 디자인은 디자인 보기에서 볼 수 있는 여러 �
 ## 참조 ##
 
 - [Access 보고서 소개](https://support.microsoft.com/en-us/office/introduction-to-reports-in-access-e0869f59-7536-4d19-8e05-7158dcd3681c)
-- [Access에서 보고서 디자인하기](https://www.uis.edu/informationtechnologyservices/wp-content/uploads/sites/106/2013/04/DesigningReportsinAccess2010.pdf)
+- [Access에서 보고서 디자인하기](https://github.com/prijuly2000/DBMS/blob/master/DesigningReportsinAccess2010.pdf)
 

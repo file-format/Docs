@@ -27,5 +27,5 @@ NWC là định dạng tệp độc quyền của Autodesk và đó là lý do t
 
 ## Người giới thiệu ##
 
-* [Navisworks theo wikipedia](https://vi.wikipedia.org/wiki/Navisworks)
+* [Navisworks theo wikipedia](https://en.wikipedia.org/wiki/Navisworks)
 

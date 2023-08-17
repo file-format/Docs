@@ -37,7 +37,7 @@ EXIF използва следните файлови формати с доба
 
 1. [JPEG](/bg/image/jpeg/) - дискретно косинусово преобразуване (DCT) за компресирани файлове с изображения.
 1. [TIFF](/bg/image/tiff/) Rev. 6.0 (RGB или YCbCr) за некомпресирани файлове с изображения.
-1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) за аудио файлове (Линеен [PCM](https:/ /en.wikipedia.org/wiki/Pulse-code_modulation) или ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM за некомпресирани аудио данни и [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) за компресирани аудио данни).
+1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) за аудио файлове (Линеен [PCM](https://en.wikipedia.org/wiki/Pulse-code_modulation) или ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM за некомпресирани аудио данни и [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) за компресирани аудио данни).
 
 ### Маркер, използван от EXIF ###
 

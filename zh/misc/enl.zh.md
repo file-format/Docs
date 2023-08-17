@@ -26,5 +26,5 @@ ENL 文件存储为二进制文件，没有关于内部文件格式的任何详�
 
 ## 参考
 
-* [EndNote 数据文件夹的重要性](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= zh_CN)
+* [EndNote 数据文件夹的重要性](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files)
 

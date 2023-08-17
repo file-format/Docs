@@ -48,7 +48,7 @@ Biasanya, video 4K meningkatkan kualitas gambar dengan membuat piksel tertentu l
 
 ## Referensi
 
-* [Wikipedia VP9](https://en.wikipedia.org/wiki/VP9#:~:text=VP9%20is%20an%20open%20and,on%20Google%20video%20platform%20YouTube)
+* [Wikipedia VP9](https://en.wikipedia.org/wiki/VP9)
 * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs#vp9)
 * [Kelapa](https://www.coconut.co/)
 

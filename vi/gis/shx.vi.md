@@ -32,6 +32,6 @@ Chỉ mục này cho phép tìm kiếm ngược trong shapefile bằng cách, tr
 
 ## Người giới thiệu
 
-* [Shapefile - theo Wikipedia)](https://vi.wikipedia.org/wiki/Shapefile)
+* [Shapefile - theo Wikipedia)](https://en.wikipedia.org/wiki/Shapefile)
 
 

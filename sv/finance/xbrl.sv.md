@@ -20,7 +20,7 @@
 
 ## Vad är en XBRL fil?
 
-En fil med tillägget .xbrl (eXtensible Business Reporting Language) är ett fritt tillgängligt och globalt ramverk för utbyte av affärsinformation. Det används nu i stor utsträckning som ett av standardformaten som har ersatt de äldre pappersbaserade rapporterna med mer användbara och korrekta digitala register. Data som utbyts med XBRL-filer inkluderar reskontra, finansiella detaljer och balansräkningar. Den stöder datataggar som tillåter databearbetning från förberedelse till analysstadiet av affärsinformation av alla slag. XBRL-filer kan öppnas med programvara som Rivet Software Dragon View XBRL Viewer och API:er som [Aspose.Finance](https://products.aspose.com/finance).
+En fil med tillägget .xbrl (eXtensible Business Reporting Language) är ett fritt tillgängligt och globalt ramverk för utbyte av affärsinformation. Det används nu i stor utsträckning som ett av standardformaten som har ersatt de äldre pappersbaserade rapporterna med mer användbara och korrekta digitala register. Data som utbyts med XBRL-filer inkluderar reskontra, finansiella detaljer och balansräkningar. Den stöder datataggar som tillåter databearbetning från förberedelse till analysstadiet av affärsinformation av alla slag. XBRL-filer kan öppnas med programvara som Rivet Software Dragon View XBRL Viewer och API:er som [Aspose.Finance](https://products.aspose.com/finance/).
 
 ## XBRL filformat
 
@@ -28,11 +28,11 @@ XBRL är en öppen internationell standard för digital affärsrapportering som 
 
 ### XBRL-dokumentstruktur
 
-Komplett information om [XBRL 2.1-taggarna](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata- 2013-02-20.html) kan hänvisas av programmerare för att skriva applikationer för att arbeta med detta filformat. En XBRL består av en XBRL-instans och en samling taxonomier.
+Komplett information om [XBRL 2.1-taggarna](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) kan hänvisas av programmerare för att skriva applikationer för att arbeta med detta filformat. En XBRL består av en XBRL-instans och en samling taxonomier.
 
 **`XBRL Instance`** - XBRL-instansen börjar med<xbrl> rotelement. Ett stort XML-dokument kan innehålla mer än en XBRL-instans inbäddad i det.
 
-**`XBRL Taxonomy`** - [XBRL Taxonomy](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31 +corrected-errata-2013-02-20.html#_5) definieras som ett XML-schemastrukturer och en uppsättning av direkt refererade externa länkelement. Ett skalbart taxonomischema som visar länkbasreferenserna är som följer.
+**`XBRL Taxonomy`** - [XBRL Taxonomy](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5) definieras som ett XML-schemastrukturer och en uppsättning av direkt refererade externa länkelement. Ett skalbart taxonomischema som visar länkbasreferenserna är som följer.
 
 ```
 <schema
@@ -57,5 +57,5 @@ Komplett information om [XBRL 2.1-taggarna](https://www.xbrl.org/Specification/X
 ## Referenser ##
 
 * [XBRL - av Wikipedia](https://en.wikipedia.org/wiki/XBRL)
-* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected- errata-2013-02-20.html)
+* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html)
 

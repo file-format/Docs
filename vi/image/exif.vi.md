@@ -37,7 +37,7 @@ EXIF sử dụng các định dạng tệp sau với việc bổ sung siêu dữ
 
 1. [JPEG](/vi/image/jpeg/) - biến đổi cosin rời rạc (DCT) cho các tệp hình ảnh nén.
 1. [TIFF](/vi/image/tiff/) Phiên bản 6.0 (RGB hoặc YCbCr) dành cho tệp hình ảnh không nén.
-1. [RIFF](https://vi.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) cho các tệp âm thanh (Tuyến tính [PCM](https:/ /en.wikipedia.org/wiki/Pulse-code_modulation) hoặc ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Luật PCM dành cho dữ liệu âm thanh không nén và [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) dành cho dữ liệu âm thanh nén).
+1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) cho các tệp âm thanh (Tuyến tính [PCM](https://en.wikipedia.org/wiki/Pulse-code_modulation) hoặc ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Luật PCM dành cho dữ liệu âm thanh không nén và [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) dành cho dữ liệu âm thanh nén).
 
 ### Điểm đánh dấu được sử dụng bởi EXIF ###
 
@@ -115,6 +115,6 @@ Nếu giá trị của Thẻ Nén(0x0103) trong IFD1 là '1', thì định dạn
 
 ## Người giới thiệu ##
 
-* [EXIF - Theo Wikipedia](https://vi.wikipedia.org/wiki/Exif)
+* [EXIF - Theo Wikipedia](https://en.wikipedia.org/wiki/Exif)
 * [Định dạng tệp EXIF](https://www.media.mit.edu/pia/Research/deepview/exif.html)
 

@@ -27,5 +27,5 @@ ADN är databasmallfiler som lagras på skiva som binära filer. De interna filf
 
 ## Referenser
 
-* [Microsoft Access - Vilket åtkomstformat ska jag använda?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e- b617-be66f9070b41)
+* [Microsoft Access - Vilket åtkomstformat ska jag använda?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

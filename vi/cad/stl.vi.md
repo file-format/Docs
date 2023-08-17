@@ -91,5 +91,5 @@ end
 ## Người giới thiệu ##
 
 * [Định dạng STL](http://www.fabbers.com/tech/STL_Format)
-* [STL - theo Wikipedia](https://vi.wikipedia.org/wiki/STL_(file_format))
+* [STL - theo Wikipedia](https://en.wikipedia.org/wiki/STL_(file_format))
 

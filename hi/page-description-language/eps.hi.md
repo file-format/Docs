@@ -79,7 +79,7 @@ PICT और Windows मेटाफ़ाइल बिटमैप डेटा 
 
 EPS फ़ाइलों को [JPG](/hi/image/jpeg/), [PNG](/hi/image/png/), [TIFF](/hi/image/tiff/) और [PDF](/hi/pdf) जैसे मानक छवि प्रारूपों में बदला जा सकता है /) विभिन्न अनुप्रयोगों जैसे एडोब इलस्ट्रेटर, फोटोशॉप और पेंटशॉप प्रो का उपयोग करना।
 
-एक [सुरक्षा भेद्यता] के कारण a1b5-cbb0c334a840) EPS फ़ाइलों में, Office 2016, Office 2013, Office 2010 और Office 365 ने EPS फ़ाइलों को Office दस्तावेज़ों में सम्मिलित करने की क्षमता को बंद कर दिया है।
+EPS फ़ाइलों में [सुरक्षा भेद्यता](https://support.microsoft.com/en-us/office/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e-a1b5-cbb0c334a840) के कारण, Office 2016, Office 2013, Office 2010 और Office 365 ने Office दस्तावेज़ों में EPS फ़ाइलें सम्मिलित करने की क्षमता बंद कर दी है।
 
 ## संदर्भ
 

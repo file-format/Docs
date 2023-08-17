@@ -37,7 +37,7 @@
 
 1. [JPEG](/ar/image/jpeg/) - تحويل جيب التمام المنفصل (DCT) لملفات الصور المضغوطة.
 1. [TIFF](/ar/image/tiff/) Rev. 6.0 (RGB أو YCbCr) لملفات الصور غير المضغوطة.
-1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) للملفات الصوتية (Linear [PCM](https: / /en.wikipedia.org/wiki/Pulse-code_modulation) أو ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM لبيانات الصوت غير المضغوطة ، و [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association) - [ADPCM](https://en.wikipedia.org/wiki/ADPCM) لبيانات الصوت المضغوطة).
+1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) للملفات الصوتية (Linear [PCM](https://en.wikipedia.org/wiki/Pulse-code_modulation) أو ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM لبيانات الصوت غير المضغوطة ، و [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association) - [ADPCM](https://en.wikipedia.org/wiki/ADPCM) لبيانات الصوت المضغوطة).
 
 ### العلامة المستخدمة من قبل EXIF ###
 

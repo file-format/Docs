@@ -121,6 +121,6 @@
 ""
 
 ## مراجع ##
-* [OASIS Open Document Format for Office Applications](https://www.oasis-open.org/committee/tc_home.php؟wg_abbrev=office)
+* [OASIS Open Document Format for Office Applications](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
 * [تنسيق OpenDocument - ويكيبيديا](https://en.wikipedia.org/wiki/OpenDocument)
 

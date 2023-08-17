@@ -50,5 +50,5 @@ O design de um relatório do Access é dividido em diferentes seções que podem
 ## Referências ##
 
 - [Introdução aos relatórios no Access](https://support.microsoft.com/en-us/office/introduction-to-reports-in-access-e0869f59-7536-4d19-8e05-7158dcd3681c)
-- [Projetando relatórios no Access](https://www.uis.edu/informationtechnologyservices/wp-content/uploads/sites/106/2013/04/DesigningReportsinAccess2010.pdf)
+- [Projetando relatórios no Access](https://github.com/prijuly2000/DBMS/blob/master/DesigningReportsinAccess2010.pdf)
 

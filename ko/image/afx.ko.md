@@ -27,5 +27,5 @@ AFX 파일은 Auto FX PhotoGraphic Edges 소프트웨어를 사용하여 열 수
 
 ## 참조
 
-* [자동 FX](https://www.autofx.com/july-4-sale/pge-details.html)
+* N/A
 

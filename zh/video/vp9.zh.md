@@ -48,7 +48,7 @@ Google 开发了 VP9 编解码器，作为 VP8 的继任者，作为免版税、
 
 ## 参考
 
-* [VP9 维基百科](https://en.wikipedia.org/wiki/VP9#:~:text=VP9%20is%20an%20open%20and,on%20Google's%20video%20platform%20YouTube)
+* [VP9 维基百科](https://en.wikipedia.org/wiki/VP9)
 * [MDN 网络文档](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs#vp9)
 * [椰子](https://www.coconut.co/)
 

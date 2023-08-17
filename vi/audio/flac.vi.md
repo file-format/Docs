@@ -88,5 +88,5 @@ MP3 là một định dạng nén mất dữ liệu có nghĩa là nó có thể
 
 ## Người giới thiệu ##
 
-- [FLAC - Wikipedia](https://vi.wikipedia.org/wiki/FLAC)
+- [FLAC - Wikipedia](https://en.wikipedia.org/wiki/FLAC)
 

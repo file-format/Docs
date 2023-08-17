@@ -63,5 +63,5 @@ Một loại số nguyên được mã hóa được hỗ trợ bởi SWF 9 tr�
 
 ## Người giới thiệu
 
-* [Định dạng tệp SWF](https://vi.wikipedia.org/wiki/Swf)
+* [Định dạng tệp SWF](https://en.wikipedia.org/wiki/Swf)
 

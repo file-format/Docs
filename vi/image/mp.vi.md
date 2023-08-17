@@ -45,6 +45,6 @@ bye
 ```
 ## Người giới thiệu ##
 
-* [MetaPost của Wikipedia](https://vi.wikipedia.org/wiki/MetaPost)
+* [MetaPost của Wikipedia](https://en.wikipedia.org/wiki/MetaPost)
 * [Metapost mẫu latex của Wiki giáo dục Berkeley](https://math.berkeley.edu/computing/wiki/index.php/Latex_sample_metapost)
 

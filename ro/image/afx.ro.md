@@ -27,5 +27,5 @@ Fișierele AFX sunt salvate ca fișiere binare care pot fi deschise utilizând s
 
 ## Referințe
 
-* [Auto FX](https://www.autofx.com/july-4-sale/pge-details.html)
+* N/A
 

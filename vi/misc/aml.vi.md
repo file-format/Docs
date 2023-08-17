@@ -24,7 +24,7 @@ Tệp AML (Ngôn ngữ đánh dấu tự động hóa) là tệp dữ liệu đ�
 
 ## Định dạng tệp AML
 
-AML sử dụng mô hình hóa dữ liệu hướng đối tượng dựa trên [XML](/vi/web/xml/) để lưu trữ và trao đổi các mô hình kỹ thuật. Các thành phần của nhà máy kỹ thuật được biểu diễn dưới dạng các đối tượng có các khía cạnh khác nhau, với mỗi đối tượng có khả năng hoạt động như các đối tượng con. Do đó, mỗi mô hình nhỏ hơn hoặc lớn hơn có thể được mô tả. [Thông số kỹ thuật máy học tự động hóa](https://www.automationml.org/about-automationml/specutions/) cung cấp một hướng dẫn ngắn để bắt đầu với các chi tiết của ngôn ngữ lập mô hình này.
+AML sử dụng mô hình hóa dữ liệu hướng đối tượng dựa trên [XML](/vi/web/xml/) để lưu trữ và trao đổi các mô hình kỹ thuật. Các thành phần của nhà máy kỹ thuật được biểu diễn dưới dạng các đối tượng có các khía cạnh khác nhau, với mỗi đối tượng có khả năng hoạt động như các đối tượng con. Do đó, mỗi mô hình nhỏ hơn hoặc lớn hơn có thể được mô tả. [Thông số kỹ thuật máy học tự động hóa](https://www.automationml.org/about-automationml/specifications/) cung cấp một hướng dẫn ngắn để bắt đầu với các chi tiết của ngôn ngữ lập mô hình này.
 
 ## Bắt đầu với AML
 
@@ -39,6 +39,6 @@ Sử dụng AML để trao đổi thông tin kỹ thuật đòi hỏi một số
 ## Người giới thiệu
 
 * [AutomationML là gì](https://www.automationml.org/about-automationml/automationml/)
-* [AutomationML - Wikipedia](https://vi.wikipedia.org/wiki/AutomationML)
-* [Thông số kỹ thuật của AutomatationML](https://www.automationml.org/about-automationml/specutions/)
+* [AutomationML - Wikipedia](https://en.wikipedia.org/wiki/AutomationML)
+* [Thông số kỹ thuật của AutomatationML](https://www.automationml.org/about-automationml/specifications/)
 

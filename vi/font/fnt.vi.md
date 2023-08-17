@@ -40,5 +40,5 @@ Phần đầu của cả tệp phông chữ raster và vectơ là phổ biến, 
 
 ## Người giới thiệu
 * [Định dạng tệp phông chữ](https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
-* [Cách cài đặt hoặc xóa phông chữ trong Windows](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8 -7613-c76f-88d043b334b8)
+* [Cách cài đặt hoặc xóa phông chữ trong Windows](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8-7613-c76f-88d043b334b8)
 

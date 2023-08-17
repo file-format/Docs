@@ -54,6 +54,6 @@ Pentru conținut de referință spațială; inclusiv, dar fără a se limita la 
 
 ## Referințe
 
-* [GeoPackage - de la Wikipedia)](https://en.wikipedia.org/wiki/GeoPackage)
+* [GeoPackage - de la Wikipedia](https://en.wikipedia.org/wiki/GeoPackage)
 * [Noțiuni introductive despre GeoPackage](http://www.geopackage.org/guidance/getting-started.html)
 

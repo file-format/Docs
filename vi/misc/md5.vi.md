@@ -36,5 +36,5 @@ md5sum -c abc_987_123456.grb.md5
 
 ## Người giới thiệu
 
-* [md5sum - Wikipedia](https://vi.wikipedia.org/wiki/Md5sum)
+* [md5sum - Wikipedia](https://en.wikipedia.org/wiki/Md5sum)
 

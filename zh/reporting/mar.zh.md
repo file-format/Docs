@@ -50,5 +50,5 @@ Access 报告的设计分为不同的部分，可以在设计视图中查看。�
 ## 参考 ＃＃
 
 - [Access 中的报告简介](https://support.microsoft.com/en-us/office/introduction-to-reports-in-access-e0869f59-7536-4d19-8e05-7158dcd3681c)
-- [在 Access 中设计报告](https://www.uis.edu/informationtechnologyservices/wp-content/uploads/sites/106/2013/04/DesigningReportsinAccess2010.pdf)
+- [在 Access 中设计报告](https://github.com/prijuly2000/DBMS/blob/master/DesigningReportsinAccess2010.pdf)
 

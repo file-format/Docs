@@ -79,5 +79,5 @@ Trong trường hợp này, tệp WebP bao gồm:
 ## Người giới thiệu ##
 
 * [Tham khảo dành cho nhà phát triển WebP - Bởi Google](https://developers.google.com/speed/webp/)
-* [Định dạng tệp WebP - Theo Wikipedia](https://vi.wikipedia.org/wiki/WebP)
+* [Định dạng tệp WebP - Theo Wikipedia](https://en.wikipedia.org/wiki/WebP)
 

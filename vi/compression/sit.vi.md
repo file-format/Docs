@@ -27,6 +27,6 @@ Các tệp SIT được lưu ở định dạng tệp nhị phân và chi tiết
 
 ## Người giới thiệu
 
-* [StuffIt - Theo Wikipedia](https://vi.wikipedia.org/wiki/StuffIt)
+* [StuffIt - Theo Wikipedia](https://en.wikipedia.org/wiki/StuffIt)
 * [StuffIt](https://stuffit.com/)
 

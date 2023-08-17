@@ -50,5 +50,5 @@ Microsoft Access सॉफ़्टवेयर द्वारा Microsoft Acc
 ## संदर्भ ##
 
 - [एक्सेस में रिपोर्ट का परिचय](https://support.microsoft.com/en-us/office/introduction-to-reports-in-access-e0869f59-7536-4d19-8e05-7158dcd3681c)
-- [एक्सेस में रिपोर्ट डिजाइन करना](https://www.uis.edu/informationtechnologyservices/wp-content/uploads/sites/106/2013/04/DesigningReportsinAccess2010.pdf)
+- [एक्सेस में रिपोर्ट डिजाइन करना](https://github.com/prijuly2000/DBMS/blob/master/DesigningReportsinAccess2010.pdf)
 

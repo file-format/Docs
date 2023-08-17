@@ -19,7 +19,7 @@
 
 ## Was ist eine OTG-Datei?
 
-Eine OTG-Datei ist eine Zeichnungsvorlage, die mit dem OpenDocument-Standard erstellt wird, der der OASIS Office Applications [1.0-Spezifikation] folgt (https://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0-os.pdf). Es stellt die Standardorganisation von Zeichnungselementen für ein Vektorbild dar, das verwendet werden kann, um den Inhalt der Datei weiter zu verbessern. OTF-Dateien sind wie alle anderen auf dem OpenDocument-Format basierenden Dateien, die auf dem XML-Format basieren, um den Inhalt des Dokuments darzustellen. OTF-Dateien können angezeigt werden, indem Sie sie in einem beliebigen Text- oder Standard-XML-Editor öffnen.
+Eine OTG-Datei ist eine Zeichnungsvorlage, die mit dem OpenDocument-Standard erstellt wird, der der OASIS Office Applications [1.0-Spezifikation](https://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0-os.pdf) folgt. Es stellt die Standardorganisation von Zeichnungselementen für ein Vektorbild dar, das verwendet werden kann, um den Inhalt der Datei weiter zu verbessern. OTF-Dateien sind wie alle anderen auf dem OpenDocument-Format basierenden Dateien, die auf dem XML-Format basieren, um den Inhalt des Dokuments darzustellen. OTF-Dateien können angezeigt werden, indem Sie sie in einem beliebigen Text- oder Standard-XML-Editor öffnen.
 
 ## OTG-Dateiformatspezifikationen ##
 

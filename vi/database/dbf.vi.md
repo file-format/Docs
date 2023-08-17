@@ -91,5 +91,5 @@ Mỗi bản ghi bắt đầu bằng cờ xóa (1 byte). Các trường được 
 
 ## Người giới thiệu ##
 
-* [.dbf - Wikipedia](https://vi.wikipedia.org/wiki/.dbf)
+* [.dbf - Wikipedia](https://en.wikipedia.org/wiki/.dbf)
 

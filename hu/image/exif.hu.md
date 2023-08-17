@@ -37,7 +37,7 @@ Az EXIF a következő fájlformátumokat használja speciális metaadatok hozzá
 
 1. [JPEG](/hu/image/jpeg/) - diszkrét koszinusz transzformáció (DCT) tömörített képfájlokhoz.
 1. [TIFF](/hu/image/tiff/) Rev. 6.0 (RGB vagy YCbCr) tömörítetlen képfájlokhoz.
-1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) audiofájlokhoz (lineáris [PCM](https:/) /en.wikipedia.org/wiki/Pulse-code_modulation) vagy ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM a tömörítetlen hangadatokhoz, és [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) a tömörített hangadatokhoz).
+1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) audiofájlokhoz (lineáris [PCM](https://en.wikipedia.org/wiki/Pulse-code_modulation) vagy ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM a tömörítetlen hangadatokhoz, és [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) a tömörített hangadatokhoz).
 
 ### Az EXIF által használt jelölő ###
 

@@ -79,9 +79,9 @@ Tệp EPS không thể sử dụng bất kỳ toán tử nào sau đây:
 
 Các tệp EPS có thể được chuyển đổi sang các định dạng hình ảnh tiêu chuẩn như [JPG](/vi/image/jpeg/), [PNG](/vi/image/png/), [TIFF](/vi/image/tiff/) và [PDF](/vi/pdf /) sử dụng các ứng dụng khác nhau, chẳng hạn như Adobe Illustrator, Photoshop và PaintShop Pro.
 
-Do [lỗ hổng bảo mật](https://support.office.com/en-us/article/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e- a1b5-cbb0c334a840) trong tệp EPS, Office 2016, Office 2013, Office 2010 và Office 365 đã tắt khả năng chèn tệp EPS vào tài liệu Office.
+Do [lỗ hổng bảo mật](https://support.microsoft.com/en-us/office/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e-a1b5-cbb0c334a840) trong tệp EPS, Office 2016, Office 2013, Office 2010 và Office 365 đã tắt khả năng chèn tệp EPS vào tài liệu Office.
 
 ## Người giới thiệu
 
-* [PostScript được đóng gói - Theo Wikipedia](https://vi.wikipedia.org/wiki/Encapsulated_PostScript)
+* [PostScript được đóng gói - Theo Wikipedia](https://en.wikipedia.org/wiki/Encapsulated_PostScript)
 

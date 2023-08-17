@@ -37,7 +37,7 @@ EXIF 使用以下文件格式并添加了特定的元数据。
 
 1. [JPEG](/zh/image/jpeg/) - 用于压缩图像文件的离散余弦变换 (DCT)。
 1. [TIFF](/zh/image/tiff/) Rev. 6.0（RGB 或 YCbCr）用于未压缩的图像文件。
-1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) 用于音频文件（线性 [PCM](https:// /en.wikipedia.org/wiki/Pulse-code_modulation) 或 ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) 用于未压缩音频数据的 μ-Law PCM，以及 [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) 用于压缩音频数据）。
+1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) 用于音频文件（线性 [PCM](https://en.wikipedia.org/wiki/Pulse-code_modulation) 或 ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) 用于未压缩音频数据的 μ-Law PCM，以及 [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) 用于压缩音频数据）。
 
 ### EXIF 使用的标记###
 

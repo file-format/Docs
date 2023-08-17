@@ -58,5 +58,5 @@ by a blank line.</p>
 
 ## Tài liệu tham khảo ##
 
-* [reStructuredText - theo Wikipedia](https://vi.wikipedia.org/wiki/ReStructuredText)
+* [reStructuredText - theo Wikipedia](https://en.wikipedia.org/wiki/ReStructuredText)
 

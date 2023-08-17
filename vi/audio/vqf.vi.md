@@ -28,5 +28,5 @@ Yamaha đã tiếp thị codec âm thanh nén này như một giải pháp thay 
 
 ## Người giới thiệu
 
-* [TwinVQ - theo Wikipedia](https://vi.wikipedia.org/wiki/TwinVQ)
+* [TwinVQ - theo Wikipedia](https://en.wikipedia.org/wiki/TwinVQ)
 

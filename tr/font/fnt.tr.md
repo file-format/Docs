@@ -40,5 +40,5 @@ Windows 3.0 ve 2.0 başlıkları hakkında ayrıntılı bilgi için [Microsoft K
 
 ## Referanslar
 * [Yazı Tipi Dosya Biçimi](https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
-* [Windows'ta bir yazı tipi nasıl yüklenir veya kaldırılır](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8 -7613-c76f-88d043b334b8)
+* [Windows'ta bir yazı tipi nasıl yüklenir veya kaldırılır](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8-7613-c76f-88d043b334b8)
 

@@ -208,5 +208,5 @@ Chuỗi này không bị kết thúc bằng 0 và có thể chứa các ký tự
 
 * [FBX - SDK Autodesk](https://help.autodesk.com/view/FBX/2017/ENU/)
 * [Thông số kỹ thuật định dạng tệp nhị phân FBX](https://code.blender.org/2013/08/fbx-binary-file-format-specification/)
-* [FBX - Wikipedia](https://vi.wikipedia.org/wiki/FBX#File_format)
+* [FBX - Wikipedia](https://en.wikipedia.org/wiki/FBX#File_format)
 

@@ -54,6 +54,6 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [GeoPackage - by Wikipedia)](https://en.wikipedia.org/wiki/GeoPackage)
+* [GeoPackage - by Wikipedia](https://en.wikipedia.org/wiki/GeoPackage)
 * [Ξεκινώντας με το GeoPackage](http://www.geopackage.org/guidance/getting-started.html)
 

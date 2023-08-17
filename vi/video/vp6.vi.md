@@ -68,5 +68,5 @@ Tiêu đề khung của VP6 như được hiển thị bên dưới tuân theo v
 
 ## Người giới thiệu
 
-* [Wikipedia VP6](https://vi.wikipedia.org/wiki/VP6#:~:text=On2%20TrueMotion%20VP6%20is%20a,Video%2C%20and%20JavaFX%20media%20files.)
+* [Wikipedia VP6](https://en.wikipedia.org/wiki/VP6#:~:text=On2%20TrueMotion%20VP6%20is%20a,Video%2C%20and%20JavaFX%20media%20files.)
 

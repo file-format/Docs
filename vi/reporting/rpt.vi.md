@@ -41,5 +41,5 @@ Thiết kế các báo cáo dưới dạng báo cáo, hóa đơn, báo cáo bán
 
 ## Người giới thiệu ##
 
-- [Crystal_Reports - Wikipedia](https://vi.wikipedia.org/wiki/Crystal_Reports)
+- [Crystal_Reports - Wikipedia](https://en.wikipedia.org/wiki/Crystal_Reports)
 

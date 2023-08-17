@@ -27,5 +27,5 @@ ADN to pliki szablonów bazy danych, które są przechowywane na dysku jako plik
 
 ## Bibliografia
 
-* [Microsoft Access — jakiego formatu dostępu powinienem użyć?](https://support.microsoft.com/en-us/office/ Which-access-file-format-should-i-use-012d9ab3-d14c-479e- b617-be66f9070b41)
+* [Microsoft Access — jakiego formatu dostępu powinienem użyć?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

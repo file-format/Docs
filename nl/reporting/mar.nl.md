@@ -50,5 +50,5 @@ Het ontwerp van een Access-rapport is verdeeld in verschillende secties die kunn
 ## Referenties ##
 
 - [Inleiding tot rapporten in Access](https://support.microsoft.com/en-us/office/introduction-to-reports-in-access-e0869f59-7536-4d19-8e05-7158dcd3681c)
-- [Rapporten ontwerpen in Access](https://www.uis.edu/informationtechnologyservices/wp-content/uploads/sites/106/2013/04/DesigningReportsinAccess2010.pdf)
+- [Rapporten ontwerpen in Access](https://github.com/prijuly2000/DBMS/blob/master/DesigningReportsinAccess2010.pdf)
 

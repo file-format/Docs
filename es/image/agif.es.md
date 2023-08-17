@@ -27,5 +27,5 @@ AGIF es un archivo de proyecto que se guarda como formato de archivo de imagen d
 
 ## Referencias
 
-* [Auto FX](https://www.autofx.com/july-4-sale/pge-details.html)
+* N/A
 

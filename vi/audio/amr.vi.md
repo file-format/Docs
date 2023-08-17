@@ -67,6 +67,6 @@ Kích thước khung hình của các chế độ AMR tính bằng byte (bao g�
 
 ## Người giới thiệu ##
 
-* [Bộ giải mã âm thanh nhiều tốc độ thích ứng - Theo Wikipedia](https://vi.wikipedia.org/wiki/Adaptive_Multi-Rate_audio_codec)
+* [Bộ giải mã âm thanh nhiều tốc độ thích ứng - Theo Wikipedia](https://en.wikipedia.org/wiki/Adaptive_Multi-Rate_audio_codec)
 * [Định dạng tải trọng RTP và Định dạng lưu trữ tệp cho codec âm thanh AMR và AMR-WB](https://tools.ietf.org/html/rfc4867#page-35)
 

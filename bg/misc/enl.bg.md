@@ -26,5 +26,5 @@ ENL файловете се съхраняват като двоични фай�
 
 ## Препратки
 
-* [Значение на папката с данни на EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= en_US)
+* [Значение на папката с данни на EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files)
 

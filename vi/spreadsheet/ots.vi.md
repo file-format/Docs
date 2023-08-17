@@ -69,5 +69,5 @@ Tệp `settings.xml` bao gồm các cài đặt cấp độ tài liệu như h�
 ## Người giới thiệu ##
 
 * [Đặc tả OpenDocument 1.2](https://www.oasis-open.org/standards#opendocumentv1.2)
-* [OpenDocument - Bởi Wikipedia](https://vi.wikipedia.org/wiki/OpenDocument)
+* [OpenDocument - Bởi Wikipedia](https://en.wikipedia.org/wiki/OpenDocument)
 

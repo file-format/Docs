@@ -68,7 +68,7 @@ Thay đổi phần mở rộng của tệp thực thi từ .exe thành .scr. Vì
 
 ## Người giới thiệu
 
-* [Trình bảo vệ màn hình](https://vi.wikipedia.org/wiki/Trình bảo vệ màn hình)
+* [Trình bảo vệ màn hình](https://en.wikipedia.org/wiki/Trình bảo vệ màn hình)
 * [Viết Trình bảo vệ màn hình thực sự hoạt động](https://www.codeproject.com/Articles/14081/Write-a-Screensaver-that-Actually-Works)
 
 

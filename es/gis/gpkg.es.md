@@ -54,6 +54,6 @@ Para contenido de referencia espacial; incluyendo pero no limitado a mosaicos y 
 
 ## Referencias
 
-* [GeoPackage - por Wikipedia)](https://en.wikipedia.org/wiki/GeoPackage)
+* [GeoPackage - por Wikipedia](https://en.wikipedia.org/wiki/GeoPackage)
 * [Primeros pasos con GeoPackage](http://www.geopackage.org/guidance/getting-started.html)
 

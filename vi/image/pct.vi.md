@@ -33,5 +33,5 @@ Dữ liệu hình ảnh trong tệp Macintosh PCT có thể được lưu ở đ
 
 ## Người giới thiệu
 
-* [Định dạng tệp PICT - Theo Wikipedia](https://vi.wikipedia.org/wiki/PICT)
+* [Định dạng tệp PICT - Theo Wikipedia](https://en.wikipedia.org/wiki/PICT)
 

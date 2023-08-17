@@ -45,5 +45,5 @@ Giao thức torrent để trao đổi dữ liệu giữa những người dùng 
 
 ## Người giới thiệu
 
-* [Tệp Torrent - wikipedia](https://vi.wikipedia.org/wiki/Torrent_file)
+* [Tệp Torrent - wikipedia](https://en.wikipedia.org/wiki/Torrent_file)
 

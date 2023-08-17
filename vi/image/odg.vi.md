@@ -89,6 +89,6 @@ Các kiểu sau đây được định dạng OpenDocument hỗ trợ.
 `Mater Styles` - một kiểu phổ biến chứa thông tin định dạng và nội dung bổ sung được hiển thị cùng với nội dung tài liệu khi kiểu này được áp dụng. Một ví dụ về phong cách chính là các trang chính.
 
 ## Người giới thiệu ##
-* [Định dạng Tài liệu Mở OASIS dành cho Ứng dụng Office](https://www.oasis-open.org/committees/tc_home.php?wg_abrev=office)
+* [Định dạng Tài liệu Mở OASIS dành cho Ứng dụng Office](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
 * [Định dạng Tài liệu Mở - Wikipedia](https://en.wikipedia.org/wiki/OpenDocument)
 

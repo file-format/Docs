@@ -35,6 +35,6 @@ Khi người dùng quyết định tránh lãng phí trang trực tuyến làm n
 
 ## Người giới thiệu
 
-* [MHTML - Wikipedia](https://vi.wikipedia.org/wiki/MHTML)
+* [MHTML - Wikipedia](https://en.wikipedia.org/wiki/MHTML)
 * [MHT RFC](https://tools.ietf.org/html/rfc822)
 

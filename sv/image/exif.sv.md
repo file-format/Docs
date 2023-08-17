@@ -37,7 +37,7 @@ EXIF använder följande filformat med tillägg av specifik metadata.
 
 1. [JPEG](/sv/image/jpeg/) - diskret cosinustransform (DCT) för komprimerade bildfiler.
 1. [TIFF](/sv/image/tiff/) Rev. 6.0 (RGB eller YCbCr) för okomprimerade bildfiler.
-1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) för ljudfiler (linjär [PCM](https:/ /en.wikipedia.org/wiki/Pulse-code_modulation) eller ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM för okomprimerad ljuddata, och [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) för komprimerad ljuddata).
+1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) för ljudfiler (linjär [PCM](https://en.wikipedia.org/wiki/Pulse-code_modulation) eller ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM för okomprimerad ljuddata, och [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) för komprimerad ljuddata).
 
 ### Markör som används av EXIF ###
 

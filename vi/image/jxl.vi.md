@@ -53,5 +53,5 @@ Các tệp JXL có thể được chuyển đổi sang một số định dạng
 
 ## Người giới thiệu
 
-* [JXL - Wikipedia](https://vi.wikipedia.org/wiki/JPEG_XL)
+* [JXL - Wikipedia](https://en.wikipedia.org/wiki/JPEG_XL)
 

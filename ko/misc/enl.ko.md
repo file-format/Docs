@@ -26,5 +26,5 @@ ENL 파일은 내부 파일 형식에 대한 세부 정보 없이 바이너리 �
 
 ## 참고문헌
 
-* [EndNote 데이터 폴더의 중요성](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= ko_US)
+* [EndNote 데이터 폴더의 중요성](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files)
 

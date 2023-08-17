@@ -20,7 +20,7 @@
 
 ## Wat is een XBRL-bestand?
 
-Een bestand met de extensie .xbrl (eXtensible Business Reporting Language) is een vrij beschikbaar en wereldwijd raamwerk voor het uitwisselen van bedrijfsinformatie. Het wordt nu veel gebruikt als een van de standaardindelingen die de oudere papieren rapporten heeft vervangen door nuttigere en nauwkeurigere digitale documenten. Gegevens die worden uitgewisseld met behulp van de XBRL-bestanden omvatten grootboeken, financiële gegevens en balansen. Het ondersteunt datatags die gegevensverwerking mogelijk maken van de voorbereiding tot de analysefase van allerlei soorten bedrijfsinformatie. XBRL-bestanden kunnen worden geopend met software zoals Rivet Software Dragon View XBRL Viewer en API's zoals [Aspose.Finance](https://products.aspose.com/finance).
+Een bestand met de extensie .xbrl (eXtensible Business Reporting Language) is een vrij beschikbaar en wereldwijd raamwerk voor het uitwisselen van bedrijfsinformatie. Het wordt nu veel gebruikt als een van de standaardindelingen die de oudere papieren rapporten heeft vervangen door nuttigere en nauwkeurigere digitale documenten. Gegevens die worden uitgewisseld met behulp van de XBRL-bestanden omvatten grootboeken, financiële gegevens en balansen. Het ondersteunt datatags die gegevensverwerking mogelijk maken van de voorbereiding tot de analysefase van allerlei soorten bedrijfsinformatie. XBRL-bestanden kunnen worden geopend met software zoals Rivet Software Dragon View XBRL Viewer en API's zoals [Aspose.Finance](https://products.aspose.com/finance/).
 
 ## XBRL-bestandsindeling
 
@@ -28,11 +28,11 @@ XBRL is een open internationale standaard voor digitale bedrijfsrapportage die w
 
 ### XBRL-documentstructuur
 
-Volledige informatie over de [XBRL 2.1-tags](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata- 2013-02-20.html) kan worden doorverwezen door programmeurs om toepassingen te schrijven voor het werken met dit bestandsformaat. Een XBRL bestaat uit een XBRL-instantie en een verzameling taxonomieën.
+Volledige informatie over de [XBRL 2.1-tags](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) kan worden doorverwezen door programmeurs om toepassingen te schrijven voor het werken met dit bestandsformaat. Een XBRL bestaat uit een XBRL-instantie en een verzameling taxonomieën.
 
 **`XBRL-instantie`** - De XBRL-instantie begint met de<xbrl> wortelelement. Een groot XML-document kan meer dan één ingesloten XBRL-instantie bevatten.
 
-**`XBRL-taxonomie`** - De [XBRL-taxonomie](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31 +corrected-errata-2013-02-20.html#_5) wordt gedefinieerd als een XML-schemastructuren en een set van direct verwezen externe links-elementen. Een schaalbaar taxonomieschema met de linkbase-referenties is als volgt.
+**`XBRL-taxonomie`** - De [XBRL-taxonomie](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5) wordt gedefinieerd als een XML-schemastructuren en een set van direct verwezen externe links-elementen. Een schaalbaar taxonomieschema met de linkbase-referenties is als volgt.
 
 ```
 <schema
@@ -57,5 +57,5 @@ Volledige informatie over de [XBRL 2.1-tags](https://www.xbrl.org/Specification/
 ## Referenties ##
 
 * [XBRL - Door Wikipedia](https://en.wikipedia.org/wiki/XBRL)
-* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected- errata-2013-02-20.html)
+* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html)
 

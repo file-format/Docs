@@ -54,6 +54,6 @@ W przypadku treści odniesienia przestrzennego; w tym między innymi kafelki i f
 
 ## Bibliografia
 
-* [GeoPackage - z Wikipedii)](https://en.wikipedia.org/wiki/GeoPackage)
+* [GeoPackage - z Wikipedii](https://en.wikipedia.org/wiki/GeoPackage)
 * [Pierwsze kroki z GeoPackage](http://www.geopackage.org/guidance/getting-started.html)
 

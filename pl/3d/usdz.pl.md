@@ -19,7 +19,7 @@
 
 ## Czym jest plik USDZ?
 
-Plik z rozszerzeniem .usdz to nieskompresowane i niezaszyfrowane archiwum ZIP dla formatu pliku [USD](/pl/3d/usd/) (Universal Scene Description), które zawiera i proxy dla plików innych formatów (takich jak tekstury i animacje) osadzone w archiwum i uruchamia je bezpośrednio w środowisku wykonawczym USD bez potrzeby rozpakowywania. Pliki USDZ to pakiety, których projekt opiera się na nowej abstrakcji pakietu na poziomie Ar. Usdz został zarejestrowany w IANA i ma nazwę typu nośnika modelu oraz nazwę podtypu vnd.usd+zip, a jego szczegóły można znaleźć na stronie [strona rejestracji IANA](https://www.iana.org/assignments/media-typy/model/vnd.usdz+zip).
+Plik z rozszerzeniem .usdz to nieskompresowane i niezaszyfrowane archiwum ZIP dla formatu pliku [USD](/pl/3d/usd/) (Universal Scene Description), które zawiera i proxy dla plików innych formatów (takich jak tekstury i animacje) osadzone w archiwum i uruchamia je bezpośrednio w środowisku wykonawczym USD bez potrzeby rozpakowywania. Pliki USDZ to pakiety, których projekt opiera się na nowej abstrakcji pakietu na poziomie Ar. Usdz został zarejestrowany w IANA i ma nazwę typu nośnika modelu oraz nazwę podtypu vnd.usd+zip, a jego szczegóły można znaleźć na stronie [strona rejestracji IANA](https://www.iana.org/assignments/media-types/model/vnd.usdz+zip).
 
 ## Format pliku USDZ
 

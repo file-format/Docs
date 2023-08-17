@@ -28,5 +28,5 @@ MJPEG dựa trên tiêu chuẩn nén hoàn thiện, tức là [JPEG](/vi/image/j
 ## Người giới thiệu ##
 
 - [RFC2435 - Định dạng tải trọng RTP cho video nén JPEG](https://tools.ietf.org/html/rfc2435)
-- [JPEG chuyển động - Wikipedia](https://vi.wikipedia.org/wiki/Motion_JPEG)
+- [JPEG chuyển động - Wikipedia](https://en.wikipedia.org/wiki/Motion_JPEG)
 

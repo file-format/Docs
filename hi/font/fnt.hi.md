@@ -40,5 +40,5 @@ FNT फाइलें सिंगल रैस्टर या वेक्ट
 
 ## संदर्भ
 * [फ़ॉन्ट फ़ाइल प्रारूप](https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
-* [विंडोज़ में फ़ॉन्ट कैसे स्थापित करें या निकालें](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8 -7613-c76f-88d043b334b8)
+* [विंडोज़ में फ़ॉन्ट कैसे स्थापित करें या निकालें](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8-7613-c76f-88d043b334b8)
 

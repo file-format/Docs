@@ -26,5 +26,5 @@ RMVB đã trở thành một định dạng phổ biến để phân phối các
 
 ## Người giới thiệu ##
 
-- [RMVB - Wikipedia](https://vi.wikipedia.org/wiki/RMVB)
+- [RMVB - Wikipedia](https://en.wikipedia.org/wiki/RMVB)
 

@@ -37,7 +37,7 @@ EXIF विशिष्ट मेटाडेटा को जोड़ने �
 
 1. [JPEG](/hi/image/jpeg/) - संपीड़ित छवि फ़ाइलों के लिए असतत कोसाइन ट्रांसफ़ॉर्म (DCT)।
 1. [TIFF](/hi/image/tiff/) Rev. 6.0 (RGB या YCbCr) असम्पीडित छवि फ़ाइलों के लिए।
-1. [आरआईएफएफ](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) ऑडियो फाइलों के लिए (रैखिक [पीसीएम](https:/ /en.wikipedia.org/wiki/Pulse-code_modulation) या ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) असंपीड़ित ऑडियो डेटा के लिए μ-Law PCM, और [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](संपीड़ित ऑडियो डेटा के लिए https://en.wikipedia.org/wiki/ADPCM)।
+1. [आरआईएफएफ](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) ऑडियो फाइलों के लिए (रैखिक [पीसीएम](https://en.wikipedia.org/wiki/Pulse-code_modulation) या ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) असंपीड़ित ऑडियो डेटा के लिए μ-Law PCM, और [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) संपीड़ित ऑडियो डेटा के लिए।
 
 ### EXIF द्वारा प्रयुक्त मार्कर ###
 

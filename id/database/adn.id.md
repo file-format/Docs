@@ -27,5 +27,5 @@ ADN adalah file template database yang disimpan ke disk sebagai file biner. Deta
 
 ## Referensi
 
-* [Microsoft Access - Format Akses mana yang harus saya gunakan?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e- b617-be66f9070b41)
+* [Microsoft Access - Format Akses mana yang harus saya gunakan?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

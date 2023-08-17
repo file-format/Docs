@@ -96,4 +96,4 @@ Hãy nhớ rằng một đối tượng có thể là lưới, đèn hoặc máy
 ## Người giới thiệu
 
 * [Định dạng tệp hình học - Autodesk](https://help.autodesk.com/view/3DSMAX/2015/ENU/?guid=GUID-566E59EE-8221-4AC6-824B-5062C5AE0B32)
-* [3DS - Theo Wikipedia](https://vi.wikipedia.org/wiki/.3ds)
+* [3DS - Theo Wikipedia](https://en.wikipedia.org/wiki/.3ds)

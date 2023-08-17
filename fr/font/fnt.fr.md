@@ -40,5 +40,5 @@ Pour des informations détaillées sur les en-têtes pour Windows 3.0 et 2.0, vi
 
 ## Références
 * [Format de fichier de police](https://jeffpar.github.io/kbarchive/kb/065/Q65123/)
-* [Comment installer ou supprimer une police dans Windows](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8 -7613-c76f-88d043b334b8)
+* [Comment installer ou supprimer une police dans Windows](https://support.microsoft.com/en-us/windows/how-to-install-or-remove-a-font-in-windows-f12d0657-2fc8-7613-c76f-88d043b334b8)
 

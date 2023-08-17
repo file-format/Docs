@@ -50,6 +50,6 @@ xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
 
 ## Người giới thiệu
 
-* [XUL - Theo Wikipedia](https://vi.wikipedia.org/wiki/XUL)
+* [XUL - Theo Wikipedia](https://en.wikipedia.org/wiki/XUL)
 * [Tài liệu lưu trữ XUL - Bởi Mozilla](https://wiki.mozilla.org/XUL:Home_Page)
 

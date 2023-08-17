@@ -54,6 +54,6 @@ Voor ruimtelijke referentie-inhoud; inclusief maar niet beperkt tot tegels en el
 
 ## Referenties
 
-* [GeoPackage - door Wikipedia)](https://en.wikipedia.org/wiki/GeoPackage)
+* [GeoPackage - door Wikipedia](https://en.wikipedia.org/wiki/GeoPackage)
 * [Aan de slag met GeoPackage](http://www.geopackage.org/guidance/getting-started.html)
 

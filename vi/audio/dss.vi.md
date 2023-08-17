@@ -28,6 +28,6 @@ Tệp DSS (Chuẩn giọng nói kỹ thuật số) là định dạng tệp âm 
 
 ## Người giới thiệu
 
-* [Tiêu chuẩn giọng nói kỹ thuật số - Wikipedia](https://vi.wikipedia.org/wiki/Digital_Speech_Standard)
+* [Tiêu chuẩn giọng nói kỹ thuật số - Wikipedia](https://en.wikipedia.org/wiki/Digital_Speech_Standard)
 * [Chuẩn giọng nói kỹ thuật số (.dss / .ds 2) - Olympus Europa](https://www.olympus-europa.com/site/en/a/audio_support/audio_support_help/digital_speech_standard/index.html)
 

@@ -43,5 +43,5 @@ Tệp BƯỚC được chia thành các phần và tên của chúng là các th
 
 ## Người giới thiệu
 
-- [ISO 10303-21 - Wikipedia](https://vi.wikipedia.org/wiki/ISO_10303-21)
+- [ISO 10303-21 - Wikipedia](https://en.wikipedia.org/wiki/ISO_10303-21)
 

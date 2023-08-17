@@ -62,7 +62,7 @@ Khi VBScript được lưu trữ bởi máy chủ Script của Windows, nó cung
 
 ## Tài liệu tham khảo ##
 
-* [VBS - theo Wikipedia](https://vi.wikipedia.org/wiki/VBScript)
+* [VBS - theo Wikipedia](https://en.wikipedia.org/wiki/VBScript)
 
 
 

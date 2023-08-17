@@ -37,7 +37,7 @@ EXIF gebruikt de volgende bestandsformaten met toevoeging van specifieke metadat
 
 1. [JPEG](/nl/image/jpeg/) - discrete cosinustransformatie (DCT) voor gecomprimeerde afbeeldingsbestanden.
 1. [TIFF](/nl/image/tiff/) Rev. 6.0 (RGB of YCbCr) voor niet-gecomprimeerde afbeeldingsbestanden.
-1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) voor audiobestanden (Lineair [PCM](https:/ /en.wikipedia.org/wiki/Pulse-code_modulation) of ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM voor ongecomprimeerde audiogegevens, en [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) voor gecomprimeerde audiogegevens).
+1. [RIFF](https://en.wikipedia.org/wiki/Resource_Interchange_File_Format) [WAV](https://en.wikipedia.org/wiki/WAV) voor audiobestanden (Lineair [PCM](https://en.wikipedia.org/wiki/Pulse-code_modulation) of ITU-T [G.711](https://en.wikipedia.org/wiki/G.711) μ-Law PCM voor ongecomprimeerde audiogegevens, en [ IMA](https://en.wikipedia.org/wiki/Interactive_Multimedia_Association)-[ADPCM](https://en.wikipedia.org/wiki/ADPCM) voor gecomprimeerde audiogegevens).
 
 ### Markering gebruikt door EXIF ###
 

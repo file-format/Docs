@@ -38,6 +38,6 @@ PDF/VT được trao cho ba cấp độ tuân thủ sau đây. Tất cả đều
 
 ## Người giới thiệu ##
 
-* [PDF/VT - Theo Wikipedia](https://vi.wikipedia.org/wiki/PDF/VT)
+* [PDF/VT - Theo Wikipedia](https://en.wikipedia.org/wiki/PDF/VT)
 * [Công nghệ đồ họa ISO 16612-2](https://www.iso.org/standard/46428.html)
 

@@ -20,7 +20,7 @@
 
 ## .XBRL 파일이란?
 
-확장자가 .xbrl(eXtensible Business Reporting Language)인 파일은 비즈니스 정보를 교환하기 위해 무료로 사용할 수 있는 글로벌 프레임워크입니다. 이제는 더 유용하고 정확한 디지털 기록으로 오래된 종이 기반 보고서를 대체하는 표준 형식 중 하나로 널리 사용됩니다. XBRL 파일을 사용하여 교환되는 데이터에는 원장, 재무 세부 정보 및 대차 대조표가 포함됩니다. 각종 비즈니스 정보의 준비부터 분석 단계까지 데이터 처리가 가능한 데이터 태그를 지원합니다. XBRL 파일은 Rivet Software Dragon View XBRL Viewer와 같은 소프트웨어와 [Aspose.Finance](https://products.aspose.com/finance)와 같은 API를 사용하여 열 수 있습니다.
+확장자가 .xbrl(eXtensible Business Reporting Language)인 파일은 비즈니스 정보를 교환하기 위해 무료로 사용할 수 있는 글로벌 프레임워크입니다. 이제는 더 유용하고 정확한 디지털 기록으로 오래된 종이 기반 보고서를 대체하는 표준 형식 중 하나로 널리 사용됩니다. XBRL 파일을 사용하여 교환되는 데이터에는 원장, 재무 세부 정보 및 대차 대조표가 포함됩니다. 각종 비즈니스 정보의 준비부터 분석 단계까지 데이터 처리가 가능한 데이터 태그를 지원합니다. XBRL 파일은 Rivet Software Dragon View XBRL Viewer와 같은 소프트웨어와 [Aspose.Finance](https://products.aspose.com/finance/)와 같은 API를 사용하여 열 수 있습니다.
 
 ## XBRL 파일 형식
 
@@ -28,11 +28,11 @@ XBRL은 전 세계적으로 널리 사용되는 디지털 비즈니스 보고를
 
 ### XBRL 문서 구조
 
-[XBRL 2.1 태그]에 대한 전체 정보(https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata- 2013-02-20.html) 이 파일 형식을 작업하기 위한 응용 프로그램을 작성하기 위해 프로그래머가 참조할 수 있습니다. XBRL은 XBRL 인스턴스와 분류 모음으로 구성됩니다.
+[XBRL 2.1 태그](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) 에 대한 전체 정보 이 파일 형식을 작업하기 위한 응용 프로그램을 작성하기 위해 프로그래머가 참조할 수 있습니다. XBRL은 XBRL 인스턴스와 분류 모음으로 구성됩니다.
 
 **`XBRL 인스턴스`** - XBRL 인스턴스는<xbrl> 루트 요소. 큰 XML 문서에는 하나 이상의 XBRL 인스턴스가 포함될 수 있습니다.
 
-**`XBRL 분류법`** - [XBRL 분류법](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31) +corrected-errata-2013-02-20.html#_5)는 XML 스키마 구조 및 직접 참조되는 외부 링크 요소 집합으로 정의됩니다. 링크베이스 참조를 보여주는 확장 가능한 분류 스키마는 다음과 같습니다.
+**`XBRL 분류법`** - [XBRL 분류법](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5) 는 XML 스키마 구조 및 직접 참조되는 외부 링크 요소 집합으로 정의됩니다. 링크베이스 참조를 보여주는 확장 가능한 분류 스키마는 다음과 같습니다.
 
 ```
 <schema
@@ -57,5 +57,5 @@ XBRL은 전 세계적으로 널리 사용되는 디지털 비즈니스 보고를
 ## 참조 ##
 
 * [XBRL - 위키피디아 작성](https://en.wikipedia.org/wiki/XBRL)
-* [XBRL(Extensible Business Reporting Language) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected- errata-2013-02-20.html)
+* [XBRL(Extensible Business Reporting Language) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html)
 

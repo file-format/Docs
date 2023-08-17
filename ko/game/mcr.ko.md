@@ -39,7 +39,7 @@ Minecraft MCR 파일 형식은 압축을 지원합니다. MCR 파일 형식은 �
 ## 참조
 
 * [마인크래프트용 월드 에디터](https://www.mcedit.net/)
-* [Minecraft 소개](https://www.minecraft.net/en-us)
+* [Minecraft 소개](https://www.minecraft.net/)
 * [지역 파일 형식](https://minecraft.fandom.com/wiki/Region_file_format)
 * [NBT 형식](https://minecraft.fandom.com/wiki/NBT_format)
 

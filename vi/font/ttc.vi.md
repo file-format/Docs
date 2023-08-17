@@ -56,5 +56,5 @@ Dưới đây là các bảng Tiêu đề TTC của cả hai phiên bản:
 
 ## Người giới thiệu
 * [Tệp Phông chữ OpenType](https://learn.microsoft.com/en-us/typography/opentype/spec/otff)
-* [TrueType (Wikipedia)](https://vi.wikipedia.org/wiki/TrueType)
+* [TrueType (Wikipedia)](https://en.wikipedia.org/wiki/TrueType)
 

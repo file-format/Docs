@@ -83,5 +83,5 @@ Sau đây là một ví dụ đơn giản về danh mục đĩa CD trong đó m�
 
 ## Người giới thiệu
 
-* [XML - Theo Wikipedia](https://vi.wikipedia.org/wiki/XML)
+* [XML - Theo Wikipedia](https://en.wikipedia.org/wiki/XML)
 

@@ -57,6 +57,6 @@ PDF/A-3 bao gồm tất cả các yêu cầu tuân thủ của Cấp 2 và cho p
 
 ## Người giới thiệu ##
 
-* [PDF/A - Theo Wikipedia](https://vi.wikipedia.org/wiki/PDF/A)
+* [PDF/A - Theo Wikipedia](https://en.wikipedia.org/wiki/PDF/A)
 * [Sách trắng: PDF/A – Khái niệm cơ bản](https://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
 

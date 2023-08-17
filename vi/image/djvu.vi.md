@@ -76,6 +76,6 @@ Phương pháp mã hóa JB2 loại bỏ phần lớn sự dư thừa trong hình
 
 ## Người giới thiệu ##
 
-* [DjVu - Wikipedia](https://vi.wikipedia.org/wiki/DjVu)
+* [DjVu - Wikipedia](https://en.wikipedia.org/wiki/DjVu)
 * [Định dạng tệp DjVu](https://www.cuminas.jp/docs/techinfo/DjVu3Spec.pdf)
 

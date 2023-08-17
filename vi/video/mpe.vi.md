@@ -23,5 +23,5 @@ Tệp MPE là tệp video được mã hóa và lưu ở định dạng tệp [M
 
 ## Người giới thiệu ##
 
-- [MPEG-1 - Wikipedia](https://vi.wikipedia.org/wiki/MPEG-1)
+- [MPEG-1 - Wikipedia](https://en.wikipedia.org/wiki/MPEG-1)
 

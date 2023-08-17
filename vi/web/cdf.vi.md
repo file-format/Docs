@@ -58,5 +58,5 @@ CẤP="1">
 
 ## Người giới thiệu
 
-* [Định dạng định nghĩa kênh - Theo Wikipedia](https://vi.wikipedia.org/wiki/Channel_Definition_Format)
+* [Định dạng định nghĩa kênh - Theo Wikipedia](https://en.wikipedia.org/wiki/Channel_Definition_Format)
 

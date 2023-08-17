@@ -30,4 +30,4 @@ ADE — это скомпилированные файлы базы данных
 ## использованная литература
 
 * [Проблема с доступом к файлам ADE](https://learn.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
-* [Какие форматы файлов доступа использовать](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41?ui=en-us&rs=en-us&ad=us)
+* [Какие форматы файлов доступа использовать](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)

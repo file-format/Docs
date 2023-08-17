@@ -47,5 +47,5 @@ Dữ liệu phông chữ Loại 1 bao gồm hai tệp riêng biệt trong cửa 
 ## Người giới thiệu
 * [Phông chữ loại 1](https://www.prepressure.com/fonts/basics/type1)
 * [Kết thúc hỗ trợ phông chữ PostScript Loại 1](https://helpx.adobe.com/fonts/kb/postscript-type-1-fonts-end-of-support.html)
-* [Phông chữ PostScript (Wikipedia)](https://vi.wikipedia.org/wiki/PostScript_fonts)
+* [Phông chữ PostScript (Wikipedia)](https://en.wikipedia.org/wiki/PostScript_fonts)
 
