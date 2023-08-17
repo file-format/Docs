@@ -28,7 +28,7 @@ XBRL 是一种在全球范围内广泛使用的数字业务报告的开放国际
 
 ### XBRL 文档结构
 
-关于 [XBRL 2.1 标签]的完整信息(https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata- 2013-02-20.html）可以被程序员引用来编写应用程序来处理这种文件格式。 XBRL 由一个 XBRL 实例和一组分类法组成。
+关于 [XBRL 2.1 标签](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) 的完整信息 可以被程序员引用来编写应用程序来处理这种文件格式。 XBRL 由一个 XBRL 实例和一组分类法组成。
 
 **`XBRL 实例`** - XBRL 实例以<xbrl>根元素。一个大型 XML 文档可以包含多个嵌入其中的 XBRL 实例。
 
@@ -57,5 +57,5 @@ XBRL 是一种在全球范围内广泛使用的数字业务报告的开放国际
 ## 参考 ＃＃
 
 * [XBRL - 维基百科提供](https://en.wikipedia.org/wiki/XBRL)
-* [可扩展业务报告语言 (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-勘误表-2013-02-20.html)
+* [可扩展业务报告语言 (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html)
 
