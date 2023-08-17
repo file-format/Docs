@@ -24,15 +24,15 @@ Tệp có phần mở rộng .xbrl (Ngôn ngữ báo cáo kinh doanh có thể m
 
 ## Định dạng tệp XBRL
 
-XBRL là một tiêu chuẩn quốc tế mở cho báo cáo kinh doanh kỹ thuật số được sử dụng rộng rãi trên toàn cầu. Đó là ngôn ngữ dựa trên [XML](/vi/web/xml/) sử dụng các phần tử XBRL, được gọi là thẻ, để mô tả từng mục dữ liệu kinh doanh nhằm xây dựng dữ liệu để sắp xếp và phân tích báo cáo. Thông số định dạng tệp XBRL được XBRL International, Inc phát triển và xuất bản với [XBRL phiên bản 2.1](https://specations.xbrl.org/work-product-index-group-base-spec-base-spec.html) hiện tại có sẵn cho người dùng.
+XBRL là một tiêu chuẩn quốc tế mở cho báo cáo kinh doanh kỹ thuật số được sử dụng rộng rãi trên toàn cầu. Đó là ngôn ngữ dựa trên [XML](/vi/web/xml/) sử dụng các phần tử XBRL, được gọi là thẻ, để mô tả từng mục dữ liệu kinh doanh nhằm xây dựng dữ liệu để sắp xếp và phân tích báo cáo. Thông số định dạng tệp XBRL được XBRL International, Inc phát triển và xuất bản với [XBRL phiên bản 2.1](https://specifications.xbrl.org/work-product-index-group-base-spec-base-spec.html) hiện tại có sẵn cho người dùng.
 
 ### Cấu trúc tài liệu XBRL
 
-Thông tin đầy đủ về [thẻ XBRL 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata- 2013-02-20.html) có thể được các lập trình viên giới thiệu để viết các ứng dụng để làm việc với định dạng tệp này. Một XBRL bao gồm một thể hiện XBRL và một tập hợp các nguyên tắc phân loại.
+Thông tin đầy đủ về [thẻ XBRL 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) có thể được các lập trình viên giới thiệu để viết các ứng dụng để làm việc với định dạng tệp này. Một XBRL bao gồm một thể hiện XBRL và một tập hợp các nguyên tắc phân loại.
 
 **`XBRL Instance`** - Phiên bản XBRL bắt đầu bằng<xbrl> phần tử gốc. Một tài liệu XML lớn có thể chứa nhiều hơn một phiên bản XBRL được nhúng trong đó.
 
-**`XBRL Taxonomy`** - [XBRL Taxonomy](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31 +đã chỉnh sửa-errata-2013-02-20.html#_5) được định nghĩa là cấu trúc lược đồ XML và tập hợp các phần tử liên kết bên ngoài được tham chiếu trực tiếp. Lược đồ phân loại có thể mở rộng hiển thị các tham chiếu cơ sở liên kết như sau.
+**`XBRL Taxonomy`** - [XBRL Taxonomy](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5) được định nghĩa là cấu trúc lược đồ XML và tập hợp các phần tử liên kết bên ngoài được tham chiếu trực tiếp. Lược đồ phân loại có thể mở rộng hiển thị các tham chiếu cơ sở liên kết như sau.
 
 ```
 <schema
@@ -57,5 +57,5 @@ Thông tin đầy đủ về [thẻ XBRL 2.1](https://www.xbrl.org/Specification
 ## Người giới thiệu ##
 
 * [XBRL - Theo Wikipedia](https://en.wikipedia.org/wiki/XBRL)
-* [Ngôn ngữ báo cáo kinh doanh có thể mở rộng (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected- errata-2013-02-20.html)
+* [Ngôn ngữ báo cáo kinh doanh có thể mở rộng (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html)
 
