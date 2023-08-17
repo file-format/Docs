@@ -45,7 +45,7 @@ Los datos de la fuente Tipo 1 consisten en dos archivos separados en Windows:
 2. El archivo con extensión “.PFM” contiene los datos de las métricas.
 
 ## Referencias
-* [Fuentes tipo 1](https://www.prepression.com/fonts/basics/type1)
+* [Fuentes tipo 1](https://www.prepressure.com/fonts/basics/type1)
 * [Fin del soporte de las fuentes PostScript Type 1](https://helpx.adobe.com/fonts/kb/postscript-type-1-fonts-end-of-support.html)
 * [Fuentes PostScript (Wikipedia)](https://en.wikipedia.org/wiki/PostScript_fonts)
 
