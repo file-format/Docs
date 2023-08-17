@@ -28,7 +28,7 @@ XBRL to otwarty międzynarodowy standard cyfrowej sprawozdawczości biznesowej, 
 
 ### Struktura dokumentu XBRL
 
-Pełne informacje o [znacznikach XBRL 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata- 2013-02-20.html) mogą być kierowane przez programistów do pisania aplikacji obsługujących ten format plików. XBRL składa się z instancji XBRL i zbioru taksonomii.
+Pełne informacje o [znacznikach XBRL 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) mogą być kierowane przez programistów do pisania aplikacji obsługujących ten format plików. XBRL składa się z instancji XBRL i zbioru taksonomii.
 
 **`Instancja XBRL`** — Instancja XBRL zaczyna się od<xbrl> element główny. Duży dokument XML może zawierać więcej niż jedną osadzoną w nim instancję XBRL.
 
@@ -57,5 +57,5 @@ Pełne informacje o [znacznikach XBRL 2.1](https://www.xbrl.org/Specification/XB
 ## Bibliografia ##
 
 * [XBRL – z Wikipedii](https://en.wikipedia.org/wiki/XBRL)
-* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected- errata-2013-02-20.html)
+* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html)
 

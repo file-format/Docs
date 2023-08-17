@@ -28,7 +28,7 @@ XBRL este un standard internațional deschis pentru raportarea digitală a aface
 
 ### Structura documentului XBRL
 
-Informații complete despre [etichetele XBRL 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata- 2013-02-20.html) pot fi îndrumați de către programatori pentru a scrie aplicații pentru lucrul cu acest format de fișier. Un XBRL constă dintr-o instanță XBRL și o colecție de taxonomii.
+Informații complete despre [etichetele XBRL 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) pot fi îndrumați de către programatori pentru a scrie aplicații pentru lucrul cu acest format de fișier. Un XBRL constă dintr-o instanță XBRL și o colecție de taxonomii.
 
 **`XBRL Instance`** - Instanța XBRL începe cu<xbrl> element rădăcină. Un document XML mare poate conține mai mult de o instanță XBRL încorporată în el.
 
@@ -57,5 +57,5 @@ Informații complete despre [etichetele XBRL 2.1](https://www.xbrl.org/Specifica
 ## Referințe ##
 
 * [XBRL - După Wikipedia](https://en.wikipedia.org/wiki/XBRL)
-* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected- errata-2013-02-20.html)
+* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html)
 

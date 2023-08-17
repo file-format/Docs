@@ -28,7 +28,7 @@ XBRL הוא תקן בינלאומי פתוח לדיווח עסקי דיגיטל�
 
 ### מבנה מסמך XBRL
 
-מידע מלא על [תגי XBRL 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata- 2013-02-20.html) מתכנתים יכולים להפנות לכתיבת יישומים לעבודה בפורמט קובץ זה. XBRL מורכב ממופע XBRL ומאוסף של טקסונומיות.
+מידע מלא על [תגי XBRL 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) מתכנתים יכולים להפנות לכתיבת יישומים לעבודה בפורמט קובץ זה. XBRL מורכב ממופע XBRL ומאוסף של טקסונומיות.
 
 **`XBRL Instance`** - מופע XBRL מתחיל ב-<xbrl> אלמנט שורש. מסמך XML גדול יכול להכיל יותר ממופע XBRL אחד המוטבע בו.
 
@@ -57,5 +57,5 @@ XBRL הוא תקן בינלאומי פתוח לדיווח עסקי דיגיטל�
 ## הפניות ##
 
 * [XBRL - מאת ויקיפדיה](https://en.wikipedia.org/wiki/XBRL)
-* [שפת דיווח עסקית הרחבה (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected- errata-2013-02-20.html)
+* [שפת דיווח עסקית הרחבה (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html)
 

@@ -28,7 +28,7 @@ Az XBRL a digitális üzleti jelentéskészítés nyílt nemzetközi szabványa,
 
 ### XBRL-dokumentumstruktúra
 
-Teljes információ az [XBRL 2.1 címkékről](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata- 2013-02-20.html) a programozók arra hivatkozhatnak, hogy írjanak alkalmazásokat ennek a fájlformátumnak a használatához. Az XBRL egy XBRL-példányból és taxonómiák gyűjteményéből áll.
+Teljes információ az [XBRL 2.1 címkékről](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) a programozók arra hivatkozhatnak, hogy írjanak alkalmazásokat ennek a fájlformátumnak a használatához. Az XBRL egy XBRL-példányból és taxonómiák gyűjteményéből áll.
 
 **`XBRL-példány`** – Az XBRL-példány a következővel kezdődik<xbrl> gyökérelem. Egy nagy XML-dokumentum egynél több XBRL-példányt is tartalmazhat beágyazva.
 
@@ -57,5 +57,5 @@ Teljes információ az [XBRL 2.1 címkékről](https://www.xbrl.org/Specificatio
 ## Referenciák ##
 
 * [XBRL – a Wikipedia által](https://en.wikipedia.org/wiki/XBRL)
-* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected- errata-2013-02-20.html)
+* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html)
 

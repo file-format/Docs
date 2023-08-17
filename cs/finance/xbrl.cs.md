@@ -28,7 +28,7 @@ XBRL je otevřený mezinárodní standard pro digitální obchodní výkaznictv�
 
 ### Struktura dokumentu XBRL
 
-Kompletní informace o [značkách XBRL 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata- 2013-02-20.html) mohou programátoři odkázat na psaní aplikací pro práci s tímto formátem souborů. XBRL se skládá z instance XBRL a kolekce taxonomií.
+Kompletní informace o [značkách XBRL 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) mohou programátoři odkázat na psaní aplikací pro práci s tímto formátem souborů. XBRL se skládá z instance XBRL a kolekce taxonomií.
 
 **`Instance XBRL`** – Instance XBRL začíná znakem<xbrl> kořenový prvek. Velký dokument XML může obsahovat více než jednu instanci XBRL.
 
@@ -57,5 +57,5 @@ Kompletní informace o [značkách XBRL 2.1](https://www.xbrl.org/Specification/
 ## Reference ##
 
 * [XBRL – podle Wikipedie](https://en.wikipedia.org/wiki/XBRL)
-* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected- errata-2013-02-20.html)
+* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html)
 

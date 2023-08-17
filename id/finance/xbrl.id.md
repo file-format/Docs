@@ -28,7 +28,7 @@ XBRL adalah standar internasional terbuka untuk pelaporan bisnis digital yang ba
 
 ### Struktur Dokumen XBRL
 
-Informasi lengkap tentang [XBRL 2.1 tag](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata- 2013-02-20.html) dapat dirujuk oleh pemrogram untuk menulis aplikasi untuk mengerjakan format file ini. XBRL terdiri dari instance XBRL, dan kumpulan taksonomi.
+Informasi lengkap tentang [XBRL 2.1 tag](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) dapat dirujuk oleh pemrogram untuk menulis aplikasi untuk mengerjakan format file ini. XBRL terdiri dari instance XBRL, dan kumpulan taksonomi.
 
 **`XBRL Instance`** - Instance XBRL diawali dengan<xbrl> elemen akar. Dokumen XML yang besar dapat berisi lebih dari satu contoh XBRL yang disematkan di dalamnya.
 

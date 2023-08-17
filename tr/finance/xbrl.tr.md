@@ -28,7 +28,7 @@ XBRL, dünya çapında yaygın olarak kullanılan, dijital iş raporlaması içi
 
 ### XBRL Belge Yapısı
 
-[XBRL 2.1 etiketleri] hakkında eksiksiz bilgi(https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata- 2013-02-20.html) programcılar tarafından bu dosya biçimini çalıştırmak için uygulamalar yazmaya yönlendirilebilir. Bir XBRL, bir XBRL örneğinden ve bir taksonomi koleksiyonundan oluşur.
+[XBRL 2.1 etiketleri] hakkında eksiksiz bilgi(https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) programcılar tarafından bu dosya biçimini çalıştırmak için uygulamalar yazmaya yönlendirilebilir. Bir XBRL, bir XBRL örneğinden ve bir taksonomi koleksiyonundan oluşur.
 
 **`XBRL Örneği`** - XBRL örneği,<xbrl> kök eleman. Büyük bir XML belgesi, içine katıştırılmış birden fazla XBRL örneği içerebilir.
 

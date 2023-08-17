@@ -28,7 +28,7 @@ XBRL é um padrão internacional aberto para relatórios de negócios digitais a
 
 ### Estrutura do Documento XBRL
 
-Informações completas sobre as [tags XBRL 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata- 2013-02-20.html) pode ser consultado por programadores para escrever aplicativos para trabalhar neste formato de arquivo. Um XBRL consiste em uma instância XBRL e uma coleção de taxonomias.
+Informações completas sobre as [tags XBRL 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) pode ser consultado por programadores para escrever aplicativos para trabalhar neste formato de arquivo. Um XBRL consiste em uma instância XBRL e uma coleção de taxonomias.
 
 **`XBRL Instance`** - A instância XBRL começa com o<xbrl> elemento raiz. Um documento XML grande pode conter mais de uma instância XBRL incorporada nele.
 
@@ -57,5 +57,5 @@ Informações completas sobre as [tags XBRL 2.1](https://www.xbrl.org/Specificat
 ## Referências ##
 
 * [XBRL - Por Wikipedia](https://en.wikipedia.org/wiki/XBRL)
-* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected- errata-2013-02-20.html)
+* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html)
 

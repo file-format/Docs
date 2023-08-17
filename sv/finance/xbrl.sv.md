@@ -28,7 +28,7 @@ XBRL är en öppen internationell standard för digital affärsrapportering som 
 
 ### XBRL-dokumentstruktur
 
-Komplett information om [XBRL 2.1-taggarna](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata- 2013-02-20.html) kan hänvisas av programmerare för att skriva applikationer för att arbeta med detta filformat. En XBRL består av en XBRL-instans och en samling taxonomier.
+Komplett information om [XBRL 2.1-taggarna](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) kan hänvisas av programmerare för att skriva applikationer för att arbeta med detta filformat. En XBRL består av en XBRL-instans och en samling taxonomier.
 
 **`XBRL Instance`** - XBRL-instansen börjar med<xbrl> rotelement. Ett stort XML-dokument kan innehålla mer än en XBRL-instans inbäddad i det.
 
@@ -57,5 +57,5 @@ Komplett information om [XBRL 2.1-taggarna](https://www.xbrl.org/Specification/X
 ## Referenser ##
 
 * [XBRL - av Wikipedia](https://en.wikipedia.org/wiki/XBRL)
-* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected- errata-2013-02-20.html)
+* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html)
 

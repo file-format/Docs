@@ -28,7 +28,7 @@
 
 ### Δομή εγγράφου XBRL
 
-Πλήρεις πληροφορίες σχετικά με τις [ετικέτες XBRL 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata- 2013-02-20.html) μπορεί να παραπεμφθεί από προγραμματιστές για τη σύνταξη εφαρμογών για την επεξεργασία αυτής της μορφής αρχείου. Ένα XBRL αποτελείται από μια παρουσία XBRL και μια συλλογή ταξινομιών.
+Πλήρεις πληροφορίες σχετικά με τις [ετικέτες XBRL 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) μπορεί να παραπεμφθεί από προγραμματιστές για τη σύνταξη εφαρμογών για την επεξεργασία αυτής της μορφής αρχείου. Ένα XBRL αποτελείται από μια παρουσία XBRL και μια συλλογή ταξινομιών.
 
 **`Παράδειγμα XBRL`** - Η παρουσία XBRL ξεκινά με το<xbrl> ριζικό στοιχείο. Ένα μεγάλο έγγραφο XML μπορεί να περιέχει περισσότερες από μία παρουσίες XBRL ενσωματωμένες σε αυτό.
 
@@ -57,5 +57,5 @@
 ## Βιβλιογραφικές αναφορές ##
 
 * [XBRL - Από τη Wikipedia](https://en.wikipedia.org/wiki/XBRL)
-* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected- errata-2013-02-20.html)
+* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html)
 

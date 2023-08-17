@@ -28,7 +28,7 @@ XBRL is een open internationale standaard voor digitale bedrijfsrapportage die w
 
 ### XBRL-documentstructuur
 
-Volledige informatie over de [XBRL 2.1-tags](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata- 2013-02-20.html) kan worden doorverwezen door programmeurs om toepassingen te schrijven voor het werken met dit bestandsformaat. Een XBRL bestaat uit een XBRL-instantie en een verzameling taxonomieën.
+Volledige informatie over de [XBRL 2.1-tags](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) kan worden doorverwezen door programmeurs om toepassingen te schrijven voor het werken met dit bestandsformaat. Een XBRL bestaat uit een XBRL-instantie en een verzameling taxonomieën.
 
 **`XBRL-instantie`** - De XBRL-instantie begint met de<xbrl> wortelelement. Een groot XML-document kan meer dan één ingesloten XBRL-instantie bevatten.
 
@@ -57,5 +57,5 @@ Volledige informatie over de [XBRL 2.1-tags](https://www.xbrl.org/Specification/
 ## Referenties ##
 
 * [XBRL - Door Wikipedia](https://en.wikipedia.org/wiki/XBRL)
-* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected- errata-2013-02-20.html)
+* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html)
 
