@@ -57,5 +57,5 @@ Informasi lengkap tentang [XBRL 2.1 tag](https://www.xbrl.org/Specification/XBRL
 ## Referensi ##
 
 * [XBRL - Oleh Wikipedia](https://en.wikipedia.org/wiki/XBRL)
-* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected- ralat-2013-02-20.html)
+* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html)
 

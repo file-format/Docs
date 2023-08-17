@@ -28,7 +28,7 @@ XBRL은 전 세계적으로 널리 사용되는 디지털 비즈니스 보고를
 
 ### XBRL 문서 구조
 
-[XBRL 2.1 태그]에 대한 전체 정보(https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) 이 파일 형식을 작업하기 위한 응용 프로그램을 작성하기 위해 프로그래머가 참조할 수 있습니다. XBRL은 XBRL 인스턴스와 분류 모음으로 구성됩니다.
+[XBRL 2.1 태그](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) 에 대한 전체 정보 이 파일 형식을 작업하기 위한 응용 프로그램을 작성하기 위해 프로그래머가 참조할 수 있습니다. XBRL은 XBRL 인스턴스와 분류 모음으로 구성됩니다.
 
 **`XBRL 인스턴스`** - XBRL 인스턴스는<xbrl> 루트 요소. 큰 XML 문서에는 하나 이상의 XBRL 인스턴스가 포함될 수 있습니다.
 
