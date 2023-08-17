@@ -28,7 +28,7 @@ XBRL は、世界中で広く使用されているデジタル ビジネス レ�
 
 ### XBRL ドキュメントの構造
 
-[XBRL 2.1 タグ] に関する完全な情報 (https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) は、プログラマーがこのファイル形式を操作するためのアプリケーションを作成するために参照できます。 XBRL は、XBRL インスタンスとタクソノミーのコレクションで構成されます。
+[XBRL 2.1 タグ](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html) に関する完全な情報 は、プログラマーがこのファイル形式を操作するためのアプリケーションを作成するために参照できます。 XBRL は、XBRL インスタンスとタクソノミーのコレクションで構成されます。
 
 **`XBRL インスタンス`** - XBRL インスタンスは<xbrl>ルート要素。大きな XML ドキュメントには、複数の XBRL インスタンスが埋め込まれている場合があります。
 
@@ -57,5 +57,5 @@ XBRL は、世界中で広く使用されているデジタル ビジネス レ�
 ## 参照 ##
 
 * [XBRL - ウィキペディアによる](https://en.wikipedia.org/wiki/XBRL)
-* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+修正済み- errata-2013-02-20.html)
+* [Extensible Business Reporting Language (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html)
 
