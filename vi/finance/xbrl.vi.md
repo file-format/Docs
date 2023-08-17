@@ -20,7 +20,7 @@
 
 ## Tệp XBRL là gì?
 
-Tệp có phần mở rộng .xbrl (Ngôn ngữ báo cáo kinh doanh có thể mở rộng) là một khuôn khổ toàn cầu và có sẵn miễn phí để trao đổi thông tin kinh doanh. Nó hiện được sử dụng rộng rãi như một trong những định dạng tiêu chuẩn đã thay thế các báo cáo trên giấy cũ hơn bằng các bản ghi kỹ thuật số hữu ích và chính xác hơn. Dữ liệu được trao đổi bằng các tệp XBRL bao gồm sổ cái, chi tiết tài chính và bảng cân đối kế toán. Nó hỗ trợ các thẻ dữ liệu cho phép xử lý dữ liệu từ giai đoạn chuẩn bị cho đến giai đoạn phân tích thông tin kinh doanh các loại. Có thể mở các tệp XBRL bằng phần mềm như Rivet Software Dragon View XBRL Viewer và các API như [Aspose.Finance](https://products.aspose.com/finance).
+Tệp có phần mở rộng .xbrl (Ngôn ngữ báo cáo kinh doanh có thể mở rộng) là một khuôn khổ toàn cầu và có sẵn miễn phí để trao đổi thông tin kinh doanh. Nó hiện được sử dụng rộng rãi như một trong những định dạng tiêu chuẩn đã thay thế các báo cáo trên giấy cũ hơn bằng các bản ghi kỹ thuật số hữu ích và chính xác hơn. Dữ liệu được trao đổi bằng các tệp XBRL bao gồm sổ cái, chi tiết tài chính và bảng cân đối kế toán. Nó hỗ trợ các thẻ dữ liệu cho phép xử lý dữ liệu từ giai đoạn chuẩn bị cho đến giai đoạn phân tích thông tin kinh doanh các loại. Có thể mở các tệp XBRL bằng phần mềm như Rivet Software Dragon View XBRL Viewer và các API như [Aspose.Finance](https://products.aspose.com/finance/).
 
 ## Định dạng tệp XBRL
 

@@ -20,7 +20,7 @@
 
 ## Mi az XBRL fájl?
 
-Az .xbrl (eXtensible Business Reporting Language) kiterjesztésű fájl egy ingyenesen elérhető és globális keretrendszer az üzleti információk cseréjéhez. Manapság széles körben használják egyik szabványos formátumként, amely a régebbi papíralapú jelentéseket felváltotta hasznosabb és pontosabb digitális nyilvántartásokkal. Az XBRL-fájlok használatával kicserélt adatok főkönyveket, pénzügyi részleteket és mérlegeket tartalmaznak. Támogatja az adatcímkéket, amelyek lehetővé teszik mindenféle üzleti információ adatfeldolgozását az előkészítéstől az elemzési szakaszig. Az XBRL-fájlok olyan szoftverekkel nyithatók meg, mint a Rivet Software Dragon View XBRL Viewer, és olyan API-k segítségével, mint az [Aspose.Finance](https://products.aspose.com/finance).
+Az .xbrl (eXtensible Business Reporting Language) kiterjesztésű fájl egy ingyenesen elérhető és globális keretrendszer az üzleti információk cseréjéhez. Manapság széles körben használják egyik szabványos formátumként, amely a régebbi papíralapú jelentéseket felváltotta hasznosabb és pontosabb digitális nyilvántartásokkal. Az XBRL-fájlok használatával kicserélt adatok főkönyveket, pénzügyi részleteket és mérlegeket tartalmaznak. Támogatja az adatcímkéket, amelyek lehetővé teszik mindenféle üzleti információ adatfeldolgozását az előkészítéstől az elemzési szakaszig. Az XBRL-fájlok olyan szoftverekkel nyithatók meg, mint a Rivet Software Dragon View XBRL Viewer, és olyan API-k segítségével, mint az [Aspose.Finance](https://products.aspose.com/finance/).
 
 ## XBRL fájlformátum
 

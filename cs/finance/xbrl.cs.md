@@ -20,7 +20,7 @@
 
 ## Co je soubor XBRL?
 
-Soubor s příponou .xbrl (eXtensible Business Reporting Language) je volně dostupný a globální rámec pro výměnu obchodních informací. Nyní je široce používán jako jeden ze standardních formátů, který nahradil starší papírové zprávy užitečnějšími a přesnějšími digitálními záznamy. Data vyměňovaná pomocí souborů XBRL zahrnují účetní knihy, finanční podrobnosti a rozvahy. Podporuje datové značky, které umožňují zpracování dat od přípravy až po fázi analýzy obchodních informací všeho druhu. Soubory XBRL lze otevřít pomocí softwaru, jako je Rivet Software Dragon View XBRL Viewer, a rozhraní API jako [Aspose.Finance](https://products.aspose.com/finance).
+Soubor s příponou .xbrl (eXtensible Business Reporting Language) je volně dostupný a globální rámec pro výměnu obchodních informací. Nyní je široce používán jako jeden ze standardních formátů, který nahradil starší papírové zprávy užitečnějšími a přesnějšími digitálními záznamy. Data vyměňovaná pomocí souborů XBRL zahrnují účetní knihy, finanční podrobnosti a rozvahy. Podporuje datové značky, které umožňují zpracování dat od přípravy až po fázi analýzy obchodních informací všeho druhu. Soubory XBRL lze otevřít pomocí softwaru, jako je Rivet Software Dragon View XBRL Viewer, a rozhraní API jako [Aspose.Finance](https://products.aspose.com/finance/).
 
 ## Formát souboru XBRL
 

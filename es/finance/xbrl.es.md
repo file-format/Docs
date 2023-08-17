@@ -20,7 +20,7 @@
 
 ## ¿Qué es un archivo XBRL?
 
-Un archivo con la extensión .xbrl (lenguaje extensible de informes comerciales) es un marco global y disponible gratuitamente para intercambiar información comercial. Ahora se usa ampliamente como uno de los formatos estándar que ha reemplazado a los antiguos informes en papel con registros digitales más útiles y precisos. Los datos intercambiados mediante los archivos XBRL incluyen libros de contabilidad, detalles financieros y balances. Admite etiquetas de datos que permiten el procesamiento de datos desde la preparación hasta la etapa de análisis de información comercial de todo tipo. Los archivos XBRL se pueden abrir con software como Rivet Software Dragon View XBRL Viewer y API como [Aspose.Finance](https://products.aspose.com/finance).
+Un archivo con la extensión .xbrl (lenguaje extensible de informes comerciales) es un marco global y disponible gratuitamente para intercambiar información comercial. Ahora se usa ampliamente como uno de los formatos estándar que ha reemplazado a los antiguos informes en papel con registros digitales más útiles y precisos. Los datos intercambiados mediante los archivos XBRL incluyen libros de contabilidad, detalles financieros y balances. Admite etiquetas de datos que permiten el procesamiento de datos desde la preparación hasta la etapa de análisis de información comercial de todo tipo. Los archivos XBRL se pueden abrir con software como Rivet Software Dragon View XBRL Viewer y API como [Aspose.Finance](https://products.aspose.com/finance/).
 
 ## Formato de archivo XBRL
 

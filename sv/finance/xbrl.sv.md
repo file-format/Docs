@@ -20,7 +20,7 @@
 
 ## Vad är en XBRL fil?
 
-En fil med tillägget .xbrl (eXtensible Business Reporting Language) är ett fritt tillgängligt och globalt ramverk för utbyte av affärsinformation. Det används nu i stor utsträckning som ett av standardformaten som har ersatt de äldre pappersbaserade rapporterna med mer användbara och korrekta digitala register. Data som utbyts med XBRL-filer inkluderar reskontra, finansiella detaljer och balansräkningar. Den stöder datataggar som tillåter databearbetning från förberedelse till analysstadiet av affärsinformation av alla slag. XBRL-filer kan öppnas med programvara som Rivet Software Dragon View XBRL Viewer och API:er som [Aspose.Finance](https://products.aspose.com/finance).
+En fil med tillägget .xbrl (eXtensible Business Reporting Language) är ett fritt tillgängligt och globalt ramverk för utbyte av affärsinformation. Det används nu i stor utsträckning som ett av standardformaten som har ersatt de äldre pappersbaserade rapporterna med mer användbara och korrekta digitala register. Data som utbyts med XBRL-filer inkluderar reskontra, finansiella detaljer och balansräkningar. Den stöder datataggar som tillåter databearbetning från förberedelse till analysstadiet av affärsinformation av alla slag. XBRL-filer kan öppnas med programvara som Rivet Software Dragon View XBRL Viewer och API:er som [Aspose.Finance](https://products.aspose.com/finance/).
 
 ## XBRL filformat
 

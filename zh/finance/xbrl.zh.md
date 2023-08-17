@@ -20,7 +20,7 @@
 
 ## 什么是一 .xbrl 文件？
 
-扩展名为 .xbrl（可扩展业务报告语言）的文件是用于交换业务信息的免费全球框架。它现在被广泛用作标准格式之一，用更有用和更准确的数字记录取代了旧的纸质报告。使用 XBRL 文件交换的数据包括分类账、财务细节和资产负债表。它支持数据标签，允许对各种业务信息从准备到分析阶段进行数据处理。 XBRL 文件可以使用 Rivet Software Dragon View XBRL Viewer 等软件和 [Aspose.Finance](https://products.aspose.com/finance) 等 API 打开。
+扩展名为 .xbrl（可扩展业务报告语言）的文件是用于交换业务信息的免费全球框架。它现在被广泛用作标准格式之一，用更有用和更准确的数字记录取代了旧的纸质报告。使用 XBRL 文件交换的数据包括分类账、财务细节和资产负债表。它支持数据标签，允许对各种业务信息从准备到分析阶段进行数据处理。 XBRL 文件可以使用 Rivet Software Dragon View XBRL Viewer 等软件和 [Aspose.Finance](https://products.aspose.com/finance/) 等 API 打开。
 
 ## XBRL 文件格式
 

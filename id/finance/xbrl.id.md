@@ -20,7 +20,7 @@
 
 ## Apa itu file XBRL?
 
-File dengan ekstensi .xbrl (eXtensible Business Reporting Language) adalah kerangka kerja global yang tersedia secara gratis untuk bertukar informasi bisnis. Sekarang banyak digunakan sebagai salah satu format standar yang telah menggantikan laporan berbasis kertas yang lebih tua dengan catatan digital yang lebih berguna dan akurat. Pertukaran data menggunakan file XBRL termasuk buku besar, detail keuangan, dan neraca. Ini mendukung tag data yang memungkinkan pemrosesan data dari persiapan hingga tahap analisis informasi bisnis dari semua jenis. File XBRL dapat dibuka menggunakan software seperti Rivet Software Dragon View XBRL Viewer dan API seperti [Aspose.Finance](https://products.aspose.com/finance).
+File dengan ekstensi .xbrl (eXtensible Business Reporting Language) adalah kerangka kerja global yang tersedia secara gratis untuk bertukar informasi bisnis. Sekarang banyak digunakan sebagai salah satu format standar yang telah menggantikan laporan berbasis kertas yang lebih tua dengan catatan digital yang lebih berguna dan akurat. Pertukaran data menggunakan file XBRL termasuk buku besar, detail keuangan, dan neraca. Ini mendukung tag data yang memungkinkan pemrosesan data dari persiapan hingga tahap analisis informasi bisnis dari semua jenis. File XBRL dapat dibuka menggunakan software seperti Rivet Software Dragon View XBRL Viewer dan API seperti [Aspose.Finance](https://products.aspose.com/finance/).
 
 ## Format File XBRL
 

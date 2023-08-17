@@ -20,7 +20,7 @@
 
 ## Ce este un fișier XBRL?
 
-Un fișier cu extensia .xbrl (eXtensible Business Reporting Language) este un cadru global disponibil gratuit pentru schimbul de informații despre afaceri. Acum este utilizat pe scară largă ca unul dintre formatele standard care a înlocuit rapoartele mai vechi pe hârtie cu înregistrări digitale mai utile și mai precise. Datele schimbate folosind fișierele XBRL includ registre, detalii financiare și bilanţuri. Suportă etichete de date care permit prelucrarea datelor de la pregătire până la etapa de analiză a informațiilor de afaceri de toate tipurile. Fișierele XBRL pot fi deschise folosind software precum Rivet Software Dragon View XBRL Viewer și API-uri precum [Aspose.Finance](https://products.aspose.com/finance).
+Un fișier cu extensia .xbrl (eXtensible Business Reporting Language) este un cadru global disponibil gratuit pentru schimbul de informații despre afaceri. Acum este utilizat pe scară largă ca unul dintre formatele standard care a înlocuit rapoartele mai vechi pe hârtie cu înregistrări digitale mai utile și mai precise. Datele schimbate folosind fișierele XBRL includ registre, detalii financiare și bilanţuri. Suportă etichete de date care permit prelucrarea datelor de la pregătire până la etapa de analiză a informațiilor de afaceri de toate tipurile. Fișierele XBRL pot fi deschise folosind software precum Rivet Software Dragon View XBRL Viewer și API-uri precum [Aspose.Finance](https://products.aspose.com/finance/).
 
 ## Format de fișier XBRL
 

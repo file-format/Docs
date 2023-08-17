@@ -20,7 +20,7 @@
 
 ## Wat is een XBRL-bestand?
 
-Een bestand met de extensie .xbrl (eXtensible Business Reporting Language) is een vrij beschikbaar en wereldwijd raamwerk voor het uitwisselen van bedrijfsinformatie. Het wordt nu veel gebruikt als een van de standaardindelingen die de oudere papieren rapporten heeft vervangen door nuttigere en nauwkeurigere digitale documenten. Gegevens die worden uitgewisseld met behulp van de XBRL-bestanden omvatten grootboeken, financiële gegevens en balansen. Het ondersteunt datatags die gegevensverwerking mogelijk maken van de voorbereiding tot de analysefase van allerlei soorten bedrijfsinformatie. XBRL-bestanden kunnen worden geopend met software zoals Rivet Software Dragon View XBRL Viewer en API's zoals [Aspose.Finance](https://products.aspose.com/finance).
+Een bestand met de extensie .xbrl (eXtensible Business Reporting Language) is een vrij beschikbaar en wereldwijd raamwerk voor het uitwisselen van bedrijfsinformatie. Het wordt nu veel gebruikt als een van de standaardindelingen die de oudere papieren rapporten heeft vervangen door nuttigere en nauwkeurigere digitale documenten. Gegevens die worden uitgewisseld met behulp van de XBRL-bestanden omvatten grootboeken, financiële gegevens en balansen. Het ondersteunt datatags die gegevensverwerking mogelijk maken van de voorbereiding tot de analysefase van allerlei soorten bedrijfsinformatie. XBRL-bestanden kunnen worden geopend met software zoals Rivet Software Dragon View XBRL Viewer en API's zoals [Aspose.Finance](https://products.aspose.com/finance/).
 
 ## XBRL-bestandsindeling
 

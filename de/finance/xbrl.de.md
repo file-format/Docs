@@ -20,7 +20,7 @@
 
 ## Was ist eine XBRL-Datei?
 
-Eine Datei mit der Erweiterung .xbrl (eXtensible Business Reporting Language) ist ein frei verfügbarer und globaler Rahmen für den Austausch von Geschäftsinformationen. Es ist heute weit verbreitet als eines der Standardformate, das die älteren papierbasierten Berichte durch nützlichere und genauere digitale Aufzeichnungen ersetzt hat. Zu den über die XBRL-Dateien ausgetauschten Daten gehören Hauptbücher, Finanzdetails und Bilanzen. Es unterstützt Daten-Tags, die eine Datenverarbeitung von der Vorbereitung bis zur Analyse von Geschäftsinformationen aller Art ermöglichen. XBRL-Dateien können mit Software wie Rivet Software Dragon View XBRL Viewer und APIs wie [Aspose.Finance](https://products.aspose.com/finance) geöffnet werden.
+Eine Datei mit der Erweiterung .xbrl (eXtensible Business Reporting Language) ist ein frei verfügbarer und globaler Rahmen für den Austausch von Geschäftsinformationen. Es ist heute weit verbreitet als eines der Standardformate, das die älteren papierbasierten Berichte durch nützlichere und genauere digitale Aufzeichnungen ersetzt hat. Zu den über die XBRL-Dateien ausgetauschten Daten gehören Hauptbücher, Finanzdetails und Bilanzen. Es unterstützt Daten-Tags, die eine Datenverarbeitung von der Vorbereitung bis zur Analyse von Geschäftsinformationen aller Art ermöglichen. XBRL-Dateien können mit Software wie Rivet Software Dragon View XBRL Viewer und APIs wie [Aspose.Finance](https://products.aspose.com/finance/) geöffnet werden.
 
 ## XBRL-Dateiformat
 

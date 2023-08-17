@@ -20,7 +20,7 @@
 
 ## XBRL dosyası nedir?
 
-.xbrl (eXtensible Business Reporting Language) uzantılı bir dosya, işletme bilgilerini değiş tokuş etmek için ücretsiz olarak kullanılabilen ve küresel bir çerçevedir. Artık, eski kağıt tabanlı raporları daha kullanışlı ve doğru dijital kayıtlarla değiştiren standart biçimlerden biri olarak yaygın şekilde kullanılmaktadır. XBRL dosyaları kullanılarak değiş tokuş edilen veriler, defterleri, finansal ayrıntıları ve bilançoları içerir. Her türlü iş bilgisinin hazırlanmasından analiz aşamasına kadar veri işlemeye izin veren veri etiketlerini destekler. XBRL dosyaları, Rivet Software Dragon View XBRL Viewer gibi yazılımlar ve [Aspose.Finance](https://products.aspose.com/finance) gibi API'ler kullanılarak açılabilir.
+.xbrl (eXtensible Business Reporting Language) uzantılı bir dosya, işletme bilgilerini değiş tokuş etmek için ücretsiz olarak kullanılabilen ve küresel bir çerçevedir. Artık, eski kağıt tabanlı raporları daha kullanışlı ve doğru dijital kayıtlarla değiştiren standart biçimlerden biri olarak yaygın şekilde kullanılmaktadır. XBRL dosyaları kullanılarak değiş tokuş edilen veriler, defterleri, finansal ayrıntıları ve bilançoları içerir. Her türlü iş bilgisinin hazırlanmasından analiz aşamasına kadar veri işlemeye izin veren veri etiketlerini destekler. XBRL dosyaları, Rivet Software Dragon View XBRL Viewer gibi yazılımlar ve [Aspose.Finance](https://products.aspose.com/finance/) gibi API'ler kullanılarak açılabilir.
 
 ## XBRL Dosya Biçimi
 

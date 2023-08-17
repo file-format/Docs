@@ -20,7 +20,7 @@
 
 ## .XBRL ファイルとは何ですか?
 
-拡張子が .xbrl (eXtensible Business Reporting Language) のファイルは、ビジネス情報を交換するための自由に利用できるグローバルなフレームワークです。現在では、古い紙ベースのレポートをより有用で正確なデジタル記録に置き換えた標準形式の 1 つとして広く使用されています。 XBRL ファイルを使用して交換されるデータには、元帳、財務の詳細、貸借対照表が含まれます。あらゆる業務情報の準備から分析段階までのデータ処理を可能にするデータタグに対応しています。 XBRL ファイルは、Rivet Software Dragon View XBRL Viewer などのソフトウェアと [Aspose.Finance](https://products.aspose.com/finance) などの API を使用して開くことができます。
+拡張子が .xbrl (eXtensible Business Reporting Language) のファイルは、ビジネス情報を交換するための自由に利用できるグローバルなフレームワークです。現在では、古い紙ベースのレポートをより有用で正確なデジタル記録に置き換えた標準形式の 1 つとして広く使用されています。 XBRL ファイルを使用して交換されるデータには、元帳、財務の詳細、貸借対照表が含まれます。あらゆる業務情報の準備から分析段階までのデータ処理を可能にするデータタグに対応しています。 XBRL ファイルは、Rivet Software Dragon View XBRL Viewer などのソフトウェアと [Aspose.Finance](https://products.aspose.com/finance/) などの API を使用して開くことができます。
 
 ## XBRL ファイル形式
 

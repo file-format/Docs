@@ -20,7 +20,7 @@
 
 ## Czym jest plik XBRL?
 
-Plik z rozszerzeniem .xbrl (eXtensible Business Reporting Language) to swobodnie dostępna i globalna platforma wymiany informacji biznesowych. Jest obecnie szeroko stosowany jako jeden ze standardów, który zastąpił starsze raporty papierowe bardziej użytecznymi i dokładnymi zapisami cyfrowymi. Dane wymieniane za pomocą plików XBRL obejmują księgi rachunkowe, dane finansowe i bilanse. Obsługuje znaczniki danych, które umożliwiają przetwarzanie danych od przygotowania do etapu analizy wszelkiego rodzaju informacji biznesowych. Pliki XBRL można otwierać za pomocą oprogramowania, takiego jak Rivet Software Dragon View XBRL Viewer i interfejsów API, takich jak [Aspose.Finance](https://products.aspose.com/finance).
+Plik z rozszerzeniem .xbrl (eXtensible Business Reporting Language) to swobodnie dostępna i globalna platforma wymiany informacji biznesowych. Jest obecnie szeroko stosowany jako jeden ze standardów, który zastąpił starsze raporty papierowe bardziej użytecznymi i dokładnymi zapisami cyfrowymi. Dane wymieniane za pomocą plików XBRL obejmują księgi rachunkowe, dane finansowe i bilanse. Obsługuje znaczniki danych, które umożliwiają przetwarzanie danych od przygotowania do etapu analizy wszelkiego rodzaju informacji biznesowych. Pliki XBRL można otwierać za pomocą oprogramowania, takiego jak Rivet Software Dragon View XBRL Viewer i interfejsów API, takich jak [Aspose.Finance](https://products.aspose.com/finance/).
 
 ## Format pliku XBRL
 
