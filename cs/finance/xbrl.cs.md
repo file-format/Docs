@@ -32,7 +32,7 @@ Kompletní informace o [značkách XBRL 2.1](https://www.xbrl.org/Specification/
 
 **`Instance XBRL`** – Instance XBRL začíná znakem<xbrl> kořenový prvek. Velký dokument XML může obsahovat více než jednu instanci XBRL.
 
-**`XBRL Taxonomy`** – The [XBRL Taxonomy](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31 +corrected-errata-2013-02-20.html#_5) je definován jako struktura XML schématu a sada přímo odkazovaných prvků externích odkazů. Škálovatelné schéma taxonomie zobrazující odkazy na báze odkazů je následující.
+**`XBRL Taxonomy`** – The [XBRL Taxonomy](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5) je definován jako struktura XML schématu a sada přímo odkazovaných prvků externích odkazů. Škálovatelné schéma taxonomie zobrazující odkazy na báze odkazů je následující.
 
 ```
 <schema

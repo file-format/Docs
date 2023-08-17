@@ -32,7 +32,7 @@ Pełne informacje o [znacznikach XBRL 2.1](https://www.xbrl.org/Specification/XB
 
 **`Instancja XBRL`** — Instancja XBRL zaczyna się od<xbrl> element główny. Duży dokument XML może zawierać więcej niż jedną osadzoną w nim instancję XBRL.
 
-**`Taksonomia XBRL`** — [Taksonomia XBRL](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31 +corrected-errata-2013-02-20.html#_5) jest zdefiniowana jako struktura schematu XML i zestaw bezpośrednio przywoływanych elementów linków zewnętrznych. Skalowalny schemat taksonomii przedstawiający odniesienia do bazy łączy jest następujący.
+**`Taksonomia XBRL`** — [Taksonomia XBRL](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5) jest zdefiniowana jako struktura schematu XML i zestaw bezpośrednio przywoływanych elementów linków zewnętrznych. Skalowalny schemat taksonomii przedstawiający odniesienia do bazy łączy jest następujący.
 
 ```
 <schema

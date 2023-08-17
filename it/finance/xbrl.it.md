@@ -32,7 +32,7 @@ Informazioni complete sui [tag XBRL 2.1](https://www.xbrl.org/Specification/XBRL
 
 **`Istanza XBRL`** - L'istanza XBRL inizia con il<xbrl> elemento radice. Un documento XML di grandi dimensioni può contenere più di un'istanza XBRL incorporata.
 
-**`Tassonomia XBRL`** - La [Tassonomia XBRL](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31 +corrected-errata-2013-02-20.html#_5) è definito come una struttura di schema XML e un insieme di elementi di collegamenti esterni referenziati direttamente. Uno schema di tassonomia scalabile che mostra i riferimenti di linkbase è il seguente.
+**`Tassonomia XBRL`** - La [Tassonomia XBRL](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5) è definito come una struttura di schema XML e un insieme di elementi di collegamenti esterni referenziati direttamente. Uno schema di tassonomia scalabile che mostra i riferimenti di linkbase è il seguente.
 
 ```
 <schema

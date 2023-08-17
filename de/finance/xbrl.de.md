@@ -32,7 +32,7 @@ Vollständige Informationen zu den [XBRL 2.1-Tags](https://www.xbrl.org/Specific
 
 **`XBRL-Instanz`** – Die XBRL-Instanz beginnt mit dem<xbrl> Wurzelelement. Ein großes XML-Dokument kann mehr als eine darin eingebettete XBRL-Instanz enthalten.
 
-**`XBRL-Taxonomie`** - Die [XBRL-Taxonomie](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31 +corrected-errata-2013-02-20.html#_5) ist als XML-Schemastruktur und Satz von direkt referenzierten externen Links-Elementen definiert. Ein skalierbares Taxonomieschema, das die Linkbase-Referenzen zeigt, sieht wie folgt aus.
+**`XBRL-Taxonomie`** - Die [XBRL-Taxonomie](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5) ist als XML-Schemastruktur und Satz von direkt referenzierten externen Links-Elementen definiert. Ein skalierbares Taxonomieschema, das die Linkbase-Referenzen zeigt, sieht wie folgt aus.
 
 ```
 <schema

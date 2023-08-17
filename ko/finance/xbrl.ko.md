@@ -32,7 +32,7 @@ XBRL은 전 세계적으로 널리 사용되는 디지털 비즈니스 보고를
 
 **`XBRL 인스턴스`** - XBRL 인스턴스는<xbrl> 루트 요소. 큰 XML 문서에는 하나 이상의 XBRL 인스턴스가 포함될 수 있습니다.
 
-**`XBRL 분류법`** - [XBRL 분류법](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31) +corrected-errata-2013-02-20.html#_5)는 XML 스키마 구조 및 직접 참조되는 외부 링크 요소 집합으로 정의됩니다. 링크베이스 참조를 보여주는 확장 가능한 분류 스키마는 다음과 같습니다.
+**`XBRL 분류법`** - [XBRL 분류법](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5) 는 XML 스키마 구조 및 직접 참조되는 외부 링크 요소 집합으로 정의됩니다. 링크베이스 참조를 보여주는 확장 가능한 분류 스키마는 다음과 같습니다.
 
 ```
 <schema

@@ -32,7 +32,7 @@ XBRL, dünya çapında yaygın olarak kullanılan, dijital iş raporlaması içi
 
 **`XBRL Örneği`** - XBRL örneği,<xbrl> kök eleman. Büyük bir XML belgesi, içine katıştırılmış birden fazla XBRL örneği içerebilir.
 
-**`XBRL Taksonomisi`** - [XBRL Taksonomisi](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31 +corrected-errata-2013-02-20.html#_5), XML şema yapıları ve doğrudan başvurulan dış bağlantılar öğesi kümesi olarak tanımlanır. Bağlantı tabanı referanslarını gösteren ölçeklenebilir bir taksonomi şeması aşağıdaki gibidir.
+**`XBRL Taksonomisi`** - [XBRL Taksonomisi](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5), XML şema yapıları ve doğrudan başvurulan dış bağlantılar öğesi kümesi olarak tanımlanır. Bağlantı tabanı referanslarını gösteren ölçeklenebilir bir taksonomi şeması aşağıdaki gibidir.
 
 ```
 <schema

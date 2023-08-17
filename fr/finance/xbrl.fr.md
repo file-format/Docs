@@ -32,7 +32,7 @@ Informations complètes sur les [balises XBRL 2.1](https://www.xbrl.org/Specific
 
 **`Instance XBRL`** - L'instance XBRL commence par le<xbrl> élément racine. Un document XML volumineux peut contenir plusieurs instances XBRL intégrées.
 
-**`Taxonomie XBRL`** - La [taxonomie XBRL](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31 +corrected-errata-2013-02-20.html#_5) est défini comme une structure de schéma XML et un ensemble d'éléments de liens externes directement référencés. Un schéma de taxonomie évolutif montrant les références de la base de liens est le suivant.
+**`Taxonomie XBRL`** - La [taxonomie XBRL](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5) est défini comme une structure de schéma XML et un ensemble d'éléments de liens externes directement référencés. Un schéma de taxonomie évolutif montrant les références de la base de liens est le suivant.
 
 ```
 <schema

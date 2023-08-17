@@ -32,7 +32,7 @@ Teljes információ az [XBRL 2.1 címkékről](https://www.xbrl.org/Specificatio
 
 **`XBRL-példány`** – Az XBRL-példány a következővel kezdődik<xbrl> gyökérelem. Egy nagy XML-dokumentum egynél több XBRL-példányt is tartalmazhat beágyazva.
 
-**`XBRL taxonómia`** – Az [XBRL taxonómia](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31 A +corrected-errata-2013-02-20.html#_5) XML-sémaszerkezetként és közvetlenül hivatkozott külső hivatkozáselemek halmazaként van definiálva. A linkbázis hivatkozásokat bemutató méretezhető taxonómiai séma a következő.
+**`XBRL taxonómia`** – Az [XBRL taxonómia](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5) XML-sémaszerkezetként és közvetlenül hivatkozott külső hivatkozáselemek halmazaként van definiálva. A linkbázis hivatkozásokat bemutató méretezhető taxonómiai séma a következő.
 
 ```
 <schema

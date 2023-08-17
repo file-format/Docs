@@ -32,7 +32,7 @@ Komplett information om [XBRL 2.1-taggarna](https://www.xbrl.org/Specification/X
 
 **`XBRL Instance`** - XBRL-instansen börjar med<xbrl> rotelement. Ett stort XML-dokument kan innehålla mer än en XBRL-instans inbäddad i det.
 
-**`XBRL Taxonomy`** - [XBRL Taxonomy](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31 +corrected-errata-2013-02-20.html#_5) definieras som ett XML-schemastrukturer och en uppsättning av direkt refererade externa länkelement. Ett skalbart taxonomischema som visar länkbasreferenserna är som följer.
+**`XBRL Taxonomy`** - [XBRL Taxonomy](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5) definieras som ett XML-schemastrukturer och en uppsättning av direkt refererade externa länkelement. Ett skalbart taxonomischema som visar länkbasreferenserna är som följer.
 
 ```
 <schema

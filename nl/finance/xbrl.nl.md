@@ -32,7 +32,7 @@ Volledige informatie over de [XBRL 2.1-tags](https://www.xbrl.org/Specification/
 
 **`XBRL-instantie`** - De XBRL-instantie begint met de<xbrl> wortelelement. Een groot XML-document kan meer dan één ingesloten XBRL-instantie bevatten.
 
-**`XBRL-taxonomie`** - De [XBRL-taxonomie](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31 +corrected-errata-2013-02-20.html#_5) wordt gedefinieerd als een XML-schemastructuren en een set van direct verwezen externe links-elementen. Een schaalbaar taxonomieschema met de linkbase-referenties is als volgt.
+**`XBRL-taxonomie`** - De [XBRL-taxonomie](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5) wordt gedefinieerd als een XML-schemastructuren en een set van direct verwezen externe links-elementen. Een schaalbaar taxonomieschema met de linkbase-referenties is als volgt.
 
 ```
 <schema

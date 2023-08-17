@@ -32,7 +32,7 @@ Informații complete despre [etichetele XBRL 2.1](https://www.xbrl.org/Specifica
 
 **`XBRL Instance`** - Instanța XBRL începe cu<xbrl> element rădăcină. Un document XML mare poate conține mai mult de o instanță XBRL încorporată în el.
 
-**`Taxonomia XBRL`** - [Taxonomia XBRL](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31 +corrected-errata-2013-02-20.html#_5) este definit ca o schemă XML și un set de elemente de link-uri externe la care se face referire directă. O schemă de taxonomie scalabilă care arată referințele la baza de linkuri este următoarea.
+**`Taxonomia XBRL`** - [Taxonomia XBRL](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5) este definit ca o schemă XML și un set de elemente de link-uri externe la care se face referire directă. O schemă de taxonomie scalabilă care arată referințele la baza de linkuri este următoarea.
 
 ```
 <schema

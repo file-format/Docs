@@ -32,7 +32,7 @@ Informasi lengkap tentang [XBRL 2.1 tag](https://www.xbrl.org/Specification/XBRL
 
 **`XBRL Instance`** - Instance XBRL diawali dengan<xbrl> elemen akar. Dokumen XML yang besar dapat berisi lebih dari satu contoh XBRL yang disematkan di dalamnya.
 
-**`Taksonomi XBRL`** - [Taksonomi XBRL](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31 +corrected-errata-2013-02-20.html#_5) didefinisikan sebagai struktur skema XML dan kumpulan elemen tautan eksternal yang dirujuk langsung. Skema taksonomi terukur yang menunjukkan referensi linkbase adalah sebagai berikut.
+**`Taksonomi XBRL`** - [Taksonomi XBRL](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5) didefinisikan sebagai struktur skema XML dan kumpulan elemen tautan eksternal yang dirujuk langsung. Skema taksonomi terukur yang menunjukkan referensi linkbase adalah sebagai berikut.
 
 ```
 <schema

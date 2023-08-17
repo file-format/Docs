@@ -32,7 +32,7 @@ XBRL 是一种在全球范围内广泛使用的数字业务报告的开放国际
 
 **`XBRL 实例`** - XBRL 实例以<xbrl>根元素。一个大型 XML 文档可以包含多个嵌入其中的 XBRL 实例。
 
-**`XBRL 分类法`** - [XBRL 分类法](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31 +corrected-errata-2013-02-20.html#_5) 被定义为一个 XML 模式结构和一组直接引用的外部链接元素。显示链接库引用的可扩展分类模式如下。
+**`XBRL 分类法`** - [XBRL 分类法](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5) 被定义为一个 XML 模式结构和一组直接引用的外部链接元素。显示链接库引用的可扩展分类模式如下。
 
 ```
 <schema

@@ -32,7 +32,7 @@ Informações completas sobre as [tags XBRL 2.1](https://www.xbrl.org/Specificat
 
 **`XBRL Instance`** - A instância XBRL começa com o<xbrl> elemento raiz. Um documento XML grande pode conter mais de uma instância XBRL incorporada nele.
 
-**`Taxonomia XBRL`** - A [Taxonomia XBRL](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31 +corrected-errata-2013-02-20.html#_5) é definido como estruturas de esquema XML e conjunto de elementos de links externos diretamente referenciados. Um esquema de taxonomia escalável mostrando as referências do linkbase é o seguinte.
+**`Taxonomia XBRL`** - A [Taxonomia XBRL](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5) é definido como estruturas de esquema XML e conjunto de elementos de links externos diretamente referenciados. Um esquema de taxonomia escalável mostrando as referências do linkbase é o seguinte.
 
 ```
 <schema
