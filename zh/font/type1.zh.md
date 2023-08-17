@@ -47,5 +47,5 @@ Type 1 字体数据由 windows 中的两个独立文件组成：
 ## 参考
 * [Type 1 字体](https://www.prepressure.com/fonts/basics/type1)
 * [PostScript Type 1 字体支持结束](https://helpx.adobe.com/fonts/kb/postscript-type-1-fonts-end-of-support.html)
-* [PostScript 字体（维基百科）]（https://en.wikipedia.org/wiki/PostScript_fonts）
+* [PostScript 字体（维基百科）](https://en.wikipedia.org/wiki/PostScript_fonts)
 
