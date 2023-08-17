@@ -35,7 +35,7 @@ Wenn Sie die AVA-Datei nicht öffnen und ausführen können; Das bedeutet nicht,
 
 ## Verweise
 
-* [Iraner genießen persische Literatur auf E-Book-Reader](https://www.teherantimes.com/news/423108/Iranians-enjoy-Persian-literature-on-e-book-reader)
+* [Iraner genießen persische Literatur auf E-Book-Reader](https://www.tehrantimes.com/news/423108/Iranians-enjoy-Persian-literature-on-e-book-reader)
 * [eBook-Lesen im Iran einfacher und billiger gemacht](https://financialtribune.com/articles/sci-tech/80138/ebook-reading-made-easier-cheaper-in-iran)
 
 
