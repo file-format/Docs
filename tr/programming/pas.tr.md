@@ -65,6 +65,6 @@ unit Unit1;
 
 ## Referanslar
 
-* [Delphi Projesi ve Birim Kaynak Dosyalarını Anlama](https://www.thinktco.com/understanding-delphi-project-files-dpr-1057652)
+* [Delphi Projesi ve Birim Kaynak Dosyalarını Anlama](https://www.thoughtco.com/understanding-delphi-project-files-dpr-1057652)
 * [İlk Delphi programınızı yazmak](http://www.delphibasics.co.uk/Article.php?Name=FirstPgm)
 
