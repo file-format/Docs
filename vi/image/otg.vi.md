@@ -121,6 +121,6 @@ Một khung được chứa trong một tài liệu như hình bên dưới.
 ```
 
 ## Người giới thiệu ##
-* [Định dạng Tài liệu Mở OASIS dành cho Ứng dụng Office](https://www.oasis-open.org/committees/tc_home.php?wg_abrev=office)
+* [Định dạng Tài liệu Mở OASIS dành cho Ứng dụng Office](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
 * [Định dạng Tài liệu Mở - Wikipedia](https://en.wikipedia.org/wiki/OpenDocument)
 

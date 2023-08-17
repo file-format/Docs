@@ -121,6 +121,6 @@
 ```
 
 ## อ้างอิง ##
-* [รูปแบบเอกสาร OASIS Open สำหรับแอปพลิเคชัน Office](https://www.oasis-open.org/ คณะกรรมการ/tc_home.php?wg_abbrev=office)
+* [รูปแบบเอกสาร OASIS Open สำหรับแอปพลิเคชัน Office](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
 * [รูปแบบ OpenDocument - Wikipedia](https://en.wikipedia.org/wiki/OpenDocument)
 
