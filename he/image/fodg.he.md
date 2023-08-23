@@ -19,7 +19,7 @@
 
 ## מהו קובץ FODG?
 
-קובץ עם סיומת .fodg הוא פורמט קובץ Apache OpenOffice Drawing לאחסון רכיבי ציור. הוא מבוסס על מפרטי פורמט הקובץ המתוארים על ידי Advancement of Structural Information Standards (OASIS). פורמט קובץ דומה נוסף עבור גרפיקה של OpenOffice הוא [ODG](/he/image/odg/) המאחסן רכיבי ציור כתמונה וקטורית. ניתן לפתוח קבצי FODG עם OpenOffice כמו גם עם LibreOffice. פורמטים אחרים של קבצים הנתמכים על ידי OpenOffice, למשל, כוללים [ODT](/he/עיבוד תמלילים/odt/), ODF, [ODP](/he/presentation/odp/) ו-[ODS](/he/spreadsheet/ods/).
+קובץ עם סיומת .fodg הוא פורמט קובץ Apache OpenOffice Drawing לאחסון רכיבי ציור. הוא מבוסס על מפרטי פורמט הקובץ המתוארים על ידי Advancement of Structural Information Standards (OASIS). פורמט קובץ דומה נוסף עבור גרפיקה של OpenOffice הוא [ODG](/he/image/odg/) המאחסן רכיבי ציור כתמונה וקטורית. ניתן לפתוח קבצי FODG עם OpenOffice כמו גם עם LibreOffice. פורמטים אחרים של קבצים הנתמכים על ידי OpenOffice, למשל, כוללים [ODT](/he/word-processing/odt/), ODF, [ODP](/he/presentation/odp/) ו-[ODS](/he/spreadsheet/ods/).
 
 ## פורמט קובץ FODG
 
