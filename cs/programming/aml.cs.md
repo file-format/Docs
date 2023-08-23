@@ -52,8 +52,7 @@ Soubory MAML lze vytvářet pomocí Sandcastle, sady schémat .XSL a spustiteln�
 
 ## Reference
 
-* [Vytvořte pomocí PlatyPS nápovědu založenou na XML
-](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
+* [Vytvořte pomocí PlatyPS nápovědu založenou na XML](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
 * [Microsoft Assistance Markup Language](https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
 
 # AML - Arc Macro Language File

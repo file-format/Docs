@@ -52,8 +52,7 @@ MAML ファイルは、.XSL スキーマとプログラム実行可能ファイ�
 
 ## 参考文献
 
-* [PlatyPS を使用して XML ベースのヘルプを作成する
-](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
+* [PlatyPS を使用して XML ベースのヘルプを作成する](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
 * [マイクロソフト支援マークアップ言語](https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
 
 # AML - Arc マクロ言語ファイル
