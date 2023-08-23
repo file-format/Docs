@@ -27,5 +27,5 @@ DZ は独自のファイル形式であり、その技術的な詳細は利用�
 
 ## 参考文献
 
-* [Dzip](http://speeddemoarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 
