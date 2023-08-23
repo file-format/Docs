@@ -23,7 +23,7 @@ GSM to rozszerzenie pliku powiązane z Global System for Mobile Audio Format Fil
 
 Plik GSM jest kodowany przy użyciu stratnego kodeka kompresji dźwięku CBR (Constant bitrate). Częstotliwość próbkowania w pliku audio GSM wynosi 8000 próbek na sekundę, podczas gdy szybkość transmisji danych wynosi około 13 kb/s. Szybkość transmisji w plikach GSM zapewnia jakość podczas nagrywania głosu. Ponadto format pliku GSM jest również znany jako globalny standardowy format używany w telefonach komórkowych, a pliki WAV można również łatwo zakodować przy użyciu formatu pliku GSM. Wszelkie problemy z plikiem GSM użytkownik może łatwo rozwiązać samodzielnie, bez konieczności wizyty u specjalisty.
 
-Użytkownicy mogą również konwertować pliki GSM do formatów [MP3](/pl/audio/mp3/) i [MP4](/pl/audio/mp4/).
+Użytkownicy mogą również konwertować pliki GSM do formatów [MP3](/pl/audio/mp3/) i [MP4](/pl/video/mp4/).
 
 ## Krótka historia formatu plików GSM
 

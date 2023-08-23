@@ -23,7 +23,7 @@ GSM este o extensie de fișier care este asociată cu Global System for Mobile A
 
 Un fișier GSM este codificat cu un codec de compresie a sunetului CBR (constant bitrate) cu pierderi. Frecvența de eșantionare într-un fișier audio GSM este de 8000 de mostre/secundă, în timp ce rata de date este de aproximativ 13 kbps. Rata de biți din fișierele GSM asigură calitatea în timpul înregistrării vocii. Mai mult, formatul de fișier GSM este cunoscut și ca formatul standard global pentru a fi utilizat în telefoanele mobile și fișierele WAV pot fi, de asemenea, codificate cu ușurință folosind un format de fișier GSM. Orice problemă cu un fișier GSM poate fi rezolvată cu ușurință de către utilizator însuși, fără a merge la un expert.
 
-De asemenea, utilizatorii pot converti fișierele GSM în formatele [MP3](/ro/audio/mp3/) și [MP4](/ro/audio/mp4/).
+De asemenea, utilizatorii pot converti fișierele GSM în formatele [MP3](/ro/audio/mp3/) și [MP4](/ro/video/mp4/).
 
 ## Scurt istoric al formatului de fișier GSM
 

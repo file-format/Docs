@@ -23,7 +23,7 @@ A GSM egy fájlkiterjesztés, amely a Global System for Mobile Audio Format File
 
 A GSM-fájlokat veszteséges CBR (állandó bitrátájú) hangtömörítési kodekkel kódolják. A GSM audio fájl mintavételi sebessége 8000 minta/másodperc, míg az adatátviteli sebesség körülbelül 13 kbps. A GSM-fájlokon belüli bitsebesség garantálja a hangfelvétel minőségét. Ezenkívül a GSM fájlformátumot a mobiltelefonokban használatos globális szabványos formátumnak is nevezik, és a WAV fájlok is könnyen kódolhatók GSM fájlformátum használatával. A GSM-fájlokkal kapcsolatos problémákat a felhasználó könnyedén megoldhatja anélkül, hogy szakemberhez fordulna.
 
-A felhasználók a GSM fájlokat [MP3](/hu/audio/mp3/) és [MP4](/hu/audio/mp4/) formátumba is konvertálhatják.
+A felhasználók a GSM fájlokat [MP3](/hu/audio/mp3/) és [MP4](/hu/video/mp4/) formátumba is konvertálhatják.
 
 ## A GSM fájlformátum rövid története
 

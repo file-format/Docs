@@ -23,7 +23,7 @@ GSM is een bestandsextensie die is gekoppeld aan Global System for Mobile Audio 
 
 Een GSM-bestand is gecodeerd met een lossy CBR (Constant bitrate) geluidscompressiecodec. De samplesnelheid in een GSM-audiobestand is 8000 samples/seconde, terwijl de datasnelheid ongeveer 13 kbps is. De bitrate binnen de GSM-bestanden zorgt voor kwaliteit tijdens spraakopname. Bovendien staat het GSM-bestandsformaat ook bekend als het wereldwijde standaardformaat voor gebruik in mobiele telefoons en kunnen WAV-bestanden ook eenvoudig worden gecodeerd met behulp van een GSM-bestandsformaat. Eventuele problemen met een GSM-bestand kunnen door de gebruiker zelf eenvoudig worden opgelost zonder tussenkomst van een deskundige.
 
-Gebruikers kunnen GSM-bestanden ook converteren naar de indelingen [MP3](/nl/audio/mp3/) en [MP4](/nl/audio/mp4/).
+Gebruikers kunnen GSM-bestanden ook converteren naar de indelingen [MP3](/nl/audio/mp3/) en [MP4](/nl/video/mp4/).
 
 ## Korte geschiedenis van het GSM-bestandsformaat
 
