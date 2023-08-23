@@ -23,7 +23,7 @@ Bestanden met de extensie POTM zijn Microsoft PowerPoint-sjabloonbestanden met o
 
 ## Specificaties bestandsindeling ##
 
-Het POTM-bestandsformaat is gebaseerd op Office OpenXML-specificaties en lijkt op de structuur van het [PPTX](/nl/presentatie/pptx/)-bestand dat een gecomprimeerd [ZIP](/nl/compression/zip/)-archief is.
+Het POTM-bestandsformaat is gebaseerd op Office OpenXML-specificaties en lijkt op de structuur van het [PPTX](/nl/presentation/pptx/)-bestand dat een gecomprimeerd [ZIP](/nl/compression/zip/)-archief is.
 
 Dia's in een POTM-bestand kunnen tekst, afbeeldingen, video's, afbeeldingen en andere objecten bevatten die vrij op de pagina kunnen worden gerangschikt. POTM-sjablonen worden vervolgens gebruikt om meerdere bestanden te maken die alle opmaakopties van het bestand overnemen. Macro's in het POTM-bestand worden daarom ook overgenomen door andere presentaties. Het insluiten ervan in de structuur van het document gebeurt via de Macro Recorder die is opgenomen in MS Office, die opdrachtreeksen kan opslaan en macro's kan maken om ze automatisch te repliceren.
 
