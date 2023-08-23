@@ -27,7 +27,7 @@ Soubory GNM jsou komprimované soubory XML, které lze extrahovat pomocí standa
 
 ## Funkce podporované v souborech GNM
 
-Protože Gnumeric podporuje několik různých formátů souborů, dokáže převést nativní soubory GNM na [CSV](/cs/spreadsheet/csv/), [XLSX](/cs/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/cs/ web/html/), [LaTex](/cs/textový editor/latex/) a [Lotus 1-2-3](/cs/tabulkový procesor/123/).
+Protože Gnumeric podporuje několik různých formátů souborů, dokáže převést nativní soubory GNM na [CSV](/cs/spreadsheet/csv/), [XLSX](/cs/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/cs/ web/html/), [LaTex](/cs/word-processing/latex/) a [Lotus 1-2-3](/cs/tabulkový procesor/123/).
 
 ## Gnumeric na Github
 
