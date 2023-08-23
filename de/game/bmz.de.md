@@ -31,7 +31,7 @@ BMZ werden als ZIP-Dateien gespeichert und können mit standardmäßigen ZIP-Ext
 
 ## So erstellen und installieren Sie Bonuskartendateien
 
-Die Entwickler-Community von Valve Software hat Richtlinien für Personen aufgestellt, die Bonuskartendateien erstellen und installieren möchten (https://developer.valvesoftware.com/wiki/Bonus_Maps). Es umfasst die folgenden Schritte:
+Die Entwickler-Community von Valve Software hat Richtlinien für Personen aufgestellt, die Bonuskartendateien [erstellen und installieren möchten](https://developer.valvesoftware.com/wiki/Bonus_Maps). Es umfasst die folgenden Schritte:
 
 1. Hinzufügen von Bonuskarten BSP zu Mod
 1. Miniaturbild hinzufügen
