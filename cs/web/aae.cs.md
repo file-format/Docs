@@ -19,7 +19,7 @@
 
 ## Co je soubor AAE?
 
-AAE je typ souboru, který se nachází v systémech iOS 8 a novějších, macOS 10.10 nebo novějších. Ukládá informace o veškerých úpravách [.jpg](/cs/image/jpg/) fotografií v aplikaci Fotky. Soubory AAE doplňují původní soubory a umožňují uživatelům v případě potřeby vrátit fotografie do původního stavu. Při importu obrázků z macOS do Windows se přenesou také doprovodné soubory AAE.
+AAE je typ souboru, který se nachází v systémech iOS 8 a novějších, macOS 10.10 nebo novějších. Ukládá informace o veškerých úpravách [.jpg](/cs/image/jpeg/) fotografií v aplikaci Fotky. Soubory AAE doplňují původní soubory a umožňují uživatelům v případě potřeby vrátit fotografie do původního stavu. Při importu obrázků z macOS do Windows se přenesou také doprovodné soubory AAE.
 
 ## Formát souboru AAE
 Soubory AAE se ukládají na disk jako soubory [XML](/cs/web/xml/), což je formát souboru čitelný pro člověka. To znamená, že jej lze otevřít v libovolném textovém editoru, jako je Apple TextEdit na macOS a Microsoft Poznámkový blok na Windows OS. Notepad++ je další bohatý editor, který dokáže otevřít soubory AAE.

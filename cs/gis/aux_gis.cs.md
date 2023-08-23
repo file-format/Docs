@@ -18,7 +18,7 @@
 
 ## Co je soubor AUX?
 
-Soubor s příponou .aux je pomocný soubor, který obsahuje geoprostorová data pro doprovodné soubory rastrových dat v souborech [.JPG](/cs/image/jpg/) nebo GeoTIFF [.TIFF](/cs/image/tiff/). Vzhledem k tomu, že rastrové soubory nemohou takové informace obsahovat, používají se soubory AUX k uložení dalších informací ve formě souvisejících dat. Ty jsou obvykle uloženy ve stejném adresáři se stejným názvem souboru jako odpovídající název rastrového souboru. Soubory AUX obecně používají geoprostorové aplikace, jako je ESRI ArcGIS Desktop a ERDAS IMAGINE.
+Soubor s příponou .aux je pomocný soubor, který obsahuje geoprostorová data pro doprovodné soubory rastrových dat v souborech [.JPG](/cs/image/jpeg/) nebo GeoTIFF [.TIFF](/cs/image/tiff/). Vzhledem k tomu, že rastrové soubory nemohou takové informace obsahovat, používají se soubory AUX k uložení dalších informací ve formě souvisejících dat. Ty jsou obvykle uloženy ve stejném adresáři se stejným názvem souboru jako odpovídající název rastrového souboru. Soubory AUX obecně používají geoprostorové aplikace, jako je ESRI ArcGIS Desktop a ERDAS IMAGINE.
 
 ## Formát souboru AUX – Další informace
 

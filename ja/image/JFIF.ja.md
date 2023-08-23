@@ -73,7 +73,7 @@ JFIF 標準では、次のセグメントが定義されています。
 
 ## JFIFから他の画像ファイル形式への変換
 
-JFIF は、[PNG](/image/png/)、[JPG](/image/jpg/)、[PDF](/pdf/) などの一般的な画像ファイル形式に変換できます。
+JFIF は、[PNG](/image/png/)、[JPG](/image/jpeg/)、[PDF](/pdf/) などの一般的な画像ファイル形式に変換できます。
 
 ## 参照 ##
 

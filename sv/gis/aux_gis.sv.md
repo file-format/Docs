@@ -18,7 +18,7 @@
 
 ## Vad är en AUX fil?
 
-En fil med filtillägget .aux är en hjälpfil som innehåller geospatial data för de medföljande rasterdatafilerna i filerna [.JPG](/sv/image/jpg/) eller GeoTIFF [.TIFF](/sv/image/tiff/). Eftersom rasterfilerna inte kan innehålla sådan information, används AUX-filer för att lagra ytterligare information i form av tillhörande data. Dessa lagras vanligtvis i samma katalog med samma filnamn som motsvarande rasterfilnamn. AUX-filer används vanligtvis av geospatiala applikationer som ESRI ArcGIS Desktop och ERDAS IMAGINE.
+En fil med filtillägget .aux är en hjälpfil som innehåller geospatial data för de medföljande rasterdatafilerna i filerna [.JPG](/sv/image/jpeg/) eller GeoTIFF [.TIFF](/sv/image/tiff/). Eftersom rasterfilerna inte kan innehålla sådan information, används AUX-filer för att lagra ytterligare information i form av tillhörande data. Dessa lagras vanligtvis i samma katalog med samma filnamn som motsvarande rasterfilnamn. AUX-filer används vanligtvis av geospatiala applikationer som ESRI ArcGIS Desktop och ERDAS IMAGINE.
 
 ## AUX-filformat - Mer information
 

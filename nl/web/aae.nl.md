@@ -19,7 +19,7 @@
 
 ## Wat is een AAE-bestand?
 
-AAE is een bestandstype dat wordt aangetroffen op iOS 8 en nieuwer, macOS 10.10 of latere systemen. Het slaat informatie op over eventuele bewerkingen die zijn aangebracht in [.jpg](/nl/image/jpg/) foto's in de Foto's-app. AAE-bestanden zijn een aanvulling op de originele bestanden en laten gebruikers desgewenst foto's terugzetten naar hun oorspronkelijke staat. Wanneer afbeeldingen van macOS naar Windows worden geïmporteerd, worden de bijbehorende AAE-bestanden ook overgedragen.
+AAE is een bestandstype dat wordt aangetroffen op iOS 8 en nieuwer, macOS 10.10 of latere systemen. Het slaat informatie op over eventuele bewerkingen die zijn aangebracht in [.jpg](/nl/image/jpeg/) foto's in de Foto's-app. AAE-bestanden zijn een aanvulling op de originele bestanden en laten gebruikers desgewenst foto's terugzetten naar hun oorspronkelijke staat. Wanneer afbeeldingen van macOS naar Windows worden geïmporteerd, worden de bijbehorende AAE-bestanden ook overgedragen.
 
 ## AAE-bestandsindeling
 AAE-bestanden worden op schijf opgeslagen als [XML](/nl/web/xml/)-bestanden, wat een door mensen leesbaar bestandsformaat is. Dit betekent dat het kan worden geopend in elke teksteditor, zoals Apple TextEdit op macOS en Microsoft Notepad op Windows OS. Notepad++ is een andere uitgebreide editor die AAE-bestanden kan openen.

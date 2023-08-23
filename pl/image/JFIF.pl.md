@@ -73,7 +73,7 @@ Jest to opcjonalna sekcja, która, jeśli jest zdefiniowana, musi znajdować si�
 
 ## Konwersja JFIF do innych formatów plików graficznych
 
-JFIF można konwertować do popularnych formatów plików graficznych, takich jak [PNG](/pl/image/png/), [JPG](/pl/image/jpg/) i [PDF](/pl/pdf/).
+JFIF można konwertować do popularnych formatów plików graficznych, takich jak [PNG](/pl/image/png/), [JPG](/pl/image/jpeg/) i [PDF](/pl/pdf/).
 
 ## Bibliografia ##
 

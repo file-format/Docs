@@ -73,7 +73,7 @@ JFIF 표준은 다음 세그먼트를 정의합니다.
 
 ## JFIF를 다른 이미지 파일 형식으로 변환
 
-JFIF는 [PNG](/ko/image/png/), [JPG](/ko/image/jpg/) 및 [PDF](/ko/pdf/)와 같은 널리 사용되는 이미지 파일 형식으로 변환할 수 있습니다.
+JFIF는 [PNG](/ko/image/png/), [JPG](/ko/image/jpeg/) 및 [PDF](/ko/pdf/)와 같은 널리 사용되는 이미지 파일 형식으로 변환할 수 있습니다.
 
 ## 참조 ##
 

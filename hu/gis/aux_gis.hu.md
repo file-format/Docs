@@ -18,7 +18,7 @@
 
 ## Mi az AUX fájl?
 
-A .aux kiterjesztésű fájl egy olyan segédfájl, amely térinformatikai adatokat tartalmaz a [.JPG](/hu/image/jpg/) vagy GeoTIFF [.TIFF](/hu/image/tiff/) fájlokban lévő raszteres adatfájlokhoz. Mivel a raszterfájlok nem tartalmazhatnak ilyen információkat, az AUX fájlok a kiegészítő információk tárolására szolgálnak kapcsolódó adatok formájában. Ezeket általában ugyanabban a könyvtárban tárolják, ugyanazzal a fájlnévvel, mint a megfelelő raszteres fájlnévvel. Az AUX fájlokat általában térinformatikai alkalmazások használják, mint például az ESRI ArcGIS Desktop és az ERDAS IMAGINE.
+A .aux kiterjesztésű fájl egy olyan segédfájl, amely térinformatikai adatokat tartalmaz a [.JPG](/hu/image/jpeg/) vagy GeoTIFF [.TIFF](/hu/image/tiff/) fájlokban lévő raszteres adatfájlokhoz. Mivel a raszterfájlok nem tartalmazhatnak ilyen információkat, az AUX fájlok a kiegészítő információk tárolására szolgálnak kapcsolódó adatok formájában. Ezeket általában ugyanabban a könyvtárban tárolják, ugyanazzal a fájlnévvel, mint a megfelelő raszteres fájlnévvel. Az AUX fájlokat általában térinformatikai alkalmazások használják, mint például az ESRI ArcGIS Desktop és az ERDAS IMAGINE.
 
 ## AUX fájlformátum - További információ
 

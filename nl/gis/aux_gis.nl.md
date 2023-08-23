@@ -18,7 +18,7 @@
 
 ## Wat is een AUX-bestand?
 
-Een bestand met de extensie .aux is een hulpbestand dat georuimtelijke gegevens bevat voor de bijbehorende rastergegevensbestanden in [.JPG](/nl/image/jpg/) of GeoTIFF [.TIFF](/nl/image/tiff/)-bestanden. Aangezien de rasterbestanden dergelijke informatie niet kunnen bevatten, worden AUX-bestanden gebruikt om de aanvullende informatie op te slaan in de vorm van bijbehorende gegevens. Deze worden meestal opgeslagen in dezelfde map met dezelfde bestandsnaam als de bijbehorende rasterbestandsnaam. AUX-bestanden worden over het algemeen gebruikt door geospatiale toepassingen zoals ESRI ArcGIS Desktop en ERDAS IMAGINE.
+Een bestand met de extensie .aux is een hulpbestand dat georuimtelijke gegevens bevat voor de bijbehorende rastergegevensbestanden in [.JPG](/nl/image/jpeg/) of GeoTIFF [.TIFF](/nl/image/tiff/)-bestanden. Aangezien de rasterbestanden dergelijke informatie niet kunnen bevatten, worden AUX-bestanden gebruikt om de aanvullende informatie op te slaan in de vorm van bijbehorende gegevens. Deze worden meestal opgeslagen in dezelfde map met dezelfde bestandsnaam als de bijbehorende rasterbestandsnaam. AUX-bestanden worden over het algemeen gebruikt door geospatiale toepassingen zoals ESRI ArcGIS Desktop en ERDAS IMAGINE.
 
 ## AUX-bestandsindeling - Meer informatie
 

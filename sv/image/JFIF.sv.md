@@ -73,7 +73,7 @@ Detta är en valfri sektion som, om den definieras, omedelbart måste följa JFI
 
 ## Konvertering av JFIF till andra bildfilformat
 
-JFIF kan konverteras till populära bildfilformat som [PNG](/sv/image/png/), [JPG](/sv/image/jpg/) och [PDF](/sv/pdf/).
+JFIF kan konverteras till populära bildfilformat som [PNG](/sv/image/png/), [JPG](/sv/image/jpeg/) och [PDF](/sv/pdf/).
 
 ## Referenser ##
 

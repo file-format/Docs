@@ -18,7 +18,7 @@
 
 ## Apa itu file MPO?
 
-File MPO adalah gambar 3D stereoskopis yang muncul setelah tumpang tindih dua gambar 2D. Jenis gambar ini dibuat oleh kamera digital dan digunakan secara luas di konsol video game 3D dan TV 3D. File MPO juga dikenal sebagai objek multi-gambar karena mengandung dua atau lebih gambar [JPEG](/id/image/jpg/).
+File MPO adalah gambar 3D stereoskopis yang muncul setelah tumpang tindih dua gambar 2D. Jenis gambar ini dibuat oleh kamera digital dan digunakan secara luas di konsol video game 3D dan TV 3D. File MPO juga dikenal sebagai objek multi-gambar karena mengandung dua atau lebih gambar [JPEG](/id/image/jpeg/).
 
 ## Sejarah Singkat Format File MPO
 

@@ -73,7 +73,7 @@ Dit is een optionele sectie die, indien gedefinieerd, onmiddellijk moet volgen o
 
 ## Conversie van JFIF naar andere afbeeldingsbestandsindelingen
 
-JFIF kan worden geconverteerd naar populaire bestandsindelingen voor afbeeldingen, zoals [PNG](/nl/image/png/), [JPG](/nl/image/jpg/) en [PDF](/nl/pdf/).
+JFIF kan worden geconverteerd naar populaire bestandsindelingen voor afbeeldingen, zoals [PNG](/nl/image/png/), [JPG](/nl/image/jpeg/) en [PDF](/nl/pdf/).
 
 ## Referenties ##
 

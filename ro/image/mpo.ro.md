@@ -18,7 +18,7 @@
 
 ## Ce este un fișier MPO?
 
-Un fișier MPO este o imagine 3D stereoscopică care ia naștere după suprapunerea a două imagini 2D. Aceste tipuri de imagini sunt create de camere digitale și sunt utilizate pe scară largă în consolele de jocuri video 3D și TV 3D. Fișierele MPO sunt cunoscute și ca obiecte cu mai multe imagini deoarece conțin două sau mai multe imagini [JPEG](/ro/image/jpg/).
+Un fișier MPO este o imagine 3D stereoscopică care ia naștere după suprapunerea a două imagini 2D. Aceste tipuri de imagini sunt create de camere digitale și sunt utilizate pe scară largă în consolele de jocuri video 3D și TV 3D. Fișierele MPO sunt cunoscute și ca obiecte cu mai multe imagini deoarece conțin două sau mai multe imagini [JPEG](/ro/image/jpeg/).
 
 ## Scurt istoric al formatului de fișier MPO
 

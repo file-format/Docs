@@ -19,7 +19,7 @@
 
 ## Tệp AAE là gì?
 
-AAE là một loại tệp được tìm thấy trên các hệ thống iOS 8 trở lên, macOS 10.10 trở lên. Nó lưu trữ thông tin về bất kỳ chỉnh sửa nào được thực hiện đối với ảnh [.jpg](/vi/image/jpg/) trong ứng dụng Ảnh. Các tệp AAE ngoài các tệp gốc và cho phép người dùng hoàn nguyên ảnh về trạng thái ban đầu nếu cần. Khi hình ảnh được nhập từ macOS sang Windows, các tệp AAE đi kèm cũng được chuyển.
+AAE là một loại tệp được tìm thấy trên các hệ thống iOS 8 trở lên, macOS 10.10 trở lên. Nó lưu trữ thông tin về bất kỳ chỉnh sửa nào được thực hiện đối với ảnh [.jpg](/vi/image/jpeg/) trong ứng dụng Ảnh. Các tệp AAE ngoài các tệp gốc và cho phép người dùng hoàn nguyên ảnh về trạng thái ban đầu nếu cần. Khi hình ảnh được nhập từ macOS sang Windows, các tệp AAE đi kèm cũng được chuyển.
 
 ## Định dạng tệp AAE
 Các tệp AAE được lưu vào đĩa dưới dạng tệp [XML](/vi/web/xml/), đây là định dạng tệp mà con người có thể đọc được. Điều này có nghĩa là nó có thể được mở trong bất kỳ trình soạn thảo văn bản nào, chẳng hạn như Apple TextEdit trên macOS và Microsoft Notepad trên HĐH Windows. Notepad++ là một trình soạn thảo phong phú khác có thể mở các tệp AAE.

@@ -18,7 +18,7 @@
 
 ## Qu'est-ce qu'un fichier MPO ?
 
-Un fichier MPO est une image 3D stéréoscopique qui apparaît après le chevauchement de deux images 2D. Ces types d'images sont créés par des appareils photo numériques et sont largement utilisés dans les consoles de jeux vidéo 3D et les téléviseurs 3D. Les fichiers MPO sont également connus sous le nom d'objets multi-images car ils contiennent deux images [JPEG](/fr/image/jpg/) ou plus.
+Un fichier MPO est une image 3D stéréoscopique qui apparaît après le chevauchement de deux images 2D. Ces types d'images sont créés par des appareils photo numériques et sont largement utilisés dans les consoles de jeux vidéo 3D et les téléviseurs 3D. Les fichiers MPO sont également connus sous le nom d'objets multi-images car ils contiennent deux images [JPEG](/fr/image/jpeg/) ou plus.
 
 ## Bref historique du format de fichier MPO
 

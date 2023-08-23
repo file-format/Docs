@@ -18,7 +18,7 @@
 
 ## Was ist eine AUX-Datei?
 
-Eine Datei mit der Erweiterung .aux ist eine Hilfsdatei, die Geodaten für die beigefügten Rasterdatendateien in [.JPG](/de/image/jpg/)- oder GeoTIFF [.TIFF](/de/image/tiff/)-Dateien enthält. Da die Rasterdateien solche Informationen nicht enthalten können, werden AUX-Dateien verwendet, um die zusätzlichen Informationen in Form von zugehörigen Daten zu speichern. Diese werden normalerweise im selben Verzeichnis mit demselben Dateinamen wie der entsprechende Rasterdateiname gespeichert. AUX-Dateien werden im Allgemeinen von Geodatenanwendungen wie ESRI ArcGIS Desktop und ERDAS IMAGINE verwendet.
+Eine Datei mit der Erweiterung .aux ist eine Hilfsdatei, die Geodaten für die beigefügten Rasterdatendateien in [.JPG](/de/image/jpeg/)- oder GeoTIFF [.TIFF](/de/image/tiff/)-Dateien enthält. Da die Rasterdateien solche Informationen nicht enthalten können, werden AUX-Dateien verwendet, um die zusätzlichen Informationen in Form von zugehörigen Daten zu speichern. Diese werden normalerweise im selben Verzeichnis mit demselben Dateinamen wie der entsprechende Rasterdateiname gespeichert. AUX-Dateien werden im Allgemeinen von Geodatenanwendungen wie ESRI ArcGIS Desktop und ERDAS IMAGINE verwendet.
 
 ## AUX-Dateiformat – Weitere Informationen
 
