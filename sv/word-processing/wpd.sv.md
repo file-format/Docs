@@ -32,7 +32,7 @@ Version 3 utökade detta och utnyttjade den teknik som introducerats av Apple i 
 
 ## WPD-filformatspecifikationer ##
 
-WPD-dokument användes i första hand för att bearbeta färdig text. Som ett resultat innehåller dessa filer textbitar. Taggar används för att innehålla formateringsinformation, som WordPerfect känner igen som kod. Detta gör det mycket lättare att hitta formateringsproblem eftersom programmet framhäver delar av texten och exponerar den ärvda formateringen. WPD-dokument, som mer populära ordbehandlingsfiltyper som [DOC](/sv/ordbehandling/doc/), kan innehålla data från olika källor som filer, databaser eller design.
+WPD-dokument användes i första hand för att bearbeta färdig text. Som ett resultat innehåller dessa filer textbitar. Taggar används för att innehålla formateringsinformation, som WordPerfect känner igen som kod. Detta gör det mycket lättare att hitta formateringsproblem eftersom programmet framhäver delar av texten och exponerar den ärvda formateringen. WPD-dokument, som mer populära ordbehandlingsfiltyper som [DOC](/sv/word-processing/doc/), kan innehålla data från olika källor som filer, databaser eller design.
 ## Referenser ##
 
 * [WPD - Wikipedia](https://en.wikipedia.org/wiki/WordPerfect)

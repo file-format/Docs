@@ -19,7 +19,7 @@
 
 ## Vad är FODG fil?
 
-En fil med filtillägget .fodg är ett Apache OpenOffice Drawing-filformat för att lagra ritelement. Den är baserad på filformatspecifikationerna som beskrivs av Advancement of Structural Information Standards (OASIS). Ett annat liknande filformat för OpenOffice-grafik är [ODG](/sv/image/odg/) som lagrar ritelement som en vektorbild. FODG-filer kan öppnas med OpenOffice såväl som LibreOffice. Andra filformat som stöds av OpenOffice, till exempel, inkluderar [ODT](/sv/ordbehandling/odt/), ODF, [ODP](/sv/presentation/odp/) och [ODS](/sv/spreadsheet/ods/).
+En fil med filtillägget .fodg är ett Apache OpenOffice Drawing-filformat för att lagra ritelement. Den är baserad på filformatspecifikationerna som beskrivs av Advancement of Structural Information Standards (OASIS). Ett annat liknande filformat för OpenOffice-grafik är [ODG](/sv/image/odg/) som lagrar ritelement som en vektorbild. FODG-filer kan öppnas med OpenOffice såväl som LibreOffice. Andra filformat som stöds av OpenOffice, till exempel, inkluderar [ODT](/sv/word-processing/odt/), ODF, [ODP](/sv/presentation/odp/) och [ODS](/sv/spreadsheet/ods/).
 
 ## FODG filformat
 

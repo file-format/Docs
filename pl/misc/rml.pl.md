@@ -19,7 +19,7 @@
 
 ## Czym jest plik RML?
 
-Plik RML to plik szablonu raportowania z mechanizmem raportowania [Elixir Repertoire](https://elixirtech.com/repertoire-2/). Plik szablonu służy do generowania raportów ze źródłem danych podłączonym do systemu plików Elixir. Dane są odczytywane i wypełniane w pliku szablonu RML i mogą być eksportowane do wielu różnych formatów plików, takich jak [PDF](/pl/pdf/), [RTF](/pl/przetwarzanie tekstu/rtf/) i arkusz kalkulacyjny [XLS](/pl/arkusz kalkulacyjny/xls/). Mechanizm raportowania Elixir Repertoire można połączyć z szeroką gamą źródeł danych JDBC.
+Plik RML to plik szablonu raportowania z mechanizmem raportowania [Elixir Repertoire](https://elixirtech.com/repertoire-2/). Plik szablonu służy do generowania raportów ze źródłem danych podłączonym do systemu plików Elixir. Dane są odczytywane i wypełniane w pliku szablonu RML i mogą być eksportowane do wielu różnych formatów plików, takich jak [PDF](/pl/pdf/), [RTF](/pl/word-processing/rtf/) i arkusz kalkulacyjny [XLS](/pl/arkusz kalkulacyjny/xls/). Mechanizm raportowania Elixir Repertoire można połączyć z szeroką gamą źródeł danych JDBC.
 
 ## Format pliku RML
 

@@ -19,7 +19,7 @@
 
 ## Vad är en ASD-fil?
 
-En fil med tillägget .asd är en Microsoft Word-återställningsfil som genereras automatiskt tillsammans med huvudfilerna i Word. Den används för att återställa den ursprungliga filen om Word-applikationen inte fungerar eller stängs oväntat, vilket resulterar i att data eller huvudfil går förlorad. Microsoft Word kan spara alla dokumentfilformat som [DOC](/sv/ordbehandling/doc/), [DOCX](/sv/ordbehandling/docx/) och andra som autoåterställningsfiler. Word föreslår det ursprungliga filformatet och filnamnet när du öppnar den återställda filen som den lagrar i systemregistret för återställning.
+En fil med tillägget .asd är en Microsoft Word-återställningsfil som genereras automatiskt tillsammans med huvudfilerna i Word. Den används för att återställa den ursprungliga filen om Word-applikationen inte fungerar eller stängs oväntat, vilket resulterar i att data eller huvudfil går förlorad. Microsoft Word kan spara alla dokumentfilformat som [DOC](/sv/word-processing/doc/), [DOCX](/sv/word-processing/docx/) och andra som autoåterställningsfiler. Word föreslår det ursprungliga filformatet och filnamnet när du öppnar den återställda filen som den lagrar i systemregistret för återställning.
 
 ## ASD-filformat - Mer information
 

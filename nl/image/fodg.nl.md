@@ -19,7 +19,7 @@
 
 ## Wat is een FODG-bestand?
 
-Een bestand met de extensie .fodg is een Apache OpenOffice Drawing-bestandsindeling voor het opslaan van tekenelementen. Het is gebaseerd op de bestandsformaatspecificaties die zijn uiteengezet door Advancement of Structural Information Standards (OASIS). Een ander vergelijkbaar bestandsformaat voor OpenOffice-afbeeldingen is [ODG](/nl/image/odg/) dat tekenelementen opslaat als een vectorafbeelding. FODG-bestanden kunnen zowel met OpenOffice als LibreOffice worden geopend. Andere bestandsindelingen die door OpenOffice worden ondersteund, zijn bijvoorbeeld [ODT](/nl/tekstverwerking/odt/), ODF, [ODP](/nl/presentation/odp/) en [ODS](/nl/spreadsheet/ods/).
+Een bestand met de extensie .fodg is een Apache OpenOffice Drawing-bestandsindeling voor het opslaan van tekenelementen. Het is gebaseerd op de bestandsformaatspecificaties die zijn uiteengezet door Advancement of Structural Information Standards (OASIS). Een ander vergelijkbaar bestandsformaat voor OpenOffice-afbeeldingen is [ODG](/nl/image/odg/) dat tekenelementen opslaat als een vectorafbeelding. FODG-bestanden kunnen zowel met OpenOffice als LibreOffice worden geopend. Andere bestandsindelingen die door OpenOffice worden ondersteund, zijn bijvoorbeeld [ODT](/nl/word-processing/odt/), ODF, [ODP](/nl/presentation/odp/) en [ODS](/nl/spreadsheet/ods/).
 
 ## FODG-bestandsindeling
 

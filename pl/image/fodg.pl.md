@@ -19,7 +19,7 @@
 
 ## Czym jest plik FODG?
 
-Plik z rozszerzeniem .fodg to format pliku rysunku Apache OpenOffice do przechowywania elementów rysunkowych. Opiera się na specyfikacjach formatu plików określonych przez Advancement of Structural Information Standards (OASIS). Innym podobnym formatem pliku grafiki OpenOffice jest [ODG](/pl/image/odg/), który przechowuje elementy rysunkowe jako obraz wektorowy. Pliki FODG można otwierać za pomocą OpenOffice oraz LibreOffice. Inne formaty plików obsługiwane przez OpenOffice to na przykład [ODT](/pl/przetwarzanie tekstu/odt/), ODF, [ODP](/pl/presentation/odp/) i [ODS](/pl/spreadsheet/ods/).
+Plik z rozszerzeniem .fodg to format pliku rysunku Apache OpenOffice do przechowywania elementów rysunkowych. Opiera się na specyfikacjach formatu plików określonych przez Advancement of Structural Information Standards (OASIS). Innym podobnym formatem pliku grafiki OpenOffice jest [ODG](/pl/image/odg/), który przechowuje elementy rysunkowe jako obraz wektorowy. Pliki FODG można otwierać za pomocą OpenOffice oraz LibreOffice. Inne formaty plików obsługiwane przez OpenOffice to na przykład [ODT](/pl/word-processing/odt/), ODF, [ODP](/pl/presentation/odp/) i [ODS](/pl/spreadsheet/ods/).
 
 ## Format pliku FODG
 

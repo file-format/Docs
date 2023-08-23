@@ -19,7 +19,7 @@
 
 ## Czym jest plik ODT?
 
-Pliki ODT to dokumenty tworzone za pomocą aplikacji do edycji tekstu, które są oparte na formacie pliku tekstowego OpenDocument. Są one tworzone za pomocą aplikacji edytora tekstu, takich jak bezpłatny OpenOffice Writer, i mogą przechowywać zawartość, taką jak tekst, obrazy, obiekty i style. Plik ODT jest dla edytora tekstu programu Writer tym, czym [DOCX](/pl/word-processing/docx/) jest dla programu Microsoft Word. Kilka aplikacji, w tym Dokumenty Google i internetowy edytor tekstu Google zawarty w Dysku Google, może otwierać pliki ODT do edycji. Microsoft Word może również otwierać pliki ODT i zapisywać je w innych formatach, takich jak [DOC](/pl/przetwarzanie tekstu/doc/) i DOCX.
+Pliki ODT to dokumenty tworzone za pomocą aplikacji do edycji tekstu, które są oparte na formacie pliku tekstowego OpenDocument. Są one tworzone za pomocą aplikacji edytora tekstu, takich jak bezpłatny OpenOffice Writer, i mogą przechowywać zawartość, taką jak tekst, obrazy, obiekty i style. Plik ODT jest dla edytora tekstu programu Writer tym, czym [DOCX](/pl/word-processing/docx/) jest dla programu Microsoft Word. Kilka aplikacji, w tym Dokumenty Google i internetowy edytor tekstu Google zawarty w Dysku Google, może otwierać pliki ODT do edycji. Microsoft Word może również otwierać pliki ODT i zapisywać je w innych formatach, takich jak [DOC](/pl/word-processing/doc/) i DOCX.
 
 ## Krótka historia ##
 

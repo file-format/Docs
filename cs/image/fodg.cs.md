@@ -19,7 +19,7 @@
 
 ## Co je soubor FODG?
 
-Soubor s příponou .fodg je formát souboru výkresu Apache OpenOffice pro ukládání prvků výkresu. Je založen na specifikacích formátu souborů uvedených v Advancement of Structural Information Standards (OASIS). Dalším podobným formátem souborů pro grafiku OpenOffice je [ODG](/cs/image/odg/), který ukládá prvky výkresu jako vektorový obrázek. Soubory FODG lze otevřít pomocí OpenOffice i LibreOffice. Mezi další formáty souborů podporované OpenOffice patří například [ODT](/cs/textový procesor/odt/), ODF, [ODP](/cs/prezentace/odp/) a [ODS](/cs/tabulkový procesor/ods/).
+Soubor s příponou .fodg je formát souboru výkresu Apache OpenOffice pro ukládání prvků výkresu. Je založen na specifikacích formátu souborů uvedených v Advancement of Structural Information Standards (OASIS). Dalším podobným formátem souborů pro grafiku OpenOffice je [ODG](/cs/image/odg/), který ukládá prvky výkresu jako vektorový obrázek. Soubory FODG lze otevřít pomocí OpenOffice i LibreOffice. Mezi další formáty souborů podporované OpenOffice patří například [ODT](/cs/word-processing/odt/), ODF, [ODP](/cs/presentation/odp/) a [ODS](/cs/spreadsheet/ods/).
 
 ## Formát souboru FODG
 

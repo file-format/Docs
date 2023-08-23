@@ -19,7 +19,7 @@
 
 ## Vad är en ODT fil?
 
-ODT-filer är typ av dokument skapade med ordbehandlingsprogram som är baserade på OpenDocument Text File-format. Dessa skapas med ordbehandlingsprogram som gratis OpenOffice Writer och kan innehålla innehåll som text, bilder, objekt och stilar. ODT-filen är för Writers ordbehandlare vad [DOCX](/sv/ord-behandling/docx/) är för Microsoft Word. Flera applikationer inklusive Google Docs och Googles webbaserade ordbehandlare som ingår i Google Drive kan öppna ODT-filerna för redigering. Microsoft Word kan också öppna ODT-filer och spara dem i andra format som [DOC](/sv/ordbehandling/doc/) och DOCX.
+ODT-filer är typ av dokument skapade med ordbehandlingsprogram som är baserade på OpenDocument Text File-format. Dessa skapas med ordbehandlingsprogram som gratis OpenOffice Writer och kan innehålla innehåll som text, bilder, objekt och stilar. ODT-filen är för Writers ordbehandlare vad [DOCX](/sv/ord-behandling/docx/) är för Microsoft Word. Flera applikationer inklusive Google Docs och Googles webbaserade ordbehandlare som ingår i Google Drive kan öppna ODT-filerna för redigering. Microsoft Word kan också öppna ODT-filer och spara dem i andra format som [DOC](/sv/word-processing/doc/) och DOCX.
 
 ## Kortfattad bakgrund ##
 

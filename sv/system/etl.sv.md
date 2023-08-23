@@ -19,7 +19,7 @@
 
 ## Vad är ETL fil?
 
-ETL-filer är loggfiler som innehåller händelseloggar genererade av Microsoft Operating System Kernel. Dessa loggfiler inkluderar program- och systemnivåfel, varningar och andra händelsedata. ETL-filer är användbara för att analysera och felsöka problem på systemnivå. Vanliga problem som registreras i ETL-filer inkluderar de som genereras av diskåtkomster och sidfel. Microsoft tillhandahåller två applikationer, Tracerpt och Event Viewer för att läsa och visa innehållet i ETL-filer. ETL-filer kan konverteras till andra filformat som [TXT](/sv/ordbehandling/txt/) och [CSV](/sv/spreadsheet/csv/) med hjälp av Tracerpt.
+ETL-filer är loggfiler som innehåller händelseloggar genererade av Microsoft Operating System Kernel. Dessa loggfiler inkluderar program- och systemnivåfel, varningar och andra händelsedata. ETL-filer är användbara för att analysera och felsöka problem på systemnivå. Vanliga problem som registreras i ETL-filer inkluderar de som genereras av diskåtkomster och sidfel. Microsoft tillhandahåller två applikationer, Tracerpt och Event Viewer för att läsa och visa innehållet i ETL-filer. ETL-filer kan konverteras till andra filformat som [TXT](/sv/word-processing/txt/) och [CSV](/sv/spreadsheet/csv/) med hjälp av Tracerpt.
 
 ## ETL filformat
 
