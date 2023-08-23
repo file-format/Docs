@@ -23,7 +23,7 @@
 
 ## QT ファイル形式
 
-QTFF は、オブジェクトの柔軟なコレクションを公開して解析と拡張を容易にするオブジェクト指向です。 QT ファイルの各トラックには、デジタル エンコードされたメディア ストリーム、または別のファイルにあるメディア ストリームへのデータ参照が含まれています。アトムと呼ばれるオブジェクトで構成される階層データ構造は、トラック コンテナーとして機能します。 [QT ファイル形式](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFPPreface/qtffPreface.html) のファイル形式仕様は、開発者の参照用に Apple Inc によって公式に入手可能です。
+QTFF は、オブジェクトの柔軟なコレクションを公開して解析と拡張を容易にするオブジェクト指向です。 QT ファイルの各トラックには、デジタル エンコードされたメディア ストリーム、または別のファイルにあるメディア ストリームへのデータ参照が含まれています。アトムと呼ばれるオブジェクトで構成される階層データ構造は、トラック コンテナーとして機能します。 [QT ファイル形式](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html) のファイル形式仕様は、開発者の参照用に Apple Inc によって公式に入手可能です。
 
 ### メディアの説明
 
@@ -55,6 +55,6 @@ QT/MOV ファイルは、連続したチャンクで構成されます。すべ�
 
 ## 参照 ##
 
-* [QT ファイル形式 - Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFPPreface/qtffPreface.html)
+* [QT ファイル形式 - Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
 * [QuickTime ファイル形式 - ウィキペディア](https://en.wikipedia.org/wiki/QuickTime_File_Format)
 

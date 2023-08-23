@@ -55,6 +55,6 @@ QTFF वस्तु-उन्मुख है जो पार्सिंग �
 
 ## संदर्भ ##
 
-* [QT फ़ाइल स्वरूप - Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFReface/qtffPreface.html)
+* [QT फ़ाइल स्वरूप - Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
 * [क्विक टाइम फाइल फॉर्मेट - विकिपीडिया](https://en.wikipedia.org/wiki/QuickTime_File_Format)
 

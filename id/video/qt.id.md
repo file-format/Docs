@@ -55,6 +55,6 @@ Potongan berikutnya terletak di offset 32+8#40 (hex: 28) dan memiliki ukuran 3.2
 
 ## Referensi ##
 
-* [Format File QT - Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFPPreface/qtffPreface.html)
+* [Format File QT - Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
 * [Format File QuickTime - Wikipedia](https://en.wikipedia.org/wiki/QuickTime_File_Format)
 
