@@ -19,7 +19,7 @@
 
 ## POTX dosyası nedir?
 
-.POTX uzantılı dosyalar, Microsoft PowerPoint 2007 ve üzeri ile oluşturulan Microsoft PowerPoint şablon sunumlarını temsil eder. Bu biçim, ikili dosya biçimini temel alan ve PowerPoint 97-2003 tarafından desteklenen [POT](/tr/sunum/pot/) dosya biçimini değiştirmek için oluşturulmuştur. Oluşturulan dosyalar, aynı düzene ve yeni dosyalara uygulanması gereken diğer ayarlara sahip sunumlar oluşturmak için kullanılabilir. Bu ayarlar stilleri, arka planları, renk paletini, yazı tiplerini ve varsayılanları içerebilir. Bu tür dosyalar, resmi kullanım için kullanıma hazır şablon dosyaları oluşturmak için oluşturulur.
+.POTX uzantılı dosyalar, Microsoft PowerPoint 2007 ve üzeri ile oluşturulan Microsoft PowerPoint şablon sunumlarını temsil eder. Bu biçim, ikili dosya biçimini temel alan ve PowerPoint 97-2003 tarafından desteklenen [POT](/tr/presentation/pot/) dosya biçimini değiştirmek için oluşturulmuştur. Oluşturulan dosyalar, aynı düzene ve yeni dosyalara uygulanması gereken diğer ayarlara sahip sunumlar oluşturmak için kullanılabilir. Bu ayarlar stilleri, arka planları, renk paletini, yazı tiplerini ve varsayılanları içerebilir. Bu tür dosyalar, resmi kullanım için kullanıma hazır şablon dosyaları oluşturmak için oluşturulur.
 
 ## Kısa Tarih ##
 

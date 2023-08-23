@@ -19,7 +19,7 @@
 
 ## FODT dosyası nedir?
 
-.fodt uzantılı bir dosya, OpenDocument düz [XML](/tr/web/xml/) dosya biçiminde kaydedilen bir metin belgesidir. [.zip](/tr/compression/zip/) kapsayıcı dosya biçiminde kaydedilen .odt dosyalarının aksine, FODT dosyaları, düz XML belgeleri olarak görüntülenmek üzere herhangi bir metin düzenleyicide açılabilen, insanlar tarafından okunabilen dosyalar olarak diskte depolanır. . OpenDocument ofis belge standardı, OASIS endüstri konsorsiyumu tarafından geliştirildi ve herhangi bir kısıtlama olmaksızın herkesin herkes tarafından uygulanmasına olanak sağladı. Diğer popüler OpenDocument dosya biçimleri şunlardır: [.odt](/tr/word-processing/odt/), [.ott](/tr/word-processing/ott/), [.ods](/tr/spreadsheet/ods/), [.odp](/tr/sunum/odp/) ve benzer şekilde diğerleri.
+.fodt uzantılı bir dosya, OpenDocument düz [XML](/tr/web/xml/) dosya biçiminde kaydedilen bir metin belgesidir. [.zip](/tr/compression/zip/) kapsayıcı dosya biçiminde kaydedilen .odt dosyalarının aksine, FODT dosyaları, düz XML belgeleri olarak görüntülenmek üzere herhangi bir metin düzenleyicide açılabilen, insanlar tarafından okunabilen dosyalar olarak diskte depolanır. . OpenDocument ofis belge standardı, OASIS endüstri konsorsiyumu tarafından geliştirildi ve herhangi bir kısıtlama olmaksızın herkesin herkes tarafından uygulanmasına olanak sağladı. Diğer popüler OpenDocument dosya biçimleri şunlardır: [.odt](/tr/word-processing/odt/), [.ott](/tr/word-processing/ott/), [.ods](/tr/spreadsheet/ods/), [.odp](/tr/presentation/odp/) ve benzer şekilde diğerleri.
 
 ## FODT Dosya Biçimi - Daha Fazla Bilgi
 

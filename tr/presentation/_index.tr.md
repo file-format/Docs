@@ -20,7 +20,7 @@
 
 **PPTX** ve **PPT** uzantı dosyalarına aşina olmalısınız; bunlar, slaytlar, şekiller, metin, animasyonlar, video, ses ve katıştırılmış nesneler gibi sunum verilerini barındırmak için kayıt koleksiyonlarını depolayan Sunum dosyası biçimleridir. . Bir sunum, PDF, BMP, PNG, JPEG ve XPS gibi diğer dosya biçimlerine kaydedilebilir/dönüştürülebilir.
 
-Yaygın Sunum dosya uzantıları ve ilişkili dosya biçimleri arasında **[PPTX](/tr/sunum/pptx/)**, **[PPT](/tr/sunum/ppt/)** ve **[ODP](/tr/sunum/odp) bulunur /)**.
+Yaygın Sunum dosya uzantıları ve ilişkili dosya biçimleri arasında **[PPTX](/tr/presentation/pptx/)**, **[PPT](/tr/presentation/ppt/)** ve **[ODP](/tr/presentation/odp) bulunur /)**.
 
 Sunum dosyası biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanlarının paylaştığı bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/presentation/8) gidin.
 

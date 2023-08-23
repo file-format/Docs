@@ -19,7 +19,7 @@
 
 ## .ppsm dosyası nedir?
 
-PPSM uzantılı dosyalar, Microsoft PowerPoint 2007 veya üstü ile oluşturulan Makro özellikli Slayt Gösterisi dosya formatını temsil eder. Başka bir benzer dosya formatı, Slayt Gösterisi olarak çalışmak yerine düzenlenebilir formatta Microsoft PowerPoint ile açılmasıyla farklılık gösteren [PPTM](/tr/sunum/pptm/) formatıdır. Slayt gösterisi olarak çalıştırıldığında, PPSM dosyası sunum slaytlarını slayt gösterisinde içerik bozulmadan gösterir ve varsayılan olarak salt okunur modundadır. PPSM dosyaları, PowerPoint'te açılarak Microsoft PowerPoint'te düzenlenebilir.
+PPSM uzantılı dosyalar, Microsoft PowerPoint 2007 veya üstü ile oluşturulan Makro özellikli Slayt Gösterisi dosya formatını temsil eder. Başka bir benzer dosya formatı, Slayt Gösterisi olarak çalışmak yerine düzenlenebilir formatta Microsoft PowerPoint ile açılmasıyla farklılık gösteren [PPTM](/tr/presentation/pptm/) formatıdır. Slayt gösterisi olarak çalıştırıldığında, PPSM dosyası sunum slaytlarını slayt gösterisinde içerik bozulmadan gösterir ve varsayılan olarak salt okunur modundadır. PPSM dosyaları, PowerPoint'te açılarak Microsoft PowerPoint'te düzenlenebilir.
 
 ## Dosya formatı ##
 

@@ -23,7 +23,7 @@
 
 ## Dosya Biçimi Özellikleri ##
 
-POT dosya formatı için dosya formatı belirtimleri, Microsoft tarafından ayrı ayrı mevcut değildir. Bununla birlikte, şablon formatı ikili [PPT](/tr/sunum/ppt/) dosya formatıyla aynıdır ve düzenleme amacıyla MS PowerPoint'te açılabilir. Bir POT dosyası, HEX tanımlayıcısı tarafından aşağıdaki gibi tanımlanır:
+POT dosya formatı için dosya formatı belirtimleri, Microsoft tarafından ayrı ayrı mevcut değildir. Bununla birlikte, şablon formatı ikili [PPT](/tr/presentation/ppt/) dosya formatıyla aynıdır ve düzenleme amacıyla MS PowerPoint'te açılabilir. Bir POT dosyası, HEX tanımlayıcısı tarafından aşağıdaki gibi tanımlanır:
 
 ```
 D0 CF 11 E0 A1 B1 1A E1 00 00 00 00

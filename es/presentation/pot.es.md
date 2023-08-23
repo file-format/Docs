@@ -23,7 +23,7 @@ Los archivos con extensión .POT representan archivos de plantilla de Microsoft 
 
 ## Especificaciones de formato de archivo ##
 
-Las especificaciones de formato de archivo para el formato de archivo POT no están disponibles individualmente por Microsoft. Sin embargo, el formato de la plantilla es el mismo que el formato de archivo binario [PPT](/es/presentación/ppt/) y se puede abrir en MS PowerPoint para fines de edición. Un archivo POT se identifica mediante el identificador HEX de la siguiente manera:
+Las especificaciones de formato de archivo para el formato de archivo POT no están disponibles individualmente por Microsoft. Sin embargo, el formato de la plantilla es el mismo que el formato de archivo binario [PPT](/es/presentation/ppt/) y se puede abrir en MS PowerPoint para fines de edición. Un archivo POT se identifica mediante el identificador HEX de la siguiente manera:
 
 ```
 D0 CF 11 E0 A1 B1 1A E1 00 00 00 00
