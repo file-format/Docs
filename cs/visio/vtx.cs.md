@@ -20,7 +20,7 @@
 
 ## Co je soubor VTX?
 
-Soubor s příponou .vtx je šablona výkresu aplikace Microsoft Visio, která je uložena na disk ve formátu souboru XML. Cílem šablony je poskytnout soubor se základním nastavením, které lze použít k vytvoření více souborů aplikace Visio se stejným nastavením. Dalším podobným formátem je [VST](/cs/image/vst/), který je uložen v binárním formátu spíše než XML. Soubory VTX jsou podporovány Visio 2010 a novějšími verzemi. Soubory Visio se používají k vytváření výkresů, které obsahují vizuální objekty, vývojové diagramy, diagram UML, tok informací, organizační diagramy, softwarové diagramy, rozložení sítě, databázové modely, mapování objektů a další podobné informace. Soubory generované pomocí aplikace Visio lze také exportovat do různých formátů souborů, jako je [PNG](/cs/image/png/), [BMP](/cs/image/bmp/), PDF a další.
+Soubor s příponou .vtx je šablona výkresu aplikace Microsoft Visio, která je uložena na disk ve formátu souboru XML. Cílem šablony je poskytnout soubor se základním nastavením, které lze použít k vytvoření více souborů aplikace Visio se stejným nastavením. Dalším podobným formátem je [VST](/cs/visio/vst/), který je uložen v binárním formátu spíše než XML. Soubory VTX jsou podporovány Visio 2010 a novějšími verzemi. Soubory Visio se používají k vytváření výkresů, které obsahují vizuální objekty, vývojové diagramy, diagram UML, tok informací, organizační diagramy, softwarové diagramy, rozložení sítě, databázové modely, mapování objektů a další podobné informace. Soubory generované pomocí aplikace Visio lze také exportovat do různých formátů souborů, jako je [PNG](/cs/image/png/), [BMP](/cs/image/bmp/), PDF a další.
 
 Některé další typy souborů, které tvoří formát souboru Visio 2013, zahrnují:
 

@@ -24,7 +24,7 @@
 
 # VSTX 파일 형식 #
 
-파일 확장자의 "X"는 이전에 지원되었던 바이너리 파일 형식을 대체하기 위해 Microsoft에서 [ZIP](/ko/compression/zip/) 아카이브 파일 형식으로 도입한 OpenOffice 파일 형식을 나타냅니다. 따라서 VSTX 파일은 바이너리 형식인 [.VST](/ko/image/vst/) 파일 형식과 달리 OpenOffice 사양의 XML 파일 형식을 기반으로 합니다.
+파일 확장자의 "X"는 이전에 지원되었던 바이너리 파일 형식을 대체하기 위해 Microsoft에서 [ZIP](/ko/compression/zip/) 아카이브 파일 형식으로 도입한 OpenOffice 파일 형식을 나타냅니다. 따라서 VSTX 파일은 바이너리 형식인 [.VST](/ko/visio/vst/) 파일 형식과 달리 OpenOffice 사양의 XML 파일 형식을 기반으로 합니다.
 
 VSDX 파일은 Open Packaging Conventions 및 XML을 기반으로 하며 개발자는 프로그래밍 방식으로 이러한 파일을 사용하는 방법을 학습하여 이 형식의 이점을 얻을 수 있습니다. 형식은 Visio XML 드로잉 파일 형식(.vdx)에서 해당 부분과 동일한 XML 구조를 많이 상속합니다. 타사 소프트웨어가 파일 형식 수준에서 Visio 파일을 조작할 수 있으므로 Visio 파일과의 상호 운용성이 크게 향상됩니다.
 

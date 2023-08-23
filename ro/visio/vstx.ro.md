@@ -24,7 +24,7 @@ Fișierele cu extensii .vstx sunt fișiere șablon de desen create cu Microsoft 
 
 # Format fișier VSTX #
 
-„X” din extensia de fișier se referă la formatul de fișier OpenOffice care a fost introdus de Microsoft ca format de fișier arhivă [ZIP](/ro/compression/zip/) pentru înlocuirea formatelor de fișiere binare acceptate anterior. Prin urmare, fișierele VSTX se bazează pe formatul de fișier XML al specificațiilor OpenOffice, spre deosebire de formatul de fișier [.VST](/ro/image/vst/), care este în format binar.
+„X” din extensia de fișier se referă la formatul de fișier OpenOffice care a fost introdus de Microsoft ca format de fișier arhivă [ZIP](/ro/compression/zip/) pentru înlocuirea formatelor de fișiere binare acceptate anterior. Prin urmare, fișierele VSTX se bazează pe formatul de fișier XML al specificațiilor OpenOffice, spre deosebire de formatul de fișier [.VST](/ro/visio/vst/), care este în format binar.
 
 Fișierele VSDX se bazează pe Convențiile de ambalare deschisă și XML, iar dezvoltatorii pot beneficia de acest format învățând cum să lucreze cu aceste fișiere în mod programatic. Formatul moștenește multe dintre aceleași structuri XML ca părțile sale din formatul de fișier Visio XML Drawing (.vdx). Interoperabilitatea cu fișierele Visio este mult crescută, deoarece software-ul terță parte poate manipula fișierele Visio la nivel de format de fișier.
 

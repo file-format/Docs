@@ -24,7 +24,7 @@ Dateien mit der Erweiterung .vstx sind Zeichnungsvorlagendateien, die mit Micros
 
 # VSTX-Dateiformat #
 
-Das „X“ in der Dateierweiterung bezieht sich auf das OpenOffice-Dateiformat, das von Microsoft als [ZIP](/de/compression/zip/)-Archivdateiformat zum Ersetzen früher unterstützter binärer Dateiformate eingeführt wurde. VSTX-Dateien basieren also auf dem XML-Dateiformat der OpenOffice-Spezifikationen im Gegensatz zum [.VST](/de/image/vst/)-Dateiformat, das im Binärformat vorliegt.
+Das „X“ in der Dateierweiterung bezieht sich auf das OpenOffice-Dateiformat, das von Microsoft als [ZIP](/de/compression/zip/)-Archivdateiformat zum Ersetzen früher unterstützter binärer Dateiformate eingeführt wurde. VSTX-Dateien basieren also auf dem XML-Dateiformat der OpenOffice-Spezifikationen im Gegensatz zum [.VST](/de/visio/vst/)-Dateiformat, das im Binärformat vorliegt.
 
 VSDX-Dateien basieren auf den Open Packaging Conventions und XML, und Entwickler können von diesem Format profitieren, indem sie lernen, wie sie programmgesteuert mit diesen Dateien arbeiten. Das Format erbt viele der gleichen XML-Strukturen wie seine Teile aus dem Visio-XML-Zeichnungsdateiformat (.vdx). Die Interoperabilität mit Visio-Dateien wird erheblich verbessert, da Software von Drittanbietern Visio-Dateien auf Dateiformatebene manipulieren kann.
 

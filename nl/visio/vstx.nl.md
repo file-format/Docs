@@ -24,7 +24,7 @@ Bestanden met de extensie .vstx zijn tekeningsjabloonbestanden die zijn gemaakt 
 
 # VSTX-bestandsindeling #
 
-De "X" in de bestandsextensie verwijst naar de OpenOffice-bestandsindeling die door Microsoft werd geïntroduceerd als een [ZIP](/nl/compression/zip/) archiefbestandsindeling ter vervanging van eerder ondersteunde binaire bestandsindelingen. VSTX-bestanden zijn dus gebaseerd op het XML-bestandsformaat van OpenOffice-specificaties, in tegenstelling tot het [.VST](/nl/image/vst/) bestandsformaat dat in binair formaat is.
+De "X" in de bestandsextensie verwijst naar de OpenOffice-bestandsindeling die door Microsoft werd geïntroduceerd als een [ZIP](/nl/compression/zip/) archiefbestandsindeling ter vervanging van eerder ondersteunde binaire bestandsindelingen. VSTX-bestanden zijn dus gebaseerd op het XML-bestandsformaat van OpenOffice-specificaties, in tegenstelling tot het [.VST](/nl/visio/vst/) bestandsformaat dat in binair formaat is.
 
 VSDX-bestanden zijn gebaseerd op de Open Packaging Conventions en XML en ontwikkelaars kunnen profiteren van dit formaat door programmatisch met deze bestanden te leren werken. De indeling erft veel van dezelfde XML-structuren als de onderdelen van de Visio XML Drawing-bestandsindeling (.vdx). De interoperabiliteit met Visio-bestanden is aanzienlijk verbeterd, aangezien software van derden Visio-bestanden op bestandsindelingsniveau kan manipuleren.
 

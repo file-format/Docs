@@ -24,7 +24,7 @@
 
 # VSTX Dosya Biçimi #
 
-Dosya uzantısındaki "X", Microsoft tarafından daha önce desteklenen ikili dosya biçimlerinin yerine [ZIP](/tr/compression/zip/) arşiv dosyası biçimi olarak sunulan OpenOffice dosya biçimini ifade eder. Bu nedenle VSTX dosyaları, ikili biçimdeki [.VST](/tr/image/vst/) dosya biçiminin aksine OpenOffice belirtimlerinin XML dosya biçimini temel alır.
+Dosya uzantısındaki "X", Microsoft tarafından daha önce desteklenen ikili dosya biçimlerinin yerine [ZIP](/tr/compression/zip/) arşiv dosyası biçimi olarak sunulan OpenOffice dosya biçimini ifade eder. Bu nedenle VSTX dosyaları, ikili biçimdeki [.VST](/tr/visio/vst/) dosya biçiminin aksine OpenOffice belirtimlerinin XML dosya biçimini temel alır.
 
 VSDX dosyaları, Açık Paketleme Kurallarına ve XML'e dayalıdır ve geliştiriciler, bu dosyalarla programlı olarak nasıl çalışacaklarını öğrenerek bu biçimden yararlanabilirler. Biçim, parçalarıyla aynı XML yapılarının birçoğunu Visio XML Çizim dosya biçiminden (.vdx) devralır. Visio dosyalarıyla birlikte çalışabilirlik, üçüncü taraf yazılımlar Visio dosyalarını dosya formatı düzeyinde işleyebildiğinden büyük ölçüde artar.
 

@@ -24,7 +24,7 @@ A .vstx kiterjesztésű fájlok a Microsoft Visio 2013 vagy újabb verziójával
 
 # VSTX fájlformátum #
 
-A fájlkiterjesztésben szereplő "X" az OpenOffice fájlformátumra utal, amelyet a Microsoft [ZIP](/hu/compression/zip/) archív fájlformátumként vezetett be a korábban támogatott bináris fájlformátumok helyettesítésére. A VSTX-fájlok tehát az OpenOffice-specifikációk XML-fájlformátumán alapulnak, ellentétben a [.VST](/hu/image/vst/) fájlformátummal, amely bináris formátumú.
+A fájlkiterjesztésben szereplő "X" az OpenOffice fájlformátumra utal, amelyet a Microsoft [ZIP](/hu/compression/zip/) archív fájlformátumként vezetett be a korábban támogatott bináris fájlformátumok helyettesítésére. A VSTX-fájlok tehát az OpenOffice-specifikációk XML-fájlformátumán alapulnak, ellentétben a [.VST](/hu/visio/vst/) fájlformátummal, amely bináris formátumú.
 
 A VSDX fájlok a nyílt csomagolási egyezményeken és az XML-en alapulnak, és a fejlesztők profitálhatnak ebből a formátumból, ha megtanulják, hogyan kell programozottan dolgozni ezekkel a fájlokkal. A formátum ugyanazokat az XML-struktúrákat örökli, mint a Visio XML Drawing fájlformátum (.vdx) részei. A Visio fájlokkal való együttműködés nagymértékben megnövekedett, mivel a harmadik féltől származó szoftverek képesek fájlformátum szinten kezelni a Visio fájlokat.
 

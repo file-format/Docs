@@ -24,7 +24,7 @@ Pliki z rozszerzeniami .vstx to pliki szablonów rysunków utworzone w programie
 
 # Format pliku VSTX #
 
-„X” w rozszerzeniu pliku odnosi się do formatu pliku OpenOffice, który został wprowadzony przez firmę Microsoft jako format pliku archiwum [ZIP](/pl/compression/zip/) w celu zastąpienia obsługiwanych wcześniej formatów plików binarnych. Pliki VSTX są zatem oparte na formacie pliku XML specyfikacji OpenOffice, w przeciwieństwie do formatu pliku [.VST](/pl/image/vst/), który jest w formacie binarnym.
+„X” w rozszerzeniu pliku odnosi się do formatu pliku OpenOffice, który został wprowadzony przez firmę Microsoft jako format pliku archiwum [ZIP](/pl/compression/zip/) w celu zastąpienia obsługiwanych wcześniej formatów plików binarnych. Pliki VSTX są zatem oparte na formacie pliku XML specyfikacji OpenOffice, w przeciwieństwie do formatu pliku [.VST](/pl/visio/vst/), który jest w formacie binarnym.
 
 Pliki VSDX są oparte na Open Packaging Conventions i XML, a programiści mogą korzystać z tego formatu, ucząc się, jak programowo pracować z tymi plikami. Format dziedziczy wiele takich samych struktur XML, jak jego części, z formatu pliku rysunku XML programu Visio (vdx). Współdziałanie z plikami programu Visio jest znacznie zwiększone, ponieważ oprogramowanie innych firm może manipulować plikami programu Visio na poziomie formatu pliku.
 

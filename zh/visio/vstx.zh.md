@@ -24,7 +24,7 @@
 
 #VSTX 文件格式#
 
-文件扩展名中的“X"指的是由 Microsoft 作为 [ZIP](/zh/compression/zip/) 存档文件格式引入的 OpenOffice 文件格式，用于替换之前支持的二进制文件格式。因此，VSTX 文件基于 OpenOffice 规范的 XML 文件格式，与二进制格式的 [.VST](/zh/image/vst/) 文件格式不同。
+文件扩展名中的“X"指的是由 Microsoft 作为 [ZIP](/zh/compression/zip/) 存档文件格式引入的 OpenOffice 文件格式，用于替换之前支持的二进制文件格式。因此，VSTX 文件基于 OpenOffice 规范的 XML 文件格式，与二进制格式的 [.VST](/zh/visio/vst/) 文件格式不同。
 
 VSDX 文件基于 Open Packaging Conventions 和 XML，开发人员可以通过学习如何以编程方式使用这些文件来从这种格式中受益。该格式从 Visio XML 绘图文件格式 (.vdx) 继承了许多与其部分相同的 XML 结构。由于第三方软件可以在文件格式级别操作 Visio 文件，因此与 Visio 文件的互操作性大大提高。
 

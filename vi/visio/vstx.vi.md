@@ -24,7 +24,7 @@ Các tệp có phần mở rộng .vstx là các tệp mẫu vẽ được tạo
 
 # Định dạng tệp VSTX #
 
-"X" trong phần mở rộng tệp đề cập đến định dạng tệp OpenOffice được Microsoft giới thiệu dưới dạng định dạng tệp lưu trữ [ZIP](/vi/compression/zip/) để thay thế các định dạng tệp nhị phân được hỗ trợ trước đó. Do đó, các tệp VSTX dựa trên định dạng tệp XML của các thông số kỹ thuật của OpenOffice không giống như định dạng tệp [.VST](/vi/image/vst/) ở định dạng nhị phân.
+"X" trong phần mở rộng tệp đề cập đến định dạng tệp OpenOffice được Microsoft giới thiệu dưới dạng định dạng tệp lưu trữ [ZIP](/vi/compression/zip/) để thay thế các định dạng tệp nhị phân được hỗ trợ trước đó. Do đó, các tệp VSTX dựa trên định dạng tệp XML của các thông số kỹ thuật của OpenOffice không giống như định dạng tệp [.VST](/vi/visio/vst/) ở định dạng nhị phân.
 
 Các tệp VSDX dựa trên Quy ước đóng gói mở và XML và các nhà phát triển có thể hưởng lợi từ định dạng này bằng cách tìm hiểu cách làm việc với các tệp này theo chương trình. Định dạng kế thừa nhiều cấu trúc XML giống như các phần của nó từ định dạng tệp Bản vẽ Visio XML (.vdx). Khả năng tương tác với các tệp Visio được tăng lên đáng kể do phần mềm bên thứ ba có thể thao tác với các tệp Visio ở cấp độ định dạng tệp.
 

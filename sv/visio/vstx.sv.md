@@ -24,7 +24,7 @@ Filer med .vstx-tillägg är ritmallsfiler skapade med Microsoft Visio 2013 och 
 
 # VSTX-filformat #
 
-"X" i filtillägget hänvisar till OpenOffice-filformatet som introducerades av Microsoft som ett [ZIP](/sv/compression/zip/) arkivfilformat för ersättning av binära filformat som stöddes tidigare. VSTX-filer är därför baserade på XML-filformatet i OpenOffice-specifikationerna till skillnad från filformatet [.VST](/sv/image/vst/) som är i binärt format.
+"X" i filtillägget hänvisar till OpenOffice-filformatet som introducerades av Microsoft som ett [ZIP](/sv/compression/zip/) arkivfilformat för ersättning av binära filformat som stöddes tidigare. VSTX-filer är därför baserade på XML-filformatet i OpenOffice-specifikationerna till skillnad från filformatet [.VST](/sv/visio/vst/) som är i binärt format.
 
 VSDX-filer är baserade på Open Packaging Conventions och XML och utvecklare kan dra nytta av detta format genom att lära sig hur man arbetar med dessa filer programmatiskt. Formatet ärver många av samma XML-strukturer som dess delar från Visio XML Drawing-filformatet (.vdx). Interoperabiliteten med Visio-filer ökar avsevärt eftersom programvara från tredje part kan manipulera Visio-filer på filformatsnivå.
 

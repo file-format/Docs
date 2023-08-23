@@ -24,7 +24,7 @@ Soubory s příponami .vstx jsou soubory šablon výkresů vytvořené pomocí a
 
 # Formát souboru VSTX #
 
-„X“ v příponě souboru odkazuje na formát souboru OpenOffice, který společnost Microsoft zavedla jako formát archivního souboru [ZIP](/cs/compression/zip/) jako náhradu za dříve podporované binární formáty souborů. Soubory VSTX jsou tedy založeny na formátu souboru XML specifikací OpenOffice na rozdíl od formátu souboru [.VST](/cs/image/vst/), který je v binárním formátu.
+„X“ v příponě souboru odkazuje na formát souboru OpenOffice, který společnost Microsoft zavedla jako formát archivního souboru [ZIP](/cs/compression/zip/) jako náhradu za dříve podporované binární formáty souborů. Soubory VSTX jsou tedy založeny na formátu souboru XML specifikací OpenOffice na rozdíl od formátu souboru [.VST](/cs/visio/vst/), který je v binárním formátu.
 
 Soubory VSDX jsou založeny na konvencích Open Packaging Conventions a XML a vývojáři mohou z tohoto formátu těžit tím, že se naučí, jak s těmito soubory programově pracovat. Formát dědí mnoho stejných struktur XML jako jeho části z formátu souboru Visio XML Drawing (.vdx). Interoperabilita se soubory aplikace Visio je výrazně zvýšena, protože software třetích stran může pracovat se soubory aplikace Visio na úrovni formátu souboru.
 

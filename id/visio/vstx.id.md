@@ -24,7 +24,7 @@ File dengan ekstensi .vstx menggambar file template yang dibuat dengan Microsoft
 
 # Format File VSTX #
 
-"X" dalam ekstensi file mengacu pada format file OpenOffice yang diperkenalkan oleh Microsoft sebagai format file arsip [ZIP](/id/compression/zip/) untuk menggantikan format file biner yang didukung sebelumnya. File VSTX, dengan demikian, didasarkan pada format file XML dari spesifikasi OpenOffice tidak seperti format file [.VST](/id/image/vst/) yang dalam format biner.
+"X" dalam ekstensi file mengacu pada format file OpenOffice yang diperkenalkan oleh Microsoft sebagai format file arsip [ZIP](/id/compression/zip/) untuk menggantikan format file biner yang didukung sebelumnya. File VSTX, dengan demikian, didasarkan pada format file XML dari spesifikasi OpenOffice tidak seperti format file [.VST](/id/visio/vst/) yang dalam format biner.
 
 File VSDX didasarkan pada Open Packaging Conventions dan XML dan pengembang bisa mendapatkan keuntungan dari format ini dengan mempelajari cara bekerja dengan file ini secara terprogram. Format ini mewarisi banyak struktur XML yang sama sebagai bagiannya dari format file Visio XML Drawing (.vdx). Interoperabilitas dengan file Visio sangat meningkat karena perangkat lunak pihak ketiga dapat memanipulasi file Visio pada tingkat format file.
 

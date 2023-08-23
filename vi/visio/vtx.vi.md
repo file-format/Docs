@@ -20,7 +20,7 @@
 
 ## Tệp VTX là gì?
 
-Tệp có phần mở rộng .vtx là mẫu bản vẽ Microsoft Visio được lưu vào đĩa ở định dạng tệp XML. Mẫu nhằm mục đích cung cấp một tệp có cài đặt cơ bản có thể được sử dụng để tạo nhiều tệp Visio có cùng cài đặt. Một định dạng tương tự khác là [VST](/vi/image/vst/) được lưu ở định dạng nhị phân thay vì XML. Các tệp VTX được hỗ trợ với Visio 2010 và các phiên bản mới hơn. Các tệp Visio được sử dụng để tạo các bản vẽ có chứa các đối tượng trực quan, sơ đồ luồng, sơ đồ UML, luồng thông tin, sơ đồ tổ chức, sơ đồ phần mềm, bố cục mạng, mô hình cơ sở dữ liệu, ánh xạ đối tượng và các thông tin tương tự khác. Các tệp được tạo bằng Visio cũng có thể được xuất sang các định dạng tệp khác nhau, chẳng hạn như [PNG](/vi/image/png/), [BMP](/vi/image/bmp/), PDF và các định dạng khác.
+Tệp có phần mở rộng .vtx là mẫu bản vẽ Microsoft Visio được lưu vào đĩa ở định dạng tệp XML. Mẫu nhằm mục đích cung cấp một tệp có cài đặt cơ bản có thể được sử dụng để tạo nhiều tệp Visio có cùng cài đặt. Một định dạng tương tự khác là [VST](/vi/visio/vst/) được lưu ở định dạng nhị phân thay vì XML. Các tệp VTX được hỗ trợ với Visio 2010 và các phiên bản mới hơn. Các tệp Visio được sử dụng để tạo các bản vẽ có chứa các đối tượng trực quan, sơ đồ luồng, sơ đồ UML, luồng thông tin, sơ đồ tổ chức, sơ đồ phần mềm, bố cục mạng, mô hình cơ sở dữ liệu, ánh xạ đối tượng và các thông tin tương tự khác. Các tệp được tạo bằng Visio cũng có thể được xuất sang các định dạng tệp khác nhau, chẳng hạn như [PNG](/vi/image/png/), [BMP](/vi/image/bmp/), PDF và các định dạng khác.
 
 Một số loại tệp khác bao gồm định dạng tệp Visio 2013 bao gồm:
 
