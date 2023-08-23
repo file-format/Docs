@@ -20,7 +20,7 @@
 
 ## VSSM dosyası nedir?
 
-.vssm uzantılı dosyalar, makro desteği sağlayan Microsoft Visio Stencil dosyalarıdır. Açıldığında bir VSSM dosyası, bir şemada şekillerin istenen biçimlendirmesini ve yerleşimini elde etmek için makroların çalıştırılmasına izin verir. Genel olarak Microsoft Visio, kullanıcı tanımlı bilgileri farklı şekillerde içerebilen ve temsil edebilen dosyalar oluşturmaya izin veren bir çizim yazılımıdır. Bunlardan en yaygın olanları, bunlarla sınırlı olmamak üzere, UML diyagramlarını, akış şemalarını, görsel nesneleri, bilgi akışını, organizasyon şemalarını, yazılım diyagramlarını, ağ düzenini, veritabanı modellerini, nesne eşlemeyi ve diğer benzer bilgileri içerir. Visio kullanılarak oluşturulan dosyalar ayrıca [PNG](/tr/Image/PNG/), [BMP](/tr/image/bmp/), [PDF](/tr/pdf/) ve diğerleri gibi farklı dosya biçimlerine dönüştürülebilir.
+.vssm uzantılı dosyalar, makro desteği sağlayan Microsoft Visio Stencil dosyalarıdır. Açıldığında bir VSSM dosyası, bir şemada şekillerin istenen biçimlendirmesini ve yerleşimini elde etmek için makroların çalıştırılmasına izin verir. Genel olarak Microsoft Visio, kullanıcı tanımlı bilgileri farklı şekillerde içerebilen ve temsil edebilen dosyalar oluşturmaya izin veren bir çizim yazılımıdır. Bunlardan en yaygın olanları, bunlarla sınırlı olmamak üzere, UML diyagramlarını, akış şemalarını, görsel nesneleri, bilgi akışını, organizasyon şemalarını, yazılım diyagramlarını, ağ düzenini, veritabanı modellerini, nesne eşlemeyi ve diğer benzer bilgileri içerir. Visio kullanılarak oluşturulan dosyalar ayrıca [PNG](/tr/image/png/), [BMP](/tr/image/bmp/), [PDF](/tr/pdf/) ve diğerleri gibi farklı dosya biçimlerine dönüştürülebilir.
 
 ## VSSM Dosya Biçimi
 

@@ -19,7 +19,7 @@
 }
 ## Che cos'è un file VDW?
 
-VDW è il formato di file di Visio Graphics Service che specifica i flussi e gli archivi necessari per il rendering di un disegno Web. Un disegno Web è una raccolta di pagine di disegno, forme, caratteri, immagini, connessioni dati e informazioni sull'aggiornamento del diagramma che possono essere renderizzate come un disegno vettoriale o raster. I file VDW possono essere aperti anche in Microsoft Visio, ma vengono salvati principalmente per l'uso sul Web. Microsoft Visio offre la possibilità di convertire i file Visio in diversi formati di file, inclusi [PNG](/it/Image/PNG/), [BMP](/it/image/bmp/), [PDF](/it/pdf/) e altri.
+VDW è il formato di file di Visio Graphics Service che specifica i flussi e gli archivi necessari per il rendering di un disegno Web. Un disegno Web è una raccolta di pagine di disegno, forme, caratteri, immagini, connessioni dati e informazioni sull'aggiornamento del diagramma che possono essere renderizzate come un disegno vettoriale o raster. I file VDW possono essere aperti anche in Microsoft Visio, ma vengono salvati principalmente per l'uso sul Web. Microsoft Visio offre la possibilità di convertire i file Visio in diversi formati di file, inclusi [PNG](/it/image/png/), [BMP](/it/image/bmp/), [PDF](/it/pdf/) e altri.
 
 ## **VDW** Formato file
 

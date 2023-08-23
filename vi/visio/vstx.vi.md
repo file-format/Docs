@@ -20,7 +20,7 @@
 
 ## Tệp VSTX là gì?
 
-Các tệp có phần mở rộng .vstx là các tệp mẫu vẽ được tạo bằng Microsoft Visio 2013 trở lên. Các tệp VSTX này cung cấp điểm bắt đầu để tạo bản vẽ Visio, được lưu dưới dạng tệp [.VSDX](/vi/image/vsdx/), với bố cục và cài đặt mặc định. Nói chung, các tệp Visio được sử dụng để tạo các bản vẽ có chứa các đối tượng trực quan, lưu đồ, sơ đồ UML, luồng thông tin, sơ đồ tổ chức, sơ đồ phần mềm, bố cục mạng, mô hình cơ sở dữ liệu, ánh xạ đối tượng và các thông tin tương tự khác. Các tệp được tạo bằng Visio cũng có thể được xuất sang các định dạng tệp khác nhau, chẳng hạn như [PNG](/vi/Image/PNG/), [BMP](/vi/image/bmp/), [PDF](/vi/pdf/) và các định dạng khác. Các chương trình mở tệp VSTX bao gồm Microsoft Visio cho Windows và Mac cho phép bạn mở các tệp này để xem và chỉnh sửa. Nó cũng cho phép chuyển đổi định dạng tệp Visio sang một số định dạng khác.
+Các tệp có phần mở rộng .vstx là các tệp mẫu vẽ được tạo bằng Microsoft Visio 2013 trở lên. Các tệp VSTX này cung cấp điểm bắt đầu để tạo bản vẽ Visio, được lưu dưới dạng tệp [.VSDX](/vi/image/vsdx/), với bố cục và cài đặt mặc định. Nói chung, các tệp Visio được sử dụng để tạo các bản vẽ có chứa các đối tượng trực quan, lưu đồ, sơ đồ UML, luồng thông tin, sơ đồ tổ chức, sơ đồ phần mềm, bố cục mạng, mô hình cơ sở dữ liệu, ánh xạ đối tượng và các thông tin tương tự khác. Các tệp được tạo bằng Visio cũng có thể được xuất sang các định dạng tệp khác nhau, chẳng hạn như [PNG](/vi/image/png/), [BMP](/vi/image/bmp/), [PDF](/vi/pdf/) và các định dạng khác. Các chương trình mở tệp VSTX bao gồm Microsoft Visio cho Windows và Mac cho phép bạn mở các tệp này để xem và chỉnh sửa. Nó cũng cho phép chuyển đổi định dạng tệp Visio sang một số định dạng khác.
 
 # Định dạng tệp VSTX #
 

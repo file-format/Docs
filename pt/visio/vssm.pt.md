@@ -20,7 +20,7 @@
 
 ## O que é um arquivo VSSM?
 
-Arquivos com extensão .vssm são arquivos de estêncil do Microsoft Visio que oferecem suporte para macros. Um arquivo VSSM quando aberto permite executar as macros para obter a formatação desejada e o posicionamento das formas em um diagrama. Em geral, o Microsoft Visio é um software de desenho que permite criar arquivos que podem conter e representar informações definidas pelo usuário em diferentes formas. Os mais comuns incluem, mas não se limitam a, diagramas UML, fluxogramas, objetos visuais, fluxo de informações, organogramas, diagramas de software, layout de rede, modelos de banco de dados, mapeamento de objetos e outras informações semelhantes. Os arquivos gerados usando o Visio também podem ser convertidos em diferentes formatos de arquivo, como [PNG](/pt/Image/PNG/), [BMP](/pt/image/bmp/), [PDF](/pt/pdf/) e outros.
+Arquivos com extensão .vssm são arquivos de estêncil do Microsoft Visio que oferecem suporte para macros. Um arquivo VSSM quando aberto permite executar as macros para obter a formatação desejada e o posicionamento das formas em um diagrama. Em geral, o Microsoft Visio é um software de desenho que permite criar arquivos que podem conter e representar informações definidas pelo usuário em diferentes formas. Os mais comuns incluem, mas não se limitam a, diagramas UML, fluxogramas, objetos visuais, fluxo de informações, organogramas, diagramas de software, layout de rede, modelos de banco de dados, mapeamento de objetos e outras informações semelhantes. Os arquivos gerados usando o Visio também podem ser convertidos em diferentes formatos de arquivo, como [PNG](/pt/image/png/), [BMP](/pt/image/bmp/), [PDF](/pt/pdf/) e outros.
 
 ## Formato de arquivo VSSM
 

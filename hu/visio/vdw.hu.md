@@ -19,7 +19,7 @@
 }
 ## Mi az a VDW fájl?
 
-A VDW a Visio Graphics Service fájlformátuma, amely meghatározza a webes rajzok megjelenítéséhez szükséges adatfolyamokat és tárolókat. A webes rajz rajzoldalak, alakzatok, betűtípusok, képek, adatkapcsolatok és diagramfrissítési információk gyűjteménye, amelyek vektoros vagy raszteres rajzként jeleníthetők meg. A VDW fájlok a Microsoft Visio programban is megnyithatók, de elsősorban webes használatra mentik őket. A Microsoft Visio lehetőséget kínál a Visio-fájlok számos különböző fájlformátumra konvertálására, beleértve a [PNG](/hu/Image/PNG/), [BMP](/hu/image/bmp/), [PDF](/hu/pdf/) és más formátumokat.
+A VDW a Visio Graphics Service fájlformátuma, amely meghatározza a webes rajzok megjelenítéséhez szükséges adatfolyamokat és tárolókat. A webes rajz rajzoldalak, alakzatok, betűtípusok, képek, adatkapcsolatok és diagramfrissítési információk gyűjteménye, amelyek vektoros vagy raszteres rajzként jeleníthetők meg. A VDW fájlok a Microsoft Visio programban is megnyithatók, de elsősorban webes használatra mentik őket. A Microsoft Visio lehetőséget kínál a Visio-fájlok számos különböző fájlformátumra konvertálására, beleértve a [PNG](/hu/image/png/), [BMP](/hu/image/bmp/), [PDF](/hu/pdf/) és más formátumokat.
 
 ## **VDW** fájlformátum
 

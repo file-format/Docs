@@ -19,7 +19,7 @@
 }
 ## 什么是一 .vdw 文件？
 
-VDW 是 Visio 图形服务文件格式，它指定呈现 Web 绘图所需的流和存储。 Web 绘图是绘图页面、形状、字体、图像、数据连接和图表更新信息的集合，可以呈现为矢量或光栅绘图。 VDW 文件也可以在 Microsoft Visio 中打开，但主要保存在 Web 上使用。 Microsoft Visio 提供将 Visio 文件转换为多种不同文件格式的功能，包括 [PNG](/zh/Image/PNG/)、[BMP](/zh/image/bmp/)、[PDF](/zh/pdf/) 等。
+VDW 是 Visio 图形服务文件格式，它指定呈现 Web 绘图所需的流和存储。 Web 绘图是绘图页面、形状、字体、图像、数据连接和图表更新信息的集合，可以呈现为矢量或光栅绘图。 VDW 文件也可以在 Microsoft Visio 中打开，但主要保存在 Web 上使用。 Microsoft Visio 提供将 Visio 文件转换为多种不同文件格式的功能，包括 [PNG](/zh/image/png/)、[BMP](/zh/image/bmp/)、[PDF](/zh/pdf/) 等。
 
 ## **VDW** 文件格式
 
