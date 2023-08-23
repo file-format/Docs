@@ -36,6 +36,6 @@ Các tệp ICA phải tuân thủ các định dạng và khởi tạo nhất đ
 
 ## Người giới thiệu
 
-* [Hiểu nội dung tệp ICA](https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvu Hiểuing_ica_file_contents.htm)
+* [Hiểu nội dung tệp ICA](https://docs.eggplantsoftware.com/epp/9.0.0/ePP/cvuunderstanding_ica_file_contents.htm)
 * [Tham khảo cài đặt Citrix ICA](https://docs.citrix.com/en-us/categories/legacy-archive)
 
