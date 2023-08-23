@@ -27,7 +27,7 @@ Microsoft が **Office Open XML** の標準に対応するために変更を行�
 
 ## XLTM ファイル形式の仕様 ##
 
-XLTM ファイルは Office OpenXML ファイル形式に基づいており、XML と [ZIP](/Compression/ZIP/) を使用してファイル サイズを縮小します。これらは、ファイルをダブルクリックして Microsoft Excel で開くことができます。 XLTM ファイル形式のファイル編成は、ファイルの名前を ZIP に変更し、その内容をディスクに抽出することで確認できます。
+XLTM ファイルは Office OpenXML ファイル形式に基づいており、XML と [ZIP](/compression/zip/) を使用してファイル サイズを縮小します。これらは、ファイルをダブルクリックして Microsoft Excel で開くことができます。 XLTM ファイル形式のファイル編成は、ファイルの名前を ZIP に変更し、その内容をディスクに抽出することで確認できます。
 
 ### [Content_Types].xml ###
 

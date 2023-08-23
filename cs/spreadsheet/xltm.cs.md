@@ -27,7 +27,7 @@ Bylo to počátkem roku 2000, kdy se Microsoft rozhodl přistoupit ke změně, a
 
 ## Specifikace formátu souboru XLTM ##
 
-Soubory XLTM jsou založeny na formátu souborů Office OpenXML a ke zmenšení velikosti souboru používají XML a [ZIP](/cs/Compression/ZIP/). Ty lze otevřít v aplikaci Microsoft Excel dvojitým kliknutím na soubor. Uspořádání souborů ve formátu XLTM lze sledovat přejmenováním souboru na ZIP a následným rozbalením jeho obsahu na disk.
+Soubory XLTM jsou založeny na formátu souborů Office OpenXML a ke zmenšení velikosti souboru používají XML a [ZIP](/cs/compression/zip/). Ty lze otevřít v aplikaci Microsoft Excel dvojitým kliknutím na soubor. Uspořádání souborů ve formátu XLTM lze sledovat přejmenováním souboru na ZIP a následným rozbalením jeho obsahu na disk.
 
 ### [Content_Types].xml ###
 

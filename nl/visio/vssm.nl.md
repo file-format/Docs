@@ -32,7 +32,7 @@ Het VSSM-bestandsformaat is geïntroduceerd met Microsoft Visio 2013 dat is geba
 * .vstx (Visio-sjabloon)
 * .vstm (Macro-enabled Visio-sjabloon)
 
-Onder de motorkap gebruikt het Visio 2013-bestandsformaat een gestructureerde manier om applicatiegegevens samen met gerelateerde bronnen op te slaan in een archief zoals [ZIP](/nl/Compression/ZIP/). Het ZIP-bestand kan worden uitgepakt met behulp van elk standaard extractiehulpprogramma waar het ook andere soorten bestanden bevat.
+Onder de motorkap gebruikt het Visio 2013-bestandsformaat een gestructureerde manier om applicatiegegevens samen met gerelateerde bronnen op te slaan in een archief zoals [ZIP](/nl/compression/zip/). Het ZIP-bestand kan worden uitgepakt met behulp van elk standaard extractiehulpprogramma waar het ook andere soorten bestanden bevat.
 
 Elk Visio-bestand wordt een pakket genoemd dat andere bestanden of onderdelen bevat. Een pakketonderdeel kan een XML-bestand, een afbeelding of zelfs een VBA-oplossing zijn. De onderdelen binnen het pakket kunnen worden onderverdeeld in "document"- en "relatie"-gedeelten.
 

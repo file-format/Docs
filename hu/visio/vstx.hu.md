@@ -36,7 +36,7 @@ Bizonyos egyéb fájltípusok, amelyek a Visio 2013 fájlformátumot tartalmazz�
 * .vstx (Visio sablon)
 * .vstm (Visio makró-kompatibilis sablon)
 
-A motorháztető alatt a Visio 2013 fájlformátum strukturált módon tárolja az alkalmazásadatokat a kapcsolódó erőforrásokkal együtt egy archívumban, például [ZIP](/hu/Compression/ZIP/). A ZIP fájl bármely szabványos kicsomagoló segédprogrammal kibontható, ahol más típusú fájlokat is tartalmaz. A .VSTX fájlkiterjesztést .ZIP-re cserélheti a Windows Explorerben, hogy megtekinthesse a VSTX fájl tartalmát.
+A motorháztető alatt a Visio 2013 fájlformátum strukturált módon tárolja az alkalmazásadatokat a kapcsolódó erőforrásokkal együtt egy archívumban, például [ZIP](/hu/compression/zip/). A ZIP fájl bármely szabványos kicsomagoló segédprogrammal kibontható, ahol más típusú fájlokat is tartalmaz. A .VSTX fájlkiterjesztést .ZIP-re cserélheti a Windows Explorerben, hogy megtekinthesse a VSTX fájl tartalmát.
 
 Minden Visio-fájlt más fájlokat vagy részeket tartalmazó csomagnak neveznek. A csomag része lehet XML fájl, kép vagy akár VBA-megoldás is. A csomagon belüli részek feloszthatók „dokumentum” és „kapcsolat” részekre.
 

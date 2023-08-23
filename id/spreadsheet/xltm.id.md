@@ -27,7 +27,7 @@ Pada awal tahun 2000, Microsoft memutuskan untuk melakukan perubahan untuk menga
 
 ## Spesifikasi Format File XLTM ##
 
-File XLTM didasarkan pada format file Office OpenXML dan menggunakan XML dan [ZIP](/id/Compression/ZIP/) untuk mengurangi ukuran file. Ini dapat dibuka dengan Microsoft Excel dengan mengklik dua kali file tersebut. Organisasi file dalam format file XLTM dapat diamati dengan mengganti nama file menjadi ZIP dan kemudian mengekstrak isinya ke disk.
+File XLTM didasarkan pada format file Office OpenXML dan menggunakan XML dan [ZIP](/id/compression/zip/) untuk mengurangi ukuran file. Ini dapat dibuka dengan Microsoft Excel dengan mengklik dua kali file tersebut. Organisasi file dalam format file XLTM dapat diamati dengan mengganti nama file menjadi ZIP dan kemudian mengekstrak isinya ke disk.
 
 ### [Content_Types].xml ###
 

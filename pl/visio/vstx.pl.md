@@ -36,7 +36,7 @@ Niektóre inne typy plików składające się na format pliku programu Visio 201
 * .vstx (szablon programu Visio)
 * .vstm (szablon programu Visio z obsługą makr)
 
-Pod maską format pliku Visio 2013 wykorzystuje ustrukturyzowane środki do przechowywania danych aplikacji wraz z powiązanymi zasobami w archiwum, takim jak [ZIP](/pl/Compression/ZIP/). Plik ZIP można wyodrębnić za pomocą dowolnego standardowego narzędzia do wyodrębniania, w którym zawiera również inne typy plików. Możesz po prostu zamienić rozszerzenie pliku .VSTX na .ZIP w Eksploratorze Windows, aby zobaczyć zawartość pliku VSTX.
+Pod maską format pliku Visio 2013 wykorzystuje ustrukturyzowane środki do przechowywania danych aplikacji wraz z powiązanymi zasobami w archiwum, takim jak [ZIP](/pl/compression/zip/). Plik ZIP można wyodrębnić za pomocą dowolnego standardowego narzędzia do wyodrębniania, w którym zawiera również inne typy plików. Możesz po prostu zamienić rozszerzenie pliku .VSTX na .ZIP w Eksploratorze Windows, aby zobaczyć zawartość pliku VSTX.
 
 Każdy plik programu Visio jest określany jako pakiet zawierający inne pliki lub części. Częścią pakietu może być plik XML, obraz, a nawet rozwiązanie VBA. Części w pakiecie można podzielić na części „dokumentowe” i „relacyjne”.
 

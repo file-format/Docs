@@ -36,7 +36,7 @@ Bepaalde andere bestandstypen die deel uitmaken van de Visio 2013-bestandsindeli
 * .vstx (Visio-sjabloon)
 * .vstm (Macro-enabled Visio-sjabloon)
 
-Onder de motorkap gebruikt het Visio 2013-bestandsformaat een gestructureerde manier om applicatiegegevens samen met gerelateerde bronnen op te slaan in een archief zoals [ZIP](/nl/Compression/ZIP/). Het ZIP-bestand kan worden uitgepakt met behulp van elk standaard extractiehulpprogramma waar het ook andere soorten bestanden bevat. U kunt gewoon de .VSTX-bestandsextensie vervangen door .ZIP in Windows Explore om de inhoud in het VSTX-bestand te zien.
+Onder de motorkap gebruikt het Visio 2013-bestandsformaat een gestructureerde manier om applicatiegegevens samen met gerelateerde bronnen op te slaan in een archief zoals [ZIP](/nl/compression/zip/). Het ZIP-bestand kan worden uitgepakt met behulp van elk standaard extractiehulpprogramma waar het ook andere soorten bestanden bevat. U kunt gewoon de .VSTX-bestandsextensie vervangen door .ZIP in Windows Explore om de inhoud in het VSTX-bestand te zien.
 
 Elk Visio-bestand wordt een pakket genoemd dat andere bestanden of onderdelen bevat. Een pakketonderdeel kan een XML-bestand, een afbeelding of zelfs een VBA-oplossing zijn. De onderdelen binnen het pakket kunnen worden onderverdeeld in "document"- en "relatie"-gedeelten.
 

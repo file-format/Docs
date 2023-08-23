@@ -32,7 +32,7 @@ A VSSM fájlformátumot a Microsoft Visio 2013-ban vezették be, amely az OpenOf
 * .vstx (Visio sablon)
 * .vstm (Visio makró-kompatibilis sablon)
 
-A motorháztető alatt a Visio 2013 fájlformátum strukturált módon tárolja az alkalmazásadatokat a kapcsolódó erőforrásokkal együtt egy archívumban, például [ZIP](/hu/Compression/ZIP/). A ZIP fájl bármely szabványos kicsomagoló segédprogrammal kibontható, ahol más típusú fájlokat is tartalmaz.
+A motorháztető alatt a Visio 2013 fájlformátum strukturált módon tárolja az alkalmazásadatokat a kapcsolódó erőforrásokkal együtt egy archívumban, például [ZIP](/hu/compression/zip/). A ZIP fájl bármely szabványos kicsomagoló segédprogrammal kibontható, ahol más típusú fájlokat is tartalmaz.
 
 Minden Visio-fájlt más fájlokat vagy részeket tartalmazó csomagnak neveznek. A csomag része lehet XML fájl, kép vagy akár VBA-megoldás is. A csomagon belüli részek feloszthatók „dokumentum” és „kapcsolat” részekre.
 

@@ -35,7 +35,7 @@ Au existat modificări destul de minore în tranziția de la versiunile ODF 1.0 
 
 ## Specificații de format de fișier
 
-Formatul OpenDocument acceptă reprezentarea documentelor ca un singur document XML, precum și o colecție de mai multe subdocumente într-un pachet ca arhivă [ZIP](/ro/Compression/ZIP/). Fiecare dintre fișierele din arhiva ZIP stochează o parte din documentul complet. Fiecare subdocument stochează un anumit aspect al documentului. De exemplu, un subdocument conține informațiile despre stil, iar un alt subdocument conține conținutul documentului. Un document ODF tipic are următoarele componente:
+Formatul OpenDocument acceptă reprezentarea documentelor ca un singur document XML, precum și o colecție de mai multe subdocumente într-un pachet ca arhivă [ZIP](/ro/compression/zip/). Fiecare dintre fișierele din arhiva ZIP stochează o parte din documentul complet. Fiecare subdocument stochează un anumit aspect al documentului. De exemplu, un subdocument conține informațiile despre stil, iar un alt subdocument conține conținutul documentului. Un document ODF tipic are următoarele componente:
 
 * content.xml – Conținutul documentului și stilurile automate utilizate în conținut.
 * styles.xml – Stiluri utilizate în conținutul documentului și stiluri automate utilizate în stilurile în sine.

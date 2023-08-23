@@ -36,7 +36,7 @@ Některé další typy souborů, které tvoří formát souboru Visio 2013, zahr
 * .vstx (šablona Visio)
 * .vstm (šablona s podporou maker aplikace Visio)
 
-Formát souboru Visio 2013 pod kapotou používá strukturované prostředky k ukládání dat aplikace spolu se souvisejícími zdroji v archivu, jako je [ZIP](/cs/Compression/ZIP/). Soubor ZIP lze extrahovat pomocí libovolného standardního extrakčního nástroje, pokud obsahuje i jiné typy souborů. Můžete jednoduše nahradit příponu souboru .VSTX příponou .ZIP v průzkumu Windows, abyste viděli obsah uvnitř souboru VSTX.
+Formát souboru Visio 2013 pod kapotou používá strukturované prostředky k ukládání dat aplikace spolu se souvisejícími zdroji v archivu, jako je [ZIP](/cs/compression/zip/). Soubor ZIP lze extrahovat pomocí libovolného standardního extrakčního nástroje, pokud obsahuje i jiné typy souborů. Můžete jednoduše nahradit příponu souboru .VSTX příponou .ZIP v průzkumu Windows, abyste viděli obsah uvnitř souboru VSTX.
 
 Každý soubor aplikace Visio se nazývá balíček, který obsahuje další soubory nebo části. Část balíčku může být soubor XML, obrázek nebo dokonce řešení VBA. Části v balíčku lze rozdělit na části „dokument“ a „vztah“.
 

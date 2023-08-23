@@ -36,7 +36,7 @@ Visio 2013 dosya biçimini oluşturan diğer bazı dosya türleri şunları içe
 * .vstx (Visio şablonu)
 * .vstm (Visio makro özellikli şablon)
 
-Görünüşte, Visio 2013 dosya formatı, uygulama verilerini ilgili kaynaklarla birlikte [ZIP](/tr/Compression/ZIP/) gibi bir arşivde depolamak için yapılandırılmış bir araç kullanır. ZIP dosyası, diğer dosya türlerini de içeren herhangi bir standart çıkarma yardımcı programı kullanılarak çıkarılabilir. VSTX dosyasının içeriğini görmek için Windows explore'da .VSTX dosya uzantısını .ZIP ile değiştirebilirsiniz.
+Görünüşte, Visio 2013 dosya formatı, uygulama verilerini ilgili kaynaklarla birlikte [ZIP](/tr/compression/zip/) gibi bir arşivde depolamak için yapılandırılmış bir araç kullanır. ZIP dosyası, diğer dosya türlerini de içeren herhangi bir standart çıkarma yardımcı programı kullanılarak çıkarılabilir. VSTX dosyasının içeriğini görmek için Windows explore'da .VSTX dosya uzantısını .ZIP ile değiştirebilirsiniz.
 
 Her Visio dosyası, diğer dosyaları veya parçaları tutan paket olarak adlandırılır. Bir paket parçası, bir XML dosyası, bir görüntü veya hatta bir VBA çözümü olabilir. Paket içindeki parçalar, "doküman" ve "ilişki" bölümlerine ayrılabilir.
 

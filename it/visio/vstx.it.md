@@ -36,7 +36,7 @@ Alcuni altri tipi di file che comprendono il formato di file di Visio 2013 inclu
 * .vstx (modello di Visio)
 * .vstm (modello abilitato per le macro di Visio)
 
-Sotto il cofano, il formato di file Visio 2013 utilizza un mezzo strutturato per archiviare i dati dell'applicazione insieme alle risorse correlate in un archivio come [ZIP](/it/Compression/ZIP/). Il file ZIP può essere estratto utilizzando qualsiasi utilità di estrazione standard in cui contiene anche altri tipi di file. Puoi semplicemente sostituire l'estensione del file .VSTX con .ZIP in Windows Explorer per vedere il contenuto all'interno del file VSTX.
+Sotto il cofano, il formato di file Visio 2013 utilizza un mezzo strutturato per archiviare i dati dell'applicazione insieme alle risorse correlate in un archivio come [ZIP](/it/compression/zip/). Il file ZIP può essere estratto utilizzando qualsiasi utilità di estrazione standard in cui contiene anche altri tipi di file. Puoi semplicemente sostituire l'estensione del file .VSTX con .ZIP in Windows Explorer per vedere il contenuto all'interno del file VSTX.
 
 Ogni file di Visio è definito come pacchetto che contiene altri file o parti. Una parte del pacchetto può essere un file XML, un'immagine o anche una soluzione VBA. Le parti all'interno del pacchetto possono essere suddivise in parti "documento" e "relazione".
 

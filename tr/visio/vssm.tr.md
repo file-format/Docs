@@ -32,7 +32,7 @@ VSSM dosya formatı, OpenOffice XML spesifikasyonlarına dayanan Microsoft Visio
 * .vstx (Visio şablonu)
 * .vstm (Visio makro özellikli şablon)
 
-Görünüşte, Visio 2013 dosya formatı, uygulama verilerini ilgili kaynaklarla birlikte [ZIP](/tr/Compression/ZIP/) gibi bir arşivde depolamak için yapılandırılmış bir araç kullanır. ZIP dosyası, diğer dosya türlerini de içeren herhangi bir standart çıkarma yardımcı programı kullanılarak çıkarılabilir.
+Görünüşte, Visio 2013 dosya formatı, uygulama verilerini ilgili kaynaklarla birlikte [ZIP](/tr/compression/zip/) gibi bir arşivde depolamak için yapılandırılmış bir araç kullanır. ZIP dosyası, diğer dosya türlerini de içeren herhangi bir standart çıkarma yardımcı programı kullanılarak çıkarılabilir.
 
 Her Visio dosyası, diğer dosyaları veya parçaları tutan paket olarak adlandırılır. Bir paket parçası, bir XML dosyası, bir görüntü veya hatta bir VBA çözümü olabilir. Paket içindeki parçalar, "doküman" ve "ilişki" bölümlerine ayrılabilir.
 

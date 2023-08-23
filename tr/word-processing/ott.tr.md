@@ -35,7 +35,7 @@ ODF 1.0'dan 1.1 sürümlerine geçişte oldukça küçük değişiklikler oldu. 
 
 ## Dosya Biçimi Özellikleri
 
-OpenDocument formatı, tek bir XML belgesi olarak belge temsilini ve [ZIP](/tr/Compression/ZIP/) arşivi olarak bir paket içinde birkaç alt belge koleksiyonunu destekler. ZIP arşivindeki dosyaların her biri, tüm belgenin bir bölümünü saklar. Her alt belge, belgenin belirli bir yönünü saklar. Örneğin, bir alt belge stil bilgilerini içerir ve başka bir alt belge belgenin içeriğini içerir. Tipik bir ODF belgesi aşağıdaki bileşenlere sahiptir:
+OpenDocument formatı, tek bir XML belgesi olarak belge temsilini ve [ZIP](/tr/compression/zip/) arşivi olarak bir paket içinde birkaç alt belge koleksiyonunu destekler. ZIP arşivindeki dosyaların her biri, tüm belgenin bir bölümünü saklar. Her alt belge, belgenin belirli bir yönünü saklar. Örneğin, bir alt belge stil bilgilerini içerir ve başka bir alt belge belgenin içeriğini içerir. Tipik bir ODF belgesi aşağıdaki bileşenlere sahiptir:
 
 * content.xml – Belge içeriği ve içerikte kullanılan otomatik stiller.
 * styles.xml – Belge içeriğinde kullanılan stiller ve stillerin kendisinde kullanılan otomatik stiller.

@@ -36,7 +36,7 @@ Anumite alte tipuri de fișiere care cuprind formatul de fișier Visio 2013 incl
 * .vstx (șablon Visio)
 * .vstm (șablon Visio activat pentru macrocomandă)
 
-Sub capotă, formatul de fișier Visio 2013 utilizează un mijloc structurat pentru a stoca datele aplicației împreună cu resursele aferente într-o arhivă, cum ar fi [ZIP](/ro/Compression/ZIP/). Fișierul ZIP poate fi extras folosind orice utilitar de extragere standard unde conține și alte tipuri de fișiere. Puteți înlocui doar extensia de fișier .VSTX cu .ZIP în Windows Explorer pentru a vedea conținutul din fișierul VSTX.
+Sub capotă, formatul de fișier Visio 2013 utilizează un mijloc structurat pentru a stoca datele aplicației împreună cu resursele aferente într-o arhivă, cum ar fi [ZIP](/ro/compression/zip/). Fișierul ZIP poate fi extras folosind orice utilitar de extragere standard unde conține și alte tipuri de fișiere. Puteți înlocui doar extensia de fișier .VSTX cu .ZIP în Windows Explorer pentru a vedea conținutul din fișierul VSTX.
 
 Fiecare fișier Visio este denumit pachet care conține alte fișiere sau părți. O parte a pachetului poate fi un fișier XML, o imagine sau chiar o soluție VBA. Părțile din pachet pot fi împărțite în părți „document” și „relație”.
 

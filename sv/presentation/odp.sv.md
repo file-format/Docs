@@ -33,7 +33,7 @@ Det var ganska små förändringar i övergången från ODF 1.0 till 1.1 version
 
 ## Filformatspecifikationer
 
-OpenDocument-formatet stöder dokumentrepresentation som ett enda XML-dokument samt en samling av flera underdokument i ett paket som [ZIP](https://docs.fileformat.com/Compression/ZIP/) arkiv. Var och en av filerna från ZIP-arkivet lagrar en del av det fullständiga dokumentet. Varje underdokument lagrar en viss aspekt av dokumentet. Till exempel innehåller ett underdokument stilinformationen och ett annat underdokument innehåller dokumentets innehåll. Ett typiskt ODF-dokument har följande komponenter:
+OpenDocument-formatet stöder dokumentrepresentation som ett enda XML-dokument samt en samling av flera underdokument i ett paket som [ZIP](https://docs.fileformat.com/compression/zip/) arkiv. Var och en av filerna från ZIP-arkivet lagrar en del av det fullständiga dokumentet. Varje underdokument lagrar en viss aspekt av dokumentet. Till exempel innehåller ett underdokument stilinformationen och ett annat underdokument innehåller dokumentets innehåll. Ett typiskt ODF-dokument har följande komponenter:
 
 * `content.xml` – Dokumentinnehåll och automatiska stilar som används i innehållet.
 * `styles.xml` – Stilar som används i dokumentinnehållet och automatiska stilar som används i själva stilarna.

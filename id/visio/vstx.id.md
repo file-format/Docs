@@ -36,7 +36,7 @@ Jenis file tertentu lainnya yang terdiri dari format file Visio 2013 meliputi:
 * .vstx (templat Visio)
 * .vstm (template berkemampuan makro Visio)
 
-Di balik layar, format file Visio 2013 menggunakan sarana terstruktur untuk menyimpan data aplikasi bersama dengan sumber daya terkait dalam arsip seperti [ZIP](/id/Compression/ZIP/). File ZIP dapat diekstraksi menggunakan utilitas ekstraksi standar apa pun yang juga berisi jenis file lain. Anda tinggal mengganti ekstensi file .VSTX dengan .ZIP di windows explore untuk melihat isi di dalam file VSTX.
+Di balik layar, format file Visio 2013 menggunakan sarana terstruktur untuk menyimpan data aplikasi bersama dengan sumber daya terkait dalam arsip seperti [ZIP](/id/compression/zip/). File ZIP dapat diekstraksi menggunakan utilitas ekstraksi standar apa pun yang juga berisi jenis file lain. Anda tinggal mengganti ekstensi file .VSTX dengan .ZIP di windows explore untuk melihat isi di dalam file VSTX.
 
 Setiap file Visio disebut sebagai paket yang menampung file atau bagian lain. Bagian paket dapat berupa file XML, gambar, atau bahkan solusi VBA. Bagian dalam paket dapat dibagi menjadi bagian "dokumen" dan "hubungan".
 

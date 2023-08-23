@@ -36,7 +36,7 @@ Một số loại tệp khác bao gồm định dạng tệp Visio 2013 bao gồ
 * .vstx (mẫu Visio)
 * .vstm (mẫu hỗ trợ macro Visio)
 
-Về cơ bản, định dạng tệp Visio 2013 sử dụng một phương tiện có cấu trúc để lưu trữ dữ liệu ứng dụng cùng với các tài nguyên liên quan trong một kho lưu trữ chẳng hạn như [ZIP](/vi/Compression/ZIP/). Tệp ZIP có thể được trích xuất bằng bất kỳ tiện ích trích xuất tiêu chuẩn nào có chứa các loại tệp khác. Bạn chỉ có thể thay thế phần mở rộng tệp .VSTX bằng .ZIP trong cửa sổ khám phá để xem nội dung bên trong tệp VSTX.
+Về cơ bản, định dạng tệp Visio 2013 sử dụng một phương tiện có cấu trúc để lưu trữ dữ liệu ứng dụng cùng với các tài nguyên liên quan trong một kho lưu trữ chẳng hạn như [ZIP](/vi/compression/zip/). Tệp ZIP có thể được trích xuất bằng bất kỳ tiện ích trích xuất tiêu chuẩn nào có chứa các loại tệp khác. Bạn chỉ có thể thay thế phần mở rộng tệp .VSTX bằng .ZIP trong cửa sổ khám phá để xem nội dung bên trong tệp VSTX.
 
 Mỗi tệp Visio được gọi là gói chứa các tệp hoặc phần khác. Một phần của gói có thể là một tệp XML, một hình ảnh hoặc thậm chí là một giải pháp VBA. Các phần bên trong gói có thể được chia thành các phần "tài liệu" và "mối quan hệ".
 

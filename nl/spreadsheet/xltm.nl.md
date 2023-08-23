@@ -27,7 +27,7 @@ Het was in het begin van 2000 toen Microsoft besloot om voor de verandering te g
 
 ## Specificaties XLTM-bestandsindeling ##
 
-XLTM-bestanden zijn gebaseerd op de Office OpenXML-bestandsindeling en gebruiken XML en [ZIP](/nl/Compression/ZIP/) om de bestandsgrootte te verkleinen. Deze zijn te openen met Microsoft Excel door te dubbelklikken op het bestand. De bestandsorganisatie in een XLTM-bestandsindeling kan worden bekeken door het bestand te hernoemen naar ZIP en vervolgens de inhoud op schijf uit te pakken.
+XLTM-bestanden zijn gebaseerd op de Office OpenXML-bestandsindeling en gebruiken XML en [ZIP](/nl/compression/zip/) om de bestandsgrootte te verkleinen. Deze zijn te openen met Microsoft Excel door te dubbelklikken op het bestand. De bestandsorganisatie in een XLTM-bestandsindeling kan worden bekeken door het bestand te hernoemen naar ZIP en vervolgens de inhoud op schijf uit te pakken.
 
 ### [Content_Types].xml ###
 

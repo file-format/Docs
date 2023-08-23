@@ -35,7 +35,7 @@ Il y a eu des changements assez mineurs lors de la transition des versions ODF 1
 
 ## Spécifications du format de fichier ##
 
-Le format OpenDocument prend en charge la représentation du document en tant que document XML unique ainsi qu'une collection de plusieurs sous-documents dans un package en tant qu'archive [ZIP](/fr/Compression/ZIP/). Chacun des fichiers de l'archive ZIP stocke une partie du document complet. Chaque sous-document stocke un aspect particulier du document. Par exemple, un sous-document contient les informations de style et un autre sous-document contient le contenu du document. Un document ODF typique comprend les composants suivants :
+Le format OpenDocument prend en charge la représentation du document en tant que document XML unique ainsi qu'une collection de plusieurs sous-documents dans un package en tant qu'archive [ZIP](/fr/compression/zip/). Chacun des fichiers de l'archive ZIP stocke une partie du document complet. Chaque sous-document stocke un aspect particulier du document. Par exemple, un sous-document contient les informations de style et un autre sous-document contient le contenu du document. Un document ODF typique comprend les composants suivants :
 
 * content.xml – Contenu du document et styles automatiques utilisés dans le contenu.
 * styles.xml – Styles utilisés dans le contenu du document et styles automatiques utilisés dans les styles eux-mêmes.

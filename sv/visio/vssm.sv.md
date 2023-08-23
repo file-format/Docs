@@ -32,7 +32,7 @@ VSSM-filformatet introducerades med Microsoft Visio 2013 som är baserat på Ope
 * .vstx (Visio-mall)
 * .vstm (Visio makroaktiverad mall)
 
-Under huven använder Visio 2013-filformatet ett strukturerat sätt att lagra applikationsdata tillsammans med relaterade resurser i ett arkiv som [ZIP](/sv/Compression/ZIP/). ZIP-filen kan extraheras med vilket standardextraktionsverktyg som helst där den också innehåller andra typer av filer.
+Under huven använder Visio 2013-filformatet ett strukturerat sätt att lagra applikationsdata tillsammans med relaterade resurser i ett arkiv som [ZIP](/sv/compression/zip/). ZIP-filen kan extraheras med vilket standardextraktionsverktyg som helst där den också innehåller andra typer av filer.
 
 Varje Visio-fil kallas paket som innehåller andra filer eller delar. En paketdel kan vara en XML-fil, en bild eller till och med en VBA-lösning. Delarna i paketet kan delas upp i "dokument" och "relations"-delar.
 

@@ -32,7 +32,7 @@ O formato de arquivo VSSM foi introduzido com o Microsoft Visio 2013, que é bas
 * .vstx (modelo do Visio)
 * .vstm (modelo habilitado para macro do Visio)
 
-Nos bastidores, o formato de arquivo do Visio 2013 usa um meio estruturado para armazenar dados do aplicativo junto com recursos relacionados em um arquivo como [ZIP](/pt/Compression/ZIP/). O arquivo ZIP pode ser extraído usando qualquer utilitário de extração padrão onde também contenha outros tipos de arquivos.
+Nos bastidores, o formato de arquivo do Visio 2013 usa um meio estruturado para armazenar dados do aplicativo junto com recursos relacionados em um arquivo como [ZIP](/pt/compression/zip/). O arquivo ZIP pode ser extraído usando qualquer utilitário de extração padrão onde também contenha outros tipos de arquivos.
 
 Cada arquivo do Visio é denominado como pacote que contém outros arquivos ou partes. Uma parte do pacote pode ser um arquivo XML, uma imagem ou até mesmo uma solução VBA. As partes dentro do pacote podem ser divididas em partes "documento" e "relacionamento".
 

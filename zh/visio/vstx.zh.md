@@ -36,7 +36,7 @@ VSDX 文件基于 Open Packaging Conventions 和 XML，开发人员可以通过�
 * .vstx（Visio 模板）
 * .vstm（Visio 启用宏的模板）
 
-在底层，Visio 2013 文件格式使用结构化方法将应用程序数据与相关资源一起存储在存档中，例如 [ZIP](/zh/Compression/ZIP/)。 ZIP 文件可以使用任何标准提取实用程序进行提取，其中还包含其他类型的文件。您可以在 windows explore 中将 .VSTX 文件扩展名替换为 .ZIP 以查看 VSTX 文件中的内容。
+在底层，Visio 2013 文件格式使用结构化方法将应用程序数据与相关资源一起存储在存档中，例如 [ZIP](/zh/compression/zip/)。 ZIP 文件可以使用任何标准提取实用程序进行提取，其中还包含其他类型的文件。您可以在 windows explore 中将 .VSTX 文件扩展名替换为 .ZIP 以查看 VSTX 文件中的内容。
 
 每个 Visio 文件都称为包含其他文件或部分的包。包部分可以是 XML 文件、图像甚至是 VBA 解决方案。包中的部分可以分为“文档"部分和“关系"部分。
 
