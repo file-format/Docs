@@ -16,7 +16,7 @@ lastmod: 2021-05-20
 
 ## Vad är KT fil? ##
 
-En källkod skriven i Kotlin sparas med tillägget .kt som är allmänt känt som **Kotlin filtillägg**. Kotlin är ett allmänt plattformsoberoende programmeringsspråk utvecklat av JetBrains för att vara fullt interoperabelt med [Java](/sv/programmering/java/). Kotlins varumärke är skyddat av Kotlin Foundation.
+En källkod skriven i Kotlin sparas med tillägget .kt som är allmänt känt som **Kotlin filtillägg**. Kotlin är ett allmänt plattformsoberoende programmeringsspråk utvecklat av JetBrains för att vara fullt interoperabelt med [Java](/sv/programming/java/). Kotlins varumärke är skyddat av Kotlin Foundation.
 
 Kotlin tillkännagavs som det föredragna programmeringsspråket för Android-apputveckling av Google den 7 maj 2019. Android Studio 3.0 började stödja Kotlin som ett alternativ för Android-apputveckling i oktober 2017.
 
