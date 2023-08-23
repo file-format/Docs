@@ -52,7 +52,4 @@ Le modèle de données PPDM fournit un moyen cohérent et conforme aux normes de
 
 L'utilisation conjointe du modèle de données PPDM et des données DLIS permet de stocker et de gérer les données des journaux de puits d'une manière conforme aux normes de l'industrie et facilement accessible à d'autres systèmes et applications.
 
-## Références
-* [Format pour les données numériques de journal de puits](http://w3.energistics.org/rp66/V1/Toc/main.html)
-* [DLIS - Organisation des données](http://w3.energistics.org/rp66/V1/Toc/main.html)
 

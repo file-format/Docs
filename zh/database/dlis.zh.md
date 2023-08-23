@@ -52,7 +52,4 @@ PPDM 数据模型提供了一种一致的行业标准方式来组织和管理测
 
 将 PPDM 数据模型和 DLIS 数据结合使用，可以以符合行业标准并易于其他系统和应用程序访问的方式存储和管理测井数据。
 
-## 参考
-* [数字测井数据格式](http://w3.energistics.org/rp66/V1/Toc/main.html)
-* [DLIS - 数据组织](http://w3.energistics.org/rp66/V1/Toc/main.html)
 

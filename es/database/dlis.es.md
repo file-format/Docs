@@ -52,7 +52,4 @@ El modelo de datos PPDM proporciona una forma uniforme y estándar de la industr
 
 El uso conjunto del modelo de datos PPDM y los datos DLIS hace posible almacenar y administrar los datos de registro de pozos de una manera coherente con los estándares de la industria y de fácil acceso para otros sistemas y aplicaciones.
 
-## Referencias
-* [Formato para datos de registro de pozos digitales](http://w3.energistics.org/rp66/V1/Toc/main.html)
-* [DLIS - Organización de datos](http://w3.energistics.org/rp66/V1/Toc/main.html)
 
