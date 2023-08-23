@@ -188,6 +188,6 @@ VAL_ 500 IO_DEBUG_test_enum 2 "IO_DEBUG_test2_enum_two" 1 "IO_DEBUG_test2_enum_o
 
 ## 参照 ##
 
-* [DBC形式](http://socialedge.com/sjsu/index.php/DBC_Format)
+* [DBC形式](http://socialledge.com/sjsu/index.php/DBC_Format)
 * [J1939 と DBC ファイルの紹介](https://www.kvaser.com/developer-blog/an-introduction-j1939-and-dbc-files/)
 
