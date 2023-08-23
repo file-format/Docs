@@ -23,7 +23,7 @@ Un archivo con extensión .wmz es una versión comprimida de [WMF](/es/image/wmf
 
 ## Formato de archivo WMZ
 
-Los archivos WMZ están comprimidos [Gzip](/es/compression/gz/) y contienen [WMF](/es/image/WMF/) en su interior. Gzip usa el algoritmo DEFLATE para la compresión del archivo. GZIP es diferente del formato de archivo [ZIP](/es/compression/zip/) ya que aplica un algoritmo de compresión para completar el archivo en lugar de los archivos individuales. El formato de archivo consta de:
+Los archivos WMZ están comprimidos [Gzip](/es/compression/gz/) y contienen [WMF](/es/image/wmf/) en su interior. Gzip usa el algoritmo DEFLATE para la compresión del archivo. GZIP es diferente del formato de archivo [ZIP](/es/compression/zip/) ya que aplica un algoritmo de compresión para completar el archivo en lugar de los archivos individuales. El formato de archivo consta de:
 
 * Encabezado de archivo
 * Encabezados opcionales

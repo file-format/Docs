@@ -23,7 +23,7 @@ A file with .wmz extension is a compressed version of [WMF](/image/wmf/) and is 
 
 ## WMZ File Format
 
-WMZ files are [Gzip](/compression/gz/) compressed and contains [WMF](/image/WMF/) inside. Gzip uses the DEFLATE algorithm for compression of the archive. GZIP is different from the [ZIP](/compression/zip/) archive format as it applies compression algorithm to complete archive rather than the individual files. The file format consists of:
+WMZ files are [Gzip](/compression/gz/) compressed and contains [WMF](/image/wmf/) inside. Gzip uses the DEFLATE algorithm for compression of the archive. GZIP is different from the [ZIP](/compression/zip/) archive format as it applies compression algorithm to complete archive rather than the individual files. The file format consists of:
 
  * File Header
  * Optional Headers

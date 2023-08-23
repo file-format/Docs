@@ -23,7 +23,7 @@
 
 ## WMZ 文件格式
 
-WMZ 文件经过 [Gzip](/zh/compression/gz/) 压缩，内部包含 [WMF](/zh/image/WMF/)。 Gzip 使用 DEFLATE 算法来压缩存档。 GZIP 不同于 [ZIP](/zh/compression/zip/) 存档格式，因为它应用压缩算法来完成存档而不是单个文件。文件格式包括：
+WMZ 文件经过 [Gzip](/zh/compression/gz/) 压缩，内部包含 [WMF](/zh/image/wmf/)。 Gzip 使用 DEFLATE 算法来压缩存档。 GZIP 不同于 [ZIP](/zh/compression/zip/) 存档格式，因为它应用压缩算法来完成存档而不是单个文件。文件格式包括：
 
 * 文件头
 * 可选标题

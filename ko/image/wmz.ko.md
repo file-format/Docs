@@ -23,7 +23,7 @@
 
 ## WMZ 파일 형식
 
-WMZ 파일은 [Gzip](/ko/compression/gz/) 압축되어 있으며 내부에 [WMF](/ko/image/WMF/)가 들어 있습니다. Gzip은 아카이브 압축을 위해 DEFLATE 알고리즘을 사용합니다. GZIP은 개별 파일이 아닌 전체 아카이브에 압축 알고리즘을 적용한다는 점에서 [ZIP](/ko/compression/zip/) 아카이브 형식과 다릅니다. 파일 형식은 다음으로 구성됩니다.
+WMZ 파일은 [Gzip](/ko/compression/gz/) 압축되어 있으며 내부에 [WMF](/ko/image/wmf/)가 들어 있습니다. Gzip은 아카이브 압축을 위해 DEFLATE 알고리즘을 사용합니다. GZIP은 개별 파일이 아닌 전체 아카이브에 압축 알고리즘을 적용한다는 점에서 [ZIP](/ko/compression/zip/) 아카이브 형식과 다릅니다. 파일 형식은 다음으로 구성됩니다.
 
 * 파일 헤더
 * 선택적 헤더

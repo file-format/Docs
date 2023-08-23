@@ -23,7 +23,7 @@ File dengan ekstensi .wmz adalah versi terkompresi dari [WMF](/id/image/wmf/) da
 
 ## Format File WMZ
 
-File WMZ dikompresi [Gzip](/id/compression/gz/) dan berisi [WMF](/id/image/WMF/) di dalamnya. Gzip menggunakan algoritma DEFLATE untuk kompresi arsip. GZIP berbeda dari format arsip [ZIP](/id/compression/zip/) karena GZIP menerapkan algoritme kompresi untuk menyelesaikan arsip, bukan file individual. Format filenya terdiri dari:
+File WMZ dikompresi [Gzip](/id/compression/gz/) dan berisi [WMF](/id/image/wmf/) di dalamnya. Gzip menggunakan algoritma DEFLATE untuk kompresi arsip. GZIP berbeda dari format arsip [ZIP](/id/compression/zip/) karena GZIP menerapkan algoritme kompresi untuk menyelesaikan arsip, bukan file individual. Format filenya terdiri dari:
 
 * Judul File
 * Header Opsional

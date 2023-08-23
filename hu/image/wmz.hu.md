@@ -23,7 +23,7 @@ A .wmz kiterjesztésű fájl a [WMF](/hu/image/wmf/) tömörített változata, �
 
 ## WMZ fájlformátum
 
-A WMZ-fájlok [Gzip](/hu/compression/gz/) tömörítettek, és tartalmazzák a [WMF](/hu/image/WMF/) fájlt. A Gzip a DEFLATE algoritmust használja az archívum tömörítésére. A GZIP eltér a [ZIP](/hu/compression/zip/) archívumformátumtól, mivel tömörítési algoritmust alkalmaz a teljes archívumra, nem pedig az egyes fájlokra. A fájlformátum a következőkből áll:
+A WMZ-fájlok [Gzip](/hu/compression/gz/) tömörítettek, és tartalmazzák a [WMF](/hu/image/wmf/) fájlt. A Gzip a DEFLATE algoritmust használja az archívum tömörítésére. A GZIP eltér a [ZIP](/hu/compression/zip/) archívumformátumtól, mivel tömörítési algoritmust alkalmaz a teljes archívumra, nem pedig az egyes fájlokra. A fájlformátum a következőkből áll:
 
 * Fájl fejléc
 * Opcionális fejlécek
