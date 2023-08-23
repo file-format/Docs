@@ -42,11 +42,11 @@ Ett dokumentrotelement innehåller hela dokumentet och är det primära elemente
 ### Rotelement ###
 Ett enda XML-dokument representeras av ett eget rotelement. De fem olika stödda rotelementen är följande.
 
-`<office:document> ` - Komplett office-dokument i ett enda XML-dokument.
-`<office:document-content> ` - Dokumentinnehåll och automatiska stilar som används i innehållet.
-`<office:document-styles> ` - Stilar som används i dokumentinnehållet och automatiska stilar som används i själva stilarna.
-`<office:document-meta> ` - Dokumentmetainformation, såsom författaren eller tidpunkten för den senaste sparande åtgärden.
-`<office:document-settings> ` - Programspecifika inställningar, såsom fönsterstorlek eller skrivarinformation.
+`<office:document>` - Komplett office-dokument i ett enda XML-dokument.
+`<office:document-content>` - Dokumentinnehåll och automatiska stilar som används i innehållet.
+`<office:document-styles>` - Stilar som används i dokumentinnehållet och automatiska stilar som används i själva stilarna.
+`<office:document-meta>` - Dokumentmetainformation, såsom författaren eller tidpunkten för den senaste sparande åtgärden.
+`<office:document-settings>` - Programspecifika inställningar, såsom fönsterstorlek eller skrivarinformation.
 
 ### ODG Document MetaData ###
 OpenDocumentet innehåller alla metadataelement i \<office:meta> element. Denna allmänna information om ett dokument finns i början av dokumentet och applikationer kan uppdatera flera instanser av samma element.
@@ -61,12 +61,12 @@ Dokumentets brödtext anger vilken typ av innehåll som finns i dokumentet med h
 * bilddokument
 
 ### Applikationsinställningar ###
-Inställningarna för kontorsprogram representerar olika inställningar som är relaterade till dokumentets konfiguration eller visuella utseende. Varje kategori representeras av en `<config:config-item-set> `. Exempel på sådana inställningskategorier inkluderar:
+Inställningarna för kontorsprogram representerar olika inställningar som är relaterade till dokumentets konfiguration eller visuella utseende. Varje kategori representeras av en `<config:config-item-set>`. Exempel på sådana inställningskategorier inkluderar:
 * Dokumentinställningar t.ex. standardskrivare
 * Visa inställningar t.ex. zoomnivå
 
 ### Skript ###
-Det är vanligt att ett dokument innehåller flera skript. Varje skript i en OpenDocument-fil representeras av en `<office:script> ` element. Dessa skriptelement finns i en enda `<office:scripts> ` element. Skript uppdaterar inte ett dokument medan dokumentet laddas.
+Det är vanligt att ett dokument innehåller flera skript. Varje skript i en OpenDocument-fil representeras av en `<office:script>` element. Dessa skriptelement finns i en enda `<office:scripts>` element. Skript uppdaterar inte ett dokument medan dokumentet laddas.
 ### Teckensnittsdeklarationer ###
 
 En teckensnittsdeklaration innehåller information om de typsnitt som används av författaren till ett dokument. Denna information hjälper till att hitta dessa typsnitt på andra system.

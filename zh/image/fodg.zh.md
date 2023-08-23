@@ -25,10 +25,10 @@
 
 FODG 基于符合 OASIS OpenDocument Format ISO/IEC 26300 的 OpenDocument 的 XML 文件格式。它的 Internet 媒体类型为 application/vnd.oasis.opendocument.graphics，也符合 org.oasis-open.opendocument public.composite-content . XML 结构对于所有文档类型都是通用的，例如电子表格、绘图文件和文本文档。 OpenOffice 文档通过将内容、样式、元数据和应用程序设置分成四个单独的 XML 文件来利用关注点分离。
 
-`<office:document-content> ` - 文档内容和内容中使用的自动样式。
-`<office:document-styles> ` - 文档内容中使用的样式和样式本身中使用的自动样式。
-`<office:document-meta> ` - 文档元信息，例如作者或上次保存操作的时间。
-`<office:document-settings> ` - 特定于应用程序的设置，例如窗口大小或打印机信息。
+`<office:document-content>` - 文档内容和内容中使用的自动样式。
+`<office:document-styles>` - 文档内容中使用的样式和样式本身中使用的自动样式。
+`<office:document-meta>` - 文档元信息，例如作者或上次保存操作的时间。
+`<office:document-settings>` - 特定于应用程序的设置，例如窗口大小或打印机信息。
 
 ## 参考 ＃＃
 * [v 1.3 标准化的未来规范](https://docs.oasis-open.org/office/OpenDocument/v1.3/cs01/OpenDocument-v1.3-cs01.zip)

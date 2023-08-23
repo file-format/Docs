@@ -42,11 +42,11 @@ Un element rădăcină a documentului conține întregul document și este eleme
 ### Elemente rădăcină ###
 Un singur document XML este reprezentat de propriul său element rădăcină. Cele cinci elemente rădăcină suportate diferite sunt după cum urmează.
 
-`<office:document> ` - Document complet de birou într-un singur document XML.
-`<office:document-content> ` - Conținutul documentului și stilurile automate utilizate în conținut.
-`<office:document-styles> ` - Stiluri utilizate în conținutul documentului și stiluri automate utilizate în stilurile în sine.
-`<office:document-meta> ` - Meta informațiile documentului, cum ar fi autorul sau ora ultimei acțiuni de salvare.
-`<office:document-settings> ` - Setări specifice aplicației, cum ar fi dimensiunea ferestrei sau informațiile despre imprimantă.
+`<office:document>` - Document complet de birou într-un singur document XML.
+`<office:document-content>` - Conținutul documentului și stilurile automate utilizate în conținut.
+`<office:document-styles>` - Stiluri utilizate în conținutul documentului și stiluri automate utilizate în stilurile în sine.
+`<office:document-meta>` - Meta informațiile documentului, cum ar fi autorul sau ora ultimei acțiuni de salvare.
+`<office:document-settings>` - Setări specifice aplicației, cum ar fi dimensiunea ferestrei sau informațiile despre imprimantă.
 
 ### Metadatele documentului ODG ###
 OpenDocument conține toate elementele de metadate din \<office:meta> element. Aceste informații generale despre un document sunt conținute la începutul documentului, iar aplicațiile pot actualiza mai multe instanțe ale acelorași elemente.
@@ -61,12 +61,12 @@ Corpul documentului indică tipul de conținut conținut în document folosind e
 * documente imagine
 
 ### Setările aplicației ###
-Setările pentru aplicațiile de birou reprezintă setări diferite care sunt legate de configurația documentului sau aspectul vizual al documentului. Fiecare categorie este reprezentată de un `<config:config-item-set> `. Exemple de astfel de categorii de setări includ:
+Setările pentru aplicațiile de birou reprezintă setări diferite care sunt legate de configurația documentului sau aspectul vizual al documentului. Fiecare categorie este reprezentată de un `<config:config-item-set>`. Exemple de astfel de categorii de setări includ:
 * Setări document, de exemplu, imprimantă implicită
 * Vizualizare setări, de exemplu, nivelul de zoom
 
 ### Scripturi ###
-Este obișnuit ca un document să conțină mai multe scripturi. Fiecare script dintr-un fișier OpenDocument este reprezentat de un `<office:script> ` element. Aceste elemente de script sunt conținute într-un singur `<office:scripts> ` element. Scripturile nu actualizează un document în timp ce documentul se încarcă.
+Este obișnuit ca un document să conțină mai multe scripturi. Fiecare script dintr-un fișier OpenDocument este reprezentat de un `<office:script>` element. Aceste elemente de script sunt conținute într-un singur `<office:scripts>` element. Scripturile nu actualizează un document în timp ce documentul se încarcă.
 ### Declarații de font ###
 
 O declarație a fontului conține informații despre fonturile utilizate de autorul unui document. Aceste informații ajută la localizarea acestor fonturi pe alte sisteme.

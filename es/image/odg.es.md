@@ -42,11 +42,11 @@ Un elemento raíz de documento contiene todo el documento y es el elemento princ
 ### Elementos raíz ###
 Un solo documento XML está representado por su propio elemento raíz. Los cinco diferentes elementos raíz admitidos son los siguientes.
 
-`<office:document> ` - Documento de oficina completo en un solo documento XML.
-`<office:document-content> ` - Contenido del documento y estilos automáticos utilizados en el contenido.
-`<office:document-styles> ` - Estilos usados en el contenido del documento y estilos automáticos usados en los propios estilos.
-`<office:document-meta> ` - Metainformación del documento, como el autor o la hora de la última acción de guardado.
-`<office:document-settings> ` - Configuración específica de la aplicación, como el tamaño de la ventana o la información de la impresora.
+`<office:document>` - Documento de oficina completo en un solo documento XML.
+`<office:document-content>` - Contenido del documento y estilos automáticos utilizados en el contenido.
+`<office:document-styles>` - Estilos usados en el contenido del documento y estilos automáticos usados en los propios estilos.
+`<office:document-meta>` - Metainformación del documento, como el autor o la hora de la última acción de guardado.
+`<office:document-settings>` - Configuración específica de la aplicación, como el tamaño de la ventana o la información de la impresora.
 
 ### Metadatos del documento ODG ###
 El OpenDocument contiene todos los elementos de metadatos en el \<office:meta> elemento. Esta información general sobre un documento se encuentra al comienzo del documento y las aplicaciones pueden actualizar varias instancias de los mismos elementos.
@@ -61,12 +61,12 @@ El cuerpo del documento indica el tipo de contenido contenido en el documento ut
 * documentos de imagen
 
 ### Configuraciones de la aplicación ###
-La configuración de las aplicaciones de oficina representa diferentes configuraciones que están relacionadas con la configuración del documento o la apariencia visual del documento. Cada categoría está representada por un `<config:config-item-set> `. Ejemplos de tales categorías de configuración incluyen:
+La configuración de las aplicaciones de oficina representa diferentes configuraciones que están relacionadas con la configuración del documento o la apariencia visual del documento. Cada categoría está representada por un `<config:config-item-set>`. Ejemplos de tales categorías de configuración incluyen:
 * Configuración del documento, por ejemplo, impresora predeterminada
 * Ver configuración, por ejemplo, nivel de zoom
 
 ### Guiones ###
-Es común que un documento contenga varios scripts. Cada script en un archivo OpenDocument está representado por un `<office:script> ` elemento. Estos elementos del script están contenidos en un solo `<office:scripts> ` elemento. Los scripts no actualizan un documento mientras se carga el documento.
+Es común que un documento contenga varios scripts. Cada script en un archivo OpenDocument está representado por un `<office:script>` elemento. Estos elementos del script están contenidos en un solo `<office:scripts>` elemento. Los scripts no actualizan un documento mientras se carga el documento.
 ### Declaraciones de cara de fuente ###
 
 Una declaración de tipo de fuente contiene información sobre las fuentes utilizadas por el autor de un documento. Esta información ayuda a localizar estas fuentes en otros sistemas.

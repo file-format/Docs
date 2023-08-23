@@ -42,11 +42,11 @@ A dokumentum gyökéreleme a teljes dokumentumot tartalmazza, és egy OpenDocume
 ### Gyökérelemek ###
 Egyetlen XML dokumentumot a saját gyökéreleme képvisel. Az öt különböző támogatott gyökérelem a következő.
 
-`<office:document> ` - Teljes irodai dokumentum egyetlen XML dokumentumban.
-`<office:document-content> ` - Dokumentumtartalom és a tartalomban használt automatikus stílusok.
-`<office:document-styles> ` - A dokumentumtartalomban használt stílusok és magukban a stílusokban használt automatikus stílusok.
-`<office:document-meta> ` - A dokumentum metainformációi, például a szerző vagy az utolsó mentési művelet ideje.
-`<office:document-settings> ` - Alkalmazás-specifikus beállítások, például az ablak mérete vagy a nyomtató információi.
+`<office:document>` - Teljes irodai dokumentum egyetlen XML dokumentumban.
+`<office:document-content>` - Dokumentumtartalom és a tartalomban használt automatikus stílusok.
+`<office:document-styles>` - A dokumentumtartalomban használt stílusok és magukban a stílusokban használt automatikus stílusok.
+`<office:document-meta>` - A dokumentum metainformációi, például a szerző vagy az utolsó mentési művelet ideje.
+`<office:document-settings>` - Alkalmazás-specifikus beállítások, például az ablak mérete vagy a nyomtató információi.
 
 ### ODG dokumentum metaadatai ###
 Az OpenDocument tartalmazza az összes metaadat elemet a \<office:meta> elem. A dokumentumra vonatkozó általános információk a dokumentum elején találhatók, és az alkalmazások ugyanazon elemek több példányát is frissíthetik.

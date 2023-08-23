@@ -42,11 +42,11 @@ Bir belge kök öğesi tüm belgeyi içerir ve OpenDocument biçimindeki bir dos
 ### Kök Öğeler ###
 Tek bir XML belgesi, kendi kök öğesi tarafından temsil edilir. Desteklenen beş farklı kök öğe aşağıdaki gibidir.
 
-`<office:document> ` - Office belgesini tek bir XML belgesinde tamamlayın.
-`<office:document-content> ` - Belge içeriği ve içerikte kullanılan otomatik stiller.
-`<office:document-styles> ` - Belge içeriğinde kullanılan stiller ve stillerin kendisinde kullanılan otomatik stiller.
-`<office:document-meta> ` - Yazar veya son kaydetme eyleminin zamanı gibi belge meta bilgileri.
-`<office:document-settings> ` - Pencere boyutu veya yazıcı bilgileri gibi uygulamaya özel ayarlar.
+`<office:document>` - Office belgesini tek bir XML belgesinde tamamlayın.
+`<office:document-content>` - Belge içeriği ve içerikte kullanılan otomatik stiller.
+`<office:document-styles>` - Belge içeriğinde kullanılan stiller ve stillerin kendisinde kullanılan otomatik stiller.
+`<office:document-meta>` - Yazar veya son kaydetme eyleminin zamanı gibi belge meta bilgileri.
+`<office:document-settings>` - Pencere boyutu veya yazıcı bilgileri gibi uygulamaya özel ayarlar.
 
 ### ODG Belgesi Meta Verileri ###
 OpenDocument, \ içindeki tüm meta veri öğelerini içerir.<office:meta> eleman. Bir belge hakkındaki bu genel bilgiler, belgenin başında yer alır ve uygulamalar, aynı öğelerin birden çok örneğini güncelleyebilir.

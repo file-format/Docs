@@ -42,11 +42,11 @@ Element główny dokumentu zawiera cały dokument i jest podstawowym elementem p
 ### Elementy korzeni ###
 Pojedynczy dokument XML jest reprezentowany przez swój własny element główny. Oto pięć różnych obsługiwanych elementów głównych.
 
-`<office:document> ` - Kompletny dokument biurowy w pojedynczym dokumencie XML.
-`<office:document-content> ` - Treść dokumentu i automatyczne style użyte w treści.
-`<office:document-styles> ` - Style używane w treści dokumentu i style automatyczne używane w samych stylach.
-`<office:document-meta> ` — metadane dokumentu, takie jak autor lub czas ostatniej operacji zapisu.
-`<office:document-settings> ` - Ustawienia specyficzne dla aplikacji, takie jak rozmiar okna lub informacje o drukarce.
+`<office:document>` - Kompletny dokument biurowy w pojedynczym dokumencie XML.
+`<office:document-content>` - Treść dokumentu i automatyczne style użyte w treści.
+`<office:document-styles>` - Style używane w treści dokumentu i style automatyczne używane w samych stylach.
+`<office:document-meta>` — metadane dokumentu, takie jak autor lub czas ostatniej operacji zapisu.
+`<office:document-settings>` - Ustawienia specyficzne dla aplikacji, takie jak rozmiar okna lub informacje o drukarce.
 
 ### Metadane dokumentu ODG ###
 OpenDocument zawiera wszystkie elementy metadanych w \<office:meta> element. Te ogólne informacje o dokumencie są zawarte na początku dokumentu, a aplikacje mogą aktualizować wiele wystąpień tych samych elementów.
@@ -61,7 +61,7 @@ Treść dokumentu wskazuje typ treści zawartej w dokumencie za pomocą elementu
 * dokumenty wizerunkowe
 
 ### Ustawienia aplikacji ###
-Ustawienia aplikacji biurowych reprezentują różne ustawienia związane z konfiguracją dokumentu lub wyglądem dokumentu. Każda kategoria jest reprezentowana przez `<config:config-item-set> `. Przykłady takich kategorii ustawień obejmują:
+Ustawienia aplikacji biurowych reprezentują różne ustawienia związane z konfiguracją dokumentu lub wyglądem dokumentu. Każda kategoria jest reprezentowana przez `<config:config-item-set>`. Przykłady takich kategorii ustawień obejmują:
 * Ustawienia dokumentu, np. drukarka domyślna
 * Wyświetl ustawienia, np. poziom powiększenia
 

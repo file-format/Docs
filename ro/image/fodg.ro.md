@@ -25,10 +25,10 @@ Un fișier cu extensia .fodg este un format de fișier Apache OpenOffice Drawing
 
 FODG se bazează pe formatul de fișier XML al OpenDocument, care este conform cu OASIS OpenDocument Format ISO/IEC 26300. Are Internet Media Type application/vnd.oasis.opendocument.graphics și, de asemenea, este conform cu org.oasis-open.opendocument public.composite-content . Structura XML este comună pentru toate tipurile de documente, cum ar fi foile de calcul, desenele și documentele text. Documentele OpenOffice profită de separarea preocupărilor prin separarea conținutului, stilurilor, metadatelor și setărilor aplicației în patru fișiere XML separate.
 
-`<office:document-content> ` - Conținutul documentului și stilurile automate utilizate în conținut.
-`<office:document-styles> ` - Stiluri utilizate în conținutul documentului și stiluri automate utilizate în stilurile în sine.
-`<office:document-meta> ` - Meta informațiile documentului, cum ar fi autorul sau ora ultimei acțiuni de salvare.
-`<office:document-settings> ` - Setări specifice aplicației, cum ar fi dimensiunea ferestrei sau informațiile despre imprimantă.
+`<office:document-content>` - Conținutul documentului și stilurile automate utilizate în conținut.
+`<office:document-styles>` - Stiluri utilizate în conținutul documentului și stiluri automate utilizate în stilurile în sine.
+`<office:document-meta>` - Meta informațiile documentului, cum ar fi autorul sau ora ultimei acțiuni de salvare.
+`<office:document-settings>` - Setări specifice aplicației, cum ar fi dimensiunea ferestrei sau informațiile despre imprimantă.
 
 ## Referințe ##
 * [Specificații viitoare pentru standardizarea v 1.3 ](https://docs.oasis-open.org/office/OpenDocument/v1.3/cs01/OpenDocument-v1.3-cs01.zip)

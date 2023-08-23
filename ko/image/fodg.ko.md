@@ -25,10 +25,10 @@
 
 FODG는 OASIS OpenDocument 형식 ISO/IEC 26300을 준수하는 OpenDocument의 XML 파일 형식을 기반으로 합니다. 인터넷 미디어 유형 application/vnd.oasis.opendocument.graphics가 있으며 org.oasis-open.opendocument public.composite-content도 준수합니다. . XML 구조는 스프레드시트, 도면 파일 및 텍스트 문서와 같은 모든 문서 유형에 공통입니다. OpenOffice 문서는 콘텐츠, 스타일, 메타데이터 및 응용 프로그램 설정을 4개의 개별 XML 파일로 분리하여 관심사 분리를 활용합니다.
 
-`<office:document-content> ` - 문서 내용과 내용에 사용된 자동 스타일.
-`<office:document-styles> ` - 문서 내용에 사용된 스타일과 스타일 자체에 사용되는 자동 스타일.
-`<office:document-meta> ` - 작성자 또는 마지막 저장 작업 시간과 같은 문서 메타 정보.
-`<office:document-settings> ` - 창 크기 또는 프린터 정보와 같은 응용 프로그램별 설정입니다.
+`<office:document-content>` - 문서 내용과 내용에 사용된 자동 스타일.
+`<office:document-styles>` - 문서 내용에 사용된 스타일과 스타일 자체에 사용되는 자동 스타일.
+`<office:document-meta>` - 작성자 또는 마지막 저장 작업 시간과 같은 문서 메타 정보.
+`<office:document-settings>` - 창 크기 또는 프린터 정보와 같은 응용 프로그램별 설정입니다.
 
 ## 참조 ##
 * [v 1.3 표준화를 위한 향후 사양 ](https://docs.oasis-open.org/office/OpenDocument/v1.3/cs01/OpenDocument-v1.3-cs01.zip)

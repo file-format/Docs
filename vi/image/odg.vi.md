@@ -42,11 +42,11 @@ Phần tử gốc của tài liệu chứa toàn bộ tài liệu và là phần
 ### Phần tử gốc ###
 Một tài liệu XML duy nhất được đại diện bởi phần tử gốc của chính nó. Năm phần tử gốc được hỗ trợ khác nhau như sau.
 
-`<office:document> ` - Hoàn thành tài liệu văn phòng trong một tài liệu XML đơn.
-`<office:document-content> ` - Nội dung tài liệu và các kiểu tự động được sử dụng trong nội dung.
-`<office:document-styles> ` - Các kiểu được sử dụng trong nội dung tài liệu và các kiểu tự động được sử dụng trong chính các kiểu đó.
-`<office:document-meta> ` - Thông tin meta tài liệu, chẳng hạn như tác giả hoặc thời gian của hành động lưu cuối cùng.
-`<office:document-settings> ` - Cài đặt dành riêng cho ứng dụng, chẳng hạn như kích thước cửa sổ hoặc thông tin máy in.
+`<office:document>` - Hoàn thành tài liệu văn phòng trong một tài liệu XML đơn.
+`<office:document-content>` - Nội dung tài liệu và các kiểu tự động được sử dụng trong nội dung.
+`<office:document-styles>` - Các kiểu được sử dụng trong nội dung tài liệu và các kiểu tự động được sử dụng trong chính các kiểu đó.
+`<office:document-meta>` - Thông tin meta tài liệu, chẳng hạn như tác giả hoặc thời gian của hành động lưu cuối cùng.
+`<office:document-settings>` - Cài đặt dành riêng cho ứng dụng, chẳng hạn như kích thước cửa sổ hoặc thông tin máy in.
 
 ### Siêu dữ liệu tài liệu ODG ###
 OpenDocument chứa tất cả các thành phần siêu dữ liệu trong \<office:meta> yếu tố. Thông tin chung về tài liệu này được chứa ở phần đầu của tài liệu và các ứng dụng có thể cập nhật nhiều phiên bản của cùng một phần tử.
@@ -61,12 +61,12 @@ Nội dung tài liệu cho biết loại nội dung chứa trong tài liệu b�
 * tài liệu hình ảnh
 
 ### Cài đặt ứng dụng ###
-Cài đặt cho các ứng dụng văn phòng đại diện cho các cài đặt khác nhau có liên quan đến cấu hình tài liệu hoặc giao diện trực quan của tài liệu. Mỗi danh mục được đại diện bởi một `<config:config-item-set> `. Ví dụ về các danh mục cài đặt như vậy bao gồm:
+Cài đặt cho các ứng dụng văn phòng đại diện cho các cài đặt khác nhau có liên quan đến cấu hình tài liệu hoặc giao diện trực quan của tài liệu. Mỗi danh mục được đại diện bởi một `<config:config-item-set>`. Ví dụ về các danh mục cài đặt như vậy bao gồm:
 * Cài đặt tài liệu, ví dụ như máy in mặc định
 * Xem Cài đặt, ví dụ: mức thu phóng
 
 ### Tập lệnh ###
-Thông thường, một tài liệu có chứa một số tập lệnh. Mỗi tập lệnh trong tệp OpenDocument được biểu thị bằng dấu `<office:script> ` phần tử. Các phần tử tập lệnh này được chứa trong một `<office:scripts> ` phần tử. Tập lệnh không cập nhật tài liệu trong khi tài liệu đang tải.
+Thông thường, một tài liệu có chứa một số tập lệnh. Mỗi tập lệnh trong tệp OpenDocument được biểu thị bằng dấu `<office:script>` phần tử. Các phần tử tập lệnh này được chứa trong một `<office:scripts>` phần tử. Tập lệnh không cập nhật tài liệu trong khi tài liệu đang tải.
 ### Font Face Khai báo ###
 
 Một khai báo về mặt phông chữ chứa thông tin về các phông chữ được tác giả của tài liệu sử dụng. Thông tin này giúp định vị các phông chữ này trên các hệ thống khác.

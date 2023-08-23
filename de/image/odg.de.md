@@ -42,11 +42,11 @@ Ein Dokumentstammelement enthält das gesamte Dokument und ist das primäre Elem
 ### Wurzelelemente ###
 Ein einzelnes XML-Dokument wird durch ein eigenes Root-Element dargestellt. Die fünf verschiedenen unterstützten Root-Elemente sind wie folgt.
 
-`<office:document> ` - Vollständiges Office-Dokument in einem einzigen XML-Dokument.
-`<office:document-content> ` - Dokumentinhalt und im Inhalt verwendete automatische Stile.
-`<office:document-styles> ` - Stile, die im Dokumentinhalt verwendet werden, und automatische Stile, die in den Stilen selbst verwendet werden.
-`<office:document-meta> ` - Dokumentiere Metainformationen, wie z. B. den Autor oder den Zeitpunkt der letzten Speicheraktion.
-`<office:document-settings> ` - Anwendungsspezifische Einstellungen wie Fenstergröße oder Druckerinformationen.
+`<office:document>` - Vollständiges Office-Dokument in einem einzigen XML-Dokument.
+`<office:document-content>` - Dokumentinhalt und im Inhalt verwendete automatische Stile.
+`<office:document-styles>` - Stile, die im Dokumentinhalt verwendet werden, und automatische Stile, die in den Stilen selbst verwendet werden.
+`<office:document-meta>` - Dokumentiere Metainformationen, wie z. B. den Autor oder den Zeitpunkt der letzten Speicheraktion.
+`<office:document-settings>` - Anwendungsspezifische Einstellungen wie Fenstergröße oder Druckerinformationen.
 
 ### Metadaten des ODG-Dokuments ###
 Das OpenDocument enthält alle Metadatenelemente im \<office:meta> Element. Diese allgemeinen Informationen zu einem Dokument sind am Anfang des Dokuments enthalten, und Anwendungen können mehrere Instanzen derselben Elemente aktualisieren.

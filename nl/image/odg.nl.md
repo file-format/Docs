@@ -42,11 +42,11 @@ Een documenthoofdelement bevat het volledige document en is het primaire element
 ### Wortelelementen ###
 Een enkel XML-document wordt vertegenwoordigd door zijn eigen root-element. De vijf verschillende ondersteunde wortelelementen zijn als volgt.
 
-`<office:document> ` - Compleet office-document in één XML-document.
-`<office:document-content> ` - Documentinhoud en automatische stijlen die in de inhoud worden gebruikt.
-`<office:document-styles> ` - Stijlen die worden gebruikt in de documentinhoud en automatische stijlen die in de stijlen zelf worden gebruikt.
-`<office:document-meta> ` - Document meta-informatie, zoals de auteur of het tijdstip van de laatste opslagactie.
-`<office:document-settings> ` - Toepassingsspecifieke instellingen, zoals de venstergrootte of printerinformatie.
+`<office:document>` - Compleet office-document in één XML-document.
+`<office:document-content>` - Documentinhoud en automatische stijlen die in de inhoud worden gebruikt.
+`<office:document-styles>` - Stijlen die worden gebruikt in de documentinhoud en automatische stijlen die in de stijlen zelf worden gebruikt.
+`<office:document-meta>` - Document meta-informatie, zoals de auteur of het tijdstip van de laatste opslagactie.
+`<office:document-settings>` - Toepassingsspecifieke instellingen, zoals de venstergrootte of printerinformatie.
 
 ### ODG-document metagegevens ###
 Het OpenDocument bevat alle metadata-elementen in de \<office:meta> element. Deze algemene informatie over een document staat aan het begin van het document en toepassingen kunnen meerdere exemplaren van dezelfde elementen bijwerken.
@@ -61,12 +61,12 @@ De hoofdtekst van het document geeft het type inhoud aan dat in het document is 
 * afbeeldingsdocumenten
 
 ### Applicatie instellingen ###
-De instellingen voor kantoortoepassingen vertegenwoordigen verschillende instellingen die verband houden met de documentconfiguratie of het uiterlijk van het document. Elke categorie wordt vertegenwoordigd door een `<config:config-item-set> `. Voorbeelden van dergelijke instellingscategorieën zijn:
+De instellingen voor kantoortoepassingen vertegenwoordigen verschillende instellingen die verband houden met de documentconfiguratie of het uiterlijk van het document. Elke categorie wordt vertegenwoordigd door een `<config:config-item-set>`. Voorbeelden van dergelijke instellingscategorieën zijn:
 * Documentinstellingen bijv. standaardprinter
 * Instellingen bekijken, bijv. zoomniveau
 
 ### Scripts ###
-Het is gebruikelijk dat een document meerdere scripts bevat. Elk script in een OpenDocument-bestand wordt vertegenwoordigd door een `<office:script> `-element. Deze scriptelementen bevinden zich in een enkele `<office:scripts> `-element. Scripts werken een document niet bij terwijl het document wordt geladen.
+Het is gebruikelijk dat een document meerdere scripts bevat. Elk script in een OpenDocument-bestand wordt vertegenwoordigd door een `<office:script>`-element. Deze scriptelementen bevinden zich in een enkele `<office:scripts>`-element. Scripts werken een document niet bij terwijl het document wordt geladen.
 ### Lettertypeverklaringen ###
 
 Een lettertypedeclaratie bevat informatie over de lettertypen die door de auteur van een document worden gebruikt. Deze informatie helpt bij het vinden van deze lettertypen op andere systemen.

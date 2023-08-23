@@ -42,11 +42,11 @@ Elemen root dokumen berisi seluruh dokumen dan merupakan elemen utama file dalam
 ### Elemen Akar ###
 Satu dokumen XML diwakili oleh elemen akarnya sendiri. Lima elemen root pendukung yang berbeda adalah sebagai berikut.
 
-`<office:document> ` - Lengkapi dokumen kantor dalam satu dokumen XML.
-`<office:document-content> ` - Konten dokumen dan gaya otomatis yang digunakan dalam konten.
-`<office:document-styles> ` - Gaya yang digunakan dalam konten dokumen dan gaya otomatis yang digunakan dalam gaya itu sendiri.
-`<office:document-meta> ` - Mendokumentasikan informasi meta, seperti penulis atau waktu tindakan penyimpanan terakhir.
-`<office:document-settings> ` - Pengaturan khusus aplikasi, seperti ukuran jendela atau informasi printer.
+`<office:document>` - Lengkapi dokumen kantor dalam satu dokumen XML.
+`<office:document-content>` - Konten dokumen dan gaya otomatis yang digunakan dalam konten.
+`<office:document-styles>` - Gaya yang digunakan dalam konten dokumen dan gaya otomatis yang digunakan dalam gaya itu sendiri.
+`<office:document-meta>` - Mendokumentasikan informasi meta, seperti penulis atau waktu tindakan penyimpanan terakhir.
+`<office:document-settings>` - Pengaturan khusus aplikasi, seperti ukuran jendela atau informasi printer.
 
 ### MetaData Dokumen ODG ###
 OpenDocument berisi semua elemen metadata di \<office:meta> elemen. Informasi umum tentang dokumen ini dimuat di awal dokumen dan aplikasi dapat memperbarui banyak contoh dari elemen yang sama.
@@ -61,12 +61,12 @@ Badan dokumen menunjukkan jenis konten yang terkandung dalam dokumen menggunakan
 * dokumen gambar
 
 ### Pengaturan aplikasi ###
-Pengaturan untuk aplikasi kantor mewakili pengaturan berbeda yang terkait dengan konfigurasi dokumen atau tampilan visual dokumen. Setiap kategori diwakili oleh `<config:config-item-set> `. Contoh kategori pengaturan tersebut meliputi:
+Pengaturan untuk aplikasi kantor mewakili pengaturan berbeda yang terkait dengan konfigurasi dokumen atau tampilan visual dokumen. Setiap kategori diwakili oleh `<config:config-item-set>`. Contoh kategori pengaturan tersebut meliputi:
 * Pengaturan dokumen misalnya printer default
 * Lihat Pengaturan misalnya tingkat zoom
 
 ### Skrip ###
-Biasanya dokumen berisi beberapa skrip. Setiap skrip dalam file OpenDocument diwakili oleh `<office:script> `elemen. Elemen skrip ini terkandung dalam satu `<office:scripts> `elemen. Skrip tidak memperbarui dokumen saat dokumen sedang dimuat.
+Biasanya dokumen berisi beberapa skrip. Setiap skrip dalam file OpenDocument diwakili oleh `<office:script>`elemen. Elemen skrip ini terkandung dalam satu `<office:scripts>`elemen. Skrip tidak memperbarui dokumen saat dokumen sedang dimuat.
 ### Deklarasi Wajah Font ###
 
 Deklarasi bentuk font berisi informasi tentang font yang digunakan oleh pembuat dokumen. Informasi ini membantu menemukan font ini di sistem lain.

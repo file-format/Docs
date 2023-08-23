@@ -25,10 +25,10 @@
 
 FODG ใช้รูปแบบไฟล์ XML ของ OpenDocument ที่สอดคล้องกับ OASIS OpenDocument Format ISO/IEC 26300 มี Internet Media Type application/vnd.oasis.opendocument.graphics และยังเป็นไปตาม org.oasis-open.opendocument public.composite-content . โครงสร้าง XML เป็นแบบทั่วไปสำหรับเอกสารทุกประเภท เช่น สเปรดชีต ไฟล์รูปวาด และเอกสารข้อความ เอกสาร OpenOffice ใช้ประโยชน์จากการแยกข้อกังวลโดยแยกเนื้อหา ลักษณะ ข้อมูลเมตา และการตั้งค่าแอปพลิเคชันออกเป็นไฟล์ XML สี่ไฟล์แยกกัน
 
-`<office:document-content> ` - เนื้อหาเอกสารและรูปแบบอัตโนมัติที่ใช้ในเนื้อหา
-`<office:document-styles> ` - สไตล์ที่ใช้ในเนื้อหาเอกสารและสไตล์อัตโนมัติที่ใช้ในสไตล์เอง
-`<office:document-meta> ` - ข้อมูลเมตาของเอกสาร เช่น ผู้เขียนหรือเวลาของการดำเนินการบันทึกครั้งล่าสุด
-`<office:document-settings> ` - การตั้งค่าเฉพาะแอปพลิเคชัน เช่น ขนาดหน้าต่างหรือข้อมูลเครื่องพิมพ์
+`<office:document-content>` - เนื้อหาเอกสารและรูปแบบอัตโนมัติที่ใช้ในเนื้อหา
+`<office:document-styles>` - สไตล์ที่ใช้ในเนื้อหาเอกสารและสไตล์อัตโนมัติที่ใช้ในสไตล์เอง
+`<office:document-meta>` - ข้อมูลเมตาของเอกสาร เช่น ผู้เขียนหรือเวลาของการดำเนินการบันทึกครั้งล่าสุด
+`<office:document-settings>` - การตั้งค่าเฉพาะแอปพลิเคชัน เช่น ขนาดหน้าต่างหรือข้อมูลเครื่องพิมพ์
 
 ## อ้างอิง ##
 * [ข้อกำหนดในอนาคตสำหรับการกำหนดมาตรฐาน v 1.3 ](https://docs.oasis-open.org/office/OpenDocument/v1.3/cs01/OpenDocument-v1.3-cs01.zip)

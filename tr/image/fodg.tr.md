@@ -25,10 +25,10 @@
 
 FODG, OpenDocument'in OASIS OpenDocument Format ISO/IEC 26300 ile uyumlu XML dosya formatını temel alır. İnternet Medya Türü application/vnd.oasis.opendocument.graphics'e sahiptir ve ayrıca org.oasis-open.opendocument public.composite-content ile uyumludur. . XML yapısı elektronik tablo, çizim dosyaları ve metin belgeleri gibi tüm belge türleri için ortaktır. OpenOffice belgeleri, içeriği, stilleri, meta verileri ve uygulama ayarlarını dört ayrı XML dosyasına ayırarak endişelerin ayrılmasından yararlanır.
 
-`<office:document-content> ` - Belge içeriği ve içerikte kullanılan otomatik stiller.
-`<office:document-styles> ` - Belge içeriğinde kullanılan stiller ve stillerin kendisinde kullanılan otomatik stiller.
-`<office:document-meta> ` - Yazar veya son kaydetme eyleminin zamanı gibi belge meta bilgileri.
-`<office:document-settings> ` - Pencere boyutu veya yazıcı bilgileri gibi uygulamaya özel ayarlar.
+`<office:document-content>` - Belge içeriği ve içerikte kullanılan otomatik stiller.
+`<office:document-styles>` - Belge içeriğinde kullanılan stiller ve stillerin kendisinde kullanılan otomatik stiller.
+`<office:document-meta>` - Yazar veya son kaydetme eyleminin zamanı gibi belge meta bilgileri.
+`<office:document-settings>` - Pencere boyutu veya yazıcı bilgileri gibi uygulamaya özel ayarlar.
 
 ## Referanslar ##
 * [v 1.3 Standardizasyonu için Gelecek Spesifikasyonları](https://docs.oasis-open.org/office/OpenDocument/v1.3/cs01/OpenDocument-v1.3-cs01.zip)

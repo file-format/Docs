@@ -25,10 +25,10 @@
 
 FODG מבוסס על פורמט קובץ ה-XML של OpenDocument התואם את OASIS OpenDocument Format ISO/IEC 26300. יש לו Internet Media Type application/vnd.oasis.opendocument.graphics וגם תואם org.oasis-open.opendocument public.composite-content . מבנה ה-XML משותף לכל סוגי המסמכים כגון גיליון אלקטרוני, קבצי ציור ומסמכי טקסט. מסמכי OpenOffice מנצלים את ההפרדה בין חששות על ידי הפרדת התוכן, הסגנונות, המטא נתונים והגדרות היישום לארבעה קובצי XML נפרדים.
 
-`<office:document-content> ` - תוכן מסמך וסגנונות אוטומטיים המשמשים בתוכן.
-`<office:document-styles> ` - סגנונות המשמשים בתוכן המסמך וסגנונות אוטומטיים המשמשים בסגנונות עצמם.
-`<office:document-meta> ` - מסמך מטא מידע, כגון המחבר או שעת פעולת השמירה האחרונה.
-`<office:document-settings> ` - הגדרות ספציפיות ליישום, כגון גודל החלון או מידע המדפסת.
+`<office:document-content>` - תוכן מסמך וסגנונות אוטומטיים המשמשים בתוכן.
+`<office:document-styles>` - סגנונות המשמשים בתוכן המסמך וסגנונות אוטומטיים המשמשים בסגנונות עצמם.
+`<office:document-meta>` - מסמך מטא מידע, כגון המחבר או שעת פעולת השמירה האחרונה.
+`<office:document-settings>` - הגדרות ספציפיות ליישום, כגון גודל החלון או מידע המדפסת.
 
 ## הפניות ##
 * [מפרט עתידי עבור סטנדרטיזציה של גרסה 1.3 ](https://docs.oasis-open.org/office/OpenDocument/v1.3/cs01/OpenDocument-v1.3-cs01.zip)

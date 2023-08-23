@@ -25,10 +25,10 @@ Un file con estensione .fodg è un formato di file di disegno Apache OpenOffice 
 
 FODG si basa sul formato di file XML di OpenDocument conforme a OASIS OpenDocument Format ISO/IEC 26300. Ha Internet Media Type application/vnd.oasis.opendocument.graphics ed è inoltre conforme a org.oasis-open.opendocument public.composite-content . La struttura XML è comune a tutti i tipi di documenti come fogli di calcolo, file di disegno e documenti di testo. I documenti di OpenOffice sfruttano la separazione delle preoccupazioni separando il contenuto, gli stili, i metadati e le impostazioni dell'applicazione in quattro file XML separati.
 
-`<office:document-content> ` - Contenuto del documento e stili automatici utilizzati nel contenuto.
-`<office:document-styles> ` - Stili utilizzati nel contenuto del documento e stili automatici utilizzati negli stili stessi.
-`<office:document-meta> ` - Metainformazioni del documento, come l'autore o l'ora dell'ultima azione di salvataggio.
-`<office:document-settings> ` - Impostazioni specifiche dell'applicazione, come le dimensioni della finestra o le informazioni sulla stampante.
+`<office:document-content>` - Contenuto del documento e stili automatici utilizzati nel contenuto.
+`<office:document-styles>` - Stili utilizzati nel contenuto del documento e stili automatici utilizzati negli stili stessi.
+`<office:document-meta>` - Metainformazioni del documento, come l'autore o l'ora dell'ultima azione di salvataggio.
+`<office:document-settings>` - Impostazioni specifiche dell'applicazione, come le dimensioni della finestra o le informazioni sulla stampante.
 
 ## Riferimenti ##
 * [Specifiche future per la standardizzazione v 1.3](https://docs.oasis-open.org/office/OpenDocument/v1.3/cs01/OpenDocument-v1.3-cs01.zip)

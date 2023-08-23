@@ -25,10 +25,10 @@ File dengan ekstensi .fodg adalah format file Apache OpenOffice Drawing untuk me
 
 FODG didasarkan pada format file XML OpenDocument yang sesuai dengan OASIS OpenDocument Format ISO/IEC 26300. FODG memiliki Internet Media Type application/vnd.oasis.opendocument.graphics dan juga sesuai dengan org.oasis-open.opendocument public.composite-content . Struktur XML umum untuk semua jenis dokumen seperti spreadsheet, file gambar, dan dokumen teks. Dokumen OpenOffice memanfaatkan pemisahan perhatian dengan memisahkan konten, gaya, metadata, dan pengaturan aplikasi menjadi empat file XML terpisah.
 
-`<office:document-content> ` - Konten dokumen dan gaya otomatis yang digunakan dalam konten.
-`<office:document-styles> ` - Gaya yang digunakan dalam konten dokumen dan gaya otomatis yang digunakan dalam gaya itu sendiri.
-`<office:document-meta> ` - Mendokumentasikan informasi meta, seperti penulis atau waktu tindakan penyimpanan terakhir.
-`<office:document-settings> ` - Pengaturan khusus aplikasi, seperti ukuran jendela atau informasi printer.
+`<office:document-content>` - Konten dokumen dan gaya otomatis yang digunakan dalam konten.
+`<office:document-styles>` - Gaya yang digunakan dalam konten dokumen dan gaya otomatis yang digunakan dalam gaya itu sendiri.
+`<office:document-meta>` - Mendokumentasikan informasi meta, seperti penulis atau waktu tindakan penyimpanan terakhir.
+`<office:document-settings>` - Pengaturan khusus aplikasi, seperti ukuran jendela atau informasi printer.
 
 ## Referensi ##
 * [Spesifikasi Masa Depan untuk Standardisasi v 1.3 ](https://docs.oasis-open.org/office/OpenDocument/v1.3/cs01/OpenDocument-v1.3-cs01.zip)
