@@ -19,7 +19,7 @@
 
 ## ما هو ملف PPS؟
 
-PPS ، عرض شرائح PowerPoint ، يتم إنشاء الملفات باستخدام Microsoft PowerPoint لغرض عرض الشرائح. يدعم Microsoft PowerPoint 97-2003 قراءة وإنشاء ملف PPS. أحدث إصدار من تنسيق الملف هذا هو [PPSX](/ar/Present/ppsx/) والذي يعتمد على معايير Office OpenXML. لا يزال من الممكن قراءة ملفات PPS بواسطة أحدث إصدارات Microsoft PowerPoint ، ولكن لا يمكن حفظ الملفات التي تم إنشاؤها حديثًا إلا بتنسيق ملف PPSX. عند مشاركة ملف PPS مع مستخدم آخر وفتحه ، فإنه يبدأ كعرض Powerpoint على عكس ملف [PPT](/ar/Present/ppt/) الذي يفتح في وضع قابل للتحرير.
+PPS ، عرض شرائح PowerPoint ، يتم إنشاء الملفات باستخدام Microsoft PowerPoint لغرض عرض الشرائح. يدعم Microsoft PowerPoint 97-2003 قراءة وإنشاء ملف PPS. أحدث إصدار من تنسيق الملف هذا هو [PPSX](/ar/presentation/ppsx/) والذي يعتمد على معايير Office OpenXML. لا يزال من الممكن قراءة ملفات PPS بواسطة أحدث إصدارات Microsoft PowerPoint ، ولكن لا يمكن حفظ الملفات التي تم إنشاؤها حديثًا إلا بتنسيق ملف PPSX. عند مشاركة ملف PPS مع مستخدم آخر وفتحه ، فإنه يبدأ كعرض Powerpoint على عكس ملف [PPT](/ar/presentation/ppt/) الذي يفتح في وضع قابل للتحرير.
 
 ## تنسيق الملف ##
 
