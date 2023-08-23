@@ -31,7 +31,7 @@ DWF is een open, veilige indeling die speciaal is ontworpen voor het delen van r
 
 **DWF-metadatabestanden** – XML-bestanden die informatie bevatten met betrekking tot metadata en structuur (auteur, titel, aanmaaktijd, sectie-afhankelijkheden, sectievolgorde, beschrijvingen van bronbestanden, rollen, mimetypes, enz.) en die betrekking hebben op de sectie (pagina informatie, ontwerpmetadata, enz.). De structurele metadata wordt gebruikt om logische objecten te creëren (verzamelingen van bestanden die een onderdeel of pagina vertegenwoordigen, enz.).
 
-**Bronbestanden** – media- of andere inhoudsbestanden waarnaar wordt verwezen vanuit de metadata van het pakket/de sectie en zijn meestal presentaties van ontwerpgegevens in verschillende formaten (ZGL, W2D, [JPG](/nl/image/jpeg/), [PNG](/nl/image/png/), AVI, XML, [TXT](/nl/tekstverwerking/txt/), [DOC](/nl/tekstverwerking/doc/), enz.)
+**Bronbestanden** – media- of andere inhoudsbestanden waarnaar wordt verwezen vanuit de metadata van het pakket/de sectie en zijn meestal presentaties van ontwerpgegevens in verschillende formaten (ZGL, W2D, [JPG](/nl/image/jpeg/), [PNG](/nl/image/png/), AVI, XML, [TXT](/nl/word-processing/txt/), [DOC](/nl/word-processing/doc/), enz.)
 
 ### Details bestandsformaat ###
 

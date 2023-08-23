@@ -19,7 +19,7 @@
 
 ## Wat is een BKS-bestand? ##
 
-Een BKS-bestand is een [Microsoft Works](https://en.wikipedia.org/wiki/Microsoft_Works) back-upbestand dat de laatste werkende staat van een spreadsheetbestand opslaat. Hiermee wordt de laatste geldige status van de spreadsheet bewaard om opnieuw te worden geladen in het geval dat het originele document beschadigd raakt of om welke reden dan ook niet kan worden geopend. BKS is vergelijkbaar met [WPS](/nl/tekstverwerking/wps/) bestandsformaat dat documentinhoud bevat vergelijkbaar met Microsoft Word [DOC](/nl/tekstverwerking/doc/) document. Microsoft Works is stopgezet en BKS-bestanden worden niet meer ondersteund.
+Een BKS-bestand is een [Microsoft Works](https://en.wikipedia.org/wiki/Microsoft_Works) back-upbestand dat de laatste werkende staat van een spreadsheetbestand opslaat. Hiermee wordt de laatste geldige status van de spreadsheet bewaard om opnieuw te worden geladen in het geval dat het originele document beschadigd raakt of om welke reden dan ook niet kan worden geopend. BKS is vergelijkbaar met [WPS](/nl/word-processing/wps/) bestandsformaat dat documentinhoud bevat vergelijkbaar met Microsoft Word [DOC](/nl/word-processing/doc/) document. Microsoft Works is stopgezet en BKS-bestanden worden niet meer ondersteund.
 
 ## BKS-bestandsindeling
 

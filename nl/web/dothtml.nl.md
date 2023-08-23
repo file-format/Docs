@@ -18,7 +18,7 @@
 
 ## Wat is een DOTHTML-bestand?
 
-Een DOTHTML-bestand is een Microsoft Word-sjabloondocument dat is opgeslagen in de HTML-versie. Het kan worden geopend in een webbrowser en de inhoud wordt weergegeven zoals elke andere webpagina. DOTHTML-bestanden worden gegenereerd op basis van Microsoft Word .DOT-bestanden die vooraf opgemaakte instellingen bevatten voor het genereren van deze bestanden. Wanneer een [DOT](/nl/tekstverwerking/dot/)-bestand wordt geconverteerd naar DOCHTML, blijven al deze instellingen behouden en wordt het geconverteerde DOTHTML-bestand weergegeven met een vergelijkbare opmaak als het originele DOT-bestand. Op deze manier kunnen gepubliceerde sjablonen in de webbrowser worden bekeken.
+Een DOTHTML-bestand is een Microsoft Word-sjabloondocument dat is opgeslagen in de HTML-versie. Het kan worden geopend in een webbrowser en de inhoud wordt weergegeven zoals elke andere webpagina. DOTHTML-bestanden worden gegenereerd op basis van Microsoft Word .DOT-bestanden die vooraf opgemaakte instellingen bevatten voor het genereren van deze bestanden. Wanneer een [DOT](/nl/word-processing/dot/)-bestand wordt geconverteerd naar DOCHTML, blijven al deze instellingen behouden en wordt het geconverteerde DOTHTML-bestand weergegeven met een vergelijkbare opmaak als het originele DOT-bestand. Op deze manier kunnen gepubliceerde sjablonen in de webbrowser worden bekeken.
 
 ## DOTHTML-bestandsindeling - Meer informatie
 

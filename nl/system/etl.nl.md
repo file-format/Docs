@@ -19,7 +19,7 @@
 
 ## Wat is een ETL-bestand?
 
-ETL-bestanden zijn logbestanden die gebeurtenislogboeken bevatten die zijn gegenereerd door de Microsoft-besturingssysteemkernel. Deze logbestanden bevatten fouten op toepassings- en systeemniveau, waarschuwingen en andere gebeurtenisgegevens. ETL-bestanden zijn nuttig bij het analyseren en oplossen van problemen op systeemniveau. Veelvoorkomende problemen die in ETL-bestanden worden vastgelegd, zijn onder meer problemen die worden gegenereerd door schijftoegang en paginafouten. Microsoft biedt twee toepassingen, Tracerpt en Event Viewer, om de inhoud van ETL-bestanden te lezen en te bekijken. ETL-bestanden kunnen worden geconverteerd naar andere bestandsindelingen zoals [TXT](/nl/tekstverwerking/txt/) en [CSV](/nl/spreadsheet/csv/) met behulp van de Tracerpt.
+ETL-bestanden zijn logbestanden die gebeurtenislogboeken bevatten die zijn gegenereerd door de Microsoft-besturingssysteemkernel. Deze logbestanden bevatten fouten op toepassings- en systeemniveau, waarschuwingen en andere gebeurtenisgegevens. ETL-bestanden zijn nuttig bij het analyseren en oplossen van problemen op systeemniveau. Veelvoorkomende problemen die in ETL-bestanden worden vastgelegd, zijn onder meer problemen die worden gegenereerd door schijftoegang en paginafouten. Microsoft biedt twee toepassingen, Tracerpt en Event Viewer, om de inhoud van ETL-bestanden te lezen en te bekijken. ETL-bestanden kunnen worden geconverteerd naar andere bestandsindelingen zoals [TXT](/nl/word-processing/txt/) en [CSV](/nl/spreadsheet/csv/) met behulp van de Tracerpt.
 
 ## ETL-bestandsindeling
 

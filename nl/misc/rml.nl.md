@@ -19,7 +19,7 @@
 
 ## Wat is een RML-bestand?
 
-Een RML-bestand is een rapportagesjabloonbestand met de rapportage-engine [Elixir Repertoire](https://elixirtech.com/repertoire-2/). Het sjabloonbestand wordt gebruikt om rapporten te genereren met de gegevensbron die is verbonden met het Elixir FileSystem. Gegevens worden gelezen en ingevuld in het RML-sjabloonbestand en kunnen worden geëxporteerd naar een aantal verschillende bestandsindelingen zoals [PDF](/nl/pdf/), [RTF](/nl/tekstverwerking/rtf/) en spreadsheet [XLS](/nl/spreadsheet/xls/). Elixir Repertoire-rapportage-engine kan worden aangesloten op een breed scala aan JDBC-gegevensbronnen.
+Een RML-bestand is een rapportagesjabloonbestand met de rapportage-engine [Elixir Repertoire](https://elixirtech.com/repertoire-2/). Het sjabloonbestand wordt gebruikt om rapporten te genereren met de gegevensbron die is verbonden met het Elixir FileSystem. Gegevens worden gelezen en ingevuld in het RML-sjabloonbestand en kunnen worden geëxporteerd naar een aantal verschillende bestandsindelingen zoals [PDF](/nl/pdf/), [RTF](/nl/word-processing/rtf/) en spreadsheet [XLS](/nl/spreadsheet/xls/). Elixir Repertoire-rapportage-engine kan worden aangesloten op een breed scala aan JDBC-gegevensbronnen.
 
 ## RML-bestandsindeling
 

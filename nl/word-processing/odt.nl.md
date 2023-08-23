@@ -19,7 +19,7 @@
 
 ## Wat is een ODT-bestand?
 
-ODT-bestanden zijn typen documenten die zijn gemaakt met tekstverwerkingsprogramma's die zijn gebaseerd op de OpenDocument Text File-indeling. Deze zijn gemaakt met tekstverwerkingsprogramma's zoals gratis OpenOffice Writer en kunnen inhoud bevatten zoals tekst, afbeeldingen, objecten en stijlen. Het ODT-bestand is voor de tekstverwerker van Writer wat de [DOCX](/nl/tekstverwerking/docx/) is voor Microsoft Word. Verschillende toepassingen, waaronder Google Docs en de webgebaseerde tekstverwerker van Google die bij Google Drive worden geleverd, kunnen de ODT-bestanden openen voor bewerking. Microsoft Word kan ook ODT-bestanden openen en opslaan in andere formaten zoals [DOC](/nl/tekstverwerking/doc/) en DOCX.
+ODT-bestanden zijn typen documenten die zijn gemaakt met tekstverwerkingsprogramma's die zijn gebaseerd op de OpenDocument Text File-indeling. Deze zijn gemaakt met tekstverwerkingsprogramma's zoals gratis OpenOffice Writer en kunnen inhoud bevatten zoals tekst, afbeeldingen, objecten en stijlen. Het ODT-bestand is voor de tekstverwerker van Writer wat de [DOCX](/nl/word-processing/docx/) is voor Microsoft Word. Verschillende toepassingen, waaronder Google Docs en de webgebaseerde tekstverwerker van Google die bij Google Drive worden geleverd, kunnen de ODT-bestanden openen voor bewerking. Microsoft Word kan ook ODT-bestanden openen en opslaan in andere formaten zoals [DOC](/nl/word-processing/doc/) en DOCX.
 
 ## Korte geschiedenis ##
 

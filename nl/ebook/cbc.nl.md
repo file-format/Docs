@@ -19,7 +19,7 @@
 
 ## Wat is een CBC-bestand?
 
-Een bestand met de extensie .cbc is een gecomprimeerde verzameling stripboekbestanden voor eBooks en bevat [CBZ](/nl/ebook/cbz/) en [CBR](/nl/ebook/cbr/) bestanden. Het wordt gebruikt door [Calibre](https://calibre-ebook.com/), een eBook-conversietoepassing, een platformonafhankelijke open-source e-bookmanager waarmee u uw e-boeken kunt beheren en deze naar verschillende formaten kunt converteren . Een CBC-bestand bevat een .txt-bestand, comics.txt, met een lijst van andere bestanden die deel uitmaken van het archief. Er zijn online verschillende applicaties beschikbaar die CBC-bestanden kunnen converteren naar [AZW3](/nl/ebook/azw3/), [EPUB](/nl/ebook/epub/), [FB2](/nl/ebook/fb2/), [MOBI](/nl/ebook/ mobi/), [TXT](/nl/tekstverwerking/txt/), [PDF](/nl/pdf/) en andere populaire bestandsindelingen.
+Een bestand met de extensie .cbc is een gecomprimeerde verzameling stripboekbestanden voor eBooks en bevat [CBZ](/nl/ebook/cbz/) en [CBR](/nl/ebook/cbr/) bestanden. Het wordt gebruikt door [Calibre](https://calibre-ebook.com/), een eBook-conversietoepassing, een platformonafhankelijke open-source e-bookmanager waarmee u uw e-boeken kunt beheren en deze naar verschillende formaten kunt converteren . Een CBC-bestand bevat een .txt-bestand, comics.txt, met een lijst van andere bestanden die deel uitmaken van het archief. Er zijn online verschillende applicaties beschikbaar die CBC-bestanden kunnen converteren naar [AZW3](/nl/ebook/azw3/), [EPUB](/nl/ebook/epub/), [FB2](/nl/ebook/fb2/), [MOBI](/nl/ebook/ mobi/), [TXT](/nl/word-processing/txt/), [PDF](/nl/pdf/) en andere populaire bestandsindelingen.
 
 ## CBC-bestandsindeling
 

@@ -53,7 +53,7 @@ PDF/A-2 werd in juli 2011 door ISO Standard vrijgegeven als een nieuwe standaard
 
 ## PDF/A-3 ##
 
-PDF/A-3 bevat alle conformiteitsvereisten van niveau 2 en maakt het insluiten van aanvullende bestandsindelingen mogelijk (zoals XML, [CSV](/nl/spreadsheet/csv/), [CAD](/nl/cad/), [tekstverwerking](/nl/tekstverwerking/) , [spreadsheet](/nl/spreadsheet/) en andere) in de PDF/A-conforme documenten.
+PDF/A-3 bevat alle conformiteitsvereisten van niveau 2 en maakt het insluiten van aanvullende bestandsindelingen mogelijk (zoals XML, [CSV](/nl/spreadsheet/csv/), [CAD](/nl/cad/), [tekstverwerking](/nl/word-processing/) , [spreadsheet](/nl/spreadsheet/) en andere) in de PDF/A-conforme documenten.
 
 ## Referenties ##
 
