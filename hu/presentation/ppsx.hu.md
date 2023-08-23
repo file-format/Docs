@@ -29,7 +29,7 @@ A PPSX fájlok a Microsoft Office 2007-ben bevezetett Open XML formátumban ker�
 
 ## Lásd még ##
 
-* [PPT](/hu/prezentáció/ppt/)
+* [PPT](/hu/presentation/ppt/)
 * [PPTX](/hu/presentation/pptx/)
 
 ## Hivatkozások ##

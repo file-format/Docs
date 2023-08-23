@@ -29,8 +29,8 @@ PPSX, слайд-шоу Power Point, файлы создаются с испол
 
 ## Смотрите также ##
 
-* [PPT](/ru/презентация/ppt/)
-* [PPTX](/ru/презентация/pptx/)
+* [PPT](/ru/presentation/ppt/)
+* [PPTX](/ru/presentation/pptx/)
 
 ## Использованная литература ##
 

@@ -29,7 +29,7 @@ Các tệp PPSX được lưu ở định dạng Open XML, được giới thi�
 
 ## Xem thêm ##
 
-* [PPT](/vi/bài thuyết trình/ppt/)
+* [PPT](/vi/presentation/ppt/)
 * [PPTX](/vi/presentation/pptx/)
 
 ## Người giới thiệu ##

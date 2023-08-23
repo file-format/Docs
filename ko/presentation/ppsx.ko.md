@@ -29,8 +29,8 @@ PPSX 파일은 Microsoft Office 2007에 도입된 Open XML 형식으로 저장�
 
 ## 또한보십시오 ##
 
-* [PPT](/ko/프레젠테이션/ppt/)
-* [PPTX](/ko/프레젠테이션/pptx/)
+* [PPT](/ko/presentation/ppt/)
+* [PPTX](/ko/presentation/pptx/)
 
 ## 참조 ##
 

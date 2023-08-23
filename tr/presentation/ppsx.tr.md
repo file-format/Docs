@@ -19,7 +19,7 @@
 
 ## PPSX dosyası nedir?
 
-PPSX, Power Point Slide Show, dosya Slayt Gösterisi amacıyla Microsoft PowerPoint 2007 ve üstü kullanılarak oluşturulmuştur. Bu, Microsoft PowerPoint 97-2003 sürümleri tarafından desteklenen [PPS](/tr/sunum/pps/) dosya biçimine yönelik bir güncelleştirmedir. Bir PPSX dosyası başka bir kullanıcıyla paylaşılıp açıldığında, düzenlenebilir modda açılan [PPTX](/tr/sunum/pptx/) dosyasından farklı olarak PowerPoint gösterisi olarak başlar. Slayt gösterisinin sırası, orijinal sunumdaki ile aynıdır. Tüm slaytlar, slayt gösterisi sırasında PPSX'e sunum slaytlarına eşlik eden görüntülere, seslere ve diğer gömülü ortamlara eşlik eder.
+PPSX, Power Point Slide Show, dosya Slayt Gösterisi amacıyla Microsoft PowerPoint 2007 ve üstü kullanılarak oluşturulmuştur. Bu, Microsoft PowerPoint 97-2003 sürümleri tarafından desteklenen [PPS](/tr/presentation/pps/) dosya biçimine yönelik bir güncelleştirmedir. Bir PPSX dosyası başka bir kullanıcıyla paylaşılıp açıldığında, düzenlenebilir modda açılan [PPTX](/tr/presentation/pptx/) dosyasından farklı olarak PowerPoint gösterisi olarak başlar. Slayt gösterisinin sırası, orijinal sunumdaki ile aynıdır. Tüm slaytlar, slayt gösterisi sırasında PPSX'e sunum slaytlarına eşlik eden görüntülere, seslere ve diğer gömülü ortamlara eşlik eder.
 
 ## Dosya formatı ##
 
@@ -29,8 +29,8 @@ PPSX dosyaları, Microsoft Office 2007'de tanıtılan Açık XML biçiminde kayd
 
 ## Ayrıca bakınız ##
 
-* [PPT](/tr/sunum/ppt/)
-* [PPTX](/tr/sunum/pptx/)
+* [PPT](/tr/presentation/ppt/)
+* [PPTX](/tr/presentation/pptx/)
 
 ## Referanslar ##
 

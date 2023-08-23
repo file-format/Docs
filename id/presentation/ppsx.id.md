@@ -29,8 +29,8 @@ File PPSX disimpan dalam format Open XML, yang diperkenalkan di Microsoft Office
 
 ## Lihat juga ##
 
-* [PPT](/id/presentasi/ppt/)
-* [PPTX](/id/presentasi/pptx/)
+* [PPT](/id/presentation/ppt/)
+* [PPTX](/id/presentation/pptx/)
 
 ## Referensi ##
 
