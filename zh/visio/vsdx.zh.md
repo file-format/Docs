@@ -20,7 +20,7 @@
 
 ## 什么是一 .VSDX 文件？
 
-带有 .vsdx 扩展名的文件代表从 Microsoft Office 2013 开始引入的 Microsoft Visio 文件格式。开发它是为了替换早期版本的 Microsoft Visio 支持的二进制文件格式 [.VSD](/zh/image/vsd/)。 Microsoft SharePoint Server 2013 中的 Visio Services 也支持它，并且不需要中间文件格式即可发布到 SharePoint Server。 Visio 文件用于创建包含可视对象、流程图、UML 图、信息流、组织结构图、软件图、网络布局、数据库模型、对象映射和其他类似信息的绘图。使用 Visio 生成的文件也可以导出为不同的文件格式，例如 [PNG](/zh/image/png/)、[BMP](/zh/image/bmp/)、[PDF](/zh/pdf/) 等。
+带有 .vsdx 扩展名的文件代表从 Microsoft Office 2013 开始引入的 Microsoft Visio 文件格式。开发它是为了替换早期版本的 Microsoft Visio 支持的二进制文件格式 [.VSD](/zh/visio/vsd/)。 Microsoft SharePoint Server 2013 中的 Visio Services 也支持它，并且不需要中间文件格式即可发布到 SharePoint Server。 Visio 文件用于创建包含可视对象、流程图、UML 图、信息流、组织结构图、软件图、网络布局、数据库模型、对象映射和其他类似信息的绘图。使用 Visio 生成的文件也可以导出为不同的文件格式，例如 [PNG](/zh/image/png/)、[BMP](/zh/image/bmp/)、[PDF](/zh/pdf/) 等。
 
 ## 文件格式 ＃＃
 

@@ -20,7 +20,7 @@
 
 ## .VSDX 파일이란?
 
-확장자가 .vsdx인 파일은 Microsoft Office 2013부터 도입된 Microsoft Visio 파일 형식을 나타냅니다. 이전 버전의 Microsoft Visio에서 지원되는 바이너리 파일 형식 [.VSD](/ko/image/vsd/)를 대체하기 위해 개발되었습니다. Microsoft SharePoint Server 2013의 Visio Services에서도 지원되며 SharePoint Server에 게시하는 데 중간 파일 형식이 필요하지 않습니다. Visio 파일은 시각적 개체, 순서도, UML 다이어그램, 정보 흐름, 조직도, 소프트웨어 다이어그램, 네트워크 레이아웃, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보가 포함된 도면을 만드는 데 사용됩니다. Visio를 사용하여 생성된 파일은 [PNG](/ko/image/png/), [BMP](/ko/image/bmp/), [PDF](/ko/pdf/) 등과 같은 다양한 파일 형식으로 내보낼 수도 있습니다.
+확장자가 .vsdx인 파일은 Microsoft Office 2013부터 도입된 Microsoft Visio 파일 형식을 나타냅니다. 이전 버전의 Microsoft Visio에서 지원되는 바이너리 파일 형식 [.VSD](/ko/visio/vsd/)를 대체하기 위해 개발되었습니다. Microsoft SharePoint Server 2013의 Visio Services에서도 지원되며 SharePoint Server에 게시하는 데 중간 파일 형식이 필요하지 않습니다. Visio 파일은 시각적 개체, 순서도, UML 다이어그램, 정보 흐름, 조직도, 소프트웨어 다이어그램, 네트워크 레이아웃, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보가 포함된 도면을 만드는 데 사용됩니다. Visio를 사용하여 생성된 파일은 [PNG](/ko/image/png/), [BMP](/ko/image/bmp/), [PDF](/ko/pdf/) 등과 같은 다양한 파일 형식으로 내보낼 수도 있습니다.
 
 ## 파일 형식 ##
 

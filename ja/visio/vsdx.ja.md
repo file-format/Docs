@@ -20,7 +20,7 @@
 
 ## .VSDX オプション番号
 
-拡張子が .vsdx のファイルは、Microsoft Office 2013 以降で導入された Microsoft Visio ファイル形式を表します。以前のバージョンの Microsoft Visio でサポートされていたバイナリ ファイル形式 [.VSD](/image/vsd/) を置き換えるために開発されました。また、Microsoft SharePoint Server 2013 の Visio Services でもサポートされており、SharePoint Server に発行するための中間ファイル形式は必要ありません。 Visio ファイルは、ビジュアル オブジェクト、フローチャート、UML 図、情報フロー、組織図、ソフトウェア図、ネットワーク レイアウト、データベース モデル、オブジェクト マッピング、およびその他の同様の情報を含む図面を作成するために使用されます。 Visio を使用して生成されたファイルは、[PNG](/image/png/)、[BMP](/image/bmp/)、[PDF](/pdf/) などのさまざまなファイル形式にエクスポートすることもできます。
+拡張子が .vsdx のファイルは、Microsoft Office 2013 以降で導入された Microsoft Visio ファイル形式を表します。以前のバージョンの Microsoft Visio でサポートされていたバイナリ ファイル形式 [.VSD](/visio/vsd/) を置き換えるために開発されました。また、Microsoft SharePoint Server 2013 の Visio Services でもサポートされており、SharePoint Server に発行するための中間ファイル形式は必要ありません。 Visio ファイルは、ビジュアル オブジェクト、フローチャート、UML 図、情報フロー、組織図、ソフトウェア図、ネットワーク レイアウト、データベース モデル、オブジェクト マッピング、およびその他の同様の情報を含む図面を作成するために使用されます。 Visio を使用して生成されたファイルは、[PNG](/image/png/)、[BMP](/image/bmp/)、[PDF](/pdf/) などのさまざまなファイル形式にエクスポートすることもできます。
 
 ## ファイル形式 ##
 

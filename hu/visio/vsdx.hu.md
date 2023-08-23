@@ -20,7 +20,7 @@
 
 ## Mi az a VSDX fájl?
 
-A .vsdx kiterjesztésű fájlok a Microsoft Office 2013-tól kezdődően bevezetett Microsoft Visio fájlformátumot képviselik. A Microsoft Visio korábbi verziói által támogatott [.VSD](/hu/image/vsd/) bináris fájlformátum helyettesítésére fejlesztették ki. A Microsoft SharePoint Server 2013 Visio Services szolgáltatása is támogatja, és nem igényel közvetítő fájlformátumot a SharePoint Serveren való közzétételhez. A Visio fájlokat olyan rajzok készítésére használják, amelyek vizuális objektumokat, folyamatábrákat, UML-diagramokat, információáramlást, szervezeti diagramokat, szoftverdiagramokat, hálózati elrendezést, adatbázis-modelleket, objektumleképezést és más hasonló információkat tartalmaznak. A Visio segítségével generált fájlok exportálhatók különböző fájlformátumokba is, például [PNG](/hu/image/png/), [BMP](/hu/image/bmp/), [PDF](/hu/pdf/) és mások.
+A .vsdx kiterjesztésű fájlok a Microsoft Office 2013-tól kezdődően bevezetett Microsoft Visio fájlformátumot képviselik. A Microsoft Visio korábbi verziói által támogatott [.VSD](/hu/visio/vsd/) bináris fájlformátum helyettesítésére fejlesztették ki. A Microsoft SharePoint Server 2013 Visio Services szolgáltatása is támogatja, és nem igényel közvetítő fájlformátumot a SharePoint Serveren való közzétételhez. A Visio fájlokat olyan rajzok készítésére használják, amelyek vizuális objektumokat, folyamatábrákat, UML-diagramokat, információáramlást, szervezeti diagramokat, szoftverdiagramokat, hálózati elrendezést, adatbázis-modelleket, objektumleképezést és más hasonló információkat tartalmaznak. A Visio segítségével generált fájlok exportálhatók különböző fájlformátumokba is, például [PNG](/hu/image/png/), [BMP](/hu/image/bmp/), [PDF](/hu/pdf/) és mások.
 
 ## Fájlformátum ##
 
