@@ -18,7 +18,7 @@
 
 ## ¿Qué es un archivo INC?
 
-Un archivo INC es un archivo de inclusión que utiliza el código fuente del programa de software para hacer referencia a la información de los encabezados. Es similar al [formato de archivo .h](/es/programación/h/) y contiene declaraciones, funciones, encabezados o macros que pueden ser reutilizados por archivos de código fuente como C++. Los archivos INC son utilizados por una variedad de lenguajes de programación como C, [C++](/es/programming/cpp/), Pascal, [PHP](/es/programming/php/) y [Java](/es/programming/java/). Se pueden usar editores de texto como Microsoft Notepad, Notepad ++ y TextEdit para abrir archivos INC.
+Un archivo INC es un archivo de inclusión que utiliza el código fuente del programa de software para hacer referencia a la información de los encabezados. Es similar al [formato de archivo .h](/es/programming/h/) y contiene declaraciones, funciones, encabezados o macros que pueden ser reutilizados por archivos de código fuente como C++. Los archivos INC son utilizados por una variedad de lenguajes de programación como C, [C++](/es/programming/cpp/), Pascal, [PHP](/es/programming/php/) y [Java](/es/programming/java/). Se pueden usar editores de texto como Microsoft Notepad, Notepad ++ y TextEdit para abrir archivos INC.
 
 ## Formato de archivo INC - Más información
 

@@ -20,7 +20,7 @@
 
 ## ¿Qué es un archivo ASM?
 
-Un archivo ASM es un archivo de datos utilizado por [Solid Edge](https://solidedge.siemens.com/en/) software de ensamblaje, renderizado y modelado CAD en 3D. Contiene objetos 3D que se componen de un conjunto de piezas modeladas. Un solo archivo ASM puede contener varias partes para constituir el archivo de datos completo. Los archivos ASM son totalmente diferentes a los archivos [ASM de lenguaje ensamblador](/es/programación/asm/) y no tienen conexión con estos. El software Siemens Solid Edge se utiliza para abrir estos archivos ASM.
+Un archivo ASM es un archivo de datos utilizado por [Solid Edge](https://solidedge.siemens.com/en/) software de ensamblaje, renderizado y modelado CAD en 3D. Contiene objetos 3D que se componen de un conjunto de piezas modeladas. Un solo archivo ASM puede contener varias partes para constituir el archivo de datos completo. Los archivos ASM son totalmente diferentes a los archivos [ASM de lenguaje ensamblador](/es/programming/asm/) y no tienen conexión con estos. El software Siemens Solid Edge se utiliza para abrir estos archivos ASM.
 
 ## Referencias
 

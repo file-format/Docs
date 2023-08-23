@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo XPM?
 
-Un archivo con extensión .xpm es un formato de archivo de imagen que fue utilizado por el sistema X Windows. Admite píxeles transparentes y, por lo general, tiene como objetivo la creación de mapas de píxeles de iconos. Admite datos de mapa de píxeles monocromáticos, a escala gra y en color. Estos fueron diseñados para ser editables a mano y pueden incluirse en el código [C](/es/programación/c/). Para este propósito, los archivos XPM están en formato de archivo de texto sin formato y siguen la sintaxis del lenguaje de programación C. Los archivos XPM se pueden abrir con una variedad de aplicaciones de visualización de imágenes, como
+Un archivo con extensión .xpm es un formato de archivo de imagen que fue utilizado por el sistema X Windows. Admite píxeles transparentes y, por lo general, tiene como objetivo la creación de mapas de píxeles de iconos. Admite datos de mapa de píxeles monocromáticos, a escala gra y en color. Estos fueron diseñados para ser editables a mano y pueden incluirse en el código [C](/es/programming/c/). Para este propósito, los archivos XPM están en formato de archivo de texto sin formato y siguen la sintaxis del lenguaje de programación C. Los archivos XPM se pueden abrir con una variedad de aplicaciones de visualización de imágenes, como
 CorelDRAW Graphics Suite 2020, Corel PaintShop Pro, IrfanView y Canvas X.
 
 ## Formato de archivo XPM

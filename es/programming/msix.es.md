@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo MSIX?
 
-Un archivo MSIX es un formato de paquete de aplicaciones de Windows que se usa para crear y distribuir aplicaciones en Windows 10. Este es el formato de archivo de paquete moderno en comparación con [APPX](/es/programación/appx/) y MSI que finalmente se eliminará gradualmente a este nuevo formato de archivo. Se puede usar para la implementación de aplicaciones Win32, WPF y Windows Forms. Los archivos MSIX son confiables y tienen como objetivo la optimización del espacio en disco y la red. Los desarrolladores los usan para distribuir programas a los usuarios finales a través de Microsoft Store (anteriormente conocida como Windows Store).
+Un archivo MSIX es un formato de paquete de aplicaciones de Windows que se usa para crear y distribuir aplicaciones en Windows 10. Este es el formato de archivo de paquete moderno en comparación con [APPX](/es/programming/appx/) y MSI que finalmente se eliminará gradualmente a este nuevo formato de archivo. Se puede usar para la implementación de aplicaciones Win32, WPF y Windows Forms. Los archivos MSIX son confiables y tienen como objetivo la optimización del espacio en disco y la red. Los desarrolladores los usan para distribuir programas a los usuarios finales a través de Microsoft Store (anteriormente conocida como Windows Store).
 
 ## Formato de archivo MSIX: más información
 

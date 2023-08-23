@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo C?
 
-Un archivo guardado con la extensión de archivo c es un archivo de código fuente escrito en lenguaje de programación C. El archivo **C** incluye toda la implementación de la funcionalidad de la aplicación en forma de código fuente. La declaración del código fuente se escribe en los archivos de encabezado que se guardan con la extensión [.h](/es/programación/h/). C++ es la forma moderna del lenguaje C y se utiliza para desarrollar la mayor parte del software en la actualidad.
+Un archivo guardado con la extensión de archivo c es un archivo de código fuente escrito en lenguaje de programación C. El archivo **C** incluye toda la implementación de la funcionalidad de la aplicación en forma de código fuente. La declaración del código fuente se escribe en los archivos de encabezado que se guardan con la extensión [.h](/es/programming/h/). C++ es la forma moderna del lenguaje C y se utiliza para desarrollar la mayor parte del software en la actualidad.
 
 ## Breve historia
 

@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo LUA?
 
-Un archivo con la extensión .lua pertenece al lenguaje de programación **Luа**. Luа es un lenguaje de programación ligero, de alto nivel y multiparadigma diseñado principalmente para uso integrado en aplicaciones. Es multiplataforma, ya que el intérprete del código de bytes compilado está escrito, y Lua tiene un [C](/es/programación/c/) relativamente simple para integrarlo en las aplicaciones.
+Un archivo con la extensión .lua pertenece al lenguaje de programación **Luа**. Luа es un lenguaje de programación ligero, de alto nivel y multiparadigma diseñado principalmente para uso integrado en aplicaciones. Es multiplataforma, ya que el intérprete del código de bytes compilado está escrito, y Lua tiene un [C](/es/programming/c/) relativamente simple para integrarlo en las aplicaciones.
 
 Lu se diseñó originalmente en 1993 como un lenguaje para extender las aplicaciones de software para satisfacer la creciente demanda de personalización en ese momento. Proporcionó las funciones básicas de la mayoría de los lenguajes de programación de procedimientos, pero no se incluyeron funciones más complejas o específicas del dominio:
 

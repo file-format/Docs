@@ -18,7 +18,7 @@
 
 ## ¿Qué es un archivo GROOVY?
 
-Un archivo GROOVY es un archivo de código fuente escrito en el lenguaje de programación Groovy. El código escrito dentro de un archivo GROOVY es similar al lenguaje orientado a objetos [Java](/es/programación/java/), que facilita el diseño y desarrollo de aplicaciones. Un archivo GROOVY se compila en el código de bytes de la máquina virtual de Java (JVM) y es compatible con otros códigos y bibliotecas de Java.
+Un archivo GROOVY es un archivo de código fuente escrito en el lenguaje de programación Groovy. El código escrito dentro de un archivo GROOVY es similar al lenguaje orientado a objetos [Java](/es/programming/java/), que facilita el diseño y desarrollo de aplicaciones. Un archivo GROOVY se compila en el código de bytes de la máquina virtual de Java (JVM) y es compatible con otros códigos y bibliotecas de Java.
 
 ## Formato de archivo GROOVY - Más información
 

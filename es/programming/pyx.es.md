@@ -15,7 +15,7 @@ lastmod: 2022-05-09
 
 ## ¿Qué es un archivo PYX?
 
-Un archivo PYX es un código fuente escrito en Pyrex, un lenguaje similar a Python. Puede contener código que hace referencia a módulos C existentes. Pyrex es un lenguaje de programación que se usa para crear módulos de Python [PYD](/es/programming/pyd/) y se basa en una sintaxis similar a C. Con los archivos PYX, los usuarios pueden escribir módulos de extensión que pueden acceder directamente al código externo [C](/es/programación/c/).
+Un archivo PYX es un código fuente escrito en Pyrex, un lenguaje similar a Python. Puede contener código que hace referencia a módulos C existentes. Pyrex es un lenguaje de programación que se usa para crear módulos de Python [PYD](/es/programming/pyd/) y se basa en una sintaxis similar a C. Con los archivos PYX, los usuarios pueden escribir módulos de extensión que pueden acceder directamente al código externo [C](/es/programming/c/).
 Los archivos PYX se pueden abrir con Pyrex que está disponible en Windows, MacOS y Linux OS.
 
 ## Formato de archivo PYX - Más información
