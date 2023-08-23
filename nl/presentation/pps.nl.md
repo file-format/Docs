@@ -19,7 +19,7 @@
 
 ## Wat is een PPS-bestand?
 
-PPS, PowerPoint-diavoorstelling, bestanden worden gemaakt met Microsoft PowerPoint voor diavoorstellingen. Het lezen en maken van PPS-bestanden wordt ondersteund door Microsoft PowerPoint 97-2003. De meest recente versie van deze bestandsindeling is [PPSX ](/nl/presentation/ppsx/) die is gebaseerd op Office OpenXML-standaarden. PPS-bestanden kunnen nog steeds worden gelezen door de nieuwste versies van Microsoft PowerPoint, maar nieuw gemaakte bestanden kunnen alleen worden opgeslagen in de PPSX-bestandsindeling. Wanneer een PPS-bestand wordt gedeeld met een andere gebruiker en wordt geopend, begint het als Powerpoint-show, in tegenstelling tot het [PPT](/nl/presentatie/ppt/)-bestand dat in bewerkbare modus wordt geopend.
+PPS, PowerPoint-diavoorstelling, bestanden worden gemaakt met Microsoft PowerPoint voor diavoorstellingen. Het lezen en maken van PPS-bestanden wordt ondersteund door Microsoft PowerPoint 97-2003. De meest recente versie van deze bestandsindeling is [PPSX ](/nl/presentation/ppsx/) die is gebaseerd op Office OpenXML-standaarden. PPS-bestanden kunnen nog steeds worden gelezen door de nieuwste versies van Microsoft PowerPoint, maar nieuw gemaakte bestanden kunnen alleen worden opgeslagen in de PPSX-bestandsindeling. Wanneer een PPS-bestand wordt gedeeld met een andere gebruiker en wordt geopend, begint het als Powerpoint-show, in tegenstelling tot het [PPT](/nl/presentation/ppt/)-bestand dat in bewerkbare modus wordt geopend.
 
 ## Bestandsformaat ##
 
