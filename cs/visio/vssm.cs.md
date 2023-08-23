@@ -20,7 +20,7 @@
 
 ## Co je soubor VSSM?
 
-Soubory s příponou .vssm jsou soubory šablony Microsoft Visio, které podporují makra. Soubor VSSM při otevření umožňuje spouštět makra pro dosažení požadovaného formátování a umístění tvarů v diagramu. Microsoft Visio je obecně kreslicí software, který umožňuje vytvářet soubory, které mohou obsahovat a reprezentovat uživatelem definované informace v různých tvarech. Mezi nejběžnější z nich patří mimo jiné diagramy UML, vývojové diagramy, vizuální objekty, tok informací, organizační diagramy, softwarové diagramy, uspořádání sítě, databázové modely, mapování objektů a další podobné informace. Soubory generované pomocí aplikace Visio lze také převést do různých formátů souborů, jako je [PNG](/cs/Image/PNG/), [BMP](/cs/Image/BMP/), [PDF](/cs/pdf/) a další.
+Soubory s příponou .vssm jsou soubory šablony Microsoft Visio, které podporují makra. Soubor VSSM při otevření umožňuje spouštět makra pro dosažení požadovaného formátování a umístění tvarů v diagramu. Microsoft Visio je obecně kreslicí software, který umožňuje vytvářet soubory, které mohou obsahovat a reprezentovat uživatelem definované informace v různých tvarech. Mezi nejběžnější z nich patří mimo jiné diagramy UML, vývojové diagramy, vizuální objekty, tok informací, organizační diagramy, softwarové diagramy, uspořádání sítě, databázové modely, mapování objektů a další podobné informace. Soubory generované pomocí aplikace Visio lze také převést do různých formátů souborů, jako je [PNG](/cs/Image/PNG/), [BMP](/cs/image/bmp/), [PDF](/cs/pdf/) a další.
 
 ## Formát souboru VSSM
 

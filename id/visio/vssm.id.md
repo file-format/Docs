@@ -20,7 +20,7 @@
 
 ## Apa itu file VSSM?
 
-File dengan ekstensi .vssm adalah file Microsoft Visio Stencil yang mendukung menyediakan dukungan untuk makro. File VSSM saat dibuka memungkinkan untuk menjalankan makro untuk mencapai pemformatan dan penempatan bentuk yang diinginkan dalam diagram. Secara umum, Microsoft Visio adalah perangkat lunak menggambar yang memungkinkan untuk membuat file yang dapat berisi dan mewakili informasi yang ditentukan pengguna dalam berbagai bentuk. Yang paling umum termasuk, namun tidak terbatas pada, diagram UML, diagram alir, objek visual, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model database, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat dikonversi ke format file yang berbeda seperti [PNG](/id/Image/PNG/), [BMP](/id/Image/BMP/), [PDF](/id/pdf/), dan lainnya.
+File dengan ekstensi .vssm adalah file Microsoft Visio Stencil yang mendukung menyediakan dukungan untuk makro. File VSSM saat dibuka memungkinkan untuk menjalankan makro untuk mencapai pemformatan dan penempatan bentuk yang diinginkan dalam diagram. Secara umum, Microsoft Visio adalah perangkat lunak menggambar yang memungkinkan untuk membuat file yang dapat berisi dan mewakili informasi yang ditentukan pengguna dalam berbagai bentuk. Yang paling umum termasuk, namun tidak terbatas pada, diagram UML, diagram alir, objek visual, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model database, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat dikonversi ke format file yang berbeda seperti [PNG](/id/Image/PNG/), [BMP](/id/image/bmp/), [PDF](/id/pdf/), dan lainnya.
 
 ## Format File VSSM
 

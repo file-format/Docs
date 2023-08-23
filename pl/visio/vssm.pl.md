@@ -20,7 +20,7 @@
 
 ## Czym jest plik VSSM?
 
-Pliki z rozszerzeniem .vssm to pliki Microsoft Visio Stencil, które zapewniają obsługę makr. Plik VSSM po otwarciu umożliwia uruchomienie makr w celu uzyskania pożądanego formatowania i rozmieszczenia kształtów na diagramie. Ogólnie rzecz biorąc, Microsoft Visio to oprogramowanie do rysowania, które umożliwia tworzenie plików, które mogą zawierać i przedstawiać informacje zdefiniowane przez użytkownika w różnych kształtach. Najpopularniejsze z nich obejmują między innymi diagramy UML, schematy blokowe, obiekty wizualne, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również konwertować do różnych formatów plików, takich jak [PNG](/pl/Image/PNG/), [BMP](/pl/Image/BMP/), [PDF](/pl/pdf/) i inne.
+Pliki z rozszerzeniem .vssm to pliki Microsoft Visio Stencil, które zapewniają obsługę makr. Plik VSSM po otwarciu umożliwia uruchomienie makr w celu uzyskania pożądanego formatowania i rozmieszczenia kształtów na diagramie. Ogólnie rzecz biorąc, Microsoft Visio to oprogramowanie do rysowania, które umożliwia tworzenie plików, które mogą zawierać i przedstawiać informacje zdefiniowane przez użytkownika w różnych kształtach. Najpopularniejsze z nich obejmują między innymi diagramy UML, schematy blokowe, obiekty wizualne, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również konwertować do różnych formatów plików, takich jak [PNG](/pl/Image/PNG/), [BMP](/pl/image/bmp/), [PDF](/pl/pdf/) i inne.
 
 ## Format pliku VSSM
 

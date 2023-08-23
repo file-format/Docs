@@ -19,7 +19,7 @@
 }
 ## Co je soubor VDW?
 
-VDW je formát souboru Visio Graphics Service, který určuje datové proudy a úložiště potřebné pro vykreslení webového výkresu. Webový výkres je sbírka stránek výkresu, tvarů, písem, obrázků, datových připojení a informací o aktualizaci diagramu, které lze vykreslit jako vektorový nebo rastrový výkres. Soubory VDW lze otevřít také v aplikaci Microsoft Visio, ale primárně se ukládají pro použití na webu. Microsoft Visio nabízí možnost převádět soubory Visio do řady různých formátů souborů včetně [PNG](/cs/Image/PNG/), [BMP](/cs/Image/BMP/), [PDF](/cs/pdf/) a dalších.
+VDW je formát souboru Visio Graphics Service, který určuje datové proudy a úložiště potřebné pro vykreslení webového výkresu. Webový výkres je sbírka stránek výkresu, tvarů, písem, obrázků, datových připojení a informací o aktualizaci diagramu, které lze vykreslit jako vektorový nebo rastrový výkres. Soubory VDW lze otevřít také v aplikaci Microsoft Visio, ale primárně se ukládají pro použití na webu. Microsoft Visio nabízí možnost převádět soubory Visio do řady různých formátů souborů včetně [PNG](/cs/Image/PNG/), [BMP](/cs/image/bmp/), [PDF](/cs/pdf/) a dalších.
 
 ## **VDW** Formát souboru
 

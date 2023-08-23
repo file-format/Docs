@@ -19,7 +19,7 @@
 }
 ## VDW dosyası nedir?
 
-VDW, bir Web çizimini işlemek için gereken akışları ve depoları belirten Visio Graphics Service dosya biçimidir. Bir web çizimi, bir vektör veya taramalı çizim olarak işlenebilen çizim sayfaları, şekiller, yazı tipleri, resimler, veri bağlantıları ve diyagram güncelleme bilgileri koleksiyonudur. VDW dosyaları Microsoft Visio'da da açılabilir, ancak öncelikle web'de kullanılmak üzere kaydedilir. Microsoft Visio, Visio dosyalarını [PNG](/tr/Image/PNG/), [BMP](/tr/Image/BMP/), [PDF](/tr/pdf/) ve diğerleri dahil olmak üzere bir dizi farklı dosya biçimine dönüştürme yeteneği sunar.
+VDW, bir Web çizimini işlemek için gereken akışları ve depoları belirten Visio Graphics Service dosya biçimidir. Bir web çizimi, bir vektör veya taramalı çizim olarak işlenebilen çizim sayfaları, şekiller, yazı tipleri, resimler, veri bağlantıları ve diyagram güncelleme bilgileri koleksiyonudur. VDW dosyaları Microsoft Visio'da da açılabilir, ancak öncelikle web'de kullanılmak üzere kaydedilir. Microsoft Visio, Visio dosyalarını [PNG](/tr/Image/PNG/), [BMP](/tr/image/bmp/), [PDF](/tr/pdf/) ve diğerleri dahil olmak üzere bir dizi farklı dosya biçimine dönüştürme yeteneği sunar.
 
 ## **VDW** Dosya Biçimi
 

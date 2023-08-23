@@ -20,7 +20,7 @@
 
 ## Ce este un fișier VSSM?
 
-Fișierele cu extensia .vssm sunt fișiere Microsoft Visio Stencil care oferă suport pentru macrocomenzi. Un fișier VSSM atunci când este deschis permite rularea macrocomenzilor pentru a obține formatarea dorită și plasarea formelor într-o diagramă. În general, Microsoft Visio este un software de desen care permite crearea de fișiere care pot conține și reprezenta informații definite de utilizator în diferite forme. Cele mai comune dintre acestea includ, dar fără a se limita la, diagrame UML, diagrame de flux, obiecte vizuale, flux de informații, organigrame, diagrame software, aspect de rețea, modele de baze de date, cartografiere de obiecte și alte informații similare. Fișierele generate folosind Visio pot fi, de asemenea, convertite în diferite formate de fișiere, cum ar fi [PNG](/ro/Image/PNG/), [BMP](/ro/Image/BMP/), [PDF](/ro/pdf/) și altele.
+Fișierele cu extensia .vssm sunt fișiere Microsoft Visio Stencil care oferă suport pentru macrocomenzi. Un fișier VSSM atunci când este deschis permite rularea macrocomenzilor pentru a obține formatarea dorită și plasarea formelor într-o diagramă. În general, Microsoft Visio este un software de desen care permite crearea de fișiere care pot conține și reprezenta informații definite de utilizator în diferite forme. Cele mai comune dintre acestea includ, dar fără a se limita la, diagrame UML, diagrame de flux, obiecte vizuale, flux de informații, organigrame, diagrame software, aspect de rețea, modele de baze de date, cartografiere de obiecte și alte informații similare. Fișierele generate folosind Visio pot fi, de asemenea, convertite în diferite formate de fișiere, cum ar fi [PNG](/ro/Image/PNG/), [BMP](/ro/image/bmp/), [PDF](/ro/pdf/) și altele.
 
 ## Format de fișier VSSM
 
