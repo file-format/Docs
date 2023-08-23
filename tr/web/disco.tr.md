@@ -18,7 +18,7 @@
 
 ## .disco dosyası nedir?
 
-DISCO dosyası, Web Hizmetlerini yayınlamak ve keşfetmek için kullanılan bir Microsoft Discovery dosya biçimidir. XML dosya biçiminde saklanır ve Web Hizmetleri Keşif araçlarının mevcut [XML](/tr/web/xml/) hizmetlerini açıklamak için bir veya daha fazla ilgili belgeyi bulmasına veya keşfetmesine olanak tanır. DISCO dosyası, keşif belgeleri, [XSD](https://docs.fileformat.com/programming/xsd/) şemaları ve hizmet açıklamaları gibi bilgileri saklar. XML Web hizmetleri, belirli bir URL'deki kullanılabilir XML web hizmetlerine ulaşmak için bu bilgileri kullanır.
+DISCO dosyası, Web Hizmetlerini yayınlamak ve keşfetmek için kullanılan bir Microsoft Discovery dosya biçimidir. XML dosya biçiminde saklanır ve Web Hizmetleri Keşif araçlarının mevcut [XML](/tr/web/xml/) hizmetlerini açıklamak için bir veya daha fazla ilgili belgeyi bulmasına veya keşfetmesine olanak tanır. DISCO dosyası, keşif belgeleri, [XSD](/programming/xsd/) şemaları ve hizmet açıklamaları gibi bilgileri saklar. XML Web hizmetleri, belirli bir URL'deki kullanılabilir XML web hizmetlerine ulaşmak için bu bilgileri kullanır.
 
 ## DISCO Dosya Biçimi - Daha Fazla Bilgi
 

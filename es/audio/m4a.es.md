@@ -26,7 +26,7 @@ El formato M4A está encriptado por FairPlay Digital Rights Management, tal como
 
 ## M4A frente a MP3
 
-Tanto M4A como [MP3](https://docs.fileformat.com/audio/mp3/) son formatos de archivo de solo audio.
+Tanto M4A como [MP3](/audio/mp3/) son formatos de archivo de solo audio.
 
 **M4A**: mejor que MP3 en términos de calidad y tamaño cuando se codifica a la misma tasa de bits. La extensión de archivo .m4a es tan común porque Apple la ha utilizado para su uso en iTunes Music Store. El M4A es un archivo de audio comprimido con tecnología MPEG-4; un algoritmo para la compresión con pérdida. Básicamente está asociado con la “capa de audio MPEG-4”, los archivos con extensión .m4a son la capa de audio de las películas MPEG-4. Pretende superar al MP3 y convertirse en el nuevo estándar en compresión de audio. Está muy cerca del MP3 en muchos sentidos, pero se introdujo para tener una mejor calidad en un tamaño de archivo igual o incluso más pequeño. Apple introdujo por primera vez el formato M4A. El tipo de formato también se realiza como Apple Lossless Encoder (ALE).
 

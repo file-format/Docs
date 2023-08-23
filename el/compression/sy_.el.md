@@ -31,7 +31,7 @@ expand /i <source> [<destination>]
 expand /d <source>.cab [/f:<files>]
 expand <source>.cab /f:<files> <destination>
 ```
-Όταν αναπτυχθούν, τα αρχεία SY_ μετατρέπονται σε αρχείο [SYS](https://docs.fileformat.com/system/sys/).
+Όταν αναπτυχθούν, τα αρχεία SY_ μετατρέπονται σε αρχείο [SYS](/system/sys/).
 
 Τα αρχεία SY_ είναι παρόμοια με τα αρχεία EX_ και DL_.
 

@@ -28,7 +28,7 @@ De audioboekbestanden die metadata, afbeeldingen, bladwijzers en hyperlinks beva
 
 ## M4B versus M4A
 
-Zowel M4B als [MP3](https://docs.fileformat.com/audio/mp3/) zijn bestandsindelingen met alleen audio.
+Zowel M4B als [MP3](/audio/mp3/) zijn bestandsindelingen met alleen audio.
 
 **M4B**: wint in vergelijking met MP3 in termen van kwaliteit als beide met dezelfde bitsnelheid worden gecodeerd. De M4B is een audioboekbestand dat is gecomprimeerd met AAC-codering. Het wordt in feite geassocieerd met "MPEG-4 Audio Layer", bestanden met de extensie .m4b zijn de audiolaag van MPEG-4-films, maar met extra audioboekgerelateerde functies. Het doel is om MP3 in te halen en de nieuwe standaard te worden in audiocompressie. Het ligt in veel opzichten dicht bij MP3, maar is ontwikkeld om een betere kwaliteit te hebben in dezelfde of zelfs kleinere bestandsgrootte. Het M4B-formaat werd voor het eerst geïntroduceerd door Apple. Het formaattype wordt ook gerealiseerd als de Apple lossless Encoder (ALE).
 

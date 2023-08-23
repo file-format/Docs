@@ -26,7 +26,7 @@ Fișierele IFO sunt salvate cu extensia **.ifo**.
 
 Fișierele IFO sunt salvate ca fișiere text și pot fi deschise cu orice editor de text, cum ar fi Microsoft Notepad++, Notepad și Apple TextEdit. Antetele din fișierul IFO le spun playerelor DVD despre ecranul de pornire, locația fiecărei piste video de pe disc, locația pistelor audio și alte informații conexe.
 
-Fișierele IFO pot deteriora dacă DVD-ul primește zgârieturi. De aceea, un fișier BUP este creat ca o copie de rezervă a fișierului IFO. În cazul în care fișierul IFO nu poate fi citit, fișierul BUP este citit în schimb. Aceste fișiere sunt amplasate împreună cu fișierul [VOB](https://docs.fileformat.com/video/vob/) care conține un index al conținutului de pe disc.
+Fișierele IFO pot deteriora dacă DVD-ul primește zgârieturi. De aceea, un fișier BUP este creat ca o copie de rezervă a fișierului IFO. În cazul în care fișierul IFO nu poate fi citit, fișierul BUP este citit în schimb. Aceste fișiere sunt amplasate împreună cu fișierul [VOB](/video/vob/) care conține un index al conținutului de pe disc.
 
 ## Referințe
 

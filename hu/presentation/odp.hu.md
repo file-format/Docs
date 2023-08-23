@@ -33,7 +33,7 @@ Elég apró változások történtek az ODF 1.0-ról az 1.1-es verziókra való 
 
 ## A fájlformátum specifikációi
 
-Az OpenDocument formátum támogatja a dokumentumok egyetlen XML-dokumentumként való megjelenítését, valamint egy csomagon belüli több aldokumentum gyűjteményét [ZIP](https://docs.fileformat.com/compression/zip/) archívumként. A ZIP archívumból származó fájlok mindegyike a teljes dokumentum egy részét tárolja. Minden aldokumentum a dokumentum egy bizonyos aspektusát tárolja. Például egy aldokumentum tartalmazza a stílusinformációkat, egy másik pedig a dokumentum tartalmát. Egy tipikus ODF dokumentum a következő összetevőket tartalmazza:
+Az OpenDocument formátum támogatja a dokumentumok egyetlen XML-dokumentumként való megjelenítését, valamint egy csomagon belüli több aldokumentum gyűjteményét [ZIP](/compression/zip/) archívumként. A ZIP archívumból származó fájlok mindegyike a teljes dokumentum egy részét tárolja. Minden aldokumentum a dokumentum egy bizonyos aspektusát tárolja. Például egy aldokumentum tartalmazza a stílusinformációkat, egy másik pedig a dokumentum tartalmát. Egy tipikus ODF dokumentum a következő összetevőket tartalmazza:
 
 * `content.xml` – Dokumentumtartalom és a tartalomban használt automatikus stílusok.
 * `styles.xml` – A dokumentumtartalomban használt stílusok és magukban a stílusokban használt automatikus stílusok.

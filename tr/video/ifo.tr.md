@@ -26,7 +26,7 @@ IFO dosyaları **.ifo** uzantısıyla kaydedilir.
 
 IFO dosyaları metin dosyaları olarak kaydedilir ve Microsoft Notepad++, Notepad ve Apple TextEdit gibi herhangi bir metin düzenleyiciyle açılabilir. IFO dosyasındaki başlıklar, DVD oynatıcılara başlangıç ekranı, diskteki her bir video parçasının konumu, ses parçalarının konumu ve diğer ilgili bilgiler hakkında bilgi verir.
 
-DVD çizilirse IFO dosyaları zarar görebilir. Bu nedenle bir BUP dosyası, IFO dosyasının yedeği olarak oluşturulur. IFO dosyasının okunamaması durumunda bunun yerine BUP dosyası okunur. Bu dosyalar, diskteki içeriğin bir dizinini içeren [VOB](https://docs.fileformat.com/video/vob/) dosyasının yanında bulunur.
+DVD çizilirse IFO dosyaları zarar görebilir. Bu nedenle bir BUP dosyası, IFO dosyasının yedeği olarak oluşturulur. IFO dosyasının okunamaması durumunda bunun yerine BUP dosyası okunur. Bu dosyalar, diskteki içeriğin bir dizinini içeren [VOB](/video/vob/) dosyasının yanında bulunur.
 
 ## Referanslar
 

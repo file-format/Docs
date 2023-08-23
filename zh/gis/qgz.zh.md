@@ -19,7 +19,7 @@
 
 ## 什么是一 .qgz 文件？
 
-**QGZ** 文件格式是包含 [QGS](https://docs.fileformat.com/gis/qgs/) 文件和 QGD 文件的压缩存档。而 QGD 文件是 qgis 项目的 sqlite 数据库，由项目的辅助数据组成。如果没有辅助数据，QGD 文件将保持为空。
+**QGZ** 文件格式是包含 [QGS](/gis/qgs/) 文件和 QGD 文件的压缩存档。而 QGD 文件是 qgis 项目的 sqlite 数据库，由项目的辅助数据组成。如果没有辅助数据，QGD 文件将保持为空。
 
 ## 关于 QGZ 文件格式的详细信息
 

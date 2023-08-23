@@ -21,7 +21,7 @@
 
 O arquivo APE é um arquivo de áudio compactado com **Monkey's Audio**; um algoritmo para compressão de dados de áudio sem perdas. Ao contrário dos métodos de compactação com perdas, como AAC, MP3, Vorbis e Opus, esse algoritmo típico não descarta nenhum dado durante o processo de codificação. Os arquivos codificados para Monkey's Audio são geralmente reduzidos a cerca de metade do seu tamanho original. Esses arquivos contêm detecção de erros e suporte a tags que salvam dados sobre os arquivos de áudio.
 
-O formato de arquivo APE é mais usado entre os usuários do Microsoft Windows. Ele usa uma taxa de compactação altamente insistente e a outra grande coisa é que os arquivos de áudio do Monkey sempre podem ser descompactados para os arquivos originais e exatos. O codificador de áudio do Monkey está disponível gratuitamente e pode ser incluído facilmente em outros programas de software. Se o áudio do Monkey for comparado a [ALAC](https://docs.fileformat.com/audio/alac/), [FLAC](https://docs.fileformat.com/audio/flac/) ou WavPack, ele é relativamente lento para codificar ou decodificar arquivos.
+O formato de arquivo APE é mais usado entre os usuários do Microsoft Windows. Ele usa uma taxa de compactação altamente insistente e a outra grande coisa é que os arquivos de áudio do Monkey sempre podem ser descompactados para os arquivos originais e exatos. O codificador de áudio do Monkey está disponível gratuitamente e pode ser incluído facilmente em outros programas de software. Se o áudio do Monkey for comparado a [ALAC](/audio/alac/), [FLAC](/audio/flac/) ou WavPack, ele é relativamente lento para codificar ou decodificar arquivos.
 
 ## Referências
 

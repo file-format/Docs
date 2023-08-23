@@ -31,7 +31,7 @@ expand /i <source> [<destination>]
 expand /d <source>.cab [/f:<files>]
 expand <source>.cab /f:<files> <destination>
 ```
-Wanneer uitgevouwen, worden de SY_-bestanden geconverteerd naar het [SYS](https://docs.fileformat.com/system/sys/)-bestand.
+Wanneer uitgevouwen, worden de SY_-bestanden geconverteerd naar het [SYS](/system/sys/)-bestand.
 
 SY_-bestanden lijken op EX_- en DL_-bestanden.
 

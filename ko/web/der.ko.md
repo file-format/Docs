@@ -19,7 +19,7 @@
 
 ## .DER 파일이란?
 
-DER 파일은 바이너리 형식으로 생성되어 저장되는 디지털 인증서 파일입니다. X.509 인증서 및 개인 키에 대한 이진 인코딩입니다. PEM 파일([CRT](https://docs.fileformat.com/web/crt/), [CER](https://docs.fileformat.com/web/cer/))과 달리 DER 파일은 -----BEGIN CERTIFICATE-----와 같이 사람이 읽을 수 있는 일반 텍스트 문을 포함하지 않습니다. 그들은 주로 Java 컨텍스트에서 사용됩니다.
+DER 파일은 바이너리 형식으로 생성되어 저장되는 디지털 인증서 파일입니다. X.509 인증서 및 개인 키에 대한 이진 인코딩입니다. PEM 파일([CRT](/web/crt/), [CER](/web/cer/))과 달리 DER 파일은 -----BEGIN CERTIFICATE-----와 같이 사람이 읽을 수 있는 일반 텍스트 문을 포함하지 않습니다. 그들은 주로 Java 컨텍스트에서 사용됩니다.
 
 ## DER 파일 형식 - 추가 정보
 

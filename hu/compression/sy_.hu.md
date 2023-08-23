@@ -31,7 +31,7 @@ expand /i <source> [<destination>]
 expand /d <source>.cab [/f:<files>]
 expand <source>.cab /f:<files> <destination>
 ```
-Kibontáskor a SY_ fájlok [SYS](https://docs.fileformat.com/system/sys/) fájllá alakulnak.
+Kibontáskor a SY_ fájlok [SYS](/system/sys/) fájllá alakulnak.
 
 A SY_ fájlok hasonlóak az EX_ és DL_ fájlokhoz.
 

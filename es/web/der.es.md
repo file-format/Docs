@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo DER?
 
-Un archivo DER es un archivo de certificado digital que se crea y almacena en formato binario. Es una codificación binaria para los certificados X.509 y claves privadas. A diferencia de los archivos PEM ([CRT](https://docs.fileformat.com/web/crt/), [CER](https://docs.fileformat.com/web/cer/)), los archivos DER sí no contener declaraciones de texto sin formato legibles por humanos, como -----BEGIN CERTIFICATE-----. Se utilizan principalmente en el contexto de Java.
+Un archivo DER es un archivo de certificado digital que se crea y almacena en formato binario. Es una codificación binaria para los certificados X.509 y claves privadas. A diferencia de los archivos PEM ([CRT](/web/crt/), [CER](/web/cer/)), los archivos DER sí no contener declaraciones de texto sin formato legibles por humanos, como -----BEGIN CERTIFICATE-----. Se utilizan principalmente en el contexto de Java.
 
 ## Formato de archivo DER - Más información
 

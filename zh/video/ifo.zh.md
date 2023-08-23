@@ -26,7 +26,7 @@ IFO 文件以 **.ifo** 扩展名保存。
 
 IFO 文件保存为文本文件，可以使用任何文本编辑器打开，例如 Microsoft Notepad++、Notepad 和 Apple TextEdit。 IFO 文件中的标题告诉 DVD 播放器有关起始屏幕、光盘上每个视频轨道的位置、音轨位置以及其他相关信息。
 
-如果 DVD 有划痕，IFO 文件可能会损坏。这就是为什么创建 BUP 文件作为 IFO 文件的备份的原因。如果无法读取 IFO 文件，则改为读取 BUP 文件。这些文件与包含光盘内容索引的 [VOB](https://docs.fileformat.com/video/vob/) 文件位于同一位置。
+如果 DVD 有划痕，IFO 文件可能会损坏。这就是为什么创建 BUP 文件作为 IFO 文件的备份的原因。如果无法读取 IFO 文件，则改为读取 BUP 文件。这些文件与包含光盘内容索引的 [VOB](/video/vob/) 文件位于同一位置。
 
 ## 参考
 

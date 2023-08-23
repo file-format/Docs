@@ -31,7 +31,7 @@ expand /i <source> [<destination>]
 expand /d <source>.cab [/f:<files>]
 expand <source>.cab /f:<files> <destination>
 ```
-확장하면 SY_ 파일이 [SYS](https://docs.fileformat.com/system/sys/) 파일로 변환됩니다.
+확장하면 SY_ 파일이 [SYS](/system/sys/) 파일로 변환됩니다.
 
 SY_ 파일은 EX_ 및 DL_ 파일과 유사합니다.
 

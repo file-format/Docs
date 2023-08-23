@@ -28,7 +28,7 @@ Les fichiers de livres audio contenant des métadonnées, des images, des signet
 
 ## M4B contre M4A
 
-M4B et [MP3](https://docs.fileformat.com/audio/mp3/) sont des formats de fichiers uniquement audio.
+M4B et [MP3](/audio/mp3/) sont des formats de fichiers uniquement audio.
 
 **M4B** : Gagne par rapport au MP3 en termes de qualité s'il encode les deux au même débit binaire. Le M4B est un fichier de livre audio compressé à l'aide de l'encodage AAC. Il est essentiellement associé à "MPEG-4 Audio Layer", les fichiers avec l'extension .m4b sont la couche audio des films MPEG-4 mais avec des fonctionnalités supplémentaires liées aux livres audio. Son objectif est de dépasser le MP3 et de devenir le nouveau standard de compression audio. Il est très proche du MP3 à bien des égards mais développé pour avoir une meilleure qualité dans une taille de fichier identique ou même plus petite. Le format M4B a été introduit pour la première fois par Apple. Le type de format est également réalisé en tant qu'encodeur sans perte Apple (ALE).
 

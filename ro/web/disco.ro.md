@@ -18,7 +18,7 @@
 
 ## Ce este un fișier DISCO?
 
-Un fișier DISCO este un format de fișier Microsoft Discovery care este utilizat pentru publicarea și descoperirea serviciilor web. Este stocat în format de fișier XML și permite instrumentelor Web Services Discovery să localizeze sau să descopere unul sau mai multe documente conexe pentru a descrie serviciile [XML](/ro/web/xml/) disponibile. Fișierul DISCO stochează informații precum documente de descoperire, scheme [XSD](https://docs.fileformat.com/programming/xsd/) și descrieri de servicii. Serviciile web XML utilizează aceste informații pentru a ajunge la serviciile web XML disponibile la o anumită adresă URL.
+Un fișier DISCO este un format de fișier Microsoft Discovery care este utilizat pentru publicarea și descoperirea serviciilor web. Este stocat în format de fișier XML și permite instrumentelor Web Services Discovery să localizeze sau să descopere unul sau mai multe documente conexe pentru a descrie serviciile [XML](/ro/web/xml/) disponibile. Fișierul DISCO stochează informații precum documente de descoperire, scheme [XSD](/programming/xsd/) și descrieri de servicii. Serviciile web XML utilizează aceste informații pentru a ajunge la serviciile web XML disponibile la o anumită adresă URL.
 
 ## Format de fișier DISCO - Mai multe informații
 

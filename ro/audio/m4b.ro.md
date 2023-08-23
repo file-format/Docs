@@ -28,7 +28,7 @@ Fișierele audiobook care conțin metadate, imagini, marcaje și hyperlink-uri p
 
 ## M4B vs M4A
 
-Atât M4B, cât și [MP3](https://docs.fileformat.com/audio/mp3/) sunt formate de fișiere doar audio.
+Atât M4B, cât și [MP3](/audio/mp3/) sunt formate de fișiere doar audio.
 
 **M4B**: Câștigă în comparație cu MP3 în ceea ce privește calitatea dacă se codifică ambele la aceeași rată de biți. M4B este un fișier de carte audio care este comprimat folosind codificarea AAC. Practic este asociat cu „MPEG-4 Audio Layer”, fișierele cu extensia .m4b sunt stratul audio al filmelor MPEG-4, dar cu caracteristici suplimentare legate de audiobook. Scopul său este să depășească MP3-ul și să devină noul standard în compresia audio. Este foarte aproape de MP3 în multe privințe, dar a fost dezvoltat pentru a avea o calitate mai bună la aceeași dimensiune sau chiar mai mică. Formatul M4B a fost introdus pentru prima dată de Apple. Tipul de format este, de asemenea, realizat ca Apple Lossless Encoder (ALE).
 

@@ -19,7 +19,7 @@
 
 ## Czym jest plik DOCM?
 
-Pliki DOCM to dokumenty wygenerowane w programie Microsoft Word 2007 lub nowszym z możliwością uruchamiania makr. Jest podobny do formatu pliku [DOCX](https://docs.fileformat.com/word-processing/docx/), ale różni się od DOCX możliwością uruchamiania makr. Podobnie jak DOCX, pliki DOCM mogą przechowywać tekst, obrazy, tabele, kształty, wykresy i inną zawartość. Możliwość uruchamiania makr ułatwia oszczędzanie czasu poprzez wykonywanie serii poleceń w postaci nagranych działań w celu automatycznego zakończenia zadania . Pliki DOCM można otwierać i edytować w programie Microsoft Word 2007 i nowszych wersjach.
+Pliki DOCM to dokumenty wygenerowane w programie Microsoft Word 2007 lub nowszym z możliwością uruchamiania makr. Jest podobny do formatu pliku [DOCX](/word-processing/docx/), ale różni się od DOCX możliwością uruchamiania makr. Podobnie jak DOCX, pliki DOCM mogą przechowywać tekst, obrazy, tabele, kształty, wykresy i inną zawartość. Możliwość uruchamiania makr ułatwia oszczędzanie czasu poprzez wykonywanie serii poleceń w postaci nagranych działań w celu automatycznego zakończenia zadania . Pliki DOCM można otwierać i edytować w programie Microsoft Word 2007 i nowszych wersjach.
 
 ## Krótka historia
 

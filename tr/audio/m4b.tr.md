@@ -28,7 +28,7 @@ Meta veri, resim, yer imleri ve köprüler içeren sesli kitap dosyaları .m4a u
 
 ## M4B ve M4A
 
-Hem M4B hem de [MP3](https://docs.fileformat.com/audio/mp3/) yalnızca ses dosya biçimleridir.
+Hem M4B hem de [MP3](/audio/mp3/) yalnızca ses dosya biçimleridir.
 
 **M4B**: Her ikisini de aynı bit hızında kodlarsanız, kalite açısından MP3 ile karşılaştırıldığında kazanır. M4B, AAC kodlaması kullanılarak sıkıştırılmış bir sesli kitap dosyasıdır. Temel olarak “MPEG-4 Ses Katmanı” ile ilişkilendirilir, .m4b uzantılı dosyalar MPEG-4 filmlerin ses katmanıdır, ancak sesli kitapla ilgili ekstra özelliklere sahiptir. Amacı, MP3'ü geçmek ve ses sıkıştırmada yeni standart haline gelmektir. Birçok yönden MP3'e çok yakındır, ancak aynı veya daha küçük dosya boyutunda daha iyi kaliteye sahip olması için geliştirilmiştir. M4B formatı ilk olarak Apple tarafından tanıtıldı. Biçim türü de Apple kayıpsız Kodlayıcı (ALE) olarak gerçekleştirilir.
 

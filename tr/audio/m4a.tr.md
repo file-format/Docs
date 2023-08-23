@@ -26,7 +26,7 @@ M4A formatı, iTunes Store aracılığıyla satılan .m4p uzantısını kulland�
 
 ## M4A ve MP3
 
-Hem M4A hem de [MP3](https://docs.fileformat.com/audio/mp3/) yalnızca ses dosya biçimleridir.
+Hem M4A hem de [MP3](/audio/mp3/) yalnızca ses dosya biçimleridir.
 
 **M4A**: Aynı bit hızında kodlandığında kalite ve boyutlar açısından MP3'ten daha iyidir. .m4a dosya uzantısı çok yaygındır çünkü Apple tarafından iTunes Music Store'da kullanılmak üzere kullanılmıştır. M4A, MPEG-4 teknolojisi kullanılarak sıkıştırılmış bir ses dosyasıdır; kayıplı sıkıştırma için bir algoritma. Temel olarak “MPEG-4 Ses Katmanı” ile ilişkilendirilir, .m4a uzantılı dosyalar MPEG-4 filmlerin ses katmanıdır. MP3'ü geçmesi ve ses sıkıştırmada yeni standart olması amaçlanmıştır. Birçok yönden MP3'e çok yakındır, ancak aynı veya daha küçük dosya boyutunda daha iyi bir kaliteye sahip olması için sunulmuştur. M4A formatı ilk olarak Apple tarafından tanıtıldı. Biçim türü de Apple kayıpsız Kodlayıcı (ALE) olarak gerçekleştirilir.
 

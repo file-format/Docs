@@ -26,7 +26,7 @@ IFO-bestanden worden opgeslagen met de extensie **.ifo**.
 
 IFO-bestanden worden opgeslagen als tekstbestanden en kunnen worden geopend met elke teksteditor zoals Microsoft Notepad++, Notepad en Apple TextEdit. De koppen in het IFO-bestand vertellen dvd-spelers over het startscherm, de locatie van elke videotrack op de schijf, de locatie van de audiotracks en andere gerelateerde informatie.
 
-IFO-bestanden kunnen beschadigd raken als de dvd krassen krijgt. Daarom wordt een BUP-bestand gemaakt als back-up van het IFO-bestand. In het geval dat het IFO-bestand niet kan worden gelezen, wordt in plaats daarvan het BUP-bestand gelezen. Deze bestanden bevinden zich naast het [VOB](https://docs.fileformat.com/video/vob/)-bestand dat een index van de inhoud op de schijf bevat.
+IFO-bestanden kunnen beschadigd raken als de dvd krassen krijgt. Daarom wordt een BUP-bestand gemaakt als back-up van het IFO-bestand. In het geval dat het IFO-bestand niet kan worden gelezen, wordt in plaats daarvan het BUP-bestand gelezen. Deze bestanden bevinden zich naast het [VOB](/video/vob/)-bestand dat een index van de inhoud op de schijf bevat.
 
 ## Referenties
 

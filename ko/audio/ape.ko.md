@@ -21,7 +21,7 @@
 
 APE 파일은 **Monkey's Audio**로 압축된 오디오 파일입니다. 무손실 오디오 데이터 압축 알고리즘. AAC, MP3, Vorbis 및 Opus와 같은 손실 압축 방식과 달리 이 일반적인 알고리즘은 인코딩 과정에서 데이터를 스크랩하지 않습니다. Monkey's Audio로 인코딩된 파일은 일반적으로 원래 크기의 약 절반으로 줄어듭니다. 이러한 파일에는 오디오 파일에 대한 데이터를 저장하는 오류 감지 및 태그 지원이 포함되어 있습니다.
 
-APE 파일 형식은 Microsoft Windows 사용자 사이에서 더 널리 사용됩니다. 매우 강력한 압축률을 사용하며 또 다른 좋은 점은 Monkey의 오디오 파일을 항상 정확한 원본 파일로 압축 해제할 수 있다는 것입니다. Monkey의 오디오 인코더는 무료로 사용할 수 있으며 다른 소프트웨어 프로그램에 쉽게 포함될 수 있습니다. Monkey의 오디오를 [ALAC](https://docs.fileformat.com/audio/alac/), [FLAC](https://docs.fileformat.com/audio/flac/) 또는 WavPack과 비교하면 파일을 인코딩하거나 디코딩하는 데 상대적으로 느립니다.
+APE 파일 형식은 Microsoft Windows 사용자 사이에서 더 널리 사용됩니다. 매우 강력한 압축률을 사용하며 또 다른 좋은 점은 Monkey의 오디오 파일을 항상 정확한 원본 파일로 압축 해제할 수 있다는 것입니다. Monkey의 오디오 인코더는 무료로 사용할 수 있으며 다른 소프트웨어 프로그램에 쉽게 포함될 수 있습니다. Monkey의 오디오를 [ALAC](/audio/alac/), [FLAC](/audio/flac/) 또는 WavPack과 비교하면 파일을 인코딩하거나 디코딩하는 데 상대적으로 느립니다.
 
 ## 참고문헌
 

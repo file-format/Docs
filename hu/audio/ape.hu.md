@@ -21,7 +21,7 @@
 
 Az APE fájl egy **Monkey's Audio** programmal tömörített hangfájl; egy algoritmus veszteségmentes audio adatok tömörítésére. Ellentétben a veszteséges tömörítési módszerekkel, mint például az AAC, MP3, Vorbis és Opus, ez a tipikus algoritmus nem törli ki az adatokat a kódolás során. A Monkey's Audio-ba kódolt fájlok általában az eredeti méretük felére csökkennek. Ezek a fájlok hibaészlelést és címke-támogatást tartalmaznak, amelyek adatokat mentenek az audiofájlokról.
 
-Az APE fájlformátumot szélesebb körben használják a Microsoft Windows felhasználók körében. Nagyon kitartó tömörítési arányt használ, és a másik nagyszerű dolog az, hogy a Monkey's Audio fájlokat mindig ki lehet tömöríteni a pontos, eredeti fájlokra. A Monkey's Audio kódoló ingyenesen elérhető, és könnyen beilleszthető más szoftverekbe. Ha a Monkey's Audio-t összehasonlítjuk az [ALAC](https://docs.fileformat.com/audio/alac/), a [FLAC](https://docs.fileformat.com/audio/flac/) vagy a WavPack-kel, viszonylag lassan kódolja vagy dekódolja a fájlokat.
+Az APE fájlformátumot szélesebb körben használják a Microsoft Windows felhasználók körében. Nagyon kitartó tömörítési arányt használ, és a másik nagyszerű dolog az, hogy a Monkey's Audio fájlokat mindig ki lehet tömöríteni a pontos, eredeti fájlokra. A Monkey's Audio kódoló ingyenesen elérhető, és könnyen beilleszthető más szoftverekbe. Ha a Monkey's Audio-t összehasonlítjuk az [ALAC](/audio/alac/), a [FLAC](/audio/flac/) vagy a WavPack-kel, viszonylag lassan kódolja vagy dekódolja a fájlokat.
 
 ## Hivatkozások
 

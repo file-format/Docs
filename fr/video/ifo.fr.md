@@ -26,7 +26,7 @@ Les fichiers IFO sont enregistrés avec l'extension **.ifo**.
 
 Les fichiers IFO sont enregistrés sous forme de fichiers texte et peuvent être ouverts avec n'importe quel éditeur de texte tel que Microsoft Notepad ++, Notepad et Apple TextEdit. Les en-têtes du fichier IFO indiquent aux lecteurs de DVD l'écran de démarrage, l'emplacement de chaque piste vidéo sur le disque, l'emplacement des pistes audio et d'autres informations connexes.
 
-Les fichiers IFO peuvent être endommagés si le DVD est rayé. C'est pourquoi un fichier BUP est créé en tant que sauvegarde du fichier IFO. Si le fichier IFO ne peut pas être lu, le fichier BUP est lu à la place. Ces fichiers sont co-localisés avec le fichier [VOB](https://docs.fileformat.com/video/vob/) qui contient un index du contenu du disque.
+Les fichiers IFO peuvent être endommagés si le DVD est rayé. C'est pourquoi un fichier BUP est créé en tant que sauvegarde du fichier IFO. Si le fichier IFO ne peut pas être lu, le fichier BUP est lu à la place. Ces fichiers sont co-localisés avec le fichier [VOB](/video/vob/) qui contient un index du contenu du disque.
 
 ## Références
 

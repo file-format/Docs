@@ -19,7 +19,7 @@
 
 ## Tệp DER là gì?
 
-Tệp DER là tệp chứng chỉ kỹ thuật số được tạo và lưu trữ ở định dạng nhị phân. Nó là mã hóa nhị phân cho chứng chỉ X.509 và khóa riêng. Trái ngược với các tệp PEM ([CRT](https://docs.fileformat.com/web/crt/), [CER](https://docs.fileformat.com/web/cer/)), các tệp DER không không chứa các câu lệnh văn bản thuần túy mà con người có thể đọc được, chẳng hạn như -----BEGIN CERTIFICATE-----. Chúng chủ yếu được sử dụng trong ngữ cảnh của Java.
+Tệp DER là tệp chứng chỉ kỹ thuật số được tạo và lưu trữ ở định dạng nhị phân. Nó là mã hóa nhị phân cho chứng chỉ X.509 và khóa riêng. Trái ngược với các tệp PEM ([CRT](/web/crt/), [CER](/web/cer/)), các tệp DER không không chứa các câu lệnh văn bản thuần túy mà con người có thể đọc được, chẳng hạn như -----BEGIN CERTIFICATE-----. Chúng chủ yếu được sử dụng trong ngữ cảnh của Java.
 
 ## Định dạng tệp DER - Thông tin khác
 

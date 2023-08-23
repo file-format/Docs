@@ -40,9 +40,9 @@ DV format was popular in past, newer video formats like MP4 and MOV have become 
 
 If you have DV file and want to convert it to different format, you can use video conversion software to convert it to more widely supported format e.g
 
-- [MP4](https://docs.fileformat.com/video/mp4/)
-- [AVI](https://docs.fileformat.com/video/avi/)
-- [MOV](https://docs.fileformat.com/video/mov/)
+- [MP4](/video/mp4/)
+- [AVI](/video/avi/)
+- [MOV](/video/mov/)
 
 Some softwares that can be helpful in this regard are 
 

@@ -26,7 +26,7 @@ Az M4A formátumot a FairPlay Digital Rights Management titkosítja, mivel az iT
 
 ## M4A vs MP3
 
-Mind az M4A, mind az [MP3](https://docs.fileformat.com/audio/mp3/) csak hangfájlformátum.
+Mind az M4A, mind az [MP3](/audio/mp3/) csak hangfájlformátum.
 
 **M4A**: Minőségben és méretben jobb, mint az MP3, azonos bitsebességgel kódolva. Az .m4a fájlkiterjesztés annyira elterjedt, mert az Apple az iTunes Music Store-ban való használatra használta őket. Az M4A egy MPEG-4 technológiával tömörített hangfájl; egy algoritmus a veszteséges tömörítéshez. Alapvetően az „MPEG-4 Audio Layer”-hez kapcsolódik, az .m4a kiterjesztésű fájlok az MPEG-4 filmek hangrétegét jelentik. Célja, hogy megelőzze az MP3-at, és a hangtömörítés új szabványává váljon. Sok szempontból nagyon közel áll az MP3-hoz, de azért vezették be, hogy jobb minőségű legyen azonos vagy még kisebb fájlméretben. Az M4A formátumot először az Apple vezette be. A formátumtípus Apple veszteségmentes kódolóként (ALE) is megvalósul.
 

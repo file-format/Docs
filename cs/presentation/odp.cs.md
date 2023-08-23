@@ -33,7 +33,7 @@ Při přechodu z verzí ODF 1.0 na 1.1 došlo k poměrně malým změnám. [Verz
 
 ## Specifikace formátu souboru
 
-Formát OpenDocument podporuje reprezentaci dokumentu jako jeden dokument XML a také kolekci několika dílčích dokumentů v rámci balíčku jako archiv [ZIP](https://docs.fileformat.com/compression/zip/). Každý ze souborů z archivu ZIP ukládá část kompletního dokumentu. Každý vnořený dokument ukládá určitý aspekt dokumentu. Například jeden vnořený dokument obsahuje informace o stylu a jiný vnořený dokument obsahuje obsah dokumentu. Typický dokument ODF má následující součásti:
+Formát OpenDocument podporuje reprezentaci dokumentu jako jeden dokument XML a také kolekci několika dílčích dokumentů v rámci balíčku jako archiv [ZIP](/compression/zip/). Každý ze souborů z archivu ZIP ukládá část kompletního dokumentu. Každý vnořený dokument ukládá určitý aspekt dokumentu. Například jeden vnořený dokument obsahuje informace o stylu a jiný vnořený dokument obsahuje obsah dokumentu. Typický dokument ODF má následující součásti:
 
 * `content.xml` – Obsah dokumentu a automatické styly použité v obsahu.
 * `styles.xml` – Styly použité v obsahu dokumentu a automatické styly použité v samotných stylech.

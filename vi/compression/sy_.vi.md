@@ -31,7 +31,7 @@ expand /i <source> [<destination>]
 expand /d <source>.cab [/f:<files>]
 expand <source>.cab /f:<files> <destination>
 ```
-Khi được mở rộng, các tệp SY_ được chuyển đổi thành tệp [SYS](https://docs.fileformat.com/system/sys/).
+Khi được mở rộng, các tệp SY_ được chuyển đổi thành tệp [SYS](/system/sys/).
 
 Tệp SY_ tương tự như tệp EX_ và DL_.
 

@@ -26,7 +26,7 @@ File IFO disimpan dengan ekstensi **.ifo**.
 
 File IFO disimpan sebagai file teks dan dapat dibuka dengan editor teks apa pun seperti Microsoft Notepad++, Notepad, dan Apple TextEdit. Header di file IFO memberi tahu pemutar DVD tentang layar awal, lokasi setiap trek video pada disk, lokasi trek audio, dan informasi terkait lainnya.
 
-File IFO dapat rusak jika DVD tergores. Itulah mengapa file BUP dibuat sebagai cadangan file IFO. Jika file IFO tidak dapat dibaca, file BUP akan dibaca. File-file ini ditempatkan bersama di samping file [VOB](https://docs.fileformat.com/video/vob/) yang berisi indeks konten pada disk.
+File IFO dapat rusak jika DVD tergores. Itulah mengapa file BUP dibuat sebagai cadangan file IFO. Jika file IFO tidak dapat dibaca, file BUP akan dibaca. File-file ini ditempatkan bersama di samping file [VOB](/video/vob/) yang berisi indeks konten pada disk.
 
 ## Referensi
 

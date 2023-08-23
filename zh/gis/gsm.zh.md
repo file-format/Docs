@@ -23,7 +23,7 @@ GSM 文件是使用 MapViewer 软件创建的项目文件，用于空间分析�
 
 ## 全球通文件格式
 
-GSM 文件以二进制文件格式保存，其内部文件结构细节不公开供开发者参考。 MapViewer 软件附带示例 GSM 文件和一些用于创建更多 GSM 文件的 [DAT](https://docs.fileformat.com/database/dat/) 文件。
+GSM 文件以二进制文件格式保存，其内部文件结构细节不公开供开发者参考。 MapViewer 软件附带示例 GSM 文件和一些用于创建更多 GSM 文件的 [DAT](/database/dat/) 文件。
 
 ### 关于 MapViewer
 

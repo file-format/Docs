@@ -19,7 +19,7 @@
 
 ## Mi az a DER fájl?
 
-A DER fájl egy digitális tanúsítványfájl, amelyet bináris formátumban hoznak létre és tárolnak. Ez az X.509 tanúsítványok és privát kulcsok bináris kódolása. A PEM-fájlokkal ([CRT](https://docs.fileformat.com/web/crt/), [CER](https://docs.fileformat.com/web/cer/)) ellentétben a DER-fájlok nem tartalmazhat ember által olvasható egyszerű szöveges kijelentéseket, például -----BEGIN CERTIFICATE-----. Leginkább a Java kontextusában használatosak.
+A DER fájl egy digitális tanúsítványfájl, amelyet bináris formátumban hoznak létre és tárolnak. Ez az X.509 tanúsítványok és privát kulcsok bináris kódolása. A PEM-fájlokkal ([CRT](/web/crt/), [CER](/web/cer/)) ellentétben a DER-fájlok nem tartalmazhat ember által olvasható egyszerű szöveges kijelentéseket, például -----BEGIN CERTIFICATE-----. Leginkább a Java kontextusában használatosak.
 
 ## DER fájlformátum - További információ
 

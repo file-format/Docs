@@ -33,7 +33,7 @@ Ci sono stati cambiamenti piuttosto minori nella transizione dalle versioni ODF 
 
 ## Specifiche del formato file
 
-Il formato OpenDocument supporta la rappresentazione del documento come un singolo documento XML, nonché una raccolta di diversi documenti secondari all'interno di un pacchetto come archivio [ZIP](https://docs.fileformat.com/compression/zip/). Ciascuno dei file dell'archivio ZIP memorizza parte del documento completo. Ogni documento secondario memorizza un aspetto particolare del documento. Ad esempio, un documento secondario contiene le informazioni sullo stile e un altro documento secondario contiene il contenuto del documento. Un tipico documento ODF ha i seguenti componenti:
+Il formato OpenDocument supporta la rappresentazione del documento come un singolo documento XML, nonché una raccolta di diversi documenti secondari all'interno di un pacchetto come archivio [ZIP](/compression/zip/). Ciascuno dei file dell'archivio ZIP memorizza parte del documento completo. Ogni documento secondario memorizza un aspetto particolare del documento. Ad esempio, un documento secondario contiene le informazioni sullo stile e un altro documento secondario contiene il contenuto del documento. Un tipico documento ODF ha i seguenti componenti:
 
 * `content.xml` – Contenuto del documento e stili automatici utilizzati nel contenuto.
 * `styles.xml` – Stili usati nel contenuto del documento e stili automatici usati negli stili stessi.

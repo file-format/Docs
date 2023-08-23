@@ -18,7 +18,7 @@
 
 ## Czym jest plik DISCO?
 
-Plik DISCO to format pliku Microsoft Discovery, który jest używany do publikowania i odkrywania usług sieci Web. Jest przechowywany w formacie pliku XML i umożliwia narzędziom Web Services Discovery zlokalizowanie lub wykrycie jednego lub kilku powiązanych dokumentów opisujących dostępne usługi [XML](/pl/web/xml/). Plik DISCO przechowuje informacje, takie jak dokumenty wykrywania, schematy [XSD](https://docs.fileformat.com/programming/xsd/) i opisy usług. Usługi sieci Web XML wykorzystują te informacje, aby uzyskać dostęp do usług sieci Web XML dostępnych pod danym adresem URL.
+Plik DISCO to format pliku Microsoft Discovery, który jest używany do publikowania i odkrywania usług sieci Web. Jest przechowywany w formacie pliku XML i umożliwia narzędziom Web Services Discovery zlokalizowanie lub wykrycie jednego lub kilku powiązanych dokumentów opisujących dostępne usługi [XML](/pl/web/xml/). Plik DISCO przechowuje informacje, takie jak dokumenty wykrywania, schematy [XSD](/programming/xsd/) i opisy usług. Usługi sieci Web XML wykorzystują te informacje, aby uzyskać dostęp do usług sieci Web XML dostępnych pod danym adresem URL.
 
 ## Format pliku DISCO — więcej informacji
 

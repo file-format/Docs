@@ -28,7 +28,7 @@ Soubory audioknih obsahující metadata, obrázky, záložky a hypertextové odk
 
 ## M4B vs M4A
 
-M4B i [MP3](https://docs.fileformat.com/audio/mp3/) jsou pouze zvukové formáty souborů.
+M4B i [MP3](/audio/mp3/) jsou pouze zvukové formáty souborů.
 
 **M4B**: Zvítězí ve srovnání s MP3, pokud jde o kvalitu, pokud oba kódujete při stejné přenosové rychlosti. M4B je soubor audioknihy, který je komprimován pomocí kódování AAC. V zásadě je spojena s „MPEG-4 Audio Layer“, soubory s příponou .m4b jsou zvukovou vrstvou filmů MPEG-4, ale s dalšími funkcemi souvisejícími s audioknihami. Jeho cílem je předběhnout MP3 a stát se novým standardem v kompresi zvuku. V mnoha ohledech je velmi blízký MP3, ale byl vyvinut tak, aby měl lepší kvalitu při stejné nebo dokonce menší velikosti souboru. Formát M4B byl poprvé představen společností Apple. Typ formátu je také realizován jako Apple Lossless Encoder (ALE).
 

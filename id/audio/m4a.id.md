@@ -26,7 +26,7 @@ Format M4A dienkripsi oleh FairPlay Digital Rights Management seperti yang dijua
 
 ## M4A vs MP3
 
-M4A dan [MP3](https://docs.fileformat.com/audio/mp3/) adalah format file audio saja.
+M4A dan [MP3](/audio/mp3/) adalah format file audio saja.
 
 **M4A**: Lebih baik dari MP3 dalam hal kualitas dan ukuran saat dikodekan pada kecepatan bit yang sama. Ekstensi file .m4a sangat umum karena telah digunakan oleh Apple untuk digunakan di iTunes Music Store. M4A adalah file audio yang dikompres menggunakan teknologi MPEG-4; algoritma untuk kompresi lossy. Ini pada dasarnya terkait dengan "Lapisan Audio MPEG-4", file dengan ekstensi .m4a adalah lapisan audio film MPEG-4. Ini dimaksudkan untuk menyalip MP3 dan menjadi standar baru dalam kompresi audio. Ini sangat mirip dengan MP3 dalam banyak hal tetapi diperkenalkan untuk memiliki kualitas yang lebih baik dalam ukuran file yang sama atau bahkan lebih kecil. Format M4A pertama kali diperkenalkan oleh Apple. Jenis format juga direalisasikan sebagai Apple lossless Encoder (ALE).
 

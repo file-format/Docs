@@ -31,7 +31,7 @@ expand /i <source> [<destination>]
 expand /d <source>.cab [/f:<files>]
 expand <source>.cab /f:<files> <destination>
 ```
-展開すると、SY_ ファイルは [SYS](https://docs.fileformat.com/system/sys/) ファイルに変換されます。
+展開すると、SY_ ファイルは [SYS](/system/sys/) ファイルに変換されます。
 
 SY_ ファイルは、EX_ および DL_ ファイルに似ています。
 

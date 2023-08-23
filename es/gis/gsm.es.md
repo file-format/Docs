@@ -23,7 +23,7 @@ Un archivo GSM es un archivo de proyecto creado con el software MapViewer que se
 
 ## Formato de archivo GSM
 
-Los archivos GSM se guardan en formato de archivo binario y los detalles de su estructura interna de archivos no están disponibles públicamente para referencia del desarrollador. El software MapViewer viene con archivos GSM de muestra y algunos archivos [DAT](https://docs.fileformat.com/database/dat/) que se utilizan para crear más archivos GSM.
+Los archivos GSM se guardan en formato de archivo binario y los detalles de su estructura interna de archivos no están disponibles públicamente para referencia del desarrollador. El software MapViewer viene con archivos GSM de muestra y algunos archivos [DAT](/database/dat/) que se utilizan para crear más archivos GSM.
 
 ### Acerca de MapViewer
 

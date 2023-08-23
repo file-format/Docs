@@ -31,7 +31,7 @@ expand /i <source> [<destination>]
 expand /d <source>.cab [/f:<files>]
 expand <source>.cab /f:<files> <destination>
 ```
-Une fois dépliés, les fichiers SY_ sont convertis en fichier [SYS](https://docs.fileformat.com/system/sys/).
+Une fois dépliés, les fichiers SY_ sont convertis en fichier [SYS](/system/sys/).
 
 Les fichiers SY_ sont similaires aux fichiers EX_ et DL_.
 

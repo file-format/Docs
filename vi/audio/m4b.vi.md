@@ -28,7 +28,7 @@ Các tệp sách nói chứa siêu dữ liệu, hình ảnh, dấu trang và si�
 
 ## M4B so với M4A
 
-Cả M4B và [MP3](https://docs.fileformat.com/audio/mp3/) đều là định dạng tệp chỉ có âm thanh.
+Cả M4B và [MP3](/audio/mp3/) đều là định dạng tệp chỉ có âm thanh.
 
 **M4B**: Thắng khi so sánh với MP3 về chất lượng nếu mã hóa cả hai ở cùng tốc độ bit. M4B là một tệp sách nói được nén bằng mã hóa AAC. Về cơ bản, nó được liên kết với “Lớp âm thanh MPEG-4”, các tệp có phần mở rộng .m4b là lớp âm thanh của phim MPEG-4 nhưng có thêm các tính năng liên quan đến sách nói. Mục tiêu của nó là vượt qua MP3 và trở thành tiêu chuẩn mới trong nén âm thanh. Nó rất gần với MP3 theo nhiều cách nhưng được phát triển để có chất lượng tốt hơn với cùng kích thước tệp hoặc thậm chí nhỏ hơn. Định dạng M4B lần đầu tiên được giới thiệu bởi Apple. Loại định dạng cũng được nhận ra là Bộ mã hóa không mất dữ liệu của Apple (ALE).
 

@@ -19,7 +19,7 @@
 
 ## Was ist eine DER-Datei?
 
-Eine DER-Datei ist eine digitale Zertifikatsdatei, die im Binärformat erstellt und gespeichert wird. Es ist eine binäre Kodierung für die X.509-Zertifikate und privaten Schlüssel. Im Gegensatz zu PEM-Dateien ([CRT](https://docs.fileformat.com/web/crt/), [CER](https://docs.fileformat.com/web/cer/)) tun dies DER-Dateien keine menschenlesbaren Klartextanweisungen wie -----BEGIN CERTIFICATE----- enthalten. Sie werden hauptsächlich im Zusammenhang mit Java verwendet.
+Eine DER-Datei ist eine digitale Zertifikatsdatei, die im Binärformat erstellt und gespeichert wird. Es ist eine binäre Kodierung für die X.509-Zertifikate und privaten Schlüssel. Im Gegensatz zu PEM-Dateien ([CRT](/web/crt/), [CER](/web/cer/)) tun dies DER-Dateien keine menschenlesbaren Klartextanweisungen wie -----BEGIN CERTIFICATE----- enthalten. Sie werden hauptsächlich im Zusammenhang mit Java verwendet.
 
 ## DER-Dateiformat – Weitere Informationen
 

@@ -28,7 +28,7 @@ File buku audio yang berisi metadata, gambar, bookmark, dan hyperlink dapat disi
 
 ## M4B vs M4A
 
-M4B dan [MP3](https://docs.fileformat.com/audio/mp3/) adalah format file audio saja.
+M4B dan [MP3](/audio/mp3/) adalah format file audio saja.
 
 **M4B**: Menang jika dibandingkan dengan MP3 dalam hal kualitas jika menyandikan keduanya pada kecepatan bit yang sama. M4B adalah file buku audio yang dikompres menggunakan pengkodean AAC. Ini pada dasarnya terkait dengan "Lapisan Audio MPEG-4", file dengan ekstensi .m4b adalah lapisan audio dari film MPEG-4 tetapi dengan fitur terkait buku audio tambahan. Tujuannya adalah menyalip MP3 dan menjadi standar baru dalam kompresi audio. Ini sangat mirip dengan MP3 dalam banyak hal tetapi dikembangkan untuk memiliki kualitas yang lebih baik dalam ukuran file yang sama atau bahkan lebih kecil. Format M4B pertama kali diperkenalkan oleh Apple. Jenis format juga direalisasikan sebagai Apple lossless Encoder (ALE).
 

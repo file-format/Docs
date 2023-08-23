@@ -19,7 +19,7 @@
 
 ## Tệp QGZ là gì?
 
-Định dạng tệp **QGZ** là tệp lưu trữ nén chứa tệp [QGS](https://docs.fileformat.com/gis/qgs/) và tệp QGD. Trong khi đó, tệp QGD là cơ sở dữ liệu sqlite của dự án qgis bao gồm dữ liệu phụ trợ cho dự án. Nếu không có dữ liệu phụ, tệp QGD sẽ vẫn trống.
+Định dạng tệp **QGZ** là tệp lưu trữ nén chứa tệp [QGS](/gis/qgs/) và tệp QGD. Trong khi đó, tệp QGD là cơ sở dữ liệu sqlite của dự án qgis bao gồm dữ liệu phụ trợ cho dự án. Nếu không có dữ liệu phụ, tệp QGD sẽ vẫn trống.
 
 ## Chi tiết về định dạng tệp QGZ
 

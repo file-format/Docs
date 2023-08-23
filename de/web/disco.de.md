@@ -18,7 +18,7 @@
 
 ## Was ist eine DISCO-Datei?
 
-Eine DISCO-Datei ist ein Microsoft Discovery-Dateiformat, das zum Veröffentlichen und Entdecken von Webdiensten verwendet wird. Es wird im XML-Dateiformat gespeichert und ermöglicht es den Web Services Discovery-Tools, ein oder mehrere zugehörige Dokumente zur Beschreibung der verfügbaren [XML](/de/web/xml/)-Services zu lokalisieren oder zu entdecken. Die DISCO-Datei speichert Informationen wie Erkennungsdokumente, [XSD](https://docs.fileformat.com/programming/xsd/)-Schemas und Dienstbeschreibungen. XML-Webdienste verwenden diese Informationen, um zu den verfügbaren XML-Webdiensten unter einer bestimmten URL zu gelangen.
+Eine DISCO-Datei ist ein Microsoft Discovery-Dateiformat, das zum Veröffentlichen und Entdecken von Webdiensten verwendet wird. Es wird im XML-Dateiformat gespeichert und ermöglicht es den Web Services Discovery-Tools, ein oder mehrere zugehörige Dokumente zur Beschreibung der verfügbaren [XML](/de/web/xml/)-Services zu lokalisieren oder zu entdecken. Die DISCO-Datei speichert Informationen wie Erkennungsdokumente, [XSD](/programming/xsd/)-Schemas und Dienstbeschreibungen. XML-Webdienste verwenden diese Informationen, um zu den verfügbaren XML-Webdiensten unter einer bestimmten URL zu gelangen.
 
 ## DISCO-Dateiformat - Weitere Informationen
 

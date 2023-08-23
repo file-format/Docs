@@ -18,7 +18,7 @@
 
 ## O que é um arquivo DISCO?
 
-Um arquivo DISCO é um formato de arquivo do Microsoft Discovery usado para publicação e descoberta de Web Services. Ele é armazenado no formato de arquivo XML e permite que as ferramentas Web Services Discovery localizem ou descubram um ou mais documentos relacionados para descrever os serviços [XML](/pt/web/xml/) disponíveis. O arquivo DISCO armazena informações como documentos de descoberta, esquemas [XSD](https://docs.fileformat.com/programming/xsd/) e descrições de serviço. Os serviços da Web XML usam essas informações para acessar os serviços Web XML disponíveis em uma determinada URL.
+Um arquivo DISCO é um formato de arquivo do Microsoft Discovery usado para publicação e descoberta de Web Services. Ele é armazenado no formato de arquivo XML e permite que as ferramentas Web Services Discovery localizem ou descubram um ou mais documentos relacionados para descrever os serviços [XML](/pt/web/xml/) disponíveis. O arquivo DISCO armazena informações como documentos de descoberta, esquemas [XSD](/programming/xsd/) e descrições de serviço. Os serviços da Web XML usam essas informações para acessar os serviços Web XML disponíveis em uma determinada URL.
 
 ## Formato de arquivo DISCO - Mais informações
 

@@ -31,7 +31,7 @@ expand /i <source> [<destination>]
 expand /d <source>.cab [/f:<files>]
 expand <source>.cab /f:<files> <destination>
 ```
-בהרחבה, קובצי SY_ מומרים לקובץ [SYS](https://docs.fileformat.com/system/sys/).
+בהרחבה, קובצי SY_ מומרים לקובץ [SYS](/system/sys/).
 
 קבצי SY_ דומים לקבצי EX_ ו-DL_.
 

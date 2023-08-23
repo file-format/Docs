@@ -26,7 +26,7 @@ M4A-formatet är krypterat av FairPlay Digital Rights Management som såldes via
 
 ## M4A vs MP3
 
-Både M4A och [MP3](https://docs.fileformat.com/audio/mp3/) är filformat endast för ljud.
+Både M4A och [MP3](/audio/mp3/) är filformat endast för ljud.
 
 **M4A**: Bättre än MP3 vad gäller kvalitet och storlekar när den kodas med samma bithastighet. Filtillägget .m4a är så vanligt eftersom de har använts av Apple för användning i iTunes Music Store. M4A är en ljudfil som är komprimerad med MPEG-4-teknik; en algoritm för komprimering med förlust. Det är i princip associerat med "MPEG-4 Audio Layer", filer med .m4a-tillägget är ljudlagret för MPEG-4-filmer. Det är tänkt att gå om MP3 och bli den nya standarden inom ljudkomprimering. Det är mycket nära MP3 på många sätt men introducerat för att ha en bättre kvalitet i samma eller ännu mindre filstorlek. M4A-formatet introducerades först av Apple. Formattypen realiseras också som Apple Lossless Encoder (ALE).
 

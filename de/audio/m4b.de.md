@@ -26,7 +26,7 @@ Die Hörbuchdateien, die Metadaten, Bilder, Lesezeichen und Hyperlinks enthalten
 
 ## M4B gegen M4A
 
-Sowohl M4B als auch [MP3](https://docs.fileformat.com/audio/mp3/) sind reine Audiodateiformate.
+Sowohl M4B als auch [MP3](/audio/mp3/) sind reine Audiodateiformate.
 
 **M4B**: Siegt im Vergleich zu MP3 qualitativ, wenn beide mit der gleichen Bitrate kodiert werden. M4B ist eine Hörbuchdatei, die mit AAC-Codierung komprimiert wird. Es ist im Grunde mit „MPEG-4 Audio Layer“ verbunden, Dateien mit der Erweiterung .m4b sind die Audioschicht von MPEG-4-Filmen, aber mit zusätzlichen Hörbuch-bezogenen Funktionen. Sein Ziel ist es, MP3 zu überholen und zum neuen Standard in der Audiokomprimierung zu werden. Es ist MP3 in vielerlei Hinsicht sehr ähnlich, wurde jedoch entwickelt, um eine bessere Qualität bei gleicher oder sogar kleinerer Dateigröße zu erzielen. Das M4B-Format wurde zuerst von Apple eingeführt. Der Formattyp wird auch als Apple Lossless Encoder (ALE) realisiert.
 

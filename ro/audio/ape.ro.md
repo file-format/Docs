@@ -21,7 +21,7 @@
 
 Fișierul APE este un fișier audio comprimat cu **Monkey's Audio**; un algoritm pentru compresia datelor audio fără pierderi. Spre deosebire de metodele de compresie cu pierderi, cum ar fi AAC, MP3, Vorbis și Opus, acest algoritm tipic nu elimină date în timpul procesului de codificare. Fișierele codificate în Monkey's Audio sunt de obicei reduse la aproximativ jumătate din dimensiunea lor originală. Aceste fișiere conțin detectarea erorilor și suport pentru etichete care salvează date despre fișierele audio.
 
-Formatul de fișier APE este utilizat mai pe scară largă în rândul utilizatorilor Microsoft Windows. Utilizează o rată de compresie extrem de insistentă, iar celălalt lucru grozav este că fișierele audio ale lui Monkey pot fi întotdeauna decomprimate la fișierele exacte, originale. Codificatorul audio al maimuței este disponibil gratuit și poate fi inclus cu ușurință în alte programe software. Dacă Audio lui Monkey este comparat cu [ALAC](https://docs.fileformat.com/audio/alac/), [FLAC](https://docs.fileformat.com/audio/flac/) sau WavPack, este relativ lent la codificarea sau decodarea fișierelor.
+Formatul de fișier APE este utilizat mai pe scară largă în rândul utilizatorilor Microsoft Windows. Utilizează o rată de compresie extrem de insistentă, iar celălalt lucru grozav este că fișierele audio ale lui Monkey pot fi întotdeauna decomprimate la fișierele exacte, originale. Codificatorul audio al maimuței este disponibil gratuit și poate fi inclus cu ușurință în alte programe software. Dacă Audio lui Monkey este comparat cu [ALAC](/audio/alac/), [FLAC](/audio/flac/) sau WavPack, este relativ lent la codificarea sau decodarea fișierelor.
 
 ## Referințe
 

@@ -26,7 +26,7 @@ Pliki IFO są zapisywane z rozszerzeniem **.ifo**.
 
 Pliki IFO są zapisywane jako pliki tekstowe i można je otwierać za pomocą dowolnego edytora tekstu, takiego jak Microsoft Notepad ++, Notatnik i Apple TextEdit. Nagłówki w pliku IFO informują odtwarzacze DVD o ekranie startowym, lokalizacji każdej ścieżki wideo na płycie, lokalizacji ścieżek audio i innych powiązanych informacjach.
 
-Pliki IFO mogą ulec uszkodzeniu, jeśli płyta DVD zostanie zarysowana. Dlatego plik BUP jest tworzony jako kopia zapasowa pliku IFO. W przypadku, gdy nie można odczytać pliku IFO, zamiast niego odczytywany jest plik BUP. Pliki te znajdują się obok pliku [VOB](https://docs.fileformat.com/video/vob/), który zawiera indeks zawartości dysku.
+Pliki IFO mogą ulec uszkodzeniu, jeśli płyta DVD zostanie zarysowana. Dlatego plik BUP jest tworzony jako kopia zapasowa pliku IFO. W przypadku, gdy nie można odczytać pliku IFO, zamiast niego odczytywany jest plik BUP. Pliki te znajdują się obok pliku [VOB](/video/vob/), który zawiera indeks zawartości dysku.
 
 ## Bibliografia
 

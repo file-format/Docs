@@ -23,7 +23,7 @@ Das **M4A-Dateiformat** ist eine Audiodatei, die mit AAC (Advanced Audio Coding)
 
 ## M4A gegen MP3
 
-Sowohl M4A als auch [MP3](https://docs.fileformat.com/audio/mp3/) sind reine Audiodateiformate.
+Sowohl M4A als auch [MP3](/audio/mp3/) sind reine Audiodateiformate.
 
 **M4A**: Besser als MP3 in Bezug auf Qualität und Größe, wenn es mit der gleichen Bitrate codiert wird. Die Dateierweiterung .m4a ist so verbreitet, weil sie von Apple für die Verwendung im iTunes Music Store verwendet wurde. M4A ist eine Audiodatei, die mit der MPEG-4-Technologie komprimiert wurde; ein Algorithmus für verlustbehaftete Komprimierung. Es ist im Grunde mit „MPEG-4 Audio Layer“ verbunden, Dateien mit der Erweiterung .m4a sind die Audioschicht von MPEG-4-Filmen. Es soll MP3 überholen und zum neuen Standard in der Audiokomprimierung werden. Es ist MP3 in vielerlei Hinsicht sehr ähnlich, wurde jedoch eingeführt, um eine bessere Qualität bei gleicher oder sogar kleinerer Dateigröße zu erzielen. Das M4A-Format wurde zuerst von Apple eingeführt. Der Formattyp wird auch als Apple Lossless Encoder (ALE) realisiert.
 

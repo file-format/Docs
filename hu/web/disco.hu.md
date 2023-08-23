@@ -18,7 +18,7 @@
 
 ## Mi az a DISCO fájl?
 
-A DISCO-fájl egy Microsoft Discovery-fájlformátum, amelyet a webszolgáltatások közzétételére és felfedezésére használnak. XML fájlformátumban van tárolva, és lehetővé teszi a Web Services Discovery eszközök számára, hogy megtaláljanak vagy felfedezzenek egy vagy több kapcsolódó dokumentumot az elérhető [XML](/hu/web/xml/) szolgáltatások leírásához. A DISCO fájl információkat tárol, például felfedezési dokumentumokat, [XSD](https://docs.fileformat.com/programming/xsd/) sémákat és szolgáltatásleírásokat. Az XML webszolgáltatások ezt az információt arra használják, hogy elérjék az elérhető XML webszolgáltatásokat egy adott URL-címen.
+A DISCO-fájl egy Microsoft Discovery-fájlformátum, amelyet a webszolgáltatások közzétételére és felfedezésére használnak. XML fájlformátumban van tárolva, és lehetővé teszi a Web Services Discovery eszközök számára, hogy megtaláljanak vagy felfedezzenek egy vagy több kapcsolódó dokumentumot az elérhető [XML](/hu/web/xml/) szolgáltatások leírásához. A DISCO fájl információkat tárol, például felfedezési dokumentumokat, [XSD](/programming/xsd/) sémákat és szolgáltatásleírásokat. Az XML webszolgáltatások ezt az információt arra használják, hogy elérjék az elérhető XML webszolgáltatásokat egy adott URL-címen.
 
 ## DISCO fájlformátum - További információ
 

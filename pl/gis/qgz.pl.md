@@ -19,7 +19,7 @@
 
 ## Czym jest plik QGZ?
 
-Format pliku **QGZ** to skompresowane archiwum zawierające plik [QGS](https://docs.fileformat.com/gis/qgs/) i plik QGD. Natomiast plik QGD jest bazą danych sqlite projektu qgis, która składa się z danych pomocniczych dla projektu. W przypadku braku danych pomocniczych plik QGD pozostanie pusty.
+Format pliku **QGZ** to skompresowane archiwum zawierające plik [QGS](/gis/qgs/) i plik QGD. Natomiast plik QGD jest bazą danych sqlite projektu qgis, która składa się z danych pomocniczych dla projektu. W przypadku braku danych pomocniczych plik QGD pozostanie pusty.
 
 ## Szczegółowe informacje o formacie pliku QGZ
 

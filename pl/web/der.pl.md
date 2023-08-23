@@ -19,7 +19,7 @@
 
 ## Czym jest plik DER?
 
-Plik DER to cyfrowy plik certyfikatu, który jest tworzony i przechowywany w formacie binarnym. Jest to binarne kodowanie certyfikatów X.509 i kluczy prywatnych. W przeciwieństwie do plików PEM ([CRT](https://docs.fileformat.com/web/crt/), [CER](https://docs.fileformat.com/web/cer/)), pliki DER nie mogą zawierać zrozumiałych dla człowieka oświadczeń w postaci zwykłego tekstu, takich jak -----BEGIN CERTIFICATE-----. Są one najczęściej używane w kontekście Javy.
+Plik DER to cyfrowy plik certyfikatu, który jest tworzony i przechowywany w formacie binarnym. Jest to binarne kodowanie certyfikatów X.509 i kluczy prywatnych. W przeciwieństwie do plików PEM ([CRT](/web/crt/), [CER](/web/cer/)), pliki DER nie mogą zawierać zrozumiałych dla człowieka oświadczeń w postaci zwykłego tekstu, takich jak -----BEGIN CERTIFICATE-----. Są one najczęściej używane w kontekście Javy.
 
 ## Format pliku DER — więcej informacji
 

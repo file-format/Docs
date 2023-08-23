@@ -26,7 +26,7 @@ Az IFO-fájlok **.ifo** kiterjesztéssel kerülnek mentésre.
 
 Az IFO-fájlok szövegfájlként kerülnek mentésre, és bármilyen szövegszerkesztővel megnyithatók, például a Microsoft Notepad++, a Notepad és az Apple TextEdit segítségével. Az IFO fájl fejlécei tájékoztatják a DVD-lejátszókat a kezdőképernyőről, az egyes videosávok helyéről a lemezen, a hangsávok helyéről és egyéb kapcsolódó információkról.
 
-Az IFO fájlok megsérülhetnek, ha a DVD megkarcolódik. Ezért jön létre egy BUP-fájl az IFO-fájl biztonsági másolataként. Ha az IFO-fájl nem olvasható, akkor a BUP-fájl kerül beolvasásra. Ezek a fájlok a [VOB](https://docs.fileformat.com/video/vob/) fájl mellett találhatók, amely a lemez tartalmának indexét tartalmazza.
+Az IFO fájlok megsérülhetnek, ha a DVD megkarcolódik. Ezért jön létre egy BUP-fájl az IFO-fájl biztonsági másolataként. Ha az IFO-fájl nem olvasható, akkor a BUP-fájl kerül beolvasásra. Ezek a fájlok a [VOB](/video/vob/) fájl mellett találhatók, amely a lemez tartalmának indexét tartalmazza.
 
 ## Hivatkozások
 

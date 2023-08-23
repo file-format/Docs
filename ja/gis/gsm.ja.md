@@ -24,7 +24,7 @@ A GSM file is a project file created with MapViewer software that is used for sp
 
 ## GSM File Format
 
-GSM files are saved in binary file format and its internal file structure details are not available publicly for developer's reference. MapViewer software comes with sample GSM files and some [DAT](https://docs.fileformat.com/database/dat/) files that are used to create further GSM files.
+GSM files are saved in binary file format and its internal file structure details are not available publicly for developer's reference. MapViewer software comes with sample GSM files and some [DAT](/database/dat/) files that are used to create further GSM files.
 
 
 ### About MapViewer

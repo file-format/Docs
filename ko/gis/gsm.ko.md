@@ -23,7 +23,7 @@ GSM 파일은 공간 분석 및 지리적 지도 생성에 사용되는 MapViewe
 
 ## GSM 파일 형식
 
-GSM 파일은 바이너리 파일 형식으로 저장되며 내부 파일 구조 세부 정보는 개발자 참조용으로 공개적으로 사용할 수 없습니다. MapViewer 소프트웨어는 추가 GSM 파일을 만드는 데 사용되는 샘플 GSM 파일 및 일부 [DAT](https://docs.fileformat.com/database/dat/) 파일과 함께 제공됩니다.
+GSM 파일은 바이너리 파일 형식으로 저장되며 내부 파일 구조 세부 정보는 개발자 참조용으로 공개적으로 사용할 수 없습니다. MapViewer 소프트웨어는 추가 GSM 파일을 만드는 데 사용되는 샘플 GSM 파일 및 일부 [DAT](/database/dat/) 파일과 함께 제공됩니다.
 
 ### MapViewer 정보
 

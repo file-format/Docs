@@ -18,7 +18,7 @@
 
 ## 什么是 .DISCO 文件？
 
-DISCO 文件是一种 Microsoft Discovery 文件格式，用于发布和发现 Web 服务。它以 XML 文件格式存储，并允许 Web 服务发现工具定位或发现一个或多个相关文档，以描述可用的 [XML](/zh/web/xml/) 服务。 DISCO 文件存储诸如发现文档、[XSD](https://docs.fileformat.com/programming/xsd/) 架构和服务描述等信息。 XML Web services 使用此信息来访问给定 URL 处可用的 XML Web services。
+DISCO 文件是一种 Microsoft Discovery 文件格式，用于发布和发现 Web 服务。它以 XML 文件格式存储，并允许 Web 服务发现工具定位或发现一个或多个相关文档，以描述可用的 [XML](/zh/web/xml/) 服务。 DISCO 文件存储诸如发现文档、[XSD](/programming/xsd/) 架构和服务描述等信息。 XML Web services 使用此信息来访问给定 URL 处可用的 XML Web services。
 
 ## DISCO 文件格式 - 更多信息
 
