@@ -20,7 +20,7 @@
 
 ## What is a VSS file?
 
-VSS are stencil files created with Microsoft Visio 2007 and earlier. A relatively new file format is [VSSX](/image/vssx/) that was introduced with Microsoft Visio 2013. Stencil files provide drawing objects that can be included in a .VSD Visio drawing. Microsoft Visio itself is known for creating drawing elements such as collection of shapes, connectors, flowcharts, network layout, UML diagrams, software diagrams, database models, objects mapping and other similar information. It also has rich conversion features of Visio documents to other file formats such as PNG, BMP, PDF and others. Visio is available for both Windows and Mac OS.
+VSS are stencil files created with Microsoft Visio 2007 and earlier. A relatively new file format is [VSSX](/visio/vssx/) that was introduced with Microsoft Visio 2013. Stencil files provide drawing objects that can be included in a .VSD Visio drawing. Microsoft Visio itself is known for creating drawing elements such as collection of shapes, connectors, flowcharts, network layout, UML diagrams, software diagrams, database models, objects mapping and other similar information. It also has rich conversion features of Visio documents to other file formats such as PNG, BMP, PDF and others. Visio is available for both Windows and Mac OS.
 
 ## VSS File Format
 

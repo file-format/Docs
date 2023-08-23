@@ -20,7 +20,7 @@
 
 ## VSS dosyası nedir?
 
-VSS, Microsoft Visio 2007 ve önceki sürümleriyle oluşturulan kalıp dosyalarıdır. Nispeten yeni bir dosya biçimi, Microsoft Visio 2013 ile tanıtılan [VSSX](/tr/image/vssx/) biçimidir. Şablon dosyaları, bir .VSD Visio çizimine dahil edilebilecek çizim nesneleri sağlar. Microsoft Visio'nun kendisi, şekil koleksiyonu, bağlayıcılar, akış şemaları, ağ düzeni, UML diyagramları, yazılım diyagramları, veritabanı modelleri, nesne eşleme ve diğer benzer bilgiler gibi çizim öğeleri oluşturmasıyla bilinir. Ayrıca PNG, BMP, PDF ve diğerleri gibi diğer dosya biçimlerine Visio belgelerinin zengin dönüştürme özelliklerine sahiptir. Visio, hem Windows hem de Mac OS için kullanılabilir.
+VSS, Microsoft Visio 2007 ve önceki sürümleriyle oluşturulan kalıp dosyalarıdır. Nispeten yeni bir dosya biçimi, Microsoft Visio 2013 ile tanıtılan [VSSX](/tr/visio/vssx/) biçimidir. Şablon dosyaları, bir .VSD Visio çizimine dahil edilebilecek çizim nesneleri sağlar. Microsoft Visio'nun kendisi, şekil koleksiyonu, bağlayıcılar, akış şemaları, ağ düzeni, UML diyagramları, yazılım diyagramları, veritabanı modelleri, nesne eşleme ve diğer benzer bilgiler gibi çizim öğeleri oluşturmasıyla bilinir. Ayrıca PNG, BMP, PDF ve diğerleri gibi diğer dosya biçimlerine Visio belgelerinin zengin dönüştürme özelliklerine sahiptir. Visio, hem Windows hem de Mac OS için kullanılabilir.
 
 ## VSS Dosya Biçimi
 

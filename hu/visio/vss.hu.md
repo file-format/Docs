@@ -20,7 +20,7 @@
 
 ## Mi az a VSS fájl?
 
-A VSS a Microsoft Visio 2007 és korábbi verzióival létrehozott sablonfájlok. Egy viszonylag új fájlformátum a [VSSX](/hu/image/vssx/), amelyet a Microsoft Visio 2013-mal vezettek be. A sablonfájlok olyan rajzobjektumokat biztosítanak, amelyek belefoglalhatók a .VSD Visio rajzokba. Maga a Microsoft Visio olyan rajzelemek létrehozásáról ismert, mint például alakzatok gyűjteménye, csatlakozók, folyamatábrák, hálózati elrendezés, UML diagramok, szoftverdiagramok, adatbázismodellek, objektumleképezés és más hasonló információk. Gazdag átalakítási funkciókkal is rendelkezik a Visio dokumentumokból más fájlformátumokká, például PNG, BMP, PDF és mások. A Visio Windows és Mac OS rendszerre is elérhető.
+A VSS a Microsoft Visio 2007 és korábbi verzióival létrehozott sablonfájlok. Egy viszonylag új fájlformátum a [VSSX](/hu/visio/vssx/), amelyet a Microsoft Visio 2013-mal vezettek be. A sablonfájlok olyan rajzobjektumokat biztosítanak, amelyek belefoglalhatók a .VSD Visio rajzokba. Maga a Microsoft Visio olyan rajzelemek létrehozásáról ismert, mint például alakzatok gyűjteménye, csatlakozók, folyamatábrák, hálózati elrendezés, UML diagramok, szoftverdiagramok, adatbázismodellek, objektumleképezés és más hasonló információk. Gazdag átalakítási funkciókkal is rendelkezik a Visio dokumentumokból más fájlformátumokká, például PNG, BMP, PDF és mások. A Visio Windows és Mac OS rendszerre is elérhető.
 
 ## VSS fájl formátum
 

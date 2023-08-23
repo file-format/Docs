@@ -20,7 +20,7 @@
 
 ## Qu'est-ce qu'un fichier VSS ?
 
-VSS sont des fichiers de gabarit créés avec Microsoft Visio 2007 et versions antérieures. Un format de fichier relativement nouveau est [VSSX](/fr/image/vssx/) qui a été introduit avec Microsoft Visio 2013. Les fichiers Stencil fournissent des objets de dessin qui peuvent être inclus dans un dessin .VSD Visio. Microsoft Visio lui-même est connu pour la création d'éléments de dessin tels que la collection de formes, les connecteurs, les organigrammes, la disposition du réseau, les diagrammes UML, les diagrammes de logiciels, les modèles de base de données, le mappage d'objets et d'autres informations similaires. Il possède également de riches fonctionnalités de conversion de documents Visio vers d'autres formats de fichiers tels que PNG, BMP, PDF et autres. Visio est disponible pour Windows et Mac OS.
+VSS sont des fichiers de gabarit créés avec Microsoft Visio 2007 et versions antérieures. Un format de fichier relativement nouveau est [VSSX](/fr/visio/vssx/) qui a été introduit avec Microsoft Visio 2013. Les fichiers Stencil fournissent des objets de dessin qui peuvent être inclus dans un dessin .VSD Visio. Microsoft Visio lui-même est connu pour la création d'éléments de dessin tels que la collection de formes, les connecteurs, les organigrammes, la disposition du réseau, les diagrammes UML, les diagrammes de logiciels, les modèles de base de données, le mappage d'objets et d'autres informations similaires. Il possède également de riches fonctionnalités de conversion de documents Visio vers d'autres formats de fichiers tels que PNG, BMP, PDF et autres. Visio est disponible pour Windows et Mac OS.
 
 ## Format de fichier VSS
 

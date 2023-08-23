@@ -20,7 +20,7 @@
 
 ## O que é um arquivo VSS?
 
-VSS são arquivos de estêncil criados com o Microsoft Visio 2007 e versões anteriores. Um formato de arquivo relativamente novo é [VSSX](/pt/image/vssx/) que foi introduzido com o Microsoft Visio 2013. Os arquivos de estêncil fornecem objetos de desenho que podem ser incluídos em um desenho .VSD Visio. O próprio Microsoft Visio é conhecido por criar elementos de desenho, como coleção de formas, conectores, fluxogramas, layout de rede, diagramas UML, diagramas de software, modelos de banco de dados, mapeamento de objetos e outras informações semelhantes. Ele também possui recursos avançados de conversão de documentos do Visio para outros formatos de arquivo, como PNG, BMP, PDF e outros. O Visio está disponível para Windows e Mac OS.
+VSS são arquivos de estêncil criados com o Microsoft Visio 2007 e versões anteriores. Um formato de arquivo relativamente novo é [VSSX](/pt/visio/vssx/) que foi introduzido com o Microsoft Visio 2013. Os arquivos de estêncil fornecem objetos de desenho que podem ser incluídos em um desenho .VSD Visio. O próprio Microsoft Visio é conhecido por criar elementos de desenho, como coleção de formas, conectores, fluxogramas, layout de rede, diagramas UML, diagramas de software, modelos de banco de dados, mapeamento de objetos e outras informações semelhantes. Ele também possui recursos avançados de conversão de documentos do Visio para outros formatos de arquivo, como PNG, BMP, PDF e outros. O Visio está disponível para Windows e Mac OS.
 
 ## Formato de arquivo VSS
 

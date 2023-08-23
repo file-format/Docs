@@ -20,7 +20,7 @@
 
 ## Ce este un fișier VSS?
 
-VSS sunt fișiere stencil create cu Microsoft Visio 2007 și versiuni anterioare. Un format de fișier relativ nou este [VSSX](/ro/image/vssx/) care a fost introdus cu Microsoft Visio 2013. Fișierele stencil oferă obiecte de desen care pot fi incluse într-un desen .VSD Visio. Microsoft Visio însuși este cunoscut pentru crearea de elemente de desen, cum ar fi colecții de forme, conectori, diagrame de flux, aspect de rețea, diagrame UML, diagrame software, modele de baze de date, cartografiere a obiectelor și alte informații similare. De asemenea, are caracteristici bogate de conversie a documentelor Visio în alte formate de fișiere, cum ar fi PNG, BMP, PDF și altele. Visio este disponibil atât pentru Windows, cât și pentru Mac OS.
+VSS sunt fișiere stencil create cu Microsoft Visio 2007 și versiuni anterioare. Un format de fișier relativ nou este [VSSX](/ro/visio/vssx/) care a fost introdus cu Microsoft Visio 2013. Fișierele stencil oferă obiecte de desen care pot fi incluse într-un desen .VSD Visio. Microsoft Visio însuși este cunoscut pentru crearea de elemente de desen, cum ar fi colecții de forme, conectori, diagrame de flux, aspect de rețea, diagrame UML, diagrame software, modele de baze de date, cartografiere a obiectelor și alte informații similare. De asemenea, are caracteristici bogate de conversie a documentelor Visio în alte formate de fișiere, cum ar fi PNG, BMP, PDF și altele. Visio este disponibil atât pentru Windows, cât și pentru Mac OS.
 
 ## Format de fișier VSS
 
