@@ -49,7 +49,7 @@ Tek bir XML belgesi, kendi kök öğesi tarafından temsil edilir. Desteklenen b
 `<office:document-settings>` - Pencere boyutu veya yazıcı bilgileri gibi uygulamaya özel ayarlar.
 
 ### ODG Belgesi Meta Verileri ###
-OpenDocument, \ içindeki tüm meta veri öğelerini içerir.<office:meta> eleman. Bir belge hakkındaki bu genel bilgiler, belgenin başında yer alır ve uygulamalar, aynı öğelerin birden çok örneğini güncelleyebilir.
+OpenDocument, içindeki tüm meta veri öğelerini içerir. \<office:meta> eleman. Bir belge hakkındaki bu genel bilgiler, belgenin başında yer alır ve uygulamalar, aynı öğelerin birden çok örneğini güncelleyebilir.
 
 ### Gövde Öğesi ve Belge Türleri ###
 Belge gövdesi, belge tipi öğesini kullanarak belgede bulunan içeriğin türünü gösterir. Bu belge türleri şunlardır:
@@ -61,12 +61,12 @@ Belge gövdesi, belge tipi öğesini kullanarak belgede bulunan içeriğin tür�
 * görüntü belgeleri
 
 ### Uygulama ayarları ###
-Ofis uygulamalarının ayarları, belge yapılandırması veya belgenin görsel görünümü ile ilgili farklı ayarları temsil eder. Her kategori bir ` ile temsil edilir.<config:config-item-set> `. Bu tür ayar kategorilerinin örnekleri şunları içerir:
+Ofis uygulamalarının ayarları, belge yapılandırması veya belgenin görsel görünümü ile ilgili farklı ayarları temsil eder. Her kategori bir ile temsil edilir. `<config:config-item-set>`. Bu tür ayar kategorilerinin örnekleri şunları içerir:
 * Belge ayarları, örneğin varsayılan yazıcı
 * Görünüm Ayarları, örneğin yakınlaştırma seviyesi
 
 ### Kodlar ###
-Bir belgenin birkaç komut dosyası içermesi yaygın bir durumdur. Bir OpenDocument dosyasındaki her betik, bir ` ile temsil edilir.<office:script> ` öğesi. Bu komut dosyası öğeleri, tek bir ` içinde bulunur.<office:scripts> ` öğesi. Belge yüklenirken komut dosyaları belgeyi güncellemez.
+Bir belgenin birkaç komut dosyası içermesi yaygın bir durumdur. Bir OpenDocument dosyasındaki her betik, bir ile temsil edilir. `<office:script>` öğesi. Bu komut dosyası öğeleri, tek bir içinde bulunur. `<office:scripts>` öğesi. Belge yüklenirken komut dosyaları belgeyi güncellemez.
 ### Font Yüzü Bildirimleri ###
 
 Yazı tipi yüzü bildirimi, bir belgenin yazarı tarafından kullanılan yazı tipleri hakkında bilgi içerir. Bu bilgi, bu yazı tiplerini diğer sistemlerde bulmanıza yardımcı olur.

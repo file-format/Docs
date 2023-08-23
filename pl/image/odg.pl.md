@@ -66,7 +66,8 @@ Ustawienia aplikacji biurowych reprezentują różne ustawienia związane z konf
 * Wyświetl ustawienia, np. poziom powiększenia
 
 ### Skrypty ###
-Często zdarza się, że dokument zawiera kilka skryptów. Każdy skrypt w pliku OpenDocument jest reprezentowany przez `<office:script> element `. Te elementy skryptu są zawarte w pojedynczym pliku `<office:scripts> element `. Skrypty nie aktualizują dokumentu podczas jego ładowania.
+Często zdarza się, że dokument zawiera kilka skryptów. Każdy skrypt w pliku OpenDocument jest reprezentowany przez `<office:script>` element. Te elementy skryptu są zawarte w pojedynczym pliku `<office:scripts>` element. Skrypty nie aktualizują dokumentu podczas jego ładowania.
+
 ### Deklaracje kroju czcionki ###
 
 Deklaracja kroju czcionki zawiera informacje o czcionkach użytych przez autora dokumentu. Te informacje pomagają zlokalizować te czcionki w innych systemach.

@@ -61,12 +61,12 @@ A dokumentumtörzs a dokumentumtípus elem segítségével jelzi a dokumentumban
 * képes dokumentumok
 
 ### Alkalmazás beállítások ###
-Az irodai alkalmazások beállításai különböző beállításokat képviselnek, amelyek a dokumentum konfigurációjához vagy a dokumentum vizuális megjelenéséhez kapcsolódnak. Minden kategóriát egy ` jelöl<config:config-item-set> `. Példák az ilyen beállítási kategóriákra:
+Az irodai alkalmazások beállításai különböző beállításokat képviselnek, amelyek a dokumentum konfigurációjához vagy a dokumentum vizuális megjelenéséhez kapcsolódnak. Minden kategóriát egy  jelöl `<config:config-item-set>`. Példák az ilyen beállítási kategóriákra:
 * Dokumentumbeállítások pl. alapértelmezett nyomtató
 * Beállítások megtekintése pl. nagyítási szint
 
 ### Szkriptek ###
-Gyakori, hogy egy dokumentum több szkriptet is tartalmaz. Az OpenDocument fájlban minden szkriptet egy ` jelöl<office:script> ` elemet. Ezeket a szkriptelemeket egyetlen ` tartalmazza<office:scripts> ` elemet. A szkriptek nem frissítik a dokumentumot a dokumentum betöltése közben.
+Gyakori, hogy egy dokumentum több szkriptet is tartalmaz. Az OpenDocument fájlban minden szkriptet egy jelöl `<office:script>` elemet. Ezeket a szkriptelemeket egyetlen tartalmazza `<office:scripts>` elemet. A szkriptek nem frissítik a dokumentumot a dokumentum betöltése közben.
 ### Betűtípus-nyilatkozatok ###
 
 A betűtípus deklarációja információkat tartalmaz a dokumentum szerzője által használt betűtípusokról. Ez az információ segít megtalálni ezeket a betűtípusokat más rendszereken.
