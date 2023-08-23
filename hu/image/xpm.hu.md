@@ -19,7 +19,7 @@
 
 ## Mi az XPM fájl?
 
-Az .xpm kiterjesztésű fájl egy képfájlformátum, amelyet az X Windows System használt. Támogatja az átlátszó képpontokat, és általában az ikonok képponttérképeinek létrehozását célozza meg. Támogatja a monokróm, gra-scale és színes pixmap adatokat. Ezeket úgy tervezték, hogy kézzel szerkeszthetők legyenek, és a [C](/hu/programing/c/) kódba beépíthetők. Ebből a célból az XPM fájlok egyszerű szöveges fájlformátumúak, és a C programozási nyelv szintaxisát követik. Az XPM fájlok számos képnézegető alkalmazással megnyithatók, mint pl
+Az .xpm kiterjesztésű fájl egy képfájlformátum, amelyet az X Windows System használt. Támogatja az átlátszó képpontokat, és általában az ikonok képponttérképeinek létrehozását célozza meg. Támogatja a monokróm, gra-scale és színes pixmap adatokat. Ezeket úgy tervezték, hogy kézzel szerkeszthetők legyenek, és a [C](/hu/programming/c/) kódba beépíthetők. Ebből a célból az XPM fájlok egyszerű szöveges fájlformátumúak, és a C programozási nyelv szintaxisát követik. Az XPM fájlok számos képnézegető alkalmazással megnyithatók, mint pl
 CorelDRAW Graphics Suite 2020, Corel PaintShop Pro, IrfanView és Canvas X.
 
 ## XPM fájlformátum

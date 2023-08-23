@@ -151,7 +151,7 @@ A következő egy példa egy helpset fájlra az [Oracle Helpset dokumentációj�
 
 ## Mi az a HS fájl?
 
-A .hs kiterjesztésű fájl egy Haskell Script fájl, amely [Haskell](https://wiki.haskell.org/Haskell) fejlett, tisztán funkcionális nyílt forráskódú programozási nyelven íródott. A HS fájlba írt kód pusztán olyan függvényeken alapul, mint a [C](/hu/programing/c/), a [C++](/hu/programing/cpp/) és hasonlók, amelyek követik a robusztus és tömör szoftverek gyors fejlődésének alapelveit. A Haskell beépített párhuzamosságot és párhuzamosságot biztosít, valamint gazdag API-kat, profilozókat és hibakeresőket a rugalmas és kiváló minőségű alkalmazások előállításához.
+A .hs kiterjesztésű fájl egy Haskell Script fájl, amely [Haskell](https://wiki.haskell.org/Haskell) fejlett, tisztán funkcionális nyílt forráskódú programozási nyelven íródott. A HS fájlba írt kód pusztán olyan függvényeken alapul, mint a [C](/hu/programming/c/), a [C++](/hu/programming/cpp/) és hasonlók, amelyek követik a robusztus és tömör szoftverek gyors fejlődésének alapelveit. A Haskell beépített párhuzamosságot és párhuzamosságot biztosít, valamint gazdag API-kat, profilozókat és hibakeresőket a rugalmas és kiváló minőségű alkalmazások előállításához.
 
 ## HS fájlformátum
 

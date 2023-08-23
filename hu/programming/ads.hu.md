@@ -20,7 +20,7 @@
 
 ## Mi az ADS fájl?
 
-Az ADS fájl egy Ada programozási projekt specifikációs fájlja. Hasonló a Java osztályához, vagy a fejléc és a megvalósítás párjához C++ esetén. Az Ada csomag nyilvános és privát specifikációi az .ads fájlban tárolódnak. Ezzel szemben az .adb fájl tartalmazza a megvalósítást, vagyis az Ada törzseket. A [C++](/hu/programing/cpp/)-hez hasonlóan az Ada is az OOP-tól független elkülönítést kínál a specifikációk és a megvalósítások között.
+Az ADS fájl egy Ada programozási projekt specifikációs fájlja. Hasonló a Java osztályához, vagy a fejléc és a megvalósítás párjához C++ esetén. Az Ada csomag nyilvános és privát specifikációi az .ads fájlban tárolódnak. Ezzel szemben az .adb fájl tartalmazza a megvalósítást, vagyis az Ada törzseket. A [C++](/hu/programming/cpp/)-hez hasonlóan az Ada is az OOP-tól független elkülönítést kínál a specifikációk és a megvalósítások között.
 
 Az ADS fájlok bármely szövegszerkesztőben megnyithatók, például a Microsoft Notepad, Notepad++ és Atom segítségével.
 

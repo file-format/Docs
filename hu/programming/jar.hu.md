@@ -19,7 +19,7 @@
 
 ## Mi az a JAR fájl?
 
-A .jar kiterjesztésű fájl egy Java archív fájl, amely számos különböző alkalmazáshoz kapcsolódó fájlt tartalmaz egyetlen fájlként. Ezt a fájlformátumot azért hozták létre, hogy csökkentsék a letöltött Java kisalkalmazások böngészőbe történő betöltésének sebességét HTTP-tranzakción keresztül, elkerülve a több HTTP-kapcsolat létrehozását. Egyetlen JAR-fájl tartalmazhat Java osztályfájlokat ([.class](/hu/programing/class/)), [images](/hu/image/) és [hangokat](/hu/audio/). A JAR-fájlon belüli egyes elemeket az alkalmazás fejlesztője digitálisan aláírhatja eredetük hitelesítése érdekében. A JAR-fájlokat rendszeresen használják olyan funkcionális API-k létrehozására, amelyek az adott API-hoz kapcsolódó speciális funkciókat tartalmaznak.
+A .jar kiterjesztésű fájl egy Java archív fájl, amely számos különböző alkalmazáshoz kapcsolódó fájlt tartalmaz egyetlen fájlként. Ezt a fájlformátumot azért hozták létre, hogy csökkentsék a letöltött Java kisalkalmazások böngészőbe történő betöltésének sebességét HTTP-tranzakción keresztül, elkerülve a több HTTP-kapcsolat létrehozását. Egyetlen JAR-fájl tartalmazhat Java osztályfájlokat ([.class](/hu/programming/class/)), [images](/hu/image/) és [hangokat](/hu/audio/). A JAR-fájlon belüli egyes elemeket az alkalmazás fejlesztője digitálisan aláírhatja eredetük hitelesítése érdekében. A JAR-fájlokat rendszeresen használják olyan funkcionális API-k létrehozására, amelyek az adott API-hoz kapcsolódó speciális funkciókat tartalmaznak.
 
 ## JAR fájlformátum
 

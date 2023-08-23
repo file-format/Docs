@@ -20,7 +20,7 @@
 ## Mi az a PL fájl?
 
 A .pl kiterjesztésű fájl egy Perl Script fájl, amely egy szkriptnyelv. Ezeket a Perl Interpreter szoftverrel fordítják és futtatják. A PL szkriptfájl kódsorokat, változókat és megjegyzéseket tartalmaz. A szkriptnyelvek viszonylag nehezen használhatók
-megérteni más programozási fájlformátumokat, például [PHP](/hu/programing/php/). PL fájlok hozhatók létre, és kompatibilisek a Windows, a macOS és a Linux rendszerrel.
+megérteni más programozási fájlformátumokat, például [PHP](/hu/programming/php/). PL fájlok hozhatók létre, és kompatibilisek a Windows, a macOS és a Linux rendszerrel.
 
 ## A Perl szkriptnyelv rövid története
 

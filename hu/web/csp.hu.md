@@ -19,7 +19,7 @@
 
 ## Mi az a CSP fájl?
 
-A CSP-fájl egy dinamikus weboldal, amely a RadGs Concept Application Server-en futtatásra írt tartalmat tartalmaz. Szerver oldalon kerül lefordításra és végrehajtásra, majd HTTP protokollon keresztül kerül kiszolgálásra az igénylő felhasználó böngészőjének. A CON fájlformátumtól eltérően a CSP fájlok nem igénylik a Concept kliens telepítését a fájlok megtekintéséhez. A CSP-fájlokat a többi szerveroldali oldalhoz hasonlóan tekintheti meg, például [PHP](/hu/programing/php/) és [ASP](/hu/web/asp/).
+A CSP-fájl egy dinamikus weboldal, amely a RadGs Concept Application Server-en futtatásra írt tartalmat tartalmaz. Szerver oldalon kerül lefordításra és végrehajtásra, majd HTTP protokollon keresztül kerül kiszolgálásra az igénylő felhasználó böngészőjének. A CON fájlformátumtól eltérően a CSP fájlok nem igénylik a Concept kliens telepítését a fájlok megtekintéséhez. A CSP-fájlokat a többi szerveroldali oldalhoz hasonlóan tekintheti meg, például [PHP](/hu/programming/php/) és [ASP](/hu/web/asp/).
 
 ## Hivatkozások
 

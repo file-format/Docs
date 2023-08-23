@@ -21,7 +21,7 @@
 
 Az .r kiterjesztésű fájl az R programozási nyelvhez tartozik. Ez a nyelv statisztikai számításokhoz van megadva, és népszerű a statisztikusok közösségében. Az adatelemzés és a statisztikai szoftverek fejlesztése két fő kategória, amelyet ez a nyelv végez az adatbányászat területén. A nyelv és a szoftver használatának másik előnye, hogy lehetővé teszi a statikus gráfok készítését, amelyek segítenek minőségi grafikonok készítésében. Néhány további csomag a dinamikus és interaktív grafikához használatos.
 
-Az ezen nyelvű szoftver általános nyilvános licencet tartalmaz, így elérhetősége ingyenes. Az R kódját általában magas szintű nyelveken írják, például [C](/hu/programing/c/) és magát az R-t is. A szoftver magában foglal egy parancssori felületet, valamint harmadik féltől származó interfészek elérhetőségét, például az RStudio és a Jupyter grafikus felhasználói felületeit (notebook felület). Léteznek statisztikai technikák, amelyeket az R könyvtárainak megvalósítására használnak. Ez magában foglalja a lineáris és nemlineáris modellezést is.
+Az ezen nyelvű szoftver általános nyilvános licencet tartalmaz, így elérhetősége ingyenes. Az R kódját általában magas szintű nyelveken írják, például [C](/hu/programming/c/) és magát az R-t is. A szoftver magában foglal egy parancssori felületet, valamint harmadik féltől származó interfészek elérhetőségét, például az RStudio és a Jupyter grafikus felhasználói felületeit (notebook felület). Léteznek statisztikai technikák, amelyeket az R könyvtárainak megvalósítására használnak. Ez magában foglalja a lineáris és nemlineáris modellezést is.
 
 
 ## Rövid története ##
