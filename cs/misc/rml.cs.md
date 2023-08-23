@@ -19,7 +19,7 @@
 
 ## Co je soubor RML?
 
-Soubor RML je soubor šablony pro vytváření sestav s nástrojem pro vytváření sestav [Elixir Repertoire](https://elixirtech.com/repertoire-2/). Soubor šablony se používá ke generování zpráv se zdrojem dat připojeným k systému souborů Elixir. Data se čtou a naplňují v souboru šablony RML a lze je exportovat do řady různých formátů souborů, jako je [PDF](/cs/pdf/), [RTF](/cs/text-processing/rtf/) a tabulkový procesor [XLS](/cs/tabulka/xls/). Reportovací engine Elixir Repertoire lze připojit k široké škále zdrojů dat JDBC.
+Soubor RML je soubor šablony pro vytváření sestav s nástrojem pro vytváření sestav [Elixir Repertoire](https://elixirtech.com/repertoire-2/). Soubor šablony se používá ke generování zpráv se zdrojem dat připojeným k systému souborů Elixir. Data se čtou a naplňují v souboru šablony RML a lze je exportovat do řady různých formátů souborů, jako je [PDF](/cs/pdf/), [RTF](/cs/word-processing/rtf/) a tabulkový procesor [XLS](/cs/tabulka/xls/). Reportovací engine Elixir Repertoire lze připojit k široké škále zdrojů dat JDBC.
 
 ## Formát souboru RML
 

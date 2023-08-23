@@ -41,7 +41,7 @@ Az Apple PAGES dokumentumok többféle fájlformátumba konvertálhatók. Ezt me
 * Microsoft Word [DOC](/hu/word-processing/doc/) és [DOCX](/hu/word-processing/docx/)
 * [PDF](/hu/pdf/)
 * [EPUB](/hu/ebook/epub/)
-* [RTF](/hu/text-processing/rtf/)
+* [RTF](/hu/word-processing/rtf/)
 * [TXT](/hu/szövegszerkesztés/txt/)
 
 ## Hivatkozások
