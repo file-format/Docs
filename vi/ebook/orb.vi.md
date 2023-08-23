@@ -23,7 +23,7 @@
 
 ## Cấu trúc của tệp ORB ##
 
-Các tệp có phần mở rộng .orb thực sự được nén bằng nén Zip; chứa một hoặc nhiều tệp [SWF](/vi/video/swf/) (Tệp Macromedia Flash) để tạo Sách điện tử. Một câu hỏi có thể nảy sinh trong đầu bạn là làm cách nào để mở hoặc đọc định dạng tệp này? Câu trả lời là bạn có thể mở nó bằng Original Book Reader, còn được gọi là **ORB Reader**. Trình đọc ORB dường như đã ngừng hoạt động hoặc không còn khả dụng trên internet nhưng trước đây, nó đã có sẵn cho Microsoft Windows và macOS.
+Các tệp có phần mở rộng .orb thực sự được nén bằng nén Zip; chứa một hoặc nhiều tệp [SWF](/vi/page-description-language/swf/) (Tệp Macromedia Flash) để tạo Sách điện tử. Một câu hỏi có thể nảy sinh trong đầu bạn là làm cách nào để mở hoặc đọc định dạng tệp này? Câu trả lời là bạn có thể mở nó bằng Original Book Reader, còn được gọi là **ORB Reader**. Trình đọc ORB dường như đã ngừng hoạt động hoặc không còn khả dụng trên internet nhưng trước đây, nó đã có sẵn cho Microsoft Windows và macOS.
 
 ## Xem tệp ORB ##
 

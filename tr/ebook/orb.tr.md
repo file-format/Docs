@@ -23,7 +23,7 @@ ORB dosya biçimi, özellikle .orb uzantılı e-kitap dosyalarını okumak veya 
 
 ## ORB Dosyasının Yapısı ##
 
-.orb uzantılı dosyalar aslında Zip sıkıştırması ile sıkıştırılır; bir eKitap oluşturmak için bir veya daha fazla [SWF](/tr/video/swf/) (Macromedia Flash Dosyası) dosyası içeren. Bu dosya formatını nasıl açabiliriz veya okuyabiliriz diye bir soru gelebilir aklınıza? Yanıt, **ORB Reader** olarak da bilinen Orijinal Kitap Okuyucu ile açabileceğinizdir. ORB Reader artık üretilmiyor veya artık internet üzerinden mevcut değil gibi görünüyor, ancak geçmişte Microsoft Windows ve macOS için mevcuttu.
+.orb uzantılı dosyalar aslında Zip sıkıştırması ile sıkıştırılır; bir eKitap oluşturmak için bir veya daha fazla [SWF](/tr/page-description-language/swf/) (Macromedia Flash Dosyası) dosyası içeren. Bu dosya formatını nasıl açabiliriz veya okuyabiliriz diye bir soru gelebilir aklınıza? Yanıt, **ORB Reader** olarak da bilinen Orijinal Kitap Okuyucu ile açabileceğinizdir. ORB Reader artık üretilmiyor veya artık internet üzerinden mevcut değil gibi görünüyor, ancak geçmişte Microsoft Windows ve macOS için mevcuttu.
 
 ## Bir ORB dosyasını görüntüleyin ##
 

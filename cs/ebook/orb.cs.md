@@ -23,7 +23,7 @@ Formát souboru ORB patří k typu souboru ebooks, který lze číst pomocí ORB
 
 ## Struktura souboru ORB ##
 
-Soubory s příponou .orb jsou ve skutečnosti komprimovány komprimací Zip; obsahující jeden nebo více souborů [SWF](/cs/video/swf/) (soubor Macromedia Flash) pro vytvoření elektronické knihy. Možná vám napadne otázka, jak můžeme otevřít nebo přečíst tento formát souboru? Odpověď je, že ji můžete otevřít pomocí Original Book Reader, která je také známá jako **ORB Reader**. ORB Reader se zdá být ukončen nebo již není dostupný přes internet, ale v minulosti byl dostupný pro Microsoft Windows a macOS.
+Soubory s příponou .orb jsou ve skutečnosti komprimovány komprimací Zip; obsahující jeden nebo více souborů [SWF](/cs/page-description-language/swf/) (soubor Macromedia Flash) pro vytvoření elektronické knihy. Možná vám napadne otázka, jak můžeme otevřít nebo přečíst tento formát souboru? Odpověď je, že ji můžete otevřít pomocí Original Book Reader, která je také známá jako **ORB Reader**. ORB Reader se zdá být ukončen nebo již není dostupný přes internet, ale v minulosti byl dostupný pro Microsoft Windows a macOS.
 
 ## Zobrazit soubor ORB ##
 

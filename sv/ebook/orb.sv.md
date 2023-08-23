@@ -23,7 +23,7 @@ ORB-filformatet tillhör filtypen e-böcker som kan läsas med ORB Reader, en ga
 
 ## Struktur för ORB-fil ##
 
-Filerna med tillägget .orb komprimeras faktiskt med Zip-komprimering; som innehåller en eller flera [SWF](/sv/video/swf/) (Macromedia Flash File)-filer för att skapa en e-bok. En fråga kan väckas i ditt sinne om hur vi kan öppna eller läsa detta filformat? Svaret är att du kan öppna den med Original Book Reader, som även kallas **ORB Reader**. ORB Reader verkar ha upphört eller inte längre tillgänglig över internet men tidigare var den tillgänglig för Microsoft Windows och macOS.
+Filerna med tillägget .orb komprimeras faktiskt med Zip-komprimering; som innehåller en eller flera [SWF](/sv/page-description-language/swf/) (Macromedia Flash File)-filer för att skapa en e-bok. En fråga kan väckas i ditt sinne om hur vi kan öppna eller läsa detta filformat? Svaret är att du kan öppna den med Original Book Reader, som även kallas **ORB Reader**. ORB Reader verkar ha upphört eller inte längre tillgänglig över internet men tidigare var den tillgänglig för Microsoft Windows och macOS.
 
 ## Visa en ORB-fil ##
 

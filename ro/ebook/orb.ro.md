@@ -23,7 +23,7 @@ Formatul de fișier ORB aparține tipului de fișier ebooks care poate fi citit 
 
 ## Structura fișierului ORB ##
 
-Fișierele cu extensia .orb sunt de fapt comprimate cu compresie Zip; care conțin unul sau mai multe fișiere [SWF](/ro/video/swf/) (Fișier Macromedia Flash) pentru a alcătui o carte electronică. În mintea dvs. s-ar putea ridica o întrebare despre cum putem deschide sau citi acest format de fișier? Răspunsul este că îl puteți deschide cu Original Book Reader, care este cunoscut și sub numele de **ORB Reader**. Cititorul ORB pare să fie întrerupt sau să nu mai fie disponibil pe internet, dar în trecut, era disponibil pentru Microsoft Windows și macOS.
+Fișierele cu extensia .orb sunt de fapt comprimate cu compresie Zip; care conțin unul sau mai multe fișiere [SWF](/ro/page-description-language/swf/) (Fișier Macromedia Flash) pentru a alcătui o carte electronică. În mintea dvs. s-ar putea ridica o întrebare despre cum putem deschide sau citi acest format de fișier? Răspunsul este că îl puteți deschide cu Original Book Reader, care este cunoscut și sub numele de **ORB Reader**. Cititorul ORB pare să fie întrerupt sau să nu mai fie disponibil pe internet, dar în trecut, era disponibil pentru Microsoft Windows și macOS.
 
 ## Vizualizați un fișier ORB ##
 

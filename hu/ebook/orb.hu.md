@@ -23,7 +23,7 @@ Az ORB fájlformátum az ebooks fájltípushoz tartozik, amely az ORB Reader seg
 
 ## A ## ORB fájl szerkezete
 
-Az .orb kiterjesztésű fájlok valójában Zip tömörítéssel vannak tömörítve; amely egy vagy több [SWF](/hu/video/swf/) (Macromedia Flash File) fájlt tartalmaz egy e-könyv létrehozásához. Felmerülhet a kérdés, hogy hogyan tudjuk megnyitni vagy olvasni ezt a fájlformátumot? A válasz az, hogy megnyithatja az Original Book Reader programmal, amely **ORB Reader** néven is ismert. Úgy tűnik, hogy az ORB Reader megszűnt, vagy már nem elérhető az interneten, de korábban elérhető volt Microsoft Windows és macOS számára.
+Az .orb kiterjesztésű fájlok valójában Zip tömörítéssel vannak tömörítve; amely egy vagy több [SWF](/hu/page-description-language/swf/) (Macromedia Flash File) fájlt tartalmaz egy e-könyv létrehozásához. Felmerülhet a kérdés, hogy hogyan tudjuk megnyitni vagy olvasni ezt a fájlformátumot? A válasz az, hogy megnyithatja az Original Book Reader programmal, amely **ORB Reader** néven is ismert. Úgy tűnik, hogy az ORB Reader megszűnt, vagy már nem elérhető az interneten, de korábban elérhető volt Microsoft Windows és macOS számára.
 
 ## ORB fájl megtekintése ##
 
