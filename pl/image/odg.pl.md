@@ -19,7 +19,7 @@
 
 ## Czym jest plik ODG?
 
-Format pliku ODG jest używany przez aplikację Draw Apache OpenOffice do przechowywania elementów rysunku jako obrazu wektorowego. Jest zgodny ze specyfikacjami formatu plików opartymi na XML określonymi przez Advancement of Structural Information Standards (OASIS). ODG przedstawia rysunki jako obrazy wektorowe za pomocą punktów, linii i krzywych. Oprócz OpenOffice, LibreOffice i inne aplikacje obsługują również pracę z formatem plików ODG. Inne formaty obsługiwane przez OpenOffice to na przykład [ODT](/pl/przetwarzanie tekstu/odt/), ODF, [ODP](/pl/presentation/odp/) i [ODS](/pl/spreadsheet/ods/).
+Format pliku ODG jest używany przez aplikację Draw Apache OpenOffice do przechowywania elementów rysunku jako obrazu wektorowego. Jest zgodny ze specyfikacjami formatu plików opartymi na XML określonymi przez Advancement of Structural Information Standards (OASIS). ODG przedstawia rysunki jako obrazy wektorowe za pomocą punktów, linii i krzywych. Oprócz OpenOffice, LibreOffice i inne aplikacje obsługują również pracę z formatem plików ODG. Inne formaty obsługiwane przez OpenOffice to na przykład [ODT](/pl/word-processing/odt/), ODF, [ODP](/pl/presentation/odp/) i [ODS](/pl/spreadsheet/ods/).
 
 
 ## Specyfikacje formatu plików ODG

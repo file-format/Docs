@@ -19,7 +19,7 @@
 
 ## Co je soubor ODG?
 
-Formát souboru ODG používá aplikace Draw Apache OpenOffice k ukládání prvků výkresu jako vektorový obrázek. Řídí se specifikacemi formátu souborů založenými na XML, které jsou uvedeny v Advancement of Structural Information Standards (OASIS). ODG představuje kresby jako vektorové obrázky pomocí bodů, čar a křivek. Kromě OpenOffice, LibreOffice a další aplikace poskytují podporu pro práci se souborovým formátem ODG. Mezi další formáty podporované OpenOffice patří například [ODT](/cs/textový procesor/odt/), ODF, [ODP](/cs/prezentace/odp/) a [ODS](/cs/tabulkový procesor/ods/).
+Formát souboru ODG používá aplikace Draw Apache OpenOffice k ukládání prvků výkresu jako vektorový obrázek. Řídí se specifikacemi formátu souborů založenými na XML, které jsou uvedeny v Advancement of Structural Information Standards (OASIS). ODG představuje kresby jako vektorové obrázky pomocí bodů, čar a křivek. Kromě OpenOffice, LibreOffice a další aplikace poskytují podporu pro práci se souborovým formátem ODG. Mezi další formáty podporované OpenOffice patří například [ODT](/cs/word-processing/odt/), ODF, [ODP](/cs/presentation/odp/) a [ODS](/cs/spreadsheet/ods/).
 
 
 ## Specifikace formátu souboru ODG

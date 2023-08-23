@@ -19,7 +19,7 @@
 
 ## מהו קובץ ODG?
 
-פורמט הקובץ ODG משמש את יישום Draw של Apache OpenOffice לאחסון רכיבי ציור כתמונה וקטורית. הוא עוקב אחר מפרטי פורמט הקובץ מבוסס XML המתואר על ידי Advancement of Structural Information Standards (OASIS). ODG מייצג שרטוטים כתמונות וקטוריות באמצעות נקודות, קווים ועיקולים. מלבד OpenOffice, LibreOffice ויישומים אחרים מספקים גם תמיכה לעבודה עם פורמט קובץ ODG. פורמטים אחרים הנתמכים על ידי OpenOffice, למשל, כוללים [ODT](/he/עיבוד תמלילים/odt/), ODF, [ODP](/he/presentation/odp/) ו-[ODS](/he/spreadsheet/ods/).
+פורמט הקובץ ODG משמש את יישום Draw של Apache OpenOffice לאחסון רכיבי ציור כתמונה וקטורית. הוא עוקב אחר מפרטי פורמט הקובץ מבוסס XML המתואר על ידי Advancement of Structural Information Standards (OASIS). ODG מייצג שרטוטים כתמונות וקטוריות באמצעות נקודות, קווים ועיקולים. מלבד OpenOffice, LibreOffice ויישומים אחרים מספקים גם תמיכה לעבודה עם פורמט קובץ ODG. פורמטים אחרים הנתמכים על ידי OpenOffice, למשל, כוללים [ODT](/he/word-processing/odt/), ODF, [ODP](/he/presentation/odp/) ו-[ODS](/he/spreadsheet/ods/).
 
 
 ## מפרטי פורמט קובץ ODG

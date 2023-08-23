@@ -19,7 +19,7 @@
 
 ## Mi az ODG fájl?
 
-Az ODG fájlformátumot az Apache OpenOffice Draw alkalmazása használja a rajzelemek vektorképként történő tárolására. Követi az Advancement of Structural Information Standards (OASIS) XML-alapú fájlformátum-specifikációit. Az ODG a rajzokat vektorképként ábrázolja pontok, vonalak és görbék segítségével. Az OpenOffice mellett a LibreOffice és más alkalmazások is támogatják az ODG fájlformátumokkal való munkát. Az OpenOffice által támogatott egyéb formátumok közé tartozik például az [ODT](/hu/szövegfeldolgozás/odt/), az ODF, az [ODP](/hu/presentation/odp/) és az [ODS](/hu/spreadsheet/ods/).
+Az ODG fájlformátumot az Apache OpenOffice Draw alkalmazása használja a rajzelemek vektorképként történő tárolására. Követi az Advancement of Structural Information Standards (OASIS) XML-alapú fájlformátum-specifikációit. Az ODG a rajzokat vektorképként ábrázolja pontok, vonalak és görbék segítségével. Az OpenOffice mellett a LibreOffice és más alkalmazások is támogatják az ODG fájlformátumokkal való munkát. Az OpenOffice által támogatott egyéb formátumok közé tartozik például az [ODT](/hu/word-processing/odt/), az ODF, az [ODP](/hu/presentation/odp/) és az [ODS](/hu/spreadsheet/ods/).
 
 
 ## ODG fájlformátum specifikációi

@@ -19,7 +19,7 @@
 
 ## Wat is een ODG-bestand?
 
-Het ODG-bestandsformaat wordt gebruikt door Apache OpenOffice's Draw-toepassing om tekenelementen op te slaan als een vectorafbeelding. Het volgt de op XML gebaseerde specificaties voor bestandsindelingen zoals uiteengezet door Advancement of Structural Information Standards (OASIS). ODG geeft tekeningen weer als vectorafbeeldingen met punten, lijnen en krommen. Naast OpenOffice bieden LibreOffice en andere toepassingen ook ondersteuning voor het werken met het ODG-bestandsformaat. Andere formaten die door OpenOffice worden ondersteund, zijn bijvoorbeeld [ODT](/nl/tekstverwerking/odt/), ODF, [ODP](/nl/presentation/odp/) en [ODS](/nl/spreadsheet/ods/).
+Het ODG-bestandsformaat wordt gebruikt door Apache OpenOffice's Draw-toepassing om tekenelementen op te slaan als een vectorafbeelding. Het volgt de op XML gebaseerde specificaties voor bestandsindelingen zoals uiteengezet door Advancement of Structural Information Standards (OASIS). ODG geeft tekeningen weer als vectorafbeeldingen met punten, lijnen en krommen. Naast OpenOffice bieden LibreOffice en andere toepassingen ook ondersteuning voor het werken met het ODG-bestandsformaat. Andere formaten die door OpenOffice worden ondersteund, zijn bijvoorbeeld [ODT](/nl/word-processing/odt/), ODF, [ODP](/nl/presentation/odp/) en [ODS](/nl/spreadsheet/ods/).
 
 
 ## Specificaties ODG-bestandsindeling

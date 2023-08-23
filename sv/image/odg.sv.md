@@ -19,7 +19,7 @@
 
 ## Vad är en ODG fil?
 
-ODG-filformatet används av Apache OpenOffices Draw-applikation för att lagra ritelement som en vektorbild. Den följer de XML-baserade filformatspecifikationerna som beskrivs av Advancement of Structural Information Standards (OASIS). ODG representerar ritningar som vektorbilder med hjälp av punkter, linjer och kurvor. Förutom OpenOffice ger LibreOffice och andra applikationer även stöd för att arbeta med ODG-filformat. Andra format som stöds av OpenOffice, till exempel, inkluderar [ODT](/sv/ordbehandling/odt/), ODF, [ODP](/sv/presentation/odp/) och [ODS](/sv/spreadsheet/ods/).
+ODG-filformatet används av Apache OpenOffices Draw-applikation för att lagra ritelement som en vektorbild. Den följer de XML-baserade filformatspecifikationerna som beskrivs av Advancement of Structural Information Standards (OASIS). ODG representerar ritningar som vektorbilder med hjälp av punkter, linjer och kurvor. Förutom OpenOffice ger LibreOffice och andra applikationer även stöd för att arbeta med ODG-filformat. Andra format som stöds av OpenOffice, till exempel, inkluderar [ODT](/sv/word-processing/odt/), ODF, [ODP](/sv/presentation/odp/) och [ODS](/sv/spreadsheet/ods/).
 
 
 ## ODG filformatspecifikationer
