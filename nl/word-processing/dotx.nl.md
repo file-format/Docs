@@ -21,7 +21,7 @@
 
 Bestanden met de extensie DOTX zijn sjabloonbestanden die door Microsoft Word zijn gemaakt met vooraf opgemaakte instellingen voor het genereren van verdere [DOCX](/nl/word-processing/docx/)-bestanden. Er wordt een sjabloonbestand gemaakt om specifieke gebruikersinstellingen te hebben die moeten worden toegepast op volgende vliegen die hiervan worden gemaakt. Deze instellingen omvatten paginamarges, randen, kopteksten, voetteksten en andere pagina-instellingen. Dergelijke sjablonen worden gebruikt in officiële documenten zoals briefpapier van bedrijven en gestandaardiseerde formulieren.
 
-Het DOTX-bestandsformaat werd geïntroduceerd met de release van Microsoft Office 2007 om het binaire [DOT ](/nl/tekstverwerking/dot/)bestandsformaat te vervangen, maar wordt ook ondersteund door hogere versies. Microsoft Word opent standaard elk nieuw document op basis van het normal.dot-bestand. Indien gewijzigd, hebben alle nieuwe bestanden die worden gemaakt dezelfde instellingen als in het sjabloonbestand. In Microsoft Word 2007 is de DOT-bestandsindeling vervangen door de op Office OpenXML gebaseerde DOTX-bestandsindeling.
+Het DOTX-bestandsformaat werd geïntroduceerd met de release van Microsoft Office 2007 om het binaire [DOT ](/nl/word-processing/dot/)bestandsformaat te vervangen, maar wordt ook ondersteund door hogere versies. Microsoft Word opent standaard elk nieuw document op basis van het normal.dot-bestand. Indien gewijzigd, hebben alle nieuwe bestanden die worden gemaakt dezelfde instellingen als in het sjabloonbestand. In Microsoft Word 2007 is de DOT-bestandsindeling vervangen door de op Office OpenXML gebaseerde DOTX-bestandsindeling.
 
 ## Korte geschiedenis ##
 

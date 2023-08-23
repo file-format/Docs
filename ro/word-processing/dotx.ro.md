@@ -21,7 +21,7 @@
 
 Fișierele cu extensia DOTX sunt fișiere șablon create de Microsoft Word pentru a avea setări preformatate pentru generarea de fișiere [DOCX](/ro/word-processing/docx/). Un fișier șablon este creat pentru a avea setări specifice de utilizator care ar trebui aplicate muștelor ulterioare create din acestea. Aceste setări includ marginile paginii, chenarele, anteturile, subsolurile și alte setări ale paginii. Astfel de șabloane sunt utilizate în documente oficiale, cum ar fi antetul companiei și formularele standardizate.
 
-Formatul de fișier DOTX a fost introdus odată cu lansarea Microsoft Office 2007 pentru a înlocui formatul de fișier binar [DOT ](/ro/word-processing/dot/), dar este acceptat și de versiunile superioare. Microsoft Word deschide în mod implicit fiecare document nou bazat pe fișierul normal.dot. Dacă sunt modificate, toate fișierele noi create vor avea aceleași setări ca cele din fișierul șablon. În Microsoft Word 2007, formatul de fișier DOT a fost înlocuit cu formatul de fișier DOTX bazat pe Office OpenXML.
+Formatul de fișier DOTX a fost introdus odată cu lansarea Microsoft Office 2007 pentru a înlocui formatul de fișier binar [DOT](/ro/word-processing/dot/), dar este acceptat și de versiunile superioare. Microsoft Word deschide în mod implicit fiecare document nou bazat pe fișierul normal.dot. Dacă sunt modificate, toate fișierele noi create vor avea aceleași setări ca cele din fișierul șablon. În Microsoft Word 2007, formatul de fișier DOT a fost înlocuit cu formatul de fișier DOTX bazat pe Office OpenXML.
 
 ## Scurt istoric ##
 

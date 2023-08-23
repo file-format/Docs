@@ -21,7 +21,7 @@
 
 Dateien mit der Endung DOTX sind Vorlagendateien, die von Microsoft Word erstellt wurden, um vorformatierte Einstellungen für die Generierung weiterer [DOCX](/de/word-processing/docx/)-Dateien zu haben. Eine Vorlagendatei wird erstellt, um daraus bestimmte Benutzereinstellungen zu erstellen, die auf nachfolgende Fliegen angewendet werden sollen. Zu diesen Einstellungen gehören Seitenränder, Ränder, Kopfzeilen, Fußzeilen und andere Seiteneinstellungen. Solche Vorlagen werden in offiziellen Dokumenten wie Firmenbriefköpfen und standardisierten Formularen verwendet.
 
-Das DOTX-Dateiformat wurde mit der Veröffentlichung von Microsoft Office 2007 eingeführt, um das binäre Dateiformat [DOT ](/de/word-processing/dot/) zu ersetzen, wird aber auch von höheren Versionen unterstützt. Microsoft Word öffnet standardmäßig jedes neue Dokument basierend auf der normalen.dot-Datei. Bei einer Änderung ergeben alle neu erstellten Dateien die gleichen Einstellungen wie in der Vorlagendatei. In Microsoft Word 2007 wurde das DOT-Dateiformat durch das auf Office OpenXML basierende DOTX-Dateiformat ersetzt.
+Das DOTX-Dateiformat wurde mit der Veröffentlichung von Microsoft Office 2007 eingeführt, um das binäre Dateiformat [DOT](/de/word-processing/dot/) zu ersetzen, wird aber auch von höheren Versionen unterstützt. Microsoft Word öffnet standardmäßig jedes neue Dokument basierend auf der normalen.dot-Datei. Bei einer Änderung ergeben alle neu erstellten Dateien die gleichen Einstellungen wie in der Vorlagendatei. In Microsoft Word 2007 wurde das DOT-Dateiformat durch das auf Office OpenXML basierende DOTX-Dateiformat ersetzt.
 
 ## Kurze Geschichte ##
 
