@@ -104,6 +104,5 @@ In dit voorbeeld toont de 875 de totale lengte van het bericht. De metadata van 
 
 ## Zie ook ##
 
-* [EML](/nl/e-mail/eml/)
-* [MSG](/nl/e-mail/bericht/)
-
+* [EML](/nl/email/eml/)
+* [MSG](/nl/email/msg/)

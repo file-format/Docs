@@ -104,6 +104,5 @@ http://www.la-grange.net/karl/
 
 ## यह सभी देखें ##
 
-* [ईएमएल](/hi/ ईमेल/ईएमएल/)
-* [एमएसजी](/hi/ ईमेल/संदेश/)
-
+* [EML](/hi/email/eml/)
+* [MSG](/hi/email/msg/)

@@ -104,6 +104,5 @@ En este ejemplo, el 875 muestra la longitud total del mensaje. Los metadatos del
 
 ## Ver también ##
 
-* [EML](/es/correo electrónico/eml/)
-* [Mensaje](/es/correo electrónico/mensaje/)
-
+* [EML](/es/email/eml/)
+* [MSG](/es/email/msg/)

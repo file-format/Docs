@@ -104,6 +104,5 @@ http://www.la-grange.net/karl/
 
 ## 関連項目 ##
 
-* [EML](/メール/eml/)
-* [メッセージ](/email/msg/)
-
+* [EML](/ja/email/eml/)
+* [MSG](/ja/email/msg/)
