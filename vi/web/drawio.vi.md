@@ -19,7 +19,7 @@
 
 ## Tệp DRAWIO là gì?
 
-Tệp có phần mở rộng .drawio là tệp bản vẽ được tạo bằng draw.io của [diagrams.net](https://www.diagrams.net/), một chương trình mã nguồn mở để làm việc với các sơ đồ. Nó chứa thông tin tổng thể về nội dung và định dạng của các thành phần sơ đồ chẳng hạn như văn bản, hình ảnh, bố cục, hình dạng và vị trí. Các sơ đồ được DRAWIO hỗ trợ bao gồm lưu đồ, sơ đồ tổ chức, bản đồ, các yếu tố kỹ thuật, sơ đồ quy trình, biểu đồ, v.v. Các tệp DRAWIO có thể được xuất sang một số định dạng khác nhau như [JPG](/vi/image/jpeg/), [PNG](/vi/image/png/), [BMP](/vi/image/bmp/), [XML](/vi/web /xml/), PDF, [HTML](/vi/web/html/) và [VSDX](/vi/visio/vsdx/).
+Tệp có phần mở rộng .drawio là tệp bản vẽ được tạo bằng draw.io của [diagrams.net](https://www.diagrams.net/), một chương trình mã nguồn mở để làm việc với các sơ đồ. Nó chứa thông tin tổng thể về nội dung và định dạng của các thành phần sơ đồ chẳng hạn như văn bản, hình ảnh, bố cục, hình dạng và vị trí. Các sơ đồ được DRAWIO hỗ trợ bao gồm lưu đồ, sơ đồ tổ chức, bản đồ, các yếu tố kỹ thuật, sơ đồ quy trình, biểu đồ, v.v. Các tệp DRAWIO có thể được xuất sang một số định dạng khác nhau như [JPG](/vi/image/jpeg/), [PNG](/vi/image/png/), [BMP](/vi/image/bmp/), [XML](/vi/web/xml/), PDF, [HTML](/vi/web/html/) và [VSDX](/vi/visio/vsdx/).
 
 ## Định dạng tệp DRAWIO
 

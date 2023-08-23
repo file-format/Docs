@@ -19,7 +19,7 @@
 
 ## Apa itu file DRAWIO?
 
-File dengan ekstensi .drawio adalah file gambar yang dibuat dengan draw.io [diagrams.net](https://www.diagrams.net/) yang merupakan program sumber terbuka untuk bekerja dengan diagram. Ini berisi informasi keseluruhan untuk konten dan pemformatan elemen diagram seperti teks, gambar, tata letak, bentuk, dan pemosisian. Diagram yang didukung oleh DRAWIO meliputi diagram alir, bagan organisasi, peta, elemen teknik, diagram proses, bagan, dan lainnya. File DRAWIO dapat diekspor ke beberapa format berbeda seperti [JPG](/id/image/jpeg/), [PNG](/id/image/png/), [BMP](/id/image/bmp/), [XML](/id/web /xml/), PDF, [HTML](/id/web/html/), dan [VSDX](/id/visio/vsdx/).
+File dengan ekstensi .drawio adalah file gambar yang dibuat dengan draw.io [diagrams.net](https://www.diagrams.net/) yang merupakan program sumber terbuka untuk bekerja dengan diagram. Ini berisi informasi keseluruhan untuk konten dan pemformatan elemen diagram seperti teks, gambar, tata letak, bentuk, dan pemosisian. Diagram yang didukung oleh DRAWIO meliputi diagram alir, bagan organisasi, peta, elemen teknik, diagram proses, bagan, dan lainnya. File DRAWIO dapat diekspor ke beberapa format berbeda seperti [JPG](/id/image/jpeg/), [PNG](/id/image/png/), [BMP](/id/image/bmp/), [XML](/id/web/xml/), PDF, [HTML](/id/web/html/), dan [VSDX](/id/visio/vsdx/).
 
 ## Format File DRAWIO
 

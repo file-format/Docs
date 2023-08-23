@@ -19,7 +19,7 @@
 
 ## 什么是 .drawio 文件？
 
-具有 .drawio 扩展名的文件是使用 [diagrams.net](https://www.diagrams.net/) 的 draw.io 创建的绘图文件，该文件是用于处理图表的开源程序。它包含有关图表元素的内容和格式的整体信息，例如文本、图像、布局、形状和定位。 DRAWIO 支持的图表包括流程图、组织结构图、地图、工程元素、流程图、图表等。 DRAWIO 文件可以导出为多种不同的格式，例如 [JPG](/zh/image/jpeg/)、[PNG](/zh/image/png/)、[BMP](/zh/image/bmp/)、[XML](/zh/web /xml/)、PDF、[HTML](/zh/web/html/) 和 [VSDX](/zh/visio/vsdx/)。
+具有 .drawio 扩展名的文件是使用 [diagrams.net](https://www.diagrams.net/) 的 draw.io 创建的绘图文件，该文件是用于处理图表的开源程序。它包含有关图表元素的内容和格式的整体信息，例如文本、图像、布局、形状和定位。 DRAWIO 支持的图表包括流程图、组织结构图、地图、工程元素、流程图、图表等。 DRAWIO 文件可以导出为多种不同的格式，例如 [JPG](/zh/image/jpeg/)、[PNG](/zh/image/png/)、[BMP](/zh/image/bmp/)、[XML](/zh/web/xml/)、PDF、[HTML](/zh/web/html/) 和 [VSDX](/zh/visio/vsdx/)。
 
 ## 绘图文件格式
 
