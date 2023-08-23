@@ -24,7 +24,7 @@ Soubory VSD jsou výkresy vytvořené pomocí aplikace Microsoft Visio, které p
 
 # Formát souboru VSD #
 
-Formát souboru VSD je počáteční formát souboru zavedený aplikací Microsoft Visio pro ukládání prvků výkresu. Vnitřní struktura souborů VSD je založena na binárním formátu souborů na rozdíl od [.VSDX](/cs/image/vsdx/), který byl zaveden s aplikací Microsoft Visio 2013. Nový formát je založen na formátu souborů Office Open XML a ukládá informace o projektu v [ZIP](/cs/komprese/zip/) archiv. Společnost Microsoft nabízí aplikaci vviewer.exe do výkresových souborů aplikace Visio v případě, že aplikace Visio není v systému nainstalována.
+Formát souboru VSD je počáteční formát souboru zavedený aplikací Microsoft Visio pro ukládání prvků výkresu. Vnitřní struktura souborů VSD je založena na binárním formátu souborů na rozdíl od [.VSDX](/cs/visio/vsdx/), který byl zaveden s aplikací Microsoft Visio 2013. Nový formát je založen na formátu souborů Office Open XML a ukládá informace o projektu v [ZIP](/cs/komprese/zip/) archiv. Společnost Microsoft nabízí aplikaci vviewer.exe do výkresových souborů aplikace Visio v případě, že aplikace Visio není v systému nainstalována.
 
 ## Stručná historie ##
 

@@ -19,7 +19,7 @@
 
 ## DRAWIO dosyası nedir?
 
-.drawio uzantılı bir dosya, diyagramlarla çalışmak için açık kaynaklı bir program olan [diagrams.net](https://www.diagrams.net/)'nin draw.io'su ile oluşturulan bir çizim dosyasıdır. Metin, resimler, düzen, şekiller ve konumlandırma gibi diyagram öğelerinin içeriği ve biçimlendirmesi için genel bilgileri içerir. DRAWIO tarafından desteklenen diyagramlar arasında akış şemaları, organizasyon şemaları, haritalar, mühendislik öğeleri, süreç şemaları, çizelgeler ve daha fazlası bulunur. DRAWIO dosyaları [JPG](/tr/image/jpeg/), [PNG](/tr/image/png/), [BMP](/tr/image/bmp/), [XML](/tr/web) gibi birkaç farklı formatta dışa aktarılabilir. /xml/), PDF, [HTML](/tr/web/html/) ve [VSDX](/tr/image/vsdx/).
+.drawio uzantılı bir dosya, diyagramlarla çalışmak için açık kaynaklı bir program olan [diagrams.net](https://www.diagrams.net/)'nin draw.io'su ile oluşturulan bir çizim dosyasıdır. Metin, resimler, düzen, şekiller ve konumlandırma gibi diyagram öğelerinin içeriği ve biçimlendirmesi için genel bilgileri içerir. DRAWIO tarafından desteklenen diyagramlar arasında akış şemaları, organizasyon şemaları, haritalar, mühendislik öğeleri, süreç şemaları, çizelgeler ve daha fazlası bulunur. DRAWIO dosyaları [JPG](/tr/image/jpeg/), [PNG](/tr/image/png/), [BMP](/tr/image/bmp/), [XML](/tr/web) gibi birkaç farklı formatta dışa aktarılabilir. /xml/), PDF, [HTML](/tr/web/html/) ve [VSDX](/tr/visio/vsdx/).
 
 ## DRAWIO Dosya Biçimi
 

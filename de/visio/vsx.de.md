@@ -20,7 +20,7 @@
 
 ## Was ist eine VSX-Datei?
 
-Dateien mit der Erweiterung .vsx beziehen sich auf Schablonen, die aus Zeichnungen und Formen bestehen, die zum Erstellen von Diagrammen in Microsoft Visio verwendet werden. VSX-Dateien werden im XML-Dateiformat gespeichert und wurden bis Visio 2013 unterstützt. Diese unterscheiden sich vom primären [VSDX](/de/image/vsdx/)-Dateiformat, das mit Microsoft Visio 2013 eingeführt wurde. VSX-Dateien können in jedem Texteditor geöffnet werden um den Inhalt anzuzeigen. VSX-Dateien können in verschiedene Dateiformate wie PDF und HTML konvertiert werden.
+Dateien mit der Erweiterung .vsx beziehen sich auf Schablonen, die aus Zeichnungen und Formen bestehen, die zum Erstellen von Diagrammen in Microsoft Visio verwendet werden. VSX-Dateien werden im XML-Dateiformat gespeichert und wurden bis Visio 2013 unterstützt. Diese unterscheiden sich vom primären [VSDX](/de/visio/vsdx/)-Dateiformat, das mit Microsoft Visio 2013 eingeführt wurde. VSX-Dateien können in jedem Texteditor geöffnet werden um den Inhalt anzuzeigen. VSX-Dateien können in verschiedene Dateiformate wie PDF und HTML konvertiert werden.
 
 ## VSX-Dateiformat ##
 

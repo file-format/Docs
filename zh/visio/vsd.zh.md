@@ -24,7 +24,7 @@ VSD 文件是使用 Microsoft Visio 应用程序创建的图形，用于表示�
 
 #VSD文件格式#
 
-VSD 文件格式是 Microsoft Visio 引入的用于存储绘图元素的初始文件格式。与 Microsoft Visio 2013 引入的 [.VSDX](/zh/image/vsdx/) 不同，VSD 文件的内部结构基于二进制文件格式。新格式基于 Office Open XML 文件格式，并将项目信息存储在[ZIP](/zh/compression/zip/) 存档。 Microsoft 为 Visio 绘图文件提供 vviewer.exe 应用程序，以防系统上未安装 Visio。
+VSD 文件格式是 Microsoft Visio 引入的用于存储绘图元素的初始文件格式。与 Microsoft Visio 2013 引入的 [.VSDX](/zh/visio/vsdx/) 不同，VSD 文件的内部结构基于二进制文件格式。新格式基于 Office Open XML 文件格式，并将项目信息存储在[ZIP](/zh/compression/zip/) 存档。 Microsoft 为 Visio 绘图文件提供 vviewer.exe 应用程序，以防系统上未安装 Visio。
 
 ## 历史简介 ＃＃
 

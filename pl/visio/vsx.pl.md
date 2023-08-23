@@ -20,7 +20,7 @@
 
 ## Czym jest plik VSX?
 
-Pliki z rozszerzeniem .vsx odnoszą się do szablonów składających się z rysunków i kształtów, które są używane do tworzenia diagramów w Microsoft Visio. Pliki VSX są zapisywane w formacie pliku XML i były obsługiwane do programu Visio 2013. Różnią się one od podstawowego formatu pliku [VSDX](/pl/image/vsdx/), który został wprowadzony w programie Microsoft Visio 2013. Pliki VSX można otwierać w dowolnym edytorze tekstu aby wyświetlić zawartość. Pliki VSX można konwertować na kilka różnych formatów plików, takich jak PDF i HTML.
+Pliki z rozszerzeniem .vsx odnoszą się do szablonów składających się z rysunków i kształtów, które są używane do tworzenia diagramów w Microsoft Visio. Pliki VSX są zapisywane w formacie pliku XML i były obsługiwane do programu Visio 2013. Różnią się one od podstawowego formatu pliku [VSDX](/pl/visio/vsdx/), który został wprowadzony w programie Microsoft Visio 2013. Pliki VSX można otwierać w dowolnym edytorze tekstu aby wyświetlić zawartość. Pliki VSX można konwertować na kilka różnych formatów plików, takich jak PDF i HTML.
 
 ## Format pliku VSX ##
 

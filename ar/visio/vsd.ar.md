@@ -24,7 +24,7 @@
 
 # تنسيق ملف VSD #
 
-تنسيق ملف VSD هو تنسيق الملف الأولي الذي يقدمه Microsoft Visio لتخزين عناصر الرسم. يعتمد الهيكل الداخلي لملفات VSD على تنسيق ملف ثنائي بخلاف [.VSDX](/ar/image/vsdx/) الذي تم تقديمه مع Microsoft Visio 2013. ويستند التنسيق الجديد إلى تنسيق ملف Office Open XML ويخزن معلومات المشروع في [ZIP](/ar/compression/zip/) أرشيف . تقدم Microsoft تطبيق vviewer.exe لملفات رسم Visio في حالة عدم تثبيت Visio على النظام.
+تنسيق ملف VSD هو تنسيق الملف الأولي الذي يقدمه Microsoft Visio لتخزين عناصر الرسم. يعتمد الهيكل الداخلي لملفات VSD على تنسيق ملف ثنائي بخلاف [.VSDX](/ar/visio/vsdx/) الذي تم تقديمه مع Microsoft Visio 2013. ويستند التنسيق الجديد إلى تنسيق ملف Office Open XML ويخزن معلومات المشروع في [ZIP](/ar/compression/zip/) أرشيف . تقدم Microsoft تطبيق vviewer.exe لملفات رسم Visio في حالة عدم تثبيت Visio على النظام.
 
 ## نبذة تاريخية ##
 

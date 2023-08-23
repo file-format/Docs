@@ -24,7 +24,7 @@ A VSD fájlok Microsoft Visio alkalmazással készített rajzok, amelyek külön
 
 # VSD fájlformátum #
 
-A VSD fájlformátum a Microsoft Visio által bevezetett kezdeti fájlformátum a rajzelemek tárolására. A VSD-fájlok belső szerkezete bináris fájlformátumon alapul, ellentétben a [.VSDX](/hu/image/vsdx/)-val, amelyet a Microsoft Visio 2013-ban vezettek be. Az új formátum az Office Open XML fájlformátumon alapul, és a projektinformációkat egy [ZIP](/hu/compression/zip/) archívum. A Microsoft a vviewer.exe alkalmazást kínálja a Visio rajzfájlokhoz, ha a Visio nincs telepítve a rendszerre.
+A VSD fájlformátum a Microsoft Visio által bevezetett kezdeti fájlformátum a rajzelemek tárolására. A VSD-fájlok belső szerkezete bináris fájlformátumon alapul, ellentétben a [.VSDX](/hu/visio/vsdx/)-val, amelyet a Microsoft Visio 2013-ban vezettek be. Az új formátum az Office Open XML fájlformátumon alapul, és a projektinformációkat egy [ZIP](/hu/compression/zip/) archívum. A Microsoft a vviewer.exe alkalmazást kínálja a Visio rajzfájlokhoz, ha a Visio nincs telepítve a rendszerre.
 
 ## Rövid története ##
 

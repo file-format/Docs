@@ -20,7 +20,7 @@
 
 ## 什么是一 .vsx 文件？
 
-具有 .vsx 扩展名的文件是指由用于在 Microsoft Visio 中创建图表的绘图和形状组成的模具。 VSX 文件以 XML 文件格式保存，并且在 Visio 2013 之前一直受支持。这些文件与 Microsoft Visio 2013 引入的主要 [VSDX](/zh/image/vsdx/) 文件格式不同。VSX 文件可以在任何文本编辑器中打开查看内容。 VSX 文件可以转换为多种不同的文件格式，例如 PDF 和 HTML。
+具有 .vsx 扩展名的文件是指由用于在 Microsoft Visio 中创建图表的绘图和形状组成的模具。 VSX 文件以 XML 文件格式保存，并且在 Visio 2013 之前一直受支持。这些文件与 Microsoft Visio 2013 引入的主要 [VSDX](/zh/visio/vsdx/) 文件格式不同。VSX 文件可以在任何文本编辑器中打开查看内容。 VSX 文件可以转换为多种不同的文件格式，例如 PDF 和 HTML。
 
 ## VSX 文件格式 ##
 

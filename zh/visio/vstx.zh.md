@@ -20,7 +20,7 @@
 
 ## 什么是一 .VSTX 文件？
 
-带有 .vstx 扩展名的文件是使用 Microsoft Visio 2013 及更高版本创建的绘图模板文件。这些 VSTX 文件为创建 Visio 绘图提供了起点，保存为 [.VSDX](/zh/image/vsdx/) 文件，具有默认布局和设置。通常，Visio 文件用于创建包含可视对象、流程图、UML 图、信息流、组织结构图、软件图、网络布局、数据库模型、对象映射和其他类似信息的绘图。使用 Visio 生成的文件也可以导出为不同的文件格式，例如 [PNG](/zh/image/png/)、[BMP](/zh/image/bmp/)、[PDF](/zh/pdf/) 等。打开 VSTX 文件的程序包括 Microsoft Visio for Windows 和 Mac，可让您打开这些文件进行查看和编辑。它还允许将 Visio 文件格式转换为许多其他格式。
+带有 .vstx 扩展名的文件是使用 Microsoft Visio 2013 及更高版本创建的绘图模板文件。这些 VSTX 文件为创建 Visio 绘图提供了起点，保存为 [.VSDX](/zh/visio/vsdx/) 文件，具有默认布局和设置。通常，Visio 文件用于创建包含可视对象、流程图、UML 图、信息流、组织结构图、软件图、网络布局、数据库模型、对象映射和其他类似信息的绘图。使用 Visio 生成的文件也可以导出为不同的文件格式，例如 [PNG](/zh/image/png/)、[BMP](/zh/image/bmp/)、[PDF](/zh/pdf/) 等。打开 VSTX 文件的程序包括 Microsoft Visio for Windows 和 Mac，可让您打开这些文件进行查看和编辑。它还允许将 Visio 文件格式转换为许多其他格式。
 
 #VSTX 文件格式#
 

@@ -20,7 +20,7 @@
 
 ## Co je soubor VSX?
 
-Soubory s příponou .vsx odkazují na vzorníky, které se skládají z kreseb a obrazců, které se používají k vytváření diagramů v aplikaci Microsoft Visio. Soubory VSX se ukládají ve formátu XML a byly podporovány do Visio 2013. Liší se od primárního formátu souborů [VSDX](/cs/image/vsdx/), který byl zaveden s aplikací Microsoft Visio 2013. Soubory VSX lze otevřít v libovolném textovém editoru pro zobrazení obsahu. Soubory VSX lze převést do několika různých formátů souborů, jako jsou PDF a HTML.
+Soubory s příponou .vsx odkazují na vzorníky, které se skládají z kreseb a obrazců, které se používají k vytváření diagramů v aplikaci Microsoft Visio. Soubory VSX se ukládají ve formátu XML a byly podporovány do Visio 2013. Liší se od primárního formátu souborů [VSDX](/cs/visio/vsdx/), který byl zaveden s aplikací Microsoft Visio 2013. Soubory VSX lze otevřít v libovolném textovém editoru pro zobrazení obsahu. Soubory VSX lze převést do několika různých formátů souborů, jako jsou PDF a HTML.
 
 ## Formát souboru VSX ##
 

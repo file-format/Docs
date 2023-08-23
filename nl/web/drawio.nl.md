@@ -19,7 +19,7 @@
 
 ## Wat is een DRAWIO-bestand?
 
-Een bestand met de extensie .drawio is een tekenbestand gemaakt met [diagrams.net](https://www.diagrams.net/)'s draw.io, een open-sourceprogramma voor het werken met diagrammen. Het bevat algemene informatie voor de inhoud en opmaak van de diagramelementen zoals tekst, afbeeldingen, lay-out, vormen en positionering. Diagrammen die door DRAWIO worden ondersteund, omvatten stroomdiagrammen, organigrammen, kaarten, technische elementen, procesdiagrammen, grafieken en meer. DRAWIO-bestanden kunnen naar verschillende formaten worden geëxporteerd, zoals [JPG](/nl/image/jpeg/), [PNG](/nl/image/png/), [BMP](/nl/image/bmp/), [XML](/nl/web /xml/), PDF, [HTML](/nl/web/html/) en [VSDX](/nl/image/vsdx/).
+Een bestand met de extensie .drawio is een tekenbestand gemaakt met [diagrams.net](https://www.diagrams.net/)'s draw.io, een open-sourceprogramma voor het werken met diagrammen. Het bevat algemene informatie voor de inhoud en opmaak van de diagramelementen zoals tekst, afbeeldingen, lay-out, vormen en positionering. Diagrammen die door DRAWIO worden ondersteund, omvatten stroomdiagrammen, organigrammen, kaarten, technische elementen, procesdiagrammen, grafieken en meer. DRAWIO-bestanden kunnen naar verschillende formaten worden geëxporteerd, zoals [JPG](/nl/image/jpeg/), [PNG](/nl/image/png/), [BMP](/nl/image/bmp/), [XML](/nl/web /xml/), PDF, [HTML](/nl/web/html/) en [VSDX](/nl/visio/vsdx/).
 
 ## DRAWIO-bestandsindeling
 

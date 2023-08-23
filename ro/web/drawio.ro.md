@@ -19,7 +19,7 @@
 
 ## Ce este un fișier DRAWIO?
 
-Un fișier cu extensia .drawio este un fișier de desen creat cu [diagrams.net](https://www.diagrams.net/) draw.io, care este un program open-source pentru lucrul cu diagrame. Conține informații generale pentru conținutul și formatarea elementelor diagramei, cum ar fi text, imagini, aspect, forme și poziționare. Diagramele acceptate de DRAWIO includ diagrame de flux, organigrame, hărți, elemente de inginerie, diagrame de proces, diagrame și multe altele. Fișierele DRAWIO pot fi exportate în mai multe formate diferite, cum ar fi [JPG](/ro/image/jpeg/), [PNG](/ro/image/png/), [BMP](/ro/image/bmp/), [XML](/ro/web /xml/), PDF, [HTML](/ro/web/html/) și [VSDX](/ro/image/vsdx/).
+Un fișier cu extensia .drawio este un fișier de desen creat cu [diagrams.net](https://www.diagrams.net/) draw.io, care este un program open-source pentru lucrul cu diagrame. Conține informații generale pentru conținutul și formatarea elementelor diagramei, cum ar fi text, imagini, aspect, forme și poziționare. Diagramele acceptate de DRAWIO includ diagrame de flux, organigrame, hărți, elemente de inginerie, diagrame de proces, diagrame și multe altele. Fișierele DRAWIO pot fi exportate în mai multe formate diferite, cum ar fi [JPG](/ro/image/jpeg/), [PNG](/ro/image/png/), [BMP](/ro/image/bmp/), [XML](/ro/web /xml/), PDF, [HTML](/ro/web/html/) și [VSDX](/ro/visio/vsdx/).
 
 ## Format de fișier DRAWIO
 

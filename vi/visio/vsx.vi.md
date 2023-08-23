@@ -20,7 +20,7 @@
 
 ## Tệp VSX là gì?
 
-Các tệp có phần mở rộng .vsx đề cập đến các khuôn tô bao gồm các hình vẽ và hình dạng được sử dụng để tạo sơ đồ trong Microsoft Visio. Các tệp VSX được lưu ở định dạng tệp XML và được hỗ trợ cho đến Visio 2013. Các tệp này khác với định dạng tệp [VSDX](/vi/image/vsdx/) chính được giới thiệu với Microsoft Visio 2013. Có thể mở các tệp VSX trong bất kỳ trình soạn thảo văn bản nào để xem nội dung. Các tệp VSX có thể được chuyển đổi sang một số định dạng tệp khác nhau, chẳng hạn như PDF và HTML.
+Các tệp có phần mở rộng .vsx đề cập đến các khuôn tô bao gồm các hình vẽ và hình dạng được sử dụng để tạo sơ đồ trong Microsoft Visio. Các tệp VSX được lưu ở định dạng tệp XML và được hỗ trợ cho đến Visio 2013. Các tệp này khác với định dạng tệp [VSDX](/vi/visio/vsdx/) chính được giới thiệu với Microsoft Visio 2013. Có thể mở các tệp VSX trong bất kỳ trình soạn thảo văn bản nào để xem nội dung. Các tệp VSX có thể được chuyển đổi sang một số định dạng tệp khác nhau, chẳng hạn như PDF và HTML.
 
 ## Định dạng tệp VSX ##
 

@@ -20,7 +20,7 @@
 
 ## VSX dosyası nedir?
 
-.vsx uzantılı dosyalar, Microsoft Visio'da diyagram oluşturmak için kullanılan çizimlerden ve şekillerden oluşan kalıpları ifade eder. VSX dosyaları XML dosya biçiminde kaydedilir ve Visio 2013'e kadar desteklenir. Bunlar, Microsoft Visio 2013 ile tanıtılan birincil [VSDX](/tr/image/vsdx/) dosya biçiminden farklıdır. VSX dosyaları herhangi bir metin düzenleyicide açılabilir içeriğini görüntülemek için. VSX dosyaları, PDF ve HTML gibi birkaç farklı dosya biçimine dönüştürülebilir.
+.vsx uzantılı dosyalar, Microsoft Visio'da diyagram oluşturmak için kullanılan çizimlerden ve şekillerden oluşan kalıpları ifade eder. VSX dosyaları XML dosya biçiminde kaydedilir ve Visio 2013'e kadar desteklenir. Bunlar, Microsoft Visio 2013 ile tanıtılan birincil [VSDX](/tr/visio/vsdx/) dosya biçiminden farklıdır. VSX dosyaları herhangi bir metin düzenleyicide açılabilir içeriğini görüntülemek için. VSX dosyaları, PDF ve HTML gibi birkaç farklı dosya biçimine dönüştürülebilir.
 
 ## VSX Dosya Biçimi ##
 

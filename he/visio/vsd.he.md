@@ -24,7 +24,7 @@
 
 # פורמט קובץ VSD #
 
-פורמט קובץ VSD הוא פורמט הקובץ הראשוני שהוצג על ידי Microsoft Visio לאחסון רכיבי ציור. המבנה הפנימי של קבצי VSD מבוסס על פורמט קובץ בינארי שלא כמו [.VSDX](/he/image/vsdx/) שהוצג עם Microsoft Visio 2013. הפורמט החדש מבוסס על פורמט הקובץ Office Open XML ומאחסן מידע על הפרויקט ב- [ZIP](/he/compression/zip/) ארכיון. Microsoft מציעה יישום vviewer.exe לקובצי ציור של Visio למקרה ש-Visio לא מותקן במערכת.
+פורמט קובץ VSD הוא פורמט הקובץ הראשוני שהוצג על ידי Microsoft Visio לאחסון רכיבי ציור. המבנה הפנימי של קבצי VSD מבוסס על פורמט קובץ בינארי שלא כמו [.VSDX](/he/visio/vsdx/) שהוצג עם Microsoft Visio 2013. הפורמט החדש מבוסס על פורמט הקובץ Office Open XML ומאחסן מידע על הפרויקט ב- [ZIP](/he/compression/zip/) ארכיון. Microsoft מציעה יישום vviewer.exe לקובצי ציור של Visio למקרה ש-Visio לא מותקן במערכת.
 
 ## היסטוריה קצרה ##
 

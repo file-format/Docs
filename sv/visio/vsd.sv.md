@@ -24,7 +24,7 @@ VSD-filer är ritningar skapade med Microsoft Visio-applikationen för att repre
 
 # VSD-filformat #
 
-VSD-filformat är det ursprungliga filformatet som introducerades av Microsoft Visio för att lagra ritningselement. Den interna strukturen för VSD-filer är baserad på binärt filformat till skillnad från [.VSDX](/sv/image/vsdx/) som introducerades med Microsoft Visio 2013. Det nya formatet är baserat på Office Open XML-filformatet och lagrar projektinformation i en [ZIP](/sv/compression/zip/) arkiv. Microsoft erbjuder vviewer.exe-applikationen till Visio-ritfiler om Visio inte är installerat på systemet.
+VSD-filformat är det ursprungliga filformatet som introducerades av Microsoft Visio för att lagra ritningselement. Den interna strukturen för VSD-filer är baserad på binärt filformat till skillnad från [.VSDX](/sv/visio/vsdx/) som introducerades med Microsoft Visio 2013. Det nya formatet är baserat på Office Open XML-filformatet och lagrar projektinformation i en [ZIP](/sv/compression/zip/) arkiv. Microsoft erbjuder vviewer.exe-applikationen till Visio-ritfiler om Visio inte är installerat på systemet.
 
 ## Kortfattad bakgrund ##
 

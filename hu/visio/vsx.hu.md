@@ -20,7 +20,7 @@
 
 ## Mi az a VSX fájl?
 
-A .vsx kiterjesztésű fájlok rajzokból és alakzatokból álló sablonokra vonatkoznak, amelyeket diagramok létrehozásához használnak a Microsoft Visio programban. A VSX-fájlok XML-fájlformátumban kerülnek mentésre, és a Visio 2013-ig támogatottak. Ezek eltérnek a Microsoft Visio 2013-ban bevezetett elsődleges [VSDX](/hu/image/vsdx/) fájlformátumtól. A VSX-fájlok bármely szövegszerkesztőben megnyithatók. a tartalom megtekintéséhez. A VSX fájlok számos különböző fájlformátumba konvertálhatók, például PDF és HTML formátumba.
+A .vsx kiterjesztésű fájlok rajzokból és alakzatokból álló sablonokra vonatkoznak, amelyeket diagramok létrehozásához használnak a Microsoft Visio programban. A VSX-fájlok XML-fájlformátumban kerülnek mentésre, és a Visio 2013-ig támogatottak. Ezek eltérnek a Microsoft Visio 2013-ban bevezetett elsődleges [VSDX](/hu/visio/vsdx/) fájlformátumtól. A VSX-fájlok bármely szövegszerkesztőben megnyithatók. a tartalom megtekintéséhez. A VSX fájlok számos különböző fájlformátumba konvertálhatók, például PDF és HTML formátumba.
 
 ## VSX fájlformátum ##
 

@@ -19,7 +19,7 @@
 
 ## Mi az a DRAWIO fájl?
 
-A .drawio kiterjesztésű fájl egy rajzfájl, amelyet a [diagrams.net](https://www.diagrams.net/) draw.io programmal hoztak létre, amely egy nyílt forráskódú program diagramokkal való munkavégzéshez. Általános információkat tartalmaz a diagram elemeinek tartalmáról és formázásáról, mint például szöveg, képek, elrendezés, alakzatok és elhelyezés. A DRAWIO által támogatott diagramok folyamatábrákat, szervezeti diagramokat, térképeket, mérnöki elemeket, folyamatdiagramokat, diagramokat és egyebeket tartalmaznak. A DRAWIO fájlok többféle formátumba exportálhatók, például [JPG](/hu/image/jpeg/), [PNG](/hu/image/png/), [BMP](/hu/image/bmp/), [XML](/hu/web) /xml/), PDF, [HTML](/hu/web/html/) és [VSDX](/hu/image/vsdx/).
+A .drawio kiterjesztésű fájl egy rajzfájl, amelyet a [diagrams.net](https://www.diagrams.net/) draw.io programmal hoztak létre, amely egy nyílt forráskódú program diagramokkal való munkavégzéshez. Általános információkat tartalmaz a diagram elemeinek tartalmáról és formázásáról, mint például szöveg, képek, elrendezés, alakzatok és elhelyezés. A DRAWIO által támogatott diagramok folyamatábrákat, szervezeti diagramokat, térképeket, mérnöki elemeket, folyamatdiagramokat, diagramokat és egyebeket tartalmaznak. A DRAWIO fájlok többféle formátumba exportálhatók, például [JPG](/hu/image/jpeg/), [PNG](/hu/image/png/), [BMP](/hu/image/bmp/), [XML](/hu/web) /xml/), PDF, [HTML](/hu/web/html/) és [VSDX](/hu/visio/vsdx/).
 
 ## DRAWIO fájlformátum
 

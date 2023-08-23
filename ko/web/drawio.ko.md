@@ -19,7 +19,7 @@
 
 ## .DRAWIO 파일이란?
 
-확장자가 .drawio인 파일은 다이어그램 작업을 위한 오픈소스 프로그램인 [diagrams.net](https://www.diagrams.net/)의 draw.io로 만든 드로잉 파일입니다. 여기에는 텍스트, 이미지, 레이아웃, 모양 및 위치와 같은 다이어그램 요소의 내용 및 서식에 대한 전체 정보가 포함됩니다. DRAWIO에서 지원하는 다이어그램에는 순서도, 조직도, 지도, 엔지니어링 요소, 프로세스 다이어그램, 차트 등이 포함됩니다. DRAWIO 파일은 [JPG](/ko/image/jpeg/), [PNG](/ko/image/png/), [BMP](/ko/image/bmp/), [XML](/ko/web /xml/), PDF, [HTML](/ko/web/html/) 및 [VSDX](/ko/image/vsdx/).
+확장자가 .drawio인 파일은 다이어그램 작업을 위한 오픈소스 프로그램인 [diagrams.net](https://www.diagrams.net/)의 draw.io로 만든 드로잉 파일입니다. 여기에는 텍스트, 이미지, 레이아웃, 모양 및 위치와 같은 다이어그램 요소의 내용 및 서식에 대한 전체 정보가 포함됩니다. DRAWIO에서 지원하는 다이어그램에는 순서도, 조직도, 지도, 엔지니어링 요소, 프로세스 다이어그램, 차트 등이 포함됩니다. DRAWIO 파일은 [JPG](/ko/image/jpeg/), [PNG](/ko/image/png/), [BMP](/ko/image/bmp/), [XML](/ko/web /xml/), PDF, [HTML](/ko/web/html/) 및 [VSDX](/ko/visio/vsdx/).
 
 ## DRAWIO 파일 형식
 
