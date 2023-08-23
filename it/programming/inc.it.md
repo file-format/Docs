@@ -18,7 +18,7 @@
 
 ## Che cos'è un file INC?
 
-Un file INC è un file di inclusione utilizzato dal codice sorgente del programma software per fare riferimento alle informazioni sulle intestazioni. È simile al [formato file .h](/it/programmazione/h/) e contiene dichiarazioni, funzioni, intestazioni o macro che possono essere riutilizzate da file di codice sorgente come C++. I file INC sono utilizzati da una varietà di linguaggi di programmazione come C, [C++](/it/programming/cpp/), Pascal, [PHP](/it/programming/php/) e [Java](/it/programming/java/). Editor di testo come Microsoft Notepad, Notepad++ e TextEdit possono essere utilizzati per aprire i file INC.
+Un file INC è un file di inclusione utilizzato dal codice sorgente del programma software per fare riferimento alle informazioni sulle intestazioni. È simile al [formato file .h](/it/programming/h/) e contiene dichiarazioni, funzioni, intestazioni o macro che possono essere riutilizzate da file di codice sorgente come C++. I file INC sono utilizzati da una varietà di linguaggi di programmazione come C, [C++](/it/programming/cpp/), Pascal, [PHP](/it/programming/php/) e [Java](/it/programming/java/). Editor di testo come Microsoft Notepad, Notepad++ e TextEdit possono essere utilizzati per aprire i file INC.
 
 ## Formato file INC - Ulteriori informazioni
 

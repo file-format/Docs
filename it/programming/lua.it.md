@@ -19,7 +19,7 @@
 
 ## Che cos'è un file LUA?
 
-Un file con estensione .lua appartiene al linguaggio di programmazione **Luа**. Lu è un linguaggio di programmazione leggero, di alto livello e multi-paradigma progettato principalmente per l'uso integrato nelle applicazioni. È сrоss-platform, dal momento che l'interprete del codice byte compilato è scritto, e Lu ha una [C](/it/programmazione/c/) relativamente semplice per incorporarlo nelle applicazioni.
+Un file con estensione .lua appartiene al linguaggio di programmazione **Luа**. Lu è un linguaggio di programmazione leggero, di alto livello e multi-paradigma progettato principalmente per l'uso integrato nelle applicazioni. È сrоss-platform, dal momento che l'interprete del codice byte compilato è scritto, e Lu ha una [C](/it/programming/c/) relativamente semplice per incorporarlo nelle applicazioni.
 
 Lu è stato originariamente progettato nel 1993 come lingua per estendere le applicazioni software per soddisfare la crescente domanda di personalizzazione dell'epoca. Forniva le strutture di base della maggior parte dei linguaggi di programmazione, ma le caratteristiche più complesse o specifiche del dominio non erano incluse piuttosto:
 

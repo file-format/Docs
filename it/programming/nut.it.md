@@ -29,7 +29,7 @@ La sintassi del linguaggio scoiattolo attrae gli sviluppatori in quanto è simil
 
 ## Breve storia ##
 
-È stato progettato da Alberto Demichelis nel 2003. Tuttavia, una versione stabile di questo linguaggio è stata rilasciata nel 2016. È stato progettato con la licenza di zlib/libpng. Nel 2010 la licenza è stata modificata e trasferita al MIT. Questo linguaggio è considerato una versione ispirata di [LUA](/it/programmazione/lua/) (linguaggio di programmazione). C'è un elenco di suggerimenti per la lingua precedente sul sito web progettato da Alberto per renderla più vantaggiosa.
+È stato progettato da Alberto Demichelis nel 2003. Tuttavia, una versione stabile di questo linguaggio è stata rilasciata nel 2016. È stato progettato con la licenza di zlib/libpng. Nel 2010 la licenza è stata modificata e trasferita al MIT. Questo linguaggio è considerato una versione ispirata di [LUA](/it/programming/lua/) (linguaggio di programmazione). C'è un elenco di suggerimenti per la lingua precedente sul sito web progettato da Alberto per renderla più vantaggiosa.
 
 
 ## Specifica tecnica ##
