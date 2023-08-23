@@ -19,7 +19,7 @@
 
 ## ما هو ملف FODG؟
 
-الملف بامتداد .fodg هو تنسيق ملف Apache OpenOffice Drawing لتخزين عناصر الرسم. وهو يعتمد على مواصفات تنسيق الملف الموضحة بواسطة تطوير معايير المعلومات الهيكلية (OASIS). تنسيق ملف آخر مشابه لرسومات OpenOffice هو [ODG](/ar/image/odg/) الذي يخزن عناصر الرسم كصورة متجهة. يمكن فتح ملفات FODG باستخدام OpenOffice وكذلك LibreOffice. تشمل تنسيقات الملفات الأخرى التي يدعمها OpenOffice ، على سبيل المثال ، [ODT](/ar/word-processing/odt/) و ODF و [ODP](/ar/offer/odp/) و [ODS](/ar/spreadsheet/ods/).
+الملف بامتداد .fodg هو تنسيق ملف Apache OpenOffice Drawing لتخزين عناصر الرسم. وهو يعتمد على مواصفات تنسيق الملف الموضحة بواسطة تطوير معايير المعلومات الهيكلية (OASIS). تنسيق ملف آخر مشابه لرسومات OpenOffice هو [ODG](/ar/image/odg/) الذي يخزن عناصر الرسم كصورة متجهة. يمكن فتح ملفات FODG باستخدام OpenOffice وكذلك LibreOffice. تشمل تنسيقات الملفات الأخرى التي يدعمها OpenOffice ، على سبيل المثال ، [ODT](/ar/word-processing/odt/) و ODF و [ODP](/ar/presentation/odp/) و [ODS](/ar/spreadsheet/ods/).
 
 ## تنسيق ملف FODG
 
