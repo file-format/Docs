@@ -41,8 +41,8 @@
 * Microsoft Word [DOC](/el/word-processing/doc/) και [DOCX](/el/word-processing/docx/)
 * [PDF](/el/pdf/)
 * [EPUB](/el/ebook/epub/)
-* [RTF](/el/επεξεργασία κειμένου/rtf/)
-* [TXT](/el/επεξεργασία κειμένου/txt/)
+* [RTF](/el/word-processing/rtf/)
+* [TXT](/el/word-processing/txt/)
 
 ## βιβλιογραφικές αναφορές
 
