@@ -21,7 +21,7 @@
 
 .gcf 文件是 Steam 游戏平台使用的游戏缓存文件。它包含游戏数据，例如纹理、模型和游戏使用的其他文件。这些文件存储在用户的计算机上，用于减少更新或安装游戏时需要下载的数据量。 .gcf 文件还可用于创建游戏安装的备份或在计算机之间传输游戏。
 
-GCF 文件可以由开源 C++ 编程库 [HLLib]((https://developer.valvesoftware.com/wiki/HLLib)) 读取和写入。
+GCF 文件可以由开源 C++ 编程库 [HLLib](https://developer.valvesoftware.com/wiki/HLLib) 读取和写入。
 
 ## GCF 文件格式
 

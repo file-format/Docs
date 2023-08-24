@@ -58,7 +58,7 @@ L'en-tête commence par un mot magique de 4 octets **!BDN** représenté par des
 |bidNextP (Unicode : 8 octets ; ANSI : 4 octets)|Page suivante BID. Les pages ont un compteur spécial pour allouer les valeurs bidIndex. La valeur de bidIndex pour les BID pour les pages est allouée à partir de ce compteur.
 |bidNextB (4 octets ANSI uniquement) : |Prochain BID. Cette valeur est le compteur monotone qui indique le BID à attribuer pour le prochain bloc alloué. Les valeurs BID avancent par incréments de 4. Pour plus de détails, voir la section 2.2.2.2.
 |dwUnique (4 bytes)|Il s'agit d'une valeur croissante de manière monotone qui est modifiée à chaque fois que la structure HEADER du fichier PST est modifiée. La fonction de cette valeur est de fournir une valeur unique et de s'assurer que les CRC HEADER sont différents après chaque modification d'en-tête.
-|rgnid[](128 octets)|Un tableau fixe de 32 NID, chacun correspondant à l'un des 32 NID_TYPE possibles (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE,NID_TYPE_ASSOC_MESSAGE)
+|rgnid[] (128 octets)|Un tableau fixe de 32 NID, chacun correspondant à l'un des 32 NID_TYPE possibles (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE,NID_TYPE_ASSOC_MESSAGE)
 |qwUnused (8 bytes)|Espace inutilisé ; DOIT être mis à zéro. Format de fichier Unicode PST uniquement.
 |root (Unicode : 72 octets ; ANSI : 40 octets)|Une structure ROOT (section 2.2.2.5).
 |dwAlign (4 bytes)|Octets d'alignement inutilisés ; DOIT être mis à zéro. Format de fichier Unicode PST uniquement.
