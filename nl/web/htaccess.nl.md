@@ -20,7 +20,7 @@
 
 Een HTACCESS-bestand is een Apache-configuratiebestand dat een mechanisme biedt om configuratiewijzigingen voor verschillende mappen/directories van een website toe te staan. Het bevat configuratierichtlijnen die van toepassing zijn op de directory en subdirectories.
 
-Een HTACCESS-bestand voert een aantal controles uit, zoals het definiëren van de indexpagina van een website, het weergeven van de 404 (Page Not Found)-foutpagina, het uitvoeren van de 301- of 302-paginaomleidingen, het blokkeren van toegang vanaf een specifiek IP-adres of andere websites. Het gebruik van .htaccess-bestanden vertraagt dus de algehele prestatie van uw Apache [HTTP](/nl/web/http/)-server.
+Een HTACCESS-bestand voert een aantal controles uit, zoals het definiëren van de indexpagina van een website, het weergeven van de 404 (Page Not Found)-foutpagina, het uitvoeren van de 301- of 302-paginaomleidingen, het blokkeren van toegang vanaf een specifiek IP-adres of andere websites. Het gebruik van .htaccess-bestanden vertraagt dus de algehele prestatie van uw Apache HTTP-server.
 
 ## HTACCESS-bestandsindeling
 

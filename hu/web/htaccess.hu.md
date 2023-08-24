@@ -20,7 +20,7 @@
 
 A HTACCESS fájl egy Apache konfigurációs fájl, amely lehetővé teszi a konfiguráció módosítását a webhelyek különböző mappáiban/könyvtáraiban. Konfigurációs direktívákat tartalmaz, amelyek a címtárra és az alkönyvtárra vonatkoznak.
 
-A HTACCESS fájl számos ellenőrzést végez, például meghatározza a webhely indexoldalát, felsorolja a 404-es (Oldal nem található) hibaoldalt, végrehajtja a 301-es vagy 302-es oldalátirányítást, blokkolja a hozzáférést egy adott IP-címről vagy más webhelyekről. A .htaccess fájlok használata tehát lelassítja az Apache [HTTP](/hu/web/http/) szerver általános teljesítményét.
+A HTACCESS fájl számos ellenőrzést végez, például meghatározza a webhely indexoldalát, felsorolja a 404-es (Oldal nem található) hibaoldalt, végrehajtja a 301-es vagy 302-es oldalátirányítást, blokkolja a hozzáférést egy adott IP-címről vagy más webhelyekről. A .htaccess fájlok használata tehát lelassítja az Apache HTTP szerver általános teljesítményét.
 
 ## HTACCESS fájlformátum
 

@@ -20,7 +20,7 @@
 
 File HTACCESS adalah file konfigurasi Apache yang menyediakan mekanisme untuk mengizinkan perubahan konfigurasi untuk berbagai folder/direktori situs web. Ini termasuk arahan konfigurasi yang berlaku untuk direktori dan sub-direktori.
 
-File HTACCESS melakukan sejumlah pemeriksaan seperti menentukan halaman indeks situs web, mencantumkan halaman kesalahan 404 (Halaman Tidak Ditemukan), melakukan pengalihan halaman 301 atau 302, memblokir akses dari alamat IP tertentu atau situs web lain. Oleh karena itu, penggunaan file .htaccess memperlambat kinerja keseluruhan server [HTTP](/id/web/http/) Apache Anda.
+File HTACCESS melakukan sejumlah pemeriksaan seperti menentukan halaman indeks situs web, mencantumkan halaman kesalahan 404 (Halaman Tidak Ditemukan), melakukan pengalihan halaman 301 atau 302, memblokir akses dari alamat IP tertentu atau situs web lain. Oleh karena itu, penggunaan file .htaccess memperlambat kinerja keseluruhan server HTTP Apache Anda.
 
 ## Format File HTACCESS
 

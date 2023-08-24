@@ -20,7 +20,7 @@
 
 Tệp HTACCESS là tệp cấu hình Apache cung cấp cơ chế cho phép thay đổi cấu hình cho các thư mục/thư mục khác nhau của trang web. Nó bao gồm các chỉ thị cấu hình có thể áp dụng cho thư mục và thư mục con.
 
-Tệp HTACCESS thực hiện một số kiểm tra như xác định trang chỉ mục của trang web, liệt kê trang lỗi 404 (Không tìm thấy trang), thực hiện chuyển hướng trang 301 hoặc 302, chặn truy cập từ một địa chỉ IP cụ thể hoặc các trang web khác. Do đó, việc sử dụng các tệp .htaccess sẽ làm chậm hiệu suất tổng thể của máy chủ Apache [HTTP](/vi/web/http/).
+Tệp HTACCESS thực hiện một số kiểm tra như xác định trang chỉ mục của trang web, liệt kê trang lỗi 404 (Không tìm thấy trang), thực hiện chuyển hướng trang 301 hoặc 302, chặn truy cập từ một địa chỉ IP cụ thể hoặc các trang web khác. Do đó, việc sử dụng các tệp .htaccess sẽ làm chậm hiệu suất tổng thể của máy chủ Apache HTTP.
 
 ## Định dạng tệp HTACCESS
 

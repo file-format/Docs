@@ -20,7 +20,7 @@
 
 Un fișier HTACCESS este un fișier de configurare Apache care oferă un mecanism pentru a permite modificări de configurare pentru diferite foldere/directoare ale unui site web. Acesta include directive de configurare care sunt aplicabile directorului și subdirectoarelor.
 
-Un fișier HTACCESS efectuează o serie de verificări, cum ar fi definirea paginii de index a unui site web, listarea paginii de eroare 404 (Pagina nu a fost găsită), efectuarea redirecționărilor de pagini 301 sau 302, blocarea accesului de la o anumită adresă IP sau alte site-uri web. Prin urmare, utilizarea fișierelor .htaccess încetinește performanța generală a serverului tău Apache [HTTP](/ro/web/http/).
+Un fișier HTACCESS efectuează o serie de verificări, cum ar fi definirea paginii de index a unui site web, listarea paginii de eroare 404 (Pagina nu a fost găsită), efectuarea redirecționărilor de pagini 301 sau 302, blocarea accesului de la o anumită adresă IP sau alte site-uri web. Prin urmare, utilizarea fișierelor .htaccess încetinește performanța generală a serverului tău Apache HTTP.
 
 ## Format de fișier HTACCESS
 

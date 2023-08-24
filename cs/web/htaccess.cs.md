@@ -20,7 +20,7 @@
 
 Soubor HTACCESS je konfigurační soubor Apache, který poskytuje mechanismus umožňující změny konfigurace pro různé složky/adresáře webu. Zahrnuje konfigurační direktivy, které jsou použitelné pro adresář a podadresáře.
 
-Soubor HTACCESS provádí řadu kontrol, jako je definování indexové stránky webu, výpis chybové stránky 404 (Stránka nenalezena), přesměrování stránky 301 nebo 302, blokování přístupu z konkrétní IP adresy nebo jiných webů. Použití souborů .htaccess tak zpomaluje celkový výkon vašeho Apache [HTTP](/cs/web/http/) serveru.
+Soubor HTACCESS provádí řadu kontrol, jako je definování indexové stránky webu, výpis chybové stránky 404 (Stránka nenalezena), přesměrování stránky 301 nebo 302, blokování přístupu z konkrétní IP adresy nebo jiných webů. Použití souborů .htaccess tak zpomaluje celkový výkon vašeho Apache HTTP serveru.
 
 ## Formát souboru HTACCESS
 

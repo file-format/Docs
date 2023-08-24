@@ -20,7 +20,7 @@
 
 HTACCESS dosyası, bir web sitesinin farklı klasörleri/dizinleri için yapılandırma değişikliklerine izin veren bir mekanizma sağlayan bir Apache yapılandırma dosyasıdır. Dizin ve alt dizinler için geçerli olan yapılandırma yönergelerini içerir.
 
-Bir HTACCESS dosyası, bir web sitesinin dizin sayfasını tanımlama, 404 (Sayfa Bulunamadı) hata sayfasını listeleme, 301 veya 302 sayfa yönlendirmelerini gerçekleştirme, belirli bir IP adresinden veya diğer web sitelerinden erişimi engelleme gibi bir dizi kontrol gerçekleştirir. .htaccess dosyalarının kullanımı, bu nedenle, Apache [HTTP](/tr/web/http/) sunucunuzun genel performansını yavaşlatır.
+Bir HTACCESS dosyası, bir web sitesinin dizin sayfasını tanımlama, 404 (Sayfa Bulunamadı) hata sayfasını listeleme, 301 veya 302 sayfa yönlendirmelerini gerçekleştirme, belirli bir IP adresinden veya diğer web sitelerinden erişimi engelleme gibi bir dizi kontrol gerçekleştirir. .htaccess dosyalarının kullanımı, bu nedenle, Apache HTTP sunucunuzun genel performansını yavaşlatır.
 
 ## HTACCESS Dosya Biçimi
 
