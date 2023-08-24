@@ -18,7 +18,7 @@
 
 ## ¿Qué es un archivo PCX?
 
-Un archivo PCX, un archivo Picture Exchange, es un formato de archivo de imagen de trama que se usó como formato de archivo nativo para la aplicación PC Paintbrush. Fue desarrollado por ZSoft Corporation, EE. UU. para plataformas DOS y Windows y fue adoptado como el principal formato de archivo de imágenes antes de la llegada de [BMP](/es/image/bmp/), [JPEG](/es/image/jpeg/) y [ PNG](/es/imagen/png/) formatos de archivo. Los archivos PCX tienen un tamaño más pequeño ya que se comprimen con la codificación RLE. Se utiliza en el archivo de varias páginas [DCX](/es/image/dcx/) que se utiliza principalmente para crear archivos de fax digital.
+Un archivo PCX, un archivo Picture Exchange, es un formato de archivo de imagen de trama que se usó como formato de archivo nativo para la aplicación PC Paintbrush. Fue desarrollado por ZSoft Corporation, EE. UU. para plataformas DOS y Windows y fue adoptado como el principal formato de archivo de imágenes antes de la llegada de [BMP](/es/image/bmp/), [JPEG](/es/image/jpeg/) y [ PNG](/es/image/png/) formatos de archivo. Los archivos PCX tienen un tamaño más pequeño ya que se comprimen con la codificación RLE. Se utiliza en el archivo de varias páginas [DCX](/es/image/dcx/) que se utiliza principalmente para crear archivos de fax digital.
 
 ## Formato de archivo PCX
 
