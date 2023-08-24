@@ -41,7 +41,7 @@ USDZ-Pakete erfordern das Layout der Dateien innerhalb des Pakets, dass die Date
 ## Herunterladen der USDZ-Datei
 Da die usdz-Dateien mit anderen hochwertigen Bildern und usd-Dateien gepackt sind, können sie mehr Festplattenspeicher belegen. Hier finden Sie eine einfache und kleinere USDZ-Beispieldatei zum Download:
 
-- [Muster.usdz](../muster.usdz)
+- [Sample.usdz](../sample.usdz)
 
 ## Verweise
 

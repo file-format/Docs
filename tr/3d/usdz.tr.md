@@ -41,7 +41,7 @@ USDZ paketleri, paket içindeki dosyaların düzenini gerektirir; her dosya içi
 ## USDZ dosyası indirme
 Usdz dosyaları diğer yüksek kaliteli görüntüler ve usd dosyalarıyla dolu olduğundan, daha fazla disk alanı kaplayabilirler. Burada indirmek için basit ve daha küçük bir USDZ örnek dosyası bulabilirsiniz:
 
-- [Örnek.usdz](../sample.usdz)
+- [Sample.usdz](../sample.usdz)
 
 ## Referanslar
 
