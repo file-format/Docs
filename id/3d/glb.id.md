@@ -77,5 +77,5 @@ Potongan ini berisi muatan biner untuk geometri, bingkai kunci animasi, kulit, d
 
 ## Referensi ##
 
-* [Spesifikasi Format File GLB - Khronos](/id/3D/GLTF/)
+* [Spesifikasi Format File GLB - Khronos](/id/3d/gltf/)
 

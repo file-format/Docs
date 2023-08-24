@@ -77,5 +77,5 @@ Questo pezzo contiene il carico utile binario per geometria, fotogrammi chiave d
 
 ## Riferimenti ##
 
-* [Specifiche del formato file GLB - Khronos](/it/3D/GLTF/)
+* [Specifiche del formato file GLB - Khronos](/it/3d/gltf/)
 

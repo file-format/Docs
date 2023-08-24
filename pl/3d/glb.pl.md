@@ -77,5 +77,5 @@ Ten fragment zawiera binarny ładunek dla geometrii, klatek kluczowych animacji,
 
 ## Bibliografia ##
 
-* [Specyfikacje formatu plików GLB — Khronos](/pl/3D/GLTF/)
+* [Specyfikacje formatu plików GLB — Khronos](/pl/3d/gltf/)
 

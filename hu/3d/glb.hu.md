@@ -77,5 +77,5 @@ Ez a darab tartalmazza a geometria, az animációs kulcskockák, a felszínek é
 
 ## Referenciák ##
 
-* [GLB fájlformátum specifikációi – Khronos](/hu/3D/GLTF/)
+* [GLB fájlformátum specifikációi – Khronos](/hu/3d/gltf/)
 

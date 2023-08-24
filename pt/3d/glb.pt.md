@@ -77,5 +77,5 @@ Este pedaço contém a carga binária para geometria, quadros-chave de animaçã
 
 ## Referências ##
 
-* [Especificações de formato de arquivo GLB - Khronos](/pt/3D/GLTF/)
+* [Especificações de formato de arquivo GLB - Khronos](/pt/3d/gltf/)
 

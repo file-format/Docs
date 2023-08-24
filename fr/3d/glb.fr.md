@@ -77,5 +77,5 @@ Ce bloc contient la charge utile binaire pour la géométrie, les images clés d
 
 ## Références ##
 
-* [Spécifications du format de fichier GLB - Khronos](/fr/3D/GLTF/)
+* [Spécifications du format de fichier GLB - Khronos](/fr/3d/gltf/)
 

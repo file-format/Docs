@@ -77,4 +77,4 @@ This chunk contains the binary payload for geometry, animation key frames, skins
 
 ## References ##
 
-* [GLB File Format Specifications - Khronos](/3D/GLTF/)
+* [GLB File Format Specifications - Khronos](/3d/gltf/)
