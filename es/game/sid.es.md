@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo SID?
 
-Un archivo SID es un archivo de copia de seguridad del juego creado por la aplicación Steam que se usa para descargar y administrar **videojuegos de Valve** en el sistema operativo Windows. Almacena datos de juegos en formato comprimido y se pueden usar juegos de copia de seguridad en medios de almacenamiento como DVD y dispositivos de almacenamiento USB. El archivo SID se crea con la utilidad de copia de seguridad de Steam y es similar al formato de archivo [CSD](/es/juego/csd/) para almacenar la copia de seguridad del juego.
+Un archivo SID es un archivo de copia de seguridad del juego creado por la aplicación Steam que se usa para descargar y administrar **videojuegos de Valve** en el sistema operativo Windows. Almacena datos de juegos en formato comprimido y se pueden usar juegos de copia de seguridad en medios de almacenamiento como DVD y dispositivos de almacenamiento USB. El archivo SID se crea con la utilidad de copia de seguridad de Steam y es similar al formato de archivo [CSD](/es/game/csd/) para almacenar la copia de seguridad del juego.
 
 ## Formato de archivo SID: más información
 
