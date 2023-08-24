@@ -33,7 +33,7 @@ Autodesk **ekstensi file IPT** digunakan untuk menyimpan file yang terdiri dari 
 ## Pengunduhan file IPT
 Agak sulit untuk menemukan dan mengunduh file IPT model 3d. Oleh karena itu, Anda dapat mengunduh contoh file IPT dari sini:
 
-- [Sampel.ipt](../sample.ipt)
+- [Sample.ipt](../sample.ipt)
 
 ## Referensi
 

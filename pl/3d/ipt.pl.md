@@ -33,7 +33,7 @@ Autodesk **Rozszerzenie pliku IPT** używane do zapisywania pliku zawierającego
 ## Pobieranie pliku IPT
 Trochę trudno jest znaleźć i pobrać plik IPT modelu 3D. Dlatego możesz pobrać przykładowy plik IPT stąd:
 
-- [Próbka.ipt](../próbka.ipt)
+- [Sample.ipt](../sample.ipt)
 
 ## Bibliografia
 

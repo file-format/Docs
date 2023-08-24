@@ -33,7 +33,7 @@ Autodesk 어셈블리(.iam) 파일과 함께 사용됩니다. IPT 파일은 ACIS
 ## IPT 파일 다운로드
 3d 모델의 IPT 파일을 찾아서 다운로드하는 것은 약간 어렵습니다. 따라서 여기에서 샘플 IPT 파일을 다운로드할 수 있습니다.
 
-- [샘플.ipt](../sample.ipt)
+- [Sample.ipt](../sample.ipt)
 
 ## 참고문헌
 

@@ -33,7 +33,7 @@ Une **extension de fichier IPT** d'Autodesk utilisée pour enregistrer un fichie
 ## Téléchargement du fichier IPT
 Il est un peu difficile de trouver et de télécharger le fichier IPT d'un modèle 3D. Par conséquent, vous pouvez télécharger un exemple de fichier IPT à partir d'ici :
 
-- [Échantillon.ipt](../échantillon.ipt)
+- [Sample.ipt](../sample.ipt)
 
 ## Références
 
