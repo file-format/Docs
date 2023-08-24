@@ -70,7 +70,7 @@ Der nächste Abschnitt legt die Anforderungen fest. Diese besteht aus einer Reih
 ## MA-Datei herunterladen
 Es ist etwas schwierig, die MA-Datei eines 3D-Modells zu finden und herunterzuladen. Daher können Sie hier eine Beispiel-MA-Datei herunterladen:
 
-- [Muster.ma](../Muster.ma)
+- [Sample.ma](../sample.ma)
 
 
 ## Verweise

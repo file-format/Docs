@@ -70,7 +70,7 @@ Další část specifikuje požadavky. Skládá se z řady požadovaných přík
 ## Stáhnout soubor MA
 Je trochu těžké najít a stáhnout MA soubor 3D modelu. Vzorový soubor MA si proto můžete stáhnout zde:
 
-- [Ukázka.ma](../vzor.ma)
+- [Sample.ma](../sample.ma)
 
 
 ## Reference

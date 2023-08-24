@@ -70,7 +70,7 @@ In de volgende sectie worden de vereisten gespecificeerd. Dit bestaat uit een re
 ## MA-bestand downloaden
 Het is een beetje moeilijk om het MA-bestand van een 3D-model te vinden en te downloaden. Daarom kunt u hier een voorbeeld MA-bestand downloaden:
 
-- [Voorbeeld.ma](../voorbeeld.ma)
+- [Sample.ma](../sample.ma)
 
 
 ## Referenties

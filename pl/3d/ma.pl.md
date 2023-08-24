@@ -70,7 +70,7 @@ Następna sekcja określa wymagania. Składa się z serii wymaganych poleceń. T
 ## Pobieranie pliku MA
 Trochę trudno jest znaleźć i pobrać plik MA modelu 3D. Dlatego możesz pobrać przykładowy plik MA stąd:
 
-- [Próbka.ma](../próbka.ma)
+- [Sample.ma](../sample.ma)
 
 
 ## Bibliografia

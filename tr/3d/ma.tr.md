@@ -70,7 +70,7 @@ Bir sonraki bölüm gereksinimleri belirtir. Bu, bir dizi gereksinim komutundan 
 ## MA dosyası indir
 Bir 3d modelin MA dosyasını bulup indirmek biraz zor. Bu nedenle, örnek bir MA dosyasını buradan indirebilirsiniz:
 
-- [Örnek.ma](../örnek.ma)
+- [Sample.ma](../sample.ma)
 
 
 ## Referanslar

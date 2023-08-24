@@ -70,7 +70,7 @@ A próxima seção especifica os requisitos. Isso consiste em uma série de coma
 ## Download do arquivo MA
 É um pouco difícil encontrar e baixar o arquivo MA de um modelo 3d. Portanto, você pode baixar um arquivo MA de amostra aqui:
 
-- [Amostra.ma](../amostra.ma)
+- [Sample.ma](../sample.ma)
 
 
 ## Referências

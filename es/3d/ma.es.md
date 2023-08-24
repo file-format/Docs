@@ -70,7 +70,7 @@ La siguiente sección especifica los requisitos. Este consiste en una serie de c
 ## Descarga de archivos MA
 Es un poco difícil encontrar y descargar el archivo MA de un modelo 3D. Por lo tanto, puede descargar un archivo MA de muestra desde aquí:
 
-- [Muestra.ma](../muestra.ma)
+- [Sample.ma](../sample.ma)
 
 
 ## Referencias
