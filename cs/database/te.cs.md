@@ -27,11 +27,11 @@ Interní formát souborů TE souborů není znám. Společnost Textease poskytla
 ## Typy polí TE
 
 * Text
-* Číslo
-* [Obrázek](/cs/obrázek/)
-* Barva
-* Datum (DD/MM/RRRR)
-* Měna
+* Number
+* [Image](/cs/image/)
+* Colour
+* Date (DD/MM/YYYY)
+* Currency
 
 ## Reference ##
 

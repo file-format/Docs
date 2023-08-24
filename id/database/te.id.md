@@ -26,12 +26,12 @@ Format file internal file TE tidak diketahui. Textease menyediakan lisensi berba
 
 ## Jenis Lapangan TE
 
-* Teks
-* Nomor
-* [Gambar](/id/gambar/)
-* Warna
-* Tanggal (DD/MM/YYYY)
-* Mata uang
+* Text
+* Number
+* [Image](/id/image/)
+* Colour
+* Date (DD/MM/YYYY)
+* Currency
 
 ## Referensi ##
 

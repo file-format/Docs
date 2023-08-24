@@ -26,12 +26,12 @@ Se desconoce el formato de archivo interno de los archivos TE. Textease proporci
 
 ## Tipos de campo TE
 
-* Texto
-* Número
-* [Imagen](/es/imagen/)
-* Color
-* Fecha (DD/MM/AAAA)
-* Divisa
+* Text
+* Number
+* [Image](/es/image/)
+* Colour
+* Date (DD/MM/YYYY)
+* Currency
 
 ## Referencias ##
 

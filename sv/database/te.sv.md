@@ -27,11 +27,11 @@ Det interna filformatet för TE-filer är okänt. Textease tillhandahöll enstak
 ## TE Fälttyper
 
 * Text
-* Siffra
-* [Bild](/sv/bild/)
-* Färg
-* Datum (DD/MM/ÅÅÅÅ)
-* Valuta
+* Number
+* [Image](/sv/image/)
+* Colour
+* Date (DD/MM/YYYY)
+* Currency
 
 ## Referenser ##
 

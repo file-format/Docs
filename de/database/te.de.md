@@ -26,12 +26,12 @@ Das interne Dateiformat von TE-Dateien ist unbekannt. Textease stellte sowohl Ei
 
 ## TE-Feldtypen
 
-* Texte
-* Nummer
-* [Bild](/de/bild/)
-* Farbe
-* Datum (TT/MM/JJJJ)
-* Währung
+* Text
+* Number
+* [Image](/de/image/)
+* Colour
+* Date (DD/MM/YYYY)
+* Currency
 
 ## Verweise ##
 

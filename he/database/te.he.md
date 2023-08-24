@@ -26,12 +26,12 @@
 
 ## סוגי שדות TE
 
-* טקסט
-* מספר
-* [תמונה](/he/תמונה/)
-* צבע
-* תאריך (DD/MM/YYYY)
-* מטבע
+* Text
+* Number
+* [Image](/he/image/)
+* Colour
+* Date (DD/MM/YYYY)
+* Currency
 
 ## הפניות ##
 

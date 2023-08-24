@@ -26,12 +26,12 @@ Tệp TE là tệp cơ sở dữ liệu được tạo bằng ứng dụng giáo
 
 ## Các loại trường TE
 
-* Chữ
-* Con số
-* [Hình ảnh](/vi/hình ảnh/)
-* Màu sắc
-* Ngày (DD/MM/YYYY)
-* Tiền tệ
+* Text
+* Number
+* [Image](/vi/image/)
+* Colour
+* Date (DD/MM/YYYY)
+* Currency
 
 ## Người giới thiệu ##
 
