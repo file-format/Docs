@@ -19,7 +19,7 @@
 
 ## PML dosyası nedir?
 
-Palm Inc, Palm İşaretleme Dili Dosyası anlamına gelen PML dosya formatını tanıttı. Amacı, tablet bilgisayara benzer bir e-Kitap okuma cihazı olan eOkuyucu için dokümanlar oluşturmaktır. PML dosyası, Palm Aygıtında görüntülenmesi için bir [PDB](/tr/ebook/pdb/) dosyasına (çeşitli veri dosyalarını içerir) yerleşimi verir.
+Palm Inc, Palm İşaretleme Dili Dosyası anlamına gelen PML dosya formatını tanıttı. Amacı, tablet bilgisayara benzer bir e-Kitap okuma cihazı olan eOkuyucu için dokümanlar oluşturmaktır. PML dosyası, Palm Aygıtında görüntülenmesi için bir [PDB](/tr/programming/pdb/) dosyasına (çeşitli veri dosyalarını içerir) yerleşimi verir.
 
 ## PML Dosyalarının teknik detayları
 

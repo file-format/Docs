@@ -19,7 +19,7 @@
 
 ## Tệp PML là gì?
 
-Palm Inc đã giới thiệu định dạng tệp PML viết tắt của Palm Markup Language File. Mục đích của nó là tạo tài liệu cho eReader, một thiết bị đọc sách điện tử tương tự như máy tính bảng. Tệp PML cung cấp bố cục cho tệp [PDB](/vi/ebook/pdb/) (chứa nhiều tệp dữ liệu khác nhau) để hiển thị trên Thiết bị Palm.
+Palm Inc đã giới thiệu định dạng tệp PML viết tắt của Palm Markup Language File. Mục đích của nó là tạo tài liệu cho eReader, một thiết bị đọc sách điện tử tương tự như máy tính bảng. Tệp PML cung cấp bố cục cho tệp [PDB](/vi/programming/pdb/) (chứa nhiều tệp dữ liệu khác nhau) để hiển thị trên Thiết bị Palm.
 
 ## Chi tiết kỹ thuật của Tệp PML
 

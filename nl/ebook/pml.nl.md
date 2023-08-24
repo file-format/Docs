@@ -19,7 +19,7 @@
 
 ## Wat is een PML-bestand?
 
-Palm Inc introduceerde het PML-bestandsformaat dat staat voor Palm Markup Language File. Het doel is om documenten te maken voor eReader, een eBook-leesapparaat vergelijkbaar met de tabletcomputer. Het PML-bestand geeft de lay-out aan een [PDB](/nl/ebook/pdb/)-bestand (met verschillende gegevensbestanden) om weer te geven op een Palm-apparaat.
+Palm Inc introduceerde het PML-bestandsformaat dat staat voor Palm Markup Language File. Het doel is om documenten te maken voor eReader, een eBook-leesapparaat vergelijkbaar met de tabletcomputer. Het PML-bestand geeft de lay-out aan een [PDB](/nl/programming/pdb/)-bestand (met verschillende gegevensbestanden) om weer te geven op een Palm-apparaat.
 
 ## Technische details van PML-bestanden
 

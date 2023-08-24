@@ -19,7 +19,7 @@
 
 ## 什么是一 .pml 文件？
 
-Palm Inc 推出了代表 Palm Markup Language File 的 PML 文件格式。它的目的是为电子阅读器创建文档，电子阅读器是一种类似于平板电脑的电子书阅读设备。 PML 文件将布局提供给 [PDB](/zh/ebook/pdb/) 文件（包含各种数据文件）以在 Palm 设备上显示。
+Palm Inc 推出了代表 Palm Markup Language File 的 PML 文件格式。它的目的是为电子阅读器创建文档，电子阅读器是一种类似于平板电脑的电子书阅读设备。 PML 文件将布局提供给 [PDB](/zh/programming/pdb/) 文件（包含各种数据文件）以在 Palm 设备上显示。
 
 ## PML 文件的技术细节
 

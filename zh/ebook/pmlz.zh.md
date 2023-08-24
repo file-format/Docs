@@ -19,7 +19,7 @@
 
 ## 什么是一 .pmlz 文件？
 
-Palm Inc 推出了一种电子书文件类型；称为 PMLZ 文件格式，它是 [PML](/zh/ebook/pml/) 文件格式的压缩版本，这就是为什么带有 .pmlz 扩展名的文件被称为 **Zipped Palm 标记语言文件**。 PMLZ 文件只是一个文件的 zip 容器，它编译 [PDB](/zh/ebook/pdb/) 文件以创建 **eReader**（称为电子书阅读设备，如平板电脑）的文档。 PML 文件将布局提供给 PDB 文件（包含各种数据文件）以显示在 Palm 设备上。而 PDB 文件是一个数据库文件，供各种应用程序使用，包括 Quicken、Pegasus、Microsoft Visual Studio 和 Palm Pilot。简而言之，PMLZ 是 PML 和 PDB 文件的压缩容器。
+Palm Inc 推出了一种电子书文件类型；称为 PMLZ 文件格式，它是 [PML](/zh/ebook/pml/) 文件格式的压缩版本，这就是为什么带有 .pmlz 扩展名的文件被称为 **Zipped Palm 标记语言文件**。 PMLZ 文件只是一个文件的 zip 容器，它编译 [PDB](/zh/programming/pdb/) 文件以创建 **eReader**（称为电子书阅读设备，如平板电脑）的文档。 PML 文件将布局提供给 PDB 文件（包含各种数据文件）以显示在 Palm 设备上。而 PDB 文件是一个数据库文件，供各种应用程序使用，包括 Quicken、Pegasus、Microsoft Visual Studio 和 Palm Pilot。简而言之，PMLZ 是 PML 和 PDB 文件的压缩容器。
 
 
 ## 掌上标记语言知识

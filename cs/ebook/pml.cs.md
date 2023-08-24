@@ -19,7 +19,7 @@
 
 ## Co je soubor PML?
 
-Palm Inc představil souborový formát PML, což je zkratka pro Palm Markup Language File. Jeho účelem je vytvářet dokumenty pro eReader, což je zařízení pro čtení elektronických knih podobné tabletovému počítači. Soubor PML poskytuje rozložení souboru [PDB](/cs/ebook/pdb/) (obsahujícího různé datové soubory) k zobrazení na zařízení Palm.
+Palm Inc představil souborový formát PML, což je zkratka pro Palm Markup Language File. Jeho účelem je vytvářet dokumenty pro eReader, což je zařízení pro čtení elektronických knih podobné tabletovému počítači. Soubor PML poskytuje rozložení souboru [PDB](/cs/programming/pdb/) (obsahujícího různé datové soubory) k zobrazení na zařízení Palm.
 
 ## Technické detaily souborů PML
 

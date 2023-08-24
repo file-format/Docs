@@ -19,7 +19,7 @@
 
 ## Mi az a PML fájl?
 
-A Palm Inc bevezette a PML fájlformátumot, amely a Palm Markup Language File rövidítése. Célja, hogy dokumentumokat hozzon létre az eReaderhez, amely egy, a táblagéphez hasonló e-könyv-olvasó eszköz. A PML-fájl egy [PDB](/hu/ebook/pdb/) fájl elrendezését adja meg (különböző adatfájlokat tartalmaz), amelyet a Palm Devicen megjeleníthet.
+A Palm Inc bevezette a PML fájlformátumot, amely a Palm Markup Language File rövidítése. Célja, hogy dokumentumokat hozzon létre az eReaderhez, amely egy, a táblagéphez hasonló e-könyv-olvasó eszköz. A PML-fájl egy [PDB](/hu/programming/pdb/) fájl elrendezését adja meg (különböző adatfájlokat tartalmaz), amelyet a Palm Devicen megjeleníthet.
 
 ## A PML-fájlok technikai részletei
 

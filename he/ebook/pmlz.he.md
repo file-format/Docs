@@ -19,7 +19,7 @@
 
 ## מהו קובץ PMLZ?
 
-Palm Inc הציגה סוג קובץ eBook; ידוע כפורמט הקובץ PMLZ אשר גרסה דחוסה של פורמט הקובץ [PML](/he/ebook/pml/) ולכן הקבצים עם סיומות .pmlz ידועים כ-**Zipped Palm Markup Language File**. קובץ ה-PMLZ הוא רק מיכל zip של קובץ שמרכיב קבצי [PDB](/he/ebook/pdb/) כדי ליצור מסמכים עבור **eReader** (הידוע כמכשיר לקריאת ספרים אלקטרוניים כגון מחשב לוח). קובץ PML נותן את הפריסה לקובץ PDB (המכיל קבצי נתונים שונים) להצגה ב-Palm Device. בעוד שקובץ PDB הוא קובץ מסד נתונים, המשמש יישומים שונים, כולל Quicken, Pegasus, Microsoft Visual Studio ו-Palm Pilot. בקיצור, PMLZ הוא מיכל דחוס של קבצי PML ו-PDB.
+Palm Inc הציגה סוג קובץ eBook; ידוע כפורמט הקובץ PMLZ אשר גרסה דחוסה של פורמט הקובץ [PML](/he/ebook/pml/) ולכן הקבצים עם סיומות .pmlz ידועים כ-**Zipped Palm Markup Language File**. קובץ ה-PMLZ הוא רק מיכל zip של קובץ שמרכיב קבצי [PDB](/he/programming/pdb/) כדי ליצור מסמכים עבור **eReader** (הידוע כמכשיר לקריאת ספרים אלקטרוניים כגון מחשב לוח). קובץ PML נותן את הפריסה לקובץ PDB (המכיל קבצי נתונים שונים) להצגה ב-Palm Device. בעוד שקובץ PDB הוא קובץ מסד נתונים, המשמש יישומים שונים, כולל Quicken, Pegasus, Microsoft Visual Studio ו-Palm Pilot. בקיצור, PMLZ הוא מיכל דחוס של קבצי PML ו-PDB.
 
 
 ## ידע על Palm Markup Language

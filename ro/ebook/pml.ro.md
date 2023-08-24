@@ -19,7 +19,7 @@
 
 ## Ce este un fișier PML?
 
-Palm Inc a introdus formatul de fișier PML, care înseamnă Palm Markup Language File. Scopul său este de a crea documente pentru eReader, care este un dispozitiv de citire a cărților electronice similar cu tableta. Fișierul PML oferă aspectul unui fișier [PDB](/ro/ebook/pdb/) (conținând diferite fișiere de date) pentru a fi afișat pe un dispozitiv Palm.
+Palm Inc a introdus formatul de fișier PML, care înseamnă Palm Markup Language File. Scopul său este de a crea documente pentru eReader, care este un dispozitiv de citire a cărților electronice similar cu tableta. Fișierul PML oferă aspectul unui fișier [PDB](/ro/programming/pdb/) (conținând diferite fișiere de date) pentru a fi afișat pe un dispozitiv Palm.
 
 ## Detalii tehnice ale fișierelor PML
 

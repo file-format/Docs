@@ -19,7 +19,7 @@
 
 ## Mi az a PMLZ fájl?
 
-A Palm Inc bevezetett egy eBook fájltípust; PMLZ fájlformátumként ismert, amely a [PML](/hu/ebook/pml/) fájlformátum tömörített változata, ezért a .pmlz kiterjesztésű fájlokat **Zipped Palm Markup Language File** néven ismerik. A PMLZ-fájl csak egy olyan fájl zip-tárolója, amely [PDB](/hu/ebook/pdb/) fájlokat fordít az **eReader** (e-könyv-olvasó eszközként, például táblagépként ismert) dokumentumok létrehozására. A PML-fájl egy PDB-fájl elrendezését adja meg (különböző adatfájlokat tartalmaz), amelyet egy Palm-eszközön jelenít meg. Míg a PDB fájl egy adatbázisfájl, amelyet különféle alkalmazások használnak, beleértve a Quicken, a Pegasus, a Microsoft Visual Studio és a Palm Pilot. Röviden, a PMLZ a PML és PDB fájlok tömörített tárolója.
+A Palm Inc bevezetett egy eBook fájltípust; PMLZ fájlformátumként ismert, amely a [PML](/hu/ebook/pml/) fájlformátum tömörített változata, ezért a .pmlz kiterjesztésű fájlokat **Zipped Palm Markup Language File** néven ismerik. A PMLZ-fájl csak egy olyan fájl zip-tárolója, amely [PDB](/hu/programming/pdb/) fájlokat fordít az **eReader** (e-könyv-olvasó eszközként, például táblagépként ismert) dokumentumok létrehozására. A PML-fájl egy PDB-fájl elrendezését adja meg (különböző adatfájlokat tartalmaz), amelyet egy Palm-eszközön jelenít meg. Míg a PDB fájl egy adatbázisfájl, amelyet különféle alkalmazások használnak, beleértve a Quicken, a Pegasus, a Microsoft Visual Studio és a Palm Pilot. Röviden, a PMLZ a PML és PDB fájlok tömörített tárolója.
 
 
 ## A Palm jelölőnyelv ismerete
