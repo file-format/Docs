@@ -31,7 +31,7 @@ Soubory s příponou .epub jsou formát souboru e-knihy, který vydavatelům a s
 
 ## Formát souboru EPUB
 
-Formát souboru EPUB je archiv, který lze přejmenovat na příponu [ZIP](/cs/komprese/zip/) a jeho obsah lze zobrazit rozbalením archivu pomocí libovolného extraktoru archivu. Je to otevřený formát založený na XML a skládá se ze souborů HTML, obrázků, šablon stylů CSS a dalších prvků. Lze jej také převést do PDF, Mobi a několika dalších formátů souborů prostřednictvím řady softwarových aplikací a rozhraní API.
+Formát souboru EPUB je archiv, který lze přejmenovat na příponu [ZIP](/cs/compression/zip/) a jeho obsah lze zobrazit rozbalením archivu pomocí libovolného extraktoru archivu. Je to otevřený formát založený na XML a skládá se ze souborů HTML, obrázků, šablon stylů CSS a dalších prvků. Lze jej také převést do PDF, Mobi a několika dalších formátů souborů prostřednictvím řady softwarových aplikací a rozhraní API.
 
 {{< figure src="../epub.png" alt="Formát souboru EPUB" >}}
 

@@ -19,7 +19,7 @@
 
 ## Co je soubor LZH? ##
 
-Soubor s příponou .lzh a .lha se obvykle týká formátu souboru komprimovaného archivu. Tento formát souboru je stejný jako u jiných formátů komprese souborů, jako je [ZIP](/cs/komprese/zip/), [RAR](/cs/komprese/rar/) atd. Hlavním účelem těchto formátů souborů je zmenšit velikost formát pro snadné odesílání a také pro jejich uchování v komprimované podobě. V porovnání s jinými západními společnostmi jsou soubory LZH velmi populární v Japonsku a obvykle se používají pro kompresi dat videoher. Doplněk LZH pro Windows 7 je zabudován do japonské verze Windows 7. Společnost Microsoft poprvé vydala doplněk Microsoft Compressed (LZH) Folder Add-on pro japonskou verzi systému Windows XP. Tento formát souboru je implementován s kompresními ustanoveními a funkcemi používanými algoritmem Lempel-Ziv a Haruyasu
+Soubor s příponou .lzh a .lha se obvykle týká formátu souboru komprimovaného archivu. Tento formát souboru je stejný jako u jiných formátů komprese souborů, jako je [ZIP](/cs/compression/zip/), [RAR](/cs/compression/rar/) atd. Hlavním účelem těchto formátů souborů je zmenšit velikost formát pro snadné odesílání a také pro jejich uchování v komprimované podobě. V porovnání s jinými západními společnostmi jsou soubory LZH velmi populární v Japonsku a obvykle se používají pro kompresi dat videoher. Doplněk LZH pro Windows 7 je zabudován do japonské verze Windows 7. Společnost Microsoft poprvé vydala doplněk Microsoft Compressed (LZH) Folder Add-on pro japonskou verzi systému Windows XP. Tento formát souboru je implementován s kompresními ustanoveními a funkcemi používanými algoritmem Lempel-Ziv a Haruyasu
 
 ## Specifikace LZH ##
 

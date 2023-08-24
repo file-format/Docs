@@ -23,7 +23,7 @@ Soubor PUP je soubor opravy aktualizace systému používaný systémovým softw
 
 ## Formát souboru PUP - Další informace
 
-Soubory PUP se ukládají na disk v binárním formátu [komprimovaný](/cs/komprese/). Podrobnosti o kompresi však nejsou veřejně dostupné. Obsah souboru PUP lze extrahovat pomocí programu PS3 PUP Extractor v OS Windows. Za účelem aktualizace softwarového systému PS3 se soubor PUP nahraje a uloží do složky /PS3/UPDATE na počítači. To umožní možnosti aktualizace systému najít soubor aktualizace firmwaru a spustit jej.
+Soubory PUP se ukládají na disk v binárním formátu [komprimovaný](/cs/compression/). Podrobnosti o kompresi však nejsou veřejně dostupné. Obsah souboru PUP lze extrahovat pomocí programu PS3 PUP Extractor v OS Windows. Za účelem aktualizace softwarového systému PS3 se soubor PUP nahraje a uloží do složky /PS3/UPDATE na počítači. To umožní možnosti aktualizace systému najít soubor aktualizace firmwaru a spustit jej.
 
 ### Konvence pojmenování formátu souborů PUP
 

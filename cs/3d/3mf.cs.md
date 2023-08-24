@@ -30,7 +30,7 @@ Stávající omezení v dostupných modelových popisných formátech souborů, 
 3MF je datový formát založený na XML – lidsky čitelný komprimovaný XML – který obsahuje definice pro data související s 3D výrobou, včetně rozšiřitelnosti třetích stran pro vlastní data. Formát souboru 3MF byl navržen s ohledem na omezení a problémy, kterým čelí jiné formáty souborů 3D. To vedlo k formulaci formátu souboru 3MF, který je:
 
 * **Kompletní:** Obsahuje všechny potřebné informace o modelu, materiálu a majetku v jediném archivu
-* **Čitelné pro člověka:** Použití běžných struktur, jako je OPC, [ZIP](/cs/komprese/zip/) a XML pro usnadnění vývoje
+* **Čitelné pro člověka:** Použití běžných struktur, jako je OPC, [ZIP](/cs/compression/zip/) a XML pro usnadnění vývoje
 * **Jednoduché:** Krátká a jasná specifikace, která usnadňuje vývoj a urychluje ověřování
 * **Rozšiřitelné:** Využití jmenných prostorů XML umožňuje veřejná i soukromá rozšíření při zachování kompatibility
 * **Jednoznačně:** Jasné testy jazyka a shody zajišťují, že soubor je vždy konzistentní od digitálního po fyzický
