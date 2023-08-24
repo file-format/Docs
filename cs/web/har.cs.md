@@ -19,7 +19,7 @@
 
 ## Co je soubor HAR?
 
-Soubor se souborem .har ([HTTP](/cs/web/http/) Archive) je archivní soubor HTTP, který ukládá data relací přenášených přes mnoho prohlížečů (jako je Chrome, Safari, IE, Firefox atd.) v [JSON](/cs/web/json/) formát souboru. Data přenášená přes internet mezi serverem a klientem (v tomto případě prohlížečem uživatele) obsahují hlavičky HTTP požadavku a odpovědi, které jsou uloženy v souboru HAR. Dále obsahuje podrobné informace o údajích o výkonu webových stránek načtených v prohlížeči. Soubory HAR lze otevřít v libovolném textovém editoru, jako je Poznámkový blok na OS Microsoft Windows a TextEdit na Apple MacOS.
+Soubor se souborem .har (HTTP Archive) je archivní soubor HTTP, který ukládá data relací přenášených přes mnoho prohlížečů (jako je Chrome, Safari, IE, Firefox atd.) v [JSON](/cs/web/json/) formát souboru. Data přenášená přes internet mezi serverem a klientem (v tomto případě prohlížečem uživatele) obsahují hlavičky HTTP požadavku a odpovědi, které jsou uloženy v souboru HAR. Dále obsahuje podrobné informace o údajích o výkonu webových stránek načtených v prohlížeči. Soubory HAR lze otevřít v libovolném textovém editoru, jako je Poznámkový blok na OS Microsoft Windows a TextEdit na Apple MacOS.
 
 ## Formát souboru HAR – Další informace
 

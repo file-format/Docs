@@ -19,7 +19,7 @@
 
 ## Ce este un fișier HAR?
 
-Un fișier cu fișier .har ([HTTP](/ro/web/http/) Archive) este un fișier de arhivă HTTP care stochează datele de sesiune transferate prin mai multe browsere (cum ar fi Chrome, Safari, IE, Firefox etc.) în [JSON](/ro/web/json/) format de fișier. Datele transferate pe internet între server și client (în acest caz browserul utilizatorului) conțin anteturi HTTP de solicitare și răspuns care sunt stocate în fișierul HAR. În plus, conține informații detaliate despre datele de performanță despre paginile web încărcate în browser. Fișierele HAR pot fi deschise în orice editor de text, cum ar fi Notepad pe sistemul de operare Microsoft Windows și TextEdit pe Apple MacOS.
+Un fișier cu fișier .har (HTTP Archive) este un fișier de arhivă HTTP care stochează datele de sesiune transferate prin mai multe browsere (cum ar fi Chrome, Safari, IE, Firefox etc.) în [JSON](/ro/web/json/) format de fișier. Datele transferate pe internet între server și client (în acest caz browserul utilizatorului) conțin anteturi HTTP de solicitare și răspuns care sunt stocate în fișierul HAR. În plus, conține informații detaliate despre datele de performanță despre paginile web încărcate în browser. Fișierele HAR pot fi deschise în orice editor de text, cum ar fi Notepad pe sistemul de operare Microsoft Windows și TextEdit pe Apple MacOS.
 
 ## Format fișier HAR - Mai multe informații
 

@@ -19,7 +19,7 @@
 
 ## Mi az a HAR fájl?
 
-A .har fájl ([HTTP](/hu/web/http/) archívum) egy HTTP archív fájl, amely számos böngészőn (például Chrome, Safari, IE, Firefox stb.) keresztüli munkamenetadatokat tárol [JSON] formátumban. (/hu/web/json/) fájlformátum. A szerver és a kliens (jelen esetben a felhasználó böngészője) között az interneten átvitt adatok HTTP kérés- és válaszfejléceket tartalmaznak, amelyeket HAR fájlban tárolnak. Részletes információkat tartalmaz a böngészőbe betöltött weboldalak teljesítményadatairól. A HAR-fájlok bármely szövegszerkesztőben megnyithatók, például a Notepad Microsoft Windows operációs rendszeren és a TextEdit az Apple MacOS rendszeren.
+A .har fájl (HTTP archívum) egy HTTP archív fájl, amely számos böngészőn (például Chrome, Safari, IE, Firefox stb.) keresztüli munkamenetadatokat tárol [JSON] formátumban. (/hu/web/json/) fájlformátum. A szerver és a kliens (jelen esetben a felhasználó böngészője) között az interneten átvitt adatok HTTP kérés- és válaszfejléceket tartalmaznak, amelyeket HAR fájlban tárolnak. Részletes információkat tartalmaz a böngészőbe betöltött weboldalak teljesítményadatairól. A HAR-fájlok bármely szövegszerkesztőben megnyithatók, például a Notepad Microsoft Windows operációs rendszeren és a TextEdit az Apple MacOS rendszeren.
 
 ## HAR fájlformátum - További információ
 

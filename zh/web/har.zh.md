@@ -19,7 +19,7 @@
 
 ## 什么是一 .har 文件？
 
-带有 .har ([HTTP](/zh/web/http/) Archive) 文件的文件是一个 HTTP 存档文件，它以 [JSON] 格式存储在许多浏览器（例如 Chrome、Safari、IE、Firefox 等）上传输的会话数据(/zh/web/json/) 文件格式。服务器和客户端（在本例中为用户的浏览器）之间通过 Internet 传输的数据包含存储在 HAR 文件中的 HTTP 请求和响应标头。它还包含有关浏览器中加载的网页的性能数据的详细信息。 HAR 文件可以在任何文本编辑器中打开，例如 Microsoft Windows 操作系统上的记事本和 Apple MacOS 上的 TextEdit。
+带有 .har (HTTP Archive) 文件的文件是一个 HTTP 存档文件，它以 [JSON] 格式存储在许多浏览器（例如 Chrome、Safari、IE、Firefox 等）上传输的会话数据(/zh/web/json/) 文件格式。服务器和客户端（在本例中为用户的浏览器）之间通过 Internet 传输的数据包含存储在 HAR 文件中的 HTTP 请求和响应标头。它还包含有关浏览器中加载的网页的性能数据的详细信息。 HAR 文件可以在任何文本编辑器中打开，例如 Microsoft Windows 操作系统上的记事本和 Apple MacOS 上的 TextEdit。
 
 ## HAR 文件格式 - 更多信息
 

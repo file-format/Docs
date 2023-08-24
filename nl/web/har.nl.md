@@ -19,7 +19,7 @@
 
 ## Wat is een HAR-bestand?
 
-Een bestand met .har ([HTTP](/nl/web/http/) Archive)-bestand is een HTTP-archiefbestand waarin sessiegegevens worden opgeslagen die via veel browsers (zoals Chrome, Safari, IE, Firefox, enz.) worden overgedragen in [JSON](/nl/web/json/) bestandsformaat. De gegevens die via internet worden overgedragen tussen de server en de client (in dit geval de browser van de gebruiker) bevatten HTTP-verzoek- en antwoordheaders die zijn opgeslagen in het HAR-bestand. Het bevat verder gedetailleerde informatie over prestatiegegevens over webpagina's die in de browser zijn geladen. HAR-bestanden kunnen worden geopend in elke teksteditor, zoals Kladblok op Microsoft Windows OS en TextEdit op Apple MacOS.
+Een bestand met .har (HTTP Archive)-bestand is een HTTP-archiefbestand waarin sessiegegevens worden opgeslagen die via veel browsers (zoals Chrome, Safari, IE, Firefox, enz.) worden overgedragen in [JSON](/nl/web/json/) bestandsformaat. De gegevens die via internet worden overgedragen tussen de server en de client (in dit geval de browser van de gebruiker) bevatten HTTP-verzoek- en antwoordheaders die zijn opgeslagen in het HAR-bestand. Het bevat verder gedetailleerde informatie over prestatiegegevens over webpagina's die in de browser zijn geladen. HAR-bestanden kunnen worden geopend in elke teksteditor, zoals Kladblok op Microsoft Windows OS en TextEdit op Apple MacOS.
 
 ## HAR-bestandsindeling - Meer informatie
 

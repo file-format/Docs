@@ -19,7 +19,7 @@
 
 ## .HAR 파일이란?
 
-.har 파일([HTTP](/ko/web/http/) 아카이브) 파일은 [JSON]에서 많은 브라우저(Chrome, Safari, IE, Firefox 등)를 통해 전송되는 세션 데이터를 저장하는 HTTP 아카이브 파일입니다. (/ko/web/json/) 파일 형식입니다. 인터넷을 통해 서버와 클라이언트(이 경우 사용자의 브라우저) 간에 전송되는 데이터에는 HAR 파일에 저장된 HTTP 요청 및 응답 헤더가 포함됩니다. 여기에는 브라우저에 로드된 웹 페이지에 대한 성능 데이터에 대한 자세한 정보가 포함됩니다. HAR 파일은 Microsoft Windows OS의 메모장 및 Apple MacOS의 TextEdit와 같은 모든 텍스트 편집기에서 열 수 있습니다.
+.har 파일(HTTP 아카이브) 파일은 [JSON]에서 많은 브라우저(Chrome, Safari, IE, Firefox 등)를 통해 전송되는 세션 데이터를 저장하는 HTTP 아카이브 파일입니다. (/ko/web/json/) 파일 형식입니다. 인터넷을 통해 서버와 클라이언트(이 경우 사용자의 브라우저) 간에 전송되는 데이터에는 HAR 파일에 저장된 HTTP 요청 및 응답 헤더가 포함됩니다. 여기에는 브라우저에 로드된 웹 페이지에 대한 성능 데이터에 대한 자세한 정보가 포함됩니다. HAR 파일은 Microsoft Windows OS의 메모장 및 Apple MacOS의 TextEdit와 같은 모든 텍스트 편집기에서 열 수 있습니다.
 
 ## HAR 파일 형식 - 추가 정보
 

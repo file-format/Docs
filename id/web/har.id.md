@@ -19,7 +19,7 @@
 
 ## Apa itu file HAR?
 
-File dengan file .har ([HTTP](/id/web/http/) Archive) adalah file arsip HTTP yang menyimpan transfer data sesi melalui banyak browser (seperti Chrome, Safari, IE, Firefox, dll.) di [JSON](/id/web/json/) format file. Data yang ditransfer melalui internet antara server dan klien (dalam hal ini browser pengguna) berisi header permintaan dan respons HTTP yang disimpan dalam file HAR. Lebih lanjut berisi informasi terperinci tentang data kinerja tentang halaman web yang dimuat di browser. File HAR dapat dibuka di editor teks apa pun seperti Notepad di Microsoft Windows OS dan TextEdit di Apple MacOS.
+File dengan file .har (HTTP Archive) adalah file arsip HTTP yang menyimpan transfer data sesi melalui banyak browser (seperti Chrome, Safari, IE, Firefox, dll.) di [JSON](/id/web/json/) format file. Data yang ditransfer melalui internet antara server dan klien (dalam hal ini browser pengguna) berisi header permintaan dan respons HTTP yang disimpan dalam file HAR. Lebih lanjut berisi informasi terperinci tentang data kinerja tentang halaman web yang dimuat di browser. File HAR dapat dibuka di editor teks apa pun seperti Notepad di Microsoft Windows OS dan TextEdit di Apple MacOS.
 
 ## Format File HAR - Informasi Lebih Lanjut
 
