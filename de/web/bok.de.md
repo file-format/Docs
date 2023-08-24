@@ -24,7 +24,7 @@ BOK-Dateien können mit eBay ProStores bearbeitet und in jedem Webbrowser wie Ch
 
 ## BOK-Dateiformat
 
-BOK-Dateien werden als Webseiten gespeichert, die im Allgemeinen in einem für Browser verständlichen Dateiformat wie [HTML](/de/web/html/) oder [PHP](/de/web/php/) vorliegen. Die Inhalte dieser Seiten werden zur Laufzeit aus der ProStores-Datenbank geladen, wenn ein Kunde die Storefront besucht.
+BOK-Dateien werden als Webseiten gespeichert, die im Allgemeinen in einem für Browser verständlichen Dateiformat wie [HTML](/de/web/html/) oder [PHP](/de/programming/php/) vorliegen. Die Inhalte dieser Seiten werden zur Laufzeit aus der ProStores-Datenbank geladen, wenn ein Kunde die Storefront besucht.
 
 ## Verweise
 

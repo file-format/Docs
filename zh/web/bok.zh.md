@@ -24,7 +24,7 @@ BOK 文件可以使用 eBay ProStores 编辑并在任何网络浏览器（如 Ch
 
 ## BOK 文件格式
 
-BOK 文件保存为网页，通常采用浏览器可理解的文件格式，例如 [HTML](/zh/web/html/) 或 [PHP](/zh/web/php/)。这些页面的内容是在某些客户访问店面时在运行时从 ProStores 数据库加载的。
+BOK 文件保存为网页，通常采用浏览器可理解的文件格式，例如 [HTML](/zh/web/html/) 或 [PHP](/zh/programming/php/)。这些页面的内容是在某些客户访问店面时在运行时从 ProStores 数据库加载的。
 
 ## 参考
 

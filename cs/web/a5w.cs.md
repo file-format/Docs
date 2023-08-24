@@ -19,7 +19,7 @@
 
 ## Co je soubor A5W?
 
-Soubor A5W je webová stránka na straně serveru vytvořená pomocí softwaru [Alpha Five](https://www.alphasoftware.com/) a obsahuje kód, který se uživatelům zobrazí při přístupu přes prohlížeč. Podobá se stránkám [.asp](/cs/web/asp/) a [.php](/cs/web/php/), ale liší se syntaxí, protože jsou napsány v [syntaxi Alpha Five](https://documentation.alphasoftware.com/documentation/pages/GettingStarted/index.html). Alpha Five je multiplatformní nástroj pro vývoj webových a mobilních aplikací pro rychlý aplikační nástroj. Umožňuje také vytvářet komponenty dynamických webových stránek a aplikace spouštěné v prohlížeči. Soubory A5W lze otevřít v Alpha 5 Software.
+Soubor A5W je webová stránka na straně serveru vytvořená pomocí softwaru [Alpha Five](https://www.alphasoftware.com/) a obsahuje kód, který se uživatelům zobrazí při přístupu přes prohlížeč. Podobá se stránkám [.asp](/cs/web/asp/) a [.php](/cs/programming/php/), ale liší se syntaxí, protože jsou napsány v [syntaxi Alpha Five](https://documentation.alphasoftware.com/documentation/pages/GettingStarted/index.html). Alpha Five je multiplatformní nástroj pro vývoj webových a mobilních aplikací pro rychlý aplikační nástroj. Umožňuje také vytvářet komponenty dynamických webových stránek a aplikace spouštěné v prohlížeči. Soubory A5W lze otevřít v Alpha 5 Software.
 
 ## Formát souboru A5W
 

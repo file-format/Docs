@@ -19,7 +19,7 @@
 
 ## Tệp DBM là gì?
 
-Tệp có phần mở rộng .dbm (Ngôn ngữ đánh dấu cơ sở dữ liệu) là Tệp máy chủ ColdFusion được phát triển bởi Adobe Systems. Nó là một tệp phía máy chủ được thực thi trên máy chủ web có ColdFusion. Nó tương tự như các tệp [ASP](/vi/web/asp/) và [PHP](/vi/web/php/) và tạo [HTML](/vi/web/html/) khi người dùng yêu cầu trang trong trình duyệt web. Các tệp DBM có thể được mở trong các ứng dụng như Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate và Apple Safari.
+Tệp có phần mở rộng .dbm (Ngôn ngữ đánh dấu cơ sở dữ liệu) là Tệp máy chủ ColdFusion được phát triển bởi Adobe Systems. Nó là một tệp phía máy chủ được thực thi trên máy chủ web có ColdFusion. Nó tương tự như các tệp [ASP](/vi/web/asp/) và [PHP](/vi/programming/php/) và tạo [HTML](/vi/web/html/) khi người dùng yêu cầu trang trong trình duyệt web. Các tệp DBM có thể được mở trong các ứng dụng như Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate và Apple Safari.
 
 ## Định dạng tệp DBM
 

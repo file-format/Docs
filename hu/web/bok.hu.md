@@ -24,7 +24,7 @@ A BOK-fájlok szerkeszthetők az eBay ProStores segítségével, és megnyithat�
 
 ## BOK fájl formátum
 
-A BOK-fájlokat a rendszer általában böngésző által érthető fájlformátumban menti weboldalként, például [HTML](/hu/web/html/) vagy [PHP](/hu/web/php/). Ezeknek az oldalaknak a tartalma a ProStores adatbázisból töltődik be futási időben, amikor néhány ügyfél felkeresi a kirakatot.
+A BOK-fájlokat a rendszer általában böngésző által érthető fájlformátumban menti weboldalként, például [HTML](/hu/web/html/) vagy [PHP](/hu/programming/php/). Ezeknek az oldalaknak a tartalma a ProStores adatbázisból töltődik be futási időben, amikor néhány ügyfél felkeresi a kirakatot.
 
 ## Hivatkozások
 

@@ -24,7 +24,7 @@ Pliki BOK można edytować za pomocą eBay ProStores i otwierać w dowolnej prze
 
 ## Format pliku BOK
 
-Pliki BOK są zapisywane jako strony internetowe, które są ogólnie w zrozumiałym dla przeglądarki formacie pliku, takim jak [HTML](/pl/web/html/) lub [PHP](/pl/web/php/). Zawartość tych stron jest ładowana z bazy danych ProStores w czasie wykonywania, gdy jakiś klient odwiedza witrynę sklepu.
+Pliki BOK są zapisywane jako strony internetowe, które są ogólnie w zrozumiałym dla przeglądarki formacie pliku, takim jak [HTML](/pl/web/html/) lub [PHP](/pl/programming/php/). Zawartość tych stron jest ładowana z bazy danych ProStores w czasie wykonywania, gdy jakiś klient odwiedza witrynę sklepu.
 
 ## Bibliografia
 

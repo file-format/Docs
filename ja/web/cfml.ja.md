@@ -18,7 +18,7 @@
 
 ## .CFML オプション番号
 
-拡張子が .cfml のファイルは、Web ページの作成に使用される ColdFusion マークアップ言語ファイルです。これは、ColdFusion アプリケーションがプログラマーによってどのように開発されるかを定義するために使用される一連の規則を指します。 ColdFusion は、[ASP](/web/asp/)、[PHP](/web/php/) などの他の技術よりも少ない技術で、サーバー側の Web アプリケーションを迅速に作成するために使用されるプログラミング言語です。 CML ファイルを開くことができるアプリケーションには、Adobe ColdFusion 2018、Adobe ColdFusion Builder、および Adobe Dreamweaver が含まれます。
+拡張子が .cfml のファイルは、Web ページの作成に使用される ColdFusion マークアップ言語ファイルです。これは、ColdFusion アプリケーションがプログラマーによってどのように開発されるかを定義するために使用される一連の規則を指します。 ColdFusion は、[ASP](/web/asp/)、[PHP](/programming/php/) などの他の技術よりも少ない技術で、サーバー側の Web アプリケーションを迅速に作成するために使用されるプログラミング言語です。 CML ファイルを開くことができるアプリケーションには、Adobe ColdFusion 2018、Adobe ColdFusion Builder、および Adobe Dreamweaver が含まれます。
 
 ## CFML ファイル形式 - 詳細情報
 

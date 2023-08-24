@@ -19,7 +19,7 @@
 
 ## O que é um arquivo A5W?
 
-Um arquivo A5W é uma página da Web do lado do servidor criada com o software [Alpha Five](https://www.alphasoftware.com/) e contém código que é servido aos usuários quando acessado via navegador. É semelhante às páginas [.asp](/pt/web/asp/) e [.php](/pt/web/php/), mas difere na sintaxe, pois elas são escritas em [sintaxe Alpha Five](https://documentation.alphasoftware.com/documentation/pages/GettingStarted/index.html). Alpha Five é uma ferramenta de desenvolvimento de aplicativos móveis e web de plataforma cruzada para uma ferramenta de aplicação rápida. Ele também permite que você crie componentes dinâmicos de página da Web e aplicativos semelhantes a desktop executados por navegador. Arquivos A5W podem ser abertos no Alpha 5 Software.
+Um arquivo A5W é uma página da Web do lado do servidor criada com o software [Alpha Five](https://www.alphasoftware.com/) e contém código que é servido aos usuários quando acessado via navegador. É semelhante às páginas [.asp](/pt/web/asp/) e [.php](/pt/programming/php/), mas difere na sintaxe, pois elas são escritas em [sintaxe Alpha Five](https://documentation.alphasoftware.com/documentation/pages/GettingStarted/index.html). Alpha Five é uma ferramenta de desenvolvimento de aplicativos móveis e web de plataforma cruzada para uma ferramenta de aplicação rápida. Ele também permite que você crie componentes dinâmicos de página da Web e aplicativos semelhantes a desktop executados por navegador. Arquivos A5W podem ser abertos no Alpha 5 Software.
 
 ## Formato de arquivo A5W
 

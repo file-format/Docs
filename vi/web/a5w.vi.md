@@ -19,7 +19,7 @@
 
 ## Tệp A5W là gì?
 
-Tệp A5W là một trang web phía máy chủ được tạo bằng phần mềm [Alpha Five](https://www.alphasoftware.com/) và chứa mã được cung cấp cho người dùng khi được truy cập qua trình duyệt. Nó tương tự như các trang [.asp](/vi/web/asp/) và [.php](/vi/web/php/) nhưng khác về cú pháp vì chúng được viết bằng [Cú pháp Alpha Five](https://documentation.alphasoftware.com/documentation/pages/GettingStarted/index.html). Alpha Five là một công cụ phát triển ứng dụng di động và web đa nền tảng dành cho công cụ ứng dụng nhanh. Nó cũng cho phép bạn tạo các thành phần trang web động và các ứng dụng giống như máy tính để bàn chạy trên trình duyệt. Các tệp A5W có thể được mở trong Phần mềm Alpha 5.
+Tệp A5W là một trang web phía máy chủ được tạo bằng phần mềm [Alpha Five](https://www.alphasoftware.com/) và chứa mã được cung cấp cho người dùng khi được truy cập qua trình duyệt. Nó tương tự như các trang [.asp](/vi/web/asp/) và [.php](/vi/programming/php/) nhưng khác về cú pháp vì chúng được viết bằng [Cú pháp Alpha Five](https://documentation.alphasoftware.com/documentation/pages/GettingStarted/index.html). Alpha Five là một công cụ phát triển ứng dụng di động và web đa nền tảng dành cho công cụ ứng dụng nhanh. Nó cũng cho phép bạn tạo các thành phần trang web động và các ứng dụng giống như máy tính để bàn chạy trên trình duyệt. Các tệp A5W có thể được mở trong Phần mềm Alpha 5.
 
 ## Định dạng tệp A5W
 

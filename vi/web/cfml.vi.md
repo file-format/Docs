@@ -18,7 +18,7 @@
 
 ## Tệp CFML là gì?
 
-Tệp có phần mở rộng .cfml là tệp Ngôn ngữ đánh dấu ColdFusion được sử dụng để tạo trang web. Nó đề cập đến một bộ quy tắc được sử dụng để xác định cách lập trình viên sẽ phát triển ứng dụng ColdFusion. ColdFusion là ngôn ngữ lập trình được sử dụng để tạo các ứng dụng web phía máy chủ một cách nhanh chóng và tốn ít công nghệ hơn các công nghệ khác như [ASP](/vi/web/asp/), [PHP](/vi/web/php/), v.v. Một số trong số các ứng dụng có thể mở tệp CML bao gồm Adobe ColdFusion 2018, Adobe ColdFusion Builder và Adobe Dreamweaver.
+Tệp có phần mở rộng .cfml là tệp Ngôn ngữ đánh dấu ColdFusion được sử dụng để tạo trang web. Nó đề cập đến một bộ quy tắc được sử dụng để xác định cách lập trình viên sẽ phát triển ứng dụng ColdFusion. ColdFusion là ngôn ngữ lập trình được sử dụng để tạo các ứng dụng web phía máy chủ một cách nhanh chóng và tốn ít công nghệ hơn các công nghệ khác như [ASP](/vi/web/asp/), [PHP](/vi/programming/php/), v.v. Một số trong số các ứng dụng có thể mở tệp CML bao gồm Adobe ColdFusion 2018, Adobe ColdFusion Builder và Adobe Dreamweaver.
 
 ## Định dạng tệp CFML - Thông tin khác
 

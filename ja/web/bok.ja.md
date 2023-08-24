@@ -24,7 +24,7 @@ BOK ファイルは eBay ProStores で編集でき、Chrome、Firefox、Apple Sa
 
 ## BOK ファイル形式
 
-BOK ファイルは、一般に [HTML](/web/html/) や [PHP](/web/php/) などのブラウザーが理解できるファイル形式の Web ページとして保存されます。これらのページのコンテンツは、顧客が店頭を訪れたときに実行時に ProStores データベースからロードされます。
+BOK ファイルは、一般に [HTML](/web/html/) や [PHP](/programming/php/) などのブラウザーが理解できるファイル形式の Web ページとして保存されます。これらのページのコンテンツは、顧客が店頭を訪れたときに実行時に ProStores データベースからロードされます。
 
 ## 参考文献
 

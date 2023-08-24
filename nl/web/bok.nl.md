@@ -24,7 +24,7 @@ BOK-bestanden kunnen worden bewerkt met eBay ProStores en worden geopend in elke
 
 ## BOK-bestandsindeling
 
-BOK-bestanden worden opgeslagen als webpagina's die over het algemeen in een voor de browser begrijpelijke bestandsindeling zijn, zoals [HTML](/nl/web/html/) of [PHP](/nl/web/php/). De inhoud van deze pagina's wordt tijdens runtime uit de ProStores-database geladen wanneer een klant de etalage bezoekt.
+BOK-bestanden worden opgeslagen als webpagina's die over het algemeen in een voor de browser begrijpelijke bestandsindeling zijn, zoals [HTML](/nl/web/html/) of [PHP](/nl/programming/php/). De inhoud van deze pagina's wordt tijdens runtime uit de ProStores-database geladen wanneer een klant de etalage bezoekt.
 
 ## Referenties
 

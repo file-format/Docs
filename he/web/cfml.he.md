@@ -18,7 +18,7 @@
 
 ## מהו קובץ CFML?
 
-קובץ עם סיומת .cfml הוא קובץ ColdFusion Markup Language המשמש ליצירת דף אינטרנט. זה מתייחס למערכת של כללים המשמשים כדי להגדיר כיצד אפליקציית ColdFusion יפותח על ידי המתכנת. ColdFusion היא שפת תכנות שרגילה ליצור יישומי אינטרנט צדדיים במהירות ועם פחות מטכנולוגיות אחרות כגון [ASP](/he/web/asp/), [PHP](/he/web/php/) וכו'. מהיישומים שיכולים לפתוח קובצי CML כוללים את Adobe ColdFusion 2018, Adobe ColdFusion Builder ו-Adobe Dreamweaver.
+קובץ עם סיומת .cfml הוא קובץ ColdFusion Markup Language המשמש ליצירת דף אינטרנט. זה מתייחס למערכת של כללים המשמשים כדי להגדיר כיצד אפליקציית ColdFusion יפותח על ידי המתכנת. ColdFusion היא שפת תכנות שרגילה ליצור יישומי אינטרנט צדדיים במהירות ועם פחות מטכנולוגיות אחרות כגון [ASP](/he/web/asp/), [PHP](/he/programming/php/) וכו'. מהיישומים שיכולים לפתוח קובצי CML כוללים את Adobe ColdFusion 2018, Adobe ColdFusion Builder ו-Adobe Dreamweaver.
 
 ## פורמט קובץ CFML - מידע נוסף
 

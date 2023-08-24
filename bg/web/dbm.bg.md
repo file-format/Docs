@@ -19,7 +19,7 @@
 
 ## Какво е DBM файл?
 
-Файл с разширение .dbm (Език за маркиране на база данни) е сървърен файл на ColdFusion, разработен от Adobe Systems. Това е сървърен файл, който се изпълнява на уеб сървър с ColdFusion. Той е подобен на файловете [ASP](/bg/web/asp/) и [PHP](/bg/web/php/) и генерира [HTML](/bg/web/html/), когато потребител поиска страницата в уеб браузъра. DBM файловете могат да се отварят в приложения като Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate и Apple Safari.
+Файл с разширение .dbm (Език за маркиране на база данни) е сървърен файл на ColdFusion, разработен от Adobe Systems. Това е сървърен файл, който се изпълнява на уеб сървър с ColdFusion. Той е подобен на файловете [ASP](/bg/web/asp/) и [PHP](/bg/programming/php/) и генерира [HTML](/bg/web/html/), когато потребител поиска страницата в уеб браузъра. DBM файловете могат да се отварят в приложения като Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate и Apple Safari.
 
 ## DBM файлов формат
 

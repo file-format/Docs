@@ -19,7 +19,7 @@
 
 ## 什么是一 .a5w 文件？
 
-A5W 文件是使用 [Alpha Five](https://www.alphasoftware.com/) 软件创建的服务器端网页，其中包含通过浏览器访问时提供给用户的代码。它类似于 [.asp](/zh/web/asp/) 和 [.php](/zh/web/php/) 页面，但语法不同，因为它们是用 [Alpha 5 语法](https://documentation.alphasoftware.com/documentation/pages/GettingStarted/index.html)。 Alpha Five 是一款跨平台的网络和移动应用开发工具，用于快速应用工具。它还允许您创建动态网页组件和浏览器运行的类似桌面的应用程序。 A5W 文件可以在 Alpha 5 软件中打开。
+A5W 文件是使用 [Alpha Five](https://www.alphasoftware.com/) 软件创建的服务器端网页，其中包含通过浏览器访问时提供给用户的代码。它类似于 [.asp](/zh/web/asp/) 和 [.php](/zh/programming/php/) 页面，但语法不同，因为它们是用 [Alpha 5 语法](https://documentation.alphasoftware.com/documentation/pages/GettingStarted/index.html)。 Alpha Five 是一款跨平台的网络和移动应用开发工具，用于快速应用工具。它还允许您创建动态网页组件和浏览器运行的类似桌面的应用程序。 A5W 文件可以在 Alpha 5 软件中打开。
 
 ## A5W 文件格式
 

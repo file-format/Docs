@@ -19,7 +19,7 @@
 
 ## Wat is een A5W-bestand?
 
-Een A5W-bestand is een webpagina aan de serverzijde die is gemaakt met software [Alpha Five](https://www.alphasoftware.com/) en die code bevat die aan gebruikers wordt aangeboden wanneer ze via de browser worden geopend. Het is vergelijkbaar met de pagina's [.asp](/nl/web/asp/) en [.php](/nl/web/php/), maar verschilt in syntaxis omdat deze zijn geschreven in [Alpha Five-syntaxis](https://documentation.alphasoftware.com/documentation/pages/GettingStarted/index.html). Alpha Five is een platformonafhankelijke tool voor het ontwikkelen van web- en mobiele applicaties voor een snelle applicatietool. U kunt er ook dynamische webpagina-componenten en browser-run desktop-achtige applicaties mee maken. A5W-bestanden kunnen worden geopend in Alpha 5 Software.
+Een A5W-bestand is een webpagina aan de serverzijde die is gemaakt met software [Alpha Five](https://www.alphasoftware.com/) en die code bevat die aan gebruikers wordt aangeboden wanneer ze via de browser worden geopend. Het is vergelijkbaar met de pagina's [.asp](/nl/web/asp/) en [.php](/nl/programming/php/), maar verschilt in syntaxis omdat deze zijn geschreven in [Alpha Five-syntaxis](https://documentation.alphasoftware.com/documentation/pages/GettingStarted/index.html). Alpha Five is een platformonafhankelijke tool voor het ontwikkelen van web- en mobiele applicaties voor een snelle applicatietool. U kunt er ook dynamische webpagina-componenten en browser-run desktop-achtige applicaties mee maken. A5W-bestanden kunnen worden geopend in Alpha 5 Software.
 
 ## A5W-bestandsindeling
 

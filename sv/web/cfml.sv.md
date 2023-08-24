@@ -18,7 +18,7 @@
 
 ## Vad är en CFML fil?
 
-En fil med filändelsen .cfml är en ColdFusion Markup Language-fil som används för att skapa webbsida. Det hänvisar till en uppsättning regler som används för att definiera hur ColdFusion-applikationen kommer att utvecklas av programmeraren. ColdFusion är ett programmeringsspråk som används för att skapa webbapplikationer på serversidan snabbt och med mindre än andra teknologier som [ASP](/sv/web/asp/), [PHP](/sv/web/php/), etc. Vissa av de program som kan öppna CML-filer inkluderar Adobe ColdFusion 2018, Adobe ColdFusion Builder och Adobe Dreamweaver.
+En fil med filändelsen .cfml är en ColdFusion Markup Language-fil som används för att skapa webbsida. Det hänvisar till en uppsättning regler som används för att definiera hur ColdFusion-applikationen kommer att utvecklas av programmeraren. ColdFusion är ett programmeringsspråk som används för att skapa webbapplikationer på serversidan snabbt och med mindre än andra teknologier som [ASP](/sv/web/asp/), [PHP](/sv/programming/php/), etc. Vissa av de program som kan öppna CML-filer inkluderar Adobe ColdFusion 2018, Adobe ColdFusion Builder och Adobe Dreamweaver.
 
 ## CFML-filformat - Mer information
 

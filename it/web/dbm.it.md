@@ -19,7 +19,7 @@
 
 ## Che cos'è un file DBM?
 
-Un file con estensione .dbm (Database Markup Language) è un file ColdFusion Server sviluppato da Adobe Systems. È un file lato server che viene eseguito su un server Web con ColdFusion. È simile ai file [ASP](/it/web/asp/) e [PHP](/it/web/php/) e genera [HTML](/it/web/html/) quando un utente richiede la pagina nel browser web. I file DBM possono essere aperti in applicazioni come Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate e Apple Safari.
+Un file con estensione .dbm (Database Markup Language) è un file ColdFusion Server sviluppato da Adobe Systems. È un file lato server che viene eseguito su un server Web con ColdFusion. È simile ai file [ASP](/it/web/asp/) e [PHP](/it/programming/php/) e genera [HTML](/it/web/html/) quando un utente richiede la pagina nel browser web. I file DBM possono essere aperti in applicazioni come Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate e Apple Safari.
 
 ## Formato file DBM
 

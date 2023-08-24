@@ -19,7 +19,7 @@
 
 ## .DBM 파일이란?
 
-.dbm(Database Markup Language) 확장자를 가진 파일은 Adobe Systems에서 개발한 ColdFusion 서버 파일입니다. ColdFusion이 설치된 웹서버에서 실행되는 서버측 파일입니다. [ASP](/ko/web/asp/) 및 [PHP](/ko/web/php/) 파일과 유사하며 사용자가 웹 브라우저에서 페이지를 요청하면 [HTML](/ko/web/html/)을 생성합니다. DBM 파일은 Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate 및 Apple Safari와 같은 응용 프로그램에서 열 수 있습니다.
+.dbm(Database Markup Language) 확장자를 가진 파일은 Adobe Systems에서 개발한 ColdFusion 서버 파일입니다. ColdFusion이 설치된 웹서버에서 실행되는 서버측 파일입니다. [ASP](/ko/web/asp/) 및 [PHP](/ko/programming/php/) 파일과 유사하며 사용자가 웹 브라우저에서 페이지를 요청하면 [HTML](/ko/web/html/)을 생성합니다. DBM 파일은 Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate 및 Apple Safari와 같은 응용 프로그램에서 열 수 있습니다.
 
 ## DBM 파일 형식
 

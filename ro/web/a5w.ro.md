@@ -19,7 +19,7 @@
 
 ## Ce este un fișier A5W?
 
-Un fișier A5W este o pagină web pe partea de server creată cu software-ul [Alpha Five](https://www.alphasoftware.com/) și conține cod care este oferit utilizatorilor atunci când este accesat prin browser. Este similar cu paginile [.asp](/ro/web/asp/) și [.php](/ro/web/php/), dar diferă ca sintaxă, deoarece acestea sunt scrise în [sintaxa Alpha Five](https://documentation.alphasoftware.com/documentation/pages/GettingStarted/index.html). Alpha Five este un instrument de dezvoltare de aplicații web și mobile multiplatformă pentru instrument de aplicație rapidă. De asemenea, vă permite să creați componente dinamice pentru pagini web și aplicații asemănătoare desktop-ului rulate de browser. Fișierele A5W pot fi deschise în software-ul Alpha 5.
+Un fișier A5W este o pagină web pe partea de server creată cu software-ul [Alpha Five](https://www.alphasoftware.com/) și conține cod care este oferit utilizatorilor atunci când este accesat prin browser. Este similar cu paginile [.asp](/ro/web/asp/) și [.php](/ro/programming/php/), dar diferă ca sintaxă, deoarece acestea sunt scrise în [sintaxa Alpha Five](https://documentation.alphasoftware.com/documentation/pages/GettingStarted/index.html). Alpha Five este un instrument de dezvoltare de aplicații web și mobile multiplatformă pentru instrument de aplicație rapidă. De asemenea, vă permite să creați componente dinamice pentru pagini web și aplicații asemănătoare desktop-ului rulate de browser. Fișierele A5W pot fi deschise în software-ul Alpha 5.
 
 ## Format de fișier A5W
 

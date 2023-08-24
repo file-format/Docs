@@ -24,7 +24,7 @@ BOK dosyaları eBay ProStores ile düzenlenebilir ve Chrome, Firefox ve Apple Sa
 
 ## BOK Dosya Biçimi
 
-BOK dosyaları, genellikle [HTML](/tr/web/html/) veya [PHP](/tr/web/php/) gibi tarayıcı tarafından anlaşılır dosya biçiminde olan web sayfaları olarak kaydedilir. Bu sayfaların içeriği, bazı müşteriler vitrini ziyaret ettiğinde çalışma zamanında ProStores veritabanından yüklenir.
+BOK dosyaları, genellikle [HTML](/tr/web/html/) veya [PHP](/tr/programming/php/) gibi tarayıcı tarafından anlaşılır dosya biçiminde olan web sayfaları olarak kaydedilir. Bu sayfaların içeriği, bazı müşteriler vitrini ziyaret ettiğinde çalışma zamanında ProStores veritabanından yüklenir.
 
 ## Referanslar
 

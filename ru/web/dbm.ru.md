@@ -19,7 +19,7 @@
 
 ## .DBM вариант №
 
-Файл с расширением .dbm (язык разметки базы данных) представляет собой файл сервера ColdFusion, разработанный Adobe Systems. Это файл на стороне сервера, который выполняется на веб-сервере с ColdFusion. Он похож на файлы [ASP](/ru/web/asp/) и [PHP](/ru/web/php/) и генерирует [HTML](/ru/web/html/), когда пользователь запрашивает страницу в веб-браузере. Файлы DBM можно открывать в таких приложениях, как Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate и Apple Safari.
+Файл с расширением .dbm (язык разметки базы данных) представляет собой файл сервера ColdFusion, разработанный Adobe Systems. Это файл на стороне сервера, который выполняется на веб-сервере с ColdFusion. Он похож на файлы [ASP](/ru/web/asp/) и [PHP](/ru/programming/php/) и генерирует [HTML](/ru/web/html/), когда пользователь запрашивает страницу в веб-браузере. Файлы DBM можно открывать в таких приложениях, как Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate и Apple Safari.
 
 ## Формат файла DBM
 

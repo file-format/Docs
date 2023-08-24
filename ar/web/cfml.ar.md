@@ -18,7 +18,7 @@
 
 ## ما هو ملف CFML؟
 
-الملف ذو الامتداد .cfml هو ملف ColdFusion Markup Language يُستخدم لإنشاء صفحة ويب. يشير إلى مجموعة من القواعد المستخدمة لتحديد كيفية تطوير تطبيق ColdFusion بواسطة المبرمج. ColdFusion هي لغة برمجة تُستخدم لإنشاء تطبيقات ويب من جهة أخرى بسرعة وبأقل من التقنيات الأخرى مثل [ASP](/ar/web/asp/) ، [PHP](/ar/web/php/) ، إلخ. من التطبيقات التي يمكنها فتح ملفات CML تشمل Adobe ColdFusion 2018 و Adobe ColdFusion Builder و Adobe Dreamweaver.
+الملف ذو الامتداد .cfml هو ملف ColdFusion Markup Language يُستخدم لإنشاء صفحة ويب. يشير إلى مجموعة من القواعد المستخدمة لتحديد كيفية تطوير تطبيق ColdFusion بواسطة المبرمج. ColdFusion هي لغة برمجة تُستخدم لإنشاء تطبيقات ويب من جهة أخرى بسرعة وبأقل من التقنيات الأخرى مثل [ASP](/ar/web/asp/) ، [PHP](/ar/programming/php/) ، إلخ. من التطبيقات التي يمكنها فتح ملفات CML تشمل Adobe ColdFusion 2018 و Adobe ColdFusion Builder و Adobe Dreamweaver.
 
 ## تنسيق ملف CFML - مزيد من المعلومات
 

@@ -24,7 +24,7 @@ BOK-filer kan redigeras med eBay ProStores och öppnas i vilken webbläsare som 
 
 ## BOK filformat
 
-BOK-filer sparas som webbsidor som i allmänhet är i filformat som är förståeligt för webbläsaren, såsom [HTML](/sv/web/html/) eller [PHP](/sv/web/php/). Innehållet på dessa sidor laddas från ProStores databas vid körning när någon kund besöker skyltfönstret.
+BOK-filer sparas som webbsidor som i allmänhet är i filformat som är förståeligt för webbläsaren, såsom [HTML](/sv/web/html/) eller [PHP](/sv/programming/php/). Innehållet på dessa sidor laddas från ProStores databas vid körning när någon kund besöker skyltfönstret.
 
 ## Referenser
 

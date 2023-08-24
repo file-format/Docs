@@ -24,7 +24,7 @@ File BOK dapat diedit dengan eBay ProStores dan dibuka di browser web apa pun se
 
 ## Format File BOK
 
-Berkas BOK disimpan sebagai laman web yang umumnya dalam format berkas yang dapat dipahami browser seperti [HTML](/id/web/html/) atau [PHP](/id/web/php/). Isi dari halaman ini dimuat dari database ProStores pada saat dijalankan ketika beberapa pelanggan mengunjungi etalase.
+Berkas BOK disimpan sebagai laman web yang umumnya dalam format berkas yang dapat dipahami browser seperti [HTML](/id/web/html/) atau [PHP](/id/programming/php/). Isi dari halaman ini dimuat dari database ProStores pada saat dijalankan ketika beberapa pelanggan mengunjungi etalase.
 
 ## Referensi
 

@@ -18,7 +18,7 @@
 
 ## Wat is een CFML-bestand?
 
-Een bestand met de extensie .cfml is een ColdFusion Markup Language-bestand dat wordt gebruikt om een webpagina te maken. Het verwijst naar een reeks regels die worden gebruikt om te definiëren hoe de ColdFusion-toepassing door de programmeur zal worden ontwikkeld. ColdFusion is een programmeertaal die wordt gebruikt om snel en met minder dan andere technologieën zoals [ASP](/nl/web/asp/), [PHP](/nl/web/php/), enz. sever-side webapplicaties te maken. Sommige van de toepassingen die CML-bestanden kunnen openen, zijn Adobe ColdFusion 2018, Adobe ColdFusion Builder en Adobe Dreamweaver.
+Een bestand met de extensie .cfml is een ColdFusion Markup Language-bestand dat wordt gebruikt om een webpagina te maken. Het verwijst naar een reeks regels die worden gebruikt om te definiëren hoe de ColdFusion-toepassing door de programmeur zal worden ontwikkeld. ColdFusion is een programmeertaal die wordt gebruikt om snel en met minder dan andere technologieën zoals [ASP](/nl/web/asp/), [PHP](/nl/programming/php/), enz. sever-side webapplicaties te maken. Sommige van de toepassingen die CML-bestanden kunnen openen, zijn Adobe ColdFusion 2018, Adobe ColdFusion Builder en Adobe Dreamweaver.
 
 ## CFML-bestandsindeling - Meer informatie
 

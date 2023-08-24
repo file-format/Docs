@@ -19,7 +19,7 @@
 
 ## ไฟล์ DBM คืออะไร??
 
-ไฟล์ที่มีนามสกุล .dbm (Database Markup Language) คือไฟล์เซิร์ฟเวอร์ ColdFusion ที่พัฒนาโดย Adobe Systems เป็นไฟล์ฝั่งเซิร์ฟเวอร์ที่ดำเนินการบนเว็บเซิร์ฟเวอร์ที่มี ColdFusion ซึ่งคล้ายกับไฟล์ [ASP](/th/web/asp/) และ [PHP](/th/web/php/) และสร้าง [HTML](/th/web/html/) เมื่อผู้ใช้ร้องขอหน้าเว็บในเว็บเบราว์เซอร์ ไฟล์ DBM สามารถเปิดได้ในแอปพลิเคชันเช่น Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate และ Apple Safari
+ไฟล์ที่มีนามสกุล .dbm (Database Markup Language) คือไฟล์เซิร์ฟเวอร์ ColdFusion ที่พัฒนาโดย Adobe Systems เป็นไฟล์ฝั่งเซิร์ฟเวอร์ที่ดำเนินการบนเว็บเซิร์ฟเวอร์ที่มี ColdFusion ซึ่งคล้ายกับไฟล์ [ASP](/th/web/asp/) และ [PHP](/th/programming/php/) และสร้าง [HTML](/th/web/html/) เมื่อผู้ใช้ร้องขอหน้าเว็บในเว็บเบราว์เซอร์ ไฟล์ DBM สามารถเปิดได้ในแอปพลิเคชันเช่น Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate และ Apple Safari
 
 ## รูปแบบไฟล์ DBM
 
