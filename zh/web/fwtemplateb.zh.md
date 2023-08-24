@@ -27,5 +27,6 @@ FWTEMPLATEB 文件保存为网站模板的集合，并包含与网站外观相�
 ## 参考
 
 * [FWTEMPLATE](/zh/web/fwtemplate/)
-* [高速公路](/zh/web/freeway/)
+* [FREEWAY](/zh/web/freeway/)
+
 

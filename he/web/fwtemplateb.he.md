@@ -27,5 +27,5 @@
 ## הפניות
 
 * [FWTEMPLATE](/he/web/fwtemplate/)
-* [כביש מהיר](/he/web/כביש מהיר/)
+* [FREEWAY](/he/web/freeway/)
 

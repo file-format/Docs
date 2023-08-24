@@ -26,6 +26,7 @@ File FWTEMPLATEB disimpan sebagai kumpulan template situs web dan berisi informa
 
 ## Referensi
 
-* [FWTEMPLAT](/id/web/fwtemplate/)
-* [JALAN TOLONG](/id/web/jalan bebas hambatan/)
+* [FWTEMPLATE](/id/web/fwtemplate/)
+* [FREEWAY](/id/web/freeway/)
+
 

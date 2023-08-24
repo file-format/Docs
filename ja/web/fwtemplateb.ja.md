@@ -26,6 +26,7 @@ FWTEMPLATEB ファイルは Web サイト テンプレートのコレクショ�
 
 ## 参考文献
 
-* [FWTEMPLATE](/web/fwtemplate/)
-* [高速道路](/web/高速道路/)
+* [FWTEMPLATE](/ja/web/fwtemplate/)
+* [FREEWAY](/ja/web/freeway/)
+
 

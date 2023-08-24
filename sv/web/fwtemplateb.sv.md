@@ -27,5 +27,6 @@ FWTEMPLATEB-filer sparas som en samling webbplatsmallar och innehåller informat
 ## Referenser
 
 * [FWTEMPLATE](/sv/web/fwtemplate/)
-* [FREEWAY](/sv/web/motorväg/)
+* [FREEWAY](/sv/web/freeway/)
+
 

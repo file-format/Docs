@@ -27,5 +27,6 @@ Các tệp FWTEMPLATEB được lưu dưới dạng một tập hợp các mẫu
 ## Người giới thiệu
 
 * [FWTEMPLATE](/vi/web/fwtemplate/)
-* [ĐƯỜNG MIỄN PHÍ](/vi/web/freeway/)
+* [FREEWAY](/vi/web/freeway/)
+
 

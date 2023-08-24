@@ -27,5 +27,5 @@ Los archivos FWTEMPLATEB se guardan como una colección de plantillas de sitios 
 ## Referencias
 
 * [FWTEMPLATE](/es/web/fwtemplate/)
-* [FREEWAY](/web/freeway/)
+* [FREEWAY](/es/web/freeway/)
 

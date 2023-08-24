@@ -27,5 +27,6 @@ FWTEMPLATEB dosyaları, bir web sitesi şablonları koleksiyonu olarak kaydedili
 ## Referanslar
 
 * [FWTEMPLATE](/tr/web/fwtemplate/)
-* [Otoyol](/tr/web/otoyol/)
+* [FREEWAY](/tr/web/freeway/)
+
 

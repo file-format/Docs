@@ -27,5 +27,4 @@ Az FWTEMPLATEB fájlok webhelysablonok gyűjteményeként kerülnek mentésre, �
 ## Hivatkozások
 
 * [FWTEMPLATE](/hu/web/fwtemplate/)
-* [FREEWAY](/hu/web/autópálya/)
-
+* [FREEWAY](/hu/web/freeway/)

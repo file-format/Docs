@@ -26,6 +26,7 @@
 
 ## อ้างอิง
 
-* [FWTEMPLATE](/th/เว็บ/fw template/)
-* [ฟรีเวย์](/th/เว็บ/ฟรีเวย์/)
+* [FWTEMPLATE](/th/web/fwtemplate/)
+* [FREEWAY](/th/web/freeway/)
+
 
