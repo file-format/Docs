@@ -28,7 +28,7 @@ MB-Dateien liegen im binären Dateiformat vor, bei dem es sich um ein komprimier
 ## Maya-Binärdateien kostenloser Download
 Es ist etwas schwierig, die MB-Datei eines 3D-Modells zu finden und herunterzuladen. Daher können Sie hier eine Beispiel-MB-Datei herunterladen:
 
-- [Muster.mb](../muster.mb)
+- [Sample.mb](../sample.mb)
 
 ## Verweise
 
