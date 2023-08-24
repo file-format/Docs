@@ -36,7 +36,7 @@ AFPHOTO-Dateien können mit der Serif Affinity Photo-Software in eine Reihe vers
 * [JPG](/de/image/jpeg/) - JPEG-Bild
 * [PNG](/de/image/png/) - Portable Netzwerkgrafik
 * [GIF](/de/image/gif/) - Grafisches Austauschformat
-* [EPS](/de/Seitenbeschreibungssprache/eps/) - Encapsulated PostScript
+* [EPS](/de/page-description-language/eps/) - Encapsulated PostScript
 * [SVG](/de/page-description-language/svg/) - Skalierbare Vektorgrafiken
 * [TIFF](/de/image/tiff/) - Markiertes Bilddateiformat
 * TGA - Targa-Grafik
