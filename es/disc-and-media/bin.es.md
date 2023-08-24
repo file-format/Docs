@@ -28,7 +28,7 @@ Unos pocos programas de creación de imágenes de disco reducen el espacio de ar
 
 ## BIN VS ISO
 
-El formato BIN se desarrolló normalmente para resolver el problema de archivo del CD de audio con [ISO](/es/compresión/iso/). Por lo general, este formato se puede usar como una alternativa para el mismo contenido que admite ISO y sin ningún inconveniente. ISO es un formato de imagen de disco simple, mientras que BIN/CUE es una copia sin procesar de un disco, incluida la protección contra copias, sector por sector, lista de pistas, corrección de errores, multipista y cualquier información específica del sistema en el disco.
+El formato BIN se desarrolló normalmente para resolver el problema de archivo del CD de audio con [ISO](/es/compression/iso/). Por lo general, este formato se puede usar como una alternativa para el mismo contenido que admite ISO y sin ningún inconveniente. ISO es un formato de imagen de disco simple, mientras que BIN/CUE es una copia sin procesar de un disco, incluida la protección contra copias, sector por sector, lista de pistas, corrección de errores, multipista y cualquier información específica del sistema en el disco.
 
 ## Referencias
 
