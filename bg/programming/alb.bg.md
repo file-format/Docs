@@ -29,6 +29,6 @@ ALB файловете се записват в собствен файлов ф
 
 ## Препратки
 
-* [ADB файл](/bg/база данни/adb/)
+* [ADB файл](/bg/database/adb/)
 * [IDE Alpha Anywhere](https://documentation.alphasoftware.com/pages/GettingStarted/IDE/index.xml)
 

@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo ACCDW?
 
-Un archivo con extensión .accdw es un archivo de enlace creado con Microsoft Access y contiene información sobre el enlace para descargar un archivo de base de datos de Access, es decir, [ACCDB](/es/base de datos/accdb/) desde el servidor de SharePoint. Esto permite a los usuarios compartir archivos de bases de datos alojados de forma remota. Al abrir el archivo ACCDW, se descarga el archivo ACCDB vinculado como una copia local en la computadora del usuario. El archivo descargado se guarda en la ubicación de descarga predeterminada y se puede acceder navegando hasta él. Por lo general, estos archivos se descargan y almacenan con el nombre "SiteServer.accdb" que hace referencia a las bases de datos del cliente.
+Un archivo con extensión .accdw es un archivo de enlace creado con Microsoft Access y contiene información sobre el enlace para descargar un archivo de base de datos de Access, es decir, [ACCDB](/es/database/accdb/) desde el servidor de SharePoint. Esto permite a los usuarios compartir archivos de bases de datos alojados de forma remota. Al abrir el archivo ACCDW, se descarga el archivo ACCDB vinculado como una copia local en la computadora del usuario. El archivo descargado se guarda en la ubicación de descarga predeterminada y se puede acceder navegando hasta él. Por lo general, estos archivos se descargan y almacenan con el nombre "SiteServer.accdb" que hace referencia a las bases de datos del cliente.
 
 ## Formato de archivo ACCDW - Más información
 

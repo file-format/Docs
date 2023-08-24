@@ -29,6 +29,6 @@ Soubory ALB jsou uloženy v proprietárním formátu souboru Alpha File a jejich
 
 ## Reference
 
-* [soubor ADB](/cs/databáze/adb/)
+* [soubor ADB](/cs/database/adb/)
 * [The Alpha Anywhere IDE](https://documentation.alphasoftware.com/pages/GettingStarted/IDE/index.xml)
 

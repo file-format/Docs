@@ -29,6 +29,6 @@ ALB ファイルは Alpha File 独自のファイル形式で保存され、内�
 
 ## 参考文献
 
-* [ADBファイル](/ja/データベース/adb/)
+* [ADBファイル](/ja/database/adb/)
 * [Alpha Anywhere IDE](https://documentation.alphasoftware.com/pages/GettingStarted/IDE/index.xml)
 

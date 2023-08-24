@@ -29,6 +29,6 @@ Pliki ALB są zapisywane w zastrzeżonym formacie plików Alpha File, a ich wewn
 
 ## Bibliografia
 
-* [Plik ADB](/pl/baza danych/adb/)
+* [Plik ADB](/pl/database/adb/)
 * [Alpha Anywhere IDE](https://documentation.alphasoftware.com/pages/GettingStarted/IDE/index.xml)
 
