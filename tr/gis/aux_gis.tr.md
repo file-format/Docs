@@ -18,7 +18,7 @@
 
 ## AUX dosyası nedir?
 
-.aux uzantılı bir dosya, [.JPG](/tr/image/jpg/) veya GeoTIFF [.TIFF](/tr/image/tiff/) dosyalarında eşlik eden raster veri dosyaları için jeo-uzamsal verileri içeren bir Yardımcı dosyadır. Tarama dosyaları bu tür bilgileri tutamadığından, ek bilgileri ilişkili veriler biçiminde depolamak için AUX dosyaları kullanılır. Bunlar genellikle karşılık gelen raster dosya adıyla aynı dosya adına sahip aynı dizinde saklanır. AUX dosyaları genellikle ESRI ArcGIS Desktop ve ERDAS IMAGINE gibi coğrafi uygulamalar tarafından kullanılır.
+.aux uzantılı bir dosya, [.JPG](/tr/image/jpeg/) veya GeoTIFF [.TIFF](/tr/image/tiff/) dosyalarında eşlik eden raster veri dosyaları için jeo-uzamsal verileri içeren bir Yardımcı dosyadır. Tarama dosyaları bu tür bilgileri tutamadığından, ek bilgileri ilişkili veriler biçiminde depolamak için AUX dosyaları kullanılır. Bunlar genellikle karşılık gelen raster dosya adıyla aynı dosya adına sahip aynı dizinde saklanır. AUX dosyaları genellikle ESRI ArcGIS Desktop ve ERDAS IMAGINE gibi coğrafi uygulamalar tarafından kullanılır.
 
 ## AUX Dosya Biçimi - Daha Fazla Bilgi
 

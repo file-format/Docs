@@ -70,7 +70,7 @@ requires specialPlugIn "1.2";
 ## MA文件下载
 很难找到和下载 3d 模型的 MA 文件。因此，您可以从此处下载示例 MA 文件：
 
-- [样本.ma](../sample.ma)
+- [Sample.ma](../sample.ma)
 
 
 ## 参考

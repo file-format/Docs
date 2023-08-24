@@ -77,5 +77,5 @@ Dit blok bevat de binaire lading voor geometrie, animatiesleutelframes, skins en
 
 ## Referenties ##
 
-* [GLB-bestandsformaatspecificaties - Khronos](/nl/3D/GLTF/)
+* [GLB-bestandsformaatspecificaties - Khronos](/nl/3d/gltf/)
 

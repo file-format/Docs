@@ -27,5 +27,5 @@ Soubory FWTEMPLATEB se ukládají jako kolekce šablon webových stránek a obsa
 ## Reference
 
 * [FWTEMPLATE](/cs/web/fwtemplate/)
-* [FREEWAY](/cs/web/dálnice/)
+* [FREEWAY](/cs/web/freeway/)
 

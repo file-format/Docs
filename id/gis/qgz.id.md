@@ -19,7 +19,7 @@
 
 ## Apa itu file QGZ?
 
-Format file **QGZ** adalah arsip terkompresi yang berisi file [QGS](https://docs.fileformat.com/gis/qgs/) dan file QGD. Padahal, File QGD adalah database sqlite dari proyek qgis yang terdiri dari data tambahan untuk proyek tersebut. Jika tidak ada data tambahan, file QGD akan tetap kosong.
+Format file **QGZ** adalah arsip terkompresi yang berisi file [QGS](/gis/qgs/) dan file QGD. Padahal, File QGD adalah database sqlite dari proyek qgis yang terdiri dari data tambahan untuk proyek tersebut. Jika tidak ada data tambahan, file QGD akan tetap kosong.
 
 ## Detail tentang Format File QGZ
 

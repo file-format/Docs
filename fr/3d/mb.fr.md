@@ -31,7 +31,7 @@ Les fichiers MB sont au format de fichier binaire, qui est un format de fichier 
 
 Il est un peu difficile de trouver et de télécharger le fichier MB d'un modèle 3D. Par conséquent, vous pouvez télécharger un exemple de fichier MB à partir d'ici :
 
-- [Échantillon.mb](../échantillon.mb)
+- [Sample.mb](../sample.mb)
 
 ## Références
 

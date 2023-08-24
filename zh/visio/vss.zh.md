@@ -20,7 +20,7 @@
 
 ## 什么是一 .vss 文件？
 
-VSS 是使用 Microsoft Visio 2007 及更早版本创建的模具文件。一种相对较新的文件格式是 Microsoft Visio 2013 引入的 [VSSX](/zh/image/vssx/)。模板文件提供了可以包含在 .VSD Visio 绘图中的绘图对象。 Microsoft Visio 本身以创建绘图元素而闻名，例如形状、连接器、流程图、网络布局、UML 图、软件图、数据库模型、对象映射和其他类似信息的集合。它还具有丰富的 Visio 文档到 PNG、BMP、PDF 等其他文件格式的转换功能。 Visio 适用于 Windows 和 Mac OS。
+VSS 是使用 Microsoft Visio 2007 及更早版本创建的模具文件。一种相对较新的文件格式是 Microsoft Visio 2013 引入的 [VSSX](/zh/visio/vssx/)。模板文件提供了可以包含在 .VSD Visio 绘图中的绘图对象。 Microsoft Visio 本身以创建绘图元素而闻名，例如形状、连接器、流程图、网络布局、UML 图、软件图、数据库模型、对象映射和其他类似信息的集合。它还具有丰富的 Visio 文档到 PNG、BMP、PDF 等其他文件格式的转换功能。 Visio 适用于 Windows 和 Mac OS。
 
 ## VSS 文件格式
 

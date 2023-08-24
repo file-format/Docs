@@ -19,7 +19,7 @@
 
 ## Vad är en DOTM fil?
 
-En fil med DOTM-tillägget representerar en mallfil som skapats med Microsoft Word 2007 eller senare. Det liknar det populära filformatet [DOCX](/sv/ordbehandling/docx/) förutom att det behåller de användardefinierade inställningarna för återanvändning i händelse av att nya dokument skapas. Sådana dokument används oftare på kontor där en standardmallfil genereras med inställningar som sidinformation, marginaler, standardlayout och makron, och används för att skapa nya dokument från den vid behov. DOTM-filer sparar dock makron, som är en serie kommandon i form av inspelade åtgärder för automatiskt slutförande av en uppgift. Detta hjälper till att spara tid vid utförande av åtgärder som upprepas när en uppgift slutförs.
+En fil med DOTM-tillägget representerar en mallfil som skapats med Microsoft Word 2007 eller senare. Det liknar det populära filformatet [DOCX](/sv/word-processing/docx/) förutom att det behåller de användardefinierade inställningarna för återanvändning i händelse av att nya dokument skapas. Sådana dokument används oftare på kontor där en standardmallfil genereras med inställningar som sidinformation, marginaler, standardlayout och makron, och används för att skapa nya dokument från den vid behov. DOTM-filer sparar dock makron, som är en serie kommandon i form av inspelade åtgärder för automatiskt slutförande av en uppgift. Detta hjälper till att spara tid vid utförande av åtgärder som upprepas när en uppgift slutförs.
 
 ## Kortfattad bakgrund
 

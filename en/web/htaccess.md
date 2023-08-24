@@ -20,7 +20,7 @@
 
 An HTACCESS file is an Apache configuration file that provides a mechanism to allow configuration changes for different folders/directories of a website. It includes configuration directives that are applicable to the directory and sub-directories.
 
-An HTACCESS file performs a number of checks such as defining the index page of a website, listing the 404 (Page Not Found) error page, performing the 301 or 302 page redirects, blocking access from a specific IP address or other websites. The use of .htaccess files, thus, slows down the overall performance of your Apache [HTTP](/web/http/) server.
+An HTACCESS file performs a number of checks such as defining the index page of a website, listing the 404 (Page Not Found) error page, performing the 301 or 302 page redirects, blocking access from a specific IP address or other websites. The use of .htaccess files, thus, slows down the overall performance of your Apache HTTP server.
 
 ## HTACCESS File Format
 

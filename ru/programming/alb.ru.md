@@ -29,6 +29,6 @@
 
 ## использованная литература
 
-* [Файл ADB](/ru/база данных/adb/)
+* [Файл ADB](/ru/database/adb/)
 * [IDE Alpha Anywhere](https://documentation.alphasoftware.com/pages/GettingStarted/IDE/index.xml)
 

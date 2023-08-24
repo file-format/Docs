@@ -23,7 +23,7 @@ GSM adalah ekstensi file yang dikaitkan dengan Sistem Global untuk File Format A
 
 File GSM dikodekan dengan codec kompresi suara CBR (Constant bitrate) lossy. Kecepatan sampel dalam file audio GSM adalah 8000 sampel/detik sedangkan kecepatan data sekitar 13 kbps. Kecepatan bit dalam file GSM memastikan kualitas selama perekaman suara. Selain itu, format file GSM juga dikenal sebagai format standar global untuk digunakan di ponsel dan file WAV juga dapat dengan mudah dikodekan menggunakan format file GSM. Masalah apa pun dengan file GSM dapat dengan mudah diselesaikan oleh pengguna sendiri tanpa pergi ke ahlinya.
 
-Pengguna juga dapat mengonversi file GSM ke dalam format [MP3](/id/audio/mp3/) dan [MP4](/id/audio/mp4/).
+Pengguna juga dapat mengonversi file GSM ke dalam format [MP3](/id/audio/mp3/) dan [MP4](/id/video/mp4/).
 
 ## Sejarah Singkat Format File GSM
 

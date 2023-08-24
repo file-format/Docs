@@ -26,12 +26,12 @@ Wewnętrzny format plików TE jest nieznany. Firma Textease dostarczyła licencj
 
 ## Typy pól TE
 
-* Tekst
-* Liczba
-* [Obraz](/pl/obraz/)
-* Kolor
-* Data (DD/MM/RRRR)
-* Waluta
+* Text
+* Number
+* [Image](/pl/image/)
+* Colour
+* Date (DD/MM/YYYY)
+* Currency
 
 ## Bibliografia ##
 

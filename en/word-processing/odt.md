@@ -35,7 +35,7 @@ There were pretty minor changes in transition from ODF 1.0 to 1.1 versions. The�
 
 ## File Format Specifications ##
 
-OpenDocument format supports document representation as a single XML document as well as a collection of several subdocuments within a package as [ZIP](/Compression/ZIP/) archive.  Each of the files from the ZIP archive stores part of the complete document. Each subdocument stores a particular aspect of the document. For example, one subdocument contains the style information and another subdocument contains the content of the document. A typical ODF document has the following components:
+OpenDocument format supports document representation as a single XML document as well as a collection of several subdocuments within a package as [ZIP](/compression/zip/) archive.  Each of the files from the ZIP archive stores part of the complete document. Each subdocument stores a particular aspect of the document. For example, one subdocument contains the style information and another subdocument contains the content of the document. A typical ODF document has the following components:
 
 * content.xml – Document content and automatic styles used in the content.
 * styles.xml – Styles used in the document content and automatic styles used in the styles themselves.

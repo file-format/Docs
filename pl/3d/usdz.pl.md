@@ -41,7 +41,7 @@ Pakiety USDZ wymagają takiego układu plików w pakiecie, aby dane dla każdego
 ## Pobieranie pliku USDZ
 Ponieważ pliki usdz są wypełnione innymi wysokiej jakości obrazami i plikami usd, mogą zajmować więcej miejsca na dysku. Tutaj możesz znaleźć prosty i mniejszy przykładowy plik USDZ do pobrania:
 
-- [Próbka.usdz](../sample.usdz)
+- [Sample.usdz](../sample.usdz)
 
 ## Bibliografia
 

@@ -26,7 +26,7 @@ Het M4A-formaat is gecodeerd door FairPlay Digital Rights Management, aangezien 
 
 ## M4A versus MP3
 
-Zowel M4A als [MP3](https://docs.fileformat.com/audio/mp3/) zijn bestandsindelingen met alleen audio.
+Zowel M4A als [MP3](/audio/mp3/) zijn bestandsindelingen met alleen audio.
 
 **M4A**: Beter dan MP3 in termen van kwaliteit en grootte bij codering met dezelfde bitsnelheid. De bestandsextensie .m4a is zo gewoon omdat ze door Apple zijn gebruikt voor gebruik in de iTunes Music Store. De M4A is een audiobestand dat is gecomprimeerd met behulp van MPEG-4-technologie; een algoritme voor lossy compressie. Het wordt in feite geassocieerd met "MPEG-4 Audio Layer", bestanden met de extensie .m4a zijn de audiolaag van MPEG-4-films. Het is bedoeld om MP3 in te halen en de nieuwe standaard te worden in audiocompressie. Het komt in veel opzichten dicht bij MP3, maar is geïntroduceerd om een betere kwaliteit te hebben in een zelfde of zelfs kleinere bestandsgrootte. Het M4A-formaat werd voor het eerst geïntroduceerd door Apple. Het formaattype wordt ook gerealiseerd als de Apple lossless Encoder (ALE).
 

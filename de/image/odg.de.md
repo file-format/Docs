@@ -42,11 +42,11 @@ Ein Dokumentstammelement enthält das gesamte Dokument und ist das primäre Elem
 ### Wurzelelemente ###
 Ein einzelnes XML-Dokument wird durch ein eigenes Root-Element dargestellt. Die fünf verschiedenen unterstützten Root-Elemente sind wie folgt.
 
-`<office:document> ` - Vollständiges Office-Dokument in einem einzigen XML-Dokument.
-`<office:document-content> ` - Dokumentinhalt und im Inhalt verwendete automatische Stile.
-`<office:document-styles> ` - Stile, die im Dokumentinhalt verwendet werden, und automatische Stile, die in den Stilen selbst verwendet werden.
-`<office:document-meta> ` - Dokumentiere Metainformationen, wie z. B. den Autor oder den Zeitpunkt der letzten Speicheraktion.
-`<office:document-settings> ` - Anwendungsspezifische Einstellungen wie Fenstergröße oder Druckerinformationen.
+`<office:document>` - Vollständiges Office-Dokument in einem einzigen XML-Dokument.
+`<office:document-content>` - Dokumentinhalt und im Inhalt verwendete automatische Stile.
+`<office:document-styles>` - Stile, die im Dokumentinhalt verwendet werden, und automatische Stile, die in den Stilen selbst verwendet werden.
+`<office:document-meta>` - Dokumentiere Metainformationen, wie z. B. den Autor oder den Zeitpunkt der letzten Speicheraktion.
+`<office:document-settings>` - Anwendungsspezifische Einstellungen wie Fenstergröße oder Druckerinformationen.
 
 ### Metadaten des ODG-Dokuments ###
 Das OpenDocument enthält alle Metadatenelemente im \<office:meta> Element. Diese allgemeinen Informationen zu einem Dokument sind am Anfang des Dokuments enthalten, und Anwendungen können mehrere Instanzen derselben Elemente aktualisieren.
@@ -61,12 +61,12 @@ Der Dokumentkörper gibt den Inhaltstyp an, der in dem Dokument enthalten ist, i
 * Bilddokumente
 
 ### Anwendungseinstellungen ###
-Die Einstellungen für Office-Anwendungen stellen verschiedene Einstellungen dar, die sich auf die Dokumentkonfiguration oder das visuelle Erscheinungsbild des Dokuments beziehen. Jede Kategorie wird durch ein ` dargestellt<config:config-item-set> `. Beispiele für solche Einstellungskategorien sind:
+Die Einstellungen für Office-Anwendungen stellen verschiedene Einstellungen dar, die sich auf die Dokumentkonfiguration oder das visuelle Erscheinungsbild des Dokuments beziehen. Jede Kategorie wird durch ein dargestellt `<config:config-item-set>`. Beispiele für solche Einstellungskategorien sind:
 * Dokumenteinstellungen zB Standarddrucker
 * Einstellungen anzeigen, z. B. Zoomstufe
 
 ### Skripte ###
-Es ist üblich, dass ein Dokument mehrere Skripte enthält. Jedes Skript in einer OpenDocument-Datei wird durch ein ` dargestellt<office:script> `Element. Diese Skriptelemente sind in einem einzigen ` enthalten<office:scripts> `Element. Skripts aktualisieren ein Dokument nicht, während das Dokument geladen wird.
+Es ist üblich, dass ein Dokument mehrere Skripte enthält. Jedes Skript in einer OpenDocument-Datei wird durch ein dargestellt `<office:script>` Element. Diese Skriptelemente sind in einem einzigen enthalten `<office:scripts>` Element. Skripts aktualisieren ein Dokument nicht, während das Dokument geladen wird.
 ### Schriftartdeklarationen ###
 
 Eine Schriftartdeklaration enthält Informationen über die vom Autor eines Dokuments verwendeten Schriftarten. Diese Informationen helfen, diese Schriftarten auf anderen Systemen zu finden.
@@ -84,9 +84,9 @@ Eine Schriftartdeklaration enthält Informationen über die vom Autor eines Doku
 ### Stile ###
 Die folgenden Stile werden vom OpenDocument-Format unterstützt.
 
-„Allgemeine Stile“ – Die XML-Darstellungen solcher Stile werden als Stile bezeichnet
-„Automatische Stile“ – Enthält Formatierungseigenschaften, die in der Benutzeroberflächenansicht eines Dokuments einem Objekt wie einem Absatz zugewiesen werden.
-„Mater Styles“ – ein allgemeiner Stil, der Formatierungsinformationen und zusätzliche Inhalte enthält, die zusammen mit dem Dokumentinhalt angezeigt werden, wenn der Stil angewendet wird. Ein Beispiel für einen Masterstil sind Masterseiten.
+`Common Styles` – Die XML-Darstellungen solcher Stile werden als Stile bezeichnet
+`Automatic Styles` – Enthält Formatierungseigenschaften, die in der Benutzeroberflächenansicht eines Dokuments einem Objekt wie einem Absatz zugewiesen werden.
+`Mater Styles` – ein allgemeiner Stil, der Formatierungsinformationen und zusätzliche Inhalte enthält, die zusammen mit dem Dokumentinhalt angezeigt werden, wenn der Stil angewendet wird. Ein Beispiel für einen Masterstil sind Masterseiten.
 
 ## Verweise ##
 * [OASIS Open Document Format für Office-Anwendungen](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)

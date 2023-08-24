@@ -18,7 +18,7 @@
 
 ## Mi az a CFML fájl?
 
-A .cfml kiterjesztésű fájl egy ColdFusion Markup Language fájl, amelyet weboldal létrehozására használnak. Ez egy olyan szabálykészletre vonatkozik, amely meghatározza, hogy a ColdFusion alkalmazást a programozó hogyan fejleszti. A ColdFusion egy olyan programozási nyelv, amely szerveroldali webalkalmazások gyors és kevesebb felhasználásával hozható létre, mint más technológiák, például [ASP](/hu/web/asp/), [PHP](/hu/web/php/) stb. a CML-fájlokat megnyitni képes alkalmazások közé tartozik az Adobe ColdFusion 2018, az Adobe ColdFusion Builder és az Adobe Dreamweaver.
+A .cfml kiterjesztésű fájl egy ColdFusion Markup Language fájl, amelyet weboldal létrehozására használnak. Ez egy olyan szabálykészletre vonatkozik, amely meghatározza, hogy a ColdFusion alkalmazást a programozó hogyan fejleszti. A ColdFusion egy olyan programozási nyelv, amely szerveroldali webalkalmazások gyors és kevesebb felhasználásával hozható létre, mint más technológiák, például [ASP](/hu/web/asp/), [PHP](/hu/programming/php/) stb. a CML-fájlokat megnyitni képes alkalmazások közé tartozik az Adobe ColdFusion 2018, az Adobe ColdFusion Builder és az Adobe Dreamweaver.
 
 ## CFML fájlformátum – További információ
 

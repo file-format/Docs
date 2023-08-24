@@ -20,7 +20,7 @@
 
 ## Czym jest plik VSSM?
 
-Pliki z rozszerzeniem .vssm to pliki Microsoft Visio Stencil, które zapewniają obsługę makr. Plik VSSM po otwarciu umożliwia uruchomienie makr w celu uzyskania pożądanego formatowania i rozmieszczenia kształtów na diagramie. Ogólnie rzecz biorąc, Microsoft Visio to oprogramowanie do rysowania, które umożliwia tworzenie plików, które mogą zawierać i przedstawiać informacje zdefiniowane przez użytkownika w różnych kształtach. Najpopularniejsze z nich obejmują między innymi diagramy UML, schematy blokowe, obiekty wizualne, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również konwertować do różnych formatów plików, takich jak [PNG](/pl/Image/PNG/), [BMP](/pl/Image/BMP/), [PDF](/pl/pdf/) i inne.
+Pliki z rozszerzeniem .vssm to pliki Microsoft Visio Stencil, które zapewniają obsługę makr. Plik VSSM po otwarciu umożliwia uruchomienie makr w celu uzyskania pożądanego formatowania i rozmieszczenia kształtów na diagramie. Ogólnie rzecz biorąc, Microsoft Visio to oprogramowanie do rysowania, które umożliwia tworzenie plików, które mogą zawierać i przedstawiać informacje zdefiniowane przez użytkownika w różnych kształtach. Najpopularniejsze z nich obejmują między innymi diagramy UML, schematy blokowe, obiekty wizualne, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również konwertować do różnych formatów plików, takich jak [PNG](/pl/image/png/), [BMP](/pl/image/bmp/), [PDF](/pl/pdf/) i inne.
 
 ## Format pliku VSSM
 
@@ -32,7 +32,7 @@ Format pliku VSSM został wprowadzony w programie Microsoft Visio 2013, który j
 * .vstx (szablon programu Visio)
 * .vstm (szablon programu Visio z obsługą makr)
 
-Pod maską format pliku Visio 2013 wykorzystuje ustrukturyzowane środki do przechowywania danych aplikacji wraz z powiązanymi zasobami w archiwum, takim jak [ZIP](/pl/Compression/ZIP/). Plik ZIP można wyodrębnić za pomocą dowolnego standardowego narzędzia do wyodrębniania, w którym zawiera również inne typy plików.
+Pod maską format pliku Visio 2013 wykorzystuje ustrukturyzowane środki do przechowywania danych aplikacji wraz z powiązanymi zasobami w archiwum, takim jak [ZIP](/pl/compression/zip/). Plik ZIP można wyodrębnić za pomocą dowolnego standardowego narzędzia do wyodrębniania, w którym zawiera również inne typy plików.
 
 Każdy plik programu Visio jest określany jako pakiet zawierający inne pliki lub części. Częścią pakietu może być plik XML, obraz, a nawet rozwiązanie VBA. Części w pakiecie można podzielić na części „dokumentowe” i „relacyjne”.
 

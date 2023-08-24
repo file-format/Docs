@@ -19,7 +19,7 @@
 
 ## .pps dosyası nedir?
 
-PPS, PowerPoint Slayt Gösterisi, Slayt Gösterisi amaçlı Microsoft PowerPoint kullanılarak dosyalar oluşturulur. PPS dosyası okuma ve oluşturma, Microsoft PowerPoint 97-2003 tarafından desteklenmektedir. Bu dosya biçiminin en son sürümü, Office OpenXML standartlarını temel alan [PPSX ](/tr/sunum/ppsx/)'dir. PPS dosyaları, Microsoft PowerPoint'in en son sürümleri tarafından hâlâ okunabilir, ancak yeni oluşturulan dosyalar yalnızca PPSX dosya biçiminde kaydedilebilir. Bir PPS dosyası başka bir kullanıcı ile paylaşılıp açıldığında, düzenlenebilir modda açılan [PPT](/tr/sunum/ppt/) dosyasından farklı olarak Powerpoint gösterisi olarak başlar.
+PPS, PowerPoint Slayt Gösterisi, Slayt Gösterisi amaçlı Microsoft PowerPoint kullanılarak dosyalar oluşturulur. PPS dosyası okuma ve oluşturma, Microsoft PowerPoint 97-2003 tarafından desteklenmektedir. Bu dosya biçiminin en son sürümü, Office OpenXML standartlarını temel alan [PPSX](/tr/presentation/ppsx/)'dir. PPS dosyaları, Microsoft PowerPoint'in en son sürümleri tarafından hâlâ okunabilir, ancak yeni oluşturulan dosyalar yalnızca PPSX dosya biçiminde kaydedilebilir. Bir PPS dosyası başka bir kullanıcı ile paylaşılıp açıldığında, düzenlenebilir modda açılan [PPT](/tr/presentation/ppt/) dosyasından farklı olarak Powerpoint gösterisi olarak başlar.
 
 ## Dosya formatı ##
 

@@ -20,7 +20,7 @@
 
 Eine HTACCESS-Datei ist eine Apache-Konfigurationsdatei, die einen Mechanismus bereitstellt, um Konfigurationsänderungen für verschiedene Ordner/Verzeichnisse einer Website zuzulassen. Es enthält Konfigurationsanweisungen, die auf das Verzeichnis und Unterverzeichnisse anwendbar sind.
 
-Eine HTACCESS-Datei führt eine Reihe von Überprüfungen durch, z. B. das Definieren der Indexseite einer Website, das Auflisten der 404-Fehlerseite (Seite nicht gefunden), das Ausführen der 301- oder 302-Seitenumleitungen, das Blockieren des Zugriffs von einer bestimmten IP-Adresse oder anderen Websites. Die Verwendung von .htaccess-Dateien verlangsamt daher die Gesamtleistung Ihres Apache [HTTP](/de/web/http/)-Servers.
+Eine HTACCESS-Datei führt eine Reihe von Überprüfungen durch, z. B. das Definieren der Indexseite einer Website, das Auflisten der 404-Fehlerseite (Seite nicht gefunden), das Ausführen der 301- oder 302-Seitenumleitungen, das Blockieren des Zugriffs von einer bestimmten IP-Adresse oder anderen Websites. Die Verwendung von .htaccess-Dateien verlangsamt daher die Gesamtleistung Ihres Apache HTTP-Servers.
 
 ## HTACCESS-Dateiformat
 

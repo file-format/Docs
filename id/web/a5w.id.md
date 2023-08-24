@@ -19,7 +19,7 @@
 
 ## Apa itu file A5W?
 
-File A5W adalah halaman web sisi server yang dibuat dengan perangkat lunak [Alpha Five](https://www.alphasoftware.com/) dan berisi kode yang disajikan kepada pengguna saat diakses melalui browser. Ini mirip dengan halaman [.asp](/id/web/asp/) dan [.php](/id/web/php/) tetapi berbeda dalam sintaksis karena ditulis dalam sintaksis [Alpha Five](https://documentation.alphasoftware.com/documentation/pages/GettingStarted/index.html). Alpha Five adalah alat pengembangan aplikasi web dan seluler lintas platform untuk alat aplikasi cepat. Ini juga memungkinkan Anda membuat komponen halaman web dinamis dan aplikasi seperti desktop yang dijalankan browser. File A5W dapat dibuka di Perangkat Lunak Alpha 5.
+File A5W adalah halaman web sisi server yang dibuat dengan perangkat lunak [Alpha Five](https://www.alphasoftware.com/) dan berisi kode yang disajikan kepada pengguna saat diakses melalui browser. Ini mirip dengan halaman [.asp](/id/web/asp/) dan [.php](/id/programming/php/) tetapi berbeda dalam sintaksis karena ditulis dalam sintaksis [Alpha Five](https://documentation.alphasoftware.com/documentation/pages/GettingStarted/index.html). Alpha Five adalah alat pengembangan aplikasi web dan seluler lintas platform untuk alat aplikasi cepat. Ini juga memungkinkan Anda membuat komponen halaman web dinamis dan aplikasi seperti desktop yang dijalankan browser. File A5W dapat dibuka di Perangkat Lunak Alpha 5.
 
 ## Format File A5W
 

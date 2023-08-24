@@ -23,7 +23,7 @@ GSM là một phần mở rộng tệp được liên kết với Hệ thống T
 
 Tệp GSM được mã hóa bằng codec nén âm thanh CBR (Tốc độ bit không đổi) bị mất dữ liệu. Tốc độ mẫu trong tệp âm thanh GSM là 8000 mẫu/giây trong khi tốc độ dữ liệu là khoảng 13 kbps. Tốc độ bit trong các tệp GSM đảm bảo chất lượng trong quá trình ghi âm giọng nói. Hơn nữa, định dạng tệp GSM còn được gọi là định dạng tiêu chuẩn toàn cầu được sử dụng trong điện thoại di động và các tệp WAV cũng có thể được mã hóa dễ dàng bằng định dạng tệp GSM. Người dùng có thể dễ dàng giải quyết bất kỳ sự cố nào với tệp GSM mà không cần đến chuyên gia.
 
-Người dùng cũng có thể chuyển đổi các tập tin GSM thành các định dạng [MP3](/vi/audio/mp3/) và [MP4](/vi/audio/mp4/).
+Người dùng cũng có thể chuyển đổi các tập tin GSM thành các định dạng [MP3](/vi/audio/mp3/) và [MP4](/vi/video/mp4/).
 
 ## Lịch sử tóm tắt về định dạng tệp GSM
 

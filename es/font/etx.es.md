@@ -24,5 +24,5 @@ Un archivo ETX es un archivo de fuente utilizado por los sistemas de composició
 ## Referencias
 
 * [Lista de formatos de archivos de fuentes](/es/font/)
-* [Formato de archivo FNT](/es/fuente/fnt/)
+* [Formato de archivo FNT](/es/font/fnt/)
 

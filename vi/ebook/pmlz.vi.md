@@ -19,7 +19,7 @@
 
 ## Tệp PMLZ là gì?
 
-Palm Inc đã giới thiệu một loại tệp sách điện tử; được gọi là định dạng tệp PMLZ là phiên bản nén của định dạng tệp [PML](/vi/ebook/pml/), đó là lý do tại sao các tệp có phần mở rộng .pmlz được gọi là **Tệp ngôn ngữ đánh dấu lòng bàn tay nén**. Tệp PMLZ chỉ là một vùng chứa zip chứa tệp biên dịch các tệp [PDB](/vi/ebook/pdb/) để tạo tài liệu cho **eReader** (Được gọi là thiết bị đọc sách điện tử, chẳng hạn như máy tính bảng). Tệp PML cung cấp bố cục cho tệp PDB (chứa nhiều tệp dữ liệu khác nhau) để hiển thị trên Thiết bị Palm. Trong khi đó, tệp PDB là tệp cơ sở dữ liệu, được sử dụng bởi nhiều ứng dụng khác nhau, bao gồm Quicken, Pegasus, Microsoft Visual Studio và Palm Pilot. Nói tóm lại, PMLZ là một vùng chứa các tệp PML và PDB được nén.
+Palm Inc đã giới thiệu một loại tệp sách điện tử; được gọi là định dạng tệp PMLZ là phiên bản nén của định dạng tệp [PML](/vi/ebook/pml/), đó là lý do tại sao các tệp có phần mở rộng .pmlz được gọi là **Tệp ngôn ngữ đánh dấu lòng bàn tay nén**. Tệp PMLZ chỉ là một vùng chứa zip chứa tệp biên dịch các tệp [PDB](/vi/programming/pdb/) để tạo tài liệu cho **eReader** (Được gọi là thiết bị đọc sách điện tử, chẳng hạn như máy tính bảng). Tệp PML cung cấp bố cục cho tệp PDB (chứa nhiều tệp dữ liệu khác nhau) để hiển thị trên Thiết bị Palm. Trong khi đó, tệp PDB là tệp cơ sở dữ liệu, được sử dụng bởi nhiều ứng dụng khác nhau, bao gồm Quicken, Pegasus, Microsoft Visual Studio và Palm Pilot. Nói tóm lại, PMLZ là một vùng chứa các tệp PML và PDB được nén.
 
 
 ## Kiến thức về Palm Markup Language

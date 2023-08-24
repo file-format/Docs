@@ -24,7 +24,7 @@ Các tệp VSD là các bản vẽ được tạo bằng ứng dụng Microsoft 
 
 # Định dạng tệp VSD #
 
-Định dạng tệp VSD là định dạng tệp ban đầu được giới thiệu bởi Microsoft Visio để lưu trữ các thành phần bản vẽ. Cấu trúc bên trong của tệp VSD dựa trên định dạng tệp nhị phân không giống như [.VSDX](/vi/image/vsdx/) đã được giới thiệu với Microsoft Visio 2013. Định dạng mới dựa trên định dạng tệp Office Open XML và lưu trữ thông tin dự án trong một Lưu trữ [ZIP](/vi/compression/zip/). Microsoft cung cấp ứng dụng vviewer.exe cho các tệp bản vẽ Visio trong trường hợp Visio chưa được cài đặt trên hệ thống.
+Định dạng tệp VSD là định dạng tệp ban đầu được giới thiệu bởi Microsoft Visio để lưu trữ các thành phần bản vẽ. Cấu trúc bên trong của tệp VSD dựa trên định dạng tệp nhị phân không giống như [.VSDX](/vi/visio/vsdx/) đã được giới thiệu với Microsoft Visio 2013. Định dạng mới dựa trên định dạng tệp Office Open XML và lưu trữ thông tin dự án trong một Lưu trữ [ZIP](/vi/compression/zip/). Microsoft cung cấp ứng dụng vviewer.exe cho các tệp bản vẽ Visio trong trường hợp Visio chưa được cài đặt trên hệ thống.
 
 ## Lược Sử ##
 

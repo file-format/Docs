@@ -23,7 +23,7 @@ ORB ファイル形式は、拡張子が .orb の電子ブック ファイルの
 
 ## ORB ファイルの構造 ##
 
-.orb 拡張子を持つファイルは、実際には Zip 圧縮で圧縮されています。 eBook を構成する 1 つ以上の [SWF](/video/swf/) (Macromedia Flash ファイル) ファイルを含む。どうすればこのファイル形式を開いたり読み取ったりできるのでしょうか?答えは、**ORB Reader** とも呼ばれる Original Book Reader で開くことができるということです。 ORB リーダーは廃止されたか、インターネット経由で入手できなくなったようですが、以前は Microsoft Windows と macOS で使用できました。
+.orb 拡張子を持つファイルは、実際には Zip 圧縮で圧縮されています。 eBook を構成する 1 つ以上の [SWF](/page-description-language/swf/) (Macromedia Flash ファイル) ファイルを含む。どうすればこのファイル形式を開いたり読み取ったりできるのでしょうか?答えは、**ORB Reader** とも呼ばれる Original Book Reader で開くことができるということです。 ORB リーダーは廃止されたか、インターネット経由で入手できなくなったようですが、以前は Microsoft Windows と macOS で使用できました。
 
 ## ORB ファイルを表示する ##
 

@@ -48,6 +48,6 @@ vpk x <vpkfile> <filename1> <filename2> ...
 
 ## использованная литература
 
-* [Формат файла VPK](https://developer.valvesoftware.com/wiki/Формат_файла_VPK)
+* [Формат файла VPK](https://developer.valvesoftware.com/wiki/VPK_File_Format)
 * [Файлы VPK](https://developer.valvesoftware.com/wiki/VPK)
 

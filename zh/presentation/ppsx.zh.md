@@ -30,7 +30,7 @@ PPSX 文件以 Microsoft Office 2007 中引入的 Open XML 格式保存。它们
 ## 也可以看看 ＃＃
 
 * [PPT](/zh/presentation/ppt/)
-* [PPTX](/zh/演示文稿/pptx/)
+* [PPTX](/zh/presentation/pptx/)
 
 ## 参考 ＃＃
 

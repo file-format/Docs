@@ -22,7 +22,7 @@ En PUB-fil är ett Microsoft Publisher-dokumentfilformat. Den används för att 
 
 ## PUB-filformat - Mer information
 
-PUB-filer lagras som binära filer gör skivor. Innehållet i en PUB-fil kan också konverteras till filformatet [DOCX](/sv/ordbehandling/docx/) från Microsoft Publisher-applikationen genom att använda alternativet Spara som.
+PUB-filer lagras som binära filer gör skivor. Innehållet i en PUB-fil kan också konverteras till filformatet [DOCX](/sv/word-processing/docx/) från Microsoft Publisher-applikationen genom att använda alternativet Spara som.
 
 ## Hur använder man Microsoft Publisher?
 

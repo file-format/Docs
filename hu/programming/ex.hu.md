@@ -26,7 +26,7 @@ Az EX-fájlokat** megnyitni képes alkalmazások közé tartozik az openEuphoria
 
 Az EX fájlformátum fejlesztése és létezése az Euphoria programozási nyelv fejlesztéséhez kapcsolódik, amelyet Robert Craig hozott létre. Először MS-DOS-ra adták ki. A 3-as verzió megjelenésével 2006-ban nyílt forráskódú szoftverré vált. Fejlesztését a projektet adminisztráló és fejlesztő **openEuphoria csoport** vette át. A 4-es verzióját 2010 decemberében adták ki, és Windows, Linux, macOS és három BSD verzióra érhető el.
 
-Az Euphoria eredetileg **[C](/hu/programing/c/)** programozási nyelven íródott. Később az Euphoria tolmácsot két részre osztották:
+Az Euphoria eredetileg **[C](/hu/programming/c/)** programozási nyelven íródott. Később az Euphoria tolmácsot két részre osztották:
 
 * "Front-end Parser" - Euphoria nyelven íródott, és az Euphoria-C fordítóval és a Binderrel együtt használatos.
 * `Back-end` - C programozási nyelven írt futásidejű könyvtár.

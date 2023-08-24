@@ -37,7 +37,7 @@ Följande är några snabba fakta om ursprunget och historien för CSV-filformat
 
 ## Konvertera CSV-filer ##
 
-CSV-filer kan konverteras till flera olika filformat med de program som kan öppna dessa filer. Till exempel kan Microsoft Excel importera data från CSV-filformat och spara dem till XLS, [XLSX](/sv/spreadsheet/xlsx/), [PDF](/sv/pdf/), [TXT](/sv/ordbehandling/txt/) , XML och [HTML](/sv/web/html/) filformat. På liknande sätt ger andra stationära tjänster såväl som onlinetjänster möjlighet att exportera CSV-filer till HTML, ODS och [RTF](/sv/ordbehandling/rtf/).
+CSV-filer kan konverteras till flera olika filformat med de program som kan öppna dessa filer. Till exempel kan Microsoft Excel importera data från CSV-filformat och spara dem till XLS, [XLSX](/sv/spreadsheet/xlsx/), [PDF](/sv/pdf/), [TXT](/sv/word-processing/txt/) , XML och [HTML](/sv/web/html/) filformat. På liknande sätt ger andra stationära tjänster såväl som onlinetjänster möjlighet att exportera CSV-filer till HTML, ODS och [RTF](/sv/word-processing/rtf/).
 
 ## CSV-filformat ##
 

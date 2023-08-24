@@ -18,7 +18,7 @@
 
 ## 什么是一 .cfml 文件？
 
-扩展名为 .cfml 的文件是用于创建网页的 ColdFusion 标记语言文件。它指的是一组规则，用于定义程序员将如何开发 ColdFusion 应用程序。 ColdFusion 是一种编程语言，用于快速创建服务器端 Web 应用程序，并且使用的技术少于 [ASP](/zh/web/asp/)、[PHP](/zh/web/php/) 等其他技术。一些可以打开 CML 文件的应用程序包括 Adobe ColdFusion 2018、Adobe ColdFusion Builder 和 Adobe Dreamweaver。
+扩展名为 .cfml 的文件是用于创建网页的 ColdFusion 标记语言文件。它指的是一组规则，用于定义程序员将如何开发 ColdFusion 应用程序。 ColdFusion 是一种编程语言，用于快速创建服务器端 Web 应用程序，并且使用的技术少于 [ASP](/zh/web/asp/)、[PHP](/zh/programming/php/) 等其他技术。一些可以打开 CML 文件的应用程序包括 Adobe ColdFusion 2018、Adobe ColdFusion Builder 和 Adobe Dreamweaver。
 
 ## CFML 文件格式 - 更多信息
 

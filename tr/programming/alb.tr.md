@@ -29,6 +29,6 @@ ALB dosyaları, Alpha File'a özel dosya biçiminde kaydedilir ve dahili dosya b
 
 ## Referanslar
 
-* [ADB dosyası](/tr/veritabanı/adb/)
+* [ADB dosyası](/tr/database/adb/)
 * [Her Yerde Alfa IDE](https://documentation.alphasoftware.com/pages/GettingStarted/IDE/index.xml)
 

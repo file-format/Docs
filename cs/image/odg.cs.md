@@ -19,7 +19,7 @@
 
 ## Co je soubor ODG?
 
-Formát souboru ODG používá aplikace Draw Apache OpenOffice k ukládání prvků výkresu jako vektorový obrázek. Řídí se specifikacemi formátu souborů založenými na XML, které jsou uvedeny v Advancement of Structural Information Standards (OASIS). ODG představuje kresby jako vektorové obrázky pomocí bodů, čar a křivek. Kromě OpenOffice, LibreOffice a další aplikace poskytují podporu pro práci se souborovým formátem ODG. Mezi další formáty podporované OpenOffice patří například [ODT](/cs/textový procesor/odt/), ODF, [ODP](/cs/prezentace/odp/) a [ODS](/cs/tabulkový procesor/ods/).
+Formát souboru ODG používá aplikace Draw Apache OpenOffice k ukládání prvků výkresu jako vektorový obrázek. Řídí se specifikacemi formátu souborů založenými na XML, které jsou uvedeny v Advancement of Structural Information Standards (OASIS). ODG představuje kresby jako vektorové obrázky pomocí bodů, čar a křivek. Kromě OpenOffice, LibreOffice a další aplikace poskytují podporu pro práci se souborovým formátem ODG. Mezi další formáty podporované OpenOffice patří například [ODT](/cs/word-processing/odt/), ODF, [ODP](/cs/presentation/odp/) a [ODS](/cs/spreadsheet/ods/).
 
 
 ## Specifikace formátu souboru ODG
@@ -42,11 +42,11 @@ Kořenový prvek dokumentu obsahuje celý dokument a je primárním prvkem soubo
 ### Kořenové prvky ###
 Jediný dokument XML je reprezentován svým vlastním kořenovým prvkem. Pět různých podporovaných kořenových prvků je následujících.
 
-`<office:document> ` - Kompletní kancelářský dokument v jediném XML dokumentu.
-`<office:document-content> ` - Obsah dokumentu a automatické styly použité v obsahu.
-`<office:document-styles> ` - Styly použité v obsahu dokumentu a automatické styly použité v samotných stylech.
-`<office:document-meta> ` - Metainformace dokumentu, jako je autor nebo čas poslední akce uložení.
-`<office:document-settings> ` - Nastavení specifická pro aplikaci, jako je velikost okna nebo informace o tiskárně.
+`<office:document>` - Kompletní kancelářský dokument v jediném XML dokumentu.
+`<office:document-content>` - Obsah dokumentu a automatické styly použité v obsahu.
+`<office:document-styles>` - Styly použité v obsahu dokumentu a automatické styly použité v samotných stylech.
+`<office:document-meta>` - Metainformace dokumentu, jako je autor nebo čas poslední akce uložení.
+`<office:document-settings>` - Nastavení specifická pro aplikaci, jako je velikost okna nebo informace o tiskárně.
 
 ### Metadata dokumentu ODG ###
 OpenDocument obsahuje všechny prvky metadat v \<office:meta> živel. Tyto obecné informace o dokumentu jsou obsaženy na začátku dokumentu a aplikace mohou aktualizovat více instancí stejných prvků.
@@ -61,12 +61,12 @@ Tělo dokumentu označuje typ obsahu obsaženého v dokumentu pomocí prvku typu
 * obrazové dokumenty
 
 ### Nastavení aplikace ###
-Nastavení pro kancelářské aplikace představují různá nastavení, která souvisí s konfigurací dokumentu nebo vizuálním vzhledem dokumentu. Každá kategorie je reprezentována znakem `<config:config-item-set> `. Příklady takových kategorií nastavení zahrnují:
+Nastavení pro kancelářské aplikace představují různá nastavení, která souvisí s konfigurací dokumentu nebo vizuálním vzhledem dokumentu. Každá kategorie je reprezentována znakem `<config:config-item-set>`. Příklady takových kategorií nastavení zahrnují:
 * Nastavení dokumentu, např. výchozí tiskárna
 * Nastavení zobrazení, např. úroveň přiblížení
 
 ### Skripty ###
-Je běžné, že dokument obsahuje několik skriptů. Každý skript v souboru OpenDocument je reprezentován znakem `<office:script> ` prvek. Tyto prvky skriptu jsou obsaženy v jediném `<office:scripts> ` prvek. Skripty neaktualizují dokument, když se dokument načítá.
+Je běžné, že dokument obsahuje několik skriptů. Každý skript v souboru OpenDocument je reprezentován znakem `<office:script>` prvek. Tyto prvky skriptu jsou obsaženy v jediném `<office:scripts>` prvek. Skripty neaktualizují dokument, když se dokument načítá.
 ### Prohlášení o vzhledu písma ###
 
 Deklarace fontu obsahuje informace o fontech používaných autorem dokumentu. Tyto informace pomáhají najít tato písma v jiných systémech.

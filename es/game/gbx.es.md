@@ -37,5 +37,5 @@ El formato de archivo GBX es un formato de archivo versátil y eficiente que ha 
 ## Referencias
 
 * [formato de archivo GAM](https://gibberlings3.github.io/iesdp/file_formats/ie_formats/gam_v2.0.htm#GAMEV2_0_Stored)
-* [Formato de archivo SAV](/es/juego/sav/)
+* [Formato de archivo SAV](/es/game/sav/)
 

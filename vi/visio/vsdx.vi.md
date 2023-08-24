@@ -20,7 +20,7 @@
 
 ## Tệp VSDX là gì?
 
-Các tệp có phần mở rộng .vsdx đại diện cho định dạng tệp Microsoft Visio được giới thiệu từ Microsoft Office 2013 trở đi. Nó được phát triển để thay thế định dạng tệp nhị phân, [.VSD](/vi/image/vsd/), được hỗ trợ bởi các phiên bản trước của Microsoft Visio. Nó cũng được hỗ trợ trên Dịch vụ Visio trong Microsoft SharePoint Server 2013 và không yêu cầu định dạng tệp trung gian để xuất bản lên SharePoint Server. Các tệp Visio được sử dụng để tạo các bản vẽ có chứa các đối tượng trực quan, sơ đồ luồng, sơ đồ UML, luồng thông tin, sơ đồ tổ chức, sơ đồ phần mềm, bố cục mạng, mô hình cơ sở dữ liệu, ánh xạ đối tượng và các thông tin tương tự khác. Các tệp được tạo bằng Visio cũng có thể được xuất sang các định dạng tệp khác nhau, chẳng hạn như [PNG](/vi/image/png/), [BMP](/vi/image/bmp/), [PDF](/vi/pdf/) và các định dạng khác.
+Các tệp có phần mở rộng .vsdx đại diện cho định dạng tệp Microsoft Visio được giới thiệu từ Microsoft Office 2013 trở đi. Nó được phát triển để thay thế định dạng tệp nhị phân, [.VSD](/vi/visio/vsd/), được hỗ trợ bởi các phiên bản trước của Microsoft Visio. Nó cũng được hỗ trợ trên Dịch vụ Visio trong Microsoft SharePoint Server 2013 và không yêu cầu định dạng tệp trung gian để xuất bản lên SharePoint Server. Các tệp Visio được sử dụng để tạo các bản vẽ có chứa các đối tượng trực quan, sơ đồ luồng, sơ đồ UML, luồng thông tin, sơ đồ tổ chức, sơ đồ phần mềm, bố cục mạng, mô hình cơ sở dữ liệu, ánh xạ đối tượng và các thông tin tương tự khác. Các tệp được tạo bằng Visio cũng có thể được xuất sang các định dạng tệp khác nhau, chẳng hạn như [PNG](/vi/image/png/), [BMP](/vi/image/bmp/), [PDF](/vi/pdf/) và các định dạng khác.
 
 ## Định dạng tệp ##
 

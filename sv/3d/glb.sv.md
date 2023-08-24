@@ -77,5 +77,5 @@ Den här biten innehåller den binära nyttolasten för geometri, animerade nyck
 
 ## Referenser ##
 
-* [GLB filformatspecifikationer - Khronos](/sv/3D/GLTF/)
+* [GLB filformatspecifikationer - Khronos](/sv/3d/gltf/)
 

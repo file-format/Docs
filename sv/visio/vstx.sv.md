@@ -20,11 +20,11 @@
 
 ## Vad är VSTX fil?
 
-Filer med .vstx-tillägg är ritmallsfiler skapade med Microsoft Visio 2013 och senare. Dessa VSTX-filer ger en startpunkt för att skapa Visio-ritningar, sparade som [.VSDX](/sv/image/vsdx/)-filer, med standardlayout och inställningar. I allmänhet används Visio-filer för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML-diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som [PNG](/sv/Image/PNG/), [BMP](/sv/Image/BMP/), [PDF](/sv/pdf/) och andra. Program som öppnar VSTX-filer inkluderar Microsoft Visio för Windows och Mac som låter dig öppna dessa filer för visning och redigering. Det gör det också möjligt att konvertera Visio-filformat till ett antal andra format.
+Filer med .vstx-tillägg är ritmallsfiler skapade med Microsoft Visio 2013 och senare. Dessa VSTX-filer ger en startpunkt för att skapa Visio-ritningar, sparade som [.VSDX](/sv/visio/vsdx/)-filer, med standardlayout och inställningar. I allmänhet används Visio-filer för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML-diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som [PNG](/sv/image/png/), [BMP](/sv/image/bmp/), [PDF](/sv/pdf/) och andra. Program som öppnar VSTX-filer inkluderar Microsoft Visio för Windows och Mac som låter dig öppna dessa filer för visning och redigering. Det gör det också möjligt att konvertera Visio-filformat till ett antal andra format.
 
 # VSTX-filformat #
 
-"X" i filtillägget hänvisar till OpenOffice-filformatet som introducerades av Microsoft som ett [ZIP](/sv/compression/zip/) arkivfilformat för ersättning av binära filformat som stöddes tidigare. VSTX-filer är därför baserade på XML-filformatet i OpenOffice-specifikationerna till skillnad från filformatet [.VST](/sv/image/vst/) som är i binärt format.
+"X" i filtillägget hänvisar till OpenOffice-filformatet som introducerades av Microsoft som ett [ZIP](/sv/compression/zip/) arkivfilformat för ersättning av binära filformat som stöddes tidigare. VSTX-filer är därför baserade på XML-filformatet i OpenOffice-specifikationerna till skillnad från filformatet [.VST](/sv/visio/vst/) som är i binärt format.
 
 VSDX-filer är baserade på Open Packaging Conventions och XML och utvecklare kan dra nytta av detta format genom att lära sig hur man arbetar med dessa filer programmatiskt. Formatet ärver många av samma XML-strukturer som dess delar från Visio XML Drawing-filformatet (.vdx). Interoperabiliteten med Visio-filer ökar avsevärt eftersom programvara från tredje part kan manipulera Visio-filer på filformatsnivå.
 
@@ -36,7 +36,7 @@ Vissa andra filtyper som utgör filformatet Visio 2013 inkluderar:
 * .vstx (Visio-mall)
 * .vstm (Visio makroaktiverad mall)
 
-Under huven använder Visio 2013-filformatet ett strukturerat sätt att lagra applikationsdata tillsammans med relaterade resurser i ett arkiv som [ZIP](/sv/Compression/ZIP/). ZIP-filen kan extraheras med vilket standardextraktionsverktyg som helst där den också innehåller andra typer av filer. Du kan bara ersätta .VSTX-filtillägget med .ZIP i Windows Explorer för att se innehållet i VSTX-filen.
+Under huven använder Visio 2013-filformatet ett strukturerat sätt att lagra applikationsdata tillsammans med relaterade resurser i ett arkiv som [ZIP](/sv/compression/zip/). ZIP-filen kan extraheras med vilket standardextraktionsverktyg som helst där den också innehåller andra typer av filer. Du kan bara ersätta .VSTX-filtillägget med .ZIP i Windows Explorer för att se innehållet i VSTX-filen.
 
 Varje Visio-fil kallas paket som innehåller andra filer eller delar. En paketdel kan vara en XML-fil, en bild eller till och med en VBA-lösning. Delarna i paketet kan delas upp i "dokument" och "relations" delar.
 

@@ -27,5 +27,6 @@ Pliki FWTEMPLATEB są zapisywane jako zbiór szablonów stron internetowych i za
 ## Bibliografia
 
 * [FWTEMPLATE](/pl/web/fwtemplate/)
-* [FREEWAY](/pl/web/autostrada/)
+* [FREEWAY](/pl/web/freeway/)
+
 

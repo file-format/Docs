@@ -18,7 +18,7 @@
 
 ## Wat is een DISCO-bestand?
 
-Een DISCO-bestand is een Microsoft Discovery-bestandsindeling die wordt gebruikt voor het publiceren en ontdekken van webservices. Het wordt opgeslagen in XML-bestandsindeling en stelt de Web Services Discovery-tools in staat een of meer gerelateerde documenten te lokaliseren of te ontdekken voor het beschrijven van de beschikbare [XML](/nl/web/xml/)-services. DISCO-bestand slaat informatie op zoals ontdekkingsdocumenten, [XSD](https://docs.fileformat.com/programming/xsd/) schema's en servicebeschrijvingen. XML-webservices gebruiken deze informatie om op een bepaalde URL naar de beschikbare XML-webservices te gaan.
+Een DISCO-bestand is een Microsoft Discovery-bestandsindeling die wordt gebruikt voor het publiceren en ontdekken van webservices. Het wordt opgeslagen in XML-bestandsindeling en stelt de Web Services Discovery-tools in staat een of meer gerelateerde documenten te lokaliseren of te ontdekken voor het beschrijven van de beschikbare [XML](/nl/web/xml/)-services. DISCO-bestand slaat informatie op zoals ontdekkingsdocumenten, [XSD](/programming/xsd/) schema's en servicebeschrijvingen. XML-webservices gebruiken deze informatie om op een bepaalde URL naar de beschikbare XML-webservices te gaan.
 
 ## DISCO-bestandsindeling - Meer informatie
 

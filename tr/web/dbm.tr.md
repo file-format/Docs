@@ -19,7 +19,7 @@
 
 ## .dbm dosyası nedir?
 
-.dbm (Veritabanı İşaretleme Dili) uzantılı bir dosya, Adobe Systems tarafından geliştirilmiş bir ColdFusion Sunucu Dosyasıdır. ColdFusion'a sahip web sunucusunda yürütülen bir sunucu tarafı dosyasıdır. [ASP](/tr/web/asp/) ve [PHP](/tr/web/php/) dosyalarına benzer ve bir kullanıcı sayfayı web tarayıcısında istediğinde [HTML](/tr/web/html/) oluşturur. DBM dosyaları Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate ve Apple Safari gibi uygulamalarda açılabilir.
+.dbm (Veritabanı İşaretleme Dili) uzantılı bir dosya, Adobe Systems tarafından geliştirilmiş bir ColdFusion Sunucu Dosyasıdır. ColdFusion'a sahip web sunucusunda yürütülen bir sunucu tarafı dosyasıdır. [ASP](/tr/web/asp/) ve [PHP](/tr/programming/php/) dosyalarına benzer ve bir kullanıcı sayfayı web tarayıcısında istediğinde [HTML](/tr/web/html/) oluşturur. DBM dosyaları Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate ve Apple Safari gibi uygulamalarda açılabilir.
 
 ## DBM Dosya Biçimi
 

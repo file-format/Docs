@@ -29,6 +29,6 @@ ALB 文件以 Alpha File 专有文件格式保存，其内部文件格式结构�
 
 ## 参考
 
-* [ADB 文件](/zh/数据库/adb/)
+* [ADB 文件](/zh/database/adb/)
 * [Alpha Anywhere IDE](https://documentation.alphasoftware.com/pages/GettingStarted/IDE/index.xml)
 

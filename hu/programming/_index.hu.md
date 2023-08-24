@@ -20,7 +20,7 @@
 
 A programozási fájlok olyan forráskód fájlok, amelyeket a programozási nyelvek szoftveralkalmazások írásához használnak bizonyos feladatok elvégzésére. Minden programozási nyelvnek megvan a maga szintaxisa, és saját fájlkészletet hordoz a kód írásához könyvtárak, fejlécfájlok, osztályok vagy konstansok formájában. A használt programozási nyelvtől függően a forráskód fájlformátuma más lesz, hogy megfeleljen az adott nyelv által meghatározott szintaktikai szabálynak.
 
-A gyakori fejlesztői vagy programozási fájlkiterjesztések és a hozzájuk tartozó fájlformátumok a következők: **[C#](/hu/programming/cs/)** (CSharp Source Code File), **[CPP](/hu/programming/cpp/)** (C++ Source File) és **[VB](/hu/programing/vb/)** (Visual Basic Source Code File).
+A gyakori fejlesztői vagy programozási fájlkiterjesztések és a hozzájuk tartozó fájlformátumok a következők: **[C#](/hu/programming/cs/)** (CSharp Source Code File), **[CPP](/hu/programming/cpp/)** (C++ Source File) és **[VB](/hu/programming/vb/)** (Visual Basic Source Code File).
 
 Kérdései vannak a programozási fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/programming/26), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
 

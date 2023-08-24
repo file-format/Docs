@@ -20,7 +20,7 @@
 
 ## Co je soubor VSDX?
 
-Soubory s příponou .vsdx představují formát souborů Microsoft Visio zavedený od Microsoft Office 2013 a novější. Byl vyvinut, aby nahradil formát binárního souboru [.VSD](/cs/image/vsd/), který je podporován dřívějšími verzemi aplikace Microsoft Visio. Je také podporován ve službách Visio na serveru Microsoft SharePoint Server 2013 a pro publikování na serveru SharePoint nevyžaduje zprostředkující formát souboru. Soubory Visio se používají k vytváření výkresů, které obsahují vizuální objekty, vývojové diagramy, diagram UML, tok informací, organizační diagramy, softwarové diagramy, rozložení sítě, databázové modely, mapování objektů a další podobné informace. Soubory vygenerované pomocí aplikace Visio lze také exportovat do různých formátů souborů, jako je [PNG](/cs/image/png/), [BMP](/cs/image/bmp/), [PDF](/cs/pdf/) a další.
+Soubory s příponou .vsdx představují formát souborů Microsoft Visio zavedený od Microsoft Office 2013 a novější. Byl vyvinut, aby nahradil formát binárního souboru [.VSD](/cs/visio/vsd/), který je podporován dřívějšími verzemi aplikace Microsoft Visio. Je také podporován ve službách Visio na serveru Microsoft SharePoint Server 2013 a pro publikování na serveru SharePoint nevyžaduje zprostředkující formát souboru. Soubory Visio se používají k vytváření výkresů, které obsahují vizuální objekty, vývojové diagramy, diagram UML, tok informací, organizační diagramy, softwarové diagramy, rozložení sítě, databázové modely, mapování objektů a další podobné informace. Soubory vygenerované pomocí aplikace Visio lze také exportovat do různých formátů souborů, jako je [PNG](/cs/image/png/), [BMP](/cs/image/bmp/), [PDF](/cs/pdf/) a další.
 
 ## Formát souboru ##
 
@@ -34,7 +34,7 @@ Některé další typy souborů, které tvoří formát souboru Visio 2013, zahr
 * .vstx (šablona Visio)
 * .vstm (šablona s podporou maker aplikace Visio)
 
-Formát souboru Visio 2013 pod kapotou používá strukturované prostředky k ukládání dat aplikace spolu se souvisejícími zdroji v archivu, jako je [ZIP](/cs/komprese/zip/). Soubor ZIP lze extrahovat pomocí libovolného standardního extrakčního nástroje, pokud obsahuje i jiné typy souborů. Chcete-li zobrazit obsah uvnitř souboru VSDX, můžete jednoduše nahradit příponu souboru .vsdx příponou .zip.
+Formát souboru Visio 2013 pod kapotou používá strukturované prostředky k ukládání dat aplikace spolu se souvisejícími zdroji v archivu, jako je [ZIP](/cs/compression/zip/). Soubor ZIP lze extrahovat pomocí libovolného standardního extrakčního nástroje, pokud obsahuje i jiné typy souborů. Chcete-li zobrazit obsah uvnitř souboru VSDX, můžete jednoduše nahradit příponu souboru .vsdx příponou .zip.
 
 Každý soubor aplikace Visio se nazývá balíček, který obsahuje další soubory nebo části. Část balíčku může být soubor XML, obrázek nebo dokonce řešení VBA. Části v balíčku lze rozdělit na části „dokument“ a „vztah“.
 

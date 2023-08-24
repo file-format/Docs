@@ -73,7 +73,7 @@ Ini adalah bagian opsional yang jika ditentukan, harus segera mengikuti segmen p
 
 ## Konversi JFIF ke Format File Gambar Lainnya
 
-JFIF dapat dikonversi ke format file gambar populer seperti [PNG](/id/image/png/), [JPG](/id/image/jpg/), dan [PDF](/id/pdf/).
+JFIF dapat dikonversi ke format file gambar populer seperti [PNG](/id/image/png/), [JPG](/id/image/jpeg/), dan [PDF](/id/pdf/).
 
 ## Referensi ##
 

@@ -19,7 +19,7 @@
 
 ## .PPSX オプション番号
 
-PPSX、Power Point スライド ショー、ファイルは、スライド ショー用に Microsoft PowerPoint 2007 以降を使用して作成されます。これは、Microsoft PowerPoint 97-2003 バージョンでサポートされていた [PPS](/presentation/pps/) ファイル形式の更新です。 PPSX ファイルを別のユーザーと共有して開くと、編集可能モードで開く [PPTX](/presentation/pptx/) ファイルとは異なり、PowerPoint ショーとして起動します。スライド ショーのシーケンスは、元のプレゼンテーションと同じです。すべてのスライドには、画像、サウンド、およびその他の埋め込みメディアが付属しており、スライドショー中に PPSX へのプレゼンテーション スライドに付属しています。
+PPSX、Power Point スライド ショー、ファイルは、スライド ショー用に Microsoft PowerPoint 2007 以降を使用して作成されます。これは、Microsoft PowerPoint 97-2003 バージョンでサポートされていた [PPS](/ja/presentation/pps/) ファイル形式の更新です。 PPSX ファイルを別のユーザーと共有して開くと、編集可能モードで開く [PPTX](/ja/presentation/pptx/) ファイルとは異なり、PowerPoint ショーとして起動します。スライド ショーのシーケンスは、元のプレゼンテーションと同じです。すべてのスライドには、画像、サウンド、およびその他の埋め込みメディアが付属しており、スライドショー中に PPSX へのプレゼンテーション スライドに付属しています。
 
 ## ファイル形式 ##
 
@@ -29,8 +29,8 @@ PPSX ファイルは、Microsoft Office 2007 で導入された Open XML 形式�
 
 ## 関連項目 ##
 
-* [PPT](/プレゼンテーション/ppt/)
-* [PPTX](/プレゼンテーション/pptx/)
+* [PPT](/ja/presentation/ppt/)
+* [PPTX](/ja/presentation/pptx/)
 
 ## 参照 ##
 

@@ -33,7 +33,7 @@ Ada sedikit perubahan dalam transisi dari versi ODF 1.0 ke 1.1. [Versi ODF 1.2](
 
 ## Spesifikasi Format File
 
-Format OpenDocument mendukung representasi dokumen sebagai satu dokumen XML serta kumpulan beberapa subdokumen dalam sebuah paket sebagai arsip [ZIP](https://docs.fileformat.com/Compression/ZIP/). Setiap file dari arsip ZIP menyimpan sebagian dari dokumen lengkap. Setiap subdokumen menyimpan aspek tertentu dari dokumen. Misalnya, satu subdokumen berisi informasi gaya dan subdokumen lainnya berisi konten dokumen. Dokumen ODF tipikal memiliki komponen berikut:
+Format OpenDocument mendukung representasi dokumen sebagai satu dokumen XML serta kumpulan beberapa subdokumen dalam sebuah paket sebagai arsip [ZIP](/compression/zip/). Setiap file dari arsip ZIP menyimpan sebagian dari dokumen lengkap. Setiap subdokumen menyimpan aspek tertentu dari dokumen. Misalnya, satu subdokumen berisi informasi gaya dan subdokumen lainnya berisi konten dokumen. Dokumen ODF tipikal memiliki komponen berikut:
 
 * `content.xml` – Konten dokumen dan gaya otomatis yang digunakan dalam konten.
 * `styles.xml` – Gaya yang digunakan dalam konten dokumen dan gaya otomatis yang digunakan dalam gaya itu sendiri.

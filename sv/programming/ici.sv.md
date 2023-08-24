@@ -19,7 +19,7 @@
 
 ## Vad är ICI fil?
 
-Ett allmänt programmeringsspråk som tolkas och innehåller flera funktioner såsom dynamisk typning tillsammans med de flexibla datatyperna är känt som ICI (inte en akronym) programmeringsspråk. Det anses likna språket [Perl](/sv/programmering/pl/). Detta ICI-språk omfattar flödeskontrollkonstruktioner och innehåller även några operatorer för C-språket. Det är inte ett objektorienterat språk men några av funktionerna i OOP kan uppnås med en specifik nedärvningsmetod som kallas överbyggnader. I likhet med [C](/sv/programmering/c) har detta ICI-programmeringsspråk samma systemgränssnitt och ett standardbibliotek för inbyggda funktioner.
+Ett allmänt programmeringsspråk som tolkas och innehåller flera funktioner såsom dynamisk typning tillsammans med de flexibla datatyperna är känt som ICI (inte en akronym) programmeringsspråk. Det anses likna språket [Perl](/sv/programming/pl/). Detta ICI-språk omfattar flödeskontrollkonstruktioner och innehåller även några operatorer för C-språket. Det är inte ett objektorienterat språk men några av funktionerna i OOP kan uppnås med en specifik nedärvningsmetod som kallas överbyggnader. I likhet med [C](/sv/programming/c) har detta ICI-programmeringsspråk samma systemgränssnitt och ett standardbibliotek för inbyggda funktioner.
 
 
 ## Kortfattad bakgrund ##

@@ -21,7 +21,7 @@
 
 Filer med DOTX-tillägg är mallfiler skapade av Microsoft Word för att ha förformaterade inställningar för generering av ytterligare [DOCX](/sv/word-processing/docx/)-filer. En mallfil skapas för att ha specifika användarinställningar som ska tillämpas på efterföljande flugor skapade från dessa. Dessa inställningar inkluderar sidmarginaler, kanter, sidhuvuden, sidfötter och andra sidinställningar. Sådana mallar används i officiella dokument som företagsbrevpapper och standardiserade formulär.
 
-Filformatet DOTX introducerades i och med lanseringen av Microsoft Office 2007 för att ersätta det binära filformatet [PUNKT ](/sv/ordbehandling/punkt/) men stöds också av högre versioner. Microsoft Word öppnar som standard varje nytt dokument baserat på normal.dot-filen. Om de ändras kommer alla nya filer som skapas att resultera i samma inställningar som från mallfilen. I Microsoft Word 2007 har DOT-filformatet ersatts med Office OpenXML-baserat DOTX-filformat.
+Filformatet DOTX introducerades i och med lanseringen av Microsoft Office 2007 för att ersätta det binära filformatet [DOT](/sv/word-processing/dot/) men stöds också av högre versioner. Microsoft Word öppnar som standard varje nytt dokument baserat på normal.dot-filen. Om de ändras kommer alla nya filer som skapas att resultera i samma inställningar som från mallfilen. I Microsoft Word 2007 har DOT-filformatet ersatts med Office OpenXML-baserat DOTX-filformat.
 
 ## Kortfattad bakgrund ##
 

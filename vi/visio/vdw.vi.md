@@ -19,7 +19,7 @@
 }
 ## Tệp VDW là gì?
 
-VDW là định dạng tệp Dịch vụ Đồ họa Visio chỉ định các luồng và kho lưu trữ cần thiết để hiển thị bản vẽ Web. Bản vẽ web là tập hợp các trang bản vẽ, hình dạng, phông chữ, hình ảnh, kết nối dữ liệu và thông tin cập nhật sơ đồ có thể được hiển thị dưới dạng bản vẽ vectơ hoặc raster. Các tệp VDW cũng có thể được mở trong Microsoft Visio nhưng chủ yếu được lưu để sử dụng trên web. Microsoft Visio cung cấp khả năng chuyển đổi các tệp Visio sang một số định dạng tệp khác nhau bao gồm [PNG](/vi/Image/PNG/), [BMP](/vi/Image/BMP/), [PDF](/vi/pdf/) và các định dạng khác.
+VDW là định dạng tệp Dịch vụ Đồ họa Visio chỉ định các luồng và kho lưu trữ cần thiết để hiển thị bản vẽ Web. Bản vẽ web là tập hợp các trang bản vẽ, hình dạng, phông chữ, hình ảnh, kết nối dữ liệu và thông tin cập nhật sơ đồ có thể được hiển thị dưới dạng bản vẽ vectơ hoặc raster. Các tệp VDW cũng có thể được mở trong Microsoft Visio nhưng chủ yếu được lưu để sử dụng trên web. Microsoft Visio cung cấp khả năng chuyển đổi các tệp Visio sang một số định dạng tệp khác nhau bao gồm [PNG](/vi/image/png/), [BMP](/vi/image/bmp/), [PDF](/vi/pdf/) và các định dạng khác.
 
 ## Định dạng tệp **VDW**
 

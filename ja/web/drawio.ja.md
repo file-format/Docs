@@ -19,7 +19,7 @@
 
 ## .DRAWIO オプション番号
 
-拡張子が .drawio のファイルは、ダイアグラムを操作するためのオープンソース プログラムである [diagrams.net](https://www.diagrams.net/) の draw.io で作成された描画ファイルです。テキスト、画像、レイアウト、形状、配置など、ダイアグラム要素のコンテンツとフォーマットに関する全体的な情報が含まれています。 DRAWIO がサポートする図には、フローチャート、組織図、地図、エンジニアリング要素、プロセス図、チャートなどが含まれます。 DRAWIO ファイルは、[JPG](/image/jpeg/)、[PNG](/image/png/)、[BMP](/image/bmp/)、[XML](/web など、いくつかの異なる形式にエクスポートできます。 /xml/)、PDF、[HTML](/web/html/)、[VSDX](/image/vsdx/)。
+拡張子が .drawio のファイルは、ダイアグラムを操作するためのオープンソース プログラムである [diagrams.net](https://www.diagrams.net/) の draw.io で作成された描画ファイルです。テキスト、画像、レイアウト、形状、配置など、ダイアグラム要素のコンテンツとフォーマットに関する全体的な情報が含まれています。 DRAWIO がサポートする図には、フローチャート、組織図、地図、エンジニアリング要素、プロセス図、チャートなどが含まれます。 DRAWIO ファイルは、[JPG](/image/jpeg/)、[PNG](/image/png/)、[BMP](/image/bmp/)、[XML](/web など、いくつかの異なる形式にエクスポートできます。 /xml/)、PDF、[HTML](/web/html/)、[VSDX](/visio/vsdx/)。
 
 ## DRAWIO ファイル形式
 

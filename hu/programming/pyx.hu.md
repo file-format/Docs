@@ -15,7 +15,7 @@ lastmod: 2022-05-09
 
 ## Mi az a PYX fájl?
 
-A PYX fájl a Python-szerű Pyrex nyelven írt forráskód. Olyan kódot tartalmazhat, amely a meglévő C modulokra hivatkozik. A Pyrex egy programozási nyelv, amelyet Python modulok [PYD](/hu/programing/pyd/) létrehozására használnak, és C-szerű szintaxison alapul. A PYX fájlok segítségével a felhasználók kiterjesztés modulokat írhatnak, amelyek közvetlenül hozzáférhetnek a külső [C](/hu/programing/c/) kódhoz.
+A PYX fájl a Python-szerű Pyrex nyelven írt forráskód. Olyan kódot tartalmazhat, amely a meglévő C modulokra hivatkozik. A Pyrex egy programozási nyelv, amelyet Python modulok [PYD](/hu/programming/pyd/) létrehozására használnak, és C-szerű szintaxison alapul. A PYX fájlok segítségével a felhasználók kiterjesztés modulokat írhatnak, amelyek közvetlenül hozzáférhetnek a külső [C](/hu/programming/c/) kódhoz.
 A PYX fájlok a Pyrex segítségével nyithatók meg, amely Windows, MacOS és Linux operációs rendszeren érhető el.
 
 ## PYX fájlformátum – További információ

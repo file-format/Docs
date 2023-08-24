@@ -19,7 +19,7 @@
 
 ## .PMLZ 파일이란?
 
-Palm Inc는 eBook 파일 형식을 도입했습니다. [PML](/ko/ebook/pml/) 파일 형식의 압축 버전인 PMLZ 파일 형식으로 알려져 있기 때문에 확장자가 .pmlz인 파일을 **Zipped Palm Markup Language File**이라고 합니다. PMLZ 파일은 [PDB](/ko/ebook/pdb/) 파일을 컴파일하여 **eReader**(태블릿 컴퓨터와 같은 전자책 읽기 장치로 알려짐)용 문서를 만드는 파일의 zip 컨테이너일 뿐입니다. PML 파일은 Palm 장치에 표시할 PDB 파일(다양한 데이터 파일 포함)에 레이아웃을 제공합니다. 반면 PDB 파일은 Quicken, Pegasus, Microsoft Visual Studio 및 Palm Pilot을 비롯한 다양한 응용 프로그램에서 사용되는 데이터베이스 파일입니다. 즉, PMLZ는 PML 및 PDB 파일의 압축된 컨테이너입니다.
+Palm Inc는 eBook 파일 형식을 도입했습니다. [PML](/ko/ebook/pml/) 파일 형식의 압축 버전인 PMLZ 파일 형식으로 알려져 있기 때문에 확장자가 .pmlz인 파일을 **Zipped Palm Markup Language File**이라고 합니다. PMLZ 파일은 [PDB](/ko/programming/pdb/) 파일을 컴파일하여 **eReader**(태블릿 컴퓨터와 같은 전자책 읽기 장치로 알려짐)용 문서를 만드는 파일의 zip 컨테이너일 뿐입니다. PML 파일은 Palm 장치에 표시할 PDB 파일(다양한 데이터 파일 포함)에 레이아웃을 제공합니다. 반면 PDB 파일은 Quicken, Pegasus, Microsoft Visual Studio 및 Palm Pilot을 비롯한 다양한 응용 프로그램에서 사용되는 데이터베이스 파일입니다. 즉, PMLZ는 PML 및 PDB 파일의 압축된 컨테이너입니다.
 
 
 ## 팜 마크업 언어에 대한 지식

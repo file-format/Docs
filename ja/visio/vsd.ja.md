@@ -24,7 +24,7 @@ VSDファイルは、さまざまなグラフィカルオブジェクトとこ�
 
 # VSD ファイル形式 #
 
-VSD ファイル形式は、図面要素を格納するために Microsoft Visio によって導入された最初のファイル形式です。 VSD ファイルの内部構造は、Microsoft Visio 2013 で導入された [.VSDX](/image/vsdx/) とは異なり、バイナリ ファイル形式に基づいています。新しい形式は Office Open XML ファイル形式に基づいており、プロジェクト情報を[ZIP](/compression/zip/) アーカイブ。 Microsoft は、Visio がシステムにインストールされていない場合に備えて、Visio 図面ファイルへの vviewer.exe アプリケーションを提供しています。
+VSD ファイル形式は、図面要素を格納するために Microsoft Visio によって導入された最初のファイル形式です。 VSD ファイルの内部構造は、Microsoft Visio 2013 で導入された [.VSDX](/visio/vsdx/) とは異なり、バイナリ ファイル形式に基づいています。新しい形式は Office Open XML ファイル形式に基づいており、プロジェクト情報を[ZIP](/compression/zip/) アーカイブ。 Microsoft は、Visio がシステムにインストールされていない場合に備えて、Visio 図面ファイルへの vviewer.exe アプリケーションを提供しています。
 
 ## 簡単な歴史 ##
 

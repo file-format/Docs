@@ -26,7 +26,7 @@
 
 ## M4A so với MP3
 
-Cả M4A và [MP3](https://docs.fileformat.com/audio/mp3/) đều là định dạng tệp chỉ có âm thanh.
+Cả M4A và [MP3](/audio/mp3/) đều là định dạng tệp chỉ có âm thanh.
 
 **M4A**: Tốt hơn MP3 về chất lượng và kích thước khi được mã hóa ở cùng tốc độ bit. Phần mở rộng tệp .m4a rất phổ biến vì chúng đã được Apple sử dụng để sử dụng trong iTunes Music Store. M4A là một tệp âm thanh được nén bằng công nghệ MPEG-4; một thuật toán để nén mất dữ liệu. Về cơ bản, nó được liên kết với “Lớp âm thanh MPEG-4”, các tệp có phần mở rộng .m4a là lớp âm thanh của phim MPEG-4. Nó được dự định sẽ vượt qua MP3 và trở thành tiêu chuẩn mới trong nén âm thanh. Nó rất gần với MP3 theo nhiều cách nhưng được giới thiệu là có chất lượng tốt hơn với cùng kích thước tệp hoặc thậm chí nhỏ hơn. Định dạng M4A lần đầu tiên được giới thiệu bởi Apple. Loại định dạng cũng được nhận ra là Bộ mã hóa không mất dữ liệu của Apple (ALE).
 

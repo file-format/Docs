@@ -21,7 +21,7 @@
 
 Les fichiers avec l'extension DOTX sont des fichiers modèles créés par Microsoft Word pour avoir des paramètres pré-formatés pour la génération d'autres fichiers [DOCX](/fr/word-processing/docx/). Un fichier modèle est créé afin d'avoir des paramètres utilisateur spécifiques qui doivent être appliqués aux mouches suivantes créées à partir de celles-ci. Ces paramètres incluent les marges de page, les bordures, les en-têtes, les pieds de page et d'autres paramètres de page. Ces modèles sont utilisés dans les documents officiels tels que les en-têtes d'entreprise et les formulaires standardisés.
 
-Le format de fichier DOTX a été introduit avec la sortie de Microsoft Office 2007 pour remplacer le format de fichier binaire [DOT ](/fr/word-processing/dot/), mais il est également pris en charge par les versions supérieures. Microsoft Word ouvre par défaut chaque nouveau document basé sur le fichier normal.dot. S'il est modifié, tous les nouveaux fichiers créés auront les mêmes paramètres que ceux du fichier modèle. Dans Microsoft Word 2007, le format de fichier DOT a été remplacé par le format de fichier DOTX basé sur Office OpenXML.
+Le format de fichier DOTX a été introduit avec la sortie de Microsoft Office 2007 pour remplacer le format de fichier binaire [DOT](/fr/word-processing/dot/), mais il est également pris en charge par les versions supérieures. Microsoft Word ouvre par défaut chaque nouveau document basé sur le fichier normal.dot. S'il est modifié, tous les nouveaux fichiers créés auront les mêmes paramètres que ceux du fichier modèle. Dans Microsoft Word 2007, le format de fichier DOT a été remplacé par le format de fichier DOTX basé sur Office OpenXML.
 
 ## Bref historique ##
 

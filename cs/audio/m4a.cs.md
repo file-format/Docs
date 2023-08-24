@@ -26,7 +26,7 @@ Formát M4A je zašifrován FairPlay Digital Rights Management, jak byly prodáv
 
 ## M4A vs MP3
 
-M4A i [MP3](https://docs.fileformat.com/audio/mp3/) jsou pouze zvukové formáty souborů.
+M4A i [MP3](/audio/mp3/) jsou pouze zvukové formáty souborů.
 
 **M4A**: Lepší než MP3, pokud jde o kvalitu a velikost při kódování při stejné přenosové rychlosti. Přípona souboru .m4a je tak běžná, protože ji Apple používal pro použití v iTunes Music Store. M4A je zvukový soubor, který je komprimován pomocí technologie MPEG-4; algoritmus pro ztrátovou kompresi. V zásadě je spojena s „MPEG-4 Audio Layer“, soubory s příponou .m4a jsou zvukovou vrstvou filmů MPEG-4. Má předběhnout MP3 a stát se novým standardem v kompresi zvuku. V mnoha ohledech se velmi blíží MP3, ale byl představen proto, aby měl lepší kvalitu při stejné nebo dokonce menší velikosti souboru. Formát M4A byl poprvé představen společností Apple. Typ formátu je také realizován jako Apple Lossless Encoder (ALE).
 

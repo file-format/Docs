@@ -19,7 +19,7 @@
 
 ## DER dosyası nedir?
 
-DER dosyası, ikili biçimde oluşturulan ve saklanan bir dijital sertifika dosyasıdır. X.509 sertifikaları ve özel anahtarlar için bir ikili kodlamadır. PEM dosyalarının ([CRT](https://docs.fileformat.com/web/crt/), [CER](https://docs.fileformat.com/web/cer/)) aksine, DER dosyaları -----BEGIN CERTIFICATE----- gibi insanlar tarafından okunabilir düz metin ifadeler içermemelidir. Çoğunlukla Java bağlamında kullanılırlar.
+DER dosyası, ikili biçimde oluşturulan ve saklanan bir dijital sertifika dosyasıdır. X.509 sertifikaları ve özel anahtarlar için bir ikili kodlamadır. PEM dosyalarının ([CRT](/web/crt/), [CER](/web/cer/)) aksine, DER dosyaları -----BEGIN CERTIFICATE----- gibi insanlar tarafından okunabilir düz metin ifadeler içermemelidir. Çoğunlukla Java bağlamında kullanılırlar.
 
 ## DER Dosya Biçimi - Daha Fazla Bilgi
 

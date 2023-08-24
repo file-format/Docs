@@ -77,5 +77,5 @@ GLB 파일의 각 청크 구조는 다음과 같습니다.
 
 ## 참조 ##
 
-* [GLB 파일 형식 사양 - Khronos](/ko/3D/GLTF/)
+* [GLB 파일 형식 사양 - Khronos](/ko/3d/gltf/)
 

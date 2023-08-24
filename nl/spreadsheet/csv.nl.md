@@ -37,7 +37,7 @@ Hieronder volgen enkele snelle feiten over de oorsprong en geschiedenis van het 
 
 ## Converteer CSV-bestanden ##
 
-CSV-bestanden kunnen worden geconverteerd naar verschillende bestandsindelingen met behulp van de toepassingen die deze bestanden kunnen openen. Microsoft Excel kan bijvoorbeeld gegevens importeren uit een CSV-bestandsindeling en deze opslaan in XLS, [XLSX](/nl/spreadsheet/xlsx/), [PDF](/nl/pdf/), [TXT](/nl/tekstverwerking/txt/) , XML en [HTML](/nl/web/html/) bestandsformaten. Evenzo bieden andere desktop- en onlineservices de mogelijkheid om CSV-bestanden te exporteren naar HTML, ODS en [RTF](/nl/word-processing/rtf/).
+CSV-bestanden kunnen worden geconverteerd naar verschillende bestandsindelingen met behulp van de toepassingen die deze bestanden kunnen openen. Microsoft Excel kan bijvoorbeeld gegevens importeren uit een CSV-bestandsindeling en deze opslaan in XLS, [XLSX](/nl/spreadsheet/xlsx/), [PDF](/nl/pdf/), [TXT](/nl/word-processing/txt/) , XML en [HTML](/nl/web/html/) bestandsformaten. Evenzo bieden andere desktop- en onlineservices de mogelijkheid om CSV-bestanden te exporteren naar HTML, ODS en [RTF](/nl/word-processing/rtf/).
 
 ## CSV-bestandsindeling ##
 

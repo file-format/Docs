@@ -29,8 +29,8 @@ Les fichiers PPSX sont enregistrés au format Open XML, qui a été introduit da
 
 ## Voir également ##
 
-* [PPT](/fr/présentation/ppt/)
-* [PPTX](/fr/présentation/pptx/)
+* [PPT](/fr/presentation/ppt/)
+* [PPTX](/fr/presentation/pptx/)
 
 ## Références ##
 

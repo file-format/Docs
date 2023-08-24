@@ -18,7 +18,7 @@
 
 ## ¿Qué es un archivo CFML?
 
-Un archivo con extensión .cfml es un archivo de lenguaje de marcado ColdFusion que se utiliza para crear una página web. Se refiere a un conjunto de reglas utilizadas para definir cómo el programador desarrollará la aplicación ColdFusion. ColdFusion es un lenguaje de programación que se utiliza para crear aplicaciones web del lado del servidor rápidamente y con menos que otras tecnologías como [ASP](/es/web/asp/), [PHP](/es/web/php/), etc. Algunos de las aplicaciones que pueden abrir archivos CML incluyen Adobe ColdFusion 2018, Adobe ColdFusion Builder y Adobe Dreamweaver.
+Un archivo con extensión .cfml es un archivo de lenguaje de marcado ColdFusion que se utiliza para crear una página web. Se refiere a un conjunto de reglas utilizadas para definir cómo el programador desarrollará la aplicación ColdFusion. ColdFusion es un lenguaje de programación que se utiliza para crear aplicaciones web del lado del servidor rápidamente y con menos que otras tecnologías como [ASP](/es/web/asp/), [PHP](/es/programming/php/), etc. Algunos de las aplicaciones que pueden abrir archivos CML incluyen Adobe ColdFusion 2018, Adobe ColdFusion Builder y Adobe Dreamweaver.
 
 ## Formato de archivo CFML - Más información
 

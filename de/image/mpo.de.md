@@ -18,7 +18,7 @@
 
 ## Was ist eine MPO-Datei?
 
-Eine MPO-Datei ist ein stereoskopisches 3D-Bild, das durch Überlappung zweier 2D-Bilder entsteht. Diese Art von Bildern wird von Digitalkameras erstellt und ist in 3D-Videospielkonsolen und 3D-Fernsehern weit verbreitet. MPO-Dateien werden auch als Multi-Picture-Objekte bezeichnet, da sie zwei oder mehr [JPEG](/de/image/jpg/)-Bilder enthalten.
+Eine MPO-Datei ist ein stereoskopisches 3D-Bild, das durch Überlappung zweier 2D-Bilder entsteht. Diese Art von Bildern wird von Digitalkameras erstellt und ist in 3D-Videospielkonsolen und 3D-Fernsehern weit verbreitet. MPO-Dateien werden auch als Multi-Picture-Objekte bezeichnet, da sie zwei oder mehr [JPEG](/de/image/jpeg/)-Bilder enthalten.
 
 ## Kurze Geschichte des MPO-Dateiformats
 

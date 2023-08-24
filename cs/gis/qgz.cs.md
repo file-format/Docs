@@ -19,7 +19,7 @@
 
 ## Co je soubor QGZ?
 
-Formát souboru **QGZ** je komprimovaný archiv obsahující soubor [QGS](https://docs.fileformat.com/gis/qgs/) a soubor QGD. Zatímco soubor QGD je databáze sqlite projektu qgis, která se skládá z pomocných dat pro projekt. Pokud neexistují žádná pomocná data, soubor QGD zůstane prázdný.
+Formát souboru **QGZ** je komprimovaný archiv obsahující soubor [QGS](/gis/qgs/) a soubor QGD. Zatímco soubor QGD je databáze sqlite projektu qgis, která se skládá z pomocných dat pro projekt. Pokud neexistují žádná pomocná data, soubor QGD zůstane prázdný.
 
 ## Podrobnosti o formátu souboru QGZ
 

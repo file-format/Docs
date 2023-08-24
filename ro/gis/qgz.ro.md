@@ -19,7 +19,7 @@
 
 ## Ce este un fișier QGZ?
 
-Formatul de fișier **QGZ** este o arhivă comprimată care conține un fișier [QGS](https://docs.fileformat.com/gis/qgs/) și un fișier QGD. Întrucât, fișierul QGD este baza de date sqlite a proiectului qgis care constă din date auxiliare pentru proiect. Dacă nu există date auxiliare, fișierul QGD va rămâne gol.
+Formatul de fișier **QGZ** este o arhivă comprimată care conține un fișier [QGS](/gis/qgs/) și un fișier QGD. Întrucât, fișierul QGD este baza de date sqlite a proiectului qgis care constă din date auxiliare pentru proiect. Dacă nu există date auxiliare, fișierul QGD va rămâne gol.
 
 ## Detalii despre formatul fișierului QGZ
 

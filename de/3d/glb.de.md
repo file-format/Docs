@@ -77,5 +77,5 @@ Dieser Chunk enthält die binäre Nutzlast für Geometrie, Animationsschlüsselb
 
 ## Verweise ##
 
-* [Spezifikationen des GLB-Dateiformats – Khronos](/de/3D/GLTF/)
+* [Spezifikationen des GLB-Dateiformats – Khronos](/de/3d/gltf/)
 

@@ -19,7 +19,7 @@
 
 ## Apa itu file AAE?
 
-AAE adalah jenis file yang ditemukan di sistem iOS 8 dan yang lebih baru, macOS 10.10 atau lebih baru. Ini menyimpan informasi tentang semua pengeditan yang dilakukan pada foto [.jpg](/id/image/jpg/) di aplikasi Foto. File AAE merupakan tambahan dari file asli dan memungkinkan pengguna mengembalikan foto ke keadaan semula jika diperlukan. Saat gambar diimpor dari macOS ke Windows, file AAE yang menyertainya juga akan ditransfer.
+AAE adalah jenis file yang ditemukan di sistem iOS 8 dan yang lebih baru, macOS 10.10 atau lebih baru. Ini menyimpan informasi tentang semua pengeditan yang dilakukan pada foto [.jpg](/id/image/jpeg/) di aplikasi Foto. File AAE merupakan tambahan dari file asli dan memungkinkan pengguna mengembalikan foto ke keadaan semula jika diperlukan. Saat gambar diimpor dari macOS ke Windows, file AAE yang menyertainya juga akan ditransfer.
 
 ## Format File AAE
 File AAE disimpan ke disk sebagai file [XML](/id/web/xml/) yang merupakan format file yang dapat dibaca manusia. Ini berarti dapat dibuka di editor teks apa pun seperti Apple TextEdit di macOS dan Microsoft Notepad di OS Windows. Notepad ++ adalah editor kaya lain yang dapat membuka file AAE.

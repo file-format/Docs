@@ -31,7 +31,7 @@ expand /i <source> [<destination>]
 expand /d <source>.cab [/f:<files>]
 expand <source>.cab /f:<files> <destination>
 ```
-När de expanderas konverteras SY_-filerna till filen [SYS](https://docs.fileformat.com/system/sys/).
+När de expanderas konverteras SY_-filerna till filen [SYS](/system/sys/).
 
 SY_ filer liknar EX_ och DL_ filer.
 

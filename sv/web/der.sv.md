@@ -19,7 +19,7 @@
 
 ## Vad är DER fil?
 
-En DER-fil är en digital certifikatfil som skapas och lagras i binärt format. Det är en binär kodning för X.509-certifikaten och privata nycklar. Till skillnad från PEM-filer ([CRT](https://docs.fileformat.com/web/crt/), [CER](https://docs.fileformat.com/web/cer/)), gör DER-filer det inte innehålla läsbara textsatser som -----BEGIN CERTIFICATE-----. De används mest i Java-sammanhang.
+En DER-fil är en digital certifikatfil som skapas och lagras i binärt format. Det är en binär kodning för X.509-certifikaten och privata nycklar. Till skillnad från PEM-filer ([CRT](/web/crt/), [CER](/web/cer/)), gör DER-filer det inte innehålla läsbara textsatser som -----BEGIN CERTIFICATE-----. De används mest i Java-sammanhang.
 
 ## DER-filformat - Mer information
 

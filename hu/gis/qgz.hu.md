@@ -19,7 +19,7 @@
 
 ## Mi az a QGZ fájl?
 
-A **QGZ** fájlformátum egy tömörített archívum, amely egy [QGS](https://docs.fileformat.com/gis/qgs/) fájlt és egy QGD fájlt tartalmaz. Ezzel szemben a QGD fájl a qgis projekt sqlite adatbázisa, amely a projekthez tartozó segédadatokat tartalmazza. Ha nincsenek segédadatok, a QGD fájl üres marad.
+A **QGZ** fájlformátum egy tömörített archívum, amely egy [QGS](/gis/qgs/) fájlt és egy QGD fájlt tartalmaz. Ezzel szemben a QGD fájl a qgis projekt sqlite adatbázisa, amely a projekthez tartozó segédadatokat tartalmazza. Ha nincsenek segédadatok, a QGD fájl üres marad.
 
 ## Részletek a QGZ fájlformátumról
 

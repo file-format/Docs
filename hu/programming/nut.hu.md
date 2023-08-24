@@ -36,7 +36,7 @@ Alberto Demichelis tervezte 2003-ban. Ennek a nyelvnek a stabil verziója azonba
 
 A mókusnyelv jellemzői és specifikációi többféleek. Lehetővé teszi a dinamikus gépelést, a delegálás tulajdonságát, az osztályok és interfészek többféle felhasználását. Ennek a nyelvnek a szintaxisa hasonló a C nyelv szintaxisához. Az olyan alkalmazások, mint például az Enduro/X (fürtös alkalmazásszerver), ezt a nyelvet használják. Mivel a Squirrel-t videojátékokhoz is használják, ezek közül néhány OpenTTD, GTA IV stb.
 
-A nyelv stabil kiadása a 3.0.7. A MirthKit néven ismert eszközkészlet Squirrel programozási nyelvet használ, hogy nyílt forráskódú és több platformot biztosítson a kétdimenziós játékokhoz. Ennek a nyelvnek a természete dinamikus, és a legtöbb szolgáltatás hasonló a [Python](/hu/programing/py/), a LUA stb. nyelvhez. A regiszter alapú virtuális gépek megvalósítását is magában foglalja. A Squirrel teljesítménye lassabb a LUA-hoz képest.
+A nyelv stabil kiadása a 3.0.7. A MirthKit néven ismert eszközkészlet Squirrel programozási nyelvet használ, hogy nyílt forráskódú és több platformot biztosítson a kétdimenziós játékokhoz. Ennek a nyelvnek a természete dinamikus, és a legtöbb szolgáltatás hasonló a [Python](/hu/programming/py/), a LUA stb. nyelvhez. A regiszter alapú virtuális gépek megvalósítását is magában foglalja. A Squirrel teljesítménye lassabb a LUA-hoz képest.
 
 Van egy másik ".nut" kiterjesztésű fájltípus is, ezért érdemes a fájl méretét megnézni, hogy megtudja, melyik NUT fájlja van. A Squirrel script NUT fájlok többnyire kisebbek, mint 1 MB, míg a video NUT fájlok általában 1 MB-nál nagyobbak.
 

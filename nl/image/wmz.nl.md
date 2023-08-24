@@ -23,7 +23,7 @@ Een bestand met de extensie .wmz is een gecomprimeerde versie van [WMF](/nl/imag
 
 ## WMZ-bestandsindeling
 
-WMZ-bestanden zijn [Gzip](/nl/compression/gz/) gecomprimeerd en bevatten [WMF](/nl/image/WMF/) binnenin. Gzip gebruikt het DEFLATE-algoritme voor het comprimeren van het archief. GZIP verschilt van het [ZIP](/nl/compression/zip/) archiefformaat omdat het een compressie-algoritme toepast op het volledige archief in plaats van op de individuele bestanden. Het bestandsformaat bestaat uit:
+WMZ-bestanden zijn [Gzip](/nl/compression/gz/) gecomprimeerd en bevatten [WMF](/nl/image/wmf/) binnenin. Gzip gebruikt het DEFLATE-algoritme voor het comprimeren van het archief. GZIP verschilt van het [ZIP](/nl/compression/zip/) archiefformaat omdat het een compressie-algoritme toepast op het volledige archief in plaats van op de individuele bestanden. Het bestandsformaat bestaat uit:
 
 * Bestandskoptekst
 * Optionele kopteksten

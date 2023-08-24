@@ -19,7 +19,7 @@
 
 ## Czym jest plik ODG?
 
-Format pliku ODG jest używany przez aplikację Draw Apache OpenOffice do przechowywania elementów rysunku jako obrazu wektorowego. Jest zgodny ze specyfikacjami formatu plików opartymi na XML określonymi przez Advancement of Structural Information Standards (OASIS). ODG przedstawia rysunki jako obrazy wektorowe za pomocą punktów, linii i krzywych. Oprócz OpenOffice, LibreOffice i inne aplikacje obsługują również pracę z formatem plików ODG. Inne formaty obsługiwane przez OpenOffice to na przykład [ODT](/pl/przetwarzanie tekstu/odt/), ODF, [ODP](/pl/presentation/odp/) i [ODS](/pl/spreadsheet/ods/).
+Format pliku ODG jest używany przez aplikację Draw Apache OpenOffice do przechowywania elementów rysunku jako obrazu wektorowego. Jest zgodny ze specyfikacjami formatu plików opartymi na XML określonymi przez Advancement of Structural Information Standards (OASIS). ODG przedstawia rysunki jako obrazy wektorowe za pomocą punktów, linii i krzywych. Oprócz OpenOffice, LibreOffice i inne aplikacje obsługują również pracę z formatem plików ODG. Inne formaty obsługiwane przez OpenOffice to na przykład [ODT](/pl/word-processing/odt/), ODF, [ODP](/pl/presentation/odp/) i [ODS](/pl/spreadsheet/ods/).
 
 
 ## Specyfikacje formatu plików ODG
@@ -42,11 +42,11 @@ Element główny dokumentu zawiera cały dokument i jest podstawowym elementem p
 ### Elementy korzeni ###
 Pojedynczy dokument XML jest reprezentowany przez swój własny element główny. Oto pięć różnych obsługiwanych elementów głównych.
 
-`<office:document> ` - Kompletny dokument biurowy w pojedynczym dokumencie XML.
-`<office:document-content> ` - Treść dokumentu i automatyczne style użyte w treści.
-`<office:document-styles> ` - Style używane w treści dokumentu i style automatyczne używane w samych stylach.
-`<office:document-meta> ` — metadane dokumentu, takie jak autor lub czas ostatniej operacji zapisu.
-`<office:document-settings> ` - Ustawienia specyficzne dla aplikacji, takie jak rozmiar okna lub informacje o drukarce.
+`<office:document>` - Kompletny dokument biurowy w pojedynczym dokumencie XML.
+`<office:document-content>` - Treść dokumentu i automatyczne style użyte w treści.
+`<office:document-styles>` - Style używane w treści dokumentu i style automatyczne używane w samych stylach.
+`<office:document-meta>` — metadane dokumentu, takie jak autor lub czas ostatniej operacji zapisu.
+`<office:document-settings>` - Ustawienia specyficzne dla aplikacji, takie jak rozmiar okna lub informacje o drukarce.
 
 ### Metadane dokumentu ODG ###
 OpenDocument zawiera wszystkie elementy metadanych w \<office:meta> element. Te ogólne informacje o dokumencie są zawarte na początku dokumentu, a aplikacje mogą aktualizować wiele wystąpień tych samych elementów.
@@ -61,12 +61,13 @@ Treść dokumentu wskazuje typ treści zawartej w dokumencie za pomocą elementu
 * dokumenty wizerunkowe
 
 ### Ustawienia aplikacji ###
-Ustawienia aplikacji biurowych reprezentują różne ustawienia związane z konfiguracją dokumentu lub wyglądem dokumentu. Każda kategoria jest reprezentowana przez `<config:config-item-set> `. Przykłady takich kategorii ustawień obejmują:
+Ustawienia aplikacji biurowych reprezentują różne ustawienia związane z konfiguracją dokumentu lub wyglądem dokumentu. Każda kategoria jest reprezentowana przez `<config:config-item-set>`. Przykłady takich kategorii ustawień obejmują:
 * Ustawienia dokumentu, np. drukarka domyślna
 * Wyświetl ustawienia, np. poziom powiększenia
 
 ### Skrypty ###
-Często zdarza się, że dokument zawiera kilka skryptów. Każdy skrypt w pliku OpenDocument jest reprezentowany przez `<office:script> element `. Te elementy skryptu są zawarte w pojedynczym pliku `<office:scripts> element `. Skrypty nie aktualizują dokumentu podczas jego ładowania.
+Często zdarza się, że dokument zawiera kilka skryptów. Każdy skrypt w pliku OpenDocument jest reprezentowany przez `<office:script>` element. Te elementy skryptu są zawarte w pojedynczym pliku `<office:scripts>` element. Skrypty nie aktualizują dokumentu podczas jego ładowania.
+
 ### Deklaracje kroju czcionki ###
 
 Deklaracja kroju czcionki zawiera informacje o czcionkach użytych przez autora dokumentu. Te informacje pomagają zlokalizować te czcionki w innych systemach.

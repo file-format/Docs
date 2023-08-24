@@ -77,5 +77,5 @@ Este fragmento contiene la carga útil binaria para geometría, fotogramas clave
 
 ## Referencias ##
 
-* [Especificaciones del formato de archivo GLB - Khronos](/es/3D/GLTF/)
+* [Especificaciones del formato de archivo GLB - Khronos](/es/3d/gltf/)
 

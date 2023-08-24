@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo JAR?
 
-Un archivo con la extensión .jar es un archivo Java Archive que contiene muchos archivos diferentes relacionados con aplicaciones como un solo archivo. Este formato de archivo se creó para reducir la velocidad de carga de un subprograma Java descargado en el navegador a través de una transacción HTTP, evitando crear múltiples conexiones HTTP. Un solo archivo JAR puede contener archivos de clase Java ([.clase](/es/programación/clase/)), [imágenes](/es/imagen/) y [sonidos](/es/audio/). El desarrollador de la aplicación puede firmar digitalmente elementos individuales dentro de un archivo JAR para autenticar su origen. Los archivos JAR se usan regularmente para crear API funcionales que contienen funciones específicas relacionadas con esa API.
+Un archivo con la extensión .jar es un archivo Java Archive que contiene muchos archivos diferentes relacionados con aplicaciones como un solo archivo. Este formato de archivo se creó para reducir la velocidad de carga de un subprograma Java descargado en el navegador a través de una transacción HTTP, evitando crear múltiples conexiones HTTP. Un solo archivo JAR puede contener archivos de clase Java ([.clase](/es/programming/clase/)), [imágenes](/es/image/) y [sonidos](/es/audio/). El desarrollador de la aplicación puede firmar digitalmente elementos individuales dentro de un archivo JAR para autenticar su origen. Los archivos JAR se usan regularmente para crear API funcionales que contienen funciones específicas relacionadas con esa API.
 
 ## Formato de archivo JAR
 

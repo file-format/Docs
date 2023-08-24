@@ -17,7 +17,7 @@
   "lastmod" : "2019-09-10"
 }
 
-PPTM uzantılı dosyalar, Microsoft PowerPoint 2007 veya üzeri sürümlerle oluşturulan Makro etkin Sunum dosyalarıdır. [PPTX](/tr/sunum/pptx/) dosyalarına benzerler, tek fark, makro içerebildikleri halde yanalın makroları çalıştıramamasıdır. PPTM dosyaları, Microsoft PowerPoint'te açılıp içeriği güncellenerek düzenlenebilir. Başka bir benzer biçim PPSM'dir ancak varsayılan olarak salt okunurdur ve açıldığında slayt gösterisini başlatır. PPTM, PPTX gibi, metin, resimler, videolar, grafikler ve diğer ilgili materyaller gibi farklı sunum öğeleri için slaytlar içerir.
+PPTM uzantılı dosyalar, Microsoft PowerPoint 2007 veya üzeri sürümlerle oluşturulan Makro etkin Sunum dosyalarıdır. [PPTX](/tr/presentation/pptx/) dosyalarına benzerler, tek fark, makro içerebildikleri halde yanalın makroları çalıştıramamasıdır. PPTM dosyaları, Microsoft PowerPoint'te açılıp içeriği güncellenerek düzenlenebilir. Başka bir benzer biçim PPSM'dir ancak varsayılan olarak salt okunurdur ve açıldığında slayt gösterisini başlatır. PPTM, PPTX gibi, metin, resimler, videolar, grafikler ve diğer ilgili materyaller gibi farklı sunum öğeleri için slaytlar içerir.
 
 ## Kısa Tarih ##
 

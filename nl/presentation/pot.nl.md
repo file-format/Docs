@@ -23,7 +23,7 @@ Bestanden met de extensie .POT vertegenwoordigen Microsoft PowerPoint-sjabloonbe
 
 ## Specificaties bestandsindeling ##
 
-Specificaties voor bestandsindelingen voor POT-bestandsindelingen zijn niet afzonderlijk beschikbaar door Microsoft. Het sjabloonformaat is echter hetzelfde als dat van het binaire [PPT](/nl/presentatie/ppt/) bestandsformaat en kan voor bewerkingsdoeleinden worden geopend in MS PowerPoint. Een POT-bestand wordt als volgt geïdentificeerd door de HEX-identificatie:
+Specificaties voor bestandsindelingen voor POT-bestandsindelingen zijn niet afzonderlijk beschikbaar door Microsoft. Het sjabloonformaat is echter hetzelfde als dat van het binaire [PPT](/nl/presentation/ppt/) bestandsformaat en kan voor bewerkingsdoeleinden worden geopend in MS PowerPoint. Een POT-bestand wordt als volgt geïdentificeerd door de HEX-identificatie:
 
 ```
 D0 CF 11 E0 A1 B1 1A E1 00 00 00 00

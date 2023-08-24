@@ -18,7 +18,7 @@
 
 ## Apa itu file DISCO?
 
-File DISCO adalah format file Microsoft Discovery yang digunakan untuk menerbitkan dan menemukan Layanan Web. Itu disimpan dalam format file XML dan memungkinkan alat Penemuan Layanan Web untuk mencari atau menemukan satu atau beberapa dokumen terkait untuk menjelaskan layanan [XML](/id/web/xml/) yang tersedia. File DISCO menyimpan informasi seperti dokumen penemuan, skema [XSD](https://docs.fileformat.com/programming/xsd/), dan deskripsi layanan. Layanan Web XML menggunakan informasi ini untuk mendapatkan layanan web XML yang tersedia di URL tertentu.
+File DISCO adalah format file Microsoft Discovery yang digunakan untuk menerbitkan dan menemukan Layanan Web. Itu disimpan dalam format file XML dan memungkinkan alat Penemuan Layanan Web untuk mencari atau menemukan satu atau beberapa dokumen terkait untuk menjelaskan layanan [XML](/id/web/xml/) yang tersedia. File DISCO menyimpan informasi seperti dokumen penemuan, skema [XSD](/programming/xsd/), dan deskripsi layanan. Layanan Web XML menggunakan informasi ini untuk mendapatkan layanan web XML yang tersedia di URL tertentu.
 
 ## Format File DISCO - Informasi Lebih Lanjut
 

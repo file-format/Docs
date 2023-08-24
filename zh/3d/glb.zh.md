@@ -77,5 +77,5 @@ GLB 文件中的每个块都具有以下结构：
 
 ## 参考 ＃＃
 
-* [GLB 文件格式规范 - Khronos](/zh/3D/GLTF/)
+* [GLB 文件格式规范 - Khronos](/zh/3d/gltf/)
 

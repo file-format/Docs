@@ -33,7 +33,7 @@ Parçayı montajlarda kullanılabilir hale getiren çizimlerden, unsurlardan ve 
 ## IPT dosyası indirme
 Bir 3d modelin IPT dosyasını bulup indirmek biraz zor. Bu nedenle, örnek bir IPT dosyasını buradan indirebilirsiniz:
 
-- [Örnek.ipt](../sample.ipt)
+- [Sample.ipt](../sample.ipt)
 
 ## Referanslar
 

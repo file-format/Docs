@@ -19,7 +19,7 @@
 
 ## Vad är en ODT fil?
 
-ODT-filer är typ av dokument skapade med ordbehandlingsprogram som är baserade på OpenDocument Text File-format. Dessa skapas med ordbehandlingsprogram som gratis OpenOffice Writer och kan innehålla innehåll som text, bilder, objekt och stilar. ODT-filen är för Writers ordbehandlare vad [DOCX](/sv/ord-behandling/docx/) är för Microsoft Word. Flera applikationer inklusive Google Docs och Googles webbaserade ordbehandlare som ingår i Google Drive kan öppna ODT-filerna för redigering. Microsoft Word kan också öppna ODT-filer och spara dem i andra format som [DOC](/sv/ordbehandling/doc/) och DOCX.
+ODT-filer är typ av dokument skapade med ordbehandlingsprogram som är baserade på OpenDocument Text File-format. Dessa skapas med ordbehandlingsprogram som gratis OpenOffice Writer och kan innehålla innehåll som text, bilder, objekt och stilar. ODT-filen är för Writers ordbehandlare vad [DOCX](/sv/word-processing/docx/) är för Microsoft Word. Flera applikationer inklusive Google Docs och Googles webbaserade ordbehandlare som ingår i Google Drive kan öppna ODT-filerna för redigering. Microsoft Word kan också öppna ODT-filer och spara dem i andra format som [DOC](/sv/word-processing/doc/) och DOCX.
 
 ## Kortfattad bakgrund ##
 
@@ -35,7 +35,7 @@ Det var ganska små förändringar i övergången från ODF 1.0 till 1.1 version
 
 ## Filformatspecifikationer ##
 
-OpenDocument-formatet stöder dokumentrepresentation som ett enda XML-dokument samt en samling av flera underdokument i ett paket som [ZIP](/sv/Compression/ZIP/)-arkiv. Var och en av filerna från ZIP-arkivet lagrar en del av det fullständiga dokumentet. Varje underdokument lagrar en viss aspekt av dokumentet. Till exempel innehåller ett underdokument stilinformationen och ett annat underdokument innehåller dokumentets innehåll. Ett typiskt ODF-dokument har följande komponenter:
+OpenDocument-formatet stöder dokumentrepresentation som ett enda XML-dokument samt en samling av flera underdokument i ett paket som [ZIP](/sv/compression/zip/)-arkiv. Var och en av filerna från ZIP-arkivet lagrar en del av det fullständiga dokumentet. Varje underdokument lagrar en viss aspekt av dokumentet. Till exempel innehåller ett underdokument stilinformationen och ett annat underdokument innehåller dokumentets innehåll. Ett typiskt ODF-dokument har följande komponenter:
 
 * content.xml – Dokumentinnehåll och automatiska stilar som används i innehållet.
 * styles.xml – Stilar som används i dokumentinnehållet och automatiska stilar som används i själva stilarna.

@@ -38,11 +38,11 @@ Om het Apple Pages-bestand naar PDF te converteren, kunnen de volgende stappen w
 
 Apple PAGES-documenten kunnen worden geconverteerd naar verschillende bestandsindelingen. Dit kan worden gedaan vanuit de Apple Pages-software met behulp van de optie **Exporteren naar**. PAGES-bestanden kunnen worden geconverteerd naar:
 
-* Microsoft Word [DOC](/nl/tekstverwerking/doc/) en [DOCX](/nl/tekstverwerking/docx/)
+* Microsoft Word [DOC](/nl/word-processing/doc/) en [DOCX](/nl/word-processing/docx/)
 * [PDF](/nl/pdf/)
 * [EPUB](/nl/ebook/epub/)
-* [RTF](/nl/tekstverwerking/rtf/)
-* [TXT](/nl/tekstverwerking/txt/)
+* [RTF](/nl/word-processing/rtf/)
+* [TXT](/nl/word-processing/txt/)
 
 ## Referenties
 

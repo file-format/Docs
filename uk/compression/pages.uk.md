@@ -42,7 +42,7 @@
 * [PDF](/uk/pdf/)
 * [EPUB](/uk/ebook/epub/)
 * [RTF](/uk/текстовий процес/rtf/)
-* [TXT](/uk/text-processing/txt/)
+* [TXT](/uk/word-processing/txt/)
 
 ## Список літератури
 

@@ -23,7 +23,7 @@ Das ORB-Dateiformat gehört zum E-Book-Dateityp, der mit ORB Reader gelesen werd
 
 ## Struktur der ORB-Datei ##
 
-Die Dateien mit der Erweiterung .orb werden tatsächlich mit Zip-Komprimierung komprimiert; die eine oder mehrere [SWF](/de/video/swf/)-Dateien (Macromedia Flash-Datei) enthalten, um ein eBook zu erstellen. Möglicherweise stellt sich Ihnen die Frage, wie wir dieses Dateiformat öffnen oder lesen können. Die Antwort ist, dass Sie es mit Original Book Reader öffnen können, der auch als **ORB Reader** bekannt ist. Der ORB Reader scheint eingestellt zu werden oder nicht mehr über das Internet verfügbar zu sein, aber in der Vergangenheit war er für Microsoft Windows und macOS verfügbar.
+Die Dateien mit der Erweiterung .orb werden tatsächlich mit Zip-Komprimierung komprimiert; die eine oder mehrere [SWF](/de/page-description-language/swf/)-Dateien (Macromedia Flash-Datei) enthalten, um ein eBook zu erstellen. Möglicherweise stellt sich Ihnen die Frage, wie wir dieses Dateiformat öffnen oder lesen können. Die Antwort ist, dass Sie es mit Original Book Reader öffnen können, der auch als **ORB Reader** bekannt ist. Der ORB Reader scheint eingestellt zu werden oder nicht mehr über das Internet verfügbar zu sein, aber in der Vergangenheit war er für Microsoft Windows und macOS verfügbar.
 
 ## Anzeigen einer ORB-Datei ##
 

@@ -18,7 +18,7 @@
 
 ## Wat is een MPO-bestand?
 
-Een MPO-bestand is een stereoscopisch 3D-beeld dat ontstaat na overlapping van twee 2D-beelden. Dit soort afbeeldingen worden gemaakt door digitale camera's en worden veel gebruikt in 3D-videogameconsoles en 3D-tv. MPO-bestanden worden ook wel multi-beeldobjecten genoemd omdat ze twee of meer [JPEG](/nl/image/jpg/)-afbeeldingen bevatten.
+Een MPO-bestand is een stereoscopisch 3D-beeld dat ontstaat na overlapping van twee 2D-beelden. Dit soort afbeeldingen worden gemaakt door digitale camera's en worden veel gebruikt in 3D-videogameconsoles en 3D-tv. MPO-bestanden worden ook wel multi-beeldobjecten genoemd omdat ze twee of meer [JPEG](/nl/image/jpeg/)-afbeeldingen bevatten.
 
 ## Korte geschiedenis van het MPO-bestandsformaat
 

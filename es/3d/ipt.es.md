@@ -33,7 +33,7 @@ Una **extensión de archivo IPT** de Autodesk que se utiliza para guardar un arc
 ## Descarga de archivos IPT
 Es un poco difícil encontrar y descargar el archivo IPT de un modelo 3D. Por lo tanto, puede descargar un archivo IPT de muestra desde aquí:
 
-- [Muestra.ipt](../muestra.ipt)
+- [Sample.ipt](../sample.ipt)
 
 ## Referencias
 

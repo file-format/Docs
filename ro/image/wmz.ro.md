@@ -23,7 +23,7 @@ Un fișier cu extensia .wmz este o versiune comprimată a [WMF](/ro/image/wmf/) 
 
 ## Format de fișier WMZ
 
-Fișierele WMZ sunt [Gzip](/ro/compression/gz/) comprimate și conțin [WMF](/ro/image/WMF/) în interior. Gzip folosește algoritmul DEFLATE pentru comprimarea arhivei. GZIP este diferit de formatul de arhivă [ZIP](/ro/compression/zip/), deoarece aplică algoritmul de compresie pentru arhiva completă, mai degrabă decât fișierele individuale. Formatul de fișier este format din:
+Fișierele WMZ sunt [Gzip](/ro/compression/gz/) comprimate și conțin [WMF](/ro/image/wmf/) în interior. Gzip folosește algoritmul DEFLATE pentru comprimarea arhivei. GZIP este diferit de formatul de arhivă [ZIP](/ro/compression/zip/), deoarece aplică algoritmul de compresie pentru arhiva completă, mai degrabă decât fișierele individuale. Formatul de fișier este format din:
 
 * Antet fișier
 * Anteturi opționale

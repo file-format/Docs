@@ -24,7 +24,7 @@ Các tệp BOK có thể được chỉnh sửa bằng eBay ProStores và đư�
 
 ## Định dạng tệp BOK
 
-Các tệp BOK được lưu dưới dạng các trang web thường ở định dạng tệp có thể hiểu được của trình duyệt, chẳng hạn như [HTML](/vi/web/html/) hoặc [PHP](/vi/web/php/). Nội dung của các trang này được tải từ cơ sở dữ liệu ProStores vào thời gian chạy khi một số khách hàng truy cập mặt tiền cửa hàng.
+Các tệp BOK được lưu dưới dạng các trang web thường ở định dạng tệp có thể hiểu được của trình duyệt, chẳng hạn như [HTML](/vi/web/html/) hoặc [PHP](/vi/programming/php/). Nội dung của các trang này được tải từ cơ sở dữ liệu ProStores vào thời gian chạy khi một số khách hàng truy cập mặt tiền cửa hàng.
 
 ## Người giới thiệu
 

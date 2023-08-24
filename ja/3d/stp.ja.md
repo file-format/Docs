@@ -69,7 +69,7 @@ Autodesk Fusion 360 は、STP ファイルを次の 3D および CAD ファイ�
 * [STL](/cad/stl/)
 * [FBX](/3d/fbx/)
 * F3D
-* [米ドル](/3d/米ドル/)
+* [USD](/3d/usd/)
 
 ## 参考文献
 

@@ -20,7 +20,7 @@
 
 ## ¿Qué es un archivo VSS?
 
-VSS son archivos de plantilla creados con Microsoft Visio 2007 y versiones anteriores. Un formato de archivo relativamente nuevo es [VSSX](/es/image/vssx/) que se introdujo con Microsoft Visio 2013. Los archivos de plantilla proporcionan objetos de dibujo que se pueden incluir en un dibujo .VSD Visio. El propio Microsoft Visio es conocido por crear elementos de dibujo, como una colección de formas, conectores, diagramas de flujo, diseño de red, diagramas UML, diagramas de software, modelos de bases de datos, mapeo de objetos y otra información similar. También tiene ricas funciones de conversión de documentos de Visio a otros formatos de archivo como PNG, BMP, PDF y otros. Visio está disponible para Windows y Mac OS.
+VSS son archivos de plantilla creados con Microsoft Visio 2007 y versiones anteriores. Un formato de archivo relativamente nuevo es [VSSX](/es/visio/vssx/) que se introdujo con Microsoft Visio 2013. Los archivos de plantilla proporcionan objetos de dibujo que se pueden incluir en un dibujo .VSD Visio. El propio Microsoft Visio es conocido por crear elementos de dibujo, como una colección de formas, conectores, diagramas de flujo, diseño de red, diagramas UML, diagramas de software, modelos de bases de datos, mapeo de objetos y otra información similar. También tiene ricas funciones de conversión de documentos de Visio a otros formatos de archivo como PNG, BMP, PDF y otros. Visio está disponible para Windows y Mac OS.
 
 ## Formato de archivo VSS
 

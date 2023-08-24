@@ -26,12 +26,12 @@
 
 ## TE Типи полів
 
-* Текст
-* Номер
-* [Зображення](/uk/image/)
-* Колір
-* Дата (ДД/ММ/РРРР)
-* Валюта
+* Text
+* Number
+* [Image](/uk/image/)
+* Colour
+* Date (DD/MM/YYYY)
+* Currency
 
 ## Посилання ##
 

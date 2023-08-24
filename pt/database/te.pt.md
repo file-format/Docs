@@ -26,12 +26,12 @@ O formato de arquivo interno dos arquivos TE é desconhecido. A Textease fornece
 
 ## Tipos de campo TE
 
-* Texto
-* Número
-* [Imagem](/pt/imagem/)
-* Cor
-* Data (DD/MM/AAAA)
-* Moeda
+* Text
+* Number
+* [Image](/pt/image/)
+* Colour
+* Date (DD/MM/YYYY)
+* Currency
 
 ## Referências ##
 

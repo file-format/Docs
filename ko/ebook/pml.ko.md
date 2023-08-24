@@ -19,7 +19,7 @@
 
 ## .PML 파일이란?
 
-Palm Inc는 Palm Markup Language File의 약자인 PML 파일 형식을 도입했습니다. 그 목적은 태블릿 컴퓨터와 유사한 eBook 읽기 장치인 eReader용 문서를 만드는 것입니다. PML 파일은 [PDB](/ko/ebook/pdb/) 파일(다양한 데이터 파일 포함)에 레이아웃을 제공하여 Palm 장치에 표시합니다.
+Palm Inc는 Palm Markup Language File의 약자인 PML 파일 형식을 도입했습니다. 그 목적은 태블릿 컴퓨터와 유사한 eBook 읽기 장치인 eReader용 문서를 만드는 것입니다. PML 파일은 [PDB](/ko/programming/pdb/) 파일(다양한 데이터 파일 포함)에 레이아웃을 제공하여 Palm 장치에 표시합니다.
 
 ## PML 파일의 기술적 세부 사항
 

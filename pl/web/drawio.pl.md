@@ -19,7 +19,7 @@
 
 ## Czym jest plik DRAWIO?
 
-Plik z rozszerzeniem .drawio to plik rysunku utworzony za pomocą draw.io [diagrams.net](https://www.diagrams.net/), który jest programem typu open source do pracy z diagramami. Zawiera ogólne informacje dotyczące zawartości i formatowania elementów diagramu, takich jak tekst, obrazy, układ, kształty i pozycjonowanie. Diagramy obsługiwane przez DRAWIO obejmują schematy blokowe, schematy organizacyjne, mapy, elementy inżynierskie, diagramy procesów, wykresy i wiele innych. Pliki DRAWIO można eksportować do kilku różnych formatów, takich jak [JPG](/pl/image/jpeg/), [PNG](/pl/image/png/), [BMP](/pl/image/bmp/), [XML](/pl/web /xml/), PDF, [HTML](/pl/web/html/) i [VSDX](/pl/image/vsdx/).
+Plik z rozszerzeniem .drawio to plik rysunku utworzony za pomocą draw.io [diagrams.net](https://www.diagrams.net/), który jest programem typu open source do pracy z diagramami. Zawiera ogólne informacje dotyczące zawartości i formatowania elementów diagramu, takich jak tekst, obrazy, układ, kształty i pozycjonowanie. Diagramy obsługiwane przez DRAWIO obejmują schematy blokowe, schematy organizacyjne, mapy, elementy inżynierskie, diagramy procesów, wykresy i wiele innych. Pliki DRAWIO można eksportować do kilku różnych formatów, takich jak [JPG](/pl/image/jpeg/), [PNG](/pl/image/png/), [BMP](/pl/image/bmp/), [XML](/pl/web/xml/), PDF, [HTML](/pl/web/html/) i [VSDX](/pl/visio/vsdx/).
 
 ## Format pliku DRAWIO
 

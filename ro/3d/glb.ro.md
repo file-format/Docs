@@ -77,5 +77,5 @@ Această bucată conține sarcina utilă binară pentru geometrie, cadre cheie d
 
 ## Referințe ##
 
-* [Specificații de format de fișier GLB - Khronos](/ro/3D/GLTF/)
+* [Specificații de format de fișier GLB - Khronos](/ro/3d/gltf/)
 

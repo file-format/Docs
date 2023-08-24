@@ -20,7 +20,7 @@ Soubor s příponou .ace je komprimovaný formát souboru ACE, který vyvinul Ma
 
 ## Formát souboru ACE
 
-ACE je proprietární formát souboru a jeho technické podrobnosti nejsou veřejně dostupné. Nabízel vyšší kompresní poměr než ZIP a [RAR](/cs/komprese/rar/) spolu s vysokou rychlostí komprese. Podporuje také robustní 160bitové šifrování Blowfish.
+ACE je proprietární formát souboru a jeho technické podrobnosti nejsou veřejně dostupné. Nabízel vyšší kompresní poměr než ZIP a [RAR](/cs/compression/rar/) spolu s vysokou rychlostí komprese. Podporuje také robustní 160bitové šifrování Blowfish.
 
 ## Reference
 

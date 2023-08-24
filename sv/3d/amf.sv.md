@@ -41,7 +41,7 @@ De fem toppnivåelementen definierade med<AMF> taggar är enligt beskrivningen n
 
 ## Exempel på AMF
 
-Följande är ett exempel på AMF-fil som kan kopieras till en [text](/sv/ordbehandling/txt/)-fil och sparas som en komprimerad [zip](/sv/compression/zip/)-fil för öppning.
+Följande är ett exempel på AMF-fil som kan kopieras till en [text](/sv/word-processing/txt/)-fil och sparas som en komprimerad [zip](/sv/compression/zip/)-fil för öppning.
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <amf unit="inch" version="1.1">

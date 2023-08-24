@@ -23,7 +23,7 @@
 
 ## WMZ Dosya Biçimi
 
-WMZ dosyaları [Gzip](/tr/compression/gz/) sıkıştırılmıştır ve içinde [WMF](/tr/image/WMF/) içerir. Gzip, arşivin sıkıştırılması için DEFLATE algoritmasını kullanır. GZIP, tek tek dosyalar yerine arşivi tamamlamak için sıkıştırma algoritması uyguladığı için [ZIP](/tr/compression/zip/) arşiv biçiminden farklıdır. Dosya formatı şunlardan oluşur:
+WMZ dosyaları [Gzip](/tr/compression/gz/) sıkıştırılmıştır ve içinde [WMF](/tr/image/wmf/) içerir. Gzip, arşivin sıkıştırılması için DEFLATE algoritmasını kullanır. GZIP, tek tek dosyalar yerine arşivi tamamlamak için sıkıştırma algoritması uyguladığı için [ZIP](/tr/compression/zip/) arşiv biçiminden farklıdır. Dosya formatı şunlardan oluşur:
 
 * Dosya Başlığı
 * İsteğe Bağlı Başlıklar

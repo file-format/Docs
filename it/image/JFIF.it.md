@@ -73,7 +73,7 @@ Questa è una sezione facoltativa che, se definita, deve seguire immediatamente 
 
 ## Conversione di JFIF in altri formati di file immagine
 
-JFIF può essere convertito nei formati di file immagine più diffusi come [PNG](/it/image/png/), [JPG](/it/image/jpg/) e [PDF](/it/pdf/).
+JFIF può essere convertito nei formati di file immagine più diffusi come [PNG](/it/image/png/), [JPG](/it/image/jpeg/) e [PDF](/it/pdf/).
 
 ## Riferimenti ##
 

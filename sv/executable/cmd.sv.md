@@ -18,10 +18,10 @@
 }
 
 ## Vad är en CMD fil?
-En CMD-fil består av ett skript som innehåller ett eller flera kommandon i form av ren text som körs för att utföra olika uppgifter. Den liknar en [BAT](/sv/körbar/bat/)-fil, som också vanligtvis används för att lagra en grupp körbara kommandon. CMD-filerna används ofta i operativsystemet Microsoft Windows. Dessa filer introducerades på nästan 90-talet men används fortfarande i det senaste Windows-operativsystemet. Dessa filer är vanligtvis skrivna för att utföra mer än ett kommando i en sekvens.
+En CMD-fil består av ett skript som innehåller ett eller flera kommandon i form av ren text som körs för att utföra olika uppgifter. Den liknar en [BAT](/sv/executable/bat/)-fil, som också vanligtvis används för att lagra en grupp körbara kommandon. CMD-filerna används ofta i operativsystemet Microsoft Windows. Dessa filer introducerades på nästan 90-talet men används fortfarande i det senaste Windows-operativsystemet. Dessa filer är vanligtvis skrivna för att utföra mer än ett kommando i en sekvens.
 
 ## CMD-filformat
-CMD är ett filformat som används av körbara program i CP/M-stil. Det är i allmänhet jämförbart med [COM](/sv/executable/com/) i CP/M-80 och [EXE](/sv/executable/exe/) i DOS. En CMD-fil innehåller 1 till 8 grupper av kod eller data och en 128-byte header. Varje grupp kan vara upp till 1 mb stor. CMD-filer kan också innehålla omlokaliseringsinformation och Resident System Extensions (RSX) i senare versioner. CMD är en nykomling jämfört med [BAT](/sv/körbar/bat/)-fil; används för MS-DOS före lanseringen av Windows i MS-DOS. Även om du fortfarande kan spara filer med tillägget .bat idag, använder många människor tillägget .cmd för att spara sina körbara skript.
+CMD är ett filformat som används av körbara program i CP/M-stil. Det är i allmänhet jämförbart med [COM](/sv/executable/com/) i CP/M-80 och [EXE](/sv/executable/exe/) i DOS. En CMD-fil innehåller 1 till 8 grupper av kod eller data och en 128-byte header. Varje grupp kan vara upp till 1 mb stor. CMD-filer kan också innehålla omlokaliseringsinformation och Resident System Extensions (RSX) i senare versioner. CMD är en nykomling jämfört med [BAT](/sv/executable/bat/)-fil; används för MS-DOS före lanseringen av Windows i MS-DOS. Även om du fortfarande kan spara filer med tillägget .bat idag, använder många människor tillägget .cmd för att spara sina körbara skript.
 
 ### CMD-formatspecifikation
 

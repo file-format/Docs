@@ -19,7 +19,7 @@
 
 ## ما هو ملف DBM؟
 
-الملف بامتداد .dbm (لغة ترميز قاعدة البيانات) هو ملف خادم ColdFusion تم تطويره بواسطة Adobe Systems. إنه ملف من جانب الخادم يتم تنفيذه على خادم ويب به ColdFusion. إنه مشابه لملفات [ASP](/ar/web/asp/) و [PHP](/ar/web/php/) ويقوم بإنشاء [HTML](/ar/web/html/) عندما يطلب المستخدم الصفحة في متصفح الويب. يمكن فتح ملفات DBM في تطبيقات مثل Adobe ColdFusion و Adobe ColdFusion Builder و MacroMates TextMate و Apple Safari.
+الملف بامتداد .dbm (لغة ترميز قاعدة البيانات) هو ملف خادم ColdFusion تم تطويره بواسطة Adobe Systems. إنه ملف من جانب الخادم يتم تنفيذه على خادم ويب به ColdFusion. إنه مشابه لملفات [ASP](/ar/web/asp/) و [PHP](/ar/programming/php/) ويقوم بإنشاء [HTML](/ar/web/html/) عندما يطلب المستخدم الصفحة في متصفح الويب. يمكن فتح ملفات DBM في تطبيقات مثل Adobe ColdFusion و Adobe ColdFusion Builder و MacroMates TextMate و Apple Safari.
 
 ## تنسيق ملف DBM
 

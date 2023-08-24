@@ -19,7 +19,7 @@
 
 ## A5W dosyası nedir?
 
-Bir A5W dosyası, [Alpha Five](https://www.alphasoftware.com/) yazılımıyla oluşturulmuş sunucu taraflı bir web sayfasıdır ve tarayıcı aracılığıyla erişildiğinde kullanıcılara sunulan kodu içerir. [.asp](/tr/web/asp/) ve [.php](/tr/web/php/) sayfalarına benzer, ancak bunlar [Alfa Beş söz diziminde](https://documentation.alphasoftware.com/documentation/pages/GettingStarted/index.html). Alpha Five, hızlı uygulama aracı için platformlar arası bir web ve mobil uygulama geliştirme aracıdır. Ayrıca, dinamik web sayfası bileşenleri ve tarayıcı tarafından çalıştırılan masaüstü benzeri uygulamalar oluşturmanıza olanak tanır. A5W dosyaları Alpha 5 Yazılımında açılabilir.
+Bir A5W dosyası, [Alpha Five](https://www.alphasoftware.com/) yazılımıyla oluşturulmuş sunucu taraflı bir web sayfasıdır ve tarayıcı aracılığıyla erişildiğinde kullanıcılara sunulan kodu içerir. [.asp](/tr/web/asp/) ve [.php](/tr/programming/php/) sayfalarına benzer, ancak bunlar [Alfa Beş söz diziminde](https://documentation.alphasoftware.com/documentation/pages/GettingStarted/index.html). Alpha Five, hızlı uygulama aracı için platformlar arası bir web ve mobil uygulama geliştirme aracıdır. Ayrıca, dinamik web sayfası bileşenleri ve tarayıcı tarafından çalıştırılan masaüstü benzeri uygulamalar oluşturmanıza olanak tanır. A5W dosyaları Alpha 5 Yazılımında açılabilir.
 
 ## A5W Dosya Biçimi
 

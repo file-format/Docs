@@ -25,10 +25,10 @@ Un fichier avec l'extension .fodg est un format de fichier Apache OpenOffice Dra
 
 FODG est basé sur le format de fichier XML d'OpenDocument qui est conforme au format OASIS OpenDocument ISO/IEC 26300. Il a le type de média Internet application/vnd.oasis.opendocument.graphics et est également conforme à org.oasis-open.opendocument public.composite-content . La structure XML est commune à tous les types de documents tels que les feuilles de calcul, les fichiers de dessin et les documents texte. Les documents OpenOffice tirent parti de la séparation des préoccupations en séparant le contenu, les styles, les métadonnées et les paramètres d'application dans quatre fichiers XML distincts.
 
-`<office:document-content> ` - Contenu du document et styles automatiques utilisés dans le contenu.
-`<office:document-styles> ` - Styles utilisés dans le contenu du document et styles automatiques utilisés dans les styles eux-mêmes.
-`<office:document-meta> ` - Documenter les méta-informations, telles que l'auteur ou l'heure de la dernière action d'enregistrement.
-`<office:document-settings> ` - Paramètres spécifiques à l'application, tels que la taille de la fenêtre ou les informations sur l'imprimante.
+`<office:document-content>` - Contenu du document et styles automatiques utilisés dans le contenu.
+`<office:document-styles>` - Styles utilisés dans le contenu du document et styles automatiques utilisés dans les styles eux-mêmes.
+`<office:document-meta>` - Documenter les méta-informations, telles que l'auteur ou l'heure de la dernière action d'enregistrement.
+`<office:document-settings>` - Paramètres spécifiques à l'application, tels que la taille de la fenêtre ou les informations sur l'imprimante.
 
 ## Références ##
 * [Future Specifications for v 1.3 Standardization ](https://docs.oasis-open.org/office/OpenDocument/v1.3/cs01/OpenDocument-v1.3-cs01.zip)

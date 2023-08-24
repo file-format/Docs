@@ -19,7 +19,7 @@
 
 ## Che cos'è un file C?
 
-Un file salvato con estensione c è un file di codice sorgente scritto nel linguaggio di programmazione C. Il **file C** include tutta l'implementazione delle funzionalità dell'applicazione sotto forma di codice sorgente. La dichiarazione del codice sorgente viene scritta nei file di intestazione che vengono salvati con estensione [.h](/it/programmazione/h/). C++ è la forma moderna del linguaggio C ed è utilizzato per sviluppare la maggior parte del software al giorno d'oggi.
+Un file salvato con estensione c è un file di codice sorgente scritto nel linguaggio di programmazione C. Il **file C** include tutta l'implementazione delle funzionalità dell'applicazione sotto forma di codice sorgente. La dichiarazione del codice sorgente viene scritta nei file di intestazione che vengono salvati con estensione [.h](/it/programming/h/). C++ è la forma moderna del linguaggio C ed è utilizzato per sviluppare la maggior parte del software al giorno d'oggi.
 
 ## Breve storia
 

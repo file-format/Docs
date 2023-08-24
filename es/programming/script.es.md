@@ -22,7 +22,7 @@ Un archivo SCRIPT es un archivo fuente que contiene scripts en cualquier lenguaj
 
 ## Formato de archivo SCRIPT - Más información
 
-Los archivos SCRIPT se almacenan en el disco en archivos de texto sin formato. Estos pueden abrirse y editarse con cualquier editor de texto como Microsoft Notepad, Notepad++ y Apple TextEdit. Dado que el lenguaje de secuencias de comandos puede ser diferente, se puede ejecutar cambiando el nombre de la extensión del archivo a la extensión predeterminada del lenguaje de secuencias de comandos respectivo. Por ejemplo, existen varios lenguajes de secuencias de comandos comunes, como JavaScript ([.JS](/es/web/js/)), VBScript ([.VBS](/es/programming/vbs/)), AppleScript (.SCPT), PHP ([ .PHP](/es/programación/php/)) y ASP ([.ASP](/es/web/asp/)).
+Los archivos SCRIPT se almacenan en el disco en archivos de texto sin formato. Estos pueden abrirse y editarse con cualquier editor de texto como Microsoft Notepad, Notepad++ y Apple TextEdit. Dado que el lenguaje de secuencias de comandos puede ser diferente, se puede ejecutar cambiando el nombre de la extensión del archivo a la extensión predeterminada del lenguaje de secuencias de comandos respectivo. Por ejemplo, existen varios lenguajes de secuencias de comandos comunes, como JavaScript ([.JS](/es/web/js/)), VBScript ([.VBS](/es/programming/vbs/)), AppleScript (.SCPT), PHP ([ .PHP](/es/programming/php/)) y ASP ([.ASP](/es/web/asp/)).
 
 ## Referencias
 

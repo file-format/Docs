@@ -52,8 +52,7 @@
 
 ## อ้างอิง
 
-* [สร้างความช่วยเหลือแบบ XML โดยใช้ PlatyPS
-](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
+* [สร้างความช่วยเหลือแบบ XML โดยใช้ PlatyPS](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
 * [ภาษามาร์กอัปของ Microsoft Assistance](https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
 
 # AML - ไฟล์ภาษามาโครอาร์ค

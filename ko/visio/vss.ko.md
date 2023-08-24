@@ -20,7 +20,7 @@
 
 ## .VSS 파일이란?
 
-VSS는 Microsoft Visio 2007 및 이전 버전으로 만든 스텐실 파일입니다. 비교적 새로운 파일 형식은 Microsoft Visio 2013에 도입된 [VSSX](/ko/image/vssx/)입니다. 스텐실 파일은 .VSD Visio 드로잉에 포함될 수 있는 드로잉 개체를 제공합니다. Microsoft Visio 자체는 모양, 커넥터, 순서도, 네트워크 레이아웃, UML 다이어그램, 소프트웨어 다이어그램, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보 모음과 같은 그리기 요소를 만드는 것으로 알려져 있습니다. 또한 Visio 문서를 PNG, BMP, PDF 등과 같은 다른 파일 형식으로 변환하는 기능이 풍부합니다. Visio는 Windows와 Mac OS 모두에서 사용할 수 있습니다.
+VSS는 Microsoft Visio 2007 및 이전 버전으로 만든 스텐실 파일입니다. 비교적 새로운 파일 형식은 Microsoft Visio 2013에 도입된 [VSSX](/ko/visio/vssx/)입니다. 스텐실 파일은 .VSD Visio 드로잉에 포함될 수 있는 드로잉 개체를 제공합니다. Microsoft Visio 자체는 모양, 커넥터, 순서도, 네트워크 레이아웃, UML 다이어그램, 소프트웨어 다이어그램, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보 모음과 같은 그리기 요소를 만드는 것으로 알려져 있습니다. 또한 Visio 문서를 PNG, BMP, PDF 등과 같은 다른 파일 형식으로 변환하는 기능이 풍부합니다. Visio는 Windows와 Mac OS 모두에서 사용할 수 있습니다.
 
 ## VSS 파일 형식
 

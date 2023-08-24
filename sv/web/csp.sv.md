@@ -19,7 +19,7 @@
 
 ## Vad är en CSP-fil?
 
-En CSP-fil är en dynamisk webbsidesfil som innehåller innehåll skrivet för att köras på RadGs Concept Application Server. Den kompileras och körs på serversidan, varefter den serveras för att begära användarens webbläsare via HTTP-protokoll. Till skillnad från CON-filformatet kräver inte CSP-filer att Concept-klienten installeras hos användaren för att kunna se dessa filer. Du kan visa CSP-filer som liknar alla andra serversidor som [PHP](/sv/programmering/php/) och [ASP](/sv/web/asp/).
+En CSP-fil är en dynamisk webbsidesfil som innehåller innehåll skrivet för att köras på RadGs Concept Application Server. Den kompileras och körs på serversidan, varefter den serveras för att begära användarens webbläsare via HTTP-protokoll. Till skillnad från CON-filformatet kräver inte CSP-filer att Concept-klienten installeras hos användaren för att kunna se dessa filer. Du kan visa CSP-filer som liknar alla andra serversidor som [PHP](/sv/programming/php/) och [ASP](/sv/web/asp/).
 
 ## Referenser
 

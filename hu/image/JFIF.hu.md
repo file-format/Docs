@@ -73,7 +73,7 @@ Ez egy opcionális szakasz, amely ha definiált, azonnal követnie kell a JFIF A
 
 ## JFIF konvertálása más képfájlformátumokká
 
-A JFIF konvertálható népszerű képfájlformátumokká, például [PNG](/hu/image/png/), [JPG](/hu/image/jpg/) és [PDF](/hu/pdf/).
+A JFIF konvertálható népszerű képfájlformátumokká, például [PNG](/hu/image/png/), [JPG](/hu/image/jpeg/) és [PDF](/hu/pdf/).
 
 ## Referenciák ##
 

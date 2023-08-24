@@ -27,7 +27,7 @@ Phần mở rộng tệp XLTM đại diện cho các tệp được tạo bởi 
 
 ## Thông số kỹ thuật định dạng tệp XLTM ##
 
-Các tệp XLTM dựa trên định dạng tệp Office OpenXML và sử dụng XML và [ZIP](/vi/Compression/ZIP/) để giảm kích thước tệp. Chúng có thể được mở bằng Microsoft Excel bằng cách nhấp đúp vào tệp. Có thể quan sát tổ chức tệp ở định dạng tệp XLTM bằng cách đổi tên tệp thành ZIP và sau đó giải nén nội dung của tệp vào đĩa.
+Các tệp XLTM dựa trên định dạng tệp Office OpenXML và sử dụng XML và [ZIP](/vi/compression/zip/) để giảm kích thước tệp. Chúng có thể được mở bằng Microsoft Excel bằng cách nhấp đúp vào tệp. Có thể quan sát tổ chức tệp ở định dạng tệp XLTM bằng cách đổi tên tệp thành ZIP và sau đó giải nén nội dung của tệp vào đĩa.
 
 ### [Content_Types].xml ###
 

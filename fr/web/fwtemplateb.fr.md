@@ -27,5 +27,4 @@ Les fichiers FWTEMPLATEB sont enregistrés sous la forme d'une collection de mod
 ## Références
 
 * [FWTEMPLATE](/fr/web/fwtemplate/)
-* [AUTOROUTE](/fr/web/autoroute/)
-
+* [FREEWAY](/fr/web/freeway/)

@@ -19,7 +19,7 @@
 
 ## 什么是 .docm 文件？
 
-DOCM 文件是 Microsoft Word 2007 或更高版本生成的文档，能够运行宏。它类似于 [DOCX](https://docs.fileformat.com/word-processing/docx/) 文件格式，但运行宏的能力使其与 DOCX 不同。与 DOCX 一样，DOCM 文件可以存储文本、图像、表格、形状、图表和其他内容。运行宏的能力可以通过以记录动作的形式执行一系列命令来自动完成任务，从而轻松节省时间. DOCM 文件可以在 Microsoft Word 2007 及更高版本中打开和编辑。
+DOCM 文件是 Microsoft Word 2007 或更高版本生成的文档，能够运行宏。它类似于 [DOCX](/word-processing/docx/) 文件格式，但运行宏的能力使其与 DOCX 不同。与 DOCX 一样，DOCM 文件可以存储文本、图像、表格、形状、图表和其他内容。运行宏的能力可以通过以记录动作的形式执行一系列命令来自动完成任务，从而轻松节省时间. DOCM 文件可以在 Microsoft Word 2007 及更高版本中打开和编辑。
 
 ## 历史简介
 

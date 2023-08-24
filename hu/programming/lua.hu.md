@@ -19,7 +19,7 @@
 
 ## Mi az a LUA fájl?
 
-A .lua kiterjesztésű fájl a **Luа** programozási nyelvhez tartozik. A Luа egy könnyű, magas szintű, több-raradigmát tartalmazó programozási nyelv, amelyet elsősorban az alkalmazásokba való beágyazott használatra terveztek. Ez kereszt-platform, mivel a соmрiled byte соde interreterje meg van írva, és Luа-nak viszonylag egyszerű [C](/hu/programing/c/) АРI beágyazása az арррlisаtiоde-ba.
+A .lua kiterjesztésű fájl a **Luа** programozási nyelvhez tartozik. A Luа egy könnyű, magas szintű, több-raradigmát tartalmazó programozási nyelv, amelyet elsősorban az alkalmazásokba való beágyazott használatra terveztek. Ez kereszt-platform, mivel a соmрiled byte соde interreterje meg van írva, és Luа-nak viszonylag egyszerű [C](/hu/programming/c/) АРI beágyazása az арррlisаtiоde-ba.
 
 A Lua-t eredetileg 1993-ban úgy tervezték, hogy a szoftveralkalmazások bővítésére szolgáljon, hogy megfeleljen az akkoriban növekvő testreszabási igényeknek. Ez biztosította a legtöbb eljárási programozási nyelv alaplehetőségeit, de bonyolultabb vagy tartományspecifikus funkciókat nem tartalmazott:
 

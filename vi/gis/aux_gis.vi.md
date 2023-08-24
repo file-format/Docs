@@ -18,7 +18,7 @@
 
 ## Tệp AUX là gì?
 
-Tệp có phần mở rộng .aux là tệp Phụ trợ chứa dữ liệu không gian địa lý cho tệp dữ liệu raster đi kèm trong tệp [.JPG](/vi/image/jpg/) hoặc GeoTIFF [.TIFF](/vi/image/tiff/). Vì các tệp raster không thể chứa thông tin như vậy nên các tệp AUX được sử dụng để lưu trữ thông tin bổ sung dưới dạng dữ liệu được liên kết. Chúng thường được lưu trữ trong cùng một thư mục có cùng tên tệp với tên tệp raster tương ứng. Các tệp AUX thường được sử dụng bởi các ứng dụng không gian địa lý như ESRI ArcGIS Desktop và ERDAS IMAGINE.
+Tệp có phần mở rộng .aux là tệp Phụ trợ chứa dữ liệu không gian địa lý cho tệp dữ liệu raster đi kèm trong tệp [.JPG](/vi/image/jpeg/) hoặc GeoTIFF [.TIFF](/vi/image/tiff/). Vì các tệp raster không thể chứa thông tin như vậy nên các tệp AUX được sử dụng để lưu trữ thông tin bổ sung dưới dạng dữ liệu được liên kết. Chúng thường được lưu trữ trong cùng một thư mục có cùng tên tệp với tên tệp raster tương ứng. Các tệp AUX thường được sử dụng bởi các ứng dụng không gian địa lý như ESRI ArcGIS Desktop và ERDAS IMAGINE.
 
 ## Định dạng tệp AUX - Thông tin khác
 

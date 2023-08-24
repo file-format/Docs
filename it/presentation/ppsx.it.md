@@ -29,8 +29,8 @@ I file PPSX vengono salvati nel formato Open XML, introdotto in Microsoft Office
 
 ## Guarda anche ##
 
-* [PPT](/it/presentazione/ppt/)
-* [PPTX](/it/presentazione/pptx/)
+* [PPT](/it/presentation/ppt/)
+* [PPTX](/it/presentation/pptx/)
 
 ## Riferimenti ##
 

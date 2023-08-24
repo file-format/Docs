@@ -29,6 +29,6 @@ Az ALB fájlok Alpha File szabadalmaztatott fájlformátumban kerülnek mentésr
 
 ## Hivatkozások
 
-* [ADB-fájl](/hu/adatbázis/adb/)
+* [ADB-fájl](/hu/database/adb/)
 * [Az Alpha Anywhere IDE](https://documentation.alphasoftware.com/pages/GettingStarted/IDE/index.xml)
 

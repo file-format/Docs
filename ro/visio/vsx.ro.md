@@ -20,7 +20,7 @@
 
 ## Ce este un fișier VSX?
 
-Fișierele cu extensia .vsx se referă la șabloane care constau din desene și forme care sunt utilizate pentru crearea diagramelor în Microsoft Visio. Fișierele VSX sunt salvate în format de fișier XML și au fost acceptate până în Visio 2013. Acestea sunt diferite de formatul de fișier principal [VSDX](/ro/image/vsdx/) care a fost introdus cu Microsoft Visio 2013. Fișierele VSX pot fi deschise în orice editor de text pentru a vizualiza conținutul. Fișierele VSX pot fi convertite în mai multe formate de fișiere diferite, cum ar fi PDF și HTML.
+Fișierele cu extensia .vsx se referă la șabloane care constau din desene și forme care sunt utilizate pentru crearea diagramelor în Microsoft Visio. Fișierele VSX sunt salvate în format de fișier XML și au fost acceptate până în Visio 2013. Acestea sunt diferite de formatul de fișier principal [VSDX](/ro/visio/vsdx/) care a fost introdus cu Microsoft Visio 2013. Fișierele VSX pot fi deschise în orice editor de text pentru a vizualiza conținutul. Fișierele VSX pot fi convertite în mai multe formate de fișiere diferite, cum ar fi PDF și HTML.
 
 ## Format de fișier VSX ##
 

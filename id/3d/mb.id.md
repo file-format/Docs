@@ -31,7 +31,7 @@ File MB dalam format file biner, yaitu format file terkompresi, dan hanya dapat 
 
 Agak sulit untuk menemukan dan mengunduh file MB model 3d. Oleh karena itu, Anda dapat mengunduh file MB sampel dari sini:
 
-- [Sampel.mb](../sampel.mb)
+- [Sample.mb](../sample.mb)
 
 ## Referensi
 

@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo PPSX?
 
-PPSX, presentación de diapositivas de Power Point, el archivo se crea con Microsoft PowerPoint 2007 y superior para fines de presentación de diapositivas. Es una actualización del formato de archivo [PPS](/es/presentation/pps/) compatible con las versiones de Microsoft PowerPoint 97-2003. Cuando un archivo PPSX se comparte con otro usuario y se abre, comienza como una presentación de PowerPoint a diferencia del archivo [PPTX](/es/presentación/pptx/) que se abre en modo editable. La secuencia de la presentación de diapositivas es la misma que en la presentación original. Todas las diapositivas acompañan a las imágenes, los sonidos y otros medios integrados acompañan a las diapositivas de la presentación al PPSX durante la presentación de diapositivas.
+PPSX, presentación de diapositivas de Power Point, el archivo se crea con Microsoft PowerPoint 2007 y superior para fines de presentación de diapositivas. Es una actualización del formato de archivo [PPS](/es/presentation/pps/) compatible con las versiones de Microsoft PowerPoint 97-2003. Cuando un archivo PPSX se comparte con otro usuario y se abre, comienza como una presentación de PowerPoint a diferencia del archivo [PPTX](/es/presentation/pptx/) que se abre en modo editable. La secuencia de la presentación de diapositivas es la misma que en la presentación original. Todas las diapositivas acompañan a las imágenes, los sonidos y otros medios integrados acompañan a las diapositivas de la presentación al PPSX durante la presentación de diapositivas.
 
 ## Formato de archivo ##
 
@@ -29,8 +29,8 @@ Los archivos PPSX se guardan en el formato Open XML, que se introdujo en Microso
 
 ## Ver también ##
 
-* [PPT](/es/presentación/ppt/)
-* [PPTX](/es/presentación/pptx/)
+* [PPT](/es/presentation/ppt/)
+* [PPTX](/es/presentation/pptx/)
 
 ## Referencias ##
 

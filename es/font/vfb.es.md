@@ -31,8 +31,8 @@ El formato de archivo VFB es propietario y solo puede leerlo y escribirlo un sof
 
 Puedes convertir:
 
-* VFB a [.TTF](/es/fuente/ttf/)
-* VFB a [.OTF](/es/fuente/otf/)
+* VFB a [.TTF](/es/font/ttf/)
+* VFB a [.OTF](/es/font/otf/)
 * VFB a [.PFB](/es/font/pfb/)
 * VFB a [.PFA](/es/font/pfa/)
 

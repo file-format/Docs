@@ -20,7 +20,7 @@
 
 ## VSDX dosyası nedir?
 
-.vsdx uzantılı dosyalar, Microsoft Office 2013'ten itibaren kullanıma sunulan Microsoft Visio dosya biçimini temsil eder. Microsoft Visio'nun önceki sürümleri tarafından desteklenen ikili dosya biçimi [.VSD](/tr/image/vsd/)'nin yerini almak üzere geliştirilmiştir. Ayrıca Microsoft SharePoint Server 2013'teki Visio Hizmetlerinde desteklenir ve SharePoint Server'da yayınlamak için bir aracı dosya formatı gerektirmez. Visio dosyaları, görsel nesneler, akış şemaları, UML diyagramı, bilgi akışı, organizasyon şemaları, yazılım diyagramları, ağ düzeni, veritabanı modelleri, nesne eşleme ve benzeri bilgileri içeren çizimler oluşturmak için kullanılır. Visio kullanılarak oluşturulan dosyalar, [PNG](/tr/image/png/), [BMP](/tr/image/bmp/), [PDF](/tr/pdf/) ve diğerleri gibi farklı dosya biçimlerine de aktarılabilir.
+.vsdx uzantılı dosyalar, Microsoft Office 2013'ten itibaren kullanıma sunulan Microsoft Visio dosya biçimini temsil eder. Microsoft Visio'nun önceki sürümleri tarafından desteklenen ikili dosya biçimi [.VSD](/tr/visio/vsd/)'nin yerini almak üzere geliştirilmiştir. Ayrıca Microsoft SharePoint Server 2013'teki Visio Hizmetlerinde desteklenir ve SharePoint Server'da yayınlamak için bir aracı dosya formatı gerektirmez. Visio dosyaları, görsel nesneler, akış şemaları, UML diyagramı, bilgi akışı, organizasyon şemaları, yazılım diyagramları, ağ düzeni, veritabanı modelleri, nesne eşleme ve benzeri bilgileri içeren çizimler oluşturmak için kullanılır. Visio kullanılarak oluşturulan dosyalar, [PNG](/tr/image/png/), [BMP](/tr/image/bmp/), [PDF](/tr/pdf/) ve diğerleri gibi farklı dosya biçimlerine de aktarılabilir.
 
 ## Dosya formatı ##
 

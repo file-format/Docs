@@ -24,7 +24,7 @@ VSD dosyaları, çeşitli grafik nesneleri ve bunlar arasındaki bağlantıyı t
 
 # VSD Dosya Biçimi #
 
-VSD dosya formatı, çizim öğelerini depolamak için Microsoft Visio tarafından sunulan ilk dosya formatıdır. VSD dosyalarının dahili yapısı, Microsoft Visio 2013 ile tanıtılan [.VSDX](/tr/image/vsdx/)'den farklı olarak ikili dosya biçimini temel alır. Yeni biçim, Office Açık XML dosya biçimini temel alır ve proje bilgilerini bir [ZIP](/tr/compression/zip/) arşivi. Microsoft, Visio'nun sistemde kurulu olmaması durumunda Visio çizim dosyalarına vviewer.exe uygulamasını sunmaktadır.
+VSD dosya formatı, çizim öğelerini depolamak için Microsoft Visio tarafından sunulan ilk dosya formatıdır. VSD dosyalarının dahili yapısı, Microsoft Visio 2013 ile tanıtılan [.VSDX](/tr/visio/vsdx/)'den farklı olarak ikili dosya biçimini temel alır. Yeni biçim, Office Açık XML dosya biçimini temel alır ve proje bilgilerini bir [ZIP](/tr/compression/zip/) arşivi. Microsoft, Visio'nun sistemde kurulu olmaması durumunda Visio çizim dosyalarına vviewer.exe uygulamasını sunmaktadır.
 
 ## Kısa Tarih ##
 

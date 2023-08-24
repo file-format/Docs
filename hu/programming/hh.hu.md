@@ -32,7 +32,7 @@ A .hh fájl egy egyszerű szöveges fájl, amely a fejlécfájl-definíciós sza
 
 ## Különbség a .H és a .HH fájlok között
 
-Úgy tűnik, nincs ilyen különbség a .h és .hh fejlécfájlok között, kivéve a megfelelő nyelvekhez javasolt használati módot, pl. [C](/hu/programing/c/) vagy C++. A fejlécfájlok e nyelvek szerinti elnevezése segít megkülönböztetni őket egy nagy projektben, amely C és C++ implementációkat is tartalmazhat.
+Úgy tűnik, nincs ilyen különbség a .h és .hh fejlécfájlok között, kivéve a megfelelő nyelvekhez javasolt használati módot, pl. [C](/hu/programming/c/) vagy C++. A fejlécfájlok e nyelvek szerinti elnevezése segít megkülönböztetni őket egy nagy projektben, amely C és C++ implementációkat is tartalmazhat.
 
 Ezenkívül, ha a fejlécek kiterjesztéssel vannak elválasztva, a szerkesztő automatikusan alkalmazhatja a megfelelő formázást.
 

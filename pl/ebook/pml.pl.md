@@ -19,7 +19,7 @@
 
 ## Czym jest plik PML?
 
-Firma Palm Inc wprowadziła format pliku PML, który oznacza plik języka znaczników Palm. Jego celem jest tworzenie dokumentów dla eReadera, który jest urządzeniem do czytania eBooków podobnym do tabletu. Plik PML zawiera układ pliku [PDB](/pl/ebook/pdb/) (zawierającego różne pliki danych) do wyświetlenia na urządzeniu Palm.
+Firma Palm Inc wprowadziła format pliku PML, który oznacza plik języka znaczników Palm. Jego celem jest tworzenie dokumentów dla eReadera, który jest urządzeniem do czytania eBooków podobnym do tabletu. Plik PML zawiera układ pliku [PDB](/pl/programming/pdb/) (zawierającego różne pliki danych) do wyświetlenia na urządzeniu Palm.
 
 ## Szczegóły techniczne plików PML
 

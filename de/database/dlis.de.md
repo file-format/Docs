@@ -52,7 +52,4 @@ Das PPDM-Datenmodell bietet eine konsistente Methode nach Industriestandard zum 
 
 Die gemeinsame Verwendung des PPDM-Datenmodells und der DLIS-Daten ermöglicht es, Bohrlochprotokolldaten auf eine Weise zu speichern und zu verwalten, die den Industriestandards entspricht und für andere Systeme und Anwendungen leicht zugänglich ist.
 
-## Verweise
-* [Format für digitale Bohrlochprotokolldaten](http://w3.energistics.org/rp66/V1/Toc/main.html)
-* [DLIS - Datenorganisation](http://w3.energistics.org/rp66/V1/Toc/main.html)
 

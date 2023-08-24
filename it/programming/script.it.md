@@ -22,7 +22,7 @@ Un file SCRIPT è un file di origine che contiene script in qualsiasi linguaggio
 
 ## Formato file SCRIPT - Ulteriori informazioni
 
-I file SCRIPT vengono archiviati su disco in file di testo normale. Questi possono essere aperti e modificati con qualsiasi editor di testo come Microsoft Notepad, Notepad ++ e Apple TextEdit. Poiché il linguaggio di scripting può essere diverso, può essere eseguito rinominando l'estensione del file con l'estensione predefinita del rispettivo linguaggio di scripting. Ad esempio, esistono diversi linguaggi di scripting comuni come JavaScript ([.JS](/it/web/js/)), VBScript ([.VBS](/it/programming/vbs/)), AppleScript (.SCPT), PHP ([ .PHP](/it/programmazione/php/)) e ASP ([.ASP](/it/web/asp/)).
+I file SCRIPT vengono archiviati su disco in file di testo normale. Questi possono essere aperti e modificati con qualsiasi editor di testo come Microsoft Notepad, Notepad ++ e Apple TextEdit. Poiché il linguaggio di scripting può essere diverso, può essere eseguito rinominando l'estensione del file con l'estensione predefinita del rispettivo linguaggio di scripting. Ad esempio, esistono diversi linguaggi di scripting comuni come JavaScript ([.JS](/it/web/js/)), VBScript ([.VBS](/it/programming/vbs/)), AppleScript (.SCPT), PHP ([ .PHP](/it/programming/php/)) e ASP ([.ASP](/it/web/asp/)).
 
 ## Riferimenti
 

@@ -20,7 +20,7 @@
 
 En ordbehandlingsfil innehåller användarinformation i vanlig text eller RTF-format. Ett **oformaterad text**-filformat innehåller oformaterad text och inga teckensnitt eller sidinställningar etc. kan tillämpas. Däremot tillåter ett **rik text**-filformat formateringsalternativ som att ställa in typsnittstyp, stilar (fet, kursiv, understruken, etc.), sidmarginaler, rubriker, punkter och siffror och flera andra formateringsfunktioner. Användningen av vanliga textfiler har minskat avsevärt med tiden eftersom det finns kraftfullare datorer och program tillgängliga för att erbjuda rika textfiler.
 
-Vanliga filtillägg för vanlig text och tillhörande filformat inkluderar **[TXT](/sv/ordbehandling/txt/)**, **[CSV](/sv/spreadsheet/csv/)**, medan filtillägg för rich text-dokument inkluderar **[DOCX](/sv/word-processing/docx/)**, **[DOC](/sv/word-processing/doc/)** och **[RTF](/sv/word-processing/rtf/)** .
+Vanliga filtillägg för vanlig text och tillhörande filformat inkluderar **[TXT](/sv/word-processing/txt/)**, **[CSV](/sv/spreadsheet/csv/)**, medan filtillägg för rich text-dokument inkluderar **[DOCX](/sv/word-processing/docx/)**, **[DOC](/sv/word-processing/doc/)** och **[RTF](/sv/word-processing/rtf/)** .
 
 Har du frågor relaterade till ordbehandlingsfilformat? Gå vidare till vårt community [forum](https://forum.fileformat.com/c/word-processing/5) för att dra nytta av den kunskap som delas av filformatsexperter.
 

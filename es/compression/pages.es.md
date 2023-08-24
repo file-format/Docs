@@ -41,8 +41,8 @@ Los documentos de Apple PAGES se pueden convertir a varios formatos de archivo. 
 * Microsoft Word [DOC](/es/procesamiento de textos/doc/) y [DOCX](/es/procesamiento de textos/docx/)
 * [PDF](/es/pdf/)
 * [EPUB](/es/ebook/epub/)
-* [RTF](/es/procesador de textos/rtf/)
-* [TXT](/es/procesador-de-texto/txt/)
+* [RTF](/es/word-processing/rtf/)
+* [TXT](/es/word-processing/txt/)
 
 ## Referencias
 

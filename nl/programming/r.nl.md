@@ -21,7 +21,7 @@
 
 Een bestand met de extensie .r behoort tot de programmeertaal R. Deze taal is gespecificeerd voor statistische berekeningen en is populair onder de gemeenschap van statistici. Gegevensanalyse en ontwikkeling van statistische software zijn twee hoofdcategorieën die door deze taal worden uitgevoerd op het gebied van datamining. Een ander voordeel van het gebruik van deze taal en software is dat het de mogelijkheid biedt van statische grafieken die nuttig zijn bij de productie van kwaliteitsgrafieken. Voor de dynamische en interactieve graphics worden enkele aanvullende pakketten gebruikt.
 
-De software van deze taal bevat een General Public License, zodat de beschikbaarheid ervan gratis is. De code van R is meestal geschreven in talen op hoog niveau zoals [C](/nl/programmering/c/) en R zelf ook. De software omvat een opdrachtregelinterface en de beschikbaarheid van interfaces van derden, zoals grafische gebruikersinterfaces van RStudio en Jupyter (notebookinterface). Er zijn statistische technieken die worden gebruikt bij de implementatie van bibliotheken van R. Het omvat ook modellering zoals lineair en niet-lineair.
+De software van deze taal bevat een General Public License, zodat de beschikbaarheid ervan gratis is. De code van R is meestal geschreven in talen op hoog niveau zoals [C](/nl/programming/c/) en R zelf ook. De software omvat een opdrachtregelinterface en de beschikbaarheid van interfaces van derden, zoals grafische gebruikersinterfaces van RStudio en Jupyter (notebookinterface). Er zijn statistische technieken die worden gebruikt bij de implementatie van bibliotheken van R. Het omvat ook modellering zoals lineair en niet-lineair.
 
 
 ## Korte geschiedenis ##

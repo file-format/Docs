@@ -27,11 +27,11 @@ Formatul intern al fișierelor TE este necunoscut. Textease a furnizat licențe 
 ## Tipuri de câmpuri TE
 
 * Text
-* Număr
-* [Imagine](/ro/image/)
-* Culoare
-* Data (ZZ/LL/AAAA)
-* Moneda
+* Number
+* [Image](/ro/image/)
+* Colour
+* Date (DD/MM/YYYY)
+* Currency
 
 ## Referințe ##
 

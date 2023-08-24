@@ -33,7 +33,7 @@ Eine **IPT-Dateierweiterung** von Autodesk, die zum Speichern einer Datei verwen
 ## IPT-Datei herunterladen
 Es ist etwas schwierig, die IPT-Datei eines 3D-Modells zu finden und herunterzuladen. Daher können Sie hier eine Beispiel-IPT-Datei herunterladen:
 
-- [Muster.ipt](../muster.ipt)
+- [Sample.ipt](../sample.ipt)
 
 ## Verweise
 

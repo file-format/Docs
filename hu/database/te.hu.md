@@ -26,12 +26,12 @@ A TE fájlok belső fájlformátuma ismeretlen. A Textease egyetlen és több fe
 
 ## TE mezőtípusok
 
-* Szöveg
-* Szám
-* [Kép](/hu/image/)
-* Színes
-* Dátum (NN/HH/ÉÉÉÉ)
-* Pénznem
+* Text
+* Number
+* [Image](/hu/image/)
+* Colour
+* Date (DD/MM/YYYY)
+* Currency
 
 ## Referenciák ##
 

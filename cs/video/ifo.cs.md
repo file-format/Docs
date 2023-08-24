@@ -26,7 +26,7 @@ Soubory IFO se ukládají s příponou **.ifo**.
 
 Soubory IFO se ukládají jako textové soubory a lze je otevřít pomocí libovolného textového editoru, jako je Microsoft Notepad++, Notepad a Apple TextEdit. Záhlaví v souboru IFO informuje DVD přehrávače o úvodní obrazovce, umístění každé video stopy na disku, umístění zvukových stop a dalších souvisejících informacích.
 
-Soubory IFO se mohou poškodit, pokud se DVD poškrábe. Proto se vytvoří soubor BUP jako záloha souboru IFO. V případě, že soubor IFO nelze přečíst, je místo toho načten soubor BUP. Tyto soubory jsou umístěny vedle souboru [VOB](https://docs.fileformat.com/video/vob/), který obsahuje index obsahu na disku.
+Soubory IFO se mohou poškodit, pokud se DVD poškrábe. Proto se vytvoří soubor BUP jako záloha souboru IFO. V případě, že soubor IFO nelze přečíst, je místo toho načten soubor BUP. Tyto soubory jsou umístěny vedle souboru [VOB](/video/vob/), který obsahuje index obsahu na disku.
 
 ## Reference
 

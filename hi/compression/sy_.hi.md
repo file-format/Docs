@@ -31,7 +31,7 @@ expand /i <source> [<destination>]
 expand /d <source>.cab [/f:<files>]
 expand <source>.cab /f:<files> <destination>
 ```
-विस्तारित होने पर, SY_ फ़ाइलें [SYS](https://docs.fileformat.com/system/sys/) फ़ाइल में बदल जाती हैं।
+विस्तारित होने पर, SY_ फ़ाइलें [SYS](/system/sys/) फ़ाइल में बदल जाती हैं।
 
 SY_ फ़ाइलें EX_ और DL_ फ़ाइलों के समान हैं।
 

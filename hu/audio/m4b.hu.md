@@ -28,7 +28,7 @@ A metaadatokat, képeket, könyvjelzőket és hiperhivatkozásokat tartalmazó h
 
 ## M4B vs M4A
 
-Mind az M4B, mind az [MP3](https://docs.fileformat.com/audio/mp3/) csak hangfájlformátum.
+Mind az M4B, mind az [MP3](/audio/mp3/) csak hangfájlformátum.
 
 **M4B**: Minőségi szempontból nyer az MP3-mal összehasonlítva, ha mindkettőt azonos bitsebességgel kódolja. Az M4B egy hangoskönyv-fájl, amely AAC kódolással van tömörítve. Alapvetően az „MPEG-4 Audio Layer”-hez kapcsolódik, az .m4b kiterjesztésű fájlok az MPEG-4 filmek hangrétegét jelentik, de további hangoskönyvekkel kapcsolatos funkciókkal is rendelkezik. Célja, hogy megelőzze az MP3-at, és a hangtömörítés új szabványává váljon. Sok szempontból nagyon közel áll az MP3-hoz, de jobb minőségre fejlesztették ki azonos vagy még kisebb fájlméretben. Az M4B formátumot először az Apple vezette be. A formátumtípus Apple veszteségmentes kódolóként (ALE) is megvalósul.
 

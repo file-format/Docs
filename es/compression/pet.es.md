@@ -23,7 +23,7 @@ Un archivo PET es un archivo de paquete de instalación de aplicaciones creado y
 
 ## Formato de archivo PET
 
-Los archivos PET se guardan en el disco como archivos comprimidos en formato de archivo binario. Sin embargo, no se conocen los detalles del formato de archivo interno del formato de archivo PET. Al igual que los archivos de instalación del paquete [.exe](/es/ejecutable/exe/) y [.msi](/es/ejecutable/msi/), los archivos PET inician una instalación cuando se ejecutan.
+Los archivos PET se guardan en el disco como archivos comprimidos en formato de archivo binario. Sin embargo, no se conocen los detalles del formato de archivo interno del formato de archivo PET. Al igual que los archivos de instalación del paquete [.exe](/es/executable/exe/) y [.msi](/es/executable/msi/), los archivos PET inician una instalación cuando se ejecutan.
 
 ## Referencias
 

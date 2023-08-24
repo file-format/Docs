@@ -19,7 +19,7 @@
 
 ## Was ist eine DRAWIO-Datei?
 
-Eine Datei mit der Erweiterung .drawio ist eine Zeichnungsdatei, die mit draw.io von [diagrams.net](https://www.diagrams.net/) erstellt wurde, einem Open-Source-Programm zum Arbeiten mit Diagrammen. Es enthält allgemeine Informationen zum Inhalt und zur Formatierung der Diagrammelemente wie Text, Bilder, Layout, Formen und Positionierung. Zu den von DRAWIO unterstützten Diagrammen gehören Flussdiagramme, Organigramme, Karten, technische Elemente, Prozessdiagramme, Diagramme und mehr. DRAWIO-Dateien können in verschiedene Formate wie [JPG](/de/image/jpeg/), [PNG](/de/image/png/), [BMP](/de/image/bmp/), [XML](/de/web /xml/), PDF, [HTML](/de/web/html/) und [VSDX](/de/image/vsdx/).
+Eine Datei mit der Erweiterung .drawio ist eine Zeichnungsdatei, die mit draw.io von [diagrams.net](https://www.diagrams.net/) erstellt wurde, einem Open-Source-Programm zum Arbeiten mit Diagrammen. Es enthält allgemeine Informationen zum Inhalt und zur Formatierung der Diagrammelemente wie Text, Bilder, Layout, Formen und Positionierung. Zu den von DRAWIO unterstützten Diagrammen gehören Flussdiagramme, Organigramme, Karten, technische Elemente, Prozessdiagramme, Diagramme und mehr. DRAWIO-Dateien können in verschiedene Formate wie [JPG](/de/image/jpeg/), [PNG](/de/image/png/), [BMP](/de/image/bmp/), [XML](/de/web/xml/), PDF, [HTML](/de/web/html/) und [VSDX](/de/visio/vsdx/).
 
 ## DRAWIO-Dateiformat
 

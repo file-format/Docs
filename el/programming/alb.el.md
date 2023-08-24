@@ -29,6 +29,6 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Αρχείο ADB](/el/βάση δεδομένων/adb/)
+* [Αρχείο ADB](/el/database/adb/)
 * [Το Alpha Anywhere IDE](https://documentation.alphasoftware.com/pages/GettingStarted/IDE/index.xml)
 

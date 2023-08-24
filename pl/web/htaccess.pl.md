@@ -20,7 +20,7 @@
 
 Plik HTACCESS to plik konfiguracyjny Apache, który zapewnia mechanizm umożliwiający zmiany konfiguracji dla różnych folderów / katalogów witryny. Zawiera dyrektywy konfiguracyjne, które mają zastosowanie do katalogu i podkatalogów.
 
-Plik HTACCESS wykonuje szereg kontroli, takich jak zdefiniowanie strony indeksu witryny, wyświetlanie strony błędu 404 (nie znaleziono strony), wykonywanie przekierowań stron 301 lub 302, blokowanie dostępu z określonego adresu IP lub innych witryn. Korzystanie z plików .htaccess spowalnia zatem ogólną wydajność serwera Apache [HTTP](/pl/web/http/).
+Plik HTACCESS wykonuje szereg kontroli, takich jak zdefiniowanie strony indeksu witryny, wyświetlanie strony błędu 404 (nie znaleziono strony), wykonywanie przekierowań stron 301 lub 302, blokowanie dostępu z określonego adresu IP lub innych witryn. Korzystanie z plików .htaccess spowalnia zatem ogólną wydajność serwera Apache HTTP.
 
 ## Format pliku HTACCESS
 

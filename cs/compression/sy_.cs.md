@@ -31,7 +31,7 @@ expand /i <source> [<destination>]
 expand /d <source>.cab [/f:<files>]
 expand <source>.cab /f:<files> <destination>
 ```
-Po rozbalení se soubory SY_ převedou na soubor [SYS](https://docs.fileformat.com/system/sys/).
+Po rozbalení se soubory SY_ převedou na soubor [SYS](/system/sys/).
 
 Soubory SY_ jsou podobné souborům EX_ a DL_.
 

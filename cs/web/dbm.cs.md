@@ -19,7 +19,7 @@
 
 ## Co je soubor DBM?
 
-Soubor s příponou .dbm (Database Markup Language) je soubor ColdFusion Server, který byl vyvinut společností Adobe Systems. Je to soubor na straně serveru, který se spouští na webovém serveru s ColdFusion. Je to podobné jako u souborů [ASP](/cs/web/asp/) a [PHP](/cs/web/php/) a generuje [HTML](/cs/web/html/), když uživatel požádá o stránku ve webovém prohlížeči. Soubory DBM lze otevřít v aplikacích, jako je Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate a Apple Safari.
+Soubor s příponou .dbm (Database Markup Language) je soubor ColdFusion Server, který byl vyvinut společností Adobe Systems. Je to soubor na straně serveru, který se spouští na webovém serveru s ColdFusion. Je to podobné jako u souborů [ASP](/cs/web/asp/) a [PHP](/cs/programming/php/) a generuje [HTML](/cs/web/html/), když uživatel požádá o stránku ve webovém prohlížeči. Soubory DBM lze otevřít v aplikacích, jako je Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate a Apple Safari.
 
 ## Formát souboru DBM
 

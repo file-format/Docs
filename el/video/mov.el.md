@@ -93,7 +93,7 @@ Lock Count: Ακέραιος 16-bit με τιμή 0.
 * Ogg Vorbis Audio - [OGG](/el/audio/ogg/)
 * Ήχος MP3 - [MP3](/el/audio/mp3/)
 * Δωρεάν κωδικοποιητής ήχου χωρίς απώλειες - [FLAC](/el/audio/flac/)
-* Ήχος WAVE - [WAV](/el/ήχος/wav/)
+* Ήχος WAVE - [WAV](/el/audio/wav/)
 
 ## API ανοιχτού κώδικα για αρχεία MOV
 

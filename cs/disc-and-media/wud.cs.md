@@ -22,7 +22,7 @@ Soubor s příponou .wud je obraz disku vytvořený z herního disku Wii U. Výs
 
 ## Formát souboru WUD
 
-Soubory WUD se ukládají na disk v proprietárním formátu souboru a lze je načíst do emulátoru Cemu pro emulaci aplikací Wii U na PC. Kvůli své velké velikosti jsou soubory WUD [komprimovány](/cs/komprese/), aby se zmenšila velikost souboru. Výsledný komprimovaný soubor je známý jako soubor WUX.
+Soubory WUD se ukládají na disk v proprietárním formátu souboru a lze je načíst do emulátoru Cemu pro emulaci aplikací Wii U na PC. Kvůli své velké velikosti jsou soubory WUD [komprimovány](/cs/compression/), aby se zmenšila velikost souboru. Výsledný komprimovaný soubor je známý jako soubor WUX.
 
 ## Reference
 

@@ -20,7 +20,7 @@
 
 ## Apa itu file VSS?
 
-VSS adalah file stensil yang dibuat dengan Microsoft Visio 2007 dan sebelumnya. Format file yang relatif baru adalah [VSSX](/id/image/vssx/) yang diperkenalkan dengan Microsoft Visio 2013. File stensil menyediakan objek gambar yang dapat disertakan dalam gambar .VSD Visio. Microsoft Visio sendiri dikenal untuk membuat elemen gambar seperti kumpulan bentuk, konektor, diagram alur, tata letak jaringan, diagram UML, diagram perangkat lunak, model database, pemetaan objek, dan informasi serupa lainnya. Ini juga memiliki fitur konversi yang kaya dari dokumen Visio ke format file lain seperti PNG, BMP, PDF, dan lainnya. Visio tersedia untuk Windows dan Mac OS.
+VSS adalah file stensil yang dibuat dengan Microsoft Visio 2007 dan sebelumnya. Format file yang relatif baru adalah [VSSX](/id/visio/vssx/) yang diperkenalkan dengan Microsoft Visio 2013. File stensil menyediakan objek gambar yang dapat disertakan dalam gambar .VSD Visio. Microsoft Visio sendiri dikenal untuk membuat elemen gambar seperti kumpulan bentuk, konektor, diagram alur, tata letak jaringan, diagram UML, diagram perangkat lunak, model database, pemetaan objek, dan informasi serupa lainnya. Ini juga memiliki fitur konversi yang kaya dari dokumen Visio ke format file lain seperti PNG, BMP, PDF, dan lainnya. Visio tersedia untuk Windows dan Mac OS.
 
 ## Format File VSS
 

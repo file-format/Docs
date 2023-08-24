@@ -21,7 +21,7 @@
 
 DOTX uzantılı dosyalar, daha fazla [DOCX](/tr/word-processing/docx/) dosyası oluşturmak için önceden biçimlendirilmiş ayarlara sahip olmak üzere Microsoft Word tarafından oluşturulan şablon dosyalarıdır. Bunlardan oluşturulan sonraki sineklere uygulanması gereken belirli kullanıcı ayarlarına sahip olmak için bir şablon dosyası oluşturulur. Bu ayarlar, sayfa kenar boşluklarını, kenarlıkları, üst bilgileri, alt bilgileri ve diğer sayfa ayarlarını içerir. Bu tür şablonlar, şirket antetli kağıtları ve standartlaştırılmış formlar gibi resmi belgelerde kullanılır.
 
-DOTX dosya formatı, ikili [DOT ](/tr/word-processing/dot/)dosya formatının yerini almak için Microsoft Office 2007'nin piyasaya sürülmesiyle tanıtıldı, ancak daha yüksek sürümler tarafından da destekleniyor. Microsoft Word varsayılan olarak her yeni belgeyi normal.dot dosyasına dayalı olarak açar. Değiştirilirse, oluşturulan tüm yeni dosyalar, şablon dosyasındakiyle aynı ayarlarla sonuçlanacaktır. Microsoft Word 2007'de DOT dosya formatı, Office OpenXML tabanlı DOTX dosya formatı ile değiştirilmiştir.
+DOTX dosya formatı, ikili [DOT](/tr/word-processing/dot/) dosya formatının yerini almak için Microsoft Office 2007'nin piyasaya sürülmesiyle tanıtıldı, ancak daha yüksek sürümler tarafından da destekleniyor. Microsoft Word varsayılan olarak her yeni belgeyi normal.dot dosyasına dayalı olarak açar. Değiştirilirse, oluşturulan tüm yeni dosyalar, şablon dosyasındakiyle aynı ayarlarla sonuçlanacaktır. Microsoft Word 2007'de DOT dosya formatı, Office OpenXML tabanlı DOTX dosya formatı ile değiştirilmiştir.
 
 ## Kısa Tarih ##
 

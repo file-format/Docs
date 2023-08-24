@@ -19,7 +19,7 @@
 
 ## Che cos'è un file OVA?
 
-Un file OVA (Open Virtual Appliance) è una directory OVF salvata come archivio utilizzando il formato di archiviazione .tar. È un file di pacchetto dell'appliance virtuale che contiene i file per la distribuzione del software eseguito su una macchina virtuale. Un pacchetto OVA contiene un file descrittore [.ovf](/it/disc-and-media/ovf/), file di certificato, un file [.mf](/it/programmazione/mf/) opzionale insieme ad altri file correlati. I file OVA hanno il tipo di supporto come application/ovf.
+Un file OVA (Open Virtual Appliance) è una directory OVF salvata come archivio utilizzando il formato di archiviazione .tar. È un file di pacchetto dell'appliance virtuale che contiene i file per la distribuzione del software eseguito su una macchina virtuale. Un pacchetto OVA contiene un file descrittore [.ovf](/it/disc-and-media/ovf/), file di certificato, un file [.mf](/it/programming/mf/) opzionale insieme ad altri file correlati. I file OVA hanno il tipo di supporto come application/ovf.
 
 ## Formato file OVA
 

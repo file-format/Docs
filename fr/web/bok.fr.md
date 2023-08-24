@@ -24,7 +24,7 @@ Les fichiers BOK peuvent être modifiés avec eBay ProStores et ouverts dans n'i
 
 ## Format de fichier BOK
 
-Les fichiers BOK sont enregistrés en tant que pages Web qui sont généralement dans un format de fichier compréhensible par le navigateur, tel que [HTML](/fr/web/html/) ou [PHP](/fr/web/php/). Le contenu de ces pages est chargé à partir de la base de données ProStores au moment de l'exécution lorsqu'un client visite la vitrine.
+Les fichiers BOK sont enregistrés en tant que pages Web qui sont généralement dans un format de fichier compréhensible par le navigateur, tel que [HTML](/fr/web/html/) ou [PHP](/fr/programming/php/). Le contenu de ces pages est chargé à partir de la base de données ProStores au moment de l'exécution lorsqu'un client visite la vitrine.
 
 ## Références
 

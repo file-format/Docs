@@ -19,7 +19,7 @@
 
 ## Wat is een FODT-bestand?
 
-Een bestand met de extensie .fodt is een tekstdocument dat is opgeslagen in de bestandsindeling OpenDocument flat [XML](/nl/web/xml/). In tegenstelling tot .odt-bestanden, die worden opgeslagen in het [.zip](/nl/compression/zip/) containerbestandsformaat, worden de FODT-bestanden op schijf opgeslagen als door mensen leesbare bestanden die in elke teksteditor kunnen worden geopend om als gewone XML-documenten te worden bekeken . De documentstandaard OpenDocument Office is ontwikkeld door het OASIS-industrieconsortium, waardoor een manier is vrijgemaakt voor iedereen om door iedereen zonder enige beperking te implementeren. Andere populaire OpenDocument-bestandsindelingen zijn [.odt](/nl/word-processing/odt/), [.ott](/nl/word-processing/ott/), [.ods](/nl/spreadsheet/ods/), [.odp](/nl/presentatie/odp/), en soortgelijke anderen.
+Een bestand met de extensie .fodt is een tekstdocument dat is opgeslagen in de bestandsindeling OpenDocument flat [XML](/nl/web/xml/). In tegenstelling tot .odt-bestanden, die worden opgeslagen in het [.zip](/nl/compression/zip/) containerbestandsformaat, worden de FODT-bestanden op schijf opgeslagen als door mensen leesbare bestanden die in elke teksteditor kunnen worden geopend om als gewone XML-documenten te worden bekeken . De documentstandaard OpenDocument Office is ontwikkeld door het OASIS-industrieconsortium, waardoor een manier is vrijgemaakt voor iedereen om door iedereen zonder enige beperking te implementeren. Andere populaire OpenDocument-bestandsindelingen zijn [.odt](/nl/word-processing/odt/), [.ott](/nl/word-processing/ott/), [.ods](/nl/spreadsheet/ods/), [.odp](/nl/presentation/odp/), en soortgelijke anderen.
 
 ## FODT-bestandsindeling - Meer informatie
 

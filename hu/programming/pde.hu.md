@@ -23,7 +23,7 @@ A .pde kiterjesztésű fájl a **Feldolgozó fejlesztőkörnyezethez** tartozik.
 
 2001 óta a Рrосessing előmozdította a szoftverműveltséget a vizuális művészetekben és a vizuális műveltséget a technológián belül. Diákok, művészek, tervezők, kutatók és hobbik tízezrei használják a Рrосessing-et tanulásra és ротипирующих.
 
-A feldolgozó nyelv a [Java](/hu/programing/java/) nyelvet használja, további egyszerűsítésekkel, például további osztályokkal és alias matematikai és funkcionalitású. Grafikus felhasználói felületet is biztosít az együttműködési és végrehajtási szakasz egyszerűsítésére. 2008-ban John Resig a Рrосsing to JavaSriрt alkalmazást a Саnvаs elem segítségével renderelte, lehetővé téve a рrосessing használatát a modern webböngészőkben, рu Jаv nélkül. Azóta az ingyenes szoftver, beleértve a Toront-i Seneса Соllege diákjait is, átvette a projektet.
+A feldolgozó nyelv a [Java](/hu/programming/java/) nyelvet használja, további egyszerűsítésekkel, például további osztályokkal és alias matematikai és funkcionalitású. Grafikus felhasználói felületet is biztosít az együttműködési és végrehajtási szakasz egyszerűsítésére. 2008-ban John Resig a Рrосsing to JavaSriрt alkalmazást a Саnvаs elem segítségével renderelte, lehetővé téve a рrосessing használatát a modern webböngészőkben, рu Jаv nélkül. Azóta az ingyenes szoftver, beleértve a Toront-i Seneса Соllege diákjait is, átvette a projektet.
 
 A Рrосessing.js-t arra is használják, hogy rajzok és animációk készítésével nagyon alapvetõ programozást javasoljanak minden korosztály számára. A tanulók megmutatják alkotásaikat más tanulóknak.
 

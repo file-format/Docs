@@ -16,7 +16,7 @@ lastmod: 2021-05-20
 
 ## Mi az a KT fájl? ##
 
-A Kotlin nyelven írt forráskód .kt kiterjesztéssel kerül mentésre, amely általában **Kotlin fájlkiterjesztés** néven ismert. A Kotlin egy általános célú, többplatformos programozási nyelv, amelyet a JetBrains fejlesztett ki, hogy teljes mértékben együttműködjön a [Java]-val (/hu/programing/java/). A Kotlin védjegyet a Kotlin Alapítvány védi.
+A Kotlin nyelven írt forráskód .kt kiterjesztéssel kerül mentésre, amely általában **Kotlin fájlkiterjesztés** néven ismert. A Kotlin egy általános célú, többplatformos programozási nyelv, amelyet a JetBrains fejlesztett ki, hogy teljes mértékben együttműködjön a [Java]-val (/hu/programming/java/). A Kotlin védjegyet a Kotlin Alapítvány védi.
 
 A Google 2019. május 7-én jelentette be a Kotlint az Android-alkalmazások fejlesztésének preferált programozási nyelveként. Az Android Studio 3.0 2017 októberében kezdte meg a Kotlin támogatását az Android-alkalmazások fejlesztésének alternatívájaként.
 

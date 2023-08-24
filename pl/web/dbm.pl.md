@@ -19,7 +19,7 @@
 
 ## Czym jest plik DBM?
 
-Plik z rozszerzeniem .dbm (Database Markup Language) to plik serwera ColdFusion opracowany przez firmę Adobe Systems. Jest to plik po stronie serwera, który jest wykonywany na serwerze WWW z ColdFusion. Jest podobny do plików [ASP](/pl/web/asp/) i [PHP](/pl/web/php/) i generuje [HTML](/pl/web/html/), gdy użytkownik żąda strony w przeglądarce internetowej. Pliki DBM można otwierać w aplikacjach takich jak Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate i Apple Safari.
+Plik z rozszerzeniem .dbm (Database Markup Language) to plik serwera ColdFusion opracowany przez firmę Adobe Systems. Jest to plik po stronie serwera, który jest wykonywany na serwerze WWW z ColdFusion. Jest podobny do plików [ASP](/pl/web/asp/) i [PHP](/pl/programming/php/) i generuje [HTML](/pl/web/html/), gdy użytkownik żąda strony w przeglądarce internetowej. Pliki DBM można otwierać w aplikacjach takich jak Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate i Apple Safari.
 
 ## Format pliku DBM
 

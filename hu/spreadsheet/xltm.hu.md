@@ -27,7 +27,7 @@ Az XLTM fájlkiterjesztés azokat a fájlokat jelöli, amelyeket a Microsoft Exc
 
 ## XLTM fájlformátum specifikációi ##
 
-Az XLTM fájlok az Office OpenXML fájlformátumon alapulnak, és XML-t és [ZIP]-et (/hu/Compression/ZIP/) használnak a fájlméret csökkentésére. Ezeket a fájlra dupla kattintással Microsoft Excel programmal lehet megnyitni. A fájlok XLTM fájlformátumban történő szervezését úgy figyelheti meg, hogy a fájlt átnevezi ZIP-re, majd kicsomagolja a tartalmát a lemezre.
+Az XLTM fájlok az Office OpenXML fájlformátumon alapulnak, és XML-t és [ZIP]-et (/hu/compression/zip/) használnak a fájlméret csökkentésére. Ezeket a fájlra dupla kattintással Microsoft Excel programmal lehet megnyitni. A fájlok XLTM fájlformátumban történő szervezését úgy figyelheti meg, hogy a fájlt átnevezi ZIP-re, majd kicsomagolja a tartalmát a lemezre.
 
 ### [Content_Types].xml ###
 

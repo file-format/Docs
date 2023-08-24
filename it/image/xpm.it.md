@@ -19,7 +19,7 @@
 
 ## Che cos'è un file XPM?
 
-Un file con estensione .xpm è un formato di file immagine utilizzato dal sistema X Windows. Supporta pixel trasparenti e di solito mira a creare pixmap di icone. Supporta dati pixmap monocromatici, in scala graduata ea colori. Questi sono stati progettati per essere modificabili a mano e possono essere inclusi nel codice [C](/it/programmazione/c/). A tale scopo, i file XPM sono in formato di file di testo normale e seguono la sintassi del linguaggio di programmazione C. I file XPM possono essere aperti con una varietà di applicazioni di visualizzazione di immagini come
+Un file con estensione .xpm è un formato di file immagine utilizzato dal sistema X Windows. Supporta pixel trasparenti e di solito mira a creare pixmap di icone. Supporta dati pixmap monocromatici, in scala graduata ea colori. Questi sono stati progettati per essere modificabili a mano e possono essere inclusi nel codice [C](/it/programming/c/). A tale scopo, i file XPM sono in formato di file di testo normale e seguono la sintassi del linguaggio di programmazione C. I file XPM possono essere aperti con una varietà di applicazioni di visualizzazione di immagini come
 CorelDRAW Graphics Suite 2020, Corel PaintShop Pro, IrfanView e Canvas X.
 
 ## Formato file XPM

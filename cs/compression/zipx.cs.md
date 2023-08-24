@@ -18,7 +18,7 @@
 
 ## Co je soubor ZIPX?
 
-Soubor ZIPX je rozšířenou verzí standardního souboru ZIP, který byl komprimován pomocí pokročilé verze komprese. Tato pokročilá metoda komprese je vyvinuta společností CorelWinZip, která komprimuje všechny soubory pomocí rozšířeného formátu ZIPX. Soubory ZIPX jsou menší než [formát souboru ZIP](/cs/komprese/zip/) a zefektivňují přenos dat přes internet. Soubory ZIPX vyžadují, aby byl v systému nainstalován WinZip, aby je bylo možné otevřít.
+Soubor ZIPX je rozšířenou verzí standardního souboru ZIP, který byl komprimován pomocí pokročilé verze komprese. Tato pokročilá metoda komprese je vyvinuta společností CorelWinZip, která komprimuje všechny soubory pomocí rozšířeného formátu ZIPX. Soubory ZIPX jsou menší než [formát souboru ZIP](/cs/compression/zip/) a zefektivňují přenos dat přes internet. Soubory ZIPX vyžadují, aby byl v systému nainstalován WinZip, aby je bylo možné otevřít.
 
 ## Formát souboru ZIPX
 

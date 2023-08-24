@@ -20,7 +20,7 @@
 
 ## Czym jest plik VSS?
 
-VSS to pliki szablonów utworzone za pomocą programu Microsoft Visio 2007 i wcześniejszych. Stosunkowo nowym formatem pliku jest [VSSX](/pl/image/vssx/), który został wprowadzony w programie Microsoft Visio 2013. Pliki szablonów zawierają obiekty rysunkowe, które można uwzględnić w rysunku .VSD programu Visio. Sam Microsoft Visio znany jest z tworzenia elementów rysunkowych, takich jak kolekcja kształtów, łączników, schematów blokowych, układu sieci, diagramów UML, diagramów oprogramowania, modeli baz danych, mapowania obiektów i innych podobnych informacji. Posiada również bogate funkcje konwersji dokumentów Visio do innych formatów plików, takich jak PNG, BMP, PDF i inne. Visio jest dostępny zarówno dla systemów Windows, jak i Mac OS.
+VSS to pliki szablonów utworzone za pomocą programu Microsoft Visio 2007 i wcześniejszych. Stosunkowo nowym formatem pliku jest [VSSX](/pl/visio/vssx/), który został wprowadzony w programie Microsoft Visio 2013. Pliki szablonów zawierają obiekty rysunkowe, które można uwzględnić w rysunku .VSD programu Visio. Sam Microsoft Visio znany jest z tworzenia elementów rysunkowych, takich jak kolekcja kształtów, łączników, schematów blokowych, układu sieci, diagramów UML, diagramów oprogramowania, modeli baz danych, mapowania obiektów i innych podobnych informacji. Posiada również bogate funkcje konwersji dokumentów Visio do innych formatów plików, takich jak PNG, BMP, PDF i inne. Visio jest dostępny zarówno dla systemów Windows, jak i Mac OS.
 
 ## Format pliku VSS
 

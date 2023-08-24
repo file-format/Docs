@@ -19,7 +19,7 @@
 
 ## Wat is een DBM-bestand?
 
-Een bestand met de extensie .dbm (Database Markup Language) is een ColdFusion Server-bestand dat is ontwikkeld door Adobe Systems. Het is een server-side bestand dat wordt uitgevoerd op een webserver met ColdFusion. Het is vergelijkbaar met de [ASP](/nl/web/asp/) en [PHP](/nl/web/php/) bestanden en genereert [HTML](/nl/web/html/) wanneer een gebruiker de pagina opvraagt in de webbrowser. DBM-bestanden kunnen worden geopend in toepassingen zoals Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate en Apple Safari.
+Een bestand met de extensie .dbm (Database Markup Language) is een ColdFusion Server-bestand dat is ontwikkeld door Adobe Systems. Het is een server-side bestand dat wordt uitgevoerd op een webserver met ColdFusion. Het is vergelijkbaar met de [ASP](/nl/web/asp/) en [PHP](/nl/programming/php/) bestanden en genereert [HTML](/nl/web/html/) wanneer een gebruiker de pagina opvraagt in de webbrowser. DBM-bestanden kunnen worden geopend in toepassingen zoals Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate en Apple Safari.
 
 ## DBM-bestandsindeling
 

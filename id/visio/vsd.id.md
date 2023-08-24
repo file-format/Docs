@@ -24,7 +24,7 @@ File VSD adalah gambar yang dibuat dengan aplikasi Microsoft Visio untuk mewakil
 
 # Format File VSD #
 
-Format file VSD adalah format file awal yang diperkenalkan oleh Microsoft Visio untuk menyimpan elemen gambar. Struktur internal file VSD didasarkan pada format file biner tidak seperti [.VSDX](/id/image/vsdx/) yang diperkenalkan dengan Microsoft Visio 2013. Format baru ini didasarkan pada format file Office Open XML dan menyimpan informasi proyek dalam [ZIP](/id/compression/zip/) arsip. Microsoft menawarkan aplikasi vviewer.exe ke file gambar Visio jika Visio tidak diinstal pada sistem.
+Format file VSD adalah format file awal yang diperkenalkan oleh Microsoft Visio untuk menyimpan elemen gambar. Struktur internal file VSD didasarkan pada format file biner tidak seperti [.VSDX](/id/visio/vsdx/) yang diperkenalkan dengan Microsoft Visio 2013. Format baru ini didasarkan pada format file Office Open XML dan menyimpan informasi proyek dalam [ZIP](/id/compression/zip/) arsip. Microsoft menawarkan aplikasi vviewer.exe ke file gambar Visio jika Visio tidak diinstal pada sistem.
 
 ## Sejarah Singkat ##
 

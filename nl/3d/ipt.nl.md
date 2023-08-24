@@ -33,7 +33,7 @@ Een Autodesk **IPT-bestandsextensie** die wordt gebruikt om een bestand op te sl
 ## IPT-bestand downloaden
 Het is een beetje moeilijk om het IPT-bestand van een 3D-model te vinden en te downloaden. Daarom kunt u hier een voorbeeld van een IPT-bestand downloaden:
 
-- [Voorbeeld.ipt](../voorbeeld.ipt)
+- [Sample.ipt](../sample.ipt)
 
 ## Referenties
 

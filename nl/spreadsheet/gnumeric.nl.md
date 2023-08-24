@@ -23,7 +23,7 @@ Een bestand met de GNUMERIC-bestandsextensie is een spreadsheetbestand dat is ge
 
 ## GNUMERIC-bestandsindeling
 
-GNUMERIC-bestanden worden opgeslagen in XML-bestandsindeling, gecomprimeerd met GZIP-compressie. Deze ondersteunen geen macro's en draaitabellen, maar zijn rijk aan andere functies zoals conversie naar [CSV](/nl/spreadsheet/csv/), [XLSX](/nl/spreadsheet/xlsx/), Microsoft Works (.wks), [ HTML](/nl/web/html/), [LaTex](/nl/tekstverwerking/latex/), en [Lotus 1-2-3](/nl/spreadsheet/123/).
+GNUMERIC-bestanden worden opgeslagen in XML-bestandsindeling, gecomprimeerd met GZIP-compressie. Deze ondersteunen geen macro's en draaitabellen, maar zijn rijk aan andere functies zoals conversie naar [CSV](/nl/spreadsheet/csv/), [XLSX](/nl/spreadsheet/xlsx/), Microsoft Works (.wks), [ HTML](/nl/web/html/), [LaTex](/nl/word-processing/latex/), en [Lotus 1-2-3](/nl/spreadsheet/123/).
 
 ## Gnumeric op Github
 

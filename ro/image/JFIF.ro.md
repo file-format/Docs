@@ -73,7 +73,7 @@ Aceasta este o secțiune opțională care, dacă este definită, trebuie să urm
 
 ## Conversia JFIF în alte formate de fișiere imagine
 
-JFIF poate fi convertit în formate populare de fișiere imagine, cum ar fi [PNG](/ro/image/png/), [JPG](/ro/image/jpg/) și [PDF](/ro/pdf/).
+JFIF poate fi convertit în formate populare de fișiere imagine, cum ar fi [PNG](/ro/image/png/), [JPG](/ro/image/jpeg/) și [PDF](/ro/pdf/).
 
 ## Referințe ##
 

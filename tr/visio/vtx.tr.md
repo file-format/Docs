@@ -20,7 +20,7 @@
 
 ## VTX dosyası nedir?
 
-.vtx uzantılı bir dosya, XML dosya biçiminde diske kaydedilen bir Microsoft Visio çizim şablonudur. Şablonun amacı, aynı ayarlara sahip birden çok Visio dosyası oluşturmak için kullanılabilecek temel ayarlara sahip bir dosya sağlamaktır. Başka bir benzer format, XML yerine ikili formatta kaydedilen [VST](/tr/image/vst/) formatıdır. VTX dosyaları, Visio 2010 ve daha yeni sürümlerle desteklenir. Visio dosyaları, görsel nesneler, akış şemaları, UML diyagramı, bilgi akışı, organizasyon şemaları, yazılım diyagramları, ağ düzeni, veritabanı modelleri, nesne eşleme ve benzeri bilgileri içeren çizimler oluşturmak için kullanılır. Visio kullanılarak oluşturulan dosyalar, [PNG](/tr/image/png/), [BMP](/tr/image/bmp/), PDF ve diğerleri gibi farklı dosya biçimlerine de aktarılabilir.
+.vtx uzantılı bir dosya, XML dosya biçiminde diske kaydedilen bir Microsoft Visio çizim şablonudur. Şablonun amacı, aynı ayarlara sahip birden çok Visio dosyası oluşturmak için kullanılabilecek temel ayarlara sahip bir dosya sağlamaktır. Başka bir benzer format, XML yerine ikili formatta kaydedilen [VST](/tr/visio/vst/) formatıdır. VTX dosyaları, Visio 2010 ve daha yeni sürümlerle desteklenir. Visio dosyaları, görsel nesneler, akış şemaları, UML diyagramı, bilgi akışı, organizasyon şemaları, yazılım diyagramları, ağ düzeni, veritabanı modelleri, nesne eşleme ve benzeri bilgileri içeren çizimler oluşturmak için kullanılır. Visio kullanılarak oluşturulan dosyalar, [PNG](/tr/image/png/), [BMP](/tr/image/bmp/), PDF ve diğerleri gibi farklı dosya biçimlerine de aktarılabilir.
 
 Visio 2013 dosya biçimini oluşturan diğer bazı dosya türleri şunları içerir:
 

@@ -20,7 +20,7 @@
 
 ## Was ist eine VSSM-Datei?
 
-Dateien mit der Erweiterung .vssm sind Microsoft Visio-Schablonendateien, die Unterstützung für Makros bieten. Wenn eine VSSM-Datei geöffnet wird, können die Makros ausgeführt werden, um die gewünschte Formatierung und Platzierung von Formen in einem Diagramm zu erreichen. Im Allgemeinen ist Microsoft Visio eine Zeichensoftware, mit der Dateien erstellt werden können, die benutzerdefinierte Informationen in verschiedenen Formen enthalten und darstellen können. Zu den gebräuchlichsten gehören UML-Diagramme, Flussdiagramme, visuelle Objekte, Informationsfluss, Organigramme, Softwarediagramme, Netzwerklayouts, Datenbankmodelle, Objektzuordnungen und andere ähnliche Informationen, sind aber nicht darauf beschränkt. Mit Visio erstellte Dateien können auch in verschiedene Dateiformate wie [PNG](/de/Image/PNG/), [BMP](/de/Image/BMP/), [PDF](/de/pdf/) und andere konvertiert werden.
+Dateien mit der Erweiterung .vssm sind Microsoft Visio-Schablonendateien, die Unterstützung für Makros bieten. Wenn eine VSSM-Datei geöffnet wird, können die Makros ausgeführt werden, um die gewünschte Formatierung und Platzierung von Formen in einem Diagramm zu erreichen. Im Allgemeinen ist Microsoft Visio eine Zeichensoftware, mit der Dateien erstellt werden können, die benutzerdefinierte Informationen in verschiedenen Formen enthalten und darstellen können. Zu den gebräuchlichsten gehören UML-Diagramme, Flussdiagramme, visuelle Objekte, Informationsfluss, Organigramme, Softwarediagramme, Netzwerklayouts, Datenbankmodelle, Objektzuordnungen und andere ähnliche Informationen, sind aber nicht darauf beschränkt. Mit Visio erstellte Dateien können auch in verschiedene Dateiformate wie [PNG](/de/image/png/), [BMP](/de/image/bmp/), [PDF](/de/pdf/) und andere konvertiert werden.
 
 ## VSSM-Dateiformat
 
@@ -32,7 +32,7 @@ Das VSSM-Dateiformat wurde mit Microsoft Visio 2013 eingeführt, das auf den Ope
 * .vstx (Visio-Vorlage)
 * .vstm (Visio-Makro-aktivierte Vorlage)
 
-Unter der Haube verwendet das Visio 2013-Dateiformat ein strukturiertes Mittel, um Anwendungsdaten zusammen mit zugehörigen Ressourcen in einem Archiv wie [ZIP](/de/Compression/ZIP/) zu speichern. Die ZIP-Datei kann mit jedem Standard-Extraktionsprogramm extrahiert werden, wenn sie auch andere Dateitypen enthält.
+Unter der Haube verwendet das Visio 2013-Dateiformat ein strukturiertes Mittel, um Anwendungsdaten zusammen mit zugehörigen Ressourcen in einem Archiv wie [ZIP](/de/compression/zip/) zu speichern. Die ZIP-Datei kann mit jedem Standard-Extraktionsprogramm extrahiert werden, wenn sie auch andere Dateitypen enthält.
 
 Jede Visio-Datei wird als Paket bezeichnet, das andere Dateien oder Teile enthält. Ein Paketteil kann eine XML-Datei, ein Bild oder sogar eine VBA-Lösung sein. Die Teile innerhalb des Pakets können in „Dokument“- und „Beziehungs“-Teile unterteilt werden.
 

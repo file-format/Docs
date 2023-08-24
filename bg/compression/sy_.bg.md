@@ -31,7 +31,7 @@ expand /i <source> [<destination>]
 expand /d <source>.cab [/f:<files>]
 expand <source>.cab /f:<files> <destination>
 ```
-Когато се разгънат, SY_ файловете се преобразуват в [SYS](https://docs.fileformat.com/system/sys/) файл.
+Когато се разгънат, SY_ файловете се преобразуват в [SYS](/system/sys/) файл.
 
 SY_ файловете са подобни на EX_ и DL_ файловете.
 

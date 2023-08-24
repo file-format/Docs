@@ -19,7 +19,7 @@
 
 ## PPT dosyası nedir?
 
-PPT uzantılı bir dosya, SlideShow olarak görüntülemek için bir slayt koleksiyonundan oluşan PowerPoint dosyasını temsil eder. Microsoft PowerPoint 97-2003 tarafından kullanılan İkili Dosya Biçimini belirtir. Bir PPT dosyası, metin, madde işaretleri, resimler, multimedya ve diğer katıştırılmış OLE nesneleri gibi birkaç farklı türde bilgi içerebilir. Microsoft, 2007'den itibaren PowerPoint için [PPTX](/tr/sunum/pptx/) olarak bilinen, Office OpenXML tabanlı ve bu ikili dosya biçiminden farklı olan daha yeni bir dosya biçimi geliştirdi. OpenOffice Impress ve Apple Keynote gibi diğer bazı uygulama programları da PPT dosyaları oluşturabilir.
+PPT uzantılı bir dosya, SlideShow olarak görüntülemek için bir slayt koleksiyonundan oluşan PowerPoint dosyasını temsil eder. Microsoft PowerPoint 97-2003 tarafından kullanılan İkili Dosya Biçimini belirtir. Bir PPT dosyası, metin, madde işaretleri, resimler, multimedya ve diğer katıştırılmış OLE nesneleri gibi birkaç farklı türde bilgi içerebilir. Microsoft, 2007'den itibaren PowerPoint için [PPTX](/tr/presentation/pptx/) olarak bilinen, Office OpenXML tabanlı ve bu ikili dosya biçiminden farklı olan daha yeni bir dosya biçimi geliştirdi. OpenOffice Impress ve Apple Keynote gibi diğer bazı uygulama programları da PPT dosyaları oluşturabilir.
 
 ## Kısa Tarih ##
 

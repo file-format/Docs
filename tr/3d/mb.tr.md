@@ -31,7 +31,7 @@ MB dosyaları, sıkıştırılmış bir dosya biçimi olan ikili dosya biçimind
 
 Bir 3d modelin MB dosyasını bulup indirmek biraz zor. Bu nedenle, örnek bir MB dosyasını buradan indirebilirsiniz:
 
-- [Örnek.mb](../örnek.mb)
+- [Sample.mb](../sample.mb)
 
 ## Referanslar
 

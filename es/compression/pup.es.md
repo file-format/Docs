@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo PUP de Linux?
 
-Un archivo PUP de Linux es un paquete de instalación utilizado por el sistema operativo Puppy Linux. Se ejecuta como un instalador y comienza a instalar los archivos del paquete. En Linux, a menudo se lo conoce como archivo DotPup y es similar a los archivos de instalación [.exe](/es/ejecutable/exe/) y [.msi](/es/ejecutable/msi/) utilizados en el sistema operativo Windows. Las versiones más nuevas de Puppy Linux usan el formato de archivo .pet en lugar del formato de archivo PUP.
+Un archivo PUP de Linux es un paquete de instalación utilizado por el sistema operativo Puppy Linux. Se ejecuta como un instalador y comienza a instalar los archivos del paquete. En Linux, a menudo se lo conoce como archivo DotPup y es similar a los archivos de instalación [.exe](/es/executable/exe/) y [.msi](/es/executable/msi/) utilizados en el sistema operativo Windows. Las versiones más nuevas de Puppy Linux usan el formato de archivo .pet en lugar del formato de archivo PUP.
 
 ## Referencias
 

@@ -29,8 +29,8 @@ PPSX-bestanden worden opgeslagen in de Open XML-indeling, die werd geïntroducee
 
 ## Zie ook ##
 
-* [PPT](/nl/presentatie/ppt/)
-* [PPTX](/nl/presentatie/pptx/)
+* [PPT](/nl/presentation/ppt/)
+* [PPTX](/nl/presentation/pptx/)
 
 ## Referenties ##
 

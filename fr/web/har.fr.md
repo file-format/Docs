@@ -19,7 +19,7 @@
 
 ## Qu'est-ce qu'un fichier HAR ?
 
-Un fichier avec .har (fichier [HTTP](/fr/web/http/) Archive) est un fichier d'archive HTTP qui stocke les données de session transférées sur de nombreux navigateurs (tels que Chrome, Safari, IE, Firefox, etc.) en [JSON](/fr/web/json/). Les données transférées sur Internet entre le serveur et le client (dans ce cas, le navigateur de l'utilisateur) contiennent des en-têtes de requête et de réponse HTTP qui sont stockés dans le fichier HAR. Il contient en outre des informations détaillées sur les données de performance des pages Web chargées dans le navigateur. Les fichiers HAR peuvent être ouverts dans n'importe quel éditeur de texte tel que le Bloc-notes sur Microsoft Windows OS et TextEdit sur Apple MacOS.
+Un fichier avec .har (fichier HTTP Archive) est un fichier d'archive HTTP qui stocke les données de session transférées sur de nombreux navigateurs (tels que Chrome, Safari, IE, Firefox, etc.) en [JSON](/fr/web/json/). Les données transférées sur Internet entre le serveur et le client (dans ce cas, le navigateur de l'utilisateur) contiennent des en-têtes de requête et de réponse HTTP qui sont stockés dans le fichier HAR. Il contient en outre des informations détaillées sur les données de performance des pages Web chargées dans le navigateur. Les fichiers HAR peuvent être ouverts dans n'importe quel éditeur de texte tel que le Bloc-notes sur Microsoft Windows OS et TextEdit sur Apple MacOS.
 
 ## Format de fichier HAR - Plus d'informations
 

@@ -33,7 +33,7 @@ Soubory s příponou .rar jsou archivní soubory, které jsou vytvořeny pro ukl
 
 RAR je v oboru již poměrně dlouho a patří mezi oblíbené formáty archivačních souborů. Klíčové vlastnosti formátu RAR jsou:
 
-**`Vysoký kompresní poměr:`** Vynikající ve srovnání s [ZIP](/cs/komprese/zip/), srovnatelné s formátem 7z a zipx.
+**`Vysoký kompresní poměr:`** Vynikající ve srovnání s [ZIP](/cs/compression/zip/), srovnatelné s formátem 7z a zipx.
 
 **`Silné šifrování souborů podle návrhu:`** Šifrované archivy RAR4 se spoléhají na šifrování založené na AES-128, zatímco šifrované archivy RAR5 se spoléhají na šifrování AES-256 s vylepšeným plánováním klíčů
 

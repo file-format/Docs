@@ -20,7 +20,7 @@
 
 Už jste někdy narazili a přemýšleli o tom, co je soubor MPP? MPP a další podobné soubory jsou formáty souborů projektu, které jsou vytvořeny softwarem Project Management. Soubor projektu je soubor úkolů, zdrojů a plánování pro získání měřitelného výstupu ve formě produktu nebo služby. Ganttovy diagramy se používají k vytvoření vizuálního toku činností v závislosti na čase pro identifikované úkoly, které lze také exportovat do formátu PDF nebo obrázků pro dokumentaci.
 
-Mezi běžné přípony souborů správy projektů a jejich přidružené formáty souborů patří **[MPP](/cs/project-management/mpp/)**, **[MPX](/cs/project-management/mpx/)** a **[XER](/cs/projekt-management/xer/)**.
+Mezi běžné přípony souborů správy projektů a jejich přidružené formáty souborů patří **[MPP](/cs/project-management/mpp/)**, **[MPX](/cs/project-management/mpx/)** a **[XER](/cs/project-management/xer/)**.
 
 Máte dotazy týkající se formátů souborů správy projektů? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/project-management/15), abyste mohli těžit ze znalostí sdílených odborníky na formát souborů.
 

@@ -19,7 +19,7 @@
 
 ## Apa itu file PMLZ?
 
-Palm Inc memperkenalkan jenis file eBuku; dikenal sebagai format file PMLZ yang merupakan versi terkompresi dari format file [PML](/id/ebook/pml/) itulah sebabnya file dengan ekstensi .pmlz dikenal sebagai **File Bahasa Markup Palm Berzip**. File PMLZ hanyalah wadah zip dari file yang mengkompilasi file [PDB](/id/ebook/pdb/) untuk membuat dokumen untuk **eReader** (Dikenal sebagai perangkat pembaca ebook seperti komputer tablet). File PML memberikan tata letak ke file PDB (berisi berbagai file data) untuk ditampilkan di Perangkat Palm. Padahal, file PDB adalah file database, yang digunakan oleh berbagai aplikasi, termasuk Quicken, Pegasus, Microsoft Visual Studio, dan Palm Pilot. Singkatnya, PMLZ adalah wadah terkompresi dari file PML dan PDB.
+Palm Inc memperkenalkan jenis file eBuku; dikenal sebagai format file PMLZ yang merupakan versi terkompresi dari format file [PML](/id/ebook/pml/) itulah sebabnya file dengan ekstensi .pmlz dikenal sebagai **File Bahasa Markup Palm Berzip**. File PMLZ hanyalah wadah zip dari file yang mengkompilasi file [PDB](/id/programming/pdb/) untuk membuat dokumen untuk **eReader** (Dikenal sebagai perangkat pembaca ebook seperti komputer tablet). File PML memberikan tata letak ke file PDB (berisi berbagai file data) untuk ditampilkan di Perangkat Palm. Padahal, file PDB adalah file database, yang digunakan oleh berbagai aplikasi, termasuk Quicken, Pegasus, Microsoft Visual Studio, dan Palm Pilot. Singkatnya, PMLZ adalah wadah terkompresi dari file PML dan PDB.
 
 
 ## Pengetahuan tentang Palm Markup Language

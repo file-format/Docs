@@ -23,7 +23,7 @@ POTM uzantılı dosyalar, Makroları destekleyen Microsoft PowerPoint şablon do
 
 ## Dosya Biçimi Özellikleri ##
 
-POTM dosya biçimi, Office OpenXML belirtimlerine dayalıdır ve sıkıştırılmış bir [ZIP](/tr/compression/zip/) arşivi olan [PPTX](/tr/sunum/pptx/) dosyasının yapısına benzer.
+POTM dosya biçimi, Office OpenXML belirtimlerine dayalıdır ve sıkıştırılmış bir [ZIP](/tr/compression/zip/) arşivi olan [PPTX](/tr/presentation/pptx/) dosyasının yapısına benzer.
 
 Bir POTM dosyasının içindeki slaytlar, sayfa içinde serbestçe düzenlenebilen metin, resimler, videolar, grafikler ve diğer nesneleri içerebilir. POTM şablonları daha sonra, dosyanın tüm biçimlendirme seçeneklerini devralan birden çok dosya oluşturmak için kullanılır. Bu nedenle, POTM dosyasında bulunan makrolar diğer sunumlar tarafından da devralınır. Bunları belgenin yapısına gömmek, MS Office'te bulunan ve komut dizilerini kaydedebilen ve bunları otomatik olarak çoğaltmak için makrolar oluşturabilen Makro Kaydedici aracılığıyla yapılır.
 

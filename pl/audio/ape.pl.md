@@ -21,7 +21,7 @@
 
 Plik APE to plik audio skompresowany za pomocą **Monkey's Audio**; algorytm bezstratnej kompresji danych audio. W przeciwieństwie do metod kompresji stratnej, takich jak AAC, MP3, Vorbis i Opus, ten typowy algorytm nie usuwa żadnych danych podczas procesu kodowania. Pliki zakodowane w Monkey's Audio są zwykle zmniejszane do około połowy ich pierwotnego rozmiaru. Pliki te zawierają wykrywanie błędów i obsługę tagów, które zapisują dane o plikach audio.
 
-Format pliku APE jest szerzej stosowany wśród użytkowników systemu Microsoft Windows. Używa wysoce natarczywego współczynnika kompresji, a drugą wspaniałą rzeczą jest to, że pliki audio Monkey's zawsze można rozpakować do dokładnych, oryginalnych plików. Koder audio Monkey's jest dostępny bezpłatnie i można go łatwo włączyć do innych programów. Jeśli Monkey's Audio porówna się z [ALAC](https://docs.fileformat.com/audio/alac/), [FLAC](https://docs.fileformat.com/audio/flac/) lub WavPack, to kodowanie lub dekodowanie plików jest stosunkowo wolne.
+Format pliku APE jest szerzej stosowany wśród użytkowników systemu Microsoft Windows. Używa wysoce natarczywego współczynnika kompresji, a drugą wspaniałą rzeczą jest to, że pliki audio Monkey's zawsze można rozpakować do dokładnych, oryginalnych plików. Koder audio Monkey's jest dostępny bezpłatnie i można go łatwo włączyć do innych programów. Jeśli Monkey's Audio porówna się z [ALAC](/audio/alac/), [FLAC](/audio/flac/) lub WavPack, to kodowanie lub dekodowanie plików jest stosunkowo wolne.
 
 ## Bibliografia
 

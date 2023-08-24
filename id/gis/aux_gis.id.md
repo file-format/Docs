@@ -18,7 +18,7 @@
 
 ## Apa itu file AUX?
 
-File dengan ekstensi .aux adalah file Auxiliary yang berisi data geospasial untuk file data raster yang disertakan dalam file [.JPG](/id/image/jpg/) atau GeoTIFF [.TIFF](/id/image/tiff/). Karena file raster tidak dapat menyimpan informasi tersebut, file AUX digunakan untuk menyimpan informasi tambahan dalam bentuk data terkait. Ini biasanya disimpan di direktori yang sama dengan nama file yang sama dengan nama file raster yang sesuai. File AUX umumnya digunakan oleh aplikasi geospasial seperti ESRI ArcGIS Desktop dan ERDAS IMAGINE.
+File dengan ekstensi .aux adalah file Auxiliary yang berisi data geospasial untuk file data raster yang disertakan dalam file [.JPG](/id/image/jpeg/) atau GeoTIFF [.TIFF](/id/image/tiff/). Karena file raster tidak dapat menyimpan informasi tersebut, file AUX digunakan untuk menyimpan informasi tambahan dalam bentuk data terkait. Ini biasanya disimpan di direktori yang sama dengan nama file yang sama dengan nama file raster yang sesuai. File AUX umumnya digunakan oleh aplikasi geospasial seperti ESRI ArcGIS Desktop dan ERDAS IMAGINE.
 
 ## Format File AUX - Informasi Lebih Lanjut
 

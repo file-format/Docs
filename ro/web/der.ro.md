@@ -19,7 +19,7 @@
 
 ## Ce este un fișier DER?
 
-Un fișier DER este un fișier certificat digital care este creat și stocat în format binar. Este o codificare binară pentru certificatele X.509 și cheile private. Spre deosebire de fișierele PEM ([CRT](https://docs.fileformat.com/web/crt/), [CER](https://docs.fileformat.com/web/cer/)), fișierele DER nu nu conțin declarații în text simplu care pot fi citite de oameni, cum ar fi -----BEGIN CERTIFICATE-----. Ele sunt utilizate mai ales în contextul Java.
+Un fișier DER este un fișier certificat digital care este creat și stocat în format binar. Este o codificare binară pentru certificatele X.509 și cheile private. Spre deosebire de fișierele PEM ([CRT](/web/crt/), [CER](/web/cer/)), fișierele DER nu nu conțin declarații în text simplu care pot fi citite de oameni, cum ar fi -----BEGIN CERTIFICATE-----. Ele sunt utilizate mai ales în contextul Java.
 
 ## Format de fișier DER - Mai multe informații
 

@@ -32,7 +32,7 @@ Un file .hh è un file di testo normale che viene creato tenendo presenti le reg
 
 ## Differenza tra file .H e .HH
 
-Apparentemente, non esiste tale differenza tra i file di intestazione .h e .hh oltre al modo consigliato di utilizzarli per i rispettivi linguaggi, ad esempio [C](/it/programmazione/c/) o C++. Denominare i file di intestazione in base a questi linguaggi consente di distinguerli in un progetto di grandi dimensioni che può essere un mix di implementazioni C e C++.
+Apparentemente, non esiste tale differenza tra i file di intestazione .h e .hh oltre al modo consigliato di utilizzarli per i rispettivi linguaggi, ad esempio [C](/it/programming/c/) o C++. Denominare i file di intestazione in base a questi linguaggi consente di distinguerli in un progetto di grandi dimensioni che può essere un mix di implementazioni C e C++.
 
 Inoltre, se le intestazioni sono separate per estensione, il tuo editor può applicare automaticamente la formattazione appropriata rispettivamente per.
 

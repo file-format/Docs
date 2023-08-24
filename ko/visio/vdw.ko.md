@@ -19,7 +19,7 @@
 }
 ## .VDW 파일이란?
 
-VDW는 웹 드로잉을 렌더링하는 데 필요한 스트림과 저장소를 지정하는 Visio Graphics Service 파일 형식입니다. 웹 드로잉은 벡터 또는 래스터 드로잉으로 렌더링할 수 있는 드로잉 페이지, 모양, 글꼴, 이미지, 데이터 연결 및 다이어그램 업데이트 정보의 모음입니다. VDW 파일은 Microsoft Visio에서도 열 수 있지만 주로 웹에서 사용하기 위해 저장됩니다. Microsoft Visio는 Visio 파일을 [PNG](/ko/Image/PNG/), [BMP](/ko/Image/BMP/), [PDF](/ko/pdf/) 등을 포함한 다양한 파일 형식으로 변환하는 기능을 제공합니다.
+VDW는 웹 드로잉을 렌더링하는 데 필요한 스트림과 저장소를 지정하는 Visio Graphics Service 파일 형식입니다. 웹 드로잉은 벡터 또는 래스터 드로잉으로 렌더링할 수 있는 드로잉 페이지, 모양, 글꼴, 이미지, 데이터 연결 및 다이어그램 업데이트 정보의 모음입니다. VDW 파일은 Microsoft Visio에서도 열 수 있지만 주로 웹에서 사용하기 위해 저장됩니다. Microsoft Visio는 Visio 파일을 [PNG](/ko/image/png/), [BMP](/ko/image/bmp/), [PDF](/ko/pdf/) 등을 포함한 다양한 파일 형식으로 변환하는 기능을 제공합니다.
 
 ## **VDW** 파일 형식
 

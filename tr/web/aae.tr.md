@@ -19,7 +19,7 @@
 
 ## AAE dosyası nedir?
 
-AAE, iOS 8 ve daha yeni, macOS 10.10 veya sonraki sistemlerde bulunan bir dosya türüdür. Fotoğraflar uygulamasında [.jpg](/tr/image/jpg/) fotoğraflarda yapılan tüm düzenlemelerle ilgili bilgileri depolar. AAE dosyaları, orijinal dosyalara ek olarak sunulur ve gerekirse kullanıcıların fotoğrafları orijinal hallerine döndürmelerine olanak tanır. Görüntüler macOS'tan Windows'a aktarıldığında, beraberindeki AAE dosyaları da aktarılır.
+AAE, iOS 8 ve daha yeni, macOS 10.10 veya sonraki sistemlerde bulunan bir dosya türüdür. Fotoğraflar uygulamasında [.jpg](/tr/image/jpeg/) fotoğraflarda yapılan tüm düzenlemelerle ilgili bilgileri depolar. AAE dosyaları, orijinal dosyalara ek olarak sunulur ve gerekirse kullanıcıların fotoğrafları orijinal hallerine döndürmelerine olanak tanır. Görüntüler macOS'tan Windows'a aktarıldığında, beraberindeki AAE dosyaları da aktarılır.
 
 ## AAE Dosya Biçimi
 AAE dosyaları, insan tarafından okunabilen bir dosya biçimi olan [XML](/tr/web/xml/) dosyaları olarak diske kaydedilir. Bu, macOS'ta Apple TextEdit ve Windows OS'de Microsoft Notepad gibi herhangi bir metin düzenleyicide açılabileceği anlamına gelir. Notepad++, AAE dosyalarını açabilen başka bir zengin düzenleyicidir.

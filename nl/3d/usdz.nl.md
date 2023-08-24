@@ -41,7 +41,7 @@ USDZ-pakketten vereisen dat de lay-out van bestanden binnen het pakket is dat de
 ## USDZ-bestand downloaden
 Omdat de usdz-bestanden vol zitten met andere afbeeldingen van hoge kwaliteit en usd-bestanden, kunnen ze meer schijfruimte in beslag nemen. Hier vindt u een eenvoudig en kleiner USDZ-voorbeeldbestand om te downloaden:
 
-- [Voorbeeld.usdz](../sample.usdz)
+- [Sample.usdz](../sample.usdz)
 
 ## Referenties
 

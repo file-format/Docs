@@ -35,7 +35,7 @@ Beim Übergang von ODF 1.0 zu den 1.1-Versionen gab es ziemlich geringfügige Ä
 
 ## Dateiformatspezifikationen ##
 
-Das OpenDocument-Format unterstützt die Dokumentendarstellung als einzelnes XML-Dokument sowie als Sammlung mehrerer Teildokumente innerhalb eines Pakets als [ZIP](/de/Compression/ZIP/)-Archiv. Jede der Dateien aus dem ZIP-Archiv speichert einen Teil des vollständigen Dokuments. Jedes Unterdokument speichert einen bestimmten Aspekt des Dokuments. Beispielsweise enthält ein Filialdokument die Stilinformationen und ein anderes Filialdokument den Inhalt des Dokuments. Ein typisches ODF-Dokument hat die folgenden Komponenten:
+Das OpenDocument-Format unterstützt die Dokumentendarstellung als einzelnes XML-Dokument sowie als Sammlung mehrerer Teildokumente innerhalb eines Pakets als [ZIP](/de/compression/zip/)-Archiv. Jede der Dateien aus dem ZIP-Archiv speichert einen Teil des vollständigen Dokuments. Jedes Unterdokument speichert einen bestimmten Aspekt des Dokuments. Beispielsweise enthält ein Filialdokument die Stilinformationen und ein anderes Filialdokument den Inhalt des Dokuments. Ein typisches ODF-Dokument hat die folgenden Komponenten:
 
 * content.xml – Dokumentinhalt und im Inhalt verwendete automatische Stile.
 * styles.xml – Stile, die im Dokumentinhalt verwendet werden, und automatische Stile, die in den Stilen selbst verwendet werden.

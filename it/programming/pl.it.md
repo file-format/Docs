@@ -20,7 +20,7 @@
 ## Che cos'è un file PL?
 
 Un file con estensione .pl è un file Perl Script che è un linguaggio di scripting. Questi sono compilati ed eseguiti utilizzando il software Perl Interpreter. Un file di script PL contiene righe di codice, variabili e commenti. I linguaggi di scripting sono relativamente difficili da usare
-comprendere altri formati di file di programmazione come [PHP](/it/programmazione/php/). I file PL possono essere creati e sono compatibili con Windows, macOS e Linux.
+comprendere altri formati di file di programmazione come [PHP](/it/programming/php/). I file PL possono essere creati e sono compatibili con Windows, macOS e Linux.
 
 ## Breve storia del linguaggio di scripting Perl
 

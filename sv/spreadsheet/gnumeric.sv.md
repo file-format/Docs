@@ -23,7 +23,7 @@ En fil med filtillägget GNUMERIC är en kalkylarksfil som skapats med Gnumeric-
 
 ## GNUMERIC filformat
 
-GNUMERIC-filer sparas i XML-filformat, komprimerade efter GZIP-komprimering. Dessa stöder inte makron och pivottabeller, men är rika på andra funktioner som konvertering till [CSV](/sv/spreadsheet/csv/), [XLSX](/sv/spreadsheet/xlsx/), Microsoft Works (.wks), [ HTML](/sv/web/html/), [LaTex](/sv/ordbehandling/latex/) och [Lotus 1-2-3](/sv/spreadsheet/123/).
+GNUMERIC-filer sparas i XML-filformat, komprimerade efter GZIP-komprimering. Dessa stöder inte makron och pivottabeller, men är rika på andra funktioner som konvertering till [CSV](/sv/spreadsheet/csv/), [XLSX](/sv/spreadsheet/xlsx/), Microsoft Works (.wks), [ HTML](/sv/web/html/), [LaTex](/sv/word-processing/latex/) och [Lotus 1-2-3](/sv/spreadsheet/123/).
 
 ## Gnumeric på Github
 

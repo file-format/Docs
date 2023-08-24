@@ -19,7 +19,7 @@
 
 ## Vad är en PML fil?
 
-Palm Inc introducerade PML-filformatet som står för Palm Markup Language File. Dess syfte är att skapa dokument för eReader som är en läsenhet för e-böcker som liknar surfplattan. PML-filen ger layouten till en [PDB](/sv/ebook/pdb/)-fil (innehåller olika datafiler) att visa på en Palm-enhet.
+Palm Inc introducerade PML-filformatet som står för Palm Markup Language File. Dess syfte är att skapa dokument för eReader som är en läsenhet för e-böcker som liknar surfplattan. PML-filen ger layouten till en [PDB](/sv/programming/pdb/)-fil (innehåller olika datafiler) att visa på en Palm-enhet.
 
 ## Tekniska detaljer för PML-filer
 

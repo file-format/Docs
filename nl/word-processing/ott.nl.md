@@ -35,7 +35,7 @@ Er waren vrij kleine veranderingen in de overgang van ODF 1.0 naar 1.1-versies. 
 
 ## Specificaties bestandsindeling
 
-OpenDocument-indeling ondersteunt documentweergave als een enkel XML-document en als een verzameling van verschillende subdocumenten binnen een pakket als [ZIP](/nl/Compression/ZIP/)-archief. Elk van de bestanden uit het ZIP-archief slaat een deel van het volledige document op. Elk subdocument slaat een bepaald aspect van het document op. Een subdocument bevat bijvoorbeeld de stijlinformatie en een ander subdocument bevat de inhoud van het document. Een typisch ODF-document heeft de volgende onderdelen:
+OpenDocument-indeling ondersteunt documentweergave als een enkel XML-document en als een verzameling van verschillende subdocumenten binnen een pakket als [ZIP](/nl/compression/zip/)-archief. Elk van de bestanden uit het ZIP-archief slaat een deel van het volledige document op. Elk subdocument slaat een bepaald aspect van het document op. Een subdocument bevat bijvoorbeeld de stijlinformatie en een ander subdocument bevat de inhoud van het document. Een typisch ODF-document heeft de volgende onderdelen:
 
 * content.xml – Documentinhoud en automatische stijlen die in de inhoud worden gebruikt.
 * styles.xml – Stijlen die worden gebruikt in de documentinhoud en automatische stijlen die in de stijlen zelf worden gebruikt.

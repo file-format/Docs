@@ -21,10 +21,10 @@
 En CONFIG-fil kallas konfigurationsfil; används för att konfigurera parametrarna och primära inställningar för flera datorprogram. Vissa program läser bara sina **konfigurationsfiler** vid uppstart. Andra kontrollerar konfigurationsfilerna för ändringar med jämna mellanrum.
 
 ## CONFIG Filformat
-**CONFIG-filformatet** används för serverprocesser, programvaror och operativsysteminställningar. En programmerare kan skriva kod för att instruera en programvara att läsa konfigurationsfilerna om och om igen efter en viss tidsperiod och tillämpa ändringarna på den aktuella processen. Det finns inga definitiva standarder eller starka konventioner för CONFIG-filsysntax. Till exempel, Microsofts Web.config-fil tillhör filformatet CONFIG, som består av en [XML](https://docs.fileformat.com/web/xml/)-baserad taggset; kan redigeras med Microsoft Visual Studio eller någon annan textredigerare.
+**CONFIG-filformatet** används för serverprocesser, programvaror och operativsysteminställningar. En programmerare kan skriva kod för att instruera en programvara att läsa konfigurationsfilerna om och om igen efter en viss tidsperiod och tillämpa ändringarna på den aktuella processen. Det finns inga definitiva standarder eller starka konventioner för CONFIG-filsysntax. Till exempel, Microsofts Web.config-fil tillhör filformatet CONFIG, som består av en [XML](/web/xml/)-baserad taggset; kan redigeras med Microsoft Visual Studio eller någon annan textredigerare.
 
 ## Exempel på konfigurationsfiler:
-Eftersom konfigurationsfilerna inte skapas genom att följa några regler, standarder eller konventioner, kan dessa filer ha skrivits med olika format. En .config-fil kan vara baserad på XML, [JSON](https://docs.fileformat.com/web/json/) eller något annat format. Följande är exempel på konfigurationsfiler för välkända operativsystem och programvara:
+Eftersom konfigurationsfilerna inte skapas genom att följa några regler, standarder eller konventioner, kan dessa filer ha skrivits med olika format. En .config-fil kan vara baserad på XML, [JSON](/web/json/) eller något annat format. Följande är exempel på konfigurationsfiler för välkända operativsystem och programvara:
 
 ### Konfigurationsfiler i Linux
 Varje Linux-program är en körbar fil som innehåller listan över **opkoder** som CPU:n kör för att utföra typiska operationer. Driften av nästan alla program kan anpassas till dina krav genom att ändra dess konfigurationsfiler. Flera konfigurationsfiler i Linux-systemet finns i katalogen /etc. Konfigurationsfilerna kan klassificeras i följande kategorier:

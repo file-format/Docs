@@ -18,7 +18,7 @@
 
 ## Ce este un fișier AUX?
 
-Un fișier cu extensia .aux este un fișier auxiliar care conține date geospațiale pentru fișierele de date raster însoțite în fișiere [.JPG](/ro/image/jpg/) sau GeoTIFF [.TIFF](/ro/image/tiff/). Deoarece fișierele raster nu pot deține astfel de informații, fișierele AUX sunt folosite pentru a stoca informații suplimentare sub formă de date asociate. Acestea sunt de obicei stocate în același director cu același nume de fișier ca și numele de fișier raster corespunzător. Fișierele AUX sunt utilizate în general de aplicațiile geospațiale, cum ar fi ESRI ArcGIS Desktop și ERDAS IMAGINE.
+Un fișier cu extensia .aux este un fișier auxiliar care conține date geospațiale pentru fișierele de date raster însoțite în fișiere [.JPG](/ro/image/jpeg/) sau GeoTIFF [.TIFF](/ro/image/tiff/). Deoarece fișierele raster nu pot deține astfel de informații, fișierele AUX sunt folosite pentru a stoca informații suplimentare sub formă de date asociate. Acestea sunt de obicei stocate în același director cu același nume de fișier ca și numele de fișier raster corespunzător. Fișierele AUX sunt utilizate în general de aplicațiile geospațiale, cum ar fi ESRI ArcGIS Desktop și ERDAS IMAGINE.
 
 ## Format fișier AUX - Mai multe informații
 

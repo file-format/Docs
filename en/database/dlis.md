@@ -52,6 +52,3 @@ The PPDM data model provides a consistent, industry-standard way to organize and
 
 Using PPDM data model and DLIS data together makes it possible to store and manage well log data in a way that is consistent with industry standards and easily accessible to other systems and applications.
 
-## References
-* [Format for Digital Well Log Data](http://w3.energistics.org/rp66/V1/Toc/main.html)
-* [DLIS - Data Organization](http://w3.energistics.org/rp66/V1/Toc/main.html)

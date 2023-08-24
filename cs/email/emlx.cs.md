@@ -104,6 +104,6 @@ V tomto příkladu 875 ukazuje celkovou délku zprávy. Metadata zprávy jsou uz
 
 ## Viz také ##
 
-* [EML](/cs/e-mail/eml/)
-* [MSG](/cs/e-mail/msg/)
+* [EML](/cs/email/eml/)
+* [MSG](/cs/email/msg/)
 

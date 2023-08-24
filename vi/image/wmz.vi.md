@@ -23,7 +23,7 @@ Tệp có phần mở rộng .wmz là phiên bản nén của [WMF](/vi/image/wm
 
 ## Định dạng tệp WMZ
 
-Các tệp WMZ được nén [Gzip](/vi/compression/gz/) và chứa [WMF](/vi/image/WMF/) bên trong. Gzip sử dụng thuật toán DEFLATE để nén kho lưu trữ. GZIP khác với định dạng lưu trữ [ZIP](/vi/compression/zip/) vì định dạng này áp dụng thuật toán nén để lưu trữ hoàn chỉnh thay vì các tệp riêng lẻ. Định dạng tệp bao gồm:
+Các tệp WMZ được nén [Gzip](/vi/compression/gz/) và chứa [WMF](/vi/image/wmf/) bên trong. Gzip sử dụng thuật toán DEFLATE để nén kho lưu trữ. GZIP khác với định dạng lưu trữ [ZIP](/vi/compression/zip/) vì định dạng này áp dụng thuật toán nén để lưu trữ hoàn chỉnh thay vì các tệp riêng lẻ. Định dạng tệp bao gồm:
 
 * Tiêu đề tệp
 * Tiêu đề tùy chọn

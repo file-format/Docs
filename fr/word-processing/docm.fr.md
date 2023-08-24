@@ -19,7 +19,7 @@
 
 ## Qu'est-ce qu'un fichier DOCM ?
 
-Les fichiers DOCM sont des documents générés par Microsoft Word 2007 ou supérieur avec la possibilité d'exécuter des macros. Il est similaire au format de fichier [DOCX](https://docs.fileformat.com/word-processing/docx/), mais la possibilité d'exécuter des macros le rend différent de DOCX. Comme DOCX, les fichiers DOCM peuvent stocker du texte, des images, des tableaux, des formes, des graphiques et d'autres contenus. La possibilité d'exécuter des macros permet de gagner du temps en exécutant la série de commandes sous la forme d'actions enregistrées pour l'achèvement automatique d'une tâche. . Les fichiers DOCM peuvent être ouverts et modifiés dans Microsoft Word 2007 et supérieur.
+Les fichiers DOCM sont des documents générés par Microsoft Word 2007 ou supérieur avec la possibilité d'exécuter des macros. Il est similaire au format de fichier [DOCX](/word-processing/docx/), mais la possibilité d'exécuter des macros le rend différent de DOCX. Comme DOCX, les fichiers DOCM peuvent stocker du texte, des images, des tableaux, des formes, des graphiques et d'autres contenus. La possibilité d'exécuter des macros permet de gagner du temps en exécutant la série de commandes sous la forme d'actions enregistrées pour l'achèvement automatique d'une tâche. . Les fichiers DOCM peuvent être ouverts et modifiés dans Microsoft Word 2007 et supérieur.
 
 ## Bref historique
 

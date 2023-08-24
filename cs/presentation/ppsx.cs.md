@@ -29,8 +29,8 @@ Soubory PPSX jsou uloženy ve formátu Open XML, který byl zaveden v sadě Micr
 
 ## Viz také ##
 
-* [PPT](/cs/prezentace/ppt/)
-* [PPTX](/cs/prezentace/pptx/)
+* [PPT](/cs/presentation/ppt/)
+* [PPTX](/cs/presentation/pptx/)
 
 ## Reference ##
 

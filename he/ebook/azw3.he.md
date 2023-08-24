@@ -19,7 +19,7 @@
 
 ## מהו קובץ AZW3?
 
-AZW3, הידוע גם בשם Kindle Format 8 (**KF8**), הוא הגרסה המעודכנת של פורמט הקובץ הדיגיטלי [AZW](/he/ebook/azw/) ספר אלקטרוני שפותח עבור מכשירי Amazon Kindle. הפורמט הוא שיפור לקבצי AZW ישנים יותר ומשמש במכשירי Kindle Fire רק עם תאימות לאחור עבור פורמט הקובץ הקדמון, כלומר [MOBI](/he/ebook/mobi/) ו-AZW. אמזון הציגה פורמט KFX (גרסת KF 10) לאחר KF8 המשמש במכשירי Kindle העדכניים ביותר. לקבצי AZW3 יש מדיה מסוג אינטרנט application/vnd.amazon.mobi8-ebook. ניתן להמיר קבצי AZW3 למספר פורמטים אחרים של קבצים כגון [PDF](/he/pdf/), [EPUB](/he/ebook/epub/), [AZW](/he/ebook/azw/), [DOCX](/he/ עיבוד תמלילים/docx/), ו-[RTF](/he/עיבוד תמלילים/rtf/).
+AZW3, הידוע גם בשם Kindle Format 8 (**KF8**), הוא הגרסה המעודכנת של פורמט הקובץ הדיגיטלי [AZW](/he/ebook/azw/) ספר אלקטרוני שפותח עבור מכשירי Amazon Kindle. הפורמט הוא שיפור לקבצי AZW ישנים יותר ומשמש במכשירי Kindle Fire רק עם תאימות לאחור עבור פורמט הקובץ הקדמון, כלומר [MOBI](/he/ebook/mobi/) ו-AZW. אמזון הציגה פורמט KFX (גרסת KF 10) לאחר KF8 המשמש במכשירי Kindle העדכניים ביותר. לקבצי AZW3 יש מדיה מסוג אינטרנט application/vnd.amazon.mobi8-ebook. ניתן להמיר קבצי AZW3 למספר פורמטים אחרים של קבצים כגון [PDF](/he/pdf/), [EPUB](/he/ebook/epub/), [AZW](/he/ebook/azw/), [DOCX](/he/ עיבוד תמלילים/docx/), ו-[RTF](/he/word-processing/rtf/).
 
 ## פורמט קובץ AZ3/KF8 ##
 

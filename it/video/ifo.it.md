@@ -26,7 +26,7 @@ I file IFO vengono salvati con estensione **.ifo**.
 
 I file IFO vengono salvati come file di testo e possono essere aperti con qualsiasi editor di testo come Microsoft Notepad++, Notepad e Apple TextEdit. Le intestazioni nel file IFO indicano ai lettori DVD la schermata iniziale, la posizione di ciascuna traccia video sul disco, la posizione delle tracce audio e altre informazioni correlate.
 
-I file IFO possono danneggiarsi se il DVD si graffi. Ecco perché un file BUP viene creato come backup del file IFO. Nel caso in cui non sia possibile leggere il file IFO, viene invece letto il file BUP. Questi file si trovano insieme al file [VOB](https://docs.fileformat.com/video/vob/) che contiene un indice dei contenuti del disco.
+I file IFO possono danneggiarsi se il DVD si graffi. Ecco perché un file BUP viene creato come backup del file IFO. Nel caso in cui non sia possibile leggere il file IFO, viene invece letto il file BUP. Questi file si trovano insieme al file [VOB](/video/vob/) che contiene un indice dei contenuti del disco.
 
 ## Riferimenti
 

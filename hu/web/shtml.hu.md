@@ -19,7 +19,7 @@
 
 ## Mi az SHTML fájl?
 
-Az .shtml kiterjesztésű fájl egy [HTML](/hu/web/html/) nyelven írt weboldal, amely szerver utasításokat tartalmaz. A gyorsabb betöltés érdekében az ASP-fájlokhoz hasonló szerveroldali elemeket is tartalmazhat. A szerveroldali fájlok futtatható kódot is tartalmazhatnak, amely a szokásosnál lassabban töltheti be a szervert. Az SHTML fájlok hasonlóak a HTML-hez, de egyszerű szerverparancsok használatát is lehetővé teszik. Ezeket a kiszolgálóparancsokat egy egyszerű számítógépes programozási nyelven hajtják végre, az úgynevezett Server Side Includes (SSI). Az SHTML-t nagymértékben felváltották más szerveroldali programozási nyelvek, például a [PHP](/hu/programing/php/) tartalmazza.
+Az .shtml kiterjesztésű fájl egy [HTML](/hu/web/html/) nyelven írt weboldal, amely szerver utasításokat tartalmaz. A gyorsabb betöltés érdekében az ASP-fájlokhoz hasonló szerveroldali elemeket is tartalmazhat. A szerveroldali fájlok futtatható kódot is tartalmazhatnak, amely a szokásosnál lassabban töltheti be a szervert. Az SHTML fájlok hasonlóak a HTML-hez, de egyszerű szerverparancsok használatát is lehetővé teszik. Ezeket a kiszolgálóparancsokat egy egyszerű számítógépes programozási nyelven hajtják végre, az úgynevezett Server Side Includes (SSI). Az SHTML-t nagymértékben felváltották más szerveroldali programozási nyelvek, például a [PHP](/hu/programming/php/) tartalmazza.
 
 ## SHTML fájlformátum
 

@@ -19,7 +19,7 @@
 
 ## Che cos'è un file ICI?
 
-Un linguaggio di programmazione generico che viene interpretato e contiene diverse funzionalità come la digitazione dinamica insieme ai tipi di dati flessibili è noto come linguaggio di programmazione ICI (non acronimo). È considerato simile al linguaggio [Perl](/it/programmazione/pl/). Questo linguaggio ICI comprende costrutti di controllo del flusso e contiene anche alcuni operatori del linguaggio C. Non è un linguaggio orientato agli oggetti, ma alcune delle caratteristiche dell'OOP possono essere raggiunte da un metodo di ereditarietà specifico noto come sovrastrutture. Simile a [C](/it/programmazione/c), questo linguaggio di programmazione ICI ha la stessa interfaccia di sistema e una libreria standard per le funzioni integrate.
+Un linguaggio di programmazione generico che viene interpretato e contiene diverse funzionalità come la digitazione dinamica insieme ai tipi di dati flessibili è noto come linguaggio di programmazione ICI (non acronimo). È considerato simile al linguaggio [Perl](/it/programming/pl/). Questo linguaggio ICI comprende costrutti di controllo del flusso e contiene anche alcuni operatori del linguaggio C. Non è un linguaggio orientato agli oggetti, ma alcune delle caratteristiche dell'OOP possono essere raggiunte da un metodo di ereditarietà specifico noto come sovrastrutture. Simile a [C](/it/programming/c), questo linguaggio di programmazione ICI ha la stessa interfaccia di sistema e una libreria standard per le funzioni integrate.
 
 
 ## Breve storia ##

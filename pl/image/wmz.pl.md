@@ -23,7 +23,7 @@ Plik z rozszerzeniem .wmz jest skompresowaną wersją [WMF](/pl/image/wmf/) i s�
 
 ## Format pliku WMZ
 
-Pliki WMZ są skompresowane [Gzip](/pl/compression/gz/) i zawierają [WMF](/pl/image/WMF/). Gzip używa algorytmu DEFLATE do kompresji archiwum. GZIP różni się od formatu archiwum [ZIP](/pl/compression/zip/), ponieważ stosuje algorytm kompresji do całego archiwum, a nie do poszczególnych plików. Format pliku składa się z:
+Pliki WMZ są skompresowane [Gzip](/pl/compression/gz/) i zawierają [WMF](/pl/image/wmf/). Gzip używa algorytmu DEFLATE do kompresji archiwum. GZIP różni się od formatu archiwum [ZIP](/pl/compression/zip/), ponieważ stosuje algorytm kompresji do całego archiwum, a nie do poszczególnych plików. Format pliku składa się z:
 
 * Nagłówek pliku
 * Opcjonalne nagłówki

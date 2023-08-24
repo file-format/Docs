@@ -41,7 +41,7 @@ Les packages USDZ nécessitent la disposition des fichiers dans le package, c'es
 ## Téléchargement du fichier USDZ
 Étant donné que les fichiers usdz contiennent d'autres images et fichiers usd de haute qualité, ils peuvent occuper une plus grande capacité de stockage sur le disque. Vous trouverez ici un fichier d'exemple USDZ simple et plus petit à télécharger :
 
-- [Échantillon.usdz](../sample.usdz)
+- [Sample.usdz](../sample.usdz)
 
 ## Références
 

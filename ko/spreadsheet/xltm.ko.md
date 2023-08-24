@@ -27,7 +27,7 @@ Microsoft가 **Office Open XML** 표준을 수용하기 위해 변경하기로 �
 
 ## XLTM 파일 형식 사양 ##
 
-XLTM 파일은 Office OpenXML 파일 형식을 기반으로 하며 XML 및 [ZIP](/ko/Compression/ZIP/)를 사용하여 파일 크기를 줄입니다. 파일을 두 번 클릭하여 Microsoft Excel로 열 수 있습니다. XLTM 파일 형식의 파일 구성은 파일 이름을 ZIP으로 바꾼 다음 디스크에 내용을 추출하여 관찰할 수 있습니다.
+XLTM 파일은 Office OpenXML 파일 형식을 기반으로 하며 XML 및 [ZIP](/ko/compression/zip/)를 사용하여 파일 크기를 줄입니다. 파일을 두 번 클릭하여 Microsoft Excel로 열 수 있습니다. XLTM 파일 형식의 파일 구성은 파일 이름을 ZIP으로 바꾼 다음 디스크에 내용을 추출하여 관찰할 수 있습니다.
 
 ### [콘텐츠 유형].xml ###
 

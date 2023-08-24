@@ -20,7 +20,7 @@
 
 ## Tệp VSS là gì?
 
-VSS là các tệp khuôn tô được tạo bằng Microsoft Visio 2007 trở về trước. Định dạng tệp tương đối mới là [VSSX](/vi/image/vssx/) đã được giới thiệu với Microsoft Visio 2013. Tệp khuôn tô cung cấp các đối tượng vẽ có thể được đưa vào bản vẽ .VSD Visio. Bản thân Microsoft Visio được biết đến với việc tạo các yếu tố vẽ như bộ sưu tập hình dạng, trình kết nối, sơ đồ, bố cục mạng, sơ đồ UML, sơ đồ phần mềm, mô hình cơ sở dữ liệu, ánh xạ đối tượng và các thông tin tương tự khác. Nó cũng có các tính năng chuyển đổi phong phú của tài liệu Visio sang các định dạng tệp khác như PNG, BMP, PDF và các định dạng khác. Visio có sẵn cho cả Windows và Mac OS.
+VSS là các tệp khuôn tô được tạo bằng Microsoft Visio 2007 trở về trước. Định dạng tệp tương đối mới là [VSSX](/vi/visio/vssx/) đã được giới thiệu với Microsoft Visio 2013. Tệp khuôn tô cung cấp các đối tượng vẽ có thể được đưa vào bản vẽ .VSD Visio. Bản thân Microsoft Visio được biết đến với việc tạo các yếu tố vẽ như bộ sưu tập hình dạng, trình kết nối, sơ đồ, bố cục mạng, sơ đồ UML, sơ đồ phần mềm, mô hình cơ sở dữ liệu, ánh xạ đối tượng và các thông tin tương tự khác. Nó cũng có các tính năng chuyển đổi phong phú của tài liệu Visio sang các định dạng tệp khác như PNG, BMP, PDF và các định dạng khác. Visio có sẵn cho cả Windows và Mac OS.
 
 ## Định dạng tệp VSS
 

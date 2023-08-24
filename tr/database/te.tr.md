@@ -26,12 +26,12 @@ TE dosyalarının dahili dosya formatı bilinmiyor. Textease, yazılımla çalı
 
 ## TE Alan Türleri
 
-* Metin
-* Sayı
-* [Resim](/tr/resim/)
-* Renk
-* Tarih (GG/AA/YYYY)
-* Para birimi
+* Text
+* Number
+* [Image](/tr/image/)
+* Colour
+* Date (DD/MM/YYYY)
+* Currency
 
 ## Referanslar ##
 

@@ -18,7 +18,7 @@
 
 ## Mi az INC fájl?
 
-Az INC-fájl egy olyan belefoglaló fájl, amelyet a szoftverprogram forráskódja használ a fejlécinformációk hivatkozására. Hasonló a [.h fájlformátumhoz](/hu/programming/h/), és deklarációkat, függvényeket, fejléceket vagy makrókat tartalmaz, amelyeket a forráskódfájlok, például a C++ újra felhasználhatnak. Az INC fájlokat számos programozási nyelv használja, mint például a C, [C++](/hu/programing/cpp/), Pascal, [PHP](/hu/programing/php/) és [Java](/hu/programing/java/). A szövegszerkesztők, például a Microsoft Notepad, a Notepad++ és a TextEdit használhatók az INC fájlok megnyitásához.
+Az INC-fájl egy olyan belefoglaló fájl, amelyet a szoftverprogram forráskódja használ a fejlécinformációk hivatkozására. Hasonló a [.h fájlformátumhoz](/hu/programming/h/), és deklarációkat, függvényeket, fejléceket vagy makrókat tartalmaz, amelyeket a forráskódfájlok, például a C++ újra felhasználhatnak. Az INC fájlokat számos programozási nyelv használja, mint például a C, [C++](/hu/programming/cpp/), Pascal, [PHP](/hu/programming/php/) és [Java](/hu/programming/java/). A szövegszerkesztők, például a Microsoft Notepad, a Notepad++ és a TextEdit használhatók az INC fájlok megnyitásához.
 
 ## INC fájlformátum - További információ
 

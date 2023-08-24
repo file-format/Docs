@@ -23,7 +23,7 @@ GSM är ett filtillägg som är associerat med Global System for Mobile Audio Fo
 
 En GSM-fil är kodad med en förlustfri CBR (Constant bitrate) ljudkomprimeringscodec. Samplingshastigheten i en GSM-ljudfil är 8000 sampel/sekund medan datahastigheten är cirka 13 kbps. Bithastigheten i GSM-filerna säkerställer kvalitet under röstinspelning. Dessutom är GSM-filformatet också känt som det globala standardformatet som ska användas i mobiltelefoner och WAV-filer kan också enkelt kodas med ett GSM-filformat. Eventuella problem med en GSM-fil kan enkelt lösas av användaren själv utan att gå till en expert.
 
-Användare kan också konvertera GSM-filer till formaten [MP3](/sv/audio/mp3/) och [MP4](/sv/audio/mp4/).
+Användare kan också konvertera GSM-filer till formaten [MP3](/sv/audio/mp3/) och [MP4](/sv/video/mp4/).
 
 ## Kort historik över GSM-filformat
 

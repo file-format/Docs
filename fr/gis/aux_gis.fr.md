@@ -18,7 +18,7 @@
 
 ## Qu'est-ce qu'un fichier AUX ?
 
-Un fichier avec l'extension .aux est un fichier auxiliaire qui contient des données géospatiales pour les fichiers de données raster accompagnés dans des fichiers [.JPG](/fr/image/jpg/) ou GeoTIFF [.TIFF](/fr/image/tiff/). Étant donné que les fichiers raster ne peuvent pas contenir de telles informations, les fichiers AUX sont utilisés pour stocker les informations supplémentaires sous la forme de données associées. Ceux-ci sont généralement stockés dans le même répertoire avec le même nom de fichier que le nom de fichier raster correspondant. Les fichiers AUX sont généralement utilisés par des applications géospatiales telles que ESRI ArcGIS Desktop et ERDAS IMAGINE.
+Un fichier avec l'extension .aux est un fichier auxiliaire qui contient des données géospatiales pour les fichiers de données raster accompagnés dans des fichiers [.JPG](/fr/image/jpeg/) ou GeoTIFF [.TIFF](/fr/image/tiff/). Étant donné que les fichiers raster ne peuvent pas contenir de telles informations, les fichiers AUX sont utilisés pour stocker les informations supplémentaires sous la forme de données associées. Ceux-ci sont généralement stockés dans le même répertoire avec le même nom de fichier que le nom de fichier raster correspondant. Les fichiers AUX sont généralement utilisés par des applications géospatiales telles que ESRI ArcGIS Desktop et ERDAS IMAGINE.
 
 ## Format de fichier AUX - Plus d'informations
 

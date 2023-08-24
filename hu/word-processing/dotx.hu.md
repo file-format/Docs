@@ -21,7 +21,7 @@
 
 A DOTX kiterjesztésű fájlok a Microsoft Word által létrehozott sablonfájlok, amelyek előre formázott beállításokkal rendelkeznek további [DOCX](/hu/word-processing/docx/) fájlok generálásához. Létrejön egy sablonfájl annak érdekében, hogy konkrét felhasználói beállítások legyenek, amelyeket alkalmazni kell az ezekből létrehozott későbbi legyekre. Ezek a beállítások közé tartoznak az oldalmargók, szegélyek, fejlécek, láblécek és egyéb oldalbeállítások. Az ilyen sablonokat olyan hivatalos dokumentumokban használják, mint a vállalati levélpapírok és szabványosított űrlapok.
 
-A DOTX fájlformátum a Microsoft Office 2007 kiadásával jelent meg a bináris [DOT ](/hu/word-processing/dot/) fájlformátum helyett, de a magasabb verziók is támogatják. A Microsoft Word alapértelmezés szerint minden új dokumentumot megnyit a normal.dot fájl alapján. Ha módosítja, az összes létrehozott új fájl ugyanazokat a beállításokat fogja eredményezni, mint a sablonfájlban. A Microsoft Word 2007-ben a DOT fájlformátumot az Office OpenXML alapú DOTX fájlformátum váltotta fel.
+A DOTX fájlformátum a Microsoft Office 2007 kiadásával jelent meg a bináris [DOT](/hu/word-processing/dot/) fájlformátum helyett, de a magasabb verziók is támogatják. A Microsoft Word alapértelmezés szerint minden új dokumentumot megnyit a normal.dot fájl alapján. Ha módosítja, az összes létrehozott új fájl ugyanazokat a beállításokat fogja eredményezni, mint a sablonfájlban. A Microsoft Word 2007-ben a DOT fájlformátumot az Office OpenXML alapú DOTX fájlformátum váltotta fel.
 
 ## Rövid története ##
 

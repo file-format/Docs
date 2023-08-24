@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo PPS?
 
-PPS, presentación de diapositivas de PowerPoint, los archivos se crean utilizando Microsoft PowerPoint para fines de presentación de diapositivas. La lectura y creación de archivos PPS es compatible con Microsoft PowerPoint 97-2003. La versión más reciente de este formato de archivo es [PPSX](/es/presentation/ppsx/), que se basa en los estándares Office OpenXML. Los archivos PPS todavía se pueden leer con las últimas versiones de Microsoft PowerPoint, pero los archivos recién creados solo se pueden guardar en formato de archivo PPSX. Cuando un archivo PPS se comparte con otro usuario y se abre, comienza como una presentación de Powerpoint a diferencia del archivo [PPT](/es/presentación/ppt/) que se abre en modo editable.
+PPS, presentación de diapositivas de PowerPoint, los archivos se crean utilizando Microsoft PowerPoint para fines de presentación de diapositivas. La lectura y creación de archivos PPS es compatible con Microsoft PowerPoint 97-2003. La versión más reciente de este formato de archivo es [PPSX](/es/presentation/ppsx/), que se basa en los estándares Office OpenXML. Los archivos PPS todavía se pueden leer con las últimas versiones de Microsoft PowerPoint, pero los archivos recién creados solo se pueden guardar en formato de archivo PPSX. Cuando un archivo PPS se comparte con otro usuario y se abre, comienza como una presentación de Powerpoint a diferencia del archivo [PPT](/es/presentation/ppt/) que se abre en modo editable.
 
 ## Formato de archivo ##
 

@@ -19,7 +19,7 @@
 
 ## Apa itu file DER?
 
-File DER adalah file sertifikat digital yang dibuat dan disimpan dalam format biner. Ini adalah pengkodean biner untuk sertifikat X.509 dan kunci privat. Berbeda dengan file PEM ([CRT](https://docs.fileformat.com/web/crt/), [CER](https://docs.fileformat.com/web/cer/)), file DER berfungsi tidak berisi pernyataan teks biasa yang dapat dibaca manusia seperti -----BEGIN CERTIFICATE-----. Mereka sebagian besar digunakan dalam konteks Jawa.
+File DER adalah file sertifikat digital yang dibuat dan disimpan dalam format biner. Ini adalah pengkodean biner untuk sertifikat X.509 dan kunci privat. Berbeda dengan file PEM ([CRT](/web/crt/), [CER](/web/cer/)), file DER berfungsi tidak berisi pernyataan teks biasa yang dapat dibaca manusia seperti -----BEGIN CERTIFICATE-----. Mereka sebagian besar digunakan dalam konteks Jawa.
 
 ## Format File DER - Informasi Lebih Lanjut
 

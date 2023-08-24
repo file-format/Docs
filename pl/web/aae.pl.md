@@ -19,7 +19,7 @@
 
 ## Czym jest plik AEA?
 
-AAE to typ pliku występujący w systemach iOS 8 i nowszych, macOS 10.10 lub nowszych. Przechowuje informacje o wszelkich zmianach wprowadzonych do zdjęć [.jpg](/pl/image/jpg/) w aplikacji Zdjęcia. Pliki AAE są dodatkiem do oryginalnych plików i umożliwiają użytkownikom przywracanie zdjęć do ich pierwotnego stanu, jeśli jest to wymagane. Gdy obrazy są importowane z systemu macOS do systemu Windows, przesyłane są również towarzyszące im pliki AAE.
+AAE to typ pliku występujący w systemach iOS 8 i nowszych, macOS 10.10 lub nowszych. Przechowuje informacje o wszelkich zmianach wprowadzonych do zdjęć [.jpg](/pl/image/jpeg/) w aplikacji Zdjęcia. Pliki AAE są dodatkiem do oryginalnych plików i umożliwiają użytkownikom przywracanie zdjęć do ich pierwotnego stanu, jeśli jest to wymagane. Gdy obrazy są importowane z systemu macOS do systemu Windows, przesyłane są również towarzyszące im pliki AAE.
 
 ## Format pliku AEA
 Pliki AAE są zapisywane na dysku jako pliki [XML](/pl/web/xml/), które są formatem pliku czytelnym dla człowieka. Oznacza to, że można go otworzyć w dowolnym edytorze tekstu, takim jak Apple TextEdit w systemie macOS i Microsoft Notepad w systemie operacyjnym Windows. Notepad ++ to kolejny bogaty edytor, który może otwierać pliki AAE.

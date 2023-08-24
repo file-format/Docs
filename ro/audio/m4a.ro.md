@@ -26,7 +26,7 @@ Formatul M4A este criptat de FairPlay Digital Rights Management, așa cum a fost
 
 ## M4A vs MP3
 
-Atât M4A, cât și [MP3](https://docs.fileformat.com/audio/mp3/) sunt formate de fișiere doar audio.
+Atât M4A, cât și [MP3](/audio/mp3/) sunt formate de fișiere doar audio.
 
 **M4A**: mai bun decât MP3 în ceea ce privește calitatea și dimensiunile atunci când este codificat la aceeași rată de biți. Extensia de fișier .m4a este atât de comună, deoarece au fost folosite de Apple pentru a fi utilizate în iTunes Music Store. M4A este un fișier audio care este comprimat folosind tehnologia MPEG-4; un algoritm pentru compresia cu pierderi. Practic este asociat cu „MPEG-4 Audio Layer”, fișierele cu extensia .m4a sunt stratul audio al filmelor MPEG-4. Este destinat să depășească MP3-ul și să devină noul standard în compresia audio. Este foarte aproape de MP3 în multe privințe, dar a fost introdus pentru a avea o calitate mai bună într-o dimensiune de fișier identică sau chiar mai mică. Formatul M4A a fost introdus pentru prima dată de Apple. Tipul de format este, de asemenea, realizat ca Apple Lossless Encoder (ALE).
 

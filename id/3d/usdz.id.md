@@ -41,7 +41,7 @@ Paket USDZ memerlukan tata letak file di dalam paket adalah bahwa data untuk set
 ## unduhan file USDZ
 Karena file usdz dikemas dengan file gambar dan usd berkualitas tinggi lainnya, mereka dapat menempati penyimpanan disk yang lebih besar. Di sini Anda dapat menemukan file contoh USDZ sederhana dan lebih kecil untuk diunduh:
 
-- [Sampel.usdz](../sample.usdz)
+- [Sample.usdz](../sample.usdz)
 
 ## Referensi
 

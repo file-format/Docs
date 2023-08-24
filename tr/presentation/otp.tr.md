@@ -19,7 +19,7 @@
 
 ## OTP dosyası nedir?
 
-.otp uzantılı dosyalar, uygulamalar tarafından OASIS OpenDocument standart formatında oluşturulan sunum şablonu dosyalarını temsil eder. Böyle bir dosyanın içeriği, metin, resimler, şekiller, multimedya içeriği, geçiş efektleri ve diğer slayt öğeleri içeren slaytlar biçimindeki sunum bilgilerini içerir. Bu şablon dosyaları, şablonun kendisinde saklanan stil bilgilerine dayalı olarak hızla yeni sunumlar oluşturmak için kullanılır. OTP dosyaları, OpenOffice paketi ve Microsoft PowerPoint ile birlikte gelen Impress gibi birkaç farklı uygulama ile oluşturulabilir ve kaydedilebilir. OTP dosya formatı, Microsoft PowerPoint şablon dosyalarına [.pot](/tr/sunum/pot/) ve [.potx](/tr/sunum/potx/) benzer.
+.otp uzantılı dosyalar, uygulamalar tarafından OASIS OpenDocument standart formatında oluşturulan sunum şablonu dosyalarını temsil eder. Böyle bir dosyanın içeriği, metin, resimler, şekiller, multimedya içeriği, geçiş efektleri ve diğer slayt öğeleri içeren slaytlar biçimindeki sunum bilgilerini içerir. Bu şablon dosyaları, şablonun kendisinde saklanan stil bilgilerine dayalı olarak hızla yeni sunumlar oluşturmak için kullanılır. OTP dosyaları, OpenOffice paketi ve Microsoft PowerPoint ile birlikte gelen Impress gibi birkaç farklı uygulama ile oluşturulabilir ve kaydedilebilir. OTP dosya formatı, Microsoft PowerPoint şablon dosyalarına [.pot](/tr/presentation/pot/) ve [.potx](/tr/presentation/potx/) benzer.
 
 ## OTP Dosya Biçimi
 

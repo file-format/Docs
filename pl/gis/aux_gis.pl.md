@@ -18,7 +18,7 @@
 
 ## Czym jest plik AUX?
 
-Plik z rozszerzeniem .aux jest plikiem pomocniczym, który zawiera dane geoprzestrzenne dla towarzyszących plików danych rastrowych w plikach [.JPG](/pl/image/jpg/) lub GeoTIFF [.TIFF](/pl/image/tiff/). Ponieważ pliki rastrowe nie mogą przechowywać takich informacji, pliki AUX służą do przechowywania dodatkowych informacji w postaci powiązanych danych. Są one zwykle przechowywane w tym samym katalogu z tą samą nazwą pliku, co odpowiednia nazwa pliku rastrowego. Pliki AUX są zwykle używane przez aplikacje geoprzestrzenne, takie jak ESRI ArcGIS Desktop i ERDAS IMAGINE.
+Plik z rozszerzeniem .aux jest plikiem pomocniczym, który zawiera dane geoprzestrzenne dla towarzyszących plików danych rastrowych w plikach [.JPG](/pl/image/jpeg/) lub GeoTIFF [.TIFF](/pl/image/tiff/). Ponieważ pliki rastrowe nie mogą przechowywać takich informacji, pliki AUX służą do przechowywania dodatkowych informacji w postaci powiązanych danych. Są one zwykle przechowywane w tym samym katalogu z tą samą nazwą pliku, co odpowiednia nazwa pliku rastrowego. Pliki AUX są zwykle używane przez aplikacje geoprzestrzenne, takie jak ESRI ArcGIS Desktop i ERDAS IMAGINE.
 
 ## Format pliku AUX — więcej informacji
 

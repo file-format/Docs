@@ -19,7 +19,7 @@
 
 ## PMLZ dosyası nedir?
 
-Palm Inc bir eKitap dosya türü tanıttı; [PML](/tr/ebook/pml/) dosya biçiminin sıkıştırılmış bir sürümü olan PMLZ dosya biçimi olarak bilinir, bu nedenle .pmlz uzantılı dosyalar **Zipped Palm İşaretleme Dili Dosyası** olarak bilinir. PMLZ dosyası, **eReader** (tablet bilgisayar gibi bir e-kitap okuma aygıtı olarak bilinir) için dokümanlar oluşturmak üzere [PDB](/tr/ebook/pdb/) dosyalarını derleyen bir dosyanın yalnızca bir zip kabıdır. PML dosyası, Palm Aygıtında görüntülenmesi için bir PDB dosyasına (çeşitli veri dosyaları içeren) yerleşim verir. Oysa bir PDB dosyası, Quicken, Pegasus, Microsoft Visual Studio ve Palm Pilot gibi çeşitli uygulamalar tarafından kullanılan bir veritabanı dosyasıdır. Kısacası, bir PMLZ, PML ve PDB dosyalarının sıkıştırılmış bir kabıdır.
+Palm Inc bir eKitap dosya türü tanıttı; [PML](/tr/ebook/pml/) dosya biçiminin sıkıştırılmış bir sürümü olan PMLZ dosya biçimi olarak bilinir, bu nedenle .pmlz uzantılı dosyalar **Zipped Palm İşaretleme Dili Dosyası** olarak bilinir. PMLZ dosyası, **eReader** (tablet bilgisayar gibi bir e-kitap okuma aygıtı olarak bilinir) için dokümanlar oluşturmak üzere [PDB](/tr/programming/pdb/) dosyalarını derleyen bir dosyanın yalnızca bir zip kabıdır. PML dosyası, Palm Aygıtında görüntülenmesi için bir PDB dosyasına (çeşitli veri dosyaları içeren) yerleşim verir. Oysa bir PDB dosyası, Quicken, Pegasus, Microsoft Visual Studio ve Palm Pilot gibi çeşitli uygulamalar tarafından kullanılan bir veritabanı dosyasıdır. Kısacası, bir PMLZ, PML ve PDB dosyalarının sıkıştırılmış bir kabıdır.
 
 
 ## Palm İşaretleme Dili hakkında bilgi

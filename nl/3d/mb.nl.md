@@ -31,7 +31,7 @@ MB-bestanden zijn in binaire bestandsindeling, een gecomprimeerde bestandsindeli
 
 Het is een beetje moeilijk om het MB-bestand van een 3D-model te vinden en te downloaden. Daarom kunt u hier een voorbeeld MB-bestand downloaden:
 
-- [Voorbeeld.mb](../voorbeeld.mb)
+- [Sample.mb](../sample.mb)
 
 ## Referenties
 

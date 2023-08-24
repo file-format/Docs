@@ -73,7 +73,7 @@ Nó là đoạn bắt buộc chứa các thông số ảnh. Nó cũng có thể 
 
 ## Chuyển đổi JFIF sang các định dạng tệp hình ảnh khác
 
-JFIF có thể được chuyển đổi sang các định dạng tệp hình ảnh phổ biến như [PNG](/vi/image/png/), [JPG](/vi/image/jpg/) và [PDF](/vi/pdf/).
+JFIF có thể được chuyển đổi sang các định dạng tệp hình ảnh phổ biến như [PNG](/vi/image/png/), [JPG](/vi/image/jpeg/) và [PDF](/vi/pdf/).
 
 ## Người giới thiệu ##
 

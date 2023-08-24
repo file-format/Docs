@@ -104,6 +104,6 @@ W tym przykładzie 875 pokazuje całkowitą długość wiadomości. Metadane wia
 
 ## Zobacz też ##
 
-* [EML](/pl/e-mail/eml/)
-* [MSG](/pl/e-mail/msg/)
+* [EML](/pl/email/eml/)
+* [MSG](/pl/email/msg/)
 

@@ -18,7 +18,7 @@
 
 ## Co je soubor DISCO?
 
-Soubor DISCO je formát souboru Microsoft Discovery, který se používá pro publikování a zjišťování webových služeb. Je uložen ve formátu souboru XML a umožňuje nástrojům zjišťování webových služeb vyhledat nebo objevit jeden nebo více souvisejících dokumentů pro popis dostupných služeb [XML](/cs/web/xml/). V souboru DISCO jsou uloženy informace, jako jsou dokumenty zjišťování, schémata [XSD](https://docs.fileformat.com/programming/xsd/) a popisy služeb. Webové služby XML používají tyto informace k přístupu k dostupným webovým službám XML na dané adrese URL.
+Soubor DISCO je formát souboru Microsoft Discovery, který se používá pro publikování a zjišťování webových služeb. Je uložen ve formátu souboru XML a umožňuje nástrojům zjišťování webových služeb vyhledat nebo objevit jeden nebo více souvisejících dokumentů pro popis dostupných služeb [XML](/cs/web/xml/). V souboru DISCO jsou uloženy informace, jako jsou dokumenty zjišťování, schémata [XSD](/programming/xsd/) a popisy služeb. Webové služby XML používají tyto informace k přístupu k dostupným webovým službám XML na dané adrese URL.
 
 ## Formát souboru DISCO – Další informace
 

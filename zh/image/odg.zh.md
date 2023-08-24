@@ -42,14 +42,14 @@ OpenDocument 格式的每个结构组件都由具有关联属性的元素表示�
 ### 根元素###
 单个 XML 文档由其自己的根元素表示。五个不同的支持根元素如下。
 
-`<office:document> ` - 单个XML 文档中的完整办公文档。
-`<office:document-content> ` - 文档内容和内容中使用的自动样式。
-`<office:document-styles> ` - 文档内容中使用的样式和样式本身中使用的自动样式。
-`<office:document-meta> ` - 文档元信息，例如作者或上次保存操作的时间。
-`<office:document-settings> ` - 特定于应用程序的设置，例如窗口大小或打印机信息。
+`<office:document>` - 单个XML 文档中的完整办公文档。
+`<office:document-content>` - 文档内容和内容中使用的自动样式。
+`<office:document-styles>` - 文档内容中使用的样式和样式本身中使用的自动样式。
+`<office:document-meta>` - 文档元信息，例如作者或上次保存操作的时间。
+`<office:document-settings>` - 特定于应用程序的设置，例如窗口大小或打印机信息。
 
 ### ODG 文档元数据###
-OpenDocument 包含 \ 中的所有元数据元素<office:meta>元素。有关文档的一般信息包含在文档的开头，应用程序可以更新相同元素的多个实例。
+OpenDocument 包含 中的所有元数据元素 \<office:meta>元素。有关文档的一般信息包含在文档的开头，应用程序可以更新相同元素的多个实例。
 
 ### 正文元素和文档类型###
 文档正文使用文档类型元素指示文档中包含的内容类型。这些文档类型是：
@@ -61,12 +61,12 @@ OpenDocument 包含 \ 中的所有元数据元素<office:meta>元素。有关文
 * 图像文件
 
 ＃＃＃ 应用程序设置 ＃＃＃
-办公应用程序的设置代表与文档配置或文档的视觉外观相关的不同设置。每个类别由一个`表示<config:config-item-set>`。此类设置类别的示例包括：
+办公应用程序的设置代表与文档配置或文档的视觉外观相关的不同设置。每个类别由一个 表示`<config:config-item-set>`。此类设置类别的示例包括：
 * 文档设置，例如默认打印机
 * 查看设置，例如缩放级别
 
 ### 脚本###
-一个文档通常包含多个脚本。 OpenDocument 文件中的每个脚本都由一个 `<office:script> `元素。这些脚本元素包含在单个 `<office:scripts> `元素。加载文档时脚本不会更新文档。
+一个文档通常包含多个脚本。 OpenDocument 文件中的每个脚本都由一个 `<office:script>`元素。这些脚本元素包含在单个 `<office:scripts>`元素。加载文档时脚本不会更新文档。
 ### 字体声明###
 
 字体声明包含有关文档作者使用的字体的信息。此信息有助于在其他系统上找到这些字体。

@@ -18,7 +18,7 @@
 
 ## Tệp MPO là gì?
 
-Tệp MPO là một hình ảnh 3D lập thể xuất hiện sau khi chồng chéo hai hình ảnh 2D. Những loại hình ảnh này được tạo bởi máy ảnh kỹ thuật số và được sử dụng rộng rãi trong máy chơi game video 3D và TV 3D. Tệp MPO còn được gọi là đối tượng nhiều ảnh vì chúng chứa hai ảnh [JPEG](/vi/image/jpg/) trở lên.
+Tệp MPO là một hình ảnh 3D lập thể xuất hiện sau khi chồng chéo hai hình ảnh 2D. Những loại hình ảnh này được tạo bởi máy ảnh kỹ thuật số và được sử dụng rộng rãi trong máy chơi game video 3D và TV 3D. Tệp MPO còn được gọi là đối tượng nhiều ảnh vì chúng chứa hai ảnh [JPEG](/vi/image/jpeg/) trở lên.
 
 ## Lịch sử tóm tắt về định dạng tệp MPO
 

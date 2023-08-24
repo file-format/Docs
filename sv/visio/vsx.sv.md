@@ -20,7 +20,7 @@
 
 ## Vad är VSX fil?
 
-Filer med filtillägget .vsx hänvisar till schabloner som består av ritningar och former som används för att skapa diagram i Microsoft Visio. VSX-filer sparas i XML-filformat och stöddes fram till Visio 2013. Dessa skiljer sig från det primära [VSDX](/sv/image/vsdx/) filformatet som introducerades med Microsoft Visio 2013. VSX-filer kan öppnas i vilken textredigerare som helst för att se innehållet. VSX-filer kan konverteras till flera olika filformat som PDF och HTML.
+Filer med filtillägget .vsx hänvisar till schabloner som består av ritningar och former som används för att skapa diagram i Microsoft Visio. VSX-filer sparas i XML-filformat och stöddes fram till Visio 2013. Dessa skiljer sig från det primära [VSDX](/sv/visio/vsdx/) filformatet som introducerades med Microsoft Visio 2013. VSX-filer kan öppnas i vilken textredigerare som helst för att se innehållet. VSX-filer kan konverteras till flera olika filformat som PDF och HTML.
 
 ## VSX-filformat ##
 

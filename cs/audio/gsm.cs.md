@@ -23,7 +23,7 @@ GSM je přípona souboru, která je spojena s Global System for Mobile Audio For
 
 GSM soubor je zakódován ztrátovým kodekem pro kompresi zvuku CBR (Constant bitrate). Vzorkovací frekvence v GSM audio souboru je 8000 vzorků za sekundu, zatímco datová rychlost je přibližně 13 kbps. Datový tok v rámci souborů GSM zajišťuje kvalitu při nahrávání hlasu. Kromě toho je formát souboru GSM také známý jako globální standardní formát pro použití v mobilních telefonech a soubory WAV lze také snadno kódovat pomocí formátu souborů GSM. Jakékoli problémy s GSM souborem může uživatel snadno vyřešit sám, aniž by šel za odborníkem.
 
-Uživatelé mohou také převádět GSM soubory do formátů [MP3](/cs/audio/mp3/) a [MP4](/cs/audio/mp4/).
+Uživatelé mohou také převádět GSM soubory do formátů [MP3](/cs/audio/mp3/) a [MP4](/cs/video/mp4/).
 
 ## Stručná historie formátu souborů GSM
 

@@ -19,7 +19,7 @@
 
 ## Co je soubor PMLZ?
 
-Palm Inc představil typ souboru eBook; známý jako formát souboru PMLZ, což je komprimovaná verze formátu souboru [PML](/cs/ebook/pml/), proto jsou soubory s příponou .pmlz známé jako **Zipped Palm Markup Language File**. Soubor PMLZ je pouze kontejner zip souboru, který kompiluje soubory [PDB](/cs/ebook/pdb/) za účelem vytvoření dokumentů pro **eReader** (známý jako zařízení pro čtení elektronických knih, jako je tablet). Soubor PML poskytuje rozvržení souboru PDB (obsahujícího různé datové soubory), který se zobrazí na zařízení Palm. Zatímco soubor PDB je databázový soubor, který používají různé aplikace, včetně Quicken, Pegasus, Microsoft Visual Studio a Palm Pilot. Stručně řečeno, PMLZ je komprimovaný kontejner souborů PML a PDB.
+Palm Inc představil typ souboru eBook; známý jako formát souboru PMLZ, což je komprimovaná verze formátu souboru [PML](/cs/ebook/pml/), proto jsou soubory s příponou .pmlz známé jako **Zipped Palm Markup Language File**. Soubor PMLZ je pouze kontejner zip souboru, který kompiluje soubory [PDB](/cs/programming/pdb/) za účelem vytvoření dokumentů pro **eReader** (známý jako zařízení pro čtení elektronických knih, jako je tablet). Soubor PML poskytuje rozvržení souboru PDB (obsahujícího různé datové soubory), který se zobrazí na zařízení Palm. Zatímco soubor PDB je databázový soubor, který používají různé aplikace, včetně Quicken, Pegasus, Microsoft Visual Studio a Palm Pilot. Stručně řečeno, PMLZ je komprimovaný kontejner souborů PML a PDB.
 
 
 ## Znalost jazyka Palm Markup Language

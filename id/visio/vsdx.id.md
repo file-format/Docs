@@ -20,7 +20,7 @@
 
 ## Apa itu file VSDX?
 
-File dengan ekstensi .vsdx mewakili format file Microsoft Visio yang diperkenalkan dari Microsoft Office 2013 dan seterusnya. Ini dikembangkan untuk menggantikan format file biner, [.VSD](/id/image/vsd/), yang didukung oleh versi Microsoft Visio sebelumnya. Itu juga didukung pada Layanan Visio di Microsoft SharePoint Server 2013 dan tidak memerlukan format file perantara untuk menerbitkan ke SharePoint Server. File Visio digunakan untuk membuat gambar yang berisi objek visual, diagram alur, diagram UML, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model database, pemetaan objek, dan informasi serupa lainnya. File yang dibuat menggunakan Visio juga dapat diekspor ke berbagai format file seperti [PNG](/id/image/png/), [BMP](/id/image/bmp/), [PDF](/id/pdf/), dan lainnya.
+File dengan ekstensi .vsdx mewakili format file Microsoft Visio yang diperkenalkan dari Microsoft Office 2013 dan seterusnya. Ini dikembangkan untuk menggantikan format file biner, [.VSD](/id/visio/vsd/), yang didukung oleh versi Microsoft Visio sebelumnya. Itu juga didukung pada Layanan Visio di Microsoft SharePoint Server 2013 dan tidak memerlukan format file perantara untuk menerbitkan ke SharePoint Server. File Visio digunakan untuk membuat gambar yang berisi objek visual, diagram alur, diagram UML, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model database, pemetaan objek, dan informasi serupa lainnya. File yang dibuat menggunakan Visio juga dapat diekspor ke berbagai format file seperti [PNG](/id/image/png/), [BMP](/id/image/bmp/), [PDF](/id/pdf/), dan lainnya.
 
 ## Format File ##
 

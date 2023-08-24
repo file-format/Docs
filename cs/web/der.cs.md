@@ -19,7 +19,7 @@
 
 ## Co je soubor DER?
 
-Soubor DER je soubor digitálního certifikátu, který je vytvořen a uložen v binárním formátu. Jedná se o binární kódování pro certifikáty X.509 a soukromé klíče. Na rozdíl od souborů PEM ([CRT](https://docs.fileformat.com/web/crt/), [CER](https://docs.fileformat.com/web/cer/)), soubory DER ano neobsahují pro člověka čitelné prosté textové příkazy, jako je -----ZAČÁTEK CERTIFIKÁTU-----. Většinou se používají v kontextu Javy.
+Soubor DER je soubor digitálního certifikátu, který je vytvořen a uložen v binárním formátu. Jedná se o binární kódování pro certifikáty X.509 a soukromé klíče. Na rozdíl od souborů PEM ([CRT](/web/crt/), [CER](/web/cer/)), soubory DER ano neobsahují pro člověka čitelné prosté textové příkazy, jako je -----ZAČÁTEK CERTIFIKÁTU-----. Většinou se používají v kontextu Javy.
 
 ## Formát souboru DER - Další informace
 

@@ -19,7 +19,7 @@
 
 ## Apa itu file DBM?
 
-File dengan ekstensi .dbm (Database Markup Language) adalah File Server ColdFusion yang dikembangkan oleh Adobe Systems. Ini adalah file sisi server yang dijalankan di server web yang memiliki ColdFusion. Mirip dengan file [ASP](/id/web/asp/) dan [PHP](/id/web/php/) dan menghasilkan [HTML](/id/web/html/) saat pengguna meminta halaman di browser web. File DBM dapat dibuka di aplikasi seperti Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate, dan Apple Safari.
+File dengan ekstensi .dbm (Database Markup Language) adalah File Server ColdFusion yang dikembangkan oleh Adobe Systems. Ini adalah file sisi server yang dijalankan di server web yang memiliki ColdFusion. Mirip dengan file [ASP](/id/web/asp/) dan [PHP](/id/programming/php/) dan menghasilkan [HTML](/id/web/html/) saat pengguna meminta halaman di browser web. File DBM dapat dibuka di aplikasi seperti Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate, dan Apple Safari.
 
 ## Format File DB
 

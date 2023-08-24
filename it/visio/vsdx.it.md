@@ -20,7 +20,7 @@
 
 ## Che cos'è un file VSDX?
 
-I file con estensione .vsdx rappresentano il formato di file Microsoft Visio introdotto da Microsoft Office 2013 in poi. È stato sviluppato per sostituire il formato di file binario, [.VSD](/it/image/vsd/), supportato dalle versioni precedenti di Microsoft Visio. È inoltre supportato in Visio Services in Microsoft SharePoint Server 2013 e non richiede un formato file intermedio per la pubblicazione su SharePoint Server. I file Visio vengono utilizzati per creare disegni che contengono oggetti visivi, diagrammi di flusso, diagramma UML, flusso di informazioni, organigrammi, diagrammi software, layout di rete, modelli di database, mappatura di oggetti e altre informazioni simili. I file generati utilizzando Visio possono anche essere esportati in diversi formati di file come [PNG](/it/image/png/), [BMP](/it/image/bmp/), [PDF](/it/pdf/) e altri.
+I file con estensione .vsdx rappresentano il formato di file Microsoft Visio introdotto da Microsoft Office 2013 in poi. È stato sviluppato per sostituire il formato di file binario, [.VSD](/it/visio/vsd/), supportato dalle versioni precedenti di Microsoft Visio. È inoltre supportato in Visio Services in Microsoft SharePoint Server 2013 e non richiede un formato file intermedio per la pubblicazione su SharePoint Server. I file Visio vengono utilizzati per creare disegni che contengono oggetti visivi, diagrammi di flusso, diagramma UML, flusso di informazioni, organigrammi, diagrammi software, layout di rete, modelli di database, mappatura di oggetti e altre informazioni simili. I file generati utilizzando Visio possono anche essere esportati in diversi formati di file come [PNG](/it/image/png/), [BMP](/it/image/bmp/), [PDF](/it/pdf/) e altri.
 
 ## Formato del file ##
 

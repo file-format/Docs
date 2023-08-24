@@ -52,7 +52,4 @@ PPDM データ モデルは、DLIS データを含む適切なログ データ�
 
 PPDM データ モデルと DLIS データを一緒に使用すると、業界標準と一致し、他のシステムやアプリケーションから簡単にアクセスできる方法で、適切なログ データを保存および管理できます。
 
-## 参考文献
-※【デジタルウェルログデータのフォーマット】(http://w3.energistics.org/rp66/V1/Toc/main.html)
-* [DLIS - データ編成](http://w3.energistics.org/rp66/V1/Toc/main.html)
 

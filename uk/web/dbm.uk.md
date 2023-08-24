@@ -19,7 +19,7 @@
 
 ## Що таке файл DBM?
 
-Файл із розширенням .dbm (мова розмітки бази даних) — це серверний файл ColdFusion, розроблений Adobe Systems. Це серверний файл, який виконується на веб-сервері з ColdFusion. Він подібний до файлів [ASP](/uk/web/asp/) і [PHP](/uk/web/php/) і генерує [HTML](/uk/web/html/), коли користувач запитує сторінку у веб-браузері. Файли DBM можна відкривати в таких програмах, як Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate та Apple Safari.
+Файл із розширенням .dbm (мова розмітки бази даних) — це серверний файл ColdFusion, розроблений Adobe Systems. Це серверний файл, який виконується на веб-сервері з ColdFusion. Він подібний до файлів [ASP](/uk/web/asp/) і [PHP](/uk/programming/php/) і генерує [HTML](/uk/web/html/), коли користувач запитує сторінку у веб-браузері. Файли DBM можна відкривати в таких програмах, як Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate та Apple Safari.
 
 ## Формат файлу DBM
 

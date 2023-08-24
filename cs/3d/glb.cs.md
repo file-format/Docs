@@ -77,5 +77,5 @@ Tento blok obsahuje binární užitečné zatížení pro geometrii, klíčové 
 
 ## Reference ##
 
-* [Specifikace formátu souboru GLB – Khronos](/cs/3D/GLTF/)
+* [Specifikace formátu souboru GLB – Khronos](/cs/3d/gltf/)
 

@@ -27,7 +27,7 @@ Det var i början av 2000 när Microsoft bestämde sig för att gå för förän
 
 ## XLTM filformatspecifikationer ##
 
-XLTM-filer är baserade på Office OpenXML-filformatet och använder XML och [ZIP](/sv/Compression/ZIP/) för att minska filstorleken. Dessa kan öppnas med Microsoft Excel genom att dubbelklicka på filen. Filorganisationen i ett XLTM-filformat kan observeras genom att döpa om filen till ZIP och sedan extrahera dess innehåll till skiva.
+XLTM-filer är baserade på Office OpenXML-filformatet och använder XML och [ZIP](/sv/compression/zip/) för att minska filstorleken. Dessa kan öppnas med Microsoft Excel genom att dubbelklicka på filen. Filorganisationen i ett XLTM-filformat kan observeras genom att döpa om filen till ZIP och sedan extrahera dess innehåll till skiva.
 
 ### [Content_Types].xml ###
 

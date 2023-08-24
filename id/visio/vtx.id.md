@@ -20,7 +20,7 @@
 
 ## Apa itu file VTX?
 
-File dengan ekstensi .vtx adalah template gambar Microsoft Visio yang disimpan ke disk dalam format file XML. Template ditujukan untuk menyediakan file dengan pengaturan dasar yang dapat digunakan untuk membuat beberapa file Visio dengan pengaturan yang sama. Format serupa lainnya adalah [VST](/id/image/vst/) yang disimpan dalam format biner, bukan XML. File VTX didukung dengan Visio 2010 dan versi yang lebih baru. File Visio digunakan untuk membuat gambar yang berisi objek visual, diagram alur, diagram UML, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model database, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat diekspor ke berbagai format file seperti [PNG](/id/image/png/), [BMP](/id/image/bmp/), PDF, dan lainnya.
+File dengan ekstensi .vtx adalah template gambar Microsoft Visio yang disimpan ke disk dalam format file XML. Template ditujukan untuk menyediakan file dengan pengaturan dasar yang dapat digunakan untuk membuat beberapa file Visio dengan pengaturan yang sama. Format serupa lainnya adalah [VST](/id/visio/vst/) yang disimpan dalam format biner, bukan XML. File VTX didukung dengan Visio 2010 dan versi yang lebih baru. File Visio digunakan untuk membuat gambar yang berisi objek visual, diagram alur, diagram UML, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model database, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat diekspor ke berbagai format file seperti [PNG](/id/image/png/), [BMP](/id/image/bmp/), PDF, dan lainnya.
 
 Jenis file tertentu lainnya yang terdiri dari format file Visio 2013 meliputi:
 

@@ -20,7 +20,7 @@
 
 Programmeerbestanden zijn broncodebestanden die door programmeertalen worden gebruikt om softwaretoepassingen te schrijven om bepaalde taken uit te voeren. Elke programmeertaal heeft zijn eigen syntaxis en heeft zijn eigen set bestanden voor het schrijven van code in de vorm van bibliotheken, headerbestanden, klassen of constanten. Op basis van de gebruikte programmeertaal, zal de bestandsindeling van de broncode anders zijn om te voldoen aan de syntaxisregel die door die taal is gedefinieerd.
 
-Veelgebruikte extensies voor ontwikkelaars of programmeerbestanden en de bijbehorende bestandsindelingen zijn **[C#](/nl/programming/cs/)** (CSharp Source Code File), **[CPP](/nl/programming/cpp/)** (C++ Source bestand) en **[VB](/nl/programmering/vb/)** (Visual Basic-broncodebestand).
+Veelgebruikte extensies voor ontwikkelaars of programmeerbestanden en de bijbehorende bestandsindelingen zijn **[C#](/nl/programming/cs/)** (CSharp Source Code File), **[CPP](/nl/programming/cpp/)** (C++ Source bestand) en **[VB](/nl/programming/vb/)** (Visual Basic-broncodebestand).
 
 Heeft u vragen met betrekking tot programmeerbestandsindelingen? Ga naar onze community [forums](https://forum.fileformat.com/c/programming/26) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
 

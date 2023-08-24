@@ -43,7 +43,7 @@ Ezeket a változókat az Asterisk által küldött üres sor követi, jelezve, h
 
 ### Programozási nyelv AGI Script Files számára
 
-Az AGI-szkriptek általában Perl, [PHP](/hu/programing/php/), [C](/hu/programming/c/), Pascal vagy Bourne Shell nyelven írhatók.
+Az AGI-szkriptek általában Perl, [PHP](/hu/programming/php/), [C](/hu/programming/c/), Pascal vagy Bourne Shell nyelven írhatók.
 
 ## Hivatkozások
 

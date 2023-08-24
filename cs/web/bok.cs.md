@@ -24,7 +24,7 @@ Soubory BOK lze upravovat pomocí eBay ProStores a otevírat v libovolném webov
 
 ## Formát souboru BOK
 
-Soubory BOK se ukládají jako webové stránky, které jsou obecně ve formátu souborů srozumitelném prohlížeči, jako je [HTML](/cs/web/html/) nebo [PHP](/cs/web/php/). Obsah těchto stránek se načítá z databáze ProStores za běhu, když nějaký zákazník navštíví výlohu.
+Soubory BOK se ukládají jako webové stránky, které jsou obecně ve formátu souborů srozumitelném prohlížeči, jako je [HTML](/cs/web/html/) nebo [PHP](/cs/programming/php/). Obsah těchto stránek se načítá z databáze ProStores za běhu, když nějaký zákazník navštíví výlohu.
 
 ## Reference
 

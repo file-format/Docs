@@ -18,7 +18,7 @@
 
 ## MPO dosyası nedir?
 
-Bir MPO dosyası, iki 2B görüntünün üst üste gelmesinden sonra ortaya çıkan stereoskopik bir 3B görüntüdür. Bu tür görüntüler dijital kameralar tarafından oluşturulur ve 3D video oyun konsollarında ve 3D TV'de yaygın olarak kullanılır. MPO dosyaları, iki veya daha fazla [JPEG](/tr/image/jpg/) görüntü içerdiklerinden çoklu resim nesneleri olarak da bilinirler.
+Bir MPO dosyası, iki 2B görüntünün üst üste gelmesinden sonra ortaya çıkan stereoskopik bir 3B görüntüdür. Bu tür görüntüler dijital kameralar tarafından oluşturulur ve 3D video oyun konsollarında ve 3D TV'de yaygın olarak kullanılır. MPO dosyaları, iki veya daha fazla [JPEG](/tr/image/jpeg/) görüntü içerdiklerinden çoklu resim nesneleri olarak da bilinirler.
 
 ## MPO Dosya Formatının Kısa Tarihi
 

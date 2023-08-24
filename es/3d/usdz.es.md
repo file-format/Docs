@@ -41,7 +41,7 @@ Los paquetes USDZ requieren que el diseño de los archivos dentro del paquete se
 ## Descarga de archivos USDZ
 Dado que los archivos usdz están empaquetados con otras imágenes de alta calidad y archivos usd, pueden ocupar un mayor espacio de almacenamiento en disco. Aquí puede encontrar un archivo de ejemplo USDZ simple y más pequeño para descargar:
 
-- [Muestra.usdz](../sample.usdz)
+- [Sample.usdz](../sample.usdz)
 
 ## Referencias
 

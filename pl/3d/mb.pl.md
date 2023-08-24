@@ -31,7 +31,7 @@ Pliki MB są w formacie pliku binarnego, który jest skompresowanym formatem pli
 
 Trochę trudno jest znaleźć i pobrać plik MB modelu 3D. Dlatego możesz pobrać przykładowy plik MB stąd:
 
-- [Próbka.mb](../próbka.mb)
+- [Sample.mb](../sample.mb)
 
 ## Bibliografia
 

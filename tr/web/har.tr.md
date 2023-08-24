@@ -19,7 +19,7 @@
 
 ## HAR dosyası nedir?
 
-.har ([HTTP](/tr/web/http/) Arşiv) dosyasına sahip bir dosya, birçok tarayıcı (Chrome, Safari, IE, Firefox vb.) üzerinden aktarılan oturum verilerini [JSON] içinde depolayan bir HTTP arşiv dosyasıdır. (/tr/web/json/) dosya biçimi. Sunucu ve istemci (bu durumda kullanıcının tarayıcısı) arasında internet üzerinden aktarılan veriler, HAR dosyasında saklanan HTTP istek ve yanıt başlıklarını içerir. Ayrıca, tarayıcıda yüklenen web sayfalarıyla ilgili performans verileri hakkında ayrıntılı bilgiler içerir. HAR dosyaları, Microsoft Windows işletim sistemindeki Not Defteri ve Apple MacOS'taki TextEdit gibi herhangi bir metin düzenleyicide açılabilir.
+.har (HTTP Arşiv) dosyasına sahip bir dosya, birçok tarayıcı (Chrome, Safari, IE, Firefox vb.) üzerinden aktarılan oturum verilerini [JSON] içinde depolayan bir HTTP arşiv dosyasıdır. (/tr/web/json/) dosya biçimi. Sunucu ve istemci (bu durumda kullanıcının tarayıcısı) arasında internet üzerinden aktarılan veriler, HAR dosyasında saklanan HTTP istek ve yanıt başlıklarını içerir. Ayrıca, tarayıcıda yüklenen web sayfalarıyla ilgili performans verileri hakkında ayrıntılı bilgiler içerir. HAR dosyaları, Microsoft Windows işletim sistemindeki Not Defteri ve Apple MacOS'taki TextEdit gibi herhangi bir metin düzenleyicide açılabilir.
 
 ## HAR Dosya Biçimi - Daha Fazla Bilgi
 

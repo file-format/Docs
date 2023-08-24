@@ -25,10 +25,10 @@ A .fodg kiterjesztésű fájl egy Apache OpenOffice Drawing fájlformátum rajze
 
 A FODG az OpenDocument XML fájlformátumán alapul, amely megfelel az OASIS OpenDocument Format ISO/IEC 26300 szabványnak. Internet Media Type application/vnd.oasis.opendocument.graphics, valamint az org.oasis-open.opendocument public.composite-content szabványnak is megfelel. . Az XML-struktúra közös minden dokumentumtípusnál, például táblázatoknál, rajzfájloknál és szöveges dokumentumoknál. Az OpenOffice-dokumentumok a tartalom, a stílusok, a metaadatok és az alkalmazásbeállítások négy különálló XML-fájlba történő szétválasztásával kihasználják a problémák szétválasztását.
 
-`<office:document-content> ` - Dokumentumtartalom és a tartalomban használt automatikus stílusok.
-`<office:document-styles> ` - A dokumentumtartalomban használt stílusok és magukban a stílusokban használt automatikus stílusok.
-`<office:document-meta> ` - A dokumentum metainformációi, például a szerző vagy az utolsó mentési művelet ideje.
-`<office:document-settings> ` - Alkalmazás-specifikus beállítások, például az ablak mérete vagy a nyomtató információi.
+`<office:document-content>` - Dokumentumtartalom és a tartalomban használt automatikus stílusok.
+`<office:document-styles>` - A dokumentumtartalomban használt stílusok és magukban a stílusokban használt automatikus stílusok.
+`<office:document-meta>` - A dokumentum metainformációi, például a szerző vagy az utolsó mentési művelet ideje.
+`<office:document-settings>` - Alkalmazás-specifikus beállítások, például az ablak mérete vagy a nyomtató információi.
 
 ## Referenciák ##
 * [Az 1.3-as verzió szabványosításának jövőbeli specifikációi ](https://docs.oasis-open.org/office/OpenDocument/v1.3/cs01/OpenDocument-v1.3-cs01.zip)

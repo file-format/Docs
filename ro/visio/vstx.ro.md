@@ -20,11 +20,11 @@
 
 ## Ce este un fișier VSTX?
 
-Fișierele cu extensii .vstx sunt fișiere șablon de desen create cu Microsoft Visio 2013 și versiuni ulterioare. Aceste fișiere VSTX oferă punctul de plecare pentru crearea desenelor Visio, salvate ca fișiere [.VSDX](/ro/image/vsdx/), cu aspect și setări implicite. În general, fișierele Visio sunt folosite pentru a crea desene care conțin obiecte vizuale, diagrame de flux, diagramă UML, flux de informații, organigrame, diagrame software, aspect de rețea, modele de baze de date, cartografiere de obiecte și alte informații similare. Fișierele generate folosind Visio pot fi, de asemenea, exportate în diferite formate de fișiere, cum ar fi [PNG](/ro/Imagine/PNG/), [BMP](/ro/Imagine/BMP/), [PDF](/ro/pdf/) și altele. Programele care deschid fișiere VSTX includ Microsoft Visio pentru Windows și Mac care vă permit să deschideți aceste fișiere pentru vizualizare și editare. De asemenea, permite convertirea formatelor de fișiere Visio într-o serie de alte formate.
+Fișierele cu extensii .vstx sunt fișiere șablon de desen create cu Microsoft Visio 2013 și versiuni ulterioare. Aceste fișiere VSTX oferă punctul de plecare pentru crearea desenelor Visio, salvate ca fișiere [.VSDX](/ro/visio/vsdx/), cu aspect și setări implicite. În general, fișierele Visio sunt folosite pentru a crea desene care conțin obiecte vizuale, diagrame de flux, diagramă UML, flux de informații, organigrame, diagrame software, aspect de rețea, modele de baze de date, cartografiere de obiecte și alte informații similare. Fișierele generate folosind Visio pot fi, de asemenea, exportate în diferite formate de fișiere, cum ar fi [PNG](/ro/image/png/), [BMP](/ro/image/bmp/), [PDF](/ro/pdf/) și altele. Programele care deschid fișiere VSTX includ Microsoft Visio pentru Windows și Mac care vă permit să deschideți aceste fișiere pentru vizualizare și editare. De asemenea, permite convertirea formatelor de fișiere Visio într-o serie de alte formate.
 
 # Format fișier VSTX #
 
-„X” din extensia de fișier se referă la formatul de fișier OpenOffice care a fost introdus de Microsoft ca format de fișier arhivă [ZIP](/ro/compression/zip/) pentru înlocuirea formatelor de fișiere binare acceptate anterior. Prin urmare, fișierele VSTX se bazează pe formatul de fișier XML al specificațiilor OpenOffice, spre deosebire de formatul de fișier [.VST](/ro/image/vst/), care este în format binar.
+„X” din extensia de fișier se referă la formatul de fișier OpenOffice care a fost introdus de Microsoft ca format de fișier arhivă [ZIP](/ro/compression/zip/) pentru înlocuirea formatelor de fișiere binare acceptate anterior. Prin urmare, fișierele VSTX se bazează pe formatul de fișier XML al specificațiilor OpenOffice, spre deosebire de formatul de fișier [.VST](/ro/visio/vst/), care este în format binar.
 
 Fișierele VSDX se bazează pe Convențiile de ambalare deschisă și XML, iar dezvoltatorii pot beneficia de acest format învățând cum să lucreze cu aceste fișiere în mod programatic. Formatul moștenește multe dintre aceleași structuri XML ca părțile sale din formatul de fișier Visio XML Drawing (.vdx). Interoperabilitatea cu fișierele Visio este mult crescută, deoarece software-ul terță parte poate manipula fișierele Visio la nivel de format de fișier.
 
@@ -36,7 +36,7 @@ Anumite alte tipuri de fișiere care cuprind formatul de fișier Visio 2013 incl
 * .vstx (șablon Visio)
 * .vstm (șablon Visio activat pentru macrocomandă)
 
-Sub capotă, formatul de fișier Visio 2013 utilizează un mijloc structurat pentru a stoca datele aplicației împreună cu resursele aferente într-o arhivă, cum ar fi [ZIP](/ro/Compression/ZIP/). Fișierul ZIP poate fi extras folosind orice utilitar de extragere standard unde conține și alte tipuri de fișiere. Puteți înlocui doar extensia de fișier .VSTX cu .ZIP în Windows Explorer pentru a vedea conținutul din fișierul VSTX.
+Sub capotă, formatul de fișier Visio 2013 utilizează un mijloc structurat pentru a stoca datele aplicației împreună cu resursele aferente într-o arhivă, cum ar fi [ZIP](/ro/compression/zip/). Fișierul ZIP poate fi extras folosind orice utilitar de extragere standard unde conține și alte tipuri de fișiere. Puteți înlocui doar extensia de fișier .VSTX cu .ZIP în Windows Explorer pentru a vedea conținutul din fișierul VSTX.
 
 Fiecare fișier Visio este denumit pachet care conține alte fișiere sau părți. O parte a pachetului poate fi un fișier XML, o imagine sau chiar o soluție VBA. Părțile din pachet pot fi împărțite în părți „document” și „relație”.
 

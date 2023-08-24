@@ -19,7 +19,7 @@
 
 ## Bir QGZ dosyası nedir?
 
-**QGZ** dosya biçimi, bir [QGS](https://docs.fileformat.com/gis/qgs/) dosyası ve bir QGD dosyası içeren sıkıştırılmış bir arşivdir. Oysa QGD dosyası, proje için yardımcı verilerden oluşan qgis projesinin sqlite veritabanıdır. Yardımcı veri yoksa, QGD dosyası boş kalacaktır.
+**QGZ** dosya biçimi, bir [QGS](/gis/qgs/) dosyası ve bir QGD dosyası içeren sıkıştırılmış bir arşivdir. Oysa QGD dosyası, proje için yardımcı verilerden oluşan qgis projesinin sqlite veritabanıdır. Yardımcı veri yoksa, QGD dosyası boş kalacaktır.
 
 ## QGZ Dosya Biçimi ile ilgili ayrıntılar
 

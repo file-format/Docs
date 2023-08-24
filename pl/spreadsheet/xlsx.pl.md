@@ -23,7 +23,7 @@
 
 ## Krótka historia formatu pliku XLSX
 
-Format pliku XLSX został wprowadzony w 2007 roku i wykorzystuje standard Open XML zaadaptowany przez firmę Microsoft w 2000 roku. Przed XLSX powszechnie używanym formatem pliku był [XLS](/pl/arkusz kalkulacyjny/xls/), który był czysto binarnym formatem pliku. Nowy typ pliku ma dodatkowe zalety związane z małymi rozmiarami plików, mniejszymi zmianami uszkodzeń i dobrze sformatowaną reprezentacją obrazów. To było na początku 2000 roku, kiedy Microsoft zdecydował się na zmianę, aby dostosować się do standardu **Office Open XML**. Do 2007 roku ten nowy format plików stał się częścią pakietu Office 2007 i jest również stosowany w nowych wersjach pakietu Microsoft Office.
+Format pliku XLSX został wprowadzony w 2007 roku i wykorzystuje standard Open XML zaadaptowany przez firmę Microsoft w 2000 roku. Przed XLSX powszechnie używanym formatem pliku był [XLS](/pl/spreadsheet/xls/), który był czysto binarnym formatem pliku. Nowy typ pliku ma dodatkowe zalety związane z małymi rozmiarami plików, mniejszymi zmianami uszkodzeń i dobrze sformatowaną reprezentacją obrazów. To było na początku 2000 roku, kiedy Microsoft zdecydował się na zmianę, aby dostosować się do standardu **Office Open XML**. Do 2007 roku ten nowy format plików stał się częścią pakietu Office 2007 i jest również stosowany w nowych wersjach pakietu Microsoft Office.
 
 ## Specyfikacje formatu plików XLSX
 

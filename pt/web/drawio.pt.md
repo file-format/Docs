@@ -19,7 +19,7 @@
 
 ## O que é um arquivo DRAWIO?
 
-Um arquivo com extensão .drawio é um arquivo de desenho criado com o draw.io do [diagrams.net](https://www.diagrams.net/) que é um programa de código aberto para trabalhar com diagramas. Ele contém informações gerais sobre o conteúdo e a formatação dos elementos do diagrama, como texto, imagens, layout, formas e posicionamento. Os diagramas suportados pelo DRAWIO incluem fluxogramas, organogramas, mapas, elementos de engenharia, diagramas de processo, gráficos e muito mais. Os arquivos DRAWIO podem ser exportados para vários formatos diferentes, como [JPG](/pt/image/jpeg/), [PNG](/pt/image/png/), [BMP](/pt/image/bmp/), [XML](/pt/web /xml/), PDF, [HTML](/pt/web/html/) e [VSDX](/pt/image/vsdx/).
+Um arquivo com extensão .drawio é um arquivo de desenho criado com o draw.io do [diagrams.net](https://www.diagrams.net/) que é um programa de código aberto para trabalhar com diagramas. Ele contém informações gerais sobre o conteúdo e a formatação dos elementos do diagrama, como texto, imagens, layout, formas e posicionamento. Os diagramas suportados pelo DRAWIO incluem fluxogramas, organogramas, mapas, elementos de engenharia, diagramas de processo, gráficos e muito mais. Os arquivos DRAWIO podem ser exportados para vários formatos diferentes, como [JPG](/pt/image/jpeg/), [PNG](/pt/image/png/), [BMP](/pt/image/bmp/), [XML](/pt/web/xml/), PDF, [HTML](/pt/web/html/) e [VSDX](/pt/visio/vsdx/).
 
 ## Formato de arquivo DRAWIO
 

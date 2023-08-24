@@ -29,8 +29,8 @@ Fișierele PPSX sunt salvate în formatul Open XML, care a fost introdus în Mic
 
 ## Vezi si ##
 
-* [PPT](/ro/prezentare/ppt/)
-* [PPTX](/ro/prezentare/pptx/)
+* [PPT](/ro/presentation/ppt/)
+* [PPTX](/ro/presentation/pptx/)
 
 ## Referințe ##
 

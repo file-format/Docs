@@ -32,7 +32,7 @@ Versie 3 breidde dit verder uit, waarbij veel gebruik werd gemaakt van de techno
 
 ## Specificaties WPD-bestandsindeling ##
 
-WPD-documenten werden voornamelijk gebruikt om voorbereide tekst te verwerken. Als gevolg hiervan bevatten die bestanden tekstblokken. Tags worden gebruikt om opmaakinformatie te bevatten, die WordPerfect herkent als code. Dit maakt het vinden van opmaakproblemen veel gemakkelijker omdat de toepassing delen van de tekst markeert en de overgeërfde opmaak blootlegt. WPD-documenten kunnen, net als meer populaire bestandstypen voor tekstverwerking, zoals [DOC](/nl/tekstverwerking/doc/), gegevens uit verschillende bronnen bevatten, zoals bestanden, databases of ontwerpen.
+WPD-documenten werden voornamelijk gebruikt om voorbereide tekst te verwerken. Als gevolg hiervan bevatten die bestanden tekstblokken. Tags worden gebruikt om opmaakinformatie te bevatten, die WordPerfect herkent als code. Dit maakt het vinden van opmaakproblemen veel gemakkelijker omdat de toepassing delen van de tekst markeert en de overgeërfde opmaak blootlegt. WPD-documenten kunnen, net als meer populaire bestandstypen voor tekstverwerking, zoals [DOC](/nl/word-processing/doc/), gegevens uit verschillende bronnen bevatten, zoals bestanden, databases of ontwerpen.
 ## Referenties ##
 
 * [WPD - Wikipedia](https://en.wikipedia.org/wiki/WordPerfect)

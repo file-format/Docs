@@ -26,12 +26,12 @@ TE 파일의 내부 파일 형식을 알 수 없습니다. Textease는 소프트
 
 ## TE 필드 유형
 
-* 텍스트
-* 숫자
-* [이미지](/ko/이미지/)
-* 색깔
-* 날짜(DD/MM/YYYY)
-* 통화
+* Text
+* Number
+* [Image](/ko/image/)
+* Colour
+* Date (DD/MM/YYYY)
+* Currency
 
 ## 참조 ##
 

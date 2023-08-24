@@ -24,7 +24,7 @@ Fișierele BOK pot fi editate cu eBay ProStores și deschise în orice browser w
 
 ## Format de fișier BOK
 
-Fișierele BOK sunt salvate ca pagini web care sunt în general în format de fișier ușor de înțeles de browser, cum ar fi [HTML](/ro/web/html/) sau [PHP](/ro/web/php/). Conținutul acestor pagini este încărcat din baza de date ProStores în timpul rulării, când un client vizitează vitrina.
+Fișierele BOK sunt salvate ca pagini web care sunt în general în format de fișier ușor de înțeles de browser, cum ar fi [HTML](/ro/web/html/) sau [PHP](/ro/programming/php/). Conținutul acestor pagini este încărcat din baza de date ProStores în timpul rulării, când un client vizitează vitrina.
 
 ## Referințe
 

@@ -40,7 +40,7 @@ Los archivos JXL se guardan como archivos binarios y se pueden abrir en Windows 
 
 Los archivos JXL se pueden convertir a otros formatos de archivo de imagen, como:
 
-* [.JPEG](/es/imagen/jpeg/) - Imagen JPEG
+* [.JPEG](/es/image/jpeg/) - Imagen JPEG
 * [.GIF](/es/image/gif/) - Formato de intercambio gráfico
 * [.PNG](/es/image/png/) - Gráfico de red portátil
 * [.TIFF](/es/image/tiff/) - Formato de archivo de imagen etiquetado
@@ -48,7 +48,7 @@ Los archivos JXL se pueden convertir a otros formatos de archivo de imagen, como
 * [.PCX](/es/image/pcx/) - Imagen de mapa de bits de pincel
 * [.TGA](/es/image/tga/) - Gráfico Targa
 * [.JPX](/es/image/jpx/) - Imagen JPEG 2000
-* [.JXR](/es/imagen/jxr/) - Imagen JPEG XR
+* [.JXR](/es/image/jxr/) - Imagen JPEG XR
 * [.WEBP](/es/image/webp/) - Imagen WebP
 
 ## Referencias

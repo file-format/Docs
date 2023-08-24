@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo PML?
 
-Palm Inc introdujo el formato de archivo PML que significa Palm Markup Language File. Su propósito es crear documentos para eReader, que es un dispositivo de lectura de libros electrónicos similar a la tableta. El archivo PML da el diseño a un archivo [PDB](/es/ebook/pdb/) (que contiene varios archivos de datos) para mostrar en un dispositivo Palm.
+Palm Inc introdujo el formato de archivo PML que significa Palm Markup Language File. Su propósito es crear documentos para eReader, que es un dispositivo de lectura de libros electrónicos similar a la tableta. El archivo PML da el diseño a un archivo [PDB](/es/programming/pdb/) (que contiene varios archivos de datos) para mostrar en un dispositivo Palm.
 
 ## Detalles técnicos de los archivos PML
 

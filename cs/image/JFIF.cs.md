@@ -73,7 +73,7 @@ Toto je volitelná sekce, která, pokud je definována, musí bezprostředně n�
 
 ## Převod JFIF na jiné formáty obrazových souborů
 
-JFIF lze převést na oblíbené formáty souborů obrázků, jako je [PNG](/cs/image/png/), [JPG](/cs/image/jpg/) a [PDF](/cs/pdf/).
+JFIF lze převést na oblíbené formáty souborů obrázků, jako je [PNG](/cs/image/png/), [JPG](/cs/image/jpeg/) a [PDF](/cs/pdf/).
 
 ## Reference ##
 

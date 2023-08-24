@@ -20,7 +20,7 @@
 
 ## Co je soubor VSS?
 
-VSS jsou soubory vzorníku vytvořené pomocí aplikace Microsoft Visio 2007 a starší. Relativně novým formátem souborů je [VSSX](/cs/image/vssx/), který byl zaveden s aplikací Microsoft Visio 2013. Soubory vzorníků poskytují objekty výkresu, které lze zahrnout do výkresu .VSD Visio. Samotné Microsoft Visio je známé vytvářením prvků kreslení, jako jsou kolekce tvarů, konektory, vývojové diagramy, rozložení sítě, diagramy UML, softwarové diagramy, databázové modely, mapování objektů a další podobné informace. Má také bohaté funkce převodu dokumentů Visio do jiných formátů souborů, jako jsou PNG, BMP, PDF a další. Visio je k dispozici pro Windows i Mac OS.
+VSS jsou soubory vzorníku vytvořené pomocí aplikace Microsoft Visio 2007 a starší. Relativně novým formátem souborů je [VSSX](/cs/visio/vssx/), který byl zaveden s aplikací Microsoft Visio 2013. Soubory vzorníků poskytují objekty výkresu, které lze zahrnout do výkresu .VSD Visio. Samotné Microsoft Visio je známé vytvářením prvků kreslení, jako jsou kolekce tvarů, konektory, vývojové diagramy, rozložení sítě, diagramy UML, softwarové diagramy, databázové modely, mapování objektů a další podobné informace. Má také bohaté funkce převodu dokumentů Visio do jiných formátů souborů, jako jsou PNG, BMP, PDF a další. Visio je k dispozici pro Windows i Mac OS.
 
 ## Formát souboru VSS
 

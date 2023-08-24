@@ -27,7 +27,7 @@ Microsoft, **Office Açık XML** standardına uymak için değişikliğe gitmeye
 
 ## XLTM Dosya Biçimi Özellikleri ##
 
-XLTM dosyaları, Office OpenXML dosya biçimini temel alır ve dosya boyutunu küçültmek için XML ve [ZIP](/tr/Compression/ZIP/) kullanır. Bunlar, dosyaya çift tıklanarak Microsoft Excel ile açılabilir. Bir XLTM dosya biçimindeki dosya organizasyonu, dosyayı ZIP olarak yeniden adlandırarak ve ardından içeriğini diske çıkararak gözlemlenebilir.
+XLTM dosyaları, Office OpenXML dosya biçimini temel alır ve dosya boyutunu küçültmek için XML ve [ZIP](/tr/compression/zip/) kullanır. Bunlar, dosyaya çift tıklanarak Microsoft Excel ile açılabilir. Bir XLTM dosya biçimindeki dosya organizasyonu, dosyayı ZIP olarak yeniden adlandırarak ve ardından içeriğini diske çıkararak gözlemlenebilir.
 
 ### [Content_Types].xml ###
 

@@ -52,8 +52,7 @@ Los archivos MAML se pueden crear usando Sandcastle, un conjunto de esquemas .XS
 
 ## Referencias
 
-* [Crear ayuda basada en XML usando PlatyPS
-](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
+* [Crear ayuda basada en XML usando PlatyPS](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
 * [Lenguaje de marcado de asistencia de Microsoft](https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
 
 # AML - Archivo de lenguaje de macro de arco

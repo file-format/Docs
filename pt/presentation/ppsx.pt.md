@@ -29,8 +29,8 @@ Os arquivos PPSX são salvos no formato Open XML, que foi introduzido no Microso
 
 ## Veja também ##
 
-* [PPT](/pt/apresentação/ppt/)
-* [PPTX](/pt/apresentação/pptx/)
+* [PPT](/pt/presentation/ppt/)
+* [PPTX](/pt/presentation/pptx/)
 
 ## Referências ##
 

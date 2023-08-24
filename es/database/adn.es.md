@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo ADN?
 
-Un archivo con extensión .adn es un archivo de plantilla en blanco de Microsoft Access que se utiliza para crear archivos de proyecto de Access con configuraciones prealmacenadas. Los archivos de proyecto de Microsoft Access se guardan como archivos ADP y contienen información como la conexión a la base de datos y la configuración de inicio del proyecto. Existen archivos ADN para las versiones 2007 y 2010 de Microsoft Access. Microsoft Access admite otros formatos de archivo como [MDB](/es/base de datos/mdb/), [ACCDB](/es/base de datos/accdb/), [ACCDC](/es/base de datos/accdc/), [ACCDE](/es/base de datos/accde/ ), y muchos más además de estos archivos ADN. Los archivos ADN se pueden abrir con Office 365 y Microsoft Access.
+Un archivo con extensión .adn es un archivo de plantilla en blanco de Microsoft Access que se utiliza para crear archivos de proyecto de Access con configuraciones prealmacenadas. Los archivos de proyecto de Microsoft Access se guardan como archivos ADP y contienen información como la conexión a la base de datos y la configuración de inicio del proyecto. Existen archivos ADN para las versiones 2007 y 2010 de Microsoft Access. Microsoft Access admite otros formatos de archivo como [MDB](/es/database/mdb/), [ACCDB](/es/database/accdb/), [ACCDC](/es/database/accdc/), [ACCDE](/es/database/accde/ ), y muchos más además de estos archivos ADN. Los archivos ADN se pueden abrir con Office 365 y Microsoft Access.
 
 ## Formato de archivo ADN - Más información
 

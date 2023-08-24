@@ -33,7 +33,7 @@ Có những thay đổi khá nhỏ trong quá trình chuyển đổi từ phiên
 
 ## Thông số kỹ thuật định dạng tệp
 
-Định dạng OpenDocument hỗ trợ biểu diễn tài liệu dưới dạng một tài liệu XML duy nhất cũng như tập hợp một số tài liệu phụ trong một gói dưới dạng kho lưu trữ [ZIP](https://docs.fileformat.com/Compression/ZIP/). Mỗi tệp từ kho lưu trữ ZIP lưu trữ một phần của tài liệu hoàn chỉnh. Mỗi tài liệu con lưu trữ một khía cạnh cụ thể của tài liệu. Ví dụ: một tài liệu con chứa thông tin về kiểu dáng và một tài liệu con khác chứa nội dung của tài liệu. Một tài liệu ODF điển hình có các thành phần sau:
+Định dạng OpenDocument hỗ trợ biểu diễn tài liệu dưới dạng một tài liệu XML duy nhất cũng như tập hợp một số tài liệu phụ trong một gói dưới dạng kho lưu trữ [ZIP](/compression/zip/). Mỗi tệp từ kho lưu trữ ZIP lưu trữ một phần của tài liệu hoàn chỉnh. Mỗi tài liệu con lưu trữ một khía cạnh cụ thể của tài liệu. Ví dụ: một tài liệu con chứa thông tin về kiểu dáng và một tài liệu con khác chứa nội dung của tài liệu. Một tài liệu ODF điển hình có các thành phần sau:
 
 * `content.xml` – Nội dung tài liệu và kiểu tự động được sử dụng trong nội dung.
 * `styles.xml` – Các kiểu được sử dụng trong nội dung tài liệu và các kiểu tự động được sử dụng trong chính các kiểu đó.

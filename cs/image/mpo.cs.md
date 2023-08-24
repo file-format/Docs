@@ -18,7 +18,7 @@
 
 ## Co je soubor MPO?
 
-Soubor MPO je stereoskopický 3D obrázek, který vzniká po překrytí dvou 2D obrázků. Tyto druhy obrázků jsou vytvářeny digitálními fotoaparáty a jsou široce používány v 3D video herních konzolích a 3D TV. Soubory MPO jsou také známé jako objekty s více obrázky, protože obsahují dva nebo více obrázků [JPEG](/cs/image/jpg/).
+Soubor MPO je stereoskopický 3D obrázek, který vzniká po překrytí dvou 2D obrázků. Tyto druhy obrázků jsou vytvářeny digitálními fotoaparáty a jsou široce používány v 3D video herních konzolích a 3D TV. Soubory MPO jsou také známé jako objekty s více obrázky, protože obsahují dva nebo více obrázků [JPEG](/cs/image/jpeg/).
 
 ## Stručná historie formátu souborů MPO
 

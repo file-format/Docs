@@ -26,7 +26,7 @@ IFO-filer sparas med tillägget **.ifo**.
 
 IFO-filer sparas som textfiler och kan öppnas med vilken textredigerare som helst som Microsoft Notepad++, Notepad och Apple TextEdit. Rubrikerna i IFO-filen berättar för DVD-spelare om startskärmen, platsen för varje videospår på skivan, ljudspårens plats och annan relaterad information.
 
-IFO-filer kan skadas om DVD:n får repor. Det är därför en BUP-fil skapas som en säkerhetskopia av IFO-filen. Om IFO-filen inte kan läsas läses BUP-filen istället. Dessa filer är placerade tillsammans med filen [VOB](https://docs.fileformat.com/video/vob/) som innehåller ett index över innehållet på skivan.
+IFO-filer kan skadas om DVD:n får repor. Det är därför en BUP-fil skapas som en säkerhetskopia av IFO-filen. Om IFO-filen inte kan läsas läses BUP-filen istället. Dessa filer är placerade tillsammans med filen [VOB](/video/vob/) som innehåller ett index över innehållet på skivan.
 
 ## Referenser
 

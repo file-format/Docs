@@ -42,11 +42,11 @@ Un élément racine de document contient le document entier et est l'élément p
 ### Éléments racine ###
 Un document XML unique est représenté par son propre élément racine. Les cinq différents éléments racine pris en charge sont les suivants.
 
-`<office:document> ` - Document bureautique complet dans un seul document XML.
-`<office:document-content> ` - Contenu du document et styles automatiques utilisés dans le contenu.
-`<office:document-styles> ` - Styles utilisés dans le contenu du document et styles automatiques utilisés dans les styles eux-mêmes.
-`<office:document-meta> ` - Documenter les méta-informations, telles que l'auteur ou l'heure de la dernière action d'enregistrement.
-`<office:document-settings> ` - Paramètres spécifiques à l'application, tels que la taille de la fenêtre ou les informations sur l'imprimante.
+`<office:document>` - Document bureautique complet dans un seul document XML.
+`<office:document-content>` - Contenu du document et styles automatiques utilisés dans le contenu.
+`<office:document-styles>` - Styles utilisés dans le contenu du document et styles automatiques utilisés dans les styles eux-mêmes.
+`<office:document-meta>` - Documenter les méta-informations, telles que l'auteur ou l'heure de la dernière action d'enregistrement.
+`<office:document-settings>` - Paramètres spécifiques à l'application, tels que la taille de la fenêtre ou les informations sur l'imprimante.
 
 ### Métadonnées de document ODG ###
 L'OpenDocument contient tous les éléments de métadonnées dans le \<office:meta> élément. Ces informations générales sur un document sont contenues au début du document et les applications peuvent mettre à jour plusieurs instances des mêmes éléments.
@@ -61,12 +61,12 @@ Le corps du document indique le type de contenu contenu dans le document à l'ai
 * documents images
 
 ### Paramètres de l'application ###
-Les paramètres des applications bureautiques représentent différents paramètres liés à la configuration du document ou à l'apparence visuelle du document. Chaque catégorie est représentée par un `<config:config-item-set> `. Voici des exemples de ces catégories de paramètres :
+Les paramètres des applications bureautiques représentent différents paramètres liés à la configuration du document ou à l'apparence visuelle du document. Chaque catégorie est représentée par un `<config:config-item-set>`. Voici des exemples de ces catégories de paramètres :
 * Paramètres du document, par exemple l'imprimante par défaut
 * Afficher les paramètres, par exemple le niveau de zoom
 
 ### Scénarios ###
-Il est courant qu'un document contienne plusieurs scripts. Chaque script dans un fichier OpenDocument est représenté par un `<office:script> `élément. Ces éléments de script sont contenus dans un seul `<office:scripts> `élément. Les scripts ne mettent pas à jour un document pendant le chargement du document.
+Il est courant qu'un document contienne plusieurs scripts. Chaque script dans un fichier OpenDocument est représenté par un `<office:script>`élément. Ces éléments de script sont contenus dans un seul `<office:scripts>`élément. Les scripts ne mettent pas à jour un document pendant le chargement du document.
 ### Déclarations des polices ###
 
 Une déclaration de police contient des informations sur les polices utilisées par l'auteur d'un document. Ces informations permettent de localiser ces polices sur d'autres systèmes.

@@ -24,7 +24,7 @@ Pliki z rozszerzeniem .drv należą do sterownika urządzenia systemu Windows. S
 
 ## Format pliku DRV ##
 
-Pliki DRV są zwykle pakowane jako biblioteki dynamiczne (pliki [DDL](/pl/system/dll/)) lub [EXE](/pl/plik wykonywalny/exe/). Pliki te mogą być obsługiwane na wszystkich platformach systemowych, takich jak smartfony i nie ma gwarancji, że każda platforma będzie poprawnie obsługiwać te pliki. Jednak niektóre najczęstsze urządzenia korzystające z rozszerzenia pliku .drv to:
+Pliki DRV są zwykle pakowane jako biblioteki dynamiczne (pliki [DDL](/pl/system/dll/)) lub [EXE](/pl/executable/exe/). Pliki te mogą być obsługiwane na wszystkich platformach systemowych, takich jak smartfony i nie ma gwarancji, że każda platforma będzie poprawnie obsługiwać te pliki. Jednak niektóre najczęstsze urządzenia korzystające z rozszerzenia pliku .drv to:
 
 * Karty dźwiękowe
 * Karty graficzne

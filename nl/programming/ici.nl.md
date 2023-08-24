@@ -19,7 +19,7 @@
 
 ## Wat is een ICI-bestand?
 
-Een programmeertaal voor algemene doeleinden die wordt geïnterpreteerd en verschillende functies bevat, zoals dynamisch typen samen met de flexibele gegevenstypen, staat bekend als ICI-programmeertaal (geen acroniem). Het wordt beschouwd als vergelijkbaar met de taal [Perl](/nl/programmering/pl/). Deze ICI-taal omvat constructies voor flow control en bevat ook enkele operators van de C-taal. Het is geen objectgeoriënteerde taal, maar sommige functies van OOP kunnen worden bereikt door een specifieke overervingsmethode die bekend staat als superstructuren. Net als [C](/nl/programming/c), heeft deze ICI-programmeertaal dezelfde systeeminterface en een standaardbibliotheek voor ingebouwde functies.
+Een programmeertaal voor algemene doeleinden die wordt geïnterpreteerd en verschillende functies bevat, zoals dynamisch typen samen met de flexibele gegevenstypen, staat bekend als ICI-programmeertaal (geen acroniem). Het wordt beschouwd als vergelijkbaar met de taal [Perl](/nl/programming/pl/). Deze ICI-taal omvat constructies voor flow control en bevat ook enkele operators van de C-taal. Het is geen objectgeoriënteerde taal, maar sommige functies van OOP kunnen worden bereikt door een specifieke overervingsmethode die bekend staat als superstructuren. Net als [C](/nl/programming/c), heeft deze ICI-programmeertaal dezelfde systeeminterface en een standaardbibliotheek voor ingebouwde functies.
 
 
 ## Korte geschiedenis ##

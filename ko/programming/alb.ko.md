@@ -29,6 +29,6 @@ ALB 파일은 Alpha File 독점 파일 형식으로 저장되며 내부 파일 �
 
 ## 참고문헌
 
-* [ADB 파일](/ko/데이터베이스/adb/)
+* [ADB 파일](/ko/database/adb/)
 * [Alpha Anywhere IDE](https://documentation.alphasoftware.com/pages/GettingStarted/IDE/index.xml)
 

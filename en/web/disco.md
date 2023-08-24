@@ -18,7 +18,7 @@
 
 ## What is a DISCO file?
 
-A DISCO file is a Microsoft Discovery file format that is used for publishing and discovering Web Services. It is stored in XML file format and lets the Web Services Discovery tools to locate or discover one or more related documents for describing the available [XML](/web/xml/) services. DISCO file stores information such as discovery documents, [XSD](https://docs.fileformat.com/programming/xsd/) schemas, and service descriptions. XML Web services use this information to get to the available XML web services at a given URL.
+A DISCO file is a Microsoft Discovery file format that is used for publishing and discovering Web Services. It is stored in XML file format and lets the Web Services Discovery tools to locate or discover one or more related documents for describing the available [XML](/web/xml/) services. DISCO file stores information such as discovery documents, [XSD](/programming/xsd/) schemas, and service descriptions. XML Web services use this information to get to the available XML web services at a given URL.
 
 ## DISCO File Format - More Information
 

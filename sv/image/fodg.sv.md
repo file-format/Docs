@@ -19,16 +19,16 @@
 
 ## Vad är FODG fil?
 
-En fil med filtillägget .fodg är ett Apache OpenOffice Drawing-filformat för att lagra ritelement. Den är baserad på filformatspecifikationerna som beskrivs av Advancement of Structural Information Standards (OASIS). Ett annat liknande filformat för OpenOffice-grafik är [ODG](/sv/image/odg/) som lagrar ritelement som en vektorbild. FODG-filer kan öppnas med OpenOffice såväl som LibreOffice. Andra filformat som stöds av OpenOffice, till exempel, inkluderar [ODT](/sv/ordbehandling/odt/), ODF, [ODP](/sv/presentation/odp/) och [ODS](/sv/spreadsheet/ods/).
+En fil med filtillägget .fodg är ett Apache OpenOffice Drawing-filformat för att lagra ritelement. Den är baserad på filformatspecifikationerna som beskrivs av Advancement of Structural Information Standards (OASIS). Ett annat liknande filformat för OpenOffice-grafik är [ODG](/sv/image/odg/) som lagrar ritelement som en vektorbild. FODG-filer kan öppnas med OpenOffice såväl som LibreOffice. Andra filformat som stöds av OpenOffice, till exempel, inkluderar [ODT](/sv/word-processing/odt/), ODF, [ODP](/sv/presentation/odp/) och [ODS](/sv/spreadsheet/ods/).
 
 ## FODG filformat
 
 FODG är baserat på OpenDocuments XML-filformat som överensstämmer med OASIS OpenDocument Format ISO/IEC 26300. Det har Internet Media Type application/vnd.oasis.opendocument.graphics och överensstämmer även med org.oasis-open.opendocument public.composite-content . XML-strukturen är gemensam för alla dokumenttyper som kalkylblad, ritfiler och textdokument. OpenOffice-dokument drar fördel av separation av problem genom att separera innehåll, stilar, metadata och programinställningar i fyra separata XML-filer.
 
-`<office:document-content> ` - Dokumentinnehåll och automatiska stilar som används i innehållet.
-`<office:document-styles> ` - Stilar som används i dokumentinnehållet och automatiska stilar som används i själva stilarna.
-`<office:document-meta> ` - Dokumentmetainformation, såsom författaren eller tidpunkten för den senaste sparande åtgärden.
-`<office:document-settings> ` - Programspecifika inställningar, såsom fönsterstorlek eller skrivarinformation.
+`<office:document-content>` - Dokumentinnehåll och automatiska stilar som används i innehållet.
+`<office:document-styles>` - Stilar som används i dokumentinnehållet och automatiska stilar som används i själva stilarna.
+`<office:document-meta>` - Dokumentmetainformation, såsom författaren eller tidpunkten för den senaste sparande åtgärden.
+`<office:document-settings>` - Programspecifika inställningar, såsom fönsterstorlek eller skrivarinformation.
 
 ## Referenser ##
 * [Framtida specifikationer för v 1.3 standardisering ](https://docs.oasis-open.org/office/OpenDocument/v1.3/cs01/OpenDocument-v1.3-cs01.zip)

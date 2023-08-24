@@ -23,7 +23,7 @@ GSM, Global System for Mobile Audio Format Files ile ilişkili bir dosya uzantı
 
 Bir GSM dosyası, kayıplı bir CBR (Sabit bit hızı) ses sıkıştırma codec'i ile kodlanmıştır. Bir GSM ses dosyasındaki örnekleme hızı 8000 örnekleme/saniye iken, veri hızı 13 kbps civarındadır. GSM dosyalarındaki bit hızı, ses kaydı sırasında kaliteyi sağlar. Ayrıca GSM dosya formatı, cep telefonlarında kullanılacak global standart format olarak da bilinir ve WAV dosyaları da bir GSM dosya formatı kullanılarak kolayca kodlanabilir. Bir GSM dosyasıyla ilgili herhangi bir sorun, bir uzmana gitmeden kullanıcının kendisi tarafından kolayca çözülebilir.
 
-Kullanıcılar ayrıca GSM dosyalarını [MP3](/tr/audio/mp3/) ve [MP4](/tr/audio/mp4/) biçimlerine dönüştürebilir.
+Kullanıcılar ayrıca GSM dosyalarını [MP3](/tr/audio/mp3/) ve [MP4](/tr/video/mp4/) biçimlerine dönüştürebilir.
 
 ## GSM Dosya Formatının Kısa Tarihçesi
 

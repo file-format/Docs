@@ -19,7 +19,7 @@
 
 ## Co je soubor DRAWIO?
 
-Soubor s příponou .drawio je soubor výkresu vytvořený pomocí draw.io [diagrams.net](https://www.diagrams.net/), což je open-source program pro práci s diagramy. Obsahuje celkové informace o obsahu a formátování prvků diagramu, jako je text, obrázky, rozvržení, tvary a umístění. Diagramy podporované aplikací DRAWIO zahrnují vývojové diagramy, organizační diagramy, mapy, technické prvky, procesní diagramy, diagramy a další. Soubory DRAWIO lze exportovat do několika různých formátů, například [JPG](/cs/image/jpeg/), [PNG](/cs/image/png/), [BMP](/cs/image/bmp/), [XML](/cs/web /xml/), PDF, [HTML](/cs/web/html/) a [VSDX](/cs/image/vsdx/).
+Soubor s příponou .drawio je soubor výkresu vytvořený pomocí draw.io [diagrams.net](https://www.diagrams.net/), což je open-source program pro práci s diagramy. Obsahuje celkové informace o obsahu a formátování prvků diagramu, jako je text, obrázky, rozvržení, tvary a umístění. Diagramy podporované aplikací DRAWIO zahrnují vývojové diagramy, organizační diagramy, mapy, technické prvky, procesní diagramy, diagramy a další. Soubory DRAWIO lze exportovat do několika různých formátů, například [JPG](/cs/image/jpeg/), [PNG](/cs/image/png/), [BMP](/cs/image/bmp/), [XML](/cs/web/xml/), PDF, [HTML](/cs/web/html/) a [VSDX](/cs/visio/vsdx/).
 
 ## Formát souboru DRAWIO
 

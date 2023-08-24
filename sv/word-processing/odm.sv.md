@@ -18,7 +18,7 @@
 
 ## Vad är en ODM fil?
 
-En fil med filtillägget .odm är en OpenDocument Master-dokumentfil som innehåller en eller flera [.odt](/sv/ord-behandling/odt/)-filer länkade i den. Dessa underdokument är alla kombinerade i det enda huvuddokumentet. Detta gör det enkelt att hantera alla länkade filer från det enda huvuddokumentet. Masterdokumentfiler kan skapas med Apache OpenOffice Writer eller OpenDocument Word Processor. ODM-filer kan exporteras till en enda ODT-fil med hjälp av exportalternativet från OpenOffice Writer-applikationen.
+En fil med filtillägget .odm är en OpenDocument Master-dokumentfil som innehåller en eller flera [.odt](/sv/word-processing/odt/)-filer länkade i den. Dessa underdokument är alla kombinerade i det enda huvuddokumentet. Detta gör det enkelt att hantera alla länkade filer från det enda huvuddokumentet. Masterdokumentfiler kan skapas med Apache OpenOffice Writer eller OpenDocument Word Processor. ODM-filer kan exporteras till en enda ODT-fil med hjälp av exportalternativet från OpenOffice Writer-applikationen.
 
 ## ODM-filformat - Mer information
 

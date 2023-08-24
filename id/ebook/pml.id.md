@@ -19,7 +19,7 @@
 
 ## Apa itu file PML?
 
-Palm Inc memperkenalkan format file PML yang merupakan singkatan dari Palm Markup Language File. Tujuannya adalah membuat dokumen untuk eReader yang merupakan perangkat pembaca eBook yang mirip dengan komputer tablet. File PML memberikan tata letak ke file [PDB](/id/ebook/pdb/) (berisi berbagai file data) untuk ditampilkan di Perangkat Palm.
+Palm Inc memperkenalkan format file PML yang merupakan singkatan dari Palm Markup Language File. Tujuannya adalah membuat dokumen untuk eReader yang merupakan perangkat pembaca eBook yang mirip dengan komputer tablet. File PML memberikan tata letak ke file [PDB](/id/programming/pdb/) (berisi berbagai file data) untuk ditampilkan di Perangkat Palm.
 
 ## Detail teknis File PML
 

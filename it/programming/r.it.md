@@ -21,7 +21,7 @@
 
 Un file con estensione .r appartiene al linguaggio di programmazione R. Questo linguaggio è specifico per il calcolo statistico ed è popolare tra la comunità degli statistici. L'analisi dei dati e lo sviluppo di software statistici sono due categorie principali eseguite da questo linguaggio nel campo del data mining. Un altro vantaggio dell'utilizzo di questo linguaggio e software è che fornisce la possibilità di grafici statici che sono utili nella produzione di grafici di qualità. Alcuni pacchetti aggiuntivi vengono utilizzati per la grafica dinamica e interattiva.
 
-Il software di questa lingua contiene una General Public License, quindi la sua disponibilità è gratuita. Il codice di R è solitamente scritto in linguaggi di alto livello come [C](/it/programmazione/c/) e anche R stesso. Il software prevede un'interfaccia a riga di comando insieme alla disponibilità di interfacce di terze parti come le interfacce utente grafiche di RStudio e Jupyter (interfaccia per notebook). Esistono tecniche statistiche utilizzate nell'implementazione delle librerie di R. Include anche modelli come lineare e non lineare.
+Il software di questa lingua contiene una General Public License, quindi la sua disponibilità è gratuita. Il codice di R è solitamente scritto in linguaggi di alto livello come [C](/it/programming/c/) e anche R stesso. Il software prevede un'interfaccia a riga di comando insieme alla disponibilità di interfacce di terze parti come le interfacce utente grafiche di RStudio e Jupyter (interfaccia per notebook). Esistono tecniche statistiche utilizzate nell'implementazione delle librerie di R. Include anche modelli come lineare e non lineare.
 
 
 ## Breve storia ##

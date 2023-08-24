@@ -104,6 +104,5 @@ http://www.la-grange.net/karl/
 
 ## ดูสิ่งนี้ด้วย ##
 
-* [EML](/th/อีเมล/eml/)
-* [ผงชูรส](/th/อีเมล/msg/)
-
+* [EML](/th/email/eml/)
+* [MSG](/th/email/msg/)

@@ -19,7 +19,7 @@
 
 ## Wat is een XPM-bestand?
 
-Een bestand met de extensie .xpm is een afbeeldingsbestandsindeling die werd gebruikt door het X Windows-systeem. Het ondersteunt transparante pixels en richt zich meestal op het maken van pictogram-pixmaps. Het ondersteunt monochrome, gra-scale en kleuren pixmap-gegevens. Deze zijn ontworpen om met de hand te kunnen worden bewerkt en kunnen worden opgenomen in de [C](/nl/programmering/c/)-code. Voor dit doel zijn XPM-bestanden in platte tekstbestandsindeling en volgen ze de C-programmeertaalsyntaxis. XPM-bestanden kunnen worden geopend met een verscheidenheid aan toepassingen voor het bekijken van afbeeldingen, zoals:
+Een bestand met de extensie .xpm is een afbeeldingsbestandsindeling die werd gebruikt door het X Windows-systeem. Het ondersteunt transparante pixels en richt zich meestal op het maken van pictogram-pixmaps. Het ondersteunt monochrome, gra-scale en kleuren pixmap-gegevens. Deze zijn ontworpen om met de hand te kunnen worden bewerkt en kunnen worden opgenomen in de [C](/nl/programming/c/)-code. Voor dit doel zijn XPM-bestanden in platte tekstbestandsindeling en volgen ze de C-programmeertaalsyntaxis. XPM-bestanden kunnen worden geopend met een verscheidenheid aan toepassingen voor het bekijken van afbeeldingen, zoals:
 CorelDRAW Graphics Suite 2020, Corel PaintShop Pro, IrfanView en Canvas X.
 
 ## XPM-bestandsindeling

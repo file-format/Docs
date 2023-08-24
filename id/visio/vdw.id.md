@@ -19,7 +19,7 @@
 }
 ## Apa itu file VDW?
 
-VDW adalah format file Layanan Grafik Visio yang menentukan aliran dan penyimpanan yang diperlukan untuk merender gambar Web. Gambar web adalah kumpulan halaman gambar, bentuk, font, gambar, koneksi data, dan informasi pembaruan diagram yang dapat dirender sebagai gambar vektor atau raster. File VDW juga dapat dibuka di Microsoft Visio, tetapi utamanya disimpan untuk digunakan di web. Microsoft Visio menawarkan kemampuan untuk mengonversi file Visio ke beberapa format file yang berbeda termasuk [PNG](/id/Image/PNG/), [BMP](/id/Image/BMP/), [PDF](/id/pdf/), dan lainnya.
+VDW adalah format file Layanan Grafik Visio yang menentukan aliran dan penyimpanan yang diperlukan untuk merender gambar Web. Gambar web adalah kumpulan halaman gambar, bentuk, font, gambar, koneksi data, dan informasi pembaruan diagram yang dapat dirender sebagai gambar vektor atau raster. File VDW juga dapat dibuka di Microsoft Visio, tetapi utamanya disimpan untuk digunakan di web. Microsoft Visio menawarkan kemampuan untuk mengonversi file Visio ke beberapa format file yang berbeda termasuk [PNG](/id/image/png/), [BMP](/id/image/bmp/), [PDF](/id/pdf/), dan lainnya.
 
 ## Format Berkas **VDW**
 

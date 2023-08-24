@@ -26,12 +26,12 @@ Het interne bestandsformaat van TE-bestanden is onbekend. Textease leverde zowel
 
 ## TE-veldtypen
 
-* Tekst
-* Nummer
-* [Afbeelding](/nl/afbeelding/)
-* Kleur
-* Datum (DD/MM/JJJJ)
-* Munteenheid
+* Text
+* Number
+* [Image](/nl/image/)
+* Colour
+* Date (DD/MM/YYYY)
+* Currency
 
 ## Referenties ##
 

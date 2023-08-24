@@ -19,7 +19,7 @@
 
 ## Mi az ODG fájl?
 
-Az ODG fájlformátumot az Apache OpenOffice Draw alkalmazása használja a rajzelemek vektorképként történő tárolására. Követi az Advancement of Structural Information Standards (OASIS) XML-alapú fájlformátum-specifikációit. Az ODG a rajzokat vektorképként ábrázolja pontok, vonalak és görbék segítségével. Az OpenOffice mellett a LibreOffice és más alkalmazások is támogatják az ODG fájlformátumokkal való munkát. Az OpenOffice által támogatott egyéb formátumok közé tartozik például az [ODT](/hu/szövegfeldolgozás/odt/), az ODF, az [ODP](/hu/presentation/odp/) és az [ODS](/hu/spreadsheet/ods/).
+Az ODG fájlformátumot az Apache OpenOffice Draw alkalmazása használja a rajzelemek vektorképként történő tárolására. Követi az Advancement of Structural Information Standards (OASIS) XML-alapú fájlformátum-specifikációit. Az ODG a rajzokat vektorképként ábrázolja pontok, vonalak és görbék segítségével. Az OpenOffice mellett a LibreOffice és más alkalmazások is támogatják az ODG fájlformátumokkal való munkát. Az OpenOffice által támogatott egyéb formátumok közé tartozik például az [ODT](/hu/word-processing/odt/), az ODF, az [ODP](/hu/presentation/odp/) és az [ODS](/hu/spreadsheet/ods/).
 
 
 ## ODG fájlformátum specifikációi
@@ -42,11 +42,11 @@ A dokumentum gyökéreleme a teljes dokumentumot tartalmazza, és egy OpenDocume
 ### Gyökérelemek ###
 Egyetlen XML dokumentumot a saját gyökéreleme képvisel. Az öt különböző támogatott gyökérelem a következő.
 
-`<office:document> ` - Teljes irodai dokumentum egyetlen XML dokumentumban.
-`<office:document-content> ` - Dokumentumtartalom és a tartalomban használt automatikus stílusok.
-`<office:document-styles> ` - A dokumentumtartalomban használt stílusok és magukban a stílusokban használt automatikus stílusok.
-`<office:document-meta> ` - A dokumentum metainformációi, például a szerző vagy az utolsó mentési művelet ideje.
-`<office:document-settings> ` - Alkalmazás-specifikus beállítások, például az ablak mérete vagy a nyomtató információi.
+`<office:document>` - Teljes irodai dokumentum egyetlen XML dokumentumban.
+`<office:document-content>` - Dokumentumtartalom és a tartalomban használt automatikus stílusok.
+`<office:document-styles>` - A dokumentumtartalomban használt stílusok és magukban a stílusokban használt automatikus stílusok.
+`<office:document-meta>` - A dokumentum metainformációi, például a szerző vagy az utolsó mentési művelet ideje.
+`<office:document-settings>` - Alkalmazás-specifikus beállítások, például az ablak mérete vagy a nyomtató információi.
 
 ### ODG dokumentum metaadatai ###
 Az OpenDocument tartalmazza az összes metaadat elemet a \<office:meta> elem. A dokumentumra vonatkozó általános információk a dokumentum elején találhatók, és az alkalmazások ugyanazon elemek több példányát is frissíthetik.
@@ -61,12 +61,12 @@ A dokumentumtörzs a dokumentumtípus elem segítségével jelzi a dokumentumban
 * képes dokumentumok
 
 ### Alkalmazás beállítások ###
-Az irodai alkalmazások beállításai különböző beállításokat képviselnek, amelyek a dokumentum konfigurációjához vagy a dokumentum vizuális megjelenéséhez kapcsolódnak. Minden kategóriát egy ` jelöl<config:config-item-set> `. Példák az ilyen beállítási kategóriákra:
+Az irodai alkalmazások beállításai különböző beállításokat képviselnek, amelyek a dokumentum konfigurációjához vagy a dokumentum vizuális megjelenéséhez kapcsolódnak. Minden kategóriát egy  jelöl `<config:config-item-set>`. Példák az ilyen beállítási kategóriákra:
 * Dokumentumbeállítások pl. alapértelmezett nyomtató
 * Beállítások megtekintése pl. nagyítási szint
 
 ### Szkriptek ###
-Gyakori, hogy egy dokumentum több szkriptet is tartalmaz. Az OpenDocument fájlban minden szkriptet egy ` jelöl<office:script> ` elemet. Ezeket a szkriptelemeket egyetlen ` tartalmazza<office:scripts> ` elemet. A szkriptek nem frissítik a dokumentumot a dokumentum betöltése közben.
+Gyakori, hogy egy dokumentum több szkriptet is tartalmaz. Az OpenDocument fájlban minden szkriptet egy jelöl `<office:script>` elemet. Ezeket a szkriptelemeket egyetlen tartalmazza `<office:scripts>` elemet. A szkriptek nem frissítik a dokumentumot a dokumentum betöltése közben.
 ### Betűtípus-nyilatkozatok ###
 
 A betűtípus deklarációja információkat tartalmaz a dokumentum szerzője által használt betűtípusokról. Ez az információ segít megtalálni ezeket a betűtípusokat más rendszereken.

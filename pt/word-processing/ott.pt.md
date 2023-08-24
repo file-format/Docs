@@ -35,7 +35,7 @@ Houve pequenas mudanças na transição das versões ODF 1.0 para 1.1. A [versã
 
 ## Especificações de formato de arquivo
 
-O formato OpenDocument suporta a representação de documentos como um único documento XML, bem como uma coleção de vários subdocumentos dentro de um pacote como arquivo [ZIP](/pt/Compression/ZIP/). Cada um dos arquivos do arquivo ZIP armazena parte do documento completo. Cada subdocumento armazena um aspecto particular do documento. Por exemplo, um subdocumento contém as informações de estilo e outro subdocumento contém o conteúdo do documento. Um documento ODF típico tem os seguintes componentes:
+O formato OpenDocument suporta a representação de documentos como um único documento XML, bem como uma coleção de vários subdocumentos dentro de um pacote como arquivo [ZIP](/pt/compression/zip/). Cada um dos arquivos do arquivo ZIP armazena parte do documento completo. Cada subdocumento armazena um aspecto particular do documento. Por exemplo, um subdocumento contém as informações de estilo e outro subdocumento contém o conteúdo do documento. Um documento ODF típico tem os seguintes componentes:
 
 * content.xml – Conteúdo do documento e estilos automáticos usados no conteúdo.
 * styles.xml – Estilos usados no conteúdo do documento e estilos automáticos usados nos próprios estilos.

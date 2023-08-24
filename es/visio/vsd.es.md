@@ -24,7 +24,7 @@ Los archivos VSD son dibujos creados con la aplicación Microsoft Visio para rep
 
 # Formato de archivo VSD #
 
-El formato de archivo VSD es el formato de archivo inicial introducido por Microsoft Visio para almacenar elementos de dibujo. La estructura interna de los archivos VSD se basa en un formato de archivo binario a diferencia de [.VSDX](/es/image/vsdx/) que se introdujo con Microsoft Visio 2013. El nuevo formato se basa en el formato de archivo Office Open XML y almacena la información del proyecto en un [ZIP](/es/compression/zip/) archivo. Microsoft ofrece la aplicación vviewer.exe para los archivos de dibujo de Visio en caso de que Visio no esté instalado en el sistema.
+El formato de archivo VSD es el formato de archivo inicial introducido por Microsoft Visio para almacenar elementos de dibujo. La estructura interna de los archivos VSD se basa en un formato de archivo binario a diferencia de [.VSDX](/es/visio/vsdx/) que se introdujo con Microsoft Visio 2013. El nuevo formato se basa en el formato de archivo Office Open XML y almacena la información del proyecto en un [ZIP](/es/compression/zip/) archivo. Microsoft ofrece la aplicación vviewer.exe para los archivos de dibujo de Visio en caso de que Visio no esté instalado en el sistema.
 
 ## Breve historia ##
 

@@ -41,7 +41,7 @@
 
 ## דוגמה ל-AMF
 
-להלן דוגמה לקובץ AMF שניתן להעתיק לקובץ [טקסט](/he/עיבוד תמלילים/txt/) ולשמור כקובץ [zip](/he/compression/zip/) דחוס לפתיחה.
+להלן דוגמה לקובץ AMF שניתן להעתיק לקובץ [טקסט](/he/word-processing/txt/) ולשמור כקובץ [zip](/he/compression/zip/) דחוס לפתיחה.
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <amf unit="inch" version="1.1">

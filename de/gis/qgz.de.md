@@ -19,7 +19,7 @@
 
 ## Was ist eine QGZ-Datei?
 
-Das **QGZ**-Dateiformat ist ein komprimiertes Archiv, das eine [QGS](https://docs.fileformat.com/gis/qgs/)-Datei und eine QGD-Datei enthält. Während die QGD-Datei die SQLite-Datenbank des qgis-Projekts ist, die aus Hilfsdaten für das Projekt besteht. Wenn keine Hilfsdaten vorhanden sind, bleibt die QGD-Datei leer.
+Das **QGZ**-Dateiformat ist ein komprimiertes Archiv, das eine [QGS](/gis/qgs/)-Datei und eine QGD-Datei enthält. Während die QGD-Datei die SQLite-Datenbank des qgis-Projekts ist, die aus Hilfsdaten für das Projekt besteht. Wenn keine Hilfsdaten vorhanden sind, bleibt die QGD-Datei leer.
 
 ## Details zum QGZ-Dateiformat
 

@@ -20,7 +20,7 @@
 
 ## VSSM dosyası nedir?
 
-.vssm uzantılı dosyalar, makro desteği sağlayan Microsoft Visio Stencil dosyalarıdır. Açıldığında bir VSSM dosyası, bir şemada şekillerin istenen biçimlendirmesini ve yerleşimini elde etmek için makroların çalıştırılmasına izin verir. Genel olarak Microsoft Visio, kullanıcı tanımlı bilgileri farklı şekillerde içerebilen ve temsil edebilen dosyalar oluşturmaya izin veren bir çizim yazılımıdır. Bunlardan en yaygın olanları, bunlarla sınırlı olmamak üzere, UML diyagramlarını, akış şemalarını, görsel nesneleri, bilgi akışını, organizasyon şemalarını, yazılım diyagramlarını, ağ düzenini, veritabanı modellerini, nesne eşlemeyi ve diğer benzer bilgileri içerir. Visio kullanılarak oluşturulan dosyalar ayrıca [PNG](/tr/Image/PNG/), [BMP](/tr/Image/BMP/), [PDF](/tr/pdf/) ve diğerleri gibi farklı dosya biçimlerine dönüştürülebilir.
+.vssm uzantılı dosyalar, makro desteği sağlayan Microsoft Visio Stencil dosyalarıdır. Açıldığında bir VSSM dosyası, bir şemada şekillerin istenen biçimlendirmesini ve yerleşimini elde etmek için makroların çalıştırılmasına izin verir. Genel olarak Microsoft Visio, kullanıcı tanımlı bilgileri farklı şekillerde içerebilen ve temsil edebilen dosyalar oluşturmaya izin veren bir çizim yazılımıdır. Bunlardan en yaygın olanları, bunlarla sınırlı olmamak üzere, UML diyagramlarını, akış şemalarını, görsel nesneleri, bilgi akışını, organizasyon şemalarını, yazılım diyagramlarını, ağ düzenini, veritabanı modellerini, nesne eşlemeyi ve diğer benzer bilgileri içerir. Visio kullanılarak oluşturulan dosyalar ayrıca [PNG](/tr/image/png/), [BMP](/tr/image/bmp/), [PDF](/tr/pdf/) ve diğerleri gibi farklı dosya biçimlerine dönüştürülebilir.
 
 ## VSSM Dosya Biçimi
 
@@ -32,7 +32,7 @@ VSSM dosya formatı, OpenOffice XML spesifikasyonlarına dayanan Microsoft Visio
 * .vstx (Visio şablonu)
 * .vstm (Visio makro özellikli şablon)
 
-Görünüşte, Visio 2013 dosya formatı, uygulama verilerini ilgili kaynaklarla birlikte [ZIP](/tr/Compression/ZIP/) gibi bir arşivde depolamak için yapılandırılmış bir araç kullanır. ZIP dosyası, diğer dosya türlerini de içeren herhangi bir standart çıkarma yardımcı programı kullanılarak çıkarılabilir.
+Görünüşte, Visio 2013 dosya formatı, uygulama verilerini ilgili kaynaklarla birlikte [ZIP](/tr/compression/zip/) gibi bir arşivde depolamak için yapılandırılmış bir araç kullanır. ZIP dosyası, diğer dosya türlerini de içeren herhangi bir standart çıkarma yardımcı programı kullanılarak çıkarılabilir.
 
 Her Visio dosyası, diğer dosyaları veya parçaları tutan paket olarak adlandırılır. Bir paket parçası, bir XML dosyası, bir görüntü veya hatta bir VBA çözümü olabilir. Paket içindeki parçalar, "doküman" ve "ilişki" bölümlerine ayrılabilir.
 

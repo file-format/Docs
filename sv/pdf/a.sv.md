@@ -53,7 +53,7 @@ PDF/A-2 släpptes av ISO Standard i juli 2011 som en ny standard känd som ISO 3
 
 ## PDF/A-3 ##
 
-PDF/A-3 inkluderar alla överensstämmelsekrav för nivå 2 och tillåter inbäddning av ytterligare filformat (som XML, [CSV](/sv/spreadsheet/csv/), [CAD](/sv/cad/), [ordbehandling](/sv/ordbehandling/), [kalkylblad](/sv/kalkylblad/) och andra) till PDF/A-överensstämmande dokument.
+PDF/A-3 inkluderar alla överensstämmelsekrav för nivå 2 och tillåter inbäddning av ytterligare filformat (som XML, [CSV](/sv/spreadsheet/csv/), [CAD](/sv/cad/), [ordbehandling](/sv/word-processing/), [kalkylblad](/sv/spreadsheet/) och andra) till PDF/A-överensstämmande dokument.
 
 ## Referenser ##
 

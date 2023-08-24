@@ -42,11 +42,11 @@ Un elemento radice del documento contiene l'intero documento ed è l'elemento pr
 ### Elementi radice ###
 Un singolo documento XML è rappresentato dal proprio elemento radice. I cinque diversi elementi radice supportati sono i seguenti.
 
-`<office:document> ` - Documento Office completo in un unico documento XML.
-`<office:document-content> ` - Contenuto del documento e stili automatici utilizzati nel contenuto.
-`<office:document-styles> ` - Stili utilizzati nel contenuto del documento e stili automatici utilizzati negli stili stessi.
-`<office:document-meta> ` - Metainformazioni del documento, come l'autore o l'ora dell'ultima azione di salvataggio.
-`<office:document-settings> ` - Impostazioni specifiche dell'applicazione, come le dimensioni della finestra o le informazioni sulla stampante.
+`<office:document>` - Documento Office completo in un unico documento XML.
+`<office:document-content>` - Contenuto del documento e stili automatici utilizzati nel contenuto.
+`<office:document-styles>` - Stili utilizzati nel contenuto del documento e stili automatici utilizzati negli stili stessi.
+`<office:document-meta>` - Metainformazioni del documento, come l'autore o l'ora dell'ultima azione di salvataggio.
+`<office:document-settings>` - Impostazioni specifiche dell'applicazione, come le dimensioni della finestra o le informazioni sulla stampante.
 
 ### Metadati del documento ODG ###
 OpenDocument contiene tutti gli elementi di metadati in \<office:meta> elemento. Queste informazioni generali su un documento sono contenute all'inizio del documento e le applicazioni possono aggiornare più istanze degli stessi elementi.
@@ -61,12 +61,12 @@ Il corpo del documento indica il tipo di contenuto contenuto nel documento utili
 * documenti immagine
 
 ### Impostazioni dell'applicazione ###
-Le impostazioni per le applicazioni per ufficio rappresentano impostazioni diverse correlate alla configurazione del documento o all'aspetto visivo del documento. Ogni categoria è rappresentata da un `<config:config-item-set> `. Esempi di tali categorie di impostazioni includono:
+Le impostazioni per le applicazioni per ufficio rappresentano impostazioni diverse correlate alla configurazione del documento o all'aspetto visivo del documento. Ogni categoria è rappresentata da un `<config:config-item-set>`. Esempi di tali categorie di impostazioni includono:
 * Impostazioni del documento, ad es. stampante predefinita
 * Visualizza le impostazioni, ad esempio il livello di zoom
 
 ### Script ###
-È comune che un documento contenga diversi script. Ogni script in un file OpenDocument è rappresentato da un `<office:script> ` elemento. Questi elementi di script sono contenuti in un singolo `<office:scripts> ` elemento. Gli script non aggiornano un documento durante il caricamento del documento.
+È comune che un documento contenga diversi script. Ogni script in un file OpenDocument è rappresentato da un `<office:script>` elemento. Questi elementi di script sono contenuti in un singolo `<office:scripts>` elemento. Gli script non aggiornano un documento durante il caricamento del documento.
 ### Dichiarazioni dei volti dei caratteri ###
 
 Una dichiarazione di tipo di carattere contiene informazioni sui caratteri utilizzati dall'autore di un documento. Queste informazioni aiutano a individuare questi caratteri su altri sistemi.

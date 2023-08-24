@@ -26,7 +26,7 @@ Os arquivos IFO são salvos com a extensão **.ifo**.
 
 Os arquivos IFO são salvos como arquivos de texto e podem ser abertos com qualquer editor de texto, como Microsoft Notepad++, Notepad e Apple TextEdit. Os cabeçalhos no arquivo IFO informam aos DVD players sobre a tela inicial, a localização de cada faixa de vídeo no disco, a localização das faixas de áudio e outras informações relacionadas.
 
-Os arquivos IFO podem ser danificados se o DVD sofrer arranhões. É por isso que um arquivo BUP é criado como backup do arquivo IFO. Caso o arquivo IFO não possa ser lido, o arquivo BUP é lido. Esses arquivos estão localizados ao lado do arquivo [VOB](https://docs.fileformat.com/video/vob/) que contém um índice do conteúdo do disco.
+Os arquivos IFO podem ser danificados se o DVD sofrer arranhões. É por isso que um arquivo BUP é criado como backup do arquivo IFO. Caso o arquivo IFO não possa ser lido, o arquivo BUP é lido. Esses arquivos estão localizados ao lado do arquivo [VOB](/video/vob/) que contém um índice do conteúdo do disco.
 
 ## Referências
 

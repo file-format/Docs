@@ -18,7 +18,7 @@
 
 ## What is a MPO file?
 
-An MPO file is a stereoscopic 3D image which comes into existence after overlapping of two 2D images. These kinds of images are created by digital cameras and are widely used in 3D video gaming consoles and 3D TV. MPO files are also known as multi – picture objects because they contain two or more [JPEG](/image/jpg/) images.
+An MPO file is a stereoscopic 3D image which comes into existence after overlapping of two 2D images. These kinds of images are created by digital cameras and are widely used in 3D video gaming consoles and 3D TV. MPO files are also known as multi – picture objects because they contain two or more [JPEG](/image/jpeg/) images.
 
 ## Brief History of MPO File Format
 

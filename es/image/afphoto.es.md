@@ -31,9 +31,9 @@ El archivo AFPHOTO se guarda en el formato de archivo binario propietario de Ser
 
 Los archivos AFPHOTO se pueden convertir a varios formatos diferentes utilizando el software Serif Affinity Photo. Se admiten los siguientes formatos de archivo de exportación.
 
-* [PSD](/es/imagen/psd/) - Documento de Adobe Photoshop
+* [PSD](/es/image/psd/) - Documento de Adobe Photoshop
 * [PDF](/es/pdf/) - Formato de documento portátil
-* [JPG](/es/imagen/jpeg/) - Imagen JPEG
+* [JPG](/es/image/jpeg/) - Imagen JPEG
 * [PNG](/es/image/png/) - Gráfico de red portátil
 * [GIF](/es/image/gif/) - Formato de intercambio gráfico
 * [EPS](/es/page-description-language/eps/) - PostScript encapsulado

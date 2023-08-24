@@ -18,7 +18,7 @@
 
 ## Wat is een ODM-bestand?
 
-Een bestand met de extensie .odm is een OpenDocument Master-documentbestand waarin een of meer [.odt](/nl/tekstverwerking/odt/)-bestanden zijn gekoppeld. Deze subdocumenten worden allemaal gecombineerd in het enkele hoofddocument. Dit maakt het gemakkelijk om alle gekoppelde bestanden vanuit het enkele hoofddocument te beheren. Hoofddocumentbestanden kunnen worden gemaakt met Apache OpenOffice Writer of OpenDocument Tekstverwerker. ODM-bestanden kunnen worden geëxporteerd naar een enkel ODT-bestand met behulp van de exportoptie vanuit de OpenOffice Writer-toepassing.
+Een bestand met de extensie .odm is een OpenDocument Master-documentbestand waarin een of meer [.odt](/nl/word-processing/odt/)-bestanden zijn gekoppeld. Deze subdocumenten worden allemaal gecombineerd in het enkele hoofddocument. Dit maakt het gemakkelijk om alle gekoppelde bestanden vanuit het enkele hoofddocument te beheren. Hoofddocumentbestanden kunnen worden gemaakt met Apache OpenOffice Writer of OpenDocument Tekstverwerker. ODM-bestanden kunnen worden geëxporteerd naar een enkel ODT-bestand met behulp van de exportoptie vanuit de OpenOffice Writer-toepassing.
 
 ## ODM-bestandsindeling - Meer informatie
 

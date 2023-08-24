@@ -29,8 +29,8 @@
 
 ## Δείτε επίσης ##
 
-* [PPT](/el/παρουσίαση/ppt/)
-* [PPTX](/el/παρουσίαση/pptx/)
+* [PPT](/el/presentation/ppt/)
+* [PPTX](/el/presentation/pptx/)
 
 ## Βιβλιογραφικές αναφορές ##
 

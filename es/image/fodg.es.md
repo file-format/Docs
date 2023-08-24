@@ -25,10 +25,10 @@ Un archivo con extensión .fodg es un formato de archivo Apache OpenOffice Drawi
 
 FODG se basa en el formato de archivo XML de OpenDocument que cumple con OASIS OpenDocument Format ISO/IEC 26300. Tiene tipo de medio de Internet application/vnd.oasis.opendocument.graphics y también cumple con org.oasis-open.opendocument public.composite-content . La estructura XML es común para todos los tipos de documentos, como hojas de cálculo, archivos de dibujo y documentos de texto. Los documentos de OpenOffice aprovechan la separación de preocupaciones al separar el contenido, los estilos, los metadatos y la configuración de la aplicación en cuatro archivos XML separados.
 
-`<office:document-content> ` - Contenido del documento y estilos automáticos utilizados en el contenido.
-`<office:document-styles> ` - Estilos usados en el contenido del documento y estilos automáticos usados en los propios estilos.
-`<office:document-meta> ` - Metainformación del documento, como el autor o la hora de la última acción de guardado.
-`<office:document-settings> ` - Configuración específica de la aplicación, como el tamaño de la ventana o la información de la impresora.
+`<office:document-content>` - Contenido del documento y estilos automáticos utilizados en el contenido.
+`<office:document-styles>` - Estilos usados en el contenido del documento y estilos automáticos usados en los propios estilos.
+`<office:document-meta>` - Metainformación del documento, como el autor o la hora de la última acción de guardado.
+`<office:document-settings>` - Configuración específica de la aplicación, como el tamaño de la ventana o la información de la impresora.
 
 ## Referencias ##
 * [Especificaciones futuras para la estandarización v 1.3](https://docs.oasis-open.org/office/OpenDocument/v1.3/cs01/OpenDocument-v1.3-cs01.zip)

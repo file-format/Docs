@@ -20,7 +20,7 @@
 
 ## Apa itu file VSX?
 
-File dengan ekstensi .vsx mengacu pada stensil yang terdiri dari gambar dan bentuk yang digunakan untuk membuat diagram di Microsoft Visio. File VSX disimpan dalam format file XML dan didukung hingga Visio 2013. Ini berbeda dari format file [VSDX](/id/image/vsdx/) utama yang diperkenalkan dengan Microsoft Visio 2013. File VSX dapat dibuka di editor teks apa pun untuk melihat isinya. File VSX dapat dikonversi ke beberapa format file berbeda seperti PDF dan HTML.
+File dengan ekstensi .vsx mengacu pada stensil yang terdiri dari gambar dan bentuk yang digunakan untuk membuat diagram di Microsoft Visio. File VSX disimpan dalam format file XML dan didukung hingga Visio 2013. Ini berbeda dari format file [VSDX](/id/visio/vsdx/) utama yang diperkenalkan dengan Microsoft Visio 2013. File VSX dapat dibuka di editor teks apa pun untuk melihat isinya. File VSX dapat dikonversi ke beberapa format file berbeda seperti PDF dan HTML.
 
 ## Format File VSX ##
 

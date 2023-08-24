@@ -19,7 +19,7 @@
 
 ## Co je soubor ETL?
 
-Soubory ETL jsou soubory protokolu, které obsahují protokoly událostí generované jádrem operačního systému Microsoft. Tyto soubory protokolu zahrnují chyby na úrovni aplikace a systému, varování a další data událostí. Soubory ETL jsou užitečné při analýze a odstraňování problémů na úrovni systému. Mezi běžné problémy zaznamenané v souborech ETL patří ty, které generují přístupy na disk a chyby stránek. Společnost Microsoft poskytuje dvě aplikace, Tracerpt a Event Viewer pro čtení a prohlížení obsahu souborů ETL. Soubory ETL lze pomocí Tracerpt převést do jiných formátů souborů, jako je [TXT](/cs/textový editor/txt/) a [CSV](/cs/spreadsheet/csv/).
+Soubory ETL jsou soubory protokolu, které obsahují protokoly událostí generované jádrem operačního systému Microsoft. Tyto soubory protokolu zahrnují chyby na úrovni aplikace a systému, varování a další data událostí. Soubory ETL jsou užitečné při analýze a odstraňování problémů na úrovni systému. Mezi běžné problémy zaznamenané v souborech ETL patří ty, které generují přístupy na disk a chyby stránek. Společnost Microsoft poskytuje dvě aplikace, Tracerpt a Event Viewer pro čtení a prohlížení obsahu souborů ETL. Soubory ETL lze pomocí Tracerpt převést do jiných formátů souborů, jako je [TXT](/cs/word-processing/txt/) a [CSV](/cs/spreadsheet/csv/).
 
 ## Formát souboru ETL
 

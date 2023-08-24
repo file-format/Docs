@@ -19,7 +19,7 @@
 
 ## Wat is een QGZ-bestand?
 
-Het **QGZ** bestandsformaat is een gecomprimeerd archief dat een [QGS](https://docs.fileformat.com/gis/qgs/) bestand en een QGD-bestand bevat. Terwijl het QGD-bestand de sqlite-database is van het qgis-project die bestaat uit hulpgegevens voor het project. Als er geen hulpgegevens zijn, blijft het QGD-bestand leeg.
+Het **QGZ** bestandsformaat is een gecomprimeerd archief dat een [QGS](/gis/qgs/) bestand en een QGD-bestand bevat. Terwijl het QGD-bestand de sqlite-database is van het qgis-project die bestaat uit hulpgegevens voor het project. Als er geen hulpgegevens zijn, blijft het QGD-bestand leeg.
 
 ## Details over het QGZ-bestandsformaat
 

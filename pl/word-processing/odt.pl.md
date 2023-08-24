@@ -19,7 +19,7 @@
 
 ## Czym jest plik ODT?
 
-Pliki ODT to dokumenty tworzone za pomocą aplikacji do edycji tekstu, które są oparte na formacie pliku tekstowego OpenDocument. Są one tworzone za pomocą aplikacji edytora tekstu, takich jak bezpłatny OpenOffice Writer, i mogą przechowywać zawartość, taką jak tekst, obrazy, obiekty i style. Plik ODT jest dla edytora tekstu programu Writer tym, czym [DOCX](/pl/word-processing/docx/) jest dla programu Microsoft Word. Kilka aplikacji, w tym Dokumenty Google i internetowy edytor tekstu Google zawarty w Dysku Google, może otwierać pliki ODT do edycji. Microsoft Word może również otwierać pliki ODT i zapisywać je w innych formatach, takich jak [DOC](/pl/przetwarzanie tekstu/doc/) i DOCX.
+Pliki ODT to dokumenty tworzone za pomocą aplikacji do edycji tekstu, które są oparte na formacie pliku tekstowego OpenDocument. Są one tworzone za pomocą aplikacji edytora tekstu, takich jak bezpłatny OpenOffice Writer, i mogą przechowywać zawartość, taką jak tekst, obrazy, obiekty i style. Plik ODT jest dla edytora tekstu programu Writer tym, czym [DOCX](/pl/word-processing/docx/) jest dla programu Microsoft Word. Kilka aplikacji, w tym Dokumenty Google i internetowy edytor tekstu Google zawarty w Dysku Google, może otwierać pliki ODT do edycji. Microsoft Word może również otwierać pliki ODT i zapisywać je w innych formatach, takich jak [DOC](/pl/word-processing/doc/) i DOCX.
 
 ## Krótka historia ##
 
@@ -35,7 +35,7 @@ Były dość drobne zmiany w przejściu z wersji ODF 1.0 do wersji 1.1. [Wersja 
 
 ## Specyfikacje formatu pliku ##
 
-Format OpenDocument obsługuje reprezentację dokumentów jako pojedynczy dokument XML, a także kolekcję kilku dokumentów podrzędnych w pakiecie jako archiwum [ZIP](/pl/Compression/ZIP/). Każdy z plików z archiwum ZIP przechowuje część kompletnego dokumentu. Każdy dokument podrzędny przechowuje określony aspekt dokumentu. Na przykład jeden dokument podrzędny zawiera informacje o stylu, a inny dokument podrzędny zawiera treść dokumentu. Typowy dokument ODF składa się z następujących elementów:
+Format OpenDocument obsługuje reprezentację dokumentów jako pojedynczy dokument XML, a także kolekcję kilku dokumentów podrzędnych w pakiecie jako archiwum [ZIP](/pl/compression/zip/). Każdy z plików z archiwum ZIP przechowuje część kompletnego dokumentu. Każdy dokument podrzędny przechowuje określony aspekt dokumentu. Na przykład jeden dokument podrzędny zawiera informacje o stylu, a inny dokument podrzędny zawiera treść dokumentu. Typowy dokument ODF składa się z następujących elementów:
 
 * content.xml – Zawartość dokumentu i automatyczne style użyte w treści.
 * styles.xml – Style użyte w treści dokumentu oraz style automatyczne użyte w samych stylach.

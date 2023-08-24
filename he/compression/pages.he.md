@@ -41,8 +41,8 @@
 * Microsoft Word [DOC](/he/word-processing/doc/) ו-[DOCX](/he/word-processing/docx/)
 * [PDF](/he/pdf/)
 * [EPUB](/he/ebook/epub/)
-* [RTF](/he/עיבוד תמלילים/rtf/)
-* [TXT](/he/עיבוד תמלילים/txt/)
+* [RTF](/he/word-processing/rtf/)
+* [TXT](/he/word-processing/txt/)
 
 ## הפניות
 

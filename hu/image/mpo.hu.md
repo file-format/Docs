@@ -18,7 +18,7 @@
 
 ## Mi az MPO fájl?
 
-Az MPO fájl egy sztereoszkópikus 3D kép, amely két 2D kép átfedése után jön létre. Az ilyen típusú képeket digitális fényképezőgépek készítik, és széles körben használják 3D videojáték-konzolokban és 3D TV-ben. Az MPO-fájlokat többképes objektumnak is nevezik, mivel két vagy több [JPEG](/hu/image/jpg/) képet tartalmaznak.
+Az MPO fájl egy sztereoszkópikus 3D kép, amely két 2D kép átfedése után jön létre. Az ilyen típusú képeket digitális fényképezőgépek készítik, és széles körben használják 3D videojáték-konzolokban és 3D TV-ben. Az MPO-fájlokat többképes objektumnak is nevezik, mivel két vagy több [JPEG](/hu/image/jpeg/) képet tartalmaznak.
 
 ## Az MPO fájlformátum rövid története
 

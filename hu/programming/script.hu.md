@@ -22,7 +22,7 @@ A SCRIPT fájl olyan forrásfájl, amely bármilyen szkriptnyelvű szkriptet tar
 
 ## SCRIPT fájlformátum - További információ
 
-A SCRIPT fájlok egyszerű szöveges fájlokban kerülnek a lemezre. Ezek bármely szövegszerkesztővel megnyithatók és szerkeszthetők, például a Microsoft Notepad, a Notepad++ és az Apple TextEdit segítségével. Mivel a szkriptnyelv eltérő lehet, végrehajtható a fájl kiterjesztésének átnevezésével a megfelelő szkriptnyelv alapértelmezett kiterjesztésére. Például számos elterjedt szkriptnyelv létezik, mint például a JavaScript ([.JS](/hu/web/js/)), VBScript ([.VBS](/hu/programming/vbs/)), AppleScript (.SCPT), PHP ([ .PHP](/hu/programing/php/)), és ASP ([.ASP](/hu/web/asp/)).
+A SCRIPT fájlok egyszerű szöveges fájlokban kerülnek a lemezre. Ezek bármely szövegszerkesztővel megnyithatók és szerkeszthetők, például a Microsoft Notepad, a Notepad++ és az Apple TextEdit segítségével. Mivel a szkriptnyelv eltérő lehet, végrehajtható a fájl kiterjesztésének átnevezésével a megfelelő szkriptnyelv alapértelmezett kiterjesztésére. Például számos elterjedt szkriptnyelv létezik, mint például a JavaScript ([.JS](/hu/web/js/)), VBScript ([.VBS](/hu/programming/vbs/)), AppleScript (.SCPT), PHP ([ .PHP](/hu/programming/php/)), és ASP ([.ASP](/hu/web/asp/)).
 
 ## Hivatkozások
 

@@ -18,7 +18,7 @@
 
 ## CFML dosyası nedir?
 
-.cfml uzantılı bir dosya, web sayfası oluşturmak için kullanılan bir ColdFusion İşaretleme Dili dosyasıdır. ColdFusion uygulamasının programcı tarafından nasıl geliştirileceğini tanımlamak için kullanılan bir dizi kuralı ifade eder. ColdFusion, [ASP](/tr/web/asp/), [PHP](/tr/web/php/), vb. gibi diğer teknolojilerden daha azıyla ve hızlı bir şekilde sunucu tarafı web uygulamaları oluşturmak için kullanılan bir programlama dilidir. CML dosyalarını açabilen uygulamalardan bazıları Adobe ColdFusion 2018, Adobe ColdFusion Builder ve Adobe Dreamweaver'dır.
+.cfml uzantılı bir dosya, web sayfası oluşturmak için kullanılan bir ColdFusion İşaretleme Dili dosyasıdır. ColdFusion uygulamasının programcı tarafından nasıl geliştirileceğini tanımlamak için kullanılan bir dizi kuralı ifade eder. ColdFusion, [ASP](/tr/web/asp/), [PHP](/tr/programming/php/), vb. gibi diğer teknolojilerden daha azıyla ve hızlı bir şekilde sunucu tarafı web uygulamaları oluşturmak için kullanılan bir programlama dilidir. CML dosyalarını açabilen uygulamalardan bazıları Adobe ColdFusion 2018, Adobe ColdFusion Builder ve Adobe Dreamweaver'dır.
 
 ## CFML Dosya Biçimi - Daha Fazla Bilgi
 

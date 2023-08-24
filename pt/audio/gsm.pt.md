@@ -23,7 +23,7 @@ GSM é uma extensão de arquivo associada ao Global System for Mobile Audio Form
 
 Um arquivo GSM é codificado com um codec de compressão de som CBR (taxa de bits constante) com perdas. A taxa de amostragem em um arquivo de áudio GSM é de 8.000 amostras/segundo, enquanto a taxa de dados é de cerca de 13 kbps. A taxa de bits nos arquivos GSM garante qualidade durante a gravação de voz. Além disso, o formato de arquivo GSM também é conhecido como o formato padrão global a ser usado em telefones celulares e os arquivos WAV também podem ser facilmente codificados usando um formato de arquivo GSM. Quaisquer problemas com um arquivo GSM podem ser facilmente resolvidos pelo próprio usuário sem recorrer a um especialista.
 
-Os usuários também podem converter arquivos GSM nos formatos [MP3](/pt/audio/mp3/) e [MP4](/pt/audio/mp4/).
+Os usuários também podem converter arquivos GSM nos formatos [MP3](/pt/audio/mp3/) e [MP4](/pt/video/mp4/).
 
 ## Breve História do Formato de Arquivo GSM
 

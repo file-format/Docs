@@ -104,6 +104,5 @@ http://www.la-grange.net/karl/
 
 ## 또한보십시오 ##
 
-* [EML](/ko/이메일/eml/)
-* [MSG](/ko/이메일/메시지/)
-
+* [EML](/ko/email/eml/)
+* [MSG](/ko/email/msg/)

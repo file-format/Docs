@@ -27,5 +27,6 @@ FWTEMPLATEB-bestanden worden opgeslagen als een verzameling websitesjablonen en 
 ## Referenties
 
 * [FWTEMPLATE](/nl/web/fwtemplate/)
-* [SNELWEG](/nl/web/snelweg/)
+* [FREEWAY](/nl/web/freeway/)
+
 

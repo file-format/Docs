@@ -19,7 +19,7 @@
 
 ## Mi az a DBM fájl?
 
-A .dbm (Database Markup Language) kiterjesztésű fájl egy ColdFusion Server fájl, amelyet az Adobe Systems fejlesztett ki. Ez egy szerveroldali fájl, amely a ColdFusion rendszerrel rendelkező webszerveren fut. Hasonló az [ASP](/hu/web/asp/) és [PHP](/hu/web/php/) fájlokhoz, és [HTML](/hu/web/html/) fájlt generál, amikor a felhasználó lekéri az oldalt a webböngészőben. A DBM-fájlok megnyithatók olyan alkalmazásokban, mint az Adobe ColdFusion, az Adobe ColdFusion Builder, a MacroMates TextMate és az Apple Safari.
+A .dbm (Database Markup Language) kiterjesztésű fájl egy ColdFusion Server fájl, amelyet az Adobe Systems fejlesztett ki. Ez egy szerveroldali fájl, amely a ColdFusion rendszerrel rendelkező webszerveren fut. Hasonló az [ASP](/hu/web/asp/) és [PHP](/hu/programming/php/) fájlokhoz, és [HTML](/hu/web/html/) fájlt generál, amikor a felhasználó lekéri az oldalt a webböngészőben. A DBM-fájlok megnyithatók olyan alkalmazásokban, mint az Adobe ColdFusion, az Adobe ColdFusion Builder, a MacroMates TextMate és az Apple Safari.
 
 ## DBM fájlformátum
 

@@ -20,7 +20,7 @@
 
 ## Wat is een VSX-bestand?
 
-Bestanden met de extensie .vsx verwijzen naar stencils die bestaan uit tekeningen en vormen die worden gebruikt voor het maken van diagrammen in Microsoft Visio. VSX-bestanden worden opgeslagen in XML-bestandsindeling en werden ondersteund tot Visio 2013. Deze zijn anders dan de primaire [VSDX](/nl/image/vsdx/)-bestandsindeling die werd geïntroduceerd met Microsoft Visio 2013. VSX-bestanden kunnen in elke teksteditor worden geopend om de inhoud te bekijken. VSX-bestanden kunnen worden geconverteerd naar verschillende bestandsindelingen, zoals PDF en HTML.
+Bestanden met de extensie .vsx verwijzen naar stencils die bestaan uit tekeningen en vormen die worden gebruikt voor het maken van diagrammen in Microsoft Visio. VSX-bestanden worden opgeslagen in XML-bestandsindeling en werden ondersteund tot Visio 2013. Deze zijn anders dan de primaire [VSDX](/nl/visio/vsdx/)-bestandsindeling die werd geïntroduceerd met Microsoft Visio 2013. VSX-bestanden kunnen in elke teksteditor worden geopend om de inhoud te bekijken. VSX-bestanden kunnen worden geconverteerd naar verschillende bestandsindelingen, zoals PDF en HTML.
 
 ## VSX-bestandsindeling ##
 

@@ -37,7 +37,7 @@ Následuje několik rychlých faktů o původu a historii formátu souboru CSV.
 
 ## Převést soubory CSV ##
 
-Soubory CSV lze převést do několika různých formátů souborů pomocí aplikací, které mohou tyto soubory otevřít. Microsoft Excel může například importovat data z formátu CSV a uložit je do XLS, [XLSX](/cs/tabulkový procesor/xlsx/), [PDF](/cs/pdf/), [TXT](/cs/textový editor/txt/) , XML a [HTML](/cs/web/html/) formáty souborů. Podobně ostatní desktopové i online služby poskytují možnost exportovat CSV soubory do HTML, ODS a [RTF](/cs/text-processing/rtf/).
+Soubory CSV lze převést do několika různých formátů souborů pomocí aplikací, které mohou tyto soubory otevřít. Microsoft Excel může například importovat data z formátu CSV a uložit je do XLS, [XLSX](/cs/tabulkový procesor/xlsx/), [PDF](/cs/pdf/), [TXT](/cs/word-processing/txt/) , XML a [HTML](/cs/web/html/) formáty souborů. Podobně ostatní desktopové i online služby poskytují možnost exportovat CSV soubory do HTML, ODS a [RTF](/cs/word-processing/rtf/).
 
 ## Formát souboru CSV ##
 

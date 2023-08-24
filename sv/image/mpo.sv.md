@@ -18,7 +18,7 @@
 
 ## Vad är en MPO fil?
 
-En MPO-fil är en stereoskopisk 3D-bild som uppstår efter överlappning av två 2D-bilder. Dessa typer av bilder skapas av digitalkameror och används ofta i 3D-spelkonsoler och 3D-TV. MPO-filer kallas även multibildobjekt eftersom de innehåller två eller flera [JPEG](/sv/image/jpg/)-bilder.
+En MPO-fil är en stereoskopisk 3D-bild som uppstår efter överlappning av två 2D-bilder. Dessa typer av bilder skapas av digitalkameror och används ofta i 3D-spelkonsoler och 3D-TV. MPO-filer kallas även multibildobjekt eftersom de innehåller två eller flera [JPEG](/sv/image/jpeg/)-bilder.
 
 ## Kort historik om MPO-filformat
 

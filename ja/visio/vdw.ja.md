@@ -19,7 +19,7 @@
 }
 ## .VDW オプション番号
 
-VDW は、Web 図面のレンダリングに必要なストリームとストレージを指定する Visio Graphics Service ファイル形式です。 Web 図面は、ベクターまたはラスター図面としてレンダリングできる図面ページ、図形、フォント、画像、データ接続、および図の更新情報のコレクションです。 VDW ファイルは Microsoft Visio でも開くことができますが、主に Web 上で使用するために保存されます。 Microsoft Visio は、Visio ファイルを [PNG](/Image/PNG/)、[BMP](/Image/BMP/)、[PDF](/pdf/) などのさまざまなファイル形式に変換する機能を提供します。
+VDW は、Web 図面のレンダリングに必要なストリームとストレージを指定する Visio Graphics Service ファイル形式です。 Web 図面は、ベクターまたはラスター図面としてレンダリングできる図面ページ、図形、フォント、画像、データ接続、および図の更新情報のコレクションです。 VDW ファイルは Microsoft Visio でも開くことができますが、主に Web 上で使用するために保存されます。 Microsoft Visio は、Visio ファイルを [PNG](/image/png/)、[BMP](/image/bmp/)、[PDF](/pdf/) などのさまざまなファイル形式に変換する機能を提供します。
 
 ## **VDW** ファイル形式
 

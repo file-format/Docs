@@ -32,7 +32,7 @@ Un archivo .hh es un archivo de texto sin formato que se crea teniendo en cuenta
 
 ## Diferencia entre archivos .H y .HH
 
-Aparentemente, no existe tal diferencia entre los archivos de encabezado .h y .hh aparte de la forma recomendada de usarlos para los respectivos idiomas, es decir, [C](/es/programación/c/) o C++. Nombrar sus archivos de encabezado de acuerdo con estos lenguajes lo ayuda a distinguirlos en un proyecto grande que puede ser una combinación de implementaciones de C y C++.
+Aparentemente, no existe tal diferencia entre los archivos de encabezado .h y .hh aparte de la forma recomendada de usarlos para los respectivos idiomas, es decir, [C](/es/programming/c/) o C++. Nombrar sus archivos de encabezado de acuerdo con estos lenguajes lo ayuda a distinguirlos en un proyecto grande que puede ser una combinación de implementaciones de C y C++.
 
 Además, si los encabezados están separados por extensión, su editor puede aplicar el formato adecuado automáticamente para cada uno.
 

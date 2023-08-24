@@ -19,7 +19,7 @@
 
 ## Vad är en LUA fil?
 
-En fil med filtillägget .lua tillhör programmeringsspråket **Luа**. Luа är ett lättviktsspråk på hög nivå och multi-paradigm som är designat främst för inbäddad användning i applikationer. Det är tvärformat, eftersom tolken för den kompilerade bytekoden är skriven, och Lua har ett relativt enkelt [C](/sv/programmering/c/) АРI för att bädda in det i аррlicaser.
+En fil med filtillägget .lua tillhör programmeringsspråket **Luа**. Luа är ett lättviktsspråk på hög nivå och multi-paradigm som är designat främst för inbäddad användning i applikationer. Det är tvärformat, eftersom tolken för den kompilerade bytekoden är skriven, och Lua har ett relativt enkelt [C](/sv/programming/c/) АРI för att bädda in det i аррlicaser.
 
 Luа designades ursprungligen 1993 som ett språk för att utöka programvaruapplikationer för att möta den ökande efterfrågan på anpassning vid den tiden. Det tillhandahöll de grundläggande funktionerna för de flesta processuella programspråk, men mer komplicerade eller domänspecifika funktioner inkluderades inte snarare:
 

@@ -19,7 +19,7 @@
 
 ## Wat is een DER-bestand?
 
-Een DER-bestand is een digitaal certificaatbestand dat in binair formaat wordt gemaakt en opgeslagen. Het is een binaire codering voor de X.509-certificaten en privésleutels. In tegenstelling tot PEM-bestanden ([CRT](https://docs.fileformat.com/web/crt/), [CER](https://docs.fileformat.com/web/cer/)), doen DER-bestanden geen voor mensen leesbare duidelijke tekstverklaringen bevatten, zoals -----BEGIN CERTIFICATE-----. Ze worden meestal gebruikt in de context van Java.
+Een DER-bestand is een digitaal certificaatbestand dat in binair formaat wordt gemaakt en opgeslagen. Het is een binaire codering voor de X.509-certificaten en privésleutels. In tegenstelling tot PEM-bestanden ([CRT](/web/crt/), [CER](/web/cer/)), doen DER-bestanden geen voor mensen leesbare duidelijke tekstverklaringen bevatten, zoals -----BEGIN CERTIFICATE-----. Ze worden meestal gebruikt in de context van Java.
 
 ## DER-bestandsindeling - Meer informatie
 

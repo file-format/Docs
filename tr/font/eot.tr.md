@@ -19,7 +19,7 @@
 
 ## .eot dosyası nedir?
 
-.eot uzantılı bir dosya, belgeye katıştırılmış bir OpenType yazı tipidir. Bunlar çoğunlukla Web sayfası gibi web dosyalarında kullanılır. Microsoft tarafından oluşturulmuştur ve PowerPoint sunum [.pps](/tr/sunum/pps) dosyası dahil olmak üzere Microsoft Ürünleri tarafından desteklenmektedir. Dosya birincil kullanım değildir ve ana belge veya web sayfasıyla birlikte bir tür eşlik eden belgedir. OTF yazı tiplerine benzer şekilde EOT, glifler için hem Postscript hem de TrueType ana hatlarını destekler. EOT dosyalarının boyutu, LZ sıkıştırması kullanılarak sıkıştırılmaları nedeniyle daha küçüktür. EOT, mevcut TTF/OTF yazı tiplerinden bir yazı tipi oluşturmak için bir Microsoft aracı kullanır.
+.eot uzantılı bir dosya, belgeye katıştırılmış bir OpenType yazı tipidir. Bunlar çoğunlukla Web sayfası gibi web dosyalarında kullanılır. Microsoft tarafından oluşturulmuştur ve PowerPoint sunum [.pps](/tr/presentation/pps/) dosyası dahil olmak üzere Microsoft Ürünleri tarafından desteklenmektedir. Dosya birincil kullanım değildir ve ana belge veya web sayfasıyla birlikte bir tür eşlik eden belgedir. OTF yazı tiplerine benzer şekilde EOT, glifler için hem Postscript hem de TrueType ana hatlarını destekler. EOT dosyalarının boyutu, LZ sıkıştırması kullanılarak sıkıştırılmaları nedeniyle daha küçüktür. EOT, mevcut TTF/OTF yazı tiplerinden bir yazı tipi oluşturmak için bir Microsoft aracı kullanır.
 
 ## Kısa Tarihçe
 

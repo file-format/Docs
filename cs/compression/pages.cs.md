@@ -41,8 +41,8 @@ Dokumenty Apple PAGES lze převést do několika formátů souborů. To lze prov
 * Microsoft Word [DOC](/cs/word-processing/doc/) a [DOCX](/cs/word-processing/docx/)
 * [PDF](/cs/pdf/)
 * [EPUB](/cs/ebook/epub/)
-* [RTF](/cs/textový editor/rtf/)
-* [TXT](/cs/textový editor/txt/)
+* [RTF](/cs/word-processing/rtf/)
+* [TXT](/cs/word-processing/txt/)
 
 ## Reference
 

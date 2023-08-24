@@ -27,5 +27,6 @@
 ## Список літератури
 
 * [FWTEMPLATE](/uk/web/fwtemplate/)
-* [АВТОМОБІЛЬНА МАШИНА](/uk/web/freeway/)
+* [FREEWAY](/uk/web/freeway/)
+
 

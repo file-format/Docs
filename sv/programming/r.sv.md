@@ -21,7 +21,7 @@
 
 En fil med filändelsen .r tillhör programmeringsspråket R. Detta språk är specificerat för statistisk beräkning och är populärt bland statistiker. Dataanalys och utveckling av statistisk programvara är två huvudkategorier som utförs av detta språk inom datautvinningsområdet. En annan fördel med att använda detta språk och programvara är att det ger möjlighet till statiska grafer som är användbara vid framställning av kvalitetsgrafer. Vissa ytterligare paket används för dynamisk och interaktiv grafik.
 
-Programvaran för detta språk innehåller en allmän offentlig licens så att dess tillgänglighet är gratis. Koden för R är vanligtvis skriven på högnivåspråk som [C](/sv/programmering/c/) och R självt också. Mjukvaran innefattar ett kommandoradsgränssnitt tillsammans med tillgången till tredjepartsgränssnitt som grafiska användargränssnitt för RStudio och Jupyter (notebook-gränssnitt). Det finns statistiska tekniker som används i implementeringen av bibliotek av R. Det inkluderar också modellering som linjär och olinjär.
+Programvaran för detta språk innehåller en allmän offentlig licens så att dess tillgänglighet är gratis. Koden för R är vanligtvis skriven på högnivåspråk som [C](/sv/programming/c/) och R självt också. Mjukvaran innefattar ett kommandoradsgränssnitt tillsammans med tillgången till tredjepartsgränssnitt som grafiska användargränssnitt för RStudio och Jupyter (notebook-gränssnitt). Det finns statistiska tekniker som används i implementeringen av bibliotek av R. Det inkluderar också modellering som linjär och olinjär.
 
 
 ## Kortfattad bakgrund ##

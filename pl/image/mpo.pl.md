@@ -18,7 +18,7 @@
 
 ## Czym jest plik MPO?
 
-Plik MPO to stereoskopowy obraz 3D, który powstaje po nałożeniu dwóch obrazów 2D. Tego rodzaju obrazy są tworzone przez aparaty cyfrowe i są szeroko stosowane w konsolach do gier wideo 3D i telewizorach 3D. Pliki MPO są również znane jako obiekty wieloobrazowe, ponieważ zawierają dwa lub więcej obrazów [JPEG](/pl/image/jpg/).
+Plik MPO to stereoskopowy obraz 3D, który powstaje po nałożeniu dwóch obrazów 2D. Tego rodzaju obrazy są tworzone przez aparaty cyfrowe i są szeroko stosowane w konsolach do gier wideo 3D i telewizorach 3D. Pliki MPO są również znane jako obiekty wieloobrazowe, ponieważ zawierają dwa lub więcej obrazów [JPEG](/pl/image/jpeg/).
 
 ## Krótka historia formatu pliku MPO
 

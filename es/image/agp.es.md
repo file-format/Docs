@@ -29,5 +29,5 @@ Los archivos AGP se guardaron en el formato de archivo propietario de ArtGem. La
 
 ## Referencias
 
-* [Formato de archivo JPEG](/es/imagen/jpeg/)
+* [Formato de archivo JPEG](/es/image/jpeg/)
 

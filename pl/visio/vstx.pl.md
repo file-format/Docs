@@ -20,11 +20,11 @@
 
 ## Czym jest plik VSTX?
 
-Pliki z rozszerzeniami .vstx to pliki szablonów rysunków utworzone w programie Microsoft Visio 2013 lub nowszym. Te pliki VSTX stanowią punkt wyjścia do tworzenia rysunków Visio zapisanych jako pliki [.VSDX](/pl/image/vsdx/), z domyślnym układem i ustawieniami. Zasadniczo pliki Visio są używane do tworzenia rysunków zawierających obiekty wizualne, schematy blokowe, diagram UML, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również eksportować do różnych formatów plików, takich jak [PNG](/pl/Image/PNG/), [BMP](/pl/Image/BMP/), [PDF](/pl/pdf/) i inne. Programy otwierające pliki VSTX obejmują Microsoft Visio dla Windows i Mac, które umożliwiają otwieranie tych plików do przeglądania i edycji. Pozwala także konwertować formaty plików Visio na wiele innych formatów.
+Pliki z rozszerzeniami .vstx to pliki szablonów rysunków utworzone w programie Microsoft Visio 2013 lub nowszym. Te pliki VSTX stanowią punkt wyjścia do tworzenia rysunków Visio zapisanych jako pliki [.VSDX](/pl/visio/vsdx/), z domyślnym układem i ustawieniami. Zasadniczo pliki Visio są używane do tworzenia rysunków zawierających obiekty wizualne, schematy blokowe, diagram UML, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również eksportować do różnych formatów plików, takich jak [PNG](/pl/image/png/), [BMP](/pl/image/bmp/), [PDF](/pl/pdf/) i inne. Programy otwierające pliki VSTX obejmują Microsoft Visio dla Windows i Mac, które umożliwiają otwieranie tych plików do przeglądania i edycji. Pozwala także konwertować formaty plików Visio na wiele innych formatów.
 
 # Format pliku VSTX #
 
-„X” w rozszerzeniu pliku odnosi się do formatu pliku OpenOffice, który został wprowadzony przez firmę Microsoft jako format pliku archiwum [ZIP](/pl/compression/zip/) w celu zastąpienia obsługiwanych wcześniej formatów plików binarnych. Pliki VSTX są zatem oparte na formacie pliku XML specyfikacji OpenOffice, w przeciwieństwie do formatu pliku [.VST](/pl/image/vst/), który jest w formacie binarnym.
+„X” w rozszerzeniu pliku odnosi się do formatu pliku OpenOffice, który został wprowadzony przez firmę Microsoft jako format pliku archiwum [ZIP](/pl/compression/zip/) w celu zastąpienia obsługiwanych wcześniej formatów plików binarnych. Pliki VSTX są zatem oparte na formacie pliku XML specyfikacji OpenOffice, w przeciwieństwie do formatu pliku [.VST](/pl/visio/vst/), który jest w formacie binarnym.
 
 Pliki VSDX są oparte na Open Packaging Conventions i XML, a programiści mogą korzystać z tego formatu, ucząc się, jak programowo pracować z tymi plikami. Format dziedziczy wiele takich samych struktur XML, jak jego części, z formatu pliku rysunku XML programu Visio (vdx). Współdziałanie z plikami programu Visio jest znacznie zwiększone, ponieważ oprogramowanie innych firm może manipulować plikami programu Visio na poziomie formatu pliku.
 
@@ -36,7 +36,7 @@ Niektóre inne typy plików składające się na format pliku programu Visio 201
 * .vstx (szablon programu Visio)
 * .vstm (szablon programu Visio z obsługą makr)
 
-Pod maską format pliku Visio 2013 wykorzystuje ustrukturyzowane środki do przechowywania danych aplikacji wraz z powiązanymi zasobami w archiwum, takim jak [ZIP](/pl/Compression/ZIP/). Plik ZIP można wyodrębnić za pomocą dowolnego standardowego narzędzia do wyodrębniania, w którym zawiera również inne typy plików. Możesz po prostu zamienić rozszerzenie pliku .VSTX na .ZIP w Eksploratorze Windows, aby zobaczyć zawartość pliku VSTX.
+Pod maską format pliku Visio 2013 wykorzystuje ustrukturyzowane środki do przechowywania danych aplikacji wraz z powiązanymi zasobami w archiwum, takim jak [ZIP](/pl/compression/zip/). Plik ZIP można wyodrębnić za pomocą dowolnego standardowego narzędzia do wyodrębniania, w którym zawiera również inne typy plików. Możesz po prostu zamienić rozszerzenie pliku .VSTX na .ZIP w Eksploratorze Windows, aby zobaczyć zawartość pliku VSTX.
 
 Każdy plik programu Visio jest określany jako pakiet zawierający inne pliki lub części. Częścią pakietu może być plik XML, obraz, a nawet rozwiązanie VBA. Części w pakiecie można podzielić na części „dokumentowe” i „relacyjne”.
 

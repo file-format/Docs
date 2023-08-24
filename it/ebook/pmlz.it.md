@@ -19,7 +19,7 @@
 
 ## Che cos'è un file PMLZ?
 
-Palm Inc ha introdotto un tipo di file eBook; noto come formato di file PMLZ che è una versione compressa del formato di file [PML](/it/ebook/pml/), ecco perché i file con estensione .pmlz sono noti come **File di linguaggio di markup Palm compresso**. Il file PMLZ è solo un contenitore zip di un file che compila i file [PDB](/it/ebook/pdb/) per creare documenti per **eReader** (noto come un dispositivo di lettura di ebook come un tablet). Il file PML fornisce il layout a un file PDB (contenente vari file di dati) da visualizzare su un dispositivo Palm. Considerando che un file PDB è un file di database, che viene utilizzato da varie applicazioni, tra cui Quicken, Pegasus, Microsoft Visual Studio e Palm Pilot. In breve, un PMLZ è un contenitore compresso di file PML e PDB.
+Palm Inc ha introdotto un tipo di file eBook; noto come formato di file PMLZ che è una versione compressa del formato di file [PML](/it/ebook/pml/), ecco perché i file con estensione .pmlz sono noti come **File di linguaggio di markup Palm compresso**. Il file PMLZ è solo un contenitore zip di un file che compila i file [PDB](/it/programming/pdb/) per creare documenti per **eReader** (noto come un dispositivo di lettura di ebook come un tablet). Il file PML fornisce il layout a un file PDB (contenente vari file di dati) da visualizzare su un dispositivo Palm. Considerando che un file PDB è un file di database, che viene utilizzato da varie applicazioni, tra cui Quicken, Pegasus, Microsoft Visual Studio e Palm Pilot. In breve, un PMLZ è un contenitore compresso di file PML e PDB.
 
 
 ## Conoscenza del linguaggio di markup Palm

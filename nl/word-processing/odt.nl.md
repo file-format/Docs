@@ -19,7 +19,7 @@
 
 ## Wat is een ODT-bestand?
 
-ODT-bestanden zijn typen documenten die zijn gemaakt met tekstverwerkingsprogramma's die zijn gebaseerd op de OpenDocument Text File-indeling. Deze zijn gemaakt met tekstverwerkingsprogramma's zoals gratis OpenOffice Writer en kunnen inhoud bevatten zoals tekst, afbeeldingen, objecten en stijlen. Het ODT-bestand is voor de tekstverwerker van Writer wat de [DOCX](/nl/tekstverwerking/docx/) is voor Microsoft Word. Verschillende toepassingen, waaronder Google Docs en de webgebaseerde tekstverwerker van Google die bij Google Drive worden geleverd, kunnen de ODT-bestanden openen voor bewerking. Microsoft Word kan ook ODT-bestanden openen en opslaan in andere formaten zoals [DOC](/nl/tekstverwerking/doc/) en DOCX.
+ODT-bestanden zijn typen documenten die zijn gemaakt met tekstverwerkingsprogramma's die zijn gebaseerd op de OpenDocument Text File-indeling. Deze zijn gemaakt met tekstverwerkingsprogramma's zoals gratis OpenOffice Writer en kunnen inhoud bevatten zoals tekst, afbeeldingen, objecten en stijlen. Het ODT-bestand is voor de tekstverwerker van Writer wat de [DOCX](/nl/word-processing/docx/) is voor Microsoft Word. Verschillende toepassingen, waaronder Google Docs en de webgebaseerde tekstverwerker van Google die bij Google Drive worden geleverd, kunnen de ODT-bestanden openen voor bewerking. Microsoft Word kan ook ODT-bestanden openen en opslaan in andere formaten zoals [DOC](/nl/word-processing/doc/) en DOCX.
 
 ## Korte geschiedenis ##
 
@@ -35,7 +35,7 @@ Er waren vrij kleine veranderingen in de overgang van ODF 1.0 naar 1.1-versies. 
 
 ## Specificaties bestandsindeling ##
 
-OpenDocument-indeling ondersteunt documentweergave als een enkel XML-document en als een verzameling van verschillende subdocumenten binnen een pakket als [ZIP](/nl/Compression/ZIP/)-archief. Elk van de bestanden uit het ZIP-archief slaat een deel van het volledige document op. Elk subdocument slaat een bepaald aspect van het document op. Een subdocument bevat bijvoorbeeld de stijlinformatie en een ander subdocument bevat de inhoud van het document. Een typisch ODF-document heeft de volgende onderdelen:
+OpenDocument-indeling ondersteunt documentweergave als een enkel XML-document en als een verzameling van verschillende subdocumenten binnen een pakket als [ZIP](/nl/compression/zip/)-archief. Elk van de bestanden uit het ZIP-archief slaat een deel van het volledige document op. Elk subdocument slaat een bepaald aspect van het document op. Een subdocument bevat bijvoorbeeld de stijlinformatie en een ander subdocument bevat de inhoud van het document. Een typisch ODF-document heeft de volgende onderdelen:
 
 * content.xml – Documentinhoud en automatische stijlen die in de inhoud worden gebruikt.
 * styles.xml – Stijlen die worden gebruikt in de documentinhoud en automatische stijlen die in de stijlen zelf worden gebruikt.

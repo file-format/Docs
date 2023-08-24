@@ -52,7 +52,4 @@ PPDM 데이터 모델은 DLIS 데이터를 포함하여 유정 로그 데이터�
 
 PPDM 데이터 모델과 DLIS 데이터를 함께 사용하면 업계 표준과 일치하고 다른 시스템 및 애플리케이션에서 쉽게 액세스할 수 있는 방식으로 유정 로그 데이터를 저장하고 관리할 수 있습니다.
 
-## 참조
-* [디지털 웰 로그 데이터 형식](http://w3.energistics.org/rp66/V1/Toc/main.html)
-* [DLIS - 데이터 구성](http://w3.energistics.org/rp66/V1/Toc/main.html)
 

@@ -23,7 +23,7 @@ Soubor s příponou .wmz je komprimovanou verzí [WMF](/cs/image/wmf/) a použí
 
 ## Formát souboru WMZ
 
-Soubory WMZ jsou komprimovány [Gzip](/cs/compression/gz/) a obsahují uvnitř [WMF](/cs/image/WMF/). Gzip používá pro kompresi archivu algoritmus DEFLATE. GZIP se liší od formátu archivu [ZIP](/cs/compression/zip/), protože aplikuje kompresní algoritmus na kompletní archiv, nikoli na jednotlivé soubory. Formát souboru se skládá z:
+Soubory WMZ jsou komprimovány [Gzip](/cs/compression/gz/) a obsahují uvnitř [WMF](/cs/image/wmf/). Gzip používá pro kompresi archivu algoritmus DEFLATE. GZIP se liší od formátu archivu [ZIP](/cs/compression/zip/), protože aplikuje kompresní algoritmus na kompletní archiv, nikoli na jednotlivé soubory. Formát souboru se skládá z:
 
 * Záhlaví souboru
 * Volitelné záhlaví

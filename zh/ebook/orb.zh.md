@@ -23,7 +23,7 @@ ORB文件格式属于电子书文件类型，可以使用ORB Reader来阅读，O
 
 ## ORB 文件的结构##
 
-.orb 扩展名的文件实际上是用 Zip 压缩的；包含一个或多个 [SWF](/zh/video/swf/)（Macromedia Flash 文件）文件以组成电子书。您可能会想到一个问题，我们如何打开或读取这种文件格式？答案是你可以用原书阅读器打开它，它也被称为**ORB阅读器**。 ORB 阅读器似乎已停产或不再在 Internet 上可用，但在过去，它可用于 Microsoft Windows 和 macOS。
+.orb 扩展名的文件实际上是用 Zip 压缩的；包含一个或多个 [SWF](/zh/page-description-language/swf/)（Macromedia Flash 文件）文件以组成电子书。您可能会想到一个问题，我们如何打开或读取这种文件格式？答案是你可以用原书阅读器打开它，它也被称为**ORB阅读器**。 ORB 阅读器似乎已停产或不再在 Internet 上可用，但在过去，它可用于 Microsoft Windows 和 macOS。
 
 ## 查看 ORB 文件##
 

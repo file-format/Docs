@@ -31,7 +31,7 @@ expand /i <source> [<destination>]
 expand /d <source>.cab [/f:<files>]
 expand <source>.cab /f:<files> <destination>
 ```
-Genişletildiğinde, SY_ dosyaları [SYS](https://docs.fileformat.com/system/sys/) dosyasına dönüştürülür.
+Genişletildiğinde, SY_ dosyaları [SYS](/system/sys/) dosyasına dönüştürülür.
 
 SY_ dosyaları, EX_ ve DL_ dosyalarına benzer.
 

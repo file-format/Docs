@@ -73,7 +73,7 @@ JFIF 标准定义了以下部分：
 
 ## JFIF 到其他图像文件格式的转换
 
-JFIF 可以转换为流行的图像文件格式，例如 [PNG](/zh/image/png/)、[JPG](/zh/image/jpg/) 和 [PDF](/zh/pdf/)。
+JFIF 可以转换为流行的图像文件格式，例如 [PNG](/zh/image/png/)、[JPG](/zh/image/jpeg/) 和 [PDF](/zh/pdf/)。
 
 ## 参考 ＃＃
 

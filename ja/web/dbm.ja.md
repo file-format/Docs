@@ -19,7 +19,7 @@
 
 ## .DBM オプション番号
 
-.dbm (データベース マークアップ言語) 拡張子を持つファイルは、Adobe Systems によって開発された ColdFusion サーバー ファイルです。 ColdFusionを搭載したWebサーバー上で実行されるサーバーサイドファイルです。 [ASP](/web/asp/) および [PHP](/web/php/) ファイルに似ており、ユーザーが Web ブラウザーでページを要求すると [HTML](/web/html/) を生成します。 DBM ファイルは、Adobe ColdFusion、Adobe ColdFusion Builder、MacroMates TextMate、Apple Safari などのアプリケーションで開くことができます。
+.dbm (データベース マークアップ言語) 拡張子を持つファイルは、Adobe Systems によって開発された ColdFusion サーバー ファイルです。 ColdFusionを搭載したWebサーバー上で実行されるサーバーサイドファイルです。 [ASP](/web/asp/) および [PHP](/programming/php/) ファイルに似ており、ユーザーが Web ブラウザーでページを要求すると [HTML](/web/html/) を生成します。 DBM ファイルは、Adobe ColdFusion、Adobe ColdFusion Builder、MacroMates TextMate、Apple Safari などのアプリケーションで開くことができます。
 
 ## DBM ファイル形式
 

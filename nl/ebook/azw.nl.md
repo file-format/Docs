@@ -19,7 +19,7 @@
 
 ## Wat is een AZW-bestand?
 
-AZW is een digitaal e-boekbestandsformaat dat door Amazon is ontwikkeld voor zijn Kindle-apparaten. Het formaat is overgenomen van het MobiPocket eBook [MOBI](/nl/ebook/mobi/) bestandsformaat en DRM-beveiliging is alleen toegepast voor gebruik op Kindle-apparaten. AZW-bestanden kunnen dingen zoals opgemaakte tekst, bladwijzers en andere informatie opslaan als onderdeel van de Mobipocket .PRC-bestanden. DRM-beveiligde AZW-bestanden kunnen niet worden gelezen door andere apparaten en kunnen worden gelezen met Kindle-apparaten. AZW-bestanden kunnen worden geconverteerd naar een aantal andere bestandsindelingen, zoals [PDF](/nl/pdf/), [EPUB](/nl/ebook/epub/), [AZW3](/nl/ebook/azw3/), [DOCX](/nl/word -verwerking/docx/), en [RTF](/nl/tekstverwerking/rtf/). AZW-bestanden hebben internetmediatype *application/vnd.amazon.mobi8-ebook*.
+AZW is een digitaal e-boekbestandsformaat dat door Amazon is ontwikkeld voor zijn Kindle-apparaten. Het formaat is overgenomen van het MobiPocket eBook [MOBI](/nl/ebook/mobi/) bestandsformaat en DRM-beveiliging is alleen toegepast voor gebruik op Kindle-apparaten. AZW-bestanden kunnen dingen zoals opgemaakte tekst, bladwijzers en andere informatie opslaan als onderdeel van de Mobipocket .PRC-bestanden. DRM-beveiligde AZW-bestanden kunnen niet worden gelezen door andere apparaten en kunnen worden gelezen met Kindle-apparaten. AZW-bestanden kunnen worden geconverteerd naar een aantal andere bestandsindelingen, zoals [PDF](/nl/pdf/), [EPUB](/nl/ebook/epub/), [AZW3](/nl/ebook/azw3/), [DOCX](/nl/word-processing/docx/), en [RTF](/nl/word-processing/rtf/). AZW-bestanden hebben internetmediatype *application/vnd.amazon.mobi8-ebook*.
 
 ## AZW-bestandsindeling
 

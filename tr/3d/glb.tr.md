@@ -77,5 +77,5 @@ Bu öbek, geometri, animasyon anahtar çerçeveleri, dış görünümler ve resi
 
 ## Referanslar ##
 
-* [GLB Dosya Biçimi Özellikleri - Khronos](/tr/3D/GLTF/)
+* [GLB Dosya Biçimi Özellikleri - Khronos](/tr/3d/gltf/)
 

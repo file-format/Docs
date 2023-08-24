@@ -20,7 +20,7 @@
 
 ## ¿Qué es un archivo VSX?
 
-Los archivos con extensión .vsx se refieren a plantillas que consisten en dibujos y formas que se utilizan para crear diagramas en Microsoft Visio. Los archivos VSX se guardan en formato de archivo XML y fueron compatibles hasta Visio 2013. Estos son diferentes al formato de archivo principal [VSDX](/es/image/vsdx/) que se introdujo con Microsoft Visio 2013. Los archivos VSX se pueden abrir en cualquier editor de texto para ver los contenidos. Los archivos VSX se pueden convertir a varios formatos de archivo diferentes, como PDF y HTML.
+Los archivos con extensión .vsx se refieren a plantillas que consisten en dibujos y formas que se utilizan para crear diagramas en Microsoft Visio. Los archivos VSX se guardan en formato de archivo XML y fueron compatibles hasta Visio 2013. Estos son diferentes al formato de archivo principal [VSDX](/es/visio/vsdx/) que se introdujo con Microsoft Visio 2013. Los archivos VSX se pueden abrir en cualquier editor de texto para ver los contenidos. Los archivos VSX se pueden convertir a varios formatos de archivo diferentes, como PDF y HTML.
 
 ## Formato de archivo VSX ##
 

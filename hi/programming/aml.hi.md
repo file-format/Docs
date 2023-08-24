@@ -52,8 +52,7 @@ MAML फाइलें Sandcastle, .XSL स्कीमा और प्रो�
 
 ## संदर्भ
 
-* [प्लैटीपीएस का उपयोग कर एक्सएमएल-आधारित सहायता तैयार करें
-](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-use-platyps?view=powershell-7.2)
+* [प्लैटीपीएस का उपयोग कर एक्सएमएल-आधारित सहायता तैयार करें](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
 * [माइक्रोसॉफ्ट असिस्टेंस मार्कअप लैंग्वेज](https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
 
 # एएमएल - आर्क मैक्रो लैंग्वेज फाइल
@@ -69,5 +68,5 @@ AML (ARC मैक्रो लैंग्वेज) फ़ाइल ArcInfo �
 ## संदर्भ
 
 * [एआरसी मैक्रो भाषा](https://en.wikipedia.org/wiki/ARC_Macro_Language)
-* [स्क्रिप्ट टूल्स के साथ AML का उपयोग करना](https://desktop.arcgis.com/en/arcmap/latest/analyze/creating-tools/use-amls-with-script-tools.htm)
+* [स्क्रिप्ट टूल्स के साथ AML का उपयोग करना](https://desktop.arcgis.com/en/arcmap/latest/analyze/creating-tools/using-amls-with-script-tools.htm)
 

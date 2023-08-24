@@ -21,7 +21,7 @@
 
 DOTX 확장자를 가진 파일은 추가 [DOCX](/ko/word-processing/docx/) 파일 생성을 위해 미리 형식이 지정된 설정을 갖도록 Microsoft Word에서 만든 템플릿 파일입니다. 템플릿 파일은 이들로부터 생성된 후속 파리에 적용되어야 하는 특정 사용자 설정을 갖기 위해 생성됩니다. 이러한 설정에는 페이지 여백, 테두리, 머리글, 바닥글 및 기타 페이지 설정이 포함됩니다. 이러한 템플릿은 회사 레터헤드 및 표준화된 양식과 같은 공식 문서에 사용됩니다.
 
-DOTX 파일 형식은 Microsoft Office 2007 릴리스와 함께 바이너리 [DOT ](/ko/word-processing/dot/) 파일 형식을 대체하기 위해 도입되었지만 상위 버전에서도 지원됩니다. Microsoft Word는 기본적으로 normal.dot 파일을 기반으로 모든 새 문서를 엽니다. 수정하면 생성된 모든 새 파일은 템플릿 파일과 동일한 설정이 됩니다. Microsoft Word 2007에서는 DOT 파일 형식이 Office OpenXML 기반 DOTX 파일 형식으로 대체되었습니다.
+DOTX 파일 형식은 Microsoft Office 2007 릴리스와 함께 바이너리 [DOT](/ko/word-processing/dot/) 파일 형식을 대체하기 위해 도입되었지만 상위 버전에서도 지원됩니다. Microsoft Word는 기본적으로 normal.dot 파일을 기반으로 모든 새 문서를 엽니다. 수정하면 생성된 모든 새 파일은 템플릿 파일과 동일한 설정이 됩니다. Microsoft Word 2007에서는 DOT 파일 형식이 Office OpenXML 기반 DOTX 파일 형식으로 대체되었습니다.
 
 ## 간략한 역사 ##
 

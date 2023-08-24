@@ -73,7 +73,7 @@ Bu, tanımlandığı takdirde JFIF APP0 işaretleyici segmentini hemen takip etm
 
 ## JFIF'in Diğer Görüntü Dosyası Formatlarına Dönüştürülmesi
 
-JFIF, [PNG](/tr/image/png/), [JPG](/tr/image/jpg/) ve [PDF](/tr/pdf/) gibi popüler görüntü dosyası biçimlerine dönüştürülebilir.
+JFIF, [PNG](/tr/image/png/), [JPG](/tr/image/jpeg/) ve [PDF](/tr/pdf/) gibi popüler görüntü dosyası biçimlerine dönüştürülebilir.
 
 ## Referanslar ##
 

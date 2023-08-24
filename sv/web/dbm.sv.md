@@ -19,7 +19,7 @@
 
 ## Vad är en DBM fil?
 
-En fil med tillägget .dbm (Database Markup Language) är en ColdFusion Server-fil som utvecklats av Adobe Systems. Det är en fil på serversidan som körs på webbserver med ColdFusion. Det liknar filerna [ASP](/sv/web/asp/) och [PHP](/sv/web/php/) och genererar [HTML](/sv/web/html/) när en användare begär sidan i webbläsaren. DBM-filer kan öppnas i program som Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate och Apple Safari.
+En fil med tillägget .dbm (Database Markup Language) är en ColdFusion Server-fil som utvecklats av Adobe Systems. Det är en fil på serversidan som körs på webbserver med ColdFusion. Det liknar filerna [ASP](/sv/web/asp/) och [PHP](/sv/programming/php/) och genererar [HTML](/sv/web/html/) när en användare begär sidan i webbläsaren. DBM-filer kan öppnas i program som Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate och Apple Safari.
 
 ## DBM filformat
 

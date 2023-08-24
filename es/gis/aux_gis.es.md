@@ -18,7 +18,7 @@
 
 ## ¿Qué es un archivo AUX?
 
-Un archivo con extensión .aux es un archivo auxiliar que contiene datos geoespaciales para los archivos de datos ráster adjuntos en archivos [.JPG](/es/image/jpg/) o GeoTIFF [.TIFF](/es/image/tiff/). Dado que los archivos ráster no pueden contener dicha información, los archivos AUX se utilizan para almacenar la información adicional en forma de datos asociados. Por lo general, se almacenan en el mismo directorio con el mismo nombre de archivo que el nombre del archivo ráster correspondiente. Los archivos AUX son utilizados generalmente por aplicaciones geoespaciales como ESRI ArcGIS Desktop y ERDAS IMAGINE.
+Un archivo con extensión .aux es un archivo auxiliar que contiene datos geoespaciales para los archivos de datos ráster adjuntos en archivos [.JPG](/es/image/jpeg/) o GeoTIFF [.TIFF](/es/image/tiff/). Dado que los archivos ráster no pueden contener dicha información, los archivos AUX se utilizan para almacenar la información adicional en forma de datos asociados. Por lo general, se almacenan en el mismo directorio con el mismo nombre de archivo que el nombre del archivo ráster correspondiente. Los archivos AUX son utilizados generalmente por aplicaciones geoespaciales como ESRI ArcGIS Desktop y ERDAS IMAGINE.
 
 ## Formato de archivo AUX - Más información
 

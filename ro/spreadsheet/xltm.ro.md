@@ -27,7 +27,7 @@ A fost la începutul anilor 2000 când Microsoft a decis să opteze pentru modif
 
 ## Specificații pentru formatul fișierului XLTM ##
 
-Fișierele XLTM se bazează pe formatul de fișier Office OpenXML și folosesc XML și [ZIP](/ro/Compression/ZIP/) pentru a reduce dimensiunea fișierului. Acestea pot fi deschise cu Microsoft Excel făcând dublu clic pe fișier. Organizarea fișierelor într-un format de fișier XLTM poate fi observată prin redenumirea fișierului în ZIP și apoi extragerea conținutului acestuia pe disc.
+Fișierele XLTM se bazează pe formatul de fișier Office OpenXML și folosesc XML și [ZIP](/ro/compression/zip/) pentru a reduce dimensiunea fișierului. Acestea pot fi deschise cu Microsoft Excel făcând dublu clic pe fișier. Organizarea fișierelor într-un format de fișier XLTM poate fi observată prin redenumirea fișierului în ZIP și apoi extragerea conținutului acestuia pe disc.
 
 ### [Content_Types].xml ###
 

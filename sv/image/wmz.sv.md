@@ -23,7 +23,7 @@ En fil med filtillägget .wmz är en komprimerad version av [WMF](/sv/image/wmf/
 
 ## WMZ filformat
 
-WMZ-filer är [Gzip](/sv/compression/gz/) komprimerade och innehåller [WMF](/sv/image/WMF/) inuti. Gzip använder DEFLATE-algoritmen för komprimering av arkivet. GZIP skiljer sig från arkivformatet [ZIP](/sv/compression/zip/) eftersom det tillämpar en komprimeringsalgoritm för att slutföra arkivet snarare än de enskilda filerna. Filformatet består av:
+WMZ-filer är [Gzip](/sv/compression/gz/) komprimerade och innehåller [WMF](/sv/image/wmf/) inuti. Gzip använder DEFLATE-algoritmen för komprimering av arkivet. GZIP skiljer sig från arkivformatet [ZIP](/sv/compression/zip/) eftersom det tillämpar en komprimeringsalgoritm för att slutföra arkivet snarare än de enskilda filerna. Filformatet består av:
 
 * Filhuvud
 * Valfria rubriker

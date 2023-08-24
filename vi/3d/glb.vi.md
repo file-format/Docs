@@ -77,5 +77,5 @@ Phần đầu và phần cuối của mỗi đoạn phải được căn chỉnh
 
 ## Người giới thiệu ##
 
-* [Thông số kỹ thuật định dạng tệp GLB - Khronos](/vi/3D/GLTF/)
+* [Thông số kỹ thuật định dạng tệp GLB - Khronos](/vi/3d/gltf/)
 

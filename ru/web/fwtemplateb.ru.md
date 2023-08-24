@@ -27,5 +27,6 @@
 ## использованная литература
 
 * [FWTEMPLATE](/ru/web/fwtemplate/)
-* [СВОБОДНАЯ ДОРОГА](/ru/веб/автострада/)
+* [FREEWAY](/ru/web/freeway/)
+
 

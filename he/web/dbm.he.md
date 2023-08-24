@@ -19,7 +19,7 @@
 
 ## מהו קובץ DBM?
 
-קובץ עם סיומת .dbm (Database Markup Language) הוא קובץ ColdFusion Server שפותח על ידי Adobe Systems. זהו קובץ בצד השרת שמבוצע בשרת אינטרנט עם ColdFusion. זה דומה לקבצי [ASP](/he/web/asp/) ו-[PHP](/he/web/php/) ויוצר [HTML](/he/web/html/) כאשר משתמש מבקש את הדף בדפדפן האינטרנט. ניתן לפתוח קבצי DBM ביישומים כגון Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate ו-Apple Safari.
+קובץ עם סיומת .dbm (Database Markup Language) הוא קובץ ColdFusion Server שפותח על ידי Adobe Systems. זהו קובץ בצד השרת שמבוצע בשרת אינטרנט עם ColdFusion. זה דומה לקבצי [ASP](/he/web/asp/) ו-[PHP](/he/programming/php/) ויוצר [HTML](/he/web/html/) כאשר משתמש מבקש את הדף בדפדפן האינטרנט. ניתן לפתוח קבצי DBM ביישומים כגון Adobe ColdFusion, Adobe ColdFusion Builder, MacroMates TextMate ו-Apple Safari.
 
 ## פורמט קובץ DBM
 

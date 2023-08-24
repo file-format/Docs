@@ -19,7 +19,7 @@
 
 ## Was ist eine DOCM-Datei?
 
-DOCM-Dateien sind von Microsoft Word 2007 oder höher generierte Dokumente mit der Möglichkeit, Makros auszuführen. Es ähnelt dem Dateiformat [DOCX](https://docs.fileformat.com/word-processing/docx/), aber die Fähigkeit, Makros auszuführen, unterscheidet es von DOCX. Genau wie DOCX können DOCM-Dateien Text, Bilder, Tabellen, Formen, Diagramme und andere Inhalte speichern. Die Fähigkeit, Makros auszuführen, macht es einfach, Zeit zu sparen, indem die Reihe von Befehlen in Form von aufgezeichneten Aktionen für die automatische Ausführung einer Aufgabe ausgeführt wird . DOCM-Dateien können in Microsoft Word 2007 und höher geöffnet und bearbeitet werden.
+DOCM-Dateien sind von Microsoft Word 2007 oder höher generierte Dokumente mit der Möglichkeit, Makros auszuführen. Es ähnelt dem Dateiformat [DOCX](/word-processing/docx/), aber die Fähigkeit, Makros auszuführen, unterscheidet es von DOCX. Genau wie DOCX können DOCM-Dateien Text, Bilder, Tabellen, Formen, Diagramme und andere Inhalte speichern. Die Fähigkeit, Makros auszuführen, macht es einfach, Zeit zu sparen, indem die Reihe von Befehlen in Form von aufgezeichneten Aktionen für die automatische Ausführung einer Aufgabe ausgeführt wird . DOCM-Dateien können in Microsoft Word 2007 und höher geöffnet und bearbeitet werden.
 
 ## Kurze Geschichte
 

@@ -19,7 +19,7 @@
 
 ## 什么是一 .der 文件？
 
-DER 文件是以二进制格式创建和存储的数字证书文件。它是 X.509 证书和私钥的二进制编码。与 PEM 文件（[CRT](https://docs.fileformat.com/web/crt/)、[CER](https://docs.fileformat.com/web/cer/)）相比，DER 文件可以不包含人类可读的纯文本语句，例如 -----BEGIN CERTIFICATE-----。它们主要用于 Java 的上下文中。
+DER 文件是以二进制格式创建和存储的数字证书文件。它是 X.509 证书和私钥的二进制编码。与 PEM 文件（[CRT](/web/crt/)、[CER](/web/cer/)）相比，DER 文件可以不包含人类可读的纯文本语句，例如 -----BEGIN CERTIFICATE-----。它们主要用于 Java 的上下文中。
 
 ## DER 文件格式 - 更多信息
 

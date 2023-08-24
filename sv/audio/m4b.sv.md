@@ -28,7 +28,7 @@ Ljudboksfilerna som innehåller metadata, bilder, bokmärken och hyperlänkar ka
 
 ## M4B vs M4A
 
-Både M4B och [MP3](https://docs.fileformat.com/audio/mp3/) är filformat endast för ljud.
+Både M4B och [MP3](/audio/mp3/) är filformat endast för ljud.
 
 **M4B**: Vinner jämfört med MP3 vad gäller kvalitet om båda kodas med samma bithastighet. M4B är en ljudboksfil som är komprimerad med AAC-kodning. Det är i princip förknippat med "MPEG-4 Audio Layer", filer med .m4b-tillägget är ljudlagret för MPEG-4-filmer men med extra ljudboksrelaterade funktioner. Dess mål är att gå om MP3 och bli den nya standarden inom ljudkomprimering. Den är väldigt nära MP3 på många sätt men utvecklad för att ha bättre kvalitet i samma eller ännu mindre filstorlek. M4B-formatet introducerades först av Apple. Formattypen realiseras också som Apple Lossless Encoder (ALE).
 

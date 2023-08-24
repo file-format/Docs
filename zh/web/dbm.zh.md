@@ -19,7 +19,7 @@
 
 ## 什么是一 .dbm 文件？
 
-带有 .dbm（数据库标记语言）扩展名的文件是由 Adobe Systems 开发的 ColdFusion 服务器文件。它是在具有 ColdFusion 的 Web 服务器上执行的服务器端文件。它类似于 [ASP](/zh/web/asp/) 和 [PHP](/zh/web/php/) 文件，当用户在 Web 浏览器中请求页面时生成 [HTML](/zh/web/html/)。 DBM 文件可以在 Adobe ColdFusion、Adobe ColdFusion Builder、MacroMates TextMate 和 Apple Safari 等应用程序中打开。
+带有 .dbm（数据库标记语言）扩展名的文件是由 Adobe Systems 开发的 ColdFusion 服务器文件。它是在具有 ColdFusion 的 Web 服务器上执行的服务器端文件。它类似于 [ASP](/zh/web/asp/) 和 [PHP](/zh/programming/php/) 文件，当用户在 Web 浏览器中请求页面时生成 [HTML](/zh/web/html/)。 DBM 文件可以在 Adobe ColdFusion、Adobe ColdFusion Builder、MacroMates TextMate 和 Apple Safari 等应用程序中打开。
 
 ## DBM 文件格式
 

@@ -23,7 +23,7 @@ Eine Datei mit der Erweiterung .wmz ist eine komprimierte Version von [WMF](/de/
 
 ## WMZ-Dateiformat
 
-WMZ-Dateien sind [Gzip](/de/compression/gz/) komprimiert und enthalten [WMF](/de/image/WMF/) darin. Gzip verwendet den DEFLATE-Algorithmus zur Komprimierung des Archivs. GZIP unterscheidet sich vom Archivformat [ZIP](/de/compression/zip/), da es den Komprimierungsalgorithmus auf das gesamte Archiv und nicht auf die einzelnen Dateien anwendet. Das Dateiformat besteht aus:
+WMZ-Dateien sind [Gzip](/de/compression/gz/) komprimiert und enthalten [WMF](/de/image/wmf/) darin. Gzip verwendet den DEFLATE-Algorithmus zur Komprimierung des Archivs. GZIP unterscheidet sich vom Archivformat [ZIP](/de/compression/zip/), da es den Komprimierungsalgorithmus auf das gesamte Archiv und nicht auf die einzelnen Dateien anwendet. Das Dateiformat besteht aus:
 
 * Dateikopf
 * Optionale Header

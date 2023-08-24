@@ -20,7 +20,7 @@
 
 Un fichier **feuille de calcul** contient des données sous forme de lignes et de colonnes. Un fichier de feuille de calcul peut être enregistré dans plusieurs formats de fichiers différents, chacun ayant une extension de fichier différente pour une représentation unique. Les données sont stockées dans des cellules soit sous forme simple, comme une chaîne de texte, des nombres, une date, une devise, etc., soit sous forme de formules qui modifient la valeur d'une cellule lorsque les valeurs des cellules référencées changent.
 
-Les extensions de fichier de feuille de calcul courantes et leurs formats de fichier incluent **[XLSX](/fr/spreadsheet/xlsx/)** (feuille de calcul Microsoft Excel Open XML), **[ODS](/fr/spreadsheet/ods/)** (feuille de calcul OpenDocument) et **[XLS](/fr/tableur/xls/)** (format de fichier binaire Microsoft Excel).
+Les extensions de fichier de feuille de calcul courantes et leurs formats de fichier incluent **[XLSX](/fr/spreadsheet/xlsx/)** (feuille de calcul Microsoft Excel Open XML), **[ODS](/fr/spreadsheet/ods/)** (feuille de calcul OpenDocument) et **[XLS](/fr/spreadsheet/xls/)** (format de fichier binaire Microsoft Excel).
 
 Vous avez des questions concernant les formats de fichier de feuille de calcul ? Rendez-vous sur notre communauté [forums](https://forum.fileformat.com/c/spreadsheet/6) pour bénéficier des connaissances partagées par les experts du format de fichier.
 
