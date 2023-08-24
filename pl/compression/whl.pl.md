@@ -18,7 +18,7 @@
 
 ## Czym jest plik WHL?
 
-Plik WHL (Wheel) to plik pakietu dystrybucyjnego zapisany w formacie koła Pythona. Jest to instalacja w standardowym formacie dystrybucji Pythona i zawiera wszystkie pliki i metadane wymagane do instalacji. Plik WHL zawiera również informacje o wersjach Pythona i platformach obsługiwanych przez ten plik koła. Podobnie jak plik instalacyjny [MSI](/pl/plik wykonywalny/msi/), format pliku WHL jest formatem gotowym do zainstalowania, który umożliwia uruchomienie pakietu instalacyjnego bez budowania dystrybucji źródłowej.
+Plik WHL (Wheel) to plik pakietu dystrybucyjnego zapisany w formacie koła Pythona. Jest to instalacja w standardowym formacie dystrybucji Pythona i zawiera wszystkie pliki i metadane wymagane do instalacji. Plik WHL zawiera również informacje o wersjach Pythona i platformach obsługiwanych przez ten plik koła. Podobnie jak plik instalacyjny [MSI](/pl/executable/msi/), format pliku WHL jest formatem gotowym do zainstalowania, który umożliwia uruchomienie pakietu instalacyjnego bez budowania dystrybucji źródłowej.
 
 ## Format pliku WHL
 

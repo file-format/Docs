@@ -18,7 +18,7 @@
 
 ## ¿Qué es un archivo EGG?
 
-Un archivo EGG, también conocido como huevos de Python, es un formato de distribución más antiguo de las distribuciones de Python. Es un archivo comprimido [ZIP](/es/compression/zip/) con extensión .egg y contiene los archivos fuente de la aplicación Python junto con metainformación sobre la distribución. Los archivos EGG son una alternativa a un archivo ejecutable de Windows [EXE](/es/ejecutable/exe/) pero es multiplataforma. Este formato anterior para las distribuciones de Python se reemplazó con el formato de archivo Wheel (WHL) más nuevo a principios de 2010.
+Un archivo EGG, también conocido como huevos de Python, es un formato de distribución más antiguo de las distribuciones de Python. Es un archivo comprimido [ZIP](/es/compression/zip/) con extensión .egg y contiene los archivos fuente de la aplicación Python junto con metainformación sobre la distribución. Los archivos EGG son una alternativa a un archivo ejecutable de Windows [EXE](/es/executable/exe/) pero es multiplataforma. Este formato anterior para las distribuciones de Python se reemplazó con el formato de archivo Wheel (WHL) más nuevo a principios de 2010.
 
 ## Formato de archivo de huevo
 

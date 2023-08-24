@@ -27,7 +27,7 @@ CMS-filer är inte vanliga på användardatorer. Eftersom dessa används specifi
 
 ### Vad är insdie CMS?
 
-En CMS-profilfil skapas med Connection Manager och paketeras med andra konfigurationsfiler innan den tillhandahålls till fjärranvändare. Dessa ytterligare filer kan inkludera en CMP och och en INF-fil som är paketerade tillsammans i en [EXE](/sv/körbar/exe/)-fil. Detta kompletta paket tillhandahålls till fjärranvändaren för anslutning till nätverket.
+En CMS-profilfil skapas med Connection Manager och paketeras med andra konfigurationsfiler innan den tillhandahålls till fjärranvändare. Dessa ytterligare filer kan inkludera en CMP och och en INF-fil som är paketerade tillsammans i en [EXE](/sv/executable/exe/)-fil. Detta kompletta paket tillhandahålls till fjärranvändaren för anslutning till nätverket.
 
 ## Referenser
 

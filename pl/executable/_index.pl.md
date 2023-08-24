@@ -21,7 +21,7 @@
 
 Pliki wykonywalne służą do instruowania komputera, aby wykonał jedno lub wiele zadań lub określonych operacji jako zakodowany zestaw instrukcji; zapisane w tych plikach. Termin „instrukcje” zwykle oznacza instrukcje **kodu maszynowego** dla fizycznego **procesora**. Pliki wykonywalne mogą być kodowane ręcznie w języku maszynowym, chociaż bardzo wygodne jest tworzenie oprogramowania jako kodu źródłowego w języku wysokiego poziomu, który może być łatwo zrozumiały dla ludzi. Czasami kod źródłowy może być zamiast tego napisany w asemblerze, pozostaje ściśle powiązany z instrukcjami kodu maszynowego, które są łatwe do odczytania przez człowieka.
 
-Niektóre popularne formaty plików dysków to [BAT](/pl/plik wykonywalny/bat/), [CGI](/pl/plik wykonywalny/cgi) i [COM](/pl/plik wykonywalny/com/)
+Niektóre popularne formaty plików dysków to [BAT](/pl/executable/bat/), [CGI](/pl/executable/cgi) i [COM](/pl/executable/com/)
 
 
 ## Lista rozszerzeń plików raportowania i powiązanych formatów plików

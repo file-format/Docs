@@ -27,7 +27,7 @@ Pliki CMS nie są często spotykane na komputerach użytkowników. Ponieważ są
 
 ### Co to jest niezależny CMS?
 
-Plik profilu CMS jest tworzony za pomocą Menedżera połączeń i jest pakowany z innymi plikami konfiguracyjnymi przed udostępnieniem użytkownikowi zdalnemu. Te dodatkowe pliki mogą zawierać plik CMP i plik INF, które są spakowane razem w pliku [EXE](/pl/plik wykonywalny/exe/). Ten kompletny pakiet jest dostarczany użytkownikowi zdalnemu w celu połączenia z siecią.
+Plik profilu CMS jest tworzony za pomocą Menedżera połączeń i jest pakowany z innymi plikami konfiguracyjnymi przed udostępnieniem użytkownikowi zdalnemu. Te dodatkowe pliki mogą zawierać plik CMP i plik INF, które są spakowane razem w pliku [EXE](/pl/executable/exe/). Ten kompletny pakiet jest dostarczany użytkownikowi zdalnemu w celu połączenia z siecią.
 
 ## Bibliografia
 

@@ -18,7 +18,7 @@
 
 ## Vad är WHL fil?
 
-En WHL-fil (Wheel) är en distributionspaketfil som sparas i Pythons hjulformat. Det är en installation i standardformat av Python-distributioner och innehåller alla filer och metadata som krävs för installation. WHL-filen innehåller också information om Python-versionerna och plattformarna som stöds av denna hjulfil. På samma sätt som en [MSI](/sv/körbar/msi/)-installationsfil är WHL-filformatet ett färdigt-att-installationsformat som gör det möjligt att köra installationspaketet utan att bygga källdistributionen.
+En WHL-fil (Wheel) är en distributionspaketfil som sparas i Pythons hjulformat. Det är en installation i standardformat av Python-distributioner och innehåller alla filer och metadata som krävs för installation. WHL-filen innehåller också information om Python-versionerna och plattformarna som stöds av denna hjulfil. På samma sätt som en [MSI](/sv/executable/msi/)-installationsfil är WHL-filformatet ett färdigt-att-installationsformat som gör det möjligt att köra installationspaketet utan att bygga källdistributionen.
 
 ## WHL filformat
 
