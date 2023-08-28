@@ -69,7 +69,7 @@ STP फ़ाइलें सादे ASCII फ़ाइल स्वरूप 
 * [STL](/hi/cad/stl/)
 * [FBX](/hi/3d/fbx/)
 * F3D
- * [USD](/hi/3d/usd/)
+* [USD](/hi/3d/usd/)
 
 ## संदर्भ
 

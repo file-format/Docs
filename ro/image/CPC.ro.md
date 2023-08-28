@@ -22,5 +22,5 @@ CPC (Cartesian Perceptual Compression) este un format de fișier imagine proprie
 
 ## Referințe
 
-- [Compresie perceptivă carteziană - Wikipedia](](https://en.wikipedia.org/wiki/Cartesian_Perceptual_Compression))
+- [Compresie perceptivă carteziană - Wikipedia](https://en.wikipedia.org/wiki/Cartesian_Perceptual_Compression)
 

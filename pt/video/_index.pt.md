@@ -17,7 +17,7 @@
   "lastmod" : "2019-09-10"
 }
 
-Todos estão familiarizados com os vídeos que assistimos diariamente em dispositivos de mídia como televisores, telas de cinema e canais de mídia social como Facebook, Twitter, YouTube e muitos outros. Mas você já se perguntou como esses vídeos são salvos e os formatos em que eles podem ser carregados para visualização? Qual é o melhor formato de arquivo para o seu vídeo ser hospedado em diferentes mídias de armazenamento? Os formatos de arquivo de vídeo compreendem vários tipos de vídeo diferentes para armazenar vídeos e serem usados para vários fins. Preencha os formatos de arquivo de vídeo que você pode ter encontrado incluem [AVI](/pt/video/avi/), [MOV](/pt/video/mov/), [WMV](/pt/video/wmv/), [M4V](/pt/video /m4v/) e [MP4](/pt/vídeo/mp4/).
+Todos estão familiarizados com os vídeos que assistimos diariamente em dispositivos de mídia como televisores, telas de cinema e canais de mídia social como Facebook, Twitter, YouTube e muitos outros. Mas você já se perguntou como esses vídeos são salvos e os formatos em que eles podem ser carregados para visualização? Qual é o melhor formato de arquivo para o seu vídeo ser hospedado em diferentes mídias de armazenamento? Os formatos de arquivo de vídeo compreendem vários tipos de vídeo diferentes para armazenar vídeos e serem usados para vários fins. Preencha os formatos de arquivo de vídeo que você pode ter encontrado incluem [AVI](/pt/video/avi/), [MOV](/pt/video/mov/), [WMV](/pt/video/wmv/), [M4V](/pt/video /m4v/) e [MP4](/pt/video/mp4/).
 
 Tem dúvidas relacionadas a formatos de arquivo de vídeo? Acesse nossa comunidade [fóruns](https://forum.fileformat.com/c/video/27) para se beneficiar do conhecimento compartilhado por especialistas em formato de arquivo.
 

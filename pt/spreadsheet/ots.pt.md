@@ -19,7 +19,7 @@
 
 ## O que é um arquivo OTS?
 
-Um arquivo com extensão .ots é um arquivo de modelo de planilha OpenDocument que é criado com o software de aplicativo Calc incluído no Apache OpenOffice. O software aplicativo Calc é semelhante ao Excel disponível no Microsoft Office. O formato de arquivo OTS é usado para criar modelos que contêm configurações predefinidas relacionadas a estilos, fonte, dados, layout de planilha e formatação. Os arquivos OTF têm `mime-type application/vnd.oasis.opendocument.spreadsheet-template`. Esses arquivos de modelo podem ser usados como ponto de partida para gerar e salvar arquivos de dados reais que são salvos em [formato de arquivo ODS](/pt/planilha/ods/). Os arquivos OTS podem ser usados com aplicativos como OpenOffice e LibreOffice.
+Um arquivo com extensão .ots é um arquivo de modelo de planilha OpenDocument que é criado com o software de aplicativo Calc incluído no Apache OpenOffice. O software aplicativo Calc é semelhante ao Excel disponível no Microsoft Office. O formato de arquivo OTS é usado para criar modelos que contêm configurações predefinidas relacionadas a estilos, fonte, dados, layout de planilha e formatação. Os arquivos OTF têm `mime-type application/vnd.oasis.opendocument.spreadsheet-template`. Esses arquivos de modelo podem ser usados como ponto de partida para gerar e salvar arquivos de dados reais que são salvos em [formato de arquivo ODS](/pt/spreadsheet/ods/). Os arquivos OTS podem ser usados com aplicativos como OpenOffice e LibreOffice.
 
 ## Formato de arquivo OTS
 

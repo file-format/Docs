@@ -18,7 +18,7 @@
 
 ## O que é um arquivo WHL?
 
-Um arquivo WHL (Wheel) é um arquivo de pacote de distribuição salvo no formato wheel do Python. É uma instalação de formato padrão de distribuições Python e contém todos os arquivos e metadados necessários para a instalação. O arquivo WHL também contém informações sobre as versões e plataformas do Python suportadas por este arquivo wheel. Semelhante a um arquivo de configuração [MSI](/pt/executável/msi/), o formato de arquivo WHL é um formato pronto para instalar que permite executar o pacote de instalação sem compilar a distribuição de origem.
+Um arquivo WHL (Wheel) é um arquivo de pacote de distribuição salvo no formato wheel do Python. É uma instalação de formato padrão de distribuições Python e contém todos os arquivos e metadados necessários para a instalação. O arquivo WHL também contém informações sobre as versões e plataformas do Python suportadas por este arquivo wheel. Semelhante a um arquivo de configuração [MSI](/pt/executable/msi/), o formato de arquivo WHL é um formato pronto para instalar que permite executar o pacote de instalação sem compilar a distribuição de origem.
 
 ## Formato de arquivo WHL
 

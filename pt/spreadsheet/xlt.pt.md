@@ -19,7 +19,7 @@
 
 ## O que é um arquivo XLT?
 
-Arquivos com extensão .xlt são arquivos de modelo criados com o Microsoft Excel, que é um aplicativo de planilha que vem como parte do pacote Microsoft Office. O Microsoft Office 97-2003 suportava a criação de novos arquivos XLT, bem como a abertura deles. A versão mais recente do Excel ainda é capaz de abrir esses arquivos de modelo de formato antigo. Esse arquivo de modelo é usado para criar rapidamente novos arquivos do Excel com dados e configurações padrão, como formatação de página, tamanho da fonte, margens, gráficos, etc., que podem ser salvos como novos arquivos [.xls](/pt/planilha/xls/).
+Arquivos com extensão .xlt são arquivos de modelo criados com o Microsoft Excel, que é um aplicativo de planilha que vem como parte do pacote Microsoft Office. O Microsoft Office 97-2003 suportava a criação de novos arquivos XLT, bem como a abertura deles. A versão mais recente do Excel ainda é capaz de abrir esses arquivos de modelo de formato antigo. Esse arquivo de modelo é usado para criar rapidamente novos arquivos do Excel com dados e configurações padrão, como formatação de página, tamanho da fonte, margens, gráficos, etc., que podem ser salvos como novos arquivos [.xls](/pt/spreadsheet/xls/).
 
 ## Formato de arquivo XLT
 

@@ -61,15 +61,15 @@ lastmod: 2022-01-31
 Autodesk Fusion 360 может преобразовывать файлы STP в следующие форматы файлов 3D и CAD.
 
 * [OBJ](/ru/3d/obj/)
-* [3мф](/ru/3д/3мф/)
+* [3MF](/ru/3d/3mf/)
 * [DWG](/ru/cad/dwg/)
 * [DXF](/ru/cad/dxf/)
-* [АСМ](/ru/кад/асм/)
-* [ИГЕС](/ru/cad/iges/)
+* [ASM](/ru/cad/asm/)
+* [IGES](/ru/cad/iges/)
 * [STL](/ru/cad/stl/)
 * [FBX](/ru/3d/fbx/)
-* Ф3Д
-* [доллары США](/ru/3 пенса/долларов США/)
+* F3D
+* [USD](/ru/3d/usd/)
 
 ## использованная литература
 
