@@ -17,7 +17,7 @@
   "lastmod" : "2019-09-10"
 }
 
-Wszyscy znają filmy, które codziennie oglądamy na urządzeniach multimedialnych, takich jak telewizory, ekrany kinowe i kanały mediów społecznościowych, takich jak Facebook, Twitter, YouTube i wiele innych. Ale czy zastanawiałeś się kiedyś, w jaki sposób te filmy są zapisywane i w jakich formatach można je przesyłać do oglądania? Jaki jest najlepszy format pliku wideo do przechowywania na różnych nośnikach? Formaty plików wideo obejmują wiele różnych typów wideo służących do przechowywania filmów i używanych do różnych celów. Zapełnij Formaty plików wideo, z którymi mogłeś się spotkać, to [AVI](/pl/video/avi/), [MOV](/pl/video/mov/), [WMV](/pl/video/wmv/), [M4V](/pl/video /m4v/) i [MP4](/pl/wideo/mp4/).
+Wszyscy znają filmy, które codziennie oglądamy na urządzeniach multimedialnych, takich jak telewizory, ekrany kinowe i kanały mediów społecznościowych, takich jak Facebook, Twitter, YouTube i wiele innych. Ale czy zastanawiałeś się kiedyś, w jaki sposób te filmy są zapisywane i w jakich formatach można je przesyłać do oglądania? Jaki jest najlepszy format pliku wideo do przechowywania na różnych nośnikach? Formaty plików wideo obejmują wiele różnych typów wideo służących do przechowywania filmów i używanych do różnych celów. Zapełnij Formaty plików wideo, z którymi mogłeś się spotkać, to [AVI](/pl/video/avi/), [MOV](/pl/video/mov/), [WMV](/pl/video/wmv/), [M4V](/pl/video/m4v/) i [MP4](/pl/wideo/mp4/).
 
 Masz pytania dotyczące formatów plików wideo? Odwiedź nasze [fora] społeczności (https://forum.fileformat.com/c/video/27), aby skorzystać z wiedzy ekspertów ds. formatów plików.
 

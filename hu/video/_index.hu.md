@@ -17,7 +17,7 @@
   "lastmod" : "2019-09-10"
 }
 
-Mindenki ismeri azokat a videókat, amelyeket naponta nézünk médiaeszközökön, például televíziókon, mozi képernyőkön és közösségi média csatornákon, például Facebookon, Twitteren, YouTube-on és még sok máson. De vajon elgondolkozott már azon, hogy ezek a videók hogyan kerülnek mentésre, és milyen formátumban tölthetők fel megtekintésre? Melyik a legmegfelelőbb fájlformátum a videódhoz különböző adathordozókon? A videofájl formátumok számos különböző videótípust tartalmaznak, amelyek videók tárolására és különféle célokra használhatók. A népszerű videofájlformátumok, amelyekkel találkozhattak: [AVI](/hu/video/avi/), [MOV](/hu/video/mov/), [WMV](/hu/video/wmv/), [M4V](/hu/video /m4v/), és [MP4](/hu/video/mp4/).
+Mindenki ismeri azokat a videókat, amelyeket naponta nézünk médiaeszközökön, például televíziókon, mozi képernyőkön és közösségi média csatornákon, például Facebookon, Twitteren, YouTube-on és még sok máson. De vajon elgondolkozott már azon, hogy ezek a videók hogyan kerülnek mentésre, és milyen formátumban tölthetők fel megtekintésre? Melyik a legmegfelelőbb fájlformátum a videódhoz különböző adathordozókon? A videofájl formátumok számos különböző videótípust tartalmaznak, amelyek videók tárolására és különféle célokra használhatók. A népszerű videofájlformátumok, amelyekkel találkozhattak: [AVI](/hu/video/avi/), [MOV](/hu/video/mov/), [WMV](/hu/video/wmv/), [M4V](/hu/video/m4v/), és [MP4](/hu/video/mp4/).
 
 Kérdései vannak a videó fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/video/27), hogy hasznot húzzon a fájlformátum-szakértők által megosztott tudásból.
 
