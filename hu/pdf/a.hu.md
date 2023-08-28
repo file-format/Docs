@@ -53,7 +53,7 @@ A PDF/A-2-t az ISO szabvány 2011 júliusában adta ki új, ISO 32001-1 néven i
 
 ## PDF/A-3 ##
 
-A PDF/A-3 tartalmazza a 2. szint összes megfelelőségi követelményét, és lehetővé teszi további fájlformátumok beágyazását (például XML, [CSV](/hu/spreadsheet/csv/), [CAD](/hu/cad/), [szövegfeldolgozás]). (/hu/szövegfeldolgozás/) , [táblázat](/hu/táblázat/) és mások) a PDF/A-nak megfelelő dokumentumokba.
+A PDF/A-3 tartalmazza a 2. szint összes megfelelőségi követelményét, és lehetővé teszi további fájlformátumok beágyazását (például XML, [CSV](/hu/spreadsheet/csv/), [CAD](/hu/cad/), [szövegfeldolgozás]). (/hu/word-processing/) , [táblázat](/hu/spreadsheet/) és mások) a PDF/A-nak megfelelő dokumentumokba.
 
 ## Referenciák ##
 

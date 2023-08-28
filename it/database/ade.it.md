@@ -25,7 +25,7 @@ Un file con estensione .ade è un file di progetto di Microsoft Access che conti
 
 ADE sono file di database di Access compilati che vengono archiviati su disco come file binari. La struttura dei file interni di questi file non è nota.
 
-I file ADE possono creare problemi nell'apertura in base alla versione di Microsoft Access che è stata utilizzata per creare questi file. I database di Access che utilizzano la versione a 64 bit di Microsoft Access 2010 e che vengono compilati come file MDE, [ACCDE](/it/database/accede/) o ADE devono essere ricompilati in Microsoft Access 2021 Service Pack 1 (SP1) per funzionare correttamente con Access 2010 SP1. Questo problema si verifica perché Access 2010 SP1 utilizza una versione più recente del file VBE7.dll (versione 7.00.1619).
+I file ADE possono creare problemi nell'apertura in base alla versione di Microsoft Access che è stata utilizzata per creare questi file. I database di Access che utilizzano la versione a 64 bit di Microsoft Access 2010 e che vengono compilati come file MDE, [ACCDE](/it/database/accde/) o ADE devono essere ricompilati in Microsoft Access 2021 Service Pack 1 (SP1) per funzionare correttamente con Access 2010 SP1. Questo problema si verifica perché Access 2010 SP1 utilizza una versione più recente del file VBE7.dll (versione 7.00.1619).
 
 ## Riferimenti
 
