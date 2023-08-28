@@ -18,7 +18,7 @@
 
 ## Ce este un fișier PPP?
 
-Un fișier PPP este un fișier de proiect grafic creat cu software-ul NCH PhotoPad Editor. Acesta cuprinde imaginea editată în PhotoPad, împreună cu înregistrarea tuturor editărilor efectuate asupra diferitelor componente (cum ar fi straturi, text, ajustări) ale acelei imagini. Acest lucru vă permite să reveniți la o etapă anterioară de editare și să începeți editarea din acel punct. Fișierele PPP Project pot fi deschise în software-ul PhotoPad și pot fi exportate în formate populare de fișiere imagine, cum ar fi [JPG](/ro/image/jpeg/), [PNG](/ro/image/png/), [TIFF](/ro/image/tiff /), [GIF](/ro/image/gif/) și [PSD](/ro/image/psd/).
+Un fișier PPP este un fișier de proiect grafic creat cu software-ul NCH PhotoPad Editor. Acesta cuprinde imaginea editată în PhotoPad, împreună cu înregistrarea tuturor editărilor efectuate asupra diferitelor componente (cum ar fi straturi, text, ajustări) ale acelei imagini. Acest lucru vă permite să reveniți la o etapă anterioară de editare și să începeți editarea din acel punct. Fișierele PPP Project pot fi deschise în software-ul PhotoPad și pot fi exportate în formate populare de fișiere imagine, cum ar fi [JPG](/ro/image/jpeg/), [PNG](/ro/image/png/), [TIFF](/ro/image/tiff/), [GIF](/ro/image/gif/) și [PSD](/ro/image/psd/).
 
 ### Format fișier PPP
 
