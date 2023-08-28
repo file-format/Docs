@@ -22,7 +22,7 @@
 
 ## DSC Dosya Biçimi - Daha Fazla Bilgi
 
-DSC dosyaları düz metin dosyaları olarak oluşturulur ve diske kaydedilir. Bunlar, Microsoft Notepad gibi herhangi bir uyumlu metin düzenleyicide açılarak düzenlenebilir. DSC, [.txt](/tr/word-processing/dsc/) dosyalarına benzer düz metin biçimini takip eder ve yazılım işlevselliği veya yönergelerine göre yazılımın tüm ayrıntılarıyla doldurulabilir.
+DSC dosyaları düz metin dosyaları olarak oluşturulur ve diske kaydedilir. Bunlar, Microsoft Notepad gibi herhangi bir uyumlu metin düzenleyicide açılarak düzenlenebilir. DSC, [.txt](/tr/word-processing/txt/) dosyalarına benzer düz metin biçimini takip eder ve yazılım işlevselliği veya yönergelerine göre yazılımın tüm ayrıntılarıyla doldurulabilir.
 
 ## Referanslar
 

@@ -22,7 +22,7 @@ Een bestand met de extensie .dsc is een tekstbeschrijvingsbestand dat informatie
 
 ## DSC-bestandsindeling - Meer informatie
 
-DSC-bestanden worden gemaakt en op schijf opgeslagen als platte tekstbestanden. Deze kunnen worden bewerkt door ze te openen in compatibele teksteditors zoals Microsoft Kladblok. DSC volgt de indeling in platte tekst, vergelijkbaar met [.txt](/nl/word-processing/dsc/)-bestanden en kan worden gevuld met alle details van de software volgens de softwarefunctionaliteit of -instructies.
+DSC-bestanden worden gemaakt en op schijf opgeslagen als platte tekstbestanden. Deze kunnen worden bewerkt door ze te openen in compatibele teksteditors zoals Microsoft Kladblok. DSC volgt de indeling in platte tekst, vergelijkbaar met [.txt](/nl/word-processing/txt/)-bestanden en kan worden gevuld met alle details van de software volgens de softwarefunctionaliteit of -instructies.
 
 ## Referenties
 

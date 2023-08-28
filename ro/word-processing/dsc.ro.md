@@ -22,7 +22,7 @@ Un fișier cu extensia .dsc este un fișier de descriere text care conține info
 
 ## Format de fișier DSC - Mai multe informații
 
-Fișierele DSC sunt create și stocate pe disc ca fișiere text simplu. Acestea pot fi editate prin deschiderea în orice editor de text compatibil, cum ar fi Microsoft Notepad. DSC urmează un format de text simplu similar cu fișierele [.txt](/ro/word-processing/dsc/) și poate fi completat cu orice detalii ale software-ului conform funcționalității software sau instrucțiunilor.
+Fișierele DSC sunt create și stocate pe disc ca fișiere text simplu. Acestea pot fi editate prin deschiderea în orice editor de text compatibil, cum ar fi Microsoft Notepad. DSC urmează un format de text simplu similar cu fișierele [.txt](/ro/word-processing/txt/) și poate fi completat cu orice detalii ale software-ului conform funcționalității software sau instrucțiunilor.
 
 ## Referințe
 

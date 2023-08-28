@@ -22,7 +22,7 @@ Eine Datei mit der Erweiterung .dsc ist eine Textbeschreibungsdatei, die Informa
 
 ## DSC-Dateiformat – Weitere Informationen
 
-DSC-Dateien werden als Nur-Text-Dateien erstellt und auf der Disc gespeichert. Diese können bearbeitet werden, indem sie in einem beliebigen kompatiblen Texteditor wie Microsoft Notepad geöffnet werden. DSC folgen dem einfachen Textformat ähnlich wie [.txt](/de/word-processing/dsc/)-Dateien und können mit allen Details der Software gemäß der Softwarefunktionalität oder den Anweisungen gefüllt werden.
+DSC-Dateien werden als Nur-Text-Dateien erstellt und auf der Disc gespeichert. Diese können bearbeitet werden, indem sie in einem beliebigen kompatiblen Texteditor wie Microsoft Notepad geöffnet werden. DSC folgen dem einfachen Textformat ähnlich wie [.txt](/de/word-processing/txt/)-Dateien und können mit allen Details der Software gemäß der Softwarefunktionalität oder den Anweisungen gefüllt werden.
 
 ## Verweise
 

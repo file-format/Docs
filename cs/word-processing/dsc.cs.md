@@ -22,7 +22,7 @@ Soubor s příponou .dsc je soubor s textovým popisem, který obsahuje informac
 
 ## Formát souboru DSC – Další informace
 
-Soubory DSC se vytvářejí a ukládají na disk jako soubory ve formátu prostého textu. Ty lze upravovat otevřením v libovolném kompatibilním textovém editoru, jako je Microsoft Notepad. DSC se řídí formátem prostého textu podobným souborům [.txt](/cs/word-processing/dsc/) a lze do něj vložit jakékoli podrobnosti o softwaru podle funkcí softwaru nebo pokynů.
+Soubory DSC se vytvářejí a ukládají na disk jako soubory ve formátu prostého textu. Ty lze upravovat otevřením v libovolném kompatibilním textovém editoru, jako je Microsoft Notepad. DSC se řídí formátem prostého textu podobným souborům [.txt](/cs/word-processing/txt/) a lze do něj vložit jakékoli podrobnosti o softwaru podle funkcí softwaru nebo pokynů.
 
 ## Reference
 

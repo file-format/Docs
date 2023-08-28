@@ -22,7 +22,7 @@ A file with .dsc extension is a text description file that contains information 
 
 ## DSC File Format - More Information
 
-DSC files are created and stored to disc as plain text files. These can be edited by opening in any compatible text editors such as Microsoft Notepad. DSC follow plain text format similar to [.txt](/word-processing/dsc/) files and can be populated with any details of the software as per the software functionality or instructions.
+DSC files are created and stored to disc as plain text files. These can be edited by opening in any compatible text editors such as Microsoft Notepad. DSC follow plain text format similar to [.txt](/word-processing/txt/) files and can be populated with any details of the software as per the software functionality or instructions.
 
 ## References
 

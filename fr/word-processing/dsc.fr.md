@@ -22,7 +22,7 @@ Un fichier avec l'extension .dsc est un fichier de description textuelle qui con
 
 ## Format de fichier DSC - Plus d'informations
 
-Les fichiers DSC sont créés et stockés sur disque sous forme de fichiers texte brut. Ceux-ci peuvent être modifiés en les ouvrant dans n'importe quel éditeur de texte compatible tel que Microsoft Notepad. DSC suit un format de texte brut similaire aux fichiers [.txt](/fr/word-processing/dsc/) et peut être rempli avec tous les détails du logiciel conformément à la fonctionnalité ou aux instructions du logiciel.
+Les fichiers DSC sont créés et stockés sur disque sous forme de fichiers texte brut. Ceux-ci peuvent être modifiés en les ouvrant dans n'importe quel éditeur de texte compatible tel que Microsoft Notepad. DSC suit un format de texte brut similaire aux fichiers [.txt](/fr/word-processing/txt/) et peut être rempli avec tous les détails du logiciel conformément à la fonctionnalité ou aux instructions du logiciel.
 
 ## Références
 
