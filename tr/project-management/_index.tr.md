@@ -20,7 +20,7 @@
 
 Hiç MPP dosyasının ne olduğunu merak ettiniz mi? MPP ve diğer benzer dosyalar, Project Management yazılımı tarafından oluşturulan Proje dosya biçimleridir. Bir proje dosyası, bir ürün veya hizmet biçiminde ölçülebilir bir çıktı elde etmek için görevler, kaynaklar ve zamanlama koleksiyonudur. Gantt şemaları, dokümantasyon için PDF veya görüntü formatlarına da aktarılabilen, belirlenen görevler için zamana karşı görsel bir etkinlik akışı oluşturmak için kullanılır.
 
-Yaygın Proje Yönetimi dosya uzantıları ve bunlarla ilişkili dosya biçimleri arasında **[MPP](/tr/project-management/mpp/)**, **[MPX](/tr/project-management/mpx/)** ve **[XER] yer alır. (/tr/proje yönetimi/xer/)**.
+Yaygın Proje Yönetimi dosya uzantıları ve bunlarla ilişkili dosya biçimleri arasında **[MPP](/tr/project-management/mpp/)**, **[MPX](/tr/project-management/mpx/)** ve **[XER](/tr/project-management/xer/) yer alır.**.
 
 Project Management dosya biçimleriyle ilgili sorularınız mı var? Dosya Biçimi uzmanları tarafından paylaşılan bilgilerden yararlanmak için topluluğumuza [forumlara](https://forum.fileformat.com/c/project-management/15) gidin.
 
