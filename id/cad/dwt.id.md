@@ -19,7 +19,7 @@
 
 ## Apa itu file DWT?
 
-File DWT adalah file template gambar [AutoCAD](https://www.autodesk.com/) yang digunakan sebagai starter untuk membuat gambar yang dapat disimpan sebagai file [DWG](/id/cad/dwg/). File template tersebut memberikan pengaturan awal seperti tipe unit, presisi yang diperlukan, blok judul, nama layer, tipe garis dan informasi serupa lainnya untuk konversi lateral ke file gambar yang tepat. Baik AutoCAD dan CoreCAD dapat digunakan untuk membaca file template dan menggunakannya lebih lanjut. Dengan kata sederhana, DWT adalah DWG dengan atribut read-only yang ditentukan sebelumnya dengan cara yang sama seperti file MSWord [DOT](/id/word-processing/dot/) ke [DOC](/id/word-processing/doc /) berkas.
+File DWT adalah file template gambar [AutoCAD](https://www.autodesk.com/) yang digunakan sebagai starter untuk membuat gambar yang dapat disimpan sebagai file [DWG](/id/cad/dwg/). File template tersebut memberikan pengaturan awal seperti tipe unit, presisi yang diperlukan, blok judul, nama layer, tipe garis dan informasi serupa lainnya untuk konversi lateral ke file gambar yang tepat. Baik AutoCAD dan CoreCAD dapat digunakan untuk membaca file template dan menggunakannya lebih lanjut. Dengan kata sederhana, DWT adalah DWG dengan atribut read-only yang ditentukan sebelumnya dengan cara yang sama seperti file MSWord [DOT](/id/word-processing/dot/) ke [DOC](/id/word-processing/doc/) berkas.
 
 ## Format File DWT
 

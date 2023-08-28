@@ -38,7 +38,7 @@
 
 เอกสาร Apple PAGES สามารถแปลงเป็นไฟล์ได้หลายรูปแบบ ซึ่งสามารถทำได้จากภายในซอฟต์แวร์ Apple Pages โดยใช้ตัวเลือก **ส่งออกไปยัง** ไฟล์ PAGES สามารถแปลงเป็น:
 
-* Microsoft Word [DOC](/th/การประมวลผลคำ/doc/) และ [DOCX](/th/การประมวลผลคำ/docx/)
+* Microsoft Word [DOC](/th/word-processing/doc/) และ [DOCX](/th/word-processing/docx/)
 * [PDF](/th/pdf/)
 * [EPUB](/th/ebook/epub/)
 * [RTF](/th/ประมวลผลคำ/rtf/)

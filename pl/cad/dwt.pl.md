@@ -19,7 +19,7 @@
 
 ## Czym jest plik DWT?
 
-Plik DWT to plik szablonu rysunku [AutoCAD](https://www.autodesk.com/), który jest używany jako początek tworzenia rysunków, które można zapisać jako pliki [DWG](/pl/cad/dwg/). Takie pliki szablonów zawierają ustawienia początkowe, takie jak typy jednostek, wymagana dokładność, tabelki rysunkowe, nazwy warstw, rodzaje linii i inne podobne informacje do konwersji poprzecznej do odpowiednich plików rysunków. Zarówno AutoCAD, jak i CoreCAD mogą być używane do odczytywania plików szablonów i dalszego ich wykorzystywania. Mówiąc prościej, plik DWT jest plikiem DWG ze wstępnie zdefiniowanymi atrybutami tylko do odczytu w taki sam sposób, jak plik MSWord [DOT](/pl/word-processing/dot/) ma się do pliku [DOC](/pl/word-processing/doc /) plik.
+Plik DWT to plik szablonu rysunku [AutoCAD](https://www.autodesk.com/), który jest używany jako początek tworzenia rysunków, które można zapisać jako pliki [DWG](/pl/cad/dwg/). Takie pliki szablonów zawierają ustawienia początkowe, takie jak typy jednostek, wymagana dokładność, tabelki rysunkowe, nazwy warstw, rodzaje linii i inne podobne informacje do konwersji poprzecznej do odpowiednich plików rysunków. Zarówno AutoCAD, jak i CoreCAD mogą być używane do odczytywania plików szablonów i dalszego ich wykorzystywania. Mówiąc prościej, plik DWT jest plikiem DWG ze wstępnie zdefiniowanymi atrybutami tylko do odczytu w taki sam sposób, jak plik MSWord [DOT](/pl/word-processing/dot/) ma się do pliku [DOC](/pl/word-processing/doc/) plik.
 
 ## Format pliku DWT
 
