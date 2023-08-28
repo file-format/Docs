@@ -19,7 +19,7 @@
 
 ## Wat is een CDR-bestand?
 
-Een CDR-bestand is een vectortekeningafbeeldingsbestand dat standaard is gemaakt met [CorelDRAW](https://www.coreldraw.com/en/pages/open-cdr-file/) voor het opslaan van gecodeerde en gecomprimeerde digitale afbeeldingen. Zo'n tekenbestand bevat tekst, lijnen, vormen, afbeeldingen, kleuren en effecten voor vectorweergave van afbeeldingsinhoud. CDR-bestanden kunnen worden geopend met CorelDRAW als de primaire toepassing en kunnen ook worden geconverteerd naar andere formaten zoals [PDF](/nl/pdf/), [JPG](/nl/image/jpeg/), [PNG](/nl/image/png/ ), [BMP](/nl/afbeelding/bmp/) en AI. Het kan worden gebruikt voor de weergave van verschillende grafische gegevens zoals brochures, tabloids, enveloppen en ansichtkaarten. Naast CorelDRAW kunnen ook andere Corel-producten, zoals Corel Paintshop Pro en CorelDRAW Graphics Suite, de CDR-bestandsindelingen openen.
+Een CDR-bestand is een vectortekeningafbeeldingsbestand dat standaard is gemaakt met [CorelDRAW](https://www.coreldraw.com/en/pages/open-cdr-file/) voor het opslaan van gecodeerde en gecomprimeerde digitale afbeeldingen. Zo'n tekenbestand bevat tekst, lijnen, vormen, afbeeldingen, kleuren en effecten voor vectorweergave van afbeeldingsinhoud. CDR-bestanden kunnen worden geopend met CorelDRAW als de primaire toepassing en kunnen ook worden geconverteerd naar andere formaten zoals [PDF](/nl/pdf/), [JPG](/nl/image/jpeg/), [PNG](/nl/image/png/ ), [BMP](/nl/image/bmp/) en AI. Het kan worden gebruikt voor de weergave van verschillende grafische gegevens zoals brochures, tabloids, enveloppen en ansichtkaarten. Naast CorelDRAW kunnen ook andere Corel-producten, zoals Corel Paintshop Pro en CorelDRAW Graphics Suite, de CDR-bestandsindelingen openen.
 
 ## CDR-bestandsindeling
 

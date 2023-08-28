@@ -19,7 +19,7 @@
 
 ## Czym jest plik CMX?
 
-Pliki z rozszerzeniem .cmx to format pliku obrazu Corel Exchange (znany również jako Corel Metafile Exchange), który jest używany jako prezentacja przez aplikacje CorelSuite. Zawiera dane obrazu w postaci grafiki wektorowej, a także metadane opisujące obraz. Pliki CMX można otwierać w programach CorelDraw, Corel Presentations, Paint Shop Pro i niektórych wersjach programu Adobe Illustrator. Pliki CMX można konwertować do innych formatów, takich jak [JPG](/pl/image/jpeg/) i [EPS](/pl/język-opisu-strony/eps/).
+Pliki z rozszerzeniem .cmx to format pliku obrazu Corel Exchange (znany również jako Corel Metafile Exchange), który jest używany jako prezentacja przez aplikacje CorelSuite. Zawiera dane obrazu w postaci grafiki wektorowej, a także metadane opisujące obraz. Pliki CMX można otwierać w programach CorelDraw, Corel Presentations, Paint Shop Pro i niektórych wersjach programu Adobe Illustrator. Pliki CMX można konwertować do innych formatów, takich jak [JPG](/pl/image/jpeg/) i [EPS](/pl/page-description-language/eps/).
 
 ## Format pliku CMX
 Format pliku CMX jest oparty na formacie Resource Interchange File Format (RIFF) i obsługuje zarówno formaty binarne firmy Intel, jak i Motorola. Plik CMX używa następujących typów MIME:

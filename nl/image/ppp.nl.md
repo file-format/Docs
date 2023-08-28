@@ -18,7 +18,7 @@
 
 ## Wat is een PPP-bestand?
 
-Een PPP-bestand is een grafisch projectbestand gemaakt met NCH PhotoPad Editor Software. Het bestaat uit de bewerkte afbeelding in PhotoPad samen met het overzicht van alle bewerkingen die zijn aangebracht in verschillende componenten (zoals lagen, tekst, aanpassingen) van die afbeelding. Hiermee kunt u terugkeren naar een eerdere bewerkingsfase en vanaf dat punt beginnen met bewerken. PPP Project-bestanden kunnen worden geopend in PhotoPad-software en kunnen worden geëxporteerd naar populaire afbeeldingsbestandsindelingen zoals [JPG](/nl/image/jpeg/), [PNG](/nl/image/png/), [TIFF](/nl/image/tiff/), [GIF](/nl/afbeelding/gif/) en [PSD](/nl/afbeelding/psd/).
+Een PPP-bestand is een grafisch projectbestand gemaakt met NCH PhotoPad Editor Software. Het bestaat uit de bewerkte afbeelding in PhotoPad samen met het overzicht van alle bewerkingen die zijn aangebracht in verschillende componenten (zoals lagen, tekst, aanpassingen) van die afbeelding. Hiermee kunt u terugkeren naar een eerdere bewerkingsfase en vanaf dat punt beginnen met bewerken. PPP Project-bestanden kunnen worden geopend in PhotoPad-software en kunnen worden geëxporteerd naar populaire afbeeldingsbestandsindelingen zoals [JPG](/nl/image/jpeg/), [PNG](/nl/image/png/), [TIFF](/nl/image/tiff/), [GIF](/nl/image/gif/) en [PSD](/nl/image/psd/).
 
 ### PPP-bestandsindeling
 
