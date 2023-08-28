@@ -86,14 +86,14 @@ MOV फ़ाइलों को अन्य लोकप्रिय वीड
 
 VideoLAN VLC मीडिया प्लेयर और Eltima Elmedia प्लेयर सहित कई मीडिया प्लेयर और वीडियो संपादक, MOV फ़ाइलों को अन्य स्वरूपों में परिवर्तित कर सकते हैं। ये सॉफ़्टवेयर MOV फ़ाइलों को निम्नलिखित वीडियो प्रारूपों में परिवर्तित कर सकते हैं।
 
-* MPEG-4 वीडियो - [MP4](/hi/video/mp4/)
-* वेबएम वीडियो - [वेबएम](/hi/वीडियो/वेबएम/)
-* वीडियो ट्रांसपोर्ट स्ट्रीम - [TS](/hi/video/ts/)
-* उन्नत सिस्टम प्रारूप - [ASF](/hi/video/ts/)
-* ओग वोरबिस ऑडियो - [ओजीजी](/hi/ऑडियो/ओजीजी/)
-* एमपी3 ऑडियो - [एमपी3](/hi/ऑडियो/एमपी3/)
-* मुफ़्त दोषरहित ऑडियो कोडेक - [एफ़एलएसी](/hi/ऑडियो/एफ़एलएसी/)
-* वेव ऑडियो - [WAV](/hi/audio/wav/)
+ * MPEG-4 Video - [MP4](/hi/video/mp4/)
+ * WebM Video - [WEBM](/hi/video/webm/)
+ * Video Transport Stream - [TS](/hi/video/ts/)
+ * Advanced Systems Format - [ASF](/hi/video/ts/)
+ * Ogg Vorbis Audio - [OGG](/hi/audio/ogg/)
+ * MP3 Audio - [MP3](/hi/audio/mp3/)
+ * Free Lossless Audio Codec - [FLAC](/hi/audio/flac/)
+ * WAVE Audio - [WAV](/hi/audio/wav/)
 
 ## एमओवी फाइलों के लिए ओपन सोर्स एपीआई
 
