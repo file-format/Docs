@@ -86,7 +86,7 @@ Dostępnych jest wiele odtwarzaczy multimedialnych i programowych edytorów wide
 
 Kilka odtwarzaczy multimedialnych i edytorów wideo, w tym odtwarzacz multimedialny VideoLAN VLC i Eltima Elmedia Player, może konwertować pliki MOV do innych formatów. To oprogramowanie może konwertować pliki MOV do następujących formatów wideo.
 
-* Wideo MPEG-4 — [MP4](/pl/wideo/mp4/)
+* Wideo MPEG-4 — [MP4](/pl/video/mp4/)
 * Wideo WebM – [WEBM](/pl/video/webm/)
 * Transmisja strumienia wideo – [TS](/pl/video/ts/)
 * Format systemów zaawansowanych – [ASF](/pl/video/ts/)

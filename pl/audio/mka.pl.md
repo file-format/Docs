@@ -12,7 +12,7 @@ menu:
   docs:
     parent: "audio"
 skróty:
-- /wideo/matroska/
+- /video/matroska/
 lastmod: 2020-23-11
 ---
 
