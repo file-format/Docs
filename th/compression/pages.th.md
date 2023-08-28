@@ -41,8 +41,8 @@
 * Microsoft Word [DOC](/th/word-processing/doc/) และ [DOCX](/th/word-processing/docx/)
 * [PDF](/th/pdf/)
 * [EPUB](/th/ebook/epub/)
-* [RTF](/th/ประมวลผลคำ/rtf/)
-* [TXT](/th/ประมวลผลคำ/txt/)
+* [RTF](/th/word-processing/rtf/)
+* [TXT](/th/word-processing/txt/)
 
 ## อ้างอิง
 

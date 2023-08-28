@@ -86,14 +86,14 @@ Atom เป็นหน่วยพื้นฐานของไฟล์ Quick
 
 เครื่องเล่นสื่อและโปรแกรมตัดต่อวิดีโอหลายรายการ รวมถึงเครื่องเล่นสื่อ VideoLAN VLC และ Eltima Elmedia Player สามารถแปลงไฟล์ MOV เป็นรูปแบบอื่นได้ ซอฟต์แวร์เหล่านี้สามารถแปลงไฟล์ MOV เป็นรูปแบบวิดีโอต่อไปนี้
 
-* วิดีโอ MPEG-4 - [MP4](/th/วิดีโอ/mp4/)
-* วิดีโอ WebM - [เว็บเอ็ม](/th/วิดีโอ/webm/)
-* Video Transport Stream - [TS](/th/วิดีโอ/ts/)
+* วิดีโอ MPEG-4 - [MP4](/th/video/mp4/)
+* วิดีโอ WebM - [เว็บเอ็ม](/th/video/webm/)
+* Video Transport Stream - [TS](/th/video/ts/)
 * รูปแบบระบบขั้นสูง - [ASF](/th/video/ts/)
-* เสียง Ogg Vorbis - [OGG](/th/เสียง/ogg/)
-* เสียง MP3 - [MP3](/th/เสียง/mp3/)
+* เสียง Ogg Vorbis - [OGG](/th/audio/ogg/)
+* เสียง MP3 - [MP3](/th/audio/mp3/)
 * ตัวแปลงสัญญาณเสียงแบบไม่สูญเสียฟรี - [FLAC](/th/audio/flac/)
-* เสียงคลื่น - [WAV](/th/เสียง/wav/)
+* เสียงคลื่น - [WAV](/th/audio/wav/)
 
 ## Open Source API สำหรับไฟล์ MOV
 
