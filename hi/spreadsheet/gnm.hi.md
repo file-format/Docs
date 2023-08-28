@@ -27,7 +27,7 @@ GNM फाइलें कंप्रेस्ड XML फाइलें हो
 
 ## जीएनएम फाइलों में समर्थित विशेषताएं
 
-चूंकि Gnumeric कई अलग-अलग फ़ाइल स्वरूपों का समर्थन करता है, यह मूल GNM फ़ाइलों को [CSV](/hi/spreadsheet/csv/), [XLSX](/hi/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/hi/) में परिवर्तित कर सकता है। वेब/एचटीएमएल/), [LaTeX](/hi/word-processing/latex/), और [Lotus 1-2-3](/hi/spreadsheet/123/)।
+चूंकि Gnumeric कई अलग-अलग फ़ाइल स्वरूपों का समर्थन करता है, यह मूल GNM फ़ाइलों को [CSV](/hi/spreadsheet/csv/), [XLSX](/hi/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/hi/web/html/) में परिवर्तित कर सकता है।, [LaTeX](/hi/word-processing/latex/), और [Lotus 1-2-3](/hi/spreadsheet/123/)।
 
 ## गीथूब पर ग्नुमेरिक
 

@@ -23,7 +23,7 @@ Az .ndf kiterjesztésű fájl egy másodlagos adatbázisfájl, amelyet a [Micros
 
 ## NDF fájlformátum
 
-Az NDF fájlformátum nem különbözik az [MDF]-től (/hu/adatbázis/mdf), és az oldalakat használja az adattárolás alapvető egységeként. minden oldal 96 bájtos fejléccel kezdődik, amely tartalmazza:
+Az NDF fájlformátum nem különbözik az [MDF]-től (/hu/database/mdf), és az oldalakat használja az adattárolás alapvető egységeként. minden oldal 96 bájtos fejléccel kezdődik, amely tartalmazza:
 
 * Oldalazonosító
 * A szerkezet típusa

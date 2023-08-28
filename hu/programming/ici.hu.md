@@ -19,7 +19,7 @@
 
 ## Mi az ICI fájl?
 
-Az értelmezett általános célú programozási nyelv, amely számos funkciót, például dinamikus gépelést és rugalmas adattípusokat tartalmaz, ICI (nem mozaikszó) programozási nyelvként ismert. Hasonlónak tekinthető a [Perl](/hu/programming/pl/) nyelvhez. Ez az ICI nyelv folyamvezérlő konstrukciókat és a C nyelv néhány operátorát is tartalmazza. Ez nem egy objektum-orientált nyelv, de az OOP néhány jellemzője elérhető egy speciális öröklési módszerrel, amelyet szuperstruktúráknak nevezünk. A [C](/hu/programozás/c)-hez hasonlóan ez az ICI programozási nyelv is ugyanazzal a rendszerfelülettel és szabványos könyvtárral rendelkezik a beépített funkciókhoz.
+Az értelmezett általános célú programozási nyelv, amely számos funkciót, például dinamikus gépelést és rugalmas adattípusokat tartalmaz, ICI (nem mozaikszó) programozási nyelvként ismert. Hasonlónak tekinthető a [Perl](/hu/programming/pl/) nyelvhez. Ez az ICI nyelv folyamvezérlő konstrukciókat és a C nyelv néhány operátorát is tartalmazza. Ez nem egy objektum-orientált nyelv, de az OOP néhány jellemzője elérhető egy speciális öröklési módszerrel, amelyet szuperstruktúráknak nevezünk. A [C](/hu/programming/c)-hez hasonlóan ez az ICI programozási nyelv is ugyanazzal a rendszerfelülettel és szabványos könyvtárral rendelkezik a beépített funkciókhoz.
 
 
 ## Rövid története ##

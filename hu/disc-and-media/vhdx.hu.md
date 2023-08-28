@@ -20,7 +20,7 @@
 
 A VHDX fájl egy lemezképfájl a Virtual Hard Disk v2 fájlformátumban. Tartalmaz egy teljes operációs rendszert, amely betölthető és bármely normál gépként használható szoftverek tesztelésére vagy olyan szoftverek futtatására, amelyekhez adott operációs rendszer szükséges. A VHDX annak ellenére, hogy teljes lemezkép, egyetlen fájlban tárolódik. A virtuális gép szoftverei, például a Parallels Desktop, a Windows Virtual Machine és a Virtual Box betölthetik és megnyithatják a lemezképet.
 
-A VHDX fájl konvertálható [VHD](/hu/lemez-és-média/vhd/) formátumba a Hyper-V Manager segítségével, vagy [VDI](/hu/disc-and-media/vdi/) formátumba a VirtualBox segítségével.
+A VHDX fájl konvertálható [VHD](/hu/disk-and-media/vhd/) formátumba a Hyper-V Manager segítségével, vagy [VDI](/hu/disc-and-media/vdi/) formátumba a VirtualBox segítségével.
 
 ## VHDX fájlformátum – További információ
 
