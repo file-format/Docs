@@ -18,7 +18,7 @@
 
 ## .ppp dosyası nedir?
 
-Bir PPP dosyası, NCH PhotoPad Editor Yazılımı ile oluşturulan bir grafik proje dosyasıdır. PhotoPad'de düzenlenen görüntü ile o görüntünün farklı bileşenlerinde (katmanlar, metin, ayarlamalar gibi) yapılan tüm düzenlemelerin kaydından oluşur. Bu, önceki bir düzenleme aşamasına geri dönmenizi ve düzenlemeye bu noktadan başlamanızı sağlar. PPP Proje dosyaları PhotoPad yazılımında açılabilir ve [JPG](/tr/image/jpeg/), [PNG](/tr/image/png/), [TIFF](/tr/image/tiff) gibi popüler görüntü dosyası formatlarına aktarılabilir. /), [GIF](/tr/resim/gif/) ve [PSD](/tr/resim/psd/).
+Bir PPP dosyası, NCH PhotoPad Editor Yazılımı ile oluşturulan bir grafik proje dosyasıdır. PhotoPad'de düzenlenen görüntü ile o görüntünün farklı bileşenlerinde (katmanlar, metin, ayarlamalar gibi) yapılan tüm düzenlemelerin kaydından oluşur. Bu, önceki bir düzenleme aşamasına geri dönmenizi ve düzenlemeye bu noktadan başlamanızı sağlar. PPP Proje dosyaları PhotoPad yazılımında açılabilir ve [JPG](/tr/image/jpeg/), [PNG](/tr/image/png/), [TIFF](/tr/image/tiff) gibi popüler görüntü dosyası formatlarına aktarılabilir. /), [GIF](/tr/image/gif/) ve [PSD](/tr/image/psd/).
 
 ### PPP Dosya Biçimi
 

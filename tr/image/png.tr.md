@@ -19,7 +19,7 @@
 
 ## PNG dosyası nedir?
 
-**PNG** (Taşınabilir Ağ Grafikleri) dosyası, kayıpsız sıkıştırma kullanan bir raster görüntü dosyası biçimidir. Bu dosya formatı, Grafik Değişim Formatının ([GIF](/tr/resim/gif/)) yerini alması için oluşturulmuştur ve telif hakkı sınırlaması yoktur. Ancak, PNG dosya formatı animasyonları desteklemez. PNG dosya biçimi, kullanıcıları arasında popüler olmasını sağlayan kayıpsız görüntü sıkıştırmayı destekler. Zaman geçtikçe PNG, yaygın olarak kullanılan resim dosyası formatlarından biri olarak gelişti.
+**PNG** (Taşınabilir Ağ Grafikleri) dosyası, kayıpsız sıkıştırma kullanan bir raster görüntü dosyası biçimidir. Bu dosya formatı, Grafik Değişim Formatının ([GIF](/tr/image/gif/)) yerini alması için oluşturulmuştur ve telif hakkı sınırlaması yoktur. Ancak, PNG dosya formatı animasyonları desteklemez. PNG dosya biçimi, kullanıcıları arasında popüler olmasını sağlayan kayıpsız görüntü sıkıştırmayı destekler. Zaman geçtikçe PNG, yaygın olarak kullanılan resim dosyası formatlarından biri olarak gelişti.
 
 ## PNG Dosya Biçiminin Kısa Tarihi
 

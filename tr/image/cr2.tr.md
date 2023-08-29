@@ -40,7 +40,7 @@ resim#0| hakkında bilgi
 
 ## CR2 Dosya Biçiminin Avantajı
 
-Resimlerin RAW formatında saklanması, Beyaz Dengesi ayarı gibi fotoğrafta birçok sonradan işlemeye izin verir. Bu, [JPEG](/tr/resim/jpeg/) gibi diğer resim dosyası formatlarında çok daha zordur ve büyük bir kalite kaybına neden olur.
+Resimlerin RAW formatında saklanması, Beyaz Dengesi ayarı gibi fotoğrafta birçok sonradan işlemeye izin verir. Bu, [JPEG](/tr/image/jpeg/) gibi diğer resim dosyası formatlarında çok daha zordur ve büyük bir kalite kaybına neden olur.
 
 ## CR2, JPEG'den daha mı iyi?
 
