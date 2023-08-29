@@ -19,7 +19,7 @@
 
 ## .df dosyası nedir?
 
-.ndf uzantılı bir dosya, kullanıcı verilerini depolamak için [Microsoft SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server) tarafından kullanılan ikincil bir veritabanı dosyasıdır. NDF, ikincil depolama dosyasıdır çünkü SQL sunucusu, kullanıcı tarafından belirtilen verileri [MDF](/tr/veritabanı/mdf/) olarak bilinen birincil depolama dosyasında depolar. NDF veri dosyası isteğe bağlıdır ve birincil MDF dosyasının tahsis edilen tüm alanı kullanması durumunda veri depolamayı yönetmek için kullanıcı tanımlıdır. Genellikle ayrı bir diskte depolanır ve birden çok depolama aygıtına yayılabilir. NDF dosyalarının açılabilmesi için MDF dosyalarının varlığı gereklidir.
+.ndf uzantılı bir dosya, kullanıcı verilerini depolamak için [Microsoft SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server) tarafından kullanılan ikincil bir veritabanı dosyasıdır. NDF, ikincil depolama dosyasıdır çünkü SQL sunucusu, kullanıcı tarafından belirtilen verileri [MDF](/tr/database/mdf/) olarak bilinen birincil depolama dosyasında depolar. NDF veri dosyası isteğe bağlıdır ve birincil MDF dosyasının tahsis edilen tüm alanı kullanması durumunda veri depolamayı yönetmek için kullanıcı tanımlıdır. Genellikle ayrı bir diskte depolanır ve birden çok depolama aygıtına yayılabilir. NDF dosyalarının açılabilmesi için MDF dosyalarının varlığı gereklidir.
 
 ## NDF Dosya Biçimi
 

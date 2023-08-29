@@ -91,7 +91,7 @@ VideoLAN VLC medya oynatıcı ve Eltima Elmedia Player dahil olmak üzere birço
 * Video Aktarım Akışı - [TS](/tr/video/ts/)
 * Gelişmiş Sistem Formatı - [ASF](/tr/video/ts/)
 * Ogg Vorbis Sesi - [OGG](/tr/audio/ogg/)
-* MP3 Ses - [MP3](/tr/ses/mp3/)
+* MP3 Ses - [MP3](/tr/audio/mp3/)
 * Ücretsiz Kayıpsız Ses Codec'i - [FLAC](/tr/audio/flac/)
 * WAVE Ses - [WAV](/tr/audio/wav/)
 
