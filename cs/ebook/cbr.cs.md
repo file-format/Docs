@@ -27,6 +27,6 @@ Soubor CBR je archiv [RAR](/cs/compression/rar/), který je uložen jako binárn
 
 ## Reference
 
-* [Archiv komiksů](https://en.wikipedia.org/wiki/archiv_komiksů)
+* [Archiv komiksů](https://en.wikipedia.org/wiki/Comic_book_archive)
 * [Calibre](https://calibre-ebook.com/)
 
