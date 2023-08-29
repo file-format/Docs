@@ -64,6 +64,6 @@
 
 ## Посилання ##
 
-* [ICO – за Вікіпедією](https://en.wikipedia.org/wiki/ICO_(формат_файлу))
+* [ICO – за Вікіпедією](https://en.wikipedia.org/wiki/ICO_(file_format))
 * [IANA - vnd.microsoft.icon](http://www.iana.org/assignments/media-types/image/vnd.microsoft.icon)
 

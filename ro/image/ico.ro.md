@@ -64,6 +64,6 @@ Directorul conținut într-un fișier ICO, reprezentat ca structură ICONDIR, co
 
 ## Referințe ##
 
-* [ICO - După Wikipedia](https://en.wikipedia.org/wiki/ICO_(format_fișier))
+* [ICO - După Wikipedia](https://en.wikipedia.org/wiki/ICO_(file_format))
 * [IANA - vnd.microsoft.icon](http://www.iana.org/assignments/media-types/image/vnd.microsoft.icon)
 

@@ -64,5 +64,5 @@ Mặc dù lược đồ bộ ký tự mặc định cho iCalendar là UTF-8 như
 
 * [Đặc tả đối tượng lõi lập lịch và lập lịch trên Internet](https://www.ietf.org/rfc/rfc5545.txt)
 * [iCalendar (RFC 5545)](https://icalendar.org/RFC-Specifications/iCalendar-RFC-5545/)
-* [iCalendar](https://en.wikipedia.org/wiki/ICalWiki#History_and_design)
+* [iCalendar](https://en.wikipedia.org/wiki/ICalendar#History_and_design)
 
