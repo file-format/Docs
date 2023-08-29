@@ -71,5 +71,5 @@ Formatul LRC îmbunătățit este o versiune extinsă a formatului Simple LRC. S
 
 ## Referințe
 
-* [Format de fișier cu versuri LRC - Wikipedia](https://en.wikipedia.org/wiki/LRC_(format_fișier))
+* [Format de fișier cu versuri LRC - Wikipedia](https://en.wikipedia.org/wiki/LRC_(file_format))
 

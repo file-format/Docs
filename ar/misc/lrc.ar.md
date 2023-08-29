@@ -71,5 +71,5 @@ mm:ss.xxlast lyrics line
 
 ## مراجع
 
-* [تنسيق ملف كلمات LRC - ويكيبيديا](https://en.wikipedia.org/wiki/LRC_ (file_format))
+* [تنسيق ملف كلمات LRC - ويكيبيديا](https://en.wikipedia.org/wiki/LRC_(file_format))
 

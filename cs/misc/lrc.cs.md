@@ -71,5 +71,5 @@ Rozšířený formát LRC je rozšířenou verzí jednoduchého formátu LRC. P�
 
 ## Reference
 
-* [Formát souboru s texty LRC – Wikipedie](https://en.wikipedia.org/wiki/LRC_(formát_souboru))
+* [Formát souboru s texty LRC – Wikipedie](https://en.wikipedia.org/wiki/LRC_(file_format))
 
