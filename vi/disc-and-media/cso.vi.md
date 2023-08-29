@@ -57,6 +57,5 @@ Các khối dữ liệu bao gồm dữ liệu không nén hoặc nén. Kích th�
 
 ## Người giới thiệu
 
-* [CSO - theo Wikipedia](https://en.wikipedia.org/wiki/.CSO)
-
+* N/A
 

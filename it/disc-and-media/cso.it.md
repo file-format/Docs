@@ -57,6 +57,5 @@ I blocchi di dati comprendono i dati non compressi o compressi. La dimensione di
 
 ## Riferimenti
 
-* [CSO - di Wikipedia](https://en.wikipedia.org/wiki/.CSO)
-
+* N/A
 

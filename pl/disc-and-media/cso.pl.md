@@ -57,6 +57,5 @@ Bloki danych składają się z nieskompresowanych lub skompresowanych danych. Ro
 
 ## Bibliografia
 
-* [CSO – z Wikipedii](https://en.wikipedia.org/wiki/.CSO)
-
+* N/A
 
