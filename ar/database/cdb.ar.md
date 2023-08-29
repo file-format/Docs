@@ -55,6 +55,6 @@
 
 ## مراجع ##
 
-* [cdb (برنامج) - ويكيبيديا](](https://en.wikipedia.org/wiki/Cdb_(software))
+* [cdb (برنامج) - ويكيبيديا](https://en.wikipedia.org/wiki/Cdb_(software))
 * [مواصفات CDB](http://cr.yp.to/cdb.html)
 
