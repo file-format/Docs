@@ -91,5 +91,5 @@ kde
 ## Reference
 
 * [Formát archivu RAR 5.0](https://www.rarlab.com/technote.htm)
-* [RAR – z Wikipedie](https://en.wikipedia.org/wiki/RAR_(formát_souboru))
+* [RAR – z Wikipedie](https://en.wikipedia.org/wiki/RAR_(file_format))
 
