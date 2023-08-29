@@ -68,7 +68,7 @@ Modificare l'estensione del file eseguibile da .exe a .scr. Quindi il file SCR p
 
 ## Riferimenti
 
-* [Salvaschermo](https://en.wikipedia.org/wiki/Salvaschermo)
+* [Salvaschermo](https://en.wikipedia.org/wiki/Screensaver)
 * [Scrivi uno screensaver che funzioni davvero](https://www.codeproject.com/Articles/14081/Write-a-Screensaver-that-Actually-Works)
 
 

@@ -68,7 +68,7 @@ class MyCoolScreensaver : Screensaver
 
 ## อ้างอิง
 
-* [สกรีนเซฟเวอร์](https://en.wikipedia.org/wiki/สกรีนเซฟเวอร์)
+* [สกรีนเซฟเวอร์](https://en.wikipedia.org/wiki/Screensaver)
 * [เขียนสกรีนเซฟเวอร์ที่ใช้งานได้จริง](https://www.codeproject.com/Articles/14081/Write-a-Screensaver-that-Actually-Works)
 
 

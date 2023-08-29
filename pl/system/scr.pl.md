@@ -68,7 +68,7 @@ Zmień rozszerzenie pliku wykonywalnego z .exe na .scr. Tak więc plik SCR możn
 
 ## Bibliografia
 
-* [Wygaszacz ekranu](https://en.wikipedia.org/wiki/Wygaszacz ekranu)
+* [Wygaszacz ekranu](https://en.wikipedia.org/wiki/Screensaver)
 * [Napisz wygaszacz ekranu, który faktycznie działa](https://www.codeproject.com/Articles/14081/Write-a-Screensaver-that-Actually-Works)
 
 
