@@ -45,7 +45,7 @@ Aspose.Words suite of APIs lets any developer convert [DOC](/word-processing/doc
 
 ## DOC Viewer
 
-If you don't have Microsoft Word or other compatible software installed in your PC to open and view DOC files, you can use the freely available app [Aspose.Words Viewer](/word-processing/doc-viewer/) to open and view DOC files online.
+If you don't have Microsoft Word or other compatible software installed in your PC to open and view DOC files, you can use the freely available app [Aspose.Words Viewer](/word-processing/docx-viewer/) to open and view DOC files online.
 
 ## Aspose.Words Resources
 

@@ -20,7 +20,7 @@
 
 DOCM is the macro-enabled version of Microsoft Word documents that are capable to run macros. The difference between a normal Word document and a macro-enabled document is that DOCM provides the additional feature for supporting macros.
 
-DOC files can be converted to DOCM using free online tools and apps. **[Aspose.Words App](https://products.aspose.app/words/family)** is a set of online apps that let you carry out different operations on Word documents right from your web browser. Besides its features of [document viewing]((/word-processing/doc-viewer/)), splitting, merging, comparison, rotation, and others, it lets you convert Word documents from one format to others. You can convert [DOC](/word-processing/doc/) to [DOCM](/word-processing/docm/) using the Aspose.Words app.
+DOC files can be converted to DOCM using free online tools and apps. **[Aspose.Words App](https://products.aspose.app/words/family)** is a set of online apps that let you carry out different operations on Word documents right from your web browser. Besides its features of [document viewing](/word-processing/docx-viewer/), splitting, merging, comparison, rotation, and others, it lets you convert Word documents from one format to others. You can convert [DOC](/word-processing/doc/) to [DOCM](/word-processing/docm/) using the Aspose.Words app.
 
 ## Convert DOC to DOCM - Free Demo
 
@@ -43,7 +43,7 @@ Aspose.Words suite of APIs lets any developer convert [DOC](/word-processing/doc
 
 ## DOC Viewer
 
-If you don't have Microsoft Word or other compatible software installed in your PC to open and view DOC files, you can use the freely available app [Aspose.Words Viewer](/word-processing/doc-viewer/) to open and view DOC files online.
+If you don't have Microsoft Word or other compatible software installed in your PC to open and view DOC files, you can use the freely available app [Aspose.Words Viewer](/word-processing/docx-viewer/) to open and view DOC files online.
 
 ## Aspose.Words Resources
 
