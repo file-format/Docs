@@ -33,6 +33,6 @@ Wie bereits erwähnt, ist eine OVA-Datei eine Archivdatei, die mithilfe des OVF-
 
 ## Verweise
 
-* [OVA-Dateiformate und -Vorlagen](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-AE61948B-C2EE-436E-BAFB-3C7209088552.html )
+* [OVA-Dateiformate und -Vorlagen](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-AE61948B-C2EE-436E-BAFB-3C7209088552.html)
 * [OVF-Dateiformatspezifikationen](https://products.conholdate.app/viewer/view/3XKCLQbwAw/open-virtualization-format-specification-dsp0243_1-1-0.pdf)
 

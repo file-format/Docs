@@ -33,6 +33,6 @@ Mint említettük, az OVA-fájl egy archív fájl, amely az OVF-könyvtár haszn
 
 ## Hivatkozások
 
-* [OVA fájlformátumok és -sablonok](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-AE61948B-C2EE-436E-BAFB-3C7209088552.html )
+* [OVA fájlformátumok és -sablonok](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-AE61948B-C2EE-436E-BAFB-3C7209088552.html)
 * [OVF fájlformátum specifikációi](https://products.conholdate.app/viewer/view/3XKCLQbwAw/open-virtualization-format-specification-dsp0243_1-1-0.pdf)
 

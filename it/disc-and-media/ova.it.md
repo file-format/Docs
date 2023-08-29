@@ -33,6 +33,6 @@ Come accennato, un file OVA è un file di archivio che viene creato utilizzando 
 
 ## Riferimenti
 
-* [Formati e modelli di file OVA](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-AE61948B-C2EE-436E-BAFB-3C7209088552.html )
+* [Formati e modelli di file OVA](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-AE61948B-C2EE-436E-BAFB-3C7209088552.html)
 * [Specifiche del formato file OVF](https://products.conholdate.app/viewer/view/3XKCLQbwAw/open-virtualiization-format-specification-dsp0243_1-1-0.pdf)
 
