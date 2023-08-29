@@ -23,5 +23,5 @@
 
 ## Referanslar
 
-* [İlyada - Wikipedia'dan](https://en.wikipedia.org/wiki/ILIad)
+* [İlyada - Wikipedia'dan](https://en.wikipedia.org/wiki/ILiad)
 
