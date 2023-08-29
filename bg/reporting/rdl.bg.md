@@ -60,6 +60,6 @@ XML Schema Definition (XSD) файл валидира RDL файла. Схема
 
 ## Препратки ##
 
-- [Език за дефиниране на отчети (Уикипедия)](https://en.wikipedia.org/wiki/Език за дефиниране на отчети)
+- [Език за дефиниране на отчети (Уикипедия)](https://en.wikipedia.org/wiki/Report_Definition_Language)
 - [Език за дефиниране на отчети (SSRS)](https://learn.microsoft.com/en-us/sql/reporting-services/reports/report-definition-language-ssrs)
 
