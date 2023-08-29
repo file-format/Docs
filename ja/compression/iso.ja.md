@@ -55,7 +55,7 @@ ISO ファイル形式は、指定された内容のデータをアーカイブ�
 
 ## 参考文献
 
-* [光ディスク イメージ - ウィキペディア](https://en.wikipedia.org/wiki/Optical_dis_image)
+* [光ディスク イメージ - ウィキペディア](https://en.wikipedia.org/wiki/Optical_disc_image)
 * [ファイル署名](https://www.garykessler.net/library/file_sigs.html)
 * [ISO 9660 - ウィキペディア](https://en.wikipedia.org/wiki/ISO_9660)
 
