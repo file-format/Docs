@@ -47,5 +47,5 @@ Documentele Apple PAGES pot fi convertite în mai multe formate de fișiere. Ace
 ## Referințe
 
 * [Convertire documente pagini](https://support.apple.com/en-us/HT202227)
-* [Pagini Apple - Wikipedia](https://en.wikipedia.org/wiki/Pages_(procesor_de_texte))
+* [Pagini Apple - Wikipedia](https://en.wikipedia.org/wiki/Pages_(word_processor))
 

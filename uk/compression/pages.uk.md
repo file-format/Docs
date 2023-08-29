@@ -47,5 +47,5 @@
 ## Список літератури
 
 * [Конвертувати документи сторінок](https://support.apple.com/en-us/HT202227)
-* [Apple Pages - Вікіпедія](https://en.wikipedia.org/wiki/Pages_(текстовий_процесор))
+* [Apple Pages - Вікіпедія](https://en.wikipedia.org/wiki/Pages_(word_processor))
 
