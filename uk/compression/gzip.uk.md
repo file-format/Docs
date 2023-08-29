@@ -24,7 +24,7 @@
 
 GZIP використовує алгоритм [DEFLATE](https://en.wikipedia.org/wiki/DEFLATE) для стиснення файлів в архіви. Два RFC, [RFC1952](https://tools.ietf.org/html/rfc1952) і [RFC 1951](https://tools.ietf.org/html/rfc1951), визначають специфікації формату оболонки gzip і deflate стиснутий формат даних відповідно.
 
-Файли GZIP часто зберігаються у форматі [GZ](/uk/стиснення/gz/).
+Файли GZIP часто зберігаються у форматі [GZ](/uk/compression/gz/).
 
 ## Список літератури
 
