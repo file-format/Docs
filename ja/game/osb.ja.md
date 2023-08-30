@@ -27,6 +27,6 @@ OSB ファイルは、ディスクのビートマップ フォルダにプレー
 
 ## 参考文献
 
-※【押忍！リズムゲーム】(https://osu.ppy.sh/home)
-* [ストーリーボード - オス!](https://osu.ppy.sh/wiki/ja/ストーリーボード)
+* [押忍！リズムゲーム](https://osu.ppy.sh/home)
+* [ストーリーボード - オス!](https://osu.ppy.sh/wiki/en/Storyboard)
 
