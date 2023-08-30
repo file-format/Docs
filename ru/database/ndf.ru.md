@@ -71,7 +71,7 @@ PFS определяет состояние распределения и кол
 
 ## использованная литература
 
-* [Файлы базы данных и файловые группы](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?redirectedfrom=MSDN&view=sql-server-ver15)
+* [Файлы базы данных и файловые группы](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver16)
 * [Отключение и подключение базы данных — SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
 * [Анализ анатомии файла данных SQL Server](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

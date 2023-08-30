@@ -71,7 +71,7 @@ Este exemplo mostra números de página em um banco de dados que possui um arqui
 
 ## Referências
 
-* [Arquivos de banco de dados e grupos de arquivos](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?redirectedfrom=MSDN&view=sql-server-ver15)
+* [Arquivos de banco de dados e grupos de arquivos](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver16)
 * [Anexar e desanexar banco de dados - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
 * [Analisando a anatomia do arquivo de dados do SQL Server](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

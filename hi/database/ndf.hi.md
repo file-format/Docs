@@ -71,7 +71,7 @@ SQL सर्वर डेटा फ़ाइल में पृष्ठ श�
 
 ## संदर्भ
 
-* [डेटाबेस फ़ाइलें और फ़ाइल समूह](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?redirectedfrom=MSDN&view=sql-server-ver15)
+* [डेटाबेस फ़ाइलें और फ़ाइल समूह](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver16)
 * [डेटाबेस डिटैच और अटैच - SQL सर्वर](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
 * [एसक्यूएल सर्वर डेटा फ़ाइल एनाटॉमी का विश्लेषण](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 
