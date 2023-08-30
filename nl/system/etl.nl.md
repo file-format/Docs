@@ -31,6 +31,6 @@ Gegevens van ETL-bestanden kunnen zowel in tabelvorm als in grafisch formaat wor
 
 ## Referenties
 
-* [Windows Performance Analyzer](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/aan de slag--windows-performance-analyzer--wpa-)
+* [Windows Performance Analyzer](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
 * [WPA Snelstartgids](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
 
