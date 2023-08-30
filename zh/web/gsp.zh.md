@@ -26,4 +26,4 @@ GSP 文件以 Web 文件格式存储，可通过 Microsoft Outlook 等电子邮�
 
 ## 参考
 
-* [在 Outlook 中复制 MSG 电子邮件文件时出错](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients）
+* [在 Outlook 中复制 MSG 电子邮件文件时出错](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients)
