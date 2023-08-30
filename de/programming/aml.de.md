@@ -52,7 +52,7 @@ MAML-Dateien können mit Sandcastle erstellt werden, einer Suite von .XSL-Schema
 
 ## Verweise
 
-* [Erstellen Sie eine XML-basierte Hilfe mit PlatyPS](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
+* [Erstellen Sie eine XML-basierte Hilfe mit PlatyPS](https://learn.microsoft.com/en-us/powershell/utility-modules/platyps/create-help-using-platyps?view=ps-modules)
 * [Microsoft Assistance Markup Language](https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
 
 # AML - Arc-Makro-Sprachdatei

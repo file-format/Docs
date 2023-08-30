@@ -52,7 +52,7 @@
 
 ## использованная литература
 
-* [Создайте справку на основе XML с помощью PlatyPS](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
+* [Создайте справку на основе XML с помощью PlatyPS](https://learn.microsoft.com/en-us/powershell/utility-modules/platyps/create-help-using-platyps?view=ps-modules)
 * [Язык разметки Microsoft Assistance](https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
 
 # AML — Языковой файл макросов Arc
