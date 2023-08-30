@@ -43,5 +43,5 @@ Un archivo de imagen HDR consta de las siguientes tres secciones:
 ## Referencias
 
 * [Resplandor HDR](http://paulbourke.net/dataformats/pic/)
-* [info de la imagen](https://github.com/xiaozhuai/info de la imagen)
+* [info de la imagen](https://github.com/xiaozhuai/imageinfo)
 

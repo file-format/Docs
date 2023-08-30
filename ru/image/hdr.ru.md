@@ -43,5 +43,5 @@
 ## использованная литература
 
 * [Сияние HDR](http://paulbourke.net/dataformats/pic/)
-* [информация об изображении](https://github.com/xiaozhuai/информация об изображении)
+* [информация об изображении](https://github.com/xiaozhuai/imageinfo)
 

@@ -43,5 +43,5 @@ Eine HDR-Bilddatei besteht aus den folgenden drei Abschnitten:
 ## Verweise
 
 * [Radiance HDR](http://paulbourke.net/dataformats/pic/)
-* [Bildinfo](https://github.com/xiaozhuai/bildinfo)
+* [Bildinfo](https://github.com/xiaozhuai/imageinfo)
 
