@@ -34,5 +34,5 @@ XS 文件保存为纯文本文件，可以使用任何文本编辑器打开和�
 ## 参考
 
 * [帝国时代 III - 主题](https://github.com/topics/aoe)
-* [论坛 - 帝国时代 III](https://forums.ageofempires.com/t/please-make-the-ai-fight-for-map-control-and-resources-long-post-but-worth-它/176307)
+* [论坛 - 帝国时代 III](https://forums.ageofempires.com/t/please-make-the-ai-fight-for-map-control-and-resources-long-post-but-worth-it/176307)
 
