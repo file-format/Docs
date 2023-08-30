@@ -27,6 +27,6 @@ Die Namenskonvention .sdf ist optional, und jede Erweiterung kann zum Speichern 
 ## Verweise
 
 * [SQL Server Compact – Wikipedia](https://en.wikipedia.org/wiki/SQL_Server_Compact)
-* [Verwendung von SQL Server Compact für ASP.NET-Webanwendungen](https://learn.microsoft.com/en-us/ previous-versions/aspnet/ms247257(v=vs.110))
+* [Verwendung von SQL Server Compact für ASP.NET-Webanwendungen](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
 
 
