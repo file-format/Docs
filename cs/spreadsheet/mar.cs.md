@@ -28,5 +28,5 @@ Soubory MAR se ukládají jako binární soubory v proprietárním formátu soub
 
 ## Reference
 
-* [Mariner Calc ](https://marinersoftware.com/product/calc-xls/)
+* N/A
 

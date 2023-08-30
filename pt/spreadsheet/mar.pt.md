@@ -28,5 +28,5 @@ Os arquivos MAR são salvos como arquivos binários em um formato de arquivo pro
 
 ## Referências
 
-* [Mariner Calc](https://marinersoftware.com/product/calc-xls/)
+* N/A
 

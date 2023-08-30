@@ -28,5 +28,5 @@
 
 ## Список літератури
 
-* [Mariner Calc ](https://marinersoftware.com/product/calc-xls/)
+* N/A
 

@@ -28,5 +28,5 @@ MAR ファイルは、Mariner Calc だけが知っている独自のファイル
 
 ## 参考文献
 
-* [マリナー電卓](https://marinersoftware.com/product/calc-xls/)
+* N/A
 

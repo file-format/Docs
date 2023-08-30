@@ -28,5 +28,5 @@ Pliki MAR są zapisywane jako pliki binarne w zastrzeżonym formacie pliku, któ
 
 ## Bibliografia
 
-* [Mariner Calc](https://marinersoftware.com/product/calc-xls/)
+* N/A
 

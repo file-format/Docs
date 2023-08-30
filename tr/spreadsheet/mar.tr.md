@@ -28,5 +28,5 @@ MAR dosyaları, yalnızca Mariner Calc tarafından bilinen tescilli bir dosya bi
 
 ## Referanslar
 
-* [Mariner Calc ](https://marinersoftware.com/product/calc-xls/)
+* N/A
 
