@@ -72,6 +72,6 @@
 ## βιβλιογραφικές αναφορές
 
 * [Αρχεία βάσης δεδομένων και ομάδες αρχείων](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver16)
-* [Αποσύνδεση και επισύναψη βάσης δεδομένων - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -έκδοση 15)
+* [Αποσύνδεση και επισύναψη βάσης δεδομένων - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server-ver15)
 * [Analyzing SQL Server Data File Anatomy](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

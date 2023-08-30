@@ -72,6 +72,6 @@ Tento příklad ukazuje čísla stránek v databázi, která má 4 MB primární
 ## Reference
 
 * [Databázové soubory a skupiny souborů](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver16)
-* [Odpojit a připojit databázi – SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
+* [Odpojit a připojit databázi – SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server-ver15)
 * [Analýza anatomie datového souboru SQL Server](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

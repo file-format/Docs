@@ -72,6 +72,6 @@ SQL Server 데이터 파일의 페이지는 0부터 시작하여 순차적으로
 ## 참고문헌
 
 * [데이터베이스 파일 및 파일 그룹](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver16)
-* [데이터베이스 분리 및 연결 - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
+* [데이터베이스 분리 및 연결 - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server-ver15)
 * [SQL Server 데이터 파일 분석 분석](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

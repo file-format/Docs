@@ -72,6 +72,6 @@ PFS מזהה את מצב ההקצאה וקובע את כמות השטח הפנו
 ## הפניות
 
 * [קבצי מסד נתונים וקבוצות קבצים](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver16)
-* [נתק וצרף מסד נתונים - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
+* [נתק וצרף מסד נתונים - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server-ver15)
 * [ניתוח SQL Server Data File Anatomy](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 
