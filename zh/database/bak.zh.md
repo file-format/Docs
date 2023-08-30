@@ -56,5 +56,5 @@ MTF 文件中的数据流用于数据封装和对齐。它包括一个流标头�
 
 ## 参考 ＃＃
 
-* [[MS-BCP]：批量复制格式](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5?redirectedfrom=MSDN)
+* [[MS-BCP]：批量复制格式](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
 

@@ -27,7 +27,7 @@ El formato de archivo OST (tabla de almacenamiento fuera de línea) y [PST](/es/
 * Formato ANSI de 32 bits
 * Formato Unicode de 64 bits
 
-Las [especificaciones] del formato de archivo PST (https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546), disponibles en Microsoft, también se aplican al formato de archivo OST de forma gratuita y gratuita. licencia de patente irrevocable a través de la Promesa de Especificación Abierta. Consta de los siguientes elementos diferenciables:
+Las [especificaciones](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546) del formato de archivo PST, disponibles en Microsoft, también se aplican al formato de archivo OST de forma gratuita y gratuita. licencia de patente irrevocable a través de la Promesa de Especificación Abierta. Consta de los siguientes elementos diferenciables:
 
 * Encabezado de archivo
 * Datos del encabezado del archivo

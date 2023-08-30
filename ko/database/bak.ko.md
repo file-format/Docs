@@ -56,5 +56,5 @@ MTF 파일의 데이터 스트림은 데이터 캡슐화 및 정렬에 사용됩
 
 ## 참조 ##
 
-* [[MS-BCP]: 대량 복사 형식](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5?redirectedfrom=MSDN)
+* [[MS-BCP]: 대량 복사 형식](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
 

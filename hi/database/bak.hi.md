@@ -56,5 +56,5 @@ MTF फ़ाइल में डेटा स्ट्रीम का उप�
 
 ## संदर्भ ##
 
-* [[MS-BCP]: बल्क कॉपी फॉर्मेट](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5?redirectedfrom=MSDN)
+* [[MS-BCP]: बल्क कॉपी फॉर्मेट](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
 

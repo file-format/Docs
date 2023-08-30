@@ -56,5 +56,5 @@ A fájljelző a logikai elválasztásra és az adathordozón belüli gyors elér
 
 ## Hivatkozások ##
 
-* [[MS-BCP]: Tömeges másolási formátum](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5?MSDN)
+* [[MS-BCP]: Tömeges másolási formátum](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
 
