@@ -112,7 +112,7 @@ Os operadores gráficos usados em fluxos de conteúdo PDF descrevem a aparência
 
 ## Referências ##
 
-* [Formato de arquivo PDF: estrutura básica](https://resources.infosecinstitute.com/pdf-file-format-basic-structure/)
+* [Formato de arquivo PDF: estrutura básica](https://resources.infosecinstitute.com/topics/hacking/pdf-file-format-basic-structure/)
 * [PDF - Wikipedia](https://en.wikipedia.org/wiki/PDF)
 * [Referência de PDF - Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 

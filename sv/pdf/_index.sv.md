@@ -112,7 +112,7 @@ Grafikoperatorerna som används i PDF-innehållsströmmar beskriver utseendet p�
 
 ## Referenser ##
 
-* [PDF-filformat: Grundläggande struktur](https://resources.infosecinstitute.com/pdf-file-format-basic-structure/)
+* [PDF-filformat: Grundläggande struktur](https://resources.infosecinstitute.com/topics/hacking/pdf-file-format-basic-structure/)
 * [PDF - Wikipedia](https://en.wikipedia.org/wiki/PDF)
 * [PDF-referens - Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 

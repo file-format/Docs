@@ -112,7 +112,7 @@ Operator grafik yang digunakan dalam aliran konten PDF menjelaskan tampilan hala
 
 ## Referensi ##
 
-* [Format File PDF: Struktur Dasar](https://resources.infosecinstitute.com/pdf-file-format-basic-structure/)
+* [Format File PDF: Struktur Dasar](https://resources.infosecinstitute.com/topics/hacking/pdf-file-format-basic-structure/)
 * [PDF - Wikipedia](https://en.wikipedia.org/wiki/PDF)
 * [Referensi PDF - Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 

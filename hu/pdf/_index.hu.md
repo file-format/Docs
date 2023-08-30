@@ -112,7 +112,7 @@ A PDF tartalomfolyamokban használt grafikus operátorok a raszteres kimeneti es
 
 ## Hivatkozások ##
 
-* [PDF fájlformátum: alapstruktúra](https://resources.infosecinstitute.com/pdf-file-format-basic-structure/)
+* [PDF fájlformátum: alapstruktúra](https://resources.infosecinstitute.com/topics/hacking/pdf-file-format-basic-structure/)
 * [PDF – Wikipédia](https://en.wikipedia.org/wiki/PDF)
 * [PDF-referencia – Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 

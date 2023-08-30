@@ -112,6 +112,6 @@ The  graphics  operators  used  in  PDF  content  streams  describe  the  appear
 
 ## References ##
 
-* [PDF File Format: Basic Structure](https://resources.infosecinstitute.com/pdf-file-format-basic-structure/)
+* [PDF File Format: Basic Structure](https://resources.infosecinstitute.com/topics/hacking/pdf-file-format-basic-structure/)
 * [PDF - Wikipedia](https://en.wikipedia.org/wiki/PDF)
 * [PDF Reference - Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
