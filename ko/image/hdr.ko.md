@@ -36,12 +36,12 @@ HDR 이미지 파일은 다음 세 섹션으로 구성됩니다.
 
 ## 오픈 소스 HDR/HDRI API
 
-* **[imageinfo](https://github.com/xiaozhuai/imageinfo )** - 크로스 플랫폼 초고속 단일 헤더 [C++](/ko/programming/cpp/) 라이브러리를 사용하여 로드/디코딩 없이 이미지 크기와 형식을 얻습니다.
+* **[imageinfo](https://github.com/xiaozhuai/imageinfo)** - 크로스 플랫폼 초고속 단일 헤더 [C++](/ko/programming/cpp/) 라이브러리를 사용하여 로드/디코딩 없이 이미지 크기와 형식을 얻습니다.
 * **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - 로드/디코딩 없이 이미지 크기와 형식을 가져오는 Rust 라이브러리. [.avif](/ko/image/avif/), [.bmp](/ko/image/bmp/), [.cur](/ko/image/cur/), [.dds](/ko/image/dds/), [.avif]를 지원합니다. gif](/ko/image/gif/), hdr(그림), [heic(heif)](/ko/image/heic/), [.icns](/ko/image/icns/), [.ico](/ko/image/ico /), [.jp2](/ko/image/jp2/), [jpeg(jpg)](/ko/image/jpeg/), [jpx](/ko/image/jpx/), ktx, [png](/ko/image/png /), [psd](/ko/image/psd/), qoi, tga, tiff(tif) 및 webp.
 * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** - HdrHistogram의 Java 구현입니다.
 
 ## 참고문헌
 
 * [래디언스 HDR](http://paulbourke.net/dataformats/pic/)
-* [이미지 정보](https://github.com/xiaozhuai/imageinfo )
+* [이미지 정보](https://github.com/xiaozhuai/imageinfo)
 
