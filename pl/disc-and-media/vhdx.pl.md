@@ -24,7 +24,7 @@ Plik VHDX można przekonwertować na [VHD](/pl/disc-and-media/vhd/) za pomocą H
 
 ## Format pliku VHDX — więcej informacji
 
-Szczegóły formatu plików VHDX są w pełni udokumentowane i dostępne online jako [Specyfikacja formatu plików VHDX](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477 ) w dokumentacji firmy Microsoft. Jest to rozszerzenie formatu VHD i zawiera rozszerzone możliwości. Format pliku VHDX zapewnia dodatkowe funkcje, które są dostępne w warstwach plików wirtualnego dysku twardego i wirtualnego dysku twardego. Jest bardziej zoptymalizowany i daje lepsze wyniki w zakresie konfiguracji i możliwości sprzętu pamięci masowej. Pliki VHDX można otwierać
+Szczegóły formatu plików VHDX są w pełni udokumentowane i dostępne online jako [Specyfikacja formatu plików VHDX](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477) w dokumentacji firmy Microsoft. Jest to rozszerzenie formatu VHD i zawiera rozszerzone możliwości. Format pliku VHDX zapewnia dodatkowe funkcje, które są dostępne w warstwach plików wirtualnego dysku twardego i wirtualnego dysku twardego. Jest bardziej zoptymalizowany i daje lepsze wyniki w zakresie konfiguracji i możliwości sprzętu pamięci masowej. Pliki VHDX można otwierać
 
 ### Wsparcie dla wirtualnych dysków twardych w VHDX
 
