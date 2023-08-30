@@ -22,7 +22,7 @@
 
 تتضمن امتدادات ملفات جداول البيانات الشائعة وتنسيقات ملفاتها ** [XLSX](/ar/spreadsheet/xlsx/) ** (Microsoft Excel Open XML Spreadsheet) ، ** [ODS](/ar/spreadsheet/ods/) ** (OpenDocument Spreadsheet) و ** [XLS](/ar/spreadsheet/xls/) ** (تنسيق ملف Microsoft Excel الثنائي).
 
-هل حصلت على استفسارات متعلقة بتنسيقات ملفات جداول البيانات؟ توجه إلى [منتديات] مجتمعنا (https://forum.fileformat.com/c/spreadsheet/6) للاستفادة من المعرفة التي يشاركها خبراء تنسيق الملفات.
+هل حصلت على استفسارات متعلقة بتنسيقات ملفات جداول البيانات؟ توجه إلى [منتديات](https://forum.fileformat.com/c/spreadsheet/6) مجتمعنا للاستفادة من المعرفة التي يشاركها خبراء تنسيق الملفات.
 
 ## قائمة امتدادات ملفات جدول البيانات وتنسيقات الملفات المرتبطة
 
