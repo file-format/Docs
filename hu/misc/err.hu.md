@@ -27,5 +27,5 @@ Az ERR fájlok egyszerű szöveges fájlként kerülnek a lemezre, és szövegsz
 
 ## Hivatkozások
 
-* [Az EndNote adatmappa fontossága](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= hu_US)
+* [Az EndNote adatmappa fontossága](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language=en_US)
 
