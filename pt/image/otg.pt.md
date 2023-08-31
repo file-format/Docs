@@ -45,7 +45,7 @@ Os atributos que podem estar associados ao `<style:handout-master> ` elemento s�
 
 |Layout|Atributo|Descrição
 ---|---|---|
-|Layout da página de apresentação|apresentação:nome do layout da página de apresentação|Links para `<style:presentation-page-layout> ` atributo
+|Layout da página de apresentação|apresentação:nome do layout da página de apresentação|Links para `<style:presentation-page-layout>`  atributo
 |Layout da página|`style:page-layout-name` | Especifica um layout de página que contém os tamanhos, a borda e a orientação da página mestra do folheto.
 |Estilo de página|`draw:style-name`|Atribui atributos de formatação adicionais a uma página-mestre de folheto atribuindo um estilo de página de desenho.|
 |Declaração do cabeçalho| `apresentação:use-header-name`| Especifica o nome da declaração do campo de cabeçalho que é usado para todos os campos de cabeçalho exibidos na página mestra do folheto.

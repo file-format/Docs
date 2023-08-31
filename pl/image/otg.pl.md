@@ -45,7 +45,7 @@ Atrybuty, które mogą być powiązane z `<style:handout-master> ` elementem są
 
 |Układ|Atrybut|Opis
 ---|---|---|
-|Układ strony prezentacji|prezentacja:nazwa-układu-strony-prezentacji|Linki do `<style:presentation-page-layout> ` atrybut
+|Układ strony prezentacji|prezentacja:nazwa-układu-strony-prezentacji|Linki do `<style:presentation-page-layout>`  atrybut
 |Układ strony|`styl:nazwa-układu-strony` | Określa układ strony, który zawiera rozmiary, obramowanie i orientację strony wzorcowej materiałów informacyjnych.
 |Styl strony|`draw:nazwa-stylu`|Przypisuje dodatkowe atrybuty formatowania do strony wzorcowej materiałów informacyjnych poprzez przypisanie stylu strony rysunku.|
 |Deklaracja nagłówka| `prezentacja:użyj-nazwy-nagłówka`| Określa nazwę deklaracji pola nagłówka, która jest używana dla wszystkich pól nagłówka wyświetlanych na stronie wzorcowej materiałów informacyjnych.
