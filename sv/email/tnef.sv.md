@@ -34,7 +34,7 @@ TNEF-dataalgoritmen etablerar en tillplattad struktur från rika hierarkiska med
 
 I vissa situationer, där egenskaper förekommer i grupper eller har flera värden, kan strömmen innehålla räkningar och utfyllnad för att framtvinga en specifik datajustering. En distinkt situation där användningen av denna algoritm är fördelaktig är i en meddelandemiljö som inte stöder. I sådana miljöer kodas en rik meddelandeegenskap in i en seriell dataström av en TNEF Writer. Vidare kan de egenskaper som inte tillhör den underliggande TNEF kapslas in under överföring. Dessa inkapslade egenskaper gjordes sedan tillgängliga genom avkodning genom en TNEF för att säkerställa tillgängligheten av alla egenskaper hos det ursprungliga meddelandet till klientapplikationen.
 
-I TNEF är alla numeriska datatyper little-endian och deras storlek är större än en byte. Hantering av dessa numeriska värden på icke-little-endian-plattformar kräver att man genomför lämpliga transformationer för att få korrekta värden. Strängvärden representeras i Augmented Backus-Naur Form (ABNF) format enligt [RFC5234] specifikationer. När strängen avslutas med noll-tecken ingår den också; till exempel "worker@specimen.com" %x00.
+I TNEF är alla numeriska datatyper little-endian och deras storlek är större än en byte. Hantering av dessa numeriska värden på icke-little-endian-plattformar kräver att man genomför lämpliga transformationer för att få korrekta värden. Strängvärden representeras i Augmented Backus-Naur Form (ABNF) format enligt [RFC5234] specifikationer. När strängen avslutas med noll-tecken ingår den också; till exempel `"worker@specimen.com" %x00`.
 
 {{< figure src="../TNEF.png" alt="TNEF filformat" >}}
 
