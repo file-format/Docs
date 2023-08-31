@@ -50,5 +50,5 @@
 
 ## Βιβλιογραφικές αναφορές ##
 
-* [Οικογένεια μορφής αρχείου δεδομένων συστήματος SPSS (.sav)](https://www.loc.gov/preseration/digital/formats/fdd/fdd000469.shtml)
+* [Οικογένεια μορφής αρχείου δεδομένων συστήματος SPSS (.sav)](https://www.loc.gov/preservation/digital/formats/fdd/fdd000469.shtml)
 
