@@ -44,6 +44,7 @@ Un fișier EML constă din informații de antet și opțional corpul mesajului. 
 
 **Exemplu antet**
 
+```
 Din:<John@bmw.eml.light.com>
 
 La:<Andy@fileformat.com>
@@ -51,6 +52,7 @@ La:<Andy@fileformat.com>
 Data: Joi, 8 Mar 2018 10:43:37 +0100
 
 Subiect: bmw eml light
+```
 
 ### Conținutul mesajului ###
 

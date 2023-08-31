@@ -44,6 +44,7 @@ Un archivo EML consta de información de encabezados y, opcionalmente, del cuerp
 
 **Ejemplo de encabezado**
 
+```
 De:<John@bmw.eml.light.com>
 
 A:<Andy@fileformat.com>
@@ -51,6 +52,7 @@ A:<Andy@fileformat.com>
 Fecha: jueves, 8 de marzo de 2018 10:43:37 +0100
 
 Asunto: luz bmw eml
+```
 
 ### Cuerpo del mensaje ###
 

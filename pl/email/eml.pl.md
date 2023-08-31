@@ -44,6 +44,7 @@ Plik EML składa się z informacji nagłówków i opcjonalnie treści wiadomośc
 
 **Przykładowy nagłówek**
 
+```
 Z:<John@bmw.eml.light.com>
 
 Do:<Andy@fileformat.com>
@@ -51,6 +52,7 @@ Do:<Andy@fileformat.com>
 Data: czw., 8 marca 2018 r. 10:43:37 +0100
 
 Temat: kontrolka bmw eml
+```
 
 ### Treść wiadomości ###
 
