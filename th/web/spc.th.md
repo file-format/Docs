@@ -24,6 +24,6 @@ lastmod: 2021-09-30
 
 ## อ้างอิง
 
-* [PKCS 7](https://th.wikipedia.org/wiki/PKCS_7)
+* [PKCS 7](https://en.wikipedia.org/wiki/PKCS_7)
 * [ข้อมูลอ้างอิง SSP](https://scalate.github.io/scalate/documentation/ssp-reference.html)
 
