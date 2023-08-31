@@ -34,5 +34,5 @@ XS ファイルは、任意のテキスト エディターで開いて編集で�
 ## 参考文献
 
 * [エイジ オブ エンパイア III - トピックス](https://github.com/topics/aoe)
-* [フォーラム - エイジ オブ エンパイア III](https://forums.ageofempires.com/t/please-make-the-ai-fight-for-map-control-and-resources-long-post-but-worth-それ/176307)
+* [フォーラム - エイジ オブ エンパイア III](https://forums.ageofempires.com/t/please-make-the-ai-fight-for-map-control-and-resources-long-post-but-worth-it/176307)
 

@@ -52,7 +52,7 @@ MAML dosyaları, bir .XSL şemaları ve yürütülebilir program paketi olan San
 
 ## Referanslar
 
-* [PlatyPS kullanarak XML tabanlı yardım oluşturun](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
+* [PlatyPS kullanarak XML tabanlı yardım oluşturun](https://learn.microsoft.com/en-us/powershell/utility-modules/platyps/create-help-using-platyps?view=ps-modules)
 * [Microsoft Yardım İşaretleme Dili](https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
 
 # AML - Arc Makro Dil Dosyası

@@ -20,7 +20,7 @@
 
 Találkozott már valaha és azon töprengett, hogy mi az az MPP fájl? Az MPP és más hasonló fájlok Project fájlformátumok, amelyeket a Project Management szoftver hoz létre. A projektfájl feladatok, erőforrások és ütemezések gyűjteménye, amelyek mérhető kimenetet kapnak termék vagy szolgáltatás formájában. A Gantt-diagramok segítségével vizuálisan állíthatók be a tevékenységek időbeli változásai az azonosított feladatokhoz, amelyek PDF- vagy képformátumba is exportálhatók dokumentációs célból.
 
-A gyakori projektmenedzsment fájlkiterjesztések és a hozzájuk tartozó fájlformátumok a következők: **[MPP](/hu/project-management/mpp/)**, **[MPX](/hu/project-management/mpx/)** és **[XER](/hu/projekt-menedzsment/xer/)**.
+A gyakori projektmenedzsment fájlkiterjesztések és a hozzájuk tartozó fájlformátumok a következők: **[MPP](/hu/project-management/mpp/)**, **[MPX](/hu/project-management/mpx/)** és **[XER](/hu/project-management/xer/)**.
 
 Kérdései vannak a projektmenedzsment fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/project-management/15), hogy részesüljön a fájlformátum-szakértők által megosztott tudásból.
 

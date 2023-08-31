@@ -19,7 +19,7 @@
 
 ## Tệp DWT là gì?
 
-Tệp DWT là tệp mẫu bản vẽ [AutoCAD](https://www.autodesk.com/) được sử dụng làm phần khởi động để tạo bản vẽ có thể được lưu dưới dạng tệp [DWG](/vi/cad/dwg/). Các tệp mẫu như vậy cung cấp các cài đặt ban đầu như loại đơn vị, yêu cầu độ chính xác, khối tiêu đề, tên lớp, loại đường và thông tin tương tự khác để chuyển đổi sang tệp bản vẽ thích hợp. Cả AutoCAD và CoreCAD đều có thể được sử dụng để đọc các tệp mẫu và sử dụng chúng trong tương lai. Nói một cách đơn giản, DWT là một DWG với các thuộc tính chỉ đọc được xác định trước theo cách giống như tệp MSWord [DOT](/vi/word-processing/dot/) đối với [DOC](/vi/word-processing/doc /) tập tin.
+Tệp DWT là tệp mẫu bản vẽ [AutoCAD](https://www.autodesk.com/) được sử dụng làm phần khởi động để tạo bản vẽ có thể được lưu dưới dạng tệp [DWG](/vi/cad/dwg/). Các tệp mẫu như vậy cung cấp các cài đặt ban đầu như loại đơn vị, yêu cầu độ chính xác, khối tiêu đề, tên lớp, loại đường và thông tin tương tự khác để chuyển đổi sang tệp bản vẽ thích hợp. Cả AutoCAD và CoreCAD đều có thể được sử dụng để đọc các tệp mẫu và sử dụng chúng trong tương lai. Nói một cách đơn giản, DWT là một DWG với các thuộc tính chỉ đọc được xác định trước theo cách giống như tệp MSWord [DOT](/vi/word-processing/dot/) đối với [DOC](/vi/word-processing/doc/) tập tin.
 
 ## Định dạng tệp DWT
 

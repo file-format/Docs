@@ -41,5 +41,5 @@ Mathematica Notebooks có thể được xuất sang nhiều định dạng tệ
 
 ## Người giới thiệu
 
-* [Thông tin cơ bản về Mathematica Notebook](https://reference.wolfram.com/lingu/guide/NotebookBasics.html)
+* [Thông tin cơ bản về Mathematica Notebook](https://reference.wolfram.com/language/guide/NotebookBasics.html)
 

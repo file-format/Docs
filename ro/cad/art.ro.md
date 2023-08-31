@@ -28,5 +28,5 @@ Fișierele ART au fost salvate pe disc ca fișiere binare, fără specificații 
 ## Referințe
 
 * [ArtCAM Autodesk](https://www.autodesk.com/products/artcam/overview)
-* [Autodesk ArtCAM nu poate deschide fișiere de artă realizate în versiunile vechi anterioare](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in-previous-legacy-versions.html)
+
 

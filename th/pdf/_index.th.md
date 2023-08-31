@@ -112,7 +112,7 @@ Linear PDF - การกำหนดเป้าหมายโปรแกร�
 
 ## อ้างอิง ##
 
-* [รูปแบบไฟล์ PDF: โครงสร้างพื้นฐาน](https://resources.infosecinstitute.com/pdf-file-format-basic-structure/)
+* [รูปแบบไฟล์ PDF: โครงสร้างพื้นฐาน](https://resources.infosecinstitute.com/topics/hacking/pdf-file-format-basic-structure/)
 * [PDF - Wikipedia](https://en.wikipedia.org/wiki/PDF)
 * [ข้อมูลอ้างอิง PDF - Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 

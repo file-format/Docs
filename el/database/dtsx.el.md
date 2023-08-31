@@ -29,7 +29,7 @@
 
 {{< figure src="../DataFlowDTSX.png" alt="Ροή δεδομένων DTSX" >}}
 
-Το DTSX βασίζεται σε [XML](/el/web/xml/) και τεκμηριώνεται στο [MS-DTSX](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd). Η βελτιωμένη ανακατασκευή του DTSX XML είναι το DTSX 2.0 που περιλαμβάνει νέα χαρακτηριστικά στις δομές, αντικατάσταση ονομαστικών ιδιοτήτων ως γονικά χαρακτηριστικά XML, καθορίζει προεπιλογές για τις περισσότερες τιμές χαρακτηριστικών και τοποθέτηση επαναλαμβανόμενων στοιχείων μέσα σε ένα γονικό στοιχείο. Οι δομές DTSX περιγράφονται χρησιμοποιώντας αυτά τα [Σχήματα XML](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#_1) και η μορφή της δομής_A celar-text XML.
+Το DTSX βασίζεται σε [XML](/el/web/xml/) και τεκμηριώνεται στο [MS-DTSX](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd). Η βελτιωμένη ανακατασκευή του DTSX XML είναι το DTSX 2.0 που περιλαμβάνει νέα χαρακτηριστικά στις δομές, αντικατάσταση ονομαστικών ιδιοτήτων ως γονικά χαρακτηριστικά XML, καθορίζει προεπιλογές για τις περισσότερες τιμές χαρακτηριστικών και τοποθέτηση επαναλαμβανόμενων στοιχείων μέσα σε ένα γονικό στοιχείο. Οι δομές DTSX περιγράφονται χρησιμοποιώντας αυτά τα [Σχήματα XML](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc) και η μορφή της δομής_A celar-text XML.
 
 ## βιβλιογραφικές αναφορές
 

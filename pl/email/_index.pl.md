@@ -19,7 +19,7 @@
 
 Czy kiedykolwiek natknąłeś się na formaty plików e-mail i nie udało Ci się ich otworzyć? Trafiłeś we właściwe miejsce, wyjaśnimy, jakie są formaty plików e-mail i jakie jest zalecane oprogramowanie, które może je otwierać lub z nich korzystać. Formaty plików e-mail są używane przez aplikacje e-mail do przechowywania różnych danych, w tym wiadomości e-mail, załączników, folderów, książek adresowych itp. Formaty plików e-mail są głównie związane z plikiem wiadomości e-mail programu Outlook Express. Inne typy plików też mogą używać rozszerzenia Email. Istnieje kilka typowych typów plików używanych w wiadomościach e-mail. Poniżej znajduje się lista najpopularniejszych formatów plików używanych przez różne programy pocztowe do przechowywania wiadomości e-mail i innych powiązanych danych.
 
-Masz pytania dotyczące formatów plików poczty e-mail? Odwiedź nasze [fora] społeczności (https://forum.fileformat.com/c/email/14), aby skorzystać z wiedzy ekspertów ds. formatów plików.
+Masz pytania dotyczące formatów plików poczty e-mail? Odwiedź nasze [fora](https://forum.fileformat.com/c/email/14) społeczności, aby skorzystać z wiedzy ekspertów ds. formatów plików.
 
 ## Lista rozszerzeń plików poczty e-mail i powiązanych formatów plików
 

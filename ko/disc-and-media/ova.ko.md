@@ -33,6 +33,6 @@ OVA(Open Virtual Appliance) 파일은 .tar 아카이브 형식을 사용하여 �
 
 ## 참고문헌
 
-* [OVA 파일 형식 및 템플릿](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-AE61948B-C2EE-436E-BAFB-3C7209088552.html )
+* [OVA 파일 형식 및 템플릿](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-AE61948B-C2EE-436E-BAFB-3C7209088552.html)
 * [OVF 파일 형식 사양](https://products.conholdate.app/viewer/view/3XKCLQbwAw/open-virtualization-format-specification-dsp0243_1-1-0.pdf)
 

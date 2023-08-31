@@ -112,7 +112,7 @@ Operatorii grafici utilizați în fluxurile de conținut PDF descriu aspectul pa
 
 ## Referințe ##
 
-* [Format fișier PDF: Structură de bază](https://resources.infosecinstitute.com/pdf-file-format-basic-structure/)
+* [Format fișier PDF: Structură de bază](https://resources.infosecinstitute.com/topics/hacking/pdf-file-format-basic-structure/)
 * [PDF - Wikipedia](https://en.wikipedia.org/wiki/PDF)
 * [Referință PDF - Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 

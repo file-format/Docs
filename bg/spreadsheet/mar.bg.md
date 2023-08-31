@@ -28,5 +28,5 @@ MAR файловете се записват като двоични файло�
 
 ## Препратки
 
-* [Mariner Calc](https://marinersoftware.com/product/calc-xls/)
+* N/A
 

@@ -57,6 +57,5 @@ Los bloques de datos se componen de datos comprimidos o sin comprimir. El tamañ
 
 ## Referencias
 
-* [CSO - por Wikipedia](https://en.wikipedia.org/wiki/.CSO)
-
+* N/A
 

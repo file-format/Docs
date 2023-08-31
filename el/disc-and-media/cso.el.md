@@ -57,6 +57,5 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [CSO - από τη Wikipedia](https://en.wikipedia.org/wiki/.CSO)
-
+* N/A
 

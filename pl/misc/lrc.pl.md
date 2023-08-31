@@ -30,7 +30,7 @@ Istnieje wiele formatów plików LRC, które zostały opracowane w czasie. Te
 
 ### Prosty format LRC
 
-Znaczniki czasu linii są w formacie [mm:ss.xx], gdzie mm to minuty, ss to sekundy, a xx to setne części sekundy.
+Znaczniki czasu linii są w formacie `[mm:ss.xx]`, gdzie mm to minuty, ss to sekundy, a xx to setne części sekundy.
 
 ```
 [00:12.00]Line 1 lyrics
@@ -54,7 +54,7 @@ Obejmuje możliwość zmiany i określenia płci tekstu za pomocą M: Mężczyzn
 ```
 ### Ulepszony format LRC
 
-Ulepszony format LRC jest rozszerzoną wersją prostego formatu LRC. Dodaje znacznik czasu programu Word w formacie<mm:ss.xx> na końcu poprzedniego słowa.
+Ulepszony format LRC jest rozszerzoną wersją prostego formatu LRC. Dodaje znacznik czasu programu Word w formacie`<mm:ss.xx>` na końcu poprzedniego słowa.
 
 ```
 [ar: Jade Michael]

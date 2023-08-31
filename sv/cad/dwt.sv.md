@@ -19,7 +19,7 @@
 
 ## Vad är en DWT fil?
 
-En DWT-fil är en [AutoCAD](https://www.autodesk.com/) ritmallsfil som används som start för att skapa ritningar som kan sparas som [DWG](/sv/cad/dwg/)-filer. Sådana mallfiler tillhandahåller initiala inställningar som enhetstyper, precision som krävs, titelblock, lagernamn, linjetyper och annan liknande information för lateral konvertering till korrekta ritfiler. Både AutoCAD och CoreCAD kan användas för att läsa mallfilerna och använda dem vidare. Med enkla ord är en DWT en DWG med fördefinierade skrivskyddade attribut på samma sätt som en MSWord [PUNKT](/sv/ord-processing/dot/) fil är till en [DOC](/sv/ord-processing/doc /) fil.
+En DWT-fil är en [AutoCAD](https://www.autodesk.com/) ritmallsfil som används som start för att skapa ritningar som kan sparas som [DWG](/sv/cad/dwg/)-filer. Sådana mallfiler tillhandahåller initiala inställningar som enhetstyper, precision som krävs, titelblock, lagernamn, linjetyper och annan liknande information för lateral konvertering till korrekta ritfiler. Både AutoCAD och CoreCAD kan användas för att läsa mallfilerna och använda dem vidare. Med enkla ord är en DWT en DWG med fördefinierade skrivskyddade attribut på samma sätt som en MSWord [DOT](/sv/word-processing/dot/) fil är till en [DOC](/sv/word-processing/doc/) fil.
 
 ## DWT filformat
 

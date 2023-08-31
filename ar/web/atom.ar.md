@@ -35,6 +35,6 @@
 ## مراجع
 
 * [تنسيق Atom Syndication - RFC](https://www.rfc-editor.org/rfc/rfc4287.html)
-* [نظرة عامة على خلاصات Atom - IBM](https://www.ibm.com/docs/en/cics-ts/5.4؟topic=support-overview-atom-feeds)
-* [Atom - Web Standard](https://en.wikipedia.org/wiki/Atom_ (web_standard))
+* [نظرة عامة على خلاصات Atom - IBM](https://www.ibm.com/docs/en/cics-ts/5.4?topic=support-overview-atom-feeds)
+* [Atom - Web Standard](https://en.wikipedia.org/wiki/Atom_(web_standard))
 

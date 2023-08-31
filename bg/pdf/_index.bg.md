@@ -112,7 +112,7 @@ PDF оформленията се категоризират като Lnear и �
 
 ## Препратки ##
 
-* [PDF файлов формат: основна структура](https://resources.infosecinstitute.com/pdf-file-format-basic-structure/)
+* [PDF файлов формат: основна структура](https://resources.infosecinstitute.com/topics/hacking/pdf-file-format-basic-structure/)
 * [PDF - Wikipedia](https://en.wikipedia.org/wiki/PDF)
 * [PDF справка - Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 

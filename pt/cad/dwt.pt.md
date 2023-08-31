@@ -19,7 +19,7 @@
 
 ## O que é um arquivo DWT?
 
-Um arquivo DWT é um arquivo de modelo de desenho do [AutoCAD](https://www.autodesk.com/) usado como iniciador para criar desenhos que podem ser salvos como arquivos [DWG](/pt/cad/dwg/). Esses arquivos de modelo fornecem configurações iniciais, como tipos de unidade, precisão necessária, blocos de título, nomes de camada, tipos de linha e outras informações semelhantes para conversão lateral em arquivos de desenho adequados. Tanto o AutoCAD quanto o CoreCAD podem ser usados para ler os arquivos de modelo e utilizá-los ainda mais. Em palavras simples, um DWT é um DWG com atributos somente leitura predefinidos da mesma forma que um arquivo MSWord [DOT](/pt/word-processing/dot/) é para um [DOC](/pt/word-processing/doc /) Arquivo.
+Um arquivo DWT é um arquivo de modelo de desenho do [AutoCAD](https://www.autodesk.com/) usado como iniciador para criar desenhos que podem ser salvos como arquivos [DWG](/pt/cad/dwg/). Esses arquivos de modelo fornecem configurações iniciais, como tipos de unidade, precisão necessária, blocos de título, nomes de camada, tipos de linha e outras informações semelhantes para conversão lateral em arquivos de desenho adequados. Tanto o AutoCAD quanto o CoreCAD podem ser usados para ler os arquivos de modelo e utilizá-los ainda mais. Em palavras simples, um DWT é um DWG com atributos somente leitura predefinidos da mesma forma que um arquivo MSWord [DOT](/pt/word-processing/dot/) é para um [DOC](/pt/word-processing/doc/) Arquivo.
 
 ## Formato de arquivo DWT
 

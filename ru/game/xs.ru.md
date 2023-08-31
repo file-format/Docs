@@ -34,5 +34,5 @@
 ## использованная литература
 
 * [Age of Empires III - Темы](https://github.com/topics/aoe)
-* [Форум - Age of Empires III](https://forums.ageofempires.com/t/please-make-the-ai-fight-for-map-control-and-resources-long-post-but-worth- это/176307)
+* [Форум - Age of Empires III](https://forums.ageofempires.com/t/please-make-the-ai-fight-for-map-control-and-resources-long-post-but-worth-it/176307)
 

@@ -44,6 +44,7 @@ Um arquivo EML consiste em informações de cabeçalhos e, opcionalmente, no cor
 
 **Exemplo de cabeçalho**
 
+```
 A partir de:<John@bmw.eml.light.com>
 
 Para:<Andy@fileformat.com>
@@ -51,6 +52,7 @@ Para:<Andy@fileformat.com>
 Data: Qui, 8 de março de 2018 10:43:37 +0100
 
 Assunto: bmw eml light
+```
 
 ### Corpo da mensagem ###
 

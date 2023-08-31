@@ -19,7 +19,7 @@
 
 ## .lit dosyası nedir?
 
-LIT dosyaları, e-kitap okumak için kullanılan eski **Microsoft Reader**'a aittir. Microsoft Reader tarafından görüntülenen e-Kitaplar, **Literature** olarak kısaltılan **.lit** uzantısına sahiptir. LIT dosya formatı, [LZX](/tr/compression/lzx/) sıkıştırma, biçimlendirme malzemesinin ikili temsili ve ilişkili keyfi isteğe bağlı yardımcı veriler gibi her türlü harika özelliği sağlayan bir Microsoft ITOL/ITLS HTML Help 2.0 dosyasından oluşur. her akış. Kitap metni, rastgele sayıda OEBPS 1.0 biçimlendirme akışı ve OEBPS 1.0 CSS'nin bir alt kümesidir. Görüntüler [GIF](/tr/resim/gif/), [JPEG](/tr/resim/jpeg/) ve [PNG](/tr/resim/png/) şeklindedir.
+LIT dosyaları, e-kitap okumak için kullanılan eski **Microsoft Reader**'a aittir. Microsoft Reader tarafından görüntülenen e-Kitaplar, **Literature** olarak kısaltılan **.lit** uzantısına sahiptir. LIT dosya formatı, [LZX](/tr/compression/lzx/) sıkıştırma, biçimlendirme malzemesinin ikili temsili ve ilişkili keyfi isteğe bağlı yardımcı veriler gibi her türlü harika özelliği sağlayan bir Microsoft ITOL/ITLS HTML Help 2.0 dosyasından oluşur. her akış. Kitap metni, rastgele sayıda OEBPS 1.0 biçimlendirme akışı ve OEBPS 1.0 CSS'nin bir alt kümesidir. Görüntüler [GIF](/tr/image/gif/), [JPEG](/tr/image/jpeg/) ve [PNG](/tr/image/png/) şeklindedir.
 
 ## Microsoft Reader, LIT dosyalarını ne kadar süreyle görüntüledi?
 

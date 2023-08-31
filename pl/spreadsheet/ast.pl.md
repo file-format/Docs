@@ -23,7 +23,7 @@ Plik AST to plik szablonu arkusza kalkulacyjnego utworzony za pomocą oprogramow
 
 ## Format pliku AST — więcej informacji
 
-Pliki AST są zapisywane na dysku jako pliki binarne i można je otwierać w oprogramowaniu Ability Spreadsheet. Mimo pełnej zgodności z formatami plików Microsoft XLS i XLSX, specyfikacje formatu plików AST nie są publicznie dostępne w celach informacyjnych dla programistów. Pliki AST można zapisywać na dysku w formatach [PDF](/pl/pdf/) oraz [XPS](/pl/język-opisu-strony/xps/).
+Pliki AST są zapisywane na dysku jako pliki binarne i można je otwierać w oprogramowaniu Ability Spreadsheet. Mimo pełnej zgodności z formatami plików Microsoft XLS i XLSX, specyfikacje formatu plików AST nie są publicznie dostępne w celach informacyjnych dla programistów. Pliki AST można zapisywać na dysku w formatach [PDF](/pl/pdf/) oraz [XPS](/pl/page-description-language/xps/).
 
 ## Bibliografia ##
 

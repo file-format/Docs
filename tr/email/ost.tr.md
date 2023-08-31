@@ -58,7 +58,7 @@ Başlık, baytlarla (0x21, 0x42, 0x44, 0x4E) temsil edilen 4 baytlık sihirli s�
 |bidNextP (Unicode: 8 bayt; ANSI: 4 bayt)|Sonraki sayfa BID. Sayfaların bidIndex değerlerini tahsis etmek için özel bir sayacı vardır. Sayfalar için BID'ler için bidIndex değeri bu sayaçtan tahsis edilir.
 |bidNextB (yalnızca 4 bayt ANSI): |Sonraki BID. Bu değer, bir sonraki tahsis edilen bloğa atanacak BID'yi gösteren monoton sayaçtır. BID değerleri 4'lük artışlarla ilerler. Daha fazla ayrıntı için bkz. bölüm 2.2.2.2.
 |dwBenzersiz (4 bayt)|Bu, PST dosyasının HEADER yapısı her değiştirildiğinde değişen, tekdüze artan bir değerdir. Bu değerin işlevi, benzersiz bir değer sağlamak ve her başlık değişikliğinden sonra HEADER CRC'lerinin farklı olmasını sağlamaktır.
-|rgnid[](128 bayt)|Her biri 32 olası NID_TYPE'den birine karşılık gelen 32 NID'lik sabit bir dizi (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE,NID_TYPE_ASSOC_MESSAGE)
+|rgnid[]   (128 bayt)|Her biri 32 olası NID_TYPE'den birine karşılık gelen 32 NID'lik sabit bir dizi (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE,NID_TYPE_ASSOC_MESSAGE)
 |qwKullanılmamış (8 bayt)|Kullanılmayan alan; Sıfır olarak ayarlanmalıdır. Yalnızca Unicode PST dosya biçimi.
 |root (Unicode: 72 bayt; ANSI: 40 bayt)|Bir ROOT yapısı (bölüm 2.2.2.5).
 |dwAlign (4 bayt)|Kullanılmayan hizalama baytları; Sıfır olarak ayarlanmalıdır. Yalnızca Unicode PST dosya biçimi.

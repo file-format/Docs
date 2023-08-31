@@ -31,6 +31,6 @@ GCF ファイルはバイナリ ファイルとしてディスクに保存され
 ## 参考文献
 
 * [バルブソフトウェア](https://www.valvesoftware.com/en/)
-※【GCFファイル形式】(https://developer.valvesoftware.com/wiki/GCF)
+* [GCFファイル形式](https://developer.valvesoftware.com/wiki/GCF)
 * [HLLib - GCF ファイルを読み取るためのオープン ソース C++ プログラミング ライブラリ](https://developer.valvesoftware.com/wiki/HLLib)
 

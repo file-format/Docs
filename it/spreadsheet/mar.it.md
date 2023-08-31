@@ -28,5 +28,5 @@ I file MAR vengono salvati come file binari in un formato di file proprietario n
 
 ## Riferimenti
 
-* [Mariner Calc](https://marinersoftware.com/product/calc-xls/)
+* N/A
 

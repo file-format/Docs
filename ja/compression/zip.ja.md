@@ -150,5 +150,5 @@ ZIP ファイル内のエントリは、各エントリが次の要素で構成�
 
 ## 参考文献
 
-※【PKWARE ZIPファイル形式仕様書】(https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
-※【PKZipファイルの構造】(https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip-printable.html)
+* [PKWARE ZIPファイル形式仕様書](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
+* [PKZipファイルの構造](https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip-printable.html)

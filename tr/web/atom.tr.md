@@ -35,6 +35,6 @@ ATOM dosyaları, bilgi alışverişi için evrensel bir format olan popüler XML
 ## Referanslar
 
 * [Atom Sendikasyon Formatı - RFC](https://www.rfc-editor.org/rfc/rfc4287.html)
-* [Atom Feeds'e Genel Bakış - IBM](https://www.ibm.com/docs/en/cigs-ts/5.4?topic=support-overview-atom-feeds)
+* [Atom Feeds'e Genel Bakış - IBM](https://www.ibm.com/docs/en/cics-ts/5.4?topic=support-overview-atom-feeds)
 * [Atom - Web Standardı](https://en.wikipedia.org/wiki/Atom_(web_standard))
 

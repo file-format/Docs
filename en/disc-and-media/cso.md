@@ -57,5 +57,4 @@ The data blocks comprises of the uncompressed or compressed data. The size of a 
 
 ## References 
 
-* [CSO - by Wikipedia](https://en.wikipedia.org/wiki/.CSO)
-
+* N/A

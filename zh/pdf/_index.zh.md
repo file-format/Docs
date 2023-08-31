@@ -112,7 +112,7 @@ PDF 内容流中使用的图形运算符描述了要在光栅输出设备上再�
 
 ## 参考 ＃＃
 
-* [PDF 文件格式：基本结构](https://resources.infosecinstitute.com/pdf-file-format-basic-structure/)
+* [PDF 文件格式：基本结构](https://resources.infosecinstitute.com/topics/hacking/pdf-file-format-basic-structure/)
 * [PDF - 维基百科](https://en.wikipedia.org/wiki/PDF)
 * [PDF 参考 - Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 

@@ -19,7 +19,7 @@
 
 ## Vad är en WPS fil?
 
-En fil med filtillägget .wps är ett Microsoft Works-dokument som användes före 2006 som ett word-dokument. Det liknade det nyligen introducerade filformatet [DOC](/sv/ord-processing/doc/) vid den tiden, men var inte lika mycket funktionellt som det nya filformatet. Till exempel stödde den inte makrofunktioner och avancerade formateringsalternativ. WPS-filer kan fortfarande öppnas med moderna ordbehandlare, men för Windows 10 måste du installera en omvandlare för att ladda dessa filer. Microsoft Works ersattes av Microsoft Word-dokumentbehandlare 2010.
+En fil med filtillägget .wps är ett Microsoft Works-dokument som användes före 2006 som ett word-dokument. Det liknade det nyligen introducerade filformatet [DOC](/sv/word-processing/doc/) vid den tiden, men var inte lika mycket funktionellt som det nya filformatet. Till exempel stödde den inte makrofunktioner och avancerade formateringsalternativ. WPS-filer kan fortfarande öppnas med moderna ordbehandlare, men för Windows 10 måste du installera en omvandlare för att ladda dessa filer. Microsoft Works ersattes av Microsoft Word-dokumentbehandlare 2010.
 
 ## Filformatspecifikationer
 

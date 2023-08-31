@@ -112,7 +112,7 @@ Die in PDF-Inhaltsströmen verwendeten Grafikoperatoren beschreiben das Erschein
 
 ## Verweise ##
 
-* [PDF-Dateiformat: Grundstruktur](https://resources.infosecinstitute.com/pdf-file-format-basic-structure/)
+* [PDF-Dateiformat: Grundstruktur](https://resources.infosecinstitute.com/topics/hacking/pdf-file-format-basic-structure/)
 * [PDF - Wikipedia](https://en.wikipedia.org/wiki/PDF)
 * [PDF-Referenz – Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 

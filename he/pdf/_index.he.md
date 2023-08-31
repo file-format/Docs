@@ -112,7 +112,7 @@ PDF ליניארי - מכוון לצופי PDF מקוונים, קבצי PDF לי
 
 ## הפניות ##
 
-* [פורמט קובץ PDF: מבנה בסיסי](https://resources.infosecinstitute.com/pdf-file-format-basic-structure/)
+* [פורמט קובץ PDF: מבנה בסיסי](https://resources.infosecinstitute.com/topics/hacking/pdf-file-format-basic-structure/)
 * [PDF - ויקיפדיה](https://en.wikipedia.org/wiki/PDF)
 * [עזרה PDF - Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 

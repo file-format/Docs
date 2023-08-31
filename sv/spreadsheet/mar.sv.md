@@ -28,5 +28,5 @@ MAR-filer sparas som binära filer i ett proprietärt filformat som endast är k
 
 ## Referenser
 
-* [Mariner Calc ](https://marinersoftware.com/product/calc-xls/)
+* N/A
 

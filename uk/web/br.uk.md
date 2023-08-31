@@ -28,5 +28,5 @@
 
 ## Список літератури
 
-* [Бротлі - Вікіпедія](https://en.wikipedia.org/wiki/Бротлі)
+* [Бротлі - Вікіпедія](https://en.wikipedia.org/wiki/Brotli)
 

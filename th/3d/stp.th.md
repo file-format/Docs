@@ -62,10 +62,10 @@ Autodesk Fusion 360 สามารถแปลงไฟล์ STP เป็น�
 
 * [OBJ](/th/3d/obj/)
 * [3MF](/th/3d/3mf/)
-* [DWG](/th/แคด/dwg/)
-* [DXF](/th/แคด/dxf/)
-* [ASM](/th/แคด/แอสม์/)
-* [IGES](/th/แคด/iges/)
+* [DWG](/th/cad/dwg/)
+* [DXF](/th/cad/dxf/)
+* [ASM](/th/cad/asm/)
+* [IGES](/th/cad/iges/)
 * [STL](/th/cad/stl/)
 * [FBX](/th/3d/fbx/)
 * F3D

@@ -28,5 +28,5 @@ MAR-bestanden worden opgeslagen als binaire bestanden in een eigen bestandsindel
 
 ## Referenties
 
-* [Mariner Calc ](https://marinersoftware.com/product/calc-xls/)
+* N/A
 

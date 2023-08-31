@@ -20,7 +20,7 @@
 
 CAD adalah singkatan dari Computer Aided Design. Istilah CADD (untuk Computer Aided Design and Drafting) juga digunakan. Ini digunakan untuk format file grafik 3D dan mungkin berisi desain 2D atau 3D. File CAD adalah format file digital dari suatu objek yang dihasilkan dan digunakan oleh perangkat lunak CAD. File CAD berisi gambar teknis, cetak biru, skema, atau rendering 3D dari suatu objek. Mungkin ada alat CAD lain yang dapat digunakan untuk membuat, membuka, mengedit, dan mengekspor file .cad ini ke format file gambar CAD yang lebih banyak digunakan. Di bawah ini kita akan membahas tentang Format File CAD paling populer dan perangkat lunak paling direkomendasikan yang dapat membuka, memodifikasi, dan mengonversinya menjadi format populer lainnya.
 
-Punya pertanyaan terkait format file CAD? Buka [forum] komunitas kami (https://forum.fileformat.com/c/cad/12) untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
+Punya pertanyaan terkait format file CAD? Buka [forum](https://forum.fileformat.com/c/cad/12) komunitas kami untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
 
 ## Daftar Ekstensi File CAD dan Format File Terkait
 

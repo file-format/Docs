@@ -19,7 +19,7 @@
 
 ## Co je soubor DWT?
 
-Soubor DWT je soubor šablony výkresu [AutoCAD](https://www.autodesk.com/), který se používá jako výchozí pro vytváření výkresů, které lze uložit jako soubory [DWG](/cs/cad/dwg/). Tyto soubory šablon poskytují počáteční nastavení, jako jsou typy jednotek, požadovaná přesnost, rohová razítka, názvy hladin, typy čar a další podobné informace pro boční převod na správné výkresové soubory. AutoCAD i CoreCAD lze použít ke čtení souborů šablon a jejich dalšímu využití. Jednoduše řečeno, DWT je DWG s předdefinovanými atributy pouze pro čtení stejným způsobem jako soubor MSWord [DOT](/cs/word-processing/dot/) do [DOC](/cs/word-processing/doc /) soubor.
+Soubor DWT je soubor šablony výkresu [AutoCAD](https://www.autodesk.com/), který se používá jako výchozí pro vytváření výkresů, které lze uložit jako soubory [DWG](/cs/cad/dwg/). Tyto soubory šablon poskytují počáteční nastavení, jako jsou typy jednotek, požadovaná přesnost, rohová razítka, názvy hladin, typy čar a další podobné informace pro boční převod na správné výkresové soubory. AutoCAD i CoreCAD lze použít ke čtení souborů šablon a jejich dalšímu využití. Jednoduše řečeno, DWT je DWG s předdefinovanými atributy pouze pro čtení stejným způsobem jako soubor MSWord [DOT](/cs/word-processing/dot/) do [DOC](/cs/word-processing/doc/) soubor.
 
 ## Formát souboru DWT
 

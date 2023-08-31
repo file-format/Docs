@@ -28,5 +28,5 @@ File MAR disimpan sebagai file biner dalam format file berpemilik yang hanya dik
 
 ## Referensi
 
-* [Mariner Calc ](https://marinersoftware.com/product/calc-xls/)
+* N/A
 

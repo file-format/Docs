@@ -18,7 +18,7 @@
 
 ## 什么是一 .ppp 文件？
 
-PPP 文件是使用 NCH PhotoPad Editor 软件创建的图形项目文件。它包括 PhotoPad 中编辑的图像以及对该图像的不同组件（例如图层、文本、调整）所做的所有编辑的记录。这使您可以恢复到先前的编辑阶段并从该点开始编辑。 PPP Project文件可以在PhotoPad软件中打开，可以导出为[JPG](/zh/image/jpeg/)、[PNG](/zh/image/png/)、[TIFF](/zh/image/tiff等流行的图片文件格式/)、[GIF](/zh/image/gif/) 和 [PSD](/zh/image/psd/)。
+PPP 文件是使用 NCH PhotoPad Editor 软件创建的图形项目文件。它包括 PhotoPad 中编辑的图像以及对该图像的不同组件（例如图层、文本、调整）所做的所有编辑的记录。这使您可以恢复到先前的编辑阶段并从该点开始编辑。 PPP Project文件可以在PhotoPad软件中打开，可以导出为[JPG](/zh/image/jpeg/)、[PNG](/zh/image/png/)、[TIFF](/zh/image/tiff/)、[GIF](/zh/image/gif/) 和 [PSD](/zh/image/psd/)。
 
 ### PPP 文件格式
 

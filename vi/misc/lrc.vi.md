@@ -30,7 +30,7 @@ Có nhiều định dạng tệp LRC đã được phát triển theo thời gia
 
 ### Định dạng LRC đơn giản
 
-Thẻ Thời gian Dòng có định dạng [mm:ss.xx] trong đó mm là phút, ss là giây và xx là phần trăm của giây.
+Thẻ Thời gian Dòng có định dạng `[mm:ss.xx]` trong đó mm là phút, ss là giây và xx là phần trăm của giây.
 
 ```
 [00:12.00]Line 1 lyrics
@@ -54,7 +54,7 @@ Nó bao gồm Khả năng thay đổi và chỉ định giới tính của lời
 ```
 ### Định dạng LRC nâng cao
 
-Định dạng LRC nâng cao là phiên bản mở rộng của định dạng LRC đơn giản. Nó thêm Thẻ thời gian từ ở định dạng<mm:ss.xx> ở cuối từ trước đó.
+Định dạng LRC nâng cao là phiên bản mở rộng của định dạng LRC đơn giản. Nó thêm Thẻ thời gian từ ở định dạng`<mm:ss.xx>` ở cuối từ trước đó.
 
 ```
 [ar: Jade Michael]

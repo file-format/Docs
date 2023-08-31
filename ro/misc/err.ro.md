@@ -27,5 +27,5 @@ Fișierele ERR sunt salvate pe disc ca fișiere text simplu și pot fi vizualiza
 
 ## Referințe
 
-* [Improtanța folderului de date EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= ro_US)
+* [Improtanța folderului de date EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language=en_US)
 

@@ -19,7 +19,7 @@
 
 ## JPX dosyası nedir? ##
 
-.jpx uzantılı bir dosya, JPEG 2000 dosya biçiminin bir uzantısıdır. Öncelikle JPEG 2000 sıkıştırmasını kullanır ve ayrıca bir görüntü için çoklu katmanlar, çeşitli renk alanları, opaklık ve parçalanmış kod akışları gibi gelişmiş özellikler sağlar. JPX, JPEG 2000 sıkıştırmasına ek olarak JBIG, CCITT Group3, CCITT Group4 vb. gibi diğer sıkıştırmalara da izin verir. JPX dosya formatı [ISO/IEC 15444-2](https://www.iso.org/standard/33160.html) standardı olarak onaylandı, ancak [JPEG'in yoğun kullanımı nedeniyle sıcak bir karşılama alamadı. ](/tr/resim/jpeg/) dosya biçimi. JPX dosyalarını açabilen uygulamalar arasında Corel PaintShop Pro, Adobe Photoshop 2020, Adobe Illustrator 2020 ve CorelDraw Graphics Suite 2020 bulunur.
+.jpx uzantılı bir dosya, JPEG 2000 dosya biçiminin bir uzantısıdır. Öncelikle JPEG 2000 sıkıştırmasını kullanır ve ayrıca bir görüntü için çoklu katmanlar, çeşitli renk alanları, opaklık ve parçalanmış kod akışları gibi gelişmiş özellikler sağlar. JPX, JPEG 2000 sıkıştırmasına ek olarak JBIG, CCITT Group3, CCITT Group4 vb. gibi diğer sıkıştırmalara da izin verir. JPX dosya formatı [ISO/IEC 15444-2](https://www.iso.org/standard/33160.html) standardı olarak onaylandı, ancak [JPEG'in yoğun kullanımı nedeniyle sıcak bir karşılama alamadı. ](/tr/image/jpeg/) dosya biçimi. JPX dosyalarını açabilen uygulamalar arasında Corel PaintShop Pro, Adobe Photoshop 2020, Adobe Illustrator 2020 ve CorelDraw Graphics Suite 2020 bulunur.
 
 ## Kısa Tarihçe
 

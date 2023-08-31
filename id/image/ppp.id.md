@@ -18,7 +18,7 @@
 
 ## Apa itu file PPP?
 
-File PPP adalah file proyek grafik yang dibuat dengan NCH PhotoPad Editor Software. Ini terdiri dari gambar yang diedit di PhotoPad bersama dengan catatan semua pengeditan yang dilakukan pada berbagai komponen (seperti lapisan, teks, penyesuaian) dari gambar tersebut. Ini memungkinkan Anda kembali ke tahap pengeditan sebelumnya dan mulai mengedit dari titik tersebut. File Proyek PPP dapat dibuka di perangkat lunak PhotoPad dan dapat diekspor ke format file gambar populer seperti [JPG](/id/image/jpeg/), [PNG](/id/image/png/), [TIFF](/id/image/tiff /), [GIF](/id/image/gif/), dan [PSD](/id/image/psd/).
+File PPP adalah file proyek grafik yang dibuat dengan NCH PhotoPad Editor Software. Ini terdiri dari gambar yang diedit di PhotoPad bersama dengan catatan semua pengeditan yang dilakukan pada berbagai komponen (seperti lapisan, teks, penyesuaian) dari gambar tersebut. Ini memungkinkan Anda kembali ke tahap pengeditan sebelumnya dan mulai mengedit dari titik tersebut. File Proyek PPP dapat dibuka di perangkat lunak PhotoPad dan dapat diekspor ke format file gambar populer seperti [JPG](/id/image/jpeg/), [PNG](/id/image/png/), [TIFF](/id/image/tiff/), [GIF](/id/image/gif/), dan [PSD](/id/image/psd/).
 
 ### Format File PPP
 

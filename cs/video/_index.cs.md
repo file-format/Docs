@@ -17,7 +17,7 @@
   "lastmod" : "2019-09-10"
 }
 
-Každý zná videa, která denně sledujeme na mediálních zařízeních, jako jsou televize, kina a kanály sociálních médií, jako je Facebook, Twitter, YouTube a mnoho dalších. Přemýšleli jste však někdy o tom, jak se tato videa ukládají a v jakých formátech je lze nahrát k prohlížení? Jaký je nejlepší formát souboru pro vaše video, které má být hostováno na různých paměťových médiích? Formáty video souborů se skládají z řady různých typů videa pro ukládání videí a pro různé účely. Mezi formáty souborů videa, se kterými jste se mohli setkat, patří [AVI](/cs/video/avi/), [MOV](/cs/video/mov/), [WMV](/cs/video/wmv/), [M4V](/cs/video /m4v/) a [MP4](/cs/video/mp4/).
+Každý zná videa, která denně sledujeme na mediálních zařízeních, jako jsou televize, kina a kanály sociálních médií, jako je Facebook, Twitter, YouTube a mnoho dalších. Přemýšleli jste však někdy o tom, jak se tato videa ukládají a v jakých formátech je lze nahrát k prohlížení? Jaký je nejlepší formát souboru pro vaše video, které má být hostováno na různých paměťových médiích? Formáty video souborů se skládají z řady různých typů videa pro ukládání videí a pro různé účely. Mezi formáty souborů videa, se kterými jste se mohli setkat, patří [AVI](/cs/video/avi/), [MOV](/cs/video/mov/), [WMV](/cs/video/wmv/), [M4V](/cs/video/m4v/) a [MP4](/cs/video/mp4/).
 
 Máte dotazy týkající se formátů souborů videa? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/video/27), kde můžete těžit ze znalostí sdílených odborníky na formát souborů.
 

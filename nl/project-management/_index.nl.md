@@ -20,7 +20,7 @@
 
 Heb je je ooit afgevraagd wat een MPP-bestand is? MPP en andere vergelijkbare bestanden zijn projectbestandsindelingen die zijn gemaakt door Project Management-software. Een projectbestand is een verzameling taken, middelen en planning om een meetbare output te krijgen in de vorm van een product of dienst. Gantt-diagrammen worden gebruikt om een visuele stroom van activiteiten tegen de tijd tot stand te brengen voor de geïdentificeerde taken die ook kunnen worden geëxporteerd naar PDF- of afbeeldingsindelingen voor documentatie.
 
-Veelgebruikte bestandsextensies voor Project Management en de bijbehorende bestandsindelingen zijn **[MPP](/nl/project-management/mpp/)**, **[MPX](/nl/project-management/mpx/)** en **[XER](/nl/projectmanagement/xer/)**.
+Veelgebruikte bestandsextensies voor Project Management en de bijbehorende bestandsindelingen zijn **[MPP](/nl/project-management/mpp/)**, **[MPX](/nl/project-management/mpx/)** en **[XER](/nl/project-management/xer/)**.
 
 Heeft u vragen over bestandsindelingen voor projectbeheer? Ga naar onze community [forums](https://forum.fileformat.com/c/project-management/15) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
 

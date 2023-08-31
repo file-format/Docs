@@ -68,7 +68,7 @@ void draw() {
 
 ## المرجعي ##
 
-* [PDE - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Processing_ (printing_language))
+* [PDE - بواسطة Wikipedia](https://en.wikipedia.org/wiki/Processing_(programming_language))
 
 
 

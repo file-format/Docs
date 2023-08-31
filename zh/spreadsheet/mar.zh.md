@@ -28,5 +28,5 @@ MAR 文件以专有文件格式保存为二进制文件，只有 Mariner Calc �
 
 ## 参考
 
-* [水手计算器](https://marinersoftware.com/product/calc-xls/)
+* N/A
 

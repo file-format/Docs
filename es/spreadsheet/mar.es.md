@@ -28,5 +28,5 @@ Los archivos MAR se guardan como archivos binarios en un formato de archivo pate
 
 ## Referencias
 
-* [Mariner Calc](https://marinersoftware.com/product/calc-xls/)
+* N/A
 

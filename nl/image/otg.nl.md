@@ -45,7 +45,7 @@ De attributen die kunnen worden geassocieerd met de `<style:handout-master> `-el
 
 |Lay-out|Attribuut|Beschrijving
 ---|---|---|
-|Presentatiepagina-indeling|presentatie:presentatie-pagina-indeling-naam|Links naar `<style:presentation-page-layout> 'attribuut'
+|Presentatiepagina-indeling|presentatie:presentatie-pagina-indeling-naam|Links naar `<style:presentation-page-layout>` 'attribuut'
 |Pagina-indeling|`stijl:pagina-indeling-naam` | Specificeert een paginalay-out die de formaten, rand en richting van de hand-outbasispagina bevat.
 |Paginastijl|`draw:style-name`|Wijst aanvullende opmaakkenmerken toe aan een hand-outmasterpagina door een tekenpaginastijl toe te wijzen.|
 |Kopverklaring| `presentatie:gebruik-header-naam`| Specificeert de naam van de kopvelddeclaratie die wordt gebruikt voor alle kopvelden die worden weergegeven op de hand-outbasispagina.

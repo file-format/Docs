@@ -57,6 +57,5 @@ Blocurile de date cuprind date necomprimate sau comprimate. Mărimea unui bloc e
 
 ## Referințe
 
-* [CSO - de Wikipedia](https://en.wikipedia.org/wiki/.CSO)
-
+* N/A
 

@@ -57,6 +57,5 @@ Os blocos de dados compreendem os dados não compactados ou compactados. O taman
 
 ## Referências
 
-* [CSO - pela Wikipedia](https://en.wikipedia.org/wiki/.CSO)
-
+* N/A
 

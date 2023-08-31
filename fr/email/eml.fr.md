@@ -44,6 +44,7 @@ Un fichier EML se compose d'informations d'en-tête et éventuellement du corps 
 
 **Exemple d'en-tête**
 
+```
 De:<John@bmw.eml.light.com>
 
 À:<Andy@fileformat.com>
@@ -51,6 +52,7 @@ De:<John@bmw.eml.light.com>
 Date : jeu. 8 mars 2018 10:43:37 +0100
 
 Objet : éclairage eml bmw
+```
 
 ### Corps du message ###
 

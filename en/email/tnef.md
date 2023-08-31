@@ -34,7 +34,7 @@ The TNEF data algorithm establishes a flattened structure from rich hierarchical
 
 In some situations, where properties occur in groups or have multiple-values, stream might include counts and paddings to enforce a specific data alignments. A distinctive situation where the use of this algorithm is advantageous is in an unsupportive messaging environment. In such environments, a rich message property is encoded into a serial data stream by a TNEF Writer. Further, the properties that do not belongs to the underlying TNEF can be encapsulated during transmission. These encapsulated properties then made available by decoding through a TNEF to ensure the availability of all properties of the original message to the client application.
 
-In TNEF all numeric data types are little-endian and their size are greater than one byte. Handling of these numeric values on non-little-endian platforms require to accomplish the appropriate transformations to get correct values. String values are represented in Augmented Backus-Naur Form (ABNF) format according to [RFC5234] specifications. When the string terminates with null character, it is also included as well; for example, "worker@specimen.com" %x00.
+In TNEF all numeric data types are little-endian and their size are greater than one byte. Handling of these numeric values on non-little-endian platforms require to accomplish the appropriate transformations to get correct values. String values are represented in Augmented Backus-Naur Form (ABNF) format according to [RFC5234] specifications. When the string terminates with null character, it is also included as well; for example, `"worker@specimen.com" %x00`.
 
 {{< figure src="../TNEF.png" alt="TNEF File Format" >}}
 

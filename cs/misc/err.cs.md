@@ -27,5 +27,5 @@ Soubory ERR se ukládají na disk jako soubory ve formátu prostého textu a lze
 
 ## Reference
 
-* [Význam datové složky EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= en_US)
+* [Význam datové složky EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language=en_US)
 

@@ -29,7 +29,7 @@ DTSX tarafından açıklanan veri akışı aşağıdaki görüntüde gösterildi
 
 {{< figure src="../DataFlowDTSX.png" alt="Veri Akışı DTSX" >}}
 
-DTSX, [XML](/tr/web/xml/) tabanlıdır ve [MS-DTSX](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd) içinde belgelenmiştir. DTSX XML'in geliştirilmiş yeniden düzenlemesi, yapılara yeni öznitelikler, adlandırılmış özelliklerin üst XML öznitelikleri olarak değiştirilmesini, çoğu öznitelik değeri için varsayılanları belirlemeyi ve bir üst öğe içine yinelenen öğelerin yerleştirilmesini içeren DTSX 2.0'dır. DTSX yapıları, bu [XML Şemaları](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1) kullanılarak açıklanır ve yapısal biçim şöyledir: kiler-metin XML.
+DTSX, [XML](/tr/web/xml/) tabanlıdır ve [MS-DTSX](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd) içinde belgelenmiştir. DTSX XML'in geliştirilmiş yeniden düzenlemesi, yapılara yeni öznitelikler, adlandırılmış özelliklerin üst XML öznitelikleri olarak değiştirilmesini, çoğu öznitelik değeri için varsayılanları belirlemeyi ve bir üst öğe içine yinelenen öğelerin yerleştirilmesini içeren DTSX 2.0'dır. DTSX yapıları, bu [XML Şemaları](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc) kullanılarak açıklanır ve yapısal biçim şöyledir: kiler-metin XML.
 
 ## Referanslar
 

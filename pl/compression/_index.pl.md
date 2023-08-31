@@ -19,7 +19,7 @@
 
 Kompresja plików to proces zmniejszania rozmiaru jednego lub więcej plików. Zmniejsza duże pliki do znacznie mniejszych, usuwając niepotrzebne dane. Skompresowane archiwum plików ułatwia wysyłanie i tworzenie kopii zapasowych dużych plików lub grup plików. Ponadto takie pliki przyspieszają pobieranie i umożliwiają przechowywanie większej ilości danych na nośnikach wymiennych. Istnieją różne formaty kompresji. Poniżej omówimy najpopularniejsze formaty plików kompresji i najbardziej polecane oprogramowanie, które z nich korzysta.
 
-Masz pytania dotyczące formatów plików kompresji? Odwiedź nasze [fora] społeczności (https://forum.fileformat.com/c/compression/10), aby skorzystać z wiedzy ekspertów ds. formatów plików.
+Masz pytania dotyczące formatów plików kompresji? Odwiedź nasze [fora](https://forum.fileformat.com/c/compression/10) społeczności, aby skorzystać z wiedzy ekspertów ds. formatów plików.
 
 ## Lista skompresowanych rozszerzeń plików i powiązanych formatów Flie
 

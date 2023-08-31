@@ -124,5 +124,5 @@ To znamená, že vlastnost "vertex_index" obsahuje nejprve znak bez znaménka, k
 ## Reference ##
 
 * [Formát souboru PLY](http://paulbourke.net/dataformats/ply/)
-* [PLY – z Wikipedie](https://en.wikipedia.org/wiki/PLY_(formát_souboru))
+* [PLY – z Wikipedie](https://en.wikipedia.org/wiki/PLY_(file_format))
 

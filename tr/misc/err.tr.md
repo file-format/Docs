@@ -27,5 +27,5 @@ ERR dosyaları diske düz metin dosyaları olarak kaydedilir ve bir metin düzen
 
 ## Referanslar
 
-* [EndNote Veri Klasörünün Önemi](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= tr_tr)
+* [EndNote Veri Klasörünün Önemi](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language=en_US)
 

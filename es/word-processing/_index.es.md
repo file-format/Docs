@@ -22,7 +22,7 @@ Un archivo de procesamiento de texto contiene información del usuario en texto 
 
 Las extensiones de archivo de texto sin formato comunes y los formatos de archivo asociados incluyen **[TXT](/es/word-processing/txt/)**, **[CSV](/es/spreadsheet/csv/)**, mientras que las extensiones de archivo para documentos de texto enriquecido incluyen **[DOCX](/es/word-processing/docx/)**, **[DOC](/es/word-processing/doc/)** y **[RTF](/es/word-processing/rtf/)** .
 
-¿Tiene consultas relacionadas con los formatos de archivo de procesamiento de textos? Diríjase a los [foros] de nuestra comunidad (https://forum.fileformat.com/c/word-processing/5) para beneficiarse del conocimiento compartido por los expertos en formato de archivo.
+¿Tiene consultas relacionadas con los formatos de archivo de procesamiento de textos? Diríjase a los [foros](https://forum.fileformat.com/c/word-processing/5) de nuestra comunidad para beneficiarse del conocimiento compartido por los expertos en formato de archivo.
 
 # Lista de extensiones de archivo de procesamiento de texto y formatos de archivo asociados
 

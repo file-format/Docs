@@ -44,6 +44,7 @@ An EML file consists of Headers information and optionally message body. Each he
 
 **Example Header**
 
+```
 From: <John@bmw.eml.light.com>
 
 To: <Andy@fileformat.com>
@@ -51,6 +52,7 @@ To: <Andy@fileformat.com>
 Date: Thu, 8 Mar 2018 10:43:37 +0100
 
 Subject: bmw eml light
+```
 
 ### Message Body ###
 

@@ -36,12 +36,12 @@ Um arquivo de imagem HDR consiste nas três seções a seguir:
 
 ## APIs HDR/HDRI de código aberto
 
-* **[imageinfo](https://github.com/xiaozhuai/imageinfo )** - Biblioteca de cabeçalho único super rápido de plataforma cruzada [C++](/pt/programming/cpp/) para obter o tamanho e o formato da imagem sem carregar/decodificar.
+* **[imageinfo](https://github.com/xiaozhuai/imageinfo)** - Biblioteca de cabeçalho único super rápido de plataforma cruzada [C++](/pt/programming/cpp/) para obter o tamanho e o formato da imagem sem carregar/decodificar.
 * **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Biblioteca Rust para obter tamanho e formato de imagem sem carregar/decodificar. Suporta [.avif](/pt/image/avif/), [.bmp](/pt/image/bmp/), [.cur](/pt/image/cur/), [.dds](/pt/image/dds/), [. gif](/pt/image/gif/), hdr (pic), [heic (heif)](/pt/image/heic/), [.icns](/pt/image/icns/), [.ico](/pt/image/ico /), [.jp2](/pt/image/jp2/), [jpeg (jpg)](/pt/image/jpeg/), [jpx](/pt/image/jpx/), ktx, [png](/pt/image/png /), [psd](/pt/image/psd/), qoi, tga, tiff (tif) e webp.
 * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** - implementação Java do HdrHistogram.
 
 ## Referências
 
 * [Radiance HDR](http://paulbourke.net/dataformats/pic/)
-* [imageinfo](https://github.com/xiaozhuai/imageinfo )
+* [imageinfo](https://github.com/xiaozhuai/imageinfo)
 

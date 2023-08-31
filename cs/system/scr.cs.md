@@ -68,7 +68,7 @@ Změňte příponu spustitelného souboru z .exe na .scr. Takže soubor SCR mů�
 
 ## Reference
 
-* [Spořič obrazovky](https://en.wikipedia.org/wiki/Spořič obrazovky)
+* [Spořič obrazovky](https://en.wikipedia.org/wiki/Screensaver)
 * [Napište spořič obrazovky, který skutečně funguje](https://www.codeproject.com/Articles/14081/Write-a-Screensaver-that-Actually-Works)
 
 

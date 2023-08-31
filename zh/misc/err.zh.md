@@ -27,5 +27,5 @@ ERR 文件作为纯文本文件保存到光盘，也可以在文本编辑器中�
 
 ## 参考
 
-* [EndNote 数据文件夹的重要性](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= zh_CN)
+* [EndNote 数据文件夹的重要性](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language=en_US)
 

@@ -20,7 +20,7 @@
 
 MPP ファイルとは何かと思ったことはありませんか? MPP およびその他の同様のファイルは、プロジェクト管理ソフトウェアによって作成されるプロジェクト ファイル形式です。プロジェクト ファイルは、製品またはサービスの形で測定可能な出力を取得するためのタスク、リソース、およびスケジュールの集合です。ガント チャートは、ドキュメント用に PDF または画像形式にエクスポートすることもできる、識別されたタスクの時間に対するアクティビティの視覚的なフローを確立するために使用されます。
 
-一般的な Project Management ファイル拡張子とそれに関連するファイル形式には、**[MPP](/project-management/mpp/)**、**[MPX](/project-management/mpx/)**、および **[XER] が含まれます。 (/project-management/xer/)**.
+一般的な Project Management ファイル拡張子とそれに関連するファイル形式には、**[MPP](/project-management/mpp/)**、**[MPX](/project-management/mpx/)**、および **[XER](/project-management/xer/) が含まれます。**.
 
 Project Management のファイル形式に関連するクエリをお持ちですか?私たちのコミュニティ [フォーラム](https://forum.fileformat.com/c/project-management/15) にアクセスして、ファイル形式の専門家が共有する知識を活用してください。
 

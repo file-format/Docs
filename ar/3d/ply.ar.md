@@ -124,5 +124,5 @@ property float z           { z coordinate, too }
 ## مراجع ##
 
 * [تنسيق ملف PLY](http://paulbourke.net/dataformats/ply/)
-* [PLY - بواسطة Wikipedia](https://en.wikipedia.org/wiki/PLY_ (file_format))
+* [PLY - بواسطة Wikipedia](https://en.wikipedia.org/wiki/PLY_(file_format))
 

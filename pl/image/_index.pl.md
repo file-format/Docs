@@ -28,7 +28,7 @@ Format pliku obrazu to standardowa metoda organizowania i przechowywania obrazó
 
 **Obrazy wektorowe** są definiowane przez punkty 2D zamiast pikseli, które są połączone, aby nadać obrazowi geometryczny kształt. Punkty mają właściwości określające kierunek ścieżek, kolor, kształt, krzywą, grubość i wypełnienie. Typowe rozszerzenia plików obrazów wektorowych i ich formaty plików to **[SVG](/pl/page-description-language/svg/)** (Scalable Vector Graphics), **[EPS](/pl/page-description-language/eps/) ** (Język Encapsulated PostScript) i **[PDF](/pl/pdf/)** (Portable Document Format).
 
-Masz pytania dotyczące formatów plików graficznych? Odwiedź nasze [fora] społeczności (https://forum.fileformat.com/c/image/9), aby skorzystać z wiedzy ekspertów ds. formatów plików.
+Masz pytania dotyczące formatów plików graficznych? Odwiedź nasze [fora](https://forum.fileformat.com/c/image/9) społeczności, aby skorzystać z wiedzy ekspertów ds. formatów plików.
 
 ## Lista rozszerzeń plików graficznych i powiązanych formatów plików
 Poniżej znajduje się lista popularnych formatów plików graficznych wraz z ich rozszerzeniami.

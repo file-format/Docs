@@ -91,5 +91,5 @@ var
 ## Referenser
 
 * [RAR 5.0 arkivformat](https://www.rarlab.com/technote.htm)
-* [RAR - av Wikipedia](https://en.wikipedia.org/wiki/RAR_(filformat))
+* [RAR - av Wikipedia](https://en.wikipedia.org/wiki/RAR_(file_format))
 

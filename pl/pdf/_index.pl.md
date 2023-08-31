@@ -112,7 +112,7 @@ Operatory graficzne używane w strumieniach treści PDF opisują wygląd stron, 
 
 ## Bibliografia ##
 
-* [Format pliku PDF: podstawowa struktura](https://resources.infosecinstitute.com/pdf-file-format-basic-structure/)
+* [Format pliku PDF: podstawowa struktura](https://resources.infosecinstitute.com/topics/hacking/pdf-file-format-basic-structure/)
 * [PDF - Wikipedia](https://en.wikipedia.org/wiki/PDF)
 * [Odnośnik PDF — Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 

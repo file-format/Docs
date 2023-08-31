@@ -71,7 +71,7 @@ Este ejemplo muestra los números de página en una base de datos que tiene un a
 
 ## Referencias
 
-* [Archivos de base de datos y grupos de archivos](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?redirectedfrom=MSDN&view=sql-server-ver15)
-* [Separar y adjuntar base de datos - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
+* [Archivos de base de datos y grupos de archivos](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver16)
+* [Separar y adjuntar base de datos - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server-ver15)
 * [Análisis de la anatomía del archivo de datos de SQL Server](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

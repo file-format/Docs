@@ -134,7 +134,7 @@ Here are list of online video converters to **convert video online**.
 
 You can use HandBrake (Desktop) to convert your Video to MP4 freely using the following steps.
 
-- Download and install HandBrake from the official website (https://handbrake.fr/).
+- Download and install HandBrake from the [official website](https://handbrake.fr/).
 - Open HandBrake and click on the "Open Source" button to import your video file.
 - Select the destination folder where you want the converted MP4 file to be saved.
 - In the "Output Settings" section, choose "MP4" as the output format.

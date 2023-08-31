@@ -34,7 +34,7 @@ TNEF veri algoritması, zengin hiyerarşik mesaj özelliklerinden düzleştirilm
 
 Özelliklerin gruplar halinde oluştuğu veya birden çok değere sahip olduğu bazı durumlarda akış, belirli bir veri hizalamasını zorunlu kılmak için sayımlar ve dolgular içerebilir. Bu algoritmanın kullanımının avantajlı olduğu ayırt edici bir durum, destekleyici olmayan bir mesajlaşma ortamındadır. Bu tür ortamlarda, zengin bir mesaj özelliği, bir TNEF Yazıcısı tarafından bir seri veri akışına kodlanır. Ayrıca, temeldeki TNEF'e ait olmayan özellikler iletim sırasında kapsüllenebilir. Bu kapsüllenmiş özellikler daha sonra orijinal mesajın tüm özelliklerinin istemci uygulamasına sunulmasını sağlamak için bir TNEF yoluyla kod çözülerek kullanılabilir hale getirildi.
 
-TNEF'te tüm sayısal veri türleri küçük-endian'dır ve boyutları bir bayttan büyüktür. Bu sayısal değerlerin küçük olmayan platformlarda işlenmesi, doğru değerleri elde etmek için uygun dönüşümlerin yapılmasını gerektirir. Dize değerleri, [RFC5234] özelliklerine göre Artırılmış Backus-Naur Formu (ABNF) formatında temsil edilir. Dize boş karakterle sona erdiğinde, o da dahil edilir; örneğin, "worker@specimen.com" %x00.
+TNEF'te tüm sayısal veri türleri küçük-endian'dır ve boyutları bir bayttan büyüktür. Bu sayısal değerlerin küçük olmayan platformlarda işlenmesi, doğru değerleri elde etmek için uygun dönüşümlerin yapılmasını gerektirir. Dize değerleri, [RFC5234] özelliklerine göre Artırılmış Backus-Naur Formu (ABNF) formatında temsil edilir. Dize boş karakterle sona erdiğinde, o da dahil edilir; örneğin, `"worker@specimen.com" %x00`.
 
 {{< figure src="../TNEF.png" alt="TNEF Dosya Biçimi" >}}
 

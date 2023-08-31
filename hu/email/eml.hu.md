@@ -44,6 +44,7 @@ Az EML-fájl fejlécadatokból és opcionálisan üzenettörzsből áll. Az EML-
 
 **Példa fejléc**
 
+```
 Tól től:<John@bmw.eml.light.com>
 
 Nak nek:<Andy@fileformat.com>
@@ -51,6 +52,7 @@ Nak nek:<Andy@fileformat.com>
 Dátum: 2018. március 8., csütörtök, 10:43:37 +0100
 
 Tárgy: bmw eml light
+```
 
 ### Üzenettörzs ###
 

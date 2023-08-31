@@ -22,7 +22,7 @@ A .dsc kiterjesztésű fájl egy szöveges leíró fájl, amely információkat 
 
 ## DSC fájlformátum – További információ
 
-A DSC-fájlokat a rendszer egyszerű szöveges fájlként hozza létre és tárolja a lemezen. Ezeket bármely kompatibilis szövegszerkesztőben, például a Microsoft Notepadben megnyitva szerkesztheti. A DSC a [.txt](/hu/word-processing/dsc/) fájlokhoz hasonló egyszerű szöveges formátumot követ, és a szoftver funkcióinak vagy utasításainak megfelelően feltölthető a szoftver bármely részletével.
+A DSC-fájlokat a rendszer egyszerű szöveges fájlként hozza létre és tárolja a lemezen. Ezeket bármely kompatibilis szövegszerkesztőben, például a Microsoft Notepadben megnyitva szerkesztheti. A DSC a [.txt](/hu/word-processing/txt/) fájlokhoz hasonló egyszerű szöveges formátumot követ, és a szoftver funkcióinak vagy utasításainak megfelelően feltölthető a szoftver bármely részletével.
 
 ## Hivatkozások
 

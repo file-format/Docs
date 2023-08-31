@@ -68,7 +68,7 @@ void draw() {
 
 ## Hivatkozási szám
 
-* [PDE – a Wikipedia által](https://en.wikipedia.org/wiki/Processing_(programing_language))
+* [PDE – a Wikipedia által](https://en.wikipedia.org/wiki/Processing_(programming_language))
 
 
 

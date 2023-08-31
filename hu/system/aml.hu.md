@@ -23,7 +23,7 @@ Az AML-fájl a hardvertulajdonságok konfigurálásához használt Advanced Conf
 
 ## ACPI AML fájlformátum
 
-Az AML-fájlok bináris fájlokként kerülnek mentésre bájtkóddal írt tartalommal rendelkező lemezre. Az ACPI szabvány fájlformátum-specifikációi elérhetők az [uefi] webhelyen (https://uefi.org/node/735). A nyelvet úgy tervezték, hogy stabilitást és visszamenőleges kompatibilitást kínáljon, kevesebb újraírást vagy újraépítést igényelve az alkalmazásveremben.
+Az AML-fájlok bináris fájlokként kerülnek mentésre bájtkóddal írt tartalommal rendelkező lemezre. Az ACPI szabvány fájlformátum-specifikációi elérhetők az [uefi](https://uefi.org/node/735) webhelyen. A nyelvet úgy tervezték, hogy stabilitást és visszamenőleges kompatibilitást kínáljon, kevesebb újraírást vagy újraépítést igényelve az alkalmazásveremben.
 
 ## Az AML fájlformátum specifikációi
 

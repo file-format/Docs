@@ -28,5 +28,5 @@ BR ファイルは、Brotli 圧縮アルゴリズムを使用して生成され�
 
 ## 参考文献
 
-* [ブロトリ - ウィキペディア](https://en.wikipedia.org/wiki/ブロトリ)
+* [ブロトリ - ウィキペディア](https://en.wikipedia.org/wiki/Brotli)
 

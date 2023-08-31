@@ -28,5 +28,5 @@ ART 파일은 개발자 참조용으로 사용할 수 있는 ART 파일 형식 �
 ## 참고문헌
 
 * [ArtCAM 오토데스크](https://www.autodesk.com/products/artcam/overview)
-* [Autodesk ArtCAM은 이전 레거시 버전에서 만든 아트 파일을 열 수 없습니다.](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in-previous-legacy-versions.html)
+
 

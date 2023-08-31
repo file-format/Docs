@@ -24,7 +24,7 @@ NEF adalah format file gambar RAW Nikon, diambil dengan kamera digital Nikon. In
 
 File NEF ditulis ke kartu memori kamera sebagai file biner dalam format file milik Nikon. Ini ditulis ke kartu memori kamera dalam bentuk mentah yang tidak memerlukan penyesuaian data fitur gambar seperti white balance, hue, tone, dan sharpening. Pengeditan pengguna disimpan sebagai kumpulan instruksi di samping data gambar mentah. Manfaat ini dalam hal menjaga konten asli dari data gambar tetap utuh dan kembali ke set instruksi sebelumnya.
 
-File NEF dapat menyimpan data 12-bit atau 14-bit tergantung pada kamera, sehingga memberikan gambar dengan kisaran tonal yang jauh lebih besar dibandingkan dengan [JPEG](/id/image/jpeg/) 8-bit atau [TIFF](/id/ gambar/tiff/) gambar.
+File NEF dapat menyimpan data 12-bit atau 14-bit tergantung pada kamera, sehingga memberikan gambar dengan kisaran tonal yang jauh lebih besar dibandingkan dengan [JPEG](/id/image/jpeg/) 8-bit atau [TIFF](/id/image/tiff/) gambar.
 
 ## Perangkat lunak yang dapat membuka File NEF Nikon
 

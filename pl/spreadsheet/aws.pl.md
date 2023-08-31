@@ -19,7 +19,7 @@
 
 ## Czym jest plik AWS?
 
-Plik AWS to plik arkusza kalkulacyjnego utworzony za pomocą oprogramowania Ability Spreadsheet, które jest dostarczane z pakietem Ability Office. Przechowuje dane w wierszach i kolumnach, podobnie jak w programie Microsoft Excel. Dane plików AWS można zapisać w formatach [XLS](/pl/spreadsheet/xls/) i [XLSX](/pl/spreadsheet/xlsx/). Dzięki temu plik arkusza kalkulacyjnego zdolności jest zgodny z programem Microsoft Excel. Dane w arkuszach kalkulacyjnych można eksportować do formatów plików [PDF](/pl/pdf/) i [XPS](/pl/język-opisu-strony/xps/).
+Plik AWS to plik arkusza kalkulacyjnego utworzony za pomocą oprogramowania Ability Spreadsheet, które jest dostarczane z pakietem Ability Office. Przechowuje dane w wierszach i kolumnach, podobnie jak w programie Microsoft Excel. Dane plików AWS można zapisać w formatach [XLS](/pl/spreadsheet/xls/) i [XLSX](/pl/spreadsheet/xlsx/). Dzięki temu plik arkusza kalkulacyjnego zdolności jest zgodny z programem Microsoft Excel. Dane w arkuszach kalkulacyjnych można eksportować do formatów plików [PDF](/pl/pdf/) i [XPS](/pl/page-description-language/xps/).
 
 ## Format pliku AWS — więcej informacji
 

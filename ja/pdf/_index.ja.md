@@ -112,7 +112,7 @@ PDF コンテンツ ストリームで使用されるグラフィック オペ�
 
 ## 参照 ##
 
-※【PDFファイル形式：基本構造】(https://resources.infosecinstitute.com/pdf-file-format-basic-structure/)
+* [PDFファイル形式：基本構造](https://resources.infosecinstitute.com/topics/hacking/pdf-file-format-basic-structure/)
 * [PDF - ウィキペディア](https://en.wikipedia.org/wiki/PDF)
 * [PDF リファレンス - Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 

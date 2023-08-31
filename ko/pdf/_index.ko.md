@@ -112,7 +112,7 @@ PDF 콘텐츠 스트림에 사용되는 그래픽 연산자는 래스터 출력 
 
 ## 참조 ##
 
-* [PDF 파일 형식: 기본 구조](https://resources.infosecinstitute.com/pdf-file-format-basic-structure/)
+* [PDF 파일 형식: 기본 구조](https://resources.infosecinstitute.com/topics/hacking/pdf-file-format-basic-structure/)
 * [PDF - 위키백과](https://en.wikipedia.org/wiki/PDF)
 * [PDF 참조 - Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 

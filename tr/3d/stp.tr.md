@@ -60,7 +60,7 @@ Bunlara ek olarak, STP dosyalarını diğer dosya biçimlerine dönüştürebile
 
 Autodesk Fusion 360, STP dosyalarını aşağıdaki 3B ve CAD dosya biçimlerine dönüştürebilir.
 
-* [OBJ](/tr/3d/nesne/)
+* [OBJ](/tr/3d/obj/)
 * [3MF](/tr/3d/3mf/)
 * [DWG](/tr/cad/dwg/)
 * [DXF](/tr/cad/dxf/)

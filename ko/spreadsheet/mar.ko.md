@@ -28,5 +28,5 @@ MAR 파일은 Mariner Calc에서만 알려진 독점 파일 형식의 바이너�
 
 ## 참고문헌
 
-* [마리너캘크](https://marinersoftware.com/product/calc-xls/)
+* N/A
 

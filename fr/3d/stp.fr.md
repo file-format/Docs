@@ -69,7 +69,7 @@ Autodesk Fusion 360 peut convertir des fichiers STP aux formats de fichiers 3D e
 * [STL](/fr/cad/stl/)
 * [FBX](/fr/3d/fbx/)
 * F3D
-* [USD](/fr/3j/USD/)
+* [USD](/fr/3j/usd/)
 
 ## Références
 

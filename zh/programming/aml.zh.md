@@ -52,7 +52,7 @@ AML（辅助标记语言）文件是使用 Microsoft 辅助标记语言 (MAML) �
 
 ## 参考
 
-* [使用 PlatyPS 创建基于 XML 的帮助](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
+* [使用 PlatyPS 创建基于 XML 的帮助](https://learn.microsoft.com/en-us/powershell/utility-modules/platyps/create-help-using-platyps?view=ps-modules)
 * [微软协助标记语言](https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
 
 # AML - Arc 宏语言文件

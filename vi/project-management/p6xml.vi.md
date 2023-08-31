@@ -19,7 +19,7 @@
 
 ## Tệp P6XML là gì? ##
 
-Phần mở rộng tệp P6XML có khả năng đọc, khả năng thích ứng tuyệt vời và khả năng sử dụng rộng rãi khiến nó trở thành định dạng lý tưởng. Primavera P6 Professional có chức năng xuất và nhập cả tệp [XER](/vi/project-manager/xer/) và tệp XML. XML là viết tắt của **Ngôn ngữ đánh dấu mở rộng**. Định dạng chung này cho phép người dùng chia sẻ thông tin dự án giữa các cơ sở dữ liệu Primavera P6. Dữ liệu dự án có thể dễ dàng được lưu trữ trong tệp văn bản thông qua tệp XML; điều này làm cho mọi thứ trở nên đơn giản hơn đối với nhiều chương trình phần mềm để trao đổi dữ liệu. Người dùng Primavera P6 có thể dễ dàng chia sẻ và quản lý những dữ liệu này.
+Phần mở rộng tệp P6XML có khả năng đọc, khả năng thích ứng tuyệt vời và khả năng sử dụng rộng rãi khiến nó trở thành định dạng lý tưởng. Primavera P6 Professional có chức năng xuất và nhập cả tệp [XER](/vi/project-management/xer/) và tệp XML. XML là viết tắt của **Ngôn ngữ đánh dấu mở rộng**. Định dạng chung này cho phép người dùng chia sẻ thông tin dự án giữa các cơ sở dữ liệu Primavera P6. Dữ liệu dự án có thể dễ dàng được lưu trữ trong tệp văn bản thông qua tệp XML; điều này làm cho mọi thứ trở nên đơn giản hơn đối với nhiều chương trình phần mềm để trao đổi dữ liệu. Người dùng Primavera P6 có thể dễ dàng chia sẻ và quản lý những dữ liệu này.
 
 ## Ưu điểm của Định dạng Tệp P6XML ##
 

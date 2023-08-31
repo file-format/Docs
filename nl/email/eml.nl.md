@@ -44,6 +44,7 @@ Een EML-bestand bestaat uit Headers-informatie en optioneel berichttekst. Elke k
 
 **Voorbeeldkop**
 
+```
 Van:<John@bmw.eml.light.com>
 
 Tot:<Andy@fileformat.com>
@@ -51,6 +52,7 @@ Tot:<Andy@fileformat.com>
 Datum: do, 8 maart 2018 10:43:37 +0100
 
 Onderwerp: BMW eml licht
+```
 
 ### Bericht lichaam ###
 

@@ -52,7 +52,7 @@ Fișierele MAML pot fi create folosind Sandcastle, o suită de scheme .XSL și e
 
 ## Referințe
 
-* [Creați ajutor bazat pe XML folosind PlatyPS](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/create-help-using-platyps?view=powershell-7.2)
+* [Creați ajutor bazat pe XML folosind PlatyPS](https://learn.microsoft.com/en-us/powershell/utility-modules/platyps/create-help-using-platyps?view=ps-modules)
 * [Microsoft Assistance Markup Language](https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
 
 # AML - Fișier Arc Macro Language

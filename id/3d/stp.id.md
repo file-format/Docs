@@ -69,7 +69,7 @@ Autodesk Fusion 360 dapat mengonversi file STP ke format file 3D dan CAD berikut
 * [STL](/id/cad/stl/)
 * [FBX](/id/3d/fbx/)
 * F3D
-* [USD](/id/3h/usd/)
+* [USD](/id/3d/usd/)
 
 ## Referensi
 

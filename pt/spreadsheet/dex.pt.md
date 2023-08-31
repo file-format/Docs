@@ -23,5 +23,5 @@ Um arquivo DEX é um arquivo de planilha criado com o Microsoft Excel. É semelh
 
 ## Referências
 
-* [Formatos de arquivo do Microsoft Excel](https://support.microsoft.com/en-us/office/file-formats-that-are-supported-in-excel-0943ff2c-6014-4e8d-aaaa-b83d51d46247)
+* [Formatos de arquivo do Microsoft Excel](https://support.microsoft.com/en-us/office/file-formats-that-are-supported-in-excel-0943ff2c-6014-4e8d-aaea-b83d51d46247)
 

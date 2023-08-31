@@ -18,7 +18,7 @@
 
 ## Czym jest plik DOTHTML?
 
-Plik DOTHTML to dokument szablonu programu Microsoft Word zapisany w wersji HTML. Można ją otworzyć w przeglądarce internetowej, a zawartość jest wyświetlana jak każda inna strona internetowa. Pliki DOTHTML są generowane z plików Microsoft Word .DOT, które zawierają wstępnie sformatowane ustawienia do generowania tych plików. Gdy plik [DOT](/pl/processing/dot/) jest konwertowany na format DOCHTML, wszystkie te ustawienia są zachowywane, a przekonwertowany plik DOTHTML jest wyświetlany z podobnym formatowaniem jak oryginalny plik DOT. W ten sposób opublikowane szablony można przeglądać w przeglądarce internetowej.
+Plik DOTHTML to dokument szablonu programu Microsoft Word zapisany w wersji HTML. Można ją otworzyć w przeglądarce internetowej, a zawartość jest wyświetlana jak każda inna strona internetowa. Pliki DOTHTML są generowane z plików Microsoft Word .DOT, które zawierają wstępnie sformatowane ustawienia do generowania tych plików. Gdy plik [DOT](/pl/word-processing/dot/) jest konwertowany na format DOCHTML, wszystkie te ustawienia są zachowywane, a przekonwertowany plik DOTHTML jest wyświetlany z podobnym formatowaniem jak oryginalny plik DOT. W ten sposób opublikowane szablony można przeglądać w przeglądarce internetowej.
 
 ## Format pliku DOTHTML — więcej informacji
 

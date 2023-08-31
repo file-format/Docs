@@ -33,6 +33,6 @@ Zoals vermeld, is een OVA-bestand een archiefbestand dat is gemaakt met behulp v
 
 ## Referenties
 
-* [OVA-bestandsindelingen en sjablonen](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-AE61948B-C2EE-436E-BAFB-3C7209088552.html )
+* [OVA-bestandsindelingen en sjablonen](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-AE61948B-C2EE-436E-BAFB-3C7209088552.html)
 * [OVF-bestandsformaatspecificaties](https://products.conholdate.app/viewer/view/3XKCLQbwAw/open-virtualisatie-format-specification-dsp0243_1-1-0.pdf)
 

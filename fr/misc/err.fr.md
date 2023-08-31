@@ -27,5 +27,5 @@ Les fichiers ERR sont enregistrés sur le disque sous forme de fichiers texte br
 
 ## Références
 
-* [Importance du dossier de données EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompagnes-enl-library-files?language= fr_US)
+* [Importance du dossier de données EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language=en_US)
 

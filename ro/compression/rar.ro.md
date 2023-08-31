@@ -91,5 +91,5 @@ Unde
 ## Referințe
 
 * [Format de arhivă RAR 5.0](https://www.rarlab.com/technote.htm)
-* [RAR - După Wikipedia](https://en.wikipedia.org/wiki/RAR_(format_fișier))
+* [RAR - După Wikipedia](https://en.wikipedia.org/wiki/RAR_(file_format))
 

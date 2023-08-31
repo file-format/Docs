@@ -34,7 +34,7 @@ Algoritme data TNEF membentuk struktur rata dari properti pesan hierarkis yang k
 
 Dalam beberapa situasi, di mana properti muncul dalam grup atau memiliki banyak nilai, aliran mungkin menyertakan hitungan dan padding untuk menerapkan penyelarasan data tertentu. Situasi khas di mana penggunaan algoritme ini menguntungkan adalah dalam lingkungan perpesanan yang tidak mendukung. Dalam lingkungan seperti itu, properti pesan kaya dikodekan ke dalam aliran data serial oleh Penulis TNEF. Selanjutnya, properti yang bukan milik TNEF yang mendasarinya dapat dienkapsulasi selama transmisi. Properti yang dienkapsulasi ini kemudian tersedia dengan decoding melalui TNEF untuk memastikan ketersediaan semua properti dari pesan asli ke aplikasi klien.
 
-Di TNEF semua tipe data numerik adalah little-endian dan ukurannya lebih besar dari satu byte. Penanganan nilai numerik ini pada platform non-little-endian perlu dilakukan transformasi yang sesuai untuk mendapatkan nilai yang benar. Nilai string direpresentasikan dalam format Augmented Backus-Naur Form (ABNF) menurut spesifikasi [RFC5234]. Saat string diakhiri dengan karakter null, string juga disertakan; misalnya, "worker@specimen.com" %x00.
+Di TNEF semua tipe data numerik adalah little-endian dan ukurannya lebih besar dari satu byte. Penanganan nilai numerik ini pada platform non-little-endian perlu dilakukan transformasi yang sesuai untuk mendapatkan nilai yang benar. Nilai string direpresentasikan dalam format Augmented Backus-Naur Form (ABNF) menurut spesifikasi [RFC5234]. Saat string diakhiri dengan karakter null, string juga disertakan; misalnya, `"worker@specimen.com" %x00`.
 
 {{< figure src="../TNEF.png" alt="Format File TNEF" >}}
 

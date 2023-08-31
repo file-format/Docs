@@ -44,6 +44,7 @@ Tệp EML bao gồm thông tin Tiêu đề và nội dung thư tùy chọn. Mỗ
 
 **Tiêu đề ví dụ**
 
+```
 Từ:<John@bmw.eml.light.com>
 
 Đến:<Andy@fileformat.com>
@@ -51,6 +52,7 @@ Từ:<John@bmw.eml.light.com>
 Ngày: Thu, 8 Mar 2018 10:43:37 +0100
 
 Chủ đề: đèn bmw eml
+```
 
 ### Nội dung thư ###
 

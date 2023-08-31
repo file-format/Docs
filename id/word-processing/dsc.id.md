@@ -22,7 +22,7 @@ File dengan ekstensi .dsc adalah file deskripsi teks yang berisi informasi tenta
 
 ## Format File DSC - Informasi Lebih Lanjut
 
-File DSC dibuat dan disimpan ke disk sebagai file teks biasa. Ini dapat diedit dengan membuka editor teks yang kompatibel seperti Microsoft Notepad. DSC mengikuti format teks biasa yang mirip dengan file [.txt](/id/word-processing/dsc/) dan dapat diisi dengan detail perangkat lunak apa pun sesuai fungsi atau instruksi perangkat lunak.
+File DSC dibuat dan disimpan ke disk sebagai file teks biasa. Ini dapat diedit dengan membuka editor teks yang kompatibel seperti Microsoft Notepad. DSC mengikuti format teks biasa yang mirip dengan file [.txt](/id/word-processing/txt/) dan dapat diisi dengan detail perangkat lunak apa pun sesuai fungsi atau instruksi perangkat lunak.
 
 ## Referensi
 

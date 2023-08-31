@@ -27,7 +27,7 @@
 
 ## تنسيق ملف XAML
 
-يعتمد XAML بالكامل على تنسيق XML. تم نشر المواصفات الأولية لـ [XAML Object Mapping](http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/٪5BMS-XAML٪5D.pdf) في 2006 ، متبوعًا بـ [إصدار] آخر (http://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/٪5BMS-XAML-2009٪5D.pdf) تم نشره في 2009. تحدد هذه المواصفات نموذجين للمعلومات المجردة:
+يعتمد XAML بالكامل على تنسيق XML. تم نشر المواصفات الأولية لـ [XAML Object Mapping](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) في 2006 ، متبوعًا بـ [إصدار](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) آخر تم نشره في 2009. تحدد هذه المواصفات نموذجين للمعلومات المجردة:
 
 * نموذج مجموعة معلومات مخطط XAML
 * نموذج مجموعة معلومات XAML

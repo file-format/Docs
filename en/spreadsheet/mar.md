@@ -28,4 +28,4 @@ MAR files are saved as binary files in a proprietary file format that is only kn
 
 ## References
 
-* [Mariner Calc ](https://marinersoftware.com/product/calc-xls/)
+* N/A

@@ -30,7 +30,7 @@ Er zijn meerdere formaten van LRC-bestanden die in de loop van de tijd zijn ontw
 
 ### Eenvoudig LRC-formaat
 
-De lijntijdlabels hebben de indeling [mm:ss.xx] waarbij mm minuten is, ss seconden en xx honderdsten van een seconde.
+De lijntijdlabels hebben de indeling `[mm:ss.xx]` waarbij mm minuten is, ss seconden en xx honderdsten van een seconde.
 
 ```
 [00:12.00]Line 1 lyrics
@@ -54,7 +54,7 @@ Het bevat de mogelijkheid om het geslacht van de songtekst te wijzigen en te spe
 ```
 ### Verbeterd LRC-formaat
 
-Het verbeterde LRC-formaat is een uitgebreide versie van het Simple LRC-formaat. Het voegt een Word Time Tag toe in het formaat<mm:ss.xx> aan het einde van het vorige woord.
+Het verbeterde LRC-formaat is een uitgebreide versie van het Simple LRC-formaat. Het voegt een Word Time Tag toe in het formaat`<mm:ss.xx>` aan het einde van het vorige woord.
 
 ```
 [ar: Jade Michael]

@@ -33,7 +33,7 @@ GMAP dosyaları diske ikili dosyalar olarak kaydedilir ve dahili dosya formatı 
 * Garmin Eğitim Merkezi ([.tcx](/tr/gis/tcx/))
 * GPS Konumu ([.loc](/tr/gis/loc/))
 * Garmin Özel Haritası ([.kml](/tr/gis/kml/) veya [.kmz](/tr/gis/kmz/))
-* Fotoğraf (.jpg veya [.jpeg](/tr/resim/jpeg/))
+* Fotoğraf (.jpg veya [.jpeg](/tr/image/jpeg/))
 
 ## Referanslar
 

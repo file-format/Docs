@@ -57,6 +57,5 @@ Blok data terdiri dari data yang tidak terkompresi atau terkompresi. Ukuran sebu
 
 ## Referensi
 
-* [CSO - oleh Wikipedia](https://en.wikipedia.org/wiki/.CSO)
-
+* N/A
 

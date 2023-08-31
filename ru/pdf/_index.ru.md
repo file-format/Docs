@@ -112,7 +112,7 @@ Linear PDF. Предназначенные для онлайн-просмотр�
 
 ## Использованная литература ##
 
-* [Формат файла PDF: базовая структура](https://resources.infosecinstitute.com/pdf-file-format-basic-structure/)
+* [Формат файла PDF: базовая структура](https://resources.infosecinstitute.com/topics/hacking/pdf-file-format-basic-structure/)
 * [PDF – Википедия](https://en.wikipedia.org/wiki/PDF)
 * [Справочник в формате PDF — Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 

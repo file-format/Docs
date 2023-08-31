@@ -27,6 +27,6 @@ Soubor CBZ je archiv ZIP, který obsahuje stránky elektronické knihy jako obr�
 
 ## Reference
 
-* [Archiv komiksů](https://en.wikipedia.org/wiki/archiv_komiksů)
+* [Archiv komiksů](https://en.wikipedia.org/wiki/Comic_book_archive)
 * [Calibre](https://calibre-ebook.com/)
 

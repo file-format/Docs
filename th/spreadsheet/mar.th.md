@@ -28,5 +28,5 @@
 
 ## อ้างอิง
 
-* [การคำนวณของ Mariner ](https://marinersoftware.com/product/calc-xls/)
+* N/A
 

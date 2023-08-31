@@ -112,7 +112,7 @@ De grafische operators die in PDF-inhoudsstromen worden gebruikt, beschrijven he
 
 ## Referenties ##
 
-* [PDF-bestandsindeling: basisstructuur](https://resources.infosecinstitute.com/pdf-file-format-basic-structure/)
+* [PDF-bestandsindeling: basisstructuur](https://resources.infosecinstitute.com/topics/hacking/pdf-file-format-basic-structure/)
 * [PDF - Wikipedia](https://en.wikipedia.org/wiki/PDF)
 * [PDF-referentie - Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 

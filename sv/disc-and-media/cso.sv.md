@@ -57,6 +57,5 @@ Datablocken består av okomprimerad eller komprimerad data. Storleken på ett bl
 
 ## Referenser
 
-* [CSO - av Wikipedia](https://en.wikipedia.org/wiki/.CSO)
-
+* N/A
 

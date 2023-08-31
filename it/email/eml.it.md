@@ -44,6 +44,7 @@ Un file EML è costituito da informazioni sulle intestazioni e, facoltativamente
 
 **Esempio di intestazione**
 
+```
 Da:<John@bmw.eml.light.com>
 
 Per:<Andy@fileformat.com>
@@ -51,6 +52,7 @@ Per:<Andy@fileformat.com>
 Data: Thu, 8 Mar 2018 10:43:37 +0100
 
 Oggetto: luce bmw eml
+```
 
 ### Corpo del messaggio ###
 

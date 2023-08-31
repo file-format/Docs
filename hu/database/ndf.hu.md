@@ -23,7 +23,7 @@ Az .ndf kiterjesztésű fájl egy másodlagos adatbázisfájl, amelyet a [Micros
 
 ## NDF fájlformátum
 
-Az NDF fájlformátum nem különbözik az [MDF]-től (/hu/adatbázis/mdf), és az oldalakat használja az adattárolás alapvető egységeként. minden oldal 96 bájtos fejléccel kezdődik, amely tartalmazza:
+Az NDF fájlformátum nem különbözik az [MDF]-től (/hu/database/mdf), és az oldalakat használja az adattárolás alapvető egységeként. minden oldal 96 bájtos fejléccel kezdődik, amely tartalmazza:
 
 * Oldalazonosító
 * A szerkezet típusa
@@ -71,7 +71,7 @@ Ez a példa egy 4 MB-os elsődleges adatfájlt és 1 MB-os másodlagos adatfájl
 
 ## Hivatkozások
 
-* [Adatbázisfájlok és fájlcsoportok](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?redirectedfrom=MSDN&view=sql-server-ver15)
-* [Adatbázis leválasztás és csatolás – SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
+* [Adatbázisfájlok és fájlcsoportok](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver16)
+* [Adatbázis leválasztás és csatolás – SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server-ver15)
 * [Az SQL Server adatfájl-anatómiájának elemzése](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

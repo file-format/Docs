@@ -19,7 +19,7 @@
 
 ## Mi az INDT fájl?
 
-Az .indt kiterjesztésű fájl egy Adobe InDesign elrendezéssablonfájl, amely előre meghatározott beállításokat tartalmaz. A fájlok kialakítása és tartalma hírlevelek, könyvek, magazinok, szórólapok és nyomtatott sajtó sablonjait tartalmazza. A szerkesztés befejezése után az INDT fájl [INDD](/hu/oldalleírás-nyelv/indd/) fájlként menthető a lemezre. A felhasználó új INDT-fájlt is létrehozhat az InDesign-ból, és konvertálhatja azokat más formátumokba, például [PDF](/hu/pdf/), [EPUB](/hu/ebook/epub/) vagy [JPEG](/hu/image/jpeg/) .
+Az .indt kiterjesztésű fájl egy Adobe InDesign elrendezéssablonfájl, amely előre meghatározott beállításokat tartalmaz. A fájlok kialakítása és tartalma hírlevelek, könyvek, magazinok, szórólapok és nyomtatott sajtó sablonjait tartalmazza. A szerkesztés befejezése után az INDT fájl [INDD](/hu/page-description-language/indd/) fájlként menthető a lemezre. A felhasználó új INDT-fájlt is létrehozhat az InDesign-ból, és konvertálhatja azokat más formátumokba, például [PDF](/hu/pdf/), [EPUB](/hu/ebook/epub/) vagy [JPEG](/hu/image/jpeg/) .
 
 ## INDT fájlformátum - További információ
 

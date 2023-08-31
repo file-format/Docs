@@ -22,7 +22,7 @@ Un archivo de **hoja de cálculo** contiene datos en forma de filas y columnas. 
 
 Las extensiones de archivo de hoja de cálculo comunes y sus formatos de archivo incluyen **[XLSX](/es/spreadsheet/xlsx/)** (Microsoft Excel Open XML Spreadsheet), **[ODS](/es/spreadsheet/ods/)** (OpenDocument Spreadsheet) y **[XLS](/es/hoja de cálculo/xls/)** (Formato de archivo binario de Microsoft Excel).
 
-¿Tiene consultas relacionadas con los formatos de archivo de hoja de cálculo? Diríjase a los [foros] de nuestra comunidad (https://forum.fileformat.com/c/spreadsheet/6) para beneficiarse del conocimiento compartido por los expertos en formato de archivo.
+¿Tiene consultas relacionadas con los formatos de archivo de hoja de cálculo? Diríjase a los [foros](https://forum.fileformat.com/c/spreadsheet/6) de nuestra comunidad para beneficiarse del conocimiento compartido por los expertos en formato de archivo.
 
 ## Lista de extensiones de archivo de hoja de cálculo y formatos de archivo asociados
 

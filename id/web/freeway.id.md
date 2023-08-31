@@ -22,7 +22,7 @@ File FREEWAY adalah file informasi pengaturan yang dibuat dan digunakan oleh per
 
 ## Format File FREEWAY
 
-File FREEWAY disimpan dalam format file hak milik dan detail format file internalnya tidak tersedia untuk umum. Itu tidak memiliki sumber daya aktual yang digunakan oleh sebuah situs, melainkan tata letak situs dan tautan ke properti yang berbeda. Sumber daya dan halaman situs web yang sebenarnya disimpan ke folder "Media" dan "Folder Situs" yang terletak di folder yang sama dengan file FREEWAY. Dokumen FREEWAY dapat diekspor ke berbagai format termasuk [HTML](/id/web/html/), [JPEG](/id/image/jpeg/), [PNG](/id/image/png/), [BMP](/id/ gambar/bmp/), dan [GIF](/id/gambar/gif/).
+File FREEWAY disimpan dalam format file hak milik dan detail format file internalnya tidak tersedia untuk umum. Itu tidak memiliki sumber daya aktual yang digunakan oleh sebuah situs, melainkan tata letak situs dan tautan ke properti yang berbeda. Sumber daya dan halaman situs web yang sebenarnya disimpan ke folder "Media" dan "Folder Situs" yang terletak di folder yang sama dengan file FREEWAY. Dokumen FREEWAY dapat diekspor ke berbagai format termasuk [HTML](/id/web/html/), [JPEG](/id/image/jpeg/), [PNG](/id/image/png/), [BMP](/id/image/bmp/), dan [GIF](/id/image/gif/).
 
 ## Referensi
 

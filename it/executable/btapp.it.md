@@ -26,5 +26,5 @@ Un file dell'applicazione BTAPP viene salvato come file binario. Contiene il cod
 
 ## Riferimenti
 
-* [File TORRENT - wikipedia](https://en.wikipedia.org/wiki/File_Torrent)
+* [File TORRENT - wikipedia](https://en.wikipedia.org/wiki/Torrent_file)
 

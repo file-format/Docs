@@ -57,6 +57,5 @@ Datové bloky se skládají z nekomprimovaných nebo komprimovaných dat. Veliko
 
 ## Reference
 
-* [CSO – podle Wikipedie](https://en.wikipedia.org/wiki/.CSO)
-
+* N/A
 

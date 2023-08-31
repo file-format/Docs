@@ -112,7 +112,7 @@ PDF içerik akışlarında kullanılan grafik işleçleri, bir raster çıktı a
 
 ## Referanslar ##
 
-* [PDF Dosya Biçimi: Temel Yapı](https://resources.infosecinstitute.com/pdf-file-format-basic-structure/)
+* [PDF Dosya Biçimi: Temel Yapı](https://resources.infosecinstitute.com/topics/hacking/pdf-file-format-basic-structure/)
 * [PDF - Vikipedi](https://en.wikipedia.org/wiki/PDF)
 * [PDF Referansı - Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 

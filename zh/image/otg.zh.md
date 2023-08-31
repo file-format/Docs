@@ -45,7 +45,7 @@ OTG 文件格式基于具有完善架构的 OpenDocument XML 格式。 OpenDocum
 
 |布局|属性|描述
 ---|---|---|
-|演示文稿页面布局|演示文稿：演示文稿页面布局名称|链接到 `<style:presentation-page-layout> ` 属性
+|演示文稿页面布局|演示文稿：演示文稿页面布局名称|链接到 `<style:presentation-page-layout>`  属性
 |页面布局|`style:page-layout-name` |指定包含讲义母版页的大小、边框和方向的页面布局。
 |页面样式|`draw:style-name`|通过指定绘图页面样式为讲义母版页指定附加格式属性。|
 |标题声明| `presentation:use-header-name`|指定用于在讲义母版页上显示的所有标题字段的标题字段声明的名称。

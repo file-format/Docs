@@ -86,12 +86,12 @@ Existem muitos players de mídia e editores de vídeo de software disponíveis p
 
 Vários players de mídia e editores de vídeo, incluindo o player de mídia VideoLAN VLC e o Eltima Elmedia Player, podem converter arquivos MOV para outros formatos. Esses softwares podem converter arquivos MOV para os seguintes formatos de vídeo.
 
-* Vídeo MPEG-4 - [MP4](/pt/vídeo/mp4/)
+* Vídeo MPEG-4 - [MP4](/pt/video/mp4/)
 * Vídeo WebM - [WEBM](/pt/video/webm/)
 * Fluxo de transporte de vídeo - [TS](/pt/video/ts/)
 * Formato de sistemas avançados - [ASF](/pt/video/ts/)
 * Áudio Ogg Vorbis - [OGG](/pt/audio/ogg/)
-* Áudio MP3 - [MP3](/pt/áudio/mp3/)
+* Áudio MP3 - [MP3](/pt/audio/mp3/)
 * Codec de áudio sem perdas grátis - [FLAC](/pt/audio/flac/)
 * Áudio WAVE - [WAV](/pt/audio/wav/)
 

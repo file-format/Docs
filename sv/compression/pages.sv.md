@@ -47,5 +47,5 @@ Apple PAGES-dokument kan konverteras till flera filformat. Detta kan göras frå
 ## Referenser
 
 * [Konvertera Pages Documents](https://support.apple.com/en-us/HT202227)
-* [Apple Pages - Wikipedia](https://en.wikipedia.org/wiki/Pages_(ordbehandlare))
+* [Apple Pages - Wikipedia](https://en.wikipedia.org/wiki/Pages_(word_processor))
 

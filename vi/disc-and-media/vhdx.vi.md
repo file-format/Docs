@@ -24,7 +24,7 @@ Có thể chuyển đổi tệp VHDX thành [VHD](/vi/disc-and-media/vhd/) bằn
 
 ## Định dạng tệp VHDX - Thông tin khác
 
-Chi tiết về định dạng tệp VHDX được ghi lại đầy đủ và có sẵn trực tuyến dưới dạng [Thông số định dạng tệp VHDX](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477 ) trên Tài liệu Microsoft. Nó là một phần mở rộng của định dạng VHD và bao gồm các khả năng nâng cao. Định dạng tệp VHDX cung cấp các tính năng bổ sung có sẵn ở đĩa cứng ảo và các lớp tệp đĩa cứng ảo. Nó được tối ưu hóa hơn và mang lại kết quả tốt hơn cho cấu hình và khả năng của phần cứng lưu trữ. Các tệp VHDX có thể được mở
+Chi tiết về định dạng tệp VHDX được ghi lại đầy đủ và có sẵn trực tuyến dưới dạng [Thông số định dạng tệp VHDX](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477) trên Tài liệu Microsoft. Nó là một phần mở rộng của định dạng VHD và bao gồm các khả năng nâng cao. Định dạng tệp VHDX cung cấp các tính năng bổ sung có sẵn ở đĩa cứng ảo và các lớp tệp đĩa cứng ảo. Nó được tối ưu hóa hơn và mang lại kết quả tốt hơn cho cấu hình và khả năng của phần cứng lưu trữ. Các tệp VHDX có thể được mở
 
 ### Hỗ trợ Đĩa cứng Ảo trong VHDX
 

@@ -112,7 +112,7 @@ PDF-файл містить декілька різних типів об’єк
 
 ## Посилання ##
 
-* [Формат файлу PDF: базова структура](https://resources.infosecinstitute.com/pdf-file-format-basic-structure/)
+* [Формат файлу PDF: базова структура](https://resources.infosecinstitute.com/topics/hacking/pdf-file-format-basic-structure/)
 * [PDF - Вікіпедія](https://en.wikipedia.org/wiki/PDF)
 * [Довідка у форматі PDF – Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 

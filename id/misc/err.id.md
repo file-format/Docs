@@ -27,5 +27,5 @@ File ERR disimpan ke disk sebagai file teks biasa dan juga dapat dilihat di edit
 
 ## Referensi
 
-* [Pentingnya Folder Data EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= en_US)
+* [Pentingnya Folder Data EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language=en_US)
 
