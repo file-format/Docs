@@ -24,7 +24,3 @@
 ## تنسيق ملف PF
 
 يتم حفظ ملفات PF على القرص كملفات ثنائية ويتم حفظها بتنسيق ملف ملكية Stuffit Deluxe.
-
-## مراجع
-
-* [Stuffit Deluxe](https://stuffit-deluxe.en.softonic.com/mac)
