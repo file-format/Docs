@@ -28,5 +28,5 @@
 ## βιβλιογραφικές αναφορές
 
 * [ArtCAM Autodesk](https://www.autodesk.com/products/artcam/overview)
-* [Το Autodesk ArtCAM δεν μπορεί να ανοίξει αρχεία τέχνης που έχουν δημιουργηθεί σε προηγούμενες εκδόσεις παλαιού τύπου](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in-previous-legacy-versions.html)
+
 

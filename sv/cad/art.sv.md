@@ -28,5 +28,5 @@ ART-filer sparades på skiva som binära filer utan några ART-filformatspecifik
 ## Referenser
 
 * [ArtCAM Autodesk](https://www.autodesk.com/products/artcam/overview)
-* [Autodesk ArtCAM kan inte öppna konstfiler gjorda i tidigare äldre versioner](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in-previous-legacy-versions.html)
+
 

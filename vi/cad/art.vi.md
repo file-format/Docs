@@ -28,5 +28,5 @@ Các tệp ART đã được lưu vào đĩa dưới dạng tệp nhị phân kh
 ## Người giới thiệu
 
 * [ArtCAM Autodesk](https://www.autodesk.com/products/artcam/overview)
-* [Autodesk ArtCAM không thể mở các tệp nghệ thuật được tạo trong các phiên bản cũ](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in-previous-legacy-versions.html)
+
 

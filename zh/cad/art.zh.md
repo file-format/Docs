@@ -28,5 +28,5 @@ ART 文件作为二进制文件保存到光盘中，没有可供开发人员参�
 ## 参考
 
 * [ArtCAM Autodesk](https://www.autodesk.com/products/artcam/overview)
-* [Autodesk ArtCAM 无法打开以前旧版本制作的艺术文件](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in-previous-legacy-versions.html)
+
 

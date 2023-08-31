@@ -28,5 +28,5 @@ Pliki ART zostały zapisane na dysku jako pliki binarne bez specyfikacji formatu
 ## Bibliografia
 
 * [ArtCAM Autodesk](https://www.autodesk.com/products/artcam/overview)
-* [Autodesk ArtCAM nie może otwierać plików graficznych utworzonych we wcześniejszych starszych wersjach](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in-previous-legacy-versions.html)
+
 

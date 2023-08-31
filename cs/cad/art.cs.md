@@ -28,5 +28,5 @@ Soubory ART byly uloženy na disk jako binární soubory bez specifikace formát
 ## Reference
 
 * [ArtCAM Autodesk](https://www.autodesk.com/products/artcam/overview)
-* [Autodesk ArtCAM nemůže otevřít umělecké soubory vytvořené v předchozích starších verzích](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in-previous-legacy-versions.html)
+
 
