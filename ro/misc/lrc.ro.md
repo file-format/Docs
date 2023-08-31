@@ -30,7 +30,7 @@ Există mai multe formate de fișiere LRC care au fost dezvoltate de-a lungul ti
 
 ### Format LRC simplu
 
-Etichetele de timp de linie sunt în formatul [mm:ss.xx] unde mm reprezintă minute, ss este secunde și xx este sutimi de secundă.
+Etichetele de timp de linie sunt în formatul `[mm:ss.xx]` unde mm reprezintă minute, ss este secunde și xx este sutimi de secundă.
 
 ```
 [00:12.00]Line 1 lyrics
@@ -54,7 +54,7 @@ Include abilitatea de a schimba și de a specifica genul versurilor folosind M: 
 ```
 ### Format LRC îmbunătățit
 
-Formatul LRC îmbunătățit este o versiune extinsă a formatului Simple LRC. Se adaugă un Word Time Tag în format<mm:ss.xx> la sfârşitul cuvântului precedent.
+Formatul LRC îmbunătățit este o versiune extinsă a formatului Simple LRC. Se adaugă un Word Time Tag în format`<mm:ss.xx>` la sfârşitul cuvântului precedent.
 
 ```
 [ar: Jade Michael]

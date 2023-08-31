@@ -30,7 +30,7 @@ Zaman içinde geliştirilmiş birden çok LRC dosyası biçimi vardır. Bunlar
 
 ### Basit LRC Biçimi
 
-Satır Süresi Etiketleri [mm:ss.xx] biçimindedir; burada mm dakika, ss saniye ve xx saniyenin yüzde biridir.
+Satır Süresi Etiketleri `[mm:ss.xx]` biçimindedir; burada mm dakika, ss saniye ve xx saniyenin yüzde biridir.
 
 ```
 [00:12.00]Line 1 lyrics
@@ -54,7 +54,7 @@ M: Erkek, K: Kadın, D: Düet kullanarak sözlerin cinsiyetini değiştirme ve b
 ```
 ### Gelişmiş LRC formatı
 
-Geliştirilmiş LRC formatı, Simple LRC formatının genişletilmiş versiyonudur. biçiminde bir Word Zaman Etiketi ekler.<mm:ss.xx> önceki kelimenin sonunda.
+Geliştirilmiş LRC formatı, Simple LRC formatının genişletilmiş versiyonudur. biçiminde bir Word Zaman Etiketi ekler.`<mm:ss.xx>` önceki kelimenin sonunda.
 
 ```
 [ar: Jade Michael]

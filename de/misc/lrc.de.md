@@ -30,7 +30,7 @@ Es gibt mehrere Formate von LRC-Dateien, die im Laufe der Zeit entwickelt wurden
 
 ### Einfaches LRC-Format
 
-Die Zeilenzeit-Tags haben das Format [mm:ss.xx], wobei mm für Minuten, ss für Sekunden und xx für Hundertstelsekunden steht.
+Die Zeilenzeit-Tags haben das Format `[mm:ss.xx]`, wobei mm für Minuten, ss für Sekunden und xx für Hundertstelsekunden steht.
 
 ```
 [00:12.00]Line 1 lyrics
@@ -54,7 +54,7 @@ Es beinhaltet die Möglichkeit, das Geschlecht des Textes zu ändern und anzugeb
 ```
 ### Erweitertes LRC-Format
 
-Das erweiterte LRC-Format ist eine erweiterte Version des einfachen LRC-Formats. Es fügt dem Format ein Word Time Tag hinzu<mm:ss.xx> am Ende des vorherigen Wortes.
+Das erweiterte LRC-Format ist eine erweiterte Version des einfachen LRC-Formats. Es fügt dem Format ein Word Time Tag hinzu`<mm:ss.xx>` am Ende des vorherigen Wortes.
 
 ```
 [ar: Jade Michael]

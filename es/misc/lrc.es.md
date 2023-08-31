@@ -30,7 +30,7 @@ Hay múltiples formatos de archivos LRC que se han desarrollado con el tiempo. E
 
 ### Formato LRC simple
 
-Las etiquetas de tiempo de línea tienen el formato [mm:ss.xx] donde mm son minutos, ss son segundos y xx son centésimas de segundo.
+Las etiquetas de tiempo de línea tienen el formato `[mm:ss.xx]` donde mm son minutos, ss son segundos y xx son centésimas de segundo.
 
 ```
 [00:12.00]Line 1 lyrics
@@ -54,7 +54,7 @@ Incluye la capacidad de cambiar y especificar el género de las letras usando M:
 ```
 ### Formato LRC mejorado
 
-El formato LRC mejorado es una versión extendida del formato LRC simple. Agrega una etiqueta de tiempo de palabra en el formato<mm:ss.xx> al final de la palabra anterior.
+El formato LRC mejorado es una versión extendida del formato LRC simple. Agrega una etiqueta de tiempo de palabra en el formato`<mm:ss.xx>` al final de la palabra anterior.
 
 ```
 [ar: Jade Michael]

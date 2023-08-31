@@ -30,7 +30,7 @@ Existuje několik formátů souborů LRC, které byly vyvinuty v průběhu času
 
 ### Jednoduchý formát LRC
 
-Časové značky řádku jsou ve formátu [mm:ss.xx], kde mm jsou minuty, ss jsou sekundy a xx jsou setiny sekundy.
+Časové značky řádku jsou ve formátu `[mm:ss.xx]`, kde mm jsou minuty, ss jsou sekundy a xx jsou setiny sekundy.
 
 ```
 [00:12.00]Line 1 lyrics
@@ -54,7 +54,7 @@ Zahrnuje možnost změnit a určit pohlaví textů pomocí M: Male, F: Female, D
 ```
 ### Vylepšený formát LRC
 
-Rozšířený formát LRC je rozšířenou verzí jednoduchého formátu LRC. Přidá Word Time Tag ve formátu<mm:ss.xx> na konci předchozího slova.
+Rozšířený formát LRC je rozšířenou verzí jednoduchého formátu LRC. Přidá Word Time Tag ve formátu`<mm:ss.xx>` na konci předchozího slova.
 
 ```
 [ar: Jade Michael]

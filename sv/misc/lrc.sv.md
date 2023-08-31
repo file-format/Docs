@@ -30,7 +30,7 @@ Det finns flera format av LRC-filer som har utvecklats över tiden. Dessa
 
 ### Enkelt LRC-format
 
-Linjetidstaggarna har formatet [mm:ss.xx] där mm är minuter, ss är sekunder och xx är hundradelar av en sekund.
+Linjetidstaggarna har formatet `[mm:ss.xx]` där mm är minuter, ss är sekunder och xx är hundradelar av en sekund.
 
 ```
 [00:12.00]Line 1 lyrics
@@ -54,7 +54,7 @@ Det inkluderar möjligheten att ändra och specificera könet på texterna genom
 ```
 ### Förbättrat LRC-format
 
-Det förbättrade LRC-formatet är en utökad version av Simple LRC-formatet. Den lägger till en Word Time Tag i formatet<mm:ss.xx> i slutet av föregående ord.
+Det förbättrade LRC-formatet är en utökad version av Simple LRC-formatet. Den lägger till en Word Time Tag i formatet`<mm:ss.xx>` i slutet av föregående ord.
 
 ```
 [ar: Jade Michael]

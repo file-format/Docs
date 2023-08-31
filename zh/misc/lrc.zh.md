@@ -30,7 +30,7 @@ LRC 歌词格式文件保存为纯文本文件，可以在文本文件中打开�
 
 ### 简单的 LRC 格式
 
-行时间标签的格式为 [mm:ss.xx]，其中 mm 是分钟，ss 是秒，xx 是百分之一秒。
+行时间标签的格式为 `[mm:ss.xx]`，其中 mm 是分钟，ss 是秒，xx 是百分之一秒。
 
 ```
 [00:12.00]Line 1 lyrics
@@ -54,7 +54,7 @@ mm:ss.xxlast lyrics line
 ```
 ### 增强的 LRC 格式
 
-增强型 LRC 格式是 Simple LRC 格式的扩展版本。它在格式中添加了一个字时间标签<mm:ss.xx>在上一个单词的末尾。
+增强型 LRC 格式是 Simple LRC 格式的扩展版本。它在格式中添加了一个字时间标签`<mm:ss.xx>`在上一个单词的末尾。
 
 ```
 [ar: Jade Michael]
