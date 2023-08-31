@@ -48,6 +48,6 @@ AI は Adobe Illustrator 独自のファイル形式で、PGF と同様のデュ
 * データ
 
 ## 参考文献
-※【Adobe Illustrator ファイル形式仕様書】(https://web.archive.org/web/20150906044646/http://partners.adobe.com/public/developer/ja/illustrator/sdk/AI7FileFormat.pdf)
+* [Adobe Illustrator ファイル形式仕様書](https://web.archive.org/web/20150906044646/http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf)
 * [PaintShopPro による AI ファイル形式](https://www.paintshoppro.com/ja/pages/ai-file/)
 
