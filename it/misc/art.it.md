@@ -37,6 +37,6 @@ Il formato del file ART contiene le seguenti informazioni:
 
 ## Riferimenti
 
-* [BERNINA](https://www.bernina.com/en-US/Home-United-Stati)
+* [BERNINA](https://www.bernina.com/en-US/Home-United-States)
 * [BERNINA Embroidery Software V8: su formati, estensioni e file](https://blog.bernina.com/en/2019/07/lesson-14-bernina-embroidery-software-v8/)
 
