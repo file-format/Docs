@@ -22,9 +22,9 @@ Soubor s příponou .nm2 je mapový soubor vytvořený navigačním systémem Na
 
 ## Formát souboru NM2 – Další informace
 
-Soubory NM2 jsou uloženy jako binární soubory a jejich vnitřní formát souboru/datová struktura není veřejně dostupná. Nejnovější verze Navitel ukládají data jako soubory .nm7. Navitel má k dispozici několik mapových souborů na jejich [webových stránkách](https://www.navitel.cz/cs/stažení/demo). [Dokumentace Navitel](https://www.navitel.cz/cs/stažení/dokumentace) poskytuje kompletní uživatelské příručky o používání navigačního systému pro různé typy zařízení a vozidel.
+Soubory NM2 jsou uloženy jako binární soubory a jejich vnitřní formát souboru/datová struktura není veřejně dostupná. Nejnovější verze Navitel ukládají data jako soubory .nm7. Navitel má k dispozici několik mapových souborů na jejich [webových stránkách](https://www.navitel.cz/en/downloads/demo). [Dokumentace Navitel](https://www.navitel.cz/cs/stažení/dokumentace) poskytuje kompletní uživatelské příručky o používání navigačního systému pro různé typy zařízení a vozidel.
 
 ## Reference
 
-* [Mapy pro Navitel Navigator 11.8](https://www.navitel.cz/cs/stažení/demo)
+* [Mapy pro Navitel Navigator 11.8](https://www.navitel.cz/en/downloads/demo)
 

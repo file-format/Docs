@@ -22,7 +22,7 @@ File dengan ekstensi .nm2 adalah file peta yang dibuat dengan sistem navigasi Na
 
 ## Format File NM2 - Informasi Lebih Lanjut
 
-File NM2 disimpan sebagai file biner dan format file/struktur data internalnya tidak tersedia untuk umum. Versi terbaru Navitel menyimpan data sebagai file .nm7. Ada beberapa file peta yang tersedia oleh Navitel di [situs web] mereka (https://www.navitel.cz/en/downloads/demo). [Dokumentasi Navitel](https://www.navitel.cz/en/downloads/documentation) menyediakan panduan pengguna lengkap tentang cara menggunakan sistem navigasinya untuk berbagai jenis perangkat dan kendaraan.
+File NM2 disimpan sebagai file biner dan format file/struktur data internalnya tidak tersedia untuk umum. Versi terbaru Navitel menyimpan data sebagai file .nm7. Ada beberapa file peta yang tersedia oleh Navitel di [situs web](https://www.navitel.cz/en/downloads/demo) mereka. [Dokumentasi Navitel](https://www.navitel.cz/en/downloads/documentation) menyediakan panduan pengguna lengkap tentang cara menggunakan sistem navigasinya untuk berbagai jenis perangkat dan kendaraan.
 
 ## Referensi
 
