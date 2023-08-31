@@ -108,5 +108,5 @@ name = { first = "トム", last = "ピット" }
 ## 参照 ##
 
 - [TOML - ウィキペディア](https://en.wikipedia.org/wiki/TOML)
-- [TOML](https://toml.io/ja/)
+- [TOML](https://toml.io/en/)
 
