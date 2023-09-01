@@ -57,7 +57,7 @@ El formato OpenDocument admite varias formas de dibujo que pueden ser utilizadas
 
 |Forma|Atributos asociados| elementos
 ---|---|---|
-Rectángulo - `<draw:rect> `|Posición, Tamaño, Estilo, Capa, Índice Z, Id., Id. de subtítulos, Anclaje de texto, fondo de tabla, Posición final del dibujo, Esquinas redondeadas|Título, Descripción larga, Oyentes de eventos, Puntos de unión, Texto
+Rectángulo - `<draw:rect>` |Posición, Tamaño, Estilo, Capa, Índice Z, Id., Id. de subtítulos, Anclaje de texto, fondo de tabla, Posición final del dibujo, Esquinas redondeadas|Título, Descripción larga, Oyentes de eventos, Puntos de unión, Texto
 Línea `<draw:line> `|Estilo, Capa, Índice Z, Id., Id. de subtítulos y transformación, Ancla de texto, fondo de tabla, posición final del dibujo, Punto de inicio, Punto final|Título, Descripción larga, Oyentes de eventos, Puntos de unión, Texto
 Polilínea `<draw:polyline> `| Posición, tamaño, cuadro de vista, estilo, capa, índice Z, ID, ID de título y transformación, anclaje de texto, fondo de tabla, posición final del dibujo, puntos | Título, descripción larga, detectores de eventos, puntos de unión, texto
 Polígono `<draw:polygon> `|Posición, tamaño, cuadro de visualización, estilo, capa, índice Z, ID, ID de título y transformación, anclaje de texto, fondo de tabla, posición final del dibujo, puntos|Título, descripción larga, detectores de eventos, puntos de unión, texto

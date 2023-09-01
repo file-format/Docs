@@ -57,7 +57,7 @@ Das OpenDocument-Format unterstützt mehrere Zeichnungsformen, die von jedem Dok
 
 |Form|Verknüpfte Attribute| Elemente
 ---|---|---|
-Rechteck - `<draw:rect> `|Position, Größe, Stil, Ebene, Z-Index, ID, Beschriftungs-ID, Textanker, Tabellenhintergrund, Endposition des Zeichnens, runde Ecken|Titel, lange Beschreibung, Ereignis-Listener, Klebepunkte, Text
+Rechteck - `<draw:rect>` |Position, Größe, Stil, Ebene, Z-Index, ID, Beschriftungs-ID, Textanker, Tabellenhintergrund, Endposition des Zeichnens, runde Ecken|Titel, lange Beschreibung, Ereignis-Listener, Klebepunkte, Text
 Zeile `<draw:line> `|Stil, Ebene, Z-Index, ID, Beschriftungs-ID und Transformation, Textanker, Tabellenhintergrund, Endposition des Zeichnens, Startpunkt, Endpunkt|Titel, lange Beschreibung, Ereignis-Listener, Klebepunkte, Text
 Polylinie `<draw:polyline> `| Position, Größe, Ansichtsfeld, Stil, Ebene, Z-Index, ID, Beschriftungs-ID und Transformation, Textanker, Tabellenhintergrund, Endposition des Zeichnens, Punkte| Titel, lange Beschreibung, Ereignis-Listener, Klebepunkte, Text
 Vieleck `<draw:polygon> `|Position, Größe, Ansichtsfeld, Stil, Ebene, Z-Index, ID, Beschriftungs-ID und Transformation, Textanker, Tabellenhintergrund, Endposition des Zeichnens, Punkte|Titel, lange Beschreibung, Ereignis-Listener, Klebepunkte, Text

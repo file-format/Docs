@@ -57,7 +57,7 @@ Formatul OpenDocument acceptă mai multe forme de desen care pot fi folosite de 
 
 |Forma|Atribute asociate| elemente
 ---|---|---|
-Dreptunghi - `<draw:rect> `|Poziție, Dimensiune, Stil, Strat, Index Z, ID, ID subtitrare, Ancoră text, fundal tabel, poziția finală a desenului, Colțuri rotunjite|Titlu, Descriere lungă, Ascultători de evenimente, Puncte de lipire, Text
+Dreptunghi - `<draw:rect>` |Poziție, Dimensiune, Stil, Strat, Index Z, ID, ID subtitrare, Ancoră text, fundal tabel, poziția finală a desenului, Colțuri rotunjite|Titlu, Descriere lungă, Ascultători de evenimente, Puncte de lipire, Text
 Linia `<draw:line> `|Stil, Layer, Z-Index, ID, Caption ID și Transformare, Ancoră text, fundal tabel, poziția finală a desenului, Punct de început, Punct final|Titlu, Descriere lungă, Ascultători de evenimente, Puncte de lipire, Text
 Polilinie `<draw:polyline> `| Poziție, Dimensiune, Casetă de vizualizare, Stil, Strat, Index Z, ID, ID-ul subtitrării și Transformare, Ancora text, fundalul tabelului, poziția finală a desenului, Puncte| Titlu, descriere lungă, ascultători de evenimente, puncte de lipire, text
 Poligonul `<draw:polygon> `|Poziție, Dimensiune, Casetă de vizualizare, Stil, Strat, Index Z, ID, ID-ul subtitrării și Transformare, Ancoră text, fundal tabel, poziție finală a desenului, Puncte|Titlu, Descriere lungă, Ascultători de evenimente, Puncte de lipire, Text

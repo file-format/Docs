@@ -57,7 +57,7 @@ OpenDocument-indeling ondersteunt verschillende tekenvormen die door elk type do
 
 |Vorm|Geassocieerde attributen| elementen
 ---|---|---|
-Rechthoek - `<draw:rect> `|Positie, grootte, stijl, laag, Z-index, ID, bijschrift-ID, tekstanker, tabelachtergrond, eindpositie tekenen, ronde hoeken|titel, lange beschrijving, gebeurtenisluisteraars, lijmpunten, tekst
+Rechthoek - `<draw:rect>` |Positie, grootte, stijl, laag, Z-index, ID, bijschrift-ID, tekstanker, tabelachtergrond, eindpositie tekenen, ronde hoeken|titel, lange beschrijving, gebeurtenisluisteraars, lijmpunten, tekst
 Lijn `<draw:line> `|Stijl, laag, Z-index, ID, bijschrift-ID en transformatie, tekstanker, tabelachtergrond, eindpositie tekenen, startpunt, eindpunt|Titel, lange beschrijving, gebeurtenisluisteraars, lijmpunten, tekst
 Polylijn `<draw:polyline> `| Positie, grootte, weergavekader, stijl, laag, Z-index, ID, bijschrift-ID en transformatie, tekstanker, tabelachtergrond, eindpositie tekenen, punten| Titel, lange beschrijving, luisteraars van gebeurtenissen, lijmpunten, tekst
 Veelhoek `<draw:polygon> `|Positie, grootte, weergavevak, stijl, laag, Z-index, ID, bijschrift-ID en transformatie, tekstanker, tabelachtergrond, eindpositie tekenen, punten|titel, lange beschrijving, gebeurtenisluisteraars, lijmpunten, tekst

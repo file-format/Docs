@@ -57,7 +57,7 @@ Format OpenDocument obsługuje kilka kształtów rysunków, które mogą być u�
 
 |Kształt|Powiązane atrybuty| elementy
 ---|---|---|
-Prostokąt - `<draw:rect> `|Pozycja, rozmiar, styl, warstwa, indeks Z, identyfikator, identyfikator podpisu, zakotwiczenie tekstu, tło tabeli, pozycja końcowa rysowania, zaokrąglone rogi|tytuł, długi opis, detektory zdarzeń, punkty klejenia, tekst
+Prostokąt - `<draw:rect>` |Pozycja, rozmiar, styl, warstwa, indeks Z, identyfikator, identyfikator podpisu, zakotwiczenie tekstu, tło tabeli, pozycja końcowa rysowania, zaokrąglone rogi|tytuł, długi opis, detektory zdarzeń, punkty klejenia, tekst
 Linia `<draw:line> `|Styl, warstwa, indeks Z, identyfikator, identyfikator podpisu i transformacja, zakotwiczenie tekstu, tło tabeli, pozycja końcowa rysowania, punkt początkowy, punkt końcowy|tytuł, długi opis, detektory zdarzeń, punkty klejenia, tekst
 Polilinia `<draw:polyline> `| Pozycja, rozmiar, pole widoku, styl, warstwa, indeks Z, identyfikator, identyfikator podpisu i transformacja, zakotwiczenie tekstu, tło tabeli, pozycja końcowa rysowania, punkty| Tytuł, długi opis, słuchacze zdarzeń, punkty klejenia, tekst
 Wielokąt `<draw:polygon> `|Pozycja, rozmiar, pole widoku, styl, warstwa, indeks Z, identyfikator, identyfikator podpisu i transformacja, zakotwiczenie tekstu, tło tabeli, pozycja końcowa rysowania, punkty|tytuł, długi opis, detektory zdarzeń, punkty klejenia, tekst

@@ -57,7 +57,7 @@ OpenDocument formatı, herhangi bir belge türü tarafından kullanılabilen çe
 
 |Şekil|İlişkili Nitelikler| elementler
 ---|---|---|
-Dikdörtgen - `draw:rect `|Konum, Boyut, Stil, Katman, Z-Dizini, Kimlik, Başlık Kimliği, Metin bağlantısı, tablo arka planı, çizim bitiş konumu, Yuvarlak köşeler|Başlık, Uzun Açıklama, Olay Dinleyiciler, Tutkal Noktaları, Metin
+Dikdörtgen - `<draw:rect>` |Konum, Boyut, Stil, Katman, Z-Dizini, Kimlik, Başlık Kimliği, Metin bağlantısı, tablo arka planı, çizim bitiş konumu, Yuvarlak köşeler|Başlık, Uzun Açıklama, Olay Dinleyiciler, Tutkal Noktaları, Metin
 Satır `<draw:line> `|Stil, Katman, Z-Dizini, Kimlik, Başlık Kimliği ve Dönüşümü, Metin bağlantısı, tablo arka planı, çizim bitiş konumu, Başlangıç noktası, Bitiş Noktası|Başlık, Uzun Açıklama, Olay Dinleyiciler, Tutkal Noktaları, Metin
 Çoklu çizgi `draw:polyline | Konum, Boyut, Görünüm kutusu, Stil, Katman, Z-Dizini, Kimlik, Başlık Kimliği ve Dönüşümü, Metin bağlantısı, tablo arka planı, çizim bitiş konumu, Noktalar| Başlık, Uzun Açıklama, Olay Dinleyiciler, Tutkal Noktaları, Metin
 çokgen `draw:polygon `|Konum, Boyut, Görünüm kutusu, Stil, Katman, Z-Dizini, Kimlik, Başlık Kimliği ve Dönüşümü, Metin bağlantısı, tablo arka planı, çizim bitiş konumu, Noktalar|Başlık, Uzun Açıklama, Olay Dinleyiciler, Tutkal Noktaları, Metin
