@@ -21,7 +21,7 @@ Podczas tworzenia strony internetowej potrzeba wielu typów plików. Formaty pli
 
 Typowe rozszerzenia plików internetowych i powiązane z nimi formaty plików to **[HTML](/pl/web/html/)** (Hypertext Markup Language), **[ASP](/pl/web/asp/) (Active Server Pages)**, i **CSS** (kaskadowe arkusze stylów).
 
-Masz pytania dotyczące formatów plików internetowych? Odwiedź nasze [fora] społeczności (https://forum.fileformat.com/c/web/13), aby skorzystać z wiedzy ekspertów ds. formatów plików.
+Masz pytania dotyczące formatów plików internetowych? Odwiedź nasze [fora](https://forum.fileformat.com/c/web/13) społeczności, aby skorzystać z wiedzy ekspertów ds. formatów plików.
 
 ## Lista rozszerzeń plików internetowych i powiązanych formatów plików
 

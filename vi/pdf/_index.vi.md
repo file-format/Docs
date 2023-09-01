@@ -112,7 +112,7 @@ Các toán tử đồ họa được sử dụng trong luồng nội dung PDF m�
 
 ## Người giới thiệu ##
 
-* [Định dạng tệp PDF: Cấu trúc cơ bản](https://resources.infosecinst acad.com/pdf-file-format-basic-structure/)
+* [Định dạng tệp PDF: Cấu trúc cơ bản](https://resources.infosecinstitute.com/topics/hacking/pdf-file-format-basic-structure/)
 * [PDF - Wikipedia](https://en.wikipedia.org/wiki/PDF)
 * [Tham khảo PDF - Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 

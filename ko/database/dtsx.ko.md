@@ -29,7 +29,7 @@ DTSX에서 설명하는 데이터 흐름은 다음 이미지와 같습니다.
 
 {{< figure src="../DataFlowDTSX.png" alt="데이터 흐름 DTSX" >}}
 
-DTSX는 [XML](/ko/web/xml/) 기반이며 [MS-DTSX]https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd) 에 문서화되어 있습니다. DTSX XML의 향상된 리팩토링은 구조에 대한 새 속성, 명명된 속성을 상위 XML 속성으로 대체, 대부분의 속성 값에 대한 기본값 지정, 상위 요소 내부에 반복되는 요소 배치를 포함하는 DTSX 2.0입니다. DTSX 구조는 이러한 [XML 스키마](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1)를 사용하여 설명되며 구조 형식은 다음과 같습니다. 셀러 텍스트 XML.
+DTSX는 [XML](/ko/web/xml/) 기반이며 [MS-DTSX](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd) 에 문서화되어 있습니다. DTSX XML의 향상된 리팩토링은 구조에 대한 새 속성, 명명된 속성을 상위 XML 속성으로 대체, 대부분의 속성 값에 대한 기본값 지정, 상위 요소 내부에 반복되는 요소 배치를 포함하는 DTSX 2.0입니다. DTSX 구조는 이러한 [XML 스키마](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc)를 사용하여 설명되며 구조 형식은 다음과 같습니다. 셀러 텍스트 XML.
 
 ## 참고문헌
 

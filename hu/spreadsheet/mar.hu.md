@@ -28,5 +28,5 @@ A MAR fájlok bináris fájlokként kerülnek mentésre olyan védett fájlform�
 
 ## Hivatkozások
 
-* [Mariner Calc ](https://marinersoftware.com/product/calc-xls/)
+* N/A
 

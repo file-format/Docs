@@ -27,6 +27,6 @@ PET-Dateien werden als komprimierte Archive im Binärdateiformat auf Disc gespei
 
 ## Verweise
 
-* [WelpenLinux](https://en.wikipedia.org/wiki/Welpen_Linux)
+* [WelpenLinux](https://en.wikipedia.org/wiki/Puppy_Linux)
 * [Index der PuppyLinux-PET-Pakete](https://distro.ibiblio.org/puppylinux/pet-packages-lucid/)
 

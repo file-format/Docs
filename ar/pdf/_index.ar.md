@@ -112,7 +112,7 @@ PDF الخطي - لاستهداف مشاهدي PDF عبر الإنترنت ، ي
 
 ## مراجع ##
 
-* [تنسيق ملف PDF: البنية الأساسية](https://resources.infosecinstitute.com/pdf-file-format-basic-structure/)
+* [تنسيق ملف PDF: البنية الأساسية](https://resources.infosecinstitute.com/topics/hacking/pdf-file-format-basic-structure/)
 * [PDF - ويكيبيديا](https://en.wikipedia.org/wiki/PDF)
 * [مرجع PDF - Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 

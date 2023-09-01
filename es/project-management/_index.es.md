@@ -22,7 +22,7 @@
 
 Las extensiones de archivo comunes de gestión de proyectos y sus formatos de archivo asociados incluyen **[MPP](/es/project-management/mpp/)**, **[MPX](/es/project-management/mpx/)** y **[XER](/es/project-management/xer/)**.
 
-¿Tiene consultas relacionadas con los formatos de archivo de gestión de proyectos? Diríjase a los [foros] de nuestra comunidad (https://forum.fileformat.com/c/project-management/15) para beneficiarse del conocimiento compartido por los expertos en formato de archivo.
+¿Tiene consultas relacionadas con los formatos de archivo de gestión de proyectos? Diríjase a los [foros](https://forum.fileformat.com/c/project-management/15) de nuestra comunidad para beneficiarse del conocimiento compartido por los expertos en formato de archivo.
 
 ## Lista de extensiones de archivo de proyecto y formatos de archivo asociados
 

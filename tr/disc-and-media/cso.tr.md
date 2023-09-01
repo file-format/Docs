@@ -57,6 +57,5 @@ Veri blokları, sıkıştırılmamış veya sıkıştırılmış verilerden olu�
 
 ## Referanslar
 
-* [CSO - Wikipedia'dan](https://en.wikipedia.org/wiki/.CSO)
-
+* N/A
 

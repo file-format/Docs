@@ -68,5 +68,5 @@ L'architettura dello schema dei dati di IFC definisce quattro livelli concettual
 
 ## Riferimenti ##
 
-* [Classi della Fondazione dell'Industria - Di Wikipedia](https://en.wikipedia.org/wiki/Classi della Fondazione_Industria)
+* [Classi della Fondazione dell'Industria - Di Wikipedia](https://en.wikipedia.org/wiki/Industry_Foundation_Classes)
 

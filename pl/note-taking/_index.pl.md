@@ -21,7 +21,7 @@ Pliki programów do robienia notatek zawierają sekcje i strony do przechowywani
 
 Typowe rozszerzenia plików programu OneNote i powiązane z nimi formaty plików obejmują **[.ONE](/pl/note-taking/one/)** i jego plik spisu treści **[.ONETOC2](/pl/note-taking/onetoc2/)** .
 
-Masz pytania dotyczące formatów plików programu Notes? Odwiedź nasze [fora] społeczności (https://forum.fileformat.com/c/note-taking/23), aby skorzystać z wiedzy ekspertów ds. formatów plików.
+Masz pytania dotyczące formatów plików programu Notes? Odwiedź nasze [fora](https://forum.fileformat.com/c/note-taking/23) społeczności, aby skorzystać z wiedzy ekspertów ds. formatów plików.
 
 ## Lista rozszerzeń plików z notatkami i powiązanych formatów plików
 Poniżej znajduje się lista popularnych formatów plików do robienia notatek wraz z ich rozszerzeniami.

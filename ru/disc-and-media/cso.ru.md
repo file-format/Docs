@@ -57,6 +57,5 @@
 
 ## использованная литература
 
-* [CSO - из Википедии](https://en.wikipedia.org/wiki/.CSO)
-
+* N/A
 

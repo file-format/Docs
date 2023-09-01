@@ -24,7 +24,7 @@ VHDX-Dateien können mit Hyper-V Manager in [VHD](/de/disc-and-media/vhd/) oder 
 
 ## VHDX-Dateiformat – Weitere Informationen
 
-Die Details zum VHDX-Dateiformat sind vollständig dokumentiert und online verfügbar als [VHDX File Format Specifications](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477 ) in der Microsoft-Dokumentation. Es ist eine Erweiterung des VHD-Formats und enthält erweiterte Funktionen. Das VHDX-Dateiformat bietet zusätzliche Funktionen, die auf den Ebenen der virtuellen Festplatte und der virtuellen Festplattendatei verfügbar sind. Es ist optimierter und liefert bessere Ergebnisse für die Konfiguration und die Fähigkeiten der Speicherhardware. VHDX-Dateien können geöffnet werden
+Die Details zum VHDX-Dateiformat sind vollständig dokumentiert und online verfügbar als [VHDX File Format Specifications](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477) in der Microsoft-Dokumentation. Es ist eine Erweiterung des VHD-Formats und enthält erweiterte Funktionen. Das VHDX-Dateiformat bietet zusätzliche Funktionen, die auf den Ebenen der virtuellen Festplatte und der virtuellen Festplattendatei verfügbar sind. Es ist optimierter und liefert bessere Ergebnisse für die Konfiguration und die Fähigkeiten der Speicherhardware. VHDX-Dateien können geöffnet werden
 
 ### Unterstützung für virtuelle Festplatten in VHDX
 

@@ -68,7 +68,7 @@ Altere a extensão do arquivo executável de .exe para .scr. Assim, o arquivo SC
 
 ## Referências
 
-* [Protetor de tela](https://en.wikipedia.org/wiki/Protetor de tela)
+* [Protetor de tela](https://en.wikipedia.org/wiki/Screensaver)
 * [Escreva um protetor de tela que realmente funcione](https://www.codeproject.com/Articles/14081/Write-a-Screensaver-that-Actually-Works)
 
 

@@ -70,7 +70,7 @@ Nagłówek zaczyna się od 4-bajtowego magicznego słowa **!BDN** reprezentowane
 |bidNextP (Unicode: 8 bajtów; ANSI: 4 bajty)|Następna strona BID. Strony posiadają specjalny licznik do przydzielania wartości bidIndex. Z tego licznika przydzielana jest wartość bidIndex dla BID-ów dla stron.
 |bidNextB (tylko 4 bajty ANSI): |Następny BID. Ta wartość jest licznikiem monotonicznym, który wskazuje BID do przypisania dla następnego przydzielonego bloku. Wartości BID zwiększają się o 4. Więcej informacji znajduje się w sekcji 2.2.2.2.
 |dwUnique (4 bajty)|Jest to monotonicznie rosnąca wartość, która jest modyfikowana za każdym razem, gdy modyfikowana jest struktura HEADER pliku PST. Funkcją tej wartości jest zapewnienie unikalnej wartości i zapewnienie, że CRC HEADER będą różne po każdej modyfikacji nagłówka.
-|rgnid[](128 bajtów)|Stała tablica 32 identyfikatorów NID, z których każdy odpowiada jednemu z 32 możliwych typów NID_TYPE (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE, NID_TYPE_ASSOC_MESSAGE)
+|rgnid[]   (128 bajtów)|Stała tablica 32 identyfikatorów NID, z których każdy odpowiada jednemu z 32 możliwych typów NID_TYPE (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE, NID_TYPE_ASSOC_MESSAGE)
 |qwNiewykorzystane (8 bajtów)|Niewykorzystane miejsce; MUSI być ustawiony na zero. Tylko format pliku PST Unicode.
 |root (Unicode: 72 bajty; ANSI: 40 bajtów)|Struktura ROOT (sekcja 2.2.2.5).
 |dwAlign (4 bajty)|Niewykorzystane bajty wyrównania; MUSI być ustawiony na zero. Tylko format pliku PST Unicode.

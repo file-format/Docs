@@ -112,7 +112,7 @@ Grafické operátory používané v tocích obsahu PDF popisují vzhled stránek
 
 ## Reference ##
 
-* [Formát souboru PDF: Základní struktura](https://resources.infosecinstitute.com/pdf-file-format-basic-structure/)
+* [Formát souboru PDF: Základní struktura](https://resources.infosecinstitute.com/topics/hacking/pdf-file-format-basic-structure/)
 * [PDF – Wikipedie](https://en.wikipedia.org/wiki/PDF)
 * [PDF Reference – Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 

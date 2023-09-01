@@ -28,5 +28,5 @@ Fișierele MAR sunt salvate ca fișiere binare într-un format de fișier propri
 
 ## Referințe
 
-* [Mariner Calc ](https://marinersoftware.com/product/calc-xls/)
+* N/A
 

@@ -57,6 +57,5 @@ Die Datenblöcke umfassen die unkomprimierten oder komprimierten Daten. Die Grö
 
 ## Verweise
 
-* [CSO - von Wikipedia](https://en.wikipedia.org/wiki/.CSO)
-
+* N/A
 

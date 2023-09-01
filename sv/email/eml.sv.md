@@ -44,6 +44,7 @@ En EML-fil består av rubrikinformation och eventuellt meddelandetext. Varje rub
 
 **Exempelhuvud**
 
+```
 Från:<John@bmw.eml.light.com>
 
 Till:<Andy@fileformat.com>
@@ -51,6 +52,7 @@ Till:<Andy@fileformat.com>
 Datum: tors 8 mars 2018 10:43:37 +0100
 
 Ämne: bmw eml light
+```
 
 ### Meddelandetext ###
 

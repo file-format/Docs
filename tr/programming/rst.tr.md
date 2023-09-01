@@ -18,7 +18,7 @@
 
 ## RST dosyası nedir?
 
-Bir RST dosyası, öncelikle Python programlama topluluğunda kullanılan bir teknik dokümantasyon dosyası biçimidir. Dokümantasyon oluşturmak için düz metin belgelerine stiller ve biçimlendirme uygulayan reStructuredText biçimlendirme dilinde yazılmış bir metin dosyasıdır. RST dosyaları, uygulamanın teknik belgelerini oluşturmak için Python programları kodundaki yorumları ve diğer bilgileri kullanır. Ancak bunlar, basit web sayfalarına ve [e-Kitaplara](/tr/e-kitap/) dönüştürülebilen metinler de içerebilir. RST dosyalarını açmak için Github Atom, GNU Emacs (platformlar arası), Microsoft Notepad (Windows), Apple TextEdit (Mac) ve Vim (Linux) gibi metin editörleri kullanılabilir.
+Bir RST dosyası, öncelikle Python programlama topluluğunda kullanılan bir teknik dokümantasyon dosyası biçimidir. Dokümantasyon oluşturmak için düz metin belgelerine stiller ve biçimlendirme uygulayan reStructuredText biçimlendirme dilinde yazılmış bir metin dosyasıdır. RST dosyaları, uygulamanın teknik belgelerini oluşturmak için Python programları kodundaki yorumları ve diğer bilgileri kullanır. Ancak bunlar, basit web sayfalarına ve [e-Kitaplara](/tr/ebook/) dönüştürülebilen metinler de içerebilir. RST dosyalarını açmak için Github Atom, GNU Emacs (platformlar arası), Microsoft Notepad (Windows), Apple TextEdit (Mac) ve Vim (Linux) gibi metin editörleri kullanılabilir.
 
 ## RST Dosya Biçimi
 

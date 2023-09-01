@@ -19,7 +19,7 @@
 
 ## Wat is een DWT-bestand?
 
-Een DWT-bestand is een [AutoCAD](https://www.autodesk.com/) tekeningsjabloonbestand dat wordt gebruikt als starter voor het maken van tekeningen die kunnen worden opgeslagen als [DWG](/nl/cad/dwg/)-bestanden. Dergelijke sjabloonbestanden bieden initiële instellingen zoals eenheidstypen, vereiste precisie, titelblokken, laagnamen, lijntypen en andere soortgelijke informatie voor laterale conversie naar juiste tekenbestanden. Zowel AutoCAD als CoreCAD kunnen worden gebruikt om de sjabloonbestanden te lezen en verder te gebruiken. In eenvoudige bewoordingen is een DWT een DWG met vooraf gedefinieerde alleen-lezen attributen op dezelfde manier als een MSWord [DOT](/nl/word-processing/dot/)-bestand is naar een [DOC](/nl/word-processing/doc /) het dossier.
+Een DWT-bestand is een [AutoCAD](https://www.autodesk.com/) tekeningsjabloonbestand dat wordt gebruikt als starter voor het maken van tekeningen die kunnen worden opgeslagen als [DWG](/nl/cad/dwg/)-bestanden. Dergelijke sjabloonbestanden bieden initiële instellingen zoals eenheidstypen, vereiste precisie, titelblokken, laagnamen, lijntypen en andere soortgelijke informatie voor laterale conversie naar juiste tekenbestanden. Zowel AutoCAD als CoreCAD kunnen worden gebruikt om de sjabloonbestanden te lezen en verder te gebruiken. In eenvoudige bewoordingen is een DWT een DWG met vooraf gedefinieerde alleen-lezen attributen op dezelfde manier als een MSWord [DOT](/nl/word-processing/dot/)-bestand is naar een [DOC](/nl/word-processing/doc/) het dossier.
 
 ## DWT-bestandsindeling
 

@@ -22,7 +22,7 @@ Un archivo de mapa GIS (Sistema de Información Geográfica) consiste en informa
 
 Las extensiones de archivo GIS comunes y sus formatos de archivo incluyen **[GPX](/es/gis/gpx/)** (formato de archivo de intercambio GPS), **[KML](/es/gis/kml/)** (archivo de lenguaje de marcado Keyhole) y **[SHP](/es/gis/shp/)** (archivo ESRI Shapefile).
 
-¿Tiene consultas relacionadas con los formatos de archivo GIS? Diríjase a los [foros] de nuestra comunidad (https://forum.fileformat.com/c/gis/7) para beneficiarse del conocimiento compartido por los expertos en formato de archivo.
+¿Tiene consultas relacionadas con los formatos de archivo GIS? Diríjase a los [foros](https://forum.fileformat.com/c/gis/7) de nuestra comunidad para beneficiarse del conocimiento compartido por los expertos en formato de archivo.
 
 ## Lista de extensiones de archivo GIS y formatos de archivo asociados
 A continuación se muestra una lista de formatos de archivo GIS comunes junto con sus extensiones de archivo.

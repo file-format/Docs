@@ -22,5 +22,5 @@ Microsfot Visio hadir sebagai bagian dari paket Microsoft Office dan digunakan u
 
 Format file Visio menyertakan tipe file seperti **[VSDX](/id/visio/vsdx/)**, **[VSX](/id/visio/vsx/)**, VTX, VDX, **[VSSX](/id/visio/vssx/)**, VSTX, VSDM, VSSM, VSTM yang disimpan ke disk saat pengguna membuat proyek di Microsoft Visio dan menyimpannya ke disk. Berikut adalah daftar Format File Publisher.
 
-Punya pertanyaan terkait format file Visio? Buka [forum] komunitas kami (https://forum.fileformat.com/c/visio/31) untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
+Punya pertanyaan terkait format file Visio? Buka [forum](https://forum.fileformat.com/c/visio/31) komunitas kami untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
 

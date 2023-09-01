@@ -23,7 +23,7 @@ Az ASC-fájl egy ActionScript programozási nyelven létrehozott **script** fáj
 
 ## ASC fájlformátum – További információ
 
-Az ASC-fájlok szöveges fájlokként kerülnek mentésre, amelyek megnyithatók és szerkeszthetők az [Adobe Media Encoder] segítségével (https://www.adobe.com/products/media-encoder.html). Ezeket szöveges fájlként hozzák létre és mentik, és bármilyen szövegszerkesztővel, például Microsoft Notepad, Notepad++ és Apple TextEdit segítségével megnyithatók. Az ASC-fájl alapértelmezés szerint lefut, amikor a Flash Media Server fut és az alkalmazás fut.
+Az ASC-fájlok szöveges fájlokként kerülnek mentésre, amelyek megnyithatók és szerkeszthetők az [Adobe Media Encoder](https://www.adobe.com/products/media-encoder.html) segítségével. Ezeket szöveges fájlként hozzák létre és mentik, és bármilyen szövegszerkesztővel, például Microsoft Notepad, Notepad++ és Apple TextEdit segítségével megnyithatók. Az ASC-fájl alapértelmezés szerint lefut, amikor a Flash Media Server fut és az alkalmazás fut.
 
 
 ## Hivatkozási szám

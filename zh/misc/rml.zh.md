@@ -19,7 +19,7 @@
 
 ## 什么是一 .rml 文件？
 
-RML 文件是带有 [Elixir Repertoire](https://elixirtech.com/repertoire-2/) 报告引擎的报告模板文件。模板文件用于生成数据源连接到 Elixir 文件系统的报告。数据在 RML 模板文件中读取和填充，并且可以导出为多种不同的文件格式，例如 [PDF](/zh/pdf/)、[RTF](/zh/word-processing/rtf/) 和电子表格 [XLS] （/电子表格/xls/）。 Elixir Repertoire 报告引擎可以连接到各种 JDBC 数据源。
+RML 文件是带有 [Elixir Repertoire](https://elixirtech.com/repertoire-2/) 报告引擎的报告模板文件。模板文件用于生成数据源连接到 Elixir 文件系统的报告。数据在 RML 模板文件中读取和填充，并且可以导出为多种不同的文件格式，例如 [PDF](/zh/pdf/)、[RTF](/zh/word-processing/rtf/) 和电子表格 [XLS] （/spreadsheet/xls/）。 Elixir Repertoire 报告引擎可以连接到各种 JDBC 数据源。
 
 ## RML 文件格式
 

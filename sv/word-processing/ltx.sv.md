@@ -23,7 +23,7 @@ En post med .ltx-tillägget är ett bokbaserat märkningsspråksdokument som gjo
 
 ## LTX filformat
 
-LATEX-dokument är vanliga textposter som kan ändras i vilken ordbehandlare som helst. Tex typsättningsramverk används vanligtvis i forskarsamhället, särskilt inom områdena matematik, mjukvaruteknik, ekonomiska aspekter, design och likaså andra. Den innehåller ett gäng kommandon som normalt börjar med en sned skiljeteckenlinje (/sv/) och samlas med vågiga stöd. Anmärkningar/kommentarer i en LTX-fil börjar och slutar med tvåfaldig procent av bilder (%%). LTX-filer liknar filen [.tex](/sv/page-description-language/tex/) och [.latex](/sv/ord-processing/latex/) och du hittar ofta latexdokument sparade i dessa format.,
+LATEX-dokument är vanliga textposter som kan ändras i vilken ordbehandlare som helst. Tex typsättningsramverk används vanligtvis i forskarsamhället, särskilt inom områdena matematik, mjukvaruteknik, ekonomiska aspekter, design och likaså andra. Den innehåller ett gäng kommandon som normalt börjar med en sned skiljeteckenlinje (/sv/) och samlas med vågiga stöd. Anmärkningar/kommentarer i en LTX-fil börjar och slutar med tvåfaldig procent av bilder (%%). LTX-filer liknar filen [.tex](/sv/page-description-language/tex/) och [.latex](/sv/word-processing/latex/) och du hittar ofta latexdokument sparade i dessa format.,
 
 ### LTX-exempel
 

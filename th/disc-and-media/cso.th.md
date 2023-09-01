@@ -57,6 +57,5 @@
 
 ## อ้างอิง
 
-* [CSO - โดย Wikipedia](https://en.wikipedia.org/wiki/.CSO)
-
+* N/A
 

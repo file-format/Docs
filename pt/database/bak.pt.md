@@ -56,5 +56,5 @@ Uma marca de arquivo é usada para separação lógica e acesso rápido em uma m
 
 ## Referências ##
 
-* [[MS-BCP]: Formato de cópia em massa](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5?redirectedfrom=MSDN)
+* [[MS-BCP]: Formato de cópia em massa](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
 

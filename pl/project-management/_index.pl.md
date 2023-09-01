@@ -20,9 +20,9 @@
 
 Czy kiedykolwiek natknąłeś się i zastanawiałeś, co to jest plik MPP? MPP i inne podobne pliki to formaty plików projektu tworzone przez oprogramowanie do zarządzania projektami. Plik projektu to zbiór zadań, zasobów i harmonogramów w celu uzyskania wymiernego wyniku w postaci produktu lub usługi. Wykresy Gantta służą do ustalenia wizualnego przepływu działań w czasie dla zidentyfikowanych zadań, które można również wyeksportować do formatu PDF lub obrazów w celu dokumentacji.
 
-Typowe rozszerzenia plików zarządzania projektami i powiązane z nimi formaty plików to **[MPP](/pl/project-management/mpp/)**, **[MPX](/pl/project-management/mpx/)** i **[XER](/pl/zarządzanie-projektami/xer/)**.
+Typowe rozszerzenia plików zarządzania projektami i powiązane z nimi formaty plików to **[MPP](/pl/project-management/mpp/)**, **[MPX](/pl/project-management/mpx/)** i **[XER](/pl/project-management/xer/)**.
 
-Masz pytania dotyczące formatów plików zarządzania projektami? Odwiedź nasze [fora] społeczności (https://forum.fileformat.com/c/project-management/15), aby skorzystać z wiedzy ekspertów ds. formatów plików.
+Masz pytania dotyczące formatów plików zarządzania projektami? Odwiedź nasze [fora](https://forum.fileformat.com/c/project-management/15) społeczności, aby skorzystać z wiedzy ekspertów ds. formatów plików.
 
 ## Lista rozszerzeń plików projektu i powiązanych formatów plików
 

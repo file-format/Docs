@@ -28,5 +28,5 @@ ART файловете бяха записани на диск като двои
 ## Препратки
 
 * [ArtCAM Autodesk](https://www.autodesk.com/products/artcam/overview)
-* [Autodesk ArtCAM не може да отваря художествени файлове, направени в предишни наследени версии](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in-previous-legacy-versions.html)
+
 

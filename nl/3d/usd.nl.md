@@ -133,6 +133,6 @@ def Sphere "Planet" (
 ```
 ## Referenties ##
 
-* [Inleiding tot USD](https://graphics.pixar.com/usd/docs/Introductie-to-USD.html)
+* [Inleiding tot USD](https://openusd.org/release/intro.html)
 * [USD API-referentie](https://openusd.org/release/apiDocs.html)
 

@@ -22,7 +22,7 @@ Plik FREEWAY to plik informacji o ustawieniach utworzony i używany przez oprogr
 
 ## Format pliku FREEWAY
 
-Pliki FREEWAY są zapisywane w zastrzeżonym formacie pliku, a szczegóły ich wewnętrznego formatu nie są publicznie dostępne. Nie zawiera żadnych rzeczywistych zasobów używanych przez witrynę, ale zawiera układ witryny i łącza do różnych właściwości. Rzeczywiste zasoby i strony witryny są zapisywane w folderach „Media” i „Folder witryny”, które znajdują się w tym samym folderze, co plik FREEWAY. Dokument FREEWAY można wyeksportować do różnych formatów, w tym [HTML](/pl/web/html/), [JPEG](/pl/image/jpeg/), [PNG](/pl/image/png/), [BMP](/pl/ obraz/bmp/) i [GIF](/pl/obraz/gif/).
+Pliki FREEWAY są zapisywane w zastrzeżonym formacie pliku, a szczegóły ich wewnętrznego formatu nie są publicznie dostępne. Nie zawiera żadnych rzeczywistych zasobów używanych przez witrynę, ale zawiera układ witryny i łącza do różnych właściwości. Rzeczywiste zasoby i strony witryny są zapisywane w folderach „Media” i „Folder witryny”, które znajdują się w tym samym folderze, co plik FREEWAY. Dokument FREEWAY można wyeksportować do różnych formatów, w tym [HTML](/pl/web/html/), [JPEG](/pl/image/jpeg/), [PNG](/pl/image/png/), [BMP](/pl/image/bmp/) i [GIF](/pl/image/gif/).
 
 ## Bibliografia
 

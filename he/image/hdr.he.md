@@ -36,12 +36,12 @@
 
 ## ממשקי API של HDR/HDRI בקוד פתוח
 
-* **[imageinfo](https://github.com/xiaozhuai/imageinfo )** - ספריית כותרות בודדות [C++](/he/programming/cpp/) סופר מהירה בפלטפורמות כדי לקבל גודל ופורמט תמונה ללא טעינה/פענוח.
+* **[imageinfo](https://github.com/xiaozhuai/imageinfo)** - ספריית כותרות בודדות [C++](/he/programming/cpp/) סופר מהירה בפלטפורמות כדי לקבל גודל ופורמט תמונה ללא טעינה/פענוח.
 * **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - ספריית חלודה לקבלת גודל ופורמט תמונה ללא טעינה/פענוח. תומך ב-[.avif](/he/image/avif/), [.bmp](/he/image/bmp/), [.cur](/he/image/cur/), [.dds](/he/image/dds/), [. gif](/he/image/gif/), hdr (pic), [heic (heif)](/he/image/heic/), [.icns](/he/image/icns/), [.ico](/he/image/ico /), [.jp2](/he/image/jp2/), [jpeg (jpg)](/he/image/jpeg/), [jpx](/he/image/jpx/), ktx, [png](/he/image/png /), [psd](/he/image/psd/), qoi, tga, tiff (tif) ו-webp.
 * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** - יישום Java של HdrHistogram.
 
 ## הפניות
 
 * [Radiance HDR](http://paulbourke.net/dataformats/pic/)
-* [imageinfo](https://github.com/xiaozhuai/imageinfo )
+* [imageinfo](https://github.com/xiaozhuai/imageinfo)
 

@@ -64,6 +64,6 @@ Katalogen som finns i en ICO-fil, representerad som ICONDIR-struktur, innehålle
 
 ## Referenser ##
 
-* [ICO - av Wikipedia](https://en.wikipedia.org/wiki/ICO_(filformat))
+* [ICO - av Wikipedia](https://en.wikipedia.org/wiki/ICO_(file_format))
 * [IANA - vnd.microsoft.icon](http://www.iana.org/assignments/media-types/image/vnd.microsoft.icon)
 

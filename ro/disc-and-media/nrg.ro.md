@@ -58,6 +58,6 @@ Bucățile de final înseamnă semnalele că acum nu mai există bucăți care t
 
 ## Referințe ##
 
-* [NRG - de Wikipedia](https://en.wikipedia.org/wiki/NRG_(format_fișier))
+* [NRG - de Wikipedia](https://en.wikipedia.org/wiki/NRG_(file_format))
 
 

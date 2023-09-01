@@ -18,7 +18,7 @@
 
 ## Tệp PPP là gì?
 
-Tệp PPP là tệp dự án đồ họa được tạo bằng Phần mềm NCH PhotoPad Editor. Nó bao gồm hình ảnh đã chỉnh sửa trong PhotoPad cùng với bản ghi tất cả các chỉnh sửa được thực hiện cho các thành phần khác nhau (chẳng hạn như lớp, văn bản, điều chỉnh) của hình ảnh đó. Điều này cho phép bạn trở lại giai đoạn chỉnh sửa trước đó và bắt đầu chỉnh sửa từ thời điểm đó. Các tệp Dự án PPP có thể được mở trong phần mềm PhotoPad và có thể được xuất sang các định dạng tệp hình ảnh phổ biến như [JPG](/vi/image/jpeg/), [PNG](/vi/image/png/), [TIFF](/vi/image/tiff /), [GIF](/vi/image/gif/), và [PSD](/vi/image/psd/).
+Tệp PPP là tệp dự án đồ họa được tạo bằng Phần mềm NCH PhotoPad Editor. Nó bao gồm hình ảnh đã chỉnh sửa trong PhotoPad cùng với bản ghi tất cả các chỉnh sửa được thực hiện cho các thành phần khác nhau (chẳng hạn như lớp, văn bản, điều chỉnh) của hình ảnh đó. Điều này cho phép bạn trở lại giai đoạn chỉnh sửa trước đó và bắt đầu chỉnh sửa từ thời điểm đó. Các tệp Dự án PPP có thể được mở trong phần mềm PhotoPad và có thể được xuất sang các định dạng tệp hình ảnh phổ biến như [JPG](/vi/image/jpeg/), [PNG](/vi/image/png/), [TIFF](/vi/image/tiff/), [GIF](/vi/image/gif/), và [PSD](/vi/image/psd/).
 
 ### Định dạng tệp PPP
 

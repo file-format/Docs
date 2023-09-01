@@ -22,7 +22,7 @@ En fil med filändelsen .dsc är en textbeskrivningsfil som innehåller informat
 
 ## DSC-filformat - Mer information
 
-DSC-filer skapas och lagras på skivan som vanliga textfiler. Dessa kan redigeras genom att öppna i alla kompatibla textredigerare som Microsoft Notepad. DSC följer vanligt textformat som liknar [.txt](/sv/word-processing/dsc/)-filer och kan fyllas i med alla detaljer om programvaran enligt programvarans funktionalitet eller instruktioner.
+DSC-filer skapas och lagras på skivan som vanliga textfiler. Dessa kan redigeras genom att öppna i alla kompatibla textredigerare som Microsoft Notepad. DSC följer vanligt textformat som liknar [.txt](/sv/word-processing/txt/)-filer och kan fyllas i med alla detaljer om programvaran enligt programvarans funktionalitet eller instruktioner.
 
 ## Referenser
 

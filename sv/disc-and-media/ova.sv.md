@@ -33,6 +33,6 @@ Som nämnts är en OVA-fil en arkivfil som skapas med hjälp av OVF-katalogen i 
 
 ## Referenser
 
-* [OVA-filformat och mallar](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-AE61948B-C2EE-436E-BAFB-3C7209088552.html )
+* [OVA-filformat och mallar](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-AE61948B-C2EE-436E-BAFB-3C7209088552.html)
 * [OVF-filformatsspecifikationer](https://products.conholdate.app/viewer/view/3XKCLQbwAw/open-virtualization-format-specification-dsp0243_1-1-0.pdf)
 

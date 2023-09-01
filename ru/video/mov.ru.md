@@ -91,7 +91,7 @@ Lock Count: 16-битное целое число со значением 0.
 * Транспортный поток видео — [TS](/ru/video/ts/)
 * Расширенный системный формат — [ASF](/ru/video/ts/)
 * Ogg Vorbis Audio - [OGG](/ru/audio/ogg/)
-* Аудио MP3 - [MP3](/ru/аудио/mp3/)
+* Аудио MP3 - [MP3](/ru/audio/mp3/)
 * Бесплатный аудиокодек без потерь — [FLAC](/ru/audio/flac/)
 * Аудио WAVE - [WAV](/ru/audio/wav/)
 

@@ -19,7 +19,7 @@
 
 ## Tệp XER là gì?
 
-Định dạng tệp XER là định dạng tệp dự án độc quyền được sử dụng bởi ứng dụng quản lý và lập kế hoạch dự án Primavera P6. Giống như định dạng tệp [MPP](/vi/project-manager/mpp/), định dạng tệp này lưu trữ dữ liệu liên quan đến lập kế hoạch dự án, chẳng hạn như nhiệm vụ, tài nguyên, tiến độ và tài liệu. Primavera được phát triển bởi Oracle và cung cấp khả năng lập kế hoạch dự án hoàn chỉnh, đồng thời được ứng dụng trong một số lĩnh vực thực tế như dầu khí, xây dựng, sản xuất, v.v. Nó giúp các nhà quản lý dự án lập kế hoạch, lên lịch và kiểm soát các chương trình quy mô lớn và các dự án riêng lẻ bằng cách tích hợp với hệ thống quản lý tài chính và quản lý nguồn nhân lực. Nhiều phần mềm và API có thể đọc và chuyển đổi các tệp XER sang các định dạng tệp dự án phổ biến khác như XML và MPP.
+Định dạng tệp XER là định dạng tệp dự án độc quyền được sử dụng bởi ứng dụng quản lý và lập kế hoạch dự án Primavera P6. Giống như định dạng tệp [MPP](/vi/project-management/mpp/), định dạng tệp này lưu trữ dữ liệu liên quan đến lập kế hoạch dự án, chẳng hạn như nhiệm vụ, tài nguyên, tiến độ và tài liệu. Primavera được phát triển bởi Oracle và cung cấp khả năng lập kế hoạch dự án hoàn chỉnh, đồng thời được ứng dụng trong một số lĩnh vực thực tế như dầu khí, xây dựng, sản xuất, v.v. Nó giúp các nhà quản lý dự án lập kế hoạch, lên lịch và kiểm soát các chương trình quy mô lớn và các dự án riêng lẻ bằng cách tích hợp với hệ thống quản lý tài chính và quản lý nguồn nhân lực. Nhiều phần mềm và API có thể đọc và chuyển đổi các tệp XER sang các định dạng tệp dự án phổ biến khác như XML và MPP.
 
 ## Định dạng tệp XER ##
 

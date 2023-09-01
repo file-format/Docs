@@ -58,6 +58,6 @@
 
 ## مراجع ##
 
-* [NRG - بواسطة Wikipedia](https://en.wikipedia.org/wiki/NRG_ (file_format))
+* [NRG - بواسطة Wikipedia](https://en.wikipedia.org/wiki/NRG_(file_format))
 
 

@@ -28,5 +28,5 @@ Các tệp MAR được lưu dưới dạng tệp nhị phân ở định dạng
 
 ## Người giới thiệu
 
-* [Mariner Calc ](https://marinersoftware.com/product/calc-xls/)
+* N/A
 

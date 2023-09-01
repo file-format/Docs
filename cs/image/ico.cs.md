@@ -64,6 +64,6 @@ Adresář obsažený v souboru ICO, reprezentovaný jako struktura ICONDIR, obsa
 
 ## Reference ##
 
-* [ICO – podle Wikipedie](https://en.wikipedia.org/wiki/ICO_(formát_souboru))
+* [ICO – podle Wikipedie](https://en.wikipedia.org/wiki/ICO_(file_format))
 * [IANA - vnd.microsoft.icon](http://www.iana.org/assignments/media-types/image/vnd.microsoft.icon)
 

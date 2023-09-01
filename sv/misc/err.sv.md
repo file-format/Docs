@@ -27,5 +27,5 @@ ERR-filer sparas på skiva som vanliga textfiler och kan även visas i en textre
 
 ## Referenser
 
-* [Improtance of the EndNote Data Folder](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= sv_US)
+* [Improtance of the EndNote Data Folder](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language=en_US)
 

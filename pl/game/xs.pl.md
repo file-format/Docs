@@ -34,5 +34,5 @@ Pliki XS są zapisywane jako zwykłe pliki tekstowe, które można otwierać i e
 ## Bibliografia
 
 * [Age of Empires III - Tematy](https://github.com/topics/aoe)
-* [Forum - Age of Empires III](https://forums.ageofempires.com/t/please-make-the-ai-fight-for-map-control-and-resources-long-post-but-worth- to/176307)
+* [Forum - Age of Empires III](https://forums.ageofempires.com/t/please-make-the-ai-fight-for-map-control-and-resources-long-post-but-worth-it/176307)
 

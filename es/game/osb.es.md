@@ -28,5 +28,5 @@ Los archivos OSB se almacenan como archivos de texto sin formato en el disco en 
 ## Referencias
 
 * [OSU! Juego de ritmo](https://osu.ppy.sh/home)
-* [Guión gráfico - ¡Osu!](https://osu.ppy.sh/wiki/en/Guión gráfico)
+* [Guión gráfico - ¡Osu!](https://osu.ppy.sh/wiki/en/Storyboard)
 

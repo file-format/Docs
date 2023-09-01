@@ -45,5 +45,5 @@ Il protocollo di torrent per lo scambio di dati tra utenti P2P è sicuro in quan
 
 ## Riferimenti
 
-* [File TORRENT - wikipedia](https://en.wikipedia.org/wiki/File_Torrent)
+* [File TORRENT - wikipedia](https://en.wikipedia.org/wiki/Torrent_file)
 

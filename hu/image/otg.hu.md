@@ -45,7 +45,7 @@ Az attribútumok, amelyek a `<style:handout-master> ` elemek a következők:
 
 |Elrendezés|Attribútum|Leírás
 ---|---|---|
-|Prezentációs oldal elrendezése|presentation:presentation-page-layout-name|Hivatkozások ide: `<style:presentation-page-layout> ` attribútum
+|Prezentációs oldal elrendezése|presentation:presentation-page-layout-name|Hivatkozások ide: `<style:presentation-page-layout>`  attribútum
 |Oldalelrendezés|`stílus:oldalelrendezés-név` | Meghatároz egy oldalelrendezést, amely tartalmazza a szóróanyag mesteroldalának méretét, szegélyét és tájolását.
 |Oldalstílus|`draw:style-name`|További formázási attribútumokat rendel a tájékoztató mesteroldalhoz egy rajzoldalstílus hozzárendelésével.|
 |Fejléc nyilatkozat| `presentation:use-header-name`| Megadja annak a fejlécmező-deklarációnak a nevét, amely a tájékoztató mesteroldalon megjelenő összes fejlécmezőhöz használatos.

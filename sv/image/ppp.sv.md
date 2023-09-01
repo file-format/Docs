@@ -18,7 +18,7 @@
 
 ## Vad är en PPP fil?
 
-En PPP-fil är en grafikprojektfil skapad med NCH PhotoPad Editor Software. Den består av den redigerade bilden i PhotoPad tillsammans med registreringen av alla redigeringar som gjorts av olika komponenter (som lager, text, justeringar) av den bilden. Detta låter dig gå tillbaka till ett tidigare redigeringssteg och börja redigera från den punkten. PPP-projektfiler kan öppnas i programvaran PhotoPad och kan exporteras till populära bildfilformat som [JPG](/sv/image/jpeg/), [PNG](/sv/image/png/), [TIFF](/sv/image/tiff /), [GIF](/sv/image/gif/) och [PSD](/sv/image/psd/).
+En PPP-fil är en grafikprojektfil skapad med NCH PhotoPad Editor Software. Den består av den redigerade bilden i PhotoPad tillsammans med registreringen av alla redigeringar som gjorts av olika komponenter (som lager, text, justeringar) av den bilden. Detta låter dig gå tillbaka till ett tidigare redigeringssteg och börja redigera från den punkten. PPP-projektfiler kan öppnas i programvaran PhotoPad och kan exporteras till populära bildfilformat som [JPG](/sv/image/jpeg/), [PNG](/sv/image/png/), [TIFF](/sv/image/tiff/), [GIF](/sv/image/gif/) och [PSD](/sv/image/psd/).
 
 ### PPP-filformat
 

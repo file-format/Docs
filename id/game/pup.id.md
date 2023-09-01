@@ -23,7 +23,7 @@ File PUP adalah file tambalan pembaruan sistem yang digunakan oleh perangkat lun
 
 ## Format File PUP - Informasi Lebih Lanjut
 
-File PUP disimpan ke disk dalam format file biner [terkompresi](/id/kompresi/). Namun, detail kompresi tidak tersedia untuk umum. Isi file PUP dapat diekstraksi menggunakan program PUP Extractor PS3 di OS Windows. Untuk memutakhirkan sistem perangkat lunak PS3, file PUP diunggah dan disimpan ke folder /PS3/UPDATE di mesin. Ini memungkinkan opsi pembaruan sistem menemukan file pemutakhiran firmware dan menjalankannya.
+File PUP disimpan ke disk dalam format file biner [terkompresi](/id/compression/). Namun, detail kompresi tidak tersedia untuk umum. Isi file PUP dapat diekstraksi menggunakan program PUP Extractor PS3 di OS Windows. Untuk memutakhirkan sistem perangkat lunak PS3, file PUP diunggah dan disimpan ke folder /PS3/UPDATE di mesin. Ini memungkinkan opsi pembaruan sistem menemukan file pemutakhiran firmware dan menjalankannya.
 
 ### Konvensi Penamaan Format File PUP
 

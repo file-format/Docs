@@ -22,7 +22,7 @@ Debe estar familiarizado con los archivos de extensión **PPTX** y **PPT**, esto
 
 Las extensiones de archivo de presentación comunes y sus formatos de archivo asociados incluyen **[PPTX](/es/presentation/pptx/)**, **[PPT](/es/presentation/ppt/)** y **[ODP](/es/presentation/odp /)**.
 
-¿Tiene consultas relacionadas con los formatos de archivo de presentación? Diríjase a los [foros] de nuestra comunidad (https://forum.fileformat.com/c/presentation/8) para beneficiarse del conocimiento compartido por los expertos en formato de archivo.
+¿Tiene consultas relacionadas con los formatos de archivo de presentación? Diríjase a los [foros](https://forum.fileformat.com/c/presentation/8) de nuestra comunidad para beneficiarse del conocimiento compartido por los expertos en formato de archivo.
 
 ## Lista de extensiones de archivo de presentación y formatos de archivo asociados
 

@@ -44,6 +44,7 @@ File EML terdiri dari informasi Header dan badan pesan opsional. Setiap baris he
 
 **Contoh Tajuk**
 
+```
 Dari:<John@bmw.eml.light.com>
 
 Ke:<Andy@fileformat.com>
@@ -51,6 +52,7 @@ Ke:<Andy@fileformat.com>
 Tanggal: Kam, 8 Mar 2018 10:43:37 +0100
 
 Subyek: lampu bmw eml
+```
 
 ### Badan Pesan ###
 

@@ -27,7 +27,7 @@ XAML là lựa chọn sử dụng trong các công nghệ .NET Framework 3.0 và
 
 ## Định dạng tệp XAML
 
-XAML hoàn toàn dựa trên định dạng XML. Thông số kỹ thuật ban đầu của [XAML Object Mapping](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) đã được xuất bản trong 2006, tiếp theo là [phiên bản] khác(https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) xuất bản năm 2006 2009. Các thông số kỹ thuật này xác định hai mô hình thông tin trừu tượng:
+XAML hoàn toàn dựa trên định dạng XML. Thông số kỹ thuật ban đầu của [XAML Object Mapping](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML%5D.pdf) đã được xuất bản trong 2006, tiếp theo là [phiên bản](https://download.microsoft.com/download/0/A/6/0A6F7755-9AF5-448B-907D-13985ACCF53E/%5BMS-XAML-2009%5D.pdf) khác xuất bản năm 2006 2009. Các thông số kỹ thuật này xác định hai mô hình thông tin trừu tượng:
 
 * Mô hình bộ thông tin lược đồ XAML
 * Mô hình bộ thông tin XAML

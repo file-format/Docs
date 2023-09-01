@@ -71,7 +71,7 @@ PFS ระบุสถานะการจัดสรรและกำหน�
 
 ## อ้างอิง
 
-* [ไฟล์ฐานข้อมูลและกลุ่มไฟล์](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?redirectedfrom=MSDN&view=sql-server-ver15)
-* [แยกและแนบฐานข้อมูล - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
+* [ไฟล์ฐานข้อมูลและกลุ่มไฟล์](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver16)
+* [แยกและแนบฐานข้อมูล - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server-ver15)
 * [การวิเคราะห์กายวิภาคของไฟล์ข้อมูล SQL Server](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

@@ -30,7 +30,7 @@
 
 ### تنسيق LRC بسيط
 
-تكون علامات وقت الخط بالتنسيق [mm: ss.xx] حيث mm هي دقائق و ss ثانية و xx جزء من مائة ثانية.
+تكون علامات وقت الخط بالتنسيق `[mm:ss.xx]` حيث mm هي دقائق و ss ثانية و xx جزء من مائة ثانية.
 
 ```
 [00:12.00]Line 1 lyrics
@@ -54,7 +54,7 @@ mm:ss.xxlast lyrics line
 ```
 ### تنسيق LRC المحسن
 
-تنسيق LRC المحسن هو نسخة موسعة من تنسيق Simple LRC. يضيف علامة وقت Word بالتنسيق<mm:ss.xx> في نهاية الكلمة السابقة.
+تنسيق LRC المحسن هو نسخة موسعة من تنسيق Simple LRC. يضيف علامة وقت Word بالتنسيق`<mm:ss.xx>` في نهاية الكلمة السابقة.
 
 ```
 [ar: Jade Michael]
@@ -71,5 +71,5 @@ mm:ss.xxlast lyrics line
 
 ## مراجع
 
-* [تنسيق ملف كلمات LRC - ويكيبيديا](https://en.wikipedia.org/wiki/LRC_ (file_format))
+* [تنسيق ملف كلمات LRC - ويكيبيديا](https://en.wikipedia.org/wiki/LRC_(file_format))
 

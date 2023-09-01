@@ -33,6 +33,6 @@ Như đã đề cập, tệp OVA là tệp lưu trữ được tạo bằng thư
 
 ## Người giới thiệu
 
-* [Mẫu và định dạng tệp OVA](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-AE61948B-C2EE-436E-BAFB-3C7209088552.html )
+* [Mẫu và định dạng tệp OVA](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-AE61948B-C2EE-436E-BAFB-3C7209088552.html)
 * [Thông số định dạng tệp OVF](https://products.conholdate.app/viewer/view/3XKCLQbwAw/open-virtualization-format-specution-dsp0243_1-1-0.pdf)
 

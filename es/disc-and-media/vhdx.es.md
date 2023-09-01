@@ -24,7 +24,7 @@ El archivo VHDX se puede convertir a [VHD](/es/disc-and-media/vhd/) con Hyper-V 
 
 ## Formato de archivo VHDX - Más información
 
-Los detalles del formato de archivo VHDX están completamente documentados y disponibles en línea como [Especificaciones del formato de archivo VHDX](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477 ) en la documentación de Microsoft. Es una extensión del formato VHD e incluye capacidades mejoradas. El formato de archivo VHDX proporciona características adicionales que están disponibles en el disco duro virtual y en las capas de archivo del disco duro virtual. Está más optimizado y brinda mejores resultados para la configuración y las capacidades del hardware de almacenamiento. Los archivos VHDX se pueden abrir
+Los detalles del formato de archivo VHDX están completamente documentados y disponibles en línea como [Especificaciones del formato de archivo VHDX](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-vhdx/83e061f8-f6e2-4de1-91bd-5d518a43d477) en la documentación de Microsoft. Es una extensión del formato VHD e incluye capacidades mejoradas. El formato de archivo VHDX proporciona características adicionales que están disponibles en el disco duro virtual y en las capas de archivo del disco duro virtual. Está más optimizado y brinda mejores resultados para la configuración y las capacidades del hardware de almacenamiento. Los archivos VHDX se pueden abrir
 
 ### Compatibilidad con discos duros virtuales en VHDX
 

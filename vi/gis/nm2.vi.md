@@ -22,7 +22,7 @@ Tệp có phần mở rộng .nm2 là tệp bản đồ được tạo bằng h�
 
 ## Định dạng tệp NM2 - Thông tin khác
 
-Các tệp NM2 được lưu dưới dạng tệp nhị phân và cấu trúc dữ liệu/định dạng tệp nội bộ của chúng không có sẵn công khai. Các phiên bản gần đây của Navitel lưu dữ liệu dưới dạng tệp .nm7. Navitel có sẵn một số tệp bản đồ trên [trang web] của họ (https://www.navitel.cz/en/downloads/demo). [Tài liệu của Navitel](https://www.navitel.cz/en/downloads/documentation) cung cấp hướng dẫn người dùng đầy đủ về cách sử dụng hệ thống định vị cho các loại thiết bị và phương tiện khác nhau.
+Các tệp NM2 được lưu dưới dạng tệp nhị phân và cấu trúc dữ liệu/định dạng tệp nội bộ của chúng không có sẵn công khai. Các phiên bản gần đây của Navitel lưu dữ liệu dưới dạng tệp .nm7. Navitel có sẵn một số tệp bản đồ trên [trang web](https://www.navitel.cz/en/downloads/demo) của họ. [Tài liệu của Navitel](https://www.navitel.cz/en/downloads/documentation) cung cấp hướng dẫn người dùng đầy đủ về cách sử dụng hệ thống định vị cho các loại thiết bị và phương tiện khác nhau.
 
 ## Người giới thiệu
 

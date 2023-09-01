@@ -57,6 +57,6 @@ CSO ファイル形式には、24 バイトのヘッダー、データ ブロッ
 
 ## 参考文献
 
-* [CSO - ウィキペディアによる](https://en.wikipedia.org/wiki/.CSO)
+* N/A
 
 

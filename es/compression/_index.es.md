@@ -19,7 +19,7 @@
 
 La compresión de archivos es el proceso para reducir el tamaño de uno o más archivos. Reduce los archivos grandes a otros mucho más pequeños al eliminar los datos innecesarios. El archivo de archivos comprimidos facilita el envío y la copia de seguridad de archivos grandes o grupos de archivos. Además, dichos archivos facilitan la descarga más rápida y permiten almacenar más datos en medios extraíbles. Hay varios formatos de compresión. A continuación, analizaremos los formatos de archivo de compresión más populares y el software más recomendado que lo utiliza.
 
-¿Tiene consultas relacionadas con los formatos de archivo de compresión? Diríjase a los [foros] de nuestra comunidad (https://forum.fileformat.com/c/compression/10) para beneficiarse del conocimiento compartido por los expertos en formato de archivo.
+¿Tiene consultas relacionadas con los formatos de archivo de compresión? Diríjase a los [foros](https://forum.fileformat.com/c/compression/10) de nuestra comunidad para beneficiarse del conocimiento compartido por los expertos en formato de archivo.
 
 ## Lista de extensiones de archivos comprimidos y formatos de vuelo asociados
 

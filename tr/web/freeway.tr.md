@@ -22,7 +22,7 @@ FREEWAY dosyası, MacOS'ta web siteleri oluşturmak için bir WYSIWYG uygulamas�
 
 ## FREEWAY Dosya Biçimi
 
-FREEWAY dosyaları tescilli dosya biçiminde kaydedilir ve dahili dosya biçimi ayrıntıları herkese açık değildir. Bir site tarafından kullanılan herhangi bir gerçek kaynağa sahip değildir, bunun yerine site düzeni ve farklı mülklere bağlantılar vardır. Gerçek web sitesi kaynakları ve sayfaları, FREEWAY dosyasıyla aynı klasörde bulunan "Medya" ve "Site Klasörü" klasörlerine kaydedilir. FREEWAY belgesi, [HTML](/tr/web/html/), [JPEG](/tr/image/jpeg/), [PNG](/tr/image/png/), [BMP](/tr/) gibi çeşitli biçimlerde dışa aktarılabilir. resim/bmp/) ve [GIF](/tr/resim/gif/).
+FREEWAY dosyaları tescilli dosya biçiminde kaydedilir ve dahili dosya biçimi ayrıntıları herkese açık değildir. Bir site tarafından kullanılan herhangi bir gerçek kaynağa sahip değildir, bunun yerine site düzeni ve farklı mülklere bağlantılar vardır. Gerçek web sitesi kaynakları ve sayfaları, FREEWAY dosyasıyla aynı klasörde bulunan "Medya" ve "Site Klasörü" klasörlerine kaydedilir. FREEWAY belgesi, [HTML](/tr/web/html/), [JPEG](/tr/image/jpeg/), [PNG](/tr/image/png/), [BMP](/tr/) gibi çeşitli biçimlerde dışa aktarılabilir. resim/bmp/) ve [GIF](/tr/image/gif/).
 
 ## Referanslar
 

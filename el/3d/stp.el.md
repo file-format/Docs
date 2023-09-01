@@ -69,7 +69,7 @@ lastmod: 2022-01-31
 * [STL](/el/cad/stl/)
 * [FBX](/el/3d/fbx/)
 * F3D
-* [USD](/el/3d/USD/)
+* [USD](/el/3d/usd/)
 
 ## βιβλιογραφικές αναφορές
 

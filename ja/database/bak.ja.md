@@ -56,5 +56,5 @@ MTF ファイルのデータ ストリームは、データのカプセル化と
 
 ## 参照 ##
 
-* [[MS-BCP]: 一括コピー形式](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5?redirectedfrom=MSDN)
+* [[MS-BCP]: 一括コピー形式](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
 

@@ -22,5 +22,5 @@ CPC (Cartesian Perceptual Compression) è un formato di file immagine proprietar
 
 ## Riferimenti
 
-- [Compressione percettiva cartesiana - Wikipedia](](https://en.wikipedia.org/wiki/Cartesian_Perceptual_Compression))
+- [Compressione percettiva cartesiana - Wikipedia](https://en.wikipedia.org/wiki/Cartesian_Perceptual_Compression)
 

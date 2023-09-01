@@ -19,7 +19,7 @@
 
 ## Czym jest plik ETL?
 
-Pliki ETL to pliki dziennika zawierające dzienniki zdarzeń generowane przez jądro systemu operacyjnego firmy Microsoft. Te pliki dziennika zawierają błędy na poziomie aplikacji i systemu, ostrzeżenia i inne dane o zdarzeniach. Pliki ETL są pomocne w analizowaniu i rozwiązywaniu problemów na poziomie systemu. Typowe problemy rejestrowane w plikach ETL obejmują problemy generowane przez dostęp do dysku i błędy strony. Microsoft udostępnia dwie aplikacje, Tracerpt i Event Viewer do odczytu i przeglądania zawartości plików ETL. Pliki ETL można konwertować do innych formatów plików, takich jak [TXT](/pl/processing/txt/) i [CSV](/pl/spreadsheet/csv/) za pomocą Tracerpt.
+Pliki ETL to pliki dziennika zawierające dzienniki zdarzeń generowane przez jądro systemu operacyjnego firmy Microsoft. Te pliki dziennika zawierają błędy na poziomie aplikacji i systemu, ostrzeżenia i inne dane o zdarzeniach. Pliki ETL są pomocne w analizowaniu i rozwiązywaniu problemów na poziomie systemu. Typowe problemy rejestrowane w plikach ETL obejmują problemy generowane przez dostęp do dysku i błędy strony. Microsoft udostępnia dwie aplikacje, Tracerpt i Event Viewer do odczytu i przeglądania zawartości plików ETL. Pliki ETL można konwertować do innych formatów plików, takich jak [TXT](/pl/word-processing/txt/) i [CSV](/pl/spreadsheet/csv/) za pomocą Tracerpt.
 
 ## Format pliku ETL
 

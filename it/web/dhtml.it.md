@@ -77,5 +77,5 @@ Questo codice scrive il testo "Hello World" per l'output nel browser.
 
 ## Riferimenti
 
-* [HTML dinamico - Wikipedia](https://en.wikipedia.org/wiki/HTML_dinamico)
+* [HTML dinamico - Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
 

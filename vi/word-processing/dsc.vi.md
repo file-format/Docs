@@ -22,7 +22,7 @@ Tệp có phần mở rộng .dsc là tệp mô tả văn bản chứa thông ti
 
 ## Định dạng tệp DSC - Thông tin khác
 
-Các tệp DSC được tạo và lưu trữ vào đĩa dưới dạng tệp văn bản thuần túy. Chúng có thể được chỉnh sửa bằng cách mở trong bất kỳ trình soạn thảo văn bản tương thích nào, chẳng hạn như Microsoft Notepad. DSC tuân theo định dạng văn bản thuần túy tương tự như các tệp [.txt](/vi/word-processing/dsc/) và có thể được điền bằng bất kỳ chi tiết nào của phần mềm theo chức năng hoặc hướng dẫn của phần mềm.
+Các tệp DSC được tạo và lưu trữ vào đĩa dưới dạng tệp văn bản thuần túy. Chúng có thể được chỉnh sửa bằng cách mở trong bất kỳ trình soạn thảo văn bản tương thích nào, chẳng hạn như Microsoft Notepad. DSC tuân theo định dạng văn bản thuần túy tương tự như các tệp [.txt](/vi/word-processing/txt/) và có thể được điền bằng bất kỳ chi tiết nào của phần mềm theo chức năng hoặc hướng dẫn của phần mềm.
 
 ## Người giới thiệu
 

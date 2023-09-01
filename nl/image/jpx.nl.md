@@ -19,7 +19,7 @@
 
 ## Wat is een JPX-bestand? ##
 
-Een bestand met de extensie .jpx is een extensie van de bestandsindeling JPEG 2000. Het gebruikt voornamelijk de JPEG 2000-compressie en biedt ook geavanceerde functies zoals meerdere lagen voor een afbeelding, verschillende kleurruimten, dekking en gefragmenteerde codestromen. JPX staat naast de JPEG 2000-compressie ook andere compressies toe, zoals JBIG, CCITT Group3, CCITT Group4, enz. Het JPX-bestandsformaat is goedgekeurd als [ISO/IEC 15444-2](https://www.iso.org/standard/33160.html)-standaard, maar kon geen warm onthaal krijgen vanwege het uitgebreide gebruik van [JPEG ](/nl/afbeelding/jpeg/) bestandsformaat. Toepassingen die JPX-bestanden kunnen openen, zijn onder meer Corel PaintShop Pro, Adobe Photoshop 2020, Adobe Illustrator 2020 en CorelDraw Graphics Suite 2020.
+Een bestand met de extensie .jpx is een extensie van de bestandsindeling JPEG 2000. Het gebruikt voornamelijk de JPEG 2000-compressie en biedt ook geavanceerde functies zoals meerdere lagen voor een afbeelding, verschillende kleurruimten, dekking en gefragmenteerde codestromen. JPX staat naast de JPEG 2000-compressie ook andere compressies toe, zoals JBIG, CCITT Group3, CCITT Group4, enz. Het JPX-bestandsformaat is goedgekeurd als [ISO/IEC 15444-2](https://www.iso.org/standard/33160.html)-standaard, maar kon geen warm onthaal krijgen vanwege het uitgebreide gebruik van [JPEG ](/nl/image/jpeg/) bestandsformaat. Toepassingen die JPX-bestanden kunnen openen, zijn onder meer Corel PaintShop Pro, Adobe Photoshop 2020, Adobe Illustrator 2020 en CorelDraw Graphics Suite 2020.
 
 ## Korte geschiedenis
 

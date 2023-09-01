@@ -57,6 +57,5 @@
 
 ## הפניות
 
-* [CSO - מאת ויקיפדיה](https://en.wikipedia.org/wiki/.CSO)
-
+* N/A
 

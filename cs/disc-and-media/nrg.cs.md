@@ -58,6 +58,6 @@ Chunk of end znamená signály, že nyní již nejsou žádné další části, 
 
 ## Reference ##
 
-* [NRG – podle Wikipedie](https://en.wikipedia.org/wiki/NRG_(formát_souboru))
+* [NRG – podle Wikipedie](https://en.wikipedia.org/wiki/NRG_(file_format))
 
 

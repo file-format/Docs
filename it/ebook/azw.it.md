@@ -27,5 +27,5 @@ AZW è un formato di file chiuso e le sue specifiche non sono disponibili pubbli
 
 ## Riferimenti ##
 
-* [Formato file Kindle - Wikipedia](https://en.wikipedia.org/wiki/Formato file_Kindle)
+* [Formato file Kindle - Wikipedia](https://en.wikipedia.org/wiki/Kindle_File_Format)
 

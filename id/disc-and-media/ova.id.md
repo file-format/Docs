@@ -33,6 +33,6 @@ Seperti disebutkan, file OVA adalah file arsip yang dibuat menggunakan direktori
 
 ## Referensi
 
-* [Format dan Template File OVA](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-AE61948B-C2EE-436E-BAFB-3C7209088552.html )
+* [Format dan Template File OVA](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-AE61948B-C2EE-436E-BAFB-3C7209088552.html)
 * [Spesifikasi Format File OVF](https://products.conholdate.app/viewer/view/3XKCLQbwAw/open-virtualization-format-specification-dsp0243_1-1-0.pdf)
 

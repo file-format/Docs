@@ -19,7 +19,7 @@
 
 ¿Alguna vez se encontró con formatos de archivo de correo electrónico y no pudo abrirlo? Ha venido al lugar correcto, le explicaremos qué son los formatos de archivo de correo electrónico y cuáles son los programas recomendados que pueden abrirlos o usarlos. Los formatos de archivo de correo electrónico son utilizados por las aplicaciones de correo electrónico para almacenar sus diversos datos, incluidos mensajes de correo electrónico, archivos adjuntos, carpetas, libretas de direcciones, etc. Los formatos de archivo de correo electrónico se asocian principalmente con el archivo de mensajes de correo electrónico de Outlook Express. Otros tipos de archivos también pueden estar usando la extensión de archivo de correo electrónico. Hay varios tipos de archivos comunes que se utilizan con respecto al correo electrónico. A continuación se muestra la lista de los formatos de archivo más populares utilizados por varios clientes de correo electrónico para almacenar mensajes de correo electrónico y otros datos relacionados.
 
-¿Tiene consultas relacionadas con los formatos de archivo de correo electrónico? Diríjase a los [foros] de nuestra comunidad (https://forum.fileformat.com/c/email/14) para beneficiarse del conocimiento compartido por los expertos en formato de archivo.
+¿Tiene consultas relacionadas con los formatos de archivo de correo electrónico? Diríjase a los [foros](https://forum.fileformat.com/c/email/14) de nuestra comunidad para beneficiarse del conocimiento compartido por los expertos en formato de archivo.
 
 ## Lista de extensiones de archivo de correo electrónico y formatos de archivo asociados
 

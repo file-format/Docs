@@ -44,6 +44,7 @@ Soubor EML se skládá z informací záhlaví a volitelně z těla zprávy. Kaž
 
 **Příklad záhlaví**
 
+```
 Z:<John@bmw.eml.light.com>
 
 Na:<Andy@fileformat.com>
@@ -51,6 +52,7 @@ Na:<Andy@fileformat.com>
 Datum: Čt, 8. března 2018 10:43:37 +0100
 
 Předmět: bmw eml světlo
+```
 
 ### Tělo zprávy ###
 

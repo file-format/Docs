@@ -18,7 +18,7 @@
 
 ## Co je soubor PPP?
 
-Soubor PPP je soubor grafického projektu vytvořený pomocí softwaru NCH PhotoPad Editor Software. Skládá se z upraveného obrázku ve PhotoPadu spolu se záznamem všech úprav provedených v různých komponentách (jako jsou vrstvy, text, úpravy) tohoto obrázku. To vám umožní vrátit se do předchozí fáze úprav a zahájit úpravy od tohoto bodu. Soubory projektu PPP lze otevřít v softwaru PhotoPad a lze je exportovat do oblíbených formátů obrázkových souborů, jako je [JPG](/cs/image/jpeg/), [PNG](/cs/image/png/), [TIFF](/cs/image/tiff /), [GIF](/cs/image/gif/) a [PSD](/cs/image/psd/).
+Soubor PPP je soubor grafického projektu vytvořený pomocí softwaru NCH PhotoPad Editor Software. Skládá se z upraveného obrázku ve PhotoPadu spolu se záznamem všech úprav provedených v různých komponentách (jako jsou vrstvy, text, úpravy) tohoto obrázku. To vám umožní vrátit se do předchozí fáze úprav a zahájit úpravy od tohoto bodu. Soubory projektu PPP lze otevřít v softwaru PhotoPad a lze je exportovat do oblíbených formátů obrázkových souborů, jako je [JPG](/cs/image/jpeg/), [PNG](/cs/image/png/), [TIFF](/cs/image/tiff/), [GIF](/cs/image/gif/) a [PSD](/cs/image/psd/).
 
 ### Formát souboru PPP
 

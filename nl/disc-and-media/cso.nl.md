@@ -57,6 +57,5 @@ De datablokken bestaan uit de ongecomprimeerde of gecomprimeerde data. De groott
 
 ## Referenties
 
-* [CSO - door Wikipedia](https://en.wikipedia.org/wiki/.CSO)
-
+* N/A
 

@@ -124,5 +124,5 @@ Aceasta înseamnă că proprietatea „index_index” conține mai întâi un ca
 ## Referințe ##
 
 * [Format fișier PLY](http://paulbourke.net/dataformats/ply/)
-* [PLY - După Wikipedia](https://en.wikipedia.org/wiki/PLY_(format_fișier))
+* [PLY - După Wikipedia](https://en.wikipedia.org/wiki/PLY_(file_format))
 

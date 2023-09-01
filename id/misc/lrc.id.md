@@ -30,7 +30,7 @@ Ada beberapa format file LRC yang telah dikembangkan dari waktu ke waktu. Ini
 
 ### Format LRC Sederhana
 
-Tag Waktu Baris dalam format [mm:ss.xx] dengan mm adalah menit, ss adalah detik, dan xx adalah seperseratus detik.
+Tag Waktu Baris dalam format `[mm:ss.xx]` dengan mm adalah menit, ss adalah detik, dan xx adalah seperseratus detik.
 
 ```
 [00:12.00]Line 1 lyrics
@@ -54,7 +54,7 @@ Itu termasuk Kemampuan untuk mengubah dan menentukan jenis kelamin lirik dengan 
 ```
 ### Format LRC yang disempurnakan
 
-Format LRC yang disempurnakan adalah versi tambahan dari format LRC Sederhana. Itu menambahkan Tag Waktu Kata dalam format<mm:ss.xx> di akhir kata sebelumnya.
+Format LRC yang disempurnakan adalah versi tambahan dari format LRC Sederhana. Itu menambahkan Tag Waktu Kata dalam format`<mm:ss.xx>` di akhir kata sebelumnya.
 
 ```
 [ar: Jade Michael]

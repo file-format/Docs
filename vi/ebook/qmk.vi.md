@@ -35,7 +35,7 @@ Nếu bạn không thể mở và chạy tệp QMK; điều đó không có ngh�
 
 ## Người giới thiệu
 
-* [YanCEyDesktop của Remington](https://vi.freedownloadmanager.org/Windows-PC/YanCEyDesktop-FREE.html)
+* [YanCEyDesktop của Remington](https://en.freedownloadmanager.org/Windows-PC/YanCEyDesktop-FREE.html)
 
 
 

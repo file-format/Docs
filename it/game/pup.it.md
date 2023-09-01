@@ -23,7 +23,7 @@ Un file PUP è un file di patch di aggiornamento del sistema utilizzato dal soft
 
 ## Formato file PUP - Ulteriori informazioni
 
-I file PUP vengono salvati su disco in formato binario [compresso](/it/compressione/). Tuttavia, i dettagli della compressione non sono disponibili pubblicamente. Il contenuto di un file PUP può essere estratto utilizzando il programma PS3 PUP Extractor su sistema operativo Windows. Per aggiornare il sistema software di PS3, il file PUP viene caricato e salvato nella cartella /PS3/UPDATE della macchina. Ciò consente all'opzione di aggiornamento del sistema di trovare il file di aggiornamento del firmware ed eseguirlo.
+I file PUP vengono salvati su disco in formato binario [compresso](/it/compression/). Tuttavia, i dettagli della compressione non sono disponibili pubblicamente. Il contenuto di un file PUP può essere estratto utilizzando il programma PS3 PUP Extractor su sistema operativo Windows. Per aggiornare il sistema software di PS3, il file PUP viene caricato e salvato nella cartella /PS3/UPDATE della macchina. Ciò consente all'opzione di aggiornamento del sistema di trovare il file di aggiornamento del firmware ed eseguirlo.
 
 ### Convenzione di denominazione del formato file PUP
 

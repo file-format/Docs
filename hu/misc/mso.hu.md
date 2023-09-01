@@ -18,7 +18,7 @@
 
 ## Mi az MSO fájl?
 
-Az MSO-fájl egy adattároló fájlformátum, amely akkor jön létre, amikor HTML-üzenetet küld a Microsoft Outlook használatával. Ez leginkább a Microsoft Office 2000 alkalmazásokkal történik. Az esetek többségében az e-mail üzenet **Oledata.mso** fájlnévvel van csatolva. Az e-mail címzettje, amikor megnyit egy ilyen e-mailt, akkor is helyesen tekintheti meg a fájlt, ha nem ugyanaz a szoftver van telepítve. Az MSO-fájlok a [Microsoft Compound Document File Format (MCDF)]-re hivatkoznak (https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/53989ce4-7b05-4f8d-829b-d08d6148375b).
+Az MSO-fájl egy adattároló fájlformátum, amely akkor jön létre, amikor HTML-üzenetet küld a Microsoft Outlook használatával. Ez leginkább a Microsoft Office 2000 alkalmazásokkal történik. Az esetek többségében az e-mail üzenet **Oledata.mso** fájlnévvel van csatolva. Az e-mail címzettje, amikor megnyit egy ilyen e-mailt, akkor is helyesen tekintheti meg a fájlt, ha nem ugyanaz a szoftver van telepítve. Az MSO-fájlok a [Microsoft Compound Document File Format (MCDF)](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/53989ce4-7b05-4f8d-829b-d08d6148375b) -re hivatkoznak.
 
 ## Microsoft MSO fájlformátum
 

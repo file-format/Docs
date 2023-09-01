@@ -44,6 +44,7 @@ Eine EML-Datei besteht aus Header-Informationen und optional dem Nachrichtentext
 
 **Beispielkopfzeile**
 
+```
 Aus:<John@bmw.eml.light.com>
 
 Zu:<Andy@fileformat.com>
@@ -51,6 +52,7 @@ Zu:<Andy@fileformat.com>
 Datum: Do, 8. März 2018 10:43:37 +0100
 
 Betreff: BMW Eml Licht
+```
 
 ### Nachrichtentext ###
 

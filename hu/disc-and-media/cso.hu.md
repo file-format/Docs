@@ -57,6 +57,5 @@ Az adatblokkok tömörítetlen vagy tömörített adatokból állnak. Egy blokk 
 
 ## Hivatkozások
 
-* [CSO – a Wikipédia](https://en.wikipedia.org/wiki/.CSO)
-
+* N/A
 

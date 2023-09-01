@@ -22,7 +22,7 @@ Un file con estensione .dsc è un file di descrizione di testo che contiene info
 
 ## Formato file DSC - Ulteriori informazioni
 
-I file DSC vengono creati e archiviati su disco come file di testo normale. Questi possono essere modificati aprendo in qualsiasi editor di testo compatibile come Microsoft Notepad. DSC segue un formato di testo normale simile ai file [.txt](/it/word-processing/dsc/) e può essere popolato con qualsiasi dettaglio del software secondo la funzionalità o le istruzioni del software.
+I file DSC vengono creati e archiviati su disco come file di testo normale. Questi possono essere modificati aprendo in qualsiasi editor di testo compatibile come Microsoft Notepad. DSC segue un formato di testo normale simile ai file [.txt](/it/word-processing/txt/) e può essere popolato con qualsiasi dettaglio del software secondo la funzionalità o le istruzioni del software.
 
 ## Riferimenti
 

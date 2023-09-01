@@ -151,4 +151,4 @@ ZIP 파일의 항목은 각 항목이 다음으로 구성된 순서대로 정렬
 ## 참고문헌
 
 * [PKWARE ZIP 파일 형식 사양](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
-* [PKZip 파일의 구조](https://users.cs.jmu.edu/buchhoff/forensics/formats/pkzip-printable.html)
+* [PKZip 파일의 구조](https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip-printable.html)

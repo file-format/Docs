@@ -19,7 +19,7 @@
 
 ## Was ist eine DWT-Datei?
 
-Eine DWT-Datei ist eine [AutoCAD](https://www.autodesk.com/) Zeichnungsvorlagendatei, die als Starter zum Erstellen von Zeichnungen verwendet wird, die als [DWG](/de/cad/dwg/)-Dateien gespeichert werden können. Solche Vorlagendateien bieten Anfangseinstellungen wie Einheitentypen, erforderliche Genauigkeit, Titelblöcke, Layernamen, Linientypen und andere ähnliche Informationen für die seitliche Konvertierung in richtige Zeichnungsdateien. Sowohl AutoCAD als auch CoreCAD können verwendet werden, um die Vorlagendateien zu lesen und weiter zu verwenden. In einfachen Worten, eine DWT ist eine DWG mit vordefinierten schreibgeschützten Attributen, genauso wie eine MSWord [DOT](/de/word-processing/dot/)-Datei zu einer [DOC](/de/word-processing/doc /) Datei.
+Eine DWT-Datei ist eine [AutoCAD](https://www.autodesk.com/) Zeichnungsvorlagendatei, die als Starter zum Erstellen von Zeichnungen verwendet wird, die als [DWG](/de/cad/dwg/)-Dateien gespeichert werden können. Solche Vorlagendateien bieten Anfangseinstellungen wie Einheitentypen, erforderliche Genauigkeit, Titelblöcke, Layernamen, Linientypen und andere ähnliche Informationen für die seitliche Konvertierung in richtige Zeichnungsdateien. Sowohl AutoCAD als auch CoreCAD können verwendet werden, um die Vorlagendateien zu lesen und weiter zu verwenden. In einfachen Worten, eine DWT ist eine DWG mit vordefinierten schreibgeschützten Attributen, genauso wie eine MSWord [DOT](/de/word-processing/dot/)-Datei zu einer [DOC](/de/word-processing/doc/) Datei.
 
 ## DWT-Dateiformat
 

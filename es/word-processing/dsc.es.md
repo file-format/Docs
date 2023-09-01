@@ -22,7 +22,7 @@ Un archivo con extensión .dsc es un archivo de descripción de texto que contie
 
 ## Formato de archivo DSC: más información
 
-Los archivos DSC se crean y almacenan en el disco como archivos de texto sin formato. Estos se pueden editar abriéndolos en cualquier editor de texto compatible, como el Bloc de notas de Microsoft. DSC sigue un formato de texto sin formato similar a los archivos [.txt](/es/word-processing/dsc/) y se puede completar con cualquier detalle del software según la funcionalidad o las instrucciones del software.
+Los archivos DSC se crean y almacenan en el disco como archivos de texto sin formato. Estos se pueden editar abriéndolos en cualquier editor de texto compatible, como el Bloc de notas de Microsoft. DSC sigue un formato de texto sin formato similar a los archivos [.txt](/es/word-processing/txt/) y se puede completar con cualquier detalle del software según la funcionalidad o las instrucciones del software.
 
 ## Referencias
 

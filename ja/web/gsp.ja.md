@@ -26,4 +26,4 @@ GSP ファイルは Web ファイル形式で保存され、Microsoft Outlook �
 
 ## 参考文献
 
-* [Outlook で MSG メール メッセージ ファイルをコピーするとエラーが発生する](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients）
+* [Outlook で MSG メール メッセージ ファイルをコピーするとエラーが発生する](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients)

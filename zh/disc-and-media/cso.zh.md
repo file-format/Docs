@@ -57,6 +57,6 @@ CSO 文件格式包含一个 24 字节的标题、数据块和一个索引表。
 
 ## 参考
 
-* [CSO - 维基百科](https://en.wikipedia.org/wiki/.CSO)
+* N/A
 
 

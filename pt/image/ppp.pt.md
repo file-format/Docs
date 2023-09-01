@@ -18,7 +18,7 @@
 
 ## O que é um arquivo PPP?
 
-Um arquivo PPP é um arquivo de projeto gráfico criado com o software NCH PhotoPad Editor. É composto pela imagem editada no PhotoPad junto com o registro de todas as edições feitas em diferentes componentes (como camadas, texto, ajustes) dessa imagem. Isso permite reverter para um estágio de edição anterior e começar a editar a partir desse ponto. Arquivos de projeto PPP podem ser abertos no software PhotoPad e podem ser exportados para formatos de arquivo de imagem populares, como [JPG](/pt/image/jpeg/), [PNG](/pt/image/png/), [TIFF](/pt/image/tiff /), [GIF](/pt/image/gif/) e [PSD](/pt/image/psd/).
+Um arquivo PPP é um arquivo de projeto gráfico criado com o software NCH PhotoPad Editor. É composto pela imagem editada no PhotoPad junto com o registro de todas as edições feitas em diferentes componentes (como camadas, texto, ajustes) dessa imagem. Isso permite reverter para um estágio de edição anterior e começar a editar a partir desse ponto. Arquivos de projeto PPP podem ser abertos no software PhotoPad e podem ser exportados para formatos de arquivo de imagem populares, como [JPG](/pt/image/jpeg/), [PNG](/pt/image/png/), [TIFF](/pt/image/tiff/), [GIF](/pt/image/gif/) e [PSD](/pt/image/psd/).
 
 ### Formato de arquivo PPP
 

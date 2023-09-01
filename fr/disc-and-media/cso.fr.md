@@ -57,6 +57,5 @@ Les blocs de données comprennent les données non compressées ou compressées.
 
 ## Références
 
-* [CSO - par Wikipédia](https://en.wikipedia.org/wiki/.CSO)
-
+* N/A
 

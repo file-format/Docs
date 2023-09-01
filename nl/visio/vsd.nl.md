@@ -24,7 +24,7 @@ VSD-bestanden zijn tekeningen die zijn gemaakt met de Microsoft Visio-toepassing
 
 # VSD-bestandsindeling #
 
-VSD-bestandsindeling is de oorspronkelijke bestandsindeling die door Microsoft Visio is geïntroduceerd voor het opslaan van tekenelementen. De interne structuur van VSD-bestanden is gebaseerd op een binaire bestandsindeling, in tegenstelling tot [.VSDX](/nl/visio/vsdx/) die werd geïntroduceerd met Microsoft Visio 2013. De nieuwe indeling is gebaseerd op de Office Open XML-bestandsindeling en slaat projectinformatie op in een [ZIP](/nl/compressie/zip/) archief. Microsoft biedt de toepassing vviewer.exe aan voor Visio-tekeningbestanden voor het geval Visio niet op het systeem is geïnstalleerd.
+VSD-bestandsindeling is de oorspronkelijke bestandsindeling die door Microsoft Visio is geïntroduceerd voor het opslaan van tekenelementen. De interne structuur van VSD-bestanden is gebaseerd op een binaire bestandsindeling, in tegenstelling tot [.VSDX](/nl/visio/vsdx/) die werd geïntroduceerd met Microsoft Visio 2013. De nieuwe indeling is gebaseerd op de Office Open XML-bestandsindeling en slaat projectinformatie op in een [ZIP](/nl/compression/zip/) archief. Microsoft biedt de toepassing vviewer.exe aan voor Visio-tekeningbestanden voor het geval Visio niet op het systeem is geïnstalleerd.
 
 ## Korte geschiedenis ##
 

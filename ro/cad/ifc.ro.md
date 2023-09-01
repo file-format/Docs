@@ -68,5 +68,5 @@ Arhitectura schemei de date a IFC definește patru straturi conceptuale, fiecare
 
 ## Referințe ##
 
-* [Cursuri Fundația Industriei - Prin Wikipedia](https://en.wikipedia.org/wiki/Clasuri_Fundația_Industriei)
+* [Cursuri Fundația Industriei - Prin Wikipedia](https://en.wikipedia.org/wiki/Industry_Foundation_Classes)
 

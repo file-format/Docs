@@ -47,5 +47,5 @@
 ## مراجع
 
 * [تحويل مستندات الصفحات](https://support.apple.com/en-us/HT202227)
-* [Apple Pages - Wikipedia](https://en.wikipedia.org/wiki/Pages_ (word_processor))
+* [Apple Pages - Wikipedia](https://en.wikipedia.org/wiki/Pages_(word_processor))
 

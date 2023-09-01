@@ -84,5 +84,5 @@ La struttura EMBEDDEDFONT ha subito tre revisioni, con l'aggiunta di dati aggiun
 
 * [Formato file EOT](https://www.w3.org/Submission/EOT/)
 * [Embedded OpenType](https://en.wikipedia.org/wiki/Embedded_OpenType)
-* [Incorporamento font](https://en.wikipedia.org/wiki/Incorporamento_font)
+* [Incorporamento font](https://en.wikipedia.org/wiki/Font_embedding)
 

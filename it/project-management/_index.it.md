@@ -20,7 +20,7 @@
 
 Ti sei mai imbattuto e ti sei chiesto cos'è un file MPP? MPP e altri file simili sono formati di file di progetto creati dal software di gestione dei progetti. Un file di progetto è una raccolta di attività, risorse e pianificazione per ottenere un output misurabile sotto forma di prodotto o servizio. I diagrammi di Gantt vengono utilizzati per stabilire un flusso visivo di attività rispetto al tempo per le attività identificate che possono anche essere esportate in formato PDF o immagine per la documentazione.
 
-Le estensioni di file comuni di Project Management e i formati di file associati includono **[MPP](/it/project-management/mpp/)**, **[MPX](/it/project-management/mpx/)** e **[XER](/it/gestione-progetto/xer/)**.
+Le estensioni di file comuni di Project Management e i formati di file associati includono **[MPP](/it/project-management/mpp/)**, **[MPX](/it/project-management/mpx/)** e **[XER](/it/project-management/xer/)**.
 
 Hai domande relative ai formati di file di Project Management? Visita la nostra community [forum](https://forum.fileformat.com/c/project-management/15) per beneficiare delle conoscenze condivise dagli esperti di formati di file.
 

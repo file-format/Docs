@@ -22,7 +22,7 @@ Musisz znać pliki z rozszerzeniami **PPTX** i **PPT**, są to formaty plików p
 
 Popularne rozszerzenia plików prezentacji i powiązane z nimi formaty plików to **[PPTX](/pl/presentation/pptx/)**, **[PPT](/pl/presentation/ppt/)** i **[ODP](/pl/presentation/odp /)**.
 
-Masz pytania dotyczące formatów plików prezentacji? Odwiedź nasze [fora] społeczności (https://forum.fileformat.com/c/presentation/8), aby skorzystać z wiedzy ekspertów ds. formatów plików.
+Masz pytania dotyczące formatów plików prezentacji? Odwiedź nasze [fora](https://forum.fileformat.com/c/presentation/8) społeczności, aby skorzystać z wiedzy ekspertów ds. formatów plików.
 
 ## Lista rozszerzeń plików prezentacji i powiązanych formatów plików
 

@@ -29,5 +29,5 @@ SSP 文件可以导出为 [SCR](/zh/system/scr/) 文件格式。
 
 ## 参考
 
-* [Axialis 软件 SSP](https://www.axis.com/ssp/)
+* [Axialis Software SSP](https://www.axialis.com/ssp/)
 

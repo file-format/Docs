@@ -12,7 +12,7 @@ menu:
   docs:
     parent: "audio"
 apelido:
-- /vídeo/matroska/
+- /video/matroska/
 lastmod: 2020-23-11
 ---
 

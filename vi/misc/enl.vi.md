@@ -18,7 +18,7 @@
 
 ## Tệp ENL là gì?
 
-Tệp có phần mở rộng .enl là tệp dữ liệu được tạo bằng ứng dụng [Clarivate](https://support.clarivate.com/Endnote/s/?lingu=en_US) EndNote để lưu trữ tập hợp các trích dẫn. Các trích dẫn chứa thông tin như tên tác phẩm, tác giả, ngày xuất bản, tạp chí hoặc thông tin hội nghị, năm xuất bản và các tài liệu tham khảo khác. EndNote được sử dụng để quản lý thư mục cùng với việc tạo trích dẫn. Các tệp ENL cũng có thể bao gồm các liên kết đến các trích dẫn để xem trực tuyến hoặc tải xuống dưới dạng tài liệu [PDF](/vi/pdf/) nếu có. EndNote sử dụng ENL làm định dạng tệp mặc định để lưu tệp.
+Tệp có phần mở rộng .enl là tệp dữ liệu được tạo bằng ứng dụng [Clarivate](https://support.clarivate.com/Endnote/s/?language=en_US) EndNote để lưu trữ tập hợp các trích dẫn. Các trích dẫn chứa thông tin như tên tác phẩm, tác giả, ngày xuất bản, tạp chí hoặc thông tin hội nghị, năm xuất bản và các tài liệu tham khảo khác. EndNote được sử dụng để quản lý thư mục cùng với việc tạo trích dẫn. Các tệp ENL cũng có thể bao gồm các liên kết đến các trích dẫn để xem trực tuyến hoặc tải xuống dưới dạng tài liệu [PDF](/vi/pdf/) nếu có. EndNote sử dụng ENL làm định dạng tệp mặc định để lưu tệp.
 
 ## Định dạng tệp ENL - Thông tin khác
 

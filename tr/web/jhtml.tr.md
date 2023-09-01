@@ -19,7 +19,7 @@
 
 ## JHTML dosyası nedir?
 
-.jhtml uzantılı bir dosya, bir istemci tarayıcıda bu sayfayı istediğinde sunucuda yürütülen [Java](/tr/programming/java/) kodlu bir [HTML](/tr/web/html/) dosyasıdır. Sunucu istekleri işler, işlevde bulunan Java işlevlerini yürütür ve sayfayı istemcinin tarayıcısına döndürür. JHTML sayfalarına katıştırılmış Java nesneleri, bu tür sayfalara yönelik istekleri işlemek için sunucuda çalışır. JHTML dosyaları, JDBC (Java [Veritabanı](/tr/veritabanı/) Bağlantı) bağlantısını kullanarak veritabanındaki bilgilere de erişebilir. JHTML dosyaları herhangi bir metin düzenleyicide açılabilir ve Google Chrome, Firefox ve Safari gibi web tarayıcılarında görüntülenebilir.
+.jhtml uzantılı bir dosya, bir istemci tarayıcıda bu sayfayı istediğinde sunucuda yürütülen [Java](/tr/programming/java/) kodlu bir [HTML](/tr/web/html/) dosyasıdır. Sunucu istekleri işler, işlevde bulunan Java işlevlerini yürütür ve sayfayı istemcinin tarayıcısına döndürür. JHTML sayfalarına katıştırılmış Java nesneleri, bu tür sayfalara yönelik istekleri işlemek için sunucuda çalışır. JHTML dosyaları, JDBC (Java [Veritabanı](/tr/database/) Bağlantı) bağlantısını kullanarak veritabanındaki bilgilere de erişebilir. JHTML dosyaları herhangi bir metin düzenleyicide açılabilir ve Google Chrome, Firefox ve Safari gibi web tarayıcılarında görüntülenebilir.
 
 ## JHTML Dosya Biçimi
 

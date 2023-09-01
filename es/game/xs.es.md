@@ -34,5 +34,5 @@ Los archivos XS se guardan como archivos de texto sin formato que se pueden abri
 ## Referencias
 
 * [Age of Empires III - Temas](https://github.com/topics/aoe)
-* [Foro - Age of Empires III](https://forums.ageofempires.com/t/please-make-the-ai-fight-for-map-control-and-resources-long-post-but-worth- es/176307)
+* [Foro - Age of Empires III](https://forums.ageofempires.com/t/please-make-the-ai-fight-for-map-control-and-resources-long-post-but-worth-it/176307)
 

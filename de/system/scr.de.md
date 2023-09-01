@@ -68,7 +68,7 @@ class MyCoolScreensaver : Screensaver
 
 ## Verweise
 
-* [Bildschirmschoner](https://de.wikipedia.org/wiki/Bildschirmschoner)
+* [Bildschirmschoner](https://en.wikipedia.org/wiki/Screensaver)
 * [Schreiben Sie einen Bildschirmschoner, der tatsächlich funktioniert](https://www.codeproject.com/Articles/14081/Write-a-Screensaver-that-Actually-Works)
 
 

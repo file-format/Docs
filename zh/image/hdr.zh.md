@@ -43,5 +43,5 @@ HDR 文件格式基于原始的 Radiance 图片 (.pic) 文件格式。 HDR 文�
 ## 参考
 
 * [光辉 HDR](http://paulbourke.net/dataformats/pic/)
-* [图片信息](https://github.com/xiaozhuai/imageinfo )
+* [图片信息](https://github.com/xiaozhuai/imageinfo)
 

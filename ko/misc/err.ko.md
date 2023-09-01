@@ -27,5 +27,5 @@ ERR 파일은 디스크에 일반 텍스트 파일로 저장되며 텍스트 편
 
 ## 참고문헌
 
-* [EndNote 데이터 폴더의 중요성](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= ko_US)
+* [EndNote 데이터 폴더의 중요성](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language=en_US)
 

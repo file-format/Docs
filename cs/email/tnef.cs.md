@@ -34,7 +34,7 @@ Algoritmus dat TNEF vytváří zploštělou strukturu z bohatých hierarchickýc
 
 V některých situacích, kdy se vlastnosti vyskytují ve skupinách nebo mají více hodnot, může stream obsahovat počty a výplně, aby bylo možné vynutit konkrétní zarovnání dat. Charakteristická situace, kdy je použití tohoto algoritmu výhodné, je v nepodporujícím prostředí zasílání zpráv. V takových prostředích je vlastnost bohaté zprávy zakódována do sériového datového proudu pomocí TNEF Writer. Dále, vlastnosti, které nepatří k základnímu TNEF, mohou být zapouzdřeny během přenosu. Tyto zapouzdřené vlastnosti se poté zpřístupní dekódováním prostřednictvím TNEF, aby byla zajištěna dostupnost všech vlastností původní zprávy pro klientskou aplikaci.
 
-V TNEF jsou všechny číselné datové typy typu little-endian a jejich velikost je větší než jeden bajt. Zpracování těchto číselných hodnot na platformách, které nejsou Little-endian, vyžaduje provedení příslušných transformací pro získání správných hodnot. Hodnoty řetězce jsou reprezentovány ve formátu Augmented Backus-Naur Form (ABNF) podle specifikací [RFC5234]. Když řetězec končí znakem null, je také zahrnut; například "worker@specimen.com" %x00.
+V TNEF jsou všechny číselné datové typy typu little-endian a jejich velikost je větší než jeden bajt. Zpracování těchto číselných hodnot na platformách, které nejsou Little-endian, vyžaduje provedení příslušných transformací pro získání správných hodnot. Hodnoty řetězce jsou reprezentovány ve formátu Augmented Backus-Naur Form (ABNF) podle specifikací [RFC5234]. Když řetězec končí znakem null, je také zahrnut; například `"worker@specimen.com" %x00`.
 
 {{< figure src="../TNEF.png" alt="Formát souboru TNEF" >}}
 

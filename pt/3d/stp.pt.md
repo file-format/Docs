@@ -69,7 +69,7 @@ O Autodesk Fusion 360 pode converter arquivos STP para os seguintes formatos de 
 * [STL](/pt/cad/stl/)
 * [FBX](/pt/3d/fbx/)
 * F3D
-* [USD](/pt/3d/USD/)
+* [USD](/pt/3d/usd/)
 
 ## Referências
 

@@ -33,6 +33,6 @@ OVA（开放式虚拟设备）文件是使用 .tar 归档格式保存为归档�
 
 ## 参考
 
-* [OVA 文件格式和模板](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-AE61948B-C2EE-436E-BAFB-3C7209088552.html )
+* [OVA 文件格式和模板](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-AE61948B-C2EE-436E-BAFB-3C7209088552.html)
 * [OVF 文件格式规范](https://products.conholdate.app/viewer/view/3XKCLQbwAw/open-virtualization-format-specification-dsp0243_1-1-0.pdf)
 

@@ -26,5 +26,5 @@ GSP файловете се съхраняват в уеб файлов форм
 
 ## Препратки
 
-* [Грешка при копиране на файлове с имейл съобщения MSG в Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or- получатели)
+* [Грешка при копиране на файлове с имейл съобщения MSG в Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or-recipients)
 

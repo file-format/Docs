@@ -53,7 +53,7 @@ O PDF/A-2 foi lançado pela ISO Standard em julho de 2011 como um novo padrão c
 
 ## PDF/A-3 ##
 
-O PDF/A-3 inclui todos os requisitos de conformidade do Nível 2 e permite a incorporação de formatos de arquivo adicionais (como XML, [CSV](/pt/spreadsheet/csv/), [CAD](/pt/cad/), [processamento de texto](/pt/word-processing/) , [planilha](/pt/planilha/) e outros) nos documentos em conformidade com PDF/A.
+O PDF/A-3 inclui todos os requisitos de conformidade do Nível 2 e permite a incorporação de formatos de arquivo adicionais (como XML, [CSV](/pt/spreadsheet/csv/), [CAD](/pt/cad/), [processamento de texto](/pt/word-processing/) , [planilha](/pt/spreadsheet/) e outros) nos documentos em conformidade com PDF/A.
 
 ## Referências ##
 

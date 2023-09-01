@@ -27,7 +27,7 @@ Os arquivos CMS não são encontrados comumente nas máquinas dos usuários. Com
 
 ### O que é CMS independente?
 
-Um arquivo de perfil CMS é criado usando o Connection Manager e é empacotado com outros arquivos de configuração antes de ser fornecido ao usuário remoto. Esses arquivos adicionais podem incluir um arquivo CMP e um arquivo INF que são empacotados em um arquivo [EXE](/pt/executável/exe/). Este pacote completo é fornecido ao usuário remoto para conexão à rede.
+Um arquivo de perfil CMS é criado usando o Connection Manager e é empacotado com outros arquivos de configuração antes de ser fornecido ao usuário remoto. Esses arquivos adicionais podem incluir um arquivo CMP e um arquivo INF que são empacotados em um arquivo [EXE](/pt/executable/exe/). Este pacote completo é fornecido ao usuário remoto para conexão à rede.
 
 ## Referências
 

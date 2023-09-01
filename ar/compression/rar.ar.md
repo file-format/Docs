@@ -91,5 +91,5 @@
 ## مراجع
 
 * [تنسيق أرشيف RAR 5.0](https://www.rarlab.com/technote.htm)
-* [RAR - بواسطة Wikipedia](https://en.wikipedia.org/wiki/RAR_ (file_format))
+* [RAR - بواسطة Wikipedia](https://en.wikipedia.org/wiki/RAR_(file_format))
 

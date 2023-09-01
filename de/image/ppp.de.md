@@ -18,7 +18,7 @@
 
 ## Was ist eine PPP-Datei?
 
-Eine PPP-Datei ist eine Grafikprojektdatei, die mit der NCH PhotoPad Editor Software erstellt wurde. Es umfasst das bearbeitete Bild in PhotoPad zusammen mit der Aufzeichnung aller Bearbeitungen, die an verschiedenen Komponenten (wie Ebenen, Text, Anpassungen) dieses Bildes vorgenommen wurden. Auf diese Weise können Sie zu einer vorherigen Bearbeitungsphase zurückkehren und von diesem Punkt aus mit der Bearbeitung beginnen. PPP-Projektdateien können in der PhotoPad-Software geöffnet und in gängige Bilddateiformate wie [JPG](/de/image/jpeg/), [PNG](/de/image/png/), [TIFF](/de/image/tiff /), [GIF](/de/image/gif/) und [PSD](/de/image/psd/).
+Eine PPP-Datei ist eine Grafikprojektdatei, die mit der NCH PhotoPad Editor Software erstellt wurde. Es umfasst das bearbeitete Bild in PhotoPad zusammen mit der Aufzeichnung aller Bearbeitungen, die an verschiedenen Komponenten (wie Ebenen, Text, Anpassungen) dieses Bildes vorgenommen wurden. Auf diese Weise können Sie zu einer vorherigen Bearbeitungsphase zurückkehren und von diesem Punkt aus mit der Bearbeitung beginnen. PPP-Projektdateien können in der PhotoPad-Software geöffnet und in gängige Bilddateiformate wie [JPG](/de/image/jpeg/), [PNG](/de/image/png/), [TIFF](/de/image/tiff/), [GIF](/de/image/gif/) und [PSD](/de/image/psd/).
 
 ### PPP-Dateiformat
 

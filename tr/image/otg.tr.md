@@ -45,7 +45,7 @@ Asıl Din Notu öğesi, bu tür sayfaların yazdırılmasını destekleyen uygul
 
 |Düzen|Özellik|Açıklama
 ---|---|---|
-|Sunum Sayfası Düzeni|sunum:sunum-sayfası-düzeninin-adı|` bağlantısı<style:presentation-page-layout> öznitelik
+|Sunum Sayfası Düzeni|sunum:sunum-sayfası-düzeninin-adı| bağlantısı`<style:presentation-page-layout>` öznitelik
 |Sayfa Düzeni|`stil:sayfa düzeni-adı` | Dinleyici ana sayfasının boyutlarını, kenarlığını ve yönünü içeren bir sayfa düzenini belirtir.
 |Sayfa Stili|`draw:style-name`|Bir çizim sayfası stili atayarak dinleyici notu ana sayfasına ek biçimlendirme nitelikleri atar.|
 |Başlık Bildirimi| `sunum:use-header-name`| Dinleyici notu ana sayfasında görüntülenen tüm başlık alanları için kullanılan başlık alanı bildiriminin adını belirtir.

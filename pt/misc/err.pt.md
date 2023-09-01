@@ -27,5 +27,5 @@ Os arquivos ERR são salvos em disco como arquivos de texto simples e também po
 
 ## Referências
 
-* [Improtance of the EndNote Data Folder](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= pt_BR)
+* [Improtance of the EndNote Data Folder](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language=en_US)
 

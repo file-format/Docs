@@ -30,7 +30,7 @@ Az LRC-fájloknak több formátuma is létezik, amelyeket az idők során fejles
 
 ### Egyszerű LRC formátum
 
-A soridő címkék formátuma [mm:ss.xx], ahol mm a perc, ss másodperc és xx századmásodperc.
+A soridő címkék formátuma `[mm:ss.xx]`, ahol mm a perc, ss másodperc és xx századmásodperc.
 
 ```
 [00:12.00]Line 1 lyrics
@@ -54,7 +54,7 @@ Tartalmazza a dalszöveg nemének megváltoztatásának és megadásának lehet�
 ```
 ### Továbbfejlesztett LRC formátum
 
-A továbbfejlesztett LRC formátum a Simple LRC formátum kiterjesztett változata. Hozzáad egy Word időcímkét a formátumban<mm:ss.xx> az előző szó végén.
+A továbbfejlesztett LRC formátum a Simple LRC formátum kiterjesztett változata. Hozzáad egy Word időcímkét a formátumban`<mm:ss.xx>` az előző szó végén.
 
 ```
 [ar: Jade Michael]

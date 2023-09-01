@@ -45,7 +45,7 @@ OTG ファイル形式は、十分に確立されたスキーマを持つ OpenDo
 
 |レイアウト|属性|説明
 ---|---|---|
-|Presentation Page Layout|presentation:presentation-page-layout-name|`へのリンク<style:presentation-page-layout>` 属性
+|Presentation Page Layout|presentation:presentation-page-layout-name|へのリンク`<style:presentation-page-layout>` 属性
 |ページ レイアウト|`style:ページ レイアウト名` |配布資料マスター ページのサイズ、境界線、および向きを含むページ レイアウトを指定します。
 |ページ スタイル|`draw:style-name`|図面ページ スタイルを割り当てることにより、配布資料マスターページに追加の書式設定属性を割り当てます。|
 |ヘッダー宣言| `presentation:use-header-name`|配布資料マスター ページに表示されるすべてのヘッダー フィールドに使用されるヘッダー フィールド宣言の名前を指定します。

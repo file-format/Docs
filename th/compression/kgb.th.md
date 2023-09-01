@@ -28,5 +28,5 @@
 ## อ้างอิง
 
 * [KGB - Wikipedia](https://en.wikipedia.org/wiki/KGB_Archiver)
-* [KGB Archiver](https://sourceforge.net/projects/kgbararchiver/)
+* [KGB Archiver](https://sourceforge.net/projects/kgbarchiver/)
 

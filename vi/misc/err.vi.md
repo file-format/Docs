@@ -27,5 +27,5 @@ Các tệp ERR được lưu vào đĩa dưới dạng tệp văn bản thuần 
 
 ## Người giới thiệu
 
-* [Tầm quan trọng của thư mục dữ liệu EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= vi_US)
+* [Tầm quan trọng của thư mục dữ liệu EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language=en_US)
 

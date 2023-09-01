@@ -71,7 +71,7 @@ SQL Server 数据文件中的页面从零 (0) 开始并按顺序递增。每个�
 
 ## 参考
 
-* [数据库文件和文件组](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?redirectedfrom=MSDN&view=sql-server-ver15)
-* [数据库分离和附加 - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
+* [数据库文件和文件组](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver16)
+* [数据库分离和附加 - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server-ver15)
 * [分析SQL Server数据文件解剖](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

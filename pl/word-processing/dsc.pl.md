@@ -22,7 +22,7 @@ Plik z rozszerzeniem .dsc to plik opisu tekstowego, który zawiera informacje o 
 
 ## Format pliku DSC — więcej informacji
 
-Pliki DSC są tworzone i zapisywane na dysku jako zwykłe pliki tekstowe. Można je edytować, otwierając je w dowolnym zgodnym edytorze tekstu, takim jak Microsoft Notatnik. DSC jest zgodne z formatem zwykłego tekstu podobnym do plików [.txt](/pl/word-processing/dsc/) i może być wypełnione dowolnymi szczegółami oprogramowania zgodnie z funkcjonalnością lub instrukcjami oprogramowania.
+Pliki DSC są tworzone i zapisywane na dysku jako zwykłe pliki tekstowe. Można je edytować, otwierając je w dowolnym zgodnym edytorze tekstu, takim jak Microsoft Notatnik. DSC jest zgodne z formatem zwykłego tekstu podobnym do plików [.txt](/pl/word-processing/txt/) i może być wypełnione dowolnymi szczegółami oprogramowania zgodnie z funkcjonalnością lub instrukcjami oprogramowania.
 
 ## Bibliografia
 

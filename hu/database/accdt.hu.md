@@ -35,7 +35,7 @@ Az ACDT fájlok olyan csomagok, amelyek kapcsolódó részek gyűjteményét tar
 
 #### Csomag
 
-A csomag egy [ZIP](/hu/compression/zip/) archívum, amely több részből áll, és megfelel az [ISO/IEC-29500-2] dokumentumban (https://www.iso.org/standard/51459.html). Az ACDT-fájloknak tartalmazniuk kell legalább egy sablon metadaa részt, amely egy kapcsolat célpontja lehet. Ez a sablon metaadat az ACCDT fájl kezdő része.
+A csomag egy [ZIP](/hu/compression/zip/) archívum, amely több részből áll, és megfelel az [ISO/IEC-29500-2](https://www.iso.org/standard/51459.html) dokumentumban. Az ACDT-fájloknak tartalmazniuk kell legalább egy sablon metadaa részt, amely egy kapcsolat célpontja lehet. Ez a sablon metaadat az ACCDT fájl kezdő része.
 
 #### Rész
 

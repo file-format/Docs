@@ -28,5 +28,5 @@ Az ART fájlokat bináris fájlokként mentettük a lemezre, és a fejlesztő sz
 ## Hivatkozások
 
 * [ArtCAM Autodesk](https://www.autodesk.com/products/artcam/overview)
-* [Az Autodesk ArtCAM nem tudja megnyitni a korábbi örökölt verziókban készült rajzfájlokat](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-ArtCAM-cannot-open-art-files-made-in-previous-legacy-versions.html)
+
 

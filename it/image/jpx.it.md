@@ -19,7 +19,7 @@
 
 ## Che cos'è un file JPX? ##
 
-Un file con estensione .jpx è un'estensione del formato file JPEG 2000. Utilizza principalmente la compressione JPEG 2000 e fornisce anche funzionalità avanzate come livelli multipli per un'immagine, vari spazi colore, opacità e flussi di codice frammentati. JPX consente anche altre compressioni come JBIG, CCITT Group3, CCITT Group4, ecc. oltre alla compressione JPEG 2000. Il formato di file JPX è stato approvato come standard [ISO/IEC 15444-2](https://www.iso.org/standard/33160.html), ma non ha potuto ricevere un'accoglienza calorosa a causa dell'ampio utilizzo di [JPEG ](/it/immagine/jpeg/). Le applicazioni che possono aprire file JPX includono Corel PaintShop Pro, Adobe Photoshop 2020, Adobe Illustrator 2020 e CorelDraw Graphics Suite 2020.
+Un file con estensione .jpx è un'estensione del formato file JPEG 2000. Utilizza principalmente la compressione JPEG 2000 e fornisce anche funzionalità avanzate come livelli multipli per un'immagine, vari spazi colore, opacità e flussi di codice frammentati. JPX consente anche altre compressioni come JBIG, CCITT Group3, CCITT Group4, ecc. oltre alla compressione JPEG 2000. Il formato di file JPX è stato approvato come standard [ISO/IEC 15444-2](https://www.iso.org/standard/33160.html), ma non ha potuto ricevere un'accoglienza calorosa a causa dell'ampio utilizzo di [JPEG ](/it/image/jpeg/). Le applicazioni che possono aprire file JPX includono Corel PaintShop Pro, Adobe Photoshop 2020, Adobe Illustrator 2020 e CorelDraw Graphics Suite 2020.
 
 ## Breve storia
 

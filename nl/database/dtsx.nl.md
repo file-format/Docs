@@ -29,7 +29,7 @@ De gegevensstroom die door DTSX wordt beschreven, is zoals weergegeven in de vol
 
 {{< figure src="../DataFlowDTSX.png" alt="Gegevensstroom DTSX" >}}
 
-DTSX is gebaseerd op [XML](/nl/web/xml/) en is gedocumenteerd in [MS-DTSX](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd). De verbeterde refactoring van DTSX XML is DTSX 2.0 dat nieuwe attributen voor de structuren omvat, vervanging van benoemde eigenschappen als bovenliggende XML-attributen, standaardwaarden specificeert voor de meeste attribuutwaarden en plaatsing van herhaalde elementen binnen een bovenliggend element. DTSX-structuren worden beschreven met behulp van deze [XML-schema's](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc#Appendix_A_1) en het structurele formaat is celar-tekst XML.
+DTSX is gebaseerd op [XML](/nl/web/xml/) en is gedocumenteerd in [MS-DTSX](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/235600e9-0c13-4b5b-a388-aa3c65aec1dd). De verbeterde refactoring van DTSX XML is DTSX 2.0 dat nieuwe attributen voor de structuren omvat, vervanging van benoemde eigenschappen als bovenliggende XML-attributen, standaardwaarden specificeert voor de meeste attribuutwaarden en plaatsing van herhaalde elementen binnen een bovenliggend element. DTSX-structuren worden beschreven met behulp van deze [XML-schema's](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-dtsx/e5095968-26ea-4824-a717-153ccee642dc) en het structurele formaat is celar-tekst XML.
 
 ## Referenties
 

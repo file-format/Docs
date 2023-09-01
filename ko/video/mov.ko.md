@@ -91,7 +91,7 @@ VideoLAN VLC 미디어 플레이어 및 Eltima Elmedia Player를 포함한 여�
 * 비디오 전송 스트림 - [TS](/ko/video/ts/)
 * 고급 시스템 형식 - [ASF](/ko/video/ts/)
 * Ogg Vorbis 오디오 - [OGG](/ko/audio/ogg/)
-* MP3 오디오 - [MP3](/ko/오디오/mp3/)
+* MP3 오디오 - [MP3](/ko/audio/mp3/)
 * 무료 무손실 오디오 코덱 - [FLAC](/ko/audio/flac/)
 * WAVE 오디오 - [WAV](/ko/audio/wav/)
 
