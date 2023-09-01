@@ -58,7 +58,7 @@ O formato OpenDocument suporta várias formas de desenho que podem ser usadas po
 |Forma|Atributos Associados| elementos
 ---|---|---|
 Retângulo - `<draw:rect>` |Posição, tamanho, estilo, camada, índice Z, ID, ID da legenda, âncora de texto, fundo da tabela, posição final do desenho, cantos arredondados|Título, descrição longa, ouvintes de eventos, pontos de cola, texto
-Linha `<draw:line> `|Estilo, Camada, Índice Z, ID, ID da legenda e Transformação, Âncora de texto, plano de fundo da tabela, posição final do desenho, Ponto inicial, Ponto final|Título, Descrição longa, Ouvintes de evento, Pontos de cola, Texto
+Linha `<draw:line>` |Estilo, Camada, Índice Z, ID, ID da legenda e Transformação, Âncora de texto, plano de fundo da tabela, posição final do desenho, Ponto inicial, Ponto final|Título, Descrição longa, Ouvintes de evento, Pontos de cola, Texto
 Polilinha `<draw:polyline> `| Posição, Tamanho, Caixa de exibição, Estilo, Camada, Índice Z, ID, ID da legenda e Transformação, Âncora de texto, plano de fundo da tabela, posição final do desenho, Pontos| Título, descrição longa, ouvintes de eventos, pontos de cola, texto
 Polígono `<draw:polygon> `|Posição, Tamanho, Caixa de visualização, Estilo, Camada, Índice Z, ID, ID da legenda e Transformação, Âncora de texto, plano de fundo da tabela, posição final do desenho, Pontos|Título, Descrição longa, Ouvintes de eventos, Pontos de cola, Texto
 |Polígono Regular `<draw:regular-polygon> `|Posição, Tamanho, Estilo, Camada, Índice Z, ID, ID da legenda e Transformação, Âncora de texto, plano de fundo da tabela, posição final do desenho, Côncavo, Cantos, Nitidez|Título, Descrição longa, Ouvintes de evento, Pontos de cola, Texto

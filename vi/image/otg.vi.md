@@ -58,7 +58,7 @@ Các thuộc tính có thể được liên kết với `<style:handout-master>`
 |Hình dạng|Thuộc tính được liên kết| yếu tố
 ---|---|---|
 Hình chữ nhật - `<draw:rect>` |Vị trí, Kích thước, Kiểu, Lớp, Chỉ mục Z, ID, ID chú thích, Neo văn bản, nền bảng, vị trí kết thúc vẽ, Góc tròn|Tiêu đề, Mô tả dài, Trình xử lý sự kiện, Điểm keo, Văn bản
-Dòng `<draw:line> `|Kiểu, Lớp, Chỉ mục Z, ID, ID chú thích và Chuyển đổi, Neo văn bản, nền bảng, vị trí kết thúc vẽ, Điểm bắt đầu, Điểm kết thúc|Tiêu đề, Mô tả dài, Trình xử lý sự kiện, Điểm keo, Văn bản
+Dòng `<draw:line>` |Kiểu, Lớp, Chỉ mục Z, ID, ID chú thích và Chuyển đổi, Neo văn bản, nền bảng, vị trí kết thúc vẽ, Điểm bắt đầu, Điểm kết thúc|Tiêu đề, Mô tả dài, Trình xử lý sự kiện, Điểm keo, Văn bản
 Đa tuyến `<draw:polyline> `| Vị trí, Kích thước, Hộp xem, Kiểu, Lớp, Chỉ mục Z, ID, ID Phụ đề và Chuyển đổi, Neo văn bản, nền bảng, vị trí kết thúc vẽ, Điểm| Tiêu đề, Mô tả dài, Trình xử lý sự kiện, Điểm kết dính, Văn bản
 Đa giác `<draw:polygon> `|Vị trí, Kích thước, Hộp xem, Kiểu, Lớp, Chỉ mục Z, ID, ID chú thích và Chuyển đổi, Neo văn bản, nền bảng, vị trí kết thúc vẽ, Điểm|Tiêu đề, Mô tả dài, Trình xử lý sự kiện, Điểm keo, Văn bản
 |Đa giác đều `<draw:regular-polygon> `|Vị trí, Kích thước, Kiểu, Lớp, Chỉ mục Z, ID, ID chú thích và Chuyển đổi, Neo văn bản, nền bảng, vị trí kết thúc vẽ, Lõm, Góc, Độ sắc nét|Tiêu đề, Mô tả dài, Trình xử lý sự kiện, Điểm keo, Văn bản

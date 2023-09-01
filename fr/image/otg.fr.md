@@ -58,7 +58,7 @@ Le format OpenDocument prend en charge plusieurs formes de dessin pouvant être 
 |Forme|Attributs associés| éléments
 ---|---|---|
 Rectangulaire - `<draw:rect>` |Position, Taille, Style, Calque, Z-Index, ID, ID de légende, Ancre de texte, arrière-plan du tableau, position de fin de dessin, Coins arrondis|Titre, Description détaillée, Écouteurs d'événements, Points de collage, Texte
-Ligne `<draw:line> `|Style, Calque, Z-Index, ID, ID de légende et transformation, Ancre de texte, arrière-plan du tableau, position de fin de dessin, Point de départ, Point de fin|Titre, Description longue, Écouteurs d'événements, Points de collage, Texte
+Ligne `<draw:line>` |Style, Calque, Z-Index, ID, ID de légende et transformation, Ancre de texte, arrière-plan du tableau, position de fin de dessin, Point de départ, Point de fin|Titre, Description longue, Écouteurs d'événements, Points de collage, Texte
 Polyligne `<draw:polyline> `| Position, taille, zone d'affichage, style, calque, index Z, ID, ID de légende et transformation, ancre de texte, arrière-plan du tableau, position de fin de dessin, points | Titre, description longue, écouteurs d'événement, points de liaison, texte
 Polygone `<draw:polygon> `|Position, Taille, Zone d'affichage, Style, Calque, Z-Index, ID, ID de légende et transformation, Ancre de texte, arrière-plan du tableau, position de fin de dessin, Points|Titre, Description détaillée, Écouteurs d'événements, Points de collage, Texte
 |Polygone régulier `<draw:regular-polygon> `|Position, Taille, Style, Calque, Z-Index, ID, ID de légende et transformation, Ancre de texte, arrière-plan du tableau, position de fin de dessin, Concave, Coins, Netteté|Titre, Description détaillée, Écouteurs d'événement, Points de collage, Texte

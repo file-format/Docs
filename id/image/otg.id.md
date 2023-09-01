@@ -58,7 +58,7 @@ Format OpenDocument mendukung beberapa bentuk gambar yang dapat digunakan oleh s
 |Bentuk|Atribut Terkait| elemen
 ---|---|---|
 Persegi panjang - `<draw:rect>` |Posisi, Ukuran, Gaya, Lapisan, Indeks-Z, ID, ID Teks, Jangkar teks, latar belakang tabel, posisi ujung gambar, Sudut bulat|Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks
-Baris `<draw:line> `|Gaya, Lapisan, Indeks-Z, ID, ID Teks dan Transformasi, Jangkar teks, latar belakang tabel, posisi akhir gambar, Titik awal, Titik Akhir|Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks
+Baris `<draw:line>` |Gaya, Lapisan, Indeks-Z, ID, ID Teks dan Transformasi, Jangkar teks, latar belakang tabel, posisi akhir gambar, Titik awal, Titik Akhir|Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks
 Polilin`<draw:polyline> `| Posisi, Ukuran, Kotak tampilan, Gaya, Lapisan, Indeks-Z, ID, ID Teks dan Transformasi, Jangkar teks, latar belakang tabel, posisi ujung gambar, Titik| Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks
 Poligon`<draw:polygon> `|Posisi, Ukuran, Kotak tampilan, Gaya, Lapisan, Indeks-Z, ID, ID Teks dan Transformasi, Jangkar teks, latar belakang tabel, posisi akhir gambar, Titik|Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks
 |Poligon Biasa `<draw:regular-polygon> `|Posisi, Ukuran, Gaya, Lapisan, Indeks-Z, ID, ID Teks dan Transformasi, Jangkar teks, latar belakang tabel, posisi ujung gambar, Cekung, Sudut, Ketajaman|Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks

@@ -58,7 +58,7 @@ Az OpenDocument formátum számos rajzi formát támogat, amelyeket bármilyen t
 |Alak|Kapcsolódó attribútumok| elemeket
 ---|---|---|
 Téglalap - `<draw:rect>` |Pozíció, méret, stílus, réteg, Z-index, azonosító, feliratazonosító, szöveghorgony, táblázat háttere, rajz végpozíciója, lekerekített sarkok|cím, hosszú leírás, eseményfigyelők, ragasztópontok, szöveg
-Vonal `<draw:line> `|Stílus, Réteg, Z-index, azonosító, feliratazonosító és átalakítás, szöveghorgony, táblázat háttere, rajzolás végpontja, kezdőpont, végpont|cím, hosszú leírás, eseményfigyelők, ragasztópontok, szöveg
+Vonal `<draw:line>` |Stílus, Réteg, Z-index, azonosító, feliratazonosító és átalakítás, szöveghorgony, táblázat háttere, rajzolás végpontja, kezdőpont, végpont|cím, hosszú leírás, eseményfigyelők, ragasztópontok, szöveg
 Vonallánc `<draw:polyline> `| Pozíció, Méret, Nézetmező, Stílus, Réteg, Z-index, ID, Feliratazonosító és átalakítás, Szöveghorgony, táblázat háttere, rajzolás végpozíciója, Pontok| Cím, hosszú leírás, eseményfigyelők, ragasztópontok, szöveg
 Sokszög `<draw:polygon> `|Pozíció, Méret, Nézetmező, Stílus, Réteg, Z-index, ID, Feliratazonosító és átalakítás, Szöveghorgony, táblázat háttér, rajzolás végpontja, Pontok|Cím, Hosszú leírás, Eseményfigyelők, Ragasztópontok, Szöveg
 |Szabályos sokszög `<draw:regular-polygon> `|Pozíció, méret, stílus, réteg, Z-index, azonosító, feliratazonosító és átalakítás, szöveghorgony, táblázat háttere, rajz végpontja, konkáv, sarkok, élesség|cím, hosszú leírás, eseményfigyelők, ragasztópontok, szöveg
