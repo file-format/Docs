@@ -61,8 +61,8 @@ Rektangel - `<draw:rect>` |Position, Storlek, Stil, Lager, Z-index, ID, Bildtext
 Rad `<draw:line>` |Stil, lager, Z-index, ID, bildtext-ID och transformation, textankare, tabellbakgrund, ritslutposition, startpunkt, slutpunkt|titel, lång beskrivning, händelseavlyssnare, limpunkter, text
 Polylinje `<draw:polyline>` | Position, Storlek, View box, Style, Layer, Z-Index, ID, Caption ID och Transformation, Textankare, tabellbakgrund, rita slutposition, Points| Titel, lång beskrivning, händelselyssnare, limpunkter, text
 Polygon `<draw:polygon>` |Position, Storlek, Visa ruta, Stil, Lager, Z-index, ID, Bildtext ID och Transformation, Textankare, tabellbakgrund, ritslutposition, Points|Titel, Lång beskrivning, Händelselyssnare, Limpunkter, Text
-|Vanlig polygon `<draw:regular-polygon> `|Position, storlek, stil, lager, Z-index, ID, bildtext-ID och transformation, textankare, tabellbakgrund, ritslutposition, konkav, hörn, skärpa|titel, lång beskrivning, händelselyssnare, limpunkter, text
-|Paht `<draw:path> `|Position, Storlek, View box, Style, Layer, Z-Index, ID, Caption ID och Transformation,Textankare, tabellbakgrund, rita slutposition, Bandata| Titel, lång beskrivning, händelselyssnare, limpunkter, text
+|Vanlig polygon `<draw:regular-polygon>` |Position, storlek, stil, lager, Z-index, ID, bildtext-ID och transformation, textankare, tabellbakgrund, ritslutposition, konkav, hörn, skärpa|titel, lång beskrivning, händelselyssnare, limpunkter, text
+|Paht `<draw:path>` |Position, Storlek, View box, Style, Layer, Z-Index, ID, Caption ID och Transformation,Textankare, tabellbakgrund, rita slutposition, Bandata| Titel, lång beskrivning, händelselyssnare, limpunkter, text
 
 ### Ramar ###
 En ram i ett ritdokument är en rektangulär behållare som innehåller textrutor, bilder eller objekt. Ramar stöder ytterligare funktioner som konturer, bildkartor och hyperlänkar. En ram kan innehålla ett objekt såväl som en bild, vilket gör det möjligt att ha flera återgivningar av ett objekt. Applikationerna återger respektive element baserat på det bästa stödet.

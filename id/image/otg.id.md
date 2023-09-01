@@ -61,8 +61,8 @@ Persegi panjang - `<draw:rect>` |Posisi, Ukuran, Gaya, Lapisan, Indeks-Z, ID, ID
 Baris `<draw:line>` |Gaya, Lapisan, Indeks-Z, ID, ID Teks dan Transformasi, Jangkar teks, latar belakang tabel, posisi akhir gambar, Titik awal, Titik Akhir|Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks
 Polilin`<draw:polyline>` | Posisi, Ukuran, Kotak tampilan, Gaya, Lapisan, Indeks-Z, ID, ID Teks dan Transformasi, Jangkar teks, latar belakang tabel, posisi ujung gambar, Titik| Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks
 Poligon`<draw:polygon>` |Posisi, Ukuran, Kotak tampilan, Gaya, Lapisan, Indeks-Z, ID, ID Teks dan Transformasi, Jangkar teks, latar belakang tabel, posisi akhir gambar, Titik|Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks
-|Poligon Biasa `<draw:regular-polygon> `|Posisi, Ukuran, Gaya, Lapisan, Indeks-Z, ID, ID Teks dan Transformasi, Jangkar teks, latar belakang tabel, posisi ujung gambar, Cekung, Sudut, Ketajaman|Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks
-|Paht`<draw:path> `|Posisi, Ukuran, Kotak Tampilan, Gaya, Lapisan, Indeks-Z, ID, ID Teks dan Transformasi, Penanda Teks, Latar Belakang Tabel, Posisi Akhir Gambar, Data Jalur| Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks
+|Poligon Biasa `<draw:regular-polygon>` |Posisi, Ukuran, Gaya, Lapisan, Indeks-Z, ID, ID Teks dan Transformasi, Jangkar teks, latar belakang tabel, posisi ujung gambar, Cekung, Sudut, Ketajaman|Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks
+|Paht`<draw:path>` |Posisi, Ukuran, Kotak Tampilan, Gaya, Lapisan, Indeks-Z, ID, ID Teks dan Transformasi, Penanda Teks, Latar Belakang Tabel, Posisi Akhir Gambar, Data Jalur| Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks
 
 ### Bingkai ###
 Bingkai, dalam dokumen gambar adalah wadah persegi panjang yang berisi kotak teks, gambar, atau objek. Bingkai mendukung fitur tambahan seperti kontur, peta gambar, dan hyperlink. Sebuah bingkai dapat berisi objek dan juga gambar, sehingga memungkinkan untuk memiliki banyak rendisi dari suatu objek. Aplikasi membuat elemen masing-masing berdasarkan dukungan terbaik.
