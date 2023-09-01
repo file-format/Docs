@@ -46,7 +46,7 @@ Atributy, které mohou být spojeny s `<style:handout-master> ` prvek jsou:
 |Rozvržení|Atribut|Popis
 ---|---|---|
 |Rozvržení stránky prezentace|prezentace:název-rozložení-prezentace|Odkazy na `<style:presentation-page-layout>`  atribut
-|Rozvržení stránky|`style:název-rozložení stránky` | Určuje rozvržení stránky, které obsahuje velikosti, ohraničení a orientaci vzorové stránky podkladů.
+|Rozvržení stránky|`style:page-layout-name` | Určuje rozvržení stránky, které obsahuje velikosti, ohraničení a orientaci vzorové stránky podkladů.
 |Styl stránky|`draw:style-name`|Přiřadí další atributy formátování hlavní stránce podkladu přiřazením stylu stránky výkresu.|
 |Prohlášení v záhlaví| `presentation:use-header-name`| Určuje název deklarace pole záhlaví, která se používá pro všechna pole záhlaví, která jsou zobrazena na vzorové stránce podkladů.
 |Prohlášení v zápatí| presentation:use-footer-name|Uvádí název deklarace pole zápatí, která se používá pro všechna pole zápatí, která jsou zobrazena na vzorové stránce podkladů.
