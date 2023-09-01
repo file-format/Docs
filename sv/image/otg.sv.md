@@ -60,7 +60,7 @@ OpenDocument-formatet stöder flera ritformer som kan användas av alla typer av
 Rektangel - `<draw:rect>` |Position, Storlek, Stil, Lager, Z-index, ID, Bildtext-ID, Textankare, tabellbakgrund, ritslutposition, Runda hörn|Titel, Lång Beskrivning, Händelselyssnare, Limpunkter, Text
 Rad `<draw:line>` |Stil, lager, Z-index, ID, bildtext-ID och transformation, textankare, tabellbakgrund, ritslutposition, startpunkt, slutpunkt|titel, lång beskrivning, händelseavlyssnare, limpunkter, text
 Polylinje `<draw:polyline>` | Position, Storlek, View box, Style, Layer, Z-Index, ID, Caption ID och Transformation, Textankare, tabellbakgrund, rita slutposition, Points| Titel, lång beskrivning, händelselyssnare, limpunkter, text
-Polygon `<draw:polygon> `|Position, Storlek, Visa ruta, Stil, Lager, Z-index, ID, Bildtext ID och Transformation, Textankare, tabellbakgrund, ritslutposition, Points|Titel, Lång beskrivning, Händelselyssnare, Limpunkter, Text
+Polygon `<draw:polygon>` |Position, Storlek, Visa ruta, Stil, Lager, Z-index, ID, Bildtext ID och Transformation, Textankare, tabellbakgrund, ritslutposition, Points|Titel, Lång beskrivning, Händelselyssnare, Limpunkter, Text
 |Vanlig polygon `<draw:regular-polygon> `|Position, storlek, stil, lager, Z-index, ID, bildtext-ID och transformation, textankare, tabellbakgrund, ritslutposition, konkav, hörn, skärpa|titel, lång beskrivning, händelselyssnare, limpunkter, text
 |Paht `<draw:path> `|Position, Storlek, View box, Style, Layer, Z-Index, ID, Caption ID och Transformation,Textankare, tabellbakgrund, rita slutposition, Bandata| Titel, lång beskrivning, händelselyssnare, limpunkter, text
 

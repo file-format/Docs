@@ -60,7 +60,7 @@ Formát OpenDocument podporuje několik tvarů výkresu, které lze použít pro
 Obdélník - `<draw:rect>` |Pozice, Velikost, Styl, Vrstva, Z-Index, ID, ID titulku, Ukotvení textu, pozadí tabulky, koncová pozice kreslení, Zaoblené rohy|Název, Dlouhý popis, Posluchači událostí, Lepicí body, Text
 Řádek `<draw:line>` |Styl, Vrstva, Z-Index, ID, ID titulku a transformace, Ukotvení textu, pozadí tabulky, koncová pozice kreslení, Počáteční bod, Koncový bod|Název, Dlouhý popis, Posluchači událostí, Lepicí body, Text
 Polyline `<draw:polyline>` | Pozice, Velikost, Pole zobrazení, Styl, Vrstva, Z-Index, ID, ID titulku a transformace, Kotva textu, pozadí tabulky, koncová pozice kreslení, Body| Název, dlouhý popis, posluchači událostí, lepicí body, text
-Mnohoúhelník "draw:polygon `|Pozice, Velikost, Pole zobrazení, Styl, Vrstva, Z-Index, ID, ID a transformace titulku, Ukotvení textu, pozadí tabulky, koncová pozice kreslení, Body|Název, Dlouhý popis, Posluchači událostí, Lepicí body, Text
+Mnohoúhelník `<draw:polygon>` |Pozice, Velikost, Pole zobrazení, Styl, Vrstva, Z-Index, ID, ID a transformace titulku, Ukotvení textu, pozadí tabulky, koncová pozice kreslení, Body|Název, Dlouhý popis, Posluchači událostí, Lepicí body, Text
 |Pravidelný mnohoúhelník `<draw:regular-polygon> `|Pozice, Velikost, Styl, Vrstva, Z-Index, ID, ID a transformace titulku, Ukotvení textu, pozadí tabulky, koncová pozice kreslení, Konkávní, Rohy, Ostrost|Název, Dlouhý popis, Posluchače událostí, Lepicí body, Text
 |Cesta `<draw:path> `|Pozice, Velikost, Pole zobrazení, Styl, Vrstva, Z-Index, ID, ID titulku a transformace, Kotva textu, pozadí tabulky, koncová pozice kreslení, Data cesty| Název, dlouhý popis, posluchači událostí, lepicí body, text
 
