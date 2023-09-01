@@ -7,7 +7,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "Convert GLB to FBX online for FREE",
-  "description":"Learn about GLB to FBX file format and convert FLB to FBX for FREE online.",
+  "description":"Learn about GLB to FBX conversions and convert GLB to FBX for FREE online.",
   "linktitle" : "GLB to FBX",
   "menu" : {
     "docs" : {
@@ -52,7 +52,7 @@ This variety of support for different programming languages gives you the opport
 
 ## Convert GLB to FBX in .NET, Java, C++ and Python
 
-You can convert GLB file to GBX in your **C#**, **Java**, **C++** and **Python** applications as shown in the following sections.
+You can convert GLB file to FBX in your **C#**, **Java**, and **Python** applications as shown in the following sections.
 
 ### Convert GLB to FBX using Aspose.3D for .NET
 
