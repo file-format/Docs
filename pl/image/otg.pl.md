@@ -47,7 +47,7 @@ Atrybuty, które mogą być powiązane z `<style:handout-master>` elementem są:
 ---|---|---|
 |Układ strony prezentacji|prezentacja:nazwa-układu-strony-prezentacji|Linki do `<style:presentation-page-layout>`  atrybut
 |Układ strony|`style:page-layout-name` | Określa układ strony, który zawiera rozmiary, obramowanie i orientację strony wzorcowej materiałów informacyjnych.
-|Styl strony|`draw:nazwa-stylu`|Przypisuje dodatkowe atrybuty formatowania do strony wzorcowej materiałów informacyjnych poprzez przypisanie stylu strony rysunku.|
+|Styl strony|`draw:style-name`|Przypisuje dodatkowe atrybuty formatowania do strony wzorcowej materiałów informacyjnych poprzez przypisanie stylu strony rysunku.|
 |Deklaracja nagłówka| `prezentacja:użyj-nazwy-nagłówka`| Określa nazwę deklaracji pola nagłówka, która jest używana dla wszystkich pól nagłówka wyświetlanych na stronie wzorcowej materiałów informacyjnych.
 |Deklaracja stopki| Presentation:use-footer-name|Określa nazwę deklaracji pola stopki, która jest używana dla wszystkich pól stopki wyświetlanych na stronie wzorcowej materiałów informacyjnych.
 |Deklaracja daty i godziny|nazwa-daty-czasu-użytkowania|Określa nazwę deklaracji pola daty-godziny, która jest używana dla wszystkich pól daty-godziny wyświetlanych na stronie wzorcowej materiałów informacyjnych.
