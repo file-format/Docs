@@ -41,14 +41,14 @@ El formato de archivo OTG se basa en el formato XML de OpenDocument que tiene un
 #### Patrón de folletos ####
 
 El elemento principal de folletos es una plantilla para generar automáticamente las páginas de folletos para aplicaciones que admiten la impresión de dichas páginas.
-Los atributos que se pueden asociar con `<style:handout-master> ` elemento son:
+Los atributos que se pueden asociar con `<style:handout-master>` elemento son:
 
 |Diseño|Atributo|Descripción
 ---|---|---|
 |Diseño de página de presentación|presentación:presentation-page-layout-name|Enlaces a `<style:presentation-page-layout>`  atributo
-|Diseño de página|`estilo:nombre-diseño-de-página` | Especifica un diseño de página que contiene los tamaños, el borde y la orientación de la página maestra del documento.
+|Diseño de página|`style:page-layout-name` | Especifica un diseño de página que contiene los tamaños, el borde y la orientación de la página maestra del documento.
 |Estilo de página|`draw:style-name`|Asigna atributos de formato adicionales a la página maestra de un documento mediante la asignación de un estilo de página de dibujo.|
-|Declaración de cabecera| `presentación:use-header-name`| Especifica el nombre de la declaración del campo de encabezado que se utiliza para todos los campos de encabezado que se muestran en la página maestra del documento.
+|Declaración de cabecera| `presentation:use-header-name`| Especifica el nombre de la declaración del campo de encabezado que se utiliza para todos los campos de encabezado que se muestran en la página maestra del documento.
 |Declaración de pie de página| presentación:use-footer-name|Especifica el nombre de la declaración del campo de pie de página que se usa para todos los campos de pie de página que se muestran en la página maestra del documento.
 |Declaración de fecha y hora|use-date-time-name|Especifica el nombre de la declaración de campo de fecha y hora que se usa para todos los campos de fecha y hora que se muestran en la página maestra del documento.
 
@@ -57,12 +57,12 @@ El formato OpenDocument admite varias formas de dibujo que pueden ser utilizadas
 
 |Forma|Atributos asociados| elementos
 ---|---|---|
-Rectángulo - `<draw:rect> `|Posición, Tamaño, Estilo, Capa, Índice Z, Id., Id. de subtítulos, Anclaje de texto, fondo de tabla, Posición final del dibujo, Esquinas redondeadas|Título, Descripción larga, Oyentes de eventos, Puntos de unión, Texto
-Línea `<draw:line> `|Estilo, Capa, Índice Z, Id., Id. de subtítulos y transformación, Ancla de texto, fondo de tabla, posición final del dibujo, Punto de inicio, Punto final|Título, Descripción larga, Oyentes de eventos, Puntos de unión, Texto
-Polilínea `<draw:polyline> `| Posición, tamaño, cuadro de vista, estilo, capa, índice Z, ID, ID de título y transformación, anclaje de texto, fondo de tabla, posición final del dibujo, puntos | Título, descripción larga, detectores de eventos, puntos de unión, texto
-Polígono `<draw:polygon> `|Posición, tamaño, cuadro de visualización, estilo, capa, índice Z, ID, ID de título y transformación, anclaje de texto, fondo de tabla, posición final del dibujo, puntos|Título, descripción larga, detectores de eventos, puntos de unión, texto
-|Polígono regular `<draw:regular-polygon> `|Posición, tamaño, estilo, capa, índice Z, ID, ID de título y transformación, anclaje de texto, fondo de tabla, posición final del dibujo, cóncavo, esquinas, nitidez|Título, descripción larga, detectores de eventos, puntos de unión, texto
-|Ruta `<draw:path> `|Posición, tamaño, cuadro de vista, estilo, capa, índice Z, ID, ID de título y transformación, ancla de texto, fondo de tabla, posición final del dibujo, datos de ruta| Título, descripción larga, detectores de eventos, puntos de unión, texto
+Rectángulo - `<draw:rect>` |Posición, Tamaño, Estilo, Capa, Índice Z, Id., Id. de subtítulos, Anclaje de texto, fondo de tabla, Posición final del dibujo, Esquinas redondeadas|Título, Descripción larga, Oyentes de eventos, Puntos de unión, Texto
+Línea `<draw:line>` |Estilo, Capa, Índice Z, Id., Id. de subtítulos y transformación, Ancla de texto, fondo de tabla, posición final del dibujo, Punto de inicio, Punto final|Título, Descripción larga, Oyentes de eventos, Puntos de unión, Texto
+Polilínea `<draw:polyline>` | Posición, tamaño, cuadro de vista, estilo, capa, índice Z, ID, ID de título y transformación, anclaje de texto, fondo de tabla, posición final del dibujo, puntos | Título, descripción larga, detectores de eventos, puntos de unión, texto
+Polígono `<draw:polygon>` |Posición, tamaño, cuadro de visualización, estilo, capa, índice Z, ID, ID de título y transformación, anclaje de texto, fondo de tabla, posición final del dibujo, puntos|Título, descripción larga, detectores de eventos, puntos de unión, texto
+|Polígono regular `<draw:regular-polygon>` |Posición, tamaño, estilo, capa, índice Z, ID, ID de título y transformación, anclaje de texto, fondo de tabla, posición final del dibujo, cóncavo, esquinas, nitidez|Título, descripción larga, detectores de eventos, puntos de unión, texto
+|Ruta `<draw:path>` |Posición, tamaño, cuadro de vista, estilo, capa, índice Z, ID, ID de título y transformación, ancla de texto, fondo de tabla, posición final del dibujo, datos de ruta| Título, descripción larga, detectores de eventos, puntos de unión, texto
 
 ### Marcos ###
 Un marco, en un documento de dibujo, es un contenedor rectangular que contiene cuadros de texto, imágenes u objetos. Los marcos admiten características adicionales, como contornos, mapas de imágenes e hipervínculos. Un marco puede contener tanto un objeto como una imagen, lo que permite tener múltiples representaciones de un objeto. Las aplicaciones representan el elemento respectivo basado en el mejor soporte.

@@ -41,12 +41,12 @@ Das OTG-Dateiformat basiert auf dem OpenDocument-XML-Format, das über ein etabl
 #### Handout-Meister ####
 
 Das Handout-Master-Element ist eine Vorlage zum automatischen Generieren der Handout-Seiten für Anwendungen, die das Drucken solcher Seiten unterstützen.
-Die Attribute, die dem ` zugeordnet werden können<style:handout-master> `Element sind:
+Die Attribute, die dem zugeordnet werden können `<style:handout-master>` Element sind:
 
 |Layout|Attribut|Beschreibung
 ---|---|---|
 |Layout der Präsentationsseite|presentation:name-des-präsentationsseitenlayouts|Links zu `<style:presentation-page-layout>` Attribut
-|Seitenlayout|`Stil:Seitenlayoutname` | Gibt ein Seitenlayout an, das die Größen, den Rahmen und die Ausrichtung der Handzettel-Musterseite enthält.
+|Seitenlayout|`style:page-layout-name` | Gibt ein Seitenlayout an, das die Größen, den Rahmen und die Ausrichtung der Handzettel-Musterseite enthält.
 |Seitenstil|`draw:style-name`|Weist einer Handout-Musterseite zusätzliche Formatierungsattribute zu, indem ein Zeichenseitenstil zugewiesen wird.|
 |Kopfdeklaration| `presentation:use-header-name`| Gibt den Namen der Kopfzeilenfelddeklaration an, die für alle Kopfzeilenfelder verwendet wird, die auf der Handzettel-Musterseite angezeigt werden.
 |Fußerklärung| presentation:use-footer-name|Gibt den Namen der Fußzeilenfelddeklaration an, die für alle Fußzeilenfelder verwendet wird, die auf der Handout-Musterseite angezeigt werden.
@@ -57,12 +57,12 @@ Das OpenDocument-Format unterstützt mehrere Zeichnungsformen, die von jedem Dok
 
 |Form|Verknüpfte Attribute| Elemente
 ---|---|---|
-Rechteck - `<draw:rect> `|Position, Größe, Stil, Ebene, Z-Index, ID, Beschriftungs-ID, Textanker, Tabellenhintergrund, Endposition des Zeichnens, runde Ecken|Titel, lange Beschreibung, Ereignis-Listener, Klebepunkte, Text
-Zeile `<draw:line> `|Stil, Ebene, Z-Index, ID, Beschriftungs-ID und Transformation, Textanker, Tabellenhintergrund, Endposition des Zeichnens, Startpunkt, Endpunkt|Titel, lange Beschreibung, Ereignis-Listener, Klebepunkte, Text
-Polylinie `<draw:polyline> `| Position, Größe, Ansichtsfeld, Stil, Ebene, Z-Index, ID, Beschriftungs-ID und Transformation, Textanker, Tabellenhintergrund, Endposition des Zeichnens, Punkte| Titel, lange Beschreibung, Ereignis-Listener, Klebepunkte, Text
-Vieleck `<draw:polygon> `|Position, Größe, Ansichtsfeld, Stil, Ebene, Z-Index, ID, Beschriftungs-ID und Transformation, Textanker, Tabellenhintergrund, Endposition des Zeichnens, Punkte|Titel, lange Beschreibung, Ereignis-Listener, Klebepunkte, Text
-|Reguläres Polygon `<draw:regular-polygon> `|Position, Größe, Stil, Ebene, Z-Index, ID, Beschriftungs-ID und Transformation, Textanker, Tabellenhintergrund, Endposition des Zeichnens, Konkav, Ecken, Schärfe|Titel, lange Beschreibung, Ereignis-Listener, Klebepunkte, Text
-|Paht `<draw:path> `|Position, Größe, Ansichtsfeld, Stil, Ebene, Z-Index, ID, Beschriftungs-ID und Transformation, Textanker, Tabellenhintergrund, Zeichenendposition, Pfaddaten| Titel, lange Beschreibung, Ereignis-Listener, Klebepunkte, Text
+Rechteck - `<draw:rect>` |Position, Größe, Stil, Ebene, Z-Index, ID, Beschriftungs-ID, Textanker, Tabellenhintergrund, Endposition des Zeichnens, runde Ecken|Titel, lange Beschreibung, Ereignis-Listener, Klebepunkte, Text
+Zeile `<draw:line>` |Stil, Ebene, Z-Index, ID, Beschriftungs-ID und Transformation, Textanker, Tabellenhintergrund, Endposition des Zeichnens, Startpunkt, Endpunkt|Titel, lange Beschreibung, Ereignis-Listener, Klebepunkte, Text
+Polylinie `<draw:polyline>` | Position, Größe, Ansichtsfeld, Stil, Ebene, Z-Index, ID, Beschriftungs-ID und Transformation, Textanker, Tabellenhintergrund, Endposition des Zeichnens, Punkte| Titel, lange Beschreibung, Ereignis-Listener, Klebepunkte, Text
+Vieleck `<draw:polygon>` |Position, Größe, Ansichtsfeld, Stil, Ebene, Z-Index, ID, Beschriftungs-ID und Transformation, Textanker, Tabellenhintergrund, Endposition des Zeichnens, Punkte|Titel, lange Beschreibung, Ereignis-Listener, Klebepunkte, Text
+|Reguläres Polygon `<draw:regular-polygon>` |Position, Größe, Stil, Ebene, Z-Index, ID, Beschriftungs-ID und Transformation, Textanker, Tabellenhintergrund, Endposition des Zeichnens, Konkav, Ecken, Schärfe|Titel, lange Beschreibung, Ereignis-Listener, Klebepunkte, Text
+|Paht `<draw:path>` |Position, Größe, Ansichtsfeld, Stil, Ebene, Z-Index, ID, Beschriftungs-ID und Transformation, Textanker, Tabellenhintergrund, Zeichenendposition, Pfaddaten| Titel, lange Beschreibung, Ereignis-Listener, Klebepunkte, Text
 
 ### Rahmen ###
 Ein Rahmen in einem Zeichnungsdokument ist ein rechteckiger Behälter, der Textfelder, Bilder oder Objekte enthält. Rahmen unterstützen zusätzliche Funktionen wie Konturen, Bildkarten und Hyperlinks. Ein Frame kann sowohl ein Objekt als auch ein Bild enthalten, wodurch mehrere Wiedergaben eines Objekts möglich sind. Die Anwendungen rendern das jeweilige Element basierend auf der besten Unterstützung.

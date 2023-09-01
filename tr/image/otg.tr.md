@@ -41,14 +41,14 @@ OTG dosya formatı, köklü bir şemaya sahip OpenDocument XML formatına dayanm
 #### Asıl Not Defteri ####
 
 Asıl Din Notu öğesi, bu tür sayfaların yazdırılmasını destekleyen uygulamalar için dinleyici notu sayfalarının otomatik olarak oluşturulmasına yönelik bir şablondur.
-` ile ilişkili olabilecek öznitelikler<style:handout-master> ` öğesi:
+ile ilişkili olabilecek öznitelikler `<style:handout-master>` öğesi:
 
 |Düzen|Özellik|Açıklama
 ---|---|---|
 |Sunum Sayfası Düzeni|sunum:sunum-sayfası-düzeninin-adı| bağlantısı`<style:presentation-page-layout>` öznitelik
-|Sayfa Düzeni|`stil:sayfa düzeni-adı` | Dinleyici ana sayfasının boyutlarını, kenarlığını ve yönünü içeren bir sayfa düzenini belirtir.
+|Sayfa Düzeni|`style:page-layout-name` | Dinleyici ana sayfasının boyutlarını, kenarlığını ve yönünü içeren bir sayfa düzenini belirtir.
 |Sayfa Stili|`draw:style-name`|Bir çizim sayfası stili atayarak dinleyici notu ana sayfasına ek biçimlendirme nitelikleri atar.|
-|Başlık Bildirimi| `sunum:use-header-name`| Dinleyici notu ana sayfasında görüntülenen tüm başlık alanları için kullanılan başlık alanı bildiriminin adını belirtir.
+|Başlık Bildirimi| `presentation:use-header-name`| Dinleyici notu ana sayfasında görüntülenen tüm başlık alanları için kullanılan başlık alanı bildiriminin adını belirtir.
 |Altbilgi Bildirimi| Presentation:use-footer-name|Kullanıcı dinleyici notu ana sayfasında görüntülenen tüm alt bilgi alanları için kullanılan alt bilgi alanı bildiriminin adını belirtir.
 |Tarih ve Saat Bildirimi|kullan-tarih-saat-adı|Dil ana sayfasında görüntülenen tüm tarih-saat alanları için kullanılan tarih-saat alanı bildiriminin adını belirtir.
 
@@ -57,12 +57,12 @@ OpenDocument formatı, herhangi bir belge türü tarafından kullanılabilen çe
 
 |Şekil|İlişkili Nitelikler| elementler
 ---|---|---|
-Dikdörtgen - `draw:rect `|Konum, Boyut, Stil, Katman, Z-Dizini, Kimlik, Başlık Kimliği, Metin bağlantısı, tablo arka planı, çizim bitiş konumu, Yuvarlak köşeler|Başlık, Uzun Açıklama, Olay Dinleyiciler, Tutkal Noktaları, Metin
-Satır `<draw:line> `|Stil, Katman, Z-Dizini, Kimlik, Başlık Kimliği ve Dönüşümü, Metin bağlantısı, tablo arka planı, çizim bitiş konumu, Başlangıç noktası, Bitiş Noktası|Başlık, Uzun Açıklama, Olay Dinleyiciler, Tutkal Noktaları, Metin
-Çoklu çizgi `draw:polyline | Konum, Boyut, Görünüm kutusu, Stil, Katman, Z-Dizini, Kimlik, Başlık Kimliği ve Dönüşümü, Metin bağlantısı, tablo arka planı, çizim bitiş konumu, Noktalar| Başlık, Uzun Açıklama, Olay Dinleyiciler, Tutkal Noktaları, Metin
-çokgen `draw:polygon `|Konum, Boyut, Görünüm kutusu, Stil, Katman, Z-Dizini, Kimlik, Başlık Kimliği ve Dönüşümü, Metin bağlantısı, tablo arka planı, çizim bitiş konumu, Noktalar|Başlık, Uzun Açıklama, Olay Dinleyiciler, Tutkal Noktaları, Metin
-|Normal Çokgen `<draw:regular-polygon> `|Konum, Boyut, Stil, Katman, Z-Dizini, Kimlik, Başlık Kimliği ve Dönüşümü, Metin bağlantısı, tablo arka planı, çizim bitiş konumu, İçbükey, Köşeler, Keskinlik|Başlık, Uzun Açıklama, Olay Dinleyiciler, Tutkal Noktaları, Metin
-|Paht `<draw:path> `|Konum, Boyut, Görünüm kutusu, Stil, Katman, Z-Dizini, Kimlik, Başlık Kimliği ve Dönüşümü, Metin bağlantısı, tablo arka planı, çizim bitiş konumu, Yol verileri| Başlık, Uzun Açıklama, Olay Dinleyiciler, Tutkal Noktaları, Metin
+Dikdörtgen - `<draw:rect>` |Konum, Boyut, Stil, Katman, Z-Dizini, Kimlik, Başlık Kimliği, Metin bağlantısı, tablo arka planı, çizim bitiş konumu, Yuvarlak köşeler|Başlık, Uzun Açıklama, Olay Dinleyiciler, Tutkal Noktaları, Metin
+Satır `<draw:line>` |Stil, Katman, Z-Dizini, Kimlik, Başlık Kimliği ve Dönüşümü, Metin bağlantısı, tablo arka planı, çizim bitiş konumu, Başlangıç noktası, Bitiş Noktası|Başlık, Uzun Açıklama, Olay Dinleyiciler, Tutkal Noktaları, Metin
+Çoklu çizgi `<draw:polyline>` | Konum, Boyut, Görünüm kutusu, Stil, Katman, Z-Dizini, Kimlik, Başlık Kimliği ve Dönüşümü, Metin bağlantısı, tablo arka planı, çizim bitiş konumu, Noktalar| Başlık, Uzun Açıklama, Olay Dinleyiciler, Tutkal Noktaları, Metin
+çokgen `<draw:polygon>` |Konum, Boyut, Görünüm kutusu, Stil, Katman, Z-Dizini, Kimlik, Başlık Kimliği ve Dönüşümü, Metin bağlantısı, tablo arka planı, çizim bitiş konumu, Noktalar|Başlık, Uzun Açıklama, Olay Dinleyiciler, Tutkal Noktaları, Metin
+|Normal Çokgen `<draw:regular-polygon>` |Konum, Boyut, Stil, Katman, Z-Dizini, Kimlik, Başlık Kimliği ve Dönüşümü, Metin bağlantısı, tablo arka planı, çizim bitiş konumu, İçbükey, Köşeler, Keskinlik|Başlık, Uzun Açıklama, Olay Dinleyiciler, Tutkal Noktaları, Metin
+|Paht `<draw:path>` |Konum, Boyut, Görünüm kutusu, Stil, Katman, Z-Dizini, Kimlik, Başlık Kimliği ve Dönüşümü, Metin bağlantısı, tablo arka planı, çizim bitiş konumu, Yol verileri| Başlık, Uzun Açıklama, Olay Dinleyiciler, Tutkal Noktaları, Metin
 
 ### Çerçeveler ###
 Bir teknik resim belgesindeki çerçeve, metin kutuları, resimler veya nesneler içeren dikdörtgen bir kaptır. Çerçeveler, konturlar, görüntü haritaları ve köprüler gibi ek özellikleri destekler. Bir çerçeve, bir nesnenin yanı sıra bir görüntü de içerebilir, böylece bir nesnenin birden çok yorumuna sahip olunmasına izin verilir. Uygulamalar, ilgili öğeyi en iyi desteğe dayalı olarak işler.

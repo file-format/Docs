@@ -41,14 +41,14 @@ Format pliku OTG jest oparty na formacie OpenDocument XML, który ma ugruntowany
 #### Mistrz materiałów informacyjnych ####
 
 Element Handout Master to szablon do automatycznego generowania stron materiałów informacyjnych dla aplikacji obsługujących drukowanie takich stron.
-Atrybuty, które mogą być powiązane z `<style:handout-master> ` elementem są:
+Atrybuty, które mogą być powiązane z `<style:handout-master>` elementem są:
 
 |Układ|Atrybut|Opis
 ---|---|---|
 |Układ strony prezentacji|prezentacja:nazwa-układu-strony-prezentacji|Linki do `<style:presentation-page-layout>`  atrybut
-|Układ strony|`styl:nazwa-układu-strony` | Określa układ strony, który zawiera rozmiary, obramowanie i orientację strony wzorcowej materiałów informacyjnych.
-|Styl strony|`draw:nazwa-stylu`|Przypisuje dodatkowe atrybuty formatowania do strony wzorcowej materiałów informacyjnych poprzez przypisanie stylu strony rysunku.|
-|Deklaracja nagłówka| `prezentacja:użyj-nazwy-nagłówka`| Określa nazwę deklaracji pola nagłówka, która jest używana dla wszystkich pól nagłówka wyświetlanych na stronie wzorcowej materiałów informacyjnych.
+|Układ strony|`style:page-layout-name` | Określa układ strony, który zawiera rozmiary, obramowanie i orientację strony wzorcowej materiałów informacyjnych.
+|Styl strony|`draw:style-name`|Przypisuje dodatkowe atrybuty formatowania do strony wzorcowej materiałów informacyjnych poprzez przypisanie stylu strony rysunku.|
+|Deklaracja nagłówka| `presentation:use-header-name`| Określa nazwę deklaracji pola nagłówka, która jest używana dla wszystkich pól nagłówka wyświetlanych na stronie wzorcowej materiałów informacyjnych.
 |Deklaracja stopki| Presentation:use-footer-name|Określa nazwę deklaracji pola stopki, która jest używana dla wszystkich pól stopki wyświetlanych na stronie wzorcowej materiałów informacyjnych.
 |Deklaracja daty i godziny|nazwa-daty-czasu-użytkowania|Określa nazwę deklaracji pola daty-godziny, która jest używana dla wszystkich pól daty-godziny wyświetlanych na stronie wzorcowej materiałów informacyjnych.
 
@@ -57,12 +57,12 @@ Format OpenDocument obsługuje kilka kształtów rysunków, które mogą być u�
 
 |Kształt|Powiązane atrybuty| elementy
 ---|---|---|
-Prostokąt - `<draw:rect> `|Pozycja, rozmiar, styl, warstwa, indeks Z, identyfikator, identyfikator podpisu, zakotwiczenie tekstu, tło tabeli, pozycja końcowa rysowania, zaokrąglone rogi|tytuł, długi opis, detektory zdarzeń, punkty klejenia, tekst
-Linia `<draw:line> `|Styl, warstwa, indeks Z, identyfikator, identyfikator podpisu i transformacja, zakotwiczenie tekstu, tło tabeli, pozycja końcowa rysowania, punkt początkowy, punkt końcowy|tytuł, długi opis, detektory zdarzeń, punkty klejenia, tekst
-Polilinia `<draw:polyline> `| Pozycja, rozmiar, pole widoku, styl, warstwa, indeks Z, identyfikator, identyfikator podpisu i transformacja, zakotwiczenie tekstu, tło tabeli, pozycja końcowa rysowania, punkty| Tytuł, długi opis, słuchacze zdarzeń, punkty klejenia, tekst
-Wielokąt `<draw:polygon> `|Pozycja, rozmiar, pole widoku, styl, warstwa, indeks Z, identyfikator, identyfikator podpisu i transformacja, zakotwiczenie tekstu, tło tabeli, pozycja końcowa rysowania, punkty|tytuł, długi opis, detektory zdarzeń, punkty klejenia, tekst
-|Wielokąt regularny `<draw:regular-polygon> `|Pozycja, rozmiar, styl, warstwa, indeks Z, identyfikator, identyfikator podpisu i transformacja, zakotwiczenie tekstu, tło tabeli, pozycja końcowa rysowania, wklęsłe, rogi, ostrość|tytuł, długi opis, odbiorniki zdarzeń, punkty klejenia, tekst
-|Ścieżka `<draw:path> `|Pozycja, rozmiar, pole widoku, styl, warstwa, indeks Z, identyfikator, identyfikator podpisu i transformacja, zakotwiczenie tekstu, tło tabeli, pozycja końcowa rysowania, dane ścieżki| Tytuł, długi opis, słuchacze zdarzeń, punkty kleju, tekst
+Prostokąt - `<draw:rect>` |Pozycja, rozmiar, styl, warstwa, indeks Z, identyfikator, identyfikator podpisu, zakotwiczenie tekstu, tło tabeli, pozycja końcowa rysowania, zaokrąglone rogi|tytuł, długi opis, detektory zdarzeń, punkty klejenia, tekst
+Linia `<draw:line>` |Styl, warstwa, indeks Z, identyfikator, identyfikator podpisu i transformacja, zakotwiczenie tekstu, tło tabeli, pozycja końcowa rysowania, punkt początkowy, punkt końcowy|tytuł, długi opis, detektory zdarzeń, punkty klejenia, tekst
+Polilinia `<draw:polyline>` | Pozycja, rozmiar, pole widoku, styl, warstwa, indeks Z, identyfikator, identyfikator podpisu i transformacja, zakotwiczenie tekstu, tło tabeli, pozycja końcowa rysowania, punkty| Tytuł, długi opis, słuchacze zdarzeń, punkty klejenia, tekst
+Wielokąt `<draw:polygon>` |Pozycja, rozmiar, pole widoku, styl, warstwa, indeks Z, identyfikator, identyfikator podpisu i transformacja, zakotwiczenie tekstu, tło tabeli, pozycja końcowa rysowania, punkty|tytuł, długi opis, detektory zdarzeń, punkty klejenia, tekst
+|Wielokąt regularny `<draw:regular-polygon>` |Pozycja, rozmiar, styl, warstwa, indeks Z, identyfikator, identyfikator podpisu i transformacja, zakotwiczenie tekstu, tło tabeli, pozycja końcowa rysowania, wklęsłe, rogi, ostrość|tytuł, długi opis, odbiorniki zdarzeń, punkty klejenia, tekst
+|Ścieżka `<draw:path>` |Pozycja, rozmiar, pole widoku, styl, warstwa, indeks Z, identyfikator, identyfikator podpisu i transformacja, zakotwiczenie tekstu, tło tabeli, pozycja końcowa rysowania, dane ścieżki| Tytuł, długi opis, słuchacze zdarzeń, punkty kleju, tekst
 
 ### Ramki ###
 Ramka w dokumencie rysunkowym jest prostokątnym pojemnikiem zawierającym pola tekstowe, obrazy lub obiekty. Ramki obsługują dodatkowe funkcje, takie jak kontury, mapy obrazów i hiperłącza. Ramka może zawierać zarówno obiekt, jak i obraz, co pozwala na wielokrotne odwzorowanie obiektu. Aplikacje renderują dany element w oparciu o najlepsze wsparcie.

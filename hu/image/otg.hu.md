@@ -41,12 +41,12 @@ Az OTG fájlformátum az OpenDocument XML formátumon alapul, amely jól bevált
 #### Kiosztó mester ####
 
 A Handout Master elem egy sablon a szórólapok automatikus létrehozásához az ilyen oldalak nyomtatását támogató alkalmazásokhoz.
-Az attribútumok, amelyek a `<style:handout-master> ` elemek a következők:
+Az attribútumok, amelyek a `<style:handout-master>` elemek a következők:
 
 |Elrendezés|Attribútum|Leírás
 ---|---|---|
 |Prezentációs oldal elrendezése|presentation:presentation-page-layout-name|Hivatkozások ide: `<style:presentation-page-layout>`  attribútum
-|Oldalelrendezés|`stílus:oldalelrendezés-név` | Meghatároz egy oldalelrendezést, amely tartalmazza a szóróanyag mesteroldalának méretét, szegélyét és tájolását.
+|Oldalelrendezés|`style:page-layout-name` | Meghatároz egy oldalelrendezést, amely tartalmazza a szóróanyag mesteroldalának méretét, szegélyét és tájolását.
 |Oldalstílus|`draw:style-name`|További formázási attribútumokat rendel a tájékoztató mesteroldalhoz egy rajzoldalstílus hozzárendelésével.|
 |Fejléc nyilatkozat| `presentation:use-header-name`| Megadja annak a fejlécmező-deklarációnak a nevét, amely a tájékoztató mesteroldalon megjelenő összes fejlécmezőhöz használatos.
 |Lábléc nyilatkozat| display:use-footer-name|Meghatározza a láblécmező-deklaráció nevét, amely a tájékoztató mesteroldalán megjelenő összes láblécmezőhöz használatos.
@@ -57,12 +57,12 @@ Az OpenDocument formátum számos rajzi formát támogat, amelyeket bármilyen t
 
 |Alak|Kapcsolódó attribútumok| elemeket
 ---|---|---|
-Téglalap - `<draw:rect> `|Pozíció, méret, stílus, réteg, Z-index, azonosító, feliratazonosító, szöveghorgony, táblázat háttere, rajz végpozíciója, lekerekített sarkok|cím, hosszú leírás, eseményfigyelők, ragasztópontok, szöveg
-Vonal `<draw:line> `|Stílus, Réteg, Z-index, azonosító, feliratazonosító és átalakítás, szöveghorgony, táblázat háttere, rajzolás végpontja, kezdőpont, végpont|cím, hosszú leírás, eseményfigyelők, ragasztópontok, szöveg
-Vonallánc `<draw:polyline> `| Pozíció, Méret, Nézetmező, Stílus, Réteg, Z-index, ID, Feliratazonosító és átalakítás, Szöveghorgony, táblázat háttere, rajzolás végpozíciója, Pontok| Cím, hosszú leírás, eseményfigyelők, ragasztópontok, szöveg
-Sokszög `<draw:polygon> `|Pozíció, Méret, Nézetmező, Stílus, Réteg, Z-index, ID, Feliratazonosító és átalakítás, Szöveghorgony, táblázat háttér, rajzolás végpontja, Pontok|Cím, Hosszú leírás, Eseményfigyelők, Ragasztópontok, Szöveg
-|Szabályos sokszög `<draw:regular-polygon> `|Pozíció, méret, stílus, réteg, Z-index, azonosító, feliratazonosító és átalakítás, szöveghorgony, táblázat háttere, rajz végpontja, konkáv, sarkok, élesség|cím, hosszú leírás, eseményfigyelők, ragasztópontok, szöveg
-|Paht `<draw:path> `|Pozíció, Méret, Nézetmező, Stílus, Réteg, Z-index, ID, Feliratazonosító és átalakítás, Szöveghorgony, táblázat háttere, rajzolás végpozíciója, Útvonal adatok| Cím, hosszú leírás, eseményfigyelők, ragasztópontok, szöveg
+Téglalap - `<draw:rect>` |Pozíció, méret, stílus, réteg, Z-index, azonosító, feliratazonosító, szöveghorgony, táblázat háttere, rajz végpozíciója, lekerekített sarkok|cím, hosszú leírás, eseményfigyelők, ragasztópontok, szöveg
+Vonal `<draw:line>` |Stílus, Réteg, Z-index, azonosító, feliratazonosító és átalakítás, szöveghorgony, táblázat háttere, rajzolás végpontja, kezdőpont, végpont|cím, hosszú leírás, eseményfigyelők, ragasztópontok, szöveg
+Vonallánc `<draw:polyline>` | Pozíció, Méret, Nézetmező, Stílus, Réteg, Z-index, ID, Feliratazonosító és átalakítás, Szöveghorgony, táblázat háttere, rajzolás végpozíciója, Pontok| Cím, hosszú leírás, eseményfigyelők, ragasztópontok, szöveg
+Sokszög `<draw:polygon>` |Pozíció, Méret, Nézetmező, Stílus, Réteg, Z-index, ID, Feliratazonosító és átalakítás, Szöveghorgony, táblázat háttér, rajzolás végpontja, Pontok|Cím, Hosszú leírás, Eseményfigyelők, Ragasztópontok, Szöveg
+|Szabályos sokszög `<draw:regular-polygon>` |Pozíció, méret, stílus, réteg, Z-index, azonosító, feliratazonosító és átalakítás, szöveghorgony, táblázat háttere, rajz végpontja, konkáv, sarkok, élesség|cím, hosszú leírás, eseményfigyelők, ragasztópontok, szöveg
+|Paht `<draw:path>` |Pozíció, Méret, Nézetmező, Stílus, Réteg, Z-index, ID, Feliratazonosító és átalakítás, Szöveghorgony, táblázat háttere, rajzolás végpozíciója, Útvonal adatok| Cím, hosszú leírás, eseményfigyelők, ragasztópontok, szöveg
 
 ### Keretek ###
 A keret a rajzdokumentumban egy téglalap alakú tároló, amely szövegdobozokat, képeket vagy objektumokat tartalmaz. A keretek további funkciókat is támogatnak, például kontúrokat, képtérképeket és hiperhivatkozásokat. Egy keret egy objektumot és egy képet is tartalmazhat, így lehetővé válik egy objektum többszöri megjelenítése. Az alkalmazások a megfelelő elemet a legjobb támogatás alapján jelenítik meg.

@@ -41,14 +41,14 @@ Formatul de fișier OTG se bazează pe formatul OpenDocument XML care are o sche
 #### Fișă Master ####
 
 Elementul Fișă Master este un șablon pentru generarea automată a paginilor de fișe pentru aplicațiile care acceptă tipărirea unor astfel de pagini.
-Atributele care pot fi asociate cu `<style:handout-master> ` element sunt:
+Atributele care pot fi asociate cu `<style:handout-master>` element sunt:
 
 |Aspect|Atribut|Descriere
 ---|---|---|
 |Aspect pagină de prezentare|prezentare:presentation-page-layout-name|Legături către `<style:presentation-page-layout>`  atribut
-|Aspect pagină|`style:nume-aspect-pagină` | Specifică un aspect de pagină care conține dimensiunile, chenarul și orientarea paginii principale a fișei.
+|Aspect pagină|`style:page-layout-name` | Specifică un aspect de pagină care conține dimensiunile, chenarul și orientarea paginii principale a fișei.
 |Stilul paginii|`draw:style-name`|Atribuie atribute de formatare suplimentare unei pagini de master a fișei prin alocarea unui stil de pagină de desen.|
-|Declarație antet| `prezentare:use-header-name`| Specifică numele declarației câmpului antet care este utilizat pentru toate câmpurile antet care sunt afișate pe pagina principală a fișei.
+|Declarație antet| `presentation:use-header-name`| Specifică numele declarației câmpului antet care este utilizat pentru toate câmpurile antet care sunt afișate pe pagina principală a fișei.
 |Declarație de subsol| presentation:use-footer-name|Specifică numele declarației câmpului de subsol care este utilizat pentru toate câmpurile de subsol care sunt afișate pe pagina principală a fișei.
 |Declarație de dată și oră|use-date-time-name|Specifică numele declarației câmpului dată-oră care este utilizată pentru toate câmpurile dată-oră care sunt afișate pe pagina principală a fișei.
 
@@ -57,12 +57,12 @@ Formatul OpenDocument acceptă mai multe forme de desen care pot fi folosite de 
 
 |Forma|Atribute asociate| elemente
 ---|---|---|
-Dreptunghi - `<draw:rect> `|Poziție, Dimensiune, Stil, Strat, Index Z, ID, ID subtitrare, Ancoră text, fundal tabel, poziția finală a desenului, Colțuri rotunjite|Titlu, Descriere lungă, Ascultători de evenimente, Puncte de lipire, Text
-Linia `<draw:line> `|Stil, Layer, Z-Index, ID, Caption ID și Transformare, Ancoră text, fundal tabel, poziția finală a desenului, Punct de început, Punct final|Titlu, Descriere lungă, Ascultători de evenimente, Puncte de lipire, Text
-Polilinie `<draw:polyline> `| Poziție, Dimensiune, Casetă de vizualizare, Stil, Strat, Index Z, ID, ID-ul subtitrării și Transformare, Ancora text, fundalul tabelului, poziția finală a desenului, Puncte| Titlu, descriere lungă, ascultători de evenimente, puncte de lipire, text
-Poligonul `<draw:polygon> `|Poziție, Dimensiune, Casetă de vizualizare, Stil, Strat, Index Z, ID, ID-ul subtitrării și Transformare, Ancoră text, fundal tabel, poziție finală a desenului, Puncte|Titlu, Descriere lungă, Ascultători de evenimente, Puncte de lipire, Text
-|Poligon regulat `<draw:regular-polygon> `|Poziție, Dimensiune, Stil, Strat, Index Z, ID, ID-ul subtitrării și Transformare, Ancora textului, fundalul tabelului, poziția finală a desenului, Concav, Colțuri, Claritate|Titlu, Descriere lungă, Ascultători de evenimente, Puncte de lipire, Text
-|Calea `<draw:path> `|Poziție, Dimensiune, Casetă de vizualizare, Stil, Strat, Index Z, ID, ID-ul subtitrării și Transformare, Ancora textului, fundalul tabelului, poziția finală a desenului, Datele căii| Titlu, descriere lungă, ascultători de evenimente, puncte de lipire, text
+Dreptunghi - `<draw:rect>` |Poziție, Dimensiune, Stil, Strat, Index Z, ID, ID subtitrare, Ancoră text, fundal tabel, poziția finală a desenului, Colțuri rotunjite|Titlu, Descriere lungă, Ascultători de evenimente, Puncte de lipire, Text
+Linia `<draw:line>` |Stil, Layer, Z-Index, ID, Caption ID și Transformare, Ancoră text, fundal tabel, poziția finală a desenului, Punct de început, Punct final|Titlu, Descriere lungă, Ascultători de evenimente, Puncte de lipire, Text
+Polilinie `<draw:polyline>` | Poziție, Dimensiune, Casetă de vizualizare, Stil, Strat, Index Z, ID, ID-ul subtitrării și Transformare, Ancora text, fundalul tabelului, poziția finală a desenului, Puncte| Titlu, descriere lungă, ascultători de evenimente, puncte de lipire, text
+Poligonul `<draw:polygon>` |Poziție, Dimensiune, Casetă de vizualizare, Stil, Strat, Index Z, ID, ID-ul subtitrării și Transformare, Ancoră text, fundal tabel, poziție finală a desenului, Puncte|Titlu, Descriere lungă, Ascultători de evenimente, Puncte de lipire, Text
+|Poligon regulat `<draw:regular-polygon>` |Poziție, Dimensiune, Stil, Strat, Index Z, ID, ID-ul subtitrării și Transformare, Ancora textului, fundalul tabelului, poziția finală a desenului, Concav, Colțuri, Claritate|Titlu, Descriere lungă, Ascultători de evenimente, Puncte de lipire, Text
+|Calea `<draw:path>` |Poziție, Dimensiune, Casetă de vizualizare, Stil, Strat, Index Z, ID, ID-ul subtitrării și Transformare, Ancora textului, fundalul tabelului, poziția finală a desenului, Datele căii| Titlu, descriere lungă, ascultători de evenimente, puncte de lipire, text
 
 ### Rame ###
 Un cadru, într-un document de desen este un container dreptunghiular care conține casete de text, imagini sau obiecte. Cadrele acceptă funcții suplimentare, cum ar fi contururi, hărți imagine și hyperlinkuri. Un cadru poate conține atât un obiect cât și o imagine, permițând astfel să aveți mai multe redări ale unui obiect. Aplicațiile redă elementul respectiv pe baza celui mai bun suport.

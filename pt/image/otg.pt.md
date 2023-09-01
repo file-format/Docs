@@ -41,14 +41,14 @@ O formato de arquivo OTG é baseado no formato XML OpenDocument que possui um es
 #### Mestre de Apostilas ####
 
 O elemento Folheto Mestre é um modelo para gerar automaticamente as páginas de folheto para aplicativos que suportam a impressão de tais páginas.
-Os atributos que podem estar associados ao `<style:handout-master> ` elemento são:
+Os atributos que podem estar associados ao `<style:handout-master>` elemento são:
 
 |Layout|Atributo|Descrição
 ---|---|---|
 |Layout da página de apresentação|apresentação:nome do layout da página de apresentação|Links para `<style:presentation-page-layout>`  atributo
 |Layout da página|`style:page-layout-name` | Especifica um layout de página que contém os tamanhos, a borda e a orientação da página mestra do folheto.
 |Estilo de página|`draw:style-name`|Atribui atributos de formatação adicionais a uma página-mestre de folheto atribuindo um estilo de página de desenho.|
-|Declaração do cabeçalho| `apresentação:use-header-name`| Especifica o nome da declaração do campo de cabeçalho que é usado para todos os campos de cabeçalho exibidos na página mestra do folheto.
+|Declaração do cabeçalho| `presentation:use-header-name`| Especifica o nome da declaração do campo de cabeçalho que é usado para todos os campos de cabeçalho exibidos na página mestra do folheto.
 |Declaração de Rodapé| Presentation:use-footer-name|Especifica o nome da declaração do campo de rodapé que é usado para todos os campos de rodapé exibidos na página mestra do folheto.
 |Declaração de data e hora|use-date-time-name|Especifica o nome da declaração de campo de data e hora que é usada para todos os campos de data e hora exibidos na página mestra do folheto.
 
@@ -57,12 +57,12 @@ O formato OpenDocument suporta várias formas de desenho que podem ser usadas po
 
 |Forma|Atributos Associados| elementos
 ---|---|---|
-Retângulo - `<draw:rect> `|Posição, tamanho, estilo, camada, índice Z, ID, ID da legenda, âncora de texto, fundo da tabela, posição final do desenho, cantos arredondados|Título, descrição longa, ouvintes de eventos, pontos de cola, texto
-Linha `<draw:line> `|Estilo, Camada, Índice Z, ID, ID da legenda e Transformação, Âncora de texto, plano de fundo da tabela, posição final do desenho, Ponto inicial, Ponto final|Título, Descrição longa, Ouvintes de evento, Pontos de cola, Texto
-Polilinha `<draw:polyline> `| Posição, Tamanho, Caixa de exibição, Estilo, Camada, Índice Z, ID, ID da legenda e Transformação, Âncora de texto, plano de fundo da tabela, posição final do desenho, Pontos| Título, descrição longa, ouvintes de eventos, pontos de cola, texto
-Polígono `<draw:polygon> `|Posição, Tamanho, Caixa de visualização, Estilo, Camada, Índice Z, ID, ID da legenda e Transformação, Âncora de texto, plano de fundo da tabela, posição final do desenho, Pontos|Título, Descrição longa, Ouvintes de eventos, Pontos de cola, Texto
-|Polígono Regular `<draw:regular-polygon> `|Posição, Tamanho, Estilo, Camada, Índice Z, ID, ID da legenda e Transformação, Âncora de texto, plano de fundo da tabela, posição final do desenho, Côncavo, Cantos, Nitidez|Título, Descrição longa, Ouvintes de evento, Pontos de cola, Texto
-|Caminho `<draw:path> `|Posição, tamanho, caixa de exibição, estilo, camada, índice Z, ID, identificação da legenda e transformação, âncora de texto, plano de fundo da tabela, posição final do desenho, dados do caminho| Título, descrição longa, ouvintes de eventos, pontos de cola, texto
+Retângulo - `<draw:rect>` |Posição, tamanho, estilo, camada, índice Z, ID, ID da legenda, âncora de texto, fundo da tabela, posição final do desenho, cantos arredondados|Título, descrição longa, ouvintes de eventos, pontos de cola, texto
+Linha `<draw:line>` |Estilo, Camada, Índice Z, ID, ID da legenda e Transformação, Âncora de texto, plano de fundo da tabela, posição final do desenho, Ponto inicial, Ponto final|Título, Descrição longa, Ouvintes de evento, Pontos de cola, Texto
+Polilinha `<draw:polyline>` | Posição, Tamanho, Caixa de exibição, Estilo, Camada, Índice Z, ID, ID da legenda e Transformação, Âncora de texto, plano de fundo da tabela, posição final do desenho, Pontos| Título, descrição longa, ouvintes de eventos, pontos de cola, texto
+Polígono `<draw:polygon>` |Posição, Tamanho, Caixa de visualização, Estilo, Camada, Índice Z, ID, ID da legenda e Transformação, Âncora de texto, plano de fundo da tabela, posição final do desenho, Pontos|Título, Descrição longa, Ouvintes de eventos, Pontos de cola, Texto
+|Polígono Regular `<draw:regular-polygon>` |Posição, Tamanho, Estilo, Camada, Índice Z, ID, ID da legenda e Transformação, Âncora de texto, plano de fundo da tabela, posição final do desenho, Côncavo, Cantos, Nitidez|Título, Descrição longa, Ouvintes de evento, Pontos de cola, Texto
+|Caminho `<draw:path>` |Posição, tamanho, caixa de exibição, estilo, camada, índice Z, ID, identificação da legenda e transformação, âncora de texto, plano de fundo da tabela, posição final do desenho, dados do caminho| Título, descrição longa, ouvintes de eventos, pontos de cola, texto
 
 ### Quadros ###
 Um quadro, em um documento de desenho, é um recipiente retangular que contém caixas de texto, imagens ou objetos. Os quadros suportam recursos adicionais, como contornos, mapas de imagem e hiperlinks. Um quadro pode conter tanto um objeto quanto uma imagem, permitindo assim ter múltiplas interpretações de um objeto. Os aplicativos renderizam o respectivo elemento com base no melhor suporte.

@@ -41,12 +41,12 @@ Formát souboru OTG je založen na formátu OpenDocument XML, který má dobře 
 #### Mistr podkladů ####
 
 Element Handout Master je šablona pro automatické generování stránek s podklady pro aplikace, které podporují tisk takových stránek.
-Atributy, které mohou být spojeny s `<style:handout-master> ` prvek jsou:
+Atributy, které mohou být spojeny s `<style:handout-master>` prvek jsou:
 
 |Rozvržení|Atribut|Popis
 ---|---|---|
 |Rozvržení stránky prezentace|prezentace:název-rozložení-prezentace|Odkazy na `<style:presentation-page-layout>`  atribut
-|Rozvržení stránky|`style:název-rozložení stránky` | Určuje rozvržení stránky, které obsahuje velikosti, ohraničení a orientaci vzorové stránky podkladů.
+|Rozvržení stránky|`style:page-layout-name` | Určuje rozvržení stránky, které obsahuje velikosti, ohraničení a orientaci vzorové stránky podkladů.
 |Styl stránky|`draw:style-name`|Přiřadí další atributy formátování hlavní stránce podkladu přiřazením stylu stránky výkresu.|
 |Prohlášení v záhlaví| `presentation:use-header-name`| Určuje název deklarace pole záhlaví, která se používá pro všechna pole záhlaví, která jsou zobrazena na vzorové stránce podkladů.
 |Prohlášení v zápatí| presentation:use-footer-name|Uvádí název deklarace pole zápatí, která se používá pro všechna pole zápatí, která jsou zobrazena na vzorové stránce podkladů.
@@ -57,12 +57,12 @@ Formát OpenDocument podporuje několik tvarů výkresu, které lze použít pro
 
 |Tvar|Přidružené atributy| Prvky
 ---|---|---|
-Obdélník - "draw:rect `|Pozice, Velikost, Styl, Vrstva, Z-Index, ID, ID titulku, Ukotvení textu, pozadí tabulky, koncová pozice kreslení, Zaoblené rohy|Název, Dlouhý popis, Posluchači událostí, Lepicí body, Text
-Řádek `<draw:line> `|Styl, Vrstva, Z-Index, ID, ID titulku a transformace, Ukotvení textu, pozadí tabulky, koncová pozice kreslení, Počáteční bod, Koncový bod|Název, Dlouhý popis, Posluchači událostí, Lepicí body, Text
-Polyline `draw:polyline `| Pozice, Velikost, Pole zobrazení, Styl, Vrstva, Z-Index, ID, ID titulku a transformace, Kotva textu, pozadí tabulky, koncová pozice kreslení, Body| Název, dlouhý popis, posluchači událostí, lepicí body, text
-Mnohoúhelník "draw:polygon `|Pozice, Velikost, Pole zobrazení, Styl, Vrstva, Z-Index, ID, ID a transformace titulku, Ukotvení textu, pozadí tabulky, koncová pozice kreslení, Body|Název, Dlouhý popis, Posluchači událostí, Lepicí body, Text
-|Pravidelný mnohoúhelník `<draw:regular-polygon> `|Pozice, Velikost, Styl, Vrstva, Z-Index, ID, ID a transformace titulku, Ukotvení textu, pozadí tabulky, koncová pozice kreslení, Konkávní, Rohy, Ostrost|Název, Dlouhý popis, Posluchače událostí, Lepicí body, Text
-|Cesta `<draw:path> `|Pozice, Velikost, Pole zobrazení, Styl, Vrstva, Z-Index, ID, ID titulku a transformace, Kotva textu, pozadí tabulky, koncová pozice kreslení, Data cesty| Název, dlouhý popis, posluchači událostí, lepicí body, text
+Obdélník - `<draw:rect>` |Pozice, Velikost, Styl, Vrstva, Z-Index, ID, ID titulku, Ukotvení textu, pozadí tabulky, koncová pozice kreslení, Zaoblené rohy|Název, Dlouhý popis, Posluchači událostí, Lepicí body, Text
+Řádek `<draw:line>` |Styl, Vrstva, Z-Index, ID, ID titulku a transformace, Ukotvení textu, pozadí tabulky, koncová pozice kreslení, Počáteční bod, Koncový bod|Název, Dlouhý popis, Posluchači událostí, Lepicí body, Text
+Polyline `<draw:polyline>` | Pozice, Velikost, Pole zobrazení, Styl, Vrstva, Z-Index, ID, ID titulku a transformace, Kotva textu, pozadí tabulky, koncová pozice kreslení, Body| Název, dlouhý popis, posluchači událostí, lepicí body, text
+Mnohoúhelník `<draw:polygon>` |Pozice, Velikost, Pole zobrazení, Styl, Vrstva, Z-Index, ID, ID a transformace titulku, Ukotvení textu, pozadí tabulky, koncová pozice kreslení, Body|Název, Dlouhý popis, Posluchači událostí, Lepicí body, Text
+|Pravidelný mnohoúhelník `<draw:regular-polygon>` |Pozice, Velikost, Styl, Vrstva, Z-Index, ID, ID a transformace titulku, Ukotvení textu, pozadí tabulky, koncová pozice kreslení, Konkávní, Rohy, Ostrost|Název, Dlouhý popis, Posluchače událostí, Lepicí body, Text
+|Cesta `<draw:path>` |Pozice, Velikost, Pole zobrazení, Styl, Vrstva, Z-Index, ID, ID titulku a transformace, Kotva textu, pozadí tabulky, koncová pozice kreslení, Data cesty| Název, dlouhý popis, posluchači událostí, lepicí body, text
 
 ### Rámečky ###
 Rámeček v dokumentu výkresu je obdélníkový kontejner, který obsahuje textová pole, obrázky nebo objekty. Rámečky podporují další funkce, jako jsou obrysy, obrazové mapy a hypertextové odkazy. Rámeček může obsahovat objekt i obrázek, což umožňuje vícenásobné ztvárnění objektu. Aplikace vykreslují příslušný prvek na základě nejlepší podpory.

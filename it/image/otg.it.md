@@ -41,14 +41,14 @@ Il formato di file OTG si basa sul formato XML OpenDocument che ha uno schema co
 #### Maestro delle dispense ####
 
 L'elemento Handout Master è un modello per generare automaticamente le pagine dell'handout per le applicazioni che supportano la stampa di tali pagine.
-Gli attributi che possono essere associati a `<style:handout-master> ` elementi sono:
+Gli attributi che possono essere associati a `<style:handout-master>` elementi sono:
 
 |Layout|Attributo|Descrizione
 ---|---|---|
 |Layout pagina di presentazione|presentazione:nome-layout-pagina-presentazione|Collegamenti a `<style:presentation-page-layout>`  attributo
-|Layout di pagina|`stile:nome-layout-pagina` | Specifica un layout di pagina che contiene le dimensioni, il bordo e l'orientamento della pagina master dello stampato.
+|Layout di pagina|`style:page-layout-name` | Specifica un layout di pagina che contiene le dimensioni, il bordo e l'orientamento della pagina master dello stampato.
 |Stile pagina|`draw:style-name`|Assegna attributi di formattazione aggiuntivi a una pagina master di uno stampato assegnando uno stile di pagina di disegno.|
-|Dichiarazione di intestazione| `presentazione:usa-nome-intestazione`| Specifica il nome della dichiarazione del campo di intestazione utilizzata per tutti i campi di intestazione visualizzati nella pagina principale dell'handout.
+|Dichiarazione di intestazione| `presentation:use-header-name`| Specifica il nome della dichiarazione del campo di intestazione utilizzata per tutti i campi di intestazione visualizzati nella pagina principale dell'handout.
 |Dichiarazione a piè di pagina| presentazione:use-footer-name|Specifica il nome della dichiarazione del campo del piè di pagina che viene utilizzata per tutti i campi del piè di pagina visualizzati nella pagina principale dell'handout.
 |Dichiarazione di data e ora|use-date-time-name|Specifica il nome della dichiarazione del campo data-ora utilizzata per tutti i campi data-ora visualizzati nella pagina principale dell'handout.
 
@@ -57,12 +57,12 @@ Il formato OpenDocument supporta diverse forme di disegno che possono essere uti
 
 |Forma|Attributi associati| elementi
 ---|---|---|
-Rettangolo - `<draw:rect> `|Posizione, dimensione, stile, livello, indice Z, ID, ID didascalia, ancoraggio del testo, sfondo della tabella, posizione finale del disegno, angoli arrotondati|Titolo, descrizione lunga, listener di eventi, punti di incollaggio, testo
-Riga `<draw:line> `|Stile, livello, indice Z, ID, ID didascalia e trasformazione, ancoraggio del testo, sfondo della tabella, posizione finale del disegno, punto iniziale, punto finale|Titolo, descrizione lunga, listener di eventi, punti di incollaggio, testo
-Polilinea `<draw:polyline> `| Posizione, Dimensione, Casella di visualizzazione, Stile, Livello, Z-Indice, ID, ID didascalia e Trasformazione, Ancoraggio del testo, Sfondo della tabella, Posizione finale del disegno, Punti| Titolo, descrizione lunga, ascoltatori di eventi, punti di colla, testo
-Poligono `<draw:polygon> `|Posizione, Dimensione, Casella di visualizzazione, Stile, Livello, Indice Z, ID, ID didascalia e Trasformazione, Ancoraggio del testo, Sfondo della tabella, Posizione finale del disegno, Punti|Titolo, Descrizione lunga, Listener di eventi, Punti di incollaggio, Testo
-|Poligono regolare `<draw:regular-polygon> `|Posizione, dimensione, stile, livello, indice Z, ID, ID didascalia e trasformazione, ancoraggio del testo, sfondo della tabella, posizione finale del disegno, concavo, angoli, nitidezza|titolo, descrizione lunga, ascoltatori di eventi, punti di incollaggio, testo
-|Percorso `<draw:path> `|Posizione, Dimensione, Casella di visualizzazione, Stile, Livello, Indice Z, ID, ID didascalia e Trasformazione, Ancoraggio del testo, sfondo della tabella, posizione finale del disegno, dati del percorso| Titolo, descrizione lunga, ascoltatori di eventi, punti di colla, testo
+Rettangolo - `<draw:rect>` |Posizione, dimensione, stile, livello, indice Z, ID, ID didascalia, ancoraggio del testo, sfondo della tabella, posizione finale del disegno, angoli arrotondati|Titolo, descrizione lunga, listener di eventi, punti di incollaggio, testo
+Riga `<draw:line>` |Stile, livello, indice Z, ID, ID didascalia e trasformazione, ancoraggio del testo, sfondo della tabella, posizione finale del disegno, punto iniziale, punto finale|Titolo, descrizione lunga, listener di eventi, punti di incollaggio, testo
+Polilinea `<draw:polyline>` | Posizione, Dimensione, Casella di visualizzazione, Stile, Livello, Z-Indice, ID, ID didascalia e Trasformazione, Ancoraggio del testo, Sfondo della tabella, Posizione finale del disegno, Punti| Titolo, descrizione lunga, ascoltatori di eventi, punti di colla, testo
+Poligono `<draw:polygon>` |Posizione, Dimensione, Casella di visualizzazione, Stile, Livello, Indice Z, ID, ID didascalia e Trasformazione, Ancoraggio del testo, Sfondo della tabella, Posizione finale del disegno, Punti|Titolo, Descrizione lunga, Listener di eventi, Punti di incollaggio, Testo
+|Poligono regolare `<draw:regular-polygon>` |Posizione, dimensione, stile, livello, indice Z, ID, ID didascalia e trasformazione, ancoraggio del testo, sfondo della tabella, posizione finale del disegno, concavo, angoli, nitidezza|titolo, descrizione lunga, ascoltatori di eventi, punti di incollaggio, testo
+|Percorso `<draw:path>` |Posizione, Dimensione, Casella di visualizzazione, Stile, Livello, Indice Z, ID, ID didascalia e Trasformazione, Ancoraggio del testo, sfondo della tabella, posizione finale del disegno, dati del percorso| Titolo, descrizione lunga, ascoltatori di eventi, punti di colla, testo
 
 ### Cornici ###
 Una cornice, in un documento di disegno è un contenitore rettangolare che contiene caselle di testo, immagini o oggetti. I frame supportano funzionalità aggiuntive come contorni, mappe immagine e collegamenti ipertestuali. Una cornice può contenere un oggetto oltre che un'immagine, consentendo così di avere più rappresentazioni di un oggetto. Le applicazioni rendono il rispettivo elemento basato sul miglior supporto.

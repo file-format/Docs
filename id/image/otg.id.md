@@ -41,14 +41,14 @@ Format file OTG didasarkan pada format XML OpenDocument yang memiliki skema mapa
 #### Master Handout ####
 
 Elemen Master Handout adalah template untuk membuat halaman handout secara otomatis untuk aplikasi yang mendukung pencetakan halaman tersebut.
-Atribut yang mungkin terkait dengan `<style:handout-master> ` elemen adalah:
+Atribut yang mungkin terkait dengan `<style:handout-master>` elemen adalah:
 
 |Tata Letak|Atribut|Deskripsi
 ---|---|---|
 |Tata Letak Halaman Presentasi|presentasi:nama-halaman-presentasi-tata letak|Tautan ke `<style:presentation-page-layout>` atribut
-|Tata Letak Halaman|`style:nama-tata letak halaman` | Menentukan tata letak halaman yang berisi ukuran, batas, dan orientasi halaman master handout.
+|Tata Letak Halaman|`style:page-layout-name` | Menentukan tata letak halaman yang berisi ukuran, batas, dan orientasi halaman master handout.
 |Page Style|`draw:style-name`|Menetapkan atribut pemformatan tambahan ke halaman master handout dengan menetapkan gaya halaman gambar.|
-|Deklarasi Tajuk| `presentasi: gunakan-nama-tajuk`| Menentukan nama deklarasi kolom header yang digunakan untuk semua kolom header yang ditampilkan di halaman master handout.
+|Deklarasi Tajuk| `presentation:use-header-name`| Menentukan nama deklarasi kolom header yang digunakan untuk semua kolom header yang ditampilkan di halaman master handout.
 |Deklarasi Footer| presentation:use-footer-name|Menentukan nama deklarasi bidang footer yang digunakan untuk semua bidang footer yang ditampilkan di halaman master handout.
 |Deklarasi Tanggal dan Waktu|use-date-time-name|Menentukan nama deklarasi bidang tanggal-waktu yang digunakan untuk semua bidang tanggal-waktu yang ditampilkan di halaman master handout.
 
@@ -57,12 +57,12 @@ Format OpenDocument mendukung beberapa bentuk gambar yang dapat digunakan oleh s
 
 |Bentuk|Atribut Terkait| elemen
 ---|---|---|
-Persegi panjang - `<draw:rect> `|Posisi, Ukuran, Gaya, Lapisan, Indeks-Z, ID, ID Teks, Jangkar teks, latar belakang tabel, posisi ujung gambar, Sudut bulat|Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks
-Baris `<draw:line> `|Gaya, Lapisan, Indeks-Z, ID, ID Teks dan Transformasi, Jangkar teks, latar belakang tabel, posisi akhir gambar, Titik awal, Titik Akhir|Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks
-Polilin`<draw:polyline> `| Posisi, Ukuran, Kotak tampilan, Gaya, Lapisan, Indeks-Z, ID, ID Teks dan Transformasi, Jangkar teks, latar belakang tabel, posisi ujung gambar, Titik| Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks
-Poligon`<draw:polygon> `|Posisi, Ukuran, Kotak tampilan, Gaya, Lapisan, Indeks-Z, ID, ID Teks dan Transformasi, Jangkar teks, latar belakang tabel, posisi akhir gambar, Titik|Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks
-|Poligon Biasa `<draw:regular-polygon> `|Posisi, Ukuran, Gaya, Lapisan, Indeks-Z, ID, ID Teks dan Transformasi, Jangkar teks, latar belakang tabel, posisi ujung gambar, Cekung, Sudut, Ketajaman|Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks
-|Paht`<draw:path> `|Posisi, Ukuran, Kotak Tampilan, Gaya, Lapisan, Indeks-Z, ID, ID Teks dan Transformasi, Penanda Teks, Latar Belakang Tabel, Posisi Akhir Gambar, Data Jalur| Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks
+Persegi panjang - `<draw:rect>` |Posisi, Ukuran, Gaya, Lapisan, Indeks-Z, ID, ID Teks, Jangkar teks, latar belakang tabel, posisi ujung gambar, Sudut bulat|Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks
+Baris `<draw:line>` |Gaya, Lapisan, Indeks-Z, ID, ID Teks dan Transformasi, Jangkar teks, latar belakang tabel, posisi akhir gambar, Titik awal, Titik Akhir|Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks
+Polilin`<draw:polyline>` | Posisi, Ukuran, Kotak tampilan, Gaya, Lapisan, Indeks-Z, ID, ID Teks dan Transformasi, Jangkar teks, latar belakang tabel, posisi ujung gambar, Titik| Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks
+Poligon`<draw:polygon>` |Posisi, Ukuran, Kotak tampilan, Gaya, Lapisan, Indeks-Z, ID, ID Teks dan Transformasi, Jangkar teks, latar belakang tabel, posisi akhir gambar, Titik|Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks
+|Poligon Biasa `<draw:regular-polygon>` |Posisi, Ukuran, Gaya, Lapisan, Indeks-Z, ID, ID Teks dan Transformasi, Jangkar teks, latar belakang tabel, posisi ujung gambar, Cekung, Sudut, Ketajaman|Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks
+|Paht`<draw:path>` |Posisi, Ukuran, Kotak Tampilan, Gaya, Lapisan, Indeks-Z, ID, ID Teks dan Transformasi, Penanda Teks, Latar Belakang Tabel, Posisi Akhir Gambar, Data Jalur| Judul, Deskripsi Panjang, Pendengar Acara, Titik Lem, Teks
 
 ### Bingkai ###
 Bingkai, dalam dokumen gambar adalah wadah persegi panjang yang berisi kotak teks, gambar, atau objek. Bingkai mendukung fitur tambahan seperti kontur, peta gambar, dan hyperlink. Sebuah bingkai dapat berisi objek dan juga gambar, sehingga memungkinkan untuk memiliki banyak rendisi dari suatu objek. Aplikasi membuat elemen masing-masing berdasarkan dukungan terbaik.
