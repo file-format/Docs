@@ -41,7 +41,7 @@ Formát souboru OTG je založen na formátu OpenDocument XML, který má dobře 
 #### Mistr podkladů ####
 
 Element Handout Master je šablona pro automatické generování stránek s podklady pro aplikace, které podporují tisk takových stránek.
-Atributy, které mohou být spojeny s `<style:handout-master> ` prvek jsou:
+Atributy, které mohou být spojeny s `<style:handout-master>` prvek jsou:
 
 |Rozvržení|Atribut|Popis
 ---|---|---|

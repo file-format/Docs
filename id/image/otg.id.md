@@ -41,7 +41,7 @@ Format file OTG didasarkan pada format XML OpenDocument yang memiliki skema mapa
 #### Master Handout ####
 
 Elemen Master Handout adalah template untuk membuat halaman handout secara otomatis untuk aplikasi yang mendukung pencetakan halaman tersebut.
-Atribut yang mungkin terkait dengan `<style:handout-master> ` elemen adalah:
+Atribut yang mungkin terkait dengan `<style:handout-master>` elemen adalah:
 
 |Tata Letak|Atribut|Deskripsi
 ---|---|---|

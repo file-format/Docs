@@ -41,7 +41,7 @@ OTG-bestandsindeling is gebaseerd op de OpenDocument XML-indeling met een goed i
 #### Hand-out Master ####
 
 Hand-out Master-element is een sjabloon voor het automatisch genereren van de hand-outpagina's voor toepassingen die het afdrukken van dergelijke pagina's ondersteunen.
-De attributen die kunnen worden geassocieerd met de `<style:handout-master> `-elementen zijn:
+De attributen die kunnen worden geassocieerd met de `<style:handout-master>`-elementen zijn:
 
 |Lay-out|Attribuut|Beschrijving
 ---|---|---|

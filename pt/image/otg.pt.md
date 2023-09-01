@@ -41,7 +41,7 @@ O formato de arquivo OTG é baseado no formato XML OpenDocument que possui um es
 #### Mestre de Apostilas ####
 
 O elemento Folheto Mestre é um modelo para gerar automaticamente as páginas de folheto para aplicativos que suportam a impressão de tais páginas.
-Os atributos que podem estar associados ao `<style:handout-master> ` elemento são:
+Os atributos que podem estar associados ao `<style:handout-master>` elemento são:
 
 |Layout|Atributo|Descrição
 ---|---|---|

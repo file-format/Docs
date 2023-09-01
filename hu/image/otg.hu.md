@@ -41,7 +41,7 @@ Az OTG fájlformátum az OpenDocument XML formátumon alapul, amely jól bevált
 #### Kiosztó mester ####
 
 A Handout Master elem egy sablon a szórólapok automatikus létrehozásához az ilyen oldalak nyomtatását támogató alkalmazásokhoz.
-Az attribútumok, amelyek a `<style:handout-master> ` elemek a következők:
+Az attribútumok, amelyek a `<style:handout-master>` elemek a következők:
 
 |Elrendezés|Attribútum|Leírás
 ---|---|---|

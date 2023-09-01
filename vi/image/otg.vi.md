@@ -41,7 +41,7 @@ Tệp OTG là mẫu bản vẽ được tạo bằng tiêu chuẩn OpenDocument 
 #### Handout Master ####
 
 Phần tử Handout Master là một mẫu để tự động tạo các trang tài liệu phát cho các ứng dụng hỗ trợ in các trang đó.
-Các thuộc tính có thể được liên kết với `<style:handout-master> phần tử ` là:
+Các thuộc tính có thể được liên kết với `<style:handout-master>` phần tử là:
 
 |Bố cục|Thuộc tính|Mô tả
 ---|---|---|

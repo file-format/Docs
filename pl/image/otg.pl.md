@@ -41,7 +41,7 @@ Format pliku OTG jest oparty na formacie OpenDocument XML, który ma ugruntowany
 #### Mistrz materiałów informacyjnych ####
 
 Element Handout Master to szablon do automatycznego generowania stron materiałów informacyjnych dla aplikacji obsługujących drukowanie takich stron.
-Atrybuty, które mogą być powiązane z `<style:handout-master> ` elementem są:
+Atrybuty, które mogą być powiązane z `<style:handout-master>` elementem są:
 
 |Układ|Atrybut|Opis
 ---|---|---|

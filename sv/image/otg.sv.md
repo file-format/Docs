@@ -41,7 +41,7 @@ OTG-filformatet är baserat på OpenDocument XML-formatet som har ett väletable
 #### Handout Master ####
 
 Handout Master-element är en mall för att automatiskt generera utdelningssidor för applikationer som stöder utskrift av sådana sidor.
-Attributen som kan vara associerade med `<style:handout-master> ` element är:
+Attributen som kan vara associerade med `<style:handout-master>` element är:
 
 |Layout|Attribut|Beskrivning
 ---|---|---|

@@ -41,7 +41,7 @@ Le format de fichier OTG est basé sur le format OpenDocument XML qui a un sché
 #### Document principal ####
 
 L'élément Handout Master est un modèle permettant de générer automatiquement les pages du document pour les applications qui prennent en charge l'impression de telles pages.
-Les attributs pouvant être associés au `<style:handout-master> ` élément sont :
+Les attributs pouvant être associés au `<style:handout-master>` élément sont :
 
 |Mise en page|Attribut|Description
 ---|---|---|

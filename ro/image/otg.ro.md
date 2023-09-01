@@ -41,7 +41,7 @@ Formatul de fișier OTG se bazează pe formatul OpenDocument XML care are o sche
 #### Fișă Master ####
 
 Elementul Fișă Master este un șablon pentru generarea automată a paginilor de fișe pentru aplicațiile care acceptă tipărirea unor astfel de pagini.
-Atributele care pot fi asociate cu `<style:handout-master> ` element sunt:
+Atributele care pot fi asociate cu `<style:handout-master>` element sunt:
 
 |Aspect|Atribut|Descriere
 ---|---|---|

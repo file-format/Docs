@@ -41,7 +41,7 @@ OTG 文件格式基于具有完善架构的 OpenDocument XML 格式。 OpenDocum
 ####讲义大师####
 
 讲义主元素是一个模板，用于为支持打印此类页面的应用程序自动生成讲义页面。
-可能与 ` 相关联的属性<style:handout-master>` 元素是：
+可能与 相关联的属性 `<style:handout-master>` 元素是：
 
 |布局|属性|描述
 ---|---|---|

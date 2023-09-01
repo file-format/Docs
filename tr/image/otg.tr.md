@@ -41,7 +41,7 @@ OTG dosya formatı, köklü bir şemaya sahip OpenDocument XML formatına dayanm
 #### Asıl Not Defteri ####
 
 Asıl Din Notu öğesi, bu tür sayfaların yazdırılmasını destekleyen uygulamalar için dinleyici notu sayfalarının otomatik olarak oluşturulmasına yönelik bir şablondur.
-` ile ilişkili olabilecek öznitelikler<style:handout-master> ` öğesi:
+ile ilişkili olabilecek öznitelikler `<style:handout-master>` öğesi:
 
 |Düzen|Özellik|Açıklama
 ---|---|---|

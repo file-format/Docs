@@ -41,7 +41,7 @@ El formato de archivo OTG se basa en el formato XML de OpenDocument que tiene un
 #### Patrón de folletos ####
 
 El elemento principal de folletos es una plantilla para generar automáticamente las páginas de folletos para aplicaciones que admiten la impresión de dichas páginas.
-Los atributos que se pueden asociar con `<style:handout-master> ` elemento son:
+Los atributos que se pueden asociar con `<style:handout-master>` elemento son:
 
 |Diseño|Atributo|Descripción
 ---|---|---|
