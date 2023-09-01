@@ -48,7 +48,7 @@ ile ilişkili olabilecek öznitelikler `<style:handout-master>` öğesi:
 |Sunum Sayfası Düzeni|sunum:sunum-sayfası-düzeninin-adı| bağlantısı`<style:presentation-page-layout>` öznitelik
 |Sayfa Düzeni|`style:page-layout-name` | Dinleyici ana sayfasının boyutlarını, kenarlığını ve yönünü içeren bir sayfa düzenini belirtir.
 |Sayfa Stili|`draw:style-name`|Bir çizim sayfası stili atayarak dinleyici notu ana sayfasına ek biçimlendirme nitelikleri atar.|
-|Başlık Bildirimi| `sunum:use-header-name`| Dinleyici notu ana sayfasında görüntülenen tüm başlık alanları için kullanılan başlık alanı bildiriminin adını belirtir.
+|Başlık Bildirimi| `presentation:use-header-name`| Dinleyici notu ana sayfasında görüntülenen tüm başlık alanları için kullanılan başlık alanı bildiriminin adını belirtir.
 |Altbilgi Bildirimi| Presentation:use-footer-name|Kullanıcı dinleyici notu ana sayfasında görüntülenen tüm alt bilgi alanları için kullanılan alt bilgi alanı bildiriminin adını belirtir.
 |Tarih ve Saat Bildirimi|kullan-tarih-saat-adı|Dil ana sayfasında görüntülenen tüm tarih-saat alanları için kullanılan tarih-saat alanı bildiriminin adını belirtir.
 

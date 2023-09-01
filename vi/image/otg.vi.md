@@ -48,7 +48,7 @@ Các thuộc tính có thể được liên kết với `<style:handout-master>`
 |Bố cục trang thuyết trình|bản trình bày:tên-bố cục trang thuyết trình|Liên kết đến `<style:presentation-page-layout>`  thuộc tính
 |Bố cục trang|`style:page-layout-name` | Chỉ định bố cục trang chứa kích thước, đường viền và hướng của trang chính của tài liệu phân phát.
 |Kiểu trang|`draw:style-name`|Gán thuộc tính định dạng bổ sung cho trang chính bản phân phát bằng cách gán kiểu trang vẽ.|
-|Khai báo tiêu đề| `bản trình bày: tên-tiêu đề sử dụng`| Chỉ định tên của khai báo trường tiêu đề được sử dụng cho tất cả các trường tiêu đề được hiển thị trên trang chính của tài liệu phân phát.
+|Khai báo tiêu đề| `presentation:use-header-name`| Chỉ định tên của khai báo trường tiêu đề được sử dụng cho tất cả các trường tiêu đề được hiển thị trên trang chính của tài liệu phân phát.
 |Chân trang Khai báo| presentation:use-footer-name|Chỉ định tên của khai báo trường chân trang được sử dụng cho tất cả các trường chân trang được hiển thị trên trang chính của tài liệu phân phát.
 |Khai báo Ngày và Giờ|sử dụng tên-ngày-giờ|Chỉ định tên của khai báo trường ngày-giờ được sử dụng cho tất cả các trường ngày-giờ được hiển thị trên trang chính của tài liệu phát.
 

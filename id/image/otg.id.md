@@ -48,7 +48,7 @@ Atribut yang mungkin terkait dengan `<style:handout-master>` elemen adalah:
 |Tata Letak Halaman Presentasi|presentasi:nama-halaman-presentasi-tata letak|Tautan ke `<style:presentation-page-layout>` atribut
 |Tata Letak Halaman|`style:page-layout-name` | Menentukan tata letak halaman yang berisi ukuran, batas, dan orientasi halaman master handout.
 |Page Style|`draw:style-name`|Menetapkan atribut pemformatan tambahan ke halaman master handout dengan menetapkan gaya halaman gambar.|
-|Deklarasi Tajuk| `presentasi: gunakan-nama-tajuk`| Menentukan nama deklarasi kolom header yang digunakan untuk semua kolom header yang ditampilkan di halaman master handout.
+|Deklarasi Tajuk| `presentation:use-header-name`| Menentukan nama deklarasi kolom header yang digunakan untuk semua kolom header yang ditampilkan di halaman master handout.
 |Deklarasi Footer| presentation:use-footer-name|Menentukan nama deklarasi bidang footer yang digunakan untuk semua bidang footer yang ditampilkan di halaman master handout.
 |Deklarasi Tanggal dan Waktu|use-date-time-name|Menentukan nama deklarasi bidang tanggal-waktu yang digunakan untuk semua bidang tanggal-waktu yang ditampilkan di halaman master handout.
 

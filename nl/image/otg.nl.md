@@ -48,7 +48,7 @@ De attributen die kunnen worden geassocieerd met de `<style:handout-master>`-ele
 |Presentatiepagina-indeling|presentatie:presentatie-pagina-indeling-naam|Links naar `<style:presentation-page-layout>` 'attribuut'
 |Pagina-indeling|`style:page-layout-name` | Specificeert een paginalay-out die de formaten, rand en richting van de hand-outbasispagina bevat.
 |Paginastijl|`draw:style-name`|Wijst aanvullende opmaakkenmerken toe aan een hand-outmasterpagina door een tekenpaginastijl toe te wijzen.|
-|Kopverklaring| `presentatie:gebruik-header-naam`| Specificeert de naam van de kopvelddeclaratie die wordt gebruikt voor alle kopvelden die worden weergegeven op de hand-outbasispagina.
+|Kopverklaring| `presentation:use-header-name`| Specificeert de naam van de kopvelddeclaratie die wordt gebruikt voor alle kopvelden die worden weergegeven op de hand-outbasispagina.
 |Voettekstverklaring| presentatie:use-footer-name|Specificeert de naam van de voettekstvelddeclaratie die wordt gebruikt voor alle voettekstvelden die worden weergegeven op de hand-outbasispagina.
 |Datum- en tijddeclaratie|use-date-time-name|Specificeert de naam van de datum-tijdvelddeclaratie die wordt gebruikt voor alle datum-tijdvelden die worden weergegeven op de hand-outmodelpagina.
 

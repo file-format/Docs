@@ -48,7 +48,7 @@ Atributele care pot fi asociate cu `<style:handout-master>` element sunt:
 |Aspect pagină de prezentare|prezentare:presentation-page-layout-name|Legături către `<style:presentation-page-layout>`  atribut
 |Aspect pagină|`style:page-layout-name` | Specifică un aspect de pagină care conține dimensiunile, chenarul și orientarea paginii principale a fișei.
 |Stilul paginii|`draw:style-name`|Atribuie atribute de formatare suplimentare unei pagini de master a fișei prin alocarea unui stil de pagină de desen.|
-|Declarație antet| `prezentare:use-header-name`| Specifică numele declarației câmpului antet care este utilizat pentru toate câmpurile antet care sunt afișate pe pagina principală a fișei.
+|Declarație antet| `presentation:use-header-name`| Specifică numele declarației câmpului antet care este utilizat pentru toate câmpurile antet care sunt afișate pe pagina principală a fișei.
 |Declarație de subsol| presentation:use-footer-name|Specifică numele declarației câmpului de subsol care este utilizat pentru toate câmpurile de subsol care sunt afișate pe pagina principală a fișei.
 |Declarație de dată și oră|use-date-time-name|Specifică numele declarației câmpului dată-oră care este utilizată pentru toate câmpurile dată-oră care sunt afișate pe pagina principală a fișei.
 
