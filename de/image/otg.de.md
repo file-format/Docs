@@ -46,7 +46,7 @@ Die Attribute, die dem ` zugeordnet werden können<style:handout-master> `Elemen
 |Layout|Attribut|Beschreibung
 ---|---|---|
 |Layout der Präsentationsseite|presentation:name-des-präsentationsseitenlayouts|Links zu `<style:presentation-page-layout>` Attribut
-|Seitenlayout|`Stil:Seitenlayoutname` | Gibt ein Seitenlayout an, das die Größen, den Rahmen und die Ausrichtung der Handzettel-Musterseite enthält.
+|Seitenlayout|`style:page-layout-name` | Gibt ein Seitenlayout an, das die Größen, den Rahmen und die Ausrichtung der Handzettel-Musterseite enthält.
 |Seitenstil|`draw:style-name`|Weist einer Handout-Musterseite zusätzliche Formatierungsattribute zu, indem ein Zeichenseitenstil zugewiesen wird.|
 |Kopfdeklaration| `presentation:use-header-name`| Gibt den Namen der Kopfzeilenfelddeklaration an, die für alle Kopfzeilenfelder verwendet wird, die auf der Handzettel-Musterseite angezeigt werden.
 |Fußerklärung| presentation:use-footer-name|Gibt den Namen der Fußzeilenfelddeklaration an, die für alle Fußzeilenfelder verwendet wird, die auf der Handout-Musterseite angezeigt werden.

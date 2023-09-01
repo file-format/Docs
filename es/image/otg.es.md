@@ -46,7 +46,7 @@ Los atributos que se pueden asociar con `<style:handout-master> ` elemento son:
 |Diseño|Atributo|Descripción
 ---|---|---|
 |Diseño de página de presentación|presentación:presentation-page-layout-name|Enlaces a `<style:presentation-page-layout>`  atributo
-|Diseño de página|`estilo:nombre-diseño-de-página` | Especifica un diseño de página que contiene los tamaños, el borde y la orientación de la página maestra del documento.
+|Diseño de página|`style:page-layout-name` | Especifica un diseño de página que contiene los tamaños, el borde y la orientación de la página maestra del documento.
 |Estilo de página|`draw:style-name`|Asigna atributos de formato adicionales a la página maestra de un documento mediante la asignación de un estilo de página de dibujo.|
 |Declaración de cabecera| `presentación:use-header-name`| Especifica el nombre de la declaración del campo de encabezado que se utiliza para todos los campos de encabezado que se muestran en la página maestra del documento.
 |Declaración de pie de página| presentación:use-footer-name|Especifica el nombre de la declaración del campo de pie de página que se usa para todos los campos de pie de página que se muestran en la página maestra del documento.

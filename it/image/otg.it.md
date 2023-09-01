@@ -46,7 +46,7 @@ Gli attributi che possono essere associati a `<style:handout-master> ` elementi 
 |Layout|Attributo|Descrizione
 ---|---|---|
 |Layout pagina di presentazione|presentazione:nome-layout-pagina-presentazione|Collegamenti a `<style:presentation-page-layout>`  attributo
-|Layout di pagina|`stile:nome-layout-pagina` | Specifica un layout di pagina che contiene le dimensioni, il bordo e l'orientamento della pagina master dello stampato.
+|Layout di pagina|`style:page-layout-name` | Specifica un layout di pagina che contiene le dimensioni, il bordo e l'orientamento della pagina master dello stampato.
 |Stile pagina|`draw:style-name`|Assegna attributi di formattazione aggiuntivi a una pagina master di uno stampato assegnando uno stile di pagina di disegno.|
 |Dichiarazione di intestazione| `presentazione:usa-nome-intestazione`| Specifica il nome della dichiarazione del campo di intestazione utilizzata per tutti i campi di intestazione visualizzati nella pagina principale dell'handout.
 |Dichiarazione a piè di pagina| presentazione:use-footer-name|Specifica il nome della dichiarazione del campo del piè di pagina che viene utilizzata per tutti i campi del piè di pagina visualizzati nella pagina principale dell'handout.

@@ -46,7 +46,7 @@ Les attributs pouvant être associés au `<style:handout-master> ` élément son
 |Mise en page|Attribut|Description
 ---|---|---|
 |Mise en page de la page de présentation|presentation:presentation-page-layout-name|Liens vers `<style:presentation-page-layout>`  attribut
-|Mise en page|`style:nom-de-la-mise-en-page` | Spécifie une mise en page qui contient les tailles, la bordure et l'orientation de la page maître du document.
+|Mise en page|`style:page-layout-name` | Spécifie une mise en page qui contient les tailles, la bordure et l'orientation de la page maître du document.
 |Style de page|`draw:style-name`|Attribue un attribut de mise en forme supplémentaire à une page maîtresse de document en attribuant un style de page de dessin.|
 |Déclaration d'en-tête| `presentation:use-header-name`| Spécifie le nom de la déclaration de champ d'en-tête utilisée pour tous les champs d'en-tête affichés sur la page maître du document.
 |Déclaration de pied de page| presentation:use-footer-name|Spécifie le nom de la déclaration de champ de pied de page utilisée pour tous les champs de pied de page affichés sur la page maître du document.

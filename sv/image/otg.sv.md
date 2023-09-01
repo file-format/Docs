@@ -46,7 +46,7 @@ Attributen som kan vara associerade med `<style:handout-master> ` element är:
 |Layout|Attribut|Beskrivning
 ---|---|---|
 |Presentationssidalayout|presentation:presentation-page-layout-name|Länkar till `<style:presentation-page-layout>`  attribut
-|Sidlayout|`stil:sida-layout-namn` | Anger en sidlayout som innehåller storlekarna, ramarna och orienteringen för mallsidan för utdelningsmaterialet.
+|Sidlayout|`style:page-layout-name` | Anger en sidlayout som innehåller storlekarna, ramarna och orienteringen för mallsidan för utdelningsmaterialet.
 |Sidstil|`draw:style-name`|Tilldelar ytterligare formateringsattribut till en utdelningshuvudsida genom att tilldela en ritsidstil.|
 |Rubrikdeklaration| `presentation:use-header-name`| Anger namnet på rubrikfältsdeklarationen som används för alla rubrikfält som visas på utdelningshuvudsidan.
 |Sidfotsdeklaration| presentation:use-footer-name|Anger namnet på sidfotsfältsdeklarationen som används för alla sidfotsfält som visas på utdelningshuvudsidan.
