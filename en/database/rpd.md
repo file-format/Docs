@@ -82,5 +82,9 @@ Creating, opening, and importing RPD files in iTWO involves specific steps withi
 6. **Review and Confirm:** Review the imported data and ensure it's correctly aligned with the project's requirements.
 7. **Save Changes:** After importing data, make sure to save your changes to the RPD file.
 
+## Other RPD files
+
+- [RPD - Roleplay Designer Data File](/database/rpd-roleplay/)
+
 ## References
 * [RIB Software](https://en.wikipedia.org/wiki/RIB_Software)
