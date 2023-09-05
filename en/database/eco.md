@@ -46,4 +46,4 @@ Programs that open or reference ECO files include
 - NetManage ECCO Pro
 
 ## References
-[Ecco Pro](https://en.wikipedia.org/wiki/Ecco_Pro)
+* [Ecco Pro](https://en.wikipedia.org/wiki/Ecco_Pro)
