@@ -15,7 +15,7 @@
   "draft": "false",
   "toc": true,
   "title": "ECO File Format - ECCO Database File",
-  "description": "Learn about USR format and APIs that can create and open USR files.",
+  "description": "Learn about ECO format and APIs that can create and open ECO files.",
   "linktitle": "ECO",
   "menu": {
     "docs": {
