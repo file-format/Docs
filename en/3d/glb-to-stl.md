@@ -19,7 +19,7 @@
 
 ## About GLB to STL
 
-GLB is a popular 3D binary file format that represents 3D models in the GL Transmission format i.e. ([glTF](/3d/gltf/)). STL, abbreviation for stereolithrography, is an interchangeable file format that represents 3-dimensional surface geometry. GLB to STL is a widely used operation for converting GLB files to STL file format. There are many apps available online that can be used for conversion of [GLB](/3d/glb/) to [STL](/cad/stl/) for FREE. If you are an application developer who would like to add the functionality of GLB to STL in his .NET or Java, you can use the Aspose.3D API achive this.
+GLB is a popular 3D binary file format that represents 3D models in the GL Transmission format i.e. ([glTF](/3d/gltf/)). STL, abbreviation for stereolithrography, is an interchangeable file format that represents 3-dimensional surface geometry. GLB to STL is a widely used operation for converting GLB files to STL file format. There are many apps available online that can be used for conversion of [GLB](/3d/glb/) to [STL](/cad/stl/) for FREE. If you are an application developer who would like to add the functionality of GLB to STL in his .NET or Java, you can use the Aspose.3D API to achive this.
 
 ## GLB to STL Conversion - Free Demo
 
@@ -48,7 +48,7 @@ Aspose.3D APIs offer a variety of features that can be used by developers to cre
  * Java
  * Python
 
-This variety of support for different programming languages gives you the opportunity to convert GLB to FBX in any of these languages.
+This variety of support for different programming languages gives you the opportunity to convert GLB to USDZ in any of these languages.
 
 ## Convert GLB to STL in .NET, Java, C++ and Python
 
