@@ -41,12 +41,12 @@ Le format de fichier OTG est basé sur le format OpenDocument XML qui a un sché
 #### Document principal ####
 
 L'élément Handout Master est un modèle permettant de générer automatiquement les pages du document pour les applications qui prennent en charge l'impression de telles pages.
-Les attributs pouvant être associés au `<style:handout-master> ` élément sont :
+Les attributs pouvant être associés au `<style:handout-master>` élément sont :
 
 |Mise en page|Attribut|Description
 ---|---|---|
 |Mise en page de la page de présentation|presentation:presentation-page-layout-name|Liens vers `<style:presentation-page-layout>`  attribut
-|Mise en page|`style:nom-de-la-mise-en-page` | Spécifie une mise en page qui contient les tailles, la bordure et l'orientation de la page maître du document.
+|Mise en page|`style:page-layout-name` | Spécifie une mise en page qui contient les tailles, la bordure et l'orientation de la page maître du document.
 |Style de page|`draw:style-name`|Attribue un attribut de mise en forme supplémentaire à une page maîtresse de document en attribuant un style de page de dessin.|
 |Déclaration d'en-tête| `presentation:use-header-name`| Spécifie le nom de la déclaration de champ d'en-tête utilisée pour tous les champs d'en-tête affichés sur la page maître du document.
 |Déclaration de pied de page| presentation:use-footer-name|Spécifie le nom de la déclaration de champ de pied de page utilisée pour tous les champs de pied de page affichés sur la page maître du document.
@@ -57,12 +57,12 @@ Le format OpenDocument prend en charge plusieurs formes de dessin pouvant être 
 
 |Forme|Attributs associés| éléments
 ---|---|---|
-Rectangulaire - `<draw:rect> `|Position, Taille, Style, Calque, Z-Index, ID, ID de légende, Ancre de texte, arrière-plan du tableau, position de fin de dessin, Coins arrondis|Titre, Description détaillée, Écouteurs d'événements, Points de collage, Texte
-Ligne `<draw:line> `|Style, Calque, Z-Index, ID, ID de légende et transformation, Ancre de texte, arrière-plan du tableau, position de fin de dessin, Point de départ, Point de fin|Titre, Description longue, Écouteurs d'événements, Points de collage, Texte
-Polyligne `<draw:polyline> `| Position, taille, zone d'affichage, style, calque, index Z, ID, ID de légende et transformation, ancre de texte, arrière-plan du tableau, position de fin de dessin, points | Titre, description longue, écouteurs d'événement, points de liaison, texte
-Polygone `<draw:polygon> `|Position, Taille, Zone d'affichage, Style, Calque, Z-Index, ID, ID de légende et transformation, Ancre de texte, arrière-plan du tableau, position de fin de dessin, Points|Titre, Description détaillée, Écouteurs d'événements, Points de collage, Texte
-|Polygone régulier `<draw:regular-polygon> `|Position, Taille, Style, Calque, Z-Index, ID, ID de légende et transformation, Ancre de texte, arrière-plan du tableau, position de fin de dessin, Concave, Coins, Netteté|Titre, Description détaillée, Écouteurs d'événement, Points de collage, Texte
-|Chemin `<draw:path> `|Position, Taille, Zone d'affichage, Style, Calque, Z-Index, ID, ID de légende et transformation, Ancre de texte, arrière-plan du tableau, position de fin de dessin, Données de chemin| Titre, description longue, écouteurs d'événement, points de liaison, texte
+Rectangulaire - `<draw:rect>` |Position, Taille, Style, Calque, Z-Index, ID, ID de légende, Ancre de texte, arrière-plan du tableau, position de fin de dessin, Coins arrondis|Titre, Description détaillée, Écouteurs d'événements, Points de collage, Texte
+Ligne `<draw:line>` |Style, Calque, Z-Index, ID, ID de légende et transformation, Ancre de texte, arrière-plan du tableau, position de fin de dessin, Point de départ, Point de fin|Titre, Description longue, Écouteurs d'événements, Points de collage, Texte
+Polyligne `<draw:polyline>` | Position, taille, zone d'affichage, style, calque, index Z, ID, ID de légende et transformation, ancre de texte, arrière-plan du tableau, position de fin de dessin, points | Titre, description longue, écouteurs d'événement, points de liaison, texte
+Polygone `<draw:polygon>` |Position, Taille, Zone d'affichage, Style, Calque, Z-Index, ID, ID de légende et transformation, Ancre de texte, arrière-plan du tableau, position de fin de dessin, Points|Titre, Description détaillée, Écouteurs d'événements, Points de collage, Texte
+|Polygone régulier `<draw:regular-polygon>` |Position, Taille, Style, Calque, Z-Index, ID, ID de légende et transformation, Ancre de texte, arrière-plan du tableau, position de fin de dessin, Concave, Coins, Netteté|Titre, Description détaillée, Écouteurs d'événement, Points de collage, Texte
+|Chemin `<draw:path>` |Position, Taille, Zone d'affichage, Style, Calque, Z-Index, ID, ID de légende et transformation, Ancre de texte, arrière-plan du tableau, position de fin de dessin, Données de chemin| Titre, description longue, écouteurs d'événement, points de liaison, texte
 
 ### Cadres ###
 Un cadre, dans un document de dessin, est un conteneur rectangulaire qui contient des zones de texte, des images ou des objets. Les cadres prennent en charge des fonctionnalités supplémentaires telles que les contours, les images cliquables et les hyperliens. Un cadre peut contenir un objet ainsi qu'une image, permettant ainsi d'avoir plusieurs rendus d'un objet. Les applications rendent l'élément respectif basé sur le meilleur support.

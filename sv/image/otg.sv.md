@@ -41,12 +41,12 @@ OTG-filformatet är baserat på OpenDocument XML-formatet som har ett väletable
 #### Handout Master ####
 
 Handout Master-element är en mall för att automatiskt generera utdelningssidor för applikationer som stöder utskrift av sådana sidor.
-Attributen som kan vara associerade med `<style:handout-master> ` element är:
+Attributen som kan vara associerade med `<style:handout-master>` element är:
 
 |Layout|Attribut|Beskrivning
 ---|---|---|
 |Presentationssidalayout|presentation:presentation-page-layout-name|Länkar till `<style:presentation-page-layout>`  attribut
-|Sidlayout|`stil:sida-layout-namn` | Anger en sidlayout som innehåller storlekarna, ramarna och orienteringen för mallsidan för utdelningsmaterialet.
+|Sidlayout|`style:page-layout-name` | Anger en sidlayout som innehåller storlekarna, ramarna och orienteringen för mallsidan för utdelningsmaterialet.
 |Sidstil|`draw:style-name`|Tilldelar ytterligare formateringsattribut till en utdelningshuvudsida genom att tilldela en ritsidstil.|
 |Rubrikdeklaration| `presentation:use-header-name`| Anger namnet på rubrikfältsdeklarationen som används för alla rubrikfält som visas på utdelningshuvudsidan.
 |Sidfotsdeklaration| presentation:use-footer-name|Anger namnet på sidfotsfältsdeklarationen som används för alla sidfotsfält som visas på utdelningshuvudsidan.
@@ -57,12 +57,12 @@ OpenDocument-formatet stöder flera ritformer som kan användas av alla typer av
 
 |Shape|Associerade attribut| element
 ---|---|---|
-Rektangel - `<draw:rect> `|Position, Storlek, Stil, Lager, Z-index, ID, Bildtext-ID, Textankare, tabellbakgrund, ritslutposition, Runda hörn|Titel, Lång Beskrivning, Händelselyssnare, Limpunkter, Text
-Rad `<draw:line> `|Stil, lager, Z-index, ID, bildtext-ID och transformation, textankare, tabellbakgrund, ritslutposition, startpunkt, slutpunkt|titel, lång beskrivning, händelseavlyssnare, limpunkter, text
-Polylinje `<draw:polyline> `| Position, Storlek, View box, Style, Layer, Z-Index, ID, Caption ID och Transformation, Textankare, tabellbakgrund, rita slutposition, Points| Titel, lång beskrivning, händelselyssnare, limpunkter, text
-Polygon `<draw:polygon> `|Position, Storlek, Visa ruta, Stil, Lager, Z-index, ID, Bildtext ID och Transformation, Textankare, tabellbakgrund, ritslutposition, Points|Titel, Lång beskrivning, Händelselyssnare, Limpunkter, Text
-|Vanlig polygon `<draw:regular-polygon> `|Position, storlek, stil, lager, Z-index, ID, bildtext-ID och transformation, textankare, tabellbakgrund, ritslutposition, konkav, hörn, skärpa|titel, lång beskrivning, händelselyssnare, limpunkter, text
-|Paht `<draw:path> `|Position, Storlek, View box, Style, Layer, Z-Index, ID, Caption ID och Transformation,Textankare, tabellbakgrund, rita slutposition, Bandata| Titel, lång beskrivning, händelselyssnare, limpunkter, text
+Rektangel - `<draw:rect>` |Position, Storlek, Stil, Lager, Z-index, ID, Bildtext-ID, Textankare, tabellbakgrund, ritslutposition, Runda hörn|Titel, Lång Beskrivning, Händelselyssnare, Limpunkter, Text
+Rad `<draw:line>` |Stil, lager, Z-index, ID, bildtext-ID och transformation, textankare, tabellbakgrund, ritslutposition, startpunkt, slutpunkt|titel, lång beskrivning, händelseavlyssnare, limpunkter, text
+Polylinje `<draw:polyline>` | Position, Storlek, View box, Style, Layer, Z-Index, ID, Caption ID och Transformation, Textankare, tabellbakgrund, rita slutposition, Points| Titel, lång beskrivning, händelselyssnare, limpunkter, text
+Polygon `<draw:polygon>` |Position, Storlek, Visa ruta, Stil, Lager, Z-index, ID, Bildtext ID och Transformation, Textankare, tabellbakgrund, ritslutposition, Points|Titel, Lång beskrivning, Händelselyssnare, Limpunkter, Text
+|Vanlig polygon `<draw:regular-polygon>` |Position, storlek, stil, lager, Z-index, ID, bildtext-ID och transformation, textankare, tabellbakgrund, ritslutposition, konkav, hörn, skärpa|titel, lång beskrivning, händelselyssnare, limpunkter, text
+|Paht `<draw:path>` |Position, Storlek, View box, Style, Layer, Z-Index, ID, Caption ID och Transformation,Textankare, tabellbakgrund, rita slutposition, Bandata| Titel, lång beskrivning, händelselyssnare, limpunkter, text
 
 ### Ramar ###
 En ram i ett ritdokument är en rektangulär behållare som innehåller textrutor, bilder eller objekt. Ramar stöder ytterligare funktioner som konturer, bildkartor och hyperlänkar. En ram kan innehålla ett objekt såväl som en bild, vilket gör det möjligt att ha flera återgivningar av ett objekt. Applikationerna återger respektive element baserat på det bästa stödet.

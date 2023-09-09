@@ -15,7 +15,7 @@
   "draft": "false",
   "toc": true,
   "title": "ECO File Format - ECCO Database File",
-  "description": "Learn about USR format and APIs that can create and open USR files.",
+  "description": "Learn about ECO format and APIs that can create and open ECO files.",
   "linktitle": "ECO",
   "menu": {
     "docs": {
@@ -46,4 +46,4 @@ Programs that open or reference ECO files include
 - NetManage ECCO Pro
 
 ## References
-[Ecco Pro](https://en.wikipedia.org/wiki/Ecco_Pro)
+* [Ecco Pro](https://en.wikipedia.org/wiki/Ecco_Pro)
