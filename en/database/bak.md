@@ -54,6 +54,27 @@ Data streams in a MTF file are used for data encapsulation and alignment. It com
 
 A filemark is used for logical separation and quick access within a media. Filemarks are emulated by device driver or by use of the Soft Filemark Descriptor block in case the device being used does not provide filemarks.
 
+## Other BAK files
+
+Here are other file types that use the **.bak** file extension.
+
+**Database**
+- [BAK - Swiftpage Act! Database Backup](/database/bak-act/)
+- [BAK - Microsoft SQL Server Database Backup](/database/bak-sqlserver/)
+
+**Game**
+- [BAK - Terraria World or Player Backup](/game/bak-terraria/)
+
+**Misc**
+- [BAK - Backup File](/misc/bak-backup/)
+- [BAK - Chromium Bookmarks Backup](/misc/bak-chromium/)
+- [BAK - Finale 2012 Score Backup](/misc/bak-finale/)
+- [BAK - MobileTrans Backup](/misc/bak-mobiletrans/)
+- [BAK - VEGAS Video Project Backup](/misc/bak-vegas/)
+
+**Settings**
+- [BAK - Holo Launcher Backup](/settings/bak-holo/)
+
 ## References ##
 
 * [[MS-BCP]: Bulk Copy Format](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
