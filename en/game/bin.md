@@ -46,5 +46,15 @@ Here are the general steps to open and play a Sega Genesis game ROM stored in a 
 3. Navigate to the location on your computer where the bin file is stored and select it.
 4. The emulator should now load the game and allow you to play it using a game controller or keyboard.
 
+## Other BIN files
+
+Here are other file types that use the **.bin** file extension.
+
+- [BIN - MacBinary Encoded File](/compression/bin/)
+- [BIN - Binary Disc Image File](/disc-and-media/bin/)
+- [BIN - Unix Executable File](/executable/bin/)
+- [BIN - BlackBerry IT Policy File](/settings/bin/)
+- [BIN - PSX PlayStation BIOS Image](/game/bin-pcsx/)
+
 ## References
 * [Sega Genesis](https://en.wikipedia.org/wiki/Sega_Genesis)
