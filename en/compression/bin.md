@@ -53,6 +53,16 @@ The MacBinary Encoded BIN files can be opened using various compression utilitie
 
 It is important to note that the .bin file extension is used by various file formats, not just MacBinary. Therefore, if you encounter a BIN file that cannot be opened with the aforementioned utilities, it may be saved in a different format. In such cases, you may need to identify the specific file format and use the appropriate software or utility designed for that format to access the file contents.
 
+## Other BIN files
+
+Here are other file types that use the **.bin** file extension.
+
+- [BIN - Binary Disc Image File](/disc-and-media/bin/)
+- [BIN - Unix Executable File](/executable/bin/)
+- [BIN - BlackBerry IT Policy File](/settings/bin/)
+- [BIN - Sega Genesis Game ROM](/game/bin/)
+- [BIN - PSX PlayStation BIOS Image](/game/bin-pcsx/)
+
 ## References
 
 * [MacBinary](https://en.wikipedia.org/wiki/MacBinary)

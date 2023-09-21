@@ -30,6 +30,16 @@ A few disk imaging software cut down unused file space from source media, or com
 
 BIN format was typically developed to resolve the Audio CD's archiving problem with [ISO](/compression/iso/). Usually, this format can be used as an alternate for the same content that ISO supports and without any drawback. ISO is a simple disc image format, while BIN/CUE is a raw copy of a disc, including copy protection, sector by sector, tracklist, error correction, multi-track, and any system-specific information on the disc
 
+## Other BIN files
+
+Here are other file types that use the **.bin** file extension.
+
+- [BIN - MacBinary Encoded File](/compression/bin/)
+- [BIN - Unix Executable File](/executable/bin/)
+- [BIN - BlackBerry IT Policy File](/settings/bin/)
+- [BIN - Sega Genesis Game ROM](/game/bin/)
+- [BIN - PSX PlayStation BIOS Image](/game/bin-pcsx/)
+
 ## References 
 
 * [Roxio Toast - Wikipedia](https://en.wikipedia.org/wiki/Roxio_Toast)

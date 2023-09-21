@@ -49,5 +49,15 @@ Select the appropriate option to import the IT Policy file (policy.bin) from you
 
 Make any necessary changes to the policy and save them. If required, you can publish or push the updated policy to the BlackBerry devices connected to your enterprise network.
 
+## Other BIN files
+
+Here are other file types that use the **.bin** file extension.
+
+- [BIN - MacBinary Encoded File](/compression/bin/)
+- [BIN - Binary Disc Image File](/disc-and-media/bin/)
+- [BIN - Unix Executable File](/executable/bin/)
+- [BIN - Sega Genesis Game ROM](/game/bin/)
+- [BIN - PSX PlayStation BIOS Image](/game/bin-pcsx/)
+
 ## References
 * [BlackBerry Unified Endpoint Manager](https://en.wikipedia.org/wiki/BlackBerry_Unified_Endpoint_Manager)

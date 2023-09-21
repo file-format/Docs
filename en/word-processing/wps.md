@@ -25,6 +25,13 @@ A file with .wps extension is a Microsoft Works document that was used prior to 
 
 The file format specifications of WPS document is not available publicly as Microsoft didn't open the specifications to end users. WPS are binary files and can be opened with file format conversion filters created by Microsoft for Word processor. LibreOffice, NeoOffice, and OxygenOffice have included a general C++ library, libwps, that can extract text from many different versions of Microsoft Works.
 
+## Other WPS files
+
+Here are other file types that use the **.wps** file extension.
+
+- [WPS - Kingsoft Writer Document](/word-processing/wps-kingsoft/)
+- [WPS - SDL Translator's Workbench Project File](/settings/wps/)
+
 ## References ##
 
 * [Microsoft Works](https://en.wikipedia.org/wiki/Microsoft_Works)

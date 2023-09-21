@@ -61,6 +61,16 @@ $ ./sample.bin
 
 _Exercise caution when dealing with downloaded or emailed BIN files, as they can potentially be used by cybercriminals to distribute malware. Only run BIN files from trusted sources to mitigate the risk of malicious executable attacks._
 
+## Other BIN files
+
+Here are other file types that use the **.bin** file extension.
+
+- [BIN - MacBinary Encoded File](/compression/bin/)
+- [BIN - Binary Disc Image File](/disc-and-media/bin/)
+- [BIN - BlackBerry IT Policy File](/settings/bin/)
+- [BIN - Sega Genesis Game ROM](/game/bin/)
+- [BIN - PSX PlayStation BIOS Image](/game/bin-pcsx/)
+
 ## References
 
 * [How to Execute Binary Files in Linux](https://linuxhint.com/execute-binary-files-in-linux/)
