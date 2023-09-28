@@ -65,3 +65,22 @@ max_intron = 400000
 max_multi_hit = 10
 
 ```
+
+## Other CFG files
+
+Here are other file types that use the **.cfg** file extension.
+
+**Settings**
+- [CFG - Celestia Configuration File](/settings/cfg-celestia/)
+- [CFG - Citrix Server Connection File](/settings/cfg-citrix/)
+- [CFG - MAME Configuration File](/settings/cfg-mame/)
+- [CFG - LightWave Configuration File](/settings/cfg-lightwave/)
+
+**Game**
+- [CFG - Wesnoth Markup Language File](/game/cfg-wesnoth/)
+- [CFG - M.U.G.E.N Configuration File](/game/cfg-mugen/)
+- [CFG - Source Engine Configuration File](/game/cfg-sourceengine/)
+
+**System & Misc**
+- [CFG - CFG File](/system/cfg/)
+- [CFG - Cal3D Model Configuration File](/misc/cfg-cal3d/)
