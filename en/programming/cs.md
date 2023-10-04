@@ -49,3 +49,14 @@ class Program
     }
 }
 ```
+
+## Other CS files
+
+Here are other file types that use the **.cs** file extension.
+
+**Data Files & Game**
+- [CS - ColorSchemer Studio Color Scheme](/misc/cs-colorschemer/)
+- [CS - CLEO Custom Script](/game/cs-cleo/)
+
+**Programming**
+- [CS - CSharp Code File](/programming/cs/)

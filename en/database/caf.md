@@ -31,6 +31,18 @@ You can open CAF with the official Cathy software. This will need you to place y
 
 To do so, place your CAF file in the same directory as your Cathy.exe file. Then, open Cathy. Your CAF catalog will appear in Cathy.
 
+## Other CAF files
+
+Here are other file types that use the **.caf** file extension.
+
+**3d & Audio**
+- [CAF - Cal3D Binary Animation File](/3d/caf-cal3d/)
+- [CAF - Core Audio File](/audio/caf/)
+
+**Database & Programming**
+- [CAF - Cathy Catalog File Format](/database/caf/)
+- [CAF - CryENGINE Character Animation File](/programming/caf-cryengine/)
+
 ## References
 
  * [Cathy - Download](https://cathy.en.lo4d.com/windows)

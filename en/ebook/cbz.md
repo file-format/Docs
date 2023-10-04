@@ -25,6 +25,16 @@ A file with .cbz extension is a comic book [ZIP](/compression/zip/) archive file
 
 A CBZ file is a ZIP archive that contains ebook pages as images in [PNG](/image/png/), [JPEG](/image/jpeg/), or [GIF](/image/gif/) file formats. It can be decompressed and its contents can be extracted using any decompression software that supports ZIP file format. Images extracted using decompression software are not in the same order as they appear in the CBZ file as information about the order of images lies inside the CBZ file.
 
+## Other CBZ files
+
+Here are other file types that use the **.cbz** file extension.
+
+**Data Files**
+- [CBZ - ChessBase Encrypted Database Archive](/misc/cbz-chessbase/)
+
+**Ebook**
+- [CBZ - Comic Book ZIP Archive File Format](/ebook/cbz/)
+
 ## References
 
 * [Comic Book Archive](https://en.wikipedia.org/wiki/Comic_book_archive)
