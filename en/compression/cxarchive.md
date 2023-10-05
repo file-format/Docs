@@ -53,7 +53,7 @@ Here are some key features and aspects of CrossOver:
     
 2.  **Bottles**: CrossOver uses the concept of "bottles" to create isolated environments for running Windows software. Each bottle can have its own configuration settings, libraries, and installed applications, allowing users to keep different Windows programs separate.
     
-3.  **No Windows License Required**: Unlike running a virtual machine with Windows, CrossOver does not require users to purchase a Windows license, which can be cost-effective for those who need to run a few Windows applications on their Mac or Linux systems..
+3.  **No Windows License Required**: Unlike running a virtual machine with Windows, CrossOver does not require users to purchase a Windows license, which can be cost-effective for those who need to run a few Windows applications on their Mac or Linux systems.
     
 4.  **Cross-Platform Support**: CrossOver is available for both macOS and various Linux distributions, making it a versatile solution for users on different platforms.
     
