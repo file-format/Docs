@@ -18,7 +18,9 @@
 
 ## About FBX to GLB
 
-FBX, often referred to as FilmBox, is a highly embraced 3D file format initially created by Kaydara to enhance compatibility with MotionBuilder. Autodesk Inc. took over control of this format in 2006, solidifying its position as a vital standard for effortlessly exchanging 3D data among a variety of 3D software applications. The [GLB file format](/3d/glb/) is a compact 3D format that combines models, textures, and animations into a single binary file. It's ideal for efficient distribution and quick loading in 3D applications and on the web, particularly in AR, VR, and web-based 3D content.
+FBX, often referred to as FilmBox, is a highly embraced 3D file format initially created by Kaydara to enhance compatibility with MotionBuilder. Autodesk Inc. took over control of this format in 2006, solidifying its position as a vital standard for effortlessly exchanging 3D data among a variety of 3D software applications. 
+
+The [GLB file format](/3d/glb/) is a compact 3D format that combines models, textures, and animations into a single binary file. It's ideal for efficient distribution and quick loading in 3D applications and on the web, particularly in AR, VR, and web-based 3D content.
 
 [FBX](/3d/fbx/) to [GLB](/3d/glb/) conversion is the process of converting 3D models from the FBX format to GLB, a compact, web-friendly format. This allows for seamless sharing and display of 3D content on different platforms, including the web, AR, and VR. Various software tools simplify this conversion.
 
