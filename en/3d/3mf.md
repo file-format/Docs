@@ -19,7 +19,7 @@
 
 ## What is a 3MF file?
 
-3MF, 3D Manufacturing Format, is used by applications to render 3D object models to a variety of other applications, platforms, services and printers. It was built to avoid the limitations and issues in other 3D file formats, like [STL](/cad/stl/), for working with the latest versions of 3D printers. 3MF is relatively a new file format that has been developed and published by the 3MF consortium. It is rich enough to fully describe a model, retaining internal information, colour, and other characteristics that makes it extensible for supporting new innovations in 3D printing. The format is extensible, able to be broadly adopted and free of issues besetting other widely used file formats.
+3MF, 3D Manufacturing Format, is used by applications to render 3D object models to a variety of other applications, platforms, services and printers. It was built to avoid the limitations and issues in other 3D file formats, like [STL](/cad/stl/), for working with the latest versions of 3D printers. 3MF is relatively a new file format that has been developed and published by the 3MF consortium. It is rich enough to fully describe a model, retaining internal information, colour, and other characteristics that makes it extensible for supporting new innovations in 3D printing. The format is extensible, able to be broadly adopted and free of issues besetting other widely used file formats.
 
 ## Brief History of 3MF File Format
 
@@ -46,7 +46,7 @@ The 3MF file format uses the Open Packaging specifications in the form of ZIP ar
 
 A typical 3MF document looks as follow:
 
-![3MF Document Structure](https://raw.githubusercontent.com/3MFConsortium/spec_core/master/images/figure_2-1.png "3MF Document Structure")
+![3MF Document Structure](https://github.com/3MFConsortium/spec_core/raw/master/images/figure_2-1.png "3MF Document Structure")
 
 The payload includes the full set of parts required for processing the 3D Model part. All content to be used to manufacture an object described in the 3D payload MUST be contained in the 3MF Document. The description of each document part along with its status as required or option is as given in the following table.
 
