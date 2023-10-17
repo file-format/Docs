@@ -69,4 +69,4 @@ Additional information for objects declared in a Declaration block are provided 
 ## References ##
 
 * [U3D File Format - Wikipedia](https://en.wikipedia.org/wiki/Universal_3D)
-* [ECMA U3D File Format Specifications](https://www.ecma-international.org/publications/standards/Ecma-363.htm)
+* [ECMA U3D File Format Specifications](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/)
