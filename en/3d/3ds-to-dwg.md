@@ -82,4 +82,4 @@ Aspose.3D for Python via .NET is a flexible API for handling various 3D file for
 **Aspose.3D for Python via .NET Resources**
 
 1. [Aspose.3D for Python via .NET](https://products.aspose.com/3d/python-net/)
-1. Install - [Aspose.3D for Python via .NET](https://releases.aspose.com/3d/python/)
+1. Install - [Aspose.3D for Python via .NET](https://releases.aspose.com/3d/python-net/)
