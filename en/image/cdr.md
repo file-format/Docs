@@ -25,6 +25,18 @@ A CDR file is a vector drawing image file that is natively created with [CorelDR
 
 CDR, being proprietary format of Corel, doesn't have any publicly available technical specifications. The format has been continuously evolving after its first launch in 1989 and supports basic features such as text, colour management and spot colours.
 
+## Other CDR files
+
+Here are other file types that use the **.cdr** file extension.
+
+**Audio & Disk and Media**
+- [CDR - Raw CD Audio Data](/audio/cdr/)
+- [CDR - Macintosh DVD/CD Master](/disc-and-media/cdr/)
+
+**Data Files & Image**
+- [CDR - Crash Data Retrieval Data File](/misc/cdr-crash/)
+- [CDR - Vector Drawing Image File](/image/cdr/)
+
 ## References
 
  * [CorelDRAW](https://www.coreldraw.com/en/pages/open-cdr-file/)

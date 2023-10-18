@@ -75,6 +75,15 @@ FILE "Faithless - Live in Berlin.mp3" MP3
     PERFORMER "Faithless"
     INDEX 01 42:35:00
 ```
+
+## Other CUE files
+
+Here are other file types that use the **.cue** file extension.
+
+**Disk and Media**
+- [CUE - Cue Sheet File](/disc-and-media/cue/)
+- [CUE - CDRWIN Cue Sheet](/disc-and-media/cue-cdrwin/)
+
 ## References
 
 * [.cda file - By Wikipedia](https://en.wikipedia.org/wiki/.cda_file)
