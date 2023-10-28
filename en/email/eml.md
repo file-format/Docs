@@ -30,8 +30,8 @@ It was in 2001 when the 822 standard was enhanced to 2822 - Internet Message For
 
 EML files comprise of two distinguished sections:
 
-* Headers - Contains information about message header
-* Message Body - Contains series of information that can include message content, embedded images and attachments
+* **Headers** - Contains information about message header
+* **Message Body** - Contains series of information that can include message content, embedded images and attachments
 
 ### Headers Information ###
 
@@ -68,7 +68,7 @@ Contents of the message body are described by its Content-Type which enables the
 |audio|Represents any audio file format|audio/mdi, audio/wav
 |application|Represents any kind of binary data|application/octet-stream, application/vnd.mspowerpoint, application/xhtml+xml, application/xml, application/pdf
 
-### Representation of Attachment in EML Body ###
+### Representation of Attachment in EML Body
 
 EML body contains boundaries for each content-type that it contains. Attachment in the message body is identified by its Content-Type and Content-Disposition as shown in the following example:
 
@@ -79,12 +79,31 @@ X-Attachment-Id: f_jkhztmd02
 
 As can be seen, the Content-Disposition set to attachment enables the reading applications for getting attachment information such as attachment file name and the transfer encoding. Attachment header information is followed by encoded attachment contents that are to be read.
 
-#### Example of SpreadSheet as Attachment ####
+#### Example of SpreadSheet as Attachment
 
 Content-Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; name#"english_spodr.xlsx"
 Content-Disposition: attachment; filename#"english_spodr.xlsx"
 Content-Transfer-Encoding: base64
 X-Attachment-Id: f_jkhztmd43
+
+## How to open an EML file
+
+You can open EML files using different email programs such as:
+
+ * **Apple Mail on macOS**
+ * **Mozilla Thunderbird**
+ * **Microsoft Outlook**
+
+EML files are saved in plain text format and you can also open these EML files with popular text editors such as **TextEdit** on macOS and **Microsoft Notepad** on Windows OS.
+
+## How to convert an EML file
+
+You can convert EML files to several other formats with applications such as Apple Mail and Microsoft Outlook. 
+
+For example, Microsoft Outlook can convert EML file to the follwoing formats:
+
+**[.MSG](/eml/msg/)** - Microsoft Outlook Message Format
+**[.PDF](/pdf/)** - Protable Document Format
 
 ## References
 

@@ -60,6 +60,22 @@ ATTACH: https://products.conholdate.app/viewer/view/KDDURXKkLk/fileformat.doc
 
 Though default charset scheme for an iCalendar is UTF-8 yet no property parameter is specified to define the charset of a property value. in MIME transfers "charset" parameter MUST be used for existing charset.
 
+## How to Open an ICS File?
+
+There are multiple ways to open an ICS file. These are detailed below.
+
+1. Open ICS using Calendar Applications
+
+You can open ICS files using Calendar applications such as Microsoft Outlook, Google Calendar or Apple Calendar. If you have these applications installed on your device, you can open the ICS file with these applications by simply double-clicking it. This will import the events of the ICS file into your calendar.
+
+1. Open ICS file in Text Editor
+
+You can also open an ICS file in any text editor such as Microsoft Notepad or Apple TextEdit. Once opened, you will see the DTSTART and DTEND lines that represnet the start and end timings of the event.
+
+1. Manually Import ICS file in Calendar App
+
+You can also manually import an ICS file into your calendar app by using the Imiprot & export options of these calendar apps. This will add the ICS file events to your calendar.
+
 ## References
 
 * [Internet Calendaring and Scheduling Core Object Specification](https://www.ietf.org/rfc/rfc5545.txt)
