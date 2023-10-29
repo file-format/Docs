@@ -29,21 +29,21 @@
 
 ## What is a CHR file?
 
-CHR files are associated with the game **"Doki Doki Literature Club!"** developed by Team Salvato. In the game, each character has a corresponding ".chr" file that contains information about that character. These files are used to store character data and are an integral part of the game's storyline.
+CHR files are associated with game **"Doki Doki Literature Club!"** developed by Team Salvato. In game, each character has a corresponding ".chr" file that contains information about that character. These files are used to store character data and are an integral part of game's storyline.
 
-The game's narrative involves interacting with these characters and manipulating their ".chr" files to affect the game's progression. It is important to note that manipulating these files can lead to different outcomes and story branches in the game.
+The game's narrative involves interacting with these characters and manipulating their ".chr" files to affect game's progression. It is important to note that manipulating these files can lead to different outcomes and story branches in game.
 
 ## Common CHR Filenames
 
 In "Doki Doki Literature Club!", there are four main characters, each represented by a ".chr" file. The common ".chr" file names for these characters are:
 
-1.  **Monika.chr**: Monika is one of the main characters and the president of the literature club. She plays a significant role in the game's storyline.
+1.  **Monika.chr**: Monika is one of main characters and president of literature club. She plays a significant role in game's storyline.
     
-2.  **Sayori.chr**: Sayori is one of the club members and a close friend of the player character. Her ".chr" file is important in the early stages of the game.
+2.  **Sayori.chr**: Sayori is one of club members and a close friend of player character. Her ".chr" file is important in early stages of game.
     
-3.  **Natsuki.chr**: Natsuki is another club member known for her tsundere personality. Her ".chr" file becomes relevant as the game progresses.
+3.  **Natsuki.chr**: Natsuki is another club member known for her tsundere personality. Her ".chr" file becomes relevant as game progresses.
     
-4.  **Yuri.chr**: Yuri is a club member who is passionate about literature and has a mysterious side to her personality. Her ".chr" file is also essential to the game's plot.
+4.  **Yuri.chr**: Yuri is a club member who is passionate about literature and has a mysterious side to her personality. Her ".chr" file is also essential to game's plot.
 
 ## Doki Doki Literature Club
 
@@ -51,31 +51,31 @@ In "Doki Doki Literature Club!", there are four main characters, each represente
 
 **Genre:** Visual Novel, Psychological Horror, Dating Simulation
 
-**Plot:** The game presents itself as a typical dating simulator, where the player character joins a high school literature club and interacts with four female members: Sayori, Natsuki, Yuri, and Monika. As the player gets to know these characters and engages in various activities related to the literature club, the game takes dark and unexpected turns, delving into themes of mental health, self-awareness, and the consequences of player choices.
+**Plot:** The game presents itself as a typical dating simulator, where player character joins a high school literature club and interacts with four female members: Sayori, Natsuki, Yuri, and Monika. As player gets to know these characters and engages in various activities related to literature club, game takes dark and unexpected turns, delving into themes of mental health, self-awareness, and consequences of player choices.
 
-**Gameplay:** The gameplay primarily involves reading text and making choices at key points in the story. These choices can influence the direction of the narrative. Additionally, the player can write poems in the game, which affects the preferences of the club members.
+**Gameplay:** The gameplay primarily involves reading text and making choices at key points in story. These choices can influence direction of narrative. Additionally, player can write poems in game, which affects preferences of club members.
 
 **Psychological Horror:** Without giving away too many spoilers, "Doki Doki Literature Club!" subverts expectations and becomes a psychological horror experience. It uses various meta-narrative and fourth-wall-breaking techniques to create a disturbing and unsettling atmosphere.
 
-**Character Files:** In the game, there are ".chr" files associated with each of the main characters. Players can manipulate these files to impact the game's events, leading to different outcomes and endings.
+**Character Files:** In game, there are ".chr" files associated with each of main characters. Players can manipulate these files to impact game's events, leading to different outcomes and endings.
 
-**Free-to-Play:** The game is available for free on various platforms, including Steam. Despite being free, it has received critical acclaim for its storytelling and innovative approach to the visual novel genre.
+**Free-to-Play:** The game is available for free on various platforms, including Steam. Despite being free, it has received critical acclaim for its storytelling and innovative approach to visual novel genre.
 
 ## File Formats Used by Doki Doki Literature Club
 
-Here are some of the file types associated with the game:
+Here are some of file types associated with game:
 
-1.  **.chr Files**: These are character files for the main characters in the game. Each character has their own ".chr" file, such as Monika.chr, Sayori.chr, Natsuki.chr, and Yuri.chr. These files play a crucial role in the game's narrative and can be manipulated to affect the story.
+1.  **.chr Files**: These are character files for main characters in game. Each character has their own ".chr" file, such as Monika.chr, Sayori.chr, Natsuki.chr, and Yuri.chr. These files play a crucial role in game's narrative and can be manipulated to affect story.
     
-2.  **.rpy Files**: These are Ren'Py script files, which is the engine used to create "Doki Doki Literature Club!" Ren'Py is a visual novel engine, and the ".rpy" files contain the game's script, dialogues, and event triggers.
+2.  **.rpy Files**: These are Ren'Py script files, which is engine used to create "Doki Doki Literature Club!" Ren'Py is a visual novel engine, and ".rpy" files contain game's script, dialogues, and event triggers.
     
-3.  **.ogg Files**: These are audio files in [Ogg Vorbis format](/audio/ogg/) used for the game's music and sound effects. The game's soundtrack, composed by Dan Salvato, contributes to its atmosphere and emotional impact.
+3.  **.ogg Files**: These are audio files in [Ogg Vorbis format](/audio/ogg/) used for game's music and sound effects. The game's soundtrack, composed by Dan Salvato, contributes to its atmosphere and emotional impact.
     
-4.  **.png Files**: Various image files in [PNG format](/image/png/) are used for character sprites, backgrounds, and other visual elements in the game. These images are displayed during the visual novel segments of the gameplay.
+4.  **.png Files**: Various image files in [PNG format](/image/png/) are used for character sprites, backgrounds, and other visual elements in game. These images are displayed during visual novel segments of gameplay.
     
-5.  **.txt Files**: [Text files](/word-processing/txt/) are used for various in-game documents, notes, and poems that the player can encounter throughout the game. These files provide additional context and clues for the story.
+5.  **.txt Files**: [Text files](/word-processing/txt/) are used for various in-game documents, notes, and poems that player can encounter throughout game. These files provide additional context and clues for story.
     
-6.  **Monika After Story**: This is a popular fan-made mod for "Doki Doki Literature Club!" that extends the game's content. It introduces additional file types and mechanics to further interact with the character Monika.
+6.  **Monika After Story**: This is a popular fan-made mod for "Doki Doki Literature Club!" that extends game's content. It introduces additional file types and mechanics to further interact with character Monika.
 
 ## How to open CHR file?
 
