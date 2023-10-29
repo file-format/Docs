@@ -29,31 +29,31 @@
 
 ## What is a CPI file?
 
-CPI stands for "Clip Information" and is used to store metadata about individual video clips within an AVCHD directory structure. These .CPI files contain information about the video clips, such as the start and end times of each clip, the format of the video (resolution, frame rate, etc.), and other details.
+CPI stands for "Clip Information" and is used to store metadata about individual video clips within an AVCHD directory structure. These .CPI files contain information about video clips, such as start and end times of each clip, format of video (resolution, frame rate, etc.), and other details.
 
-The .CPI files are usually stored in a subfolder within the AVCHD directory structure on a camcorder or other recording device. These files are essential for organizing and playing back the video clips, as they provide the necessary information for software and devices to understand and display the video content correctly.
+The .CPI files are usually stored in a subfolder within AVCHD directory structure on a camcorder or other recording device. These files are essential for organizing and playing back video clips, as they provide necessary information for software and devices to understand and display video content correctly.
 
 ## CPI File Format - More Information
 
-The .CPI files in AVCHD directory structures contain important information about the video clips recorded on AVCHD camcorders or devices. Here are some additional key details typically stored in .CPI files:
+The .CPI files in AVCHD directory structures contain important information about video clips recorded on AVCHD camcorders or devices. Here are some additional key details typically stored in .CPI files:
 
-1.  **Clip Information:** .CPI files store details about individual video clips, including their start and end times. This information is crucial for playing back and managing the clips.
+1.  **Clip Information:** .CPI files store details about individual video clips, including their start and end times. This information is crucial for playing back and managing clips.
     
-2.  **Video Format:** .CPI files contain data about the video format used in the clips, including resolution, frame rate, and aspect ratio. This information is necessary for displaying the video correctly.
+2.  **Video Format:** .CPI files contain data about video format used in clips, including resolution, frame rate, and aspect ratio. This information is necessary for displaying video correctly.
     
-3.  **Audio Format:** Information about the audio format used in the clips, such as the number of audio channels, sample rate, and codec, is typically stored in .CPI files.
+3.  **Audio Format:** Information about audio format used in clips, such as number of audio channels, sample rate, and codec, is typically stored in .CPI files.
     
-4.  **Timestamps:** .CPI files may include timestamps for each clip, allowing users to organize and sort the clips by recording date and time.
+4.  **Timestamps:** .CPI files may include timestamps for each clip, allowing users to organize and sort clips by recording date and time.
     
-5.  **File Structure:** AVCHD directory structures often consist of a combination of .MTS or .M2TS video files and .CPI clip information files, and .CPI files help link the video and audio content with the metadata.
+5.  **File Structure:** AVCHD directory structures often consist of a combination of .MTS or .M2TS video files and .CPI clip information files, and .CPI files help link video and audio content with metadata.
     
-6.  **Scene Detection:** Some .CPI files store scene detection information, which helps in identifying transitions between scenes in the recorded footage. This can be useful for video editing.
+6.  **Scene Detection:** Some .CPI files store scene detection information, which helps in identifying transitions between scenes in recorded footage. This can be useful for video editing.
     
-7.  **Thumbnail Images:** Some .CPI files may contain thumbnail images or preview frames that provide a visual representation of each video clip. This is often used in software and devices to display a preview of the content.
+7.  **Thumbnail Images:** Some .CPI files may contain thumbnail images or preview frames that provide a visual representation of each video clip. This is often used in software and devices to display a preview of content.
     
 ## How to open CPI file?
 
-.CPI files are typically not intended to be opened directly by users. Instead, when you use video players or editors to work with AVCHD video content stored in .MTS files, the associated .CPI file is automatically loaded if it is correctly linked to the MTS file. In other words, these .CPI files serve as important behind-the-scenes data that helps video software understand and manage the associated video clips. This linkage ensures that the software can interpret things like clip information, video and audio formats, and timestamps, making it easier for you to navigate and edit your AVCHD video content.
+.CPI files are typically not intended to be opened directly by users. Instead, when you use video players or editors to work with AVCHD video content stored in .MTS files, associated .CPI file is automatically loaded if it is correctly linked to MTS file. In other words, these .CPI files serve as important behind-the-scenes data that helps video software understand and manage associated video clips. This linkage ensures that software can interpret things like clip information, video and audio formats, and timestamps, making it easier for you to navigate and edit your AVCHD video content.
 
 Programs that open or reference CPI files include
 
@@ -62,9 +62,9 @@ Programs that open or reference CPI files include
 
 ## Adobe Premiere Pro
 
-Adobe Premiere Pro is a renowned professional video editing software that has long been a staple in the film and video production industry. It offers a robust suite of tools for video editing, post-production, and content creation. Premiere Pro is known for its non-linear editing system, allowing editors to work with video and audio tracks independently, making it a flexible and powerful platform. It offers a wide range of features, including timeline-based editing, multi-camera editing, and a variety of visual effects and transitions. Its integration with other Adobe Creative Cloud apps, such as After Effects and Photoshop, streamlines the creative process.
+Adobe Premiere Pro is a renowned professional video editing software that has long been a staple in film and video production industry. It offers a robust suite of tools for video editing, post-production, and content creation. Premiere Pro is known for its non-linear editing system, allowing editors to work with video and audio tracks independently, making it a flexible and powerful platform. It offers a wide range of features, including timeline-based editing, multi-camera editing, and a variety of visual effects and transitions. Its integration with other Adobe Creative Cloud apps, such as After Effects and Photoshop, streamlines creative process.
 
-Color correction and grading tools within Premiere Pro provide precise control over the visual aesthetics of video content. The software also includes audio editing and mixing capabilities, enabling users to enhance the quality of their projects' soundtracks.
+Color correction and grading tools within Premiere Pro provide precise control over visual aesthetics of video content. The software also includes audio editing and mixing capabilities, enabling users to enhance quality of their projects' soundtracks.
 
 ## Kdenlive
 
