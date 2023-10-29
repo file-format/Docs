@@ -29,7 +29,7 @@
 
 ## What is a SHADER file?
 
-The SHADER file format is used in **Quake 3 engine** to define shaders for textures and materials in game. Shaders are used to specify how a surface should be rendered, including its appearance, reflectivity, transparency, and other visual properties. 
+The SHADER file format is used in **Quake 3 engine** to define shaders for textures and materials in game. Shaders are used to specify how a surface should be rendered, including its appearance, reflectivity, transparency and other visual properties. 
 
 ## Quake 3 Engine SHADER File
 
@@ -60,7 +60,7 @@ shader shader_name
         // texture is used to specify image file for this stage
 
         // Additional properties for this stage can include blending modes,
-        // scrolling, scaling, and other texture manipulation settings.
+        // scrolling, scaling and other texture manipulation settings.
         // These can be specified with key-value pairs.
 
         // Example stage properties:
@@ -84,11 +84,11 @@ Shader files in Quake 3 engine are simple text files that contain instructions f
 
 ## Quake 3 Engine
 
-The Quake 3 engine is a highly influential and versatile game engine developed by id Software. It was first introduced with release of game "Quake III Arena" in 1999 and has since been used in various other games. The engine is known for its advanced graphics, multiplayer capabilities, and modifiability.
+The Quake 3 engine is a highly influential and versatile game engine developed by id Software. It was first introduced with release of game "Quake III Arena" in 1999 and has since been used in various other games. The engine is known for its advanced graphics, multiplayer capabilities and modifiability.
 
 Here are some key features and aspects of Quake 3 engine:
 
-1.  **Graphics Engine:** The Quake 3 engine was renowned for its cutting-edge graphics technology at time. It introduced advanced features such as curved surfaces, shaders, and dynamic lighting, which were groundbreaking in late 1990s.
+1.  **Graphics Engine:** The Quake 3 engine was renowned for its cutting-edge graphics technology at time. It introduced advanced features such as curved surfaces, shaders and dynamic lighting, which were groundbreaking in late 1990s.
     
 2.  **Multiplayer Focus:** Quake 3 Arena was primarily designed as a multiplayer first-person shooter. The engine's networking code and support for online multiplayer gaming were exceptional, making it a popular choice for competitive online play.
     
@@ -96,7 +96,7 @@ Here are some key features and aspects of Quake 3 engine:
     
 4.  **Scripted Gameplay:** The engine used a script-based system to define game rules and behavior, making it relatively easy for modders and mappers to create custom game modes and unique experiences.
     
-5.  **Support for Custom Content:** Quake 3's engine supported custom content, including textures, models, and sound files, which allowed for a high degree of customization in user-created maps and mods.
+5.  **Support for Custom Content:** Quake 3's engine supported custom content, including textures, models and sound files, which allowed for a high degree of customization in user-created maps and mods.
     
 6.  **Level Design:** The engine used a brush-based level design system, where maps were constructed by carving out spaces from solid brushes. This approach was well-documented and user-friendly for level designers.
 
