@@ -29,7 +29,7 @@
 
 ## What is a CHR file?
 
-CHR file in the context of CryENGINE refers to a **CryENGINE Character File**. CryENGINE is game engine developed by Crytek and these files are used for storing character models and associated data for use in video games and other real-time applications.
+CHR file in context of CryENGINE refers to a **CryENGINE Character File**. CryENGINE is game engine developed by Crytek and these files are used for storing character models and associated data for use in video games and other real-time applications.
 
 ## CryENGINE Character File
 
@@ -49,7 +49,7 @@ A CryENGINE Character File typically contains following components:
 
 ## CryENGINE
 
-CryENGINE is a powerful game engine developed by Crytek, a German video game company. It is known for its cutting-edge graphics capabilities and has been used to create some visually stunning and technologically advanced video games. Here are some key features and information about CryENGINE:
+CryENGINE is powerful game engine developed by Crytek, German video game company. It is known for its cutting-edge graphics capabilities and has been used to create some visually stunning and technologically advanced video games. Here are some key features and information about CryENGINE:
 
 1.  **Graphics and Rendering**: CryENGINE is renowned for its advanced graphics capabilities. It supports features like real-time global illumination, high-quality dynamic lighting and shadows, physically-based rendering (PBR) and high-resolution textures. These features contribute to creating visually stunning and realistic game worlds.
     
