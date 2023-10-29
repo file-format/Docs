@@ -29,7 +29,7 @@
 
 ## What is a CS file?
 
-A .CS file in context of CLEO (short for CLEO Library) typically refers to a custom script file used in Grand Theft Auto (GTA) series of video games. CLEO is a popular modding framework that allows players to create and add custom scripts to GTA games, enabling them to modify gameplay, add new features and enhance overall gaming experience.
+A .CS file in context of CLEO (short for CLEO Library) typically refers to a custom script file used in Grand Theft Auto (GTA) series of video games. CLEO is a popular modding framework that allows players to create and add custom scripts to GTA games enabling them to modify gameplay, add new features and enhance overall gaming experience.
 
 ## Overview of CS file
 
@@ -37,9 +37,9 @@ Here is a basic overview of what a .cs file in CLEO might contain:
 
 1.  **Script Code**: A .cs file contains script code written in CLEO scripting language. This scripting language is specific to CLEO and is used to define behavior of custom scripts within game. The code can be written using a text editor and it typically follows a specific syntax.
     
-2.  **Modifications**: CLEO scripts can make various modifications to game, such as changing behavior of in-game objects, creating custom missions, adding new vehicles, weapons and more. The possibilities are extensive and depend on creativity and programming skills of script author.
+2.  **Modifications**: CLEO scripts can make various modifications to game such as changing behavior of in-game objects, creating custom missions, adding new vehicles, weapons and more. The possibilities are extensive and depend on creativity and programming skills of script author.
     
-3.  **Triggers**: CLEO scripts often include triggers that determine when and how custom script should run. These triggers can be based on in-game events, player actions, or specific conditions.
+3.  **Triggers**: CLEO scripts often include triggers that determine when and how custom script should run. These triggers can be based on in-game events, player actions or specific conditions.
     
 4.  **Variables and Functions**: CLEO scripts can use variables to store and manipulate data, as well as functions to encapsulate and reuse code. These variables and functions are used to control behavior of script.
 
@@ -63,21 +63,21 @@ Here is a simple example of a CLEO .cs script that changes weather in game:
 
 ## CLEO Library
 
-The **CLEO Library**, often referred to simply as "CLEO," is a popular and powerful modding framework for Grand Theft Auto (GTA) series of video games. It allows players and modders to create and add custom scripts to GTA games, enabling them to modify gameplay, add new features and enhance overall gaming experience. CLEO is particularly well-known for its flexibility and ease of use in GTA modding community.
+The **CLEO Library**, often referred to simply as "CLEO" is a popular and powerful modding framework for Grand Theft Auto (GTA) series of video games. It allows players and modders to create and add custom scripts to GTA games enabling them to modify gameplay, add new features and enhance overall gaming experience. CLEO is particularly well-known for its flexibility and ease of use in GTA modding community.
 
 Here are some key features and aspects of CLEO Library:
 
-1.  **Scripting Language**: CLEO introduces its scripting language, which is specific to modding framework. The scripting language is designed to be relatively easy to understand and work with, making it accessible to both novice and experienced modders.
+1.  **Scripting Language**: CLEO introduces its scripting language, which is specific to modding framework. The scripting language is designed to be relatively easy to understand and work with making it accessible to both novice and experienced modders.
     
-2.  **Custom Scripts**: With CLEO, you can create custom scripts that can perform a wide range of functions within game world. These scripts can change in-game behavior, add new missions, introduce new vehicles or weapons, alter game physics and much more.
+2.  **Custom Scripts**: With CLEO, you can create custom scripts that can perform a wide range of functions within game world. These scripts can change in-game behavior add new missions, introduce new vehicles or weapons, alter game physics and much more.
     
-3.  **Triggers and Events**: CLEO scripts can be triggered by various in-game events, player actions, or specific conditions. This allows modders to create dynamic and interactive content within game.
+3.  **Triggers and Events**: CLEO scripts can be triggered by various in-game events, player actions or specific conditions. This allows modders to create dynamic and interactive content within game.
     
 4.  **Support for Multiple GTA Versions**: CLEO has versions tailored to different GTA games, including GTA III, GTA Vice City, GTA San Andreas, GTA IV and others. This means that modders can create and share their custom scripts for different GTA titles.
 
 ## File Formats Used by CLEO Library
 
-In CLEO modding for Grand Theft Auto (GTA) games, several file formats are commonly used to create and install mods. These file formats serve various purposes, from containing actual scripts to storing additional resources such as textures, models, or audio. Here are some of key file formats used in CLEO modding:
+In CLEO modding for Grand Theft Auto (GTA) games, several file formats are commonly used to create and install mods. These file formats serve various purposes from containing actual scripts to storing additional resources such as textures, models or audio. Here are some of key file formats used in CLEO modding:
 
 1.  **.cs (Custom Script)**: CLEO .cs files are custom script files written in CLEO scripting language. These files contain code that defines behavior and functionality of mod. .cs files are core of CLEO modding and are executed by game to implement custom features.
     
