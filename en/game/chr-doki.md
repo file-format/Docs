@@ -29,7 +29,7 @@
 
 ## What is a CHR file?
 
-CHR files are associated with game **"Doki Doki Literature Club!"** developed by Team Salvato. In game, each character has corresponding ".chr" file that contains information about that character. These files are used to store character data and are an integral part of game's storyline.
+CHR files are associated with game **"Doki Doki Literature Club!"** developed by Team Salvato. In game, each character has corresponding ".chr" file that contains information about that character. These files are used to store character data and are integral part of game's storyline.
 
 The game's narrative involves interacting with these characters and manipulating their ".chr" files to affect game's progression. It is important to note that manipulating these files can lead to different outcomes and story branches in game.
 
@@ -47,11 +47,11 @@ In "Doki Doki Literature Club!", there are four main characters, each represente
 
 ## Doki Doki Literature Club
 
-"Doki Doki Literature Club!" is visual novel developed by Team Salvato. Initially released in 2017, it gained significant attention for its unique blend of psychological horror and dating simulation elements. The game was created by Dan Salvato and is available as free download on various platforms. Here is an overview of "Doki Doki Literature Club!":
+"Doki Doki Literature Club!" is visual novel developed by Team Salvato. Initially released in 2017, it gained significant attention for its unique blend of psychological horror and dating simulation elements. The game was created by Dan Salvato and is available as free download on various platforms. Here is overview of "Doki Doki Literature Club!":
 
 **Genre:** Visual Novel, Psychological Horror, Dating Simulation
 
-**Plot:** The game presents itself as typical dating simulator, where player character joins high school literature club and interacts with four female members: Sayori, Natsuki, Yuri, and Monika. As player gets to know these characters and engages in various activities related to literature club, game takes dark and unexpected turns, delving into themes of mental health, self-awareness, and consequences of player choices.
+**Plot:** The game presents itself as typical dating simulator, where player character joins high school literature club and interacts with four female members: Sayori, Natsuki, Yuri and Monika. As player gets to know these characters and engages in various activities related to literature club, game takes dark and unexpected turns, delving into themes of mental health, self-awareness and consequences of player choices.
 
 **Gameplay:** The gameplay primarily involves reading text and making choices at key points in story. These choices can influence direction of narrative. Additionally, player can write poems in game, which affects preferences of club members.
 
@@ -65,15 +65,15 @@ In "Doki Doki Literature Club!", there are four main characters, each represente
 
 Here are some of file types associated with game:
 
-1.  **.chr Files**: These are character files for main characters in game. Each character has their own ".chr" file, such as Monika.chr, Sayori.chr, Natsuki.chr, and Yuri.chr. These files play crucial role in game's narrative and can be manipulated to affect story.
+1.  **.chr Files**: These are character files for main characters in game. Each character has their own ".chr" file, such as Monika.chr, Sayori.chr, Natsuki.chr and Yuri.chr. These files play crucial role in game's narrative and can be manipulated to affect story.
     
-2.  **.rpy Files**: These are Ren'Py script files, which is engine used to create "Doki Doki Literature Club!" Ren'Py is visual novel engine, and ".rpy" files contain game's script, dialogues, and event triggers.
+2.  **.rpy Files**: These are Ren'Py script files, which is engine used to create "Doki Doki Literature Club!" Ren'Py is visual novel engine and ".rpy" files contain game's script, dialogues and event triggers.
     
 3.  **.ogg Files**: These are audio files in [Ogg Vorbis format](/audio/ogg/) used for game's music and sound effects. The game's soundtrack, composed by Dan Salvato, contributes to its atmosphere and emotional impact.
     
-4.  **.png Files**: Various image files in [PNG format](/image/png/) are used for character sprites, backgrounds, and other visual elements in game. These images are displayed during visual novel segments of gameplay.
+4.  **.png Files**: Various image files in [PNG format](/image/png/) are used for character sprites, backgrounds and other visual elements in game. These images are displayed during visual novel segments of gameplay.
     
-5.  **.txt Files**: [Text files](/word-processing/txt/) are used for various in-game documents, notes, and poems that player can encounter throughout game. These files provide additional context and clues for story.
+5.  **.txt Files**: [Text files](/word-processing/txt/) are used for various in-game documents, notes and poems that player can encounter throughout game. These files provide additional context and clues for story.
     
 6.  **Monika After Story**: This is popular fan-made mod for "Doki Doki Literature Club!" that extends game's content. It introduces additional file types and mechanics to further interact with character Monika.
 
