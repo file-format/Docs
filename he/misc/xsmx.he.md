@@ -28,4 +28,3 @@
 ## הפניות
 
 * [ExamSoft SofTest](https://examsoft.com/about-examsoft/)
-

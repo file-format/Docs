@@ -5,8 +5,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "XMZX File - SofTest Exam File Format",
-  "description":"Learn about XMZX file and APIs that can create and open XMZX files.",
+  "title" : "XMZX File Format - What is it and how to open XMZX file?",
+  "description":"Learn about XMZX file format and APIs that can open XMZX files.",
   "linktitle" : "XMZX",
   "menu" : {
     "docs" : {
