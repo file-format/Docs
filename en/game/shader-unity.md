@@ -29,7 +29,7 @@
 
 ## What is a SHADER file?
 
-A **"Unity Shader Asset"** refers to shader created in Unity game development engine. In Unity, shaders are used to control how rendering of graphics is done, defining how objects and materials appear in 3D scene. Shaders can be used to manipulate lighting, texture mapping, and various other visual effects in Unity project.
+A **"Unity Shader Asset"** refers to shader created in Unity game development engine. In Unity, shaders are used to control how rendering of graphics is done, defining how objects and materials appear in 3D scene. Shaders can be used to manipulate lighting, texture mapping and various other visual effects in Unity project.
 
 ## Unity Shader Asset
 
@@ -49,7 +49,7 @@ To work with Shader Assets in Unity, you would typically do following:
     
 3.  Customize and modify Shader Asset as needed to achieve desired visual effects or rendering behavior.
     
-4.  Use Shader Asset to control various aspects of rendering, including how objects react to lighting, shadows, and materials.
+4.  Use Shader Asset to control various aspects of rendering, including how objects react to lighting, shadows and materials.
     
 5.  You can also animate properties within shader for dynamic visual effects.
     
