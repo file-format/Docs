@@ -60,17 +60,17 @@ FILE "DiscImage.bin" BINARY
 
 ## CDRWIN Cue Sheet
 
-CDRWIN Cue Sheet is specific variation of ".cue" file format used by CDRWIN software. CDRWIN is CD/DVD burning and authoring software, and its ".cue" sheets are designed for use with this software. These ".cue" sheets contain information necessary for CDRWIN to accurately create or burn CD or DVD.
+CDRWIN Cue Sheet is specific variation of ".cue" file format used by CDRWIN software. CDRWIN is CD/DVD burning and authoring software and its ".cue" sheets are designed for use with this software. These ".cue" sheets contain information necessary for CDRWIN to accurately create or burn CD or DVD.
 
 Here are some key details specific to CDRWIN Cue Sheets:
 
 1.  **Unique to CDRWIN**: CDRWIN's ".cue" sheets are proprietary format specific to CDRWIN software. While they share similarities with standard ".cue" files, they are tailored to work with CDRWIN's features and settings.
     
-2.  **User-Friendly Interface**: CDRWIN provides an easy-to-use interface for creating and editing its ".cue" sheets. Users can add or modify information about tracks, indexes, gaps, and other parameters in user-friendly manner.
+2.  **User-Friendly Interface**: CDRWIN provides an easy-to-use interface for creating and editing its ".cue" sheets. Users can add or modify information about tracks, indexes, gaps and other parameters in user-friendly manner.
     
-3.  **Compatible Disc Types**: CDRWIN Cue Sheets are used primarily for creating various types of CDs and DVDs, including data discs, audio CDs, mixed-mode discs, and more. The format allows users to specify type and content of disc they wish to create.
+3.  **Compatible Disc Types**: CDRWIN Cue Sheets are used primarily for creating various types of CDs and DVDs, including data discs, audio CDs, mixed-mode discs and more. The format allows users to specify type and content of disc they wish to create.
     
-4.  **Control Over Disc Layout**: CDRWIN Cue Sheets provide detailed control over layout and structure of disc, including track order, pause/gap settings, and any other specific preferences user may have.
+4.  **Control Over Disc Layout**: CDRWIN Cue Sheets provide detailed control over layout and structure of disc, including track order, pause/gap settings and any other specific preferences user may have.
     
 5.  **ISO and BIN Support**: CDRWIN can work with both ISO and BIN disc image formats. The ".cue" sheet specifies which image file is used for disc, ensuring proper synchronization between cues and image.
     
