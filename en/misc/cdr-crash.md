@@ -29,11 +29,11 @@
 
 ## What is a CDR file?
 
-A **.CDR file** stands for **"Crash Data Retrieval Data File"**. These files are associated with event data recorders (EDRs) in vehicles. EDRs, often referred to as "black boxes" in cars, record various data related to a vehicle's performance and events that occur before and during a crash. This data can be crucial for accident reconstruction and analysis.
+A **.CDR file** stands for **"Crash Data Retrieval Data File"**. These files are associated with event data recorders (EDRs) in vehicles. EDRs, often referred to as "black boxes" in cars, record various data related to vehicle's performance and events that occur before and during crash. This data can be crucial for accident reconstruction and analysis.
 
 ## CDR Data
 
-The specific data contained in a .cdr file may include information such as:
+The specific data contained in .cdr file may include information such as:
 
 1.  Vehicle speed
 2.  Engine RPM
@@ -42,24 +42,24 @@ The specific data contained in a .cdr file may include information such as:
 5.  Seatbelt usage
 6.  Steering input
 7.  Acceleration and deceleration rates
-8.  Time and date of the event
+8.  Time and date of event
 9.  Vehicle identification information
 
-Law enforcement, insurance companies, and accident investigators may use .cdr files to better understand the circumstances surrounding a car crash. Specialized software is typically needed to interpret and analyze the data within these files.
+Law enforcement, insurance companies and accident investigators may use .cdr files to better understand circumstances surrounding car crash. Specialized software is typically needed to interpret and analyze data within these files.
 
 ## Bosch Crash Data Retrieval System Software
 
-The Bosch Crash Data Retrieval (CDR) System is a specialized software and hardware solution designed for the retrieval and analysis of data from event data recorders (EDRs) in vehicles. EDRs are commonly referred to as "black boxes" in vehicles, and they record crucial information related to vehicle performance and events leading up to and during a crash.
+The Bosch Crash Data Retrieval (CDR) System is specialized software and hardware solution designed for retrieval and analysis of data from event data recorders (EDRs) in vehicles. EDRs are commonly referred to as "black boxes" in vehicles and they record crucial information related to vehicle performance and events leading up to and during crash.
 
-Bosch is one of the companies that provides tools and software for accessing and analyzing data from these EDRs. The Bosch CDR System is widely used in the field of accident reconstruction and automotive forensics. It allows experts to extract and interpret the data stored in EDRs to gain insights into the circumstances of a vehicle crash.
+Bosch is one of companies that provides tools and software for accessing and analyzing data from these EDRs. The Bosch CDR System is widely used in field of accident reconstruction and automotive forensics. It allows experts to extract and interpret data stored in EDRs to gain insights into circumstances of vehicle crash.
 
-Some key features and functionalities of the Bosch CDR System may include:
+Some key features and functionalities of Bosch CDR System may include:
 
-1.  **Data Retrieval:** The software and hardware can interface with a vehicle's EDR to extract data such as vehicle speed, brake usage, airbag deployment, engine RPM, and other important parameters.
+1.  **Data Retrieval:** The software and hardware can interface with vehicle's EDR to extract data such as vehicle speed, brake usage, airbag deployment, engine RPM and other important parameters.
     
-2.  **Data Analysis:** The software provides tools to analyze and interpret the data retrieved from the EDR. This can help in understanding the events leading up to a crash and the impact forces during the collision.
+2.  **Data Analysis:** The software provides tools to analyze and interpret data retrieved from EDR. This can help in understanding events leading up to crash and impact forces during collision.
     
-3.  **Report Generation:** The CDR System often allows users to generate reports that summarize the findings based on the data analysis. These reports can be valuable for law enforcement, insurance companies, and accident investigators.
+3.  **Report Generation:** The CDR System often allows users to generate reports that summarize findings based on data analysis. These reports can be valuable for law enforcement, insurance companies and accident investigators.
     
 ## How to open CDR file?
 
