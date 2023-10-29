@@ -29,27 +29,27 @@
 
 ## What is a MTL file?
 
-MTL file, short for **Material Template Library**, is a companion file format used in 3D computer graphics and modeling. It is often associated with the **Wavefront OBJ file format**, which is a common format for storing 3D models and their associated materials and textures.
+MTL file, short for **Material Template Library**, is companion file format used in 3D computer graphics and modeling. It is often associated with **Wavefront OBJ file format**, which is common format for storing 3D models and their associated materials and textures.
 
 ## Material Template Library
 
 Here is important information about MTL files:
 
-1.  **Material Definitions**: The ".mtl" file contains definitions for materials that are applied to the 3D objects in the corresponding OBJ file. Each material definition specifies various properties, such as color, shininess, transparency, and texture maps.
+1.  **Material Definitions**: The ".mtl" file contains definitions for materials that are applied to 3D objects in corresponding OBJ file. Each material definition specifies various properties, such as color, shininess, transparency and texture maps.
     
-2.  **Text-Based Format**: ".mtl" files are typically plain text files, which means they can be easily edited with a text editor. Each material definition consists of a set of statements, and these statements define the material's attributes.
+2.  **Text-Based Format**: ".mtl" files are typically plain text files, which means they can be easily edited with text editor. Each material definition consists of set of statements and these statements define material's attributes.
     
-3.  **Texture Mapping**: One of the essential functions of an ".mtl" file is to define how textures (image files) are mapped onto the 3D model's surfaces. It specifies the texture file's path and how it should be wrapped or applied to the model.
+3.  **Texture Mapping**: One of essential functions of an ".mtl" file is to define how textures (image files) are mapped onto 3D model's surfaces. It specifies texture file's path and how it should be wrapped or applied to model.
     
 4.  **Example MTL Statements**: Here are some example statements you might find in an ".mtl" file:
     
-    -   `newmtl MaterialName`: This defines a new material with the name "MaterialName."
-    -   `Ka r g b`: Ambient color of the material, specified in RGB values.
-    -   `Kd r g b`: Diffuse color of the material, specified in RGB values.
-    -   `Ks r g b`: Specular color of the material, specified in RGB values.
-    -   `Ns value`: Shininess or specular exponent of the material.
-    -   `map_Kd texturefile.jpg`: Specifies the diffuse texture map for the material.
-5.  **Multiple Materials**: An OBJ file can reference multiple materials, and each material is defined within the ".mtl" file. This allows for complex 3D models with different materials applied to different parts.
+    -   `newmtl MaterialName`: This defines new material with name "MaterialName."
+    -   `Ka r g b`: Ambient color of material, specified in RGB values.
+    -   `Kd r g b`: Diffuse color of material, specified in RGB values.
+    -   `Ks r g b`: Specular color of material, specified in RGB values.
+    -   `Ns value`: Shininess or specular exponent of material.
+    -   `map_Kd texturefile.jpg`: Specifies diffuse texture map for material.
+5.  **Multiple Materials**: An OBJ file can reference multiple materials and each material is defined within ".mtl" file. This allows for complex 3D models with different materials applied to different parts.
     
 6.  **Compatibility**: ".mtl" files are widely supported by 3D modeling software and rendering engines, making it possible to transfer 3D models and their materials between different software applications.
 
