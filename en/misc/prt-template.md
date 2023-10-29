@@ -75,7 +75,7 @@ However, Corel Presentations can also import and export presentations in various
     
 3.  **HTML (HyperText Markup Language)**: Corel Presentations can export your presentation as HTML, making it viewable in web browsers.
     
-4.  **Graphic Formats**: You can export individual slides or objects within your presentation as image files, including formats like JPEG, PNG, and GIF.
+4.  **Graphic Formats**: You can export individual slides or objects within your presentation as image files including formats like JPEG, PNG, and GIF.
     
 5.  **Text Formats**: You can save text content of your presentation in various document formats like RTF (Rich Text Format) or plain text.
 
