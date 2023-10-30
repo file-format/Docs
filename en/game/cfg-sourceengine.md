@@ -41,7 +41,7 @@ Players and server administrators have couple of options for applying changes sp
 
 The Valve Source Engine, often simply referred to as **Source Engine**, is highly versatile and widely used game engine developed by Valve Corporation. It has been foundation for many popular video games and has powered numerous successful titles. Here are some key points about Valve Source Engine:
 
-1.  **History**: The Source Engine was first introduced with release of Valve's game "Counter-Strike 1.6" in 2004. Since then, it has undergone several updates and revisions, with most recent version known as Source 2.0.
+1.  **History**: The Source Engine was first introduced with release of Valve's game "Counter-Strike 1.6" in 2004. Since then it has undergone several updates and revisions, with most recent version known as Source 2.0.
     
 2.  **Notable Games**: The Source Engine has been utilized in variety of critically acclaimed games, including but not limited to:
     
@@ -53,16 +53,16 @@ The Valve Source Engine, often simply referred to as **Source Engine**, is highl
     -   "Dota 2"
 3.  **Features**:
     
-    -   **Flexibility**: Source Engine is known for its flexibility, allowing developers to create wide range of game genres, from first-person shooters to puzzle games and more.
+    -   **Flexibility**: Source Engine is known for its flexibility allowing developers to create wide range of game genres, from first-person shooters to puzzle games and more.
     -   **Physics**: It includes robust physics engine that enables realistic object interactions and environmental effects.
-    -   **Modding Support**: The engine has strong modding support, which has led to creation of numerous user-generated content and game mods.
-    -   **Multiplayer Capabilities**: Source Engine has been used to develop both single-player and multiplayer games, and it offers extensive networking capabilities for online gameplay.
+    -   **Modding Support**: The engine has strong modding support which has led to creation of numerous user-generated content and game mods.
+    -   **Multiplayer Capabilities**: Source Engine has been used to develop both single-player and multiplayer games and it offers extensive networking capabilities for online gameplay.
     
-4.  **Graphics**: Over years, Source Engine has received graphical updates to keep up with evolving hardware capabilities. It supports advanced rendering techniques like HDR (High Dynamic Range) lighting and dynamic shadows.
+4.  **Graphics**: Over years Source Engine has received graphical updates to keep up with evolving hardware capabilities. It supports advanced rendering techniques like HDR (High Dynamic Range) lighting and dynamic shadows.
 
 ## How to open CFG file?
 
-You have option to open and modify `.cfg` file using text editors like Microsoft Visual Studio Code or any other text editor of your choice. These text editors provide user-friendly interface for viewing and editing plain text commands within `.cfg` file, allowing you to customize settings as needed.
+You have option to open and modify `.cfg` file using text editors like Microsoft Visual Studio Code or any other text editor of your choice. These text editors provide user-friendly interface for viewing and editing plain text commands within `.cfg` file allowing you to customize settings as needed.
 
 Programs that open or reference CFG files include
 
