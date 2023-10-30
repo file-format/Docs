@@ -45,11 +45,11 @@ Key features of ColorSchemer Studio typically include:
     
 4.  **Color Swatches:** ColorSchemer Studio allows users to save and organize color swatches, making it easy to reuse and manage color palettes.
     
-5.  **Color Mixing:** Some versions of the software offer color mixing tools, enabling users to blend colors and create custom shades.
+5.  **Color Mixing:** Some versions of software offer color mixing tools, enabling users to blend colors and create custom shades.
     
-6.  **Export Options:** Users can export their color schemes in various formats, including image files, CSS styles, and more, making it convenient for implementing the chosen colors in design projects.
+6.  **Export Options:** Users can export their color schemes in various formats, including image files, CSS styles, and more, making it convenient for implementing chosen colors in design projects.
     
-7.  **Color Analysis:** The software may provide features to analyze the contrast and accessibility of chosen colors to ensure they meet web accessibility standards.
+7.  **Color Analysis:** The software may provide features to analyze contrast and accessibility of chosen colors to ensure they meet web accessibility standards.
 
 ## How to open CS file?
 
