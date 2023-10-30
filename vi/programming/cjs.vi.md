@@ -5,8 +5,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "CJS File - CommonJS Code File",
-  "description":"What is a .cjs file and how to open it?",
+  "title" : "Tệp CJS - Tệp mã CommonJS",
+  "description":"Tệp .cjs là gì và làm cách nào để mở nó?",
   "linktitle" : "CJS",
   "menu" : {
     "docs" : {
@@ -15,10 +15,6 @@
   },
   "lastmod" : "2023-10-29"
 }
-
-Tệp CJS - Tệp mã CommonJS
-
-Tệp .cjs là gì và làm cách nào để mở nó?
 
 ## Tệp CJS là gì?
 
