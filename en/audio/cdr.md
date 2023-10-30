@@ -76,7 +76,7 @@ Opening .cdr file, particularly one containing "Raw CD Audio Data," can be bit t
 5.  **DAEMON Tools** (for .cdr image files):
     
     -   If .cdr file is an image file created by software like DAEMON Tools, you can mount image using DAEMON Tools or similar software.
-    -   Once image is mounted, you can access its contents as if it were physical CD and play or extract audio as needed.
+    -   Once image is mounted, you can access its contents as if it were physical CD and play or extract audio as needed..
 
 ## Other CDR files
 
