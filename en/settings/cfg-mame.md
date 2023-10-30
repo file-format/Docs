@@ -29,7 +29,7 @@
 
 ## What is a CFG file?
 
-CFG file is an XML keyboard configuration file used by MAME arcade video game emulators. It is crucial component for customizing keyboard controls and hotkeys to suit player's preferences. These files store mappings and settings that determine how keyboard interacts with emulator while playing game. By editing this file, users can tailor their gaming experience by assigning specific keyboard keys to actions within game, such as coin insertion, start, movement, and various other functions.
+CFG file is an XML keyboard configuration file used by MAME arcade video game emulators. It is crucial component for customizing keyboard controls and hotkeys to suit player's preferences. These files store mappings and settings that determine how keyboard interacts with emulator while playing game. By editing this file, users can tailor their gaming experience by assigning specific keyboard keys to actions within game, such as coin insertion, start, movement and various other functions.
 
 ## MAME Configuration File
 
@@ -41,7 +41,7 @@ Here are main configuration files you may encounter when setting up and configur
 
 1. **default.cfg:** This file stores default settings for all games that do not have their own configuration files. It is used as fallback for game-specific settings.
 
-1. **game-specific.cfg:** These files are used to store settings for individual games. They are typically named after ROM file for game they correspond to. For example, if you have game called "pacman.zip," configuration file for it would be "pacman.cfg."
+1. **game-specific.cfg:** These files are used to store settings for individual games. They are typically named after ROM file for game they correspond to. For example if you have game called "pacman.zip", configuration file for it would be "pacman.cfg."
 
 Here are some common settings you might find in MAME configuration file.
 
@@ -57,7 +57,7 @@ Here are some common settings you might find in MAME configuration file.
 
 1. **cheatpath:** Specifies directory where cheat files are located.
 
-You can also configure various other settings, such as video and audio options, controls, and input devices. To modify these settings, you can open configuration file in text editor and make necessary changes.
+You can also configure various other settings such as video and audio options, controls, and input devices. To modify these settings, you can open configuration file in text editor and make necessary changes.
 
 ## MAME
 
@@ -65,7 +65,7 @@ MAME, which stands for **"Multiple Arcade Machine Emulator,"** is software appli
 
 1. **Emulation:** MAME's primary purpose is to accurately emulate hardware of arcade machines, including their central processing units (CPUs), sound chips, graphics chips, and input devices. This level of accuracy ensures that games behave as close to original arcade experience as possible.
 
-1. **Compatibility:** MAME supports wide range of arcade game ROMs, making it one of most comprehensive arcade emulators available. It can run games from various arcade platforms, including classic games from '70s, '80s, '90s, and even some more recent arcade titles.
+1. **Compatibility:** MAME supports wide range of arcade game ROMs, making it one of most comprehensive arcade emulators available. It can run games from various arcade platforms including classic games from '70s, '80s, '90s, and even some more recent arcade titles.
 
 1. **Preservation:** One of MAME's primary missions is to preserve history of arcade gaming. By accurately emulating arcade hardware, MAME helps prevent loss of classic games and ensures that future generations can experience them as they were originally intended.
 
