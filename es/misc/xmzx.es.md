@@ -1,5 +1,4 @@
 {
-  "date" : "{
   "date" : "2023-10-27",
   "author" : {
     "display_name" : "Kashif Iqbal"
