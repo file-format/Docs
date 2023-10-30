@@ -29,15 +29,15 @@
 
 ## What is a CFG file?
 
-CFG file in context of M.U.G.E.N refers to a "M.U.G.E.N Configuration File." **M.U.G.E.N** is a customizable 2D fighting game engine developed by Elecbyte. Users can create their own characters, stages, and even modify game's behavior and rules by editing various configuration files, including CFG files.
+CFG file in context of M.U.G.E.N refers to a "M.U.G.E.N Configuration File." **M.U.G.E.N** is a customizable 2D fighting game engine developed by Elecbyte. Users can create their own characters, stages and even modify game's behavior and rules by editing various configuration files, including CFG files.
 
 Here is a basic overview of what you might find in a M.U.G.E.N `.cfg` file:
 
-1.  **System Configuration**: CFG files often contain settings related to general behavior of game engine. This includes things like screen resolution, sound settings, and input configuration (keyboard, joystick, or controller mappings).
+1.  **System Configuration**: CFG files often contain settings related to general behavior of game engine. This includes things like screen resolution, sound settings and input configuration (keyboard, joystick, or controller mappings).
     
 2.  **Character and Stage Defaults**: You can define default settings for characters and stages. For example, you can specify which characters and stages are loaded when game starts.
     
-3.  **Gameplay Options**: M.U.G.E.N `.cfg` files can also control various gameplay options such as round time limits, damage scaling, and more.
+3.  **Gameplay Options**: M.U.G.E.N `.cfg` files can also control various gameplay options such as round time limits, damage scaling and more.
     
 4.  **Debugging and Development**: Advanced users might use `.cfg` files for debugging and development purposes. These settings can control how debugging information is displayed on-screen or define other development-related behaviors.
     
@@ -47,9 +47,9 @@ Here is a basic overview of what you might find in a M.U.G.E.N `.cfg` file:
 
 ## M.U.G.E.N Configuration File 
 
-A M.U.G.E.N CFG (Configuration) file is a crucial component for creators in world of custom fighting games. It empowers them to shape fundamental rules of their game. This includes factors like how long each round lasts, level of challenge presented by computer-controlled opponents, game's pace, extent to which combos affect damage, and much more.
+A M.U.G.E.N CFG (Configuration) file is a crucial component for creators in world of custom fighting games. It empowers them to shape fundamental rules of their game. This includes factors like how long each round lasts, level of challenge presented by computer-controlled opponents, game's pace, extent to which combos affect damage and much more.
 
-Furthermore, CFG file allows creators to determine game's display settings, such as screen resolution, and decide whether M.U.G.E.N should play sound effects and music during gameplay. For those well-versed in M.U.G.E.N's intricacies, this file offers potential to tweak an array of other game-related settings to craft a unique gaming experience.
+Furthermore, CFG file allows creators to determine game's display settings, such as screen resolution and decide whether M.U.G.E.N should play sound effects and music during gameplay. For those well-versed in M.U.G.E.N's intricacies, this file offers potential to tweak an array of other game-related settings to craft a unique gaming experience.
 
 By default, M.U.G.E.N's primary CFG file, known as `mugen.cfg`, resides in program's data folder. While it is possible to directly edit game's settings within this file, it is generally advisable to create a backup copy first. This precaution ensures that you can effortlessly revert M.U.G.E.N to its original settings if needed, preventing any unintended changes from disrupting your gaming experience.
 
@@ -59,15 +59,15 @@ M.U.G.E.N is a versatile and highly customizable 2D fighting game engine develop
 
 Here are some key features and aspects of M.U.G.E.N:
 
-1.  **Customizable Characters:** M.U.G.E.N allows users to create and import their own characters (known as "fighters" or "sprites") into game. Creators can design unique movesets, animations, and special attacks for these characters, making it possible to include virtually any character from various franchises or original creations.
+1.  **Customizable Characters:** M.U.G.E.N allows users to create and import their own characters (known as "fighters" or "sprites") into game. Creators can design unique movesets, animations and special attacks for these characters, making it possible to include virtually any character from various franchises or original creations.
     
 2.  **Stages:** In addition to characters, users can also create and customize stages where battles take place. These stages can have interactive elements and unique backgrounds.
       
-3.  **Screenpacks:** Screenpacks are visual themes that change overall appearance of game, including menus, character selection screens, and life bars. Users can create and share their own screenpacks to give their games a unique look and feel.
+3.  **Screenpacks:** Screenpacks are visual themes that change overall appearance of game, including menus, character selection screens and life bars. Users can create and share their own screenpacks to give their games a unique look and feel.
     
 4.  **Sound and Music:** Creators can add sound effects and background music to their games, enhancing overall gaming experience.
     
-5.  **Scripting:** Advanced users can use built-in scripting language to create complex character behaviors, unique game mechanics, and special effects.
+5.  **Scripting:** Advanced users can use built-in scripting language to create complex character behaviors, unique game mechanics and special effects.
 
 ## How to open CFG file?
 
