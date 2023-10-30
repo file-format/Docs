@@ -29,13 +29,13 @@
 
 ## What is a CFG file?
 
-CFG file in context of M.U.G.E.N refers to a "M.U.G.E.N Configuration File." **M.U.G.E.N** is a customizable 2D fighting game engine developed by Elecbyte. Users can create their own characters, stages and even modify game's behavior and rules by editing various configuration files, including CFG files.
+CFG file in context of M.U.G.E.N refers to a "M.U.G.E.N Configuration File." **M.U.G.E.N** is a customizable 2D fighting game engine developed by Elecbyte. Users can create their own characters, stages and even modify game's behavior and rules by editing various configuration files including CFG files.
 
 Here is a basic overview of what you might find in a M.U.G.E.N `.cfg` file:
 
-1.  **System Configuration**: CFG files often contain settings related to general behavior of game engine. This includes things like screen resolution, sound settings and input configuration (keyboard, joystick, or controller mappings).
+1.  **System Configuration**: CFG files often contain settings related to general behavior of game engine. This includes things like screen resolution, sound settings and input configuration (keyboard, joystick or controller mappings).
     
-2.  **Character and Stage Defaults**: You can define default settings for characters and stages. For example, you can specify which characters and stages are loaded when game starts.
+2.  **Character and Stage Defaults**: You can define default settings for characters and stages. For example you can specify which characters and stages are loaded when game starts.
     
 3.  **Gameplay Options**: M.U.G.E.N `.cfg` files can also control various gameplay options such as round time limits, damage scaling and more.
     
@@ -49,9 +49,9 @@ Here is a basic overview of what you might find in a M.U.G.E.N `.cfg` file:
 
 A M.U.G.E.N CFG (Configuration) file is a crucial component for creators in world of custom fighting games. It empowers them to shape fundamental rules of their game. This includes factors like how long each round lasts, level of challenge presented by computer-controlled opponents, game's pace, extent to which combos affect damage and much more.
 
-Furthermore, CFG file allows creators to determine game's display settings, such as screen resolution and decide whether M.U.G.E.N should play sound effects and music during gameplay. For those well-versed in M.U.G.E.N's intricacies, this file offers potential to tweak an array of other game-related settings to craft a unique gaming experience.
+Furthermore CFG file allows creators to determine game's display settings, such as screen resolution and decide whether M.U.G.E.N should play sound effects and music during gameplay. For those well-versed in M.U.G.E.N's intricacies, this file offers potential to tweak an array of other game-related settings to craft a unique gaming experience.
 
-By default, M.U.G.E.N's primary CFG file, known as `mugen.cfg`, resides in program's data folder. While it is possible to directly edit game's settings within this file, it is generally advisable to create a backup copy first. This precaution ensures that you can effortlessly revert M.U.G.E.N to its original settings if needed, preventing any unintended changes from disrupting your gaming experience.
+By default M.U.G.E.N's primary CFG file, known as `mugen.cfg`, resides in program's data folder. While it is possible to directly edit game's settings within this file, it is generally advisable to create a backup copy first. This precaution ensures that you can effortlessly revert M.U.G.E.N to its original settings if needed preventing any unintended changes from disrupting your gaming experience.
 
 ## M.U.G.E.N - Game Engine
 
@@ -71,7 +71,7 @@ Here are some key features and aspects of M.U.G.E.N:
 
 ## How to open CFG file?
 
-M.U.G.E.N CFG files are plain text documents, making them accessible with various text editors. On Windows, you can use Microsoft Notepad or WordPad, while macOS users can employ Apple TextEdit for this purpose. These editors allow users to view and modify configuration settings within CFG files easily.
+M.U.G.E.N CFG files are plain text documents making them accessible with various text editors. On Windows, you can use Microsoft Notepad or WordPad, while macOS users can employ Apple TextEdit for this purpose. These editors allow users to view and modify configuration settings within CFG files easily.
 
 Programs that open or reference CFG files
 
