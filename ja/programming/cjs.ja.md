@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "CJS ファイル - CommonJS コード ファイル,
+  "title" : "CJS ファイル - CommonJS コード ファイル",
   "description":".cjs ファイルとは何ですか?またそれを開く方法は?",
   "linktitle" : "CJS",
   "menu" : {
