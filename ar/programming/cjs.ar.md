@@ -2,17 +2,17 @@
   "date" : "2023-10-29",
   "author" : {
     "display_name" : "Kashif Iqbal"
-} ,
+  },
   "draft" : "false",
   "toc" : true,
-  "title" :"ملف CJS - ملف كود CommonJS" ,
-  "description":"ما هو ملف .cjs وكيفية فتحه؟" ,
+  "title" : "ไฟล์ CJS - ไฟล์รหัส CommonJS",
+  "description":"ไฟล์ .cjs คืออะไร และจะเปิดได้อย่างไร",
   "linktitle" : "CJS",
   "menu" : {
     "docs" : {
       "parent" : "programming"
-}
-} ,
+    }
+  },
   "lastmod" : "2023-10-29"
 }
 
