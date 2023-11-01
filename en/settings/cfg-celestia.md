@@ -29,23 +29,23 @@
 
 ## What is a CFG file?
 
-A Celestia configuration file is a plain text file used by Celestia, a 3D universe simulation program. These files are vital for customizing how Celestia behaves, what celestial objects are displayed, and how the program appears. However, editing these files requires careful attention because improper changes can disrupt Celestia's loading process, preventing it from running correctly.
+A Celestia configuration file is plain text file used by Celestia, 3D universe simulation program. These files are vital for customizing how Celestia behaves, what celestial objects are displayed, and how program appears. However, editing these files requires careful attention because improper changes can disrupt Celestia's loading process, preventing it from running correctly.
 
 ## Celestia
 
-Celestia is a free, open-source 3D astronomy simulation software that allows users to explore and visualize the universe in a highly realistic and interactive manner. It was developed by Chris Laurel and was first released in the early 2000s. Celestia is available for Windows, macOS, and Linux operating systems.
+Celestia is free, open-source 3D astronomy simulation software that allows users to explore and visualize universe in highly realistic and interactive manner. It was developed by Chris Laurel and was first released in early 2000s. Celestia is available for Windows, macOS, and Linux operating systems.
 
 Key features and aspects of Celestia include:
 
-- **Realistic 3D Visualization:** Celestia provides a detailed and accurate representation of our solar system, as well as stars, galaxies, and other celestial objects. It uses high-quality 3D models and textures to create a visually immersive experience.
+- **Realistic 3D Visualization:** Celestia provides detailed and accurate representation of our solar system, as well as stars, galaxies, and other celestial objects. It uses high-quality 3D models and textures to create visually immersive experience.
 
-- **Extensive Celestial Database:** The software comes with a vast built-in database of known celestial objects, including stars, planets, moons, asteroids, comets, and spacecraft. Users can easily locate and explore these objects.
+- **Extensive Celestial Database:** The software comes with vast built-in database of known celestial objects, including stars, planets, moons, asteroids, comets, and spacecraft. Users can easily locate and explore these objects.
 
-- **Scientific Accuracy:** While Celestia is a visualization tool, it aims to represent celestial objects and phenomena as accurately as possible, based on available scientific data.
+- **Scientific Accuracy:** While Celestia is visualization tool, it aims to represent celestial objects and phenomena as accurately as possible, based on available scientific data.
 
 ## File Formats Used by Celestia
 
-Celestia utilizes various file formats for different aspects of its 3D astronomy simulation. Here are some of the key file formats employed by Celestia:
+Celestia utilizes various file formats for different aspects of its 3D astronomy simulation. Here are some of key file formats employed by Celestia:
 
 1. **Configuration Files (.cel)**
    - *Description*: Plain text files that permit users to customize Celestia's behavior, appearance, and content.
@@ -67,7 +67,7 @@ Celestia utilizes various file formats for different aspects of its 3D astronomy
    - *Purpose*: Accurate representation of celestial objects.
 
 5. **Texture Cube Maps**
-   - *Description*: Cube maps are used to simulate the appearance of distant celestial objects like galaxies.
+   - *Description*: Cube maps are used to simulate appearance of distant celestial objects like galaxies.
    - *Purpose*: Rendering distant objects with realistic textures.
 
 6. **Script Files**
@@ -76,9 +76,9 @@ Celestia utilizes various file formats for different aspects of its 3D astronomy
 
 ## Celestia configuration file
 
-Here is a basic overview of what you can do with a Celestia configuration file:
+Here is basic overview of what you can do with Celestia configuration file:
 
-1. **Setting Your Location**: You can specify your location on Earth using latitude, longitude, and altitude parameters. This allows Celestia to accurately display the night sky from your position.
+1. **Setting Your Location**: You can specify your location on Earth using latitude, longitude, and altitude parameters. This allows Celestia to accurately display night sky from your position.
 
 ```
 Location "My Location"
@@ -117,7 +117,7 @@ Rendering
 
 ```
 
-3. **Loading Celestial Objects:** You can add celestial objects such as stars, planets, asteroids, spacecraft, and more to your simulation. Each object is defined in the configuration file with its properties.
+3. **Loading Celestial Objects:** You can add celestial objects such as stars, planets, asteroids, spacecraft, and more to your simulation. Each object is defined in configuration file with its properties.
 
 ```
 Star "Sun"
