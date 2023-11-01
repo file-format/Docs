@@ -5,7 +5,7 @@
   },
   "draft": "false",
   "toc": true,
-  "title": "PZZ File - What is a .pzz file and how to open it?,
+  "title": "PZZ File - What is a .pzz file and how to open it?",
   "description": "Learn about PZZ format and APIs that can create and open PZZ files.",
   "linktitle": "PZZ",
   "menu": {
