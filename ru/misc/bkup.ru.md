@@ -10,7 +10,7 @@
   "linktitle" : "BKUP",
   "menu" : {
     "docs" : {
-	  "identifier":"misc-ru-bkup,
+	  "identifier":"misc-ru-bkup",
       "parent" : "misc"
 }
 },
