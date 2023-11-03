@@ -7,7 +7,7 @@
   "toc" : true,
   "title" :"BKUP fájl - Mi az a BKUP fájl és hogyan lehet megnyitni?",
   "description":"Ismerje meg a BKUP-fájlokat és az API-kat, amelyek BKUP-fájlokat hozhatnak létre és nyithatnak meg.",
-  "linktitle" : "ART",
+  "linktitle" : "BKUP",
   "menu" : {
     "docs" : {
       "identifier":"misc-hu-bkup",

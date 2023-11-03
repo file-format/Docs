@@ -8,7 +8,7 @@
   "toc" : true,
   "title" :"बीकेयूपी फ़ाइल - बीकेयूपी फ़ाइल क्या है और इसे कैसे खोलें?",
   "description":"BKUP फ़ाइल और API के बारे में जानें जो BKUP फ़ाइलें बना और खोल सकते हैं।",
-  "linktitle" : "ART",
+  "linktitle" : "BKUP",
   "menu" : {
     "docs" : {
       "identifier":"misc-hi-bkup",
