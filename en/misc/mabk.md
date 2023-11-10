@@ -47,3 +47,4 @@ In addition, you can manually access the files stored within an MABK file. For i
 
 ## References
 
+ * [How to Backup and Restore through LMSA](https://www.motorola-support.com/us-en/?page=device/motorola/motorola-device/topic/rescue-and-smart-assistant/backup-and-restore-through-lmsa)
