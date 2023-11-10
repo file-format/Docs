@@ -10,7 +10,7 @@
   "linktitle" : "MABK",
   "menu" : {
     "docs" : {
-      "parent" : "misc"
+      "parent" : "misc",
       "identifier":"misc-bg-mabk"
 }
 },
