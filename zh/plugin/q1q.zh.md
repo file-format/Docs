@@ -1,6 +1,5 @@
 {
   "date" : "2019-12-13",
-  "keywords" :["pptx 文件","pptx 文件格式","什么是 pptx 文件","文件","pptx 示例","pptx 文件扩展名","扩展名","格式"],
   "author" : {
     "display_name" : "Kashif Iqbal"
 },

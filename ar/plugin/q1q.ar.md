@@ -7,7 +7,7 @@
   "toc" : true,
   "description":"تعرف على تنسيق ملف Q1Q وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات Q1Q وفتحها." ,
   "title" :"ملف Q1Q - ما هو ملف Q1Q وكيف يمكن فتحه؟" ,
-  "linktitle" : "PPTX",
+  "linktitle" : "Q1Q",
   "menu" : {
     "docs" : {
       "parent" : "plugin",

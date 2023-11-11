@@ -1,6 +1,5 @@
 {
   "date" : "2023-11-11",
-  "keywords" :[ "archivo pptx", "formato de archivo pptx", "qué es un archivo pptx", "archivo", "ejemplo de pptx", "extensión de archivo pptx","extensión", "formato"],
   "author" : {
     "display_name" : "Kashif Iqbal"
 },

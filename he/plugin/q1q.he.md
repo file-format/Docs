@@ -1,6 +1,5 @@
 {
   "date" : "2023-11-11",
-  "keywords" :[ "קובץ pptx", "פורמט קובץ pptx", "מהו קובץ pptx", "קובץ", "דוגמה לpptx", "סיומת קובץ pptx","הרחבה", "פורמט" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
 },

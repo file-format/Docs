@@ -1,6 +1,5 @@
 {
   "date" : "2023-11-11",
-  "keywords" :[ "pptx-Datei", "pptx-Dateiformat", "was ist eine pptx-Datei", "Datei", "pptx-Beispiel", "pptx-Dateierweiterung", "Erweiterung", "Format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
 },

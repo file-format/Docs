@@ -7,7 +7,7 @@
   "toc" : true,
   "description":"Научете за файловия формат Q1Q и API, които могат да създават и отварят Q1Q файлове.",
   "title" :"Файл Q1Q - Какво е файл Q1Q и как да го отворите?",
-  "linktitle" : "PPTX",
+  "linktitle" : "Q1Q",
   "menu" : {
     "docs" : {
       "parent" : "plugin",
