@@ -25,7 +25,7 @@
 
 Q1Q 插件文件以 Flaming Pear 专有文件格式保存，其内部文件格式详细信息不公开。 下图显示了 Q1Q 插件在 Photoshop 中加载时的用户界面。
 
-{{<图 src="../q1q.png" alt="LunarCell 插件文件格式" >}}
+{{<figure src="../q1q.png" alt="LunarCell 插件文件格式" >}}
 
 ## 如何打开 Q1Q 文件？
 

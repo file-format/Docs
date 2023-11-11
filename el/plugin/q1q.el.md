@@ -25,7 +25,7 @@
 
 Τα αρχεία προσθήκης Q1Q αποθηκεύονται σε ιδιόκτητη μορφή αρχείου Flaming Pear και οι λεπτομέρειες της εσωτερικής μορφής αρχείου δεν είναι διαθέσιμες δημόσια. Η ακόλουθη εικόνα δείχνει τη διεπαφή χρήστη του plugin Q1Q όταν φορτώνεται στο Photoshop.
 
-{{< figure src="../q1q.png" alt="LunarCell PluginFile Format" >}}
+{{<figure src="../q1q.png" alt="LunarCell PluginFile Format" >}}
 
 ## Πώς να ανοίξετε το αρχείο Q1Q;
 

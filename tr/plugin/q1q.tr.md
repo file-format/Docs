@@ -25,7 +25,7 @@
 
 Q1Q eklenti dosyaları Flaming Pear'e özel dosya formatında kaydedilir ve dahili dosya formatı ayrıntıları kamuya açık değildir. Aşağıdaki resim, Photoshop'a yüklendiğinde Q1Q eklentisinin Kullanıcı Arayüzünü göstermektedir.
 
-{{< şekil src="../q1q.png" alt="LunarCell Eklenti Dosyası Formatı" >}}
+{{<figure src="../q1q.png" alt="LunarCell Eklenti Dosyası Formatı" >}}
 
 ## Q1Q Dosyası Nasıl Açılır?
 

@@ -25,7 +25,7 @@
 
 Q1Q プラグイン ファイルは Flaming Pear 独自のファイル形式で保存され、その内部ファイル形式の詳細は公開されていません。 次の画像は、Photoshop にロードされたときの Q1Q プラグインのユーザー インターフェイスを示しています。
 
-{{< Figure src="../q1q.png" alt="LunarCell プラグインファイル形式" >}}
+{{<figure src="../q1q.png" alt="LunarCell プラグインファイル形式" >}}
 
 ## Q1Q ファイルを開くには?
 

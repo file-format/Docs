@@ -25,7 +25,7 @@ Plik .q1q to plik wtyczki Photoshop opracowany przez Flaming Pear Software do tw
 
 Pliki wtyczek Q1Q są zapisywane w zastrzeżonym formacie pliku Flaming Pear, a szczegóły dotyczące wewnętrznego formatu pliku nie są dostępne publicznie. Poniższy obraz przedstawia interfejs użytkownika wtyczki Q1Q po załadowaniu do programu Photoshop.
 
-{{< figure src="../q1q.png" alt="Format pliku wtyczki LunarCell" >}}
+{{<figure src="../q1q.png" alt="Format pliku wtyczki LunarCell" >}}
 
 ## Jak otworzyć plik Q1Q?
 

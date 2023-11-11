@@ -25,7 +25,7 @@ Un archivo .q1q es un archivo complementario de Photoshop desarrollado por Flami
 
 Los archivos del complemento Q1Q se guardan en el formato de archivo propietario de Flaming Pear y los detalles del formato de archivo interno no están disponibles públicamente. La siguiente imagen muestra la interfaz de usuario del complemento Q1Q cuando se carga en Photoshop.
 
-{{< figure src="../q1q.png" alt="Formato de archivo del complemento LunarCell" >}}
+{{<figure src="../q1q.png" alt="Formato de archivo del complemento LunarCell" >}}
 
 ## ¿Cómo abrir el archivo Q1Q?
 

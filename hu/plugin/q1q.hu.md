@@ -25,7 +25,7 @@ A .q1q fájl egy Photoshop beépülő modul, amelyet a Flaming Pear Software fej
 
 A Q1Q beépülő modul fájljai Flaming Pear szabadalmaztatott fájlformátumban kerülnek mentésre, és a belső fájlformátum részletei nem érhetők el nyilvánosan. A következő kép a Q1Q beépülő modul felhasználói felületét mutatja be a Photoshopba.
 
-{{< figure src="../q1q.png" alt="LunarCell PluginFile Format" >}}
+{{<figure src="../q1q.png" alt="LunarCell PluginFile Format" >}}
 
 ## Q1Q fájl megnyitása?
 

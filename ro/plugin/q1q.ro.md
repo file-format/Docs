@@ -25,7 +25,7 @@ Un fișier .q1q este un fișier plugin Photoshop dezvoltat de Flaming Pear Softw
 
 Fișierele pluginului Q1Q sunt salvate în format de fișier proprietar Flaming Pear, iar detaliile interne ale formatului de fișier nu sunt disponibile public. Următoarea imagine arată interfața de utilizator a pluginului Q1Q când este încărcat în Photoshop.
 
-{{< figure src="../q1q.png" alt="LunarCell PluginFile Format" >}}
+{{<figure src="../q1q.png" alt="LunarCell PluginFile Format" >}}
 
 ## Cum se deschide fișierul Q1Q?
 

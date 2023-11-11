@@ -25,7 +25,7 @@ Soubor .q1q je zásuvný soubor Photoshopu vyvinutý společností Flaming Pear 
 
 Soubory pluginu Q1Q jsou uloženy v proprietárním formátu souboru Flaming Pear a podrobnosti o jeho interním formátu souboru nejsou veřejně dostupné. Následující obrázek ukazuje uživatelské rozhraní pluginu Q1Q po načtení ve Photoshopu.
 
-{{< figure src="../q1q.png" alt="Formát souboru PluginFile LunarCell" >}}
+{{<figure src="../q1q.png" alt="Formát souboru PluginFile LunarCell" >}}
 
 ## Jak otevřít soubor Q1Q?
 
