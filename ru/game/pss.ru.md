@@ -11,7 +11,7 @@
   "linktitle" : "PSS",
   "menu" : {
     "docs" : {
-"идентификатор":"game-pss",
+      "identifier":"game-ru-pss",
       "parent" : "game"
 }
 },

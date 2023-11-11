@@ -10,7 +10,7 @@
   "linktitle" : "RML",
   "menu" : {
     "docs" : {
-"标识符":"misc-rml",
+      "identifier":"misc-zh-rml",
       "parent" : "misc"
 }
 },

@@ -10,7 +10,7 @@
   "linktitle" : "CMS",
   "menu" : {
     "docs" : {
-"идентификатор":"веб-cms",
+      "identifier":"web-ru-cms",
       "parent" : "web"
 }
 },

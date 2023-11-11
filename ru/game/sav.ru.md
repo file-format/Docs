@@ -11,7 +11,7 @@
   "linktitle" : "SAV",
   "menu" : {
     "docs" : {
-"идентификатор":"сохранение игры",
+      "identifier":"game-ru-sav",
       "parent" : "game"
 }
 },

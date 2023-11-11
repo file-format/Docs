@@ -10,7 +10,7 @@
   "linktitle" : "DBM",
   "menu" : {
     "docs" : {
-"идентификатор":"веб-дбм",
+      "identifier":"web-ru-dbm",
       "parent" : "web"
 }
 },

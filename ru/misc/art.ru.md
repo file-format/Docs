@@ -11,7 +11,7 @@
   "linktitle" : "ART",
   "menu" : {
     "docs" : {
-"идентификатор":"разное искусство",
+      "identifier":"misc-ru-art",
       "parent" : "misc"
 }
 },

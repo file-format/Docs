@@ -2,25 +2,18 @@
 
   "date" : "2022-12-22",
   "author" : {
-
     "display_name" : "Kashif Iqbal"
   },
-
-
   "draft" : "false",
   "toc" : true,
   "title" :"GST File- MapInfo Geoset File Format",
   "description":"Learn about GST file format and APIs that can create and open GST files.",
   "linktitle" : "GST",
   "menu" : {
-
     "docs" : {
-
-      "identifier":"gis-gst",
+      "identifier":"gis-ja-gst",
       "parent" : "gis"
     }
-
-
   },
 
 

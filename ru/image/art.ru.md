@@ -11,7 +11,7 @@
   "linktitle" : "ART",
   "menu" : {
     "docs" : {
-"идентификатор":"имидж-арт",
+    "identifier":"image-ru-art",
       "parent" : "image"
 }
 },

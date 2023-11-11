@@ -10,7 +10,7 @@
   "linktitle" : "PUP",
   "menu" : {
     "docs" : {
-"идентификатор":"игровой щенок",
+    "identifier":"game-ru-pup",
       "parent" : "game"
 }
 },

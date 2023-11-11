@@ -10,7 +10,7 @@
   "linktitle" : "ADF",
   "menu" : {
     "docs" : {
-"идентификатор": "gis-adf",
+      "identifier": "gis-ru-adf",
       "parent" : "gis"
 }
 },

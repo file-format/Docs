@@ -11,7 +11,7 @@
   "linktitle" : "TS",
   "menu" : {
     "docs" : {
-"идентификатор":"видео-ц",
+      "identifier":"video-ru-ts",
       "parent" : "video"
 }
 },

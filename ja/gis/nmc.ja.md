@@ -7,10 +7,11 @@
   "toc" : true,
   "title" :"NMC - Navitel マップ ファイル",
   "description":"NMC ファイル形式と,NMC ファイルを作成して開くことができる API について学びます。",
-  "linktitle" : "NM2",
+  "linktitle" : "NMC",
   "menu" : {
     "docs" : {
-      "parent" : "gis"
+      "parent" : "gis",
+      "identifier":"gis-ja-nmc"
 }
 },
   "lastmod" : "2022-12-08"

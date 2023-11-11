@@ -11,7 +11,7 @@
   "linktitle" : "THM",
   "menu" : {
     "docs" : {
-"идентификатор":"разное-thm",
+      "identifier":"misc-ru-thm",
       "parent" : "misc"
 }
 },

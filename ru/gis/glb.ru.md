@@ -10,7 +10,7 @@
   "linktitle" : "GLB",
   "menu" : {
     "docs" : {
-"идентификатор":"gis-glb",
+      "identifier":"gis-ru-glb",
       "parent" : "gis"
 }
 },

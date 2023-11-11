@@ -11,7 +11,8 @@
   "linktitle" : "EPS",
   "menu" : {
     "docs" : {
-      "parent" : "page-description-language"
+      "parent" : "page-description-language",
+      "identifier":"pdl-de-eps"
 }
 },
   "lastmod" : "2019-09-10"

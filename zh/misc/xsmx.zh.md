@@ -10,7 +10,7 @@
   "linktitle" : "XSMX",
   "menu" : {
     "docs" : {
-      "identifier":"misc-xsmx",
+      "identifier":"misc-zh-xsmx",
       "parent" : "misc"
 }
 },

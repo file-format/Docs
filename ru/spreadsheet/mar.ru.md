@@ -11,7 +11,7 @@
   "linktitle" : "MAR",
   "menu" : {
     "docs" : {
-"идентификатор": "таблица-мар",
+      "identifier": "spreadsheet-ru-mar",
       "parent" : "spreadsheet"
 }
 },

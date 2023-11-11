@@ -10,7 +10,8 @@
   "linktitle" : "X",
   "menu" : {
     "docs" : {
-      "parent" : "pdf"
+      "parent" : "pdf",
+      "identifier":"pdf-zh-x"
 }
 },
   "lastmod" : "2019-09-10"

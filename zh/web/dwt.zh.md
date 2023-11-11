@@ -10,7 +10,7 @@
   "linktitle" : "DWT",
   "menu" : {
     "docs" : {
-"标识符":"web-dwt",
+      "identifier":"web-zh-dwt",
       "parent" : "web"
 }
 },

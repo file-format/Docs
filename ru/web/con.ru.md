@@ -10,7 +10,7 @@
   "linktitle" : "CON",
   "menu" : {
     "docs" : {
-"идентификатор":"веб-кон",
+      "identifier":"web-ru-con",
       "parent" : "web"
 }
 },

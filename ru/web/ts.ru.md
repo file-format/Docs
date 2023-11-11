@@ -10,7 +10,7 @@
   "linktitle" : "TS",
   "menu" : {
     "docs" : {
-"идентификатор":"web-ts",
+      "identifier":"web-ru-ts",
       "parent" : "web"
 }
 },

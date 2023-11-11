@@ -12,7 +12,8 @@
   "linktitle" : "AS",
   "menu" : {
     "docs" : {
-      "parent" : "programming"
+      "parent" : "programming",
+      "identifier":"programming-de-as"
 }
 },
   "lastmod" : "2021-08-31"

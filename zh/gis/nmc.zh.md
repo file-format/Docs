@@ -7,10 +7,11 @@
   "toc" : true,
   "title" :"NMC - Navitel 地图文件",
   "description":"了解可以创建和打开 NMC 文件的 NMC 文件格式和 API。",
-  "linktitle" : "NM2",
+  "linktitle" : "NMC",
   "menu" : {
     "docs" : {
-      "parent" : "gis"
+      "parent" : "gis",
+      "identifier":"gis-zh-nmc"
 }
 },
   "lastmod" : "2022-12-08"

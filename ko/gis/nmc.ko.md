@@ -10,7 +10,8 @@
   "linktitle" : "NM2",
   "menu" : {
     "docs" : {
-      "parent" : "gis"
+      "parent" : "gis",
+      "identifier":"gis-ko-nmc"
 }
 },
   "lastmod" : "2022-12-08"

@@ -7,10 +7,11 @@
   "toc" : true,
   "title" :"NMC - Файл карты Навител",
   "description":"Узнайте о формате файлов NMC и API-интерфейсах, которые могут создавать и открывать файлы NMC.",
-  "linktitle" : "NM2",
+  "linktitle" : "NMC",
   "menu" : {
     "docs" : {
-      "parent" : "gis"
+      "parent" : "gis",
+      "identifier":"gis-ru-nmc"
 }
 },
   "lastmod" : "2022-12-08"

@@ -10,7 +10,7 @@
   "linktitle" : "GST",
   "menu" : {
     "docs" : {
-      "identifier":"gis-gst",
+      "identifier":"gis-zh-gst",
       "parent" : "gis"
 }
 },

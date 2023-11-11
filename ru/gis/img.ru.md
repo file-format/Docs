@@ -10,7 +10,7 @@
   "linktitle" : "IMG",
   "menu" : {
     "docs" : {
-"идентификатор":"gis-img",
+      "identifier":"gis-ru-img",
       "parent" : "gis"
 }
 },

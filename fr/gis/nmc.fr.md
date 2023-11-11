@@ -7,10 +7,11 @@
   "toc" : true,
   "title" :"NMC - Fichier de carte Navitel",
   "description":"En savoir plus sur le format de fichier NMC et les API qui peuvent créer et ouvrir des fichiers NMC.",
-  "linktitle" : "NM2",
+  "linktitle" : "NMC",
   "menu" : {
     "docs" : {
-      "parent" : "gis"
+      "parent" : "gis",
+      "identifier":"gis-fr-nmc"
 }
 },
   "lastmod" : "2022-12-08"

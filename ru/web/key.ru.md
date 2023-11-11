@@ -10,7 +10,7 @@
   "linktitle" : "KEY",
   "menu" : {
     "docs" : {
-"идентификатор":"веб-ключ",
+      "identifier":"web-ru-key",
       "parent" : "web"
 }
 },

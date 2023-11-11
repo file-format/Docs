@@ -11,7 +11,7 @@
   "linktitle" : "XAR",
   "menu" : {
     "docs" : {
-"идентификатор": "электронная таблица-xar",
+      "identifier": "misc-ru-xar",
       "parent" : "spreadsheet"
 }
 },

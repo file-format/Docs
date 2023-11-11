@@ -11,7 +11,7 @@
   "linktitle" : "STC",
   "menu" : {
     "docs" : {
-"идентификатор": "web-stc",
+      "identifier": "web-ru-stc",
       "parent" : "web"
 }
 },
