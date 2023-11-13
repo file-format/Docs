@@ -15,13 +15,13 @@
    },
    "draft":"false",
    "toc":true,
-   "title":"PRT File Format - Presentations Template",
+   "title":"PRT File - Presentations Template - What is a .prt file and how do I open it?",
    "description":"Learn about PRT Presentations Template file format and APIs that can create and open PRT files.",
    "linktitle":"PRT",
    "menu":{
       "docs":{
-         "identifier":"misc-prt-template",
-         "parent":"misc"
+         "identifier":"data-prt-template",
+         "parent":"data"
       }
    },
    "lastmod":"2023-10-18"
@@ -85,8 +85,6 @@ Programs that open PRT files include
 
 - **Corel Presentations 2021** (Free Trial)
 
-**SubType:** Data Files
-
 ## Other PRT files
 
 Here are other file types that use the **.prt** file extension.
@@ -94,7 +92,7 @@ Here are other file types that use the **.prt** file extension.
 **CAD & Data Files**
 - [PRT - Creo Parametric Part](/cad/prt-creo/)
 - [PRT - CADKEY Part File](/cad/prt-cadkey/)
-- [PRT - Presentations Template](/misc/prt-template/)
+- [PRT - Presentations Template](/data/prt-template/)
 
 ## References
 * [Corel Presentations](https://en.wikipedia.org/wiki/Corel_Presentations)

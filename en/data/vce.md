@@ -20,8 +20,8 @@
    "linktitle":"VCE",
    "menu":{
       "docs":{
-         "identifier":"misc-vce",
-         "parent":"misc"
+         "identifier":"data-vce",
+         "parent":"data"
       }
    },
    "lastmod":"2023-11-09"
@@ -65,8 +65,6 @@ Programs that open VCE files include
 
 - **Visual CertExam Suite** (Paid) for (Windows)
 - **VCEConvert.com VCE to PDF** (Paid)
-
-**SubType:** Data Files
 
 ## References
 * [Visual CertExam Suite](https://www.avanset.com/products/visual-certexam-suite.html)

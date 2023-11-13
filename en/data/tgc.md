@@ -20,8 +20,8 @@
    "linktitle":"TGC",
    "menu":{
       "docs":{
-         "identifier":"misc-tgc",
-         "parent":"misc"
+         "identifier":"data-tgc",
+         "parent":"data"
       }
    },
    "lastmod":"2023-11-09"
@@ -56,8 +56,6 @@ Terragen is a versatile 3D modeling and rendering software designed for creation
 Programs that open TGC files include
 
 - **Terragen** by Planetside Software (Free Trial) for (Windows, MAC)
-
-**SubType:** Data Files
 
 ## References
 * [Terragen](https://en.wikipedia.org/wiki/Terragen)

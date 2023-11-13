@@ -30,7 +30,7 @@ A CBZ file is a ZIP archive that contains ebook pages as images in [PNG](/image/
 Here are other file types that use the **.cbz** file extension.
 
 **Data Files**
-- [CBZ - ChessBase Encrypted Database Archive](/misc/cbz-chessbase/)
+- [CBZ - ChessBase Encrypted Database Archive](/data/cbz-chessbase/)
 
 **Ebook**
 - [CBZ - Comic Book ZIP Archive File Format](/ebook/cbz/)

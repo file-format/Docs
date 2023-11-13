@@ -15,13 +15,13 @@
   },
   "draft": "false",
   "toc": true,
-  "title": "CBZ File Format - ChessBase Encrypted Database Archive",
+  "title": "CBZ File - ChessBase Database Archive - What is a .cbz file and how do I open it?",
   "description": "Learn about CBZ ChessBase Encrypted Database Archive format and APIs that can create and open CBZ files.",
-  "linktitle": "CBZ ChessBase",
+  "linktitle": "CBZ",
   "menu": {
     "docs": {
-      "identifier": "misc-cbz-chessbase",
-      "parent": "misc"
+      "identifier": "data-cbz-chessbase",
+      "parent": "data"
     }
   },
   "lastmod": "2023-10-04"
@@ -71,14 +71,12 @@ Programs that open CBZ files include
 
 - **ChessBase** (Free Trial) for Windows
 
-**SubType:** Data Files
-
 ## Other CBZ files
 
 Here are other file types that use the **.cbz** file extension.
 
 **Data Files**
-- [CBZ - ChessBase Encrypted Database Archive](/misc/cbz-chessbase/)
+- [CBZ - ChessBase Encrypted Database Archive](/data/cbz-chessbase/)
 
 **Ebook**
 - [CBZ - Comic Book ZIP Archive File Format](/ebook/cbz/)

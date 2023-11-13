@@ -84,7 +84,7 @@ Here are other file types that use the **.cdr** file extension.
 - [CDR - Macintosh DVD/CD Master](/disc-and-media/cdr/)
 
 **Data Files & Image**
-- [CDR - Crash Data Retrieval Data File](/misc/cdr-crash/)
+- [CDR - Crash Data Retrieval Data File](/data/cdr-crash/)
 - [CDR - Vector Drawing Image File](/image/cdr/)
 
 

@@ -60,7 +60,7 @@ Here are other file types that use the **.prt** file extension.
 **CAD & Data Files**
 - [PRT - Creo Parametric Part](/cad/prt-creo/)
 - [PRT - CADKEY Part File](/cad/prt-cadkey/)
-- [PRT - Presentations Template](/misc/prt-template/)
+- [PRT - Presentations Template](/data/prt-template/)
 
 ## References
 * [CADKEY](https://en.wikipedia.org/wiki/CADKEY)

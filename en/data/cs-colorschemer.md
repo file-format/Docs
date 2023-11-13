@@ -15,13 +15,13 @@
   },
   "draft": "false",
   "toc": true,
-  "title": "CS File Format - ColorSchemer Studio Color Scheme",
+  "title": "CS File - ColorSchemer Studio Color Scheme - What is a .cs file and how do I open it?",
   "description": "Learn about CS ColorSchemer Studio Color Scheme format and APIs that can create and open CS files.",
-  "linktitle": "CS ColorSchemer",
+  "linktitle": "CS",
   "menu": {
     "docs": {
-      "identifier": "misc-cs-colorschemer",
-      "parent": "misc"
+      "identifier": "data-cs-colorschemer",
+      "parent": "data"
     }
   },
   "lastmod": "2023-10-04"
@@ -57,14 +57,12 @@ Programs that open CS files include
 
 - **ColorSchemer Studio**
 
-**SubType:** Data Files
-
 ## Other CS files
 
 Here are other file types that use the **.cs** file extension.
 
 **Data Files & Game**
-- [CS - ColorSchemer Studio Color Scheme](/misc/cs-colorschemer/)
+- [CS - ColorSchemer Studio Color Scheme](/data/cs-colorschemer/)
 - [CS - CLEO Custom Script](/game/cs-cleo/)
 
 **Programming**

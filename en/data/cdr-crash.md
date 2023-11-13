@@ -15,13 +15,13 @@
    },
    "draft":"false",
    "toc":true,
-   "title":"CDR File Format - Crash Data Retrieval Data File",
+   "title":"CDR File - Crash Data Retrieval Data File - What is a .cdr file and how do I open it?",
    "description":"Learn about CDR Crash Data Retrieval Data file format and APIs that can create and open CDR files.",
    "linktitle":"CDR",
    "menu":{
       "docs":{
-         "identifier":"misc-cdr-crash",
-         "parent":"misc"
+         "identifier":"data-cdr-crash",
+         "parent":"data"
       }
    },
    "lastmod":"2023-10-18"
@@ -67,8 +67,6 @@ Programs that open CDR files include
 
 - **Bosch Crash Data Retrieval System Software** (Windows)
 
-**SubType:** Data Files
-
 ## Other CDR files
 
 Here are other file types that use the **.cdr** file extension.
@@ -78,7 +76,7 @@ Here are other file types that use the **.cdr** file extension.
 - [CDR - Macintosh DVD/CD Master](/disc-and-media/cdr/)
 
 **Data Files & Image**
-- [CDR - Crash Data Retrieval Data File](/misc/cdr-crash/)
+- [CDR - Crash Data Retrieval Data File](/data/cdr-crash/)
 - [CDR - Vector Drawing Image File](/image/cdr/)
 
 ## References
