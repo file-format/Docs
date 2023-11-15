@@ -110,8 +110,6 @@ Programs that open or reference CAF files
 
 - **Crytek CryENGINE SDK** (Free Trial) for (Windows)
 
-**SubType:** Developer Files
-
 ## Other CAF files
 
 Here are other file types that use the **.caf** file extension.

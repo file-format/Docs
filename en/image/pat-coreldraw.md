@@ -73,7 +73,5 @@ Programs that open PAT files include
 
 - **CorelDRAW Graphics Suite** (Free) (Windows)
 
-**SubType:** Vector Image Files
-
 ## References
 * [CorelDRAW](https://en.wikipedia.org/wiki/CorelDRAW)

@@ -65,7 +65,5 @@ Programs that open CXARCHIVE files include
 
 - **CodeWeavers CrossOver** (Free Trial) for (MAC, Linux)
 
-**SubType:** Compressed Files
-
 ## References
 * [CrossOver (software)](https://en.wikipedia.org/wiki/CrossOver_(software))

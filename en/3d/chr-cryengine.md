@@ -97,8 +97,6 @@ Programs that open CHR files include
 
 - **Crytek CryENGINE SDK** (Free Trial) for Windows
 
-**SubType:** 3D Image Files
-
 ## Other CHR files
 
 Here are other file types that use the **.chr** file extension.

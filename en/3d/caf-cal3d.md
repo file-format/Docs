@@ -54,8 +54,6 @@ Programs that open or reference CAF files
 - **Cal3dViewer** (Free) for Windows
 - **Cal3D** (Free) for Linux
 
-**SubType:** 3D Image Files
-
 ## Other CAF files
 
 Here are other file types that use the **.caf** file extension.

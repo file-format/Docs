@@ -71,7 +71,5 @@ Programs that open or reference MTL files include
 - MeshLab
 - Cheetah3D
 
-**SubType:** 3D Image Files
-
 ## References
 * [Wavefront .obj file](https://en.wikipedia.org/wiki/Wavefront_.obj_file)
