@@ -1,20 +1,20 @@
 {
-  "date" : "2023-10-29",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-} ,
-  "draft" : "false",
-  "toc" : true,
-  "title" :"Fichier PZZ - Qu'est-ce qu'un fichier .pzz et comment l'ouvrir ?" ,
-  "description":"Découvrez le format PZZ et les API permettant de créer et d'ouvrir des fichiers PZZ." ,
-  "linktitle" : "CJS",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression",
-      "identifier":"compression-fr-pzz"
+"date": "2023-10-30",
+  "author": {
+"display_name": "Kashif Iqbal"
+},
+"draft": "false",
+"toc" : true,
+"title": "Fichier PZZ - Qu'est-ce qu'un fichier .pzz et comment l'ouvrir ?",
+  "description":"Découvrez le format PZZ et les API permettant de créer et d'ouvrir des fichiers PZZ.",
+"linktitle": "PZZ",
+  "menu": {
+    "docs": {
+      "identifier": "compression-pzz",
+"parent": "compression"
 }
-} ,
-  "lastmod" : "2023-10-29"
+},
+"lastmod": "2023-10-30"
 }
 
 ## Qu'est-ce qu'un fichier PZZ ?
@@ -23,9 +23,9 @@ Un **fichier PZZ** est un fichier de scène compressé généré à l'aide de Po
 
 ## Format de fichier PZZ - Plus d'informations
 
-Le fichier PZZ généré par Poser est un format de fichier compressé de petite taille destiné au transfert sur Internet et sur d'autres supports. Poser enregistre également le fichier de scène sous forme non compressée avec des extensions **.PZ3** que vous pouvez compresser vous-même dans un fichier **ZIP** ou **RAR** si nécessaire. Bondware a acquis Poser auprès de Smith Micro en juin 2019.
+Le fichier PZZ généré par Poser est un format de fichier compressé de petite taille pour le transfert sur Internet et d'autres médias. Poser enregistre également le fichier de scène sous forme non compressée avec les extensions **.PZ3** que vous pouvez compresser vous-même dans une archive **ZIP** ou **RAR** si nécessaire. Bondware a acquis Poser auprès de Smith Micro en juin 2019.
 
-## Comment ouvrir le fichier PZZ ?
+## Comment ouvrir le fichier PZZ?
 
 Vous pouvez ouvrir les fichiers PZZ avec [Bondware Poser](https://www.posersoftware.com/).
 

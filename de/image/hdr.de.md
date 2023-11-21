@@ -5,7 +5,7 @@
 },
   "draft" : "false",
   "toc" : true,
-  "title" :"HDR-Dateiformat - Was ist eine HDR-Bilddatei?",
+  "title" :"HDR-Dateiformat - Was ist eine HDR-BildDatei?",
   "description":"Erfahren Sie mehr über das HDR-Dateiformat und APIs, die HDR-Dateien erstellen und öffnen können.",
   "linktitle" : "HDR",
   "menu" : {

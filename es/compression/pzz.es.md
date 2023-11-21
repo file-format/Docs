@@ -1,20 +1,20 @@
 {
-  "date" : "2023-10-29",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-} ,
-  "draft" : "false",
-  "toc" : true,
-  "title" :"Archivo PZZ: ¿Qué es un archivo .pzz y cómo abrirlo?" ,
-  "description":"Obtenga información sobre el formato PZZ y las API que pueden crear y abrir archivos PZZ." ,
-  "linktitle" : "CJS",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression",
-      "identifier":"compression-es-pzz"
+"fecha": "2023-10-30",
+  "author": {
+"display_name": "Kashif Iqbal"
+},
+"draft": "false",
+"toc": true,
+"title": "Archivo PZZ - ¿Qué es un archivo .pzz y cómo abrirlo?",
+  "description":"Obtenga más información sobre el formato PZZ y las API que pueden crear y abrir archivos PZZ.",
+"linktitle": "PZZ",
+  "menu": {
+    "docs": {
+      "identifier": "compression-pzz",
+"parent": "compresión"
 }
-} ,
-  "lastmod" : "2023-10-29"
+},
+"última modificación": "2023-10-30"
 }
 
 ## ¿Qué es un archivo PZZ?
@@ -25,7 +25,7 @@ Un **archivo PZZ** es un archivo de escena comprimido generado con Poser, un sof
 
 El archivo PZZ generado por Poser es un formato de archivo comprimido de tamaño pequeño para transferir a través de Internet y otros medios. Poser también guarda el archivo de escena en forma sin comprimir con **extensiones .PZ3** que puedes comprimir en un archivo **ZIP** o **RAR** si es necesario. Bondware adquirió Poser de Smith Micro en junio de 2019.
 
-## ¿Cómo abrir el archivo PZZ?
+## ¿Cómo abrir un archivo PZZ?
 
 Puede abrir archivos PZZ con [Bondware Poser](https://www.posersoftware.com/).
 
