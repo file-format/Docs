@@ -17,11 +17,11 @@
 "toc": true,
 "title":"SHADER ファイル形式 - Godot エンジン シェーダー ファイル",
    "description":"SHADER Godot Engine Shader ファイル形式と,SHADER ファイルを作成して開くことができる API について学びます。",
-"linktitle":"SHADER ゴドー",
+"linktitle":"SHADER Godot",
    "menu":{
       "docs":{
          "identifier":"game-shader-godot",
-"parent":"ゲーム"
+"parent": "game"
 }
 },
 "lastmod":"2023-10-11"

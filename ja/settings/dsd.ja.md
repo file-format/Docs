@@ -16,11 +16,11 @@
 "toc": true,
 "title": "DSD ファイル形式 - AutoCAD 図面セット記述ファイル",
   "description":"DSD 形式と,DSD ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "DSD",
+"linktitle": "DSD",
   "menu": {
     "docs": {
       "identifier": "settings-dsd",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-04-13"

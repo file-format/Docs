@@ -15,11 +15,11 @@
 "toc": true,
 "title": "JWPUB ファイル形式 - エホバの証人の出版物",
   "description":"JWPUB 形式と,JWPUB ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "JWPUB",
+"linktitle": "JWPUB",
   "menu": {
     "docs": {
       "identifier": "ebook-jwpub",
-"parent": "電子ブック"
+"parent": "ebook"
 }
 },
 "lastmod": "2023-03-02"

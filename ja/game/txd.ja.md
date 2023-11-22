@@ -15,11 +15,11 @@
 "toc": true,
 "title": "TXD ファイル形式 - ゲーム テクスチャ辞書",
   "description":"TXD 形式と,TXD ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "TXD",
+"linktitle": "TXD",
   "menu": {
     "docs": {
       "identifier": "game-txd",
-"parent": "ゲーム"
+"parent": "game"
 }
 },
 "lastmod": "2023-05-03"

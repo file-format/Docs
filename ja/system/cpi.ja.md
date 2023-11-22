@@ -17,11 +17,11 @@
 "toc": true,
 "title":"CPI ファイル形式 - コードページ情報ファイル",
    "description":"CPI コードページ情報のファイル形式と,CPI ファイルを作成して開くことができる API について説明します。",
-"リンクタイトル":"CPI",
+"linktitle":"CPI",
    "menu":{
       "docs":{
          "identifier":"system-cpi",
-"parent":"システム"
+"parent": "system"
 }
 },
 "lastmod":"2023-10-18"

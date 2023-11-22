@@ -18,11 +18,11 @@
 "toc": true,
 "title": "AIF ファイル形式 - オーディオ交換ファイル形式",
   "description":"AIF ファイルを作成して開くことができる AIF 形式と API について学びます。",
-"リンクタイトル": "AIF",
+"linktitle": "AIF",
   "menu": {
     "docs": {
       "identifier": "audio-aif",
-"parent": "オーディオ"
+"parent": "audio"
 }
 },
 "lastmod": "2023-05-30"

@@ -15,11 +15,11 @@
 "toc": true,
 "title": "WQ2 ファイル形式 - Quattro Pro for DOS スプレッドシート ファイル",
   "description":"WQ2 ファイル形式と,WQ2 ファイルを作成して開くことができる API について説明します。",
-"リンクタイトル": "WQ2",
+"linktitle": "WQ2",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-wq2",
-"parent": "スプレッドシート"
+"parent": "spreadsheet"
 }
 },
 "lastmod": "2023-02-28"

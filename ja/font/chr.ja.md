@@ -17,11 +17,11 @@
 "toc": true,
 "title":"CHR ファイル形式 - Borland 文字セット",
    "description":"CHR Borland Character Set ファイル形式と,CHR ファイルを作成して開くことができる API について説明します。",
-"リンクタイトル":"CHR",
+"linktitle":"CHR",
    "menu":{
       "docs":{
          "identifier":"font-chr",
-"parent":"フォント"
+"parent":"font"
 }
 },
 "lastmod":"2023-10-11"

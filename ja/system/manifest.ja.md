@@ -14,11 +14,11 @@
 "toc": true,
 "title": "MANIFEST ファイル形式 - Windows アプリケーション マニフェスト ファイル",
   "description":"MANIFEST 形式と,MANIFEST ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "マニフェスト",
+"linktitle": "MANIFEST",
   "menu": {
     "docs": {
       "identifier": "system-manifest",
-"parent": "システム"
+"parent": "system"
 }
 },
 "lastmod": "2023-03-07"

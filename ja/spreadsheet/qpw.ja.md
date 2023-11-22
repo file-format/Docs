@@ -15,11 +15,11 @@
 "toc": true,
 "title": "QPW ファイル形式 - Quattro Pro スプレッドシート",
   "description":"QPW ファイル形式と,QPW ファイルを作成して開くことができる API について説明します。",
-"リンクタイトル": "QPW",
+"linktitle": "QPW",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-qpw",
-"parent": "スプレッドシート"
+"parent": "spreadsheet"
 }
 },
 "lastmod": "2023-02-28"

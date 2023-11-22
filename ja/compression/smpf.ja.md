@@ -16,11 +16,11 @@
 "toc": true,
 "title": "SMPF ファイル形式 - Sprite Monkey プロジェクト",
   "description":"SMPF 形式と,SMPF ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "SMPF",
+"linktitle": "SMPF",
   "menu": {
     "docs": {
       "identifier": "compression-smpf",
-"parent": "圧縮"
+"parent": "compression"
 }
 },
 "lastmod": "2023-05-24"

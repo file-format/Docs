@@ -17,11 +17,11 @@
 "toc": true,
 "title": "LRV ファイル形式 - GoPro による低解像度ビデオ ファイル",
   "description":"LRV 形式と,LRV ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "LRV",
+"linktitle": "LRV",
   "menu": {
     "docs": {
       "identifier": "video-lrv",
-"parent": "ビデオ"
+"parent": "video"
 }
 },
 "lastmod": "2023-06-21"

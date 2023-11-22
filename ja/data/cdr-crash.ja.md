@@ -17,11 +17,11 @@
 "toc": true,
 "title":"CDR ファイル - クラッシュ データ取得データ ファイル - .cdr ファイルとは何ですか? 開く方法は?",
    "description":"CDR クラッシュ データ取得データ ファイル形式と,CDR ファイルを作成して開くことができる API について説明します。",
-"リンクタイトル":"CDR",
+"linktitle":"CDR",
    "menu":{
       "docs":{
          "identifier":"data-cdr-crash",
-"parent":"データ"
+"parent": "data"
 }
 },
 "lastmod":"2023-10-18"

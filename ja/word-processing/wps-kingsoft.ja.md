@@ -17,11 +17,11 @@
 "toc": true,
 "title": "WPS ファイル形式 - Kingsoft Writer ドキュメント",
   "description":"WPS Kingsoft 形式と,WPS ファイルを作成して開くことができる API について学びます。",
-"linktitle": "WPS キングソフト",
+"linktitle": "WPS Kingsoft",
   "menu": {
     "docs": {
       "identifier": "word-processing-wps-kingsoft",
-"parent": "ワードプロセッサ"
+"parent": "word-processing"
 }
 },
 "lastmod": "2023-09-21"

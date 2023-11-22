@@ -15,11 +15,11 @@
 "toc": true,
 "title": "SBV ファイル形式 - YouTube キャプション ファイル",
   "description":"SBV 形式と,SBV ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "SBV",
+"linktitle": "SBV",
   "menu": {
     "docs": {
       "identifier": "settings-sbv",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-03-22"

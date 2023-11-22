@@ -15,11 +15,11 @@
 "toc": true,
 "title": "TTR ファイル形式 - TETR.IO リプレイ",
   "description":"TTR 形式と,TTR ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "TTR",
+"linktitle": "TTR",
   "menu": {
     "docs": {
       "identifier": "game-ttr",
-"parent": "ゲーム"
+"parent": "game"
 }
 },
 "lastmod": "2023-04-04"

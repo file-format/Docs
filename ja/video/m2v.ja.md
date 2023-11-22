@@ -17,11 +17,11 @@
 "toc": true,
 "title":"M2V ファイル形式 - MPEG-2 ビデオ",
    "description":"M2V MPEG-2 ビデオ ファイル形式と,M2V ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル":"M2V",
+"linktitle":"M2V",
    "menu":{
       "docs":{
          "identifier":"video-m2v",
-"parent":"ビデオ"
+"parent": "video"
 }
 },
 "lastmod":"2023-10-11"

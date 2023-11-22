@@ -17,11 +17,11 @@
 "toc": true,
 "title":"CS ファイル形式 - CLEO カスタム スクリプト",
    "description":"CS ファイルを作成して開くことができる CS CLEO カスタム スクリプト形式と API について学びます。",
-"linktitle":"CS クレオ",
+"linktitle":"CS CLEO",
    "menu":{
       "docs":{
          "identifier":"game-cs-cleo",
-"parent":"ゲーム"
+"parent": "game"
 }
 },
 "lastmod":"2023-01-04"

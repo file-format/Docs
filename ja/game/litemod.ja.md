@@ -14,11 +14,11 @@
 "toc": true,
 "title": "LITEMOD ファイル形式 - Minecraft LiteLoader Mod ファイル",
   "description":"LITEMOD 形式と,LITEMOD ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "LITEMOD",
+"linktitle": "LITEMOD",
   "menu": {
     "docs": {
       "identifier": "game-litemod",
-"parent": "ゲーム"
+"parent": "game"
 }
 },
 "lastmod": "2023-03-15"

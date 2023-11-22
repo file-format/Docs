@@ -18,11 +18,11 @@
 "toc": true,
 "title": "OGV ファイル形式 - Ogg ビデオ ファイル",
   "description":"OGV 形式と,OGV ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "OGV",
+"linktitle": "OGV",
   "menu": {
     "docs": {
       "identifier": "video-ogv",
-"parent": "ビデオ"
+"parent": "video"
 }
 },
 "lastmod": "2023-06-07"

@@ -15,11 +15,11 @@
 "toc": true,
 "title": "CNF ファイル形式 - MySQL 構成ファイル",
   "description":"CNF 形式と,CNF ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "CNF",
+"linktitle": "CNF",
   "menu": {
     "docs": {
       "identifier": "settings-cnf",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-03-22"

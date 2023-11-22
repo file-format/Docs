@@ -17,11 +17,11 @@
 "toc": true,
 "title": "CFG ファイル形式 - Wesnoth マークアップ言語ファイル",
   "description":"CFG Wesnoth マークアップ言語ファイル形式と,CFG ファイルを作成して開くことができる API について学びます。",
-"linktitle": "CFG ウェスノス",
+"linktitle": "CFG Wesnoth",
   "menu": {
     "docs": {
       "identifier": "game-cfg-wesnoth",
-"parent": "ゲーム"
+"parent": "game"
 }
 },
 "lastmod": "2023-09-27"

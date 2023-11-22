@@ -15,11 +15,11 @@
 "toc": true,
 "title": "DESKTHEMEPACK ファイル形式 - Windows 10 デスクトップ テーマ パック ファイル",
   "description":"DESKTHEMEPACK 形式と,DESKTHEMEPACK ファイルを作成して開くことができる API について説明します。",
-"linktitle": "デスクテーマパック",
+"linktitle": "DESKTHEMEPACK",
   "menu": {
     "docs": {
       "identifier": "system-deskthemepack",
-"parent": "システム"
+"parent": "system"
 }
 },
 "lastmod": "2023-03-09"

@@ -18,11 +18,11 @@
 "toc": true,
 "title": "DESKTOP ファイル形式 - デスクトップ エントリ ファイル",
   "description":"DESKTOP ファイルを作成して開くことができる DESKTOP 形式と API について学びます。",
-"リンクタイトル": "デスクトップ",
+"linktitle": "DESKTOP",
   "menu": {
     "docs": {
       "identifier": "settings-desktop",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-05-31"

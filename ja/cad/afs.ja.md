@@ -15,11 +15,11 @@
 "toc": true,
 "title": "AFS ファイル形式 - STAAD.foundation プロジェクト ファイル",
   "description":"AFS ファイル形式と,AFS ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "AFS",
+"linktitle": "AFS",
   "menu": {
     "docs": {
       "identifier": "cad-afs",
-"parent": "CAD"
+"parent": "cad"
 }
 },
 "lastmod": "2023-02-23"

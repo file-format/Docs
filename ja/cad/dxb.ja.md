@@ -16,11 +16,11 @@
 "toc": true,
 "title": "DXB ファイル形式 - 図面交換バイナリ",
   "description":"DXB 形式と,DXB ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "DXB",
+"linktitle": "DXB",
   "menu": {
     "docs": {
       "identifier": "cad-dxb",
-"parent": "CAD"
+"parent": "cad"
 }
 },
 "lastmod": "2023-05-10"

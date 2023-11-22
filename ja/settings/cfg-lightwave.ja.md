@@ -17,11 +17,11 @@
 "toc": true,
 "title": "CFG ファイル形式 - LightWave 設定ファイル",
   "description":"CFG LightWave 構成ファイル形式と,CFG ファイルを作成して開くことができる API について学びます。",
-"linktitle": "CFG ライトウェーブ",
+"linktitle": "CFG LightWave",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-lightwave",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-09-27"

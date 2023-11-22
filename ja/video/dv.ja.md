@@ -18,11 +18,11 @@
 "toc": true,
 "title": "DV ファイル形式 - デジタル ビデオ ファイル",
   "description":"DV 形式と,DV ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "DV",
+"linktitle": "DV",
   "menu": {
     "docs": {
       "identifier": "video-dv",
-"parent": "ビデオ"
+"parent": "video"
 }
 },
 "lastmod": "2023-05-31"

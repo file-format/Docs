@@ -17,11 +17,11 @@
 "toc": true,
 "title": "PEF ファイル形式 - ペンタックス電子ファイル",
   "description":"PEF 形式と,PEF ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "PEF",
+"linktitle": "PEF",
   "menu": {
     "docs": {
       "identifier": "image-pef",
-"parent": "画像"
+"parent": "image"
 }
 },
 "lastmod": "2023-05-29"

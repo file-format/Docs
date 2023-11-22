@@ -17,11 +17,11 @@
 "toc": true,
 "title": "CFG ファイル形式 - Citrix サーバー接続ファイル",
   "description":"CFG Citrix サーバー接続ファイル形式と,CFG ファイルを作成して開くことができる API について学びます。",
-"linktitle": "CFG シトリックス",
+"linktitle": "CFG Citrix",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-citrix",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-09-27"

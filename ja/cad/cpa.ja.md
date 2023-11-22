@@ -15,11 +15,11 @@
 "toc": true,
 "title": "CPA ファイル形式 - CADSTAR PCB アーカイブ ファイル",
   "description":"CPA ファイル形式と,CPA ファイルを作成して開くことができる API について説明します。",
-"リンクタイトル": "CPA",
+"linktitle": "CPA",
   "menu": {
     "docs": {
       "identifier": "cad-cpa",
-"parent": "CAD"
+"parent": "cad"
 }
 },
 "lastmod": "2023-02-22"

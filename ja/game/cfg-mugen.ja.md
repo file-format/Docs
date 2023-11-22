@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "game-cfg-mugen",
-"parent": "ゲーム"
+"parent": "game"
 }
 },
 "lastmod": "2023-09-27"

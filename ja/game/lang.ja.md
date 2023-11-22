@@ -15,11 +15,11 @@
 "toc": true,
 "title": "LANG ファイル形式 - Minecraft 言語ローカリゼーション ファイル",
   "description":"LANG 形式と,LANG ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "LANG",
+"linktitle": "LANG",
   "menu": {
     "docs": {
       "identifier": "game-lang",
-"parent": "ゲーム"
+"parent": "game"
 }
 },
 "lastmod": "2023-03-15"

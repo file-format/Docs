@@ -15,11 +15,11 @@
 "toc": true,
 "title": "AXM ファイル形式 - FormIt スケッチ ファイル",
   "description":"AXM ファイル形式と,AXM ファイルを作成して開くことができる API について説明します。",
-"リンクタイトル": "AXM",
+"linktitle": "AXM",
   "menu": {
     "docs": {
       "identifier": "cad-axm",
-"parent": "CAD"
+"parent": "cad"
 }
 },
 "lastmod": "2023-02-21"

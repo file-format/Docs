@@ -16,11 +16,11 @@
 "toc": true,
 "title": "DDT ファイル形式 - Football Manager ゲーム データ ファイル",
   "description":"DDT 形式と,DDT ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "DDT",
+"linktitle": "DDT",
   "menu": {
     "docs": {
       "identifier": "game-ddt",
-"parent": "ゲーム"
+"parent": "game"
 }
 },
 "lastmod": "2023-05-16"

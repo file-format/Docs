@@ -15,11 +15,11 @@
 "toc": true,
 "title": "THEMEPACK ファイル形式 - Windows 7 テーマ パック",
   "description":"THEMEPACK 形式と,THEMEPACK ファイルを作成して開くことができる API について学びます。",
-"linktitle": "テーマパック",
+"linktitle": "THEMEPACK",
   "menu": {
     "docs": {
       "identifier": "settings-themepack",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-03-23"

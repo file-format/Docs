@@ -15,11 +15,11 @@
 "toc": true,
 "title": "PSV ファイル形式 - Pluralsight ビデオ ファイル",
   "description":"PSV 形式と,PSV ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "PSV",
+"linktitle": "PSV",
   "menu": {
     "docs": {
       "identifier": "video-psv",
-"parent": "ビデオ"
+"parent": "video"
 }
 },
 "lastmod": "2023-07-12"

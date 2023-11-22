@@ -15,11 +15,11 @@
 "toc": true,
 "title": "NUT ファイル形式 - NUT ビデオ ファイル",
   "description":"NUT 形式と,NUT ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "NUT",
+"linktitle": "NUT",
   "menu": {
     "docs": {
       "identifier": "video-nut",
-"parent": "ビデオ"
+"parent": "video"
 }
 },
 "lastmod": "2023-07-13"

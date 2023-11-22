@@ -16,11 +16,11 @@
 "toc": true,
 "title": "UDB ファイル形式 - Microsoft Dynamics AX ユーザー データベース ファイル",
   "description":"UDB 形式と,UDB ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "UDB",
+"linktitle": "UDB",
   "menu": {
     "docs": {
       "identifier": "database-udb",
-"parent": "データベース"
+"parent": "database"
 }
 },
 "lastmod": "2023-09-05"

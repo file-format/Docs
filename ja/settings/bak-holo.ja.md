@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAK ファイル形式 - Holo Launcher バックアップ",
   "description":"BAK Holo Launcher バックアップ形式と,BAK ファイルを作成して開くことができる API について学びます。",
-"linktitle": "バクホロ",
+"linktitle": "BAK HOLO",
   "menu": {
     "docs": {
       "identifier": "settings-bak-holo",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-06-12"

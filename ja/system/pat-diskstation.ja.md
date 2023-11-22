@@ -17,11 +17,11 @@
 "toc": true,
 "title":"PAT ファイル形式 - DiskStation Manager インストール ファイル",
    "description":"PAT DiskStation Manager のインストール ファイル形式と,PAT ファイルを作成して開くことができる API について説明します。",
-"リンクタイトル":"PAT",
+"linktitle":"PAT",
    "menu":{
       "docs":{
          "identifier":"system-pat-diskstation",
-"parent":"システム"
+"parent": "system"
 }
 },
 "lastmod":"2023-11-01"

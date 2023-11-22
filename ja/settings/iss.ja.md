@@ -15,11 +15,11 @@
 "toc": true,
 "title": "ISS ファイル形式 - Inno セットアップ スクリプト",
   "description":"ISS ファイルを作成して開くことができる ISS 形式と API について学びます。",
-"リンクタイトル": "ISS",
+"linktitle": "ISS",
   "menu": {
     "docs": {
       "identifier": "settings-iss",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-03-28"

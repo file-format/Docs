@@ -14,11 +14,11 @@
 "toc": true,
 "title": "OSS ファイル形式 - Microsoft Outlook 保存された検索ファイル",
   "description":"OSS ファイルを作成して開くことができる OSS 形式と API について学びます。",
-"リンクタイトル": "OSS",
+"linktitle": "OSS",
   "menu": {
     "docs": {
       "identifier": "settings-oss",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-03-28"

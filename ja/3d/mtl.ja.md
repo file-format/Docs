@@ -17,11 +17,11 @@
 "toc": true,
 "title":"MTL ファイル形式 - OBJ 素材テンプレート ライブラリ ファイル",
    "description":"MTL OBJ マテリアル テンプレート ライブラリのファイル形式と,MTL ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル":"MTL",
+"linktitle":"MTL",
    "menu":{
       "docs":{
          "identifier":"3d-mtl",
-"parent":"3D"
+"parent":"3d"
 }
 },
 "lastmod":"2023-10-11"

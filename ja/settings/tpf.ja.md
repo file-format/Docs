@@ -14,11 +14,11 @@
 "toc": true,
 "title": "TPF ファイル形式 - IBM SPSS テキスト ウィザードのドキュメント",
   "description":"TPF 形式と,TPF ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "TPF",
+"linktitle": "TPF",
   "menu": {
     "docs": {
       "identifier": "settings-tpf",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-03-29"

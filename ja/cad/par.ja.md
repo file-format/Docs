@@ -16,11 +16,11 @@
 "toc": true,
 "title":"PAR ファイル形式 - Solid Edge パーツ ファイル",
    "description":"PAR 形式と,PAR ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル":"PAR",
+"linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"cad-par",
-"parent":"CAD"
+"parent":"cad"
 }
 },
 "lastmod":"2023-07-18"

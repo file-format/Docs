@@ -15,11 +15,11 @@
 "toc": true,
 "title": "PDS ファイル形式 - PowerDirector スクリプト ファイル",
   "description":"PDS 形式と,PDS ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "PDS",
+"linktitle": "PDS",
   "menu": {
     "docs": {
       "identifier": "video-pds",
-"parent": "ビデオ"
+"parent": "video"
 }
 },
 "lastmod": "2023-07-12"

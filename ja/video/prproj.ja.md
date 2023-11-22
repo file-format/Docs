@@ -16,11 +16,11 @@
 "toc": true,
 "title": "PRPROJ ファイル形式 - Adobe Premiere Pro プロジェクト",
   "description":"PRPROJ ファイル形式と,PRPROJ ファイルを作成して開くことができる API について説明します。",
-"リンクタイトル": "PRPROJ",
+"linktitle": "PRPROJ",
   "menu": {
     "docs": {
       "identifier": "video-prproj",
-"parent": "ビデオ"
+"parent": "video"
 }
 },
 "lastmod": "2023-02-06"

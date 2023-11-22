@@ -14,11 +14,11 @@
 "toc": true,
 "title": "ビデオ コンバーターとは何ですか? ビデオ コンバーターの究極ガイド",
   "description":"ビデオコンバーター,フォーマット,FAQ,最適なツールについて学ぶ",
-"linktitle": "ビデオコンバータ",
+"linktitle": "VIDEO CONVERTER",
   "menu": {
     "docs": {
       "identifier": "misc-video-converter",
-"parent": "その他"
+"parent": "misc"
 }
 },
 "lastmod": "2023-07-03"

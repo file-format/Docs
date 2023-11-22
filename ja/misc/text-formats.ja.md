@@ -12,11 +12,11 @@
 "toc": true,
 "title": "テキストの形式,種類,およびよくある質問",
   "description":"テキスト形式,テキスト形式の種類,テキスト形式のリスト,およびよくある質問について学びます",
-"linktitle": "テキスト形式",
+"linktitle": "TEXT FORMATS",
   "menu": {
     "docs": {
       "identifier": "misc-text-formats",
-"parent": "その他"
+"parent": "misc"
 }
 },
 "lastmod": "2023-07-06"

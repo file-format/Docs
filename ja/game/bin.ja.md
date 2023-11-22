@@ -15,11 +15,11 @@
 "toc": true,
 "title": "BIN ファイル形式 - Sega Genesis ゲーム ROM",
   "description":"BIN 形式と,BIN ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "BIN",
+"linktitle": "BIN",
   "menu": {
     "docs": {
       "identifier": "game-bin",
-"parent": "ゲーム"
+"parent": "game"
 }
 },
 "lastmod": "2023-03-16"

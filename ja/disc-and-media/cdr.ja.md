@@ -17,11 +17,11 @@
 "toc": true,
 "title":"CDR ファイル形式 - Macintosh DVD/CD マスター",
    "description":"CDR Macintosh DVD/CD マスター ファイル形式と,CDR ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル":"CDR",
+"linktitle":"CDR",
    "menu":{
       "docs":{
          "identifier":"disc-and-media-cdr",
-"parent":"ディスクとメディア"
+"parent":"disc-and-media"
 }
 },
 "lastmod":"2023-10-18"

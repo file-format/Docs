@@ -15,11 +15,11 @@
 "toc": true,
 "title": "STY ファイル形式 - ヤマハまたはコルグのキーボード スタイル",
   "description":"STY 形式と,STY ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "STY",
+"linktitle": "STY",
   "menu": {
     "docs": {
       "identifier": "audio-sty",
-"parent": "オーディオ"
+"parent": "audio"
 }
 },
 "lastmod": "2023-06-15"

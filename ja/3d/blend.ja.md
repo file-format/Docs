@@ -15,11 +15,11 @@
 "toc": true,
 "title": "BLEND ファイル形式 - Blender 3D ファイル",
   "description":"BLEND 形式と,BLEND ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "ブレンド",
+  "linktitle": "BLEND",
   "menu": {
     "docs": {
       "identifier": "3d-blend",
-"parent": "3D"
+"parent": "3d"
 }
 },
 "lastmod": "2023-04-13"

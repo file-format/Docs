@@ -15,11 +15,11 @@
 "toc": true,
 "title": "ANI ファイル形式 - Windows アニメーション カーソル",
   "description":"ANI 形式と,ANI ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "ANI",
+"linktitle": "ANI",
   "menu": {
     "docs": {
       "identifier": "system-ani",
-"parent": "システム"
+"parent": "system"
 }
 },
 "lastmod": "2023-03-08"

@@ -17,11 +17,11 @@
 "toc": true,
 "title":"DVD ファイル形式 - DOS デバイス ドライバー",
    "description":"DVD MS-DOS デバイス ドライバーのファイル形式と,DVD ファイルを作成して開くことができる API について説明します。",
-"リンクタイトル":"DVD",
+"linktitle":"DVD",
    "menu":{
       "docs":{
          "identifier":"system-dvd-dos",
-"parent":"システム"
+"parent": "system"
 }
 },
 "lastmod":"2023-11-01"

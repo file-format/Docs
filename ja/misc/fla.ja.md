@@ -17,11 +17,11 @@
 "toc": true,
 "title": "FLA ファイル形式 - Adobe Animate アニメーション",
   "description":"FLA ファイルを作成して開くことができる FLA 形式と API について学びます。",
-"リンクタイトル": "FLA",
+"linktitle": "FLA",
   "menu": {
     "docs": {
       "identifier": "misc-fla",
-"parent": "その他"
+"parent": "misc"
 }
 },
 "lastmod": "2023-06-05"

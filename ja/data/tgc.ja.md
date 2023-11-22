@@ -17,11 +17,11 @@
 "toc": true,
 "title":"TGC ファイル - Terragen ノード クリップ - .tgc ファイルとは何ですか?またその開き方は?",
    "description":"TGC Terragen Node Clip ファイル形式と,INK ファイルを作成して開くことができる API について説明します。",
-"リンクタイトル":"TGC",
+"linktitle":"TGC",
    "menu":{
       "docs":{
          "identifier":"data-tgc",
-"parent":"データ"
+"parent": "data"
 }
 },
 "lastmod":"2023-11-09"

@@ -16,11 +16,11 @@
 "toc": true,
 "title": "USR ファイル形式 - Lowrance GPS データ ファイル",
   "description":"USR ファイルを作成して開くことができる USR 形式と API について学びます。",
-"リンクタイトル": "USR",
+"linktitle": "USR",
   "menu": {
     "docs": {
       "identifier": "gis-usr",
-"parent": "ギス"
+"parent": "gis"
 }
 },
 "lastmod": "2023-08-03"

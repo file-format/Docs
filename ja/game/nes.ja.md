@@ -16,11 +16,11 @@
 "toc": true,
 "title": "NES ファイル形式 - Nintendo Entertainment System ROM ファイル",
   "description":"NES 形式と,NES ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "ファミコン",
+"linktitle": "NES",
   "menu": {
     "docs": {
       "identifier": "game-nes",
-"parent": "ゲーム"
+"parent": "game"
 }
 },
 "lastmod": "2023-05-29"

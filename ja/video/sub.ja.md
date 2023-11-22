@@ -19,11 +19,11 @@
 "toc": true,
 "title": "SUB ファイル形式 - MicroDVD 字幕ファイル",
   "description":"SUB 形式と,SUB ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "サブ",
+"linktitle": "SUB",
   "menu": {
     "docs": {
       "identifier": "video-sub",
-"parent": "ビデオ"
+"parent": "video"
 }
 },
 "lastmod": "2023-06-21"

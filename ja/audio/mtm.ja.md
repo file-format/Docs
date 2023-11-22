@@ -15,11 +15,11 @@
 "toc": true,
 "title": "MTM ファイル形式 - MultiTracker モジュール",
   "description":"MTM ファイル形式と,MTM ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "MTM",
+"linktitle": "MTM",
   "menu": {
     "docs": {
       "identifier": "audio-mtm",
-"parent": "オーディオ"
+"parent": "audio"
 }
 },
 "lastmod": "2023-02-15"

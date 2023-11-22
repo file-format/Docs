@@ -15,11 +15,11 @@
 "toc": true,
 "title": "ACO ファイル形式 - Adobe Photoshop カラー スウォッチ ファイル",
   "description":"ACO 形式と,ACO ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "ACO",
+"linktitle": "ACO",
   "menu": {
     "docs": {
       "identifier": "settings-aco",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-04-28"

@@ -16,11 +16,11 @@
 "toc": true,
 "title": "APM ファイル形式 - Aldus 配置可能なメタファイル イメージ",
   "description":"APM 形式と,APM ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "APM",
+"linktitle": "APM",
   "menu": {
     "docs": {
       "identifier": "image-apm",
-"parent": "画像"
+"parent": "image"
 }
 },
 "lastmod": "2023-05-04"

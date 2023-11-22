@@ -14,11 +14,11 @@
 "toc": true,
 "title": "IPSW ファイル形式 - iPhone ソフトウェア アップデート ファイル",
   "description":"IPSW 形式と,IPSW ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "IPSW",
+"linktitle": "IPSW",
   "menu": {
     "docs": {
       "identifier": "misc-ipsw",
-"parent": "その他"
+"parent": "misc"
 }
 },
 "lastmod": "2023-04-17"

@@ -17,11 +17,11 @@
 "toc": true,
 "title": "RMD ファイル形式 - R マークダウン ファイル",
   "description":"RMD 形式と,RMD ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "RMD",
+"linktitle": "RMD",
   "menu": {
     "docs": {
       "identifier": "word-processing-rmd",
-"parent": "ワードプロセッサ"
+"parent": "word-processing"
 }
 },
 "lastmod": "2023-06-22"

@@ -15,11 +15,11 @@
 "toc": true,
 "title": "OBI ファイル形式 - Outlook RSS 購読ファイル",
   "description":"OBI 形式と,OBI ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "帯",
+"linktitle": "OBI",
   "menu": {
     "docs": {
       "identifier": "settings-obi",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-05-02"

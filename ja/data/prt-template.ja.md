@@ -17,11 +17,11 @@
 "toc": true,
 "title":"PRT ファイル - プレゼンテーション テンプレート - .prt ファイルとは何ですか?また,その開き方は?",
    "description":"PRT プレゼンテーション テンプレートのファイル形式と,PRT ファイルを作成して開くことができる API について説明します。",
-"リンクタイトル":"PRT",
+"linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"data-prt-template",
-"parent":"データ"
+"parent": "data"
 }
 },
 "lastmod":"2023-10-18"

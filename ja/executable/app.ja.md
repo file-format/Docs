@@ -15,11 +15,11 @@
 "toc": true,
   "description":"APP ファイル形式と,APP ファイルを作成して開くことができる API について説明します。",
 "title": "APP ファイル形式 - macOS アプリケーション バンドル",
-"リンクタイトル": "アプリ",
+"linktitle": "APP",
   "menu": {
     "docs": {
       "identifier": "executable-app",
-"parent": "実行可能ファイル"
+"parent": "executable"
 }
 },
 "lastmod": "2023-02-02"

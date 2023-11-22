@@ -15,11 +15,11 @@
 "toc": true,
 "title": "EC3 ファイル形式 - 拡張オーディオ コーデック 3 ファイル",
   "description":"EC3 ファイル形式と,EC3 ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "EC3",
+"linktitle": "EC3",
   "menu": {
     "docs": {
       "identifier": "audio-ec3",
-"parent": "オーディオ"
+"parent": "audio"
 }
 },
 "lastmod": "2023-02-15"

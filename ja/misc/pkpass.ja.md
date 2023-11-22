@@ -16,11 +16,11 @@
 "toc": true,
 "title": "PKPASS ファイル形式 - Apple Wallet Pass",
   "description":"PKPASS 形式と,PKPASS ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "PKPASS",
+"linktitle": "PKPASS",
   "menu": {
     "docs": {
       "identifier": "misc-pkpass",
-"parent": "その他"
+"parent": "misc"
 }
 },
 "lastmod": "2023-04-06"

@@ -14,11 +14,11 @@
 "toc": true,
 "title": "ISN ファイル形式 - インストーラー ソース ファイル",
   "description":"ISN ファイルを作成して開くことができる ISN 形式と API について学びます。",
-"リンクタイトル": "ISN",
+"linktitle": "ISN",
   "menu": {
     "docs": {
       "identifier": "misc-isn",
-"parent": "その他"
+"parent": "misc"
 }
 },
 "lastmod": "2023-04-20"

@@ -17,11 +17,11 @@
 "toc": true,
 "title":"INK ファイル - Pantone リファレンス - .ink ファイルとは何ですか?そしてその開き方は?",
    "description":"INK Pantone リファレンス ファイル形式と,INK ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル":"インク",
+"linktitle":"INK",
    "menu":{
       "docs":{
          "identifier":"image-ink",
-"parent":"画像"
+"parent":"image"
 }
 },
 "lastmod":"2023-11-09"

@@ -15,11 +15,11 @@
 "toc": true,
   "description":"XAP ファイル形式と,XAP ファイルを作成して開くことができる API について説明します。",
 "title": "XAP ファイル形式 - Silverlight アプリケーション パッケージ",
-"リンクタイトル": "XAP",
+"linktitle": "XAP",
   "menu": {
     "docs": {
       "identifier": "executable-xap",
-"parent": "実行可能ファイル"
+"parent": "executable"
 }
 },
 "lastmod": "2023-02-01"

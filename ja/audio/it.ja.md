@@ -16,11 +16,11 @@
 "toc": true,
 "title": "IT ファイル形式 - インパルス トラッカー モジュール",
   "description":"IT ファイルを作成して開くことができる IT 形式と API について学びます。",
-"リンクタイトル": "IT",
+"linktitle": "IT",
   "menu": {
     "docs": {
       "identifier": "audio-it",
-"parent": "オーディオ"
+"parent": "audio"
 }
 },
 "lastmod": "2023-06-15"

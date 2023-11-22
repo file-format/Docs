@@ -16,11 +16,11 @@
 "toc": true,
 "title": "MPEG ファイル形式 - MPEG ビデオ",
   "description":"MPEG 形式と,MPEG ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "MPEG",
+"linktitle": "MPEG",
   "menu": {
     "docs": {
       "identifier": "video-mpeg",
-"parent": "ビデオ"
+"parent": "video"
 }
 },
 "lastmod": "2023-07-12"

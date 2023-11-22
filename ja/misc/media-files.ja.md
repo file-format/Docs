@@ -15,11 +15,11 @@
 "toc": true,
 "title": "メディア ファイルとは何ですか? 種類,形式,およびデジタル通信への影響",
   "description":"メディア ファイル,その種類,形式,デジタル通信への影響について学びます。",
-"linktitle": "メディア ファイル",
+"linktitle": "MEDIA FILES",
   "menu": {
     "docs": {
       "identifier": "misc-media-files",
-"parent": "その他"
+"parent": "misc"
 }
 },
 "lastmod": "2023-06-19"

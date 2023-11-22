@@ -17,11 +17,11 @@
 "toc": true,
 "title": "META ファイル形式 - 既存のメタデータ ファイル",
   "description":"META 形式と,META ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "メタ",
+"linktitle": "META",
   "menu": {
     "docs": {
       "identifier": "game-meta",
-"parent": "ゲーム"
+"parent": "game"
 }
 },
 "lastmod": "2023-06-21"

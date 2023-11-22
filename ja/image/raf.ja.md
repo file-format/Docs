@@ -17,11 +17,11 @@
 "toc": true,
 "title": "RAF ファイル形式 - 富士フイルム RAW 画像",
   "description":"RAF ファイルを作成して開くことができる RAF 形式と API について学びます。",
-"リンクタイトル": "RAF",
+"linktitle": "RAF",
   "menu": {
     "docs": {
       "identifier": "image-raf",
-"parent": "画像"
+"parent": "image"
 }
 },
 "lastmod": "2023-06-15"

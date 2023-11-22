@@ -16,11 +16,11 @@
 "toc": true,
 "title": "LDB ファイル形式 - Microsoft Access ロック ファイル",
   "description":"LDB 形式とそれに含まれる情報について学びます。",
-"リンクタイトル": "LDB",
+"linktitle": "LDB",
   "menu": {
     "docs": {
       "identifier": "misc-ldb",
-"parent": "その他"
+"parent": "misc"
 }
 },
 "lastmod": "2023-04-20"

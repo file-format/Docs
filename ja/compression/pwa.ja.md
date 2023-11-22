@@ -15,11 +15,11 @@
 "toc": true,
 "title": "PWA ファイル形式 - パスワード エージェント ファイル",
   "description":"PWA 形式と,PWA ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "PWA",
+"linktitle": "PWA",
   "menu": {
     "docs": {
       "identifier": "compression-pwa",
-"parent": "圧縮"
+"parent": "compression"
 }
 },
 "lastmod": "2023-05-24"

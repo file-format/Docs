@@ -16,11 +16,11 @@
 "toc": true,
 "title": "MCPACK ファイル形式 - Minecraft Bedrock Edition アドオン",
   "description":"MCPACK 形式と,MCPACK ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "MCPACK",
+"linktitle": "MCPACK",
   "menu": {
     "docs": {
       "identifier": "game-mcpack",
-"parent": "ゲーム"
+"parent": "game"
 }
 },
 "lastmod": "2023-04-04"

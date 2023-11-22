@@ -14,11 +14,11 @@
 "toc": true,
 "title": "HTT ファイル形式 - ハイパーテキスト テンプレート",
   "description":"HTT 形式と,HTT ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "HTT",
+"linktitle": "HTT",
   "menu": {
     "docs": {
       "identifier": "system-htt",
-"parent": "システム"
+"parent": "system"
 }
 },
 "lastmod": "2023-03-09"

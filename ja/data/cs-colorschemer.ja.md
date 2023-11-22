@@ -17,11 +17,11 @@
 "toc": true,
 "title": "CS ファイル - ColorSchemer Studio カラー スキーム - .cs ファイルとは何ですか?また,その開き方は?",
   "description":"CS ColorSchemer Studio カラー スキーム形式と,CS ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "CS",
+"linktitle": "CS",
   "menu": {
     "docs": {
       "identifier": "data-cs-colorschemer",
-"parent": "データ"
+"parent": "data"
 }
 },
 "lastmod": "2023-10-04"

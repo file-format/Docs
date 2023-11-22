@@ -17,11 +17,11 @@
 "toc": true,
 "title": "ARW ファイル形式 - Sony Alpha Raw デジタル カメラ画像",
   "description":"ARW 形式と,ARW ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "ARW",
+"linktitle": "ARW",
   "menu": {
     "docs": {
       "identifier": "image-arw",
-"parent": "画像"
+"parent": "image"
 }
 },
 "lastmod": "2023-06-15"

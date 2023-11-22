@@ -16,11 +16,11 @@
 "toc": true,
 "title":"BPS ファイル形式 - BPS パッチ ファイル",
    "description":"BPS 形式と,BPS ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル":"BPS",
+"linktitle":"BPS",
    "menu":{
       "docs":{
          "identifier":"game-bps",
-"parent":"ゲーム"
+"parent": "game"
 }
 },
 "lastmod":"2023-09-21"

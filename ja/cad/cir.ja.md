@@ -15,11 +15,11 @@
 "toc": true,
 "title": "CIR ファイル形式 - マイクロキャップ回路図ファイル",
   "description":"CIR ファイル形式と,CIR ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "CIR",
+"linktitle": "CIR",
   "menu": {
     "docs": {
       "identifier": "cad-cir",
-"parent": "CAD"
+"parent": "cad"
 }
 },
 "lastmod": "2023-02-22"

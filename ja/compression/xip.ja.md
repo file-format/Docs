@@ -17,11 +17,11 @@
 "toc": true,
 "title": "XIP ファイル形式 - MacOS 署名付きアーカイブ",
   "description":"XIP 形式と,XIP ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "XIP",
+"linktitle": "XIP",
   "menu": {
     "docs": {
       "identifier": "compression-xip",
-"parent": "圧縮"
+"parent": "compression"
 }
 },
 "lastmod": "2023-05-24"

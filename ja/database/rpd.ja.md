@@ -16,11 +16,11 @@
 "toc": true,
 "title": "RPD ファイル形式 - RIB プロジェクト データベース ファイル",
   "description":"RPD 形式と,RPD ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "RPD",
+"linktitle": "RPD",
   "menu": {
     "docs": {
       "identifier": "database-rpd",
-"parent": "データベース"
+"parent": "database"
 }
 },
 "lastmod": "2023-09-05"

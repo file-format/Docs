@@ -17,11 +17,11 @@
 "toc": true,
 "title": "NSP ファイル形式 - 任天堂提出パッケージ",
   "description":"NSP 形式と,NSP ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "NSP",
+"linktitle": "NSP",
   "menu": {
     "docs": {
       "identifier": "game-nsp",
-"parent": "ゲーム"
+"parent": "game"
 }
 },
 "lastmod": "2023-06-05"

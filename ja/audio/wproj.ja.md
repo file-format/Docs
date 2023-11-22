@@ -15,11 +15,11 @@
 "toc": true,
 "title": "WPROJ ファイル形式 - Wwise プロジェクト ファイル",
   "description":"WPROJ ファイル形式と,WPROJ ファイルを作成して開くことができる API について説明します。",
-"リンクタイトル": "WPROJ",
+"linktitle": "WPROJ",
   "menu": {
     "docs": {
       "identifier": "audio-wproj",
-"parent": "オーディオ"
+"parent": "audio"
 }
 },
 "lastmod": "2023-02-17"

@@ -16,11 +16,11 @@
 "toc": true,
 "title": "PAN ファイル形式 - パノラマ データベース ファイル",
   "description":"PAN ファイルを作成して開くことができる PAN 形式と API について学びます。",
-"リンクタイトル": "PAN",
+"linktitle": "PAN",
   "menu": {
     "docs": {
       "identifier": "database-pan",
-"parent": "データベース"
+"parent": "database"
 }
 },
 "lastmod": "2023-05-18"

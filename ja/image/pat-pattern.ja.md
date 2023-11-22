@@ -17,11 +17,11 @@
 "toc": true,
 "title":"PAT ファイル形式 - パターン ファイル",
    "description":"PAT パターン ファイル形式と,PAT ファイルを作成して開くことができる API について説明します。",
-"linktitle":"PAT パターン",
+"linktitle":"PAT Pattern",
    "menu":{
       "docs":{
          "identifier":"image-pat-pattern",
-"parent":"画像"
+"parent":"image"
 }
 },
 "lastmod":"2023-11-01"

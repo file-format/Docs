@@ -16,7 +16,7 @@
 "toc": true,
 "title": "EXP ファイル形式 - シンボル エクスポート ファイル",
   "description":"EXP 形式と,EXP ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "経験値",
+"linktitle": "経験値",
   "menu": {
     "docs": {
       "identifier": "programming-exp",

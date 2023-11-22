@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BMS ファイル形式 - QuickBMS スクリプト",
   "description":"BMS 形式と,BMS ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "BMS",
+"linktitle": "BMS",
   "menu": {
     "docs": {
       "identifier": "executable-bms",
-"parent": "実行可能ファイル"
+"parent": "executable"
 }
 },
 "lastmod": "2023-05-08"

@@ -15,11 +15,11 @@
 "toc": true,
 "title": "FLP ファイル形式 - FL Studio プロジェクト ファイル",
   "description":"FLP ファイル形式と,FLP ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "FLP",
+"linktitle": "FLP",
   "menu": {
     "docs": {
       "identifier": "audio-flp",
-"parent": "オーディオ"
+"parent": "audio"
 }
 },
 "lastmod": "2023-02-14"

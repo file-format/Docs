@@ -15,11 +15,11 @@
 "toc": true,
 "title": "GSHEET ファイル形式 - Google スプレッドシートのショートカット",
   "description":"GSHEET ファイル形式と,GSHEET ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "Gシート",
+"linktitle": "GSHEET",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-gsheet",
-"parent": "スプレッドシート"
+"parent": "spreadsheet"
 }
 },
 "lastmod": "2023-02-28"

@@ -17,11 +17,11 @@
 "toc": true,
 "title": "CBZ ファイル - ChessBase データベース アーカイブ - .cbz ファイルとは何ですか? 開く方法は?",
   "description":"CBZ ChessBase 暗号化データベース アーカイブ形式と,CBZ ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "CBZ",
+"linktitle": "CBZ",
   "menu": {
     "docs": {
       "identifier": "data-cbz-chessbase",
-"parent": "データ"
+"parent": "data"
 }
 },
 "lastmod": "2023-10-04"

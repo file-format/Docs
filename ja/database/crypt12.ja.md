@@ -14,11 +14,11 @@
 "toc": true,
 "title": "CRYPT12 ファイル形式 - WhatsApp 暗号化データベース ファイル",
   "description":"CRYPT12 形式と,CRYPT12 ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "CRYPT12",
+"linktitle": "CRYPT12",
   "menu": {
     "docs": {
       "identifier": "database-crypt12",
-"parent": "データベース"
+"parent": "database"
 }
 },
 "lastmod": "2023-03-14"

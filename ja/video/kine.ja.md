@@ -15,11 +15,11 @@
 "toc": true,
 "title": "KINE ファイル形式 - KineMaster プロジェクト ファイル",
   "description":"KINE ファイル形式と,KINE ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "KINE",
+"linktitle": "KINE",
   "menu": {
     "docs": {
       "identifier": "video-kine",
-"parent": "ビデオ"
+"parent": "video"
 }
 },
 "lastmod": "2023-02-09"

@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAK ファイル形式 - Microsoft SQL Server データベースのバックアップ",
   "description":"BAK SQL Server バックアップ形式と,BAK ファイルを作成して開くことができる API について説明します。",
-"linktitle": "BAK SQL サーバー",
+"linktitle": "BAK SQL Server",
   "menu": {
     "docs": {
       "identifier": "database-bak-sqlserver",
-"parent": "データベース"
+"parent": "database"
 }
 },
 "lastmod": "2023-06-12"

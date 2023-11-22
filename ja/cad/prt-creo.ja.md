@@ -17,11 +17,11 @@
 "toc": true,
 "title":"PRT ファイル形式 - Creo Parametric 部品",
    "description":"PRT Creo Parametric Part ファイル形式と,PRT ファイルを作成して開くことができる API について説明します。",
-"リンクタイトル":"PRT",
+"linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"cad-prt-creo",
-"parent":"CAD"
+"parent":"cad"
 }
 },
 "lastmod":"2023-10-18"

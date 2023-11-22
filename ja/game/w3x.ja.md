@@ -18,11 +18,11 @@
 "toc": true,
 "title": "W3X ファイル形式 - Warcraft 3 拡張マップ ファイル",
   "description":"W3X 形式と,W3X ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "W3X",
+"linktitle": "W3X",
   "menu": {
     "docs": {
       "identifier": "game-w3x",
-"parent": "ゲーム"
+"parent": "game"
 }
 },
 "lastmod": "2023-04-13"

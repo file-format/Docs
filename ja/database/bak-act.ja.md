@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAK ファイル形式 - Act! データベース バックアップ",
   "description":"BAK Act について学びましょう! BAK ファイルを作成して開くことができるバックアップ形式と API。",
-"linktitle": "BAK ACT バックアップ",
+"linktitle": "BAK ACT Backup",
   "menu": {
     "docs": {
       "identifier": "database-bak-act",
-"parent": "データベース"
+"parent": "database"
 }
 },
 "lastmod": "2023-06-12"

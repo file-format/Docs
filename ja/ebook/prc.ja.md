@@ -15,11 +15,11 @@
 "toc": true,
 "title": "PRC ファイル形式 - Mobipocket 電子書籍ファイル",
   "description":"PRC ファイルを作成して開くことができる PRC 形式と API について学びます。",
-"リンクタイトル": "中国",
+"linktitle": "PRC",
   "menu": {
     "docs": {
       "identifier": "ebook-prc",
-"parent": "電子ブック"
+"parent": "ebook"
 }
 },
 "lastmod": "2023-03-02"

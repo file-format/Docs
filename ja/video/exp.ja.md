@@ -15,11 +15,11 @@
 "toc": true,
 "title": "EXP ファイル形式 - DX シリーズ エクスポートされたビデオ ファイル",
   "description":"EXP 形式と,EXP ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "経験値",
+"linktitle": "EXP",
   "menu": {
     "docs": {
       "identifier": "video-exp",
-"parent": "ビデオ"
+"parent": "video"
 }
 },
 "lastmod": "2023-07-13"

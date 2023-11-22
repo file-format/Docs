@@ -15,11 +15,11 @@
 "toc": true,
 "title": "SF2 ファイル形式 - サウンドフォント 2 サウンド バンク",
   "description":"SF2 ファイル形式と,SF2 ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "SF2",
+"linktitle": "SF2",
   "menu": {
     "docs": {
       "identifier": "audio-sf2",
-"parent": "オーディオ"
+"parent": "audio"
 }
 },
 "lastmod": "2023-02-14"

@@ -17,11 +17,11 @@
 "toc": true,
 "title": "RPD ファイル形式 - ロールプレイ デザイナー データ ファイル",
   "description":"RPD ロールプレイ デザイナーのデータ ファイル形式と,RPD ファイルを作成して開くことができる API について学びます。",
-"linktitle": "RPD ロールプレイ",
+"linktitle": "RPD Roleplay",
   "menu": {
     "docs": {
       "identifier": "database-rpd-roleplay",
-"parent": "データベース"
+"parent": "database"
 }
 },
 "lastmod": "2023-04-27"

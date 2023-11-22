@@ -16,7 +16,7 @@
 "toc": true,
 "title": "CSX ファイル形式 - Visual C# スクリプト",
   "description":"CSX 形式と,CSX ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "CSX",
+"linktitle": "CSX",
   "menu": {
     "docs": {
       "identifier": "programming-csx",

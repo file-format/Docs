@@ -17,11 +17,11 @@
 "toc": true,
 "title": "PC3 ファイル形式 - AutoCAD プロッタ設定ファイル",
   "description":"PC3 形式と,PC3 ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "PC3",
+"linktitle": "PC3",
   "menu": {
     "docs": {
       "identifier": "cad-pc3",
-"parent": "CAD"
+"parent": "cad"
 }
 },
 "lastmod": "2023-05-09"

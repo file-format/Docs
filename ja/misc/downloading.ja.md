@@ -15,11 +15,11 @@
 "toc": true,
 "title": "ダウンロード ファイル形式 - Pando 不完全なダウンロード ファイル",
   "description":"DOWNLOADING 形式と,DOWNLOADING ファイルを作成して開くことができる API について学びます。",
-"linktitle": "ダウンロード中",
+"linktitle": "DOWNLOADING",
   "menu": {
     "docs": {
       "identifier": "misc-downloading",
-"parent": "その他"
+"parent": "misc"
 }
 },
 "lastmod": "2023-04-18"

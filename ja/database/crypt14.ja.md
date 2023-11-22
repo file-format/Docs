@@ -14,11 +14,11 @@
 "toc": true,
 "title": "CRYPT14 ファイル形式 - WhatsApp 暗号化データベース ファイル",
   "description":"CRYPT14 形式と,CRYPT14 ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "CRYPT14",
+"linktitle": "CRYPT14",
   "menu": {
     "docs": {
       "identifier": "database-crypt14",
-"parent": "データベース"
+"parent": "database"
 }
 },
 "lastmod": "2023-03-14"

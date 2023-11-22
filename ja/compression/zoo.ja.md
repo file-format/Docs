@@ -17,11 +17,11 @@
 "toc": true,
 "title":"ZOO ファイル - .zoo ファイルとは何ですか?またその開き方は?",
    "description":"ZOO 圧縮ファイル形式と,ZOO ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル":"動物園",
+"linktitle":"ZOO",
    "menu":{
       "docs":{
          "identifier":"compression-zoo",
-"parent":"圧縮"
+"parent":"compression"
 }
 },
 "lastmod":"2023-11-09"

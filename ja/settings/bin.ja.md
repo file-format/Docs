@@ -17,11 +17,11 @@
 "toc": true,
 "title":"BIN ファイル形式 - BlackBerry IT ポリシー ファイル",
    "description":"BIN 形式と,BIN ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル":"BIN",
+"linktitle":"BIN",
    "menu":{
       "docs":{
          "identifier":"settings-bin",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod":"2023-07-20"

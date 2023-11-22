@@ -17,11 +17,11 @@
 "toc": true,
 "title": "MSCZ ファイル形式 - MuseScore 圧縮スコア ファイル",
   "description":"MSCZ 形式と,MSCZ ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "MSCZ",
+"linktitle": "MSCZ",
   "menu": {
     "docs": {
       "identifier": "audio-mscz",
-"parent": "オーディオ"
+"parent": "audio"
 }
 },
 "lastmod": "2023-06-05"

@@ -15,11 +15,11 @@
 "toc": true,
 "title": "BDC ファイル形式 - West Point Bridge Designer 設計ファイル",
   "description":"BDC ファイル形式と,BDC ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "BDC",
+"linktitle": "BDC",
   "menu": {
     "docs": {
       "identifier": "cad-bdc",
-"parent": "CAD"
+"parent": "cad"
 }
 },
 "lastmod": "2023-02-21"

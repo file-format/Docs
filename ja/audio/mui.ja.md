@@ -15,11 +15,11 @@
 "toc": true,
 "title": "MUI ファイル形式 - 無数のユーザー インストゥルメント ファイル",
   "description":"MUI ファイル形式と,MUI ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "MUI",
+"linktitle": "MUI",
   "menu": {
     "docs": {
       "identifier": "audio-mui",
-"parent": "オーディオ"
+"parent": "audio"
 }
 },
 "lastmod": "2023-02-14"

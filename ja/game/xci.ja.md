@@ -17,11 +17,11 @@
 "toc": true,
 "title":"XCI ファイル - .xci ファイルとは何ですか?またその開き方は?",
    "description":"XCI NX カード イメージ ファイル形式と,XCI ファイルを作成して開くことができる API について説明します。",
-"リンクタイトル":"XCI",
+"linktitle":"XCI",
    "menu":{
       "docs":{
          "identifier":"game-xci",
-"parent":"ゲーム"
+"parent": "game"
 }
 },
 "lastmod":"2023-11-09"

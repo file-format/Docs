@@ -17,11 +17,11 @@
 "toc": true,
 "title": "NOMEDIA ファイル形式 - Android メディア ファイルなし",
   "description":"NOMEDIA 形式と,NOMEDIA ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "ノーメディア",
+"linktitle": "NOMEDIA",
   "menu": {
     "docs": {
       "identifier": "misc-nomedia",
-"parent": "その他"
+"parent": "misc"
 }
 },
 "lastmod": "2023-04-06"

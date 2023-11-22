@@ -14,11 +14,11 @@
 "toc": true,
 "title": "REG ファイル形式 - Windows レジストリ ファイル",
   "description":"REG 形式と,REG ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "REG",
+"linktitle": "REG",
   "menu": {
     "docs": {
       "identifier": "system-reg",
-"parent": "システム"
+"parent": "system"
 }
 },
 "lastmod": "2023-03-07"

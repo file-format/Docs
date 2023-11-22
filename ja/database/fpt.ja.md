@@ -16,11 +16,11 @@
 "toc": true,
 "title": "FPT ファイル形式 - FileMaker Pro データベース メモ ファイル",
   "description":"FPT 形式と,FPT ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "FPT",
+"linktitle": "FPT",
   "menu": {
     "docs": {
       "identifier": "database-fpt",
-"parent": "データベース"
+"parent": "database"
 }
 },
 "lastmod": "2023-09-05"

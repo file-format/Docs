@@ -14,11 +14,11 @@
 "toc": true,
 "title": "ASL ファイル形式 - Photoshop レイヤー スタイル",
   "description":"ASL ファイルを作成して開くことができる ASL 形式と API について学びます。",
-"リンクタイトル": "ASL",
+"linktitle": "ASL",
   "menu": {
     "docs": {
       "identifier": "settings-asl",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-04-28"

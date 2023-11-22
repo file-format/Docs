@@ -14,11 +14,11 @@
 "toc": true,
 "title": "SETTINGS ファイル形式 - Visual Studio 設定ファイル",
   "description":"SETTINGS 形式と,SETTINGS ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "設定",
+"linktitle": "SETTINGS",
   "menu": {
     "docs": {
       "identifier": "settings-settings",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-03-29"

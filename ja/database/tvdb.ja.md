@@ -17,11 +17,11 @@
 "toc": true,
 "title":"TVDB ファイル - Apple TV データベース - .tvdb ファイルとは何ですか?またその開き方は?",
    "description":"TVDB Apple TV データベースのファイル形式と,INK ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル":"TVDB",
+"linktitle":"TVDB",
    "menu":{
       "docs":{
          "identifier":"database-tvdb",
-"parent":"データベース"
+"parent":"database"
 }
 },
 "lastmod":"2023-11-09"

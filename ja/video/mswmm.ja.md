@@ -15,11 +15,11 @@
 "toc": true,
 "title": "MSWMM ファイル形式 - Windows ムービー メーカー プロジェクト",
   "description":"MSWMM ファイル形式と,MSWMM ファイルを作成して開くことができる API について説明します。",
-"リンクタイトル": "MSWMM",
+"linktitle": "MSWMM",
   "menu": {
     "docs": {
       "identifier": "video-mswmm",
-"parent": "ビデオ"
+"parent": "video"
 }
 },
 "lastmod": "2023-02-08"

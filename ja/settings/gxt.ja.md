@@ -14,11 +14,11 @@
 "toc": true,
 "title": "GXT ファイル形式 - グランド セフト オート テキスト ファイル",
   "description":"GXT 形式と,GXT ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "GXT",
+"linktitle": "GXT",
   "menu": {
     "docs": {
       "identifier": "settings-gxt",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-03-21"

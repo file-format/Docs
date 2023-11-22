@@ -14,11 +14,11 @@
 "toc": true,
 "title": "IBA ファイル形式 - Lectra 衣類デザインピースファイル",
   "description":"IBA ファイル形式と,IBA ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "IBA",
+"linktitle": "IBA",
   "menu": {
     "docs": {
       "identifier": "cad-iba",
-"parent": "CAD"
+"parent": "cad"
 }
 },
 "lastmod": "2023-02-22"

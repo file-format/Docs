@@ -14,11 +14,11 @@
 "toc": true,
   "description":"AIR ファイル形式と,AIR ファイルを作成して開くことができる API について説明します。",
 "title": "AIR ファイル形式 - Adobe AIR インストール パッケージ ファイル",
-"リンクタイトル": "AIR",
+"linktitle": "AIR",
   "menu": {
     "docs": {
       "identifier": "executable-air",
-"parent": "実行可能ファイル"
+"parent": "executable"
 }
 },
 "lastmod": "2023-02-01"

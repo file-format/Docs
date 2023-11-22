@@ -17,11 +17,11 @@
 "toc": true,
 "title": "JET ファイル形式 - ジャックボックス パーティー パックの設定",
   "description":"JET 形式と,JET ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "JET",
+"linktitle": "JET",
   "menu": {
     "docs": {
       "identifier": "settings-jet",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-09-05"

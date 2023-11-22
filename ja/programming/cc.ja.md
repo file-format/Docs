@@ -16,7 +16,7 @@
 "toc": true,
 "title": "CC ファイル形式 - C++ ソース コード ファイル",
   "description":"CC ファイルを作成して開くことができる CC 形式と API について学びます。",
-"リンクタイトル": "CC",
+"linktitle": "CC",
   "menu": {
     "docs": {
       "identifier": "programming-cc",

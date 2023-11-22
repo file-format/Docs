@@ -17,7 +17,7 @@
 "toc": true,
 "title": "HPP ファイル形式 - C++ ヘッダー ファイル",
   "description":"HPP 形式と,HPP ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "HPP",
+"linktitle": "HPP",
   "menu": {
     "docs": {
       "identifier": "programming-hpp",

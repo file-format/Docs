@@ -15,11 +15,11 @@
 "toc": true,
 "title": "WLMP ファイル形式 - Windows Live ムービー メーカー プロジェクト",
   "description":"WLMP ファイル形式と,WLMP ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "WLMP",
+"linktitle": "WLMP",
   "menu": {
     "docs": {
       "identifier": "video-wlmp",
-"parent": "ビデオ"
+"parent": "video"
 }
 },
 "lastmod": "2023-02-08"

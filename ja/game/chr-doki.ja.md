@@ -17,11 +17,11 @@
 "toc": true,
 "title":"CHR ファイル形式 - ドキドキ文芸部! キャラクターファイル",
    "description":"CHR Doki Doki Literature Club について学ぼう! CHR ファイルを作成して開くことができるキャラクター ファイル形式と API。",
-"linktitle":"CHRドキ",
+"linktitle":"CHR Doki",
    "menu":{
       "docs":{
          "identifier":"game-chr-doki",
-"parent":"ゲーム"
+"parent": "game"
 }
 },
 "lastmod":"2023-10-11"

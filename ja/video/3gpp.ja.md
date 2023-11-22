@@ -17,11 +17,11 @@
 "toc": true,
 "title": "3GPP ファイル形式 - 3GPP メディア ファイル",
   "description":"3GPP 形式と,3GPP ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "3GPP",
+"linktitle": "3GPP",
   "menu": {
     "docs": {
       "identifier": "video-3gpp",
-"parent": "ビデオ"
+"parent": "video"
 }
 },
 "lastmod": "2023-05-30"

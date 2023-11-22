@@ -15,11 +15,11 @@
 "toc": true,
 "title":"BIN ファイル形式 - MacBinary エンコードされたファイル",
    "description":"BIN 形式と,BIN ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル":"BIN",
+"linktitle":"BIN",
    "menu":{
       "docs":{
          "identifier":"compression-bin",
-"parent":"圧縮"
+"parent":"compression"
 }
 },
 "lastmod":"2023-07-20"

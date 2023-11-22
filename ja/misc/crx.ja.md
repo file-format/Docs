@@ -18,11 +18,11 @@
 "toc": true,
 "title": "CRX ファイル形式 - Google Chrome 拡張機能",
   "description":"CRX 形式と,CRX ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "CRX",
+"linktitle": "CRX",
   "menu": {
     "docs": {
       "identifier": "misc-crx",
-"parent": "その他"
+"parent": "misc"
 }
 },
 "lastmod": "2023-06-08"

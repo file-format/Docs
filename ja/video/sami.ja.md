@@ -15,11 +15,11 @@
 "toc": true,
 "title": "SAMI ファイル形式 - 字幕およびメタデータ交換ファイル",
   "description":"SAMI 形式と,SAMI ファイルを作成して開くことができる API について学びます。",
-"linktitle": "サミ",
+"linktitle": "SAMI",
   "menu": {
     "docs": {
       "identifier": "video-sami",
-"parent": "ビデオ"
+"parent": "video"
 }
 },
 "lastmod": "2023-05-16"

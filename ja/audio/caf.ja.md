@@ -17,11 +17,11 @@
 "toc": true,
 "title":"CAF ファイル形式 - コアオーディオファイル",
    "description":"CAF ファイルを作成して開くことができる CAF 形式と API について学びます。",
-"リンクタイトル":"CAF",
+"linktitle":"CAF",
    "menu":{
       "docs":{
          "identifier":"audio-caf",
-"parent":"オーディオ"
+"parent": "audio"
 }
 },
 "lastmod":"2023-10-04"

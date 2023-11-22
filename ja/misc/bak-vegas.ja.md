@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAK ファイル形式 - VEGAS ビデオ プロジェクトのバックアップ",
   "description":"BAK VEGAS ビデオ プロジェクトのバックアップ形式と,BAK ファイルを作成して開くことができる API について学びます。",
-"linktitle": "BAK VEGAS ビデオ",
+"linktitle": "BAK VEGAS Video",
   "menu": {
     "docs": {
       "identifier": "misc-bak-vegas",
-"parent": "その他"
+"parent": "misc"
 }
 },
 "lastmod": "2023-06-12"

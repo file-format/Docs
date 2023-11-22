@@ -16,11 +16,11 @@
 "toc": true,
 "title": "XEM ファイル形式 - PowerDesigner モデル定義ファイル",
   "description":"XEM 形式と,XEM ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "XEM",
+"linktitle": "XEM",
   "menu": {
     "docs": {
       "identifier": "database-xem",
-"parent": "データベース"
+"parent": "database"
 }
 },
 "lastmod": "2023-04-27"

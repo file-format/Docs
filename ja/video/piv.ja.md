@@ -15,11 +15,11 @@
 "toc": true,
 "title": "PIV ファイル形式 - ピボット アニメーター アニメーション",
   "description":"PIV ファイル形式と,PIV ファイルを作成して開くことができる API について説明します。",
-"リンクタイトル": "PIV",
+"linktitle": "PIV",
   "menu": {
     "docs": {
       "identifier": "video-piv",
-"parent": "ビデオ"
+"parent": "video"
 }
 },
 "lastmod": "2023-02-06"

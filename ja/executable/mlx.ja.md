@@ -18,11 +18,11 @@
 "toc": true,
 "title": "MLX ファイル形式 - MATLAB ライブ コード ファイル",
   "description":"MLX 形式と,MLX ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "MLX",
+"linktitle": "MLX",
   "menu": {
     "docs": {
       "identifier": "executable-mlx",
-"parent": "実行可能ファイル"
+"parent": "executable"
 }
 },
 "lastmod": "2023-05-09"

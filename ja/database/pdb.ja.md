@@ -17,11 +17,11 @@
 "toc": true,
 "title": "PDB ファイルとは何ですか? PDB ファイルを理解する: 構造生物学の重要なツール",
   "description":"PDB ファイルとは何ですか? PDB ファイルを理解する: 構造生物学の重要なツール",
-"リンクタイトル": "PDB",
+"linktitle": "PDB",
   "menu": {
     "docs": {
       "identifier": "database-pdb",
-"parent": "データベース"
+"parent": "database"
 }
 },
 "lastmod": "2023-06-26"

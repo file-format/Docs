@@ -14,11 +14,11 @@
 "toc": true,
 "title": "OPDOWNLOAD ファイル形式 - Opera 部分的にダウンロードされたファイル",
   "description":"OPDOWNLOAD 形式と,OPDOWNLOAD ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "OPダウンロード",
+"linktitle": "OPDOWNLOAD",
   "menu": {
     "docs": {
       "identifier": "web-opdownload",
-"parent": "ウェブ"
+"parent": "web"
 }
 },
 "lastmod": "2023-03-14"

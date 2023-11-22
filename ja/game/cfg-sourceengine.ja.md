@@ -17,11 +17,11 @@
 "toc": true,
 "title": "CFG ファイル形式 - ソース エンジン設定ファイル",
   "description":"CFG ソース エンジン構成ファイル形式と,CFG ファイルを作成して開くことができる API について学びます。",
-"linktitle": "CFG ソース エンジン",
+"linktitle": "CFG Source Engine",
   "menu": {
     "docs": {
       "identifier": "game-cfg-sourceengine",
-"parent": "ゲーム"
+"parent": "game"
 }
 },
 "lastmod": "2023-09-27"

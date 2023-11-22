@@ -15,11 +15,11 @@
 "toc": true,
 "title": "VEG ファイル形式 - MAGIX VEGAS ビデオ プロジェクト",
   "description":"VEG ファイル形式と,VEG ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "野菜",
+"linktitle": "VEG",
   "menu": {
     "docs": {
       "identifier": "video-veg",
-"parent": "ビデオ"
+"parent": "video"
 }
 },
 "lastmod": "2023-02-07"

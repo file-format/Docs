@@ -17,11 +17,11 @@
 "toc": true,
 "title":"CPI ファイル形式 - AVCHD ビデオ クリップ情報",
    "description":"CPI AVCHD ビデオ クリップ情報ファイル形式と,CPI ファイルを作成して開くことができる API について説明します。",
-"リンクタイトル":"CPI",
+"linktitle":"CPI",
    "menu":{
       "docs":{
          "identifier":"video-cpi",
-"parent":"ビデオ"
+"parent": "video"
 }
 },
 "lastmod":"2023-10-18"

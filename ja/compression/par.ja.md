@@ -16,11 +16,11 @@
 "toc": true,
 "title":"PAR ファイル形式 - アーカイブ インデックス ファイル",
    "description":"PAR 形式と,PAR ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル":"PAR",
+"linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"compression-par",
-"parent":"圧縮"
+"parent":"compression"
 }
 },
 "lastmod":"2023-07-18"

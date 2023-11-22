@@ -16,11 +16,11 @@
 "toc": true,
 "title": "SCWORLD ファイル形式 - Survivalcraft ワールド ファイル",
   "description":"SCWORLD ファイルを作成して開くことができる SCWORLD 形式と API について学びます。",
-"リンクタイトル": "SCWORLD",
+"linktitle": "SCWORLD",
   "menu": {
     "docs": {
       "identifier": "game-scworld",
-"parent": "ゲーム"
+"parent": "game"
 }
 },
 "lastmod": "2023-05-18"

@@ -17,11 +17,11 @@
 "toc": true,
 "title": "IPS ファイル形式 - iOS 分析データ",
   "description":"IPS 形式と,IPS ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "IPS",
+"linktitle": "IPS",
   "menu": {
     "docs": {
       "identifier": "misc-ips",
-"parent": "その他"
+"parent": "misc"
 }
 },
 "lastmod": "2023-09-21"

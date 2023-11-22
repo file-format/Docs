@@ -17,11 +17,11 @@
 "toc": true,
 "title": "MLT ファイル形式 - ショットカット プロジェクト",
   "description":"MLT Shotcut プロジェクトの形式と,MLT ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "MLT",
+"linktitle": "MLT",
   "menu": {
     "docs": {
       "identifier": "settings-mlt",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-10-04"

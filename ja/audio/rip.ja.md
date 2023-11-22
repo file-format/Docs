@@ -15,11 +15,11 @@
 "toc": true,
 "title": "RIP ファイル形式 - Hit'n'Mix オーディオ マッシュアップ ファイル",
   "description":"RIP ファイル形式と,RIP ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "安らかに",
+"linktitle": "RIP",
   "menu": {
     "docs": {
       "identifier": "audio-rip",
-"parent": "オーディオ"
+"parent": "audio"
 }
 },
 "lastmod": "2023-02-16"

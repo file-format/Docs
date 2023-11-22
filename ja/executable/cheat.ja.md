@@ -17,11 +17,11 @@
 "toc": true,
 "title": "CHEAT ファイル形式 - Navi チートシート",
   "description":"CHEAT ファイルを作成して開くことができる CHEAT 形式と API について学びます。",
-"リンクタイトル": "チート",
+"linktitle": "CHEAT",
   "menu": {
     "docs": {
       "identifier": "executable-cheat",
-"parent": "実行可能ファイル"
+"parent": "executable"
 }
 },
 "lastmod": "2023-05-10"

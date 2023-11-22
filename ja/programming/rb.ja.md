@@ -17,7 +17,7 @@
 "toc": true,
 "title": "RB ファイル形式 - Ruby ソース コード ファイル",
   "description":"RB 形式と,RB ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "RB",
+"linktitle": "RB",
   "menu": {
     "docs": {
       "identifier": "programming-rb",

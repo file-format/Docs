@@ -14,11 +14,11 @@
 "toc": true,
 "title": "CONF ファイル形式 - Unix 構成ファイル",
   "description":"CONF ファイルを作成して開くことができる CONF 形式と API について学びます。",
-"リンクタイトル": "CONF",
+"linktitle": "CONF",
   "menu": {
     "docs": {
       "identifier": "settings-conf",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-03-30"

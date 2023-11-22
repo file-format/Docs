@@ -15,11 +15,11 @@
 "toc": true,
 "title": "PMP ファイル形式 - AutoCAD プロット モデル パラメータ ファイル",
   "description":"PMP 形式と,PMP ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "PMP",
+"linktitle": "PMP",
   "menu": {
     "docs": {
       "identifier": "settings-pmp",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-03-28"

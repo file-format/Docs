@@ -17,11 +17,11 @@
 "toc": true,
 "title": "RAW ファイル形式 - RAW 画像データ",
   "description":"RAW 形式と,RAW ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "RAW",
+"linktitle": "RAW",
   "menu": {
     "docs": {
       "identifier": "image-raw",
-"parent": "画像"
+"parent": "image"
 }
 },
 "lastmod": "2023-06-15"

@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAK ファイル形式 - Finale 2012 スコアのバックアップ",
   "description":"BAK Finale 形式と,BAK ファイルを作成して開くことができる API について学びます。",
-"linktitle": "BAK フィナーレ",
+"linktitle": "BAK Finale",
   "menu": {
     "docs": {
       "identifier": "misc-bak-finale",
-"parent": "その他"
+"parent": "misc"
 }
 },
 "lastmod": "2023-06-12"

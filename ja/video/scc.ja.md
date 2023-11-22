@@ -18,11 +18,11 @@
 "toc": true,
 "title": "SCC ファイル形式 - ScreenFlow 画面録画",
   "description":"SCC 形式と,SCC ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "SCC",
+"linktitle": "SCC",
   "menu": {
     "docs": {
       "identifier": "video-scc",
-"parent": "ビデオ"
+"parent": "video"
 }
 },
 "lastmod": "2023-06-21"

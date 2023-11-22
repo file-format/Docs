@@ -15,11 +15,11 @@
 "toc": true,
 "title":"BIN ファイル形式 - Unix 実行可能ファイル",
    "description":"BIN 形式と,BIN ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル":"BIN",
+"linktitle": "BIN",
    "menu":{
       "docs":{
          "identifier":"executable-bin",
-"parent":"実行可能ファイル"
+"parent":"executable"
 }
 },
 "lastmod":"2023-07-20"

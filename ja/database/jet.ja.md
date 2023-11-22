@@ -17,11 +17,11 @@
 "toc": true,
 "title": "JET ファイル形式 - Microsoft JET データベース ファイル",
   "description":"JET 形式と,JET ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "JET",
+"linktitle": "JET",
   "menu": {
     "docs": {
       "identifier": "database-jet",
-"parent": "データベース"
+"parent": "database"
 }
 },
 "lastmod": "2023-09-05"

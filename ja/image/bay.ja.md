@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAY ファイル形式 - Casio RAW 画像",
   "description":"BAY 形式と,BAY ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "ベイ",
+"linktitle": "BAY",
   "menu": {
     "docs": {
       "identifier": "image-bay",
-"parent": "画像"
+"parent": "image"
 }
 },
 "lastmod": "2023-06-15"

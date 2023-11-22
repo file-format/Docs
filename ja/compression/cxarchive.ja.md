@@ -17,11 +17,11 @@
 "toc": true,
 "title": "CXARCHIVE ファイル形式 - CrossOver ボトル アーカイブ",
   "description":"CXARCHIVE CrossOver Bottle Archive 形式と,CXARCHIVE ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "CXARCHIVE",
+"linktitle": "CXARCHIVE",
   "menu": {
     "docs": {
       "identifier": "compression-cxarchive",
-"parent": "圧縮"
+"parent": "compression"
 }
 },
 "lastmod": "2023-10-04"

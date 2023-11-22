@@ -15,11 +15,11 @@
 "toc": true,
 "title": "SET ファイル形式 - ドキュメント ライブラリ プロパティ セット ファイル",
   "description":"SET 形式と,SET ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "設定",
+"linktitle": "SET",
   "menu": {
     "docs": {
       "identifier": "settings-set",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-03-21"

@@ -14,11 +14,11 @@
 "toc": true,
 "title": "ICNS ファイル形式 - macOS アイコン リソース",
   "description":"ICNS 形式と,ICNS ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "ICNS",
+"linktitle": "ICNS",
   "menu": {
     "docs": {
       "identifier": "system-icns",
-"parent": "システム"
+"parent": "system"
 }
 },
 "lastmod": "2023-03-08"

@@ -17,11 +17,11 @@
 "toc": true,
 "title":"VCE ファイル - Visual CertExam - .vce ファイルとは何ですか?またその開き方は?",
    "description":"VCE Visual CertExam 試験のファイル形式と,VCE ファイルを作成して開くことができる API について説明します。",
-"リンクタイトル":"VCE",
+"linktitle":"VCE",
    "menu":{
       "docs":{
          "identifier":"data-vce",
-"parent":"データ"
+"parent": "data"
 }
 },
 "lastmod":"2023-11-09"

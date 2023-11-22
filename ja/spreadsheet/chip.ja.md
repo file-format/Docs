@@ -15,11 +15,11 @@
 "toc": true,
 "title": "CHIP ファイル形式 - マイクロアレイ アノテーション ファイル",
   "description":"CHIP ファイル形式と,CHIP ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "チップ",
+"linktitle": "CHIP",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-chip",
-"parent": "スプレッドシート"
+"parent": "spreadsheet"
 }
 },
 "lastmod": "2023-03-01"

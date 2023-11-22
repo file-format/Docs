@@ -16,11 +16,11 @@
 "toc": true,
 "title":"BDMV ファイル形式 - Blu-ray ディスク映画情報ファイル",
    "description":"BDMV 形式と,BDMV ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル":"BDMV",
+"linktitle":"BDMV",
    "menu":{
       "docs":{
          "identifier":"video-bdmv",
-"parent":"ビデオ"
+"parent": "video"
 }
 },
 "lastmod":"2023-09-21"

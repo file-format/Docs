@@ -17,11 +17,11 @@
 "toc": true,
 "title": "WPS ファイル形式 - SDL Translator's Workbench プロジェクト ファイル",
   "description":"WPS 形式と,WPS ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "WPS",
+"linktitle": "WPS",
   "menu": {
     "docs": {
       "identifier": "settings-wps",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-09-21"

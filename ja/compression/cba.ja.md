@@ -17,11 +17,11 @@
 "toc": true,
 "title": "CBA ファイル形式 - コミック ブック アーカイブ",
   "description":"CBA 形式と,CBA ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "CBA",
+"linktitle": "CBA",
   "menu": {
     "docs": {
       "identifier": "compression-cba",
-"parent": "圧縮"
+"parent": "compression"
 }
 },
 "lastmod": "2023-05-24"

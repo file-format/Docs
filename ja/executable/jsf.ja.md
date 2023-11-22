@@ -16,11 +16,11 @@
 "toc": true,
 "title": "JSF ファイル形式 - Java Script コマンド ファイル",
   "description":"JSF ファイルを作成して開くことができる JSF 形式と API について学びます。",
-"リンクタイトル": "JSF",
+"linktitle": "JSF",
   "menu": {
     "docs": {
       "identifier": "executable-jsf",
-"parent": "実行可能ファイル"
+"parent": "executable"
 }
 },
 "lastmod": "2023-05-09"

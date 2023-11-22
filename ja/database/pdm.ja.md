@@ -14,11 +14,11 @@
 "toc": true,
 "title": "PDM ファイル形式 - PowerDesigner データベース ファイル",
   "description":"PDM 形式と,PDM ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "PDM",
+"linktitle": "PDM",
   "menu": {
     "docs": {
       "identifier": "database-pdm",
-"parent": "データベース"
+"parent": "database"
 }
 },
 "lastmod": "2023-04-27"

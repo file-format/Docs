@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BPS ファイル形式 - Microsoft Works ドキュメント バックアップ",
   "description":"BPS Works 形式と,BPS ファイルを作成して開くことができる API について学びます。",
-"linktitle": "BPSワークス",
+"linktitle": "BPS Works",
   "menu": {
     "docs": {
       "identifier": "misc-bps-works",
-"parent": "その他"
+"parent": "misc"
 }
 },
 "lastmod": "2023-09-21"

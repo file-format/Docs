@@ -18,11 +18,11 @@
 "toc": true,
 "title": "VMX ファイル形式 - VMware 仮想マシン構成ファイル",
   "description":"VMX 形式と,VMX ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "VMX",
+"linktitle": "VMX",
   "menu": {
     "docs": {
       "identifier": "settings-vmx",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-06-08"

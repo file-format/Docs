@@ -16,11 +16,11 @@
 "toc": true,
 "title":"CAT ファイル形式 - Windows カタログ ファイル",
    "description":"CAT ファイルを作成して開くことができる CAT 形式と API について学びます。",
-"リンクタイトル":"猫",
+"linktitle":"CAT",
    "menu":{
       "docs":{
          "identifier":"system-cat",
-"parent":"システム"
+"parent": "system"
 }
 },
 "lastmod":"2023-07-06"

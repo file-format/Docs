@@ -16,11 +16,11 @@
 "toc": true,
 "title": "EPK ファイル形式 - Eaglercraft アセット パッケージ",
   "description":"EPK 形式と,EPK ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "EPK",
+"linktitle": "EPK",
   "menu": {
     "docs": {
       "identifier": "game-epk",
-"parent": "ゲーム"
+"parent": "game"
 }
 },
 "lastmod": "2023-04-18"

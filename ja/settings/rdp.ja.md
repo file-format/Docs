@@ -16,11 +16,11 @@
 "toc": true,
 "title": "RDP ファイル形式 - リモート デスクトップ構成ファイル",
   "description":"RDP ファイルを作成して開くことができる RDP 形式と API について学びます。",
-"リンクタイトル": "RDP",
+"linktitle": "RDP",
   "menu": {
     "docs": {
       "identifier": "settings-rdp",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-05-02"

@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAK ファイル形式 - バックアップ ファイル",
   "description":"BAK バックアップ形式と,BAK ファイルを作成して開くことができる API について学びます。",
-"linktitle": "BAK バックアップ",
+"linktitle": "BAK Backup",
   "menu": {
     "docs": {
       "identifier": "misc-bak-backup",
-"parent": "その他"
+"parent": "misc"
 }
 },
 "lastmod": "2023-06-12"

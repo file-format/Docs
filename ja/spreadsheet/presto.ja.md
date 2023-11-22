@@ -15,11 +15,11 @@
 "toc": true,
 "title": "PRESTO ファイル形式 - Presto プロジェクト スプレッドシート",
   "description":"PRESTO 形式と,PRESTO ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "さきがけ",
+"linktitle": "PRESTO",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-presto",
-"parent": "スプレッドシート"
+"parent": "spreadsheet"
 }
 },
 "lastmod": "2023-03-01"

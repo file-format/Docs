@@ -17,11 +17,11 @@
 "toc": true,
 "title":"UPS ファイル形式 - UPS パッチ ファイル",
    "description":"UPS パッチ ファイルの形式と,UPS ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル":"UPS",
+"linktitle":"UPS",
    "menu":{
       "docs":{
          "identifier":"game-ups",
-"parent":"ゲーム"
+"parent": "game"
 }
 },
 "lastmod":"2023-01-04"

@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAK ファイル形式 - Chromium ブックマークのバックアップ",
   "description":"BAK Chromium ブックマーク形式と,BAK ファイルを作成して開くことができる API について学びます。",
-"linktitle": "BAK Chromium ブックマーク",
+"linktitle": "BAK Chromium Bookmarks",
   "menu": {
     "docs": {
       "identifier": "misc-bak-chromium",
-"parent": "その他"
+"parent": "misc"
 }
 },
 "lastmod": "2023-06-12"

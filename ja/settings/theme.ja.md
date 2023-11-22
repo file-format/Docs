@@ -16,11 +16,11 @@
 "toc": true,
 "title": "テーマ ファイル形式 - Microsoft Plus! デスクトップ テーマ",
   "description":"THEME 形式と,THEME ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "テーマ",
+"linktitle": "THEME",
   "menu": {
     "docs": {
       "identifier": "settings-theme",
-"parent":"設定"
+"parent":"settings"
 }
 },
 "lastmod": "2023-05-03"

@@ -16,11 +16,11 @@
 "toc": true,
 "title": "USR ファイル形式 - SmartMusic カスタム ファイル",
   "description":"USR ファイルを作成して開くことができる USR 形式と API について学びます。",
-"リンクタイトル": "USR",
+"linktitle": "USR",
   "menu": {
     "docs": {
       "identifier": "misc-usr",
-"parent": "その他"
+"parent": "misc"
 }
 },
 "lastmod": "2023-08-03"

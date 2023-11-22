@@ -17,11 +17,11 @@
 "toc": true,
 "title":"CDR ファイル形式 - Raw CD オーディオ データ",
    "description":"CDR Raw CD オーディオ データ ファイル形式と,CDR ファイルを作成して開くことができる API について説明します。",
-"リンクタイトル":"CDR",
+"linktitle":"CDR",
    "menu":{
       "docs":{
          "identifier":"audio-cdr",
-"parent":"オーディオ"
+"parent": "audio"
 }
 },
 "lastmod":"2023-10-18"

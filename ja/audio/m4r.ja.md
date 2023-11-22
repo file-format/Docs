@@ -15,11 +15,11 @@
 "toc": true,
 "title": "M4R ファイル形式 - iPhone 着信音ファイル",
   "description":"M4R ファイル形式と,M4R ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "M4R",
+"linktitle": "M4R",
   "menu": {
     "docs": {
       "identifier": "audio-m4r",
-"parent": "オーディオ"
+"parent": "audio"
 }
 },
 "lastmod": "2023-03-30"

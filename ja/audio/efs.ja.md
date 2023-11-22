@@ -15,11 +15,11 @@
 "toc": true,
 "title": "EFS ファイル形式 - Ensoniq SQ-80 ファイル",
   "description":"EFS ファイル形式と,EFS ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "EFS",
+"linktitle": "EFS",
   "menu": {
     "docs": {
       "identifier": "audio-efs",
-"parent": "オーディオ"
+"parent": "audio"
 }
 },
 "lastmod": "2023-02-16"

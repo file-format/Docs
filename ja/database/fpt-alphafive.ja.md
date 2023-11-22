@@ -18,11 +18,11 @@
 "toc": true,
 "title": "FPT ファイル形式 - アルファ 5 テーブル メモ ファイル",
   "description":"FPT Alpha Five 形式と,FPT ファイルを作成して開くことができる API について学びます。",
-"linktitle": "FPT アルファ ファイブ",
+"linktitle": "FPT Alpha Five",
   "menu": {
     "docs": {
       "identifier": "database-fpt-alphafive",
-"parent": "データベース"
+"parent": "database"
 }
 },
 "lastmod": "2023-04-27"

@@ -17,11 +17,11 @@
 "toc": true,
 "title": "CB7 ファイル形式 - Comic Book 7-Zip アーカイブ",
   "description":"CB7 形式と,CB7 ファイルを作成して開くことができる API について学びます。",
-"リンクタイトル": "CB7",
+"linktitle": "CB7",
   "menu": {
     "docs": {
       "identifier": "compression-cb7",
-"parent": "圧縮"
+"parent": "compression"
 }
 },
 "lastmod": "2023-05-24"
