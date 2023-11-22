@@ -17,11 +17,11 @@
 "toc":true,
 "title": "PAT-Dateiformat – Musterdatei",
    "description":"Erfahren Sie mehr über das PAT-Pattern-Dateiformat und die APIs, mit denen PAT-Dateien erstellt und geöffnet werden können.",
-"linktitle": "PAT-Muster",
+"linktitle": "PAT Pattern",
    "menu":{
       "docs":{
          "identifier":"image-pat-pattern",
-"parent": "Bild"
+"parent": "image"
 }
 },
 "lastmod": "2023-11-01"

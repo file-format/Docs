@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "database-jet",
-"parent": "Datenbank"
+"parent": "database"
 }
 },
 "lastmod": "05.09.2023"

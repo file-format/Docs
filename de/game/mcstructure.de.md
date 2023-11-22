@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "game-mcstructure",
-"parent": "Spiel"
+"parent": "game"
 }
 },
 "lastmod": "05.04.2023"

@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BPS-Dateiformat – Microsoft Works-Dokumentsicherung",
   "description":"Erfahren Sie mehr über das BPS Works-Format und die APIs, mit denen BPS-Dateien erstellt und geöffnet werden können.",
-"linktitle": "BPS funktioniert",
+"linktitle": "BPS Works",
   "menu": {
     "docs": {
       "identifier": "misc-bps-works",
-"parent": "Sonstiges"
+"parent": "misc"
 }
 },
 "lastmod": "21.09.2023"

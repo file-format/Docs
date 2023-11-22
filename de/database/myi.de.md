@@ -6,7 +6,7 @@ Autor:
 draft: false
 toc: true
 title: "MYI-Dateiformat"
-linktitle: "MEIN ICH"
+linktitle: "MYI"
 description: "Erfahren Sie mehr über das MYI-Dateiformat und APIs, die MYI-Dateien erstellen und öffnen können."
 menu:
   docs:

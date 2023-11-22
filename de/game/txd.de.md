@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "game-txd",
-"parent": "Spiel"
+"parent": "game"
 }
 },
 "lastmod": "03.05.2023"

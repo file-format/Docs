@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "game-cfg-wesnoth",
-"parent": "Spiel"
+"parent": "game"
 }
 },
 "lastmod": "27.09.2023"

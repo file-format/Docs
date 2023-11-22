@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-theme",
-"parent": "Einstellungen"
+"parent": "settings"
 }
 },
 "lastmod": "03.05.2023"

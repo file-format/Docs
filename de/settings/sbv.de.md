@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-sbv",
-"parent": "Einstellungen"
+"parent": "settings"
 }
 },
 "lastmod": "22.03.2023"

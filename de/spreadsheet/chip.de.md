@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "spreadsheet-chip",
-"parent": "Tabelle"
+"parent": "spreadsheet"
 }
 },
 "lastmod": "01.03.2023"

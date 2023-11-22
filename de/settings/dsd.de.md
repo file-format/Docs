@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-dsd",
-"parent": "Einstellungen"
+"parent": "settings"
 }
 },
 "lastmod": "13.04.2023"

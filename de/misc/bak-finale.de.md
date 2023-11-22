@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-bak-finale",
-"parent": "Sonstiges"
+"parent": "misc"
 }
 },
 "lastmod": "12.06.2023"

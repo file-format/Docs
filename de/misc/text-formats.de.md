@@ -12,11 +12,11 @@
 "toc": true,
 "title": "Textformate, -typen und FAQs",
   "description":"Erfahren Sie mehr über Textformate, Arten von Textformaten, Liste der Textformate und FAQs",
-"linktitle": "TEXTFORMATE",
+"linktitle": "TEXT FORMATS",
   "menu": {
     "docs": {
       "identifier": "misc-text-formats",
-"parent": "Sonstiges"
+"parent": "misc"
 }
 },
 "lastmod": "06.07.2023"

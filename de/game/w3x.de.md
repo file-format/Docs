@@ -22,7 +22,7 @@
   "menu": {
     "docs": {
       "identifier": "game-w3x",
-"parent": "Spiel"
+"parent": "game"
 }
 },
 "lastmod": "13.04.2023"

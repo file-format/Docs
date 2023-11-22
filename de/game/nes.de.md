@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "game-nes",
-"parent": "Spiel"
+"parent": "game"
 }
 },
 "lastmod": "29.05.2023"

@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "database-pdm",
-"parent": "Datenbank"
+"parent": "database"
 }
 },
 "lastmod": "27.04.2023"

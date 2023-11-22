@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "spreadsheet-wq2",
-"parent": "Tabelle"
+"parent": "spreadsheet"
 }
 },
 "lastmod": "28.02.2023"

@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "game-mcpack",
-"parent": "Spiel"
+"parent": "game"
 }
 },
 "lastmod": "04.04.2023"

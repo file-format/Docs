@@ -11,7 +11,7 @@
   "menu": {
     "docs": {
       "identifier": "compression-pzz",
-"parent": "Komprimierung"
+"parent": "compression"
 }
 },
 "lastmod": "30.10.2023"

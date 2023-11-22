@@ -22,7 +22,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-crx",
-"parent": "Sonstiges"
+"parent": "misc"
 }
 },
 "lastmod": "08.06.2023"

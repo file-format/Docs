@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "executable-xap",
-"parent": "ausführbare Datei"
+"parent": "executable"
 }
 },
 "lastmod": "01.02.2023"

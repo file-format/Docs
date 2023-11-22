@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-cfg-citrix",
-"parent": "Einstellungen"
+"parent": "settings"
 }
 },
 "lastmod": "27.09.2023"

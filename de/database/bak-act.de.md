@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "database-bak-act",
-"parent": "Datenbank"
+"parent": "database"
 }
 },
 "lastmod": "12.06.2023"

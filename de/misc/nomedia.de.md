@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-nomedia",
-"parent": "Sonstiges"
+"parent": "misc"
 }
 },
 "lastmod": "06.04.2023"

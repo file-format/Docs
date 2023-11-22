@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Dateiformat wird heruntergeladen – Pando unvollständige Download-Datei",
   "description":"Erfahren Sie mehr über das DOWNLOADING-Format und die APIs, mit denen DOWNLOADING-Dateien erstellt und geöffnet werden können.",
-"linktitle": "HERUNTERLADEN",
+"linktitle": "DOWNLOADING",
   "menu": {
     "docs": {
       "identifier": "misc-downloading",
-"parent": "Sonstiges"
+"parent": "misc"
 }
 },
 "lastmod": "2023-04-18"
