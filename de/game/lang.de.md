@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "game-lang",
-"parent": "Spiel"
+"parent": "game"
 }
 },
 "lastmod": "15.03.2023"

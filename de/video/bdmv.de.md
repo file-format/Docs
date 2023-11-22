@@ -20,7 +20,7 @@
    "menu":{
       "docs":{
          "identifier":"video-bdmv",
-"parent": "Video"
+"parent" : "video"
 }
 },
 "lastmod": "21.09.2023"

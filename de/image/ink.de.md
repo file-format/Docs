@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"image-ink",
-"parent": "Bild"
+"parent": "image"
 }
 },
 "lastmod": "09.11.2023"

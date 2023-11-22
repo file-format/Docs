@@ -14,11 +14,11 @@
 "toc": true,
 "title": "SETTINGS-Dateiformat – Visual Studio-Einstellungsdatei",
   "description":"Erfahren Sie mehr über das SETTINGS-Format und die APIs, mit denen SETTINGS-Dateien erstellt und geöffnet werden können.",
-"linktitle": "EINSTELLUNGEN",
+"linktitle": "SETTINGS",
   "menu": {
     "docs": {
       "identifier": "settings-settings",
-"parent": "Einstellungen"
+"parent": "settings"
 }
 },
 "lastmod": "29.03.2023"

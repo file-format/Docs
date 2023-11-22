@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "compression-pwa",
-"parent": "Komprimierung"
+"parent": "compression"
 }
 },
 "lastmod": "24.05.2023"

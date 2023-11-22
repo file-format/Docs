@@ -22,7 +22,7 @@
   "menu": {
     "docs": {
       "identifier": "database-fpt-alphafive",
-"parent": "Datenbank"
+"parent": "database"
 }
 },
 "lastmod": "27.04.2023"

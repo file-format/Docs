@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Was ist ein Videokonverter? Der ultimative Leitfaden für Videokonverter",
   "description":"Erfahren Sie mehr über Videokonverter, Formate, FAQs und die besten Tools",
-"linktitle": "VIDEOKONVERTER",
+"linktitle": "VIDEO CONVERTER",
   "menu": {
     "docs": {
       "identifier": "misc-video-converter",
-"parent": "Sonstiges"
+"parent": "misc"
 }
 },
 "lastmod": "03.07.2023"

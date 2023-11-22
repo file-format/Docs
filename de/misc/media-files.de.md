@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Was sind Mediendateien? Typen, Formate und ihre Auswirkungen auf die digitale Kommunikation",
   "description":"Erfahren Sie mehr über Mediendateien, ihre Typen, Formate und Auswirkungen auf die digitale Kommunikation.",
-"linktitle": "MEDIENDATEIEN",
+"linktitle": "MEDIA FILES",
   "menu": {
     "docs": {
       "identifier": "misc-media-files",
-"parent": "Sonstiges"
+"parent": "misc"
 }
 },
 "lastmod": "19.06.2023"

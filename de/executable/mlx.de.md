@@ -22,7 +22,7 @@
   "menu": {
     "docs": {
       "identifier": "executable-mlx",
-"parent": "ausführbare Datei"
+"parent": "executable"
 }
 },
 "lastmod": "09.05.2023"

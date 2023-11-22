@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "executable-app",
-"parent": "ausführbare Datei"
+"parent": "executable"
 }
 },
 "lastmod": "02.02.2023"

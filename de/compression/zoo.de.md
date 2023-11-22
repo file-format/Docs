@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"compression-zoo",
-"parent": "Komprimierung"
+"parent": "compression"
 }
 },
 "lastmod": "09.11.2023"

@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "game-cfg-sourceengine",
-"parent": "Spiel"
+"parent": "game"
 }
 },
 "lastmod": "27.09.2023"

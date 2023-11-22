@@ -7,7 +7,7 @@ draft: false
 toc: true
 description: "Erfahren Sie mehr über das RV-Dateiformat und APIs, die RV-Dateien erstellen und öffnen können."
 title: "RV-Dateiformat"
-linktitle: "Wohnmobil"
+linktitle: "RV"
 menu:
   docs:
     parent: "video"

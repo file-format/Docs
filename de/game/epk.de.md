@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "game-epk",
-"parent": "Spiel"
+"parent": "game"
 }
 },
 "lastmod": "2023-04-18"

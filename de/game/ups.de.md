@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"game-ups",
-"parent": "Spiel"
+"parent": "game"
 }
 },
 "lastmod": "04.01.2023"

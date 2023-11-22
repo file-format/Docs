@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-ldb",
-"parent": "Sonstiges"
+"parent": "misc"
 }
 },
 "lastmod": "20.04.2023"

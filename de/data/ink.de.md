@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"data-ink",
-"parent": "Daten"
+"parent": "data"
 }
 },
 "lastmod": "09.11.2023"

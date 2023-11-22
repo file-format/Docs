@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"game-shader-quake",
-"parent": "Spiel"
+"parent": "game"
 }
 },
 "lastmod": "2023-10-11"

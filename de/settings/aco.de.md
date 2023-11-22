@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-aco",
-"parent": "Einstellungen"
+"parent": "settings"
 }
 },
 "lastmod": "28.04.2023"

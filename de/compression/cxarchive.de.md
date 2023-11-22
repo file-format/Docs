@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "compression-cxarchive",
-"parent": "Komprimierung"
+"parent": "compression"
 }
 },
 "lastmod": "04.10.2023"

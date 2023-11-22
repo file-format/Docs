@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "game-pxp",
-"parent": "Spiel"
+"parent": "game"
 }
 },
 "lastmod": "05.04.2023"

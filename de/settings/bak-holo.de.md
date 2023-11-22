@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-bak-holo",
-"parent": "Einstellungen"
+"parent": "settings"
 }
 },
 "lastmod": "12.06.2023"

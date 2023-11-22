@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "compression-sqx",
-"parent": "Komprimierung"
+"parent": "compression"
 }
 },
 "lastmod": "22.05.2023"
