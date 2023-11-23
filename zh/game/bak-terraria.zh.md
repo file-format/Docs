@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK 文件格式 - 泰拉瑞亚世界或玩家备份",
   "description":"了解 BAK Terraria 游戏格式以及可以创建和打开 BAK 文件的 API。",
-"linktitle": "巴克泰拉瑞亚",
+"linktitle": "BAK TERRARIA",
   "menu": {
     "docs": {
       "identifier": "game-bak-terraria",

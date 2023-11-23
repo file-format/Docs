@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "cad-iba",
-"parent": "CAD"
+"parent": "cad"
 }
 },
 "lastmod": "2023-02-22"

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK 文件格式 - 备份文件",
   "description":"了解 BAK 备份格式以及可以创建和打开 BAK 文件的 API。",
-"linktitle": "比克备份",
+"linktitle": "BAK Backup",
   "menu": {
     "docs": {
       "identifier": "misc-bak-backup",

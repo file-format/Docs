@@ -17,7 +17,7 @@
 "toc": true,
 "title": "RAF 文件格式 - Fujifilm RAW 图像",
   "description":"了解 RAF 格式以及可以创建和打开 RAF 文件的 API。",
-"linktitle": "英国皇家空军",
+"linktitle": "RAF",
   "menu": {
     "docs": {
       "identifier": "image-raf",

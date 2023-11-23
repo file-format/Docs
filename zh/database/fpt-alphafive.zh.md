@@ -18,7 +18,7 @@
 "toc": true,
 "title": "FPT 文件格式 - 阿尔法五表备忘录文件",
   "description":"了解 FPT Alpha Five 格式以及可创建和打开 FPT 文件的 API。",
-"linktitle": "FPT 阿尔法五号",
+"linktitle": "FPT Alpha Five",
   "menu": {
     "docs": {
       "identifier": "database-fpt-alphafive",

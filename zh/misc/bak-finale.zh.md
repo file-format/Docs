@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK 文件格式 - Finale 2012 乐谱备份",
   "description":"了解 BAK Finale 格式以及可以创建和打开 BAK 文件的 API。",
-"linktitle": "比克结局",
+"linktitle": "BAK Finale",
   "menu": {
     "docs": {
       "identifier": "misc-bak-finale",

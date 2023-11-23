@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK 文件格式 - Holo Launcher 备份",
   "description":"了解 BAK Holo Launcher 备份格式以及可创建和打开 BAK 文件的 API。",
-"linktitle": "巴克霍洛",
+"linktitle": "BAK HOLO",
   "menu": {
     "docs": {
       "identifier": "settings-bak-holo",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "BLEND 文件格式 - Blender 3D 文件",
   "description":"了解 BLEND 格式以及可以创建和打开 BLEND 文件的 API。",
-"linktitle": "混合",
+"linktitle": "BLEND",
   "menu": {
     "docs": {
       "identifier": "3d-blend",

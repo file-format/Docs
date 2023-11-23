@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK 文件格式 - Microsoft SQL Server 数据库备份",
   "description":"了解 BAK SQL Server 备份格式以及可创建和打开 BAK 文件的 API。",
-"linktitle": "比克 SQL Server",
+"linktitle": "BAK SQL Server",
   "menu": {
     "docs": {
       "identifier": "database-bak-sqlserver",

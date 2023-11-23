@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CFG 文件格式 - 源引擎配置文件",
   "description":"了解 CFG 源引擎配置文件格式以及可以创建和打开 CFG 文件的 API。",
-"linktitle": "CFG 源引擎",
+"linktitle": "CFG Source Engine",
   "menu": {
     "docs": {
       "identifier": "game-cfg-sourceengine",

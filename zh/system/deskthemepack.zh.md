@@ -15,7 +15,7 @@
 "toc": true,
 "title": "DESKTHEMEPACK 文件格式 - Windows 10 桌面主题包文件",
   "description":"了解 DESKTHEMEPACK 格式以及可以创建和打开 DESKTHEMEPACK 文件的 API。",
-"linktitle": "桌面主题包",
+"linktitle": "DESKTHEMEPACK",
   "menu": {
     "docs": {
       "identifier": "system-deskthemepack",

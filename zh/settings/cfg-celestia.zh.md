@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CFG 文件格式 - Celestia 配置文件",
   "description":"了解 CFG Celestia 配置文件格式以及可以创建和打开 CFG 文件的 API。",
-"linktitle": "CFG 塞拉斯蒂娅",
+"linktitle": "CFG Celestia",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-celestia",

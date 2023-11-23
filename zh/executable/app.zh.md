@@ -15,7 +15,7 @@
 "toc": true,
   "description":"了解 APP 文件格式以及可以创建和打开 APP 文件的 API。",
 "title": "APP 文件格式 - macOS 应用程序包",
-"linktitle": "应用程序",
+"linktitle": "APP",
   "menu": {
     "docs": {
       "identifier": "executable-app",

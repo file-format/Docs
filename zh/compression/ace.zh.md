@@ -6,7 +6,7 @@ author:
 draft: false
 toc: true
 title: "ACE - WinAce 存档文件格式"
-linktitle: "高手"
+linktitle: "ACE"
 description: "了解 ACE 文件格式和可以创建和打开 ACE 文件的 API。"
 menu:
   docs:

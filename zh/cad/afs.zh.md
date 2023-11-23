@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "cad-afs",
-"parent": "CAD"
+"parent": "cad"
 }
 },
 "lastmod": "2023-02-23"

@@ -17,7 +17,7 @@
 "toc": true,
 "title":"PAT 文件格式 - 模式文件",
    "description":"了解 PAT 模式文件格式以及可以创建和打开 PAT 文件的 API。",
-"linktitle":"PAT 模式",
+"linktitle":"PAT Pattern",
    "menu":{
       "docs":{
          "identifier":"image-pat-pattern",

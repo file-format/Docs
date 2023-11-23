@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK 文件格式 - VEGAS 视频项目备份",
   "description":"了解 BAK VEGAS 视频项目备份格式以及可创建和打开 BAK 文件的 API。",
-"linktitle": "巴克维加斯视频",
+"linktitle": "BAK VEGAS Video",
   "menu": {
     "docs": {
       "identifier": "misc-bak-vegas",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "设置文件格式 - Visual Studio 设置文件",
   "description":"了解可创建和打开 SETTINGS 文件的 SETTINGS 格式和 API。",
-"linktitle": "设置",
+"linktitle": "SETTINGS",
   "menu": {
     "docs": {
       "identifier": "settings-settings",

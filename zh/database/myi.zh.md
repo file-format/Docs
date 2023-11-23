@@ -6,7 +6,7 @@ author:
 draft: false
 toc: true
 title: "MYI 文件格式"
-linktitle: "我的我"
+linktitle: "MYI"
 description: "了解 MYI 文件格式和可以创建和打开 MYI 文件的 API。"
 menu:
   docs:

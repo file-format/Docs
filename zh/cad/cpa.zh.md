@@ -15,11 +15,11 @@
 "toc": true,
 "title": "CPA 文件格式 - CADSTAR PCB 存档文件",
   "description":"了解 CPA 文件格式以及可以创建和打开 CPA 文件的 API。",
-"linktitle": "注册会计师",
+"linktitle": "CPA",
   "menu": {
     "docs": {
       "identifier": "cad-cpa",
-"parent": "CAD"
+"parent": "cad"
 }
 },
 "lastmod": "2023-02-22"

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "ISS 文件格式 - Inno 安装脚本",
   "description":"了解 ISS 格式以及可以创建和打开 ISS 文件的 API。",
-"linktitle": "国际空间站",
+"linktitle": "ISS",
   "menu": {
     "docs": {
       "identifier": "settings-iss",

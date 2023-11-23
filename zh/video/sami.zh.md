@@ -15,7 +15,7 @@
 "toc": true,
 "title": "SAMI 文件格式 - 字幕和元数据交换文件",
   "description":"了解 SAMI 格式以及可以创建和打开 SAMI 文件的 API。",
-"linktitle": "萨米",
+"linktitle": "SAMI",
   "menu": {
     "docs": {
       "identifier": "video-sami",

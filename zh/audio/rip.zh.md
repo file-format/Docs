@@ -15,7 +15,7 @@
 "toc": true,
 "title": "RIP 文件格式 - Hit'n'Mix 音频混搭文件",
   "description":"了解 RIP 文件格式以及可以创建和打开 RIP 文件的 API。",
-"linktitle": "安息吧",
+"linktitle": "RIP",
   "menu": {
     "docs": {
       "identifier": "audio-rip",

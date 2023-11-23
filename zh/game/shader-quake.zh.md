@@ -17,7 +17,7 @@
 "toc": true,
 "title":"SHADER 文件格式 - Quake 3 引擎着色器文件",
    "description":"了解 SHADER Quake 3 Engine Shader 文件格式以及可创建和打开 SHADER 文件的 API。",
-"linktitle":"SHADER 雷神之锤",
+"linktitle":"SHADER Quake",
    "menu":{
       "docs":{
          "identifier":"game-shader-quake",

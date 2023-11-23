@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CFG 文件格式 - 韦诺标记语言文件",
   "description":"了解 CFG Wesnoth 标记语言文件格式以及可创建和打开 CFG 文件的 API。",
-"linktitle": "CFG 韦诺",
+"linktitle": "CFG Wesnoth",
   "menu": {
     "docs": {
       "identifier": "game-cfg-wesnoth",

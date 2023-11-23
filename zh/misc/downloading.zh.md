@@ -15,7 +15,7 @@
 "toc": true,
 "title": "下载文件格式 - Pando 不完整下载文件",
   "description":"了解 DOWNLOADING 格式以及可以创建和打开 DOWNLOADING 文件的 API。",
-"linktitle": "下载中",
+"linktitle": "DOWNLOADING",
   "menu": {
     "docs": {
       "identifier": "misc-downloading",

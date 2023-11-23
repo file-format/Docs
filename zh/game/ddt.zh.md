@@ -16,7 +16,7 @@
 "toc": true,
 "title": "DDT 文件格式 - 足球经理游戏数据文件",
   "description":"了解 DDT 格式以及可以创建和打开 DDT 文件的 API。",
-"linktitle": "滴滴涕",
+"linktitle": "DDT",
   "menu": {
     "docs": {
       "identifier": "game-ddt",

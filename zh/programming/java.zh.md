@@ -6,7 +6,7 @@ author:
 draft: false
 toc: true
 title: "Java 文件格式"
-linktitle: "爪哇"
+linktitle: "JAVA"
 description: "了解 Java 文件格式和可以创建和打开 Java 文件的 API。"
 menu:
   docs:

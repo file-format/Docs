@@ -14,7 +14,7 @@
 "toc": true,
 "title": "OPDOWNLOAD 文件格式 - Opera 部分下载的文件",
   "description":"了解 OPDOWNLOAD 格式以及可以创建和打开 OPDOWNLOAD 文件的 API。",
-"linktitle": "OP下载",
+"linktitle": "OPDOWNLOAD",
   "menu": {
     "docs": {
       "identifier": "web-opdownload",

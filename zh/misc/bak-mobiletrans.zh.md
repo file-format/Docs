@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK 文件格式 - MobileTrans 备份",
   "description":"了解 BAK MobileTrans 格式以及可以创建和打开 BAK 文件的 API。",
-"linktitle": "比克移动翻译",
+"linktitle": "BAK MobileTrans",
   "menu": {
     "docs": {
       "identifier": "misc-bak-mobiletrans",

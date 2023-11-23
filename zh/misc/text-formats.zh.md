@@ -12,7 +12,7 @@
 "toc": true,
 "title": "文本格式,类型和常见问题解答",
   "description":"了解文本格式,文本格式类型,文本格式列表和常见问题解答",
-"linktitle": "文本格式",
+"linktitle": "TEXT FORMATS",
   "menu": {
     "docs": {
       "identifier": "misc-text-formats",

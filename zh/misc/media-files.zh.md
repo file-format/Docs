@@ -15,7 +15,7 @@
 "toc": true,
 "title": "什么是媒体文件？类型,格式及其对数字通信的影响",
   "description":"了解媒体文件,其类型,格式以及对数字通信的影响。",
-"linktitle": "媒体文件",
+"linktitle": "MEDIA FILES",
   "menu": {
     "docs": {
       "identifier": "misc-media-files",

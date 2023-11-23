@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CFG 文件格式 - MUGEN 配置文件",
   "description":"了解 CFG MUGEN 配置文件格式以及可以创建和打开 CFG 文件的 API。",
-"linktitle": "CFG MUGEN",
+"linktitle": "CFG M.U.G.E.N",
   "menu": {
     "docs": {
       "identifier": "game-cfg-mugen",

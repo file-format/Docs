@@ -6,7 +6,7 @@ author:
 draft: false
 toc: true
 title: "FLIF 文件格式"
-linktitle: "飞利浦"
+linktitle: "FLIF"
 description: "了解 FLIF 文件格式和可创建和打开 FLIF 文件的 API。"
 menu:
   docs:

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "MANIFEST 文件格式 - Windows 应用程序清单文件",
   "description":"了解可创建和打开 MANIFEST 文件的 MANIFEST 格式和 API。",
-"linktitle": "清单",
+"linktitle": "MANIFEST",
   "menu": {
     "docs": {
       "identifier": "system-manifest",

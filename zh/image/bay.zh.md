@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAY 文件格式 - 卡西欧 RAW 图像",
   "description":"了解 BAY 格式以及可以创建和打开 BAY 文件的 API。",
-"linktitle": "湾",
+"linktitle": "BAY",
   "menu": {
     "docs": {
       "identifier": "image-bay",

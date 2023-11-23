@@ -15,7 +15,7 @@
 "toc": true,
 "title": "VEG 文件格式 - MAGIX VEGAS 视频项目",
   "description":"了解 VEG 文件格式以及可以创建和打开 VEG 文件的 API。",
-"linktitle": "蔬菜",
+"linktitle": "VEG",
   "menu": {
     "docs": {
       "identifier": "video-veg",

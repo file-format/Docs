@@ -18,7 +18,7 @@
 "toc": true,
 "title": "DESKTOP 文件格式 - 桌面条目文件",
   "description":"了解可以创建和打开 DESKTOP 文件的 DESKTOP 格式和 API。",
-"linktitle": "桌面",
+"linktitle": "DESKTOP",
   "menu": {
     "docs": {
       "identifier": "settings-desktop",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Cheat 文件格式 - Navi Cheatsheet",
   "description":"了解可以创建和打开 CHEAT 文件的 CHEAT 格式和 API。",
-"linktitle": "作弊",
+"linktitle": "CHEAT",
   "menu": {
     "docs": {
       "identifier": "executable-cheat",

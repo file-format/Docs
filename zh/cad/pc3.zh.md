@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "cad-pc3",
-"parent": "CAD"
+"parent": "cad"
 }
 },
 "lastmod": "2023-05-09"

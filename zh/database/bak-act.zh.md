@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK 文件格式 - Act! 数据库备份",
   "description":"了解 BAK Act！备份格式以及可以创建和打开 BAK 文件的 API。",
-"linktitle": "BAK ACT 备份",
+"linktitle": "BAK ACT Backup",
   "menu": {
     "docs": {
       "identifier": "database-bak-act",

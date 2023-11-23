@@ -14,7 +14,7 @@
 "toc": true,
 "title": "什么是视频转换器？视频转换器终极指南",
   "description":"了解视频转换器,格式,常见问题解答和最佳工具",
-"linktitle": "视频转换器",
+"linktitle": "VIDEO CONVERTER",
   "menu": {
     "docs": {
       "identifier": "misc-video-converter",

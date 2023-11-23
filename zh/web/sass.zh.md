@@ -6,7 +6,7 @@ author:
 draft: false
 toc: true
 title: "萨斯文件格式"
-linktitle: "萨斯"
+linktitle: "SASS"
 description: "了解 Sass 文件格式和可以创建和打开 Sass 文件的 API。"
 menu:
   docs:

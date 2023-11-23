@@ -15,7 +15,7 @@
 "toc": true,
 "title": "CHIP 文件格式 - 微阵列注释文件",
   "description":"了解 CHIP 文件格式以及可以创建和打开 CHIP 文件的 API。",
-"linktitle": "芯片",
+"linktitle": "CHIP",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-chip",

@@ -6,7 +6,7 @@ author:
 draft: false
 toc: true
 title: "步骤文件格式"
-linktitle: "步"
+linktitle: "STEP"
 description: "了解可以创建和打开 STEP 文件的 STEP 文件格式和 API。"
 menu:
   docs:

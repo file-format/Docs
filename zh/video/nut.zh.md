@@ -15,7 +15,7 @@
 "toc": true,
 "title": "NUT 文件格式 - NUT 视频文件",
   "description":"了解 NUT 格式以及可以创建和打开 NUT 文件的 API。",
-"linktitle": "坚果",
+"linktitle": "NUT",
   "menu": {
     "docs": {
       "identifier": "video-nut",

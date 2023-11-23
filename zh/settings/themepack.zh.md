@@ -15,7 +15,7 @@
 "toc": true,
 "title": "THEMEPACK 文件格式 - Windows 7 主题包",
   "description":"了解 THEMEPACK 格式以及可以创建和打开 THEMEPACK 文件的 API。",
-"linktitle": "主题包",
+"linktitle": "THEMEPACK",
   "menu": {
     "docs": {
       "identifier": "settings-themepack",

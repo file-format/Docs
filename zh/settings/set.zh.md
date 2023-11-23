@@ -15,7 +15,7 @@
 "toc": true,
 "title": "SET 文件格式 - 文档库属性设置文件",
   "description":"了解 SET 格式以及可以创建和打开 SET 文件的 API。",
-"linktitle": "设置",
+"linktitle": "SET",
   "menu": {
     "docs": {
       "identifier": "settings-set",

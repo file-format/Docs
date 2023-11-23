@@ -17,7 +17,7 @@
 "toc": true,
 "title": "WPS 文件格式-金山作家文档",
   "description":"了解 WPS 金山词霸格式以及可以创建和打开 WPS 文件的 API。",
-"linktitle": "WPS 金山",
+"linktitle": "WPS Kingsoft",
   "menu": {
     "docs": {
       "identifier": "word-processing-wps-kingsoft",

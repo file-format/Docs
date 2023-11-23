@@ -17,7 +17,7 @@
 "toc": true,
 "title":"ZOO 文件 - 什么是 .zoo 文件以及如何打开它？",
    "description":"了解 ZOO 压缩文件格式以及可以创建和打开 ZOO 文件的 API。",
-"linktitle":"动物园",
+"linktitle":"ZOO",
    "menu":{
       "docs":{
          "identifier":"compression-zoo",

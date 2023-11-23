@@ -5,7 +5,7 @@ author:
 draft: false
 toc: true
 title: "PYI 文件格式 - Python 接口定义"
-linktitle: "派伊"
+linktitle: "PYI"
 description: "了解 PYI 文件格式和可创建和打开 PYI 文件的 API。"
 menu:
   docs:

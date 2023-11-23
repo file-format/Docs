@@ -15,7 +15,7 @@
 "toc": true,
 "title": "PRC 文件格式 - Mobipocket 电子书文件",
   "description":"了解 PRC 格式以及可以创建和打开 PRC 文件的 API。",
-"linktitle": "中华人民共和国",
+"linktitle": "PRC",
   "menu": {
     "docs": {
       "identifier": "ebook-prc",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BPS 文件格式 - Microsoft Works 文档备份",
   "description":"了解可创建和打开 BPS 文件的 BPS Works 格式和 API。",
-"linktitle": "BPS 工作",
+"linktitle": "BPS Works",
   "menu": {
     "docs": {
       "identifier": "misc-bps-works",

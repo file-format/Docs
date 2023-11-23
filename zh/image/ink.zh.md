@@ -17,7 +17,7 @@
 "toc": true,
 "title":"INK 文件 - Pantone 参考 - 什么是 .ink 文件以及如何打开它？",
    "description":"了解 INK Pantone 参考文件格式以及可创建和打开 INK 文件的 API。",
-"linktitle":"墨水",
+"linktitle":"INK",
    "menu":{
       "docs":{
          "identifier":"image-ink",

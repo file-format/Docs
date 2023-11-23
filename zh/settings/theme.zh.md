@@ -16,7 +16,7 @@
 "toc": true,
 "title": "主题文件格式 - Microsoft Plus!桌面主题",
   "description":"了解可以创建和打开主题文件的主题格式和 API。",
-"linktitle": "主题",
+"linktitle": "THEME",
   "menu": {
     "docs": {
       "identifier": "settings-theme",

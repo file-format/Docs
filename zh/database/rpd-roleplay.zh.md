@@ -17,7 +17,7 @@
 "toc": true,
 "title": "RPD 文件格式 - 角色扮演设计器数据文件",
   "description":"了解 RPD Roleplay Designer 数据文件格式以及可创建和打开 RPD 文件的 API。",
-"linktitle": "RPD 角色扮演",
+"linktitle": "RPD Roleplay",
   "menu": {
     "docs": {
       "identifier": "database-rpd-roleplay",

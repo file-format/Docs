@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "gis-usr",
-"parent": "GIS"
+"parent": "gis"
 }
 },
 "lastmod": "2023-08-03"

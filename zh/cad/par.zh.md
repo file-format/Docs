@@ -20,7 +20,7 @@
    "menu":{
       "docs":{
          "identifier":"cad-par",
-"parent": "CAD"
+"parent": "cad"
 }
 },
 "lastmod": "2023-07-18"

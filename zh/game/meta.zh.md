@@ -17,7 +17,7 @@
 "toc": true,
 "title": "META 文件格式 - Exient 元数据文件",
   "description":"了解 META 格式以及可以创建和打开 META 文件的 API。",
-"linktitle": "元",
+"linktitle": "META",
   "menu": {
     "docs": {
       "identifier": "game-meta",

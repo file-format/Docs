@@ -6,7 +6,7 @@ author:
 draft: false
 toc: true
 title: "每次点击费用文件格式"
-linktitle: "每次点击费用"
+linktitle: "CPC"
 description: "了解 CPC 文件格式和可创建和打开 CPC 文件的 API。"
 menu:
   docs:

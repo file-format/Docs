@@ -6,7 +6,7 @@ author:
 draft: false
 toc: true
 title: "飞镖文件格式"
-linktitle: "镖"
+linktitle: "DART"
 description: "了解 Dart 文件格式和可以创建和打开 Dart 文件的 API。"
 menu:
   docs:
