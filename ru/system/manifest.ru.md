@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Формат файла МАНИФЕСТА — файл манифеста приложения Windows",
   "description":"Узнайте о формате MANIFEST и API, с помощью которых можно создавать и открывать файлы MANIFEST.",
-"linktitle": "МАНИФЕСТ",
+"linktitle": "MANIFEST",
   "menu": {
     "docs": {
       "identifier": "system-manifest",
-"parent": "система"
+"parent": "system"
 }
 },
 "lastmod": "07.03.2023"

@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Формат IT-файла — модуль отслеживания импульсов",
   "description":"Узнайте об ИТ-формате и API-интерфейсах, с помощью которых можно создавать и открывать ИТ-файлы",
-"linktitle": "ИТ",
+"linktitle": "IT",
   "menu": {
     "docs": {
       "identifier": "audio-it",
-"parent": "аудио"
+"parent": "audio"
 }
 },
 "lastmod": "15.06.2023"

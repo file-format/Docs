@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "game-meta",
-"parent": "игра"
+"parent": "game"
 }
 },
 "lastmod": "21.06.2023"

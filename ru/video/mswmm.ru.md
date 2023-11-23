@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "video-mswmm",
-"parent": "видео"
+"parent": "video"
 }
 },
 "lastmod": "08.02.2023"

@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Формат файла OBI — файл подписки Outlook RSS",
   "description":"Узнайте о формате OBI и API, с помощью которых можно создавать и открывать файлы OBI.",
-"linktitle": "ОБИ",
+"linktitle": "OBI",
   "menu": {
     "docs": {
       "identifier": "settings-obi",
-"parent": "настройки"
+"parent": "settings"
 }
 },
 "lastmod": "2023-05-02"

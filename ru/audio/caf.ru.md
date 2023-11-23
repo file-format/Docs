@@ -17,11 +17,11 @@
 "toc": true,
 "title":"Формат файла CAF — основной аудиофайл",
    "description":"Узнайте о формате CAF и API, с помощью которых можно создавать и открывать файлы CAF.",
-"linktitle":"КАФ",
+"linktitle":"CAF",
    "menu":{
       "docs":{
          "identifier":"audio-caf",
-"родитель":"аудио"
+"parent": "audio"
 }
 },
 "lastmod":"04.10.2023"

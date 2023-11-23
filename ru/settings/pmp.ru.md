@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Формат файла PMP — файл параметров модели печати AutoCAD",
   "description":"Узнайте о формате PMP и API, с помощью которых можно создавать и открывать файлы PMP.",
-"linktitle": "ПМП",
+"linktitle": "PMP",
   "menu": {
     "docs": {
       "identifier": "settings-pmp",
-"родительский": "настройки"
+"parent": "settings"
 }
 },
 "lastmod": "28.03.2023"

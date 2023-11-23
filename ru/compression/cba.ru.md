@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Формат файла CBA — Архив комиксов",
   "description":"Узнайте о формате CBA и API, с помощью которых можно создавать и открывать файлы CBA.",
-"linktitle": "ЦБ",
+"linktitle": "CBA",
   "menu": {
     "docs": {
       "identifier": "compression-cba",
-"родительский": "сжатие"
+"parent": "compression"
 }
 },
 "lastmod": "24 мая 2023 г."

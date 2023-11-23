@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Формат файла USR — пользовательский файл SmartMusic",
   "description":"Узнайте о формате USR и API, с помощью которых можно создавать и открывать файлы USR.",
-"linktitle": "ЕГР",
+"linktitle": "USR",
   "menu": {
     "docs": {
       "identifier": "misc-usr",
-"parent": "разное"
+"parent": "misc"
 }
 },
 "lastmod": "03.08.2023"

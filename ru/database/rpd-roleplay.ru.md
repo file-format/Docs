@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Формат файла RPD — файл данных дизайнера ролевых игр",
   "description":"Узнайте о формате файла данных RPD Roleplay Designer и API-интерфейсах, которые могут создавать и открывать файлы RPD.",
-"linktitle": "Ролевая игра РПД",
+"linktitle": "RPD Roleplay",
   "menu": {
     "docs": {
       "identifier": "database-rpd-roleplay",
-"parent": "база данных"
+"parent": "database"
 }
 },
 "lastmod": "27.04.2023"

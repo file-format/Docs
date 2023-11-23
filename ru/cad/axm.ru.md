@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "cad-axm",
-"parent": "хам"
+"parent": "cad"
 }
 },
 "lastmod": "21 февраля 2023 г."

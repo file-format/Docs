@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Формат файла BAK — резервная копия Terraria World или игрока",
   "description":"Узнайте о формате игры BAK Terraria и API, с помощью которых можно создавать и открывать файлы BAK.",
-"linktitle": "БАК ТЕРРАРИЯ",
+"linktitle": "BAK TERRARIA",
   "menu": {
     "docs": {
       "identifier": "game-bak-terraria",
-"parent": "игра"
+"parent": "game"
 }
 },
 "lastmod": "12.06.2023"

@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Формат файла KINE — файл проекта KineMaster",
   "description":"Узнайте о формате файлов KINE и API, с помощью которых можно создавать и открывать файлы KINE.",
-"linktitle": "КИНЕ",
+"linktitle": "KINE",
   "menu": {
     "docs": {
       "identifier": "video-kine",
-"parent": "видео"
+"parent": "video"
 }
 },
 "lastmod": "09.02.2023"

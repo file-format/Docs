@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Формат файла BIN — файл ИТ-политики BlackBerry",
    "description":"Узнайте о формате BIN и API, с помощью которых можно создавать и открывать файлы BIN.",
-"linktitle":"БИН",
+"linktitle":"BIN",
    "menu":{
       "docs":{
          "identifier":"settings-bin",

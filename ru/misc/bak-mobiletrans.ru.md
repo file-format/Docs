@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Формат файла BAK — резервная копия MobileTrans",
   "description":"Узнайте о формате BAK MobileTrans и API, с помощью которых можно создавать и открывать файлы BAK.",
-"linktitle": "БАК MobileTrans",
+"linktitle": "BAK MobileTrans",
   "menu": {
     "docs": {
       "identifier": "misc-bak-mobiletrans",
-"parent": "разное"
+"parent": "misc"
 }
 },
 "lastmod": "12.06.2023"

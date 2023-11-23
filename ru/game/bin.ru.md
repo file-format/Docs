@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Формат файла BIN — ПЗУ игры Sega Genesis",
   "description":"Узнайте о формате BIN и API, с помощью которых можно создавать и открывать файлы BIN.",
-"linktitle": "БИН",
+"linktitle": "BIN",
   "menu": {
     "docs": {
       "identifier": "game-bin",
-"parent": "игра"
+"parent": "game"
 }
 },
 "lastmod": "16.03.2023"

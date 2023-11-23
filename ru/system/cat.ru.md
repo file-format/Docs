@@ -16,11 +16,11 @@
 "toc": true,
 "title":"Формат файла CAT — файл каталога Windows",
    "description":"Узнайте о формате CAT и API, с помощью которых можно создавать и открывать файлы CAT.",
-"linktitle":"КОТ",
+"linktitle":"CAT",
    "menu":{
       "docs":{
          "identifier":"system-cat",
-"родитель":"система"
+"parent": "system"
 }
 },
 "lastmod":"2023-07-06"

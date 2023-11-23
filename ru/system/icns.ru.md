@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Формат файла ICNS — ресурс значков macOS",
   "description":"Узнайте о формате ICNS и API, с помощью которых можно создавать и открывать файлы ICNS.",
-"linktitle": "ИКНС",
+"linktitle": "ICNS",
   "menu": {
     "docs": {
       "identifier": "system-icns",
-"parent": "система"
+"parent": "system"
 }
 },
 "lastmod": "08.03.2023"

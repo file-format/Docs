@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Формат файла NSP — пакет отправки Nintendo",
   "description":"Узнайте о формате NSP и API, с помощью которых можно создавать и открывать файлы NSP.",
-"linktitle": "НСП",
+"linktitle": "NSP",
   "menu": {
     "docs": {
       "identifier": "game-nsp",
-"parent": "игра"
+"parent": "game"
 }
 },
 "lastmod": "05.06.2023"

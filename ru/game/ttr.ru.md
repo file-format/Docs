@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "game-ttr",
-"parent": "игра"
+"parent": "game"
 }
 },
 "lastmod": "04.04.2023"

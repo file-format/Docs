@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Формат файла VEG — видеопроект MAGIX VEGAS",
   "description":"Узнайте о формате файлов VEG и API, с помощью которых можно создавать и открывать файлы VEG.",
-"linktitle": "ОВОЩИ",
+"linktitle": "VEG",
   "menu": {
     "docs": {
       "identifier": "video-veg",
-"parent": "видео"
+"parent": "video"
 }
 },
 "lastmod": "07.02.2023"

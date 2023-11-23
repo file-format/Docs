@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Формат файла PDM — файл базы данных PowerDesigner",
   "description":"Узнайте о формате PDM и API, с помощью которых можно создавать и открывать файлы PDM.",
-"linktitle": "ПДМ",
+"linktitle": "PDM",
   "menu": {
     "docs": {
       "identifier": "database-pdm",
-"parent": "база данных"
+"parent": "database"
 }
 },
 "lastmod": "27.04.2023"

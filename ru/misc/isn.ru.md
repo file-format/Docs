@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-isn",
-"parent": "разное"
+"parent": "misc"
 }
 },
 "lastmod": "20 апреля 2023 г."

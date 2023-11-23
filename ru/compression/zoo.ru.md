@@ -17,11 +17,11 @@
 "toc": true,
 "title":"Файл ZOO. Что такое файл .zoo и как его открыть?",
    "description":"Узнайте о формате файлов ZOO Compressed и API, с помощью которых можно создавать и открывать файлы ZOO.",
-"linktitle":"ЗОО",
+"linktitle":"ZOO",
    "menu":{
       "docs":{
          "identifier":"compression-zoo",
-"родитель":"сжатие"
+"parent": "compression"
 }
 },
 "lastmod":"09.11.2023"

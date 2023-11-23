@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"cad-prt-cadkey",
-"родитель":"кад"
+"parent": "cad"
 }
 },
 "lastmod":"18.10.2023"

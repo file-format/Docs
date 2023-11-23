@@ -17,11 +17,11 @@
 "toc": true,
 "title":"Формат файла PK3 — данные игры на движке Quake 3",
    "description":"Узнайте о формате файлов игровых данных движка PK3 Quake 3 и API-интерфейсах, которые могут создавать и открывать файлы PK3.",
-"linktitle":"ПК3",
+"linktitle":"PK3",
    "menu":{
       "docs":{
          "identifier":"game-pk3-quake3",
-"родитель":"игра"
+"parent": "game"
 }
 },
 "lastmod":"01.11.2023"

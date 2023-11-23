@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Формат файла SETTINGS — файл настроек Visual Studio",
   "description":"Узнайте о формате SETTINGS и API-интерфейсах, с помощью которых можно создавать и открывать файлы SETTINGS.",
-"linktitle": "НАСТРОЙКИ",
+"linktitle": "SETTINGS",
   "menu": {
     "docs": {
       "identifier": "settings-settings",
-"parent": "настройки"
+"parent": "settings"
 }
 },
 "lastmod": "29.03.2023"

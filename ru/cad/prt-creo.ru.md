@@ -17,11 +17,11 @@
 "toc": true,
 "title":"Формат файла PRT — деталь Creo Parametric",
    "description":"Узнайте о формате файла PRT Creo Parametric Part и API-интерфейсах, с помощью которых можно создавать и открывать файлы PRT.",
-"linktitle":"ПРТ",
+"linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"cad-prt-creo",
-"родитель":"кад"
+"parent": "cad"
 }
 },
 "lastmod":"18.10.2023"

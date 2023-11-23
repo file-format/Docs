@@ -18,11 +18,11 @@
 "toc": true,
 "title": "Формат файла OGV — видеофайл Ogg",
   "description":"Узнайте о формате OGV и API, с помощью которых можно создавать и открывать файлы OGV.",
-"linktitle": "ОГВ",
+"linktitle": "OGV",
   "menu": {
     "docs": {
       "identifier": "video-ogv",
-"parent": "видео"
+"parent": "video"
 }
 },
 "lastmod": "07.06.2023"

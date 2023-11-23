@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Формат файла EXP — файл экспорта символов",
   "description":"Узнайте о формате EXP и API, с помощью которых можно создавать и открывать файлы EXP.",
-"linktitle": "ОПЫТ",
+"linktitle": "EXP",
   "menu": {
     "docs": {
       "identifier": "programming-exp",
-"parent": "программирование"
+"parent": "programming"
 }
 },
 "lastmod": "12.07.2023"

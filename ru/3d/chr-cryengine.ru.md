@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"3d-chr-cryengine",
-"родитель":"3d"
+"parent":"3d"
 }
 },
 "lastmod":"11.10.2023"

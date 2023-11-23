@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "programming-csx",
-"parent": "программирование"
+"parent": "programming"
 }
 },
 "lastmod": "15.05.2023"

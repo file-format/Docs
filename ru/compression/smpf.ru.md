@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Формат файла SMPF — проект Sprite Monkey",
   "description":"Узнайте о формате SMPF и API, с помощью которых можно создавать и открывать файлы SMPF.",
-"linktitle": "СМПФ",
+"linktitle": "SMPF",
   "menu": {
     "docs": {
       "identifier": "compression-smpf",
-"родительский": "сжатие"
+"parent": "compression"
 }
 },
 "lastmod": "24 мая 2023 г."

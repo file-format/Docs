@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-ips",
-"parent": "разное"
+"parent": "misc"
 }
 },
 "lastmod": "21.09.2023"

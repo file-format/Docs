@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Формат файла BAK — Act! Резервное копирование базы данных",
   "description":"Узнайте о BAK Act! Формате резервного копирования и API, с помощью которых можно создавать и открывать файлы BAK.",
-"linktitle": "Резервное копирование BAK ACT",
+"linktitle": "BAK ACT Backup",
   "menu": {
     "docs": {
       "identifier": "database-bak-act",
-"parent": "база данных"
+"parent": "database"
 }
 },
 "lastmod": "12.06.2023"

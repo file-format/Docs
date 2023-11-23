@@ -20,7 +20,7 @@
    "menu":{
       "docs":{
          "identifier":"compression-par",
-"родитель":"сжатие"
+"parent": "compression"
 }
 },
 "lastmod":"18.07.2023"

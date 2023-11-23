@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-cnf",
-"parent": "настройки"
+"parent": "settings"
 }
 },
 "lastmod": "22 марта 2023 г."

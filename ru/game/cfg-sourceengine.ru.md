@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Формат файла CFG — файл конфигурации исходного движка",
   "description":"Узнайте о формате файла конфигурации CFG Source Engine и API-интерфейсах, которые могут создавать и открывать файлы CFG.",
-"linktitle": "Исходный движок CFG",
+"linktitle": "CFG Source Engine",
   "menu": {
     "docs": {
       "identifier": "game-cfg-sourceengine",
-"parent": "игра"
+"parent": "game"
 }
 },
 "lastmod": "27.09.2023"

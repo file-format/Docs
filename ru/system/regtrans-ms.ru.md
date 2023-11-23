@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Формат файла REGTRANS-MS — файл журнала транзакций реестра",
   "description":"Узнайте о формате REGTRANS-MS и API, с помощью которых можно создавать и открывать файлы REGTRANS-MS.",
-"linktitle": "РЕГТРАНС-МС",
+"linktitle": "REGTRANS-MS",
   "menu": {
     "docs": {
       "identifier": "system-regtrans-ms",
-"parent": "система"
+"parent": "system"
 }
 },
 "lastmod": "07.03.2023"

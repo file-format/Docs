@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Формат файла MLT — проект Shotcut",
   "description":"Узнайте о формате MLT Shotcut Project и API, с помощью которых можно создавать и открывать файлы MLT.",
-"linktitle": "МЛТ",
+"linktitle": "MLT",
   "menu": {
     "docs": {
       "identifier": "settings-mlt",
-"родительский": "настройки"
+"parent": "settings"
 }
 },
 "lastmod": "04.10.2023"

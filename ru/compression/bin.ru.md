@@ -15,11 +15,11 @@
 "toc": true,
 "title":"Формат файла BIN — файл в кодировке MacBinary",
    "description":"Узнайте о формате BIN и API, с помощью которых можно создавать и открывать файлы BIN.",
-"linktitle":"БИН",
+"linktitle":"BIN",
    "menu":{
       "docs":{
          "identifier":"compression-bin",
-"родитель":"сжатие"
+"parent": "compression"
 }
 },
 "lastmod":"20 июля 2023"

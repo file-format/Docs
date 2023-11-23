@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "audio-mui",
-"parent": "аудио"
+"parent": "audio"
 }
 },
 "lastmod": "14 февраля 2023 г."

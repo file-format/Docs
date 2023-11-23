@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Что такое медиафайлы? Типы, форматы и их влияние на цифровую связь",
   "description":"Узнайте о медиафайлах, их типах, форматах и влиянии на цифровые коммуникации",
-"linktitle": "МЕДИА ФАЙЛЫ",
+"linktitle": "MEDIA FILES",
   "menu": {
     "docs": {
       "identifier": "misc-media-files",
-"parent": "разное"
+"parent": "misc"
 }
 },
 "lastmod": "19.06.2023"

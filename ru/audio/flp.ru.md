@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Формат файла FLP — файл проекта FL Studio",
   "description":"Узнайте о формате файлов FLP и API, с помощью которых можно создавать и открывать файлы FLP.",
-"linktitle": "ФЛП",
+"linktitle": "FLP",
   "menu": {
     "docs": {
       "identifier": "audio-flp",
-"parent": "аудио"
+"parent": "audio"
 }
 },
 "lastmod": "14 февраля 2023 г."

@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "cad-afs",
-"parent": "хам"
+"parent": "cad"
 }
 },
 "lastmod": "23 февраля 2023 г."

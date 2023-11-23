@@ -23,7 +23,7 @@
   "menu": {
     "docs": {
       "identifier": "video-sub",
-"parent": "видео"
+"parent": "video"
 }
 },
 "lastmod": "21.06.2023"

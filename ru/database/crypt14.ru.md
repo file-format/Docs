@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "database-crypt14",
-"parent": "база данных"
+"parent": "database"
 }
 },
 "lastmod": "14.03.2023"

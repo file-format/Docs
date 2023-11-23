@@ -22,7 +22,7 @@
   "menu": {
     "docs": {
       "identifier": "video-scc",
-"parent": "видео"
+"parent": "video"
 }
 },
 "lastmod": "21.06.2023"

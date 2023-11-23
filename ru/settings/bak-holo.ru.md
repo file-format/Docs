@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Формат файла BAK — резервная копия Holo Launcher",
   "description":"Узнайте о формате резервной копии BAK Holo Launcher и API-интерфейсах, которые могут создавать и открывать файлы BAK.",
-"linktitle": "БАК ХОЛО",
+"linktitle": "BAK HOLO",
   "menu": {
     "docs": {
       "identifier": "settings-bak-holo",
-"родительский": "настройки"
+"parent": "settings"
 }
 },
 "lastmod": "12.06.2023"

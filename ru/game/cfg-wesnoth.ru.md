@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Формат файла CFG — файл языка разметки Wesnoth",
   "description":"Узнайте о формате файлов языка разметки CFG Wesnoth и API-интерфейсах, которые могут создавать и открывать файлы CFG.",
-"linktitle": "CFG Веснот",
+"linktitle": "CFG Wesnoth",
   "menu": {
     "docs": {
       "identifier": "game-cfg-wesnoth",
-"parent": "игра"
+"parent": "game"
 }
 },
 "lastmod": "27.09.2023"

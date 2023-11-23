@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "compression-pwa",
-"родительский": "сжатие"
+"parent": "compression"
 }
 },
 "lastmod": "24 мая 2023 г."

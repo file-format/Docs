@@ -16,11 +16,11 @@
 "toc": true,
 "title":"Формат файла BPS — файл исправления BPS",
    "description":"Узнайте о формате BPS и API, с помощью которых можно создавать и открывать файлы BPS.",
-"linktitle":"БПС",
+"linktitle":"BPS",
    "menu":{
       "docs":{
          "identifier":"game-bps",
-"родитель":"игра"
+"parent": "game"
 }
 },
 "lastmod":"21 сентября 2023"

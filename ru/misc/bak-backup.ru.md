@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Формат файла BAK — файл резервной копии",
   "description":"Узнайте о формате резервного копирования BAK и API-интерфейсах, с помощью которых можно создавать и открывать файлы BAK.",
-"linktitle": "Резервное копирование BAK",
+"linktitle": "BAK Backup",
   "menu": {
     "docs": {
       "identifier": "misc-bak-backup",
-"parent": "разное"
+"parent": "misc"
 }
 },
 "lastmod": "12.06.2023"

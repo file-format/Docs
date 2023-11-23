@@ -15,11 +15,11 @@
 "toc": true,
 "title":"Формат файла BIN — исполняемый файл Unix",
    "description":"Узнайте о формате BIN и API, с помощью которых можно создавать и открывать файлы BIN.",
-"linktitle":"БИН",
+"linktitle":"BIN",
    "menu":{
       "docs":{
          "identifier":"executable-bin",
-"родительский":"исполняемый файл"
+"parent": "executable"
 }
 },
 "lastmod":"20 июля 2023"

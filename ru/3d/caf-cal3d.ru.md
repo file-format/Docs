@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"3d-caf-cal3d",
-"родитель":"3d"
+"parent":"3d"
 }
 },
 "lastmod":"04.01.2023"

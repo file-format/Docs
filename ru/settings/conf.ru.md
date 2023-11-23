@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Формат файла CONF — файл конфигурации Unix",
   "description":"Узнайте о формате CONF и API, с помощью которых можно создавать и открывать файлы CONF.",
-"linktitle": "КОНФ",
+"linktitle": "CONF",
   "menu": {
     "docs": {
       "identifier": "settings-conf",
-"родительский": "настройки"
+"parent": "settings"
 }
 },
 "lastmod": "30 марта 2023 г."

@@ -22,7 +22,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-desktop",
-"родительский": "настройки"
+"parent": "settings"
 }
 },
 "lastmod": "31 мая 2023 г."

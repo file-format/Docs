@@ -17,11 +17,11 @@
 "toc": true,
 "title":"Формат файла SHADER — файл шейдера движка Quake 3",
    "description":"Узнайте о формате файлов шейдеров SHADER Quake 3 Engine и API-интерфейсах, с помощью которых можно создавать и открывать файлы SHADER.",
-"linktitle":"ШЕЙДЕР Quake",
+"linktitle":"SHADER Quake",
    "menu":{
       "docs":{
          "identifier":"game-shader-quake",
-"родитель":"игра"
+"parent": "game"
 }
 },
 "lastmod":"11.10.2023"

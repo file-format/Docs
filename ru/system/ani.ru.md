@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Формат файла ANI — анимированный курсор Windows",
   "description":"Узнайте о формате ANI и API, с помощью которых можно создавать и открывать файлы ANI.",
-"linktitle": "АНИ",
+"linktitle": "ANI",
   "menu": {
     "docs": {
       "identifier": "system-ani",
-"parent": "система"
+"parent": "system"
 }
 },
 "lastmod": "08.03.2023"

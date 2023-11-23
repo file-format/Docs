@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Формат файла STY — стиль клавиатуры Yamaha или Korg",
   "description":"Узнайте о формате STY и API, с помощью которых можно создавать и открывать файлы STY.",
-"linktitle": "СТЙ",
+"linktitle": "STY",
   "menu": {
     "docs": {
       "identifier": "audio-sty",
-"parent": "аудио"
+"parent": "audio"
 }
 },
 "lastmod": "15.06.2023"

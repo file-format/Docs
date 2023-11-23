@@ -19,7 +19,7 @@
    "menu":{
       "docs":{
          "identifier":"game-bin-pcsx",
-"родитель":"игра"
+"parent": "game"
 }
 },
 "lastmod":"20 июля 2023"

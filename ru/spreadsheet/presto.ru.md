@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Формат файла PRESTO — электронная таблица проекта Presto",
   "description":"Узнайте о формате PRESTO и API, с помощью которых можно создавать и открывать файлы PRESTO.",
-"linktitle": "ПРЕСТО",
+"linktitle": "PRESTO",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-presto",
-"родительский": "таблица"
+"parent": "spreadsheet"
 }
 },
 "lastmod": "01.03.2023"

@@ -17,11 +17,11 @@
 "toc": true,
 "title":"Файл INK — Справочник Pantone — Что такое файл .ink и как его открыть?",
    "description":"Узнайте о формате файла INK Pantone Reference и API-интерфейсах, которые могут создавать и открывать файлы INK.",
-"linktitle":"ИНК",
+"linktitle":"INK",
    "menu":{
       "docs":{
          "identifier":"image-ink",
-"родитель":"изображение"
+"parent": "image"
 }
 },
 "lastmod":"09.11.2023"

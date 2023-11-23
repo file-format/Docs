@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Формат файла ISS — сценарий установки Inno",
   "description":"Узнайте о формате ISS и API, с помощью которых можно создавать и открывать файлы ISS.",
-"linktitle": "ИСС",
+"linktitle": "ISS",
   "menu": {
     "docs": {
       "identifier": "settings-iss",
-"parent": "настройки"
+"parent": "settings"
 }
 },
 "lastmod": "28.03.2023"

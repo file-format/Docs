@@ -18,11 +18,11 @@
 "toc": true,
 "title": "Формат файла AIF — формат файла аудиообмена",
   "description":"Узнайте о формате AIF и API, с помощью которых можно создавать и открывать файлы AIF.",
-"linktitle": "АИФ",
+"linktitle": "AIF",
   "menu": {
     "docs": {
       "identifier": "audio-aif",
-"parent": "аудио"
+"parent": "audio"
 }
 },
 "lastmod": "30 мая 2023 г."

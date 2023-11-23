@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"programming-caf-cryengine",
-"parent":"программирование"
+"parent": "programming"
 }
 },
 "lastmod":"04.01.2023"

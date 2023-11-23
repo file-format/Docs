@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Формат файла CHIP — файл аннотации микроматрицы",
   "description":"Узнайте о формате файла CHIP и API, с помощью которых можно создавать и открывать файлы CHIP.",
-"linktitle": "ЧИП",
+"linktitle": "CHIP",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-chip",
-"родительский": "таблица"
+"parent": "spreadsheet"
 }
 },
 "lastmod": "01.03.2023"

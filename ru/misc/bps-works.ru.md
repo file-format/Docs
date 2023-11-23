@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Формат файла BPS — резервное копирование документов Microsoft Works",
   "description":"Узнайте о формате BPS Works и API, с помощью которых можно создавать и открывать файлы BPS.",
-"linktitle": "БПС работает",
+"linktitle": "BPS Works",
   "menu": {
     "docs": {
       "identifier": "misc-bps-works",
-"parent": "разное"
+"parent": "misc"
 }
 },
 "lastmod": "21.09.2023"

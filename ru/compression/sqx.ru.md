@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "compression-sqx",
-"родительский": "сжатие"
+"parent": "compression"
 }
 },
 "lastmod": "22 мая 2023 г."

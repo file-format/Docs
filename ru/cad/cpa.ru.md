@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Формат файла CPA — архивный файл печатной платы CADSTAR",
   "description":"Узнайте о формате файлов CPA и API, с помощью которых можно создавать и открывать файлы CPA.",
-"linktitle": "Цена за конверсию",
+"linktitle": "CPA",
   "menu": {
     "docs": {
       "identifier": "cad-cpa",
-"parent": "хам"
+"parent": "cad"
 }
 },
 "lastmod": "22 февраля 2023 г."

@@ -15,11 +15,11 @@
 "toc": true,
   "description":"Узнайте о формате файлов APP и API, с помощью которых можно создавать и открывать файлы APP.",
 "title": "Формат файла приложения — пакет приложений macOS",
-"linktitle": "ПРИЛОЖЕНИЕ",
+"linktitle": "APP",
   "menu": {
     "docs": {
       "identifier": "executable-app",
-"родительский": "исполняемый файл"
+"parent": "executable"
 }
 },
 "lastmod": "2023-02-02"

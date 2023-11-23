@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "spreadsheet-wq2",
-"родительский": "таблица"
+"parent": "spreadsheet"
 }
 },
 "lastmod": "28 февраля 2023 г."

@@ -17,11 +17,11 @@
 "toc": true,
 "title":"Формат файла SHADER — файл шейдера Godot Engine",
    "description":"Узнайте о формате файлов SHADER Godot Engine Shader и API-интерфейсах, которые могут создавать и открывать файлы SHADER.",
-"linktitle":"ШЕЙДЕР Годо",
+"linktitle":"SHADER Godot",
    "menu":{
       "docs":{
          "identifier":"game-shader-godot",
-"родитель":"игра"
+"parent": "game"
 }
 },
 "lastmod":"11.10.2023"

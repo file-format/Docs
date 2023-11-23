@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Формат файла ЗАГРУЗКИ — файл загрузки Pando неполный",
   "description":"Узнайте о формате ЗАГРУЗКИ и API, которые могут создавать и открывать файлы ЗАГРУЗКИ.",
-"linktitle": "СКАЧИВАНИЕ",
+"linktitle": "DOWNLOADING",
   "menu": {
     "docs": {
       "identifier": "misc-downloading",
-"parent": "разное"
+"parent": "misc"
 }
 },
 "lastmod": "18.04.2023"

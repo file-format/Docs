@@ -17,11 +17,11 @@
 "toc": true,
 "title":"Формат файла PAT — файл шаблона",
    "description":"Узнайте о формате файла PAT Pattern и API, с помощью которых можно создавать и открывать файлы PAT.",
-"linktitle":"Шаблон PAT",
+"linktitle":"PAT Pattern",
    "menu":{
       "docs":{
          "identifier":"image-pat-pattern",
-"родитель":"изображение"
+"parent": "image"
 }
 },
 "lastmod":"01.11.2023"

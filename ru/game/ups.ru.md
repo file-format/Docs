@@ -17,11 +17,11 @@
 "toc": true,
 "title":"Формат файла UPS — файл исправления UPS",
    "description":"Узнайте о формате файлов исправлений UPS и API-интерфейсах, с помощью которых можно создавать и открывать файлы UPS.",
-"linktitle":"ИБП",
+"linktitle":"UPS",
    "menu":{
       "docs":{
          "identifier":"game-ups",
-"родитель":"игра"
+"parent": "game"
 }
 },
 "lastmod":"04.01.2023"

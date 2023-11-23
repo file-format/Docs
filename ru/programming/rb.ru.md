@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Формат файла RB — файл исходного кода Ruby",
   "description":"Узнайте о формате RB и API, с помощью которых можно создавать и открывать файлы RB.",
-"linktitle": "РБ",
+"linktitle": "RB",
   "menu": {
     "docs": {
       "identifier": "programming-rb",
-"parent": "программирование"
+"parent": "programming"
 }
 },
 "lastmod": "29.05.2023"

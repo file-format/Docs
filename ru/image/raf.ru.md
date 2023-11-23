@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Формат файла RAF — изображение Fujifilm RAW",
   "description":"Узнайте о формате RAF и API, с помощью которых можно создавать и открывать файлы RAF.",
-"linktitle": "РАФ",
+"linktitle": "RAF",
   "menu": {
     "docs": {
       "identifier": "image-raf",
-"parent": "изображение"
+"parent": "image"
 }
 },
 "lastmod": "15.06.2023"

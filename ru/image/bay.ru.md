@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Формат файла BAY — изображение Casio RAW",
   "description":"Узнайте о формате BAY и API, с помощью которых можно создавать и открывать файлы BAY.",
-"linktitle": "ЗАЛИВ",
+"linktitle": "BAY",
   "menu": {
     "docs": {
       "identifier": "image-bay",
-"parent": "изображение"
+"parent": "image"
 }
 },
 "lastmod": "15.06.2023"

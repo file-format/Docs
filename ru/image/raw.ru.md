@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "image-raw",
-"parent": "изображение"
+"parent": "image"
 }
 },
 "lastmod": "15.06.2023"

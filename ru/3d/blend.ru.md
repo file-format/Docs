@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Формат файла BLEND — 3D-файл Blender",
   "description":"Узнайте о формате BLEND и API-интерфейсах, с помощью которых можно создавать и открывать файлы BLEND.",
-"linktitle": "СМЕСЬ",
+"linktitle": "BLEND",
   "menu": {
     "docs": {
       "identifier": "3d-blend",

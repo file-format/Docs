@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Формат файла OSS — файл сохраненного поиска Microsoft Outlook",
   "description":"Узнайте о формате OSS и API, с помощью которых можно создавать и открывать файлы OSS.",
-"linktitle": "ОСС",
+"linktitle": "OSS",
   "menu": {
     "docs": {
       "identifier": "settings-oss",
-"родительский": "настройки"
+"parent": "settings"
 }
 },
 "lastmod": "28.03.2023"

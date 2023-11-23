@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Формат файла FPT — файл памятки базы данных FileMaker Pro",
   "description":"Узнайте о формате FPT и API, с помощью которых можно создавать и открывать файлы FPT.",
-"linktitle": "ФПТ",
+"linktitle": "FPT",
   "menu": {
     "docs": {
       "identifier": "database-fpt",
-"parent": "база данных"
+"parent": "database"
 }
 },
 "lastmod": "05.09.2023"

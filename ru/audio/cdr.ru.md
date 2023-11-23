@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"audio-cdr",
-"родитель":"аудио"
+"parent": "audio"
 }
 },
 "lastmod":"18.10.2023"

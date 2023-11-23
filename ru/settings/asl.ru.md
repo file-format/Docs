@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Формат файла ASL — стиль слоя Photoshop",
   "description":"Узнайте о формате ASL и API, с помощью которых можно создавать и открывать файлы ASL.",
-"linktitle": "АСЛ",
+"linktitle": "ASL",
   "menu": {
     "docs": {
       "identifier": "settings-asl",
-"родительский": "настройки"
+"parent": "settings"
 }
 },
 "lastmod": "28.04.2023"

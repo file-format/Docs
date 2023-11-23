@@ -7,11 +7,11 @@
 "toc": true,
 "title": "Файл PZZ — что такое файл .pzz и как его открыть?",
   "description":"Узнайте о формате PZZ и API, с помощью которых можно создавать и открывать файлы PZZ.",
-"linktitle": "ПЗЗ",
+"linktitle": "PZZ",
   "menu": {
     "docs": {
       "identifier": "compression-pzz",
-"родительский": "сжатие"
+"parent": "compression"
 }
 },
 "lastmod": "30.10.2023"

@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Формат файла PSV — видеофайл Pluralsight",
   "description":"Узнайте о формате PSV и API, с помощью которых можно создавать и открывать файлы PSV.",
-"linktitle": "ПСВ",
+"linktitle": "PSV",
   "menu": {
     "docs": {
       "identifier": "video-psv",
-"parent": "видео"
+"parent": "video"
 }
 },
 "lastmod": "12.07.2023"

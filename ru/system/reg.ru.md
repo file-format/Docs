@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Формат файла REG — файл реестра Windows",
   "description":"Узнайте о формате REG и API, с помощью которых можно создавать и открывать файлы REG.",
-"linktitle": "РЕГ",
+"linktitle": "REG",
   "menu": {
     "docs": {
       "identifier": "system-reg",
-"parent": "система"
+"parent": "system"
 }
 },
 "lastmod": "07.03.2023"

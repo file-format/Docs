@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "database-udb",
-"parent": "база данных"
+"parent": "database"
 }
 },
 "lastmod": "05.09.2023"

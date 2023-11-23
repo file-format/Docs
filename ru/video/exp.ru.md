@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Формат файла EXP — экспортированный видеофайл серии DX",
   "description":"Узнайте о формате EXP и API, с помощью которых можно создавать и открывать файлы EXP.",
-"linktitle": "ОПЫТ",
+"linktitle": "EXP",
   "menu": {
     "docs": {
       "identifier": "video-exp",
-"parent": "видео"
+"parent": "video"
 }
 },
 "lastmod": "13 июля 2023 г."

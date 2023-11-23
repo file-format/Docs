@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Формат файла DDT — файл данных игры Football Manager",
   "description":"Узнайте о формате DDT и API, с помощью которых можно создавать и открывать файлы DDT.",
-"linktitle": "ДДТ",
+"linktitle": "DDT",
   "menu": {
     "docs": {
       "identifier": "game-ddt",
-"parent": "игра"
+"parent": "game"
 }
 },
 "lastmod": "16 мая 2023 г."

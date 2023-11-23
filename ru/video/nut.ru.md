@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Формат файла NUT — видеофайл NUT",
   "description":"Узнайте о формате NUT и API, с помощью которых можно создавать и открывать файлы NUT.",
-"linktitle": "НУТ",
+"linktitle": "NUT",
   "menu": {
     "docs": {
       "identifier": "video-nut",
-"parent": "видео"
+"parent": "video"
 }
 },
 "lastmod": "13 июля 2023 г."

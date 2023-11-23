@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "executable-jsf",
-"родительский": "исполняемый файл"
+"parent": "executable"
 }
 },
 "lastmod": "09.05.2023"

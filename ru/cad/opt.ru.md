@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Формат файла OPT — файл Opterecenja",
   "description":"Узнайте о формате файла OPT и API, с помощью которых можно создавать и открывать файлы OPT.",
-"linktitle": "ОПТ",
+"linktitle": "OPT",
   "menu": {
     "docs": {
       "identifier": "cad-opt",
-"parent": "хам"
+"parent": "cad"
 }
 },
 "lastmod": "21 февраля 2023 г."

@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Формат файла CHEAT — Шпаргалка Navi",
   "description":"Узнайте о формате CHEAT и API, с помощью которых можно создавать и открывать файлы CHEAT.",
-"linktitle": "ОБМАН",
+"linktitle": "CHEAT",
   "menu": {
     "docs": {
       "identifier": "executable-cheat",
-"родительский": "исполняемый файл"
+"parent": "executable"
 }
 },
 "lastmod": "10.05.2023"

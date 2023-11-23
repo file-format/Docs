@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Формат файла LANG — файл языковой локализации Minecraft",
   "description":"Узнайте о формате LANG и API, с помощью которых можно создавать и открывать файлы LANG.",
-"linktitle": "ЯЗЫК",
+"linktitle": "LANG",
   "menu": {
     "docs": {
       "identifier": "game-lang",
-"parent": "игра"
+"parent": "game"
 }
 },
 "lastmod": "15.03.2023"

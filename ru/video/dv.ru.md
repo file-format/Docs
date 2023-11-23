@@ -18,11 +18,11 @@
 "toc": true,
 "title": "Формат файла DV — цифровой видеофайл",
   "description":"Узнайте о формате DV и API, с помощью которых можно создавать и открывать файлы DV.",
-"linktitle": "ДВ",
+"linktitle": "DV",
   "menu": {
     "docs": {
       "identifier": "video-dv",
-"parent": "видео"
+"parent": "video"
 }
 },
 "lastmod": "31 мая 2023 г."

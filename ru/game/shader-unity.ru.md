@@ -17,11 +17,11 @@
 "toc": true,
 "title":"Формат файла SHADER — шейдер Unity",
    "description":"Узнайте о формате SHADER Unity Shader Asset и API, с помощью которых можно создавать и открывать файлы SHADER.",
-"linktitle":"ШЕЙДЕР Unity",
+"linktitle":"SHADER Unity",
    "menu":{
       "docs":{
          "identifier":"game-shader-unity",
-"родитель":"игра"
+"parent": "game"
 }
 },
 "lastmod":"11.10.2023"

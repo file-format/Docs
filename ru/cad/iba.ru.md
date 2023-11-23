@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "cad-iba",
-"parent": "хам"
+"parent": "cad"
 }
 },
 "lastmod": "22 февраля 2023 г."

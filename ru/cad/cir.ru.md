@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "cad-cir",
-"parent": "хам"
+"parent": "cad"
 }
 },
 "lastmod": "22 февраля 2023 г."

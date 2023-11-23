@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Формат файла THEME — Microsoft Plus! Тема рабочего стола",
   "description":"Узнайте о формате THEME и API-интерфейсах, с помощью которых можно создавать и открывать файлы THEME.",
-"linktitle": "ТЕМА",
+"linktitle": "THEME",
   "menu": {
     "docs": {
       "identifier": "settings-theme",
-"parent": "настройки"
+"parent": "settings"
 }
 },
 "lastmod": "03.05.2023"

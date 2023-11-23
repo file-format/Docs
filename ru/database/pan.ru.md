@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Формат файла PAN — файл базы данных Panorama",
   "description":"Узнайте о формате PAN и API, с помощью которых можно создавать и открывать файлы PAN.",
-"linktitle": "ПАН",
+"linktitle": "PAN",
   "menu": {
     "docs": {
       "identifier": "database-pan",
-"parent": "база данных"
+"parent": "database"
 }
 },
 "lastmod": "18 мая 2023 г."

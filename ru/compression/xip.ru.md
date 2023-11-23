@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "compression-xip",
-"родительский": "сжатие"
+"parent": "compression"
 }
 },
 "lastmod": "24 мая 2023 г."

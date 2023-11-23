@@ -17,11 +17,11 @@
 "toc": true,
 "title":"Формат файла CHR — Литературный клуб Доки Доки! Файл символов",
    "description":"Узнайте о литературном клубе CHR Doki Doki! Формат символьных файлов и API, с помощью которых можно создавать и открывать файлы CHR.",
-"linktitle":"CHR Доки",
+"linktitle":"CHR Doki",
    "menu":{
       "docs":{
          "identifier":"game-chr-doki",
-"родитель":"игра"
+"parent": "game"
 }
 },
 "lastmod":"11.10.2023"

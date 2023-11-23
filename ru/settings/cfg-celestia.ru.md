@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Формат файла CFG — файл конфигурации Celestia",
   "description":"Узнайте о формате файла конфигурации CFG Celestia и API-интерфейсах, с помощью которых можно создавать и открывать файлы CFG.",
-"linktitle": "CFG Селестия",
+"linktitle": "CFG Celestia",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-celestia",
-"родительский": "настройки"
+"parent": "settings"
 }
 },
 "lastmod": "27.09.2023"

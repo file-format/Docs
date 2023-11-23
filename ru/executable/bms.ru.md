@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Формат файла BMS — скрипт QuickBMS",
   "description":"Узнайте о формате BMS и API, с помощью которых можно создавать и открывать файлы BMS.",
-"linktitle": "БМС",
+"linktitle": "BMS",
   "menu": {
     "docs": {
       "identifier": "executable-bms",
-"родительский": "исполняемый файл"
+"parent": "executable"
 }
 },
 "lastmod": "08.05.2023"

@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Формат файла RPD — файл базы данных проекта RIB",
   "description":"Узнайте о формате RPD и API, с помощью которых можно создавать и открывать файлы RPD.",
-"linktitle": "РПД",
+"linktitle": "RPD",
   "menu": {
     "docs": {
       "identifier": "database-rpd",
-"parent": "база данных"
+"parent": "database"
 }
 },
 "lastmod": "05.09.2023"

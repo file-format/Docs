@@ -19,7 +19,7 @@
    "menu":{
       "docs":{
          "identifier":"video-par",
-"родитель":"видео"
+"parent": "video"
 }
 },
 "lastmod":"18.07.2023"

@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Формат файла BAK — резервная копия закладок Chromium",
   "description":"Узнайте о формате закладок BAK Chromium и API, с помощью которых можно создавать и открывать файлы BAK.",
-"linktitle": "Закладки BAK Chromium",
+"linktitle": "BAK Chromium Bookmarks",
   "menu": {
     "docs": {
       "identifier": "misc-bak-chromium",
-"parent": "разное"
+"parent": "misc"
 }
 },
 "lastmod": "12.06.2023"

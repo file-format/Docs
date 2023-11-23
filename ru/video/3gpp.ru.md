@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "video-3gpp",
-"parent": "видео"
+"parent": "video"
 }
 },
 "lastmod": "30 мая 2023 г."

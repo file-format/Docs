@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "game-scworld",
-"parent": "игра"
+"parent": "game"
 }
 },
 "lastmod": "18 мая 2023 г."

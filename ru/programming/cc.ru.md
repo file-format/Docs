@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "programming-cc",
-"parent": "программирование"
+"parent": "programming"
 }
 },
 "lastmod": "08.05.2023"

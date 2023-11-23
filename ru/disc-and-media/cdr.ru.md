@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"disc-and-media-cdr",
-"parent":"диск-и-носитель"
+"parent": "disc-and-media"
 }
 },
 "lastmod":"18.10.2023"

@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Формат файла PDS — файл сценария PowerDirector",
   "description":"Узнайте о формате PDS и API, с помощью которых можно создавать и открывать файлы PDS.",
-"linktitle": "ПДС",
+"linktitle": "PDS",
   "menu": {
     "docs": {
       "identifier": "video-pds",
-"parent": "видео"
+"parent": "video"
 }
 },
 "lastmod": "12.07.2023"

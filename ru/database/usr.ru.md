@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Формат файла USR — файл базы данных FileMaker Pro",
   "description":"Узнайте о формате USR и API, с помощью которых можно создавать и открывать файлы USR.",
-"linktitle": "ЕГР",
+"linktitle": "USR",
   "menu": {
     "docs": {
       "identifier": "database-usr",
-"parent": "база данных"
+"parent": "database"
 }
 },
 "lastmod": "03.08.2023"

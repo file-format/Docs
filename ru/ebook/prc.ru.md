@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Формат файла PRC — файл электронной книги Mobipocket",
   "description":"Узнайте о формате PRC и API, с помощью которых можно создавать и открывать файлы PRC.",
-"linktitle": "КНР",
+"linktitle": "PRC",
   "menu": {
     "docs": {
       "identifier": "ebook-prc",
-"parent": "электронная книга"
+"parent": "ebook"
 }
 },
 "lastmod": "2023-03-02"

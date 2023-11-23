@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Что такое видеоконвертер? Полное руководство по видеоконвертерам",
   "description":"Узнайте о видеоконвертерах, форматах, часто задаваемых вопросах и лучших инструментах",
-"linktitle": "ВИДЕО КОНВЕРТЕР",
+"linktitle": "VIDEO CONVERTER",
   "menu": {
     "docs": {
       "identifier": "misc-video-converter",
-"parent": "разное"
+"parent": "misc"
 }
 },
 "lastmod": "03.07.2023"

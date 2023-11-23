@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Формат файла BDC — файл проекта проектировщика мостов Вест-Пойнт",
   "description":"Узнайте о формате файлов BDC и API, с помощью которых можно создавать и открывать файлы BDC.",
-"linktitle": "БДК",
+"linktitle": "BDC",
   "menu": {
     "docs": {
       "identifier": "cad-bdc",
-"parent": "хам"
+"parent": "cad"
 }
 },
 "lastmod": "21 февраля 2023 г."

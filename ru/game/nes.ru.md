@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Формат файла NES — файл ПЗУ Nintendo Entertainment System",
   "description":"Узнайте о формате NES и API, с помощью которых можно создавать и открывать файлы NES.",
-"linktitle": "РЭШ",
+"linktitle": "NES",
   "menu": {
     "docs": {
       "identifier": "game-nes",
-"parent": "игра"
+"parent": "game"
 }
 },
 "lastmod": "29.05.2023"

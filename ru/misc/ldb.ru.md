@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Формат файла LDB — файл блокировки доступа Microsoft",
   "description":"Узнайте о формате LDB и какую информацию он содержит.",
-"linktitle": "ЛДБ",
+"linktitle": "LDB",
   "menu": {
     "docs": {
       "identifier": "misc-ldb",
-"parent": "разное"
+"parent": "misc"
 }
 },
 "lastmod": "20 апреля 2023 г."
