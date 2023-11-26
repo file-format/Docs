@@ -6,7 +6,7 @@ author:
 draft: false
 toc: true
 title: "KT 文件格式"
-linktitle: "韩国电信"
+linktitle: "KT"
 description: "了解可创建和打开 KT 文件的 KT 文件格式和 API。"
 menu:
   docs:

@@ -5,7 +5,7 @@ author:
 draft: false
 toc: true
 title: "差异文件格式"
-linktitle: "差异"
+linktitle: "DIFF"
 description: "了解 DIFF 文件格式和可创建和打开 DIFF 文件的 API。"
 menu:
   docs:

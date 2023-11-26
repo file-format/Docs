@@ -7,7 +7,7 @@ draft: false
 toc: true
 description: "了解 SEC 文件格式和可创建和打开 SEC 文件的 API。"
 title: "SEC 文件格式 - 三星安全视频文件"
-linktitle: "证监会"
+linktitle: "SEC"
 menu:
   docs:
     parent: "video"

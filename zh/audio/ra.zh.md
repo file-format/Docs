@@ -7,7 +7,7 @@ draft: false
 toc: true
 description: "了解 RA 文件格式和可创建和打开 RA 文件的 API。"
 title: "RA 文件格式"
-linktitle: "类风湿关节炎"
+linktitle: "RA"
 menu:
   docs:
     parent: "audio"

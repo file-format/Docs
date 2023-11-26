@@ -6,7 +6,7 @@ author:
 draft: false
 toc: true
 title: "STP 文件格式"
-linktitle: "直通式"
+linktitle: "STP"
 description: "了解 STP 文件格式和可创建和打开 STP 文件的 API。"
 menu:
   docs:

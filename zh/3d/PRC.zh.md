@@ -6,7 +6,7 @@ author:
 draft: false
 toc: true
 title: "中华人民共和国文件格式"
-linktitle: "中华人民共和国"
+linktitle: "PRC"
 description: "了解 PRC 文件格式和可以创建和打开 PRC 文件的 API。"
 menu:
   docs:

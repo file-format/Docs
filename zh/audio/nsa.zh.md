@@ -6,7 +6,7 @@ draft: false
 toc: true
 description: "了解 MPC 文件格式和可创建和打开 MPC 文件的 API。"
 title: "NSA 文件格式 - NullSoft 音频文件"
-linktitle: "国家安全局"
+linktitle: "NSA"
 menu:
   docs:
     parent: "audio"

@@ -61,7 +61,7 @@ Iterierende Chunks, bis ein unbekannter Typ erkannt wird, erstellen wir eine JPE
 
 ### Farbtransformation ###
 
-Zunächst ist die Transformation von Bildern aus dem RGB-Farbraum in einen anderen Farbraum erforderlich. Dazu gibt es zwei Möglichkeiten: Irreversible Color Transform (ICT) und Reversible Color Transform (RCT). Ersteres verwendet YC,,B,,C,,R,, Farbraum und muss in Fix/Gleitkomma implementiert werden, während später ein modifizierter YUV-Farbraum und von Natur aus umkehrbar ist.// //Nicht auf RGB-Modell, JPEG beschränkt 2000-Sprache verwendet die Transformation mehrerer Komponenten.
+Zunächst ist die Transformation von Bildern aus dem RGB-Farbraum in einen anderen Farbraum erforderlich. Dazu gibt es zwei Möglichkeiten: Irreversible Color Transform (ICT) und Reversible Color Transform (RCT). Ersteres verwendet YC,B,C,R, Farbraum und muss in Fix/Gleitkomma implementiert werden, während später ein modifizierter YUV-Farbraum und von Natur aus umkehrbar ist.// //Nicht auf RGB-Modell, JPEG beschränkt 2000-Sprache verwendet die Transformation mehrerer Komponenten.
 
 ### Fliesen ###
 

@@ -7,7 +7,7 @@ draft: false
 toc: true
 description: "了解 RV 文件格式和可创建和打开 RV 文件的 API。"
 title: "房车文件格式"
-linktitle: "房车"
+linktitle: "RV"
 menu:
   docs:
     parent: "video"

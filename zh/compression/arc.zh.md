@@ -6,7 +6,7 @@ author:
 draft: false
 toc: true
 title: "弧文件格式"
-linktitle: "弧"
+linktitle: "ARC"
 description: "了解 ARC 文件格式和可创建和打开 ARC 文件的 API。"
 menu:
   docs:
