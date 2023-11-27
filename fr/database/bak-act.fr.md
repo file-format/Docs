@@ -17,11 +17,11 @@
 "toc" : true,
 "title": "Format de fichier BAK - Sauvegarde de la base de données Act!",
   "description":"Découvrez le format de sauvegarde BAK Act! et les API permettant de créer et d'ouvrir des fichiers BAK.",
-"linktitle": "Sauvegarde BAK ACT",
+"linktitle": "BAK ACT Backup",
   "menu": {
     "docs": {
       "identifier": "database-bak-act",
-"parent": "base de données"
+"parent" : "database"
 }
 },
 "lastmod": "2023-06-12"

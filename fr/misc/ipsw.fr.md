@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-ipsw",
-"parent": "divers"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-04-17"

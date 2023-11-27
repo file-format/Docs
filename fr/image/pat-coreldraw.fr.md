@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"image-pat-coreldraw",
-"parent": "image"
+"parent" : "image"
 }
 },
 "lastmod": "2023-11-01"

@@ -17,11 +17,11 @@
 "toc" : true,
 "title": "Format de fichier JET - Paramètres du Jackbox Party Pack",
   "description":"Découvrez le format JET et les API permettant de créer et d'ouvrir des fichiers JET.",
-"titre du lien": "JET",
+"linktitle": "JET",
   "menu": {
     "docs": {
       "identifier": "settings-jet",
-"parent": "paramètres"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-09-05"

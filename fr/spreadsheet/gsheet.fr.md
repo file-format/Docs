@@ -15,11 +15,11 @@
 "toc" : true,
 "title": "Format de fichier GSHEET - Raccourci Google Sheets",
   "description":"Découvrez le format de fichier GSHEET et les API permettant de créer et d'ouvrir des fichiers GSHEET.",
-"linktitle": "FEUILLE G",
+"linktitle": "GSHEET",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-gsheet",
-"parent": "feuille de calcul"
+"parent" : "spreadsheet"
 }
 },
 "lastmod": "2023-02-28"

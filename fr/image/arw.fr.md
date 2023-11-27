@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "image-arw",
-"parent": "image"
+"parent" : "image"
 }
 },
 "dernier mod": "2023-06-15"

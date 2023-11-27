@@ -17,11 +17,11 @@
 "toc" : true,
 "title": "Format de fichier BAK - Fichier de sauvegarde",
   "description":"Découvrez le format de sauvegarde BAK et les API permettant de créer et d'ouvrir des fichiers BAK.",
-"linktitle": "Sauvegarde BAK",
+"linktitle": "BAK Backup",
   "menu": {
     "docs": {
       "identifier": "misc-bak-backup",
-"parent": "divers"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-12"

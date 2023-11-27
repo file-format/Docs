@@ -20,7 +20,7 @@
    "menu":{
       "docs":{
          "identifier":"system-cat",
-"parent": "système"
+"parent" : "system"
 }
 },
 "lastmod": "2023-07-06"

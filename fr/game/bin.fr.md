@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "game-bin",
-"parent": "jeu"
+"parent" : "game"
 }
 },
 "lastmod": "2023-03-16"

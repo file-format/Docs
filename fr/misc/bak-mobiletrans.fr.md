@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-bak-mobiletrans",
-"parent": "divers"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-12"

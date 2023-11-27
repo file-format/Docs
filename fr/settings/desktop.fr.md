@@ -18,11 +18,11 @@
 "toc" : true,
 "title": "Format de fichier DESKTOP - Fichier d'entrée de bureau",
   "description":"Découvrez le format DESKTOP et les API permettant de créer et d'ouvrir des fichiers DESKTOP.",
-"linktitle": "BUREAU",
+"linktitle": "DESKTOP",
   "menu": {
     "docs": {
       "identifier": "settings-desktop",
-"parent": "paramètres"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-05-31"

@@ -18,11 +18,11 @@
 "toc" : true,
 "title": "Format de fichier FPT - Fichier mémo de table Alpha Five",
   "description":"Découvrez le format FPT Alpha Five et les API permettant de créer et d'ouvrir des fichiers FPT.",
-"linktitle": "FPT Alpha Cinq",
+"linktitle": "FPT Alpha Five",
   "menu": {
     "docs": {
       "identifier": "database-fpt-alphafive",
-"parent": "base de données"
+"parent" : "database"
 }
 },
 "lastmod": "2023-04-27"

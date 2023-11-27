@@ -16,11 +16,11 @@
 "toc" : true,
 "title": "Format de fichier informatique - Module Impulse Tracker",
   "description":"Découvrez le format informatique et les API permettant de créer et d'ouvrir des fichiers informatiques.",
-"linktitle": "informatique",
+"linktitle": "IT",
   "menu": {
     "docs": {
       "identifier": "audio-it",
-"parent": "audio"
+"parent" : "audio"
 }
 },
 "dernier mod": "2023-06-15"

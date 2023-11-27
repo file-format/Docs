@@ -17,11 +17,11 @@
 "toc" : true,
 "title": "Format de fichier JET - Fichier de base de données Microsoft JET",
   "description":"Découvrez le format JET et les API permettant de créer et d'ouvrir des fichiers JET.",
-"titre du lien": "JET",
+"linktitle": "JET",
   "menu": {
     "docs": {
       "identifier": "database-jet",
-"parent": "base de données"
+"parent" : "database"
 }
 },
 "lastmod": "2023-09-05"

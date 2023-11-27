@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"game-pk3-quake3",
-"parent": "jeu"
+"parent" : "game"
 }
 },
 "lastmod": "2023-11-01"

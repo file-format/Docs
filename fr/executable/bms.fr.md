@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "executable-bms",
-"parent": "exécutable"
+"parent" : "executable"
 }
 },
 "lastmod": "2023-05-08"

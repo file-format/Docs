@@ -15,11 +15,11 @@
 "toc" : true,
 "title": "Format de fichier OVPN - Fichier de configuration OpenVPN",
   "description":"Découvrez le format OVPN et les API permettant de créer et d'ouvrir des fichiers OVPN.",
-"titre du lien": "OVPN",
+"linktitle": "OVPN",
   "menu": {
     "docs": {
       "identifier": "settings-ovpn",
-"parent": "paramètres"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-03-21"

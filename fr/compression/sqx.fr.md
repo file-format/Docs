@@ -15,11 +15,11 @@
 "toc" : true,
 "title": "Format de fichier SQX - Archive SQX",
   "description":"Découvrez le format SQX et les API permettant de créer et d'ouvrir des fichiers SQX.",
-"titre du lien": "SQX",
+"linktitle": "SQX",
   "menu": {
     "docs": {
       "identifier": "compression-sqx",
-"parent": "compression"
+"parent" : "compression"
 }
 },
 "lastmod": "2023-05-22"

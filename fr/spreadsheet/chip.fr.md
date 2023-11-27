@@ -15,11 +15,11 @@
 "toc" : true,
 "title": "Format de fichier CHIP - Fichier d'annotation de micropuces",
   "description":"Découvrez le format de fichier CHIP et les API permettant de créer et d'ouvrir des fichiers CHIP.",
-"linktitle": "PUCE",
+"linktitle": "CHIP",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-chip",
-"parent": "feuille de calcul"
+"parent" : "spreadsheet"
 }
 },
 "derniermod": "01/03/2023"

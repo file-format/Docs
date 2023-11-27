@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"system-pat-diskstation",
-"parent": "système"
+"parent" : "system"
 }
 },
 "lastmod": "2023-11-01"

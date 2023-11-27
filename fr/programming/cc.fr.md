@@ -16,11 +16,11 @@
 "toc" : true,
 "title": "Format de fichier CC - Fichier de code source C++",
   "description":"Découvrez le format CC et les API permettant de créer et d'ouvrir des fichiers CC.",
-"titre du lien": "CC",
+"linktitle": "CC",
   "menu": {
     "docs": {
       "identifier": "programming-cc",
-"parent": "programmation"
+"parent" : "programming"
 }
 },
 "lastmod": "2023-05-08"

@@ -17,11 +17,11 @@
 "toc" : true,
 "title": "Format de fichier RAW - Données d'image brutes",
   "description":"Découvrez le format RAW et les API permettant de créer et d'ouvrir des fichiers RAW.",
-"titre du lien": "RAW",
+"linktitle": "RAW",
   "menu": {
     "docs": {
       "identifier": "image-raw",
-"parent": "image"
+"parent" : "image"
 }
 },
 "dernier mod": "2023-06-15"

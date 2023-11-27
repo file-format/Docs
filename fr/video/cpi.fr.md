@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Format de fichier CPI - Informations sur le clip vidéo AVCHD",
    "description":"Découvrez le format de fichier d'informations sur les clips vidéo CPI AVCHD et les API permettant de créer et d'ouvrir des fichiers CPI.",
-"linktitle": "IPC",
+"linktitle": "CPI",
    "menu":{
       "docs":{
          "identifier":"video-cpi",
-"parent": "vidéo"
+"parent" : "video"
 }
 },
 "lastmod": "2023-10-18"

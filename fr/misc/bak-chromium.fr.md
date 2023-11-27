@@ -17,11 +17,11 @@
 "toc" : true,
 "title": "Format de fichier BAK - Sauvegarde des signets Chromium",
   "description":"Découvrez le format des signets BAK Chromium et les API permettant de créer et d'ouvrir des fichiers BAK.",
-"linktitle": "Signets BAK Chromium",
+"linktitle": "BAK Chromium Bookmarks",
   "menu": {
     "docs": {
       "identifier": "misc-bak-chromium",
-"parent": "divers"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-12"

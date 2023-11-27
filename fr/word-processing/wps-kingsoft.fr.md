@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "word-processing-wps-kingsoft",
-"parent": "traitement de texte"
+"parent" : "word-processing"
 }
 },
 "lastmod": "2023-09-21"

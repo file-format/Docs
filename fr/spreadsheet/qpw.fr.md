@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "spreadsheet-qpw",
-"parent": "feuille de calcul"
+"parent" : "spreadsheet"
 }
 },
 "lastmod": "2023-02-28"

@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Fichier INK - Référence Pantone - Qu'est-ce qu'un fichier .ink et comment l'ouvrir ?",
    "description":"Découvrez le format de fichier INK Pantone Reference et les API permettant de créer et d'ouvrir des fichiers INK.",
-"linktitle": "ENCRE",
+"linktitle": "INK",
    "menu":{
       "docs":{
          "identifier":"image-ink",
-"parent": "image"
+"parent" : "image"
 }
 },
 "lastmod": "2023-11-09"

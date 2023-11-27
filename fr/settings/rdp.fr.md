@@ -16,11 +16,11 @@
 "toc" : true,
 "title": "Format de fichier RDP - Fichier de configuration du Bureau à distance",
   "description":"Découvrez le format RDP et les API permettant de créer et d'ouvrir des fichiers RDP.",
-"titre du lien": "RDP",
+"linktitle": "RDP",
   "menu": {
     "docs": {
       "identifier": "settings-rdp",
-"parent": "paramètres"
+"parent" : "settings"
 }
 },
 "derniermod": "02/05/2023"

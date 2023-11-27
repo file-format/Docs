@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "system-ani",
-"parent": "système"
+"parent" : "system"
 }
 },
 "derniermod": "08/03/2023"

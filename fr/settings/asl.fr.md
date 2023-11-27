@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-asl",
-"parent": "paramètres"
+"parent" : "settings"
 }
 },
 "derniermod": "2023-04-28"

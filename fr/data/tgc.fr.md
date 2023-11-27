@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"data-tgc",
-"parent": "données"
+"parent" : "data"
 }
 },
 "lastmod": "2023-11-09"

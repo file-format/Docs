@@ -15,11 +15,11 @@
 "toc" : true,
 "title": "Que sont les fichiers multimédias ? Types, formats et leur impact sur la communication numérique",
   "description":"Découvrez les fichiers multimédias, leurs types, leurs formats et leur impact sur la communication numérique.",
-"linktitle": "FICHIERS MÉDIAS",
+"linktitle": "MEDIA FILES",
   "menu": {
     "docs": {
       "identifier": "misc-media-files",
-"parent": "divers"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-19"

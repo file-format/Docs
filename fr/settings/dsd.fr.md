@@ -16,11 +16,11 @@
 "toc" : true,
 "title": "Format de fichier DSD - Fichier de description du jeu de dessins AutoCAD",
   "description":"Découvrez le format DSD et les API permettant de créer et d'ouvrir des fichiers DSD.",
-"titre du lien": "DSD",
+"linktitle": "DSD",
   "menu": {
     "docs": {
       "identifier": "settings-dsd",
-"parent": "paramètres"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-04-13"

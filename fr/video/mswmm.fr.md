@@ -15,11 +15,11 @@
 "toc" : true,
 "title": "Format de fichier MSWMM - Projet Windows Movie Maker",
   "description":"Découvrez le format de fichier MSWMM et les API permettant de créer et d'ouvrir des fichiers MSWMM.",
-"titre du lien": "MSWMM",
+"linktitle": "MSWMM",
   "menu": {
     "docs": {
       "identifier": "video-mswmm",
-"parent": "vidéo"
+"parent" : "video"
 }
 },
 "derniermod": "08/02/2023"

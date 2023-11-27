@@ -17,11 +17,11 @@
 "toc" : true,
 "title": "Format de fichier CFG - Fichier de configuration MUGEN",
   "description":"Découvrez le format de fichier de configuration CFG MUGEN et les API permettant de créer et d'ouvrir des fichiers CFG.",
-"linktitle": "CFG MUGEN",
+"linktitle": "CFG M.U.G.E.N",
   "menu": {
     "docs": {
       "identifier": "game-cfg-mugen",
-"parent": "jeu"
+"parent" : "game"
 }
 },
 "lastmod": "2023-09-27"

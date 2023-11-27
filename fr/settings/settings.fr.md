@@ -14,11 +14,11 @@
 "toc" : true,
 "title": "Format de fichier PARAMÈTRES - Fichier de paramètres Visual Studio",
   "description":"Découvrez le format SETTINGS et les API permettant de créer et d'ouvrir des fichiers SETTINGS.",
-"linktitle": "PARAMÈTRES",
+"linktitle": "SETTINGS",
   "menu": {
     "docs": {
       "identifier": "settings-settings",
-"parent": "paramètres"
+"parent" : "settings"
 }
 },
 "derniermod": "2023-03-29"

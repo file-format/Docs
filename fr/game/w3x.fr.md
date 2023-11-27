@@ -18,11 +18,11 @@
 "toc" : true,
 "title": "Format de fichier W3X - Fichier de carte d'extension Warcraft 3",
   "description":"Découvrez le format W3X et les API permettant de créer et d'ouvrir des fichiers W3X.",
-"titre du lien": "W3X",
+"linktitle": "W3X",
   "menu": {
     "docs": {
       "identifier": "game-w3x",
-"parent": "jeu"
+"parent" : "game"
 }
 },
 "lastmod": "2023-04-13"

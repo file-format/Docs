@@ -14,11 +14,11 @@
 "toc" : true,
 "title": "Format de fichier CRYPT12 - Fichier de base de données crypté WhatsApp",
   "description":"Découvrez le format CRYPT12 et les API permettant de créer et d'ouvrir des fichiers CRYPT12.",
-"linktitle": "CRYPTE12",
+"linktitle": "CRYPT12",
   "menu": {
     "docs": {
       "identifier": "database-crypt12",
-"parent": "base de données"
+"parent" : "database"
 }
 },
 "lastmod": "2023-03-14"

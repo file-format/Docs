@@ -15,11 +15,11 @@
 "toc" : true,
 "title": "Format de fichier M4R - Fichier de sonnerie iPhone",
   "description":"Découvrez le format de fichier M4R et les API permettant de créer et d'ouvrir des fichiers M4R.",
-"titre du lien": "M4R",
+"linktitle": "M4R",
   "menu": {
     "docs": {
       "identifier": "audio-m4r",
-"parent": "audio"
+"parent" : "audio"
 }
 },
 "lastmod": "2023-03-30"

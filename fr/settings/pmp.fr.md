@@ -15,11 +15,11 @@
 "toc" : true,
 "title": "Format de fichier PMP - Fichier de paramètres du modèle de tracé AutoCAD",
   "description":"Découvrez le format PMP et les API permettant de créer et d'ouvrir des fichiers PMP.",
-"titre du lien": "PMP",
+"linktitle": "PMP",
   "menu": {
     "docs": {
       "identifier": "settings-pmp",
-"parent": "paramètres"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-03-28"

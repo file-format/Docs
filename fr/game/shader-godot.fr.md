@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"game-shader-godot",
-"parent": "jeu"
+"parent" : "game"
 }
 },
 "lastmod": "2023-10-11"

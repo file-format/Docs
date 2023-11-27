@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "data-cs-colorschemer",
-"parent": "données"
+"parent" : "data"
 }
 },
 "lastmod": "2023-10-04"

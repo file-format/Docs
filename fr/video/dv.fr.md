@@ -22,7 +22,7 @@
   "menu": {
     "docs": {
       "identifier": "video-dv",
-"parent": "vidéo"
+"parent" : "video"
 }
 },
 "lastmod": "2023-05-31"

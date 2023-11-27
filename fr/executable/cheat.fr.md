@@ -17,11 +17,11 @@
 "toc" : true,
 "title": "Format de fichier CHEAT - Feuille de triche Navi",
   "description":"Découvrez le format CHEAT et les API permettant de créer et d'ouvrir des fichiers CHEAT.",
-"linktitle": "TRICHER",
+"linktitle": "CHEAT",
   "menu": {
     "docs": {
       "identifier": "executable-cheat",
-"parent": "exécutable"
+"parent" : "executable"
 }
 },
 "lastmod": "2023-05-10"

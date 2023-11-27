@@ -15,11 +15,11 @@
 "toc" : true,
 "title": "Format de fichier OPT - Fichier Opterecenja",
   "description":"Découvrez le format de fichier OPT et les API permettant de créer et d'ouvrir des fichiers OPT.",
-"linktitle": "OPTER",
+"linktitle": "OPT",
   "menu": {
     "docs": {
       "identifier": "cad-opt",
-"parent": "cad"
+"parent" : "cad"
 }
 },
 "lastmod": "2023-02-21"

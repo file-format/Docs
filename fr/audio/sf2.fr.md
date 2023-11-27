@@ -15,11 +15,11 @@
 "toc" : true,
 "title": "Format de fichier SF2 - Banque de sons SoundFont 2",
   "description":"Découvrez le format de fichier SF2 et les API permettant de créer et d'ouvrir des fichiers SF2.",
-"titre du lien": "SF2",
+"linktitle": "SF2",
   "menu": {
     "docs": {
       "identifier": "audio-sf2",
-"parent": "audio"
+"parent" : "audio"
 }
 },
 "lastmod": "2023-02-14"

@@ -19,11 +19,11 @@
 "toc" : true,
 "title": "Format de fichier SUB - Fichier de sous-titres MicroDVD",
   "description":"Découvrez le format SUB et les API permettant de créer et d'ouvrir des fichiers SUB.",
-"linktitle": "SOUS",
+"linktitle": "SUB",
   "menu": {
     "docs": {
       "identifier": "video-sub",
-"parent": "vidéo"
+"parent" : "video"
 }
 },
 "lastmod": "2023-06-21"

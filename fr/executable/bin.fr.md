@@ -19,7 +19,7 @@
    "menu":{
       "docs":{
          "identifier":"executable-bin",
-"parent": "exécutable"
+"parent" : "executable"
 }
 },
 "lastmod": "20/07/2023"

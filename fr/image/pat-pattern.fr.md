@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Format de fichier PAT - Fichier de modèles",
    "description":"Découvrez le format de fichier PAT Pattern et les API permettant de créer et d'ouvrir des fichiers PAT.",
-"linktitle": "Modèle PAT",
+"linktitle": "PAT Pattern",
    "menu":{
       "docs":{
          "identifier":"image-pat-pattern",
-"parent": "image"
+"parent" : "image"
 }
 },
 "lastmod": "2023-11-01"
