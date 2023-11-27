@@ -17,11 +17,11 @@
 "toc": true,
 "title": "META 파일 형식 - Exient 메타데이터 파일",
   "description":"META 파일을 생성하고 열 수 있는 META 형식과 API에 대해 알아보세요.",
-"linktitle": "메타",
+"linktitle": "META",
   "menu": {
     "docs": {
       "identifier": "game-meta",
-"parent": "게임"
+"parent" : "game"
 }
 },
 "lastmod": "2023-06-21"

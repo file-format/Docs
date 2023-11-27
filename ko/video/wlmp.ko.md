@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "video-wlmp",
-"parent": "동영상"
+"parent" : "video"
 }
 },
 "lastmod": "2023-02-08"

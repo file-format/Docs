@@ -18,11 +18,11 @@
 "toc": true,
 "title": "데스크탑 파일 형식 - 데스크탑 항목 파일",
   "description":"DESKTOP 파일을 만들고 열 수 있는 DESKTOP 형식과 API에 대해 알아보세요.",
-"linktitle": "데스크탑",
+"linktitle": "DESKTOP",
   "menu": {
     "docs": {
       "identifier": "settings-desktop",
-"parent": "설정"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-05-31"

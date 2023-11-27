@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAK 파일 형식 - VEGAS 비디오 프로젝트 백업",
   "description":"BAK VEGAS 비디오 프로젝트 백업 형식과 BAK 파일을 생성하고 열 수 있는 API에 대해 알아보세요.",
-"linktitle": "BAK VEGAS 비디오",
+"linktitle": "BAK VEGAS Video",
   "menu": {
     "docs": {
       "identifier": "misc-bak-vegas",
-"parent": "기타"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-12"

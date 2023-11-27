@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "audio-mscz",
-"parent": "오디오"
+"parent" : "audio"
 }
 },
 "lastmod": "2023-06-05"

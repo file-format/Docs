@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-isn",
-"parent": "기타"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-04-20"

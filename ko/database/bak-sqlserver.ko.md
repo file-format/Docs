@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAK 파일 형식 - Microsoft SQL Server 데이터베이스 백업",
   "description":"BAK SQL Server 백업 형식과 BAK 파일을 만들고 열 수 있는 API에 대해 알아보세요.",
-"linktitle": "BAK SQL 서버",
+"linktitle": "BAK SQL Server",
   "menu": {
     "docs": {
       "identifier": "database-bak-sqlserver",
-"parent": "데이터베이스"
+"parent" : "database"
 }
 },
 "lastmod": "2023-06-12"

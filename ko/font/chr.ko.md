@@ -17,11 +17,11 @@
 "toc":true,
 "title":"CHR 파일 형식 - 볼랜드 문자 세트",
    "description":"CHR 파일을 만들고 열 수 있는 CHR Borland 문자 집합 파일 형식과 API에 대해 알아보세요.",
-"링크제목":"CHR",
+"linktitle":"CHR",
    "menu":{
       "docs":{
          "identifier":"font-chr",
-"parent":"글꼴"
+"parent" : "font"
 }
 },
 "lastmod":"2023-10-11"

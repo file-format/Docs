@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "compression-cb7",
-"parent": "압축"
+"parent" : "compression"
 }
 },
 "lastmod": "2023-05-24"

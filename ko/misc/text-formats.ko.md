@@ -12,11 +12,11 @@
 "toc": true,
 "title": "텍스트 형식, 유형 및 FAQ",
   "description":"텍스트 형식, 텍스트 형식 유형, 텍스트 형식 목록 및 FAQ에 대해 알아보기",
-"linktitle": "텍스트 형식",
+"linktitle": "TEXT FORMATS",
   "menu": {
     "docs": {
       "identifier": "misc-text-formats",
-"parent": "기타"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-07-06"

@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "audio-mui",
-"parent": "오디오"
+"parent" : "audio"
 }
 },
 "lastmod": "2023-02-14"

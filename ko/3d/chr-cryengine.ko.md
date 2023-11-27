@@ -17,11 +17,11 @@
 "toc":true,
 "title":"CHR 파일 형식 - CryENGINE 캐릭터 파일",
    "description":"CHR CryENGINE 문자 파일 형식과 CHR 파일을 생성하고 열 수 있는 API에 대해 알아보세요.",
-"linktitle": "CHR 크라이엔진",
+"linktitle": "CHR CryENGINE",
    "menu":{
       "docs":{
          "identifier":"3d-chr-cryengine",
-"parent":"3d"
+"parent" : "3d"
 }
 },
 "lastmod":"2023-10-11"

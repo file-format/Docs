@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"system-cpi",
-"parent":"시스템"
+"parent" : "system"
 }
 },
 "lastmod":"2023-10-18"

@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-pkpass",
-"parent": "기타"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-04-06"

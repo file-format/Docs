@@ -15,11 +15,11 @@
 "toc": true,
 "title": "미디어 파일이란 무엇입니까? 유형, 형식 및 디지털 통신에 미치는 영향",
   "description":"미디어 파일, 해당 유형, 형식 및 디지털 커뮤니케이션에 미치는 영향에 대해 알아보세요.",
-"linktitle": "미디어 파일",
+"linktitle": "MEDIA FILES",
   "menu": {
     "docs": {
       "identifier": "misc-media-files",
-"parent": "기타"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-19"

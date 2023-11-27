@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"disc-and-media-cue-cdrwin",
-"parent":"디스크 및 미디어"
+"parent" : "disc-and-media"
 }
 },
 "lastmod":"2023-10-18"

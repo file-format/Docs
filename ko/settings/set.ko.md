@@ -15,11 +15,11 @@
 "toc": true,
 "title": "SET 파일 형식 - 문서 라이브러리 속성 집합 파일",
   "description":"SET 파일을 생성하고 열 수 있는 SET 형식과 API에 대해 알아보세요.",
-"linktitle": "설정",
+"linktitle": "SET",
   "menu": {
     "docs": {
       "identifier": "settings-set",
-"parent": "설정"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-03-21"

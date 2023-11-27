@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAK 파일 형식 - Finale 2012 점수 백업",
   "description":"BAK 파일을 만들고 열 수 있는 BAK Finale 형식과 API에 대해 알아보세요.",
-"linktitle": "BAK 피날레",
+"linktitle": "BAK Finale",
   "menu": {
     "docs": {
       "identifier": "misc-bak-finale",
-"parent": "기타"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-12"

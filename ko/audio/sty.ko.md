@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "audio-sty",
-"parent": "오디오"
+"parent" : "audio"
 }
 },
 "lastmod": "2023-06-15"

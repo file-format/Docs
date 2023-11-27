@@ -17,11 +17,11 @@
 "toc":true,
 "title":"CHR 파일 형식 - 두근두근 문학부! 캐릭터 파일",
    "description":"CHR 두근두근 문학클럽에 대해 알아보세요! CHR 파일을 생성하고 열 수 있는 문자 파일 형식과 API에 대해 알아보세요.",
-"linktitle": "CHR 도키",
+"linktitle": "CHR Doki",
    "menu":{
       "docs":{
          "identifier":"game-chr-doki",
-"parent":"게임"
+"parent" : "game"
 }
 },
 "lastmod":"2023-10-11"

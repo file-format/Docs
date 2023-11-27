@@ -15,11 +15,11 @@
 "toc": true,
 "title": "KINE 파일 형식 - KineMaster 프로젝트 파일",
   "description":"KINE 파일 형식과 KINE 파일을 생성하고 열 수 있는 API에 대해 알아보세요.",
-"linktitle": "카인",
+"linktitle": "KINE",
   "menu": {
     "docs": {
       "identifier": "video-kine",
-"parent": "동영상"
+"parent" : "video"
 }
 },
 "lastmod": "2023-02-09"

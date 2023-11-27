@@ -15,11 +15,11 @@
 "toc": true,
 "title": "VEG 파일 형식 - MAGIX VEGAS 비디오 프로젝트",
   "description":"VEG 파일 형식과 VEG 파일을 만들고 열 수 있는 API에 대해 알아보세요.",
-"linktitle": "채소",
+"linktitle": "VEG",
   "menu": {
     "docs": {
       "identifier": "video-veg",
-"parent": "동영상"
+"parent" : "video"
 }
 },
 "lastmod": "2023-02-07"

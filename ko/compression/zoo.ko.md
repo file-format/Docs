@@ -17,11 +17,11 @@
 "toc":true,
 "title":"ZOO 파일 - .zoo 파일은 무엇이며 어떻게 열 수 있나요?",
    "description":"ZOO 파일을 만들고 열 수 있는 ZOO 압축 파일 형식과 API에 대해 알아보세요.",
-"linktitle":"동물원",
+"linktitle":"ZOO",
    "menu":{
       "docs":{
          "identifier":"compression-zoo",
-"parent":"압축"
+"parent" : "compression"
 }
 },
 "lastmod":"2023-11-09"

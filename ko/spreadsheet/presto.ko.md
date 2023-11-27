@@ -15,11 +15,11 @@
 "toc": true,
 "title": "PRESTO 파일 형식 - Presto 프로젝트 스프레드시트",
   "description":"PRESTO 파일을 생성하고 열 수 있는 PRESTO 형식과 API에 대해 알아보세요.",
-"linktitle": "프레스토",
+"linktitle": "PRESTO",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-presto",
-"parent": "스프레드시트"
+"parent" : "spreadsheet"
 }
 },
 "lastmod": "2023-03-01"

@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAK 파일 형식 - 홀로 런처 백업",
   "description":"BAK Holo Launcher 백업 형식과 BAK 파일을 생성하고 열 수 있는 API에 대해 알아보세요.",
-"linktitle": "박홀로",
+"linktitle": "BAK HOLO",
   "menu": {
     "docs": {
       "identifier": "settings-bak-holo",
-"parent": "설정"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-06-12"

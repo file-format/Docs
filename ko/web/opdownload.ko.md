@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "web-opdownload",
-"parent": "웹"
+"parent" : "web"
 }
 },
 "lastmod": "2023-03-14"

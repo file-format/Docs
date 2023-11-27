@@ -15,11 +15,11 @@
 "toc": true,
 "title": "파일 형식 다운로드 중 - Pando 불완전 다운로드 파일",
   "description":"DOWNLOADING 파일을 생성하고 열 수 있는 DOWNLOADING 형식과 API에 대해 알아보세요.",
-"linktitle": "다운로드 중",
+"linktitle": "DOWNLOADING",
   "menu": {
     "docs": {
       "identifier": "misc-downloading",
-"parent": "기타"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-04-18"

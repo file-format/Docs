@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"audio-caf",
-"parent":"오디오"
+"parent" : "audio"
 }
 },
 "lastmod":"2023-10-04"

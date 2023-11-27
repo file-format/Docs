@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BPS 파일 형식 - Microsoft Works 문서 백업",
   "description":"BPS 파일을 만들고 열 수 있는 BPS Works 형식과 API에 대해 알아보세요.",
-"linktitle": "BPS 작동",
+"linktitle": "BPS Works",
   "menu": {
     "docs": {
       "identifier": "misc-bps-works",
-"parent": "기타"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-09-21"

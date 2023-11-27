@@ -17,11 +17,11 @@
 "toc": true,
 "title": "CFG 파일 형식 - Celestia 구성 파일",
   "description":"CFG Celestia 구성 파일 형식과 CFG 파일을 만들고 열 수 있는 API에 대해 알아보세요.",
-"linktitle": "CFG 셀레스티아",
+"linktitle": "CFG Celestia",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-celestia",
-"parent": "설정"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-09-27"

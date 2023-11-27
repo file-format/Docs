@@ -17,11 +17,11 @@
 "toc":true,
 "title":"CAF 파일 형식 - CryENGINE 캐릭터 애니메이션 파일",
    "description":"CAF CryENGINE 캐릭터 애니메이션 파일 형식과 CAF 파일을 생성하고 열 수 있는 API에 대해 알아보세요.",
-"linktitle": "CAF 크라이엔진",
+"linktitle": "CAF CryENGINE",
    "menu":{
       "docs":{
          "identifier":"programming-caf-cryengine",
-"parent":"프로그래밍"
+"parent" : "programming"
 }
 },
 "lastmod":"2023-01-04"

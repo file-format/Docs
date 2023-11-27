@@ -15,11 +15,11 @@
 "toc": true,
 "title": "CHIP 파일 형식 - 마이크로어레이 주석 파일",
   "description":"CHIP 파일 형식과 CHIP 파일을 생성하고 열 수 있는 API에 대해 알아보세요.",
-"linktitle": "칩",
+"linktitle": "CHIP",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-chip",
-"parent": "스프레드시트"
+"parent" : "spreadsheet"
 }
 },
 "lastmod": "2023-03-01"

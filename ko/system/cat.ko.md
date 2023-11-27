@@ -16,11 +16,11 @@
 "toc":true,
 "title": "CAT 파일 형식 - Windows 카탈로그 파일",
    "description":"CAT 파일을 생성하고 열 수 있는 CAT 형식과 API에 대해 알아보세요.",
-"linktitle":"고양이",
+"linktitle":"CAT",
    "menu":{
       "docs":{
          "identifier":"system-cat",
-"parent":"시스템"
+"parent" : "system"
 }
 },
 "lastmod":"2023-07-06"

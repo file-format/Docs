@@ -17,11 +17,11 @@
 "toc": true,
 "title": "CFG 파일 형식 - 소스 엔진 구성 파일",
   "description":"CFG 소스 엔진 구성 파일 형식과 CFG 파일을 만들고 열 수 있는 API에 대해 알아보세요.",
-"linktitle": "CFG 소스 엔진",
+"linktitle": "CFG Source Engine",
   "menu": {
     "docs": {
       "identifier": "game-cfg-sourceengine",
-"parent": "게임"
+"parent" : "game"
 }
 },
 "lastmod": "2023-09-27"

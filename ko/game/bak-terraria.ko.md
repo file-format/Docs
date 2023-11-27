@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAK 파일 형식 - Terraria World 또는 Player 백업",
   "description":"BAK 파일을 생성하고 열 수 있는 BAK Terraria 게임 형식과 API에 대해 알아보세요.",
-"linktitle": "박 테라리아",
+"linktitle": "BAK TERRARIA",
   "menu": {
     "docs": {
       "identifier": "game-bak-terraria",
-"parent": "게임"
+"parent" : "game"
 }
 },
 "lastmod": "2023-06-12"

@@ -18,11 +18,11 @@
 "toc": true,
 "title": "FPT 파일 형식 - Alpha Five 테이블 메모 파일",
   "description":"FPT 파일을 만들고 열 수 있는 FPT Alpha Five 형식과 API에 대해 알아보세요.",
-"linktitle": "FPT 알파 파이브",
+"linktitle": "FPT Alpha Five",
   "menu": {
     "docs": {
       "identifier": "database-fpt-alphafive",
-"parent": "데이터베이스"
+"parent" : "database"
 }
 },
 "lastmod": "2023-04-27"

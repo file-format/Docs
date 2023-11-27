@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "database-pdb",
-"parent": "데이터베이스"
+"parent" : "database"
 }
 },
 "lastmod": "2023-06-26"

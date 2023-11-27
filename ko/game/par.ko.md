@@ -15,11 +15,11 @@
 "toc":true,
 "title":"PAR 파일 형식 - FMS 항공기 매개변수 파일",
    "description":"PAR 파일을 생성하고 열 수 있는 PAR 형식과 API에 대해 알아보세요.",
-"링크제목":"PAR",
+"linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"game-par",
-"parent":"게임"
+"parent" : "game"
 }
 },
 "lastmod":"2023-07-18"

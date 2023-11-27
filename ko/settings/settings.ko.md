@@ -14,11 +14,11 @@
 "toc": true,
 "title": "SETTINGS 파일 형식 - Visual Studio 설정 파일",
   "description":"SETTINGS 형식과 SETTINGS 파일을 생성하고 열 수 있는 API에 대해 알아보세요.",
-"linktitle": "설정",
+"linktitle": "SETTINGS",
   "menu": {
     "docs": {
       "identifier": "settings-settings",
-"parent": "설정"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-03-29"

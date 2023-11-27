@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "game-litemod",
-"parent": "게임"
+"parent" : "game"
 }
 },
 "lastmod": "2023-03-15"

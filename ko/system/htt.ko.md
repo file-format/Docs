@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "system-htt",
-"parent": "시스템"
+"parent" : "system"
 }
 },
 "lastmod": "2023-03-09"

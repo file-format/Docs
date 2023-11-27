@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAK 파일 형식 - 백업 파일",
   "description":"BAK 파일을 생성하고 열 수 있는 BAK 백업 형식과 API에 대해 알아보세요.",
-"linktitle": "BAK 백업",
+"linktitle": "BAK Backup",
   "menu": {
     "docs": {
       "identifier": "misc-bak-backup",
-"parent": "기타"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-12"

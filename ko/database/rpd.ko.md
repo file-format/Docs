@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "database-rpd",
-"parent": "데이터베이스"
+"parent" : "database"
 }
 },
 "lastmod": "2023-09-05"

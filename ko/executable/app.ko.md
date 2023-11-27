@@ -15,11 +15,11 @@
 "toc": true,
   "description":"APP 파일 형식과 APP 파일을 생성하고 열 수 있는 API에 대해 알아보세요.",
 "title": "APP 파일 형식 - macOS 애플리케이션 번들",
-"linktitle": "앱",
+"linktitle": "APP",
   "menu": {
     "docs": {
       "identifier": "executable-app",
-"parent": "실행 가능"
+"parent" : "executable"
 }
 },
 "lastmod": "2023-02-02"

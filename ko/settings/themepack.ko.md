@@ -15,11 +15,11 @@
 "toc": true,
 "title": "THEMEPACK 파일 형식 - Windows 7 테마 팩",
   "description":"THEMEPACK 파일을 생성하고 열 수 있는 THEMEPACK 형식과 API에 대해 알아보세요.",
-"linktitle": "테마팩",
+"linktitle": "THEMEPACK",
   "menu": {
     "docs": {
       "identifier": "settings-themepack",
-"parent": "설정"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-03-23"

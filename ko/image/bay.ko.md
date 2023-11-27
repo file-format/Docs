@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAY 파일 형식 - Casio RAW 이미지",
   "description":"BAY 파일을 만들고 열 수 있는 BAY 형식과 API에 대해 알아보세요.",
-"linktitle": "베이",
+"linktitle": "BAY",
   "menu": {
     "docs": {
       "identifier": "image-bay",
-"parent": "이미지"
+"parent" : "image"
 }
 },
 "lastmod": "2023-06-15"

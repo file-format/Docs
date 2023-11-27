@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "video-exp",
-"parent": "동영상"
+"parent" : "video"
 }
 },
 "lastmod": "2023-07-13"

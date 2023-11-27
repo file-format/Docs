@@ -22,7 +22,7 @@
   "menu": {
     "docs": {
       "identifier": "audio-aif",
-"parent": "오디오"
+"parent" : "audio"
 }
 },
 "lastmod": "2023-05-30"

@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "database-usr",
-"parent": "데이터베이스"
+"parent" : "database"
 }
 },
 "lastmod": "2023-08-03"

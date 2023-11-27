@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAK 파일 형식 - Act! 데이터베이스 백업",
   "description":"BAK Act! 백업 형식과 BAK 파일을 생성하고 열 수 있는 API에 대해 알아보세요.",
-"linktitle": "BAK ACT 백업",
+"linktitle": "BAK ACT Backup",
   "menu": {
     "docs": {
       "identifier": "database-bak-act",
-"parent": "데이터베이스"
+"parent" : "database"
 }
 },
 "lastmod": "2023-06-12"

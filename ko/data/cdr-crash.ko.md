@@ -17,11 +17,11 @@
 "toc":true,
 "title":"CDR 파일 - 충돌 데이터 검색 데이터 파일 - .cdr 파일은 무엇이며 어떻게 열 수 있나요?",
    "description":"CDR 충돌 데이터 검색 데이터 파일 형식과 CDR 파일을 생성하고 열 수 있는 API에 대해 알아보세요.",
-"링크제목":"CDR",
+"linktitle":"CDR",
    "menu":{
       "docs":{
          "identifier":"data-cdr-crash",
-"parent":"데이터"
+"parent" : "data"
 }
 },
 "lastmod":"2023-10-18"

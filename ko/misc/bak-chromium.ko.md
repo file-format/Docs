@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAK 파일 형식 - Chromium 북마크 백업",
   "description":"BAK 파일을 만들고 열 수 있는 BAK Chromium 북마크 형식과 API에 대해 알아보세요.",
-"linktitle": "BAK 크롬 북마크",
+"linktitle": "BAK Chromium Bookmarks",
   "menu": {
     "docs": {
       "identifier": "misc-bak-chromium",
-"parent": "기타"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-12"

@@ -15,11 +15,11 @@
 "toc": true,
 "title": "OPT 파일 형식 - Opterecenja 파일",
   "description":"OPT 파일 형식과 OPT 파일을 생성하고 열 수 있는 API에 대해 알아보세요.",
-"linktitle": "선택",
+"linktitle": "OPT",
   "menu": {
     "docs": {
       "identifier": "cad-opt",
-"parent": "cad"
+"parent" : "cad"
 }
 },
 "lastmod": "2023-02-21"

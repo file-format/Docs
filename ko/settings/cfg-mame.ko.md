@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-cfg-mame",
-"parent": "설정"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-09-27"

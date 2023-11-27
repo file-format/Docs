@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "programming-vcproj",
-"parent": "프로그래밍"
+"parent" : "programming"
 }
 },
 "lastmod": "2023-05-15"

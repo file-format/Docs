@@ -19,7 +19,7 @@
    "menu":{
       "docs":{
          "identifier":"executable-bin",
-"parent":"실행 가능"
+"parent" : "executable"
 }
 },
 "lastmod":"2023-07-20"

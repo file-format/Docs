@@ -15,11 +15,11 @@
 "toc": true,
 "title": "BLEND 파일 형식 - 블렌더 3D 파일",
   "description":"BLEND 파일을 만들고 열 수 있는 BLEND 형식과 API에 대해 알아보세요.",
-"linktitle": "블렌드",
+"linktitle": "BLEND",
   "menu": {
     "docs": {
       "identifier": "3d-blend",
-"parent": "3d"
+"parent" : "3d"
 }
 },
 "lastmod": "2023-04-13"

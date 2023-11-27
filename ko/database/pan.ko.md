@@ -16,11 +16,11 @@
 "toc": true,
 "title": "PAN 파일 형식 - 파노라마 데이터베이스 파일",
   "description":"PAN 파일을 만들고 열 수 있는 PAN 형식과 API에 대해 알아보세요.",
-"linktitle": "팬",
+"linktitle": "PAN",
   "menu": {
     "docs": {
       "identifier": "database-pan",
-"parent": "데이터베이스"
+"parent" : "database"
 }
 },
 "lastmod": "2023-05-18"

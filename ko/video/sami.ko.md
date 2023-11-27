@@ -15,11 +15,11 @@
 "toc": true,
 "title": "SAMI 파일 형식 - 자막 및 메타데이터 교환 파일",
   "description":"SAMI 파일을 생성하고 열 수 있는 SAMI 형식과 API에 대해 알아보세요.",
-"linktitle": "사미",
+"linktitle": "SAMI",
   "menu": {
     "docs": {
       "identifier": "video-sami",
-"parent": "동영상"
+"parent" : "video"
 }
 },
 "lastmod": "2023-05-16"

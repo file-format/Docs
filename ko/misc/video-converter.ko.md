@@ -14,11 +14,11 @@
 "toc": true,
 "title": "비디오 변환기란 무엇입니까? 비디오 변환기에 대한 최고의 가이드",
   "description":"비디오 변환기, 형식, FAQ 및 최고의 도구에 대해 알아보세요",
-"linktitle": "비디오 변환기",
+"linktitle": "VIDEO CONVERTER",
   "menu": {
     "docs": {
       "identifier": "misc-video-converter",
-"parent": "기타"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-07-03"

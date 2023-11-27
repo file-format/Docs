@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-fla",
-"parent": "기타"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-05"

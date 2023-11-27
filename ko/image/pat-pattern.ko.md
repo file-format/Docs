@@ -17,11 +17,11 @@
 "toc":true,
 "title": "PAT 파일 형식 - 패턴 파일",
    "description":"PAT 패턴 파일 형식과 PAT 파일을 생성하고 열 수 있는 API에 대해 알아보세요.",
-"linktitle": "PAT 패턴",
+"linktitle": "PAT Pattern",
    "menu":{
       "docs":{
          "identifier":"image-pat-pattern",
-"parent":"이미지"
+"parent" : "image"
 }
 },
 "lastmod":"2023-11-01"

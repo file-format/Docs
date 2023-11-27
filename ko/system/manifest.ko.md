@@ -14,11 +14,11 @@
 "toc": true,
 "title": "MANIFEST 파일 형식 - Windows 응용 프로그램 매니페스트 파일",
   "description":"MANIFEST 파일을 생성하고 열 수 있는 MANIFEST 형식과 API에 대해 알아보세요.",
-"linktitle": "매니페스트",
+"linktitle": "MANIFEST",
   "menu": {
     "docs": {
       "identifier": "system-manifest",
-"parent": "시스템"
+"parent" : "system"
 }
 },
 "lastmod": "2023-03-07"

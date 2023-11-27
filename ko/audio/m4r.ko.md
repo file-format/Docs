@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "audio-m4r",
-"parent": "오디오"
+"parent" : "audio"
 }
 },
 "lastmod": "2023-03-30"

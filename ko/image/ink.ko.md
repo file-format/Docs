@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"image-ink",
-"parent":"이미지"
+"parent" : "image"
 }
 },
 "lastmod":"2023-11-09"

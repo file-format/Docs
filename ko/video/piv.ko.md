@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "video-piv",
-"parent": "동영상"
+"parent" : "video"
 }
 },
 "lastmod": "2023-02-06"

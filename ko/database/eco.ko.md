@@ -16,11 +16,11 @@
 "toc": true,
 "title": "ECO 파일 형식 - ECCO 데이터베이스 파일",
   "description":"ECO 파일을 생성하고 열 수 있는 ECO 형식과 API에 대해 알아보세요.",
-"linktitle": "에코",
+"linktitle": "ECO",
   "menu": {
     "docs": {
       "identifier": "database-eco",
-"parent": "데이터베이스"
+"parent" : "database"
 }
 },
 "lastmod": "2023-08-03"

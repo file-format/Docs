@@ -17,11 +17,11 @@
 "toc":true,
 "title":"SHADER 파일 형식 - Quake 3 엔진 셰이더 파일",
    "description":"SHADER Quake 3 Engine 셰이더 파일 형식과 SHADER 파일을 생성하고 열 수 있는 API에 대해 알아보세요.",
-"linktitle": "SHADER 퀘이크",
+"linktitle": "SHADER Quake",
    "menu":{
       "docs":{
          "identifier":"game-shader-quake",
-"parent":"게임"
+"parent" : "game"
 }
 },
 "lastmod":"2023-10-11"

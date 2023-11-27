@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-pmp",
-"parent": "설정"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-03-28"

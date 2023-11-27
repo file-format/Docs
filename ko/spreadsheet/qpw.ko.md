@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "spreadsheet-qpw",
-"parent": "스프레드시트"
+"parent" : "spreadsheet"
 }
 },
 "lastmod": "2023-02-28"

@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "game-ttr",
-"parent": "게임"
+"parent" : "game"
 }
 },
 "lastmod": "2023-04-04"

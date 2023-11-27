@@ -17,11 +17,11 @@
 "toc": true,
 "title": "RPD 파일 형식 - 역할극 디자이너 데이터 파일",
   "description":"RPD 파일을 만들고 열 수 있는 RPD Roleplay Designer 데이터 파일 형식과 API에 대해 알아보세요.",
-"linktitle": "RPD 역할극",
+"linktitle": "RPD Roleplay",
   "menu": {
     "docs": {
       "identifier": "database-rpd-roleplay",
-"parent": "데이터베이스"
+"parent" : "database"
 }
 },
 "lastmod": "2023-04-27"

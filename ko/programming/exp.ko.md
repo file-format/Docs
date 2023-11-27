@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "programming-exp",
-"parent": "프로그래밍"
+"parent" : "programming"
 }
 },
 "lastmod": "2023-07-12"

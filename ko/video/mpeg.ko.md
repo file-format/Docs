@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "video-mpeg",
-"parent": "동영상"
+"parent" : "video"
 }
 },
 "lastmod": "2023-07-12"

@@ -15,11 +15,11 @@
 "toc":true,
 "title":"PAR 파일 형식 - 전용 마이크로 DVR 녹화",
    "description":"PAR 파일을 생성하고 열 수 있는 PAR 형식과 API에 대해 알아보세요.",
-"링크제목":"PAR",
+"linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"video-par",
-"parent":"동영상"
+"parent" : "video"
 }
 },
 "lastmod":"2023-07-18"

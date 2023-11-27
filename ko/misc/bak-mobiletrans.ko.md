@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAK 파일 형식 - MobileTrans 백업",
   "description":"BAK 파일을 만들고 열 수 있는 BAK MobileTrans 형식과 API에 대해 알아보세요.",
-"linktitle": "BAK 모바일트랜스",
+"linktitle": "BAK MobileTrans",
   "menu": {
     "docs": {
       "identifier": "misc-bak-mobiletrans",
-"parent": "기타"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-12"

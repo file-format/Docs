@@ -17,11 +17,11 @@
 "toc": true,
 "title": "CFG 파일 형식 - Wesnoth 마크업 언어 파일",
   "description":"CFG Wesnoth 마크업 언어 파일 형식과 CFG 파일을 만들고 열 수 있는 API에 대해 알아보세요.",
-"linktitle": "CFG 웨스노스",
+"linktitle": "CFG Wesnoth",
   "menu": {
     "docs": {
       "identifier": "game-cfg-wesnoth",
-"parent": "게임"
+"parent" : "game"
 }
 },
 "lastmod": "2023-09-27"

@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"game-shader-unity",
-"parent":"게임"
+"parent" : "game"
 }
 },
 "lastmod":"2023-10-11"

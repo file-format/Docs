@@ -22,7 +22,7 @@
   "menu": {
     "docs": {
       "identifier": "database-fpt-foxpro",
-"parent": "데이터베이스"
+"parent" : "database"
 }
 },
 "lastmod": "2023-06-12"

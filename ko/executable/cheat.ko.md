@@ -17,11 +17,11 @@
 "toc": true,
 "title": "CEAT 파일 형식 - Navi Cheatsheet",
   "description":"CHEAT 파일을 생성하고 열 수 있는 CHEAT 형식과 API에 대해 알아보세요.",
-"linktitle": "치트",
+"linktitle": "CHEAT",
   "menu": {
     "docs": {
       "identifier": "executable-cheat",
-"parent": "실행 가능"
+"parent" : "executable"
 }
 },
 "lastmod": "2023-05-10"

@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "game-unity3d",
-"parent": "게임"
+"parent" : "game"
 }
 },
 "lastmod": "2023-03-16"

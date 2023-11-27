@@ -17,11 +17,11 @@
 "toc":true,
 "title":"PRT 파일 - 프리젠테이션 템플릿 - .prt 파일은 무엇이며 어떻게 열 수 있나요?",
    "description":"PRT 프레젠테이션 템플릿 파일 형식과 PRT 파일을 만들고 열 수 있는 API에 대해 알아보세요.",
-"링크제목":"PRT",
+"linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"data-prt-template",
-"parent":"데이터"
+"parent" : "data"
 }
 },
 "lastmod":"2023-10-18"
