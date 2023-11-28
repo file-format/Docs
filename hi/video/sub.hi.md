@@ -19,11 +19,11 @@
 "toc": true,
 "title": "उप फ़ाइल स्वरूप - माइक्रोडीवीडी उपशीर्षक फ़ाइल",
   "description":"एसयूबी प्रारूप और एपीआई के बारे में जानें जो एसयूबी फाइलें बना और खोल सकते हैं।",
-"linktitle": "उप",
+"linktitle": "SUB",
   "menu": {
     "docs": {
       "identifier": "video-sub",
-"parent": "वीडियो"
+"parent" : "video"
 }
 },
 "lastmod": "2023-06-21"

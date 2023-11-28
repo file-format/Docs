@@ -17,11 +17,11 @@
 "toc": true,
 "title": "पीआरटी फ़ाइल स्वरूप - कैडकी पार्ट फ़ाइल",
    "description":"PRT CADKEY पार्ट फ़ाइल स्वरूप और API के बारे में जानें जो PRT फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "पीआरटी कैडकी",
+"linktitle": "PRT CADKEY",
    "menu":{
       "docs":{
          "identifier":"cad-prt-cadkey",
-"parent": "सीएडी"
+"parent" : "cad"
 }
 },
 "लास्टमॉड": "2023-10-18"

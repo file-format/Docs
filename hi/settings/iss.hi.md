@@ -15,11 +15,11 @@
 "toc": true,
 "title": "आईएसएस फ़ाइल स्वरूप - इनो सेटअप स्क्रिप्ट",
   "description":"आईएसएस प्रारूप और एपीआई के बारे में जानें जो आईएसएस फाइलें बना और खोल सकते हैं।",
-"linktitle": "आईएसएस",
+"linktitle": "ISS",
   "menu": {
     "docs": {
       "identifier": "settings-iss",
-"पैरेंट": "सेटिंग्स"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-03-28"

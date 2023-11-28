@@ -17,11 +17,11 @@
 "toc": true,
 "title": "सीएएफ फ़ाइल प्रारूप - Cal3D बाइनरी एनीमेशन फ़ाइल",
    "description":"CAF Cal3D बाइनरी एनिमेशन फ़ाइल प्रारूप और API के बारे में जानें जो CAF फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "सीएएफ Cal3D",
+"linktitle": "CAF Cal3D",
    "menu":{
       "docs":{
          "identifier":"3d-caf-cal3d",
-"parent": "3डी"
+"parent" : "3d"
 }
 },
 "लास्टमॉड": "2023-01-04"

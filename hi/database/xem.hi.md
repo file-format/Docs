@@ -16,11 +16,11 @@
 "toc": true,
 "title": "एक्सईएम फ़ाइल प्रारूप - पॉवरडिज़ाइनर मॉडल परिभाषा फ़ाइल",
   "description":"XEM प्रारूप और API के बारे में जानें जो XEM फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "एक्सईएम",
+"linktitle": "XEM",
   "menu": {
     "docs": {
       "identifier": "database-xem",
-"पैरेंट": "डेटाबेस"
+"parent" : "database"
 }
 },
 "lastmod": "2023-04-27"

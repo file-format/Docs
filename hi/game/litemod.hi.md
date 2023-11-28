@@ -14,11 +14,11 @@
 "toc": true,
 "title": "LITEMOD फ़ाइल स्वरूप - Minecraft LiteLoader Mod फ़ाइल",
   "description":"LITEMOD प्रारूप और API के बारे में जानें जो LITEMOD फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "लाइटमॉड",
+"linktitle": "LITEMOD",
   "menu": {
     "docs": {
       "identifier": "game-litemod",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "lastmod": "2023-03-15"

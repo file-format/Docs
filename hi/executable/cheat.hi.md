@@ -17,11 +17,11 @@
 "toc": true,
 "title": "चीट फ़ाइल स्वरूप - नवी चीटशीट",
   "description":"CHEAT प्रारूप और API के बारे में जानें जो CHEAT फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "धोखा",
+"linktitle": "CHEAT",
   "menu": {
     "docs": {
       "identifier": "executable-cheat",
-"पैरेंट": "निष्पादन योग्य"
+"parent" : "executable"
 }
 },
 "lastmod": "2023-05-10"

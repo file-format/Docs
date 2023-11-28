@@ -18,11 +18,11 @@
 "toc": true,
 "title": "सीआरएक्स फ़ाइल प्रारूप - Google क्रोम एक्सटेंशन",
   "description":"सीआरएक्स प्रारूप और एपीआई के बारे में जानें जो सीआरएक्स फाइलें बना और खोल सकते हैं।",
-"linktitle": "सीआरएक्स",
+"linktitle": "CRX",
   "menu": {
     "docs": {
       "identifier": "misc-crx",
-"parent": "विविध"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-08"

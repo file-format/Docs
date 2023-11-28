@@ -15,11 +15,11 @@
 "toc": true,
 "title": "KINE फ़ाइल स्वरूप - KineMaster प्रोजेक्ट फ़ाइल",
   "description":"KINE फ़ाइल स्वरूप और API के बारे में जानें जो KINE फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "कीन",
+"linktitle": "KINE",
   "menu": {
     "docs": {
       "identifier": "video-kine",
-"parent": "वीडियो"
+"parent" : "video"
 }
 },
 "lastmod": "2023-02-09"

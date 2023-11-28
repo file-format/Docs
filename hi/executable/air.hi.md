@@ -14,11 +14,11 @@
 "toc": true,
   "description":"AIR फ़ाइल स्वरूप और API के बारे में जानें जो AIR फ़ाइलें बना और खोल सकते हैं।",
 "title": "एआईआर फ़ाइल प्रारूप - एडोब एआईआर इंस्टॉलेशन पैकेज फ़ाइल",
-"linktitle": "एयर",
+"linktitle": "AIR",
   "menu": {
     "docs": {
       "identifier": "executable-air",
-"पैरेंट": "निष्पादन योग्य"
+"parent" : "executable"
 }
 },
 "lastmod": "2023-02-01"

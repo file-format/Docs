@@ -17,11 +17,11 @@
 "toc": true,
 "title": "रॉ फ़ाइल स्वरूप - कच्चा छवि डेटा",
   "description":"RAW प्रारूप और API के बारे में जानें जो RAW फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "रॉ",
+"linktitle": "RAW",
   "menu": {
     "docs": {
       "identifier": "image-raw",
-"parent": "छवि"
+"parent" : "image"
 }
 },
 "lastmod": "2023-06-15"

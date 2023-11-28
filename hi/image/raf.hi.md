@@ -17,11 +17,11 @@
 "toc": true,
 "title": "आरएएफ फ़ाइल स्वरूप - फ़ूजीफिल्म रॉ छवि",
   "description":"आरएएफ प्रारूप और एपीआई के बारे में जानें जो आरएएफ फाइलें बना और खोल सकते हैं।",
-"linktitle": "आरएएफ",
+"linktitle": "RAF",
   "menu": {
     "docs": {
       "identifier": "image-raf",
-"parent": "छवि"
+"parent" : "image"
 }
 },
 "lastmod": "2023-06-15"

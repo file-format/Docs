@@ -15,11 +15,11 @@
 "toc": true,
 "title": "EFS फ़ाइल स्वरूप - Ensoniq SQ-80 फ़ाइल",
   "description":"ईएफएस फ़ाइल प्रारूप और एपीआई के बारे में जानें जो ईएफएस फाइलें बना और खोल सकते हैं।",
-"linktitle": "ईएफएस",
+"linktitle": "EFS",
   "menu": {
     "docs": {
       "identifier": "audio-efs",
-"parent": "ऑडियो"
+"parent" : "audio"
 }
 },
 "lastmod": "2023-02-16"

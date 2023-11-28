@@ -22,7 +22,7 @@
   "menu": {
     "docs": {
       "identifier": "game-w3x",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "lastmod": "2023-04-13"

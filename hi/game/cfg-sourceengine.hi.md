@@ -17,11 +17,11 @@
 "toc": true,
 "title": "सीएफजी फ़ाइल प्रारूप - स्रोत इंजन कॉन्फ़िगरेशन फ़ाइल",
   "description":"सीएफजी स्रोत इंजन कॉन्फ़िगरेशन फ़ाइल प्रारूप और एपीआई के बारे में जानें जो सीएफजी फाइलें बना और खोल सकते हैं।",
-"linktitle": "सीएफजी सोर्स इंजन",
+"linktitle": "CFG Source Engine",
   "menu": {
     "docs": {
       "identifier": "game-cfg-sourceengine",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "lastmod": "2023-09-27"

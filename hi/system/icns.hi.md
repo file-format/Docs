@@ -14,11 +14,11 @@
 "toc": true,
 "title": "ICNS फ़ाइल स्वरूप - macOS चिह्न संसाधन",
   "description":"आईसीएनएस प्रारूप और एपीआई के बारे में जानें जो आईसीएनएस फाइलें बना और खोल सकते हैं।",
-"linktitle": "आईसीएनएस",
+"linktitle": "ICNS",
   "menu": {
     "docs": {
       "identifier": "system-icns",
-"parent": "प्रणाली"
+"parent" : "system"
 }
 },
 "lastmod": "2023-03-08"

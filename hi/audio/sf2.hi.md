@@ -15,11 +15,11 @@
 "toc": true,
 "title": "SF2 फ़ाइल स्वरूप - साउंडफ़ॉन्ट 2 साउंड बैंक",
   "description":"SF2 फ़ाइल स्वरूप और API के बारे में जानें जो SF2 फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "एसएफ2",
+"linktitle": "SF2",
   "menu": {
     "docs": {
       "identifier": "audio-sf2",
-"parent": "ऑडियो"
+"parent" : "audio"
 }
 },
 "lastmod": "2023-02-14"

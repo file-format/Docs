@@ -15,11 +15,11 @@
 "toc": true,
 "title": "एमएसडब्ल्यूएमएम फ़ाइल प्रारूप - विंडोज मूवी मेकर प्रोजेक्ट",
   "description":"MSWMM फ़ाइल स्वरूप और API के बारे में जानें जो MSWMM फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "एमएसडब्ल्यूएमएम",
+"linktitle": "MSWMM",
   "menu": {
     "docs": {
       "identifier": "video-mswmm",
-"parent": "वीडियो"
+"parent" : "video"
 }
 },
 "lastmod": "2023-02-08"

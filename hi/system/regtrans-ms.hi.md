@@ -14,11 +14,11 @@
 "toc": true,
 "title": "रेगट्रांस-एमएस फ़ाइल प्रारूप - रजिस्ट्री लेनदेन लॉग फ़ाइल",
   "description":"REGTRANS-MS प्रारूप और API के बारे में जानें जो REGTRANS-MS फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "रेगट्रांस-एमएस",
+"linktitle": "REGTRANS-MS",
   "menu": {
     "docs": {
       "identifier": "system-regtrans-ms",
-"parent": "प्रणाली"
+"parent" : "system"
 }
 },
 "lastmod": "2023-03-07"

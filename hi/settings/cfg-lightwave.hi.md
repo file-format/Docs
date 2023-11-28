@@ -17,11 +17,11 @@
 "toc": true,
 "title": "सीएफजी फ़ाइल प्रारूप - लाइटवेव कॉन्फ़िगरेशन फ़ाइल",
   "description":"सीएफजी लाइटवेव कॉन्फ़िगरेशन फ़ाइल प्रारूप और एपीआई के बारे में जानें जो सीएफजी फाइलें बना और खोल सकते हैं।",
-"linktitle": "सीएफजी लाइटवेव",
+"linktitle": "CFG LightWave",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-lightwave",
-"पैरेंट": "सेटिंग्स"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-09-27"

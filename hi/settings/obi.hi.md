@@ -15,11 +15,11 @@
 "toc": true,
 "title": "ओबीआई फ़ाइल स्वरूप - आउटलुक आरएसएस सदस्यता फ़ाइल",
   "description":"ओबीआई प्रारूप और एपीआई के बारे में जानें जो ओबीआई फाइलें बना और खोल सकते हैं।",
-"linktitle": "ओबीआई",
+"linktitle": "OBI",
   "menu": {
     "docs": {
       "identifier": "settings-obi",
-"पैरेंट": "सेटिंग्स"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-05-02"

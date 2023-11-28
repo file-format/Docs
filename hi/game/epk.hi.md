@@ -16,11 +16,11 @@
 "toc": true,
 "title": "ईपीके फ़ाइल प्रारूप - ईगलरक्राफ्ट एसेट पैकेज",
   "description":"ईपीके प्रारूप और एपीआई के बारे में जानें जो ईपीके फाइलें बना और खोल सकते हैं।",
-"linktitle": "ईपीके",
+"linktitle": "EPK",
   "menu": {
     "docs": {
       "identifier": "game-epk",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "lastmod": "2023-04-18"

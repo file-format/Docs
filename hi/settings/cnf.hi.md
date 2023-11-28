@@ -15,11 +15,11 @@
 "toc": true,
 "title": "CNF फ़ाइल स्वरूप - MySQL कॉन्फ़िगरेशन फ़ाइल",
   "description":"सीएनएफ प्रारूप और एपीआई के बारे में जानें जो सीएनएफ फाइलें बना और खोल सकते हैं।",
-"linktitle": "सीएनएफ",
+"linktitle": "CNF",
   "menu": {
     "docs": {
       "identifier": "settings-cnf",
-"पैरेंट": "सेटिंग्स"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-03-22"

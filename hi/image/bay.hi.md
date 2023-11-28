@@ -17,11 +17,11 @@
 "toc": true,
 "title": "बे फ़ाइल स्वरूप - कैसियो रॉ छवि",
   "description":"BAY प्रारूप और API के बारे में जानें जो BAY फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "बे",
+"linktitle": "BAY",
   "menu": {
     "docs": {
       "identifier": "image-bay",
-"parent": "छवि"
+"parent" : "image"
 }
 },
 "lastmod": "2023-06-15"

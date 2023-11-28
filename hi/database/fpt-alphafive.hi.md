@@ -18,11 +18,11 @@
 "toc": true,
 "title": "एफपीटी फ़ाइल प्रारूप - अल्फा फाइव टेबल मेमो फ़ाइल",
   "description":"एफपीटी अल्फा फाइव प्रारूप और एपीआई के बारे में जानें जो एफपीटी फाइलें बना और खोल सकते हैं।",
-"linktitle": "एफपीटी अल्फा फाइव",
+"linktitle": "FPT Alpha Five",
   "menu": {
     "docs": {
       "identifier": "database-fpt-alphafive",
-"पैरेंट": "डेटाबेस"
+"parent" : "database"
 }
 },
 "lastmod": "2023-04-27"

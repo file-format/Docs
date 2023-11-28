@@ -14,11 +14,11 @@
 "toc": true,
 "title": "आरईजी फ़ाइल स्वरूप - विंडोज़ रजिस्ट्री फ़ाइल",
   "description":"आरईजी प्रारूप और एपीआई के बारे में जानें जो आरईजी फाइलें बना और खोल सकते हैं।",
-"linktitle": "आरईजी",
+"linktitle": "REG",
   "menu": {
     "docs": {
       "identifier": "system-reg",
-"parent": "प्रणाली"
+"parent" : "system"
 }
 },
 "lastmod": "2023-03-07"

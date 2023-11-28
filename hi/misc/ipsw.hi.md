@@ -14,11 +14,11 @@
 "toc": true,
 "title": "IPSW फ़ाइल स्वरूप - iPhone सॉफ़्टवेयर अद्यतन फ़ाइल",
   "description":"IPSW प्रारूप और API के बारे में जानें जो IPSW फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "आईपीएसडब्ल्यू",
+"linktitle": "IPSW",
   "menu": {
     "docs": {
       "identifier": "misc-ipsw",
-"parent": "विविध"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-04-17"

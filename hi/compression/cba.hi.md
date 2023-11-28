@@ -17,11 +17,11 @@
 "toc": true,
 "title": "सीबीए फ़ाइल स्वरूप - कॉमिक बुक आर्काइव",
   "description":"सीबीए प्रारूप और एपीआई के बारे में जानें जो सीबीए फाइलें बना और खोल सकते हैं।",
-"linktitle": "सीबीए",
+"linktitle": "CBA",
   "menu": {
     "docs": {
       "identifier": "compression-cba",
-"जनक": "संपीड़न"
+"parent" : "compression"
 }
 },
 "lastmod": "2023-05-24"

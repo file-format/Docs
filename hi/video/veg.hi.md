@@ -15,11 +15,11 @@
 "toc": true,
 "title": "वीईजी फ़ाइल प्रारूप - मैगिक्स वेगास वीडियो प्रोजेक्ट",
   "description":"वीईजी फ़ाइल प्रारूप और एपीआई के बारे में जानें जो वीईजी फाइलें बना और खोल सकते हैं।",
-"linktitle": "वीईजी",
+"linktitle": "VEG",
   "menu": {
     "docs": {
       "identifier": "video-veg",
-"parent": "वीडियो"
+"parent" : "video"
 }
 },
 "lastmod": "2023-02-07"

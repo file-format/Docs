@@ -16,11 +16,11 @@
 "toc": true,
 "title": "एमसीपैक फ़ाइल प्रारूप - माइनक्राफ्ट बेडरॉक संस्करण ऐड-ऑन",
   "description":"एमसीपैक प्रारूप और एपीआई के बारे में जानें जो एमसीपैक फाइलें बना और खोल सकते हैं।",
-"linktitle": "एमसीपैक",
+"linktitle": "MCPACK",
   "menu": {
     "docs": {
       "identifier": "game-mcpack",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "lastmod": "2023-04-04"

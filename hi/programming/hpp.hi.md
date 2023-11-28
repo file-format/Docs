@@ -17,11 +17,11 @@
 "toc": true,
 "title": "एचपीपी फ़ाइल स्वरूप - सी++ हेडर फ़ाइल",
   "description":"एचपीपी प्रारूप और एपीआई के बारे में जानें जो एचपीपी फाइलें बना और खोल सकते हैं।",
-"linktitle": "एचपीपी",
+"linktitle": "HPP",
   "menu": {
     "docs": {
       "identifier": "programming-hpp",
-"parent": "प्रोग्रामिंग"
+"parent" : "programming"
 }
 },
 "lastmod": "2023-06-08"

@@ -16,11 +16,11 @@
 "toc": true,
 "title": "आईटी फ़ाइल स्वरूप - इंपल्स ट्रैकर मॉड्यूल",
   "description":"आईटी प्रारूप और एपीआई के बारे में जानें जो आईटी फाइलें बना और खोल सकते हैं।",
-"linktitle": "आईटी",
+"linktitle": "IT",
   "menu": {
     "docs": {
       "identifier": "audio-it",
-"parent": "ऑडियो"
+"parent" : "audio"
 }
 },
 "lastmod": "2023-06-15"

@@ -15,11 +15,11 @@
 "toc": true,
 "title": "FLP फ़ाइल स्वरूप - FL स्टूडियो प्रोजेक्ट फ़ाइल",
   "description":"FLP फ़ाइल स्वरूप और API के बारे में जानें जो FLP फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "एफएलपी",
+"linktitle": "FLP",
   "menu": {
     "docs": {
       "identifier": "audio-flp",
-"parent": "ऑडियो"
+"parent" : "audio"
 }
 },
 "lastmod": "2023-02-14"

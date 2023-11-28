@@ -14,11 +14,11 @@
 "toc": true,
 "title": "वीडियो कन्वर्टर क्या है? वीडियो कन्वर्टर्स के लिए अंतिम गाइड",
   "description":"वीडियो कन्वर्टर्स, फ़ॉर्मेट, FAQS और सर्वोत्तम टूल के बारे में जानें",
-"linktitle": "वीडियो कन्वर्टर",
+"linktitle": "VIDEO CONVERTER",
   "menu": {
     "docs": {
       "identifier": "misc-video-converter",
-"parent": "विविध"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-07-03"

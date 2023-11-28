@@ -15,11 +15,11 @@
 "toc": true,
 "title": "फ़ाइल स्वरूप डाउनलोड हो रहा है - पंडो अपूर्ण डाउनलोड फ़ाइल",
   "description":"डाउनलोडिंग प्रारूप और एपीआई के बारे में जानें जो डाउनलोडिंग फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "डाउनलोड हो रहा है",
+"linktitle": "DOWNLOADING",
   "menu": {
     "docs": {
       "identifier": "misc-downloading",
-"parent": "विविध"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-04-18"

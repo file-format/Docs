@@ -16,11 +16,11 @@
 "toc": true,
 "title": "एमसीस्ट्रक्चर फ़ाइल प्रारूप - माइनक्राफ्ट संरचना फ़ाइल",
   "description":"MCSTRUCTURE प्रारूप और API के बारे में जानें जो MCSTRUCTURE फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "एमसीस्ट्रक्चर",
+"linktitle": "MCSTRUCTURE",
   "menu": {
     "docs": {
       "identifier": "game-mcstructure",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "lastmod": "2023-04-05"

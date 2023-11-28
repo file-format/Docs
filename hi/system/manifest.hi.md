@@ -14,11 +14,11 @@
 "toc": true,
 "title": "मैनिफ़ेस्ट फ़ाइल स्वरूप - विंडोज़ एप्लिकेशन मेनिफेस्ट फ़ाइल",
   "description":"मैनिफ़ेस्ट प्रारूप और एपीआई के बारे में जानें जो मैनिफ़ेस्ट फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "मैनिफ़ेस्ट",
+"linktitle": "MANIFEST",
   "menu": {
     "docs": {
       "identifier": "system-manifest",
-"parent": "प्रणाली"
+"parent" : "system"
 }
 },
 "lastmod": "2023-03-07"

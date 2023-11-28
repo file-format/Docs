@@ -15,11 +15,11 @@
 "toc": true,
 "title": "डेस्कथेमपैक फ़ाइल स्वरूप - विंडोज 10 डेस्कटॉप थीम पैक फ़ाइल",
   "description":"DESKTHEMEPACK प्रारूप और API के बारे में जानें जो DESKTHEMEPACK फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "डेस्कथीमपैक",
+"linktitle": "DESKTHEMEPACK",
   "menu": {
     "docs": {
       "identifier": "system-deskthemepack",
-"parent": "प्रणाली"
+"parent" : "system"
 }
 },
 "lastmod": "2023-03-09"

@@ -18,11 +18,11 @@
 "toc": true,
 "title": "एआईएफ फ़ाइल प्रारूप - ऑडियो इंटरचेंज फ़ाइल प्रारूप",
   "description":"एआईएफ प्रारूप और एपीआई के बारे में जानें जो एआईएफ फाइलें बना और खोल सकते हैं।",
-"linktitle": "एआईएफ",
+"linktitle": "AIF",
   "menu": {
     "docs": {
       "identifier": "audio-aif",
-"parent": "ऑडियो"
+"parent" : "audio"
 }
 },
 "lastmod": "2023-05-30"

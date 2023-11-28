@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAK फ़ाइल स्वरूप - मोबाइलट्रांस बैकअप",
   "description":"BAK MobileTrans प्रारूप और API के बारे में जानें जो BAK फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "बेक मोबाइलट्रांस",
+"linktitle": "BAK MobileTrans",
   "menu": {
     "docs": {
       "identifier": "misc-bak-mobiletrans",
-"parent": "विविध"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-12"

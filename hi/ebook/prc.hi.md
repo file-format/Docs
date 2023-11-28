@@ -15,11 +15,11 @@
 "toc": true,
 "title": "पीआरसी फ़ाइल स्वरूप - मोबिपॉकेट ईबुक फ़ाइल",
   "description":"पीआरसी प्रारूप और एपीआई के बारे में जानें जो पीआरसी फाइलें बना और खोल सकते हैं।",
-"linktitle": "पीआरसी",
+"linktitle": "PRC",
   "menu": {
     "docs": {
       "identifier": "ebook-prc",
-"parent": "ईबुक"
+"parent" : "ebook"
 }
 },
 "lastmod": "2023-03-02"

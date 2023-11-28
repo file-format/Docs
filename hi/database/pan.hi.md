@@ -16,11 +16,11 @@
 "toc": true,
 "title": "पैन फ़ाइल स्वरूप - पैनोरमा डेटाबेस फ़ाइल",
   "description":"पैन प्रारूप और एपीआई के बारे में जानें जो पैन फाइलें बना और खोल सकते हैं।",
-"linktitle": "पैन",
+"linktitle": "PAN",
   "menu": {
     "docs": {
       "identifier": "database-pan",
-"पैरेंट": "डेटाबेस"
+"parent" : "database"
 }
 },
 "lastmod": "2023-05-18"

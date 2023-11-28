@@ -17,11 +17,11 @@
 "toc": true,
 "title": "शेडर फ़ाइल स्वरूप - क्वेक 3 इंजन शेडर फ़ाइल",
    "description":"SHADER क्वेक 3 इंजन शेडर फ़ाइल स्वरूप और API के बारे में जानें जो SHADER फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "शेडर क्वेक",
+"linktitle": "SHADER Quake",
    "menu":{
       "docs":{
          "identifier":"game-shader-quake",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "लास्टमॉड": "2023-10-11"

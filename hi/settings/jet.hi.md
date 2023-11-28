@@ -17,11 +17,11 @@
 "toc": true,
 "title": "जेट फ़ाइल स्वरूप - जैकबॉक्स पार्टी पैक सेटिंग्स",
   "description":"JET प्रारूप और API के बारे में जानें जो JET फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "जेट",
+"linktitle": "JET",
   "menu": {
     "docs": {
       "identifier": "settings-jet",
-"पैरेंट": "सेटिंग्स"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-09-05"

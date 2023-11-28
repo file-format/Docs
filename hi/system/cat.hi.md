@@ -16,11 +16,11 @@
 "toc": true,
 "title": "कैट फ़ाइल स्वरूप - विंडोज़ कैटलॉग फ़ाइल",
    "description":"CAT प्रारूप और API के बारे में जानें जो CAT फ़ाइलें बना और खोल सकते हैं।",
-"लिंकशीर्षक":"कैट",
+"linktitle": "CAT",
    "menu":{
       "docs":{
          "identifier":"system-cat",
-"parent": "प्रणाली"
+"parent" : "system"
 }
 },
 "लास्टमॉड": "2023-07-06"

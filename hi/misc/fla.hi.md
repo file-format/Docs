@@ -17,11 +17,11 @@
 "toc": true,
 "title": "एफएलए फ़ाइल प्रारूप - एडोब एनिमेट एनिमेशन",
   "description":"FLA प्रारूप और API के बारे में जानें जो FLA फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "एफएलए",
+"linktitle": "FLA",
   "menu": {
     "docs": {
       "identifier": "misc-fla",
-"parent": "विविध"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-05"

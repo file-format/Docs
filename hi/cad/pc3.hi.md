@@ -17,11 +17,11 @@
 "toc": true,
 "title": "पीसी3 फ़ाइल स्वरूप - ऑटोकैड प्लॉटर कॉन्फ़िगरेशन फ़ाइल",
   "description":"PC3 प्रारूप और API के बारे में जानें जो PC3 फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "पीसी3",
+"linktitle": "PC3",
   "menu": {
     "docs": {
       "identifier": "cad-pc3",
-"parent": "सीएडी"
+"parent" : "cad"
 }
 },
 "lastmod": "2023-05-09"

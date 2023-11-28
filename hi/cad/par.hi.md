@@ -16,11 +16,11 @@
 "toc": true,
 "title": "PAR फ़ाइल स्वरूप - सॉलिड एज पार्ट फ़ाइल",
    "description":"PAR प्रारूप और API के बारे में जानें जो PAR फ़ाइलें बना और खोल सकते हैं।",
-"लिंकशीर्षक":"PAR",
+"linktitle": "PAR",
    "menu":{
       "docs":{
          "identifier":"cad-par",
-"parent": "सीएडी"
+"parent" : "cad"
 }
 },
 "लास्टमॉड": "2023-07-18"

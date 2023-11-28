@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAK फ़ाइल स्वरूप - VEGAS वीडियो प्रोजेक्ट बैकअप",
   "description":"BAK VEGAS वीडियो प्रोजेक्ट बैकअप प्रारूप और API के बारे में जानें जो BAK फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "बेक वेगास वीडियो",
+"linktitle": "BAK VEGAS Video",
   "menu": {
     "docs": {
       "identifier": "misc-bak-vegas",
-"parent": "विविध"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-12"

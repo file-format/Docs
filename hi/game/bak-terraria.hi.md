@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAK फ़ाइल स्वरूप - टेरारिया वर्ल्ड या प्लेयर बैकअप",
   "description":"BAK टेरारिया गेम प्रारूप और API के बारे में जानें जो BAK फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "बेक टेरारिया",
+"linktitle": "BAK TERRARIA",
   "menu": {
     "docs": {
       "identifier": "game-bak-terraria",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "lastmod": "2023-06-12"

@@ -15,11 +15,11 @@
 "toc": true,
 "title": "चिप फ़ाइल स्वरूप - माइक्रोएरे एनोटेशन फ़ाइल",
   "description":"CHIP फ़ाइल स्वरूप और API के बारे में जानें जो CHIP फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "चिप",
+"linktitle": "CHIP",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-chip",
-"पैरेंट": "स्प्रेडशीट"
+"parent": "spreadsheet"
 }
 },
 "lastmod": "2023-03-01"

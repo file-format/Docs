@@ -15,11 +15,11 @@
 "toc": true,
 "title": "क्यूपीडब्ल्यू फ़ाइल प्रारूप - क्वाट्रो प्रो स्प्रेडशीट",
   "description":"QPW फ़ाइल स्वरूप और API के बारे में जानें जो QPW फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "क्यूपीडब्ल्यू",
+"linktitle": "QPW",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-qpw",
-"पैरेंट": "स्प्रेडशीट"
+"parent": "spreadsheet"
 }
 },
 "lastmod": "2023-02-28"

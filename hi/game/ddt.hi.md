@@ -16,11 +16,11 @@
 "toc": true,
 "title": "डीडीटी फ़ाइल स्वरूप - फुटबॉल प्रबंधक गेम डेटा फ़ाइल",
   "description":"डीडीटी प्रारूप और एपीआई के बारे में जानें जो डीडीटी फाइलें बना और खोल सकते हैं।",
-"linktitle": "डीडीटी",
+"linktitle": "DDT",
   "menu": {
     "docs": {
       "identifier": "game-ddt",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "lastmod": "2023-05-16"

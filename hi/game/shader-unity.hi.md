@@ -17,11 +17,11 @@
 "toc": true,
 "title": "शेडर फ़ाइल प्रारूप - यूनिटी शेडर एसेट",
    "description":"SHADER यूनिटी शेडर एसेट फॉर्मेट और API के बारे में जानें जो SHADER फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "शेडर यूनिटी",
+"linktitle": "SHADER Unity",
    "menu":{
       "docs":{
          "identifier":"game-shader-unity",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "लास्टमॉड": "2023-10-11"

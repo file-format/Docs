@@ -17,11 +17,11 @@
 "toc": true,
 "title": "आरपीडी फ़ाइल स्वरूप - रोलप्ले डिज़ाइनर डेटा फ़ाइल",
   "description":"आरपीडी रोलप्ले डिज़ाइनर डेटा फ़ाइल प्रारूप और एपीआई के बारे में जानें जो आरपीडी फाइलें बना और खोल सकते हैं।",
-"linktitle": "आरपीडी रोलप्ले",
+"linktitle": "RPD Roleplay",
   "menu": {
     "docs": {
       "identifier": "database-rpd-roleplay",
-"पैरेंट": "डेटाबेस"
+"parent" : "database"
 }
 },
 "lastmod": "2023-04-27"

@@ -17,11 +17,11 @@
 "toc": true,
 "title": "नोमीडिया फ़ाइल स्वरूप - एंड्रॉइड नो मीडिया फ़ाइल",
   "description":"NOMEDIA प्रारूप और API के बारे में जानें जो NOMEDIA फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "नोमीडिया",
+"linktitle": "NOMEDIA",
   "menu": {
     "docs": {
       "identifier": "misc-nomedia",
-"parent": "विविध"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-04-06"

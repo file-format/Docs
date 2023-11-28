@@ -16,11 +16,11 @@
 "toc": true,
 "title": "यूएसआर फ़ाइल प्रारूप - स्मार्टम्यूजिक कस्टम फ़ाइल",
   "description":"यूएसआर प्रारूप और एपीआई के बारे में जानें जो यूएसआर फाइलें बना और खोल सकते हैं।",
-"linktitle": "यूएसआर",
+"linktitle": "USR",
   "menu": {
     "docs": {
       "identifier": "misc-usr",
-"parent": "विविध"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-08-03"

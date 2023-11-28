@@ -17,11 +17,11 @@
 "toc": true,
 "title": "सीएएफ फ़ाइल स्वरूप - कोर ऑडियो फ़ाइल",
    "description":"सीएएफ प्रारूप और एपीआई के बारे में जानें जो सीएएफ फाइलें बना और खोल सकते हैं।",
-"linktitle": "सीएएफ",
+"linktitle": "CAF",
    "menu":{
       "docs":{
          "identifier":"audio-caf",
-"parent": "ऑडियो"
+"parent" : "audio"
 }
 },
 "लास्टमॉड": "2023-10-04"

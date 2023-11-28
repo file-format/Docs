@@ -15,11 +15,11 @@
 "toc": true,
 "title": "टीएक्सडी फ़ाइल प्रारूप - गेम टेक्सचर डिक्शनरी",
   "description":"TXD प्रारूप और API के बारे में जानें जो TXD फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "टीएक्सडी",
+"linktitle": "TXD",
   "menu": {
     "docs": {
       "identifier": "game-txd",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "lastmod": "2023-05-03"

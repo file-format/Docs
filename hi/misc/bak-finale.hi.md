@@ -17,11 +17,11 @@
 "toc": true,
 "title": "बीएके फ़ाइल प्रारूप - समापन 2012 स्कोर बैकअप",
   "description":"BAK फिनाले प्रारूप और API के बारे में जानें जो BAK फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "बेक फिनाले",
+"linktitle": "BAK Finale",
   "menu": {
     "docs": {
       "identifier": "misc-bak-finale",
-"parent": "विविध"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-12"

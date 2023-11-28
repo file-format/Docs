@@ -15,11 +15,11 @@
 "toc": true,
 "title": "ऑप्ट फ़ाइल स्वरूप - ऑप्टेरेसेंजा फ़ाइल",
   "description":"ओपीटी फ़ाइल प्रारूप और एपीआई के बारे में जानें जो ओपीटी फाइलें बना और खोल सकते हैं।",
-"linktitle": "ऑप्ट",
+"linktitle": "OPT",
   "menu": {
     "docs": {
       "identifier": "cad-opt",
-"parent": "सीएडी"
+"parent" : "cad"
 }
 },
 "lastmod": "2023-02-21"

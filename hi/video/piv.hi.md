@@ -15,11 +15,11 @@
 "toc": true,
 "title": "PIV फ़ाइल स्वरूप - पिवोट एनिमेटर एनीमेशन",
   "description":"पीआईवी फ़ाइल प्रारूप और एपीआई के बारे में जानें जो पीआईवी फाइलें बना और खोल सकते हैं।",
-"linktitle": "पीआईवी",
+"linktitle": "PIV",
   "menu": {
     "docs": {
       "identifier": "video-piv",
-"parent": "वीडियो"
+"parent" : "video"
 }
 },
 "lastmod": "2023-02-06"

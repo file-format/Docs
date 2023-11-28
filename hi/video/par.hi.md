@@ -15,11 +15,11 @@
 "toc": true,
 "title": "PAR फ़ाइल स्वरूप - समर्पित माइक्रो डीवीआर रिकॉर्डिंग",
    "description":"PAR प्रारूप और API के बारे में जानें जो PAR फ़ाइलें बना और खोल सकते हैं।",
-"लिंकशीर्षक":"PAR",
+"linktitle": "PAR",
    "menu":{
       "docs":{
          "identifier":"video-par",
-"parent": "वीडियो"
+"parent" : "video"
 }
 },
 "लास्टमॉड": "2023-07-18"

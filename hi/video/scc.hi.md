@@ -18,11 +18,11 @@
 "toc": true,
 "title": "एससीसी फ़ाइल स्वरूप - स्क्रीनफ़्लो स्क्रीन रिकॉर्डिंग",
   "description":"एससीसी प्रारूप और एपीआई के बारे में जानें जो एससीसी फाइलें बना और खोल सकते हैं।",
-"linktitle": "एससीसी",
+"linktitle": "SCC",
   "menu": {
     "docs": {
       "identifier": "video-scc",
-"parent": "वीडियो"
+"parent" : "video"
 }
 },
 "lastmod": "2023-06-21"

@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAK फ़ाइल स्वरूप - क्रोमियम बुकमार्क बैकअप",
   "description":"BAK क्रोमियम बुकमार्क प्रारूप और API के बारे में जानें जो BAK फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "BAK क्रोमियम बुकमार्क",
+"linktitle": "BAK Chromium Bookmarks",
   "menu": {
     "docs": {
       "identifier": "misc-bak-chromium",
-"parent": "विविध"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-12"

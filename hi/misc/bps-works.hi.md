@@ -17,11 +17,11 @@
 "toc": true,
 "title": "बीपीएस फ़ाइल स्वरूप - माइक्रोसॉफ्ट वर्क्स दस्तावेज़ बैकअप",
   "description":"बीपीएस वर्क्स प्रारूप और एपीआई के बारे में जानें जो बीपीएस फाइलें बना और खोल सकते हैं।",
-"linktitle": "बीपीएस वर्क्स",
+"linktitle": "BPS Works",
   "menu": {
     "docs": {
       "identifier": "misc-bps-works",
-"parent": "विविध"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-09-21"

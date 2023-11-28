@@ -15,11 +15,11 @@
 "toc": true,
 "title": "एसक्यूएक्स फ़ाइल प्रारूप - एसक्यूएक्स पुरालेख",
   "description":"एसक्यूएक्स प्रारूप और एपीआई के बारे में जानें जो एसक्यूएक्स फाइलें बना और खोल सकते हैं।",
-"linktitle": "एसक्यूएक्स",
+"linktitle": "SQX",
   "menu": {
     "docs": {
       "identifier": "compression-sqx",
-"जनक": "संपीड़न"
+"parent" : "compression"
 }
 },
 "lastmod": "2023-05-22"

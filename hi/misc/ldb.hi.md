@@ -16,11 +16,11 @@
 "toc": true,
 "title": "एलडीबी फ़ाइल स्वरूप - माइक्रोसॉफ्ट एक्सेस लॉक फ़ाइल",
   "description":"एलडीबी प्रारूप के बारे में जानें और इसमें क्या जानकारी है।",
-"linktitle": "एलडीबी",
+"linktitle": "LDB",
   "menu": {
     "docs": {
       "identifier": "misc-ldb",
-"parent": "विविध"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-04-20"

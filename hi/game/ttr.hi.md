@@ -15,11 +15,11 @@
 "toc": true,
 "title": "टीटीआर फ़ाइल स्वरूप - TETR.IO रीप्ले",
   "description":"टीटीआर प्रारूप और एपीआई के बारे में जानें जो टीटीआर फाइलें बना और खोल सकते हैं।",
-"linktitle": "टीटीआर",
+"linktitle": "TTR",
   "menu": {
     "docs": {
       "identifier": "game-ttr",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "lastmod": "2023-04-04"

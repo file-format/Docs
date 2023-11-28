@@ -15,11 +15,11 @@
 "toc": true,
 "title": "बिन फ़ाइल स्वरूप - पीएसएक्स प्लेस्टेशन BIOS छवि",
    "description":"BIN प्रारूप और API के बारे में जानें जो BIN फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "बिन पीसीएसएक्स",
+"linktitle": "BIN PCSX",
    "menu":{
       "docs":{
          "identifier":"game-bin-pcsx",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "लास्टमॉड": "2023-07-20"

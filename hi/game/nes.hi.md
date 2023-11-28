@@ -16,11 +16,11 @@
 "toc": true,
 "title": "एनईएस फ़ाइल प्रारूप - निंटेंडो एंटरटेनमेंट सिस्टम ROM फ़ाइल",
   "description":"एनईएस प्रारूप और एपीआई के बारे में जानें जो एनईएस फाइलें बना और खोल सकते हैं।",
-"linktitle": "एनईएस",
+"linktitle": "NES",
   "menu": {
     "docs": {
       "identifier": "game-nes",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "lastmod": "2023-05-29"

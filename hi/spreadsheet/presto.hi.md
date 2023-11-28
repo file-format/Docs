@@ -15,11 +15,11 @@
 "toc": true,
 "title": "प्रेस्टो फ़ाइल स्वरूप - प्रेस्टो प्रोजेक्ट स्प्रेडशीट",
   "description":"PRESTO प्रारूप और API के बारे में जानें जो PRESTO फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "प्रेस्टो",
+"linktitle": "PRESTO",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-presto",
-"पैरेंट": "स्प्रेडशीट"
+"parent": "spreadsheet"
 }
 },
 "lastmod": "2023-03-01"

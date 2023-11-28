@@ -15,11 +15,11 @@
 "toc": true,
 "title": "एसएएमआई फ़ाइल स्वरूप - उपशीर्षक और मेटाडेटा इंटरचेंज फ़ाइल",
   "description":"एसएएमआई प्रारूप और एपीआई के बारे में जानें जो एसएएमआई फाइलें बना और खोल सकते हैं।",
-"linktitle": "सामी",
+"linktitle": "SAMI",
   "menu": {
     "docs": {
       "identifier": "video-sami",
-"parent": "वीडियो"
+"parent" : "video"
 }
 },
 "lastmod": "2023-05-16"
