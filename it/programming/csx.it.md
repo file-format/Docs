@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Formato file CSX - Script Visual C#",
   "description":"Ulteriori informazioni sul formato CSX e sulle API in grado di creare e aprire file CSX.",
-"titolo collegamento": "CSX",
+"linktitle": "CSX",
   "menu": {
     "docs": {
       "identifier": "programming-csx",
-"parent": "programmazione"
+"parent" : "programming"
 }
 },
 "lastmod": "2023-05-15"

@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-usr",
-"parent": "varie"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-08-03"

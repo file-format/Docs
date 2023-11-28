@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"settings-bin",
-"parent":"impostazioni"
+"parent" : "settings"
 }
 },
 "lastmod":"20/07/2023"

@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Formato file XEM - File di definizione del modello PowerDesigner",
   "description":"Ulteriori informazioni sul formato XEM e sulle API in grado di creare e aprire file XEM.",
-"titolo collegamento": "XEM",
+"linktitle": "XEM",
   "menu": {
     "docs": {
       "identifier": "database-xem",
-"parent": "database"
+"parent" : "database"
 }
 },
 "lastmod": "27-04-2023"

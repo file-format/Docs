@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Formato file MCPACK - Componente aggiuntivo Minecraft Bedrock Edition",
   "description":"Informazioni sul formato MCPACK e sulle API che possono creare e aprire file MCPACK.",
-"titolo collegamento": "MCPACK",
+"linktitle": "MCPACK",
   "menu": {
     "docs": {
       "identifier": "game-mcpack",
-"parent": "gioco"
+"parent" : "game"
 }
 },
 "lastmod": "2023-04-04"

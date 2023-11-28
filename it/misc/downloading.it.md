@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Formato file in DOWNLOAD - File di download incompleto Pando",
   "description":"Informazioni sul formato DOWNLOADING e sulle API in grado di creare e aprire file DOWNLOADING.",
-"linktitle": "SCARICAMENTO IN CORSO",
+"linktitle": "DOWNLOADING",
   "menu": {
     "docs": {
       "identifier": "misc-downloading",
-"parent": "varie"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-04-18"

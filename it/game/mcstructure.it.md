@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Formato file MCSTRUCTURE - File di struttura Minecraft",
   "description":"Informazioni sul formato MCSTRUCTURE e sulle API in grado di creare e aprire file MCSTRUCTURE.",
-"linktitle": "MCSTRUTTURA",
+"linktitle": "MCSTRUCTURE",
   "menu": {
     "docs": {
       "identifier": "game-mcstructure",
-"parent": "gioco"
+"parent" : "game"
 }
 },
 "lastmod": "2023-04-05"

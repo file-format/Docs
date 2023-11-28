@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato file MTL - File libreria modelli materiali OBJ",
    "description":"Informazioni sul formato file della libreria di modelli di materiali MTL OBJ e sulle API in grado di creare e aprire file MTL.",
-"titolo collegamento": "MTL",
+"linktitle": "MTL",
    "menu":{
       "docs":{
          "identifier":"3d-mtl",
-"parent": "3d"
+"parent" : "3d"
 }
 },
 "lastmod":"2023-10-11"

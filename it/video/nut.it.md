@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Formato file NUT - File video NUT",
   "description":"Scopri il formato NUT e le API che possono creare e aprire file NUT.",
-"linktitle": "NODO",
+"linktitle": "NUT",
   "menu": {
     "docs": {
       "identifier": "video-nut",
-"parent": "video"
+"parent" : "video"
 }
 },
 "lastmod": "2023-07-13"

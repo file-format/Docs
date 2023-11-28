@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Formato file MANIFEST - File manifest dell'applicazione Windows",
   "description":"Informazioni sul formato MANIFEST e sulle API in grado di creare e aprire file MANIFEST.",
-"linktitle": "MANIFESTARE",
+"linktitle": "MANIFEST",
   "menu": {
     "docs": {
       "identifier": "system-manifest",
-"parent": "sistema"
+"parent" : "system"
 }
 },
 "lastmod": "2023-03-07"

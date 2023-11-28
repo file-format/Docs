@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Cosa sono i file multimediali? Tipi, formati e il loro impatto sulla comunicazione digitale",
   "description":"Scopri di più sui file multimediali, sui loro tipi, formati e impatto sulla comunicazione digitale.",
-"linktitle": "FILE MULTIMEDIALI",
+"linktitle": "MEDIA FILES",
   "menu": {
     "docs": {
       "identifier": "misc-media-files",
-"parent": "varie"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-19"

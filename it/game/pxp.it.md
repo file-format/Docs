@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Formato file PXP - File PODBot Counter-Strike",
   "description":"Informazioni sul formato PXP e sulle API in grado di creare e aprire file PXP.",
-"titolo collegamento": "PXP",
+"linktitle": "PXP",
   "menu": {
     "docs": {
       "identifier": "game-pxp",
-"parent": "gioco"
+"parent" : "game"
 }
 },
 "lastmod": "2023-04-05"

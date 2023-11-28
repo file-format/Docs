@@ -12,11 +12,11 @@
 "toc": true,
 "title": "Formati di testo, tipi e domande frequenti",
   "description":"Informazioni sui formati di testo, sui tipi di formati di testo, sull'elenco dei formati di testo e sulle domande frequenti",
-"linktitle": "FORMATI DI TESTO",
+"linktitle": "TEXT FORMATS",
   "menu": {
     "docs": {
       "identifier": "misc-text-formats",
-"parent": "varie"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-07-06"

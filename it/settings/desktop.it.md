@@ -22,7 +22,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-desktop",
-"parent": "impostazioni"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-05-31"

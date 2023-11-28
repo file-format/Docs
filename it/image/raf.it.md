@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "image-raf",
-"parent": "immagine"
+"parent" : "image"
 }
 },
 "lastmod": "2023-06-15"

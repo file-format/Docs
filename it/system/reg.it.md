@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "system-reg",
-"parent": "sistema"
+"parent" : "system"
 }
 },
 "lastmod": "2023-03-07"

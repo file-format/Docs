@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Formato file PIV - Animazione Pivot Animator",
   "description":"Ulteriori informazioni sul formato file PIV e sulle API che possono creare e aprire file PIV.",
-"titolo collegamento": "PIV",
+"linktitle": "PIV",
   "menu": {
     "docs": {
       "identifier": "video-piv",
-"parent": "video"
+"parent" : "video"
 }
 },
 "lastmod": "2023-02-06"

@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "programming-hpp",
-"parent": "programmazione"
+"parent" : "programming"
 }
 },
 "lastmod": "2023-06-08"

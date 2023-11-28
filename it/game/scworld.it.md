@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "game-scworld",
-"parent": "gioco"
+"parent" : "game"
 }
 },
 "lastmod": "2023-05-18"

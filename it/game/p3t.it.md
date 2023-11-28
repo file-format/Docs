@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Formato file P3T - File tema PlayStation 3",
   "description":"Informazioni sul formato P3T e sulle API in grado di creare e aprire file P3T.",
-"titolo collegamento": "P3T",
+"linktitle": "P3T",
   "menu": {
     "docs": {
       "identifier": "game-p3t",
-"parent": "gioco"
+"parent" : "game"
 }
 },
 "lastmod": "2023-05-04"

@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-oss",
-"parent": "impostazioni"
+"parent" : "settings"
 }
 },
 "lastmod": "28-03-2023"

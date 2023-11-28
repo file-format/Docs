@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Formato file FLH - File di animazione FLIC",
   "description":"Ulteriori informazioni sul formato FLH e sulle API in grado di creare e aprire file FLH.",
-"titolo collegamento": "FLH",
+"linktitle": "FLH",
   "menu": {
     "docs": {
       "identifier": "video-flh",
-"parent": "video"
+"parent" : "video"
 }
 },
 "lastmod": "22-06-2023"

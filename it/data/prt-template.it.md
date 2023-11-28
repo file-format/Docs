@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"data-prt-template",
-"parent": "dati"
+"parent" : "data"
 }
 },
 "lastmod":"2023-10-18"

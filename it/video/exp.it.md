@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Formato file EXP - File video esportato serie DX",
   "description":"Scopri il formato EXP e le API che possono creare e aprire file EXP.",
-"linktitle": "ESP",
+"linktitle": "EXP",
   "menu": {
     "docs": {
       "identifier": "video-exp",
-"parent": "video"
+"parent" : "video"
 }
 },
 "lastmod": "2023-07-13"

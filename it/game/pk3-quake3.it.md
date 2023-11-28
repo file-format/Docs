@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato file PK3 - Dati di gioco di Quake 3 Engine",
    "description":"Informazioni sul formato file PK3 Quake 3 Engine Game Data e sulle API in grado di creare e aprire file PK3.",
-"titolo collegamento": "PK3",
+"linktitle": "PK3",
    "menu":{
       "docs":{
          "identifier":"game-pk3-quake3",
-"parent": "gioco"
+"parent" : "game"
 }
 },
 "lastmod":"01-11-2023"

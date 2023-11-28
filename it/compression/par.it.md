@@ -20,7 +20,7 @@
    "menu":{
       "docs":{
          "identifier":"compression-par",
-"parent": "compressione"
+"parent" : "compression"
 }
 },
 "lastmod":"2023-07-18"

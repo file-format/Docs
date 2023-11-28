@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Formato file FPT - File memo del database FileMaker Pro",
   "description":"Scopri il formato FPT e le API che possono creare e aprire file FPT.",
-"titolo collegamento": "FPT",
+"linktitle": "FPT",
   "menu": {
     "docs": {
       "identifier": "database-fpt",
-"parent": "database"
+"parent" : "database"
 }
 },
 "lastmod": "2023-09-05"

@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Formato file SET - File di insieme di proprietà della raccolta documenti",
   "description":"Informazioni sul formato SET e sulle API che possono creare e aprire file SET.",
-"linktitle": "IMPOSTA",
+"linktitle": "SET",
   "menu": {
     "docs": {
       "identifier": "settings-set",
-"parent": "impostazioni"
+"parent" : "settings"
 }
 },
 "lastmod": "21-03-2023"

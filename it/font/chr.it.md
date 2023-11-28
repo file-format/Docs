@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"font-chr",
-"parent": "carattere"
+"parent" : "font"
 }
 },
 "lastmod":"2023-10-11"

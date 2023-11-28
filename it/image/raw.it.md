@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato file RAW - Dati immagine RAW",
   "description":"Informazioni sul formato RAW e sulle API in grado di creare e aprire file RAW.",
-"linktitle": "GREZZO",
+"linktitle": "RAW",
   "menu": {
     "docs": {
       "identifier": "image-raw",
-"parent": "immagine"
+"parent" : "image"
 }
 },
 "lastmod": "2023-06-15"

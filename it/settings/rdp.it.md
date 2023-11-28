@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-rdp",
-"parent": "impostazioni"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-05-02"

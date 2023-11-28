@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Formato file EC3 - File con codec audio 3 avanzato",
   "description":"Ulteriori informazioni sul formato di file EC3 e sulle API in grado di creare e aprire file EC3.",
-"titolo collegamento": "EC3",
+"linktitle": "EC3",
   "menu": {
     "docs": {
       "identifier": "audio-ec3",
-"parent": "audio"
+"parent" : "audio"
 }
 },
 "lastmod": "2023-02-15"

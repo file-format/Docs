@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Formato file DXB - Scambio disegni binario",
   "description":"Informazioni sul formato DXB e sulle API in grado di creare e aprire file DXB.",
-"titolo collegamento": "DXB",
+"linktitle": "DXB",
   "menu": {
     "docs": {
       "identifier": "cad-dxb",
-"parent": "cad"
+"parent" : "cad"
 }
 },
 "lastmod": "2023-05-10"

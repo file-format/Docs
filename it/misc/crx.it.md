@@ -18,11 +18,11 @@
 "toc": true,
 "title": "Formato file CRX - Estensione Google Chrome",
   "description":"Informazioni sul formato CRX e sulle API in grado di creare e aprire file CRX.",
-"titolo collegamento": "CRX",
+"linktitle": "CRX",
   "menu": {
     "docs": {
       "identifier": "misc-crx",
-"parent": "varie"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-08"
