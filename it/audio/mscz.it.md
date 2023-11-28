@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato file MSCZ - File della partitura compressa MuseScore",
   "description":"Scopri il formato MSCZ e le API che possono creare e aprire file MSCZ.",
-"titolo collegamento": "MSCZ",
+"linktitle": "MSCZ",
   "menu": {
     "docs": {
       "identifier": "audio-mscz",
-"parent": "audio"
+"parent" : "audio"
 }
 },
 "lastmod": "2023-06-05"

@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "spreadsheet-presto",
-"parent": "foglio di calcolo"
+"parent" : "spreadsheet"
 }
 },
 "lastmod": "2023-03-01"

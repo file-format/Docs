@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Formato file WQ2 - Quattro Pro per file di fogli di calcolo DOS",
   "description":"Ulteriori informazioni sul formato file WQ2 e sulle API in grado di creare e aprire file WQ2.",
-"titolo collegamento": "WQ2",
+"linktitle": "WQ2",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-wq2",
-"parent": "foglio di calcolo"
+"parent" : "spreadsheet"
 }
 },
 "lastmod": "28-02-2023"

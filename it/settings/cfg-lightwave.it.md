@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-cfg-lightwave",
-"parent": "impostazioni"
+"parent" : "settings"
 }
 },
 "lastmod": "27-09-2023"

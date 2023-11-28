@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Formato file JSF - File di comandi Java Script",
   "description":"Ulteriori informazioni sul formato JSF e sulle API in grado di creare e aprire file JSF.",
-"titolo collegamento": "JSF",
+"linktitle": "JSF",
   "menu": {
     "docs": {
       "identifier": "executable-jsf",
-"parent": "eseguibile"
+"parent" : "executable"
 }
 },
 "lastmod": "2023-05-09"

@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato file CB7 - Archivio 7-Zip di fumetti",
   "description":"Informazioni sul formato CB7 e sulle API in grado di creare e aprire file CB7.",
-"titolo collegamento": "CB7",
+"linktitle": "CB7",
   "menu": {
     "docs": {
       "identifier": "compression-cb7",
-"parent": "compressione"
+"parent" : "compression"
 }
 },
 "lastmod": "2023-05-24"

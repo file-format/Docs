@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-ovpn",
-"parent": "impostazioni"
+"parent" : "settings"
 }
 },
 "lastmod": "21-03-2023"

@@ -19,7 +19,7 @@
    "menu":{
       "docs":{
          "identifier":"compression-bin",
-"parent": "compressione"
+"parent" : "compression"
 }
 },
 "lastmod":"20/07/2023"

@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Formato file THEME - Tema desktop Microsoft Plus!",
   "description":"Scopri il formato THEME e le API che possono creare e aprire file THEME.",
-"linktitle": "TEMA",
+"linktitle": "THEME",
   "menu": {
     "docs": {
       "identifier": "settings-theme",
-"parent": "impostazioni"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-05-03"

@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato file PC3 - File di configurazione del plotter AutoCAD",
   "description":"Ulteriori informazioni sul formato PC3 e sulle API in grado di creare e aprire file PC3.",
-"titolo collegamento": "PC3",
+"linktitle": "PC3",
   "menu": {
     "docs": {
       "identifier": "cad-pc3",
-"parent": "cad"
+"parent" : "cad"
 }
 },
 "lastmod": "2023-05-09"

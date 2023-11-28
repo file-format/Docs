@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Formato file TXD - Dizionario delle texture di gioco",
   "description":"Scopri il formato TXD e le API che possono creare e aprire file TXD.",
-"titolo collegamento": "TXD",
+"linktitle": "TXD",
   "menu": {
     "docs": {
       "identifier": "game-txd",
-"parent": "gioco"
+"parent" : "game"
 }
 },
 "lastmod": "2023-05-03"

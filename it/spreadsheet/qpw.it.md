@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Formato file QPW - Foglio di calcolo Quattro Pro",
   "description":"Informazioni sul formato file QPW e sulle API che possono creare e aprire file QPW.",
-"titolo collegamento": "QPW",
+"linktitle": "QPW",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-qpw",
-"parent": "foglio di calcolo"
+"parent" : "spreadsheet"
 }
 },
 "lastmod": "28-02-2023"

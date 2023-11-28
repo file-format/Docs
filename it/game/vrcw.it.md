@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "game-vrcw",
-"parent": "gioco"
+"parent" : "game"
 }
 },
 "lastmod": "2023-04-04"

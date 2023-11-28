@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "executable-app",
-"parent": "eseguibile"
+"parent" : "executable"
 }
 },
 "lastmod": "2023-02-02"

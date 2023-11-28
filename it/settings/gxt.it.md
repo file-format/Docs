@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Formato file GXT - File di testo Grand Theft Auto",
   "description":"Ulteriori informazioni sul formato GXT e sulle API in grado di creare e aprire file GXT.",
-"titolo collegamento": "GXT",
+"linktitle": "GXT",
   "menu": {
     "docs": {
       "identifier": "settings-gxt",
-"parent": "impostazioni"
+"parent" : "settings"
 }
 },
 "lastmod": "21-03-2023"

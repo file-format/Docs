@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato file M2V - Video MPEG-2",
    "description":"Informazioni sul formato di file video MPEG-2 M2V e sulle API in grado di creare e aprire file M2V.",
-"titolo collegamento": "M2V",
+"linktitle": "M2V",
    "menu":{
       "docs":{
          "identifier":"video-m2v",
-"parent": "video"
+"parent" : "video"
 }
 },
 "lastmod":"2023-10-11"

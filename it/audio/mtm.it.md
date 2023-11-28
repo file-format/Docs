@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Formato file MTM - Modulo MultiTracker",
   "description":"Informazioni sul formato file MTM e sulle API in grado di creare e aprire file MTM.",
-"titolo collegamento": "MTM",
+"linktitle": "MTM",
   "menu": {
     "docs": {
       "identifier": "audio-mtm",
-"parent": "audio"
+"parent" : "audio"
 }
 },
 "lastmod": "2023-02-15"

@@ -19,7 +19,7 @@
    "menu":{
       "docs":{
          "identifier":"game-par",
-"parent": "gioco"
+"parent" : "game"
 }
 },
 "lastmod":"2023-07-18"

@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato file RB - File del codice sorgente Ruby",
   "description":"Scopri il formato RB e le API che possono creare e aprire file RB.",
-"titolo collegamento": "RB",
+"linktitle": "RB",
   "menu": {
     "docs": {
       "identifier": "programming-rb",
-"parent": "programmazione"
+"parent" : "programming"
 }
 },
 "lastmod": "29-05-2023"

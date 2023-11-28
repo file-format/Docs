@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "video-sami",
-"parent": "video"
+"parent" : "video"
 }
 },
 "lastmod": "2023-05-16"

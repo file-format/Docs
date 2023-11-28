@@ -18,11 +18,11 @@
 "toc": true,
 "title": "Formato file DV - File video digitale",
   "description":"Ulteriori informazioni sul formato DV e sulle API in grado di creare e aprire file DV.",
-"titolo collegamento": "DV",
+"linktitle": "DV",
   "menu": {
     "docs": {
       "identifier": "video-dv",
-"parent": "video"
+"parent" : "video"
 }
 },
 "lastmod": "2023-05-31"

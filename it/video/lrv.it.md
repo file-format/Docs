@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato file LRV - File video a bassa risoluzione di GoPro",
   "description":"Informazioni sul formato LRV e sulle API in grado di creare e aprire file LRV.",
-"titolo collegamento": "LRV",
+"linktitle": "LRV",
   "menu": {
     "docs": {
       "identifier": "video-lrv",
-"parent": "video"
+"parent" : "video"
 }
 },
 "lastmod": "21-06-2023"

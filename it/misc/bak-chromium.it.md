@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato file BAK - Backup dei segnalibri di Chromium",
   "description":"Informazioni sul formato dei segnalibri BAK Chromium e sulle API in grado di creare e aprire file BAK.",
-"linktitle": "Segnalibri BAK Chromium",
+"linktitle": "BAK Chromium Bookmarks",
   "menu": {
     "docs": {
       "identifier": "misc-bak-chromium",
-"parent": "varie"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-12"
