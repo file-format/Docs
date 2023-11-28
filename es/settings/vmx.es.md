@@ -18,11 +18,11 @@
 "toc": true,
 "title": "Formato de archivo VMX: archivo de configuración de máquina virtual VMware",
   "description":"Obtenga más información sobre el formato VMX y las API que pueden crear y abrir archivos VMX.",
-"enlacetítulo": "VMX",
+"linktitle" : "VMX",
   "menu": {
     "docs": {
       "identifier": "settings-vmx",
-"parent": "configuración"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-06-08"

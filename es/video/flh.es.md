@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "video-flh",
-"parent": "vídeo"
+"parent" : "video"
 }
 },
 "lastmod": "2023-06-22"

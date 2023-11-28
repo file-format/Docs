@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Formato de archivo EFS - Archivo Ensoniq SQ-80",
   "description":"Obtenga más información sobre el formato de archivo EFS y las API que pueden crear y abrir archivos EFS.",
-"enlacetítulo": "EFS",
+"linktitle" : "EFS",
   "menu": {
     "docs": {
       "identifier": "audio-efs",
-"parent": "audio"
+"parent" : "audio"
 }
 },
 "lastmod": "2023-02-16"

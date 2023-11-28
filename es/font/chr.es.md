@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato de archivo CHR - Conjunto de caracteres Borland",
    "description":"Obtenga más información sobre el formato de archivo del juego de caracteres CHR Borland y las API que pueden crear y abrir archivos CHR.",
-"linktitle":"CDH",
+"linktitle":"CHR",
    "menu":{
       "docs":{
          "identifier":"font-chr",
-"parent": "fuente"
+"parent" : "font"
 }
 },
 "último mod": "2023-10-11"

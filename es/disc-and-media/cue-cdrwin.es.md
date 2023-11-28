@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"disc-and-media-cue-cdrwin",
-"parent": "disco-y-medios"
+"parent" : "disc-and-media"
 }
 },
 "último mod": "2023-10-18"

@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Formato de archivo WLMP - Proyecto Windows Live Movie Maker",
   "description":"Obtenga más información sobre el formato de archivo WLMP y las API que pueden crear y abrir archivos WLMP.",
-"título del enlace": "WLMP",
+"linktitle" :  "WLMP",
   "menu": {
     "docs": {
       "identifier": "video-wlmp",
-"parent": "vídeo"
+"parent" : "video"
 }
 },
 "lastmod": "2023-02-08"

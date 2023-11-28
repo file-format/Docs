@@ -17,11 +17,11 @@
 "toc": true,
 "title": "¿Qué son los archivos PDB? Comprensión de los archivos PDB: una herramienta crucial para la biología estructural",
   "description":"¿Más información sobre qué son los archivos PDB? Comprensión de los archivos PDB: una herramienta crucial para la biología estructural",
-"título del enlace": "PDB",
+"linktitle" :  "PDB",
   "menu": {
     "docs": {
       "identifier": "database-pdb",
-"parent": "base de datos"
+"parent" : "database"
 }
 },
 "última modificación": "2023-06-26"

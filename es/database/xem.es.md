@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Formato de archivo XEM - Archivo de definición de modelo de PowerDesigner",
   "description":"Obtenga más información sobre el formato XEM y las API que pueden crear y abrir archivos XEM.",
-"enlacetítulo": "XEM",
+"linktitle" : "XEM",
   "menu": {
     "docs": {
       "identifier": "database-xem",
-"parent": "base de datos"
+"parent" : "database"
 }
 },
 "última modificación": "2023-04-27"

@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"video-m2v",
-"parent": "vídeo"
+"parent" : "video"
 }
 },
 "último mod": "2023-10-11"

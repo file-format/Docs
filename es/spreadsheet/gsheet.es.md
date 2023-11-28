@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "spreadsheet-gsheet",
-"parent": "hoja de cálculo"
+"parent" : "spreadsheet"
 }
 },
 "lastmod": "2023-02-28"

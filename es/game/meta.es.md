@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato de archivo META - Archivo de metadatos existente",
   "description":"Obtenga más información sobre el formato META y las API que pueden crear y abrir archivos META.",
-"título del enlace": "META",
+"linktitle" :  "META",
   "menu": {
     "docs": {
       "identifier": "game-meta",
-"parent": "juego"
+"parent" : "game"
 }
 },
 "lastmod": "2023-06-21"

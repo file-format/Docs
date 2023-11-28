@@ -17,11 +17,11 @@
 "toc": true,
 "title":"Archivo INK - Mimio Notebook - ¿Qué es un archivo .ink y cómo abrirlo?",
    "description":"Obtenga más información sobre el formato de archivo INK Mimio Notebook y las API que pueden crear y abrir archivos INK.",
-"linktitle": "TINTA",
+"linktitle": "INK",
    "menu":{
       "docs":{
          "identifier":"data-ink",
-"parent": "datos"
+"parent" : "data"
 }
 },
 "último mod": "2023-11-09"

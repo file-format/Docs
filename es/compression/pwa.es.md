@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Formato de archivo PWA - Archivo del agente de contraseñas",
   "description":"Obtenga más información sobre el formato PWA y las API que pueden crear y abrir archivos PWA.",
-"título del enlace": "PWA",
+"linktitle" :  "PWA",
   "menu": {
     "docs": {
       "identifier": "compression-pwa",
-"parent": "compresión"
+"parent" : "compression"
 }
 },
 "última modificación": "2023-05-24"

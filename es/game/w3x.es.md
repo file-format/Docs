@@ -18,11 +18,11 @@
 "toc": true,
 "title": "Formato de archivo W3X - Archivo de mapa de expansión de Warcraft 3",
   "description":"Obtenga más información sobre el formato W3X y las API que pueden crear y abrir archivos W3X.",
-"enlacetítulo": "W3X",
+"linktitle" : "W3X",
   "menu": {
     "docs": {
       "identifier": "game-w3x",
-"parent": "juego"
+"parent" : "game"
 }
 },
 "última modificación": "2023-04-13"

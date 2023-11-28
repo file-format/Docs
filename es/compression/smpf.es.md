@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "compression-smpf",
-"parent": "compresión"
+"parent" : "compression"
 }
 },
 "última modificación": "2023-05-24"

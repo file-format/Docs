@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "video-pds",
-"parent": "vídeo"
+"parent" : "video"
 }
 },
 "última modificación": "2023-07-12"

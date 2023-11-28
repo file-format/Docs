@@ -15,11 +15,11 @@
 "toc": true,
 "title": "SET Formato de Archivo - Archivo de Conjunto de Propiedades de Biblioteca de Documentos",
   "description":"Obtenga más información sobre el formato SET y las API que pueden crear y abrir archivos SET.",
-"linktitle": "ESTABLECER",
+"linktitle": "SET",
   "menu": {
     "docs": {
       "identifier": "settings-set",
-"parent": "configuración"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-03-21"

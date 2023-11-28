@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Formato de archivo PDM - Archivo de base de datos PowerDesigner",
   "description":"Obtenga más información sobre el formato PDM y las API que pueden crear y abrir archivos PDM.",
-"enlacetítulo": "PDM",
+"linktitle" : "PDM",
   "menu": {
     "docs": {
       "identifier": "database-pdm",
-"parent": "base de datos"
+"parent" : "database"
 }
 },
 "última modificación": "2023-04-27"

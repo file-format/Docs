@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Formato de archivo APM - Imagen de metarchivo colocable de Aldus",
   "description":"Obtenga más información sobre el formato APM y las API que pueden crear y abrir archivos APM.",
-"enlacetítulo": "APM",
+"linktitle" : "APM",
   "menu": {
     "docs": {
       "identifier": "image-apm",
-"parent": "imagen"
+"parent" : "image"
 }
 },
 "lastmod": "2023-05-04"

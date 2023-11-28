@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "system-manifest",
-"parent": "sistema"
+"parent" : "system"
 }
 },
 "lastmod": "2023-03-07"

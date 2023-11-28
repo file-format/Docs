@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Formato de archivo CHIP - Archivo de anotación de microarrays",
   "description":"Obtenga más información sobre el formato de archivo CHIP y las API que pueden crear y abrir archivos CHIP.",
-"título del enlace": "CHIP",
+"linktitle" :  "CHIP",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-chip",
-"parent": "hoja de cálculo"
+"parent" : "spreadsheet"
 }
 },
 "lastmod": "2023-03-01"

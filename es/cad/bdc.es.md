@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Formato de archivo BDC - Archivo de diseño de West Point Bridge Designer",
   "description":"Obtenga más información sobre el formato de archivo BDC y las API que pueden crear y abrir archivos BDC.",
-"título del enlace": "BDC",
+"linktitle" :  "BDC",
   "menu": {
     "docs": {
       "identifier": "cad-bdc",
-"parent": "cad"
+"parent" : "cad"
 }
 },
 "lastmod": "2023-02-21"

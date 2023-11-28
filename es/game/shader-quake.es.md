@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato de archivo SHADER: archivo de sombreado del motor Quake 3",
    "description":"Obtenga más información sobre el formato de archivo SHADER Quake 3 Engine Shader y las API que pueden crear y abrir archivos SHADER.",
-"linktitle":"Terremoto SHADER",
+"linktitle":"SHADER Quake",
    "menu":{
       "docs":{
          "identifier":"game-shader-quake",
-"parent": "juego"
+"parent" : "game"
 }
 },
 "último mod": "2023-10-11"

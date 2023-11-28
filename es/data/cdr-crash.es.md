@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"data-cdr-crash",
-"parent": "datos"
+"parent" : "data"
 }
 },
 "último mod": "2023-10-18"

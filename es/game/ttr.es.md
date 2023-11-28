@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Formato de archivo TTR - Reproducción TETR.IO",
   "description":"Obtenga más información sobre el formato TTR y las API que pueden crear y abrir archivos TTR.",
-"título del enlace": "TTR",
+"linktitle" :  "TTR",
   "menu": {
     "docs": {
       "identifier": "game-ttr",
-"parent": "juego"
+"parent" : "game"
 }
 },
 "última modificación": "2023-04-04"

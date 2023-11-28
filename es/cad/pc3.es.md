@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato de archivo PC3 - Archivo de configuración del trazador de AutoCAD",
   "description":"Obtenga más información sobre el formato PC3 y las API que pueden crear y abrir archivos PC3.",
-"título del enlace": "PC3",
+"linktitle" :  "PC3",
   "menu": {
     "docs": {
       "identifier": "cad-pc3",
-"parent": "cad"
+"parent" : "cad"
 }
 },
 "lastmod": "2023-05-09"

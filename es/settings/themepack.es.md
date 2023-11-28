@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Formato de archivo THEMEPACK - Paquete de temas de Windows 7",
   "description":"Obtenga más información sobre el formato THEMEPACK y las API que pueden crear y abrir archivos THEMEPACK.",
-"linktitle": "PAQUETE DE TEMAS",
+"linktitle": "THEMEPACK",
   "menu": {
     "docs": {
       "identifier": "settings-themepack",
-"parent": "configuración"
+"parent" : "settings"
 }
 },
 "última modificación": "2023-03-23"

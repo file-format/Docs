@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "video-exp",
-"parent": "vídeo"
+"parent" : "video"
 }
 },
 "última modificación": "2023-07-13"

@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Formato de archivo JWPUB - Publicación de los testigos de Jehová",
   "description":"Obtenga más información sobre el formato JWPUB y las API que pueden crear y abrir archivos JWPUB.",
-"título del enlace": "JWPUB",
+"linktitle" :  "JWPUB",
   "menu": {
     "docs": {
       "identifier": "ebook-jwpub",
-"parent": "libro electrónico"
+"parent" : "ebook"
 }
 },
 "lastmod": "2023-03-02"

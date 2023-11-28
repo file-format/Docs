@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "video-veg",
-"parent": "vídeo"
+"parent" : "video"
 }
 },
 "lastmod": "2023-02-07"

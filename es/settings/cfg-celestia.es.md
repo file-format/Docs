@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-cfg-celestia",
-"parent": "configuración"
+"parent" : "settings"
 }
 },
 "última modificación": "2023-09-27"

@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato de archivo BAK - Copia de seguridad de marcadores de Chromium",
   "description":"Obtenga más información sobre el formato de marcadores BAK Chromium y las API que pueden crear y abrir archivos BAK.",
-"linktitle": "Marcadores de cromo BAK",
+"linktitle": "BAK Chromium Bookmarks",
   "menu": {
     "docs": {
       "identifier": "misc-bak-chromium",
-"parent": "varios"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-12"

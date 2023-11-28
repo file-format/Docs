@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato de archivo CHEAT - Hoja de trucos de Navi",
   "description":"Obtenga más información sobre el formato CHEAT y las API que pueden crear y abrir archivos CHEAT.",
-"linktitle": "TRUCO",
+"linktitle": "CHEAT",
   "menu": {
     "docs": {
       "identifier": "executable-cheat",
-"parent": "ejecutable"
+"parent" : "executable"
 }
 },
 "última modificación": "2023-05-10"

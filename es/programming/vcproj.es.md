@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato de archivo VCPROJ - Archivo de proyecto de Visual C++",
   "description":"Obtenga más información sobre el formato VCPROJ y las API que pueden crear y abrir archivos VCPROJ.",
-"enlacetitle": "VCPROJ",
+"linktitle" :  "VCPROJ",
   "menu": {
     "docs": {
       "identifier": "programming-vcproj",
-"parent": "programación"
+"parent" : "programming"
 }
 },
 "última modificación": "2023-05-15"

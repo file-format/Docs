@@ -15,11 +15,11 @@
 "toc": true,
 "title": "DESCARGANDO Formato de Archivo - Archivo de Descarga Incompleta Pando",
   "description":"Obtenga más información sobre el formato de DESCARGA y las API que pueden crear y abrir archivos de DESCARGA.",
-"linktitle": "DESCARGANDO",
+"linktitle": "DOWNLOADING",
   "menu": {
     "docs": {
       "identifier": "misc-downloading",
-"parent": "varios"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-04-18"

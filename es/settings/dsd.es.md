@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-dsd",
-"parent": "configuración"
+"parent" : "settings"
 }
 },
 "última modificación": "2023-04-13"

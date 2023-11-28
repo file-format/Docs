@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "game-litemod",
-"parent": "juego"
+"parent" : "game"
 }
 },
 "última modificación": "2023-03-15"

@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "game-ddt",
-"parent": "juego"
+"parent" : "game"
 }
 },
 "última modificación": "2023-05-16"

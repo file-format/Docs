@@ -15,11 +15,11 @@
 "toc": true,
 "title": "¿Qué son los archivos multimedia? Tipos, formatos y su impacto en la comunicación digital",
   "description":"Aprenda sobre los archivos multimedia, sus tipos, formatos e impacto en la comunicación digital.",
-"linktitle": "ARCHIVOS MEDIA",
+"linktitle": "MEDIA FILES",
   "menu": {
     "docs": {
       "identifier": "misc-media-files",
-"parent": "varios"
+"parent" : "misc"
 }
 },
 "última modificación": "2023-06-19"

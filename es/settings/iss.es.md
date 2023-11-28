@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-iss",
-"parent": "configuración"
+"parent" : "settings"
 }
 },
 "última modificación": "2023-03-28"

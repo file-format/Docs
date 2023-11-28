@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Formato de archivo THEME - Tema de escritorio de Microsoft Plus!",
   "description":"Obtenga más información sobre el formato THEME y las API que pueden crear y abrir archivos THEME.",
-"linktitle": "TEMA",
+"linktitle": "THEME",
   "menu": {
     "docs": {
       "identifier": "settings-theme",
-"parent": "configuración"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-05-03"

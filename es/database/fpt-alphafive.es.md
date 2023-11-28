@@ -18,11 +18,11 @@
 "toc": true,
 "title": "Formato de archivo FPT: archivo de notas de tabla Alpha Five",
   "description":"Obtenga más información sobre el formato FPT Alpha Five y las API que pueden crear y abrir archivos FPT.",
-"linktitle": "FPT Alfa Cinco",
+"linktitle": "FPT Alpha Five",
   "menu": {
     "docs": {
       "identifier": "database-fpt-alphafive",
-"parent": "base de datos"
+"parent" : "database"
 }
 },
 "última modificación": "2023-04-27"

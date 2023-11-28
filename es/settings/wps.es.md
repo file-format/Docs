@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato de archivo WPS: archivo de proyecto de SDL Translator's Workbench",
   "description":"Obtenga más información sobre el formato WPS y las API que pueden crear y abrir archivos WPS.",
-"enlacetítulo": "WPS",
+"linktitle" : "WPS",
   "menu": {
     "docs": {
       "identifier": "settings-wps",
-"parent": "configuración"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-09-21"

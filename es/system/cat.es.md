@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Formato de archivo CAT: archivo de catálogo de Windows",
    "description":"Obtenga información sobre el formato CAT y las API que pueden crear y abrir archivos CAT.",
-"linktitle": "GATO",
+"linktitle": "CAT",
    "menu":{
       "docs":{
          "identifier":"system-cat",
-"parent": "sistema"
+"parent" : "system"
 }
 },
 "último mod": "2023-07-06"

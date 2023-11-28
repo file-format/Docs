@@ -18,11 +18,11 @@
 "toc": true,
 "title": "Formato de archivo de ESCRITORIO - Archivo de entrada de escritorio",
   "description":"Obtenga más información sobre el formato DESKTOP y las API que pueden crear y abrir archivos DESKTOP.",
-"linktitle": "ESCRITORIO",
+"linktitle": "DESKTOP",
   "menu": {
     "docs": {
       "identifier": "settings-desktop",
-"parent": "configuración"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-05-31"

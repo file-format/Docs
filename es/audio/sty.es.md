@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Formato de archivo STY: estilo de teclado Yamaha o Korg",
   "description":"Obtenga más información sobre el formato STY y las API que pueden crear y abrir archivos STY.",
-"linktitle": "ESTY",
+"linktitle": "STY",
   "menu": {
     "docs": {
       "identifier": "audio-sty",
-"parent": "audio"
+"parent" : "audio"
 }
 },
 "última modificación": "2023-06-15"

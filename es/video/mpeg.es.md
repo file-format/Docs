@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Formato de archivo MPEG - Vídeo MPEG",
   "description":"Obtenga información sobre el formato MPEG y las API que pueden crear y abrir archivos MPEG.",
-"título del enlace": "MPEG",
+"linktitle" :  "MPEG",
   "menu": {
     "docs": {
       "identifier": "video-mpeg",
-"parent": "vídeo"
+"parent" : "video"
 }
 },
 "última modificación": "2023-07-12"

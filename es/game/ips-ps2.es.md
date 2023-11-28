@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"game-ips-ps2",
-"parent": "juego"
+"parent" : "game"
 }
 },
 "último mod": "2023-09-21"

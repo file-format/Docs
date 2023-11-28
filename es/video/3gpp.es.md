@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato de archivo 3GPP - Archivo multimedia 3GPP",
   "description":"Obtenga más información sobre el formato 3GPP y las API que pueden crear y abrir archivos 3GPP.",
-"enlacetítulo": "3GPP",
+"linktitle" : "3GPP",
   "menu": {
     "docs": {
       "identifier": "video-3gpp",
-"parent": "vídeo"
+"parent" : "video"
 }
 },
 "lastmod": "2023-05-30"

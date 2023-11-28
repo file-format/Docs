@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato de archivo BAK - Copia de seguridad de la base de datos de Microsoft SQL Server",
   "description":"Obtenga más información sobre el formato de copia de seguridad de BAK SQL Server y las API que pueden crear y abrir archivos BAK.",
-"linktitle": "Servidor SQL BAK",
+"linktitle": "BAK SQL Server",
   "menu": {
     "docs": {
       "identifier": "database-bak-sqlserver",
-"parent": "base de datos"
+"parent" : "database"
 }
 },
 "lastmod": "2023-06-12"

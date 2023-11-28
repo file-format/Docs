@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Formato de archivo M4R - Archivo de tono de llamada de iPhone",
   "description":"Obtenga más información sobre el formato de archivo M4R y las API que pueden crear y abrir archivos M4R.",
-"enlacetítulo": "M4R",
+"linktitle" : "M4R",
   "menu": {
     "docs": {
       "identifier": "audio-m4r",
-"parent": "audio"
+"parent" : "audio"
 }
 },
 "lastmod": "2023-03-30"

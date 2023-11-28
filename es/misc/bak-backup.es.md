@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato de archivo BAK - Archivo de copia de seguridad",
   "description":"Obtenga más información sobre el formato BAK Backup y las API que pueden crear y abrir archivos BAK.",
-"linktitle": "Copia de seguridad BAK",
+"linktitle": "BAK Backup",
   "menu": {
     "docs": {
       "identifier": "misc-bak-backup",
-"parent": "varios"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-12"

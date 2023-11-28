@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "database-eco",
-"parent": "base de datos"
+"parent" : "database"
 }
 },
 "lastmod": "2023-08-03"

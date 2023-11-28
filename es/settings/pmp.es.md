@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Formato de archivo PMP - Archivo de parámetros del modelo de trazado de AutoCAD",
   "description":"Obtenga más información sobre el formato PMP y las API que pueden crear y abrir archivos PMP.",
-"enlacetítulo": "PMP",
+"linktitle" : "PMP",
   "menu": {
     "docs": {
       "identifier": "settings-pmp",
-"parent": "configuración"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-03-28"

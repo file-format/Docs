@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato de archivo CFG - Archivo de configuración del motor de origen",
   "description":"Obtenga más información sobre el formato del archivo de configuración del motor fuente CFG y las API que pueden crear y abrir archivos CFG.",
-"linktitle": "Motor de origen CFG",
+"linktitle": "CFG Source Engine",
   "menu": {
     "docs": {
       "identifier": "game-cfg-sourceengine",
-"parent": "juego"
+"parent" : "game"
 }
 },
 "última modificación": "2023-09-27"

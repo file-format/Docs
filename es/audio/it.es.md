@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Formato de archivo IT - Módulo de seguimiento de impulsos",
   "description":"Obtenga información sobre el formato de TI y las API que pueden crear y abrir archivos de TI.",
-"linktitle": "ES",
+"linktitle": "IT",
   "menu": {
     "docs": {
       "identifier": "audio-it",
-"parent": "audio"
+"parent" : "audio"
 }
 },
 "última modificación": "2023-06-15"

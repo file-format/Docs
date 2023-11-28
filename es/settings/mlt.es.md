@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-mlt",
-"parent": "configuración"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-10-04"

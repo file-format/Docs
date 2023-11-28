@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato de archivo IPS: datos analíticos de iOS",
   "description":"Obtenga más información sobre el formato IPS y las API que pueden crear y abrir archivos IPS.",
-"título del enlace": "IPS",
+"linktitle" :  "IPS",
   "menu": {
     "docs": {
       "identifier": "misc-ips",
-"parent": "varios"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-09-21"

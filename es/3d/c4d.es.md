@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Formato de archivo C4D - Archivo de modelo Cinema 4D",
   "description":"Obtenga más información sobre el formato C4D y las API que pueden crear y abrir archivos C4D.",
-"enlacetítulo": "C4D",
+"linktitle" : "C4D",
   "menu": {
     "docs": {
       "identifier": "3d-c4d",
-"parent": "3d"
+"parent" : "3d"
 }
 },
 "última modificación": "2023-04-27"

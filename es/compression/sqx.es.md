@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "compression-sqx",
-"parent": "compresión"
+"parent" : "compression"
 }
 },
 "última modificación": "2023-05-22"

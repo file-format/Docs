@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato de archivo ARW - Imagen de cámara digital Sony Alpha Raw",
   "description":"Obtenga más información sobre el formato ARW y las API que pueden crear y abrir archivos ARW.",
-"título del enlace": "ARW",
+"linktitle" :  "ARW",
   "menu": {
     "docs": {
       "identifier": "image-arw",
-"parent": "imagen"
+"parent" : "image"
 }
 },
 "última modificación": "2023-06-15"

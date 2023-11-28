@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Formato de archivo CC - Archivo de código fuente C++",
   "description":"Obtenga más información sobre el formato CC y las API que pueden crear y abrir archivos CC.",
-"título del enlace": "CC",
+"linktitle" :  "CC",
   "menu": {
     "docs": {
       "identifier": "programming-cc",
-"parent": "programación"
+"parent" : "programming"
 }
 },
 "lastmod": "2023-05-08"

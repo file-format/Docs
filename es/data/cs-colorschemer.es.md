@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Archivo CS - Esquema de colores de ColorSchemer Studio - ¿Qué es un archivo .cs y cómo lo abro?",
   "description":"Obtenga más información sobre el formato CS ColorSchemer Studio Color Scheme y las API que pueden crear y abrir archivos CS.",
-"título del enlace": "CS",
+"linktitle" :  "CS",
   "menu": {
     "docs": {
       "identifier": "data-cs-colorschemer",
-"parent": "datos"
+"parent" : "data"
 }
 },
 "lastmod": "2023-10-04"

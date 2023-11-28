@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato de archivo RAW - Datos de imagen sin procesar",
   "description":"Obtenga información sobre el formato RAW y las API que pueden crear y abrir archivos RAW.",
-"linktitle": "CRUDO",
+"linktitle": "RAW",
   "menu": {
     "docs": {
       "identifier": "image-raw",
-"parent": "imagen"
+"parent" : "image"
 }
 },
 "última modificación": "2023-06-15"

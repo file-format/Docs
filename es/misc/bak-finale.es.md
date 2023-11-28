@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato de archivo BAK - Copia de seguridad de la partitura de Finale 2012",
   "description":"Obtenga más información sobre el formato BAK Finale y las API que pueden crear y abrir archivos BAK.",
-"linktitle": "Final de BAK",
+"linktitle": "BAK Finale",
   "menu": {
     "docs": {
       "identifier": "misc-bak-finale",
-"parent": "varios"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-12"

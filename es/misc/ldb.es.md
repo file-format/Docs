@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-ldb",
-"parent": "varios"
+"parent" : "misc"
 }
 },
 "última modificación": "2023-04-20"

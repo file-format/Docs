@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Formato de archivo REG - Archivo de registro de Windows",
   "description":"Obtenga información sobre el formato REG y las API que pueden crear y abrir archivos REG.",
-"título del enlace": "REG",
+"linktitle" :  "REG",
   "menu": {
     "docs": {
       "identifier": "system-reg",
-"parent": "sistema"
+"parent" : "system"
 }
 },
 "lastmod": "2023-03-07"

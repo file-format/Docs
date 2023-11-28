@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Formato de archivo IPSW - Archivo de actualización de software de iPhone",
   "description":"Obtenga más información sobre el formato IPSW y las API que pueden crear y abrir archivos IPSW.",
-"título del enlace": "IPSW",
+"linktitle" :  "IPSW",
   "menu": {
     "docs": {
       "identifier": "misc-ipsw",
-"parent": "varios"
+"parent" : "misc"
 }
 },
 "última modificación": "2023-04-17"

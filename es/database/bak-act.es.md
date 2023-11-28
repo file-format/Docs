@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato de archivo BAK - Act! Copia de seguridad de la base de datos",
   "description":"¡Obtenga más información sobre BAK Act! Formato de copia de seguridad y API que pueden crear y abrir archivos BAK.",
-"linktitle": "Copia de seguridad BAK ACT",
+"linktitle": "BAK ACT Backup",
   "menu": {
     "docs": {
       "identifier": "database-bak-act",
-"parent": "base de datos"
+"parent" : "database"
 }
 },
 "lastmod": "2023-06-12"

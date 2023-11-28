@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-tpf",
-"parent": "configuración"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-03-29"

@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Formato de archivo RDP - Archivo de configuración de escritorio remoto",
   "description":"Obtenga información sobre el formato RDP y las API que pueden crear y abrir archivos RDP.",
-"título del enlace": "RDP",
+"linktitle" :  "RDP",
   "menu": {
     "docs": {
       "identifier": "settings-rdp",
-"parent": "configuración"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-05-02"

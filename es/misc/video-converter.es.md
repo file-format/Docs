@@ -14,11 +14,11 @@
 "toc": true,
 "title": "¿Qué es un conversor de vídeo? La guía definitiva para conversores de vídeo",
   "description":"Más información sobre conversores de vídeo, formatos, preguntas frecuentes y las mejores herramientas",
-"linktitle": "CONVERTIDOR DE VIDEO",
+"linktitle": "VIDEO CONVERTER",
   "menu": {
     "docs": {
       "identifier": "misc-video-converter",
-"parent": "varios"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-07-03"

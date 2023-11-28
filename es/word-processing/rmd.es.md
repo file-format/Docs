@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "word-processing-rmd",
-"parent": "procesamiento de textos"
+"parent" : "word-processing"
 }
 },
 "lastmod": "2023-06-22"

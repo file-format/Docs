@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato de archivo CB7 - Archivo de cómics 7-Zip",
   "description":"Obtenga más información sobre el formato CB7 y las API que pueden crear y abrir archivos CB7.",
-"título del enlace": "CB7",
+"linktitle" :  "CB7",
   "menu": {
     "docs": {
       "identifier": "compression-cb7",
-"parent": "compresión"
+"parent" : "compression"
 }
 },
 "última modificación": "2023-05-24"

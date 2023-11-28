@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "game-pxp",
-"parent": "juego"
+"parent" : "game"
 }
 },
 "última modificación": "2023-04-05"
