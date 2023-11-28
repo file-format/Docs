@@ -15,11 +15,11 @@
 "toc": true,
 "title":"M4R-bestandsindeling - iPhone-beltoonbestand",
   "description":"Leer meer over het M4R-bestandsformaat en API's die M4R-bestanden kunnen maken en openen.",
-"linktitel": "M4R",
+"linktitle": "M4R",
   "menu": {
     "docs": {
       "identifier": "audio-m4r",
-"parent":"audio"
+"parent" : "audio"
 }
 },
 "laatste mod": "30-03-2023"

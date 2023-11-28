@@ -7,11 +7,11 @@
 "toc": true,
 "title":"PZZ-bestand - Wat is een .pzz-bestand en hoe open je het?",
   "description":"Leer meer over het PZZ-formaat en API's die PZZ-bestanden kunnen maken en openen.",
-"linktitel": "PZZ",
+"linktitle": "PZZ",
   "menu": {
     "docs": {
       "identifier": "compression-pzz",
-"parent":"compressie"
+"parent" : "compression"
 }
 },
 "laatste mod": "2023-10-30"

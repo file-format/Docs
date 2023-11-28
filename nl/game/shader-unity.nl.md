@@ -17,11 +17,11 @@
 "toc":true,
 "title":"SHADER-bestandsindeling - Unity Shader Asset",
    "description":"Leer meer over het SHADER Unity Shader Asset-formaat en API's waarmee SHADER-bestanden kunnen worden gemaakt en geopend.",
-"linktitle":" SHADER Eenheid",
+"linktitle":"SHADER Unity",
    "menu":{
       "docs":{
          "identifier":"game-shader-unity",
-"parent":"spel"
+"parent" : "game"
 }
 },
 "lastmod":"2023-10-11"

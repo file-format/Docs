@@ -17,11 +17,11 @@
 "toc": true,
 "title":"LRV-bestandsindeling - videobestand met lage resolutie van GoPro",
   "description":"Leer meer over het LRV-formaat en API's waarmee LRV-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "LRV",
+"linktitle": "LRV",
   "menu": {
     "docs": {
       "identifier": "video-lrv",
-"parent":"video"
+"parent" : "video"
 }
 },
 "laatste mod": "21-06-2023"

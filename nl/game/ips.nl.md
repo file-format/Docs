@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"game-ips",
-"parent":"spel"
+"parent" : "game"
 }
 },
 "lastmod":"21-09-2023"

@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "ebook-jwpub",
-"parent":"e-boek"
+"parent" : "ebook"
 }
 },
 "laatste mod": "2023-03-02"

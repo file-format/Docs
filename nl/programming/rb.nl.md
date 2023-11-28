@@ -17,11 +17,11 @@
 "toc": true,
 "title":"RB-bestandsindeling - Ruby-broncodebestand",
   "description":"Leer meer over het RB-formaat en API's waarmee RB-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "RB",
+"linktitle": "RB",
   "menu": {
     "docs": {
       "identifier": "programming-rb",
-"parent":"programmeren"
+"parent" : "programming"
 }
 },
 "laatste mod": "29-05-2023"

@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "video-kine",
-"parent":"video"
+"parent" : "video"
 }
 },
 "laatste mod": "2023-02-09"

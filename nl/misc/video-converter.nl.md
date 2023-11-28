@@ -14,11 +14,11 @@
 "toc": true,
 "title":"Wat is een videoconverter? De ultieme gids voor videoconverters",
   "description":"Leer meer over videoconverters, formaten, veelgestelde vragen en de beste tools",
-"linktitle":"VIDEO-CONVERTER",
+"linktitle":"VIDEO CONVERTER",
   "menu": {
     "docs": {
       "identifier": "misc-video-converter",
-"parent":"diversen"
+"parent" : "misc"
 }
 },
 "laatste mod": "03-07-2023"

@@ -16,11 +16,11 @@
 "toc": true,
 "title":"PRPROJ-bestandsindeling - Adobe Premiere Pro Project",
   "description":"Leer meer over het PRPROJ-bestandsformaat en API's die PRPROJ-bestanden kunnen maken en openen.",
-"linktitel": "PRPROJ",
+"linktitle": "PRPROJ",
   "menu": {
     "docs": {
       "identifier": "video-prproj",
-"parent":"video"
+"parent" : "video"
 }
 },
 "laatste mod": "2023-02-06"

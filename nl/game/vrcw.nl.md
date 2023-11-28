@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "game-vrcw",
-"parent":"spel"
+"parent" : "game"
 }
 },
 "laatste mod": "2023-04-04"

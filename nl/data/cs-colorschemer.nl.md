@@ -17,11 +17,11 @@
 "toc": true,
 "title":"CS Bestand - ColorSchemer Studio Kleurenschema - Wat is een .cs-bestand en hoe open ik het?",
   "description":"Leer meer over het CS ColorSchemer Studio Color Scheme-formaat en API's waarmee CS-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "CS",
+"linktitle": "CS",
   "menu": {
     "docs": {
       "identifier": "data-cs-colorschemer",
-"parent":"gegevens"
+"parent" : "data"
 }
 },
 "laatste mod": "2023-10-04"

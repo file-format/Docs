@@ -15,11 +15,11 @@
 "toc": true,
 "title":"WPROJ-bestandsindeling - Wwise-projectbestand",
   "description":"Leer meer over het WPROJ-bestandsformaat en API's die WPROJ-bestanden kunnen maken en openen.",
-"linktitel": "WPROJ",
+"linktitle": "WPROJ",
   "menu": {
     "docs": {
       "identifier": "audio-wproj",
-"parent":"audio"
+"parent" : "audio"
 }
 },
 "laatste mod": "2023-02-17"

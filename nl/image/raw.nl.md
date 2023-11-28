@@ -17,11 +17,11 @@
 "toc": true,
 "title":"RAW-bestandsindeling - Raw-afbeeldingsgegevens",
   "description":"Leer meer over het RAW-formaat en API's waarmee RAW-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "RAW",
+"linktitle": "RAW",
   "menu": {
     "docs": {
       "identifier": "image-raw",
-"parent":"afbeelding"
+"parent" : "image"
 }
 },
 "laatste mod": "2023-06-15"

@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "executable-air",
-"parent":"uitvoerbaar"
+"parent" : "executable"
 }
 },
 "laatste mod": "2023-02-01"

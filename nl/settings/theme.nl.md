@@ -16,11 +16,11 @@
 "toc": true,
 "title":"THEME-bestandsindeling - Microsoft Plus! Bureaubladthema",
   "description":"Leer meer over het THEME-formaat en API's waarmee THEME-bestanden kunnen worden gemaakt en geopend.",
-"linktitle":"THEMA",
+"linktitle":"THEME",
   "menu": {
     "docs": {
       "identifier": "settings-theme",
-"parent":"instellingen"
+"parent" : "settings"
 }
 },
 "laatste mod": "2023-05-03"

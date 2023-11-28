@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "system-icns",
-"parent":"systeem"
+"parent" : "system"
 }
 },
 "laatste mod": "08-03-2023"

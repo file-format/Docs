@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "image-apm",
-"parent":"afbeelding"
+"parent" : "image"
 }
 },
 "laatste mod": "2023-05-04"

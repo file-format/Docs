@@ -15,11 +15,11 @@
 "toc": true,
   "description":"Leer meer over de APP-bestandsindeling en API's die APP-bestanden kunnen maken en openen.",
 "title":"APP-bestandsindeling - macOS-applicatiebundel",
-"linktitel": "APP",
+"linktitle": "APP",
   "menu": {
     "docs": {
       "identifier": "executable-app",
-"parent":"uitvoerbaar"
+"parent" : "executable"
 }
 },
 "laatste mod": "2023-02-02"

@@ -16,11 +16,11 @@
 "toc": true,
 "title":"UDB-bestandsindeling - Microsoft Dynamics AX-gebruikersdatabasebestand",
   "description":"Leer meer over het UDB-formaat en API's die UDB-bestanden kunnen maken en openen.",
-"linktitel": "UDB",
+"linktitle": "UDB",
   "menu": {
     "docs": {
       "identifier": "database-udb",
-"parent":"database"
+"parent" : "database"
 }
 },
 "laatste mod": "05-09-2023"

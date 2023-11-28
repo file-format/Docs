@@ -14,11 +14,11 @@
 "toc": true,
 "title":"HTT-bestandsindeling - Hypertext-sjabloon",
   "description":"Leer meer over het HTT-formaat en API's die HTT-bestanden kunnen maken en openen.",
-"linktitel": "HTT",
+"linktitle": "HTT",
   "menu": {
     "docs": {
       "identifier": "system-htt",
-"parent":"systeem"
+"parent" : "system"
 }
 },
 "laatste mod": "09-03-2023"

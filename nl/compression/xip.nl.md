@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "compression-xip",
-"parent":"compressie"
+"parent" : "compression"
 }
 },
 "laatste mod": "24-05-2023"

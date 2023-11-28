@@ -14,11 +14,11 @@
 "toc": true,
 "title":"CONF-bestandsindeling - Unix-configuratiebestand",
   "description":"Leer meer over het CONF-formaat en API's die CONF-bestanden kunnen maken en openen.",
-"linktitel": "CONF",
+"linktitle": "CONF",
   "menu": {
     "docs": {
       "identifier": "settings-conf",
-"parent":"instellingen"
+"parent" : "settings"
 }
 },
 "laatste mod": "30-03-2023"

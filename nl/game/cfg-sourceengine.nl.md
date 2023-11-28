@@ -17,11 +17,11 @@
 "toc": true,
 "title":"CFG-bestandsindeling - configuratiebestand bronengine",
   "description":"Leer meer over de CFG Source Engine-configuratiebestandsindeling en API's waarmee CFG-bestanden kunnen worden gemaakt en geopend.",
-"linktitle":"CFG-bronengine",
+"linktitle":"CFG Source Engine",
   "menu": {
     "docs": {
       "identifier": "game-cfg-sourceengine",
-"parent":"spel"
+"parent" : "game"
 }
 },
 "laatste mod": "27-09-2023"

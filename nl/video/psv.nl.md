@@ -15,11 +15,11 @@
 "toc": true,
 "title":"PSV-bestandsindeling - Pluralsight-videobestand",
   "description":"Leer meer over het PSV-formaat en API's waarmee PSV-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "PSV",
+"linktitle": "PSV",
   "menu": {
     "docs": {
       "identifier": "video-psv",
-"parent":"video"
+"parent" : "video"
 }
 },
 "laatste mod": "2023-07-12"

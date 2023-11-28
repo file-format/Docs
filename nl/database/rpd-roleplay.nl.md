@@ -17,11 +17,11 @@
 "toc": true,
 "title":"RPD-bestandsindeling - Gegevensbestand voor rollenspelontwerper",
   "description":"Meer informatie over de RPD Roleplay Designer Data File-indeling en API's waarmee RPD-bestanden kunnen worden gemaakt en geopend.",
-"linktitle":"RPD-rollenspel",
+"linktitle":"RPD Roleplay",
   "menu": {
     "docs": {
       "identifier": "database-rpd-roleplay",
-"parent":"database"
+"parent" : "database"
 }
 },
 "laatste mod": "27-04-2023"

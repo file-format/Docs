@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "game-litemod",
-"parent":"spel"
+"parent" : "game"
 }
 },
 "laatste mod": "2023-03-15"

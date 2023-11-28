@@ -19,11 +19,11 @@
 "toc": true,
 "title":"SUB-bestandsindeling - MicroDVD-ondertitelbestand",
   "description":"Leer meer over het SUB-formaat en API's waarmee SUB-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "SUB",
+"linktitle": "SUB",
   "menu": {
     "docs": {
       "identifier": "video-sub",
-"parent":"video"
+"parent" : "video"
 }
 },
 "laatste mod": "21-06-2023"

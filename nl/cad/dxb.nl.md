@@ -16,11 +16,11 @@
 "toc": true,
 "title":"DXB-bestandsindeling - Tekeninguitwisseling binair",
   "description":"Leer meer over het DXB-formaat en API's die DXB-bestanden kunnen maken en openen.",
-"linktitel": "DXB",
+"linktitle": "DXB",
   "menu": {
     "docs": {
       "identifier": "cad-dxb",
-"parent":"cad"
+"parent" : "cad"
 }
 },
 "laatste mod": "2023-05-10"

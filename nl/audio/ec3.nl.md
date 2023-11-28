@@ -15,11 +15,11 @@
 "toc": true,
 "title":"EC3-bestandsindeling - Verbeterd audiocodec 3-bestand",
   "description":"Leer meer over het EC3-bestandsformaat en API's die EC3-bestanden kunnen maken en openen.",
-"linktitel": "EC3",
+"linktitle": "EC3",
   "menu": {
     "docs": {
       "identifier": "audio-ec3",
-"parent":"audio"
+"parent" : "audio"
 }
 },
 "laatste mod": "2023-02-15"

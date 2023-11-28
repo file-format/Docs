@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "game-meta",
-"parent":"spel"
+"parent" : "game"
 }
 },
 "laatste mod": "21-06-2023"

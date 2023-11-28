@@ -15,11 +15,11 @@
 "toc": true,
 "title":"WQ2-bestandsindeling - Quattro Pro voor DOS-spreadsheetbestand",
   "description":"Leer meer over het WQ2-bestandsformaat en API's die WQ2-bestanden kunnen maken en openen.",
-"linktitel": "WQ2",
+"linktitle": "WQ2",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-wq2",
-"parent":"spreadsheet"
+"parent" : "spreadsheet"
 }
 },
 "laatste mod": "28-02-2023"

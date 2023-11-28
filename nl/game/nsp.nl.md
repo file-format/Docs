@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "game-nsp",
-"parent":"spel"
+"parent" : "game"
 }
 },
 "laatste mod": "2023-06-05"

@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "executable-jsf",
-"parent":"uitvoerbaar"
+"parent" : "executable"
 }
 },
 "laatste mod": "09-05-2023"

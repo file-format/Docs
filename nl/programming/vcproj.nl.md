@@ -17,11 +17,11 @@
 "toc": true,
 "title":"VCPROJ Bestandsformaat - Visueel C++ Projectbestand",
   "description":"Leer meer over het VCPROJ-formaat en API's waarmee VCPROJ-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "VCPROJ",
+"linktitle": "VCPROJ",
   "menu": {
     "docs": {
       "identifier": "programming-vcproj",
-"parent":"programmeren"
+"parent" : "programming"
 }
 },
 "laatste mod": "2023-05-15"

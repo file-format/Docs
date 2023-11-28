@@ -16,11 +16,11 @@
 "toc": true,
 "title":"EXP-bestandsindeling - Symbolen exporteren bestand",
   "description":"Leer meer over het EXP-formaat en API's die EXP-bestanden kunnen maken en openen.",
-"linktitel": "EXP",
+"linktitle": "EXP",
   "menu": {
     "docs": {
       "identifier": "programming-exp",
-"parent":"programmeren"
+"parent" : "programming"
 }
 },
 "laatste mod": "2023-07-12"

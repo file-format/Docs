@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"video-cpi",
-"parent":"video"
+"parent" : "video"
 }
 },
 "lastmod":"2023-10-18"

@@ -16,11 +16,11 @@
 "toc": true,
 "title":"MCSTRUCTURE Bestandsformaat - Minecraft Structuurbestand",
   "description":"Leer meer over het MCSTRUCTURE-formaat en API's waarmee MCSTRUCTURE-bestanden kunnen worden gemaakt en geopend.",
-"linktitle":"MCSTRUCTUUR",
+"linktitle":"MCSTRUCTURE",
   "menu": {
     "docs": {
       "identifier": "game-mcstructure",
-"parent":"spel"
+"parent" : "game"
 }
 },
 "laatste mod": "2023-04-05"

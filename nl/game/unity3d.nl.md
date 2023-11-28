@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "game-unity3d",
-"parent":"spel"
+"parent" : "game"
 }
 },
 "laatste mod": "2023-03-16"

@@ -15,11 +15,11 @@
 "toc": true,
 "title":"OBI-bestandsindeling - Outlook RSS-abonnementsbestand",
   "description":"Leer meer over het OBI-formaat en API's waarmee OBI-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "OBI",
+"linktitle": "OBI",
   "menu": {
     "docs": {
       "identifier": "settings-obi",
-"parent":"instellingen"
+"parent" : "settings"
 }
 },
 "laatste mod": "2023-05-02"

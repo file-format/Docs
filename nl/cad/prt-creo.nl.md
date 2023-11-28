@@ -17,11 +17,11 @@
 "toc":true,
 "title":"PRT-bestandsindeling - Creo parametrisch onderdeel",
    "description":"Leer meer over de bestandsindeling PRT Creo Parametric Part en API's waarmee PRT-bestanden kunnen worden gemaakt en geopend.",
-"linktitle":"PRRT",
+"linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"cad-prt-creo",
-"parent":"cad"
+"parent" : "cad"
 }
 },
 "lastmod":"2023-10-18"

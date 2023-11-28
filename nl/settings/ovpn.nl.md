@@ -15,11 +15,11 @@
 "toc": true,
 "title":"OVPN-bestandsindeling - OpenVPN-configuratiebestand",
   "description":"Leer meer over het OVPN-formaat en API's die OVPN-bestanden kunnen maken en openen.",
-"linktitel": "OVPN",
+"linktitle": "OVPN",
   "menu": {
     "docs": {
       "identifier": "settings-ovpn",
-"parent":"instellingen"
+"parent" : "settings"
 }
 },
 "laatste mod": "21-03-2023"

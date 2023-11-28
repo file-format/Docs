@@ -14,11 +14,11 @@
 "toc": true,
 "title":"GXT-bestandsindeling - Grand Theft Auto-tekstbestand",
   "description":"Leer meer over het GXT-formaat en API's waarmee GXT-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "GXT",
+"linktitle": "GXT",
   "menu": {
     "docs": {
       "identifier": "settings-gxt",
-"parent":"instellingen"
+"parent" : "settings"
 }
 },
 "laatste mod": "21-03-2023"

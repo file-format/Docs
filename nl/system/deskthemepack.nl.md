@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "system-deskthemepack",
-"parent":"systeem"
+"parent" : "system"
 }
 },
 "laatste mod": "2023-03-09"

@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "game-ddt",
-"parent":"spel"
+"parent" : "game"
 }
 },
 "laatste mod": "2023-05-16"

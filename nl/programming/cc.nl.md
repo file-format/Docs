@@ -16,11 +16,11 @@
 "toc": true,
 "title":"CC-bestandsindeling - C++ broncodebestand",
   "description":"Leer meer over het CC-formaat en API's waarmee CC-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "CC",
+"linktitle": "CC",
   "menu": {
     "docs": {
       "identifier": "programming-cc",
-"parent":"programmeren"
+"parent" : "programming"
 }
 },
 "laatste mod": "08-05-2023"

@@ -14,11 +14,11 @@
 "toc": true,
 "title":"CRYPT12 Bestandsformaat - WhatsApp gecodeerd databasebestand",
   "description":"Leer meer over het CRYPT12-formaat en API's die CRYPT12-bestanden kunnen maken en openen.",
-"linktitel": "CRYPT12",
+"linktitle": "CRYPT12",
   "menu": {
     "docs": {
       "identifier": "database-crypt12",
-"parent":"database"
+"parent" : "database"
 }
 },
 "laatste mod": "2023-03-14"

@@ -18,11 +18,11 @@
 "toc": true,
 "title":"DV-bestandsindeling - Digitaal videobestand",
   "description":"Leer meer over het DV-formaat en API's waarmee DV-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "DV",
+"linktitle": "DV",
   "menu": {
     "docs": {
       "identifier": "video-dv",
-"parent":"video"
+"parent" : "video"
 }
 },
 "laatste mod": "2023-05-31"

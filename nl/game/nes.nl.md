@@ -16,11 +16,11 @@
 "toc": true,
 "title":"NES-bestandsindeling - Nintendo Entertainment System ROM-bestand",
   "description":"Leer meer over het NES-formaat en API's waarmee NES-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "NES",
+"linktitle": "NES",
   "menu": {
     "docs": {
       "identifier": "game-nes",
-"parent":"spel"
+"parent" : "game"
 }
 },
 "laatste mod": "29-05-2023"

@@ -16,11 +16,11 @@
 "toc":true,
 "title":"CAT-bestandsindeling - Windows-catalogusbestand",
    "description":"Leer meer over het CAT-formaat en API's die CAT-bestanden kunnen maken en openen.",
-"linktitle":" KAT",
+"linktitle":"KAT",
    "menu":{
       "docs":{
          "identifier":"system-cat",
-"parent":"systeem"
+"parent" : "system"
 }
 },
 "lastmod":"2023-07-06"

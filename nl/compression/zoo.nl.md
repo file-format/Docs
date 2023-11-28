@@ -17,11 +17,11 @@
 "toc":true,
 "title":"ZOO-bestand - Wat is een .zoo-bestand en hoe opent u het?",
    "description":"Leer meer over de ZOO gecomprimeerde bestandsindeling en API's waarmee ZOO-bestanden kunnen worden gemaakt en geopend.",
-"linktitle":" Dierentuin",
+"linktitle":"ZOO",
    "menu":{
       "docs":{
          "identifier":"compression-zoo",
-"parent":" compressie"
+"parent" : "compression"
 }
 },
 "lastmod":"2023-11-09"

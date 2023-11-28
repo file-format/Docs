@@ -16,11 +16,11 @@
 "toc": true,
 "title":"EPK-bestandsindeling - Eaglercraft Asset-pakket",
   "description":"Leer meer over het EPK-formaat en API's waarmee EPK-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "EPK",
+"linktitle": "EPK",
   "menu": {
     "docs": {
       "identifier": "game-epk",
-"parent":"spel"
+"parent" : "game"
 }
 },
 "laatste mod": "2023-04-18"

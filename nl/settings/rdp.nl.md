@@ -16,11 +16,11 @@
 "toc": true,
 "title":"RDP-bestandsindeling - Extern bureaublad-configuratiebestand",
   "description":"Leer meer over het RDP-formaat en API's waarmee RDP-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "RDP",
+"linktitle": "RDP",
   "menu": {
     "docs": {
       "identifier": "settings-rdp",
-"parent":"instellingen"
+"parent" : "settings"
 }
 },
 "laatste mod": "2023-05-02"

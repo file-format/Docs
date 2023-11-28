@@ -18,11 +18,11 @@
 "toc": true,
 "title":"OGV-bestandsindeling - Ogg-videobestand",
   "description":"Leer meer over het OGV-formaat en API's waarmee OGV-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "OGV",
+"linktitle": "OGV",
   "menu": {
     "docs": {
       "identifier": "video-ogv",
-"parent":"video"
+"parent" : "video"
 }
 },
 "laatste mod": "2023-06-07"

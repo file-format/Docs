@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-isn",
-"parent":"diversen"
+"parent" : "misc"
 }
 },
 "laatste mod": "20-04-2023"

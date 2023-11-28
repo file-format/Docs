@@ -14,11 +14,11 @@
 "toc": true,
 "title":"OSS-bestandsindeling - Microsoft Outlook opgeslagen zoekbestand",
   "description":"Leer meer over het OSS-formaat en API's waarmee OSS-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "OSS",
+"linktitle": "OSS",
   "menu": {
     "docs": {
       "identifier": "settings-oss",
-"parent":"instellingen"
+"parent" : "settings"
 }
 },
 "laatste mod": "28-03-2023"

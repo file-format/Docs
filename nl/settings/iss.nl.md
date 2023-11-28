@@ -15,11 +15,11 @@
 "toc": true,
 "title":"ISS-bestandsindeling - Inno-installatiescript",
   "description":"Leer meer over het ISS-formaat en API's waarmee ISS-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "ISS",
+"linktitle": "ISS",
   "menu": {
     "docs": {
       "identifier": "settings-iss",
-"parent":"instellingen"
+"parent" : "settings"
 }
 },
 "laatste mod": "28-03-2023"

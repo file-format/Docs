@@ -15,11 +15,11 @@
 "toc": true,
 "title":"C4D-bestandsindeling - Cinema 4D-modelbestand",
   "description":"Leer meer over het C4D-formaat en API's waarmee C4D-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "C4D",
+"linktitle": "C4D",
   "menu": {
     "docs": {
       "identifier": "3d-c4d",
-"parent":"3d"
+"parent" : "3d"
 }
 },
 "laatste mod": "27-04-2023"

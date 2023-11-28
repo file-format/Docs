@@ -17,11 +17,11 @@
 "toc": true,
 "title":"IPS-bestandsindeling - iOS Analytics-gegevens",
   "description":"Leer meer over het IPS-formaat en API's waarmee IPS-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "IPS",
+"linktitle": "IPS",
   "menu": {
     "docs": {
       "identifier": "misc-ips",
-"parent":"diversen"
+"parent" : "misc"
 }
 },
 "laatste mod": "21-09-2023"

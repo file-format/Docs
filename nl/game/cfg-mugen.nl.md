@@ -17,11 +17,11 @@
 "toc": true,
 "title":"CFG-bestandsindeling - MUGEN-configuratiebestand",
   "description":"Meer informatie over het CFG MUGEN-configuratiebestandsformaat en API's waarmee CFG-bestanden kunnen worden gemaakt en geopend.",
-"linktitle":"CFG MUGEN",
+"linktitle":"CFG M.U.G.E.N",
   "menu": {
     "docs": {
       "identifier": "game-cfg-mugen",
-"parent":"spel"
+"parent" : "game"
 }
 },
 "laatste mod": "27-09-2023"

@@ -17,11 +17,11 @@
 "toc":true,
 "title":"SHADER-bestandsindeling - Quake 3 Engine Shader-bestand",
    "description":"Leer meer over het SHADER Quake 3 Engine Shader-bestandsformaat en API's die SHADER-bestanden kunnen maken en openen.",
-"linktitle":" SHADER Aardbeving",
+"linktitle":"SHADER Quake",
    "menu":{
       "docs":{
          "identifier":"game-shader-quake",
-"parent":"spel"
+"parent" : "game"
 }
 },
 "lastmod":"2023-10-11"

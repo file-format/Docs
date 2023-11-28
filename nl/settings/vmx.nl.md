@@ -18,11 +18,11 @@
 "toc": true,
 "title":"VMX-bestandsindeling - Configuratiebestand voor virtuele VMware-machines",
   "description":"Leer meer over het VMX-formaat en API's die VMX-bestanden kunnen maken en openen.",
-"linktitel": "VMX",
+"linktitle": "VMX",
   "menu": {
     "docs": {
       "identifier": "settings-vmx",
-"parent":"instellingen"
+"parent" : "settings"
 }
 },
 "laatste mod": "2023-06-08"

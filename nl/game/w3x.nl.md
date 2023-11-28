@@ -18,11 +18,11 @@
 "toc": true,
 "title":"W3X-bestandsindeling - Warcraft 3 uitbreidingskaartbestand",
   "description":"Leer meer over het W3X-formaat en API's die W3X-bestanden kunnen maken en openen.",
-"linktitel": "W3X",
+"linktitle": "W3X",
   "menu": {
     "docs": {
       "identifier": "game-w3x",
-"parent":"spel"
+"parent" : "game"
 }
 },
 "laatste mod": "2023-04-13"

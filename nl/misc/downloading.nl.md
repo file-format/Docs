@@ -15,11 +15,11 @@
 "toc": true,
 "title":"Bestandsformaat downloaden - Pando onvolledig downloadbestand",
   "description":"Meer informatie over het DOWNLOADING-formaat en API's waarmee DOWNLOADING-bestanden kunnen worden gemaakt en geopend.",
-"linktitle":"DOWNLOADEN",
+"linktitle":"DOWNLOADING",
   "menu": {
     "docs": {
       "identifier": "misc-downloading",
-"parent":"diversen"
+"parent" : "misc"
 }
 },
 "laatste mod": "2023-04-18"

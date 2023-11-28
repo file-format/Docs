@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-jet",
-"parent":"instellingen"
+"parent" : "settings"
 }
 },
 "laatste mod": "05-09-2023"

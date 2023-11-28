@@ -15,11 +15,11 @@
 "toc": true,
 "title":"TTR-bestandsindeling - TETR.IO opnieuw afspelen",
   "description":"Leer meer over het TTR-formaat en API's waarmee TTR-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "TTR",
+"linktitle": "TTR",
   "menu": {
     "docs": {
       "identifier": "game-ttr",
-"parent":"spel"
+"parent" : "game"
 }
 },
 "laatste mod": "2023-04-04"

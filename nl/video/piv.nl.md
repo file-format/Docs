@@ -15,11 +15,11 @@
 "toc": true,
 "title":"PIV-bestandsindeling - Pivot Animator-animatie",
   "description":"Leer meer over het PIV-bestandsformaat en API's die PIV-bestanden kunnen maken en openen.",
-"linktitel": "PIV",
+"linktitle": "PIV",
   "menu": {
     "docs": {
       "identifier": "video-piv",
-"parent":"video"
+"parent" : "video"
 }
 },
 "laatste mod": "2023-02-06"

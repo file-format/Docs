@@ -17,11 +17,11 @@
 "toc": true,
 "title":"WPS-bestandsindeling - SDL Translator's Workbench-projectbestand",
   "description":"Leer meer over het WPS-formaat en API's die WPS-bestanden kunnen maken en openen.",
-"linktitel": "WPS",
+"linktitle": "WPS",
   "menu": {
     "docs": {
       "identifier": "settings-wps",
-"parent":"instellingen"
+"parent" : "settings"
 }
 },
 "laatste mod": "21-09-2023"

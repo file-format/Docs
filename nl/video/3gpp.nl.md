@@ -17,11 +17,11 @@
 "toc": true,
 "title":"3GPP-bestandsindeling - 3GPP-mediabestand",
   "description":"Leer meer over het 3GPP-formaat en API's die 3GPP-bestanden kunnen maken en openen.",
-"linktitel": "3GPP",
+"linktitle": "3GPP",
   "menu": {
     "docs": {
       "identifier": "video-3gpp",
-"parent":"video"
+"parent" : "video"
 }
 },
 "laatste mod": "30-05-2023"

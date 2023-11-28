@@ -15,11 +15,11 @@
 "toc": true,
 "title":"BIN-bestandsindeling - Sega Genesis Game ROM",
   "description":"Leer meer over het BIN-formaat en API's waarmee BIN-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "BIN",
+"linktitle": "BIN",
   "menu": {
     "docs": {
       "identifier": "game-bin",
-"parent":"spel"
+"parent" : "game"
 }
 },
 "laatste mod": "2023-03-16"

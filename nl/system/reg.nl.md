@@ -14,11 +14,11 @@
 "toc": true,
 "title":"REG-bestandsindeling - Windows-registerbestand",
   "description":"Leer meer over REG-indeling en API's waarmee REG-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "REG",
+"linktitle": "REG",
   "menu": {
     "docs": {
       "identifier": "system-reg",
-"parent":"systeem"
+"parent" : "system"
 }
 },
 "laatste mod": "2023-03-07"

@@ -18,11 +18,11 @@
 "toc": true,
 "title":"DESKTOP-bestandsindeling - Desktop-invoerbestand",
   "description":"Leer meer over DESKTOP-indeling en API's waarmee DESKTOP-bestanden kunnen worden gemaakt en geopend.",
-"linktitle":"Bureaublad",
+"linktitle":"DESKTOP",
   "menu": {
     "docs": {
       "identifier": "settings-desktop",
-"parent":"instellingen"
+"parent" : "settings"
 }
 },
 "laatste mod": "2023-05-31"

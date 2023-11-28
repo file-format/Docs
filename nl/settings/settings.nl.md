@@ -14,11 +14,11 @@
 "toc": true,
 "title":"INSTELLINGEN Bestandsformaat - Visual Studio Instellingenbestand",
   "description":"Leer meer over het SETTINGS-formaat en API's die SETTINGS-bestanden kunnen maken en openen.",
-"linktitle":"INSTELLINGEN",
+"linktitle":"SETTINGS",
   "menu": {
     "docs": {
       "identifier": "settings-settings",
-"parent":"instellingen"
+"parent" : "settings"
 }
 },
 "laatste mod": "29-03-2023"

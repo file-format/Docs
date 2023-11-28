@@ -17,11 +17,11 @@
 "toc":true,
 "title":"PRT-bestand - Presentatiesjabloon - Wat is een .prt-bestand en hoe open ik het?",
    "description":"Meer informatie over de PRT Presentations Template-bestandsindeling en API's waarmee PRT-bestanden kunnen worden gemaakt en geopend.",
-"linktitle":"PRRT",
+"linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"data-prt-template",
-"parent":"gegevens"
+"parent" : "data"
 }
 },
 "lastmod":"2023-10-18"

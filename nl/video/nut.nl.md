@@ -15,11 +15,11 @@
 "toc": true,
 "title":"NUT-bestandsindeling - NUT-videobestand",
   "description":"Leer meer over het NUT-formaat en API's die NUT-bestanden kunnen maken en openen.",
-"linktitle":"MOER",
+"linktitle":"NUT",
   "menu": {
     "docs": {
       "identifier": "video-nut",
-"parent":"video"
+"parent" : "video"
 }
 },
 "laatste mod": "2023-07-13"

@@ -15,11 +15,11 @@
 "toc": true,
 "title":"SQX-bestandsindeling - SQX-archief",
   "description":"Leer meer over het SQX-formaat en API's waarmee SQX-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "SQX",
+"linktitle": "SQX",
   "menu": {
     "docs": {
       "identifier": "compression-sqx",
-"parent":"compressie"
+"parent" : "compression"
 }
 },
 "laatste mod": "22-05-2023"

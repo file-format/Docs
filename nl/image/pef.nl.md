@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "image-pef",
-"parent":"afbeelding"
+"parent" : "image"
 }
 },
 "laatste mod": "29-05-2023"

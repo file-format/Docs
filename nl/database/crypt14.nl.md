@@ -14,11 +14,11 @@
 "toc": true,
 "title":"CRYPT14 Bestandsformaat - WhatsApp gecodeerd databasebestand",
   "description":"Leer meer over het CRYPT14-formaat en API's die CRYPT14-bestanden kunnen maken en openen.",
-"linktitel": "CRYPT14",
+"linktitle": "CRYPT14",
   "menu": {
     "docs": {
       "identifier": "database-crypt14",
-"parent":"database"
+"parent" : "database"
 }
 },
 "laatste mod": "2023-03-14"

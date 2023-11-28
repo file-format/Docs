@@ -16,11 +16,11 @@
 "toc": true,
 "title":"CSX-bestandsindeling - visueel C#-script",
   "description":"Leer meer over het CSX-formaat en API's waarmee CSX-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "CSX",
+"linktitle": "CSX",
   "menu": {
     "docs": {
       "identifier": "programming-csx",
-"parent":"programmeren"
+"parent" : "programming"
 }
 },
 "laatste mod": "2023-05-15"

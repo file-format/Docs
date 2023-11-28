@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-pkpass",
-"parent":"diversen"
+"parent" : "misc"
 }
 },
 "laatste mod": "2023-04-06"

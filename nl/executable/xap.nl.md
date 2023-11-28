@@ -15,11 +15,11 @@
 "toc": true,
   "description":"Leer meer over het XAP-bestandsformaat en API's die XAP-bestanden kunnen maken en openen.",
 "title":"XAP-bestandsindeling - Silverlight-toepassingspakket",
-"linktitel": "XAP",
+"linktitle": "XAP",
   "menu": {
     "docs": {
       "identifier": "executable-xap",
-"parent":"uitvoerbaar"
+"parent" : "executable"
 }
 },
 "laatste mod": "2023-02-01"

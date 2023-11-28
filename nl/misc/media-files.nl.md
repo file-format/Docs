@@ -15,11 +15,11 @@
 "toc": true,
 "title":"Wat zijn mediabestanden? Typen, formaten en hun impact op digitale communicatie",
   "description":"Leer meer over mediabestanden, hun typen, formaten en impact op digitale communicatie.",
-"linktitle":"MEDIABESTANDEN",
+"linktitle":"MEDIA FILES",
   "menu": {
     "docs": {
       "identifier": "misc-media-files",
-"parent":"diversen"
+"parent" : "misc"
 }
 },
 "laatste mod": "2023-06-19"

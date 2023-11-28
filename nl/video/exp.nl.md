@@ -15,11 +15,11 @@
 "toc": true,
 "title":"EXP-bestandsindeling - DX-serie geëxporteerd videobestand",
   "description":"Leer meer over het EXP-formaat en API's die EXP-bestanden kunnen maken en openen.",
-"linktitel": "EXP",
+"linktitle": "EXP",
   "menu": {
     "docs": {
       "identifier": "video-exp",
-"parent":"video"
+"parent" : "video"
 }
 },
 "laatste mod": "2023-07-13"

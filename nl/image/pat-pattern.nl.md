@@ -17,11 +17,11 @@
 "toc":true,
 "title":"PAT-bestandsindeling - Patroonbestand",
    "description":"Leer meer over het PAT Pattern-bestandsformaat en API's die PAT-bestanden kunnen maken en openen.",
-"linktitle":" PAT-patroon",
+"linktitle":"PAT Pattern",
    "menu":{
       "docs":{
          "identifier":"image-pat-pattern",
-"parent":"afbeelding"
+"parent" : "image"
 }
 },
 "lastmod":"2023-11-01"

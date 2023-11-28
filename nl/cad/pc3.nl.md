@@ -17,11 +17,11 @@
 "toc": true,
 "title":"PC3-bestandsindeling - AutoCAD-plotterconfiguratiebestand",
   "description":"Leer meer over het PC3-formaat en API's waarmee PC3-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "PC3",
+"linktitle": "PC3",
   "menu": {
     "docs": {
       "identifier": "cad-pc3",
-"parent":"cad"
+"parent" : "cad"
 }
 },
 "laatste mod": "09-05-2023"

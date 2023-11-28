@@ -15,11 +15,11 @@
 "toc": true,
 "title":"MUI-bestandsindeling - Bestand met talloze gebruikersinstrumenten",
   "description":"Leer meer over het MUI-bestandsformaat en API's die MUI-bestanden kunnen maken en openen.",
-"linktitel": "MUI",
+"linktitle": "MUI",
   "menu": {
     "docs": {
       "identifier": "audio-mui",
-"parent":"audio"
+"parent" : "audio"
 }
 },
 "laatste mod": "2023-02-14"

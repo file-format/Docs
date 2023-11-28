@@ -15,11 +15,11 @@
 "toc": true,
 "title":"RIP-bestandsindeling - Hit'n'Mix Audio Mashup-bestand",
   "description":"Leer meer over de RIP-bestandsindeling en API's waarmee RIP-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "RIP",
+"linktitle": "RIP",
   "menu": {
     "docs": {
       "identifier": "audio-rip",
-"parent":"audio"
+"parent" : "audio"
 }
 },
 "laatste mod": "2023-02-16"

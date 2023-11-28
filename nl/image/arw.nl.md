@@ -17,11 +17,11 @@
 "toc": true,
 "title":"ARW-bestandsindeling - Sony Alpha Raw digitale cameraafbeelding",
   "description":"Leer meer over het ARW-formaat en API's die ARW-bestanden kunnen maken en openen.",
-"linktitel": "ARW",
+"linktitle": "ARW",
   "menu": {
     "docs": {
       "identifier": "image-arw",
-"parent":"afbeelding"
+"parent" : "image"
 }
 },
 "laatste mod": "2023-06-15"

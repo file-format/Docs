@@ -15,11 +15,11 @@
 "toc": true,
 "title":"BDC-bestandsindeling - West Point Bridge Designer-ontwerpbestand",
   "description":"Leer meer over de BDC-bestandsindeling en API's die BDC-bestanden kunnen maken en openen.",
-"linktitel": "BDC",
+"linktitle": "BDC",
   "menu": {
     "docs": {
       "identifier": "cad-bdc",
-"parent":"cad"
+"parent" : "cad"
 }
 },
 "laatste mod": "21-02-2023"

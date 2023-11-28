@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-cfg-cal3d",
-"parent":"diversen"
+"parent" : "misc"
 }
 },
 "laatste mod": "27-09-2023"

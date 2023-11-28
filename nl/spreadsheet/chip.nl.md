@@ -15,11 +15,11 @@
 "toc": true,
 "title":"CHIP-bestandsindeling - Microarray-annotatiebestand",
   "description":"Leer meer over CHIP-bestandsindelingen en API's waarmee CHIP-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "CHIP",
+"linktitle": "CHIP",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-chip",
-"parent":"spreadsheet"
+"parent" : "spreadsheet"
 }
 },
 "laatste mod": "01-03-2023"

@@ -18,11 +18,11 @@
 "toc": true,
 "title":"FPT-bestandsindeling - Alpha Five Table Memo-bestand",
   "description":"Leer meer over het FPT Alpha Five-formaat en API's waarmee FPT-bestanden kunnen worden gemaakt en geopend.",
-"linktitle":"FPT Alfa Vijf",
+"linktitle":"FPT Alpha Five",
   "menu": {
     "docs": {
       "identifier": "database-fpt-alphafive",
-"parent":"database"
+"parent" : "database"
 }
 },
 "laatste mod": "27-04-2023"

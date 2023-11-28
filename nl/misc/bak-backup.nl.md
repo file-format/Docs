@@ -17,11 +17,11 @@
 "toc": true,
 "title":"BAK Bestandsformaat - Back-upbestand",
   "description":"Leer meer over het BAK Backup-formaat en API's waarmee BAK-bestanden kunnen worden gemaakt en geopend.",
-"linktitle":"BAK-back-up",
+"linktitle":"BAK Backup",
   "menu": {
     "docs": {
       "identifier": "misc-bak-backup",
-"parent":"diversen"
+"parent" : "misc"
 }
 },
 "laatste mod": "2023-06-12"

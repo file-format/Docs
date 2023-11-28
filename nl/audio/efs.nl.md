@@ -15,11 +15,11 @@
 "toc": true,
 "title":"EFS Bestandsformaat - Ensoniq SQ-80 Bestand",
   "description":"Leer meer over de EFS-bestandsindeling en API's die EFS-bestanden kunnen maken en openen.",
-"linktitel": "EFS",
+"linktitle": "EFS",
   "menu": {
     "docs": {
       "identifier": "audio-efs",
-"parent":"audio"
+"parent" : "audio"
 }
 },
 "laatste mod": "2023-02-16"

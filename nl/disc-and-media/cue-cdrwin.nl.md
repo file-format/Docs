@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"disc-and-media-cue-cdrwin",
-"parent":" schijf-en-media"
+"parent" : "disc-and-media"
 }
 },
 "lastmod":"2023-10-18"

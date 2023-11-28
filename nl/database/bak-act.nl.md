@@ -17,11 +17,11 @@
 "toc": true,
 "title":"BAK-bestandsindeling - Act! Databaseback-up",
   "description":"Leer meer over BAK Act! Back-upformaat en API's waarmee BAK-bestanden kunnen worden gemaakt en geopend.",
-"linktitle":"BAK ACT Back-up",
+"linktitle":"BAK ACT Backup",
   "menu": {
     "docs": {
       "identifier": "database-bak-act",
-"parent":"database"
+"parent" : "database"
 }
 },
 "laatste mod": "2023-06-12"

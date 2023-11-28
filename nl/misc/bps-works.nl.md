@@ -17,11 +17,11 @@
 "toc": true,
 "title":"BPS-bestandsindeling - Back-up van Microsoft Works-documenten",
   "description":"Leer meer over het BPS Works-formaat en API's waarmee BPS-bestanden kunnen worden gemaakt en geopend.",
-"linktitle":"BPS werkt",
+"linktitle":"BPS Works",
   "menu": {
     "docs": {
       "identifier": "misc-bps-works",
-"parent":"diversen"
+"parent" : "misc"
 }
 },
 "laatste mod": "21-09-2023"

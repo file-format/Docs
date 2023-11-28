@@ -15,11 +15,11 @@
 "toc": true,
 "title":"SF2 Bestandsformaat - SoundFont 2 Geluidsbank",
   "description":"Leer meer over de SF2-bestandsindeling en API's die SF2-bestanden kunnen maken en openen.",
-"linktitel": "SF2",
+"linktitle": "SF2",
   "menu": {
     "docs": {
       "identifier": "audio-sf2",
-"parent":"audio"
+"parent" : "audio"
 }
 },
 "laatste mod": "2023-02-14"

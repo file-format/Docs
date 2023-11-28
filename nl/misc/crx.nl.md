@@ -18,11 +18,11 @@
 "toc": true,
 "title":"CRX-bestandsindeling - Google Chrome-extensie",
   "description":"Leer meer over het CRX-formaat en API's waarmee CRX-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "CRX",
+"linktitle": "CRX",
   "menu": {
     "docs": {
       "identifier": "misc-crx",
-"parent":"diversen"
+"parent" : "misc"
 }
 },
 "laatste mod": "2023-06-08"

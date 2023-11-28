@@ -15,11 +15,11 @@
 "toc": true,
 "title":"SET Bestandsformaat - Documentbibliotheek Eigenschappen Set Bestand",
   "description":"Leer meer over het SET-formaat en API's die SET-bestanden kunnen maken en openen.",
-"linktitel": "SET",
+"linktitle": "SET",
   "menu": {
     "docs": {
       "identifier": "settings-set",
-"parent":"instellingen"
+"parent" : "settings"
 }
 },
 "laatste mod": "21-03-2023"

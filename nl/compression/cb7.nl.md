@@ -17,11 +17,11 @@
 "toc": true,
 "title":"CB7 Bestandsformaat - Stripboek 7-Zip Archief",
   "description":"Leer meer over het CB7-formaat en API's waarmee CB7-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "CB7",
+"linktitle": "CB7",
   "menu": {
     "docs": {
       "identifier": "compression-cb7",
-"parent":"compressie"
+"parent" : "compression"
 }
 },
 "laatste mod": "24-05-2023"

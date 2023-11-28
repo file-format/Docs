@@ -17,11 +17,11 @@
 "toc": true,
 "title":"BAK-bestandsindeling - Back-up van Chromium-bladwijzers",
   "description":"Leer meer over het BAK Chromium Bookmarks-formaat en API's waarmee BAK-bestanden kunnen worden gemaakt en geopend.",
-"linktitle":"BAK Chromium-bladwijzers",
+"linktitle":"BAK Chromium Bookmarks",
   "menu": {
     "docs": {
       "identifier": "misc-bak-chromium",
-"parent":"diversen"
+"parent" : "misc"
 }
 },
 "laatste mod": "2023-06-12"

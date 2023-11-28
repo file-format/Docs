@@ -12,11 +12,11 @@
 "toc": true,
 "title":"Tekstformaten, typen en veelgestelde vragen",
   "description":"Meer informatie over tekstformaten, soorten tekstformaten, lijst met tekstformaten en veelgestelde vragen",
-"linktitle":"TEKSTFORMATEN",
+"linktitle":"TEXT FORMATS",
   "menu": {
     "docs": {
       "identifier": "misc-text-formats",
-"parent":"diversen"
+"parent" : "misc"
 }
 },
 "laatste mod": "2023-07-06"

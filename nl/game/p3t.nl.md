@@ -16,11 +16,11 @@
 "toc": true,
 "title":"P3T-bestandsindeling - PlayStation 3-themabestand",
   "description":"Leer meer over het P3T-formaat en API's waarmee P3T-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "P3T",
+"linktitle": "P3T",
   "menu": {
     "docs": {
       "identifier": "game-p3t",
-"parent":"spel"
+"parent" : "game"
 }
 },
 "laatste mod": "2023-05-04"

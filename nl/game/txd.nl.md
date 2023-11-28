@@ -15,11 +15,11 @@
 "toc": true,
 "title":"TXD-bestandsindeling - Speltextuurwoordenboek",
   "description":"Leer meer over het TXD-formaat en API's die TXD-bestanden kunnen maken en openen.",
-"linktitel": "TXD",
+"linktitle": "TXD",
   "menu": {
     "docs": {
       "identifier": "game-txd",
-"parent":"spel"
+"parent" : "game"
 }
 },
 "laatste mod": "03-05-2023"

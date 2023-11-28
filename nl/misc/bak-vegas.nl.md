@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-bak-vegas",
-"parent":"diversen"
+"parent" : "misc"
 }
 },
 "laatste mod": "2023-06-12"

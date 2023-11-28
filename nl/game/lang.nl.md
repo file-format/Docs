@@ -15,11 +15,11 @@
 "toc": true,
 "title":"LANG-bestandsindeling - Minecraft-taallokalisatiebestand",
   "description":"Leer meer over het LANG-formaat en API's waarmee LANG-bestanden kunnen worden gemaakt en geopend.",
-"linktitel": "LANG",
+"linktitle": "LANG",
   "menu": {
     "docs": {
       "identifier": "game-lang",
-"parent":"spel"
+"parent" : "game"
 }
 },
 "laatste mod": "2023-03-15"

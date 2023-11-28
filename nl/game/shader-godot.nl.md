@@ -17,11 +17,11 @@
 "toc":true,
 "title":"SHADER-bestandsindeling - Godot Engine Shader-bestand",
    "description":"Leer meer over de SHADER Godot Engine Shader-bestandsindeling en API's die SHADER-bestanden kunnen maken en openen.",
-"linktitle":" SCHADER Godot",
+"linktitle":"SCHADER Godot",
    "menu":{
       "docs":{
          "identifier":"game-shader-godot",
-"parent":"spel"
+"parent" : "game"
 }
 },
 "lastmod":"2023-10-11"
