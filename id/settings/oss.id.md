@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-oss",
-"parent": "pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir": "28-03-2023"

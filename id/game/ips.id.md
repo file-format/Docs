@@ -17,11 +17,11 @@
 "toc":true,
 "title":"Format File IPS - File Patch Sistem Patching Internal",
    "description":"Pelajari tentang format IPS dan API yang dapat membuat dan membuka file IPS.",
-"judul tautan":"IPS",
+"linktitle":"IPS",
    "menu":{
       "docs":{
          "identifier":"game-ips",
-"parent":"permainan"
+"parent" : "game"
 }
 },
 "mod terakhir":"21-09-2023"

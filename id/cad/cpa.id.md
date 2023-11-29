@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Format File CPA - File Arsip PCB CADSTAR",
   "description":"Pelajari tentang format file CPA dan API yang dapat membuat dan membuka file CPA.",
-"judul tautan": "BPA",
+"linktitle": "CPA",
   "menu": {
     "docs": {
       "identifier": "cad-cpa",
-"parent": "cad"
+"parent" : "cad"
 }
 },
 "mod terakhir": "22-02-2023"

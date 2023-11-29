@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-obi",
-"parent": "pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir": "02-05-2023"

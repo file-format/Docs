@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "game-cfg-wesnoth",
-"parent": "permainan"
+"parent" : "game"
 }
 },
 "mod terakhir": "27-09-2023"

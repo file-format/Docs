@@ -17,11 +17,11 @@
 "toc":true,
 "title":"File ZOO - Apa itu file .zoo dan bagaimana cara membukanya?",
    "description":"Pelajari tentang format file terkompresi ZOO dan API yang dapat membuat dan membuka file ZOO.",
-"linktitle":"Kebun Binatang",
+"linktitle":"ZOO",
    "menu":{
       "docs":{
          "identifier":"compression-zoo",
-"parent":"kompresi"
+"parent" : "compression"
 }
 },
 "mod terakhir":"09-11-2023"

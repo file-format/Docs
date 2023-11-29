@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "game-litemod",
-"parent": "permainan"
+"parent" : "game"
 }
 },
 "mod terakhir": "15-03-2023"

@@ -18,11 +18,11 @@
 "toc": true,
 "title": "Format File W3X - File Peta Ekspansi Warcraft 3",
   "description":"Pelajari tentang format W3X dan API yang dapat membuat dan membuka file W3X.",
-"judul tautan": "W3X",
+"linktitle": "W3X",
   "menu": {
     "docs": {
       "identifier": "game-w3x",
-"parent": "permainan"
+"parent" : "game"
 }
 },
 "mod terakhir": "13-04-2023"

@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"game-ips-ps2",
-"parent":"permainan"
+"parent" : "game"
 }
 },
 "mod terakhir":"21-09-2023"

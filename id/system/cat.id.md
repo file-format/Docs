@@ -16,11 +16,11 @@
 "toc": true,
 "title":"Format File CAT - File Katalog Windows",
    "description":"Pelajari tentang format CAT dan API yang dapat membuat dan membuka file CAT.",
-"linktitle":"KUcing",
+"linktitle":"CAT",
    "menu":{
       "docs":{
          "identifier":"system-cat",
-"parent":"sistem"
+"parent" : "system"
 }
 },
 "mod terakhir":"06-07-2023"

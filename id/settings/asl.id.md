@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-asl",
-"parent": "pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir": "28-04-2023"

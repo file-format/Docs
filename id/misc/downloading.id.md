@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Format File UNDUHAN - File Download Pando Tidak Lengkap",
   "description":"Pelajari tentang format UNDUH dan API yang dapat membuat dan membuka file UNDUH.",
-"linktitle": "UNDUH",
+"linktitle": "DOWNLOADING",
   "menu": {
     "docs": {
       "identifier": "misc-downloading",
-"parent": "lain-lain"
+"parent" : "misc"
 }
 },
 "mod terakhir": "18-04-2023"

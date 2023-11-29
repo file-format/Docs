@@ -22,7 +22,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-desktop",
-"parent": "pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir": "31-05-2023"

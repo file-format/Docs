@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"data-vce",
-"parent":"data"
+"parent" : "data"
 }
 },
 "mod terakhir":"09-11-2023"

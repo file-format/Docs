@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Format File C4D - File Model Bioskop 4D",
   "description":"Pelajari tentang format C4D dan API yang dapat membuat dan membuka file C4D.",
-"judul tautan": "C4D",
+"linktitle": "C4D",
   "menu": {
     "docs": {
       "identifier": "3d-c4d",
-"parent": "3d"
+"parent" : "3d"
 }
 },
 "mod terakhir": "27-04-2023"

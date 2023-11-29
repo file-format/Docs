@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "game-txd",
-"parent": "permainan"
+"parent" : "game"
 }
 },
 "mod terakhir": "03-05-2023"

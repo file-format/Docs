@@ -15,11 +15,11 @@
 "toc":true,
 "title":"Format File BIN - File Berkode MacBinary",
    "description":"Pelajari tentang format BIN dan API yang dapat membuat dan membuka file BIN.",
-"linktitle":"TEMPAT SAMPAH",
+"linktitle":"BIN",
    "menu":{
       "docs":{
          "identifier":"compression-bin",
-"parent":"kompresi"
+"parent" : "compression"
 }
 },
 "mod terakhir":"20-07-2023"

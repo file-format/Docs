@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Format File QPW - Spreadsheet Quattro Pro",
   "description":"Pelajari tentang format file QPW dan API yang dapat membuat dan membuka file QPW.",
-"judul tautan": "QPW",
+"linktitle": "QPW",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-qpw",
-"parent": "spreadsheet"
+"parent" : "spreadsheet"
 }
 },
 "mod terakhir": "28-02-2023"

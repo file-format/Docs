@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Format File MLT - Proyek Shotcut",
   "description":"Pelajari tentang format Proyek MLT Shotcut dan API yang dapat membuat dan membuka file MLT.",
-"judul tautan": "MLT",
+"linktitle": "MLT",
   "menu": {
     "docs": {
       "identifier": "settings-mlt",
-"parent": "pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir": "04-10-2023"

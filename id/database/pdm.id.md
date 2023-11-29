@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Format File PDM - File Basis Data PowerDesigner",
   "description":"Pelajari tentang format PDM dan API yang dapat membuat dan membuka file PDM.",
-"judul tautan": "PDM",
+"linktitle": "PDM",
   "menu": {
     "docs": {
       "identifier": "database-pdm",
-"parent": "database"
+"parent" : "database"
 }
 },
 "mod terakhir": "27-04-2023"

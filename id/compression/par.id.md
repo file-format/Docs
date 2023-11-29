@@ -20,7 +20,7 @@
    "menu":{
       "docs":{
          "identifier":"compression-par",
-"parent":"kompresi"
+"parent" : "compression"
 }
 },
 "mod terakhir":"18-07-2023"

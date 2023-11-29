@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Format File GXT - File Teks Grand Theft Auto",
   "description":"Pelajari tentang format GXT dan API yang dapat membuat dan membuka file GXT.",
-"judul tautan": "GXT",
+"linktitle": "GXT",
   "menu": {
     "docs": {
       "identifier": "settings-gxt",
-"parent": "pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir": "21-03-2023"

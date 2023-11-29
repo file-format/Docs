@@ -20,7 +20,7 @@
    "menu":{
       "docs":{
          "identifier":"game-bps",
-"parent":"permainan"
+"parent" : "game"
 }
 },
 "mod terakhir":"21-09-2023"

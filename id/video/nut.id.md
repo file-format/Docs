@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "video-nut",
-"parent": "video"
+"parent" : "video"
 }
 },
 "mod terakhir": "13-07-2023"

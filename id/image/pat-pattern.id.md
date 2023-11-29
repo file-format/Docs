@@ -17,11 +17,11 @@
 "toc":true,
 "title":"Format File PAT - File Pola",
    "description":"Pelajari tentang format file Pola PAT dan API yang dapat membuat dan membuka file PAT.",
-"linktitle":"Pola PAT",
+"linktitle":"PAT Pattern",
    "menu":{
       "docs":{
          "identifier":"image-pat-pattern",
-"parent":"gambar"
+"parent" : "image"
 }
 },
 "mod terakhir":"01-11-2023"

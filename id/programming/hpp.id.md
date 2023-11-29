@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "programming-hpp",
-"parent": "pemrograman"
+"parent" : "programming"
 }
 },
 "mod terakhir": "08-06-2023"

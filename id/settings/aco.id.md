@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-aco",
-"parent": "pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir": "28-04-2023"

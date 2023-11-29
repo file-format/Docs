@@ -17,11 +17,11 @@
 "toc":true,
 "title":"Format File PRT - Bagian Parametrik Creo",
    "description":"Pelajari tentang format file Bagian Parametrik PRT Creo dan API yang dapat membuat dan membuka file PRT.",
-"judul tautan":"PRT",
+"linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"cad-prt-creo",
-"parent":"cad"
+"parent" : "cad"
 }
 },
 "mod terakhir":"18-10-2023"

@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-cfg-citrix",
-"parent": "pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir": "27-09-2023"

@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"game-ups",
-"parent":"permainan"
+"parent" : "game"
 }
 },
 "mod terakhir":"04-01-2023"

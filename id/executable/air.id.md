@@ -14,11 +14,11 @@
 "toc": true,
   "description":"Pelajari tentang format file AIR dan API yang dapat membuat dan membuka file AIR.",
 "title": "Format File AIR - File Paket Instalasi Adobe AIR",
-"linktitle": "UDARA",
+"linktitle": "AIR",
   "menu": {
     "docs": {
       "identifier": "executable-air",
-"parent": "dapat dieksekusi"
+"parent" : "executable"
 }
 },
 "mod terakhir": "01-02-2023"

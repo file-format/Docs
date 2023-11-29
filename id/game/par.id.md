@@ -19,7 +19,7 @@
    "menu":{
       "docs":{
          "identifier":"game-par",
-"parent":"permainan"
+"parent" : "game"
 }
 },
 "mod terakhir":"18-07-2023"

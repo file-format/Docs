@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "game-meta",
-"parent": "permainan"
+"parent" : "game"
 }
 },
 "mod terakhir": "21-06-2023"

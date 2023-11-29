@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-ovpn",
-"parent": "pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir": "21-03-2023"

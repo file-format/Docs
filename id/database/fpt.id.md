@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "database-fpt",
-"parent": "database"
+"parent" : "database"
 }
 },
 "mod terakhir": "05-09-2023"

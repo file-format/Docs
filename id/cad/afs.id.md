@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "cad-afs",
-"parent": "cad"
+"parent" : "cad"
 }
 },
 "mod terakhir": "23-02-2023"

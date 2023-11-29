@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Format File CC - File Kode Sumber C++",
   "description":"Pelajari tentang format CC dan API yang dapat membuat dan membuka file CC.",
-"judul tautan": "CC",
+"linktitle": "CC",
   "menu": {
     "docs": {
       "identifier": "programming-cc",
-"parent": "pemrograman"
+"parent" : "programming"
 }
 },
 "mod terakhir": "08-05-2023"

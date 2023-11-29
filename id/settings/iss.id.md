@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-iss",
-"parent": "pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir": "28-03-2023"

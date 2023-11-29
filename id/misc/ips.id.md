@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Format File IPS - Data Analisis iOS",
   "description":"Pelajari tentang format IPS dan API yang dapat membuat dan membuka file IPS.",
-"judul tautan": "IPS",
+"linktitle": "IPS",
   "menu": {
     "docs": {
       "identifier": "misc-ips",
-"parent": "lain-lain"
+"parent" : "misc"
 }
 },
 "mod terakhir": "21-09-2023"

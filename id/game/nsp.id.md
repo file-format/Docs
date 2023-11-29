@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Format File NSP - Paket Pengiriman Nintendo",
   "description":"Pelajari tentang format NSP dan API yang dapat membuat dan membuka file NSP.",
-"judul tautan": "NSP",
+"linktitle": "NSP",
   "menu": {
     "docs": {
       "identifier": "game-nsp",
-"parent": "permainan"
+"parent" : "game"
 }
 },
 "mod terakhir": "05-06-2023"

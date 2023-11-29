@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-rdp",
-"parent": "pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir": "02-05-2023"

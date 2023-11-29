@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Format File CNF - File Konfigurasi MySQL",
   "description":"Pelajari tentang format CNF dan API yang dapat membuat dan membuka file CNF.",
-"judul tautan": "CNF",
+"linktitle": "CNF",
   "menu": {
     "docs": {
       "identifier": "settings-cnf",
-"parent": "pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir": "22-03-2023"

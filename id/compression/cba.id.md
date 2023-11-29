@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "compression-cba",
-"parent": "kompresi"
+"parent" : "compression"
 }
 },
 "mod terakhir": "24-05-2023"

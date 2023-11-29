@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "image-raf",
-"parent": "gambar"
+"parent" : "image"
 }
 },
 "mod terakhir": "15-06-2023"

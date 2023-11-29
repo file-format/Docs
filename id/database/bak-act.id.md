@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Format File BAK - Bertindak! Pencadangan Basis Data",
   "description":"Pelajari tentang BAK Act! Format cadangan dan API yang dapat membuat dan membuka file BAK.",
-"linktitle": "BAK ACT Cadangan",
+"linktitle": "BAK ACT Backup",
   "menu": {
     "docs": {
       "identifier": "database-bak-act",
-"parent": "database"
+"parent" : "database"
 }
 },
 "mod terakhir": "12-06-2023"

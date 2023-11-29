@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "database-pdb",
-"parent": "database"
+"parent" : "database"
 }
 },
 "mod terakhir": "26-06-2023"

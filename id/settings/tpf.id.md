@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-tpf",
-"parent": "pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir": "29-03-2023"

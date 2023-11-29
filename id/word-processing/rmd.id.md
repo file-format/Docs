@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Format File RMD - File Penurunan Harga R",
   "description":"Pelajari tentang format RMD dan API yang dapat membuat dan membuka file RMD.",
-"judul tautan": "RMD",
+"linktitle": "RMD",
   "menu": {
     "docs": {
       "identifier": "word-processing-rmd",
-"parent": "pengolahan kata"
+"parent" : "word-processing"
 }
 },
 "mod terakhir": "22-06-2023"

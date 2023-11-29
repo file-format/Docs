@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "game-scworld",
-"parent": "permainan"
+"parent" : "game"
 }
 },
 "mod terakhir": "18-05-2023"

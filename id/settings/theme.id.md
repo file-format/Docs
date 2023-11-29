@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Format File TEMA - Microsoft Plus! Tema Desktop",
   "description":"Pelajari tentang format THEME dan API yang dapat membuat dan membuka file THEME.",
-"linktitle": "TEMA",
+"linktitle": "THEME",
   "menu": {
     "docs": {
       "identifier": "settings-theme",
-"parent": "pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir": "03-05-2023"

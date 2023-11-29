@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "video-lrv",
-"parent": "video"
+"parent" : "video"
 }
 },
 "mod terakhir": "21-06-2023"

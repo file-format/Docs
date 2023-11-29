@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Format File MCSTRUCTURE - File Struktur Minecraft",
   "description":"Pelajari tentang format MCSTRUCTURE dan API yang dapat membuat dan membuka file MCSTRUCTURE.",
-"linktitle": "STRUKTUR MC",
+"linktitle": "MCSTRUCTURE",
   "menu": {
     "docs": {
       "identifier": "game-mcstructure",
-"parent": "permainan"
+"parent" : "game"
 }
 },
 "mod terakhir": "05-04-2023"

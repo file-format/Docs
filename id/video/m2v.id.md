@@ -17,11 +17,11 @@
 "toc": true,
 "title":"Format File M2V - Video MPEG-2",
    "description":"Pelajari tentang format file Video M2V MPEG-2 dan API yang dapat membuat dan membuka file M2V.",
-"judul tautan":"M2V",
+"linktitle":"M2V",
    "menu":{
       "docs":{
          "identifier":"video-m2v",
-"parent":"video"
+"parent" : "video"
 }
 },
 "mod terakhir":"11-10-2023"

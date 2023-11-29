@@ -19,7 +19,7 @@
    "menu":{
       "docs":{
          "identifier":"video-par",
-"parent":"video"
+"parent" : "video"
 }
 },
 "mod terakhir":"18-07-2023"

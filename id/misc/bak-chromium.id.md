@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Format File BAK - Cadangan Bookmark Chromium",
   "description":"Pelajari tentang format BAK Chromium Bookmarks dan API yang dapat membuat dan membuka file BAK.",
-"linktitle": "Penanda BAK Kromium",
+"linktitle": "BAK Chromium Bookmarks",
   "menu": {
     "docs": {
       "identifier": "misc-bak-chromium",
-"parent": "lain-lain"
+"parent" : "misc"
 }
 },
 "mod terakhir": "12-06-2023"

@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "cad-iba",
-"parent": "cad"
+"parent" : "cad"
 }
 },
 "mod terakhir": "22-02-2023"

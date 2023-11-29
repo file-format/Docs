@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "game-epk",
-"parent": "permainan"
+"parent" : "game"
 }
 },
 "mod terakhir": "18-04-2023"

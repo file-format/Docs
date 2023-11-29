@@ -16,11 +16,11 @@
 "toc": true,
 "judul": "Format File MPEG - Video MPEG",
   "description":"Pelajari tentang format MPEG dan API yang dapat membuat dan membuka file MPEG.",
-"judul tautan": "MPEG",
+"linktitle": "MPEG",
   "menu": {
     "docs": {
       "identifier": "video-mpeg",
-"parent": "video"
+"parent" : "video"
 }
 },
 "mod terakhir": "12-07-2023"

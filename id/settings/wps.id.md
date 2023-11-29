@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Format File WPS - File Proyek Meja Kerja Penerjemah SDL",
   "description":"Pelajari tentang format WPS dan API yang dapat membuat dan membuka file WPS.",
-"judul tautan": "WPS",
+"linktitle": "WPS",
   "menu": {
     "docs": {
       "identifier": "settings-wps",
-"parent": "pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir": "21-09-2023"
