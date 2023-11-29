@@ -17,11 +17,11 @@
 "toc": true,
 "title": "बीएमएस फ़ाइल स्वरूप - क्विकबीएमएस स्क्रिप्ट",
   "description":"बीएमएस प्रारूप और एपीआई के बारे में जानें जो बीएमएस फाइलें बना और खोल सकते हैं।",
-"linktitle": "बीएमएस",
+"linktitle": "BMS",
   "menu": {
     "docs": {
       "identifier": "executable-bms",
-"पैरेंट": "निष्पादन योग्य"
+"parent" : "executable"
 }
 },
 "lastmod": "2023-05-08"

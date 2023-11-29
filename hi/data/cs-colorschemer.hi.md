@@ -17,11 +17,11 @@
 "toc": true,
 "title": "CS फ़ाइल - ColorSchemer स्टूडियो रंग योजना - .cs फ़ाइल क्या है और मैं इसे कैसे खोलूँ?",
   "description":"सीएस कलरस्कीमर स्टूडियो कलर स्कीम प्रारूप और एपीआई के बारे में जानें जो सीएस फाइलें बना और खोल सकते हैं।",
-"linktitle": "सीएस",
+"linktitle": "CS",
   "menu": {
     "docs": {
       "identifier": "data-cs-colorschemer",
-"पैरेंट": "डेटा"
+"parent" : "data"
 }
 },
 "lastmod": "2023-10-04"

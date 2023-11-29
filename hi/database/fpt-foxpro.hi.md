@@ -18,11 +18,11 @@
 "toc": true,
 "title": "एफपीटी फ़ाइल प्रारूप - फॉक्सप्रो टेबल मेमो",
   "description":"एफपीटी फॉक्सप्रो प्रारूप और एपीआई के बारे में जानें जो एफपीटी फाइलें बना और खोल सकते हैं।",
-"linktitle": "एफपीटी फॉक्सप्रो",
+"linktitle": "FPT FoxPro",
   "menu": {
     "docs": {
       "identifier": "database-fpt-foxpro",
-"पैरेंट": "डेटाबेस"
+"parent" : "database"
 }
 },
 "lastmod": "2023-06-12"

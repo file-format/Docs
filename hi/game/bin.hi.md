@@ -15,11 +15,11 @@
 "toc": true,
 "title": "बिन फ़ाइल स्वरूप - सेगा जेनेसिस गेम ROM",
   "description":"BIN प्रारूप और API के बारे में जानें जो BIN फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "बिन",
+"linktitle": "BIN",
   "menu": {
     "docs": {
       "identifier": "game-bin",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "lastmod": "2023-03-16"

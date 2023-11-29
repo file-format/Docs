@@ -15,11 +15,11 @@
 "toc": true,
 "title": "एसीओ फ़ाइल स्वरूप - एडोब फोटोशॉप कलर स्वैच फ़ाइल",
   "description":"एसीओ प्रारूप और एपीआई के बारे में जानें जो एसीओ फाइलें बना और खोल सकते हैं।",
-"linktitle": "एसीओ",
+"linktitle": "ACO",
   "menu": {
     "docs": {
       "identifier": "settings-aco",
-"पैरेंट": "सेटिंग्स"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-04-28"

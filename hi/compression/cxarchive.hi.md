@@ -17,11 +17,11 @@
 "toc": true,
 "title": "CXARCHIVE फ़ाइल स्वरूप - क्रॉसओवर बोतल संग्रह",
   "description":"CXARCHIVE क्रॉसओवर बॉटल आर्काइव प्रारूप और एपीआई के बारे में जानें जो CXARCHIVE फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "सीएक्सआर्काइव",
+"linktitle": "CXARCHIVE",
   "menu": {
     "docs": {
       "identifier": "compression-cxarchive",
-"जनक": "संपीड़न"
+"parent" : "compression"
 }
 },
 "lastmod": "2023-10-04"

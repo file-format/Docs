@@ -15,11 +15,11 @@
 "toc": true,
 "title": "डब्ल्यूएलएमपी फ़ाइल प्रारूप - विंडोज लाइव मूवी मेकर प्रोजेक्ट",
   "description":"WLMP फ़ाइल स्वरूप और API के बारे में जानें जो WLMP फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "डब्ल्यूएलएमपी",
+"linktitle": "WLMP",
   "menu": {
     "docs": {
       "identifier": "video-wlmp",
-"parent": "वीडियो"
+"parent" : "video"
 }
 },
 "lastmod": "2023-02-08"

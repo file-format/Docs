@@ -18,11 +18,11 @@
 "toc": true,
 "title": "ओजीवी फ़ाइल स्वरूप - ओजीजी वीडियो फ़ाइल",
   "description":"ओजीवी प्रारूप और एपीआई के बारे में जानें जो ओजीवी फाइलें बना और खोल सकते हैं।",
-"linktitle": "ओजीवी",
+"linktitle": "OGV",
   "menu": {
     "docs": {
       "identifier": "video-ogv",
-"parent": "वीडियो"
+"parent" : "video"
 }
 },
 "lastmod": "2023-06-07"

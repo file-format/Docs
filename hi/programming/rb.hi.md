@@ -17,11 +17,11 @@
 "toc": true,
 "title": "आरबी फ़ाइल स्वरूप - रूबी स्रोत कोड फ़ाइल",
   "description":"आरबी प्रारूप और एपीआई के बारे में जानें जो आरबी फाइलें बना और खोल सकते हैं।",
-"linktitle": "आरबी",
+"linktitle": "RB",
   "menu": {
     "docs": {
       "identifier": "programming-rb",
-"parent": "प्रोग्रामिंग"
+"parent" : "programming"
 }
 },
 "lastmod": "2023-05-29"

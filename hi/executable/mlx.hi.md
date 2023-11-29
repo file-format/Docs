@@ -18,11 +18,11 @@
 "toc": true,
 "title": "MLX फ़ाइल स्वरूप - MATLAB लाइव कोड फ़ाइल",
   "description":"एमएलएक्स प्रारूप और एपीआई के बारे में जानें जो एमएलएक्स फाइलें बना और खोल सकते हैं।",
-"linktitle": "एमएलएक्स",
+"linktitle": "MLX",
   "menu": {
     "docs": {
       "identifier": "executable-mlx",
-"पैरेंट": "निष्पादन योग्य"
+"parent" : "executable"
 }
 },
 "lastmod": "2023-05-09"

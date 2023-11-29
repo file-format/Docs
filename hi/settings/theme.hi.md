@@ -16,11 +16,11 @@
 "toc": true,
 "title": "थीम फ़ाइल स्वरूप - माइक्रोसॉफ्ट प्लस! डेस्कटॉप थीम",
   "description":"थीम प्रारूप और एपीआई के बारे में जानें जो थीम फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "थीम",
+"linktitle": "THEME",
   "menu": {
     "docs": {
       "identifier": "settings-theme",
-"पैरेंट": "सेटिंग्स"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-05-03"

@@ -17,11 +17,11 @@
 "toc": true,
 "title": "एनएसपी फ़ाइल प्रारूप - निंटेंडो सबमिशन पैकेज",
   "description":"एनएसपी प्रारूप और एपीआई के बारे में जानें जो एनएसपी फाइलें बना और खोल सकते हैं।",
-"linktitle": "एनएसपी",
+"linktitle": "NSP",
   "menu": {
     "docs": {
       "identifier": "game-nsp",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "lastmod": "2023-06-05"

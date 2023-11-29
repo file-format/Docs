@@ -15,11 +15,11 @@
 "toc": true,
 "title": "बिन फ़ाइल स्वरूप - मैकबाइनरी एनकोडेड फ़ाइल",
    "description":"BIN प्रारूप और API के बारे में जानें जो BIN फ़ाइलें बना और खोल सकते हैं।",
-"लिंकशीर्षक":"बिन",
+"linktitle": "BIN",
    "menu":{
       "docs":{
          "identifier":"compression-bin",
-"parent": "संपीड़न"
+"parent" : "compression"
 }
 },
 "लास्टमॉड": "2023-07-20"

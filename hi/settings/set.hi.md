@@ -15,11 +15,11 @@
 "toc": true,
 "title": "सेट फ़ाइल स्वरूप - दस्तावेज़ लाइब्रेरी संपत्ति सेट फ़ाइल",
   "description":"SET प्रारूप और API के बारे में जानें जो SET फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "सेट",
+"linktitle": "SET",
   "menu": {
     "docs": {
       "identifier": "settings-set",
-"पैरेंट": "सेटिंग्स"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-03-21"

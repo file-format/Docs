@@ -16,11 +16,11 @@
 "toc": true,
 "title": "ईसीओ फ़ाइल स्वरूप - ईसीसीओ डेटाबेस फ़ाइल",
   "description":"ईसीओ प्रारूप और एपीआई के बारे में जानें जो ईसीओ फाइलें बना और खोल सकते हैं।",
-"linktitle": "ईसीओ",
+"linktitle": "ECO",
   "menu": {
     "docs": {
       "identifier": "database-eco",
-"पैरेंट": "डेटाबेस"
+"parent" : "database"
 }
 },
 "lastmod": "2023-08-03"

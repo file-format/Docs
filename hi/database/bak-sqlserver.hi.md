@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAK फ़ाइल स्वरूप - Microsoft SQL सर्वर डेटाबेस बैकअप",
   "description":"BAK SQL सर्वर बैकअप प्रारूप और API के बारे में जानें जो BAK फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "BAK SQL सर्वर",
+"linktitle": "BAK SQL Server",
   "menu": {
     "docs": {
       "identifier": "database-bak-sqlserver",
-"पैरेंट": "डेटाबेस"
+"parent" : "database"
 }
 },
 "lastmod": "2023-06-12"

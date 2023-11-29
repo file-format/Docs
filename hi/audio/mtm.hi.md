@@ -15,11 +15,11 @@
 "toc": true,
 "title": "एमटीएम फ़ाइल प्रारूप - मल्टीट्रैकर मॉड्यूल",
   "description":"एमटीएम फ़ाइल प्रारूप और एपीआई के बारे में जानें जो एमटीएम फाइलें बना और खोल सकते हैं।",
-"linktitle": "एमटीएम",
+"linktitle": "MTM",
   "menu": {
     "docs": {
       "identifier": "audio-mtm",
-"parent": "ऑडियो"
+"parent" : "audio"
 }
 },
 "lastmod": "2023-02-15"

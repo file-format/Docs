@@ -17,11 +17,11 @@
 "toc": true,
 "title": "आईपीएस फ़ाइल प्रारूप - प्लेस्टेशन 2 इन-गेम वीडियो",
    "description":"IPS PS2 प्रारूप और API के बारे में जानें जो IPS फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "आईपीएस पीएस2",
+"linktitle": "IPS PS2",
    "menu":{
       "docs":{
          "identifier":"game-ips-ps2",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "लास्टमॉड": "2023-09-21"

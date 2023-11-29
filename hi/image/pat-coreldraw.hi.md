@@ -17,11 +17,11 @@
 "toc": true,
 "title": "पीएटी फ़ाइल प्रारूप - कोरलड्रा पैटर्न फ़ाइल",
    "description":"PAT CorelDRAW पैटर्न फ़ाइल स्वरूप और API के बारे में जानें जो PAT फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "पैट कोरलड्रॉ",
+"linktitle": "PAT CorelDRAW",
    "menu":{
       "docs":{
          "identifier":"image-pat-coreldraw",
-"parent": "छवि"
+"parent" : "image"
 }
 },
 "लास्टमॉड": "2023-11-01"

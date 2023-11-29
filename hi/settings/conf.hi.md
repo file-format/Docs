@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-conf",
-"पैरेंट": "सेटिंग्स"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-03-30"

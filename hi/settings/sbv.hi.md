@@ -15,11 +15,11 @@
 "toc": true,
 "title": "एसबीवी फ़ाइल स्वरूप - यूट्यूब कैप्शन फ़ाइल",
   "description":"एसबीवी प्रारूप और एपीआई के बारे में जानें जो एसबीवी फाइलें बना और खोल सकते हैं।",
-"linktitle": "एसबीवी",
+"linktitle": "SBV",
   "menu": {
     "docs": {
       "identifier": "settings-sbv",
-"पैरेंट": "सेटिंग्स"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-03-22"

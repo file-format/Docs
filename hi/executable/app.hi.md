@@ -15,11 +15,11 @@
 "toc": true,
   "description":"एपीपी फ़ाइल प्रारूप और एपीआई के बारे में जानें जो एपीपी फाइलें बना और खोल सकते हैं।",
 "title": "एपीपी फ़ाइल प्रारूप - मैकओएस एप्लिकेशन बंडल",
-"linktitle": "एपीपी",
+"linktitle": "APP",
   "menu": {
     "docs": {
       "identifier": "executable-app",
-"पैरेंट": "निष्पादन योग्य"
+"parent" : "executable"
 }
 },
 "lastmod": "2023-02-02"

@@ -16,11 +16,11 @@
 "toc": true,
 "title": "UDB फ़ाइल स्वरूप - Microsoft Dynamics AX उपयोगकर्ता डेटाबेस फ़ाइल",
   "description":"यूडीबी प्रारूप और एपीआई के बारे में जानें जो यूडीबी फाइलें बना और खोल सकते हैं।",
-"linktitle": "यूडीबी",
+"linktitle": "UDB",
   "menu": {
     "docs": {
       "identifier": "database-udb",
-"पैरेंट": "डेटाबेस"
+"parent" : "database"
 }
 },
 "lastmod": "2023-09-05"

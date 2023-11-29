@@ -16,11 +16,11 @@
 "toc": true,
 "title": "एसएमपीएफ फ़ाइल प्रारूप - स्प्राइट मंकी प्रोजेक्ट",
   "description":"एसएमपीएफ प्रारूप और एपीआई के बारे में जानें जो एसएमपीएफ फाइलें बना और खोल सकते हैं।",
-"linktitle": "एसएमपीएफ",
+"linktitle": "SMPF",
   "menu": {
     "docs": {
       "identifier": "compression-smpf",
-"जनक": "संपीड़न"
+"parent" : "compression"
 }
 },
 "lastmod": "2023-05-24"

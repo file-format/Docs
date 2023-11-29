@@ -15,11 +15,11 @@
 "toc": true,
 "title": "ब्लेंड फ़ाइल स्वरूप - ब्लेंडर 3डी फ़ाइल",
   "description":"BLEND प्रारूप और API के बारे में जानें जो BLEND फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "ब्लेंड",
+"linktitle": "BLEND",
   "menu": {
     "docs": {
       "identifier": "3d-blend",
-"parent": "3डी"
+"parent" : "3d"
 }
 },
 "lastmod": "2023-04-13"

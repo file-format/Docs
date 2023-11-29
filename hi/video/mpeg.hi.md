@@ -16,11 +16,11 @@
 "toc": true,
 "title": "एमपीईजी फ़ाइल स्वरूप - एमपीईजी वीडियो",
   "description":"एमपीईजी प्रारूप और एपीआई के बारे में जानें जो एमपीईजी फाइलें बना और खोल सकते हैं।",
-"linktitle": "एमपीईजी",
+"linktitle": "MPEG",
   "menu": {
     "docs": {
       "identifier": "video-mpeg",
-"parent": "वीडियो"
+"parent" : "video"
 }
 },
 "lastmod": "2023-07-12"

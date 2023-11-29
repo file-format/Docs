@@ -16,11 +16,11 @@
 "toc": true,
 "title": "पी3टी फ़ाइल स्वरूप - प्लेस्टेशन 3 थीम फ़ाइल",
   "description":"P3T प्रारूप और API के बारे में जानें जो P3T फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "पी3टी",
+"linktitle": "P3T",
   "menu": {
     "docs": {
       "identifier": "game-p3t",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "lastmod": "2023-05-04"

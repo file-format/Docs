@@ -15,11 +15,11 @@
 "toc": true,
 "title": "यूनिटी3डी फ़ाइल स्वरूप - यूनिटी वेब प्लेयर आर्काइव",
   "description":"Unity3D प्रारूप और API के बारे में जानें जो Unity3D फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "यूनिटी3डी",
+"linktitle": "Unity3D",
   "menu": {
     "docs": {
       "identifier": "game-unity3d",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "lastmod": "2023-03-16"

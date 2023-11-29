@@ -17,11 +17,11 @@
 "toc": true,
 "title": "सीएस फ़ाइल प्रारूप - क्लियो कस्टम स्क्रिप्ट",
    "description":"CS CLEO कस्टम स्क्रिप्ट प्रारूप और API के बारे में जानें जो CS फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "सीएस क्लियो",
+"linktitle": "CS CLEO",
    "menu":{
       "docs":{
          "identifier":"game-cs-cleo",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "लास्टमॉड": "2023-01-04"

@@ -15,11 +15,11 @@
 "toc": true,
 "title": "एएक्सएम फ़ाइल प्रारूप - फॉर्मइट स्केच फ़ाइल",
   "description":"AXM फ़ाइल स्वरूप और API के बारे में जानें जो AXM फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "एएक्सएम",
+"linktitle": "AXM",
   "menu": {
     "docs": {
       "identifier": "cad-axm",
-"parent": "सीएडी"
+"parent" : "cad"
 }
 },
 "lastmod": "2023-02-21"

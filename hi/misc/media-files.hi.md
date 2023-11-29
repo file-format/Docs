@@ -15,11 +15,11 @@
 "toc": true,
 "title": "मीडिया फ़ाइलें क्या हैं? प्रकार, प्रारूप और डिजिटल संचार पर उनका प्रभाव",
   "description":"मीडिया फ़ाइलों, उनके प्रकार, प्रारूप और डिजिटल संचार पर प्रभाव के बारे में जानें।",
-"linktitle": "मीडिया फ़ाइलें",
+"linktitle": "MEDIA FILES",
   "menu": {
     "docs": {
       "identifier": "misc-media-files",
-"parent": "विविध"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-19"

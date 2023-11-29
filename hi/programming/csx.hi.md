@@ -16,11 +16,11 @@
 "toc": true,
 "title": "CSX फ़ाइल स्वरूप - विज़ुअल C# स्क्रिप्ट",
   "description":"सीएसएक्स प्रारूप और एपीआई के बारे में जानें जो सीएसएक्स फाइलें बना और खोल सकते हैं।",
-"linktitle": "सीएसएक्स",
+"linktitle": "CSX",
   "menu": {
     "docs": {
       "identifier": "programming-csx",
-"parent": "प्रोग्रामिंग"
+"parent" : "programming"
 }
 },
 "lastmod": "2023-05-15"

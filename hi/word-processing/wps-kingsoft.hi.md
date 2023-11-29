@@ -17,11 +17,11 @@
 "toc": true,
 "title": "डब्ल्यूपीएस फ़ाइल स्वरूप - किंग्सॉफ्ट राइटर दस्तावेज़",
   "description":"डब्ल्यूपीएस किंग्सॉफ्ट प्रारूप और एपीआई के बारे में जानें जो डब्ल्यूपीएस फाइलें बना और खोल सकते हैं।",
-"linktitle": "डब्ल्यूपीएस किंग्सॉफ्ट",
+"linktitle": "WPS Kingsoft",
   "menu": {
     "docs": {
       "identifier": "word-processing-wps-kingsoft",
-"पैरेंट": "वर्ड-प्रोसेसिंग"
+"parent": "word-processing"
 }
 },
 "lastmod": "2023-09-21"

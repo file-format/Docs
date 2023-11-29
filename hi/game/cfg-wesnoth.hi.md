@@ -17,11 +17,11 @@
 "toc": true,
 "title": "सीएफजी फ़ाइल प्रारूप - वेस्नोथ मार्कअप भाषा फ़ाइल",
   "description":"सीएफजी वेस्नोथ मार्कअप लैंग्वेज फ़ाइल प्रारूप और एपीआई के बारे में जानें जो सीएफजी फाइलें बना और खोल सकते हैं।",
-"linktitle": "सीएफजी वेस्नोथ",
+"linktitle": "CFG Wesnoth",
   "menu": {
     "docs": {
       "identifier": "game-cfg-wesnoth",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "lastmod": "2023-09-27"

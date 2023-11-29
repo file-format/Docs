@@ -17,11 +17,11 @@
 "toc": true,
 "title": "CFG फ़ाइल स्वरूप - MUGEN कॉन्फ़िगरेशन फ़ाइल",
   "description":"CFG MUGEN कॉन्फ़िगरेशन फ़ाइल प्रारूप और API के बारे में जानें जो CFG फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "सीएफजी मुगेन",
+"linktitle": "CFG M.U.G.E.N",
   "menu": {
     "docs": {
       "identifier": "game-cfg-mugen",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "lastmod": "2023-09-27"

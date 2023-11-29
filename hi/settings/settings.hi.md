@@ -14,11 +14,11 @@
 "toc": true,
 "title": "सेटिंग्स फ़ाइल स्वरूप - विज़ुअल स्टूडियो सेटिंग्स फ़ाइल",
   "description":"SETTINGS फ़ॉर्मेट और API के बारे में जानें जो SETTINGS फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "सेटिंग्स",
+"linktitle": "SETTINGS",
   "menu": {
     "docs": {
       "identifier": "settings-settings",
-"पैरेंट": "सेटिंग्स"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-03-29"

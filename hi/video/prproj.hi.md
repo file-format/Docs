@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "video-prproj",
-"parent": "वीडियो"
+"parent" : "video"
 }
 },
 "lastmod": "2023-02-06"

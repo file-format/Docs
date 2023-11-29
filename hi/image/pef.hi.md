@@ -17,11 +17,11 @@
 "toc": true,
 "title": "पीईएफ फ़ाइल प्रारूप - पेंटाक्स इलेक्ट्रॉनिक फ़ाइल",
   "description":"पीईएफ प्रारूप और एपीआई के बारे में जानें जो पीईएफ फाइलें बना और खोल सकते हैं।",
-"linktitle": "पीईएफ",
+"linktitle": "PEF",
   "menu": {
     "docs": {
       "identifier": "image-pef",
-"parent": "छवि"
+"parent" : "image"
 }
 },
 "lastmod": "2023-05-29"

@@ -14,11 +14,11 @@
 "toc": true,
 "title": "ओपीडाउनलोड फ़ाइल प्रारूप - ओपेरा आंशिक रूप से डाउनलोड की गई फ़ाइल",
   "description":"ओपीडीडाउनलोड प्रारूप और एपीआई के बारे में जानें जो ओपीडीडाउनलोड फाइलें बना और खोल सकते हैं।",
-"linktitle": "ओपीडाउनलोड",
+"linktitle": "OPDOWNLOAD",
   "menu": {
     "docs": {
       "identifier": "web-opdownload",
-"parent": "वेब"
+"parent" : "web"
 }
 },
 "lastmod": "2023-03-14"

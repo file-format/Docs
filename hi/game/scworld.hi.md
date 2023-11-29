@@ -16,11 +16,11 @@
 "toc": true,
 "title": "एससीवर्ल्ड फ़ाइल स्वरूप - सर्वाइवलक्राफ्ट वर्ल्ड फ़ाइल",
   "description":"SCWORLD प्रारूप और API के बारे में जानें जो SCWORLD फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "स्कॉर्ल्ड",
+"linktitle": "SCWORLD",
   "menu": {
     "docs": {
       "identifier": "game-scworld",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "lastmod": "2023-05-18"

@@ -18,11 +18,11 @@
 "toc": true,
 "title": "डीवी फ़ाइल स्वरूप - डिजिटल वीडियो फ़ाइल",
   "description":"डीवी प्रारूप और एपीआई के बारे में जानें जो डीवी फाइलें बना और खोल सकते हैं।",
-"linktitle": "डीवी",
+"linktitle": "DV",
   "menu": {
     "docs": {
       "identifier": "video-dv",
-"parent": "वीडियो"
+"parent" : "video"
 }
 },
 "lastmod": "2023-05-31"

@@ -17,11 +17,11 @@
 "toc": true,
 "title": "टीवीडीबी फ़ाइल - ऐप्पल टीवी डेटाबेस - .tvdb फ़ाइल क्या है और इसे कैसे खोलें?",
    "description":"TVDB Apple TV डेटाबेस फ़ाइल स्वरूप और API के बारे में जानें जो INK फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "टीवीडीबी",
+"linktitle": "TVDB",
    "menu":{
       "docs":{
          "identifier":"database-tvdb",
-"पैरेंट": "डेटाबेस"
+"parent" : "database"
 }
 },
 "लास्टमॉड": "2023-11-09"

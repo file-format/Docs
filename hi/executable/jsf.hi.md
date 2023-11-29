@@ -16,11 +16,11 @@
 "toc": true,
 "title": "जेएसएफ फ़ाइल प्रारूप - जावा स्क्रिप्ट कमांड फ़ाइल",
   "description":"जेएसएफ प्रारूप और एपीआई के बारे में जानें जो जेएसएफ फाइलें बना और खोल सकते हैं।",
-"linktitle": "जेएसएफ",
+"linktitle": "JSF",
   "menu": {
     "docs": {
       "identifier": "executable-jsf",
-"पैरेंट": "निष्पादन योग्य"
+"parent" : "executable"
 }
 },
 "lastmod": "2023-05-09"

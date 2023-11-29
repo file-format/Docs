@@ -17,11 +17,11 @@
 "toc": true,
 "title": "एम2वी फ़ाइल स्वरूप - एमपीईजी-2 वीडियो",
    "description":"M2V MPEG-2 वीडियो फ़ाइल स्वरूप और API के बारे में जानें जो M2V फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "एम2वी",
+"linktitle": "M2V",
    "menu":{
       "docs":{
          "identifier":"video-m2v",
-"parent": "वीडियो"
+"parent" : "video"
 }
 },
 "लास्टमॉड": "2023-10-11"

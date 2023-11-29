@@ -17,11 +17,11 @@
 "toc": true,
 "title": "आरएमडी फ़ाइल प्रारूप - आर मार्कडाउन फ़ाइल",
   "description":"आरएमडी प्रारूप और एपीआई के बारे में जानें जो आरएमडी फाइलें बना और खोल सकते हैं।",
-"linktitle": "आरएमडी",
+"linktitle": "RMD",
   "menu": {
     "docs": {
       "identifier": "word-processing-rmd",
-"पैरेंट": "वर्ड-प्रोसेसिंग"
+"parent": "word-processing"
 }
 },
 "lastmod": "2023-06-22"

@@ -15,11 +15,11 @@
 "toc": true,
   "description":"XAP फ़ाइल स्वरूप और API के बारे में जानें जो XAP फ़ाइलें बना और खोल सकते हैं।",
 "title": "XAP फ़ाइल स्वरूप - सिल्वरलाइट एप्लिकेशन पैकेज",
-"linktitle": "एक्सएपी",
+"linktitle": "XAP",
   "menu": {
     "docs": {
       "identifier": "executable-xap",
-"पैरेंट": "निष्पादन योग्य"
+"parent" : "executable"
 }
 },
 "lastmod": "2023-02-01"

@@ -15,11 +15,11 @@
 "toc": true,
 "title": "एएनआई फ़ाइल स्वरूप - विंडोज़ एनिमेटेड कर्सर",
   "description":"एएनआई प्रारूप और एपीआई के बारे में जानें जो एएनआई फाइलें बना और खोल सकते हैं।",
-"linktitle": "एएनआई",
+"linktitle": "ANI",
   "menu": {
     "docs": {
       "identifier": "system-ani",
-"parent": "प्रणाली"
+"parent" : "system"
 }
 },
 "lastmod": "2023-03-08"

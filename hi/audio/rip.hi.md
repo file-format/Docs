@@ -15,11 +15,11 @@
 "toc": true,
 "title": "आरआईपी फ़ाइल प्रारूप - हिट'एन'मिक्स ऑडियो मैशअप फ़ाइल",
   "description":"आरआईपी फ़ाइल प्रारूप और एपीआई के बारे में जानें जो आरआईपी फाइलें बना और खोल सकते हैं।",
-"linktitle": "आरआईपी",
+"linktitle": "RIP",
   "menu": {
     "docs": {
       "identifier": "audio-rip",
-"parent": "ऑडियो"
+"parent" : "audio"
 }
 },
 "lastmod": "2023-02-16"

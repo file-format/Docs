@@ -15,11 +15,11 @@
 "toc": true,
 "title": "पीएसवी फ़ाइल प्रारूप - प्लुरलसाइट वीडियो फ़ाइल",
   "description":"पीएसवी प्रारूप और एपीआई के बारे में जानें जो पीएसवी फाइलें बना और खोल सकते हैं।",
-"linktitle": "पीएसवी",
+"linktitle": "PSV",
   "menu": {
     "docs": {
       "identifier": "video-psv",
-"parent": "वीडियो"
+"parent" : "video"
 }
 },
 "lastmod": "2023-07-12"

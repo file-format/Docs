@@ -7,11 +7,11 @@
 "toc": true,
 "title": "PZZ फ़ाइल - .pzz फ़ाइल क्या है और इसे कैसे खोलें?",
   "description":"PZZ प्रारूप और API के बारे में जानें जो PZZ फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "पीजेडजेड",
+"linktitle": "PZZ",
   "menu": {
     "docs": {
       "identifier": "compression-pzz",
-"जनक": "संपीड़न"
+"parent" : "compression"
 }
 },
 "lastmod": "2023-10-30"

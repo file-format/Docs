@@ -17,11 +17,11 @@
 "toc": true,
 "title": "VCPROJ फ़ाइल स्वरूप - विज़ुअल C++ प्रोजेक्ट फ़ाइल",
   "description":"VCPROJ प्रारूप और API के बारे में जानें जो VCPROJ फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "वीसीपीआरओजे",
+"linktitle": "VCPROJ",
   "menu": {
     "docs": {
       "identifier": "programming-vcproj",
-"parent": "प्रोग्रामिंग"
+"parent" : "programming"
 }
 },
 "lastmod": "2023-05-15"

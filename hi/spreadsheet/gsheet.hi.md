@@ -15,11 +15,11 @@
 "toc": true,
 "title": "GSHEET फ़ाइल स्वरूप - Google शीट शॉर्टकट",
   "description":"GSHEET फ़ाइल स्वरूप और API के बारे में जानें जो GSHEET फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "जीशीट",
+"linktitle": "GSHEET",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-gsheet",
-"पैरेंट": "स्प्रेडशीट"
+"parent": "spreadsheet"
 }
 },
 "lastmod": "2023-02-28"

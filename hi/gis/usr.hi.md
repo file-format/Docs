@@ -16,11 +16,11 @@
 "toc": true,
 "title": "यूएसआर फ़ाइल स्वरूप - लॉरेंस जीपीएस डेटा फ़ाइल",
   "description":"यूएसआर प्रारूप और एपीआई के बारे में जानें जो यूएसआर फाइलें बना और खोल सकते हैं।",
-"linktitle": "यूएसआर",
+"linktitle": "USR",
   "menu": {
     "docs": {
       "identifier": "gis-usr",
-"parent": "जीआईएस"
+"parent" : "gis"
 }
 },
 "lastmod": "2023-08-03"

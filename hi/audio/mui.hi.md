@@ -15,11 +15,11 @@
 "toc": true,
 "title": "एमयूआई फ़ाइल स्वरूप - असंख्य उपयोगकर्ता उपकरण फ़ाइल",
   "description":"एमयूआई फ़ाइल प्रारूप और एपीआई के बारे में जानें जो एमयूआई फाइलें बना और खोल सकते हैं।",
-"linktitle": "एमयूआई",
+"linktitle": "MUI",
   "menu": {
     "docs": {
       "identifier": "audio-mui",
-"parent": "ऑडियो"
+"parent" : "audio"
 }
 },
 "lastmod": "2023-02-14"

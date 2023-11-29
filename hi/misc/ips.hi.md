@@ -17,11 +17,11 @@
 "toc": true,
 "title": "आईपीएस फ़ाइल प्रारूप - आईओएस एनालिटिक्स डेटा",
   "description":"आईपीएस प्रारूप और एपीआई के बारे में जानें जो आईपीएस फाइलें बना और खोल सकते हैं।",
-"linktitle": "आईपीएस",
+"linktitle": "IPS",
   "menu": {
     "docs": {
       "identifier": "misc-ips",
-"parent": "विविध"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-09-21"

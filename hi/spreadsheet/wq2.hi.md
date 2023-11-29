@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "spreadsheet-wq2",
-"पैरेंट": "स्प्रेडशीट"
+"parent": "spreadsheet"
 }
 },
 "lastmod": "2023-02-28"

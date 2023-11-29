@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAK फ़ाइल स्वरूप - होलो लॉन्चर बैकअप",
   "description":"BAK होलो लॉन्चर बैकअप प्रारूप और API के बारे में जानें जो BAK फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "बेक होलो",
+"linktitle": "BAK HOLO",
   "menu": {
     "docs": {
       "identifier": "settings-bak-holo",
-"पैरेंट": "सेटिंग्स"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-06-12"

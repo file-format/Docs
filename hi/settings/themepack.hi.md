@@ -15,11 +15,11 @@
 "toc": true,
 "title": "थीमपैक फ़ाइल स्वरूप - विंडोज 7 थीम पैक",
   "description":"THMEPACK प्रारूप और API के बारे में जानें जो THEMEPACK फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "थीमपैक",
+"linktitle": "THMEPACK",
   "menu": {
     "docs": {
       "identifier": "settings-themepack",
-"पैरेंट": "सेटिंग्स"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-03-23"

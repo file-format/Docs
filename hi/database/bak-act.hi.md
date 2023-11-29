@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAK फ़ाइल स्वरूप - अधिनियम! डेटाबेस बैकअप",
   "description":"BAK अधिनियम के बारे में जानें! बैकअप प्रारूप और API जो BAK फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "BAK ACT बैकअप",
+"linktitle": "BAK ACT Backup",
   "menu": {
     "docs": {
       "identifier": "database-bak-act",
-"पैरेंट": "डेटाबेस"
+"parent" : "database"
 }
 },
 "lastmod": "2023-06-12"

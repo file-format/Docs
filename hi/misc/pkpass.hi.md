@@ -16,11 +16,11 @@
 "toc": true,
 "title": "पीकेपास फ़ाइल प्रारूप - ऐप्पल वॉलेट पास",
   "description":"पीकेपीएएसएस प्रारूप और एपीआई के बारे में जानें जो पीकेपास फाइलें बना और खोल सकते हैं।",
-"linktitle": "पीकेपास",
+"linktitle": "PKPASS",
   "menu": {
     "docs": {
       "identifier": "misc-pkpass",
-"parent": "विविध"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-04-06"

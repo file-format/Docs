@@ -15,11 +15,11 @@
 "toc": true,
 "title": "NUT फ़ाइल स्वरूप - NUT वीडियो फ़ाइल",
   "description":"एनयूटी प्रारूप और एपीआई के बारे में जानें जो एनयूटी फाइलें बना और खोल सकते हैं।",
-"linktitle": "नट",
+"linktitle": "NUT",
   "menu": {
     "docs": {
       "identifier": "video-nut",
-"parent": "वीडियो"
+"parent" : "video"
 }
 },
 "lastmod": "2023-07-13"

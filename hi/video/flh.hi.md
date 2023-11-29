@@ -16,11 +16,11 @@
 "toc": true,
 "title": "FLH फ़ाइल स्वरूप - FLIC एनीमेशन फ़ाइल",
   "description":"एफएलएच प्रारूप और एपीआई के बारे में जानें जो एफएलएच फाइलें बना और खोल सकते हैं।",
-"linktitle": "एफएलएच",
+"linktitle": "FLH",
   "menu": {
     "docs": {
       "identifier": "video-flh",
-"parent": "वीडियो"
+"parent" : "video"
 }
 },
 "lastmod": "2023-06-22"

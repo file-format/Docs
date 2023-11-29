@@ -17,11 +17,11 @@
 "toc": true,
 "title": "पीएटी फ़ाइल प्रारूप - पैटर्न फ़ाइल",
    "description":"पीएटी पैटर्न फ़ाइल प्रारूप और एपीआई के बारे में जानें जो पीएटी फाइलें बना और खोल सकते हैं।",
-"linktitle": "पैट पैटर्न",
+"linktitle": "PAT Pattern",
    "menu":{
       "docs":{
          "identifier":"image-pat-pattern",
-"parent": "छवि"
+"parent" : "image"
 }
 },
 "लास्टमॉड": "2023-11-01"

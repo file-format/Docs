@@ -17,11 +17,11 @@
 "toc": true,
 "title": "BAK फ़ाइल स्वरूप - बैकअप फ़ाइल",
   "description":"BAK बैकअप प्रारूप और API के बारे में जानें जो BAK फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "बेक बैकअप",
+"linktitle": "BAK Backup",
   "menu": {
     "docs": {
       "identifier": "misc-bak-backup",
-"parent": "विविध"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-06-12"

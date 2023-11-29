@@ -16,11 +16,11 @@
 "toc": true,
 "title": "एपीएम फ़ाइल प्रारूप - एल्डस प्लेसेबल मेटाफ़ाइल छवि",
   "description":"एपीएम प्रारूप और एपीआई के बारे में जानें जो एपीएम फाइलें बना और खोल सकते हैं।",
-"linktitle": "एपीएम",
+"linktitle": "APM",
   "menu": {
     "docs": {
       "identifier": "image-apm",
-"parent": "छवि"
+"parent" : "image"
 }
 },
 "lastmod": "2023-05-04"

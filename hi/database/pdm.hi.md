@@ -14,11 +14,11 @@
 "toc": true,
 "title": "पीडीएम फ़ाइल प्रारूप - पॉवरडिज़ाइनर डेटाबेस फ़ाइल",
   "description":"पीडीएम प्रारूप और एपीआई के बारे में जानें जो पीडीएम फाइलें बना और खोल सकते हैं।",
-"linktitle": "पीडीएम",
+"linktitle": "PDM",
   "menu": {
     "docs": {
       "identifier": "database-pdm",
-"पैरेंट": "डेटाबेस"
+"parent" : "database"
 }
 },
 "lastmod": "2023-04-27"

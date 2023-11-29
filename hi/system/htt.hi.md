@@ -14,11 +14,11 @@
 "toc": true,
 "title": "HTT फ़ाइल स्वरूप - हाइपरटेक्स्ट टेम्पलेट",
   "description":"HTT प्रारूप और API के बारे में जानें जो HTT फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "एचटीटी",
+"linktitle": "HTT",
   "menu": {
     "docs": {
       "identifier": "system-htt",
-"parent": "प्रणाली"
+"parent" : "system"
 }
 },
 "lastmod": "2023-03-09"

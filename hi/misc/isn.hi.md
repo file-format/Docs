@@ -14,11 +14,11 @@
 "toc": true,
 "title": "आईएसएन फ़ाइल प्रारूप - इंस्टॉलर स्रोत फ़ाइल",
   "description":"आईएसएन प्रारूप और एपीआई के बारे में जानें जो आईएसएन फाइलें बना और खोल सकते हैं।",
-"linktitle": "आईएसएन",
+"linktitle": "ISN",
   "menu": {
     "docs": {
       "identifier": "misc-isn",
-"parent": "विविध"
+"parent" : "misc"
 }
 },
 "lastmod": "2023-04-20"

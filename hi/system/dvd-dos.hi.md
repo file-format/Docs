@@ -17,11 +17,11 @@
 "toc": true,
 "title": "डीवीडी फ़ाइल स्वरूप - डॉस डिवाइस ड्राइवर",
    "description":"DVD MS-DOS डिवाइस ड्राइवर फ़ाइल स्वरूप और API के बारे में जानें जो DVD फ़ाइलें बना और खोल सकते हैं।",
-"लिंकशीर्षक":"डीवीडी",
+"linktitle": "DVD",
    "menu":{
       "docs":{
          "identifier":"system-dvd-dos",
-"parent": "प्रणाली"
+"parent" : "system"
 }
 },
 "लास्टमॉड": "2023-11-01"

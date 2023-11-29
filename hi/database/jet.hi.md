@@ -17,11 +17,11 @@
 "toc": true,
 "title": "JET फ़ाइल स्वरूप - Microsoft JET डेटाबेस फ़ाइल",
   "description":"JET प्रारूप और API के बारे में जानें जो JET फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "जेट",
+"linktitle": "JET",
   "menu": {
     "docs": {
       "identifier": "database-jet",
-"पैरेंट": "डेटाबेस"
+"parent" : "database"
 }
 },
 "lastmod": "2023-09-05"

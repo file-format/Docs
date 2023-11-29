@@ -17,11 +17,11 @@
 "toc": true,
 "title": "मेटा फ़ाइल स्वरूप - मौजूदा मेटाडेटा फ़ाइल",
   "description":"मेटा प्रारूप और एपीआई के बारे में जानें जो मेटा फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "मेटा",
+"linktitle": "META",
   "menu": {
     "docs": {
       "identifier": "game-meta",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "lastmod": "2023-06-21"

@@ -16,11 +16,11 @@
 "toc": true,
 "title": "सीसी फ़ाइल प्रारूप - सी++ स्रोत कोड फ़ाइल",
   "description":"सीसी प्रारूप और एपीआई के बारे में जानें जो सीसी फाइलें बना और खोल सकते हैं।",
-"linktitle": "सीसी",
+"linktitle": "CC",
   "menu": {
     "docs": {
       "identifier": "programming-cc",
-"parent": "प्रोग्रामिंग"
+"parent" : "programming"
 }
 },
 "lastmod": "2023-05-08"

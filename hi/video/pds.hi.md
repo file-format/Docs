@@ -15,11 +15,11 @@
 "toc": true,
 "title": "पीडीएस फ़ाइल स्वरूप - पॉवरडायरेक्टर स्क्रिप्ट फ़ाइल",
   "description":"पीडीएस प्रारूप और एपीआई के बारे में जानें जो पीडीएस फाइलें बना और खोल सकते हैं।",
-"linktitle": "पीडीएस",
+"linktitle": "PDS",
   "menu": {
     "docs": {
       "identifier": "video-pds",
-"parent": "वीडियो"
+"parent" : "video"
 }
 },
 "lastmod": "2023-07-12"

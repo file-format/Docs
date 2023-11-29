@@ -15,11 +15,11 @@
 "toc": true,
 "title": "एएफएस फ़ाइल प्रारूप - STAAD.फाउंडेशन प्रोजेक्ट फ़ाइल",
   "description":"एएफएस फ़ाइल प्रारूप और एपीआई के बारे में जानें जो एएफएस फाइलें बना और खोल सकते हैं।",
-"linktitle": "एएफएस",
+"linktitle": "AFS",
   "menu": {
     "docs": {
       "identifier": "cad-afs",
-"parent": "सीएडी"
+"parent" : "cad"
 }
 },
 "lastmod": "2023-02-23"

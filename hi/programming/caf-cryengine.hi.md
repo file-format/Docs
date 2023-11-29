@@ -17,11 +17,11 @@
 "toc": true,
 "title": "सीएएफ फ़ाइल प्रारूप - क्रायइंजन कैरेक्टर एनीमेशन फ़ाइल",
    "description":"CAF CryENGINE कैरेक्टर एनिमेशन फ़ाइल प्रारूप और API के बारे में जानें जो CAF फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "सीएएफ क्राइंजिन",
+"linktitle": "CAF CryENGINE",
    "menu":{
       "docs":{
          "identifier":"programming-caf-cryengine",
-"parent": "प्रोग्रामिंग"
+"parent" : "programming"
 }
 },
 "लास्टमॉड": "2023-01-04"

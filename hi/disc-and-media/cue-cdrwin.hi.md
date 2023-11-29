@@ -17,11 +17,11 @@
 "toc": true,
 "title": "CUE फ़ाइल स्वरूप - CDRWIN क्यू शीट",
    "description":"CUE CDRWIN क्यू शीट फ़ाइल प्रारूप और API के बारे में जानें जो CUE फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "क्यू सीडीआरविन",
+"linktitle": "CUE CDRWIN",
    "menu":{
       "docs":{
          "identifier":"disc-and-media-cue-cdrwin",
-"पैरेंट": "डिस्क-एंड-मीडिया"
+"parent" : "disc-and-media"
 }
 },
 "लास्टमॉड": "2023-10-18"

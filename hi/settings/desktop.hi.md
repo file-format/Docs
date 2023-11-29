@@ -18,11 +18,11 @@
 "toc": true,
 "title": "डेस्कटॉप फ़ाइल स्वरूप - डेस्कटॉप प्रविष्टि फ़ाइल",
   "description":"डेस्कटॉप प्रारूप और एपीआई के बारे में जानें जो डेस्कटॉप फाइलें बना और खोल सकते हैं।",
-"linktitle": "डेस्कटॉप",
+"linktitle": "DESKTOP",
   "menu": {
     "docs": {
       "identifier": "settings-desktop",
-"पैरेंट": "सेटिंग्स"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-05-31"

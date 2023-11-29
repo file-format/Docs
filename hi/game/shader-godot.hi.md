@@ -17,11 +17,11 @@
 "toc": true,
 "title": "शेडर फ़ाइल स्वरूप - गोडोट इंजन शेडर फ़ाइल",
    "description":"SHADER गोडोट इंजन शेडर फ़ाइल स्वरूप और API के बारे में जानें जो SHADER फ़ाइलें बना और खोल सकते हैं।",
-"linktitle": "शेडर गोडोट",
+"linktitle": "SHADER Godot",
    "menu":{
       "docs":{
          "identifier":"game-shader-godot",
-"parent": "खेल"
+"parent" : "game"
 }
 },
 "लास्टमॉड": "2023-10-11"

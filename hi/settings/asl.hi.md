@@ -14,11 +14,11 @@
 "toc": true,
 "title": "एएसएल फ़ाइल स्वरूप - फ़ोटोशॉप परत शैली",
   "description":"एएसएल प्रारूप और एपीआई के बारे में जानें जो एएसएल फाइलें बना और खोल सकते हैं।",
-"linktitle": "एएसएल",
+"linktitle": "ASL",
   "menu": {
     "docs": {
       "identifier": "settings-asl",
-"पैरेंट": "सेटिंग्स"
+"parent" : "settings"
 }
 },
 "lastmod": "2023-04-28"
