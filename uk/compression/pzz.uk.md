@@ -1,20 +1,20 @@
 {
-  "date" : "2023-10-29",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-} ,
-  "draft" : "false",
-  "toc" : true,
-  "title" :"Файл PZZ - що таке файл .pzz і як його відкрити?" ,
-  "description":"Дізнайтеся про формат PZZ та API, які можуть створювати та відкривати файли PZZ." ,
-  "linktitle" : "CJS",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression",
-      "identifier":"compression-uk-pzz"
+"дата": "30.10.2023",
+  "author": {
+"display_name": "Кашиф Ікбал"
+},
+"draft": "false",
+"toc": true,
+"title": "Файл PZZ - Що таке файл .pzz і як його відкрити?",
+  "description":"Дізнайтеся про формат PZZ та API, які можуть створювати та відкривати файли PZZ.",
+"linktitle": "PZZ",
+  "menu": {
+    "docs": {
+      "identifier": "compression-pzz",
+      "parent": "compression"
 }
-} ,
-  "lastmod" : "2023-10-29"
+},
+"lastmod": "2023-10-30"
 }
 
 ## Що таке файл PZZ?
@@ -29,6 +29,6 @@
 
 Ви можете відкривати файли PZZ за допомогою [Bondware Poser](https://www.posersoftware.com/).
 
-## Посилання
+## Список літератури
 
  * [Bondware Poser](https://www.posersoftware.com/)

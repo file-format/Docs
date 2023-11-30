@@ -1,20 +1,20 @@
 {
-  "date" : "2023-10-29",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-} ,
-  "draft" : "false",
-  "toc" : true,
-  "title" :"קובץ PZZ - מהו קובץ .pzz ואיך פותחים אותו?" ,
-  "description":"למד על פורמט PZZ וממשקי API שיכולים ליצור ולפתוח קובצי PZZ." ,
-  "linktitle" : "CJS",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression",
-      "identifier":"compression-he-pzz"
+"date": "2023-10-30",
+  "author": {
+"display_name": "כשיף איקבל"
+},
+"draft": "false",
+"toc": true,
+"title": "קובץ PZZ - מהו קובץ .pzz וכיצד פותחים אותו?",
+  "description":"למד על פורמט PZZ וממשקי API שיכולים ליצור ולפתוח קבצי PZZ.",
+"linktitle": "PZZ",
+  "menu": {
+    "docs": {
+      "identifier": "compression-pzz",
+      "parent": "compression"
 }
-} ,
-  "lastmod" : "2023-10-29"
+},
+"lastmod": "2023-10-30"
 }
 
 ## מהו קובץ PZZ?
@@ -23,7 +23,7 @@
 
 ## פורמט קובץ PZZ - מידע נוסף
 
-קובץ PZZ שנוצר על ידי Poser הוא פורמט קובץ דחוס שגודלו קטן להעברה דרך האינטרנט ומדיה אחרת. Poser גם שומר את קובץ הסצנה בצורה לא דחוסה עם **.PZ3 סיומות** שתוכלו לדחוס בעצמכם ל-**ZIP** או **RAR** להשיג במידת הצורך. Bondware רכשה את Poser מחברת Smith Micro ביוני 2019.
+קובץ PZZ שנוצר על ידי Poser הוא פורמט קובץ דחוס שגודלו קטן להעברה דרך האינטרנט ומדיה אחרת. Poser גם שומר את קובץ הסצנה בצורה לא דחוסה עם **.PZ3 סיומות** שתוכלו לדחוס בעצמכם ל-**ZIP** או **RAR** במידת הצורך. Bondware רכשה את Poser מחברת Smith Micro ביוני 2019.
 
 ## כיצד לפתוח קובץ PZZ?
 
