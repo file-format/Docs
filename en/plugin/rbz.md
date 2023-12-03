@@ -23,13 +23,13 @@ An RBZ file is a plugin file used by the modeling program, **Trimble SketchUp**,
 
 ## RBZ File Format - More Information
 
-RBZ files are compressed ZIP files 
+RBZ files are compressed ZIP files that contain a Ruby script file. It is compressed with the most commonly used compression method **DEFLATE**, which is described in IETF **RFC 1951**.
 
 ## How to open an RBZ file?
 
 You can open RBZ files with Trimble SketchUp on Windows as well as macOS. 
 
-In addition to these, since RBZ files are compressed ZIP files, 
+In addition to these, since RBZ files are compressed ZIP files, you can extract these with standard ZIP extraction utilies by renaming its extension from .rbz to .zip. 
 
 ## About Sketchup
 
@@ -37,3 +37,5 @@ SketchUp is a 3D modeling software widely used for architectural design, interio
 
 ## Referenes
 
+ * [Convert ZIP to RBZ File Format](https://forums.sketchup.com/t/convert-zip-to-rbz/109528)
+ * [Sketchup](https://www.sketchup.com/)
