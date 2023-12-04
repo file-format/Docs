@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"data-tgc",
-"parent":"data"
+"parent" : "data"
 }
 },
 "mod terakhir":"09-11-2023"

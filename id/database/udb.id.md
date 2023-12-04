@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Format File UDB - File Database Pengguna Microsoft Dynamics AX",
   "description":"Pelajari tentang format UDB dan API yang dapat membuat dan membuka file UDB.",
-"judul tautan": "UDB",
+"linktitle": "UDB",
   "menu": {
     "docs": {
       "identifier": "database-udb",
-"parent": "database"
+"parent" : "database"
 }
 },
 "mod terakhir": "05-09-2023"

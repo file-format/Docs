@@ -15,11 +15,11 @@
 "toc": true,
   "description":"Pelajari tentang format file APP dan API yang dapat membuat dan membuka file APP.",
 "title": "Format File APLIKASI - Paket Aplikasi macOS",
-"linktitle": "APLIKASI",
+"linktitle": "APP",
   "menu": {
     "docs": {
       "identifier": "executable-app",
-"parent": "dapat dieksekusi"
+"parent" : "executable"
 }
 },
 "mod terakhir": "02-02-2023"

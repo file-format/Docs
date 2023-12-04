@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"database-tvdb",
-"parent":"database"
+"parent" : "database"
 }
 },
 "mod terakhir":"09-11-2023"

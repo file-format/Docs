@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Format File FLH - File Animasi FLIC",
   "description":"Pelajari tentang format FLH dan API yang dapat membuat dan membuka file FLH.",
-"judul tautan": "FLH",
+"linktitle": "FLH",
   "menu": {
     "docs": {
       "identifier": "video-flh",
-"parent": "video"
+"parent" : "video"
 }
 },
 "mod terakhir": "22-06-2023"

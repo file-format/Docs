@@ -17,11 +17,11 @@
 "toc": true,
 "title":"Format File SHADER - File Shader Mesin Quake 3",
    "description":"Pelajari tentang format file SHADER Quake 3 Engine Shader dan API yang dapat membuat dan membuka file SHADER.",
-"linktitle":"Gempa SHADER",
+"linktitle":"SHADER Quake",
    "menu":{
       "docs":{
          "identifier":"game-shader-quake",
-"parent":"permainan"
+"parent" : "game"
 }
 },
 "mod terakhir":"11-10-2023"

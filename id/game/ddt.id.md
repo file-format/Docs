@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Format File DDT - File Data Game Manajer Sepak Bola",
   "description":"Pelajari tentang format DDT dan API yang dapat membuat dan membuka file DDT.",
-"judul tautan": "DDT",
+"linktitle": "DDT",
   "menu": {
     "docs": {
       "identifier": "game-ddt",
-"parent": "permainan"
+"parent" : "game"
 }
 },
 "mod terakhir": "16-05-2023"

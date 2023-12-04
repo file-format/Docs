@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "spreadsheet-wq2",
-"parent": "spreadsheet"
+"parent" : "spreadsheet"
 }
 },
 "mod terakhir": "28-02-2023"

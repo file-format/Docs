@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Format File JWPUB - Publikasi Saksi-Saksi Yehuwa",
   "description":"Pelajari tentang format JWPUB dan API yang dapat membuat dan membuka file JWPUB.",
-"judul tautan": "JWPUB",
+"linktitle": "JWPUB",
   "menu": {
     "docs": {
       "identifier": "ebook-jwpub",
-"parent": "ebook"
+"parent" : "ebook"
 }
 },
 "mod terakhir": "02-03-2023"

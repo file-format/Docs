@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "game-bak-terraria",
-"parent": "permainan"
+"parent" : "game"
 }
 },
 "mod terakhir": "12-06-2023"

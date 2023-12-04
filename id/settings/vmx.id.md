@@ -18,11 +18,11 @@
 "toc": true,
 "title": "Format File VMX - File Konfigurasi Mesin Virtual VMware",
   "description":"Pelajari tentang format VMX dan API yang dapat membuat dan membuka file VMX.",
-"judul tautan": "VMX",
+"linktitle": "VMX",
   "menu": {
     "docs": {
       "identifier": "settings-vmx",
-"parent": "pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir": "08-06-2023"

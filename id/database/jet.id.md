@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Format File JET - File Basis Data Microsoft JET",
   "description":"Pelajari tentang format JET dan API yang dapat membuat dan membuka file JET.",
-"judul tautan": "JET",
+"linktitle": "JET",
   "menu": {
     "docs": {
       "identifier": "database-jet",
-"parent": "database"
+"parent" : "database"
 }
 },
 "mod terakhir": "05-09-2023"

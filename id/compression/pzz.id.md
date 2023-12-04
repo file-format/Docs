@@ -11,7 +11,7 @@
   "menu": {
     "docs": {
       "identifier": "compression-pzz",
-"parent": "kompresi"
+"parent" : "compression"
 }
 },
 "mod terakhir": "30-10-2023"

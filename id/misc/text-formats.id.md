@@ -12,11 +12,11 @@
 "toc": true,
 "title": "Format Teks, Jenis dan FAQ",
   "description":"Pelajari Format Teks, Jenis Format Teks, Daftar Format Teks dan FAQ",
-"linktitle": "FORMAT TEKS",
+"linktitle": "TEXT FORMATS",
   "menu": {
     "docs": {
       "identifier": "misc-text-formats",
-"parent": "lain-lain"
+"parent" : "misc"
 }
 },
 "mod terakhir": "06-07-2023"

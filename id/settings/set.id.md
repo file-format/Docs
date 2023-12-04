@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-set",
-"parent": "pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir": "21-03-2023"

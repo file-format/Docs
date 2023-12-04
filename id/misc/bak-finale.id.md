@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Format File BAK - Pencadangan Skor Akhir 2012",
   "description":"Pelajari tentang format BAK Finale dan API yang dapat membuat dan membuka file BAK.",
-"linktitle": "BAK Final",
+"linktitle": "BAK Finale",
   "menu": {
     "docs": {
       "identifier": "misc-bak-finale",
-"parent": "lain-lain"
+"parent" : "misc"
 }
 },
 "mod terakhir": "12-06-2023"

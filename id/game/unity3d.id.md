@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "game-unity3d",
-"parent": "permainan"
+"parent" : "game"
 }
 },
 "mod terakhir": "16-03-2023"

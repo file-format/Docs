@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Format File MSCZ - File Skor Terkompresi MuseScore",
   "description":"Pelajari tentang format MSCZ dan API yang dapat membuat dan membuka file MSCZ.",
-"judul tautan": "MSCZ",
+"linktitle": "MSCZ",
   "menu": {
     "docs": {
       "identifier": "audio-mscz",
-"parent": "audio"
+"parent" : "audio"
 }
 },
 "mod terakhir": "05-06-2023"

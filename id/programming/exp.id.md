@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "programming-exp",
-"parent": "pemrograman"
+"parent" : "programming"
 }
 },
 "mod terakhir": "12-07-2023"

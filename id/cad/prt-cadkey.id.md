@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"cad-prt-cadkey",
-"parent":"cad"
+"parent" : "cad"
 }
 },
 "mod terakhir":"18-10-2023"

@@ -19,7 +19,7 @@
    "menu":{
       "docs":{
          "identifier":"game-bin-pcsx",
-"parent":"permainan"
+"parent" : "game"
 }
 },
 "mod terakhir":"20-07-2023"

@@ -17,11 +17,11 @@
 "toc": true,
 "title":"File TINTA - Referensi Pantone - Apa itu file .ink dan bagaimana cara membukanya?",
    "description":"Pelajari tentang format file Referensi INK Pantone dan API yang dapat membuat dan membuka file INK.",
-"linktitle":"TINTA",
+"linktitle":"INK",
    "menu":{
       "docs":{
          "identifier":"image-ink",
-"parent":"gambar"
+"parent" : "image"
 }
 },
 "mod terakhir":"09-11-2023"

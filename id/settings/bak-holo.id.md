@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-bak-holo",
-"parent": "pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir": "12-06-2023"

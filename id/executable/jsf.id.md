@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Format File JSF - File Perintah Java Script",
   "description":"Pelajari tentang format JSF dan API yang dapat membuat dan membuka file JSF.",
-"judul tautan": "JSF",
+"linktitle": "JSF",
   "menu": {
     "docs": {
       "identifier": "executable-jsf",
-"parent": "dapat dieksekusi"
+"parent" : "executable"
 }
 },
 "mod terakhir": "09-05-2023"

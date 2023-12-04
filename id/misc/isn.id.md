@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Format File ISN - File Sumber Penginstal",
   "description":"Pelajari tentang format ISN dan API yang dapat membuat dan membuka file ISN.",
-"linktitle": "BUKAN",
+"linktitle": "ISN",
   "menu": {
     "docs": {
       "identifier": "misc-isn",
-"parent": "lain-lain"
+"parent" : "misc"
 }
 },
 "mod terakhir": "20-04-2023"

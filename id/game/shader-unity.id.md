@@ -17,11 +17,11 @@
 "toc":true,
 "title":"Format File SHADER - Aset Unity Shader",
    "description":"Pelajari tentang format dan API SHADER Unity Shader Asset yang dapat membuat dan membuka file SHADER.",
-"linktitle":"SHADER Kesatuan",
+"linktitle":"SHADER Unity",
    "menu":{
       "docs":{
          "identifier":"game-shader-unity",
-"parent":"permainan"
+"parent" : "game"
 }
 },
 "mod terakhir":"11-10-2023"

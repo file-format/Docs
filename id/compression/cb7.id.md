@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "compression-cb7",
-"parent": "kompresi"
+"parent" : "compression"
 }
 },
 "mod terakhir": "24-05-2023"

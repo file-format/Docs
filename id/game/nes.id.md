@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "game-nes",
-"parent": "permainan"
+"parent" : "game"
 }
 },
 "mod terakhir": "29-05-2023"

@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Format File RRC - File eBook Mobipocket",
   "description":"Pelajari tentang format dan API RRC yang dapat membuat dan membuka file RRC.",
-"linktitle": "RRC",
+"linktitle": "PRC",
   "menu": {
     "docs": {
       "identifier": "ebook-prc",
-"parent": "ebook"
+"parent" : "ebook"
 }
 },
 "mod terakhir": "02-03-2023"

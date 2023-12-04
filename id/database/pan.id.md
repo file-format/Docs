@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "database-pan",
-"parent": "database"
+"parent" : "database"
 }
 },
 "mod terakhir": "18-05-2023"

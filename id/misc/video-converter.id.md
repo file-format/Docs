@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Apa itu Video Converter? Panduan Utama untuk Video Converter",
   "description":"Pelajari tentang Pengonversi Video, Format, FAQ, dan Alat Terbaik",
-"linktitle": "KONVERTER VIDEO",
+"linktitle": "VIDEO CONVERTER",
   "menu": {
     "docs": {
       "identifier": "misc-video-converter",
-"parent": "lain-lain"
+"parent" : "misc"
 }
 },
 "mod terakhir": "03-07-2023"

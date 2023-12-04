@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "game-p3t",
-"parent": "permainan"
+"parent" : "game"
 }
 },
 "mod terakhir": "04-05-2023"

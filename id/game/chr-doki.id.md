@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"game-chr-doki",
-"parent":"permainan"
+"parent" : "game"
 }
 },
 "mod terakhir":"11-10-2023"

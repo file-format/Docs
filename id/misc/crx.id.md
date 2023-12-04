@@ -18,11 +18,11 @@
 "toc": true,
 "title": "Format File CRX - Ekstensi Google Chrome",
   "description":"Pelajari tentang format CRX dan API yang dapat membuat dan membuka file CRX.",
-"judul tautan": "CRX",
+"linktitle": "CRX",
   "menu": {
     "docs": {
       "identifier": "misc-crx",
-"parent": "lain-lain"
+"parent" : "misc"
 }
 },
 "mod terakhir": "08-06-2023"

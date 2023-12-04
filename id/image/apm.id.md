@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Format File APM - Gambar Metafile Aldus yang Dapat Ditempatkan",
   "description":"Pelajari tentang format APM dan API yang dapat membuat dan membuka file APM.",
-"judul tautan": "APM",
+"linktitle": "APM",
   "menu": {
     "docs": {
       "identifier": "image-apm",
-"parent": "gambar"
+"parent" : "image"
 }
 },
 "mod terakhir": "04-05-2023"

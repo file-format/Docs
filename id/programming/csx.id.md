@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Format File CSX - Skrip Visual C#",
   "description":"Pelajari tentang format CSX dan API yang dapat membuat dan membuka file CSX.",
-"judul tautan": "CSX",
+"linktitle": "CSX",
   "menu": {
     "docs": {
       "identifier": "programming-csx",
-"parent": "pemrograman"
+"parent" : "programming"
 }
 },
 "mod terakhir": "15-05-2023"

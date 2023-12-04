@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "game-pxp",
-"parent": "permainan"
+"parent" : "game"
 }
 },
 "mod terakhir": "05-04-2023"

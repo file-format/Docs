@@ -20,7 +20,7 @@
    "menu":{
       "docs":{
          "identifier":"video-bdmv",
-"parent":"video"
+"parent" : "video"
 }
 },
 "mod terakhir":"21-09-2023"

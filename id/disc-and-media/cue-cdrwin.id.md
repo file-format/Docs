@@ -17,11 +17,11 @@
 "toc": true,
 "title":"Format File Isyarat - Lembar Isyarat CDRWIN",
    "description":"Pelajari tentang format file CUE CDRWIN Cue Sheet dan API yang dapat membuat dan membuka file CUE.",
-"linktitle":"ISYARAT CDRWIN",
+"linktitle":"CUE CDRWIN",
    "menu":{
       "docs":{
          "identifier":"disc-and-media-cue-cdrwin",
-"parent":"disk-dan-media"
+"parent" : "disc-and-media"
 }
 },
 "mod terakhir":"18-10-2023"

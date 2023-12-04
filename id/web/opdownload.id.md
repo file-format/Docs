@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Format File OPDOWNLOAD - File Opera yang Diunduh Sebagian",
   "description":"Pelajari tentang format OPDOWNLOAD dan API yang dapat membuat dan membuka file OPDOWNLOAD.",
-"linktitle": "OPUNDUH",
+"linktitle": "OPDOWNLOAD",
   "menu": {
     "docs": {
       "identifier": "web-opdownload",
-"parent": "web"
+"parent" : "web"
 }
 },
 "mod terakhir": "14-03-2023"

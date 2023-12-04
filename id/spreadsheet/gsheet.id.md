@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "spreadsheet-gsheet",
-"parent": "spreadsheet"
+"parent" : "spreadsheet"
 }
 },
 "mod terakhir": "28-02-2023"

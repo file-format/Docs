@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Format File WPROJ - File Proyek Wwise",
   "description":"Pelajari tentang format file WPROJ dan API yang dapat membuat dan membuka file WPROJ.",
-"judul tautan": "WPROJ",
+"linktitle": "WPROJ",
   "menu": {
     "docs": {
       "identifier": "audio-wproj",
-"parent": "audio"
+"parent" : "audio"
 }
 },
 "mod terakhir": "17-02-2023"

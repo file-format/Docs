@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Format File PDS - File Skrip PowerDirector",
   "description":"Pelajari tentang format PDS dan API yang dapat membuat dan membuka file PDS.",
-"judul tautan": "PDS",
+"linktitle": "PDS",
   "menu": {
     "docs": {
       "identifier": "video-pds",
-"parent": "video"
+"parent" : "video"
 }
 },
 "mod terakhir": "12-07-2023"

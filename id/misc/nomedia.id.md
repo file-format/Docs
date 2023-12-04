@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-nomedia",
-"parent": "lain-lain"
+"parent" : "misc"
 }
 },
 "mod terakhir": "06-04-2023"

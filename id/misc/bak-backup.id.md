@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Format File BAK - File Cadangan",
   "description":"Pelajari tentang format Cadangan BAK dan API yang dapat membuat dan membuka file BAK.",
-"linktitle": "BAK Cadangan",
+"linktitle": "BAK Backup",
   "menu": {
     "docs": {
       "identifier": "misc-bak-backup",
-"parent": "lain-lain"
+"parent" : "misc"
 }
 },
 "mod terakhir": "12-06-2023"

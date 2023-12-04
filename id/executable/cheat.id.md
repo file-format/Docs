@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "executable-cheat",
-"parent": "dapat dieksekusi"
+"parent" : "executable"
 }
 },
 "mod terakhir": "10-05-2023"

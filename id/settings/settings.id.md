@@ -14,11 +14,11 @@
 "toc": true,
 "title": "FORMAT File PENGATURAN - File Pengaturan Visual Studio",
   "description":"Pelajari tentang format SETTINGS dan API yang dapat membuat dan membuka file SETTINGS.",
-"linktitle": "PENGATURAN",
+"linktitle": "SETTINGS",
   "menu": {
     "docs": {
       "identifier": "settings-settings",
-"parent": "pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir": "29-03-2023"

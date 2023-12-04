@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "game-lang",
-"parent": "permainan"
+"parent" : "game"
 }
 },
 "mod terakhir": "15-03-2023"

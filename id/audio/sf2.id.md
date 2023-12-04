@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Format File SF2 - SoundFont 2 Sound Bank",
   "description":"Pelajari tentang format file SF2 dan API yang dapat membuat dan membuka file SF2.",
-"judul tautan": "SF2",
+"linktitle": "SF2",
   "menu": {
     "docs": {
       "identifier": "audio-sf2",
-"parent": "audio"
+"parent" : "audio"
 }
 },
 "mod terakhir": "14-02-2023"

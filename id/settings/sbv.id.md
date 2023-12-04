@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-sbv",
-"parent": "pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir": "22-03-2023"

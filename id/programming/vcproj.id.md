@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "programming-vcproj",
-"parent": "pemrograman"
+"parent" : "programming"
 }
 },
 "mod terakhir": "15-05-2023"

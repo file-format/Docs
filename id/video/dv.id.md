@@ -18,11 +18,11 @@
 "toc": true,
 "title": "Format File DV - File Video Digital",
   "description":"Pelajari tentang format DV dan API yang dapat membuat dan membuka file DV.",
-"judul tautan": "DV",
+"linktitle": "DV",
   "menu": {
     "docs": {
       "identifier": "video-dv",
-"parent": "video"
+"parent" : "video"
 }
 },
 "mod terakhir": "31-05-2023"

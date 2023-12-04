@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Format File BPS - Pencadangan Dokumen Microsoft Works",
   "description":"Pelajari tentang format BPS Works dan API yang dapat membuat dan membuka file BPS.",
-"linktitle": "Pekerjaan BPS",
+"linktitle": "BPS Works",
   "menu": {
     "docs": {
       "identifier": "misc-bps-works",
-"parent": "lain-lain"
+"parent" : "misc"
 }
 },
 "mod terakhir": "21-09-2023"

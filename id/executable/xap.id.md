@@ -15,11 +15,11 @@
 "toc": true,
   "description":"Pelajari tentang format file XAP dan API yang dapat membuat dan membuka file XAP.",
 "title": "Format File XAP - Paket Aplikasi Silverlight",
-"judul tautan": "XAP",
+"linktitle": "XAP",
   "menu": {
     "docs": {
       "identifier": "executable-xap",
-"parent": "dapat dieksekusi"
+"parent" : "executable"
 }
 },
 "mod terakhir": "01-02-2023"

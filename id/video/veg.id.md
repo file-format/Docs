@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Format File VEG - Proyek Video MAGIX VEGAS",
   "description":"Pelajari tentang format file VEG dan API yang dapat membuat dan membuka file VEG.",
-"linktitle": "SAYURAN",
+"linktitle": "VEG",
   "menu": {
     "docs": {
       "identifier": "video-veg",
-"parent": "video"
+"parent" : "video"
 }
 },
 "mod terakhir": "07-02-2023"

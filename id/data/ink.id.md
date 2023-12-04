@@ -17,11 +17,11 @@
 "toc": true,
 "title":"File TINTA - Mimio Notebook - Apa itu file .ink dan bagaimana cara membukanya?",
    "description":"Pelajari tentang format file INK Mimio Notebook dan API yang dapat membuat dan membuka file INK.",
-"linktitle":"TINTA",
+"linktitle":"INK",
    "menu":{
       "docs":{
          "identifier":"data-ink",
-"parent":"data"
+"parent" : "data"
 }
 },
 "mod terakhir":"09-11-2023"

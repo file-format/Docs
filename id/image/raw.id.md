@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Format File RAW - Data Gambar Mentah",
   "description":"Pelajari tentang format RAW dan API yang dapat membuat dan membuka file RAW.",
-"judul tautan": "MENTAH",
+"linktitle": "RAW",
   "menu": {
     "docs": {
       "identifier": "image-raw",
-"parent": "gambar"
+"parent" : "image"
 }
 },
 "mod terakhir": "15-06-2023"

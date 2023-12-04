@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Format File OPT - File Opterecenja",
   "description":"Pelajari tentang format file OPT dan API yang dapat membuat dan membuka file OPT.",
-"linktitle": "PISAH",
+"linktitle": "OPT",
   "menu": {
     "docs": {
       "identifier": "cad-opt",
-"parent": "cad"
+"parent" : "cad"
 }
 },
 "mod terakhir": "21-02-2023"

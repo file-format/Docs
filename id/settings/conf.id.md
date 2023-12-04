@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Format File CONF - File Konfigurasi Unix",
   "description":"Pelajari tentang format CONF dan API yang dapat membuat dan membuka file CONF.",
-"judul tautan": "CONF",
+"linktitle": "CONF",
   "menu": {
     "docs": {
       "identifier": "settings-conf",
-"parent": "pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir": "30-03-2023"

@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Apa itu File Media? Jenis, Format, dan Dampaknya Terhadap Komunikasi Digital",
   "description":"Pelajari File Media, Jenis, Format, dan Dampaknya terhadap Komunikasi Digital.",
-"linktitle": "FILE MEDIA",
+"linktitle": "MEDIA FILES",
   "menu": {
     "docs": {
       "identifier": "misc-media-files",
-"parent": "lain-lain"
+"parent" : "misc"
 }
 },
 "mod terakhir": "19-06-2023"

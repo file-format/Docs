@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "programming-rb",
-"parent": "pemrograman"
+"parent" : "programming"
 }
 },
 "mod terakhir": "29-05-2023"

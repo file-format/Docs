@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-usr",
-"parent": "lain-lain"
+"parent" : "misc"
 }
 },
 "mod terakhir": "03-08-2023"

@@ -17,11 +17,11 @@
 "toc":true,
 "title":"File PRT - Templat Presentasi - Apa itu file .prt dan bagaimana cara membukanya?",
    "description":"Pelajari tentang format file Templat Presentasi PRT dan API yang dapat membuat dan membuka file PRT.",
-"judul tautan":"PRT",
+"linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"data-prt-template",
-"parent":"data"
+"parent" : "data"
 }
 },
 "mod terakhir":"18-10-2023"

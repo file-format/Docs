@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "game-vrcw",
-"parent": "permainan"
+"parent" : "game"
 }
 },
 "mod terakhir": "04-04-2023"

@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Format File DSD - File Deskripsi Kumpulan Gambar AutoCAD",
   "description":"Pelajari tentang format DSD dan API yang dapat membuat dan membuka file DSD.",
-"judul tautan": "DSD",
+"linktitle": "DSD",
   "menu": {
     "docs": {
       "identifier": "settings-dsd",
-"parent": "pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir": "13-04-2023"

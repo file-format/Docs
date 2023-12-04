@@ -17,11 +17,11 @@
 "toc": true,
 "title":"Format File BIN - File Kebijakan TI BlackBerry",
    "description":"Pelajari tentang format BIN dan API yang dapat membuat dan membuka file BIN.",
-"linktitle":"TEMPAT SAMPAH",
+"linktitle":"BIN",
    "menu":{
       "docs":{
          "identifier":"settings-bin",
-"parent":"pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir":"20-07-2023"

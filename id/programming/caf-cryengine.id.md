@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"programming-caf-cryengine",
-"parent":"pemrograman"
+"parent" : "programming"
 }
 },
 "mod terakhir":"04-01-2023"

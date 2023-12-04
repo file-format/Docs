@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Format File CFG - File Konfigurasi Mesin Sumber",
   "description":"Pelajari tentang format File Konfigurasi Mesin Sumber CFG dan API yang dapat membuat dan membuka file CFG.",
-"linktitle": "Mesin Sumber CFG",
+"linktitle": "CFG Source Engine",
   "menu": {
     "docs": {
       "identifier": "game-cfg-sourceengine",
-"parent": "permainan"
+"parent" : "game"
 }
 },
 "mod terakhir": "27-09-2023"

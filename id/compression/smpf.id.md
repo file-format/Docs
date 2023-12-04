@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "compression-smpf",
-"parent": "kompresi"
+"parent" : "compression"
 }
 },
 "mod terakhir": "24-05-2023"

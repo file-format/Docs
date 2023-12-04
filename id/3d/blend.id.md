@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Format File CAMPURAN - File 3D Blender",
   "description":"Pelajari tentang format BLEND dan API yang dapat membuat dan membuka file BLEND.",
-"linktitle": "CAMPURAN",
+"linktitle": "BLEND",
   "menu": {
     "docs": {
       "identifier": "3d-blend",
-"parent": "3d"
+"parent" : "3d"
 }
 },
 "mod terakhir": "13-04-2023"

@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "word-processing-wps-kingsoft",
-"parent": "pengolahan kata"
+"parent" : "word-processing"
 }
 },
 "mod terakhir": "21-09-2023"

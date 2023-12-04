@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Format File BAK - Pencadangan Proyek Video VEGAS",
   "description":"Pelajari tentang format dan API Pencadangan Proyek Video BAK VEGAS yang dapat membuat dan membuka file BAK.",
-"linktitle": "Video BAK VEGAS",
+"linktitle": "BAK VEGAS Video",
   "menu": {
     "docs": {
       "identifier": "misc-bak-vegas",
-"parent": "lain-lain"
+"parent" : "misc"
 }
 },
 "mod terakhir": "12-06-2023"

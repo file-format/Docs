@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Format File JET - Pengaturan Paket Jackbox Party",
   "description":"Pelajari tentang format JET dan API yang dapat membuat dan membuka file JET.",
-"judul tautan": "JET",
+"linktitle": "JET",
   "menu": {
     "docs": {
       "identifier": "settings-jet",
-"parent": "pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir": "05-09-2023"

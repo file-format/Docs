@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Format File THEMEPACK - Paket Tema Windows 7",
   "description":"Pelajari tentang format THEMEPACK dan API yang dapat membuat dan membuka file THEMEPACK.",
-"linktitle": "THEMAPACK",
+"linktitle": "THEMEPACK",
   "menu": {
     "docs": {
       "identifier": "settings-themepack",
-"parent": "pengaturan"
+"parent" : "settings"
 }
 },
 "mod terakhir": "23-03-2023"

@@ -15,11 +15,11 @@
 "toc":true,
 "title":"Format File BIN - File Eksekusi Unix",
    "description":"Pelajari tentang format BIN dan API yang dapat membuat dan membuka file BIN.",
-"linktitle":"TEMPAT SAMPAH",
+"linktitle":"BIN",
    "menu":{
       "docs":{
          "identifier":"executable-bin",
-"parent":"dapat dieksekusi"
+"parent" : "executable"
 }
 },
 "mod terakhir":"20-07-2023"

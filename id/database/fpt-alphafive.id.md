@@ -18,11 +18,11 @@
 "toc": true,
 "title": "Format File FPT - File Memo Lima Tabel Alfa",
   "description":"Pelajari tentang format FPT Alpha Five dan API yang dapat membuat dan membuka file FPT.",
-"linktitle": "FPT Alfa Lima",
+"linktitle": "FPT Alpha Five",
   "menu": {
     "docs": {
       "identifier": "database-fpt-alphafive",
-"parent": "database"
+"parent" : "database"
 }
 },
 "mod terakhir": "27-04-2023"
