@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق ملف BAK - النسخ الاحتياطي للنتائج النهائية لعام 2012",
   "description":"تعرف على تنسيق BAK Finale وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات BAK وفتحها.",
-"linktitle": "خاتمة BAK",
+"linktitle": "BAK Finale",
   "menu": {
     "docs": {
       "identifier": "misc-bak-finale",
-"parent": "متفرقات"
+"parent" : "misc"
 }
 },
 "آخر مود": "12-06-2023"

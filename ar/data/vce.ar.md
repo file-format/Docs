@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"data-vce",
-"parent": "البيانات"
+"parent" : "data"
 }
 },
 "lastmod": "2023-11-09"

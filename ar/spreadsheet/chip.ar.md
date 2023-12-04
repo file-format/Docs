@@ -15,11 +15,11 @@
 "toc": true,
 "title": "تنسيق ملف CHIP - ملف التعليقات التوضيحية للميكروأري",
   "description":"تعرف على تنسيق ملف CHIP وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات CHIP وفتحها.",
-"linktitle": "رقاقة",
+"linktitle": "CHIP",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-chip",
-"parent": "جدول البيانات"
+"parent" : "spreadsheet"
 }
 },
 "آخر مود": "01-03-2023"

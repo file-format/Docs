@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-wps",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "21-09-2023"

@@ -17,11 +17,11 @@
 "toc": true,
 "title ": "ملف INK - دفتر ملاحظات Mimio - ما هو ملف .ink وكيفية فتحه؟",
    "description":"تعرف على تنسيق ملف INK Mimio Notebook وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات INK وفتحها.",
-"linktitle": "الحبر",
+"linktitle": "INK",
    "menu":{
       "docs":{
          "identifier":"data-ink",
-"parent": "البيانات"
+"parent" : "data"
 }
 },
 "lastmod": "2023-11-09"

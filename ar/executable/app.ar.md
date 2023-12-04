@@ -15,11 +15,11 @@
 "toc": true,
   "description":"تعرف على تنسيق ملف APP وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات APP وفتحها.",
 "title": "تنسيق ملف التطبيق - حزمة تطبيقات macOS",
-"linktitle": "التطبيق",
+"linktitle": "APP",
   "menu": {
     "docs": {
       "identifier": "executable-app",
-"parent": "قابل للتنفيذ"
+"parent" : "executable"
 }
 },
 "آخر مود": "02-02-2023"

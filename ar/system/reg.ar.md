@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "system-reg",
-"parent": "النظام"
+"parent" : "system"
 }
 },
 "آخر مود": "07-03-2023"

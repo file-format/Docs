@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"disc-and-media-cdr",
-"parent": "القرص والوسائط"
+"parent" : "disc-and-media"
 }
 },
 "lastmod": "2023-10-18"

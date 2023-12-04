@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق ملف CFG - ملف تكوين MUGEN",
   "description":"تعرف على تنسيق ملف التكوين CFG MUGEN وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات CFG وفتحها.",
-"linktitle": "سي إف جي موغن",
+"linktitle": "CFG M.U.G.E.N",
   "menu": {
     "docs": {
       "identifier": "game-cfg-mugen",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "آخر مود": "27-09-2023"

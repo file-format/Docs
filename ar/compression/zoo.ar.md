@@ -17,11 +17,11 @@
 "toc": true,
 "title": "ملف ZOO - ما هو ملف .zoo وكيفية فتحه؟",
    "description":"تعرف على تنسيق الملفات المضغوطة ZOO وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات ZOO وفتحها.",
-"linktitle": "حديقة الحيوان",
+"linktitle": "ZOO",
    "menu":{
       "docs":{
          "identifier":"compression-zoo",
-"parent": "ضغط"
+"parent" : "compression"
 }
 },
 "lastmod": "2023-11-09"

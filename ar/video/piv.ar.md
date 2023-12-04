@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "video-piv",
-"parent": "فيديو"
+"parent" : "video"
 }
 },
 "آخر مود": "06-02-2023"

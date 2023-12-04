@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-isn",
-"parent": "متفرقات"
+"parent" : "misc"
 }
 },
 "آخر مود": "2023-04-20"

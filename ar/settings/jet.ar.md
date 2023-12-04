@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق ملف JET - إعدادات حزمة Jackbox Party Pack",
   "description":"تعرف على تنسيق JET وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات JET وفتحها.",
-"linktitle": "جيت",
+"linktitle": "JET",
   "menu": {
     "docs": {
       "identifier": "settings-jet",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "05-09-2023"

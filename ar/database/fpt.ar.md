@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "database-fpt",
-"الأصل": "قاعدة البيانات"
+"parent" : "database"
 }
 },
 "آخر مود": "05-09-2023"

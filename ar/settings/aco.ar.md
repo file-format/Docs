@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-aco",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "28-04-2023"

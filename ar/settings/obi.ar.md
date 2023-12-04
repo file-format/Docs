@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-obi",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "02-05-2023"

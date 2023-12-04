@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق الملف BAK - العمل! النسخ الاحتياطي لقاعدة البيانات",
   "description":"تعرف على قانون BAK! تنسيق النسخ الاحتياطي وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات BAK وفتحها.",
-"linktitle": "النسخ الاحتياطي BAK ACT",
+"linktitle": "BAK ACT Backup",
   "menu": {
     "docs": {
       "identifier": "database-bak-act",
-"الأصل": "قاعدة البيانات"
+"parent" : "database"
 }
 },
 "آخر مود": "12-06-2023"

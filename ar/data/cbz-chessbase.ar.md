@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "data-cbz-chessbase",
-"parent": "البيانات"
+"parent" : "data"
 }
 },
 "آخر مود": "04-10-2023"

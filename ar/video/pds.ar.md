@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "video-pds",
-"parent": "فيديو"
+"parent" : "video"
 }
 },
 "آخر مود": "12-07-2023"

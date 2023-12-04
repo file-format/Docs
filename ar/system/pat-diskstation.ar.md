@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق ملف PAT - ملف تثبيت DiskStation Manager",
    "description":"تعرف على تنسيق ملف تثبيت PAT DiskStation Manager وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات PAT وفتحها.",
-"linktitle": "بات",
+"linktitle": "PAT",
    "menu":{
       "docs":{
          "identifier":"system-pat-diskstation",
-"parent": "النظام"
+"parent" : "system"
 }
 },
 "lastmod": "2023-11-01"

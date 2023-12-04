@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "image-apm",
-"parent": "الصورة"
+"parent" : "image"
 }
 },
 "آخر مود": "04-05-2023"

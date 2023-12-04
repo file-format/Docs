@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "game-ttr",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "آخر مود": "04-04-2023"

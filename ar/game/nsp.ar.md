@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "game-nsp",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "آخر مود": "05-06-2023"

@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "game-mcpack",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "آخر مود": "04-04-2023"

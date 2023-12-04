@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "cad-dxb",
-"parent": "كاد"
+"parent" : "cad"
 }
 },
 "آخر مود": "10-05-2023"

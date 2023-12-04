@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق ملف META - ملف بيانات التعريف الخارجي",
   "description":"تعرف على تنسيق META وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات META وفتحها.",
-"linktitle": "ميتا",
+"linktitle": "META",
   "menu": {
     "docs": {
       "identifier": "game-meta",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "آخر مود": "21-06-2023"

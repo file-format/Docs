@@ -17,11 +17,11 @@
 "toc": true,
 "العنوان": "تنسيق ملف SHADER - ملف تظليل المحرك Quake 3",
    "description":"تعرف على تنسيق ملف SHADER Quake 3 Engine Shader وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات SHADER وفتحها.",
-"linktitle": "شادر زلزال",
+"linktitle": "SHADER Quake",
    "menu":{
       "docs":{
          "identifier":"game-shader-quake",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "lastmod": "2023-10-11"

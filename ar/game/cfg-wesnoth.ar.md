@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق ملف CFG - ملف لغة ترميز Wesnoth",
   "description":"تعرف على تنسيق ملف لغة توصيف CFG Wesnoth وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات CFG وفتحها.",
-"linktitle": "سي إف جي ويسنوث",
+"linktitle": "CFG Wesnoth",
   "menu": {
     "docs": {
       "identifier": "game-cfg-wesnoth",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "آخر مود": "27-09-2023"

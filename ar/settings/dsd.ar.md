@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-dsd",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "13-04-2023"

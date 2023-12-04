@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-ldb",
-"parent": "متفرقات"
+"parent" : "misc"
 }
 },
 "آخر مود": "2023-04-20"

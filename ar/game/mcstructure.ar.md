@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "game-mcstructure",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "آخر مود": "05-04-2023"

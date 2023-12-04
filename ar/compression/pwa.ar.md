@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "compression-pwa",
-"parent": "الضغط"
+"parent" : "compression"
 }
 },
 "آخر مود": "24-05-2023"

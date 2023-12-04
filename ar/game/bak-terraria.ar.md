@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق الملف BAK - Terraria World أو نسخة احتياطية للمشغل",
   "description":"تعرف على تنسيق لعبة BAK Terraria وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات BAK وفتحها.",
-"linktitle": "باك تيراريا",
+"linktitle": "BAK TERRARIA",
   "menu": {
     "docs": {
       "identifier": "game-bak-terraria",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "آخر مود": "12-06-2023"

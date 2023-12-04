@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "system-htt",
-"parent": "النظام"
+"parent" : "system"
 }
 },
 "آخر مود": "09-03-2023"

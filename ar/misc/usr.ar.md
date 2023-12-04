@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-usr",
-"parent": "متفرقات"
+"parent" : "misc"
 }
 },
 "آخر مود": "03-08-2023"

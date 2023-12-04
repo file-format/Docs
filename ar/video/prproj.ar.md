@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "video-prproj",
-"parent": "فيديو"
+"parent" : "video"
 }
 },
 "آخر مود": "06-02-2023"

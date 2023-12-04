@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "video-kine",
-"parent": "فيديو"
+"parent" : "video"
 }
 },
 "آخر مود": "09-02-2023"

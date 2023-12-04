@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "audio-m4r",
-"parent": "الصوت"
+"parent" : "audio"
 }
 },
 "آخر مود": "30-03-2023"

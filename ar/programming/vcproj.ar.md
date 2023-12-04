@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "programming-vcproj",
-"parent": "البرمجة"
+"parent" : "programming"
 }
 },
 "آخر مود": "15-05-2023"

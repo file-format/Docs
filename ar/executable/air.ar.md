@@ -14,11 +14,11 @@
 "toc": true,
   "description":"تعرف على تنسيق ملف AIR وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات AIR وفتحها.",
 "title": "تنسيق ملف AIR - ملف حزمة تثبيت Adobe AIR",
-"linktitle": "الهواء",
+"linktitle": "AIR",
   "menu": {
     "docs": {
       "identifier": "executable-air",
-"parent": "قابل للتنفيذ"
+"parent" : "executable"
 }
 },
 "آخر مود": "01-02-2023"

@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق ملف PAT - ملف النموذج",
    "description":"تعرف على تنسيق ملف نمط PAT وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات PAT وفتحها.",
-"linktitle": "نمط بات",
+"linktitle": "PAT Pattern",
    "menu":{
       "docs":{
          "identifier":"image-pat-pattern",
-"parent": "صورة"
+"parent" : "image"
 }
 },
 "lastmod": "2023-11-01"

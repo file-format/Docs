@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "database-rpd",
-"الأصل": "قاعدة البيانات"
+"parent" : "database"
 }
 },
 "آخر مود": "05-09-2023"

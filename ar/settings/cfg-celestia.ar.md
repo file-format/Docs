@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق ملف CFG - ملف تكوين Celestia",
   "description":"تعرف على تنسيق ملف تكوين CFG Celestia وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات CFG وفتحها.",
-"linktitle": "سي إف جي سيليستيا",
+"linktitle": "CFG Celestia",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-celestia",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "27-09-2023"

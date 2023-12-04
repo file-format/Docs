@@ -15,11 +15,11 @@
 "toc": true,
 "title": "تنسيق ملف ISS - برنامج إعداد Inno",
   "description":"تعرف على تنسيق ISS وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات ISS وفتحها.",
-"linktitle": "محطة الفضاء الدولية",
+"linktitle": "ISS",
   "menu": {
     "docs": {
       "identifier": "settings-iss",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "28-03-2023"

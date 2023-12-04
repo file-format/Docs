@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "compression-cba",
-"parent": "الضغط"
+"parent" : "compression"
 }
 },
 "آخر مود": "24-05-2023"

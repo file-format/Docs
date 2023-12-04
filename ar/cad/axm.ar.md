@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "cad-axm",
-"parent": "كاد"
+"parent" : "cad"
 }
 },
 "آخر مود": "21-02-2023"

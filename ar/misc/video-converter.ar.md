@@ -14,11 +14,11 @@
 "toc": true,
 "title": "ما هو محول الفيديو؟ الدليل النهائي لمحولات الفيديو",
   "description":"تعرف على محولات الفيديو والتنسيقات والأسئلة الشائعة وأفضل الأدوات",
-"linktitle": "محول الفيديو",
+"linktitle": "VIDEO CONVERTER",
   "menu": {
     "docs": {
       "identifier": "misc-video-converter",
-"parent": "متفرقات"
+"parent" : "misc"
 }
 },
 "آخر مود": "03-07-2023"

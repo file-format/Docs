@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "video-exp",
-"parent": "فيديو"
+"parent" : "video"
 }
 },
 "آخر مود": "13-07-2023"

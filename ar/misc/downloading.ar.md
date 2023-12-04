@@ -15,11 +15,11 @@
 "toc": true,
 "title": "تنزيل تنسيق الملف - ملف تنزيل Pando غير مكتمل",
   "description":"تعرف على تنسيق DOWNLOADING وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات DOWNLOADING وفتحها.",
-"linktitle": "جارٍ التنزيل",
+"linktitle": "DOWNLOADING",
   "menu": {
     "docs": {
       "identifier": "misc-downloading",
-"parent": "متفرقات"
+"parent" : "misc"
 }
 },
 "آخر مود": "18-04-2023"

@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق ملف CHR - نادي دوكي دوكي الأدبي! ملف الأحرف",
    "description":"تعرف على CHR Doki Doki Literature Club! تنسيق ملف الأحرف وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات CHR وفتحها.",
-"linktitle": "مركز حقوق الإنسان دوكي",
+"linktitle": "CHR Doki",
    "menu":{
       "docs":{
          "identifier":"game-chr-doki",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "lastmod": "2023-10-11"

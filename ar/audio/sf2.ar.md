@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "audio-sf2",
-"parent": "الصوت"
+"parent" : "audio"
 }
 },
 "آخر مود": "14-02-2023"

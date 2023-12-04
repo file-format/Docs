@@ -18,11 +18,11 @@
 "toc": true,
 "title": "تنسيق ملف سطح المكتب - ملف إدخال سطح المكتب",
   "description":"تعرف على تنسيق سطح المكتب وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات سطح المكتب وفتحها.",
-"linktitle": "سطح المكتب",
+"linktitle": "DESKTOP",
   "menu": {
     "docs": {
       "identifier": "settings-desktop",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "31-05-2023"

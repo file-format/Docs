@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "cad-cir",
-"parent": "كاد"
+"parent" : "cad"
 }
 },
 "آخر مود": "22-02-2023"

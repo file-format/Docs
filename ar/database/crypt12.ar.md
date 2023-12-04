@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "database-crypt12",
-"الأصل": "قاعدة البيانات"
+"parent" : "database"
 }
 },
 "آخر مود": "14-03-2023"

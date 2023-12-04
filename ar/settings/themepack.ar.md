@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-themepack",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "23-03-2023"

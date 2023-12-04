@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "programming-cc",
-"parent": "البرمجة"
+"parent" : "programming"
 }
 },
 "آخر مود": "08-05-2023"

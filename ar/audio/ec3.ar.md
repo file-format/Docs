@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "audio-ec3",
-"parent": "الصوت"
+"parent" : "audio"
 }
 },
 "آخر مود": "15-02-2023"

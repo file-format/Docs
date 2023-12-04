@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق ملف NOMEDIA - Android بدون ملف وسائط",
   "description":"تعرف على تنسيق NOMEDIA وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات NOMEDIA وفتحها.",
-"linktitle": "نوميديا",
+"linktitle": "NOMEDIA",
   "menu": {
     "docs": {
       "identifier": "misc-nomedia",
-"parent": "متفرقات"
+"parent" : "misc"
 }
 },
 "آخر مود": "06-04-2023"

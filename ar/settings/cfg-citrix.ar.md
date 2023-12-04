@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق ملف CFG - ملف اتصال خادم Citrix",
   "description":"تعرف على تنسيق ملف اتصال خادم CFG Citrix وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات CFG وفتحها.",
-"linktitle": "CFG سيتريكس",
+"linktitle": "CFG Citrix",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-citrix",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "27-09-2023"

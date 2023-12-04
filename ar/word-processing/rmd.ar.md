@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "word-processing-rmd",
-"الأصل": "معالجة الكلمات"
+"parent" : "word-processing"
 }
 },
 "آخر مود": "22-06-2023"

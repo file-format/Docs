@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "game-unity3d",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "آخر مود": "16-03-2023"

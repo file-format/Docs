@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "compression-sqx",
-"parent": "الضغط"
+"parent" : "compression"
 }
 },
 "آخر مود": "22-05-2023"

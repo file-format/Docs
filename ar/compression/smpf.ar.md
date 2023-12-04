@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "compression-smpf",
-"parent": "الضغط"
+"parent" : "compression"
 }
 },
 "آخر مود": "24-05-2023"

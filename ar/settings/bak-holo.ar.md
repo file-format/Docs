@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق ملف BAK - نسخة احتياطية لـ Holo Launcher",
   "description":"تعرف على تنسيق النسخ الاحتياطي BAK Holo Launcher وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات BAK وفتحها.",
-"linktitle": "باك هولو",
+"linktitle": "BAK HOLO",
   "menu": {
     "docs": {
       "identifier": "settings-bak-holo",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "12-06-2023"

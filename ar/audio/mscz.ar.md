@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "audio-mscz",
-"parent": "الصوت"
+"parent" : "audio"
 }
 },
 "آخر مود": "05-06-2023"

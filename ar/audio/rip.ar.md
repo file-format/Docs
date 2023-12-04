@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "audio-rip",
-"parent": "الصوت"
+"parent" : "audio"
 }
 },
 "آخر مود": "16-02-2023"

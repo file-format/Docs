@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "audio-wproj",
-"parent": "الصوت"
+"parent" : "audio"
 }
 },
 "آخر مود": "17-02-2023"

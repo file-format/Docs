@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "image-pef",
-"parent": "الصورة"
+"parent" : "image"
 }
 },
 "آخر مود": "29-05-2023"

@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-mlt",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "04-10-2023"

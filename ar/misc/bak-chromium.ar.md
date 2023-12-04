@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق الملف BAK - النسخ الاحتياطي للإشارات المرجعية في Chromium",
   "description":"تعرف على تنسيق الإشارات المرجعية BAK Chromium وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات BAK وفتحها.",
-"linktitle": "الإشارات المرجعية BAK Chromium",
+"linktitle": "BAK Chromium Bookmarks",
   "menu": {
     "docs": {
       "identifier": "misc-bak-chromium",
-"parent": "متفرقات"
+"parent" : "misc"
 }
 },
 "آخر مود": "12-06-2023"

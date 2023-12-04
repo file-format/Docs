@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق ملف RAF - صورة Fujifilm RAW",
   "description":"تعرف على تنسيق RAF وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات RAF وفتحها.",
-"linktitle": "سلاح الجو الملكي البريطاني",
+"linktitle": "RAF",
   "menu": {
     "docs": {
       "identifier": "image-raf",
-"parent": "الصورة"
+"parent" : "image"
 }
 },
 "آخر مود": "15-06-2023"

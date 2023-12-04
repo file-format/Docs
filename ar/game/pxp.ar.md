@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "game-pxp",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "آخر مود": "05-04-2023"

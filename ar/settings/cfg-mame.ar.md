@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-cfg-mame",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "27-09-2023"

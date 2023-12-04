@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-oss",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "28-03-2023"

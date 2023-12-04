@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق ملف JET - ملف قاعدة بيانات Microsoft JET",
   "description":"تعرف على تنسيق JET وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات JET وفتحها.",
-"linktitle": "جيت",
+"linktitle": "JET",
   "menu": {
     "docs": {
       "identifier": "database-jet",
-"الأصل": "قاعدة البيانات"
+"parent" : "database"
 }
 },
 "آخر مود": "05-09-2023"

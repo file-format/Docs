@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "programming-csx",
-"parent": "البرمجة"
+"parent" : "programming"
 }
 },
 "آخر مود": "15-05-2023"

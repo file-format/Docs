@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "database-pan",
-"الأصل": "قاعدة البيانات"
+"parent" : "database"
 }
 },
 "آخر مود": "18-05-2023"

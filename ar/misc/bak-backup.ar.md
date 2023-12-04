@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق الملف BAK - ملف النسخ الاحتياطي",
   "description":"تعرف على تنسيق BAK Backup وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات BAK وفتحها.",
-"linktitle": "النسخ الاحتياطي لباك",
+"linktitle": "BAK Backup",
   "menu": {
     "docs": {
       "identifier": "misc-bak-backup",
-"parent": "متفرقات"
+"parent" : "misc"
 }
 },
 "آخر مود": "12-06-2023"

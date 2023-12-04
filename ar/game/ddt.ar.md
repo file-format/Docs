@@ -16,11 +16,11 @@
 "toc": true,
 "title": "تنسيق ملف DDT - ملف بيانات لعبة Football Manager",
   "description":"تعرف على تنسيق DDT وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات DDT وفتحها.",
-"linktitle": "دي دي تي",
+"linktitle": "DDT",
   "menu": {
     "docs": {
       "identifier": "game-ddt",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "آخر مود": "16-05-2023"

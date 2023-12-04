@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-tpf",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "29-03-2023"

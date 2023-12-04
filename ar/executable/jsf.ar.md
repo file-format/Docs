@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "executable-jsf",
-"parent": "قابل للتنفيذ"
+"parent" : "executable"
 }
 },
 "آخر مود": "09-05-2023"

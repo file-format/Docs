@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق ملف الغش - ورقة غش Navi",
   "description":"تعرف على تنسيق CHEAT وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات CHEAT وفتحها.",
-"linktitle": "الغش",
+"linktitle": "CHEAT",
   "menu": {
     "docs": {
       "identifier": "executable-cheat",
-"parent": "قابل للتنفيذ"
+"parent" : "executable"
 }
 },
 "آخر مود": "10-05-2023"

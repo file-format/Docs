@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "video-wlmp",
-"parent": "فيديو"
+"parent" : "video"
 }
 },
 "آخر مود": "08-02-2023"

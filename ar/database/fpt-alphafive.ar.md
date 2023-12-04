@@ -18,11 +18,11 @@
 "toc": true,
 "title": "تنسيق ملف FPT - ملف مذكرة جدول Alpha Five",
   "description":"تعرف على تنسيق FPT Alpha Five وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات FPT وفتحها.",
-"linktitle": "FPT ألفا خمسة",
+"linktitle": "FPT Alpha Five",
   "menu": {
     "docs": {
       "identifier": "database-fpt-alphafive",
-"الأصل": "قاعدة البيانات"
+"parent" : "database"
 }
 },
 "آخر مود": "27-04-2023"

@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "word-processing-wps-kingsoft",
-"الأصل": "معالجة الكلمات"
+"parent" : "word-processing"
 }
 },
 "آخر مود": "21-09-2023"

@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "database-usr",
-"الأصل": "قاعدة البيانات"
+"parent" : "database"
 }
 },
 "آخر مود": "03-08-2023"

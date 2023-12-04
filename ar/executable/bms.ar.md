@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "executable-bms",
-"parent": "قابل للتنفيذ"
+"parent" : "executable"
 }
 },
 "آخر مود": "08-05-2023"

@@ -23,7 +23,7 @@
   "menu": {
     "docs": {
       "identifier": "video-sub",
-"parent": "فيديو"
+"parent" : "video"
 }
 },
 "آخر مود": "21-06-2023"

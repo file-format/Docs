@@ -17,11 +17,11 @@
 "toc": true,
 "العنوان": "تنسيق ملف SHADER - ملف تظليل محرك Godot",
    "description":"تعرف على تنسيق ملف SHADER Godot Engine Shader وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات SHADER وفتحها.",
-"linktitle": "شادر جودو",
+"linktitle": "SHADER Godot",
    "menu":{
       "docs":{
          "identifier":"game-shader-godot",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "lastmod": "2023-10-11"

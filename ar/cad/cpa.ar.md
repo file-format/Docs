@@ -15,11 +15,11 @@
 "toc": true,
 "title": "تنسيق ملف CPA - ملف أرشيف CADSTAR PCB",
   "description":"تعرف على تنسيق ملف CPA وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات CPA وفتحها.",
-"linktitle": "تكلفة الاكتساب",
+"linktitle": "CPA",
   "menu": {
     "docs": {
       "identifier": "cad-cpa",
-"parent": "كاد"
+"parent" : "cad"
 }
 },
 "آخر مود": "22-02-2023"

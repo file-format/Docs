@@ -15,11 +15,11 @@
 "toc": true,
 "title": "تنسيق ملف SAMI - ملف تبادل الترجمات والبيانات الوصفية",
   "description":"تعرف على تنسيق SAMI وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات SAMI وفتحها.",
-"linktitle": "سامي",
+"linktitle": "SAMI",
   "menu": {
     "docs": {
       "identifier": "video-sami",
-"parent": "فيديو"
+"parent" : "video"
 }
 },
 "آخر مود": "16-05-2023"

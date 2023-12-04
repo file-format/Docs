@@ -15,11 +15,11 @@
 "toc": true,
 "title": "تنسيق ملف PSV - ملف فيديو Pluralsight",
   "description":"تعرف على تنسيق PSV وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات PSV وفتحها.",
-"linktitle": "ايندهوفن",
+"linktitle": "PSV",
   "menu": {
     "docs": {
       "identifier": "video-psv",
-"parent": "فيديو"
+"parent" : "video"
 }
 },
 "آخر مود": "12-07-2023"

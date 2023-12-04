@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "game-p3t",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "آخر مود": "04-05-2023"

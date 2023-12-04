@@ -15,11 +15,11 @@
 "toc": true,
 "title": "تنسيق ملف BLEND - ملف Blender ثلاثي الأبعاد",
   "description":"تعرف على تنسيق BLEND وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات BLEND وفتحها.",
-"linktitle": "مزيج",
+"linktitle": "BLEND",
   "menu": {
     "docs": {
       "identifier": "3d-blend",
-"parent": "ثلاثي الأبعاد"
+"parent" : "3d"
 }
 },
 "آخر مود": "13-04-2023"

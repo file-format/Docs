@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "database-eco",
-"الأصل": "قاعدة البيانات"
+"parent" : "database"
 }
 },
 "آخر مود": "03-08-2023"

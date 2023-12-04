@@ -22,7 +22,7 @@
   "menu": {
     "docs": {
       "identifier": "executable-mlx",
-"parent": "قابل للتنفيذ"
+"parent" : "executable"
 }
 },
 "آخر مود": "09-05-2023"

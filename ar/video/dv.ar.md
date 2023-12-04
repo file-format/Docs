@@ -22,7 +22,7 @@
   "menu": {
     "docs": {
       "identifier": "video-dv",
-"parent": "فيديو"
+"parent" : "video"
 }
 },
 "آخر مود": "31-05-2023"

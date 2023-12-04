@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-cnf",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "22-03-2023"

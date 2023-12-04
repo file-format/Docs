@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "programming-exp",
-"parent": "البرمجة"
+"parent" : "programming"
 }
 },
 "آخر مود": "12-07-2023"

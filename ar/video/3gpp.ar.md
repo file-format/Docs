@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "video-3gpp",
-"parent": "فيديو"
+"parent" : "video"
 }
 },
 "آخر مود": "30-05-2023"

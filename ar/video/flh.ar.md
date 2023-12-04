@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "video-flh",
-"parent": "فيديو"
+"parent" : "video"
 }
 },
 "آخر مود": "22-06-2023"

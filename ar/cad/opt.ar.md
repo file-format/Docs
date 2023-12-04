@@ -15,11 +15,11 @@
 "toc": true,
 "title": "تنسيق ملف OPT - ملف Opterecenja",
   "description":"تعرف على تنسيق ملف OPT وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات OPT وفتحها.",
-"linktitle": "اختياري",
+"linktitle": "OPT",
   "menu": {
     "docs": {
       "identifier": "cad-opt",
-"parent": "كاد"
+"parent" : "cad"
 }
 },
 "آخر مود": "21-02-2023"

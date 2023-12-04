@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "image-arw",
-"parent": "الصورة"
+"parent" : "image"
 }
 },
 "آخر مود": "15-06-2023"

@@ -15,11 +15,11 @@
 "toc": true,
 "title": "تنسيق ملف جمهورية الصين الشعبية - ملف الكتاب الإلكتروني لـ Mobipocket",
   "description":"تعرف على تنسيق PRC وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات PRC وفتحها.",
-"linktitle": "جمهورية الصين الشعبية",
+"linktitle": "PRC",
   "menu": {
     "docs": {
       "identifier": "ebook-prc",
-"parent": "كتاب إلكتروني"
+"parent" : "ebook"
 }
 },
 "آخر مود": "02-03-2023"

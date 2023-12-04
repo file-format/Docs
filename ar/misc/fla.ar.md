@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-fla",
-"parent": "متفرقات"
+"parent" : "misc"
 }
 },
 "آخر مود": "05-06-2023"

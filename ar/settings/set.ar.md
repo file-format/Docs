@@ -15,11 +15,11 @@
 "toc": true,
 "title": "تنسيق الملف المحدد - ملف مجموعة خصائص مكتبة المستندات",
   "description":"تعرف على تنسيق SET وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات SET وفتحها.",
-"linktitle": "ضبط",
+"linktitle": "SET",
   "menu": {
     "docs": {
       "identifier": "settings-set",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "21-03-2023"

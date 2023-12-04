@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "audio-mui",
-"parent": "الصوت"
+"parent" : "audio"
 }
 },
 "آخر مود": "14-02-2023"

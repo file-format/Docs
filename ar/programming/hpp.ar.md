@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "programming-hpp",
-"parent": "البرمجة"
+"parent" : "programming"
 }
 },
 "آخر مود": "08-06-2023"

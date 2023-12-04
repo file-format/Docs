@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-gxt",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "21-03-2023"

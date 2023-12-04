@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-ips",
-"parent": "متفرقات"
+"parent" : "misc"
 }
 },
 "آخر مود": "21-09-2023"

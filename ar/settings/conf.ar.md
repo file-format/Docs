@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-conf",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "30-03-2023"

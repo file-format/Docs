@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "game-scworld",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "آخر مود": "18-05-2023"

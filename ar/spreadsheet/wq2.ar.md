@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "spreadsheet-wq2",
-"parent": "جدول البيانات"
+"parent" : "spreadsheet"
 }
 },
 "آخر مود": "28-02-2023"

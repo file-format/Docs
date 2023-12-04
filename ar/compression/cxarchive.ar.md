@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "compression-cxarchive",
-"parent": "الضغط"
+"parent" : "compression"
 }
 },
 "آخر مود": "04-10-2023"

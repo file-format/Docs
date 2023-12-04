@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "spreadsheet-gsheet",
-"parent": "جدول البيانات"
+"parent" : "spreadsheet"
 }
 },
 "آخر مود": "28-02-2023"

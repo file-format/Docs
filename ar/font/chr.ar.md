@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق ملف CHR - مجموعة أحرف بورلاند",
    "description":"تعرف على تنسيق ملف CHR Borland Character Set وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات CHR وفتحها.",
-"linktitle": "لجنة حقوق الإنسان",
+"linktitle": "CHR",
    "menu":{
       "docs":{
          "identifier":"font-chr",
-"parent": "الخط"
+"parent" : "font"
 }
 },
 "lastmod": "2023-10-11"

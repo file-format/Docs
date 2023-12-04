@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-ipsw",
-"parent": "متفرقات"
+"parent" : "misc"
 }
 },
 "آخر مود": "17-04-2023"

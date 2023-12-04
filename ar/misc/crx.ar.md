@@ -22,7 +22,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-crx",
-"parent": "متفرقات"
+"parent" : "misc"
 }
 },
 "آخر مود": "08-06-2023"

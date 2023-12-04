@@ -14,11 +14,11 @@
 "toc": true,
 "title": "تنسيق ملف البيان - ملف بيان تطبيق Windows",
   "description":"تعرف على تنسيق MANIFEST وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات MANIFEST وفتحها.",
-"linktitle": "البيان",
+"linktitle": "MANIFEST",
   "menu": {
     "docs": {
       "identifier": "system-manifest",
-"parent": "النظام"
+"parent" : "system"
 }
 },
 "آخر مود": "07-03-2023"

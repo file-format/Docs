@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق ملف BAK - النسخ الاحتياطي لقاعدة بيانات Microsoft SQL Server",
   "description":"تعرف على تنسيق BAK SQL Server Backup وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات BAK وفتحها.",
-"linktitle": "باك SQL سيرفر",
+"linktitle": "BAK SQL Server",
   "menu": {
     "docs": {
       "identifier": "database-bak-sqlserver",
-"الأصل": "قاعدة البيانات"
+"parent" : "database"
 }
 },
 "آخر مود": "12-06-2023"

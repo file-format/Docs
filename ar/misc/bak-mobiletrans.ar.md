@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-bak-mobiletrans",
-"parent": "متفرقات"
+"parent" : "misc"
 }
 },
 "آخر مود": "12-06-2023"

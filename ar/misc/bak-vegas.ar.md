@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق الملف BAK - النسخ الاحتياطي لمشروع فيديو VEGAS",
   "description":"تعرف على تنسيق النسخ الاحتياطي لمشروع فيديو BAK VEGAS وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات BAK وفتحها.",
-"linktitle": "فيديو باك فيغاس",
+"linktitle": "BAK VEGAS Video",
   "menu": {
     "docs": {
       "identifier": "misc-bak-vegas",
-"parent": "متفرقات"
+"parent" : "misc"
 }
 },
 "آخر مود": "12-06-2023"

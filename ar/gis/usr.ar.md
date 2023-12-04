@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "gis-usr",
-"parent": "نظم المعلومات الجغرافية"
+"parent" : "gis"
 }
 },
 "آخر مود": "03-08-2023"

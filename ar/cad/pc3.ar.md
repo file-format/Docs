@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "cad-pc3",
-"parent": "كاد"
+"parent" : "cad"
 }
 },
 "آخر مود": "09-05-2023"

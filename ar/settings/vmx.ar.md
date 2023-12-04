@@ -22,7 +22,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-vmx",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "08-06-2023"

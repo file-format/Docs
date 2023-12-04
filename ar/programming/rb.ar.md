@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "programming-rb",
-"parent": "البرمجة"
+"parent" : "programming"
 }
 },
 "آخر مود": "29-05-2023"

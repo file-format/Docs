@@ -22,7 +22,7 @@
   "menu": {
     "docs": {
       "identifier": "game-w3x",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "آخر مود": "13-04-2023"

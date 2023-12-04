@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق ملف BAY - صورة Casio RAW",
   "description":"تعرف على تنسيق BAY وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات BAY وفتحها.",
-"linktitle": "الخليج",
+"linktitle": "BAY",
   "menu": {
     "docs": {
       "identifier": "image-bay",
-"parent": "الصورة"
+"parent" : "image"
 }
 },
 "آخر مود": "15-06-2023"

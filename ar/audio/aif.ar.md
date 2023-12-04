@@ -22,7 +22,7 @@
   "menu": {
     "docs": {
       "identifier": "audio-aif",
-"parent": "الصوت"
+"parent" : "audio"
 }
 },
 "آخر مود": "30-05-2023"

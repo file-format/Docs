@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "video-mpeg",
-"parent": "فيديو"
+"parent" : "video"
 }
 },
 "آخر مود": "12-07-2023"

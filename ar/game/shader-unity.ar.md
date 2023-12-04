@@ -17,11 +17,11 @@
 "toc": true,
 "العنوان": "تنسيق ملف SHADER - أصول تظليل الوحدة",
    "description":"تعرف على تنسيق SHADER Unity Shader Asset وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات SHADER وفتحها.",
-"linktitle": "وحدة شادر",
+"linktitle": "SHADER Unity",
    "menu":{
       "docs":{
          "identifier":"game-shader-unity",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "lastmod": "2023-10-11"

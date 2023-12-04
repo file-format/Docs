@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "database-pdb",
-"الأصل": "قاعدة البيانات"
+"parent" : "database"
 }
 },
 "آخر مود": "26-06-2023"

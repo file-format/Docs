@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "cad-afs",
-"parent": "كاد"
+"parent" : "cad"
 }
 },
 "آخر مود": "23-02-2023"

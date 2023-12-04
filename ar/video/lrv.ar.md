@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "video-lrv",
-"parent": "فيديو"
+"parent" : "video"
 }
 },
 "آخر مود": "21-06-2023"

@@ -17,11 +17,11 @@
 "toc": true,
 "title ": "ملف INK - مرجع Pantone - ما هو ملف .ink وكيفية فتحه؟",
    "description":"تعرف على تنسيق ملف INK Pantone Reference وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات INK وفتحها.",
-"linktitle": "الحبر",
+"linktitle": "INK",
    "menu":{
       "docs":{
          "identifier":"image-ink",
-"parent": "صورة"
+"parent" : "image"
 }
 },
 "lastmod": "2023-11-09"

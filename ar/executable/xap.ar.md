@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "executable-xap",
-"parent": "قابل للتنفيذ"
+"parent" : "executable"
 }
 },
 "آخر مود": "01-02-2023"

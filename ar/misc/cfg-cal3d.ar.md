@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "misc-cfg-cal3d",
-"parent": "متفرقات"
+"parent" : "misc"
 }
 },
 "آخر مود": "27-09-2023"

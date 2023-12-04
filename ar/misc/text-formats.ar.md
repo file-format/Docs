@@ -12,11 +12,11 @@
 "toc": true,
 "title": "تنسيقات النص وأنواعه والأسئلة الشائعة",
   "description":"تعرف على تنسيقات النص وأنواع تنسيقات النص وقائمة تنسيقات النص والأسئلة الشائعة",
-"linktitle": "تنسيقات النص",
+"linktitle": "TEXT FORMATS",
   "menu": {
     "docs": {
       "identifier": "misc-text-formats",
-"parent": "متفرقات"
+"parent" : "misc"
 }
 },
 "آخر مود": "06-07-2023"

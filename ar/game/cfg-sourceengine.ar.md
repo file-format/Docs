@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق ملف CFG - ملف تكوين المحرك المصدر",
   "description":"تعرف على تنسيق ملف تكوين محرك مصدر CFG وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات CFG وفتحها.",
-"linktitle": "محرك مصدر CFG",
+"linktitle": "CFG Source Engine",
   "menu": {
     "docs": {
       "identifier": "game-cfg-sourceengine",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "آخر مود": "27-09-2023"

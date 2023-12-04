@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "ebook-jwpub",
-"parent": "كتاب إلكتروني"
+"parent" : "ebook"
 }
 },
 "آخر مود": "02-03-2023"

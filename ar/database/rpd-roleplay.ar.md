@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق ملف RPD - ملف بيانات مصمم لعب الأدوار",
   "description":"تعرف على تنسيق ملف بيانات مصمم RPD roleplay Designer وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات RPD وفتحها.",
-"linktitle": "لعب الأدوار في RPD",
+"linktitle": "RPD Roleplay",
   "menu": {
     "docs": {
       "identifier": "database-rpd-roleplay",
-"الأصل": "قاعدة البيانات"
+"parent" : "database"
 }
 },
 "آخر مود": "27-04-2023"

@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "game-txd",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "آخر مود": "03-05-2023"

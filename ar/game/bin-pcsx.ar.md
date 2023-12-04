@@ -19,7 +19,7 @@
    "menu":{
       "docs":{
          "identifier":"game-bin-pcsx",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "lastmod": "2023-07-20"

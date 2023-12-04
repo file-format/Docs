@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "system-icns",
-"parent": "النظام"
+"parent" : "system"
 }
 },
 "آخر مود": "08-03-2023"

@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "web-opdownload",
-"parent": "الويب"
+"parent" : "web"
 }
 },
 "آخر مود": "14-03-2023"

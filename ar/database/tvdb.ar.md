@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"database-tvdb",
-"الأصل": "قاعدة البيانات"
+"parent" : "database"
 }
 },
 "lastmod": "2023-11-09"

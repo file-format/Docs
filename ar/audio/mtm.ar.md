@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "audio-mtm",
-"parent": "الصوت"
+"parent" : "audio"
 }
 },
 "آخر مود": "15-02-2023"

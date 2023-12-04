@@ -15,11 +15,11 @@
 "toc": true,
 "title": "تنسيق ملف BIN - ذاكرة القراءة فقط للعبة Sega Genesis",
   "description":"تعرف على تنسيق BIN وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات BIN وفتحها.",
-"linktitle": "بن",
+"linktitle": "BIN",
   "menu": {
     "docs": {
       "identifier": "game-bin",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "آخر مود": "16-03-2023"

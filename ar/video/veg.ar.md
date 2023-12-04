@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "video-veg",
-"parent": "فيديو"
+"parent" : "video"
 }
 },
 "آخر مود": "07-02-2023"

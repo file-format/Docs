@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "audio-sty",
-"parent": "الصوت"
+"parent" : "audio"
 }
 },
 "آخر مود": "15-06-2023"

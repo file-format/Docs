@@ -17,11 +17,11 @@
 "toc": true,
 "title": "تنسيق ملف BPS - النسخ الاحتياطي لمستندات Microsoft Works",
   "description":"تعرف على تنسيق BPS Works وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات BPS وفتحها.",
-"linktitle": "BPS يعمل",
+"linktitle": "BPS Works",
   "menu": {
     "docs": {
       "identifier": "misc-bps-works",
-"parent": "متفرقات"
+"parent" : "misc"
 }
 },
 "آخر مود": "21-09-2023"

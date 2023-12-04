@@ -22,7 +22,7 @@
   "menu": {
     "docs": {
       "identifier": "video-ogv",
-"parent": "فيديو"
+"parent" : "video"
 }
 },
 "آخر مود": "07-06-2023"

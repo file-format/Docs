@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "database-xem",
-"الأصل": "قاعدة البيانات"
+"parent" : "database"
 }
 },
 "آخر مود": "27-04-2023"

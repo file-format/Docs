@@ -22,7 +22,7 @@
   "menu": {
     "docs": {
       "identifier": "video-scc",
-"parent": "فيديو"
+"parent" : "video"
 }
 },
 "آخر مود": "21-06-2023"

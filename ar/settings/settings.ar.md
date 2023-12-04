@@ -14,11 +14,11 @@
 "toc": true,
 "title": "تنسيق ملف الإعدادات - ملف إعدادات Visual Studio",
   "description":"تعرف على تنسيق الإعدادات وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات الإعدادات وفتحها.",
-"linktitle": "الإعدادات",
+"linktitle": "SETTINGS",
   "menu": {
     "docs": {
       "identifier": "settings-settings",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "29-03-2023"

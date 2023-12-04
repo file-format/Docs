@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "system-ani",
-"parent": "النظام"
+"parent" : "system"
 }
 },
 "آخر مود": "08-03-2023"

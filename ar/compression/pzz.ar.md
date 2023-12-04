@@ -11,7 +11,7 @@
   "menu": {
     "docs": {
       "identifier": "compression-pzz",
-"parent": "الضغط"
+"parent" : "compression"
 }
 },
 "آخر مود": "30-10-2023"

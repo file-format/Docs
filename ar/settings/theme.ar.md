@@ -16,11 +16,11 @@
 "toc": true,
 "title": "تنسيق ملف السمة - Microsoft Plus! سمة سطح المكتب",
   "description":"تعرف على تنسيق THEME وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات THEME وفتحها.",
-"linktitle": "الموضوع",
+"linktitle": "THEME",
   "menu": {
     "docs": {
       "identifier": "settings-theme",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "03-05-2023"

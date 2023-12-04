@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "game-lang",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "آخر مود": "15-03-2023"

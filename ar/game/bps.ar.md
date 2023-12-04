@@ -20,7 +20,7 @@
    "menu":{
       "docs":{
          "identifier":"game-bps",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "lastmod": "2023-09-21"

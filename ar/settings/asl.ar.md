@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-asl",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "28-04-2023"

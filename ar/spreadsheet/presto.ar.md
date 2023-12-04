@@ -15,11 +15,11 @@
 "toc": true,
 "title": "تنسيق ملف PRESTO - جدول بيانات مشروع Presto",
   "description":"تعرف على تنسيق PRESTO وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات PRESTO وفتحها.",
-"linktitle": "المعزوفة",
+"linktitle": "PRESTO",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-presto",
-"parent": "جدول البيانات"
+"parent" : "spreadsheet"
 }
 },
 "آخر مود": "01-03-2023"

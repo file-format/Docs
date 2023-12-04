@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-ovpn",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "21-03-2023"

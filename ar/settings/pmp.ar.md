@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-pmp",
-"parent": "الإعدادات"
+"parent" : "settings"
 }
 },
 "آخر مود": "28-03-2023"

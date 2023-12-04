@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "game-nes",
-"parent": "لعبة"
+"parent" : "game"
 }
 },
 "آخر مود": "29-05-2023"
