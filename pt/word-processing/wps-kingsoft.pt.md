@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato de arquivo WPS - Documento Kingsoft Writer",
   "description":"Aprenda sobre o formato WPS Kingsoft e APIs que podem criar e abrir arquivos WPS.",
-"linktitle": "WPSKingsoft",
+"linktitle": "WPS Kingsoft",
   "menu": {
     "docs": {
       "identifier": "word-processing-wps-kingsoft",
-"parent": "processamento de texto"
+"parent" : "word-processing"
 }
 },
 "último mod": "2023/09/21"

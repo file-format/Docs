@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "audio-rip",
-"parent": "áudio"
+"parent" : "audio"
 }
 },
 "último mod": "16/02/2023"

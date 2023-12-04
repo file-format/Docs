@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato de arquivo BAK - Backup da pontuação final de 2012",
   "description":"Aprenda sobre o formato BAK Finale e APIs que podem criar e abrir arquivos BAK.",
-"linktitle": "BAK Final",
+"linktitle": "BAK Finale",
   "menu": {
     "docs": {
       "identifier": "misc-bak-finale",
-"parent": "misc"
+"parent" : "misc"
 }
 },
 "último mod": "12/06/2023"

@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "executable-cheat",
-"parent": "executável"
+"parent" : "executable"
 }
 },
 "último mod": "10/05/2023"

@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "database-pdb",
-"parent": "banco de dados"
+"parent" : "database"
 }
 },
 "último mod": "2023/06/26"

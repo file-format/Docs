@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"video-m2v",
-"parent":"vídeo"
+"parent" : "video"
 }
 },
 "última modificação":"11/10/2023"

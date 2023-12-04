@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "database-rpd-roleplay",
-"parent": "banco de dados"
+"parent" : "database"
 }
 },
 "último mod": "2023/04/27"

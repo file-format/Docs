@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "image-raw",
-"parent": "imagem"
+"parent" : "image"
 }
 },
 "último mod": "15/06/2023"

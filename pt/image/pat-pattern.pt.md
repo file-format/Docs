@@ -17,11 +17,11 @@
 "toc": true,
 "title":"Formato de arquivo PAT - Arquivo de padrão",
    "description":"Aprenda sobre o formato de arquivo PAT Pattern e APIs que podem criar e abrir arquivos PAT.",
-"linktitle":"Padrão PAT",
+"linktitle":"PAT Pattern",
    "menu":{
       "docs":{
          "identifier":"image-pat-pattern",
-"parent":"imagem"
+"parent" : "image"
 }
 },
 "último mod":"01/11/2023"

@@ -15,11 +15,11 @@
 "toc": true,
 "title": "DOWNLOAD de formato de arquivo - Pando arquivo de download incompleto",
   "description":"Aprenda sobre o formato DOWNLOADING e APIs que podem criar e abrir arquivos DOWNLOADING.",
-"linktitle": "BAIXANDO",
+"linktitle": "DOWNLOADING",
   "menu": {
     "docs": {
       "identifier": "misc-downloading",
-"parent": "misc"
+"parent" : "misc"
 }
 },
 "último mod": "18/04/2023"

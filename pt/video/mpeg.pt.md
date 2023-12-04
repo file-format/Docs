@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "video-mpeg",
-"parent": "vídeo"
+"parent" : "video"
 }
 },
 "último mod": "12/07/2023"

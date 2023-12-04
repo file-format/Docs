@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato de arquivo BAK - Backup do projeto de vídeo VEGAS",
   "description":"Aprenda sobre o formato de backup do projeto de vídeo BAK VEGAS e APIs que podem criar e abrir arquivos BAK.",
-"linktitle": "Vídeo BAK VEGAS",
+"linktitle": "BAK VEGAS Video",
   "menu": {
     "docs": {
       "identifier": "misc-bak-vegas",
-"parent": "misc"
+"parent" : "misc"
 }
 },
 "último mod": "12/06/2023"

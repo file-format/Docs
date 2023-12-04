@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-cnf",
-"parent": "configurações"
+"parent" : "settings"
 }
 },
 "último mod": "2023-03-22"

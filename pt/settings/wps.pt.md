@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-wps",
-"parent": "configurações"
+"parent" : "settings"
 }
 },
 "último mod": "2023/09/21"

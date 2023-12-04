@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "game-meta",
-"parent": "jogo"
+"parent" : "game"
 }
 },
 "último mod": "2023/06/21"

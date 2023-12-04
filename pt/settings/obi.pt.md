@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-obi",
-"parent": "configurações"
+"parent" : "settings"
 }
 },
 "último mod": "02/05/2023"

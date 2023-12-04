@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"system-dvd-dos",
-"parent":"sistema"
+"parent" : "system"
 }
 },
 "último mod":"01/11/2023"

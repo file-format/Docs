@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato de arquivo CFG - Arquivo de configuração do mecanismo de origem",
   "description":"Aprenda sobre o formato do arquivo de configuração do mecanismo de origem CFG e APIs que podem criar e abrir arquivos CFG.",
-"linktitle": "Mecanismo de origem CFG",
+"linktitle": "CFG Source Engine",
   "menu": {
     "docs": {
       "identifier": "game-cfg-sourceengine",
-"parent": "jogo"
+"parent" : "game"
 }
 },
 "último mod": "2023/09/27"

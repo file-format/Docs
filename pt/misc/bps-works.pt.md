@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato de arquivo BPS - Backup de documentos do Microsoft Works",
   "description":"Aprenda sobre o formato BPS Works e APIs que podem criar e abrir arquivos BPS.",
-"linktitle": "BPS funciona",
+"linktitle": "BPS Works",
   "menu": {
     "docs": {
       "identifier": "misc-bps-works",
-"parent": "misc"
+"parent" : "misc"
 }
 },
 "último mod": "2023/09/21"

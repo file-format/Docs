@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-rdp",
-"parent": "configurações"
+"parent" : "settings"
 }
 },
 "último mod": "02/05/2023"

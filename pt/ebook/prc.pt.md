@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Formato de arquivo PRC - Arquivo de e-book Mobipocket",
   "description":"Aprenda sobre o formato PRC e APIs que podem criar e abrir arquivos PRC.",
-"linktitle": "RPC",
+"linktitle": "PRC",
   "menu": {
     "docs": {
       "identifier": "ebook-prc",
-"parent": "e-book"
+"parent" : "ebook"
 }
 },
 "último mod": "02/03/2023"

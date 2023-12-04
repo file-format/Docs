@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"video-cpi",
-"parent":"vídeo"
+"parent" : "video"
 }
 },
 "última modificação":"2023/10/18"

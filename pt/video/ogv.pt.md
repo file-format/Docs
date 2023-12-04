@@ -22,7 +22,7 @@
   "menu": {
     "docs": {
       "identifier": "video-ogv",
-"parent": "vídeo"
+"parent" : "video"
 }
 },
 "último mod": "07/06/2023"

@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "game-ttr",
-"parent": "jogo"
+"parent" : "game"
 }
 },
 "último mod": "04/04/2023"

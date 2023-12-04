@@ -20,7 +20,7 @@
    "menu":{
       "docs":{
          "identifier":"video-bdmv",
-"parent":"vídeo"
+"parent" : "video"
 }
 },
 "última modificação":"2023-09-21"

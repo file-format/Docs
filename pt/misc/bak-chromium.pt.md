@@ -17,11 +17,11 @@
 "toc": true,
 "title": "Formato de arquivo BAK - Backup de favoritos do Chromium",
   "description":"Aprenda sobre o formato BAK Chromium Bookmarks e APIs que podem criar e abrir arquivos BAK.",
-"linktitle": "Marcadores BAK Chromium",
+"linktitle": "BAK Chromium Bookmarks",
   "menu": {
     "docs": {
       "identifier": "misc-bak-chromium",
-"parent": "misc"
+"parent" : "misc"
 }
 },
 "último mod": "12/06/2023"

@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "database-rpd",
-"parent": "banco de dados"
+"parent" : "database"
 }
 },
 "último mod": "05/09/2023"

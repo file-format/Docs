@@ -17,11 +17,11 @@
 "toc": true,
 "title":"Arquivo ZOO - O que é um arquivo .zoo e como abri-lo?",
    "description":"Aprenda sobre o formato de arquivo compactado ZOO e APIs que podem criar e abrir arquivos ZOO.",
-"linktitle":"ZOOLÓGICO",
+"linktitle":"ZOO",
    "menu":{
       "docs":{
          "identifier":"compression-zoo",
-"parent":"compressão"
+"parent" : "compression"
 }
 },
 "último mod":"09/11/2023"

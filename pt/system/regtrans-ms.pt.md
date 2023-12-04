@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "system-regtrans-ms",
-"parent": "sistema"
+"parent" : "system"
 }
 },
 "último mod": "07/03/2023"

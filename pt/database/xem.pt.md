@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "database-xem",
-"parent": "banco de dados"
+"parent" : "database"
 }
 },
 "último mod": "2023/04/27"

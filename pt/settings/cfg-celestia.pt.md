@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-cfg-celestia",
-"parent": "configurações"
+"parent" : "settings"
 }
 },
 "último mod": "2023/09/27"

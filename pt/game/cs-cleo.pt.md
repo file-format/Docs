@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"game-cs-cleo",
-"parent":"jogo"
+"parent" : "game"
 }
 },
 "último mod":"04/01/2023"

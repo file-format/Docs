@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"data-prt-template",
-"parent":"dados"
+"parent" : "data"
 }
 },
 "última modificação":"2023/10/18"

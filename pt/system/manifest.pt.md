@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Formato de arquivo MANIFEST - Arquivo de manifesto de aplicativo do Windows",
   "description":"Aprenda sobre o formato MANIFEST e APIs que podem criar e abrir arquivos MANIFEST.",
-"linktitle": "MANIFESTO",
+"linktitle": "MANIFEST",
   "menu": {
     "docs": {
       "identifier": "system-manifest",
-"parent": "sistema"
+"parent" : "system"
 }
 },
 "último mod": "07/03/2023"

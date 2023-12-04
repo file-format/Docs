@@ -14,11 +14,11 @@
 "toc": true,
 "title": "Formato de arquivo de CONFIGURAÇÕES - Arquivo de configurações do Visual Studio",
   "description":"Aprenda sobre o formato SETTINGS e APIs que podem criar e abrir arquivos SETTINGS.",
-"linktitle": "CONFIGURAÇÕES",
+"linktitle": "SETTINGS",
   "menu": {
     "docs": {
       "identifier": "settings-settings",
-"parent": "configurações"
+"parent" : "settings"
 }
 },
 "último mod": "2023/03/29"

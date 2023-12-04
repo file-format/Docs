@@ -15,11 +15,11 @@
 "toc": true,
 "title": "Formato de arquivo BLEND - Arquivo 3D do Blender",
   "description":"Aprenda sobre o formato BLEND e APIs que podem criar e abrir arquivos BLEND.",
-"linktitle": "MISTURA",
+"linktitle": "BLEND",
   "menu": {
     "docs": {
       "identifier": "3d-blend",
-"parent": "3d"
+"parent" : "3d"
 }
 },
 "último mod": "13/04/2023"

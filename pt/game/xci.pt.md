@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"game-xci",
-"parent":"jogo"
+"parent" : "game"
 }
 },
 "último mod":"09/11/2023"

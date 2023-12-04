@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-themepack",
-"parent": "configurações"
+"parent" : "settings"
 }
 },
 "último mod": "23/03/2023"

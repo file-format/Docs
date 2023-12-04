@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-conf",
-"parent": "configurações"
+"parent" : "settings"
 }
 },
 "último mod": "30/03/2023"

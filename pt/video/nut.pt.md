@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "video-nut",
-"parent": "vídeo"
+"parent" : "video"
 }
 },
 "último mod": "13/07/2023"

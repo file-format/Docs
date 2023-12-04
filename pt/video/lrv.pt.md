@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "video-lrv",
-"parent": "vídeo"
+"parent" : "video"
 }
 },
 "último mod": "2023/06/21"

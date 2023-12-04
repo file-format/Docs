@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "game-bak-terraria",
-"parent": "jogo"
+"parent" : "game"
 }
 },
 "último mod": "12/06/2023"

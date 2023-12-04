@@ -17,11 +17,11 @@
 "toc": true,
 "title":"Formato de arquivo CPI - Arquivo de informações de página de código",
    "description":"Aprenda sobre o formato de arquivo de informações da página de código CPI e APIs que podem criar e abrir arquivos CPI.",
-"linktitle":"IPC",
+"linktitle":"CPI",
    "menu":{
       "docs":{
          "identifier":"system-cpi",
-"parent":"sistema"
+"parent" : "system"
 }
 },
 "última modificação":"2023/10/18"

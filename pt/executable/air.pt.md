@@ -14,11 +14,11 @@
 "toc": true,
   "description":"Aprenda sobre o formato de arquivo do AIR e as APIs que podem criar e abrir arquivos do AIR.",
 "title": "Formato de arquivo AIR - Arquivo do pacote de instalação do Adobe AIR",
-"linktitle": "AR",
+"linktitle": "AIR",
   "menu": {
     "docs": {
       "identifier": "executable-air",
-"parent": "executável"
+"parent" : "executable"
 }
 },
 "último mod": "01/02/2023"

@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-gxt",
-"parent": "configurações"
+"parent" : "settings"
 }
 },
 "último mod": "2023-03-21"

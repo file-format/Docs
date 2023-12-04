@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "database-bak-sqlserver",
-"parent": "banco de dados"
+"parent" : "database"
 }
 },
 "último mod": "12/06/2023"

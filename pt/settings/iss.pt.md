@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-iss",
-"parent": "configurações"
+"parent" : "settings"
 }
 },
 "último mod": "28/03/2023"

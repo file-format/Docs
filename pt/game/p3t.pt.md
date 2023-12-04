@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "game-p3t",
-"parent": "jogo"
+"parent" : "game"
 }
 },
 "último mod": "04/05/2023"

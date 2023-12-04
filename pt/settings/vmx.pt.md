@@ -22,7 +22,7 @@
   "menu": {
     "docs": {
       "identifier": "settings-vmx",
-"parent": "configurações"
+"parent" : "settings"
 }
 },
 "último mod": "08/06/2023"

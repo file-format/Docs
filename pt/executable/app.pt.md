@@ -15,11 +15,11 @@
 "toc": true,
   "description":"Aprenda sobre o formato de arquivo APP e APIs que podem criar e abrir arquivos APP.",
 "title": "Formato de arquivo APP - pacote de aplicativos macOS",
-"linktitle": "APLICATIVO",
+"linktitle": "APP",
   "menu": {
     "docs": {
       "identifier": "executable-app",
-"parent": "executável"
+"parent" : "executable"
 }
 },
 "último mod": "02/02/2023"

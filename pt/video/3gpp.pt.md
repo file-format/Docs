@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "video-3gpp",
-"parent": "vídeo"
+"parent" : "video"
 }
 },
 "último mod": "30/05/2023"

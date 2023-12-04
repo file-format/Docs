@@ -20,7 +20,7 @@
   "menu": {
     "docs": {
       "identifier": "database-udb",
-"parent": "banco de dados"
+"parent" : "database"
 }
 },
 "último mod": "05/09/2023"

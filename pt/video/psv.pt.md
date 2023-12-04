@@ -19,7 +19,7 @@
   "menu": {
     "docs": {
       "identifier": "video-psv",
-"parent": "vídeo"
+"parent" : "video"
 }
 },
 "último mod": "12/07/2023"

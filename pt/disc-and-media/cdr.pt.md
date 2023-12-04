@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"disc-and-media-cdr",
-"parent":"disco e mídia"
+"parent" : "disc-and-media"
 }
 },
 "última modificação":"2023/10/18"

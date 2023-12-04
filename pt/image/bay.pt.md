@@ -21,7 +21,7 @@
   "menu": {
     "docs": {
       "identifier": "image-bay",
-"parent": "imagem"
+"parent" : "image"
 }
 },
 "último mod": "15/06/2023"

@@ -16,11 +16,11 @@
 "toc": true,
 "title": "Formato de arquivo de TI - Módulo Impulse Tracker",
   "description":"Aprenda sobre formatos de TI e APIs que podem criar e abrir arquivos de TI.",
-"linktitle": "TI",
+"linktitle": "IT",
   "menu": {
     "docs": {
       "identifier": "audio-it",
-"parent": "áudio"
+"parent" : "audio"
 }
 },
 "último mod": "15/06/2023"

@@ -21,7 +21,7 @@
    "menu":{
       "docs":{
          "identifier":"game-pk3-quake3",
-"parent":"jogo"
+"parent" : "game"
 }
 },
 "último mod":"01/11/2023"

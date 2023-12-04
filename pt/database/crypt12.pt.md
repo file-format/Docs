@@ -18,7 +18,7 @@
   "menu": {
     "docs": {
       "identifier": "database-crypt12",
-"parent": "banco de dados"
+"parent" : "database"
 }
 },
 "último mod": "14/03/2023"
