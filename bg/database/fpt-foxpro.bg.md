@@ -1,31 +1,31 @@
 {
-  "date": "2023-06-12",
+"дата": "2023-06-12",
   "keywords": [
-    "fpt",
-    "fpt file",
-    "foxpro fpt file",
-    "FoxPro Table Memo",
-    "what is an fpt file",
-    "how to open fpt file",
-    "file",
-    "fpt file extension",
-    "extension"
-  ],
+"fpt",
+"fpt файл",
+"foxpro fpt файл",
+"Бележка за таблица на FoxPro",
+"какво е fpt файл",
+"как да отворя fpt файл",
+"файл",
+"fpt файлово разширение",
+"разширение"
+],
   "author": {
-    "display_name": "Shakeel Faiz"
-  },
-  "draft": "false",
-  "toc": true,
-  "title": "FPT File Format - FoxPro Table Memo",
-  "description": "Научете за FPT FoxPro формата и API, които могат да създават и отварят FPT файлове.",
-  "linktitle": "FPT FoxPro",
+"показвано_име": "Шакил Фейз"
+},
+"draft": "false",
+"toc": true,
+"title": "FPT файлов формат - FoxPro Table Memo",
+  "description":"Научете за формата FPT FoxPro и API, които могат да създават и отварят FPT файлове.",
+"linktitle": "FPT FoxPro",
   "menu": {
     "docs": {
       "identifier": "database-fpt-foxpro",
       "parent": "database"
-    }
-  },
-  "lastmod": "2023-06-12"
+}
+},
+"lastmod": "2023-06-12"
 }
 
 ## Какво е FPT файл?
@@ -63,12 +63,13 @@ FPT файлът е свързан с FoxPro, която е система за 
 
 Програмите, които отварят FPT файлове, включват
 
-- Microsoft Visual FoxPro (Paid)
+- Microsoft Visual FoxPro (платен)
 
 ## Други FPT файлове
 
-- [FPT - Alpha Five Table Memo File](/database/fpt-alphafive/)
-- [FPT - FileMaker Pro Database Memo File](/database/fpt/)
+- [FPT - Alpha Five Table Memo File](/bg/database/fpt-alphafive/)
+- [FPT - FileMaker Pro Database Memo File](/bg/database/fpt/)
 
 ## Препратки
 * [Visual FoxPro](https://en.wikipedia.org/wiki/Visual_FoxPro)
+

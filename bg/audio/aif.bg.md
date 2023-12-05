@@ -1,31 +1,31 @@
 {
-  "date": "2023-05-30",
+"дата": "2023-05-30",
   "keywords": [
-    "aif file",
-    "what is a aif file",
-    "how to open aif file",
-    "what is the file structure of aif file",
-    "what does aif file contain",
-    "what is the format of aif file",
-    "file",
-    "aif file extension",
-    "extension"
-  ],
+"aif файл",
+"какво е aif файл",
+"как да отворя aif файл",
+"каква е файловата структура на aif файла",
+"какво съдържа aif файлът",
+"какъв е форматът на aif файла",
+"файл",
+"aif файлово разширение",
+"разширение"
+],
   "author": {
-    "display_name": "Shakeel Faiz"
-  },
-  "draft": "false",
-  "toc": true,
-  "title": "AIF File Format - Audio Interchange File Format",
-  "description": "Научете за AIF формата и API, които могат да създават и отварят AIF файлове.",
-  "linktitle": "AIF",
+"показвано_име": "Шакил Фейз"
+},
+"draft": "false",
+"toc": true,
+"title": "AIF файлов формат - аудио формат за обмен на файлове",
+  "description":"Научете за AIF формата и API, които могат да създават и отварят AIF файлове.",
+"linktitle": "AIF",
   "menu": {
     "docs": {
       "identifier": "audio-aif",
       "parent": "audio"
-    }
-  },
-  "lastmod": "2023-05-30"
+}
+},
+"lastmod": "2023-05-30"
 }
 
 ## Какво е AIF файл?
@@ -73,17 +73,18 @@ AIF (Audio Interchange File Format) файл съдържа аудио данн�
 
 AIF (файлов формат за обмен на аудио) има специфичен файлов формат, който определя как данните се структурират и съхраняват във файла. Ето общ преглед на файловия формат AIF.
 
-- **File Header:**
-- **Chunks:**
+- **Заглавка на файла:**
+- **Чънкове:**
   - FORM Chunk:
   - COMM Chunk:
   - SSND Chunk:
   - Optional Chunks:
-- **Padding:**
+- **Попълване:**
 
 ## Какво е MIME тип AIF файл?
 
-- `audio/aiff`
+- `аудио/aiff`
 
 ## Препратки
-* [Audio Interchange File Format](https://en.wikipedia.org/wiki/Audio_Interchange_File_Format)
+* [Файлов формат за обмен на аудио](https://en.wikipedia.org/wiki/Audio_Interchange_File_Format)
+

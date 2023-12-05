@@ -1,30 +1,30 @@
 {
-  "date": "2023-09-05",
+"дата": "2023-09-05",
   "keywords": [
-    "jet",
-    "jet file",
-    "what is a jet file",
-    "JET Microsoft Access database file",
-    "how to open jet file",
-    "file",
-    "jet file extension",
-    "extension"
-  ],
+"струя",
+"струен файл",
+"какво е джет файл",
+"Файл с база данни на JET Microsoft Access",
+"как да отворя jet файл",
+"файл",
+"разширение на jet файл",
+"разширение"
+],
   "author": {
-    "display_name": "Shakeel Faiz"
-  },
-  "draft": "false",
-  "toc": true,
-  "title": "JET File Format - Microsoft JET Database File",
-  "description": "Научете за JET формата и API, които могат да създават и отварят JET файлове.",
-  "linktitle": "JET",
+"показвано_име": "Шакил Фейз"
+},
+"draft": "false",
+"toc": true,
+"title": "JET файлов формат - Microsoft JET файл с база данни",
+  "description":"Научете за JET формата и API, които могат да създават и отварят JET файлове.",
+"linktitle": "JET",
   "menu": {
     "docs": {
       "identifier": "database-jet",
       "parent": "database"
-    }
-  },
-  "lastmod": "2023-09-05"
+}
+},
+"lastmod": "2023-09-05"
 }
 
 ## Какво е JET файл?
@@ -72,11 +72,13 @@
 
 Програмите, които отварят или препращат към JET файлове, включват
 
-- Microsoft Access 365 (Free Trial)
+- Microsoft Access 365 (безплатна пробна версия)
 
 ## Други JET файлове
 
-- [JET - The Jackbox Party Pack Settings](/settings/jet/)
+- [JET - Настройки на Jackbox Party Pack](/bg/settings/jet/)
+
 
 ## Препратки
 * [Access Database Engine](https://en.wikipedia.org/wiki/Access_Database_Engine)
+

@@ -1,34 +1,34 @@
 {
-  "date": "2023-09-05",
+"дата": "2023-09-05",
   "keywords": [
-    "udb",
-    "udb file",
-    "what is a udb file",
-    "how to open udb file",
-    "file",
-    "udb file extension",
-    "extension"
-  ],
+"удб",
+"udb файл",
+"какво е udb файл",
+"как да отворя udb файл",
+"файл",
+"udb файлово разширение",
+"разширение"
+],
   "author": {
-    "display_name": "Shakeel Faiz"
-  },
-  "draft": "false",
-  "toc": true,
-  "title": "UDB File Format - Microsoft Dynamics AX User Database File",
-  "description": "Научете за UDB формата и API, които могат да създават и отварят UDB файлове.",
-  "linktitle": "UDB",
+"показвано_име": "Шакил Фейз"
+},
+"draft": "false",
+"toc": true,
+"title": "UDB файлов формат - файл с потребителска база данни на Microsoft Dynamics AX",
+  "description":"Научете за UDB формата и API, които могат да създават и отварят UDB файлове.",
+"linktitle": "UDB",
   "menu": {
     "docs": {
       "identifier": "database-udb",
       "parent": "database"
-    }
-  },
-  "lastmod": "2023-09-05"
+}
+},
+"lastmod": "2023-09-05"
 }
 
 ## Какво е UDB файл?
 
-Файловият формат UDB, който означава „Файл на потребителската база данни на Dynamics AX“, е свързан със софтуера за управление на бизнеса на Microsoft AX, сега известен като Microsoft Dynamics 365 Finance and Operations. Този файлов формат се използва за съхраняване на важна информация, свързана с управлението на потребителите и системните компоненти в софтуера.
+Файловият формат UDB, който означава "Файл на потребителската база данни на Dynamics AX", е свързан със софтуера за управление на бизнеса на Microsoft AX, сега известен като Microsoft Dynamics 365 Finance and Operations. Този файлов формат се използва за съхраняване на важна информация, свързана с управлението на потребителите и системните компоненти в софтуера.
 
 UDB файлът обикновено включва списък с потребители, които имат достъп до системата Dynamics AX. Той също така съдържа информация за Component Object Model (COM) и Application Object Server (AOS), които са неразделни компоненти на архитектурата на Dynamics AX. COM е технология, която позволява на софтуерните компоненти да комуникират помежду си, докато AOS отговаря за обработката на логиката на приложението и управлението на клиентските връзки.
 
@@ -54,7 +54,8 @@ UDB файлът е свързан с Microsoft Dynamics AX, сега извес
 
 Програмите, които отварят или препращат към UDB файлове, включват
 
-- Microsoft Dynamics AX (Paid)
+- Microsoft Dynamics AX (платен)
 
 ## Препратки
-- [Microsoft Dynamics 365](https://en.wikipedia.org/wiki/Microsoft_Dynamics_365)
+– [Microsoft Dynamics 365](https://en.wikipedia.org/wiki/Microsoft_Dynamics_365)
+

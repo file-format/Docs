@@ -1,29 +1,29 @@
 {
-   "date":"2023-07-18",
+"дата":"2023-07-18",
    "keywords":[
-      "PAR",
-      "PAR File",
-      "how to open a par file",
-      "file",
-      "PAR file extension",
-      "extension",
-      "file"
-   ],
+"PAR",
+"PAR файл",
+"как да отворите пар файл",
+"файл",
+"PAR файлово разширение",
+"разширение",
+"файл"
+],
    "author":{
-      "display_name":"Shakeel Faiz"
-   },
-   "draft":"false",
-   "toc":true,
-   "title":"PAR File Format - Solid Edge Part File",
-   "description":"Научете за формата PAR и API, които могат да създават и отварят PAR файлове.",
-   "linktitle":"PAR",
+"display_name": "Шейкъл Фейз"
+},
+"draft": "false",
+"toc":true,
+"title": "PAR файлов формат - Solid Edge Part File",
+   "description":"Научете за PAR формата и API, които могат да създават и отварят PAR файлове.",
+"linktitle": "PAR",
    "menu":{
       "docs":{
          "identifier":"cad-par",
          "parent":"cad"
-      }
-   },
-   "lastmod":"2023-07-18"
+}
+},
+"lastmod": "2023-07-18"
 }
 
 ## Какво е PAR файл?
@@ -62,3 +62,4 @@ Solid Edge предлага изчерпателен набор от инстр�
 
 ## Препратки
 * [Solid Edge](https://en.wikipedia.org/wiki/Solid_Edge)
+

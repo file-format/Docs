@@ -1,28 +1,28 @@
 {
-  "date": "2023-04-13",
+"дата": "2023-04-13",
   "keywords": [
-    "blend file",
-    "what is a blend file",
-    "how to open blend file",
-    "file",
-    "blend file extension",
-    "extension"
-  ],
+"смесен файл",
+"какво е файл за смесване",
+"как да отворя файл за смесване",
+"файл",
+"разширение на смесен файл",
+"разширение"
+],
   "author": {
-    "display_name": "Shakeel Faiz"
-  },
-  "draft": "false",
-  "toc": true,
-  "title": "BLEND File Format - Blender 3D File",
-  "description": "Научете за BLEND формата и API, които могат да създават и отварят BLEND файлове.",
-  "linktitle": "BLEND",
+"показвано_име": "Шакил Фейз"
+},
+"draft": "false",
+"toc": true,
+"title": "BLEND файлов формат - Blender 3D файл",
+  "description":"Научете за BLEND формата и API, които могат да създават и отварят BLEND файлове.",
+"linktitle": "СМЕС",
   "menu": {
     "docs": {
       "identifier": "3d-blend",
       "parent": "3d"
-    }
-  },
-  "lastmod": "2023-04-13"
+}
+},
+"lastmod": "2023-04-13"
 }
 
 ## Какво е BLEND файл?
@@ -54,4 +54,5 @@ Blender предоставя няколко опции за управление
 Можете да отворите BLEND файл, като стартирате Blender и след това щракнете върху менюто "Файл" и изберете "Отвори" от падащото меню. Като алтернатива можете просто да плъзнете и пуснете файла за смесване в софтуера на Blender и той ще отвори файла за смесване.
 
 ## Препратки
-* [Blender (software)](https://en.wikipedia.org/wiki/Blender_(software))
+* [Blender (софтуер)](https://en.wikipedia.org/wiki/Blender_(софтуер))
+

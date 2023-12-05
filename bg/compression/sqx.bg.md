@@ -1,28 +1,28 @@
 {
-  "date": "2023-05-22",
+"дата": "2023-05-22",
   "keywords": [
-    "sqx file",
-    "what is a sqx file",
-    "what is the format of sqx file",
-    "file",
-    "sqx file extension",
-    "extension"
-  ],
+"sqx файл",
+"какво е sqx файл",
+"какъв е форматът на sqx файла",
+"файл",
+"sqx файлово разширение",
+"разширение"
+],
   "author": {
-    "display_name": "Shakeel Faiz"
-  },
-  "draft": "false",
-  "toc": true,
-  "title": "SQX File Format - SQX Archive",
-  "description": "Научете за SQX формата и API, които могат да създават и отварят SQX файлове.",
-  "linktitle": "SQX",
+"показвано_име": "Шакил Фейз"
+},
+"draft": "false",
+"toc": true,
+"title": "SQX файлов формат - SQX архив",
+  "description":"Научете за SQX формата и API, които могат да създават и отварят SQX файлове.",
+"linktitle": "SQX",
   "menu": {
     "docs": {
       "identifier": "compression-sqx",
       "parent": "compression"
-    }
-  },
-  "lastmod": "2023-05-22"
+}
+},
+"lastmod": "2023-05-22"
 }
 
 ## Какво е SQX файл?
@@ -49,3 +49,4 @@ SQX Archiver използва патентован формат за своит�
 
 ## Препратки
 * [SQX](https://en.wikipedia.org/wiki/SQX)
+

@@ -1,35 +1,35 @@
 {
-  "date": "2023-05-24",
+"дата": "2023-05-24",
   "keywords": [
-    "xip file",
-    "what is a xip file",
-    "how to open xip fie",
-    "what does xip file contain",
-    "what is the format of xip file",
-    "file",
-    "xip file extension",
-    "extension"
-  ],
+"xip файл",
+"какво е xip файл",
+"как да отворя xip fie",
+"какво съдържа xip файлът",
+"какъв е форматът на xip файла",
+"файл",
+"xip файлово разширение",
+"разширение"
+],
   "author": {
-    "display_name": "Shakeel Faiz"
-  },
-  "draft": "false",
-  "toc": true,
-  "title": "XIP File Format - MacOS Signed Archive",
-  "description": "Научете за XIP формата и API, които могат да създават и отварят XIP файлове.",
-  "linktitle": "XIP",
+"показвано_име": "Шакил Фейз"
+},
+"draft": "false",
+"toc": true,
+"title": "XIP файлов формат - MacOS подписан архив",
+  "description":"Научете за XIP формата и API, които могат да създават и отварят XIP файлове.",
+"linktitle": "XIP",
   "menu": {
     "docs": {
       "identifier": "compression-xip",
       "parent": "compression"
-    }
-  },
-  "lastmod": "2023-05-24"
+}
+},
+"lastmod": "2023-05-24"
 }
 
 ## Какво е XIP файл?
 
-.xip файлът е компресиран архивен формат, често използван в macOS. Това означава „Xcode Archive“ и се свързва основно със средата за разработка Xcode на Apple.
+.xip файлът е компресиран архивен формат, често използван в macOS. Това означава "Xcode Archive" и се свързва основно със средата за разработка Xcode на Apple.
 
 Файловият формат .xip се използва за разпространение на софтуер, особено Xcode приложения или актуализации в компресирана форма. Той съчетава предимствата на традиционните архивни файлове (като .zip или .tar) с допълнителната сигурност на цифровия подпис.
 
@@ -61,4 +61,5 @@
 Въпреки това, за разлика от обикновения .zip файл, .xip форматът включва цифров подпис, който осигурява проверка на целостта и автентичността. Този подпис гарантира, че съдържанието на .xip файла не е било манипулирано и е от доверен източник.
 
 ## Препратки
-* [XIP File Format](https://en.wikipedia.org/wiki/.XIP)
+* [XIP файлов формат](https://en.wikipedia.org/wiki/.XIP)
+

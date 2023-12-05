@@ -1,30 +1,30 @@
 {
-  "date": "2023-06-12",
+"дата": "2023-06-12",
   "keywords": [
-    "bak",
-    "bak file",
-    "Microsoft SQL Server Database Backup",
-    "what is a bak file",
-    "how to open bak file",
-    "file",
-    "bak file extension",
-    "extension"
-  ],
+"бак",
+"bak файл",
+"Архивиране на база данни на Microsoft SQL Server",
+"какво е bak файл",
+"как да отворя bak файл",
+"файл",
+"разширение на bak файл",
+"разширение"
+],
   "author": {
-    "display_name": "Shakeel Faiz"
-  },
-  "draft": "false",
-  "toc": true,
-  "title": "BAK File Format - Microsoft SQL Server Database Backup",
-  "description": "Научете за формата за архивиране на BAK SQL Server и API, които могат да създават и отварят BAK файлове.",
-  "linktitle": "BAK SQL Server",
+"показвано_име": "Шакил Фейз"
+},
+"draft": "false",
+"toc": true,
+"title": "BAK файлов формат - архивиране на база данни на Microsoft SQL Server",
+  "description":"Научете за формата за архивиране на BAK SQL Server и API, които могат да създават и отварят BAK файлове.",
+"linktitle": "BAK SQL сървър",
   "menu": {
     "docs": {
       "identifier": "database-bak-sqlserver",
       "parent": "database"
-    }
-  },
-  "lastmod": "2023-06-12"
+}
+},
+"lastmod": "2023-06-12"
 }
 
 ## Какво е BAK файл?
@@ -67,25 +67,25 @@ FROM DISK = 'C:\Path\To\Your\BackupFile.bak'
 
 3. **Възстановяване на база данни**:
 
-    а. В панела Object Explorer от лявата страна разгънете екземпляра на SQL Server.
+а. В панела Object Explorer от лявата страна разгънете екземпляра на SQL Server.
 
-    b. Разгънете възела „Бази данни“.
+b. Разгънете възела "Бази данни".
 
-    ° С. Щракнете с десния бутон върху „Бази данни“ и изберете „Възстановяване на база данни“.
+° С. Щракнете с десния бутон върху "Бази данни" и изберете "Възстановяване на база данни".
 
 4. **Посочете източник и дестинация**:
 
-    а. В страницата „Общи“ на диалоговия прозорец „Възстановяване на база данни“ въведете име за новата база данни в полето „Към база данни“. Това ще бъде името на възстановената база данни.
+а. В страницата "Общи" на диалоговия прозорец "Възстановяване на база данни" въведете име за новата база данни в полето "Към база данни". Това ще бъде името на възстановената база данни.
 
-    b. В секцията „Източник“ изберете „Устройство“ като тип носител за архивиране.
+b. В секцията "Източник" изберете "Устройство" като тип носител за архивиране.
 
-    ° С. Щракнете върху бутона "..." до полето "Устройство", за да прегледате файла ".bak", който искате да възстановите.
+° С. Щракнете върху бутона "..." до полето "Устройство", за да прегледате файла ".bak", който искате да възстановите.
 
-    д. Изберете файла „.bak“, който искате да отворите, и щракнете върху „OK“.
+д. Изберете файла ".bak", който искате да отворите, и щракнете върху "OK".
 
 5. **Опции за възстановяване**: Прегледайте и конфигурирайте опциите за възстановяване според нуждите. Можете да посочите дали да презапишете съществуваща база данни, да зададете опции за възстановяване и др. Уверете се, че сте задали тези опции според вашите изисквания.
 
-6. **Започнете възстановяването**: След като конфигурирате опциите за възстановяване, щракнете върху бутона „OK“ в диалоговия прозорец „Възстановяване на база данни“. SQL Server ще започне процеса на възстановяване.
+6. **Започнете възстановяването**: След като конфигурирате опциите за възстановяване, щракнете върху бутона "OK" в диалоговия прозорец "Възстановяване на база данни". SQL Server ще започне процеса на възстановяване.
 
 7. **Достъп до възстановената база данни**: След успешно възстановяване можете да получите достъп до възстановената база данни в SQL Server Management Studio точно както всяка друга база данни. Можете да изпълнявате заявки, да преглеждате таблици и да работите с данните в базата данни.
 
@@ -93,22 +93,22 @@ FROM DISK = 'C:\Path\To\Your\BackupFile.bak'
 
 Ето други типове файлове, които използват файловото разширение **.bak**.
 
-**Database**
-- [BAK - Database Backup File](/database/bak/)
-- [BAK - Swiftpage Act! Database Backup](/database/bak-act/)
+**База данни**
+- [BAK - Файл за архивиране на база данни](/bg/database/bak/)
+- [BAK - Закон за Swiftpage! Архивиране на база данни](/bg/база данни/bak-act/)
 
-**Game**
-- [BAK - Terraria World or Player Backup](/game/bak-terraria/)
+**Игра**
+- [BAK - Terraria World или резервно копие на играч](/bg/game/bak-terraria/)
 
-**Misc**
-- [BAK - Backup File](/misc/bak-backup/)
-- [BAK - Chromium Bookmarks Backup](/misc/bak-chromium/)
-- [BAK - Finale 2012 Score Backup](/misc/bak-finale/)
-- [BAK - MobileTrans Backup](/misc/bak-mobiletrans/)
-- [BAK - VEGAS Video Project Backup](/misc/bak-vegas/)
+**Разни**
+- [BAK - архивен файл](/bg/misc/bak-backup/)
+- [BAK - Архивиране на отметки на Chromium](/bg/misc/bak-chromium/)
+- [BAK - Архивиране на резултатите от финала 2012](/bg/misc/bak-finale/)
+- [BAK - MobileTrans Backup](/bg/misc/bak-mobiletrans/)
+- [BAK - Архивиране на видео проект на VEGAS](/bg/misc/bak-vegas/)
 
-**Settings**
-- [BAK - Holo Launcher Backup](/settings/bak-holo/)
+**Настройки**
+- [BAK - Архивиране на Holo Launcher](/bg/settings/bak-holo/)
 
 ## Препратки
 * [Backup and restore a SQL Server database with SSMS](https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/quickstart-backup-restore-database?view=sql-server-ver16&tabs=ssms)
