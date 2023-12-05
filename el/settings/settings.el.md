@@ -14,7 +14,7 @@
 "toc": true,
 "title": "ΡΥΘΜΙΣΕΙΣ Μορφή αρχείου - Αρχείο ρυθμίσεων του Visual Studio",
   "description":"Μάθετε σχετικά με τη μορφή SETTINGS και τα API που μπορούν να δημιουργήσουν και να ανοίξουν αρχεία SETTINGS.",
-"linktitle": "ΡΥΘΜΙΣΕΙΣ",
+"linktitle": "SETTINGS",
   "menu": {
     "docs": {
       "identifier": "settings-settings",

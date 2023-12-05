@@ -15,7 +15,7 @@
 "toc": true,
 "title": "ΛΗΨΗ Μορφής αρχείου - Μη ολοκληρωμένη λήψη αρχείου Pando",
   "description":"Μάθετε σχετικά με τη μορφή ΛΗΨΗΣ και τα API που μπορούν να δημιουργήσουν και να ανοίξουν αρχεία ΛΗΨΗΣ.",
-"linktitle": "ΛΗΨΗ",
+"linktitle": "DOWNLOADING",
   "menu": {
     "docs": {
       "identifier": "misc-downloading",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "THEME Μορφή αρχείου - Microsoft Plus! Θέμα επιφάνειας εργασίας",
   "description":"Μάθετε για τη μορφή THEME και τα API που μπορούν να δημιουργήσουν και να ανοίξουν αρχεία THEME.",
-"linktitle": "ΘΕΜΑ",
+"linktitle": "THEME",
   "menu": {
     "docs": {
       "identifier": "settings-theme",
