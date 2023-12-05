@@ -16,7 +16,7 @@
 "toc": true,
 "title": "MCPACK Dosya Formatı - Minecraft Bedrock Sürümü Eklentisi",
   "description":"MCPACK formatı ve MCPACK dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "MCPACK",
+"linktitle" : "MCPACK",
   "menu": {
     "docs": {
       "identifier": "game-mcpack",

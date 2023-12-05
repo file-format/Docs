@@ -16,7 +16,7 @@
 "toc": true,
 "title": "THEME Dosya Formatı - Microsoft Plus! Masaüstü Teması",
   "description":"THEME formatı ve THEME dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "TEMA",
+"linktitle" : "THEME",
   "menu": {
     "docs": {
       "identifier": "settings-theme",

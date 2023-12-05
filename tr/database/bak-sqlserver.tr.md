@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK Dosya Formatı - Microsoft SQL Server Veritabanı Yedeklemesi",
   "description":"BAK SQL Server Yedekleme formatı ve BAK dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "BAK SQL Sunucusu",
+"linktitle" : "BAK SQL Server",
   "menu": {
     "docs": {
       "identifier": "database-bak-sqlserver",

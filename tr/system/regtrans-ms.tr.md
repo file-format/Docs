@@ -14,7 +14,7 @@
 "toc": true,
 "title": "REGTRANS-MS Dosya Formatı - Kayıt Defteri İşlem Günlük Dosyası",
   "description":"REGTRANS-MS formatı ve REGTRANS-MS dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "REGTRANS-MS",
+"linktitle" : "REGTRANS-MS",
   "menu": {
     "docs": {
       "identifier": "system-regtrans-ms",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "SQX Dosya Formatı - SQX Arşivi",
   "description":"SQX formatı ve SQX dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "SQX",
+"linktitle" : "SQX",
   "menu": {
     "docs": {
       "identifier": "compression-sqx",

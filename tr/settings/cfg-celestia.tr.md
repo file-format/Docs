@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CFG Dosya Formatı - Celestia Yapılandırma Dosyası",
   "description":"CFG Celestia Yapılandırma Dosyası formatı ve CFG dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "CFG Celestia",
+"linktitle" : "CFG Celestia",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-celestia",

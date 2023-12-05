@@ -16,7 +16,7 @@
 "toc": true,
 "title": "DXB Dosya Formatı - Çizim Değişimi İkili Programı",
   "description":"DXB formatı ve DXB dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "DXB",
+"linktitle" : "DXB",
   "menu": {
     "docs": {
       "identifier": "cad-dxb",

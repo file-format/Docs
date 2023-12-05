@@ -15,7 +15,7 @@
 "toc": true,
 "title": "ISS Dosya Formatı - Inno Kurulum Komut Dosyası",
   "description":"ISS dosyalarını oluşturabilen ve açabilen ISS formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "ISS",
+"linktitle" : "ISS",
   "menu": {
     "docs": {
       "identifier": "settings-iss",

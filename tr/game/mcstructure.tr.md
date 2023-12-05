@@ -16,7 +16,7 @@
 "toc": true,
 "title": "MCSTRUCTURE Dosya Formatı - Minecraft Yapı Dosyası",
   "description":"MCSTRUCTURE formatı ve MCSTRUCTURE dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "MCSTRUCTURE",
+"linktitle" : "MCSTRUCTURE",
   "menu": {
     "docs": {
       "identifier": "game-mcstructure",

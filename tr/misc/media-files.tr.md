@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Medya Dosyaları Nedir? Türleri, Formatları ve Dijital İletişime Etkileri",
   "description":"Medya Dosyaları, Türleri, Formatları ve Dijital İletişim Üzerindeki Etkisi hakkında bilgi edinin.",
-"linktitle": "MEDYA DOSYALARI",
+"linktitle" : "MEDIA FILES",
   "menu": {
     "docs": {
       "identifier": "misc-media-files",

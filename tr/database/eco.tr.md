@@ -16,7 +16,7 @@
 "toc": true,
 "title": "ECO Dosya Formatı - ECCO Veritabanı Dosyası",
   "description":"ECO dosyalarını oluşturabilen ve açabilen ECO formatı ve API'ler hakkında bilgi edinin.",
-"linktitle": "EKO",
+"linktitle" : "ECO",
   "menu": {
     "docs": {
       "identifier": "database-eco",

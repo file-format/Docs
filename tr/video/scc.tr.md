@@ -18,7 +18,7 @@
 "toc": true,
 "title": "SCC Dosya Formatı - ScreenFlow Ekran Kaydı",
   "description":"SCC dosyalarını oluşturabilen ve açabilen SCC formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "SCC",
+"linktitle" : "SCC",
   "menu": {
     "docs": {
       "identifier": "video-scc",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "NOMEDIA Dosya Formatı - Android Medya Dosyası Yok",
   "description":"NOMEDIA formatı ve NOMEDIA dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "NOMEDIA",
+"linktitle" : "NOMEDIA",
   "menu": {
     "docs": {
       "identifier": "misc-nomedia",

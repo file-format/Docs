@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CFG Dosya Formatı - MUGEN Yapılandırma Dosyası",
   "description":"CFG MUGEN Yapılandırma Dosyası formatı ve CFG dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "CFG MUGEN",
+"linktitle" : "CFG M.U.G.E.N",
   "menu": {
     "docs": {
       "identifier": "game-cfg-mugen",

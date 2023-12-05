@@ -17,7 +17,7 @@
 "toc": true,
 "title":"CDR Dosyası - Kilitlenme Verisi Alma Veri Dosyası - .cdr dosyası nedir ve onu nasıl açarım?",
    "description":"CDR Crash Data Retrieval Data dosya formatı ve CDR dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"CDR",
+"linktitle" : "CDR",
    "menu":{
       "docs":{
          "identifier":"data-cdr-crash",

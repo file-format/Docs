@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CHEAT Dosya Formatı - Navi Hile Sayfası",
   "description":"CHEAT dosyalarını oluşturabilen ve açabilen CHEAT formatı ve API'ler hakkında bilgi edinin.",
-"linktitle": "HİLE",
+"linktitle" : "CHEAT",
   "menu": {
     "docs": {
       "identifier": "executable-cheat",

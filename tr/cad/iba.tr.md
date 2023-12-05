@@ -14,7 +14,7 @@
 "toc": true,
 "title": "IBA Dosya Formatı - Lectra Giyim Tasarım Parçaları Dosyası",
   "description":"IBA dosya formatı ve IBA dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "IBA",
+"linktitle" : "IBA",
   "menu": {
     "docs": {
       "identifier": "cad-iba",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "SF2 Dosya Formatı - SoundFont 2 Ses Bankası",
   "description":"SF2 dosya formatı ve SF2 dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "SF2",
+"linktitle" : "SF2",
   "menu": {
     "docs": {
       "identifier": "audio-sf2",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BMS Dosya Formatı - QuickBMS Komut Dosyası",
   "description":"BMS formatı ve BMS dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "BMS",
+"linktitle" : "BMS",
   "menu": {
     "docs": {
       "identifier": "executable-bms",

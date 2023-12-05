@@ -17,7 +17,7 @@
 "toc":true,
 "title":"XCI Dosyası - .xci dosyası nedir ve nasıl açılır?",
    "description":"XCI NX Kart Görüntüsü dosya formatı ve XCI dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"XCI",
+"linktitle" : "XCI",
    "menu":{
       "docs":{
          "identifier":"game-xci",

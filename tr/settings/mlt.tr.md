@@ -17,7 +17,7 @@
 "toc": true,
 "title": "MLT Dosya Formatı - Shotcut Projesi",
   "description":"MLT Shotcut Project formatı ve MLT dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "MLT",
+"linktitle" : "MLT",
   "menu": {
     "docs": {
       "identifier": "settings-mlt",

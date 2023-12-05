@@ -16,7 +16,7 @@
 "toc": true,
 "title": "CC Dosya Formatı - C++ Kaynak Kodu Dosyası",
   "description":"CC dosyalarını oluşturabilen ve açabilen CC formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "CC",
+"linktitle" : "CC",
   "menu": {
     "docs": {
       "identifier": "programming-cc",

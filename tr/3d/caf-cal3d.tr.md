@@ -17,7 +17,7 @@
 "toc": true,
 "title":"CAF Dosya Formatı - Cal3D İkili Animasyon Dosyası",
    "description":"CAF Cal3D İkili Animasyon Dosyası formatı ve CAF dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"CAF Cal3D",
+"linktitle" : "CAF Cal3D",
    "menu":{
       "docs":{
          "identifier":"3d-caf-cal3d",

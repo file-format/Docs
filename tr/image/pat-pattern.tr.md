@@ -17,7 +17,7 @@
 "toc":true,
 "title":"PAT Dosya Formatı - Desen Dosyası",
    "description":"PAT Kalıbı dosya formatı ve PAT dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"PAT Modeli",
+"linktitle" : "PAT Pattern",
    "menu":{
       "docs":{
          "identifier":"image-pat-pattern",

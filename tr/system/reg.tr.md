@@ -14,7 +14,7 @@
 "toc": true,
 "title": "REG Dosya Formatı - Windows Kayıt Defteri Dosyası",
   "description":"REG dosyalarını oluşturabilen ve açabilen REG formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "REG",
+"linktitle" : "REG",
   "menu": {
     "docs": {
       "identifier": "system-reg",

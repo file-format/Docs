@@ -16,7 +16,7 @@
 "toc": true,
 "title": "BT Dosya Formatı - Darbe Takip Modülü",
   "description":"BT dosyalarını oluşturabilen ve açabilen BT formatı ve API'ler hakkında bilgi edinin.",
-"linktitle": "BT",
+"linktitle" : "IT",
   "menu": {
     "docs": {
       "identifier": "audio-it",

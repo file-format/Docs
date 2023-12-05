@@ -14,7 +14,7 @@
 "toc": true,
 "title": "OSS Dosya Formatı - Microsoft Outlook Kayıtlı Arama Dosyası",
   "description":"OSS dosyalarını oluşturabilen ve açabilen OSS formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "OSS",
+"linktitle" : "OSS",
   "menu": {
     "docs": {
       "identifier": "settings-oss",

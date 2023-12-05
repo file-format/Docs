@@ -16,7 +16,7 @@
 "toc": true,
 "title": "EPK Dosya Formatı - Eaglercraft Varlık Paketi",
   "description":"EPK dosyalarını oluşturabilen ve açabilen EPK formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "EPK",
+"linktitle" : "EPK",
   "menu": {
     "docs": {
       "identifier": "game-epk",

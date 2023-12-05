@@ -16,7 +16,7 @@
 "toc": true,
 "title": "SCWORLD Dosya Formatı - Survivalcraft Dünya Dosyası",
   "description":"SCWORLD formatı ve SCWORLD dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantıbaşlığı": "SCWORLD",
+"linktitle" : "SCWORLD",
   "menu": {
     "docs": {
       "identifier": "game-scworld",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "EFS Dosya Formatı - Ensoniq SQ-80 Dosyası",
   "description":"EFS dosya formatı ve EFS dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "EFS",
+"linktitle" : "EFS",
   "menu": {
     "docs": {
       "identifier": "audio-efs",

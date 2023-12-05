@@ -16,7 +16,7 @@
 "toc": true,
 "title": "PRPROJ Dosya Formatı - Adobe Premiere Pro Projesi",
   "description":"PRPROJ dosya formatı ve PRPROJ dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantıbaşlığı": "PRPROJ",
+"linktitle" : "PRPROJ",
   "menu": {
     "docs": {
       "identifier": "video-prproj",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "PEF Dosya Formatı - Pentax Elektronik Dosyası",
   "description":"PEF dosyalarını oluşturabilen ve açabilen PEF formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "PEF",
+"linktitle" : "PEF",
   "menu": {
     "docs": {
       "identifier": "image-pef",

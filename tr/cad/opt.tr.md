@@ -15,7 +15,7 @@
 "toc": true,
 "title": "OPT Dosya Formatı - Opterecenja Dosyası",
   "description":"OPT dosya formatı ve OPT dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantıbaşlığı": "OPT",
+"linktitle" : "OPT",
   "menu": {
     "docs": {
       "identifier": "cad-opt",

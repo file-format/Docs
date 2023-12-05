@@ -16,7 +16,7 @@
 "toc": true,
 "title": "CSX Dosya Formatı - Visual C# Komut Dosyası",
   "description":"CSX formatı ve CSX dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "CSX",
+"linktitle" : "CSX",
   "menu": {
     "docs": {
       "identifier": "programming-csx",

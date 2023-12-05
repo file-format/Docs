@@ -16,7 +16,7 @@
 "toc": true,
 "title": "PAN Dosya Formatı - Panorama Veritabanı Dosyası",
   "description":"PAN dosyalarını oluşturabilen ve açabilen PAN formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "PAN",
+"linktitle" : "PAN",
   "menu": {
     "docs": {
       "identifier": "database-pan",

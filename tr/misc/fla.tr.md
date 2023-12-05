@@ -17,7 +17,7 @@
 "toc": true,
 "title": "FLA Dosya Formatı - Adobe Animate Animation",
   "description":"FLA formatı ve FLA dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "FLA",
+"linktitle" : "FLA",
   "menu": {
     "docs": {
       "identifier": "misc-fla",

@@ -17,7 +17,7 @@
 "toc": true,
 "title":"BIN Dosya Formatı - BlackBerry IT Politika Dosyası",
    "description":"BIN dosyalarını oluşturabilen ve açabilen BIN formatı ve API'ler hakkında bilgi edinin.",
-"linktitle":"ÇÖZÜM",
+"linktitle" : "BIN",
    "menu":{
       "docs":{
          "identifier":"settings-bin",

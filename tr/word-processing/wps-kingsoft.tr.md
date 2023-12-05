@@ -17,7 +17,7 @@
 "toc": true,
 "title": "WPS Dosya Formatı - Kingsoft Writer Belgesi",
   "description":"WPS Kingsoft formatı ve WPS dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "WPS Kingsoft",
+"linktitle" : "WPS Kingsoft",
   "menu": {
     "docs": {
       "identifier": "word-processing-wps-kingsoft",

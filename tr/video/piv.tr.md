@@ -15,7 +15,7 @@
 "toc": true,
 "title": "PIV Dosya Formatı - Pivot Animatör Animasyonu",
   "description":"PIV dosya formatı ve PIV dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "PIV",
+"linktitle" : "PIV",
   "menu": {
     "docs": {
       "identifier": "video-piv",

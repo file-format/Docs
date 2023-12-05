@@ -16,7 +16,7 @@
 "toc": true,
 "title": "DDT Dosya Formatı - Football Manager Oyun Veri Dosyası",
   "description":"DDT formatı ve DDT dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "DDT",
+"linktitle" : "DDT",
   "menu": {
     "docs": {
       "identifier": "game-ddt",

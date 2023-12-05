@@ -15,7 +15,7 @@
 "toc": true,
 "title": "EXP Dosya Formatı - DX Serisi Dışa Aktarılan Video Dosyası",
   "description":"EXP dosyalarını oluşturabilen ve açabilen EXP formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "EXP",
+"linktitle" : "EXP",
   "menu": {
     "docs": {
       "identifier": "video-exp",

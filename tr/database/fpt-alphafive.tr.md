@@ -18,7 +18,7 @@
 "toc": true,
 "title": "FPT Dosya Formatı - Alfa Beş Tablolu Not Dosyası",
   "description":"FPT Alpha Five formatı ve FPT dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "FPT Alfa Beş",
+"linktitle" : "FPT Alpha Five",
   "menu": {
     "docs": {
       "identifier": "database-fpt-alphafive",

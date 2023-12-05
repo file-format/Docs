@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CFG Dosya Formatı - Wesnoth İşaretleme Dili Dosyası",
   "description":"CFG Wesnoth İşaretleme Dili Dosya formatı ve CFG dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "CFG Wesnoth",
+"linktitle" : "CFG Wesnoth",
   "menu": {
     "docs": {
       "identifier": "game-cfg-wesnoth",

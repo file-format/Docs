@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CB7 Dosya Formatı - Çizgi Roman 7-Zip Arşivi",
   "description":"CB7 formatı ve CB7 dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "CB7",
+"linktitle" : "CB7",
   "menu": {
     "docs": {
       "identifier": "compression-cb7",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "RB Dosya Formatı - Ruby Kaynak Kodu Dosyası",
   "description":"RB dosyalarını oluşturabilen ve açabilen RB formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "RB",
+"linktitle" : "RB",
   "menu": {
     "docs": {
       "identifier": "programming-rb",

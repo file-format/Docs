@@ -15,7 +15,7 @@
 "toc": true,
 "title": "ANI Dosya Formatı - Windows Animasyonlu İmleç",
   "description":"ANI dosyalarını oluşturabilen ve açabilen ANI formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "ANI",
+"linktitle" : "ANI",
   "menu": {
     "docs": {
       "identifier": "system-ani",

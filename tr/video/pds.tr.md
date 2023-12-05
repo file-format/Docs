@@ -15,7 +15,7 @@
 "toc": true,
 "title": "PDS Dosya Formatı - PowerDirector Komut Dosyası",
   "description":"PDS dosyalarını oluşturabilen ve açabilen PDS formatı ve API'ler hakkında bilgi edinin.",
-"bağlantıbaşlığı": "PDS",
+"linktitle" : "PDS",
   "menu": {
     "docs": {
       "identifier": "video-pds",

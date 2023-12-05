@@ -17,7 +17,7 @@
 "toc": true,
 "title":"PRT Dosyası - Sunum Şablonu - .prt dosyası nedir ve onu nasıl açarım?",
    "description":"PRT Sunum Şablonu dosya formatı ve PRT dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"PRT",
+"linktitle" : "PRT",
    "menu":{
       "docs":{
          "identifier":"data-prt-template",

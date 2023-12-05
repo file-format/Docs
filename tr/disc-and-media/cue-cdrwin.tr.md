@@ -17,7 +17,7 @@
 "toc": true,
 "title":"CUE Dosya Formatı - CDRWIN Cue Sayfası",
    "description":"CUE CDRWIN Cue Sheet dosya formatı ve CUE dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"CUE CDRWIN",
+"linktitle" : "CUE CDRWIN",
    "menu":{
       "docs":{
          "identifier":"disc-and-media-cue-cdrwin",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "OVPN Dosya Formatı - OpenVPN Yapılandırma Dosyası",
   "description":"OVPN formatı ve OVPN dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "OVPN",
+"linktitle" : "OVPN",
   "menu": {
     "docs": {
       "identifier": "settings-ovpn",

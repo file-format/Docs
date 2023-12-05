@@ -14,7 +14,7 @@
 "toc": true,
 "title": "CRYPT12 Dosya Formatı - WhatsApp Şifreli Veritabanı Dosyası",
   "description":"CRYPT12 formatı ve CRYPT12 dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "CRYPT12",
+"linktitle" : "CRYPT12",
   "menu": {
     "docs": {
       "identifier": "database-crypt12",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK Dosya Formatı - Holo Başlatıcı Yedeği",
   "description":"BAK Holo Launcher Yedekleme formatı ve BAK dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "BAK HOLO",
+"linktitle" : "BAK HOLO",
   "menu": {
     "docs": {
       "identifier": "settings-bak-holo",

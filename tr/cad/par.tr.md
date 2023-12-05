@@ -16,7 +16,7 @@
 "toc": true,
 "title":"PAR Dosya Formatı - Katı Kenar Parça Dosyası",
    "description":"PAR dosyalarını oluşturabilen ve açabilen PAR formatı ve API'ler hakkında bilgi edinin.",
-"linktitle":"PAR",
+"linktitle" : "PAR",
    "menu":{
       "docs":{
          "identifier":"cad-par",

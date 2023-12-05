@@ -15,7 +15,7 @@
 "toc": true,
 "title": "SET Dosya Formatı - Belge Kitaplığı Özellik Seti Dosyası",
   "description":"SET dosyalarını oluşturabilen ve açabilen SET formatı ve API'ler hakkında bilgi edinin.",
-"bağlantıbaşlığı": "SET",
+"linktitle" : "SET",
   "menu": {
     "docs": {
       "identifier": "settings-set",

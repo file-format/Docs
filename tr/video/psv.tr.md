@@ -15,7 +15,7 @@
 "toc": true,
 "title": "PSV Dosya Formatı - Pluralsight Video Dosyası",
   "description":"PSV dosyalarını oluşturabilen ve açabilen PSV formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "PSV",
+"linktitle" : "PSV",
   "menu": {
     "docs": {
       "identifier": "video-psv",

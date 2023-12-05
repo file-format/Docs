@@ -15,7 +15,7 @@
 "toc": true,
 "title": "STY Dosya Formatı - Yamaha veya Korg Klavye Stili",
   "description":"STY formatı ve STY dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "STY",
+"linktitle" : "STY",
   "menu": {
     "docs": {
       "identifier": "audio-sty",

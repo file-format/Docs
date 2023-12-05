@@ -15,7 +15,7 @@
 "toc": true,
 "title": "LANG Dosya Formatı - Minecraft Dil Yerelleştirme Dosyası",
   "description":"LANG dosyalarını oluşturabilen ve açabilen LANG formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "LANG",
+"linktitle" : "LANG",
   "menu": {
     "docs": {
       "identifier": "game-lang",

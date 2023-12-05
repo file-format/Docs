@@ -15,7 +15,7 @@
 "toc": true,
 "title": "AXM Dosya Formatı - FormIt Çizim Dosyası",
   "description":"AXM dosya formatı ve AXM dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantıbaşlığı": "AXM",
+"linktitle" : "AXM",
   "menu": {
     "docs": {
       "identifier": "cad-axm",

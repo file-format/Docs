@@ -15,7 +15,7 @@
 "toc": true,
 "title":"PAR Dosya Formatı - Özel Mikro DVR Kaydı",
    "description":"PAR dosyalarını oluşturabilen ve açabilen PAR formatı ve API'ler hakkında bilgi edinin.",
-"linktitle":"PAR",
+"linktitle" : "PAR",
    "menu":{
       "docs":{
          "identifier":"video-par",

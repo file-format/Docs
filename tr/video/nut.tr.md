@@ -15,7 +15,7 @@
 "toc": true,
 "title": "NUT Dosya Formatı - NUT Video Dosyası",
   "description":"NUT dosyalarını oluşturabilen ve açabilen NUT formatı ve API'ler hakkında bilgi edinin.",
-"linktitle": "SOMUN",
+"linktitle" : "NUT",
   "menu": {
     "docs": {
       "identifier": "video-nut",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "RMD Dosya Formatı - R Markdown Dosyası",
   "description":"RMD dosyalarını oluşturabilen ve açabilen RMD formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "RMD",
+"linktitle" : "RMD",
   "menu": {
     "docs": {
       "identifier": "word-processing-rmd",

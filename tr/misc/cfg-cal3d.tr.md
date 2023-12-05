@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CFG Dosya Formatı - Cal3D Model Yapılandırma Dosyası",
   "description":"CFG Cal3D Model Yapılandırma Dosyası formatı ve CFG dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "CFG Cal3D",
+"linktitle" : "CFG Cal3D",
   "menu": {
     "docs": {
       "identifier": "misc-cfg-cal3d",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "BDC Dosya Formatı - West Point Bridge Tasarımcı Tasarım Dosyası",
   "description":"BDC dosya formatı ve BDC dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "BDC",
+"linktitle" : "BDC",
   "menu": {
     "docs": {
       "identifier": "cad-bdc",

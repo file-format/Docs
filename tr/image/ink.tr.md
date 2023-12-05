@@ -17,7 +17,7 @@
 "toc":true,
 "title":"INK Dosyası - Pantone Referansı - .ink dosyası nedir ve nasıl açılır?",
    "description":"INK Pantone Referans dosya formatı ve INK dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"MÜREKKEP",
+"linktitle" : "INK",
    "menu":{
       "docs":{
          "identifier":"image-ink",

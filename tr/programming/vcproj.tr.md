@@ -17,7 +17,7 @@
 "toc": true,
 "title": "VCPROJ Dosya Formatı - Visual C++ Proje Dosyası",
   "description":"VCPROJ formatı ve VCPROJ dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantıbaşlığı": "VCPROJ",
+"linktitle" : "VCPROJ",
   "menu": {
     "docs": {
       "identifier": "programming-vcproj",

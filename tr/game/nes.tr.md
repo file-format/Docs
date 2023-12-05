@@ -16,7 +16,7 @@
 "toc": true,
 "title": "NES Dosya Formatı - Nintendo Entertainment System ROM Dosyası",
   "description":"NES dosyalarını oluşturabilen ve açabilen NES formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "NES",
+"linktitle" : "NES",
   "menu": {
     "docs": {
       "identifier": "game-nes",

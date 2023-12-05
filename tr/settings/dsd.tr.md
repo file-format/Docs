@@ -16,7 +16,7 @@
 "toc": true,
 "title": "DSD Dosya Formatı - AutoCAD Çizim Seti Açıklama Dosyası",
   "description":"DSD dosyalarını oluşturabilen ve açabilen DSD formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "DSD",
+"linktitle" : "DSD",
   "menu": {
     "docs": {
       "identifier": "settings-dsd",

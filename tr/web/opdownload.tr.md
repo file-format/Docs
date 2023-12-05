@@ -14,7 +14,7 @@
 "toc": true,
 "title": "OPDOWNLOAD Dosya Formatı - Opera Kısmen İndirilen Dosya",
   "description":"OPDOWNLOAD formatı ve OPDOWNLOAD dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "OPDOWNLOAD",
+"linktitle" : "OPDOWNLOAD",
   "menu": {
     "docs": {
       "identifier": "web-opdownload",

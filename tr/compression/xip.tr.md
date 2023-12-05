@@ -17,7 +17,7 @@
 "toc": true,
 "title": "XIP Dosya Formatı - MacOS İmzalı Arşiv",
   "description":"XIP dosyalarını oluşturabilen ve açabilen XIP formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "XIP",
+"linktitle" : "XIP",
   "menu": {
     "docs": {
       "identifier": "compression-xip",

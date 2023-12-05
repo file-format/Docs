@@ -17,7 +17,7 @@
 "toc": true,
 "title": "META Dosya Formatı - Mevcut Meta Veri Dosyası",
   "description":"META dosyalarını oluşturabilen ve açabilen META formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "META",
+"linktitle" : "META",
   "menu": {
     "docs": {
       "identifier": "game-meta",

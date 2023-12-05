@@ -18,7 +18,7 @@
 "toc": true,
 "title": "OGV Dosya Formatı - Ogg Video Dosyası",
   "description":"OGV formatı ve OGV dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "OGV",
+"linktitle" : "OGV",
   "menu": {
     "docs": {
       "identifier": "video-ogv",

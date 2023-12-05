@@ -17,7 +17,7 @@
 "toc": true,
 "title": "PDB Dosyaları Nedir? PDB Dosyalarını Anlamak: Yapısal Biyoloji İçin Önemli Bir Araç",
   "description":"PDB Dosyalarının ne olduğunu öğrenin? PDB Dosyalarını Anlamak: Yapısal Biyoloji için Önemli Bir Araç",
-"bağlantı başlığı": "PDB",
+"linktitle" : "PDB",
   "menu": {
     "docs": {
       "identifier": "database-pdb",

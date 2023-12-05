@@ -16,7 +16,7 @@
 "toc": true,
 "title":"BPS Dosya Formatı - BPS Yama Dosyası",
    "description":"BPS dosyalarını oluşturabilen ve açabilen BPS formatı ve API'ler hakkında bilgi edinin.",
-"linktitle":"BPS",
+"linktitle" : "BPS",
    "menu":{
       "docs":{
          "identifier":"game-bps",

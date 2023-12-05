@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CHR Dosya Formatı - CryENGINE Karakter Dosyası",
    "description":"CHR CryENGINE Karakter dosya formatı ve CHR dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"CHR CryENGINE",
+"linktitle" : "CHR CryENGINE",
    "menu":{
       "docs":{
          "identifier":"3d-chr-cryengine",

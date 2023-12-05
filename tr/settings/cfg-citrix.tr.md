@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CFG Dosya Formatı - Citrix Sunucusu Bağlantı Dosyası",
   "description":"CFG Citrix Sunucu Bağlantı Dosyası formatı ve CFG dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "CFG Citrix",
+"linktitle" : "CFG Citrix",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-citrix",

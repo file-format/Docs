@@ -17,7 +17,7 @@
 "toc": true,
 "title": "IPS Dosya Formatı - iOS Analiz Verileri",
   "description":"IPS dosyalarını oluşturabilen ve açabilen IPS formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "IPS",
+"linktitle" : "IPS",
   "menu": {
     "docs": {
       "identifier": "misc-ips",

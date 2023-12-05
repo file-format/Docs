@@ -16,7 +16,7 @@
 "toc": true,
 "title": "JSF Dosya Formatı - Java Script Komut Dosyası",
   "description":"JSF dosyalarını oluşturabilen ve açabilen JSF formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "JSF",
+"linktitle" : "JSF",
   "menu": {
     "docs": {
       "identifier": "executable-jsf",

@@ -15,7 +15,7 @@
 "toc":true,
 "title":"BIN Dosya Formatı - Unix Çalıştırılabilir Dosyası",
    "description":"BIN dosyalarını oluşturabilen ve açabilen BIN formatı ve API'ler hakkında bilgi edinin.",
-"linktitle":"ÇÖZÜM",
+"linktitle" : "BIN",
    "menu":{
       "docs":{
          "identifier":"executable-bin",

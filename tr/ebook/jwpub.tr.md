@@ -15,7 +15,7 @@
 "toc": true,
 "title": "JWPUB Dosya Formatı - Yehova'nın Şahitlerinin Yayını",
   "description":"JWPUB formatı ve JWPUB dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "JWPUB",
+"linktitle" : "JWPUB",
   "menu": {
     "docs": {
       "identifier": "ebook-jwpub",

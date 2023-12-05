@@ -18,7 +18,7 @@
 "toc": true,
 "title": "FPT Dosya Formatı - FoxPro Tablo Notu",
   "description":"FPT FoxPro formatı ve FPT dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "FPT FoxPro",
+"linktitle" : "FPT FoxPro",
   "menu": {
     "docs": {
       "identifier": "database-fpt-foxpro",

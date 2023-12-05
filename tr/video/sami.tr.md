@@ -15,7 +15,7 @@
 "toc": true,
 "title": "SAMI Dosya Formatı - Altyazılar ve Meta Veri Değişim Dosyası",
   "description":"SAMI dosyalarını oluşturabilen ve açabilen SAMI formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "SAMI",
+"linktitle" : "SAMI",
   "menu": {
     "docs": {
       "identifier": "video-sami",

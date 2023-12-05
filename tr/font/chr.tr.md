@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CHR Dosya Formatı - Borland Karakter Seti",
    "description":"CHR Borland Karakter Seti dosya formatı ve CHR dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"CHR",
+"linktitle" : "CHR",
    "menu":{
       "docs":{
          "identifier":"font-chr",

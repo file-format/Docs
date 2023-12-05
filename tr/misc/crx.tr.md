@@ -18,7 +18,7 @@
 "toc": true,
 "title": "CRX Dosya Formatı - Google Chrome Uzantısı",
   "description":"CRX formatı ve CRX dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "CRX",
+"linktitle" : "CRX",
   "menu": {
     "docs": {
       "identifier": "misc-crx",

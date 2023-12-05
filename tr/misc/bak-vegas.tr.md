@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK Dosya Formatı - VEGAS Video Projesi Yedeği",
   "description":"BAK VEGAS Video Projesi Yedekleme formatı ve BAK dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "BAK VEGAS Videosu",
+"linktitle" : "BAK VEGAS Video",
   "menu": {
     "docs": {
       "identifier": "misc-bak-vegas",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "LDB Dosya Formatı - Microsoft Access Kilit Dosyası",
   "description":"LDB formatı ve hangi bilgileri içerdiği hakkında bilgi edinin.",
-"bağlantı başlığı": "LDB",
+"linktitle" : "LDB",
   "menu": {
     "docs": {
       "identifier": "misc-ldb",

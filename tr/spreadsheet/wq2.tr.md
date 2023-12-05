@@ -15,7 +15,7 @@
 "toc": true,
 "title": "WQ2 Dosya Formatı - DOS Elektronik Tablo Dosyası için Quattro Pro",
   "description":"WQ2 dosya formatı ve WQ2 dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "WQ2",
+"linktitle" : "WQ2",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-wq2",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "P3T Dosya Formatı - PlayStation 3 Tema Dosyası",
   "description":"P3T dosyalarını oluşturabilen ve açabilen P3T formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "P3T",
+"linktitle" : "P3T",
   "menu": {
     "docs": {
       "identifier": "game-p3t",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "USR Dosya Formatı - FileMaker Pro Veritabanı Dosyası",
   "description":"USR dosyalarını oluşturabilen ve açabilen USR formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "USR",
+"linktitle" : "USR",
   "menu": {
     "docs": {
       "identifier": "database-usr",

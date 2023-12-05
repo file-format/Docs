@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK Dosya Formatı - MobileTrans Yedekleme",
   "description":"BAK MobileTrans formatı ve BAK dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "BAK MobilTrans",
+"linktitle" : "BAK MobilTrans",
   "menu": {
     "docs": {
       "identifier": "misc-bak-mobiletrans",

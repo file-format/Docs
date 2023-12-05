@@ -18,7 +18,7 @@
 "toc": true,
 "title": "W3X Dosya Formatı - Warcraft 3 Genişletme Harita Dosyası",
   "description":"W3X formatı ve W3X dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "W3X",
+"linktitle" : "W3X",
   "menu": {
     "docs": {
       "identifier": "game-w3x",

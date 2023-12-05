@@ -14,7 +14,7 @@
 "toc": true,
 "title": "IPSW Dosya Formatı - iPhone Yazılım Güncelleme Dosyası",
   "description":"IPSW formatı ve IPSW dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantıbaşlığı": "IPSW",
+"linktitle" : "IPSW",
   "menu": {
     "docs": {
       "identifier": "misc-ipsw",

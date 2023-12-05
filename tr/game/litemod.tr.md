@@ -14,7 +14,7 @@
 "toc": true,
 "title": "LITEMOD Dosya Formatı - Minecraft LiteLoader Mod Dosyası",
   "description":"LITEMOD formatı ve LITEMOD dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "LITEMOD",
+"linktitle" : "LITEMOD",
   "menu": {
     "docs": {
       "identifier": "game-litemod",

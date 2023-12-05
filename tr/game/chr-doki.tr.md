@@ -17,7 +17,7 @@
 "toc": true,
 "title":"CHR Dosya Formatı - Doki Doki Edebiyat Kulübü! Karakter Dosyası",
    "description":"CHR Doki Doki Edebiyat Kulübü hakkında bilgi edinin! Karakter dosyası formatı ve CHR dosyalarını oluşturup açabilen API'ler.",
-"linktitle":"CHR Doki",
+"linktitle" : "CHR Doki",
    "menu":{
       "docs":{
          "identifier":"game-chr-doki",

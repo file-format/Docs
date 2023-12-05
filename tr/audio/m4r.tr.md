@@ -15,7 +15,7 @@
 "toc": true,
 "title": "M4R Dosya Formatı - iPhone Zil Sesi Dosyası",
   "description":"M4R dosya formatı ve M4R dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "M4R",
+"linktitle" : "M4R",
   "menu": {
     "docs": {
       "identifier": "audio-m4r",

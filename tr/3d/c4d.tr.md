@@ -15,7 +15,7 @@
 "toc": true,
 "title": "C4D Dosya Formatı - Cinema 4D Model Dosyası",
   "description":"C4D dosyalarını oluşturabilen ve açabilen C4D formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "C4D",
+"linktitle" : "C4D",
   "menu": {
     "docs": {
       "identifier": "3d-c4d",

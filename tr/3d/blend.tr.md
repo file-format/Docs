@@ -15,7 +15,7 @@
 "toc": true,
 "title": "BLEND Dosya Formatı - Blender 3D Dosyası",
   "description":"BLEND formatı ve BLEND dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "KARIŞIM",
+"linktitle" : "BLEND",
   "menu": {
     "docs": {
       "identifier": "3d-blend",

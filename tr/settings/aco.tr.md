@@ -15,7 +15,7 @@
 "toc": true,
 "title": "ACO Dosya Formatı - Adobe Photoshop Renk Örneği Dosyası",
   "description":"ACO formatı ve ACO dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "ACO",
+"linktitle" : "ACO",
   "menu": {
     "docs": {
       "identifier": "settings-aco",

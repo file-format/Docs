@@ -15,7 +15,7 @@
 "toc": true,
 "title": "WLMP Dosya Formatı - Windows Live Movie Maker Projesi",
   "description":"WLMP dosya formatı ve WLMP dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantıbaşlığı": "WLMP",
+"linktitle" : "WLMP",
   "menu": {
     "docs": {
       "identifier": "video-wlmp",

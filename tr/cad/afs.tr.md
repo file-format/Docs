@@ -15,7 +15,7 @@
 "toc": true,
 "title": "AFS Dosya Formatı - STAAD.foundation Proje Dosyası",
   "description":"AFS dosya formatı ve AFS dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "AFS",
+"linktitle" : "AFS",
   "menu": {
     "docs": {
       "identifier": "cad-afs",

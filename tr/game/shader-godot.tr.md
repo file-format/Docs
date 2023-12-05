@@ -17,7 +17,7 @@
 "toc": true,
 "title":"SHADER Dosya Formatı - Godot Engine Shader Dosyası",
    "description":"SHADER Godot Engine Shader dosya formatı ve SHADER dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"SHADER Godot",
+"linktitle" : "SHADER Godot",
    "menu":{
       "docs":{
          "identifier":"game-shader-godot",

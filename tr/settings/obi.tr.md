@@ -15,7 +15,7 @@
 "toc": true,
 "title": "OBI Dosya Formatı - Outlook RSS Abonelik Dosyası",
   "description":"OBI formatı ve OBI dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "OBI",
+"linktitle" : "OBI",
   "menu": {
     "docs": {
       "identifier": "settings-obi",

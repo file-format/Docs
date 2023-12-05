@@ -16,7 +16,7 @@
 "toc": true,
 "title": "RPD Dosya Formatı - RIB Projesi Veritabanı Dosyası",
   "description":"RPD dosyalarını oluşturabilen ve açabilen RPD formatı ve API'ler hakkında bilgi edinin.",
-"bağlantıbaşlığı": "RPD",
+"linktitle" : "RPD",
   "menu": {
     "docs": {
       "identifier": "database-rpd",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "RAF Dosya Formatı - Fujifilm RAW Görüntüsü",
   "description":"RAF dosyalarını oluşturabilen ve açabilen RAF formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "RAF",
+"linktitle" : "RAF",
   "menu": {
     "docs": {
       "identifier": "image-raf",

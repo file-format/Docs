@@ -19,7 +19,7 @@
 "toc": true,
 "title": "SUB Dosya Formatı - MicroDVD Altyazı Dosyası",
   "description":"SUB formatı ve SUB dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "ALT",
+"linktitle" : "ALT",
   "menu": {
     "docs": {
       "identifier": "video-sub",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK Dosya Formatı - Act! Veritabanı Yedekleme",
   "description":"BAK Yasası hakkında bilgi edinin! BAK dosyalarını oluşturabilen ve açabilen yedekleme formatı ve API'ler.",
-"linktitle": "BAK ACT Yedekleme",
+"linktitle" : "BAK ACT Backup",
   "menu": {
     "docs": {
       "identifier": "database-bak-act",

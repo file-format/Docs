@@ -15,7 +15,7 @@
 "toc": true,
 "title": "PRC Dosya Formatı - Mobipocket eKitap Dosyası",
   "description":"PRC dosyalarını oluşturabilen ve açabilen PRC formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "PRC",
+"linktitle" : "PRC",
   "menu": {
     "docs": {
       "identifier": "ebook-prc",

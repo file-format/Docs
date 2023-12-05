@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CFG Dosya Formatı - Kaynak Motor Yapılandırma Dosyası",
   "description":"CFG Kaynak Motoru Yapılandırma Dosyası formatı ve CFG dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "CFG Kaynak Motoru",
+"linktitle" : "CFG Source Engine",
   "menu": {
     "docs": {
       "identifier": "game-cfg-sourceengine",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CXARCHIVE Dosya Formatı - CrossOver Şişe Arşivi",
   "description":"CXARCHIVE CrossOver Bottle Archive formatı ve CXARCHIVE dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "CXARCHIVE",
+"linktitle" : "CXARCHIVE",
   "menu": {
     "docs": {
       "identifier": "compression-cxarchive",

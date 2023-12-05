@@ -15,7 +15,7 @@
 "toc": true,
 "title": "MTM Dosya Formatı - MultiTracker Modülü",
   "description":"MTM dosya formatı ve MTM dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "MTM",
+"linktitle" : "MTM",
   "menu": {
     "docs": {
       "identifier": "audio-mtm",

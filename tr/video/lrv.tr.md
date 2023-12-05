@@ -17,7 +17,7 @@
 "toc": true,
 "title": "LRV Dosya Formatı - GoPro'dan Düşük Çözünürlüklü Video Dosyası",
   "description":"LRV dosyalarını oluşturabilen ve açabilen LRV formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "LRV",
+"linktitle" : "LRV",
   "menu": {
     "docs": {
       "identifier": "video-lrv",

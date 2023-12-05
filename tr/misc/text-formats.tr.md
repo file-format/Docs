@@ -12,7 +12,7 @@
 "toc": true,
 "title": "Metin Formatları, Türleri ve SSS",
   "description":"Metin Formatları, Metin Formatı Türleri, Metin Formatları Listesi ve SSS hakkında bilgi edinin",
-"linktitle": "METİN BİÇİMLERİ",
+"linktitle" : "TEXT FORMATS",
   "menu": {
     "docs": {
       "identifier": "misc-text-formats",

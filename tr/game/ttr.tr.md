@@ -15,7 +15,7 @@
 "toc": true,
 "title": "TTR Dosya Formatı - TETR.IO Tekrar Oynatma",
   "description":"TTR dosyalarını oluşturabilen ve açabilen TTR formatı ve API'ler hakkında bilgi edinin.",
-"bağlantıbaşlığı": "TTR",
+"linktitle" : "TTR",
   "menu": {
     "docs": {
       "identifier": "game-ttr",

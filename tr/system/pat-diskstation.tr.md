@@ -17,7 +17,7 @@
 "toc":true,
 "title":"PAT Dosya Formatı - DiskStation Manager Kurulum Dosyası",
    "description":"PAT DiskStation Manager Kurulum dosya formatı ve PAT dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"PAT",
+"linktitle" : "PAT",
    "menu":{
       "docs":{
          "identifier":"system-pat-diskstation",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BPS Dosya Formatı - Microsoft Works Belge Yedekleme",
   "description":"BPS Works formatı ve BPS dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "BPS Çalışıyor",
+"linktitle" : "BPS Works",
   "menu": {
     "docs": {
       "identifier": "misc-bps-works",

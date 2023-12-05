@@ -17,7 +17,7 @@
 "toc":true,
 "title":"PRT Dosya Formatı - Creo Parametrik Parça",
    "description":"PRT Creo Parametrik Parça dosya formatı ve PRT dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"PRT",
+"linktitle" : "PRT",
    "menu":{
       "docs":{
          "identifier":"cad-prt-creo",

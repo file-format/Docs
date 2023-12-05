@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK Dosya Formatı - Final 2012 Skor Yedeklemesi",
   "description":"BAK Finale formatı ve BAK dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "BAK Finali",
+"linktitle" : "BAK Finale",
   "menu": {
     "docs": {
       "identifier": "misc-bak-finale",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "KINE Dosya Formatı - KineMaster Proje Dosyası",
   "description":"KINE dosya formatı ve KINE dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "KINE",
+"linktitle" : "KINE",
   "menu": {
     "docs": {
       "identifier": "video-kine",

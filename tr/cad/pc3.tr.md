@@ -17,7 +17,7 @@
 "toc": true,
 "title": "PC3 Dosya Formatı - AutoCAD Plotter Yapılandırma Dosyası",
   "description":"PC3 dosyalarını oluşturabilen ve açabilen PC3 formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "PC3",
+"linktitle" : "PC3",
   "menu": {
     "docs": {
       "identifier": "cad-pc3",

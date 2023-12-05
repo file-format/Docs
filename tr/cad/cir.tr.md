@@ -15,7 +15,7 @@
 "toc": true,
 "title": "CIR Dosya Formatı - Mikro Kapak Şematik Dosyası",
   "description":"CIR dosya formatı ve CIR dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "CIR",
+"linktitle" : "CIR",
   "menu": {
     "docs": {
       "identifier": "cad-cir",

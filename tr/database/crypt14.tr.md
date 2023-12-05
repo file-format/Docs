@@ -14,7 +14,7 @@
 "toc": true,
 "title": "CRYPT14 Dosya Formatı - WhatsApp Şifreli Veritabanı Dosyası",
   "description":"CRYPT14 formatı ve CRYPT14 dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantıbaşlığı": "CRYPT14",
+"linktitle" : "CRYPT14",
   "menu": {
     "docs": {
       "identifier": "database-crypt14",

@@ -17,7 +17,7 @@
 "toc": true,
 "title":"CS Dosya Formatı - CLEO Özel Komut Dosyası",
    "description":"CS CLEO Özel Komut Dosyası formatı ve CS dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"CS CLEO",
+"linktitle" : "CS CLEO",
    "menu":{
       "docs":{
          "identifier":"game-cs-cleo",

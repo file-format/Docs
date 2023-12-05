@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CDR Dosya Formatı - Macintosh DVD/CD Master",
    "description":"CDR Macintosh DVD/CD Master dosya formatı ve CDR dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"CDR",
+"linktitle" : "CDR",
    "menu":{
       "docs":{
          "identifier":"disc-and-media-cdr",

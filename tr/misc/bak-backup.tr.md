@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK Dosya Formatı - Yedekleme Dosyası",
   "description":"BAK Yedekleme formatı ve BAK dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "BAK Yedekleme",
+"linktitle" : "BAK Backup",
   "menu": {
     "docs": {
       "identifier": "misc-bak-backup",

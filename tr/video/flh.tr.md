@@ -16,7 +16,7 @@
 "toc": true,
 "title": "FLH Dosya Formatı - FLIC Animasyon Dosyası",
   "description":"FLH formatı ve FLH dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "FLH",
+"linktitle" : "FLH",
   "menu": {
     "docs": {
       "identifier": "video-flh",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "3GPP Dosya Formatı - 3GPP Medya Dosyası",
   "description":"3GPP formatı ve 3GPP dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "3GPP",
+"linktitle" : "3GPP",
   "menu": {
     "docs": {
       "identifier": "video-3gpp",

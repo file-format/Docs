@@ -17,7 +17,7 @@
 "toc": true,
 "title": "HPP Dosya Formatı - C++ Başlık Dosyası",
   "description":"HPP dosyalarını oluşturabilen ve açabilen HPP formatı ve API'ler hakkında bilgi edinin.",
-"linktitle": "HES",
+"linktitle" : "HPP",
   "menu": {
     "docs": {
       "identifier": "programming-hpp",

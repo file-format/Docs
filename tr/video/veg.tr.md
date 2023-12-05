@@ -15,7 +15,7 @@
 "toc": true,
 "title": "VEG Dosya Formatı - MAGIX VEGAS Video Projesi",
   "description":"VEG dosya formatı ve VEG dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "VEG",
+"linktitle" : "VEG",
   "menu": {
     "docs": {
       "identifier": "video-veg",

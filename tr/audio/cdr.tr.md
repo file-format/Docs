@@ -17,7 +17,7 @@
 "toc": true,
 "title":"CDR Dosya Formatı - Ham CD Ses Verileri",
    "description":"CDR Ham CD Ses Verileri dosya formatı ve CDR dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"CDR",
+"linktitle" : "CDR",
    "menu":{
       "docs":{
          "identifier":"audio-cdr",

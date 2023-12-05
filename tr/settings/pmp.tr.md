@@ -15,7 +15,7 @@
 "toc": true,
 "title": "PMP Dosya Formatı - AutoCAD Grafik Modeli Parametre Dosyası",
   "description":"PMP dosyalarını oluşturabilen ve açabilen PMP formatı ve API'ler hakkında bilgi edinin.",
-"bağlantıbaşlığı": "PMP",
+"linktitle" : "PMP",
   "menu": {
     "docs": {
       "identifier": "settings-pmp",

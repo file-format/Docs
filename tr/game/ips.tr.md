@@ -17,7 +17,7 @@
 "toc":true,
 "title":"IPS Dosya Formatı - Dahili Yama Sistemi Yama Dosyası",
    "description":"IPS dosyalarını oluşturabilen ve açabilen IPS formatı ve API'ler hakkında bilgi edinin.",
-"linktitle":"IPS",
+"linktitle" : "IPS",
    "menu":{
       "docs":{
          "identifier":"game-ips",

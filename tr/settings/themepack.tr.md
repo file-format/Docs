@@ -15,7 +15,7 @@
 "toc": true,
 "title": "THEMEPACK Dosya Formatı - Windows 7 Tema Paketi",
   "description":"THEMPACK formatı ve THEMEPACK dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "THEMEPACK",
+"linktitle" : "THEMEPACK",
   "menu": {
     "docs": {
       "identifier": "settings-themepack",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "ASL Dosya Formatı - Photoshop Katman Stili",
   "description":"ASL dosyalarını oluşturabilen ve açabilen ASL formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "ASL",
+"linktitle" : "ASL",
   "menu": {
     "docs": {
       "identifier": "settings-asl",

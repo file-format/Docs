@@ -17,7 +17,7 @@
 "toc":true,
 "title":"SHADER Dosya Formatı - Quake 3 Engine Shader Dosyası",
    "description":"SHADER Quake 3 Engine Shader dosya formatı ve SHADER dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"SHADER Quake",
+"linktitle" : "SHADER Quake",
    "menu":{
       "docs":{
          "identifier":"game-shader-quake",

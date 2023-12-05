@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CFG Dosya Formatı - LightWave Yapılandırma Dosyası",
   "description":"CFG LightWave Yapılandırma Dosyası formatı ve CFG dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "CFG LightWave",
+"linktitle" : "CFG LightWave",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-lightwave",

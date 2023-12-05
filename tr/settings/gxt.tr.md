@@ -14,7 +14,7 @@
 "toc": true,
 "title": "GXT Dosya Formatı - Grand Theft Auto Metin Dosyası",
   "description":"GXT dosyalarını oluşturabilen ve açabilen GXT formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "GXT",
+"linktitle" : "GXT",
   "menu": {
     "docs": {
       "identifier": "settings-gxt",

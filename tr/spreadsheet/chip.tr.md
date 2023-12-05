@@ -15,7 +15,7 @@
 "toc": true,
 "title": "CHIP Dosya Formatı - Mikrodizi Ek Açıklama Dosyası",
   "description":"CHIP dosya formatı ve CHIP dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "CHIP",
+"linktitle" : "CHIP",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-chip",

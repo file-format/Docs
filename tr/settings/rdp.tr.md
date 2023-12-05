@@ -16,7 +16,7 @@
 "toc": true,
 "title": "RDP Dosya Formatı - Uzak Masaüstü Yapılandırma Dosyası",
   "description":"RDP dosyalarını oluşturabilen ve açabilen RDP formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "RDP",
+"linktitle" : "RDP",
   "menu": {
     "docs": {
       "identifier": "settings-rdp",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "XEM Dosya Formatı - PowerDesigner Model tanımı Dosyası",
   "description":"XEM formatı ve XEM dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "XEM",
+"linktitle" : "XEM",
   "menu": {
     "docs": {
       "identifier": "database-xem",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "AYARLAR Dosya Formatı - Visual Studio Ayarları Dosyası",
   "description":"SETTINGS formatı ve SETTINGS dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "AYARLAR",
+"linktitle" : "SETTINGS",
   "menu": {
     "docs": {
       "identifier": "settings-settings",

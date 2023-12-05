@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CPI Dosya Formatı - Kod Sayfası Bilgi Dosyası",
    "description":"CPI Kod Sayfası Bilgileri dosya formatı ve CPI dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"TÜFE",
+"linktitle" : "CPI",
    "menu":{
       "docs":{
          "identifier":"system-cpi",

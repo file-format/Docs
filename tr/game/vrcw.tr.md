@@ -16,7 +16,7 @@
 "toc": true,
 "title": "VRCW Dosya Formatı - VRChat World",
   "description":"VRCW formatı ve VRCW dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "VRCW",
+"linktitle" : "VRCW",
   "menu": {
     "docs": {
       "identifier": "game-vrcw",

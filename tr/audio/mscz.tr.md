@@ -17,7 +17,7 @@
 "toc": true,
 "title": "MSCZ Dosya Formatı - MuseScore Sıkıştırılmış Skor Dosyası",
   "description":"MSCZ formatı ve MSCZ dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "MSCZ",
+"linktitle" : "MSCZ",
   "menu": {
     "docs": {
       "identifier": "audio-mscz",

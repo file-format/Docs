@@ -15,7 +15,7 @@
 "toc": true,
 "title": "MUI Dosya Formatı - Sayısız Kullanıcı Aracı Dosyası",
   "description":"MUI dosya formatı ve MUI dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "MUI",
+"linktitle" : "MUI",
   "menu": {
     "docs": {
       "identifier": "audio-mui",

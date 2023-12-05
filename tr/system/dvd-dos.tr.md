@@ -17,7 +17,7 @@
 "toc": true,
 "title":"DVD Dosya Formatı - DOS Aygıt Sürücüsü",
    "description":"DVD MS-DOS Aygıt Sürücüsü dosya formatı ve DVD dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"DVD",
+"linktitle" : "DVD",
    "menu":{
       "docs":{
          "identifier":"system-dvd-dos",

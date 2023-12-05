@@ -15,7 +15,7 @@
 "toc": true,
 "title": "EC3 Dosya Formatı - Gelişmiş Ses Codec Bileşeni 3 Dosyası",
   "description":"EC3 dosya formatı ve EC3 dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "EC3",
+"linktitle" : "EC3",
   "menu": {
     "docs": {
       "identifier": "audio-ec3",

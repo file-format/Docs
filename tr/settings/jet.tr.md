@@ -17,7 +17,7 @@
 "toc": true,
 "title": "JET Dosya Formatı - Jackbox Parti Paketi Ayarları",
   "description":"JET formatı ve JET dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "JET",
+"linktitle" : "JET",
   "menu": {
     "docs": {
       "identifier": "settings-jet",

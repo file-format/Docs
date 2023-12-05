@@ -14,7 +14,7 @@
 "toc": true,
 "title": "PDM Dosya Formatı - PowerDesigner Veritabanı Dosyası",
   "description":"PDM dosyalarını oluşturabilen ve açabilen PDM formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "PDM",
+"linktitle" : "PDM",
   "menu": {
     "docs": {
       "identifier": "database-pdm",

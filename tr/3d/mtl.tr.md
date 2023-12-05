@@ -17,7 +17,7 @@
 "toc": true,
 "title":"MTL Dosya Formatı - OBJ Malzeme Şablonu Kitaplığı Dosyası",
    "description":"MTL OBJ Malzeme Şablonu Kitaplığı dosya formatı ve MTL dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"MTL",
+"linktitle" : "MTL",
    "menu":{
       "docs":{
          "identifier":"3d-mtl",

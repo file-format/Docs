@@ -14,7 +14,7 @@
 "toc": true,
 "title": "PXP Dosya Formatı - Counter-Strike PODBot Dosyası",
   "description":"PXP dosyalarını oluşturabilen ve açabilen PXP formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "PXP",
+"linktitle" : "PXP",
   "menu": {
     "docs": {
       "identifier": "game-pxp",

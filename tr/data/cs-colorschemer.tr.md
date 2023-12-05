@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CS Dosyası - ColorSchemer Studio Color Scheme - .cs dosyası nedir ve onu nasıl açarım?",
   "description":"CS ColorSchemer Studio Renk Düzeni formatı ve CS dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "CS",
+"linktitle" : "CS",
   "menu": {
     "docs": {
       "identifier": "data-cs-colorschemer",

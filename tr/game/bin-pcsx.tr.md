@@ -15,7 +15,7 @@
 "toc": true,
 "title":"BIN Dosya Formatı - PSX PlayStation BIOS Görüntüsü",
    "description":"BIN dosyalarını oluşturabilen ve açabilen BIN formatı ve API'ler hakkında bilgi edinin.",
-"linktitle":"BIN PCSX",
+"linktitle" : "BIN PCSX",
    "menu":{
       "docs":{
          "identifier":"game-bin-pcsx",

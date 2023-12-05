@@ -15,7 +15,7 @@
 "toc": true,
 "title": "CNF Dosya Formatı - MySQL Yapılandırma Dosyası",
   "description":"CNF formatı ve CNF dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "CNF",
+"linktitle" : "CNF",
   "menu": {
     "docs": {
       "identifier": "settings-cnf",

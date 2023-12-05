@@ -17,7 +17,7 @@
 "toc": true,
 "title": "RAW Dosya Formatı - Ham Görüntü Verileri",
   "description":"RAW formatı ve RAW dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "RAW",
+"linktitle" : "RAW",
   "menu": {
     "docs": {
       "identifier": "image-raw",

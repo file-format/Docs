@@ -17,7 +17,7 @@
 "toc": true,
 "title": "WPS Dosya Formatı - SDL Translator's Workbench Proje Dosyası",
   "description":"WPS dosyalarını oluşturabilen ve açabilen WPS formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "WPS",
+"linktitle" : "WPS",
   "menu": {
     "docs": {
       "identifier": "settings-wps",

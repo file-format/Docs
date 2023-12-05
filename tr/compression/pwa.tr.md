@@ -15,7 +15,7 @@
 "toc": true,
 "title": "PWA Dosya Formatı - Şifre Aracısı Dosyası",
   "description":"PWA formatı ve PWA dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "PWA",
+"linktitle" : "PWA",
   "menu": {
     "docs": {
       "identifier": "compression-pwa",

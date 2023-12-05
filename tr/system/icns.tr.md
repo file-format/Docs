@@ -14,7 +14,7 @@
 "toc": true,
 "title": "ICNS Dosya Formatı - macOS Simge Kaynağı",
   "description":"ICNS dosyalarını oluşturabilen ve açabilen ICNS formatı ve API'ler hakkında bilgi edinin.",
-"bağlantıbaşlığı": "ICNS",
+"linktitle" : "ICNS",
   "menu": {
     "docs": {
       "identifier": "system-icns",

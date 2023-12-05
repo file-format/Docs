@@ -14,7 +14,7 @@
 "toc": true,
 "title": "ISN Dosya Formatı - Yükleyici Kaynak Dosyası",
   "description":"ISN dosyalarını oluşturabilen ve açabilen ISN formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "ISN",
+"linktitle" : "ISN",
   "menu": {
     "docs": {
       "identifier": "misc-isn",

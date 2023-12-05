@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CBA Dosya Formatı - Çizgi Roman Arşivi",
   "description":"CBA formatı ve CBA dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "CBA",
+"linktitle" : "CBA",
   "menu": {
     "docs": {
       "identifier": "compression-cba",

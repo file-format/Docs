@@ -15,7 +15,7 @@
 "toc": true,
 "title": "SBV Dosya Formatı - YouTube Altyazı Dosyası",
   "description":"SBV dosyalarını oluşturabilen ve açabilen SBV formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "SBV",
+"linktitle" : "SBV",
   "menu": {
     "docs": {
       "identifier": "settings-sbv",

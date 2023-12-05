@@ -18,7 +18,7 @@
 "toc": true,
 "title": "VMX Dosya Formatı - VMware Sanal Makine Yapılandırma Dosyası",
   "description":"VMX dosyalarını oluşturabilen ve açabilen VMX formatı ve API'ler hakkında bilgi edinin.",
-"bağlantıbaşlığı": "VMX",
+"linktitle" : "VMX",
   "menu": {
     "docs": {
       "identifier": "settings-vmx",

@@ -17,7 +17,7 @@
 "toc":true,
 "title":"PRT Dosya Formatı - CADKEY Parça Dosyası",
    "description":"PRT CADKEY Parçası dosya formatı ve PRT dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"PRT CADKEY",
+"linktitle" : "PRT CADKEY",
    "menu":{
       "docs":{
          "identifier":"cad-prt-cadkey",

@@ -17,7 +17,7 @@
 "toc":true,
 "title":"ZOO Dosyası - .zoo dosyası nedir ve nasıl açılır?",
    "description":"ZOO Sıkıştırılmış dosya formatı ve ZOO dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"Hayvanat Bahçesi",
+"linktitle" : "ZOO",
    "menu":{
       "docs":{
          "identifier":"compression-zoo",

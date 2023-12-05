@@ -16,7 +16,7 @@
 "toc":true,
 "title":"BDMV Dosya Formatı - Blu-ray Disk Film Bilgi Dosyası",
    "description":"BDMV formatı ve BDMV dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"BDMV",
+"linktitle" : "BDMV",
    "menu":{
       "docs":{
          "identifier":"video-bdmv",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "GSHEET Dosya Formatı - Google E-Tablolar Kısayolu",
   "description":"GSHEET dosya formatı ve GSHEET dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantıbaşlığı": "GSHEET",
+"linktitle" : "GSHEET",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-gsheet",

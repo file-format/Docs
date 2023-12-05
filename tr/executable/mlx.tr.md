@@ -18,7 +18,7 @@
 "toc": true,
 "title": "MLX Dosya Formatı - MATLAB Canlı Kod Dosyası",
   "description":"MLX dosyalarını oluşturabilen ve açabilen MLX formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "MLX",
+"linktitle" : "MLX",
   "menu": {
     "docs": {
       "identifier": "executable-mlx",

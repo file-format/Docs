@@ -17,7 +17,7 @@
 "toc": true,
 "title":"CHR Dosya Formatı - 3ds Max Karakter Dosyası",
    "description":"CHR 3ds Max Karakterleri dosya formatı ve CHR dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"CHR 3ds",
+"linktitle" : "CHR 3ds",
    "menu":{
       "docs":{
          "identifier":"3d-chr-3ds",

@@ -17,7 +17,7 @@
 "toc":true,
 "title":"UPS Dosya Formatı - UPS Yama Dosyası",
    "description":"UPS Yama Dosyası formatı ve UPS dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"UPS",
+"linktitle" : "UPS",
    "menu":{
       "docs":{
          "identifier":"game-ups",

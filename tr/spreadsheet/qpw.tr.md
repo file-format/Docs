@@ -15,7 +15,7 @@
 "toc": true,
 "title": "QPW Dosya Formatı - Quattro Pro Elektronik Tablosu",
   "description":"QPW dosya formatı ve QPW dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "QPW",
+"linktitle" : "QPW",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-qpw",

@@ -18,7 +18,7 @@
 "toc": true,
 "title": "MASAÜSTÜ Dosya Formatı - Masaüstü Giriş Dosyası",
   "description":"MASAÜSTÜ dosyaları oluşturup açabilen MASAÜSTÜ formatı ve API'ler hakkında bilgi edinin.",
-"linktitle": "MASAÜSTÜ",
+"linktitle" : "DESKTOP",
   "menu": {
     "docs": {
       "identifier": "settings-desktop",

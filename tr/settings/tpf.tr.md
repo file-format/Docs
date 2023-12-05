@@ -14,7 +14,7 @@
 "toc": true,
 "title": "TPF Dosya Formatı - IBM SPSS Text Wizard Belgesi",
   "description":"TPF dosyalarını oluşturabilen ve açabilen TPF formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "TPF",
+"linktitle" : "TPF",
   "menu": {
     "docs": {
       "identifier": "settings-tpf",

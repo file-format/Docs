@@ -18,7 +18,7 @@
 "toc": true,
 "title": "DV Dosya Formatı - Dijital Video Dosyası",
   "description":"DV dosyalarını oluşturabilen ve açabilen DV formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "DV",
+"linktitle" : "DV",
   "menu": {
     "docs": {
       "identifier": "video-dv",

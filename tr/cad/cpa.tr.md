@@ -15,7 +15,7 @@
 "toc": true,
 "title": "CPA Dosya Formatı - CADSTAR PCB Arşiv Dosyası",
   "description":"CPA dosya formatı ve CPA dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "EBM",
+"linktitle" : "CPA",
   "menu": {
     "docs": {
       "identifier": "cad-cpa",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Unity3D Dosya Formatı - Unity Web Player Arşivi",
   "description":"Unity3D formatı ve Unity3D dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "Unity3D",
+"linktitle" : "Unity3D",
   "menu": {
     "docs": {
       "identifier": "game-unity3d",

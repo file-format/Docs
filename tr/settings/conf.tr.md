@@ -14,7 +14,7 @@
 "toc": true,
 "title": "CONF Dosya Formatı - Unix Yapılandırma Dosyası",
   "description":"CONF formatı ve CONF dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantıbaşlığı": "CONF",
+"linktitle" : "CONF",
   "menu": {
     "docs": {
       "identifier": "settings-conf",

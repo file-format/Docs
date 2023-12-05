@@ -17,7 +17,7 @@
 "toc":true,
 "title":"TVDB Dosyası - Apple TV Veritabanı - .tvdb dosyası nedir ve nasıl açılır?",
    "description":"TVDB Apple TV Veritabanı dosya formatı ve INK dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"TVDB",
+"linktitle" : "TVDB",
    "menu":{
       "docs":{
          "identifier":"database-tvdb",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "RPD Dosya Formatı - Roleplay Tasarımcısı Veri Dosyası",
   "description":"RPD Roleplay Designer Veri Dosyası formatı ve RPD dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "RPD Rol Oynama",
+"linktitle" : "RPD Roleplay",
   "menu": {
     "docs": {
       "identifier": "database-rpd-roleplay",

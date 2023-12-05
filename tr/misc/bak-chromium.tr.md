@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK Dosya Formatı - Chromium Yer İmleri Yedeği",
   "description":"BAK Chromium Yer İşaretleri formatı ve BAK dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "BAK Krom Yer İmleri",
+"linktitle" : "BAK Chromium Bookmarks",
   "menu": {
     "docs": {
       "identifier": "misc-bak-chromium",

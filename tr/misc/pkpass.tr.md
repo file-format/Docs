@@ -16,7 +16,7 @@
 "toc": true,
 "title": "PKPASS Dosya Formatı - Apple Wallet Pass",
   "description":"PKPASS formatı ve PKPASS dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "PKPASS",
+"linktitle" : "PKPASS",
   "menu": {
     "docs": {
       "identifier": "misc-pkpass",

@@ -16,7 +16,7 @@
 "toc":true,
 "title":"CAT Dosya Formatı - Windows Katalog Dosyası",
    "description":"CAT dosyalarını oluşturabilen ve açabilen CAT formatı ve API'ler hakkında bilgi edinin.",
-"linktitle":"KEDİ",
+"linktitle" : "CAT",
    "menu":{
       "docs":{
          "identifier":"system-cat",

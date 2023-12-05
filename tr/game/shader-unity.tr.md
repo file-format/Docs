@@ -17,7 +17,7 @@
 "toc":true,
 "title":"SHADER Dosya Formatı - Unity Shader Varlığı",
    "description":"SHADER Unity Shader Asset formatı ve SHADER dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"SHADER Birliği",
+"linktitle" : "SHADER Unity",
    "menu":{
       "docs":{
          "identifier":"game-shader-unity",

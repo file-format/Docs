@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Video Dönüştürücü Nedir? Video Dönüştürücüler İçin En İyi Kılavuz",
   "description":"Video Dönüştürücüler, Formatlar, SSS ve En İyi Araçlar hakkında bilgi edinin",
-"linktitle": "VİDEO DÖNÜŞTÜRÜCÜ",
+"linktitle" : "VIDEO CONVERTER",
   "menu": {
     "docs": {
       "identifier": "misc-video-converter",

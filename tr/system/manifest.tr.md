@@ -14,7 +14,7 @@
 "toc": true,
 "title": "MANIFEST Dosya Formatı - Windows Uygulama Bildirim Dosyası",
   "description":"MANIFEST formatı ve MANIFEST dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "MANİFEST",
+"linktitle" : "MANİFEST",
   "menu": {
     "docs": {
       "identifier": "system-manifest",

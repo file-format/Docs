@@ -15,7 +15,7 @@
 "toc": true,
   "description":"APP dosyalarını oluşturabilen ve açabilen APP dosya formatı ve API'ler hakkında bilgi edinin.",
 "title": "APP Dosya Formatı - macOS Uygulama Paketi",
-"linktitle": "APP",
+"linktitle" : "APP",
   "menu": {
     "docs": {
       "identifier": "executable-app",

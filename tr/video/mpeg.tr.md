@@ -16,7 +16,7 @@
 "toc": true,
 "title": "MPEG Dosya Formatı - MPEG Video",
   "description":"MPEG formatı ve MPEG dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "MPEG",
+"linktitle" : "MPEG",
   "menu": {
     "docs": {
       "identifier": "video-mpeg",

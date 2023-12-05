@@ -17,7 +17,7 @@
 "toc":true,
 "title":"PAT Dosya Formatı - CorelDRAW Desen Dosyası",
    "description":"PAT CorelDRAW Desen dosya formatı ve PAT dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"PAT CorelDRAW",
+"linktitle" : "PAT CorelDRAW",
    "menu":{
       "docs":{
          "identifier":"image-pat-coreldraw",

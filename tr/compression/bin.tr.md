@@ -15,7 +15,7 @@
 "toc":true,
 "title":"BIN Dosya Formatı - MacBinary Kodlanmış Dosya",
    "description":"BIN dosyalarını oluşturabilen ve açabilen BIN formatı ve API'ler hakkında bilgi edinin.",
-"linktitle":"ÇÖZÜM",
+"linktitle" : "BIN",
    "menu":{
       "docs":{
          "identifier":"compression-bin",

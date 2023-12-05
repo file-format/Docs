@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Dosya Formatı İNDİRİLİYOR - Pando Eksik İndirme Dosyası",
   "description":"İNDİRME formatı ve İNDİRME dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "İNDİRİYOR",
+"linktitle" : "DOWNLOADING",
   "menu": {
     "docs": {
       "identifier": "misc-downloading",

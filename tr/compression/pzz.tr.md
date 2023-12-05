@@ -7,7 +7,7 @@
 "toc": true,
 "title": "PZZ Dosyası - .pzz dosyası nedir ve nasıl açılır?",
   "description":"PZZ dosyalarını oluşturabilen ve açabilen PZZ formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "PZZ",
+"linktitle" : "PZZ",
   "menu": {
     "docs": {
       "identifier": "compression-pzz",

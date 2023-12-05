@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CBZ Dosyası - ChessBase Veritabanı Arşivi - .cbz dosyası nedir ve onu nasıl açarım?",
   "description":"CBZ ChessBase Şifreli Veritabanı Arşivi formatı ve CBZ dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "CBZ",
+"linktitle" : "CBZ",
   "menu": {
     "docs": {
       "identifier": "data-cbz-chessbase",

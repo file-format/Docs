@@ -17,7 +17,7 @@
 "toc": true,
 "title": "NSP Dosya Formatı - Nintendo Gönderim Paketi",
   "description":"NSP dosyalarını oluşturabilen ve açabilen NSP formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "NSP",
+"linktitle" : "NSP",
   "menu": {
     "docs": {
       "identifier": "game-nsp",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "UDB Dosya Formatı - Microsoft Dynamics AX Kullanıcı Veritabanı Dosyası",
   "description":"UDB dosyalarını oluşturabilen ve açabilen UDB formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "UDB",
+"linktitle" : "UDB",
   "menu": {
     "docs": {
       "identifier": "database-udb",

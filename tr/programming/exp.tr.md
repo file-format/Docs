@@ -16,7 +16,7 @@
 "toc": true,
 "title": "EXP Dosya Formatı - Sembol Dışa Aktarma Dosyası",
   "description":"EXP dosyalarını oluşturabilen ve açabilen EXP formatı ve API'ler hakkında bilgi edinin.",
-"bağlantıbaşlığı": "EXP",
+"linktitle" : "EXP",
   "menu": {
     "docs": {
       "identifier": "programming-exp",

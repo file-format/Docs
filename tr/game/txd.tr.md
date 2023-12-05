@@ -15,7 +15,7 @@
 "toc": true,
 "title": "TXD Dosya Formatı - Oyun Dokusu Sözlüğü",
   "description":"TXD formatı ve TXD dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "TXD",
+"linktitle" : "TXD",
   "menu": {
     "docs": {
       "identifier": "game-txd",

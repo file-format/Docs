@@ -15,7 +15,7 @@
 "toc": true,
 "title": "WPROJ Dosya Formatı - Wwise Proje Dosyası",
   "description":"WPROJ dosya formatı ve WPROJ dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantıbaşlığı": "WPROJ",
+"linktitle" : "WPROJ",
   "menu": {
     "docs": {
       "identifier": "audio-wproj",

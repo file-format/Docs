@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CFG Dosya Formatı - MAME Yapılandırma Dosyası",
   "description":"CFG MAME Yapılandırma Dosyası formatı ve CFG dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "CFG MAME",
+"linktitle" : "CFG MAME",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-mame",

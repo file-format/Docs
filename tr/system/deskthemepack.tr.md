@@ -15,7 +15,7 @@
 "toc": true,
 "title": "DESKTHEMEPACK Dosya Formatı - Windows 10 Masaüstü Tema Paketi Dosyası",
   "description":"DESKTHEMEPACK dosyalarını oluşturabilen ve açabilen DESKTHEMEPACK formatı ve API'ler hakkında bilgi edinin.",
-"linktitle": "DESKTHEMEPACK",
+"linktitle" : "DESKTHEMEPACK",
   "menu": {
     "docs": {
       "identifier": "system-deskthemepack",

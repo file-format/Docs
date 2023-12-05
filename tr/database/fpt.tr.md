@@ -16,7 +16,7 @@
 "toc": true,
 "title": "FPT Dosya Formatı - FileMaker Pro Veritabanı Not Dosyası",
   "description":"FPT formatı ve FPT dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "FPT",
+"linktitle" : "FPT",
   "menu": {
     "docs": {
       "identifier": "database-fpt",

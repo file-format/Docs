@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK Dosya Formatı - Terraria World veya Player Yedeği",
   "description":"BAK Terraria Oyun formatı ve BAK dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "BAK TERRARİA",
+"linktitle" : "BAK TERRARİA",
   "menu": {
     "docs": {
       "identifier": "game-bak-terraria",

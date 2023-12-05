@@ -15,7 +15,7 @@
 "toc": true,
 "title": "FLP Dosya Formatı - FL Studio Proje Dosyası",
   "description":"FLP dosya formatı ve FLP dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "FLP",
+"linktitle" : "FLP",
   "menu": {
     "docs": {
       "identifier": "audio-flp",

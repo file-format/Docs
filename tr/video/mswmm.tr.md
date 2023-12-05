@@ -15,7 +15,7 @@
 "toc": true,
 "title": "MSWMM Dosya Formatı - Windows Movie Maker Projesi",
   "description":"MSWMM dosya formatı ve MSWMM dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantıbaşlığı": "MSWMM",
+"linktitle" : "MSWMM",
   "menu": {
     "docs": {
       "identifier": "video-mswmm",

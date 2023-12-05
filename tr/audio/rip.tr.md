@@ -15,7 +15,7 @@
 "toc": true,
 "title": "RIP Dosya Formatı - Hit'n'Mix Audio Karma Dosyası",
   "description":"RIP dosya formatı ve RIP dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle": "RIP",
+"linktitle" : "RIP",
   "menu": {
     "docs": {
       "identifier": "audio-rip",

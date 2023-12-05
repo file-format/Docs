@@ -15,7 +15,7 @@
 "toc": true,
 "title": "PRESTO Dosya Formatı - Presto Proje Elektronik Tablosu",
   "description":"PRESTO formatı ve PRESTO dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantıbaşlığı": "PRESTO",
+"linktitle" : "PRESTO",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-presto",

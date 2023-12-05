@@ -15,7 +15,7 @@
 "toc": true,
   "description":"XAP dosya formatı ve XAP dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
 "title": "XAP Dosya Formatı - Silverlight Uygulama Paketi",
-"bağlantı başlığı": "XAP",
+"linktitle" : "XAP",
   "menu": {
     "docs": {
       "identifier": "executable-xap",

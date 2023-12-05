@@ -17,7 +17,7 @@
 "toc":true,
 "title":"PK3 Dosya Formatı - Quake 3 Motoru Oyun Verileri",
    "description":"PK3 Quake 3 Engine Oyun Verileri dosya formatı ve PK3 dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"PK3",
+"linktitle" : "PK3",
    "menu":{
       "docs":{
          "identifier":"game-pk3-quake3",

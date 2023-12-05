@@ -17,7 +17,7 @@
 "toc": true,
 "title":"M2V Dosya Formatı - MPEG-2 Video",
    "description":"M2V MPEG-2 Video dosya formatı ve M2V dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"M2V",
+"linktitle" : "M2V",
    "menu":{
       "docs":{
          "identifier":"video-m2v",

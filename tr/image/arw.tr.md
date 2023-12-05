@@ -17,7 +17,7 @@
 "toc": true,
 "title": "ARW Dosya Formatı - Sony Alpha Raw Dijital Kamera Görüntüsü",
   "description":"ARW formatı ve ARW dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "ARW",
+"linktitle" : "ARW",
   "menu": {
     "docs": {
       "identifier": "image-arw",

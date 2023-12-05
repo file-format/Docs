@@ -16,7 +16,7 @@
 "toc": true,
 "title": "APM Dosya Formatı - Aldus Yerleştirilebilir Meta Dosya Görüntüsü",
   "description":"APM dosyalarını oluşturabilen ve açabilen APM formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "APM",
+"linktitle" : "APM",
   "menu": {
     "docs": {
       "identifier": "image-apm",

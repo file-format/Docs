@@ -16,7 +16,7 @@
 "toc": true,
 "title": "USR Dosya Formatı - SmartMusic Özel Dosyası",
   "description":"USR dosyalarını oluşturabilen ve açabilen USR formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "USR",
+"linktitle" : "USR",
   "menu": {
     "docs": {
       "identifier": "misc-usr",

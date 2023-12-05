@@ -16,7 +16,7 @@
 "toc": true,
 "title": "SMPF Dosya Formatı - Sprite Monkey Projesi",
   "description":"SMPF dosyalarını oluşturabilen ve açabilen SMPF formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "SMPF",
+"linktitle" : "SMPF",
   "menu": {
     "docs": {
       "identifier": "compression-smpf",

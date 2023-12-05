@@ -17,7 +17,7 @@
 "toc": true,
 "title":"VCE Dosyası - Visual CertExam - .vce dosyası nedir ve nasıl açılır?",
    "description":"VCE Visual CertExam Exam dosya formatı ve VCE dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"VCE",
+"linktitle" : "VCE",
    "menu":{
       "docs":{
          "identifier":"data-vce",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "HTT Dosya Formatı - Köprü Metni Şablonu",
   "description":"HTT dosyalarını oluşturabilen ve açabilen HTT formatı ve API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "HTT",
+"linktitle" : "HTT",
   "menu": {
     "docs": {
       "identifier": "system-htt",

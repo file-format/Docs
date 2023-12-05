@@ -14,7 +14,7 @@
 "toc": true,
   "description":"AIR dosyalarını oluşturabilen ve açabilen AIR dosya formatı ve API'ler hakkında bilgi edinin.",
 "title": "AIR Dosya Formatı - Adobe AIR Kurulum Paketi Dosyası",
-"bağlantıbaşlığı": "HAVA",
+"linktitle" : "HAVA",
   "menu": {
     "docs": {
       "identifier": "executable-air",

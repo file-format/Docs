@@ -18,7 +18,7 @@
 "toc": true,
 "title": "AIF Dosya Formatı - Ses Değişim Dosyası Formatı",
   "description":"AIF formatı ve AIF dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"bağlantı başlığı": "AIF",
+"linktitle" : "AIF",
   "menu": {
     "docs": {
       "identifier": "audio-aif",

@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CPI Dosya Formatı - AVCHD Video Klip Bilgisi",
    "description":"CPI AVCHD Video Klip Bilgileri dosya formatı ve CPI dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"TÜFE",
+"linktitle" : "CPI",
    "menu":{
       "docs":{
          "identifier":"video-cpi",

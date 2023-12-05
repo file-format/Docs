@@ -17,7 +17,7 @@
 "toc": true,
 "title":"IPS Dosya Formatı - PlayStation 2 Oyun İçi Videosu",
    "description":"IPS PS2 formatı ve IPS dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"IPS PS2",
+"linktitle" : "IPS PS2",
    "menu":{
       "docs":{
          "identifier":"game-ips-ps2",

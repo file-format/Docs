@@ -17,7 +17,7 @@
 "toc": true,
 "title":"INK Dosyası - Mimio Defter - .ink dosyası nedir ve nasıl açılır?",
    "description":"INK Mimio Notebook dosya formatı ve INK dosyalarını oluşturup açabilen API'ler hakkında bilgi edinin.",
-"linktitle":"MÜREKKEP",
+"linktitle" : "INK",
    "menu":{
       "docs":{
          "identifier":"data-ink",
