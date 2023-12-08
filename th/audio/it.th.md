@@ -16,7 +16,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ไอที - โมดูลตัวติดตามแรงกระตุ้น",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ IT และ API ที่สามารถสร้างและเปิดไฟล์ IT",
-"linktitle": "ไอที",
+  "linktitle": "IT",
   "menu": {
     "docs": {
       "identifier": "audio-it",

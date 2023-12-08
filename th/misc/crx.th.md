@@ -18,7 +18,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ CRX - ส่วนขยายของ Google Chrome",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ CRX และ API ที่สามารถสร้างและเปิดไฟล์ CRX",
-"linktitle": "CRX",
+  "linktitle": "CRX",
   "menu": {
     "docs": {
       "identifier": "misc-crx",

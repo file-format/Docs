@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ QPW - สเปรดชีต Quattro Pro",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ QPW และ API ที่สามารถสร้างและเปิดไฟล์ QPW",
-"linktitle": "QPW",
+  "linktitle": "QPW",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-qpw",

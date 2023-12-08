@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ BAY - รูปภาพ Casio RAW",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ BAY และ API ที่สามารถสร้างและเปิดไฟล์ BAY",
-"linktitle": "เบย์",
+  "linktitle": "BAY",
   "menu": {
     "docs": {
       "identifier": "image-bay",

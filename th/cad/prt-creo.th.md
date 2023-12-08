@@ -17,7 +17,7 @@
 "toc":true,
 "title": "รูปแบบไฟล์ PRT - ส่วน Creo Parametric ",
    "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ PRT Creo Parametric Part และ API ที่สามารถสร้างและเปิดไฟล์ PRT",
-"linktitle": "PRT",
+   "linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"cad-prt-creo",

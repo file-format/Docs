@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Video Converter คืออะไร คู่มือขั้นสูงสำหรับตัวแปลงวิดีโอ",
   "description":"เรียนรู้เกี่ยวกับตัวแปลงวิดีโอ รูปแบบ คำถามที่พบบ่อย และเครื่องมือที่ดีที่สุด",
-"linktitle": "ตัวแปลงวิดีโอ",
+  "linktitle": "VIDEO CONVERTER",
   "menu": {
     "docs": {
       "identifier": "misc-video-converter",

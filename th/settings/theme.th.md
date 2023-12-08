@@ -16,7 +16,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ THEME - ธีม Microsoft Plus! Desktop",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ THEME และ API ที่สามารถสร้างและเปิดไฟล์ THEME",
-"linktitle": "ธีม",
+  "linktitle": "THEME",
   "menu": {
     "docs": {
       "identifier": "settings-theme",

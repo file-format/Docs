@@ -16,7 +16,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ JSF - ไฟล์คำสั่งจาวาสคริปต์",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ JSF และ API ที่สามารถสร้างและเปิดไฟล์ JSF",
-"linktitle": "JSF",
+  "linktitle": "JSF",
   "menu": {
     "docs": {
       "identifier": "executable-jsf",

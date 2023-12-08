@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ EFS - ไฟล์ Ensoniq SQ-80",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ EFS และ API ที่สามารถสร้างและเปิดไฟล์ EFS",
-"linktitle": "EFS",
+  "linktitle": "EFS",
   "menu": {
     "docs": {
       "identifier": "audio-efs",

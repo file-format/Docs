@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ WQ2 - Quattro Pro สำหรับไฟล์สเปรดชีต DOS",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ WQ2 และ API ที่สามารถสร้างและเปิดไฟล์ WQ2",
-"linktitle": "WQ2",
+  "linktitle": "WQ2",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-wq2",

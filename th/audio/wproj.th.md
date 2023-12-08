@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ WPROJ - ไฟล์โครงการ Wwise",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ WPROJ และ API ที่สามารถสร้างและเปิดไฟล์ WPROJ",
-"linktitle": "WPROJ",
+  "linktitle": "WPROJ",
   "menu": {
     "docs": {
       "identifier": "audio-wproj",

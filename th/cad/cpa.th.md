@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ CPA - ไฟล์เก็บถาวร CADSTAR PCB",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ CPA และ API ที่สามารถสร้างและเปิดไฟล์ CPA",
-"linktitle": "CPA",
+  "linktitle": "CPA",
   "menu": {
     "docs": {
       "identifier": "cad-cpa",

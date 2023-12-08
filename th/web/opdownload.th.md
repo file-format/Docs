@@ -14,7 +14,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ OPDOWNLOAD - ไฟล์ที่ดาวน์โหลดมาบางส่วนจาก Opera",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ OPDOWNLOAD และ API ที่สามารถสร้างและเปิดไฟล์ OPDOWNLOAD",
-"linktitle": "OPดาวน์โหลด",
+  "linktitle": "OPDOWNLOAD",
   "menu": {
     "docs": {
       "identifier": "web-opdownload",

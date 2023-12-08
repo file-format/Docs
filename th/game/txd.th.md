@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ TXD - พจนานุกรมพื้นผิวเกม",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ TXD และ API ที่สามารถสร้างและเปิดไฟล์ TXD",
-"linktitle": "TXD",
+  "linktitle": "TXD",
   "menu": {
     "docs": {
       "identifier": "game-txd",

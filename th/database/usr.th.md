@@ -16,7 +16,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ USR - ไฟล์ฐานข้อมูล FileMaker Pro",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ USR และ API ที่สามารถสร้างและเปิดไฟล์ USR",
-"linktitle": "USR",
+  "linktitle": "USR",
   "menu": {
     "docs": {
       "identifier": "database-usr",

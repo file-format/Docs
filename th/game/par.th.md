@@ -15,7 +15,7 @@
 "toc":true,
 "title": "รูปแบบไฟล์ PAR - ไฟล์พารามิเตอร์เครื่องบิน FMS ",
    "description":"เรียนรู้เกี่ยวกับรูปแบบ PAR และ API ที่สามารถสร้างและเปิดไฟล์ PAR",
-"linktitle": "PAR",
+   "linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"game-par",

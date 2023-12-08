@@ -18,7 +18,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ FPT - ไฟล์บันทึกตาราง Alpha Five",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ FPT Alpha Five และ API ที่สามารถสร้างและเปิดไฟล์ FPT",
-"linktitle": "FPT Alpha Five",
+  "linktitle": "FPT Alpha Five",
   "menu": {
     "docs": {
       "identifier": "database-fpt-alphafive",

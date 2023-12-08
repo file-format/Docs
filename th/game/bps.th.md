@@ -16,7 +16,7 @@
 "toc":true,
 "title": "รูปแบบไฟล์ BPS - ไฟล์แพทช์ BPS ",
    "description":"เรียนรู้เกี่ยวกับรูปแบบ BPS และ API ที่สามารถสร้างและเปิดไฟล์ BPS",
-"linktitle": "BPS",
+   "linktitle":"BPS",
    "menu":{
       "docs":{
          "identifier":"game-bps",

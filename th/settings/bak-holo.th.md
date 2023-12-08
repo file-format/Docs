@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ BAK - การสำรองข้อมูล Holo Launcher",
   "description":"เรียนรู้เกี่ยวกับรูปแบบการสำรองข้อมูล BAK Holo Launcher และ API ที่สามารถสร้างและเปิดไฟล์ BAK",
-"linktitle": "บาก โฮโล",
+  "linktitle": "BAK HOLO",
   "menu": {
     "docs": {
       "identifier": "settings-bak-holo",

@@ -18,7 +18,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ FPT - FoxPro Table Memo",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ FPT FoxPro และ API ที่สามารถสร้างและเปิดไฟล์ FPT",
-"linktitle": "FPT FoxPro",
+  "linktitle": "FPT FoxPro",
   "menu": {
     "docs": {
       "identifier": "database-fpt-foxpro",

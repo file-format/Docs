@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ BMS - สคริปต์ QuickBMS",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ BMS และ API ที่สามารถสร้างและเปิดไฟล์ BMS",
-"linktitle": "BMS",
+  "linktitle": "BMS",
   "menu": {
     "docs": {
       "identifier": "executable-bms",

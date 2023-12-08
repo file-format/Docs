@@ -18,7 +18,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ SCC - การบันทึกหน้าจอ ScreenFlow",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ SCC และ API ที่สามารถสร้างและเปิดไฟล์ SCC",
-"linktitle": "SCC",
+  "linktitle": "SCC",
   "menu": {
     "docs": {
       "identifier": "video-scc",

@@ -15,7 +15,7 @@
 "toc":true,
 "title": "รูปแบบไฟล์ BIN - ไฟล์ปฏิบัติการ Unix ",
    "description":"เรียนรู้เกี่ยวกับรูปแบบ BIN และ API ที่สามารถสร้างและเปิดไฟล์ BIN",
-"linktitle": "BIN",
+   "linktitle":"BIN",
    "menu":{
       "docs":{
          "identifier":"executable-bin",

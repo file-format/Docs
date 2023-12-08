@@ -15,7 +15,7 @@
 "toc":true,
 "title": "รูปแบบไฟล์ BIN - อิมเมจ PSX PlayStation BIOS ",
    "description":"เรียนรู้เกี่ยวกับรูปแบบ BIN และ API ที่สามารถสร้างและเปิดไฟล์ BIN",
-"linktitle": "BIN PCSX",
+   "linktitle":"BIN PCSX",
    "menu":{
       "docs":{
          "identifier":"game-bin-pcsx",

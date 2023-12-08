@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ NUT - ไฟล์วิดีโอ NUT",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ NUT และ API ที่สามารถสร้างและเปิดไฟล์ NUT",
-"linktitle": "NUT",
+  "linktitle": "NUT",
   "menu": {
     "docs": {
       "identifier": "video-nut",

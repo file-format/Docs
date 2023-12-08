@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ BAK - ไฟล์สำรอง",
   "description":"เรียนรู้เกี่ยวกับรูปแบบการสำรองข้อมูล BAK และ API ที่สามารถสร้างและเปิดไฟล์ BAK",
-"linktitle": "สำรองข้อมูล BAK",
+  "linktitle": "BAK Backup",
   "menu": {
     "docs": {
       "identifier": "misc-bak-backup",

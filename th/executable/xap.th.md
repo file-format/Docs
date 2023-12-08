@@ -15,7 +15,7 @@
 "toc": true,
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ XAP และ API ที่สามารถสร้างและเปิดไฟล์ XAP",
 "title": "รูปแบบไฟล์ XAP - แพ็คเกจแอปพลิเคชัน Silverlight",
-"linktitle": "XAP",
+  "linktitle": "XAP",
   "menu": {
     "docs": {
       "identifier": "executable-xap",

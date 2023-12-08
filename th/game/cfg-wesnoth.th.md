@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ CFG - ไฟล์ภาษามาร์กอัป Wesnoth",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ภาษามาร์กอัป CFG Wesnoth และ API ที่สามารถสร้างและเปิดไฟล์ CFG",
-"linktitle": "ซีเอฟจี เวสนอธ",
+  "linktitle": "CFG Wesnoth",
   "menu": {
     "docs": {
       "identifier": "game-cfg-wesnoth",

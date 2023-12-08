@@ -14,7 +14,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ REGTRANS-MS - ไฟล์บันทึกธุรกรรมรีจิสทรี",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ REGTRANS-MS และ API ที่สามารถสร้างและเปิดไฟล์ REGTRANS-MS",
-"linktitle": "REGTRANS-MS",
+  "linktitle": "REGTRANS-MS",
   "menu": {
     "docs": {
       "identifier": "system-regtrans-ms",

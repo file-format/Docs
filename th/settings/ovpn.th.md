@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ OVPN - ไฟล์การกำหนดค่า OpenVPN",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ OVPN และ API ที่สามารถสร้างและเปิดไฟล์ OVPN",
-"linktitle": "OVVPN",
+  "linktitle": "OVPN",
   "menu": {
     "docs": {
       "identifier": "settings-ovpn",

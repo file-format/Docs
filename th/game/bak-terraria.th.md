@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ BAK - Terraria World หรือการสำรองข้อมูลผู้เล่น",
   "description":"เรียนรู้เกี่ยวกับรูปแบบเกม BAK Terraria และ API ที่สามารถสร้างและเปิดไฟล์ BAK",
-"linktitle": "บาก TERRARIA",
+  "linktitle": "BAK TERRARIA",
   "menu": {
     "docs": {
       "identifier": "game-bak-terraria",

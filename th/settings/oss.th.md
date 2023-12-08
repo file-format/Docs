@@ -14,7 +14,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ OSS - ไฟล์ค้นหาที่บันทึกไว้ของ Microsoft Outlook",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ OSS และ API ที่สามารถสร้างและเปิดไฟล์ OSS",
-"linktitle": "OSS",
+  "linktitle": "OSS",
   "menu": {
     "docs": {
       "identifier": "settings-oss",

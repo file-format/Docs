@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ CFG - ไฟล์การกำหนดค่า Source Engine",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์การกำหนดค่า CFG Source Engine และ API ที่สามารถสร้างและเปิดไฟล์ CFG",
-"linktitle": "โปรแกรมต้นทาง CFG",
+  "linktitle": "CFG Source Engine",
   "menu": {
     "docs": {
       "identifier": "game-cfg-sourceengine",

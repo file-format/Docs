@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ CFG - ไฟล์การเชื่อมต่อเซิร์ฟเวอร์ Citrix",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์การเชื่อมต่อเซิร์ฟเวอร์ CFG Citrix และ API ที่สามารถสร้างและเปิดไฟล์ CFG",
-"linktitle": "CFG Citrix",
+  "linktitle": "CFG Citrix",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-citrix",

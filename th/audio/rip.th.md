@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ RIP - ไฟล์ผสมเสียง Hit'n'Mix",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ RIP และ API ที่สามารถสร้างและเปิดไฟล์ RIP",
-"linktitle": "RIP",
+  "linktitle": "RIP",
   "menu": {
     "docs": {
       "identifier": "audio-rip",

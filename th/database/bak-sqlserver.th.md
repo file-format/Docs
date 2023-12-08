@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ BAK - การสำรองฐานข้อมูล Microsoft SQL Server",
   "description":"เรียนรู้เกี่ยวกับรูปแบบการสำรองข้อมูล BAK SQL Server และ API ที่สามารถสร้างและเปิดไฟล์ BAK",
-"linktitle": "BAK เซิร์ฟเวอร์ SQL",
+  "linktitle": "BAK SQL Server",
   "menu": {
     "docs": {
       "identifier": "database-bak-sqlserver",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ PDM - ไฟล์ฐานข้อมูล PowerDesigner",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ PDM และ API ที่สามารถสร้างและเปิดไฟล์ PDM",
-"linktitle": "PDM",
+  "linktitle": "PDM",
   "menu": {
     "docs": {
       "identifier": "database-pdm",

@@ -17,7 +17,7 @@
 "toc":true,
 "title": "รูปแบบไฟล์ CDR - ข้อมูลเสียงซีดีดิบ ",
    "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ CDR Raw CD Audio Data และ API ที่สามารถสร้างและเปิดไฟล์ CDR",
-"linktitle": "CDR",
+   "linktitle":"CDR",
    "menu":{
       "docs":{
          "identifier":"audio-cdr",

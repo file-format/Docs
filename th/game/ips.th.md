@@ -17,7 +17,7 @@
 "toc":true,
 "title": "รูปแบบไฟล์ IPS - ไฟล์แพทช์ระบบแพทช์ภายใน ",
    "description":"เรียนรู้เกี่ยวกับรูปแบบ IPS และ API ที่สามารถสร้างและเปิดไฟล์ IPS",
-"linktitle": "IPS",
+   "linktitle":"IPS",
    "menu":{
       "docs":{
          "identifier":"game-ips",

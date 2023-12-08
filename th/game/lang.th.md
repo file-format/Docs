@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ LANG - ไฟล์แปลภาษา Minecraft",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ LANG และ API ที่สามารถสร้างและเปิดไฟล์ LANG",
-"linktitle": "LANG",
+  "linktitle": "LANG",
   "menu": {
     "docs": {
       "identifier": "game-lang",

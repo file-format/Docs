@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ META - ไฟล์ข้อมูลเมตาที่มีอยู่",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ META และ API ที่สามารถสร้างและเปิดไฟล์ META",
-"linktitle": "เมตา",
+  "linktitle": "META",
   "menu": {
     "docs": {
       "identifier": "game-meta",

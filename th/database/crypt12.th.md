@@ -14,7 +14,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ CRYPT12 - ไฟล์ฐานข้อมูลที่เข้ารหัส WhatsApp",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ CRYPT12 และ API ที่สามารถสร้างและเปิดไฟล์ CRYPT12",
-"linktitle": "CRYPT12",
+  "linktitle": "CRYPT12",
   "menu": {
     "docs": {
       "identifier": "database-crypt12",

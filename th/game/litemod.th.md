@@ -14,7 +14,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ LITEMOD - ไฟล์ Mod Minecraft LiteLoader",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ LITEMOD และ API ที่สามารถสร้างและเปิดไฟล์ LITEMOD",
-"linktitle": "LITEMOD",
+  "linktitle": "LITEMOD",
   "menu": {
     "docs": {
       "identifier": "game-litemod",

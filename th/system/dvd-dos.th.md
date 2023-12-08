@@ -17,7 +17,7 @@
 "toc":true,
 "title": "รูปแบบไฟล์ DVD - ไดรเวอร์อุปกรณ์ DOS ",
    "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ไดรเวอร์อุปกรณ์ MS-DOS ของ DVD และ API ที่สามารถสร้างและเปิดไฟล์ DVD",
-"linktitle": "ดีวีดี",
+   "linktitle":"DVD",
    "menu":{
       "docs":{
          "identifier":"system-dvd-dos",

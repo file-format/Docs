@@ -17,7 +17,7 @@
 "toc":true,
 "title": "ไฟล์ ZOO - ไฟล์ .zoo คืออะไร และจะเปิดได้อย่างไร",
    "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์บีบอัด ZOO และ API ที่สามารถสร้างและเปิดไฟล์ ZOO",
-"linktitle": "สวนสัตว์",
+   "linktitle":"ZOO",
    "menu":{
       "docs":{
          "identifier":"compression-zoo",

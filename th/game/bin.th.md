@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ BIN - ROM เกม Sega Genesis",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ BIN และ API ที่สามารถสร้างและเปิดไฟล์ BIN",
-"linktitle": "ถัง",
+  "linktitle": "BIN",
   "menu": {
     "docs": {
       "identifier": "game-bin",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ WPS - ไฟล์โครงการ Workbench ของนักแปล SDL",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ WPS และ API ที่สามารถสร้างและเปิดไฟล์ WPS",
-"linktitle": "WPS",
+  "linktitle": "WPS",
   "menu": {
     "docs": {
       "identifier": "settings-wps",

@@ -17,7 +17,7 @@
 "toc":true,
 "title": "รูปแบบไฟล์ CDR - Macintosh DVD/CD Master",
    "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ CDR Macintosh DVD/CD Master และ API ที่สามารถสร้างและเปิดไฟล์ CDR",
-"linktitle": "CDR",
+   "linktitle":"CDR",
    "menu":{
       "docs":{
          "identifier":"disc-and-media-cdr",

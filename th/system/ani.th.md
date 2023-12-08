@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ ANI - เคอร์เซอร์แบบเคลื่อนไหวของ Windows",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ ANI และ API ที่สามารถสร้างและเปิดไฟล์ ANI",
-"linktitle": "ANI",
+  "linktitle": "ANI",
   "menu": {
     "docs": {
       "identifier": "system-ani",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ HTTP - เทมเพลตไฮเปอร์เท็กซ์",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ HTT และ API ที่สามารถสร้างและเปิดไฟล์ HTT",
-"linktitle": "HTT",
+  "linktitle": "HTT",
   "menu": {
     "docs": {
       "identifier": "system-htt",

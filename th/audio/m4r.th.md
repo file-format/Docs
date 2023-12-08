@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ M4R - ไฟล์ริงโทน iPhone",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ M4R และ API ที่สามารถสร้างและเปิดไฟล์ M4R",
-"linktitle": "M4R",
+  "linktitle": "M4R",
   "menu": {
     "docs": {
       "identifier": "audio-m4r",

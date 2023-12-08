@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ FLP - ไฟล์โครงการ FL Studio",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ FLP และ API ที่สามารถสร้างและเปิดไฟล์ FLP",
-"linktitle": "FLP",
+  "linktitle": "FLP",
   "menu": {
     "docs": {
       "identifier": "audio-flp",

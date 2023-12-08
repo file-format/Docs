@@ -17,7 +17,7 @@
 "toc":true,
 "title": "รูปแบบไฟล์ CUE - แผ่นคิว CDRWIN ",
    "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ CUE CDRWIN Cue Sheet และ API ที่สามารถสร้างและเปิดไฟล์ CUE",
-"linktitle": "CUE CDRWIN ",
+   "linktitle":"CUE CDRWIN",
    "menu":{
       "docs":{
          "identifier":"disc-and-media-cue-cdrwin",

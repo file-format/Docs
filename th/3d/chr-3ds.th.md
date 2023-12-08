@@ -17,7 +17,7 @@
 "toc":true,
 "title": "รูปแบบไฟล์ CHR - ไฟล์อักขระ 3ds Max ",
    "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์อักขระ CHR 3ds Max และ API ที่สามารถสร้างและเปิดไฟล์ CHR",
-"linktitle": "CHR 3ds ",
+   "linktitle":"CHR 3ds",
    "menu":{
       "docs":{
          "identifier":"3d-chr-3ds",

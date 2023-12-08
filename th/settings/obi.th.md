@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ OBI - ไฟล์สมัครสมาชิก Outlook RSS",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ OBI และ API ที่สามารถสร้างและเปิดไฟล์ OBI",
-"linktitle": "OBI",
+  "linktitle": "OBI",
   "menu": {
     "docs": {
       "identifier": "settings-obi",

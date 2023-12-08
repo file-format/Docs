@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ CFG - ไฟล์การกำหนดค่าโมเดล Cal3D",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์การกำหนดค่าโมเดล CFG Cal3D และ API ที่สามารถสร้างและเปิดไฟล์ CFG",
-"linktitle": "CFG Cal3D",
+  "linktitle": "CFG Cal3D",
   "menu": {
     "docs": {
       "identifier": "misc-cfg-cal3d",

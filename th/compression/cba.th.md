@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ CBA - คลังหนังสือการ์ตูน",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ CBA และ API ที่สามารถสร้างและเปิดไฟล์ CBA",
-"linktitle": "CBA",
+  "linktitle": "CBA",
   "menu": {
     "docs": {
       "identifier": "compression-cba",

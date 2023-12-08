@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ PRC - ไฟล์ eBook Mobipocket",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ PRC และ API ที่สามารถสร้างและเปิดไฟล์ PRC",
-"linktitle": "PRC",
+  "linktitle": "PRC",
   "menu": {
     "docs": {
       "identifier": "ebook-prc",

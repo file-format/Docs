@@ -16,7 +16,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ USR - ไฟล์กำหนดเอง SmartMusic",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ USR และ API ที่สามารถสร้างและเปิดไฟล์ USR",
-"linktitle": "USR",
+  "linktitle": "USR",
   "menu": {
     "docs": {
       "identifier": "misc-usr",

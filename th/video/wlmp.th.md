@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ WLMP - โครงการ Windows Live Movie Maker",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ WLMP และ API ที่สามารถสร้างและเปิดไฟล์ WLMP",
-"linktitle": "WLMP",
+  "linktitle": "WLMP",
   "menu": {
     "docs": {
       "identifier": "video-wlmp",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ LRV - ไฟล์วิดีโอความละเอียดต่ำโดย GoPro",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ LRV และ API ที่สามารถสร้างและเปิดไฟล์ LRV",
-"linktitle": "LRV",
+  "linktitle": "LRV",
   "menu": {
     "docs": {
       "identifier": "video-lrv",

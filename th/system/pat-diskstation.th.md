@@ -17,7 +17,7 @@
 "toc":true,
 "title": "รูปแบบไฟล์ PAT - ไฟล์การติดตั้ง DiskStation Manager ",
    "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์การติดตั้ง PAT DiskStation Manager และ API ที่สามารถสร้างและเปิดไฟล์ PAT",
-"linktitle": "PAT",
+   "linktitle":"PAT",
    "menu":{
       "docs":{
          "identifier":"system-pat-diskstation",

@@ -17,7 +17,7 @@
 "toc":true,
 "title": "รูปแบบไฟล์ MTL - ไฟล์ไลบรารีเทมเพลตวัสดุ OBJ ",
    "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ไลบรารีเทมเพลตวัสดุ MTL OBJ และ API ที่สามารถสร้างและเปิดไฟล์ MTL",
-"linktitle": "MTL",
+   "linktitle":"MTL",
    "menu":{
       "docs":{
          "identifier":"3d-mtl",

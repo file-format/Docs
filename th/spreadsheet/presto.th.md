@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ PRESTO - สเปรดชีตโครงการ Presto",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ PRESTO และ API ที่สามารถสร้างและเปิดไฟล์ PRESTO",
-"linktitle": "PRESTO",
+  "linktitle": "PRESTO",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-presto",

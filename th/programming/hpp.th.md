@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ HPP - ไฟล์ส่วนหัว C++",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ HPP และ API ที่สามารถสร้างและเปิดไฟล์ HPP",
-"linktitle": "HPP",
+  "linktitle": "HPP",
   "menu": {
     "docs": {
       "identifier": "programming-hpp",

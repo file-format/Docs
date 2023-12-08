@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ CFG - ไฟล์กำหนดค่า MAME",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์การกำหนดค่า CFG MAME และ API ที่สามารถสร้างและเปิดไฟล์ CFG",
-"linktitle": "CFG MAME",
+  "linktitle": "CFG MAME",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-mame",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ PRPROJ - โครงการ Adobe Premiere Pro",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ PRPROJ และ API ที่สามารถสร้างและเปิดไฟล์ PRPROJ",
-"linktitle": "PRPROJ",
+  "linktitle": "PRPROJ",
   "menu": {
     "docs": {
       "identifier": "video-prproj",

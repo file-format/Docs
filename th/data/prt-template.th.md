@@ -17,7 +17,7 @@
 "toc":true,
 "title": "ไฟล์ PRT - เทมเพลตการนำเสนอ - ไฟล์ .prt คืออะไร และฉันจะเปิดได้อย่างไร",
    "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์เทมเพลตการนำเสนอ PRT และ API ที่สามารถสร้างและเปิดไฟล์ PRT",
-"linktitle": "PRT",
+   "linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"data-prt-template",

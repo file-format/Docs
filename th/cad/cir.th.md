@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ CIR - ไฟล์แผนผังไมโครแคป",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ CIR และ API ที่สามารถสร้างและเปิดไฟล์ CIR",
-"linktitle": "CIR",
+  "linktitle": "CIR",
   "menu": {
     "docs": {
       "identifier": "cad-cir",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ BDC - ไฟล์ออกแบบของนักออกแบบ West Point Bridge",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ BDC และ API ที่สามารถสร้างและเปิดไฟล์ BDC",
-"linktitle": "BDC",
+  "linktitle": "BDC",
   "menu": {
     "docs": {
       "identifier": "cad-bdc",

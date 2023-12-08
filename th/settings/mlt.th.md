@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ MLT - โครงการช็อตคัต",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ MLT Shotcut Project และ API ที่สามารถสร้างและเปิดไฟล์ MLT",
-"linktitle": "MLT",
+  "linktitle": "MLT",
   "menu": {
     "docs": {
       "identifier": "settings-mlt",

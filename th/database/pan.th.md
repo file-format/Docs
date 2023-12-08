@@ -16,7 +16,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ PAN - ไฟล์ฐานข้อมูลพาโนรามา",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ PAN และ API ที่สามารถสร้างและเปิดไฟล์ PAN",
-"linktitle": "แพน",
+  "linktitle": "PAN",
   "menu": {
     "docs": {
       "identifier": "database-pan",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ CSX - สคริปต์ Visual C#",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ CSX และ API ที่สามารถสร้างและเปิดไฟล์ CSX",
-"linktitle": "CSX",
+  "linktitle": "CSX",
   "menu": {
     "docs": {
       "identifier": "programming-csx",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ IPSW - ไฟล์อัพเดตซอฟต์แวร์ iPhone",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ IPSW และ API ที่สามารถสร้างและเปิดไฟล์ IPSW",
-"linktitle": "IPSW",
+  "linktitle": "IPSW",
   "menu": {
     "docs": {
       "identifier": "misc-ipsw",

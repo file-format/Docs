@@ -14,7 +14,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ CONF - ไฟล์การกำหนดค่า Unix",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ CONF และ API ที่สามารถสร้างและเปิดไฟล์ CONF",
-"linktitle": "CONF",
+  "linktitle": "CONF",
   "menu": {
     "docs": {
       "identifier": "settings-conf",

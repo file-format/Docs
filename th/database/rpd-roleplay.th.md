@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ RPD - ไฟล์ข้อมูลตัวออกแบบบทบาท",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ข้อมูลนักออกแบบบทบาท RPD และ API ที่สามารถสร้างและเปิดไฟล์ RPD",
-"linktitle": "สวมบทบาท RPD",
+  "linktitle": "RPD Roleplay",
   "menu": {
     "docs": {
       "identifier": "database-rpd-roleplay",

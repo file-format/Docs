@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ SAMI - ไฟล์คำบรรยายและการแลกเปลี่ยนข้อมูลเมตา",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ SAMI และ API ที่สามารถสร้างและเปิดไฟล์ SAMI",
-"linktitle": "สมิ",
+  "linktitle": "SAMI",
   "menu": {
     "docs": {
       "identifier": "video-sami",

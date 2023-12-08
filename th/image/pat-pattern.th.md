@@ -17,7 +17,7 @@
 "toc":true,
 "title": "รูปแบบไฟล์ PAT - ไฟล์รูปแบบ ",
    "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์รูปแบบ PAT และ API ที่สามารถสร้างและเปิดไฟล์ PAT",
-"linktitle": "รูปแบบ PAT ",
+   "linktitle":"PAT Pattern",
    "menu":{
       "docs":{
          "identifier":"image-pat-pattern",

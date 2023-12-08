@@ -15,7 +15,7 @@
 "toc": true,
 "title": "การดาวน์โหลดรูปแบบไฟล์ - ไฟล์ดาวน์โหลด Pando ไม่สมบูรณ์",
   "description":"เรียนรู้เกี่ยวกับรูปแบบการดาวน์โหลดและ API ที่สามารถสร้างและเปิดไฟล์การดาวน์โหลดได้",
-"linktitle": "กำลังดาวน์โหลด",
+  "linktitle": "DOWNLOADING",
   "menu": {
     "docs": {
       "identifier": "misc-downloading",

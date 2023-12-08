@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ CFG - ไฟล์การกำหนดค่า MUGEN",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์การกำหนดค่า CFG MUGEN และ API ที่สามารถสร้างและเปิดไฟล์ CFG",
-"linktitle": "CFG MUGEN",
+  "linktitle": "CFG M.U.G.E.N",
   "menu": {
     "docs": {
       "identifier": "game-cfg-mugen",

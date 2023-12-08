@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ RAW - ข้อมูลภาพดิบ",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ RAW และ API ที่สามารถสร้างและเปิดไฟล์ RAW",
-"linktitle": "RAW",
+  "linktitle": "RAW",
   "menu": {
     "docs": {
       "identifier": "image-raw",

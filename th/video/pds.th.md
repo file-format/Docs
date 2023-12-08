@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ PDS - ไฟล์สคริปต์ PowerDirector",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ PDS และ API ที่สามารถสร้างและเปิดไฟล์ PDS",
-"linktitle": "PDS",
+  "linktitle": "PDS",
   "menu": {
     "docs": {
       "identifier": "video-pds",

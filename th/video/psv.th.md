@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ PSV - ไฟล์วิดีโอพหูพจน์",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ PSV และ API ที่สามารถสร้างและเปิดไฟล์ PSV",
-"linktitle": "พีเอสวี",
+  "linktitle": "PSV",
   "menu": {
     "docs": {
       "identifier": "video-psv",

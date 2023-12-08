@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ MUI - ไฟล์เครื่องมือผู้ใช้มากมาย",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ MUI และ API ที่สามารถสร้างและเปิดไฟล์ MUI",
-"linktitle": "MUI",
+  "linktitle": "MUI",
   "menu": {
     "docs": {
       "identifier": "audio-mui",

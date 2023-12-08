@@ -15,7 +15,7 @@
 "toc": true,
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ APP และ API ที่สามารถสร้างและเปิดไฟล์ APP",
 "title": "รูปแบบไฟล์แอป - ชุดแอปพลิเคชัน macOS",
-"linktitle": "แอป",
+  "linktitle": "APP",
   "menu": {
     "docs": {
       "identifier": "executable-app",

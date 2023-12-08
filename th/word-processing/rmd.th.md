@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ RMD - ไฟล์มาร์กดาวน์ R",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ RMD และ API ที่สามารถสร้างและเปิดไฟล์ RMD",
-"linktitle": "RMD",
+  "linktitle": "RMD",
   "menu": {
     "docs": {
       "identifier": "word-processing-rmd",

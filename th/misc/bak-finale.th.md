@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ BAK - การสำรองคะแนน Finale 2012",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ BAK Finale และ API ที่สามารถสร้างและเปิดไฟล์ BAK",
-"linktitle": "BAK ตอนจบ",
+  "linktitle": "BAK Finale",
   "menu": {
     "docs": {
       "identifier": "misc-bak-finale",

@@ -11,7 +11,7 @@
   "menu" : {
     "docs" : {
       "parent" : "misc",
-      "identifier" : "misc-th-mabk"
+      "parent" : "misc"
 }
 },
   "lastmod" : "2022-01-26"

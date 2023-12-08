@@ -14,7 +14,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ CRYPT14 - ไฟล์ฐานข้อมูลที่เข้ารหัสของ WhatsApp",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ CRYPT14 และ API ที่สามารถสร้างและเปิดไฟล์ CRYPT14",
-"linktitle": "CRYPT14",
+  "linktitle": "CRYPT14",
   "menu": {
     "docs": {
       "identifier": "database-crypt14",

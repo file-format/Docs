@@ -18,7 +18,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ VMX - ไฟล์การกำหนดค่า VMware Virtual Machine",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ VMX และ API ที่สามารถสร้างและเปิดไฟล์ VMX",
-"linktitle": "VMX",
+  "linktitle": "VMX",
   "menu": {
     "docs": {
       "identifier": "settings-vmx",

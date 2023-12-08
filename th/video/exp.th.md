@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ EXP - ไฟล์วิดีโอที่ส่งออกซีรีส์ DX",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ EXP และ API ที่สามารถสร้างและเปิดไฟล์ EXP",
-"linktitle": "EXP",
+  "linktitle": "EXP",
   "menu": {
     "docs": {
       "identifier": "video-exp",

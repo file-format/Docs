@@ -16,7 +16,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ LDB - ไฟล์ล็อคการเข้าถึงของ Microsoft",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ LDB และข้อมูลอะไรบ้างที่มี",
-"linktitle": "LDB",
+  "linktitle": "LDB",
   "menu": {
     "docs": {
       "identifier": "misc-ldb",

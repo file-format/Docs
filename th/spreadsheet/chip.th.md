@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ CHIP - ไฟล์คำอธิบายประกอบแบบไมโครอาร์เรย์",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ CHIP และ API ที่สามารถสร้างและเปิดไฟล์ CHIP",
-"linktitle": "ชิป",
+  "linktitle": "CHIP",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-chip",

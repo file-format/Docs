@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ BAK - การสำรองข้อมูลบุ๊กมาร์กโครเมียม",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ BAK Chromium Bookmarks และ API ที่สามารถสร้างและเปิดไฟล์ BAK",
-"linktitle": "บุ๊กมาร์ก BAK Chromium",
+  "linktitle": "BAK Chromium Bookmarks",
   "menu": {
     "docs": {
       "identifier": "misc-bak-chromium",

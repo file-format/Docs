@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ CNF - ไฟล์กำหนดค่า MySQL",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ CNF และ API ที่สามารถสร้างและเปิดไฟล์ CNF",
-"linktitle": "CNF",
+  "linktitle": "CNF",
   "menu": {
     "docs": {
       "identifier": "settings-cnf",

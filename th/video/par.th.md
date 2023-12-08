@@ -15,7 +15,7 @@
 "toc":true,
 "title": "รูปแบบไฟล์ PAR - การบันทึก Micros DVR โดยเฉพาะ",
    "description":"เรียนรู้เกี่ยวกับรูปแบบ PAR และ API ที่สามารถสร้างและเปิดไฟล์ PAR",
-"linktitle": "PAR",
+   "linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"video-par",

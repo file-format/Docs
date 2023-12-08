@@ -17,7 +17,7 @@
 "toc":true,
 "title": "รูปแบบไฟล์ CS - สคริปต์ที่กำหนดเองของ CLEO ",
    "description":"เรียนรู้เกี่ยวกับรูปแบบสคริปต์ที่กำหนดเองของ CS CLEO และ API ที่สามารถสร้างและเปิดไฟล์ CS",
-"linktitle": "CS CLEO",
+   "linktitle":"CS CLEO",
    "menu":{
       "docs":{
          "identifier":"game-cs-cleo",

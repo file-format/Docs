@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ OPT - ไฟล์ตัวเลือก",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ OPT และ API ที่สามารถสร้างและเปิดไฟล์ OPT",
-"linktitle": "เลือก",
+  "linktitle": "OPT",
   "menu": {
     "docs": {
       "identifier": "cad-opt",

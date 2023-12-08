@@ -16,7 +16,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ APM - รูปภาพ Metafile ที่สามารถวางได้ของ Aldus",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ APM และ API ที่สามารถสร้างและเปิดไฟล์ APM",
-"linktitle": "APM",
+  "linktitle": "APM",
   "menu": {
     "docs": {
       "identifier": "image-apm",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ JWPUB - สิ่งพิมพ์ของพยานพระยะโฮวา",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ JWPUB และ API ที่สามารถสร้างและเปิดไฟล์ JWPUB",
-"linktitle": "JWPUB",
+  "linktitle": "JWPUB",
   "menu": {
     "docs": {
       "identifier": "ebook-jwpub",

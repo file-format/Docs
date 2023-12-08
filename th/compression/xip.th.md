@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ XIP - เอกสารเก่าที่ลงนามใน MacOS",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ XIP และ API ที่สามารถสร้างและเปิดไฟล์ XIP",
-"linktitle": "XIP",
+  "linktitle": "XIP",
   "menu": {
     "docs": {
       "identifier": "compression-xip",

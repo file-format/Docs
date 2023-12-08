@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ BLEND - ไฟล์ Blender 3D",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ BLEND และ API ที่สามารถสร้างและเปิดไฟล์ BLEND",
-"linktitle": "เบลนด์",
+  "linktitle": "BLEND",
   "menu": {
     "docs": {
       "identifier": "3d-blend",

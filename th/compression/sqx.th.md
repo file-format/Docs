@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ SQX - ไฟล์เก็บถาวร SQX",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ SQX และ API ที่สามารถสร้างและเปิดไฟล์ SQX",
-"linktitle": "SQX",
+  "linktitle": "SQX",
   "menu": {
     "docs": {
       "identifier": "compression-sqx",

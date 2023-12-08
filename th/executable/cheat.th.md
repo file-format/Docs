@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ CHEAT - สูตรโกง Navi",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ CHEAT และ API ที่สามารถสร้างและเปิดไฟล์ CHEAT",
-"linktitle": "โกง",
+  "linktitle": "CHEAT",
   "menu": {
     "docs": {
       "identifier": "executable-cheat",

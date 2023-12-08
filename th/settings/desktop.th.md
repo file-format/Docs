@@ -18,7 +18,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ DESKTOP - ไฟล์รายการเดสก์ท็อป",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ DESKTOP และ API ที่สามารถสร้างและเปิดไฟล์ DESKTOP",
-"linktitle": "เดสก์ท็อป",
+  "linktitle": "DESKTOP",
   "menu": {
     "docs": {
       "identifier": "settings-desktop",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ VEG - โครงการวิดีโอ MAGIX VEGAS",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ VEG และ API ที่สามารถสร้างและเปิดไฟล์ VEG",
-"linktitle": "ผัก",
+  "linktitle": "VEG",
   "menu": {
     "docs": {
       "identifier": "video-veg",

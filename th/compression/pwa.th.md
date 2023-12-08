@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ PWA - ไฟล์ตัวแทนรหัสผ่าน",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ PWA และ API ที่สามารถสร้างและเปิดไฟล์ PWA",
-"linktitle": "กปภ",
+  "linktitle": "PWA",
   "menu": {
     "docs": {
       "identifier": "compression-pwa",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ DXB - ไบนารี่แลกเปลี่ยนรูปวาด",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ DXB และ API ที่สามารถสร้างและเปิดไฟล์ DXB",
-"linktitle": "DXB",
+  "linktitle": "DXB",
   "menu": {
     "docs": {
       "identifier": "cad-dxb",

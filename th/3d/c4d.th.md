@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ C4D - ไฟล์โมเดล Cinema 4D",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ C4D และ API ที่สามารถสร้างและเปิดไฟล์ C4D",
-"linktitle": "C4D",
+  "linktitle": "C4D",
   "menu": {
     "docs": {
       "identifier": "3d-c4d",

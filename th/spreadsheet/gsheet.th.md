@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ GSHEET - ทางลัดของ Google ชีต",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ GSHEET และ API ที่สามารถสร้างและเปิดไฟล์ GSHEET",
-"linktitle": "GSHEET",
+  "linktitle": "GSHEET",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-gsheet",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ XEM - ไฟล์คำจำกัดความโมเดล PowerDesigner",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ XEM และ API ที่สามารถสร้างและเปิดไฟล์ XEM",
-"linktitle": "XEM",
+  "linktitle": "XEM",
   "menu": {
     "docs": {
       "identifier": "database-xem",

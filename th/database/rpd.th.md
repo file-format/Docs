@@ -16,7 +16,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ RPD - ไฟล์ฐานข้อมูลโครงการ RIB",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ RPD และ API ที่สามารถสร้างและเปิดไฟล์ RPD",
-"linktitle": "RPD",
+  "linktitle": "RPD",
   "menu": {
     "docs": {
       "identifier": "database-rpd",

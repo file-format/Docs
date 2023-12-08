@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ 3GPP - ไฟล์มีเดีย 3GPP",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ 3GPP และ API ที่สามารถสร้างและเปิดไฟล์ 3GPP",
-"linktitle": "3GPP",
+  "linktitle": "3GPP",
   "menu": {
     "docs": {
       "identifier": "video-3gpp",

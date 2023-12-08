@@ -16,7 +16,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ FPT - ไฟล์บันทึกฐานข้อมูล FileMaker Pro",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ FPT และ API ที่สามารถสร้างและเปิดไฟล์ FPT",
-"linktitle": "FPT",
+  "linktitle": "FPT",
   "menu": {
     "docs": {
       "identifier": "database-fpt",

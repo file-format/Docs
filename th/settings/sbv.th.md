@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ SBV - ไฟล์คำบรรยาย YouTube",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ SBV และ API ที่สามารถสร้างและเปิดไฟล์ SBV",
-"linktitle": "SBV",
+  "linktitle": "SBV",
   "menu": {
     "docs": {
       "identifier": "settings-sbv",

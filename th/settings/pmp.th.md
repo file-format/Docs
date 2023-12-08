@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ PMP - ไฟล์พารามิเตอร์โมเดลพล็อต AutoCAD",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ PMP และ API ที่สามารถสร้างและเปิดไฟล์ PMP",
-"linktitle": "PMP",
+  "linktitle": "PMP",
   "menu": {
     "docs": {
       "identifier": "settings-pmp",

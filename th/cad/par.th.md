@@ -16,7 +16,7 @@
 "toc":true,
 "title": "รูปแบบไฟล์ PAR - ไฟล์ส่วนที่เป็น Solid Edge",
    "description":"เรียนรู้เกี่ยวกับรูปแบบ PAR และ API ที่สามารถสร้างและเปิดไฟล์ PAR",
-"linktitle": "PAR",
+   "linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"cad-par",

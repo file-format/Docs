@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ VCPROJ - ไฟล์โครงการ Visual C++",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ VCPROJ และ API ที่สามารถสร้างและเปิดไฟล์ VCPROJ",
-"linktitle": "VCPROJ",
+  "linktitle": "VCPROJ",
   "menu": {
     "docs": {
       "identifier": "programming-vcproj",

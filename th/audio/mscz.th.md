@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ MSCZ - ไฟล์คะแนนบีบอัด MuseScore",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ MSCZ และ API ที่สามารถสร้างและเปิดไฟล์ MSCZ",
-"linktitle": "MSCZ",
+  "linktitle": "MSCZ",
   "menu": {
     "docs": {
       "identifier": "audio-mscz",

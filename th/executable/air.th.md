@@ -14,7 +14,7 @@
 "toc": true,
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ AIR และ API ที่สามารถสร้างและเปิดไฟล์ AIR",
 "title": "รูปแบบไฟล์ AIR - ไฟล์แพ็คเกจการติดตั้ง Adobe AIR",
-"linktitle": "อากาศ",
+  "linktitle": "AIR",
   "menu": {
     "docs": {
       "identifier": "executable-air",

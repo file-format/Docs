@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ AXM - ไฟล์ร่าง FormIt",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ AXM และ API ที่สามารถสร้างและเปิดไฟล์ AXM",
-"linktitle": "AXM",
+  "linktitle": "AXM",
   "menu": {
     "docs": {
       "identifier": "cad-axm",

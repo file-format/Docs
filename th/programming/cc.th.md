@@ -16,7 +16,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ CC - ไฟล์ซอร์สโค้ด C++",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ CC และ API ที่สามารถสร้างและเปิดไฟล์ CC",
-"linktitle": "ซีซี",
+  "linktitle": "CC",
   "menu": {
     "docs": {
       "identifier": "programming-cc",

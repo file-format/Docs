@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ AFS - ไฟล์โครงการ STAAD.foundation",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ AFS และ API ที่สามารถสร้างและเปิดไฟล์ AFS",
-"linktitle": "AFS",
+  "linktitle": "AFS",
   "menu": {
     "docs": {
       "identifier": "cad-afs",

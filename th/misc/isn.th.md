@@ -14,7 +14,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ ISN - ไฟล์ต้นฉบับของตัวติดตั้ง",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ ISN และ API ที่สามารถสร้างและเปิดไฟล์ ISN",
-"linktitle": "ISN",
+  "linktitle": "ISN",
   "menu": {
     "docs": {
       "identifier": "misc-isn",

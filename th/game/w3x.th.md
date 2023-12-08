@@ -18,7 +18,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ W3X - ไฟล์แผนที่ส่วนขยาย Warcraft 3",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ W3X และ API ที่สามารถสร้างและเปิดไฟล์ W3X",
-"linktitle": "W3X",
+  "linktitle": "W3X",
   "menu": {
     "docs": {
       "identifier": "game-w3x",

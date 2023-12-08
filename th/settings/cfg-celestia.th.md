@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ CFG - ไฟล์การกำหนดค่า Celestia",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์การกำหนดค่า CFG Celestia และ API ที่สามารถสร้างและเปิดไฟล์ CFG",
-"linktitle": "CFG เซเลสเทีย",
+  "linktitle": "CFG Celestia",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-celestia",

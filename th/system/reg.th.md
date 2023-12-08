@@ -14,7 +14,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ REG - ไฟล์รีจิสทรีของ Windows",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ REG และ API ที่สามารถสร้างและเปิดไฟล์ REG",
-"linktitle": "REG",
+  "linktitle": "REG",
   "menu": {
     "docs": {
       "identifier": "system-reg",

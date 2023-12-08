@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ BAK - Act! การสำรองฐานข้อมูล",
   "description":"เรียนรู้เกี่ยวกับ BAK Act! รูปแบบการสำรองข้อมูลและ API ที่สามารถสร้างและเปิดไฟล์ BAK",
-"linktitle": "การสำรองข้อมูล BAK ACT",
+  "linktitle": "BAK ACT Backup",
   "menu": {
     "docs": {
       "identifier": "database-bak-act",

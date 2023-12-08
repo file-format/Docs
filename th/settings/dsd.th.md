@@ -16,7 +16,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ DSD - ไฟล์คำอธิบายชุดการวาด AutoCAD",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ DSD และ API ที่สามารถสร้างและเปิดไฟล์ DSD",
-"linktitle": "DSD",
+  "linktitle": "DSD",
   "menu": {
     "docs": {
       "identifier": "settings-dsd",

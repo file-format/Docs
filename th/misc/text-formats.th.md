@@ -12,7 +12,7 @@
 "toc": true,
 "title": "รูปแบบข้อความ ประเภท และคำถามที่พบบ่อย",
   "description":"เรียนรู้เกี่ยวกับรูปแบบข้อความ ประเภทของรูปแบบข้อความ รายการรูปแบบข้อความ และคำถามที่พบบ่อย",
-"linktitle": "รูปแบบข้อความ",
+  "linktitle": "TEXT FORMATS",
   "menu": {
     "docs": {
       "identifier": "misc-text-formats",

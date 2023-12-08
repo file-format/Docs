@@ -17,7 +17,7 @@
 "toc":true,
 "title": "ไฟล์ XCI - ไฟล์ .xci คืออะไร และจะเปิดได้อย่างไร",
    "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์อิมเมจการ์ด XCI NX และ API ที่สามารถสร้างและเปิดไฟล์ XCI",
-"linktitle": "XCI",
+   "linktitle":"XCI",
    "menu":{
       "docs":{
          "identifier":"game-xci",

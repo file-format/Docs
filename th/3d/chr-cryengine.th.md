@@ -17,7 +17,7 @@
 "toc":true,
 "title": "รูปแบบไฟล์ CHR - ไฟล์อักขระ CryENGINE ",
    "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์อักขระ CHR CryENGINE และ API ที่สามารถสร้างและเปิดไฟล์ CHR",
-"linktitle": "CHR CryENGINE ",
+   "linktitle":"CHR CryENGINE",
    "menu":{
       "docs":{
          "identifier":"3d-chr-cryengine",

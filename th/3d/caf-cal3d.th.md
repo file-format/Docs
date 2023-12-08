@@ -17,7 +17,7 @@
 "toc":true,
 "title": "รูปแบบไฟล์ CAF - ไฟล์แอนิเมชั่นไบนารี Cal3D ",
    "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ภาพเคลื่อนไหวไบนารี CAF Cal3D และ API ที่สามารถสร้างและเปิดไฟล์ CAF",
-"linktitle": "CAF Cal3D ",
+   "linktitle":"CAF Cal3D",
    "menu":{
       "docs":{
          "identifier":"3d-caf-cal3d",

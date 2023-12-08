@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ DESKTHEMEPACK - ไฟล์แพ็คธีมเดสก์ท็อป Windows 10",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ DESKTHEMEPACK และ API ที่สามารถสร้างและเปิดไฟล์ DESKTHEMEPACK",
-"linktitle": "DESKTHEMEPACK",
+  "linktitle": "DESKTHEMEPACK",
   "menu": {
     "docs": {
       "identifier": "system-deskthemepack",

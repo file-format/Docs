@@ -16,7 +16,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ UDB - ไฟล์ฐานข้อมูลผู้ใช้ Microsoft Dynamics AX",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ UDB และ API ที่สามารถสร้างและเปิดไฟล์ UDB",
-"linktitle": "UDB",
+  "linktitle": "UDB",
   "menu": {
     "docs": {
       "identifier": "database-udb",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ EXP - ไฟล์ส่งออกสัญลักษณ์",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ EXP และ API ที่สามารถสร้างและเปิดไฟล์ EXP",
-"linktitle": "EXP",
+  "linktitle": "EXP",
   "menu": {
     "docs": {
       "identifier": "programming-exp",

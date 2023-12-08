@@ -14,7 +14,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ ASL - สไตล์เลเยอร์ Photoshop",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ ASL และ API ที่สามารถสร้างและเปิดไฟล์ ASL",
-"linktitle": "ASL",
+  "linktitle": "ASL",
   "menu": {
     "docs": {
       "identifier": "settings-asl",

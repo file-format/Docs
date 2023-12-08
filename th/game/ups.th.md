@@ -17,7 +17,7 @@
 "toc":true,
 "title": "รูปแบบไฟล์ของ UPS - ไฟล์แพทช์ของ UPS ",
    "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์แพทช์ของ UPS และ API ที่สามารถสร้างและเปิดไฟล์ของ UPS",
-"linktitle": "ยูพีเอส",
+   "linktitle":"UPS",
    "menu":{
       "docs":{
          "identifier":"game-ups",

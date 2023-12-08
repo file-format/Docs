@@ -16,7 +16,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ MCSTRUCTURE - ไฟล์โครงสร้าง Minecraft",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ MCSTRUCTURE และ API ที่สามารถสร้างและเปิดไฟล์ MCSTRUCTURE",
-"linktitle": "MCSTRUCTURE",
+  "linktitle": "MCSTRUCTURE",
   "menu": {
     "docs": {
       "identifier": "game-mcstructure",

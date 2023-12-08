@@ -16,7 +16,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ P3T - ไฟล์ธีม PlayStation 3",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ P3T และ API ที่สามารถสร้างและเปิดไฟล์ P3T",
-"linktitle": "P3T",
+  "linktitle": "P3T",
   "menu": {
     "docs": {
       "identifier": "game-p3t",

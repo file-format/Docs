@@ -16,7 +16,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ EPK - แพ็คเกจสินทรัพย์ Eaglercraft",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ EPK และ API ที่สามารถสร้างและเปิดไฟล์ EPK",
-"linktitle": "EPK",
+  "linktitle": "EPK",
   "menu": {
     "docs": {
       "identifier": "game-epk",

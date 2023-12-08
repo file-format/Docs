@@ -14,7 +14,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ TPF - เอกสารตัวช่วยสร้างข้อความ IBM SPSS",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ TPF และ API ที่สามารถสร้างและเปิดไฟล์ TPF",
-"linktitle": "TPF",
+  "linktitle": "TPF",
   "menu": {
     "docs": {
       "identifier": "settings-tpf",

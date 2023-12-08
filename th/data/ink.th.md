@@ -17,7 +17,7 @@
 "toc":true,
 "title":"ไฟล์ INK - Mimio Notebook - ไฟล์ .ink คืออะไร และจะเปิดได้อย่างไร",
    "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ INK Mimio Notebook และ API ที่สามารถสร้างและเปิดไฟล์ INK",
-"linktitle": "INK",
+   "linktitle":"INK",
    "menu":{
       "docs":{
          "identifier":"data-ink",

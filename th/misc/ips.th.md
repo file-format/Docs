@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ IPS - ข้อมูลการวิเคราะห์ iOS",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ IPS และ API ที่สามารถสร้างและเปิดไฟล์ IPS",
-"linktitle": "IPS",
+  "linktitle": "IPS",
   "menu": {
     "docs": {
       "identifier": "misc-ips",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ CB7 - หนังสือการ์ตูน 7-Zip Archive",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ CB7 และ API ที่สามารถสร้างและเปิดไฟล์ CB7",
-"linktitle": "CB7",
+  "linktitle": "CB7",
   "menu": {
     "docs": {
       "identifier": "compression-cb7",

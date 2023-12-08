@@ -14,7 +14,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ MANIFEST - ไฟล์มานิเฟสต์แอปพลิเคชัน Windows",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ MANIFEST และ API ที่สามารถสร้างและเปิดไฟล์ MANIFEST",
-"linktitle": "รายการ",
+  "linktitle": "MANIFEST",
   "menu": {
     "docs": {
       "identifier": "system-manifest",

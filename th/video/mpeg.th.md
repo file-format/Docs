@@ -16,7 +16,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ MPEG - วิดีโอ MPEG",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ MPEG และ API ที่สามารถสร้างและเปิดไฟล์ MPEG",
-"linktitle": "MPEG",
+  "linktitle": "MPEG",
   "menu": {
     "docs": {
       "identifier": "video-mpeg",

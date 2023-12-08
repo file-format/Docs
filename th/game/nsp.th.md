@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ NSP - แพ็คเกจการส่งของ Nintendo",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ NSP และ API ที่สามารถสร้างและเปิดไฟล์ NSP",
-"linktitle": "NSP",
+  "linktitle": "NSP",
   "menu": {
     "docs": {
       "identifier": "game-nsp",

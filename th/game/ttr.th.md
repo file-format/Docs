@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ TTR - เล่นซ้ำ TETR.IO",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ TTR และ API ที่สามารถสร้างและเปิดไฟล์ TTR",
-"linktitle": "TTR",
+  "linktitle": "TTR",
   "menu": {
     "docs": {
       "identifier": "game-ttr",

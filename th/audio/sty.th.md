@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ STY - รูปแบบแป้นพิมพ์ Yamaha หรือ Korg",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ STY และ API ที่สามารถสร้างและเปิดไฟล์ STY",
-"linktitle": "STY",
+  "linktitle": "STY",
   "menu": {
     "docs": {
       "identifier": "audio-sty",

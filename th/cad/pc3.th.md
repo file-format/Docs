@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ PC3 - ไฟล์กำหนดค่าพล็อตเตอร์ AutoCAD",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ PC3 และ API ที่สามารถสร้างและเปิดไฟล์ PC3",
-"linktitle": "PC3",
+  "linktitle": "PC3",
   "menu": {
     "docs": {
       "identifier": "cad-pc3",

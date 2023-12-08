@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ CFG - ไฟล์การกำหนดค่า LightWave",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์การกำหนดค่า CFG LightWave และ API ที่สามารถสร้างและเปิดไฟล์ CFG",
-"linktitle": "CFG LightWave",
+  "linktitle": "CFG LightWave",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-lightwave",

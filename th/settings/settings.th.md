@@ -14,7 +14,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์การตั้งค่า - ไฟล์การตั้งค่า Visual Studio",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ SETTINGS และ API ที่สามารถสร้างและเปิดไฟล์ SETTINGS",
-"linktitle": "การตั้งค่า",
+  "linktitle": "SETTINGS",
   "menu": {
     "docs": {
       "identifier": "settings-settings",

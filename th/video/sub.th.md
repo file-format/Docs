@@ -19,7 +19,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ SUB - ไฟล์คำบรรยาย MicroDVD",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ SUB และ API ที่สามารถสร้างและเปิดไฟล์ SUB",
-"linktitle": "SUB",
+  "linktitle": "SUB",
   "menu": {
     "docs": {
       "identifier": "video-sub",

@@ -18,7 +18,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ DV - ไฟล์วิดีโอดิจิทัล",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ DV และ API ที่สามารถสร้างและเปิดไฟล์ DV",
-"linktitle": "DV",
+  "linktitle": "DV",
   "menu": {
     "docs": {
       "identifier": "video-dv",

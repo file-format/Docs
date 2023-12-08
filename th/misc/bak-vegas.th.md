@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ BAK - การสำรองข้อมูลโครงการวิดีโอ VEGAS",
   "description":"เรียนรู้เกี่ยวกับรูปแบบการสำรองข้อมูลโครงการวิดีโอ BAK VEGAS และ API ที่สามารถสร้างและเปิดไฟล์ BAK",
-"linktitle": "วิดีโอบาค สเวกัส",
+  "linktitle": "BAK VEGAS Video",
   "menu": {
     "docs": {
       "identifier": "misc-bak-vegas",

@@ -17,7 +17,7 @@
 "toc":true,
 "title":"รูปแบบไฟล์ CHR - ชุดอักขระบอร์แลนด์",
    "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ชุดอักขระ CHR Borland และ API ที่สามารถสร้างและเปิดไฟล์ CHR",
-"linktitle": "CHR ",
+   "linktitle":"CHR",
    "menu":{
       "docs":{
          "identifier":"font-chr",

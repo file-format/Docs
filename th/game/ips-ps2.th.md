@@ -17,7 +17,7 @@
 "toc":true,
 "title": "รูปแบบไฟล์ IPS - วิดีโอเกมในเกม PlayStation 2 ",
    "description":"เรียนรู้เกี่ยวกับรูปแบบ IPS PS2 และ API ที่สามารถสร้างและเปิดไฟล์ IPS",
-"linktitle": "IPS PS2",
+   "linktitle":"IPS PS2",
    "menu":{
       "docs":{
          "identifier":"game-ips-ps2",

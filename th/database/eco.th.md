@@ -16,7 +16,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ ECO - ไฟล์ฐานข้อมูล ECCO",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ ECO และ API ที่สามารถสร้างและเปิดไฟล์ ECO",
-"linktitle": "ECO",
+  "linktitle": "ECO",
   "menu": {
     "docs": {
       "identifier": "database-eco",

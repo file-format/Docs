@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ THEMEPACK - แพ็คธีม Windows 7",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ THEMEPACK และ API ที่สามารถสร้างและเปิดไฟล์ THEMEPACK",
-"linktitle": "ธีมแพ็ค",
+  "linktitle": "THEMEPACK",
   "menu": {
     "docs": {
       "identifier": "settings-themepack",

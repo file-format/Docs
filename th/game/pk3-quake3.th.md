@@ -17,7 +17,7 @@
 "toc":true,
 "title": "รูปแบบไฟล์ PK3 - ข้อมูลเกม Quake 3 Engine ",
    "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ข้อมูลเกม PK3 Quake 3 Engine และ API ที่สามารถสร้างและเปิดไฟล์ PK3",
-"linktitle": "PK3",
+   "linktitle":"PK3",
    "menu":{
       "docs":{
          "identifier":"game-pk3-quake3",

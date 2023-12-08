@@ -16,7 +16,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ RDP - ไฟล์การกำหนดค่าเดสก์ท็อประยะไกล",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ RDP และ API ที่สามารถสร้างและเปิดไฟล์ RDP",
-"linktitle": "RDP",
+  "linktitle": "RDP",
   "menu": {
     "docs": {
       "identifier": "settings-rdp",

@@ -16,7 +16,7 @@
 "toc":true,
 "title": "รูปแบบไฟล์ CAT - ไฟล์ Windows Catalog",
    "description":"เรียนรู้เกี่ยวกับรูปแบบ CAT และ API ที่สามารถสร้างและเปิดไฟล์ CAT",
-"linktitle": "CAT",
+   "linktitle":"CAT",
    "menu":{
       "docs":{
          "identifier":"system-cat",

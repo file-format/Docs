@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ EC3 - ไฟล์ตัวแปลงสัญญาณเสียงที่ได้รับการปรับปรุง 3",
   "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ EC3 และ API ที่สามารถสร้างและเปิดไฟล์ EC3",
-"linktitle": "EC3",
+  "linktitle": "EC3",
   "menu": {
     "docs": {
       "identifier": "audio-ec3",

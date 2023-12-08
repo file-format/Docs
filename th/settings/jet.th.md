@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ JET - การตั้งค่า Jackbox Party Pack",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ JET และ API ที่สามารถสร้างและเปิดไฟล์ JET",
-"linktitle": "JET",
+  "linktitle": "JET",
   "menu": {
     "docs": {
       "identifier": "settings-jet",

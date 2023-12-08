@@ -15,7 +15,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ SET - ไฟล์ชุดคุณสมบัติไลบรารีเอกสาร",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ SET และ API ที่สามารถสร้างและเปิดไฟล์ SET",
-"linktitle": "SET",
+  "linktitle": "SET",
   "menu": {
     "docs": {
       "identifier": "settings-set",

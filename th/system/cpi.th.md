@@ -17,7 +17,7 @@
 "toc":true,
 "title": "รูปแบบไฟล์ CPI - ไฟล์ข้อมูลเพจโค้ด ",
    "description":"เรียนรู้เกี่ยวกับรูปแบบไฟล์ข้อมูลเพจรหัส CPI และ API ที่สามารถสร้างและเปิดไฟล์ CPI",
-"linktitle": "CPI",
+   "linktitle":"CPI",
    "menu":{
       "docs":{
          "identifier":"system-cpi",

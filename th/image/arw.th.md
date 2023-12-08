@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ ARW - รูปภาพจากกล้องดิจิตอล Sony Alpha Raw",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ ARW และ API ที่สามารถสร้างและเปิดไฟล์ ARW",
-"linktitle": "ARW",
+  "linktitle": "ARW",
   "menu": {
     "docs": {
       "identifier": "image-arw",

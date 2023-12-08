@@ -17,7 +17,7 @@
 "toc": true,
 "title": "รูปแบบไฟล์ BPS - การสำรองข้อมูลเอกสาร Microsoft Works",
   "description":"เรียนรู้เกี่ยวกับรูปแบบ BPS Works และ API ที่สามารถสร้างและเปิดไฟล์ BPS",
-"linktitle": "งาน BPS",
+  "linktitle": "BPS Works",
   "menu": {
     "docs": {
       "identifier": "misc-bps-works",
