@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Формат файлу ICNS - ресурс піктограм macOS",
   "description":"Дізнайтеся про формат ICNS та API, які можуть створювати та відкривати файли ICNS.",
-"linktitle": "ICNS",
+  "linktitle": "ICNS",
   "menu": {
     "docs": {
       "identifier": "system-icns",

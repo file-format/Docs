@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Формат файлу AFS - файл проекту STAAD.foundation",
   "description":"Дізнайтеся про формат файлу AFS та API, які можуть створювати та відкривати файли AFS.",
-"linktitle": "AFS",
+  "linktitle": "AFS",
   "menu": {
     "docs": {
       "identifier": "cad-afs",

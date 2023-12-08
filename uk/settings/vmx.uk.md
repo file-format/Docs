@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Формат файлу VMX - файл конфігурації віртуальної машини VMware",
   "description":"Дізнайтеся про формат VMX та API, які можуть створювати та відкривати файли VMX.",
-"linktitle": "VMX",
+  "linktitle": "VMX",
   "menu": {
     "docs": {
       "identifier": "settings-vmx",

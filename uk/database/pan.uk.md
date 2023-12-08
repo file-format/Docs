@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Формат файлу PAN - файл бази даних панорами",
   "description":"Дізнайтеся про формат PAN та API, які можуть створювати та відкривати файли PAN.",
-"linktitle": "PAN",
+  "linktitle": "PAN",
   "menu": {
     "docs": {
       "identifier": "database-pan",

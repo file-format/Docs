@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Формат файлу FPT - альфа-п'ять табличних пам'яток",
   "description":"Дізнайтеся про формат FPT Alpha Five та API, які можуть створювати та відкривати файли FPT.",
-"linktitle": "FPT Alpha Five",
+  "linktitle": "FPT Alpha Five",
   "menu": {
     "docs": {
       "identifier": "database-fpt-alphafive",

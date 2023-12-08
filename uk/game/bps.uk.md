@@ -16,7 +16,7 @@
 "toc":true,
 "title":"Формат файлу BPS - файл виправлення BPS",
    "description":"Дізнайтеся про формат BPS та API, які можуть створювати та відкривати файли BPS.",
-"linktitle": "BPS",
+   "linktitle":"BPS",
    "menu":{
       "docs":{
          "identifier":"game-bps",

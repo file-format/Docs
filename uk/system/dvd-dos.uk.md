@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Формат файлу DVD - драйвер пристрою DOS",
    "description":"Дізнайтеся про формат файлу драйвера пристрою MS-DOS DVD та API, які можуть створювати та відкривати файли DVD.",
-"linktitle":"DVD",
+   "linktitle":"DVD",
    "menu":{
       "docs":{
          "identifier":"system-dvd-dos",

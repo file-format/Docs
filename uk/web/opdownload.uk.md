@@ -14,7 +14,7 @@
 "toc": true,
 "title": "OPDOWNLOAD Формат файлу - частково завантажений файл Opera",
   "description":"Дізнайтеся про формат OPDOWNLOAD та API, які можуть створювати та відкривати файли OPDOWNLOAD.",
-"linktitle": "НЕ ЗАВАНТАЖИТИ",
+  "linktitle": "OPDOWNLOAD",
   "menu": {
     "docs": {
       "identifier": "web-opdownload",

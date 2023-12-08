@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Формат файлу ASL - стиль шару Photoshop",
   "description":"Дізнайтеся про формат ASL та API, які можуть створювати та відкривати файли ASL.",
-"linktitle": "ASL",
+  "linktitle": "ASL",
   "menu": {
     "docs": {
       "identifier": "settings-asl",

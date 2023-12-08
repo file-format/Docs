@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Формат файлу SBV - файл субтитрів YouTube",
   "description":"Дізнайтеся про формат SBV та API, які можуть створювати та відкривати файли SBV.",
-"linktitle": "SBV",
+  "linktitle": "SBV",
   "menu": {
     "docs": {
       "identifier": "settings-sbv",

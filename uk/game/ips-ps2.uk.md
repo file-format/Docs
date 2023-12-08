@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Формат файлу IPS - ігрове відео PlayStation 2",
    "description":"Дізнайтеся про формат IPS PS2 та API, які можуть створювати та відкривати файли IPS.",
-"linktitle": "IPS PS2",
+   "linktitle":"IPS PS2",
    "menu":{
       "docs":{
          "identifier":"game-ips-ps2",

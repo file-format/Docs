@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Формат файлу BPS - резервне копіювання документів Microsoft Works",
   "description":"Дізнайтеся про формат BPS Works і API, які можуть створювати та відкривати файли BPS.",
-"linktitle": "BPS працює",
+  "linktitle": "BPS Works",
   "menu": {
     "docs": {
       "identifier": "misc-bps-works",

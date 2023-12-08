@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Формат файлу CHR - набір символів Borland",
    "description":"Дізнайтеся про формат файлу набору символів CHR Borland та API, які можуть створювати та відкривати файли CHR.",
-"linktitle": "CHR",
+   "linktitle":"CHR",
    "menu":{
       "docs":{
          "identifier":"font-chr",

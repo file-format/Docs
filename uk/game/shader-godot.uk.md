@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Формат файлу SHADER - Файл шейдера Godot Engine",
    "description":"Дізнайтеся про формат файлу шейдера Godot Engine SHADER та API, які можуть створювати та відкривати файли SHADER.",
-"linktitle":"ШЕЙДЕР Godot",
+   "linktitle":"SHADER Godot",
    "menu":{
       "docs":{
          "identifier":"game-shader-godot",

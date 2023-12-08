@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Формат файлу HPP - файл заголовка C++",
   "description":"Дізнайтеся про формат HPP і API, які можуть створювати та відкривати файли HPP.",
-"linktitle": "ГЕС",
+  "linktitle": "HPP",
   "menu": {
     "docs": {
       "identifier": "programming-hpp",

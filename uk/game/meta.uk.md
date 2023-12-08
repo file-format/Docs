@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Формат файлу META - Exient файл метаданих",
   "description":"Дізнайтеся про формат META та API, які можуть створювати та відкривати файли META.",
-"linktitle": "МЕТА",
+  "linktitle": "META",
   "menu": {
     "docs": {
       "identifier": "game-meta",

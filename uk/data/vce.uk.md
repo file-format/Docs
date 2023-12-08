@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Файл VCE - Visual CertExam - Що таке файл .vce і як його відкрити?",
    "description":"Дізнайтеся про формат файлів іспиту Visual CertExam VCE та API, які можуть створювати та відкривати файли VCE.",
-"linktitle": "VCE",
+   "linktitle":"VCE",
    "menu":{
       "docs":{
          "identifier":"data-vce",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Формат файлу JWPUB - Публікація Свідків Єгови",
   "description":"Дізнайтеся про формат JWPUB і API, які можуть створювати та відкривати файли JWPUB.",
-"linktitle": "JWPUB",
+  "linktitle": "JWPUB",
   "menu": {
     "docs": {
       "identifier": "ebook-jwpub",

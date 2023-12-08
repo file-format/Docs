@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Формат файлу NUT - відеофайл NUT",
   "description":"Дізнайтеся про формат NUT та API, які можуть створювати та відкривати файли NUT.",
-"linktitle": "ГОРІХ",
+  "linktitle": "NUT",
   "menu": {
     "docs": {
       "identifier": "video-nut",

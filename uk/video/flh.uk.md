@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Формат файлу FLH - файл анімації FLIC",
   "description":"Дізнайтеся про формат FLH та API, які можуть створювати та відкривати файли FLH.",
-"linktitle": "FLH",
+  "linktitle": "FLH",
   "menu": {
     "docs": {
       "identifier": "video-flh",

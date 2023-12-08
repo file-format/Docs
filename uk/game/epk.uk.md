@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Формат файлу EPK - пакет ресурсів Eaglercraft",
   "description":"Дізнайтеся про формат EPK та API, які можуть створювати та відкривати файли EPK.",
-"linktitle": "EPK",
+  "linktitle": "EPK",
   "menu": {
     "docs": {
       "identifier": "game-epk",

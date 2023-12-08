@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Формат файлу OVPN - файл конфігурації OpenVPN",
   "description":"Дізнайтеся про формат OVPN та API, які можуть створювати та відкривати файли OVPN.",
-"linktitle": "OVPN",
+  "linktitle": "OVPN",
   "menu": {
     "docs": {
       "identifier": "settings-ovpn",

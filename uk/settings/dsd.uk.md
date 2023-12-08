@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Формат файлу DSD - файл опису набору креслень AutoCAD",
   "description":"Дізнайтеся про формат DSD та API, які можуть створювати та відкривати файли DSD.",
-"linktitle": "DSD",
+  "linktitle": "DSD",
   "menu": {
     "docs": {
       "identifier": "settings-dsd",

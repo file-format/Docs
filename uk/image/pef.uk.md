@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Формат файлу PEF - електронний файл Pentax",
   "description":"Дізнайтеся про формат PEF і API, які можуть створювати та відкривати файли PEF.",
-"linktitle": "PEF",
+  "linktitle": "PEF",
   "menu": {
     "docs": {
       "identifier": "image-pef",

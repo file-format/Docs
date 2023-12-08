@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Формат файлу WPS - документ Kingsoft Writer",
   "description":"Дізнайтеся про формат WPS Kingsoft і API, які можуть створювати та відкривати файли WPS.",
-"linktitle": "WPS Kingsoft",
+  "linktitle": "WPS Kingsoft",
   "menu": {
     "docs": {
       "identifier": "word-processing-wps-kingsoft",

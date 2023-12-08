@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Формат файлу VCPROJ - файл проекту Visual C++",
   "description":"Дізнайтеся про формат VCPROJ та API, які можуть створювати та відкривати файли VCPROJ.",
-"linktitle": "VCPROJ",
+  "linktitle": "VCPROJ",
   "menu": {
     "docs": {
       "identifier": "programming-vcproj",

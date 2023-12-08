@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Файл INK - Блокнот Mimio - Що таке файл .ink і як його відкрити?",
    "description":"Дізнайтеся про формат файлів INK Mimio Notebook та API, які можуть створювати та відкривати файли INK.",
-"linktitle": "ЧОРНИЛО",
+   "linktitle":"INK",
    "menu":{
       "docs":{
          "identifier":"data-ink",

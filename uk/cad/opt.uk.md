@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Формат файлу OPT - файл налаштування",
   "description":"Дізнайтеся про формат файлу OPT та API, які можуть створювати та відкривати файли OPT.",
-"linktitle": "OPT",
+  "linktitle": "OPT",
   "menu": {
     "docs": {
       "identifier": "cad-opt",

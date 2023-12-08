@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Формат файлу RDP - файл конфігурації віддаленого робочого стола",
   "description":"Дізнайтеся про формат RDP та API, які можуть створювати та відкривати файли RDP.",
-"linktitle": "RDP",
+  "linktitle": "RDP",
   "menu": {
     "docs": {
       "identifier": "settings-rdp",

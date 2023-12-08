@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Формат файлу QPW - електронна таблиця Quattro Pro",
   "description":"Дізнайтеся про формат файлу QPW та API, які можуть створювати та відкривати файли QPW.",
-"linktitle": "QPW",
+  "linktitle": "QPW",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-qpw",

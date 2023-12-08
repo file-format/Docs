@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Формат файлу CRX - розширення Google Chrome",
   "description":"Дізнайтеся про формат CRX та API, які можуть створювати та відкривати файли CRX.",
-"linktitle": "CRX",
+  "linktitle": "CRX",
   "menu": {
     "docs": {
       "identifier": "misc-crx",

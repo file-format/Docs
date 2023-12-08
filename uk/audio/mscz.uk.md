@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Формат файлу MSCZ - стиснутий музичний файл MuseScore",
   "description":"Дізнайтеся про формат MSCZ і API, які можуть створювати та відкривати файли MSCZ.",
-"linktitle": "MSCZ",
+  "linktitle": "MSCZ",
   "menu": {
     "docs": {
       "identifier": "audio-mscz",

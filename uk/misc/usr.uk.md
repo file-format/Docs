@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Формат файлу USR - користувацький файл SmartMusic",
   "description":"Дізнайтеся про формат USR та API, які можуть створювати та відкривати файли USR.",
-"linktitle": "ЄДР",
+  "linktitle": "USR",
   "menu": {
     "docs": {
       "identifier": "misc-usr",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Формат файлу NSP - пакет подання Nintendo",
   "description":"Дізнайтеся про формат NSP та API, які можуть створювати та відкривати файли NSP.",
-"linktitle": "NSP",
+  "linktitle": "NSP",
   "menu": {
     "docs": {
       "identifier": "game-nsp",

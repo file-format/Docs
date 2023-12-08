@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Формат файлу BAK - дію! Резервне копіювання бази даних",
   "description":"Дізнайтеся про BAK Act! Формат резервного копіювання та API, які можуть створювати та відкривати файли BAK.",
-"linktitle": "Резервне копіювання BAK ACT",
+  "linktitle": "BAK ACT Backup",
   "menu": {
     "docs": {
       "identifier": "database-bak-act",

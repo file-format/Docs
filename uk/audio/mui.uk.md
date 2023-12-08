@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Формат файлу MUI - Безліч файлів інструментів користувача",
   "description":"Дізнайтеся про формат файлу MUI та API, які можуть створювати та відкривати файли MUI.",
-"linktitle": "MUI",
+  "linktitle": "MUI",
   "menu": {
     "docs": {
       "identifier": "audio-mui",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Формат файлу 3GPP - медіафайл 3GPP",
   "description":"Дізнайтеся про формат 3GPP та API, які можуть створювати та відкривати файли 3GPP.",
-"linktitle": "3GPP",
+  "linktitle": "3GPP",
   "menu": {
     "docs": {
       "identifier": "video-3gpp",

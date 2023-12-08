@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Формат файлу CIR - файл схеми Micro-Cap",
   "description":"Дізнайтеся про формат файлу CIR та API, які можуть створювати та відкривати файли CIR.",
-"linktitle": "CIR",
+  "linktitle": "CIR",
   "menu": {
     "docs": {
       "identifier": "cad-cir",

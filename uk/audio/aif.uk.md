@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Формат файлу AIF - формат файлу обміну аудіо",
   "description":"Дізнайтеся про формат AIF і API, які можуть створювати та відкривати файли AIF.",
-"linktitle": "AIF",
+  "linktitle": "AIF",
   "menu": {
     "docs": {
       "identifier": "audio-aif",

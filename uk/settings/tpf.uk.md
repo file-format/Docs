@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Формат файлу TPF - документ текстового майстра IBM SPSS",
   "description":"Дізнайтеся про формат TPF і API, які можуть створювати та відкривати файли TPF.",
-"linktitle": "TPF",
+  "linktitle": "TPF",
   "menu": {
     "docs": {
       "identifier": "settings-tpf",

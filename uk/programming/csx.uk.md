@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Формат файлу CSX - сценарій Visual C#",
   "description":"Дізнайтеся про формат CSX та API, які можуть створювати та відкривати файли CSX.",
-"linktitle": "CSX",
+  "linktitle": "CSX",
   "menu": {
     "docs": {
       "identifier": "programming-csx",

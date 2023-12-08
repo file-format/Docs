@@ -15,7 +15,7 @@
 "toc": true,
   "description":"Дізнайтеся про формат файлу APP та API, які можуть створювати та відкривати файли APP.",
 "title": "Формат файлу APP - пакет програм macOS",
-"linktitle": "APP",
+  "linktitle": "APP",
   "menu": {
     "docs": {
       "identifier": "executable-app",

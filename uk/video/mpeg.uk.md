@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Формат файлу MPEG - відео MPEG",
   "description":"Дізнайтеся про формат MPEG і API, які можуть створювати та відкривати файли MPEG.",
-"linktitle": "MPEG",
+  "linktitle": "MPEG",
   "menu": {
     "docs": {
       "identifier": "video-mpeg",

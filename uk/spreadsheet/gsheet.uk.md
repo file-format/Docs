@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Формат файлу GSHEET – ярлик Google Таблиць",
   "description":"Дізнайтеся про формат файлу GSHEET та API, які можуть створювати та відкривати файли GSHEET.",
-"linktitle": "GSHEET",
+  "linktitle": "GSHEET",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-gsheet",

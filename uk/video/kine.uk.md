@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Формат файлу KINE - файл проекту KineMaster",
   "description":"Дізнайтеся про формат файлів KINE та API, які можуть створювати та відкривати файли KINE.",
-"linktitle": "KINE",
+  "linktitle": "KINE",
   "menu": {
     "docs": {
       "identifier": "video-kine",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Формат файлу DXB - двійковий файл обміну малюнками",
   "description":"Дізнайтеся про формат DXB та API, які можуть створювати та відкривати файли DXB.",
-"linktitle": "DXB",
+  "linktitle": "DXB",
   "menu": {
     "docs": {
       "identifier": "cad-dxb",

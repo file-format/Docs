@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Формат файлу M2V - відео MPEG-2",
    "description":"Дізнайтеся про формат відеофайлу M2V MPEG-2 та API, які можуть створювати та відкривати файли M2V.",
-"linktitle": "M2V",
+   "linktitle":"M2V",
    "menu":{
       "docs":{
          "identifier":"video-m2v",

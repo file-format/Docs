@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Формат файлу EXP - Експортований відеофайл серії DX",
   "description":"Дізнайтеся про формат EXP і API, які можуть створювати та відкривати файли EXP.",
-"linktitle": "EXP",
+  "linktitle": "EXP",
   "menu": {
     "docs": {
       "identifier": "video-exp",

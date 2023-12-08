@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Формат файлу BAK - резервне копіювання відеопроекту VEGAS",
   "description":"Дізнайтеся про формат резервного копіювання відеопроекту BAK VEGAS та API, які можуть створювати та відкривати файли BAK.",
-"linktitle": "BAK VEGAS Video",
+  "linktitle": "BAK VEGAS Video",
   "menu": {
     "docs": {
       "identifier": "misc-bak-vegas",

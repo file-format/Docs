@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Формат файлу DESKTOP - файл запису робочого столу",
   "description":"Дізнайтеся про формат DESKTOP та API, які можуть створювати та відкривати файли DESKTOP.",
-"linktitle": "DESKTOP",
+  "linktitle": "DESKTOP",
   "menu": {
     "docs": {
       "identifier": "settings-desktop",

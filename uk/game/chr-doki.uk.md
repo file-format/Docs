@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Формат файлу CHR - Doki Doki Literature Club! Файл символів",
    "description":"Дізнайтеся про CHR Doki Doki Literature Club! Символьний формат файлу та API, які можуть створювати та відкривати файли CHR.",
-"linktitle": "CHR Doki",
+   "linktitle":"CHR Doki",
    "menu":{
       "docs":{
          "identifier":"game-chr-doki",

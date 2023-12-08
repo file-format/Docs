@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Формат файлу FLA - анімація Adobe Animate",
   "description":"Дізнайтеся про формат FLA та API, які можуть створювати та відкривати файли FLA.",
-"linktitle": "FLA",
+  "linktitle": "FLA",
   "menu": {
     "docs": {
       "identifier": "misc-fla",

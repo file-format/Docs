@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Формат файлу НАЛАШТУВАНЬ - файл налаштувань Visual Studio",
   "description":"Дізнайтеся про формат SETTINGS та API, які можуть створювати та відкривати файли SETTINGS.",
-"linktitle": "НАЛАШТУВАННЯ",
+  "linktitle": "SETTINGS",
   "menu": {
     "docs": {
       "identifier": "settings-settings",

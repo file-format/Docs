@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Формат файлу LDB - файл блокування Microsoft Access",
   "description":"Дізнайтеся про формат LDB і яку інформацію він містить.",
-"linktitle": "LDB",
+  "linktitle": "LDB",
   "menu": {
     "docs": {
       "identifier": "misc-ldb",

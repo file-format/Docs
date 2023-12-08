@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Формат файлу PKPASS - Apple Wallet Pass",
   "description":"Дізнайтеся про формат PKPASS та API, які можуть створювати та відкривати файли PKPASS.",
-"linktitle": "PKPASS",
+  "linktitle": "PKPASS",
   "menu": {
     "docs": {
       "identifier": "misc-pkpass",

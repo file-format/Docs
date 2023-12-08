@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Формат файлу OBI - файл підписки Outlook RSS",
   "description":"Дізнайтеся про формат OBI та API, які можуть створювати та відкривати файли OBI.",
-"linktitle": "OBI",
+  "linktitle": "OBI",
   "menu": {
     "docs": {
       "identifier": "settings-obi",

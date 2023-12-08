@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Формат файлу ECO - файл бази даних ECCO",
   "description":"Дізнайтеся про формат ECO та API, які можуть створювати та відкривати файли ECO.",
-"linktitle": "ЕКО",
+  "linktitle": "ECO",
   "menu": {
     "docs": {
       "identifier": "database-eco",

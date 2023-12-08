@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Формат файлу IT - модуль відстеження імпульсів",
   "description":"Дізнайтеся про ІТ-формат і API, які можуть створювати та відкривати ІТ-файли.",
-"linktitle": "ІТ",
+  "linktitle": "IT",
   "menu": {
     "docs": {
       "identifier": "audio-it",

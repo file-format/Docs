@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Формат файлу PMP - файл параметрів моделі графіка AutoCAD",
   "description":"Дізнайтеся про формат PMP та API, які можуть створювати та відкривати файли PMP.",
-"linktitle": "PMP",
+  "linktitle": "PMP",
   "menu": {
     "docs": {
       "identifier": "settings-pmp",

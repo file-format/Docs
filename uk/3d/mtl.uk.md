@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Формат файлу MTL - файл бібліотеки шаблонів матеріалів OBJ",
    "description":"Дізнайтеся про формат файлів бібліотеки шаблонів матеріалів MTL OBJ та API, які можуть створювати та відкривати файли MTL.",
-"linktitle": "MTL",
+   "linktitle":"MTL",
    "menu":{
       "docs":{
          "identifier":"3d-mtl",

@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Формат файлу PAT - файл інсталяції DiskStation Manager",
    "description":"Дізнайтеся про формат файлу встановлення PAT DiskStation Manager та API, які можуть створювати та відкривати файли PAT.",
-"linktitle": "PAT",
+   "linktitle":"PAT",
    "menu":{
       "docs":{
          "identifier":"system-pat-diskstation",

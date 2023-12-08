@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Файл INK - Довідка Pantone - Що таке файл .ink і як його відкрити?",
    "description":"Дізнайтеся про формат файлу INK Pantone Reference та API, які можуть створювати та відкривати файли INK.",
-"linktitle": "ЧОРНИЛО",
+   "linktitle":"INK",
    "menu":{
       "docs":{
          "identifier":"image-ink",

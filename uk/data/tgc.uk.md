@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Файл TGC - Кліп вузла Terragen - Що таке файл .tgc і як його відкрити?",
    "description":"Дізнайтеся про формат файлу TGC Terragen Node Clip та API, які можуть створювати та відкривати файли INK.",
-"linktitle": "TGC",
+   "linktitle":"TGC",
    "menu":{
       "docs":{
          "identifier":"data-tgc",

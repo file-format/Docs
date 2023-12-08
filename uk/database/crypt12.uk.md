@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Формат файлу CRYPT12 - зашифрований файл бази даних WhatsApp",
   "description":"Дізнайтеся про формат CRYPT12 та API, які можуть створювати та відкривати файли CRYPT12.",
-"linktitle": "CRYPT12",
+  "linktitle": "CRYPT12",
   "menu": {
     "docs": {
       "identifier": "database-crypt12",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Формат файлу MCPACK - доповнення Minecraft Bedrock Edition",
   "description":"Дізнайтеся про формат MCPACK і API, які можуть створювати та відкривати файли MCPACK.",
-"linktitle": "MCPACK",
+  "linktitle": "MCPACK",
   "menu": {
     "docs": {
       "identifier": "game-mcpack",

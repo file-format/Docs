@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Формат файлу ACO - файл зразків кольорів Adobe Photoshop",
   "description":"Дізнайтеся про формат ACO та API, які можуть створювати та відкривати файли ACO.",
-"linktitle": "ACO",
+  "linktitle": "ACO",
   "menu": {
     "docs": {
       "identifier": "settings-aco",

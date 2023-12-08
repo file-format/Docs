@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Формат файлу OSS - збережений пошуковий файл Microsoft Outlook",
   "description":"Дізнайтеся про формат OSS та API, які можуть створювати та відкривати файли OSS.",
-"linktitle": "OSS",
+  "linktitle": "OSS",
   "menu": {
     "docs": {
       "identifier": "settings-oss",

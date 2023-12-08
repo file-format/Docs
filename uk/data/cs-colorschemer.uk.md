@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Файл CS - Колірна схема ColorSchemer Studio - Що таке файл .cs і як його відкрити?",
   "description":"Дізнайтеся про формат схеми кольорів CS ColorSchemer Studio та API, які можуть створювати та відкривати файли CS.",
-"linktitle": "CS",
+  "linktitle": "CS",
   "menu": {
     "docs": {
       "identifier": "data-cs-colorschemer",

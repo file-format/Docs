@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Формат файлу CFG - файл мови розмітки Wesnoth",
   "description":"Дізнайтеся про формат файлу мови розмітки CFG Wesnoth та API, які можуть створювати та відкривати файли CFG.",
-"linktitle": "CFG Wesnoth",
+  "linktitle": "CFG Wesnoth",
   "menu": {
     "docs": {
       "identifier": "game-cfg-wesnoth",

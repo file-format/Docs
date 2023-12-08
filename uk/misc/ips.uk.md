@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Формат файлу IPS - аналітичні дані iOS",
   "description":"Дізнайтеся про формат IPS та API, які можуть створювати та відкривати файли IPS.",
-"linktitle": "IPS",
+  "linktitle": "IPS",
   "menu": {
     "docs": {
       "identifier": "misc-ips",

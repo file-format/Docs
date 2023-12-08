@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Формат файлу PC3 - файл конфігурації плоттера AutoCAD",
   "description":"Дізнайтеся про формат PC3 та API, які можуть створювати та відкривати файли PC3.",
-"linktitle": "PC3",
+  "linktitle": "PC3",
   "menu": {
     "docs": {
       "identifier": "cad-pc3",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Що таке відеоконвертер? Повний посібник із відеоконвертерів",
   "description":"Дізнайтеся про відеоконвертери, формати, поширені запитання та найкращі інструменти",
-"linktitle": "ВІДЕО КОНВЕРТЕР",
+  "linktitle": "VIDEO CONVERTER",
   "menu": {
     "docs": {
       "identifier": "misc-video-converter",

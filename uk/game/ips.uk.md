@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Формат файлу IPS - файл виправлення внутрішньої системи виправлення",
    "description":"Дізнайтеся про формат IPS та API, які можуть створювати та відкривати файли IPS.",
-"linktitle": "IPS",
+   "linktitle":"IPS",
    "menu":{
       "docs":{
          "identifier":"game-ips",

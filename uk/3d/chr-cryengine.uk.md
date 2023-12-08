@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Формат файлу CHR - файл символів CryENGINE",
    "description":"Дізнайтеся про символьний формат файлу CHR CryENGINE та API, які можуть створювати та відкривати файли CHR.",
-"linktitle":"CHR CryENGINE",
+   "linktitle":"CHR CryENGINE",
    "menu":{
       "docs":{
          "identifier":"3d-chr-cryengine",

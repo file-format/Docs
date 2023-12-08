@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Формат файлу AXM - файл ескізу FormIt",
   "description":"Дізнайтеся про формат файлу AXM та API, які можуть створювати та відкривати файли AXM.",
-"linktitle": "AXM",
+  "linktitle": "AXM",
   "menu": {
     "docs": {
       "identifier": "cad-axm",

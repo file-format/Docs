@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Формат файлу IBA - файл Lectra Clothing Design Pieces",
   "description":"Дізнайтеся про формат файлу IBA та API, які можуть створювати та відкривати файли IBA.",
-"linktitle": "IBA",
+  "linktitle": "IBA",
   "menu": {
     "docs": {
       "identifier": "cad-iba",

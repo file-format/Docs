@@ -15,7 +15,7 @@
 "toc": true,
 "title": "ЗАВАНТАЖЕННЯ Формату файлу - Pando Неповне завантаження файлу",
   "description":"Дізнайтеся про формат ЗАВАНТАЖЕННЯ та API, які можуть створювати та відкривати файли ЗАВАНТАЖЕННЯ.",
-"linktitle": "ЗАВАНТАЖЕННЯ",
+  "linktitle": "DOWNLOADING",
   "menu": {
     "docs": {
       "identifier": "misc-downloading",

@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Формат файлу SHADER - ресурс шейдера Unity",
    "description":"Дізнайтеся про формат активів шейдерів SHADER Unity та API, які можуть створювати та відкривати файли SHADER.",
-"linktitle":"SHADER Unity",
+   "linktitle":"SHADER Unity",
    "menu":{
       "docs":{
          "identifier":"game-shader-unity",

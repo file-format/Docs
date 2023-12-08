@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Формат файлу SET - файл набору властивостей бібліотеки документів",
   "description":"Дізнайтеся про формат SET та API, які можуть створювати та відкривати файли SET.",
-"linktitle": "SET",
+  "linktitle": "SET",
   "menu": {
     "docs": {
       "identifier": "settings-set",

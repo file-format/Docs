@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Формат файлу REG - файл реєстру Windows",
   "description":"Дізнайтеся про формат REG та API, які можуть створювати та відкривати файли REG.",
-"linktitle": "REG",
+  "linktitle": "REG",
   "menu": {
     "docs": {
       "identifier": "system-reg",

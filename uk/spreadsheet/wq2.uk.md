@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Формат файлу WQ2 - файл електронної таблиці Quattro Pro для DOS",
   "description":"Дізнайтеся про формат файлу WQ2 та API, які можуть створювати та відкривати файли WQ2.",
-"linktitle": "WQ2",
+  "linktitle": "WQ2",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-wq2",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Формат файлу CHEAT - шпаргалка Navi",
   "description":"Дізнайтеся про формат CHEAT та API, які можуть створювати та відкривати файли CHEAT.",
-"linktitle": "ОБМАХУВАТИ",
+  "linktitle": "CHEAT",
   "menu": {
     "docs": {
       "identifier": "executable-cheat",

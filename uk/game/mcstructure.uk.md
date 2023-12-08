@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Формат файлу MCSTRUCTURE - файл структури Minecraft",
   "description":"Дізнайтеся про формат MCSTRUCTURE та API, які можуть створювати та відкривати файли MCSTRUCTURE.",
-"linktitle": "MCSTRUCTURE",
+  "linktitle": "MCSTRUCTURE",
   "menu": {
     "docs": {
       "identifier": "game-mcstructure",

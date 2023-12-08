@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Формат файлу ISN - вихідний файл інсталятора",
   "description":"Дізнайтеся про формат ISN та API, які можуть створювати та відкривати файли ISN.",
-"linktitle": "ISN",
+  "linktitle": "ISN",
   "menu": {
     "docs": {
       "identifier": "misc-isn",

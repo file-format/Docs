@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Формат файлу XIP - підписаний архів MacOS",
   "description":"Дізнайтеся про формат XIP та API, які можуть створювати та відкривати файли XIP.",
-"linktitle": "XIP",
+  "linktitle": "XIP",
   "menu": {
     "docs": {
       "identifier": "compression-xip",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Формат файлу CNF - файл конфігурації MySQL",
   "description":"Дізнайтеся про формат CNF та API, які можуть створювати та відкривати файли CNF.",
-"linktitle": "CNF",
+  "linktitle": "CNF",
   "menu": {
     "docs": {
       "identifier": "settings-cnf",

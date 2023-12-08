@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Формат файлу WPS - файл проекту Workbench перекладача SDL",
   "description":"Дізнайтеся про формат WPS і API, які можуть створювати та відкривати файли WPS.",
-"linktitle": "WPS",
+  "linktitle": "WPS",
   "menu": {
     "docs": {
       "identifier": "settings-wps",

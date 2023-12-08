@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Формат файлу CC - файл вихідного коду C++",
   "description":"Дізнайтеся про формат CC та API, які можуть створювати та відкривати файли CC.",
-"linktitle": "CC",
+  "linktitle": "CC",
   "menu": {
     "docs": {
       "identifier": "programming-cc",

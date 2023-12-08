@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Формат файлу M4R - файл мелодії iPhone",
   "description":"Дізнайтеся про формат файлу M4R та API, які можуть створювати та відкривати файли M4R.",
-"linktitle": "M4R",
+  "linktitle": "M4R",
   "menu": {
     "docs": {
       "identifier": "audio-m4r",

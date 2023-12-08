@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Формат файлу BAK - резервна копія бази даних Microsoft SQL Server",
   "description":"Дізнайтеся про формат резервного копіювання BAK SQL Server та API, які можуть створювати та відкривати файли BAK.",
-"linktitle": "BAK SQL Server",
+  "linktitle": "BAK SQL Server",
   "menu": {
     "docs": {
       "identifier": "database-bak-sqlserver",

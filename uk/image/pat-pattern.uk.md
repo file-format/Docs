@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Формат файлу PAT - файл шаблону",
    "description":"Дізнайтеся про формат файлу шаблону PAT та API, які можуть створювати та відкривати файли PAT.",
-"linktitle": "Шаблон PAT",
+   "linktitle":"PAT Pattern",
    "menu":{
       "docs":{
          "identifier":"image-pat-pattern",

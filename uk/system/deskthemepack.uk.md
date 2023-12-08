@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Формат файлу DESKTHEMEPACK - файл пакета тем для робочого столу Windows 10",
   "description":"Дізнайтеся про формат DESKTHEMEPACK і API, які можуть створювати та відкривати файли DESKTHEMEPACK.",
-"linktitle": "DESKTHEMEPACK",
+  "linktitle": "DESKTHEMEPACK",
   "menu": {
     "docs": {
       "identifier": "system-deskthemepack",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Формат файлу CFG - файл конфігурації вихідного механізму",
   "description":"Дізнайтеся про формат файлу конфігурації вихідного механізму CFG та API, які можуть створювати та відкривати файли CFG.",
-"linktitle": "CFG Source Engine",
+  "linktitle": "CFG Source Engine",
   "menu": {
     "docs": {
       "identifier": "game-cfg-sourceengine",

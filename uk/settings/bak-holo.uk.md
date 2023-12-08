@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Формат файлу BAK - резервна копія Holo Launcher",
   "description":"Дізнайтеся про формат BAK Holo Launcher Backup та API, які можуть створювати та відкривати файли BAK.",
-"linktitle": "BAK HOLO",
+  "linktitle": "BAK HOLO",
   "menu": {
     "docs": {
       "identifier": "settings-bak-holo",

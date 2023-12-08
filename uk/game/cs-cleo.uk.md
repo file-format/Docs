@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Формат файлу CS - спеціальний сценарій CLEO",
    "description":"Дізнайтеся про формат спеціального сценарію CS CLEO та API, які можуть створювати та відкривати файли CS.",
-"linktitle":"CS CLEO",
+   "linktitle":"CS CLEO",
    "menu":{
       "docs":{
          "identifier":"game-cs-cleo",
