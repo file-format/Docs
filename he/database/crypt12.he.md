@@ -14,7 +14,7 @@
 "toc": true,
 "title": "פורמט קובץ CRYPT12 - קובץ מסד נתונים מוצפן של WhatsApp",
   "description":"למד על פורמט CRYPT12 וממשקי API שיכולים ליצור ולפתוח קבצי CRYPT12.",
-"linktitle": "CRYPT12",
+  "linktitle": "CRYPT12",
   "menu": {
     "docs": {
       "identifier": "database-crypt12",

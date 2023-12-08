@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ BAK - גיבוי מסד נתונים של Microsoft SQL Server",
   "description":"למד על פורמט גיבוי BAK SQL Server וממשקי API שיכולים ליצור ולפתוח קבצי BAK.",
-"linktitle": "שרת BAK SQL",
+  "linktitle": "BAK SQL Server",
   "menu": {
     "docs": {
       "identifier": "database-bak-sqlserver",

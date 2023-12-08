@@ -16,7 +16,7 @@
 "toc": true,
 "title": "JSF-filformat - Java Script Command File",
   "description":"Läs mer om JSF-format och API:er som kan skapa och öppna JSF-filer.",
-"linktitle": "JSF",
+  "linktitle": "JSF",
   "menu": {
     "docs": {
       "identifier": "executable-jsf",

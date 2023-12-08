@@ -17,7 +17,7 @@
 "toc":true,
 "title":"INK-fil - Pantone-referens - Vad är en .ink-fil och hur man öppnar den?",
    "description":"Läs mer om INK Pantone Reference-filformat och API:er som kan skapa och öppna INK-filer.",
-"linktitle":"INK",
+   "linktitle":"INK",
    "menu":{
       "docs":{
          "identifier":"image-ink",

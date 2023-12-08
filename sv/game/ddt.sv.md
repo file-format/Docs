@@ -16,7 +16,7 @@
 "toc": true,
 "title": "DDT-filformat - Football Manager Game Data File",
   "description":"Läs mer om DDT-format och API:er som kan skapa och öppna DDT-filer.",
-"linktitle": "DDT",
+  "linktitle": "DDT",
   "menu": {
     "docs": {
       "identifier": "game-ddt",

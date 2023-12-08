@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Vad är PDB-filer? Förstå PDB-filer: Ett avgörande verktyg för strukturbiologi",
   "description":"Lär dig mer om vad PDB-filer är? Förstå PDB-filer: ett avgörande verktyg för strukturbiologi",
-"linktitle": "PDB",
+  "linktitle": "PDB",
   "menu": {
     "docs": {
       "identifier": "database-pdb",

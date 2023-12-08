@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ FLH - קובץ אנימציה FLIC",
   "description":"למד על פורמט FLH וממשקי API שיכולים ליצור ולפתוח קבצי FLH.",
-"linktitle": "FLH",
+  "linktitle": "FLH",
   "menu": {
     "docs": {
       "identifier": "video-flh",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ NSP - חבילת הגשת נינטנדו",
   "description":"למד על פורמט NSP וממשקי API שיכולים ליצור ולפתוח קובצי NSP.",
-"linktitle": "NSP",
+  "linktitle": "NSP",
   "menu": {
     "docs": {
       "identifier": "game-nsp",

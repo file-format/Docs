@@ -17,7 +17,7 @@
 "toc":true,
 "title": "פורמט קובץ PRT - חלק פרמטרי של Creo",
    "description":"למד על פורמט קובץ PRT Creo Parametric Part וממשקי API שיכולים ליצור ולפתוח קובצי PRT.",
-"linktitle": "PRT",
+   "linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"cad-prt-creo",

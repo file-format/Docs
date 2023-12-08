@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ BPS - גיבוי מסמכי Microsoft Works",
   "description":"למד על פורמט BPS Works וממשקי API שיכולים ליצור ולפתוח קובצי BPS.",
-"linktitle": "BPS עובד",
+  "linktitle": "BPS Works",
   "menu": {
     "docs": {
       "identifier": "misc-bps-works",

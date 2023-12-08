@@ -18,7 +18,7 @@
 "toc": true,
 "title": "פורמט קובץ VMX - קובץ תצורה של מכונה וירטואלית של VMware",
   "description":"למד על פורמט VMX וממשקי API שיכולים ליצור ולפתוח קובצי VMX.",
-"linktitle": "VMX",
+  "linktitle": "VMX",
   "menu": {
     "docs": {
       "identifier": "settings-vmx",

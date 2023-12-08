@@ -14,7 +14,7 @@
 "toc": true,
   "description":"Läs mer om AIR-filformat och API:er som kan skapa och öppna AIR-filer.",
 "title": "AIR-filformat - Adobe AIR-installationspaketfil",
-"linktitle": "AIR",
+  "linktitle": "AIR",
   "menu": {
     "docs": {
       "identifier": "executable-air",

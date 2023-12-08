@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CAF-filformat - Cal3D binär animationsfil",
    "description":"Lär dig om CAF Cal3D Binary Animation File-format och API:er som kan skapa och öppna CAF-filer.",
-"linktitle":"CAF Cal3D",
+   "linktitle":"CAF Cal3D",
    "menu":{
       "docs":{
          "identifier":"3d-caf-cal3d",

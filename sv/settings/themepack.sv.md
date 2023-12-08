@@ -15,7 +15,7 @@
 "toc": true,
 "title": "THEMEPACK Filformat - Windows 7 Theme Pack",
   "description":"Läs mer om THEMEPACK-format och API:er som kan skapa och öppna THEMEPACK-filer.",
-"linktitle": "TEMAPACK",
+  "linktitle": "THEMEPACK",
   "menu": {
     "docs": {
       "identifier": "settings-themepack",

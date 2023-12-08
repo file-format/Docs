@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ PRPROJ - Adobe Premiere Pro Project",
   "description":"למד על פורמט קובץ PRPROJ וממשקי API שיכולים ליצור ולפתוח קובצי PRPROJ.",
-"linktitle": "PRPROJ",
+  "linktitle": "PRPROJ",
   "menu": {
     "docs": {
       "identifier": "video-prproj",

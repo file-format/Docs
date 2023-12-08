@@ -17,7 +17,7 @@
 "toc":true,
 "title": "פורמט קובץ BIN - קובץ מדיניות ה-BlackBerry IT",
    "description":"למד על פורמט BIN וממשקי API שיכולים ליצור ולפתוח קובצי BIN.",
-"linktitle": "BIN",
+   "linktitle":"BIN",
    "menu":{
       "docs":{
          "identifier":"settings-bin",

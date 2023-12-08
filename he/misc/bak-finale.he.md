@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ BAK - גיבוי ניקוד גמר 2012",
   "description":"למד על פורמט BAK Finale וממשקי API שיכולים ליצור ולפתוח קבצי BAK.",
-"linktitle": "גמר BAK",
+  "linktitle": "BAK Finale",
   "menu": {
     "docs": {
       "identifier": "misc-bak-finale",

@@ -17,7 +17,7 @@
 "toc":true,
 "title": "פורמט קובץ IPS - קובץ תיקון מערכת תיקון פנימי",
    "description":"למד על פורמט IPS וממשקי API שיכולים ליצור ולפתוח קובצי IPS.",
-"linktitle": "IPS",
+   "linktitle":"IPS",
    "menu":{
       "docs":{
          "identifier":"game-ips",

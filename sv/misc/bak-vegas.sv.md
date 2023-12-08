@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK-filformat - VEGAS Video Project Backup",
   "description":"Läs mer om BAK VEGAS Video Project Backup-format och API:er som kan skapa och öppna BAK-filer.",
-"linktitle": "BAK VEGAS Video",
+  "linktitle": "BAK VEGAS Video",
   "menu": {
     "docs": {
       "identifier": "misc-bak-vegas",

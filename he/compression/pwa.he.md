@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ PWA - קובץ סוכן סיסמה",
   "description":"למד על פורמט PWA וממשקי API שיכולים ליצור ולפתוח קובצי PWA.",
-"linktitle": "PWA",
+  "linktitle": "PWA",
   "menu": {
     "docs": {
       "identifier": "compression-pwa",

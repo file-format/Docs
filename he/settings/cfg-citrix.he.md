@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ CFG - קובץ חיבור שרת Citrix",
   "description":"למד על פורמט קובץ חיבור שרת Citrix CFG וממשקי API שיכולים ליצור ולפתוח קובצי CFG.",
-"linktitle": "CFG Citrix",
+  "linktitle": "CFG Citrix",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-citrix",

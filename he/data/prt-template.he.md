@@ -17,7 +17,7 @@
 "toc":true,
 "title": "קובץ PRT - תבנית מצגות - מהו קובץ .prt וכיצד אוכל לפתוח אותו?",
    "description":"למד על פורמט קובץ תבנית PRT מצגות וממשקי API שיכולים ליצור ולפתוח קובצי PRT.",
-"linktitle": "PRT",
+   "linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"data-prt-template",

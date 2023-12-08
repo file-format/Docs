@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CFG-filformat - Källmotorkonfigurationsfil",
   "description":"Läs mer om CFG Source Engine Configuration File format och API:er som kan skapa och öppna CFG-filer.",
-"linktitle": "CFG-källmotor",
+  "linktitle": "CFG Source Engine",
   "menu": {
     "docs": {
       "identifier": "game-cfg-sourceengine",

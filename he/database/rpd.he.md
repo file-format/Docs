@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ RPD - קובץ מסד נתונים של פרויקט RIB",
   "description":"למד על פורמט RPD וממשקי API שיכולים ליצור ולפתוח קבצי RPD.",
-"linktitle": "RPD",
+  "linktitle": "RPD",
   "menu": {
     "docs": {
       "identifier": "database-rpd",

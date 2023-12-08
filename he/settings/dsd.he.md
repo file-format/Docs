@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ DSD - AutoCAD Drawing Set Description File",
   "description":"למד על פורמט DSD וממשקי API שיכולים ליצור ולפתוח קובצי DSD.",
-"linktitle": "DSD",
+  "linktitle": "DSD",
   "menu": {
     "docs": {
       "identifier": "settings-dsd",

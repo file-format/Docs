@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CAF-filformat - kärnljudfil",
    "description":"Läs mer om CAF-format och API:er som kan skapa och öppna CAF-filer.",
-"linktitle":"CAF",
+   "linktitle":"CAF",
    "menu":{
       "docs":{
          "identifier":"audio-caf",

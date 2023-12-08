@@ -18,7 +18,7 @@
 "toc": true,
 "title": "פורמט קובץ DV - קובץ וידאו דיגיטלי",
   "description":"למד על פורמט DV וממשקי API שיכולים ליצור ולפתוח קובצי DV.",
-"linktitle": "DV",
+  "linktitle": "DV",
   "menu": {
     "docs": {
       "identifier": "video-dv",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "PRESTO filformat - Presto projektkalkylblad",
   "description":"Läs mer om PRESTO-format och API:er som kan skapa och öppna PRESTO-filer.",
-"linktitle": "PRESTO",
+  "linktitle": "PRESTO",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-presto",

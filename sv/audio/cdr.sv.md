@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CDR-filformat - rå-cd-ljuddata",
    "description":"Läs mer om CDR Raw CD Audio Data filformat och API:er som kan skapa och öppna CDR-filer.",
-"linktitle":"CDR",
+   "linktitle":"CDR",
    "menu":{
       "docs":{
          "identifier":"audio-cdr",

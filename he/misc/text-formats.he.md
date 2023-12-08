@@ -12,7 +12,7 @@
 "toc": true,
 "title": "תבניות טקסט, סוגי ושאלות נפוצות",
   "description":"למד על תבניות טקסט, סוגי תבניות טקסט, רשימת תבניות טקסט ושאלות נפוצות",
-"linktitle": "פורמטי טקסט",
+  "linktitle": "TEXT FORMATS",
   "menu": {
     "docs": {
       "identifier": "misc-text-formats",

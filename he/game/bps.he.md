@@ -16,7 +16,7 @@
 "toc":true,
 "title": "פורמט קובץ BPS - קובץ תיקון BPS",
    "description":"למד על פורמט BPS וממשקי API שיכולים ליצור ולפתוח קובצי BPS.",
-"linktitle": "BPS",
+   "linktitle":"BPS",
    "menu":{
       "docs":{
          "identifier":"game-bps",

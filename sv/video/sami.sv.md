@@ -15,7 +15,7 @@
 "toc": true,
 "title": "SAMI-filformat - Fil för undertexter och utbyte av metadata",
   "description":"Läs mer om SAMI-format och API:er som kan skapa och öppna SAMI-filer.",
-"linktitle": "SAMI",
+  "linktitle": "SAMI",
   "menu": {
     "docs": {
       "identifier": "video-sami",

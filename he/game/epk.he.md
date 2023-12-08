@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ EPK - חבילת נכסים של Eaglercraft",
   "description":"למד על פורמט EPK וממשקי API שיכולים ליצור ולפתוח קובצי EPK.",
-"linktitle": "EPK",
+  "linktitle": "EPK",
   "menu": {
     "docs": {
       "identifier": "game-epk",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "פורמט קובץ ASL - סגנון שכבת Photoshop",
   "description":"למד על פורמט ASL וממשקי API שיכולים ליצור ולפתוח קובצי ASL.",
-"linktitle": "ASL",
+  "linktitle": "ASL",
   "menu": {
     "docs": {
       "identifier": "settings-asl",

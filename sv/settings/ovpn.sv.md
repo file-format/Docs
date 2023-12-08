@@ -15,7 +15,7 @@
 "toc": true,
 "title": "OVPN-filformat - OpenVPN-konfigurationsfil",
   "description":"Läs mer om OVPN-format och API:er som kan skapa och öppna OVPN-filer.",
-"linktitle": "OVPN",
+  "linktitle": "OVPN",
   "menu": {
     "docs": {
       "identifier": "settings-ovpn",

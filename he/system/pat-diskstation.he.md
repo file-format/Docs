@@ -17,7 +17,7 @@
 "toc":true,
 "title": "פורמט קובץ PAT - קובץ התקנת DiskStation Manager",
    "description":"למד על פורמט קובץ התקנת PAT DiskStation Manager וממשקי API שיכולים ליצור ולפתוח קובצי PAT.",
-"linktitle": "PAT",
+   "linktitle":"PAT",
    "menu":{
       "docs":{
          "identifier":"system-pat-diskstation",

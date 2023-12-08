@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ CBA - ארכיון קומיקס",
   "description":"למד על פורמט CBA וממשקי API שיכולים ליצור ולפתוח קובצי CBA.",
-"linktitle": "CBA",
+  "linktitle": "CBA",
   "menu": {
     "docs": {
       "identifier": "compression-cba",

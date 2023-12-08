@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ NOMEDIA - אנדרואיד ללא קובץ מדיה",
   "description":"למד על פורמט NOMEDIA וממשקי API שיכולים ליצור ולפתוח קבצי NOMEDIA.",
-"linktitle": "NOMEDIA",
+  "linktitle": "NOMEDIA",
   "menu": {
     "docs": {
       "identifier": "misc-nomedia",

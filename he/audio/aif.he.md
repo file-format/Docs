@@ -18,7 +18,7 @@
 "toc": true,
 "title": "פורמט קובץ AIF - פורמט קובץ מחליף שמע",
   "description":"למד על פורמט AIF וממשקי API שיכולים ליצור ולפתוח קבצי AIF.",
-"linktitle": "AIF",
+  "linktitle": "AIF",
   "menu": {
     "docs": {
       "identifier": "audio-aif",

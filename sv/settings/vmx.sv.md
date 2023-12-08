@@ -18,7 +18,7 @@
 "toc": true,
 "title": "VMX-filformat - VMware Virtual Machine Configuration File",
   "description":"Läs mer om VMX-format och API:er som kan skapa och öppna VMX-filer.",
-"linktitle": "VMX",
+  "linktitle": "VMX",
   "menu": {
     "docs": {
       "identifier": "settings-vmx",

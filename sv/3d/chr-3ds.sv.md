@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CHR-filformat - 3ds Max Characters File",
    "description":"Läs mer om filformatet CHR 3ds Max Characters och API:er som kan skapa och öppna CHR-filer.",
-"linktitle":"CHR 3ds",
+   "linktitle":"CHR 3ds",
    "menu":{
       "docs":{
          "identifier":"3d-chr-3ds",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "LANG-filformat - Minecraft Language Localization File",
   "description":"Läs mer om LANG-format och API:er som kan skapa och öppna LANG-filer.",
-"linktitle": "LANG",
+  "linktitle": "LANG",
   "menu": {
     "docs": {
       "identifier": "game-lang",

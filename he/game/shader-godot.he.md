@@ -17,7 +17,7 @@
 "toc":true,
 "title":"פורמט קובץ SHADER - קובץ Godot Engine Shader",
    "description":"למד על פורמט קובץ SHADER Godot Engine Shader וממשקי API שיכולים ליצור ולפתוח קובצי SHADER.",
-"linktitle":"SHADER Godot",
+   "linktitle":"SHADER Godot",
    "menu":{
       "docs":{
          "identifier":"game-shader-godot",

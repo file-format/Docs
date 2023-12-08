@@ -17,7 +17,7 @@
 "toc":true,
 "title":"UPS-filformat - UPS-patchfil",
    "description":"Läs mer om UPS Patch File-format och API:er som kan skapa och öppna UPS-filer.",
-"linktitle":"UPS",
+   "linktitle":"UPS",
    "menu":{
       "docs":{
          "identifier":"game-ups",

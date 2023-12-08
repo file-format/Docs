@@ -16,7 +16,7 @@
 "toc": true,
 "title": "LDB-filformat - Microsoft Access Lock-fil",
   "description":"Läs mer om LDB-format och vilken information det innehåller.",
-"linktitle": "LDB",
+  "linktitle": "LDB",
   "menu": {
     "docs": {
       "identifier": "misc-ldb",

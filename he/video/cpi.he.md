@@ -17,7 +17,7 @@
 "toc":true,
 "title": "פורמט קובץ CPI - AVCHD וידאו קליפ מידע",
    "description":"למד על פורמט קובץ מידע קליפ CPI AVCHD וממשקי API שיכולים ליצור ולפתוח קובצי CPI.",
-"linktitle": "מחיר לצרכן",
+   "linktitle":"CPI",
    "menu":{
       "docs":{
          "identifier":"video-cpi",

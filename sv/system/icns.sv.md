@@ -14,7 +14,7 @@
 "toc": true,
 "title": "ICNS-filformat - macOS-ikonresurs",
   "description":"Läs mer om ICNS-format och API:er som kan skapa och öppna ICNS-filer.",
-"linktitle": "ICNS",
+  "linktitle": "ICNS",
   "menu": {
     "docs": {
       "identifier": "system-icns",

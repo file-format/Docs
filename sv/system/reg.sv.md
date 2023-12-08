@@ -14,7 +14,7 @@
 "toc": true,
 "title": "REG-filformat - Windows-registerfil",
   "description":"Läs mer om REG-format och API:er som kan skapa och öppna REG-filer.",
-"linktitle": "REG",
+  "linktitle": "REG",
   "menu": {
     "docs": {
       "identifier": "system-reg",

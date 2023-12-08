@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ 3GPP - קובץ מדיה 3GPP",
   "description":"למד על פורמט 3GPP וממשקי API שיכולים ליצור ולפתוח קבצי 3GPP.",
-"linktitle": "3GPP",
+  "linktitle": "3GPP",
   "menu": {
     "docs": {
       "identifier": "video-3gpp",

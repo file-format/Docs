@@ -15,7 +15,7 @@
 "toc": true,
 "title": "מהם קבצי מדיה? סוגים, פורמטים והשפעתם על תקשורת דיגיטלית",
   "description":"למד על קבצי מדיה, סוגיהם, הפורמטים וההשפעה שלהם על תקשורת דיגיטלית.",
-"linktitle": "קבצי מדיה",
+  "linktitle": "MEDIA FILES",
   "menu": {
     "docs": {
       "identifier": "misc-media-files",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ CNF - קובץ תצורה של MySQL",
   "description":"למד על פורמט CNF וממשקי API שיכולים ליצור ולפתוח קובצי CNF.",
-"linktitle": "CNF",
+  "linktitle": "CNF",
   "menu": {
     "docs": {
       "identifier": "settings-cnf",

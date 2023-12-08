@@ -16,7 +16,7 @@
 "toc": true,
 "title": "CC-filformat - C++ källkodsfil",
   "description":"Läs mer om CC-format och API:er som kan skapa och öppna CC-filer.",
-"linktitle": "CC",
+  "linktitle": "CC",
   "menu": {
     "docs": {
       "identifier": "programming-cc",

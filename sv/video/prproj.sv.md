@@ -16,7 +16,7 @@
 "toc": true,
 "title": "PRPROJ-filformat - Adobe Premiere Pro Project",
   "description":"Lär dig om PRPROJ-filformat och API:er som kan skapa och öppna PRPROJ-filer.",
-"linktitle": "PRPROJ",
+  "linktitle": "PRPROJ",
   "menu": {
     "docs": {
       "identifier": "video-prproj",

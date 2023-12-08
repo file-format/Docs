@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ PAN - קובץ מסד נתונים של פנורמה",
   "description":"למד על פורמט PAN וממשקי API שיכולים ליצור ולפתוח קובצי PAN.",
-"linktitle": "PAN",
+  "linktitle": "PAN",
   "menu": {
     "docs": {
       "identifier": "database-pan",

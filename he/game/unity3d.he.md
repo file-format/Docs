@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ Unity3D - ארכיון Unity Web Player",
   "description":"למד על פורמט Unity3D וממשקי API שיכולים ליצור ולפתוח קבצי Unity3D.",
-"linktitle": "Unity3D",
+  "linktitle": "Unity3D",
   "menu": {
     "docs": {
       "identifier": "game-unity3d",

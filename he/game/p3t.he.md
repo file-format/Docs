@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ P3T - קובץ ערכת נושא של PlayStation 3",
   "description":"למד על פורמט P3T וממשקי API שיכולים ליצור ולפתוח קבצי P3T.",
-"linktitle": "P3T",
+  "linktitle": "P3T",
   "menu": {
     "docs": {
       "identifier": "game-p3t",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "PDM-filformat - PowerDesigner-databasfil",
   "description":"Läs mer om PDM-format och API:er som kan skapa och öppna PDM-filer.",
-"linktitle": "PDM",
+  "linktitle": "PDM",
   "menu": {
     "docs": {
       "identifier": "database-pdm",

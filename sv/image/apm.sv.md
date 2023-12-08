@@ -16,7 +16,7 @@
 "toc": true,
 "title": "APM-filformat - Aldus Placeable Metafile Image",
   "description":"Läs mer om APM-format och API:er som kan skapa och öppna APM-filer.",
-"linktitle": "APM",
+  "linktitle": "APM",
   "menu": {
     "docs": {
       "identifier": "image-apm",

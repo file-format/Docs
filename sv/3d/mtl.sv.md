@@ -17,7 +17,7 @@
 "toc":true,
 "title":"MTL-filformat - OBJ-materialmallbiblioteksfil",
    "description":"Lär dig om MTL OBJ Material Template Library filformat och API:er som kan skapa och öppna MTL-filer.",
-"linktitle":"MTL",
+   "linktitle":"MTL",
    "menu":{
       "docs":{
          "identifier":"3d-mtl",

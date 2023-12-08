@@ -14,7 +14,7 @@
 "toc": true,
 "title": "פורמט קובץ ICNS - משאב סמל macOS",
   "description":"למד על פורמט ICNS וממשקי API שיכולים ליצור ולפתוח קובצי ICNS.",
-"linktitle": "ICNS",
+  "linktitle": "ICNS",
   "menu": {
     "docs": {
       "identifier": "system-icns",

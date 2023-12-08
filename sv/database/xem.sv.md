@@ -16,7 +16,7 @@
 "toc": true,
 "title": "XEM-filformat - PowerDesigner-modelldefinitionsfil",
   "description":"Läs mer om XEM-format och API:er som kan skapa och öppna XEM-filer.",
-"linktitle": "XEM",
+  "linktitle": "XEM",
   "menu": {
     "docs": {
       "identifier": "database-xem",

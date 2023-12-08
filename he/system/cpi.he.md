@@ -17,7 +17,7 @@
 "toc":true,
 "title": "פורמט קובץ CPI - קובץ מידע על דף קוד",
    "description":"למד על פורמט קובץ CPI Codepage Information וממשקי API שיכולים ליצור ולפתוח קובצי CPI.",
-"linktitle": "CPI",
+   "linktitle":"CPI",
    "menu":{
       "docs":{
          "identifier":"system-cpi",

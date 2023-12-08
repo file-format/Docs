@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ CPA - CADSTAR PCB Archive File",
   "description":"למד על פורמט קובץ CPA וממשקי API שיכולים ליצור ולפתוח קובצי CPA.",
-"linktitle": "מחיר לרכישה",
+  "linktitle": "CPA",
   "menu": {
     "docs": {
       "identifier": "cad-cpa",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ UDB - קובץ מסד הנתונים של המשתמשים של Microsoft Dynamics AX",
   "description":"למד על פורמט UDB וממשקי API שיכולים ליצור ולפתוח קבצי UDB.",
-"linktitle": "UDB",
+  "linktitle": "UDB",
   "menu": {
     "docs": {
       "identifier": "database-udb",

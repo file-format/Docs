@@ -14,7 +14,7 @@
 "toc": true,
 "title": "פורמט קובץ CONF - קובץ תצורה של יוניקס",
   "description":"למד על פורמט CONF וממשקי API שיכולים ליצור ולפתוח קובצי CONF.",
-"linktitle": "CONF",
+  "linktitle": "CONF",
   "menu": {
     "docs": {
       "identifier": "settings-conf",

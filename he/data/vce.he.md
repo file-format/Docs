@@ -17,7 +17,7 @@
 "toc":true,
 "title": "קובץ VCE - Visual CertExam - מהו קובץ .vce וכיצד לפתוח אותו?",
    "description":"למד על פורמט קובץ VCE Visual CertExam Exam וממשקי API שיכולים ליצור ולפתוח קובצי VCE.",
-"linktitle": "VCE",
+   "linktitle":"VCE",
    "menu":{
       "docs":{
          "identifier":"data-vce",

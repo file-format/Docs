@@ -17,7 +17,7 @@
 "toc": true,
 "title": "WPS-filformat - Kingsoft Writer Document",
   "description":"Läs mer om WPS Kingsoft-format och API:er som kan skapa och öppna WPS-filer.",
-"linktitle": "WPS Kingsoft",
+  "linktitle": "WPS Kingsoft",
   "menu": {
     "docs": {
       "identifier": "word-processing-wps-kingsoft",

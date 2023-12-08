@@ -15,7 +15,7 @@
 "toc": true,
   "description":"למד על פורמט קובץ APP וממשקי API שיכולים ליצור ולפתוח קובצי APP.",
 "title": "פורמט קובץ APP - חבילת יישומים של macOS",
-"linktitle": "APP",
+  "linktitle": "APP",
   "menu": {
     "docs": {
       "identifier": "executable-app",

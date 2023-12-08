@@ -17,7 +17,7 @@
 "toc":true,
 "title":"PAT-filformat - CorelDRAW-mönsterfil",
    "description":"Läs mer om PAT CorelDRAW Pattern-filformat och API:er som kan skapa och öppna PAT-filer.",
-"linktitle":"PAT CorelDRAW",
+   "linktitle":"PAT CorelDRAW",
    "menu":{
       "docs":{
          "identifier":"image-pat-coreldraw",

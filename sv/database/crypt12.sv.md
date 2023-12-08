@@ -14,7 +14,7 @@
 "toc": true,
 "title": "CRYPT12-filformat - WhatsApp-krypterad databasfil",
   "description":"Läs mer om CRYPT12-format och API:er som kan skapa och öppna CRYPT12-filer.",
-"linktitle": "CRYPT12",
+  "linktitle": "CRYPT12",
   "menu": {
     "docs": {
       "identifier": "database-crypt12",

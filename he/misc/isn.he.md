@@ -14,7 +14,7 @@
 "toc": true,
 "title": "פורמט קובץ ISN - קובץ מקור של המתקין",
   "description":"למד על פורמט ISN וממשקי API שיכולים ליצור ולפתוח קובצי ISN.",
-"linktitle": "ISN",
+  "linktitle": "ISN",
   "menu": {
     "docs": {
       "identifier": "misc-isn",

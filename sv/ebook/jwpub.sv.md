@@ -15,7 +15,7 @@
 "toc": true,
 "title": "JWPUB-filformat - Jehovas vittnen publikation",
   "description":"Lär dig mer om JWPUB-format och API:er som kan skapa och öppna JWPUB-filer.",
-"linktitle": "JWPUB",
+  "linktitle": "JWPUB",
   "menu": {
     "docs": {
       "identifier": "ebook-jwpub",

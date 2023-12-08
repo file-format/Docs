@@ -14,7 +14,7 @@
 "toc": true,
 "title": "פורמט קובץ IBA - קובץ חלקי עיצוב בגדים של Lectra",
   "description":"למד על פורמט קובץ IBA וממשקי API שיכולים ליצור ולפתוח קבצי IBA.",
-"linktitle": "IBA",
+  "linktitle": "IBA",
   "menu": {
     "docs": {
       "identifier": "cad-iba",

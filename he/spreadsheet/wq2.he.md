@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ WQ2 - Quattro Pro for DOS Spreadsheet File",
   "description":"למד על פורמט קובץ WQ2 וממשקי API שיכולים ליצור ולפתוח קבצי WQ2.",
-"linktitle": "WQ2",
+  "linktitle": "WQ2",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-wq2",

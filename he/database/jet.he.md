@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ JET - קובץ מסד הנתונים של Microsoft JET",
   "description":"למד על פורמט JET וממשקי API שיכולים ליצור ולפתוח קבצי JET.",
-"linktitle": "JET",
+  "linktitle": "JET",
   "menu": {
     "docs": {
       "identifier": "database-jet",

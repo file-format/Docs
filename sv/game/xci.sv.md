@@ -17,7 +17,7 @@
 "toc":true,
 "title":"XCI-fil - Vad är en .xci-fil och hur öppnar man den?",
    "description":"Läs mer om XCI NX Card Image filformat och API:er som kan skapa och öppna XCI-filer.",
-"linktitle":"XCI",
+   "linktitle":"XCI",
    "menu":{
       "docs":{
          "identifier":"game-xci",

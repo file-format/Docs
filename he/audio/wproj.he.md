@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ WPROJ - קובץ Wwise Project",
   "description":"למד על פורמט קובץ WPROJ וממשקי API שיכולים ליצור ולפתוח קובצי WPROJ.",
-"linktitle": "WPROJ",
+  "linktitle": "WPROJ",
   "menu": {
     "docs": {
       "identifier": "audio-wproj",

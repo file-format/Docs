@@ -14,7 +14,7 @@
 "toc": true,
 "title": "ISN-filformat - källfil för installationsprogram",
   "description":"Läs mer om ISN-format och API:er som kan skapa och öppna ISN-filer.",
-"linktitle": "ISN",
+  "linktitle": "ISN",
   "menu": {
     "docs": {
       "identifier": "misc-isn",

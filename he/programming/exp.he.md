@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ EXP - קובץ ייצוא סמלים",
   "description":"למד על פורמט EXP וממשקי API שיכולים ליצור ולפתוח קבצי EXP.",
-"linktitle": "EXP",
+  "linktitle": "EXP",
   "menu": {
     "docs": {
       "identifier": "programming-exp",

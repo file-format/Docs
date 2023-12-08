@@ -15,7 +15,7 @@
 "toc":true,
 "title": "פורמט קובץ BIN - תמונת PSX PlayStation BIOS",
    "description":"למד על פורמט BIN וממשקי API שיכולים ליצור ולפתוח קובצי BIN.",
-"linktitle":"BIN PCSX",
+   "linktitle":"BIN PCSX",
    "menu":{
       "docs":{
          "identifier":"game-bin-pcsx",

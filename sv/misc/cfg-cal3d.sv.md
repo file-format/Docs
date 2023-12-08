@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CFG-filformat - Cal3D-modellkonfigurationsfil",
   "description":"Läs mer om CFG Cal3D Model Configuration File format och API:er som kan skapa och öppna CFG-filer.",
-"linktitle": "CFG Cal3D",
+  "linktitle": "CFG Cal3D",
   "menu": {
     "docs": {
       "identifier": "misc-cfg-cal3d",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "MUI-filformat - Myriad användarinstrumentfil",
   "description":"Läs mer om MUI-filformat och API:er som kan skapa och öppna MUI-filer.",
-"linktitle": "MUI",
+  "linktitle": "MUI",
   "menu": {
     "docs": {
       "identifier": "audio-mui",

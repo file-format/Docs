@@ -17,7 +17,7 @@
 "toc":true,
 "title": "פורמט קובץ PK3 - נתוני משחק Quake 3 Engine",
    "description":"למד על פורמט קבצי PK3 Quake 3 Engine Game Data וממשקי API שיכולים ליצור ולפתוח קבצי PK3.",
-"linktitle":"PK3",
+   "linktitle":"PK3",
    "menu":{
       "docs":{
          "identifier":"game-pk3-quake3",

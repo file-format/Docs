@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ NUT - קובץ וידאו NUT",
   "description":"למד על פורמט NUT וממשקי API שיכולים ליצור ולפתוח קובצי NUT.",
-"linktitle": "אגוז",
+  "linktitle": "NUT",
   "menu": {
     "docs": {
       "identifier": "video-nut",

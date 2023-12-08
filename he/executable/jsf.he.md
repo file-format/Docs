@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ JSF - קובץ פקודת סקריפט ג'אווה",
   "description":"למד על פורמט JSF וממשקי API שיכולים ליצור ולפתוח קובצי JSF.",
-"linktitle": "JSF",
+  "linktitle": "JSF",
   "menu": {
     "docs": {
       "identifier": "executable-jsf",

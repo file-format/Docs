@@ -15,7 +15,7 @@
 "toc": true,
 "title": "GSHEET-filformat – genväg till Google Kalkylark",
   "description":"Läs mer om GSHEET-filformat och API:er som kan skapa och öppna GSHEET-filer.",
-"linktitle": "GSHEET",
+  "linktitle": "GSHEET",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-gsheet",

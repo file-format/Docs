@@ -14,7 +14,7 @@
 "toc": true,
 "title": "CRYPT14-filformat - WhatsApp-krypterad databasfil",
   "description":"Läs mer om CRYPT14-format och API:er som kan skapa och öppna CRYPT14-filer.",
-"linktitle": "CRYPT14",
+  "linktitle": "CRYPT14",
   "menu": {
     "docs": {
       "identifier": "database-crypt14",

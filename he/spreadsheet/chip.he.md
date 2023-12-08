@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ CHIP - קובץ הערות Microarray",
   "description":"למד על פורמט קובץ CHIP וממשקי API שיכולים ליצור ולפתוח קובצי CHIP.",
-"linktitle": "צ'יפ",
+  "linktitle": "CHIP",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-chip",

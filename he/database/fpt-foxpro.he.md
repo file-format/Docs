@@ -18,7 +18,7 @@
 "toc": true,
 "title": "פורמט קובץ FPT - תזכיר טבלה FoxPro",
   "description":"למד על פורמט FPT FoxPro וממשקי API שיכולים ליצור ולפתוח קבצי FPT.",
-"linktitle": "FPT FoxPro",
+  "linktitle": "FPT FoxPro",
   "menu": {
     "docs": {
       "identifier": "database-fpt-foxpro",

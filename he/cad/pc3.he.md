@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ PC3 - קובץ תצורה של פלוטר AutoCAD",
   "description":"למד על פורמט PC3 וממשקי API שיכולים ליצור ולפתוח קבצי PC3.",
-"linktitle": "PC3",
+  "linktitle": "PC3",
   "menu": {
     "docs": {
       "identifier": "cad-pc3",

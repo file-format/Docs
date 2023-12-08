@@ -17,7 +17,7 @@
 "toc": true,
 "title": "VCPROJ-filformat - Visual C++-projektfil",
   "description":"Läs mer om VCPROJ-format och API:er som kan skapa och öppna VCPROJ-filer.",
-"linktitle": "VCPROJ",
+  "linktitle": "VCPROJ",
   "menu": {
     "docs": {
       "identifier": "programming-vcproj",

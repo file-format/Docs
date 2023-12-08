@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ IPS - נתוני iOS Analytics",
   "description":"למד על פורמט IPS וממשקי API שיכולים ליצור ולפתוח קובצי IPS.",
-"linktitle": "IPS",
+  "linktitle": "IPS",
   "menu": {
     "docs": {
       "identifier": "misc-ips",

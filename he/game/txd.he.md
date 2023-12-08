@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ TXD - מילון מרקם משחק",
   "description":"למד על פורמט TXD וממשקי API שיכולים ליצור ולפתוח קבצי TXD.",
-"linktitle": "TXD",
+  "linktitle": "TXD",
   "menu": {
     "docs": {
       "identifier": "game-txd",

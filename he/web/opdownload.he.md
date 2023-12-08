@@ -14,7 +14,7 @@
 "toc": true,
 "title": "OpDOWNLOAD פורמט קובץ - קובץ שהורד חלקית של Opera",
   "description":"למד על פורמט OPDOWNLOAD וממשקי API שיכולים ליצור ולפתוח קבצי OPDOWNLOAD.",
-"linktitle": "הורדה להורדה",
+  "linktitle": "OPDOWNLOAD",
   "menu": {
     "docs": {
       "identifier": "web-opdownload",

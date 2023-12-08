@@ -17,7 +17,7 @@
 "toc":true,
 "title":"פורמט קובץ IPS - סרטון פלייסטיישן 2 במשחק",
    "description":"למד על פורמט IPS PS2 וממשקי API שיכולים ליצור ולפתוח קבצי IPS.",
-"linktitle":"IPS PS2",
+   "linktitle":"IPS PS2",
    "menu":{
       "docs":{
          "identifier":"game-ips-ps2",

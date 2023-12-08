@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ NES - קובץ ROM של מערכת הבידור של Nintendo",
   "description":"למד על פורמט NES וממשקי API שיכולים ליצור ולפתוח קבצי NES.",
-"linktitle": "NES",
+  "linktitle": "NES",
   "menu": {
     "docs": {
       "identifier": "game-nes",

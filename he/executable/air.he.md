@@ -14,7 +14,7 @@
 "toc": true,
   "description":"למד על פורמט קבצי AIR וממשקי API שיכולים ליצור ולפתוח קובצי AIR.",
 "title": "פורמט קובץ AIR - קובץ חבילת ההתקנה של Adobe AIR",
-"linktitle": "AIR",
+  "linktitle": "AIR",
   "menu": {
     "docs": {
       "identifier": "executable-air",

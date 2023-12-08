@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ QPW - גיליון אלקטרוני של Quattro Pro",
   "description":"למד על פורמט קובץ QPW וממשקי API שיכולים ליצור ולפתוח קובצי QPW.",
-"linktitle": "QPW",
+  "linktitle": "QPW",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-qpw",

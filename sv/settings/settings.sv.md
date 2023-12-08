@@ -14,7 +14,7 @@
 "toc": true,
 "title": "INSTÄLLNINGAR Filformat - Visual Studio Settings File",
   "description":"Läs mer om SETTINGS-format och API:er som kan skapa och öppna SETTINGS-filer.",
-"linktitle": "INSTÄLLNINGAR",
+  "linktitle": "SETTINGS",
   "menu": {
     "docs": {
       "identifier": "settings-settings",

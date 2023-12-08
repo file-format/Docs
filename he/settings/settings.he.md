@@ -14,7 +14,7 @@
 "toc": true,
 "title": "פורמט קובץ הגדרות - קובץ הגדרות Visual Studio",
   "description":"למד על פורמט SETTINGS וממשקי API שיכולים ליצור ולפתוח קבצי SETTINGS.",
-"linktitle": "הגדרות",
+  "linktitle": "SETTINGS",
   "menu": {
     "docs": {
       "identifier": "settings-settings",

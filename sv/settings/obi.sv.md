@@ -15,7 +15,7 @@
 "toc": true,
 "title": "OBI-filformat - Outlook RSS-prenumerationsfil",
   "description":"Läs mer om OBI-format och API:er som kan skapa och öppna OBI-filer.",
-"linktitle": "OBI",
+  "linktitle": "OBI",
   "menu": {
     "docs": {
       "identifier": "settings-obi",

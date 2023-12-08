@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ BAK - קובץ גיבוי",
   "description":"למד על פורמט גיבוי BAK וממשקי API שיכולים ליצור ולפתוח קבצי BAK.",
-"linktitle": "גיבוי BAK",
+  "linktitle": "BAK Backup",
   "menu": {
     "docs": {
       "identifier": "misc-bak-backup",

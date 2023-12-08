@@ -17,7 +17,7 @@
 "toc":true,
 "title":"פורמט קובץ CHR - סט תווים של בורלנד",
    "description":"למד על פורמט קבצי סט תווים של CHR Borland וממשקי API שיכולים ליצור ולפתוח קובצי CHR.",
-"linktitle":"CHR",
+   "linktitle":"CHR",
    "menu":{
       "docs":{
          "identifier":"font-chr",

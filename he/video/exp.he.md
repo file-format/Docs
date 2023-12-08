@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ EXP - קובץ וידאו מיוצא מסדרת DX",
   "description":"למד על פורמט EXP וממשקי API שיכולים ליצור ולפתוח קבצי EXP.",
-"linktitle": "EXP",
+  "linktitle": "EXP",
   "menu": {
     "docs": {
       "identifier": "video-exp",

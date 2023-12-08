@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ BAK - Act! גיבוי מסד נתונים",
   "description":"למד על BAK Act! פורמט גיבוי וממשקי API שיכולים ליצור ולפתוח קבצי BAK.",
-"linktitle": "גיבוי BAK ACT",
+  "linktitle": "BAK ACT Backup",
   "menu": {
     "docs": {
       "identifier": "database-bak-act",

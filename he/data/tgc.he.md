@@ -17,7 +17,7 @@
 "toc":true,
 "title": "קובץ TGC - קטע צומת Terragen - מהו קובץ tgc וכיצד לפתוח אותו?",
    "description":"למד על פורמט קובץ TGC Terragen Node Clip וממשקי API שיכולים ליצור ולפתוח קבצי INK.",
-"linktitle": "TGC",
+   "linktitle":"TGC",
    "menu":{
       "docs":{
          "identifier":"data-tgc",

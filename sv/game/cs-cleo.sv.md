@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CS-filformat - CLEO Custom Script",
    "description":"Läs mer om CS CLEO Custom Script-format och API:er som kan skapa och öppna CS-filer.",
-"linktitle":"CS CLEO",
+   "linktitle":"CS CLEO",
    "menu":{
       "docs":{
          "identifier":"game-cs-cleo",

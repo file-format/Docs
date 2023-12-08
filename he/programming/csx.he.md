@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ CSX - Visual C# Script",
   "description":"למד על פורמט CSX וממשקי API שיכולים ליצור ולפתוח קובצי CSX.",
-"linktitle": "CSX",
+  "linktitle": "CSX",
   "menu": {
     "docs": {
       "identifier": "programming-csx",

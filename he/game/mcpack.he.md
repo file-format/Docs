@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ MCPACK - תוסף של Minecraft Bedrock Edition",
   "description":"למד על פורמט MCPACK וממשקי API שיכולים ליצור ולפתוח קובצי MCPACK.",
-"linktitle": "MCPACK",
+  "linktitle": "MCPACK",
   "menu": {
     "docs": {
       "identifier": "game-mcpack",

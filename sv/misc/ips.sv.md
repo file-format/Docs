@@ -17,7 +17,7 @@
 "toc": true,
 "title": "IPS-filformat - iOS Analytics Data",
   "description":"Läs mer om IPS-format och API:er som kan skapa och öppna IPS-filer.",
-"linktitle": "IPS",
+  "linktitle": "IPS",
   "menu": {
     "docs": {
       "identifier": "misc-ips",

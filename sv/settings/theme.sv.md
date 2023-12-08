@@ -16,7 +16,7 @@
 "toc": true,
 "title": "TEMA Filformat - Microsoft Plus! Desktop Theme",
   "description":"Läs mer om THEME-format och API:er som kan skapa och öppna THEME-filer.",
-"linktitle": "TEMA",
+  "linktitle": "THEME",
   "menu": {
     "docs": {
       "identifier": "settings-theme",

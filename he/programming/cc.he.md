@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ CC - קובץ קוד מקור C++",
   "description":"למד על פורמט CC וממשקי API שיכולים ליצור ולפתוח קבצי CC.",
-"linktitle": "CC",
+  "linktitle": "CC",
   "menu": {
     "docs": {
       "identifier": "programming-cc",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ JET - הגדרות חבילת המסיבה של Jackbox",
   "description":"למד על פורמט JET וממשקי API שיכולים ליצור ולפתוח קבצי JET.",
-"linktitle": "JET",
+  "linktitle": "JET",
   "menu": {
     "docs": {
       "identifier": "settings-jet",

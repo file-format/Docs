@@ -18,7 +18,7 @@
 "toc": true,
 "title": "DV-filformat - Digital videofil",
   "description":"Läs mer om DV-format och API:er som kan skapa och öppna DV-filer.",
-"linktitle": "DV",
+  "linktitle": "DV",
   "menu": {
     "docs": {
       "identifier": "video-dv",

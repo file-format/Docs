@@ -17,7 +17,7 @@
 "toc":true,
 "title": "קובץ XCI - מהו קובץ .xci וכיצד לפתוח אותו?",
    "description":"למד על פורמט קובץ תמונת כרטיס XCI NX וממשקי API שיכולים ליצור ולפתוח קובצי XCI.",
-"linktitle":"XCI",
+   "linktitle":"XCI",
    "menu":{
       "docs":{
          "identifier":"game-xci",

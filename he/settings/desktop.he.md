@@ -18,7 +18,7 @@
 "toc": true,
 "title": "פורמט קובץ שולחן העבודה - קובץ כניסה לשולחן העבודה",
   "description":"למד על פורמט DESKTOP וממשקי API שיכולים ליצור ולפתוח קבצי DESKTOP.",
-"linktitle": "שולחן עבודה",
+  "linktitle": "DESKTOP",
   "menu": {
     "docs": {
       "identifier": "settings-desktop",

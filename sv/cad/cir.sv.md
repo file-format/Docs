@@ -15,7 +15,7 @@
 "toc": true,
 "title": "CIR-filformat - Micro-Cap Schematic File",
   "description":"Läs mer om CIR-filformat och API:er som kan skapa och öppna CIR-filer.",
-"linktitle": "CIR",
+  "linktitle": "CIR",
   "menu": {
     "docs": {
       "identifier": "cad-cir",

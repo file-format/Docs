@@ -17,7 +17,7 @@
 "toc": true,
 "title": "XIP-filformat - MacOS Signed Archive",
   "description":"Läs mer om XIP-format och API:er som kan skapa och öppna XIP-filer.",
-"linktitle": "XIP",
+  "linktitle": "XIP",
   "menu": {
     "docs": {
       "identifier": "compression-xip",

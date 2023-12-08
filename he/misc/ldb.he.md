@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ LDB - קובץ נעילת Microsoft Access",
   "description":"למד על פורמט LDB ואיזה מידע הוא מכיל.",
-"linktitle": "LDB",
+  "linktitle": "LDB",
   "menu": {
     "docs": {
       "identifier": "misc-ldb",

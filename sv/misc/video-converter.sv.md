@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Vad är en videokonverterare? Den ultimata guiden till videokonverterare",
   "description":"Lär dig mer om videokonverterare, format, vanliga frågor och svar och bästa verktyg",
-"linktitle": "VIDEOOMvandlare",
+  "linktitle": "VIDEO CONVERTER",
   "menu": {
     "docs": {
       "identifier": "misc-video-converter",

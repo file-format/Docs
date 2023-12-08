@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK-filformat - Finale 2012 Score Backup",
   "description":"Läs mer om BAK Finale-format och API:er som kan skapa och öppna BAK-filer.",
-"linktitle": "BAK-final",
+  "linktitle": "BAK Finale",
   "menu": {
     "docs": {
       "identifier": "misc-bak-finale",

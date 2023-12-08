@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ PRESTO - גיליון אלקטרוני של פרויקט Presto",
   "description":"למד על פורמט PRESTO וממשקי API שיכולים ליצור ולפתוח קבצי PRESTO.",
-"linktitle": "PRESTO",
+  "linktitle": "PRESTO",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-presto",

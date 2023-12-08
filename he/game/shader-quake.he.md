@@ -17,7 +17,7 @@
 "toc":true,
 "title":"פורמט קובץ SHADER - Quake 3 Engine Shader File",
    "description":"למד על פורמט קובץ SHADER Quake 3 Engine Shader וממשקי API שיכולים ליצור ולפתוח קובצי SHADER.",
-"linktitle": "SHADER Quake",
+   "linktitle":"SHADER Quake",
    "menu":{
       "docs":{
          "identifier":"game-shader-quake",

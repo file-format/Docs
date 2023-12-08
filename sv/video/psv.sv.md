@@ -15,7 +15,7 @@
 "toc": true,
 "title": "PSV-filformat - Pluralsight-videofil",
   "description":"Läs mer om PSV-format och API:er som kan skapa och öppna PSV-filer.",
-"linktitle": "PSV",
+  "linktitle": "PSV",
   "menu": {
     "docs": {
       "identifier": "video-psv",

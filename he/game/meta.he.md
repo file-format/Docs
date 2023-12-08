@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ META - קובץ מטא נתונים קיים",
   "description":"למד על פורמט META וממשקי API שיכולים ליצור ולפתוח קבצי META.",
-"linktitle": "META",
+  "linktitle": "META",
   "menu": {
     "docs": {
       "identifier": "game-meta",

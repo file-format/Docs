@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ WPS - קובץ פרויקט שולחן העבודה של SDL Translator",
   "description":"למד על פורמט WPS וממשקי API שיכולים ליצור ולפתוח קובצי WPS.",
-"linktitle": "WPS",
+  "linktitle": "WPS",
   "menu": {
     "docs": {
       "identifier": "settings-wps",

@@ -18,7 +18,7 @@
 "toc": true,
 "title": "SCC-filformat - ScreenFlow-skärminspelning",
   "description":"Läs mer om SCC-format och API:er som kan skapa och öppna SCC-filer.",
-"linktitle": "SCC",
+  "linktitle": "SCC",
   "menu": {
     "docs": {
       "identifier": "video-scc",

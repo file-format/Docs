@@ -16,7 +16,7 @@
 "toc": true,
 "title": "DXB-filformat - Drawing Exchange Binary",
   "description":"Läs mer om DXB-format och API:er som kan skapa och öppna DXB-filer.",
-"linktitle": "DXB",
+  "linktitle": "DXB",
   "menu": {
     "docs": {
       "identifier": "cad-dxb",

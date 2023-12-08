@@ -18,7 +18,7 @@
 "toc": true,
 "title": "פורמט קובץ FPT - קובץ תזכיר אלפא חמש טבלאות",
   "description":"למד על פורמט FPT Alpha Five וממשקי API שיכולים ליצור ולפתוח קבצי FPT.",
-"linktitle": "FPT Alpha Five",
+  "linktitle": "FPT Alpha Five",
   "menu": {
     "docs": {
       "identifier": "database-fpt-alphafive",

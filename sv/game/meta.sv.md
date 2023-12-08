@@ -17,7 +17,7 @@
 "toc": true,
 "title": "META-filformat - Exient metadatafil",
   "description":"Läs mer om META-format och API:er som kan skapa och öppna META-filer.",
-"linktitle": "META",
+  "linktitle": "META",
   "menu": {
     "docs": {
       "identifier": "game-meta",

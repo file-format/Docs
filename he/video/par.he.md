@@ -15,7 +15,7 @@
 "toc":true,
 "title": "פורמט קובץ PAR - הקלטת Micros DVR ייעודית",
    "description":"למד על פורמט PAR וממשקי API שיכולים ליצור ולפתוח קובצי PAR.",
-"linktitle": "PAR",
+   "linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"video-par",

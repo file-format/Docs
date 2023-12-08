@@ -15,7 +15,7 @@
 "toc": true,
 "title": "EFS-filformat - Ensoniq SQ-80-fil",
   "description":"Läs mer om EFS-filformat och API:er som kan skapa och öppna EFS-filer.",
-"linktitle": "EFS",
+  "linktitle": "EFS",
   "menu": {
     "docs": {
       "identifier": "audio-efs",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CBA-filformat - Serietidningsarkiv",
   "description":"Läs mer om CBA-format och API:er som kan skapa och öppna CBA-filer.",
-"linktitle": "CBA",
+  "linktitle": "CBA",
   "menu": {
     "docs": {
       "identifier": "compression-cba",

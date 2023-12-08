@@ -17,7 +17,7 @@
 "toc":true,
 "title":"פורמט קובץ SHADER - Unity Shader Asset",
    "description":"למד על פורמט SHADER Unity Shader Asset וממשקי API שיכולים ליצור ולפתוח קבצי SHADER.",
-"linktitle":"SHADER Unity",
+   "linktitle":"SHADER Unity",
    "menu":{
       "docs":{
          "identifier":"game-shader-unity",

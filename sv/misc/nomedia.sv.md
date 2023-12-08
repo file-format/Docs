@@ -17,7 +17,7 @@
 "toc": true,
 "title": "NOMEDIA-filformat - Android ingen mediafil",
   "description":"Lär dig om NOMEDIA-format och API:er som kan skapa och öppna NOMEDIA-filer.",
-"linktitle": "NOMEDIA",
+  "linktitle": "NOMEDIA",
   "menu": {
     "docs": {
       "identifier": "misc-nomedia",

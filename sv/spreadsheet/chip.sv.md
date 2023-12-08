@@ -15,7 +15,7 @@
 "toc": true,
 "title": "CHIP-filformat - Microarray-anteckningsfil",
   "description":"Läs mer om CHIP-filformat och API:er som kan skapa och öppna CHIP-filer.",
-"linktitle": "CHIP",
+  "linktitle": "CHIP",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-chip",

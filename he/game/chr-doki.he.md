@@ -17,7 +17,7 @@
 "toc":true,
 "title":"פורמט קובץ CHR - מועדון ספרות דוקי דוקי! קובץ דמויות",
    "description":"למד על CHR Doki Doki Literature Club! פורמט קובץ תווים וממשקי API שיכולים ליצור ולפתוח קבצי CHR.",
-"linktitle":"CHR דוקי",
+   "linktitle":"CHR Doki",
    "menu":{
       "docs":{
          "identifier":"game-chr-doki",

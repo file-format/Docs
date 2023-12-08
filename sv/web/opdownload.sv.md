@@ -14,7 +14,7 @@
 "toc": true,
 "title": "LADDA DOWNLOAD filformat - Opera delvis nedladdad fil",
   "description":"Läs mer om OPDOWNLOAD-format och API:er som kan skapa och öppna OPDOWNLOAD-filer.",
-"linktitle": "LADDA NER",
+  "linktitle": "OPDOWNLOAD",
   "menu": {
     "docs": {
       "identifier": "web-opdownload",

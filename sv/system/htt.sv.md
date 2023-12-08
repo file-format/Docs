@@ -14,7 +14,7 @@
 "toc": true,
 "title": "HTT-filformat - Hypertextmall",
   "description":"Läs mer om HTT-format och API:er som kan skapa och öppna HTT-filer.",
-"linktitle": "HTT",
+  "linktitle": "HTT",
   "menu": {
     "docs": {
       "identifier": "system-htt",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CFG-filformat - Citrix Server Connection File",
   "description":"Läs mer om CFG Citrix Server Connection File-format och API:er som kan skapa och öppna CFG-filer.",
-"linktitle": "CFG Citrix",
+  "linktitle": "CFG Citrix",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-citrix",

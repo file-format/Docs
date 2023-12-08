@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ CFG - קובץ תצורת מודל Cal3D",
   "description":"למד על פורמט קובץ תצורת מודל Cal3D של CFG ועל ממשקי API שיכולים ליצור ולפתוח קובצי CFG.",
-"linktitle": "CFG Cal3D",
+  "linktitle": "CFG Cal3D",
   "menu": {
     "docs": {
       "identifier": "misc-cfg-cal3d",

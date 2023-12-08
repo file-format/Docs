@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ RPD - קובץ נתונים של מעצב תפקידים",
   "description":"למד על פורמט קובץ נתונים של מעצב תפקידים RPD וממשקי API שיכולים ליצור ולפתוח קובצי RPD.",
-"linktitle": "משחק תפקידים RPD",
+  "linktitle": "RPD Roleplay",
   "menu": {
     "docs": {
       "identifier": "database-rpd-roleplay",

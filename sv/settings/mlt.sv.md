@@ -17,7 +17,7 @@
 "toc": true,
 "title": "MLT-filformat - Shotcut-projekt",
   "description":"Lär dig mer om MLT Shotcut Project-format och API:er som kan skapa och öppna MLT-filer.",
-"linktitle": "MLT",
+  "linktitle": "MLT",
   "menu": {
     "docs": {
       "identifier": "settings-mlt",

@@ -17,7 +17,7 @@
 "toc":true,
 "title": "פורמט קובץ CDR - נתוני אודיו גולמיים של תקליטור",
    "description":"למד על פורמט קובץ נתוני אודיו של CDR Raw CD וממשקי API שיכולים ליצור ולפתוח קובצי CDR.",
-"linktitle": "CDR",
+   "linktitle":"CDR",
    "menu":{
       "docs":{
          "identifier":"audio-cdr",

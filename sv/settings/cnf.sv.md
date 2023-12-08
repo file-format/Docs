@@ -15,7 +15,7 @@
 "toc": true,
 "title": "CNF-filformat - MySQL-konfigurationsfil",
   "description":"Läs mer om CNF-format och API:er som kan skapa och öppna CNF-filer.",
-"linktitle": "CNF",
+  "linktitle": "CNF",
   "menu": {
     "docs": {
       "identifier": "settings-cnf",

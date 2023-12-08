@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ RMD - קובץ R Markdown",
   "description":"למד על פורמט RMD וממשקי API שיכולים ליצור ולפתוח קובצי RMD.",
-"linktitle": "RMD",
+  "linktitle": "RMD",
   "menu": {
     "docs": {
       "identifier": "word-processing-rmd",

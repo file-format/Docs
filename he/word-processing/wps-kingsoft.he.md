@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ WPS - מסמך Kingsoft Writer",
   "description":"למד על פורמט WPS Kingsoft וממשקי API שיכולים ליצור ולפתוח קבצי WPS.",
-"linktitle": "WPS Kingsoft",
+  "linktitle": "WPS Kingsoft",
   "menu": {
     "docs": {
       "identifier": "word-processing-wps-kingsoft",

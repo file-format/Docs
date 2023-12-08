@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ STY - סגנון מקלדת ימאהה או קורג",
   "description":"למד על פורמט STY וממשקי API שיכולים ליצור ולפתוח קובצי STY.",
-"linktitle": "STY",
+  "linktitle": "STY",
   "menu": {
     "docs": {
       "identifier": "audio-sty",

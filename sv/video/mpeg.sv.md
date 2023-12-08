@@ -16,7 +16,7 @@
 "toc": true,
 "title": "MPEG-filformat - MPEG-video",
   "description":"Läs mer om MPEG-format och API:er som kan skapa och öppna MPEG-filer.",
-"linktitle": "MPEG",
+  "linktitle": "MPEG",
   "menu": {
     "docs": {
       "identifier": "video-mpeg",

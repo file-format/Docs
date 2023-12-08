@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ SBV - קובץ כיתובים של YouTube",
   "description":"למד על פורמט SBV וממשקי API שיכולים ליצור ולפתוח קובצי SBV.",
-"linktitle": "SBV",
+  "linktitle": "SBV",
   "menu": {
     "docs": {
       "identifier": "settings-sbv",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ XEM - קובץ הגדרת מודל PowerDesigner",
   "description":"למד על פורמט XEM וממשקי API שיכולים ליצור ולפתוח קובצי XEM.",
-"linktitle": "XEM",
+  "linktitle": "XEM",
   "menu": {
     "docs": {
       "identifier": "database-xem",

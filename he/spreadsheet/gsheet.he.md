@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ GSHEET - קיצור דרך של Google Sheets",
   "description":"למד על פורמט קובץ GSHEET וממשקי API שיכולים ליצור ולפתוח קובצי GSHEET.",
-"linktitle": "GSHEET",
+  "linktitle": "GSHEET",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-gsheet",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CBZ-fil - ChessBase Database Archive - Vad är en .cbz-fil och hur öppnar jag den?",
   "description":"Lär dig om CBZ ChessBase Encrypted Database Archive-format och API:er som kan skapa och öppna CBZ-filer.",
-"linktitle": "CBZ",
+  "linktitle": "CBZ",
   "menu": {
     "docs": {
       "identifier": "data-cbz-chessbase",

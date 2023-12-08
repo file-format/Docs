@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ PEF - קובץ אלקטרוני של Pentax",
   "description":"למד על פורמט PEF וממשקי API שיכולים ליצור ולפתוח קובצי PEF.",
-"linktitle": "PEF",
+  "linktitle": "PEF",
   "menu": {
     "docs": {
       "identifier": "image-pef",

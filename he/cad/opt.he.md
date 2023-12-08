@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ OPT - קובץ Opterecenja",
   "description":"למד על פורמט קובץ OPT וממשקי API שיכולים ליצור ולפתוח קובצי OPT.",
-"linktitle": "OPT",
+  "linktitle": "OPT",
   "menu": {
     "docs": {
       "identifier": "cad-opt",

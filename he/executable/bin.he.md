@@ -15,7 +15,7 @@
 "toc":true,
 "title": "פורמט קובץ BIN - קובץ הפעלה Unix",
    "description":"למד על פורמט BIN וממשקי API שיכולים ליצור ולפתוח קובצי BIN.",
-"linktitle": "BIN",
+   "linktitle":"BIN",
    "menu":{
       "docs":{
          "identifier":"executable-bin",

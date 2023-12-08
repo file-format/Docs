@@ -18,7 +18,7 @@
 "toc": true,
 "title": "פורמט קובץ W3X - Warcraft 3 Expansion Map File",
   "description":"למד על פורמט W3X וממשקי API שיכולים ליצור ולפתוח קובצי W3X.",
-"linktitle": "W3X",
+  "linktitle": "W3X",
   "menu": {
     "docs": {
       "identifier": "game-w3x",

@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CHR-filformat - Borland Character Set",
    "description":"Lär dig om CHR Borland Character Set-filformat och API:er som kan skapa och öppna CHR-filer.",
-"linktitle":"CHR",
+   "linktitle":"CHR",
    "menu":{
       "docs":{
          "identifier":"font-chr",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "UDB-filformat - Microsoft Dynamics AX användardatabasfil",
   "description":"Läs mer om UDB-format och API:er som kan skapa och öppna UDB-filer.",
-"linktitle": "UDB",
+  "linktitle": "UDB",
   "menu": {
     "docs": {
       "identifier": "database-udb",

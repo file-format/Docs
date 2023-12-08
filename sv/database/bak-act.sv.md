@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK-filformat - Act! Database Backup",
   "description":"Läs mer om BAK Act! Backup-format och API:er som kan skapa och öppna BAK-filer.",
-"linktitle": "BAK ACT Backup",
+  "linktitle": "BAK ACT Backup",
   "menu": {
     "docs": {
       "identifier": "database-bak-act",

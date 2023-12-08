@@ -17,7 +17,7 @@
 "toc":true,
 "title":"PRT-filformat - CADKEY-delfil",
    "description":"Läs mer om PRT CADKEY Part-filformat och API:er som kan skapa och öppna PRT-filer.",
-"linktitle":"PRT CADKEY",
+   "linktitle":"PRT CADKEY",
    "menu":{
       "docs":{
          "identifier":"cad-prt-cadkey",

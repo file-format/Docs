@@ -15,7 +15,7 @@
 "toc": true,
 "title": "QPW-filformat - Quattro Pro-kalkylblad",
   "description":"Läs mer om QPW-filformat och API:er som kan skapa och öppna QPW-filer.",
-"linktitle": "QPW",
+  "linktitle": "QPW",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-qpw",

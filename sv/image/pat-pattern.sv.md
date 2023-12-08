@@ -17,7 +17,7 @@
 "toc":true,
 "title":"PAT-filformat - mönsterfil",
    "description":"Läs mer om PAT Pattern-filformat och API:er som kan skapa och öppna PAT-filer.",
-"linktitle":"PAT-mönster",
+   "linktitle":"PAT Pattern",
    "menu":{
       "docs":{
          "identifier":"image-pat-pattern",

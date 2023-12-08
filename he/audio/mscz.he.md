@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ MSCZ - קובץ ניקוד דחוס של MuseScore",
   "description":"למד על פורמט MSCZ וממשקי API שיכולים ליצור ולפתוח קבצי MSCZ.",
-"linktitle": "MSCZ",
+  "linktitle": "MSCZ",
   "menu": {
     "docs": {
       "identifier": "audio-mscz",

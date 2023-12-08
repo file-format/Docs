@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ FLA - Adobe Animate Animation",
   "description":"למד על פורמט FLA וממשקי API שיכולים ליצור ולפתוח קובצי FLA.",
-"linktitle": "FLA",
+  "linktitle": "FLA",
   "menu": {
     "docs": {
       "identifier": "misc-fla",

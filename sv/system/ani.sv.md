@@ -15,7 +15,7 @@
 "toc": true,
 "title": "ANI-filformat - Windows animerad markör",
   "description":"Läs mer om ANI-format och API:er som kan skapa och öppna ANI-filer.",
-"linktitle": "ANI",
+  "linktitle": "ANI",
   "menu": {
     "docs": {
       "identifier": "system-ani",

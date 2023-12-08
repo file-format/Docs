@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ BAK - גיבוי VEGAS Video Project",
   "description":"למד על פורמט גיבוי פרויקטים של BAK VEGAS וממשקי API שיכולים ליצור ולפתוח קבצי BAK.",
-"linktitle": "סרטון BAK VEGAS",
+  "linktitle": "BAK VEGAS Video",
   "menu": {
     "docs": {
       "identifier": "misc-bak-vegas",

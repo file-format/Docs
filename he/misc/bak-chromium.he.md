@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ BAK - גיבוי של Chromium Bookmarks",
   "description":"למד על פורמט BAK Chromium Bookmarks וממשקי API שיכולים ליצור ולפתוח קבצי BAK.",
-"linktitle": "BAK Chromium Bookmarks",
+  "linktitle": "BAK Chromium Bookmarks",
   "menu": {
     "docs": {
       "identifier": "misc-bak-chromium",

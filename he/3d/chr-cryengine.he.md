@@ -17,7 +17,7 @@
 "toc":true,
 "title":"פורמט קובץ CHR - קובץ תווים CryENGINE",
    "description":"למד על פורמט קבצי CHR CryENGINE Character וממשקי API שיכולים ליצור ולפתוח קובצי CHR.",
-"linktitle":"CHR CryENGINE",
+   "linktitle":"CHR CryENGINE",
    "menu":{
       "docs":{
          "identifier":"3d-chr-cryengine",

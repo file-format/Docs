@@ -16,7 +16,7 @@
 "toc": true,
 "title": "USR-filformat - Lowrance GPS-datafil",
   "description":"Läs mer om USR-format och API:er som kan skapa och öppna USR-filer.",
-"linktitle": "USR",
+  "linktitle": "USR",
   "menu": {
     "docs": {
       "identifier": "gis-usr",

@@ -17,7 +17,7 @@
 "toc":true,
 "title":"IPS-filformat - intern patchfil för systempatch",
    "description":"Läs mer om IPS-format och API:er som kan skapa och öppna IPS-filer.",
-"linktitle":"IPS",
+   "linktitle":"IPS",
    "menu":{
       "docs":{
          "identifier":"game-ips",

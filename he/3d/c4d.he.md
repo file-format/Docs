@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ C4D - קובץ דגם Cinema 4D",
   "description":"למד על פורמט C4D וממשקי API שיכולים ליצור ולפתוח קבצי C4D.",
-"linktitle": "C4D",
+  "linktitle": "C4D",
   "menu": {
     "docs": {
       "identifier": "3d-c4d",

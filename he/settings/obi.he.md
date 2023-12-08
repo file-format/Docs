@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ OBI - קובץ מנוי RSS של Outlook",
   "description":"למד על פורמט OBI וממשקי API שיכולים ליצור ולפתוח קובצי OBI.",
-"linktitle": "OBI",
+  "linktitle": "OBI",
   "menu": {
     "docs": {
       "identifier": "settings-obi",

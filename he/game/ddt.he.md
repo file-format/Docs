@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ DDT - קובץ נתוני משחק של Football Manager",
   "description":"למד על פורמט DDT וממשקי API שיכולים ליצור ולפתוח קבצי DDT.",
-"linktitle": "DDT",
+  "linktitle": "DDT",
   "menu": {
     "docs": {
       "identifier": "game-ddt",

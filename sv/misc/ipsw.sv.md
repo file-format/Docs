@@ -14,7 +14,7 @@
 "toc": true,
 "title": "IPSW-filformat - iPhone-programuppdateringsfil",
   "description":"Läs mer om IPSW-format och API:er som kan skapa och öppna IPSW-filer.",
-"linktitle": "IPSW",
+  "linktitle": "IPSW",
   "menu": {
     "docs": {
       "identifier": "misc-ipsw",

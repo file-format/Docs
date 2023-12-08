@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ THEME - Microsoft Plus! עיצוב שולחן העבודה",
   "description":"למד על פורמט THEME וממשקי API שיכולים ליצור ולפתוח קובצי THEME.",
-"linktitle": "THEME",
+  "linktitle": "THEME",
   "menu": {
     "docs": {
       "identifier": "settings-theme",

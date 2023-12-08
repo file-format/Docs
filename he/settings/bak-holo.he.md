@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ BAK - גיבוי של Holo Launcher",
   "description":"למד על פורמט הגיבוי של BAK Holo Launcher וממשקי API שיכולים ליצור ולפתוח קבצי BAK.",
-"linktitle": "BAK HOLO",
+  "linktitle": "BAK HOLO",
   "menu": {
     "docs": {
       "identifier": "settings-bak-holo",

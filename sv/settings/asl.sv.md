@@ -14,7 +14,7 @@
 "toc": true,
 "title": "ASL-filformat - Photoshop lagerstil",
   "description":"Läs mer om ASL-format och API:er som kan skapa och öppna ASL-filer.",
-"linktitle": "ASL",
+  "linktitle": "ASL",
   "menu": {
     "docs": {
       "identifier": "settings-asl",

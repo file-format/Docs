@@ -16,7 +16,7 @@
 "toc":true,
 "title":"PAR-filformat - Solid Edge-delfil",
    "description":"Läs mer om PAR-format och API:er som kan skapa och öppna PAR-filer.",
-"linktitle":"PAR",
+   "linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"cad-par",

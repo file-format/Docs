@@ -16,7 +16,7 @@
 "toc":true,
 "title":"BPS-filformat - BPS-patchfil",
    "description":"Läs mer om BPS-format och API:er som kan skapa och öppna BPS-filer.",
-"linktitle":"BPS",
+   "linktitle":"BPS",
    "menu":{
       "docs":{
          "identifier":"game-bps",

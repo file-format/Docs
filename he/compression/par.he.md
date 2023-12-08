@@ -16,7 +16,7 @@
 "toc":true,
 "title":"פורמט קובץ PAR - קובץ אינדקס פררכיון",
    "description":"למד על פורמט PAR וממשקי API שיכולים ליצור ולפתוח קובצי PAR.",
-"linktitle": "PAR",
+   "linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"compression-par",

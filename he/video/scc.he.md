@@ -18,7 +18,7 @@
 "toc": true,
 "title": "פורמט קובץ SCC - הקלטת מסך של ScreenFlow",
   "description":"למד על פורמט SCC וממשקי API שיכולים ליצור ולפתוח קובצי SCC.",
-"linktitle": "SCC",
+  "linktitle": "SCC",
   "menu": {
     "docs": {
       "identifier": "video-scc",

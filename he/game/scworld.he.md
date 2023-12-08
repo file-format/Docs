@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ SCWORLD - Survivalcraft World File",
   "description":"למד על פורמט SCWORLD וממשקי API שיכולים ליצור ולפתוח קבצי SCWORLD.",
-"linktitle": "SCWORLD",
+  "linktitle": "SCWORLD",
   "menu": {
     "docs": {
       "identifier": "game-scworld",

@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CDR-fil - Datafil för datahämtning av krasch - Vad är en .cdr-fil och hur öppnar jag den?",
    "description":"Läs mer om CDR Crash Data Retrieval Data-filformat och API:er som kan skapa och öppna CDR-filer.",
-"linktitle":"CDR",
+   "linktitle":"CDR",
    "menu":{
       "docs":{
          "identifier":"data-cdr-crash",

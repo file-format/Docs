@@ -16,7 +16,7 @@
 "toc":true,
 "title":"CAT-filformat - Windows-katalogfil",
    "description":"Läs mer om CAT-format och API:er som kan skapa och öppna CAT-filer.",
-"linktitle":"KATT",
+   "linktitle":"CAT",
    "menu":{
       "docs":{
          "identifier":"system-cat",

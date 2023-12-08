@@ -17,7 +17,7 @@
 "toc":true,
 "title":"ZOO-fil - Vad är en .zoo-fil och hur öppnar man den?",
    "description":"Läs mer om ZOO-komprimerade filformat och API:er som kan skapa och öppna ZOO-filer.",
-"linktitle":"ZOO",
+   "linktitle":"ZOO",
    "menu":{
       "docs":{
          "identifier":"compression-zoo",

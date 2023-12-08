@@ -15,7 +15,7 @@
 "toc": true,
 "title": "EC3-filformat - Enhanced Audio Codec 3-fil",
   "description":"Läs mer om EC3-filformat och API:er som kan skapa och öppna EC3-filer.",
-"linktitle": "EC3",
+  "linktitle": "EC3",
   "menu": {
     "docs": {
       "identifier": "audio-ec3",

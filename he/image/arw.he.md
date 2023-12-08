@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ ARW - תמונת מצלמה דיגיטלית של Sony Alpha Raw",
   "description":"למד על פורמט ARW וממשקי API שיכולים ליצור ולפתוח קובצי ARW.",
-"linktitle": "ARW",
+  "linktitle": "ARW",
   "menu": {
     "docs": {
       "identifier": "image-arw",

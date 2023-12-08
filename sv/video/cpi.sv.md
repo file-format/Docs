@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CPI-filformat - AVCHD-videoklippinformation",
    "description":"Lär dig om CPI AVCHD Video Clip Information filformat och API:er som kan skapa och öppna CPI-filer.",
-"linktitle":"CPI",
+   "linktitle":"CPI",
    "menu":{
       "docs":{
          "identifier":"video-cpi",

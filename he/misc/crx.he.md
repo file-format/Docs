@@ -18,7 +18,7 @@
 "toc": true,
 "title": "פורמט קובץ CRX - הרחבת Google Chrome",
   "description":"למד על פורמט CRX וממשקי API שיכולים ליצור ולפתוח קובצי CRX.",
-"linktitle": "CRX",
+  "linktitle": "CRX",
   "menu": {
     "docs": {
       "identifier": "misc-crx",

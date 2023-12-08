@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ MTM - מודול MultiTracker",
   "description":"למד על פורמט קובץ MTM וממשקי API שיכולים ליצור ולפתוח קובצי MTM.",
-"linktitle": "MTM",
+  "linktitle": "MTM",
   "menu": {
     "docs": {
       "identifier": "audio-mtm",

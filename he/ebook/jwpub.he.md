@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ JWPUB - פרסום של עדי יהוה",
   "description":"למד על פורמט JWPUB וממשקי API שיכולים ליצור ולפתוח קובצי JWPUB.",
-"linktitle": "JWPUB",
+  "linktitle": "JWPUB",
   "menu": {
     "docs": {
       "identifier": "ebook-jwpub",

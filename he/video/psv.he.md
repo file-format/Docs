@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ PSV - Pluralsight Video File",
   "description":"למד על פורמט PSV וממשקי API שיכולים ליצור ולפתוח קובצי PSV.",
-"linktitle": "PSV",
+  "linktitle": "PSV",
   "menu": {
     "docs": {
       "identifier": "video-psv",

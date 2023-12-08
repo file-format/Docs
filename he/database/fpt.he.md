@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ FPT - FileMaker Pro Database Momo File",
   "description":"למד על פורמט FPT וממשקי API שיכולים ליצור ולפתוח קובצי FPT.",
-"linktitle": "FPT",
+  "linktitle": "FPT",
   "menu": {
     "docs": {
       "identifier": "database-fpt",

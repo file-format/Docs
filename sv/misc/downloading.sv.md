@@ -15,7 +15,7 @@
 "toc": true,
 "title": "LADDER NED filformat - Pando ofullständig nedladdningsfil",
   "description":"Läs mer om DOWNLOADING-format och API:er som kan skapa och öppna DOWNLOADING-filer.",
-"linktitle": "LADDER NED",
+  "linktitle": "DOWNLOADING",
   "menu": {
     "docs": {
       "identifier": "misc-downloading",

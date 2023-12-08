@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ XIP - ארכיון חתום של MacOS",
   "description":"למד על פורמט XIP וממשקי API שיכולים ליצור ולפתוח קובצי XIP.",
-"linktitle": "XIP",
+  "linktitle": "XIP",
   "menu": {
     "docs": {
       "identifier": "compression-xip",

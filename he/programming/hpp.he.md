@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ HPP - קובץ כותרת C++",
   "description":"למד על פורמט HPP וממשקי API שיכולים ליצור ולפתוח קובצי HPP.",
-"linktitle": "HPP",
+  "linktitle": "HPP",
   "menu": {
     "docs": {
       "identifier": "programming-hpp",

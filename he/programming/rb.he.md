@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ RB - קובץ קוד מקור רובי",
   "description":"למד על פורמט RB וממשקי API שיכולים ליצור ולפתוח קבצי RB.",
-"linktitle": "RB",
+  "linktitle": "RB",
   "menu": {
     "docs": {
       "identifier": "programming-rb",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ ANI - סמן מונפש של Windows",
   "description":"למד על פורמט ANI וממשקי API שיכולים ליצור ולפתוח קבצי ANI.",
-"linktitle": "ANI",
+  "linktitle": "ANI",
   "menu": {
     "docs": {
       "identifier": "system-ani",

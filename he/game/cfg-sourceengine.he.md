@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ CFG - קובץ תצורת מנוע מקור",
   "description":"למד על פורמט קובץ תצורת מנוע מקור CFG וממשקי API שיכולים ליצור ולפתוח קובצי CFG.",
-"linktitle": "מנוע מקור CFG",
+  "linktitle": "CFG Source Engine",
   "menu": {
     "docs": {
       "identifier": "game-cfg-sourceengine",

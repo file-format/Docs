@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ VRCW - VRChat World",
   "description":"למד על פורמט VRCW וממשקי API שיכולים ליצור ולפתוח קבצי VRCW.",
-"linktitle": "VRCW",
+  "linktitle": "VRCW",
   "menu": {
     "docs": {
       "identifier": "game-vrcw",

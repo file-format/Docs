@@ -14,7 +14,7 @@
 "toc": true,
 "title": "פורמט קובץ PDM - קובץ מסד נתונים של PowerDesigner",
   "description":"למד על פורמט PDM וממשקי API שיכולים ליצור ולפתוח קובצי PDM.",
-"linktitle": "PDM",
+  "linktitle": "PDM",
   "menu": {
     "docs": {
       "identifier": "database-pdm",

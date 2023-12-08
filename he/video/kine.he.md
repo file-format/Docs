@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ KINE - קובץ פרויקט KineMaster",
   "description":"למד על פורמט קובץ KINE וממשקי API שיכולים ליצור ולפתוח קובצי KINE.",
-"linktitle": "KINE",
+  "linktitle": "KINE",
   "menu": {
     "docs": {
       "identifier": "video-kine",

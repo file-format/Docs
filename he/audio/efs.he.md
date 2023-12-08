@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ EFS - קובץ Ensoniq SQ-80",
   "description":"למד על פורמט קובץ EFS וממשקי API שיכולים ליצור ולפתוח קובצי EFS.",
-"linktitle": "EFS",
+  "linktitle": "EFS",
   "menu": {
     "docs": {
       "identifier": "audio-efs",

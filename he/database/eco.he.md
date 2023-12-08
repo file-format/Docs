@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ ECO - קובץ מסד נתונים של ECCO",
   "description":"למד על פורמט ECO וממשקי API שיכולים ליצור ולפתוח קבצי ECO.",
-"linktitle": "ECO",
+  "linktitle": "ECO",
   "menu": {
     "docs": {
       "identifier": "database-eco",

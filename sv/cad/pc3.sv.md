@@ -17,7 +17,7 @@
 "toc": true,
 "title": "PC3-filformat - AutoCAD-plotterkonfigurationsfil",
   "description":"Läs mer om PC3-format och API:er som kan skapa och öppna PC3-filer.",
-"linktitle": "PC3",
+  "linktitle": "PC3",
   "menu": {
     "docs": {
       "identifier": "cad-pc3",

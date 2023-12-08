@@ -14,7 +14,7 @@
 "toc": true,
 "title": "פורמט קובץ CRYPT14 - קובץ מסד נתונים מוצפן של WhatsApp",
   "description":"למד על פורמט CRYPT14 וממשקי API שיכולים ליצור ולפתוח קבצי CRYPT14.",
-"linktitle": "CRYPT14",
+  "linktitle": "CRYPT14",
   "menu": {
     "docs": {
       "identifier": "database-crypt14",

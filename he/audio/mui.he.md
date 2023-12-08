@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ MUI - אינספור קובץ מכשירי משתמש",
   "description":"למד על פורמט קבצי MUI וממשקי API שיכולים ליצור ולפתוח קובצי MUI.",
-"linktitle": "MUI",
+  "linktitle": "MUI",
   "menu": {
     "docs": {
       "identifier": "audio-mui",

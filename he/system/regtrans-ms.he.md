@@ -14,7 +14,7 @@
 "toc": true,
 "title": "פורמט קובץ REGTRANS-MS - קובץ יומן עסקאות הרישום",
   "description":"למד על פורמט REGTRANS-MS וממשקי API שיכולים ליצור ולפתוח קבצי REGTRANS-MS.",
-"linktitle": "REGTRANS-MS",
+  "linktitle": "REGTRANS-MS",
   "menu": {
     "docs": {
       "identifier": "system-regtrans-ms",

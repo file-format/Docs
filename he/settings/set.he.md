@@ -15,7 +15,7 @@
 "toc": true,
 "title": "תבנית קובץ SET - קובץ ערכת מאפייני ספריית מסמכים",
   "description":"למד על פורמט SET וממשקי API שיכולים ליצור ולפתוח קבצי SET.",
-"linktitle": "SET",
+  "linktitle": "SET",
   "menu": {
     "docs": {
       "identifier": "settings-set",

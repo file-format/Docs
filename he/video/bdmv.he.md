@@ -16,7 +16,7 @@
 "toc":true,
 "title": "פורמט קובץ BDMV - קובץ מידע על סרטי Blu-ray Disc",
    "description":"למד על פורמט BDMV וממשקי API שיכולים ליצור ולפתוח קבצי BDMV.",
-"linktitle": "BDMV",
+   "linktitle":"BDMV",
    "menu":{
       "docs":{
          "identifier":"video-bdmv",

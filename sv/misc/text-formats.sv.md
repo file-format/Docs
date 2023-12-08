@@ -12,7 +12,7 @@
 "toc": true,
 "title": "Textformat, typer och vanliga frågor",
   "description":"Lär dig mer om textformat, typer av textformat, lista över textformat och vanliga frågor",
-"linktitle": "TEXTFORMAT",
+  "linktitle": "TEXT FORMATS",
   "menu": {
     "docs": {
       "identifier": "misc-text-formats",

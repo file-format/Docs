@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CPI-filformat - kodsidasinformationsfil",
    "description":"Läs mer om filformat för CPI-kodsidainformation och API:er som kan skapa och öppna CPI-filer.",
-"linktitle":"CPI",
+   "linktitle":"CPI",
    "menu":{
       "docs":{
          "identifier":"system-cpi",

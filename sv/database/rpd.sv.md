@@ -16,7 +16,7 @@
 "toc": true,
 "title": "RPD-filformat - RIB-projektdatabasfil",
   "description":"Läs mer om RPD-format och API:er som kan skapa och öppna RPD-filer.",
-"linktitle": "RPD",
+  "linktitle": "RPD",
   "menu": {
     "docs": {
       "identifier": "database-rpd",

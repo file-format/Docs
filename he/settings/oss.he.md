@@ -14,7 +14,7 @@
 "toc": true,
 "title": "פורמט קובץ OSS - קובץ חיפוש שמור של Microsoft Outlook",
   "description":"למד על פורמט OSS וממשקי API שיכולים ליצור ולפתוח קובצי OSS.",
-"linktitle": "OSS",
+  "linktitle": "OSS",
   "menu": {
     "docs": {
       "identifier": "settings-oss",

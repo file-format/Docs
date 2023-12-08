@@ -16,7 +16,7 @@
 "toc": true,
 "title": "IT-filformat - Impulse Tracker Module",
   "description":"Läs mer om IT-format och API:er som kan skapa och öppna IT-filer.",
-"linktitle": "IT",
+  "linktitle": "IT",
   "menu": {
     "docs": {
       "identifier": "audio-it",

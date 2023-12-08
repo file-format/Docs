@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ RAW - נתוני תמונה גולמיים",
   "description":"למד על פורמט RAW וממשקי API שיכולים ליצור ולפתוח קובצי RAW.",
-"linktitle": "RAW",
+  "linktitle": "RAW",
   "menu": {
     "docs": {
       "identifier": "image-raw",

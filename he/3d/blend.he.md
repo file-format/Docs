@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ BLEND - קובץ בלנדר 3D",
   "description":"למד על פורמט BLEND וממשקי API שיכולים ליצור ולפתוח קבצי BLEND.",
-"linktitle": "בלנד",
+  "linktitle": "BLEND",
   "menu": {
     "docs": {
       "identifier": "3d-blend",

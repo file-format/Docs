@@ -16,7 +16,7 @@
 "toc":true,
 "title": "פורמט קובץ CAT - קובץ קטלוג Windows",
    "description":"למד על פורמט CAT וממשקי API שיכולים ליצור ולפתוח קבצי CAT.",
-"linktitle": "CAT",
+   "linktitle":"CAT",
    "menu":{
       "docs":{
          "identifier":"system-cat",

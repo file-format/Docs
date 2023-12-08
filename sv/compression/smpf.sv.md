@@ -16,7 +16,7 @@
 "toc": true,
 "title": "SMPF-filformat - Sprite Monkey Project",
   "description":"Läs mer om SMPF-format och API:er som kan skapa och öppna SMPF-filer.",
-"linktitle": "SMPF",
+  "linktitle": "SMPF",
   "menu": {
     "docs": {
       "identifier": "compression-smpf",

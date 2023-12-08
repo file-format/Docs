@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAY-filformat - Casio RAW-bild",
   "description":"Läs mer om BAY-format och API:er som kan skapa och öppna BAY-filer.",
-"linktitle": "BAY",
+  "linktitle": "BAY",
   "menu": {
     "docs": {
       "identifier": "image-bay",

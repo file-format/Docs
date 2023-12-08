@@ -14,7 +14,7 @@
 "toc": true,
 "title": "פורמט קובץ HTTP - תבנית היפרטקסט",
   "description":"למד על פורמט HTT וממשקי API שיכולים ליצור ולפתוח קובצי HTT.",
-"linktitle": "HTT",
+  "linktitle": "HTT",
   "menu": {
     "docs": {
       "identifier": "system-htt",

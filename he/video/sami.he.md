@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ SAMI - קובץ החלפת כתוביות ומטא נתונים",
   "description":"למד על פורמט SAMI וממשקי API שיכולים ליצור ולפתוח קבצי SAMI.",
-"linktitle": "SAMI",
+  "linktitle": "SAMI",
   "menu": {
     "docs": {
       "identifier": "video-sami",

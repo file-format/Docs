@@ -19,7 +19,7 @@
 "toc": true,
 "title": "SUB-filformat - MicroDVD-undertextfil",
   "description":"Läs mer om SUB-format och API:er som kan skapa och öppna SUB-filer.",
-"linktitle": "SUB",
+  "linktitle": "SUB",
   "menu": {
     "docs": {
       "identifier": "video-sub",

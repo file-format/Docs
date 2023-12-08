@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK-filformat - Säkerhetskopieringsfil",
   "description":"Läs mer om BAK Backup-format och API:er som kan skapa och öppna BAK-filer.",
-"linktitle": "BAK Backup",
+  "linktitle": "BAK Backup",
   "menu": {
     "docs": {
       "identifier": "misc-bak-backup",

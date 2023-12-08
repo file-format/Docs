@@ -17,7 +17,7 @@
 "toc":true,
 "title":"PRT-fil - Presentationsmall - Vad är en .prt-fil och hur öppnar jag den?",
    "description":"Läs mer om PRT Presentations mallfilformat och API:er som kan skapa och öppna PRT-filer.",
-"linktitle":"PRT",
+   "linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"data-prt-template",

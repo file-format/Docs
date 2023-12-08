@@ -15,7 +15,7 @@
 "toc": true,
   "description":"למד על פורמט קובץ XAP וממשקי API שיכולים ליצור ולפתוח קובצי XAP.",
 "title": "פורמט קובץ XAP - חבילת יישום Silverlight",
-"linktitle": "XAP",
+  "linktitle": "XAP",
   "menu": {
     "docs": {
       "identifier": "executable-xap",

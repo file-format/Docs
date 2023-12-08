@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ EC3 - קובץ Codec שמע משופר 3",
   "description":"למד על פורמט קובץ EC3 וממשקי API שיכולים ליצור ולפתוח קובצי EC3.",
-"linktitle": "EC3",
+  "linktitle": "EC3",
   "menu": {
     "docs": {
       "identifier": "audio-ec3",

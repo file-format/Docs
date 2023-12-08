@@ -14,7 +14,7 @@
 "toc": true,
 "title": "פורמט קובץ MANIFEST - קובץ מניפסט יישום של Windows",
   "description":"למד על פורמט MANIFEST וממשקי API שיכולים ליצור ולפתוח קבצי MANIFEST.",
-"linktitle": "MANIFEST",
+  "linktitle": "MANIFEST",
   "menu": {
     "docs": {
       "identifier": "system-manifest",

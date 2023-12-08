@@ -15,7 +15,7 @@
 "toc": true,
   "description":"Läs mer om APP-filformat och API:er som kan skapa och öppna APP-filer.",
 "title": "APP-filformat - macOS Application Bundle",
-"linktitle": "APP",
+  "linktitle": "APP",
   "menu": {
     "docs": {
       "identifier": "executable-app",

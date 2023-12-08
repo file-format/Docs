@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ RDP - קובץ תצורה של שולחן עבודה מרוחק",
   "description":"למד על פורמט RDP וממשקי API שיכולים ליצור ולפתוח קבצי RDP.",
-"linktitle": "RDP",
+  "linktitle": "RDP",
   "menu": {
     "docs": {
       "identifier": "settings-rdp",

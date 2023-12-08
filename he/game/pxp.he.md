@@ -14,7 +14,7 @@
 "toc": true,
 "title": "פורמט קובץ PXP - קובץ Counter-Strike PODBot",
   "description":"למד על פורמט PXP וממשקי API שיכולים ליצור ולפתוח קובצי PXP.",
-"linktitle": "PXP",
+  "linktitle": "PXP",
   "menu": {
     "docs": {
       "identifier": "game-pxp",

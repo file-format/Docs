@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CFG-filformat - MAME-konfigurationsfil",
   "description":"Läs mer om CFG MAME-konfigurationsfilformat och API:er som kan skapa och öppna CFG-filer.",
-"linktitle": "CFG MAME",
+  "linktitle": "CFG MAME",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-mame",

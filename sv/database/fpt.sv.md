@@ -16,7 +16,7 @@
 "toc": true,
 "title": "FPT-filformat - FileMaker Pro Databas Memo File",
   "description":"Läs mer om FPT-format och API:er som kan skapa och öppna FPT-filer.",
-"linktitle": "FPT",
+  "linktitle": "FPT",
   "menu": {
     "docs": {
       "identifier": "database-fpt",

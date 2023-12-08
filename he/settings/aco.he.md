@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ ACO - Adobe Photoshop Color Swatch File",
   "description":"למד על פורמט ACO וממשקי API שיכולים ליצור ולפתוח קבצי ACO.",
-"linktitle": "ACO",
+  "linktitle": "ACO",
   "menu": {
     "docs": {
       "identifier": "settings-aco",

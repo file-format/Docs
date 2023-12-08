@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ CFG - קובץ תצורה של Celestia",
   "description":"למד על פורמט קבצי תצורה של CFG Celestia וממשקי API שיכולים ליצור ולפתוח קובצי CFG.",
-"linktitle": "CFG Celestia",
+  "linktitle": "CFG Celestia",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-celestia",

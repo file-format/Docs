@@ -16,7 +16,7 @@
 "toc": true,
 "title": "P3T-filformat - PlayStation 3-temafil",
   "description":"Läs mer om P3T-format och API:er som kan skapa och öppna P3T-filer.",
-"linktitle": "P3T",
+  "linktitle": "P3T",
   "menu": {
     "docs": {
       "identifier": "game-p3t",

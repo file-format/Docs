@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ DESKTHEMEPACK - קובץ ערכת ערכת ערכות נושא של Windows 10",
   "description":"למד על פורמט DESKTHEMEPACK וממשקי API שיכולים ליצור ולפתוח קבצי DESKTHEMEPACK.",
-"linktitle": "DESKTHEMEPACK",
+  "linktitle": "DESKTHEMEPACK",
   "menu": {
     "docs": {
       "identifier": "system-deskthemepack",

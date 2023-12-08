@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ APM - תמונת מטא-קובץ ניתנת להצבה של Aldus",
   "description":"למד על פורמט APM וממשקי API שיכולים ליצור ולפתוח קובצי APM.",
-"linktitle": "APM",
+  "linktitle": "APM",
   "menu": {
     "docs": {
       "identifier": "image-apm",

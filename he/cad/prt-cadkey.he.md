@@ -17,7 +17,7 @@
 "toc":true,
 "title": "פורמט קובץ PRT - קובץ חלק של CADKEY",
    "description":"למד על פורמט קובץ PRT CADKEY Part וממשקי API שיכולים ליצור ולפתוח קובצי PRT.",
-"linktitle": "PRT CADKEY",
+   "linktitle":"PRT CADKEY",
    "menu":{
       "docs":{
          "identifier":"cad-prt-cadkey",

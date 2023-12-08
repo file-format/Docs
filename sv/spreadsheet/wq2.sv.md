@@ -15,7 +15,7 @@
 "toc": true,
 "title": "WQ2-filformat - Quattro Pro för DOS-kalkylbladsfil",
   "description":"Läs mer om WQ2-filformat och API:er som kan skapa och öppna WQ2-filer.",
-"linktitle": "WQ2",
+  "linktitle": "WQ2",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-wq2",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ LANG - קובץ לוקליזציה של שפת Minecraft",
   "description":"למד על פורמט LANG וממשקי API שיכולים ליצור ולפתוח קבצי LANG.",
-"linktitle": "LANG",
+  "linktitle": "LANG",
   "menu": {
     "docs": {
       "identifier": "game-lang",

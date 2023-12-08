@@ -17,7 +17,7 @@
 "toc":true,
 "title": "פורמט קובץ PAT - קובץ דפוס CorelDRAW",
    "description":"למד על פורמט קובץ PAT CorelDRAW Pattern וממשקי API שיכולים ליצור ולפתוח קובצי PAT.",
-"linktitle": "PAT CorelDRAW",
+   "linktitle":"PAT CorelDRAW",
    "menu":{
       "docs":{
          "identifier":"image-pat-coreldraw",

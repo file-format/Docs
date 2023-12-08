@@ -14,7 +14,7 @@
 "toc": true,
 "title": "OSS-filformat - Microsoft Outlook sparad sökfil",
   "description":"Läs mer om OSS-format och API:er som kan skapa och öppna OSS-filer.",
-"linktitle": "OSS",
+  "linktitle": "OSS",
   "menu": {
     "docs": {
       "identifier": "settings-oss",

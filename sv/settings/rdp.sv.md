@@ -16,7 +16,7 @@
 "toc": true,
 "title": "RDP-filformat - konfigurationsfil för fjärrskrivbord",
   "description":"Läs mer om RDP-format och API:er som kan skapa och öppna RDP-filer.",
-"linktitle": "RDP",
+  "linktitle": "RDP",
   "menu": {
     "docs": {
       "identifier": "settings-rdp",

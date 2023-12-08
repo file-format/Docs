@@ -14,7 +14,7 @@
 "toc": true,
 "title": "פורמט קובץ IPSW - קובץ עדכון תוכנה לאייפון",
   "description":"למד על פורמט IPSW וממשקי API שיכולים ליצור ולפתוח קובצי IPSW.",
-"linktitle": "IPSW",
+  "linktitle": "IPSW",
   "menu": {
     "docs": {
       "identifier": "misc-ipsw",

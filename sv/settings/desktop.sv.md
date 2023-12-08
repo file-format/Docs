@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Skrivbordsfilformat - Skrivbordsfil",
   "description":"Läs mer om DESKTOP-format och API:er som kan skapa och öppna DESKTOP-filer.",
-"linktitle": "SKRIVBORD",
+  "linktitle": "DESKTOP",
   "menu": {
     "docs": {
       "identifier": "settings-desktop",

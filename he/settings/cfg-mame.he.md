@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ CFG - קובץ תצורה של MAME",
   "description":"למד על פורמט קבצי תצורה של CFG MAME וממשקי API שיכולים ליצור ולפתוח קובצי CFG.",
-"linktitle": "CFG MAME",
+  "linktitle": "CFG MAME",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-mame",

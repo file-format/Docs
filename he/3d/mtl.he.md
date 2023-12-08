@@ -17,7 +17,7 @@
 "toc":true,
 "title": "פורמט קובץ MTL - קובץ ספריית תבניות חומר OBJ",
    "description":"למד על פורמט הקבצים של ספריית תבניות החומר של MTL OBJ ועל ממשקי API שיכולים ליצור ולפתוח קובצי MTL.",
-"linktitle": "MTL",
+   "linktitle":"MTL",
    "menu":{
       "docs":{
          "identifier":"3d-mtl",

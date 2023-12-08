@@ -16,7 +16,7 @@
 "toc": true,
 "title": "PAN-filformat - Panoramadatabasfil",
   "description":"Läs mer om PAN-format och API:er som kan skapa och öppna PAN-filer.",
-"linktitle": "PANERA",
+  "linktitle": "PAN",
   "menu": {
     "docs": {
       "identifier": "database-pan",

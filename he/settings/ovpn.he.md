@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ OVPN - קובץ תצורה של OpenVPN",
   "description":"למד על פורמט OVPN וממשקי API שיכולים ליצור ולפתוח קובצי OVPN.",
-"linktitle": "OVPN",
+  "linktitle": "OVPN",
   "menu": {
     "docs": {
       "identifier": "settings-ovpn",

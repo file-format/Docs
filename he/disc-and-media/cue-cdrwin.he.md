@@ -17,7 +17,7 @@
 "toc":true,
 "title": "פורמט קובץ CUE - גיליון רמזים של CDRWIN",
    "description":"למד על פורמט קובץ CUE CDRWIN Cue Sheet וממשקי API שיכולים ליצור ולפתוח קובצי CUE.",
-"linktitle": "CUE CDRWIN",
+   "linktitle":"CUE CDRWIN",
    "menu":{
       "docs":{
          "identifier":"disc-and-media-cue-cdrwin",

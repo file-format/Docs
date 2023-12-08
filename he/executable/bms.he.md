@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ BMS - QuickBMS Script",
   "description":"למד על פורמט BMS וממשקי API שיכולים ליצור ולפתוח קובצי BMS.",
-"linktitle": "BMS",
+  "linktitle": "BMS",
   "menu": {
     "docs": {
       "identifier": "executable-bms",

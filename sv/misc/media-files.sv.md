@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Vad är mediefiler? Typer, format och deras inverkan på digital kommunikation",
   "description":"Lär dig mer om mediefiler, deras typer, format och inverkan på digital kommunikation.",
-"linktitle": "MEDIAFILER",
+  "linktitle": "MEDIA FILES",
   "menu": {
     "docs": {
       "identifier": "misc-media-files",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "HPP-filformat - C++ Header File",
   "description":"Läs mer om HPP-format och API:er som kan skapa och öppna HPP-filer.",
-"linktitle": "HPP",
+  "linktitle": "HPP",
   "menu": {
     "docs": {
       "identifier": "programming-hpp",

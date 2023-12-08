@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ SQX - ארכיון SQX",
   "description":"למד על פורמט SQX וממשקי API שיכולים ליצור ולפתוח קבצי SQX.",
-"linktitle": "SQX",
+  "linktitle": "SQX",
   "menu": {
     "docs": {
       "identifier": "compression-sqx",

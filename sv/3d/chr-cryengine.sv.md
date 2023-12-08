@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CHR-filformat - CryENGINE-teckenfil",
    "description":"Läs mer om CHR CryENGINE Character-filformat och API:er som kan skapa och öppna CHR-filer.",
-"linktitle":"CHR CryENGINE",
+   "linktitle":"CHR CryENGINE",
    "menu":{
       "docs":{
          "identifier":"3d-chr-cryengine",

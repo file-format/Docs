@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ BAK - Terraria World או גיבוי נגן",
   "description":"למד על פורמט משחקי BAK Terraria וממשקי API שיכולים ליצור ולפתוח קבצי BAK.",
-"linktitle": "BAK TERRARIA",
+  "linktitle": "BAK TERRARIA",
   "menu": {
     "docs": {
       "identifier": "game-bak-terraria",

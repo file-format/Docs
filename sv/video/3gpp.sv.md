@@ -17,7 +17,7 @@
 "toc": true,
 "title": "3GPP-filformat - 3GPP-mediafil",
   "description":"Läs mer om 3GPP-format och API:er som kan skapa och öppna 3GPP-filer.",
-"linktitle": "3GPP",
+  "linktitle": "3GPP",
   "menu": {
     "docs": {
       "identifier": "video-3gpp",

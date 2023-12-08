@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ CFG - קובץ תצורה של LightWave",
   "description":"למד על פורמט קבצי תצורה של CFG LightWave וממשקי API שיכולים ליצור ולפתוח קובצי CFG.",
-"linktitle": "CFG LightWave",
+  "linktitle": "CFG LightWave",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-lightwave",

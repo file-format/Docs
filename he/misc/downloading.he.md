@@ -15,7 +15,7 @@
 "toc": true,
 "title": "הורדת פורמט קובץ - קובץ הורדה לא הושלם של Pando",
   "description":"למד על פורמט הורדה וממשקי API שיכולים ליצור ולפתוח קבצי DOWNLOADING.",
-"linktitle": "מורידים",
+  "linktitle": "DOWNLOADING",
   "menu": {
     "docs": {
       "identifier": "misc-downloading",

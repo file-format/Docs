@@ -17,7 +17,7 @@
 "toc":true,
 "title": "קובץ ZOO - מהו קובץ zoo ואיך פותחים אותו?",
    "description":"למד על פורמט קובץ דחוס של ZOO וממשקי API שיכולים ליצור ולפתוח קבצי ZOO.",
-"linktitle": "גן חיות",
+   "linktitle":"ZOO",
    "menu":{
       "docs":{
          "identifier":"compression-zoo",

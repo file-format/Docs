@@ -14,7 +14,7 @@
 "toc": true,
 "title": "MANIFEST-filformat - Windows Application Manifest-fil",
   "description":"Läs mer om MANIFEST-format och API:er som kan skapa och öppna MANIFEST-filer.",
-"linktitle": "MANIFEST",
+  "linktitle": "MANIFEST",
   "menu": {
     "docs": {
       "identifier": "system-manifest",

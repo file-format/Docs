@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ BDC - קובץ עיצוב של West Point Bridge Designer",
   "description":"למד על פורמט קובץ BDC וממשקי API שיכולים ליצור ולפתוח קובצי BDC.",
-"linktitle": "BDC",
+  "linktitle": "BDC",
   "menu": {
     "docs": {
       "identifier": "cad-bdc",

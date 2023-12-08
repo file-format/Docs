@@ -17,7 +17,7 @@
 "toc":true,
 "title":"SHADER-filformat - Quake 3 Engine Shader-fil",
    "description":"Läs mer om SHADER Quake 3 Engine Shader-filformat och API:er som kan skapa och öppna SHADER-filer.",
-"linktitle":"SHADER Quake",
+   "linktitle":"SHADER Quake",
    "menu":{
       "docs":{
          "identifier":"game-shader-quake",

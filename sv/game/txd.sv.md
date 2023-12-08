@@ -15,7 +15,7 @@
 "toc": true,
 "title": "TXD-filformat - Game Texture Dictionary",
   "description":"Läs mer om TXD-format och API:er som kan skapa och öppna TXD-filer.",
-"linktitle": "TXD",
+  "linktitle": "TXD",
   "menu": {
     "docs": {
       "identifier": "game-txd",

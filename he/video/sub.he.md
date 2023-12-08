@@ -19,7 +19,7 @@
 "toc": true,
 "title": "פורמט קובץ SUB - קובץ כתוביות MicroDVD",
   "description":"למד על פורמט SUB וממשקי API שיכולים ליצור ולפתוח קובצי SUB.",
-"linktitle": "SUB",
+  "linktitle": "SUB",
   "menu": {
     "docs": {
       "identifier": "video-sub",

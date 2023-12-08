@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ CFG - קובץ שפת סימון של Wesnoth",
   "description":"למד על פורמט קובץ ו-API של CFG Wesnoth Markup Language שיכולים ליצור ולפתוח קבצי CFG.",
-"linktitle": "CFG Wesnoth",
+  "linktitle": "CFG Wesnoth",
   "menu": {
     "docs": {
       "identifier": "game-cfg-wesnoth",

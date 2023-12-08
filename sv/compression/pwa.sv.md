@@ -15,7 +15,7 @@
 "toc": true,
 "title": "PWA-filformat - lösenordsagentfil",
   "description":"Läs mer om PWA-format och API:er som kan skapa och öppna PWA-filer.",
-"linktitle": "PWA",
+  "linktitle": "PWA",
   "menu": {
     "docs": {
       "identifier": "compression-pwa",

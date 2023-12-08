@@ -14,7 +14,7 @@
 "toc": true,
 "title": "מהו ממיר וידאו? המדריך האולטימטיבי לממירי וידאו",
   "description":"למד על ממירי וידאו, פורמטים, שאלות נפוצות והכלים הטובים ביותר",
-"linktitle": "ממיר וידאו",
+  "linktitle": "VIDEO CONVERTER",
   "menu": {
     "docs": {
       "identifier": "misc-video-converter",

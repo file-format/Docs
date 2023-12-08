@@ -17,7 +17,7 @@
 "toc":true,
 "title": "קובץ INK - הפניה לפנטון - מהו קובץ .ink וכיצד לפתוח אותו?",
    "description":"למד על פורמט קובץ INK Pantone Reference וממשקי API שיכולים ליצור ולפתוח קובצי INK.",
-"linktitle": "INK",
+   "linktitle":"INK",
    "menu":{
       "docs":{
          "identifier":"image-ink",

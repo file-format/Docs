@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ CFG - קובץ תצורה של MUGEN",
   "description":"למד על פורמט קבצי תצורה של CFG MUGEN וממשקי API שיכולים ליצור ולפתוח קובצי CFG.",
-"linktitle": "CFG MUGEN",
+  "linktitle": "CFG M.U.G.E.N",
   "menu": {
     "docs": {
       "identifier": "game-cfg-mugen",

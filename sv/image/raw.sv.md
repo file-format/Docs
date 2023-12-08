@@ -17,7 +17,7 @@
 "toc": true,
 "title": "RAW-filformat - råbildsdata",
   "description":"Läs mer om RAW-format och API:er som kan skapa och öppna RAW-filer.",
-"linktitle": "RAW",
+  "linktitle": "RAW",
   "menu": {
     "docs": {
       "identifier": "image-raw",

@@ -17,7 +17,7 @@
 "toc":true,
 "title":"PRT-filformat - Creo Parametrisk del",
    "description":"Lär dig om PRT Creo Parametric Part-filformat och API:er som kan skapa och öppna PRT-filer.",
-"linktitle":"PRT",
+   "linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"cad-prt-creo",

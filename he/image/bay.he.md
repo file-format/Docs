@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ BAY - תמונת Casio RAW",
   "description":"למד על פורמט BAY וממשקי API שיכולים ליצור ולפתוח קבצי BAY.",
-"linktitle": "BAY",
+  "linktitle": "BAY",
   "menu": {
     "docs": {
       "identifier": "image-bay",

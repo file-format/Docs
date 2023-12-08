@@ -15,7 +15,7 @@
 "toc": true,
 "title": "DESKTHEMEPACK-filformat - Windows 10 Desktop Theme Pack-fil",
   "description":"Läs mer om DESKTHEMEPACK-format och API:er som kan skapa och öppna DESKTHEMEPACK-filer.",
-"linktitle": "DESKTHEMEPACK",
+  "linktitle": "DESKTHEMEPACK",
   "menu": {
     "docs": {
       "identifier": "system-deskthemepack",

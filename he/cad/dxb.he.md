@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ DXB - Drawing Exchange Binary",
   "description":"למד על פורמט DXB וממשקי API שיכולים ליצור ולפתוח קובצי DXB.",
-"linktitle": "DXB",
+  "linktitle": "DXB",
   "menu": {
     "docs": {
       "identifier": "cad-dxb",

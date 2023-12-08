@@ -17,7 +17,7 @@
 "toc":true,
 "title": "פורמט קובץ DVD - מנהל התקן DOS",
    "description":"למד על פורמט הקובץ של DVD MS-DOS Device Driver וממשקי API שיכולים ליצור ולפתוח קבצי DVD.",
-"linktitle": "DVD",
+   "linktitle":"DVD",
    "menu":{
       "docs":{
          "identifier":"system-dvd-dos",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ CB7 - Comic Book 7-Zip Archive",
   "description":"למד על פורמט CB7 וממשקי API שיכולים ליצור ולפתוח קבצי CB7.",
-"linktitle": "CB7",
+  "linktitle": "CB7",
   "menu": {
     "docs": {
       "identifier": "compression-cb7",

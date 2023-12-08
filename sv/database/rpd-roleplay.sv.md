@@ -17,7 +17,7 @@
 "toc": true,
 "title": "RPD-filformat - rollspelsdesignerdatafil",
   "description":"Lär dig om RPD Roleplay Designer Data File-format och API:er som kan skapa och öppna RPD-filer.",
-"linktitle": "RPD-rollspel",
+  "linktitle": "RPD Roleplay",
   "menu": {
     "docs": {
       "identifier": "database-rpd-roleplay",

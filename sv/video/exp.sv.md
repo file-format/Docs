@@ -15,7 +15,7 @@
 "toc": true,
 "title": "EXP-filformat - DX-serien exporterad videofil",
   "description":"Läs mer om EXP-format och API:er som kan skapa och öppna EXP-filer.",
-"linktitle": "EXP",
+  "linktitle": "EXP",
   "menu": {
     "docs": {
       "identifier": "video-exp",

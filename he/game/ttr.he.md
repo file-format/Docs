@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ TTR - הפעלה חוזרת של TETR.IO",
   "description":"למד על פורמט TTR וממשקי API שיכולים ליצור ולפתוח קבצי TTR.",
-"linktitle": "TTR",
+  "linktitle": "TTR",
   "menu": {
     "docs": {
       "identifier": "game-ttr",

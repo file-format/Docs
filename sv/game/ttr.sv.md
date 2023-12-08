@@ -15,7 +15,7 @@
 "toc": true,
 "title": "TTR-filformat - TETR.IO Replay",
   "description":"Läs mer om TTR-format och API:er som kan skapa och öppna TTR-filer.",
-"linktitle": "TTR",
+  "linktitle": "TTR",
   "menu": {
     "docs": {
       "identifier": "game-ttr",

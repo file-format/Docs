@@ -17,7 +17,7 @@
 "toc":true,
 "title":"פורמט קובץ CAF - קובץ אנימציה בינארית Cal3D",
    "description":"למד על פורמט קבצי אנימציה בינארי CAF Cal3D וממשקי API שיכולים ליצור ולפתוח קובצי CAF.",
-"linktitle": "CAF Cal3D",
+   "linktitle":"CAF Cal3D",
    "menu":{
       "docs":{
          "identifier":"3d-caf-cal3d",

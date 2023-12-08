@@ -16,7 +16,7 @@
 "toc": true,
 "title": "CSX-filformat - Visual C# Script",
   "description":"Läs mer om CSX-format och API:er som kan skapa och öppna CSX-filer.",
-"linktitle": "CSX",
+  "linktitle": "CSX",
   "menu": {
     "docs": {
       "identifier": "programming-csx",

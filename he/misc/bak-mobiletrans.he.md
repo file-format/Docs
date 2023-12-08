@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ BAK - גיבוי MobileTrans",
   "description":"למד על פורמט BAK MobileTrans וממשקי API שיכולים ליצור ולפתוח קבצי BAK.",
-"linktitle": "BAK MobileTrans",
+  "linktitle": "BAK MobileTrans",
   "menu": {
     "docs": {
       "identifier": "misc-bak-mobiletrans",

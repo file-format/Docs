@@ -17,7 +17,7 @@
 "toc":true,
 "title":"PK3-filformat - Quake 3 Engine-speldata",
    "description":"Läs mer om PK3 Quake 3 Engine Game Data filformat och API:er som kan skapa och öppna PK3-filer.",
-"linktitle":"PK3",
+   "linktitle":"PK3",
    "menu":{
       "docs":{
          "identifier":"game-pk3-quake3",

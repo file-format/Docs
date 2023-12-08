@@ -17,7 +17,7 @@
 "toc":true,
 "title": "קובץ CDR - קובץ נתוני אחזור נתונים מהתרסקות - מהו קובץ .cdr וכיצד אוכל לפתוח אותו?",
    "description":"למד על פורמט קובץ נתוני CDR Crash Data Retrieval וממשקי API שיכולים ליצור ולפתוח קובצי CDR.",
-"linktitle": "CDR",
+   "linktitle":"CDR",
    "menu":{
       "docs":{
          "identifier":"data-cdr-crash",

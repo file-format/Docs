@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ IT - מודול אימפולס Tracker",
   "description":"למד על פורמט IT וממשקי API שיכולים ליצור ולפתוח קובצי IT.",
-"linktitle": "IT",
+  "linktitle": "IT",
   "menu": {
     "docs": {
       "identifier": "audio-it",

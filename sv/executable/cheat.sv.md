@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CHEAT-filformat - Navi Cheatsheet",
   "description":"Läs mer om CHEAT-format och API:er som kan skapa och öppna CHEAT-filer.",
-"linktitle": "FUSK",
+  "linktitle": "CHEAT",
   "menu": {
     "docs": {
       "identifier": "executable-cheat",

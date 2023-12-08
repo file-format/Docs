@@ -14,7 +14,7 @@
 "toc": true,
 "title": "פורמט קובץ REG - קובץ הרישום של Windows",
   "description":"למד על פורמט REG וממשקי API שיכולים ליצור ולפתוח קובצי REG.",
-"linktitle": "REG",
+  "linktitle": "REG",
   "menu": {
     "docs": {
       "identifier": "system-reg",

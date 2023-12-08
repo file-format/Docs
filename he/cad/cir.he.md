@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ CIR - קובץ סכמטי של Micro-Cap",
   "description":"למד על פורמט קובץ CIR וממשקי API שיכולים ליצור ולפתוח קובצי CIR.",
-"linktitle": "CIR",
+  "linktitle": "CIR",
   "menu": {
     "docs": {
       "identifier": "cad-cir",

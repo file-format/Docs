@@ -15,7 +15,7 @@
 "toc":true,
 "title":"PAR-filformat - Dedikerad Micros DVR-inspelning",
    "description":"Läs mer om PAR-format och API:er som kan skapa och öppna PAR-filer.",
-"linktitle":"PAR",
+   "linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"video-par",

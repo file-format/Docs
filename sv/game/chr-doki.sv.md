@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CHR-filformat - Doki Doki Litteraturklubb! Karaktärsfil",
    "description":"Lär dig mer om CHR Doki Doki Literature Club! Karaktärsfilformat och API:er som kan skapa och öppna CHR-filer.",
-"linktitle":"CHR Doki",
+   "linktitle":"CHR Doki",
    "menu":{
       "docs":{
          "identifier":"game-chr-doki",

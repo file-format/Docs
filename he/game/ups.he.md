@@ -17,7 +17,7 @@
 "toc":true,
 "title": "פורמט קובץ UPS - קובץ תיקון UPS",
    "description":"למד על פורמט UPS Patch File וממשקי API שיכולים ליצור ולפתוח קבצי UPS.",
-"linktitle": "UPS",
+   "linktitle":"UPS",
    "menu":{
       "docs":{
          "identifier":"game-ups",

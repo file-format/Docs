@@ -17,7 +17,7 @@
 "toc":true,
 "title":"M2V-filformat - MPEG-2-video",
    "description":"Läs mer om M2V MPEG-2-videofilformat och API:er som kan skapa och öppna M2V-filer.",
-"linktitle":"M2V",
+   "linktitle":"M2V",
    "menu":{
       "docs":{
          "identifier":"video-m2v",

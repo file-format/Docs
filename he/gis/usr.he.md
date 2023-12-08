@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ USR - Lowrance GPS Data File",
   "description":"למד על פורמט USR וממשקי API שיכולים ליצור ולפתוח קובצי USR.",
-"linktitle": "USR",
+  "linktitle": "USR",
   "menu": {
     "docs": {
       "identifier": "gis-usr",

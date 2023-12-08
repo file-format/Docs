@@ -14,7 +14,7 @@
 "toc": true,
 "title": "REGTRANS-MS-filformat - Registertransaktionsloggfil",
   "description":"Lär dig om REGTRANS-MS-format och API:er som kan skapa och öppna REGTRANS-MS-filer.",
-"linktitle": "REGTRANS-MS",
+  "linktitle": "REGTRANS-MS",
   "menu": {
     "docs": {
       "identifier": "system-regtrans-ms",

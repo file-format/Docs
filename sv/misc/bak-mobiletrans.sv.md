@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK-filformat - MobileTrans Backup",
   "description":"Lär dig om BAK MobileTrans-format och API:er som kan skapa och öppna BAK-filer.",
-"linktitle": "BAK MobileTrans",
+  "linktitle": "BAK MobileTrans",
   "menu": {
     "docs": {
       "identifier": "misc-bak-mobiletrans",

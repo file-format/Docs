@@ -15,7 +15,7 @@
 "toc": true,
 "title": "BLEND-filformat - Blender 3D-fil",
   "description":"Läs mer om BLEND-format och API:er som kan skapa och öppna BLEND-filer.",
-"linktitle": "BLANDA",
+  "linktitle": "BLEND",
   "menu": {
     "docs": {
       "identifier": "3d-blend",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "פורמט קובץ MPEG - וידאו MPEG",
   "description":"למד על פורמט MPEG וממשקי API שיכולים ליצור ולפתוח קובצי MPEG.",
-"linktitle": "MPEG",
+  "linktitle": "MPEG",
   "menu": {
     "docs": {
       "identifier": "video-mpeg",

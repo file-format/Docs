@@ -17,7 +17,7 @@
 "toc": true,
 "title": "MSCZ-filformat - MuseScore Compressed Score File",
   "description":"Läs mer om MSCZ-format och API:er som kan skapa och öppna MSCZ-filer.",
-"linktitle": "MSCZ",
+  "linktitle": "MSCZ",
   "menu": {
     "docs": {
       "identifier": "audio-mscz",

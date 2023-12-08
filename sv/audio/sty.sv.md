@@ -15,7 +15,7 @@
 "toc": true,
 "title": "STY-filformat - Yamaha eller Korg Keyboard Style",
   "description":"Läs mer om STY-format och API:er som kan skapa och öppna STY-filer.",
-"linktitle": "STY",
+  "linktitle": "STY",
   "menu": {
     "docs": {
       "identifier": "audio-sty",

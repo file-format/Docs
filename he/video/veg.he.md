@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ VEG - MAGIX VEGAS Video Project",
   "description":"למד על פורמט קבצי VEG וממשקי API שיכולים ליצור ולפתוח קובצי VEG.",
-"linktitle": "VEG",
+  "linktitle": "VEG",
   "menu": {
     "docs": {
       "identifier": "video-veg",

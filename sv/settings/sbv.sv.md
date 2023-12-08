@@ -15,7 +15,7 @@
 "toc": true,
 "title": "SBV-filformat - YouTube Captions File",
   "description":"Läs mer om SBV-format och API:er som kan skapa och öppna SBV-filer.",
-"linktitle": "SBV",
+  "linktitle": "SBV",
   "menu": {
     "docs": {
       "identifier": "settings-sbv",

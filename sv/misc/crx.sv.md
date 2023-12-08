@@ -18,7 +18,7 @@
 "toc": true,
 "title": "CRX-filformat - Google Chrome-tillägg",
   "description":"Lär dig mer om CRX-format och API:er som kan skapa och öppna CRX-filer.",
-"linktitle": "CRX",
+  "linktitle": "CRX",
   "menu": {
     "docs": {
       "identifier": "misc-crx",

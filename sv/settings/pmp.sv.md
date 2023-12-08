@@ -15,7 +15,7 @@
 "toc": true,
 "title": "PMP-filformat - AutoCAD Plot Model Parameter File",
   "description":"Läs mer om PMP-format och API:er som kan skapa och öppna PMP-filer.",
-"linktitle": "PMP",
+  "linktitle": "PMP",
   "menu": {
     "docs": {
       "identifier": "settings-pmp",

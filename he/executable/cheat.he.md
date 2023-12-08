@@ -17,7 +17,7 @@
 "toc": true,
 "title": "פורמט קובץ CHEAT - Navi Cheatsheet",
   "description":"למד על פורמט CHEAT וממשקי API שיכולים ליצור ולפתוח קובצי CHEAT.",
-"linktitle": "CHEAT",
+  "linktitle": "CHEAT",
   "menu": {
     "docs": {
       "identifier": "executable-cheat",

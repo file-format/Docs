@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ PMP - קובץ פרמטרים של דגם עלילת AutoCAD",
   "description":"למד על פורמט PMP וממשקי API שיכולים ליצור ולפתוח קבצי PMP.",
-"linktitle": "PMP",
+  "linktitle": "PMP",
   "menu": {
     "docs": {
       "identifier": "settings-pmp",

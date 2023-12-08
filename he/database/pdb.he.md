@@ -17,7 +17,7 @@
 "toc": true,
 "title": "מהם קבצי PDB? הבנת קבצי PDB: כלי חיוני לביולוגיה מבנית",
   "description":"למד על מה הם קבצי PDB? הבנת קבצי PDB: כלי חיוני לביולוגיה מבנית",
-"linktitle": "PDB",
+  "linktitle": "PDB",
   "menu": {
     "docs": {
       "identifier": "database-pdb",

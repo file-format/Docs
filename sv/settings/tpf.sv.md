@@ -14,7 +14,7 @@
 "toc": true,
 "title": "TPF-filformat - IBM SPSS Text Wizard Document",
   "description":"Läs mer om TPF-format och API:er som kan skapa och öppna TPF-filer.",
-"linktitle": "TPF",
+  "linktitle": "TPF",
   "menu": {
     "docs": {
       "identifier": "settings-tpf",

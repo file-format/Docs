@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ AFS - קובץ פרויקט STAAD.foundation",
   "description":"למד על פורמט קובץ AFS וממשקי API שיכולים ליצור ולפתוח קובצי AFS.",
-"linktitle": "AFS",
+  "linktitle": "AFS",
   "menu": {
     "docs": {
       "identifier": "cad-afs",

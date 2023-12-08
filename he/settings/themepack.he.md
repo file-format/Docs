@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ THEMEPACK - ערכת ערכות נושא של Windows 7",
   "description":"למד על פורמט THEMEPACK וממשקי API שיכולים ליצור ולפתוח קבצי THEMEPACK.",
-"linktitle": "THEMEPACK",
+  "linktitle": "THEMEPACK",
   "menu": {
     "docs": {
       "identifier": "settings-themepack",

@@ -15,7 +15,7 @@
 "toc": true,
   "description":"Läs mer om XAP-filformat och API:er som kan skapa och öppna XAP-filer.",
 "title": "XAP-filformat - Silverlight Application Package",
-"linktitle": "XAP",
+  "linktitle": "XAP",
   "menu": {
     "docs": {
       "identifier": "executable-xap",

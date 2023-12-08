@@ -15,7 +15,7 @@
 "toc": true,
 "title": "פורמט קובץ FLP - קובץ פרויקט FL Studio",
   "description":"למד על פורמט קובץ FLP וממשקי API שיכולים ליצור ולפתוח קובצי FLP.",
-"linktitle": "FLP",
+  "linktitle": "FLP",
   "menu": {
     "docs": {
       "identifier": "audio-flp",

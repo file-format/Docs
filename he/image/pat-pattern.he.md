@@ -17,7 +17,7 @@
 "toc":true,
 "title": "פורמט קובץ PAT - קובץ דפוס",
    "description":"למד על פורמט קובץ PAT Pattern וממשקי API שיכולים ליצור ולפתוח קובצי PAT.",
-"linktitle": "דפוס PAT",
+   "linktitle":"PAT Pattern",
    "menu":{
       "docs":{
          "identifier":"image-pat-pattern",
