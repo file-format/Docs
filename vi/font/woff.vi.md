@@ -7,10 +7,10 @@
   "draft" : "false",
   "toc" : true,
   "title" :"WOFF - Định dạng tệp mở trên web",
-  "linktitle" : "WOFF",
+  "description":"Tệp WOFF là định dạng phông chữ mở được tạo trong Định dạng phông chữ mở trên web.",
   "linktitle" : "WOFF",
   "menu" : {
-      "parent" : "font"
+    "docs" : {
       "parent" : "font"
 }
 },

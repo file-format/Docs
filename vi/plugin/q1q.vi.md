@@ -10,7 +10,7 @@
   "linktitle" : "Q1Q",
   "menu" : {
     "docs" : {
-      "parent" : "plugin"
+      "parent" : "plugin",
       "identifier":"plugin-vi-q1q"
 }
 },
